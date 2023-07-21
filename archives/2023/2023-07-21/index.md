@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
+* [2023-07-21, 17:00:57](https://news.ycombinator.com/item?id=36816387) - ['Mystery company' buys land worth $800M near Travis AFB, raising concerns](https://abc7news.com/travis-afb-air-force-base-flannery-associates-llc-john-garamendi/13527836/)
+* [2023-07-21, 16:50:28](https://news.ycombinator.com/item?id=36816212) - [Sam Bankman-Fried wanted to buy a bunker in Nauru to wait out the world's end](https://qz.com/sam-bankman-fried-ftx-nauru-court-case-money-laundering-1850662899)
 * [2023-07-21, 16:32:41](https://news.ycombinator.com/item?id=36815902) - [Warcraft fans claim win over AI with Glorbo prank](https://www.bbc.com/news/newsbeat-66266344)
 * [2023-07-21, 16:25:03](https://news.ycombinator.com/item?id=36815781) - [Diablo](https://www.filfre.net/2023/07/diablo/)
 * [2023-07-21, 16:22:20](https://news.ycombinator.com/item?id=36815744) - [‘World of Warcraft’ Players Trick AI-Scraping Website into Publishing Nonsense](https://www.forbes.com/sites/paultassi/2023/07/21/world-of-warcraft-players-trick-ai-scraping-games-website-into-publishing-nonsense/)

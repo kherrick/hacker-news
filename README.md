@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-21, 17:00:57](https://news.ycombinator.com/item?id=36816387) - ['Mystery company' buys land worth $800M near Travis AFB, raising concerns](https://abc7news.com/travis-afb-air-force-base-flannery-associates-llc-john-garamendi/13527836/)
+* [2023-07-21, 16:50:28](https://news.ycombinator.com/item?id=36816212) - [Sam Bankman-Fried wanted to buy a bunker in Nauru to wait out the world's end](https://qz.com/sam-bankman-fried-ftx-nauru-court-case-money-laundering-1850662899)
 * [2023-07-21, 16:32:41](https://news.ycombinator.com/item?id=36815902) - [Warcraft fans claim win over AI with Glorbo prank](https://www.bbc.com/news/newsbeat-66266344)
 * [2023-07-21, 16:25:03](https://news.ycombinator.com/item?id=36815781) - [Diablo](https://www.filfre.net/2023/07/diablo/)
 * [2023-07-21, 16:22:20](https://news.ycombinator.com/item?id=36815744) - [‘World of Warcraft’ Players Trick AI-Scraping Website into Publishing Nonsense](https://www.forbes.com/sites/paultassi/2023/07/21/world-of-warcraft-players-trick-ai-scraping-games-website-into-publishing-nonsense/)
@@ -15,10 +17,8 @@
 * [2023-07-21, 12:52:09](https://news.ycombinator.com/item?id=36813180) - [How to restore nature and supercharge food production](https://www.unep.org/news-and-stories/story/why-restoring-nature-good-farmers-fisheries-and-food-security)
 * [2023-07-21, 12:38:14](https://news.ycombinator.com/item?id=36813086) - [Show HN: Primo – a visual CMS with Svelte blocks, a code editor, and SSG](https://primocms.org)
 * [2023-07-21, 12:04:49](https://news.ycombinator.com/item?id=36812848) - [Rethinking Infrastructure as Code from Scratch](https://nathanpeck.com/rethinking-infrastructure-as-code-from-scratch/)
-* [2023-07-21, 11:53:14](https://news.ycombinator.com/item?id=36812765) - [Data breach exposes personal information of 4k Roblox developers](https://www.theverge.com/2023/7/21/23802742/roblox-data-breach-leak-developer-personal-information-exposed)
 * [2023-07-21, 10:45:52](https://news.ycombinator.com/item?id=36812256) - [Tell HN: Upgrade your Metabase installation immediately](https://github.com/metabase/metabase/releases/tag/v0.46.6.1)
 * [2023-07-21, 10:30:55](https://news.ycombinator.com/item?id=36812175) - [Small Joys with Odin](http://www.zannzen.com/blog/small_joys_with_odin_1/)
-* [2023-07-21, 09:04:41](https://news.ycombinator.com/item?id=36811646) - [Moving AI governance forward – openai.com](https://openai.com/blog/moving-ai-governance-forward)
 * [2023-07-21, 08:48:48](https://news.ycombinator.com/item?id=36811554) - [I have written a JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/)
 * [2023-07-21, 07:29:26](https://news.ycombinator.com/item?id=36811018) - [Quench of LHC inner triplet magnet causes a small leak with major consequences](https://home.cern/news/news/accelerators/accelerator-report-quench-lhc-inner-triplet-magnet-causes-small-leak-major)
 * [2023-07-21, 07:01:03](https://news.ycombinator.com/item?id=36810818) - [Nanosecond timestamp collisions are common](https://www.evanjones.ca/nanosecond-collisions.html)
