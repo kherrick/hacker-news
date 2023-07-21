@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-21, 11:01:16](https://news.ycombinator.com/item?id=36812337) - [EU AI Act, the first ML law, is expected to come into force by early 2024](https://www.infoq.com/news/2023/07/eu-ai-act/)
 * [2023-07-21, 10:58:38](https://news.ycombinator.com/item?id=36812317) - [Proofs from the Book](https://en.wikipedia.org/wiki/Proofs_from_THE_BOOK)
 * [2023-07-21, 10:45:52](https://news.ycombinator.com/item?id=36812256) - [Tell HN: Upgrade your Metabase installation immediately](https://github.com/metabase/metabase/releases/tag/v0.46.6.1)
 * [2023-07-21, 10:30:55](https://news.ycombinator.com/item?id=36812175) - [Small Joys with Odin](http://www.zannzen.com/blog/small_joys_with_odin_1/)
@@ -19,6 +18,7 @@
 * [2023-07-20, 21:38:52](https://news.ycombinator.com/item?id=36807108) - [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
 * [2023-07-20, 21:35:22](https://news.ycombinator.com/item?id=36807071) - [My Beautiful Friend](https://thepointmag.com/examined-life/my-beautiful-friend/)
 * [2023-07-20, 21:22:32](https://news.ycombinator.com/item?id=36806922) - [Richard Rhodes wrote a classic book about Oppenheimer and the atomic bomb](https://www.theatlantic.com/technology/archive/2023/07/richard-rhodes-making-of-the-atomic-bomb-ai/674777/)
+* [2023-07-20, 21:06:12](https://news.ycombinator.com/item?id=36806753) - [Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 * [2023-07-20, 21:05:47](https://news.ycombinator.com/item?id=36806747) - [Lit: Simple, fast web components](https://lit.dev/)
 * [2023-07-20, 20:48:12](https://news.ycombinator.com/item?id=36806539) - [Oxide Computer: Docs](https://docs.oxide.computer/guides/introduction)
 * [2023-07-20, 18:34:10](https://news.ycombinator.com/item?id=36804692) - [How We Made MuseScore 4 [video]](https://www.youtube.com/watch?v=Qct6LKbneKQ)
