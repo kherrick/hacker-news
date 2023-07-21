@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
+* [2023-07-21, 19:54:30](https://news.ycombinator.com/item?id=36818806) - [Ask HN: Dark UI Patterns in Gmail?](https://news.ycombinator.com/item?id=36818806)
 * [2023-07-21, 19:17:28](https://news.ycombinator.com/item?id=36818233) - [Slackware Linux Distribution Turns 30 Years Old](https://www.theregister.com/2023/07/20/slackware_turns_30/)
 * [2023-07-21, 19:17:07](https://news.ycombinator.com/item?id=36818225) - [Ask HN: What is the most memorable game you played?](https://news.ycombinator.com/item?id=36818225)
 * [2023-07-21, 19:11:16](https://news.ycombinator.com/item?id=36818136) - [Study: Men Almost Never Sing Songwritten by Women](https://pudding.cool/2023/07/songwriters/)
 * [2023-07-21, 18:55:19](https://news.ycombinator.com/item?id=36817938) - [Why Did Meta Open-Source Llama 2?](https://matt-rickard.com/why-did-meta-open-source-llama)
 * [2023-07-21, 18:52:01](https://news.ycombinator.com/item?id=36817900) - [IMAX emulates PalmPilot software to power Oppenheimer’s 70 mm release](https://arstechnica.com/gadgets/2023/07/imax-emulates-palmpilot-software-to-power-oppenheimers-70-mm-release/)
 * [2023-07-21, 18:48:38](https://news.ycombinator.com/item?id=36817844) - [Yale University vows to 'geolocate' most EJMR users [PART 2]](https://www.karlstack.com/p/yale-university-vows-to-geolocate-aa2)
+* [2023-07-21, 18:41:04](https://news.ycombinator.com/item?id=36817738) - [As AI porn generators get better, the stakes get higher](https://techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/)
 * [2023-07-21, 18:32:23](https://news.ycombinator.com/item?id=36817629) - [Stay or Leave: Manager Admitted I am on PIP because quota](https://www.teamblind.com/post/Stay-or-Leave-Manager-Admitted-I-am-on-PIP-because-quota-QVfiZ64y)
 * [2023-07-21, 18:32:16](https://news.ycombinator.com/item?id=36817628) - [MiniZinc](https://www.minizinc.org/)
 * [2023-07-21, 18:29:10](https://news.ycombinator.com/item?id=36817584) - [Infant-deaths-surge-in-Texas-after-abortion-ban](https://arstechnica.com/health/2023/07/infant-deaths-surge-in-texas-after-abortion-ban/)

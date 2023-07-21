@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-21, 19:54:30](https://news.ycombinator.com/item?id=36818806) - [Ask HN: Dark UI Patterns in Gmail?](https://news.ycombinator.com/item?id=36818806)
 * [2023-07-21, 19:17:28](https://news.ycombinator.com/item?id=36818233) - [Slackware Linux Distribution Turns 30 Years Old](https://www.theregister.com/2023/07/20/slackware_turns_30/)
-* [2023-07-21, 19:17:07](https://news.ycombinator.com/item?id=36818225) - [Ask HN: What is the most memorable game you played?](https://news.ycombinator.com/item?id=36818225)
 * [2023-07-21, 18:55:19](https://news.ycombinator.com/item?id=36817938) - [Why Did Meta Open-Source Llama 2?](https://matt-rickard.com/why-did-meta-open-source-llama)
 * [2023-07-21, 18:52:01](https://news.ycombinator.com/item?id=36817900) - [IMAX emulates PalmPilot software to power Oppenheimer’s 70 mm release](https://arstechnica.com/gadgets/2023/07/imax-emulates-palmpilot-software-to-power-oppenheimers-70-mm-release/)
-* [2023-07-21, 18:32:23](https://news.ycombinator.com/item?id=36817629) - [Stay or Leave: Manager Admitted I am on PIP because quota](https://www.teamblind.com/post/Stay-or-Leave-Manager-Admitted-I-am-on-PIP-because-quota-QVfiZ64y)
+* [2023-07-21, 18:41:04](https://news.ycombinator.com/item?id=36817738) - [As AI porn generators get better, the stakes get higher](https://techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/)
 * [2023-07-21, 18:32:16](https://news.ycombinator.com/item?id=36817628) - [MiniZinc](https://www.minizinc.org/)
 * [2023-07-21, 18:22:52](https://news.ycombinator.com/item?id=36817482) - [For BSD Unix, It's Sayonara (1992)](https://www.tech-insider.org/unix/research/1992/0622.html)
 * [2023-07-21, 18:09:43](https://news.ycombinator.com/item?id=36817305) - [Web Environment Integrity API](https://github.com/RupertBenWiser/Web-Environment-Integrity)
