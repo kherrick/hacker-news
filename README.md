@@ -25,9 +25,9 @@
 * [2023-07-20, 23:42:10](https://news.ycombinator.com/item?id=36808296) - [Fly.io Postgres cluster down for 3 days, no word from them about it](https://webcache.googleusercontent.com/search?q=cache:2T9NpG8thZgJ:https://community.fly.io/t/service-interruption-cant-destroy-machine-deploy-or-restart/14227&cd=9&hl=en&ct=clnk&gl=au)
 * [2023-07-20, 21:38:52](https://news.ycombinator.com/item?id=36807108) - [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
 * [2023-07-20, 15:00:25](https://news.ycombinator.com/item?id=36801491) - [FedNow Is Live](https://www.federalreserve.gov/newsevents/pressreleases/other20230720a.htm)
-* [2023-07-20, 12:57:03](https://news.ycombinator.com/item?id=36799776) - [No-more-secrets: recreate the decryption effect seen in the 1992 movie Sneakers](https://github.com/bartobri/no-more-secrets)
 * [2023-07-20, 06:02:04](https://news.ycombinator.com/item?id=36797324) - [Hipgnosis, the designers who changed the record sleeve](https://www.theguardian.com/film/2023/jul/03/anton-corbijn-hipgnosis-film-pink-floyd-led-zeppelin)
 * [2023-07-19, 11:51:08](https://news.ycombinator.com/item?id=36784864) - [Ability to see expertise is a milestone worth aiming for (2022)](https://commoncog.com/seeing-expertise-milestone-worth-aiming-for/)
+* [2023-07-19, 11:49:47](https://news.ycombinator.com/item?id=36784851) - [Almost all research on the mind is in English](https://www.wired.co.uk/article/language-mind-cognition-english-bias)
 * [2023-07-19, 09:52:41](https://news.ycombinator.com/item?id=36784032) - [Paper Airplane Ideas and Tips](https://www.foldnfly.com/runway.php)
 * [2023-07-19, 07:20:26](https://news.ycombinator.com/item?id=36783062) - [Revisiting the “Cansole”, because my TV doesn't have the right connectors](https://blog.jgc.org/2023/07/revisiting-cansole-my-silly-pong-game.html)
 
