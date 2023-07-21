@@ -81,6 +81,7 @@
 * [2023-07-20, 08:29:06](https://news.ycombinator.com/item?id=36798092) - [What Happened to Dolphin on Steam?](https://dolphin-emu.org/blog/2023/07/20/what-happened-to-dolphin-on-steam/)
 * [2023-07-20, 08:21:22](https://news.ycombinator.com/item?id=36798051) - [ChromiumOS Developer Guide, Programming languages and style](https://chromium.googlesource.com/chromiumos/docs/+/HEAD/development_basics.md#programming-languages-and-style)
 * [2023-07-20, 07:25:38](https://news.ycombinator.com/item?id=36797751) - [The Russell conjugation (2020)](https://emersongreenblog.wordpress.com/2020/12/06/the-russell-conjugation/)
+* [2023-07-20, 07:02:46](https://news.ycombinator.com/item?id=36797626) - [Reasons to teach what we teach (2010)](http://educationandstatistics.blogspot.com/2010/12/reasons-to-teach-what-we-teach.html)
 * [2023-07-20, 07:02:16](https://news.ycombinator.com/item?id=36797624) - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring DevRel Engineers](https://www.ycombinator.com/companies/signoz/jobs/emmP9Zs-developer-relations-engineer-remote-india)
 * [2023-07-20, 06:38:54](https://news.ycombinator.com/item?id=36797485) - [Ask HN: For 10 years I've been trying various projects, still clueless](https://news.ycombinator.com/item?id=36797485)
 * [2023-07-20, 06:27:56](https://news.ycombinator.com/item?id=36797432) - [On the Origin of LLMs](https://arxiv.org/abs/2307.09793)
