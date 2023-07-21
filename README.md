@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-21, 19:17:28](https://news.ycombinator.com/item?id=36818233) - [Slackware Linux Distribution Turns 30 Years Old](https://www.theregister.com/2023/07/20/slackware_turns_30/)
-* [2023-07-21, 19:11:16](https://news.ycombinator.com/item?id=36818136) - [Study: Men Almost Never Sing Songwritten by Women](https://pudding.cool/2023/07/songwriters/)
+* [2023-07-21, 19:17:07](https://news.ycombinator.com/item?id=36818225) - [Ask HN: What is the most memorable game you played?](https://news.ycombinator.com/item?id=36818225)
 * [2023-07-21, 18:55:19](https://news.ycombinator.com/item?id=36817938) - [Why Did Meta Open-Source Llama 2?](https://matt-rickard.com/why-did-meta-open-source-llama)
 * [2023-07-21, 18:52:01](https://news.ycombinator.com/item?id=36817900) - [IMAX emulates PalmPilot software to power Oppenheimer’s 70 mm release](https://arstechnica.com/gadgets/2023/07/imax-emulates-palmpilot-software-to-power-oppenheimers-70-mm-release/)
 * [2023-07-21, 18:32:23](https://news.ycombinator.com/item?id=36817629) - [Stay or Leave: Manager Admitted I am on PIP because quota](https://www.teamblind.com/post/Stay-or-Leave-Manager-Admitted-I-am-on-PIP-because-quota-QVfiZ64y)
@@ -10,7 +10,6 @@
 * [2023-07-21, 18:09:43](https://news.ycombinator.com/item?id=36817305) - [Web Environment Integrity API](https://github.com/RupertBenWiser/Web-Environment-Integrity)
 * [2023-07-21, 18:06:47](https://news.ycombinator.com/item?id=36817267) - [TSMC warns over deepening slump in chipmaking sector](https://www.ft.com/content/f433971d-fd8e-4ed3-91e9-e25a96284ea0)
 * [2023-07-21, 18:04:01](https://news.ycombinator.com/item?id=36817231) - [Ask HN: What are the best papers you read in your life?](https://news.ycombinator.com/item?id=36817231)
-* [2023-07-21, 18:00:00](https://news.ycombinator.com/item?id=36817179) - [Mali Government takes back .ml domain, brings down one of largest Lemmy servers](https://very.bignutty.xyz/notes/9hfv05qcs5xf7irr)
 * [2023-07-21, 17:50:04](https://news.ycombinator.com/item?id=36817046) - [Death Valley Just Had the Hottest Midnight on Record](https://www.msn.com/en-us/weather/topstories/death-valley-just-had-the-hottest-midnight-on-record/ar-AA1e2u4W)
 * [2023-07-21, 17:45:45](https://news.ycombinator.com/item?id=36816982) - [There’s a heatwave in the sea and scientists are worried](https://www.bbc.com/future/article/20230720-theres-a-heatwave-in-the-sea-and-scientists-are-worried)
 * [2023-07-21, 17:05:11](https://news.ycombinator.com/item?id=36816436) - [Bidirectional relationship between childhood maltreatment and ADHD symptoms](https://www.psypost.org/2023/07/longitudinal-study-highlights-bidirectional-relationship-between-childhood-maltreatment-and-adhd-symptoms-166568)
@@ -30,6 +29,7 @@
 * [2023-07-21, 07:01:03](https://news.ycombinator.com/item?id=36810818) - [Nanosecond timestamp collisions are common](https://www.evanjones.ca/nanosecond-collisions.html)
 * [2023-07-19, 11:51:08](https://news.ycombinator.com/item?id=36784864) - [Ability to see expertise is a milestone worth aiming for (2022)](https://commoncog.com/seeing-expertise-milestone-worth-aiming-for/)
 * [2023-07-19, 08:02:55](https://news.ycombinator.com/item?id=36783327) - [The Memoirs of Joseph Grimaldi (2011)](https://publicdomainreview.org/essay/the-memoirs-of-joseph-grimaldi/)
+* [2023-07-19, 07:20:26](https://news.ycombinator.com/item?id=36783062) - [Revisiting the “Cansole”, because my TV doesn't have the right connectors](https://blog.jgc.org/2023/07/revisiting-cansole-my-silly-pong-game.html)
 
 ## [Archives](archives/index.md)
 
