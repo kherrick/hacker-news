@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
+* [2023-07-21, 13:15:15](https://news.ycombinator.com/item?id=36813375) - [Stanford DEI dean who confronted judge resigns](https://nypost.com/2023/07/20/stanford-dei-dean-who-confronted-trump-appointed-judge-resigns/)
 * [2023-07-21, 12:38:14](https://news.ycombinator.com/item?id=36813086) - [Show HN: Primo – a visual CMS with Svelte blocks, a code editor, and SSG](https://primocms.org)
+* [2023-07-21, 12:22:59](https://news.ycombinator.com/item?id=36812981) - [Show HN: A non-VC backed content creation and social media platform](https://news.ycombinator.com/item?id=36812981)
+* [2023-07-21, 12:04:49](https://news.ycombinator.com/item?id=36812848) - [Rethinking Infrastructure as Code from Scratch](https://nathanpeck.com/rethinking-infrastructure-as-code-from-scratch/)
 * [2023-07-21, 11:53:14](https://news.ycombinator.com/item?id=36812765) - [Data breach exposes personal information of 4k Roblox developers](https://www.theverge.com/2023/7/21/23802742/roblox-data-breach-leak-developer-personal-information-exposed)
 * [2023-07-21, 11:23:44](https://news.ycombinator.com/item?id=36812512) - [Remove Taiwan flag – Taiwan is not a country](https://github.com/saadeghi/daisyui/pull/2150)
 * [2023-07-21, 11:01:16](https://news.ycombinator.com/item?id=36812337) - [EU AI Act, the first ML law, is expected to come into force by early 2024](https://www.infoq.com/news/2023/07/eu-ai-act/)
