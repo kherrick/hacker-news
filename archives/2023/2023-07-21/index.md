@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
 * [2023-07-21, 22:41:26](https://news.ycombinator.com/item?id=36820937) - [Cooking Air Quality](https://www.jefftk.com/p/cooking-air-quality)
+* [2023-07-21, 22:33:59](https://news.ycombinator.com/item?id=36820877) - [Why is healthy food so expensive in America? Blame the Farm Bill](https://fortune.com/2023/07/21/why-healthy-food-so-expensive-in-america-blame-farm-bill-congress-always-renews-make-burgers-cheaper-salad-gene-baur/)
 * [2023-07-21, 22:06:16](https://news.ycombinator.com/item?id=36820555) - [NativePHP: A framework for building desktop apps using PHP](https://nativephp.com/docs/1/getting-started/introduction)
 * [2023-07-21, 21:58:40](https://news.ycombinator.com/item?id=36820469) - [Managing Kitchen Fruit Flies with a Little Shop of Horrors](https://blog.zaccohn.com/Fruitflies-and-the-Little-Shop-of-Horrors/)
 * [2023-07-21, 21:51:07](https://news.ycombinator.com/item?id=36820378) - [Ask HN: What are some LLM prompts you've found useful?](https://news.ycombinator.com/item?id=36820378)

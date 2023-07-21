@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-21, 22:41:26](https://news.ycombinator.com/item?id=36820937) - [Cooking Air Quality](https://www.jefftk.com/p/cooking-air-quality)
+* [2023-07-21, 22:33:59](https://news.ycombinator.com/item?id=36820877) - [Why is healthy food so expensive in America? Blame the Farm Bill](https://fortune.com/2023/07/21/why-healthy-food-so-expensive-in-america-blame-farm-bill-congress-always-renews-make-burgers-cheaper-salad-gene-baur/)
 * [2023-07-21, 22:06:16](https://news.ycombinator.com/item?id=36820555) - [NativePHP: A framework for building desktop apps using PHP](https://nativephp.com/docs/1/getting-started/introduction)
 * [2023-07-21, 21:58:40](https://news.ycombinator.com/item?id=36820469) - [Managing Kitchen Fruit Flies with a Little Shop of Horrors](https://blog.zaccohn.com/Fruitflies-and-the-Little-Shop-of-Horrors/)
 * [2023-07-21, 21:32:21](https://news.ycombinator.com/item?id=36820105) - [Book Review: The Laws of Trading](https://astralcodexten.substack.com/p/your-book-review-the-laws-of-trading)
@@ -20,7 +21,6 @@
 * [2023-07-21, 16:25:03](https://news.ycombinator.com/item?id=36815781) - [Diablo](https://www.filfre.net/2023/07/diablo/)
 * [2023-07-21, 16:22:20](https://news.ycombinator.com/item?id=36815744) - [‘World of Warcraft’ players trick AI-scraping website into publishing nonsense](https://www.forbes.com/sites/paultassi/2023/07/21/world-of-warcraft-players-trick-ai-scraping-games-website-into-publishing-nonsense/)
 * [2023-07-21, 16:19:54](https://news.ycombinator.com/item?id=36815705) - [RFC 9420 a.k.a. Messaging Layer Security](https://blog.phnx.im/rfc-9420-mls/)
-* [2023-07-21, 16:02:42](https://news.ycombinator.com/item?id=36815453) - [Exxon bets carbon will be the new oil](https://www.semafor.com/article/07/21/2023/exxon-carbon-denbury)
 * [2023-07-21, 15:49:04](https://news.ycombinator.com/item?id=36815255) - [In the LLM space, \"open source\" is being used to mean \"downloadable weights\"](https://www.alessiofanelli.com/blog/llama2-isnt-open-source)
 * [2023-07-21, 13:34:11](https://news.ycombinator.com/item?id=36813564) - [Dementia risk linked to blood-protein imbalance in middle age](https://www.nature.com/articles/d41586-023-02374-2)
 * [2023-07-21, 12:56:25](https://news.ycombinator.com/item?id=36813210) - [90s Internet: When 20 hours online triggered an email from my ISP’s president](https://arstechnica.com/gadgets/2023/07/the-90s-internet-when-20-hours-online-triggered-an-email-from-my-isps-president/)
