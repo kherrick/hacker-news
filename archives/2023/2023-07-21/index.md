@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
+* [2023-07-21, 20:01:20](https://news.ycombinator.com/item?id=36818896) - [Journalists should be skeptical of all sources – including scientists](https://natesilver.substack.com/p/journalists-should-be-skeptical-of)
 * [2023-07-21, 19:54:30](https://news.ycombinator.com/item?id=36818806) - [Ask HN: Dark UI Patterns in Gmail?](https://news.ycombinator.com/item?id=36818806)
+* [2023-07-21, 19:44:31](https://news.ycombinator.com/item?id=36818640) - [Big Tech as the New Big Tobacco](https://www.bigtechwiki.com/index.php/Big_Tech_as_the_New_Big_Tobacco)
+* [2023-07-21, 19:35:39](https://news.ycombinator.com/item?id=36818501) - [Don’t Make Fun of Renowned Dan Brown (2013)](https://onehundredpages.wordpress.com/2013/06/12/dont-make-fun-of-renowned-dan-brown/)
 * [2023-07-21, 19:17:28](https://news.ycombinator.com/item?id=36818233) - [Slackware Linux Distribution Turns 30 Years Old](https://www.theregister.com/2023/07/20/slackware_turns_30/)
 * [2023-07-21, 19:17:07](https://news.ycombinator.com/item?id=36818225) - [Ask HN: What is the most memorable game you played?](https://news.ycombinator.com/item?id=36818225)
 * [2023-07-21, 19:11:16](https://news.ycombinator.com/item?id=36818136) - [Study: Men Almost Never Sing Songwritten by Women](https://pudding.cool/2023/07/songwriters/)

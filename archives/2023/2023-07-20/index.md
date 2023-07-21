@@ -93,6 +93,7 @@
 * [2023-07-20, 05:32:05](https://news.ycombinator.com/item?id=36797178) - [In Memoriam: Hans Petter William Sirevåg Selasky](https://lists.freebsd.org/archives/freebsd-announce/2023-July/000076.html)
 * [2023-07-20, 05:09:23](https://news.ycombinator.com/item?id=36797079) - [Minigpt4 Inference on CPU](https://github.com/Maknee/minigpt4.cpp)
 * [2023-07-20, 04:51:17](https://news.ycombinator.com/item?id=36797001) - [This alien-looking airship design used a propulsion method unlike any other](https://www.thedrive.com/the-war-zone/this-alien-looking-airship-design-used-a-propulsion-method-unlike-any-other)
+* [2023-07-20, 04:32:45](https://news.ycombinator.com/item?id=36796917) - [The Rediscovery of Susan Taubes](https://www.tabletmag.com/sections/arts-letters/articles/lament-for-susan)
 * [2023-07-20, 03:48:51](https://news.ycombinator.com/item?id=36796685) - [ACL 2023 Tutorial: Retrieval-Based Language Models and Applications](https://acl2023-retrieval-lm.github.io/)
 * [2023-07-20, 02:57:11](https://news.ycombinator.com/item?id=36796422) - [Sidebery – A Firefox extension for managing tabs and bookmarks in sidebar](https://github.com/mbnuqw/sidebery)
 * [2023-07-20, 02:21:49](https://news.ycombinator.com/item?id=36796188) - [Reading is selfish, elitist, and anti-social](https://otherlife.co/p/good-reading-selfish-elitist-antisocial)
