@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
 * [2023-07-21, 16:32:41](https://news.ycombinator.com/item?id=36815902) - [Warcraft fans claim win over AI with Glorbo prank](https://www.bbc.com/news/newsbeat-66266344)
+* [2023-07-21, 16:25:03](https://news.ycombinator.com/item?id=36815781) - [Diablo](https://www.filfre.net/2023/07/diablo/)
 * [2023-07-21, 16:22:20](https://news.ycombinator.com/item?id=36815744) - [‘World of Warcraft’ Players Trick AI-Scraping Website into Publishing Nonsense](https://www.forbes.com/sites/paultassi/2023/07/21/world-of-warcraft-players-trick-ai-scraping-games-website-into-publishing-nonsense/)
+* [2023-07-21, 16:19:54](https://news.ycombinator.com/item?id=36815705) - [RFC 9420 a.k.a. Messaging Layer Security (MLS) – An Overview](https://blog.phnx.im/rfc-9420-mls/)
 * [2023-07-21, 16:02:42](https://news.ycombinator.com/item?id=36815453) - [Exxon bets carbon will be the new oil](https://www.semafor.com/article/07/21/2023/exxon-carbon-denbury)
 * [2023-07-21, 15:49:04](https://news.ycombinator.com/item?id=36815255) - [LLaMA2 isn't “Open Source” – and why it doesn't matter](https://www.alessiofanelli.com/blog/llama2-isnt-open-source)
 * [2023-07-21, 15:24:59](https://news.ycombinator.com/item?id=36814895) - [Farmworkers thought a new overtime law would help them. Now, they want it gone](https://text.npr.org/1188258994)
