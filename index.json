@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-21, 23:19:51",
+      "https://news.ycombinator.com/item?id=36821347"
+    ],
+    [
+      "Hollywood is on strike because CEOs fell for Silicon Valley’s magical thinking",
+      "https://www.latimes.com/business/technology/story/2023-07-21/column-hollywood-sag-aftra-strike-strike-silicon-valleys-magical-thinking"
+    ]
+  ],
+  [
+    [
       "2023-07-21, 22:41:26",
       "https://news.ycombinator.com/item?id=36820937"
     ],
@@ -277,16 +287,6 @@
     [
       "I have written a JVM in Rust",
       "https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2023-07-21, 07:01:03",
-      "https://news.ycombinator.com/item?id=36810818"
-    ],
-    [
-      "Nanosecond timestamp collisions are common",
-      "https://www.evanjones.ca/nanosecond-collisions.html"
     ]
   ],
   [
