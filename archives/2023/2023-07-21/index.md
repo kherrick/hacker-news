@@ -11,6 +11,7 @@
 * [2023-07-21, 13:17:22](https://news.ycombinator.com/item?id=36813392) - [Three lessons from negative trends in vertical farming](https://www.verticalfarmdaily.com/article/9537965/lessons-from-vertical-farming-bankruptcies-layoffs-and-closures-in-2023/)
 * [2023-07-21, 13:15:15](https://news.ycombinator.com/item?id=36813375) - [Stanford DEI dean who confronted judge resigns](https://nypost.com/2023/07/20/stanford-dei-dean-who-confronted-trump-appointed-judge-resigns/)
 * [2023-07-21, 13:06:08](https://news.ycombinator.com/item?id=36813297) - [What Tron teaches us about Cashless Society](https://brettscott.substack.com/p/tron-and-cashless-society)
+* [2023-07-21, 12:56:25](https://news.ycombinator.com/item?id=36813210) - [90s Internet: When 20 hours online triggered an email from my ISP’s president](https://arstechnica.com/gadgets/2023/07/the-90s-internet-when-20-hours-online-triggered-an-email-from-my-isps-president/)
 * [2023-07-21, 12:53:12](https://news.ycombinator.com/item?id=36813194) - [A.I. Companies Agree to Safeguards After Pressure from the White House](https://www.nytimes.com/2023/07/21/us/politics/ai-regulation-biden.html)
 * [2023-07-21, 12:52:49](https://news.ycombinator.com/item?id=36813187) - [Tony Bennett, Master Pop Vocalist, Dies at 96](https://variety.com/2023/music/news/tony-bennett-dead-dies-pop-vocalist-1235676390/)
 * [2023-07-21, 12:38:14](https://news.ycombinator.com/item?id=36813086) - [Show HN: Primo – a visual CMS with Svelte blocks, a code editor, and SSG](https://primocms.org)
