@@ -6,6 +6,7 @@
 
 * [2023-07-21, 07:01:03](https://news.ycombinator.com/item?id=36810818) - [Nanosecond timestamp collisions are common](https://www.evanjones.ca/nanosecond-collisions.html)
 * [2023-07-21, 05:13:25](https://news.ycombinator.com/item?id=36810230) - [LLM Constellation](https://llmconstellation.olafblitz.repl.co/)
+* [2023-07-21, 04:49:57](https://news.ycombinator.com/item?id=36810112) - [What Humanities Scholars Want Students to Know About the Internet](https://computinged.wordpress.com/2023/07/17/what-humanities-scholars-want-students-to-know-about-the-internet-alternative-paths-for-alternative-endpoints/)
 * [2023-07-21, 04:42:25](https://news.ycombinator.com/item?id=36810075) - [Amazon shuts down customer’s smart home](https://forums.macrumors.com/threads/amazon-shuts-down-customers-smart-home.2392704/)
 * [2023-07-21, 03:29:31](https://news.ycombinator.com/item?id=36809666) - [Octo.jl – A SQL Query DSL in Julia](https://github.com/wookay/Octo.jl)
 * [2023-07-21, 03:10:16](https://news.ycombinator.com/item?id=36809565) - [Study finds billions of nanoplastics released when microwaving containers](https://news.unl.edu/newsrooms/today/article/nebraska-study-finds-billions-of-nanoplastics-released-when-microwaving/)

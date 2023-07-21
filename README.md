@@ -2,6 +2,7 @@
 
 * [2023-07-21, 07:01:03](https://news.ycombinator.com/item?id=36810818) - [Nanosecond timestamp collisions are common](https://www.evanjones.ca/nanosecond-collisions.html)
 * [2023-07-21, 05:13:25](https://news.ycombinator.com/item?id=36810230) - [LLM Constellation](https://llmconstellation.olafblitz.repl.co/)
+* [2023-07-21, 04:49:57](https://news.ycombinator.com/item?id=36810112) - [What Humanities Scholars Want Students to Know About the Internet](https://computinged.wordpress.com/2023/07/17/what-humanities-scholars-want-students-to-know-about-the-internet-alternative-paths-for-alternative-endpoints/)
 * [2023-07-21, 04:42:25](https://news.ycombinator.com/item?id=36810075) - [Amazon shuts down customer’s smart home](https://forums.macrumors.com/threads/amazon-shuts-down-customers-smart-home.2392704/)
 * [2023-07-21, 03:10:16](https://news.ycombinator.com/item?id=36809565) - [Study finds billions of nanoplastics released when microwaving containers](https://news.unl.edu/newsrooms/today/article/nebraska-study-finds-billions-of-nanoplastics-released-when-microwaving/)
 * [2023-07-21, 02:40:22](https://news.ycombinator.com/item?id=36809404) - [Sub-Pixel Distance Transform](https://acko.net/blog/subpixel-distance-transform/)
@@ -19,7 +20,6 @@
 * [2023-07-20, 21:05:47](https://news.ycombinator.com/item?id=36806747) - [Lit: Simple, fast web components](https://lit.dev/)
 * [2023-07-20, 20:48:12](https://news.ycombinator.com/item?id=36806539) - [Oxide Computer: Docs](https://docs.oxide.computer/guides/introduction)
 * [2023-07-20, 18:34:10](https://news.ycombinator.com/item?id=36804692) - [How We Made MuseScore 4 [video]](https://www.youtube.com/watch?v=Qct6LKbneKQ)
-* [2023-07-20, 18:13:48](https://news.ycombinator.com/item?id=36804404) - [Shelter Protocol: End-to-end encrypted, federated, user-friendly web apps](https://shelterprotocol.net)
 * [2023-07-20, 17:26:05](https://news.ycombinator.com/item?id=36803744) - [Custom instructions for ChatGPT](https://openai.com/blog/custom-instructions-for-chatgpt)
 * [2023-07-20, 17:01:06](https://news.ycombinator.com/item?id=36803408) - [Running Stable Diffusion in 260MB of RAM](https://github.com/vitoplantamura/OnnxStream)
 * [2023-07-20, 16:41:10](https://news.ycombinator.com/item?id=36803124) - [TypeChat](https://microsoft.github.io/TypeChat/blog/introducing-typechat/)
