@@ -34,6 +34,7 @@
 * [2023-07-20, 17:01:06](https://news.ycombinator.com/item?id=36803408) - [Running Stable Diffusion in 260MB of RAM](https://github.com/vitoplantamura/OnnxStream)
 * [2023-07-20, 16:50:33](https://news.ycombinator.com/item?id=36803267) - [Leaving the Web3 Cult](https://dope.bearblog.dev/leaving-the-web3-cult/)
 * [2023-07-20, 16:49:24](https://news.ycombinator.com/item?id=36803249) - [Fury: a fast multi-language serialization framework](https://www.furyio.org/)
+* [2023-07-20, 16:43:48](https://news.ycombinator.com/item?id=36803153) - [Insurance company drops customer saying a 'drone' took photos of clutter in yard](https://abc7news.com/homeowners-insurance-non-renewal-drone-photos-nonrenewal/13519714/)
 * [2023-07-20, 16:41:10](https://news.ycombinator.com/item?id=36803124) - [Introducing TypeChat from Microsoft](https://microsoft.github.io/TypeChat/blog/introducing-typechat/)
 * [2023-07-20, 16:11:04](https://news.ycombinator.com/item?id=36802662) - [Why hundreds of decades-old yet vital drugs are nearly impossible to find](https://theconversation.com/blame-capitalism-why-hundreds-of-decades-old-yet-vital-drugs-are-nearly-impossible-to-find-206848)
 * [2023-07-20, 16:06:44](https://news.ycombinator.com/item?id=36802582) - [Show HN: Ollama – Run LLMs on your Mac](https://github.com/jmorganca/ollama)
