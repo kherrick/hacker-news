@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
+* [2023-07-21, 21:16:08](https://news.ycombinator.com/item?id=36819894) - [Meta cancels Quest Pro, stops development of Quest Pro 2](https://www.zdnet.com/article/meta-cancels-quest-pro-stops-development-of-quest-pro-2/)
 * [2023-07-21, 21:01:12](https://news.ycombinator.com/item?id=36819670) - [Sleep Reset (YC W17) Is Hiring](https://www.ycombinator.com/companies/sleep-reset/jobs/8qZIdyD-personal-assistant-must-be-korean-english-bilingual)
 * [2023-07-21, 20:19:38](https://news.ycombinator.com/item?id=36819119) - [OpenAI announces ChatGPT for Android](https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en_US)
 * [2023-07-21, 20:01:20](https://news.ycombinator.com/item?id=36818896) - [Journalists should be skeptical of all sources – including scientists](https://natesilver.substack.com/p/journalists-should-be-skeptical-of)
 * [2023-07-21, 19:54:30](https://news.ycombinator.com/item?id=36818806) - [Ask HN: Dark UI Patterns in Gmail?](https://news.ycombinator.com/item?id=36818806)
 * [2023-07-21, 19:51:18](https://news.ycombinator.com/item?id=36818747) - [An annual physical exam costs $400 USD on average in the USA](https://cost.sidecarhealth.com/n/annual-physical-exam-cost)
+* [2023-07-21, 19:49:10](https://news.ycombinator.com/item?id=36818713) - [Borderline personality disorder: a spurious condition unsupported by scie (cont)](https://journals.sagepub.com/doi/10.1177/01410768231164780)
 * [2023-07-21, 19:44:31](https://news.ycombinator.com/item?id=36818640) - [Big Tech as the New Big Tobacco](https://www.bigtechwiki.com/index.php/Big_Tech_as_the_New_Big_Tobacco)
 * [2023-07-21, 19:42:52](https://news.ycombinator.com/item?id=36818611) - [Actors decry 'existential crisis' over AI-generated ‘synthetic’ actors](https://www.reuters.com/technology/actors-decry-existential-crisis-over-ai-generated-synthetic-actors-2023-07-21/)
 * [2023-07-21, 19:35:39](https://news.ycombinator.com/item?id=36818501) - [Don’t Make Fun of Renowned Dan Brown (2013)](https://onehundredpages.wordpress.com/2013/06/12/dont-make-fun-of-renowned-dan-brown/)
