@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
+* [2023-07-21, 16:02:42](https://news.ycombinator.com/item?id=36815453) - [Exxon bets carbon will be the new oil](https://www.semafor.com/article/07/21/2023/exxon-carbon-denbury)
+* [2023-07-21, 15:49:04](https://news.ycombinator.com/item?id=36815255) - [LLaMA2 isn't “Open Source” – and why it doesn't matter](https://www.alessiofanelli.com/blog/llama2-isnt-open-source)
 * [2023-07-21, 15:24:59](https://news.ycombinator.com/item?id=36814895) - [Farmworkers thought a new overtime law would help them. Now, they want it gone](https://text.npr.org/1188258994)
+* [2023-07-21, 15:21:44](https://news.ycombinator.com/item?id=36814854) - [Busiest day ever for electric vehicle charging predicted on UK roads](https://www.fleetnews.co.uk/news/latest-fleet-news/electric-fleet-news/2023/07/20/busiest-day-ever-for-electric-vehicle-charging-predicted-on-uk-roads)
 * [2023-07-21, 15:11:41](https://news.ycombinator.com/item?id=36814754) - [By 2028 there must be fast chargers every 60 km on the EU’s key motorways](https://www.fleeteurope.com/en/new-energies/europe/article/fast-chargers-every-60-km-key-eu-motorways?a=FJA05&t%5B0%5D=Charging&curl=1)
 * [2023-07-21, 15:01:12](https://news.ycombinator.com/item?id=36814627) - [India’s ban on rice exports raises fear of global food price rises](https://www.theguardian.com/business/2023/jul/21/india-ban-on-rice-exports-raises-fear-of-global-food-price-rises)
 * [2023-07-21, 14:39:59](https://news.ycombinator.com/item?id=36814351) - [The 115F Heat Is Killing Phones in Sardinia](https://www.bloomberg.com/news/articles/2023-07-19/dying-phones-wilting-cyclists-epicenter-of-europe-heat-wave-has-grim-warnings)
