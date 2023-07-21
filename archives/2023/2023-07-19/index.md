@@ -93,6 +93,7 @@
 * [2023-07-19, 08:22:48](https://news.ycombinator.com/item?id=36783445) - [Save Open Source /-/ the Impending Tragedy of the Cyber Resilience Act](https://news.apache.org/foundation/entry/save-open-source-the-impending-tragedy-of-the-cyber-resilience-act)
 * [2023-07-19, 08:07:02](https://news.ycombinator.com/item?id=36783348) - [Nvidia just released FreeBSD Display Driver 535.86.05 (2023.7.18)](https://twitter.com/fosdembsd/status/1681574924282998784)
 * [2023-07-19, 08:02:55](https://news.ycombinator.com/item?id=36783327) - [The Memoirs of Joseph Grimaldi (2011)](https://publicdomainreview.org/essay/the-memoirs-of-joseph-grimaldi/)
+* [2023-07-19, 07:41:41](https://news.ycombinator.com/item?id=36783196) - [How Professional Ethics Work](https://siderea.dreamwidth.org/1817931.html)
 * [2023-07-19, 07:20:26](https://news.ycombinator.com/item?id=36783062) - [Revisiting the “Cansole”, because my TV doesn't have the right connectors](https://blog.jgc.org/2023/07/revisiting-cansole-my-silly-pong-game.html)
 * [2023-07-19, 07:12:55](https://news.ycombinator.com/item?id=36783019) - [Llama 2 is not open source](https://ai.meta.com/resources/models-and-libraries/llama-downloads/)
 * [2023-07-19, 07:00:09](https://news.ycombinator.com/item?id=36782935) - [Bitmovin (YC S15) Is Hiring a Senior Software Engineer (Java) in Austria](https://bitmovin.com/careers/senior-software-engineer-java-6834404002/)

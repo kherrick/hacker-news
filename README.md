@@ -3,6 +3,7 @@
 * [2023-07-21, 21:01:12](https://news.ycombinator.com/item?id=36819670) - [Sleep Reset (YC W17) Is Hiring](https://www.ycombinator.com/companies/sleep-reset/jobs/8qZIdyD-personal-assistant-must-be-korean-english-bilingual)
 * [2023-07-21, 20:19:38](https://news.ycombinator.com/item?id=36819119) - [OpenAI announces ChatGPT for Android](https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en_US)
 * [2023-07-21, 20:01:20](https://news.ycombinator.com/item?id=36818896) - [Journalists should be skeptical of all sources – including scientists](https://natesilver.substack.com/p/journalists-should-be-skeptical-of)
+* [2023-07-21, 19:51:18](https://news.ycombinator.com/item?id=36818747) - [An annual physical exam costs $400 USD on average in the USA](https://cost.sidecarhealth.com/n/annual-physical-exam-cost)
 * [2023-07-21, 19:44:31](https://news.ycombinator.com/item?id=36818640) - [Big Tech as the New Big Tobacco](https://www.bigtechwiki.com/index.php/Big_Tech_as_the_New_Big_Tobacco)
 * [2023-07-21, 19:42:52](https://news.ycombinator.com/item?id=36818611) - [Actors decry 'existential crisis' over AI-generated ‘synthetic’ actors](https://www.reuters.com/technology/actors-decry-existential-crisis-over-ai-generated-synthetic-actors-2023-07-21/)
 * [2023-07-21, 19:35:39](https://news.ycombinator.com/item?id=36818501) - [Don’t Make Fun of Renowned Dan Brown (2013)](https://onehundredpages.wordpress.com/2013/06/12/dont-make-fun-of-renowned-dan-brown/)
@@ -12,7 +13,6 @@
 * [2023-07-21, 18:32:16](https://news.ycombinator.com/item?id=36817628) - [MiniZinc](https://www.minizinc.org/)
 * [2023-07-21, 18:22:52](https://news.ycombinator.com/item?id=36817482) - [For BSD Unix, It's Sayonara (1992)](https://www.tech-insider.org/unix/research/1992/0622.html)
 * [2023-07-21, 18:09:43](https://news.ycombinator.com/item?id=36817305) - [Web Environment Integrity API](https://github.com/RupertBenWiser/Web-Environment-Integrity)
-* [2023-07-21, 18:06:47](https://news.ycombinator.com/item?id=36817267) - [TSMC warns over deepening slump in chipmaking sector](https://www.ft.com/content/f433971d-fd8e-4ed3-91e9-e25a96284ea0)
 * [2023-07-21, 17:45:45](https://news.ycombinator.com/item?id=36816982) - [There’s a heatwave in the sea and scientists are worried](https://www.bbc.com/future/article/20230720-theres-a-heatwave-in-the-sea-and-scientists-are-worried)
 * [2023-07-21, 16:25:03](https://news.ycombinator.com/item?id=36815781) - [Diablo](https://www.filfre.net/2023/07/diablo/)
 * [2023-07-21, 16:22:20](https://news.ycombinator.com/item?id=36815744) - [‘World of Warcraft’ players trick AI-scraping website into publishing nonsense](https://www.forbes.com/sites/paultassi/2023/07/21/world-of-warcraft-players-trick-ai-scraping-games-website-into-publishing-nonsense/)
@@ -29,7 +29,7 @@
 * [2023-07-21, 07:01:03](https://news.ycombinator.com/item?id=36810818) - [Nanosecond timestamp collisions are common](https://www.evanjones.ca/nanosecond-collisions.html)
 * [2023-07-20, 04:32:45](https://news.ycombinator.com/item?id=36796917) - [The Rediscovery of Susan Taubes](https://www.tabletmag.com/sections/arts-letters/articles/lament-for-susan)
 * [2023-07-19, 11:51:08](https://news.ycombinator.com/item?id=36784864) - [Ability to see expertise is a milestone worth aiming for (2022)](https://commoncog.com/seeing-expertise-milestone-worth-aiming-for/)
-* [2023-07-19, 08:02:55](https://news.ycombinator.com/item?id=36783327) - [The Memoirs of Joseph Grimaldi (2011)](https://publicdomainreview.org/essay/the-memoirs-of-joseph-grimaldi/)
+* [2023-07-19, 07:41:41](https://news.ycombinator.com/item?id=36783196) - [How Professional Ethics Work](https://siderea.dreamwidth.org/1817931.html)
 
 ## [Archives](archives/index.md)
 
