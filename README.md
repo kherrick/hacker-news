@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-21, 07:30:16](https://news.ycombinator.com/item?id=36811026) - [Ask HN: What are some low cost payment processing alternatives to Stripe?](https://news.ycombinator.com/item?id=36811026)
 * [2023-07-21, 07:01:03](https://news.ycombinator.com/item?id=36810818) - [Nanosecond timestamp collisions are common](https://www.evanjones.ca/nanosecond-collisions.html)
 * [2023-07-21, 05:13:25](https://news.ycombinator.com/item?id=36810230) - [LLM Constellation](https://llmconstellation.olafblitz.repl.co/)
 * [2023-07-21, 04:42:25](https://news.ycombinator.com/item?id=36810075) - [Amazon shuts down customer’s smart home](https://forums.macrumors.com/threads/amazon-shuts-down-customers-smart-home.2392704/)
@@ -29,7 +30,6 @@
 * [2023-07-20, 06:02:04](https://news.ycombinator.com/item?id=36797324) - [Hipgnosis, the designers who changed the record sleeve](https://www.theguardian.com/film/2023/jul/03/anton-corbijn-hipgnosis-film-pink-floyd-led-zeppelin)
 * [2023-07-19, 09:36:23](https://news.ycombinator.com/item?id=36783942) - [Show HN: LibreScroll – enable flywheel-scrolling on any generic mouse](https://github.com/EsportToys/LibreScroll)
 * [2023-07-19, 05:39:49](https://news.ycombinator.com/item?id=36782487) - [Momofuku Ando invented instant ramen (2016)](https://www.vox.com/2015/3/5/8150929/momofuku-ando-ramen-instant-noodles)
-* [2023-07-18, 22:23:38](https://news.ycombinator.com/item?id=36779855) - [Human Shader](https://humanshader.com)
 
 ## [Archives](archives/index.md)
 

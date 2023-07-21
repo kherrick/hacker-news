@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
+* [2023-07-21, 07:30:16](https://news.ycombinator.com/item?id=36811026) - [Ask HN: What are some low cost payment processing alternatives to Stripe?](https://news.ycombinator.com/item?id=36811026)
 * [2023-07-21, 07:01:03](https://news.ycombinator.com/item?id=36810818) - [Nanosecond timestamp collisions are common](https://www.evanjones.ca/nanosecond-collisions.html)
 * [2023-07-21, 05:13:25](https://news.ycombinator.com/item?id=36810230) - [LLM Constellation](https://llmconstellation.olafblitz.repl.co/)
 * [2023-07-21, 04:49:57](https://news.ycombinator.com/item?id=36810112) - [What Humanities Scholars Want Students to Know About the Internet](https://computinged.wordpress.com/2023/07/17/what-humanities-scholars-want-students-to-know-about-the-internet-alternative-paths-for-alternative-endpoints/)
