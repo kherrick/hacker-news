@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
+* [2023-07-21, 22:06:16](https://news.ycombinator.com/item?id=36820555) - [NativePHP: A framework for building desktop apps using PHP](https://nativephp.com/docs/1/getting-started/introduction)
 * [2023-07-21, 21:58:40](https://news.ycombinator.com/item?id=36820469) - [Managing Kitchen Fruit Flies with a Little Shop of Horrors](https://blog.zaccohn.com/Fruitflies-and-the-Little-Shop-of-Horrors/)
 * [2023-07-21, 21:51:07](https://news.ycombinator.com/item?id=36820378) - [Ask HN: What are some LLM prompts you've found useful?](https://news.ycombinator.com/item?id=36820378)
 * [2023-07-21, 21:33:32](https://news.ycombinator.com/item?id=36820122) - [Meta’s LLaMa 2 license is not Open Source](https://blog.opensource.org/metas-llama-2-license-is-not-open-source/)
+* [2023-07-21, 21:32:21](https://news.ycombinator.com/item?id=36820105) - [Book Review: The Laws of Trading](https://astralcodexten.substack.com/p/your-book-review-the-laws-of-trading)
 * [2023-07-21, 21:17:45](https://news.ycombinator.com/item?id=36819906) - [Llama: Add Grammar-Based Sampling](https://github.com/ggerganov/llama.cpp/pull/1773)
 * [2023-07-21, 21:16:08](https://news.ycombinator.com/item?id=36819894) - [Meta cancels Quest Pro, stops development of Quest Pro 2](https://www.zdnet.com/article/meta-cancels-quest-pro-stops-development-of-quest-pro-2/)
 * [2023-07-21, 21:01:12](https://news.ycombinator.com/item?id=36819670) - [Sleep Reset (YC W17) Is Hiring](https://www.ycombinator.com/companies/sleep-reset/jobs/8qZIdyD-personal-assistant-must-be-korean-english-bilingual)
