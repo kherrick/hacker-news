@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
 * [2023-07-21, 13:15:15](https://news.ycombinator.com/item?id=36813375) - [Stanford DEI dean who confronted judge resigns](https://nypost.com/2023/07/20/stanford-dei-dean-who-confronted-trump-appointed-judge-resigns/)
+* [2023-07-21, 13:06:08](https://news.ycombinator.com/item?id=36813297) - [What Tron teaches us about Cashless Society](https://brettscott.substack.com/p/tron-and-cashless-society)
 * [2023-07-21, 12:53:12](https://news.ycombinator.com/item?id=36813194) - [A.I. Companies Agree to Safeguards After Pressure from the White House](https://www.nytimes.com/2023/07/21/us/politics/ai-regulation-biden.html)
 * [2023-07-21, 12:38:14](https://news.ycombinator.com/item?id=36813086) - [Show HN: Primo – a visual CMS with Svelte blocks, a code editor, and SSG](https://primocms.org)
 * [2023-07-21, 12:22:59](https://news.ycombinator.com/item?id=36812981) - [Show HN: A non-VC backed content creation and social media platform](https://news.ycombinator.com/item?id=36812981)

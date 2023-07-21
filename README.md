@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-21, 13:06:08](https://news.ycombinator.com/item?id=36813297) - [What Tron teaches us about Cashless Society](https://brettscott.substack.com/p/tron-and-cashless-society)
 * [2023-07-21, 12:53:12](https://news.ycombinator.com/item?id=36813194) - [A.I. Companies Agree to Safeguards After Pressure from the White House](https://www.nytimes.com/2023/07/21/us/politics/ai-regulation-biden.html)
 * [2023-07-21, 12:38:14](https://news.ycombinator.com/item?id=36813086) - [Show HN: Primo – a visual CMS with Svelte blocks, a code editor, and SSG](https://primocms.org)
 * [2023-07-21, 12:22:59](https://news.ycombinator.com/item?id=36812981) - [Show HN: A non-VC backed content creation and social media platform](https://news.ycombinator.com/item?id=36812981)
@@ -21,7 +22,6 @@
 * [2023-07-20, 23:07:36](https://news.ycombinator.com/item?id=36808001) - [Hollywood movie aside, just how good a physicist was Oppenheimer?](https://www.science.org/content/article/movie-adds-oppenheimer-s-celebrity-just-how-good-physicist-was-he)
 * [2023-07-20, 22:42:38](https://news.ycombinator.com/item?id=36807763) - [An invitation to a secret society](https://www.experimental-history.com/p/an-invitation-to-a-secret-society)
 * [2023-07-20, 21:38:52](https://news.ycombinator.com/item?id=36807108) - [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
-* [2023-07-20, 21:22:32](https://news.ycombinator.com/item?id=36806922) - [Richard Rhodes wrote a classic book about Oppenheimer and the atomic bomb](https://www.theatlantic.com/technology/archive/2023/07/richard-rhodes-making-of-the-atomic-bomb-ai/674777/)
 * [2023-07-20, 21:05:47](https://news.ycombinator.com/item?id=36806747) - [Lit: Simple, fast web components](https://lit.dev/)
 * [2023-07-20, 15:00:25](https://news.ycombinator.com/item?id=36801491) - [FedNow Is Live](https://www.federalreserve.gov/newsevents/pressreleases/other20230720a.htm)
 * [2023-07-20, 12:57:03](https://news.ycombinator.com/item?id=36799776) - [No-more-secrets: recreate the decryption effect seen in the 1992 movie Sneakers](https://github.com/bartobri/no-more-secrets)
