@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
+* [2023-07-21, 18:09:43](https://news.ycombinator.com/item?id=36817305) - [Web Environment Integrity API](https://github.com/RupertBenWiser/Web-Environment-Integrity)
+* [2023-07-21, 18:06:47](https://news.ycombinator.com/item?id=36817267) - [TSMC warns over deepening slump in chipmaking sector](https://www.ft.com/content/f433971d-fd8e-4ed3-91e9-e25a96284ea0)
+* [2023-07-21, 18:00:00](https://news.ycombinator.com/item?id=36817179) - [Mali Government takes back .ml domain, brings down one of largest Lemmy servers](https://very.bignutty.xyz/notes/9hfv05qcs5xf7irr)
+* [2023-07-21, 17:50:04](https://news.ycombinator.com/item?id=36817046) - [Death Valley Just Had the Hottest Midnight on Record](https://www.msn.com/en-us/weather/topstories/death-valley-just-had-the-hottest-midnight-on-record/ar-AA1e2u4W)
+* [2023-07-21, 17:45:45](https://news.ycombinator.com/item?id=36816982) - [There’s a heatwave in the sea and scientists are worried](https://www.bbc.com/future/article/20230720-theres-a-heatwave-in-the-sea-and-scientists-are-worried)
 * [2023-07-21, 17:29:29](https://news.ycombinator.com/item?id=36816760) - [Is shareholder capitalism a suicide pact?](https://medium.com/imagining-equity-explorations-into-the-future-of/is-shareholder-capitalism-a-suicide-pact-bd26bd10edd7)
 * [2023-07-21, 17:10:52](https://news.ycombinator.com/item?id=36816519) - [Tony Bennett Dead at 96](https://www.goodmorningamerica.com/culture/story/legendary-crooner-tony-bennett-dead-96-75761535)
 * [2023-07-21, 17:08:29](https://news.ycombinator.com/item?id=36816488) - [Insurance Company Flew a Drone to Photograph Man's House and Canceled His Policy](https://petapixel.com/2023/07/20/insurance-company-flew-a-drone-to-take-photos-of-mans-house-and-canceled-his-policy/)
