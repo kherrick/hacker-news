@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
+* [2023-07-21, 15:11:41](https://news.ycombinator.com/item?id=36814754) - [By 2028 there must be fast chargers every 60 km on the EU’s key motorways](https://www.fleeteurope.com/en/new-energies/europe/article/fast-chargers-every-60-km-key-eu-motorways?a=FJA05&t%5B0%5D=Charging&curl=1)
+* [2023-07-21, 15:01:12](https://news.ycombinator.com/item?id=36814627) - [India’s ban on rice exports raises fear of global food price rises](https://www.theguardian.com/business/2023/jul/21/india-ban-on-rice-exports-raises-fear-of-global-food-price-rises)
 * [2023-07-21, 14:39:59](https://news.ycombinator.com/item?id=36814351) - [The 115F Heat Is Killing Phones in Sardinia](https://www.bloomberg.com/news/articles/2023-07-19/dying-phones-wilting-cyclists-epicenter-of-europe-heat-wave-has-grim-warnings)
 * [2023-07-21, 14:14:48](https://news.ycombinator.com/item?id=36814019) - [How Turborepo is porting from Go to Rust](https://vercel.com/blog/how-turborepo-is-porting-from-go-to-rust?nxtPslug=how-turborepo-is-porting-from-go-to-rust)
 * [2023-07-21, 14:01:12](https://news.ycombinator.com/item?id=36813858) - [Ask HN: Do Agile 'Sprints' Benefit Software Developers?](https://news.ycombinator.com/item?id=36813858)
