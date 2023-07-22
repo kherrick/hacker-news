@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-22, 20:07:35](https://news.ycombinator.com/item?id=36829374) - [Egregoria is a city simulation with high granularity (in rust)](https://github.com/Uriopass/Egregoria)
+* [2023-07-22, 19:15:26](https://news.ycombinator.com/item?id=36828927) - [Making the most of Apple Silicon power: 2 Core capabilities [2022]](https://eclecticlight.co/2022/10/05/making-the-most-of-apple-silicon-power-2-core-capabilities/)
 * [2023-07-22, 19:00:16](https://news.ycombinator.com/item?id=36828811) - [A Caltech Nobel laureate celebrates his 100th birthday, then gets back to work](https://www.latimes.com/science/story/2023-07-21/caltech-nobel-laureate-rudy-marcus-turns-100-and-gets-back-to-work)
 * [2023-07-22, 18:51:57](https://news.ycombinator.com/item?id=36828731) - [Germany is no longer exceptional, and joining the European mainstream](https://www.theatlantic.com/international/archive/2023/07/germany-national-identity-afd-party-political-instability/674786/)
 * [2023-07-22, 18:17:29](https://news.ycombinator.com/item?id=36828409) - [Shopify employee breaks NDA to reveal firm replacing laid off workers with AI](https://thedeepdive.ca/shopify-employee-breaks-nda-to-reveal-firm-quietly-replacing-laid-off-workers-with-ai/)
@@ -21,8 +23,6 @@
 * [2023-07-22, 08:21:40](https://news.ycombinator.com/item?id=36824450) - [Plane – Open-source Jira alternative](https://plane.so)
 * [2023-07-22, 05:38:53](https://news.ycombinator.com/item?id=36823605) - [Putting the “You” in CPU](https://cpu.land/)
 * [2023-07-22, 05:30:35](https://news.ycombinator.com/item?id=36823565) - [Apple's interactive television box: Hacking the set top box System 7.1 in ROM](http://oldvcr.blogspot.com/2023/07/apples-interactive-television-box.html)
-* [2023-07-22, 05:20:10](https://news.ycombinator.com/item?id=36823524) - [ElKaWe – Electrocaloric heat pumps](https://www.fraunhofer.de/en/research/lighthouse-projects-fraunhofer-initiatives/fraunhofer-lighthouse-projects/elkawe.html)
-* [2023-07-22, 05:18:37](https://news.ycombinator.com/item?id=36823516) - [AWS networking concepts in a diagram](https://miparnisariblog.wordpress.com/2023/03/29/aws-networking-concepts/)
 * [2023-07-22, 03:29:31](https://news.ycombinator.com/item?id=36822926) - [Detection of bacteria and viruses with fluorescent nanotubes](https://phys.org/news/2023-07-bacteria-viruses-fluorescent-nanotubes.html)
 * [2023-07-21, 19:42:19](https://news.ycombinator.com/item?id=36818602) - [BP: Formal Proofs, the Fine Print and Side Effects (2018) [pdf]](https://people.scs.carleton.ca/~paulv/papers/secdev2018.pdf)
 * [2023-07-21, 13:46:46](https://news.ycombinator.com/item?id=36813688) - [Consumer software is expected to be next fast-growing segment (1994)](https://www.csmonitor.com/1994/0513/13082.html)
