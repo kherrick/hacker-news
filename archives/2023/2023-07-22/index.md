@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-22](index.md)
 
+* [2023-07-22, 13:06:39](https://news.ycombinator.com/item?id=36825913) - [Redmine – open-source project management](https://www.redmine.org/)
 * [2023-07-22, 12:31:57](https://news.ycombinator.com/item?id=36825675) - [To grasp the extent of inequality, look at the relatively well-off](https://blogs.lse.ac.uk/politicsandpolicy/to-grasp-the-extent-of-inequality-look-at-the-relatively-well-off/)
+* [2023-07-22, 12:25:34](https://news.ycombinator.com/item?id=36825633) - [Best Practices for Back End Design in Distributed System](https://www.multiplayer.app/blog/6-best-practices-for-backend-design-in-distributed-system/)
 * [2023-07-22, 11:57:41](https://news.ycombinator.com/item?id=36825481) - [Neurotechnology: Current Developments and Ethical Issues](https://www.frontiersin.org/articles/10.3389/fnsys.2017.00093/full)
 * [2023-07-22, 11:30:46](https://news.ycombinator.com/item?id=36825345) - [Embrace Complexity; Tighten Your Feedback Loops](https://ferd.ca/embrace-complexity-tighten-your-feedback-loops.html)
 * [2023-07-22, 11:00:42](https://news.ycombinator.com/item?id=36825204) - [I thought I wanted to be a professor. Then, I served on a hiring committee](https://www.science.org/content/article/i-thought-i-wanted-be-faculty-member-then-i-served-hiring-committee)

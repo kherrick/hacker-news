@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-22, 13:06:39](https://news.ycombinator.com/item?id=36825913) - [Redmine – open-source project management](https://www.redmine.org/)
+* [2023-07-22, 12:25:34](https://news.ycombinator.com/item?id=36825633) - [Best Practices for Back End Design in Distributed System](https://www.multiplayer.app/blog/6-best-practices-for-backend-design-in-distributed-system/)
 * [2023-07-22, 11:57:41](https://news.ycombinator.com/item?id=36825481) - [Neurotechnology: Current Developments and Ethical Issues](https://www.frontiersin.org/articles/10.3389/fnsys.2017.00093/full)
 * [2023-07-22, 11:30:46](https://news.ycombinator.com/item?id=36825345) - [Embrace Complexity; Tighten Your Feedback Loops](https://ferd.ca/embrace-complexity-tighten-your-feedback-loops.html)
 * [2023-07-22, 11:00:42](https://news.ycombinator.com/item?id=36825204) - [I thought I wanted to be a professor, then I served on a hiring committee (2021)](https://www.science.org/content/article/i-thought-i-wanted-be-faculty-member-then-i-served-hiring-committee)
@@ -23,8 +25,6 @@
 * [2023-07-21, 02:12:38](https://news.ycombinator.com/item?id=36809239) - [Regex matching in P with backreference (2019)](https://github.com/travisdowns/polyregex)
 * [2023-07-20, 17:28:02](https://news.ycombinator.com/item?id=36803767) - [Bayesian methods to provide probablistic solution for the Drake equation (2019)](https://www.sciencedirect.com/science/article/abs/pii/S0094576518314000)
 * [2023-07-20, 07:08:01](https://news.ycombinator.com/item?id=36797650) - [MSX-DOS](https://en.wikipedia.org/wiki/MSX-DOS)
-* [2023-07-20, 07:06:22](https://news.ycombinator.com/item?id=36797636) - [‘The best blueberry’: how a tiny North American fruit took over Australia (2022)](https://www.theguardian.com/food/2022/oct/29/the-best-blueberry-how-a-tiny-north-american-fruit-took-over-australia)
-* [2023-07-20, 06:45:33](https://news.ycombinator.com/item?id=36797514) - [About math limitations](https://www.alexmolas.com/2023/07/18/math-limitations.html)
 * [2023-07-20, 06:18:10](https://news.ycombinator.com/item?id=36797403) - [Understanding Understanding Media (2011)](https://enculturation.net/teaching-mcluhan)
 * [2023-07-19, 10:05:42](https://news.ycombinator.com/item?id=36784114) - [Confronting failure as a core life skill](https://buildinghealthier.substack.com/p/confronting-failure-as-a-core-life)
 * [2023-07-19, 09:35:28](https://news.ycombinator.com/item?id=36783937) - [Pressure and vacuum marination does not work (2016)](https://genuineideas.com/ArticlesIndex/pressuremarinade.html)
