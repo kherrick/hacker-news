@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2023-07-21, 23:22:16",
-      "https://news.ycombinator.com/item?id=36821372"
-    ],
-    [
-      "To Save the Planet, Should We Be Moving Slower?",
-      "https://www.newyorker.com/news/daily-comment/to-save-the-planet-should-we-really-be-moving-slower"
-    ]
-  ],
-  [
-    [
       "2023-07-21, 22:06:16",
       "https://news.ycombinator.com/item?id=36820555"
     ],
@@ -247,6 +237,16 @@
     [
       "RFC 9420 a.k.a. Messaging Layer Security",
       "https://blog.phnx.im/rfc-9420-mls/"
+    ]
+  ],
+  [
+    [
+      "2023-07-21, 15:49:04",
+      "https://news.ycombinator.com/item?id=36815255"
+    ],
+    [
+      "In the LLM space, \"open source\" is being used to mean \"downloadable weights\"",
+      "https://www.alessiofanelli.com/blog/llama2-isnt-open-source"
     ]
   ],
   [
