@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-22, 16:25:53",
+      "https://news.ycombinator.com/item?id=36827534"
+    ],
+    [
+      "Resilience in Complex Systems (2021)",
+      "https://irhum.github.io/blog/resilientsystems/"
+    ]
+  ],
+  [
+    [
       "2023-07-22, 16:11:46",
       "https://news.ycombinator.com/item?id=36827438"
     ],
@@ -17,16 +27,6 @@
     [
       "Why Adaptive Rate Limiting Is a Game-Changer",
       "https://blog.fluxninja.com/blog/why-adaptive-rate-limiting-is-a-game-changer"
-    ]
-  ],
-  [
-    [
-      "2023-07-22, 15:43:24",
-      "https://news.ycombinator.com/item?id=36827188"
-    ],
-    [
-      "Lab-grown cotton is on its way to consumers",
-      "https://www.forbes.com/sites/jeffkart/2023/07/08/lab-grown-cotton-enters-the-market-with-galy-suzuran-partnership/"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "More than you've ever wanted to know about errors in Rust",
       "https://www.shuttle.rs/blog/2022/06/30/error-handling"
-    ]
-  ],
-  [
-    [
-      "2023-07-22, 13:06:39",
-      "https://news.ycombinator.com/item?id=36825913"
-    ],
-    [
-      "Redmine – open-source project management",
-      "https://www.redmine.org/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Bayesian methods to provide probablistic solution for the Drake equation (2019)",
       "https://www.sciencedirect.com/science/article/abs/pii/S0094576518314000"
+    ]
+  ],
+  [
+    [
+      "2023-07-20, 08:37:07",
+      "https://news.ycombinator.com/item?id=36798137"
+    ],
+    [
+      "On constructing 2-3 trees (2018) [pdf]",
+      "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/129759AE03543B461536F78B386D93B5/S0956796818000187a.pdf/on-constructing-2-3-trees.pdf"
     ]
   ],
   [
