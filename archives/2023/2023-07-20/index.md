@@ -79,6 +79,7 @@
 * [2023-07-20, 09:27:11](https://news.ycombinator.com/item?id=36798408) - [Intel's 14th Gen Core K-Series CPU Specs Break Cover with Speeds Up to 6GHz](https://hothardware.com/news/intel-14thgen-core-k-cpu-spec-leak)
 * [2023-07-20, 09:24:47](https://news.ycombinator.com/item?id=36798395) - [Vacuum Airship](https://en.wikipedia.org/wiki/Vacuum_airship)
 * [2023-07-20, 08:50:46](https://news.ycombinator.com/item?id=36798200) - [Android is now better than iOS, says head of Instagram](https://www.threads.net/@mosseri/post/CuzpnOwtadu)
+* [2023-07-20, 08:40:43](https://news.ycombinator.com/item?id=36798162) - [Retro-Porting to OS/2 1.0](http://www.os2museum.com/wp/retro-porting-to-os-2-1-0/)
 * [2023-07-20, 08:39:30](https://news.ycombinator.com/item?id=36798157) - [MDN Playground](https://developer.mozilla.org/en-US/play)
 * [2023-07-20, 08:37:07](https://news.ycombinator.com/item?id=36798137) - [On constructing 2-3 trees (2018) [pdf]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/129759AE03543B461536F78B386D93B5/S0956796818000187a.pdf/on-constructing-2-3-trees.pdf)
 * [2023-07-20, 08:29:06](https://news.ycombinator.com/item?id=36798092) - [What Happened to Dolphin on Steam?](https://dolphin-emu.org/blog/2023/07/20/what-happened-to-dolphin-on-steam/)
