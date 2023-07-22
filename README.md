@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-22, 08:56:14](https://news.ycombinator.com/item?id=36824595) - [Octos – HTML live wallpaper engine](https://github.com/underpig1/octos)
+* [2023-07-22, 08:21:40](https://news.ycombinator.com/item?id=36824450) - [Plane – open-source Jira alternative](https://plane.so)
 * [2023-07-22, 06:04:11](https://news.ycombinator.com/item?id=36823723) - [Bun v0.7.0](https://bun.sh/blog/bun-v0.7.0)
 * [2023-07-22, 05:38:53](https://news.ycombinator.com/item?id=36823605) - [Putting the “You” in CPU](https://cpu.land/)
 * [2023-07-22, 05:30:35](https://news.ycombinator.com/item?id=36823565) - [Apple's interactive television box: Hacking the set top box System 7.1 in ROM](http://oldvcr.blogspot.com/2023/07/apples-interactive-television-box.html)
@@ -14,8 +16,6 @@
 * [2023-07-22, 00:23:40](https://news.ycombinator.com/item?id=36821861) - [Employees bid on Anchor Brewery](https://vinepair.com/booze-news/anchor-employees-brewery-takeover-bid/)
 * [2023-07-21, 22:06:16](https://news.ycombinator.com/item?id=36820555) - [NativePHP: A framework for building desktop apps using PHP](https://nativephp.com/docs/1/getting-started/introduction)
 * [2023-07-21, 21:58:40](https://news.ycombinator.com/item?id=36820469) - [Managing Kitchen Fruit Flies with a Little Shop of Horrors](https://blog.zaccohn.com/Fruitflies-and-the-Little-Shop-of-Horrors/)
-* [2023-07-21, 21:39:05](https://news.ycombinator.com/item?id=36820205) - [TH3P4G3 Thunderbolt eGPU Dock Review (2022)](https://egpu.io/exp-gdc-th3p4g2-thunderbolt-gpu-dock-review/)
-* [2023-07-21, 21:32:21](https://news.ycombinator.com/item?id=36820105) - [Book Review: The Laws of Trading](https://astralcodexten.substack.com/p/your-book-review-the-laws-of-trading)
 * [2023-07-21, 21:17:45](https://news.ycombinator.com/item?id=36819906) - [Llama: Add grammar-based sampling](https://github.com/ggerganov/llama.cpp/pull/1773)
 * [2023-07-21, 21:01:12](https://news.ycombinator.com/item?id=36819670) - [Sleep Reset (YC W17) Is Hiring](https://www.ycombinator.com/companies/sleep-reset/jobs/8qZIdyD-personal-assistant-must-be-korean-english-bilingual)
 * [2023-07-21, 20:03:56](https://news.ycombinator.com/item?id=36818923) - [FreeWilly 1 and 2, two new open-access LLMs](https://stability.ai/blog/freewilly-large-instruction-fine-tuned-models)
