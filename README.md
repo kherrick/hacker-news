@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-22, 02:39:31](https://news.ycombinator.com/item?id=36822654) - [FBI improperly used 702 surveillance powers on US senator](https://thehill.com/homenews/administration/4110850-fbi-improperly-used-702-surveillance-powers-on-us-senator/)
 * [2023-07-22, 01:48:35](https://news.ycombinator.com/item?id=36822374) - [Facebook denies cookie tracking allegations (2011)](https://www.zdnet.com/article/facebook-denies-cookie-tracking-allegations/)
 * [2023-07-22, 01:42:28](https://news.ycombinator.com/item?id=36822335) - [Middle class homebuyers taking $7k mortgages planning to later refinance down](https://fortune.com/2023/07/19/mortgage-rates-housing-market-affordability-borrower-refinance-speculation/)
 * [2023-07-22, 01:08:09](https://news.ycombinator.com/item?id=36822141) - [Amazon is getting ready to launch a lot of broadband satellites](https://arstechnica.com/space/2023/07/amazon-is-getting-ready-to-launch-a-lot-of-broadband-satellites/)
@@ -27,7 +28,6 @@
 * [2023-07-21, 12:38:14](https://news.ycombinator.com/item?id=36813086) - [Show HN: Primo – a visual CMS with Svelte blocks, a code editor, and SSG](https://primocms.org)
 * [2023-07-21, 08:48:48](https://news.ycombinator.com/item?id=36811554) - [I have written a JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/)
 * [2023-07-20, 07:06:22](https://news.ycombinator.com/item?id=36797636) - [‘The best blueberry’: how a tiny North American fruit took over Australia (2022)](https://www.theguardian.com/food/2022/oct/29/the-best-blueberry-how-a-tiny-north-american-fruit-took-over-australia)
-* [2023-07-20, 04:32:45](https://news.ycombinator.com/item?id=36796917) - [The Rediscovery of Susan Taubes](https://www.tabletmag.com/sections/arts-letters/articles/lament-for-susan)
 * [2023-07-19, 10:05:42](https://news.ycombinator.com/item?id=36784114) - [Confronting Failure as a Core Life Skill](https://buildinghealthier.substack.com/p/confronting-failure-as-a-core-life)
 * [2023-07-19, 08:23:15](https://news.ycombinator.com/item?id=36783449) - [Bfs 3.0: The Fastest Find Yet](https://tavianator.com/2023/bfs_3.0.html)
 
