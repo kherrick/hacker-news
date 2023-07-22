@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-07-22, 15:27:37",
-      "https://news.ycombinator.com/item?id=36827034"
-    ],
-    [
-      "New Yorkers Got Broken Promises. Developers Got 20M Sq. Ft",
-      "https://www.nytimes.com/interactive/2023/07/21/nyregion/nyc-developers-private-owned-public-spaces.html"
-    ]
-  ],
-  [
-    [
       "2023-07-22, 14:18:47",
       "https://news.ycombinator.com/item?id=36826446"
     ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=36826210"
     ],
     [
-      "A Brief History of Computers",
+      "A brief history of computers",
       "https://www.lesswrong.com/posts/vfRpzyGsikujm9ujj/a-brief-history-of-computers"
     ]
   ],
@@ -45,18 +35,8 @@
       "https://news.ycombinator.com/item?id=36826177"
     ],
     [
-      "Botulinum toxin: Bioweapon and magic drug",
+      "Botulinum toxin: Bioweapon and magic drug (2010)",
       "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3028942/"
-    ]
-  ],
-  [
-    [
-      "2023-07-22, 13:36:22",
-      "https://news.ycombinator.com/item?id=36826111"
-    ],
-    [
-      "Why even let users set their own passwords?",
-      "https://www.devever.net/~hl/passwords"
     ]
   ],
   [
@@ -91,6 +71,16 @@
   ],
   [
     [
+      "2023-07-22, 11:32:35",
+      "https://news.ycombinator.com/item?id=36825353"
+    ],
+    [
+      "Computational Chemistry Using PyTorch",
+      "https://github.com/Mariewelt/OpenChem"
+    ]
+  ],
+  [
+    [
       "2023-07-22, 11:30:46",
       "https://news.ycombinator.com/item?id=36825345"
     ],
@@ -111,6 +101,16 @@
   ],
   [
     [
+      "2023-07-22, 10:43:38",
+      "https://news.ycombinator.com/item?id=36825119"
+    ],
+    [
+      "Why did these algae grow like this in the pool?",
+      "https://physics.stackexchange.com/questions/772882/why-did-these-algae-grow-like-this-in-the-pool-are-these-curves-the-gravitation"
+    ]
+  ],
+  [
+    [
       "2023-07-22, 09:44:39",
       "https://news.ycombinator.com/item?id=36824856"
     ],
@@ -121,12 +121,12 @@
   ],
   [
     [
-      "2023-07-22, 08:58:09",
-      "https://news.ycombinator.com/item?id=36824607"
+      "2023-07-22, 09:38:03",
+      "https://news.ycombinator.com/item?id=36824826"
     ],
     [
-      "Over-grazing and desertification in the Syrian steppe root causes of war (2015)",
-      "https://theecologist.org/2015/jun/05/over-grazing-and-desertification-syrian-steppe-are-root-causes-war"
+      "Ownership Checks for C [pdf]",
+      "https://github.com/thradams/cake/blob/main/docs/ownership.pdf"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=36813688"
     ],
     [
-      "Consumer Software Is Expected to Be Next Fast-Growing Segment (1994)",
+      "Consumer software is expected to be next fast-growing segment (1994)",
       "https://www.csmonitor.com/1994/0513/13082.html"
     ]
   ],
