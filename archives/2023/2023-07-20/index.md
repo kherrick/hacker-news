@@ -29,6 +29,7 @@
 * [2023-07-20, 18:12:32](https://news.ycombinator.com/item?id=36804394) - [The Moon Landing Was Opposed by Majority of US](https://newsletter.pessimistsarchive.org/p/the-moon-landing-was-opposed-by-majority)
 * [2023-07-20, 17:44:24](https://news.ycombinator.com/item?id=36804013) - [Wiio’s laws: Communication usually fails, except by accident](https://en.wikipedia.org/wiki/Wiio%27s_laws)
 * [2023-07-20, 17:41:12](https://news.ycombinator.com/item?id=36803964) - [What are the “trophy jobs” in tech?](https://anuatluru.com/blog/trophyjobs)
+* [2023-07-20, 17:28:02](https://news.ycombinator.com/item?id=36803767) - [Bayesian methods to provide probablistic solution for the Drake equation (2019)](https://www.sciencedirect.com/science/article/abs/pii/S0094576518314000)
 * [2023-07-20, 17:26:05](https://news.ycombinator.com/item?id=36803744) - [Custom Instructions for ChatGPT](https://openai.com/blog/custom-instructions-for-chatgpt)
 * [2023-07-20, 17:11:08](https://news.ycombinator.com/item?id=36803533) - [Show HN: RAGstack – private ChatGPT for enterprise VPCs, built with Llama 2](https://github.com/psychic-api/rag-stack)
 * [2023-07-20, 17:01:06](https://news.ycombinator.com/item?id=36803408) - [Running Stable Diffusion in 260MB of RAM](https://github.com/vitoplantamura/OnnxStream)
