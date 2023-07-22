@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-22](index.md)
 
+* [2023-07-22, 15:43:24](https://news.ycombinator.com/item?id=36827188) - [Lab-grown cotton is on its way to consumers](https://www.forbes.com/sites/jeffkart/2023/07/08/lab-grown-cotton-enters-the-market-with-galy-suzuran-partnership/)
 * [2023-07-22, 15:27:37](https://news.ycombinator.com/item?id=36827034) - [New Yorkers Got Broken Promises. Developers Got 20M Sq. Ft](https://www.nytimes.com/interactive/2023/07/21/nyregion/nyc-developers-private-owned-public-spaces.html)
 * [2023-07-22, 14:47:25](https://news.ycombinator.com/item?id=36826664) - [Scientists: Fishing boats compete with whales and penguins for Antarctic krill](https://news.mongabay.com/2023/07/scientists-fishing-boats-compete-with-whales-and-penguins-for-antarctic-krill/)
+* [2023-07-22, 14:18:47](https://news.ycombinator.com/item?id=36826446) - [Computational Complexity of Texture Encoding](https://fgiesen.wordpress.com/2023/07/21/computational-complexity-of-texture-encoding/)
 * [2023-07-22, 13:50:28](https://news.ycombinator.com/item?id=36826210) - [A Brief History of Computers](https://www.lesswrong.com/posts/vfRpzyGsikujm9ujj/a-brief-history-of-computers)
 * [2023-07-22, 13:46:08](https://news.ycombinator.com/item?id=36826177) - [Botulinum toxin: Bioweapon and magic drug](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3028942/)
 * [2023-07-22, 13:36:22](https://news.ycombinator.com/item?id=36826111) - [Why even let users set their own passwords?](https://www.devever.net/~hl/passwords)
