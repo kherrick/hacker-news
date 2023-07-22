@@ -65,6 +65,7 @@
 * [2023-07-21, 14:39:59](https://news.ycombinator.com/item?id=36814351) - [The 115F Heat Is Killing Phones in Sardinia](https://www.bloomberg.com/news/articles/2023-07-19/dying-phones-wilting-cyclists-epicenter-of-europe-heat-wave-has-grim-warnings)
 * [2023-07-21, 14:14:48](https://news.ycombinator.com/item?id=36814019) - [How Turborepo is porting from Go to Rust](https://vercel.com/blog/how-turborepo-is-porting-from-go-to-rust?nxtPslug=how-turborepo-is-porting-from-go-to-rust)
 * [2023-07-21, 14:01:12](https://news.ycombinator.com/item?id=36813858) - [Ask HN: Do Agile 'Sprints' Benefit Software Developers?](https://news.ycombinator.com/item?id=36813858)
+* [2023-07-21, 13:46:46](https://news.ycombinator.com/item?id=36813688) - [Consumer Software Is Expected to Be Next Fast-Growing Segment (1994)](https://www.csmonitor.com/1994/0513/13082.html)
 * [2023-07-21, 13:42:05](https://news.ycombinator.com/item?id=36813633) - [Study finds regular 'phubbing' could be damaging marriages](https://phys.org/news/2023-07-regular-phubbing-marriages.html)
 * [2023-07-21, 13:34:11](https://news.ycombinator.com/item?id=36813564) - [Dementia risk linked to blood-protein imbalance in middle age](https://www.nature.com/articles/d41586-023-02374-2)
 * [2023-07-21, 13:17:22](https://news.ycombinator.com/item?id=36813392) - [Three lessons from negative trends in vertical farming](https://www.verticalfarmdaily.com/article/9537965/lessons-from-vertical-farming-bankruptcies-layoffs-and-closures-in-2023/)

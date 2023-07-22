@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-22, 15:27:37](https://news.ycombinator.com/item?id=36827034) - [New Yorkers Got Broken Promises. Developers Got 20M Sq. Ft](https://www.nytimes.com/interactive/2023/07/21/nyregion/nyc-developers-private-owned-public-spaces.html)
 * [2023-07-22, 13:50:28](https://news.ycombinator.com/item?id=36826210) - [A Brief History of Computers](https://www.lesswrong.com/posts/vfRpzyGsikujm9ujj/a-brief-history-of-computers)
 * [2023-07-22, 13:46:08](https://news.ycombinator.com/item?id=36826177) - [Botulinum toxin: Bioweapon and magic drug](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3028942/)
 * [2023-07-22, 13:36:22](https://news.ycombinator.com/item?id=36826111) - [Why even let users set their own passwords?](https://www.devever.net/~hl/passwords)
@@ -21,15 +22,14 @@
 * [2023-07-22, 04:47:24](https://news.ycombinator.com/item?id=36823375) - [What we talk about when we talk about System Design](https://maheshba.bitbucket.io/blog/2023/07/12/Design.html)
 * [2023-07-22, 03:22:43](https://news.ycombinator.com/item?id=36822880) - [Internet search tips](https://gwern.net/search)
 * [2023-07-22, 02:19:30](https://news.ycombinator.com/item?id=36822530) - [Discovery: Metals can heal themselves](https://newsreleases.sandia.gov/healing_metals/)
-* [2023-07-22, 00:24:52](https://news.ycombinator.com/item?id=36821871) - [Using Prolog in Windows NT Network Configuration (1996)](https://web.archive.org/web/20030218034509/http://www.research.microsoft.com/research/dtg/davidhov/pap.htm)
-* [2023-07-21, 21:17:45](https://news.ycombinator.com/item?id=36819906) - [Llama: Add grammar-based sampling](https://github.com/ggerganov/llama.cpp/pull/1773)
+* [2023-07-21, 13:46:46](https://news.ycombinator.com/item?id=36813688) - [Consumer Software Is Expected to Be Next Fast-Growing Segment (1994)](https://www.csmonitor.com/1994/0513/13082.html)
 * [2023-07-21, 00:19:50](https://news.ycombinator.com/item?id=36808566) - [Hokusai’s Illustrated Warrior Vanguard of Japan and China (1836)](https://publicdomainreview.org/collection/hokusai-warriors/)
 * [2023-07-20, 17:28:02](https://news.ycombinator.com/item?id=36803767) - [Bayesian methods to provide probablistic solution for the Drake equation (2019)](https://www.sciencedirect.com/science/article/abs/pii/S0094576518314000)
 * [2023-07-20, 07:08:01](https://news.ycombinator.com/item?id=36797650) - [MSX-DOS](https://en.wikipedia.org/wiki/MSX-DOS)
+* [2023-07-20, 06:45:33](https://news.ycombinator.com/item?id=36797514) - [About math limitations](https://www.alexmolas.com/2023/07/18/math-limitations.html)
 * [2023-07-20, 06:35:56](https://news.ycombinator.com/item?id=36797471) - [Google tries internet air-gap for some staff PCs](https://www.theregister.com/2023/07/19/google_cuts_internet/)
 * [2023-07-19, 10:05:42](https://news.ycombinator.com/item?id=36784114) - [Confronting failure as a core life skill](https://buildinghealthier.substack.com/p/confronting-failure-as-a-core-life)
 * [2023-07-19, 09:35:28](https://news.ycombinator.com/item?id=36783937) - [Pressure and vacuum marination does not work (2016)](https://genuineideas.com/ArticlesIndex/pressuremarinade.html)
-* [2023-07-19, 08:32:52](https://news.ycombinator.com/item?id=36783509) - [Spawn() of Satan (2018)](https://tavianator.com/2018/spawn_of_satan.html)
 
 ## [Archives](archives/index.md)
 

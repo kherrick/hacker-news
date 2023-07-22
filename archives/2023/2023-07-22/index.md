@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-22](index.md)
 
+* [2023-07-22, 15:27:37](https://news.ycombinator.com/item?id=36827034) - [New Yorkers Got Broken Promises. Developers Got 20M Sq. Ft](https://www.nytimes.com/interactive/2023/07/21/nyregion/nyc-developers-private-owned-public-spaces.html)
 * [2023-07-22, 13:50:28](https://news.ycombinator.com/item?id=36826210) - [A Brief History of Computers](https://www.lesswrong.com/posts/vfRpzyGsikujm9ujj/a-brief-history-of-computers)
 * [2023-07-22, 13:46:08](https://news.ycombinator.com/item?id=36826177) - [Botulinum toxin: Bioweapon and magic drug](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3028942/)
 * [2023-07-22, 13:36:22](https://news.ycombinator.com/item?id=36826111) - [Why even let users set their own passwords?](https://www.devever.net/~hl/passwords)
