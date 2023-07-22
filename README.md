@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-22, 06:12:46](https://news.ycombinator.com/item?id=36823765) - [Climate records tumble, leaving Earth in uncharted territory – scientists](https://www.bbc.com/news/science-environment-66229065)
 * [2023-07-22, 06:04:11](https://news.ycombinator.com/item?id=36823723) - [Bun v0.7.0](https://bun.sh/blog/bun-v0.7.0)
 * [2023-07-22, 05:38:53](https://news.ycombinator.com/item?id=36823605) - [Putting the “You” in CPU](https://cpu.land/)
 * [2023-07-22, 05:30:35](https://news.ycombinator.com/item?id=36823565) - [Apple's interactive television box: Hacking the set top box System 7.1 in ROM](http://oldvcr.blogspot.com/2023/07/apples-interactive-television-box.html)
@@ -24,7 +25,6 @@
 * [2023-07-21, 18:32:16](https://news.ycombinator.com/item?id=36817628) - [MiniZinc](https://www.minizinc.org/)
 * [2023-07-21, 18:22:52](https://news.ycombinator.com/item?id=36817482) - [For BSD Unix, It's Sayonara (1992)](https://www.tech-insider.org/unix/research/1992/0622.html)
 * [2023-07-21, 18:09:43](https://news.ycombinator.com/item?id=36817305) - [Web Environment Integrity API Proposal](https://github.com/RupertBenWiser/Web-Environment-Integrity)
-* [2023-07-21, 08:48:48](https://news.ycombinator.com/item?id=36811554) - [I have written a JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/)
 * [2023-07-20, 07:06:22](https://news.ycombinator.com/item?id=36797636) - [‘The best blueberry’: how a tiny North American fruit took over Australia (2022)](https://www.theguardian.com/food/2022/oct/29/the-best-blueberry-how-a-tiny-north-american-fruit-took-over-australia)
 * [2023-07-20, 06:35:56](https://news.ycombinator.com/item?id=36797471) - [Google tries internet air-gap for some staff PCs](https://www.theregister.com/2023/07/19/google_cuts_internet/)
 * [2023-07-19, 10:05:42](https://news.ycombinator.com/item?id=36784114) - [Confronting failure as a core life skill](https://buildinghealthier.substack.com/p/confronting-failure-as-a-core-life)
