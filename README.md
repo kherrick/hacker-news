@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-22, 21:18:23](https://news.ycombinator.com/item?id=36830062) - [How does iCloud work? Plus a new version of Cirrus – The Eclectic Light Company](https://eclecticlight.co/2023/07/17/how-does-icloud-work-plus-a-new-version-of-cirrus/)
 * [2023-07-22, 20:57:48](https://news.ycombinator.com/item?id=36829854) - [Amsterdam bans cruise ships to limit visitors and curb pollution](https://www.bbc.com/news/world-europe-66264226)
 * [2023-07-22, 20:39:54](https://news.ycombinator.com/item?id=36829672) - [Hops for beer flourish under solar panels](https://apnews.com/article/climate-beer-solar-panels-hops-germany-ee3d00a1877837eb85053335e3b68a00)
 * [2023-07-22, 20:07:35](https://news.ycombinator.com/item?id=36829374) - [Egregoria: 3D City Builder without a grid](https://github.com/Uriopass/Egregoria)
@@ -11,7 +12,6 @@
 * [2023-07-22, 16:11:46](https://news.ycombinator.com/item?id=36827438) - [I am dying of squamous cell carcinoma, and potential treatments are out of reach](https://jakeseliger.com/2023/07/22/i-am-dying-of-squamous-cell-carcinoma-and-the-treatments-that-might-save-me-are-just-out-of-reach/)
 * [2023-07-22, 14:56:48](https://news.ycombinator.com/item?id=36826755) - [Important Coding Habits](https://puppycoding.com/2023/07/22/healthy-coding-habits/)
 * [2023-07-22, 14:18:47](https://news.ycombinator.com/item?id=36826446) - [Computational Complexity of Texture Encoding](https://fgiesen.wordpress.com/2023/07/21/computational-complexity-of-texture-encoding/)
-* [2023-07-22, 14:17:22](https://news.ycombinator.com/item?id=36826438) - [Malicious libraries can steal all your application secrets in Elixir](https://www.peterullrich.com/how-malicious-libraries-can-steal-all-your-application-secrets)
 * [2023-07-22, 13:50:28](https://news.ycombinator.com/item?id=36826210) - [A brief history of computers](https://www.lesswrong.com/posts/vfRpzyGsikujm9ujj/a-brief-history-of-computers)
 * [2023-07-22, 13:46:08](https://news.ycombinator.com/item?id=36826177) - [Botulinum toxin: Bioweapon and magic drug (2010)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3028942/)
 * [2023-07-22, 13:36:22](https://news.ycombinator.com/item?id=36826111) - [Why even let users set their own passwords?](https://www.devever.net/~hl/passwords)
