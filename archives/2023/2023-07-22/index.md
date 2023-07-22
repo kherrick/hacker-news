@@ -6,6 +6,7 @@
 
 * [2023-07-22, 08:56:14](https://news.ycombinator.com/item?id=36824595) - [Octos – HTML live wallpaper engine](https://github.com/underpig1/octos)
 * [2023-07-22, 08:21:40](https://news.ycombinator.com/item?id=36824450) - [Plane – open-source Jira alternative](https://plane.so)
+* [2023-07-22, 07:57:44](https://news.ycombinator.com/item?id=36824330) - [Biotumen: Bitumen Reinvented](https://biofabrik.com/biotumen/)
 * [2023-07-22, 06:35:06](https://news.ycombinator.com/item?id=36823871) - [Google Web Environment Integrity – Privacy Considerations](https://rupertbenwiser.github.io/Web-Environment-Integrity/#privacy)
 * [2023-07-22, 06:12:46](https://news.ycombinator.com/item?id=36823765) - [Climate records tumble, leaving Earth in uncharted territory – scientists](https://www.bbc.com/news/science-environment-66229065)
 * [2023-07-22, 06:04:11](https://news.ycombinator.com/item?id=36823723) - [Bun v0.7.0](https://bun.sh/blog/bun-v0.7.0)

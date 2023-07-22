@@ -2,6 +2,7 @@
 
 * [2023-07-22, 08:56:14](https://news.ycombinator.com/item?id=36824595) - [Octos – HTML live wallpaper engine](https://github.com/underpig1/octos)
 * [2023-07-22, 08:21:40](https://news.ycombinator.com/item?id=36824450) - [Plane – open-source Jira alternative](https://plane.so)
+* [2023-07-22, 07:57:44](https://news.ycombinator.com/item?id=36824330) - [Biotumen: Bitumen Reinvented](https://biofabrik.com/biotumen/)
 * [2023-07-22, 06:04:11](https://news.ycombinator.com/item?id=36823723) - [Bun v0.7.0](https://bun.sh/blog/bun-v0.7.0)
 * [2023-07-22, 05:38:53](https://news.ycombinator.com/item?id=36823605) - [Putting the “You” in CPU](https://cpu.land/)
 * [2023-07-22, 05:30:35](https://news.ycombinator.com/item?id=36823565) - [Apple's interactive television box: Hacking the set top box System 7.1 in ROM](http://oldvcr.blogspot.com/2023/07/apples-interactive-television-box.html)
@@ -21,7 +22,6 @@
 * [2023-07-21, 21:01:12](https://news.ycombinator.com/item?id=36819670) - [Sleep Reset (YC W17) Is Hiring](https://www.ycombinator.com/companies/sleep-reset/jobs/8qZIdyD-personal-assistant-must-be-korean-english-bilingual)
 * [2023-07-21, 20:03:56](https://news.ycombinator.com/item?id=36818923) - [FreeWilly 1 and 2, two new open-access LLMs](https://stability.ai/blog/freewilly-large-instruction-fine-tuned-models)
 * [2023-07-21, 20:01:20](https://news.ycombinator.com/item?id=36818896) - [Journalists should be skeptical of all sources including scientists](https://natesilver.substack.com/p/journalists-should-be-skeptical-of)
-* [2023-07-21, 18:09:43](https://news.ycombinator.com/item?id=36817305) - [Web Environment Integrity API Proposal](https://github.com/RupertBenWiser/Web-Environment-Integrity)
 * [2023-07-20, 07:08:01](https://news.ycombinator.com/item?id=36797650) - [MSX-DOS](https://en.wikipedia.org/wiki/MSX-DOS)
 * [2023-07-20, 07:06:22](https://news.ycombinator.com/item?id=36797636) - [‘The best blueberry’: how a tiny North American fruit took over Australia (2022)](https://www.theguardian.com/food/2022/oct/29/the-best-blueberry-how-a-tiny-north-american-fruit-took-over-australia)
 * [2023-07-20, 06:45:33](https://news.ycombinator.com/item?id=36797514) - [About math limitations](https://www.alexmolas.com/2023/07/18/math-limitations.html)
