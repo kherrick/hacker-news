@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-22, 12:31:57](https://news.ycombinator.com/item?id=36825675) - [To grasp the extent of inequality, look at the relatively well-off](https://blogs.lse.ac.uk/politicsandpolicy/to-grasp-the-extent-of-inequality-look-at-the-relatively-well-off/)
 * [2023-07-22, 11:57:41](https://news.ycombinator.com/item?id=36825481) - [Neurotechnology: Current Developments and Ethical Issues](https://www.frontiersin.org/articles/10.3389/fnsys.2017.00093/full)
+* [2023-07-22, 11:00:42](https://news.ycombinator.com/item?id=36825204) - [I thought I wanted to be a professor. Then, I served on a hiring committee](https://www.science.org/content/article/i-thought-i-wanted-be-faculty-member-then-i-served-hiring-committee)
 * [2023-07-22, 09:44:39](https://news.ycombinator.com/item?id=36824856) - [Simpson Fan Grows Tomacco (2003)](https://www.simpsonsarchive.com/news/tomacco.html)
 * [2023-07-22, 08:58:09](https://news.ycombinator.com/item?id=36824607) - [Over-grazing and desertification in the Syrian steppe root causes of war (2015)](https://theecologist.org/2015/jun/05/over-grazing-and-desertification-syrian-steppe-are-root-causes-war)
 * [2023-07-22, 08:56:14](https://news.ycombinator.com/item?id=36824595) - [Octos – HTML live wallpaper engine](https://github.com/underpig1/octos)
@@ -18,8 +20,6 @@
 * [2023-07-22, 02:19:30](https://news.ycombinator.com/item?id=36822530) - [Discovery: Metals can heal themselves](https://newsreleases.sandia.gov/healing_metals/)
 * [2023-07-22, 00:24:52](https://news.ycombinator.com/item?id=36821871) - [Using Prolog in Windows NT Network Configuration (1996)](https://web.archive.org/web/20030218034509/http://www.research.microsoft.com/research/dtg/davidhov/pap.htm)
 * [2023-07-21, 22:06:16](https://news.ycombinator.com/item?id=36820555) - [NativePHP: A framework for building desktop apps using PHP](https://nativephp.com/docs/1/getting-started/introduction)
-* [2023-07-21, 21:58:40](https://news.ycombinator.com/item?id=36820469) - [Managing Kitchen Fruit Flies with a Little Shop of Horrors](https://blog.zaccohn.com/Fruitflies-and-the-Little-Shop-of-Horrors/)
-* [2023-07-21, 21:32:21](https://news.ycombinator.com/item?id=36820105) - [Book Review: The Laws of Trading](https://astralcodexten.substack.com/p/your-book-review-the-laws-of-trading)
 * [2023-07-21, 21:17:45](https://news.ycombinator.com/item?id=36819906) - [Llama: Add grammar-based sampling](https://github.com/ggerganov/llama.cpp/pull/1773)
 * [2023-07-21, 02:12:38](https://news.ycombinator.com/item?id=36809239) - [Regex matching in P with backreference (2019)](https://github.com/travisdowns/polyregex)
 * [2023-07-20, 07:08:01](https://news.ycombinator.com/item?id=36797650) - [MSX-DOS](https://en.wikipedia.org/wiki/MSX-DOS)
