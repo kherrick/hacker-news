@@ -6,6 +6,7 @@
 
 * [2023-07-22, 12:31:57](https://news.ycombinator.com/item?id=36825675) - [To grasp the extent of inequality, look at the relatively well-off](https://blogs.lse.ac.uk/politicsandpolicy/to-grasp-the-extent-of-inequality-look-at-the-relatively-well-off/)
 * [2023-07-22, 11:57:41](https://news.ycombinator.com/item?id=36825481) - [Neurotechnology: Current Developments and Ethical Issues](https://www.frontiersin.org/articles/10.3389/fnsys.2017.00093/full)
+* [2023-07-22, 11:30:46](https://news.ycombinator.com/item?id=36825345) - [Embrace Complexity; Tighten Your Feedback Loops](https://ferd.ca/embrace-complexity-tighten-your-feedback-loops.html)
 * [2023-07-22, 11:00:42](https://news.ycombinator.com/item?id=36825204) - [I thought I wanted to be a professor. Then, I served on a hiring committee](https://www.science.org/content/article/i-thought-i-wanted-be-faculty-member-then-i-served-hiring-committee)
 * [2023-07-22, 09:44:39](https://news.ycombinator.com/item?id=36824856) - [Simpson Fan Grows Tomacco](https://www.simpsonsarchive.com/news/tomacco.html)
 * [2023-07-22, 08:58:09](https://news.ycombinator.com/item?id=36824607) - [Over-grazing and desertification in the Syrian steppe root causes of war (2015)](https://theecologist.org/2015/jun/05/over-grazing-and-desertification-syrian-steppe-are-root-causes-war)
