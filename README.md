@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-22, 16:11:46](https://news.ycombinator.com/item?id=36827438) - [I am dying of squamous cell carcinoma, and potential treatments are out of reach](https://jakeseliger.com/2023/07/22/i-am-dying-of-squamous-cell-carcinoma-and-the-treatments-that-might-save-me-are-just-out-of-reach/)
 * [2023-07-22, 15:43:24](https://news.ycombinator.com/item?id=36827188) - [Lab-grown cotton is on its way to consumers](https://www.forbes.com/sites/jeffkart/2023/07/08/lab-grown-cotton-enters-the-market-with-galy-suzuran-partnership/)
 * [2023-07-22, 14:18:47](https://news.ycombinator.com/item?id=36826446) - [Computational Complexity of Texture Encoding](https://fgiesen.wordpress.com/2023/07/21/computational-complexity-of-texture-encoding/)
 * [2023-07-22, 13:50:28](https://news.ycombinator.com/item?id=36826210) - [A brief history of computers](https://www.lesswrong.com/posts/vfRpzyGsikujm9ujj/a-brief-history-of-computers)
@@ -23,13 +24,12 @@
 * [2023-07-22, 05:18:37](https://news.ycombinator.com/item?id=36823516) - [AWS networking concepts in a diagram](https://miparnisariblog.wordpress.com/2023/03/29/aws-networking-concepts/)
 * [2023-07-22, 04:47:24](https://news.ycombinator.com/item?id=36823375) - [What we talk about when we talk about system design](https://maheshba.bitbucket.io/blog/2023/07/12/Design.html)
 * [2023-07-22, 03:22:43](https://news.ycombinator.com/item?id=36822880) - [Internet search tips](https://gwern.net/search)
-* [2023-07-22, 02:19:30](https://news.ycombinator.com/item?id=36822530) - [Discovery: Metals can heal themselves](https://newsreleases.sandia.gov/healing_metals/)
+* [2023-07-21, 19:42:19](https://news.ycombinator.com/item?id=36818602) - [BP: Formal Proofs, the Fine Print and Side Effects [pdf]](https://people.scs.carleton.ca/~paulv/papers/secdev2018.pdf)
 * [2023-07-21, 13:46:46](https://news.ycombinator.com/item?id=36813688) - [Consumer software is expected to be next fast-growing segment (1994)](https://www.csmonitor.com/1994/0513/13082.html)
 * [2023-07-21, 00:19:50](https://news.ycombinator.com/item?id=36808566) - [Hokusai’s Illustrated Warrior Vanguard of Japan and China (1836)](https://publicdomainreview.org/collection/hokusai-warriors/)
 * [2023-07-20, 17:28:02](https://news.ycombinator.com/item?id=36803767) - [Bayesian methods to provide probablistic solution for the Drake equation (2019)](https://www.sciencedirect.com/science/article/abs/pii/S0094576518314000)
 * [2023-07-20, 07:08:01](https://news.ycombinator.com/item?id=36797650) - [MSX-DOS](https://en.wikipedia.org/wiki/MSX-DOS)
 * [2023-07-20, 06:35:56](https://news.ycombinator.com/item?id=36797471) - [Google tries internet air-gap for some staff PCs](https://www.theregister.com/2023/07/19/google_cuts_internet/)
-* [2023-07-19, 09:35:28](https://news.ycombinator.com/item?id=36783937) - [Pressure and vacuum marination does not work (2016)](https://genuineideas.com/ArticlesIndex/pressuremarinade.html)
 
 ## [Archives](archives/index.md)
 
