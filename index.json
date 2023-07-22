@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-22, 15:27:37",
+      "https://news.ycombinator.com/item?id=36827034"
+    ],
+    [
+      "New Yorkers Got Broken Promises. Developers Got 20M Sq. Ft",
+      "https://www.nytimes.com/interactive/2023/07/21/nyregion/nyc-developers-private-owned-public-spaces.html"
+    ]
+  ],
+  [
+    [
       "2023-07-22, 13:50:28",
       "https://news.ycombinator.com/item?id=36826210"
     ],
@@ -211,22 +221,12 @@
   ],
   [
     [
-      "2023-07-22, 00:24:52",
-      "https://news.ycombinator.com/item?id=36821871"
+      "2023-07-21, 13:46:46",
+      "https://news.ycombinator.com/item?id=36813688"
     ],
     [
-      "Using Prolog in Windows NT Network Configuration (1996)",
-      "https://web.archive.org/web/20030218034509/http://www.research.microsoft.com/research/dtg/davidhov/pap.htm"
-    ]
-  ],
-  [
-    [
-      "2023-07-21, 21:17:45",
-      "https://news.ycombinator.com/item?id=36819906"
-    ],
-    [
-      "Llama: Add grammar-based sampling",
-      "https://github.com/ggerganov/llama.cpp/pull/1773"
+      "Consumer Software Is Expected to Be Next Fast-Growing Segment (1994)",
+      "https://www.csmonitor.com/1994/0513/13082.html"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2023-07-20, 06:45:33",
+      "https://news.ycombinator.com/item?id=36797514"
+    ],
+    [
+      "About math limitations",
+      "https://www.alexmolas.com/2023/07/18/math-limitations.html"
+    ]
+  ],
+  [
+    [
       "2023-07-20, 06:35:56",
       "https://news.ycombinator.com/item?id=36797471"
     ],
@@ -287,16 +297,6 @@
     [
       "Pressure and vacuum marination does not work (2016)",
       "https://genuineideas.com/ArticlesIndex/pressuremarinade.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-19, 08:32:52",
-      "https://news.ycombinator.com/item?id=36783509"
-    ],
-    [
-      "Spawn() of Satan (2018)",
-      "https://tavianator.com/2018/spawn_of_satan.html"
     ]
   ]
 ]
