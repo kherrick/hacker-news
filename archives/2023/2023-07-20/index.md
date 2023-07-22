@@ -90,6 +90,7 @@
 * [2023-07-20, 06:38:54](https://news.ycombinator.com/item?id=36797485) - [Ask HN: For 10 years I've been trying various projects, still clueless](https://news.ycombinator.com/item?id=36797485)
 * [2023-07-20, 06:35:56](https://news.ycombinator.com/item?id=36797471) - [Google tries internet air-gap for some staff PCs](https://www.theregister.com/2023/07/19/google_cuts_internet/)
 * [2023-07-20, 06:27:56](https://news.ycombinator.com/item?id=36797432) - [On the Origin of LLMs](https://arxiv.org/abs/2307.09793)
+* [2023-07-20, 06:18:10](https://news.ycombinator.com/item?id=36797403) - [Understanding Understanding Media (2011)](https://enculturation.net/teaching-mcluhan)
 * [2023-07-20, 06:02:04](https://news.ycombinator.com/item?id=36797324) - [Hipgnosis, the designers who changed the record sleeve](https://www.theguardian.com/film/2023/jul/03/anton-corbijn-hipgnosis-film-pink-floyd-led-zeppelin)
 * [2023-07-20, 05:54:11](https://news.ycombinator.com/item?id=36797277) - [Human Shader](https://humanshader.com)
 * [2023-07-20, 05:42:57](https://news.ycombinator.com/item?id=36797231) - [Something in space has been lighting up every 20 minutes since 1988](https://arstechnica.com/science/2023/07/new-slow-repeating-radio-source-we-have-no-idea-what-it-is/)
