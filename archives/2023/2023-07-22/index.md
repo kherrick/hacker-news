@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-22](index.md)
 
+* [2023-07-22, 22:49:21](https://news.ycombinator.com/item?id=36830707) - [Reinventing the E.R. for America’s mental-health crisis](https://www.newyorker.com/science/annals-of-medicine/reinventing-the-er-for-americas-mental-health-crisis)
 * [2023-07-22, 22:15:38](https://news.ycombinator.com/item?id=36830492) - [STX – C++17 and C++ 20 error-handling and utility extensions](https://lamarrr.github.io/STX/)
+* [2023-07-22, 22:15:28](https://news.ycombinator.com/item?id=36830490) - [TokenFlow: Consistent Diffusion Features for Consistent Video Editing](https://diffusion-tokenflow.github.io/)
 * [2023-07-22, 21:18:23](https://news.ycombinator.com/item?id=36830062) - [How does iCloud work? Plus a new version of Cirrus – The Eclectic Light Company](https://eclecticlight.co/2023/07/17/how-does-icloud-work-plus-a-new-version-of-cirrus/)
 * [2023-07-22, 20:57:48](https://news.ycombinator.com/item?id=36829854) - [Amsterdam bans cruise ships to limit visitors and curb pollution](https://www.bbc.com/news/world-europe-66264226)
 * [2023-07-22, 20:57:00](https://news.ycombinator.com/item?id=36829850) - [Visiting Death](https://www.overcomingbias.com/p/visiting-death)
@@ -13,6 +15,7 @@
 * [2023-07-22, 20:07:35](https://news.ycombinator.com/item?id=36829374) - [Egregoria is a city simulation with high granularity (in rust)](https://github.com/Uriopass/Egregoria)
 * [2023-07-22, 19:28:01](https://news.ycombinator.com/item?id=36829035) - [Israel Quietly Embeds AI Systems in Deadly Military Operations](https://www.bloomberg.com/news/articles/2023-07-16/israel-using-ai-systems-to-plan-deadly-military-operations)
 * [2023-07-22, 19:15:26](https://news.ycombinator.com/item?id=36828927) - [Making the most of Apple Silicon power: 2 Core capabilities [2022]](https://eclecticlight.co/2022/10/05/making-the-most-of-apple-silicon-power-2-core-capabilities/)
+* [2023-07-22, 19:06:32](https://news.ycombinator.com/item?id=36828861) - [Why America’s Largest Tool Company Couldn’t Make a Wrench in America](https://www.wsj.com/articles/craftsman-america-wrench-stanley-black-decker-reshoring-factory-1125792f)
 * [2023-07-22, 19:00:16](https://news.ycombinator.com/item?id=36828811) - [A Caltech Nobel laureate celebrates his 100th birthday. Then gets back to work](https://www.latimes.com/science/story/2023-07-21/caltech-nobel-laureate-rudy-marcus-turns-100-and-gets-back-to-work)
 * [2023-07-22, 18:51:57](https://news.ycombinator.com/item?id=36828731) - [Germany is no longer exceptional, and joining the European mainstream](https://www.theatlantic.com/international/archive/2023/07/germany-national-identity-afd-party-political-instability/674786/)
 * [2023-07-22, 18:39:47](https://news.ycombinator.com/item?id=36828612) - [Amish communities are adapting a surprising new technology in their homes](https://news.yahoo.com/amish-communities-adapting-surprising-technology-123000079.html)
