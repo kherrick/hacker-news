@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-22, 06:04:11",
+      "https://news.ycombinator.com/item?id=36823723"
+    ],
+    [
+      "Bun v0.7.0",
+      "https://bun.sh/blog/bun-v0.7.0"
+    ]
+  ],
+  [
+    [
       "2023-07-22, 05:38:53",
       "https://news.ycombinator.com/item?id=36823605"
     ],
@@ -17,6 +27,16 @@
     [
       "Apple's Interactive Television Box: Hacking the Set Top Box System 7.1 in ROM",
       "http://oldvcr.blogspot.com/2023/07/apples-interactive-television-box.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-22, 05:20:10",
+      "https://news.ycombinator.com/item?id=36823524"
+    ],
+    [
+      "Electrocaloric Heat Pumps",
+      "https://www.fraunhofer.de/en/research/lighthouse-projects-fraunhofer-initiatives/fraunhofer-lighthouse-projects/elkawe.html"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Compromised Microsoft Key: More Impactful Than We Thought",
       "https://www.wiz.io/blog/storm-0558-compromised-microsoft-key-enables-authentication-of-countless-micr"
-    ]
-  ],
-  [
-    [
-      "2023-07-22, 03:39:01",
-      "https://news.ycombinator.com/item?id=36822994"
-    ],
-    [
-      "GNU PSPP",
-      "https://www.gnu.org/software/pspp/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "RFC 9420 a.k.a. Messaging Layer Security",
       "https://blog.phnx.im/rfc-9420-mls/"
-    ]
-  ],
-  [
-    [
-      "2023-07-21, 08:48:48",
-      "https://news.ycombinator.com/item?id=36811554"
-    ],
-    [
-      "I have written a JVM in Rust",
-      "https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/"
     ]
   ],
   [
