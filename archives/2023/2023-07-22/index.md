@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-22](index.md)
 
 * [2023-07-22, 19:00:16](https://news.ycombinator.com/item?id=36828811) - [A Caltech Nobel laureate celebrates his 100th birthday. Then gets back to work](https://www.latimes.com/science/story/2023-07-21/caltech-nobel-laureate-rudy-marcus-turns-100-and-gets-back-to-work)
+* [2023-07-22, 18:51:57](https://news.ycombinator.com/item?id=36828731) - [Germany is no longer exceptional, and joining the European mainstream](https://www.theatlantic.com/international/archive/2023/07/germany-national-identity-afd-party-political-instability/674786/)
 * [2023-07-22, 18:39:47](https://news.ycombinator.com/item?id=36828612) - [Amish communities are adapting a surprising new technology in their homes](https://news.yahoo.com/amish-communities-adapting-surprising-technology-123000079.html)
 * [2023-07-22, 18:17:29](https://news.ycombinator.com/item?id=36828409) - [Shopify Quietly Replacing Laid Off Workers with AI](https://thedeepdive.ca/shopify-employee-breaks-nda-to-reveal-firm-quietly-replacing-laid-off-workers-with-ai/)
 * [2023-07-22, 18:10:12](https://news.ycombinator.com/item?id=36828361) - [Big change for some Clear users: TSA will soon require you to show ID](https://thepointsguy.com/news/tsa-clear-id-verification-policy/)
