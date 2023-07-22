@@ -10,6 +10,7 @@
 * [2023-07-22, 05:30:35](https://news.ycombinator.com/item?id=36823565) - [Apple's Interactive Television Box: Hacking the Set Top Box System 7.1 in ROM](http://oldvcr.blogspot.com/2023/07/apples-interactive-television-box.html)
 * [2023-07-22, 05:28:19](https://news.ycombinator.com/item?id=36823558) - [The 30-Year Mortgage Is an Intrinsically Toxic Product (2018)](https://byrnehobart.medium.com/the-30-year-mortgage-is-an-intrinsically-toxic-product-200c901746a)
 * [2023-07-22, 05:20:10](https://news.ycombinator.com/item?id=36823524) - [Electrocaloric Heat Pumps](https://www.fraunhofer.de/en/research/lighthouse-projects-fraunhofer-initiatives/fraunhofer-lighthouse-projects/elkawe.html)
+* [2023-07-22, 05:18:37](https://news.ycombinator.com/item?id=36823516) - [AWS Networking Concepts in a Diagram](https://miparnisariblog.wordpress.com/2023/03/29/aws-networking-concepts/)
 * [2023-07-22, 04:58:26](https://news.ycombinator.com/item?id=36823424) - [Climate records tumble, leaving Earth in uncharted territory – scientists](https://www.bbc.co.uk/news/science-environment-66229065)
 * [2023-07-22, 04:47:24](https://news.ycombinator.com/item?id=36823375) - [What we talk about when we talk about System Design](https://maheshba.bitbucket.io/blog/2023/07/12/Design.html)
 * [2023-07-22, 04:13:36](https://news.ycombinator.com/item?id=36823175) - [An analysis of conspiracy promotor Russell Brand](https://www.prospectmagazine.co.uk/ideas/technology/internet/61724/tarnished-brand)
