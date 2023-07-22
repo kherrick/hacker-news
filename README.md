@@ -9,7 +9,6 @@
 * [2023-07-22, 04:47:24](https://news.ycombinator.com/item?id=36823375) - [What we talk about when we talk about System Design](https://maheshba.bitbucket.io/blog/2023/07/12/Design.html)
 * [2023-07-22, 03:40:43](https://news.ycombinator.com/item?id=36823007) - [Compromised Microsoft key: More impactful than we thought](https://www.wiz.io/blog/storm-0558-compromised-microsoft-key-enables-authentication-of-countless-micr)
 * [2023-07-22, 03:22:43](https://news.ycombinator.com/item?id=36822880) - [Internet search tips](https://gwern.net/search)
-* [2023-07-22, 03:21:44](https://news.ycombinator.com/item?id=36822875) - [Group arrested for selling former cryptomining graphics cards as brand-new](https://www.techspot.com/news/99488-chinese-group-arrested-selling-former-cryptomining-graphics-cards.html)
 * [2023-07-22, 02:39:31](https://news.ycombinator.com/item?id=36822654) - [FBI improperly used 702 surveillance powers on US senator](https://thehill.com/homenews/administration/4110850-fbi-improperly-used-702-surveillance-powers-on-us-senator/)
 * [2023-07-22, 02:19:30](https://news.ycombinator.com/item?id=36822530) - [Discovery: Metals can heal themselves](https://newsreleases.sandia.gov/healing_metals/)
 * [2023-07-22, 00:24:52](https://news.ycombinator.com/item?id=36821871) - [Using Prolog in Windows NT Network Configuration (1996)](https://web.archive.org/web/20030218034509/http://www.research.microsoft.com/research/dtg/davidhov/pap.htm)
@@ -29,6 +28,7 @@
 * [2023-07-20, 06:35:56](https://news.ycombinator.com/item?id=36797471) - [Google tries internet air-gap for some staff PCs](https://www.theregister.com/2023/07/19/google_cuts_internet/)
 * [2023-07-19, 10:05:42](https://news.ycombinator.com/item?id=36784114) - [Confronting failure as a core life skill](https://buildinghealthier.substack.com/p/confronting-failure-as-a-core-life)
 * [2023-07-19, 09:35:28](https://news.ycombinator.com/item?id=36783937) - [Pressure and vacuum marination does not work (2016)](https://genuineideas.com/ArticlesIndex/pressuremarinade.html)
+* [2023-07-19, 08:32:52](https://news.ycombinator.com/item?id=36783509) - [Spawn() of Satan (2018)](https://tavianator.com/2018/spawn_of_satan.html)
 * [2023-07-19, 08:23:15](https://news.ycombinator.com/item?id=36783449) - [Bfs 3.0: The Fastest Find Yet](https://tavianator.com/2023/bfs_3.0.html)
 
 ## [Archives](archives/index.md)
