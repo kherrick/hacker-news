@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-22](index.md)
 
+* [2023-07-22, 16:25:53](https://news.ycombinator.com/item?id=36827534) - [Resilience in Complex Systems (2021)](https://irhum.github.io/blog/resilientsystems/)
 * [2023-07-22, 16:11:46](https://news.ycombinator.com/item?id=36827438) - [I am dying of squamous cell carcinoma, and potential treatments are out of reach](https://jakeseliger.com/2023/07/22/i-am-dying-of-squamous-cell-carcinoma-and-the-treatments-that-might-save-me-are-just-out-of-reach/)
 * [2023-07-22, 16:09:13](https://news.ycombinator.com/item?id=36827418) - [Why Adaptive Rate Limiting Is a Game-Changer](https://blog.fluxninja.com/blog/why-adaptive-rate-limiting-is-a-game-changer)
 * [2023-07-22, 15:43:24](https://news.ycombinator.com/item?id=36827188) - [Lab-grown cotton is on its way to consumers](https://www.forbes.com/sites/jeffkart/2023/07/08/lab-grown-cotton-enters-the-market-with-galy-suzuran-partnership/)

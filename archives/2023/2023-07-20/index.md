@@ -80,6 +80,7 @@
 * [2023-07-20, 09:24:47](https://news.ycombinator.com/item?id=36798395) - [Vacuum Airship](https://en.wikipedia.org/wiki/Vacuum_airship)
 * [2023-07-20, 08:50:46](https://news.ycombinator.com/item?id=36798200) - [Android is now better than iOS, says head of Instagram](https://www.threads.net/@mosseri/post/CuzpnOwtadu)
 * [2023-07-20, 08:39:30](https://news.ycombinator.com/item?id=36798157) - [MDN Playground](https://developer.mozilla.org/en-US/play)
+* [2023-07-20, 08:37:07](https://news.ycombinator.com/item?id=36798137) - [On constructing 2-3 trees (2018) [pdf]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/129759AE03543B461536F78B386D93B5/S0956796818000187a.pdf/on-constructing-2-3-trees.pdf)
 * [2023-07-20, 08:29:06](https://news.ycombinator.com/item?id=36798092) - [What Happened to Dolphin on Steam?](https://dolphin-emu.org/blog/2023/07/20/what-happened-to-dolphin-on-steam/)
 * [2023-07-20, 08:21:22](https://news.ycombinator.com/item?id=36798051) - [ChromiumOS Developer Guide, Programming languages and style](https://chromium.googlesource.com/chromiumos/docs/+/HEAD/development_basics.md#programming-languages-and-style)
 * [2023-07-20, 07:25:38](https://news.ycombinator.com/item?id=36797751) - [The Russell conjugation (2020)](https://emersongreenblog.wordpress.com/2020/12/06/the-russell-conjugation/)
