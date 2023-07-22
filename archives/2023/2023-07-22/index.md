@@ -12,6 +12,7 @@
 * [2023-07-22, 14:56:48](https://news.ycombinator.com/item?id=36826755) - [The Most Important Coding Habits](https://puppycoding.com/2023/07/22/healthy-coding-habits/)
 * [2023-07-22, 14:47:25](https://news.ycombinator.com/item?id=36826664) - [Scientists: Fishing boats compete with whales and penguins for Antarctic krill](https://news.mongabay.com/2023/07/scientists-fishing-boats-compete-with-whales-and-penguins-for-antarctic-krill/)
 * [2023-07-22, 14:18:47](https://news.ycombinator.com/item?id=36826446) - [Computational Complexity of Texture Encoding](https://fgiesen.wordpress.com/2023/07/21/computational-complexity-of-texture-encoding/)
+* [2023-07-22, 14:17:22](https://news.ycombinator.com/item?id=36826438) - [Malicious libraries can steal all your application secrets in Elixir](https://www.peterullrich.com/how-malicious-libraries-can-steal-all-your-application-secrets)
 * [2023-07-22, 13:50:28](https://news.ycombinator.com/item?id=36826210) - [A Brief History of Computers](https://www.lesswrong.com/posts/vfRpzyGsikujm9ujj/a-brief-history-of-computers)
 * [2023-07-22, 13:46:08](https://news.ycombinator.com/item?id=36826177) - [Botulinum toxin: Bioweapon and magic drug](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3028942/)
 * [2023-07-22, 13:36:22](https://news.ycombinator.com/item?id=36826111) - [Why even let users set their own passwords?](https://www.devever.net/~hl/passwords)
