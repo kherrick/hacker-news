@@ -2,6 +2,7 @@
 
 * [2023-07-22, 19:00:16](https://news.ycombinator.com/item?id=36828811) - [A Caltech Nobel laureate celebrates his 100th birthday. Then gets back to work](https://www.latimes.com/science/story/2023-07-21/caltech-nobel-laureate-rudy-marcus-turns-100-and-gets-back-to-work)
 * [2023-07-22, 18:17:29](https://news.ycombinator.com/item?id=36828409) - [Shopify Quietly Replacing Laid Off Workers with AI](https://thedeepdive.ca/shopify-employee-breaks-nda-to-reveal-firm-quietly-replacing-laid-off-workers-with-ai/)
+* [2023-07-22, 18:10:12](https://news.ycombinator.com/item?id=36828361) - [Big change for some Clear users: TSA will soon require you to show ID](https://thepointsguy.com/news/tsa-clear-id-verification-policy/)
 * [2023-07-22, 16:25:53](https://news.ycombinator.com/item?id=36827534) - [Resilience in Complex Systems (2021)](https://irhum.github.io/blog/resilientsystems/)
 * [2023-07-22, 16:11:46](https://news.ycombinator.com/item?id=36827438) - [I am dying of squamous cell carcinoma, and potential treatments are out of reach](https://jakeseliger.com/2023/07/22/i-am-dying-of-squamous-cell-carcinoma-and-the-treatments-that-might-save-me-are-just-out-of-reach/)
 * [2023-07-22, 16:09:13](https://news.ycombinator.com/item?id=36827418) - [Why Adaptive Rate Limiting Is a Game-Changer](https://blog.fluxninja.com/blog/why-adaptive-rate-limiting-is-a-game-changer)
@@ -16,7 +17,6 @@
 * [2023-07-22, 11:30:46](https://news.ycombinator.com/item?id=36825345) - [Embrace Complexity; Tighten Your Feedback Loops](https://ferd.ca/embrace-complexity-tighten-your-feedback-loops.html)
 * [2023-07-22, 11:00:42](https://news.ycombinator.com/item?id=36825204) - [I thought I wanted to be a professor, then I served on a hiring committee (2021)](https://www.science.org/content/article/i-thought-i-wanted-be-faculty-member-then-i-served-hiring-committee)
 * [2023-07-22, 10:43:38](https://news.ycombinator.com/item?id=36825119) - [Why did these algae grow like this in the pool?](https://physics.stackexchange.com/questions/772882/why-did-these-algae-grow-like-this-in-the-pool-are-these-curves-the-gravitation)
-* [2023-07-22, 09:44:39](https://news.ycombinator.com/item?id=36824856) - [Simpson Fan Grows Tomacco (2003)](https://www.simpsonsarchive.com/news/tomacco.html)
 * [2023-07-22, 08:56:14](https://news.ycombinator.com/item?id=36824595) - [Octos – HTML live wallpaper engine](https://github.com/underpig1/octos)
 * [2023-07-22, 08:21:40](https://news.ycombinator.com/item?id=36824450) - [Plane – Open-source Jira alternative](https://plane.so)
 * [2023-07-22, 05:38:53](https://news.ycombinator.com/item?id=36823605) - [Putting the “You” in CPU](https://cpu.land/)
