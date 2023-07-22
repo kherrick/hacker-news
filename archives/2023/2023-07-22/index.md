@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-22](index.md)
 
+* [2023-07-22, 06:35:06](https://news.ycombinator.com/item?id=36823871) - [Google Web Environment Integrity – Privacy Considerations](https://rupertbenwiser.github.io/Web-Environment-Integrity/#privacy)
 * [2023-07-22, 06:04:11](https://news.ycombinator.com/item?id=36823723) - [Bun v0.7.0](https://bun.sh/blog/bun-v0.7.0)
 * [2023-07-22, 05:38:53](https://news.ycombinator.com/item?id=36823605) - [Putting the “You” in CPU](https://cpu.land/)
 * [2023-07-22, 05:30:35](https://news.ycombinator.com/item?id=36823565) - [Apple's Interactive Television Box: Hacking the Set Top Box System 7.1 in ROM](http://oldvcr.blogspot.com/2023/07/apples-interactive-television-box.html)
