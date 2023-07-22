@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-22](index.md)
 
+* [2023-07-22, 13:50:28](https://news.ycombinator.com/item?id=36826210) - [A Brief History of Computers](https://www.lesswrong.com/posts/vfRpzyGsikujm9ujj/a-brief-history-of-computers)
+* [2023-07-22, 13:46:08](https://news.ycombinator.com/item?id=36826177) - [Botulinum toxin: Bioweapon and magic drug](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3028942/)
+* [2023-07-22, 13:36:22](https://news.ycombinator.com/item?id=36826111) - [Why even let users set their own passwords?](https://www.devever.net/~hl/passwords)
 * [2023-07-22, 13:06:39](https://news.ycombinator.com/item?id=36825913) - [Redmine – open-source project management](https://www.redmine.org/)
 * [2023-07-22, 12:31:57](https://news.ycombinator.com/item?id=36825675) - [To grasp the extent of inequality, look at the relatively well-off](https://blogs.lse.ac.uk/politicsandpolicy/to-grasp-the-extent-of-inequality-look-at-the-relatively-well-off/)
 * [2023-07-22, 12:25:34](https://news.ycombinator.com/item?id=36825633) - [Best Practices for Back End Design in Distributed System](https://www.multiplayer.app/blog/6-best-practices-for-backend-design-in-distributed-system/)
