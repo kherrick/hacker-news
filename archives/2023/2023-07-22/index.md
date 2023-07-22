@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-22](index.md)
 
+* [2023-07-22, 03:40:43](https://news.ycombinator.com/item?id=36823007) - [Compromised Microsoft Key: More Impactful Than We Thought](https://www.wiz.io/blog/storm-0558-compromised-microsoft-key-enables-authentication-of-countless-micr)
 * [2023-07-22, 03:22:43](https://news.ycombinator.com/item?id=36822880) - [Internet Search Tips](https://gwern.net/search)
+* [2023-07-22, 03:21:44](https://news.ycombinator.com/item?id=36822875) - [Group arrested for selling former cryptomining graphics cards as brand-new](https://www.techspot.com/news/99488-chinese-group-arrested-selling-former-cryptomining-graphics-cards.html)
 * [2023-07-22, 02:39:31](https://news.ycombinator.com/item?id=36822654) - [FBI improperly used 702 surveillance powers on US senator](https://thehill.com/homenews/administration/4110850-fbi-improperly-used-702-surveillance-powers-on-us-senator/)
 * [2023-07-22, 02:19:30](https://news.ycombinator.com/item?id=36822530) - [Discovery: Metals can heal themselves](https://newsreleases.sandia.gov/healing_metals/)
 * [2023-07-22, 01:48:35](https://news.ycombinator.com/item?id=36822374) - [Facebook denies cookie tracking allegations (2011)](https://www.zdnet.com/article/facebook-denies-cookie-tracking-allegations/)
