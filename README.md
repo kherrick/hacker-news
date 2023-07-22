@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-22, 09:44:39](https://news.ycombinator.com/item?id=36824856) - [Simpson Fan Grows Tomacco](https://www.simpsonsarchive.com/news/tomacco.html)
 * [2023-07-22, 08:58:09](https://news.ycombinator.com/item?id=36824607) - [Over-grazing and desertification in the Syrian steppe root causes of war (2015)](https://theecologist.org/2015/jun/05/over-grazing-and-desertification-syrian-steppe-are-root-causes-war)
 * [2023-07-22, 08:56:14](https://news.ycombinator.com/item?id=36824595) - [Octos – HTML live wallpaper engine](https://github.com/underpig1/octos)
 * [2023-07-22, 08:21:40](https://news.ycombinator.com/item?id=36824450) - [Plane – open-source Jira alternative](https://plane.so)
@@ -18,7 +19,6 @@
 * [2023-07-22, 00:23:40](https://news.ycombinator.com/item?id=36821861) - [Employees bid on Anchor Brewery](https://vinepair.com/booze-news/anchor-employees-brewery-takeover-bid/)
 * [2023-07-21, 22:06:16](https://news.ycombinator.com/item?id=36820555) - [NativePHP: A framework for building desktop apps using PHP](https://nativephp.com/docs/1/getting-started/introduction)
 * [2023-07-21, 21:58:40](https://news.ycombinator.com/item?id=36820469) - [Managing Kitchen Fruit Flies with a Little Shop of Horrors](https://blog.zaccohn.com/Fruitflies-and-the-Little-Shop-of-Horrors/)
-* [2023-07-21, 21:39:05](https://news.ycombinator.com/item?id=36820205) - [TH3P4G3 Thunderbolt eGPU Dock Review (2022)](https://egpu.io/exp-gdc-th3p4g2-thunderbolt-gpu-dock-review/)
 * [2023-07-21, 21:32:21](https://news.ycombinator.com/item?id=36820105) - [Book Review: The Laws of Trading](https://astralcodexten.substack.com/p/your-book-review-the-laws-of-trading)
 * [2023-07-21, 21:17:45](https://news.ycombinator.com/item?id=36819906) - [Llama: Add grammar-based sampling](https://github.com/ggerganov/llama.cpp/pull/1773)
 * [2023-07-21, 18:09:43](https://news.ycombinator.com/item?id=36817305) - [Web Environment Integrity API Proposal](https://github.com/RupertBenWiser/Web-Environment-Integrity)
