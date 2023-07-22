@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-22](index.md)
 
+* [2023-07-22, 20:16:32](https://news.ycombinator.com/item?id=36829457) - [House Republicans propose planting a trillion trees](https://apnews.com/article/climate-change-republicans-trillion-trees-01e455acce4397c0376e82bfa18b72c2)
 * [2023-07-22, 20:07:35](https://news.ycombinator.com/item?id=36829374) - [Egregoria is a city simulation with high granularity (in rust)](https://github.com/Uriopass/Egregoria)
 * [2023-07-22, 19:15:26](https://news.ycombinator.com/item?id=36828927) - [Making the most of Apple Silicon power: 2 Core capabilities [2022]](https://eclecticlight.co/2022/10/05/making-the-most-of-apple-silicon-power-2-core-capabilities/)
 * [2023-07-22, 19:00:16](https://news.ycombinator.com/item?id=36828811) - [A Caltech Nobel laureate celebrates his 100th birthday. Then gets back to work](https://www.latimes.com/science/story/2023-07-21/caltech-nobel-laureate-rudy-marcus-turns-100-and-gets-back-to-work)
@@ -12,6 +13,7 @@
 * [2023-07-22, 18:17:29](https://news.ycombinator.com/item?id=36828409) - [Shopify Quietly Replacing Laid Off Workers with AI](https://thedeepdive.ca/shopify-employee-breaks-nda-to-reveal-firm-quietly-replacing-laid-off-workers-with-ai/)
 * [2023-07-22, 18:16:17](https://news.ycombinator.com/item?id=36828396) - [MIDI-editor for tc-electronic TC1128 / 1128X](https://github.com/Tonfisch/TC-1128-Editor)
 * [2023-07-22, 18:10:12](https://news.ycombinator.com/item?id=36828361) - [Big change for some Clear users: TSA will soon require you to show ID](https://thepointsguy.com/news/tsa-clear-id-verification-policy/)
+* [2023-07-22, 18:02:19](https://news.ycombinator.com/item?id=36828288) - [Databag – tiny self-hosted federated messenger for the decentralized web](https://github.com/balzack/databag)
 * [2023-07-22, 17:41:58](https://news.ycombinator.com/item?id=36828128) - [Spartans Were Losers](https://foreignpolicy.com/2023/07/22/sparta-popular-culture-united-states-military-bad-history/)
 * [2023-07-22, 16:25:53](https://news.ycombinator.com/item?id=36827534) - [Resilience in Complex Systems (2021)](https://irhum.github.io/blog/resilientsystems/)
 * [2023-07-22, 16:11:46](https://news.ycombinator.com/item?id=36827438) - [I am dying of squamous cell carcinoma, and potential treatments are out of reach](https://jakeseliger.com/2023/07/22/i-am-dying-of-squamous-cell-carcinoma-and-the-treatments-that-might-save-me-are-just-out-of-reach/)

@@ -107,3 +107,4 @@
 * [2023-07-20, 01:27:32](https://news.ycombinator.com/item?id=36795845) - [Delta passengers fall ill while stuck for hours during blistering Vegas heatwave](https://www.nbcnews.com/news/us-news/delta-passengers-fall-ill-stuck-tarmac-hours-blistering-las-vegas-heat-rcna95050)
 * [2023-07-20, 01:26:30](https://news.ycombinator.com/item?id=36795842) - [CIA: Spy Games for Kids](https://www.cia.gov/spy-kids/games/index.html)
 * [2023-07-20, 00:39:31](https://news.ycombinator.com/item?id=36795530) - [LZAV – Fast In-Memory Data Compression Algorithm (In C)](https://github.com/avaneev/lzav)
+* [2023-07-20, 00:10:06](https://news.ycombinator.com/item?id=36795313) - [Athanasius Kircher and the Hieroglyphic Sphinx (2013)](https://publicdomainreview.org/essay/athanasius-kircher-and-the-hieroglyphic-sphinx/)
