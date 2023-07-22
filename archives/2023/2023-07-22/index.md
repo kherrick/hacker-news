@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-22](index.md)
 
+* [2023-07-22, 20:39:54](https://news.ycombinator.com/item?id=36829672) - [Hops for beer flourish under solar panels](https://apnews.com/article/climate-beer-solar-panels-hops-germany-ee3d00a1877837eb85053335e3b68a00)
 * [2023-07-22, 20:16:32](https://news.ycombinator.com/item?id=36829457) - [House Republicans propose planting a trillion trees](https://apnews.com/article/climate-change-republicans-trillion-trees-01e455acce4397c0376e82bfa18b72c2)
 * [2023-07-22, 20:07:35](https://news.ycombinator.com/item?id=36829374) - [Egregoria is a city simulation with high granularity (in rust)](https://github.com/Uriopass/Egregoria)
 * [2023-07-22, 19:15:26](https://news.ycombinator.com/item?id=36828927) - [Making the most of Apple Silicon power: 2 Core capabilities [2022]](https://eclecticlight.co/2022/10/05/making-the-most-of-apple-silicon-power-2-core-capabilities/)
