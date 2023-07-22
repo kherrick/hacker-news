@@ -85,6 +85,7 @@
 * [2023-07-20, 07:06:22](https://news.ycombinator.com/item?id=36797636) - [‘The best blueberry’: how a tiny North American fruit took over Australia (2022)](https://www.theguardian.com/food/2022/oct/29/the-best-blueberry-how-a-tiny-north-american-fruit-took-over-australia)
 * [2023-07-20, 07:02:46](https://news.ycombinator.com/item?id=36797626) - [Reasons to teach what we teach (2010)](http://educationandstatistics.blogspot.com/2010/12/reasons-to-teach-what-we-teach.html)
 * [2023-07-20, 07:02:16](https://news.ycombinator.com/item?id=36797624) - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring DevRel Engineers](https://www.ycombinator.com/companies/signoz/jobs/emmP9Zs-developer-relations-engineer-remote-india)
+* [2023-07-20, 06:45:33](https://news.ycombinator.com/item?id=36797514) - [About math limitations](https://www.alexmolas.com/2023/07/18/math-limitations.html)
 * [2023-07-20, 06:38:54](https://news.ycombinator.com/item?id=36797485) - [Ask HN: For 10 years I've been trying various projects, still clueless](https://news.ycombinator.com/item?id=36797485)
 * [2023-07-20, 06:35:56](https://news.ycombinator.com/item?id=36797471) - [Google tries internet air-gap for some staff PCs](https://www.theregister.com/2023/07/19/google_cuts_internet/)
 * [2023-07-20, 06:27:56](https://news.ycombinator.com/item?id=36797432) - [On the Origin of LLMs](https://arxiv.org/abs/2307.09793)
