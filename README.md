@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-22, 20:57:48](https://news.ycombinator.com/item?id=36829854) - [Amsterdam bans cruise ships to limit visitors and curb pollution](https://www.bbc.com/news/world-europe-66264226)
 * [2023-07-22, 20:39:54](https://news.ycombinator.com/item?id=36829672) - [Hops for beer flourish under solar panels](https://apnews.com/article/climate-beer-solar-panels-hops-germany-ee3d00a1877837eb85053335e3b68a00)
 * [2023-07-22, 20:07:35](https://news.ycombinator.com/item?id=36829374) - [Egregoria: 3D City Builder without a grid](https://github.com/Uriopass/Egregoria)
 * [2023-07-22, 19:15:26](https://news.ycombinator.com/item?id=36828927) - [Making the most of Apple Silicon power: 2 Core capabilities [2022]](https://eclecticlight.co/2022/10/05/making-the-most-of-apple-silicon-power-2-core-capabilities/)
@@ -28,7 +29,6 @@
 * [2023-07-21, 09:39:09](https://news.ycombinator.com/item?id=36811861) - [How we see ourselves and how we see others (2008) [pdf]](http://courses.washington.edu/pbafhall/514/514%20Readings/2008%20Self%20and%20Other%20Pronin.pdf)
 * [2023-07-20, 08:37:07](https://news.ycombinator.com/item?id=36798137) - [On constructing 2-3 trees (2018) [pdf]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/129759AE03543B461536F78B386D93B5/S0956796818000187a.pdf/on-constructing-2-3-trees.pdf)
 * [2023-07-20, 07:08:01](https://news.ycombinator.com/item?id=36797650) - [MSX-DOS](https://en.wikipedia.org/wiki/MSX-DOS)
-* [2023-07-20, 06:35:56](https://news.ycombinator.com/item?id=36797471) - [Google tries internet air-gap for some staff PCs](https://www.theregister.com/2023/07/19/google_cuts_internet/)
 * [2023-07-20, 00:10:06](https://news.ycombinator.com/item?id=36795313) - [Athanasius Kircher and the Hieroglyphic Sphinx (2013)](https://publicdomainreview.org/essay/athanasius-kircher-and-the-hieroglyphic-sphinx/)
 
 ## [Archives](archives/index.md)
