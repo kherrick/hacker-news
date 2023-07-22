@@ -105,4 +105,5 @@
 * [2023-07-21, 00:48:58](https://news.ycombinator.com/item?id=36808754) - [Ollama – Easily Run LLMs on your laptop](https://ollama.ai/)
 * [2023-07-21, 00:41:18](https://news.ycombinator.com/item?id=36808698) - [Faster Whisper Transcription with CTranslate2](https://github.com/guillaumekln/faster-whisper)
 * [2023-07-21, 00:38:15](https://news.ycombinator.com/item?id=36808679) - [Hardware Hacking [pdf]](http://www.nicolascollins.com/texts/originalhackingmanual.pdf)
+* [2023-07-21, 00:19:50](https://news.ycombinator.com/item?id=36808566) - [Hokusai’s Illustrated Warrior Vanguard of Japan and China (1836)](https://publicdomainreview.org/collection/hokusai-warriors/)
 * [2023-07-21, 00:00:23](https://news.ycombinator.com/item?id=36808430) - [FTC warns influencers over failing to properly disclose free board games](https://boardgamewire.com/index.php/2023/07/17/ftc-warns-board-game-influencers-publishers-over-failing-to-properly-disclose-relationships-free-gifts/)
