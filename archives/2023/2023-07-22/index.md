@@ -7,6 +7,7 @@
 * [2023-07-22, 22:15:38](https://news.ycombinator.com/item?id=36830492) - [STX – C++17 and C++ 20 error-handling and utility extensions](https://lamarrr.github.io/STX/)
 * [2023-07-22, 21:18:23](https://news.ycombinator.com/item?id=36830062) - [How does iCloud work? Plus a new version of Cirrus – The Eclectic Light Company](https://eclecticlight.co/2023/07/17/how-does-icloud-work-plus-a-new-version-of-cirrus/)
 * [2023-07-22, 20:57:48](https://news.ycombinator.com/item?id=36829854) - [Amsterdam bans cruise ships to limit visitors and curb pollution](https://www.bbc.com/news/world-europe-66264226)
+* [2023-07-22, 20:57:00](https://news.ycombinator.com/item?id=36829850) - [Visiting Death](https://www.overcomingbias.com/p/visiting-death)
 * [2023-07-22, 20:39:54](https://news.ycombinator.com/item?id=36829672) - [Hops for beer flourish under solar panels](https://apnews.com/article/climate-beer-solar-panels-hops-germany-ee3d00a1877837eb85053335e3b68a00)
 * [2023-07-22, 20:16:32](https://news.ycombinator.com/item?id=36829457) - [House Republicans propose planting a trillion trees](https://apnews.com/article/climate-change-republicans-trillion-trees-01e455acce4397c0376e82bfa18b72c2)
 * [2023-07-22, 20:07:35](https://news.ycombinator.com/item?id=36829374) - [Egregoria is a city simulation with high granularity (in rust)](https://github.com/Uriopass/Egregoria)
