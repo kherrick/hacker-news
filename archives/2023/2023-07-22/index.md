@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-22](index.md)
 
+* [2023-07-22, 23:11:40](https://news.ycombinator.com/item?id=36830860) - [AOL pulls Nullsoft file-sharing software WASTE (2003)](https://web.archive.org/web/20030810194502/http://news.com.com/2100-1032_3-1011585.html)
 * [2023-07-22, 22:49:21](https://news.ycombinator.com/item?id=36830707) - [Reinventing the E.R. for America’s mental-health crisis](https://www.newyorker.com/science/annals-of-medicine/reinventing-the-er-for-americas-mental-health-crisis)
+* [2023-07-22, 22:48:37](https://news.ycombinator.com/item?id=36830697) - [Were small-brained early humans intelligent? Row erupts over scientists’ claim](https://www.theguardian.com/science/2023/jul/22/small-brained-early-humans-homo-naledi-cleverer-storm)
+* [2023-07-22, 22:18:54](https://news.ycombinator.com/item?id=36830513) - [Vimspector – the Vim debugger rules all](https://puremourning.github.io/vimspector-web/)
 * [2023-07-22, 22:15:38](https://news.ycombinator.com/item?id=36830492) - [STX – C++17 and C++ 20 error-handling and utility extensions](https://lamarrr.github.io/STX/)
 * [2023-07-22, 22:15:28](https://news.ycombinator.com/item?id=36830490) - [TokenFlow: Consistent Diffusion Features for Consistent Video Editing](https://diffusion-tokenflow.github.io/)
 * [2023-07-22, 21:18:23](https://news.ycombinator.com/item?id=36830062) - [How does iCloud work? Plus a new version of Cirrus – The Eclectic Light Company](https://eclecticlight.co/2023/07/17/how-does-icloud-work-plus-a-new-version-of-cirrus/)
