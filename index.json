@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-07-22, 13:36:22",
+      "https://news.ycombinator.com/item?id=36826111"
+    ],
+    [
+      "Why even let users set their own passwords?",
+      "https://www.devever.net/~hl/passwords"
+    ]
+  ],
+  [
+    [
       "2023-07-22, 13:20:02",
       "https://news.ycombinator.com/item?id=36825992"
     ],
@@ -117,16 +127,6 @@
     [
       "Simpson Fan Grows Tomacco (2003)",
       "https://www.simpsonsarchive.com/news/tomacco.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-22, 09:38:03",
-      "https://news.ycombinator.com/item?id=36824826"
-    ],
-    [
-      "Ownership Checks for C [pdf]",
-      "https://github.com/thradams/cake/blob/main/docs/ownership.pdf"
     ]
   ],
   [
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=36823375"
     ],
     [
-      "What we talk about when we talk about System Design",
+      "What we talk about when we talk about system design",
       "https://maheshba.bitbucket.io/blog/2023/07/12/Design.html"
     ]
   ],
