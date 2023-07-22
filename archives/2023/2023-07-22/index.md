@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-22](index.md)
 
+* [2023-07-22, 18:39:47](https://news.ycombinator.com/item?id=36828612) - [Amish communities are adapting a surprising new technology in their homes](https://news.yahoo.com/amish-communities-adapting-surprising-technology-123000079.html)
 * [2023-07-22, 17:41:58](https://news.ycombinator.com/item?id=36828128) - [Spartans Were Losers](https://foreignpolicy.com/2023/07/22/sparta-popular-culture-united-states-military-bad-history/)
 * [2023-07-22, 16:25:53](https://news.ycombinator.com/item?id=36827534) - [Resilience in Complex Systems (2021)](https://irhum.github.io/blog/resilientsystems/)
 * [2023-07-22, 16:11:46](https://news.ycombinator.com/item?id=36827438) - [I am dying of squamous cell carcinoma, and potential treatments are out of reach](https://jakeseliger.com/2023/07/22/i-am-dying-of-squamous-cell-carcinoma-and-the-treatments-that-might-save-me-are-just-out-of-reach/)
