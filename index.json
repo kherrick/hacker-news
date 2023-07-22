@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-07-22, 05:28:19",
-      "https://news.ycombinator.com/item?id=36823558"
-    ],
-    [
-      "The 30-year mortgage is an intrinsically toxic product (2018)",
-      "https://byrnehobart.medium.com/the-30-year-mortgage-is-an-intrinsically-toxic-product-200c901746a"
-    ]
-  ],
-  [
-    [
       "2023-07-22, 05:20:10",
       "https://news.ycombinator.com/item?id=36823524"
     ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=36823516"
     ],
     [
-      "AWS Networking Concepts in a Diagram",
+      "AWS networking concepts in a diagram",
       "https://miparnisariblog.wordpress.com/2023/03/29/aws-networking-concepts/"
     ]
   ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=36823007"
     ],
     [
-      "Compromised Microsoft Key: More Impactful Than We Thought",
+      "Compromised Microsoft key: More impactful than we thought",
       "https://www.wiz.io/blog/storm-0558-compromised-microsoft-key-enables-authentication-of-countless-micr"
     ]
   ],
@@ -87,6 +77,16 @@
     [
       "Internet search tips",
       "https://gwern.net/search"
+    ]
+  ],
+  [
+    [
+      "2023-07-22, 03:21:44",
+      "https://news.ycombinator.com/item?id=36822875"
+    ],
+    [
+      "Group arrested for selling former cryptomining graphics cards as brand-new",
+      "https://www.techspot.com/news/99488-chinese-group-arrested-selling-former-cryptomining-graphics-cards.html"
     ]
   ],
   [
@@ -241,22 +241,12 @@
   ],
   [
     [
-      "2023-07-21, 16:22:20",
-      "https://news.ycombinator.com/item?id=36815744"
+      "2023-07-21, 08:48:48",
+      "https://news.ycombinator.com/item?id=36811554"
     ],
     [
-      "‘World of Warcraft’ players trick AI-scraping website into publishing nonsense",
-      "https://www.forbes.com/sites/paultassi/2023/07/21/world-of-warcraft-players-trick-ai-scraping-games-website-into-publishing-nonsense/"
-    ]
-  ],
-  [
-    [
-      "2023-07-21, 16:19:54",
-      "https://news.ycombinator.com/item?id=36815705"
-    ],
-    [
-      "RFC 9420 a.k.a. Messaging Layer Security",
-      "https://blog.phnx.im/rfc-9420-mls/"
+      "I have written a JVM in Rust",
+      "https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/"
     ]
   ],
   [
@@ -271,11 +261,21 @@
   ],
   [
     [
+      "2023-07-20, 06:35:56",
+      "https://news.ycombinator.com/item?id=36797471"
+    ],
+    [
+      "Google tries internet air-gap for some staff PCs",
+      "https://www.theregister.com/2023/07/19/google_cuts_internet/"
+    ]
+  ],
+  [
+    [
       "2023-07-19, 10:05:42",
       "https://news.ycombinator.com/item?id=36784114"
     ],
     [
-      "Confronting Failure as a Core Life Skill",
+      "Confronting failure as a core life skill",
       "https://buildinghealthier.substack.com/p/confronting-failure-as-a-core-life"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=36783937"
     ],
     [
-      "Why pressure and vacuum marination does not work (2016)",
+      "Pressure and vacuum marination does not work (2016)",
       "https://genuineideas.com/ArticlesIndex/pressuremarinade.html"
     ]
   ],
