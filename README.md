@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-22, 03:40:43](https://news.ycombinator.com/item?id=36823007) - [Compromised Microsoft Key: More Impactful Than We Thought](https://www.wiz.io/blog/storm-0558-compromised-microsoft-key-enables-authentication-of-countless-micr)
+* [2023-07-22, 03:39:01](https://news.ycombinator.com/item?id=36822994) - [GNU PSPP](https://www.gnu.org/software/pspp/)
 * [2023-07-22, 03:22:43](https://news.ycombinator.com/item?id=36822880) - [Internet Search Tips](https://gwern.net/search)
 * [2023-07-22, 03:21:44](https://news.ycombinator.com/item?id=36822875) - [Group arrested for selling former cryptomining graphics cards as brand-new](https://www.techspot.com/news/99488-chinese-group-arrested-selling-former-cryptomining-graphics-cards.html)
 * [2023-07-22, 02:39:31](https://news.ycombinator.com/item?id=36822654) - [FBI improperly used 702 surveillance powers on US senator](https://thehill.com/homenews/administration/4110850-fbi-improperly-used-702-surveillance-powers-on-us-senator/)
@@ -24,7 +25,6 @@
 * [2023-07-21, 18:09:43](https://news.ycombinator.com/item?id=36817305) - [Web Environment Integrity API Proposal](https://github.com/RupertBenWiser/Web-Environment-Integrity)
 * [2023-07-21, 16:22:20](https://news.ycombinator.com/item?id=36815744) - [‘World of Warcraft’ players trick AI-scraping website into publishing nonsense](https://www.forbes.com/sites/paultassi/2023/07/21/world-of-warcraft-players-trick-ai-scraping-games-website-into-publishing-nonsense/)
 * [2023-07-21, 16:19:54](https://news.ycombinator.com/item?id=36815705) - [RFC 9420 a.k.a. Messaging Layer Security](https://blog.phnx.im/rfc-9420-mls/)
-* [2023-07-21, 15:49:04](https://news.ycombinator.com/item?id=36815255) - [In the LLM space, \"open source\" is being used to mean \"downloadable weights\"](https://www.alessiofanelli.com/blog/llama2-isnt-open-source)
 * [2023-07-21, 08:48:48](https://news.ycombinator.com/item?id=36811554) - [I have written a JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/)
 * [2023-07-20, 07:06:22](https://news.ycombinator.com/item?id=36797636) - [‘The best blueberry’: how a tiny North American fruit took over Australia (2022)](https://www.theguardian.com/food/2022/oct/29/the-best-blueberry-how-a-tiny-north-american-fruit-took-over-australia)
 * [2023-07-19, 10:05:42](https://news.ycombinator.com/item?id=36784114) - [Confronting Failure as a Core Life Skill](https://buildinghealthier.substack.com/p/confronting-failure-as-a-core-life)

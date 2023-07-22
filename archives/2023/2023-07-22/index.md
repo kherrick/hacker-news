@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-22](index.md)
 
 * [2023-07-22, 03:40:43](https://news.ycombinator.com/item?id=36823007) - [Compromised Microsoft Key: More Impactful Than We Thought](https://www.wiz.io/blog/storm-0558-compromised-microsoft-key-enables-authentication-of-countless-micr)
+* [2023-07-22, 03:39:01](https://news.ycombinator.com/item?id=36822994) - [GNU PSPP](https://www.gnu.org/software/pspp/)
 * [2023-07-22, 03:22:43](https://news.ycombinator.com/item?id=36822880) - [Internet Search Tips](https://gwern.net/search)
 * [2023-07-22, 03:21:44](https://news.ycombinator.com/item?id=36822875) - [Group arrested for selling former cryptomining graphics cards as brand-new](https://www.techspot.com/news/99488-chinese-group-arrested-selling-former-cryptomining-graphics-cards.html)
 * [2023-07-22, 02:39:31](https://news.ycombinator.com/item?id=36822654) - [FBI improperly used 702 surveillance powers on US senator](https://thehill.com/homenews/administration/4110850-fbi-improperly-used-702-surveillance-powers-on-us-senator/)
