@@ -11,7 +11,7 @@
 * [2023-07-22, 00:23:40](https://news.ycombinator.com/item?id=36821861) - [Employees Bid on Anchor Brewery](https://vinepair.com/booze-news/anchor-employees-brewery-takeover-bid/)
 * [2023-07-21, 22:06:16](https://news.ycombinator.com/item?id=36820555) - [NativePHP: A framework for building desktop apps using PHP](https://nativephp.com/docs/1/getting-started/introduction)
 * [2023-07-21, 21:58:40](https://news.ycombinator.com/item?id=36820469) - [Managing Kitchen Fruit Flies with a Little Shop of Horrors](https://blog.zaccohn.com/Fruitflies-and-the-Little-Shop-of-Horrors/)
-* [2023-07-21, 21:39:05](https://news.ycombinator.com/item?id=36820205) - [TH3P4G3 Thunderbolt eGPU Dock Review](https://egpu.io/exp-gdc-th3p4g2-thunderbolt-gpu-dock-review/)
+* [2023-07-21, 21:39:05](https://news.ycombinator.com/item?id=36820205) - [TH3P4G3 Thunderbolt eGPU Dock Review (2022)](https://egpu.io/exp-gdc-th3p4g2-thunderbolt-gpu-dock-review/)
 * [2023-07-21, 21:32:21](https://news.ycombinator.com/item?id=36820105) - [Book Review: The Laws of Trading](https://astralcodexten.substack.com/p/your-book-review-the-laws-of-trading)
 * [2023-07-21, 21:17:45](https://news.ycombinator.com/item?id=36819906) - [Llama: Add grammar-based sampling](https://github.com/ggerganov/llama.cpp/pull/1773)
 * [2023-07-21, 21:01:12](https://news.ycombinator.com/item?id=36819670) - [Sleep Reset (YC W17) Is Hiring](https://www.ycombinator.com/companies/sleep-reset/jobs/8qZIdyD-personal-assistant-must-be-korean-english-bilingual)
