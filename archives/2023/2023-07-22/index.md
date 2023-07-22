@@ -8,6 +8,7 @@
 * [2023-07-22, 18:51:57](https://news.ycombinator.com/item?id=36828731) - [Germany is no longer exceptional, and joining the European mainstream](https://www.theatlantic.com/international/archive/2023/07/germany-national-identity-afd-party-political-instability/674786/)
 * [2023-07-22, 18:39:47](https://news.ycombinator.com/item?id=36828612) - [Amish communities are adapting a surprising new technology in their homes](https://news.yahoo.com/amish-communities-adapting-surprising-technology-123000079.html)
 * [2023-07-22, 18:17:29](https://news.ycombinator.com/item?id=36828409) - [Shopify Quietly Replacing Laid Off Workers with AI](https://thedeepdive.ca/shopify-employee-breaks-nda-to-reveal-firm-quietly-replacing-laid-off-workers-with-ai/)
+* [2023-07-22, 18:16:17](https://news.ycombinator.com/item?id=36828396) - [MIDI-editor for tc-electronic TC1128 / 1128X](https://github.com/Tonfisch/TC-1128-Editor)
 * [2023-07-22, 18:10:12](https://news.ycombinator.com/item?id=36828361) - [Big change for some Clear users: TSA will soon require you to show ID](https://thepointsguy.com/news/tsa-clear-id-verification-policy/)
 * [2023-07-22, 17:41:58](https://news.ycombinator.com/item?id=36828128) - [Spartans Were Losers](https://foreignpolicy.com/2023/07/22/sparta-popular-culture-united-states-military-bad-history/)
 * [2023-07-22, 16:25:53](https://news.ycombinator.com/item?id=36827534) - [Resilience in Complex Systems (2021)](https://irhum.github.io/blog/resilientsystems/)
