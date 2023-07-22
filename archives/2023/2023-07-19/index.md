@@ -90,6 +90,7 @@
 * [2023-07-19, 10:34:42](https://news.ycombinator.com/item?id=36784291) - [Illusory Superiority](https://en.wikipedia.org/wiki/Illusory_superiority)
 * [2023-07-19, 09:52:41](https://news.ycombinator.com/item?id=36784032) - [Paper Airplane Ideas and Tips](https://www.foldnfly.com/runway.php)
 * [2023-07-19, 09:36:23](https://news.ycombinator.com/item?id=36783942) - [Show HN: LibreScroll – enable flywheel-scrolling on any generic mouse](https://github.com/EsportToys/LibreScroll)
+* [2023-07-19, 08:23:15](https://news.ycombinator.com/item?id=36783449) - [Bfs 3.0: The Fastest Find Yet](https://tavianator.com/2023/bfs_3.0.html)
 * [2023-07-19, 08:22:48](https://news.ycombinator.com/item?id=36783445) - [Save Open Source /-/ the Impending Tragedy of the Cyber Resilience Act](https://news.apache.org/foundation/entry/save-open-source-the-impending-tragedy-of-the-cyber-resilience-act)
 * [2023-07-19, 08:07:02](https://news.ycombinator.com/item?id=36783348) - [Nvidia just released FreeBSD Display Driver 535.86.05 (2023.7.18)](https://twitter.com/fosdembsd/status/1681574924282998784)
 * [2023-07-19, 08:02:55](https://news.ycombinator.com/item?id=36783327) - [The Memoirs of Joseph Grimaldi (2011)](https://publicdomainreview.org/essay/the-memoirs-of-joseph-grimaldi/)

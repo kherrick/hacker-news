@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-21, 23:19:51](https://news.ycombinator.com/item?id=36821347) - [Hollywood is on strike because CEOs fell for Silicon Valley’s magical thinking](https://www.latimes.com/business/technology/story/2023-07-21/column-hollywood-sag-aftra-strike-strike-silicon-valleys-magical-thinking)
+* [2023-07-22, 01:48:35](https://news.ycombinator.com/item?id=36822374) - [Facebook denies cookie tracking allegations (2011)](https://www.zdnet.com/article/facebook-denies-cookie-tracking-allegations/)
+* [2023-07-22, 01:08:09](https://news.ycombinator.com/item?id=36822141) - [Amazon is getting ready to launch a lot of broadband satellites](https://arstechnica.com/space/2023/07/amazon-is-getting-ready-to-launch-a-lot-of-broadband-satellites/)
+* [2023-07-22, 00:24:52](https://news.ycombinator.com/item?id=36821871) - [Using Prolog in Windows NT Network Configuration (1996)](https://web.archive.org/web/20030218034509/http://www.research.microsoft.com/research/dtg/davidhov/pap.htm)
 * [2023-07-21, 23:12:27](https://news.ycombinator.com/item?id=36821266) - [Computer chip with built-in human brain tissue gets military funding](https://newatlas.com/computers/human-brain-chip-ai/)
-* [2023-07-21, 23:00:46](https://news.ycombinator.com/item?id=36821142) - [Stack Overflowed](https://stackoverflowed.com)
 * [2023-07-21, 22:41:26](https://news.ycombinator.com/item?id=36820937) - [Cooking Air Quality](https://www.jefftk.com/p/cooking-air-quality)
 * [2023-07-21, 22:06:16](https://news.ycombinator.com/item?id=36820555) - [NativePHP: A framework for building desktop apps using PHP](https://nativephp.com/docs/1/getting-started/introduction)
 * [2023-07-21, 21:58:40](https://news.ycombinator.com/item?id=36820469) - [Managing Kitchen Fruit Flies with a Little Shop of Horrors](https://blog.zaccohn.com/Fruitflies-and-the-Little-Shop-of-Horrors/)
@@ -12,7 +13,6 @@
 * [2023-07-21, 21:01:12](https://news.ycombinator.com/item?id=36819670) - [Sleep Reset (YC W17) Is Hiring](https://www.ycombinator.com/companies/sleep-reset/jobs/8qZIdyD-personal-assistant-must-be-korean-english-bilingual)
 * [2023-07-21, 20:03:56](https://news.ycombinator.com/item?id=36818923) - [FreeWilly 1 and 2, two new open-access LLMs](https://stability.ai/blog/freewilly-large-instruction-fine-tuned-models)
 * [2023-07-21, 20:01:20](https://news.ycombinator.com/item?id=36818896) - [Journalists should be skeptical of all sources including scientists](https://natesilver.substack.com/p/journalists-should-be-skeptical-of)
-* [2023-07-21, 19:44:31](https://news.ycombinator.com/item?id=36818640) - [Big Tech as the New Big Tobacco](https://www.bigtechwiki.com/index.php/Big_Tech_as_the_New_Big_Tobacco)
 * [2023-07-21, 19:35:39](https://news.ycombinator.com/item?id=36818501) - [Don’t Make Fun of Renowned Dan Brown (2013)](https://onehundredpages.wordpress.com/2013/06/12/dont-make-fun-of-renowned-dan-brown/)
 * [2023-07-21, 19:17:28](https://news.ycombinator.com/item?id=36818233) - [Slackware Linux distribution turns 30 years old](https://www.theregister.com/2023/07/20/slackware_turns_30/)
 * [2023-07-21, 18:52:01](https://news.ycombinator.com/item?id=36817900) - [IMAX emulates PalmPilot software to power Oppenheimer’s 70 mm release](https://arstechnica.com/gadgets/2023/07/imax-emulates-palmpilot-software-to-power-oppenheimers-70-mm-release/)
@@ -24,12 +24,12 @@
 * [2023-07-21, 16:22:20](https://news.ycombinator.com/item?id=36815744) - [‘World of Warcraft’ players trick AI-scraping website into publishing nonsense](https://www.forbes.com/sites/paultassi/2023/07/21/world-of-warcraft-players-trick-ai-scraping-games-website-into-publishing-nonsense/)
 * [2023-07-21, 16:19:54](https://news.ycombinator.com/item?id=36815705) - [RFC 9420 a.k.a. Messaging Layer Security](https://blog.phnx.im/rfc-9420-mls/)
 * [2023-07-21, 15:49:04](https://news.ycombinator.com/item?id=36815255) - [In the LLM space, \"open source\" is being used to mean \"downloadable weights\"](https://www.alessiofanelli.com/blog/llama2-isnt-open-source)
-* [2023-07-21, 12:56:25](https://news.ycombinator.com/item?id=36813210) - [90s Internet: When 20 hours online triggered an email from my ISP’s president](https://arstechnica.com/gadgets/2023/07/the-90s-internet-when-20-hours-online-triggered-an-email-from-my-isps-president/)
 * [2023-07-21, 12:38:14](https://news.ycombinator.com/item?id=36813086) - [Show HN: Primo – a visual CMS with Svelte blocks, a code editor, and SSG](https://primocms.org)
 * [2023-07-21, 10:30:55](https://news.ycombinator.com/item?id=36812175) - [Small joys of programming in Odin](http://www.zannzen.com/blog/small_joys_with_odin_1/)
 * [2023-07-21, 08:48:48](https://news.ycombinator.com/item?id=36811554) - [I have written a JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/)
 * [2023-07-20, 07:06:22](https://news.ycombinator.com/item?id=36797636) - [‘The best blueberry’: how a tiny North American fruit took over Australia (2022)](https://www.theguardian.com/food/2022/oct/29/the-best-blueberry-how-a-tiny-north-american-fruit-took-over-australia)
 * [2023-07-20, 04:32:45](https://news.ycombinator.com/item?id=36796917) - [The Rediscovery of Susan Taubes](https://www.tabletmag.com/sections/arts-letters/articles/lament-for-susan)
+* [2023-07-19, 08:23:15](https://news.ycombinator.com/item?id=36783449) - [Bfs 3.0: The Fastest Find Yet](https://tavianator.com/2023/bfs_3.0.html)
 
 ## [Archives](archives/index.md)
 
