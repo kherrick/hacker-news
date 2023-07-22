@@ -90,6 +90,7 @@
 * [2023-07-21, 10:30:55](https://news.ycombinator.com/item?id=36812175) - [Small Joys with Odin](http://www.zannzen.com/blog/small_joys_with_odin_1/)
 * [2023-07-21, 09:39:09](https://news.ycombinator.com/item?id=36811861) - [How We See Ourselves and How We See Others (2008) [pdf]](http://courses.washington.edu/pbafhall/514/514%20Readings/2008%20Self%20and%20Other%20Pronin.pdf)
 * [2023-07-21, 09:04:41](https://news.ycombinator.com/item?id=36811646) - [Moving AI governance forward – openai.com](https://openai.com/blog/moving-ai-governance-forward)
+* [2023-07-21, 08:51:02](https://news.ycombinator.com/item?id=36811569) - [The Standard Model](https://inference-review.com/article/the-standard-model)
 * [2023-07-21, 08:48:48](https://news.ycombinator.com/item?id=36811554) - [I have written a JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/)
 * [2023-07-21, 07:30:16](https://news.ycombinator.com/item?id=36811026) - [Ask HN: What are some low cost payment processing alternatives to Stripe?](https://news.ycombinator.com/item?id=36811026)
 * [2023-07-21, 07:29:26](https://news.ycombinator.com/item?id=36811018) - [Quench of LHC inner triplet magnet causes a small leak with major consequences](https://home.cern/news/news/accelerators/accelerator-report-quench-lhc-inner-triplet-magnet-causes-small-leak-major)
