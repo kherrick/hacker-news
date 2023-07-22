@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-22, 01:48:35](https://news.ycombinator.com/item?id=36822374) - [Facebook denies cookie tracking allegations (2011)](https://www.zdnet.com/article/facebook-denies-cookie-tracking-allegations/)
+* [2023-07-22, 01:42:28](https://news.ycombinator.com/item?id=36822335) - [Middle class homebuyers taking $7k mortgages planning to later refinance down](https://fortune.com/2023/07/19/mortgage-rates-housing-market-affordability-borrower-refinance-speculation/)
 * [2023-07-22, 01:08:09](https://news.ycombinator.com/item?id=36822141) - [Amazon is getting ready to launch a lot of broadband satellites](https://arstechnica.com/space/2023/07/amazon-is-getting-ready-to-launch-a-lot-of-broadband-satellites/)
 * [2023-07-22, 00:24:52](https://news.ycombinator.com/item?id=36821871) - [Using Prolog in Windows NT Network Configuration (1996)](https://web.archive.org/web/20030218034509/http://www.research.microsoft.com/research/dtg/davidhov/pap.htm)
 * [2023-07-22, 00:23:40](https://news.ycombinator.com/item?id=36821861) - [Employees Bid on Anchor Brewery](https://vinepair.com/booze-news/anchor-employees-brewery-takeover-bid/)
 * [2023-07-21, 23:22:16](https://news.ycombinator.com/item?id=36821372) - [To Save the Planet, Should We Be Moving Slower?](https://www.newyorker.com/news/daily-comment/to-save-the-planet-should-we-really-be-moving-slower)
-* [2023-07-21, 23:12:27](https://news.ycombinator.com/item?id=36821266) - [Computer chip with built-in human brain tissue gets military funding](https://newatlas.com/computers/human-brain-chip-ai/)
 * [2023-07-21, 22:06:16](https://news.ycombinator.com/item?id=36820555) - [NativePHP: A framework for building desktop apps using PHP](https://nativephp.com/docs/1/getting-started/introduction)
 * [2023-07-21, 21:58:40](https://news.ycombinator.com/item?id=36820469) - [Managing Kitchen Fruit Flies with a Little Shop of Horrors](https://blog.zaccohn.com/Fruitflies-and-the-Little-Shop-of-Horrors/)
 * [2023-07-21, 21:39:05](https://news.ycombinator.com/item?id=36820205) - [TH3P4G3 Thunderbolt eGPU Dock Review](https://egpu.io/exp-gdc-th3p4g2-thunderbolt-gpu-dock-review/)
