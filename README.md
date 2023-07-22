@@ -22,7 +22,6 @@
 * [2023-07-21, 18:32:16](https://news.ycombinator.com/item?id=36817628) - [MiniZinc](https://www.minizinc.org/)
 * [2023-07-21, 18:22:52](https://news.ycombinator.com/item?id=36817482) - [For BSD Unix, It's Sayonara (1992)](https://www.tech-insider.org/unix/research/1992/0622.html)
 * [2023-07-21, 18:09:43](https://news.ycombinator.com/item?id=36817305) - [Web Environment Integrity API Proposal](https://github.com/RupertBenWiser/Web-Environment-Integrity)
-* [2023-07-21, 17:05:11](https://news.ycombinator.com/item?id=36816436) - [Longitudinal study on the relationship between childhood maltreatment and ADHD](https://www.psypost.org/2023/07/longitudinal-study-highlights-bidirectional-relationship-between-childhood-maltreatment-and-adhd-symptoms-166568)
 * [2023-07-21, 16:22:20](https://news.ycombinator.com/item?id=36815744) - [‘World of Warcraft’ players trick AI-scraping website into publishing nonsense](https://www.forbes.com/sites/paultassi/2023/07/21/world-of-warcraft-players-trick-ai-scraping-games-website-into-publishing-nonsense/)
 * [2023-07-21, 16:19:54](https://news.ycombinator.com/item?id=36815705) - [RFC 9420 a.k.a. Messaging Layer Security](https://blog.phnx.im/rfc-9420-mls/)
 * [2023-07-21, 15:49:04](https://news.ycombinator.com/item?id=36815255) - [In the LLM space, \"open source\" is being used to mean \"downloadable weights\"](https://www.alessiofanelli.com/blog/llama2-isnt-open-source)
@@ -30,6 +29,7 @@
 * [2023-07-21, 08:48:48](https://news.ycombinator.com/item?id=36811554) - [I have written a JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/)
 * [2023-07-20, 07:06:22](https://news.ycombinator.com/item?id=36797636) - [‘The best blueberry’: how a tiny North American fruit took over Australia (2022)](https://www.theguardian.com/food/2022/oct/29/the-best-blueberry-how-a-tiny-north-american-fruit-took-over-australia)
 * [2023-07-19, 10:05:42](https://news.ycombinator.com/item?id=36784114) - [Confronting Failure as a Core Life Skill](https://buildinghealthier.substack.com/p/confronting-failure-as-a-core-life)
+* [2023-07-19, 09:35:28](https://news.ycombinator.com/item?id=36783937) - [Why pressure and vacuum marination does not work (2016)](https://genuineideas.com/ArticlesIndex/pressuremarinade.html)
 
 ## [Archives](archives/index.md)
 
