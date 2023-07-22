@@ -11,6 +11,7 @@
 * [2023-07-22, 16:11:46](https://news.ycombinator.com/item?id=36827438) - [I am dying of squamous cell carcinoma, and potential treatments are out of reach](https://jakeseliger.com/2023/07/22/i-am-dying-of-squamous-cell-carcinoma-and-the-treatments-that-might-save-me-are-just-out-of-reach/)
 * [2023-07-22, 14:56:48](https://news.ycombinator.com/item?id=36826755) - [Important Coding Habits](https://puppycoding.com/2023/07/22/healthy-coding-habits/)
 * [2023-07-22, 14:18:47](https://news.ycombinator.com/item?id=36826446) - [Computational Complexity of Texture Encoding](https://fgiesen.wordpress.com/2023/07/21/computational-complexity-of-texture-encoding/)
+* [2023-07-22, 14:17:22](https://news.ycombinator.com/item?id=36826438) - [Malicious libraries can steal all your application secrets in Elixir](https://www.peterullrich.com/how-malicious-libraries-can-steal-all-your-application-secrets)
 * [2023-07-22, 13:50:28](https://news.ycombinator.com/item?id=36826210) - [A brief history of computers](https://www.lesswrong.com/posts/vfRpzyGsikujm9ujj/a-brief-history-of-computers)
 * [2023-07-22, 13:46:08](https://news.ycombinator.com/item?id=36826177) - [Botulinum toxin: Bioweapon and magic drug (2010)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3028942/)
 * [2023-07-22, 13:36:22](https://news.ycombinator.com/item?id=36826111) - [Why even let users set their own passwords?](https://www.devever.net/~hl/passwords)
@@ -29,7 +30,6 @@
 * [2023-07-21, 08:51:02](https://news.ycombinator.com/item?id=36811569) - [The Standard Model](https://inference-review.com/article/the-standard-model)
 * [2023-07-20, 08:37:07](https://news.ycombinator.com/item?id=36798137) - [On constructing 2-3 trees (2018) [pdf]](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/129759AE03543B461536F78B386D93B5/S0956796818000187a.pdf/on-constructing-2-3-trees.pdf)
 * [2023-07-20, 07:08:01](https://news.ycombinator.com/item?id=36797650) - [MSX-DOS](https://en.wikipedia.org/wiki/MSX-DOS)
-* [2023-07-20, 00:10:06](https://news.ycombinator.com/item?id=36795313) - [Athanasius Kircher and the Hieroglyphic Sphinx (2013)](https://publicdomainreview.org/essay/athanasius-kircher-and-the-hieroglyphic-sphinx/)
 
 ## [Archives](archives/index.md)
 
