@@ -4,7 +4,7 @@
 * [2023-07-22, 20:57:48](https://news.ycombinator.com/item?id=36829854) - [Amsterdam bans cruise ships to limit visitors and curb pollution](https://www.bbc.com/news/world-europe-66264226)
 * [2023-07-22, 20:39:54](https://news.ycombinator.com/item?id=36829672) - [Hops for beer flourish under solar panels](https://apnews.com/article/climate-beer-solar-panels-hops-germany-ee3d00a1877837eb85053335e3b68a00)
 * [2023-07-22, 20:07:35](https://news.ycombinator.com/item?id=36829374) - [Egregoria: 3D City Builder without a grid](https://github.com/Uriopass/Egregoria)
-* [2023-07-22, 19:15:26](https://news.ycombinator.com/item?id=36828927) - [Making the most of Apple Silicon power: 2 Core capabilities [2022]](https://eclecticlight.co/2022/10/05/making-the-most-of-apple-silicon-power-2-core-capabilities/)
+* [2023-07-22, 19:15:26](https://news.ycombinator.com/item?id=36828927) - [Making the most of Apple Silicon power: 2 Core capabilities (2022)](https://eclecticlight.co/2022/10/05/making-the-most-of-apple-silicon-power-2-core-capabilities/)
 * [2023-07-22, 19:00:16](https://news.ycombinator.com/item?id=36828811) - [A Caltech Nobel laureate celebrates his 100th birthday, then gets back to work](https://www.latimes.com/science/story/2023-07-21/caltech-nobel-laureate-rudy-marcus-turns-100-and-gets-back-to-work)
 * [2023-07-22, 18:17:29](https://news.ycombinator.com/item?id=36828409) - [Shopify employee breaks NDA to reveal firm replacing laid off workers with AI](https://thedeepdive.ca/shopify-employee-breaks-nda-to-reveal-firm-quietly-replacing-laid-off-workers-with-ai/)
 * [2023-07-22, 18:02:19](https://news.ycombinator.com/item?id=36828288) - [Databag – tiny self-hosted federated messenger for the decentralized web](https://github.com/balzack/databag)
