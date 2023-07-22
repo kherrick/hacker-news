@@ -78,6 +78,7 @@
 * [2023-07-20, 10:04:44](https://news.ycombinator.com/item?id=36798593) - [Docuseal: Open-source DocuSign alternative. Create, fill, sign digital documents](https://github.com/docusealco/docuseal)
 * [2023-07-20, 09:27:11](https://news.ycombinator.com/item?id=36798408) - [Intel's 14th Gen Core K-Series CPU Specs Break Cover with Speeds Up to 6GHz](https://hothardware.com/news/intel-14thgen-core-k-cpu-spec-leak)
 * [2023-07-20, 09:24:47](https://news.ycombinator.com/item?id=36798395) - [Vacuum Airship](https://en.wikipedia.org/wiki/Vacuum_airship)
+* [2023-07-20, 09:21:26](https://news.ycombinator.com/item?id=36798380) - [Communal Bonfires](https://blog.erlend.sh/communal-bonfires)
 * [2023-07-20, 08:50:46](https://news.ycombinator.com/item?id=36798200) - [Android is now better than iOS, says head of Instagram](https://www.threads.net/@mosseri/post/CuzpnOwtadu)
 * [2023-07-20, 08:40:43](https://news.ycombinator.com/item?id=36798162) - [Retro-Porting to OS/2 1.0](http://www.os2museum.com/wp/retro-porting-to-os-2-1-0/)
 * [2023-07-20, 08:39:30](https://news.ycombinator.com/item?id=36798157) - [MDN Playground](https://developer.mozilla.org/en-US/play)
