@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
+* [2023-07-21, 23:22:16](https://news.ycombinator.com/item?id=36821372) - [To Save the Planet, Should We Be Moving Slower?](https://www.newyorker.com/news/daily-comment/to-save-the-planet-should-we-really-be-moving-slower)
 * [2023-07-21, 23:19:51](https://news.ycombinator.com/item?id=36821347) - [Hollywood is on strike because CEOs fell for Silicon Valley’s magical thinking](https://www.latimes.com/business/technology/story/2023-07-21/column-hollywood-sag-aftra-strike-strike-silicon-valleys-magical-thinking)
 * [2023-07-21, 23:12:27](https://news.ycombinator.com/item?id=36821266) - [Computer chip with built-in human brain tissue gets military funding](https://newatlas.com/computers/human-brain-chip-ai/)
 * [2023-07-21, 23:00:46](https://news.ycombinator.com/item?id=36821142) - [Stack Overflowed](https://stackoverflowed.com)
