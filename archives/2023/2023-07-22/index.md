@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-22](index.md)
 
+* [2023-07-22, 04:58:26](https://news.ycombinator.com/item?id=36823424) - [Climate records tumble, leaving Earth in uncharted territory – scientists](https://www.bbc.co.uk/news/science-environment-66229065)
+* [2023-07-22, 04:13:36](https://news.ycombinator.com/item?id=36823175) - [An analysis of conspiracy promotor Russell Brand](https://www.prospectmagazine.co.uk/ideas/technology/internet/61724/tarnished-brand)
 * [2023-07-22, 03:40:43](https://news.ycombinator.com/item?id=36823007) - [Compromised Microsoft Key: More Impactful Than We Thought](https://www.wiz.io/blog/storm-0558-compromised-microsoft-key-enables-authentication-of-countless-micr)
 * [2023-07-22, 03:39:01](https://news.ycombinator.com/item?id=36822994) - [GNU PSPP](https://www.gnu.org/software/pspp/)
 * [2023-07-22, 03:22:43](https://news.ycombinator.com/item?id=36822880) - [Internet Search Tips](https://gwern.net/search)
