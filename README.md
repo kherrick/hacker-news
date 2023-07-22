@@ -21,7 +21,7 @@
 * [2023-07-21, 21:58:40](https://news.ycombinator.com/item?id=36820469) - [Managing Kitchen Fruit Flies with a Little Shop of Horrors](https://blog.zaccohn.com/Fruitflies-and-the-Little-Shop-of-Horrors/)
 * [2023-07-21, 21:32:21](https://news.ycombinator.com/item?id=36820105) - [Book Review: The Laws of Trading](https://astralcodexten.substack.com/p/your-book-review-the-laws-of-trading)
 * [2023-07-21, 21:17:45](https://news.ycombinator.com/item?id=36819906) - [Llama: Add grammar-based sampling](https://github.com/ggerganov/llama.cpp/pull/1773)
-* [2023-07-21, 18:09:43](https://news.ycombinator.com/item?id=36817305) - [Web Environment Integrity API Proposal](https://github.com/RupertBenWiser/Web-Environment-Integrity)
+* [2023-07-21, 21:01:12](https://news.ycombinator.com/item?id=36819670) - [Sleep Reset (YC W17) Is Hiring](https://www.ycombinator.com/companies/sleep-reset/jobs/8qZIdyD-personal-assistant-must-be-korean-english-bilingual)
 * [2023-07-20, 07:08:01](https://news.ycombinator.com/item?id=36797650) - [MSX-DOS](https://en.wikipedia.org/wiki/MSX-DOS)
 * [2023-07-20, 07:06:22](https://news.ycombinator.com/item?id=36797636) - [‘The best blueberry’: how a tiny North American fruit took over Australia (2022)](https://www.theguardian.com/food/2022/oct/29/the-best-blueberry-how-a-tiny-north-american-fruit-took-over-australia)
 * [2023-07-20, 06:45:33](https://news.ycombinator.com/item?id=36797514) - [About math limitations](https://www.alexmolas.com/2023/07/18/math-limitations.html)
