@@ -26,10 +26,10 @@
 * [2023-07-21, 13:46:46](https://news.ycombinator.com/item?id=36813688) - [Consumer software is expected to be next fast-growing segment (1994)](https://www.csmonitor.com/1994/0513/13082.html)
 * [2023-07-21, 09:39:09](https://news.ycombinator.com/item?id=36811861) - [How we see ourselves and how we see others (2008) [pdf]](http://courses.washington.edu/pbafhall/514/514%20Readings/2008%20Self%20and%20Other%20Pronin.pdf)
 * [2023-07-21, 08:51:02](https://news.ycombinator.com/item?id=36811569) - [The Standard Model](https://inference-review.com/article/the-standard-model)
+* [2023-07-21, 08:11:28](https://news.ycombinator.com/item?id=36811316) - [How to Make Cheese at Home](https://www.themanual.com/food-and-drink/how-to-make-cheese/)
 * [2023-07-21, 06:18:32](https://news.ycombinator.com/item?id=36810583) - [Silicon, Silica, Silicates and Silicone (1998) [pdf]](https://minds.wisconsin.edu/bitstream/handle/1793/11591/Silicon.pdf)
 * [2023-07-20, 09:21:26](https://news.ycombinator.com/item?id=36798380) - [Communal Bonfires](https://blog.erlend.sh/communal-bonfires)
 * [2023-07-20, 08:40:43](https://news.ycombinator.com/item?id=36798162) - [Retro-Porting to OS/2 1.0](http://www.os2museum.com/wp/retro-porting-to-os-2-1-0/)
-* [2023-07-19, 21:44:19](https://news.ycombinator.com/item?id=36793897) - [The Norfolk Medieval Graffiti Survey](http://www.medieval-graffiti.co.uk/index.html)
 
 ## [Archives](archives/index.md)
 
