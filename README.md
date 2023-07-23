@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-23, 19:19:37](https://news.ycombinator.com/item?id=36838712) - [Ask HN: Which distro do you use? (2023)](https://news.ycombinator.com/item?id=36838712)
 * [2023-07-23, 18:13:54](https://news.ycombinator.com/item?id=36838051) - [Llama2.c: inference llama 2 in one file of pure C](https://github.com/karpathy/llama2.c)
 * [2023-07-23, 17:41:37](https://news.ycombinator.com/item?id=36837695) - [Queen guitarist and astrophysicist Brian May to release 3D atlas of asteroid](https://www.theguardian.com/science/2023/jul/23/queen-brian-may-3d-atlas-bennu-asteroid)
 * [2023-07-23, 17:41:27](https://news.ycombinator.com/item?id=36837690) - [Why Host Datacenter in Kosovo?](https://basehost.eu/)
 * [2023-07-23, 17:26:27](https://news.ycombinator.com/item?id=36837512) - [Show HN: High school transcript generator for homeschoolers](https://www.greatbookshomeschool.com/free-high-school-transcript-generator)
-* [2023-07-23, 17:20:08](https://news.ycombinator.com/item?id=36837448) - [Want fewer car accidents? Remove traffic signals and road signs (2017)](https://bigthink.com/the-present/want-less-car-accidents-get-rid-of-traffic-signals-road-signs/)
 * [2023-07-23, 17:14:10](https://news.ycombinator.com/item?id=36837391) - [Google Nest Mini Gutted and Rebuilt to Run Custom Agents](https://hackaday.com/2023/07/23/google-nest-mini-gutted-and-rebuilt-to-run-custom-agents/)
 * [2023-07-23, 17:03:23](https://news.ycombinator.com/item?id=36837273) - [Man found guilty of child porn because he ran a Tor exit node](https://lowendbox.com/blog/man-found-guilty-of-child-porn-because-he-ran-a-tor-exit-node-the-story-of-william-weber/)
 * [2023-07-23, 16:28:52](https://news.ycombinator.com/item?id=36836866) - [Hair dye and chemical straightener use and breast cancer risk (2019)](https://onlinelibrary.wiley.com/doi/full/10.1002/ijc.32738)
