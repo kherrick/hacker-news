@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-23, 07:13:36](https://news.ycombinator.com/item?id=36833208) - [A History of Neural Networks](https://royalsocietypublishing.org/doi/10.1098/rsos.221454)
-* [2023-07-23, 06:14:19](https://news.ycombinator.com/item?id=36832964) - [Hopfions in Modern Physics](http://hopfion.com/)
 * [2023-07-23, 03:58:43](https://news.ycombinator.com/item?id=36832433) - [EasyGraph: A Comprehensive Tool for Graph Analysis and Social Computing](https://github.com/easy-graph/Easy-Graph)
 * [2023-07-23, 03:14:52](https://news.ycombinator.com/item?id=36832271) - [Stable Diffusion and ControlNet: “Hidden” Text (see thumbnail vs. full image)](https://old.reddit.com/r/StableDiffusion/comments/1561k15/free_tool_to_generate_hidden_text_using_stable/)
 * [2023-07-23, 02:12:31](https://news.ycombinator.com/item?id=36831956) - [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)
@@ -15,6 +14,7 @@
 * [2023-07-22, 22:18:54](https://news.ycombinator.com/item?id=36830513) - [Vimspector – the Vim debugger rules all](https://puremourning.github.io/vimspector-web/)
 * [2023-07-22, 22:15:38](https://news.ycombinator.com/item?id=36830492) - [STX – C++17 and C++ 20 error-handling and utility extensions](https://lamarrr.github.io/STX/)
 * [2023-07-22, 22:15:28](https://news.ycombinator.com/item?id=36830490) - [TokenFlow: Consistent diffusion features for consistent video editing](https://diffusion-tokenflow.github.io/)
+* [2023-07-22, 21:26:32](https://news.ycombinator.com/item?id=36830126) - [Rooting the Amazon Echo Dot](https://dragon863.github.io/blog/echoroot.html)
 * [2023-07-22, 21:18:23](https://news.ycombinator.com/item?id=36830062) - [How does iCloud work? Plus a new version of Cirrus](https://eclecticlight.co/2023/07/17/how-does-icloud-work-plus-a-new-version-of-cirrus/)
 * [2023-07-22, 20:07:35](https://news.ycombinator.com/item?id=36829374) - [Egregoria: 3D City Builder without a grid](https://github.com/Uriopass/Egregoria)
 * [2023-07-22, 19:15:26](https://news.ycombinator.com/item?id=36828927) - [Making the most of Apple Silicon power: 2 Core capabilities (2022)](https://eclecticlight.co/2022/10/05/making-the-most-of-apple-silicon-power-2-core-capabilities/)
