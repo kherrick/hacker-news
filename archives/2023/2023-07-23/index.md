@@ -8,6 +8,7 @@
 * [2023-07-23, 18:13:54](https://news.ycombinator.com/item?id=36838051) - [Llama2.c: inference llama 2 in one file of pure C](https://github.com/karpathy/llama2.c)
 * [2023-07-23, 17:41:37](https://news.ycombinator.com/item?id=36837695) - [Queen guitarist and astrophysicist Brian May to release 3D atlas of asteroid](https://www.theguardian.com/science/2023/jul/23/queen-brian-may-3d-atlas-bennu-asteroid)
 * [2023-07-23, 17:41:27](https://news.ycombinator.com/item?id=36837690) - [Why Host Datacenter in Kosovo?](https://basehost.eu/)
+* [2023-07-23, 17:26:27](https://news.ycombinator.com/item?id=36837512) - [Show HN: High school transcript generator for homeschoolers](https://www.greatbookshomeschool.com/free-high-school-transcript-generator)
 * [2023-07-23, 17:20:08](https://news.ycombinator.com/item?id=36837448) - [Want fewer car accidents? Remove traffic signals and road signs (2017)](https://bigthink.com/the-present/want-less-car-accidents-get-rid-of-traffic-signals-road-signs/)
 * [2023-07-23, 17:17:59](https://news.ycombinator.com/item?id=36837427) - [Working remotely should be the norm, not a privilege](https://www.remotebusinessjobs.com/normnotprivilege)
 * [2023-07-23, 17:14:10](https://news.ycombinator.com/item?id=36837391) - [Google Nest Mini Gutted and Rebuilt to Run Custom Agents](https://hackaday.com/2023/07/23/google-nest-mini-gutted-and-rebuilt-to-run-custom-agents/)
