@@ -1,12 +1,102 @@
 [
   [
     [
+      "2023-07-23, 16:08:22",
+      "https://news.ycombinator.com/item?id=36836649"
+    ],
+    [
+      "Government URLs that don't end in .gov",
+      "https://github.com/GSA/govt-urls"
+    ]
+  ],
+  [
+    [
+      "2023-07-23, 16:03:31",
+      "https://news.ycombinator.com/item?id=36836596"
+    ],
+    [
+      "Show HN: I made a MailChimp alternative that connects to your database",
+      "https://cc.dev"
+    ]
+  ],
+  [
+    [
+      "2023-07-23, 15:58:11",
+      "https://news.ycombinator.com/item?id=36836538"
+    ],
+    [
+      "LeCun: Qualcomm working with Meta to run Llama-2 on mobile devices",
+      "https://twitter.com/ylecun/status/1683138295155372032"
+    ]
+  ],
+  [
+    [
+      "2023-07-23, 15:57:51",
+      "https://news.ycombinator.com/item?id=36836530"
+    ],
+    [
+      "Drugmakers Are ‘Throwing the Kitchen Sink’ to Halt Medicare Price Negotiations",
+      "https://www.nytimes.com/2023/07/23/us/politics/medicare-drug-price-negotiations-lawsuits.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-23, 15:48:28",
+      "https://news.ycombinator.com/item?id=36836433"
+    ],
+    [
+      "Interfaces All the Way Down",
+      "https://jjain.substack.com/p/interfaces-all-the-way-down"
+    ]
+  ],
+  [
+    [
+      "2023-07-23, 15:40:23",
+      "https://news.ycombinator.com/item?id=36836368"
+    ],
+    [
+      "Biasing the quantum vacuum to control macroscopic probability distributions",
+      "https://www.science.org/doi/10.1126/science.adh4920"
+    ]
+  ],
+  [
+    [
+      "2023-07-23, 15:39:38",
+      "https://news.ycombinator.com/item?id=36836358"
+    ],
+    [
+      "An invariant from category theory solves a problem in mathematical ecology [pdf]",
+      "https://www.maths.ed.ac.uk/~tl/genova/genova_talk.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-07-23, 15:29:35",
+      "https://news.ycombinator.com/item?id=36836258"
+    ],
+    [
+      "Elixir for Ruby developers: the three most important differences",
+      "https://phoenixonrails.com/blog/elixir-for-ruby-developers-the-three-most-important-differences"
+    ]
+  ],
+  [
+    [
       "2023-07-23, 15:23:11",
       "https://news.ycombinator.com/item?id=36836189"
     ],
     [
       "Ask HN: Why do web sites not place the cursor for input?",
       "https://news.ycombinator.com/item?id=36836189"
+    ]
+  ],
+  [
+    [
+      "2023-07-23, 15:05:39",
+      "https://news.ycombinator.com/item?id=36836020"
+    ],
+    [
+      "Debian vs. Yocto for Embedded Systems",
+      "https://www.bytesnap.com/news-blog/debian-vs-yocto-for-embedded-systems/"
     ]
   ],
   [
@@ -31,12 +121,22 @@
   ],
   [
     [
-      "2023-07-23, 14:24:48",
-      "https://news.ycombinator.com/item?id=36835571"
+      "2023-07-23, 14:22:14",
+      "https://news.ycombinator.com/item?id=36835550"
     ],
     [
-      "‘Training My Replacement’: Inside a Call Center Worker’s Battle with A.I",
-      "https://www.nytimes.com/2023/07/19/business/call-center-workers-battle-with-ai.html"
+      "Queryability and the Sublime Mediocrity of SQL",
+      "https://buttondown.email/hillelwayne/archive/queryability-and-the-sublime-mediocrity-of-sql/"
+    ]
+  ],
+  [
+    [
+      "2023-07-23, 14:04:53",
+      "https://news.ycombinator.com/item?id=36835412"
+    ],
+    [
+      "Mixing Swift and C++",
+      "https://www.swift.org/documentation/cxx-interop/"
     ]
   ],
   [
@@ -47,16 +147,6 @@
     [
       "MOVEit body count closes in on 400 orgs, 20M+ individuals",
       "https://www.theregister.com/2023/07/20/moveit_victim_count/"
-    ]
-  ],
-  [
-    [
-      "2023-07-23, 13:21:04",
-      "https://news.ycombinator.com/item?id=36835054"
-    ],
-    [
-      "Ask HN: Are waitlist launches a no go on Hacker News?",
-      "https://news.ycombinator.com/item?id=36835054"
     ]
   ],
   [
@@ -111,16 +201,6 @@
   ],
   [
     [
-      "2023-07-23, 10:01:23",
-      "https://news.ycombinator.com/item?id=36833915"
-    ],
-    [
-      "Deutsche Bank's “dysfunctional” IT division (2018)",
-      "https://www.efinancialcareers.co.uk/news/2018/04/technology-at-deutsche-bank"
-    ]
-  ],
-  [
-    [
       "2023-07-23, 09:42:39",
       "https://news.ycombinator.com/item?id=36833836"
     ],
@@ -151,16 +231,6 @@
   ],
   [
     [
-      "2023-07-23, 03:58:43",
-      "https://news.ycombinator.com/item?id=36832433"
-    ],
-    [
-      "EasyGraph: A Comprehensive Tool for Graph Analysis and Social Computing",
-      "https://github.com/easy-graph/Easy-Graph"
-    ]
-  ],
-  [
-    [
       "2023-07-23, 02:11:04",
       "https://news.ycombinator.com/item?id=36831946"
     ],
@@ -171,62 +241,12 @@
   ],
   [
     [
-      "2023-07-23, 01:56:50",
-      "https://news.ycombinator.com/item?id=36831879"
-    ],
-    [
-      "What my musical instruments have taught me",
-      "https://www.newyorker.com/culture/the-weekend-essay/what-my-musical-instruments-have-taught-me"
-    ]
-  ],
-  [
-    [
-      "2023-07-22, 22:15:28",
-      "https://news.ycombinator.com/item?id=36830490"
-    ],
-    [
-      "TokenFlow: Consistent diffusion features for consistent video editing",
-      "https://diffusion-tokenflow.github.io/"
-    ]
-  ],
-  [
-    [
-      "2023-07-22, 20:07:35",
-      "https://news.ycombinator.com/item?id=36829374"
-    ],
-    [
-      "Egregoria: 3D City Builder without a grid",
-      "https://github.com/Uriopass/Egregoria"
-    ]
-  ],
-  [
-    [
-      "2023-07-22, 19:00:16",
-      "https://news.ycombinator.com/item?id=36828811"
-    ],
-    [
-      "A Caltech Nobel laureate celebrates his 100th birthday, then gets back to work",
-      "https://www.latimes.com/science/story/2023-07-21/caltech-nobel-laureate-rudy-marcus-turns-100-and-gets-back-to-work"
-    ]
-  ],
-  [
-    [
       "2023-07-22, 14:16:53",
       "https://news.ycombinator.com/item?id=36826436"
     ],
     [
       "Golden Hour: Regilding the Dome at University of Notre Dame",
       "https://www.nd.edu/stories/golden-hour/"
-    ]
-  ],
-  [
-    [
-      "2023-07-22, 10:33:27",
-      "https://news.ycombinator.com/item?id=36825069"
-    ],
-    [
-      "Dot_ix: Interactive GraphViz Dot Graphs",
-      "https://azriel.im/dot_ix/"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-07-21, 08:01:02",
-      "https://news.ycombinator.com/item?id=36811240"
-    ],
-    [
-      "TV Typewriter Remembered",
-      "https://hackaday.com/2023/07/20/tv-typewriter-remembered/"
-    ]
-  ],
-  [
-    [
       "2023-07-21, 07:17:51",
       "https://news.ycombinator.com/item?id=36810937"
     ],
     [
       "The Tallest Atrium (2019)",
       "https://www.world-architects.com/en/architecture-news/found/inside-the-worlds-tallest-atrium"
-    ]
-  ],
-  [
-    [
-      "2023-07-21, 03:20:31",
-      "https://news.ycombinator.com/item?id=36809624"
-    ],
-    [
-      "Typesetting Rare Chinese Characters in LATEX (2003) [pdf]",
-      "https://www.tug.org/TUGboat/tb24-3/wong.pdf"
     ]
   ]
 ]
