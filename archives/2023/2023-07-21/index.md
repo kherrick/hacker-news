@@ -12,6 +12,7 @@
 * [2023-07-21, 22:33:59](https://news.ycombinator.com/item?id=36820877) - [Why is healthy food so expensive in America? Blame the Farm Bill](https://fortune.com/2023/07/21/why-healthy-food-so-expensive-in-america-blame-farm-bill-congress-always-renews-make-burgers-cheaper-salad-gene-baur/)
 * [2023-07-21, 22:30:49](https://news.ycombinator.com/item?id=36820835) - [Electrolytic capacitors: overview, teardown and experiments [video]](https://www.youtube.com/watch?v=MAP-VA1m-A4)
 * [2023-07-21, 22:06:16](https://news.ycombinator.com/item?id=36820555) - [NativePHP: A framework for building desktop apps using PHP](https://nativephp.com/docs/1/getting-started/introduction)
+* [2023-07-21, 22:04:57](https://news.ycombinator.com/item?id=36820544) - [High-Performance server for NATS.io, the cloud and edge native messaging system](https://github.com/nats-io/nats-server)
 * [2023-07-21, 21:58:40](https://news.ycombinator.com/item?id=36820469) - [Managing Kitchen Fruit Flies with a Little Shop of Horrors](https://blog.zaccohn.com/Fruitflies-and-the-Little-Shop-of-Horrors/)
 * [2023-07-21, 21:51:07](https://news.ycombinator.com/item?id=36820378) - [Ask HN: What are some LLM prompts you've found useful?](https://news.ycombinator.com/item?id=36820378)
 * [2023-07-21, 21:39:05](https://news.ycombinator.com/item?id=36820205) - [TH3P4G3 Thunderbolt eGPU Dock Review](https://egpu.io/exp-gdc-th3p4g2-thunderbolt-gpu-dock-review/)
