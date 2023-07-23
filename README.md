@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-23, 02:12:31](https://news.ycombinator.com/item?id=36831956) - [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)
 * [2023-07-23, 01:56:50](https://news.ycombinator.com/item?id=36831879) - [Jaron Lanier – What My Musical Instruments Have Taught Me](https://www.newyorker.com/culture/the-weekend-essay/what-my-musical-instruments-have-taught-me)
 * [2023-07-22, 23:37:35](https://news.ycombinator.com/item?id=36831067) - [CoQ4 is a functional substitute for CoQ10 and can be targeted to mitochondria](https://www.biorxiv.org/content/10.1101/2023.07.20.549963v2)
 * [2023-07-22, 23:11:40](https://news.ycombinator.com/item?id=36830860) - [AOL pulls Nullsoft file-sharing software WASTE (2003)](https://web.archive.org/web/20030810194502/http://news.com.com/2100-1032_3-1011585.html)
@@ -29,7 +30,6 @@
 * [2023-07-21, 06:18:32](https://news.ycombinator.com/item?id=36810583) - [Silicon, Silica, Silicates and Silicone (1998) [pdf]](https://minds.wisconsin.edu/bitstream/handle/1793/11591/Silicon.pdf)
 * [2023-07-20, 09:21:26](https://news.ycombinator.com/item?id=36798380) - [Communal Bonfires](https://blog.erlend.sh/communal-bonfires)
 * [2023-07-20, 08:40:43](https://news.ycombinator.com/item?id=36798162) - [Retro-Porting to OS/2 1.0](http://www.os2museum.com/wp/retro-porting-to-os-2-1-0/)
-* [2023-07-19, 21:44:19](https://news.ycombinator.com/item?id=36793897) - [The Norfolk Medieval Graffiti Survey](http://www.medieval-graffiti.co.uk/index.html)
 
 ## [Archives](archives/index.md)
 
