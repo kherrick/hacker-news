@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-23](index.md)
 
+* [2023-07-23, 18:13:54](https://news.ycombinator.com/item?id=36838051) - [Llama2.c: inference llama 2 in one file of pure C](https://github.com/karpathy/llama2.c)
 * [2023-07-23, 17:41:37](https://news.ycombinator.com/item?id=36837695) - [Queen guitarist and astrophysicist Brian May to release 3D atlas of asteroid](https://www.theguardian.com/science/2023/jul/23/queen-brian-may-3d-atlas-bennu-asteroid)
+* [2023-07-23, 17:41:27](https://news.ycombinator.com/item?id=36837690) - [Why Host Datacenter in Kosovo?](https://basehost.eu/)
+* [2023-07-23, 17:17:59](https://news.ycombinator.com/item?id=36837427) - [Working remotely should be the norm, not a privilege](https://www.remotebusinessjobs.com/normnotprivilege)
 * [2023-07-23, 17:14:10](https://news.ycombinator.com/item?id=36837391) - [Google Nest Mini Gutted and Rebuilt to Run Custom Agents](https://hackaday.com/2023/07/23/google-nest-mini-gutted-and-rebuilt-to-run-custom-agents/)
 * [2023-07-23, 17:03:23](https://news.ycombinator.com/item?id=36837273) - [Man Found Guilty of Child Porn, Because He Ran a Tor Exit Node](https://lowendbox.com/blog/man-found-guilty-of-child-porn-because-he-ran-a-tor-exit-node-the-story-of-william-weber/)
 * [2023-07-23, 16:48:30](https://news.ycombinator.com/item?id=36837109) - [Judeo-Christian roots will ensure US military AI is used ethically, general says](https://www.washingtonpost.com/national-security/2023/07/22/air-force-general-ai-judeochristian/)
