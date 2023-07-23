@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-23, 21:01:32](https://news.ycombinator.com/item?id=36839800) - [Never run ldd on unknown executables](https://catonmat.net/ldd-arbitrary-code-execution)
 * [2023-07-23, 19:43:45](https://news.ycombinator.com/item?id=36838994) - [PLJS – JavaScript Language Plugin for PostreSQL](https://github.com/plv8/pljs)
 * [2023-07-23, 18:59:27](https://news.ycombinator.com/item?id=36838511) - [OpenBSD: AMD processor microcode support added to -current](https://undeadly.org/cgi?action=article;sid=20230723185853)
 * [2023-07-23, 18:13:54](https://news.ycombinator.com/item?id=36838051) - [Llama2.c: Inference llama 2 in one file of pure C](https://github.com/karpathy/llama2.c)
@@ -12,7 +13,6 @@
 * [2023-07-23, 16:08:22](https://news.ycombinator.com/item?id=36836649) - [Government URLs that don't end in .gov](https://github.com/GSA/govt-urls)
 * [2023-07-23, 16:07:40](https://news.ycombinator.com/item?id=36836639) - [Why don't we get our drinking water by taking salt out seawater? (2008)](https://www.scientificamerican.com/article/why-dont-we-get-our-drinking-water-from-the-ocean/)
 * [2023-07-23, 16:03:31](https://news.ycombinator.com/item?id=36836596) - [Show HN: I made a MailChimp alternative that connects to your database](https://cc.dev)
-* [2023-07-23, 15:58:11](https://news.ycombinator.com/item?id=36836538) - [LeCun: Qualcomm working with Meta to run Llama-2 on mobile devices](https://twitter.com/ylecun/status/1683138295155372032)
 * [2023-07-23, 15:48:28](https://news.ycombinator.com/item?id=36836433) - [Interfaces all the way down](https://jjain.substack.com/p/interfaces-all-the-way-down)
 * [2023-07-23, 15:39:38](https://news.ycombinator.com/item?id=36836358) - [An invariant from category theory solves a problem in mathematical ecology [pdf]](https://www.maths.ed.ac.uk/~tl/genova/genova_talk.pdf)
 * [2023-07-23, 15:29:35](https://news.ycombinator.com/item?id=36836258) - [Elixir for Ruby developers: the three most important differences](https://phoenixonrails.com/blog/elixir-for-ruby-developers-the-three-most-important-differences)
@@ -23,11 +23,11 @@
 * [2023-07-23, 09:42:39](https://news.ycombinator.com/item?id=36833836) - [Toyota has been developing a solid-state battery for EVs with a range of 745mi](https://www.topspeed.com/toyota-745-mile-solid-state-battery/)
 * [2023-07-23, 07:51:33](https://news.ycombinator.com/item?id=36833393) - [What every IT person needs to know about OpenBSD (2021)](https://nxdomain.no/~peter/what_every_it_person_needs_to_know_about_openbsd.html)
 * [2023-07-23, 06:44:36](https://news.ycombinator.com/item?id=36833089) - [I found an IT job thanks to this blog](https://giuliomagnifico.blog/misc/2023/07/22/I-found-a-IT-job-thanks-to-this-blog.html)
+* [2023-07-23, 05:00:18](https://news.ycombinator.com/item?id=36832669) - [Showing Elizabeth I in a new light](https://blogs.bl.uk/digitisedmanuscripts/2023/07/showing-elizabeth-i-in-a-new-light.html)
 * [2023-07-23, 03:22:26](https://news.ycombinator.com/item?id=36832293) - [Fossil shows mammal sinking teeth into dinosaur](https://www.theguardian.com/science/2023/jul/18/mesozoic-fossil-dinosaur-mammal-fight)
 * [2023-07-22, 02:10:40](https://news.ycombinator.com/item?id=36822484) - [Research reveals the scale of disorder underpinning motor neuron disease](https://medicalxpress.com/news/2023-07-reveals-scale-disorder-underpinning-motor.html)
 * [2023-07-22, 00:36:29](https://news.ycombinator.com/item?id=36821951) - [Advice for Operating a Public-Facing API](https://jcs.org/2023/07/12/api)
 * [2023-07-21, 22:58:59](https://news.ycombinator.com/item?id=36821123) - [Stone Walls and Historical Harbors Are Unexpected Havens of Biodiversity](https://hakaimagazine.com/news/stone-walls-and-historical-harbors-are-unexpected-havens-of-biodiversity/)
-* [2023-07-21, 22:30:49](https://news.ycombinator.com/item?id=36820835) - [Electrolytic capacitors: overview, teardown and experiments [video]](https://www.youtube.com/watch?v=MAP-VA1m-A4)
 * [2023-07-21, 22:04:57](https://news.ycombinator.com/item?id=36820544) - [High-Performance server for NATS.io, the cloud and edge native messaging system](https://github.com/nats-io/nats-server)
 * [2023-07-21, 18:49:04](https://news.ycombinator.com/item?id=36817851) - [Stem Formulas](https://stemformulas.com/formulas/)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-23](index.md)
 
+* [2023-07-23, 21:01:32](https://news.ycombinator.com/item?id=36839800) - [Never run ldd on unknown executables](https://catonmat.net/ldd-arbitrary-code-execution)
 * [2023-07-23, 20:09:20](https://news.ycombinator.com/item?id=36839284) - [Modeling Bitcoin Value with Vibes. This model has an R² of 0.97](https://allenfarrington.medium.com/modeling-bitcoin-value-with-vibes-99eca0997c5f)
 * [2023-07-23, 19:43:45](https://news.ycombinator.com/item?id=36838994) - [PLJS – JavaScript Language Plugin for PostreSQL](https://github.com/plv8/pljs)
 * [2023-07-23, 19:19:37](https://news.ycombinator.com/item?id=36838712) - [Ask HN: Which distro do you use? (2023)](https://news.ycombinator.com/item?id=36838712)
@@ -65,6 +66,7 @@
 * [2023-07-23, 06:44:36](https://news.ycombinator.com/item?id=36833089) - [I found a IT jobs thanks to this blog, what I’m doing](https://giuliomagnifico.blog/misc/2023/07/22/I-found-a-IT-job-thanks-to-this-blog.html)
 * [2023-07-23, 06:14:19](https://news.ycombinator.com/item?id=36832964) - [Hopfions in Modern Physics](http://hopfion.com/)
 * [2023-07-23, 05:32:10](https://news.ycombinator.com/item?id=36832797) - [Transformers: The Google scientists who pioneered an AI revolution](https://www.ft.com/content/37bb01af-ee46-4483-982f-ef3921436a50)
+* [2023-07-23, 05:00:18](https://news.ycombinator.com/item?id=36832669) - [Showing Elizabeth I in a new light](https://blogs.bl.uk/digitisedmanuscripts/2023/07/showing-elizabeth-i-in-a-new-light.html)
 * [2023-07-23, 03:58:43](https://news.ycombinator.com/item?id=36832433) - [EasyGraph: A Comprehensive Tool for Graph Analysis and Social Computing](https://github.com/easy-graph/Easy-Graph)
 * [2023-07-23, 03:22:26](https://news.ycombinator.com/item?id=36832293) - [‘Not always king’: fossil shows mammal sinking teeth into dinosaur](https://www.theguardian.com/science/2023/jul/18/mesozoic-fossil-dinosaur-mammal-fight)
 * [2023-07-23, 03:14:52](https://news.ycombinator.com/item?id=36832271) - [Stable Diffusion and ControlNet: “Hidden” Text (see thumbnail vs. full image)](https://old.reddit.com/r/StableDiffusion/comments/1561k15/free_tool_to_generate_hidden_text_using_stable/)
