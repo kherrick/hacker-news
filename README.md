@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-23, 01:56:50](https://news.ycombinator.com/item?id=36831879) - [Jaron Lanier – What My Musical Instruments Have Taught Me](https://www.newyorker.com/culture/the-weekend-essay/what-my-musical-instruments-have-taught-me)
 * [2023-07-22, 23:37:35](https://news.ycombinator.com/item?id=36831067) - [CoQ4 is a functional substitute for CoQ10 and can be targeted to mitochondria](https://www.biorxiv.org/content/10.1101/2023.07.20.549963v2)
 * [2023-07-22, 23:11:40](https://news.ycombinator.com/item?id=36830860) - [AOL pulls Nullsoft file-sharing software WASTE (2003)](https://web.archive.org/web/20030810194502/http://news.com.com/2100-1032_3-1011585.html)
-* [2023-07-22, 23:04:00](https://news.ycombinator.com/item?id=36830813) - [Why SQLite Does Not Use Git](https://www.sqlite.org/draft/matrix/whynotgit.html)
+* [2023-07-22, 23:04:00](https://news.ycombinator.com/item?id=36830813) - [Why SQLite does not use Git (2018)](https://www.sqlite.org/draft/matrix/whynotgit.html)
 * [2023-07-22, 22:49:21](https://news.ycombinator.com/item?id=36830707) - [Reinventing the E.R. for America’s mental-health crisis](https://www.newyorker.com/science/annals-of-medicine/reinventing-the-er-for-americas-mental-health-crisis)
 * [2023-07-22, 22:48:37](https://news.ycombinator.com/item?id=36830697) - [Were small-brained early humans intelligent? Row erupts over scientists’ claim](https://www.theguardian.com/science/2023/jul/22/small-brained-early-humans-homo-naledi-cleverer-storm)
 * [2023-07-22, 22:18:54](https://news.ycombinator.com/item?id=36830513) - [Vimspector – the Vim debugger rules all](https://puremourning.github.io/vimspector-web/)
@@ -10,7 +11,6 @@
 * [2023-07-22, 22:15:28](https://news.ycombinator.com/item?id=36830490) - [TokenFlow: Consistent diffusion features for consistent video editing](https://diffusion-tokenflow.github.io/)
 * [2023-07-22, 21:18:23](https://news.ycombinator.com/item?id=36830062) - [How does iCloud work? Plus a new version of Cirrus](https://eclecticlight.co/2023/07/17/how-does-icloud-work-plus-a-new-version-of-cirrus/)
 * [2023-07-22, 20:57:00](https://news.ycombinator.com/item?id=36829850) - [Visiting Death](https://www.overcomingbias.com/p/visiting-death)
-* [2023-07-22, 20:39:54](https://news.ycombinator.com/item?id=36829672) - [Hops for beer flourish under solar panels](https://apnews.com/article/climate-beer-solar-panels-hops-germany-ee3d00a1877837eb85053335e3b68a00)
 * [2023-07-22, 20:07:35](https://news.ycombinator.com/item?id=36829374) - [Egregoria: 3D City Builder without a grid](https://github.com/Uriopass/Egregoria)
 * [2023-07-22, 19:15:26](https://news.ycombinator.com/item?id=36828927) - [Making the most of Apple Silicon power: 2 Core capabilities (2022)](https://eclecticlight.co/2022/10/05/making-the-most-of-apple-silicon-power-2-core-capabilities/)
 * [2023-07-22, 19:06:32](https://news.ycombinator.com/item?id=36828861) - [America’s largest tool company couldn’t make a wrench in America](https://www.wsj.com/articles/craftsman-america-wrench-stanley-black-decker-reshoring-factory-1125792f)
