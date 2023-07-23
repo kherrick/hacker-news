@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-23, 14:24:48](https://news.ycombinator.com/item?id=36835571) - [‘Training My Replacement’: Inside a Call Center Worker’s Battle with A.I](https://www.nytimes.com/2023/07/19/business/call-center-workers-battle-with-ai.html)
-* [2023-07-23, 14:23:52](https://news.ycombinator.com/item?id=36835566) - [The Great 440 Hz Conspiracy, and Why All of Our Music Is Wrong](https://globalnews.ca/news/4194106/440-hz-conspiracy-music/)
 * [2023-07-23, 13:52:21](https://news.ycombinator.com/item?id=36835293) - [MOVEit body count closes in on 400 orgs, 20M+ individuals](https://www.theregister.com/2023/07/20/moveit_victim_count/)
 * [2023-07-23, 13:46:39](https://news.ycombinator.com/item?id=36835246) - [Remote Work to Wipe Out $800B from Office Values, McKinsey Says](https://www.bnnbloomberg.ca/remote-work-to-wipe-out-800-billion-from-office-values-mckinsey-says-1.1944967)
 * [2023-07-23, 13:21:04](https://news.ycombinator.com/item?id=36835054) - [Ask HN: Are waitlist launches a no go on Hacker News?](https://news.ycombinator.com/item?id=36835054)
@@ -12,6 +11,7 @@
 * [2023-07-23, 10:07:11](https://news.ycombinator.com/item?id=36833951) - [Down and Out in the Magic Kingdom (2003)](https://www.gutenberg.org/files/8086/8086-h/8086-h.htm)
 * [2023-07-23, 10:01:23](https://news.ycombinator.com/item?id=36833915) - [Deutsche Bank's “dysfunctional” IT division (2018)](https://www.efinancialcareers.co.uk/news/2018/04/technology-at-deutsche-bank)
 * [2023-07-23, 09:42:39](https://news.ycombinator.com/item?id=36833836) - [Toyota has been developing a solid-state battery for EVs with a range of 745mi](https://www.topspeed.com/toyota-745-mile-solid-state-battery/)
+* [2023-07-23, 08:22:22](https://news.ycombinator.com/item?id=36833523) - [Scientists hit with massive bills after speaking at COVID-19 ‘webinars’](https://www.science.org/content/article/costly-invite-scientists-hit-with-massive-bills-after-speaking-at-covid-19-conferences)
 * [2023-07-23, 07:51:33](https://news.ycombinator.com/item?id=36833393) - [What every IT person needs to know about OpenBSD (2021)](https://nxdomain.no/~peter/what_every_it_person_needs_to_know_about_openbsd.html)
 * [2023-07-23, 07:21:01](https://news.ycombinator.com/item?id=36833252) - [South Pole Signage](https://brr.fyi/posts/south-pole-signage)
 * [2023-07-23, 06:44:36](https://news.ycombinator.com/item?id=36833089) - [I found an IT job thanks to this blog](https://giuliomagnifico.blog/misc/2023/07/22/I-found-a-IT-job-thanks-to-this-blog.html)
