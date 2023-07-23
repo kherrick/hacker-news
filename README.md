@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-23, 21:24:03](https://news.ycombinator.com/item?id=36839983) - [All Foster Kids in California Can Now Attend Any State College for Free](https://themessenger.com/news/all-foster-kids-in-california-can-now-attend-any-state-college-for-free)
 * [2023-07-23, 21:01:32](https://news.ycombinator.com/item?id=36839800) - [Never run ldd on unknown executables](https://catonmat.net/ldd-arbitrary-code-execution)
 * [2023-07-23, 19:43:45](https://news.ycombinator.com/item?id=36838994) - [PLJS – JavaScript Language Plugin for PostreSQL](https://github.com/plv8/pljs)
 * [2023-07-23, 18:59:27](https://news.ycombinator.com/item?id=36838511) - [OpenBSD: AMD processor microcode support added to -current](https://undeadly.org/cgi?action=article;sid=20230723185853)
@@ -19,7 +20,6 @@
 * [2023-07-23, 14:24:48](https://news.ycombinator.com/item?id=36835571) - [A call center worker’s battle with A.I.](https://www.nytimes.com/2023/07/19/business/call-center-workers-battle-with-ai.html)
 * [2023-07-23, 12:30:30](https://news.ycombinator.com/item?id=36834732) - [Show HN: I made a customizable iOS browser for minimalists and myself](https://apps.apple.com/us/app/quiche-browser/id1668363952)
 * [2023-07-23, 10:07:11](https://news.ycombinator.com/item?id=36833951) - [Down and Out in the Magic Kingdom (2003)](https://www.gutenberg.org/files/8086/8086-h/8086-h.htm)
-* [2023-07-23, 09:42:39](https://news.ycombinator.com/item?id=36833836) - [Toyota has been developing a solid-state battery for EVs with a range of 745mi](https://www.topspeed.com/toyota-745-mile-solid-state-battery/)
 * [2023-07-23, 07:51:33](https://news.ycombinator.com/item?id=36833393) - [What every IT person needs to know about OpenBSD (2021)](https://nxdomain.no/~peter/what_every_it_person_needs_to_know_about_openbsd.html)
 * [2023-07-23, 06:44:36](https://news.ycombinator.com/item?id=36833089) - [I found an IT job thanks to this blog](https://giuliomagnifico.blog/misc/2023/07/22/I-found-a-IT-job-thanks-to-this-blog.html)
 * [2023-07-23, 05:00:18](https://news.ycombinator.com/item?id=36832669) - [Showing Elizabeth I in a new light](https://blogs.bl.uk/digitisedmanuscripts/2023/07/showing-elizabeth-i-in-a-new-light.html)

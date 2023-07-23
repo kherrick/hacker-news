@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-23](index.md)
 
+* [2023-07-23, 21:24:03](https://news.ycombinator.com/item?id=36839983) - [All Foster Kids in California Can Now Attend Any State College for Free](https://themessenger.com/news/all-foster-kids-in-california-can-now-attend-any-state-college-for-free)
 * [2023-07-23, 21:01:32](https://news.ycombinator.com/item?id=36839800) - [Never run ldd on unknown executables](https://catonmat.net/ldd-arbitrary-code-execution)
 * [2023-07-23, 20:09:20](https://news.ycombinator.com/item?id=36839284) - [Modeling Bitcoin Value with Vibes. This model has an R² of 0.97](https://allenfarrington.medium.com/modeling-bitcoin-value-with-vibes-99eca0997c5f)
 * [2023-07-23, 19:43:45](https://news.ycombinator.com/item?id=36838994) - [PLJS – JavaScript Language Plugin for PostreSQL](https://github.com/plv8/pljs)
