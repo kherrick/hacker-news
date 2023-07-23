@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-23, 03:14:52](https://news.ycombinator.com/item?id=36832271) - [Stable Diffusion and ControlNet: “Hidden” Text (see thumbnail vs. full image)](https://old.reddit.com/r/StableDiffusion/comments/1561k15/free_tool_to_generate_hidden_text_using_stable/)
+* [2023-07-23, 02:52:01](https://news.ycombinator.com/item?id=36832157) - [Researchers Say They Found IP Addresses for ‘Anonymous’ Econ Forum Posts](https://www.insidehighered.com/news/faculty-issues/diversity-equity/2023/07/20/study-says-it-found-ip-addresses-anonymous-ejmr)
 * [2023-07-23, 02:12:31](https://news.ycombinator.com/item?id=36831956) - [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)
 * [2023-07-23, 01:56:50](https://news.ycombinator.com/item?id=36831879) - [Jaron Lanier – What My Musical Instruments Have Taught Me](https://www.newyorker.com/culture/the-weekend-essay/what-my-musical-instruments-have-taught-me)
 * [2023-07-22, 23:37:35](https://news.ycombinator.com/item?id=36831067) - [CoQ4 is a functional substitute for CoQ10 and can be targeted to mitochondria](https://www.biorxiv.org/content/10.1101/2023.07.20.549963v2)
