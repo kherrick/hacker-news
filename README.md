@@ -2,6 +2,7 @@
 
 * [2023-07-23, 12:52:29](https://news.ycombinator.com/item?id=36834858) - [The Bear Market Has Nearly Been Erased, Fewer Than 20 Months After It Began](https://finance.yahoo.com/news/bear-market-nearly-erased-fewer-201732187.html)
 * [2023-07-23, 12:37:57](https://news.ycombinator.com/item?id=36834771) - [In Phoenix, this is life at 113 degrees for more than 20 days](https://english.elpais.com/international/2023-07-22/in-phoenix-45-million-residents-are-living-in-hell-this-is-life-at-113-degrees-for-more-than-20-days.html)
+* [2023-07-23, 12:30:30](https://news.ycombinator.com/item?id=36834732) - [Show HN: I made a customizable iOS browser for minimalists and myself](https://apps.apple.com/us/app/quiche-browser/id1668363952)
 * [2023-07-23, 12:22:05](https://news.ycombinator.com/item?id=36834675) - [Valgrind recieves a development microgrant from FUTO](https://fosstodon.org/@sourceware/110760408112704937)
 * [2023-07-23, 12:14:35](https://news.ycombinator.com/item?id=36834625) - [Johannesburg: Video captures moment suspected gas explosion threw buses into air](https://twitter.com/CBSNews/status/1682238972712370176)
 * [2023-07-23, 11:33:57](https://news.ycombinator.com/item?id=36834415) - [A Romanian economist legally gamed the lottery and won millions of dollars](https://thehustle.co/the-man-who-won-the-lottery-14-times/)
@@ -21,7 +22,6 @@
 * [2023-07-22, 19:00:16](https://news.ycombinator.com/item?id=36828811) - [A Caltech Nobel laureate celebrates his 100th birthday, then gets back to work](https://www.latimes.com/science/story/2023-07-21/caltech-nobel-laureate-rudy-marcus-turns-100-and-gets-back-to-work)
 * [2023-07-22, 10:33:27](https://news.ycombinator.com/item?id=36825069) - [Dot_ix: Interactive GraphViz Dot Graphs](https://azriel.im/dot_ix/)
 * [2023-07-22, 07:28:08](https://news.ycombinator.com/item?id=36824165) - [Client-side proxies – a better way to individualise the Internet? (2000)](https://people.dsv.su.se/~jpalme/select/csp/thesis.html)
-* [2023-07-21, 19:28:47](https://news.ycombinator.com/item?id=36818387) - [The Nature of Glass: Technologies of Transparency, Materials on the Move](https://www.journals.uchicago.edu/doi/10.1086/724806)
 * [2023-07-21, 18:49:04](https://news.ycombinator.com/item?id=36817851) - [Stem Formulas](https://stemformulas.com/formulas/)
 * [2023-07-21, 08:35:18](https://news.ycombinator.com/item?id=36811460) - [Medieval Table Manners: The Messiest Myth?](https://www.medievalists.net/2023/06/medieval-table-manners/)
 * [2023-07-21, 08:11:28](https://news.ycombinator.com/item?id=36811316) - [How to make cheese at home](https://www.themanual.com/food-and-drink/how-to-make-cheese/)

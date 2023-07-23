@@ -6,6 +6,7 @@
 
 * [2023-07-23, 12:52:29](https://news.ycombinator.com/item?id=36834858) - [The Bear Market Has Nearly Been Erased, Fewer Than 20 Months After It Began](https://finance.yahoo.com/news/bear-market-nearly-erased-fewer-201732187.html)
 * [2023-07-23, 12:37:57](https://news.ycombinator.com/item?id=36834771) - [In Phoenix, this is life at 113 degrees for more than 20 days](https://english.elpais.com/international/2023-07-22/in-phoenix-45-million-residents-are-living-in-hell-this-is-life-at-113-degrees-for-more-than-20-days.html)
+* [2023-07-23, 12:30:30](https://news.ycombinator.com/item?id=36834732) - [Show HN: I made a customizable iOS browser for minimalists and myself](https://apps.apple.com/us/app/quiche-browser/id1668363952)
 * [2023-07-23, 12:22:05](https://news.ycombinator.com/item?id=36834675) - [Valgrind recieves a development microgrant from FUTO](https://fosstodon.org/@sourceware/110760408112704937)
 * [2023-07-23, 12:14:35](https://news.ycombinator.com/item?id=36834625) - [Johannesburg: Video captures moment suspected gas explosion threw buses into air](https://twitter.com/CBSNews/status/1682238972712370176)
 * [2023-07-23, 11:33:57](https://news.ycombinator.com/item?id=36834415) - [A man who won the lottery 14 times](https://thehustle.co/the-man-who-won-the-lottery-14-times/)
