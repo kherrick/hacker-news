@@ -8,6 +8,7 @@
 * [2023-07-21, 23:19:51](https://news.ycombinator.com/item?id=36821347) - [Hollywood is on strike because CEOs fell for Silicon Valley’s magical thinking](https://www.latimes.com/business/technology/story/2023-07-21/column-hollywood-sag-aftra-strike-strike-silicon-valleys-magical-thinking)
 * [2023-07-21, 23:12:27](https://news.ycombinator.com/item?id=36821266) - [Computer chip with built-in human brain tissue gets military funding](https://newatlas.com/computers/human-brain-chip-ai/)
 * [2023-07-21, 23:00:46](https://news.ycombinator.com/item?id=36821142) - [Stack Overflowed](https://stackoverflowed.com)
+* [2023-07-21, 22:58:59](https://news.ycombinator.com/item?id=36821123) - [Stone Walls and Historical Harbors Are Unexpected Havens of Biodiversity](https://hakaimagazine.com/news/stone-walls-and-historical-harbors-are-unexpected-havens-of-biodiversity/)
 * [2023-07-21, 22:41:26](https://news.ycombinator.com/item?id=36820937) - [Cooking Air Quality](https://www.jefftk.com/p/cooking-air-quality)
 * [2023-07-21, 22:33:59](https://news.ycombinator.com/item?id=36820877) - [Why is healthy food so expensive in America? Blame the Farm Bill](https://fortune.com/2023/07/21/why-healthy-food-so-expensive-in-america-blame-farm-bill-congress-always-renews-make-burgers-cheaper-salad-gene-baur/)
 * [2023-07-21, 22:30:49](https://news.ycombinator.com/item?id=36820835) - [Electrolytic capacitors: overview, teardown and experiments [video]](https://www.youtube.com/watch?v=MAP-VA1m-A4)

@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-23](index.md)
 
+* [2023-07-23, 19:43:45](https://news.ycombinator.com/item?id=36838994) - [PLJS – JavaScript Language Plugin for PostreSQL](https://github.com/plv8/pljs)
 * [2023-07-23, 19:19:37](https://news.ycombinator.com/item?id=36838712) - [Ask HN: Which distro do you use? (2023)](https://news.ycombinator.com/item?id=36838712)
+* [2023-07-23, 18:59:27](https://news.ycombinator.com/item?id=36838511) - [OpenBSD: AMD processor microcode support added to -current](https://undeadly.org/cgi?action=article;sid=20230723185853)
 * [2023-07-23, 18:40:21](https://news.ycombinator.com/item?id=36838297) - [How, Mathematically, We’re Fucked: Exponential growth on a finite planet](https://indica.medium.com/how-mathematically-were-fucked-c5c2e5158898)
 * [2023-07-23, 18:23:52](https://news.ycombinator.com/item?id=36838153) - [Why South Africa Is on the Brink of Chaos](https://www.bloomberg.com/news/features/2023-07-20/south-africa-s-private-sector-is-key-to-stopping-the-failed-state-cycle)
 * [2023-07-23, 18:13:54](https://news.ycombinator.com/item?id=36838051) - [Llama2.c: inference llama 2 in one file of pure C](https://github.com/karpathy/llama2.c)
