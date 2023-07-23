@@ -9,6 +9,7 @@
 * [2023-07-23, 09:42:39](https://news.ycombinator.com/item?id=36833836) - [With the 745-Mile Solid-State Battery, Toyota Just Became a Force to Reckon With](https://www.topspeed.com/toyota-745-mile-solid-state-battery/)
 * [2023-07-23, 08:32:26](https://news.ycombinator.com/item?id=36833564) - [Ask HN: What is the best place to hire part time devs?](https://news.ycombinator.com/item?id=36833564)
 * [2023-07-23, 08:00:09](https://news.ycombinator.com/item?id=36833431) - [50 Years of Text Games parses the rich history of a foundational genre](https://arstechnica.com/gaming/2023/06/50-years-of-text-games-parses-the-rich-history-of-a-foundational-genre/)
+* [2023-07-23, 07:51:33](https://news.ycombinator.com/item?id=36833393) - [What every IT person needs to know about OpenBSD](https://nxdomain.no/~peter/what_every_it_person_needs_to_know_about_openbsd.html)
 * [2023-07-23, 07:48:57](https://news.ycombinator.com/item?id=36833384) - [Show HN: Scaffolder, CLI tool to generate project structure, taken from YAML](https://github.com/cemister/scaffolder)
 * [2023-07-23, 07:21:01](https://news.ycombinator.com/item?id=36833252) - [South Pole Signage](https://brr.fyi/posts/south-pole-signage)
 * [2023-07-23, 07:13:36](https://news.ycombinator.com/item?id=36833208) - [A History of Neural Networks](https://royalsocietypublishing.org/doi/10.1098/rsos.221454)
