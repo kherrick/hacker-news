@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-23, 08:32:26](https://news.ycombinator.com/item?id=36833564) - [Ask HN: What is the best place to hire part time devs?](https://news.ycombinator.com/item?id=36833564)
 * [2023-07-23, 08:00:09](https://news.ycombinator.com/item?id=36833431) - [50 Years of Text Games parses the rich history of a foundational genre](https://arstechnica.com/gaming/2023/06/50-years-of-text-games-parses-the-rich-history-of-a-foundational-genre/)
 * [2023-07-23, 07:48:57](https://news.ycombinator.com/item?id=36833384) - [Show HN: Scaffolder, CLI tool to generate project structure, taken from YAML](https://github.com/cemister/scaffolder)
 * [2023-07-23, 07:21:01](https://news.ycombinator.com/item?id=36833252) - [South Pole Signage](https://brr.fyi/posts/south-pole-signage)
@@ -24,6 +23,7 @@
 * [2023-07-22, 07:28:08](https://news.ycombinator.com/item?id=36824165) - [Client-side proxies – a better way to individualise the Internet? (2000)](https://people.dsv.su.se/~jpalme/select/csp/thesis.html)
 * [2023-07-22, 06:57:11](https://news.ycombinator.com/item?id=36823992) - [IdentiFIVE](https://identifive.com)
 * [2023-07-21, 19:28:47](https://news.ycombinator.com/item?id=36818387) - [The Nature of Glass: Technologies of Transparency, Materials on the Move](https://www.journals.uchicago.edu/doi/10.1086/724806)
+* [2023-07-21, 08:51:02](https://news.ycombinator.com/item?id=36811569) - [The Standard Model](https://inference-review.com/article/the-standard-model)
 * [2023-07-21, 08:11:28](https://news.ycombinator.com/item?id=36811316) - [How to make cheese at home](https://www.themanual.com/food-and-drink/how-to-make-cheese/)
 * [2023-07-21, 08:01:02](https://news.ycombinator.com/item?id=36811240) - [TV Typewriter Remembered](https://hackaday.com/2023/07/20/tv-typewriter-remembered/)
 * [2023-07-21, 07:17:51](https://news.ycombinator.com/item?id=36810937) - [The Tallest Atrium (2019)](https://www.world-architects.com/en/architecture-news/found/inside-the-worlds-tallest-atrium)
