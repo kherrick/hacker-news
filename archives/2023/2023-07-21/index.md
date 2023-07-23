@@ -95,6 +95,7 @@
 * [2023-07-21, 07:30:16](https://news.ycombinator.com/item?id=36811026) - [Ask HN: What are some low cost payment processing alternatives to Stripe?](https://news.ycombinator.com/item?id=36811026)
 * [2023-07-21, 07:29:26](https://news.ycombinator.com/item?id=36811018) - [Quench of LHC inner triplet magnet causes a small leak with major consequences](https://home.cern/news/news/accelerators/accelerator-report-quench-lhc-inner-triplet-magnet-causes-small-leak-major)
 * [2023-07-21, 07:01:03](https://news.ycombinator.com/item?id=36810818) - [Nanosecond timestamp collisions are common](https://www.evanjones.ca/nanosecond-collisions.html)
+* [2023-07-21, 06:18:32](https://news.ycombinator.com/item?id=36810583) - [Silicon, Silica, Silicates and Silicone (1998) [pdf]](https://minds.wisconsin.edu/bitstream/handle/1793/11591/Silicon.pdf)
 * [2023-07-21, 05:13:25](https://news.ycombinator.com/item?id=36810230) - [LLM Constellation](https://llmconstellation.olafblitz.repl.co/)
 * [2023-07-21, 04:49:57](https://news.ycombinator.com/item?id=36810112) - [What Humanities Scholars Want Students to Know About the Internet](https://computinged.wordpress.com/2023/07/17/what-humanities-scholars-want-students-to-know-about-the-internet-alternative-paths-for-alternative-endpoints/)
 * [2023-07-21, 04:42:25](https://news.ycombinator.com/item?id=36810075) - [Amazon shuts down customer’s smart home](https://forums.macrumors.com/threads/amazon-shuts-down-customers-smart-home.2392704/)

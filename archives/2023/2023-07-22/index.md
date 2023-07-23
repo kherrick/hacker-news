@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-22](index.md)
 
+* [2023-07-22, 23:37:35](https://news.ycombinator.com/item?id=36831067) - [CoQ4 is a functional substitute for CoQ10 and can be targeted to mitochondria](https://www.biorxiv.org/content/10.1101/2023.07.20.549963v2)
 * [2023-07-22, 23:11:40](https://news.ycombinator.com/item?id=36830860) - [AOL pulls Nullsoft file-sharing software WASTE (2003)](https://web.archive.org/web/20030810194502/http://news.com.com/2100-1032_3-1011585.html)
+* [2023-07-22, 23:04:00](https://news.ycombinator.com/item?id=36830813) - [Why SQLite Does Not Use Git](https://www.sqlite.org/draft/matrix/whynotgit.html)
 * [2023-07-22, 22:49:21](https://news.ycombinator.com/item?id=36830707) - [Reinventing the E.R. for America’s mental-health crisis](https://www.newyorker.com/science/annals-of-medicine/reinventing-the-er-for-americas-mental-health-crisis)
 * [2023-07-22, 22:48:37](https://news.ycombinator.com/item?id=36830697) - [Were small-brained early humans intelligent? Row erupts over scientists’ claim](https://www.theguardian.com/science/2023/jul/22/small-brained-early-humans-homo-naledi-cleverer-storm)
 * [2023-07-22, 22:18:54](https://news.ycombinator.com/item?id=36830513) - [Vimspector – the Vim debugger rules all](https://puremourning.github.io/vimspector-web/)
