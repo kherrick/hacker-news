@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-23](index.md)
 
+* [2023-07-23, 12:52:29](https://news.ycombinator.com/item?id=36834858) - [The Bear Market Has Nearly Been Erased, Fewer Than 20 Months After It Began](https://finance.yahoo.com/news/bear-market-nearly-erased-fewer-201732187.html)
+* [2023-07-23, 12:37:57](https://news.ycombinator.com/item?id=36834771) - [In Phoenix, this is life at 113 degrees for more than 20 days](https://english.elpais.com/international/2023-07-22/in-phoenix-45-million-residents-are-living-in-hell-this-is-life-at-113-degrees-for-more-than-20-days.html)
 * [2023-07-23, 12:22:05](https://news.ycombinator.com/item?id=36834675) - [Valgrind recieves a development microgrant from FUTO](https://fosstodon.org/@sourceware/110760408112704937)
 * [2023-07-23, 11:33:57](https://news.ycombinator.com/item?id=36834415) - [A man who won the lottery 14 times](https://thehustle.co/the-man-who-won-the-lottery-14-times/)
 * [2023-07-23, 10:07:11](https://news.ycombinator.com/item?id=36833951) - [Down and Out in the Magic Kingdom](https://www.gutenberg.org/files/8086/8086-h/8086-h.htm)
