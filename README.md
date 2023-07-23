@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-23, 21:38:27](https://news.ycombinator.com/item?id=36840127) - [In Which I Claim Rich Hickey Is Wrong (2020)](https://blog.jonstodle.com/in-which-i-claim-rich-hickey-is-wrong/)
 * [2023-07-23, 21:24:03](https://news.ycombinator.com/item?id=36839983) - [All Foster Kids in California Can Now Attend Any State College for Free](https://themessenger.com/news/all-foster-kids-in-california-can-now-attend-any-state-college-for-free)
 * [2023-07-23, 21:01:32](https://news.ycombinator.com/item?id=36839800) - [Never run ldd on unknown executables](https://catonmat.net/ldd-arbitrary-code-execution)
 * [2023-07-23, 19:43:45](https://news.ycombinator.com/item?id=36838994) - [PLJS – JavaScript Language Plugin for PostreSQL](https://github.com/plv8/pljs)
@@ -21,7 +22,6 @@
 * [2023-07-23, 12:30:30](https://news.ycombinator.com/item?id=36834732) - [Show HN: I made a customizable iOS browser for minimalists and myself](https://apps.apple.com/us/app/quiche-browser/id1668363952)
 * [2023-07-23, 10:07:11](https://news.ycombinator.com/item?id=36833951) - [Down and Out in the Magic Kingdom (2003)](https://www.gutenberg.org/files/8086/8086-h/8086-h.htm)
 * [2023-07-23, 07:51:33](https://news.ycombinator.com/item?id=36833393) - [What every IT person needs to know about OpenBSD (2021)](https://nxdomain.no/~peter/what_every_it_person_needs_to_know_about_openbsd.html)
-* [2023-07-23, 06:44:36](https://news.ycombinator.com/item?id=36833089) - [I found an IT job thanks to this blog](https://giuliomagnifico.blog/misc/2023/07/22/I-found-a-IT-job-thanks-to-this-blog.html)
 * [2023-07-23, 05:00:18](https://news.ycombinator.com/item?id=36832669) - [Showing Elizabeth I in a new light](https://blogs.bl.uk/digitisedmanuscripts/2023/07/showing-elizabeth-i-in-a-new-light.html)
 * [2023-07-23, 03:22:26](https://news.ycombinator.com/item?id=36832293) - [Fossil shows mammal sinking teeth into dinosaur](https://www.theguardian.com/science/2023/jul/18/mesozoic-fossil-dinosaur-mammal-fight)
 * [2023-07-22, 02:10:40](https://news.ycombinator.com/item?id=36822484) - [Research reveals the scale of disorder underpinning motor neuron disease](https://medicalxpress.com/news/2023-07-reveals-scale-disorder-underpinning-motor.html)
