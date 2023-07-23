@@ -15,6 +15,7 @@
 * [2023-07-23, 17:41:27](https://news.ycombinator.com/item?id=36837690) - [Why Host Datacenter in Kosovo?](https://basehost.eu/)
 * [2023-07-23, 17:26:27](https://news.ycombinator.com/item?id=36837512) - [Show HN: High school transcript generator for homeschoolers](https://www.greatbookshomeschool.com/free-high-school-transcript-generator)
 * [2023-07-23, 17:20:08](https://news.ycombinator.com/item?id=36837448) - [Want fewer car accidents? Remove traffic signals and road signs (2017)](https://bigthink.com/the-present/want-less-car-accidents-get-rid-of-traffic-signals-road-signs/)
+* [2023-07-23, 17:19:40](https://news.ycombinator.com/item?id=36837442) - [Icon Buddy – 100K+ Open Source SVG Icons, Fully Customizable](https://iconbuddy.app/)
 * [2023-07-23, 17:17:59](https://news.ycombinator.com/item?id=36837427) - [Working remotely should be the norm, not a privilege](https://www.remotebusinessjobs.com/normnotprivilege)
 * [2023-07-23, 17:14:10](https://news.ycombinator.com/item?id=36837391) - [Google Nest Mini Gutted and Rebuilt to Run Custom Agents](https://hackaday.com/2023/07/23/google-nest-mini-gutted-and-rebuilt-to-run-custom-agents/)
 * [2023-07-23, 17:03:23](https://news.ycombinator.com/item?id=36837273) - [Man Found Guilty of Child Porn, Because He Ran a Tor Exit Node](https://lowendbox.com/blog/man-found-guilty-of-child-porn-because-he-ran-a-tor-exit-node-the-story-of-william-weber/)
