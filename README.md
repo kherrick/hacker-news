@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-23, 21:57:30](https://news.ycombinator.com/item?id=36840282) - [Why Frames Tilt Forward (2015)](https://chcollins.com/100Billion/2015/02/why-frames-tilt-forward/)
 * [2023-07-23, 21:38:27](https://news.ycombinator.com/item?id=36840127) - [In Which I Claim Rich Hickey Is Wrong (2020)](https://blog.jonstodle.com/in-which-i-claim-rich-hickey-is-wrong/)
 * [2023-07-23, 21:24:03](https://news.ycombinator.com/item?id=36839983) - [All Foster Kids in California Can Now Attend Any State College for Free](https://themessenger.com/news/all-foster-kids-in-california-can-now-attend-any-state-college-for-free)
 * [2023-07-23, 21:01:32](https://news.ycombinator.com/item?id=36839800) - [Never run ldd on unknown executables](https://catonmat.net/ldd-arbitrary-code-execution)
@@ -10,7 +11,6 @@
 * [2023-07-23, 17:26:27](https://news.ycombinator.com/item?id=36837512) - [Show HN: High school transcript generator for homeschoolers](https://www.greatbookshomeschool.com/free-high-school-transcript-generator)
 * [2023-07-23, 17:19:40](https://news.ycombinator.com/item?id=36837442) - [Icon Buddy – 100K+ Open Source SVG Icons, Fully Customizable](https://iconbuddy.app/)
 * [2023-07-23, 17:03:23](https://news.ycombinator.com/item?id=36837273) - [Man found guilty of child porn because he ran a Tor exit node](https://lowendbox.com/blog/man-found-guilty-of-child-porn-because-he-ran-a-tor-exit-node-the-story-of-william-weber/)
-* [2023-07-23, 16:28:52](https://news.ycombinator.com/item?id=36836866) - [Hair dye and chemical straightener use and breast cancer risk (2019)](https://onlinelibrary.wiley.com/doi/full/10.1002/ijc.32738)
 * [2023-07-23, 16:15:26](https://news.ycombinator.com/item?id=36836729) - [SICP in JavaScript](https://sourceacademy.org/sicpjs/index)
 * [2023-07-23, 16:08:22](https://news.ycombinator.com/item?id=36836649) - [Government URLs that don't end in .gov](https://github.com/GSA/govt-urls)
 * [2023-07-23, 16:07:40](https://news.ycombinator.com/item?id=36836639) - [Why don't we get our drinking water by taking salt out seawater? (2008)](https://www.scientificamerican.com/article/why-dont-we-get-our-drinking-water-from-the-ocean/)

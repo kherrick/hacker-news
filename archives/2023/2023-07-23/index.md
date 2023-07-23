@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-23](index.md)
 
+* [2023-07-23, 21:57:30](https://news.ycombinator.com/item?id=36840282) - [Why Frames Tilt Forward (2015)](https://chcollins.com/100Billion/2015/02/why-frames-tilt-forward/)
 * [2023-07-23, 21:38:27](https://news.ycombinator.com/item?id=36840127) - [In Which I Claim Rich Hickey Is Wrong (2020)](https://blog.jonstodle.com/in-which-i-claim-rich-hickey-is-wrong/)
 * [2023-07-23, 21:24:03](https://news.ycombinator.com/item?id=36839983) - [All Foster Kids in California Can Now Attend Any State College for Free](https://themessenger.com/news/all-foster-kids-in-california-can-now-attend-any-state-college-for-free)
 * [2023-07-23, 21:01:32](https://news.ycombinator.com/item?id=36839800) - [Never run ldd on unknown executables](https://catonmat.net/ldd-arbitrary-code-execution)
