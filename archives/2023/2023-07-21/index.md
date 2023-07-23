@@ -36,6 +36,7 @@
 * [2023-07-21, 19:11:16](https://news.ycombinator.com/item?id=36818136) - [Study: Men Almost Never Sing Songwritten by Women](https://pudding.cool/2023/07/songwriters/)
 * [2023-07-21, 18:55:19](https://news.ycombinator.com/item?id=36817938) - [Why Did Meta Open-Source Llama 2?](https://matt-rickard.com/why-did-meta-open-source-llama)
 * [2023-07-21, 18:52:01](https://news.ycombinator.com/item?id=36817900) - [IMAX emulates PalmPilot software to power Oppenheimer’s 70 mm release](https://arstechnica.com/gadgets/2023/07/imax-emulates-palmpilot-software-to-power-oppenheimers-70-mm-release/)
+* [2023-07-21, 18:49:04](https://news.ycombinator.com/item?id=36817851) - [Stem Formulas](https://stemformulas.com/formulas/)
 * [2023-07-21, 18:48:38](https://news.ycombinator.com/item?id=36817844) - [Yale University vows to 'geolocate' most EJMR users [PART 2]](https://www.karlstack.com/p/yale-university-vows-to-geolocate-aa2)
 * [2023-07-21, 18:41:04](https://news.ycombinator.com/item?id=36817738) - [As AI porn generators get better, the stakes get higher](https://techcrunch.com/2023/07/21/as-ai-porn-generators-get-better-the-stakes-raise/)
 * [2023-07-21, 18:32:23](https://news.ycombinator.com/item?id=36817629) - [Stay or Leave: Manager Admitted I am on PIP because quota](https://www.teamblind.com/post/Stay-or-Leave-Manager-Admitted-I-am-on-PIP-because-quota-QVfiZ64y)
