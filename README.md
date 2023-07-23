@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-23, 19:19:37](https://news.ycombinator.com/item?id=36838712) - [Ask HN: Which distro do you use? (2023)](https://news.ycombinator.com/item?id=36838712)
+* [2023-07-23, 18:40:21](https://news.ycombinator.com/item?id=36838297) - [How, Mathematically, We’re Fucked: Exponential growth on a finite planet](https://indica.medium.com/how-mathematically-were-fucked-c5c2e5158898)
 * [2023-07-23, 18:13:54](https://news.ycombinator.com/item?id=36838051) - [Llama2.c: inference llama 2 in one file of pure C](https://github.com/karpathy/llama2.c)
 * [2023-07-23, 17:41:37](https://news.ycombinator.com/item?id=36837695) - [Queen guitarist and astrophysicist Brian May to release 3D atlas of asteroid](https://www.theguardian.com/science/2023/jul/23/queen-brian-may-3d-atlas-bennu-asteroid)
 * [2023-07-23, 17:41:27](https://news.ycombinator.com/item?id=36837690) - [Why Host Datacenter in Kosovo?](https://basehost.eu/)
