@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-23, 18:23:52](https://news.ycombinator.com/item?id=36838153) - [Why South Africa Is on the Brink of Chaos](https://www.bloomberg.com/news/features/2023-07-20/south-africa-s-private-sector-is-key-to-stopping-the-failed-state-cycle)
 * [2023-07-23, 18:13:54](https://news.ycombinator.com/item?id=36838051) - [Llama2.c: inference llama 2 in one file of pure C](https://github.com/karpathy/llama2.c)
 * [2023-07-23, 17:41:37](https://news.ycombinator.com/item?id=36837695) - [Queen guitarist and astrophysicist Brian May to release 3D atlas of asteroid](https://www.theguardian.com/science/2023/jul/23/queen-brian-may-3d-atlas-bennu-asteroid)
 * [2023-07-23, 17:41:27](https://news.ycombinator.com/item?id=36837690) - [Why Host Datacenter in Kosovo?](https://basehost.eu/)
@@ -9,7 +10,6 @@
 * [2023-07-23, 16:28:52](https://news.ycombinator.com/item?id=36836866) - [Hair dye and chemical straightener use and breast cancer risk (2019)](https://onlinelibrary.wiley.com/doi/full/10.1002/ijc.32738)
 * [2023-07-23, 16:15:26](https://news.ycombinator.com/item?id=36836729) - [SICP in JavaScript](https://sourceacademy.org/sicpjs/index)
 * [2023-07-23, 16:08:22](https://news.ycombinator.com/item?id=36836649) - [Government URLs that don't end in .gov](https://github.com/GSA/govt-urls)
-* [2023-07-23, 16:07:40](https://news.ycombinator.com/item?id=36836639) - [Why don't we get our drinking water by taking salt out seawater? (2008)](https://www.scientificamerican.com/article/why-dont-we-get-our-drinking-water-from-the-ocean/)
 * [2023-07-23, 16:03:31](https://news.ycombinator.com/item?id=36836596) - [Show HN: I made a MailChimp alternative that connects to your database](https://cc.dev)
 * [2023-07-23, 15:58:11](https://news.ycombinator.com/item?id=36836538) - [LeCun: Qualcomm working with Meta to run Llama-2 on mobile devices](https://twitter.com/ylecun/status/1683138295155372032)
 * [2023-07-23, 15:48:28](https://news.ycombinator.com/item?id=36836433) - [Interfaces all the way down](https://jjain.substack.com/p/interfaces-all-the-way-down)
