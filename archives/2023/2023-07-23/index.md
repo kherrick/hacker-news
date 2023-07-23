@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-23](index.md)
 
+* [2023-07-23, 12:22:05](https://news.ycombinator.com/item?id=36834675) - [Valgrind recieves a development microgrant from FUTO](https://fosstodon.org/@sourceware/110760408112704937)
+* [2023-07-23, 11:33:57](https://news.ycombinator.com/item?id=36834415) - [A man who won the lottery 14 times](https://thehustle.co/the-man-who-won-the-lottery-14-times/)
 * [2023-07-23, 10:07:11](https://news.ycombinator.com/item?id=36833951) - [Down and Out in the Magic Kingdom](https://www.gutenberg.org/files/8086/8086-h/8086-h.htm)
 * [2023-07-23, 10:01:23](https://news.ycombinator.com/item?id=36833915) - [Deutsche Bank's “dysfunctional” IT division](https://www.efinancialcareers.co.uk/news/2018/04/technology-at-deutsche-bank)
 * [2023-07-23, 09:42:39](https://news.ycombinator.com/item?id=36833836) - [With the 745-Mile Solid-State Battery, Toyota Just Became a Force to Reckon With](https://www.topspeed.com/toyota-745-mile-solid-state-battery/)
