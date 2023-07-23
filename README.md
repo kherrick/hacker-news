@@ -7,7 +7,7 @@
 * [2023-07-22, 22:48:37](https://news.ycombinator.com/item?id=36830697) - [Were small-brained early humans intelligent? Row erupts over scientists’ claim](https://www.theguardian.com/science/2023/jul/22/small-brained-early-humans-homo-naledi-cleverer-storm)
 * [2023-07-22, 22:18:54](https://news.ycombinator.com/item?id=36830513) - [Vimspector – the Vim debugger rules all](https://puremourning.github.io/vimspector-web/)
 * [2023-07-22, 22:15:38](https://news.ycombinator.com/item?id=36830492) - [STX – C++17 and C++ 20 error-handling and utility extensions](https://lamarrr.github.io/STX/)
-* [2023-07-22, 22:15:28](https://news.ycombinator.com/item?id=36830490) - [TokenFlow: Consistent Diffusion Features for Consistent Video Editing](https://diffusion-tokenflow.github.io/)
+* [2023-07-22, 22:15:28](https://news.ycombinator.com/item?id=36830490) - [TokenFlow: Consistent diffusion features for consistent video editing](https://diffusion-tokenflow.github.io/)
 * [2023-07-22, 21:18:23](https://news.ycombinator.com/item?id=36830062) - [How does iCloud work? Plus a new version of Cirrus](https://eclecticlight.co/2023/07/17/how-does-icloud-work-plus-a-new-version-of-cirrus/)
 * [2023-07-22, 20:57:00](https://news.ycombinator.com/item?id=36829850) - [Visiting Death](https://www.overcomingbias.com/p/visiting-death)
 * [2023-07-22, 20:39:54](https://news.ycombinator.com/item?id=36829672) - [Hops for beer flourish under solar panels](https://apnews.com/article/climate-beer-solar-panels-hops-germany-ee3d00a1877837eb85053335e3b68a00)
@@ -20,7 +20,6 @@
 * [2023-07-22, 14:56:48](https://news.ycombinator.com/item?id=36826755) - [Important Coding Habits](https://puppycoding.com/2023/07/22/healthy-coding-habits/)
 * [2023-07-22, 14:05:12](https://news.ycombinator.com/item?id=36826335) - [Time to bring back asylums?](https://www.wsj.com/articles/its-time-to-bring-back-the-asylum-ec01fb2)
 * [2023-07-22, 13:50:28](https://news.ycombinator.com/item?id=36826210) - [A brief history of computers](https://www.lesswrong.com/posts/vfRpzyGsikujm9ujj/a-brief-history-of-computers)
-* [2023-07-22, 11:32:35](https://news.ycombinator.com/item?id=36825353) - [Computational Chemistry Using PyTorch](https://github.com/Mariewelt/OpenChem)
 * [2023-07-22, 11:30:46](https://news.ycombinator.com/item?id=36825345) - [Embrace Complexity; Tighten Your Feedback Loops](https://ferd.ca/embrace-complexity-tighten-your-feedback-loops.html)
 * [2023-07-22, 10:43:38](https://news.ycombinator.com/item?id=36825119) - [Why did these algae grow like this in the pool?](https://physics.stackexchange.com/questions/772882/why-did-these-algae-grow-like-this-in-the-pool-are-these-curves-the-gravitation)
 * [2023-07-21, 19:42:19](https://news.ycombinator.com/item?id=36818602) - [BP: Formal Proofs, the Fine Print and Side Effects (2018) [pdf]](https://people.scs.carleton.ca/~paulv/papers/secdev2018.pdf)
@@ -30,6 +29,7 @@
 * [2023-07-21, 06:18:32](https://news.ycombinator.com/item?id=36810583) - [Silicon, Silica, Silicates and Silicone (1998) [pdf]](https://minds.wisconsin.edu/bitstream/handle/1793/11591/Silicon.pdf)
 * [2023-07-20, 09:21:26](https://news.ycombinator.com/item?id=36798380) - [Communal Bonfires](https://blog.erlend.sh/communal-bonfires)
 * [2023-07-20, 08:40:43](https://news.ycombinator.com/item?id=36798162) - [Retro-Porting to OS/2 1.0](http://www.os2museum.com/wp/retro-porting-to-os-2-1-0/)
+* [2023-07-19, 21:44:19](https://news.ycombinator.com/item?id=36793897) - [The Norfolk Medieval Graffiti Survey](http://www.medieval-graffiti.co.uk/index.html)
 
 ## [Archives](archives/index.md)
 
