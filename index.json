@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-07-22, 23:37:35",
+      "https://news.ycombinator.com/item?id=36831067"
+    ],
+    [
+      "CoQ4 is a functional substitute for CoQ10 and can be targeted to mitochondria",
+      "https://www.biorxiv.org/content/10.1101/2023.07.20.549963v2"
+    ]
+  ],
+  [
+    [
       "2023-07-22, 23:11:40",
       "https://news.ycombinator.com/item?id=36830860"
     ],
     [
       "AOL pulls Nullsoft file-sharing software WASTE (2003)",
       "https://web.archive.org/web/20030810194502/http://news.com.com/2100-1032_3-1011585.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-22, 23:04:00",
+      "https://news.ycombinator.com/item?id=36830813"
+    ],
+    [
+      "Why SQLite Does Not Use Git",
+      "https://www.sqlite.org/draft/matrix/whynotgit.html"
     ]
   ],
   [
@@ -115,7 +135,7 @@
       "https://news.ycombinator.com/item?id=36828861"
     ],
     [
-      "Why America’s Largest Tool Company Couldn’t Make a Wrench in America",
+      "America’s largest tool company couldn’t make a wrench in America",
       "https://www.wsj.com/articles/craftsman-america-wrench-stanley-black-decker-reshoring-factory-1125792f"
     ]
   ],
@@ -127,16 +147,6 @@
     [
       "A Caltech Nobel laureate celebrates his 100th birthday, then gets back to work",
       "https://www.latimes.com/science/story/2023-07-21/caltech-nobel-laureate-rudy-marcus-turns-100-and-gets-back-to-work"
-    ]
-  ],
-  [
-    [
-      "2023-07-22, 18:17:29",
-      "https://news.ycombinator.com/item?id=36828409"
-    ],
-    [
-      "Shopify employee breaks NDA to reveal firm replacing laid off workers with AI",
-      "https://thedeepdive.ca/shopify-employee-breaks-nda-to-reveal-firm-quietly-replacing-laid-off-workers-with-ai/"
     ]
   ],
   [
@@ -261,6 +271,16 @@
   ],
   [
     [
+      "2023-07-21, 06:18:32",
+      "https://news.ycombinator.com/item?id=36810583"
+    ],
+    [
+      "Silicon, Silica, Silicates and Silicone (1998) [pdf]",
+      "https://minds.wisconsin.edu/bitstream/handle/1793/11591/Silicon.pdf"
+    ]
+  ],
+  [
+    [
       "2023-07-20, 09:21:26",
       "https://news.ycombinator.com/item?id=36798380"
     ],
@@ -277,26 +297,6 @@
     [
       "Retro-Porting to OS/2 1.0",
       "http://www.os2museum.com/wp/retro-porting-to-os-2-1-0/"
-    ]
-  ],
-  [
-    [
-      "2023-07-20, 08:37:07",
-      "https://news.ycombinator.com/item?id=36798137"
-    ],
-    [
-      "On constructing 2-3 trees (2018) [pdf]",
-      "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/129759AE03543B461536F78B386D93B5/S0956796818000187a.pdf/on-constructing-2-3-trees.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-07-20, 07:08:01",
-      "https://news.ycombinator.com/item?id=36797650"
-    ],
-    [
-      "MSX-DOS",
-      "https://en.wikipedia.org/wiki/MSX-DOS"
     ]
   ]
 ]
