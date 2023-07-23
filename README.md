@@ -2,7 +2,6 @@
 
 * [2023-07-23, 10:07:11](https://news.ycombinator.com/item?id=36833951) - [Down and Out in the Magic Kingdom](https://www.gutenberg.org/files/8086/8086-h/8086-h.htm)
 * [2023-07-23, 10:01:23](https://news.ycombinator.com/item?id=36833915) - [Deutsche Bank's “dysfunctional” IT division (2018)](https://www.efinancialcareers.co.uk/news/2018/04/technology-at-deutsche-bank)
-* [2023-07-23, 09:42:39](https://news.ycombinator.com/item?id=36833836) - [With the 745-Mile Solid-State Battery, Toyota Just Became a Force to Reckon With](https://www.topspeed.com/toyota-745-mile-solid-state-battery/)
 * [2023-07-23, 08:00:09](https://news.ycombinator.com/item?id=36833431) - [50 Years of Text Games parses the rich history of a foundational genre](https://arstechnica.com/gaming/2023/06/50-years-of-text-games-parses-the-rich-history-of-a-foundational-genre/)
 * [2023-07-23, 07:51:33](https://news.ycombinator.com/item?id=36833393) - [What every IT person needs to know about OpenBSD](https://nxdomain.no/~peter/what_every_it_person_needs_to_know_about_openbsd.html)
 * [2023-07-23, 07:21:01](https://news.ycombinator.com/item?id=36833252) - [South Pole Signage](https://brr.fyi/posts/south-pole-signage)
@@ -19,6 +18,7 @@
 * [2023-07-22, 22:15:28](https://news.ycombinator.com/item?id=36830490) - [TokenFlow: Consistent diffusion features for consistent video editing](https://diffusion-tokenflow.github.io/)
 * [2023-07-22, 21:18:23](https://news.ycombinator.com/item?id=36830062) - [How does iCloud work? Plus a new version of Cirrus](https://eclecticlight.co/2023/07/17/how-does-icloud-work-plus-a-new-version-of-cirrus/)
 * [2023-07-22, 20:07:35](https://news.ycombinator.com/item?id=36829374) - [Egregoria: 3D City Builder without a grid](https://github.com/Uriopass/Egregoria)
+* [2023-07-22, 19:06:32](https://news.ycombinator.com/item?id=36828861) - [America’s largest tool company couldn’t make a wrench in America](https://www.wsj.com/articles/craftsman-america-wrench-stanley-black-decker-reshoring-factory-1125792f)
 * [2023-07-22, 19:00:16](https://news.ycombinator.com/item?id=36828811) - [A Caltech Nobel laureate celebrates his 100th birthday, then gets back to work](https://www.latimes.com/science/story/2023-07-21/caltech-nobel-laureate-rudy-marcus-turns-100-and-gets-back-to-work)
 * [2023-07-22, 07:28:08](https://news.ycombinator.com/item?id=36824165) - [Client-side proxies – a better way to individualise the Internet? (2000)](https://people.dsv.su.se/~jpalme/select/csp/thesis.html)
 * [2023-07-21, 19:28:47](https://news.ycombinator.com/item?id=36818387) - [The Nature of Glass: Technologies of Transparency, Materials on the Move](https://www.journals.uchicago.edu/doi/10.1086/724806)
