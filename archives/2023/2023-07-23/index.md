@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-23](index.md)
 
+* [2023-07-23, 15:23:11](https://news.ycombinator.com/item?id=36836189) - [Ask HN: Why do web sites not place the cursor for input?](https://news.ycombinator.com/item?id=36836189)
 * [2023-07-23, 14:57:25](https://news.ycombinator.com/item?id=36835933) - [Don't Learn Value from Society](https://www.palladiummag.com/2023/07/13/dont-learn-your-values-from-society/)
+* [2023-07-23, 14:38:22](https://news.ycombinator.com/item?id=36835735) - [What Happened the Night an Audience Member Filled in for Keith Moon (2016)](https://www.loudersound.com/features/what-happened-the-night-an-audience-member-filled-in-for-keith-moon)
 * [2023-07-23, 14:24:48](https://news.ycombinator.com/item?id=36835571) - [‘Training My Replacement’: Inside a Call Center Worker’s Battle with A.I](https://www.nytimes.com/2023/07/19/business/call-center-workers-battle-with-ai.html)
 * [2023-07-23, 14:23:52](https://news.ycombinator.com/item?id=36835566) - [The Great 440 Hz Conspiracy, and Why All of Our Music Is Wrong](https://globalnews.ca/news/4194106/440-hz-conspiracy-music/)
 * [2023-07-23, 13:52:21](https://news.ycombinator.com/item?id=36835293) - [MOVEit body count closes in on 400 orgs, 20M+ individuals](https://www.theregister.com/2023/07/20/moveit_victim_count/)
