@@ -13,6 +13,7 @@
 * [2023-07-22, 22:15:28](https://news.ycombinator.com/item?id=36830490) - [TokenFlow: Consistent diffusion features for consistent video editing](https://diffusion-tokenflow.github.io/)
 * [2023-07-22, 21:26:32](https://news.ycombinator.com/item?id=36830126) - [Rooting the Amazon Echo Dot](https://dragon863.github.io/blog/echoroot.html)
 * [2023-07-22, 21:18:23](https://news.ycombinator.com/item?id=36830062) - [How does iCloud work? Plus a new version of Cirrus](https://eclecticlight.co/2023/07/17/how-does-icloud-work-plus-a-new-version-of-cirrus/)
+* [2023-07-22, 20:57:00](https://news.ycombinator.com/item?id=36829850) - [Visiting Death](https://www.overcomingbias.com/p/visiting-death)
 * [2023-07-22, 20:07:35](https://news.ycombinator.com/item?id=36829374) - [Egregoria: 3D City Builder without a grid](https://github.com/Uriopass/Egregoria)
 * [2023-07-22, 19:15:26](https://news.ycombinator.com/item?id=36828927) - [Making the most of Apple Silicon power: 2 Core capabilities (2022)](https://eclecticlight.co/2022/10/05/making-the-most-of-apple-silicon-power-2-core-capabilities/)
 * [2023-07-22, 19:06:32](https://news.ycombinator.com/item?id=36828861) - [America’s largest tool company couldn’t make a wrench in America](https://www.wsj.com/articles/craftsman-america-wrench-stanley-black-decker-reshoring-factory-1125792f)
@@ -28,7 +29,6 @@
 * [2023-07-21, 08:11:28](https://news.ycombinator.com/item?id=36811316) - [How to Make Cheese at Home](https://www.themanual.com/food-and-drink/how-to-make-cheese/)
 * [2023-07-21, 08:01:02](https://news.ycombinator.com/item?id=36811240) - [TV Typewriter Remembered](https://hackaday.com/2023/07/20/tv-typewriter-remembered/)
 * [2023-07-21, 06:18:32](https://news.ycombinator.com/item?id=36810583) - [Silicon, Silica, Silicates and Silicone (1998) [pdf]](https://minds.wisconsin.edu/bitstream/handle/1793/11591/Silicon.pdf)
-* [2023-07-20, 09:21:26](https://news.ycombinator.com/item?id=36798380) - [Communal Bonfires](https://blog.erlend.sh/communal-bonfires)
 * [2023-07-20, 08:40:43](https://news.ycombinator.com/item?id=36798162) - [Retro-Porting to OS/2 1.0](http://www.os2museum.com/wp/retro-porting-to-os-2-1-0/)
 
 ## [Archives](archives/index.md)
