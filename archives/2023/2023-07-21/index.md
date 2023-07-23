@@ -94,6 +94,7 @@
 * [2023-07-21, 09:04:41](https://news.ycombinator.com/item?id=36811646) - [Moving AI governance forward – openai.com](https://openai.com/blog/moving-ai-governance-forward)
 * [2023-07-21, 08:51:02](https://news.ycombinator.com/item?id=36811569) - [The Standard Model](https://inference-review.com/article/the-standard-model)
 * [2023-07-21, 08:48:48](https://news.ycombinator.com/item?id=36811554) - [I have written a JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/)
+* [2023-07-21, 08:35:18](https://news.ycombinator.com/item?id=36811460) - [Medieval Table Manners: The Messiest Myth?](https://www.medievalists.net/2023/06/medieval-table-manners/)
 * [2023-07-21, 08:11:28](https://news.ycombinator.com/item?id=36811316) - [How to Make Cheese at Home](https://www.themanual.com/food-and-drink/how-to-make-cheese/)
 * [2023-07-21, 08:01:02](https://news.ycombinator.com/item?id=36811240) - [TV Typewriter Remembered](https://hackaday.com/2023/07/20/tv-typewriter-remembered/)
 * [2023-07-21, 07:30:16](https://news.ycombinator.com/item?id=36811026) - [Ask HN: What are some low cost payment processing alternatives to Stripe?](https://news.ycombinator.com/item?id=36811026)
