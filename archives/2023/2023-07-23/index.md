@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-23](index.md)
 
+* [2023-07-23, 08:00:09](https://news.ycombinator.com/item?id=36833431) - [50 Years of Text Games parses the rich history of a foundational genre](https://arstechnica.com/gaming/2023/06/50-years-of-text-games-parses-the-rich-history-of-a-foundational-genre/)
 * [2023-07-23, 07:48:57](https://news.ycombinator.com/item?id=36833384) - [Show HN: Scaffolder, CLI tool to generate project structure, taken from YAML](https://github.com/cemister/scaffolder)
 * [2023-07-23, 07:21:01](https://news.ycombinator.com/item?id=36833252) - [South Pole Signage](https://brr.fyi/posts/south-pole-signage)
 * [2023-07-23, 07:13:36](https://news.ycombinator.com/item?id=36833208) - [A History of Neural Networks](https://royalsocietypublishing.org/doi/10.1098/rsos.221454)
