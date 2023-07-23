@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-23](index.md)
 
 * [2023-07-23, 16:15:26](https://news.ycombinator.com/item?id=36836729) - [MIT SICP Book in JavaScript](https://sourceacademy.org/sicpjs/)
+* [2023-07-23, 16:14:44](https://news.ycombinator.com/item?id=36836722) - [Time is running out on the Climate Clock](https://www.theverge.com/2023/7/22/23803197/climate-change-clock-deadline-new-york)
 * [2023-07-23, 16:08:22](https://news.ycombinator.com/item?id=36836649) - [Government URLs that don't end in .gov](https://github.com/GSA/govt-urls)
 * [2023-07-23, 16:03:31](https://news.ycombinator.com/item?id=36836596) - [Show HN: I made a MailChimp alternative that connects to your database](https://cc.dev)
 * [2023-07-23, 15:58:11](https://news.ycombinator.com/item?id=36836538) - [LeCun: Qualcomm working with Meta to run Llama-2 on mobile devices](https://twitter.com/ylecun/status/1683138295155372032)

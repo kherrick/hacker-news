@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-23, 16:15:26](https://news.ycombinator.com/item?id=36836729) - [MIT SICP Book in JavaScript](https://sourceacademy.org/sicpjs/)
+* [2023-07-23, 16:14:44](https://news.ycombinator.com/item?id=36836722) - [Time is running out on the Climate Clock](https://www.theverge.com/2023/7/22/23803197/climate-change-clock-deadline-new-york)
 * [2023-07-23, 16:08:22](https://news.ycombinator.com/item?id=36836649) - [Government URLs that don't end in .gov](https://github.com/GSA/govt-urls)
 * [2023-07-23, 16:03:31](https://news.ycombinator.com/item?id=36836596) - [Show HN: I made a MailChimp alternative that connects to your database](https://cc.dev)
 * [2023-07-23, 15:58:11](https://news.ycombinator.com/item?id=36836538) - [LeCun: Qualcomm working with Meta to run Llama-2 on mobile devices](https://twitter.com/ylecun/status/1683138295155372032)
@@ -11,7 +12,6 @@
 * [2023-07-23, 15:29:35](https://news.ycombinator.com/item?id=36836258) - [Elixir for Ruby developers: the three most important differences](https://phoenixonrails.com/blog/elixir-for-ruby-developers-the-three-most-important-differences)
 * [2023-07-23, 15:23:11](https://news.ycombinator.com/item?id=36836189) - [Ask HN: Why do web sites not place the cursor for input?](https://news.ycombinator.com/item?id=36836189)
 * [2023-07-23, 15:05:39](https://news.ycombinator.com/item?id=36836020) - [Debian vs. Yocto for Embedded Systems](https://www.bytesnap.com/news-blog/debian-vs-yocto-for-embedded-systems/)
-* [2023-07-23, 14:57:25](https://news.ycombinator.com/item?id=36835933) - [Don't Learn Value from Society](https://www.palladiummag.com/2023/07/13/dont-learn-your-values-from-society/)
 * [2023-07-23, 14:38:22](https://news.ycombinator.com/item?id=36835735) - [What Happened the Night an Audience Member Filled in for Keith Moon (2016)](https://www.loudersound.com/features/what-happened-the-night-an-audience-member-filled-in-for-keith-moon)
 * [2023-07-23, 14:22:14](https://news.ycombinator.com/item?id=36835550) - [Queryability and the Sublime Mediocrity of SQL](https://buttondown.email/hillelwayne/archive/queryability-and-the-sublime-mediocrity-of-sql/)
 * [2023-07-23, 14:04:53](https://news.ycombinator.com/item?id=36835412) - [Mixing Swift and C++](https://www.swift.org/documentation/cxx-interop/)
@@ -29,7 +29,7 @@
 * [2023-07-21, 22:30:49](https://news.ycombinator.com/item?id=36820835) - [Electrolytic capacitors: overview, teardown and experiments [video]](https://www.youtube.com/watch?v=MAP-VA1m-A4)
 * [2023-07-21, 18:49:04](https://news.ycombinator.com/item?id=36817851) - [Stem Formulas](https://stemformulas.com/formulas/)
 * [2023-07-21, 08:35:18](https://news.ycombinator.com/item?id=36811460) - [Medieval Table Manners: The Messiest Myth?](https://www.medievalists.net/2023/06/medieval-table-manners/)
-* [2023-07-21, 08:11:28](https://news.ycombinator.com/item?id=36811316) - [How to make cheese at home](https://www.themanual.com/food-and-drink/how-to-make-cheese/)
+* [2023-07-21, 07:17:51](https://news.ycombinator.com/item?id=36810937) - [The Tallest Atrium (2019)](https://www.world-architects.com/en/architecture-news/found/inside-the-worlds-tallest-atrium)
 
 ## [Archives](archives/index.md)
 
