@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-23, 07:48:57](https://news.ycombinator.com/item?id=36833384) - [Show HN: Scaffolder, CLI tool to generate project structure, taken from YAML](https://github.com/cemister/scaffolder)
 * [2023-07-23, 07:21:01](https://news.ycombinator.com/item?id=36833252) - [South Pole Signage](https://brr.fyi/posts/south-pole-signage)
 * [2023-07-23, 07:13:36](https://news.ycombinator.com/item?id=36833208) - [A History of Neural Networks](https://royalsocietypublishing.org/doi/10.1098/rsos.221454)
 * [2023-07-23, 03:58:43](https://news.ycombinator.com/item?id=36832433) - [EasyGraph: A Comprehensive Tool for Graph Analysis and Social Computing](https://github.com/easy-graph/Easy-Graph)
@@ -14,7 +15,6 @@
 * [2023-07-22, 22:18:54](https://news.ycombinator.com/item?id=36830513) - [Vimspector – the Vim debugger rules all](https://puremourning.github.io/vimspector-web/)
 * [2023-07-22, 22:15:38](https://news.ycombinator.com/item?id=36830492) - [STX – C++17 and C++ 20 error-handling and utility extensions](https://lamarrr.github.io/STX/)
 * [2023-07-22, 22:15:28](https://news.ycombinator.com/item?id=36830490) - [TokenFlow: Consistent diffusion features for consistent video editing](https://diffusion-tokenflow.github.io/)
-* [2023-07-22, 21:26:32](https://news.ycombinator.com/item?id=36830126) - [Rooting the Amazon Echo Dot](https://dragon863.github.io/blog/echoroot.html)
 * [2023-07-22, 21:18:23](https://news.ycombinator.com/item?id=36830062) - [How does iCloud work? Plus a new version of Cirrus](https://eclecticlight.co/2023/07/17/how-does-icloud-work-plus-a-new-version-of-cirrus/)
 * [2023-07-22, 20:07:35](https://news.ycombinator.com/item?id=36829374) - [Egregoria: 3D City Builder without a grid](https://github.com/Uriopass/Egregoria)
 * [2023-07-22, 19:15:26](https://news.ycombinator.com/item?id=36828927) - [Making the most of Apple Silicon power: 2 Core capabilities (2022)](https://eclecticlight.co/2022/10/05/making-the-most-of-apple-silicon-power-2-core-capabilities/)
@@ -23,7 +23,7 @@
 * [2023-07-22, 18:02:19](https://news.ycombinator.com/item?id=36828288) - [Databag – tiny self-hosted federated messenger for the decentralized web](https://github.com/balzack/databag)
 * [2023-07-22, 07:28:08](https://news.ycombinator.com/item?id=36824165) - [Client-side proxies – a better way to individualise the Internet? (2000)](https://people.dsv.su.se/~jpalme/select/csp/thesis.html)
 * [2023-07-22, 06:57:11](https://news.ycombinator.com/item?id=36823992) - [IdentiFIVE](https://identifive.com)
-* [2023-07-21, 09:39:09](https://news.ycombinator.com/item?id=36811861) - [How we see ourselves and how we see others (2008) [pdf]](http://courses.washington.edu/pbafhall/514/514%20Readings/2008%20Self%20and%20Other%20Pronin.pdf)
+* [2023-07-21, 19:28:47](https://news.ycombinator.com/item?id=36818387) - [The Nature of Glass: Technologies of Transparency, Materials on the Move](https://www.journals.uchicago.edu/doi/10.1086/724806)
 * [2023-07-21, 08:51:02](https://news.ycombinator.com/item?id=36811569) - [The Standard Model](https://inference-review.com/article/the-standard-model)
 * [2023-07-21, 08:11:28](https://news.ycombinator.com/item?id=36811316) - [How to make cheese at home](https://www.themanual.com/food-and-drink/how-to-make-cheese/)
 * [2023-07-21, 08:01:02](https://news.ycombinator.com/item?id=36811240) - [TV Typewriter Remembered](https://hackaday.com/2023/07/20/tv-typewriter-remembered/)
