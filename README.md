@@ -17,7 +17,6 @@
 * [2023-07-22, 23:04:00](https://news.ycombinator.com/item?id=36830813) - [Why SQLite does not use Git (2018)](https://www.sqlite.org/draft/matrix/whynotgit.html)
 * [2023-07-22, 22:48:37](https://news.ycombinator.com/item?id=36830697) - [Were small-brained early humans intelligent? Row erupts over scientists’ claim](https://www.theguardian.com/science/2023/jul/22/small-brained-early-humans-homo-naledi-cleverer-storm)
 * [2023-07-22, 22:18:54](https://news.ycombinator.com/item?id=36830513) - [Vimspector – the Vim debugger rules all](https://puremourning.github.io/vimspector-web/)
-* [2023-07-22, 22:15:38](https://news.ycombinator.com/item?id=36830492) - [STX – C++17 and C++ 20 error-handling and utility extensions](https://lamarrr.github.io/STX/)
 * [2023-07-22, 22:15:28](https://news.ycombinator.com/item?id=36830490) - [TokenFlow: Consistent diffusion features for consistent video editing](https://diffusion-tokenflow.github.io/)
 * [2023-07-22, 20:07:35](https://news.ycombinator.com/item?id=36829374) - [Egregoria: 3D City Builder without a grid](https://github.com/Uriopass/Egregoria)
 * [2023-07-22, 19:00:16](https://news.ycombinator.com/item?id=36828811) - [A Caltech Nobel laureate celebrates his 100th birthday, then gets back to work](https://www.latimes.com/science/story/2023-07-21/caltech-nobel-laureate-rudy-marcus-turns-100-and-gets-back-to-work)
@@ -29,6 +28,7 @@
 * [2023-07-21, 08:11:28](https://news.ycombinator.com/item?id=36811316) - [How to make cheese at home](https://www.themanual.com/food-and-drink/how-to-make-cheese/)
 * [2023-07-21, 08:01:02](https://news.ycombinator.com/item?id=36811240) - [TV Typewriter Remembered](https://hackaday.com/2023/07/20/tv-typewriter-remembered/)
 * [2023-07-21, 07:17:51](https://news.ycombinator.com/item?id=36810937) - [The Tallest Atrium (2019)](https://www.world-architects.com/en/architecture-news/found/inside-the-worlds-tallest-atrium)
+* [2023-07-21, 03:20:31](https://news.ycombinator.com/item?id=36809624) - [Typesetting Rare Chinese Characters in LATEX (2003) [pdf]](https://www.tug.org/TUGboat/tb24-3/wong.pdf)
 * [2023-07-20, 21:26:15](https://news.ycombinator.com/item?id=36806970) - [GradIEEEnt half decent: The hidden power of imprecise lines [video]](https://www.youtube.com/watch?v=Ae9EKCyI1xU)
 
 ## [Archives](archives/index.md)
