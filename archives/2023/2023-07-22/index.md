@@ -39,6 +39,7 @@
 * [2023-07-22, 14:47:25](https://news.ycombinator.com/item?id=36826664) - [Scientists: Fishing boats compete with whales and penguins for Antarctic krill](https://news.mongabay.com/2023/07/scientists-fishing-boats-compete-with-whales-and-penguins-for-antarctic-krill/)
 * [2023-07-22, 14:18:47](https://news.ycombinator.com/item?id=36826446) - [Computational Complexity of Texture Encoding](https://fgiesen.wordpress.com/2023/07/21/computational-complexity-of-texture-encoding/)
 * [2023-07-22, 14:17:22](https://news.ycombinator.com/item?id=36826438) - [Malicious libraries can steal all your application secrets in Elixir](https://www.peterullrich.com/how-malicious-libraries-can-steal-all-your-application-secrets)
+* [2023-07-22, 14:16:53](https://news.ycombinator.com/item?id=36826436) - [Golden Hour: Regilding the Dome at University of Notre Dame](https://www.nd.edu/stories/golden-hour/)
 * [2023-07-22, 14:05:12](https://news.ycombinator.com/item?id=36826335) - [Time to bring back asylums?](https://www.wsj.com/articles/its-time-to-bring-back-the-asylum-ec01fb2)
 * [2023-07-22, 13:50:28](https://news.ycombinator.com/item?id=36826210) - [A Brief History of Computers](https://www.lesswrong.com/posts/vfRpzyGsikujm9ujj/a-brief-history-of-computers)
 * [2023-07-22, 13:46:08](https://news.ycombinator.com/item?id=36826177) - [Botulinum toxin: Bioweapon and magic drug](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3028942/)

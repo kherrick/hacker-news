@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-23](index.md)
 
+* [2023-07-23, 14:24:48](https://news.ycombinator.com/item?id=36835571) - [‘Training My Replacement’: Inside a Call Center Worker’s Battle with A.I](https://www.nytimes.com/2023/07/19/business/call-center-workers-battle-with-ai.html)
+* [2023-07-23, 13:52:21](https://news.ycombinator.com/item?id=36835293) - [MOVEit body count closes in on 400 orgs, 20M+ individuals](https://www.theregister.com/2023/07/20/moveit_victim_count/)
 * [2023-07-23, 13:46:39](https://news.ycombinator.com/item?id=36835246) - [Remote Work to Wipe Out $800B from Office Values, McKinsey Says](https://www.bnnbloomberg.ca/remote-work-to-wipe-out-800-billion-from-office-values-mckinsey-says-1.1944967)
 * [2023-07-23, 13:26:31](https://news.ycombinator.com/item?id=36835096) - [Why Businesses Can’t Stop Asking for Tips](https://www.wsj.com/articles/tipping-businesses-cant-stop-asking-cc1aca6c)
 * [2023-07-23, 12:52:29](https://news.ycombinator.com/item?id=36834858) - [The Bear Market Has Nearly Been Erased, Fewer Than 20 Months After It Began](https://finance.yahoo.com/news/bear-market-nearly-erased-fewer-201732187.html)
