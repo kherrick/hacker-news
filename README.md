@@ -18,7 +18,6 @@
 * [2023-07-23, 15:29:35](https://news.ycombinator.com/item?id=36836258) - [Elixir for Ruby developers: the three most important differences](https://phoenixonrails.com/blog/elixir-for-ruby-developers-the-three-most-important-differences)
 * [2023-07-23, 14:38:22](https://news.ycombinator.com/item?id=36835735) - [The night an audience member filled in for Keith Moon (2016)](https://www.loudersound.com/features/what-happened-the-night-an-audience-member-filled-in-for-keith-moon)
 * [2023-07-23, 14:24:48](https://news.ycombinator.com/item?id=36835571) - [A call center worker’s battle with A.I.](https://www.nytimes.com/2023/07/19/business/call-center-workers-battle-with-ai.html)
-* [2023-07-23, 14:04:53](https://news.ycombinator.com/item?id=36835412) - [Mixing Swift and C++](https://www.swift.org/documentation/cxx-interop/)
 * [2023-07-23, 12:30:30](https://news.ycombinator.com/item?id=36834732) - [Show HN: I made a customizable iOS browser for minimalists and myself](https://apps.apple.com/us/app/quiche-browser/id1668363952)
 * [2023-07-23, 10:07:11](https://news.ycombinator.com/item?id=36833951) - [Down and Out in the Magic Kingdom (2003)](https://www.gutenberg.org/files/8086/8086-h/8086-h.htm)
 * [2023-07-23, 09:42:39](https://news.ycombinator.com/item?id=36833836) - [Toyota has been developing a solid-state battery for EVs with a range of 745mi](https://www.topspeed.com/toyota-745-mile-solid-state-battery/)
@@ -28,6 +27,7 @@
 * [2023-07-22, 02:10:40](https://news.ycombinator.com/item?id=36822484) - [Research reveals the scale of disorder underpinning motor neuron disease](https://medicalxpress.com/news/2023-07-reveals-scale-disorder-underpinning-motor.html)
 * [2023-07-22, 00:36:29](https://news.ycombinator.com/item?id=36821951) - [Advice for Operating a Public-Facing API](https://jcs.org/2023/07/12/api)
 * [2023-07-21, 22:58:59](https://news.ycombinator.com/item?id=36821123) - [Stone Walls and Historical Harbors Are Unexpected Havens of Biodiversity](https://hakaimagazine.com/news/stone-walls-and-historical-harbors-are-unexpected-havens-of-biodiversity/)
+* [2023-07-21, 22:30:49](https://news.ycombinator.com/item?id=36820835) - [Electrolytic capacitors: overview, teardown and experiments [video]](https://www.youtube.com/watch?v=MAP-VA1m-A4)
 * [2023-07-21, 22:04:57](https://news.ycombinator.com/item?id=36820544) - [High-Performance server for NATS.io, the cloud and edge native messaging system](https://github.com/nats-io/nats-server)
 * [2023-07-21, 18:49:04](https://news.ycombinator.com/item?id=36817851) - [Stem Formulas](https://stemformulas.com/formulas/)
 
