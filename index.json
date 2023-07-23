@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-07-23, 18:13:54",
+      "https://news.ycombinator.com/item?id=36838051"
+    ],
+    [
+      "Llama2.c: inference llama 2 in one file of pure C",
+      "https://github.com/karpathy/llama2.c"
+    ]
+  ],
+  [
+    [
       "2023-07-23, 17:41:37",
       "https://news.ycombinator.com/item?id=36837695"
     ],
     [
       "Queen guitarist and astrophysicist Brian May to release 3D atlas of asteroid",
       "https://www.theguardian.com/science/2023/jul/23/queen-brian-may-3d-atlas-bennu-asteroid"
+    ]
+  ],
+  [
+    [
+      "2023-07-23, 17:41:27",
+      "https://news.ycombinator.com/item?id=36837690"
+    ],
+    [
+      "Why Host Datacenter in Kosovo?",
+      "https://basehost.eu/"
+    ]
+  ],
+  [
+    [
+      "2023-07-23, 17:17:59",
+      "https://news.ycombinator.com/item?id=36837427"
+    ],
+    [
+      "Working remotely should be the norm, not a privilege",
+      "https://www.remotebusinessjobs.com/normnotprivilege"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2023-07-23, 15:05:39",
-      "https://news.ycombinator.com/item?id=36836020"
-    ],
-    [
-      "Debian vs. Yocto for Embedded Systems",
-      "https://www.bytesnap.com/news-blog/debian-vs-yocto-for-embedded-systems/"
-    ]
-  ],
-  [
-    [
       "2023-07-23, 14:38:22",
       "https://news.ycombinator.com/item?id=36835735"
     ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2023-07-23, 13:52:21",
-      "https://news.ycombinator.com/item?id=36835293"
-    ],
-    [
-      "MOVEit body count closes in on 400 orgs, 20M+ individuals",
-      "https://www.theregister.com/2023/07/20/moveit_victim_count/"
-    ]
-  ],
-  [
-    [
       "2023-07-23, 12:30:30",
       "https://news.ycombinator.com/item?id=36834732"
     ],
     [
       "Show HN: I made a customizable iOS browser for minimalists and myself",
       "https://apps.apple.com/us/app/quiche-browser/id1668363952"
-    ]
-  ],
-  [
-    [
-      "2023-07-23, 12:25:42",
-      "https://news.ycombinator.com/item?id=36834701"
-    ],
-    [
-      "riscv64 is now an official Debian architecture (rebootstrap in progress)",
-      "https://lists.debian.org/debian-riscv/2023/07/msg00053.html"
     ]
   ],
   [
