@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-23, 20:09:20](https://news.ycombinator.com/item?id=36839284) - [Modeling Bitcoin Value with Vibes. This model has an R² of 0.97](https://allenfarrington.medium.com/modeling-bitcoin-value-with-vibes-99eca0997c5f)
 * [2023-07-23, 19:43:45](https://news.ycombinator.com/item?id=36838994) - [PLJS – JavaScript Language Plugin for PostreSQL](https://github.com/plv8/pljs)
 * [2023-07-23, 18:59:27](https://news.ycombinator.com/item?id=36838511) - [OpenBSD: AMD processor microcode support added to -current](https://undeadly.org/cgi?action=article;sid=20230723185853)
 * [2023-07-23, 18:13:54](https://news.ycombinator.com/item?id=36838051) - [Llama2.c: inference llama 2 in one file of pure C](https://github.com/karpathy/llama2.c)
@@ -27,7 +28,6 @@
 * [2023-07-22, 02:10:40](https://news.ycombinator.com/item?id=36822484) - [Research reveals the scale of disorder underpinning motor neuron disease](https://medicalxpress.com/news/2023-07-reveals-scale-disorder-underpinning-motor.html)
 * [2023-07-22, 00:36:29](https://news.ycombinator.com/item?id=36821951) - [Advice for Operating a Public-Facing API](https://jcs.org/2023/07/12/api)
 * [2023-07-21, 22:58:59](https://news.ycombinator.com/item?id=36821123) - [Stone Walls and Historical Harbors Are Unexpected Havens of Biodiversity](https://hakaimagazine.com/news/stone-walls-and-historical-harbors-are-unexpected-havens-of-biodiversity/)
-* [2023-07-21, 22:30:49](https://news.ycombinator.com/item?id=36820835) - [Electrolytic capacitors: overview, teardown and experiments [video]](https://www.youtube.com/watch?v=MAP-VA1m-A4)
 * [2023-07-21, 22:04:57](https://news.ycombinator.com/item?id=36820544) - [High-Performance server for NATS.io, the cloud and edge native messaging system](https://github.com/nats-io/nats-server)
 * [2023-07-21, 18:49:04](https://news.ycombinator.com/item?id=36817851) - [Stem Formulas](https://stemformulas.com/formulas/)
 
