@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-23, 05:32:10](https://news.ycombinator.com/item?id=36832797) - [Transformers: The Google scientists who pioneered an AI revolution](https://www.ft.com/content/37bb01af-ee46-4483-982f-ef3921436a50)
 * [2023-07-23, 03:58:43](https://news.ycombinator.com/item?id=36832433) - [EasyGraph: A Comprehensive Tool for Graph Analysis and Social Computing](https://github.com/easy-graph/Easy-Graph)
 * [2023-07-23, 03:14:52](https://news.ycombinator.com/item?id=36832271) - [Stable Diffusion and ControlNet: “Hidden” Text (see thumbnail vs. full image)](https://old.reddit.com/r/StableDiffusion/comments/1561k15/free_tool_to_generate_hidden_text_using_stable/)
 * [2023-07-23, 02:12:31](https://news.ycombinator.com/item?id=36831956) - [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)
@@ -20,7 +21,6 @@
 * [2023-07-22, 19:00:16](https://news.ycombinator.com/item?id=36828811) - [A Caltech Nobel laureate celebrates his 100th birthday, then gets back to work](https://www.latimes.com/science/story/2023-07-21/caltech-nobel-laureate-rudy-marcus-turns-100-and-gets-back-to-work)
 * [2023-07-22, 18:02:19](https://news.ycombinator.com/item?id=36828288) - [Databag – tiny self-hosted federated messenger for the decentralized web](https://github.com/balzack/databag)
 * [2023-07-22, 16:25:53](https://news.ycombinator.com/item?id=36827534) - [Resilience in Complex Systems (2021)](https://irhum.github.io/blog/resilientsystems/)
-* [2023-07-22, 14:56:48](https://news.ycombinator.com/item?id=36826755) - [Important Coding Habits](https://puppycoding.com/2023/07/22/healthy-coding-habits/)
 * [2023-07-22, 14:05:12](https://news.ycombinator.com/item?id=36826335) - [Time to bring back asylums?](https://www.wsj.com/articles/its-time-to-bring-back-the-asylum-ec01fb2)
 * [2023-07-22, 06:57:11](https://news.ycombinator.com/item?id=36823992) - [IdentiFIVE](https://identifive.com)
 * [2023-07-21, 09:39:09](https://news.ycombinator.com/item?id=36811861) - [How we see ourselves and how we see others (2008) [pdf]](http://courses.washington.edu/pbafhall/514/514%20Readings/2008%20Self%20and%20Other%20Pronin.pdf)
