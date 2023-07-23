@@ -29,6 +29,7 @@
 * [2023-07-21, 19:42:52](https://news.ycombinator.com/item?id=36818611) - [Actors decry 'existential crisis' over AI-generated ‘synthetic’ actors](https://www.reuters.com/technology/actors-decry-existential-crisis-over-ai-generated-synthetic-actors-2023-07-21/)
 * [2023-07-21, 19:42:19](https://news.ycombinator.com/item?id=36818602) - [BP: Formal Proofs, the Fine Print and Side Effects [pdf]](https://people.scs.carleton.ca/~paulv/papers/secdev2018.pdf)
 * [2023-07-21, 19:35:39](https://news.ycombinator.com/item?id=36818501) - [Don’t Make Fun of Renowned Dan Brown (2013)](https://onehundredpages.wordpress.com/2013/06/12/dont-make-fun-of-renowned-dan-brown/)
+* [2023-07-21, 19:33:35](https://news.ycombinator.com/item?id=36818463) - [Paxos versus Raft: A Comparison](https://github.com/Dicklesworthstone/paxos_vs_raft/blob/main/README.md)
 * [2023-07-21, 19:28:47](https://news.ycombinator.com/item?id=36818387) - [The Nature of Glass: Technologies of Transparency, Materials on the Move](https://www.journals.uchicago.edu/doi/10.1086/724806)
 * [2023-07-21, 19:17:28](https://news.ycombinator.com/item?id=36818233) - [Slackware Linux Distribution Turns 30 Years Old](https://www.theregister.com/2023/07/20/slackware_turns_30/)
 * [2023-07-21, 19:17:07](https://news.ycombinator.com/item?id=36818225) - [Ask HN: What is the most memorable game you played?](https://news.ycombinator.com/item?id=36818225)
