@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-23, 05:32:10](https://news.ycombinator.com/item?id=36832797) - [Transformers: The Google scientists who pioneered an AI revolution](https://www.ft.com/content/37bb01af-ee46-4483-982f-ef3921436a50)
+* [2023-07-23, 07:13:36](https://news.ycombinator.com/item?id=36833208) - [A History of Neural Networks](https://royalsocietypublishing.org/doi/10.1098/rsos.221454)
+* [2023-07-23, 06:14:19](https://news.ycombinator.com/item?id=36832964) - [Hopfions in Modern Physics](http://hopfion.com/)
 * [2023-07-23, 03:58:43](https://news.ycombinator.com/item?id=36832433) - [EasyGraph: A Comprehensive Tool for Graph Analysis and Social Computing](https://github.com/easy-graph/Easy-Graph)
 * [2023-07-23, 03:14:52](https://news.ycombinator.com/item?id=36832271) - [Stable Diffusion and ControlNet: “Hidden” Text (see thumbnail vs. full image)](https://old.reddit.com/r/StableDiffusion/comments/1561k15/free_tool_to_generate_hidden_text_using_stable/)
 * [2023-07-23, 02:12:31](https://news.ycombinator.com/item?id=36831956) - [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)
@@ -23,7 +24,6 @@
 * [2023-07-22, 16:25:53](https://news.ycombinator.com/item?id=36827534) - [Resilience in Complex Systems (2021)](https://irhum.github.io/blog/resilientsystems/)
 * [2023-07-22, 14:05:12](https://news.ycombinator.com/item?id=36826335) - [Time to bring back asylums?](https://www.wsj.com/articles/its-time-to-bring-back-the-asylum-ec01fb2)
 * [2023-07-22, 06:57:11](https://news.ycombinator.com/item?id=36823992) - [IdentiFIVE](https://identifive.com)
-* [2023-07-21, 08:51:02](https://news.ycombinator.com/item?id=36811569) - [The Standard Model](https://inference-review.com/article/the-standard-model)
 * [2023-07-21, 08:11:28](https://news.ycombinator.com/item?id=36811316) - [How to make cheese at home](https://www.themanual.com/food-and-drink/how-to-make-cheese/)
 * [2023-07-21, 08:01:02](https://news.ycombinator.com/item?id=36811240) - [TV Typewriter Remembered](https://hackaday.com/2023/07/20/tv-typewriter-remembered/)
 * [2023-07-21, 07:17:51](https://news.ycombinator.com/item?id=36810937) - [The Tallest Atrium (2019)](https://www.world-architects.com/en/architecture-news/found/inside-the-worlds-tallest-atrium)
