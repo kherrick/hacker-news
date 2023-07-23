@@ -13,7 +13,6 @@
 * [2023-07-23, 16:08:22](https://news.ycombinator.com/item?id=36836649) - [Government URLs that don't end in .gov](https://github.com/GSA/govt-urls)
 * [2023-07-23, 16:07:40](https://news.ycombinator.com/item?id=36836639) - [Why don't we get our drinking water by taking salt out seawater? (2008)](https://www.scientificamerican.com/article/why-dont-we-get-our-drinking-water-from-the-ocean/)
 * [2023-07-23, 16:03:31](https://news.ycombinator.com/item?id=36836596) - [Show HN: I made a MailChimp alternative that connects to your database](https://cc.dev)
-* [2023-07-23, 15:48:28](https://news.ycombinator.com/item?id=36836433) - [Interfaces all the way down](https://jjain.substack.com/p/interfaces-all-the-way-down)
 * [2023-07-23, 15:39:38](https://news.ycombinator.com/item?id=36836358) - [An invariant from category theory solves a problem in mathematical ecology [pdf]](https://www.maths.ed.ac.uk/~tl/genova/genova_talk.pdf)
 * [2023-07-23, 15:29:35](https://news.ycombinator.com/item?id=36836258) - [Elixir for Ruby developers: the three most important differences](https://phoenixonrails.com/blog/elixir-for-ruby-developers-the-three-most-important-differences)
 * [2023-07-23, 14:38:22](https://news.ycombinator.com/item?id=36835735) - [The night an audience member filled in for Keith Moon (2016)](https://www.loudersound.com/features/what-happened-the-night-an-audience-member-filled-in-for-keith-moon)
@@ -28,6 +27,7 @@
 * [2023-07-22, 02:10:40](https://news.ycombinator.com/item?id=36822484) - [Research reveals the scale of disorder underpinning motor neuron disease](https://medicalxpress.com/news/2023-07-reveals-scale-disorder-underpinning-motor.html)
 * [2023-07-22, 00:36:29](https://news.ycombinator.com/item?id=36821951) - [Advice for Operating a Public-Facing API](https://jcs.org/2023/07/12/api)
 * [2023-07-21, 22:58:59](https://news.ycombinator.com/item?id=36821123) - [Stone Walls and Historical Harbors Are Unexpected Havens of Biodiversity](https://hakaimagazine.com/news/stone-walls-and-historical-harbors-are-unexpected-havens-of-biodiversity/)
+* [2023-07-21, 22:30:49](https://news.ycombinator.com/item?id=36820835) - [Electrolytic capacitors: overview, teardown and experiments [video]](https://www.youtube.com/watch?v=MAP-VA1m-A4)
 * [2023-07-21, 22:04:57](https://news.ycombinator.com/item?id=36820544) - [High-Performance server for NATS.io, the cloud and edge native messaging system](https://github.com/nats-io/nats-server)
 * [2023-07-21, 18:49:04](https://news.ycombinator.com/item?id=36817851) - [Stem Formulas](https://stemformulas.com/formulas/)
 
