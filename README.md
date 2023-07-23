@@ -24,12 +24,12 @@
 * [2023-07-23, 07:51:33](https://news.ycombinator.com/item?id=36833393) - [What every IT person needs to know about OpenBSD (2021)](https://nxdomain.no/~peter/what_every_it_person_needs_to_know_about_openbsd.html)
 * [2023-07-23, 05:00:18](https://news.ycombinator.com/item?id=36832669) - [Showing Elizabeth I in a new light](https://blogs.bl.uk/digitisedmanuscripts/2023/07/showing-elizabeth-i-in-a-new-light.html)
 * [2023-07-23, 03:22:26](https://news.ycombinator.com/item?id=36832293) - [Fossil shows mammal sinking teeth into dinosaur](https://www.theguardian.com/science/2023/jul/18/mesozoic-fossil-dinosaur-mammal-fight)
+* [2023-07-22, 02:20:37](https://news.ycombinator.com/item?id=36822542) - [Analysis of whether unit testing obviates static type checking (2012)](http://evanfarrer.blogspot.com/2012/06/unit-testing-isnt-enough-you-need.html)
 * [2023-07-22, 02:10:40](https://news.ycombinator.com/item?id=36822484) - [Research reveals the scale of disorder underpinning motor neuron disease](https://medicalxpress.com/news/2023-07-reveals-scale-disorder-underpinning-motor.html)
 * [2023-07-22, 00:36:29](https://news.ycombinator.com/item?id=36821951) - [Advice for Operating a Public-Facing API](https://jcs.org/2023/07/12/api)
 * [2023-07-21, 22:58:59](https://news.ycombinator.com/item?id=36821123) - [Stone Walls and Historical Harbors Are Unexpected Havens of Biodiversity](https://hakaimagazine.com/news/stone-walls-and-historical-harbors-are-unexpected-havens-of-biodiversity/)
 * [2023-07-21, 22:30:49](https://news.ycombinator.com/item?id=36820835) - [Electrolytic capacitors: overview, teardown and experiments [video]](https://www.youtube.com/watch?v=MAP-VA1m-A4)
 * [2023-07-21, 22:04:57](https://news.ycombinator.com/item?id=36820544) - [High-Performance server for NATS.io, the cloud and edge native messaging system](https://github.com/nats-io/nats-server)
-* [2023-07-21, 18:49:04](https://news.ycombinator.com/item?id=36817851) - [Stem Formulas](https://stemformulas.com/formulas/)
 
 ## [Archives](archives/index.md)
 
