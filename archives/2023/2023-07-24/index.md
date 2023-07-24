@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-24](index.md)
 
+* [2023-07-24, 13:23:07](https://news.ycombinator.com/item?id=36847600) - [Israeli parliament passes law to limit judicial power](https://www.nytimes.com/live/2023/07/24/world/israel-protests-vote)
+* [2023-07-24, 12:48:33](https://news.ycombinator.com/item?id=36847133) - [Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/doc/userman.md)
 * [2023-07-24, 12:34:25](https://news.ycombinator.com/item?id=36846965) - [Ask HN: Which recently research paper blow your mind?](https://news.ycombinator.com/item?id=36846965)
+* [2023-07-24, 12:08:43](https://news.ycombinator.com/item?id=36846597) - [Nat Types](https://www.roxlu.com/2021/070/nat-types)
 * [2023-07-24, 12:07:00](https://news.ycombinator.com/item?id=36846567) - [Changing the Android captive portal page](https://www.encrypted.at/android-captive-portal/)
 * [2023-07-24, 12:02:50](https://news.ycombinator.com/item?id=36846520) - [Driver.js: Product tours, highlights, contextual help and more](https://driverjs.com/)
 * [2023-07-24, 11:35:35](https://news.ycombinator.com/item?id=36846195) - [The IBM mainframe: How it runs and why it survives](https://arstechnica.com/information-technology/2023/07/the-ibm-mainframe-how-it-runs-and-why-it-survives/)

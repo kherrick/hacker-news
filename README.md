@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-24, 13:23:07](https://news.ycombinator.com/item?id=36847600) - [Israeli parliament passes law to limit judicial power](https://www.nytimes.com/live/2023/07/24/world/israel-protests-vote)
+* [2023-07-24, 12:48:33](https://news.ycombinator.com/item?id=36847133) - [Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/doc/userman.md)
 * [2023-07-24, 12:34:25](https://news.ycombinator.com/item?id=36846965) - [Ask HN: Which recently research paper blow your mind?](https://news.ycombinator.com/item?id=36846965)
+* [2023-07-24, 12:08:43](https://news.ycombinator.com/item?id=36846597) - [Nat Types](https://www.roxlu.com/2021/070/nat-types)
 * [2023-07-24, 12:07:00](https://news.ycombinator.com/item?id=36846567) - [Changing the Android captive portal page (2020)](https://www.encrypted.at/android-captive-portal/)
 * [2023-07-24, 12:02:50](https://news.ycombinator.com/item?id=36846520) - [Driver.js: Product tours, highlights, contextual help and more](https://driverjs.com/)
 * [2023-07-24, 11:35:35](https://news.ycombinator.com/item?id=36846195) - [The IBM mainframe: How it runs and why it survives](https://arstechnica.com/information-technology/2023/07/the-ibm-mainframe-how-it-runs-and-why-it-survives/)
@@ -19,17 +22,14 @@
 * [2023-07-24, 00:01:48](https://news.ycombinator.com/item?id=36841369) - [U.S. Senate bill crafted with DEA targets end-to-end encryption](https://therecord.media/senate-dea-bill-targets-end-to-end-encryption-requires-companies-to-report-drugs)
 * [2023-07-23, 22:42:42](https://news.ycombinator.com/item?id=36840728) - [Teach your LLM to answer with facts, not fiction](https://blog.myscale.com/2023/07/17/teach-your-llm-vector-sql/)
 * [2023-07-23, 22:37:20](https://news.ycombinator.com/item?id=36840674) - [Young people are flocking to astrology](https://www.washingtonpost.com/lifestyle/2023/06/13/astrology-millennials-gen-z-science/)
-* [2023-07-23, 21:57:30](https://news.ycombinator.com/item?id=36840282) - [Why Frames Tilt Forward (2015)](https://chcollins.com/100Billion/2015/02/why-frames-tilt-forward/)
 * [2023-07-23, 18:13:54](https://news.ycombinator.com/item?id=36838051) - [Llama2.c: Inference llama 2 in one file of pure C](https://github.com/karpathy/llama2.c)
-* [2023-07-23, 02:59:36](https://news.ycombinator.com/item?id=36832191) - [Gustave Moreau's mystical paintings](https://www.thecollector.com/gustave-moreau-paintings/)
 * [2023-07-22, 12:31:00](https://news.ycombinator.com/item?id=36825668) - [Nulls Nullified (2005)](http://www.dbazine.com/ofinterest/oi-articles/pascal27/)
+* [2023-07-22, 08:46:24](https://news.ycombinator.com/item?id=36824554) - [The Forgotten Piece of Evolutionary Theory](https://www.subanima.org/agency/)
 * [2023-07-22, 04:56:56](https://news.ycombinator.com/item?id=36823421) - [Poisons and Perils on the Salton Sea](https://www.scientificamerican.com/podcast/episode/poisons-and-perils-on-the-salton-sea/)
 * [2023-07-22, 02:52:00](https://news.ycombinator.com/item?id=36822712) - [Thoughts on the fading away of the age of IE](https://medium.com/@socrateslee/thoughts-on-the-fading-away-of-the-age-of-ie-a57cc5c165fc)
 * [2023-07-22, 02:40:32](https://news.ycombinator.com/item?id=36822656) - [Insights into designing advanced stimuli-responsive porous materials](https://phys.org/news/2023-07-insights-advanced-stimuli-responsive-porous-materials.html)
 * [2023-07-22, 00:42:20](https://news.ycombinator.com/item?id=36821985) - [C89 compiler produces printable executables from C code [pdf]](http://www.cs.cmu.edu/~tom7/abc/paper.pdf)
 * [2023-07-22, 00:15:32](https://news.ycombinator.com/item?id=36821808) - [Death Metal English (2013)](https://www.invisibleoranges.com/death-metal-english/)
-* [2023-07-22, 00:06:45](https://news.ycombinator.com/item?id=36821736) - [Fixed Bits of Version 4 UUID (2015)](https://susam.net/blog/from-uuid-to-infinite-loops.html)
-* [2023-07-21, 04:27:37](https://news.ycombinator.com/item?id=36809994) - [A surprising dearth of spectacled bears](https://www.laphamsquarterly.org/roundtable/surprising-dearth-spectacled-bears)
 
 ## [Archives](archives/index.md)
 
