@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=36839800"
     ],
     [
-      "Never run ldd on unknown executables (2009)",
+      "ldd arbitrary code execution (2009)",
       "https://catonmat.net/ldd-arbitrary-code-execution"
     ]
   ],
@@ -221,21 +221,11 @@
   ],
   [
     [
-      "2023-07-23, 03:22:26",
-      "https://news.ycombinator.com/item?id=36832293"
-    ],
-    [
-      "Fossil shows mammal sinking teeth into dinosaur",
-      "https://www.theguardian.com/science/2023/jul/18/mesozoic-fossil-dinosaur-mammal-fight"
-    ]
-  ],
-  [
-    [
       "2023-07-23, 02:59:36",
       "https://news.ycombinator.com/item?id=36832191"
     ],
     [
-      "Gustave Moreau stunned the 19th-century art world with his mystical paintings",
+      "Gustave Moreau's mystical paintings",
       "https://www.thecollector.com/gustave-moreau-paintings/"
     ]
   ],
@@ -247,6 +237,16 @@
     [
       "Analysis of whether unit testing obviates static type checking (2012)",
       "http://evanfarrer.blogspot.com/2012/06/unit-testing-isnt-enough-you-need.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-22, 02:10:40",
+      "https://news.ycombinator.com/item?id=36822484"
+    ],
+    [
+      "Research reveals the scale of disorder underpinning motor neuron disease",
+      "https://medicalxpress.com/news/2023-07-reveals-scale-disorder-underpinning-motor.html"
     ]
   ],
   [
