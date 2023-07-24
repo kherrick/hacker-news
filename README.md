@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-24, 19:18:26](https://news.ycombinator.com/item?id=36852971) - [A simple guide to fine-tuning Llama 2](https://brev.dev/blog/fine-tuning-llama-2)
 * [2023-07-24, 19:06:36](https://news.ycombinator.com/item?id=36852856) - [Scientists invent double-sided solar panel that generates way more electricity](https://www.independent.co.uk/tech/solar-panel-perovskite-double-sided-b2378337.html)
 * [2023-07-24, 18:22:37](https://news.ycombinator.com/item?id=36852231) - [Elixir Is (Still) Safe](https://paraxial.io/blog/still-safe)
 * [2023-07-24, 18:03:02](https://news.ycombinator.com/item?id=36851930) - [Text Embeddings Reveal (Almost) as Much as Text](https://openreview.net/forum?id=wK7wUdiM5g0)
@@ -20,7 +21,6 @@
 * [2023-07-24, 13:48:37](https://news.ycombinator.com/item?id=36847958) - [The Mathematical Universe Hypothesis (2007)](https://arxiv.org/abs/0704.0646)
 * [2023-07-24, 13:21:19](https://news.ycombinator.com/item?id=36847569) - [Launch HN: Artie (YC S23) – Real time data replication to data warehouses](https://news.ycombinator.com/item?id=36847569)
 * [2023-07-24, 12:48:33](https://news.ycombinator.com/item?id=36847133) - [Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/doc/userman.md)
-* [2023-07-24, 12:08:43](https://news.ycombinator.com/item?id=36846597) - [Nat Types](https://www.roxlu.com/2021/070/nat-types)
 * [2023-07-24, 12:07:00](https://news.ycombinator.com/item?id=36846567) - [Changing the Android captive portal page (2020)](https://www.encrypted.at/android-captive-portal/)
 * [2023-07-24, 12:02:50](https://news.ycombinator.com/item?id=36846520) - [Driver.js: Product tours, highlights, contextual help and more](https://driverjs.com/)
 * [2023-07-24, 11:22:13](https://news.ycombinator.com/item?id=36846076) - [Unicode Character “𝕏” (U+1D54F)](https://www.compart.com/en/unicode/U+1D54F)
