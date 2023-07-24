@@ -2,6 +2,7 @@
 
 * [2023-07-24, 21:01:27](https://news.ycombinator.com/item?id=36854138) - [Better code highlighting on the web: rehype-tree-sitter](https://haz.ee/technical/rehype-tree-sitter/)
 * [2023-07-24, 20:54:23](https://news.ycombinator.com/item?id=36854061) - [People in 1920s Berlin Nightclubs Flirted via Pneumatic Tubes](https://www.atlasobscura.com/articles/pneumatic-tube-table-phone-flirting-berlin)
+* [2023-07-24, 20:51:55](https://news.ycombinator.com/item?id=36854030) - [Intel AVX10: The Successor to AVX-512](https://www.phoronix.com/news/Intel-AVX10)
 * [2023-07-24, 20:11:24](https://news.ycombinator.com/item?id=36853565) - [Wind and Solar Will Be 25% of Total U.S. Generating Capacity Within Three Years](https://electricenergyonline.com/article/energy/category/climate-change/82/1033617/wind-solar-will-be-25-of-total-u-s-generating-capacity-within-three-years-as-they-grow-by-over-100-gw-.html)
 * [2023-07-24, 20:06:26](https://news.ycombinator.com/item?id=36853495) - [Python: Overlooked core functionalities](https://erikvandeven.medium.com/python-uncovering-the-overlooked-core-functionalities-54590420c225)
 * [2023-07-24, 19:41:16](https://news.ycombinator.com/item?id=36853220) - [Time, Clocks, and the Ordering of Events in a Distributed System – Paper Review](https://percisely.xyz/syncronicity)
@@ -19,7 +20,6 @@
 * [2023-07-24, 15:25:06](https://news.ycombinator.com/item?id=36849502) - [Show HN: I spent 2 years building a personal finance simulator](https://projectionlab.com/)
 * [2023-07-24, 15:23:30](https://news.ycombinator.com/item?id=36849478) - [Wasm_of_OCaml](https://github.com/ocaml-wasm/wasm_of_ocaml)
 * [2023-07-24, 14:34:31](https://news.ycombinator.com/item?id=36848680) - [Zenbleed](https://lock.cmpxchg8b.com/zenbleed.html)
-* [2023-07-24, 14:11:52](https://news.ycombinator.com/item?id=36848305) - [Cash Amnesia](https://www.gsb.stanford.edu/insights/indulging-guilty-pleasure-dont-put-it-card)
 * [2023-07-24, 13:49:08](https://news.ycombinator.com/item?id=36847960) - [Show HN: I built a transit travel time map](https://map.henryn.xyz)
 * [2023-07-24, 13:21:19](https://news.ycombinator.com/item?id=36847569) - [Launch HN: Artie (YC S23) – Real time data replication to data warehouses](https://news.ycombinator.com/item?id=36847569)
 * [2023-07-24, 12:48:33](https://news.ycombinator.com/item?id=36847133) - [Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/doc/userman.md)

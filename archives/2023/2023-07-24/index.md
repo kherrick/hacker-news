@@ -6,6 +6,7 @@
 
 * [2023-07-24, 21:01:27](https://news.ycombinator.com/item?id=36854138) - [Better code highlighting on the web: rehype-tree-sitter](https://haz.ee/technical/rehype-tree-sitter/)
 * [2023-07-24, 20:54:23](https://news.ycombinator.com/item?id=36854061) - [People in 1920s Berlin Nightclubs Flirted via Pneumatic Tubes](https://www.atlasobscura.com/articles/pneumatic-tube-table-phone-flirting-berlin)
+* [2023-07-24, 20:51:55](https://news.ycombinator.com/item?id=36854030) - [Intel AVX10: The Successor to AVX-512](https://www.phoronix.com/news/Intel-AVX10)
 * [2023-07-24, 20:21:46](https://news.ycombinator.com/item?id=36853684) - [If the job enables it, working remotely should be allowed for everyone](https://www.remotebusinessjobs.com/allow)
 * [2023-07-24, 20:11:24](https://news.ycombinator.com/item?id=36853565) - [Wind and Solar Will Be 25% of Total U.S. Generating Capacity Within Three Years](https://electricenergyonline.com/article/energy/category/climate-change/82/1033617/wind-solar-will-be-25-of-total-u-s-generating-capacity-within-three-years-as-they-grow-by-over-100-gw-.html)
 * [2023-07-24, 20:06:26](https://news.ycombinator.com/item?id=36853495) - [Python: Uncovering the Overlooked Core Functionalities](https://erikvandeven.medium.com/python-uncovering-the-overlooked-core-functionalities-54590420c225)
