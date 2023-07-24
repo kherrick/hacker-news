@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-24](index.md)
 
+* [2023-07-24, 16:28:07](https://news.ycombinator.com/item?id=36850535) - [AI researcher Geoffrey Hinton thinks AI has or will have emotions](https://the-decoder.com/ai-researcher-geoffrey-hinton-thinks-ai-has-or-will-have-emotions/)
 * [2023-07-24, 15:55:51](https://news.ycombinator.com/item?id=36849988) - [X, the moonshot factory](https://x.company/)
 * [2023-07-24, 15:42:25](https://news.ycombinator.com/item?id=36849784) - [You Don't Know Jack about Application Performance](https://queue.acm.org/detail.cfm?id=3595862)
 * [2023-07-24, 15:33:30](https://news.ycombinator.com/item?id=36849649) - [Publishers want billions, not millions, from AI](https://www.semafor.com/article/07/23/2023/publishers-want-billions-not-millions-from-ai)
