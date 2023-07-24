@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-24, 17:36:11](https://news.ycombinator.com/item?id=36851535) - [Apple Vision Pro developer kit](https://developer.apple.com/visionos/developer-kit/)
 * [2023-07-24, 17:01:05](https://news.ycombinator.com/item?id=36851054) - [Emerge Tools (YC W21) Is Hiring a Senior Front End Engineer](https://www.workatastartup.com/jobs/61922/)
 * [2023-07-24, 16:29:01](https://news.ycombinator.com/item?id=36850554) - [Text-to-Video-Synthesis-Colab](https://github.com/camenduru/text-to-video-synthesis-colab)
 * [2023-07-24, 16:03:03](https://news.ycombinator.com/item?id=36850111) - [40 years ago yesterday Air Canada Flight 143 ran out of fuel mid-flight](https://www.damninteresting.com/the-gimli-glider/)
@@ -14,7 +15,6 @@
 * [2023-07-24, 13:48:37](https://news.ycombinator.com/item?id=36847958) - [The Mathematical Universe Hypothesis (2007)](https://arxiv.org/abs/0704.0646)
 * [2023-07-24, 13:21:19](https://news.ycombinator.com/item?id=36847569) - [Launch HN: Artie (YC S23) – Real time data replication to data warehouses](https://news.ycombinator.com/item?id=36847569)
 * [2023-07-24, 13:11:27](https://news.ycombinator.com/item?id=36847413) - [Transparent field level encryption for Django with pgcrypto PostgreSQL extension](https://github.com/incuna/django-pgcrypto-fields)
-* [2023-07-24, 12:58:04](https://news.ycombinator.com/item?id=36847258) - [SVG Chromium bug is more than 10 years old](https://bugs.chromium.org/p/chromium/issues/detail?id=109212)
 * [2023-07-24, 12:48:33](https://news.ycombinator.com/item?id=36847133) - [Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/doc/userman.md)
 * [2023-07-24, 12:34:25](https://news.ycombinator.com/item?id=36846965) - [Ask HN: Which recent research paper blew your mind?](https://news.ycombinator.com/item?id=36846965)
 * [2023-07-24, 12:08:43](https://news.ycombinator.com/item?id=36846597) - [Nat Types](https://www.roxlu.com/2021/070/nat-types)

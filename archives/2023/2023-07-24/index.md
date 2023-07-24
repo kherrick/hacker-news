@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-24](index.md)
 
+* [2023-07-24, 17:36:11](https://news.ycombinator.com/item?id=36851535) - [Apple Vision Pro developer kit](https://developer.apple.com/visionos/developer-kit/)
 * [2023-07-24, 17:01:05](https://news.ycombinator.com/item?id=36851054) - [Emerge Tools (YC W21) Is Hiring a Senior Front End Engineer](https://www.workatastartup.com/jobs/61922/)
 * [2023-07-24, 16:43:29](https://news.ycombinator.com/item?id=36850781) - [Revealed: Media Blitz Against Heat Pumps Funded by Gas Lobby Group](https://www.desmog.com/2023/07/20/revealed-media-blitz-against-heat-pumps-funded-by-gas-lobby-group/)
 * [2023-07-24, 16:29:01](https://news.ycombinator.com/item?id=36850554) - [Text-to-Video-Synthesis-Colab](https://github.com/camenduru/text-to-video-synthesis-colab)
