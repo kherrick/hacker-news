@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-24](index.md)
 
+* [2023-07-24, 12:07:00](https://news.ycombinator.com/item?id=36846567) - [Changing the Android captive portal page](https://www.encrypted.at/android-captive-portal/)
 * [2023-07-24, 11:35:35](https://news.ycombinator.com/item?id=36846195) - [The IBM mainframe: How it runs and why it survives](https://arstechnica.com/information-technology/2023/07/the-ibm-mainframe-how-it-runs-and-why-it-survives/)
 * [2023-07-24, 11:22:13](https://news.ycombinator.com/item?id=36846076) - [Unicode Character “𝕏” (U+1D54F)](https://www.compart.com/en/unicode/U+1D54F)
 * [2023-07-24, 10:21:05](https://news.ycombinator.com/item?id=36845492) - [Twitter unveils X logo to replace blue bird](https://www.bbc.com/news/business-66284304)
