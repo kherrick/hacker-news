@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-24, 18:03:02",
+      "https://news.ycombinator.com/item?id=36851930"
+    ],
+    [
+      "Text Embeddings Reveal (Almost) as Much as Text",
+      "https://openreview.net/forum?id=wK7wUdiM5g0"
+    ]
+  ],
+  [
+    [
       "2023-07-24, 17:43:37",
       "https://news.ycombinator.com/item?id=36851644"
     ],
@@ -157,16 +167,6 @@
     [
       "Launch HN: Artie (YC S23) – Real time data replication to data warehouses",
       "https://news.ycombinator.com/item?id=36847569"
-    ]
-  ],
-  [
-    [
-      "2023-07-24, 13:11:27",
-      "https://news.ycombinator.com/item?id=36847413"
-    ],
-    [
-      "Transparent field level encryption for Django with pgcrypto PostgreSQL extension",
-      "https://github.com/incuna/django-pgcrypto-fields"
     ]
   ],
   [
