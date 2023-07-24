@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-24, 02:06:18](https://news.ycombinator.com/item?id=36842239) - [The “Three Things” Exercise for getting things out of talks](https://math.stanford.edu/~vakil/threethings.html)
 * [2023-07-24, 01:10:53](https://news.ycombinator.com/item?id=36841837) - [Court strikes down limits on filming of police in Arizona](https://apnews.com/article/arizona-cant-limit-filming-of-police-a7a7ad0fe5b421d416ec3477d0795707)
 * [2023-07-24, 01:06:21](https://news.ycombinator.com/item?id=36841798) - [Welcome Debian riscv64](https://blog.aurel32.net/welcome-debian-riscv64.html)
 * [2023-07-24, 00:01:48](https://news.ycombinator.com/item?id=36841369) - [U.S. Senate bill crafted with DEA targets end-to-end encryption](https://therecord.media/senate-dea-bill-targets-end-to-end-encryption-requires-companies-to-report-drugs)
@@ -14,7 +15,6 @@
 * [2023-07-23, 18:13:54](https://news.ycombinator.com/item?id=36838051) - [Llama2.c: Inference llama 2 in one file of pure C](https://github.com/karpathy/llama2.c)
 * [2023-07-23, 17:19:40](https://news.ycombinator.com/item?id=36837442) - [Icon Buddy – 100K+ Open Source SVG Icons, Fully Customizable](https://iconbuddy.app/)
 * [2023-07-23, 17:03:23](https://news.ycombinator.com/item?id=36837273) - [Man found guilty of child porn because he ran a Tor exit node](https://lowendbox.com/blog/man-found-guilty-of-child-porn-because-he-ran-a-tor-exit-node-the-story-of-william-weber/)
-* [2023-07-23, 16:15:26](https://news.ycombinator.com/item?id=36836729) - [SICP in JavaScript](https://sourceacademy.org/sicpjs/index)
 * [2023-07-23, 16:07:40](https://news.ycombinator.com/item?id=36836639) - [Why don't we get our drinking water by taking salt out seawater? (2008)](https://www.scientificamerican.com/article/why-dont-we-get-our-drinking-water-from-the-ocean/)
 * [2023-07-23, 16:03:31](https://news.ycombinator.com/item?id=36836596) - [Show HN: I made a MailChimp alternative that connects to your database](https://cc.dev)
 * [2023-07-23, 15:39:38](https://news.ycombinator.com/item?id=36836358) - [An invariant from category theory solves a problem in mathematical ecology [pdf]](https://www.maths.ed.ac.uk/~tl/genova/genova_talk.pdf)
