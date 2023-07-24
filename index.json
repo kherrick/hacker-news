@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2023-07-24, 15:25:58",
-      "https://news.ycombinator.com/item?id=36849523"
-    ],
-    [
-      "TikTok is adding text posts",
-      "https://www.theverge.com/2023/7/24/23805530/tiktok-text-posts-micro-blogging-twitter-threads"
-    ]
-  ],
-  [
-    [
       "2023-07-24, 15:25:06",
       "https://news.ycombinator.com/item?id=36849502"
     ],
@@ -167,16 +157,6 @@
     [
       "Launch HN: Artie (YC S23) – Real time data replication to data warehouses",
       "https://news.ycombinator.com/item?id=36847569"
-    ]
-  ],
-  [
-    [
-      "2023-07-24, 13:11:27",
-      "https://news.ycombinator.com/item?id=36847413"
-    ],
-    [
-      "Transparent field level encryption for Django with pgcrypto PostgreSQL extension",
-      "https://github.com/incuna/django-pgcrypto-fields"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "The genetic architecture and evolution of the human skeletal form",
       "https://www.science.org/doi/10.1126/science.adf8009"
+    ]
+  ],
+  [
+    [
+      "2023-07-22, 05:53:05",
+      "https://news.ycombinator.com/item?id=36823673"
+    ],
+    [
+      "How to stay safe and happy on an electric unicycle",
+      "https://wmay.github.io/euc-safety/"
+    ]
+  ],
+  [
+    [
+      "2023-07-22, 00:42:20",
+      "https://news.ycombinator.com/item?id=36821985"
+    ],
+    [
+      "C89 compiler produces printable executables from C code [pdf] (2017)",
+      "http://www.cs.cmu.edu/~tom7/abc/paper.pdf"
     ]
   ]
 ]
