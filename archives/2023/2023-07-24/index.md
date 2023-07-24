@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2023-07-24](index.md)
 
 * [2023-07-24, 20:21:46](https://news.ycombinator.com/item?id=36853684) - [If the job enables it, working remotely should be allowed for everyone](https://www.remotebusinessjobs.com/allow)
+* [2023-07-24, 20:11:24](https://news.ycombinator.com/item?id=36853565) - [Wind and Solar Will Be 25% of Total U.S. Generating Capacity Within Three Years](https://electricenergyonline.com/article/energy/category/climate-change/82/1033617/wind-solar-will-be-25-of-total-u-s-generating-capacity-within-three-years-as-they-grow-by-over-100-gw-.html)
 * [2023-07-24, 20:06:26](https://news.ycombinator.com/item?id=36853495) - [Python: Uncovering the Overlooked Core Functionalities](https://erikvandeven.medium.com/python-uncovering-the-overlooked-core-functionalities-54590420c225)
 * [2023-07-24, 19:41:16](https://news.ycombinator.com/item?id=36853220) - [Leslie Lamport’s, proof distributed physical clocks can preserve causality](https://percisely.xyz/syncronicity)
 * [2023-07-24, 19:39:38](https://news.ycombinator.com/item?id=36853207) - [Show HN: Browser extension replacing the X with the original Twitter logo](https://github.com/emvi/xbegone)
+* [2023-07-24, 19:37:37](https://news.ycombinator.com/item?id=36853184) - [Electric Y Combinator – Electric Clojure](https://dustingetz.electricfiddle.net/electric-fiddle.essay!Essay/electric-y-combinator)
 * [2023-07-24, 19:35:32](https://news.ycombinator.com/item?id=36853166) - [Intel Advanced Performance Extensions (Intel APX)](https://www.intel.com/content/www/us/en/developer/articles/technical/advanced-performance-extensions-apx.html)
 * [2023-07-24, 19:18:26](https://news.ycombinator.com/item?id=36852971) - [A simple guide to fine-tuning Llama 2](https://brev.dev/blog/fine-tuning-llama-2)
 * [2023-07-24, 19:06:36](https://news.ycombinator.com/item?id=36852856) - [Scientists invent double-sided solar panel that generates way more electricity](https://www.independent.co.uk/tech/solar-panel-perovskite-double-sided-b2378337.html)
