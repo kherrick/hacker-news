@@ -9,7 +9,7 @@
 * [2023-07-23, 22:42:42](https://news.ycombinator.com/item?id=36840728) - [Teach your LLM to answer with facts, not fiction](https://blog.myscale.com/2023/07/17/teach-your-llm-vector-sql/)
 * [2023-07-23, 21:57:30](https://news.ycombinator.com/item?id=36840282) - [Why Frames Tilt Forward (2015)](https://chcollins.com/100Billion/2015/02/why-frames-tilt-forward/)
 * [2023-07-23, 21:24:03](https://news.ycombinator.com/item?id=36839983) - [All foster kids in California can now attend any state college for free](https://themessenger.com/news/all-foster-kids-in-california-can-now-attend-any-state-college-for-free)
-* [2023-07-23, 21:01:32](https://news.ycombinator.com/item?id=36839800) - [Never run ldd on unknown executables](https://catonmat.net/ldd-arbitrary-code-execution)
+* [2023-07-23, 21:01:32](https://news.ycombinator.com/item?id=36839800) - [Never run ldd on unknown executables (2009)](https://catonmat.net/ldd-arbitrary-code-execution)
 * [2023-07-23, 19:43:45](https://news.ycombinator.com/item?id=36838994) - [PLJS – JavaScript Language Plugin for PostreSQL](https://github.com/plv8/pljs)
 * [2023-07-23, 18:59:27](https://news.ycombinator.com/item?id=36838511) - [OpenBSD: AMD processor microcode support added to -current](https://undeadly.org/cgi?action=article;sid=20230723185853)
 * [2023-07-23, 18:13:54](https://news.ycombinator.com/item?id=36838051) - [Llama2.c: Inference llama 2 in one file of pure C](https://github.com/karpathy/llama2.c)
