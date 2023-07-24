@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-24](index.md)
 
+* [2023-07-24, 10:21:05](https://news.ycombinator.com/item?id=36845492) - [Twitter unveils X logo to replace blue bird](https://www.bbc.com/news/business-66284304)
 * [2023-07-24, 09:34:23](https://news.ycombinator.com/item?id=36845111) - [Twitter has officially changed its logo to ‘X’](https://techcrunch.com/2023/07/24/twitter-has-officially-changed-its-logo-to-x/)
 * [2023-07-24, 08:53:19](https://news.ycombinator.com/item?id=36844793) - [Sam Altman’s Worldcoin Crypto Project Officially Launches](https://www.bloomberg.com/news/articles/2023-07-24/sam-altman-s-worldcoin-crypto-project-officially-launches)
 * [2023-07-24, 08:00:33](https://news.ycombinator.com/item?id=36844415) - [Ask HN: Looking for a Firefox compatible extension for voice controlled actions](https://news.ycombinator.com/item?id=36844415)

@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-24, 09:34:23](https://news.ycombinator.com/item?id=36845111) - [Twitter has officially changed its logo to ‘X’](https://techcrunch.com/2023/07/24/twitter-has-officially-changed-its-logo-to-x/)
+* [2023-07-24, 10:21:05](https://news.ycombinator.com/item?id=36845492) - [Twitter unveils X logo to replace blue bird](https://www.bbc.com/news/business-66284304)
 * [2023-07-24, 08:00:33](https://news.ycombinator.com/item?id=36844415) - [Ask HN: Looking for a Firefox compatible extension for voice controlled actions](https://news.ycombinator.com/item?id=36844415)
 * [2023-07-24, 06:32:29](https://news.ycombinator.com/item?id=36843794) - [Inkscape 1.3](https://inkscape.org/news/2023/07/23/inkscape-launches-version-13-focus-organizing-work/)
 * [2023-07-24, 05:51:38](https://news.ycombinator.com/item?id=36843572) - [Ubisoft account -including games- can be permanently deleted for inactivity](https://www.pcgamer.com/your-ubisoft-account-can-be-suspended-and-subsequently-permanently-deleted-for-inactivity-taking-your-games-library-with-it/)
@@ -24,7 +24,7 @@
 * [2023-07-23, 16:03:31](https://news.ycombinator.com/item?id=36836596) - [Show HN: I made a MailChimp alternative that connects to your database](https://cc.dev)
 * [2023-07-23, 02:59:36](https://news.ycombinator.com/item?id=36832191) - [Gustave Moreau's mystical paintings](https://www.thecollector.com/gustave-moreau-paintings/)
 * [2023-07-22, 12:31:00](https://news.ycombinator.com/item?id=36825668) - [Nulls Nullified (2005)](http://www.dbazine.com/ofinterest/oi-articles/pascal27/)
-* [2023-07-22, 12:02:13](https://news.ycombinator.com/item?id=36825496) - [Draft No. 4 (2013)](https://www.newyorker.com/magazine/2013/04/29/draft-no-4)
+* [2023-07-22, 08:46:24](https://news.ycombinator.com/item?id=36824554) - [The Forgotten Piece of Evolutionary Theory](https://www.subanima.org/agency/)
 * [2023-07-22, 01:40:32](https://news.ycombinator.com/item?id=36822329) - [Computational Complexity of Texture Encoding](https://fgiesen.wordpress.com/2023/07/21/computational-complexity-of-texture-encoding/)
 * [2023-07-22, 00:42:20](https://news.ycombinator.com/item?id=36821985) - [C89 compiler produces printable executables from C code [pdf]](http://www.cs.cmu.edu/~tom7/abc/paper.pdf)
 * [2023-07-22, 00:15:32](https://news.ycombinator.com/item?id=36821808) - [Death Metal English (2013)](https://www.invisibleoranges.com/death-metal-english/)

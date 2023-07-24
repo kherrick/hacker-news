@@ -61,6 +61,7 @@
 * [2023-07-22, 09:38:03](https://news.ycombinator.com/item?id=36824826) - [Ownership Checks for C [pdf]](https://github.com/thradams/cake/blob/main/docs/ownership.pdf)
 * [2023-07-22, 08:58:09](https://news.ycombinator.com/item?id=36824607) - [Over-grazing and desertification in the Syrian steppe root causes of war (2015)](https://theecologist.org/2015/jun/05/over-grazing-and-desertification-syrian-steppe-are-root-causes-war)
 * [2023-07-22, 08:56:14](https://news.ycombinator.com/item?id=36824595) - [Octos – HTML live wallpaper engine](https://github.com/underpig1/octos)
+* [2023-07-22, 08:46:24](https://news.ycombinator.com/item?id=36824554) - [The Forgotten Piece of Evolutionary Theory](https://www.subanima.org/agency/)
 * [2023-07-22, 08:21:40](https://news.ycombinator.com/item?id=36824450) - [Plane – open-source Jira alternative](https://plane.so)
 * [2023-07-22, 07:57:44](https://news.ycombinator.com/item?id=36824330) - [Biotumen: Bitumen Reinvented](https://biofabrik.com/biotumen/)
 * [2023-07-22, 07:39:32](https://news.ycombinator.com/item?id=36824236) - [Cheetahs have come back to India. Why do they keep dying?](https://www.nationalgeographic.com/premium/article/cheetahs-died-india-relocation-africa-conservation)
