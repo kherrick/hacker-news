@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-24](index.md)
 
+* [2023-07-24, 14:34:31](https://news.ycombinator.com/item?id=36848680) - [Zenbleed](https://lock.cmpxchg8b.com/zenbleed.html)
 * [2023-07-24, 14:11:52](https://news.ycombinator.com/item?id=36848305) - [Cash Amnesia](https://www.gsb.stanford.edu/insights/indulging-guilty-pleasure-dont-put-it-card)
 * [2023-07-24, 13:55:08](https://news.ycombinator.com/item?id=36848037) - [Atari Has Launched Collectible Arcade Circuit Boards of Retro Classics](https://retrododo.com/atari-collectible-arcade-circuit-boards/)
 * [2023-07-24, 13:49:08](https://news.ycombinator.com/item?id=36847960) - [Show HN: I built a transit travel time map](https://map.henryn.xyz)
@@ -11,6 +12,7 @@
 * [2023-07-24, 13:40:59](https://news.ycombinator.com/item?id=36847831) - [Reviving an IBM RS/6000 Workstation](https://twitter.com/tubetimeus/status/1671654843138854912)
 * [2023-07-24, 13:23:07](https://news.ycombinator.com/item?id=36847600) - [Israeli parliament passes law to limit judicial power](https://www.nytimes.com/live/2023/07/24/world/israel-protests-vote)
 * [2023-07-24, 13:21:19](https://news.ycombinator.com/item?id=36847569) - [Launch HN: Artie (YC S23) – Real time data replication to data warehouses](https://news.ycombinator.com/item?id=36847569)
+* [2023-07-24, 12:58:04](https://news.ycombinator.com/item?id=36847258) - [SVG Chromium bug is more than 10 years old](https://bugs.chromium.org/p/chromium/issues/detail?id=109212)
 * [2023-07-24, 12:48:33](https://news.ycombinator.com/item?id=36847133) - [Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/doc/userman.md)
 * [2023-07-24, 12:34:25](https://news.ycombinator.com/item?id=36846965) - [Ask HN: Which recently research paper blow your mind?](https://news.ycombinator.com/item?id=36846965)
 * [2023-07-24, 12:08:43](https://news.ycombinator.com/item?id=36846597) - [Nat Types](https://www.roxlu.com/2021/070/nat-types)
