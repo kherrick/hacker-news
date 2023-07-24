@@ -47,6 +47,7 @@
 * [2023-07-22, 13:20:02](https://news.ycombinator.com/item?id=36825992) - [More than you've ever wanted to know about errors in Rust](https://www.shuttle.rs/blog/2022/06/30/error-handling)
 * [2023-07-22, 13:06:39](https://news.ycombinator.com/item?id=36825913) - [Redmine – open-source project management](https://www.redmine.org/)
 * [2023-07-22, 12:31:57](https://news.ycombinator.com/item?id=36825675) - [To grasp the extent of inequality, look at the relatively well-off](https://blogs.lse.ac.uk/politicsandpolicy/to-grasp-the-extent-of-inequality-look-at-the-relatively-well-off/)
+* [2023-07-22, 12:31:00](https://news.ycombinator.com/item?id=36825668) - [Nulls Nullified (2005)](http://www.dbazine.com/ofinterest/oi-articles/pascal27/)
 * [2023-07-22, 12:25:34](https://news.ycombinator.com/item?id=36825633) - [Best Practices for Back End Design in Distributed System](https://www.multiplayer.app/blog/6-best-practices-for-backend-design-in-distributed-system/)
 * [2023-07-22, 12:02:13](https://news.ycombinator.com/item?id=36825496) - [Draft No. 4 (2013)](https://www.newyorker.com/magazine/2013/04/29/draft-no-4)
 * [2023-07-22, 11:57:41](https://news.ycombinator.com/item?id=36825481) - [Neurotechnology: Current Developments and Ethical Issues](https://www.frontiersin.org/articles/10.3389/fnsys.2017.00093/full)
