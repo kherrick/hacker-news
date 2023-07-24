@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-24, 11:35:35",
+      "https://news.ycombinator.com/item?id=36846195"
+    ],
+    [
+      "The IBM mainframe: How it runs and why it survives",
+      "https://arstechnica.com/information-technology/2023/07/the-ibm-mainframe-how-it-runs-and-why-it-survives/"
+    ]
+  ],
+  [
+    [
       "2023-07-24, 11:22:13",
       "https://news.ycombinator.com/item?id=36846076"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2023-07-23, 17:03:23",
-      "https://news.ycombinator.com/item?id=36837273"
-    ],
-    [
-      "Man found guilty of child porn because he ran a Tor exit node",
-      "https://lowendbox.com/blog/man-found-guilty-of-child-porn-because-he-ran-a-tor-exit-node-the-story-of-william-weber/"
-    ]
-  ],
-  [
-    [
       "2023-07-23, 16:03:31",
       "https://news.ycombinator.com/item?id=36836596"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2023-07-22, 01:40:32",
-      "https://news.ycombinator.com/item?id=36822329"
+      "2023-07-22, 02:40:32",
+      "https://news.ycombinator.com/item?id=36822656"
     ],
     [
-      "Computational Complexity of Texture Encoding",
-      "https://fgiesen.wordpress.com/2023/07/21/computational-complexity-of-texture-encoding/"
+      "Insights into designing advanced stimuli-responsive porous materials",
+      "https://phys.org/news/2023-07-insights-advanced-stimuli-responsive-porous-materials.html"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=36821736"
     ],
     [
-      "From UUID to Infinite Loops (2015)",
+      "Fixed Bits of Version 4 UUID (2015)",
       "https://susam.net/blog/from-uuid-to-infinite-loops.html"
     ]
   ],
