@@ -2,7 +2,6 @@
 
 * [2023-07-24, 01:10:53](https://news.ycombinator.com/item?id=36841837) - [Court strikes down limits on filming of police in Arizona](https://apnews.com/article/arizona-cant-limit-filming-of-police-a7a7ad0fe5b421d416ec3477d0795707)
 * [2023-07-24, 01:06:21](https://news.ycombinator.com/item?id=36841798) - [Welcome Debian riscv64](https://blog.aurel32.net/welcome-debian-riscv64.html)
-* [2023-07-24, 00:31:46](https://news.ycombinator.com/item?id=36841556) - [American universities have an incentive to seem extortionate](https://www.economist.com/united-states/2023/07/23/american-universities-have-an-incentive-to-seem-extortionate)
 * [2023-07-24, 00:01:48](https://news.ycombinator.com/item?id=36841369) - [U.S. Senate bill crafted with DEA targets end-to-end encryption](https://therecord.media/senate-dea-bill-targets-end-to-end-encryption-requires-companies-to-report-drugs)
 * [2023-07-23, 23:48:32](https://news.ycombinator.com/item?id=36841272) - [VirtualBox 7.0.10 download links have disappeared](https://web.archive.org/web/20230723100307/https://www.virtualbox.org/wiki/Downloads)
 * [2023-07-23, 23:40:51](https://news.ycombinator.com/item?id=36841211) - [How Will Language Modelers Like ChatGPT Affect Occupations and Industries?](https://arxiv.org/abs/2303.01157)
@@ -23,6 +22,7 @@
 * [2023-07-23, 14:38:22](https://news.ycombinator.com/item?id=36835735) - [The night an audience member filled in for Keith Moon (2016)](https://www.loudersound.com/features/what-happened-the-night-an-audience-member-filled-in-for-keith-moon)
 * [2023-07-23, 12:30:30](https://news.ycombinator.com/item?id=36834732) - [Show HN: I made a customizable iOS browser for minimalists and myself](https://apps.apple.com/us/app/quiche-browser/id1668363952)
 * [2023-07-23, 03:22:26](https://news.ycombinator.com/item?id=36832293) - [Fossil shows mammal sinking teeth into dinosaur](https://www.theguardian.com/science/2023/jul/18/mesozoic-fossil-dinosaur-mammal-fight)
+* [2023-07-22, 12:02:13](https://news.ycombinator.com/item?id=36825496) - [Draft No. 4 (2013)](https://www.newyorker.com/magazine/2013/04/29/draft-no-4)
 * [2023-07-22, 02:20:37](https://news.ycombinator.com/item?id=36822542) - [Analysis of whether unit testing obviates static type checking (2012)](http://evanfarrer.blogspot.com/2012/06/unit-testing-isnt-enough-you-need.html)
 * [2023-07-22, 02:10:40](https://news.ycombinator.com/item?id=36822484) - [Research reveals the scale of disorder underpinning motor neuron disease](https://medicalxpress.com/news/2023-07-reveals-scale-disorder-underpinning-motor.html)
 * [2023-07-22, 01:40:32](https://news.ycombinator.com/item?id=36822329) - [Computational Complexity of Texture Encoding](https://fgiesen.wordpress.com/2023/07/21/computational-complexity-of-texture-encoding/)
