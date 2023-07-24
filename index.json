@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-07-24, 16:43:29",
-      "https://news.ycombinator.com/item?id=36850781"
-    ],
-    [
-      "Revealed: Media Blitz Against Heat Pumps Funded by Gas Lobby Group",
-      "https://www.desmog.com/2023/07/20/revealed-media-blitz-against-heat-pumps-funded-by-gas-lobby-group/"
-    ]
-  ],
-  [
-    [
       "2023-07-24, 16:28:07",
       "https://news.ycombinator.com/item?id=36850535"
     ],
@@ -31,12 +21,12 @@
   ],
   [
     [
-      "2023-07-24, 15:55:51",
-      "https://news.ycombinator.com/item?id=36849988"
+      "2023-07-24, 16:03:03",
+      "https://news.ycombinator.com/item?id=36850111"
     ],
     [
-      "X, the moonshot factory",
-      "https://x.company/"
+      "40 years ago yesterday Air Canada Flight 143 ran out of fuel mid-flight",
+      "https://www.damninteresting.com/the-gimli-glider/"
     ]
   ],
   [
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=36849784"
     ],
     [
-      "You Don't Know Jack about Application Performance",
+      "How capacity planners credibly estimate application performance",
       "https://queue.acm.org/detail.cfm?id=3595862"
     ]
   ],
@@ -155,7 +145,7 @@
       "https://news.ycombinator.com/item?id=36846965"
     ],
     [
-      "Ask HN: Which recently research paper blow your mind?",
+      "Ask HN: Which recent research paper blew your mind?",
       "https://news.ycombinator.com/item?id=36846965"
     ]
   ],
@@ -197,6 +187,16 @@
     [
       "Researchers Find ‘Backdoor’ in Encrypted Police and Military Radios",
       "https://www.vice.com/en/article/4a3n3j/backdoor-in-police-radios-tetra-burst"
+    ]
+  ],
+  [
+    [
+      "2023-07-24, 11:35:35",
+      "https://news.ycombinator.com/item?id=36846195"
+    ],
+    [
+      "The IBM mainframe: How it runs and why it survives",
+      "https://arstechnica.com/information-technology/2023/07/the-ibm-mainframe-how-it-runs-and-why-it-survives/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=36821985"
     ],
     [
-      "C89 compiler produces printable executables from C code [pdf]",
+      "C89 compiler produces printable executables from C code [pdf] (2017)",
       "http://www.cs.cmu.edu/~tom7/abc/paper.pdf"
     ]
   ]
