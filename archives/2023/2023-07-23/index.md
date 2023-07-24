@@ -44,6 +44,7 @@
 * [2023-07-23, 15:23:11](https://news.ycombinator.com/item?id=36836189) - [Ask HN: Why do web sites not place the cursor for input?](https://news.ycombinator.com/item?id=36836189)
 * [2023-07-23, 15:05:39](https://news.ycombinator.com/item?id=36836020) - [Debian vs. Yocto for Embedded Systems](https://www.bytesnap.com/news-blog/debian-vs-yocto-for-embedded-systems/)
 * [2023-07-23, 14:57:25](https://news.ycombinator.com/item?id=36835933) - [Don't Learn Value from Society](https://www.palladiummag.com/2023/07/13/dont-learn-your-values-from-society/)
+* [2023-07-23, 14:54:20](https://news.ycombinator.com/item?id=36835900) - [Can you understand bird? Test your recognition of calls and songs](https://www.nytimes.com/interactive/2023/07/21/science/bird-calls-songs-quiz.html)
 * [2023-07-23, 14:38:22](https://news.ycombinator.com/item?id=36835735) - [What Happened the Night an Audience Member Filled in for Keith Moon (2016)](https://www.loudersound.com/features/what-happened-the-night-an-audience-member-filled-in-for-keith-moon)
 * [2023-07-23, 14:24:48](https://news.ycombinator.com/item?id=36835571) - [‘Training My Replacement’: Inside a Call Center Worker’s Battle with A.I](https://www.nytimes.com/2023/07/19/business/call-center-workers-battle-with-ai.html)
 * [2023-07-23, 14:23:52](https://news.ycombinator.com/item?id=36835566) - [The Great 440 Hz Conspiracy, and Why All of Our Music Is Wrong](https://globalnews.ca/news/4194106/440-hz-conspiracy-music/)
