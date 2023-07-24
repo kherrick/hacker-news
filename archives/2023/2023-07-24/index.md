@@ -12,6 +12,7 @@
 * [2023-07-24, 13:40:59](https://news.ycombinator.com/item?id=36847831) - [Reviving an IBM RS/6000 Workstation](https://twitter.com/tubetimeus/status/1671654843138854912)
 * [2023-07-24, 13:23:07](https://news.ycombinator.com/item?id=36847600) - [Israeli parliament passes law to limit judicial power](https://www.nytimes.com/live/2023/07/24/world/israel-protests-vote)
 * [2023-07-24, 13:21:19](https://news.ycombinator.com/item?id=36847569) - [Launch HN: Artie (YC S23) – Real time data replication to data warehouses](https://news.ycombinator.com/item?id=36847569)
+* [2023-07-24, 13:11:27](https://news.ycombinator.com/item?id=36847413) - [Transparent field level encryption for Django with pgcrypto PostgreSQL extension](https://github.com/incuna/django-pgcrypto-fields)
 * [2023-07-24, 12:58:04](https://news.ycombinator.com/item?id=36847258) - [SVG Chromium bug is more than 10 years old](https://bugs.chromium.org/p/chromium/issues/detail?id=109212)
 * [2023-07-24, 12:48:33](https://news.ycombinator.com/item?id=36847133) - [Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/doc/userman.md)
 * [2023-07-24, 12:34:25](https://news.ycombinator.com/item?id=36846965) - [Ask HN: Which recently research paper blow your mind?](https://news.ycombinator.com/item?id=36846965)
