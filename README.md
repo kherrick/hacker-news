@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-24, 22:50:11](https://news.ycombinator.com/item?id=36855342) - [Microsoft Owns the Trademark for “X”](https://tsdr.uspto.gov/#caseNumber=2693757&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch)
+* [2023-07-24, 22:40:46](https://news.ycombinator.com/item?id=36855252) - [Theo de Raadt on Zenbleed](https://undeadly.org/cgi?action=article;sid=20230724224011)
 * [2023-07-24, 22:38:39](https://news.ycombinator.com/item?id=36855236) - [Cephalopods use RNA editing to modify their nervous sytems](https://pubmed.ncbi.nlm.nih.gov/28388405/)
 * [2023-07-24, 21:15:57](https://news.ycombinator.com/item?id=36854299) - [Bringing code analysis tools to Jupyter notebooks](https://www.amazon.science/blog/bringing-code-analysis-tools-to-jupyter-notebooks)
 * [2023-07-24, 21:01:27](https://news.ycombinator.com/item?id=36854138) - [Better code highlighting on the web: rehype-tree-sitter](https://haz.ee/technical/rehype-tree-sitter/)
@@ -18,7 +19,6 @@
 * [2023-07-24, 17:43:37](https://news.ycombinator.com/item?id=36851644) - [Have attention spans been declining?](https://slimemoldtimemold.com/2023/07/24/your-mystery-have-attention-spans-been-declining/)
 * [2023-07-24, 17:33:06](https://news.ycombinator.com/item?id=36851494) - [Attention Is Off By One](https://www.evanmiller.org/attention-is-off-by-one.html)
 * [2023-07-24, 17:01:05](https://news.ycombinator.com/item?id=36851054) - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.workatastartup.com/jobs/61922/)
-* [2023-07-24, 16:29:01](https://news.ycombinator.com/item?id=36850554) - [Text-to-Video-Synthesis-Colab](https://github.com/camenduru/text-to-video-synthesis-colab)
 * [2023-07-24, 16:03:03](https://news.ycombinator.com/item?id=36850111) - [40 years ago yesterday Air Canada Flight 143 ran out of fuel mid-flight](https://www.damninteresting.com/the-gimli-glider/)
 * [2023-07-24, 15:42:25](https://news.ycombinator.com/item?id=36849784) - [How capacity planners credibly estimate application performance](https://queue.acm.org/detail.cfm?id=3595862)
 * [2023-07-24, 15:25:06](https://news.ycombinator.com/item?id=36849502) - [Show HN: I spent 2 years building a personal finance simulator](https://projectionlab.com/)

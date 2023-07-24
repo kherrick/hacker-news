@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-24](index.md)
 
 * [2023-07-24, 22:50:11](https://news.ycombinator.com/item?id=36855342) - [Microsoft Owns the Trademark for “X”](https://tsdr.uspto.gov/#caseNumber=2693757&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch)
+* [2023-07-24, 22:40:46](https://news.ycombinator.com/item?id=36855252) - [Theo de Raadt on Zenbleed](https://undeadly.org/cgi?action=article;sid=20230724224011)
 * [2023-07-24, 22:38:39](https://news.ycombinator.com/item?id=36855236) - [Cephalopods use RNA editing to modify their nervous sytems](https://pubmed.ncbi.nlm.nih.gov/28388405/)
 * [2023-07-24, 22:14:10](https://news.ycombinator.com/item?id=36854969) - [Sam Altman demands regulation in effort to limit competition](https://www.theatlantic.com/magazine/archive/2023/09/sam-altman-openai-chatgpt-gpt-4/674764/)
 * [2023-07-24, 21:15:57](https://news.ycombinator.com/item?id=36854299) - [Bringing code analysis tools to Jupyter notebooks](https://www.amazon.science/blog/bringing-code-analysis-tools-to-jupyter-notebooks)
