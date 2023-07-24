@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=36842239"
     ],
     [
-      "The “Three Things” Exercise for getting things out of talks",
+      "The “three things” exercise for getting things out of talks (2011)",
       "https://math.stanford.edu/~vakil/threethings.html"
     ]
   ],
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=36841798"
     ],
     [
-      "Welcome Debian riscv64",
+      "Debian riscv64",
       "https://blog.aurel32.net/welcome-debian-riscv64.html"
     ]
   ],
@@ -71,12 +71,32 @@
   ],
   [
     [
+      "2023-07-23, 22:37:20",
+      "https://news.ycombinator.com/item?id=36840674"
+    ],
+    [
+      "Young people are flocking to astrology",
+      "https://www.washingtonpost.com/lifestyle/2023/06/13/astrology-millennials-gen-z-science/"
+    ]
+  ],
+  [
+    [
       "2023-07-23, 21:57:30",
       "https://news.ycombinator.com/item?id=36840282"
     ],
     [
       "Why Frames Tilt Forward (2015)",
       "https://chcollins.com/100Billion/2015/02/why-frames-tilt-forward/"
+    ]
+  ],
+  [
+    [
+      "2023-07-23, 21:38:27",
+      "https://news.ycombinator.com/item?id=36840127"
+    ],
+    [
+      "I claim Rich Hickey is wrong about non-null arguments to functions (2020)",
+      "https://blog.jonstodle.com/in-which-i-claim-rich-hickey-is-wrong/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-07-23, 16:15:26",
-      "https://news.ycombinator.com/item?id=36836729"
-    ],
-    [
-      "SICP in JavaScript",
-      "https://sourceacademy.org/sicpjs/index"
-    ]
-  ],
-  [
-    [
       "2023-07-23, 16:07:40",
       "https://news.ycombinator.com/item?id=36836639"
     ],
@@ -221,32 +231,22 @@
   ],
   [
     [
+      "2023-07-23, 02:59:36",
+      "https://news.ycombinator.com/item?id=36832191"
+    ],
+    [
+      "Gustave Moreau stunned the 19th-century art world with his mystical paintings",
+      "https://www.thecollector.com/gustave-moreau-paintings/"
+    ]
+  ],
+  [
+    [
       "2023-07-22, 02:20:37",
       "https://news.ycombinator.com/item?id=36822542"
     ],
     [
       "Analysis of whether unit testing obviates static type checking (2012)",
       "http://evanfarrer.blogspot.com/2012/06/unit-testing-isnt-enough-you-need.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-22, 02:10:40",
-      "https://news.ycombinator.com/item?id=36822484"
-    ],
-    [
-      "Research reveals the scale of disorder underpinning motor neuron disease",
-      "https://medicalxpress.com/news/2023-07-reveals-scale-disorder-underpinning-motor.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-22, 01:40:32",
-      "https://news.ycombinator.com/item?id=36822329"
-    ],
-    [
-      "Computational Complexity of Texture Encoding",
-      "https://fgiesen.wordpress.com/2023/07/21/computational-complexity-of-texture-encoding/"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=36821123"
     ],
     [
-      "Stone Walls and Historical Harbors Are Unexpected Havens of Biodiversity",
+      "Stone walls and historical harbors are unexpected havens of biodiversity",
       "https://hakaimagazine.com/news/stone-walls-and-historical-harbors-are-unexpected-havens-of-biodiversity/"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=36809994"
     ],
     [
-      "A Surprising Dearth of Spectacled Bears",
+      "A surprising dearth of spectacled bears",
       "https://www.laphamsquarterly.org/roundtable/surprising-dearth-spectacled-bears"
     ]
   ]
