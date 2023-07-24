@@ -10,6 +10,7 @@
 * [2023-07-24, 12:08:43](https://news.ycombinator.com/item?id=36846597) - [Nat Types](https://www.roxlu.com/2021/070/nat-types)
 * [2023-07-24, 12:07:00](https://news.ycombinator.com/item?id=36846567) - [Changing the Android captive portal page](https://www.encrypted.at/android-captive-portal/)
 * [2023-07-24, 12:02:50](https://news.ycombinator.com/item?id=36846520) - [Driver.js: Product tours, highlights, contextual help and more](https://driverjs.com/)
+* [2023-07-24, 11:38:56](https://news.ycombinator.com/item?id=36846242) - [Researchers Find ‘Backdoor’ in Encrypted Police and Military Radios](https://www.vice.com/en/article/4a3n3j/backdoor-in-police-radios-tetra-burst)
 * [2023-07-24, 11:35:35](https://news.ycombinator.com/item?id=36846195) - [The IBM mainframe: How it runs and why it survives](https://arstechnica.com/information-technology/2023/07/the-ibm-mainframe-how-it-runs-and-why-it-survives/)
 * [2023-07-24, 11:22:13](https://news.ycombinator.com/item?id=36846076) - [Unicode Character “𝕏” (U+1D54F)](https://www.compart.com/en/unicode/U+1D54F)
 * [2023-07-24, 10:45:26](https://news.ycombinator.com/item?id=36845714) - [The Unreasonable Effectiveness of Sequence Diagrams in MermaidJS](https://jessems.com/posts/2023-07-22-the-unreasonable-effectiveness-of-sequence-diagrams-in-mermaidjs)
