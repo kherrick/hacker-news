@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-24](index.md)
 
 * [2023-07-24, 05:51:38](https://news.ycombinator.com/item?id=36843572) - [Ubisoft account -including games- can be permanently deleted for inactivity](https://www.pcgamer.com/your-ubisoft-account-can-be-suspended-and-subsequently-permanently-deleted-for-inactivity-taking-your-games-library-with-it/)
+* [2023-07-24, 05:41:52](https://news.ycombinator.com/item?id=36843514) - [Kareem Abdul-Jabbar: Bruce Lee and Me](https://kareem.substack.com/p/bruce-lee-and-me)
 * [2023-07-24, 05:14:08](https://news.ycombinator.com/item?id=36843355) - [X.com (2000)](https://web.archive.org/web/20000301045908/http://x.com:80/)
 * [2023-07-24, 04:34:00](https://news.ycombinator.com/item?id=36843136) - [Optimism, Hubris, and Strategic Misrepresentation](https://albertcory50.substack.com/p/optimism-hubris-and-strategic-misrepresentation)
 * [2023-07-24, 04:07:41](https://news.ycombinator.com/item?id=36843032) - [History vs. Hollywood: Oppenheimer](https://www.historyvshollywood.com/reelfaces/oppenheimer/)
