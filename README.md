@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-24, 21:15:57](https://news.ycombinator.com/item?id=36854299) - [Bringing code analysis tools to Jupyter notebooks](https://www.amazon.science/blog/bringing-code-analysis-tools-to-jupyter-notebooks)
 * [2023-07-24, 21:01:27](https://news.ycombinator.com/item?id=36854138) - [Better code highlighting on the web: rehype-tree-sitter](https://haz.ee/technical/rehype-tree-sitter/)
 * [2023-07-24, 20:59:37](https://news.ycombinator.com/item?id=36854114) - [Google’s nightmare “Web Integrity API” wants a DRM gatekeeper for the web](https://arstechnica.com/gadgets/2023/07/googles-web-integrity-api-sounds-like-drm-for-the-web/)
 * [2023-07-24, 20:54:23](https://news.ycombinator.com/item?id=36854061) - [People in 1920s Berlin Nightclubs Flirted via Pneumatic Tubes](https://www.atlasobscura.com/articles/pneumatic-tube-table-phone-flirting-berlin)
@@ -12,7 +13,6 @@
 * [2023-07-24, 18:22:37](https://news.ycombinator.com/item?id=36852231) - [Elixir is still safe](https://paraxial.io/blog/still-safe)
 * [2023-07-24, 18:03:02](https://news.ycombinator.com/item?id=36851930) - [Text Embeddings Reveal (Almost) as Much as Text](https://openreview.net/forum?id=wK7wUdiM5g0)
 * [2023-07-24, 17:43:37](https://news.ycombinator.com/item?id=36851644) - [Have attention spans been declining?](https://slimemoldtimemold.com/2023/07/24/your-mystery-have-attention-spans-been-declining/)
-* [2023-07-24, 17:33:52](https://news.ycombinator.com/item?id=36851505) - [Meta-Transformer: A unified framework for multimodal learning](https://kxgong.github.io/meta_transformer/)
 * [2023-07-24, 17:33:06](https://news.ycombinator.com/item?id=36851494) - [Attention Is Off By One](https://www.evanmiller.org/attention-is-off-by-one.html)
 * [2023-07-24, 17:01:05](https://news.ycombinator.com/item?id=36851054) - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.workatastartup.com/jobs/61922/)
 * [2023-07-24, 16:29:01](https://news.ycombinator.com/item?id=36850554) - [Text-to-Video-Synthesis-Colab](https://github.com/camenduru/text-to-video-synthesis-colab)
