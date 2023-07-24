@@ -92,3 +92,4 @@
 * [2023-07-22, 00:24:52](https://news.ycombinator.com/item?id=36821871) - [Using Prolog in Windows NT Network Configuration (1996)](https://web.archive.org/web/20030218034509/http://www.research.microsoft.com/research/dtg/davidhov/pap.htm)
 * [2023-07-22, 00:23:40](https://news.ycombinator.com/item?id=36821861) - [Employees Bid on Anchor Brewery](https://vinepair.com/booze-news/anchor-employees-brewery-takeover-bid/)
 * [2023-07-22, 00:15:32](https://news.ycombinator.com/item?id=36821808) - [Death Metal English (2013)](https://www.invisibleoranges.com/death-metal-english/)
+* [2023-07-22, 00:06:45](https://news.ycombinator.com/item?id=36821736) - [From UUID to Infinite Loops (2015)](https://susam.net/blog/from-uuid-to-infinite-loops.html)
