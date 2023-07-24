@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-24](index.md)
 
 * [2023-07-24, 14:11:52](https://news.ycombinator.com/item?id=36848305) - [Cash Amnesia](https://www.gsb.stanford.edu/insights/indulging-guilty-pleasure-dont-put-it-card)
+* [2023-07-24, 13:55:08](https://news.ycombinator.com/item?id=36848037) - [Atari Has Launched Collectible Arcade Circuit Boards of Retro Classics](https://retrododo.com/atari-collectible-arcade-circuit-boards/)
 * [2023-07-24, 13:49:08](https://news.ycombinator.com/item?id=36847960) - [Show HN: I built a transit travel time map](https://map.henryn.xyz)
 * [2023-07-24, 13:48:37](https://news.ycombinator.com/item?id=36847958) - [The Mathematical Universe Hypothesis](https://arxiv.org/abs/0704.0646)
 * [2023-07-24, 13:40:59](https://news.ycombinator.com/item?id=36847831) - [Reviving an IBM RS/6000 Workstation](https://twitter.com/tubetimeus/status/1671654843138854912)

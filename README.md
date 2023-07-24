@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-24, 14:11:52](https://news.ycombinator.com/item?id=36848305) - [Cash Amnesia](https://www.gsb.stanford.edu/insights/indulging-guilty-pleasure-dont-put-it-card)
+* [2023-07-24, 13:55:08](https://news.ycombinator.com/item?id=36848037) - [Atari Has Launched Collectible Arcade Circuit Boards of Retro Classics](https://retrododo.com/atari-collectible-arcade-circuit-boards/)
 * [2023-07-24, 13:49:08](https://news.ycombinator.com/item?id=36847960) - [Show HN: I built a transit travel time map](https://map.henryn.xyz)
 * [2023-07-24, 13:48:37](https://news.ycombinator.com/item?id=36847958) - [The Mathematical Universe Hypothesis](https://arxiv.org/abs/0704.0646)
 * [2023-07-24, 13:40:59](https://news.ycombinator.com/item?id=36847831) - [Reviving an IBM RS/6000 Workstation](https://twitter.com/tubetimeus/status/1671654843138854912)
@@ -27,7 +28,6 @@
 * [2023-07-22, 07:30:07](https://news.ycombinator.com/item?id=36824181) - [A Heap O' Livin'](https://www.buckleyschool.com/magazine/articles/poem-to-read-aloud-a-heap-o-livin/)
 * [2023-07-22, 04:56:56](https://news.ycombinator.com/item?id=36823421) - [Poisons and Perils on the Salton Sea](https://www.scientificamerican.com/podcast/episode/poisons-and-perils-on-the-salton-sea/)
 * [2023-07-22, 02:52:00](https://news.ycombinator.com/item?id=36822712) - [Thoughts on the fading away of the age of IE](https://medium.com/@socrateslee/thoughts-on-the-fading-away-of-the-age-of-ie-a57cc5c165fc)
-* [2023-07-22, 02:40:32](https://news.ycombinator.com/item?id=36822656) - [Insights into designing advanced stimuli-responsive porous materials](https://phys.org/news/2023-07-insights-advanced-stimuli-responsive-porous-materials.html)
 * [2023-07-22, 00:42:20](https://news.ycombinator.com/item?id=36821985) - [C89 compiler produces printable executables from C code [pdf]](http://www.cs.cmu.edu/~tom7/abc/paper.pdf)
 * [2023-07-22, 00:15:32](https://news.ycombinator.com/item?id=36821808) - [Death Metal English (2013)](https://www.invisibleoranges.com/death-metal-english/)
 
