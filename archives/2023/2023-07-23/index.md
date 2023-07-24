@@ -14,6 +14,7 @@
 * [2023-07-23, 21:01:32](https://news.ycombinator.com/item?id=36839800) - [Never run ldd on unknown executables](https://catonmat.net/ldd-arbitrary-code-execution)
 * [2023-07-23, 20:09:20](https://news.ycombinator.com/item?id=36839284) - [Modeling Bitcoin Value with Vibes. This model has an R² of 0.97](https://allenfarrington.medium.com/modeling-bitcoin-value-with-vibes-99eca0997c5f)
 * [2023-07-23, 19:43:45](https://news.ycombinator.com/item?id=36838994) - [PLJS – JavaScript Language Plugin for PostreSQL](https://github.com/plv8/pljs)
+* [2023-07-23, 19:24:16](https://news.ycombinator.com/item?id=36838750) - [The persistence of the Saturday Evening Post (2021)](https://www.cjr.org/special_report/great-magazines-saturday-evening-post.php)
 * [2023-07-23, 19:19:37](https://news.ycombinator.com/item?id=36838712) - [Ask HN: Which distro do you use? (2023)](https://news.ycombinator.com/item?id=36838712)
 * [2023-07-23, 18:59:27](https://news.ycombinator.com/item?id=36838511) - [OpenBSD: AMD processor microcode support added to -current](https://undeadly.org/cgi?action=article;sid=20230723185853)
 * [2023-07-23, 18:40:21](https://news.ycombinator.com/item?id=36838297) - [How, Mathematically, We’re Fucked: Exponential growth on a finite planet](https://indica.medium.com/how-mathematically-were-fucked-c5c2e5158898)
