@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2023-07-23, 18:59:27",
-      "https://news.ycombinator.com/item?id=36838511"
-    ],
-    [
-      "OpenBSD: AMD processor microcode support added to -current",
-      "https://undeadly.org/cgi?action=article;sid=20230723185853"
-    ]
-  ],
-  [
-    [
       "2023-07-23, 18:13:54",
       "https://news.ycombinator.com/item?id=36838051"
     ],
@@ -207,6 +197,16 @@
     [
       "Icon Buddy – 100K+ Open Source SVG Icons, Fully Customizable",
       "https://iconbuddy.app/"
+    ]
+  ],
+  [
+    [
+      "2023-07-23, 16:03:31",
+      "https://news.ycombinator.com/item?id=36836596"
+    ],
+    [
+      "Show HN: I made a MailChimp alternative that connects to your database",
+      "https://cc.dev"
     ]
   ],
   [
@@ -237,6 +237,16 @@
     [
       "Thoughts on the fading away of the age of IE",
       "https://medium.com/@socrateslee/thoughts-on-the-fading-away-of-the-age-of-ie-a57cc5c165fc"
+    ]
+  ],
+  [
+    [
+      "2023-07-22, 01:40:32",
+      "https://news.ycombinator.com/item?id=36822329"
+    ],
+    [
+      "Computational Complexity of Texture Encoding",
+      "https://fgiesen.wordpress.com/2023/07/21/computational-complexity-of-texture-encoding/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Stone walls and historical harbors are unexpected havens of biodiversity",
       "https://hakaimagazine.com/news/stone-walls-and-historical-harbors-are-unexpected-havens-of-biodiversity/"
-    ]
-  ],
-  [
-    [
-      "2023-07-21, 22:04:57",
-      "https://news.ycombinator.com/item?id=36820544"
-    ],
-    [
-      "High-Performance server for NATS.io, the cloud and edge native messaging system",
-      "https://github.com/nats-io/nats-server"
     ]
   ],
   [
