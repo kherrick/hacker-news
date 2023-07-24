@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2023-07-24, 13:11:27",
+      "https://news.ycombinator.com/item?id=36847413"
+    ],
+    [
+      "Transparent field level encryption for Django with pgcrypto PostgreSQL extension",
+      "https://github.com/incuna/django-pgcrypto-fields"
+    ]
+  ],
+  [
+    [
       "2023-07-24, 12:58:04",
       "https://news.ycombinator.com/item?id=36847258"
     ],
@@ -227,16 +237,6 @@
     [
       "Debian riscv64",
       "https://blog.aurel32.net/welcome-debian-riscv64.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-24, 00:01:48",
-      "https://news.ycombinator.com/item?id=36841369"
-    ],
-    [
-      "U.S. Senate bill crafted with DEA targets end-to-end encryption",
-      "https://therecord.media/senate-dea-bill-targets-end-to-end-encryption-requires-companies-to-report-drugs"
     ]
   ],
   [
