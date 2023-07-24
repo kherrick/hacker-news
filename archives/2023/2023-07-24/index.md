@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-24](index.md)
 
+* [2023-07-24, 23:30:53](https://news.ycombinator.com/item?id=36855657) - [Trademark “X” for social media owned by Meta](https://tsdr.uspto.gov/#caseNumber=87980831&caseType=SERIAL_NO&searchType=statusSearch)
+* [2023-07-24, 22:58:40](https://news.ycombinator.com/item?id=36855413) - [JSON Feed: An Atom/RSS feed alternative](https://www.jsonfeed.org/)
 * [2023-07-24, 22:50:11](https://news.ycombinator.com/item?id=36855342) - [Microsoft Owns the Trademark for “X”](https://tsdr.uspto.gov/#caseNumber=2693757&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch)
 * [2023-07-24, 22:40:46](https://news.ycombinator.com/item?id=36855252) - [Theo de Raadt on Zenbleed](https://undeadly.org/cgi?action=article;sid=20230724224011)
 * [2023-07-24, 22:38:39](https://news.ycombinator.com/item?id=36855236) - [Cephalopods use RNA editing to modify their nervous sytems](https://pubmed.ncbi.nlm.nih.gov/28388405/)
