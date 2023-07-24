@@ -16,6 +16,7 @@
 * [2023-07-24, 13:49:08](https://news.ycombinator.com/item?id=36847960) - [Show HN: I built a transit travel time map](https://map.henryn.xyz)
 * [2023-07-24, 13:48:37](https://news.ycombinator.com/item?id=36847958) - [The Mathematical Universe Hypothesis (2007)](https://arxiv.org/abs/0704.0646)
 * [2023-07-24, 13:21:19](https://news.ycombinator.com/item?id=36847569) - [Launch HN: Artie (YC S23) – Real time data replication to data warehouses](https://news.ycombinator.com/item?id=36847569)
+* [2023-07-24, 13:11:27](https://news.ycombinator.com/item?id=36847413) - [Transparent field level encryption for Django with pgcrypto PostgreSQL extension](https://github.com/incuna/django-pgcrypto-fields)
 * [2023-07-24, 12:48:33](https://news.ycombinator.com/item?id=36847133) - [Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/doc/userman.md)
 * [2023-07-24, 12:34:25](https://news.ycombinator.com/item?id=36846965) - [Ask HN: Which recent research paper blew your mind?](https://news.ycombinator.com/item?id=36846965)
 * [2023-07-24, 12:08:43](https://news.ycombinator.com/item?id=36846597) - [Nat Types](https://www.roxlu.com/2021/070/nat-types)
@@ -29,7 +30,6 @@
 * [2023-07-23, 14:54:20](https://news.ycombinator.com/item?id=36835900) - [Can you understand bird? Test your recognition of calls and songs](https://www.nytimes.com/interactive/2023/07/21/science/bird-calls-songs-quiz.html)
 * [2023-07-23, 06:24:41](https://news.ycombinator.com/item?id=36833017) - [The genetic architecture and evolution of the human skeletal form](https://www.science.org/doi/10.1126/science.adf8009)
 * [2023-07-22, 05:53:05](https://news.ycombinator.com/item?id=36823673) - [How to stay safe and happy on an electric unicycle](https://wmay.github.io/euc-safety/)
-* [2023-07-22, 00:42:20](https://news.ycombinator.com/item?id=36821985) - [C89 compiler produces printable executables from C code [pdf] (2017)](http://www.cs.cmu.edu/~tom7/abc/paper.pdf)
 
 ## [Archives](archives/index.md)
 
