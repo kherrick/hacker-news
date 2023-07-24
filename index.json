@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-24, 17:36:11",
+      "https://news.ycombinator.com/item?id=36851535"
+    ],
+    [
+      "Apple Vision Pro developer kit",
+      "https://developer.apple.com/visionos/developer-kit/"
+    ]
+  ],
+  [
+    [
       "2023-07-24, 17:01:05",
       "https://news.ycombinator.com/item?id=36851054"
     ],
@@ -137,16 +147,6 @@
     [
       "Transparent field level encryption for Django with pgcrypto PostgreSQL extension",
       "https://github.com/incuna/django-pgcrypto-fields"
-    ]
-  ],
-  [
-    [
-      "2023-07-24, 12:58:04",
-      "https://news.ycombinator.com/item?id=36847258"
-    ],
-    [
-      "SVG Chromium bug is more than 10 years old",
-      "https://bugs.chromium.org/p/chromium/issues/detail?id=109212"
     ]
   ],
   [
