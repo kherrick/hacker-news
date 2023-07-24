@@ -14,6 +14,7 @@
 * [2023-07-24, 20:06:26](https://news.ycombinator.com/item?id=36853495) - [Python: Uncovering the Overlooked Core Functionalities](https://erikvandeven.medium.com/python-uncovering-the-overlooked-core-functionalities-54590420c225)
 * [2023-07-24, 19:41:16](https://news.ycombinator.com/item?id=36853220) - [Leslie Lamport’s, proof distributed physical clocks can preserve causality](https://percisely.xyz/syncronicity)
 * [2023-07-24, 19:39:38](https://news.ycombinator.com/item?id=36853207) - [Show HN: Browser extension replacing the X with the original Twitter logo](https://github.com/emvi/xbegone)
+* [2023-07-24, 19:39:34](https://news.ycombinator.com/item?id=36853206) - [The Algorithmic Beauty of Plants [pdf]](http://algorithmicbotany.org/papers/abop/abop.pdf)
 * [2023-07-24, 19:37:37](https://news.ycombinator.com/item?id=36853184) - [Electric Y Combinator – Electric Clojure](https://dustingetz.electricfiddle.net/electric-fiddle.essay!Essay/electric-y-combinator)
 * [2023-07-24, 19:35:32](https://news.ycombinator.com/item?id=36853166) - [Intel Advanced Performance Extensions (Intel APX)](https://www.intel.com/content/www/us/en/developer/articles/technical/advanced-performance-extensions-apx.html)
 * [2023-07-24, 19:18:26](https://news.ycombinator.com/item?id=36852971) - [A simple guide to fine-tuning Llama 2](https://brev.dev/blog/fine-tuning-llama-2)

@@ -8,6 +8,7 @@
 * [2023-07-24, 20:11:24](https://news.ycombinator.com/item?id=36853565) - [Wind and Solar Will Be 25% of Total U.S. Generating Capacity Within Three Years](https://electricenergyonline.com/article/energy/category/climate-change/82/1033617/wind-solar-will-be-25-of-total-u-s-generating-capacity-within-three-years-as-they-grow-by-over-100-gw-.html)
 * [2023-07-24, 20:06:26](https://news.ycombinator.com/item?id=36853495) - [Python: Overlooked core functionalities](https://erikvandeven.medium.com/python-uncovering-the-overlooked-core-functionalities-54590420c225)
 * [2023-07-24, 19:41:16](https://news.ycombinator.com/item?id=36853220) - [Time, Clocks, and the Ordering of Events in a Distributed System – Paper Review](https://percisely.xyz/syncronicity)
+* [2023-07-24, 19:39:34](https://news.ycombinator.com/item?id=36853206) - [The Algorithmic Beauty of Plants [pdf]](http://algorithmicbotany.org/papers/abop/abop.pdf)
 * [2023-07-24, 19:37:37](https://news.ycombinator.com/item?id=36853184) - [Electric Y Combinator – Electric Clojure](https://dustingetz.electricfiddle.net/electric-fiddle.essay!Essay/electric-y-combinator)
 * [2023-07-24, 19:18:26](https://news.ycombinator.com/item?id=36852971) - [A simple guide to fine-tuning Llama 2](https://brev.dev/blog/fine-tuning-llama-2)
 * [2023-07-24, 18:22:37](https://news.ycombinator.com/item?id=36852231) - [Elixir is still safe](https://paraxial.io/blog/still-safe)
@@ -29,7 +30,6 @@
 * [2023-07-23, 14:54:20](https://news.ycombinator.com/item?id=36835900) - [Can you understand bird? Test your recognition of calls and songs](https://www.nytimes.com/interactive/2023/07/21/science/bird-calls-songs-quiz.html)
 * [2023-07-23, 09:45:21](https://news.ycombinator.com/item?id=36833851) - [Threads and Goroutines](https://shane.ai/posts/threads-and-goroutines/)
 * [2023-07-23, 06:24:41](https://news.ycombinator.com/item?id=36833017) - [The genetic architecture and evolution of the human skeletal form](https://www.science.org/doi/10.1126/science.adf8009)
-* [2023-07-23, 06:20:21](https://news.ycombinator.com/item?id=36832999) - [The Secret Economics of the Birkin Bag](https://businessday.ng/life-arts/article/the-secret-economics-of-the-birkin-bag/)
 
 ## [Archives](archives/index.md)
 
