@@ -76,6 +76,7 @@
 * [2023-07-22, 05:20:10](https://news.ycombinator.com/item?id=36823524) - [Electrocaloric Heat Pumps](https://www.fraunhofer.de/en/research/lighthouse-projects-fraunhofer-initiatives/fraunhofer-lighthouse-projects/elkawe.html)
 * [2023-07-22, 05:18:37](https://news.ycombinator.com/item?id=36823516) - [AWS Networking Concepts in a Diagram](https://miparnisariblog.wordpress.com/2023/03/29/aws-networking-concepts/)
 * [2023-07-22, 04:58:26](https://news.ycombinator.com/item?id=36823424) - [Climate records tumble, leaving Earth in uncharted territory – scientists](https://www.bbc.co.uk/news/science-environment-66229065)
+* [2023-07-22, 04:56:56](https://news.ycombinator.com/item?id=36823421) - [Poisons and Perils on the Salton Sea](https://www.scientificamerican.com/podcast/episode/poisons-and-perils-on-the-salton-sea/)
 * [2023-07-22, 04:47:24](https://news.ycombinator.com/item?id=36823375) - [What we talk about when we talk about System Design](https://maheshba.bitbucket.io/blog/2023/07/12/Design.html)
 * [2023-07-22, 04:13:36](https://news.ycombinator.com/item?id=36823175) - [An analysis of conspiracy promotor Russell Brand](https://www.prospectmagazine.co.uk/ideas/technology/internet/61724/tarnished-brand)
 * [2023-07-22, 03:40:43](https://news.ycombinator.com/item?id=36823007) - [Compromised Microsoft Key: More Impactful Than We Thought](https://www.wiz.io/blog/storm-0558-compromised-microsoft-key-enables-authentication-of-countless-micr)
