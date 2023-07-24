@@ -64,6 +64,7 @@
 * [2023-07-23, 11:33:57](https://news.ycombinator.com/item?id=36834415) - [A man who won the lottery 14 times](https://thehustle.co/the-man-who-won-the-lottery-14-times/)
 * [2023-07-23, 10:07:11](https://news.ycombinator.com/item?id=36833951) - [Down and Out in the Magic Kingdom](https://www.gutenberg.org/files/8086/8086-h/8086-h.htm)
 * [2023-07-23, 10:01:23](https://news.ycombinator.com/item?id=36833915) - [Deutsche Bank's “dysfunctional” IT division](https://www.efinancialcareers.co.uk/news/2018/04/technology-at-deutsche-bank)
+* [2023-07-23, 09:45:21](https://news.ycombinator.com/item?id=36833851) - [Threads and Goroutines](https://shane.ai/posts/threads-and-goroutines/)
 * [2023-07-23, 09:42:39](https://news.ycombinator.com/item?id=36833836) - [With the 745-Mile Solid-State Battery, Toyota Just Became a Force to Reckon With](https://www.topspeed.com/toyota-745-mile-solid-state-battery/)
 * [2023-07-23, 08:32:26](https://news.ycombinator.com/item?id=36833564) - [Ask HN: What is the best place to hire part time devs?](https://news.ycombinator.com/item?id=36833564)
 * [2023-07-23, 08:22:22](https://news.ycombinator.com/item?id=36833523) - [Scientists hit with massive bills after speaking at COVID-19 ‘webinars’](https://www.science.org/content/article/costly-invite-scientists-hit-with-massive-bills-after-speaking-at-covid-19-conferences)
