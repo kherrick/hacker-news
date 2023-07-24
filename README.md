@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-24, 06:32:29](https://news.ycombinator.com/item?id=36843794) - [Inkscape launches version 1.3 with a focus on organizing work efficiently](https://inkscape.org/news/2023/07/23/inkscape-launches-version-13-focus-organizing-work/)
+* [2023-07-24, 06:32:29](https://news.ycombinator.com/item?id=36843794) - [Inkscape 1.3](https://inkscape.org/news/2023/07/23/inkscape-launches-version-13-focus-organizing-work/)
 * [2023-07-24, 05:51:38](https://news.ycombinator.com/item?id=36843572) - [Ubisoft account -including games- can be permanently deleted for inactivity](https://www.pcgamer.com/your-ubisoft-account-can-be-suspended-and-subsequently-permanently-deleted-for-inactivity-taking-your-games-library-with-it/)
 * [2023-07-24, 05:41:52](https://news.ycombinator.com/item?id=36843514) - [Kareem Abdul-Jabbar: Bruce Lee and Me](https://kareem.substack.com/p/bruce-lee-and-me)
 * [2023-07-24, 05:33:28](https://news.ycombinator.com/item?id=36843469) - [Sam Altman’s Worldcoin Token to Launch Monday](https://www.bloomberg.com/news/articles/2023-07-24/sam-altman-s-worldcoin-token-to-launch-monday-semafor-reports)
@@ -21,9 +21,9 @@
 * [2023-07-23, 18:59:27](https://news.ycombinator.com/item?id=36838511) - [OpenBSD: AMD processor microcode support added to -current](https://undeadly.org/cgi?action=article;sid=20230723185853)
 * [2023-07-23, 18:13:54](https://news.ycombinator.com/item?id=36838051) - [Llama2.c: Inference llama 2 in one file of pure C](https://github.com/karpathy/llama2.c)
 * [2023-07-23, 17:19:40](https://news.ycombinator.com/item?id=36837442) - [Icon Buddy – 100K+ Open Source SVG Icons, Fully Customizable](https://iconbuddy.app/)
-* [2023-07-23, 17:03:23](https://news.ycombinator.com/item?id=36837273) - [Man found guilty of child porn because he ran a Tor exit node](https://lowendbox.com/blog/man-found-guilty-of-child-porn-because-he-ran-a-tor-exit-node-the-story-of-william-weber/)
 * [2023-07-23, 02:59:36](https://news.ycombinator.com/item?id=36832191) - [Gustave Moreau's mystical paintings](https://www.thecollector.com/gustave-moreau-paintings/)
 * [2023-07-22, 12:31:00](https://news.ycombinator.com/item?id=36825668) - [Nulls Nullified (2005)](http://www.dbazine.com/ofinterest/oi-articles/pascal27/)
+* [2023-07-22, 02:52:00](https://news.ycombinator.com/item?id=36822712) - [Thoughts on the fading away of the age of IE](https://medium.com/@socrateslee/thoughts-on-the-fading-away-of-the-age-of-ie-a57cc5c165fc)
 * [2023-07-22, 00:36:29](https://news.ycombinator.com/item?id=36821951) - [Advice for Operating a Public-Facing API](https://jcs.org/2023/07/12/api)
 * [2023-07-22, 00:15:32](https://news.ycombinator.com/item?id=36821808) - [Death Metal English (2013)](https://www.invisibleoranges.com/death-metal-english/)
 * [2023-07-22, 00:06:45](https://news.ycombinator.com/item?id=36821736) - [From UUID to Infinite Loops (2015)](https://susam.net/blog/from-uuid-to-infinite-loops.html)
