@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-07-24, 20:21:46",
-      "https://news.ycombinator.com/item?id=36853684"
-    ],
-    [
-      "If the job enables it, working remotely should be allowed for everyone",
-      "https://www.remotebusinessjobs.com/allow"
-    ]
-  ],
-  [
-    [
       "2023-07-24, 20:06:26",
       "https://news.ycombinator.com/item?id=36853495"
     ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=36852231"
     ],
     [
-      "Elixir Is (Still) Safe",
+      "Elixir is still safe",
       "https://paraxial.io/blog/still-safe"
     ]
   ],
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=36851505"
     ],
     [
-      "Meta-Transformers: Transformers Are Becoming Multi-Modal",
+      "Meta-Transformer: A unified framework for multimodal learning",
       "https://kxgong.github.io/meta_transformer/"
     ]
   ],
@@ -247,6 +237,16 @@
     [
       "Driver.js: Product tours, highlights, contextual help and more",
       "https://driverjs.com/"
+    ]
+  ],
+  [
+    [
+      "2023-07-24, 10:45:26",
+      "https://news.ycombinator.com/item?id=36845714"
+    ],
+    [
+      "The Unreasonable Effectiveness of Sequence Diagrams in MermaidJS",
+      "https://jessems.com/posts/2023-07-22-the-unreasonable-effectiveness-of-sequence-diagrams-in-mermaidjs"
     ]
   ],
   [
