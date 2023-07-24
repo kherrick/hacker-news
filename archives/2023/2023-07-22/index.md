@@ -44,6 +44,7 @@
 * [2023-07-22, 13:50:28](https://news.ycombinator.com/item?id=36826210) - [A Brief History of Computers](https://www.lesswrong.com/posts/vfRpzyGsikujm9ujj/a-brief-history-of-computers)
 * [2023-07-22, 13:46:08](https://news.ycombinator.com/item?id=36826177) - [Botulinum toxin: Bioweapon and magic drug](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3028942/)
 * [2023-07-22, 13:36:22](https://news.ycombinator.com/item?id=36826111) - [Why even let users set their own passwords?](https://www.devever.net/~hl/passwords)
+* [2023-07-22, 13:29:16](https://news.ycombinator.com/item?id=36826049) - [Why I do not use psychedelics](https://marginalrevolution.com/marginalrevolution/2023/07/why-i-do-not-use-psychedelics.html)
 * [2023-07-22, 13:20:02](https://news.ycombinator.com/item?id=36825992) - [More than you've ever wanted to know about errors in Rust](https://www.shuttle.rs/blog/2022/06/30/error-handling)
 * [2023-07-22, 13:06:39](https://news.ycombinator.com/item?id=36825913) - [Redmine – open-source project management](https://www.redmine.org/)
 * [2023-07-22, 12:31:57](https://news.ycombinator.com/item?id=36825675) - [To grasp the extent of inequality, look at the relatively well-off](https://blogs.lse.ac.uk/politicsandpolicy/to-grasp-the-extent-of-inequality-look-at-the-relatively-well-off/)
