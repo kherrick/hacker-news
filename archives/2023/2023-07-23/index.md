@@ -73,6 +73,7 @@
 * [2023-07-23, 06:44:36](https://news.ycombinator.com/item?id=36833089) - [I found a IT jobs thanks to this blog, what I’m doing](https://giuliomagnifico.blog/misc/2023/07/22/I-found-a-IT-job-thanks-to-this-blog.html)
 * [2023-07-23, 06:14:19](https://news.ycombinator.com/item?id=36832964) - [Hopfions in Modern Physics](http://hopfion.com/)
 * [2023-07-23, 05:32:10](https://news.ycombinator.com/item?id=36832797) - [Transformers: The Google scientists who pioneered an AI revolution](https://www.ft.com/content/37bb01af-ee46-4483-982f-ef3921436a50)
+* [2023-07-23, 05:15:18](https://news.ycombinator.com/item?id=36832736) - [The Proxomitron: An Introduction (2004)](http://web.archive.org/web/20181008215625/http://johnsankey.ca/proxomitron.html)
 * [2023-07-23, 05:00:18](https://news.ycombinator.com/item?id=36832669) - [Showing Elizabeth I in a new light](https://blogs.bl.uk/digitisedmanuscripts/2023/07/showing-elizabeth-i-in-a-new-light.html)
 * [2023-07-23, 03:58:43](https://news.ycombinator.com/item?id=36832433) - [EasyGraph: A Comprehensive Tool for Graph Analysis and Social Computing](https://github.com/easy-graph/Easy-Graph)
 * [2023-07-23, 03:22:26](https://news.ycombinator.com/item?id=36832293) - [‘Not always king’: fossil shows mammal sinking teeth into dinosaur](https://www.theguardian.com/science/2023/jul/18/mesozoic-fossil-dinosaur-mammal-fight)
