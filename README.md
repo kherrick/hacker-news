@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-24, 05:14:08](https://news.ycombinator.com/item?id=36843355) - [X.com (2000)](https://web.archive.org/web/20000301045908/http://x.com:80/)
 * [2023-07-24, 03:35:23](https://news.ycombinator.com/item?id=36842839) - [HP 45 (and 35 and 80) Calculator Emulator](https://sarahkmarr.com/retrohp1973.html)
 * [2023-07-24, 02:06:18](https://news.ycombinator.com/item?id=36842239) - [The “three things” exercise for getting things out of talks (2011)](https://math.stanford.edu/~vakil/threethings.html)
 * [2023-07-24, 01:57:22](https://news.ycombinator.com/item?id=36842182) - [Show HN: My Pen Plotting Journey](https://adamfuhrer.com/pen-plotting-experiments)
@@ -24,7 +25,6 @@
 * [2023-07-23, 15:29:35](https://news.ycombinator.com/item?id=36836258) - [Elixir for Ruby developers: the three most important differences](https://phoenixonrails.com/blog/elixir-for-ruby-developers-the-three-most-important-differences)
 * [2023-07-23, 14:38:22](https://news.ycombinator.com/item?id=36835735) - [The night an audience member filled in for Keith Moon (2016)](https://www.loudersound.com/features/what-happened-the-night-an-audience-member-filled-in-for-keith-moon)
 * [2023-07-23, 02:59:36](https://news.ycombinator.com/item?id=36832191) - [Gustave Moreau's mystical paintings](https://www.thecollector.com/gustave-moreau-paintings/)
-* [2023-07-22, 02:10:40](https://news.ycombinator.com/item?id=36822484) - [Research reveals the scale of disorder underpinning motor neuron disease](https://medicalxpress.com/news/2023-07-reveals-scale-disorder-underpinning-motor.html)
 * [2023-07-22, 00:36:29](https://news.ycombinator.com/item?id=36821951) - [Advice for Operating a Public-Facing API](https://jcs.org/2023/07/12/api)
 * [2023-07-22, 00:15:32](https://news.ycombinator.com/item?id=36821808) - [Death Metal English (2013)](https://www.invisibleoranges.com/death-metal-english/)
 * [2023-07-21, 22:58:59](https://news.ycombinator.com/item?id=36821123) - [Stone walls and historical harbors are unexpected havens of biodiversity](https://hakaimagazine.com/news/stone-walls-and-historical-harbors-are-unexpected-havens-of-biodiversity/)

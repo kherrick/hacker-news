@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-24](index.md)
 
+* [2023-07-24, 05:14:08](https://news.ycombinator.com/item?id=36843355) - [X.com (2000)](https://web.archive.org/web/20000301045908/http://x.com:80/)
 * [2023-07-24, 03:35:23](https://news.ycombinator.com/item?id=36842839) - [HP 45 (and 35 and 80) Calculator Emulator](https://sarahkmarr.com/retrohp1973.html)
 * [2023-07-24, 02:06:18](https://news.ycombinator.com/item?id=36842239) - [The “Three Things” Exercise for getting things out of talks](https://math.stanford.edu/~vakil/threethings.html)
 * [2023-07-24, 01:57:50](https://news.ycombinator.com/item?id=36842186) - [Block the Rich](https://addons.mozilla.org/en-US/firefox/addon/block-the-rich/)
