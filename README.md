@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-24, 13:23:07](https://news.ycombinator.com/item?id=36847600) - [Israeli parliament passes law to limit judicial power](https://www.nytimes.com/live/2023/07/24/world/israel-protests-vote)
 * [2023-07-24, 12:48:33](https://news.ycombinator.com/item?id=36847133) - [Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/doc/userman.md)
 * [2023-07-24, 12:34:25](https://news.ycombinator.com/item?id=36846965) - [Ask HN: Which recently research paper blow your mind?](https://news.ycombinator.com/item?id=36846965)
 * [2023-07-24, 12:08:43](https://news.ycombinator.com/item?id=36846597) - [Nat Types](https://www.roxlu.com/2021/070/nat-types)
@@ -24,6 +23,7 @@
 * [2023-07-23, 22:42:42](https://news.ycombinator.com/item?id=36840728) - [Teach your LLM to answer with facts, not fiction](https://blog.myscale.com/2023/07/17/teach-your-llm-vector-sql/)
 * [2023-07-23, 22:37:20](https://news.ycombinator.com/item?id=36840674) - [Young people are flocking to astrology](https://www.washingtonpost.com/lifestyle/2023/06/13/astrology-millennials-gen-z-science/)
 * [2023-07-23, 18:13:54](https://news.ycombinator.com/item?id=36838051) - [Llama2.c: Inference llama 2 in one file of pure C](https://github.com/karpathy/llama2.c)
+* [2023-07-23, 02:59:36](https://news.ycombinator.com/item?id=36832191) - [Gustave Moreau's mystical paintings](https://www.thecollector.com/gustave-moreau-paintings/)
 * [2023-07-22, 12:31:00](https://news.ycombinator.com/item?id=36825668) - [Nulls Nullified (2005)](http://www.dbazine.com/ofinterest/oi-articles/pascal27/)
 * [2023-07-22, 04:56:56](https://news.ycombinator.com/item?id=36823421) - [Poisons and Perils on the Salton Sea](https://www.scientificamerican.com/podcast/episode/poisons-and-perils-on-the-salton-sea/)
 * [2023-07-22, 02:52:00](https://news.ycombinator.com/item?id=36822712) - [Thoughts on the fading away of the age of IE](https://medium.com/@socrateslee/thoughts-on-the-fading-away-of-the-age-of-ie-a57cc5c165fc)
