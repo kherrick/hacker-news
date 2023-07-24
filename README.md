@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-24, 22:14:10](https://news.ycombinator.com/item?id=36854969) - [Sam Altman demands regulation in effort to limit competition](https://www.theatlantic.com/magazine/archive/2023/09/sam-altman-openai-chatgpt-gpt-4/674764/)
 * [2023-07-24, 21:15:57](https://news.ycombinator.com/item?id=36854299) - [Bringing code analysis tools to Jupyter notebooks](https://www.amazon.science/blog/bringing-code-analysis-tools-to-jupyter-notebooks)
 * [2023-07-24, 21:01:27](https://news.ycombinator.com/item?id=36854138) - [Better code highlighting on the web: rehype-tree-sitter](https://haz.ee/technical/rehype-tree-sitter/)
 * [2023-07-24, 20:59:37](https://news.ycombinator.com/item?id=36854114) - [Google’s nightmare “Web Integrity API” wants a DRM gatekeeper for the web](https://arstechnica.com/gadgets/2023/07/googles-web-integrity-api-sounds-like-drm-for-the-web/)
@@ -29,7 +30,6 @@
 * [2023-07-23, 19:24:16](https://news.ycombinator.com/item?id=36838750) - [The persistence of the Saturday Evening Post (2021)](https://www.cjr.org/special_report/great-magazines-saturday-evening-post.php)
 * [2023-07-23, 14:54:20](https://news.ycombinator.com/item?id=36835900) - [Can you understand bird? Test your recognition of calls and songs](https://www.nytimes.com/interactive/2023/07/21/science/bird-calls-songs-quiz.html)
 * [2023-07-23, 09:45:21](https://news.ycombinator.com/item?id=36833851) - [Threads and Goroutines](https://shane.ai/posts/threads-and-goroutines/)
-* [2023-07-23, 06:24:41](https://news.ycombinator.com/item?id=36833017) - [The genetic architecture and evolution of the human skeletal form](https://www.science.org/doi/10.1126/science.adf8009)
 
 ## [Archives](archives/index.md)
 
