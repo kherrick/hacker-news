@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-24, 21:01:27",
+      "https://news.ycombinator.com/item?id=36854138"
+    ],
+    [
+      "Better code highlighting on the web: rehype-tree-sitter",
+      "https://haz.ee/technical/rehype-tree-sitter/"
+    ]
+  ],
+  [
+    [
+      "2023-07-24, 20:54:23",
+      "https://news.ycombinator.com/item?id=36854061"
+    ],
+    [
+      "People in 1920s Berlin Nightclubs Flirted via Pneumatic Tubes",
+      "https://www.atlasobscura.com/articles/pneumatic-tube-table-phone-flirting-berlin"
+    ]
+  ],
+  [
+    [
       "2023-07-24, 20:11:24",
       "https://news.ycombinator.com/item?id=36853565"
     ],
@@ -27,16 +47,6 @@
     [
       "Time, Clocks, and the Ordering of Events in a Distributed System – Paper Review",
       "https://percisely.xyz/syncronicity"
-    ]
-  ],
-  [
-    [
-      "2023-07-24, 19:39:38",
-      "https://news.ycombinator.com/item?id=36853207"
-    ],
-    [
-      "Show HN: Browser extension replacing the X with the original Twitter logo",
-      "https://github.com/emvi/xbegone"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2023-07-24, 14:11:52",
-      "https://news.ycombinator.com/item?id=36848305"
-    ],
-    [
-      "Cash Amnesia",
-      "https://www.gsb.stanford.edu/insights/indulging-guilty-pleasure-dont-put-it-card"
-    ]
-  ],
-  [
-    [
       "2023-07-24, 13:49:08",
       "https://news.ycombinator.com/item?id=36847960"
     ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2023-07-24, 10:45:26",
-      "https://news.ycombinator.com/item?id=36845714"
-    ],
-    [
-      "The Unreasonable Effectiveness of Sequence Diagrams in MermaidJS",
-      "https://jessems.com/posts/2023-07-22-the-unreasonable-effectiveness-of-sequence-diagrams-in-mermaidjs"
-    ]
-  ],
-  [
-    [
       "2023-07-23, 19:24:16",
       "https://news.ycombinator.com/item?id=36838750"
     ],
@@ -267,6 +257,16 @@
     [
       "Can you understand bird? Test your recognition of calls and songs",
       "https://www.nytimes.com/interactive/2023/07/21/science/bird-calls-songs-quiz.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-23, 09:45:21",
+      "https://news.ycombinator.com/item?id=36833851"
+    ],
+    [
+      "Threads and Goroutines",
+      "https://shane.ai/posts/threads-and-goroutines/"
     ]
   ],
   [
