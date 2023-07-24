@@ -7,6 +7,7 @@
 * [2023-07-24, 17:01:05](https://news.ycombinator.com/item?id=36851054) - [Emerge Tools (YC W21) Is Hiring a Senior Front End Engineer](https://www.workatastartup.com/jobs/61922/)
 * [2023-07-24, 16:43:29](https://news.ycombinator.com/item?id=36850781) - [Revealed: Media Blitz Against Heat Pumps Funded by Gas Lobby Group](https://www.desmog.com/2023/07/20/revealed-media-blitz-against-heat-pumps-funded-by-gas-lobby-group/)
 * [2023-07-24, 16:28:07](https://news.ycombinator.com/item?id=36850535) - [AI researcher Geoffrey Hinton thinks AI has or will have emotions](https://the-decoder.com/ai-researcher-geoffrey-hinton-thinks-ai-has-or-will-have-emotions/)
+* [2023-07-24, 16:03:03](https://news.ycombinator.com/item?id=36850111) - [40 years ago yesterday Air Canada Flight 143 ran out of fuel mid-flight](https://www.damninteresting.com/the-gimli-glider/)
 * [2023-07-24, 15:55:51](https://news.ycombinator.com/item?id=36849988) - [X, the moonshot factory](https://x.company/)
 * [2023-07-24, 15:42:25](https://news.ycombinator.com/item?id=36849784) - [You Don't Know Jack about Application Performance](https://queue.acm.org/detail.cfm?id=3595862)
 * [2023-07-24, 15:33:30](https://news.ycombinator.com/item?id=36849649) - [Publishers want billions, not millions, from AI](https://www.semafor.com/article/07/23/2023/publishers-want-billions-not-millions-from-ai)
