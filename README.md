@@ -15,7 +15,6 @@
 * [2023-07-23, 18:13:54](https://news.ycombinator.com/item?id=36838051) - [Llama2.c: Inference llama 2 in one file of pure C](https://github.com/karpathy/llama2.c)
 * [2023-07-23, 17:19:40](https://news.ycombinator.com/item?id=36837442) - [Icon Buddy – 100K+ Open Source SVG Icons, Fully Customizable](https://iconbuddy.app/)
 * [2023-07-23, 17:03:23](https://news.ycombinator.com/item?id=36837273) - [Man found guilty of child porn because he ran a Tor exit node](https://lowendbox.com/blog/man-found-guilty-of-child-porn-because-he-ran-a-tor-exit-node-the-story-of-william-weber/)
-* [2023-07-23, 16:15:26](https://news.ycombinator.com/item?id=36836729) - [SICP in JavaScript](https://sourceacademy.org/sicpjs/index)
 * [2023-07-23, 16:07:40](https://news.ycombinator.com/item?id=36836639) - [Why don't we get our drinking water by taking salt out seawater? (2008)](https://www.scientificamerican.com/article/why-dont-we-get-our-drinking-water-from-the-ocean/)
 * [2023-07-23, 16:03:31](https://news.ycombinator.com/item?id=36836596) - [Show HN: I made a MailChimp alternative that connects to your database](https://cc.dev)
 * [2023-07-23, 15:39:38](https://news.ycombinator.com/item?id=36836358) - [An invariant from category theory solves a problem in mathematical ecology [pdf]](https://www.maths.ed.ac.uk/~tl/genova/genova_talk.pdf)
@@ -30,6 +29,7 @@
 * [2023-07-22, 00:15:32](https://news.ycombinator.com/item?id=36821808) - [Death Metal English (2013)](https://www.invisibleoranges.com/death-metal-english/)
 * [2023-07-21, 22:58:59](https://news.ycombinator.com/item?id=36821123) - [Stone Walls and Historical Harbors Are Unexpected Havens of Biodiversity](https://hakaimagazine.com/news/stone-walls-and-historical-harbors-are-unexpected-havens-of-biodiversity/)
 * [2023-07-21, 22:04:57](https://news.ycombinator.com/item?id=36820544) - [High-Performance server for NATS.io, the cloud and edge native messaging system](https://github.com/nats-io/nats-server)
+* [2023-07-21, 04:27:37](https://news.ycombinator.com/item?id=36809994) - [A Surprising Dearth of Spectacled Bears](https://www.laphamsquarterly.org/roundtable/surprising-dearth-spectacled-bears)
 
 ## [Archives](archives/index.md)
 
