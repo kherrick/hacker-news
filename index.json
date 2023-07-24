@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-24, 15:23:30",
+      "https://news.ycombinator.com/item?id=36849478"
+    ],
+    [
+      "WASM_of_OCaml",
+      "https://github.com/ocaml-wasm/wasm_of_ocaml"
+    ]
+  ],
+  [
+    [
       "2023-07-24, 14:34:31",
       "https://news.ycombinator.com/item?id=36848680"
     ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2023-07-24, 00:01:48",
-      "https://news.ycombinator.com/item?id=36841369"
+      "2023-07-24, 00:31:46",
+      "https://news.ycombinator.com/item?id=36841556"
     ],
     [
-      "U.S. Senate bill crafted with DEA targets end-to-end encryption",
-      "https://therecord.media/senate-dea-bill-targets-end-to-end-encryption-requires-companies-to-report-drugs"
+      "American universities have an incentive to seem extortionate",
+      "https://www.economist.com/united-states/2023/07/23/american-universities-have-an-incentive-to-seem-extortionate"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "C89 compiler produces printable executables from C code [pdf]",
       "http://www.cs.cmu.edu/~tom7/abc/paper.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-07-22, 00:15:32",
-      "https://news.ycombinator.com/item?id=36821808"
-    ],
-    [
-      "Death Metal English (2013)",
-      "https://www.invisibleoranges.com/death-metal-english/"
     ]
   ]
 ]
