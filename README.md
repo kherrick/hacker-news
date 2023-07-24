@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-24, 18:03:02](https://news.ycombinator.com/item?id=36851930) - [Text Embeddings Reveal (Almost) as Much as Text](https://openreview.net/forum?id=wK7wUdiM5g0)
 * [2023-07-24, 17:43:37](https://news.ycombinator.com/item?id=36851644) - [Have Attention Spans Been Declining? – Yes, 65%](https://slimemoldtimemold.com/2023/07/24/your-mystery-have-attention-spans-been-declining/)
 * [2023-07-24, 17:36:11](https://news.ycombinator.com/item?id=36851535) - [Apple Vision Pro developer kit](https://developer.apple.com/visionos/developer-kit/)
 * [2023-07-24, 17:33:52](https://news.ycombinator.com/item?id=36851505) - [Meta-Transformers: Transformers Are Becoming Multi-Modal](https://kxgong.github.io/meta_transformer/)
@@ -16,7 +17,6 @@
 * [2023-07-24, 13:49:08](https://news.ycombinator.com/item?id=36847960) - [Show HN: I built a transit travel time map](https://map.henryn.xyz)
 * [2023-07-24, 13:48:37](https://news.ycombinator.com/item?id=36847958) - [The Mathematical Universe Hypothesis (2007)](https://arxiv.org/abs/0704.0646)
 * [2023-07-24, 13:21:19](https://news.ycombinator.com/item?id=36847569) - [Launch HN: Artie (YC S23) – Real time data replication to data warehouses](https://news.ycombinator.com/item?id=36847569)
-* [2023-07-24, 13:11:27](https://news.ycombinator.com/item?id=36847413) - [Transparent field level encryption for Django with pgcrypto PostgreSQL extension](https://github.com/incuna/django-pgcrypto-fields)
 * [2023-07-24, 12:48:33](https://news.ycombinator.com/item?id=36847133) - [Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/doc/userman.md)
 * [2023-07-24, 12:34:25](https://news.ycombinator.com/item?id=36846965) - [Ask HN: Which recent research paper blew your mind?](https://news.ycombinator.com/item?id=36846965)
 * [2023-07-24, 12:08:43](https://news.ycombinator.com/item?id=36846597) - [Nat Types](https://www.roxlu.com/2021/070/nat-types)
