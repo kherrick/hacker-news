@@ -1,6 +1,76 @@
 [
   [
     [
+      "2023-07-24, 01:10:53",
+      "https://news.ycombinator.com/item?id=36841837"
+    ],
+    [
+      "Court strikes down limits on filming of police in Arizona",
+      "https://apnews.com/article/arizona-cant-limit-filming-of-police-a7a7ad0fe5b421d416ec3477d0795707"
+    ]
+  ],
+  [
+    [
+      "2023-07-24, 01:06:21",
+      "https://news.ycombinator.com/item?id=36841798"
+    ],
+    [
+      "Welcome Debian riscv64",
+      "https://blog.aurel32.net/welcome-debian-riscv64.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-24, 00:31:46",
+      "https://news.ycombinator.com/item?id=36841556"
+    ],
+    [
+      "American universities have an incentive to seem extortionate",
+      "https://www.economist.com/united-states/2023/07/23/american-universities-have-an-incentive-to-seem-extortionate"
+    ]
+  ],
+  [
+    [
+      "2023-07-24, 00:01:48",
+      "https://news.ycombinator.com/item?id=36841369"
+    ],
+    [
+      "U.S. Senate bill crafted with DEA targets end-to-end encryption",
+      "https://therecord.media/senate-dea-bill-targets-end-to-end-encryption-requires-companies-to-report-drugs"
+    ]
+  ],
+  [
+    [
+      "2023-07-23, 23:48:32",
+      "https://news.ycombinator.com/item?id=36841272"
+    ],
+    [
+      "VirtualBox 7.0.10 download links have disappeared",
+      "https://web.archive.org/web/20230723100307/https://www.virtualbox.org/wiki/Downloads"
+    ]
+  ],
+  [
+    [
+      "2023-07-23, 23:40:51",
+      "https://news.ycombinator.com/item?id=36841211"
+    ],
+    [
+      "How Will Language Modelers Like ChatGPT Affect Occupations and Industries?",
+      "https://arxiv.org/abs/2303.01157"
+    ]
+  ],
+  [
+    [
+      "2023-07-23, 22:42:42",
+      "https://news.ycombinator.com/item?id=36840728"
+    ],
+    [
+      "Teach your LLM to answer with facts, not fiction",
+      "https://blog.myscale.com/2023/07/17/teach-your-llm-vector-sql/"
+    ]
+  ],
+  [
+    [
       "2023-07-23, 21:57:30",
       "https://news.ycombinator.com/item?id=36840282"
     ],
@@ -11,21 +81,11 @@
   ],
   [
     [
-      "2023-07-23, 21:38:27",
-      "https://news.ycombinator.com/item?id=36840127"
-    ],
-    [
-      "In Which I Claim Rich Hickey Is Wrong (2020)",
-      "https://blog.jonstodle.com/in-which-i-claim-rich-hickey-is-wrong/"
-    ]
-  ],
-  [
-    [
       "2023-07-23, 21:24:03",
       "https://news.ycombinator.com/item?id=36839983"
     ],
     [
-      "All Foster Kids in California Can Now Attend Any State College for Free",
+      "All foster kids in California can now attend any state college for free",
       "https://themessenger.com/news/all-foster-kids-in-california-can-now-attend-any-state-college-for-free"
     ]
   ],
@@ -71,26 +131,6 @@
   ],
   [
     [
-      "2023-07-23, 17:41:37",
-      "https://news.ycombinator.com/item?id=36837695"
-    ],
-    [
-      "Queen guitarist and astrophysicist Brian May to release 3D atlas of asteroid",
-      "https://www.theguardian.com/science/2023/jul/23/queen-brian-may-3d-atlas-bennu-asteroid"
-    ]
-  ],
-  [
-    [
-      "2023-07-23, 17:26:27",
-      "https://news.ycombinator.com/item?id=36837512"
-    ],
-    [
-      "Show HN: High school transcript generator for homeschoolers",
-      "https://www.greatbookshomeschool.com/free-high-school-transcript-generator"
-    ]
-  ],
-  [
-    [
       "2023-07-23, 17:19:40",
       "https://news.ycombinator.com/item?id=36837442"
     ],
@@ -117,16 +157,6 @@
     [
       "SICP in JavaScript",
       "https://sourceacademy.org/sicpjs/index"
-    ]
-  ],
-  [
-    [
-      "2023-07-23, 16:08:22",
-      "https://news.ycombinator.com/item?id=36836649"
-    ],
-    [
-      "Government URLs that don't end in .gov",
-      "https://github.com/GSA/govt-urls"
     ]
   ],
   [
@@ -181,42 +211,12 @@
   ],
   [
     [
-      "2023-07-23, 14:24:48",
-      "https://news.ycombinator.com/item?id=36835571"
-    ],
-    [
-      "A call center worker’s battle with A.I.",
-      "https://www.nytimes.com/2023/07/19/business/call-center-workers-battle-with-ai.html"
-    ]
-  ],
-  [
-    [
       "2023-07-23, 12:30:30",
       "https://news.ycombinator.com/item?id=36834732"
     ],
     [
       "Show HN: I made a customizable iOS browser for minimalists and myself",
       "https://apps.apple.com/us/app/quiche-browser/id1668363952"
-    ]
-  ],
-  [
-    [
-      "2023-07-23, 10:07:11",
-      "https://news.ycombinator.com/item?id=36833951"
-    ],
-    [
-      "Down and Out in the Magic Kingdom (2003)",
-      "https://www.gutenberg.org/files/8086/8086-h/8086-h.htm"
-    ]
-  ],
-  [
-    [
-      "2023-07-23, 09:42:39",
-      "https://news.ycombinator.com/item?id=36833836"
-    ],
-    [
-      "Toyota has been developing a solid-state battery for EVs with a range of 745mi",
-      "https://www.topspeed.com/toyota-745-mile-solid-state-battery/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2023-07-22, 00:15:32",
+      "https://news.ycombinator.com/item?id=36821808"
+    ],
+    [
+      "Death Metal English (2013)",
+      "https://www.invisibleoranges.com/death-metal-english/"
+    ]
+  ],
+  [
+    [
       "2023-07-21, 22:58:59",
       "https://news.ycombinator.com/item?id=36821123"
     ],
     [
       "Stone Walls and Historical Harbors Are Unexpected Havens of Biodiversity",
       "https://hakaimagazine.com/news/stone-walls-and-historical-harbors-are-unexpected-havens-of-biodiversity/"
-    ]
-  ],
-  [
-    [
-      "2023-07-21, 22:30:49",
-      "https://news.ycombinator.com/item?id=36820835"
-    ],
-    [
-      "Electrolytic capacitors: overview, teardown and experiments [video]",
-      "https://www.youtube.com/watch?v=MAP-VA1m-A4"
     ]
   ],
   [
