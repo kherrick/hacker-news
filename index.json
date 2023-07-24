@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-24, 14:34:31",
+      "https://news.ycombinator.com/item?id=36848680"
+    ],
+    [
+      "Zenbleed",
+      "https://lock.cmpxchg8b.com/zenbleed.html"
+    ]
+  ],
+  [
+    [
       "2023-07-24, 14:11:52",
       "https://news.ycombinator.com/item?id=36848305"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=36847958"
     ],
     [
-      "The Mathematical Universe Hypothesis",
+      "The Mathematical Universe Hypothesis (2007)",
       "https://arxiv.org/abs/0704.0646"
     ]
   ],
@@ -57,6 +67,16 @@
     [
       "Launch HN: Artie (YC S23) – Real time data replication to data warehouses",
       "https://news.ycombinator.com/item?id=36847569"
+    ]
+  ],
+  [
+    [
+      "2023-07-24, 12:58:04",
+      "https://news.ycombinator.com/item?id=36847258"
+    ],
+    [
+      "SVG Chromium bug is more than 10 years old",
+      "https://bugs.chromium.org/p/chromium/issues/detail?id=109212"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-07-24, 05:41:52",
-      "https://news.ycombinator.com/item?id=36843514"
-    ],
-    [
-      "Bruce Lee and Me",
-      "https://kareem.substack.com/p/bruce-lee-and-me"
-    ]
-  ],
-  [
-    [
       "2023-07-24, 03:35:23",
       "https://news.ycombinator.com/item?id=36842839"
     ],
@@ -217,16 +227,6 @@
     [
       "Debian riscv64",
       "https://blog.aurel32.net/welcome-debian-riscv64.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-24, 00:31:46",
-      "https://news.ycombinator.com/item?id=36841556"
-    ],
-    [
-      "American universities have an incentive to seem extortionate",
-      "https://www.economist.com/united-states/2023/07/23/american-universities-have-an-incentive-to-seem-extortionate"
     ]
   ],
   [
