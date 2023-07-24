@@ -1,0 +1,10 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-07-24](index.md)
+
+* [2023-07-24, 01:10:53](https://news.ycombinator.com/item?id=36841837) - [Court strikes down limits on filming of police in Arizona](https://apnews.com/article/arizona-cant-limit-filming-of-police-a7a7ad0fe5b421d416ec3477d0795707)
+* [2023-07-24, 01:06:21](https://news.ycombinator.com/item?id=36841798) - [Welcome Debian riscv64](https://blog.aurel32.net/welcome-debian-riscv64.html)
+* [2023-07-24, 00:31:46](https://news.ycombinator.com/item?id=36841556) - [American universities have an incentive to seem extortionate](https://www.economist.com/united-states/2023/07/23/american-universities-have-an-incentive-to-seem-extortionate)
+* [2023-07-24, 00:01:48](https://news.ycombinator.com/item?id=36841369) - [U.S. Senate bill crafted with DEA targets end-to-end encryption](https://therecord.media/senate-dea-bill-targets-end-to-end-encryption-requires-companies-to-report-drugs)

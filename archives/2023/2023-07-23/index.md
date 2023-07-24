@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-23](index.md)
 
+* [2023-07-23, 23:48:32](https://news.ycombinator.com/item?id=36841272) - [VirtualBox 7.0.10 download links have disappeared](https://web.archive.org/web/20230723100307/https://www.virtualbox.org/wiki/Downloads)
+* [2023-07-23, 23:40:51](https://news.ycombinator.com/item?id=36841211) - [How Will Language Modelers Like ChatGPT Affect Occupations and Industries?](https://arxiv.org/abs/2303.01157)
+* [2023-07-23, 22:42:42](https://news.ycombinator.com/item?id=36840728) - [Teach your LLM to answer with facts, not fiction](https://blog.myscale.com/2023/07/17/teach-your-llm-vector-sql/)
 * [2023-07-23, 21:57:30](https://news.ycombinator.com/item?id=36840282) - [Why Frames Tilt Forward (2015)](https://chcollins.com/100Billion/2015/02/why-frames-tilt-forward/)
 * [2023-07-23, 21:38:27](https://news.ycombinator.com/item?id=36840127) - [In Which I Claim Rich Hickey Is Wrong (2020)](https://blog.jonstodle.com/in-which-i-claim-rich-hickey-is-wrong/)
 * [2023-07-23, 21:24:03](https://news.ycombinator.com/item?id=36839983) - [All Foster Kids in California Can Now Attend Any State College for Free](https://themessenger.com/news/all-foster-kids-in-california-can-now-attend-any-state-college-for-free)

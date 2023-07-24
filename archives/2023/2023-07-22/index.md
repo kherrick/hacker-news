@@ -89,3 +89,4 @@
 * [2023-07-22, 00:36:29](https://news.ycombinator.com/item?id=36821951) - [Advice for Operating a Public-Facing API](https://jcs.org/2023/07/12/api)
 * [2023-07-22, 00:24:52](https://news.ycombinator.com/item?id=36821871) - [Using Prolog in Windows NT Network Configuration (1996)](https://web.archive.org/web/20030218034509/http://www.research.microsoft.com/research/dtg/davidhov/pap.htm)
 * [2023-07-22, 00:23:40](https://news.ycombinator.com/item?id=36821861) - [Employees Bid on Anchor Brewery](https://vinepair.com/booze-news/anchor-employees-brewery-takeover-bid/)
+* [2023-07-22, 00:15:32](https://news.ycombinator.com/item?id=36821808) - [Death Metal English (2013)](https://www.invisibleoranges.com/death-metal-english/)
