@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-07-24](index.md)
 
+* [2023-07-24, 14:11:52](https://news.ycombinator.com/item?id=36848305) - [Cash Amnesia](https://www.gsb.stanford.edu/insights/indulging-guilty-pleasure-dont-put-it-card)
+* [2023-07-24, 13:49:08](https://news.ycombinator.com/item?id=36847960) - [Show HN: I built a transit travel time map](https://map.henryn.xyz)
+* [2023-07-24, 13:48:37](https://news.ycombinator.com/item?id=36847958) - [The Mathematical Universe Hypothesis](https://arxiv.org/abs/0704.0646)
+* [2023-07-24, 13:40:59](https://news.ycombinator.com/item?id=36847831) - [Reviving an IBM RS/6000 Workstation](https://twitter.com/tubetimeus/status/1671654843138854912)
 * [2023-07-24, 13:23:07](https://news.ycombinator.com/item?id=36847600) - [Israeli parliament passes law to limit judicial power](https://www.nytimes.com/live/2023/07/24/world/israel-protests-vote)
+* [2023-07-24, 13:21:19](https://news.ycombinator.com/item?id=36847569) - [Launch HN: Artie (YC S23) – Real time data replication to data warehouses](https://news.ycombinator.com/item?id=36847569)
 * [2023-07-24, 12:48:33](https://news.ycombinator.com/item?id=36847133) - [Pikchr: A PIC-like markup language for diagrams in technical documentation](https://pikchr.org/home/doc/trunk/doc/userman.md)
 * [2023-07-24, 12:34:25](https://news.ycombinator.com/item?id=36846965) - [Ask HN: Which recently research paper blow your mind?](https://news.ycombinator.com/item?id=36846965)
 * [2023-07-24, 12:08:43](https://news.ycombinator.com/item?id=36846597) - [Nat Types](https://www.roxlu.com/2021/070/nat-types)
@@ -13,6 +18,7 @@
 * [2023-07-24, 11:38:56](https://news.ycombinator.com/item?id=36846242) - [Researchers Find ‘Backdoor’ in Encrypted Police and Military Radios](https://www.vice.com/en/article/4a3n3j/backdoor-in-police-radios-tetra-burst)
 * [2023-07-24, 11:35:35](https://news.ycombinator.com/item?id=36846195) - [The IBM mainframe: How it runs and why it survives](https://arstechnica.com/information-technology/2023/07/the-ibm-mainframe-how-it-runs-and-why-it-survives/)
 * [2023-07-24, 11:22:13](https://news.ycombinator.com/item?id=36846076) - [Unicode Character “𝕏” (U+1D54F)](https://www.compart.com/en/unicode/U+1D54F)
+* [2023-07-24, 11:10:20](https://news.ycombinator.com/item?id=36845950) - [Industrial-Grade SD/SDHC Cards – ATP – DigiKey](https://www.digikey.com/en/product-highlight/a/atp/industrial-grade-sd-sdhc-cards)
 * [2023-07-24, 10:45:26](https://news.ycombinator.com/item?id=36845714) - [The Unreasonable Effectiveness of Sequence Diagrams in MermaidJS](https://jessems.com/posts/2023-07-22-the-unreasonable-effectiveness-of-sequence-diagrams-in-mermaidjs)
 * [2023-07-24, 10:21:05](https://news.ycombinator.com/item?id=36845492) - [Twitter unveils X logo to replace blue bird](https://www.bbc.com/news/business-66284304)
 * [2023-07-24, 09:34:23](https://news.ycombinator.com/item?id=36845111) - [Twitter has officially changed its logo to ‘X’](https://techcrunch.com/2023/07/24/twitter-has-officially-changed-its-logo-to-x/)

@@ -65,6 +65,7 @@
 * [2023-07-22, 08:21:40](https://news.ycombinator.com/item?id=36824450) - [Plane – open-source Jira alternative](https://plane.so)
 * [2023-07-22, 07:57:44](https://news.ycombinator.com/item?id=36824330) - [Biotumen: Bitumen Reinvented](https://biofabrik.com/biotumen/)
 * [2023-07-22, 07:39:32](https://news.ycombinator.com/item?id=36824236) - [Cheetahs have come back to India. Why do they keep dying?](https://www.nationalgeographic.com/premium/article/cheetahs-died-india-relocation-africa-conservation)
+* [2023-07-22, 07:30:07](https://news.ycombinator.com/item?id=36824181) - [A Heap O' Livin'](https://www.buckleyschool.com/magazine/articles/poem-to-read-aloud-a-heap-o-livin/)
 * [2023-07-22, 07:28:08](https://news.ycombinator.com/item?id=36824165) - [Client-side proxies – a better way to individualise the Internet? (2000)](https://people.dsv.su.se/~jpalme/select/csp/thesis.html)
 * [2023-07-22, 06:57:11](https://news.ycombinator.com/item?id=36823992) - [IdentiFIVE](https://identifive.com)
 * [2023-07-22, 06:35:06](https://news.ycombinator.com/item?id=36823871) - [Google Web Environment Integrity – Privacy Considerations](https://rupertbenwiser.github.io/Web-Environment-Integrity/#privacy)
