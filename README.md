@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-24, 11:22:13](https://news.ycombinator.com/item?id=36846076) - [Unicode Character “𝕏” (U+1D54F)](https://www.compart.com/en/unicode/U+1D54F)
 * [2023-07-24, 08:00:33](https://news.ycombinator.com/item?id=36844415) - [Ask HN: Looking for a Firefox compatible extension for voice controlled actions](https://news.ycombinator.com/item?id=36844415)
 * [2023-07-24, 06:32:29](https://news.ycombinator.com/item?id=36843794) - [Inkscape 1.3](https://inkscape.org/news/2023/07/23/inkscape-launches-version-13-focus-organizing-work/)
 * [2023-07-24, 05:51:38](https://news.ycombinator.com/item?id=36843572) - [Ubisoft account -including games- can be permanently deleted for inactivity](https://www.pcgamer.com/your-ubisoft-account-can-be-suspended-and-subsequently-permanently-deleted-for-inactivity-taking-your-games-library-with-it/)
 * [2023-07-24, 05:41:52](https://news.ycombinator.com/item?id=36843514) - [Bruce Lee and Me](https://kareem.substack.com/p/bruce-lee-and-me)
 * [2023-07-24, 04:34:00](https://news.ycombinator.com/item?id=36843136) - [Optimism, Hubris, and Strategic Misrepresentation](https://albertcory50.substack.com/p/optimism-hubris-and-strategic-misrepresentation)
-* [2023-07-24, 04:07:41](https://news.ycombinator.com/item?id=36843032) - [History vs. Hollywood: Oppenheimer](https://www.historyvshollywood.com/reelfaces/oppenheimer/)
 * [2023-07-24, 03:35:23](https://news.ycombinator.com/item?id=36842839) - [HP 45 (and 35 and 80) Calculator Emulator](https://sarahkmarr.com/retrohp1973.html)
 * [2023-07-24, 02:06:18](https://news.ycombinator.com/item?id=36842239) - [The “three things” exercise for getting things out of talks (2011)](https://math.stanford.edu/~vakil/threethings.html)
 * [2023-07-24, 01:57:22](https://news.ycombinator.com/item?id=36842182) - [Show HN: My Pen Plotting Journey](https://adamfuhrer.com/pen-plotting-experiments)
