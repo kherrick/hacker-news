@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-24, 15:23:30](https://news.ycombinator.com/item?id=36849478) - [WASM_of_OCaml](https://github.com/ocaml-wasm/wasm_of_ocaml)
 * [2023-07-24, 14:34:31](https://news.ycombinator.com/item?id=36848680) - [Zenbleed](https://lock.cmpxchg8b.com/zenbleed.html)
 * [2023-07-24, 13:55:08](https://news.ycombinator.com/item?id=36848037) - [Atari Has Launched Collectible Arcade Circuit Boards of Retro Classics](https://retrododo.com/atari-collectible-arcade-circuit-boards/)
 * [2023-07-24, 13:49:08](https://news.ycombinator.com/item?id=36847960) - [Show HN: I built a transit travel time map](https://map.henryn.xyz)
@@ -22,14 +23,13 @@
 * [2023-07-24, 02:06:18](https://news.ycombinator.com/item?id=36842239) - [The “three things” exercise for getting things out of talks (2011)](https://math.stanford.edu/~vakil/threethings.html)
 * [2023-07-24, 01:57:22](https://news.ycombinator.com/item?id=36842182) - [Show HN: My Pen Plotting Journey](https://adamfuhrer.com/pen-plotting-experiments)
 * [2023-07-24, 01:06:21](https://news.ycombinator.com/item?id=36841798) - [Debian riscv64](https://blog.aurel32.net/welcome-debian-riscv64.html)
-* [2023-07-24, 00:01:48](https://news.ycombinator.com/item?id=36841369) - [U.S. Senate bill crafted with DEA targets end-to-end encryption](https://therecord.media/senate-dea-bill-targets-end-to-end-encryption-requires-companies-to-report-drugs)
+* [2023-07-24, 00:31:46](https://news.ycombinator.com/item?id=36841556) - [American universities have an incentive to seem extortionate](https://www.economist.com/united-states/2023/07/23/american-universities-have-an-incentive-to-seem-extortionate)
 * [2023-07-23, 18:13:54](https://news.ycombinator.com/item?id=36838051) - [Llama2.c: Inference llama 2 in one file of pure C](https://github.com/karpathy/llama2.c)
 * [2023-07-23, 05:15:18](https://news.ycombinator.com/item?id=36832736) - [The Proxomitron: An Introduction (2004)](http://web.archive.org/web/20181008215625/http://johnsankey.ca/proxomitron.html)
 * [2023-07-22, 07:30:07](https://news.ycombinator.com/item?id=36824181) - [A Heap O' Livin'](https://www.buckleyschool.com/magazine/articles/poem-to-read-aloud-a-heap-o-livin/)
 * [2023-07-22, 04:56:56](https://news.ycombinator.com/item?id=36823421) - [Poisons and Perils on the Salton Sea](https://www.scientificamerican.com/podcast/episode/poisons-and-perils-on-the-salton-sea/)
 * [2023-07-22, 02:52:00](https://news.ycombinator.com/item?id=36822712) - [Thoughts on the fading away of the age of IE](https://medium.com/@socrateslee/thoughts-on-the-fading-away-of-the-age-of-ie-a57cc5c165fc)
 * [2023-07-22, 00:42:20](https://news.ycombinator.com/item?id=36821985) - [C89 compiler produces printable executables from C code [pdf]](http://www.cs.cmu.edu/~tom7/abc/paper.pdf)
-* [2023-07-22, 00:15:32](https://news.ycombinator.com/item?id=36821808) - [Death Metal English (2013)](https://www.invisibleoranges.com/death-metal-english/)
 
 ## [Archives](archives/index.md)
 
