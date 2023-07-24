@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-24, 08:53:19](https://news.ycombinator.com/item?id=36844793) - [Sam Altman’s Worldcoin Crypto Project Officially Launches](https://www.bloomberg.com/news/articles/2023-07-24/sam-altman-s-worldcoin-crypto-project-officially-launches)
 * [2023-07-24, 08:00:33](https://news.ycombinator.com/item?id=36844415) - [Ask HN: Looking for a Firefox compatible extension for voice controlled actions](https://news.ycombinator.com/item?id=36844415)
 * [2023-07-24, 06:32:29](https://news.ycombinator.com/item?id=36843794) - [Inkscape 1.3](https://inkscape.org/news/2023/07/23/inkscape-launches-version-13-focus-organizing-work/)
 * [2023-07-24, 05:51:38](https://news.ycombinator.com/item?id=36843572) - [Ubisoft account -including games- can be permanently deleted for inactivity](https://www.pcgamer.com/your-ubisoft-account-can-be-suspended-and-subsequently-permanently-deleted-for-inactivity-taking-your-games-library-with-it/)
@@ -14,7 +15,6 @@
 * [2023-07-23, 22:42:42](https://news.ycombinator.com/item?id=36840728) - [Teach your LLM to answer with facts, not fiction](https://blog.myscale.com/2023/07/17/teach-your-llm-vector-sql/)
 * [2023-07-23, 22:37:20](https://news.ycombinator.com/item?id=36840674) - [Young people are flocking to astrology](https://www.washingtonpost.com/lifestyle/2023/06/13/astrology-millennials-gen-z-science/)
 * [2023-07-23, 21:57:30](https://news.ycombinator.com/item?id=36840282) - [Why Frames Tilt Forward (2015)](https://chcollins.com/100Billion/2015/02/why-frames-tilt-forward/)
-* [2023-07-23, 21:38:27](https://news.ycombinator.com/item?id=36840127) - [I claim Rich Hickey is wrong about non-null arguments to functions (2020)](https://blog.jonstodle.com/in-which-i-claim-rich-hickey-is-wrong/)
 * [2023-07-23, 21:24:03](https://news.ycombinator.com/item?id=36839983) - [All foster kids in California can now attend any state college for free](https://themessenger.com/news/all-foster-kids-in-california-can-now-attend-any-state-college-for-free)
 * [2023-07-23, 21:01:32](https://news.ycombinator.com/item?id=36839800) - [ldd arbitrary code execution (2009)](https://catonmat.net/ldd-arbitrary-code-execution)
 * [2023-07-23, 19:43:45](https://news.ycombinator.com/item?id=36838994) - [PLJS – JavaScript Language Plugin for PostreSQL](https://github.com/plv8/pljs)
