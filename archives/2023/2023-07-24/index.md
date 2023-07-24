@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-24](index.md)
 
+* [2023-07-24, 15:33:30](https://news.ycombinator.com/item?id=36849649) - [Publishers want billions, not millions, from AI](https://www.semafor.com/article/07/23/2023/publishers-want-billions-not-millions-from-ai)
+* [2023-07-24, 15:25:58](https://news.ycombinator.com/item?id=36849523) - [TikTok is adding text posts](https://www.theverge.com/2023/7/24/23805530/tiktok-text-posts-micro-blogging-twitter-threads)
 * [2023-07-24, 15:23:30](https://news.ycombinator.com/item?id=36849478) - [WASM_of_OCaml](https://github.com/ocaml-wasm/wasm_of_ocaml)
+* [2023-07-24, 15:10:40](https://news.ycombinator.com/item?id=36849277) - [Vitalik Buterin on Worldcoin Launch](https://vitalik.ca/general/2023/07/24/biometric.html)
 * [2023-07-24, 14:34:31](https://news.ycombinator.com/item?id=36848680) - [Zenbleed](https://lock.cmpxchg8b.com/zenbleed.html)
 * [2023-07-24, 14:11:52](https://news.ycombinator.com/item?id=36848305) - [Cash Amnesia](https://www.gsb.stanford.edu/insights/indulging-guilty-pleasure-dont-put-it-card)
 * [2023-07-24, 13:55:08](https://news.ycombinator.com/item?id=36848037) - [Atari Has Launched Collectible Arcade Circuit Boards of Retro Classics](https://retrododo.com/atari-collectible-arcade-circuit-boards/)
