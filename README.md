@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-24, 21:01:27](https://news.ycombinator.com/item?id=36854138) - [Better code highlighting on the web: rehype-tree-sitter](https://haz.ee/technical/rehype-tree-sitter/)
+* [2023-07-24, 20:59:37](https://news.ycombinator.com/item?id=36854114) - [Google’s nightmare “Web Integrity API” wants a DRM gatekeeper for the web](https://arstechnica.com/gadgets/2023/07/googles-web-integrity-api-sounds-like-drm-for-the-web/)
 * [2023-07-24, 20:54:23](https://news.ycombinator.com/item?id=36854061) - [People in 1920s Berlin Nightclubs Flirted via Pneumatic Tubes](https://www.atlasobscura.com/articles/pneumatic-tube-table-phone-flirting-berlin)
 * [2023-07-24, 20:51:55](https://news.ycombinator.com/item?id=36854030) - [Intel AVX10: The Successor to AVX-512](https://www.phoronix.com/news/Intel-AVX10)
 * [2023-07-24, 20:11:24](https://news.ycombinator.com/item?id=36853565) - [Wind and Solar Will Be 25% of Total U.S. Generating Capacity Within Three Years](https://electricenergyonline.com/article/energy/category/climate-change/82/1033617/wind-solar-will-be-25-of-total-u-s-generating-capacity-within-three-years-as-they-grow-by-over-100-gw-.html)
@@ -29,7 +30,6 @@
 * [2023-07-23, 09:45:21](https://news.ycombinator.com/item?id=36833851) - [Threads and Goroutines](https://shane.ai/posts/threads-and-goroutines/)
 * [2023-07-23, 06:24:41](https://news.ycombinator.com/item?id=36833017) - [The genetic architecture and evolution of the human skeletal form](https://www.science.org/doi/10.1126/science.adf8009)
 * [2023-07-23, 06:20:21](https://news.ycombinator.com/item?id=36832999) - [The Secret Economics of the Birkin Bag](https://businessday.ng/life-arts/article/the-secret-economics-of-the-birkin-bag/)
-* [2023-07-22, 05:53:05](https://news.ycombinator.com/item?id=36823673) - [How to stay safe and happy on an electric unicycle](https://wmay.github.io/euc-safety/)
 
 ## [Archives](archives/index.md)
 
