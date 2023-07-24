@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-24](index.md)
 
+* [2023-07-24, 20:21:46](https://news.ycombinator.com/item?id=36853684) - [If the job enables it, working remotely should be allowed for everyone](https://www.remotebusinessjobs.com/allow)
+* [2023-07-24, 20:06:26](https://news.ycombinator.com/item?id=36853495) - [Python: Uncovering the Overlooked Core Functionalities](https://erikvandeven.medium.com/python-uncovering-the-overlooked-core-functionalities-54590420c225)
 * [2023-07-24, 19:41:16](https://news.ycombinator.com/item?id=36853220) - [Leslie Lamport’s, proof distributed physical clocks can preserve causality](https://percisely.xyz/syncronicity)
 * [2023-07-24, 19:39:38](https://news.ycombinator.com/item?id=36853207) - [Show HN: Browser extension replacing the X with the original Twitter logo](https://github.com/emvi/xbegone)
 * [2023-07-24, 19:35:32](https://news.ycombinator.com/item?id=36853166) - [Intel Advanced Performance Extensions (Intel APX)](https://www.intel.com/content/www/us/en/developer/articles/technical/advanced-performance-extensions-apx.html)
