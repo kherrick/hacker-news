@@ -37,6 +37,7 @@
 * [2023-07-24, 18:26:42](https://news.ycombinator.com/item?id=36852300) - [OpenBSD on Zenbleed](https://marc.info/?l=openbsd-tech&m=169021508718971&w=2)
 * [2023-07-24, 18:22:37](https://news.ycombinator.com/item?id=36852231) - [Elixir Is (Still) Safe](https://paraxial.io/blog/still-safe)
 * [2023-07-24, 18:03:02](https://news.ycombinator.com/item?id=36851930) - [Text Embeddings Reveal (Almost) as Much as Text](https://openreview.net/forum?id=wK7wUdiM5g0)
+* [2023-07-24, 17:55:54](https://news.ycombinator.com/item?id=36851818) - [Myths about Cooking with Salt](https://www.washingtonpost.com/food/2023/04/06/salt-facts-myths-cooking-baking/)
 * [2023-07-24, 17:43:37](https://news.ycombinator.com/item?id=36851644) - [Have Attention Spans Been Declining? – Yes, 65%](https://slimemoldtimemold.com/2023/07/24/your-mystery-have-attention-spans-been-declining/)
 * [2023-07-24, 17:36:11](https://news.ycombinator.com/item?id=36851535) - [Apple Vision Pro developer kit](https://developer.apple.com/visionos/developer-kit/)
 * [2023-07-24, 17:33:52](https://news.ycombinator.com/item?id=36851505) - [Meta-Transformers: Transformers Are Becoming Multi-Modal](https://kxgong.github.io/meta_transformer/)
