@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-25, 21:00:54](https://news.ycombinator.com/item?id=36869457) - [Tesorio (YC S15) Is Hiring a Head of Marketing – join our 100% remote startup](https://jobs.lever.co/tesorio/10de016f-be07-4707-ac5c-7029f0398a17)
+* [2023-07-25, 20:33:39](https://news.ycombinator.com/item?id=36868978) - [A command-line murder mystery](https://github.com/veltman/clmystery)
 * [2023-07-25, 20:11:07](https://news.ycombinator.com/item?id=36868630) - [US Education Dept. Opens Civil Rights Inquiry into Harvard’s Legacy Admissions](https://www.nytimes.com/2023/07/25/us/politics/harvard-admissions-civil-rights-inquiry.html)
 * [2023-07-25, 20:08:45](https://news.ycombinator.com/item?id=36868593) - [Alphabet Announces Second Quarter 2023 Results [pdf]](https://abc.xyz/assets/20/ef/844a05b84b6f9dbf2c3592e7d9c7/2023q2-alphabet-earnings-release.pdf)
 * [2023-07-25, 19:24:38](https://news.ycombinator.com/item?id=36867988) - [Texas A&M suspended professor accused of criticizing Lt. Gov. Patrick in lecture](https://www.texastribune.org/2023/07/25/texas-a-m-professor-opioids-dan-patrick/)
@@ -13,7 +14,6 @@
 * [2023-07-25, 16:47:58](https://news.ycombinator.com/item?id=36865287) - [Unicode is harder than you think](https://mcilloni.ovh/2023/07/23/unicode-is-hard/)
 * [2023-07-25, 16:35:47](https://news.ycombinator.com/item?id=36865060) - [Social engineering campaign targeting tech employees spreads through NPM malware](https://socket.dev/blog/social-engineering-campaign-npm-malware)
 * [2023-07-25, 16:14:32](https://news.ycombinator.com/item?id=36864624) - [The first room-temperature ambient-pressure superconductor?](https://arxiv.org/abs/2307.12008)
-* [2023-07-25, 16:07:33](https://news.ycombinator.com/item?id=36864476) - [At this company, we are family](https://pboyd.io/posts/at-company-we-are-family/)
 * [2023-07-25, 15:59:54](https://news.ycombinator.com/item?id=36864319) - [A forthcoming collapse of the Atlantic meridional overturning circulation](https://www.nature.com/articles/s41467-023-39810-w)
 * [2023-07-25, 15:49:39](https://news.ycombinator.com/item?id=36864115) - [Is technical analysis just stock market astrology?](https://alicegg.tech//2023/07/25/technical-analysis.html)
 * [2023-07-25, 15:43:56](https://news.ycombinator.com/item?id=36864021) - [Show HN: Marsha – An LLM-Based Programming Language](https://github.com/alantech/marsha)

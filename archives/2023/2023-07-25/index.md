@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
 * [2023-07-25, 21:00:54](https://news.ycombinator.com/item?id=36869457) - [Tesorio (YC S15) Is Hiring a Head of Marketing – join our 100% remote startup](https://jobs.lever.co/tesorio/10de016f-be07-4707-ac5c-7029f0398a17)
+* [2023-07-25, 20:33:39](https://news.ycombinator.com/item?id=36868978) - [A command-line murder mystery](https://github.com/veltman/clmystery)
 * [2023-07-25, 20:11:07](https://news.ycombinator.com/item?id=36868630) - [US Education Dept. Opens Civil Rights Inquiry into Harvard’s Legacy Admissions](https://www.nytimes.com/2023/07/25/us/politics/harvard-admissions-civil-rights-inquiry.html)
 * [2023-07-25, 20:08:45](https://news.ycombinator.com/item?id=36868593) - [Alphabet Announces Second Quarter 2023 Results [pdf]](https://abc.xyz/assets/20/ef/844a05b84b6f9dbf2c3592e7d9c7/2023q2-alphabet-earnings-release.pdf)
 * [2023-07-25, 19:24:38](https://news.ycombinator.com/item?id=36867988) - [Texas A&M suspended professor accused of criticizing Lt. Gov. Patrick in lecture](https://www.texastribune.org/2023/07/25/texas-a-m-professor-opioids-dan-patrick/)
