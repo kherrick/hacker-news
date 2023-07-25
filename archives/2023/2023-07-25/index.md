@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
+* [2023-07-25, 18:56:17](https://news.ycombinator.com/item?id=36867576) - [DeSantis campaign deputy helped spam the FCC with anti-net neutrality comments](https://www.dailydot.com/debug/ethan-eilon-desantis-campaign-net-neutrality/)
 * [2023-07-25, 18:15:37](https://news.ycombinator.com/item?id=36866885) - [I chose Neo and turned down a spot in Y Combinator](https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator)
 * [2023-07-25, 18:13:51](https://news.ycombinator.com/item?id=36866861) - [PRQL, Pipelined Relational Query Language](https://github.com/PRQL/prql)
 * [2023-07-25, 18:01:30](https://news.ycombinator.com/item?id=36866633) - [Medicaid Could Save $2.6B Within a Year If Just 1% of Recipients Quit Smoking](https://www.ucsf.edu/news/2019/04/413921/medicaid-could-save-26-billion-within-year-if-just-1-percent-recipients-quit)
+* [2023-07-25, 18:01:12](https://news.ycombinator.com/item?id=36866629) - [Show HN: RealAboutInstagram – a replica highlighting harmful strategies](https://realaboutinstagram.netlify.app/)
 * [2023-07-25, 17:40:37](https://news.ycombinator.com/item?id=36866242) - [Hyperlink Maximalism (2022)](https://thesephist.com/posts/hyperlink/)
 * [2023-07-25, 17:10:58](https://news.ycombinator.com/item?id=36865684) - [Ask HN: Did DNSimple silently update their pricing from $30/month to $199/month?](https://news.ycombinator.com/item?id=36865684)
 * [2023-07-25, 17:10:38](https://news.ycombinator.com/item?id=36865682) - [Unix-like OS in Rust inspired by xv6-riscv](https://github.com/o8vm/octox)
