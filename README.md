@@ -16,6 +16,7 @@
 * [2023-07-24, 19:37:37](https://news.ycombinator.com/item?id=36853184) - [Electric Y Combinator – Electric Clojure](https://dustingetz.electricfiddle.net/electric-fiddle.essay!Essay/electric-y-combinator)
 * [2023-07-24, 19:35:32](https://news.ycombinator.com/item?id=36853166) - [Advanced Performance Extensions (APX)](https://www.intel.com/content/www/us/en/developer/articles/technical/advanced-performance-extensions-apx.html)
 * [2023-07-24, 19:18:26](https://news.ycombinator.com/item?id=36852971) - [A simple guide to fine-tuning Llama 2](https://brev.dev/blog/fine-tuning-llama-2)
+* [2023-07-24, 18:45:54](https://news.ycombinator.com/item?id=36852565) - [A Breakdown of HTTP Clients in Elixir](https://andrealeopardi.com/posts/breakdown-of-http-clients-in-elixir/)
 * [2023-07-24, 18:26:42](https://news.ycombinator.com/item?id=36852300) - [OpenBSD on Zenbleed](https://marc.info/?l=openbsd-tech&m=169021508718971&w=2)
 * [2023-07-24, 18:22:37](https://news.ycombinator.com/item?id=36852231) - [Elixir is still safe](https://paraxial.io/blog/still-safe)
 * [2023-07-24, 17:43:37](https://news.ycombinator.com/item?id=36851644) - [Have attention spans been declining?](https://slimemoldtimemold.com/2023/07/24/your-mystery-have-attention-spans-been-declining/)
@@ -29,7 +30,6 @@
 * [2023-07-24, 13:49:08](https://news.ycombinator.com/item?id=36847960) - [Show HN: I built a transit travel time map](https://map.henryn.xyz)
 * [2023-07-24, 13:21:19](https://news.ycombinator.com/item?id=36847569) - [Launch HN: Artie (YC S23) – Real time data replication to data warehouses](https://news.ycombinator.com/item?id=36847569)
 * [2023-07-23, 09:45:21](https://news.ycombinator.com/item?id=36833851) - [Threads and Goroutines](https://shane.ai/posts/threads-and-goroutines/)
-* [2023-07-23, 06:20:21](https://news.ycombinator.com/item?id=36832999) - [The economics of the Birkin bag (2016)](https://www.economist.com/1843/2016/07/28/the-secret-economics-of-the-birkin-bag)
 
 ## [Archives](archives/index.md)
 
