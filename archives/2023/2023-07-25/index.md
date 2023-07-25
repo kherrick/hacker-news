@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
+* [2023-07-25, 17:07:12](https://news.ycombinator.com/item?id=36865625) - [Launch HN: Roundtable (YC S23) – Using AI to Simulate Surveys](https://news.ycombinator.com/item?id=36865625)
+* [2023-07-25, 17:00:53](https://news.ycombinator.com/item?id=36865531) - [Aviator (YC S21) is hiring engineers to build advanced Git tools](https://www.ycombinator.com/companies/aviator/jobs)
+* [2023-07-25, 16:57:35](https://news.ycombinator.com/item?id=36865465) - [GM reverses plan to retire Chevrolet Bolt as it chases EV target](https://www.ft.com/content/fd367bd6-a73a-4d80-b0d0-32837724bd0a)
 * [2023-07-25, 16:28:13](https://news.ycombinator.com/item?id=36864892) - [Crucial system of ocean currents is collapsing; ‘affects everyone on the planet’](https://www.cnn.com/2023/07/25/world/gulf-stream-atlantic-current-collapse-climate-scn-intl/index.html)
 * [2023-07-25, 16:14:32](https://news.ycombinator.com/item?id=36864624) - [The First Room-Temperature Ambient-Pressure Superconductor](https://arxiv.org/abs/2307.12008)
 * [2023-07-25, 16:10:53](https://news.ycombinator.com/item?id=36864547) - [Autoenshittification. How the computer killed capitalism. – by Cory Doctorow](https://doctorow.medium.com/autoenshittification-cb851c2574fb)
@@ -13,6 +16,7 @@
 * [2023-07-25, 15:43:56](https://news.ycombinator.com/item?id=36864021) - [Show HN: Marsha – An LLM-Based Programming Language](https://github.com/alantech/marsha)
 * [2023-07-25, 15:38:41](https://news.ycombinator.com/item?id=36863915) - [The Messaging Layer Security (MLS) Protocol](https://datatracker.ietf.org/doc/html/rfc9420)
 * [2023-07-25, 15:20:52](https://news.ycombinator.com/item?id=36863631) - ['Verified human': Worldcoin users queue up for iris scans](https://neuters.de/technology/verified-human-worldcoin-users-queue-up-iris-scans-2023-07-25/)
+* [2023-07-25, 15:17:45](https://news.ycombinator.com/item?id=36863581) - [We're Not Platonists, We've Just Learned the Bitter Lesson](https://astralcodexten.substack.com/p/were-not-platonists-weve-just-learned)
 * [2023-07-25, 15:13:57](https://news.ycombinator.com/item?id=36863522) - [Onnx Runtime: “Cross-Platform Accelerated Machine Learning”](https://onnxruntime.ai/)
 * [2023-07-25, 15:09:11](https://news.ycombinator.com/item?id=36863443) - [Journalists should be skeptical of all sources including scientists](https://www.natesilver.net/p/journalists-should-be-skeptical-of)
 * [2023-07-25, 14:59:31](https://news.ycombinator.com/item?id=36863280) - [The remote work dominates on HN:Who is hiring? – 69% jobs in 2023 are remote](https://blog.spatial.chat/tracking-hackernews-shifting-preferences-for-remote-jobs-over-5-years/)
