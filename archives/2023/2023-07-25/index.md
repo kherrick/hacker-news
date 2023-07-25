@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
+* [2023-07-25, 16:10:53](https://news.ycombinator.com/item?id=36864547) - [Autoenshittification. How the computer killed capitalism. – by Cory Doctorow](https://doctorow.medium.com/autoenshittification-cb851c2574fb)
+* [2023-07-25, 15:59:54](https://news.ycombinator.com/item?id=36864319) - [Warning of forthcoming collapse of Atlantic meridional overturning circulation](https://www.nature.com/articles/s41467-023-39810-w)
 * [2023-07-25, 15:49:39](https://news.ycombinator.com/item?id=36864115) - [Is technical analysis just stock market astrology?](https://alicegg.tech//2023/07/25/technical-analysis.html)
+* [2023-07-25, 15:38:41](https://news.ycombinator.com/item?id=36863915) - [The Messaging Layer Security (MLS) Protocol](https://datatracker.ietf.org/doc/html/rfc9420)
 * [2023-07-25, 15:20:52](https://news.ycombinator.com/item?id=36863631) - ['Verified human': Worldcoin users queue up for iris scans](https://neuters.de/technology/verified-human-worldcoin-users-queue-up-iris-scans-2023-07-25/)
 * [2023-07-25, 15:13:57](https://news.ycombinator.com/item?id=36863522) - [Onnx Runtime: “Cross-Platform Accelerated Machine Learning”](https://onnxruntime.ai/)
+* [2023-07-25, 15:09:11](https://news.ycombinator.com/item?id=36863443) - [Journalists should be skeptical of all sources including scientists](https://www.natesilver.net/p/journalists-should-be-skeptical-of)
 * [2023-07-25, 14:59:31](https://news.ycombinator.com/item?id=36863280) - [The remote work dominates on HN:Who is hiring? – 69% jobs in 2023 are remote](https://blog.spatial.chat/tracking-hackernews-shifting-preferences-for-remote-jobs-over-5-years/)
 * [2023-07-25, 14:58:57](https://news.ycombinator.com/item?id=36863262) - [Goodbye, waitlist. Hello, Arc 1.0](https://twitter.com/browsercompany/status/1683839541399154689)
 * [2023-07-25, 14:49:14](https://news.ycombinator.com/item?id=36863094) - [Before you try to do something, make sure you can do nothing](https://devblogs.microsoft.com/oldnewthing/20230725-00/?p=108482)

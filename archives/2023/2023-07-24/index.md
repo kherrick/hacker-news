@@ -57,6 +57,7 @@
 * [2023-07-24, 15:25:58](https://news.ycombinator.com/item?id=36849523) - [TikTok is adding text posts](https://www.theverge.com/2023/7/24/23805530/tiktok-text-posts-micro-blogging-twitter-threads)
 * [2023-07-24, 15:25:06](https://news.ycombinator.com/item?id=36849502) - [Show HN: I spent 2 years building a personal finance simulator](https://projectionlab.com/)
 * [2023-07-24, 15:23:30](https://news.ycombinator.com/item?id=36849478) - [WASM_of_OCaml](https://github.com/ocaml-wasm/wasm_of_ocaml)
+* [2023-07-24, 15:16:55](https://news.ycombinator.com/item?id=36849376) - ['Magnetic Rose'](https://animationobsessive.substack.com/p/the-secrets-of-magnetic-rose)
 * [2023-07-24, 15:10:40](https://news.ycombinator.com/item?id=36849277) - [Vitalik Buterin on Worldcoin Launch](https://vitalik.ca/general/2023/07/24/biometric.html)
 * [2023-07-24, 14:34:31](https://news.ycombinator.com/item?id=36848680) - [Zenbleed](https://lock.cmpxchg8b.com/zenbleed.html)
 * [2023-07-24, 14:11:52](https://news.ycombinator.com/item?id=36848305) - [Cash Amnesia](https://www.gsb.stanford.edu/insights/indulging-guilty-pleasure-dont-put-it-card)
