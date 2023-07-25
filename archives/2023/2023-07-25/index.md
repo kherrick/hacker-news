@@ -56,6 +56,7 @@
 * [2023-07-25, 03:55:43](https://news.ycombinator.com/item?id=36857676) - [Contributor to Google's WEI repo: So, you don't like a web platform proposal](https://blog.yoav.ws/posts/web_platform_change_you_do_not_like/)
 * [2023-07-25, 03:27:58](https://news.ycombinator.com/item?id=36857506) - [Parents, environmentalists to Google: stop Chromebooks from expiring this summer](https://pirg.org/edfund/resources/chromebook-expiration-full-letter/)
 * [2023-07-25, 03:00:26](https://news.ycombinator.com/item?id=36857314) - [Got called to a professor’s office after a complaint his Sparc4 was running slow](https://infosec.exchange/@paco/110772422266480371)
+* [2023-07-25, 02:19:47](https://news.ycombinator.com/item?id=36857069) - [Way ahead of it's time: The Remote Lounge NYC](https://docpop.org/2013/10/way-ahead-of-its-time-the-remote-lounge-nyc/)
 * [2023-07-25, 02:14:27](https://news.ycombinator.com/item?id=36857032) - [Mozilla Standards Positions Opposes Web Integrity API](https://github.com/mozilla/standards-positions/issues/852)
 * [2023-07-25, 02:02:36](https://news.ycombinator.com/item?id=36856946) - [Intro to Drone Detection Radar with Emphasis on Automatic Target Recognition](https://arxiv.org/abs/2307.10326)
 * [2023-07-25, 01:53:45](https://news.ycombinator.com/item?id=36856882) - [How Signal Walks the Line Between Anarchism and Pragmatism](https://www.wired.com/story/signal-politics-software-criticism/)
