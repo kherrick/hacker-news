@@ -2,11 +2,11 @@
 
 * [2023-07-25, 18:15:37](https://news.ycombinator.com/item?id=36866885) - [I chose Neo and turned down a spot in Y Combinator](https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator)
 * [2023-07-25, 18:13:51](https://news.ycombinator.com/item?id=36866861) - [PRQL, Pipelined Relational Query Language](https://github.com/PRQL/prql)
-* [2023-07-25, 18:01:30](https://news.ycombinator.com/item?id=36866633) - [Medicaid Could Save $2.6B Within a Year If Just 1% of Recipients Quit Smoking](https://www.ucsf.edu/news/2019/04/413921/medicaid-could-save-26-billion-within-year-if-just-1-percent-recipients-quit)
 * [2023-07-25, 17:40:37](https://news.ycombinator.com/item?id=36866242) - [Hyperlink Maximalism (2022)](https://thesephist.com/posts/hyperlink/)
 * [2023-07-25, 17:10:38](https://news.ycombinator.com/item?id=36865682) - [Unix-like OS in Rust inspired by xv6-riscv](https://github.com/o8vm/octox)
 * [2023-07-25, 17:07:12](https://news.ycombinator.com/item?id=36865625) - [Launch HN: Roundtable (YC S23) – Using AI to Simulate Surveys](https://news.ycombinator.com/item?id=36865625)
 * [2023-07-25, 17:00:53](https://news.ycombinator.com/item?id=36865531) - [Aviator (YC S21) is hiring engineers to build advanced Git tools](https://www.ycombinator.com/companies/aviator/jobs)
+* [2023-07-25, 16:58:42](https://news.ycombinator.com/item?id=36865495) - [A comprehensive guide to running Llama 2 locally](https://replicate.com/blog/run-llama-locally)
 * [2023-07-25, 16:35:47](https://news.ycombinator.com/item?id=36865060) - [Social engineering campaign targeting tech employees spreads through NPM malware](https://socket.dev/blog/social-engineering-campaign-npm-malware)
 * [2023-07-25, 16:28:13](https://news.ycombinator.com/item?id=36864892) - [Crucial system of ocean currents is collapsing; ‘affects everyone on the planet’](https://www.cnn.com/2023/07/25/world/gulf-stream-atlantic-current-collapse-climate-scn-intl/index.html)
 * [2023-07-25, 16:10:53](https://news.ycombinator.com/item?id=36864547) - [Autoenshittification. How the computer killed capitalism. – by Cory Doctorow](https://doctorow.medium.com/autoenshittification-cb851c2574fb)
@@ -20,7 +20,6 @@
 * [2023-07-25, 14:59:31](https://news.ycombinator.com/item?id=36863280) - [Remote work on HN: Who is hiring? – 69% jobs in 2023 are remote](https://blog.spatial.chat/tracking-hackernews-shifting-preferences-for-remote-jobs-over-5-years/)
 * [2023-07-25, 14:49:14](https://news.ycombinator.com/item?id=36863094) - [Before you try to do something, make sure you can do nothing](https://devblogs.microsoft.com/oldnewthing/20230725-00/?p=108482)
 * [2023-07-25, 14:34:17](https://news.ycombinator.com/item?id=36862850) - [OpenAI Shuts Down Its AI Detection Tool](https://decrypt.co/149826/openai-quietly-shutters-its-ai-detection-tool)
-* [2023-07-25, 14:10:12](https://news.ycombinator.com/item?id=36862494) - [Apple already shipped attestation on the web, and we barely noticed](https://httptoolkit.com/blog/apple-private-access-tokens-attestation/)
 * [2023-07-25, 12:33:01](https://news.ycombinator.com/item?id=36861302) - [Our World of Pixels](https://ourworldofpixels.com/)
 * [2023-07-25, 11:57:27](https://news.ycombinator.com/item?id=36860992) - [What We Know About LLMs](https://willthompson.name/what-we-know-about-llms-primer)
 * [2023-07-25, 11:45:06](https://news.ycombinator.com/item?id=36860898) - [Show HN: Invoice Dragon – An open source app to create PDF invoices](https://invoicedragon.com/)
@@ -28,6 +27,7 @@
 * [2023-07-25, 04:07:36](https://news.ycombinator.com/item?id=36857758) - [The 1990s Amiga with Video Toaster has a VFX cool factor that endures today](https://cdm.link/2023/07/amiga-video-toaster-cool-factor/)
 * [2023-07-25, 03:00:26](https://news.ycombinator.com/item?id=36857314) - [Got called to a professor’s office after a complaint his SPARC4 was running slow](https://infosec.exchange/@paco/110772422266480371)
 * [2023-07-24, 17:24:35](https://news.ycombinator.com/item?id=36851371) - [Bitsummit 2023: Steam Decks everywhere, no VR, and impressive indie games](https://boilingsteam.com/bitsummit-2023-steam-decks-everywhere-no-vr-and-impressive-indie-games/)
+* [2023-07-24, 15:16:55](https://news.ycombinator.com/item?id=36849376) - ['Magnetic Rose'](https://animationobsessive.substack.com/p/the-secrets-of-magnetic-rose)
 * [2023-07-24, 15:03:11](https://news.ycombinator.com/item?id=36849147) - [Emotions: A Code Book](https://tidyfirst.substack.com/p/emotions-a-code-book)
 * [2023-07-24, 08:26:01](https://news.ycombinator.com/item?id=36844579) - [Codex Gigas: the largest manuscript of the middle ages](https://historyofinformation.com/detail.php?entryid=2359)
 
