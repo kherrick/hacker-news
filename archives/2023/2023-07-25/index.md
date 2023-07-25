@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
+* [2023-07-25, 14:58:57](https://news.ycombinator.com/item?id=36863262) - [Goodbye, waitlist. Hello, Arc 1.0](https://twitter.com/browsercompany/status/1683839541399154689)
+* [2023-07-25, 14:49:14](https://news.ycombinator.com/item?id=36863094) - [Before you try to do something, make sure you can do nothing](https://devblogs.microsoft.com/oldnewthing/20230725-00/?p=108482)
+* [2023-07-25, 14:34:37](https://news.ycombinator.com/item?id=36862855) - [The burden of Long Covid “so large as to be unfathomable”](https://www.rnz.co.nz/national/programmes/saturday/audio/2018899512/prof-danny-altmann-the-burden-of-long-covid)
 * [2023-07-25, 14:34:17](https://news.ycombinator.com/item?id=36862850) - [OpenAI Quietly Shuts Down Its AI Detection Tool](https://decrypt.co/149826/openai-quietly-shutters-its-ai-detection-tool)
+* [2023-07-25, 14:16:34](https://news.ycombinator.com/item?id=36862585) - [Ask HN: What is the best thing you learnt or got out of Hacker News?](https://news.ycombinator.com/item?id=36862585)
 * [2023-07-25, 14:16:15](https://news.ycombinator.com/item?id=36862579) - [Sugary drinks tax could prevent decay and increase health equity: study](https://www.monash.edu/news/articles/sugary-drinks-tax-could-prevent-decay-and-increase-health-equity-study)
 * [2023-07-25, 14:10:12](https://news.ycombinator.com/item?id=36862494) - [Apple already shipped attestation on the web, and we barely noticed](https://httptoolkit.com/blog/apple-private-access-tokens-attestation/)
 * [2023-07-25, 13:18:09](https://news.ycombinator.com/item?id=36861755) - [Safari 17 Link Tracking Protection](https://mjtsai.com/blog/2023/06/19/safari-17-link-tracking-protection/)
@@ -27,6 +31,7 @@
 * [2023-07-25, 02:14:27](https://news.ycombinator.com/item?id=36857032) - [Mozilla Standards Positions Opposes Web Integrity API](https://github.com/mozilla/standards-positions/issues/852)
 * [2023-07-25, 02:02:36](https://news.ycombinator.com/item?id=36856946) - [Intro to Drone Detection Radar with Emphasis on Automatic Target Recognition](https://arxiv.org/abs/2307.10326)
 * [2023-07-25, 01:53:45](https://news.ycombinator.com/item?id=36856882) - [How Signal Walks the Line Between Anarchism and Pragmatism](https://www.wired.com/story/signal-politics-software-criticism/)
+* [2023-07-25, 01:53:42](https://news.ycombinator.com/item?id=36856881) - [New Proof Shows That ‘Expander’ Graphs Synchronize](https://www.quantamagazine.org/new-proof-shows-that-expander-graphs-synchronize-20230724/)
 * [2023-07-25, 01:37:15](https://news.ycombinator.com/item?id=36856755) - [Play the Nimatron, the World’s First Video Game Invented in 1930s New York](https://flashbak.com/play-the-nimatron-the-worlds-first-video-game-invented-in-1930s-new-york-462185/)
 * [2023-07-25, 01:17:16](https://news.ycombinator.com/item?id=36856564) - [Researchers find evidence of a 2000 year old curry, oldest ever found in SE Asia](https://phys.org/news/2023-07-evidence-year-old-curry-oldest-southeast.html)
 * [2023-07-25, 01:16:14](https://news.ycombinator.com/item?id=36856555) - [Story of the SS Warimoo](http://www.mastermariners.org.au/stories-from-the-past/2304-strange-story-of-the-ss-warimoo)
