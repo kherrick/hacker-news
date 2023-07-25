@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
+* [2023-07-25, 09:20:50](https://news.ycombinator.com/item?id=36859880) - [Textual Paint – MS Paint in your terminal](https://github.com/1j01/textual-paint)
 * [2023-07-25, 09:04:21](https://news.ycombinator.com/item?id=36859785) - [From Python to Elixir Machine Learning](https://www.thestackcanary.com/from-python-pytorch-to-elixir-nx/)
 * [2023-07-25, 08:26:22](https://news.ycombinator.com/item?id=36859510) - [I've skimmed 66520 newsgroups trying to find some life on the Usenet (2020)](https://mastodon.sdf.org/@cfenollosa/103469996345323076)
 * [2023-07-25, 06:21:55](https://news.ycombinator.com/item?id=36858642) - [YouTube is banning links to filmmusic (free music provider), appeal doesn't work](https://news.ycombinator.com/item?id=36858642)
@@ -20,3 +21,4 @@
 * [2023-07-25, 01:01:56](https://news.ycombinator.com/item?id=36856433) - [Twitter’s Rebrand to X Could Be a Trademark Nightmare Thanks to Microsoft](https://themessenger.com/tech/twitters-rebrand-to-x-could-be-a-trademark-nightmare-thanks-to-microsoft)
 * [2023-07-25, 01:01:39](https://news.ycombinator.com/item?id=36856428) - [The Mad Magazine Fold-In Effect in CSS – Thomas Park](https://thomaspark.co/2020/06/the-mad-magazine-fold-in-effect-in-css/)
 * [2023-07-25, 01:00:03](https://news.ycombinator.com/item?id=36856416) - [Per capita CO₂ emissions Over Time](https://ourworldindata.org/grapher/co-emissions-per-capita)
+* [2023-07-25, 00:26:47](https://news.ycombinator.com/item?id=36856121) - [Record Linkage and the Universal Identifier (1972)](https://dl.acm.org/doi/10.1145/958609.958610)

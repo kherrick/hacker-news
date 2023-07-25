@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-25, 09:20:50](https://news.ycombinator.com/item?id=36859880) - [Textual Paint – MS Paint in your terminal](https://github.com/1j01/textual-paint)
 * [2023-07-25, 09:04:21](https://news.ycombinator.com/item?id=36859785) - [From Python to Elixir Machine Learning](https://www.thestackcanary.com/from-python-pytorch-to-elixir-nx/)
 * [2023-07-25, 08:26:22](https://news.ycombinator.com/item?id=36859510) - [I've skimmed 66520 newsgroups trying to find some life on the Usenet (2020)](https://mastodon.sdf.org/@cfenollosa/103469996345323076)
 * [2023-07-25, 04:07:36](https://news.ycombinator.com/item?id=36857758) - [The 1990s Amiga with Video Toaster has a VFX cool factor that endures today](https://cdm.link/2023/07/amiga-video-toaster-cool-factor/)
@@ -10,6 +11,7 @@
 * [2023-07-25, 01:17:16](https://news.ycombinator.com/item?id=36856564) - [Researchers find evidence of a 2000 year old curry, oldest ever found in SE Asia](https://phys.org/news/2023-07-evidence-year-old-curry-oldest-southeast.html)
 * [2023-07-25, 01:01:56](https://news.ycombinator.com/item?id=36856433) - [Twitter’s Rebrand to X Could Be a Trademark Nightmare Thanks to Microsoft](https://themessenger.com/tech/twitters-rebrand-to-x-could-be-a-trademark-nightmare-thanks-to-microsoft)
 * [2023-07-25, 01:01:39](https://news.ycombinator.com/item?id=36856428) - [The Mad Magazine Fold-In Effect in CSS – Thomas Park (2020)](https://thomaspark.co/2020/06/the-mad-magazine-fold-in-effect-in-css/)
+* [2023-07-25, 00:26:47](https://news.ycombinator.com/item?id=36856121) - [Record Linkage and the Universal Identifier (1972)](https://dl.acm.org/doi/10.1145/958609.958610)
 * [2023-07-24, 23:12:11](https://news.ycombinator.com/item?id=36855517) - [Vscode.dev: Local Development with Cloud Tools](https://vscode.dev/)
 * [2023-07-24, 23:11:56](https://news.ycombinator.com/item?id=36855516) - [The Fall of Stack Overflow](https://observablehq.com/@ayhanfuat/the-fall-of-stack-overflow)
 * [2023-07-24, 22:38:39](https://news.ycombinator.com/item?id=36855236) - [Cephalopods use RNA editing to modify their nervous sytems](https://pubmed.ncbi.nlm.nih.gov/28388405/)
@@ -17,8 +19,6 @@
 * [2023-07-24, 20:54:23](https://news.ycombinator.com/item?id=36854061) - [People in 1920s Berlin nightclubs flirted via pneumatic tubes](https://www.atlasobscura.com/articles/pneumatic-tube-table-phone-flirting-berlin)
 * [2023-07-24, 20:06:26](https://news.ycombinator.com/item?id=36853495) - [Python: Overlooked core functionalities](https://erikvandeven.medium.com/python-uncovering-the-overlooked-core-functionalities-54590420c225)
 * [2023-07-24, 19:39:34](https://news.ycombinator.com/item?id=36853206) - [The Algorithmic Beauty of Plants [pdf]](http://algorithmicbotany.org/papers/abop/abop.pdf)
-* [2023-07-24, 19:37:37](https://news.ycombinator.com/item?id=36853184) - [Electric Y Combinator – Electric Clojure](https://dustingetz.electricfiddle.net/electric-fiddle.essay!Essay/electric-y-combinator)
-* [2023-07-24, 19:35:32](https://news.ycombinator.com/item?id=36853166) - [Advanced Performance Extensions (APX)](https://www.intel.com/content/www/us/en/developer/articles/technical/advanced-performance-extensions-apx.html)
 * [2023-07-24, 19:31:29](https://news.ycombinator.com/item?id=36853128) - [Durable Incrementality](https://rust-analyzer.github.io//blog/2023/07/24/durable-incrementality.html)
 * [2023-07-24, 18:45:54](https://news.ycombinator.com/item?id=36852565) - [A Breakdown of HTTP Clients in Elixir](https://andrealeopardi.com/posts/breakdown-of-http-clients-in-elixir/)
 * [2023-07-24, 18:44:51](https://news.ycombinator.com/item?id=36852545) - [“Devil’s horsemen”: Why Mongol horse archers were history’s most feared](https://bigthink.com/the-past/mongol-archery-secret/)
