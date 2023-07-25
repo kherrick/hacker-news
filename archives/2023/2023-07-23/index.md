@@ -75,6 +75,7 @@
 * [2023-07-23, 07:13:36](https://news.ycombinator.com/item?id=36833208) - [A History of Neural Networks](https://royalsocietypublishing.org/doi/10.1098/rsos.221454)
 * [2023-07-23, 06:44:36](https://news.ycombinator.com/item?id=36833089) - [I found a IT jobs thanks to this blog, what I’m doing](https://giuliomagnifico.blog/misc/2023/07/22/I-found-a-IT-job-thanks-to-this-blog.html)
 * [2023-07-23, 06:24:41](https://news.ycombinator.com/item?id=36833017) - [The genetic architecture and evolution of the human skeletal form](https://www.science.org/doi/10.1126/science.adf8009)
+* [2023-07-23, 06:20:21](https://news.ycombinator.com/item?id=36832999) - [The economics of the Birkin bag (2016)](https://www.economist.com/1843/2016/07/28/the-secret-economics-of-the-birkin-bag)
 * [2023-07-23, 06:20:21](https://news.ycombinator.com/item?id=36832999) - [The Secret Economics of the Birkin Bag](https://businessday.ng/life-arts/article/the-secret-economics-of-the-birkin-bag/)
 * [2023-07-23, 06:14:19](https://news.ycombinator.com/item?id=36832964) - [Hopfions in Modern Physics](http://hopfion.com/)
 * [2023-07-23, 05:32:10](https://news.ycombinator.com/item?id=36832797) - [Transformers: The Google scientists who pioneered an AI revolution](https://www.ft.com/content/37bb01af-ee46-4483-982f-ef3921436a50)
