@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-25, 06:21:55](https://news.ycombinator.com/item?id=36858642) - [YouTube is banning links to filmmusic (free music provider), appeal doesn't work](https://news.ycombinator.com/item?id=36858642)
 * [2023-07-25, 04:07:36](https://news.ycombinator.com/item?id=36857758) - [The 1990s Amiga with Video Toaster has a VFX cool factor that endures today](https://cdm.link/2023/07/amiga-video-toaster-cool-factor/)
 * [2023-07-25, 03:27:58](https://news.ycombinator.com/item?id=36857506) - [Parents, environmentalists to Google: stop Chromebooks from expiring this summer](https://pirg.org/edfund/resources/chromebook-expiration-full-letter/)
 * [2023-07-25, 03:00:26](https://news.ycombinator.com/item?id=36857314) - [Got called to a professor’s office after a complaint his SPARC4 was running slow](https://infosec.exchange/@paco/110772422266480371)
@@ -15,6 +14,7 @@
 * [2023-07-24, 22:38:39](https://news.ycombinator.com/item?id=36855236) - [Cephalopods use RNA editing to modify their nervous sytems](https://pubmed.ncbi.nlm.nih.gov/28388405/)
 * [2023-07-24, 20:59:37](https://news.ycombinator.com/item?id=36854114) - [Google’s nightmare “Web Integrity API” wants a DRM gatekeeper for the web](https://arstechnica.com/gadgets/2023/07/googles-web-integrity-api-sounds-like-drm-for-the-web/)
 * [2023-07-24, 20:54:23](https://news.ycombinator.com/item?id=36854061) - [People in 1920s Berlin nightclubs flirted via pneumatic tubes](https://www.atlasobscura.com/articles/pneumatic-tube-table-phone-flirting-berlin)
+* [2023-07-24, 20:06:26](https://news.ycombinator.com/item?id=36853495) - [Python: Overlooked core functionalities](https://erikvandeven.medium.com/python-uncovering-the-overlooked-core-functionalities-54590420c225)
 * [2023-07-24, 19:39:34](https://news.ycombinator.com/item?id=36853206) - [The Algorithmic Beauty of Plants [pdf]](http://algorithmicbotany.org/papers/abop/abop.pdf)
 * [2023-07-24, 19:35:32](https://news.ycombinator.com/item?id=36853166) - [Advanced Performance Extensions (APX)](https://www.intel.com/content/www/us/en/developer/articles/technical/advanced-performance-extensions-apx.html)
 * [2023-07-24, 19:31:29](https://news.ycombinator.com/item?id=36853128) - [Durable Incrementality](https://rust-analyzer.github.io//blog/2023/07/24/durable-incrementality.html)
