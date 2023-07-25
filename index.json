@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2023-07-24, 18:45:54",
+      "https://news.ycombinator.com/item?id=36852565"
+    ],
+    [
+      "A Breakdown of HTTP Clients in Elixir",
+      "https://andrealeopardi.com/posts/breakdown-of-http-clients-in-elixir/"
+    ]
+  ],
+  [
+    [
       "2023-07-24, 18:26:42",
       "https://news.ycombinator.com/item?id=36852300"
     ],
@@ -287,16 +297,6 @@
     [
       "Threads and Goroutines",
       "https://shane.ai/posts/threads-and-goroutines/"
-    ]
-  ],
-  [
-    [
-      "2023-07-23, 06:20:21",
-      "https://news.ycombinator.com/item?id=36832999"
-    ],
-    [
-      "The economics of the Birkin bag (2016)",
-      "https://www.economist.com/1843/2016/07/28/the-secret-economics-of-the-birkin-bag"
     ]
   ]
 ]
