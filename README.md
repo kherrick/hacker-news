@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-25, 23:21:36](https://news.ycombinator.com/item?id=36871093) - [Man spoofs threatening texts from ex-gf, gets her jailed multiple times (2020)](https://www.justice.gov/usao-md/pr/pasadena-man-pleads-guilty-federal-charges-cyberstalking-and-causing-intentional-damage)
 * [2023-07-25, 22:40:58](https://news.ycombinator.com/item?id=36870702) - [Seattle in Progress](https://www.seattleinprogress.com/)
 * [2023-07-25, 21:56:00](https://news.ycombinator.com/item?id=36870140) - [Whom the gods would destroy, they first give real-time analytics (2013)](https://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics)
 * [2023-07-25, 21:18:45](https://news.ycombinator.com/item?id=36869747) - [Stone knives and bear skins – there is no money in tools](https://queue.acm.org/detail.cfm?id=3606027)
@@ -20,7 +21,6 @@
 * [2023-07-25, 15:17:45](https://news.ycombinator.com/item?id=36863581) - [We're not Platonists, we've just learned the bitter lesson](https://astralcodexten.substack.com/p/were-not-platonists-weve-just-learned)
 * [2023-07-25, 15:13:57](https://news.ycombinator.com/item?id=36863522) - [ONNX runtime: Cross-platform accelerated machine learning](https://onnxruntime.ai/)
 * [2023-07-25, 14:34:17](https://news.ycombinator.com/item?id=36862850) - [OpenAI shuts down its AI Classifier due to poor accuracy](https://decrypt.co/149826/openai-quietly-shutters-its-ai-detection-tool)
-* [2023-07-25, 12:33:01](https://news.ycombinator.com/item?id=36861302) - [Our World of Pixels](https://ourworldofpixels.com/)
 * [2023-07-25, 11:45:06](https://news.ycombinator.com/item?id=36860898) - [Show HN: Invoice Dragon – An open source app to create PDF invoices](https://invoicedragon.com/)
 * [2023-07-25, 10:53:19](https://news.ycombinator.com/item?id=36860488) - [The Internet Free Zone (1997)](https://arachnoid.com/freezone/)
 * [2023-07-25, 09:20:50](https://news.ycombinator.com/item?id=36859880) - [Textual Paint – MS Paint in your terminal](https://github.com/1j01/textual-paint)
