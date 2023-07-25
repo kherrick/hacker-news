@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
+* [2023-07-25, 06:21:55](https://news.ycombinator.com/item?id=36858642) - [YouTube is banning links to filmmusic (free music provider), appeal doesn't work](https://news.ycombinator.com/item?id=36858642)
 * [2023-07-25, 04:32:45](https://news.ycombinator.com/item?id=36857925) - [ChatGPT Hacks](https://www.insecure.in/blog/chatgpt-hacks)
 * [2023-07-25, 04:07:36](https://news.ycombinator.com/item?id=36857758) - [The 1990s Amiga with Video Toaster has a VFX cool factor that endures today](https://cdm.link/2023/07/amiga-video-toaster-cool-factor/)
 * [2023-07-25, 03:55:43](https://news.ycombinator.com/item?id=36857676) - [Contributor to Google's WEI repo: So, you don't like a web platform proposal](https://blog.yoav.ws/posts/web_platform_change_you_do_not_like/)
