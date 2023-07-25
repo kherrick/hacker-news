@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
+* [2023-07-25, 21:00:54](https://news.ycombinator.com/item?id=36869457) - [Tesorio (YC S15) Is Hiring a Head of Marketing – join our 100% remote startup](https://jobs.lever.co/tesorio/10de016f-be07-4707-ac5c-7029f0398a17)
+* [2023-07-25, 20:11:07](https://news.ycombinator.com/item?id=36868630) - [US Education Dept. Opens Civil Rights Inquiry into Harvard’s Legacy Admissions](https://www.nytimes.com/2023/07/25/us/politics/harvard-admissions-civil-rights-inquiry.html)
 * [2023-07-25, 20:08:45](https://news.ycombinator.com/item?id=36868593) - [Alphabet Announces Second Quarter 2023 Results [pdf]](https://abc.xyz/assets/20/ef/844a05b84b6f9dbf2c3592e7d9c7/2023q2-alphabet-earnings-release.pdf)
 * [2023-07-25, 19:24:38](https://news.ycombinator.com/item?id=36867988) - [Texas A&M suspended professor accused of criticizing Lt. Gov. Patrick in lecture](https://www.texastribune.org/2023/07/25/texas-a-m-professor-opioids-dan-patrick/)
 * [2023-07-25, 18:56:17](https://news.ycombinator.com/item?id=36867576) - [DeSantis campaign deputy helped spam the FCC with anti-net neutrality comments](https://www.dailydot.com/debug/ethan-eilon-desantis-campaign-net-neutrality/)
@@ -57,6 +59,7 @@
 * [2023-07-25, 06:21:55](https://news.ycombinator.com/item?id=36858642) - [YouTube is banning links to filmmusic (free music provider), appeal doesn't work](https://news.ycombinator.com/item?id=36858642)
 * [2023-07-25, 06:19:49](https://news.ycombinator.com/item?id=36858633) - [Robo-Taxis are rolling, did you notice?](https://cmte.ieee.org/futuredirections/2023/07/25/robo-taxi-are-rolling-did-you-notice/)
 * [2023-07-25, 04:32:45](https://news.ycombinator.com/item?id=36857925) - [ChatGPT Hacks](https://www.insecure.in/blog/chatgpt-hacks)
+* [2023-07-25, 04:29:35](https://news.ycombinator.com/item?id=36857909) - [Job applicants are battling AI résumé filters with ‘white fonting’](https://www.washingtonpost.com/technology/2023/07/24/white-font-resume-tip-keywords/)
 * [2023-07-25, 04:07:36](https://news.ycombinator.com/item?id=36857758) - [The 1990s Amiga with Video Toaster has a VFX cool factor that endures today](https://cdm.link/2023/07/amiga-video-toaster-cool-factor/)
 * [2023-07-25, 03:55:43](https://news.ycombinator.com/item?id=36857676) - [Contributor to Google's WEI repo: So, you don't like a web platform proposal](https://blog.yoav.ws/posts/web_platform_change_you_do_not_like/)
 * [2023-07-25, 03:27:58](https://news.ycombinator.com/item?id=36857506) - [Parents, environmentalists to Google: stop Chromebooks from expiring this summer](https://pirg.org/edfund/resources/chromebook-expiration-full-letter/)
