@@ -17,6 +17,7 @@
 * [2023-07-24, 19:35:32](https://news.ycombinator.com/item?id=36853166) - [Advanced Performance Extensions (APX)](https://www.intel.com/content/www/us/en/developer/articles/technical/advanced-performance-extensions-apx.html)
 * [2023-07-24, 19:18:26](https://news.ycombinator.com/item?id=36852971) - [A simple guide to fine-tuning Llama 2](https://brev.dev/blog/fine-tuning-llama-2)
 * [2023-07-24, 18:45:54](https://news.ycombinator.com/item?id=36852565) - [A Breakdown of HTTP Clients in Elixir](https://andrealeopardi.com/posts/breakdown-of-http-clients-in-elixir/)
+* [2023-07-24, 18:44:51](https://news.ycombinator.com/item?id=36852545) - [“Devil’s horsemen”: Why Mongol horse archers were history’s most feared](https://bigthink.com/the-past/mongol-archery-secret/)
 * [2023-07-24, 18:26:42](https://news.ycombinator.com/item?id=36852300) - [OpenBSD on Zenbleed](https://marc.info/?l=openbsd-tech&m=169021508718971&w=2)
 * [2023-07-24, 18:22:37](https://news.ycombinator.com/item?id=36852231) - [Elixir is still safe](https://paraxial.io/blog/still-safe)
 * [2023-07-24, 17:43:37](https://news.ycombinator.com/item?id=36851644) - [Have attention spans been declining?](https://slimemoldtimemold.com/2023/07/24/your-mystery-have-attention-spans-been-declining/)
@@ -27,7 +28,6 @@
 * [2023-07-24, 16:03:03](https://news.ycombinator.com/item?id=36850111) - [40 years ago yesterday Air Canada Flight 143 ran out of fuel mid-flight](https://www.damninteresting.com/the-gimli-glider/)
 * [2023-07-24, 15:25:06](https://news.ycombinator.com/item?id=36849502) - [Show HN: I spent 2 years building a personal finance simulator](https://projectionlab.com/)
 * [2023-07-24, 14:34:31](https://news.ycombinator.com/item?id=36848680) - [Zenbleed](https://lock.cmpxchg8b.com/zenbleed.html)
-* [2023-07-24, 13:49:08](https://news.ycombinator.com/item?id=36847960) - [Show HN: I built a transit travel time map](https://map.henryn.xyz)
 * [2023-07-24, 13:21:19](https://news.ycombinator.com/item?id=36847569) - [Launch HN: Artie (YC S23) – Real time data replication to data warehouses](https://news.ycombinator.com/item?id=36847569)
 * [2023-07-23, 09:45:21](https://news.ycombinator.com/item?id=36833851) - [Threads and Goroutines](https://shane.ai/posts/threads-and-goroutines/)
 
