@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2023-07-24, 19:35:32",
-      "https://news.ycombinator.com/item?id=36853166"
-    ],
-    [
-      "Advanced Performance Extensions (APX)",
-      "https://www.intel.com/content/www/us/en/developer/articles/technical/advanced-performance-extensions-apx.html"
-    ]
-  ],
-  [
-    [
       "2023-07-24, 19:18:26",
       "https://news.ycombinator.com/item?id=36852971"
     ],
@@ -247,6 +237,16 @@
     [
       "Attention Is Off By One",
       "https://www.evanmiller.org/attention-is-off-by-one.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-24, 17:31:58",
+      "https://news.ycombinator.com/item?id=36851475"
+    ],
+    [
+      "Ceed – A tiny x86 compiler with ELF and PE target (2017)",
+      "https://github.com/ipankajg/ceed"
     ]
   ],
   [
