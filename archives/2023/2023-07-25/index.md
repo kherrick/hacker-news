@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
+* [2023-07-25, 17:40:37](https://news.ycombinator.com/item?id=36866242) - [Hyperlink Maximalism (2022)](https://thesephist.com/posts/hyperlink/)
 * [2023-07-25, 17:10:58](https://news.ycombinator.com/item?id=36865684) - [Ask HN: Did DNSimple silently update their pricing from $30/month to $199/month?](https://news.ycombinator.com/item?id=36865684)
 * [2023-07-25, 17:07:12](https://news.ycombinator.com/item?id=36865625) - [Launch HN: Roundtable (YC S23) – Using AI to Simulate Surveys](https://news.ycombinator.com/item?id=36865625)
 * [2023-07-25, 17:00:53](https://news.ycombinator.com/item?id=36865531) - [Aviator (YC S21) is hiring engineers to build advanced Git tools](https://www.ycombinator.com/companies/aviator/jobs)
