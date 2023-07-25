@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-25, 09:04:21](https://news.ycombinator.com/item?id=36859785) - [From Python to Elixir Machine Learning](https://www.thestackcanary.com/from-python-pytorch-to-elixir-nx/)
 * [2023-07-25, 08:26:22](https://news.ycombinator.com/item?id=36859510) - [I've skimmed 66520 newsgroups trying to find some life on the Usenet (2020)](https://mastodon.sdf.org/@cfenollosa/103469996345323076)
 * [2023-07-25, 04:07:36](https://news.ycombinator.com/item?id=36857758) - [The 1990s Amiga with Video Toaster has a VFX cool factor that endures today](https://cdm.link/2023/07/amiga-video-toaster-cool-factor/)
 * [2023-07-25, 03:27:58](https://news.ycombinator.com/item?id=36857506) - [Parents, environmentalists to Google: stop Chromebooks from expiring this summer](https://pirg.org/edfund/resources/chromebook-expiration-full-letter/)
@@ -16,7 +17,6 @@
 * [2023-07-24, 20:54:23](https://news.ycombinator.com/item?id=36854061) - [People in 1920s Berlin nightclubs flirted via pneumatic tubes](https://www.atlasobscura.com/articles/pneumatic-tube-table-phone-flirting-berlin)
 * [2023-07-24, 20:06:26](https://news.ycombinator.com/item?id=36853495) - [Python: Overlooked core functionalities](https://erikvandeven.medium.com/python-uncovering-the-overlooked-core-functionalities-54590420c225)
 * [2023-07-24, 19:39:34](https://news.ycombinator.com/item?id=36853206) - [The Algorithmic Beauty of Plants [pdf]](http://algorithmicbotany.org/papers/abop/abop.pdf)
-* [2023-07-24, 19:35:32](https://news.ycombinator.com/item?id=36853166) - [Advanced Performance Extensions (APX)](https://www.intel.com/content/www/us/en/developer/articles/technical/advanced-performance-extensions-apx.html)
 * [2023-07-24, 19:31:29](https://news.ycombinator.com/item?id=36853128) - [Durable Incrementality](https://rust-analyzer.github.io//blog/2023/07/24/durable-incrementality.html)
 * [2023-07-24, 19:18:26](https://news.ycombinator.com/item?id=36852971) - [A simple guide to fine-tuning Llama 2](https://brev.dev/blog/fine-tuning-llama-2)
 * [2023-07-24, 18:45:54](https://news.ycombinator.com/item?id=36852565) - [A Breakdown of HTTP Clients in Elixir](https://andrealeopardi.com/posts/breakdown-of-http-clients-in-elixir/)

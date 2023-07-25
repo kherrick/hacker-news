@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
+* [2023-07-25, 09:04:21](https://news.ycombinator.com/item?id=36859785) - [From Python to Elixir Machine Learning](https://www.thestackcanary.com/from-python-pytorch-to-elixir-nx/)
 * [2023-07-25, 08:26:22](https://news.ycombinator.com/item?id=36859510) - [I've skimmed 66520 newsgroups trying to find some life on the Usenet (2020)](https://mastodon.sdf.org/@cfenollosa/103469996345323076)
 * [2023-07-25, 06:21:55](https://news.ycombinator.com/item?id=36858642) - [YouTube is banning links to filmmusic (free music provider), appeal doesn't work](https://news.ycombinator.com/item?id=36858642)
 * [2023-07-25, 04:32:45](https://news.ycombinator.com/item?id=36857925) - [ChatGPT Hacks](https://www.insecure.in/blog/chatgpt-hacks)
