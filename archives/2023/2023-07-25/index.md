@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
+* [2023-07-25, 19:24:38](https://news.ycombinator.com/item?id=36867988) - [Texas A&M suspended professor accused of criticizing Lt. Gov. Patrick in lecture](https://www.texastribune.org/2023/07/25/texas-a-m-professor-opioids-dan-patrick/)
 * [2023-07-25, 18:56:17](https://news.ycombinator.com/item?id=36867576) - [DeSantis campaign deputy helped spam the FCC with anti-net neutrality comments](https://www.dailydot.com/debug/ethan-eilon-desantis-campaign-net-neutrality/)
 * [2023-07-25, 18:15:37](https://news.ycombinator.com/item?id=36866885) - [I chose Neo and turned down a spot in Y Combinator](https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator)
 * [2023-07-25, 18:13:51](https://news.ycombinator.com/item?id=36866861) - [PRQL, Pipelined Relational Query Language](https://github.com/PRQL/prql)
