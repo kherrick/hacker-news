@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
+* [2023-07-25, 21:18:45](https://news.ycombinator.com/item?id=36869747) - [Stone Knives and Bear Skins – There is no money in tools](https://queue.acm.org/detail.cfm?id=3606027)
+* [2023-07-25, 21:17:53](https://news.ycombinator.com/item?id=36869738) - [“We’ve Changed the Game”: Teamsters Win Historic UPS Contract](https://teamster.org/2023/07/weve-changed-the-game-teamsters-win-historic-ups-contract/)
 * [2023-07-25, 21:00:54](https://news.ycombinator.com/item?id=36869457) - [Tesorio (YC S15) Is Hiring a Head of Marketing – join our 100% remote startup](https://jobs.lever.co/tesorio/10de016f-be07-4707-ac5c-7029f0398a17)
 * [2023-07-25, 20:33:39](https://news.ycombinator.com/item?id=36868978) - [A command-line murder mystery](https://github.com/veltman/clmystery)
 * [2023-07-25, 20:11:07](https://news.ycombinator.com/item?id=36868630) - [US Education Dept. Opens Civil Rights Inquiry into Harvard’s Legacy Admissions](https://www.nytimes.com/2023/07/25/us/politics/harvard-admissions-civil-rights-inquiry.html)
@@ -59,6 +61,7 @@
 * [2023-07-25, 08:26:22](https://news.ycombinator.com/item?id=36859510) - [I've skimmed 66520 newsgroups trying to find some life on the Usenet (2020)](https://mastodon.sdf.org/@cfenollosa/103469996345323076)
 * [2023-07-25, 06:21:55](https://news.ycombinator.com/item?id=36858642) - [YouTube is banning links to filmmusic (free music provider), appeal doesn't work](https://news.ycombinator.com/item?id=36858642)
 * [2023-07-25, 06:19:49](https://news.ycombinator.com/item?id=36858633) - [Robo-Taxis are rolling, did you notice?](https://cmte.ieee.org/futuredirections/2023/07/25/robo-taxi-are-rolling-did-you-notice/)
+* [2023-07-25, 04:57:45](https://news.ycombinator.com/item?id=36858076) - [Digikey's Physical Connectors Tutorial](https://www.digikey.com/en/articles/connector-tutorial)
 * [2023-07-25, 04:32:45](https://news.ycombinator.com/item?id=36857925) - [ChatGPT Hacks](https://www.insecure.in/blog/chatgpt-hacks)
 * [2023-07-25, 04:29:35](https://news.ycombinator.com/item?id=36857909) - [Job applicants are battling AI résumé filters with ‘white fonting’](https://www.washingtonpost.com/technology/2023/07/24/white-font-resume-tip-keywords/)
 * [2023-07-25, 04:07:36](https://news.ycombinator.com/item?id=36857758) - [The 1990s Amiga with Video Toaster has a VFX cool factor that endures today](https://cdm.link/2023/07/amiga-video-toaster-cool-factor/)
