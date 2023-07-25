@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
+* [2023-07-25, 20:08:45](https://news.ycombinator.com/item?id=36868593) - [Alphabet Announces Second Quarter 2023 Results [pdf]](https://abc.xyz/assets/20/ef/844a05b84b6f9dbf2c3592e7d9c7/2023q2-alphabet-earnings-release.pdf)
 * [2023-07-25, 19:24:38](https://news.ycombinator.com/item?id=36867988) - [Texas A&M suspended professor accused of criticizing Lt. Gov. Patrick in lecture](https://www.texastribune.org/2023/07/25/texas-a-m-professor-opioids-dan-patrick/)
 * [2023-07-25, 18:56:17](https://news.ycombinator.com/item?id=36867576) - [DeSantis campaign deputy helped spam the FCC with anti-net neutrality comments](https://www.dailydot.com/debug/ethan-eilon-desantis-campaign-net-neutrality/)
 * [2023-07-25, 18:15:37](https://news.ycombinator.com/item?id=36866885) - [I chose Neo and turned down a spot in Y Combinator](https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator)

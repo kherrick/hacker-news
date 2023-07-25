@@ -83,6 +83,7 @@
 * [2023-07-24, 10:45:26](https://news.ycombinator.com/item?id=36845714) - [The Unreasonable Effectiveness of Sequence Diagrams in MermaidJS](https://jessems.com/posts/2023-07-22-the-unreasonable-effectiveness-of-sequence-diagrams-in-mermaidjs)
 * [2023-07-24, 10:21:05](https://news.ycombinator.com/item?id=36845492) - [Twitter unveils X logo to replace blue bird](https://www.bbc.com/news/business-66284304)
 * [2023-07-24, 10:02:24](https://news.ycombinator.com/item?id=36845347) - [DietPi – Lightweight justice for your SBC](https://dietpi.com/#home)
+* [2023-07-24, 09:57:12](https://news.ycombinator.com/item?id=36845308) - [Ask HN: IBM Model M Keyboard Alternative?](https://news.ycombinator.com/item?id=36845308)
 * [2023-07-24, 09:34:23](https://news.ycombinator.com/item?id=36845111) - [Twitter has officially changed its logo to ‘X’](https://techcrunch.com/2023/07/24/twitter-has-officially-changed-its-logo-to-x/)
 * [2023-07-24, 08:53:19](https://news.ycombinator.com/item?id=36844793) - [Sam Altman’s Worldcoin Crypto Project Officially Launches](https://www.bloomberg.com/news/articles/2023-07-24/sam-altman-s-worldcoin-crypto-project-officially-launches)
 * [2023-07-24, 08:26:01](https://news.ycombinator.com/item?id=36844579) - [Codex Gigas: the largest manuscript of the middle ages](https://historyofinformation.com/detail.php?entryid=2359)
