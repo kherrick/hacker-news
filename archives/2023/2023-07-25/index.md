@@ -17,6 +17,7 @@
 * [2023-07-25, 16:58:42](https://news.ycombinator.com/item?id=36865495) - [A comprehensive guide to running Llama 2 locally](https://replicate.com/blog/run-llama-locally)
 * [2023-07-25, 16:57:35](https://news.ycombinator.com/item?id=36865465) - [GM reverses plan to retire Chevrolet Bolt as it chases EV target](https://www.ft.com/content/fd367bd6-a73a-4d80-b0d0-32837724bd0a)
 * [2023-07-25, 16:48:59](https://news.ycombinator.com/item?id=36865309) - [I Want Off Mr. Golang's Wild Ride](https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride)
+* [2023-07-25, 16:47:58](https://news.ycombinator.com/item?id=36865287) - [Unicode is harder than you think](https://mcilloni.ovh/2023/07/23/unicode-is-hard/)
 * [2023-07-25, 16:35:47](https://news.ycombinator.com/item?id=36865060) - [Social engineering campaign targeting tech employees spreads through NPM malware](https://socket.dev/blog/social-engineering-campaign-npm-malware)
 * [2023-07-25, 16:28:13](https://news.ycombinator.com/item?id=36864892) - [Crucial system of ocean currents is collapsing; ‘affects everyone on the planet’](https://www.cnn.com/2023/07/25/world/gulf-stream-atlantic-current-collapse-climate-scn-intl/index.html)
 * [2023-07-25, 16:14:32](https://news.ycombinator.com/item?id=36864624) - [The First Room-Temperature Ambient-Pressure Superconductor](https://arxiv.org/abs/2307.12008)
