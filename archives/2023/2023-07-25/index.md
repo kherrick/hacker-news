@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
+* [2023-07-25, 15:13:57](https://news.ycombinator.com/item?id=36863522) - [Onnx Runtime: “Cross-Platform Accelerated Machine Learning”](https://onnxruntime.ai/)
+* [2023-07-25, 14:59:31](https://news.ycombinator.com/item?id=36863280) - [The remote work dominates on HN:Who is hiring? – 69% jobs in 2023 are remote](https://blog.spatial.chat/tracking-hackernews-shifting-preferences-for-remote-jobs-over-5-years/)
 * [2023-07-25, 14:58:57](https://news.ycombinator.com/item?id=36863262) - [Goodbye, waitlist. Hello, Arc 1.0](https://twitter.com/browsercompany/status/1683839541399154689)
 * [2023-07-25, 14:49:14](https://news.ycombinator.com/item?id=36863094) - [Before you try to do something, make sure you can do nothing](https://devblogs.microsoft.com/oldnewthing/20230725-00/?p=108482)
 * [2023-07-25, 14:34:37](https://news.ycombinator.com/item?id=36862855) - [The burden of Long Covid “so large as to be unfathomable”](https://www.rnz.co.nz/national/programmes/saturday/audio/2018899512/prof-danny-altmann-the-burden-of-long-covid)
 * [2023-07-25, 14:34:17](https://news.ycombinator.com/item?id=36862850) - [OpenAI Quietly Shuts Down Its AI Detection Tool](https://decrypt.co/149826/openai-quietly-shutters-its-ai-detection-tool)
 * [2023-07-25, 14:16:34](https://news.ycombinator.com/item?id=36862585) - [Ask HN: What is the best thing you learnt or got out of Hacker News?](https://news.ycombinator.com/item?id=36862585)
 * [2023-07-25, 14:16:15](https://news.ycombinator.com/item?id=36862579) - [Sugary drinks tax could prevent decay and increase health equity: study](https://www.monash.edu/news/articles/sugary-drinks-tax-could-prevent-decay-and-increase-health-equity-study)
+* [2023-07-25, 14:14:25](https://news.ycombinator.com/item?id=36862546) - [Arc 1.0 – a freeware web browser developed by The Browser Company](https://arc.net/)
 * [2023-07-25, 14:10:12](https://news.ycombinator.com/item?id=36862494) - [Apple already shipped attestation on the web, and we barely noticed](https://httptoolkit.com/blog/apple-private-access-tokens-attestation/)
 * [2023-07-25, 13:18:09](https://news.ycombinator.com/item?id=36861755) - [Safari 17 Link Tracking Protection](https://mjtsai.com/blog/2023/06/19/safari-17-link-tracking-protection/)
 * [2023-07-25, 12:58:32](https://news.ycombinator.com/item?id=36861545) - [Amazon will force a 'voluntary resignation' on employees](https://www.businessinsider.com/amazon-voluntary-resignation-employees-relocate-rto-2023-7)

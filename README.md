@@ -1,11 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-25, 15:13:57](https://news.ycombinator.com/item?id=36863522) - [Onnx Runtime: “Cross-Platform Accelerated Machine Learning”](https://onnxruntime.ai/)
+* [2023-07-25, 14:59:31](https://news.ycombinator.com/item?id=36863280) - [The remote work dominates on HN:Who is hiring? – 69% jobs in 2023 are remote](https://blog.spatial.chat/tracking-hackernews-shifting-preferences-for-remote-jobs-over-5-years/)
 * [2023-07-25, 14:58:57](https://news.ycombinator.com/item?id=36863262) - [Goodbye, waitlist. Hello, Arc 1.0](https://twitter.com/browsercompany/status/1683839541399154689)
 * [2023-07-25, 14:49:14](https://news.ycombinator.com/item?id=36863094) - [Before you try to do something, make sure you can do nothing](https://devblogs.microsoft.com/oldnewthing/20230725-00/?p=108482)
 * [2023-07-25, 14:34:37](https://news.ycombinator.com/item?id=36862855) - [The burden of Long Covid “so large as to be unfathomable”](https://www.rnz.co.nz/national/programmes/saturday/audio/2018899512/prof-danny-altmann-the-burden-of-long-covid)
 * [2023-07-25, 14:34:17](https://news.ycombinator.com/item?id=36862850) - [OpenAI Quietly Shuts Down Its AI Detection Tool](https://decrypt.co/149826/openai-quietly-shutters-its-ai-detection-tool)
 * [2023-07-25, 14:16:34](https://news.ycombinator.com/item?id=36862585) - [Ask HN: What is the best thing you learnt or got out of Hacker News?](https://news.ycombinator.com/item?id=36862585)
-* [2023-07-25, 14:16:15](https://news.ycombinator.com/item?id=36862579) - [Sugary drinks tax could prevent decay and increase health equity: study](https://www.monash.edu/news/articles/sugary-drinks-tax-could-prevent-decay-and-increase-health-equity-study)
+* [2023-07-25, 14:14:25](https://news.ycombinator.com/item?id=36862546) - [Arc 1.0 – a freeware web browser developed by The Browser Company](https://arc.net/)
 * [2023-07-25, 14:10:12](https://news.ycombinator.com/item?id=36862494) - [Apple already shipped attestation on the web, and we barely noticed](https://httptoolkit.com/blog/apple-private-access-tokens-attestation/)
 * [2023-07-25, 11:57:27](https://news.ycombinator.com/item?id=36860992) - [What We Know About LLMs](https://willthompson.name/what-we-know-about-llms-primer)
 * [2023-07-25, 11:45:06](https://news.ycombinator.com/item?id=36860898) - [Show HN: Invoice Dragon – An open source app to create PDF invoices](https://invoicedragon.com/)
@@ -24,12 +26,10 @@
 * [2023-07-24, 19:31:29](https://news.ycombinator.com/item?id=36853128) - [Durable Incrementality](https://rust-analyzer.github.io//blog/2023/07/24/durable-incrementality.html)
 * [2023-07-24, 18:45:54](https://news.ycombinator.com/item?id=36852565) - [A Breakdown of HTTP Clients in Elixir](https://andrealeopardi.com/posts/breakdown-of-http-clients-in-elixir/)
 * [2023-07-24, 18:44:47](https://news.ycombinator.com/item?id=36852542) - [Chicago’s Railroad Problem](https://homesignalblog.wordpress.com/2023/07/18/chicagos-railroad-problem/)
-* [2023-07-24, 17:43:37](https://news.ycombinator.com/item?id=36851644) - [Have attention spans been declining?](https://slimemoldtimemold.com/2023/07/24/your-mystery-have-attention-spans-been-declining/)
 * [2023-07-24, 17:33:06](https://news.ycombinator.com/item?id=36851494) - [Attention Is Off By One](https://www.evanmiller.org/attention-is-off-by-one.html)
 * [2023-07-24, 17:24:35](https://news.ycombinator.com/item?id=36851371) - [Bitsummit 2023: Steam Decks everywhere, no VR, and impressive indie games](https://boilingsteam.com/bitsummit-2023-steam-decks-everywhere-no-vr-and-impressive-indie-games/)
 * [2023-07-24, 17:24:21](https://news.ycombinator.com/item?id=36851369) - [From Pet Cemetery Owner to Identity Thief to Best-Selling Ghostwriter](https://www.nytimes.com/2023/07/24/books/lara-love-hardin-memoir-many-lives-mama-love.html)
 * [2023-07-24, 14:34:31](https://news.ycombinator.com/item?id=36848680) - [Zenbleed](https://lock.cmpxchg8b.com/zenbleed.html)
-* [2023-07-24, 13:21:19](https://news.ycombinator.com/item?id=36847569) - [Launch HN: Artie (YC S23) – Real time data replication to data warehouses](https://news.ycombinator.com/item?id=36847569)
 
 ## [Archives](archives/index.md)
 
