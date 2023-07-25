@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
+* [2023-07-25, 16:28:13](https://news.ycombinator.com/item?id=36864892) - [Crucial system of ocean currents is collapsing; ‘affects everyone on the planet’](https://www.cnn.com/2023/07/25/world/gulf-stream-atlantic-current-collapse-climate-scn-intl/index.html)
+* [2023-07-25, 16:14:32](https://news.ycombinator.com/item?id=36864624) - [The First Room-Temperature Ambient-Pressure Superconductor](https://arxiv.org/abs/2307.12008)
 * [2023-07-25, 16:10:53](https://news.ycombinator.com/item?id=36864547) - [Autoenshittification. How the computer killed capitalism. – by Cory Doctorow](https://doctorow.medium.com/autoenshittification-cb851c2574fb)
 * [2023-07-25, 15:59:54](https://news.ycombinator.com/item?id=36864319) - [Warning of forthcoming collapse of Atlantic meridional overturning circulation](https://www.nature.com/articles/s41467-023-39810-w)
 * [2023-07-25, 15:49:39](https://news.ycombinator.com/item?id=36864115) - [Is technical analysis just stock market astrology?](https://alicegg.tech//2023/07/25/technical-analysis.html)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-25, 16:28:13](https://news.ycombinator.com/item?id=36864892) - [Crucial system of ocean currents is collapsing; ‘affects everyone on the planet’](https://www.cnn.com/2023/07/25/world/gulf-stream-atlantic-current-collapse-climate-scn-intl/index.html)
+* [2023-07-25, 16:14:32](https://news.ycombinator.com/item?id=36864624) - [The First Room-Temperature Ambient-Pressure Superconductor](https://arxiv.org/abs/2307.12008)
 * [2023-07-25, 16:10:53](https://news.ycombinator.com/item?id=36864547) - [Autoenshittification. How the computer killed capitalism. – by Cory Doctorow](https://doctorow.medium.com/autoenshittification-cb851c2574fb)
 * [2023-07-25, 15:59:54](https://news.ycombinator.com/item?id=36864319) - [Warning of forthcoming collapse of Atlantic meridional overturning circulation](https://www.nature.com/articles/s41467-023-39810-w)
 * [2023-07-25, 15:49:39](https://news.ycombinator.com/item?id=36864115) - [Is technical analysis just stock market astrology?](https://alicegg.tech//2023/07/25/technical-analysis.html)
@@ -9,7 +11,6 @@
 * [2023-07-25, 15:09:11](https://news.ycombinator.com/item?id=36863443) - [Journalists should be skeptical of all sources including scientists](https://www.natesilver.net/p/journalists-should-be-skeptical-of)
 * [2023-07-25, 14:59:31](https://news.ycombinator.com/item?id=36863280) - [The remote work dominates on HN:Who is hiring? – 69% jobs in 2023 are remote](https://blog.spatial.chat/tracking-hackernews-shifting-preferences-for-remote-jobs-over-5-years/)
 * [2023-07-25, 14:49:14](https://news.ycombinator.com/item?id=36863094) - [Before you try to do something, make sure you can do nothing](https://devblogs.microsoft.com/oldnewthing/20230725-00/?p=108482)
-* [2023-07-25, 14:34:37](https://news.ycombinator.com/item?id=36862855) - [The burden of Long Covid “so large as to be unfathomable”](https://www.rnz.co.nz/national/programmes/saturday/audio/2018899512/prof-danny-altmann-the-burden-of-long-covid)
 * [2023-07-25, 14:34:17](https://news.ycombinator.com/item?id=36862850) - [OpenAI Quietly Shuts Down Its AI Detection Tool](https://decrypt.co/149826/openai-quietly-shutters-its-ai-detection-tool)
 * [2023-07-25, 14:21:50](https://news.ycombinator.com/item?id=36862658) - [Why did it take psychedelics so long to become popular?](https://resobscura.substack.com/p/why-did-it-take-psychedelics-so-long)
 * [2023-07-25, 14:10:12](https://news.ycombinator.com/item?id=36862494) - [Apple already shipped attestation on the web, and we barely noticed](https://httptoolkit.com/blog/apple-private-access-tokens-attestation/)
@@ -27,7 +28,6 @@
 * [2023-07-24, 23:11:56](https://news.ycombinator.com/item?id=36855516) - [The Fall of Stack Overflow](https://observablehq.com/@ayhanfuat/the-fall-of-stack-overflow)
 * [2023-07-24, 18:45:54](https://news.ycombinator.com/item?id=36852565) - [A Breakdown of HTTP Clients in Elixir](https://andrealeopardi.com/posts/breakdown-of-http-clients-in-elixir/)
 * [2023-07-24, 18:44:47](https://news.ycombinator.com/item?id=36852542) - [Chicago’s Railroad Problem](https://homesignalblog.wordpress.com/2023/07/18/chicagos-railroad-problem/)
-* [2023-07-24, 17:33:06](https://news.ycombinator.com/item?id=36851494) - [Attention Is Off By One](https://www.evanmiller.org/attention-is-off-by-one.html)
 * [2023-07-24, 17:24:35](https://news.ycombinator.com/item?id=36851371) - [Bitsummit 2023: Steam Decks everywhere, no VR, and impressive indie games](https://boilingsteam.com/bitsummit-2023-steam-decks-everywhere-no-vr-and-impressive-indie-games/)
 * [2023-07-24, 15:16:55](https://news.ycombinator.com/item?id=36849376) - ['Magnetic Rose'](https://animationobsessive.substack.com/p/the-secrets-of-magnetic-rose)
 
