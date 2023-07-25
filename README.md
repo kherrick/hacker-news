@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-25, 01:01:56](https://news.ycombinator.com/item?id=36856433) - [Twitter’s Rebrand to X Could Be a Trademark Nightmare Thanks to Microsoft](https://themessenger.com/tech/twitters-rebrand-to-x-could-be-a-trademark-nightmare-thanks-to-microsoft)
+* [2023-07-25, 01:00:03](https://news.ycombinator.com/item?id=36856416) - [Per capita CO₂ emissions Over Time](https://ourworldindata.org/grapher/co-emissions-per-capita)
 * [2023-07-24, 23:29:51](https://news.ycombinator.com/item?id=36855646) - [Byron Bay data breach victim told to pay Adidas, NBA $1.2M by US courts](https://www.abc.net.au/news/2023-07-25/byron-bay-data-breach-victim-adidas-nab-us-court-action-damages/102575726)
 * [2023-07-24, 23:12:11](https://news.ycombinator.com/item?id=36855517) - [Vscode.dev: Local Development with Cloud Tools](https://vscode.dev/)
 * [2023-07-24, 23:11:56](https://news.ycombinator.com/item?id=36855516) - [The Fall of Stack Overflow](https://observablehq.com/@ayhanfuat/the-fall-of-stack-overflow)
@@ -21,7 +23,6 @@
 * [2023-07-24, 17:33:06](https://news.ycombinator.com/item?id=36851494) - [Attention Is Off By One](https://www.evanmiller.org/attention-is-off-by-one.html)
 * [2023-07-24, 17:01:05](https://news.ycombinator.com/item?id=36851054) - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.workatastartup.com/jobs/61922/)
 * [2023-07-24, 16:03:03](https://news.ycombinator.com/item?id=36850111) - [40 years ago yesterday Air Canada Flight 143 ran out of fuel mid-flight](https://www.damninteresting.com/the-gimli-glider/)
-* [2023-07-24, 15:42:25](https://news.ycombinator.com/item?id=36849784) - [How capacity planners credibly estimate application performance](https://queue.acm.org/detail.cfm?id=3595862)
 * [2023-07-24, 15:25:06](https://news.ycombinator.com/item?id=36849502) - [Show HN: I spent 2 years building a personal finance simulator](https://projectionlab.com/)
 * [2023-07-24, 15:23:30](https://news.ycombinator.com/item?id=36849478) - [Wasm_of_OCaml](https://github.com/ocaml-wasm/wasm_of_ocaml)
 * [2023-07-24, 14:34:31](https://news.ycombinator.com/item?id=36848680) - [Zenbleed](https://lock.cmpxchg8b.com/zenbleed.html)
@@ -29,7 +30,6 @@
 * [2023-07-24, 13:21:19](https://news.ycombinator.com/item?id=36847569) - [Launch HN: Artie (YC S23) – Real time data replication to data warehouses](https://news.ycombinator.com/item?id=36847569)
 * [2023-07-24, 12:02:50](https://news.ycombinator.com/item?id=36846520) - [Driver.js: Product tours, highlights, contextual help and more](https://driverjs.com/)
 * [2023-07-23, 09:45:21](https://news.ycombinator.com/item?id=36833851) - [Threads and Goroutines](https://shane.ai/posts/threads-and-goroutines/)
-* [2023-07-23, 06:20:21](https://news.ycombinator.com/item?id=36832999) - [The economics of the Birkin bag (2016)](https://www.economist.com/1843/2016/07/28/the-secret-economics-of-the-birkin-bag)
 
 ## [Archives](archives/index.md)
 
