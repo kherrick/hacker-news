@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-25, 22:40:58](https://news.ycombinator.com/item?id=36870702) - [Seattle in Progress](https://www.seattleinprogress.com/)
 * [2023-07-25, 21:56:00](https://news.ycombinator.com/item?id=36870140) - [Whom the gods would destroy, they first give real-time analytics (2013)](https://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics)
 * [2023-07-25, 21:18:45](https://news.ycombinator.com/item?id=36869747) - [Stone knives and bear skins – there is no money in tools](https://queue.acm.org/detail.cfm?id=3606027)
 * [2023-07-25, 21:02:32](https://news.ycombinator.com/item?id=36869486) - [The Mathematica Journal is no longer accepting submissions](https://www.mathematica-journal.com/)
@@ -15,11 +16,11 @@
 * [2023-07-25, 16:47:58](https://news.ycombinator.com/item?id=36865287) - [Unicode is harder than you think](https://mcilloni.ovh/2023/07/23/unicode-is-hard/)
 * [2023-07-25, 16:35:47](https://news.ycombinator.com/item?id=36865060) - [Social engineering campaign targeting tech employees spreads through NPM malware](https://socket.dev/blog/social-engineering-campaign-npm-malware)
 * [2023-07-25, 16:14:32](https://news.ycombinator.com/item?id=36864624) - [The first room-temperature ambient-pressure superconductor?](https://arxiv.org/abs/2307.12008)
-* [2023-07-25, 15:43:56](https://news.ycombinator.com/item?id=36864021) - [Show HN: Marsha – An LLM-Based Programming Language](https://github.com/alantech/marsha)
 * [2023-07-25, 15:38:41](https://news.ycombinator.com/item?id=36863915) - [The Messaging Layer Security (MLS) Protocol](https://datatracker.ietf.org/doc/html/rfc9420)
 * [2023-07-25, 15:17:45](https://news.ycombinator.com/item?id=36863581) - [We're not Platonists, we've just learned the bitter lesson](https://astralcodexten.substack.com/p/were-not-platonists-weve-just-learned)
 * [2023-07-25, 15:13:57](https://news.ycombinator.com/item?id=36863522) - [ONNX runtime: Cross-platform accelerated machine learning](https://onnxruntime.ai/)
 * [2023-07-25, 14:34:17](https://news.ycombinator.com/item?id=36862850) - [OpenAI shuts down its AI Classifier due to poor accuracy](https://decrypt.co/149826/openai-quietly-shutters-its-ai-detection-tool)
+* [2023-07-25, 12:33:01](https://news.ycombinator.com/item?id=36861302) - [Our World of Pixels](https://ourworldofpixels.com/)
 * [2023-07-25, 11:45:06](https://news.ycombinator.com/item?id=36860898) - [Show HN: Invoice Dragon – An open source app to create PDF invoices](https://invoicedragon.com/)
 * [2023-07-25, 10:53:19](https://news.ycombinator.com/item?id=36860488) - [The Internet Free Zone (1997)](https://arachnoid.com/freezone/)
 * [2023-07-25, 09:20:50](https://news.ycombinator.com/item?id=36859880) - [Textual Paint – MS Paint in your terminal](https://github.com/1j01/textual-paint)
@@ -29,7 +30,6 @@
 * [2023-07-25, 02:19:47](https://news.ycombinator.com/item?id=36857069) - [Way ahead of its time: The Remote Lounge NYC](https://docpop.org/2013/10/way-ahead-of-its-time-the-remote-lounge-nyc/)
 * [2023-07-24, 15:03:11](https://news.ycombinator.com/item?id=36849147) - [Emotions: A Code Book](https://tidyfirst.substack.com/p/emotions-a-code-book)
 * [2023-07-24, 08:26:01](https://news.ycombinator.com/item?id=36844579) - [Codex Gigas: the largest manuscript of the middle ages](https://historyofinformation.com/detail.php?entryid=2359)
-* [2023-07-24, 07:21:09](https://news.ycombinator.com/item?id=36844131) - [Guide to QucsStudio: Circuit Simulator with C++/Octave Support](https://electroagenda.com/en/a-review-of-qucsstudio/)
 
 ## [Archives](archives/index.md)
 
