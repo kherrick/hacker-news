@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
+* [2023-07-25, 11:57:27](https://news.ycombinator.com/item?id=36860992) - [What We Know About LLMs (A Primer)](https://willthompson.name/what-we-know-about-llms-primer)
 * [2023-07-25, 11:45:06](https://news.ycombinator.com/item?id=36860898) - [Show HN: Invoice Dragon – An Open Source App to Create PDF Invoices for Free](https://invoicedragon.com/)
 * [2023-07-25, 10:03:39](https://news.ycombinator.com/item?id=36860143) - [Deadly global heatwaves undeniably result of climate crisis, scientists show](https://www.theguardian.com/science/2023/jul/25/deadly-global-heatwaves-undeniably-result-of-climate-crisis-scientists-attribution)
 * [2023-07-25, 09:20:50](https://news.ycombinator.com/item?id=36859880) - [Textual Paint – MS Paint in your terminal](https://github.com/1j01/textual-paint)
 * [2023-07-25, 09:04:21](https://news.ycombinator.com/item?id=36859785) - [From Python to Elixir Machine Learning](https://www.thestackcanary.com/from-python-pytorch-to-elixir-nx/)
 * [2023-07-25, 08:26:22](https://news.ycombinator.com/item?id=36859510) - [I've skimmed 66520 newsgroups trying to find some life on the Usenet (2020)](https://mastodon.sdf.org/@cfenollosa/103469996345323076)
 * [2023-07-25, 06:21:55](https://news.ycombinator.com/item?id=36858642) - [YouTube is banning links to filmmusic (free music provider), appeal doesn't work](https://news.ycombinator.com/item?id=36858642)
+* [2023-07-25, 06:19:49](https://news.ycombinator.com/item?id=36858633) - [Robo-Taxis are rolling, did you notice?](https://cmte.ieee.org/futuredirections/2023/07/25/robo-taxi-are-rolling-did-you-notice/)
 * [2023-07-25, 04:32:45](https://news.ycombinator.com/item?id=36857925) - [ChatGPT Hacks](https://www.insecure.in/blog/chatgpt-hacks)
 * [2023-07-25, 04:07:36](https://news.ycombinator.com/item?id=36857758) - [The 1990s Amiga with Video Toaster has a VFX cool factor that endures today](https://cdm.link/2023/07/amiga-video-toaster-cool-factor/)
 * [2023-07-25, 03:55:43](https://news.ycombinator.com/item?id=36857676) - [Contributor to Google's WEI repo: So, you don't like a web platform proposal](https://blog.yoav.ws/posts/web_platform_change_you_do_not_like/)
