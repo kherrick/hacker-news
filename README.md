@@ -15,7 +15,7 @@
 * [2023-07-25, 15:49:39](https://news.ycombinator.com/item?id=36864115) - [Is technical analysis just stock market astrology?](https://alicegg.tech//2023/07/25/technical-analysis.html)
 * [2023-07-25, 15:43:56](https://news.ycombinator.com/item?id=36864021) - [Show HN: Marsha – An LLM-Based Programming Language](https://github.com/alantech/marsha)
 * [2023-07-25, 15:38:41](https://news.ycombinator.com/item?id=36863915) - [The Messaging Layer Security (MLS) Protocol](https://datatracker.ietf.org/doc/html/rfc9420)
-* [2023-07-25, 15:17:45](https://news.ycombinator.com/item?id=36863581) - [We're Not Platonists, We've Just Learned the Bitter Lesson](https://astralcodexten.substack.com/p/were-not-platonists-weve-just-learned)
+* [2023-07-25, 15:17:45](https://news.ycombinator.com/item?id=36863581) - [We're not Platonists, we've just learned the bitter lesson](https://astralcodexten.substack.com/p/were-not-platonists-weve-just-learned)
 * [2023-07-25, 15:13:57](https://news.ycombinator.com/item?id=36863522) - [Onnx Runtime: “Cross-Platform Accelerated Machine Learning”](https://onnxruntime.ai/)
 * [2023-07-25, 14:59:31](https://news.ycombinator.com/item?id=36863280) - [Remote work on HN: Who is hiring? – 69% jobs in 2023 are remote](https://blog.spatial.chat/tracking-hackernews-shifting-preferences-for-remote-jobs-over-5-years/)
 * [2023-07-25, 14:49:14](https://news.ycombinator.com/item?id=36863094) - [Before you try to do something, make sure you can do nothing](https://devblogs.microsoft.com/oldnewthing/20230725-00/?p=108482)
