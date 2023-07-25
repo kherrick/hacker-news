@@ -24,12 +24,12 @@
 * [2023-07-25, 11:45:06](https://news.ycombinator.com/item?id=36860898) - [Show HN: Invoice Dragon – An open source app to create PDF invoices](https://invoicedragon.com/)
 * [2023-07-25, 10:53:19](https://news.ycombinator.com/item?id=36860488) - [The Internet Free Zone (1997)](https://arachnoid.com/freezone/)
 * [2023-07-25, 09:20:50](https://news.ycombinator.com/item?id=36859880) - [Textual Paint – MS Paint in your terminal](https://github.com/1j01/textual-paint)
-* [2023-07-25, 08:26:22](https://news.ycombinator.com/item?id=36859510) - [Trying to find some life on the Usenet (2020)](https://mastodon.sdf.org/@cfenollosa/103469996345323076)
 * [2023-07-25, 04:57:45](https://news.ycombinator.com/item?id=36858076) - [Digikey's Physical Connectors Tutorial](https://www.digikey.com/en/articles/connector-tutorial)
 * [2023-07-25, 03:00:26](https://news.ycombinator.com/item?id=36857314) - [Got called to a professor’s office after a complaint his SPARC4 was running slow](https://infosec.exchange/@paco/110772422266480371)
 * [2023-07-25, 02:19:47](https://news.ycombinator.com/item?id=36857069) - [Way ahead of its time: The Remote Lounge NYC](https://docpop.org/2013/10/way-ahead-of-its-time-the-remote-lounge-nyc/)
 * [2023-07-24, 15:03:11](https://news.ycombinator.com/item?id=36849147) - [Emotions: A Code Book](https://tidyfirst.substack.com/p/emotions-a-code-book)
 * [2023-07-24, 08:26:01](https://news.ycombinator.com/item?id=36844579) - [Codex Gigas: the largest manuscript of the middle ages](https://historyofinformation.com/detail.php?entryid=2359)
+* [2023-07-24, 05:30:09](https://news.ycombinator.com/item?id=36843441) - [Hallucinogenic Plants in Chinese Herbals](https://en.wikipedia.org/wiki/Hallucinogenic_plants_in_Chinese_herbals)
 
 ## [Archives](archives/index.md)
 
