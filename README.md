@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-25, 03:27:58](https://news.ycombinator.com/item?id=36857506) - [Parents, environmentalists to Google: stop Chromebooks from expiring this summer](https://pirg.org/edfund/resources/chromebook-expiration-full-letter/)
 * [2023-07-25, 03:00:26](https://news.ycombinator.com/item?id=36857314) - [Got called to a professor’s office after a complaint his Sparc4 was running slow](https://infosec.exchange/@paco/110772422266480371)
 * [2023-07-25, 02:14:27](https://news.ycombinator.com/item?id=36857032) - [Mozilla Standards Positions Opposes Web Integrity API](https://github.com/mozilla/standards-positions/issues/852)
 * [2023-07-25, 01:17:16](https://news.ycombinator.com/item?id=36856564) - [Researchers find evidence of a 2000 year old curry, oldest ever found in SE Asia](https://phys.org/news/2023-07-evidence-year-old-curry-oldest-southeast.html)
@@ -9,7 +10,6 @@
 * [2023-07-24, 23:12:11](https://news.ycombinator.com/item?id=36855517) - [Vscode.dev: Local Development with Cloud Tools](https://vscode.dev/)
 * [2023-07-24, 23:11:56](https://news.ycombinator.com/item?id=36855516) - [The Fall of Stack Overflow](https://observablehq.com/@ayhanfuat/the-fall-of-stack-overflow)
 * [2023-07-24, 22:38:39](https://news.ycombinator.com/item?id=36855236) - [Cephalopods use RNA editing to modify their nervous sytems](https://pubmed.ncbi.nlm.nih.gov/28388405/)
-* [2023-07-24, 21:38:58](https://news.ycombinator.com/item?id=36854574) - [Evolution of the Unix System Architecture: An Exploratory Case Study](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8704965#fromHistory)
 * [2023-07-24, 20:59:37](https://news.ycombinator.com/item?id=36854114) - [Google’s nightmare “Web Integrity API” wants a DRM gatekeeper for the web](https://arstechnica.com/gadgets/2023/07/googles-web-integrity-api-sounds-like-drm-for-the-web/)
 * [2023-07-24, 20:54:23](https://news.ycombinator.com/item?id=36854061) - [People in 1920s Berlin nightclubs flirted via pneumatic tubes](https://www.atlasobscura.com/articles/pneumatic-tube-table-phone-flirting-berlin)
 * [2023-07-24, 19:39:34](https://news.ycombinator.com/item?id=36853206) - [The Algorithmic Beauty of Plants [pdf]](http://algorithmicbotany.org/papers/abop/abop.pdf)
