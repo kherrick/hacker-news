@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-25, 15:20:52](https://news.ycombinator.com/item?id=36863631) - ['Verified human': Worldcoin users queue up for iris scans](https://neuters.de/technology/verified-human-worldcoin-users-queue-up-iris-scans-2023-07-25/)
 * [2023-07-25, 15:13:57](https://news.ycombinator.com/item?id=36863522) - [Onnx Runtime: “Cross-Platform Accelerated Machine Learning”](https://onnxruntime.ai/)
 * [2023-07-25, 14:59:31](https://news.ycombinator.com/item?id=36863280) - [The remote work dominates on HN:Who is hiring? – 69% jobs in 2023 are remote](https://blog.spatial.chat/tracking-hackernews-shifting-preferences-for-remote-jobs-over-5-years/)
 * [2023-07-25, 14:58:57](https://news.ycombinator.com/item?id=36863262) - [Goodbye, waitlist. Hello, Arc 1.0](https://twitter.com/browsercompany/status/1683839541399154689)
@@ -29,7 +30,6 @@
 * [2023-07-24, 17:33:06](https://news.ycombinator.com/item?id=36851494) - [Attention Is Off By One](https://www.evanmiller.org/attention-is-off-by-one.html)
 * [2023-07-24, 17:24:35](https://news.ycombinator.com/item?id=36851371) - [Bitsummit 2023: Steam Decks everywhere, no VR, and impressive indie games](https://boilingsteam.com/bitsummit-2023-steam-decks-everywhere-no-vr-and-impressive-indie-games/)
 * [2023-07-24, 17:24:21](https://news.ycombinator.com/item?id=36851369) - [From Pet Cemetery Owner to Identity Thief to Best-Selling Ghostwriter](https://www.nytimes.com/2023/07/24/books/lara-love-hardin-memoir-many-lives-mama-love.html)
-* [2023-07-24, 14:34:31](https://news.ycombinator.com/item?id=36848680) - [Zenbleed](https://lock.cmpxchg8b.com/zenbleed.html)
 
 ## [Archives](archives/index.md)
 
