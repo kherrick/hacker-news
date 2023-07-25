@@ -6,6 +6,7 @@
 
 * [2023-07-25, 04:32:45](https://news.ycombinator.com/item?id=36857925) - [ChatGPT Hacks](https://www.insecure.in/blog/chatgpt-hacks)
 * [2023-07-25, 04:07:36](https://news.ycombinator.com/item?id=36857758) - [The 1990s Amiga with Video Toaster has a VFX cool factor that endures today](https://cdm.link/2023/07/amiga-video-toaster-cool-factor/)
+* [2023-07-25, 03:55:43](https://news.ycombinator.com/item?id=36857676) - [Contributor to Google's WEI repo: So, you don't like a web platform proposal](https://blog.yoav.ws/posts/web_platform_change_you_do_not_like/)
 * [2023-07-25, 03:27:58](https://news.ycombinator.com/item?id=36857506) - [Parents, environmentalists to Google: stop Chromebooks from expiring this summer](https://pirg.org/edfund/resources/chromebook-expiration-full-letter/)
 * [2023-07-25, 03:00:26](https://news.ycombinator.com/item?id=36857314) - [Got called to a professor’s office after a complaint his Sparc4 was running slow](https://infosec.exchange/@paco/110772422266480371)
 * [2023-07-25, 02:14:27](https://news.ycombinator.com/item?id=36857032) - [Mozilla Standards Positions Opposes Web Integrity API](https://github.com/mozilla/standards-positions/issues/852)
