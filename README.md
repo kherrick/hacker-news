@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-25, 14:34:17](https://news.ycombinator.com/item?id=36862850) - [OpenAI Quietly Shuts Down Its AI Detection Tool](https://decrypt.co/149826/openai-quietly-shutters-its-ai-detection-tool)
+* [2023-07-25, 14:16:15](https://news.ycombinator.com/item?id=36862579) - [Sugary drinks tax could prevent decay and increase health equity: study](https://www.monash.edu/news/articles/sugary-drinks-tax-could-prevent-decay-and-increase-health-equity-study)
 * [2023-07-25, 14:10:12](https://news.ycombinator.com/item?id=36862494) - [Apple already shipped attestation on the web, and we barely noticed](https://httptoolkit.com/blog/apple-private-access-tokens-attestation/)
-* [2023-07-25, 13:18:09](https://news.ycombinator.com/item?id=36861755) - [Safari 17 Link Tracking Protection](https://mjtsai.com/blog/2023/06/19/safari-17-link-tracking-protection/)
 * [2023-07-25, 12:52:57](https://news.ycombinator.com/item?id=36861499) - [Life on Earth didn’t arise as described in textbooks](https://science.ku.dk/english/press/news/2023/life-on-earth-didnt-arise-as-described-in-textbooks/)
 * [2023-07-25, 12:44:07](https://news.ycombinator.com/item?id=36861409) - [Ask HN: Does a framework exist for “open-source SaaS”?](https://news.ycombinator.com/item?id=36861409)
 * [2023-07-25, 11:57:27](https://news.ycombinator.com/item?id=36860992) - [What We Know About LLMs](https://willthompson.name/what-we-know-about-llms-primer)
@@ -19,7 +20,6 @@
 * [2023-07-25, 00:26:47](https://news.ycombinator.com/item?id=36856121) - [Record Linkage and the Universal Identifier (1972)](https://dl.acm.org/doi/10.1145/958609.958610)
 * [2023-07-24, 23:11:56](https://news.ycombinator.com/item?id=36855516) - [The Fall of Stack Overflow](https://observablehq.com/@ayhanfuat/the-fall-of-stack-overflow)
 * [2023-07-24, 21:38:58](https://news.ycombinator.com/item?id=36854574) - [Evolution of the Unix System Architecture: An Exploratory Case Study](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8704965#fromHistory)
-* [2023-07-24, 20:54:23](https://news.ycombinator.com/item?id=36854061) - [People in 1920s Berlin nightclubs flirted via pneumatic tubes (2017)](https://www.atlasobscura.com/articles/pneumatic-tube-table-phone-flirting-berlin)
 * [2023-07-24, 19:31:29](https://news.ycombinator.com/item?id=36853128) - [Durable Incrementality](https://rust-analyzer.github.io//blog/2023/07/24/durable-incrementality.html)
 * [2023-07-24, 18:45:54](https://news.ycombinator.com/item?id=36852565) - [A Breakdown of HTTP Clients in Elixir](https://andrealeopardi.com/posts/breakdown-of-http-clients-in-elixir/)
 * [2023-07-24, 18:44:47](https://news.ycombinator.com/item?id=36852542) - [Chicago’s Railroad Problem](https://homesignalblog.wordpress.com/2023/07/18/chicagos-railroad-problem/)

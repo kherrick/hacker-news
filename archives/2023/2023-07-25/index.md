@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
+* [2023-07-25, 14:34:17](https://news.ycombinator.com/item?id=36862850) - [OpenAI Quietly Shuts Down Its AI Detection Tool](https://decrypt.co/149826/openai-quietly-shutters-its-ai-detection-tool)
+* [2023-07-25, 14:16:15](https://news.ycombinator.com/item?id=36862579) - [Sugary drinks tax could prevent decay and increase health equity: study](https://www.monash.edu/news/articles/sugary-drinks-tax-could-prevent-decay-and-increase-health-equity-study)
 * [2023-07-25, 14:10:12](https://news.ycombinator.com/item?id=36862494) - [Apple already shipped attestation on the web, and we barely noticed](https://httptoolkit.com/blog/apple-private-access-tokens-attestation/)
 * [2023-07-25, 13:18:09](https://news.ycombinator.com/item?id=36861755) - [Safari 17 Link Tracking Protection](https://mjtsai.com/blog/2023/06/19/safari-17-link-tracking-protection/)
 * [2023-07-25, 12:58:32](https://news.ycombinator.com/item?id=36861545) - [Amazon will force a 'voluntary resignation' on employees](https://www.businessinsider.com/amazon-voluntary-resignation-employees-relocate-rto-2023-7)
