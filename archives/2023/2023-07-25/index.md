@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
+* [2023-07-25, 12:52:57](https://news.ycombinator.com/item?id=36861499) - [Life on Earth didn’t arise as described in textbooks](https://science.ku.dk/english/press/news/2023/life-on-earth-didnt-arise-as-described-in-textbooks/)
 * [2023-07-25, 11:57:27](https://news.ycombinator.com/item?id=36860992) - [What We Know About LLMs (A Primer)](https://willthompson.name/what-we-know-about-llms-primer)
 * [2023-07-25, 11:45:06](https://news.ycombinator.com/item?id=36860898) - [Show HN: Invoice Dragon – An Open Source App to Create PDF Invoices for Free](https://invoicedragon.com/)
 * [2023-07-25, 10:03:39](https://news.ycombinator.com/item?id=36860143) - [Deadly global heatwaves undeniably result of climate crisis, scientists show](https://www.theguardian.com/science/2023/jul/25/deadly-global-heatwaves-undeniably-result-of-climate-crisis-scientists-attribution)
@@ -20,6 +21,7 @@
 * [2023-07-25, 02:14:27](https://news.ycombinator.com/item?id=36857032) - [Mozilla Standards Positions Opposes Web Integrity API](https://github.com/mozilla/standards-positions/issues/852)
 * [2023-07-25, 02:02:36](https://news.ycombinator.com/item?id=36856946) - [Intro to Drone Detection Radar with Emphasis on Automatic Target Recognition](https://arxiv.org/abs/2307.10326)
 * [2023-07-25, 01:53:45](https://news.ycombinator.com/item?id=36856882) - [How Signal Walks the Line Between Anarchism and Pragmatism](https://www.wired.com/story/signal-politics-software-criticism/)
+* [2023-07-25, 01:37:15](https://news.ycombinator.com/item?id=36856755) - [Play the Nimatron, the World’s First Video Game Invented in 1930s New York](https://flashbak.com/play-the-nimatron-the-worlds-first-video-game-invented-in-1930s-new-york-462185/)
 * [2023-07-25, 01:17:16](https://news.ycombinator.com/item?id=36856564) - [Researchers find evidence of a 2000 year old curry, oldest ever found in SE Asia](https://phys.org/news/2023-07-evidence-year-old-curry-oldest-southeast.html)
 * [2023-07-25, 01:16:14](https://news.ycombinator.com/item?id=36856555) - [Story of the SS Warimoo](http://www.mastermariners.org.au/stories-from-the-past/2304-strange-story-of-the-ss-warimoo)
 * [2023-07-25, 01:01:56](https://news.ycombinator.com/item?id=36856433) - [Twitter’s Rebrand to X Could Be a Trademark Nightmare Thanks to Microsoft](https://themessenger.com/tech/twitters-rebrand-to-x-could-be-a-trademark-nightmare-thanks-to-microsoft)
