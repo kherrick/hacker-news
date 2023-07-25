@@ -19,6 +19,7 @@
 * [2023-07-25, 15:38:41](https://news.ycombinator.com/item?id=36863915) - [The Messaging Layer Security (MLS) Protocol](https://datatracker.ietf.org/doc/html/rfc9420)
 * [2023-07-25, 15:17:45](https://news.ycombinator.com/item?id=36863581) - [We're not Platonists, we've just learned the bitter lesson](https://astralcodexten.substack.com/p/were-not-platonists-weve-just-learned)
 * [2023-07-25, 15:13:57](https://news.ycombinator.com/item?id=36863522) - [Onnx Runtime: “Cross-Platform Accelerated Machine Learning”](https://onnxruntime.ai/)
+* [2023-07-25, 14:49:14](https://news.ycombinator.com/item?id=36863094) - [Before you try to do something, make sure you can do nothing](https://devblogs.microsoft.com/oldnewthing/20230725-00/?p=108482)
 * [2023-07-25, 14:34:17](https://news.ycombinator.com/item?id=36862850) - [OpenAI shuts down its AI Classifier due to poor accuracy](https://decrypt.co/149826/openai-quietly-shutters-its-ai-detection-tool)
 * [2023-07-25, 14:14:25](https://news.ycombinator.com/item?id=36862546) - [Arc Browser 1.0](https://arc.net/)
 * [2023-07-25, 12:33:01](https://news.ycombinator.com/item?id=36861302) - [Our World of Pixels](https://ourworldofpixels.com/)
@@ -29,7 +30,6 @@
 * [2023-07-25, 02:19:47](https://news.ycombinator.com/item?id=36857069) - [Way ahead of it's time: The Remote Lounge NYC](https://docpop.org/2013/10/way-ahead-of-its-time-the-remote-lounge-nyc/)
 * [2023-07-24, 15:16:55](https://news.ycombinator.com/item?id=36849376) - ['Magnetic Rose'](https://animationobsessive.substack.com/p/the-secrets-of-magnetic-rose)
 * [2023-07-24, 15:03:11](https://news.ycombinator.com/item?id=36849147) - [Emotions: A Code Book](https://tidyfirst.substack.com/p/emotions-a-code-book)
-* [2023-07-24, 09:57:12](https://news.ycombinator.com/item?id=36845308) - [Ask HN: IBM Model M Keyboard Alternative?](https://news.ycombinator.com/item?id=36845308)
 
 ## [Archives](archives/index.md)
 
