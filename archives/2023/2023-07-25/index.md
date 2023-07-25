@@ -6,6 +6,7 @@
 
 * [2023-07-25, 21:18:45](https://news.ycombinator.com/item?id=36869747) - [Stone Knives and Bear Skins – There is no money in tools](https://queue.acm.org/detail.cfm?id=3606027)
 * [2023-07-25, 21:17:53](https://news.ycombinator.com/item?id=36869738) - [“We’ve Changed the Game”: Teamsters Win Historic UPS Contract](https://teamster.org/2023/07/weve-changed-the-game-teamsters-win-historic-ups-contract/)
+* [2023-07-25, 21:02:32](https://news.ycombinator.com/item?id=36869486) - [The Mathematica Journal is no longer accepting submissions](https://www.mathematica-journal.com/)
 * [2023-07-25, 21:00:54](https://news.ycombinator.com/item?id=36869457) - [Tesorio (YC S15) Is Hiring a Head of Marketing – join our 100% remote startup](https://jobs.lever.co/tesorio/10de016f-be07-4707-ac5c-7029f0398a17)
 * [2023-07-25, 20:33:39](https://news.ycombinator.com/item?id=36868978) - [A command-line murder mystery](https://github.com/veltman/clmystery)
 * [2023-07-25, 20:11:07](https://news.ycombinator.com/item?id=36868630) - [US Education Dept. Opens Civil Rights Inquiry into Harvard’s Legacy Admissions](https://www.nytimes.com/2023/07/25/us/politics/harvard-admissions-civil-rights-inquiry.html)
