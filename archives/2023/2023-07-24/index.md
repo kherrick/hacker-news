@@ -33,6 +33,7 @@
 * [2023-07-24, 19:06:36](https://news.ycombinator.com/item?id=36852856) - [Scientists invent double-sided solar panel that generates way more electricity](https://www.independent.co.uk/tech/solar-panel-perovskite-double-sided-b2378337.html)
 * [2023-07-24, 18:45:54](https://news.ycombinator.com/item?id=36852565) - [A Breakdown of HTTP Clients in Elixir](https://andrealeopardi.com/posts/breakdown-of-http-clients-in-elixir/)
 * [2023-07-24, 18:44:51](https://news.ycombinator.com/item?id=36852545) - [“Devil’s horsemen”: Why Mongol horse archers were history’s most feared](https://bigthink.com/the-past/mongol-archery-secret/)
+* [2023-07-24, 18:44:47](https://news.ycombinator.com/item?id=36852542) - [Chicago’s Railroad Problem](https://homesignalblog.wordpress.com/2023/07/18/chicagos-railroad-problem/)
 * [2023-07-24, 18:26:42](https://news.ycombinator.com/item?id=36852300) - [OpenBSD on Zenbleed](https://marc.info/?l=openbsd-tech&m=169021508718971&w=2)
 * [2023-07-24, 18:22:37](https://news.ycombinator.com/item?id=36852231) - [Elixir Is (Still) Safe](https://paraxial.io/blog/still-safe)
 * [2023-07-24, 18:03:02](https://news.ycombinator.com/item?id=36851930) - [Text Embeddings Reveal (Almost) as Much as Text](https://openreview.net/forum?id=wK7wUdiM5g0)
