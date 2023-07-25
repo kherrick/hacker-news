@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
+* [2023-07-25, 02:14:27](https://news.ycombinator.com/item?id=36857032) - [Mozilla Standards Positions Opposes Web Integrity API](https://github.com/mozilla/standards-positions/issues/852)
 * [2023-07-25, 02:02:36](https://news.ycombinator.com/item?id=36856946) - [Intro to Drone Detection Radar with Emphasis on Automatic Target Recognition](https://arxiv.org/abs/2307.10326)
 * [2023-07-25, 01:53:45](https://news.ycombinator.com/item?id=36856882) - [How Signal Walks the Line Between Anarchism and Pragmatism](https://www.wired.com/story/signal-politics-software-criticism/)
 * [2023-07-25, 01:17:16](https://news.ycombinator.com/item?id=36856564) - [Researchers find evidence of a 2000 year old curry, oldest ever found in SE Asia](https://phys.org/news/2023-07-evidence-year-old-curry-oldest-southeast.html)

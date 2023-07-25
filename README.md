@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-25, 02:02:36](https://news.ycombinator.com/item?id=36856946) - [Intro to Drone Detection Radar with Emphasis on Automatic Target Recognition](https://arxiv.org/abs/2307.10326)
+* [2023-07-25, 02:14:27](https://news.ycombinator.com/item?id=36857032) - [Mozilla Standards Positions Opposes Web Integrity API](https://github.com/mozilla/standards-positions/issues/852)
 * [2023-07-25, 01:53:45](https://news.ycombinator.com/item?id=36856882) - [How Signal Walks the Line Between Anarchism and Pragmatism](https://www.wired.com/story/signal-politics-software-criticism/)
 * [2023-07-25, 01:17:16](https://news.ycombinator.com/item?id=36856564) - [Researchers find evidence of a 2000 year old curry, oldest ever found in SE Asia](https://phys.org/news/2023-07-evidence-year-old-curry-oldest-southeast.html)
 * [2023-07-25, 01:01:56](https://news.ycombinator.com/item?id=36856433) - [Twitter’s Rebrand to X Could Be a Trademark Nightmare Thanks to Microsoft](https://themessenger.com/tech/twitters-rebrand-to-x-could-be-a-trademark-nightmare-thanks-to-microsoft)
 * [2023-07-24, 23:29:51](https://news.ycombinator.com/item?id=36855646) - [Byron Bay data breach victim told to pay Adidas, NBA $1.2M by US courts](https://www.abc.net.au/news/2023-07-25/byron-bay-data-breach-victim-adidas-nab-us-court-action-damages/102575726)
 * [2023-07-24, 23:12:11](https://news.ycombinator.com/item?id=36855517) - [Vscode.dev: Local Development with Cloud Tools](https://vscode.dev/)
-* [2023-07-24, 23:11:56](https://news.ycombinator.com/item?id=36855516) - [The Fall of Stack Overflow](https://observablehq.com/@ayhanfuat/the-fall-of-stack-overflow)
 * [2023-07-24, 22:38:39](https://news.ycombinator.com/item?id=36855236) - [Cephalopods use RNA editing to modify their nervous sytems](https://pubmed.ncbi.nlm.nih.gov/28388405/)
 * [2023-07-24, 21:38:58](https://news.ycombinator.com/item?id=36854574) - [Evolution of the Unix System Architecture: An Exploratory Case Study](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8704965#fromHistory)
 * [2023-07-24, 21:01:27](https://news.ycombinator.com/item?id=36854138) - [Better code highlighting on the web: rehype-tree-sitter](https://haz.ee/technical/rehype-tree-sitter/)
@@ -30,6 +29,7 @@
 * [2023-07-24, 13:49:08](https://news.ycombinator.com/item?id=36847960) - [Show HN: I built a transit travel time map](https://map.henryn.xyz)
 * [2023-07-24, 13:21:19](https://news.ycombinator.com/item?id=36847569) - [Launch HN: Artie (YC S23) – Real time data replication to data warehouses](https://news.ycombinator.com/item?id=36847569)
 * [2023-07-23, 09:45:21](https://news.ycombinator.com/item?id=36833851) - [Threads and Goroutines](https://shane.ai/posts/threads-and-goroutines/)
+* [2023-07-23, 06:20:21](https://news.ycombinator.com/item?id=36832999) - [The economics of the Birkin bag (2016)](https://www.economist.com/1843/2016/07/28/the-secret-economics-of-the-birkin-bag)
 
 ## [Archives](archives/index.md)
 
