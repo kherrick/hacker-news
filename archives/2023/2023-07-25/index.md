@@ -8,6 +8,7 @@
 * [2023-07-25, 13:18:09](https://news.ycombinator.com/item?id=36861755) - [Safari 17 Link Tracking Protection](https://mjtsai.com/blog/2023/06/19/safari-17-link-tracking-protection/)
 * [2023-07-25, 12:58:32](https://news.ycombinator.com/item?id=36861545) - [Amazon will force a 'voluntary resignation' on employees](https://www.businessinsider.com/amazon-voluntary-resignation-employees-relocate-rto-2023-7)
 * [2023-07-25, 12:52:57](https://news.ycombinator.com/item?id=36861499) - [Life on Earth didn’t arise as described in textbooks](https://science.ku.dk/english/press/news/2023/life-on-earth-didnt-arise-as-described-in-textbooks/)
+* [2023-07-25, 12:44:07](https://news.ycombinator.com/item?id=36861409) - [Ask HN: Does a framework exist for “open-source SaaS”?](https://news.ycombinator.com/item?id=36861409)
 * [2023-07-25, 11:57:27](https://news.ycombinator.com/item?id=36860992) - [What We Know About LLMs (A Primer)](https://willthompson.name/what-we-know-about-llms-primer)
 * [2023-07-25, 11:45:06](https://news.ycombinator.com/item?id=36860898) - [Show HN: Invoice Dragon – An Open Source App to Create PDF Invoices for Free](https://invoicedragon.com/)
 * [2023-07-25, 10:03:39](https://news.ycombinator.com/item?id=36860143) - [Deadly global heatwaves undeniably result of climate crisis, scientists show](https://www.theguardian.com/science/2023/jul/25/deadly-global-heatwaves-undeniably-result-of-climate-crisis-scientists-attribution)
