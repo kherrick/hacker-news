@@ -38,6 +38,7 @@
 * [2023-07-24, 17:36:11](https://news.ycombinator.com/item?id=36851535) - [Apple Vision Pro developer kit](https://developer.apple.com/visionos/developer-kit/)
 * [2023-07-24, 17:33:52](https://news.ycombinator.com/item?id=36851505) - [Meta-Transformers: Transformers Are Becoming Multi-Modal](https://kxgong.github.io/meta_transformer/)
 * [2023-07-24, 17:33:06](https://news.ycombinator.com/item?id=36851494) - [Transformer Attention is off by one](https://www.evanmiller.org/attention-is-off-by-one.html)
+* [2023-07-24, 17:32:53](https://news.ycombinator.com/item?id=36851489) - [Show HN: SiteOS – Website platform with CRM, email, and analytics](https://app.fishpulse.com/demo)
 * [2023-07-24, 17:31:58](https://news.ycombinator.com/item?id=36851475) - [Ceed – A tiny x86 compiler with ELF and PE target (2017)](https://github.com/ipankajg/ceed)
 * [2023-07-24, 17:01:05](https://news.ycombinator.com/item?id=36851054) - [Emerge Tools (YC W21) Is Hiring a Senior Front End Engineer](https://www.workatastartup.com/jobs/61922/)
 * [2023-07-24, 16:43:29](https://news.ycombinator.com/item?id=36850781) - [Revealed: Media Blitz Against Heat Pumps Funded by Gas Lobby Group](https://www.desmog.com/2023/07/20/revealed-media-blitz-against-heat-pumps-funded-by-gas-lobby-group/)
