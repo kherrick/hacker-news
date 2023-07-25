@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-25, 13:18:09](https://news.ycombinator.com/item?id=36861755) - [Safari 17 Link Tracking Protection](https://mjtsai.com/blog/2023/06/19/safari-17-link-tracking-protection/)
 * [2023-07-25, 12:52:57](https://news.ycombinator.com/item?id=36861499) - [Life on Earth didn’t arise as described in textbooks](https://science.ku.dk/english/press/news/2023/life-on-earth-didnt-arise-as-described-in-textbooks/)
-* [2023-07-25, 11:57:27](https://news.ycombinator.com/item?id=36860992) - [What We Know About LLMs (A Primer)](https://willthompson.name/what-we-know-about-llms-primer)
+* [2023-07-25, 11:57:27](https://news.ycombinator.com/item?id=36860992) - [What We Know About LLMs](https://willthompson.name/what-we-know-about-llms-primer)
 * [2023-07-25, 11:45:06](https://news.ycombinator.com/item?id=36860898) - [Show HN: Invoice Dragon – An Open Source App to Create PDF Invoices for Free](https://invoicedragon.com/)
 * [2023-07-25, 09:20:50](https://news.ycombinator.com/item?id=36859880) - [Textual Paint – MS Paint in your terminal](https://github.com/1j01/textual-paint)
 * [2023-07-25, 09:04:21](https://news.ycombinator.com/item?id=36859785) - [From Python to Elixir Machine Learning](https://www.thestackcanary.com/from-python-pytorch-to-elixir-nx/)
@@ -14,7 +15,6 @@
 * [2023-07-25, 01:37:15](https://news.ycombinator.com/item?id=36856755) - [Play the Nimatron, the World’s First Video Game Invented in 1930s New York](https://flashbak.com/play-the-nimatron-the-worlds-first-video-game-invented-in-1930s-new-york-462185/)
 * [2023-07-25, 01:17:16](https://news.ycombinator.com/item?id=36856564) - [Researchers find evidence of a 2000 year old curry, oldest ever found in SE Asia](https://phys.org/news/2023-07-evidence-year-old-curry-oldest-southeast.html)
 * [2023-07-25, 01:01:56](https://news.ycombinator.com/item?id=36856433) - [Twitter’s Rebrand to X Could Be a Trademark Nightmare Thanks to Microsoft](https://themessenger.com/tech/twitters-rebrand-to-x-could-be-a-trademark-nightmare-thanks-to-microsoft)
-* [2023-07-25, 01:01:39](https://news.ycombinator.com/item?id=36856428) - [The Mad Magazine Fold-In Effect in CSS – Thomas Park (2020)](https://thomaspark.co/2020/06/the-mad-magazine-fold-in-effect-in-css/)
 * [2023-07-25, 00:26:47](https://news.ycombinator.com/item?id=36856121) - [Record Linkage and the Universal Identifier (1972)](https://dl.acm.org/doi/10.1145/958609.958610)
 * [2023-07-24, 23:12:11](https://news.ycombinator.com/item?id=36855517) - [Vscode.dev: Local Development with Cloud Tools](https://vscode.dev/)
 * [2023-07-24, 23:11:56](https://news.ycombinator.com/item?id=36855516) - [The Fall of Stack Overflow](https://observablehq.com/@ayhanfuat/the-fall-of-stack-overflow)
