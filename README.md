@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-25, 04:32:45](https://news.ycombinator.com/item?id=36857925) - [ChatGPT Hacks](https://www.insecure.in/blog/chatgpt-hacks)
+* [2023-07-25, 04:07:36](https://news.ycombinator.com/item?id=36857758) - [The 1990s Amiga with Video Toaster has a VFX cool factor that endures today](https://cdm.link/2023/07/amiga-video-toaster-cool-factor/)
 * [2023-07-25, 03:27:58](https://news.ycombinator.com/item?id=36857506) - [Parents, environmentalists to Google: stop Chromebooks from expiring this summer](https://pirg.org/edfund/resources/chromebook-expiration-full-letter/)
 * [2023-07-25, 03:00:26](https://news.ycombinator.com/item?id=36857314) - [Got called to a professor’s office after a complaint his Sparc4 was running slow](https://infosec.exchange/@paco/110772422266480371)
 * [2023-07-25, 02:14:27](https://news.ycombinator.com/item?id=36857032) - [Mozilla Standards Positions Opposes Web Integrity API](https://github.com/mozilla/standards-positions/issues/852)
@@ -23,7 +24,6 @@
 * [2023-07-24, 18:22:37](https://news.ycombinator.com/item?id=36852231) - [Elixir is still safe](https://paraxial.io/blog/still-safe)
 * [2023-07-24, 17:43:37](https://news.ycombinator.com/item?id=36851644) - [Have attention spans been declining?](https://slimemoldtimemold.com/2023/07/24/your-mystery-have-attention-spans-been-declining/)
 * [2023-07-24, 17:33:06](https://news.ycombinator.com/item?id=36851494) - [Attention Is Off By One](https://www.evanmiller.org/attention-is-off-by-one.html)
-* [2023-07-24, 17:32:53](https://news.ycombinator.com/item?id=36851489) - [Show HN: SiteOS – Website platform with CRM, email, and analytics](https://app.fishpulse.com/demo)
 * [2023-07-24, 17:31:58](https://news.ycombinator.com/item?id=36851475) - [Ceed – A tiny x86 compiler with ELF and PE target (2017)](https://github.com/ipankajg/ceed)
 * [2023-07-24, 16:03:03](https://news.ycombinator.com/item?id=36850111) - [40 years ago yesterday Air Canada Flight 143 ran out of fuel mid-flight](https://www.damninteresting.com/the-gimli-glider/)
 * [2023-07-24, 15:25:06](https://news.ycombinator.com/item?id=36849502) - [Show HN: I spent 2 years building a personal finance simulator](https://projectionlab.com/)
