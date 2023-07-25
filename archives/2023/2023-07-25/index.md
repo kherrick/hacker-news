@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
+* [2023-07-25, 15:49:39](https://news.ycombinator.com/item?id=36864115) - [Is technical analysis just stock market astrology?](https://alicegg.tech//2023/07/25/technical-analysis.html)
 * [2023-07-25, 15:20:52](https://news.ycombinator.com/item?id=36863631) - ['Verified human': Worldcoin users queue up for iris scans](https://neuters.de/technology/verified-human-worldcoin-users-queue-up-iris-scans-2023-07-25/)
 * [2023-07-25, 15:13:57](https://news.ycombinator.com/item?id=36863522) - [Onnx Runtime: “Cross-Platform Accelerated Machine Learning”](https://onnxruntime.ai/)
 * [2023-07-25, 14:59:31](https://news.ycombinator.com/item?id=36863280) - [The remote work dominates on HN:Who is hiring? – 69% jobs in 2023 are remote](https://blog.spatial.chat/tracking-hackernews-shifting-preferences-for-remote-jobs-over-5-years/)

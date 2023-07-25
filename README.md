@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-25, 15:49:39](https://news.ycombinator.com/item?id=36864115) - [Is technical analysis just stock market astrology?](https://alicegg.tech//2023/07/25/technical-analysis.html)
 * [2023-07-25, 15:20:52](https://news.ycombinator.com/item?id=36863631) - ['Verified human': Worldcoin users queue up for iris scans](https://neuters.de/technology/verified-human-worldcoin-users-queue-up-iris-scans-2023-07-25/)
 * [2023-07-25, 15:13:57](https://news.ycombinator.com/item?id=36863522) - [Onnx Runtime: “Cross-Platform Accelerated Machine Learning”](https://onnxruntime.ai/)
 * [2023-07-25, 14:59:31](https://news.ycombinator.com/item?id=36863280) - [The remote work dominates on HN:Who is hiring? – 69% jobs in 2023 are remote](https://blog.spatial.chat/tracking-hackernews-shifting-preferences-for-remote-jobs-over-5-years/)
@@ -23,7 +24,6 @@
 * [2023-07-25, 01:53:42](https://news.ycombinator.com/item?id=36856881) - [New Proof Shows That ‘Expander’ Graphs Synchronize](https://www.quantamagazine.org/new-proof-shows-that-expander-graphs-synchronize-20230724/)
 * [2023-07-25, 01:37:15](https://news.ycombinator.com/item?id=36856755) - [Play the Nimatron, the World’s First Video Game Invented in 1930s New York](https://flashbak.com/play-the-nimatron-the-worlds-first-video-game-invented-in-1930s-new-york-462185/)
 * [2023-07-24, 23:11:56](https://news.ycombinator.com/item?id=36855516) - [The Fall of Stack Overflow](https://observablehq.com/@ayhanfuat/the-fall-of-stack-overflow)
-* [2023-07-24, 21:38:58](https://news.ycombinator.com/item?id=36854574) - [Evolution of the Unix System Architecture: An Exploratory Case Study](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8704965#fromHistory)
 * [2023-07-24, 19:31:29](https://news.ycombinator.com/item?id=36853128) - [Durable Incrementality](https://rust-analyzer.github.io//blog/2023/07/24/durable-incrementality.html)
 * [2023-07-24, 18:45:54](https://news.ycombinator.com/item?id=36852565) - [A Breakdown of HTTP Clients in Elixir](https://andrealeopardi.com/posts/breakdown-of-http-clients-in-elixir/)
 * [2023-07-24, 18:44:47](https://news.ycombinator.com/item?id=36852542) - [Chicago’s Railroad Problem](https://homesignalblog.wordpress.com/2023/07/18/chicagos-railroad-problem/)
