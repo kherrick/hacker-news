@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-07-24, 23:29:51",
-      "https://news.ycombinator.com/item?id=36855646"
-    ],
-    [
-      "Byron Bay data breach victim told to pay Adidas, NBA $1.2M by US courts",
-      "https://www.abc.net.au/news/2023-07-25/byron-bay-data-breach-victim-adidas-nab-us-court-action-damages/102575726"
-    ]
-  ],
-  [
-    [
       "2023-07-24, 23:12:11",
       "https://news.ycombinator.com/item?id=36855517"
     ],
@@ -167,6 +157,16 @@
     [
       "The Algorithmic Beauty of Plants [pdf]",
       "http://algorithmicbotany.org/papers/abop/abop.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-07-24, 19:31:29",
+      "https://news.ycombinator.com/item?id=36853128"
+    ],
+    [
+      "Durable Incrementality",
+      "https://rust-analyzer.github.io//blog/2023/07/24/durable-incrementality.html"
     ]
   ],
   [
