@@ -5,8 +5,11 @@
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
 * [2023-07-25, 18:15:37](https://news.ycombinator.com/item?id=36866885) - [I chose Neo and turned down a spot in Y Combinator](https://www.businessinsider.com/why-aragon-ai-founder-chose-startup-accelerator-neo-over-ycombinator)
+* [2023-07-25, 18:13:51](https://news.ycombinator.com/item?id=36866861) - [PRQL, Pipelined Relational Query Language](https://github.com/PRQL/prql)
+* [2023-07-25, 18:01:30](https://news.ycombinator.com/item?id=36866633) - [Medicaid Could Save $2.6B Within a Year If Just 1% of Recipients Quit Smoking](https://www.ucsf.edu/news/2019/04/413921/medicaid-could-save-26-billion-within-year-if-just-1-percent-recipients-quit)
 * [2023-07-25, 17:40:37](https://news.ycombinator.com/item?id=36866242) - [Hyperlink Maximalism (2022)](https://thesephist.com/posts/hyperlink/)
 * [2023-07-25, 17:10:58](https://news.ycombinator.com/item?id=36865684) - [Ask HN: Did DNSimple silently update their pricing from $30/month to $199/month?](https://news.ycombinator.com/item?id=36865684)
+* [2023-07-25, 17:10:38](https://news.ycombinator.com/item?id=36865682) - [Unix-like OS in Rust inspired by xv6-riscv](https://github.com/o8vm/octox)
 * [2023-07-25, 17:07:12](https://news.ycombinator.com/item?id=36865625) - [Launch HN: Roundtable (YC S23) – Using AI to Simulate Surveys](https://news.ycombinator.com/item?id=36865625)
 * [2023-07-25, 17:00:53](https://news.ycombinator.com/item?id=36865531) - [Aviator (YC S21) is hiring engineers to build advanced Git tools](https://www.ycombinator.com/companies/aviator/jobs)
 * [2023-07-25, 16:57:35](https://news.ycombinator.com/item?id=36865465) - [GM reverses plan to retire Chevrolet Bolt as it chases EV target](https://www.ft.com/content/fd367bd6-a73a-4d80-b0d0-32837724bd0a)
