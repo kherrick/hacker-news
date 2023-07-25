@@ -129,6 +129,248 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="36865625">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=36865625"
+              >Launch HN: Roundtable (YC S23) – Using AI to Simulate Surveys</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-07-25 @ 17:07:12</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36865625"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://roundtable.ai/">https://roundtable.ai/</a>). We
+              use LLMs to produce cheap, yet surprisingly useful, simulations of
+              surveys. Specifically, we train LLMs on standard, curated survey
+              datasets. This approach allows us to essentially build
+              general-purpose models of human behavior and opinion. We combine
+              this with a nice UI that lets users easily visualize and interpret
+              the results.
+              <p>
+                Surveys are incredibly important for user and market research,
+                but are expensive and take months to design, run, and analyze.
+                By simulating responses, our users can get results in seconds
+                and make decisions faster. See
+                <a href="https://roundtable.ai/showcase"
+                  >https://roundtable.ai/showcase</a
+                >
+                for a bunch of examples, and
+                <a
+                  href="https://www.loom.com/share/eb6fb27acebe48839dd561cf1546f131"
+                  >https://www.loom.com/share/eb6fb27acebe48839dd561cf1546f131</a
+                >
+                for a demo video.
+              </p>
+              <p>
+                Our product lets you add questions (e.g. “how old are you”) and
+                conditions (e.g. “is a Hacker News user”) and then see how these
+                affect the survey results. For example, the survey “Are you
+                interested in buying an e-bike?” shows ‘yes’ 28% [1]. But if you
+                narrow it down to people who own a Tesla, ‘yes’ jumps to 52%
+                [2]. Another example: if you survey “where did you learn to
+                code”, the question “how old are you?” makes a dramatic
+                difference—for “45 or older” the answer is 55% “books” [3], but
+                for “younger than 45” it’s 76% “online” [4]. One more: 5% of
+                people answer “legroom” to the question “Which of the following
+                factors is most important for choosing which airline to fly?”
+                [5], and this jumps to 20% when you condition on people over six
+                feet tall [6].
+              </p>
+              <p>
+                You wouldn’t think (well, we didn’t think) that such simulated
+                surveys would work very well, but empirically they work a lot
+                better than expected—we have run many surveys in the wild to
+                validate Roundtable's results (e.g. comparing age demographics
+                to U.S. Census data). We’re still trying to figure out why. We
+                believe that LLMs that are pre-trained on the public Internet
+                have internalized a lot of information/correlations about
+                communities (e.g. Tesla drivers, Hacker News, etc.) and can
+                reasonably approximate their behavior. In any case, researchers
+                are seeing the same things that we are. A nice paper by a BYU
+                group [7] discusses extracting sub-population information from
+                GPT/LLMs. A related paper from Microsoft [8] shows how GPT can
+                simulate different human behaviors. It’s an active research
+                topic, and we hope we can get a sense of the theoretical basis
+                relatively soon.
+              </p>
+              <p>
+                Because these models are primarily trained on Internet data,
+                they start out skewed towards the demographics of heavy Internet
+                users (e.g., high-income, male). We addressed this by
+                fine-tuning GPT on the GSS (General Social Survey [9] - the gold
+                standard of demographic surveys in the US) so our models emulate
+                a more representative U.S. population.
+              </p>
+              <p>
+                We’ve built a transparency feature that shows how similar your
+                survey question is to the training data and thus gives a
+                confidence metric of our accuracy. If you click ‘Investigate
+                Results’, we report the most similar (in terms of cosine
+                distance between LLM embeddings) GSS questions as a way of
+                estimating how much extrapolation / interpolation is going on.
+                This doesn’t quite address the accuracy of the subpopulations /
+                conditioning questions (we are working on this), but we thought
+                we are at a sufficiently advanced point to share what we’ve
+                built with you all.
+              </p>
+              <p>
+                We're graduating PhD students from Princeton University in
+                cognitive science and AI. We ran a ton of surveys and behavioral
+                experiments and were often frustrated with the pipeline. We were
+                looking to leave academia, and saw an opportunity in making the
+                survey pipeline better. User and market research is a big
+                market, and many of the tools and methods the industry uses are
+                clunky and slow. Mayank’s PhD work used large datasets and ML
+                for developing interpretable scientific theories, and Matt’s
+                developed complex experimental software to study coordinated
+                group decision-making. We see Roundtable as operating at the
+                intersection of our interests.
+              </p>
+              <p>
+                We charge per survey. We are targeting small and mid-market
+                businesses who have market research teams, and ask for a minimum
+                subscription amount. Pricing is at the bottom of our home page.
+              </p>
+              <p>
+                We are still in the early stages of building this product, and
+                we’d love for you all to play around with the demo and provide
+                us feedback. Let us know whatever you see - this is our first
+                major endeavor into the private sector from academia, and we’re
+                eager to hear whatever you have to say!
+              </p>
+              <p>
+                [1]:
+                <a
+                  href="https://roundtable.ai/sandbox/e02e92a9ad20fdd517182788f4ae7e1f96a849c0"
+                  >https://roundtable.ai/sandbox/e02e92a9ad20fdd517182788f4ae7e...</a
+                >
+              </p>
+              <p>
+                [2]:
+                <a
+                  href="https://roundtable.ai/sandbox/6b4bf8740ad1945b08c0bf584c84c1202a5fec53"
+                  >https://roundtable.ai/sandbox/6b4bf8740ad1945b08c0bf584c84c1...</a
+                >
+              </p>
+              <p>
+                [3]
+                <a
+                  href="https://roundtable.ai/sandbox/d701556248385d05ce5d26ce7fc776bb4d32fad0"
+                  >https://roundtable.ai/sandbox/d701556248385d05ce5d26ce7fc776...</a
+                >
+              </p>
+              <p>
+                [4]
+                <a
+                  href="https://roundtable.ai/sandbox/8bd80babad042cf60d500ca28c40f7db413f553a"
+                  >https://roundtable.ai/sandbox/8bd80babad042cf60d500ca28c40f7...</a
+                >
+              </p>
+              <p>
+                [5]
+                <a
+                  href="https://roundtable.ai/sandbox/0450d499048c089894c34fba514db4042eafb6c0"
+                  >https://roundtable.ai/sandbox/0450d499048c089894c34fba514db4...</a
+                >
+              </p>
+              <p>
+                [6]
+                <a
+                  href="https://roundtable.ai/sandbox/0450d499048c089894c34fba514db4042eafb6c0"
+                  >https://roundtable.ai/sandbox/0450d499048c089894c34fba514db4...</a
+                >
+              </p>
+              <p>
+                [7]
+                <a href="https://arxiv.org/abs/2209.06899"
+                  >https://arxiv.org/abs/2209.06899</a
+                >
+              </p>
+              <p>
+                [8]
+                <a href="https://openreview.net/pdf?id=eYlLlvzngu"
+                  >https://openreview.net/pdf?id=eYlLlvzngu</a
+                >
+              </p>
+              <p>
+                [9]
+                <a href="https://www.norc.org/research/projects/gss.html"
+                  >https://www.norc.org/research/projects/gss.html</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="36865531">
+          <h3>
+            <a
+              class="item"
+              href="https://www.ycombinator.com/companies/aviator/jobs"
+              >Aviator (YC S21) is hiring engineers to build advanced Git
+              tools</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-07-25 @ 17:00:53</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="36865465">
+          <h3>
+            <a
+              class="item"
+              href="https://www.ft.com/content/fd367bd6-a73a-4d80-b0d0-32837724bd0a"
+              >GM reverses plan to retire Chevrolet Bolt as it chases EV
+              target</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-07-25 @ 16:57:35</span
+              ><span class="points-container"
+                >Points: <span class="points">19</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36865465"
+                  >Comments</a
+                ><span class="descendants">: 10</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="36864892">
+          <h3>
+            <a
+              class="item"
+              href="https://www.cnn.com/2023/07/25/world/gulf-stream-atlantic-current-collapse-climate-scn-intl/index.html"
+              >Crucial system of ocean currents is collapsing; ‘affects everyone
+              on the planet’</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-07-25 @ 16:28:13</span
+              ><span class="points-container"
+                >Points: <span class="points">29</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36864892"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="36864624">
           <h3>
             <a class="item" href="https://arxiv.org/abs/2307.12008"
@@ -139,11 +381,11 @@
             <h4>
               <span>2023-07-25 @ 16:14:32</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36864624"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -161,11 +403,11 @@
             <h4>
               <span>2023-07-25 @ 16:10:53</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36864547"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -182,11 +424,11 @@
             <h4>
               <span>2023-07-25 @ 16:07:33</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36864476"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -204,11 +446,11 @@
             <h4>
               <span>2023-07-25 @ 15:59:54</span
               ><span class="points-container"
-                >Points: <span class="points">107</span></span
+                >Points: <span class="points">151</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36864319"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
@@ -225,11 +467,11 @@
             <h4>
               <span>2023-07-25 @ 15:49:39</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36864115"
                   >Comments</a
-                ><span class="descendants">: 103</span></span
+                ><span class="descendants">: 115</span></span
               >
             </h4>
           </section>
@@ -244,11 +486,11 @@
             <h4>
               <span>2023-07-25 @ 15:43:56</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36864021"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -263,11 +505,32 @@
             <h4>
               <span>2023-07-25 @ 15:38:41</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36863915"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 14</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="36863581">
+          <h3>
+            <a
+              class="item"
+              href="https://astralcodexten.substack.com/p/were-not-platonists-weve-just-learned"
+              >We're Not Platonists, We've Just Learned the Bitter Lesson</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-07-25 @ 15:17:45</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36863581"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -282,33 +545,11 @@
             <h4>
               <span>2023-07-25 @ 15:13:57</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36863522"
                   >Comments</a
                 ><span class="descendants">: 8</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="36863443">
-          <h3>
-            <a
-              class="item"
-              href="https://www.natesilver.net/p/journalists-should-be-skeptical-of"
-              >Journalists should be skeptical of all sources including
-              scientists</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-07-25 @ 15:09:11</span
-              ><span class="points-container"
-                >Points: <span class="points">44</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36863443"
-                  >Comments</a
-                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -318,19 +559,19 @@
             <a
               class="item"
               href="https://blog.spatial.chat/tracking-hackernews-shifting-preferences-for-remote-jobs-over-5-years/"
-              >The remote work dominates on HN:Who is hiring? – 69% jobs in 2023
-              are remote</a
+              >Remote work on HN: Who is hiring? – 69% jobs in 2023 are
+              remote</a
             >
           </h3>
           <section>
             <h4>
               <span>2023-07-25 @ 14:59:31</span
               ><span class="points-container"
-                >Points: <span class="points">243</span></span
+                >Points: <span class="points">249</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36863280"
                   >Comments</a
-                ><span class="descendants">: 195</span></span
+                ><span class="descendants">: 214</span></span
               >
             </h4>
           </section>
@@ -347,11 +588,11 @@
             <h4>
               <span>2023-07-25 @ 14:49:14</span
               ><span class="points-container"
-                >Points: <span class="points">86</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36863094"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -368,32 +609,11 @@
             <h4>
               <span>2023-07-25 @ 14:34:17</span
               ><span class="points-container"
-                >Points: <span class="points">178</span></span
+                >Points: <span class="points">189</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36862850"
                   >Comments</a
-                ><span class="descendants">: 93</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="36862658">
-          <h3>
-            <a
-              class="item"
-              href="https://resobscura.substack.com/p/why-did-it-take-psychedelics-so-long"
-              >Why did it take psychedelics so long to become popular?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-07-25 @ 14:21:50</span
-              ><span class="points-container"
-                >Points: <span class="points">37</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36862658"
-                  >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 100</span></span
               >
             </h4>
           </section>
@@ -411,11 +631,11 @@
             <h4>
               <span>2023-07-25 @ 14:10:12</span
               ><span class="points-container"
-                >Points: <span class="points">334</span></span
+                >Points: <span class="points">347</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36862494"
                   >Comments</a
-                ><span class="descendants">: 241</span></span
+                ><span class="descendants">: 253</span></span
               >
             </h4>
           </section>
@@ -432,7 +652,7 @@
             <h4>
               <span>2023-07-25 @ 11:57:27</span
               ><span class="points-container"
-                >Points: <span class="points">226</span></span
+                >Points: <span class="points">233</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36860992"
                   >Comments</a
@@ -452,11 +672,11 @@
             <h4>
               <span>2023-07-25 @ 11:45:06</span
               ><span class="points-container"
-                >Points: <span class="points">279</span></span
+                >Points: <span class="points">281</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36860898"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -471,7 +691,7 @@
             <h4>
               <span>2023-07-25 @ 09:20:50</span
               ><span class="points-container"
-                >Points: <span class="points">130</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36859880"
                   >Comments</a
@@ -492,33 +712,11 @@
             <h4>
               <span>2023-07-25 @ 09:04:21</span
               ><span class="points-container"
-                >Points: <span class="points">220</span></span
+                >Points: <span class="points">223</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36859785"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="36859510">
-          <h3>
-            <a
-              class="item"
-              href="https://mastodon.sdf.org/@cfenollosa/103469996345323076"
-              >I've skimmed 66520 newsgroups trying to find some life on the
-              Usenet (2020)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-07-25 @ 08:26:22</span
-              ><span class="points-container"
-                >Points: <span class="points">141</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36859510"
-                  >Comments</a
-                ><span class="descendants">: 159</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -536,7 +734,7 @@
             <h4>
               <span>2023-07-25 @ 04:07:36</span
               ><span class="points-container"
-                >Points: <span class="points">171</span></span
+                >Points: <span class="points">176</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36857758"
                   >Comments</a
@@ -558,53 +756,11 @@
             <h4>
               <span>2023-07-25 @ 03:00:26</span
               ><span class="points-container"
-                >Points: <span class="points">671</span></span
+                >Points: <span class="points">673</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36857314"
                   >Comments</a
                 ><span class="descendants">: 143</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="36857032">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/mozilla/standards-positions/issues/852"
-              >Mozilla Standards Positions Opposes Web Integrity API</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-07-25 @ 02:14:27</span
-              ><span class="points-container"
-                >Points: <span class="points">773</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36857032"
-                  >Comments</a
-                ><span class="descendants">: 245</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="36856882">
-          <h3>
-            <a
-              class="item"
-              href="https://www.wired.com/story/signal-politics-software-criticism/"
-              >Signal walks the line between anarchism and pragmatism</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-07-25 @ 01:53:45</span
-              ><span class="points-container"
-                >Points: <span class="points">199</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36856882"
-                  >Comments</a
-                ><span class="descendants">: 243</span></span
               >
             </h4>
           </section>
@@ -643,7 +799,7 @@
             <h4>
               <span>2023-07-25 @ 01:37:15</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36856755"
                   >Comments</a
@@ -664,32 +820,11 @@
             <h4>
               <span>2023-07-24 @ 23:11:56</span
               ><span class="points-container"
-                >Points: <span class="points">620</span></span
+                >Points: <span class="points">622</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36855516"
                   >Comments</a
-                ><span class="descendants">: 703</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="36852565">
-          <h3>
-            <a
-              class="item"
-              href="https://andrealeopardi.com/posts/breakdown-of-http-clients-in-elixir/"
-              >A Breakdown of HTTP Clients in Elixir</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-07-24 @ 18:45:54</span
-              ><span class="points-container"
-                >Points: <span class="points">149</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36852565"
-                  >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 706</span></span
               >
             </h4>
           </section>
@@ -710,7 +845,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36852542"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 86</span></span
               >
             </h4>
           </section>
@@ -728,11 +863,11 @@
             <h4>
               <span>2023-07-24 @ 17:24:35</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36851371"
                   >Comments</a
-                ><span class="descendants">: 124</span></span
+                ><span class="descendants">: 129</span></span
               >
             </h4>
           </section>
@@ -749,9 +884,30 @@
             <h4>
               <span>2023-07-24 @ 15:16:55</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36849376"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="36844579">
+          <h3>
+            <a
+              class="item"
+              href="https://historyofinformation.com/detail.php?entryid=2359"
+              >Codex Gigas: the largest manuscript of the middle ages</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-07-24 @ 08:26:01</span
+              ><span class="points-container"
+                >Points: <span class="points">3</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36844579"
                   >Comments</a
                 ><span class="descendants">: 1</span></span
               >
