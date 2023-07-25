@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-25, 15:13:57",
+      "https://news.ycombinator.com/item?id=36863522"
+    ],
+    [
+      "Onnx Runtime: “Cross-Platform Accelerated Machine Learning”",
+      "https://onnxruntime.ai/"
+    ]
+  ],
+  [
+    [
+      "2023-07-25, 14:59:31",
+      "https://news.ycombinator.com/item?id=36863280"
+    ],
+    [
+      "The remote work dominates on HN:Who is hiring? – 69% jobs in 2023 are remote",
+      "https://blog.spatial.chat/tracking-hackernews-shifting-preferences-for-remote-jobs-over-5-years/"
+    ]
+  ],
+  [
+    [
       "2023-07-25, 14:58:57",
       "https://news.ycombinator.com/item?id=36863262"
     ],
@@ -51,12 +71,12 @@
   ],
   [
     [
-      "2023-07-25, 14:16:15",
-      "https://news.ycombinator.com/item?id=36862579"
+      "2023-07-25, 14:14:25",
+      "https://news.ycombinator.com/item?id=36862546"
     ],
     [
-      "Sugary drinks tax could prevent decay and increase health equity: study",
-      "https://www.monash.edu/news/articles/sugary-drinks-tax-could-prevent-decay-and-increase-health-equity-study"
+      "Arc 1.0 – a freeware web browser developed by The Browser Company",
+      "https://arc.net/"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2023-07-24, 17:43:37",
-      "https://news.ycombinator.com/item?id=36851644"
-    ],
-    [
-      "Have attention spans been declining?",
-      "https://slimemoldtimemold.com/2023/07/24/your-mystery-have-attention-spans-been-declining/"
-    ]
-  ],
-  [
-    [
       "2023-07-24, 17:33:06",
       "https://news.ycombinator.com/item?id=36851494"
     ],
@@ -287,16 +297,6 @@
     [
       "Zenbleed",
       "https://lock.cmpxchg8b.com/zenbleed.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-24, 13:21:19",
-      "https://news.ycombinator.com/item?id=36847569"
-    ],
-    [
-      "Launch HN: Artie (YC S23) – Real time data replication to data warehouses",
-      "https://news.ycombinator.com/item?id=36847569"
     ]
   ]
 ]
