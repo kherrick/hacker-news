@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
+* [2023-07-25, 14:10:12](https://news.ycombinator.com/item?id=36862494) - [Apple already shipped attestation on the web, and we barely noticed](https://httptoolkit.com/blog/apple-private-access-tokens-attestation/)
 * [2023-07-25, 13:18:09](https://news.ycombinator.com/item?id=36861755) - [Safari 17 Link Tracking Protection](https://mjtsai.com/blog/2023/06/19/safari-17-link-tracking-protection/)
 * [2023-07-25, 12:58:32](https://news.ycombinator.com/item?id=36861545) - [Amazon will force a 'voluntary resignation' on employees](https://www.businessinsider.com/amazon-voluntary-resignation-employees-relocate-rto-2023-7)
 * [2023-07-25, 12:52:57](https://news.ycombinator.com/item?id=36861499) - [Life on Earth didn’t arise as described in textbooks](https://science.ku.dk/english/press/news/2023/life-on-earth-didnt-arise-as-described-in-textbooks/)
