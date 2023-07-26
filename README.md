@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-26, 02:04:37](https://news.ycombinator.com/item?id=36872284) - [Big Tech's Takeover and Destruction of Open Protocols and Networks](https://cheapskatesguide.org/articles/big-tech-takeovers.html)
 * [2023-07-26, 01:41:49](https://news.ycombinator.com/item?id=36872139) - [Generation of MT magnetic fields by intense-laser-driven microtube implosions](https://arxiv.org/abs/2009.00828)
+* [2023-07-26, 01:09:37](https://news.ycombinator.com/item?id=36871919) - [HBM’s Future: Necessary but Expensive](https://semiengineering.com/hbms-future-necessary-but-expensive/)
 * [2023-07-26, 00:58:00](https://news.ycombinator.com/item?id=36871821) - [FTC readies lawsuit that could break up Amazon](https://www.politico.com/news/2023/07/25/ftc-lawsuit-break-up-amazon-00108130)
 * [2023-07-26, 00:39:22](https://news.ycombinator.com/item?id=36871673) - [Google abandons work to move Assistant smart speakers to Fuchsia](https://9to5google.com/2023/07/25/google-abandons-assistant-speakers-fuchsia/)
 * [2023-07-25, 21:56:00](https://news.ycombinator.com/item?id=36870140) - [Whom the gods would destroy, they first give real-time analytics (2013)](https://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics)
@@ -9,7 +11,6 @@
 * [2023-07-25, 20:33:39](https://news.ycombinator.com/item?id=36868978) - [A command-line murder mystery (2014)](https://github.com/veltman/clmystery)
 * [2023-07-25, 20:31:12](https://news.ycombinator.com/item?id=36868940) - [Treemaps are awesome](https://blog.phronemophobic.com/treemaps-are-awesome.html)
 * [2023-07-25, 18:13:51](https://news.ycombinator.com/item?id=36866861) - [PRQL: Pipelined Relational Query Language](https://github.com/PRQL/prql)
-* [2023-07-25, 17:40:37](https://news.ycombinator.com/item?id=36866242) - [Hyperlink maximalism (2022)](https://thesephist.com/posts/hyperlink/)
 * [2023-07-25, 17:10:38](https://news.ycombinator.com/item?id=36865682) - [Octox: Unix-like OS in Rust inspired by xv6-riscv](https://github.com/o8vm/octox)
 * [2023-07-25, 17:07:12](https://news.ycombinator.com/item?id=36865625) - [Launch HN: Roundtable (YC S23) – Using AI to Simulate Surveys](https://news.ycombinator.com/item?id=36865625)
 * [2023-07-25, 16:58:42](https://news.ycombinator.com/item?id=36865495) - [Guide to running Llama 2 locally](https://replicate.com/blog/run-llama-locally)
@@ -29,7 +30,6 @@
 * [2023-07-24, 15:03:11](https://news.ycombinator.com/item?id=36849147) - [Emotions: A Code Book](https://tidyfirst.substack.com/p/emotions-a-code-book)
 * [2023-07-24, 08:39:11](https://news.ycombinator.com/item?id=36844673) - [All of Mark Watson's Lisp Books](https://github.com/mark-watson/free-older-books-and-software/tree/main/opencontent)
 * [2023-07-24, 08:26:01](https://news.ycombinator.com/item?id=36844579) - [Codex Gigas: the largest manuscript of the middle ages](https://historyofinformation.com/detail.php?entryid=2359)
-* [2023-07-24, 07:21:09](https://news.ycombinator.com/item?id=36844131) - [Guide to QucsStudio: Circuit Simulator with C++/Octave Support](https://electroagenda.com/en/a-review-of-qucsstudio/)
 
 ## [Archives](archives/index.md)
 
