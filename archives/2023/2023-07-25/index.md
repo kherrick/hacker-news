@@ -67,6 +67,7 @@
 * [2023-07-25, 09:20:50](https://news.ycombinator.com/item?id=36859880) - [Textual Paint – MS Paint in your terminal](https://github.com/1j01/textual-paint)
 * [2023-07-25, 09:04:21](https://news.ycombinator.com/item?id=36859785) - [From Python to Elixir Machine Learning](https://www.thestackcanary.com/from-python-pytorch-to-elixir-nx/)
 * [2023-07-25, 08:26:22](https://news.ycombinator.com/item?id=36859510) - [I've skimmed 66520 newsgroups trying to find some life on the Usenet (2020)](https://mastodon.sdf.org/@cfenollosa/103469996345323076)
+* [2023-07-25, 06:38:57](https://news.ycombinator.com/item?id=36858774) - [The 'eval' pattern for interpreting simple languages](https://utcc.utoronto.ca/~cks/space/blog/programming/SimpleLanguageEvalPattern)
 * [2023-07-25, 06:21:55](https://news.ycombinator.com/item?id=36858642) - [YouTube is banning links to filmmusic (free music provider), appeal doesn't work](https://news.ycombinator.com/item?id=36858642)
 * [2023-07-25, 06:19:49](https://news.ycombinator.com/item?id=36858633) - [Robo-Taxis are rolling, did you notice?](https://cmte.ieee.org/futuredirections/2023/07/25/robo-taxi-are-rolling-did-you-notice/)
 * [2023-07-25, 04:57:45](https://news.ycombinator.com/item?id=36858076) - [Digikey's Physical Connectors Tutorial](https://www.digikey.com/en/articles/connector-tutorial)
