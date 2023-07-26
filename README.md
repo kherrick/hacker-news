@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-26, 21:07:07](https://news.ycombinator.com/item?id=36885040) - [Kids Online Safety Act Is Still a Danger to Our Rights Online](https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online)
+* [2023-07-26, 21:07:07](https://news.ycombinator.com/item?id=36885040) - [Kids Online Safety Act is still a danger to our rights online](https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online)
 * [2023-07-26, 21:00:25](https://news.ycombinator.com/item?id=36884950) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-07-26, 20:49:57](https://news.ycombinator.com/item?id=36884806) - [WordPress Core to start using SQLite](https://make.wordpress.org/core/2023/04/19/status-update-on-the-sqlite-project/)
 * [2023-07-26, 19:38:25](https://news.ycombinator.com/item?id=36883668) - [A copywriter swindled victims out of $200M by pretending to be a psychic](https://thewalrus.ca/the-greatest-scam-ever-written/)
@@ -26,10 +26,10 @@
 * [2023-07-26, 10:47:02](https://news.ycombinator.com/item?id=36875513) - [A world where people pay for software](https://1sub.dev/)
 * [2023-07-26, 07:41:51](https://news.ycombinator.com/item?id=36874275) - [Home Taping Is Killing Music: When the music industry waged war on the cassette](https://www.openculture.com/2023/07/home-taping-is-killing-music-when-the-music-industry-waged-war-on-the-cassette-tape.html)
 * [2023-07-26, 05:38:50](https://news.ycombinator.com/item?id=36873516) - [People over-emphasize the recycling aspect of \"reduce, reuse, recycle\"](https://futurism.com/the-byte/scientists-recycling-backfired)
+* [2023-07-26, 00:10:43](https://news.ycombinator.com/item?id=36871459) - [New low-mass quiescent galaxy discovered](https://phys.org/news/2023-07-low-mass-quiescent-galaxy.html)
 * [2023-07-26, 00:09:20](https://news.ycombinator.com/item?id=36871446) - [Scientists discover new isopod species in the Florida Keys](https://phys.org/news/2023-07-scientists-isopod-species-florida-keys.html)
 * [2023-07-25, 11:06:28](https://news.ycombinator.com/item?id=36860570) - [How too much daydreaming affected me](https://sunghoyahng.substack.com/p/how-too-much-daydreaming-affected)
 * [2023-07-25, 06:15:03](https://news.ycombinator.com/item?id=36858603) - [20 Years of Programming (2020)](https://flooey.org/twentyyearsofprogramming.html)
-* [2023-07-24, 10:48:08](https://news.ycombinator.com/item?id=36845738) - [Chaos gardening is a carefree approach to gardening anyone can try](https://www.bhg.com/chaos-gardening-7558210)
 
 ## [Archives](archives/index.md)
 
