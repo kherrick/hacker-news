@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
+* [2023-07-26, 16:48:42](https://news.ycombinator.com/item?id=36880756) - [Stability AI releases its latest image-generating model, Stable Diffusion XL 1.0](https://techcrunch.com/2023/07/26/stability-ai-releases-its-latest-image-generating-model-stable-diffusion-xl-1-0/)
+* [2023-07-26, 16:43:52](https://news.ycombinator.com/item?id=36880664) - [S&P500 Normalized with M2](https://twitter.com/Tsartoshi/status/1680128816788779008)
 * [2023-07-26, 16:19:56](https://news.ycombinator.com/item?id=36880248) - [The Young Women Who Were Tricked into Creating the Atomic Bomb](https://www.rollingstone.com/tv-movies/tv-movie-features/oppenheimer-manhattan-project-world-war-ii-women-oak-ridge-atomic-bomb-1234788186/)
+* [2023-07-26, 16:19:04](https://news.ycombinator.com/item?id=36880235) - [Rethinking Window Management in Gnome](https://blogs.gnome.org/tbernard/2023/07/26/rethinking-window-management/)
 * [2023-07-26, 16:13:39](https://news.ycombinator.com/item?id=36880149) - [Tuning and Testing Llama 2, Flan-T5, and GPT-J with LoRA, Sematic, and Gradio](https://www.sematic.dev/blog/tuning-and-testing-llama-2-flan-t5-and-gpt-j-with-lora-sematic-and-gradio)
 * [2023-07-26, 16:03:05](https://news.ycombinator.com/item?id=36879991) - [Smart Contract Security Field Guide](https://scsfg.io/)
 * [2023-07-26, 15:53:11](https://news.ycombinator.com/item?id=36879808) - [Show HN: Experiment with Hugging Face models in a single notebook interface](https://lastmileai.dev/workbooks/clkjugr5g0036phc1ri5g517n)

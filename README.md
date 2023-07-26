@@ -1,12 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-26, 16:48:42](https://news.ycombinator.com/item?id=36880756) - [Stability AI releases its latest image-generating model, Stable Diffusion XL 1.0](https://techcrunch.com/2023/07/26/stability-ai-releases-its-latest-image-generating-model-stable-diffusion-xl-1-0/)
+* [2023-07-26, 16:43:52](https://news.ycombinator.com/item?id=36880664) - [S&P500 Normalized with M2](https://twitter.com/Tsartoshi/status/1680128816788779008)
+* [2023-07-26, 16:19:04](https://news.ycombinator.com/item?id=36880235) - [Rethinking Window Management in Gnome](https://blogs.gnome.org/tbernard/2023/07/26/rethinking-window-management/)
 * [2023-07-26, 16:13:39](https://news.ycombinator.com/item?id=36880149) - [Tuning and Testing Llama 2, Flan-T5, and GPT-J with LoRA, Sematic, and Gradio](https://www.sematic.dev/blog/tuning-and-testing-llama-2-flan-t5-and-gpt-j-with-lora-sematic-and-gradio)
 * [2023-07-26, 16:03:05](https://news.ycombinator.com/item?id=36879991) - [Smart Contract Security Field Guide](https://scsfg.io/)
 * [2023-07-26, 15:53:11](https://news.ycombinator.com/item?id=36879808) - [Show HN: Experiment with Hugging Face models in a single notebook interface](https://lastmileai.dev/workbooks/clkjugr5g0036phc1ri5g517n)
 * [2023-07-26, 15:52:18](https://news.ycombinator.com/item?id=36879794) - [Dear Aliens](http://fuckthatshit.co.za/dear-aliens/)
 * [2023-07-26, 15:50:56](https://news.ycombinator.com/item?id=36879769) - [Boeing has now lost $1.1B on Starliner, with no crew flight in sight](https://arstechnica.com/space/2023/07/boeing-has-now-lost-1-1-billion-on-starliner-with-no-crew-flight-in-sight/)
 * [2023-07-26, 15:34:43](https://news.ycombinator.com/item?id=36879461) - [Overture Maps Foundation Releases Its First World-Wide Open Map Dataset](https://overturemaps.org/overture-maps-foundation-releases-first-world-wide-open-map-dataset/)
-* [2023-07-26, 15:26:02](https://news.ycombinator.com/item?id=36879312) - [Super Rare Arcade Machine Worth Thousands Saved from Dump](https://kotaku.com/discs-of-tron-rare-trash-arcade-disney-worth-1850674636)
 * [2023-07-26, 15:03:19](https://news.ycombinator.com/item?id=36878867) - [Quad9 Blocks Pirate Site Globally After Sony Demanded €10k Fine](https://torrentfreak.com/quad9-blocks-pirate-site-globally-after-sony-demanded-e10000-fine-230725/)
 * [2023-07-26, 15:01:26](https://news.ycombinator.com/item?id=36878836) - [Mexico's heirloom corn strains are resurging amid more demand](https://www.nbcnews.com/news/latino/heirloom-corn-organic-mexico-resurging-industrial-white-corn-rcna96412)
 * [2023-07-26, 14:33:45](https://news.ycombinator.com/item?id=36878383) - [‘A very disturbing picture’: another retraction for controversial physicist](https://www.nature.com/articles/d41586-023-02401-2)
@@ -19,7 +21,6 @@
 * [2023-07-26, 10:47:02](https://news.ycombinator.com/item?id=36875513) - [A world where people pay for software](https://1sub.dev/)
 * [2023-07-26, 09:52:53](https://news.ycombinator.com/item?id=36875164) - [Google vs. the Open Web](https://interpeer.io/blog/2023/07/google-vs-the-open-web/)
 * [2023-07-26, 07:41:51](https://news.ycombinator.com/item?id=36874275) - [When the Music Industry Waged War on the Cassette Tape During the 1980s](https://www.openculture.com/2023/07/home-taping-is-killing-music-when-the-music-industry-waged-war-on-the-cassette-tape.html)
-* [2023-07-26, 03:54:07](https://news.ycombinator.com/item?id=36872876) - [My Netlify account has been suspended, I don’t know why?](https://answers.netlify.com/t/my-netlify-account-ha-been-suspended-i-dont-know-why/97537)
 * [2023-07-26, 02:41:55](https://news.ycombinator.com/item?id=36872514) - [Which GPU(s) to Get for Deep Learning](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/)
 * [2023-07-25, 22:43:10](https://news.ycombinator.com/item?id=36870734) - [The Life, Death–and Afterlife–Of Literary Fiction](https://www.esquire.com/entertainment/books/a44496450/literary-fiction-death-digital-age/)
 * [2023-07-25, 11:06:28](https://news.ycombinator.com/item?id=36860570) - [How too much daydreaming affected me](https://sunghoyahng.substack.com/p/how-too-much-daydreaming-affected)
@@ -29,7 +30,6 @@
 * [2023-07-25, 03:00:26](https://news.ycombinator.com/item?id=36857314) - [Got called to a professor’s office after a complaint his SPARC4 was running slow](https://infosec.exchange/@paco/110772422266480371)
 * [2023-07-25, 02:19:47](https://news.ycombinator.com/item?id=36857069) - [Way ahead of its time: The Remote Lounge NYC (2013)](https://docpop.org/2013/10/way-ahead-of-its-time-the-remote-lounge-nyc/)
 * [2023-07-25, 00:37:19](https://news.ycombinator.com/item?id=36856215) - [Where did our belief in abundance come from?](https://www.discoursemagazine.com/abundance/2023/07/19/where-did-our-belief-in-abundance-come-from/)
-* [2023-07-24, 16:03:09](https://news.ycombinator.com/item?id=36850113) - [When did people stop being drunk all the time?](https://lefineder.substack.com/p/when-did-people-stop-being-drunk)
 
 ## [Archives](archives/index.md)
 
