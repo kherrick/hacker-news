@@ -12,7 +12,6 @@
 * [2023-07-25, 17:10:38](https://news.ycombinator.com/item?id=36865682) - [Octox: Unix-like OS in Rust inspired by xv6-riscv](https://github.com/o8vm/octox)
 * [2023-07-25, 17:07:12](https://news.ycombinator.com/item?id=36865625) - [Launch HN: Roundtable (YC S23) – Using AI to Simulate Surveys](https://news.ycombinator.com/item?id=36865625)
 * [2023-07-25, 16:58:42](https://news.ycombinator.com/item?id=36865495) - [Guide to running Llama 2 locally](https://replicate.com/blog/run-llama-locally)
-* [2023-07-25, 16:35:47](https://news.ycombinator.com/item?id=36865060) - [Social engineering campaign targeting tech employees spreads through NPM malware](https://socket.dev/blog/social-engineering-campaign-npm-malware)
 * [2023-07-25, 16:14:32](https://news.ycombinator.com/item?id=36864624) - [The first room-temperature ambient-pressure superconductor?](https://arxiv.org/abs/2307.12008)
 * [2023-07-25, 15:43:56](https://news.ycombinator.com/item?id=36864021) - [Show HN: Marsha – An LLM-Based Programming Language](https://github.com/alantech/marsha)
 * [2023-07-25, 15:38:41](https://news.ycombinator.com/item?id=36863915) - [The Messaging Layer Security (MLS) Protocol](https://datatracker.ietf.org/doc/html/rfc9420)
@@ -30,6 +29,7 @@
 * [2023-07-24, 15:03:11](https://news.ycombinator.com/item?id=36849147) - [Emotions: A Code Book](https://tidyfirst.substack.com/p/emotions-a-code-book)
 * [2023-07-24, 08:39:11](https://news.ycombinator.com/item?id=36844673) - [Mark Watson's Lisp books](https://github.com/mark-watson/free-older-books-and-software/tree/main/opencontent)
 * [2023-07-24, 08:26:01](https://news.ycombinator.com/item?id=36844579) - [Codex Gigas: the largest manuscript of the middle ages](https://historyofinformation.com/detail.php?entryid=2359)
+* [2023-07-24, 05:35:46](https://news.ycombinator.com/item?id=36843484) - [It doesn’t take much public creativity to stand out as a job candidate](https://simonwillison.net/2021/Jul/17/standing-out/)
 
 ## [Archives](archives/index.md)
 

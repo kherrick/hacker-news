@@ -95,6 +95,7 @@
 * [2023-07-24, 06:32:29](https://news.ycombinator.com/item?id=36843794) - [Inkscape launches version 1.3 with a focus on organizing work efficiently](https://inkscape.org/news/2023/07/23/inkscape-launches-version-13-focus-organizing-work/)
 * [2023-07-24, 05:51:38](https://news.ycombinator.com/item?id=36843572) - [Ubisoft account -including games- can be permanently deleted for inactivity](https://www.pcgamer.com/your-ubisoft-account-can-be-suspended-and-subsequently-permanently-deleted-for-inactivity-taking-your-games-library-with-it/)
 * [2023-07-24, 05:41:52](https://news.ycombinator.com/item?id=36843514) - [Kareem Abdul-Jabbar: Bruce Lee and Me](https://kareem.substack.com/p/bruce-lee-and-me)
+* [2023-07-24, 05:35:46](https://news.ycombinator.com/item?id=36843484) - [It doesn’t take much public creativity to stand out as a job candidate](https://simonwillison.net/2021/Jul/17/standing-out/)
 * [2023-07-24, 05:33:28](https://news.ycombinator.com/item?id=36843469) - [Sam Altman’s Worldcoin Token to Launch Monday](https://www.bloomberg.com/news/articles/2023-07-24/sam-altman-s-worldcoin-token-to-launch-monday-semafor-reports)
 * [2023-07-24, 05:30:09](https://news.ycombinator.com/item?id=36843441) - [Hallucinogenic Plants in Chinese Herbals](https://en.wikipedia.org/wiki/Hallucinogenic_plants_in_Chinese_herbals)
 * [2023-07-24, 05:14:08](https://news.ycombinator.com/item?id=36843355) - [X.com (2000)](https://web.archive.org/web/20000301045908/http://x.com:80/)
