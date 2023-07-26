@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-26, 07:41:51](https://news.ycombinator.com/item?id=36874275) - [When the Music Industry Waged War on the Cassette Tape During the 1980s](https://www.openculture.com/2023/07/home-taping-is-killing-music-when-the-music-industry-waged-war-on-the-cassette-tape.html)
 * [2023-07-26, 07:23:49](https://news.ycombinator.com/item?id=36874149) - [Wall squats better at lowering blood pressure](https://www.bbc.co.uk/news/health-66303982)
 * [2023-07-26, 03:54:07](https://news.ycombinator.com/item?id=36872876) - [Netlify accounts are being suspended with no recourse](https://answers.netlify.com/t/my-netlify-account-ha-been-suspended-i-dont-know-why/97537)
 * [2023-07-26, 02:41:55](https://news.ycombinator.com/item?id=36872514) - [Which GPU(s) to Get for Deep Learning](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/)
@@ -30,6 +29,7 @@
 * [2023-07-24, 17:04:53](https://news.ycombinator.com/item?id=36851107) - [The magnificence of the bluefin tuna](https://www.newyorker.com/science/elements/the-magnificence-of-the-bluefin-tuna)
 * [2023-07-24, 16:03:09](https://news.ycombinator.com/item?id=36850113) - [When did people stop being drunk all the time?](https://lefineder.substack.com/p/when-did-people-stop-being-drunk)
 * [2023-07-24, 08:39:11](https://news.ycombinator.com/item?id=36844673) - [Mark Watson's Lisp books](https://github.com/mark-watson/free-older-books-and-software/tree/main/opencontent)
+* [2023-07-24, 07:21:09](https://news.ycombinator.com/item?id=36844131) - [Guide to QucsStudio: Circuit Simulator with C++/Octave Support](https://electroagenda.com/en/a-review-of-qucsstudio/)
 
 ## [Archives](archives/index.md)
 
