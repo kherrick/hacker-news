@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
+* [2023-07-26, 19:29:40](https://news.ycombinator.com/item?id=36883545) - [Fired Tesla Employee Posts New Video of Full Self-Driving Running Red Light](https://jalopnik.com/fired-tesla-employee-posts-video-fsd-running-red-light-1850678098)
 * [2023-07-26, 19:06:48](https://news.ycombinator.com/item?id=36883198) - [US conducted ‘multi-decade’ secret UFO program, ex-intelligence official says](https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch)
 * [2023-07-26, 18:41:18](https://news.ycombinator.com/item?id=36882780) - [Reasons to be skeptical of that room-temperature superconductor claim](https://twitter.com/gravity_levity/status/1684029657857892354)
 * [2023-07-26, 18:40:59](https://news.ycombinator.com/item?id=36882767) - [How to build toxic software teams](https://badsoftwareadvice.substack.com/p/how-to-build-toxic-software-teams)
