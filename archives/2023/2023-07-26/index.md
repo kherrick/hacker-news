@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
 * [2023-07-26, 07:41:51](https://news.ycombinator.com/item?id=36874275) - [When the Music Industry Waged War on the Cassette Tape During the 1980s](https://www.openculture.com/2023/07/home-taping-is-killing-music-when-the-music-industry-waged-war-on-the-cassette-tape.html)
+* [2023-07-26, 07:23:49](https://news.ycombinator.com/item?id=36874149) - [Wall squats better at lowering blood pressure](https://www.bbc.co.uk/news/health-66303982)
 * [2023-07-26, 06:49:34](https://news.ycombinator.com/item?id=36873927) - [Systemctl –Force –Force Reboot](https://news.ycombinator.com/item?id=36873927)
 * [2023-07-26, 06:04:14](https://news.ycombinator.com/item?id=36873646) - [Japan’s population drops by nearly 800k](https://www.theguardian.com/world/2023/jul/26/japan-population-how-many-people-drops-first-time-births-deaths)
 * [2023-07-26, 05:38:50](https://news.ycombinator.com/item?id=36873516) - [Scientists Say Recycling Has Backfired Spectacularly](https://futurism.com/the-byte/scientists-recycling-backfired)
