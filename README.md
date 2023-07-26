@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-26, 21:31:05](https://news.ycombinator.com/item?id=36885360) - [Fed raises rates 25 bps](https://www.federalreserve.gov/newsevents/pressreleases/monetary20230726a.htm)
 * [2023-07-26, 21:00:25](https://news.ycombinator.com/item?id=36884950) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-07-26, 20:49:57](https://news.ycombinator.com/item?id=36884806) - [WordPress Core to start using SQLite Database](https://blogiestools.com/wordpress-sqlite-database/)
 * [2023-07-26, 20:21:46](https://news.ycombinator.com/item?id=36884380) - [Meta Q2 2023 revenue is up 11% YOY](https://twitter.com/stonksnews/status/1684295301551517697)
 * [2023-07-26, 20:05:49](https://news.ycombinator.com/item?id=36884118) - [Study suggests isometric exercises best for reducing blood pressure](https://bjsm.bmj.com/content/early/2023/07/02/bjsports-2022-106503)
-* [2023-07-26, 19:39:14](https://news.ycombinator.com/item?id=36883677) - [Staying ahead of the AMD vulnerability known as “Zenbleed”](https://blog.cloudflare.com/zenbleed-vulnerability/)
 * [2023-07-26, 19:38:25](https://news.ycombinator.com/item?id=36883668) - [A copywriter swindled victims out of $200M by pretending to be a psychic](https://thewalrus.ca/the-greatest-scam-ever-written/)
 * [2023-07-26, 19:22:01](https://news.ycombinator.com/item?id=36883436) - [Cultivating a state of mind where new ideas are born](https://www.henrikkarlsson.xyz/p/good-ideas)
 * [2023-07-26, 18:04:29](https://news.ycombinator.com/item?id=36882146) - [Show HN: Continue – Open-source coding autopilot](https://github.com/continuedev/continue)
