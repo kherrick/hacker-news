@@ -63,6 +63,7 @@
 * [2023-07-25, 11:58:35](https://news.ycombinator.com/item?id=36861004) - [Email in the 18th century: the optical telegraph (2007)](https://www.lowtechmagazine.com/2007/12/email-in-the-18.html)
 * [2023-07-25, 11:57:27](https://news.ycombinator.com/item?id=36860992) - [What We Know About LLMs (A Primer)](https://willthompson.name/what-we-know-about-llms-primer)
 * [2023-07-25, 11:45:06](https://news.ycombinator.com/item?id=36860898) - [Show HN: Invoice Dragon – An Open Source App to Create PDF Invoices for Free](https://invoicedragon.com/)
+* [2023-07-25, 11:06:28](https://news.ycombinator.com/item?id=36860570) - [How too much daydreaming affected me](https://sunghoyahng.substack.com/p/how-too-much-daydreaming-affected)
 * [2023-07-25, 10:53:19](https://news.ycombinator.com/item?id=36860488) - [The Internet Free Zone (1997)](https://arachnoid.com/freezone/)
 * [2023-07-25, 10:29:08](https://news.ycombinator.com/item?id=36860326) - [How much better was DEC Alpha than contemporaneous x86? (2020)](https://retrocomputing.stackexchange.com/questions/13611/how-much-better-was-dec-alpha-than-contemporaneous-x86)
 * [2023-07-25, 10:03:39](https://news.ycombinator.com/item?id=36860143) - [Deadly global heatwaves undeniably result of climate crisis, scientists show](https://www.theguardian.com/science/2023/jul/25/deadly-global-heatwaves-undeniably-result-of-climate-crisis-scientists-attribution)
