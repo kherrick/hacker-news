@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-26, 12:05:43",
+      "https://news.ycombinator.com/item?id=36876301"
+    ],
+    [
+      "Google is already pushing WEI (web DRM) into Chromium",
+      "https://github.com/chromium/chromium/commit/6f47a22906b2899412e79a2727355efa9cc8f5bd"
+    ]
+  ],
+  [
+    [
       "2023-07-26, 12:00:27",
       "https://news.ycombinator.com/item?id=36876256"
     ],
@@ -15,8 +25,18 @@
       "https://news.ycombinator.com/item?id=36876012"
     ],
     [
-      "Show HN: Django Admin Site Customization Tutorial",
+      "Customize Django Admin Interface",
       "https://appliku.com/post/customize-django-admin-interface"
+    ]
+  ],
+  [
+    [
+      "2023-07-26, 11:23:04",
+      "https://news.ycombinator.com/item?id=36875862"
+    ],
+    [
+      "Unesco calls for global ban on smartphones in schools",
+      "https://www.theguardian.com/world/2023/jul/26/put-learners-first-unesco-calls-for-global-ban-on-smartphones-in-schools"
     ]
   ],
   [
@@ -31,6 +51,16 @@
   ],
   [
     [
+      "2023-07-26, 10:47:02",
+      "https://news.ycombinator.com/item?id=36875513"
+    ],
+    [
+      "1Sub.dev – A world where people pay for software",
+      "https://1sub.dev/"
+    ]
+  ],
+  [
+    [
       "2023-07-26, 10:43:12",
       "https://news.ycombinator.com/item?id=36875481"
     ],
@@ -41,11 +71,21 @@
   ],
   [
     [
+      "2023-07-26, 09:52:53",
+      "https://news.ycombinator.com/item?id=36875164"
+    ],
+    [
+      "Google vs. the Open Web",
+      "https://interpeer.io/blog/2023/07/google-vs-the-open-web/"
+    ]
+  ],
+  [
+    [
       "2023-07-26, 03:54:07",
       "https://news.ycombinator.com/item?id=36872876"
     ],
     [
-      "Netlify accounts are being suspended with no recourse",
+      "My Netlify account has been suspended, I don’t know why?",
       "https://answers.netlify.com/t/my-netlify-account-ha-been-suspended-i-dont-know-why/97537"
     ]
   ],
@@ -71,32 +111,12 @@
   ],
   [
     [
-      "2023-07-26, 00:39:22",
-      "https://news.ycombinator.com/item?id=36871673"
-    ],
-    [
-      "Google abandons work to move Assistant smart speakers to Fuchsia",
-      "https://9to5google.com/2023/07/25/google-abandons-assistant-speakers-fuchsia/"
-    ]
-  ],
-  [
-    [
       "2023-07-26, 00:35:57",
       "https://news.ycombinator.com/item?id=36871651"
     ],
     [
       "Expo – open-source platform for making universal apps for Android, iOS, and web",
       "https://github.com/expo/expo"
-    ]
-  ],
-  [
-    [
-      "2023-07-25, 21:02:32",
-      "https://news.ycombinator.com/item?id=36869486"
-    ],
-    [
-      "The Mathematica Journal is no longer accepting submissions",
-      "https://www.mathematica-journal.com/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-07-25, 11:45:06",
-      "https://news.ycombinator.com/item?id=36860898"
-    ],
-    [
-      "Show HN: Invoice Dragon – An open source app to create PDF invoices",
-      "https://invoicedragon.com/"
-    ]
-  ],
-  [
-    [
       "2023-07-25, 10:53:19",
       "https://news.ycombinator.com/item?id=36860488"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2023-07-25, 06:38:57",
-      "https://news.ycombinator.com/item?id=36858774"
-    ],
-    [
-      "The 'eval' pattern for interpreting simple languages",
-      "https://utcc.utoronto.ca/~cks/space/blog/programming/SimpleLanguageEvalPattern"
-    ]
-  ],
-  [
-    [
       "2023-07-25, 06:15:03",
       "https://news.ycombinator.com/item?id=36858603"
     ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=36857069"
     ],
     [
-      "Way ahead of its time: The Remote Lounge NYC",
+      "Way ahead of its time: The Remote Lounge NYC (2013)",
       "https://docpop.org/2013/10/way-ahead-of-its-time-the-remote-lounge-nyc/"
     ]
   ],
