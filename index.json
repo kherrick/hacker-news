@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-26, 18:20:58",
+      "https://news.ycombinator.com/item?id=36882423"
+    ],
+    [
+      "Irish singer Sinéad O'Connor dies aged 56",
+      "https://www.bbc.com/news/entertainment-arts-66318626"
+    ]
+  ],
+  [
+    [
+      "2023-07-26, 17:55:38",
+      "https://news.ycombinator.com/item?id=36881989"
+    ],
+    [
+      "BasicBlocker: ISA Redesign to Make Spectre-Immune CPUs Faster",
+      "https://arxiv.org/abs/2007.15919"
+    ]
+  ],
+  [
+    [
       "2023-07-26, 17:46:48",
       "https://news.ycombinator.com/item?id=36881814"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2023-07-26, 16:59:05",
-      "https://news.ycombinator.com/item?id=36880936"
-    ],
-    [
-      "1Password: Privacy-preserving usage data: Under the hood",
-      "https://blog.1password.com/privacy-telemetry-deep-dive/"
-    ]
-  ],
-  [
-    [
       "2023-07-26, 16:48:42",
       "https://news.ycombinator.com/item?id=36880756"
     ],
@@ -87,6 +97,26 @@
     [
       "Rethinking Window Management in Gnome",
       "https://blogs.gnome.org/tbernard/2023/07/26/rethinking-window-management/"
+    ]
+  ],
+  [
+    [
+      "2023-07-26, 16:13:39",
+      "https://news.ycombinator.com/item?id=36880149"
+    ],
+    [
+      "Tuning and Testing Llama 2, Flan-T5, and GPT-J with LoRA, Sematic, and Gradio",
+      "https://www.sematic.dev/blog/tuning-and-testing-llama-2-flan-t5-and-gpt-j-with-lora-sematic-and-gradio"
+    ]
+  ],
+  [
+    [
+      "2023-07-26, 16:06:55",
+      "https://news.ycombinator.com/item?id=36880069"
+    ],
+    [
+      "JEP 400: UTF-8 by Default",
+      "https://openjdk.org/jeps/400"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2023-07-26, 14:04:46",
-      "https://news.ycombinator.com/item?id=36877928"
-    ],
-    [
-      "Florida ocean temps surge to 100F; mass coral bleaching event is found in reefs",
-      "https://www.cnn.com/2023/07/25/us/florida-ocean-heat-coral-bleaching-climate/index.html"
-    ]
-  ],
-  [
-    [
       "2023-07-26, 12:48:57",
       "https://news.ycombinator.com/item?id=36876783"
     ],
@@ -187,16 +207,6 @@
     [
       "Memory Copy Hunting",
       "https://tigerbeetle.com/blog/2023-07-26-copy-hunting/"
-    ]
-  ],
-  [
-    [
-      "2023-07-26, 12:05:43",
-      "https://news.ycombinator.com/item?id=36876301"
-    ],
-    [
-      "Google is already pushing WEI into Chromium",
-      "https://github.com/chromium/chromium/commit/6f47a22906b2899412e79a2727355efa9cc8f5bd"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "20 Years of Programming (2020)",
       "https://flooey.org/twentyyearsofprogramming.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-25, 03:00:26",
-      "https://news.ycombinator.com/item?id=36857314"
-    ],
-    [
-      "Got called to a professor’s office after a complaint his SPARC4 was running slow",
-      "https://infosec.exchange/@paco/110772422266480371"
     ]
   ],
   [
