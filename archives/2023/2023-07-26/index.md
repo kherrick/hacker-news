@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
+* [2023-07-26, 14:15:06](https://news.ycombinator.com/item?id=36878087) - [Norwegian shipping company bans electric cars on board classic ferry route](https://ctif.org/news/norwegian-shipping-company-bans-electric-cars-board-classic-ferry-route)
 * [2023-07-26, 13:27:11](https://news.ycombinator.com/item?id=36877311) - [Texas City Police Officer practices sunk cost fallacy and continues arrest](https://www.click2houston.com/news/local/2023/07/26/texas-city-police-officer-remains-under-investigation-as-new-video-shows-moments-before-viral-buc-ees-traffic-stop/)
 * [2023-07-26, 13:14:08](https://news.ycombinator.com/item?id=36877112) - [What’s New in IntelliJ Idea 2023.2](https://www.jetbrains.com/idea/whatsnew/)
 * [2023-07-26, 12:48:57](https://news.ycombinator.com/item?id=36876783) - [Mold 2.0.0](https://github.com/rui314/mold/releases/tag/v2.0.0)

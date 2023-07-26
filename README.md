@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-26, 14:15:06](https://news.ycombinator.com/item?id=36878087) - [Norwegian shipping company bans electric cars on board classic ferry route](https://ctif.org/news/norwegian-shipping-company-bans-electric-cars-board-classic-ferry-route)
 * [2023-07-26, 13:14:08](https://news.ycombinator.com/item?id=36877112) - [IntelliJ IDEA 2023.2](https://www.jetbrains.com/idea/whatsnew/)
 * [2023-07-26, 12:48:57](https://news.ycombinator.com/item?id=36876783) - [Mold 2.0](https://github.com/rui314/mold/releases/tag/v2.0.0)
 * [2023-07-26, 12:16:50](https://news.ycombinator.com/item?id=36876396) - [Memory Copy Hunting](https://tigerbeetle.com/blog/2023-07-26-copy-hunting/)
@@ -26,7 +27,6 @@
 * [2023-07-25, 03:00:26](https://news.ycombinator.com/item?id=36857314) - [Got called to a professor’s office after a complaint his SPARC4 was running slow](https://infosec.exchange/@paco/110772422266480371)
 * [2023-07-25, 02:19:47](https://news.ycombinator.com/item?id=36857069) - [Way ahead of its time: The Remote Lounge NYC (2013)](https://docpop.org/2013/10/way-ahead-of-its-time-the-remote-lounge-nyc/)
 * [2023-07-25, 00:37:19](https://news.ycombinator.com/item?id=36856215) - [Where did our belief in abundance come from?](https://www.discoursemagazine.com/abundance/2023/07/19/where-did-our-belief-in-abundance-come-from/)
-* [2023-07-24, 17:04:53](https://news.ycombinator.com/item?id=36851107) - [The magnificence of the bluefin tuna](https://www.newyorker.com/science/elements/the-magnificence-of-the-bluefin-tuna)
 * [2023-07-24, 16:03:09](https://news.ycombinator.com/item?id=36850113) - [When did people stop being drunk all the time?](https://lefineder.substack.com/p/when-did-people-stop-being-drunk)
 * [2023-07-24, 08:39:11](https://news.ycombinator.com/item?id=36844673) - [Mark Watson's Lisp books](https://github.com/mark-watson/free-older-books-and-software/tree/main/opencontent)
 * [2023-07-24, 05:35:46](https://news.ycombinator.com/item?id=36843484) - [It doesn’t take much public creativity to stand out as a job candidate](https://simonwillison.net/2021/Jul/17/standing-out/)
