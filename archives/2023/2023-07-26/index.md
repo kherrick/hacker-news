@@ -11,6 +11,7 @@
 * [2023-07-26, 04:34:15](https://news.ycombinator.com/item?id=36873131) - [Where do you discuss computer related stuff now?](https://lobste.rs/s/ih3cwj/where_do_you_discuss_computer_related)
 * [2023-07-26, 03:54:07](https://news.ycombinator.com/item?id=36872876) - [Netlify accounts are being suspended with no recourse](https://answers.netlify.com/t/my-netlify-account-ha-been-suspended-i-dont-know-why/97537)
 * [2023-07-26, 02:44:18](https://news.ycombinator.com/item?id=36872526) - [An Introduction to Saving Money](https://staythrive.com/saving-money/)
+* [2023-07-26, 02:41:55](https://news.ycombinator.com/item?id=36872514) - [Which GPU(s) to Get for Deep Learning](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/)
 * [2023-07-26, 02:04:37](https://news.ycombinator.com/item?id=36872284) - [Big Tech's Takeover and Destruction of Open Protocols and Networks](https://cheapskatesguide.org/articles/big-tech-takeovers.html)
 * [2023-07-26, 01:41:49](https://news.ycombinator.com/item?id=36872139) - [Generation of MT magnetic fields by intense-laser-driven microtube implosions](https://arxiv.org/abs/2009.00828)
 * [2023-07-26, 01:09:37](https://news.ycombinator.com/item?id=36871919) - [HBM’s Future: Necessary but Expensive](https://semiengineering.com/hbms-future-necessary-but-expensive/)
