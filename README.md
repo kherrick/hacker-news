@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-26, 17:31:22](https://news.ycombinator.com/item?id=36881510) - [Why I am starting a hard core tech company in my 50s](https://iamnotarobot.substack.com/publish/post/135470888)
 * [2023-07-26, 17:00:25](https://news.ycombinator.com/item?id=36880961) - [Prequel (YC W21) – Customer Data Sharing to All Data Warehouses Is Hiring](https://www.ycombinator.com/companies/prequel/jobs/VNoKffl-senior-software-engineer)
 * [2023-07-26, 16:59:05](https://news.ycombinator.com/item?id=36880936) - [1Password: Privacy-preserving usage data: Under the hood](https://blog.1password.com/privacy-telemetry-deep-dive/)
 * [2023-07-26, 16:48:42](https://news.ycombinator.com/item?id=36880756) - [Stability AI releases its latest image-generating model, Stable Diffusion XL 1.0](https://techcrunch.com/2023/07/26/stability-ai-releases-its-latest-image-generating-model-stable-diffusion-xl-1-0/)
@@ -16,7 +17,6 @@
 * [2023-07-26, 15:01:26](https://news.ycombinator.com/item?id=36878836) - [Mexico's heirloom corn strains are resurging amid more demand](https://www.nbcnews.com/news/latino/heirloom-corn-organic-mexico-resurging-industrial-white-corn-rcna96412)
 * [2023-07-26, 14:33:45](https://news.ycombinator.com/item?id=36878383) - [‘A very disturbing picture’: another retraction for controversial physicist](https://www.nature.com/articles/d41586-023-02401-2)
 * [2023-07-26, 14:04:46](https://news.ycombinator.com/item?id=36877928) - [Florida ocean temps surge to 100F; mass coral bleaching event is found in reefs](https://www.cnn.com/2023/07/25/us/florida-ocean-heat-coral-bleaching-climate/index.html)
-* [2023-07-26, 13:05:50](https://news.ycombinator.com/item?id=36877000) - [Rewind.ai Now Available for iPhone](https://apps.apple.com/us/app/rewind-truly-personalized-ai/id6449795815)
 * [2023-07-26, 12:48:57](https://news.ycombinator.com/item?id=36876783) - [Mold 2.0](https://github.com/rui314/mold/releases/tag/v2.0.0)
 * [2023-07-26, 12:16:50](https://news.ycombinator.com/item?id=36876396) - [Memory Copy Hunting](https://tigerbeetle.com/blog/2023-07-26-copy-hunting/)
 * [2023-07-26, 12:05:43](https://news.ycombinator.com/item?id=36876301) - [Google is already pushing WEI into Chromium](https://github.com/chromium/chromium/commit/6f47a22906b2899412e79a2727355efa9cc8f5bd)
