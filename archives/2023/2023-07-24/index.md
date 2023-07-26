@@ -82,6 +82,7 @@
 * [2023-07-24, 11:22:13](https://news.ycombinator.com/item?id=36846076) - [Unicode Character “𝕏” (U+1D54F)](https://www.compart.com/en/unicode/U+1D54F)
 * [2023-07-24, 11:10:20](https://news.ycombinator.com/item?id=36845950) - [Industrial-Grade SD/SDHC Cards – ATP – DigiKey](https://www.digikey.com/en/product-highlight/a/atp/industrial-grade-sd-sdhc-cards)
 * [2023-07-24, 11:09:25](https://news.ycombinator.com/item?id=36845943) - [Rust vs. Julia in Scientific Computing](https://mo8it.com/blog/rust-vs-julia/)
+* [2023-07-24, 10:48:08](https://news.ycombinator.com/item?id=36845738) - [Chaos gardening is the carefree approach to gardening anyone can try](https://www.bhg.com/chaos-gardening-7558210)
 * [2023-07-24, 10:45:26](https://news.ycombinator.com/item?id=36845714) - [The Unreasonable Effectiveness of Sequence Diagrams in MermaidJS](https://jessems.com/posts/2023-07-22-the-unreasonable-effectiveness-of-sequence-diagrams-in-mermaidjs)
 * [2023-07-24, 10:21:05](https://news.ycombinator.com/item?id=36845492) - [Twitter unveils X logo to replace blue bird](https://www.bbc.com/news/business-66284304)
 * [2023-07-24, 10:02:24](https://news.ycombinator.com/item?id=36845347) - [DietPi – Lightweight justice for your SBC](https://dietpi.com/#home)
