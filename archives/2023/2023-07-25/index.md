@@ -59,6 +59,7 @@
 * [2023-07-25, 12:52:57](https://news.ycombinator.com/item?id=36861499) - [Life on Earth didn’t arise as described in textbooks](https://science.ku.dk/english/press/news/2023/life-on-earth-didnt-arise-as-described-in-textbooks/)
 * [2023-07-25, 12:44:07](https://news.ycombinator.com/item?id=36861409) - [Ask HN: Does a framework exist for “open-source SaaS”?](https://news.ycombinator.com/item?id=36861409)
 * [2023-07-25, 12:33:01](https://news.ycombinator.com/item?id=36861302) - [Our World of Pixels](https://ourworldofpixels.com/)
+* [2023-07-25, 11:58:35](https://news.ycombinator.com/item?id=36861004) - [Email in the 18th century: the optical telegraph (2007)](https://www.lowtechmagazine.com/2007/12/email-in-the-18.html)
 * [2023-07-25, 11:57:27](https://news.ycombinator.com/item?id=36860992) - [What We Know About LLMs (A Primer)](https://willthompson.name/what-we-know-about-llms-primer)
 * [2023-07-25, 11:45:06](https://news.ycombinator.com/item?id=36860898) - [Show HN: Invoice Dragon – An Open Source App to Create PDF Invoices for Free](https://invoicedragon.com/)
 * [2023-07-25, 10:53:19](https://news.ycombinator.com/item?id=36860488) - [The Internet Free Zone (1997)](https://arachnoid.com/freezone/)
