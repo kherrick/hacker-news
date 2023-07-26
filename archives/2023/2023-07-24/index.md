@@ -46,6 +46,7 @@
 * [2023-07-24, 17:31:58](https://news.ycombinator.com/item?id=36851475) - [Ceed – A tiny x86 compiler with ELF and PE target (2017)](https://github.com/ipankajg/ceed)
 * [2023-07-24, 17:24:35](https://news.ycombinator.com/item?id=36851371) - [Bitsummit 2023: Steam Decks Everywhere, No VR, and Impressive Indie Games](https://boilingsteam.com/bitsummit-2023-steam-decks-everywhere-no-vr-and-impressive-indie-games/)
 * [2023-07-24, 17:24:21](https://news.ycombinator.com/item?id=36851369) - [From Pet Cemetery Owner to Identity Thief to Best-Selling Ghostwriter](https://www.nytimes.com/2023/07/24/books/lara-love-hardin-memoir-many-lives-mama-love.html)
+* [2023-07-24, 17:04:53](https://news.ycombinator.com/item?id=36851107) - [The Magnificence of the Bluefin Tuna](https://www.newyorker.com/science/elements/the-magnificence-of-the-bluefin-tuna)
 * [2023-07-24, 17:01:05](https://news.ycombinator.com/item?id=36851054) - [Emerge Tools (YC W21) Is Hiring a Senior Front End Engineer](https://www.workatastartup.com/jobs/61922/)
 * [2023-07-24, 16:43:29](https://news.ycombinator.com/item?id=36850781) - [Revealed: Media Blitz Against Heat Pumps Funded by Gas Lobby Group](https://www.desmog.com/2023/07/20/revealed-media-blitz-against-heat-pumps-funded-by-gas-lobby-group/)
 * [2023-07-24, 16:29:01](https://news.ycombinator.com/item?id=36850554) - [Text-to-Video-Synthesis-Colab](https://github.com/camenduru/text-to-video-synthesis-colab)
