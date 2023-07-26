@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-26, 20:05:49](https://news.ycombinator.com/item?id=36884118) - [Study suggests isometric exercises best for reducing blood pressure](https://bjsm.bmj.com/content/early/2023/07/02/bjsports-2022-106503)
 * [2023-07-26, 19:39:14](https://news.ycombinator.com/item?id=36883677) - [Staying ahead of the AMD vulnerability known as “Zenbleed”](https://blog.cloudflare.com/zenbleed-vulnerability/)
-* [2023-07-26, 19:06:48](https://news.ycombinator.com/item?id=36883198) - [US conducted ‘multi-decade’ secret UFO program, ex-intelligence official says](https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch)
+* [2023-07-26, 19:22:01](https://news.ycombinator.com/item?id=36883436) - [How Grothendieck, Bergman, etc. set themselves up to have new ideas](https://www.henrikkarlsson.xyz/p/good-ideas)
 * [2023-07-26, 18:40:59](https://news.ycombinator.com/item?id=36882767) - [How to build toxic software teams](https://badsoftwareadvice.substack.com/p/how-to-build-toxic-software-teams)
 * [2023-07-26, 18:23:19](https://news.ycombinator.com/item?id=36882467) - [Apple's infamously strict on App Store rules but gives WeChat a free pass (2020)](https://reclaimthenet.org/apple-app-store-wechat-china)
 * [2023-07-26, 17:55:38](https://news.ycombinator.com/item?id=36881989) - [BasicBlocker: ISA Redesign to Make Spectre-Immune CPUs Faster (2021)](https://arxiv.org/abs/2007.15919)
@@ -17,7 +18,6 @@
 * [2023-07-26, 16:03:05](https://news.ycombinator.com/item?id=36879991) - [Smart Contract Security Field Guide](https://scsfg.io/)
 * [2023-07-26, 15:50:56](https://news.ycombinator.com/item?id=36879769) - [Boeing has now lost $1.1B on Starliner, with no crew flight in sight](https://arstechnica.com/space/2023/07/boeing-has-now-lost-1-1-billion-on-starliner-with-no-crew-flight-in-sight/)
 * [2023-07-26, 15:34:43](https://news.ycombinator.com/item?id=36879461) - [Overture Maps Foundation releases open map dataset](https://overturemaps.org/overture-maps-foundation-releases-first-world-wide-open-map-dataset/)
-* [2023-07-26, 15:03:19](https://news.ycombinator.com/item?id=36878867) - [Quad9 blocks pirate site globally after Sony demanded €10k fine](https://torrentfreak.com/quad9-blocks-pirate-site-globally-after-sony-demanded-e10000-fine-230725/)
 * [2023-07-26, 15:01:26](https://news.ycombinator.com/item?id=36878836) - [Mexico's heirloom corn strains are resurging amid more demand](https://www.nbcnews.com/news/latino/heirloom-corn-organic-mexico-resurging-industrial-white-corn-rcna96412)
 * [2023-07-26, 12:48:57](https://news.ycombinator.com/item?id=36876783) - [Mold 2.0](https://github.com/rui314/mold/releases/tag/v2.0.0)
 * [2023-07-26, 12:16:50](https://news.ycombinator.com/item?id=36876396) - [Memory Copy Hunting](https://tigerbeetle.com/blog/2023-07-26-copy-hunting/)
