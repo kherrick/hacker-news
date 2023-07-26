@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
 * [2023-07-26, 21:00:25](https://news.ycombinator.com/item?id=36884950) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2023-07-26, 20:21:46](https://news.ycombinator.com/item?id=36884380) - [Meta Q2 2023 revenue is up 11% YOY](https://twitter.com/stonksnews/status/1684295301551517697)
 * [2023-07-26, 20:12:06](https://news.ycombinator.com/item?id=36884230) - [Meta Reports Second Quarter 2023 Results [pdf]](https://s21.q4cdn.com/399680738/files/doc_financials/2023/q2/Meta-06-30-2023-Exhibit-99-1-FINAL.pdf)
 * [2023-07-26, 20:05:49](https://news.ycombinator.com/item?id=36884118) - [Study suggests isometric exercises best for reducing blood pressure](https://bjsm.bmj.com/content/early/2023/07/02/bjsports-2022-106503)
 * [2023-07-26, 19:39:14](https://news.ycombinator.com/item?id=36883677) - [Staying ahead of the AMD vulnerability known as “Zenbleed”](https://blog.cloudflare.com/zenbleed-vulnerability/)
