@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-26, 15:03:19](https://news.ycombinator.com/item?id=36878867) - [Quad9 Blocks Pirate Site Globally After Sony Demanded €10k Fine](https://torrentfreak.com/quad9-blocks-pirate-site-globally-after-sony-demanded-e10000-fine-230725/)
 * [2023-07-26, 14:15:06](https://news.ycombinator.com/item?id=36878087) - [Norwegian shipping company bans electric cars on board classic ferry route](https://ctif.org/news/norwegian-shipping-company-bans-electric-cars-board-classic-ferry-route)
 * [2023-07-26, 14:14:09](https://news.ycombinator.com/item?id=36878068) - [Community Note correcting Musk’s anti-vax tweet mysteriously disappears](https://old.reddit.com/r/EnoughMuskSpam/comments/15a086f/community_note_correcting_musks_antivax_tweet/)
 * [2023-07-26, 13:56:26](https://news.ycombinator.com/item?id=36877774) - [House UFO hearing livestream [video]](https://www.youtube.com/watch?v=GkEnx2REz7U)
-* [2023-07-26, 13:14:08](https://news.ycombinator.com/item?id=36877112) - [IntelliJ IDEA 2023.2](https://www.jetbrains.com/idea/whatsnew/)
 * [2023-07-26, 12:48:57](https://news.ycombinator.com/item?id=36876783) - [Mold 2.0](https://github.com/rui314/mold/releases/tag/v2.0.0)
 * [2023-07-26, 12:16:50](https://news.ycombinator.com/item?id=36876396) - [Memory Copy Hunting](https://tigerbeetle.com/blog/2023-07-26-copy-hunting/)
 * [2023-07-26, 12:05:43](https://news.ycombinator.com/item?id=36876301) - [Google is already pushing WEI into Chromium](https://github.com/chromium/chromium/commit/6f47a22906b2899412e79a2727355efa9cc8f5bd)
