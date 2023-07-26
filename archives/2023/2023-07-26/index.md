@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
+* [2023-07-26, 21:31:58](https://news.ycombinator.com/item?id=36885368) - [Bit-Stealing Made Legal](https://inria.hal.science/hal-04165615/document)
 * [2023-07-26, 21:31:05](https://news.ycombinator.com/item?id=36885360) - [Fed raises rates 25 bps](https://www.federalreserve.gov/newsevents/pressreleases/monetary20230726a.htm)
 * [2023-07-26, 21:07:07](https://news.ycombinator.com/item?id=36885040) - [Kids Online Safety Act Is Still a Danger to Our Rights Online](https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online)
 * [2023-07-26, 21:00:25](https://news.ycombinator.com/item?id=36884950) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
@@ -76,6 +77,7 @@
 * [2023-07-26, 10:43:12](https://news.ycombinator.com/item?id=36875481) - [NASA funds 11 moon projects to help mission to 'live off the land](https://www.washingtonpost.com/technology/2023/07/25/nasa-moon-artemis/)
 * [2023-07-26, 10:04:27](https://news.ycombinator.com/item?id=36875226) - [Google engineers want to make ad-blocking (near) impossible](https://stackdiary.com/web-environment-integrity/)
 * [2023-07-26, 09:52:53](https://news.ycombinator.com/item?id=36875164) - [Google vs. the Open Web](https://interpeer.io/blog/2023/07/google-vs-the-open-web/)
+* [2023-07-26, 08:57:33](https://news.ycombinator.com/item?id=36874821) - [Mind Grenade](https://www.fourmilab.ch/webtools/MindGrenade/)
 * [2023-07-26, 07:41:51](https://news.ycombinator.com/item?id=36874275) - [When the Music Industry Waged War on the Cassette Tape During the 1980s](https://www.openculture.com/2023/07/home-taping-is-killing-music-when-the-music-industry-waged-war-on-the-cassette-tape.html)
 * [2023-07-26, 07:23:49](https://news.ycombinator.com/item?id=36874149) - [Wall squats better at lowering blood pressure](https://www.bbc.co.uk/news/health-66303982)
 * [2023-07-26, 06:49:34](https://news.ycombinator.com/item?id=36873927) - [Systemctl –Force –Force Reboot](https://news.ycombinator.com/item?id=36873927)
