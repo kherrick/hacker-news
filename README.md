@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-26, 18:20:58](https://news.ycombinator.com/item?id=36882423) - [Irish singer Sinéad O'Connor dies aged 56](https://www.bbc.com/news/entertainment-arts-66318626)
+* [2023-07-26, 18:03:02](https://news.ycombinator.com/item?id=36882118) - [Why Proximity Makes Progressives](https://oxfordpoliticalreview.com/2021/06/28/the-politics-of-place-why-proximity-makes-progressives/)
 * [2023-07-26, 17:55:38](https://news.ycombinator.com/item?id=36881989) - [BasicBlocker: ISA Redesign to Make Spectre-Immune CPUs Faster](https://arxiv.org/abs/2007.15919)
 * [2023-07-26, 17:46:48](https://news.ycombinator.com/item?id=36881814) - [Sinead O’Connor has died](https://www.irishtimes.com/culture/music/2023/07/26/sinead-oconnor-acclaimed-dublin-singer-dies-aged-56/)
+* [2023-07-26, 17:43:14](https://news.ycombinator.com/item?id=36881733) - [Netflix offers $900k for AI product manager while actors strike for protection](https://www.theregister.com/2023/07/26/netflix_ai_manager/)
 * [2023-07-26, 17:27:08](https://news.ycombinator.com/item?id=36881425) - [Stability AI Announces Stable Diffusion XL 1.0](https://stability.ai/press-articles/stable-diffusion-xl-1-featured-amazon-aws-bedrock)
 * [2023-07-26, 17:10:44](https://news.ycombinator.com/item?id=36881153) - [UK version of “Online Harms Bill” wants to prefilter content without due process](https://easydns.com/blog/2023/07/26/uk-version-of-online-harms-bill-wants-to-prefilter-content-without-due-process/)
 * [2023-07-26, 17:00:25](https://news.ycombinator.com/item?id=36880961) - [Prequel (YC W21) – Customer Data Sharing to All Data Warehouses Is Hiring](https://www.ycombinator.com/companies/prequel/jobs/VNoKffl-senior-software-engineer)
@@ -10,7 +12,6 @@
 * [2023-07-26, 16:42:52](https://news.ycombinator.com/item?id=36880652) - [EXGBoost: Gradient Boosting in Elixir](https://dockyard.com/blog/2023/07/18/introducing-exgboost-gradient-boosting-in-elixir)
 * [2023-07-26, 16:41:49](https://news.ycombinator.com/item?id=36880639) - [Study shows glyphosate impairs learning in bumblebees](https://phys.org/news/2023-07-glyphosate-impairs-bumblebees.html)
 * [2023-07-26, 16:19:04](https://news.ycombinator.com/item?id=36880235) - [Rethinking Window Management in Gnome](https://blogs.gnome.org/tbernard/2023/07/26/rethinking-window-management/)
-* [2023-07-26, 16:13:39](https://news.ycombinator.com/item?id=36880149) - [Tuning and Testing Llama 2, Flan-T5, and GPT-J with LoRA, Sematic, and Gradio](https://www.sematic.dev/blog/tuning-and-testing-llama-2-flan-t5-and-gpt-j-with-lora-sematic-and-gradio)
 * [2023-07-26, 16:06:55](https://news.ycombinator.com/item?id=36880069) - [JEP 400: UTF-8 by Default](https://openjdk.org/jeps/400)
 * [2023-07-26, 16:03:05](https://news.ycombinator.com/item?id=36879991) - [Smart Contract Security Field Guide](https://scsfg.io/)
 * [2023-07-26, 15:53:11](https://news.ycombinator.com/item?id=36879808) - [Show HN: Experiment with Hugging Face models in a single notebook interface](https://lastmileai.dev/workbooks/clkjugr5g0036phc1ri5g517n)
@@ -27,7 +28,6 @@
 * [2023-07-26, 07:41:51](https://news.ycombinator.com/item?id=36874275) - [When the Music Industry Waged War on the Cassette Tape During the 1980s](https://www.openculture.com/2023/07/home-taping-is-killing-music-when-the-music-industry-waged-war-on-the-cassette-tape.html)
 * [2023-07-25, 22:43:10](https://news.ycombinator.com/item?id=36870734) - [The life, death, and afterlife of literary fiction](https://www.esquire.com/entertainment/books/a44496450/literary-fiction-death-digital-age/)
 * [2023-07-25, 11:06:28](https://news.ycombinator.com/item?id=36860570) - [How too much daydreaming affected me](https://sunghoyahng.substack.com/p/how-too-much-daydreaming-affected)
-* [2023-07-25, 07:14:38](https://news.ycombinator.com/item?id=36859018) - [Practical Comparison of ARM Compilers](https://m0agx.eu/practical-comparison-of-ARM-compilers.html)
 * [2023-07-25, 06:15:03](https://news.ycombinator.com/item?id=36858603) - [20 Years of Programming (2020)](https://flooey.org/twentyyearsofprogramming.html)
 * [2023-07-25, 00:37:19](https://news.ycombinator.com/item?id=36856215) - [Where did our belief in abundance come from?](https://www.discoursemagazine.com/abundance/2023/07/19/where-did-our-belief-in-abundance-come-from/)
 

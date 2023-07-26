@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
 * [2023-07-26, 18:20:58](https://news.ycombinator.com/item?id=36882423) - [Irish singer Sinéad O'Connor dies aged 56](https://www.bbc.com/news/entertainment-arts-66318626)
+* [2023-07-26, 18:03:02](https://news.ycombinator.com/item?id=36882118) - [Why Proximity Makes Progressives](https://oxfordpoliticalreview.com/2021/06/28/the-politics-of-place-why-proximity-makes-progressives/)
 * [2023-07-26, 17:55:38](https://news.ycombinator.com/item?id=36881989) - [BasicBlocker: ISA Redesign to Make Spectre-Immune CPUs Faster](https://arxiv.org/abs/2007.15919)
 * [2023-07-26, 17:53:31](https://news.ycombinator.com/item?id=36881948) - [Why I'm starting a hard core tech company in my 50s](https://iamnotarobot.substack.com/p/why-i-am-starting-a-hardcore-tech)
 * [2023-07-26, 17:46:48](https://news.ycombinator.com/item?id=36881814) - [Sinead O’Connor Has Died](https://www.irishtimes.com/culture/music/2023/07/26/sinead-oconnor-acclaimed-dublin-singer-dies-aged-56/)
+* [2023-07-26, 17:43:14](https://news.ycombinator.com/item?id=36881733) - [Netflix offers $900k for AI product manager while actors strike for protection](https://www.theregister.com/2023/07/26/netflix_ai_manager/)
 * [2023-07-26, 17:31:22](https://news.ycombinator.com/item?id=36881510) - [Why I am starting a hard core tech company in my 50s](https://iamnotarobot.substack.com/publish/post/135470888)
 * [2023-07-26, 17:27:08](https://news.ycombinator.com/item?id=36881425) - [Stability AI Announces Stable Diffusion XL 1.0](https://stability.ai/press-articles/stable-diffusion-xl-1-featured-amazon-aws-bedrock)
 * [2023-07-26, 17:10:44](https://news.ycombinator.com/item?id=36881153) - [UK version of “Online Harms Bill” wants to prefilter content without due process](https://easydns.com/blog/2023/07/26/uk-version-of-online-harms-bill-wants-to-prefilter-content-without-due-process/)
