@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=36877112"
     ],
     [
-      "What’s New in IntelliJ Idea 2023.2",
+      "IntelliJ IDEA 2023.2",
       "https://www.jetbrains.com/idea/whatsnew/"
     ]
   ],
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=36876783"
     ],
     [
-      "Mold 2.0.0",
+      "Mold 2.0",
       "https://github.com/rui314/mold/releases/tag/v2.0.0"
     ]
   ],
@@ -135,18 +135,8 @@
       "https://news.ycombinator.com/item?id=36871651"
     ],
     [
-      "Expo – open-source platform for making universal apps for Android, iOS, and web",
+      "Expo – Open-source platform for making universal apps for Android, iOS, and web",
       "https://github.com/expo/expo"
-    ]
-  ],
-  [
-    [
-      "2023-07-25, 20:31:12",
-      "https://news.ycombinator.com/item?id=36868940"
-    ],
-    [
-      "Treemaps are awesome",
-      "https://blog.phronemophobic.com/treemaps-are-awesome.html"
     ]
   ],
   [
@@ -201,12 +191,12 @@
   ],
   [
     [
-      "2023-07-25, 11:58:35",
-      "https://news.ycombinator.com/item?id=36861004"
+      "2023-07-25, 10:29:08",
+      "https://news.ycombinator.com/item?id=36860326"
     ],
     [
-      "Email in the 18th century: the optical telegraph (2007)",
-      "https://www.lowtechmagazine.com/2007/12/email-in-the-18.html"
+      "How much better was DEC Alpha than contemporaneous x86? (2020)",
+      "https://retrocomputing.stackexchange.com/questions/13611/how-much-better-was-dec-alpha-than-contemporaneous-x86"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Mark Watson's Lisp books",
       "https://github.com/mark-watson/free-older-books-and-software/tree/main/opencontent"
+    ]
+  ],
+  [
+    [
+      "2023-07-24, 05:35:46",
+      "https://news.ycombinator.com/item?id=36843484"
+    ],
+    [
+      "It doesn’t take much public creativity to stand out as a job candidate",
+      "https://simonwillison.net/2021/Jul/17/standing-out/"
     ]
   ]
 ]
