@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
+* [2023-07-26, 18:41:18](https://news.ycombinator.com/item?id=36882780) - [Reasons to be skeptical of that room-temperature superconductor claim](https://twitter.com/gravity_levity/status/1684029657857892354)
 * [2023-07-26, 18:20:58](https://news.ycombinator.com/item?id=36882423) - [Irish singer Sinéad O'Connor dies aged 56](https://www.bbc.com/news/entertainment-arts-66318626)
 * [2023-07-26, 18:03:02](https://news.ycombinator.com/item?id=36882118) - [Why Proximity Makes Progressives](https://oxfordpoliticalreview.com/2021/06/28/the-politics-of-place-why-proximity-makes-progressives/)
 * [2023-07-26, 17:55:38](https://news.ycombinator.com/item?id=36881989) - [BasicBlocker: ISA Redesign to Make Spectre-Immune CPUs Faster](https://arxiv.org/abs/2007.15919)
