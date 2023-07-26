@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
+* [2023-07-26, 10:43:12](https://news.ycombinator.com/item?id=36875481) - [NASA funds 11 moon projects to help mission to 'live off the land](https://www.washingtonpost.com/technology/2023/07/25/nasa-moon-artemis/)
 * [2023-07-26, 10:04:27](https://news.ycombinator.com/item?id=36875226) - [Google engineers want to make ad-blocking (near) impossible](https://stackdiary.com/web-environment-integrity/)
 * [2023-07-26, 07:41:51](https://news.ycombinator.com/item?id=36874275) - [When the Music Industry Waged War on the Cassette Tape During the 1980s](https://www.openculture.com/2023/07/home-taping-is-killing-music-when-the-music-industry-waged-war-on-the-cassette-tape.html)
 * [2023-07-26, 07:23:49](https://news.ycombinator.com/item?id=36874149) - [Wall squats better at lowering blood pressure](https://www.bbc.co.uk/news/health-66303982)
