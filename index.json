@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-26, 01:41:49",
+      "https://news.ycombinator.com/item?id=36872139"
+    ],
+    [
+      "Generation of MT magnetic fields by intense-laser-driven microtube implosions",
+      "https://arxiv.org/abs/2009.00828"
+    ]
+  ],
+  [
+    [
+      "2023-07-26, 00:58:00",
+      "https://news.ycombinator.com/item?id=36871821"
+    ],
+    [
+      "FTC readies lawsuit that could break up Amazon",
+      "https://www.politico.com/news/2023/07/25/ftc-lawsuit-break-up-amazon-00108130"
+    ]
+  ],
+  [
+    [
       "2023-07-26, 00:39:22",
       "https://news.ycombinator.com/item?id=36871673"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2023-07-25, 17:40:37",
-      "https://news.ycombinator.com/item?id=36866242"
-    ],
-    [
-      "Hyperlink maximalism (2022)",
-      "https://thesephist.com/posts/hyperlink/"
-    ]
-  ],
-  [
-    [
       "2023-07-25, 17:10:38",
       "https://news.ycombinator.com/item?id=36865682"
     ],
@@ -117,16 +127,6 @@
     [
       "Guide to running Llama 2 locally",
       "https://replicate.com/blog/run-llama-locally"
-    ]
-  ],
-  [
-    [
-      "2023-07-25, 16:35:47",
-      "https://news.ycombinator.com/item?id=36865060"
-    ],
-    [
-      "Social engineering campaign targeting tech employees spreads through NPM malware",
-      "https://socket.dev/blog/social-engineering-campaign-npm-malware"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2023-07-24, 08:39:11",
+      "https://news.ycombinator.com/item?id=36844673"
+    ],
+    [
+      "All of Mark Watson's Lisp Books",
+      "https://github.com/mark-watson/free-older-books-and-software/tree/main/opencontent"
+    ]
+  ],
+  [
+    [
       "2023-07-24, 08:26:01",
       "https://news.ycombinator.com/item?id=36844579"
     ],
@@ -287,16 +297,6 @@
     [
       "Guide to QucsStudio: Circuit Simulator with C++/Octave Support",
       "https://electroagenda.com/en/a-review-of-qucsstudio/"
-    ]
-  ],
-  [
-    [
-      "2023-07-24, 05:30:09",
-      "https://news.ycombinator.com/item?id=36843441"
-    ],
-    [
-      "Hallucinogenic plants in Chinese herbals",
-      "https://en.wikipedia.org/wiki/Hallucinogenic_plants_in_Chinese_herbals"
     ]
   ]
 ]
