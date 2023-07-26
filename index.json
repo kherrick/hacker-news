@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-07-26, 07:41:51",
-      "https://news.ycombinator.com/item?id=36874275"
-    ],
-    [
-      "When the Music Industry Waged War on the Cassette Tape During the 1980s",
-      "https://www.openculture.com/2023/07/home-taping-is-killing-music-when-the-music-industry-waged-war-on-the-cassette-tape.html"
-    ]
-  ],
-  [
-    [
       "2023-07-26, 07:23:49",
       "https://news.ycombinator.com/item?id=36874149"
     ],
@@ -297,6 +287,16 @@
     [
       "Mark Watson's Lisp books",
       "https://github.com/mark-watson/free-older-books-and-software/tree/main/opencontent"
+    ]
+  ],
+  [
+    [
+      "2023-07-24, 07:21:09",
+      "https://news.ycombinator.com/item?id=36844131"
+    ],
+    [
+      "Guide to QucsStudio: Circuit Simulator with C++/Octave Support",
+      "https://electroagenda.com/en/a-review-of-qucsstudio/"
     ]
   ]
 ]
