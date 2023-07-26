@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
+* [2023-07-26, 15:33:50](https://news.ycombinator.com/item?id=36879441) - [Live: UFO/UAP Congressional Hearings](https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates)
 * [2023-07-26, 15:17:21](https://news.ycombinator.com/item?id=36879141) - [Ask HN: Visiting SF on a Budget?](https://news.ycombinator.com/item?id=36879141)
 * [2023-07-26, 15:03:19](https://news.ycombinator.com/item?id=36878867) - [Quad9 Blocks Pirate Site Globally After Sony Demanded €10k Fine](https://torrentfreak.com/quad9-blocks-pirate-site-globally-after-sony-demanded-e10000-fine-230725/)
 * [2023-07-26, 14:56:45](https://news.ycombinator.com/item?id=36878749) - [As Actors Strike for AI Protections, Netflix Lists $900k AI Job](https://theintercept.com/2023/07/25/strike-hollywood-ai-disney-netflix/)
@@ -12,6 +13,7 @@
 * [2023-07-26, 13:56:26](https://news.ycombinator.com/item?id=36877774) - [House UFO hearing livestream [video]](https://www.youtube.com/watch?v=GkEnx2REz7U)
 * [2023-07-26, 13:27:11](https://news.ycombinator.com/item?id=36877311) - [Texas City Police Officer practices sunk cost fallacy and continues arrest](https://www.click2houston.com/news/local/2023/07/26/texas-city-police-officer-remains-under-investigation-as-new-video-shows-moments-before-viral-buc-ees-traffic-stop/)
 * [2023-07-26, 13:14:08](https://news.ycombinator.com/item?id=36877112) - [What’s New in IntelliJ Idea 2023.2](https://www.jetbrains.com/idea/whatsnew/)
+* [2023-07-26, 13:05:50](https://news.ycombinator.com/item?id=36877000) - [Rewind.ai Now Available for iPhone](https://apps.apple.com/us/app/rewind-truly-personalized-ai/id6449795815)
 * [2023-07-26, 12:48:57](https://news.ycombinator.com/item?id=36876783) - [Mold 2.0.0](https://github.com/rui314/mold/releases/tag/v2.0.0)
 * [2023-07-26, 12:16:50](https://news.ycombinator.com/item?id=36876396) - [Memory Copy Hunting](https://tigerbeetle.com/blog/2023-07-26-copy-hunting/)
 * [2023-07-26, 12:05:43](https://news.ycombinator.com/item?id=36876301) - [Google is already pushing WEI (web DRM) into Chromium](https://github.com/chromium/chromium/commit/6f47a22906b2899412e79a2727355efa9cc8f5bd)
