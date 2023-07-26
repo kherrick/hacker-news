@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-26, 04:34:15](https://news.ycombinator.com/item?id=36873131) - [Where do you discuss computer related stuff now?](https://lobste.rs/s/ih3cwj/where_do_you_discuss_computer_related)
 * [2023-07-26, 01:09:37](https://news.ycombinator.com/item?id=36871919) - [HBM’s Future: Necessary but Expensive](https://semiengineering.com/hbms-future-necessary-but-expensive/)
 * [2023-07-26, 00:39:22](https://news.ycombinator.com/item?id=36871673) - [Google abandons work to move Assistant smart speakers to Fuchsia](https://9to5google.com/2023/07/25/google-abandons-assistant-speakers-fuchsia/)
 * [2023-07-26, 00:35:57](https://news.ycombinator.com/item?id=36871651) - [Expo – open-source platform for making universal apps for Android, iOS, and web](https://github.com/expo/expo)
@@ -8,7 +9,6 @@
 * [2023-07-25, 20:33:39](https://news.ycombinator.com/item?id=36868978) - [A command-line murder mystery (2014)](https://github.com/veltman/clmystery)
 * [2023-07-25, 20:31:12](https://news.ycombinator.com/item?id=36868940) - [Treemaps are awesome](https://blog.phronemophobic.com/treemaps-are-awesome.html)
 * [2023-07-25, 18:13:51](https://news.ycombinator.com/item?id=36866861) - [PRQL: Pipelined Relational Query Language](https://github.com/PRQL/prql)
-* [2023-07-25, 17:40:37](https://news.ycombinator.com/item?id=36866242) - [Hyperlink maximalism (2022)](https://thesephist.com/posts/hyperlink/)
 * [2023-07-25, 17:10:38](https://news.ycombinator.com/item?id=36865682) - [Octox: Unix-like OS in Rust inspired by xv6-riscv](https://github.com/o8vm/octox)
 * [2023-07-25, 17:07:12](https://news.ycombinator.com/item?id=36865625) - [Launch HN: Roundtable (YC S23) – Using AI to Simulate Surveys](https://news.ycombinator.com/item?id=36865625)
 * [2023-07-25, 16:58:42](https://news.ycombinator.com/item?id=36865495) - [Guide to running Llama 2 locally](https://replicate.com/blog/run-llama-locally)
@@ -27,9 +27,9 @@
 * [2023-07-25, 02:19:47](https://news.ycombinator.com/item?id=36857069) - [Way ahead of its time: The Remote Lounge NYC](https://docpop.org/2013/10/way-ahead-of-its-time-the-remote-lounge-nyc/)
 * [2023-07-24, 17:04:53](https://news.ycombinator.com/item?id=36851107) - [The magnificence of the bluefin tuna](https://www.newyorker.com/science/elements/the-magnificence-of-the-bluefin-tuna)
 * [2023-07-24, 16:03:09](https://news.ycombinator.com/item?id=36850113) - [When did people stop being drunk all the time?](https://lefineder.substack.com/p/when-did-people-stop-being-drunk)
+* [2023-07-24, 15:03:11](https://news.ycombinator.com/item?id=36849147) - [Emotions: A Code Book](https://tidyfirst.substack.com/p/emotions-a-code-book)
 * [2023-07-24, 08:39:11](https://news.ycombinator.com/item?id=36844673) - [Mark Watson's Lisp books](https://github.com/mark-watson/free-older-books-and-software/tree/main/opencontent)
 * [2023-07-24, 08:26:01](https://news.ycombinator.com/item?id=36844579) - [Codex Gigas: the largest manuscript of the middle ages](https://historyofinformation.com/detail.php?entryid=2359)
-* [2023-07-24, 07:21:09](https://news.ycombinator.com/item?id=36844131) - [Guide to QucsStudio: Circuit Simulator with C++/Octave Support](https://electroagenda.com/en/a-review-of-qucsstudio/)
 
 ## [Archives](archives/index.md)
 
