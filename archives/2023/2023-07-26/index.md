@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
+* [2023-07-26, 12:05:43](https://news.ycombinator.com/item?id=36876301) - [Google is already pushing WEI (web DRM) into Chromium](https://github.com/chromium/chromium/commit/6f47a22906b2899412e79a2727355efa9cc8f5bd)
 * [2023-07-26, 12:00:27](https://news.ycombinator.com/item?id=36876256) - [Lago (YC S21) – Open-Source Stripe Billing and Chargebee Alternative Is Hiring](https://www.ycombinator.com/companies/lago/jobs)
 * [2023-07-26, 11:37:45](https://news.ycombinator.com/item?id=36876012) - [Show HN: Django Admin Site Customization Tutorial](https://appliku.com/post/customize-django-admin-interface)
+* [2023-07-26, 11:23:04](https://news.ycombinator.com/item?id=36875862) - [Unesco calls for global ban on smartphones in schools](https://www.theguardian.com/world/2023/jul/26/put-learners-first-unesco-calls-for-global-ban-on-smartphones-in-schools)
 * [2023-07-26, 11:19:07](https://news.ycombinator.com/item?id=36875816) - [How MOS 6502 Illegal Opcodes work](https://www.pagetable.com/?p=39)
+* [2023-07-26, 10:47:02](https://news.ycombinator.com/item?id=36875513) - [1Sub.dev – A world where people pay for software](https://1sub.dev/)
 * [2023-07-26, 10:43:12](https://news.ycombinator.com/item?id=36875481) - [NASA funds 11 moon projects to help mission to 'live off the land](https://www.washingtonpost.com/technology/2023/07/25/nasa-moon-artemis/)
 * [2023-07-26, 10:04:27](https://news.ycombinator.com/item?id=36875226) - [Google engineers want to make ad-blocking (near) impossible](https://stackdiary.com/web-environment-integrity/)
+* [2023-07-26, 09:52:53](https://news.ycombinator.com/item?id=36875164) - [Google vs. the Open Web](https://interpeer.io/blog/2023/07/google-vs-the-open-web/)
 * [2023-07-26, 07:41:51](https://news.ycombinator.com/item?id=36874275) - [When the Music Industry Waged War on the Cassette Tape During the 1980s](https://www.openculture.com/2023/07/home-taping-is-killing-music-when-the-music-industry-waged-war-on-the-cassette-tape.html)
 * [2023-07-26, 07:23:49](https://news.ycombinator.com/item?id=36874149) - [Wall squats better at lowering blood pressure](https://www.bbc.co.uk/news/health-66303982)
 * [2023-07-26, 06:49:34](https://news.ycombinator.com/item?id=36873927) - [Systemctl –Force –Force Reboot](https://news.ycombinator.com/item?id=36873927)
