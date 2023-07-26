@@ -87,6 +87,7 @@
 * [2023-07-24, 09:57:12](https://news.ycombinator.com/item?id=36845308) - [Ask HN: IBM Model M Keyboard Alternative?](https://news.ycombinator.com/item?id=36845308)
 * [2023-07-24, 09:34:23](https://news.ycombinator.com/item?id=36845111) - [Twitter has officially changed its logo to ‘X’](https://techcrunch.com/2023/07/24/twitter-has-officially-changed-its-logo-to-x/)
 * [2023-07-24, 08:53:19](https://news.ycombinator.com/item?id=36844793) - [Sam Altman’s Worldcoin Crypto Project Officially Launches](https://www.bloomberg.com/news/articles/2023-07-24/sam-altman-s-worldcoin-crypto-project-officially-launches)
+* [2023-07-24, 08:39:11](https://news.ycombinator.com/item?id=36844673) - [All of Mark Watson's Lisp Books](https://github.com/mark-watson/free-older-books-and-software/tree/main/opencontent)
 * [2023-07-24, 08:26:01](https://news.ycombinator.com/item?id=36844579) - [Codex Gigas: the largest manuscript of the middle ages](https://historyofinformation.com/detail.php?entryid=2359)
 * [2023-07-24, 08:00:33](https://news.ycombinator.com/item?id=36844415) - [Ask HN: Looking for a Firefox compatible extension for voice controlled actions](https://news.ycombinator.com/item?id=36844415)
 * [2023-07-24, 07:21:09](https://news.ycombinator.com/item?id=36844131) - [Guide to QucsStudio: Circuit Simulator with C++/Octave Support](https://electroagenda.com/en/a-review-of-qucsstudio/)
