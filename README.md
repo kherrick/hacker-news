@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-26, 22:41:03](https://news.ycombinator.com/item?id=36886165) - [Meta to Charge Cloud Providers for AI Tech That It Said Was Free](https://www.bloomberg.com/news/articles/2023-07-26/meta-to-charge-cloud-providers-for-ai-tech-that-it-said-was-free)
 * [2023-07-26, 21:49:53](https://news.ycombinator.com/item?id=36885598) - [How “It works in my machine” turns to “It works in my container”](https://dwdraju.medium.com/how-it-works-in-my-machine-turns-it-works-in-my-container-1b9a340ca43d)
 * [2023-07-26, 21:31:58](https://news.ycombinator.com/item?id=36885368) - [Bit-Stealing Made Legal](https://inria.hal.science/hal-04165615/document)
 * [2023-07-26, 21:07:07](https://news.ycombinator.com/item?id=36885040) - [Kids Online Safety Act is still a danger to our rights online](https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online)
@@ -28,6 +27,7 @@
 * [2023-07-26, 10:47:02](https://news.ycombinator.com/item?id=36875513) - [A world where people pay for software](https://1sub.dev/)
 * [2023-07-26, 08:57:33](https://news.ycombinator.com/item?id=36874821) - [Mind Grenade](https://www.fourmilab.ch/webtools/MindGrenade/)
 * [2023-07-26, 05:38:50](https://news.ycombinator.com/item?id=36873516) - [People over-emphasize the recycling aspect of \"reduce, reuse, recycle\"](https://futurism.com/the-byte/scientists-recycling-backfired)
+* [2023-07-26, 00:10:43](https://news.ycombinator.com/item?id=36871459) - [New low-mass quiescent galaxy discovered](https://phys.org/news/2023-07-low-mass-quiescent-galaxy.html)
 * [2023-07-26, 00:09:20](https://news.ycombinator.com/item?id=36871446) - [Scientists discover new isopod species in the Florida Keys](https://phys.org/news/2023-07-scientists-isopod-species-florida-keys.html)
 * [2023-07-25, 11:06:28](https://news.ycombinator.com/item?id=36860570) - [How too much daydreaming affected me](https://sunghoyahng.substack.com/p/how-too-much-daydreaming-affected)
 
