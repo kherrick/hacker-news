@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
+* [2023-07-26, 16:19:56](https://news.ycombinator.com/item?id=36880248) - [The Young Women Who Were Tricked into Creating the Atomic Bomb](https://www.rollingstone.com/tv-movies/tv-movie-features/oppenheimer-manhattan-project-world-war-ii-women-oak-ridge-atomic-bomb-1234788186/)
+* [2023-07-26, 16:13:39](https://news.ycombinator.com/item?id=36880149) - [Tuning and Testing Llama 2, Flan-T5, and GPT-J with LoRA, Sematic, and Gradio](https://www.sematic.dev/blog/tuning-and-testing-llama-2-flan-t5-and-gpt-j-with-lora-sematic-and-gradio)
+* [2023-07-26, 16:03:05](https://news.ycombinator.com/item?id=36879991) - [Smart Contract Security Field Guide](https://scsfg.io/)
+* [2023-07-26, 15:34:43](https://news.ycombinator.com/item?id=36879461) - [Overture Maps Foundation Releases Its First World-Wide Open Map Dataset](https://overturemaps.org/overture-maps-foundation-releases-first-world-wide-open-map-dataset/)
 * [2023-07-26, 15:33:50](https://news.ycombinator.com/item?id=36879441) - [Live: UFO/UAP Congressional Hearings](https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates)
 * [2023-07-26, 15:17:21](https://news.ycombinator.com/item?id=36879141) - [Ask HN: Visiting SF on a Budget?](https://news.ycombinator.com/item?id=36879141)
 * [2023-07-26, 15:03:19](https://news.ycombinator.com/item?id=36878867) - [Quad9 Blocks Pirate Site Globally After Sony Demanded €10k Fine](https://torrentfreak.com/quad9-blocks-pirate-site-globally-after-sony-demanded-e10000-fine-230725/)

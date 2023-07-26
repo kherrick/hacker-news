@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
 * [2023-07-25, 23:21:36](https://news.ycombinator.com/item?id=36871093) - [Man spoofs threatening texts from ex-gf, gets her jailed multiple times (2020)](https://www.justice.gov/usao-md/pr/pasadena-man-pleads-guilty-federal-charges-cyberstalking-and-causing-intentional-damage)
+* [2023-07-25, 22:43:10](https://news.ycombinator.com/item?id=36870734) - [The Life, Death–and Afterlife–Of Literary Fiction](https://www.esquire.com/entertainment/books/a44496450/literary-fiction-death-digital-age/)
 * [2023-07-25, 22:40:58](https://news.ycombinator.com/item?id=36870702) - [Seattle in Progress](https://www.seattleinprogress.com/)
 * [2023-07-25, 21:56:00](https://news.ycombinator.com/item?id=36870140) - [Whom the Gods Would Destroy, They First Give Real-Time Analytics](https://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics)
 * [2023-07-25, 21:18:45](https://news.ycombinator.com/item?id=36869747) - [Stone Knives and Bear Skins – There is no money in tools](https://queue.acm.org/detail.cfm?id=3606027)
