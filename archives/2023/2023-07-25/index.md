@@ -50,6 +50,7 @@
 * [2023-07-25, 14:34:37](https://news.ycombinator.com/item?id=36862855) - [The burden of Long Covid “so large as to be unfathomable”](https://www.rnz.co.nz/national/programmes/saturday/audio/2018899512/prof-danny-altmann-the-burden-of-long-covid)
 * [2023-07-25, 14:34:17](https://news.ycombinator.com/item?id=36862850) - [OpenAI Quietly Shuts Down Its AI Detection Tool](https://decrypt.co/149826/openai-quietly-shutters-its-ai-detection-tool)
 * [2023-07-25, 14:21:50](https://news.ycombinator.com/item?id=36862658) - [Why did it take psychedelics so long to become popular?](https://resobscura.substack.com/p/why-did-it-take-psychedelics-so-long)
+* [2023-07-25, 14:20:04](https://news.ycombinator.com/item?id=36862637) - [Travelling Tales: Kalīlah Wa-Dimnah and the Animal Fable](https://publicdomainreview.org/essay/travelling-tales/)
 * [2023-07-25, 14:16:34](https://news.ycombinator.com/item?id=36862585) - [Ask HN: What is the best thing you learnt or got out of Hacker News?](https://news.ycombinator.com/item?id=36862585)
 * [2023-07-25, 14:16:15](https://news.ycombinator.com/item?id=36862579) - [Sugary drinks tax could prevent decay and increase health equity: study](https://www.monash.edu/news/articles/sugary-drinks-tax-could-prevent-decay-and-increase-health-equity-study)
 * [2023-07-25, 14:14:25](https://news.ycombinator.com/item?id=36862546) - [Arc 1.0 – a freeware web browser developed by The Browser Company](https://arc.net/)
