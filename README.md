@@ -26,9 +26,9 @@
 * [2023-07-26, 02:41:55](https://news.ycombinator.com/item?id=36872514) - [Which GPU(s) to Get for Deep Learning](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/)
 * [2023-07-25, 22:43:10](https://news.ycombinator.com/item?id=36870734) - [The life, death, and afterlife of literary fiction](https://www.esquire.com/entertainment/books/a44496450/literary-fiction-death-digital-age/)
 * [2023-07-25, 11:06:28](https://news.ycombinator.com/item?id=36860570) - [How too much daydreaming affected me](https://sunghoyahng.substack.com/p/how-too-much-daydreaming-affected)
-* [2023-07-25, 10:29:08](https://news.ycombinator.com/item?id=36860326) - [How much better was DEC Alpha than contemporaneous x86? (2020)](https://retrocomputing.stackexchange.com/questions/13611/how-much-better-was-dec-alpha-than-contemporaneous-x86)
 * [2023-07-25, 07:14:38](https://news.ycombinator.com/item?id=36859018) - [Practical Comparison of ARM Compilers](https://m0agx.eu/practical-comparison-of-ARM-compilers.html)
 * [2023-07-25, 06:15:03](https://news.ycombinator.com/item?id=36858603) - [20 Years of Programming (2020)](https://flooey.org/twentyyearsofprogramming.html)
+* [2023-07-25, 03:00:26](https://news.ycombinator.com/item?id=36857314) - [Got called to a professor’s office after a complaint his SPARC4 was running slow](https://infosec.exchange/@paco/110772422266480371)
 * [2023-07-25, 00:37:19](https://news.ycombinator.com/item?id=36856215) - [Where did our belief in abundance come from?](https://www.discoursemagazine.com/abundance/2023/07/19/where-did-our-belief-in-abundance-come-from/)
 
 ## [Archives](archives/index.md)
