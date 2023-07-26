@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
+* [2023-07-26, 18:20:58](https://news.ycombinator.com/item?id=36882423) - [Irish singer Sinéad O'Connor dies aged 56](https://www.bbc.com/news/entertainment-arts-66318626)
+* [2023-07-26, 17:55:38](https://news.ycombinator.com/item?id=36881989) - [BasicBlocker: ISA Redesign to Make Spectre-Immune CPUs Faster](https://arxiv.org/abs/2007.15919)
 * [2023-07-26, 17:53:31](https://news.ycombinator.com/item?id=36881948) - [Why I'm starting a hard core tech company in my 50s](https://iamnotarobot.substack.com/p/why-i-am-starting-a-hardcore-tech)
 * [2023-07-26, 17:46:48](https://news.ycombinator.com/item?id=36881814) - [Sinead O’Connor Has Died](https://www.irishtimes.com/culture/music/2023/07/26/sinead-oconnor-acclaimed-dublin-singer-dies-aged-56/)
 * [2023-07-26, 17:31:22](https://news.ycombinator.com/item?id=36881510) - [Why I am starting a hard core tech company in my 50s](https://iamnotarobot.substack.com/publish/post/135470888)
@@ -19,6 +21,7 @@
 * [2023-07-26, 16:19:56](https://news.ycombinator.com/item?id=36880248) - [The Young Women Who Were Tricked into Creating the Atomic Bomb](https://www.rollingstone.com/tv-movies/tv-movie-features/oppenheimer-manhattan-project-world-war-ii-women-oak-ridge-atomic-bomb-1234788186/)
 * [2023-07-26, 16:19:04](https://news.ycombinator.com/item?id=36880235) - [Rethinking Window Management in Gnome](https://blogs.gnome.org/tbernard/2023/07/26/rethinking-window-management/)
 * [2023-07-26, 16:13:39](https://news.ycombinator.com/item?id=36880149) - [Tuning and Testing Llama 2, Flan-T5, and GPT-J with LoRA, Sematic, and Gradio](https://www.sematic.dev/blog/tuning-and-testing-llama-2-flan-t5-and-gpt-j-with-lora-sematic-and-gradio)
+* [2023-07-26, 16:06:55](https://news.ycombinator.com/item?id=36880069) - [JEP 400: UTF-8 by Default](https://openjdk.org/jeps/400)
 * [2023-07-26, 16:03:05](https://news.ycombinator.com/item?id=36879991) - [Smart Contract Security Field Guide](https://scsfg.io/)
 * [2023-07-26, 15:53:11](https://news.ycombinator.com/item?id=36879808) - [Show HN: Experiment with Hugging Face models in a single notebook interface](https://lastmileai.dev/workbooks/clkjugr5g0036phc1ri5g517n)
 * [2023-07-26, 15:52:18](https://news.ycombinator.com/item?id=36879794) - [Dear Aliens](http://fuckthatshit.co.za/dear-aliens/)
