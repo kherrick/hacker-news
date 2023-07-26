@@ -88,4 +88,5 @@
 * [2023-07-25, 01:01:56](https://news.ycombinator.com/item?id=36856433) - [Twitter’s Rebrand to X Could Be a Trademark Nightmare Thanks to Microsoft](https://themessenger.com/tech/twitters-rebrand-to-x-could-be-a-trademark-nightmare-thanks-to-microsoft)
 * [2023-07-25, 01:01:39](https://news.ycombinator.com/item?id=36856428) - [The Mad Magazine Fold-In Effect in CSS – Thomas Park](https://thomaspark.co/2020/06/the-mad-magazine-fold-in-effect-in-css/)
 * [2023-07-25, 01:00:03](https://news.ycombinator.com/item?id=36856416) - [Per capita CO₂ emissions Over Time](https://ourworldindata.org/grapher/co-emissions-per-capita)
+* [2023-07-25, 00:37:19](https://news.ycombinator.com/item?id=36856215) - [Where Did Our Belief in Abundance Come From?](https://www.discoursemagazine.com/abundance/2023/07/19/where-did-our-belief-in-abundance-come-from/)
 * [2023-07-25, 00:26:47](https://news.ycombinator.com/item?id=36856121) - [Record Linkage and the Universal Identifier (1972)](https://dl.acm.org/doi/10.1145/958609.958610)
