@@ -12,7 +12,7 @@
 * [2023-07-25, 20:33:39](https://news.ycombinator.com/item?id=36868978) - [A command-line murder mystery (2014)](https://github.com/veltman/clmystery)
 * [2023-07-25, 20:31:12](https://news.ycombinator.com/item?id=36868940) - [Treemaps are awesome](https://blog.phronemophobic.com/treemaps-are-awesome.html)
 * [2023-07-25, 18:13:51](https://news.ycombinator.com/item?id=36866861) - [PRQL: Pipelined Relational Query Language](https://github.com/PRQL/prql)
-* [2023-07-25, 17:40:37](https://news.ycombinator.com/item?id=36866242) - [Hyperlink maximalism (2022)](https://thesephist.com/posts/hyperlink/)
+* [2023-07-25, 17:10:38](https://news.ycombinator.com/item?id=36865682) - [Octox: Unix-like OS in Rust inspired by xv6-riscv](https://github.com/o8vm/octox)
 * [2023-07-25, 17:07:12](https://news.ycombinator.com/item?id=36865625) - [Launch HN: Roundtable (YC S23) – Using AI to Simulate Surveys](https://news.ycombinator.com/item?id=36865625)
 * [2023-07-25, 16:58:42](https://news.ycombinator.com/item?id=36865495) - [Guide to running Llama 2 locally](https://replicate.com/blog/run-llama-locally)
 * [2023-07-25, 16:14:32](https://news.ycombinator.com/item?id=36864624) - [The first room-temperature ambient-pressure superconductor?](https://arxiv.org/abs/2307.12008)
