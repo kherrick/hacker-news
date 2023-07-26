@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
+* [2023-07-26, 20:12:06](https://news.ycombinator.com/item?id=36884230) - [Meta Reports Second Quarter 2023 Results [pdf]](https://s21.q4cdn.com/399680738/files/doc_financials/2023/q2/Meta-06-30-2023-Exhibit-99-1-FINAL.pdf)
 * [2023-07-26, 20:05:49](https://news.ycombinator.com/item?id=36884118) - [Study suggests isometric exercises best for reducing blood pressure](https://bjsm.bmj.com/content/early/2023/07/02/bjsports-2022-106503)
 * [2023-07-26, 19:39:14](https://news.ycombinator.com/item?id=36883677) - [Staying ahead of the AMD vulnerability known as “Zenbleed”](https://blog.cloudflare.com/zenbleed-vulnerability/)
 * [2023-07-26, 19:29:40](https://news.ycombinator.com/item?id=36883545) - [Fired Tesla Employee Posts New Video of Full Self-Driving Running Red Light](https://jalopnik.com/fired-tesla-employee-posts-video-fsd-running-red-light-1850678098)
@@ -82,3 +83,4 @@
 * [2023-07-26, 00:35:57](https://news.ycombinator.com/item?id=36871651) - [Expo – open-source platform for making universal apps for Android, iOS, and web](https://github.com/expo/expo)
 * [2023-07-26, 00:14:12](https://news.ycombinator.com/item?id=36871484) - [A proposal to build a sub-Saharan Africa electrical grid across 12 countries](https://techxplore.com/news/2023-07-sub-saharan-africa-electrical-grid-countries.html)
 * [2023-07-26, 00:10:43](https://news.ycombinator.com/item?id=36871459) - [New low-mass quiescent galaxy discovered](https://phys.org/news/2023-07-low-mass-quiescent-galaxy.html)
+* [2023-07-26, 00:09:20](https://news.ycombinator.com/item?id=36871446) - [Scientists discover new isopod species in the Florida Keys](https://phys.org/news/2023-07-scientists-isopod-species-florida-keys.html)
