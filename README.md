@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-26, 06:04:14](https://news.ycombinator.com/item?id=36873646) - [Japan’s population drops by nearly 800k](https://www.theguardian.com/world/2023/jul/26/japan-population-how-many-people-drops-first-time-births-deaths)
 * [2023-07-26, 04:34:15](https://news.ycombinator.com/item?id=36873131) - [Where do you discuss computer related stuff now?](https://lobste.rs/s/ih3cwj/where_do_you_discuss_computer_related)
 * [2023-07-26, 01:09:37](https://news.ycombinator.com/item?id=36871919) - [HBM’s Future: Necessary but Expensive](https://semiengineering.com/hbms-future-necessary-but-expensive/)
 * [2023-07-26, 00:39:22](https://news.ycombinator.com/item?id=36871673) - [Google abandons work to move Assistant smart speakers to Fuchsia](https://9to5google.com/2023/07/25/google-abandons-assistant-speakers-fuchsia/)
@@ -16,7 +17,6 @@
 * [2023-07-25, 15:43:56](https://news.ycombinator.com/item?id=36864021) - [Show HN: Marsha – An LLM-Based Programming Language](https://github.com/alantech/marsha)
 * [2023-07-25, 15:38:41](https://news.ycombinator.com/item?id=36863915) - [The Messaging Layer Security (MLS) Protocol](https://datatracker.ietf.org/doc/html/rfc9420)
 * [2023-07-25, 15:13:57](https://news.ycombinator.com/item?id=36863522) - [ONNX runtime: Cross-platform accelerated machine learning](https://onnxruntime.ai/)
-* [2023-07-25, 14:34:17](https://news.ycombinator.com/item?id=36862850) - [OpenAI shuts down its AI Classifier due to poor accuracy](https://decrypt.co/149826/openai-quietly-shutters-its-ai-detection-tool)
 * [2023-07-25, 11:58:35](https://news.ycombinator.com/item?id=36861004) - [Email in the 18th century: the optical telegraph (2007)](https://www.lowtechmagazine.com/2007/12/email-in-the-18.html)
 * [2023-07-25, 11:45:06](https://news.ycombinator.com/item?id=36860898) - [Show HN: Invoice Dragon – An open source app to create PDF invoices](https://invoicedragon.com/)
 * [2023-07-25, 10:53:19](https://news.ycombinator.com/item?id=36860488) - [The Internet Free Zone (1997)](https://arachnoid.com/freezone/)
