@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-07-26, 02:04:37",
+      "https://news.ycombinator.com/item?id=36872284"
+    ],
+    [
+      "Big Tech's Takeover and Destruction of Open Protocols and Networks",
+      "https://cheapskatesguide.org/articles/big-tech-takeovers.html"
+    ]
+  ],
+  [
+    [
       "2023-07-26, 01:41:49",
       "https://news.ycombinator.com/item?id=36872139"
     ],
     [
       "Generation of MT magnetic fields by intense-laser-driven microtube implosions",
       "https://arxiv.org/abs/2009.00828"
+    ]
+  ],
+  [
+    [
+      "2023-07-26, 01:09:37",
+      "https://news.ycombinator.com/item?id=36871919"
+    ],
+    [
+      "HBM’s Future: Necessary but Expensive",
+      "https://semiengineering.com/hbms-future-necessary-but-expensive/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "PRQL: Pipelined Relational Query Language",
       "https://github.com/PRQL/prql"
-    ]
-  ],
-  [
-    [
-      "2023-07-25, 17:40:37",
-      "https://news.ycombinator.com/item?id=36866242"
-    ],
-    [
-      "Hyperlink maximalism (2022)",
-      "https://thesephist.com/posts/hyperlink/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Codex Gigas: the largest manuscript of the middle ages",
       "https://historyofinformation.com/detail.php?entryid=2359"
-    ]
-  ],
-  [
-    [
-      "2023-07-24, 07:21:09",
-      "https://news.ycombinator.com/item?id=36844131"
-    ],
-    [
-      "Guide to QucsStudio: Circuit Simulator with C++/Octave Support",
-      "https://electroagenda.com/en/a-review-of-qucsstudio/"
     ]
   ]
 ]
