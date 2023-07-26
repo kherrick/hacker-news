@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-07-26, 00:39:22",
-      "https://news.ycombinator.com/item?id=36871673"
-    ],
-    [
-      "Google abandons work to move Assistant smart speakers to Fuchsia",
-      "https://9to5google.com/2023/07/25/google-abandons-assistant-speakers-fuchsia/"
-    ]
-  ],
-  [
-    [
       "2023-07-26, 00:35:57",
       "https://news.ycombinator.com/item?id=36871651"
     ],
@@ -111,6 +101,16 @@
   ],
   [
     [
+      "2023-07-25, 17:40:37",
+      "https://news.ycombinator.com/item?id=36866242"
+    ],
+    [
+      "Hyperlink maximalism (2022)",
+      "https://thesephist.com/posts/hyperlink/"
+    ]
+  ],
+  [
+    [
       "2023-07-25, 17:10:38",
       "https://news.ycombinator.com/item?id=36865682"
     ],
@@ -137,6 +137,16 @@
     [
       "Guide to running Llama 2 locally",
       "https://replicate.com/blog/run-llama-locally"
+    ]
+  ],
+  [
+    [
+      "2023-07-25, 16:35:47",
+      "https://news.ycombinator.com/item?id=36865060"
+    ],
+    [
+      "Social engineering campaign targeting tech employees spreads through NPM malware",
+      "https://socket.dev/blog/social-engineering-campaign-npm-malware"
     ]
   ],
   [
@@ -261,26 +271,6 @@
   ],
   [
     [
-      "2023-07-24, 16:03:09",
-      "https://news.ycombinator.com/item?id=36850113"
-    ],
-    [
-      "When did people stop being drunk all the time?",
-      "https://lefineder.substack.com/p/when-did-people-stop-being-drunk"
-    ]
-  ],
-  [
-    [
-      "2023-07-24, 15:03:11",
-      "https://news.ycombinator.com/item?id=36849147"
-    ],
-    [
-      "Emotions: A Code Book",
-      "https://tidyfirst.substack.com/p/emotions-a-code-book"
-    ]
-  ],
-  [
-    [
       "2023-07-24, 08:39:11",
       "https://news.ycombinator.com/item?id=36844673"
     ],
@@ -297,6 +287,16 @@
     [
       "Codex Gigas: the largest manuscript of the middle ages",
       "https://historyofinformation.com/detail.php?entryid=2359"
+    ]
+  ],
+  [
+    [
+      "2023-07-24, 07:21:09",
+      "https://news.ycombinator.com/item?id=36844131"
+    ],
+    [
+      "Guide to QucsStudio: Circuit Simulator with C++/Octave Support",
+      "https://electroagenda.com/en/a-review-of-qucsstudio/"
     ]
   ]
 ]
