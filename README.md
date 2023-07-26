@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-26, 21:07:07](https://news.ycombinator.com/item?id=36885040) - [Kids Online Safety Act Is Still a Danger to Our Rights Online](https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online)
 * [2023-07-26, 21:00:25](https://news.ycombinator.com/item?id=36884950) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-07-26, 20:49:57](https://news.ycombinator.com/item?id=36884806) - [WordPress Core to start using SQLite](https://make.wordpress.org/core/2023/04/19/status-update-on-the-sqlite-project/)
 * [2023-07-26, 19:38:25](https://news.ycombinator.com/item?id=36883668) - [A copywriter swindled victims out of $200M by pretending to be a psychic](https://thewalrus.ca/the-greatest-scam-ever-written/)
@@ -15,7 +16,6 @@
 * [2023-07-26, 16:19:04](https://news.ycombinator.com/item?id=36880235) - [Rethinking Window Management](https://blogs.gnome.org/tbernard/2023/07/26/rethinking-window-management/)
 * [2023-07-26, 16:06:55](https://news.ycombinator.com/item?id=36880069) - [JEP 400: UTF-8 by Default](https://openjdk.org/jeps/400)
 * [2023-07-26, 16:03:05](https://news.ycombinator.com/item?id=36879991) - [Smart Contract Security Field Guide](https://scsfg.io/)
-* [2023-07-26, 15:50:56](https://news.ycombinator.com/item?id=36879769) - [Boeing has now lost $1.1B on Starliner, with no crew flight in sight](https://arstechnica.com/space/2023/07/boeing-has-now-lost-1-1-billion-on-starliner-with-no-crew-flight-in-sight/)
 * [2023-07-26, 15:34:43](https://news.ycombinator.com/item?id=36879461) - [Overture Maps Foundation releases open map dataset](https://overturemaps.org/overture-maps-foundation-releases-first-world-wide-open-map-dataset/)
 * [2023-07-26, 15:01:26](https://news.ycombinator.com/item?id=36878836) - [Mexico's heirloom corn strains are resurging amid more demand](https://www.nbcnews.com/news/latino/heirloom-corn-organic-mexico-resurging-industrial-white-corn-rcna96412)
 * [2023-07-26, 12:48:57](https://news.ycombinator.com/item?id=36876783) - [Mold 2.0](https://github.com/rui314/mold/releases/tag/v2.0.0)

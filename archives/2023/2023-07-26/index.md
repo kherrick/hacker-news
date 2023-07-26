@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
 * [2023-07-26, 21:31:05](https://news.ycombinator.com/item?id=36885360) - [Fed raises rates 25 bps](https://www.federalreserve.gov/newsevents/pressreleases/monetary20230726a.htm)
+* [2023-07-26, 21:07:07](https://news.ycombinator.com/item?id=36885040) - [Kids Online Safety Act Is Still a Danger to Our Rights Online](https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online)
 * [2023-07-26, 21:00:25](https://news.ycombinator.com/item?id=36884950) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-07-26, 20:49:57](https://news.ycombinator.com/item?id=36884806) - [WordPress Core to start using SQLite](https://make.wordpress.org/core/2023/04/19/status-update-on-the-sqlite-project/)
 * [2023-07-26, 20:49:57](https://news.ycombinator.com/item?id=36884806) - [WordPress Core to start using SQLite Database](https://blogiestools.com/wordpress-sqlite-database/)
