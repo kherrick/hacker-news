@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
 * [2023-07-26, 17:00:25](https://news.ycombinator.com/item?id=36880961) - [Prequel (YC W21) – Customer Data Sharing to All Data Warehouses Is Hiring](https://www.ycombinator.com/companies/prequel/jobs/VNoKffl-senior-software-engineer)
+* [2023-07-26, 16:59:05](https://news.ycombinator.com/item?id=36880936) - [1Password: Privacy-preserving usage data: Under the hood](https://blog.1password.com/privacy-telemetry-deep-dive/)
 * [2023-07-26, 16:48:42](https://news.ycombinator.com/item?id=36880756) - [Stability AI releases its latest image-generating model, Stable Diffusion XL 1.0](https://techcrunch.com/2023/07/26/stability-ai-releases-its-latest-image-generating-model-stable-diffusion-xl-1-0/)
 * [2023-07-26, 16:43:52](https://news.ycombinator.com/item?id=36880664) - [S&P500 Normalized with M2](https://twitter.com/Tsartoshi/status/1680128816788779008)
 * [2023-07-26, 16:42:52](https://news.ycombinator.com/item?id=36880652) - [EXGBoost: Gradient Boosting in Elixir](https://dockyard.com/blog/2023/07/18/introducing-exgboost-gradient-boosting-in-elixir)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-26, 17:00:25](https://news.ycombinator.com/item?id=36880961) - [Prequel (YC W21) – Customer Data Sharing to All Data Warehouses Is Hiring](https://www.ycombinator.com/companies/prequel/jobs/VNoKffl-senior-software-engineer)
+* [2023-07-26, 16:59:05](https://news.ycombinator.com/item?id=36880936) - [1Password: Privacy-preserving usage data: Under the hood](https://blog.1password.com/privacy-telemetry-deep-dive/)
 * [2023-07-26, 16:48:42](https://news.ycombinator.com/item?id=36880756) - [Stability AI releases its latest image-generating model, Stable Diffusion XL 1.0](https://techcrunch.com/2023/07/26/stability-ai-releases-its-latest-image-generating-model-stable-diffusion-xl-1-0/)
 * [2023-07-26, 16:42:52](https://news.ycombinator.com/item?id=36880652) - [EXGBoost: Gradient Boosting in Elixir](https://dockyard.com/blog/2023/07/18/introducing-exgboost-gradient-boosting-in-elixir)
 * [2023-07-26, 16:41:49](https://news.ycombinator.com/item?id=36880639) - [Study shows glyphosate impairs learning in bumblebees](https://phys.org/news/2023-07-glyphosate-impairs-bumblebees.html)
@@ -21,7 +22,6 @@
 * [2023-07-26, 12:05:43](https://news.ycombinator.com/item?id=36876301) - [Google is already pushing WEI into Chromium](https://github.com/chromium/chromium/commit/6f47a22906b2899412e79a2727355efa9cc8f5bd)
 * [2023-07-26, 11:19:07](https://news.ycombinator.com/item?id=36875816) - [How MOS 6502 Illegal Opcodes work](https://www.pagetable.com/?p=39)
 * [2023-07-26, 10:47:02](https://news.ycombinator.com/item?id=36875513) - [A world where people pay for software](https://1sub.dev/)
-* [2023-07-26, 09:52:53](https://news.ycombinator.com/item?id=36875164) - [Google vs. the Open Web](https://interpeer.io/blog/2023/07/google-vs-the-open-web/)
 * [2023-07-26, 07:41:51](https://news.ycombinator.com/item?id=36874275) - [When the Music Industry Waged War on the Cassette Tape During the 1980s](https://www.openculture.com/2023/07/home-taping-is-killing-music-when-the-music-industry-waged-war-on-the-cassette-tape.html)
 * [2023-07-26, 02:41:55](https://news.ycombinator.com/item?id=36872514) - [Which GPU(s) to Get for Deep Learning](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/)
 * [2023-07-25, 22:43:10](https://news.ycombinator.com/item?id=36870734) - [The life, death, and afterlife of literary fiction](https://www.esquire.com/entertainment/books/a44496450/literary-fiction-death-digital-age/)
