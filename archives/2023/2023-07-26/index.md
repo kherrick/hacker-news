@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
+* [2023-07-26, 13:27:11](https://news.ycombinator.com/item?id=36877311) - [Texas City Police Officer practices sunk cost fallacy and continues arrest](https://www.click2houston.com/news/local/2023/07/26/texas-city-police-officer-remains-under-investigation-as-new-video-shows-moments-before-viral-buc-ees-traffic-stop/)
+* [2023-07-26, 12:48:57](https://news.ycombinator.com/item?id=36876783) - [Mold 2.0.0](https://github.com/rui314/mold/releases/tag/v2.0.0)
 * [2023-07-26, 12:16:50](https://news.ycombinator.com/item?id=36876396) - [Memory Copy Hunting](https://tigerbeetle.com/blog/2023-07-26-copy-hunting/)
 * [2023-07-26, 12:05:43](https://news.ycombinator.com/item?id=36876301) - [Google is already pushing WEI (web DRM) into Chromium](https://github.com/chromium/chromium/commit/6f47a22906b2899412e79a2727355efa9cc8f5bd)
 * [2023-07-26, 12:00:27](https://news.ycombinator.com/item?id=36876256) - [Lago (YC S21) – Open-Source Stripe Billing and Chargebee Alternative Is Hiring](https://www.ycombinator.com/companies/lago/jobs)

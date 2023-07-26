@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-26, 13:27:11](https://news.ycombinator.com/item?id=36877311) - [Texas City Police Officer practices sunk cost fallacy and continues arrest](https://www.click2houston.com/news/local/2023/07/26/texas-city-police-officer-remains-under-investigation-as-new-video-shows-moments-before-viral-buc-ees-traffic-stop/)
+* [2023-07-26, 12:48:57](https://news.ycombinator.com/item?id=36876783) - [Mold 2.0.0](https://github.com/rui314/mold/releases/tag/v2.0.0)
 * [2023-07-26, 12:16:50](https://news.ycombinator.com/item?id=36876396) - [Memory Copy Hunting](https://tigerbeetle.com/blog/2023-07-26-copy-hunting/)
 * [2023-07-26, 12:05:43](https://news.ycombinator.com/item?id=36876301) - [Google is already pushing WEI into Chromium](https://github.com/chromium/chromium/commit/6f47a22906b2899412e79a2727355efa9cc8f5bd)
 * [2023-07-26, 12:00:27](https://news.ycombinator.com/item?id=36876256) - [Lago (YC S21) – Open-Source Stripe Billing and Chargebee Alternative Is Hiring](https://www.ycombinator.com/companies/lago/jobs)
@@ -17,10 +19,8 @@
 * [2023-07-25, 17:48:02](https://news.ycombinator.com/item?id=36866382) - [The Prophecies of AARON (2022)](https://outland.art/harold-cohen-aaron/)
 * [2023-07-25, 17:07:12](https://news.ycombinator.com/item?id=36865625) - [Launch HN: Roundtable (YC S23) – Using AI to Simulate Surveys](https://news.ycombinator.com/item?id=36865625)
 * [2023-07-25, 16:58:42](https://news.ycombinator.com/item?id=36865495) - [Guide to running Llama 2 locally](https://replicate.com/blog/run-llama-locally)
-* [2023-07-25, 16:14:32](https://news.ycombinator.com/item?id=36864624) - [The first room-temperature ambient-pressure superconductor?](https://arxiv.org/abs/2307.12008)
 * [2023-07-25, 14:20:04](https://news.ycombinator.com/item?id=36862637) - [Travelling Tales: Kalīlah Wa-Dimnah and the Animal Fable](https://publicdomainreview.org/essay/travelling-tales/)
 * [2023-07-25, 11:58:35](https://news.ycombinator.com/item?id=36861004) - [Email in the 18th century: the optical telegraph (2007)](https://www.lowtechmagazine.com/2007/12/email-in-the-18.html)
-* [2023-07-25, 10:53:19](https://news.ycombinator.com/item?id=36860488) - [The Internet Free Zone (1997)](https://arachnoid.com/freezone/)
 * [2023-07-25, 09:40:13](https://news.ycombinator.com/item?id=36859997) - [Larry Gagosian reshaped the art world](https://www.newyorker.com/magazine/2023/07/31/larry-gagosian-profile)
 * [2023-07-25, 09:33:16](https://news.ycombinator.com/item?id=36859956) - [Before the Internet, there was The Fontana Dictionary of Modern Thought](https://everything.intellectronica.net/p/the-fontana)
 * [2023-07-25, 07:14:38](https://news.ycombinator.com/item?id=36859018) - [Practical Comparison of ARM Compilers](https://m0agx.eu/practical-comparison-of-ARM-compilers.html)
