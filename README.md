@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-26, 05:38:50](https://news.ycombinator.com/item?id=36873516) - [Scientists Say Recycling Has Backfired Spectacularly](https://futurism.com/the-byte/scientists-recycling-backfired)
 * [2023-07-26, 01:09:37](https://news.ycombinator.com/item?id=36871919) - [HBM’s Future: Necessary but Expensive](https://semiengineering.com/hbms-future-necessary-but-expensive/)
 * [2023-07-26, 00:39:22](https://news.ycombinator.com/item?id=36871673) - [Google abandons work to move Assistant smart speakers to Fuchsia](https://9to5google.com/2023/07/25/google-abandons-assistant-speakers-fuchsia/)
 * [2023-07-26, 00:35:57](https://news.ycombinator.com/item?id=36871651) - [Expo – open-source platform for making universal apps for Android, iOS, and web](https://github.com/expo/expo)
@@ -16,7 +17,6 @@
 * [2023-07-25, 16:14:32](https://news.ycombinator.com/item?id=36864624) - [The first room-temperature ambient-pressure superconductor?](https://arxiv.org/abs/2307.12008)
 * [2023-07-25, 15:43:56](https://news.ycombinator.com/item?id=36864021) - [Show HN: Marsha – An LLM-Based Programming Language](https://github.com/alantech/marsha)
 * [2023-07-25, 15:38:41](https://news.ycombinator.com/item?id=36863915) - [The Messaging Layer Security (MLS) Protocol](https://datatracker.ietf.org/doc/html/rfc9420)
-* [2023-07-25, 15:13:57](https://news.ycombinator.com/item?id=36863522) - [ONNX runtime: Cross-platform accelerated machine learning](https://onnxruntime.ai/)
 * [2023-07-25, 11:58:35](https://news.ycombinator.com/item?id=36861004) - [Email in the 18th century: the optical telegraph (2007)](https://www.lowtechmagazine.com/2007/12/email-in-the-18.html)
 * [2023-07-25, 11:45:06](https://news.ycombinator.com/item?id=36860898) - [Show HN: Invoice Dragon – An open source app to create PDF invoices](https://invoicedragon.com/)
 * [2023-07-25, 10:53:19](https://news.ycombinator.com/item?id=36860488) - [The Internet Free Zone (1997)](https://arachnoid.com/freezone/)
