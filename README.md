@@ -28,7 +28,7 @@
 * [2023-07-24, 16:03:09](https://news.ycombinator.com/item?id=36850113) - [When did people stop being drunk all the time?](https://lefineder.substack.com/p/when-did-people-stop-being-drunk)
 * [2023-07-24, 15:03:11](https://news.ycombinator.com/item?id=36849147) - [Emotions: A Code Book](https://tidyfirst.substack.com/p/emotions-a-code-book)
 * [2023-07-24, 08:39:11](https://news.ycombinator.com/item?id=36844673) - [Mark Watson's Lisp books](https://github.com/mark-watson/free-older-books-and-software/tree/main/opencontent)
-* [2023-07-24, 08:26:01](https://news.ycombinator.com/item?id=36844579) - [Codex Gigas: the largest manuscript of the middle ages](https://historyofinformation.com/detail.php?entryid=2359)
+* [2023-07-24, 07:21:09](https://news.ycombinator.com/item?id=36844131) - [Guide to QucsStudio: Circuit Simulator with C++/Octave Support](https://electroagenda.com/en/a-review-of-qucsstudio/)
 * [2023-07-24, 05:35:46](https://news.ycombinator.com/item?id=36843484) - [It doesn’t take much public creativity to stand out as a job candidate](https://simonwillison.net/2021/Jul/17/standing-out/)
 
 ## [Archives](archives/index.md)
