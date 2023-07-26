@@ -11,22 +11,22 @@
   ],
   [
     [
-      "2023-07-26, 05:38:50",
-      "https://news.ycombinator.com/item?id=36873516"
-    ],
-    [
-      "Scientists Say Recycling Has Backfired Spectacularly",
-      "https://futurism.com/the-byte/scientists-recycling-backfired"
-    ]
-  ],
-  [
-    [
       "2023-07-26, 03:54:07",
       "https://news.ycombinator.com/item?id=36872876"
     ],
     [
       "Netlify accounts are being suspended with no recourse",
       "https://answers.netlify.com/t/my-netlify-account-ha-been-suspended-i-dont-know-why/97537"
+    ]
+  ],
+  [
+    [
+      "2023-07-26, 02:41:55",
+      "https://news.ycombinator.com/item?id=36872514"
+    ],
+    [
+      "Which GPU(s) to Get for Deep Learning",
+      "https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/"
     ]
   ],
   [
@@ -117,6 +117,16 @@
     [
       "Hyperlink maximalism (2022)",
       "https://thesephist.com/posts/hyperlink/"
+    ]
+  ],
+  [
+    [
+      "2023-07-25, 17:10:38",
+      "https://news.ycombinator.com/item?id=36865682"
+    ],
+    [
+      "Octox: Unix-like OS in Rust inspired by xv6-riscv",
+      "https://github.com/o8vm/octox"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Mark Watson's Lisp books",
       "https://github.com/mark-watson/free-older-books-and-software/tree/main/opencontent"
-    ]
-  ],
-  [
-    [
-      "2023-07-24, 07:21:09",
-      "https://news.ycombinator.com/item?id=36844131"
-    ],
-    [
-      "Guide to QucsStudio: Circuit Simulator with C++/Octave Support",
-      "https://electroagenda.com/en/a-review-of-qucsstudio/"
     ]
   ],
   [
