@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
+* [2023-07-26, 19:06:48](https://news.ycombinator.com/item?id=36883198) - [US conducted ‘multi-decade’ secret UFO program, ex-intelligence official says](https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch)
 * [2023-07-26, 18:41:18](https://news.ycombinator.com/item?id=36882780) - [Reasons to be skeptical of that room-temperature superconductor claim](https://twitter.com/gravity_levity/status/1684029657857892354)
 * [2023-07-26, 18:40:59](https://news.ycombinator.com/item?id=36882767) - [How to build toxic software teams](https://badsoftwareadvice.substack.com/p/how-to-build-toxic-software-teams)
 * [2023-07-26, 18:20:58](https://news.ycombinator.com/item?id=36882423) - [Irish singer Sinéad O'Connor dies aged 56](https://www.bbc.com/news/entertainment-arts-66318626)
@@ -11,6 +12,7 @@
 * [2023-07-26, 17:55:38](https://news.ycombinator.com/item?id=36881989) - [BasicBlocker: ISA Redesign to Make Spectre-Immune CPUs Faster](https://arxiv.org/abs/2007.15919)
 * [2023-07-26, 17:53:31](https://news.ycombinator.com/item?id=36881948) - [Why I'm starting a hard core tech company in my 50s](https://iamnotarobot.substack.com/p/why-i-am-starting-a-hardcore-tech)
 * [2023-07-26, 17:46:48](https://news.ycombinator.com/item?id=36881814) - [Sinead O’Connor Has Died](https://www.irishtimes.com/culture/music/2023/07/26/sinead-oconnor-acclaimed-dublin-singer-dies-aged-56/)
+* [2023-07-26, 17:46:30](https://news.ycombinator.com/item?id=36881808) - [Breaking Superconductor News](https://www.science.org/content/blog-post/breaking-superconductor-news)
 * [2023-07-26, 17:43:14](https://news.ycombinator.com/item?id=36881733) - [Netflix offers $900k for AI product manager while actors strike for protection](https://www.theregister.com/2023/07/26/netflix_ai_manager/)
 * [2023-07-26, 17:31:22](https://news.ycombinator.com/item?id=36881510) - [Why I am starting a hard core tech company in my 50s](https://iamnotarobot.substack.com/publish/post/135470888)
 * [2023-07-26, 17:27:08](https://news.ycombinator.com/item?id=36881425) - [Stability AI Announces Stable Diffusion XL 1.0](https://stability.ai/press-articles/stable-diffusion-xl-1-featured-amazon-aws-bedrock)
@@ -22,6 +24,7 @@
 * [2023-07-26, 16:42:52](https://news.ycombinator.com/item?id=36880652) - [EXGBoost: Gradient Boosting in Elixir](https://dockyard.com/blog/2023/07/18/introducing-exgboost-gradient-boosting-in-elixir)
 * [2023-07-26, 16:41:49](https://news.ycombinator.com/item?id=36880639) - [Study shows glyphosate impairs learning in bumblebees](https://phys.org/news/2023-07-glyphosate-impairs-bumblebees.html)
 * [2023-07-26, 16:31:35](https://news.ycombinator.com/item?id=36880454) - [Public US hearing on UFOs [video]](https://www.youtube.com/watch?v=KQ7Dw-739VY)
+* [2023-07-26, 16:27:06](https://news.ycombinator.com/item?id=36880371) - [Scope of work: Template, examples, and best practices](https://blog.logrocket.com/scope-of-work-template-examples-best-practices/)
 * [2023-07-26, 16:19:56](https://news.ycombinator.com/item?id=36880248) - [The Young Women Who Were Tricked into Creating the Atomic Bomb](https://www.rollingstone.com/tv-movies/tv-movie-features/oppenheimer-manhattan-project-world-war-ii-women-oak-ridge-atomic-bomb-1234788186/)
 * [2023-07-26, 16:19:04](https://news.ycombinator.com/item?id=36880235) - [Rethinking Window Management in Gnome](https://blogs.gnome.org/tbernard/2023/07/26/rethinking-window-management/)
 * [2023-07-26, 16:13:39](https://news.ycombinator.com/item?id=36880149) - [Tuning and Testing Llama 2, Flan-T5, and GPT-J with LoRA, Sematic, and Gradio](https://www.sematic.dev/blog/tuning-and-testing-llama-2-flan-t5-and-gpt-j-with-lora-sematic-and-gradio)
@@ -73,3 +76,4 @@
 * [2023-07-26, 00:39:22](https://news.ycombinator.com/item?id=36871673) - [Google abandons work to move Assistant smart speakers to Fuchsia](https://9to5google.com/2023/07/25/google-abandons-assistant-speakers-fuchsia/)
 * [2023-07-26, 00:35:57](https://news.ycombinator.com/item?id=36871651) - [Expo – open-source platform for making universal apps for Android, iOS, and web](https://github.com/expo/expo)
 * [2023-07-26, 00:14:12](https://news.ycombinator.com/item?id=36871484) - [A proposal to build a sub-Saharan Africa electrical grid across 12 countries](https://techxplore.com/news/2023-07-sub-saharan-africa-electrical-grid-countries.html)
+* [2023-07-26, 00:10:43](https://news.ycombinator.com/item?id=36871459) - [New low-mass quiescent galaxy discovered](https://phys.org/news/2023-07-low-mass-quiescent-galaxy.html)
