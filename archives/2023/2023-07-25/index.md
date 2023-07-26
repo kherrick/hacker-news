@@ -72,6 +72,7 @@
 * [2023-07-25, 06:38:57](https://news.ycombinator.com/item?id=36858774) - [The 'eval' pattern for interpreting simple languages](https://utcc.utoronto.ca/~cks/space/blog/programming/SimpleLanguageEvalPattern)
 * [2023-07-25, 06:21:55](https://news.ycombinator.com/item?id=36858642) - [YouTube is banning links to filmmusic (free music provider), appeal doesn't work](https://news.ycombinator.com/item?id=36858642)
 * [2023-07-25, 06:19:49](https://news.ycombinator.com/item?id=36858633) - [Robo-Taxis are rolling, did you notice?](https://cmte.ieee.org/futuredirections/2023/07/25/robo-taxi-are-rolling-did-you-notice/)
+* [2023-07-25, 06:15:03](https://news.ycombinator.com/item?id=36858603) - [20 Years of Programming](https://flooey.org/twentyyearsofprogramming.html)
 * [2023-07-25, 04:57:45](https://news.ycombinator.com/item?id=36858076) - [Digikey's Physical Connectors Tutorial](https://www.digikey.com/en/articles/connector-tutorial)
 * [2023-07-25, 04:32:45](https://news.ycombinator.com/item?id=36857925) - [ChatGPT Hacks](https://www.insecure.in/blog/chatgpt-hacks)
 * [2023-07-25, 04:29:35](https://news.ycombinator.com/item?id=36857909) - [Job applicants are battling AI résumé filters with ‘white fonting’](https://www.washingtonpost.com/technology/2023/07/24/white-font-resume-tip-keywords/)

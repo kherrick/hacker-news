@@ -22,6 +22,7 @@
 * [2023-07-25, 09:33:16](https://news.ycombinator.com/item?id=36859956) - [Before the Internet, there was The Fontana Dictionary of Modern Thought](https://everything.intellectronica.net/p/the-fontana)
 * [2023-07-25, 07:14:38](https://news.ycombinator.com/item?id=36859018) - [Practical Comparison of ARM Compilers](https://m0agx.eu/practical-comparison-of-ARM-compilers.html)
 * [2023-07-25, 06:38:57](https://news.ycombinator.com/item?id=36858774) - [The 'eval' pattern for interpreting simple languages](https://utcc.utoronto.ca/~cks/space/blog/programming/SimpleLanguageEvalPattern)
+* [2023-07-25, 06:15:03](https://news.ycombinator.com/item?id=36858603) - [20 Years of Programming](https://flooey.org/twentyyearsofprogramming.html)
 * [2023-07-25, 04:57:45](https://news.ycombinator.com/item?id=36858076) - [Digikey's Physical Connectors Tutorial](https://www.digikey.com/en/articles/connector-tutorial)
 * [2023-07-25, 03:00:26](https://news.ycombinator.com/item?id=36857314) - [Got called to a professor’s office after a complaint his SPARC4 was running slow](https://infosec.exchange/@paco/110772422266480371)
 * [2023-07-25, 02:19:47](https://news.ycombinator.com/item?id=36857069) - [Way ahead of its time: The Remote Lounge NYC](https://docpop.org/2013/10/way-ahead-of-its-time-the-remote-lounge-nyc/)
@@ -29,7 +30,6 @@
 * [2023-07-24, 17:04:53](https://news.ycombinator.com/item?id=36851107) - [The magnificence of the bluefin tuna](https://www.newyorker.com/science/elements/the-magnificence-of-the-bluefin-tuna)
 * [2023-07-24, 16:03:09](https://news.ycombinator.com/item?id=36850113) - [When did people stop being drunk all the time?](https://lefineder.substack.com/p/when-did-people-stop-being-drunk)
 * [2023-07-24, 08:39:11](https://news.ycombinator.com/item?id=36844673) - [Mark Watson's Lisp books](https://github.com/mark-watson/free-older-books-and-software/tree/main/opencontent)
-* [2023-07-24, 05:35:46](https://news.ycombinator.com/item?id=36843484) - [It doesn’t take much public creativity to stand out as a job candidate](https://simonwillison.net/2021/Jul/17/standing-out/)
 
 ## [Archives](archives/index.md)
 
