@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
+* [2023-07-26, 17:46:48](https://news.ycombinator.com/item?id=36881814) - [Sinead O’Connor Has Died](https://www.irishtimes.com/culture/music/2023/07/26/sinead-oconnor-acclaimed-dublin-singer-dies-aged-56/)
 * [2023-07-26, 17:31:22](https://news.ycombinator.com/item?id=36881510) - [Why I am starting a hard core tech company in my 50s](https://iamnotarobot.substack.com/publish/post/135470888)
+* [2023-07-26, 17:10:44](https://news.ycombinator.com/item?id=36881153) - [UK version of “Online Harms Bill” wants to prefilter content without due process](https://easydns.com/blog/2023/07/26/uk-version-of-online-harms-bill-wants-to-prefilter-content-without-due-process/)
 * [2023-07-26, 17:00:25](https://news.ycombinator.com/item?id=36880961) - [Prequel (YC W21) – Customer Data Sharing to All Data Warehouses Is Hiring](https://www.ycombinator.com/companies/prequel/jobs/VNoKffl-senior-software-engineer)
 * [2023-07-26, 16:59:05](https://news.ycombinator.com/item?id=36880936) - [1Password: Privacy-preserving usage data: Under the hood](https://blog.1password.com/privacy-telemetry-deep-dive/)
 * [2023-07-26, 16:48:42](https://news.ycombinator.com/item?id=36880756) - [Stability AI releases its latest image-generating model, Stable Diffusion XL 1.0](https://techcrunch.com/2023/07/26/stability-ai-releases-its-latest-image-generating-model-stable-diffusion-xl-1-0/)
@@ -39,6 +41,7 @@
 * [2023-07-26, 12:05:43](https://news.ycombinator.com/item?id=36876301) - [Google is already pushing WEI (web DRM) into Chromium](https://github.com/chromium/chromium/commit/6f47a22906b2899412e79a2727355efa9cc8f5bd)
 * [2023-07-26, 12:00:27](https://news.ycombinator.com/item?id=36876256) - [Lago (YC S21) – Open-Source Stripe Billing and Chargebee Alternative Is Hiring](https://www.ycombinator.com/companies/lago/jobs)
 * [2023-07-26, 11:37:45](https://news.ycombinator.com/item?id=36876012) - [Show HN: Django Admin Site Customization Tutorial](https://appliku.com/post/customize-django-admin-interface)
+* [2023-07-26, 11:30:18](https://news.ycombinator.com/item?id=36875940) - [Unpacking Google’s new “dangerous” Web Environment Integrity specification](https://vivaldi.com/blog/googles-new-dangerous-web-environment-integrity-spec/)
 * [2023-07-26, 11:23:04](https://news.ycombinator.com/item?id=36875862) - [Unesco calls for global ban on smartphones in schools](https://www.theguardian.com/world/2023/jul/26/put-learners-first-unesco-calls-for-global-ban-on-smartphones-in-schools)
 * [2023-07-26, 11:19:07](https://news.ycombinator.com/item?id=36875816) - [How MOS 6502 Illegal Opcodes work](https://www.pagetable.com/?p=39)
 * [2023-07-26, 10:47:02](https://news.ycombinator.com/item?id=36875513) - [1Sub.dev – A world where people pay for software](https://1sub.dev/)
