@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
+* [2023-07-26, 17:00:25](https://news.ycombinator.com/item?id=36880961) - [Prequel (YC W21) – Customer Data Sharing to All Data Warehouses Is Hiring](https://www.ycombinator.com/companies/prequel/jobs/VNoKffl-senior-software-engineer)
 * [2023-07-26, 16:48:42](https://news.ycombinator.com/item?id=36880756) - [Stability AI releases its latest image-generating model, Stable Diffusion XL 1.0](https://techcrunch.com/2023/07/26/stability-ai-releases-its-latest-image-generating-model-stable-diffusion-xl-1-0/)
 * [2023-07-26, 16:43:52](https://news.ycombinator.com/item?id=36880664) - [S&P500 Normalized with M2](https://twitter.com/Tsartoshi/status/1680128816788779008)
+* [2023-07-26, 16:42:52](https://news.ycombinator.com/item?id=36880652) - [EXGBoost: Gradient Boosting in Elixir](https://dockyard.com/blog/2023/07/18/introducing-exgboost-gradient-boosting-in-elixir)
+* [2023-07-26, 16:41:49](https://news.ycombinator.com/item?id=36880639) - [Study shows glyphosate impairs learning in bumblebees](https://phys.org/news/2023-07-glyphosate-impairs-bumblebees.html)
+* [2023-07-26, 16:31:35](https://news.ycombinator.com/item?id=36880454) - [Public US hearing on UFOs [video]](https://www.youtube.com/watch?v=KQ7Dw-739VY)
 * [2023-07-26, 16:19:56](https://news.ycombinator.com/item?id=36880248) - [The Young Women Who Were Tricked into Creating the Atomic Bomb](https://www.rollingstone.com/tv-movies/tv-movie-features/oppenheimer-manhattan-project-world-war-ii-women-oak-ridge-atomic-bomb-1234788186/)
 * [2023-07-26, 16:19:04](https://news.ycombinator.com/item?id=36880235) - [Rethinking Window Management in Gnome](https://blogs.gnome.org/tbernard/2023/07/26/rethinking-window-management/)
 * [2023-07-26, 16:13:39](https://news.ycombinator.com/item?id=36880149) - [Tuning and Testing Llama 2, Flan-T5, and GPT-J with LoRA, Sematic, and Gradio](https://www.sematic.dev/blog/tuning-and-testing-llama-2-flan-t5-and-gpt-j-with-lora-sematic-and-gradio)
