@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-26, 11:19:07](https://news.ycombinator.com/item?id=36875816) - [How MOS 6502 Illegal Opcodes work](https://www.pagetable.com/?p=39)
 * [2023-07-26, 10:43:12](https://news.ycombinator.com/item?id=36875481) - [NASA funds 11 moon projects to help mission to 'live off the land](https://www.washingtonpost.com/technology/2023/07/25/nasa-moon-artemis/)
 * [2023-07-26, 10:04:27](https://news.ycombinator.com/item?id=36875226) - [Google engineers want to make ad-blocking (near) impossible](https://stackdiary.com/web-environment-integrity/)
 * [2023-07-26, 03:54:07](https://news.ycombinator.com/item?id=36872876) - [Netlify accounts are being suspended with no recourse](https://answers.netlify.com/t/my-netlify-account-ha-been-suspended-i-dont-know-why/97537)
@@ -8,7 +9,6 @@
 * [2023-07-26, 00:39:22](https://news.ycombinator.com/item?id=36871673) - [Google abandons work to move Assistant smart speakers to Fuchsia](https://9to5google.com/2023/07/25/google-abandons-assistant-speakers-fuchsia/)
 * [2023-07-26, 00:35:57](https://news.ycombinator.com/item?id=36871651) - [Expo – open-source platform for making universal apps for Android, iOS, and web](https://github.com/expo/expo)
 * [2023-07-25, 21:02:32](https://news.ycombinator.com/item?id=36869486) - [The Mathematica Journal is no longer accepting submissions](https://www.mathematica-journal.com/)
-* [2023-07-25, 21:00:54](https://news.ycombinator.com/item?id=36869457) - [Tesorio (YC S15) Is Hiring a Head of Marketing – join our 100% remote startup](https://jobs.lever.co/tesorio/10de016f-be07-4707-ac5c-7029f0398a17)
 * [2023-07-25, 20:33:39](https://news.ycombinator.com/item?id=36868978) - [A command-line murder mystery (2014)](https://github.com/veltman/clmystery)
 * [2023-07-25, 20:31:12](https://news.ycombinator.com/item?id=36868940) - [Treemaps are awesome](https://blog.phronemophobic.com/treemaps-are-awesome.html)
 * [2023-07-25, 18:13:51](https://news.ycombinator.com/item?id=36866861) - [PRQL: Pipelined Relational Query Language](https://github.com/PRQL/prql)
