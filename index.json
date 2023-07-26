@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-07-26, 17:53:31",
-      "https://news.ycombinator.com/item?id=36881948"
-    ],
-    [
-      "Why I'm starting a hard core tech company in my 50s",
-      "https://iamnotarobot.substack.com/p/why-i-am-starting-a-hardcore-tech"
-    ]
-  ],
-  [
-    [
       "2023-07-26, 17:46:48",
       "https://news.ycombinator.com/item?id=36881814"
     ],
@@ -51,6 +41,16 @@
   ],
   [
     [
+      "2023-07-26, 16:59:05",
+      "https://news.ycombinator.com/item?id=36880936"
+    ],
+    [
+      "1Password: Privacy-preserving usage data: Under the hood",
+      "https://blog.1password.com/privacy-telemetry-deep-dive/"
+    ]
+  ],
+  [
+    [
       "2023-07-26, 16:48:42",
       "https://news.ycombinator.com/item?id=36880756"
     ],
@@ -87,16 +87,6 @@
     [
       "Rethinking Window Management in Gnome",
       "https://blogs.gnome.org/tbernard/2023/07/26/rethinking-window-management/"
-    ]
-  ],
-  [
-    [
-      "2023-07-26, 16:13:39",
-      "https://news.ycombinator.com/item?id=36880149"
-    ],
-    [
-      "Tuning and Testing Llama 2, Flan-T5, and GPT-J with LoRA, Sematic, and Gradio",
-      "https://www.sematic.dev/blog/tuning-and-testing-llama-2-flan-t5-and-gpt-j-with-lora-sematic-and-gradio"
     ]
   ],
   [
@@ -215,7 +205,7 @@
       "https://news.ycombinator.com/item?id=36875940"
     ],
     [
-      "Unpacking Google’s new “dangerous” Web Environment Integrity specification",
+      "Unpacking Google’s Web Environment Integrity specification",
       "https://vivaldi.com/blog/googles-new-dangerous-web-environment-integrity-spec/"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "20 Years of Programming (2020)",
       "https://flooey.org/twentyyearsofprogramming.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-25, 03:00:26",
+      "https://news.ycombinator.com/item?id=36857314"
+    ],
+    [
+      "Got called to a professor’s office after a complaint his SPARC4 was running slow",
+      "https://infosec.exchange/@paco/110772422266480371"
     ]
   ],
   [
