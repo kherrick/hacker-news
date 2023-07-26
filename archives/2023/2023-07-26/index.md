@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
 * [2023-07-26, 21:00:25](https://news.ycombinator.com/item?id=36884950) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2023-07-26, 20:49:57](https://news.ycombinator.com/item?id=36884806) - [WordPress Core to start using SQLite Database](https://blogiestools.com/wordpress-sqlite-database/)
 * [2023-07-26, 20:21:46](https://news.ycombinator.com/item?id=36884380) - [Meta Q2 2023 revenue is up 11% YOY](https://twitter.com/stonksnews/status/1684295301551517697)
 * [2023-07-26, 20:12:06](https://news.ycombinator.com/item?id=36884230) - [Meta Reports Second Quarter 2023 Results [pdf]](https://s21.q4cdn.com/399680738/files/doc_financials/2023/q2/Meta-06-30-2023-Exhibit-99-1-FINAL.pdf)
 * [2023-07-26, 20:05:49](https://news.ycombinator.com/item?id=36884118) - [Study suggests isometric exercises best for reducing blood pressure](https://bjsm.bmj.com/content/early/2023/07/02/bjsports-2022-106503)
@@ -17,6 +18,7 @@
 * [2023-07-26, 18:40:59](https://news.ycombinator.com/item?id=36882767) - [How to build toxic software teams](https://badsoftwareadvice.substack.com/p/how-to-build-toxic-software-teams)
 * [2023-07-26, 18:23:19](https://news.ycombinator.com/item?id=36882467) - [Apple's infamously strict on App Store rules but gives WeChat a free pass (2020)](https://reclaimthenet.org/apple-app-store-wechat-china)
 * [2023-07-26, 18:20:58](https://news.ycombinator.com/item?id=36882423) - [Irish singer Sinéad O'Connor dies aged 56](https://www.bbc.com/news/entertainment-arts-66318626)
+* [2023-07-26, 18:04:29](https://news.ycombinator.com/item?id=36882146) - [Show HN: Continue – Open-source coding autopilot](https://github.com/continuedev/continue)
 * [2023-07-26, 18:03:02](https://news.ycombinator.com/item?id=36882118) - [Why Proximity Makes Progressives](https://oxfordpoliticalreview.com/2021/06/28/the-politics-of-place-why-proximity-makes-progressives/)
 * [2023-07-26, 17:55:38](https://news.ycombinator.com/item?id=36881989) - [BasicBlocker: ISA Redesign to Make Spectre-Immune CPUs Faster](https://arxiv.org/abs/2007.15919)
 * [2023-07-26, 17:53:31](https://news.ycombinator.com/item?id=36881948) - [Why I'm starting a hard core tech company in my 50s](https://iamnotarobot.substack.com/p/why-i-am-starting-a-hardcore-tech)
