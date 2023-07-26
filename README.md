@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-26, 22:52:52](https://news.ycombinator.com/item?id=36886259) - [Whistleblower tells Congress US is concealing 'multi-decade' UFO capture program](https://www.washingtonpost.com/politics/2023/07/26/ufos-uaps-congress-whistleblower-spy-aliens/01081d9a-2bce-11ee-a948-a5b8a9b62d84_story.html)
 * [2023-07-26, 22:01:34](https://news.ycombinator.com/item?id=36885754) - [A beautiful, broken America: what I learned on a 2,800-mile bus ride](https://www.theguardian.com/travel/2023/jul/26/america-roadtrip-greyhound-bus)
 * [2023-07-26, 21:49:53](https://news.ycombinator.com/item?id=36885598) - [How “It works in my machine” turns to “It works in my container”](https://dwdraju.medium.com/how-it-works-in-my-machine-turns-it-works-in-my-container-1b9a340ca43d)
-* [2023-07-26, 21:31:58](https://news.ycombinator.com/item?id=36885368) - [Bit-Stealing Made Legal](https://inria.hal.science/hal-04165615/document)
 * [2023-07-26, 21:07:07](https://news.ycombinator.com/item?id=36885040) - [Kids Online Safety Act is still a danger to our rights online](https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online)
 * [2023-07-26, 21:00:25](https://news.ycombinator.com/item?id=36884950) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-07-26, 20:49:57](https://news.ycombinator.com/item?id=36884806) - [WordPress Core to start using SQLite](https://make.wordpress.org/core/2023/04/19/status-update-on-the-sqlite-project/)
