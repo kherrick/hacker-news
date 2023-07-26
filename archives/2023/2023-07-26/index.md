@@ -7,6 +7,7 @@
 * [2023-07-26, 20:12:06](https://news.ycombinator.com/item?id=36884230) - [Meta Reports Second Quarter 2023 Results [pdf]](https://s21.q4cdn.com/399680738/files/doc_financials/2023/q2/Meta-06-30-2023-Exhibit-99-1-FINAL.pdf)
 * [2023-07-26, 20:05:49](https://news.ycombinator.com/item?id=36884118) - [Study suggests isometric exercises best for reducing blood pressure](https://bjsm.bmj.com/content/early/2023/07/02/bjsports-2022-106503)
 * [2023-07-26, 19:39:14](https://news.ycombinator.com/item?id=36883677) - [Staying ahead of the AMD vulnerability known as “Zenbleed”](https://blog.cloudflare.com/zenbleed-vulnerability/)
+* [2023-07-26, 19:38:25](https://news.ycombinator.com/item?id=36883668) - [A copywriter swindled victims out of $200M by pretending to be a psychic](https://thewalrus.ca/the-greatest-scam-ever-written/)
 * [2023-07-26, 19:29:40](https://news.ycombinator.com/item?id=36883545) - [Fired Tesla Employee Posts New Video of Full Self-Driving Running Red Light](https://jalopnik.com/fired-tesla-employee-posts-video-fsd-running-red-light-1850678098)
 * [2023-07-26, 19:22:01](https://news.ycombinator.com/item?id=36883436) - [How Grothendieck, Bergman, etc. set themselves up to have new ideas](https://www.henrikkarlsson.xyz/p/good-ideas)
 * [2023-07-26, 19:06:48](https://news.ycombinator.com/item?id=36883198) - [US conducted ‘multi-decade’ secret UFO program, ex-intelligence official says](https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch)

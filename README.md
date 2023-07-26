@@ -3,10 +3,12 @@
 * [2023-07-26, 20:12:06](https://news.ycombinator.com/item?id=36884230) - [Meta Reports Second Quarter 2023 Results [pdf]](https://s21.q4cdn.com/399680738/files/doc_financials/2023/q2/Meta-06-30-2023-Exhibit-99-1-FINAL.pdf)
 * [2023-07-26, 20:05:49](https://news.ycombinator.com/item?id=36884118) - [Study suggests isometric exercises best for reducing blood pressure](https://bjsm.bmj.com/content/early/2023/07/02/bjsports-2022-106503)
 * [2023-07-26, 19:39:14](https://news.ycombinator.com/item?id=36883677) - [Staying ahead of the AMD vulnerability known as “Zenbleed”](https://blog.cloudflare.com/zenbleed-vulnerability/)
+* [2023-07-26, 19:38:25](https://news.ycombinator.com/item?id=36883668) - [A copywriter swindled victims out of $200M by pretending to be a psychic](https://thewalrus.ca/the-greatest-scam-ever-written/)
 * [2023-07-26, 19:22:01](https://news.ycombinator.com/item?id=36883436) - [How Grothendieck, Bergman, etc. set themselves up to have new ideas](https://www.henrikkarlsson.xyz/p/good-ideas)
 * [2023-07-26, 18:40:59](https://news.ycombinator.com/item?id=36882767) - [How to build toxic software teams](https://badsoftwareadvice.substack.com/p/how-to-build-toxic-software-teams)
 * [2023-07-26, 18:23:19](https://news.ycombinator.com/item?id=36882467) - [Apple's infamously strict on App Store rules but gives WeChat a free pass (2020)](https://reclaimthenet.org/apple-app-store-wechat-china)
 * [2023-07-26, 17:55:38](https://news.ycombinator.com/item?id=36881989) - [BasicBlocker: ISA Redesign to Make Spectre-Immune CPUs Faster (2021)](https://arxiv.org/abs/2007.15919)
+* [2023-07-26, 17:46:48](https://news.ycombinator.com/item?id=36881814) - [Sinead O’Connor has died](https://www.irishtimes.com/culture/music/2023/07/26/sinead-oconnor-acclaimed-dublin-singer-dies-aged-56/)
 * [2023-07-26, 17:46:30](https://news.ycombinator.com/item?id=36881808) - [Superconductor news: What’s claimed, and how strong the evidence seems to be](https://www.science.org/content/blog-post/breaking-superconductor-news)
 * [2023-07-26, 17:09:53](https://news.ycombinator.com/item?id=36881133) - [Major Data Brokers Selling License Plate Location and Analytics Data](https://www.tlo.com/vehicle-sightings)
 * [2023-07-26, 17:00:25](https://news.ycombinator.com/item?id=36880961) - [Prequel (YC W21) is hiring – customer data sharing to all data warehouses](https://www.ycombinator.com/companies/prequel/jobs/VNoKffl-senior-software-engineer)
@@ -26,10 +28,8 @@
 * [2023-07-26, 07:41:51](https://news.ycombinator.com/item?id=36874275) - [Home Taping Is Killing Music: When the music industry waged war on the cassette](https://www.openculture.com/2023/07/home-taping-is-killing-music-when-the-music-industry-waged-war-on-the-cassette-tape.html)
 * [2023-07-26, 00:10:43](https://news.ycombinator.com/item?id=36871459) - [New low-mass quiescent galaxy discovered](https://phys.org/news/2023-07-low-mass-quiescent-galaxy.html)
 * [2023-07-26, 00:09:20](https://news.ycombinator.com/item?id=36871446) - [Scientists discover new isopod species in the Florida Keys](https://phys.org/news/2023-07-scientists-isopod-species-florida-keys.html)
-* [2023-07-25, 22:43:10](https://news.ycombinator.com/item?id=36870734) - [The life, death, and afterlife of literary fiction](https://www.esquire.com/entertainment/books/a44496450/literary-fiction-death-digital-age/)
 * [2023-07-25, 11:06:28](https://news.ycombinator.com/item?id=36860570) - [How too much daydreaming affected me](https://sunghoyahng.substack.com/p/how-too-much-daydreaming-affected)
 * [2023-07-25, 06:15:03](https://news.ycombinator.com/item?id=36858603) - [20 Years of Programming (2020)](https://flooey.org/twentyyearsofprogramming.html)
-* [2023-07-25, 00:37:19](https://news.ycombinator.com/item?id=36856215) - [Where did our belief in abundance come from?](https://www.discoursemagazine.com/abundance/2023/07/19/where-did-our-belief-in-abundance-come-from/)
 
 ## [Archives](archives/index.md)
 
