@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
 * [2023-07-26, 23:56:19](https://news.ycombinator.com/item?id=36886859) - [Exway doesn't care about USB-C conformity](https://ericswpark.com/blog/2023/2023-07-26-exway-doesnt-care-about-usb-c-conformity/)
+* [2023-07-26, 23:28:42](https://news.ycombinator.com/item?id=36886605) - [Jupyter Notebook 7](https://blog.jupyter.org/announcing-jupyter-notebook-7-8d6d66126dcf?gi=91803318295b)
 * [2023-07-26, 22:52:52](https://news.ycombinator.com/item?id=36886259) - [Whistleblower tells Congress US is concealing 'multi-decade' UFO capture program](https://www.washingtonpost.com/politics/2023/07/26/ufos-uaps-congress-whistleblower-spy-aliens/01081d9a-2bce-11ee-a948-a5b8a9b62d84_story.html)
 * [2023-07-26, 22:41:03](https://news.ycombinator.com/item?id=36886165) - [Meta to Charge Cloud Providers for AI Tech That It Said Was Free](https://www.bloomberg.com/news/articles/2023-07-26/meta-to-charge-cloud-providers-for-ai-tech-that-it-said-was-free)
 * [2023-07-26, 22:01:34](https://news.ycombinator.com/item?id=36885754) - [A beautiful, broken America: what I learned on a 2,800-mile bus ride](https://www.theguardian.com/travel/2023/jul/26/america-roadtrip-greyhound-bus)
