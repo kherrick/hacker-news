@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-27](index.md)
 
+* [2023-07-27, 21:00:35](https://news.ycombinator.com/item?id=36900106) - [Svix (YC W21) Is Hiring a Founding Account Executive (US Remote)](https://www.svix.com/careers/)
 * [2023-07-27, 20:26:22](https://news.ycombinator.com/item?id=36899656) - [No One Wants to Talk to Your Chatbot](https://lucas-mcgregor.medium.com/no-one-wants-to-talk-to-your-chatbot-9d8bb1a70266)
 * [2023-07-27, 20:23:13](https://news.ycombinator.com/item?id=36899622) - [Intel jumps 6% as it returns to profitability after two quarters of losses](https://www.cnbc.com/2023/07/27/intel-intc-earnings-report-q2-2023.html)
 * [2023-07-27, 20:10:48](https://news.ycombinator.com/item?id=36899461) - [Hydraulic Steering – Principles of Operation (1956) [video]](https://www.youtube.com/watch?v=VDiOKqMKTO8)
