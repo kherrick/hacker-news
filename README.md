@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-27, 23:25:20](https://news.ycombinator.com/item?id=36901415) - [Ask HN: Why are Tesla negative stories muted on HN?](https://news.ycombinator.com/item?id=36901415)
 * [2023-07-27, 21:27:18](https://news.ycombinator.com/item?id=36900388) - [Llama and ChatGPT Are Not Open-Source](https://spectrum.ieee.org/openai-not-open)
 * [2023-07-27, 21:19:01](https://news.ycombinator.com/item?id=36900302) - [ICML 2023 Outstanding Paper Awards](https://icml.cc/Conferences/2023/Awards)
 * [2023-07-27, 21:18:16](https://news.ycombinator.com/item?id=36900294) - [LeMUR: LLMs for Audio and Speech](https://www.assemblyai.com/blog/lemur/)
@@ -23,7 +24,6 @@
 * [2023-07-27, 14:32:23](https://news.ycombinator.com/item?id=36894198) - [DHCP is not blocked by ufw/iptables](https://unix.stackexchange.com/questions/447440/ufw-iptables-not-blocking-dhcp-udp-port-67#447524)
 * [2023-07-27, 13:16:41](https://news.ycombinator.com/item?id=36892970) - [Wavy walls use fewer bricks than a straight wall (2020)](https://twistedsifter.com/2020/06/how-wavy-crinkle-crankle-walls-use-less-bricks-than-straight-walls/)
 * [2023-07-27, 04:33:56](https://news.ycombinator.com/item?id=36888954) - [Tarsnap outage postmortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
-* [2023-07-26, 19:08:22](https://news.ycombinator.com/item?id=36883227) - [Can Nature Lie?](https://www.theatlantic.com/books/archive/2023/07/evolution-liars-of-nature-lixing-sun-review/674808/)
 * [2023-07-26, 11:33:06](https://news.ycombinator.com/item?id=36875962) - [Show HN: I built a multiplayer Gameboy](https://github.com/tjholm/multiboy)
 * [2023-07-26, 11:18:49](https://news.ycombinator.com/item?id=36875815) - [An Introduction to Metaprogramming in Ruby](https://blog.appsignal.com/2023/07/26/an-introduction-to-metaprogramming-in-ruby.html)
 * [2023-07-26, 10:59:03](https://news.ycombinator.com/item?id=36875622) - [Plants that are signs of former human settlements](https://worldsensorium.com/your-legacy-on-earth-may-be-a-plant/)
