@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-27, 21:27:18](https://news.ycombinator.com/item?id=36900388) - [Llama and ChatGPT Are Not Open-Source](https://spectrum.ieee.org/openai-not-open)
 * [2023-07-27, 21:19:01](https://news.ycombinator.com/item?id=36900302) - [ICML 2023 Outstanding Paper Awards](https://icml.cc/Conferences/2023/Awards)
 * [2023-07-27, 21:18:16](https://news.ycombinator.com/item?id=36900294) - [LeMUR: LLMs for Audio and Speech](https://www.assemblyai.com/blog/lemur/)
 * [2023-07-27, 21:00:35](https://news.ycombinator.com/item?id=36900106) - [Svix (YC W21) Is Hiring a Founding Account Executive (US Remote)](https://www.svix.com/careers/)
@@ -29,6 +28,7 @@
 * [2023-07-26, 11:18:49](https://news.ycombinator.com/item?id=36875815) - [An Introduction to Metaprogramming in Ruby](https://blog.appsignal.com/2023/07/26/an-introduction-to-metaprogramming-in-ruby.html)
 * [2023-07-26, 10:59:03](https://news.ycombinator.com/item?id=36875622) - [Plants that are signs of former human settlements](https://worldsensorium.com/your-legacy-on-earth-may-be-a-plant/)
 * [2023-07-26, 10:47:59](https://news.ycombinator.com/item?id=36875524) - [How to Be Blind](https://www.newyorker.com/culture/the-weekend-essay/how-to-be-blind)
+* [2023-07-26, 05:48:51](https://news.ycombinator.com/item?id=36873573) - [OpenPipes Revolutionizes the DIY Pipe Organs](https://makezine.com/article/craft/music/openpipes-revolutionizes-the-diy-pipe-organs/)
 * [2023-07-25, 23:28:52](https://news.ycombinator.com/item?id=36871152) - [Feuding twin sisters popularized the American advice column](https://www.laphamsquarterly.org/roundtable/wake-and-smell-coffee)
 
 ## [Archives](archives/index.md)
