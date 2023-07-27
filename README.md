@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-27, 14:16:05](https://news.ycombinator.com/item?id=36893922) - [Time Card Mini Adds Pi, GPS, and OXCO to Your PC](https://www.jeffgeerling.com/blog/2023/time-card-mini-adds-pi-gps-and-oxco-your-pc)
+* [2023-07-27, 14:01:08](https://news.ycombinator.com/item?id=36893654) - [Brave is a fork, not a Chromium reskinn](https://twitter.com/BrendanEich/status/1684561924191842304)
 * [2023-07-27, 13:57:57](https://news.ycombinator.com/item?id=36893596) - [Emotionally Numb: Expertise Dulls Consumer Experience](https://academic.oup.com/jcr/article/48/3/355/6171148)
 * [2023-07-27, 13:22:41](https://news.ycombinator.com/item?id=36893071) - [Google's browser security plan slammed as dangerous, terrible, DRM for websites](https://www.theregister.com/2023/07/27/google_web_environment_integrity/)
 * [2023-07-27, 13:16:41](https://news.ycombinator.com/item?id=36892970) - [Wavy walls use fewer bricks than a straight wall (2020)](https://twistedsifter.com/2020/06/how-wavy-crinkle-crankle-walls-use-less-bricks-than-straight-walls/)
-* [2023-07-27, 13:03:38](https://news.ycombinator.com/item?id=36892794) - [Enhance – HTML-first full stack web framework](https://enhance.dev/)
 * [2023-07-27, 12:36:11](https://news.ycombinator.com/item?id=36892506) - [Automakers try to scuttle Massachusetts ‘right to repair’ law](https://www.techdirt.com/2023/07/27/__trashed-4/)
 * [2023-07-27, 12:33:21](https://news.ycombinator.com/item?id=36892476) - [Waymo puts the brakes on self-driving trucks program](https://techcrunch.com/2023/07/26/waymo-puts-the-brakes-on-self-driving-trucks-program/)
 * [2023-07-27, 12:31:21](https://news.ycombinator.com/item?id=36892451) - [EU opens Microsoft antitrust investigation into Teams bundling](https://www.theverge.com/2023/7/27/23797305/microsoft-teams-eu-antitrust-investigation-office-bundling-slack)
