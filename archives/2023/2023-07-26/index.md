@@ -25,6 +25,7 @@
 * [2023-07-26, 19:38:25](https://news.ycombinator.com/item?id=36883668) - [A copywriter swindled victims out of $200M by pretending to be a psychic](https://thewalrus.ca/the-greatest-scam-ever-written/)
 * [2023-07-26, 19:29:40](https://news.ycombinator.com/item?id=36883545) - [Fired Tesla Employee Posts New Video of Full Self-Driving Running Red Light](https://jalopnik.com/fired-tesla-employee-posts-video-fsd-running-red-light-1850678098)
 * [2023-07-26, 19:22:01](https://news.ycombinator.com/item?id=36883436) - [How Grothendieck, Bergman, etc. set themselves up to have new ideas](https://www.henrikkarlsson.xyz/p/good-ideas)
+* [2023-07-26, 19:08:22](https://news.ycombinator.com/item?id=36883227) - [Can Nature Lie?](https://www.theatlantic.com/books/archive/2023/07/evolution-liars-of-nature-lixing-sun-review/674808/)
 * [2023-07-26, 19:06:48](https://news.ycombinator.com/item?id=36883198) - [US conducted ‘multi-decade’ secret UFO program, ex-intelligence official says](https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch)
 * [2023-07-26, 18:41:18](https://news.ycombinator.com/item?id=36882780) - [Reasons to be skeptical of that room-temperature superconductor claim](https://twitter.com/gravity_levity/status/1684029657857892354)
 * [2023-07-26, 18:40:59](https://news.ycombinator.com/item?id=36882767) - [How to build toxic software teams](https://badsoftwareadvice.substack.com/p/how-to-build-toxic-software-teams)

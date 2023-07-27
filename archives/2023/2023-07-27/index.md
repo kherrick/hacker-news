@@ -6,6 +6,7 @@
 
 * [2023-07-27, 21:27:18](https://news.ycombinator.com/item?id=36900388) - [Llama and ChatGPT Are Not Open-Source](https://spectrum.ieee.org/openai-not-open)
 * [2023-07-27, 21:19:01](https://news.ycombinator.com/item?id=36900302) - [ICML 2023 Outstanding Paper Awards](https://icml.cc/Conferences/2023/Awards)
+* [2023-07-27, 21:18:16](https://news.ycombinator.com/item?id=36900294) - [LeMUR: LLMs for Audio and Speech](https://www.assemblyai.com/blog/lemur/)
 * [2023-07-27, 21:17:15](https://news.ycombinator.com/item?id=36900286) - [Intel Reports Second-Quarter 2023 Financial Results](https://www.intc.com/news-events/press-releases/detail/1637/intel-reports-second-quarter-2023-financial-results)
 * [2023-07-27, 21:00:35](https://news.ycombinator.com/item?id=36900106) - [Svix (YC W21) Is Hiring a Founding Account Executive (US Remote)](https://www.svix.com/careers/)
 * [2023-07-27, 20:26:22](https://news.ycombinator.com/item?id=36899656) - [No One Wants to Talk to Your Chatbot](https://lucas-mcgregor.medium.com/no-one-wants-to-talk-to-your-chatbot-9d8bb1a70266)
