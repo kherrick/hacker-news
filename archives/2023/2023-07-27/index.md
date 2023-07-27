@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-27](index.md)
 
+* [2023-07-27, 18:18:47](https://news.ycombinator.com/item?id=36897958) - [Some Alloys Don't Change Size When Heated. We Now Know Why](https://www.caltech.edu/about/news/some-alloys-dont-change-size-when-heated-we-now-know-why)
 * [2023-07-27, 17:59:35](https://news.ycombinator.com/item?id=36897670) - [Epilogue of my time working at Twitter](https://esthercrawford.medium.com/an-epilogue-to-my-time-working-at-twitter-24a126098246)
 * [2023-07-27, 17:00:17](https://news.ycombinator.com/item?id=36896571) - [Ashby (YC W19) Is Hiring an Engineering Director to Build a Product-Focused Team](https://www.ashbyhq.com/careers?ashby_jid=2b130850-9e04-4072-942b-65d9e1609813)
 * [2023-07-27, 16:46:40](https://news.ycombinator.com/item?id=36896343) - [Bootstrapping to €600k MRR and getting killed by Shopify](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x)
