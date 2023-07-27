@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-27](index.md)
 
+* [2023-07-27, 15:39:08](https://news.ycombinator.com/item?id=36895220) - [Launch HN: PeerDB (YC S23) – Fast, Native ETL/ELT for Postgres](https://news.ycombinator.com/item?id=36895220)
 * [2023-07-27, 15:07:45](https://news.ycombinator.com/item?id=36894749) - [Fiber-infused ink enables 3D-printed heart muscle to beat](https://seas.harvard.edu/news/2023/07/fiber-infused-ink-enables-3d-printed-heart-muscle-beat)
 * [2023-07-27, 14:59:34](https://news.ycombinator.com/item?id=36894613) - [Room Temperature, Ambient Pressure Superconductivity–This Time for Real?](https://scanalyst.fourmilab.ch/t/room-temperature-ambient-pressure-superconductivity-this-time-for-real/3512)
 * [2023-07-27, 14:19:31](https://news.ycombinator.com/item?id=36893965) - [Understanding Battery Performance of IoT Devices](https://interrupt.memfault.com/blog/monitoring-battery-life)
@@ -12,6 +13,7 @@
 * [2023-07-27, 14:00:18](https://news.ycombinator.com/item?id=36893635) - [The Design Thinking Movement Is Absurd (2018)](https://sts-news.medium.com/the-design-thinking-movement-is-absurd-83df815b92ea)
 * [2023-07-27, 13:58:55](https://news.ycombinator.com/item?id=36893611) - [Show HN: Fplyr – Adult Entertainment Tool for playing moaning sounds and music](https://github.com/pronopython/fplyr)
 * [2023-07-27, 13:57:57](https://news.ycombinator.com/item?id=36893596) - [Emotionally Numb: Expertise Dulls Consumer Experience](https://academic.oup.com/jcr/article/48/3/355/6171148)
+* [2023-07-27, 13:31:10](https://news.ycombinator.com/item?id=36893193) - [SQLite Begin Concurrent](https://www.sqlite.org/cgi/src/doc/begin-concurrent/doc/begin_concurrent.md)
 * [2023-07-27, 13:22:41](https://news.ycombinator.com/item?id=36893071) - [Google's browser security plan slammed as dangerous, terrible, DRM for websites](https://www.theregister.com/2023/07/27/google_web_environment_integrity/)
 * [2023-07-27, 13:16:41](https://news.ycombinator.com/item?id=36892970) - [Wavy walls use fewer bricks than a straight wall (2020)](https://twistedsifter.com/2020/06/how-wavy-crinkle-crankle-walls-use-less-bricks-than-straight-walls/)
 * [2023-07-27, 13:10:07](https://news.ycombinator.com/item?id=36892874) - [Do Unforgettable Work](https://taylor.town/do-unforgettable-work)
