@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-27](index.md)
 
+* [2023-07-27, 12:15:04](https://news.ycombinator.com/item?id=36892311) - [Stack Overflow Announces OverflowAI [video]](https://www.youtube.com/watch?v=DM9-cYyeaDg)
 * [2023-07-27, 12:01:15](https://news.ycombinator.com/item?id=36892189) - [Memfault (YC W19) Is Hiring an Embedded Linux Engineer](https://jobs.lever.co/memfault/5bcd5431-5d94-4a3c-a99a-950ffd85851b)
 * [2023-07-27, 10:56:09](https://news.ycombinator.com/item?id=36891735) - [How I test site speed changes using Chrome's local overrides (2021)](https://tryblackbird.com/blog/local-overrides)
 * [2023-07-27, 09:41:11](https://news.ycombinator.com/item?id=36891135) - [Slack Is Down](https://status.slack.com/2023-07/08e3781ccbef33d5)
