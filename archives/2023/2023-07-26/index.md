@@ -79,6 +79,7 @@
 * [2023-07-26, 12:05:43](https://news.ycombinator.com/item?id=36876301) - [Google is already pushing WEI (web DRM) into Chromium](https://github.com/chromium/chromium/commit/6f47a22906b2899412e79a2727355efa9cc8f5bd)
 * [2023-07-26, 12:00:27](https://news.ycombinator.com/item?id=36876256) - [Lago (YC S21) – Open-Source Stripe Billing and Chargebee Alternative Is Hiring](https://www.ycombinator.com/companies/lago/jobs)
 * [2023-07-26, 11:37:45](https://news.ycombinator.com/item?id=36876012) - [Show HN: Django Admin Site Customization Tutorial](https://appliku.com/post/customize-django-admin-interface)
+* [2023-07-26, 11:33:06](https://news.ycombinator.com/item?id=36875962) - [Show HN: I built a multiplayer Gameboy](https://github.com/tjholm/multiboy)
 * [2023-07-26, 11:30:18](https://news.ycombinator.com/item?id=36875940) - [Unpacking Google’s new “dangerous” Web Environment Integrity specification](https://vivaldi.com/blog/googles-new-dangerous-web-environment-integrity-spec/)
 * [2023-07-26, 11:23:04](https://news.ycombinator.com/item?id=36875862) - [Unesco calls for global ban on smartphones in schools](https://www.theguardian.com/world/2023/jul/26/put-learners-first-unesco-calls-for-global-ban-on-smartphones-in-schools)
 * [2023-07-26, 11:19:07](https://news.ycombinator.com/item?id=36875816) - [How MOS 6502 Illegal Opcodes work](https://www.pagetable.com/?p=39)

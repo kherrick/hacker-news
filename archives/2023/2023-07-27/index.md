@@ -6,6 +6,7 @@
 
 * [2023-07-27, 14:16:05](https://news.ycombinator.com/item?id=36893922) - [Time Card Mini Adds Pi, GPS, and OXCO to Your PC](https://www.jeffgeerling.com/blog/2023/time-card-mini-adds-pi-gps-and-oxco-your-pc)
 * [2023-07-27, 14:01:08](https://news.ycombinator.com/item?id=36893654) - [Brave is a fork, not a Chromium reskinn](https://twitter.com/BrendanEich/status/1684561924191842304)
+* [2023-07-27, 13:58:55](https://news.ycombinator.com/item?id=36893611) - [Show HN: Fplyr – Adult Entertainment Tool for playing moaning sounds and music](https://github.com/pronopython/fplyr)
 * [2023-07-27, 13:57:57](https://news.ycombinator.com/item?id=36893596) - [Emotionally Numb: Expertise Dulls Consumer Experience](https://academic.oup.com/jcr/article/48/3/355/6171148)
 * [2023-07-27, 13:22:41](https://news.ycombinator.com/item?id=36893071) - [Google's browser security plan slammed as dangerous, terrible, DRM for websites](https://www.theregister.com/2023/07/27/google_web_environment_integrity/)
 * [2023-07-27, 13:16:41](https://news.ycombinator.com/item?id=36892970) - [Wavy walls use fewer bricks than a straight wall (2020)](https://twistedsifter.com/2020/06/how-wavy-crinkle-crankle-walls-use-less-bricks-than-straight-walls/)
