@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-27](index.md)
 
+* [2023-07-27, 05:08:18](https://news.ycombinator.com/item?id=36889163) - [Air Force selects AI-enabled predictive maintenance program as system of record](https://defensescoop.com/2023/05/10/air-force-selects-ai-enabled-predictive-maintenance-program-as-system-of-record/)
 * [2023-07-27, 04:57:07](https://news.ycombinator.com/item?id=36889092) - [macOS in QEMU (ARM edition) [pdf]](https://kvm-forum.qemu.org/media/2023/submissions/GDRJLK/resources/macOS_in_QEMU_on_ARM_FhJY65D.pdf)
 * [2023-07-27, 04:33:56](https://news.ycombinator.com/item?id=36888954) - [Tarsnap outage (July 2-3, 2023) postmortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
 * [2023-07-27, 04:32:46](https://news.ycombinator.com/item?id=36888948) - [Google Med-Palm M: Towards Generalist Biomedical AI](https://arxiv.org/abs/2307.14334)
@@ -19,6 +20,7 @@
 * [2023-07-27, 01:52:58](https://news.ycombinator.com/item?id=36887857) - [Japanese population falls in all 47 prefectures for the first time](https://www.japantimes.co.jp/news/2023/07/26/japan/society/number-of-japanese-drops-in-all-47-prefectures-for-first-time-as-foreign-population-surges/)
 * [2023-07-27, 01:37:04](https://news.ycombinator.com/item?id=36887747) - [Pix surpasses credit and debit card transactions in Brazil](https://philaverse.substack.com/p/report-pix-surpasses-credit-and-debit)
 * [2023-07-27, 01:32:40](https://news.ycombinator.com/item?id=36887721) - [Pull of the Undercurl](https://ryantravitz.com/blog/2023-02-18-pull-of-the-undercurl/)
+* [2023-07-27, 01:31:45](https://news.ycombinator.com/item?id=36887712) - [An Internet Canvas](https://paper.mmm.dev/)
 * [2023-07-27, 01:31:35](https://news.ycombinator.com/item?id=36887711) - [Show HN: Litellm – simple library to standardize OpenAI, Cohere, Azure LLM I/O](https://github.com/BerriAI/litellm)
 * [2023-07-27, 01:29:53](https://news.ycombinator.com/item?id=36887702) - [JetBrains IDE update previews “deeply integrated” AI Assistant](https://devclass.com/2023/07/25/jetbrains-ide-update-previews-deeply-integrated-ai-assistant/)
 * [2023-07-27, 01:09:36](https://news.ycombinator.com/item?id=36887534) - [Mastercard demands US cannabis shops stop accepting debit cards](https://www.bbc.com/news/world-us-canada-66320970)
