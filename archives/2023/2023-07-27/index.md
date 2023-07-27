@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-27](index.md)
 
+* [2023-07-27, 20:10:48](https://news.ycombinator.com/item?id=36899461) - [Hydraulic Steering – Principles of Operation (1956) [video]](https://www.youtube.com/watch?v=VDiOKqMKTO8)
 * [2023-07-27, 20:07:22](https://news.ycombinator.com/item?id=36899404) - [Tesla has a range inflation problem](https://techcrunch.com/2023/07/27/tesla-has-a-range-inflation-problem/)
+* [2023-07-27, 19:54:17](https://news.ycombinator.com/item?id=36899224) - [Unpacking Xilinx 7-Series Bitstreams (2018)](https://www.kc8apf.net/2018/05/unpacking-xilinx-7-series-bitstreams-part-1/)
 * [2023-07-27, 19:08:10](https://news.ycombinator.com/item?id=36898612) - [Austral Programming Language](https://austral-lang.org)
 * [2023-07-27, 19:00:36](https://news.ycombinator.com/item?id=36898503) - [Show HN: Pebble Finance – Personalize Your Investments Today](https://pebble.finance/themes)
 * [2023-07-27, 18:37:53](https://news.ycombinator.com/item?id=36898217) - [Techdirt Has Been Deleted from Bing and DuckDuckGo](https://www.techdirt.com/2023/07/27/techdirt-has-been-deleted-from-bing-and-duckduckgo/)
@@ -24,6 +26,7 @@
 * [2023-07-27, 15:45:18](https://news.ycombinator.com/item?id=36895320) - [Our Universe wasn’t empty, even before the Big Bang](https://bigthink.com/starts-with-a-bang/universe-wasnt-empty-before-big-bang/)
 * [2023-07-27, 15:44:10](https://news.ycombinator.com/item?id=36895300) - [LLaMA2 Chat 70B outperformed ChatGPT](https://tatsu-lab.github.io/alpaca_eval/)
 * [2023-07-27, 15:39:08](https://news.ycombinator.com/item?id=36895220) - [Launch HN: PeerDB (YC S23) – Fast, Native ETL/ELT for Postgres](https://news.ycombinator.com/item?id=36895220)
+* [2023-07-27, 15:20:35](https://news.ycombinator.com/item?id=36894932) - [Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
 * [2023-07-27, 15:07:45](https://news.ycombinator.com/item?id=36894749) - [Fiber-infused ink enables 3D-printed heart muscle to beat](https://seas.harvard.edu/news/2023/07/fiber-infused-ink-enables-3d-printed-heart-muscle-beat)
 * [2023-07-27, 14:59:34](https://news.ycombinator.com/item?id=36894613) - [Room Temperature, Ambient Pressure Superconductivity–This Time for Real?](https://scanalyst.fourmilab.ch/t/room-temperature-ambient-pressure-superconductivity-this-time-for-real/3512)
 * [2023-07-27, 14:32:23](https://news.ycombinator.com/item?id=36894198) - [DHCP is not blocked by ufw/iptables](https://unix.stackexchange.com/questions/447440/ufw-iptables-not-blocking-dhcp-udp-port-67#447524)
