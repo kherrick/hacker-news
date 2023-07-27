@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-07-27](index.md)
 
+* [2023-07-27, 21:19:01](https://news.ycombinator.com/item?id=36900302) - [ICML 2023 Outstanding Paper Awards](https://icml.cc/Conferences/2023/Awards)
+* [2023-07-27, 21:17:15](https://news.ycombinator.com/item?id=36900286) - [Intel Reports Second-Quarter 2023 Financial Results](https://www.intc.com/news-events/press-releases/detail/1637/intel-reports-second-quarter-2023-financial-results)
 * [2023-07-27, 21:00:35](https://news.ycombinator.com/item?id=36900106) - [Svix (YC W21) Is Hiring a Founding Account Executive (US Remote)](https://www.svix.com/careers/)
 * [2023-07-27, 20:26:22](https://news.ycombinator.com/item?id=36899656) - [No One Wants to Talk to Your Chatbot](https://lucas-mcgregor.medium.com/no-one-wants-to-talk-to-your-chatbot-9d8bb1a70266)
 * [2023-07-27, 20:23:13](https://news.ycombinator.com/item?id=36899622) - [Intel jumps 6% as it returns to profitability after two quarters of losses](https://www.cnbc.com/2023/07/27/intel-intc-earnings-report-q2-2023.html)
+* [2023-07-27, 20:22:13](https://news.ycombinator.com/item?id=36899608) - [Annual EFF Awards Goe to Alexandra Elbakyan, Library Freedom Project, and Signal](https://www.eff.org/press/releases/electronic-frontier-foundation-present-annual-eff-awards-alexandra-asanovna-elbakyan)
 * [2023-07-27, 20:10:48](https://news.ycombinator.com/item?id=36899461) - [Hydraulic Steering – Principles of Operation (1956) [video]](https://www.youtube.com/watch?v=VDiOKqMKTO8)
 * [2023-07-27, 20:07:22](https://news.ycombinator.com/item?id=36899404) - [Tesla has a range inflation problem](https://techcrunch.com/2023/07/27/tesla-has-a-range-inflation-problem/)
 * [2023-07-27, 19:54:17](https://news.ycombinator.com/item?id=36899224) - [Unpacking Xilinx 7-Series Bitstreams (2018)](https://www.kc8apf.net/2018/05/unpacking-xilinx-7-series-bitstreams-part-1/)
+* [2023-07-27, 19:53:54](https://news.ycombinator.com/item?id=36899221) - [Namibian fairy circle debate rages on: Sand termites or Turing mechanism?](https://arstechnica.com/science/2023/07/the-namibian-fairy-circle-debate-rages-on-could-it-be-sand-termites-after-all/)
 * [2023-07-27, 19:26:31](https://news.ycombinator.com/item?id=36898833) - [LAN Party](https://032c.com/magazine/berlin-review-lan-party)
 * [2023-07-27, 19:18:42](https://news.ycombinator.com/item?id=36898749) - [Commander Keen's Adaptive Tile Scrolling](https://fabiensanglard.net/ega/)
 * [2023-07-27, 19:08:10](https://news.ycombinator.com/item?id=36898612) - [Austral Programming Language](https://austral-lang.org)
