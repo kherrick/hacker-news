@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-07-27](index.md)
 
+* [2023-07-27, 13:03:38](https://news.ycombinator.com/item?id=36892794) - [Enhance – The HTML first full stack web framework](https://enhance.dev/)
+* [2023-07-27, 12:36:11](https://news.ycombinator.com/item?id=36892506) - [Automakers Try to BS Their Way Past ‘Right to Repair’ Standoff in Massachusetts](https://www.techdirt.com/2023/07/27/__trashed-4/)
 * [2023-07-27, 12:33:21](https://news.ycombinator.com/item?id=36892476) - [Waymo puts the brakes on self-driving trucks program](https://techcrunch.com/2023/07/26/waymo-puts-the-brakes-on-self-driving-trucks-program/)
 * [2023-07-27, 12:26:56](https://news.ycombinator.com/item?id=36892412) - [Coal use hit an all-time high last year](https://www.cnbc.com/2023/07/27/coal-consumption-hit-an-all-time-high-in-2022-iea-says.html)
 * [2023-07-27, 12:15:04](https://news.ycombinator.com/item?id=36892311) - [Stack Overflow Announces OverflowAI [video]](https://www.youtube.com/watch?v=DM9-cYyeaDg)
+* [2023-07-27, 12:15:04](https://news.ycombinator.com/item?id=36892311) - [OverflowAI](https://stackoverflow.blog/2023/07/27/announcing-overflowai/)
 * [2023-07-27, 12:01:15](https://news.ycombinator.com/item?id=36892189) - [Memfault (YC W19) Is Hiring an Embedded Linux Engineer](https://jobs.lever.co/memfault/5bcd5431-5d94-4a3c-a99a-950ffd85851b)
 * [2023-07-27, 10:56:09](https://news.ycombinator.com/item?id=36891735) - [How I test site speed changes using Chrome's local overrides (2021)](https://tryblackbird.com/blog/local-overrides)
+* [2023-07-27, 10:44:17](https://news.ycombinator.com/item?id=36891642) - [Tesla created secret team to suppress thousands of driving range complaints](https://www.reuters.com/investigates/special-report/tesla-batteries-range/)
 * [2023-07-27, 09:41:11](https://news.ycombinator.com/item?id=36891135) - [Slack Is Down](https://status.slack.com/2023-07/08e3781ccbef33d5)
 * [2023-07-27, 09:11:06](https://news.ycombinator.com/item?id=36890901) - [Ask HN: Is Slack having some trouble?](https://news.ycombinator.com/item?id=36890901)
 * [2023-07-27, 08:43:23](https://news.ycombinator.com/item?id=36890681) - [The Adapter Pattern in Go](https://bitfieldconsulting.com/golang/adapter)
