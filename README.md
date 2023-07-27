@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-27, 09:11:06](https://news.ycombinator.com/item?id=36890901) - [Ask HN: Is Slack having some trouble?](https://news.ycombinator.com/item?id=36890901)
+* [2023-07-27, 08:43:23](https://news.ycombinator.com/item?id=36890681) - [The Adapter Pattern in Go](https://bitfieldconsulting.com/golang/adapter)
 * [2023-07-27, 07:37:35](https://news.ycombinator.com/item?id=36890209) - [Venetian Glass Beads May Be Oldest European Artifacts Found in North America](https://www.smithsonianmag.com/smart-news/tiny-blue-beads-european-artifact-north-america-old-180976966/)
 * [2023-07-27, 06:28:08](https://news.ycombinator.com/item?id=36889703) - [Stack Overflow's CEO Doesn't Understand Stack Overflow](https://jlericson.com/2023/07/26/not_understanding.html)
 * [2023-07-27, 05:59:07](https://news.ycombinator.com/item?id=36889484) - [Go 1.22 Inlining Overhaul](https://docs.google.com/document/d/1a6p7-nbk5PVyM1S2tmccFrrIuGzCyzclstBtaciHxVw/mobilebasic)
@@ -8,7 +9,6 @@
 * [2023-07-27, 04:57:07](https://news.ycombinator.com/item?id=36889092) - [macOS in QEMU (ARM edition) [pdf]](https://kvm-forum.qemu.org/media/2023/submissions/GDRJLK/resources/macOS_in_QEMU_on_ARM_FhJY65D.pdf)
 * [2023-07-27, 04:33:56](https://news.ycombinator.com/item?id=36888954) - [Tarsnap outage postmortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
 * [2023-07-27, 04:32:46](https://news.ycombinator.com/item?id=36888948) - [Google Med-Palm M: Towards Generalist Biomedical AI](https://arxiv.org/abs/2307.14334)
-* [2023-07-27, 04:30:16](https://news.ycombinator.com/item?id=36888931) - [The Heresy of Decline](https://longnow.org/ideas/the-heresy-of-decline/)
 * [2023-07-27, 03:43:31](https://news.ycombinator.com/item?id=36888667) - [Data diffs: Algorithms for explaining what changed in a dataset (2022)](https://blog.marcua.net/2022/02/20/data-diffs-algorithms-for-explaining-what-changed-in-a-dataset.html)
 * [2023-07-27, 03:34:01](https://news.ycombinator.com/item?id=36888598) - [Your Chromebook, Your Way](https://eupnea-linux.github.io/)
 * [2023-07-27, 03:11:11](https://news.ycombinator.com/item?id=36888444) - [Super sorry to the guy with the username reset on GitHub](https://discuss.systems/@adrian/110783401400871208)
