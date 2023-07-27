@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-27](index.md)
 
+* [2023-07-27, 04:57:07](https://news.ycombinator.com/item?id=36889092) - [macOS in QEMU (ARM edition) [pdf]](https://kvm-forum.qemu.org/media/2023/submissions/GDRJLK/resources/macOS_in_QEMU_on_ARM_FhJY65D.pdf)
 * [2023-07-27, 04:33:56](https://news.ycombinator.com/item?id=36888954) - [Tarsnap outage (July 2-3, 2023) postmortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
 * [2023-07-27, 03:43:50](https://news.ycombinator.com/item?id=36888671) - [America Already Has an AI Underclass](https://www.theatlantic.com/technology/archive/2023/07/ai-chatbot-human-evaluator-feedback/674805/)
 * [2023-07-27, 03:43:31](https://news.ycombinator.com/item?id=36888667) - [Data diffs: Algorithms for explaining what changed in a dataset (2022)](https://blog.marcua.net/2022/02/20/data-diffs-algorithms-for-explaining-what-changed-in-a-dataset.html)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-27, 04:57:07](https://news.ycombinator.com/item?id=36889092) - [macOS in QEMU (ARM edition) [pdf]](https://kvm-forum.qemu.org/media/2023/submissions/GDRJLK/resources/macOS_in_QEMU_on_ARM_FhJY65D.pdf)
 * [2023-07-27, 04:33:56](https://news.ycombinator.com/item?id=36888954) - [Tarsnap outage (July 2-3, 2023) postmortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
 * [2023-07-27, 03:43:50](https://news.ycombinator.com/item?id=36888671) - [America Already Has an AI Underclass](https://www.theatlantic.com/technology/archive/2023/07/ai-chatbot-human-evaluator-feedback/674805/)
 * [2023-07-27, 03:43:31](https://news.ycombinator.com/item?id=36888667) - [Data diffs: Algorithms for explaining what changed in a dataset (2022)](https://blog.marcua.net/2022/02/20/data-diffs-algorithms-for-explaining-what-changed-in-a-dataset.html)
@@ -26,7 +27,6 @@
 * [2023-07-26, 12:32:15](https://news.ycombinator.com/item?id=36876556) - [Visualizing every job in the world](https://duarteocarmo.com/blog/every-job-world)
 * [2023-07-26, 11:30:18](https://news.ycombinator.com/item?id=36875940) - [Unpacking Google’s Web Environment Integrity specification](https://vivaldi.com/blog/googles-new-dangerous-web-environment-integrity-spec/)
 * [2023-07-26, 08:57:33](https://news.ycombinator.com/item?id=36874821) - [Mind Grenade (2019)](https://www.fourmilab.ch/webtools/MindGrenade/)
-* [2023-07-26, 05:38:50](https://news.ycombinator.com/item?id=36873516) - [People over-emphasize the recycling aspect of \"reduce, reuse, recycle\"](https://futurism.com/the-byte/scientists-recycling-backfired)
 * [2023-07-26, 04:50:00](https://news.ycombinator.com/item?id=36873243) - [1901: Semiconductor rectifiers patented as “cat's whisker” detectors](https://www.computerhistory.org/siliconengine/semiconductor-rectifiers-patented-as-cats-whisker-detectors/)
 * [2023-07-26, 00:09:20](https://news.ycombinator.com/item?id=36871446) - [Scientists discover new isopod species in the Florida Keys](https://phys.org/news/2023-07-scientists-isopod-species-florida-keys.html)
 * [2023-07-25, 08:41:52](https://news.ycombinator.com/item?id=36859614) - [Paris to bring back swimming in Seine after 100 years](https://www.bbc.com/news/world-europe-66238618)
