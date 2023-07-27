@@ -2,7 +2,6 @@
 
 * [2023-07-27, 17:00:17](https://news.ycombinator.com/item?id=36896571) - [Ashby (YC W19) Is Hiring an Engineering Director to Build a Product-Focused Team](https://www.ashbyhq.com/careers?ashby_jid=2b130850-9e04-4072-942b-65d9e1609813)
 * [2023-07-27, 16:46:40](https://news.ycombinator.com/item?id=36896343) - [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x)
-* [2023-07-27, 16:42:06](https://news.ycombinator.com/item?id=36896273) - [House Judiciary panel plans contempt proceedings for Mark Zuckerberg](https://www.nbcnews.com/politics/congress/house-judiciary-plans-contempt-proceedings-mark-zuckerberg-rcna96297)
 * [2023-07-27, 16:27:34](https://news.ycombinator.com/item?id=36896034) - [BlazingMQ: High-performance open source message queuing system](https://bloomberg.github.io/blazingmq/)
 * [2023-07-27, 16:14:00](https://news.ycombinator.com/item?id=36895806) - [Blade-Runner-Tailwind: A Collection of Blade Runner Themed Tailwind Components](https://github.com/martyjacobsdev/Blade-Runner-Tailwind)
 * [2023-07-27, 15:57:29](https://news.ycombinator.com/item?id=36895536) - [Radioactivity in Food (Organic Food)](https://www.nrc.gov/about-nrc/radiation/around-us/doses-daily-lives.html)
@@ -26,6 +25,7 @@
 * [2023-07-27, 03:43:31](https://news.ycombinator.com/item?id=36888667) - [Data diffs: Algorithms for explaining what changed in a dataset (2022)](https://blog.marcua.net/2022/02/20/data-diffs-algorithms-for-explaining-what-changed-in-a-dataset.html)
 * [2023-07-27, 03:34:01](https://news.ycombinator.com/item?id=36888598) - [Depthboot – Your Chromebook, your way](https://eupnea-linux.github.io/)
 * [2023-07-27, 01:46:56](https://news.ycombinator.com/item?id=36887816) - [KernType – A Letter Spacing Game](https://type.method.ac/)
+* [2023-07-26, 17:46:30](https://news.ycombinator.com/item?id=36881808) - [Superconductor news: What’s claimed, and how strong the evidence seems to be](https://www.science.org/content/blog-post/breaking-superconductor-news)
 * [2023-07-26, 11:33:06](https://news.ycombinator.com/item?id=36875962) - [Show HN: I built a multiplayer Gameboy](https://github.com/tjholm/multiboy)
 * [2023-07-26, 10:59:03](https://news.ycombinator.com/item?id=36875622) - [Legacy on Earth May Be a Plant](https://worldsensorium.com/your-legacy-on-earth-may-be-a-plant/)
 * [2023-07-26, 06:02:44](https://news.ycombinator.com/item?id=36873635) - [The Oldest and Most Expensive Rum in the World](https://harewood.org/about/blog/notes/the-oldest-and-most-expensive-rum-in-the-world/)
