@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-07-27](index.md)
 
+* [2023-07-27, 15:07:45](https://news.ycombinator.com/item?id=36894749) - [Fiber-infused ink enables 3D-printed heart muscle to beat](https://seas.harvard.edu/news/2023/07/fiber-infused-ink-enables-3d-printed-heart-muscle-beat)
 * [2023-07-27, 14:59:34](https://news.ycombinator.com/item?id=36894613) - [Room Temperature, Ambient Pressure Superconductivity–This Time for Real?](https://scanalyst.fourmilab.ch/t/room-temperature-ambient-pressure-superconductivity-this-time-for-real/3512)
 * [2023-07-27, 14:19:31](https://news.ycombinator.com/item?id=36893965) - [Understanding Battery Performance of IoT Devices](https://interrupt.memfault.com/blog/monitoring-battery-life)
 * [2023-07-27, 14:16:05](https://news.ycombinator.com/item?id=36893922) - [Time Card Mini Adds Pi, GPS, and OXCO to Your PC](https://www.jeffgeerling.com/blog/2023/time-card-mini-adds-pi-gps-and-oxco-your-pc)
 * [2023-07-27, 14:01:08](https://news.ycombinator.com/item?id=36893654) - [Brave is a fork, not a Chromium reskinn](https://twitter.com/BrendanEich/status/1684561924191842304)
+* [2023-07-27, 14:00:18](https://news.ycombinator.com/item?id=36893635) - [The Design Thinking Movement Is Absurd (2018)](https://sts-news.medium.com/the-design-thinking-movement-is-absurd-83df815b92ea)
 * [2023-07-27, 13:58:55](https://news.ycombinator.com/item?id=36893611) - [Show HN: Fplyr – Adult Entertainment Tool for playing moaning sounds and music](https://github.com/pronopython/fplyr)
 * [2023-07-27, 13:57:57](https://news.ycombinator.com/item?id=36893596) - [Emotionally Numb: Expertise Dulls Consumer Experience](https://academic.oup.com/jcr/article/48/3/355/6171148)
 * [2023-07-27, 13:22:41](https://news.ycombinator.com/item?id=36893071) - [Google's browser security plan slammed as dangerous, terrible, DRM for websites](https://www.theregister.com/2023/07/27/google_web_environment_integrity/)
