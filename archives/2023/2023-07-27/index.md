@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-07-27](index.md)
 
+* [2023-07-27, 13:16:41](https://news.ycombinator.com/item?id=36892970) - [Wavy walls use fewer bricks than a straight wall (2020)](https://twistedsifter.com/2020/06/how-wavy-crinkle-crankle-walls-use-less-bricks-than-straight-walls/)
+* [2023-07-27, 13:09:49](https://news.ycombinator.com/item?id=36892870) - [Singapore to kill first woman in 20 years over 2 oz heroin](https://www.bbc.com/news/world-asia-66309347)
 * [2023-07-27, 13:03:38](https://news.ycombinator.com/item?id=36892794) - [Enhance – The HTML first full stack web framework](https://enhance.dev/)
 * [2023-07-27, 12:36:11](https://news.ycombinator.com/item?id=36892506) - [Automakers Try to BS Their Way Past ‘Right to Repair’ Standoff in Massachusetts](https://www.techdirt.com/2023/07/27/__trashed-4/)
 * [2023-07-27, 12:33:21](https://news.ycombinator.com/item?id=36892476) - [Waymo puts the brakes on self-driving trucks program](https://techcrunch.com/2023/07/26/waymo-puts-the-brakes-on-self-driving-trucks-program/)
+* [2023-07-27, 12:31:21](https://news.ycombinator.com/item?id=36892451) - [EU opens Microsoft antitrust investigation into Teams bundling](https://www.theverge.com/2023/7/27/23797305/microsoft-teams-eu-antitrust-investigation-office-bundling-slack)
 * [2023-07-27, 12:26:56](https://news.ycombinator.com/item?id=36892412) - [Coal use hit an all-time high last year](https://www.cnbc.com/2023/07/27/coal-consumption-hit-an-all-time-high-in-2022-iea-says.html)
 * [2023-07-27, 12:15:04](https://news.ycombinator.com/item?id=36892311) - [Stack Overflow Announces OverflowAI [video]](https://www.youtube.com/watch?v=DM9-cYyeaDg)
 * [2023-07-27, 12:15:04](https://news.ycombinator.com/item?id=36892311) - [OverflowAI](https://stackoverflow.blog/2023/07/27/announcing-overflowai/)
