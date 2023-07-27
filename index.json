@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-27, 12:33:21",
+      "https://news.ycombinator.com/item?id=36892476"
+    ],
+    [
+      "Waymo puts the brakes on self-driving trucks program",
+      "https://techcrunch.com/2023/07/26/waymo-puts-the-brakes-on-self-driving-trucks-program/"
+    ]
+  ],
+  [
+    [
+      "2023-07-27, 12:26:56",
+      "https://news.ycombinator.com/item?id=36892412"
+    ],
+    [
+      "Coal use hit an all-time high last year",
+      "https://www.cnbc.com/2023/07/27/coal-consumption-hit-an-all-time-high-in-2022-iea-says.html"
+    ]
+  ],
+  [
+    [
       "2023-07-27, 12:15:04",
       "https://news.ycombinator.com/item?id=36892311"
     ],
@@ -31,6 +51,16 @@
   ],
   [
     [
+      "2023-07-27, 08:43:23",
+      "https://news.ycombinator.com/item?id=36890681"
+    ],
+    [
+      "The Adapter Pattern in Go",
+      "https://bitfieldconsulting.com/golang/adapter"
+    ]
+  ],
+  [
+    [
       "2023-07-27, 07:37:35",
       "https://news.ycombinator.com/item?id=36890209"
     ],
@@ -47,16 +77,6 @@
     [
       "How to scale LLMs better with an alternative to transformers",
       "https://hazyresearch.stanford.edu/blog/2023-07-25-m2-bert"
-    ]
-  ],
-  [
-    [
-      "2023-07-27, 06:28:08",
-      "https://news.ycombinator.com/item?id=36889703"
-    ],
-    [
-      "Stack Overflow's CEO Doesn't Understand Stack Overflow",
-      "https://jlericson.com/2023/07/26/not_understanding.html"
     ]
   ],
   [
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2023-07-26, 12:32:15",
-      "https://news.ycombinator.com/item?id=36876556"
-    ],
-    [
-      "Visualizing every job in the world",
-      "https://duarteocarmo.com/blog/every-job-world"
-    ]
-  ],
-  [
-    [
       "2023-07-26, 09:32:05",
       "https://news.ycombinator.com/item?id=36875042"
     ],
     [
       "Mathematics in Movies",
       "https://people.math.harvard.edu/~knill/mathmovies/"
-    ]
-  ],
-  [
-    [
-      "2023-07-26, 08:57:33",
-      "https://news.ycombinator.com/item?id=36874821"
-    ],
-    [
-      "Mind Grenade (2019)",
-      "https://www.fourmilab.ch/webtools/MindGrenade/"
     ]
   ],
   [
