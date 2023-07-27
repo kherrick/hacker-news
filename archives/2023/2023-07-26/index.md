@@ -46,6 +46,7 @@
 * [2023-07-26, 16:43:52](https://news.ycombinator.com/item?id=36880664) - [S&P500 Normalized with M2](https://twitter.com/Tsartoshi/status/1680128816788779008)
 * [2023-07-26, 16:42:52](https://news.ycombinator.com/item?id=36880652) - [EXGBoost: Gradient Boosting in Elixir](https://dockyard.com/blog/2023/07/18/introducing-exgboost-gradient-boosting-in-elixir)
 * [2023-07-26, 16:41:49](https://news.ycombinator.com/item?id=36880639) - [Study shows glyphosate impairs learning in bumblebees](https://phys.org/news/2023-07-glyphosate-impairs-bumblebees.html)
+* [2023-07-26, 16:32:36](https://news.ycombinator.com/item?id=36880471) - [Former intel officer says 'non-human biologics’ found at alleged UFO crash sites](https://www.bbc.co.uk/news/live/world-us-canada-66307705)
 * [2023-07-26, 16:31:35](https://news.ycombinator.com/item?id=36880454) - [Public US hearing on UFOs [video]](https://www.youtube.com/watch?v=KQ7Dw-739VY)
 * [2023-07-26, 16:27:06](https://news.ycombinator.com/item?id=36880371) - [Scope of work: Template, examples, and best practices](https://blog.logrocket.com/scope-of-work-template-examples-best-practices/)
 * [2023-07-26, 16:19:56](https://news.ycombinator.com/item?id=36880248) - [The Young Women Who Were Tricked into Creating the Atomic Bomb](https://www.rollingstone.com/tv-movies/tv-movie-features/oppenheimer-manhattan-project-world-war-ii-women-oak-ridge-atomic-bomb-1234788186/)
