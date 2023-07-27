@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-27, 13:57:57](https://news.ycombinator.com/item?id=36893596) - [Emotionally Numb: Expertise Dulls Consumer Experience](https://academic.oup.com/jcr/article/48/3/355/6171148)
+* [2023-07-27, 13:22:41](https://news.ycombinator.com/item?id=36893071) - [Google's browser security plan slammed as dangerous, terrible, DRM for websites](https://www.theregister.com/2023/07/27/google_web_environment_integrity/)
 * [2023-07-27, 13:16:41](https://news.ycombinator.com/item?id=36892970) - [Wavy walls use fewer bricks than a straight wall (2020)](https://twistedsifter.com/2020/06/how-wavy-crinkle-crankle-walls-use-less-bricks-than-straight-walls/)
 * [2023-07-27, 13:09:49](https://news.ycombinator.com/item?id=36892870) - [Singapore to execute woman on drugs charge for the first time in 20 years](https://www.bbc.com/news/world-asia-66309347)
 * [2023-07-27, 13:03:38](https://news.ycombinator.com/item?id=36892794) - [Enhance – HTML-first full stack web framework](https://enhance.dev/)
@@ -21,14 +23,12 @@
 * [2023-07-27, 02:28:37](https://news.ycombinator.com/item?id=36888156) - [Google Web Environment Integrity Is the New Microsoft Trusted Computing](https://www.neelc.org/posts/google-webauth-palladium/)
 * [2023-07-27, 01:46:56](https://news.ycombinator.com/item?id=36887816) - [KernType – A Letter Spacing Game](https://type.method.ac/)
 * [2023-07-27, 01:31:45](https://news.ycombinator.com/item?id=36887712) - [An Internet Canvas](https://paper.mmm.dev/)
-* [2023-07-27, 01:31:35](https://news.ycombinator.com/item?id=36887711) - [Show HN: Litellm – Simple library to standardize OpenAI, Cohere, Azure LLM I/O](https://github.com/BerriAI/litellm)
 * [2023-07-27, 00:56:39](https://news.ycombinator.com/item?id=36887412) - [Chidori – Declarative framework for AI agents (Rust, Python, and Node.js)](https://github.com/ThousandBirdsInc/chidori)
 * [2023-07-27, 00:21:46](https://news.ycombinator.com/item?id=36887091) - [It's 2023, so of course I'm learning Common Lisp](https://log.schemescape.com/posts/programming-languages/learning-lisp-in-2023.html)
 * [2023-07-26, 23:28:42](https://news.ycombinator.com/item?id=36886605) - [Jupyter Notebook 7](https://blog.jupyter.org/announcing-jupyter-notebook-7-8d6d66126dcf?gi=91803318295b)
 * [2023-07-26, 17:46:30](https://news.ycombinator.com/item?id=36881808) - [Superconductor news: What’s claimed, and how strong the evidence seems to be](https://www.science.org/content/blog-post/breaking-superconductor-news)
 * [2023-07-26, 09:32:05](https://news.ycombinator.com/item?id=36875042) - [Mathematics in Movies](https://people.math.harvard.edu/~knill/mathmovies/)
 * [2023-07-26, 05:04:02](https://news.ycombinator.com/item?id=36873322) - [Xerox PARC Special](https://thechipletter.substack.com/p/chip-letter-links-no-21-xerox-parc)
-* [2023-07-26, 04:50:00](https://news.ycombinator.com/item?id=36873243) - [1901: Semiconductor rectifiers patented as “cat's whisker” detectors](https://www.computerhistory.org/siliconengine/semiconductor-rectifiers-patented-as-cats-whisker-detectors/)
 * [2023-07-25, 08:41:52](https://news.ycombinator.com/item?id=36859614) - [Paris to bring back swimming in Seine after 100 years](https://www.bbc.com/news/world-europe-66238618)
 
 ## [Archives](archives/index.md)
