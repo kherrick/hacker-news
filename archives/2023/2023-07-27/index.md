@@ -16,6 +16,7 @@
 * [2023-07-27, 20:07:22](https://news.ycombinator.com/item?id=36899404) - [Tesla has a range inflation problem](https://techcrunch.com/2023/07/27/tesla-has-a-range-inflation-problem/)
 * [2023-07-27, 19:54:17](https://news.ycombinator.com/item?id=36899224) - [Unpacking Xilinx 7-Series Bitstreams (2018)](https://www.kc8apf.net/2018/05/unpacking-xilinx-7-series-bitstreams-part-1/)
 * [2023-07-27, 19:53:54](https://news.ycombinator.com/item?id=36899221) - [Namibian fairy circle debate rages on: Sand termites or Turing mechanism?](https://arstechnica.com/science/2023/07/the-namibian-fairy-circle-debate-rages-on-could-it-be-sand-termites-after-all/)
+* [2023-07-27, 19:39:24](https://news.ycombinator.com/item?id=36899029) - [Kill DWM (on Windows11) for less input lag and better performance](https://github.com/nebuloss/killer)
 * [2023-07-27, 19:26:31](https://news.ycombinator.com/item?id=36898833) - [LAN Party](https://032c.com/magazine/berlin-review-lan-party)
 * [2023-07-27, 19:18:42](https://news.ycombinator.com/item?id=36898749) - [Commander Keen's Adaptive Tile Scrolling](https://fabiensanglard.net/ega/)
 * [2023-07-27, 19:08:10](https://news.ycombinator.com/item?id=36898612) - [Austral Programming Language](https://austral-lang.org)
