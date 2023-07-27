@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-27, 19:08:10](https://news.ycombinator.com/item?id=36898612) - [Austral Programming Language](https://austral-lang.org)
 * [2023-07-27, 18:37:53](https://news.ycombinator.com/item?id=36898217) - [Techdirt has been deleted from Bing and DuckDuckGo](https://www.techdirt.com/2023/07/27/techdirt-has-been-deleted-from-bing-and-duckduckgo/)
 * [2023-07-27, 18:18:47](https://news.ycombinator.com/item?id=36897958) - [Some alloys don't change size when heated – recent work on why](https://www.caltech.edu/about/news/some-alloys-dont-change-size-when-heated-we-now-know-why)
 * [2023-07-27, 17:59:35](https://news.ycombinator.com/item?id=36897670) - [Epilogue of my time working at Twitter](https://esthercrawford.medium.com/an-epilogue-to-my-time-working-at-twitter-24a126098246)
@@ -22,10 +23,9 @@
 * [2023-07-27, 07:13:04](https://news.ycombinator.com/item?id=36890036) - [How to scale LLMs better with an alternative to transformers](https://hazyresearch.stanford.edu/blog/2023-07-25-m2-bert)
 * [2023-07-27, 04:57:07](https://news.ycombinator.com/item?id=36889092) - [MacOS in QEMU – ARM edition [pdf]](https://kvm-forum.qemu.org/media/2023/submissions/GDRJLK/resources/macOS_in_QEMU_on_ARM_FhJY65D.pdf)
 * [2023-07-27, 04:33:56](https://news.ycombinator.com/item?id=36888954) - [Tarsnap outage postmortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
-* [2023-07-27, 04:32:46](https://news.ycombinator.com/item?id=36888948) - [Google Med-Palm M: Towards Generalist Biomedical AI](https://arxiv.org/abs/2307.14334)
 * [2023-07-27, 01:46:56](https://news.ycombinator.com/item?id=36887816) - [KernType – A Letter Spacing Game](https://type.method.ac/)
-* [2023-07-26, 17:46:30](https://news.ycombinator.com/item?id=36881808) - [Superconductor news: What’s claimed, and how strong the evidence seems to be](https://www.science.org/content/blog-post/breaking-superconductor-news)
 * [2023-07-26, 11:33:06](https://news.ycombinator.com/item?id=36875962) - [Show HN: I built a multiplayer Gameboy](https://github.com/tjholm/multiboy)
+* [2023-07-26, 11:18:49](https://news.ycombinator.com/item?id=36875815) - [An Introduction to Metaprogramming in Ruby](https://blog.appsignal.com/2023/07/26/an-introduction-to-metaprogramming-in-ruby.html)
 * [2023-07-26, 10:59:03](https://news.ycombinator.com/item?id=36875622) - [Plants that are signs of former human settlements](https://worldsensorium.com/your-legacy-on-earth-may-be-a-plant/)
 * [2023-07-26, 06:02:44](https://news.ycombinator.com/item?id=36873635) - [The Oldest and Most Expensive Rum in the World](https://harewood.org/about/blog/notes/the-oldest-and-most-expensive-rum-in-the-world/)
 * [2023-07-26, 05:04:02](https://news.ycombinator.com/item?id=36873322) - [Xerox PARC Special](https://thechipletter.substack.com/p/chip-letter-links-no-21-xerox-parc)
