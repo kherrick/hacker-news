@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-27, 09:41:11](https://news.ycombinator.com/item?id=36891135) - [Slack Is Down](https://status.slack.com/2023-07/08e3781ccbef33d5)
 * [2023-07-27, 09:11:06](https://news.ycombinator.com/item?id=36890901) - [Ask HN: Is Slack having some trouble?](https://news.ycombinator.com/item?id=36890901)
 * [2023-07-27, 08:43:23](https://news.ycombinator.com/item?id=36890681) - [The Adapter Pattern in Go](https://bitfieldconsulting.com/golang/adapter)
 * [2023-07-27, 07:37:35](https://news.ycombinator.com/item?id=36890209) - [Venetian Glass Beads May Be Oldest European Artifacts Found in North America](https://www.smithsonianmag.com/smart-news/tiny-blue-beads-european-artifact-north-america-old-180976966/)
 * [2023-07-27, 06:28:08](https://news.ycombinator.com/item?id=36889703) - [Stack Overflow's CEO Doesn't Understand Stack Overflow](https://jlericson.com/2023/07/26/not_understanding.html)
-* [2023-07-27, 05:59:07](https://news.ycombinator.com/item?id=36889484) - [Go 1.22 Inlining Overhaul](https://docs.google.com/document/d/1a6p7-nbk5PVyM1S2tmccFrrIuGzCyzclstBtaciHxVw/mobilebasic)
 * [2023-07-27, 05:16:44](https://news.ycombinator.com/item?id=36889213) - [OFDM: Emperor Has No Clothes?](https://ieeexplore.ieee.org/document/6512701)
 * [2023-07-27, 04:57:07](https://news.ycombinator.com/item?id=36889092) - [macOS in QEMU (ARM edition) [pdf]](https://kvm-forum.qemu.org/media/2023/submissions/GDRJLK/resources/macOS_in_QEMU_on_ARM_FhJY65D.pdf)
 * [2023-07-27, 04:33:56](https://news.ycombinator.com/item?id=36888954) - [Tarsnap outage postmortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)

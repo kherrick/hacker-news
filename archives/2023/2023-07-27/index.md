@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-27](index.md)
 
+* [2023-07-27, 09:41:11](https://news.ycombinator.com/item?id=36891135) - [Slack Is Down](https://status.slack.com/2023-07/08e3781ccbef33d5)
 * [2023-07-27, 09:11:06](https://news.ycombinator.com/item?id=36890901) - [Ask HN: Is Slack having some trouble?](https://news.ycombinator.com/item?id=36890901)
 * [2023-07-27, 08:43:23](https://news.ycombinator.com/item?id=36890681) - [The Adapter Pattern in Go](https://bitfieldconsulting.com/golang/adapter)
 * [2023-07-27, 07:37:35](https://news.ycombinator.com/item?id=36890209) - [Venetian Glass Beads May Be Oldest European Artifacts Found in North America](https://www.smithsonianmag.com/smart-news/tiny-blue-beads-european-artifact-north-america-old-180976966/)
