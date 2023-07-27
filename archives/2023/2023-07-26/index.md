@@ -89,6 +89,7 @@
 * [2023-07-26, 06:49:34](https://news.ycombinator.com/item?id=36873927) - [Systemctl –Force –Force Reboot](https://news.ycombinator.com/item?id=36873927)
 * [2023-07-26, 06:04:14](https://news.ycombinator.com/item?id=36873646) - [Japan’s population drops by nearly 800k](https://www.theguardian.com/world/2023/jul/26/japan-population-how-many-people-drops-first-time-births-deaths)
 * [2023-07-26, 05:38:50](https://news.ycombinator.com/item?id=36873516) - [Scientists Say Recycling Has Backfired Spectacularly](https://futurism.com/the-byte/scientists-recycling-backfired)
+* [2023-07-26, 04:50:00](https://news.ycombinator.com/item?id=36873243) - [1901: Semiconductor rectifiers patented as “cat's whisker” detectors](https://www.computerhistory.org/siliconengine/semiconductor-rectifiers-patented-as-cats-whisker-detectors/)
 * [2023-07-26, 04:34:15](https://news.ycombinator.com/item?id=36873131) - [Where do you discuss computer related stuff now?](https://lobste.rs/s/ih3cwj/where_do_you_discuss_computer_related)
 * [2023-07-26, 03:54:07](https://news.ycombinator.com/item?id=36872876) - [Netlify accounts are being suspended with no recourse](https://answers.netlify.com/t/my-netlify-account-ha-been-suspended-i-dont-know-why/97537)
 * [2023-07-26, 02:44:18](https://news.ycombinator.com/item?id=36872526) - [An Introduction to Saving Money](https://staythrive.com/saving-money/)
