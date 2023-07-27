@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-27, 14:59:34](https://news.ycombinator.com/item?id=36894613) - [Room Temperature, Ambient Pressure Superconductivity–This Time for Real?](https://scanalyst.fourmilab.ch/t/room-temperature-ambient-pressure-superconductivity-this-time-for-real/3512)
+* [2023-07-27, 14:19:31](https://news.ycombinator.com/item?id=36893965) - [Understanding Battery Performance of IoT Devices](https://interrupt.memfault.com/blog/monitoring-battery-life)
 * [2023-07-27, 14:16:05](https://news.ycombinator.com/item?id=36893922) - [Time Card Mini Adds Pi, GPS, and OXCO to Your PC](https://www.jeffgeerling.com/blog/2023/time-card-mini-adds-pi-gps-and-oxco-your-pc)
 * [2023-07-27, 14:01:08](https://news.ycombinator.com/item?id=36893654) - [Brave is a fork, not a Chromium reskinn](https://twitter.com/BrendanEich/status/1684561924191842304)
 * [2023-07-27, 13:57:57](https://news.ycombinator.com/item?id=36893596) - [Emotionally Numb: Expertise Dulls Consumer Experience (2021)](https://academic.oup.com/jcr/article/48/3/355/6171148)
@@ -13,7 +14,6 @@
 * [2023-07-27, 10:44:17](https://news.ycombinator.com/item?id=36891642) - [Tesla created secret team to suppress thousands of driving range complaints](https://www.reuters.com/investigates/special-report/tesla-batteries-range/)
 * [2023-07-27, 07:37:35](https://news.ycombinator.com/item?id=36890209) - [Venetian glass beads may be oldest European artifacts in North America (2021)](https://www.smithsonianmag.com/smart-news/tiny-blue-beads-european-artifact-north-america-old-180976966/)
 * [2023-07-27, 07:13:04](https://news.ycombinator.com/item?id=36890036) - [How to scale LLMs better with an alternative to transformers](https://hazyresearch.stanford.edu/blog/2023-07-25-m2-bert)
-* [2023-07-27, 05:16:44](https://news.ycombinator.com/item?id=36889213) - [Exploring Orthogonal Frequency Division Modulation](https://ieeexplore.ieee.org/document/6512701)
 * [2023-07-27, 04:57:07](https://news.ycombinator.com/item?id=36889092) - [MacOS in QEMU – ARM edition [pdf]](https://kvm-forum.qemu.org/media/2023/submissions/GDRJLK/resources/macOS_in_QEMU_on_ARM_FhJY65D.pdf)
 * [2023-07-27, 04:33:56](https://news.ycombinator.com/item?id=36888954) - [Tarsnap outage postmortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
 * [2023-07-27, 04:32:46](https://news.ycombinator.com/item?id=36888948) - [Google Med-Palm M: Towards Generalist Biomedical AI](https://arxiv.org/abs/2307.14334)
