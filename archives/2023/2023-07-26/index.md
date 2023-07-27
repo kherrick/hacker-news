@@ -86,6 +86,7 @@
 * [2023-07-26, 11:19:07](https://news.ycombinator.com/item?id=36875816) - [How MOS 6502 Illegal Opcodes work](https://www.pagetable.com/?p=39)
 * [2023-07-26, 11:18:49](https://news.ycombinator.com/item?id=36875815) - [An Introduction to Metaprogramming in Ruby](https://blog.appsignal.com/2023/07/26/an-introduction-to-metaprogramming-in-ruby.html)
 * [2023-07-26, 10:59:03](https://news.ycombinator.com/item?id=36875622) - [Legacy on Earth May Be a Plant](https://worldsensorium.com/your-legacy-on-earth-may-be-a-plant/)
+* [2023-07-26, 10:47:59](https://news.ycombinator.com/item?id=36875524) - [How to Be Blind](https://www.newyorker.com/culture/the-weekend-essay/how-to-be-blind)
 * [2023-07-26, 10:47:02](https://news.ycombinator.com/item?id=36875513) - [1Sub.dev – A world where people pay for software](https://1sub.dev/)
 * [2023-07-26, 10:43:12](https://news.ycombinator.com/item?id=36875481) - [NASA funds 11 moon projects to help mission to 'live off the land](https://www.washingtonpost.com/technology/2023/07/25/nasa-moon-artemis/)
 * [2023-07-26, 10:04:27](https://news.ycombinator.com/item?id=36875226) - [Google engineers want to make ad-blocking (near) impossible](https://stackdiary.com/web-environment-integrity/)

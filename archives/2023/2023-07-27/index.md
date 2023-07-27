@@ -10,6 +10,7 @@
 * [2023-07-27, 20:10:48](https://news.ycombinator.com/item?id=36899461) - [Hydraulic Steering – Principles of Operation (1956) [video]](https://www.youtube.com/watch?v=VDiOKqMKTO8)
 * [2023-07-27, 20:07:22](https://news.ycombinator.com/item?id=36899404) - [Tesla has a range inflation problem](https://techcrunch.com/2023/07/27/tesla-has-a-range-inflation-problem/)
 * [2023-07-27, 19:54:17](https://news.ycombinator.com/item?id=36899224) - [Unpacking Xilinx 7-Series Bitstreams (2018)](https://www.kc8apf.net/2018/05/unpacking-xilinx-7-series-bitstreams-part-1/)
+* [2023-07-27, 19:26:31](https://news.ycombinator.com/item?id=36898833) - [LAN Party](https://032c.com/magazine/berlin-review-lan-party)
 * [2023-07-27, 19:18:42](https://news.ycombinator.com/item?id=36898749) - [Commander Keen's Adaptive Tile Scrolling](https://fabiensanglard.net/ega/)
 * [2023-07-27, 19:08:10](https://news.ycombinator.com/item?id=36898612) - [Austral Programming Language](https://austral-lang.org)
 * [2023-07-27, 19:00:36](https://news.ycombinator.com/item?id=36898503) - [Show HN: Pebble Finance – Personalize Your Investments Today](https://pebble.finance/themes)
