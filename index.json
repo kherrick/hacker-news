@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-07-27, 16:46:40",
+      "https://news.ycombinator.com/item?id=36896343"
+    ],
+    [
+      "Bootstrapping to €600k MRR and getting killed by Shopify",
+      "https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x"
+    ]
+  ],
+  [
+    [
+      "2023-07-27, 16:42:06",
+      "https://news.ycombinator.com/item?id=36896273"
+    ],
+    [
+      "House Judiciary panel plans contempt proceedings for Mark Zuckerberg",
+      "https://www.nbcnews.com/politics/congress/house-judiciary-plans-contempt-proceedings-mark-zuckerberg-rcna96297"
+    ]
+  ],
+  [
+    [
+      "2023-07-27, 16:27:34",
+      "https://news.ycombinator.com/item?id=36896034"
+    ],
+    [
+      "A Modern High-Performance Open Source Message Queuing System",
+      "https://bloomberg.github.io/blazingmq/"
+    ]
+  ],
+  [
+    [
+      "2023-07-27, 16:19:34",
+      "https://news.ycombinator.com/item?id=36895887"
+    ],
+    [
+      "Visa-free travel to Europe for U.S. citizens to end in 2024,requiring ETIAS form",
+      "https://www.npr.org/2023/07/27/1190453405/europe-travel-visa-etias-how-to-apply"
+    ]
+  ],
+  [
+    [
       "2023-07-27, 16:15:10",
       "https://news.ycombinator.com/item?id=36895827"
     ],
@@ -85,7 +125,7 @@
       "https://news.ycombinator.com/item?id=36894613"
     ],
     [
-      "Room Temperature, Ambient Pressure Superconductivity–This Time for Real?",
+      "Room temperature, ambient pressure superconductivity – This time for real?",
       "https://scanalyst.fourmilab.ch/t/room-temperature-ambient-pressure-superconductivity-this-time-for-real/3512"
     ]
   ],
@@ -107,16 +147,6 @@
     [
       "Understanding Battery Performance of IoT Devices",
       "https://interrupt.memfault.com/blog/monitoring-battery-life"
-    ]
-  ],
-  [
-    [
-      "2023-07-27, 14:16:05",
-      "https://news.ycombinator.com/item?id=36893922"
-    ],
-    [
-      "Time Card Mini Adds Pi, GPS, and OXCO to Your PC",
-      "https://www.jeffgeerling.com/blog/2023/time-card-mini-adds-pi-gps-and-oxco-your-pc"
     ]
   ],
   [
@@ -161,32 +191,12 @@
   ],
   [
     [
-      "2023-07-27, 12:31:21",
-      "https://news.ycombinator.com/item?id=36892451"
-    ],
-    [
-      "EU opens Microsoft antitrust investigation into Teams bundling",
-      "https://www.theverge.com/2023/7/27/23797305/microsoft-teams-eu-antitrust-investigation-office-bundling-slack"
-    ]
-  ],
-  [
-    [
       "2023-07-27, 12:01:15",
       "https://news.ycombinator.com/item?id=36892189"
     ],
     [
       "Memfault (YC W19) Is Hiring an Embedded Linux Engineer",
       "https://jobs.lever.co/memfault/5bcd5431-5d94-4a3c-a99a-950ffd85851b"
-    ]
-  ],
-  [
-    [
-      "2023-07-27, 10:56:09",
-      "https://news.ycombinator.com/item?id=36891735"
-    ],
-    [
-      "How I test site speed changes using Chrome's local overrides (2021)",
-      "https://tryblackbird.com/blog/local-overrides"
     ]
   ],
   [
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2023-07-27, 04:32:46",
-      "https://news.ycombinator.com/item?id=36888948"
-    ],
-    [
-      "Google Med-Palm M: Towards Generalist Biomedical AI",
-      "https://arxiv.org/abs/2307.14334"
-    ]
-  ],
-  [
-    [
-      "2023-07-27, 03:43:31",
-      "https://news.ycombinator.com/item?id=36888667"
-    ],
-    [
-      "Data diffs: Algorithms for explaining what changed in a dataset (2022)",
-      "https://blog.marcua.net/2022/02/20/data-diffs-algorithms-for-explaining-what-changed-in-a-dataset.html"
-    ]
-  ],
-  [
-    [
       "2023-07-27, 03:34:01",
       "https://news.ycombinator.com/item?id=36888598"
     ],
@@ -287,6 +277,16 @@
     [
       "Show HN: I built a multiplayer Gameboy",
       "https://github.com/tjholm/multiboy"
+    ]
+  ],
+  [
+    [
+      "2023-07-26, 06:02:44",
+      "https://news.ycombinator.com/item?id=36873635"
+    ],
+    [
+      "The Oldest and Most Expensive Rum in the World",
+      "https://harewood.org/about/blog/notes/the-oldest-and-most-expensive-rum-in-the-world/"
     ]
   ],
   [
