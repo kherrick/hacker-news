@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-27](index.md)
 
+* [2023-07-27, 20:07:22](https://news.ycombinator.com/item?id=36899404) - [Tesla has a range inflation problem](https://techcrunch.com/2023/07/27/tesla-has-a-range-inflation-problem/)
 * [2023-07-27, 19:08:10](https://news.ycombinator.com/item?id=36898612) - [Austral Programming Language](https://austral-lang.org)
+* [2023-07-27, 19:00:36](https://news.ycombinator.com/item?id=36898503) - [Show HN: Pebble Finance – Personalize Your Investments Today](https://pebble.finance/themes)
 * [2023-07-27, 18:37:53](https://news.ycombinator.com/item?id=36898217) - [Techdirt Has Been Deleted from Bing and DuckDuckGo](https://www.techdirt.com/2023/07/27/techdirt-has-been-deleted-from-bing-and-duckduckgo/)
 * [2023-07-27, 18:18:47](https://news.ycombinator.com/item?id=36897958) - [Some Alloys Don't Change Size When Heated. We Now Know Why](https://www.caltech.edu/about/news/some-alloys-dont-change-size-when-heated-we-now-know-why)
 * [2023-07-27, 17:59:35](https://news.ycombinator.com/item?id=36897670) - [Epilogue of my time working at Twitter](https://esthercrawford.medium.com/an-epilogue-to-my-time-working-at-twitter-24a126098246)
@@ -55,6 +57,7 @@
 * [2023-07-27, 06:19:17](https://news.ycombinator.com/item?id=36889636) - [Excess Death Rates for Registered Voters in Florida and Ohio](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2807617)
 * [2023-07-27, 05:59:07](https://news.ycombinator.com/item?id=36889484) - [Go 1.22 Inlining Overhaul](https://docs.google.com/document/d/1a6p7-nbk5PVyM1S2tmccFrrIuGzCyzclstBtaciHxVw/mobilebasic)
 * [2023-07-27, 05:43:22](https://news.ycombinator.com/item?id=36889385) - [eSIM is altering how consumers interact with operators](https://www.opensignal.com/2023/07/25/arrival-of-esim-is-altering-how-consumers-interact-with-operators)
+* [2023-07-27, 05:40:25](https://news.ycombinator.com/item?id=36889365) - [When Good Correlation Is Not Enough](https://hakibenita.com/postgresql-correlation-brin-multi-minmax)
 * [2023-07-27, 05:16:44](https://news.ycombinator.com/item?id=36889213) - [OFDM: Emperor Has No Clothes?](https://ieeexplore.ieee.org/document/6512701)
 * [2023-07-27, 05:08:18](https://news.ycombinator.com/item?id=36889163) - [Air Force selects AI-enabled predictive maintenance program as system of record](https://defensescoop.com/2023/05/10/air-force-selects-ai-enabled-predictive-maintenance-program-as-system-of-record/)
 * [2023-07-27, 04:57:07](https://news.ycombinator.com/item?id=36889092) - [macOS in QEMU (ARM edition) [pdf]](https://kvm-forum.qemu.org/media/2023/submissions/GDRJLK/resources/macOS_in_QEMU_on_ARM_FhJY65D.pdf)
