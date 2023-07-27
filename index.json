@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2023-07-27, 18:37:53",
-      "https://news.ycombinator.com/item?id=36898217"
-    ],
-    [
-      "Techdirt has been deleted from Bing and DuckDuckGo [fixed]",
-      "https://www.techdirt.com/2023/07/27/techdirt-has-been-deleted-from-bing-and-duckduckgo/"
-    ]
-  ],
-  [
-    [
       "2023-07-27, 18:18:47",
       "https://news.ycombinator.com/item?id=36897958"
     ],
@@ -197,6 +187,16 @@
     [
       "DHCP is not blocked by ufw/iptables",
       "https://unix.stackexchange.com/questions/447440/ufw-iptables-not-blocking-dhcp-udp-port-67#447524"
+    ]
+  ],
+  [
+    [
+      "2023-07-27, 14:19:31",
+      "https://news.ycombinator.com/item?id=36893965"
+    ],
+    [
+      "Understanding battery performance of IoT devices",
+      "https://interrupt.memfault.com/blog/monitoring-battery-life"
     ]
   ],
   [
