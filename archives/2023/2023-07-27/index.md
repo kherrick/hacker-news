@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-27](index.md)
 
+* [2023-07-27, 03:14:13](https://news.ycombinator.com/item?id=36888462) - [FBI Officer Speaks at Law School, Lists Food Not Bombs on “Terrorist Watch List” [pdf]](http://foodnotbombs.net/FBI_officer_lists_FNB_austin.pdf)
 * [2023-07-27, 01:37:04](https://news.ycombinator.com/item?id=36887747) - [Pix surpasses credit and debit card transactions in Brazil](https://philaverse.substack.com/p/report-pix-surpasses-credit-and-debit)
 * [2023-07-27, 01:32:40](https://news.ycombinator.com/item?id=36887721) - [Pull of the Undercurl](https://ryantravitz.com/blog/2023-02-18-pull-of-the-undercurl/)
 * [2023-07-27, 01:31:35](https://news.ycombinator.com/item?id=36887711) - [Show HN: Litellm – simple library to standardize OpenAI, Cohere, Azure LLM I/O](https://github.com/BerriAI/litellm)

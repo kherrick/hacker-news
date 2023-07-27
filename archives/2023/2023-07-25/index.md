@@ -72,6 +72,7 @@
 * [2023-07-25, 09:33:16](https://news.ycombinator.com/item?id=36859956) - [Before the Internet, there was The Fontana Dictionary of Modern Thought](https://everything.intellectronica.net/p/the-fontana)
 * [2023-07-25, 09:20:50](https://news.ycombinator.com/item?id=36859880) - [Textual Paint – MS Paint in your terminal](https://github.com/1j01/textual-paint)
 * [2023-07-25, 09:04:21](https://news.ycombinator.com/item?id=36859785) - [From Python to Elixir Machine Learning](https://www.thestackcanary.com/from-python-pytorch-to-elixir-nx/)
+* [2023-07-25, 08:41:52](https://news.ycombinator.com/item?id=36859614) - [Paris to bring back swimming in Seine after 100 years](https://www.bbc.com/news/world-europe-66238618)
 * [2023-07-25, 08:26:22](https://news.ycombinator.com/item?id=36859510) - [I've skimmed 66520 newsgroups trying to find some life on the Usenet (2020)](https://mastodon.sdf.org/@cfenollosa/103469996345323076)
 * [2023-07-25, 07:14:38](https://news.ycombinator.com/item?id=36859018) - [Practical Comparison of ARM Compilers](https://m0agx.eu/practical-comparison-of-ARM-compilers.html)
 * [2023-07-25, 06:38:57](https://news.ycombinator.com/item?id=36858774) - [The 'eval' pattern for interpreting simple languages](https://utcc.utoronto.ca/~cks/space/blog/programming/SimpleLanguageEvalPattern)
