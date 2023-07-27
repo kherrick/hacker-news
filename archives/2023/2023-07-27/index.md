@@ -9,6 +9,7 @@
 * [2023-07-27, 13:57:57](https://news.ycombinator.com/item?id=36893596) - [Emotionally Numb: Expertise Dulls Consumer Experience](https://academic.oup.com/jcr/article/48/3/355/6171148)
 * [2023-07-27, 13:22:41](https://news.ycombinator.com/item?id=36893071) - [Google's browser security plan slammed as dangerous, terrible, DRM for websites](https://www.theregister.com/2023/07/27/google_web_environment_integrity/)
 * [2023-07-27, 13:16:41](https://news.ycombinator.com/item?id=36892970) - [Wavy walls use fewer bricks than a straight wall (2020)](https://twistedsifter.com/2020/06/how-wavy-crinkle-crankle-walls-use-less-bricks-than-straight-walls/)
+* [2023-07-27, 13:10:07](https://news.ycombinator.com/item?id=36892874) - [Do Unforgettable Work](https://taylor.town/do-unforgettable-work)
 * [2023-07-27, 13:09:49](https://news.ycombinator.com/item?id=36892870) - [Singapore to kill first woman in 20 years over 2 oz heroin](https://www.bbc.com/news/world-asia-66309347)
 * [2023-07-27, 13:03:38](https://news.ycombinator.com/item?id=36892794) - [Enhance – The HTML first full stack web framework](https://enhance.dev/)
 * [2023-07-27, 12:36:11](https://news.ycombinator.com/item?id=36892506) - [Automakers Try to BS Their Way Past ‘Right to Repair’ Standoff in Massachusetts](https://www.techdirt.com/2023/07/27/__trashed-4/)
