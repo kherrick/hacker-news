@@ -28,7 +28,7 @@
 * [2023-07-26, 12:32:15](https://news.ycombinator.com/item?id=36876556) - [Visualizing every job in the world](https://duarteocarmo.com/blog/every-job-world)
 * [2023-07-26, 09:32:05](https://news.ycombinator.com/item?id=36875042) - [Mathematics in Movies](https://people.math.harvard.edu/~knill/mathmovies/)
 * [2023-07-26, 08:57:33](https://news.ycombinator.com/item?id=36874821) - [Mind Grenade (2019)](https://www.fourmilab.ch/webtools/MindGrenade/)
-* [2023-07-26, 04:50:00](https://news.ycombinator.com/item?id=36873243) - [1901: Semiconductor rectifiers patented as “cat's whisker” detectors](https://www.computerhistory.org/siliconengine/semiconductor-rectifiers-patented-as-cats-whisker-detectors/)
+* [2023-07-26, 05:04:02](https://news.ycombinator.com/item?id=36873322) - [Xerox PARC Special](https://thechipletter.substack.com/p/chip-letter-links-no-21-xerox-parc)
 * [2023-07-25, 08:41:52](https://news.ycombinator.com/item?id=36859614) - [Paris to bring back swimming in Seine after 100 years](https://www.bbc.com/news/world-europe-66238618)
 
 ## [Archives](archives/index.md)
