@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-27](index.md)
 
+* [2023-07-27, 12:01:15](https://news.ycombinator.com/item?id=36892189) - [Memfault (YC W19) Is Hiring an Embedded Linux Engineer](https://jobs.lever.co/memfault/5bcd5431-5d94-4a3c-a99a-950ffd85851b)
+* [2023-07-27, 10:56:09](https://news.ycombinator.com/item?id=36891735) - [How I test site speed changes using Chrome's local overrides (2021)](https://tryblackbird.com/blog/local-overrides)
 * [2023-07-27, 09:41:11](https://news.ycombinator.com/item?id=36891135) - [Slack Is Down](https://status.slack.com/2023-07/08e3781ccbef33d5)
 * [2023-07-27, 09:11:06](https://news.ycombinator.com/item?id=36890901) - [Ask HN: Is Slack having some trouble?](https://news.ycombinator.com/item?id=36890901)
 * [2023-07-27, 08:43:23](https://news.ycombinator.com/item?id=36890681) - [The Adapter Pattern in Go](https://bitfieldconsulting.com/golang/adapter)
