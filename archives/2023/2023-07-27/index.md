@@ -12,6 +12,7 @@
 * [2023-07-27, 15:39:08](https://news.ycombinator.com/item?id=36895220) - [Launch HN: PeerDB (YC S23) – Fast, Native ETL/ELT for Postgres](https://news.ycombinator.com/item?id=36895220)
 * [2023-07-27, 15:07:45](https://news.ycombinator.com/item?id=36894749) - [Fiber-infused ink enables 3D-printed heart muscle to beat](https://seas.harvard.edu/news/2023/07/fiber-infused-ink-enables-3d-printed-heart-muscle-beat)
 * [2023-07-27, 14:59:34](https://news.ycombinator.com/item?id=36894613) - [Room Temperature, Ambient Pressure Superconductivity–This Time for Real?](https://scanalyst.fourmilab.ch/t/room-temperature-ambient-pressure-superconductivity-this-time-for-real/3512)
+* [2023-07-27, 14:32:23](https://news.ycombinator.com/item?id=36894198) - [DHCP is not blocked by ufw/iptables](https://unix.stackexchange.com/questions/447440/ufw-iptables-not-blocking-dhcp-udp-port-67#447524)
 * [2023-07-27, 14:19:31](https://news.ycombinator.com/item?id=36893965) - [Understanding Battery Performance of IoT Devices](https://interrupt.memfault.com/blog/monitoring-battery-life)
 * [2023-07-27, 14:16:05](https://news.ycombinator.com/item?id=36893922) - [Time Card Mini Adds Pi, GPS, and OXCO to Your PC](https://www.jeffgeerling.com/blog/2023/time-card-mini-adds-pi-gps-and-oxco-your-pc)
 * [2023-07-27, 14:01:08](https://news.ycombinator.com/item?id=36893654) - [Brave is a fork, not a Chromium reskinn](https://twitter.com/BrendanEich/status/1684561924191842304)
