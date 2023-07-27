@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-27, 06:19:17](https://news.ycombinator.com/item?id=36889636) - [Excess Death Rates for Registered Voters in Florida and Ohio](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2807617)
 * [2023-07-27, 05:08:18](https://news.ycombinator.com/item?id=36889163) - [Air Force selects AI-enabled predictive maintenance program as system of record](https://defensescoop.com/2023/05/10/air-force-selects-ai-enabled-predictive-maintenance-program-as-system-of-record/)
 * [2023-07-27, 04:57:07](https://news.ycombinator.com/item?id=36889092) - [macOS in QEMU (ARM edition) [pdf]](https://kvm-forum.qemu.org/media/2023/submissions/GDRJLK/resources/macOS_in_QEMU_on_ARM_FhJY65D.pdf)
 * [2023-07-27, 04:33:56](https://news.ycombinator.com/item?id=36888954) - [Tarsnap outage (July 2-3, 2023) postmortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
@@ -18,7 +19,6 @@
 * [2023-07-27, 00:21:46](https://news.ycombinator.com/item?id=36887091) - [It's 2023, so of course I'm learning Common Lisp](https://log.schemescape.com/posts/programming-languages/learning-lisp-in-2023.html)
 * [2023-07-26, 23:28:42](https://news.ycombinator.com/item?id=36886605) - [Jupyter Notebook 7](https://blog.jupyter.org/announcing-jupyter-notebook-7-8d6d66126dcf?gi=91803318295b)
 * [2023-07-26, 22:01:34](https://news.ycombinator.com/item?id=36885753) - [TiddlyPWA: putting TiddlyWiki on modern web app steroids](https://val.packett.cool/blog/tiddlypwa/)
-* [2023-07-26, 21:49:53](https://news.ycombinator.com/item?id=36885598) - [“It works on my machine” turns to “it works in my container”](https://dwdraju.medium.com/how-it-works-in-my-machine-turns-it-works-in-my-container-1b9a340ca43d)
 * [2023-07-26, 21:07:07](https://news.ycombinator.com/item?id=36885040) - [Kids Online Safety Act is still a danger to our rights online](https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online)
 * [2023-07-26, 19:22:01](https://news.ycombinator.com/item?id=36883436) - [Cultivating a state of mind where new ideas are born](https://www.henrikkarlsson.xyz/p/good-ideas)
 * [2023-07-26, 18:04:29](https://news.ycombinator.com/item?id=36882146) - [Show HN: Continue – Open-source coding autopilot](https://github.com/continuedev/continue)
