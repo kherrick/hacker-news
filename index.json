@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-27, 15:39:08",
+      "https://news.ycombinator.com/item?id=36895220"
+    ],
+    [
+      "Launch HN: PeerDB (YC S23) – Fast, Native ETL/ELT for Postgres",
+      "https://news.ycombinator.com/item?id=36895220"
+    ]
+  ],
+  [
+    [
       "2023-07-27, 15:07:45",
       "https://news.ycombinator.com/item?id=36894749"
     ],
@@ -67,6 +77,16 @@
     [
       "Emotionally Numb: Expertise Dulls Consumer Experience (2021)",
       "https://academic.oup.com/jcr/article/48/3/355/6171148"
+    ]
+  ],
+  [
+    [
+      "2023-07-27, 13:31:10",
+      "https://news.ycombinator.com/item?id=36893193"
+    ],
+    [
+      "SQLite Begin Concurrent",
+      "https://www.sqlite.org/cgi/src/doc/begin-concurrent/doc/begin_concurrent.md"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-07-27, 03:11:11",
-      "https://news.ycombinator.com/item?id=36888444"
-    ],
-    [
-      "Super sorry to the guy with the username reset on GitHub",
-      "https://discuss.systems/@adrian/110783401400871208"
-    ]
-  ],
-  [
-    [
       "2023-07-27, 02:28:37",
       "https://news.ycombinator.com/item?id=36888156"
     ],
@@ -241,26 +251,6 @@
   ],
   [
     [
-      "2023-07-27, 00:56:39",
-      "https://news.ycombinator.com/item?id=36887412"
-    ],
-    [
-      "Chidori – Declarative framework for AI agents (Rust, Python, and Node.js)",
-      "https://github.com/ThousandBirdsInc/chidori"
-    ]
-  ],
-  [
-    [
-      "2023-07-27, 00:21:46",
-      "https://news.ycombinator.com/item?id=36887091"
-    ],
-    [
-      "It's 2023, so of course I'm learning Common Lisp",
-      "https://log.schemescape.com/posts/programming-languages/learning-lisp-in-2023.html"
-    ]
-  ],
-  [
-    [
       "2023-07-26, 17:46:30",
       "https://news.ycombinator.com/item?id=36881808"
     ],
@@ -277,6 +267,16 @@
     [
       "Show HN: I built a multiplayer Gameboy",
       "https://github.com/tjholm/multiboy"
+    ]
+  ],
+  [
+    [
+      "2023-07-26, 11:32:46",
+      "https://news.ycombinator.com/item?id=36875958"
+    ],
+    [
+      "Weizenbaum, AI Pioneer - Computer Power and Human Reason (1976) [pdf]",
+      "https://web.archive.org/web/20230215010739if_/http://blogs.evergreen.edu/cpat/files/2013/05/Computer-Power-and-Human-Reason.pdf"
     ]
   ],
   [
