@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-07-26](index.md)
 
+* [2023-07-26, 23:56:19](https://news.ycombinator.com/item?id=36886859) - [Exway doesn't care about USB-C conformity](https://ericswpark.com/blog/2023/2023-07-26-exway-doesnt-care-about-usb-c-conformity/)
 * [2023-07-26, 22:52:52](https://news.ycombinator.com/item?id=36886259) - [Whistleblower tells Congress US is concealing 'multi-decade' UFO capture program](https://www.washingtonpost.com/politics/2023/07/26/ufos-uaps-congress-whistleblower-spy-aliens/01081d9a-2bce-11ee-a948-a5b8a9b62d84_story.html)
 * [2023-07-26, 22:41:03](https://news.ycombinator.com/item?id=36886165) - [Meta to Charge Cloud Providers for AI Tech That It Said Was Free](https://www.bloomberg.com/news/articles/2023-07-26/meta-to-charge-cloud-providers-for-ai-tech-that-it-said-was-free)
 * [2023-07-26, 22:01:34](https://news.ycombinator.com/item?id=36885754) - [A beautiful, broken America: what I learned on a 2,800-mile bus ride](https://www.theguardian.com/travel/2023/jul/26/america-roadtrip-greyhound-bus)
+* [2023-07-26, 22:01:34](https://news.ycombinator.com/item?id=36885753) - [TiddlyPWA: putting TiddlyWiki on modern web app steroids](https://val.packett.cool/blog/tiddlypwa/)
 * [2023-07-26, 21:49:53](https://news.ycombinator.com/item?id=36885598) - [How “It works in my machine” turns to “It works in my container”](https://dwdraju.medium.com/how-it-works-in-my-machine-turns-it-works-in-my-container-1b9a340ca43d)
 * [2023-07-26, 21:31:58](https://news.ycombinator.com/item?id=36885368) - [Bit-Stealing Made Legal](https://inria.hal.science/hal-04165615/document)
 * [2023-07-26, 21:31:05](https://news.ycombinator.com/item?id=36885360) - [Fed raises rates 25 bps](https://www.federalreserve.gov/newsevents/pressreleases/monetary20230726a.htm)
