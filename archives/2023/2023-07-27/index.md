@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-27](index.md)
 
+* [2023-07-27, 04:33:56](https://news.ycombinator.com/item?id=36888954) - [Tarsnap outage (July 2-3, 2023) postmortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
 * [2023-07-27, 03:43:50](https://news.ycombinator.com/item?id=36888671) - [America Already Has an AI Underclass](https://www.theatlantic.com/technology/archive/2023/07/ai-chatbot-human-evaluator-feedback/674805/)
 * [2023-07-27, 03:43:31](https://news.ycombinator.com/item?id=36888667) - [Data diffs: Algorithms for explaining what changed in a dataset (2022)](https://blog.marcua.net/2022/02/20/data-diffs-algorithms-for-explaining-what-changed-in-a-dataset.html)
+* [2023-07-27, 03:34:01](https://news.ycombinator.com/item?id=36888598) - [Your Chromebook, Your Way](https://eupnea-linux.github.io/)
 * [2023-07-27, 03:14:13](https://news.ycombinator.com/item?id=36888462) - [FBI Officer Speaks at Law School, Lists Food Not Bombs on “Terrorist Watch List” [pdf]](http://foodnotbombs.net/FBI_officer_lists_FNB_austin.pdf)
 * [2023-07-27, 03:11:11](https://news.ycombinator.com/item?id=36888444) - [Super sorry to the guy with the username reset on GitHub](https://discuss.systems/@adrian/110783401400871208)
 * [2023-07-27, 02:51:05](https://news.ycombinator.com/item?id=36888299) - [White Flight from Asian Immigration: Evidence from California Public Schools](https://www.nber.org/papers/w31434)
