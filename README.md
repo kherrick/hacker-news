@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-27, 06:19:17](https://news.ycombinator.com/item?id=36889636) - [Excess Death Rates for Registered Voters in Florida and Ohio](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2807617)
 * [2023-07-27, 05:08:18](https://news.ycombinator.com/item?id=36889163) - [Air Force selects AI-enabled predictive maintenance program as system of record](https://defensescoop.com/2023/05/10/air-force-selects-ai-enabled-predictive-maintenance-program-as-system-of-record/)
 * [2023-07-27, 04:57:07](https://news.ycombinator.com/item?id=36889092) - [macOS in QEMU (ARM edition) [pdf]](https://kvm-forum.qemu.org/media/2023/submissions/GDRJLK/resources/macOS_in_QEMU_on_ARM_FhJY65D.pdf)
 * [2023-07-27, 04:33:56](https://news.ycombinator.com/item?id=36888954) - [Tarsnap outage (July 2-3, 2023) postmortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
@@ -9,6 +8,7 @@
 * [2023-07-27, 03:43:31](https://news.ycombinator.com/item?id=36888667) - [Data diffs: Algorithms for explaining what changed in a dataset (2022)](https://blog.marcua.net/2022/02/20/data-diffs-algorithms-for-explaining-what-changed-in-a-dataset.html)
 * [2023-07-27, 03:34:01](https://news.ycombinator.com/item?id=36888598) - [Your Chromebook, Your Way](https://eupnea-linux.github.io/)
 * [2023-07-27, 03:11:11](https://news.ycombinator.com/item?id=36888444) - [Super sorry to the guy with the username reset on GitHub](https://discuss.systems/@adrian/110783401400871208)
+* [2023-07-27, 03:10:38](https://news.ycombinator.com/item?id=36888442) - [Treat Your CI System as a Product for Faster and Better Feedback](https://www.infoq.com/news/2023/06/CI-product-feedback/)
 * [2023-07-27, 02:28:37](https://news.ycombinator.com/item?id=36888156) - [Google Web Environment Integrity Is the New Microsoft Trusted Computing](https://www.neelc.org/posts/google-webauth-palladium/)
 * [2023-07-27, 01:52:58](https://news.ycombinator.com/item?id=36887857) - [Japanese population falls in all 47 prefectures for the first time](https://www.japantimes.co.jp/news/2023/07/26/japan/society/number-of-japanese-drops-in-all-47-prefectures-for-first-time-as-foreign-population-surges/)
 * [2023-07-27, 01:32:40](https://news.ycombinator.com/item?id=36887721) - [Pull of the Undercurl](https://ryantravitz.com/blog/2023-02-18-pull-of-the-undercurl/)
