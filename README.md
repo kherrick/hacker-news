@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-27, 05:59:07](https://news.ycombinator.com/item?id=36889484) - [Go 1.22 Inlining Overhaul](https://docs.google.com/document/d/1a6p7-nbk5PVyM1S2tmccFrrIuGzCyzclstBtaciHxVw/mobilebasic)
 * [2023-07-27, 05:16:44](https://news.ycombinator.com/item?id=36889213) - [OFDM: Emperor Has No Clothes?](https://ieeexplore.ieee.org/document/6512701)
 * [2023-07-27, 05:08:18](https://news.ycombinator.com/item?id=36889163) - [Air Force selects AI-enabled predictive maintenance program as system of record](https://defensescoop.com/2023/05/10/air-force-selects-ai-enabled-predictive-maintenance-program-as-system-of-record/)
 * [2023-07-27, 04:57:07](https://news.ycombinator.com/item?id=36889092) - [macOS in QEMU (ARM edition) [pdf]](https://kvm-forum.qemu.org/media/2023/submissions/GDRJLK/resources/macOS_in_QEMU_on_ARM_FhJY65D.pdf)
@@ -25,6 +24,7 @@
 * [2023-07-26, 18:04:29](https://news.ycombinator.com/item?id=36882146) - [Show HN: Continue – Open-source coding autopilot](https://github.com/continuedev/continue)
 * [2023-07-26, 17:46:30](https://news.ycombinator.com/item?id=36881808) - [Superconductor news: What’s claimed, and how strong the evidence seems to be](https://www.science.org/content/blog-post/breaking-superconductor-news)
 * [2023-07-26, 17:09:53](https://news.ycombinator.com/item?id=36881133) - [Data brokers selling license plate location and analytics data](https://www.tlo.com/vehicle-sightings)
+* [2023-07-26, 15:34:43](https://news.ycombinator.com/item?id=36879461) - [Overture Maps Foundation releases open map dataset](https://overturemaps.org/overture-maps-foundation-releases-first-world-wide-open-map-dataset/)
 * [2023-07-26, 12:32:15](https://news.ycombinator.com/item?id=36876556) - [Visualizing every job in the world](https://duarteocarmo.com/blog/every-job-world)
 * [2023-07-26, 11:30:18](https://news.ycombinator.com/item?id=36875940) - [Unpacking Google’s Web Environment Integrity specification](https://vivaldi.com/blog/googles-new-dangerous-web-environment-integrity-spec/)
 * [2023-07-26, 08:57:33](https://news.ycombinator.com/item?id=36874821) - [Mind Grenade (2019)](https://www.fourmilab.ch/webtools/MindGrenade/)
