@@ -1,22 +1,32 @@
 [
   [
     [
+      "2023-07-27, 01:09:36",
+      "https://news.ycombinator.com/item?id=36887534"
+    ],
+    [
+      "Mastercard demands US cannabis shops stop accepting debit cards",
+      "https://www.bbc.com/news/world-us-canada-66320970"
+    ]
+  ],
+  [
+    [
+      "2023-07-27, 01:00:06",
+      "https://news.ycombinator.com/item?id=36887447"
+    ],
+    [
+      "Rainmaker (YC W23) Is Hiring",
+      "https://www.ycombinator.com/companies/rainmaker/jobs/wzsHtSb-platform-full-stack-engineer"
+    ]
+  ],
+  [
+    [
       "2023-07-27, 00:21:46",
       "https://news.ycombinator.com/item?id=36887091"
     ],
     [
       "It's 2023, so of course I'm learning Common Lisp",
       "https://log.schemescape.com/posts/programming-languages/learning-lisp-in-2023.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-27, 00:03:45",
-      "https://news.ycombinator.com/item?id=36886926"
-    ],
-    [
-      "California's War on Math",
-      "https://www.thefp.com/p/californias-war-on-math"
     ]
   ],
   [
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=36885598"
     ],
     [
-      "How “It works in my machine” turns to “It works in my container”",
+      "“It works on my machine” turns to “It works in my container”",
       "https://dwdraju.medium.com/how-it-works-in-my-machine-turns-it-works-in-my-container-1b9a340ca43d"
     ]
   ],
@@ -67,16 +77,6 @@
     [
       "Kids Online Safety Act is still a danger to our rights online",
       "https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online"
-    ]
-  ],
-  [
-    [
-      "2023-07-26, 21:00:25",
-      "https://news.ycombinator.com/item?id=36884950"
-    ],
-    [
-      "BuildZoom (better way to build custom homes) Is hiring a Growth Associate",
-      "https://jobs.lever.co/buildzoom"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2023-07-26, 16:03:05",
-      "https://news.ycombinator.com/item?id=36879991"
-    ],
-    [
-      "Smart Contract Security Field Guide",
-      "https://scsfg.io/"
-    ]
-  ],
-  [
-    [
       "2023-07-26, 15:34:43",
       "https://news.ycombinator.com/item?id=36879461"
     ],
@@ -277,6 +267,16 @@
     [
       "People over-emphasize the recycling aspect of \"reduce, reuse, recycle\"",
       "https://futurism.com/the-byte/scientists-recycling-backfired"
+    ]
+  ],
+  [
+    [
+      "2023-07-26, 04:50:00",
+      "https://news.ycombinator.com/item?id=36873243"
+    ],
+    [
+      "1901: Semiconductor rectifiers patented as “cat's whisker” detectors",
+      "https://www.computerhistory.org/siliconengine/semiconductor-rectifiers-patented-as-cats-whisker-detectors/"
     ]
   ],
   [
