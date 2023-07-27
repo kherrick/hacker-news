@@ -2,7 +2,6 @@
 
 * [2023-07-27, 09:41:11](https://news.ycombinator.com/item?id=36891135) - [Slack Is Down](https://status.slack.com/2023-07/08e3781ccbef33d5)
 * [2023-07-27, 09:11:06](https://news.ycombinator.com/item?id=36890901) - [Ask HN: Is Slack having some trouble?](https://news.ycombinator.com/item?id=36890901)
-* [2023-07-27, 08:43:23](https://news.ycombinator.com/item?id=36890681) - [The Adapter Pattern in Go](https://bitfieldconsulting.com/golang/adapter)
 * [2023-07-27, 07:37:35](https://news.ycombinator.com/item?id=36890209) - [Venetian Glass Beads May Be Oldest European Artifacts Found in North America](https://www.smithsonianmag.com/smart-news/tiny-blue-beads-european-artifact-north-america-old-180976966/)
 * [2023-07-27, 06:28:08](https://news.ycombinator.com/item?id=36889703) - [Stack Overflow's CEO Doesn't Understand Stack Overflow](https://jlericson.com/2023/07/26/not_understanding.html)
 * [2023-07-27, 05:16:44](https://news.ycombinator.com/item?id=36889213) - [OFDM: Emperor Has No Clothes?](https://ieeexplore.ieee.org/document/6512701)
@@ -29,6 +28,7 @@
 * [2023-07-26, 09:32:05](https://news.ycombinator.com/item?id=36875042) - [Mathematics in Movies](https://people.math.harvard.edu/~knill/mathmovies/)
 * [2023-07-26, 08:57:33](https://news.ycombinator.com/item?id=36874821) - [Mind Grenade (2019)](https://www.fourmilab.ch/webtools/MindGrenade/)
 * [2023-07-26, 05:04:02](https://news.ycombinator.com/item?id=36873322) - [Xerox PARC Special](https://thechipletter.substack.com/p/chip-letter-links-no-21-xerox-parc)
+* [2023-07-26, 04:50:00](https://news.ycombinator.com/item?id=36873243) - [1901: Semiconductor rectifiers patented as “cat's whisker” detectors](https://www.computerhistory.org/siliconengine/semiconductor-rectifiers-patented-as-cats-whisker-detectors/)
 * [2023-07-25, 08:41:52](https://news.ycombinator.com/item?id=36859614) - [Paris to bring back swimming in Seine after 100 years](https://www.bbc.com/news/world-europe-66238618)
 
 ## [Archives](archives/index.md)
