@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-07-27, 19:39:24",
-      "https://news.ycombinator.com/item?id=36899029"
-    ],
-    [
-      "Kill DWM (on Windows11) for less input lag and better performance",
-      "https://github.com/nebuloss/killer"
-    ]
-  ],
-  [
-    [
       "2023-07-27, 19:26:31",
       "https://news.ycombinator.com/item?id=36898833"
     ],
@@ -237,6 +227,16 @@
     [
       "Outliers can trick the optimizer into the wrong plan",
       "https://hakibenita.com/postgresql-correlation-brin-multi-minmax"
+    ]
+  ],
+  [
+    [
+      "2023-07-27, 04:33:56",
+      "https://news.ycombinator.com/item?id=36888954"
+    ],
+    [
+      "Tarsnap outage postmortem",
+      "https://mail.tarsnap.com/tarsnap-announce/msg00050.html"
     ]
   ],
   [
