@@ -129,6 +129,200 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="36895220">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=36895220"
+              >Launch HN: PeerDB (YC S23) – Fast, Native ETL/ELT for Postgres</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-07-27 @ 15:39:08</span
+              ><span class="points-container"
+                >Points: <span class="points">25</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36895220"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.peerdb.io/">https://www.peerdb.io/</a>), a
+              Postgres-first data-movement platform that makes moving data in
+              and out of Postgres fast and simple. PeerDB is free and open (<a
+                href="https://github.com/PeerDB-io/peerdb"
+                >https://github.com/PeerDB-io/peerdb</a
+              >) and we provide a Docker stack for users to try us out. Our repo
+              is at
+              <a href="https://github.com/PeerDB-io/peerdb"
+                >https://github.com/PeerDB-io/peerdb</a
+              >
+              and there’s a 5-minute quickstart here:
+              <a href="https://docs.peerdb.io/quickstart"
+                >https://docs.peerdb.io/quickstart</a
+              >.
+              <p>
+                For the past 8 years, working at Microsoft on Postgres on Azure,
+                and before that at Citus Data, I’ve worked closely with
+                customers running Postgres at the heart of their data stack,
+                storing anywhere from 10s of GB of data to 10s of TB.
+              </p>
+              <p>
+                This was when I got exposed to the challenges customers faced
+                when moving data in and out of Postgres. Usually they would try
+                existing ETL tools, fail, and decide to build in-house
+                solutions. Common issues with these tools included painfully
+                slow syncs - syncing 100s of GB of data took days; flaky and
+                unreliable - frequent crashes, loss of data precision on target
+                etc., and; feature-limited - lack of configurability,
+                unsupported data types and so on.
+              </p>
+              <p>
+                I remember a specific scenario where a tool didn’t support
+                something as simple as the Postgres’ COPY command to ingest
+                data. This would have improved the throughput by orders of
+                magnitude. We (customer and me) reached out to that company to
+                request them to add this feature. They couldn’t prioritize this
+                feature because it wasn’t very easy - their tech stack was
+                designed to support 100s of connectors rather than supporting a
+                native Postgres feature.
+              </p>
+              <p>
+                After multiple such occurrences, I thought, why not build a tool
+                specialized for Postgres, making the lives of many Postgres
+                users easier. I reached out to my long-time buddy Kaushik, who
+                was building operating systems at Google and had led data teams
+                at Safegraph and Palantir. We spent a few weeks building an MVP
+                that streamed data in real-time from Postgres to BigQuery. It
+                was 10 times faster than existing tools and maintained data
+                freshness of less than 30 seconds. We realized that there were
+                many Postgres native and infrastructural optimizations we could
+                do to provide a rich data-movement experience for Postgres
+                users. This is when we decided to start PeerDB!
+              </p>
+              <p>
+                We started with two main use cases: Real-time Change Data
+                Capture from Postgres (demo:
+                <a href="https://docs.peerdb.io/usecases/realtime-cdc#demo"
+                  >https://docs.peerdb.io/usecases/realtime-cdc#demo</a
+                >) and Real-time Streaming of query results from Postgres (demo:
+                <a
+                  href="https://docs.peerdb.io/usecases/realtime-streaming-of-query-results#demo"
+                  >https://docs.peerdb.io/usecases/realtime-streaming-of-query-...</a
+                >). The 2nd demo shows PeerDB streaming a table with 100M rows
+                from Postgres to Snowflake.
+              </p>
+              <p>
+                We implement multiple optimizations to provide a fast, reliable,
+                feature-rich experience. For performance, we can parallelize the
+                initial load of a large table, still ensuring consistency.
+                Syncing 100s of GB goes from days to minutes. We do this by
+                logically partitioning the table based on internal tuple
+                identifiers (CTID) and parallelly streaming those partitions
+                (inspired by this DuckDB blog -
+                <a
+                  href="https://duckdb.org/2022/09/30/postgres-scanner.html#parallelization"
+                  >https://duckdb.org/2022/09/30/postgres-scanner.html#parallel...</a
+                >)
+              </p>
+              <p>
+                For CDC, we don’t use Debezium, rather handle replication more
+                natively—reading the slot, replicating the changes, keeping
+                state etc. We made this choice mainly for flexibility. Staying
+                native helps us use existing and future Postgres enhancements
+                more effectively. For example, if the order of rows across
+                tables on the target is not important, we can parallelize
+                reading of a single slot across multiple tables and improve
+                performance. Our architecture is designed for real-time syncs,
+                which enables data-freshness of a few 10s of seconds even at
+                large throughputs (10k+ tps).
+              </p>
+              <p>
+                We have fault tolerance mechanisms for reliability (<a
+                  href="https://blog.peerdb.io/using-temporal-to-scale-data-synchronization-at-peerdb"
+                  >https://blog.peerdb.io/using-temporal-to-scale-data-synchron...</a
+                >) and support multiple features including log-based (CDC) /
+                query based streaming, efficient syncing of tables with large
+                (TOAST) columns, configurable batching and parallelism to
+                prevent OOMs and crashes etc.
+              </p>
+              <p>
+                For usability - we provide a Postgres compatible SQL layer for
+                data-movement. This makes the life of data engineers much
+                easier. They can develop pipelines using a framework they are
+                familiar with, without needing to deal with custom UIs and REST
+                APIs. They can use Postgres' 100s of integrations to build and
+                manage ETL. We extend Postgres' SQL grammar with a few new
+                intuitive SQL commands to enable real-time data streaming across
+                stores. Because of this, we were able to add dbt integration via
+                Dagster (in private preview) in a few hours! We expect
+                data-engineers to unravel similar integrations with PeerDB
+                easily, and plan to make this grammar richer as we evolve.
+              </p>
+              <p>
+                PeerDB consists of the following components to handle data
+                replication: (1) PeerDB Server uses the pgwire protocol to mimic
+                a PostgreSQL server, responsible for query routing and
+                generating gRPC requests to the Flow API. It relies on AST
+                analysis to make informed decisions on routing. (2) Flow API: an
+                API layer that deals with gRPC commands, orchestrating the data
+                sync operations; (3) Flow Workers execute the data read-write
+                operations from the source to the destination. Built to scale
+                horizontally, they interact with Temporal for increased
+                resilience. The types of data replication supported include CDC
+                streaming replication and query-based batch replication. Workers
+                do all of the heavy lifting, and have data store specific
+                optimizations.
+              </p>
+              <p>
+                Currently we support 6 target data stores (BigQuery, Snowflake,
+                Postgres, S3, Kafka etc) for data movement from Postgres. This
+                doc captures the current status of the connectors:
+                <a
+                  href="https://docs.peerdb.io/sql/commands/supported-connectors"
+                  >https://docs.peerdb.io/sql/commands/supported-connectors</a
+                >.
+              </p>
+              <p>
+                As we spoke to more customers, we realized that getting data
+                into PostgreSQL at scale is equally important and hard. For
+                example one of our customers wants to periodically sync data in
+                multiple SQL Server instances (running on the edge) to their
+                centralized Postgres database. Requests for Oracle to Postgres
+                migrations are also common. So now we’re also supporting source
+                data stores with Postgres as the target (currently SQL Server
+                and Postgres itself, with more to come).
+              </p>
+              <p>
+                We are actively working with customers to onboard them to our
+                self-hosted enterprise offering. Our fully hosted offering on
+                the cloud is in private preview. We haven’t yet decided on the
+                pricing. One common concern we’ve heard from customers is that
+                existing tools are expensive and charge based on the amount of
+                data transferred. To address this, we are considering a more
+                transparent way of pricing—for example, pricing based on
+                provisioned hardware (cpu, memory, disk). We’re open for
+                feedback on this!
+              </p>
+              <p>
+                Check out our github repo -
+                <a href="https://github.com/PeerDB-io/peerdb"
+                  >https://github.com/PeerDB-io/peerdb</a
+                >
+                and go ahead and give it a spin (5-minute quickstart
+                <a href="https://docs.peerdb.io/quickstart"
+                  >https://docs.peerdb.io/quickstart</a
+                >).
+              </p>
+              <p>
+                We want to provide the world’s best data-movement experience for
+                Postgres. We would love to get your feedback on product
+                experience, our thesis and anything else that comes to your
+                mind. It would be super useful for us. Thank you!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="36894749">
           <h3>
             <a
@@ -141,7 +335,7 @@
             <h4>
               <span>2023-07-27 @ 15:07:45</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36894749"
                   >Comments</a
@@ -163,11 +357,11 @@
             <h4>
               <span>2023-07-27 @ 14:59:34</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36894613"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 88</span></span
               >
             </h4>
           </section>
@@ -184,11 +378,11 @@
             <h4>
               <span>2023-07-27 @ 14:19:31</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36893965"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -205,11 +399,11 @@
             <h4>
               <span>2023-07-27 @ 14:16:05</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36893922"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -226,11 +420,11 @@
             <h4>
               <span>2023-07-27 @ 14:01:08</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36893654"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 122</span></span
               >
             </h4>
           </section>
@@ -247,11 +441,11 @@
             <h4>
               <span>2023-07-27 @ 14:00:18</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36893635"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -268,11 +462,32 @@
             <h4>
               <span>2023-07-27 @ 13:57:57</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36893596"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 43</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="36893193">
+          <h3>
+            <a
+              class="item"
+              href="https://www.sqlite.org/cgi/src/doc/begin-concurrent/doc/begin_concurrent.md"
+              >SQLite Begin Concurrent</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-07-27 @ 13:31:10</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36893193"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -289,11 +504,11 @@
             <h4>
               <span>2023-07-27 @ 13:16:41</span
               ><span class="points-container"
-                >Points: <span class="points">171</span></span
+                >Points: <span class="points">182</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36892970"
                   >Comments</a
-                ><span class="descendants">: 114</span></span
+                ><span class="descendants">: 118</span></span
               >
             </h4>
           </section>
@@ -308,11 +523,11 @@
             <h4>
               <span>2023-07-27 @ 13:10:07</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36892874"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -329,11 +544,11 @@
             <h4>
               <span>2023-07-27 @ 12:36:11</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36892506"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -350,11 +565,11 @@
             <h4>
               <span>2023-07-27 @ 12:31:21</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">143</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36892451"
                   >Comments</a
-                ><span class="descendants">: 108</span></span
+                ><span class="descendants">: 118</span></span
               >
             </h4>
           </section>
@@ -409,11 +624,11 @@
             <h4>
               <span>2023-07-27 @ 10:44:17</span
               ><span class="points-container"
-                >Points: <span class="points">435</span></span
+                >Points: <span class="points">465</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36891642"
                   >Comments</a
-                ><span class="descendants">: 322</span></span
+                ><span class="descendants">: 349</span></span
               >
             </h4>
           </section>
@@ -430,11 +645,11 @@
             <h4>
               <span>2023-07-27 @ 07:13:04</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36890036"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -451,11 +666,11 @@
             <h4>
               <span>2023-07-27 @ 04:57:07</span
               ><span class="points-container"
-                >Points: <span class="points">166</span></span
+                >Points: <span class="points">172</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36889092"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 67</span></span
               >
             </h4>
           </section>
@@ -472,11 +687,11 @@
             <h4>
               <span>2023-07-27 @ 04:33:56</span
               ><span class="points-container"
-                >Points: <span class="points">369</span></span
+                >Points: <span class="points">375</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36888954"
                   >Comments</a
-                ><span class="descendants">: 213</span></span
+                ><span class="descendants">: 219</span></span
               >
             </h4>
           </section>
@@ -495,7 +710,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36888948"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -513,7 +728,7 @@
             <h4>
               <span>2023-07-27 @ 03:43:31</span
               ><span class="points-container"
-                >Points: <span class="points">160</span></span
+                >Points: <span class="points">161</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36888667"
                   >Comments</a
@@ -532,32 +747,11 @@
             <h4>
               <span>2023-07-27 @ 03:34:01</span
               ><span class="points-container"
-                >Points: <span class="points">211</span></span
+                >Points: <span class="points">215</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36888598"
                   >Comments</a
                 ><span class="descendants">: 85</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="36888444">
-          <h3>
-            <a
-              class="item"
-              href="https://discuss.systems/@adrian/110783401400871208"
-              >Super sorry to the guy with the username reset on GitHub</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-07-27 @ 03:11:11</span
-              ><span class="points-container"
-                >Points: <span class="points">401</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36888444"
-                  >Comments</a
-                ><span class="descendants">: 218</span></span
               >
             </h4>
           </section>
@@ -575,11 +769,11 @@
             <h4>
               <span>2023-07-27 @ 02:28:37</span
               ><span class="points-container"
-                >Points: <span class="points">458</span></span
+                >Points: <span class="points">470</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36888156"
                   >Comments</a
-                ><span class="descendants">: 208</span></span
+                ><span class="descendants">: 215</span></span
               >
             </h4>
           </section>
@@ -594,11 +788,11 @@
             <h4>
               <span>2023-07-27 @ 01:46:56</span
               ><span class="points-container"
-                >Points: <span class="points">129</span></span
+                >Points: <span class="points">136</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36887816"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -611,52 +805,11 @@
             <h4>
               <span>2023-07-27 @ 01:31:45</span
               ><span class="points-container"
-                >Points: <span class="points">141</span></span
+                >Points: <span class="points">143</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36887712"
                   >Comments</a
                 ><span class="descendants">: 37</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="36887412">
-          <h3>
-            <a class="item" href="https://github.com/ThousandBirdsInc/chidori"
-              >Chidori – Declarative framework for AI agents (Rust, Python, and
-              Node.js)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-07-27 @ 00:56:39</span
-              ><span class="points-container"
-                >Points: <span class="points">136</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36887412"
-                  >Comments</a
-                ><span class="descendants">: 38</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="36887091">
-          <h3>
-            <a
-              class="item"
-              href="https://log.schemescape.com/posts/programming-languages/learning-lisp-in-2023.html"
-              >It's 2023, so of course I'm learning Common Lisp</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-07-27 @ 00:21:46</span
-              ><span class="points-container"
-                >Points: <span class="points">329</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36887091"
-                  >Comments</a
-                ><span class="descendants">: 287</span></span
               >
             </h4>
           </section>
@@ -674,11 +827,11 @@
             <h4>
               <span>2023-07-26 @ 17:46:30</span
               ><span class="points-container"
-                >Points: <span class="points">1092</span></span
+                >Points: <span class="points">1096</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36881808"
                   >Comments</a
-                ><span class="descendants">: 423</span></span
+                ><span class="descendants">: 424</span></span
               >
             </h4>
           </section>
@@ -693,11 +846,11 @@
             <h4>
               <span>2023-07-26 @ 11:33:06</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36875962"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
             <div class="text">
@@ -705,6 +858,28 @@
               this even in it's early state. Had heaps of fun building it to
               learn more about WebRTC.
             </div>
+          </section>
+        </section>
+        <section id="36875958">
+          <h3>
+            <a
+              class="item"
+              href="https://web.archive.org/web/20230215010739if_/http://blogs.evergreen.edu/cpat/files/2013/05/Computer-Power-and-Human-Reason.pdf"
+              >Weizenbaum, AI Pioneer - Computer Power and Human Reason (1976)
+              [pdf]</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-07-26 @ 11:32:46</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36875958"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
           </section>
         </section>
         <section id="36873322">
@@ -719,7 +894,7 @@
             <h4>
               <span>2023-07-26 @ 05:04:02</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36873322"
                   >Comments</a
@@ -740,11 +915,11 @@
             <h4>
               <span>2023-07-25 @ 08:41:52</span
               ><span class="points-container"
-                >Points: <span class="points">252</span></span
+                >Points: <span class="points">253</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36859614"
                   >Comments</a
-                ><span class="descendants">: 195</span></span
+                ><span class="descendants">: 198</span></span
               >
             </h4>
           </section>
