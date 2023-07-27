@@ -6,6 +6,8 @@
 
 * [2023-07-27, 15:57:29](https://news.ycombinator.com/item?id=36895536) - [Radioactivity in Food (Organic Food)](https://www.nrc.gov/about-nrc/radiation/around-us/doses-daily-lives.html)
 * [2023-07-27, 15:52:15](https://news.ycombinator.com/item?id=36895453) - [A Child's History of the World](https://gutenberg.org/cache/epub/67149/pg67149-images.html)
+* [2023-07-27, 15:46:28](https://news.ycombinator.com/item?id=36895354) - ['First Amendment Auditor' Sues NYPD over Right to Record in Police Stations](https://reason.com/2023/07/24/first-amendment-auditor-sues-nypd-over-right-to-record-in-police-stations/)
+* [2023-07-27, 15:45:18](https://news.ycombinator.com/item?id=36895320) - [Our Universe wasn’t empty, even before the Big Bang](https://bigthink.com/starts-with-a-bang/universe-wasnt-empty-before-big-bang/)
 * [2023-07-27, 15:44:10](https://news.ycombinator.com/item?id=36895300) - [LLaMA2 Chat 70B outperformed ChatGPT](https://tatsu-lab.github.io/alpaca_eval/)
 * [2023-07-27, 15:39:08](https://news.ycombinator.com/item?id=36895220) - [Launch HN: PeerDB (YC S23) – Fast, Native ETL/ELT for Postgres](https://news.ycombinator.com/item?id=36895220)
 * [2023-07-27, 15:07:45](https://news.ycombinator.com/item?id=36894749) - [Fiber-infused ink enables 3D-printed heart muscle to beat](https://seas.harvard.edu/news/2023/07/fiber-infused-ink-enables-3d-printed-heart-muscle-beat)

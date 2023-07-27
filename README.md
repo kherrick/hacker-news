@@ -2,13 +2,14 @@
 
 * [2023-07-27, 15:57:29](https://news.ycombinator.com/item?id=36895536) - [Radioactivity in Food (Organic Food)](https://www.nrc.gov/about-nrc/radiation/around-us/doses-daily-lives.html)
 * [2023-07-27, 15:52:15](https://news.ycombinator.com/item?id=36895453) - [A Child's History of the World](https://gutenberg.org/cache/epub/67149/pg67149-images.html)
+* [2023-07-27, 15:46:28](https://news.ycombinator.com/item?id=36895354) - ['First Amendment Auditor' Sues NYPD over Right to Record in Police Stations](https://reason.com/2023/07/24/first-amendment-auditor-sues-nypd-over-right-to-record-in-police-stations/)
+* [2023-07-27, 15:45:18](https://news.ycombinator.com/item?id=36895320) - [Our Universe wasn’t empty, even before the Big Bang](https://bigthink.com/starts-with-a-bang/universe-wasnt-empty-before-big-bang/)
 * [2023-07-27, 15:44:10](https://news.ycombinator.com/item?id=36895300) - [LLaMA2 Chat 70B outperformed ChatGPT](https://tatsu-lab.github.io/alpaca_eval/)
 * [2023-07-27, 15:39:08](https://news.ycombinator.com/item?id=36895220) - [Launch HN: PeerDB (YC S23) – Fast, Native ETL/ELT for Postgres](https://news.ycombinator.com/item?id=36895220)
 * [2023-07-27, 15:07:45](https://news.ycombinator.com/item?id=36894749) - [Fiber-infused ink enables 3D-printed heart muscle to beat](https://seas.harvard.edu/news/2023/07/fiber-infused-ink-enables-3d-printed-heart-muscle-beat)
 * [2023-07-27, 14:59:34](https://news.ycombinator.com/item?id=36894613) - [Room Temperature, Ambient Pressure Superconductivity–This Time for Real?](https://scanalyst.fourmilab.ch/t/room-temperature-ambient-pressure-superconductivity-this-time-for-real/3512)
 * [2023-07-27, 14:19:31](https://news.ycombinator.com/item?id=36893965) - [Understanding Battery Performance of IoT Devices](https://interrupt.memfault.com/blog/monitoring-battery-life)
 * [2023-07-27, 14:16:05](https://news.ycombinator.com/item?id=36893922) - [Time Card Mini Adds Pi, GPS, and OXCO to Your PC](https://www.jeffgeerling.com/blog/2023/time-card-mini-adds-pi-gps-and-oxco-your-pc)
-* [2023-07-27, 14:01:08](https://news.ycombinator.com/item?id=36893654) - [Brave is a fork, not a Chromium reskinn](https://twitter.com/BrendanEich/status/1684561924191842304)
 * [2023-07-27, 14:00:18](https://news.ycombinator.com/item?id=36893635) - [The Design Thinking Movement Is Absurd (2018)](https://sts-news.medium.com/the-design-thinking-movement-is-absurd-83df815b92ea)
 * [2023-07-27, 13:31:10](https://news.ycombinator.com/item?id=36893193) - [SQLite Begin Concurrent](https://www.sqlite.org/cgi/src/doc/begin-concurrent/doc/begin_concurrent.md)
 * [2023-07-27, 13:16:41](https://news.ycombinator.com/item?id=36892970) - [Wavy walls use fewer bricks than a straight wall (2020)](https://twistedsifter.com/2020/06/how-wavy-crinkle-crankle-walls-use-less-bricks-than-straight-walls/)
@@ -29,7 +30,6 @@
 * [2023-07-26, 11:33:06](https://news.ycombinator.com/item?id=36875962) - [Show HN: I built a multiplayer Gameboy](https://github.com/tjholm/multiboy)
 * [2023-07-26, 11:32:46](https://news.ycombinator.com/item?id=36875958) - [Weizenbaum, AI Pioneer - Computer Power and Human Reason (1976) [pdf]](https://web.archive.org/web/20230215010739if_/http://blogs.evergreen.edu/cpat/files/2013/05/Computer-Power-and-Human-Reason.pdf)
 * [2023-07-26, 05:04:02](https://news.ycombinator.com/item?id=36873322) - [Xerox PARC Special](https://thechipletter.substack.com/p/chip-letter-links-no-21-xerox-parc)
-* [2023-07-25, 08:41:52](https://news.ycombinator.com/item?id=36859614) - [Paris to bring back swimming in Seine after 100 years](https://www.bbc.com/news/world-europe-66238618)
 
 ## [Archives](archives/index.md)
 
