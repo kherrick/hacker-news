@@ -12,6 +12,7 @@
 * [2023-07-27, 03:14:13](https://news.ycombinator.com/item?id=36888462) - [FBI Officer Speaks at Law School, Lists Food Not Bombs on “Terrorist Watch List” [pdf]](http://foodnotbombs.net/FBI_officer_lists_FNB_austin.pdf)
 * [2023-07-27, 03:11:11](https://news.ycombinator.com/item?id=36888444) - [Super sorry to the guy with the username reset on GitHub](https://discuss.systems/@adrian/110783401400871208)
 * [2023-07-27, 02:51:05](https://news.ycombinator.com/item?id=36888299) - [White Flight from Asian Immigration: Evidence from California Public Schools](https://www.nber.org/papers/w31434)
+* [2023-07-27, 02:28:37](https://news.ycombinator.com/item?id=36888156) - [Google Web Environment Integrity Is the New Microsoft Trusted Computing](https://www.neelc.org/posts/google-webauth-palladium/)
 * [2023-07-27, 01:52:58](https://news.ycombinator.com/item?id=36887857) - [Japanese population falls in all 47 prefectures for the first time](https://www.japantimes.co.jp/news/2023/07/26/japan/society/number-of-japanese-drops-in-all-47-prefectures-for-first-time-as-foreign-population-surges/)
 * [2023-07-27, 01:37:04](https://news.ycombinator.com/item?id=36887747) - [Pix surpasses credit and debit card transactions in Brazil](https://philaverse.substack.com/p/report-pix-surpasses-credit-and-debit)
 * [2023-07-27, 01:32:40](https://news.ycombinator.com/item?id=36887721) - [Pull of the Undercurl](https://ryantravitz.com/blog/2023-02-18-pull-of-the-undercurl/)
