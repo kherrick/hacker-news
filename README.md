@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-27, 13:16:41](https://news.ycombinator.com/item?id=36892970) - [Wavy walls use fewer bricks than a straight wall (2020)](https://twistedsifter.com/2020/06/how-wavy-crinkle-crankle-walls-use-less-bricks-than-straight-walls/)
-* [2023-07-27, 13:09:49](https://news.ycombinator.com/item?id=36892870) - [Singapore to kill first woman in 20 years over 2 oz heroin](https://www.bbc.com/news/world-asia-66309347)
+* [2023-07-27, 13:09:49](https://news.ycombinator.com/item?id=36892870) - [Singapore to execute woman on drugs charge for the first time in 20 years](https://www.bbc.com/news/world-asia-66309347)
 * [2023-07-27, 13:03:38](https://news.ycombinator.com/item?id=36892794) - [Enhance – HTML-first full stack web framework](https://enhance.dev/)
-* [2023-07-27, 12:36:11](https://news.ycombinator.com/item?id=36892506) - [Automakers Try to BS Their Way Past ‘Right to Repair’ Standoff in Massachusetts](https://www.techdirt.com/2023/07/27/__trashed-4/)
+* [2023-07-27, 12:36:11](https://news.ycombinator.com/item?id=36892506) - [Automakers try to scuttle Massachusetts ‘right to repair’ law](https://www.techdirt.com/2023/07/27/__trashed-4/)
 * [2023-07-27, 12:33:21](https://news.ycombinator.com/item?id=36892476) - [Waymo puts the brakes on self-driving trucks program](https://techcrunch.com/2023/07/26/waymo-puts-the-brakes-on-self-driving-trucks-program/)
 * [2023-07-27, 12:31:21](https://news.ycombinator.com/item?id=36892451) - [EU opens Microsoft antitrust investigation into Teams bundling](https://www.theverge.com/2023/7/27/23797305/microsoft-teams-eu-antitrust-investigation-office-bundling-slack)
 * [2023-07-27, 12:01:15](https://news.ycombinator.com/item?id=36892189) - [Memfault (YC W19) Is Hiring an Embedded Linux Engineer](https://jobs.lever.co/memfault/5bcd5431-5d94-4a3c-a99a-950ffd85851b)
