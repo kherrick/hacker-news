@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-27, 03:14:13](https://news.ycombinator.com/item?id=36888462) - [FBI Officer Speaks at Law School, Lists Food Not Bombs on “Terrorist Watch List” [pdf] (2006)](http://foodnotbombs.net/FBI_officer_lists_FNB_austin.pdf)
+* [2023-07-27, 03:43:31](https://news.ycombinator.com/item?id=36888667) - [Data diffs: Algorithms for explaining what changed in a dataset (2022)](https://blog.marcua.net/2022/02/20/data-diffs-algorithms-for-explaining-what-changed-in-a-dataset.html)
+* [2023-07-27, 02:51:05](https://news.ycombinator.com/item?id=36888299) - [White Flight from Asian Immigration: Evidence from California Public Schools](https://www.nber.org/papers/w31434)
 * [2023-07-27, 01:37:04](https://news.ycombinator.com/item?id=36887747) - [Pix surpasses credit and debit card transactions in Brazil](https://philaverse.substack.com/p/report-pix-surpasses-credit-and-debit)
 * [2023-07-27, 01:32:40](https://news.ycombinator.com/item?id=36887721) - [Pull of the Undercurl](https://ryantravitz.com/blog/2023-02-18-pull-of-the-undercurl/)
 * [2023-07-27, 01:31:35](https://news.ycombinator.com/item?id=36887711) - [Show HN: Litellm – simple library to standardize OpenAI, Cohere, Azure LLM I/O](https://github.com/BerriAI/litellm)
@@ -19,7 +20,6 @@
 * [2023-07-26, 17:46:30](https://news.ycombinator.com/item?id=36881808) - [Superconductor news: What’s claimed, and how strong the evidence seems to be](https://www.science.org/content/blog-post/breaking-superconductor-news)
 * [2023-07-26, 17:09:53](https://news.ycombinator.com/item?id=36881133) - [Data brokers selling license plate location and analytics data](https://www.tlo.com/vehicle-sightings)
 * [2023-07-26, 16:48:42](https://news.ycombinator.com/item?id=36880756) - [Stable Diffusion XL 1.0](https://techcrunch.com/2023/07/26/stability-ai-releases-its-latest-image-generating-model-stable-diffusion-xl-1-0/)
-* [2023-07-26, 16:06:55](https://news.ycombinator.com/item?id=36880069) - [JEP 400: UTF-8 by Default](https://openjdk.org/jeps/400)
 * [2023-07-26, 15:34:43](https://news.ycombinator.com/item?id=36879461) - [Overture Maps Foundation releases open map dataset](https://overturemaps.org/overture-maps-foundation-releases-first-world-wide-open-map-dataset/)
 * [2023-07-26, 12:48:57](https://news.ycombinator.com/item?id=36876783) - [Mold 2.0](https://github.com/rui314/mold/releases/tag/v2.0.0)
 * [2023-07-26, 12:32:15](https://news.ycombinator.com/item?id=36876556) - [Visualizing every job in the world](https://duarteocarmo.com/blog/every-job-world)
