@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-27](index.md)
 
+* [2023-07-27, 15:57:29](https://news.ycombinator.com/item?id=36895536) - [Radioactivity in Food (Organic Food)](https://www.nrc.gov/about-nrc/radiation/around-us/doses-daily-lives.html)
+* [2023-07-27, 15:52:15](https://news.ycombinator.com/item?id=36895453) - [A Child's History of the World](https://gutenberg.org/cache/epub/67149/pg67149-images.html)
+* [2023-07-27, 15:44:10](https://news.ycombinator.com/item?id=36895300) - [LLaMA2 Chat 70B outperformed ChatGPT](https://tatsu-lab.github.io/alpaca_eval/)
 * [2023-07-27, 15:39:08](https://news.ycombinator.com/item?id=36895220) - [Launch HN: PeerDB (YC S23) – Fast, Native ETL/ELT for Postgres](https://news.ycombinator.com/item?id=36895220)
 * [2023-07-27, 15:07:45](https://news.ycombinator.com/item?id=36894749) - [Fiber-infused ink enables 3D-printed heart muscle to beat](https://seas.harvard.edu/news/2023/07/fiber-infused-ink-enables-3d-printed-heart-muscle-beat)
 * [2023-07-27, 14:59:34](https://news.ycombinator.com/item?id=36894613) - [Room Temperature, Ambient Pressure Superconductivity–This Time for Real?](https://scanalyst.fourmilab.ch/t/room-temperature-ambient-pressure-superconductivity-this-time-for-real/3512)
