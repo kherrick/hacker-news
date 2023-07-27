@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=36889213"
     ],
     [
-      "OFDM: Emperor Has No Clothes?",
+      "Exploring Orthogonal Frequency Division Modulation (OFDM)",
       "https://ieeexplore.ieee.org/document/6512701"
     ]
   ],
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=36889092"
     ],
     [
-      "macOS in QEMU (ARM edition) [pdf]",
+      "MacOS in QEMU – ARM edition [pdf]",
       "https://kvm-forum.qemu.org/media/2023/submissions/GDRJLK/resources/macOS_in_QEMU_on_ARM_FhJY65D.pdf"
     ]
   ],
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=36888442"
     ],
     [
-      "Treat Your CI System as a Product for Faster and Better Feedback",
+      "Treat your CI system as a product for faster and better feedback",
       "https://www.infoq.com/news/2023/06/CI-product-feedback/"
     ]
   ],
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=36887711"
     ],
     [
-      "Show HN: Litellm – simple library to standardize OpenAI, Cohere, Azure LLM I/O",
+      "Show HN: Litellm – Simple library to standardize OpenAI, Cohere, Azure LLM I/O",
       "https://github.com/BerriAI/litellm"
     ]
   ],
