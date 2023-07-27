@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-07-27](index.md)
 
+* [2023-07-27, 17:00:17](https://news.ycombinator.com/item?id=36896571) - [Ashby (YC W19) Is Hiring an Engineering Director to Build a Product-Focused Team](https://www.ashbyhq.com/careers?ashby_jid=2b130850-9e04-4072-942b-65d9e1609813)
 * [2023-07-27, 16:46:40](https://news.ycombinator.com/item?id=36896343) - [Bootstrapping to €600k MRR and getting killed by Shopify](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x)
 * [2023-07-27, 16:42:06](https://news.ycombinator.com/item?id=36896273) - [House Judiciary panel plans contempt proceedings for Mark Zuckerberg](https://www.nbcnews.com/politics/congress/house-judiciary-plans-contempt-proceedings-mark-zuckerberg-rcna96297)
 * [2023-07-27, 16:27:34](https://news.ycombinator.com/item?id=36896034) - [A Modern High-Performance Open Source Message Queuing System](https://bloomberg.github.io/blazingmq/)
 * [2023-07-27, 16:19:34](https://news.ycombinator.com/item?id=36895887) - [Visa-free travel to Europe for U.S. citizens to end in 2024,requiring ETIAS form](https://www.npr.org/2023/07/27/1190453405/europe-travel-visa-etias-how-to-apply)
 * [2023-07-27, 16:15:10](https://news.ycombinator.com/item?id=36895827) - [This month is the planet’s hottest on record by far – and hottest in 120k years](https://www.cnn.com/2023/07/27/world/july-hottest-month-record-climate/index.html)
+* [2023-07-27, 16:14:00](https://news.ycombinator.com/item?id=36895806) - [Blade-Runner-Tailwind: A Collection of Blade Runner Themed Tailwind Components](https://github.com/martyjacobsdev/Blade-Runner-Tailwind)
 * [2023-07-27, 15:57:29](https://news.ycombinator.com/item?id=36895536) - [Radioactivity in Food (Organic Food)](https://www.nrc.gov/about-nrc/radiation/around-us/doses-daily-lives.html)
 * [2023-07-27, 15:52:15](https://news.ycombinator.com/item?id=36895453) - [A Child's History of the World](https://gutenberg.org/cache/epub/67149/pg67149-images.html)
 * [2023-07-27, 15:46:28](https://news.ycombinator.com/item?id=36895354) - ['First Amendment Auditor' Sues NYPD over Right to Record in Police Stations](https://reason.com/2023/07/24/first-amendment-auditor-sues-nypd-over-right-to-record-in-police-stations/)
