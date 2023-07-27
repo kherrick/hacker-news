@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-27, 06:28:08",
+      "https://news.ycombinator.com/item?id=36889703"
+    ],
+    [
+      "Stack Overflow's CEO Doesn't Understand Stack Overflow",
+      "https://jlericson.com/2023/07/26/not_understanding.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-27, 05:59:07",
+      "https://news.ycombinator.com/item?id=36889484"
+    ],
+    [
+      "Go 1.22 Inlining Overhaul",
+      "https://docs.google.com/document/d/1a6p7-nbk5PVyM1S2tmccFrrIuGzCyzclstBtaciHxVw/mobilebasic"
+    ]
+  ],
+  [
+    [
       "2023-07-27, 05:16:44",
       "https://news.ycombinator.com/item?id=36889213"
     ],
@@ -191,6 +211,16 @@
   ],
   [
     [
+      "2023-07-26, 21:49:53",
+      "https://news.ycombinator.com/item?id=36885598"
+    ],
+    [
+      "“It works on my machine” turns to “it works in my container”",
+      "https://dwdraju.medium.com/how-it-works-in-my-machine-turns-it-works-in-my-container-1b9a340ca43d"
+    ]
+  ],
+  [
+    [
       "2023-07-26, 21:07:07",
       "https://news.ycombinator.com/item?id=36885040"
     ],
@@ -231,42 +261,12 @@
   ],
   [
     [
-      "2023-07-26, 17:09:53",
-      "https://news.ycombinator.com/item?id=36881133"
-    ],
-    [
-      "Data brokers selling license plate location and analytics data",
-      "https://www.tlo.com/vehicle-sightings"
-    ]
-  ],
-  [
-    [
-      "2023-07-26, 15:34:43",
-      "https://news.ycombinator.com/item?id=36879461"
-    ],
-    [
-      "Overture Maps Foundation releases open map dataset",
-      "https://overturemaps.org/overture-maps-foundation-releases-first-world-wide-open-map-dataset/"
-    ]
-  ],
-  [
-    [
       "2023-07-26, 12:32:15",
       "https://news.ycombinator.com/item?id=36876556"
     ],
     [
       "Visualizing every job in the world",
       "https://duarteocarmo.com/blog/every-job-world"
-    ]
-  ],
-  [
-    [
-      "2023-07-26, 11:30:18",
-      "https://news.ycombinator.com/item?id=36875940"
-    ],
-    [
-      "Unpacking Google’s Web Environment Integrity specification",
-      "https://vivaldi.com/blog/googles-new-dangerous-web-environment-integrity-spec/"
     ]
   ],
   [
