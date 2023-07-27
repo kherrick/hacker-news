@@ -62,16 +62,6 @@
   [
     [
       "2023-07-26, 22:01:34",
-      "https://news.ycombinator.com/item?id=36885754"
-    ],
-    [
-      "A beautiful, broken America: what I learned on a 2,800-mile bus ride",
-      "https://www.theguardian.com/travel/2023/jul/26/america-roadtrip-greyhound-bus"
-    ]
-  ],
-  [
-    [
-      "2023-07-26, 22:01:34",
       "https://news.ycombinator.com/item?id=36885753"
     ],
     [
@@ -85,7 +75,7 @@
       "https://news.ycombinator.com/item?id=36885598"
     ],
     [
-      "“It works on my machine” turns to “It works in my container”",
+      "“It works on my machine” turns to “it works in my container”",
       "https://dwdraju.medium.com/how-it-works-in-my-machine-turns-it-works-in-my-container-1b9a340ca43d"
     ]
   ],
@@ -117,6 +107,16 @@
     [
       "Cultivating a state of mind where new ideas are born",
       "https://www.henrikkarlsson.xyz/p/good-ideas"
+    ]
+  ],
+  [
+    [
+      "2023-07-26, 18:23:19",
+      "https://news.ycombinator.com/item?id=36882467"
+    ],
+    [
+      "Apple's infamously strict on App Store rules but gives WeChat a free pass (2020)",
+      "https://reclaimthenet.org/apple-app-store-wechat-china"
     ]
   ],
   [
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=36874821"
     ],
     [
-      "Mind Grenade",
+      "Mind Grenade (2019)",
       "https://www.fourmilab.ch/webtools/MindGrenade/"
     ]
   ],
