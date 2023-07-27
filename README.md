@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-27, 07:37:35](https://news.ycombinator.com/item?id=36890209) - [Venetian Glass Beads May Be Oldest European Artifacts Found in North America](https://www.smithsonianmag.com/smart-news/tiny-blue-beads-european-artifact-north-america-old-180976966/)
 * [2023-07-27, 06:28:08](https://news.ycombinator.com/item?id=36889703) - [Stack Overflow's CEO Doesn't Understand Stack Overflow](https://jlericson.com/2023/07/26/not_understanding.html)
 * [2023-07-27, 05:59:07](https://news.ycombinator.com/item?id=36889484) - [Go 1.22 Inlining Overhaul](https://docs.google.com/document/d/1a6p7-nbk5PVyM1S2tmccFrrIuGzCyzclstBtaciHxVw/mobilebasic)
 * [2023-07-27, 05:16:44](https://news.ycombinator.com/item?id=36889213) - [OFDM: Emperor Has No Clothes?](https://ieeexplore.ieee.org/document/6512701)
@@ -21,7 +22,6 @@
 * [2023-07-26, 23:28:42](https://news.ycombinator.com/item?id=36886605) - [Jupyter Notebook 7](https://blog.jupyter.org/announcing-jupyter-notebook-7-8d6d66126dcf?gi=91803318295b)
 * [2023-07-26, 23:08:31](https://news.ycombinator.com/item?id=36886411) - [Morphing Fractal Engraving Vise Jaws](https://fractalvise.com/)
 * [2023-07-26, 22:01:34](https://news.ycombinator.com/item?id=36885753) - [TiddlyPWA: putting TiddlyWiki on modern web app steroids](https://val.packett.cool/blog/tiddlypwa/)
-* [2023-07-26, 21:49:53](https://news.ycombinator.com/item?id=36885598) - [“It works on my machine” turns to “it works in my container”](https://dwdraju.medium.com/how-it-works-in-my-machine-turns-it-works-in-my-container-1b9a340ca43d)
 * [2023-07-26, 21:07:07](https://news.ycombinator.com/item?id=36885040) - [Kids Online Safety Act is still a danger to our rights online](https://www.eff.org/deeplinks/2023/05/kids-online-safety-act-still-huge-danger-our-rights-online)
 * [2023-07-26, 19:22:01](https://news.ycombinator.com/item?id=36883436) - [Cultivating a state of mind where new ideas are born](https://www.henrikkarlsson.xyz/p/good-ideas)
 * [2023-07-26, 18:04:29](https://news.ycombinator.com/item?id=36882146) - [Show HN: Continue – Open-source coding autopilot](https://github.com/continuedev/continue)
