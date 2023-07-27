@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-25](index.md)
 
+* [2023-07-25, 23:28:52](https://news.ycombinator.com/item?id=36871152) - [The feuding twin sisters who popularized the American advice column](https://www.laphamsquarterly.org/roundtable/wake-and-smell-coffee)
 * [2023-07-25, 23:21:36](https://news.ycombinator.com/item?id=36871093) - [Man spoofs threatening texts from ex-gf, gets her jailed multiple times (2020)](https://www.justice.gov/usao-md/pr/pasadena-man-pleads-guilty-federal-charges-cyberstalking-and-causing-intentional-damage)
 * [2023-07-25, 22:43:10](https://news.ycombinator.com/item?id=36870734) - [The Life, Death–and Afterlife–Of Literary Fiction](https://www.esquire.com/entertainment/books/a44496450/literary-fiction-death-digital-age/)
 * [2023-07-25, 22:40:58](https://news.ycombinator.com/item?id=36870702) - [Seattle in Progress](https://www.seattleinprogress.com/)

@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-27, 18:37:53](https://news.ycombinator.com/item?id=36898217) - [Techdirt Has Been Deleted from Bing and DuckDuckGo](https://www.techdirt.com/2023/07/27/techdirt-has-been-deleted-from-bing-and-duckduckgo/)
 * [2023-07-27, 18:18:47](https://news.ycombinator.com/item?id=36897958) - [Some Alloys Don't Change Size When Heated. We Now Know Why](https://www.caltech.edu/about/news/some-alloys-dont-change-size-when-heated-we-now-know-why)
 * [2023-07-27, 17:59:35](https://news.ycombinator.com/item?id=36897670) - [Epilogue of my time working at Twitter](https://esthercrawford.medium.com/an-epilogue-to-my-time-working-at-twitter-24a126098246)
 * [2023-07-27, 17:00:17](https://news.ycombinator.com/item?id=36896571) - [Ashby (YC W19) Is Hiring an Engineering Director to Build a Product-Focused Team](https://www.ashbyhq.com/careers?ashby_jid=2b130850-9e04-4072-942b-65d9e1609813)
 * [2023-07-27, 16:46:40](https://news.ycombinator.com/item?id=36896343) - [Bootstrapping to €600k MRR and getting killed by Shopify: Checkout X](https://www.leteyski.com/bootstrapping-to-600k-mrr-and-getting-killed-by-shopify-the-story-of-checkout-x)
 * [2023-07-27, 16:27:34](https://news.ycombinator.com/item?id=36896034) - [BlazingMQ: High-performance open source message queuing system](https://bloomberg.github.io/blazingmq/)
-* [2023-07-27, 16:14:00](https://news.ycombinator.com/item?id=36895806) - [Blade-Runner-Tailwind: A Collection of Blade Runner Themed Tailwind Components](https://github.com/martyjacobsdev/Blade-Runner-Tailwind)
 * [2023-07-27, 15:57:29](https://news.ycombinator.com/item?id=36895536) - [Radioactivity in Food (Organic Food)](https://www.nrc.gov/about-nrc/radiation/around-us/doses-daily-lives.html)
 * [2023-07-27, 15:44:10](https://news.ycombinator.com/item?id=36895300) - [LLaMA2 Chat 70B outperformed ChatGPT](https://tatsu-lab.github.io/alpaca_eval/)
 * [2023-07-27, 15:39:08](https://news.ycombinator.com/item?id=36895220) - [Launch HN: PeerDB (YC S23) – Fast, Native ETL/ELT for Postgres](https://news.ycombinator.com/item?id=36895220)
@@ -24,12 +24,12 @@
 * [2023-07-27, 04:33:56](https://news.ycombinator.com/item?id=36888954) - [Tarsnap outage postmortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
 * [2023-07-27, 04:32:46](https://news.ycombinator.com/item?id=36888948) - [Google Med-Palm M: Towards Generalist Biomedical AI](https://arxiv.org/abs/2307.14334)
 * [2023-07-27, 01:46:56](https://news.ycombinator.com/item?id=36887816) - [KernType – A Letter Spacing Game](https://type.method.ac/)
-* [2023-07-27, 01:31:45](https://news.ycombinator.com/item?id=36887712) - [An Internet Canvas](https://paper.mmm.dev/)
 * [2023-07-26, 17:46:30](https://news.ycombinator.com/item?id=36881808) - [Superconductor news: What’s claimed, and how strong the evidence seems to be](https://www.science.org/content/blog-post/breaking-superconductor-news)
 * [2023-07-26, 11:33:06](https://news.ycombinator.com/item?id=36875962) - [Show HN: I built a multiplayer Gameboy](https://github.com/tjholm/multiboy)
 * [2023-07-26, 10:59:03](https://news.ycombinator.com/item?id=36875622) - [Plants that are signs of former human settlements](https://worldsensorium.com/your-legacy-on-earth-may-be-a-plant/)
 * [2023-07-26, 06:02:44](https://news.ycombinator.com/item?id=36873635) - [The Oldest and Most Expensive Rum in the World](https://harewood.org/about/blog/notes/the-oldest-and-most-expensive-rum-in-the-world/)
 * [2023-07-26, 05:04:02](https://news.ycombinator.com/item?id=36873322) - [Xerox PARC Special](https://thechipletter.substack.com/p/chip-letter-links-no-21-xerox-parc)
+* [2023-07-25, 23:28:52](https://news.ycombinator.com/item?id=36871152) - [The feuding twin sisters who popularized the American advice column](https://www.laphamsquarterly.org/roundtable/wake-and-smell-coffee)
 
 ## [Archives](archives/index.md)
 
