@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-27, 16:15:10](https://news.ycombinator.com/item?id=36895827) - [This month is the planet’s hottest on record by far – and hottest in 120k years](https://www.cnn.com/2023/07/27/world/july-hottest-month-record-climate/index.html)
 * [2023-07-27, 15:57:29](https://news.ycombinator.com/item?id=36895536) - [Radioactivity in Food (Organic Food)](https://www.nrc.gov/about-nrc/radiation/around-us/doses-daily-lives.html)
 * [2023-07-27, 15:52:15](https://news.ycombinator.com/item?id=36895453) - [A Child's History of the World](https://gutenberg.org/cache/epub/67149/pg67149-images.html)
 * [2023-07-27, 15:46:28](https://news.ycombinator.com/item?id=36895354) - ['First Amendment Auditor' Sues NYPD over Right to Record in Police Stations](https://reason.com/2023/07/24/first-amendment-auditor-sues-nypd-over-right-to-record-in-police-stations/)
@@ -27,7 +28,6 @@
 * [2023-07-27, 03:34:01](https://news.ycombinator.com/item?id=36888598) - [Depthboot – Your Chromebook, your way](https://eupnea-linux.github.io/)
 * [2023-07-27, 02:28:37](https://news.ycombinator.com/item?id=36888156) - [Google Web Environment Integrity Is the New Microsoft Trusted Computing](https://www.neelc.org/posts/google-webauth-palladium/)
 * [2023-07-27, 01:46:56](https://news.ycombinator.com/item?id=36887816) - [KernType – A Letter Spacing Game](https://type.method.ac/)
-* [2023-07-27, 01:31:45](https://news.ycombinator.com/item?id=36887712) - [An Internet Canvas](https://paper.mmm.dev/)
 * [2023-07-26, 11:33:06](https://news.ycombinator.com/item?id=36875962) - [Show HN: I built a multiplayer Gameboy](https://github.com/tjholm/multiboy)
 * [2023-07-26, 05:04:02](https://news.ycombinator.com/item?id=36873322) - [Xerox PARC Special](https://thechipletter.substack.com/p/chip-letter-links-no-21-xerox-parc)
 
