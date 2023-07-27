@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-27, 05:59:07](https://news.ycombinator.com/item?id=36889484) - [Go 1.22 Inlining Overhaul](https://docs.google.com/document/d/1a6p7-nbk5PVyM1S2tmccFrrIuGzCyzclstBtaciHxVw/mobilebasic)
+* [2023-07-27, 05:16:44](https://news.ycombinator.com/item?id=36889213) - [OFDM: Emperor Has No Clothes?](https://ieeexplore.ieee.org/document/6512701)
 * [2023-07-27, 05:08:18](https://news.ycombinator.com/item?id=36889163) - [Air Force selects AI-enabled predictive maintenance program as system of record](https://defensescoop.com/2023/05/10/air-force-selects-ai-enabled-predictive-maintenance-program-as-system-of-record/)
 * [2023-07-27, 04:57:07](https://news.ycombinator.com/item?id=36889092) - [macOS in QEMU (ARM edition) [pdf]](https://kvm-forum.qemu.org/media/2023/submissions/GDRJLK/resources/macOS_in_QEMU_on_ARM_FhJY65D.pdf)
 * [2023-07-27, 04:33:56](https://news.ycombinator.com/item?id=36888954) - [Tarsnap outage (July 2-3, 2023) postmortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
@@ -10,7 +12,6 @@
 * [2023-07-27, 03:11:11](https://news.ycombinator.com/item?id=36888444) - [Super sorry to the guy with the username reset on GitHub](https://discuss.systems/@adrian/110783401400871208)
 * [2023-07-27, 03:10:38](https://news.ycombinator.com/item?id=36888442) - [Treat Your CI System as a Product for Faster and Better Feedback](https://www.infoq.com/news/2023/06/CI-product-feedback/)
 * [2023-07-27, 02:28:37](https://news.ycombinator.com/item?id=36888156) - [Google Web Environment Integrity Is the New Microsoft Trusted Computing](https://www.neelc.org/posts/google-webauth-palladium/)
-* [2023-07-27, 01:52:58](https://news.ycombinator.com/item?id=36887857) - [Japanese population falls in all 47 prefectures for the first time](https://www.japantimes.co.jp/news/2023/07/26/japan/society/number-of-japanese-drops-in-all-47-prefectures-for-first-time-as-foreign-population-surges/)
 * [2023-07-27, 01:32:40](https://news.ycombinator.com/item?id=36887721) - [Pull of the Undercurl](https://ryantravitz.com/blog/2023-02-18-pull-of-the-undercurl/)
 * [2023-07-27, 01:31:45](https://news.ycombinator.com/item?id=36887712) - [An Internet Canvas](https://paper.mmm.dev/)
 * [2023-07-27, 01:31:35](https://news.ycombinator.com/item?id=36887711) - [Show HN: Litellm – simple library to standardize OpenAI, Cohere, Azure LLM I/O](https://github.com/BerriAI/litellm)
@@ -24,7 +25,6 @@
 * [2023-07-26, 18:04:29](https://news.ycombinator.com/item?id=36882146) - [Show HN: Continue – Open-source coding autopilot](https://github.com/continuedev/continue)
 * [2023-07-26, 17:46:30](https://news.ycombinator.com/item?id=36881808) - [Superconductor news: What’s claimed, and how strong the evidence seems to be](https://www.science.org/content/blog-post/breaking-superconductor-news)
 * [2023-07-26, 17:09:53](https://news.ycombinator.com/item?id=36881133) - [Data brokers selling license plate location and analytics data](https://www.tlo.com/vehicle-sightings)
-* [2023-07-26, 15:34:43](https://news.ycombinator.com/item?id=36879461) - [Overture Maps Foundation releases open map dataset](https://overturemaps.org/overture-maps-foundation-releases-first-world-wide-open-map-dataset/)
 * [2023-07-26, 12:32:15](https://news.ycombinator.com/item?id=36876556) - [Visualizing every job in the world](https://duarteocarmo.com/blog/every-job-world)
 * [2023-07-26, 11:30:18](https://news.ycombinator.com/item?id=36875940) - [Unpacking Google’s Web Environment Integrity specification](https://vivaldi.com/blog/googles-new-dangerous-web-environment-integrity-spec/)
 * [2023-07-26, 08:57:33](https://news.ycombinator.com/item?id=36874821) - [Mind Grenade (2019)](https://www.fourmilab.ch/webtools/MindGrenade/)
