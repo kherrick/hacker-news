@@ -54,6 +54,7 @@
 * [2023-07-27, 06:28:08](https://news.ycombinator.com/item?id=36889703) - [Stack Overflow's CEO Doesn't Understand Stack Overflow](https://jlericson.com/2023/07/26/not_understanding.html)
 * [2023-07-27, 06:19:17](https://news.ycombinator.com/item?id=36889636) - [Excess Death Rates for Registered Voters in Florida and Ohio](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2807617)
 * [2023-07-27, 05:59:07](https://news.ycombinator.com/item?id=36889484) - [Go 1.22 Inlining Overhaul](https://docs.google.com/document/d/1a6p7-nbk5PVyM1S2tmccFrrIuGzCyzclstBtaciHxVw/mobilebasic)
+* [2023-07-27, 05:43:22](https://news.ycombinator.com/item?id=36889385) - [eSIM is altering how consumers interact with operators](https://www.opensignal.com/2023/07/25/arrival-of-esim-is-altering-how-consumers-interact-with-operators)
 * [2023-07-27, 05:16:44](https://news.ycombinator.com/item?id=36889213) - [OFDM: Emperor Has No Clothes?](https://ieeexplore.ieee.org/document/6512701)
 * [2023-07-27, 05:08:18](https://news.ycombinator.com/item?id=36889163) - [Air Force selects AI-enabled predictive maintenance program as system of record](https://defensescoop.com/2023/05/10/air-force-selects-ai-enabled-predictive-maintenance-program-as-system-of-record/)
 * [2023-07-27, 04:57:07](https://news.ycombinator.com/item?id=36889092) - [macOS in QEMU (ARM edition) [pdf]](https://kvm-forum.qemu.org/media/2023/submissions/GDRJLK/resources/macOS_in_QEMU_on_ARM_FhJY65D.pdf)
