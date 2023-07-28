@@ -2,6 +2,7 @@
 
 * [2023-07-28, 22:05:32](https://news.ycombinator.com/item?id=36913988) - [Ring is having a major outage](https://status.ring.com)
 * [2023-07-28, 21:50:36](https://news.ycombinator.com/item?id=36913835) - [SpaceX Punched a Hole in the Ionosphere](https://spaceweatherarchive.com/2023/07/23/spacex-punched-a-hole-in-the-ionosphere/)
+* [2023-07-28, 21:43:52](https://news.ycombinator.com/item?id=36913766) - [Why No Roman Industrial Revolution?](https://rootsofprogress.org/why-no-roman-industrial-revolution)
 * [2023-07-28, 21:01:41](https://news.ycombinator.com/item?id=36913268) - [The U.K. Government Is Close to Eroding Encryption Worldwide](https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide)
 * [2023-07-28, 21:01:14](https://news.ycombinator.com/item?id=36913263) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=36913263)
 * [2023-07-28, 20:48:28](https://news.ycombinator.com/item?id=36913103) - [Wordward Draw](https://managore.itch.io/wordward-draw)
@@ -28,7 +29,6 @@
 * [2023-07-28, 04:37:23](https://news.ycombinator.com/item?id=36903149) - [How to Roman Republic 101](https://acoup.blog/2023/07/21/collections-how-to-roman-republic-101-part-i-spqr/)
 * [2023-07-28, 04:27:28](https://news.ycombinator.com/item?id=36903103) - [Interview with Yael Tauman Kalai, a cryptographer at Microsoft](https://www.quantamagazine.org/the-cryptographer-who-ensures-we-can-trust-our-computers-20230727/)
 * [2023-07-27, 22:06:37](https://news.ycombinator.com/item?id=36900782) - [List of APIs that require declared reasons](https://developer.apple.com/news/?id=z6fu1dcu)
-* [2023-07-27, 11:16:00](https://news.ycombinator.com/item?id=36891873) - [Yerkes Observatory: Restoring the World’s Largest Refracting Telescope](https://www.grainger.com/know-how/inspiration/kh-yerkes-observatory-restoring-worlds-largest-refracting-telescope)
 * [2023-07-27, 08:52:22](https://news.ycombinator.com/item?id=36890748) - [413. The Isle of Luing](https://britishcoast.wordpress.com/2023/07/26/413-the-isle-of-luing/)
 
 ## [Archives](archives/index.md)
