@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-28, 22:15:36",
+      "https://news.ycombinator.com/item?id=36914085"
+    ],
+    [
+      "Electric recumbent bikes are 80 more efficient than EV",
+      "https://www.lowtechmagazine.com/les-v%C3%A9lomobiles-electriques-aussi-rapides-et-confortables-que-les-automobiles-mais-80-fois-plus-efficaces.html"
+    ]
+  ],
+  [
+    [
       "2023-07-28, 22:05:32",
       "https://news.ycombinator.com/item?id=36913988"
     ],
@@ -27,6 +37,16 @@
     [
       "Why no Roman industrial revolution?",
       "https://rootsofprogress.org/why-no-roman-industrial-revolution"
+    ]
+  ],
+  [
+    [
+      "2023-07-28, 21:24:59",
+      "https://news.ycombinator.com/item?id=36913569"
+    ],
+    [
+      "Mess with DNS",
+      "https://messwithdns.net"
     ]
   ],
   [
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=36912979"
     ],
     [
-      "Real-Time Monitoring of Aerosols Generated from Toilet Flushing",
+      "Real-time monitoring of aerosols generated from toilet flushing",
       "https://www.microbiologyresearch.org/content/journal/acmi/10.1099/acmi.fis2019.po0192"
     ]
   ],
@@ -277,26 +297,6 @@
     [
       "List of APIs that require declared reasons",
       "https://developer.apple.com/news/?id=z6fu1dcu"
-    ]
-  ],
-  [
-    [
-      "2023-07-27, 08:52:22",
-      "https://news.ycombinator.com/item?id=36890748"
-    ],
-    [
-      "413. The Isle of Luing",
-      "https://britishcoast.wordpress.com/2023/07/26/413-the-isle-of-luing/"
-    ]
-  ],
-  [
-    [
-      "2023-07-27, 06:22:12",
-      "https://news.ycombinator.com/item?id=36889656"
-    ],
-    [
-      "How to check if two SQL tables are the same",
-      "https://github.com/remysucre/blog/blob/main/posts/sql-eq.md"
     ]
   ]
 ]
