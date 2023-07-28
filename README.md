@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-28, 17:28:41](https://news.ycombinator.com/item?id=36910256) - [Play Deprivation Is a Major Cause of the Teen Mental Health Crisis](https://jonathanhaidt.substack.com/p/the-play-deficit)
+* [2023-07-28, 17:27:57](https://news.ycombinator.com/item?id=36910245) - [Mark Zuckerberg: Threads users down by more than a half](https://www.bbc.co.uk/news/technology-66336058)
 * [2023-07-28, 17:20:55](https://news.ycombinator.com/item?id=36910146) - [“Web Environment Integrity” is an all-out attack on the free Internet](https://www.fsf.org/blogs/community/web-environment-integrity-is-an-all-out-attack-on-the-free-internet)
 * [2023-07-28, 17:01:12](https://news.ycombinator.com/item?id=36909867) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-07-28, 16:49:18](https://news.ycombinator.com/item?id=36909673) - [An ultra-sensitive on-off switch helps axolotls regrow limbs](https://scopeblog.stanford.edu/2023/07/26/how-an-ultra-sensitive-on-off-switch-helps-axolotls-regrow-limbs/)
@@ -20,9 +22,7 @@
 * [2023-07-28, 14:25:10](https://news.ycombinator.com/item?id=36907248) - [Worldcoin isn’t as bad as it sounds: It’s worse](https://blockworks.co/news/worldcoin-privacy-concerns)
 * [2023-07-28, 13:40:09](https://news.ycombinator.com/item?id=36906623) - [Monetal – Free Expense Tracker](https://monetal.app/index_en.php)
 * [2023-07-28, 13:26:32](https://news.ycombinator.com/item?id=36906450) - [Show HN: Chie – a cross-platform, native, and extensible desktop client for LLMs](https://chie.app/posts/introduce-the-chie-app/)
-* [2023-07-28, 12:59:58](https://news.ycombinator.com/item?id=36906140) - [Cophone – Mobile work phones running in the cloud](https://cophone.io/)
 * [2023-07-28, 12:46:19](https://news.ycombinator.com/item?id=36906022) - [Watch TV from the 90s (and Earlier)](https://my90stv.com/)
-* [2023-07-28, 10:45:17](https://news.ycombinator.com/item?id=36905076) - [RT-2 AI model translates vision and language into robotic actions](https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/)
 * [2023-07-28, 08:40:29](https://news.ycombinator.com/item?id=36904338) - [VyOS From Scratch – Edition 1 (set up your own router)](https://blog.kroy.io/2020/05/04/vyos-from-scratch-edition-1/)
 * [2023-07-28, 07:48:13](https://news.ycombinator.com/item?id=36904080) - [Finding “Discs of Tron” on the Roadside](https://arcadeblogger.com/2023/07/22/environmental-discs-of-tron-roadside-pickup/)
 * [2023-07-28, 07:10:38](https://news.ycombinator.com/item?id=36903862) - [Pyro: A Universal, Probablistic Programming Language](https://pyro.ai/)
