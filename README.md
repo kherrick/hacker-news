@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-28, 01:28:50](https://news.ycombinator.com/item?id=36902183) - ['Swine flu' strain has passed from humans to swine ~400 times since 2009: study](https://medicalxpress.com/news/2023-07-swine-flu-strain-humans.html)
-* [2023-07-28, 01:08:43](https://news.ycombinator.com/item?id=36902069) - [The ‘Great Awokening’ Is Winding Down](https://musaalgharbi.com/2023/02/08/great-awokening-ending/)
 * [2023-07-28, 00:29:48](https://news.ycombinator.com/item?id=36901885) - [The moral character of cryptographic work (2015)](https://web.cs.ucdavis.edu/~rogaway/papers/moral.html)
 * [2023-07-28, 00:20:59](https://news.ycombinator.com/item?id=36901815) - [WebArena: A realistic web environment for building autonomous agents](https://webarena.dev/)
 * [2023-07-27, 23:41:03](https://news.ycombinator.com/item?id=36901543) - [Faster filesystem access with Directfs](https://gvisor.dev/blog/2023/06/27/directfs/)
@@ -14,6 +13,7 @@
 * [2023-07-27, 19:39:24](https://news.ycombinator.com/item?id=36899029) - [Kill dwm.exe on Windows for less input lag and better performance](https://github.com/nebuloss/killer)
 * [2023-07-27, 19:26:31](https://news.ycombinator.com/item?id=36898833) - [Berlin Review: LAN Party](https://032c.com/magazine/berlin-review-lan-party)
 * [2023-07-27, 19:18:42](https://news.ycombinator.com/item?id=36898749) - [Commander Keen's adaptive tile refresh](https://fabiensanglard.net/ega/)
+* [2023-07-27, 19:08:10](https://news.ycombinator.com/item?id=36898612) - [Austral Programming Language](https://austral-lang.org)
 * [2023-07-27, 18:18:47](https://news.ycombinator.com/item?id=36897958) - [Some alloys don't change size when heated – recent work on why](https://www.caltech.edu/about/news/some-alloys-dont-change-size-when-heated-we-now-know-why)
 * [2023-07-27, 17:08:45](https://news.ycombinator.com/item?id=36896710) - [LLMs Unleashed: The Power of Fine-Tuning](https://lucaspauker.com/articles/llms-unleashed-the-power-of-fine-tuning)
 * [2023-07-27, 16:27:34](https://news.ycombinator.com/item?id=36896034) - [BlazingMQ: High-performance open source message queuing system](https://bloomberg.github.io/blazingmq/)
