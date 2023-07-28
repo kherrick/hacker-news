@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-28, 20:30:06](https://news.ycombinator.com/item?id=36912861) - [The Fenland Black Oak Project](https://www.thefenlandblackoakproject.co.uk/our-story)
+* [2023-07-28, 19:22:10](https://news.ycombinator.com/item?id=36911923) - [The Lonely Work of Moderating Hacker News (2019)](https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news)
 * [2023-07-28, 18:45:12](https://news.ycombinator.com/item?id=36911361) - [Free prison phone calls boost family ties, rehabilitation](https://www.latimes.com/politics/story/2023-07-27/free-calls-restore-inmates-ties-with-the-outside-can-they-reform-californias-prisons-too)
 * [2023-07-28, 17:28:41](https://news.ycombinator.com/item?id=36910256) - [Play deprivation is a major cause of the teen mental health crisis](https://jonathanhaidt.substack.com/p/the-play-deficit)
 * [2023-07-28, 17:20:55](https://news.ycombinator.com/item?id=36910146) - [“Web Environment Integrity” is an attack on the free Internet](https://www.fsf.org/blogs/community/web-environment-integrity-is-an-all-out-attack-on-the-free-internet)
@@ -11,9 +13,7 @@
 * [2023-07-28, 15:28:04](https://news.ycombinator.com/item?id=36908309) - [Cap'n Proto 1.0](https://capnproto.org/news/2023-07-28-capnproto-1.0.html)
 * [2023-07-28, 15:25:59](https://news.ycombinator.com/item?id=36908265) - [Flash Museum](https://flashmuseum.org/)
 * [2023-07-28, 15:19:58](https://news.ycombinator.com/item?id=36908136) - [California moves to silence Stanford researchers who got data to study education](https://edsource.org/2023/california-moves-to-silence-stanford-researchers-who-got-state-data-to-study-education-issues/694920)
-* [2023-07-28, 15:04:18](https://news.ycombinator.com/item?id=36907829) - [Fabricated data in research about honesty](https://www.npr.org/2023/07/27/1190568472/dan-ariely-francesca-gino-harvard-dishonesty-fabricated-data)
 * [2023-07-28, 14:54:42](https://news.ycombinator.com/item?id=36907674) - [Rain Panels: Harvesting the energy of falling raindrops](https://thedebrief.org/forget-solar-panels-here-come-rain-panels/)
-* [2023-07-28, 14:42:22](https://news.ycombinator.com/item?id=36907504) - [Show HN: Selecta – Tune Your Own Spotify Recommendation Algorithm](https://selecta.ciaran.co.za/)
 * [2023-07-28, 13:28:20](https://news.ycombinator.com/item?id=36906472) - [US smartphone shipments fall sharply, but Android more than iPhone](https://www.counterpointresearch.com/us-smartphone-shipments-q2-2023/)
 * [2023-07-28, 13:26:32](https://news.ycombinator.com/item?id=36906450) - [Show HN: Chie – a cross-platform, native, and extensible desktop client for LLMs](https://chie.app/posts/introduce-the-chie-app/)
 * [2023-07-28, 13:12:15](https://news.ycombinator.com/item?id=36906284) - [Tor’s shadowy reputation will only end if we all use it](https://www.engadget.com/tor-dark-web-privacy-secure-browser-anonymous-130048839.html)
