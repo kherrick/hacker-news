@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-28, 13:28:20](https://news.ycombinator.com/item?id=36906472) - [US iPhone market share jumps to 55% as Android shipments fall sharply](https://9to5mac.com/2023/07/28/us-iphone-market-share-2/)
 * [2023-07-28, 13:25:54](https://news.ycombinator.com/item?id=36906435) - [Sci-Hub Founder Receives EFF Award for Providing Access to Scientific Knowledge](https://torrentfreak.com/sci-hubs-alexandra-elbakyan-receives-eff-award-for-providing-access-to-scientific-knowledge-230728/)
 * [2023-07-28, 13:12:15](https://news.ycombinator.com/item?id=36906284) - [Tor’s shadowy reputation will only end if we all use it](https://www.engadget.com/tor-dark-web-privacy-secure-browser-anonymous-130048839.html)
 * [2023-07-28, 12:00:42](https://news.ycombinator.com/item?id=36905630) - [Finley (YC W21) Is Hiring to Rethink Capital Markets Infrastructure (US Remote)](https://www.finleycms.com/careers/)
@@ -21,7 +22,6 @@
 * [2023-07-27, 16:27:34](https://news.ycombinator.com/item?id=36896034) - [BlazingMQ: High-performance open source message queuing system](https://bloomberg.github.io/blazingmq/)
 * [2023-07-27, 15:39:08](https://news.ycombinator.com/item?id=36895220) - [Launch HN: PeerDB (YC S23) – Fast, Native ETL/ELT for Postgres](https://news.ycombinator.com/item?id=36895220)
 * [2023-07-27, 15:20:35](https://news.ycombinator.com/item?id=36894932) - [Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
-* [2023-07-27, 09:32:07](https://news.ycombinator.com/item?id=36891056) - [Twist: Slack alternative from the makers of Todoist](https://twist.com/)
 * [2023-07-27, 07:42:23](https://news.ycombinator.com/item?id=36890241) - [How to use a Python multiprocessing module](https://developers.redhat.com/articles/2023/07/27/how-use-python-multiprocessing-module)
 * [2023-07-27, 06:22:12](https://news.ycombinator.com/item?id=36889656) - [How to Check 2 SQL Tables Are the Same](https://github.com/remysucre/blog/blob/main/posts/sql-eq.md)
 * [2023-07-27, 06:15:21](https://news.ycombinator.com/item?id=36889610) - [The First Map of the Moon](https://www.historytoday.com/archive/months-past/first-map-moon)
