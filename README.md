@@ -12,6 +12,7 @@
 * [2023-07-27, 21:18:16](https://news.ycombinator.com/item?id=36900294) - [LeMUR: LLMs for Audio and Speech](https://www.assemblyai.com/blog/lemur/)
 * [2023-07-27, 21:09:39](https://news.ycombinator.com/item?id=36900201) - [Origins of the Sicilian Mafia: The Market for Lemons (2017)](https://www.cambridge.org/core/journals/journal-of-economic-history/article/origins-of-the-sicilian-mafia-the-market-for-lemons/52B18A611BD8AE26B4FDE3814A4239F1)
 * [2023-07-27, 21:00:35](https://news.ycombinator.com/item?id=36900106) - [Svix (YC W21) is hiring a founding account executive (US remote)](https://www.svix.com/careers/)
+* [2023-07-27, 20:10:48](https://news.ycombinator.com/item?id=36899461) - [Hydraulic Steering – Principles of Operation (1956) [video]](https://www.youtube.com/watch?v=VDiOKqMKTO8)
 * [2023-07-27, 19:53:54](https://news.ycombinator.com/item?id=36899221) - [Namibian fairy circle debate rages on: Sand termites or Turing mechanism?](https://arstechnica.com/science/2023/07/the-namibian-fairy-circle-debate-rages-on-could-it-be-sand-termites-after-all/)
 * [2023-07-27, 19:18:42](https://news.ycombinator.com/item?id=36898749) - [Commander Keen's adaptive tile refresh](https://fabiensanglard.net/ega/)
 * [2023-07-27, 16:27:34](https://news.ycombinator.com/item?id=36896034) - [BlazingMQ: High-performance open source message queuing system](https://bloomberg.github.io/blazingmq/)
@@ -28,7 +29,6 @@
 * [2023-07-26, 10:47:59](https://news.ycombinator.com/item?id=36875524) - [How to Be Blind](https://www.newyorker.com/culture/the-weekend-essay/how-to-be-blind)
 * [2023-07-26, 08:05:34](https://news.ycombinator.com/item?id=36874485) - [TeamTopologies](https://martinfowler.com/bliki/TeamTopologies.html)
 * [2023-07-26, 06:04:13](https://news.ycombinator.com/item?id=36873645) - [How to Dynamically Create Instance Variables in Ruby](https://www.akshaykhot.com/dynamically-create-instance-variables-ruby/)
-* [2023-07-26, 05:48:51](https://news.ycombinator.com/item?id=36873573) - [OpenPipes: Build your open-source virtual pipe organ system](https://openpipes.org/)
 * [2023-07-26, 04:05:54](https://news.ycombinator.com/item?id=36872955) - [Making 'The Blue Flash': How I reconstructed a fatal atomic accident](https://www.bbc.com/future/article/20230725-making-the-blue-flash-how-i-reconstructed-a-fatal-atomic-accident)
 
 ## [Archives](archives/index.md)
