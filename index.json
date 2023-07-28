@@ -1,12 +1,62 @@
 [
   [
     [
+      "2023-07-28, 15:43:56",
+      "https://news.ycombinator.com/item?id=36908574"
+    ],
+    [
+      "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "https://news.ycombinator.com/item?id=36908574"
+    ]
+  ],
+  [
+    [
+      "2023-07-28, 15:22:51",
+      "https://news.ycombinator.com/item?id=36908198"
+    ],
+    [
+      "Microsoft's AI shopping announcement contains hallucinations in the demo",
+      "https://www.perfectrec.com/posts/microsoft-ai-shopping-announcement-contains-hallucinations-in-the-demo"
+    ]
+  ],
+  [
+    [
+      "2023-07-28, 15:19:58",
+      "https://news.ycombinator.com/item?id=36908136"
+    ],
+    [
+      "California moves to silence Stanford researchers who got data to study education",
+      "https://edsource.org/2023/california-moves-to-silence-stanford-researchers-who-got-state-data-to-study-education-issues/694920"
+    ]
+  ],
+  [
+    [
+      "2023-07-28, 15:04:18",
+      "https://news.ycombinator.com/item?id=36907829"
+    ],
+    [
+      "Fabricated data in research about honesty",
+      "https://www.npr.org/2023/07/27/1190568472/dan-ariely-francesca-gino-harvard-dishonesty-fabricated-data"
+    ]
+  ],
+  [
+    [
       "2023-07-28, 14:54:42",
       "https://news.ycombinator.com/item?id=36907674"
     ],
     [
       "Forget Solar Panels. Here Come Rain Panels",
       "https://thedebrief.org/forget-solar-panels-here-come-rain-panels/"
+    ]
+  ],
+  [
+    [
+      "2023-07-28, 14:50:17",
+      "https://news.ycombinator.com/item?id=36907614"
+    ],
+    [
+      "How can AI help with climate change? A conversation with MIT's Priya Donti",
+      "https://transcripts.volts.wtf/how-can-ai-help-with-climate-change"
     ]
   ],
   [
@@ -77,6 +127,16 @@
     [
       "Tor’s shadowy reputation will only end if we all use it",
       "https://www.engadget.com/tor-dark-web-privacy-secure-browser-anonymous-130048839.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-28, 13:03:10",
+      "https://news.ycombinator.com/item?id=36906175"
+    ],
+    [
+      "Real life indirection is the root of all evil, and AI agents can fix it",
+      "https://marianogappa.github.io/software/2023/07/28/real-life-indirection-is-the-root-of-all-evil-and-ai-agents-can-fix-it/"
     ]
   ],
   [
@@ -171,46 +231,6 @@
   ],
   [
     [
-      "2023-07-28, 05:57:35",
-      "https://news.ycombinator.com/item?id=36903481"
-    ],
-    [
-      "On the future of free long term support for Linux distributions",
-      "https://utcc.utoronto.ca/~cks/space/blog/linux/LongTermSupportNoMoreFree"
-    ]
-  ],
-  [
-    [
-      "2023-07-28, 03:32:26",
-      "https://news.ycombinator.com/item?id=36902877"
-    ],
-    [
-      "Implementing Fast Barriers for a Shared-Memory Cluster of 1024 RISC-V Cores",
-      "https://semiengineering.com/implementing-fast-barriers-for-a-shared-memory-cluster-of-1024-risc-v-cores/"
-    ]
-  ],
-  [
-    [
-      "2023-07-28, 00:29:48",
-      "https://news.ycombinator.com/item?id=36901885"
-    ],
-    [
-      "The moral character of cryptographic work (2015)",
-      "https://web.cs.ucdavis.edu/~rogaway/papers/moral.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-27, 23:09:46",
-      "https://news.ycombinator.com/item?id=36901303"
-    ],
-    [
-      "Ask HN: Is the market bad, or am I having the worst luck job hunting?",
-      "https://news.ycombinator.com/item?id=36901303"
-    ]
-  ],
-  [
-    [
       "2023-07-27, 21:09:39",
       "https://news.ycombinator.com/item?id=36900201"
     ],
@@ -221,22 +241,22 @@
   ],
   [
     [
+      "2023-07-27, 18:25:38",
+      "https://news.ycombinator.com/item?id=36898068"
+    ],
+    [
+      "Knife Throwing Machine (2022) [video]",
+      "https://www.youtube.com/watch?v=-BKEZbYOMpI"
+    ]
+  ],
+  [
+    [
       "2023-07-27, 15:39:08",
       "https://news.ycombinator.com/item?id=36895220"
     ],
     [
       "Launch HN: PeerDB (YC S23) – Fast, Native ETL/ELT for Postgres",
       "https://news.ycombinator.com/item?id=36895220"
-    ]
-  ],
-  [
-    [
-      "2023-07-27, 15:20:35",
-      "https://news.ycombinator.com/item?id=36894932"
-    ],
-    [
-      "Building and operating a pretty big storage system called S3",
-      "https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "The First Map of the Moon",
       "https://www.historytoday.com/archive/months-past/first-map-moon"
-    ]
-  ],
-  [
-    [
-      "2023-07-26, 08:05:34",
-      "https://news.ycombinator.com/item?id=36874485"
-    ],
-    [
-      "TeamTopologies",
-      "https://martinfowler.com/bliki/TeamTopologies.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-26, 06:04:13",
-      "https://news.ycombinator.com/item?id=36873645"
-    ],
-    [
-      "How to Dynamically Create Instance Variables in Ruby",
-      "https://www.akshaykhot.com/dynamically-create-instance-variables-ruby/"
     ]
   ]
 ]
