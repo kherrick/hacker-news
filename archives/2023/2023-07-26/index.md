@@ -104,6 +104,7 @@
 * [2023-07-26, 05:04:02](https://news.ycombinator.com/item?id=36873322) - [Xerox PARC Special](https://thechipletter.substack.com/p/chip-letter-links-no-21-xerox-parc)
 * [2023-07-26, 04:50:00](https://news.ycombinator.com/item?id=36873243) - [1901: Semiconductor rectifiers patented as “cat's whisker” detectors](https://www.computerhistory.org/siliconengine/semiconductor-rectifiers-patented-as-cats-whisker-detectors/)
 * [2023-07-26, 04:34:15](https://news.ycombinator.com/item?id=36873131) - [Where do you discuss computer related stuff now?](https://lobste.rs/s/ih3cwj/where_do_you_discuss_computer_related)
+* [2023-07-26, 04:05:54](https://news.ycombinator.com/item?id=36872955) - [Making 'The Blue Flash': How I reconstructed a fatal atomic accident](https://www.bbc.com/future/article/20230725-making-the-blue-flash-how-i-reconstructed-a-fatal-atomic-accident)
 * [2023-07-26, 03:54:07](https://news.ycombinator.com/item?id=36872876) - [Netlify accounts are being suspended with no recourse](https://answers.netlify.com/t/my-netlify-account-ha-been-suspended-i-dont-know-why/97537)
 * [2023-07-26, 02:44:18](https://news.ycombinator.com/item?id=36872526) - [An Introduction to Saving Money](https://staythrive.com/saving-money/)
 * [2023-07-26, 02:41:55](https://news.ycombinator.com/item?id=36872514) - [Which GPU(s) to Get for Deep Learning](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/)
