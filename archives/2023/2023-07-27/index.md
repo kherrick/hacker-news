@@ -54,6 +54,7 @@
 * [2023-07-27, 14:32:23](https://news.ycombinator.com/item?id=36894198) - [DHCP is not blocked by ufw/iptables](https://unix.stackexchange.com/questions/447440/ufw-iptables-not-blocking-dhcp-udp-port-67#447524)
 * [2023-07-27, 14:19:31](https://news.ycombinator.com/item?id=36893965) - [Understanding Battery Performance of IoT Devices](https://interrupt.memfault.com/blog/monitoring-battery-life)
 * [2023-07-27, 14:16:05](https://news.ycombinator.com/item?id=36893922) - [Time Card Mini Adds Pi, GPS, and OXCO to Your PC](https://www.jeffgeerling.com/blog/2023/time-card-mini-adds-pi-gps-and-oxco-your-pc)
+* [2023-07-27, 14:03:43](https://news.ycombinator.com/item?id=36893695) - [Lean Meets Wicked Problems](https://steveblank.com/2023/07/25/lean-meets-wicked-problems/)
 * [2023-07-27, 14:01:08](https://news.ycombinator.com/item?id=36893654) - [Brave is a fork, not a Chromium reskinn](https://twitter.com/BrendanEich/status/1684561924191842304)
 * [2023-07-27, 14:00:18](https://news.ycombinator.com/item?id=36893635) - [The Design Thinking Movement Is Absurd (2018)](https://sts-news.medium.com/the-design-thinking-movement-is-absurd-83df815b92ea)
 * [2023-07-27, 13:58:55](https://news.ycombinator.com/item?id=36893611) - [Show HN: Fplyr – Adult Entertainment Tool for playing moaning sounds and music](https://github.com/pronopython/fplyr)

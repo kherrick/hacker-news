@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-07-28](index.md)
 
+* [2023-07-28, 14:25:10](https://news.ycombinator.com/item?id=36907248) - [Worldcoin isn’t as bad as it sounds: It’s worse](https://blockworks.co/news/worldcoin-privacy-concerns)
+* [2023-07-28, 14:13:33](https://news.ycombinator.com/item?id=36907093) - [Cecil Kelley Criticality Accident](https://en.wikipedia.org/wiki/Cecil_Kelley_criticality_accident)
+* [2023-07-28, 13:55:41](https://news.ycombinator.com/item?id=36906828) - [Brazil's Embraer plans to build electric flying taxi factory near Sao Paulo](https://www.bbc.com/news/world-latin-america-66264229)
 * [2023-07-28, 13:54:52](https://news.ycombinator.com/item?id=36906818) - [Fierce Nerds](http://paulgraham.com/fn.html)
+* [2023-07-28, 13:40:09](https://news.ycombinator.com/item?id=36906623) - [Monetal – Free Expense Tracker](https://monetal.app/index_en.php)
+* [2023-07-28, 13:28:44](https://news.ycombinator.com/item?id=36906482) - [New report from UNAIDS shows that AIDS can be ended by 2030](https://thepath.unaids.org/)
 * [2023-07-28, 13:28:20](https://news.ycombinator.com/item?id=36906472) - [US iPhone market share jumps to 55% as Android shipments fall sharply](https://9to5mac.com/2023/07/28/us-iphone-market-share-2/)
 * [2023-07-28, 13:25:54](https://news.ycombinator.com/item?id=36906435) - [Sci-Hub Founder Receives EFF Award for Providing Access to Scientific Knowledge](https://torrentfreak.com/sci-hubs-alexandra-elbakyan-receives-eff-award-for-providing-access-to-scientific-knowledge-230728/)
 * [2023-07-28, 13:18:51](https://news.ycombinator.com/item?id=36906348) - [How the PicoCray Was Made](https://www.raspberrypi.com/news/how-i-made-the-picocray-hackspace-69/)
