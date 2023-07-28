@@ -25,7 +25,7 @@
 * [2023-07-27, 06:22:12](https://news.ycombinator.com/item?id=36889656) - [How to Check 2 SQL Tables Are the Same](https://github.com/remysucre/blog/blob/main/posts/sql-eq.md)
 * [2023-07-27, 05:23:05](https://news.ycombinator.com/item?id=36889251) - [How the Cheesecake Factory defied the restaurant industry’s rules of success](https://www.vox.com/culture/23516638/cheesecake-factory-restaurant-menu)
 * [2023-07-27, 04:33:56](https://news.ycombinator.com/item?id=36888954) - [Tarsnap outage postmortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
-* [2023-07-26, 10:59:50](https://news.ycombinator.com/item?id=36875628) - [Genoa-X: Server V-Cache Round 2](https://chipsandcheese.com/2023/07/17/genoa-x-server-v-cache-round-2/)
+* [2023-07-26, 11:32:46](https://news.ycombinator.com/item?id=36875958) - [Computer Power and Human Reason (1976) [pdf]](https://web.archive.org/web/20230215010739if_/http://blogs.evergreen.edu/cpat/files/2013/05/Computer-Power-and-Human-Reason.pdf)
 * [2023-07-26, 10:47:59](https://news.ycombinator.com/item?id=36875524) - [How to Be Blind](https://www.newyorker.com/culture/the-weekend-essay/how-to-be-blind)
 * [2023-07-26, 08:05:34](https://news.ycombinator.com/item?id=36874485) - [TeamTopologies](https://martinfowler.com/bliki/TeamTopologies.html)
 * [2023-07-26, 06:04:13](https://news.ycombinator.com/item?id=36873645) - [How to Dynamically Create Instance Variables in Ruby](https://www.akshaykhot.com/dynamically-create-instance-variables-ruby/)
