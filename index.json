@@ -1,31 +1,11 @@
 [
   [
     [
-      "2023-07-28, 01:08:43",
-      "https://news.ycombinator.com/item?id=36902069"
-    ],
-    [
-      "The ‘Great Awokening’ Is Winding Down",
-      "https://musaalgharbi.com/2023/02/08/great-awokening-ending/"
-    ]
-  ],
-  [
-    [
-      "2023-07-28, 00:49:25",
-      "https://news.ycombinator.com/item?id=36901994"
-    ],
-    [
-      "Tesla exaggerated EV range so much that drivers thought cars were broken",
-      "https://arstechnica.com/tech-policy/2023/07/tesla-exaggerated-ev-range-so-much-that-drivers-thought-cars-were-broken/"
-    ]
-  ],
-  [
-    [
       "2023-07-28, 00:29:48",
       "https://news.ycombinator.com/item?id=36901885"
     ],
     [
-      "The Moral Character of Cryptographic Work (2015)",
+      "The moral character of cryptographic work (2015)",
       "https://web.cs.ucdavis.edu/~rogaway/papers/moral.html"
     ]
   ],
@@ -35,18 +15,18 @@
       "https://news.ycombinator.com/item?id=36901543"
     ],
     [
-      "Faster Filesystem Access with Directfs",
+      "Faster filesystem access with Directfs",
       "https://gvisor.dev/blog/2023/06/27/directfs/"
     ]
   ],
   [
     [
-      "2023-07-27, 21:27:18",
-      "https://news.ycombinator.com/item?id=36900388"
+      "2023-07-27, 23:23:17",
+      "https://news.ycombinator.com/item?id=36901406"
     ],
     [
-      "Llama and ChatGPT Are Not Open-Source",
-      "https://spectrum.ieee.org/openai-not-open"
+      "Graphite: In-development raster and vector 2D graphics editor that is FOSS",
+      "https://graphite.rs/"
     ]
   ],
   [
@@ -75,7 +55,7 @@
       "https://news.ycombinator.com/item?id=36900106"
     ],
     [
-      "Svix (YC W21) Is Hiring a Founding Account Executive (US Remote)",
+      "Svix (YC W21) is hiring a founding account executive (US remote)",
       "https://www.svix.com/careers/"
     ]
   ],
@@ -85,7 +65,7 @@
       "https://news.ycombinator.com/item?id=36899656"
     ],
     [
-      "No one wants to talk to a chatbot",
+      "No one wants to talk to your chatbot",
       "https://lucas-mcgregor.medium.com/no-one-wants-to-talk-to-your-chatbot-9d8bb1a70266"
     ]
   ],
@@ -97,6 +77,16 @@
     [
       "Annual EFF Awards: Alexandra Elbakyan, Library Freedom Project, and Signal",
       "https://www.eff.org/press/releases/electronic-frontier-foundation-present-annual-eff-awards-alexandra-asanovna-elbakyan"
+    ]
+  ],
+  [
+    [
+      "2023-07-27, 19:59:45",
+      "https://news.ycombinator.com/item?id=36899316"
+    ],
+    [
+      "Show HN: Envoy playground in the browser",
+      "https://envoy-playground.apoxy.dev"
     ]
   ],
   [
@@ -115,7 +105,7 @@
       "https://news.ycombinator.com/item?id=36899029"
     ],
     [
-      "Kill DWM (on Windows11) for less input lag and better performance",
+      "Kill dwm.exe on Windows for less input lag and better performance",
       "https://github.com/nebuloss/killer"
     ]
   ],
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2023-07-27, 14:59:34",
+      "https://news.ycombinator.com/item?id=36894613"
+    ],
+    [
+      "Room temperature, ambient pressure superconductivity – this time for real?",
+      "https://scanalyst.fourmilab.ch/t/room-temperature-ambient-pressure-superconductivity-this-time-for-real/3512"
+    ]
+  ],
+  [
+    [
       "2023-07-27, 13:16:41",
       "https://news.ycombinator.com/item?id=36892970"
     ],
@@ -211,22 +211,22 @@
   ],
   [
     [
+      "2023-07-27, 05:23:05",
+      "https://news.ycombinator.com/item?id=36889251"
+    ],
+    [
+      "How the Cheesecake Factory defied the restaurant industry’s rules of success",
+      "https://www.vox.com/culture/23516638/cheesecake-factory-restaurant-menu"
+    ]
+  ],
+  [
+    [
       "2023-07-27, 04:33:56",
       "https://news.ycombinator.com/item?id=36888954"
     ],
     [
       "Tarsnap outage postmortem",
       "https://mail.tarsnap.com/tarsnap-announce/msg00050.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-27, 00:15:14",
-      "https://news.ycombinator.com/item?id=36887025"
-    ],
-    [
-      "Modern Tourism Makes It Difficult to Appreciate the Sistine Chapel",
-      "https://lithub.com/modern-tourism-makes-it-difficult-to-truly-appreciate-the-sistine-chapel/"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=36875815"
     ],
     [
-      "An Introduction to Metaprogramming in Ruby",
+      "An introduction to metaprogramming in Ruby",
       "https://blog.appsignal.com/2023/07/26/an-introduction-to-metaprogramming-in-ruby.html"
     ]
   ],
@@ -275,8 +275,8 @@
       "https://news.ycombinator.com/item?id=36873573"
     ],
     [
-      "OpenPipes Revolutionizes the DIY Pipe Organs",
-      "https://makezine.com/article/craft/music/openpipes-revolutionizes-the-diy-pipe-organs/"
+      "OpenPipes: Build your open-source virtual pipe organ system",
+      "https://openpipes.org/"
     ]
   ],
   [
