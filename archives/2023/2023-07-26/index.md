@@ -86,6 +86,7 @@
 * [2023-07-26, 11:23:04](https://news.ycombinator.com/item?id=36875862) - [Unesco calls for global ban on smartphones in schools](https://www.theguardian.com/world/2023/jul/26/put-learners-first-unesco-calls-for-global-ban-on-smartphones-in-schools)
 * [2023-07-26, 11:19:07](https://news.ycombinator.com/item?id=36875816) - [How MOS 6502 Illegal Opcodes work](https://www.pagetable.com/?p=39)
 * [2023-07-26, 11:18:49](https://news.ycombinator.com/item?id=36875815) - [An Introduction to Metaprogramming in Ruby](https://blog.appsignal.com/2023/07/26/an-introduction-to-metaprogramming-in-ruby.html)
+* [2023-07-26, 10:59:50](https://news.ycombinator.com/item?id=36875628) - [Genoa-X: Server V-Cache Round 2](https://chipsandcheese.com/2023/07/17/genoa-x-server-v-cache-round-2/)
 * [2023-07-26, 10:59:03](https://news.ycombinator.com/item?id=36875622) - [Legacy on Earth May Be a Plant](https://worldsensorium.com/your-legacy-on-earth-may-be-a-plant/)
 * [2023-07-26, 10:47:59](https://news.ycombinator.com/item?id=36875524) - [How to Be Blind](https://www.newyorker.com/culture/the-weekend-essay/how-to-be-blind)
 * [2023-07-26, 10:47:02](https://news.ycombinator.com/item?id=36875513) - [1Sub.dev – A world where people pay for software](https://1sub.dev/)
