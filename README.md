@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-28, 18:45:12](https://news.ycombinator.com/item?id=36911361) - [Free prison phone calls boost family ties, rehabilitation](https://www.latimes.com/politics/story/2023-07-27/free-calls-restore-inmates-ties-with-the-outside-can-they-reform-californias-prisons-too)
 * [2023-07-28, 18:36:30](https://news.ycombinator.com/item?id=36911232) - [Most of the 100M people who signed up for Threads stopped using it](https://arstechnica.com/tech-policy/2023/07/zuck-says-threads-doing-better-than-expected-despite-losing-over-half-of-users/)
 * [2023-07-28, 17:28:41](https://news.ycombinator.com/item?id=36910256) - [Play deprivation is a major cause of the teen mental health crisis](https://jonathanhaidt.substack.com/p/the-play-deficit)
 * [2023-07-28, 17:27:57](https://news.ycombinator.com/item?id=36910245) - [Threads users down by more than a half](https://www.bbc.co.uk/news/technology-66336058)
@@ -14,7 +15,6 @@
 * [2023-07-28, 15:19:58](https://news.ycombinator.com/item?id=36908136) - [California moves to silence Stanford researchers who got data to study education](https://edsource.org/2023/california-moves-to-silence-stanford-researchers-who-got-state-data-to-study-education-issues/694920)
 * [2023-07-28, 15:04:18](https://news.ycombinator.com/item?id=36907829) - [Fabricated data in research about honesty](https://www.npr.org/2023/07/27/1190568472/dan-ariely-francesca-gino-harvard-dishonesty-fabricated-data)
 * [2023-07-28, 14:54:42](https://news.ycombinator.com/item?id=36907674) - [Rain Panels: Harvesting the energy of falling raindrops](https://thedebrief.org/forget-solar-panels-here-come-rain-panels/)
-* [2023-07-28, 14:42:22](https://news.ycombinator.com/item?id=36907504) - [Show HN: Selecta – Tune Your Own Spotify Recommendation Algorithm](https://selecta.ciaran.co.za/)
 * [2023-07-28, 13:40:09](https://news.ycombinator.com/item?id=36906623) - [Monetal – Free Expense Tracker](https://monetal.app/index_en.php)
 * [2023-07-28, 13:28:20](https://news.ycombinator.com/item?id=36906472) - [US iPhone market share jumps to 55% as Android shipments fall sharply](https://9to5mac.com/2023/07/28/us-iphone-market-share-2/)
 * [2023-07-28, 13:26:32](https://news.ycombinator.com/item?id=36906450) - [Show HN: Chie – a cross-platform, native, and extensible desktop client for LLMs](https://chie.app/posts/introduce-the-chie-app/)
