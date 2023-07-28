@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=36906482"
     ],
     [
-      "New report from UNAIDS shows that AIDS can be ended by 2030",
+      "2023 UNAIDS global AIDS update",
       "https://thepath.unaids.org/"
     ]
   ],
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=36906435"
     ],
     [
-      "Sci-Hub Founder Receives EFF Award for Providing Access to Scientific Knowledge",
+      "Sci-Hub founder receives EFF award for providing access to scientific knowledge",
       "https://torrentfreak.com/sci-hubs-alexandra-elbakyan-receives-eff-award-for-providing-access-to-scientific-knowledge-230728/"
     ]
   ],
@@ -71,31 +71,11 @@
   ],
   [
     [
-      "2023-07-28, 13:09:57",
-      "https://news.ycombinator.com/item?id=36906254"
-    ],
-    [
-      "Daring Fireball, John Gruber, and Threads",
-      "https://dmitriid.com/all/daring-fireball-john-gruber-and-threads/"
-    ]
-  ],
-  [
-    [
-      "2023-07-28, 13:03:10",
-      "https://news.ycombinator.com/item?id=36906175"
-    ],
-    [
-      "Real life indirection is the root of all evil, and AI agents can fix it",
-      "https://marianogappa.github.io/software/2023/07/28/real-life-indirection-is-the-root-of-all-evil-and-ai-agents-can-fix-it/"
-    ]
-  ],
-  [
-    [
       "2023-07-28, 12:59:58",
       "https://news.ycombinator.com/item?id=36906140"
     ],
     [
-      "Cophone – Your Virtual Smartphone",
+      "Cophone – Mobile work phones running in the cloud",
       "https://cophone.io/"
     ]
   ],
@@ -145,7 +125,7 @@
       "https://news.ycombinator.com/item?id=36905076"
     ],
     [
-      "New AI model translates vision and language into robotic actions",
+      "RT-2 AI model translates vision and language into robotic actions",
       "https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/"
     ]
   ],
@@ -197,6 +177,26 @@
     [
       "Implementing Fast Barriers for a Shared-Memory Cluster of 1024 RISC-V Cores",
       "https://semiengineering.com/implementing-fast-barriers-for-a-shared-memory-cluster-of-1024-risc-v-cores/"
+    ]
+  ],
+  [
+    [
+      "2023-07-28, 00:29:48",
+      "https://news.ycombinator.com/item?id=36901885"
+    ],
+    [
+      "The moral character of cryptographic work (2015)",
+      "https://web.cs.ucdavis.edu/~rogaway/papers/moral.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-28, 00:20:59",
+      "https://news.ycombinator.com/item?id=36901815"
+    ],
+    [
+      "WebArena: A realistic web environment for building autonomous agents",
+      "https://webarena.dev/"
     ]
   ],
   [
