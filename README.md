@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-28, 13:08:40](https://news.ycombinator.com/item?id=36906240) - [PPP fraud history's worst: $200B stolen and blown on fancy cars and beach houses](https://nypost.com/2023/07/14/ppp-fraud-is-worst-in-history-200b-stolen-splurged-on-lamborghinis-and-bling/)
+* [2023-07-28, 13:12:15](https://news.ycombinator.com/item?id=36906284) - [Tor’s shadowy reputation will only end if we all use it](https://www.engadget.com/tor-dark-web-privacy-secure-browser-anonymous-130048839.html)
 * [2023-07-28, 12:00:42](https://news.ycombinator.com/item?id=36905630) - [Finley (YC W21) Is Hiring to Rethink Capital Markets Infrastructure (US Remote)](https://www.finleycms.com/careers/)
 * [2023-07-28, 11:32:48](https://news.ycombinator.com/item?id=36905405) - [There Are at Least 10 Cities with Their Own Psychological Disorders](https://www.atlasobscura.com/articles/cities-with-psychological-syndromes-stockholm)
 * [2023-07-28, 11:16:46](https://news.ycombinator.com/item?id=36905295) - [Apple cracking down on 'fingerprinting' with new App Store API rules](https://www.engadget.com/apple-cracking-down-on-fingerprinting-with-new-app-store-api-rules-080007498.html)
