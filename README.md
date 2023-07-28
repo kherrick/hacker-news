@@ -16,7 +16,6 @@
 * [2023-07-28, 14:54:42](https://news.ycombinator.com/item?id=36907674) - [Rain Panels: Harvesting the energy of falling raindrops](https://thedebrief.org/forget-solar-panels-here-come-rain-panels/)
 * [2023-07-28, 13:28:20](https://news.ycombinator.com/item?id=36906472) - [US smartphone shipments fall sharply, but Android more than iPhone](https://www.counterpointresearch.com/us-smartphone-shipments-q2-2023/)
 * [2023-07-28, 13:26:32](https://news.ycombinator.com/item?id=36906450) - [Show HN: Chie – a cross-platform, native, and extensible desktop client for LLMs](https://chie.app/posts/introduce-the-chie-app/)
-* [2023-07-28, 13:12:15](https://news.ycombinator.com/item?id=36906284) - [Tor’s shadowy reputation will only end if we all use it](https://www.engadget.com/tor-dark-web-privacy-secure-browser-anonymous-130048839.html)
 * [2023-07-28, 12:59:58](https://news.ycombinator.com/item?id=36906140) - [Cophone – Mobile work phones running in the cloud](https://cophone.io/)
 * [2023-07-28, 12:54:23](https://news.ycombinator.com/item?id=36906085) - [Threads users down by more than a half](https://www.bbc.com/news/technology-66336058)
 * [2023-07-28, 12:46:19](https://news.ycombinator.com/item?id=36906022) - [Watch TV from the 90s and earlier](https://my90stv.com/)
@@ -29,6 +28,7 @@
 * [2023-07-27, 22:06:37](https://news.ycombinator.com/item?id=36900782) - [List of APIs that require declared reasons](https://developer.apple.com/news/?id=z6fu1dcu)
 * [2023-07-27, 18:25:38](https://news.ycombinator.com/item?id=36898068) - [Knife Throwing Machine (2022) [video]](https://www.youtube.com/watch?v=-BKEZbYOMpI)
 * [2023-07-27, 11:16:00](https://news.ycombinator.com/item?id=36891873) - [Yerkes Observatory: Restoring the World’s Largest Refracting Telescope](https://www.grainger.com/know-how/inspiration/kh-yerkes-observatory-restoring-worlds-largest-refracting-telescope)
+* [2023-07-27, 08:52:22](https://news.ycombinator.com/item?id=36890748) - [413. The Isle of Luing](https://britishcoast.wordpress.com/2023/07/26/413-the-isle-of-luing/)
 * [2023-07-27, 06:22:12](https://news.ycombinator.com/item?id=36889656) - [How to check if two SQL tables are the same](https://github.com/remysucre/blog/blob/main/posts/sql-eq.md)
 
 ## [Archives](archives/index.md)
