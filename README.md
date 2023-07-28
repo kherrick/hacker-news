@@ -1,12 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-28, 22:15:36](https://news.ycombinator.com/item?id=36914085) - [Electric recumbent bikes are 80 more efficient than EV](https://www.lowtechmagazine.com/les-v%C3%A9lomobiles-electriques-aussi-rapides-et-confortables-que-les-automobiles-mais-80-fois-plus-efficaces.html)
 * [2023-07-28, 22:05:32](https://news.ycombinator.com/item?id=36913988) - [Ring is having a major outage](https://status.ring.com)
 * [2023-07-28, 21:50:36](https://news.ycombinator.com/item?id=36913835) - [SpaceX punched a hole in the ionosphere](https://spaceweatherarchive.com/2023/07/23/spacex-punched-a-hole-in-the-ionosphere/)
 * [2023-07-28, 21:43:52](https://news.ycombinator.com/item?id=36913766) - [Why no Roman industrial revolution?](https://rootsofprogress.org/why-no-roman-industrial-revolution)
+* [2023-07-28, 21:24:59](https://news.ycombinator.com/item?id=36913569) - [Mess with DNS](https://messwithdns.net)
 * [2023-07-28, 21:01:41](https://news.ycombinator.com/item?id=36913268) - [The U.K. government is close to eroding encryption worldwide](https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide)
 * [2023-07-28, 21:01:14](https://news.ycombinator.com/item?id=36913263) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=36913263)
 * [2023-07-28, 20:48:28](https://news.ycombinator.com/item?id=36913103) - [Wordward Draw](https://managore.itch.io/wordward-draw)
-* [2023-07-28, 20:38:26](https://news.ycombinator.com/item?id=36912979) - [Real-Time Monitoring of Aerosols Generated from Toilet Flushing](https://www.microbiologyresearch.org/content/journal/acmi/10.1099/acmi.fis2019.po0192)
+* [2023-07-28, 20:38:26](https://news.ycombinator.com/item?id=36912979) - [Real-time monitoring of aerosols generated from toilet flushing](https://www.microbiologyresearch.org/content/journal/acmi/10.1099/acmi.fis2019.po0192)
 * [2023-07-28, 20:30:06](https://news.ycombinator.com/item?id=36912861) - [The Fenland Black Oak Project](https://www.thefenlandblackoakproject.co.uk/our-story)
 * [2023-07-28, 19:22:10](https://news.ycombinator.com/item?id=36911923) - [The Lonely Work of Moderating Hacker News (2019)](https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news)
 * [2023-07-28, 18:53:26](https://news.ycombinator.com/item?id=36911481) - [Tremor – The React library to build dashboards fast](https://www.tremor.so/)
@@ -28,8 +30,6 @@
 * [2023-07-28, 04:27:28](https://news.ycombinator.com/item?id=36903103) - [Interview with Yael Tauman Kalai, a cryptographer at Microsoft](https://www.quantamagazine.org/the-cryptographer-who-ensures-we-can-trust-our-computers-20230727/)
 * [2023-07-28, 01:04:30](https://news.ycombinator.com/item?id=36902050) - [USC Optical Sound Effects Library](https://archive.org/details/usc-sound-effect-archive?tab=collection)
 * [2023-07-27, 22:06:37](https://news.ycombinator.com/item?id=36900782) - [List of APIs that require declared reasons](https://developer.apple.com/news/?id=z6fu1dcu)
-* [2023-07-27, 08:52:22](https://news.ycombinator.com/item?id=36890748) - [413. The Isle of Luing](https://britishcoast.wordpress.com/2023/07/26/413-the-isle-of-luing/)
-* [2023-07-27, 06:22:12](https://news.ycombinator.com/item?id=36889656) - [How to check if two SQL tables are the same](https://github.com/remysucre/blog/blob/main/posts/sql-eq.md)
 
 ## [Archives](archives/index.md)
 

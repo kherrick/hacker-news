@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-07-28](index.md)
 
+* [2023-07-28, 22:15:36](https://news.ycombinator.com/item?id=36914085) - [Electric recumbent bikes are 80 more efficient than EV](https://www.lowtechmagazine.com/les-v%C3%A9lomobiles-electriques-aussi-rapides-et-confortables-que-les-automobiles-mais-80-fois-plus-efficaces.html)
 * [2023-07-28, 22:05:32](https://news.ycombinator.com/item?id=36913988) - [Ring is having a major outage](https://status.ring.com)
 * [2023-07-28, 21:50:36](https://news.ycombinator.com/item?id=36913835) - [SpaceX Punched a Hole in the Ionosphere](https://spaceweatherarchive.com/2023/07/23/spacex-punched-a-hole-in-the-ionosphere/)
 * [2023-07-28, 21:43:52](https://news.ycombinator.com/item?id=36913766) - [Why No Roman Industrial Revolution?](https://rootsofprogress.org/why-no-roman-industrial-revolution)
+* [2023-07-28, 21:24:59](https://news.ycombinator.com/item?id=36913569) - [Mess with DNS](https://messwithdns.net)
 * [2023-07-28, 21:07:17](https://news.ycombinator.com/item?id=36913328) - [The Python Steering Council intent to approve PEP 703: making the GIL optional](https://discuss.python.org/t/a-steering-council-notice-about-pep-703-making-the-global-interpreter-lock-optional-in-cpython/30474)
 * [2023-07-28, 21:01:41](https://news.ycombinator.com/item?id=36913268) - [The U.K. Government Is Close to Eroding Encryption Worldwide](https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide)
 * [2023-07-28, 21:01:14](https://news.ycombinator.com/item?id=36913263) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=36913263)
