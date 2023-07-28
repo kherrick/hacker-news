@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-28, 06:30:31](https://news.ycombinator.com/item?id=36903642) - [The Dark Side of A.I.: Understanding the Dangers of Deepfake Images](https://blog.theabhishek.dev/the-dark-side-of-ai-understanding-the-dangers-of-deepfake-images)
 * [2023-07-28, 03:32:26](https://news.ycombinator.com/item?id=36902877) - [Implementing Fast Barriers for a Shared-Memory Cluster of 1024 RISC-V Cores](https://semiengineering.com/implementing-fast-barriers-for-a-shared-memory-cluster-of-1024-risc-v-cores/)
 * [2023-07-28, 00:29:48](https://news.ycombinator.com/item?id=36901885) - [The moral character of cryptographic work (2015)](https://web.cs.ucdavis.edu/~rogaway/papers/moral.html)
 * [2023-07-28, 00:20:59](https://news.ycombinator.com/item?id=36901815) - [WebArena: A realistic web environment for building autonomous agents](https://webarena.dev/)
@@ -17,7 +18,6 @@
 * [2023-07-27, 16:27:34](https://news.ycombinator.com/item?id=36896034) - [BlazingMQ: High-performance open source message queuing system](https://bloomberg.github.io/blazingmq/)
 * [2023-07-27, 15:39:08](https://news.ycombinator.com/item?id=36895220) - [Launch HN: PeerDB (YC S23) – Fast, Native ETL/ELT for Postgres](https://news.ycombinator.com/item?id=36895220)
 * [2023-07-27, 15:20:35](https://news.ycombinator.com/item?id=36894932) - [Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
-* [2023-07-27, 13:16:41](https://news.ycombinator.com/item?id=36892970) - [Wavy walls use fewer bricks than a straight wall (2020)](https://twistedsifter.com/2020/06/how-wavy-crinkle-crankle-walls-use-less-bricks-than-straight-walls/)
 * [2023-07-27, 05:23:05](https://news.ycombinator.com/item?id=36889251) - [How the Cheesecake Factory defied the restaurant industry’s rules of success](https://www.vox.com/culture/23516638/cheesecake-factory-restaurant-menu)
 * [2023-07-27, 04:33:56](https://news.ycombinator.com/item?id=36888954) - [Tarsnap outage postmortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
 * [2023-07-26, 11:32:46](https://news.ycombinator.com/item?id=36875958) - [Computer Power and Human Reason (1976) [pdf]](https://web.archive.org/web/20230215010739if_/http://blogs.evergreen.edu/cpat/files/2013/05/Computer-Power-and-Human-Reason.pdf)
