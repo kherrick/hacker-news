@@ -6,6 +6,7 @@
 
 * [2023-07-28, 09:14:54](https://news.ycombinator.com/item?id=36904552) - [After Raising $235K, Abode Remains Committed to Taking on Adobe](https://petapixel.com/2023/07/26/after-raising-235k-abode-remains-committed-to-taking-on-adobe/)
 * [2023-07-28, 09:04:57](https://news.ycombinator.com/item?id=36904504) - [Removal of Google from W3C over the Implementation of Web Environment Integrity](https://mastodon.social/@tolmasky/110780599992085798)
+* [2023-07-28, 08:42:10](https://news.ycombinator.com/item?id=36904347) - [$650 in our Stripe account has been fully refunded to the customer](https://news.ycombinator.com/item?id=36904347)
 * [2023-07-28, 08:40:29](https://news.ycombinator.com/item?id=36904338) - [VyOS From Scratch – Edition 1 (set up your own router)](https://blog.kroy.io/2020/05/04/vyos-from-scratch-edition-1/)
 * [2023-07-28, 07:04:08](https://news.ycombinator.com/item?id=36903815) - [Mindfulness-Based Programs Show Promise in Reducing Psychological Distress](https://www.nature.com/articles/s44220-023-00081-5)
 * [2023-07-28, 06:30:31](https://news.ycombinator.com/item?id=36903642) - [The Dark Side of A.I.: Understanding the Dangers of Deepfake Images](https://blog.theabhishek.dev/the-dark-side-of-ai-understanding-the-dangers-of-deepfake-images)
