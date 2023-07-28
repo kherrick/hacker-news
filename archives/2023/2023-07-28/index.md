@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-28](index.md)
 
+* [2023-07-28, 18:36:30](https://news.ycombinator.com/item?id=36911232) - [Most of the 100M people who signed up for Threads stopped using it](https://arstechnica.com/tech-policy/2023/07/zuck-says-threads-doing-better-than-expected-despite-losing-over-half-of-users/)
 * [2023-07-28, 17:28:41](https://news.ycombinator.com/item?id=36910256) - [Play Deprivation Is a Major Cause of the Teen Mental Health Crisis](https://jonathanhaidt.substack.com/p/the-play-deficit)
 * [2023-07-28, 17:27:57](https://news.ycombinator.com/item?id=36910245) - [Mark Zuckerberg: Threads users down by more than a half](https://www.bbc.co.uk/news/technology-66336058)
 * [2023-07-28, 17:20:55](https://news.ycombinator.com/item?id=36910146) - [“Web Environment Integrity” is an all-out attack on the free Internet](https://www.fsf.org/blogs/community/web-environment-integrity-is-an-all-out-attack-on-the-free-internet)
