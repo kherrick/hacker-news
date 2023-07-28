@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-07-28, 01:28:50",
+      "https://news.ycombinator.com/item?id=36902183"
+    ],
+    [
+      "'Swine flu' strain has passed from humans to swine ~400 times since 2009: study",
+      "https://medicalxpress.com/news/2023-07-swine-flu-strain-humans.html"
+    ]
+  ],
+  [
+    [
       "2023-07-28, 00:29:48",
       "https://news.ycombinator.com/item?id=36901885"
     ],
     [
       "The moral character of cryptographic work (2015)",
       "https://web.cs.ucdavis.edu/~rogaway/papers/moral.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-28, 00:20:59",
+      "https://news.ycombinator.com/item?id=36901815"
+    ],
+    [
+      "WebArena: A realistic web environment for building autonomous agents",
+      "https://webarena.dev/"
     ]
   ],
   [
@@ -25,18 +45,8 @@
       "https://news.ycombinator.com/item?id=36901406"
     ],
     [
-      "Graphite: In-development raster and vector 2D graphics editor that is FOSS",
+      "Graphite: Open-source raster and vector 2D graphics editor",
       "https://graphite.rs/"
-    ]
-  ],
-  [
-    [
-      "2023-07-27, 21:19:01",
-      "https://news.ycombinator.com/item?id=36900302"
-    ],
-    [
-      "ICML 2023 Outstanding Paper Awards",
-      "https://icml.cc/Conferences/2023/Awards"
     ]
   ],
   [
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2023-07-27, 20:26:22",
-      "https://news.ycombinator.com/item?id=36899656"
-    ],
-    [
-      "No one wants to talk to your chatbot",
-      "https://lucas-mcgregor.medium.com/no-one-wants-to-talk-to-your-chatbot-9d8bb1a70266"
-    ]
-  ],
-  [
-    [
       "2023-07-27, 20:22:13",
       "https://news.ycombinator.com/item?id=36899608"
     ],
@@ -81,12 +81,12 @@
   ],
   [
     [
-      "2023-07-27, 19:59:45",
-      "https://news.ycombinator.com/item?id=36899316"
+      "2023-07-27, 20:10:48",
+      "https://news.ycombinator.com/item?id=36899461"
     ],
     [
-      "Show HN: Envoy playground in the browser",
-      "https://envoy-playground.apoxy.dev"
+      "Hydraulic Steering – Principles of Operation (1956) [video]",
+      "https://www.youtube.com/watch?v=VDiOKqMKTO8"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2023-07-27, 14:59:34",
-      "https://news.ycombinator.com/item?id=36894613"
-    ],
-    [
-      "Room temperature, ambient pressure superconductivity – this time for real?",
-      "https://scanalyst.fourmilab.ch/t/room-temperature-ambient-pressure-superconductivity-this-time-for-real/3512"
-    ]
-  ],
-  [
-    [
       "2023-07-27, 13:16:41",
       "https://news.ycombinator.com/item?id=36892970"
     ],
@@ -231,12 +221,22 @@
   ],
   [
     [
-      "2023-07-26, 11:33:06",
-      "https://news.ycombinator.com/item?id=36875962"
+      "2023-07-26, 19:08:22",
+      "https://news.ycombinator.com/item?id=36883227"
     ],
     [
-      "Show HN: I built a multiplayer Gameboy",
-      "https://github.com/tjholm/multiboy"
+      "Can Nature Lie?",
+      "https://www.theatlantic.com/books/archive/2023/07/evolution-liars-of-nature-lixing-sun-review/674808/"
+    ]
+  ],
+  [
+    [
+      "2023-07-26, 11:32:46",
+      "https://news.ycombinator.com/item?id=36875958"
+    ],
+    [
+      "Computer Power and Human Reason (1976) [pdf]",
+      "https://web.archive.org/web/20230215010739if_/http://blogs.evergreen.edu/cpat/files/2013/05/Computer-Power-and-Human-Reason.pdf"
     ]
   ],
   [
