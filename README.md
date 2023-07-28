@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-28, 21:01:41](https://news.ycombinator.com/item?id=36913268) - [The U.K. Government Is Close to Eroding Encryption Worldwide](https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide)
 * [2023-07-28, 21:01:14](https://news.ycombinator.com/item?id=36913263) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=36913263)
 * [2023-07-28, 20:48:28](https://news.ycombinator.com/item?id=36913103) - [Wordward Draw](https://managore.itch.io/wordward-draw)
 * [2023-07-28, 20:30:06](https://news.ycombinator.com/item?id=36912861) - [The Fenland Black Oak Project](https://www.thefenlandblackoakproject.co.uk/our-story)
@@ -26,7 +27,6 @@
 * [2023-07-28, 04:27:28](https://news.ycombinator.com/item?id=36903103) - [Interview with Yael Tauman Kalai, a cryptographer at Microsoft](https://www.quantamagazine.org/the-cryptographer-who-ensures-we-can-trust-our-computers-20230727/)
 * [2023-07-28, 01:59:58](https://news.ycombinator.com/item?id=36902378) - [Out of the crooked timber of humanity, no straight thing was ever made](https://theconvivialsociety.substack.com/p/embrace-your-crookedness)
 * [2023-07-27, 22:06:37](https://news.ycombinator.com/item?id=36900782) - [List of APIs that require declared reasons](https://developer.apple.com/news/?id=z6fu1dcu)
-* [2023-07-27, 18:25:38](https://news.ycombinator.com/item?id=36898068) - [Knife Throwing Machine (2022) [video]](https://www.youtube.com/watch?v=-BKEZbYOMpI)
 * [2023-07-27, 11:16:00](https://news.ycombinator.com/item?id=36891873) - [Yerkes Observatory: Restoring the World’s Largest Refracting Telescope](https://www.grainger.com/know-how/inspiration/kh-yerkes-observatory-restoring-worlds-largest-refracting-telescope)
 * [2023-07-27, 08:52:22](https://news.ycombinator.com/item?id=36890748) - [413. The Isle of Luing](https://britishcoast.wordpress.com/2023/07/26/413-the-isle-of-luing/)
 * [2023-07-27, 06:22:12](https://news.ycombinator.com/item?id=36889656) - [How to check if two SQL tables are the same](https://github.com/remysucre/blog/blob/main/posts/sql-eq.md)
