@@ -99,6 +99,7 @@
 * [2023-07-26, 06:49:34](https://news.ycombinator.com/item?id=36873927) - [Systemctl –Force –Force Reboot](https://news.ycombinator.com/item?id=36873927)
 * [2023-07-26, 06:04:14](https://news.ycombinator.com/item?id=36873646) - [Japan’s population drops by nearly 800k](https://www.theguardian.com/world/2023/jul/26/japan-population-how-many-people-drops-first-time-births-deaths)
 * [2023-07-26, 06:02:44](https://news.ycombinator.com/item?id=36873635) - [The Oldest and Most Expensive Rum in the World](https://harewood.org/about/blog/notes/the-oldest-and-most-expensive-rum-in-the-world/)
+* [2023-07-26, 05:48:51](https://news.ycombinator.com/item?id=36873573) - [OpenPipes: Build your open-source virtual pipe organ system](https://openpipes.org/)
 * [2023-07-26, 05:48:51](https://news.ycombinator.com/item?id=36873573) - [OpenPipes Revolutionizes the DIY Pipe Organs](https://makezine.com/article/craft/music/openpipes-revolutionizes-the-diy-pipe-organs/)
 * [2023-07-26, 05:38:50](https://news.ycombinator.com/item?id=36873516) - [Scientists Say Recycling Has Backfired Spectacularly](https://futurism.com/the-byte/scientists-recycling-backfired)
 * [2023-07-26, 05:04:02](https://news.ycombinator.com/item?id=36873322) - [Xerox PARC Special](https://thechipletter.substack.com/p/chip-letter-links-no-21-xerox-parc)
