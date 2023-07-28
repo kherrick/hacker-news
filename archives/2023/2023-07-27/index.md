@@ -8,6 +8,7 @@
 * [2023-07-27, 23:30:23](https://news.ycombinator.com/item?id=36901460) - [Sinead O’Connor Condemned Church Abuse Early. America Didn’t Listen](https://www.nytimes.com/2023/07/27/nyregion/sinead-oconnor-childhood-abuse.html)
 * [2023-07-27, 23:25:20](https://news.ycombinator.com/item?id=36901415) - [Ask HN: Why are Tesla negative stories muted on HN?](https://news.ycombinator.com/item?id=36901415)
 * [2023-07-27, 23:23:17](https://news.ycombinator.com/item?id=36901406) - [Graphite: In-development raster and vector 2D graphics editor that is FOSS](https://graphite.rs/)
+* [2023-07-27, 23:09:46](https://news.ycombinator.com/item?id=36901303) - [Ask HN: Is the market bad, or am I having the worst luck job hunting?](https://news.ycombinator.com/item?id=36901303)
 * [2023-07-27, 21:27:18](https://news.ycombinator.com/item?id=36900388) - [Llama and ChatGPT Are Not Open-Source](https://spectrum.ieee.org/openai-not-open)
 * [2023-07-27, 21:19:01](https://news.ycombinator.com/item?id=36900302) - [ICML 2023 Outstanding Paper Awards](https://icml.cc/Conferences/2023/Awards)
 * [2023-07-27, 21:18:16](https://news.ycombinator.com/item?id=36900294) - [LeMUR: LLMs for Audio and Speech](https://www.assemblyai.com/blog/lemur/)
