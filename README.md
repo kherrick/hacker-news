@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-28, 13:08:40](https://news.ycombinator.com/item?id=36906240) - [PPP fraud history's worst: $200B stolen and blown on fancy cars and beach houses](https://nypost.com/2023/07/14/ppp-fraud-is-worst-in-history-200b-stolen-splurged-on-lamborghinis-and-bling/)
 * [2023-07-28, 12:00:42](https://news.ycombinator.com/item?id=36905630) - [Finley (YC W21) Is Hiring to Rethink Capital Markets Infrastructure (US Remote)](https://www.finleycms.com/careers/)
+* [2023-07-28, 11:32:48](https://news.ycombinator.com/item?id=36905405) - [There Are at Least 10 Cities with Their Own Psychological Disorders](https://www.atlasobscura.com/articles/cities-with-psychological-syndromes-stockholm)
 * [2023-07-28, 11:16:46](https://news.ycombinator.com/item?id=36905295) - [Apple cracking down on 'fingerprinting' with new App Store API rules](https://www.engadget.com/apple-cracking-down-on-fingerprinting-with-new-app-store-api-rules-080007498.html)
 * [2023-07-28, 10:45:17](https://news.ycombinator.com/item?id=36905076) - [What is RT-2? Google DeepMind’s vision-language-action model for robotics](https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/)
 * [2023-07-28, 08:40:29](https://news.ycombinator.com/item?id=36904338) - [VyOS From Scratch – Edition 1 (set up your own router)](https://blog.kroy.io/2020/05/04/vyos-from-scratch-edition-1/)
@@ -25,8 +27,6 @@
 * [2023-07-27, 06:22:12](https://news.ycombinator.com/item?id=36889656) - [How to Check 2 SQL Tables Are the Same](https://github.com/remysucre/blog/blob/main/posts/sql-eq.md)
 * [2023-07-27, 05:23:05](https://news.ycombinator.com/item?id=36889251) - [How the Cheesecake Factory defied the restaurant industry’s rules of success](https://www.vox.com/culture/23516638/cheesecake-factory-restaurant-menu)
 * [2023-07-27, 04:33:56](https://news.ycombinator.com/item?id=36888954) - [Tarsnap outage postmortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
-* [2023-07-26, 11:32:46](https://news.ycombinator.com/item?id=36875958) - [Computer Power and Human Reason (1976) [pdf]](https://web.archive.org/web/20230215010739if_/http://blogs.evergreen.edu/cpat/files/2013/05/Computer-Power-and-Human-Reason.pdf)
-* [2023-07-26, 10:59:50](https://news.ycombinator.com/item?id=36875628) - [Genoa-X: Server V-Cache Round 2](https://chipsandcheese.com/2023/07/17/genoa-x-server-v-cache-round-2/)
 * [2023-07-26, 08:05:34](https://news.ycombinator.com/item?id=36874485) - [TeamTopologies](https://martinfowler.com/bliki/TeamTopologies.html)
 * [2023-07-26, 06:04:13](https://news.ycombinator.com/item?id=36873645) - [How to Dynamically Create Instance Variables in Ruby](https://www.akshaykhot.com/dynamically-create-instance-variables-ruby/)
 * [2023-07-26, 04:05:54](https://news.ycombinator.com/item?id=36872955) - [Making 'The Blue Flash': How I reconstructed a fatal atomic accident](https://www.bbc.com/future/article/20230725-making-the-blue-flash-how-i-reconstructed-a-fatal-atomic-accident)

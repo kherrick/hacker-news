@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-28](index.md)
 
+* [2023-07-28, 13:08:40](https://news.ycombinator.com/item?id=36906240) - [PPP fraud history's worst: $200B stolen and blown on fancy cars and beach houses](https://nypost.com/2023/07/14/ppp-fraud-is-worst-in-history-200b-stolen-splurged-on-lamborghinis-and-bling/)
 * [2023-07-28, 12:00:42](https://news.ycombinator.com/item?id=36905630) - [Finley (YC W21) Is Hiring to Rethink Capital Markets Infrastructure (US Remote)](https://www.finleycms.com/careers/)
+* [2023-07-28, 11:32:48](https://news.ycombinator.com/item?id=36905405) - [There Are at Least 10 Cities with Their Own Psychological Disorders](https://www.atlasobscura.com/articles/cities-with-psychological-syndromes-stockholm)
 * [2023-07-28, 11:16:46](https://news.ycombinator.com/item?id=36905295) - [Apple cracking down on 'fingerprinting' with new App Store API rules](https://www.engadget.com/apple-cracking-down-on-fingerprinting-with-new-app-store-api-rules-080007498.html)
 * [2023-07-28, 10:45:17](https://news.ycombinator.com/item?id=36905076) - [What is RT-2? Google DeepMind’s vision-language-action model for robotics](https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/)
 * [2023-07-28, 09:14:54](https://news.ycombinator.com/item?id=36904552) - [After Raising $235K, Abode Remains Committed to Taking on Adobe](https://petapixel.com/2023/07/26/after-raising-235k-abode-remains-committed-to-taking-on-adobe/)
