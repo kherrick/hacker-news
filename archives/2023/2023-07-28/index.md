@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-28](index.md)
 
+* [2023-07-28, 14:49:20](https://news.ycombinator.com/item?id=36907602) - [Systemd 254 released, deprecating sysvinit scripts](https://lwn.net/Articles/939511/)
 * [2023-07-28, 14:25:10](https://news.ycombinator.com/item?id=36907248) - [Worldcoin isn’t as bad as it sounds: It’s worse](https://blockworks.co/news/worldcoin-privacy-concerns)
+* [2023-07-28, 14:24:07](https://news.ycombinator.com/item?id=36907235) - [Walmart Didn’t Kill the Small Town, It Is the Small Town](https://www.discoursemagazine.com/culture-and-society/2023/07/24/walmart-didnt-kill-the-small-town-the-small-town-did/)
 * [2023-07-28, 14:13:33](https://news.ycombinator.com/item?id=36907093) - [Cecil Kelley Criticality Accident](https://en.wikipedia.org/wiki/Cecil_Kelley_criticality_accident)
 * [2023-07-28, 13:55:41](https://news.ycombinator.com/item?id=36906828) - [Brazil's Embraer plans to build electric flying taxi factory near Sao Paulo](https://www.bbc.com/news/world-latin-america-66264229)
 * [2023-07-28, 13:54:52](https://news.ycombinator.com/item?id=36906818) - [Fierce Nerds](http://paulgraham.com/fn.html)
