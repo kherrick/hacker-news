@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-28](index.md)
 
+* [2023-07-28, 16:39:20](https://news.ycombinator.com/item?id=36909525) - [Observable API Proposal](https://github.com/domfarolino/observable)
 * [2023-07-28, 16:33:51](https://news.ycombinator.com/item?id=36909427) - [Why is DNS still hard to learn?](https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/)
+* [2023-07-28, 16:29:31](https://news.ycombinator.com/item?id=36909345) - [Why it's so important to figure out when a vital Atlantic current might collapse](https://text.npr.org/1190519762)
 * [2023-07-28, 15:47:08](https://news.ycombinator.com/item?id=36908623) - [Intel Accelerates AI Development with Reference Kits](https://cioinfluence.com/machine-learning/intel-accelerates-ai-development-with-reference-kits/)
 * [2023-07-28, 15:43:56](https://news.ycombinator.com/item?id=36908574) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=36908574)
 * [2023-07-28, 15:28:04](https://news.ycombinator.com/item?id=36908309) - [Cap'n Proto 1.0](https://capnproto.org/news/2023-07-28-capnproto-1.0.html)

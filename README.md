@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-28, 16:39:20](https://news.ycombinator.com/item?id=36909525) - [Observable API Proposal](https://github.com/domfarolino/observable)
 * [2023-07-28, 16:33:51](https://news.ycombinator.com/item?id=36909427) - [Why is DNS still hard to learn?](https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/)
+* [2023-07-28, 16:29:31](https://news.ycombinator.com/item?id=36909345) - [Why it's so important to figure out when a vital Atlantic current might collapse](https://text.npr.org/1190519762)
 * [2023-07-28, 15:47:08](https://news.ycombinator.com/item?id=36908623) - [Intel Accelerates AI Development with Reference Kits](https://cioinfluence.com/machine-learning/intel-accelerates-ai-development-with-reference-kits/)
 * [2023-07-28, 15:43:56](https://news.ycombinator.com/item?id=36908574) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=36908574)
 * [2023-07-28, 15:28:04](https://news.ycombinator.com/item?id=36908309) - [Cap'n Proto 1.0](https://capnproto.org/news/2023-07-28-capnproto-1.0.html)
@@ -12,7 +14,6 @@
 * [2023-07-28, 14:47:38](https://news.ycombinator.com/item?id=36907580) - [An interactive SDXL settings guide](https://sdxl.replicate.dev/)
 * [2023-07-28, 14:42:22](https://news.ycombinator.com/item?id=36907504) - [Show HN: Selecta – Tune Your Own Spotify Recommendation Algorithm](https://selecta.ciaran.co.za/)
 * [2023-07-28, 14:25:10](https://news.ycombinator.com/item?id=36907248) - [Worldcoin isn’t as bad as it sounds: It’s worse](https://blockworks.co/news/worldcoin-privacy-concerns)
-* [2023-07-28, 14:13:33](https://news.ycombinator.com/item?id=36907093) - [Cecil Kelley criticality accident](https://en.wikipedia.org/wiki/Cecil_Kelley_criticality_accident)
 * [2023-07-28, 14:12:41](https://news.ycombinator.com/item?id=36907081) - [Glass-coated DNA structure is strong with low density](https://today.uconn.edu/2023/07/strong-as-glass/)
 * [2023-07-28, 13:55:41](https://news.ycombinator.com/item?id=36906828) - [Brazil's Embraer plans to build electric flying taxi factory near Sao Paulo](https://www.bbc.com/news/world-latin-america-66264229)
 * [2023-07-28, 13:40:09](https://news.ycombinator.com/item?id=36906623) - [Monetal – Free Expense Tracker](https://monetal.app/index_en.php)
@@ -27,7 +28,6 @@
 * [2023-07-28, 04:27:28](https://news.ycombinator.com/item?id=36903103) - [Yael Tauman Kalai, a cryptographer at Microsoft](https://www.quantamagazine.org/the-cryptographer-who-ensures-we-can-trust-our-computers-20230727/)
 * [2023-07-27, 18:25:38](https://news.ycombinator.com/item?id=36898068) - [Knife Throwing Machine (2022) [video]](https://www.youtube.com/watch?v=-BKEZbYOMpI)
 * [2023-07-27, 14:03:43](https://news.ycombinator.com/item?id=36893695) - [Lean Meets Wicked Problems](https://steveblank.com/2023/07/25/lean-meets-wicked-problems/)
-* [2023-07-27, 07:42:23](https://news.ycombinator.com/item?id=36890241) - [How to use a Python multiprocessing module](https://developers.redhat.com/articles/2023/07/27/how-use-python-multiprocessing-module)
 * [2023-07-27, 06:22:12](https://news.ycombinator.com/item?id=36889656) - [How to Check 2 SQL Tables Are the Same](https://github.com/remysucre/blog/blob/main/posts/sql-eq.md)
 * [2023-07-27, 06:15:21](https://news.ycombinator.com/item?id=36889610) - [The First Map of the Moon](https://www.historytoday.com/archive/months-past/first-map-moon)
 
