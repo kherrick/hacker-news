@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-28](index.md)
 
+* [2023-07-28, 16:33:51](https://news.ycombinator.com/item?id=36909427) - [Why is DNS still hard to learn?](https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/)
 * [2023-07-28, 15:47:08](https://news.ycombinator.com/item?id=36908623) - [Intel Accelerates AI Development with Reference Kits](https://cioinfluence.com/machine-learning/intel-accelerates-ai-development-with-reference-kits/)
 * [2023-07-28, 15:43:56](https://news.ycombinator.com/item?id=36908574) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=36908574)
 * [2023-07-28, 15:28:04](https://news.ycombinator.com/item?id=36908309) - [Cap'n Proto 1.0](https://capnproto.org/news/2023-07-28-capnproto-1.0.html)
@@ -47,6 +48,7 @@
 * [2023-07-28, 08:40:29](https://news.ycombinator.com/item?id=36904338) - [VyOS From Scratch – Edition 1 (set up your own router)](https://blog.kroy.io/2020/05/04/vyos-from-scratch-edition-1/)
 * [2023-07-28, 08:07:56](https://news.ycombinator.com/item?id=36904191) - [Flags for fchmodat()](https://lwn.net/SubscriberLink/939217/6c6ec0264dcf28f7/)
 * [2023-07-28, 07:48:13](https://news.ycombinator.com/item?id=36904080) - [Finding “Discs of Tron” on the Roadside](https://arcadeblogger.com/2023/07/22/environmental-discs-of-tron-roadside-pickup/)
+* [2023-07-28, 07:10:38](https://news.ycombinator.com/item?id=36903862) - [Pyro: A Universal, Probablistic Programming Language](https://pyro.ai/)
 * [2023-07-28, 07:04:08](https://news.ycombinator.com/item?id=36903815) - [Mindfulness-Based Programs Show Promise in Reducing Psychological Distress](https://www.nature.com/articles/s44220-023-00081-5)
 * [2023-07-28, 06:30:31](https://news.ycombinator.com/item?id=36903642) - [The Dark Side of A.I.: Understanding the Dangers of Deepfake Images](https://blog.theabhishek.dev/the-dark-side-of-ai-understanding-the-dangers-of-deepfake-images)
 * [2023-07-28, 05:57:35](https://news.ycombinator.com/item?id=36903481) - [On the future of free long term support for Linux distributions](https://utcc.utoronto.ca/~cks/space/blog/linux/LongTermSupportNoMoreFree)

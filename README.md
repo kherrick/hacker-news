@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-28, 16:33:51](https://news.ycombinator.com/item?id=36909427) - [Why is DNS still hard to learn?](https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/)
 * [2023-07-28, 15:47:08](https://news.ycombinator.com/item?id=36908623) - [Intel Accelerates AI Development with Reference Kits](https://cioinfluence.com/machine-learning/intel-accelerates-ai-development-with-reference-kits/)
 * [2023-07-28, 15:43:56](https://news.ycombinator.com/item?id=36908574) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=36908574)
 * [2023-07-28, 15:28:04](https://news.ycombinator.com/item?id=36908309) - [Cap'n Proto 1.0](https://capnproto.org/news/2023-07-28-capnproto-1.0.html)
@@ -22,10 +23,9 @@
 * [2023-07-28, 10:45:17](https://news.ycombinator.com/item?id=36905076) - [RT-2 AI model translates vision and language into robotic actions](https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/)
 * [2023-07-28, 08:40:29](https://news.ycombinator.com/item?id=36904338) - [VyOS From Scratch – Edition 1 (set up your own router)](https://blog.kroy.io/2020/05/04/vyos-from-scratch-edition-1/)
 * [2023-07-28, 07:48:13](https://news.ycombinator.com/item?id=36904080) - [Finding “Discs of Tron” on the Roadside](https://arcadeblogger.com/2023/07/22/environmental-discs-of-tron-roadside-pickup/)
+* [2023-07-28, 07:10:38](https://news.ycombinator.com/item?id=36903862) - [Pyro: A Universal, Probablistic Programming Language](https://pyro.ai/)
 * [2023-07-28, 04:27:28](https://news.ycombinator.com/item?id=36903103) - [Yael Tauman Kalai, a cryptographer at Microsoft](https://www.quantamagazine.org/the-cryptographer-who-ensures-we-can-trust-our-computers-20230727/)
-* [2023-07-27, 21:09:39](https://news.ycombinator.com/item?id=36900201) - [Origins of the Sicilian Mafia: The Market for Lemons (2017)](https://www.cambridge.org/core/journals/journal-of-economic-history/article/origins-of-the-sicilian-mafia-the-market-for-lemons/52B18A611BD8AE26B4FDE3814A4239F1)
 * [2023-07-27, 18:25:38](https://news.ycombinator.com/item?id=36898068) - [Knife Throwing Machine (2022) [video]](https://www.youtube.com/watch?v=-BKEZbYOMpI)
-* [2023-07-27, 15:39:08](https://news.ycombinator.com/item?id=36895220) - [Launch HN: PeerDB (YC S23) – Fast, Native ETL/ELT for Postgres](https://news.ycombinator.com/item?id=36895220)
 * [2023-07-27, 14:03:43](https://news.ycombinator.com/item?id=36893695) - [Lean Meets Wicked Problems](https://steveblank.com/2023/07/25/lean-meets-wicked-problems/)
 * [2023-07-27, 07:42:23](https://news.ycombinator.com/item?id=36890241) - [How to use a Python multiprocessing module](https://developers.redhat.com/articles/2023/07/27/how-use-python-multiprocessing-module)
 * [2023-07-27, 06:22:12](https://news.ycombinator.com/item?id=36889656) - [How to Check 2 SQL Tables Are the Same](https://github.com/remysucre/blog/blob/main/posts/sql-eq.md)
