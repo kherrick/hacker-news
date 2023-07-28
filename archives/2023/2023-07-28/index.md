@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-28](index.md)
 
+* [2023-07-28, 14:54:42](https://news.ycombinator.com/item?id=36907674) - [Forget Solar Panels. Here Come Rain Panels](https://thedebrief.org/forget-solar-panels-here-come-rain-panels/)
 * [2023-07-28, 14:49:20](https://news.ycombinator.com/item?id=36907602) - [Systemd 254 released, deprecating sysvinit scripts](https://lwn.net/Articles/939511/)
 * [2023-07-28, 14:25:10](https://news.ycombinator.com/item?id=36907248) - [Worldcoin isn’t as bad as it sounds: It’s worse](https://blockworks.co/news/worldcoin-privacy-concerns)
 * [2023-07-28, 14:24:07](https://news.ycombinator.com/item?id=36907235) - [Walmart Didn’t Kill the Small Town, It Is the Small Town](https://www.discoursemagazine.com/culture-and-society/2023/07/24/walmart-didnt-kill-the-small-town-the-small-town-did/)
@@ -26,6 +27,7 @@
 * [2023-07-28, 11:32:48](https://news.ycombinator.com/item?id=36905405) - [There Are at Least 10 Cities with Their Own Psychological Disorders](https://www.atlasobscura.com/articles/cities-with-psychological-syndromes-stockholm)
 * [2023-07-28, 11:16:46](https://news.ycombinator.com/item?id=36905295) - [Apple cracking down on 'fingerprinting' with new App Store API rules](https://www.engadget.com/apple-cracking-down-on-fingerprinting-with-new-app-store-api-rules-080007498.html)
 * [2023-07-28, 10:45:17](https://news.ycombinator.com/item?id=36905076) - [What is RT-2? Google DeepMind’s vision-language-action model for robotics](https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/)
+* [2023-07-28, 09:30:45](https://news.ycombinator.com/item?id=36904647) - [Web Dev Without Tools](https://danthedev.com/web-dev-without-tools/)
 * [2023-07-28, 09:14:54](https://news.ycombinator.com/item?id=36904552) - [After Raising $235K, Abode Remains Committed to Taking on Adobe](https://petapixel.com/2023/07/26/after-raising-235k-abode-remains-committed-to-taking-on-adobe/)
 * [2023-07-28, 09:04:57](https://news.ycombinator.com/item?id=36904504) - [Removal of Google from W3C over the Implementation of Web Environment Integrity](https://mastodon.social/@tolmasky/110780599992085798)
 * [2023-07-28, 08:42:10](https://news.ycombinator.com/item?id=36904347) - [$650 in our Stripe account has been fully refunded to the customer](https://news.ycombinator.com/item?id=36904347)
