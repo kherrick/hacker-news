@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-28, 13:28:20](https://news.ycombinator.com/item?id=36906472) - [US iPhone market share jumps to 55% as Android shipments fall sharply](https://9to5mac.com/2023/07/28/us-iphone-market-share-2/)
 * [2023-07-28, 13:25:54](https://news.ycombinator.com/item?id=36906435) - [Sci-Hub Founder Receives EFF Award for Providing Access to Scientific Knowledge](https://torrentfreak.com/sci-hubs-alexandra-elbakyan-receives-eff-award-for-providing-access-to-scientific-knowledge-230728/)
+* [2023-07-28, 13:16:29](https://news.ycombinator.com/item?id=36906331) - [Tesla's Dieselgate](https://pluralistic.net/2023/07/28/edison-not-tesla/#demon-haunted-world)
 * [2023-07-28, 13:12:15](https://news.ycombinator.com/item?id=36906284) - [Tor’s shadowy reputation will only end if we all use it](https://www.engadget.com/tor-dark-web-privacy-secure-browser-anonymous-130048839.html)
 * [2023-07-28, 12:00:42](https://news.ycombinator.com/item?id=36905630) - [Finley (YC W21) Is Hiring to Rethink Capital Markets Infrastructure (US Remote)](https://www.finleycms.com/careers/)
 * [2023-07-28, 11:32:48](https://news.ycombinator.com/item?id=36905405) - [There Are at Least 10 Cities with Their Own Psychological Disorders](https://www.atlasobscura.com/articles/cities-with-psychological-syndromes-stockholm)

@@ -7,6 +7,7 @@
 * [2023-07-28, 13:28:20](https://news.ycombinator.com/item?id=36906472) - [US iPhone market share jumps to 55% as Android shipments fall sharply](https://9to5mac.com/2023/07/28/us-iphone-market-share-2/)
 * [2023-07-28, 13:25:54](https://news.ycombinator.com/item?id=36906435) - [Sci-Hub Founder Receives EFF Award for Providing Access to Scientific Knowledge](https://torrentfreak.com/sci-hubs-alexandra-elbakyan-receives-eff-award-for-providing-access-to-scientific-knowledge-230728/)
 * [2023-07-28, 13:18:51](https://news.ycombinator.com/item?id=36906348) - [How the PicoCray Was Made](https://www.raspberrypi.com/news/how-i-made-the-picocray-hackspace-69/)
+* [2023-07-28, 13:16:29](https://news.ycombinator.com/item?id=36906331) - [Tesla's Dieselgate](https://pluralistic.net/2023/07/28/edison-not-tesla/#demon-haunted-world)
 * [2023-07-28, 13:12:15](https://news.ycombinator.com/item?id=36906284) - [Tor’s shadowy reputation will only end if we all use it](https://www.engadget.com/tor-dark-web-privacy-secure-browser-anonymous-130048839.html)
 * [2023-07-28, 13:08:40](https://news.ycombinator.com/item?id=36906240) - [PPP fraud history's worst: $200B stolen and blown on fancy cars and beach houses](https://nypost.com/2023/07/14/ppp-fraud-is-worst-in-history-200b-stolen-splurged-on-lamborghinis-and-bling/)
 * [2023-07-28, 12:00:42](https://news.ycombinator.com/item?id=36905630) - [Finley (YC W21) Is Hiring to Rethink Capital Markets Infrastructure (US Remote)](https://www.finleycms.com/careers/)
