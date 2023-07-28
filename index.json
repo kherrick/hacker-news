@@ -221,21 +221,11 @@
   ],
   [
     [
-      "2023-07-28, 07:48:13",
-      "https://news.ycombinator.com/item?id=36904080"
-    ],
-    [
-      "Environmental Discs of Tron Roadside Pickup",
-      "https://arcadeblogger.com/2023/07/22/environmental-discs-of-tron-roadside-pickup/"
-    ]
-  ],
-  [
-    [
       "2023-07-28, 07:10:38",
       "https://news.ycombinator.com/item?id=36903862"
     ],
     [
-      "Pyro: A Universal, Probablistic Programming Language",
+      "Pyro: A universal, probablistic programming language",
       "https://pyro.ai/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "413. The Isle of Luing",
       "https://britishcoast.wordpress.com/2023/07/26/413-the-isle-of-luing/"
+    ]
+  ],
+  [
+    [
+      "2023-07-27, 06:22:12",
+      "https://news.ycombinator.com/item?id=36889656"
+    ],
+    [
+      "How to check if two SQL tables are the same",
+      "https://github.com/remysucre/blog/blob/main/posts/sql-eq.md"
     ]
   ]
 ]
