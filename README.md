@@ -2,6 +2,7 @@
 
 * [2023-07-28, 09:14:54](https://news.ycombinator.com/item?id=36904552) - [After Raising $235K, Abode Remains Committed to Taking on Adobe](https://petapixel.com/2023/07/26/after-raising-235k-abode-remains-committed-to-taking-on-adobe/)
 * [2023-07-28, 08:40:29](https://news.ycombinator.com/item?id=36904338) - [VyOS From Scratch – Edition 1 (set up your own router)](https://blog.kroy.io/2020/05/04/vyos-from-scratch-edition-1/)
+* [2023-07-28, 07:48:13](https://news.ycombinator.com/item?id=36904080) - [Finding “Discs of Tron” on the Roadside](https://arcadeblogger.com/2023/07/22/environmental-discs-of-tron-roadside-pickup/)
 * [2023-07-28, 05:57:35](https://news.ycombinator.com/item?id=36903481) - [On the future of free long term support for Linux distributions](https://utcc.utoronto.ca/~cks/space/blog/linux/LongTermSupportNoMoreFree)
 * [2023-07-28, 03:32:26](https://news.ycombinator.com/item?id=36902877) - [Implementing Fast Barriers for a Shared-Memory Cluster of 1024 RISC-V Cores](https://semiengineering.com/implementing-fast-barriers-for-a-shared-memory-cluster-of-1024-risc-v-cores/)
 * [2023-07-28, 00:29:48](https://news.ycombinator.com/item?id=36901885) - [The moral character of cryptographic work (2015)](https://web.cs.ucdavis.edu/~rogaway/papers/moral.html)
@@ -12,7 +13,6 @@
 * [2023-07-27, 21:18:16](https://news.ycombinator.com/item?id=36900294) - [LeMUR: LLMs for Audio and Speech](https://www.assemblyai.com/blog/lemur/)
 * [2023-07-27, 21:09:39](https://news.ycombinator.com/item?id=36900201) - [Origins of the Sicilian Mafia: The Market for Lemons (2017)](https://www.cambridge.org/core/journals/journal-of-economic-history/article/origins-of-the-sicilian-mafia-the-market-for-lemons/52B18A611BD8AE26B4FDE3814A4239F1)
 * [2023-07-27, 21:00:35](https://news.ycombinator.com/item?id=36900106) - [Svix (YC W21) is hiring a founding account executive (US remote)](https://www.svix.com/careers/)
-* [2023-07-27, 20:10:48](https://news.ycombinator.com/item?id=36899461) - [Hydraulic Steering – Principles of Operation (1956) [video]](https://www.youtube.com/watch?v=VDiOKqMKTO8)
 * [2023-07-27, 19:53:54](https://news.ycombinator.com/item?id=36899221) - [Namibian fairy circle debate rages on: Sand termites or Turing mechanism?](https://arstechnica.com/science/2023/07/the-namibian-fairy-circle-debate-rages-on-could-it-be-sand-termites-after-all/)
 * [2023-07-27, 19:18:42](https://news.ycombinator.com/item?id=36898749) - [Commander Keen's adaptive tile refresh](https://fabiensanglard.net/ega/)
 * [2023-07-27, 16:27:34](https://news.ycombinator.com/item?id=36896034) - [BlazingMQ: High-performance open source message queuing system](https://bloomberg.github.io/blazingmq/)
