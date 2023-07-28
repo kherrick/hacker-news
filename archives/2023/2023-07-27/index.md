@@ -94,6 +94,7 @@
 * [2023-07-27, 03:14:13](https://news.ycombinator.com/item?id=36888462) - [FBI Officer Speaks at Law School, Lists Food Not Bombs on “Terrorist Watch List” [pdf]](http://foodnotbombs.net/FBI_officer_lists_FNB_austin.pdf)
 * [2023-07-27, 03:11:11](https://news.ycombinator.com/item?id=36888444) - [Super sorry to the guy with the username reset on GitHub](https://discuss.systems/@adrian/110783401400871208)
 * [2023-07-27, 03:10:38](https://news.ycombinator.com/item?id=36888442) - [Treat Your CI System as a Product for Faster and Better Feedback](https://www.infoq.com/news/2023/06/CI-product-feedback/)
+* [2023-07-27, 03:00:09](https://news.ycombinator.com/item?id=36888367) - [Dennis Hopper’s Quiet Vision of Nineteen-Sixties Hollywood](https://www.newyorker.com/culture/photo-booth/dennis-hoppers-quiet-vision-of-nineteen-sixties-hollywood)
 * [2023-07-27, 02:51:05](https://news.ycombinator.com/item?id=36888299) - [White Flight from Asian Immigration: Evidence from California Public Schools](https://www.nber.org/papers/w31434)
 * [2023-07-27, 02:28:37](https://news.ycombinator.com/item?id=36888156) - [Google Web Environment Integrity Is the New Microsoft Trusted Computing](https://www.neelc.org/posts/google-webauth-palladium/)
 * [2023-07-27, 01:52:58](https://news.ycombinator.com/item?id=36887857) - [Japanese population falls in all 47 prefectures for the first time](https://www.japantimes.co.jp/news/2023/07/26/japan/society/number-of-japanese-drops-in-all-47-prefectures-for-first-time-as-foreign-population-surges/)
