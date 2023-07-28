@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-07-28, 14:49:20",
-      "https://news.ycombinator.com/item?id=36907602"
-    ],
-    [
-      "Systemd 254 released, deprecating sysvinit scripts",
-      "https://lwn.net/Articles/939511/"
-    ]
-  ],
-  [
-    [
       "2023-07-28, 14:25:10",
       "https://news.ycombinator.com/item?id=36907248"
     ],
@@ -197,6 +187,16 @@
     [
       "Implementing Fast Barriers for a Shared-Memory Cluster of 1024 RISC-V Cores",
       "https://semiengineering.com/implementing-fast-barriers-for-a-shared-memory-cluster-of-1024-risc-v-cores/"
+    ]
+  ],
+  [
+    [
+      "2023-07-28, 00:29:48",
+      "https://news.ycombinator.com/item?id=36901885"
+    ],
+    [
+      "The moral character of cryptographic work (2015)",
+      "https://web.cs.ucdavis.edu/~rogaway/papers/moral.html"
     ]
   ],
   [
