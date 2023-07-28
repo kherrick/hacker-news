@@ -18,6 +18,7 @@
 * [2023-07-27, 20:22:13](https://news.ycombinator.com/item?id=36899608) - [Annual EFF Awards Goe to Alexandra Elbakyan, Library Freedom Project, and Signal](https://www.eff.org/press/releases/electronic-frontier-foundation-present-annual-eff-awards-alexandra-asanovna-elbakyan)
 * [2023-07-27, 20:10:48](https://news.ycombinator.com/item?id=36899461) - [Hydraulic Steering – Principles of Operation (1956) [video]](https://www.youtube.com/watch?v=VDiOKqMKTO8)
 * [2023-07-27, 20:07:22](https://news.ycombinator.com/item?id=36899404) - [Tesla has a range inflation problem](https://techcrunch.com/2023/07/27/tesla-has-a-range-inflation-problem/)
+* [2023-07-27, 19:59:54](https://news.ycombinator.com/item?id=36899318) - [On the aesthetics of the syntax of declarations (2018)](https://www.gingerbill.org/article/2018/03/12/on-the-aesthetics-of-the-syntax-of-declarations/)
 * [2023-07-27, 19:59:45](https://news.ycombinator.com/item?id=36899316) - [Show HN: Envoy playground in the browser](https://envoy-playground.apoxy.dev)
 * [2023-07-27, 19:54:17](https://news.ycombinator.com/item?id=36899224) - [Unpacking Xilinx 7-Series Bitstreams (2018)](https://www.kc8apf.net/2018/05/unpacking-xilinx-7-series-bitstreams-part-1/)
 * [2023-07-27, 19:53:54](https://news.ycombinator.com/item?id=36899221) - [Namibian fairy circle debate rages on: Sand termites or Turing mechanism?](https://arstechnica.com/science/2023/07/the-namibian-fairy-circle-debate-rages-on-could-it-be-sand-termites-after-all/)
