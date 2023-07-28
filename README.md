@@ -26,9 +26,9 @@
 * [2023-07-28, 07:10:38](https://news.ycombinator.com/item?id=36903862) - [Pyro: A Universal, Probablistic Programming Language](https://pyro.ai/)
 * [2023-07-28, 04:37:23](https://news.ycombinator.com/item?id=36903149) - [How to Roman Republic 101](https://acoup.blog/2023/07/21/collections-how-to-roman-republic-101-part-i-spqr/)
 * [2023-07-28, 04:27:28](https://news.ycombinator.com/item?id=36903103) - [Interview with Yael Tauman Kalai, a cryptographer at Microsoft](https://www.quantamagazine.org/the-cryptographer-who-ensures-we-can-trust-our-computers-20230727/)
+* [2023-07-28, 01:59:58](https://news.ycombinator.com/item?id=36902378) - [Embrace Your Crookednesss](https://theconvivialsociety.substack.com/p/embrace-your-crookedness)
 * [2023-07-27, 22:06:37](https://news.ycombinator.com/item?id=36900782) - [List of APIs that require declared reasons](https://developer.apple.com/news/?id=z6fu1dcu)
 * [2023-07-27, 18:25:38](https://news.ycombinator.com/item?id=36898068) - [Knife Throwing Machine (2022) [video]](https://www.youtube.com/watch?v=-BKEZbYOMpI)
-* [2023-07-27, 14:03:43](https://news.ycombinator.com/item?id=36893695) - [Lean Meets Wicked Problems](https://steveblank.com/2023/07/25/lean-meets-wicked-problems/)
 * [2023-07-27, 06:22:12](https://news.ycombinator.com/item?id=36889656) - [How to check if two SQL tables are the same](https://github.com/remysucre/blog/blob/main/posts/sql-eq.md)
 
 ## [Archives](archives/index.md)
