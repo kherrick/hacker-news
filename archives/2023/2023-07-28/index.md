@@ -33,6 +33,7 @@
 * [2023-07-28, 13:40:09](https://news.ycombinator.com/item?id=36906623) - [Monetal – Free Expense Tracker](https://monetal.app/index_en.php)
 * [2023-07-28, 13:28:44](https://news.ycombinator.com/item?id=36906482) - [New report from UNAIDS shows that AIDS can be ended by 2030](https://thepath.unaids.org/)
 * [2023-07-28, 13:28:20](https://news.ycombinator.com/item?id=36906472) - [US iPhone market share jumps to 55% as Android shipments fall sharply](https://9to5mac.com/2023/07/28/us-iphone-market-share-2/)
+* [2023-07-28, 13:26:32](https://news.ycombinator.com/item?id=36906450) - [Show HN: Chie – a cross-platform, native, and extensible desktop client for LLMs](https://chie.app/posts/introduce-the-chie-app/)
 * [2023-07-28, 13:25:54](https://news.ycombinator.com/item?id=36906435) - [Sci-Hub Founder Receives EFF Award for Providing Access to Scientific Knowledge](https://torrentfreak.com/sci-hubs-alexandra-elbakyan-receives-eff-award-for-providing-access-to-scientific-knowledge-230728/)
 * [2023-07-28, 13:18:51](https://news.ycombinator.com/item?id=36906348) - [How the PicoCray Was Made](https://www.raspberrypi.com/news/how-i-made-the-picocray-hackspace-69/)
 * [2023-07-28, 13:16:29](https://news.ycombinator.com/item?id=36906331) - [Tesla's Dieselgate](https://pluralistic.net/2023/07/28/edison-not-tesla/#demon-haunted-world)
