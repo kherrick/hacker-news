@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-28, 13:54:52",
+      "https://news.ycombinator.com/item?id=36906818"
+    ],
+    [
+      "Fierce Nerds",
+      "http://paulgraham.com/fn.html"
+    ]
+  ],
+  [
+    [
       "2023-07-28, 13:25:54",
       "https://news.ycombinator.com/item?id=36906435"
     ],
@@ -11,22 +21,32 @@
   ],
   [
     [
-      "2023-07-28, 13:16:29",
-      "https://news.ycombinator.com/item?id=36906331"
-    ],
-    [
-      "Tesla's Dieselgate",
-      "https://pluralistic.net/2023/07/28/edison-not-tesla/#demon-haunted-world"
-    ]
-  ],
-  [
-    [
       "2023-07-28, 13:12:15",
       "https://news.ycombinator.com/item?id=36906284"
     ],
     [
       "Tor’s shadowy reputation will only end if we all use it",
       "https://www.engadget.com/tor-dark-web-privacy-secure-browser-anonymous-130048839.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-28, 13:03:10",
+      "https://news.ycombinator.com/item?id=36906175"
+    ],
+    [
+      "Real life indirection is the root of all evil, and AI agents can fix it",
+      "https://marianogappa.github.io/software/2023/07/28/real-life-indirection-is-the-root-of-all-evil-and-ai-agents-can-fix-it/"
+    ]
+  ],
+  [
+    [
+      "2023-07-28, 12:59:58",
+      "https://news.ycombinator.com/item?id=36906140"
+    ],
+    [
+      "Cophone – Your Virtual Smartphone",
+      "https://cophone.io/"
     ]
   ],
   [
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=36905076"
     ],
     [
-      "What is RT-2? Google DeepMind’s vision-language-action model for robotics",
+      "New AI model translates vision and language into robotic actions",
       "https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/"
     ]
   ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-07-27, 19:18:42",
-      "https://news.ycombinator.com/item?id=36898749"
-    ],
-    [
-      "Commander Keen's adaptive tile refresh",
-      "https://fabiensanglard.net/ega/"
-    ]
-  ],
-  [
-    [
       "2023-07-27, 16:27:34",
       "https://news.ycombinator.com/item?id=36896034"
     ],
@@ -287,16 +297,6 @@
     [
       "How to Dynamically Create Instance Variables in Ruby",
       "https://www.akshaykhot.com/dynamically-create-instance-variables-ruby/"
-    ]
-  ],
-  [
-    [
-      "2023-07-26, 04:05:54",
-      "https://news.ycombinator.com/item?id=36872955"
-    ],
-    [
-      "Making 'The Blue Flash': How I reconstructed a fatal atomic accident",
-      "https://www.bbc.com/future/article/20230725-making-the-blue-flash-how-i-reconstructed-a-fatal-atomic-accident"
     ]
   ]
 ]
