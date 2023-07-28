@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-28, 09:14:54](https://news.ycombinator.com/item?id=36904552) - [After Raising $235K, Abode Remains Committed to Taking on Adobe](https://petapixel.com/2023/07/26/after-raising-235k-abode-remains-committed-to-taking-on-adobe/)
+* [2023-07-28, 09:04:57](https://news.ycombinator.com/item?id=36904504) - [Removal of Google from W3C over the Implementation of Web Environment Integrity](https://mastodon.social/@tolmasky/110780599992085798)
 * [2023-07-28, 08:40:29](https://news.ycombinator.com/item?id=36904338) - [VyOS From Scratch – Edition 1 (set up your own router)](https://blog.kroy.io/2020/05/04/vyos-from-scratch-edition-1/)
 * [2023-07-28, 07:04:08](https://news.ycombinator.com/item?id=36903815) - [Mindfulness-Based Programs Show Promise in Reducing Psychological Distress](https://www.nature.com/articles/s44220-023-00081-5)
 * [2023-07-28, 05:57:35](https://news.ycombinator.com/item?id=36903481) - [On the future of free long term support for Linux distributions](https://utcc.utoronto.ca/~cks/space/blog/linux/LongTermSupportNoMoreFree)
 * [2023-07-28, 03:32:26](https://news.ycombinator.com/item?id=36902877) - [Implementing Fast Barriers for a Shared-Memory Cluster of 1024 RISC-V Cores](https://semiengineering.com/implementing-fast-barriers-for-a-shared-memory-cluster-of-1024-risc-v-cores/)
 * [2023-07-28, 00:29:48](https://news.ycombinator.com/item?id=36901885) - [The moral character of cryptographic work (2015)](https://web.cs.ucdavis.edu/~rogaway/papers/moral.html)
-* [2023-07-28, 00:20:59](https://news.ycombinator.com/item?id=36901815) - [WebArena: A realistic web environment for building autonomous agents](https://webarena.dev/)
 * [2023-07-27, 23:41:03](https://news.ycombinator.com/item?id=36901543) - [Faster filesystem access with Directfs](https://gvisor.dev/blog/2023/06/27/directfs/)
 * [2023-07-27, 23:23:17](https://news.ycombinator.com/item?id=36901406) - [Graphite: Open-source raster and vector 2D graphics editor](https://graphite.rs/)
 * [2023-07-27, 23:09:46](https://news.ycombinator.com/item?id=36901303) - [Ask HN: Is the market bad, or am I having the worst luck job hunting?](https://news.ycombinator.com/item?id=36901303)
