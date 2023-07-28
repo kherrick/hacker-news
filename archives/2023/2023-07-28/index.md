@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-28](index.md)
 
 * [2023-07-28, 22:47:07](https://news.ycombinator.com/item?id=36914401) - [No-GIL mode coming for Python](https://lwn.net/Articles/939568/)
+* [2023-07-28, 22:42:45](https://news.ycombinator.com/item?id=36914370) - [Data Colonialism and Data Sets](https://harvardlawreview.org/blog/2023/06/data-colonialism-and-data-sets/)
 * [2023-07-28, 22:15:36](https://news.ycombinator.com/item?id=36914085) - [Electric recumbent bikes are 80 more efficient than EV](https://www.lowtechmagazine.com/les-v%C3%A9lomobiles-electriques-aussi-rapides-et-confortables-que-les-automobiles-mais-80-fois-plus-efficaces.html)
 * [2023-07-28, 22:05:32](https://news.ycombinator.com/item?id=36913988) - [Ring is having a major outage](https://status.ring.com)
 * [2023-07-28, 21:50:36](https://news.ycombinator.com/item?id=36913835) - [SpaceX Punched a Hole in the Ionosphere](https://spaceweatherarchive.com/2023/07/23/spacex-punched-a-hole-in-the-ionosphere/)
