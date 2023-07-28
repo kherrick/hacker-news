@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-07-28](index.md)
 
+* [2023-07-28, 15:43:56](https://news.ycombinator.com/item?id=36908574) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=36908574)
+* [2023-07-28, 15:22:51](https://news.ycombinator.com/item?id=36908198) - [Microsoft's AI shopping announcement contains hallucinations in the demo](https://www.perfectrec.com/posts/microsoft-ai-shopping-announcement-contains-hallucinations-in-the-demo)
+* [2023-07-28, 15:19:58](https://news.ycombinator.com/item?id=36908136) - [California moves to silence Stanford researchers who got data to study education](https://edsource.org/2023/california-moves-to-silence-stanford-researchers-who-got-state-data-to-study-education-issues/694920)
+* [2023-07-28, 15:04:18](https://news.ycombinator.com/item?id=36907829) - [Fabricated data in research about honesty](https://www.npr.org/2023/07/27/1190568472/dan-ariely-francesca-gino-harvard-dishonesty-fabricated-data)
 * [2023-07-28, 14:54:42](https://news.ycombinator.com/item?id=36907674) - [Forget Solar Panels. Here Come Rain Panels](https://thedebrief.org/forget-solar-panels-here-come-rain-panels/)
+* [2023-07-28, 14:50:17](https://news.ycombinator.com/item?id=36907614) - [How can AI help with climate change? A conversation with MIT's Priya Donti](https://transcripts.volts.wtf/how-can-ai-help-with-climate-change)
 * [2023-07-28, 14:49:20](https://news.ycombinator.com/item?id=36907602) - [Systemd 254 released, deprecating sysvinit scripts](https://lwn.net/Articles/939511/)
 * [2023-07-28, 14:25:10](https://news.ycombinator.com/item?id=36907248) - [Worldcoin isn’t as bad as it sounds: It’s worse](https://blockworks.co/news/worldcoin-privacy-concerns)
 * [2023-07-28, 14:24:07](https://news.ycombinator.com/item?id=36907235) - [Walmart Didn’t Kill the Small Town, It Is the Small Town](https://www.discoursemagazine.com/culture-and-society/2023/07/24/walmart-didnt-kill-the-small-town-the-small-town-did/)

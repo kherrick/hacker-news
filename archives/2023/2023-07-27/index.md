@@ -31,6 +31,7 @@
 * [2023-07-27, 19:08:10](https://news.ycombinator.com/item?id=36898612) - [Austral Programming Language](https://austral-lang.org)
 * [2023-07-27, 19:00:36](https://news.ycombinator.com/item?id=36898503) - [Show HN: Pebble Finance – Personalize Your Investments Today](https://pebble.finance/themes)
 * [2023-07-27, 18:37:53](https://news.ycombinator.com/item?id=36898217) - [Techdirt Has Been Deleted from Bing and DuckDuckGo](https://www.techdirt.com/2023/07/27/techdirt-has-been-deleted-from-bing-and-duckduckgo/)
+* [2023-07-27, 18:25:38](https://news.ycombinator.com/item?id=36898068) - [Knife Throwing Machine (2022) [video]](https://www.youtube.com/watch?v=-BKEZbYOMpI)
 * [2023-07-27, 18:18:47](https://news.ycombinator.com/item?id=36897958) - [Some Alloys Don't Change Size When Heated. We Now Know Why](https://www.caltech.edu/about/news/some-alloys-dont-change-size-when-heated-we-now-know-why)
 * [2023-07-27, 17:59:35](https://news.ycombinator.com/item?id=36897670) - [Epilogue of my time working at Twitter](https://esthercrawford.medium.com/an-epilogue-to-my-time-working-at-twitter-24a126098246)
 * [2023-07-27, 17:38:34](https://news.ycombinator.com/item?id=36897300) - [LK-99](https://en.wikipedia.org/wiki/LK-99)
