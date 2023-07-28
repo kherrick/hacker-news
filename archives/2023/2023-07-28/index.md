@@ -1,0 +1,9 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-07-28](index.md)
+
+* [2023-07-28, 01:08:43](https://news.ycombinator.com/item?id=36902069) - [The ‘Great Awokening’ Is Winding Down](https://musaalgharbi.com/2023/02/08/great-awokening-ending/)
+* [2023-07-28, 00:49:25](https://news.ycombinator.com/item?id=36901994) - [Tesla exaggerated EV range so much that drivers thought cars were broken](https://arstechnica.com/tech-policy/2023/07/tesla-exaggerated-ev-range-so-much-that-drivers-thought-cars-were-broken/)
+* [2023-07-28, 00:29:48](https://news.ycombinator.com/item?id=36901885) - [The Moral Character of Cryptographic Work (2015)](https://web.cs.ucdavis.edu/~rogaway/papers/moral.html)
