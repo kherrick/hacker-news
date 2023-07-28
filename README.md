@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-28, 14:54:42](https://news.ycombinator.com/item?id=36907674) - [Forget Solar Panels. Here Come Rain Panels](https://thedebrief.org/forget-solar-panels-here-come-rain-panels/)
-* [2023-07-28, 14:49:20](https://news.ycombinator.com/item?id=36907602) - [Systemd 254 released, deprecating sysvinit scripts](https://lwn.net/Articles/939511/)
 * [2023-07-28, 14:25:10](https://news.ycombinator.com/item?id=36907248) - [Worldcoin isn’t as bad as it sounds: It’s worse](https://blockworks.co/news/worldcoin-privacy-concerns)
 * [2023-07-28, 14:13:33](https://news.ycombinator.com/item?id=36907093) - [Cecil Kelley criticality accident](https://en.wikipedia.org/wiki/Cecil_Kelley_criticality_accident)
 * [2023-07-28, 13:55:41](https://news.ycombinator.com/item?id=36906828) - [Brazil's Embraer plans to build electric flying taxi factory near Sao Paulo](https://www.bbc.com/news/world-latin-america-66264229)
@@ -20,6 +19,7 @@
 * [2023-07-28, 07:48:13](https://news.ycombinator.com/item?id=36904080) - [Finding “Discs of Tron” on the Roadside](https://arcadeblogger.com/2023/07/22/environmental-discs-of-tron-roadside-pickup/)
 * [2023-07-28, 05:57:35](https://news.ycombinator.com/item?id=36903481) - [On the future of free long term support for Linux distributions](https://utcc.utoronto.ca/~cks/space/blog/linux/LongTermSupportNoMoreFree)
 * [2023-07-28, 03:32:26](https://news.ycombinator.com/item?id=36902877) - [Implementing Fast Barriers for a Shared-Memory Cluster of 1024 RISC-V Cores](https://semiengineering.com/implementing-fast-barriers-for-a-shared-memory-cluster-of-1024-risc-v-cores/)
+* [2023-07-28, 00:29:48](https://news.ycombinator.com/item?id=36901885) - [The moral character of cryptographic work (2015)](https://web.cs.ucdavis.edu/~rogaway/papers/moral.html)
 * [2023-07-27, 23:09:46](https://news.ycombinator.com/item?id=36901303) - [Ask HN: Is the market bad, or am I having the worst luck job hunting?](https://news.ycombinator.com/item?id=36901303)
 * [2023-07-27, 21:09:39](https://news.ycombinator.com/item?id=36900201) - [Origins of the Sicilian Mafia: The Market for Lemons (2017)](https://www.cambridge.org/core/journals/journal-of-economic-history/article/origins-of-the-sicilian-mafia-the-market-for-lemons/52B18A611BD8AE26B4FDE3814A4239F1)
 * [2023-07-27, 15:39:08](https://news.ycombinator.com/item?id=36895220) - [Launch HN: PeerDB (YC S23) – Fast, Native ETL/ELT for Postgres](https://news.ycombinator.com/item?id=36895220)
