@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-28, 22:05:32",
+      "https://news.ycombinator.com/item?id=36913988"
+    ],
+    [
+      "Ring is having a major outage",
+      "https://status.ring.com"
+    ]
+  ],
+  [
+    [
+      "2023-07-28, 21:50:36",
+      "https://news.ycombinator.com/item?id=36913835"
+    ],
+    [
+      "SpaceX Punched a Hole in the Ionosphere",
+      "https://spaceweatherarchive.com/2023/07/23/spacex-punched-a-hole-in-the-ionosphere/"
+    ]
+  ],
+  [
+    [
       "2023-07-28, 21:01:41",
       "https://news.ycombinator.com/item?id=36913268"
     ],
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2023-07-28, 01:59:58",
-      "https://news.ycombinator.com/item?id=36902378"
-    ],
-    [
-      "Out of the crooked timber of humanity, no straight thing was ever made",
-      "https://theconvivialsociety.substack.com/p/embrace-your-crookedness"
-    ]
-  ],
-  [
-    [
       "2023-07-27, 22:06:37",
       "https://news.ycombinator.com/item?id=36900782"
     ],
@@ -287,16 +297,6 @@
     [
       "413. The Isle of Luing",
       "https://britishcoast.wordpress.com/2023/07/26/413-the-isle-of-luing/"
-    ]
-  ],
-  [
-    [
-      "2023-07-27, 06:22:12",
-      "https://news.ycombinator.com/item?id=36889656"
-    ],
-    [
-      "How to check if two SQL tables are the same",
-      "https://github.com/remysucre/blog/blob/main/posts/sql-eq.md"
     ]
   ]
 ]
