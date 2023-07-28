@@ -94,6 +94,7 @@
 * [2023-07-26, 09:52:53](https://news.ycombinator.com/item?id=36875164) - [Google vs. the Open Web](https://interpeer.io/blog/2023/07/google-vs-the-open-web/)
 * [2023-07-26, 09:32:05](https://news.ycombinator.com/item?id=36875042) - [Mathematics in Movies](https://people.math.harvard.edu/~knill/mathmovies/)
 * [2023-07-26, 08:57:33](https://news.ycombinator.com/item?id=36874821) - [Mind Grenade](https://www.fourmilab.ch/webtools/MindGrenade/)
+* [2023-07-26, 08:05:34](https://news.ycombinator.com/item?id=36874485) - [TeamTopologies](https://martinfowler.com/bliki/TeamTopologies.html)
 * [2023-07-26, 07:41:51](https://news.ycombinator.com/item?id=36874275) - [When the Music Industry Waged War on the Cassette Tape During the 1980s](https://www.openculture.com/2023/07/home-taping-is-killing-music-when-the-music-industry-waged-war-on-the-cassette-tape.html)
 * [2023-07-26, 07:23:49](https://news.ycombinator.com/item?id=36874149) - [Wall squats better at lowering blood pressure](https://www.bbc.co.uk/news/health-66303982)
 * [2023-07-26, 06:49:34](https://news.ycombinator.com/item?id=36873927) - [Systemctl –Force –Force Reboot](https://news.ycombinator.com/item?id=36873927)
