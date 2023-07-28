@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-07-28, 09:04:57",
-      "https://news.ycombinator.com/item?id=36904504"
-    ],
-    [
-      "Removal of Google from W3C over the Implementation of Web Environment Integrity",
-      "https://mastodon.social/@tolmasky/110780599992085798"
-    ]
-  ],
-  [
-    [
       "2023-07-28, 08:40:29",
       "https://news.ycombinator.com/item?id=36904338"
     ],
@@ -141,32 +131,12 @@
   ],
   [
     [
-      "2023-07-27, 19:39:24",
-      "https://news.ycombinator.com/item?id=36899029"
-    ],
-    [
-      "Kill dwm.exe on Windows for less input lag and better performance",
-      "https://github.com/nebuloss/killer"
-    ]
-  ],
-  [
-    [
       "2023-07-27, 19:18:42",
       "https://news.ycombinator.com/item?id=36898749"
     ],
     [
       "Commander Keen's adaptive tile refresh",
       "https://fabiensanglard.net/ega/"
-    ]
-  ],
-  [
-    [
-      "2023-07-27, 17:08:45",
-      "https://news.ycombinator.com/item?id=36896710"
-    ],
-    [
-      "LLMs Unleashed: The Power of Fine-Tuning",
-      "https://lucaspauker.com/articles/llms-unleashed-the-power-of-fine-tuning"
     ]
   ],
   [
@@ -251,12 +221,32 @@
   ],
   [
     [
+      "2023-07-27, 03:00:09",
+      "https://news.ycombinator.com/item?id=36888367"
+    ],
+    [
+      "Dennis Hopper’s Quiet Vision of Nineteen-Sixties Hollywood",
+      "https://www.newyorker.com/culture/photo-booth/dennis-hoppers-quiet-vision-of-nineteen-sixties-hollywood"
+    ]
+  ],
+  [
+    [
       "2023-07-26, 11:32:46",
       "https://news.ycombinator.com/item?id=36875958"
     ],
     [
       "Computer Power and Human Reason (1976) [pdf]",
       "https://web.archive.org/web/20230215010739if_/http://blogs.evergreen.edu/cpat/files/2013/05/Computer-Power-and-Human-Reason.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-07-26, 10:59:50",
+      "https://news.ycombinator.com/item?id=36875628"
+    ],
+    [
+      "Genoa-X: Server V-Cache Round 2",
+      "https://chipsandcheese.com/2023/07/17/genoa-x-server-v-cache-round-2/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "How to Dynamically Create Instance Variables in Ruby",
       "https://www.akshaykhot.com/dynamically-create-instance-variables-ruby/"
+    ]
+  ],
+  [
+    [
+      "2023-07-26, 05:48:51",
+      "https://news.ycombinator.com/item?id=36873573"
+    ],
+    [
+      "OpenPipes: Build your open-source virtual pipe organ system",
+      "https://openpipes.org/"
     ]
   ],
   [
