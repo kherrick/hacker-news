@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-28, 18:45:12](https://news.ycombinator.com/item?id=36911361) - [Free prison phone calls boost family ties, rehabilitation](https://www.latimes.com/politics/story/2023-07-27/free-calls-restore-inmates-ties-with-the-outside-can-they-reform-californias-prisons-too)
-* [2023-07-28, 18:36:30](https://news.ycombinator.com/item?id=36911232) - [Most of the 100M people who signed up for Threads stopped using it](https://arstechnica.com/tech-policy/2023/07/zuck-says-threads-doing-better-than-expected-despite-losing-over-half-of-users/)
 * [2023-07-28, 17:28:41](https://news.ycombinator.com/item?id=36910256) - [Play deprivation is a major cause of the teen mental health crisis](https://jonathanhaidt.substack.com/p/the-play-deficit)
 * [2023-07-28, 17:27:57](https://news.ycombinator.com/item?id=36910245) - [Threads users down by more than a half](https://www.bbc.co.uk/news/technology-66336058)
 * [2023-07-28, 17:20:55](https://news.ycombinator.com/item?id=36910146) - [“Web Environment Integrity” is an attack on the free Internet](https://www.fsf.org/blogs/community/web-environment-integrity-is-an-all-out-attack-on-the-free-internet)
@@ -29,6 +28,7 @@
 * [2023-07-28, 01:59:58](https://news.ycombinator.com/item?id=36902378) - [Embrace Your Crookednesss](https://theconvivialsociety.substack.com/p/embrace-your-crookedness)
 * [2023-07-27, 22:06:37](https://news.ycombinator.com/item?id=36900782) - [List of APIs that require declared reasons](https://developer.apple.com/news/?id=z6fu1dcu)
 * [2023-07-27, 18:25:38](https://news.ycombinator.com/item?id=36898068) - [Knife Throwing Machine (2022) [video]](https://www.youtube.com/watch?v=-BKEZbYOMpI)
+* [2023-07-27, 11:16:00](https://news.ycombinator.com/item?id=36891873) - [Yerkes Observatory: Restoring the World’s Largest Refracting Telescope](https://www.grainger.com/know-how/inspiration/kh-yerkes-observatory-restoring-worlds-largest-refracting-telescope)
 * [2023-07-27, 06:22:12](https://news.ycombinator.com/item?id=36889656) - [How to check if two SQL tables are the same](https://github.com/remysucre/blog/blob/main/posts/sql-eq.md)
 
 ## [Archives](archives/index.md)
