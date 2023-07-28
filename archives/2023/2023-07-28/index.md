@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-28](index.md)
 
+* [2023-07-28, 08:40:29](https://news.ycombinator.com/item?id=36904338) - [VyOS From Scratch – Edition 1 (set up your own router)](https://blog.kroy.io/2020/05/04/vyos-from-scratch-edition-1/)
 * [2023-07-28, 07:04:08](https://news.ycombinator.com/item?id=36903815) - [Mindfulness-Based Programs Show Promise in Reducing Psychological Distress](https://www.nature.com/articles/s44220-023-00081-5)
 * [2023-07-28, 06:30:31](https://news.ycombinator.com/item?id=36903642) - [The Dark Side of A.I.: Understanding the Dangers of Deepfake Images](https://blog.theabhishek.dev/the-dark-side-of-ai-understanding-the-dangers-of-deepfake-images)
 * [2023-07-28, 05:57:35](https://news.ycombinator.com/item?id=36903481) - [On the future of free long term support for Linux distributions](https://utcc.utoronto.ca/~cks/space/blog/linux/LongTermSupportNoMoreFree)

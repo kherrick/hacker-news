@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-28, 08:40:29](https://news.ycombinator.com/item?id=36904338) - [VyOS From Scratch – Edition 1 (set up your own router)](https://blog.kroy.io/2020/05/04/vyos-from-scratch-edition-1/)
 * [2023-07-28, 07:04:08](https://news.ycombinator.com/item?id=36903815) - [Mindfulness-Based Programs Show Promise in Reducing Psychological Distress](https://www.nature.com/articles/s44220-023-00081-5)
+* [2023-07-28, 05:57:35](https://news.ycombinator.com/item?id=36903481) - [On the future of free long term support for Linux distributions](https://utcc.utoronto.ca/~cks/space/blog/linux/LongTermSupportNoMoreFree)
 * [2023-07-28, 03:32:26](https://news.ycombinator.com/item?id=36902877) - [Implementing Fast Barriers for a Shared-Memory Cluster of 1024 RISC-V Cores](https://semiengineering.com/implementing-fast-barriers-for-a-shared-memory-cluster-of-1024-risc-v-cores/)
 * [2023-07-28, 00:29:48](https://news.ycombinator.com/item?id=36901885) - [The moral character of cryptographic work (2015)](https://web.cs.ucdavis.edu/~rogaway/papers/moral.html)
 * [2023-07-28, 00:20:59](https://news.ycombinator.com/item?id=36901815) - [WebArena: A realistic web environment for building autonomous agents](https://webarena.dev/)
@@ -23,8 +25,6 @@
 * [2023-07-27, 05:23:05](https://news.ycombinator.com/item?id=36889251) - [How the Cheesecake Factory defied the restaurant industry’s rules of success](https://www.vox.com/culture/23516638/cheesecake-factory-restaurant-menu)
 * [2023-07-27, 04:33:56](https://news.ycombinator.com/item?id=36888954) - [Tarsnap outage postmortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
 * [2023-07-27, 03:00:09](https://news.ycombinator.com/item?id=36888367) - [Dennis Hopper’s Quiet Vision of Nineteen-Sixties Hollywood](https://www.newyorker.com/culture/photo-booth/dennis-hoppers-quiet-vision-of-nineteen-sixties-hollywood)
-* [2023-07-26, 11:32:46](https://news.ycombinator.com/item?id=36875958) - [Computer Power and Human Reason (1976) [pdf]](https://web.archive.org/web/20230215010739if_/http://blogs.evergreen.edu/cpat/files/2013/05/Computer-Power-and-Human-Reason.pdf)
-* [2023-07-26, 11:18:49](https://news.ycombinator.com/item?id=36875815) - [An introduction to metaprogramming in Ruby](https://blog.appsignal.com/2023/07/26/an-introduction-to-metaprogramming-in-ruby.html)
 * [2023-07-26, 10:59:50](https://news.ycombinator.com/item?id=36875628) - [Genoa-X: Server V-Cache Round 2](https://chipsandcheese.com/2023/07/17/genoa-x-server-v-cache-round-2/)
 * [2023-07-26, 08:05:34](https://news.ycombinator.com/item?id=36874485) - [TeamTopologies](https://martinfowler.com/bliki/TeamTopologies.html)
 * [2023-07-26, 06:04:13](https://news.ycombinator.com/item?id=36873645) - [How to Dynamically Create Instance Variables in Ruby](https://www.akshaykhot.com/dynamically-create-instance-variables-ruby/)
