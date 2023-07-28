@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-07-27, 23:25:20",
-      "https://news.ycombinator.com/item?id=36901415"
+      "2023-07-27, 23:41:03",
+      "https://news.ycombinator.com/item?id=36901543"
     ],
     [
-      "Ask HN: Why are Tesla negative stories muted on HN?",
-      "https://news.ycombinator.com/item?id=36901415"
+      "Faster Filesystem Access with Directfs",
+      "https://gvisor.dev/blog/2023/06/27/directfs/"
+    ]
+  ],
+  [
+    [
+      "2023-07-27, 23:30:23",
+      "https://news.ycombinator.com/item?id=36901460"
+    ],
+    [
+      "Sinead O’Connor Condemned Church Abuse Early. America Didn’t Listen",
+      "https://www.nytimes.com/2023/07/27/nyregion/sinead-oconnor-childhood-abuse.html"
     ]
   ],
   [
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2023-07-27, 20:23:13",
-      "https://news.ycombinator.com/item?id=36899622"
-    ],
-    [
-      "Intel returns to profitability after two quarters of losses",
-      "https://www.cnbc.com/2023/07/27/intel-intc-earnings-report-q2-2023.html"
-    ]
-  ],
-  [
-    [
       "2023-07-27, 20:22:13",
       "https://news.ycombinator.com/item?id=36899608"
     ],
@@ -87,16 +87,6 @@
     [
       "Hydraulic Steering – Principles of Operation (1956) [video]",
       "https://www.youtube.com/watch?v=VDiOKqMKTO8"
-    ]
-  ],
-  [
-    [
-      "2023-07-27, 19:54:17",
-      "https://news.ycombinator.com/item?id=36899224"
-    ],
-    [
-      "Unpacking Xilinx 7-Series Bitstreams (2018)",
-      "https://www.kc8apf.net/2018/05/unpacking-xilinx-7-series-bitstreams-part-1/"
     ]
   ],
   [
@@ -211,16 +201,6 @@
   ],
   [
     [
-      "2023-07-27, 14:32:23",
-      "https://news.ycombinator.com/item?id=36894198"
-    ],
-    [
-      "DHCP is not blocked by ufw/iptables",
-      "https://unix.stackexchange.com/questions/447440/ufw-iptables-not-blocking-dhcp-udp-port-67#447524"
-    ]
-  ],
-  [
-    [
       "2023-07-27, 13:16:41",
       "https://news.ycombinator.com/item?id=36892970"
     ],
@@ -237,6 +217,16 @@
     [
       "Tarsnap outage postmortem",
       "https://mail.tarsnap.com/tarsnap-announce/msg00050.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-27, 00:15:14",
+      "https://news.ycombinator.com/item?id=36887025"
+    ],
+    [
+      "Modern Tourism Makes It Difficult to Appreciate the Sistine Chapel",
+      "https://lithub.com/modern-tourism-makes-it-difficult-to-truly-appreciate-the-sistine-chapel/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "OpenPipes Revolutionizes the DIY Pipe Organs",
       "https://makezine.com/article/craft/music/openpipes-revolutionizes-the-diy-pipe-organs/"
+    ]
+  ],
+  [
+    [
+      "2023-07-26, 04:05:54",
+      "https://news.ycombinator.com/item?id=36872955"
+    ],
+    [
+      "Making 'The Blue Flash': How I reconstructed a fatal atomic accident",
+      "https://www.bbc.com/future/article/20230725-making-the-blue-flash-how-i-reconstructed-a-fatal-atomic-accident"
     ]
   ],
   [
