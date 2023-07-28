@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-28, 13:25:54](https://news.ycombinator.com/item?id=36906435) - [Sci-Hub Founder Receives EFF Award for Providing Access to Scientific Knowledge](https://torrentfreak.com/sci-hubs-alexandra-elbakyan-receives-eff-award-for-providing-access-to-scientific-knowledge-230728/)
-* [2023-07-28, 13:18:51](https://news.ycombinator.com/item?id=36906348) - [How the PicoCray Was Made](https://www.raspberrypi.com/news/how-i-made-the-picocray-hackspace-69/)
 * [2023-07-28, 13:12:15](https://news.ycombinator.com/item?id=36906284) - [Tor’s shadowy reputation will only end if we all use it](https://www.engadget.com/tor-dark-web-privacy-secure-browser-anonymous-130048839.html)
 * [2023-07-28, 12:00:42](https://news.ycombinator.com/item?id=36905630) - [Finley (YC W21) Is Hiring to Rethink Capital Markets Infrastructure (US Remote)](https://www.finleycms.com/careers/)
 * [2023-07-28, 11:32:48](https://news.ycombinator.com/item?id=36905405) - [There Are at Least 10 Cities with Their Own Psychological Disorders](https://www.atlasobscura.com/articles/cities-with-psychological-syndromes-stockholm)
@@ -25,6 +24,7 @@
 * [2023-07-27, 09:32:07](https://news.ycombinator.com/item?id=36891056) - [Twist: Slack alternative from the makers of Todoist](https://twist.com/)
 * [2023-07-27, 07:42:23](https://news.ycombinator.com/item?id=36890241) - [How to use a Python multiprocessing module](https://developers.redhat.com/articles/2023/07/27/how-use-python-multiprocessing-module)
 * [2023-07-27, 06:22:12](https://news.ycombinator.com/item?id=36889656) - [How to Check 2 SQL Tables Are the Same](https://github.com/remysucre/blog/blob/main/posts/sql-eq.md)
+* [2023-07-27, 06:15:21](https://news.ycombinator.com/item?id=36889610) - [The First Map of the Moon](https://www.historytoday.com/archive/months-past/first-map-moon)
 * [2023-07-27, 05:23:05](https://news.ycombinator.com/item?id=36889251) - [How the Cheesecake Factory defied the restaurant industry’s rules of success](https://www.vox.com/culture/23516638/cheesecake-factory-restaurant-menu)
 * [2023-07-27, 04:33:56](https://news.ycombinator.com/item?id=36888954) - [Tarsnap outage postmortem](https://mail.tarsnap.com/tarsnap-announce/msg00050.html)
 * [2023-07-26, 08:05:34](https://news.ycombinator.com/item?id=36874485) - [TeamTopologies](https://martinfowler.com/bliki/TeamTopologies.html)
