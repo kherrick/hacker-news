@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-28, 17:20:55](https://news.ycombinator.com/item?id=36910146) - [“Web Environment Integrity” is an all-out attack on the free Internet](https://www.fsf.org/blogs/community/web-environment-integrity-is-an-all-out-attack-on-the-free-internet)
 * [2023-07-28, 17:01:12](https://news.ycombinator.com/item?id=36909867) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-07-28, 16:49:18](https://news.ycombinator.com/item?id=36909673) - [An ultra-sensitive on-off switch helps axolotls regrow limbs](https://scopeblog.stanford.edu/2023/07/26/how-an-ultra-sensitive-on-off-switch-helps-axolotls-regrow-limbs/)
 * [2023-07-28, 16:39:20](https://news.ycombinator.com/item?id=36909525) - [Observable API Proposal](https://github.com/domfarolino/observable)
@@ -29,7 +30,6 @@
 * [2023-07-27, 18:25:38](https://news.ycombinator.com/item?id=36898068) - [Knife Throwing Machine (2022) [video]](https://www.youtube.com/watch?v=-BKEZbYOMpI)
 * [2023-07-27, 14:03:43](https://news.ycombinator.com/item?id=36893695) - [Lean Meets Wicked Problems](https://steveblank.com/2023/07/25/lean-meets-wicked-problems/)
 * [2023-07-27, 06:22:12](https://news.ycombinator.com/item?id=36889656) - [How to Check 2 SQL Tables Are the Same](https://github.com/remysucre/blog/blob/main/posts/sql-eq.md)
-* [2023-07-27, 06:15:21](https://news.ycombinator.com/item?id=36889610) - [The First Map of the Moon](https://www.historytoday.com/archive/months-past/first-map-moon)
 
 ## [Archives](archives/index.md)
 
