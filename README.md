@@ -2,7 +2,7 @@
 
 * [2023-07-29, 11:47:56](https://news.ycombinator.com/item?id=36919286) - [US rejects Australia’s calls to end pursuit of WikiLeaks](https://www.theguardian.com/australia-news/2023/jul/29/julian-assange-us-rejects-australias-calls-to-free-wikileaks-founder-during-ausmin-talks)
 * [2023-07-29, 11:38:43](https://news.ycombinator.com/item?id=36919225) - [Instead of obtaining a warrant, the NSA would like to keep buying your data](https://www.wired.com/story/nsa-ndaa-lobbying-privacy-loophole/)
-* [2023-07-29, 11:31:22](https://news.ycombinator.com/item?id=36919175) - [List of online activities to be made impossible by the UK Online Safety Bill](https://news.ycombinator.com/item?id=36919175)
+* [2023-07-29, 11:31:22](https://news.ycombinator.com/item?id=36919175) - [Ask HN: Online activities to be made impossible by the UK Online Safety Bill](https://news.ycombinator.com/item?id=36919175)
 * [2023-07-29, 11:23:49](https://news.ycombinator.com/item?id=36919119) - [Japan’s population fell by 800k last year as demographic crisis accelerates](https://www.cnn.com/2023/07/27/asia/japan-population-drop-2022-intl-hnk/index.html)
 * [2023-07-29, 10:12:18](https://news.ycombinator.com/item?id=36918655) - [IRC is the only viable chat protocol](https://koshka.love/babel/irc-forever.html)
 * [2023-07-29, 09:28:48](https://news.ycombinator.com/item?id=36918435) - [So you want to build your own open source chatbot](https://hacks.mozilla.org/2023/07/so-you-want-to-build-your-own-open-source-chatbot/)
