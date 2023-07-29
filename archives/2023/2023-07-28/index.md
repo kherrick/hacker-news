@@ -38,6 +38,7 @@
 * [2023-07-28, 15:55:53](https://news.ycombinator.com/item?id=36908757) - [Invisible Asymptotes (2018)](https://www.eugenewei.com/blog/2018/5/21/invisible-asymptotes)
 * [2023-07-28, 15:47:08](https://news.ycombinator.com/item?id=36908623) - [Intel Accelerates AI Development with Reference Kits](https://cioinfluence.com/machine-learning/intel-accelerates-ai-development-with-reference-kits/)
 * [2023-07-28, 15:43:56](https://news.ycombinator.com/item?id=36908574) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=36908574)
+* [2023-07-28, 15:31:07](https://news.ycombinator.com/item?id=36908369) - [The bigger the interface, the weaker the abstraction](https://functionallyimperative.com/p/the-bigger-the-interface-the-weaker)
 * [2023-07-28, 15:28:04](https://news.ycombinator.com/item?id=36908309) - [Cap'n Proto 1.0](https://capnproto.org/news/2023-07-28-capnproto-1.0.html)
 * [2023-07-28, 15:25:59](https://news.ycombinator.com/item?id=36908265) - [Flash Museum – explore more than 130k flash games and animations](https://flashmuseum.org/)
 * [2023-07-28, 15:22:51](https://news.ycombinator.com/item?id=36908198) - [Microsoft's AI shopping announcement contains hallucinations in the demo](https://www.perfectrec.com/posts/microsoft-ai-shopping-announcement-contains-hallucinations-in-the-demo)

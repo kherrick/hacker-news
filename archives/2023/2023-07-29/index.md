@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-29](index.md)
 
+* [2023-07-29, 20:17:12](https://news.ycombinator.com/item?id=36924117) - [Police are not primarily crime fighters, according to the data](https://www.reuters.com/legal/government/police-are-not-primarily-crime-fighters-according-data-2022-11-02/)
 * [2023-07-29, 19:34:57](https://news.ycombinator.com/item?id=36923714) - [Psychopathic Tendencies Help Some People Succeed in Business](https://www.scientificamerican.com/article/psychopathic-tendencies-help-some-people-succeed-in-business/)
+* [2023-07-29, 19:20:36](https://news.ycombinator.com/item?id=36923550) - ['Phantom' A-bomb film 'Hiroshima,' with 88,000 extras, set for July 30](https://mainichi.jp/english/articles/20230729/p2a/00m/0et/006000c)
 * [2023-07-29, 18:45:56](https://news.ycombinator.com/item?id=36923219) - [Actors take to the internet to show their residual checks, some in the negative](https://www.npr.org/2023/07/27/1190336979/actors-strike-residuals-sag-aftra-wga)
 * [2023-07-29, 18:39:24](https://news.ycombinator.com/item?id=36923154) - [Counterterrorism internet surveillance is being retargeted at sex workers](https://theintercept.com/2023/07/29/skull-games-surveillance-sex-workers/)
 * [2023-07-29, 18:35:39](https://news.ycombinator.com/item?id=36923123) - [Utopia to blight: Surviving in Henry Ford’s lost jungle town](https://www.washingtonpost.com/world/2023/07/28/fordlandia-brazil/)
@@ -24,6 +26,7 @@
 * [2023-07-29, 16:04:15](https://news.ycombinator.com/item?id=36921552) - [“Gzip beats BERT?” Part 2: dataset issues, improved speed, and results](https://kenschutte.com/gzip-knn-paper2/)
 * [2023-07-29, 16:01:55](https://news.ycombinator.com/item?id=36921530) - [CDC Finds Coronavirus and Other Infectious Agents in Unlicensed California Lab](https://news.yahoo.com/cdc-finds-coronavirus-other-infectious-154500690.html)
 * [2023-07-29, 16:00:58](https://news.ycombinator.com/item?id=36921522) - [Samsung sees 95% drop in profits for a second consecutive quarter](https://www.androidauthority.com/samsung-profits-drop-by-95-percent-3351038/)
+* [2023-07-29, 15:54:51](https://news.ycombinator.com/item?id=36921446) - [Functions are Vectors](https://thenumb.at/Functions-are-Vectors/)
 * [2023-07-29, 15:54:38](https://news.ycombinator.com/item?id=36921443) - [LibreWolf: A custom version of Firefox, focused on privacy, security and freedom](https://librewolf.net/)
 * [2023-07-29, 15:12:16](https://news.ycombinator.com/item?id=36921038) - [HuggingFace Text Generation License No Longer Open-Source](https://github.com/huggingface/text-generation-inference/issues/726)
 * [2023-07-29, 15:11:23](https://news.ycombinator.com/item?id=36921032) - [Automatic Music Playlist Generation via Simulation-Based Reinforcement Learning](https://research.atspotify.com/2023/07/automatic-music-playlist-generation-via-simulation-based-reinforcement-learning/)
