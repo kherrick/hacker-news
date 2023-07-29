@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-29, 22:51:28](https://news.ycombinator.com/item?id=36925631) - [Where programs live? Vague spaces and software systems](https://tomasp.net/blog/2023/vague-spaces/)
 * [2023-07-29, 22:31:25](https://news.ycombinator.com/item?id=36925433) - [Ways to print hello world in assembler on a Raspberry Pi](https://github.com/ksaj/helloworld)
 * [2023-07-29, 21:47:45](https://news.ycombinator.com/item?id=36925019) - [Big Tobacco knew radioactive Po210 in cigarettes posed cancer risk, kept quiet](https://www.uclahealth.org/news/big-tobacco-knew-radioactive-particles-in-cigarettes)
 * [2023-07-29, 21:27:28](https://news.ycombinator.com/item?id=36924832) - [Red algae proteins grafted into tobacco double plant growth](https://news.cornell.edu/stories/2023/07/red-algae-proteins-grafted-tobacco-double-plant-growth)
-* [2023-07-29, 21:10:19](https://news.ycombinator.com/item?id=36924647) - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://llm-attacks.org/)
 * [2023-07-29, 21:00:55](https://news.ycombinator.com/item?id=36924518) - [Meticulous (YC S21) is hiring #3 engineer to build future of testing](https://news.ycombinator.com/item?id=36924518)
 * [2023-07-29, 20:34:26](https://news.ycombinator.com/item?id=36924267) - [Show HN: Gogit – Just enough Git (in Go) to push itself to GitHub](https://benhoyt.com/writings/gogit/)
 * [2023-07-29, 19:21:55](https://news.ycombinator.com/item?id=36923562) - [The Transformer Blueprint](https://deeprevision.github.io/posts/001-transformer/)
