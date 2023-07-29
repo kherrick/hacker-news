@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-29, 04:01:29](https://news.ycombinator.com/item?id=36916762) - [Llama 32K Context Released by Together AI](https://together.ai/blog/llama-2-7b-32k)
 * [2023-07-29, 02:45:06](https://news.ycombinator.com/item?id=36916297) - [IBM Blue Lightning: World’s Fastest 386?](https://www.os2museum.com/wp/ibm-blue-lightning-worlds-fastest-386/comment-page-1/)
 * [2023-07-29, 02:36:03](https://news.ycombinator.com/item?id=36916254) - [Argonne National Lab is attempting to replicate LK-99](https://www.science.org/content/article/spectacular-superconductor-claim-making-news-here-s-why-experts-are-doubtful)
 * [2023-07-29, 02:24:51](https://news.ycombinator.com/item?id=36916182) - [LPython: Novel, Fast, Retargetable Python Compiler](https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/)
@@ -22,7 +23,6 @@
 * [2023-07-28, 14:54:42](https://news.ycombinator.com/item?id=36907674) - [Rain Panels: Harvesting the energy of falling raindrops](https://thedebrief.org/forget-solar-panels-here-come-rain-panels/)
 * [2023-07-28, 13:28:20](https://news.ycombinator.com/item?id=36906472) - [US smartphone shipments fall sharply, but Android more than iPhone](https://www.counterpointresearch.com/us-smartphone-shipments-q2-2023/)
 * [2023-07-28, 12:54:23](https://news.ycombinator.com/item?id=36906085) - [Threads users down by more than a half](https://www.bbc.com/news/technology-66336058)
-* [2023-07-28, 12:46:19](https://news.ycombinator.com/item?id=36906022) - [Watch TV from the 90s and earlier](https://my90stv.com/)
 * [2023-07-28, 09:54:42](https://news.ycombinator.com/item?id=36904785) - [The Resilience of Costco](https://minesafetydisclosures.com/blog/2018/6/18/costco)
 * [2023-07-28, 07:10:38](https://news.ycombinator.com/item?id=36903862) - [Pyro: A universal, probablistic programming language](https://pyro.ai/)
 * [2023-07-28, 05:07:42](https://news.ycombinator.com/item?id=36903282) - [Glass Dip Pens (2022)](https://neonaut.neocities.org/microblog/2022/glass-dip-pens)
