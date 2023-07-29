@@ -7,5 +7,6 @@
 * [2023-07-29, 03:06:09](https://news.ycombinator.com/item?id=36916452) - [Chromium Community Leader Calls WEI Critics “Bullies and Criminals”](https://groups.google.com/a/chromium.org/g/blink-dev/c/Ux5h_kGO22g/m/XCAIgPtxAQAJ)
 * [2023-07-29, 02:45:06](https://news.ycombinator.com/item?id=36916297) - [IBM Blue Lightning: World’s Fastest 386?](https://www.os2museum.com/wp/ibm-blue-lightning-worlds-fastest-386/comment-page-1/)
 * [2023-07-29, 02:36:03](https://news.ycombinator.com/item?id=36916254) - [Argonne National Lab is attempting to replicate LK-99](https://www.science.org/content/article/spectacular-superconductor-claim-making-news-here-s-why-experts-are-doubtful)
+* [2023-07-29, 02:24:51](https://news.ycombinator.com/item?id=36916182) - [LPython: Novel, Fast, Retargetable Python Compiler](https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/)
 * [2023-07-29, 02:18:20](https://news.ycombinator.com/item?id=36916150) - [Plans Develop for High-Speed Rail in the PNW](https://southseattleemerald.com/2023/07/18/plans-develop-for-high-speed-rail-in-the-pnw/)
 * [2023-07-29, 00:04:17](https://news.ycombinator.com/item?id=36915108) - [RISC-V CPU formal specification F# edition](https://github.com/mrLSD/riscv-fs)
