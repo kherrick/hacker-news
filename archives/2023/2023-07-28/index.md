@@ -83,6 +83,7 @@
 * [2023-07-28, 08:40:29](https://news.ycombinator.com/item?id=36904338) - [VyOS From Scratch – Edition 1 (set up your own router)](https://blog.kroy.io/2020/05/04/vyos-from-scratch-edition-1/)
 * [2023-07-28, 08:07:56](https://news.ycombinator.com/item?id=36904191) - [Flags for fchmodat()](https://lwn.net/SubscriberLink/939217/6c6ec0264dcf28f7/)
 * [2023-07-28, 08:01:29](https://news.ycombinator.com/item?id=36904158) - [System Design for Recommendations and Search](https://eugeneyan.com/writing/system-design-for-discovery/)
+* [2023-07-28, 07:53:25](https://news.ycombinator.com/item?id=36904112) - [Iridis Alpha Theory: The Making of a C64 Classic](https://iridisalpha.com/)
 * [2023-07-28, 07:48:13](https://news.ycombinator.com/item?id=36904080) - [Finding “Discs of Tron” on the Roadside](https://arcadeblogger.com/2023/07/22/environmental-discs-of-tron-roadside-pickup/)
 * [2023-07-28, 07:10:38](https://news.ycombinator.com/item?id=36903862) - [Pyro: A Universal, Probablistic Programming Language](https://pyro.ai/)
 * [2023-07-28, 07:04:08](https://news.ycombinator.com/item?id=36903815) - [Mindfulness-Based Programs Show Promise in Reducing Psychological Distress](https://www.nature.com/articles/s44220-023-00081-5)
