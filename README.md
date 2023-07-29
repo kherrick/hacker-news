@@ -13,7 +13,7 @@
 * [2023-07-29, 07:26:10](https://news.ycombinator.com/item?id=36917782) - [Counting License Plates](https://www.alexmolas.com/2023/07/01/counting-license-plates.html)
 * [2023-07-29, 06:11:55](https://news.ycombinator.com/item?id=36917424) - [U.S. Marine Corps Antenna Handbook (1999) [pdf]](https://www.marines.mil/Portals/1/MCRP%203-40.3C%20With%20Erratum%20z.pdf)
 * [2023-07-29, 05:25:07](https://news.ycombinator.com/item?id=36917214) - [Ingest OpenTelemetry metrics with Prometheus natively](https://last9.io/blog/native-support-for-opentelemetry-metrics-in-prometheus/)
-* [2023-07-29, 02:45:06](https://news.ycombinator.com/item?id=36916297) - [IBM Blue Lightning: World’s Fastest 386?](https://www.os2museum.com/wp/ibm-blue-lightning-worlds-fastest-386/comment-page-1/)
+* [2023-07-29, 02:45:06](https://news.ycombinator.com/item?id=36916297) - [IBM Blue Lightning: World’s Fastest 386? (2014)](https://www.os2museum.com/wp/ibm-blue-lightning-worlds-fastest-386/comment-page-1/)
 * [2023-07-29, 02:36:03](https://news.ycombinator.com/item?id=36916254) - [Argonne National Lab is attempting to replicate LK-99](https://www.science.org/content/article/spectacular-superconductor-claim-making-news-here-s-why-experts-are-doubtful)
 * [2023-07-29, 02:24:51](https://news.ycombinator.com/item?id=36916182) - [LPython: Novel, Fast, Retargetable Python Compiler](https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/)
 * [2023-07-29, 02:18:20](https://news.ycombinator.com/item?id=36916150) - [Plans develop for high-speed rail in the PNW](https://southseattleemerald.com/2023/07/18/plans-develop-for-high-speed-rail-in-the-pnw/)
