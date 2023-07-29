@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2023-07-29, 14:03:50",
+      "https://news.ycombinator.com/item?id=36920423"
+    ],
+    [
+      "Show HN: LLMFlows – LangChain alternative for explicit and transparent apps",
+      "https://github.com/stoyan-stoyanov/llmflows"
+    ]
+  ],
+  [
+    [
       "2023-07-29, 13:28:50",
       "https://news.ycombinator.com/item?id=36920105"
     ],
@@ -187,16 +197,6 @@
     [
       "U.S. Marine Corps Antenna Handbook (1999) [pdf]",
       "https://www.marines.mil/Portals/1/MCRP%203-40.3C%20With%20Erratum%20z.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-07-29, 05:25:07",
-      "https://news.ycombinator.com/item?id=36917214"
-    ],
-    [
-      "Ingest OpenTelemetry metrics with Prometheus natively",
-      "https://last9.io/blog/native-support-for-opentelemetry-metrics-in-prometheus/"
     ]
   ],
   [
