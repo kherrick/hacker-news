@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-29, 20:34:26](https://news.ycombinator.com/item?id=36924267) - [Show HN: Gogit – Just enough Git (in Go) to push itself to GitHub](https://benhoyt.com/writings/gogit/)
 * [2023-07-29, 20:17:12](https://news.ycombinator.com/item?id=36924117) - [Police are not primarily crime fighters, according to the data](https://www.reuters.com/legal/government/police-are-not-primarily-crime-fighters-according-data-2022-11-02/)
 * [2023-07-29, 20:04:37](https://news.ycombinator.com/item?id=36923991) - [Musk’s X Corp sues Israel’s Bright Data for scraping data](https://www.timesofisrael.com/musks-x-corp-sues-israels-bright-data-for-illegally-scraping-data/)
 * [2023-07-29, 19:34:57](https://news.ycombinator.com/item?id=36923714) - [Psychopathic Tendencies Help Some People Succeed in Business](https://www.scientificamerican.com/article/psychopathic-tendencies-help-some-people-succeed-in-business/)
@@ -7,6 +8,7 @@
 * [2023-07-29, 18:47:13](https://news.ycombinator.com/item?id=36923235) - [Is This an Emoji?](https://spiffy.tech/is-this-an-emoji)
 * [2023-07-29, 18:39:24](https://news.ycombinator.com/item?id=36923154) - [Counterterrorism internet surveillance is being retargeted at sex workers](https://theintercept.com/2023/07/29/skull-games-surveillance-sex-workers/)
 * [2023-07-29, 17:59:04](https://news.ycombinator.com/item?id=36922790) - [Open Source Outdoor Air Quality Monitor](https://www.airgradient.com/open-air/)
+* [2023-07-29, 17:53:58](https://news.ycombinator.com/item?id=36922744) - [How fast should you accelerate your kid in math?](https://kidswholovemath.substack.com/p/how-fast-should-you-accelerate-your)
 * [2023-07-29, 17:32:42](https://news.ycombinator.com/item?id=36922517) - [US Army Field Manual on Leadership (1990) [pdf]](https://armyoe.files.wordpress.com/2018/03/1990-fm-22-100.pdf)
 * [2023-07-29, 17:00:46](https://news.ycombinator.com/item?id=36922179) - [Freshpaint (YC S19) is hiring engineers to safeguard health data](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-07-29, 16:28:01](https://news.ycombinator.com/item?id=36921808) - [Universal and transferable adversarial attacks on aligned language models](https://llm-attacks.org/zou2023universal.pdf)
@@ -25,10 +27,8 @@
 * [2023-07-29, 06:11:55](https://news.ycombinator.com/item?id=36917424) - [U.S. Marine Corps Antenna Handbook (1999) [pdf]](https://www.marines.mil/Portals/1/MCRP%203-40.3C%20With%20Erratum%20z.pdf)
 * [2023-07-28, 15:31:07](https://news.ycombinator.com/item?id=36908369) - [The bigger the interface, the weaker the abstraction](https://functionallyimperative.com/p/the-bigger-the-interface-the-weaker)
 * [2023-07-28, 12:11:50](https://news.ycombinator.com/item?id=36905715) - [The future of Clang-based tooling](https://blog.trailofbits.com/2023/07/28/the-future-of-clang-based-tooling/)
-* [2023-07-28, 10:11:00](https://news.ycombinator.com/item?id=36904892) - [Why is c the symbol for the speed of light? (1997)](https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html)
 * [2023-07-28, 09:34:48](https://news.ycombinator.com/item?id=36904672) - [In the 17th century, Leibniz dreamed of a machine that could calculate ideas](https://spectrum.ieee.org/in-the-17th-century-leibniz-dreamed-of-a-machine-that-could-calculate-ideas)
 * [2023-07-27, 20:30:44](https://news.ycombinator.com/item?id=36899712) - [Assembler on Raspberry Pi](https://imomath.com/index.cgi?page=asmMain)
-* [2023-07-27, 11:58:28](https://news.ycombinator.com/item?id=36892168) - [Bpfilter is forever](https://dxuuu.xyz/bpfilter.html)
 * [2023-07-27, 10:28:48](https://news.ycombinator.com/item?id=36891510) - [Insect memories may not survive metamorphosis](https://www.quantamagazine.org/insect-brains-melt-and-rewire-during-metamorphosis-20230726/)
 
 ## [Archives](archives/index.md)

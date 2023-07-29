@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-29](index.md)
 
+* [2023-07-29, 20:34:26](https://news.ycombinator.com/item?id=36924267) - [Show HN: Gogit – Just enough Git (in Go) to push itself to GitHub](https://benhoyt.com/writings/gogit/)
 * [2023-07-29, 20:17:12](https://news.ycombinator.com/item?id=36924117) - [Police are not primarily crime fighters, according to the data](https://www.reuters.com/legal/government/police-are-not-primarily-crime-fighters-according-data-2022-11-02/)
 * [2023-07-29, 20:04:37](https://news.ycombinator.com/item?id=36923991) - [Musk’s X Corp sues Israel’s Bright Data for scraping data](https://www.timesofisrael.com/musks-x-corp-sues-israels-bright-data-for-illegally-scraping-data/)
 * [2023-07-29, 19:34:57](https://news.ycombinator.com/item?id=36923714) - [Psychopathic Tendencies Help Some People Succeed in Business](https://www.scientificamerican.com/article/psychopathic-tendencies-help-some-people-succeed-in-business/)
