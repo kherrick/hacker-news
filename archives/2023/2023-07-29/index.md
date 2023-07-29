@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-29](index.md)
 
+* [2023-07-29, 13:59:50](https://news.ycombinator.com/item?id=36920387) - [Enjoy Alcohol, Without the Hangover](https://www.wsj.com/articles/synthetic-alcohol-no-hangover-511fc418)
 * [2023-07-29, 13:17:09](https://news.ycombinator.com/item?id=36920010) - [Cyberdecks](https://blog.rfox.eu/en/Hardware/Cyberdecks.html)
 * [2023-07-29, 13:14:34](https://news.ycombinator.com/item?id=36919988) - [Germany's auto industry: suppliers' confidence waning](https://www.dw.com/en/germanys-auto-industry-suppliers-confidence-waning/a-66368932)
 * [2023-07-29, 13:13:59](https://news.ycombinator.com/item?id=36919981) - [The Hacker's Dictionary](http://www.hackersdictionary.com/html/index.html)
