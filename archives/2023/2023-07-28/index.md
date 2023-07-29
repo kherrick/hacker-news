@@ -73,6 +73,7 @@
 * [2023-07-28, 11:32:48](https://news.ycombinator.com/item?id=36905405) - [There Are at Least 10 Cities with Their Own Psychological Disorders](https://www.atlasobscura.com/articles/cities-with-psychological-syndromes-stockholm)
 * [2023-07-28, 11:16:46](https://news.ycombinator.com/item?id=36905295) - [Apple cracking down on 'fingerprinting' with new App Store API rules](https://www.engadget.com/apple-cracking-down-on-fingerprinting-with-new-app-store-api-rules-080007498.html)
 * [2023-07-28, 10:45:17](https://news.ycombinator.com/item?id=36905076) - [What is RT-2? Google DeepMind’s vision-language-action model for robotics](https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/)
+* [2023-07-28, 09:54:42](https://news.ycombinator.com/item?id=36904785) - [The Resilience of Costco](https://minesafetydisclosures.com/blog/2018/6/18/costco)
 * [2023-07-28, 09:30:45](https://news.ycombinator.com/item?id=36904647) - [Web Dev Without Tools](https://danthedev.com/web-dev-without-tools/)
 * [2023-07-28, 09:14:54](https://news.ycombinator.com/item?id=36904552) - [After Raising $235K, Abode Remains Committed to Taking on Adobe](https://petapixel.com/2023/07/26/after-raising-235k-abode-remains-committed-to-taking-on-adobe/)
 * [2023-07-28, 09:04:57](https://news.ycombinator.com/item?id=36904504) - [Removal of Google from W3C over the Implementation of Web Environment Integrity](https://mastodon.social/@tolmasky/110780599992085798)
