@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-29, 20:17:12](https://news.ycombinator.com/item?id=36924117) - [Police are not primarily crime fighters, according to the data](https://www.reuters.com/legal/government/police-are-not-primarily-crime-fighters-according-data-2022-11-02/)
+* [2023-07-29, 20:04:37](https://news.ycombinator.com/item?id=36923991) - [Musk’s X Corp sues Israel’s Bright Data for scraping data](https://www.timesofisrael.com/musks-x-corp-sues-israels-bright-data-for-illegally-scraping-data/)
 * [2023-07-29, 19:34:57](https://news.ycombinator.com/item?id=36923714) - [Psychopathic Tendencies Help Some People Succeed in Business](https://www.scientificamerican.com/article/psychopathic-tendencies-help-some-people-succeed-in-business/)
 * [2023-07-29, 19:20:36](https://news.ycombinator.com/item?id=36923550) - ['Phantom' A-bomb film 'Hiroshima,' with 88,000 extras, set for July 30](https://mainichi.jp/english/articles/20230729/p2a/00m/0et/006000c)
 * [2023-07-29, 18:39:24](https://news.ycombinator.com/item?id=36923154) - [Counterterrorism internet surveillance is being retargeted at sex workers](https://theintercept.com/2023/07/29/skull-games-surveillance-sex-workers/)
@@ -26,7 +27,6 @@
 * [2023-07-28, 12:11:50](https://news.ycombinator.com/item?id=36905715) - [The future of Clang-based tooling](https://blog.trailofbits.com/2023/07/28/the-future-of-clang-based-tooling/)
 * [2023-07-28, 10:11:00](https://news.ycombinator.com/item?id=36904892) - [Why is c the symbol for the speed of light? (1997)](https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html)
 * [2023-07-28, 09:34:48](https://news.ycombinator.com/item?id=36904672) - [In the 17th century, Leibniz dreamed of a machine that could calculate ideas](https://spectrum.ieee.org/in-the-17th-century-leibniz-dreamed-of-a-machine-that-could-calculate-ideas)
-* [2023-07-28, 00:18:39](https://news.ycombinator.com/item?id=36901794) - [TMAP – On Demand Tactile Street Map](https://adaptations.org/products/tmap)
 * [2023-07-27, 20:30:44](https://news.ycombinator.com/item?id=36899712) - [Assembler on Raspberry Pi](https://imomath.com/index.cgi?page=asmMain)
 * [2023-07-27, 11:58:28](https://news.ycombinator.com/item?id=36892168) - [Bpfilter is forever](https://dxuuu.xyz/bpfilter.html)
 * [2023-07-27, 10:28:48](https://news.ycombinator.com/item?id=36891510) - [Insect memories may not survive metamorphosis](https://www.quantamagazine.org/insect-brains-melt-and-rewire-during-metamorphosis-20230726/)
