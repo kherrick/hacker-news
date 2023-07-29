@@ -9,6 +9,7 @@
 * [2023-07-29, 20:17:12](https://news.ycombinator.com/item?id=36924117) - [Police are not primarily crime fighters, according to the data](https://www.reuters.com/legal/government/police-are-not-primarily-crime-fighters-according-data-2022-11-02/)
 * [2023-07-29, 20:04:37](https://news.ycombinator.com/item?id=36923991) - [Musk’s X Corp sues Israel’s Bright Data for scraping data](https://www.timesofisrael.com/musks-x-corp-sues-israels-bright-data-for-illegally-scraping-data/)
 * [2023-07-29, 19:34:57](https://news.ycombinator.com/item?id=36923714) - [Psychopathic Tendencies Help Some People Succeed in Business](https://www.scientificamerican.com/article/psychopathic-tendencies-help-some-people-succeed-in-business/)
+* [2023-07-29, 19:21:55](https://news.ycombinator.com/item?id=36923562) - [The Transformer Blueprint](https://deeprevision.github.io/posts/001-transformer/)
 * [2023-07-29, 19:20:36](https://news.ycombinator.com/item?id=36923550) - ['Phantom' A-bomb film 'Hiroshima,' with 88,000 extras, set for July 30](https://mainichi.jp/english/articles/20230729/p2a/00m/0et/006000c)
 * [2023-07-29, 18:47:13](https://news.ycombinator.com/item?id=36923235) - [Is This an Emoji?](https://spiffy.tech/is-this-an-emoji)
 * [2023-07-29, 18:45:56](https://news.ycombinator.com/item?id=36923219) - [Actors take to the internet to show their residual checks, some in the negative](https://www.npr.org/2023/07/27/1190336979/actors-strike-residuals-sag-aftra-wga)
