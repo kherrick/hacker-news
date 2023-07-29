@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-29, 11:38:43](https://news.ycombinator.com/item?id=36919225) - [Instead of obtaining a warrant, the NSA would like to keep buying your data](https://www.wired.com/story/nsa-ndaa-lobbying-privacy-loophole/)
-* [2023-07-29, 10:45:23](https://news.ycombinator.com/item?id=36918874) - [Booking a Ryanair flight via an online travel agent might hold a nasty surprise](https://noyb.eu/en/booking-ryanair-flight-through-online-travel-agent-might-hold-nasty-surprise)
+* [2023-07-29, 11:23:49](https://news.ycombinator.com/item?id=36919119) - [Japan’s population fell by 800k last year as demographic crisis accelerates](https://www.cnn.com/2023/07/27/asia/japan-population-drop-2022-intl-hnk/index.html)
 * [2023-07-29, 10:24:04](https://news.ycombinator.com/item?id=36918719) - [Apple demands app makers explain use of sensitive APIs](https://www.theregister.com/2023/07/29/apple_developer_api/)
 * [2023-07-29, 10:12:18](https://news.ycombinator.com/item?id=36918655) - [IRC is the only viable chat protocol](https://koshka.love/babel/irc-forever.html)
 * [2023-07-29, 09:51:57](https://news.ycombinator.com/item?id=36918567) - [‘Something weird is going on’: Antarctic sea ice stays at historic lows](https://www.theguardian.com/world/2023/jul/29/something-weird-is-going-on-search-for-answers-as-antarctic-sea-ice-stays-at-historic-lows)
@@ -15,7 +15,6 @@
 * [2023-07-29, 02:45:06](https://news.ycombinator.com/item?id=36916297) - [IBM Blue Lightning: World’s Fastest 386?](https://www.os2museum.com/wp/ibm-blue-lightning-worlds-fastest-386/comment-page-1/)
 * [2023-07-29, 02:36:03](https://news.ycombinator.com/item?id=36916254) - [Argonne National Lab is attempting to replicate LK-99](https://www.science.org/content/article/spectacular-superconductor-claim-making-news-here-s-why-experts-are-doubtful)
 * [2023-07-29, 02:24:51](https://news.ycombinator.com/item?id=36916182) - [LPython: Novel, Fast, Retargetable Python Compiler](https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/)
-* [2023-07-29, 02:18:20](https://news.ycombinator.com/item?id=36916150) - [Plans develop for high-speed rail in the PNW](https://southseattleemerald.com/2023/07/18/plans-develop-for-high-speed-rail-in-the-pnw/)
 * [2023-07-29, 00:04:17](https://news.ycombinator.com/item?id=36915108) - [F# RISC-V Instruction Set formal specification](https://github.com/mrLSD/riscv-fs)
 * [2023-07-28, 23:09:17](https://news.ycombinator.com/item?id=36914612) - [SQLite-Utils](https://sqlite-utils.datasette.io/en/stable/index.html)
 * [2023-07-28, 21:50:36](https://news.ycombinator.com/item?id=36913835) - [SpaceX punched a hole in the ionosphere](https://spaceweatherarchive.com/2023/07/23/spacex-punched-a-hole-in-the-ionosphere/)
@@ -25,11 +24,12 @@
 * [2023-07-28, 16:33:51](https://news.ycombinator.com/item?id=36909427) - [Why is DNS still hard to learn?](https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/)
 * [2023-07-28, 15:28:04](https://news.ycombinator.com/item?id=36908309) - [Cap'n Proto 1.0](https://capnproto.org/news/2023-07-28-capnproto-1.0.html)
 * [2023-07-28, 12:54:23](https://news.ycombinator.com/item?id=36906085) - [Threads users down by more than a half](https://www.bbc.com/news/technology-66336058)
+* [2023-07-28, 12:46:19](https://news.ycombinator.com/item?id=36906022) - [Watch TV from the 90s and earlier](https://my90stv.com/)
 * [2023-07-28, 10:11:00](https://news.ycombinator.com/item?id=36904892) - [Why is c the symbol for the speed of light? (1997)](https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html)
 * [2023-07-28, 07:53:25](https://news.ycombinator.com/item?id=36904112) - [Iridis Alpha Theory: The Making of a C64 Classic](https://iridisalpha.com/)
 * [2023-07-27, 17:42:49](https://news.ycombinator.com/item?id=36897381) - [Pulled from a Field in Albania, a 2,500-Year-Old Statuette Comes to Getty](https://www.getty.edu/news/horse-and-rider-from-albania-statuette-conservation-exhibition/)
 * [2023-07-27, 11:58:28](https://news.ycombinator.com/item?id=36892168) - [Bpfilter Is Forever](https://dxuuu.xyz/bpfilter.html)
-* [2023-07-27, 10:28:48](https://news.ycombinator.com/item?id=36891510) - [Why Insect Memories May Not Survive Metamorphosis](https://www.quantamagazine.org/insect-brains-melt-and-rewire-during-metamorphosis-20230726/)
+* [2023-07-27, 10:28:48](https://news.ycombinator.com/item?id=36891510) - [Insect memories may not survive metamorphosis](https://www.quantamagazine.org/insect-brains-melt-and-rewire-during-metamorphosis-20230726/)
 
 ## [Archives](archives/index.md)
 
