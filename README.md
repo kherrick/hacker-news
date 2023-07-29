@@ -16,6 +16,7 @@
 * [2023-07-28, 21:01:41](https://news.ycombinator.com/item?id=36913268) - [The U.K. government is close to eroding encryption worldwide](https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide)
 * [2023-07-28, 21:01:14](https://news.ycombinator.com/item?id=36913263) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=36913263)
 * [2023-07-28, 20:48:28](https://news.ycombinator.com/item?id=36913103) - [Wordward Draw](https://managore.itch.io/wordward-draw)
+* [2023-07-28, 20:30:06](https://news.ycombinator.com/item?id=36912861) - [The Fenland Black Oak Project](https://www.thefenlandblackoakproject.co.uk/our-story)
 * [2023-07-28, 19:22:10](https://news.ycombinator.com/item?id=36911923) - [The Lonely Work of Moderating Hacker News (2019)](https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news)
 * [2023-07-28, 18:53:26](https://news.ycombinator.com/item?id=36911481) - [Tremor – The React library to build dashboards fast](https://www.tremor.so/)
 * [2023-07-28, 18:45:12](https://news.ycombinator.com/item?id=36911361) - [Free prison phone calls boost family ties, rehabilitation](https://www.latimes.com/politics/story/2023-07-27/free-calls-restore-inmates-ties-with-the-outside-can-they-reform-californias-prisons-too)
@@ -29,7 +30,6 @@
 * [2023-07-28, 04:37:23](https://news.ycombinator.com/item?id=36903149) - [How to Roman Republic 101](https://acoup.blog/2023/07/21/collections-how-to-roman-republic-101-part-i-spqr/)
 * [2023-07-28, 01:59:58](https://news.ycombinator.com/item?id=36902378) - [Out of the crooked timber of humanity, no straight thing was ever made](https://theconvivialsociety.substack.com/p/embrace-your-crookedness)
 * [2023-07-28, 01:04:30](https://news.ycombinator.com/item?id=36902050) - [USC Optical Sound Effects Library](https://archive.org/details/usc-sound-effect-archive?tab=collection)
-* [2023-07-27, 17:51:26](https://news.ycombinator.com/item?id=36897504) - [The Unsung Delight of a Well-Designed Endpaper](https://www.atlasobscura.com/articles/best-endpapers-design-history)
 
 ## [Archives](archives/index.md)
 
