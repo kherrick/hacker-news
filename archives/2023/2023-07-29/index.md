@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-29](index.md)
 
+* [2023-07-29, 21:27:28](https://news.ycombinator.com/item?id=36924832) - [Red algae proteins grafted into tobacco double plant growth](https://news.cornell.edu/stories/2023/07/red-algae-proteins-grafted-tobacco-double-plant-growth)
 * [2023-07-29, 21:00:55](https://news.ycombinator.com/item?id=36924518) - [Meticulous (YC S21) Is Hiring #3 Engineer to build future of testing](https://news.ycombinator.com/item?id=36924518)
 * [2023-07-29, 20:34:26](https://news.ycombinator.com/item?id=36924267) - [Show HN: Gogit – Just enough Git (in Go) to push itself to GitHub](https://benhoyt.com/writings/gogit/)
 * [2023-07-29, 20:17:12](https://news.ycombinator.com/item?id=36924117) - [Police are not primarily crime fighters, according to the data](https://www.reuters.com/legal/government/police-are-not-primarily-crime-fighters-according-data-2022-11-02/)
