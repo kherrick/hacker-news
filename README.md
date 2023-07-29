@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-29, 05:25:07](https://news.ycombinator.com/item?id=36917214) - [Ingest OpenTelemetry metrics with Prometheus natively](https://last9.io/blog/native-support-for-opentelemetry-metrics-in-prometheus/)
 * [2023-07-29, 04:55:48](https://news.ycombinator.com/item?id=36917089) - [Is everything we eat associated with cancer? A systematic cookbook review (2013)](https://pubmed.ncbi.nlm.nih.gov/23193004/)
 * [2023-07-29, 02:45:06](https://news.ycombinator.com/item?id=36916297) - [IBM Blue Lightning: World’s Fastest 386?](https://www.os2museum.com/wp/ibm-blue-lightning-worlds-fastest-386/comment-page-1/)
 * [2023-07-29, 02:36:03](https://news.ycombinator.com/item?id=36916254) - [Argonne National Lab is attempting to replicate LK-99](https://www.science.org/content/article/spectacular-superconductor-claim-making-news-here-s-why-experts-are-doubtful)
@@ -14,7 +15,6 @@
 * [2023-07-28, 20:30:06](https://news.ycombinator.com/item?id=36912861) - [The Fenland Black Oak Project](https://www.thefenlandblackoakproject.co.uk/our-story)
 * [2023-07-28, 19:22:10](https://news.ycombinator.com/item?id=36911923) - [The Lonely Work of Moderating Hacker News (2019)](https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news)
 * [2023-07-28, 18:53:26](https://news.ycombinator.com/item?id=36911481) - [Tremor – The React library to build dashboards fast](https://www.tremor.so/)
-* [2023-07-28, 18:45:12](https://news.ycombinator.com/item?id=36911361) - [Free prison phone calls boost family ties, rehabilitation](https://www.latimes.com/politics/story/2023-07-27/free-calls-restore-inmates-ties-with-the-outside-can-they-reform-californias-prisons-too)
 * [2023-07-28, 16:49:18](https://news.ycombinator.com/item?id=36909673) - [An ultra-sensitive on-off switch helps axolotls regrow limbs](https://scopeblog.stanford.edu/2023/07/26/how-an-ultra-sensitive-on-off-switch-helps-axolotls-regrow-limbs/)
 * [2023-07-28, 16:33:51](https://news.ycombinator.com/item?id=36909427) - [Why is DNS still hard to learn?](https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/)
 * [2023-07-28, 15:43:56](https://news.ycombinator.com/item?id=36908574) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=36908574)
