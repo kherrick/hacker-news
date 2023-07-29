@@ -14,7 +14,7 @@
 * [2023-07-29, 14:03:50](https://news.ycombinator.com/item?id=36920423) - [Show HN: LLMFlows – LangChain alternative for explicit and transparent apps](https://github.com/stoyan-stoyanov/llmflows)
 * [2023-07-29, 13:28:50](https://news.ycombinator.com/item?id=36920105) - [Show HN: ssh-tpm-agent – SSH agent for TPMs](https://github.com/Foxboron/ssh-tpm-agent)
 * [2023-07-29, 13:17:09](https://news.ycombinator.com/item?id=36920010) - [Cyberdecks (2013)](https://blog.rfox.eu/en/Hardware/Cyberdecks.html)
-* [2023-07-29, 13:13:59](https://news.ycombinator.com/item?id=36919981) - [The Hacker's Dictionary (2001)](http://www.hackersdictionary.com/html/index.html)
+* [2023-07-29, 13:13:59](https://news.ycombinator.com/item?id=36919981) - [The Hacker's Dictionary](http://www.hackersdictionary.com/html/index.html)
 * [2023-07-29, 12:34:19](https://news.ycombinator.com/item?id=36919659) - [What happened to Vivaldi Social?](https://thomasp.vivaldi.net/2023/07/28/what-happened-to-vivaldi-social/)
 * [2023-07-29, 11:31:22](https://news.ycombinator.com/item?id=36919175) - [Ask HN: Online activities to be made impossible by the UK Online Safety Bill](https://news.ycombinator.com/item?id=36919175)
 * [2023-07-29, 10:12:18](https://news.ycombinator.com/item?id=36918655) - [IRC is the only viable chat protocol (2022)](https://koshka.love/babel/irc-forever.html)
