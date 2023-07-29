@@ -8,6 +8,7 @@
 * [2023-07-29, 10:24:04](https://news.ycombinator.com/item?id=36918719) - [Apple demands app makers explain use of sensitive APIs](https://www.theregister.com/2023/07/29/apple_developer_api/)
 * [2023-07-29, 10:12:18](https://news.ycombinator.com/item?id=36918655) - [IRC Is the Only Viable Chat Protocol](https://koshka.love/babel/irc-forever.html)
 * [2023-07-29, 09:57:06](https://news.ycombinator.com/item?id=36918582) - [Would We Recognize Extraterrestrial Technology If We Saw It?](https://hackaday.com/2023/07/28/would-we-recognize-extraterrestrial-technology-if-we-saw-it/)
+* [2023-07-29, 09:51:57](https://news.ycombinator.com/item?id=36918567) - [‘Something weird is going on’: Antarctic sea ice stays at historic lows](https://www.theguardian.com/world/2023/jul/29/something-weird-is-going-on-search-for-answers-as-antarctic-sea-ice-stays-at-historic-lows)
 * [2023-07-29, 09:28:48](https://news.ycombinator.com/item?id=36918435) - [So you want to build your own open source chatbot](https://hacks.mozilla.org/2023/07/so-you-want-to-build-your-own-open-source-chatbot/)
 * [2023-07-29, 08:30:29](https://news.ycombinator.com/item?id=36918158) - [India’s diaspora is bigger and more influential than any in history](https://www.economist.com/international/2023/06/12/indias-diaspora-is-bigger-and-more-influential-than-any-in-history)
 * [2023-07-29, 08:13:08](https://news.ycombinator.com/item?id=36918050) - [Facebook users have less than a month to claim a piece of the $725M settlement](https://www.facebookuserprivacysettlement.com/)
