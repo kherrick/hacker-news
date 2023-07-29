@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-29, 22:31:25](https://news.ycombinator.com/item?id=36925433) - [6 Different Ways to Print Hello World in Assembler on a Raspberry Pi](https://github.com/ksaj/helloworld)
 * [2023-07-29, 21:47:45](https://news.ycombinator.com/item?id=36925019) - [Big Tobacco knew radioactive Po210 in cigarettes posed cancer risk, kept quiet](https://www.uclahealth.org/news/big-tobacco-knew-radioactive-particles-in-cigarettes)
 * [2023-07-29, 21:27:28](https://news.ycombinator.com/item?id=36924832) - [Red algae proteins grafted into tobacco double plant growth](https://news.cornell.edu/stories/2023/07/red-algae-proteins-grafted-tobacco-double-plant-growth)
 * [2023-07-29, 21:13:05](https://news.ycombinator.com/item?id=36924672) - [Water Temperatures Hit ‘Hot Tub’ Levels in the Florida Keys](https://www.smithsonianmag.com/smart-news/water-temperatures-hit-hot-tub-levels-in-the-florida-keys-180982610/)
@@ -9,7 +10,6 @@
 * [2023-07-29, 19:21:55](https://news.ycombinator.com/item?id=36923562) - [The Transformer Blueprint](https://deeprevision.github.io/posts/001-transformer/)
 * [2023-07-29, 19:20:36](https://news.ycombinator.com/item?id=36923550) - [1953 'Phantom' A-bomb film 'Hiroshima,' with 88,000 extras, screening in Tokyo](https://mainichi.jp/english/articles/20230729/p2a/00m/0et/006000c)
 * [2023-07-29, 18:47:13](https://news.ycombinator.com/item?id=36923235) - [Is This an Emoji?](https://spiffy.tech/is-this-an-emoji)
-* [2023-07-29, 18:02:12](https://news.ycombinator.com/item?id=36922823) - [OSRS Map Viewer](https://osrs.world/?cx=3242.00&cy=26&cz=3202.00&p=-245&y=1862&v=1)
 * [2023-07-29, 17:59:04](https://news.ycombinator.com/item?id=36922790) - [Open Source Outdoor Air Quality Monitor](https://www.airgradient.com/open-air/)
 * [2023-07-29, 17:53:58](https://news.ycombinator.com/item?id=36922744) - [How fast should you accelerate your kid in math?](https://kidswholovemath.substack.com/p/how-fast-should-you-accelerate-your)
 * [2023-07-29, 17:32:42](https://news.ycombinator.com/item?id=36922517) - [US Army Field Manual on Leadership (1990) [pdf]](https://armyoe.files.wordpress.com/2018/03/1990-fm-22-100.pdf)

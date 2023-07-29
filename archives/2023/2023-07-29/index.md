@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-29](index.md)
 
+* [2023-07-29, 22:31:25](https://news.ycombinator.com/item?id=36925433) - [6 Different Ways to Print Hello World in Assembler on a Raspberry Pi](https://github.com/ksaj/helloworld)
 * [2023-07-29, 21:47:45](https://news.ycombinator.com/item?id=36925019) - [Big Tobacco knew radioactive Po210 in cigarettes posed cancer risk, kept quiet](https://www.uclahealth.org/news/big-tobacco-knew-radioactive-particles-in-cigarettes)
 * [2023-07-29, 21:27:28](https://news.ycombinator.com/item?id=36924832) - [Red algae proteins grafted into tobacco double plant growth](https://news.cornell.edu/stories/2023/07/red-algae-proteins-grafted-tobacco-double-plant-growth)
 * [2023-07-29, 21:13:05](https://news.ycombinator.com/item?id=36924672) - [Water Temperatures Hit ‘Hot Tub’ Levels in the Florida Keys](https://www.smithsonianmag.com/smart-news/water-temperatures-hit-hot-tub-levels-in-the-florida-keys-180982610/)
