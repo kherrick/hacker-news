@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-29, 02:18:20](https://news.ycombinator.com/item?id=36916150) - [Plans Develop for High-Speed Rail in the PNW](https://southseattleemerald.com/2023/07/18/plans-develop-for-high-speed-rail-in-the-pnw/)
 * [2023-07-29, 00:04:17](https://news.ycombinator.com/item?id=36915108) - [RISC-V CPU formal specification F# edition](https://github.com/mrLSD/riscv-fs)
 * [2023-07-28, 23:35:55](https://news.ycombinator.com/item?id=36914850) - [Panic Among the Streamers](https://www.honest-broker.com/p/panic-among-the-streamers)
 * [2023-07-28, 23:35:41](https://news.ycombinator.com/item?id=36914849) - [Dream First Bank Assumes All of the Deposits of Heartland Tri-State Bank](https://www.fdic.gov/news/press-releases/2023/pr23058.html)
@@ -24,7 +25,6 @@
 * [2023-07-28, 12:59:58](https://news.ycombinator.com/item?id=36906140) - [Cophone – Mobile work phones running in the cloud](https://cophone.io/)
 * [2023-07-28, 12:54:23](https://news.ycombinator.com/item?id=36906085) - [Threads users down by more than a half](https://www.bbc.com/news/technology-66336058)
 * [2023-07-28, 12:46:19](https://news.ycombinator.com/item?id=36906022) - [Watch TV from the 90s and earlier](https://my90stv.com/)
-* [2023-07-28, 08:01:29](https://news.ycombinator.com/item?id=36904158) - [System Design for Recommendations and Search](https://eugeneyan.com/writing/system-design-for-discovery/)
 * [2023-07-28, 07:10:38](https://news.ycombinator.com/item?id=36903862) - [Pyro: A universal, probablistic programming language](https://pyro.ai/)
 * [2023-07-28, 05:07:42](https://news.ycombinator.com/item?id=36903282) - [Glass Dip Pens (2022)](https://neonaut.neocities.org/microblog/2022/glass-dip-pens)
 * [2023-07-28, 04:37:23](https://news.ycombinator.com/item?id=36903149) - [How to Roman Republic 101](https://acoup.blog/2023/07/21/collections-how-to-roman-republic-101-part-i-spqr/)
