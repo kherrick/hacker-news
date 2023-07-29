@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-29](index.md)
 
+* [2023-07-29, 06:11:55](https://news.ycombinator.com/item?id=36917424) - [U.S. Marine Corps Antenna Handbook (1999) [pdf]](https://www.marines.mil/Portals/1/MCRP%203-40.3C%20With%20Erratum%20z.pdf)
 * [2023-07-29, 05:25:07](https://news.ycombinator.com/item?id=36917214) - [Ingest OpenTelemetry metrics with Prometheus natively](https://last9.io/blog/native-support-for-opentelemetry-metrics-in-prometheus/)
 * [2023-07-29, 04:55:48](https://news.ycombinator.com/item?id=36917089) - [Is everything we eat associated with cancer? A systematic cookbook review (2013)](https://pubmed.ncbi.nlm.nih.gov/23193004/)
 * [2023-07-29, 04:01:29](https://news.ycombinator.com/item?id=36916762) - [Llama 32K Context Released by Together AI](https://together.ai/blog/llama-2-7b-32k)

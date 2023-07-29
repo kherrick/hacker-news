@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-29, 06:11:55](https://news.ycombinator.com/item?id=36917424) - [U.S. Marine Corps Antenna Handbook (1999) [pdf]](https://www.marines.mil/Portals/1/MCRP%203-40.3C%20With%20Erratum%20z.pdf)
 * [2023-07-29, 05:25:07](https://news.ycombinator.com/item?id=36917214) - [Ingest OpenTelemetry metrics with Prometheus natively](https://last9.io/blog/native-support-for-opentelemetry-metrics-in-prometheus/)
 * [2023-07-29, 04:55:48](https://news.ycombinator.com/item?id=36917089) - [Is everything we eat associated with cancer? A systematic cookbook review (2013)](https://pubmed.ncbi.nlm.nih.gov/23193004/)
 * [2023-07-29, 04:01:29](https://news.ycombinator.com/item?id=36916762) - [Llama 32K Context Released by Together AI](https://together.ai/blog/llama-2-7b-32k)
@@ -28,8 +29,7 @@
 * [2023-07-28, 04:37:23](https://news.ycombinator.com/item?id=36903149) - [How to Roman Republic 101](https://acoup.blog/2023/07/21/collections-how-to-roman-republic-101-part-i-spqr/)
 * [2023-07-28, 01:59:58](https://news.ycombinator.com/item?id=36902378) - [Out of the crooked timber of humanity, no straight thing was ever made](https://theconvivialsociety.substack.com/p/embrace-your-crookedness)
 * [2023-07-28, 01:04:30](https://news.ycombinator.com/item?id=36902050) - [USC Optical Sound Effects Library](https://archive.org/details/usc-sound-effect-archive?tab=collection)
-* [2023-07-28, 00:05:24](https://news.ycombinator.com/item?id=36901711) - [A review of one puzzle from Quern: Undying Thoughts](https://novalis.org/blog/2023-07-26-a-review-of-one-puzzle-from-quern-undying-thoughts-.html)
-* [2023-07-27, 21:25:39](https://news.ycombinator.com/item?id=36900370) - [The dream of the personal machine](https://kylechayka.substack.com/p/the-dream-of-the-personal-machine)
+* [2023-07-27, 17:51:26](https://news.ycombinator.com/item?id=36897504) - [The Unsung Delight of a Well-Designed Endpaper](https://www.atlasobscura.com/articles/best-endpapers-design-history)
 
 ## [Archives](archives/index.md)
 

@@ -35,6 +35,7 @@
 * [2023-07-27, 18:25:38](https://news.ycombinator.com/item?id=36898068) - [Knife Throwing Machine (2022) [video]](https://www.youtube.com/watch?v=-BKEZbYOMpI)
 * [2023-07-27, 18:18:47](https://news.ycombinator.com/item?id=36897958) - [Some Alloys Don't Change Size When Heated. We Now Know Why](https://www.caltech.edu/about/news/some-alloys-dont-change-size-when-heated-we-now-know-why)
 * [2023-07-27, 17:59:35](https://news.ycombinator.com/item?id=36897670) - [Epilogue of my time working at Twitter](https://esthercrawford.medium.com/an-epilogue-to-my-time-working-at-twitter-24a126098246)
+* [2023-07-27, 17:51:26](https://news.ycombinator.com/item?id=36897504) - [The Unsung Delight of a Well-Designed Endpaper](https://www.atlasobscura.com/articles/best-endpapers-design-history)
 * [2023-07-27, 17:38:34](https://news.ycombinator.com/item?id=36897300) - [LK-99](https://en.wikipedia.org/wiki/LK-99)
 * [2023-07-27, 17:08:45](https://news.ycombinator.com/item?id=36896710) - [LLMs Unleashed: The Power of Fine-Tuning](https://lucaspauker.com/articles/llms-unleashed-the-power-of-fine-tuning)
 * [2023-07-27, 17:00:17](https://news.ycombinator.com/item?id=36896571) - [Ashby (YC W19) Is Hiring an Engineering Director to Build a Product-Focused Team](https://www.ashbyhq.com/careers?ashby_jid=2b130850-9e04-4072-942b-65d9e1609813)
