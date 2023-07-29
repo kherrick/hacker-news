@@ -5,8 +5,11 @@
 ### [Archives](../../index.md) for [2023-07-29](index.md)
 
 * [2023-07-29, 16:15:45](https://news.ycombinator.com/item?id=36921675) - [The World’s Largest Wind Turbine Has Been Switched On](https://www.iflscience.com/the-worlds-largest-wind-turbine-has-been-switched-on-70047)
+* [2023-07-29, 16:13:42](https://news.ycombinator.com/item?id=36921651) - [Van Gogh's Artistic Breakthrough](https://en.wikipedia.org/wiki/Vincent_van_Gogh)
 * [2023-07-29, 16:09:25](https://news.ycombinator.com/item?id=36921602) - [Apple’s Parental Controls Are Broken](https://www.wsj.com/articles/apples-parental-controls-are-broken-55a2aa52)
+* [2023-07-29, 16:04:15](https://news.ycombinator.com/item?id=36921552) - [“Gzip beats BERT?” Part 2: dataset issues, improved speed, and results](https://kenschutte.com/gzip-knn-paper2/)
 * [2023-07-29, 16:01:55](https://news.ycombinator.com/item?id=36921530) - [CDC Finds Coronavirus and Other Infectious Agents in Unlicensed California Lab](https://news.yahoo.com/cdc-finds-coronavirus-other-infectious-154500690.html)
+* [2023-07-29, 15:54:38](https://news.ycombinator.com/item?id=36921443) - [LibreWolf: A custom version of Firefox, focused on privacy, security and freedom](https://librewolf.net/)
 * [2023-07-29, 15:12:16](https://news.ycombinator.com/item?id=36921038) - [HuggingFace Text Generation License No Longer Open-Source](https://github.com/huggingface/text-generation-inference/issues/726)
 * [2023-07-29, 15:11:23](https://news.ycombinator.com/item?id=36921032) - [Automatic Music Playlist Generation via Simulation-Based Reinforcement Learning](https://research.atspotify.com/2023/07/automatic-music-playlist-generation-via-simulation-based-reinforcement-learning/)
 * [2023-07-29, 15:06:42](https://news.ycombinator.com/item?id=36920987) - [The Rise of AI Girlfriends](https://innovationnation.blog/p/the-rise-of-ai-girlfriends)
