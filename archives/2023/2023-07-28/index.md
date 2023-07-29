@@ -71,6 +71,7 @@
 * [2023-07-28, 12:59:58](https://news.ycombinator.com/item?id=36906140) - [Cophone – Your Virtual Smartphone](https://cophone.io/)
 * [2023-07-28, 12:54:23](https://news.ycombinator.com/item?id=36906085) - [Threads users down by more than a half](https://www.bbc.com/news/technology-66336058)
 * [2023-07-28, 12:46:19](https://news.ycombinator.com/item?id=36906022) - [Watch TV from the 90s (and Earlier)](https://my90stv.com/)
+* [2023-07-28, 12:11:50](https://news.ycombinator.com/item?id=36905715) - [The future of Clang-based tooling](https://blog.trailofbits.com/2023/07/28/the-future-of-clang-based-tooling/)
 * [2023-07-28, 12:00:42](https://news.ycombinator.com/item?id=36905630) - [Finley (YC W21) Is Hiring to Rethink Capital Markets Infrastructure (US Remote)](https://www.finleycms.com/careers/)
 * [2023-07-28, 11:32:48](https://news.ycombinator.com/item?id=36905405) - [There Are at Least 10 Cities with Their Own Psychological Disorders](https://www.atlasobscura.com/articles/cities-with-psychological-syndromes-stockholm)
 * [2023-07-28, 11:16:46](https://news.ycombinator.com/item?id=36905295) - [Apple cracking down on 'fingerprinting' with new App Store API rules](https://www.engadget.com/apple-cracking-down-on-fingerprinting-with-new-app-store-api-rules-080007498.html)
