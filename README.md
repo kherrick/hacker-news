@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-29, 15:06:42](https://news.ycombinator.com/item?id=36920987) - [The Rise of AI Girlfriends](https://innovationnation.blog/p/the-rise-of-ai-girlfriends)
 * [2023-07-29, 14:18:29](https://news.ycombinator.com/item?id=36920566) - [How critical theory is radicalizing high school debate](https://www.slowboring.com/p/how-critical-theory-is-radicalizing)
 * [2023-07-29, 14:17:49](https://news.ycombinator.com/item?id=36920559) - [Not paying electricity for an entire year with Tesla Solar Roof [video]](https://www.youtube.com/watch?v=UJeSWbR6W04)
-* [2023-07-29, 13:59:50](https://news.ycombinator.com/item?id=36920387) - [Enjoy alcohol, without the hangover](https://www.wsj.com/articles/synthetic-alcohol-no-hangover-511fc418)
 * [2023-07-29, 13:28:50](https://news.ycombinator.com/item?id=36920105) - [Show HN: ssh-tpm-agent – SSH agent for TPMs](https://github.com/Foxboron/ssh-tpm-agent)
+* [2023-07-29, 13:20:46](https://news.ycombinator.com/item?id=36920036) - [Tell HN: Digikey has 1822 Pi4 8GB and 3793 1GB in stock](https://news.ycombinator.com/item?id=36920036)
 * [2023-07-29, 13:17:09](https://news.ycombinator.com/item?id=36920010) - [Cyberdecks (2013)](https://blog.rfox.eu/en/Hardware/Cyberdecks.html)
-* [2023-07-29, 13:14:34](https://news.ycombinator.com/item?id=36919988) - [Germany's auto industry: suppliers' confidence waning](https://www.dw.com/en/germanys-auto-industry-suppliers-confidence-waning/a-66368932)
 * [2023-07-29, 13:13:59](https://news.ycombinator.com/item?id=36919981) - [The Hacker's Dictionary (2001)](http://www.hackersdictionary.com/html/index.html)
 * [2023-07-29, 12:34:19](https://news.ycombinator.com/item?id=36919659) - [What Happened to Vivaldi Social?](https://thomasp.vivaldi.net/2023/07/28/what-happened-to-vivaldi-social/)
 * [2023-07-29, 11:38:43](https://news.ycombinator.com/item?id=36919225) - [US Spies Are Lobbying Congress to Save a Phone Surveillance ‘Loophole’](https://www.wired.com/story/nsa-ndaa-lobbying-privacy-loophole/)
