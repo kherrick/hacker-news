@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-29, 15:11:23](https://news.ycombinator.com/item?id=36921032) - [Automatic Music Playlist Generation via Simulation-Based Reinforcement Learning](https://research.atspotify.com/2023/07/automatic-music-playlist-generation-via-simulation-based-reinforcement-learning/)
 * [2023-07-29, 15:06:42](https://news.ycombinator.com/item?id=36920987) - [The Rise of AI Girlfriends](https://innovationnation.blog/p/the-rise-of-ai-girlfriends)
 * [2023-07-29, 14:18:29](https://news.ycombinator.com/item?id=36920566) - [How critical theory is radicalizing high school debate](https://www.slowboring.com/p/how-critical-theory-is-radicalizing)
 * [2023-07-29, 14:17:49](https://news.ycombinator.com/item?id=36920559) - [Not paying electricity for an entire year with Tesla Solar Roof [video]](https://www.youtube.com/watch?v=UJeSWbR6W04)
@@ -21,7 +22,6 @@
 * [2023-07-29, 02:36:03](https://news.ycombinator.com/item?id=36916254) - [Argonne National Lab is attempting to replicate LK-99](https://www.science.org/content/article/spectacular-superconductor-claim-making-news-here-s-why-experts-are-doubtful)
 * [2023-07-29, 02:24:51](https://news.ycombinator.com/item?id=36916182) - [LPython: Novel, Fast, Retargetable Python Compiler](https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/)
 * [2023-07-28, 21:07:17](https://news.ycombinator.com/item?id=36913328) - [Intent to approve PEP 703: making the GIL optional](https://discuss.python.org/t/a-steering-council-notice-about-pep-703-making-the-global-interpreter-lock-optional-in-cpython/30474)
-* [2023-07-28, 16:33:51](https://news.ycombinator.com/item?id=36909427) - [Why is DNS still hard to learn?](https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/)
 * [2023-07-28, 15:55:53](https://news.ycombinator.com/item?id=36908757) - [Invisible Asymptotes (2018)](https://www.eugenewei.com/blog/2018/5/21/invisible-asymptotes)
 * [2023-07-28, 15:28:04](https://news.ycombinator.com/item?id=36908309) - [Cap'n Proto 1.0](https://capnproto.org/news/2023-07-28-capnproto-1.0.html)
 * [2023-07-28, 10:11:00](https://news.ycombinator.com/item?id=36904892) - [Why is c the symbol for the speed of light? (1997)](https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html)

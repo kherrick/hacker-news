@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-29](index.md)
 
+* [2023-07-29, 15:11:23](https://news.ycombinator.com/item?id=36921032) - [Automatic Music Playlist Generation via Simulation-Based Reinforcement Learning](https://research.atspotify.com/2023/07/automatic-music-playlist-generation-via-simulation-based-reinforcement-learning/)
 * [2023-07-29, 15:06:42](https://news.ycombinator.com/item?id=36920987) - [The Rise of AI Girlfriends](https://innovationnation.blog/p/the-rise-of-ai-girlfriends)
 * [2023-07-29, 14:43:29](https://news.ycombinator.com/item?id=36920793) - [How DNS Works (2015)](https://howdns.works/ep1/)
 * [2023-07-29, 14:36:36](https://news.ycombinator.com/item?id=36920731) - [South Africa’s blackouts are driving a solar boom](https://www.semafor.com/article/07/28/2023/why-solar-power-is-booming-in-south-africa)
