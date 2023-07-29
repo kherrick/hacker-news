@@ -23,7 +23,7 @@
 * [2023-07-28, 16:33:51](https://news.ycombinator.com/item?id=36909427) - [Why is DNS still hard to learn?](https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/)
 * [2023-07-28, 15:28:04](https://news.ycombinator.com/item?id=36908309) - [Cap'n Proto 1.0](https://capnproto.org/news/2023-07-28-capnproto-1.0.html)
 * [2023-07-28, 12:54:23](https://news.ycombinator.com/item?id=36906085) - [Threads users down by more than a half](https://www.bbc.com/news/technology-66336058)
-* [2023-07-28, 09:54:42](https://news.ycombinator.com/item?id=36904785) - [The Resilience of Costco](https://minesafetydisclosures.com/blog/2018/6/18/costco)
+* [2023-07-28, 09:54:42](https://news.ycombinator.com/item?id=36904785) - [The Resilience of Costco (2018)](https://minesafetydisclosures.com/blog/2018/6/18/costco)
 * [2023-07-28, 08:01:29](https://news.ycombinator.com/item?id=36904158) - [System Design for Recommendations and Search](https://eugeneyan.com/writing/system-design-for-discovery/)
 * [2023-07-28, 05:07:42](https://news.ycombinator.com/item?id=36903282) - [Glass Dip Pens (2022)](https://neonaut.neocities.org/microblog/2022/glass-dip-pens)
 * [2023-07-28, 04:37:23](https://news.ycombinator.com/item?id=36903149) - [How to Roman Republic 101](https://acoup.blog/2023/07/21/collections-how-to-roman-republic-101-part-i-spqr/)
