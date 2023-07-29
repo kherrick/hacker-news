@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-29](index.md)
 
+* [2023-07-29, 19:34:57](https://news.ycombinator.com/item?id=36923714) - [Psychopathic Tendencies Help Some People Succeed in Business](https://www.scientificamerican.com/article/psychopathic-tendencies-help-some-people-succeed-in-business/)
 * [2023-07-29, 18:45:56](https://news.ycombinator.com/item?id=36923219) - [Actors take to the internet to show their residual checks, some in the negative](https://www.npr.org/2023/07/27/1190336979/actors-strike-residuals-sag-aftra-wga)
 * [2023-07-29, 18:39:24](https://news.ycombinator.com/item?id=36923154) - [Counterterrorism internet surveillance is being retargeted at sex workers](https://theintercept.com/2023/07/29/skull-games-surveillance-sex-workers/)
 * [2023-07-29, 18:35:39](https://news.ycombinator.com/item?id=36923123) - [Utopia to blight: Surviving in Henry Ford’s lost jungle town](https://www.washingtonpost.com/world/2023/07/28/fordlandia-brazil/)
