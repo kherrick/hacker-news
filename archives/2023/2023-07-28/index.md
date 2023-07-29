@@ -11,6 +11,7 @@
 * [2023-07-28, 22:42:45](https://news.ycombinator.com/item?id=36914370) - [Data Colonialism and Data Sets](https://harvardlawreview.org/blog/2023/06/data-colonialism-and-data-sets/)
 * [2023-07-28, 22:15:36](https://news.ycombinator.com/item?id=36914085) - [Electric recumbent bikes are 80 more efficient than EV](https://www.lowtechmagazine.com/les-v%C3%A9lomobiles-electriques-aussi-rapides-et-confortables-que-les-automobiles-mais-80-fois-plus-efficaces.html)
 * [2023-07-28, 22:05:32](https://news.ycombinator.com/item?id=36913988) - [Ring is having a major outage](https://status.ring.com)
+* [2023-07-28, 21:56:06](https://news.ycombinator.com/item?id=36913902) - [Death of the physical library](https://scottlocklin.wordpress.com/2023/07/28/death-of-the-physical-library/)
 * [2023-07-28, 21:50:36](https://news.ycombinator.com/item?id=36913835) - [SpaceX Punched a Hole in the Ionosphere](https://spaceweatherarchive.com/2023/07/23/spacex-punched-a-hole-in-the-ionosphere/)
 * [2023-07-28, 21:43:52](https://news.ycombinator.com/item?id=36913766) - [Why No Roman Industrial Revolution?](https://rootsofprogress.org/why-no-roman-industrial-revolution)
 * [2023-07-28, 21:24:59](https://news.ycombinator.com/item?id=36913569) - [Mess with DNS](https://messwithdns.net)
