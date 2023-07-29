@@ -1,22 +1,32 @@
 [
   [
     [
+      "2023-07-29, 00:04:17",
+      "https://news.ycombinator.com/item?id=36915108"
+    ],
+    [
+      "RISC-V CPU formal specification F# edition",
+      "https://github.com/mrLSD/riscv-fs"
+    ]
+  ],
+  [
+    [
+      "2023-07-28, 23:35:41",
+      "https://news.ycombinator.com/item?id=36914849"
+    ],
+    [
+      "Dream First Bank Assumes All of the Deposits of Heartland Tri-State Bank",
+      "https://www.fdic.gov/news/press-releases/2023/pr23058.html"
+    ]
+  ],
+  [
+    [
       "2023-07-28, 22:47:07",
       "https://news.ycombinator.com/item?id=36914401"
     ],
     [
       "No-GIL mode coming for Python",
       "https://lwn.net/Articles/939568/"
-    ]
-  ],
-  [
-    [
-      "2023-07-28, 22:42:45",
-      "https://news.ycombinator.com/item?id=36914370"
-    ],
-    [
-      "Data Colonialism and Data Sets",
-      "https://harvardlawreview.org/blog/2023/06/data-colonialism-and-data-sets/"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2023-07-28, 16:39:20",
-      "https://news.ycombinator.com/item?id=36909525"
-    ],
-    [
-      "Observable API Proposal",
-      "https://github.com/domfarolino/observable"
-    ]
-  ],
-  [
-    [
       "2023-07-28, 16:33:51",
       "https://news.ycombinator.com/item?id=36909427"
     ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2023-07-28, 04:27:28",
-      "https://news.ycombinator.com/item?id=36903103"
-    ],
-    [
-      "Interview with Yael Tauman Kalai, a cryptographer at Microsoft",
-      "https://www.quantamagazine.org/the-cryptographer-who-ensures-we-can-trust-our-computers-20230727/"
-    ]
-  ],
-  [
-    [
       "2023-07-28, 01:04:30",
       "https://news.ycombinator.com/item?id=36902050"
     ],
@@ -297,6 +287,16 @@
     [
       "List of APIs that require declared reasons",
       "https://developer.apple.com/news/?id=z6fu1dcu"
+    ]
+  ],
+  [
+    [
+      "2023-07-27, 21:25:39",
+      "https://news.ycombinator.com/item?id=36900370"
+    ],
+    [
+      "The Dream of the Personal Machine",
+      "https://kylechayka.substack.com/p/the-dream-of-the-personal-machine"
     ]
   ]
 ]
