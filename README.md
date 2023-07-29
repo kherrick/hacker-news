@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-29, 17:53:58](https://news.ycombinator.com/item?id=36922744) - [How fast should you accelerate your kid in math?](https://kidswholovemath.substack.com/p/how-fast-should-you-accelerate-your)
+* [2023-07-29, 17:46:03](https://news.ycombinator.com/item?id=36922658) - [Waymo kills off autonomous trucking program](https://arstechnica.com/gadgets/2023/07/waymo-kills-off-autonomous-trucking-program/)
 * [2023-07-29, 17:32:42](https://news.ycombinator.com/item?id=36922517) - [US Army Field Manual on Leadership (1990) [pdf]](https://armyoe.files.wordpress.com/2018/03/1990-fm-22-100.pdf)
 * [2023-07-29, 17:00:46](https://news.ycombinator.com/item?id=36922179) - [Freshpaint (YC S19) Is Hiring Engineers to Safeguard Health Data](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-07-29, 16:51:25](https://news.ycombinator.com/item?id=36922069) - [Pentagon hit by ‘critical compromise’ of US Air Force communications – report](https://www.theguardian.com/us-news/2023/jul/29/pentagon-us-air-force-critical-compromise)
@@ -13,7 +15,6 @@
 * [2023-07-29, 14:03:50](https://news.ycombinator.com/item?id=36920423) - [Show HN: LLMFlows – LangChain alternative for explicit and transparent apps](https://github.com/stoyan-stoyanov/llmflows)
 * [2023-07-29, 13:28:50](https://news.ycombinator.com/item?id=36920105) - [Show HN: ssh-tpm-agent – SSH agent for TPMs](https://github.com/Foxboron/ssh-tpm-agent)
 * [2023-07-29, 13:17:09](https://news.ycombinator.com/item?id=36920010) - [Cyberdecks (2013)](https://blog.rfox.eu/en/Hardware/Cyberdecks.html)
-* [2023-07-29, 13:13:59](https://news.ycombinator.com/item?id=36919981) - [The Hacker's Dictionary (2001)](http://www.hackersdictionary.com/html/index.html)
 * [2023-07-29, 12:34:19](https://news.ycombinator.com/item?id=36919659) - [What Happened to Vivaldi Social?](https://thomasp.vivaldi.net/2023/07/28/what-happened-to-vivaldi-social/)
 * [2023-07-29, 11:31:22](https://news.ycombinator.com/item?id=36919175) - [Ask HN: Online activities to be made impossible by the UK Online Safety Bill](https://news.ycombinator.com/item?id=36919175)
 * [2023-07-29, 10:12:18](https://news.ycombinator.com/item?id=36918655) - [IRC is the only viable chat protocol (2022)](https://koshka.love/babel/irc-forever.html)
@@ -24,7 +25,6 @@
 * [2023-07-28, 21:07:17](https://news.ycombinator.com/item?id=36913328) - [Intent to approve PEP 703: making the GIL optional](https://discuss.python.org/t/a-steering-council-notice-about-pep-703-making-the-global-interpreter-lock-optional-in-cpython/30474)
 * [2023-07-28, 15:55:53](https://news.ycombinator.com/item?id=36908757) - [Invisible Asymptotes (2018)](https://www.eugenewei.com/blog/2018/5/21/invisible-asymptotes)
 * [2023-07-28, 12:11:50](https://news.ycombinator.com/item?id=36905715) - [The future of Clang-based tooling](https://blog.trailofbits.com/2023/07/28/the-future-of-clang-based-tooling/)
-* [2023-07-28, 10:11:00](https://news.ycombinator.com/item?id=36904892) - [Why is c the symbol for the speed of light? (1997)](https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html)
 * [2023-07-28, 09:34:48](https://news.ycombinator.com/item?id=36904672) - [In the 17th Century, Leibniz Dreamed of a Machine That Could Calculate Ideas](https://spectrum.ieee.org/in-the-17th-century-leibniz-dreamed-of-a-machine-that-could-calculate-ideas)
 * [2023-07-28, 07:53:25](https://news.ycombinator.com/item?id=36904112) - [Iridis Alpha Theory: The Making of a C64 Classic](https://iridisalpha.com/)
 * [2023-07-28, 00:18:39](https://news.ycombinator.com/item?id=36901794) - [TMAP – On Demand Tactile Street Map](https://adaptations.org/products/tmap)

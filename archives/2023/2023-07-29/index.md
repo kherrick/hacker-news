@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-29](index.md)
 
+* [2023-07-29, 17:53:58](https://news.ycombinator.com/item?id=36922744) - [How fast should you accelerate your kid in math?](https://kidswholovemath.substack.com/p/how-fast-should-you-accelerate-your)
+* [2023-07-29, 17:46:03](https://news.ycombinator.com/item?id=36922658) - [Waymo kills off autonomous trucking program](https://arstechnica.com/gadgets/2023/07/waymo-kills-off-autonomous-trucking-program/)
 * [2023-07-29, 17:32:42](https://news.ycombinator.com/item?id=36922517) - [US Army Field Manual on Leadership (1990) [pdf]](https://armyoe.files.wordpress.com/2018/03/1990-fm-22-100.pdf)
 * [2023-07-29, 17:00:46](https://news.ycombinator.com/item?id=36922179) - [Freshpaint (YC S19) Is Hiring Engineers to Safeguard Health Data](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-07-29, 16:51:25](https://news.ycombinator.com/item?id=36922069) - [Pentagon hit by ‘critical compromise’ of US Air Force communications – report](https://www.theguardian.com/us-news/2023/jul/29/pentagon-us-air-force-critical-compromise)
