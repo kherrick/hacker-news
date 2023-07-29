@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-29](index.md)
 
 * [2023-07-29, 18:45:56](https://news.ycombinator.com/item?id=36923219) - [Actors take to the internet to show their residual checks, some in the negative](https://www.npr.org/2023/07/27/1190336979/actors-strike-residuals-sag-aftra-wga)
+* [2023-07-29, 18:39:24](https://news.ycombinator.com/item?id=36923154) - [Counterterrorism internet surveillance is being retargeted at sex workers](https://theintercept.com/2023/07/29/skull-games-surveillance-sex-workers/)
 * [2023-07-29, 18:35:39](https://news.ycombinator.com/item?id=36923123) - [Utopia to blight: Surviving in Henry Ford’s lost jungle town](https://www.washingtonpost.com/world/2023/07/28/fordlandia-brazil/)
 * [2023-07-29, 17:59:04](https://news.ycombinator.com/item?id=36922790) - [Open Source Outdoor Air Quality Monitor](https://www.airgradient.com/open-air/)
 * [2023-07-29, 17:53:58](https://news.ycombinator.com/item?id=36922744) - [How fast should you accelerate your kid in math?](https://kidswholovemath.substack.com/p/how-fast-should-you-accelerate-your)
@@ -14,6 +15,7 @@
 * [2023-07-29, 16:51:25](https://news.ycombinator.com/item?id=36922069) - [Pentagon hit by ‘critical compromise’ of US Air Force communications – report](https://www.theguardian.com/us-news/2023/jul/29/pentagon-us-air-force-critical-compromise)
 * [2023-07-29, 16:41:36](https://news.ycombinator.com/item?id=36921960) - [ESPN’s Williams testifies how she was fired while undergoing fertility treatment](https://twitter.com/COVIDSelect/status/1684641854988410880)
 * [2023-07-29, 16:35:32](https://news.ycombinator.com/item?id=36921898) - [Ed Yong is leaving The Atlantic after 8 years and 750 stories](https://buttondown.email/edyong209/archive/the-eds-up-an-ending/)
+* [2023-07-29, 16:28:01](https://news.ycombinator.com/item?id=36921808) - [Universal and transferable adversarial attacks on aligned language models](https://llm-attacks.org/zou2023universal.pdf)
 * [2023-07-29, 16:28:01](https://news.ycombinator.com/item?id=36921808) - [Researchers Discover New Vulnerability in Large Language Models](https://www.cmu.edu/news/stories/archives/2023/july/researchers-discover-new-vulnerability-in-large-language-models)
 * [2023-07-29, 16:15:45](https://news.ycombinator.com/item?id=36921675) - [The World’s Largest Wind Turbine Has Been Switched On](https://www.iflscience.com/the-worlds-largest-wind-turbine-has-been-switched-on-70047)
 * [2023-07-29, 16:13:42](https://news.ycombinator.com/item?id=36921651) - [Van Gogh's Artistic Breakthrough](https://en.wikipedia.org/wiki/Vincent_van_Gogh)
@@ -29,6 +31,7 @@
 * [2023-07-29, 14:36:36](https://news.ycombinator.com/item?id=36920731) - [South Africa’s blackouts are driving a solar boom](https://www.semafor.com/article/07/28/2023/why-solar-power-is-booming-in-south-africa)
 * [2023-07-29, 14:25:36](https://news.ycombinator.com/item?id=36920630) - [Ways to shoot yourself in the foot with Redis](https://philbooth.me/blog/four-ways-to-shoot-yourself-in-the-foot-with-redis)
 * [2023-07-29, 14:25:03](https://news.ycombinator.com/item?id=36920622) - [If we want a shift to walking we need to prioritize dignity](https://www.strongtowns.org/journal/2023/7/28/if-we-want-a-shift-to-walking-we-need-to-prioritize-dignity)
+* [2023-07-29, 14:25:03](https://news.ycombinator.com/item?id=36920622) - [If we want a shift to walking we need to prioritize dignity](https://streets.mn/2023/07/19/if-we-want-a-shift-to-walking-we-need-to-prioritize-dignity/)
 * [2023-07-29, 14:18:29](https://news.ycombinator.com/item?id=36920566) - [How critical theory is radicalizing high school debate](https://www.slowboring.com/p/how-critical-theory-is-radicalizing)
 * [2023-07-29, 14:17:49](https://news.ycombinator.com/item?id=36920559) - [Not paying electricity for an entire year with Tesla Solar Roof [video]](https://www.youtube.com/watch?v=UJeSWbR6W04)
 * [2023-07-29, 14:03:50](https://news.ycombinator.com/item?id=36920423) - [Show HN: LLMFlows – LangChain alternative for explicit and transparent apps](https://github.com/stoyan-stoyanov/llmflows)
