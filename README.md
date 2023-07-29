@@ -13,7 +13,6 @@
 * [2023-07-28, 20:30:06](https://news.ycombinator.com/item?id=36912861) - [The Fenland Black Oak Project](https://www.thefenlandblackoakproject.co.uk/our-story)
 * [2023-07-28, 19:22:10](https://news.ycombinator.com/item?id=36911923) - [The Lonely Work of Moderating Hacker News (2019)](https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news)
 * [2023-07-28, 18:53:26](https://news.ycombinator.com/item?id=36911481) - [Tremor – The React library to build dashboards fast](https://www.tremor.so/)
-* [2023-07-28, 18:45:12](https://news.ycombinator.com/item?id=36911361) - [Free prison phone calls boost family ties, rehabilitation](https://www.latimes.com/politics/story/2023-07-27/free-calls-restore-inmates-ties-with-the-outside-can-they-reform-californias-prisons-too)
 * [2023-07-28, 16:49:18](https://news.ycombinator.com/item?id=36909673) - [An ultra-sensitive on-off switch helps axolotls regrow limbs](https://scopeblog.stanford.edu/2023/07/26/how-an-ultra-sensitive-on-off-switch-helps-axolotls-regrow-limbs/)
 * [2023-07-28, 16:33:51](https://news.ycombinator.com/item?id=36909427) - [Why is DNS still hard to learn?](https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/)
 * [2023-07-28, 15:43:56](https://news.ycombinator.com/item?id=36908574) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=36908574)
@@ -28,6 +27,7 @@
 * [2023-07-28, 07:10:38](https://news.ycombinator.com/item?id=36903862) - [Pyro: A universal, probablistic programming language](https://pyro.ai/)
 * [2023-07-28, 05:07:42](https://news.ycombinator.com/item?id=36903282) - [Glass Dip Pens (2022)](https://neonaut.neocities.org/microblog/2022/glass-dip-pens)
 * [2023-07-28, 04:37:23](https://news.ycombinator.com/item?id=36903149) - [How to Roman Republic 101](https://acoup.blog/2023/07/21/collections-how-to-roman-republic-101-part-i-spqr/)
+* [2023-07-28, 02:05:56](https://news.ycombinator.com/item?id=36902418) - [Selling Charlie’s Sunset](https://luke.medium.com/selling-charlies-sunset-85383701d176)
 * [2023-07-28, 01:04:30](https://news.ycombinator.com/item?id=36902050) - [USC Optical Sound Effects Library](https://archive.org/details/usc-sound-effect-archive?tab=collection)
 * [2023-07-27, 21:25:39](https://news.ycombinator.com/item?id=36900370) - [The Dream of the Personal Machine](https://kylechayka.substack.com/p/the-dream-of-the-personal-machine)
 

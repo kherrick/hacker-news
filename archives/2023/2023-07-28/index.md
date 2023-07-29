@@ -93,6 +93,7 @@
 * [2023-07-28, 03:32:26](https://news.ycombinator.com/item?id=36902877) - [Implementing Fast Barriers for a Shared-Memory Cluster of 1024 RISC-V Cores](https://semiengineering.com/implementing-fast-barriers-for-a-shared-memory-cluster-of-1024-risc-v-cores/)
 * [2023-07-28, 03:14:15](https://news.ycombinator.com/item?id=36902772) - [Heat Pumps: Mythology and Actuality](https://www.thegwpf.org/content/uploads/2023/07/Montford-Heat-Pumps.pdf)
 * [2023-07-28, 02:46:49](https://news.ycombinator.com/item?id=36902642) - [You Know I Couldn’t Last](https://www.morrisseycentral.com/messagesfrommorrissey/you-know-i-couldn-t-last)
+* [2023-07-28, 02:05:56](https://news.ycombinator.com/item?id=36902418) - [Selling Charlie’s Sunset](https://luke.medium.com/selling-charlies-sunset-85383701d176)
 * [2023-07-28, 01:59:58](https://news.ycombinator.com/item?id=36902378) - [Embrace Your Crookednesss](https://theconvivialsociety.substack.com/p/embrace-your-crookedness)
 * [2023-07-28, 01:28:50](https://news.ycombinator.com/item?id=36902183) - ['Swine flu' strain has passed from humans to swine ~400 times since 2009: study](https://medicalxpress.com/news/2023-07-swine-flu-strain-humans.html)
 * [2023-07-28, 01:08:43](https://news.ycombinator.com/item?id=36902069) - [The ‘Great Awokening’ Is Winding Down](https://musaalgharbi.com/2023/02/08/great-awokening-ending/)
