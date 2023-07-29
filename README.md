@@ -1,14 +1,15 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-29, 22:31:25](https://news.ycombinator.com/item?id=36925433) - [6 Different Ways to Print Hello World in Assembler on a Raspberry Pi](https://github.com/ksaj/helloworld)
+* [2023-07-29, 22:31:25](https://news.ycombinator.com/item?id=36925433) - [Ways to print hello world in assembler on a Raspberry Pi](https://github.com/ksaj/helloworld)
 * [2023-07-29, 21:47:45](https://news.ycombinator.com/item?id=36925019) - [Big Tobacco knew radioactive Po210 in cigarettes posed cancer risk, kept quiet](https://www.uclahealth.org/news/big-tobacco-knew-radioactive-particles-in-cigarettes)
 * [2023-07-29, 21:27:28](https://news.ycombinator.com/item?id=36924832) - [Red algae proteins grafted into tobacco double plant growth](https://news.cornell.edu/stories/2023/07/red-algae-proteins-grafted-tobacco-double-plant-growth)
-* [2023-07-29, 21:13:05](https://news.ycombinator.com/item?id=36924672) - [Water Temperatures Hit ‘Hot Tub’ Levels in the Florida Keys](https://www.smithsonianmag.com/smart-news/water-temperatures-hit-hot-tub-levels-in-the-florida-keys-180982610/)
 * [2023-07-29, 21:10:19](https://news.ycombinator.com/item?id=36924647) - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://llm-attacks.org/)
 * [2023-07-29, 21:00:55](https://news.ycombinator.com/item?id=36924518) - [Meticulous (YC S21) is hiring #3 engineer to build future of testing](https://news.ycombinator.com/item?id=36924518)
 * [2023-07-29, 20:34:26](https://news.ycombinator.com/item?id=36924267) - [Show HN: Gogit – Just enough Git (in Go) to push itself to GitHub](https://benhoyt.com/writings/gogit/)
 * [2023-07-29, 19:21:55](https://news.ycombinator.com/item?id=36923562) - [The Transformer Blueprint](https://deeprevision.github.io/posts/001-transformer/)
 * [2023-07-29, 19:20:36](https://news.ycombinator.com/item?id=36923550) - [1953 'Phantom' A-bomb film 'Hiroshima,' with 88,000 extras, screening in Tokyo](https://mainichi.jp/english/articles/20230729/p2a/00m/0et/006000c)
+* [2023-07-29, 18:47:13](https://news.ycombinator.com/item?id=36923235) - [Is This an Emoji?](https://spiffy.tech/is-this-an-emoji)
+* [2023-07-29, 18:02:12](https://news.ycombinator.com/item?id=36922823) - [OSRS Map Viewer](https://osrs.world/?cx=3242.00&cy=26&cz=3202.00&p=-245&y=1862&v=1)
 * [2023-07-29, 17:59:04](https://news.ycombinator.com/item?id=36922790) - [Open Source Outdoor Air Quality Monitor](https://www.airgradient.com/open-air/)
 * [2023-07-29, 17:53:58](https://news.ycombinator.com/item?id=36922744) - [How fast should you accelerate your kid in math?](https://kidswholovemath.substack.com/p/how-fast-should-you-accelerate-your)
 * [2023-07-29, 17:32:42](https://news.ycombinator.com/item?id=36922517) - [US Army Field Manual on Leadership (1990) [pdf]](https://armyoe.files.wordpress.com/2018/03/1990-fm-22-100.pdf)
@@ -29,7 +30,6 @@
 * [2023-07-28, 15:31:07](https://news.ycombinator.com/item?id=36908369) - [The bigger the interface, the weaker the abstraction](https://functionallyimperative.com/p/the-bigger-the-interface-the-weaker)
 * [2023-07-28, 12:11:50](https://news.ycombinator.com/item?id=36905715) - [The future of Clang-based tooling](https://blog.trailofbits.com/2023/07/28/the-future-of-clang-based-tooling/)
 * [2023-07-28, 09:34:48](https://news.ycombinator.com/item?id=36904672) - [In the 17th century, Leibniz dreamed of a machine that could calculate ideas](https://spectrum.ieee.org/in-the-17th-century-leibniz-dreamed-of-a-machine-that-could-calculate-ideas)
-* [2023-07-28, 01:56:37](https://news.ycombinator.com/item?id=36902351) - [The Wrath of Goodreads](https://www.theatlantic.com/ideas/archive/2023/07/goodreads-review-bombing-amazon-moderation/674811/)
 
 ## [Archives](archives/index.md)
 
