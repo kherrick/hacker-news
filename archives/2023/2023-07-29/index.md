@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-29](index.md)
 
+* [2023-07-29, 17:00:46](https://news.ycombinator.com/item?id=36922179) - [Freshpaint (YC S19) Is Hiring Engineers to Safeguard Health Data](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-07-29, 16:41:36](https://news.ycombinator.com/item?id=36921960) - [ESPN’s Williams testifies how she was fired while undergoing fertility treatment](https://twitter.com/COVIDSelect/status/1684641854988410880)
+* [2023-07-29, 16:28:01](https://news.ycombinator.com/item?id=36921808) - [Researchers Discover New Vulnerability in Large Language Models](https://www.cmu.edu/news/stories/archives/2023/july/researchers-discover-new-vulnerability-in-large-language-models)
 * [2023-07-29, 16:15:45](https://news.ycombinator.com/item?id=36921675) - [The World’s Largest Wind Turbine Has Been Switched On](https://www.iflscience.com/the-worlds-largest-wind-turbine-has-been-switched-on-70047)
 * [2023-07-29, 16:13:42](https://news.ycombinator.com/item?id=36921651) - [Van Gogh's Artistic Breakthrough](https://en.wikipedia.org/wiki/Vincent_van_Gogh)
 * [2023-07-29, 16:09:25](https://news.ycombinator.com/item?id=36921602) - [Apple’s Parental Controls Are Broken](https://www.wsj.com/articles/apples-parental-controls-are-broken-55a2aa52)

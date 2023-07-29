@@ -107,4 +107,5 @@
 * [2023-07-28, 00:29:48](https://news.ycombinator.com/item?id=36901885) - [The Moral Character of Cryptographic Work (2015)](https://web.cs.ucdavis.edu/~rogaway/papers/moral.html)
 * [2023-07-28, 00:20:59](https://news.ycombinator.com/item?id=36901815) - [WebArena: A realistic web environment for building autonomous agents](https://webarena.dev/)
 * [2023-07-28, 00:19:36](https://news.ycombinator.com/item?id=36901802) - [Focus bracketing on iPhone for greater depth of field (2020)](https://camerapixels.app/2020/05/01/focus-stacking-for-macro-photography-using-adobe-photoshop/)
+* [2023-07-28, 00:18:39](https://news.ycombinator.com/item?id=36901794) - [TMAP – On Demand Tactile Street Map](https://adaptations.org/products/tmap)
 * [2023-07-28, 00:05:24](https://news.ycombinator.com/item?id=36901711) - [A review of one puzzle from Quern: Undying Thoughts](https://novalis.org/blog/2023-07-26-a-review-of-one-puzzle-from-quern-undying-thoughts-.html)

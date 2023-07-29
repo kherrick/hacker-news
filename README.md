@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-29, 16:41:36](https://news.ycombinator.com/item?id=36921960) - [ESPN’s Williams testifies how she was fired while undergoing fertility treatment](https://twitter.com/COVIDSelect/status/1684641854988410880)
+* [2023-07-29, 17:00:46](https://news.ycombinator.com/item?id=36922179) - [Freshpaint (YC S19) Is Hiring Engineers to Safeguard Health Data](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+* [2023-07-29, 16:28:01](https://news.ycombinator.com/item?id=36921808) - [Researchers Discover New Vulnerability in Large Language Models](https://www.cmu.edu/news/stories/archives/2023/july/researchers-discover-new-vulnerability-in-large-language-models)
 * [2023-07-29, 16:15:45](https://news.ycombinator.com/item?id=36921675) - [The World’s Largest Wind Turbine Has Been Switched On](https://www.iflscience.com/the-worlds-largest-wind-turbine-has-been-switched-on-70047)
-* [2023-07-29, 16:09:25](https://news.ycombinator.com/item?id=36921602) - [Apple’s Parental Controls Are Broken](https://www.wsj.com/articles/apples-parental-controls-are-broken-55a2aa52)
 * [2023-07-29, 16:04:15](https://news.ycombinator.com/item?id=36921552) - [“Gzip beats BERT?” Part 2: dataset issues, improved speed, and results](https://kenschutte.com/gzip-knn-paper2/)
 * [2023-07-29, 16:00:58](https://news.ycombinator.com/item?id=36921522) - [Samsung sees 95% drop in profits for a second consecutive quarter](https://www.androidauthority.com/samsung-profits-drop-by-95-percent-3351038/)
 * [2023-07-29, 15:12:16](https://news.ycombinator.com/item?id=36921038) - [HuggingFace Text Generation License No Longer Open-Source](https://github.com/huggingface/text-generation-inference/issues/726)
@@ -17,7 +17,6 @@
 * [2023-07-29, 09:28:48](https://news.ycombinator.com/item?id=36918435) - [So you want to build your own open source chatbot](https://hacks.mozilla.org/2023/07/so-you-want-to-build-your-own-open-source-chatbot/)
 * [2023-07-29, 08:13:08](https://news.ycombinator.com/item?id=36918050) - [Facebook users have less than a month to claim a piece of the $725M settlement](https://www.facebookuserprivacysettlement.com/)
 * [2023-07-29, 07:43:06](https://news.ycombinator.com/item?id=36917867) - [Using C++ as a scripting language, part 8](https://fwsgonzo.medium.com/using-c-as-a-scripting-language-part-8-d366fd98676)
-* [2023-07-29, 07:26:10](https://news.ycombinator.com/item?id=36917782) - [Counting License Plates](https://www.alexmolas.com/2023/07/01/counting-license-plates.html)
 * [2023-07-29, 06:11:55](https://news.ycombinator.com/item?id=36917424) - [U.S. Marine Corps Antenna Handbook (1999) [pdf]](https://www.marines.mil/Portals/1/MCRP%203-40.3C%20With%20Erratum%20z.pdf)
 * [2023-07-29, 05:25:07](https://news.ycombinator.com/item?id=36917214) - [Ingest OpenTelemetry metrics with Prometheus natively](https://last9.io/blog/native-support-for-opentelemetry-metrics-in-prometheus/)
 * [2023-07-29, 02:45:06](https://news.ycombinator.com/item?id=36916297) - [IBM Blue Lightning: World’s Fastest 386? (2014)](https://www.os2museum.com/wp/ibm-blue-lightning-worlds-fastest-386/comment-page-1/)
@@ -28,6 +27,7 @@
 * [2023-07-28, 12:11:50](https://news.ycombinator.com/item?id=36905715) - [The future of Clang-based tooling](https://blog.trailofbits.com/2023/07/28/the-future-of-clang-based-tooling/)
 * [2023-07-28, 10:11:00](https://news.ycombinator.com/item?id=36904892) - [Why is c the symbol for the speed of light? (1997)](https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html)
 * [2023-07-28, 07:53:25](https://news.ycombinator.com/item?id=36904112) - [Iridis Alpha Theory: The Making of a C64 Classic](https://iridisalpha.com/)
+* [2023-07-28, 00:18:39](https://news.ycombinator.com/item?id=36901794) - [TMAP – On Demand Tactile Street Map](https://adaptations.org/products/tmap)
 * [2023-07-27, 11:58:28](https://news.ycombinator.com/item?id=36892168) - [Bpfilter Is Forever](https://dxuuu.xyz/bpfilter.html)
 * [2023-07-27, 10:28:48](https://news.ycombinator.com/item?id=36891510) - [Insect memories may not survive metamorphosis](https://www.quantamagazine.org/insect-brains-melt-and-rewire-during-metamorphosis-20230726/)
 
