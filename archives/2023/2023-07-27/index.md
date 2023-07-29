@@ -79,6 +79,7 @@
 * [2023-07-27, 11:16:00](https://news.ycombinator.com/item?id=36891873) - [Yerkes Observatory: Restoring the World’s Largest Refracting Telescope](https://www.grainger.com/know-how/inspiration/kh-yerkes-observatory-restoring-worlds-largest-refracting-telescope)
 * [2023-07-27, 10:56:09](https://news.ycombinator.com/item?id=36891735) - [How I test site speed changes using Chrome's local overrides (2021)](https://tryblackbird.com/blog/local-overrides)
 * [2023-07-27, 10:44:17](https://news.ycombinator.com/item?id=36891642) - [Tesla created secret team to suppress thousands of driving range complaints](https://www.reuters.com/investigates/special-report/tesla-batteries-range/)
+* [2023-07-27, 10:28:48](https://news.ycombinator.com/item?id=36891510) - [Why Insect Memories May Not Survive Metamorphosis](https://www.quantamagazine.org/insect-brains-melt-and-rewire-during-metamorphosis-20230726/)
 * [2023-07-27, 09:41:11](https://news.ycombinator.com/item?id=36891135) - [Slack Is Down](https://status.slack.com/2023-07/08e3781ccbef33d5)
 * [2023-07-27, 09:32:07](https://news.ycombinator.com/item?id=36891056) - [Twist: Slack alternative from the makers of Todoist](https://twist.com/)
 * [2023-07-27, 09:11:06](https://news.ycombinator.com/item?id=36890901) - [Ask HN: Is Slack having some trouble?](https://news.ycombinator.com/item?id=36890901)

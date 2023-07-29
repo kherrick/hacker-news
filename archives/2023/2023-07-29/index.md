@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-29](index.md)
 
+* [2023-07-29, 09:28:48](https://news.ycombinator.com/item?id=36918435) - [So you want to build your own open source chatbot](https://hacks.mozilla.org/2023/07/so-you-want-to-build-your-own-open-source-chatbot/)
 * [2023-07-29, 08:30:29](https://news.ycombinator.com/item?id=36918158) - [India’s diaspora is bigger and more influential than any in history](https://www.economist.com/international/2023/06/12/indias-diaspora-is-bigger-and-more-influential-than-any-in-history)
 * [2023-07-29, 08:13:08](https://news.ycombinator.com/item?id=36918050) - [Facebook users have less than a month to claim a piece of the $725M settlement](https://www.facebookuserprivacysettlement.com/)
+* [2023-07-29, 07:51:53](https://news.ycombinator.com/item?id=36917923) - [Finding bugs in C code with Multi-Level IR and VAST](https://blog.trailofbits.com/2023/06/15/finding-bugs-with-mlir-and-vast/)
 * [2023-07-29, 07:43:06](https://news.ycombinator.com/item?id=36917867) - [Using C++ as a scripting language, part 8](https://fwsgonzo.medium.com/using-c-as-a-scripting-language-part-8-d366fd98676)
 * [2023-07-29, 07:29:30](https://news.ycombinator.com/item?id=36917802) - [Larne Craigyhill bonfire: 17000 pallets](https://www.belfastlive.co.uk/news/larne-craigyhill-bonfire-more-17000-20989400)
 * [2023-07-29, 06:41:24](https://news.ycombinator.com/item?id=36917561) - [Hugging Face, GitHub and more unite to defend open source in EU AI legislation](https://venturebeat.com/ai/hugging-face-github-and-more-unite-to-defend-open-source-in-eu-ai-legislation/)
