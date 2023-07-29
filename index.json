@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-07-29, 18:39:24",
+      "https://news.ycombinator.com/item?id=36923154"
+    ],
+    [
+      "Counterterrorism internet surveillance is being retargeted at sex workers",
+      "https://theintercept.com/2023/07/29/skull-games-surveillance-sex-workers/"
+    ]
+  ],
+  [
+    [
       "2023-07-29, 17:59:04",
       "https://news.ycombinator.com/item?id=36922790"
     ],
@@ -51,6 +61,16 @@
   ],
   [
     [
+      "2023-07-29, 16:51:25",
+      "https://news.ycombinator.com/item?id=36922069"
+    ],
+    [
+      "Pentagon hit by ‘critical compromise’ of US Air Force communications – report",
+      "https://www.theguardian.com/us-news/2023/jul/29/pentagon-us-air-force-critical-compromise"
+    ]
+  ],
+  [
+    [
       "2023-07-29, 16:35:32",
       "https://news.ycombinator.com/item?id=36921898"
     ],
@@ -65,8 +85,8 @@
       "https://news.ycombinator.com/item?id=36921808"
     ],
     [
-      "Researchers Discover New Vulnerability in Large Language Models",
-      "https://www.cmu.edu/news/stories/archives/2023/july/researchers-discover-new-vulnerability-in-large-language-models"
+      "Universal and transferable adversarial attacks on aligned language models",
+      "https://llm-attacks.org/zou2023universal.pdf"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "Gzip beats BERT? Part 2: dataset issues, improved speed, and results",
       "https://kenschutte.com/gzip-knn-paper2/"
-    ]
-  ],
-  [
-    [
-      "2023-07-29, 15:12:16",
-      "https://news.ycombinator.com/item?id=36921038"
-    ],
-    [
-      "HuggingFace Text Generation License No Longer Open-Source",
-      "https://github.com/huggingface/text-generation-inference/issues/726"
     ]
   ],
   [
@@ -116,7 +126,7 @@
     ],
     [
       "If we want a shift to walking we need to prioritize dignity",
-      "https://www.strongtowns.org/journal/2023/7/28/if-we-want-a-shift-to-walking-we-need-to-prioritize-dignity"
+      "https://streets.mn/2023/07/19/if-we-want-a-shift-to-walking-we-need-to-prioritize-dignity/"
     ]
   ],
   [
@@ -211,21 +221,11 @@
   ],
   [
     [
-      "2023-07-28, 21:07:17",
-      "https://news.ycombinator.com/item?id=36913328"
-    ],
-    [
-      "Intent to approve PEP 703: making the GIL optional",
-      "https://discuss.python.org/t/a-steering-council-notice-about-pep-703-making-the-global-interpreter-lock-optional-in-cpython/30474"
-    ]
-  ],
-  [
-    [
       "2023-07-28, 15:55:53",
       "https://news.ycombinator.com/item?id=36908757"
     ],
     [
-      "Invisible Asymptotes (2018)",
+      "Invisible asymptotes (2018)",
       "https://www.eugenewei.com/blog/2018/5/21/invisible-asymptotes"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=36892168"
     ],
     [
-      "Bpfilter Is Forever",
+      "Bpfilter is forever",
       "https://dxuuu.xyz/bpfilter.html"
     ]
   ],
