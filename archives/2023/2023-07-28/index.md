@@ -21,6 +21,7 @@
 * [2023-07-28, 20:48:28](https://news.ycombinator.com/item?id=36913103) - [Wordward Draw](https://managore.itch.io/wordward-draw)
 * [2023-07-28, 20:38:26](https://news.ycombinator.com/item?id=36912979) - [Real-Time Monitoring of Aerosols Generated from Toilet Flushing](https://www.microbiologyresearch.org/content/journal/acmi/10.1099/acmi.fis2019.po0192)
 * [2023-07-28, 20:30:06](https://news.ycombinator.com/item?id=36912861) - [The Fenland Black Oak Project](https://www.thefenlandblackoakproject.co.uk/our-story)
+* [2023-07-28, 20:26:24](https://news.ycombinator.com/item?id=36912820) - [New Word Order](https://www.monkeon.co.uk/new-word-order/)
 * [2023-07-28, 19:22:10](https://news.ycombinator.com/item?id=36911923) - [The Lonely Work of Moderating Hacker News (2019)](https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news)
 * [2023-07-28, 18:53:26](https://news.ycombinator.com/item?id=36911481) - [Tremor – The React library to build dashboards fast](https://www.tremor.so/)
 * [2023-07-28, 18:45:12](https://news.ycombinator.com/item?id=36911361) - [Free prison phone calls boost family ties, rehabilitation](https://www.latimes.com/politics/story/2023-07-27/free-calls-restore-inmates-ties-with-the-outside-can-they-reform-californias-prisons-too)
