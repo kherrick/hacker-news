@@ -71,22 +71,22 @@
   ],
   [
     [
-      "2023-07-28, 22:47:07",
-      "https://news.ycombinator.com/item?id=36914401"
-    ],
-    [
-      "No-GIL mode coming for Python",
-      "https://lwn.net/Articles/939568/"
-    ]
-  ],
-  [
-    [
       "2023-07-28, 21:50:36",
       "https://news.ycombinator.com/item?id=36913835"
     ],
     [
       "SpaceX punched a hole in the ionosphere",
       "https://spaceweatherarchive.com/2023/07/23/spacex-punched-a-hole-in-the-ionosphere/"
+    ]
+  ],
+  [
+    [
+      "2023-07-28, 21:07:17",
+      "https://news.ycombinator.com/item?id=36913328"
+    ],
+    [
+      "Intent to approve PEP 703: making the GIL optional",
+      "https://discuss.python.org/t/a-steering-council-notice-about-pep-703-making-the-global-interpreter-lock-optional-in-cpython/30474"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "Tremor – The React library to build dashboards fast",
       "https://www.tremor.so/"
-    ]
-  ],
-  [
-    [
-      "2023-07-28, 18:45:12",
-      "https://news.ycombinator.com/item?id=36911361"
-    ],
-    [
-      "Free prison phone calls boost family ties, rehabilitation",
-      "https://www.latimes.com/politics/story/2023-07-27/free-calls-restore-inmates-ties-with-the-outside-can-they-reform-californias-prisons-too"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "How to Roman Republic 101",
       "https://acoup.blog/2023/07/21/collections-how-to-roman-republic-101-part-i-spqr/"
+    ]
+  ],
+  [
+    [
+      "2023-07-28, 01:59:58",
+      "https://news.ycombinator.com/item?id=36902378"
+    ],
+    [
+      "Out of the crooked timber of humanity, no straight thing was ever made",
+      "https://theconvivialsociety.substack.com/p/embrace-your-crookedness"
     ]
   ],
   [
