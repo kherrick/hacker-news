@@ -8,6 +8,7 @@
 * [2023-07-29, 19:21:55](https://news.ycombinator.com/item?id=36923562) - [The Transformer Blueprint](https://deeprevision.github.io/posts/001-transformer/)
 * [2023-07-29, 19:20:36](https://news.ycombinator.com/item?id=36923550) - [1953 'Phantom' A-bomb film 'Hiroshima,' with 88,000 extras, screening in Tokyo](https://mainichi.jp/english/articles/20230729/p2a/00m/0et/006000c)
 * [2023-07-29, 18:47:13](https://news.ycombinator.com/item?id=36923235) - [Is This an Emoji?](https://spiffy.tech/is-this-an-emoji)
+* [2023-07-29, 18:39:24](https://news.ycombinator.com/item?id=36923154) - [Counterterrorism internet surveillance is being retargeted at sex workers](https://theintercept.com/2023/07/29/skull-games-surveillance-sex-workers/)
 * [2023-07-29, 18:02:12](https://news.ycombinator.com/item?id=36922823) - [OSRS Map Viewer](https://osrs.world/?cx=3242.00&cy=26&cz=3202.00&p=-245&y=1862&v=1)
 * [2023-07-29, 17:59:04](https://news.ycombinator.com/item?id=36922790) - [Open Source Outdoor Air Quality Monitor](https://www.airgradient.com/open-air/)
 * [2023-07-29, 17:53:58](https://news.ycombinator.com/item?id=36922744) - [How fast should you accelerate your kid in math?](https://kidswholovemath.substack.com/p/how-fast-should-you-accelerate-your)
@@ -28,7 +29,6 @@
 * [2023-07-28, 12:11:50](https://news.ycombinator.com/item?id=36905715) - [The future of Clang-based tooling](https://blog.trailofbits.com/2023/07/28/the-future-of-clang-based-tooling/)
 * [2023-07-28, 09:34:48](https://news.ycombinator.com/item?id=36904672) - [In the 17th century, Leibniz dreamed of a machine that could calculate ideas](https://spectrum.ieee.org/in-the-17th-century-leibniz-dreamed-of-a-machine-that-could-calculate-ideas)
 * [2023-07-28, 01:56:37](https://news.ycombinator.com/item?id=36902351) - [The Wrath of Goodreads](https://www.theatlantic.com/ideas/archive/2023/07/goodreads-review-bombing-amazon-moderation/674811/)
-* [2023-07-27, 20:30:44](https://news.ycombinator.com/item?id=36899712) - [Assembler on Raspberry Pi](https://imomath.com/index.cgi?page=asmMain)
 * [2023-07-27, 10:28:48](https://news.ycombinator.com/item?id=36891510) - [Insect memories may not survive metamorphosis](https://www.quantamagazine.org/insect-brains-melt-and-rewire-during-metamorphosis-20230726/)
 
 ## [Archives](archives/index.md)
