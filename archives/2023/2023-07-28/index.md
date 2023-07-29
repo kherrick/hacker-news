@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-28](index.md)
 
+* [2023-07-28, 23:35:55](https://news.ycombinator.com/item?id=36914850) - [Panic Among the Streamers](https://www.honest-broker.com/p/panic-among-the-streamers)
 * [2023-07-28, 23:35:41](https://news.ycombinator.com/item?id=36914849) - [Dream First Bank Assumes All of the Deposits of Heartland Tri-State Bank](https://www.fdic.gov/news/press-releases/2023/pr23058.html)
 * [2023-07-28, 22:47:07](https://news.ycombinator.com/item?id=36914401) - [No-GIL mode coming for Python](https://lwn.net/Articles/939568/)
 * [2023-07-28, 22:42:45](https://news.ycombinator.com/item?id=36914370) - [Data Colonialism and Data Sets](https://harvardlawreview.org/blog/2023/06/data-colonialism-and-data-sets/)
@@ -22,6 +23,7 @@
 * [2023-07-28, 18:53:26](https://news.ycombinator.com/item?id=36911481) - [Tremor – The React library to build dashboards fast](https://www.tremor.so/)
 * [2023-07-28, 18:45:12](https://news.ycombinator.com/item?id=36911361) - [Free prison phone calls boost family ties, rehabilitation](https://www.latimes.com/politics/story/2023-07-27/free-calls-restore-inmates-ties-with-the-outside-can-they-reform-californias-prisons-too)
 * [2023-07-28, 18:36:30](https://news.ycombinator.com/item?id=36911232) - [Most of the 100M people who signed up for Threads stopped using it](https://arstechnica.com/tech-policy/2023/07/zuck-says-threads-doing-better-than-expected-despite-losing-over-half-of-users/)
+* [2023-07-28, 18:15:28](https://news.ycombinator.com/item?id=36910940) - [Din-Test Demo (2021)](https://computationalaudiology.com/din-demo/)
 * [2023-07-28, 17:28:41](https://news.ycombinator.com/item?id=36910256) - [Play Deprivation Is a Major Cause of the Teen Mental Health Crisis](https://jonathanhaidt.substack.com/p/the-play-deficit)
 * [2023-07-28, 17:27:57](https://news.ycombinator.com/item?id=36910245) - [Mark Zuckerberg: Threads users down by more than a half](https://www.bbc.co.uk/news/technology-66336058)
 * [2023-07-28, 17:20:55](https://news.ycombinator.com/item?id=36910146) - [“Web Environment Integrity” is an all-out attack on the free Internet](https://www.fsf.org/blogs/community/web-environment-integrity-is-an-all-out-attack-on-the-free-internet)
