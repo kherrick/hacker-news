@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-29](index.md)
 
+* [2023-07-29, 11:47:56](https://news.ycombinator.com/item?id=36919286) - [US rejects Australia’s calls to end pursuit of WikiLeaks](https://www.theguardian.com/australia-news/2023/jul/29/julian-assange-us-rejects-australias-calls-to-free-wikileaks-founder-during-ausmin-talks)
 * [2023-07-29, 11:38:43](https://news.ycombinator.com/item?id=36919225) - [Instead of obtaining a warrant, the NSA would like to keep buying your data](https://www.wired.com/story/nsa-ndaa-lobbying-privacy-loophole/)
+* [2023-07-29, 11:31:22](https://news.ycombinator.com/item?id=36919175) - [List of online activities to be made impossible by the UK Online Safety Bill](https://news.ycombinator.com/item?id=36919175)
 * [2023-07-29, 11:23:49](https://news.ycombinator.com/item?id=36919119) - [Japan’s population fell by 800k last year as demographic crisis accelerates](https://www.cnn.com/2023/07/27/asia/japan-population-drop-2022-intl-hnk/index.html)
 * [2023-07-29, 10:45:23](https://news.ycombinator.com/item?id=36918874) - [Booking a Ryanair flight via an online travel agent might hold a nasty surprise](https://noyb.eu/en/booking-ryanair-flight-through-online-travel-agent-might-hold-nasty-surprise)
 * [2023-07-29, 10:24:04](https://news.ycombinator.com/item?id=36918719) - [Apple demands app makers explain use of sensitive APIs](https://www.theregister.com/2023/07/29/apple_developer_api/)
