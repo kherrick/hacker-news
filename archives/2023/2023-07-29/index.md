@@ -75,6 +75,7 @@
 * [2023-07-29, 07:26:10](https://news.ycombinator.com/item?id=36917782) - [Counting License Plates](https://www.alexmolas.com/2023/07/01/counting-license-plates.html)
 * [2023-07-29, 06:41:24](https://news.ycombinator.com/item?id=36917561) - [Hugging Face, GitHub and more unite to defend open source in EU AI legislation](https://venturebeat.com/ai/hugging-face-github-and-more-unite-to-defend-open-source-in-eu-ai-legislation/)
 * [2023-07-29, 06:11:55](https://news.ycombinator.com/item?id=36917424) - [U.S. Marine Corps Antenna Handbook (1999) [pdf]](https://www.marines.mil/Portals/1/MCRP%203-40.3C%20With%20Erratum%20z.pdf)
+* [2023-07-29, 05:48:57](https://news.ycombinator.com/item?id=36917320) - [(we)bsite](https://we-b.site/)
 * [2023-07-29, 05:43:31](https://news.ycombinator.com/item?id=36917293) - [Bead Patterns](https://buegelperlenvorlagen.ch/overview)
 * [2023-07-29, 05:43:13](https://news.ycombinator.com/item?id=36917290) - [Birdga.me](https://birdga.me/harsh-division)
 * [2023-07-29, 05:25:07](https://news.ycombinator.com/item?id=36917214) - [Ingest OpenTelemetry metrics with Prometheus natively](https://last9.io/blog/native-support-for-opentelemetry-metrics-in-prometheus/)
