@@ -76,6 +76,7 @@
 * [2023-07-27, 12:15:04](https://news.ycombinator.com/item?id=36892311) - [Stack Overflow Announces OverflowAI [video]](https://www.youtube.com/watch?v=DM9-cYyeaDg)
 * [2023-07-27, 12:15:04](https://news.ycombinator.com/item?id=36892311) - [OverflowAI](https://stackoverflow.blog/2023/07/27/announcing-overflowai/)
 * [2023-07-27, 12:01:15](https://news.ycombinator.com/item?id=36892189) - [Memfault (YC W19) Is Hiring an Embedded Linux Engineer](https://jobs.lever.co/memfault/5bcd5431-5d94-4a3c-a99a-950ffd85851b)
+* [2023-07-27, 11:58:28](https://news.ycombinator.com/item?id=36892168) - [Bpfilter Is Forever](https://dxuuu.xyz/bpfilter.html)
 * [2023-07-27, 11:16:00](https://news.ycombinator.com/item?id=36891873) - [Yerkes Observatory: Restoring the World’s Largest Refracting Telescope](https://www.grainger.com/know-how/inspiration/kh-yerkes-observatory-restoring-worlds-largest-refracting-telescope)
 * [2023-07-27, 10:56:09](https://news.ycombinator.com/item?id=36891735) - [How I test site speed changes using Chrome's local overrides (2021)](https://tryblackbird.com/blog/local-overrides)
 * [2023-07-27, 10:44:17](https://news.ycombinator.com/item?id=36891642) - [Tesla created secret team to suppress thousands of driving range complaints](https://www.reuters.com/investigates/special-report/tesla-batteries-range/)

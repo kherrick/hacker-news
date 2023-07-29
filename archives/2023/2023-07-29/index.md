@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-29](index.md)
 
+* [2023-07-29, 10:45:23](https://news.ycombinator.com/item?id=36918874) - [Booking a Ryanair flight via an online travel agent might hold a nasty surprise](https://noyb.eu/en/booking-ryanair-flight-through-online-travel-agent-might-hold-nasty-surprise)
+* [2023-07-29, 10:24:04](https://news.ycombinator.com/item?id=36918719) - [Apple demands app makers explain use of sensitive APIs](https://www.theregister.com/2023/07/29/apple_developer_api/)
+* [2023-07-29, 10:12:18](https://news.ycombinator.com/item?id=36918655) - [IRC Is the Only Viable Chat Protocol](https://koshka.love/babel/irc-forever.html)
 * [2023-07-29, 09:28:48](https://news.ycombinator.com/item?id=36918435) - [So you want to build your own open source chatbot](https://hacks.mozilla.org/2023/07/so-you-want-to-build-your-own-open-source-chatbot/)
 * [2023-07-29, 08:30:29](https://news.ycombinator.com/item?id=36918158) - [India’s diaspora is bigger and more influential than any in history](https://www.economist.com/international/2023/06/12/indias-diaspora-is-bigger-and-more-influential-than-any-in-history)
 * [2023-07-29, 08:13:08](https://news.ycombinator.com/item?id=36918050) - [Facebook users have less than a month to claim a piece of the $725M settlement](https://www.facebookuserprivacysettlement.com/)
