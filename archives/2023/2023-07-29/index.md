@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-29](index.md)
 
+* [2023-07-29, 07:43:06](https://news.ycombinator.com/item?id=36917867) - [Using C++ as a scripting language, part 8](https://fwsgonzo.medium.com/using-c-as-a-scripting-language-part-8-d366fd98676)
 * [2023-07-29, 07:29:30](https://news.ycombinator.com/item?id=36917802) - [Larne Craigyhill bonfire: 17000 pallets](https://www.belfastlive.co.uk/news/larne-craigyhill-bonfire-more-17000-20989400)
 * [2023-07-29, 06:41:24](https://news.ycombinator.com/item?id=36917561) - [Hugging Face, GitHub and more unite to defend open source in EU AI legislation](https://venturebeat.com/ai/hugging-face-github-and-more-unite-to-defend-open-source-in-eu-ai-legislation/)
 * [2023-07-29, 06:11:55](https://news.ycombinator.com/item?id=36917424) - [U.S. Marine Corps Antenna Handbook (1999) [pdf]](https://www.marines.mil/Portals/1/MCRP%203-40.3C%20With%20Erratum%20z.pdf)
