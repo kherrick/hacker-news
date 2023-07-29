@@ -23,6 +23,7 @@
 * [2023-07-29, 14:25:03](https://news.ycombinator.com/item?id=36920622) - [If we want a shift to walking we need to prioritize dignity](https://www.strongtowns.org/journal/2023/7/28/if-we-want-a-shift-to-walking-we-need-to-prioritize-dignity)
 * [2023-07-29, 14:18:29](https://news.ycombinator.com/item?id=36920566) - [How critical theory is radicalizing high school debate](https://www.slowboring.com/p/how-critical-theory-is-radicalizing)
 * [2023-07-29, 14:17:49](https://news.ycombinator.com/item?id=36920559) - [Not paying electricity for an entire year with Tesla Solar Roof [video]](https://www.youtube.com/watch?v=UJeSWbR6W04)
+* [2023-07-29, 14:03:50](https://news.ycombinator.com/item?id=36920423) - [Show HN: LLMFlows – LangChain alternative for explicit and transparent apps](https://github.com/stoyan-stoyanov/llmflows)
 * [2023-07-29, 13:59:50](https://news.ycombinator.com/item?id=36920387) - [Enjoy Alcohol, Without the Hangover](https://www.wsj.com/articles/synthetic-alcohol-no-hangover-511fc418)
 * [2023-07-29, 13:28:50](https://news.ycombinator.com/item?id=36920105) - [Show HN: ssh-tpm-agent – SSH agent for TPMs](https://github.com/Foxboron/ssh-tpm-agent)
 * [2023-07-29, 13:20:46](https://news.ycombinator.com/item?id=36920036) - [Tell HN: Digikey has 1822 Pi4 8GB and 3793 1GB in stock](https://news.ycombinator.com/item?id=36920036)
