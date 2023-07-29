@@ -11,6 +11,7 @@
 * [2023-07-27, 23:09:46](https://news.ycombinator.com/item?id=36901303) - [Ask HN: Is the market bad, or am I having the worst luck job hunting?](https://news.ycombinator.com/item?id=36901303)
 * [2023-07-27, 22:06:37](https://news.ycombinator.com/item?id=36900782) - [List of APIs that require declared reasons now available](https://developer.apple.com/news/?id=z6fu1dcu)
 * [2023-07-27, 21:27:18](https://news.ycombinator.com/item?id=36900388) - [Llama and ChatGPT Are Not Open-Source](https://spectrum.ieee.org/openai-not-open)
+* [2023-07-27, 21:25:39](https://news.ycombinator.com/item?id=36900370) - [The Dream of the Personal Machine](https://kylechayka.substack.com/p/the-dream-of-the-personal-machine)
 * [2023-07-27, 21:19:01](https://news.ycombinator.com/item?id=36900302) - [ICML 2023 Outstanding Paper Awards](https://icml.cc/Conferences/2023/Awards)
 * [2023-07-27, 21:18:16](https://news.ycombinator.com/item?id=36900294) - [LeMUR: LLMs for Audio and Speech](https://www.assemblyai.com/blog/lemur/)
 * [2023-07-27, 21:17:15](https://news.ycombinator.com/item?id=36900286) - [Intel Reports Second-Quarter 2023 Financial Results](https://www.intc.com/news-events/press-releases/detail/1637/intel-reports-second-quarter-2023-financial-results)

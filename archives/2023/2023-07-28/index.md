@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-28](index.md)
 
+* [2023-07-28, 23:35:41](https://news.ycombinator.com/item?id=36914849) - [Dream First Bank Assumes All of the Deposits of Heartland Tri-State Bank](https://www.fdic.gov/news/press-releases/2023/pr23058.html)
 * [2023-07-28, 22:47:07](https://news.ycombinator.com/item?id=36914401) - [No-GIL mode coming for Python](https://lwn.net/Articles/939568/)
 * [2023-07-28, 22:42:45](https://news.ycombinator.com/item?id=36914370) - [Data Colonialism and Data Sets](https://harvardlawreview.org/blog/2023/06/data-colonialism-and-data-sets/)
 * [2023-07-28, 22:15:36](https://news.ycombinator.com/item?id=36914085) - [Electric recumbent bikes are 80 more efficient than EV](https://www.lowtechmagazine.com/les-v%C3%A9lomobiles-electriques-aussi-rapides-et-confortables-que-les-automobiles-mais-80-fois-plus-efficaces.html)

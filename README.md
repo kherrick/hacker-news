@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-29, 00:04:17](https://news.ycombinator.com/item?id=36915108) - [RISC-V CPU formal specification F# edition](https://github.com/mrLSD/riscv-fs)
+* [2023-07-28, 23:35:41](https://news.ycombinator.com/item?id=36914849) - [Dream First Bank Assumes All of the Deposits of Heartland Tri-State Bank](https://www.fdic.gov/news/press-releases/2023/pr23058.html)
 * [2023-07-28, 22:47:07](https://news.ycombinator.com/item?id=36914401) - [No-GIL mode coming for Python](https://lwn.net/Articles/939568/)
-* [2023-07-28, 22:42:45](https://news.ycombinator.com/item?id=36914370) - [Data Colonialism and Data Sets](https://harvardlawreview.org/blog/2023/06/data-colonialism-and-data-sets/)
 * [2023-07-28, 22:15:36](https://news.ycombinator.com/item?id=36914085) - [Electric recumbent bikes are 80 more efficient than EV](https://www.lowtechmagazine.com/les-v%C3%A9lomobiles-electriques-aussi-rapides-et-confortables-que-les-automobiles-mais-80-fois-plus-efficaces.html)
 * [2023-07-28, 22:05:32](https://news.ycombinator.com/item?id=36913988) - [Ring is having a major outage](https://status.ring.com)
 * [2023-07-28, 21:50:36](https://news.ycombinator.com/item?id=36913835) - [SpaceX punched a hole in the ionosphere](https://spaceweatherarchive.com/2023/07/23/spacex-punched-a-hole-in-the-ionosphere/)
@@ -14,7 +15,6 @@
 * [2023-07-28, 18:53:26](https://news.ycombinator.com/item?id=36911481) - [Tremor – The React library to build dashboards fast](https://www.tremor.so/)
 * [2023-07-28, 18:45:12](https://news.ycombinator.com/item?id=36911361) - [Free prison phone calls boost family ties, rehabilitation](https://www.latimes.com/politics/story/2023-07-27/free-calls-restore-inmates-ties-with-the-outside-can-they-reform-californias-prisons-too)
 * [2023-07-28, 16:49:18](https://news.ycombinator.com/item?id=36909673) - [An ultra-sensitive on-off switch helps axolotls regrow limbs](https://scopeblog.stanford.edu/2023/07/26/how-an-ultra-sensitive-on-off-switch-helps-axolotls-regrow-limbs/)
-* [2023-07-28, 16:39:20](https://news.ycombinator.com/item?id=36909525) - [Observable API Proposal](https://github.com/domfarolino/observable)
 * [2023-07-28, 16:33:51](https://news.ycombinator.com/item?id=36909427) - [Why is DNS still hard to learn?](https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/)
 * [2023-07-28, 15:43:56](https://news.ycombinator.com/item?id=36908574) - [I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=36908574)
 * [2023-07-28, 15:28:04](https://news.ycombinator.com/item?id=36908309) - [Cap'n Proto 1.0](https://capnproto.org/news/2023-07-28-capnproto-1.0.html)
@@ -27,9 +27,9 @@
 * [2023-07-28, 07:10:38](https://news.ycombinator.com/item?id=36903862) - [Pyro: A universal, probablistic programming language](https://pyro.ai/)
 * [2023-07-28, 05:07:42](https://news.ycombinator.com/item?id=36903282) - [Glass Dip Pens (2022)](https://neonaut.neocities.org/microblog/2022/glass-dip-pens)
 * [2023-07-28, 04:37:23](https://news.ycombinator.com/item?id=36903149) - [How to Roman Republic 101](https://acoup.blog/2023/07/21/collections-how-to-roman-republic-101-part-i-spqr/)
-* [2023-07-28, 04:27:28](https://news.ycombinator.com/item?id=36903103) - [Interview with Yael Tauman Kalai, a cryptographer at Microsoft](https://www.quantamagazine.org/the-cryptographer-who-ensures-we-can-trust-our-computers-20230727/)
 * [2023-07-28, 01:04:30](https://news.ycombinator.com/item?id=36902050) - [USC Optical Sound Effects Library](https://archive.org/details/usc-sound-effect-archive?tab=collection)
 * [2023-07-27, 22:06:37](https://news.ycombinator.com/item?id=36900782) - [List of APIs that require declared reasons](https://developer.apple.com/news/?id=z6fu1dcu)
+* [2023-07-27, 21:25:39](https://news.ycombinator.com/item?id=36900370) - [The Dream of the Personal Machine](https://kylechayka.substack.com/p/the-dream-of-the-personal-machine)
 
 ## [Archives](archives/index.md)
 
