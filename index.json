@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-07-29, 04:01:29",
+      "https://news.ycombinator.com/item?id=36916762"
+    ],
+    [
+      "Llama 32K Context Released by Together AI",
+      "https://together.ai/blog/llama-2-7b-32k"
+    ]
+  ],
+  [
+    [
       "2023-07-29, 02:45:06",
       "https://news.ycombinator.com/item?id=36916297"
     ],
@@ -67,6 +77,16 @@
     [
       "F# RISC-V Instruction Set formal specification",
       "https://github.com/mrLSD/riscv-fs"
+    ]
+  ],
+  [
+    [
+      "2023-07-28, 23:09:17",
+      "https://news.ycombinator.com/item?id=36914612"
+    ],
+    [
+      "SQLite-Utils",
+      "https://sqlite-utils.datasette.io/en/stable/index.html"
     ]
   ],
   [
@@ -151,6 +171,16 @@
   ],
   [
     [
+      "2023-07-28, 18:45:12",
+      "https://news.ycombinator.com/item?id=36911361"
+    ],
+    [
+      "Free prison phone calls boost family ties, rehabilitation",
+      "https://www.latimes.com/politics/story/2023-07-27/free-calls-restore-inmates-ties-with-the-outside-can-they-reform-californias-prisons-too"
+    ]
+  ],
+  [
+    [
       "2023-07-28, 16:49:18",
       "https://news.ycombinator.com/item?id=36909673"
     ],
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2023-07-28, 15:43:56",
-      "https://news.ycombinator.com/item?id=36908574"
-    ],
-    [
-      "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-      "https://news.ycombinator.com/item?id=36908574"
-    ]
-  ],
-  [
-    [
       "2023-07-28, 15:28:04",
       "https://news.ycombinator.com/item?id=36908309"
     ],
     [
       "Cap'n Proto 1.0",
       "https://capnproto.org/news/2023-07-28-capnproto-1.0.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-28, 15:25:59",
-      "https://news.ycombinator.com/item?id=36908265"
-    ],
-    [
-      "Flash Museum",
-      "https://flashmuseum.org/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "System Design for Recommendations and Search",
       "https://eugeneyan.com/writing/system-design-for-discovery/"
-    ]
-  ],
-  [
-    [
-      "2023-07-28, 07:10:38",
-      "https://news.ycombinator.com/item?id=36903862"
-    ],
-    [
-      "Pyro: A universal, probablistic programming language",
-      "https://pyro.ai/"
     ]
   ],
   [
