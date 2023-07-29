@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-29, 14:36:36](https://news.ycombinator.com/item?id=36920731) - [South Africa’s blackouts are driving a solar boom](https://www.semafor.com/article/07/28/2023/why-solar-power-is-booming-in-south-africa)
 * [2023-07-29, 13:59:50](https://news.ycombinator.com/item?id=36920387) - [Enjoy Alcohol, Without the Hangover](https://www.wsj.com/articles/synthetic-alcohol-no-hangover-511fc418)
 * [2023-07-29, 13:17:09](https://news.ycombinator.com/item?id=36920010) - [Cyberdecks (2013)](https://blog.rfox.eu/en/Hardware/Cyberdecks.html)
 * [2023-07-29, 13:14:34](https://news.ycombinator.com/item?id=36919988) - [Germany's auto industry: suppliers' confidence waning](https://www.dw.com/en/germanys-auto-industry-suppliers-confidence-waning/a-66368932)
@@ -23,7 +24,6 @@
 * [2023-07-28, 20:48:28](https://news.ycombinator.com/item?id=36913103) - [Wordward Draw](https://managore.itch.io/wordward-draw)
 * [2023-07-28, 16:33:51](https://news.ycombinator.com/item?id=36909427) - [Why is DNS still hard to learn?](https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/)
 * [2023-07-28, 15:28:04](https://news.ycombinator.com/item?id=36908309) - [Cap'n Proto 1.0](https://capnproto.org/news/2023-07-28-capnproto-1.0.html)
-* [2023-07-28, 12:54:23](https://news.ycombinator.com/item?id=36906085) - [Threads users down by more than a half](https://www.bbc.com/news/technology-66336058)
 * [2023-07-28, 10:11:00](https://news.ycombinator.com/item?id=36904892) - [Why is c the symbol for the speed of light? (1997)](https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html)
 * [2023-07-28, 07:53:25](https://news.ycombinator.com/item?id=36904112) - [Iridis Alpha Theory: The Making of a C64 Classic](https://iridisalpha.com/)
 * [2023-07-28, 00:19:36](https://news.ycombinator.com/item?id=36901802) - [Focus bracketing on iPhone for greater depth of field (2020)](https://camerapixels.app/2020/05/01/focus-stacking-for-macro-photography-using-adobe-photoshop/)
