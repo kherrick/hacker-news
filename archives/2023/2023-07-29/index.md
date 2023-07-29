@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-07-29](index.md)
 
+* [2023-07-29, 16:15:45](https://news.ycombinator.com/item?id=36921675) - [The World’s Largest Wind Turbine Has Been Switched On](https://www.iflscience.com/the-worlds-largest-wind-turbine-has-been-switched-on-70047)
+* [2023-07-29, 16:09:25](https://news.ycombinator.com/item?id=36921602) - [Apple’s Parental Controls Are Broken](https://www.wsj.com/articles/apples-parental-controls-are-broken-55a2aa52)
 * [2023-07-29, 16:01:55](https://news.ycombinator.com/item?id=36921530) - [CDC Finds Coronavirus and Other Infectious Agents in Unlicensed California Lab](https://news.yahoo.com/cdc-finds-coronavirus-other-infectious-154500690.html)
 * [2023-07-29, 15:12:16](https://news.ycombinator.com/item?id=36921038) - [HuggingFace Text Generation License No Longer Open-Source](https://github.com/huggingface/text-generation-inference/issues/726)
 * [2023-07-29, 15:11:23](https://news.ycombinator.com/item?id=36921032) - [Automatic Music Playlist Generation via Simulation-Based Reinforcement Learning](https://research.atspotify.com/2023/07/automatic-music-playlist-generation-via-simulation-based-reinforcement-learning/)
 * [2023-07-29, 15:06:42](https://news.ycombinator.com/item?id=36920987) - [The Rise of AI Girlfriends](https://innovationnation.blog/p/the-rise-of-ai-girlfriends)
 * [2023-07-29, 14:43:29](https://news.ycombinator.com/item?id=36920793) - [How DNS Works (2015)](https://howdns.works/ep1/)
 * [2023-07-29, 14:36:36](https://news.ycombinator.com/item?id=36920731) - [South Africa’s blackouts are driving a solar boom](https://www.semafor.com/article/07/28/2023/why-solar-power-is-booming-in-south-africa)
+* [2023-07-29, 14:25:03](https://news.ycombinator.com/item?id=36920622) - [If we want a shift to walking we need to prioritize dignity](https://www.strongtowns.org/journal/2023/7/28/if-we-want-a-shift-to-walking-we-need-to-prioritize-dignity)
 * [2023-07-29, 14:18:29](https://news.ycombinator.com/item?id=36920566) - [How critical theory is radicalizing high school debate](https://www.slowboring.com/p/how-critical-theory-is-radicalizing)
 * [2023-07-29, 14:17:49](https://news.ycombinator.com/item?id=36920559) - [Not paying electricity for an entire year with Tesla Solar Roof [video]](https://www.youtube.com/watch?v=UJeSWbR6W04)
 * [2023-07-29, 13:59:50](https://news.ycombinator.com/item?id=36920387) - [Enjoy Alcohol, Without the Hangover](https://www.wsj.com/articles/synthetic-alcohol-no-hangover-511fc418)
