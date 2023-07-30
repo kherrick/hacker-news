@@ -81,6 +81,7 @@
 * [2023-07-29, 07:29:30](https://news.ycombinator.com/item?id=36917802) - [Larne Craigyhill bonfire: 17000 pallets](https://www.belfastlive.co.uk/news/larne-craigyhill-bonfire-more-17000-20989400)
 * [2023-07-29, 07:26:10](https://news.ycombinator.com/item?id=36917782) - [Counting License Plates](https://www.alexmolas.com/2023/07/01/counting-license-plates.html)
 * [2023-07-29, 07:13:46](https://news.ycombinator.com/item?id=36917719) - [Solar Powered Conways Game of Life](https://davidhampgonsalves.com/solar-powered-conways-game-of-life/)
+* [2023-07-29, 06:49:18](https://news.ycombinator.com/item?id=36917596) - [St Francis of Assisi](https://www.lrb.co.uk/the-paper/v45/n15/mary-wellesley/at-the-national-gallery)
 * [2023-07-29, 06:41:24](https://news.ycombinator.com/item?id=36917561) - [Hugging Face, GitHub and more unite to defend open source in EU AI legislation](https://venturebeat.com/ai/hugging-face-github-and-more-unite-to-defend-open-source-in-eu-ai-legislation/)
 * [2023-07-29, 06:39:54](https://news.ycombinator.com/item?id=36917552) - [Code Duello: The Rules of Dueling](https://www.pbs.org/wgbh/americanexperience/features/duel-code-duello-rules-dueling/)
 * [2023-07-29, 06:22:08](https://news.ycombinator.com/item?id=36917466) - [Computer Scientists Discover Limits of Gradient Descent](https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/)

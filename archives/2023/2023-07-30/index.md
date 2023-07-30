@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
+* [2023-07-30, 12:57:30](https://news.ycombinator.com/item?id=36930707) - [Ask HN: Room temperature superconductor: what to expect?](https://news.ycombinator.com/item?id=36930707)
 * [2023-07-30, 12:03:46](https://news.ycombinator.com/item?id=36930321) - [New insights into the origin of the Indo-European languages](https://www.mpg.de/20666229/0725-evan-origin-of-the-indo-european-languages-150495-x)
 * [2023-07-30, 11:05:41](https://news.ycombinator.com/item?id=36929938) - [Limitless white hydrogen under our feet may soon shatter all energy assumptions](https://www.telegraph.co.uk/business/2023/07/13/white-hydrogen-disrupt-global-energy-net-zero/)
 * [2023-07-30, 09:47:57](https://news.ycombinator.com/item?id=36929514) - [Emacs 29.1 Released](https://emacsredux.com/blog/2023/07/30/emacs-29-1-released/)
