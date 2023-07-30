@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-30, 16:24:59](https://news.ycombinator.com/item?id=36932875) - [Brexit Could Be Reversed - Here's How](https://www.ft.com/content/0d195d46-b348-4325-824f-c33889bb2cc0)
 * [2023-07-30, 15:54:35](https://news.ycombinator.com/item?id=36932537) - [An Introduction to APIs](https://zapier.com/resources/guides/apis)
 * [2023-07-30, 15:53:36](https://news.ycombinator.com/item?id=36932524) - [I feel hopeless, rejected, and a burden on society-one week of empathy training](https://shkspr.mobi/blog/2019/07/i-feel-hopeless-rejected-and-a-burden-on-society-one-week-of-empathy-training/)
+* [2023-07-30, 15:52:47](https://news.ycombinator.com/item?id=36932511) - [Credit card fee fight pits payment companies against retailers](https://www.cnbc.com/2023/07/30/credit-card-fee-fight-pits-payment-companies-against-retailers.html)
 * [2023-07-30, 15:22:32](https://news.ycombinator.com/item?id=36932119) - [The Secretive World of Penile Enlargement](https://www.propublica.org/article/penis-enlargement-enhancement-procedures-implants)
 * [2023-07-30, 14:59:40](https://news.ycombinator.com/item?id=36931806) - [Worldcoin: A solution in search of its problem](https://newsletter.mollywhite.net/p/worldcoin-a-solution-in-search-of)
 * [2023-07-30, 14:35:31](https://news.ycombinator.com/item?id=36931545) - [AMD Ryzen 8000 Strix Point APUs Utilize 12-Core Zen 5 and Zen 5C Hybrid Config](https://wccftech.com/amd-ryzen-8000-strix-point-apus-utilize-12-core-zen-5-zen-5c-hybrid-config-strix-halo-with-16-core-chiplet-design/)
@@ -22,14 +24,12 @@
 * [2023-07-29, 14:41:44](https://news.ycombinator.com/item?id=36920777) - [Pressure-driven distillation for fast and selective water purification](https://techxplore.com/news/2023-07-pressure-driven-distillation-fast-purification.html)
 * [2023-07-29, 10:36:00](https://news.ycombinator.com/item?id=36918798) - [Satellite guided to assisted crash in Atlantic in world first](https://www.theguardian.com/science/2023/jul/28/british-satellite-guided-to-assisted-crash-in-atlantic-in-space-first)
 * [2023-07-29, 06:49:18](https://news.ycombinator.com/item?id=36917596) - [St Francis of Assisi](https://www.lrb.co.uk/the-paper/v45/n15/mary-wellesley/at-the-national-gallery)
-* [2023-07-29, 06:39:54](https://news.ycombinator.com/item?id=36917552) - [Code Duello: The Rules of Dueling (1963)](https://www.pbs.org/wgbh/americanexperience/features/duel-code-duello-rules-dueling/)
 * [2023-07-29, 06:22:08](https://news.ycombinator.com/item?id=36917466) - [Computer scientists discover limits of gradient descent (2021)](https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/)
 * [2023-07-29, 05:43:31](https://news.ycombinator.com/item?id=36917293) - [Bead Patterns](https://buegelperlenvorlagen.ch/overview)
 * [2023-07-29, 04:36:26](https://news.ycombinator.com/item?id=36916982) - [Blue iceberg](https://en.wikipedia.org/wiki/Blue_iceberg)
 * [2023-07-28, 20:31:10](https://news.ycombinator.com/item?id=36912880) - [How to find a street in 2 minutes [video]](https://www.youtube.com/watch?v=rl2Q9xH8e7M)
 * [2023-07-28, 11:13:20](https://news.ycombinator.com/item?id=36905267) - [Forced rhubarb, a vegetable deprived of sunlight, is having a renaissance (2019)](https://www.bbc.com/travel/article/20190424-the-english-vegetable-picked-by-candlelight)
 * [2023-07-28, 04:54:43](https://news.ycombinator.com/item?id=36903220) - [Why doctors hate their computers (2018)](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
-* [2023-07-28, 04:12:26](https://news.ycombinator.com/item?id=36903042) - [Hands-On Mapping: The Story of a Blind Cartographer (2021)](https://disability.stanford.edu/news/hands-mapping-story-blind-cartographer)
 
 ## [Archives](archives/index.md)
 

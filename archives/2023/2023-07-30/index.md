@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
+* [2023-07-30, 16:24:59](https://news.ycombinator.com/item?id=36932875) - [Brexit Could Be Reversed - Here's How](https://www.ft.com/content/0d195d46-b348-4325-824f-c33889bb2cc0)
 * [2023-07-30, 15:54:35](https://news.ycombinator.com/item?id=36932537) - [An Introduction to APIs](https://zapier.com/resources/guides/apis)
 * [2023-07-30, 15:53:36](https://news.ycombinator.com/item?id=36932524) - [I feel hopeless, rejected, and a burden on society-one week of empathy training](https://shkspr.mobi/blog/2019/07/i-feel-hopeless-rejected-and-a-burden-on-society-one-week-of-empathy-training/)
+* [2023-07-30, 15:52:47](https://news.ycombinator.com/item?id=36932511) - [Credit card fee fight pits payment companies against retailers](https://www.cnbc.com/2023/07/30/credit-card-fee-fight-pits-payment-companies-against-retailers.html)
 * [2023-07-30, 15:22:32](https://news.ycombinator.com/item?id=36932119) - [The Secretive World of Penile Enlargement](https://www.propublica.org/article/penis-enlargement-enhancement-procedures-implants)
 * [2023-07-30, 15:17:21](https://news.ycombinator.com/item?id=36932044) - [Why has Britain become so poor?](https://www.thetimes.co.uk/article/why-has-britain-become-so-poor-lw22lhvkh)
 * [2023-07-30, 14:59:40](https://news.ycombinator.com/item?id=36931806) - [Worldcoin: A solution in search of its problem](https://newsletter.mollywhite.net/p/worldcoin-a-solution-in-search-of)
