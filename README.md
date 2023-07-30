@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-30, 22:41:06](https://news.ycombinator.com/item?id=36936735) - [Greed and Excess Drive the Climate Crisis, So Why Aren’t They Being Questioned?](https://www.transformatise.com/2023/07/greed-and-excess-drive-the-climate-crisis-so-why-arent-they-being-questioned/)
 * [2023-07-30, 22:07:35](https://news.ycombinator.com/item?id=36936498) - [Microbial Odor Profile of Polyester and Cotton Clothes After a Fitness Session](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4249026/)
-* [2023-07-30, 20:53:28](https://news.ycombinator.com/item?id=36935843) - [The Right to Lie and Google’s “Web Environment Integrity”](https://rants.org/2023/07/the-right-to-lie-and-google-wei/)
+* [2023-07-30, 21:41:59](https://news.ycombinator.com/item?id=36936302) - [How to not get rejected from YC's Early AI interview batch](https://hermitian.substack.com/p/how-to-not-get-rejected-from-ycs)
 * [2023-07-30, 20:01:13](https://news.ycombinator.com/item?id=36935315) - [Regular use of Vitamin D supplement is associated with fewer melanoma cases](https://pubmed.ncbi.nlm.nih.gov/36580363/)
 * [2023-07-30, 19:57:17](https://news.ycombinator.com/item?id=36935281) - [HFS Origins: The Turbo File System (2017)](https://macgui.com/news/article.php?t=443)
 * [2023-07-30, 19:34:32](https://news.ycombinator.com/item?id=36935055) - [Documentation as Code for Cloud Using PlantUML](https://blog.dornea.nu/2023/07/30/documentation-as-code-for-cloud-plantuml/)
@@ -21,6 +20,7 @@
 * [2023-07-30, 16:55:30](https://news.ycombinator.com/item?id=36933209) - [Feynman's Messenger Lectures (1964)](https://www.feynmanlectures.caltech.edu/messenger.html)
 * [2023-07-30, 16:39:16](https://news.ycombinator.com/item?id=36933028) - [Musl 1.2.4 adds TCP DNS fallback](https://www.openwall.com/lists/musl/2023/05/02/1)
 * [2023-07-30, 15:54:35](https://news.ycombinator.com/item?id=36932537) - [An Introduction to APIs](https://zapier.com/resources/guides/apis)
+* [2023-07-30, 15:53:46](https://news.ycombinator.com/item?id=36932526) - [The Power of Weeds to End Hunger in an Uncertain Climate](https://worldsensorium.com/the-power-of-weeds-to-end-hunger-in-an-uncertain-climate/)
 * [2023-07-30, 13:06:22](https://news.ycombinator.com/item?id=36930795) - [A dive into the AMD driver workflow](https://geohot.github.io//blog/jekyll/update/2023/06/07/a-dive-into-amds-drivers.html)
 * [2023-07-30, 12:03:46](https://news.ycombinator.com/item?id=36930321) - [New insights into the origin of the Indo-European languages](https://www.mpg.de/20666229/0725-evan-origin-of-the-indo-european-languages-150495-x)
 * [2023-07-30, 09:44:14](https://news.ycombinator.com/item?id=36929499) - [Ffmprovisr – Making FFmpeg Easier](https://amiaopensource.github.io/ffmprovisr/)
