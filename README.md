@@ -8,7 +8,6 @@
 * [2023-07-30, 06:45:15](https://news.ycombinator.com/item?id=36928529) - [Fighting for the open web [image]](https://www.davidrevoy.com/article982/fighting-for-the-open-web)
 * [2023-07-30, 06:36:19](https://news.ycombinator.com/item?id=36928485) - [Why I use the D programming language for scripting (2021)](https://opensource.com/article/21/1/d-scripting)
 * [2023-07-30, 05:13:56](https://news.ycombinator.com/item?id=36928043) - [What I would do if I ran Tarsnap (2014)](https://www.kalzumeus.com/2014/04/03/fantasy-tarsnap/)
-* [2023-07-30, 04:54:22](https://news.ycombinator.com/item?id=36927940) - [Microbially produced protein that is much sweeter than sugar](https://www.nature.com/articles/s41587-023-01865-x)
 * [2023-07-30, 04:02:32](https://news.ycombinator.com/item?id=36927695) - [Welcome to Wikifunctions](https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page)
 * [2023-07-30, 03:46:13](https://news.ycombinator.com/item?id=36927624) - [Unsafe deserialization vulnerability in many Minecraft mods](https://github.com/dogboy21/serializationisbad)
 * [2023-07-30, 00:59:52](https://news.ycombinator.com/item?id=36926569) - [Snowflake](https://snowflake.torproject.org/)
@@ -30,6 +29,7 @@
 * [2023-07-28, 15:31:07](https://news.ycombinator.com/item?id=36908369) - [The bigger the interface, the weaker the abstraction](https://functionallyimperative.com/p/the-bigger-the-interface-the-weaker)
 * [2023-07-28, 11:13:20](https://news.ycombinator.com/item?id=36905267) - [Forced rhubarb, a vegetable deprived of sunlight, is having a renaissance (2019)](https://www.bbc.com/travel/article/20190424-the-english-vegetable-picked-by-candlelight)
 * [2023-07-28, 04:54:43](https://news.ycombinator.com/item?id=36903220) - [Why doctors hate their computers (2018)](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
+* [2023-07-28, 04:12:26](https://news.ycombinator.com/item?id=36903042) - [Hands-On Mapping: The Story of a Blind Cartographer (2021)](https://disability.stanford.edu/news/hands-mapping-story-blind-cartographer)
 
 ## [Archives](archives/index.md)
 
