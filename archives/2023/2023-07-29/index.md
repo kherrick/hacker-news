@@ -20,6 +20,7 @@
 * [2023-07-29, 19:21:55](https://news.ycombinator.com/item?id=36923562) - [The Transformer Blueprint](https://deeprevision.github.io/posts/001-transformer/)
 * [2023-07-29, 19:20:36](https://news.ycombinator.com/item?id=36923550) - ['Phantom' A-bomb film 'Hiroshima,' with 88,000 extras, set for July 30](https://mainichi.jp/english/articles/20230729/p2a/00m/0et/006000c)
 * [2023-07-29, 18:47:13](https://news.ycombinator.com/item?id=36923235) - [Is This an Emoji?](https://spiffy.tech/is-this-an-emoji)
+* [2023-07-29, 18:46:01](https://news.ycombinator.com/item?id=36923220) - [Dino 0.4.3 – A Modern XMPP (“Jabber”) Chat Client Using GTK+/Vala](https://github.com/dino/dino)
 * [2023-07-29, 18:45:56](https://news.ycombinator.com/item?id=36923219) - [Actors take to the internet to show their residual checks, some in the negative](https://www.npr.org/2023/07/27/1190336979/actors-strike-residuals-sag-aftra-wga)
 * [2023-07-29, 18:39:24](https://news.ycombinator.com/item?id=36923154) - [Counterterrorism internet surveillance is being retargeted at sex workers](https://theintercept.com/2023/07/29/skull-games-surveillance-sex-workers/)
 * [2023-07-29, 18:35:39](https://news.ycombinator.com/item?id=36923123) - [Utopia to blight: Surviving in Henry Ford’s lost jungle town](https://www.washingtonpost.com/world/2023/07/28/fordlandia-brazil/)
