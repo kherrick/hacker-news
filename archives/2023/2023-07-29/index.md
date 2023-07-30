@@ -102,4 +102,5 @@
 * [2023-07-29, 02:36:03](https://news.ycombinator.com/item?id=36916254) - [Argonne National Lab is attempting to replicate LK-99](https://www.science.org/content/article/spectacular-superconductor-claim-making-news-here-s-why-experts-are-doubtful)
 * [2023-07-29, 02:24:51](https://news.ycombinator.com/item?id=36916182) - [LPython: Novel, Fast, Retargetable Python Compiler](https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/)
 * [2023-07-29, 02:18:20](https://news.ycombinator.com/item?id=36916150) - [Plans Develop for High-Speed Rail in the PNW](https://southseattleemerald.com/2023/07/18/plans-develop-for-high-speed-rail-in-the-pnw/)
+* [2023-07-29, 01:21:36](https://news.ycombinator.com/item?id=36915751) - [Researchers reveal platform to study high-entropy alloy electrocatalysis](https://phys.org/news/2023-07-reveal-powerful-platform-high-entropy-alloy.html)
 * [2023-07-29, 00:04:17](https://news.ycombinator.com/item?id=36915108) - [RISC-V CPU formal specification F# edition](https://github.com/mrLSD/riscv-fs)
