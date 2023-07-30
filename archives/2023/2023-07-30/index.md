@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
+* [2023-07-30, 22:07:35](https://news.ycombinator.com/item?id=36936498) - [Microbial Odor Profile of Polyester and Cotton Clothes After a Fitness Session](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4249026/)
 * [2023-07-30, 20:57:12](https://news.ycombinator.com/item?id=36935887) - [Rising evidence that leprosy has become endemic in Southeastern United States](https://wwwnc.cdc.gov/eid/article/29/8/22-0367_article)
 * [2023-07-30, 20:53:28](https://news.ycombinator.com/item?id=36935843) - [The Right to Lie and Google’s “Web Environment Integrity”](https://rants.org/2023/07/the-right-to-lie-and-google-wei/)
+* [2023-07-30, 20:50:04](https://news.ycombinator.com/item?id=36935813) - [We Finally Know Why the TSA Is Cracking Down on Clear at Airport Security](https://viewfromthewing.com/why-finally-know-why-the-tsa-is-cracking-down-on-clear-at-airport-security/)
 * [2023-07-30, 20:16:18](https://news.ycombinator.com/item?id=36935480) - [SwiftUI Data Flow 2023](https://troz.net/post/2023/swiftui-data-flow-2023/)
 * [2023-07-30, 20:01:13](https://news.ycombinator.com/item?id=36935315) - [Regular use of Vitamin D supplement is associated with fewer melanoma cases](https://pubmed.ncbi.nlm.nih.gov/36580363/)
 * [2023-07-30, 19:57:17](https://news.ycombinator.com/item?id=36935281) - [HFS Origins: The Turbo File System (2017)](https://macgui.com/news/article.php?t=443)
