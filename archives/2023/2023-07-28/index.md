@@ -29,6 +29,7 @@
 * [2023-07-28, 18:36:30](https://news.ycombinator.com/item?id=36911232) - [Most of the 100M people who signed up for Threads stopped using it](https://arstechnica.com/tech-policy/2023/07/zuck-says-threads-doing-better-than-expected-despite-losing-over-half-of-users/)
 * [2023-07-28, 18:15:28](https://news.ycombinator.com/item?id=36910940) - [Din-Test Demo (2021)](https://computationalaudiology.com/din-demo/)
 * [2023-07-28, 18:14:14](https://news.ycombinator.com/item?id=36910920) - [Insights into the genetic histories and lifeways of Machu Picchu’s occupants](https://www.science.org/doi/10.1126/sciadv.adg3377)
+* [2023-07-28, 17:37:49](https://news.ycombinator.com/item?id=36910372) - [CLEAR led a flyer carrying ammo under a false name to TSA, sparking probe](https://www.bloomberg.com/news/articles/2023-07-28/man-carrying-ammo-sparks-probe-of-how-clear-cuts-airport-lines)
 * [2023-07-28, 17:28:41](https://news.ycombinator.com/item?id=36910256) - [Play Deprivation Is a Major Cause of the Teen Mental Health Crisis](https://jonathanhaidt.substack.com/p/the-play-deficit)
 * [2023-07-28, 17:27:57](https://news.ycombinator.com/item?id=36910245) - [Mark Zuckerberg: Threads users down by more than a half](https://www.bbc.co.uk/news/technology-66336058)
 * [2023-07-28, 17:20:55](https://news.ycombinator.com/item?id=36910146) - [“Web Environment Integrity” is an all-out attack on the free Internet](https://www.fsf.org/blogs/community/web-environment-integrity-is-an-all-out-attack-on-the-free-internet)

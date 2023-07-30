@@ -2,7 +2,6 @@
 
 * [2023-07-30, 22:07:35](https://news.ycombinator.com/item?id=36936498) - [Microbial Odor Profile of Polyester and Cotton Clothes After a Fitness Session](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4249026/)
 * [2023-07-30, 20:53:28](https://news.ycombinator.com/item?id=36935843) - [The Right to Lie and Google’s “Web Environment Integrity”](https://rants.org/2023/07/the-right-to-lie-and-google-wei/)
-* [2023-07-30, 20:50:04](https://news.ycombinator.com/item?id=36935813) - [We Finally Know Why the TSA Is Cracking Down on Clear at Airport Security](https://viewfromthewing.com/why-finally-know-why-the-tsa-is-cracking-down-on-clear-at-airport-security/)
 * [2023-07-30, 20:01:13](https://news.ycombinator.com/item?id=36935315) - [Regular use of Vitamin D supplement is associated with fewer melanoma cases](https://pubmed.ncbi.nlm.nih.gov/36580363/)
 * [2023-07-30, 19:57:17](https://news.ycombinator.com/item?id=36935281) - [HFS Origins: The Turbo File System (2017)](https://macgui.com/news/article.php?t=443)
 * [2023-07-30, 19:34:32](https://news.ycombinator.com/item?id=36935055) - [Documentation as Code for Cloud Using PlantUML](https://blog.dornea.nu/2023/07/30/documentation-as-code-for-cloud-plantuml/)
@@ -22,14 +21,15 @@
 * [2023-07-30, 16:39:16](https://news.ycombinator.com/item?id=36933028) - [Musl 1.2.4 adds TCP DNS fallback](https://www.openwall.com/lists/musl/2023/05/02/1)
 * [2023-07-30, 16:34:21](https://news.ycombinator.com/item?id=36932980) - [Monte Carlo Long-Range Interacting System Simulations](https://www.uni-leipzig.de/en/newsdetail/artikel/breakthrough-in-monte-carlo-computer-simulations-2023-07-26)
 * [2023-07-30, 15:54:35](https://news.ycombinator.com/item?id=36932537) - [An Introduction to APIs](https://zapier.com/resources/guides/apis)
+* [2023-07-30, 15:53:46](https://news.ycombinator.com/item?id=36932526) - [The Power of Weeds to End Hunger in an Uncertain Climate](https://worldsensorium.com/the-power-of-weeds-to-end-hunger-in-an-uncertain-climate/)
 * [2023-07-30, 13:06:22](https://news.ycombinator.com/item?id=36930795) - [A dive into the AMD driver workflow](https://geohot.github.io//blog/jekyll/update/2023/06/07/a-dive-into-amds-drivers.html)
 * [2023-07-30, 12:03:46](https://news.ycombinator.com/item?id=36930321) - [New insights into the origin of the Indo-European languages](https://www.mpg.de/20666229/0725-evan-origin-of-the-indo-european-languages-150495-x)
 * [2023-07-30, 09:44:14](https://news.ycombinator.com/item?id=36929499) - [Ffmprovisr – Making FFmpeg Easier](https://amiaopensource.github.io/ffmprovisr/)
-* [2023-07-30, 04:48:32](https://news.ycombinator.com/item?id=36927902) - [One Can Scarcely Help Clarifying Him: On the Brothers Karamazov](https://www.laphamsquarterly.org/roundtable/one-can-scarcely-help-clarifying-him)
 * [2023-07-30, 04:17:41](https://news.ycombinator.com/item?id=36927760) - [Simone de Beauvoir and the art of loss](https://www.newstatesman.com/culture/books/2023/07/simone-de-beauvoir-art-of-loss-ali-smith)
 * [2023-07-29, 03:19:36](https://news.ycombinator.com/item?id=36916530) - [Tetris Max 2.9.1 and Macintosh System 6.0.8 Bugs](https://www.bigmessowires.com/2023/07/28/tetris-max-2-9-1-and-macintosh-system-6-0-8-bugs/)
 * [2023-07-28, 20:31:10](https://news.ycombinator.com/item?id=36912880) - [How to find a street in 2 minutes [video]](https://www.youtube.com/watch?v=rl2Q9xH8e7M)
 * [2023-07-28, 18:14:14](https://news.ycombinator.com/item?id=36910920) - [Insights into the genetic histories and lifeways of Machu Picchu’s occupants](https://www.science.org/doi/10.1126/sciadv.adg3377)
+* [2023-07-28, 17:37:49](https://news.ycombinator.com/item?id=36910372) - [CLEAR led a flyer carrying ammo under a false name to TSA, sparking probe](https://www.bloomberg.com/news/articles/2023-07-28/man-carrying-ammo-sparks-probe-of-how-clear-cuts-airport-lines)
 
 ## [Archives](archives/index.md)
 
