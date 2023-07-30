@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
+* [2023-07-30, 06:18:49](https://news.ycombinator.com/item?id=36928401) - [The X.org Project](https://www.x.org/wiki/)
 * [2023-07-30, 04:59:49](https://news.ycombinator.com/item?id=36927971) - [Comma.ai Launches Comma 3X](https://www.comma.ai/)
 * [2023-07-30, 04:54:22](https://news.ycombinator.com/item?id=36927940) - [So sweet, no spike: microbially produced protein 3k times sweeter than sugar](https://www.nature.com/articles/s41587-023-01865-x)
 * [2023-07-30, 04:16:27](https://news.ycombinator.com/item?id=36927756) - [SGI Octane: What can a $30k computer from the 90s do?](https://www.youtube.com/watch?v=gVyCjweagJM)

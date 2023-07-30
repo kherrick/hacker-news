@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-30, 06:18:49](https://news.ycombinator.com/item?id=36928401) - [The X.org Project](https://www.x.org/wiki/)
 * [2023-07-30, 04:59:49](https://news.ycombinator.com/item?id=36927971) - [Comma.ai Launches Comma 3X](https://www.comma.ai/)
-* [2023-07-30, 04:54:22](https://news.ycombinator.com/item?id=36927940) - [So sweet, no spike: microbially produced protein 3k times sweeter than sugar](https://www.nature.com/articles/s41587-023-01865-x)
+* [2023-07-30, 04:54:22](https://news.ycombinator.com/item?id=36927940) - [Microbially produced protein that is much sweeter than sugar](https://www.nature.com/articles/s41587-023-01865-x)
 * [2023-07-30, 04:10:58](https://news.ycombinator.com/item?id=36927727) - [One in five Texans lives in a floodplain, state’s first-ever analysis shows](https://www.texastribune.org/2023/07/28/texas-floodplain-water-development-board-flood-plan/)
 * [2023-07-30, 04:02:32](https://news.ycombinator.com/item?id=36927695) - [Wikifunctions](https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page)
 * [2023-07-30, 03:52:15](https://news.ycombinator.com/item?id=36927648) - [Free database of 4,000+ AI tools](https://gpte.ai/)
@@ -24,7 +25,6 @@
 * [2023-07-29, 16:28:01](https://news.ycombinator.com/item?id=36921808) - [Universal and transferable adversarial attacks on aligned language models](https://llm-attacks.org/zou2023universal.pdf)
 * [2023-07-29, 16:04:15](https://news.ycombinator.com/item?id=36921552) - [Gzip beats BERT? Part 2: dataset issues, improved speed, and results](https://kenschutte.com/gzip-knn-paper2/)
 * [2023-07-29, 15:54:51](https://news.ycombinator.com/item?id=36921446) - [Functions are vectors](https://thenumb.at/Functions-are-Vectors/)
-* [2023-07-29, 13:59:50](https://news.ycombinator.com/item?id=36920387) - [Alcohol without the hangover – scientists are finding ways](https://www.wsj.com/articles/synthetic-alcohol-no-hangover-511fc418)
 * [2023-07-29, 06:39:54](https://news.ycombinator.com/item?id=36917552) - [Code Duello: The Rules of Dueling](https://www.pbs.org/wgbh/americanexperience/features/duel-code-duello-rules-dueling/)
 * [2023-07-29, 04:36:26](https://news.ycombinator.com/item?id=36916982) - [Blue iceberg](https://en.wikipedia.org/wiki/Blue_iceberg)
 * [2023-07-28, 15:31:07](https://news.ycombinator.com/item?id=36908369) - [The bigger the interface, the weaker the abstraction](https://functionallyimperative.com/p/the-bigger-the-interface-the-weaker)
