@@ -20,6 +20,7 @@
 * [2023-07-28, 21:01:14](https://news.ycombinator.com/item?id=36913263) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Engineers](https://news.ycombinator.com/item?id=36913263)
 * [2023-07-28, 20:48:28](https://news.ycombinator.com/item?id=36913103) - [Wordward Draw](https://managore.itch.io/wordward-draw)
 * [2023-07-28, 20:38:26](https://news.ycombinator.com/item?id=36912979) - [Real-Time Monitoring of Aerosols Generated from Toilet Flushing](https://www.microbiologyresearch.org/content/journal/acmi/10.1099/acmi.fis2019.po0192)
+* [2023-07-28, 20:31:10](https://news.ycombinator.com/item?id=36912880) - [How to find a street in 2 minutes [video]](https://www.youtube.com/watch?v=rl2Q9xH8e7M)
 * [2023-07-28, 20:30:06](https://news.ycombinator.com/item?id=36912861) - [The Fenland Black Oak Project](https://www.thefenlandblackoakproject.co.uk/our-story)
 * [2023-07-28, 20:26:24](https://news.ycombinator.com/item?id=36912820) - [New Word Order](https://www.monkeon.co.uk/new-word-order/)
 * [2023-07-28, 19:22:10](https://news.ycombinator.com/item?id=36911923) - [The Lonely Work of Moderating Hacker News (2019)](https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news)
