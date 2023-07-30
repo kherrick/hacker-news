@@ -79,6 +79,7 @@
 * [2023-07-29, 07:26:10](https://news.ycombinator.com/item?id=36917782) - [Counting License Plates](https://www.alexmolas.com/2023/07/01/counting-license-plates.html)
 * [2023-07-29, 07:13:46](https://news.ycombinator.com/item?id=36917719) - [Solar Powered Conways Game of Life](https://davidhampgonsalves.com/solar-powered-conways-game-of-life/)
 * [2023-07-29, 06:41:24](https://news.ycombinator.com/item?id=36917561) - [Hugging Face, GitHub and more unite to defend open source in EU AI legislation](https://venturebeat.com/ai/hugging-face-github-and-more-unite-to-defend-open-source-in-eu-ai-legislation/)
+* [2023-07-29, 06:39:54](https://news.ycombinator.com/item?id=36917552) - [Code Duello: The Rules of Dueling](https://www.pbs.org/wgbh/americanexperience/features/duel-code-duello-rules-dueling/)
 * [2023-07-29, 06:11:55](https://news.ycombinator.com/item?id=36917424) - [U.S. Marine Corps Antenna Handbook (1999) [pdf]](https://www.marines.mil/Portals/1/MCRP%203-40.3C%20With%20Erratum%20z.pdf)
 * [2023-07-29, 05:48:57](https://news.ycombinator.com/item?id=36917320) - [(we)bsite](https://we-b.site/)
 * [2023-07-29, 05:43:31](https://news.ycombinator.com/item?id=36917293) - [Bead Patterns](https://buegelperlenvorlagen.ch/overview)
