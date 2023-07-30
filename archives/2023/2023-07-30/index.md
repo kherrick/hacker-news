@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
+* [2023-07-30, 18:53:24](https://news.ycombinator.com/item?id=36934655) - [Show HN: WordPress, Ghost alternative at $29/Year](https://esyblog.com)
+* [2023-07-30, 18:52:22](https://news.ycombinator.com/item?id=36934647) - [The death of privacy front ends?](https://tux.pizza/posts/service2/)
+* [2023-07-30, 18:41:12](https://news.ycombinator.com/item?id=36934520) - [Logging in Ruby: (Almost) Everything You Need to Know](https://www.akshaykhot.com/logging-in-ruby/)
+* [2023-07-30, 18:32:47](https://news.ycombinator.com/item?id=36934434) - [Ethereum Launches (2015)](https://blog.ethereum.org/2015/07/30/ethereum-launches)
 * [2023-07-30, 18:28:20](https://news.ycombinator.com/item?id=36934391) - [You Are Atlas, You Hold Up the Sky](https://youareatlas.com/)
 * [2023-07-30, 18:24:33](https://news.ycombinator.com/item?id=36934350) - [Greg Rutkowski Was Removed from StableDiffusion, but AI Artists Brought Him Back](https://decrypt.co/150575/greg-rutkowski-removed-from-stable-diffusion-but-brought-back-by-ai-artists)
 * [2023-07-30, 18:06:27](https://news.ycombinator.com/item?id=36934135) - [Reasons Not to Be a Manager](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/)
