@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-30, 09:47:57](https://news.ycombinator.com/item?id=36929514) - [Emacs 29.1 Released](https://emacsredux.com/blog/2023/07/30/emacs-29-1-released/)
 * [2023-07-30, 09:44:14](https://news.ycombinator.com/item?id=36929499) - [Ffmprovisr – Making FFmpeg Easier](https://amiaopensource.github.io/ffmprovisr/)
 * [2023-07-30, 09:23:54](https://news.ycombinator.com/item?id=36929386) - [“We are not cheating” (YH Kwon superconductor comments)](https://twitter.com/8teAPi/status/1685294623449874432)
 * [2023-07-30, 09:14:00](https://news.ycombinator.com/item?id=36929335) - [How the Rich Reap Huge Tax Breaks From Private Nonprofits](https://www.propublica.org/article/how-private-nonprofits-ultrawealthy-tax-deductions-museums-foundation-art)
@@ -10,7 +11,6 @@
 * [2023-07-30, 06:36:19](https://news.ycombinator.com/item?id=36928485) - [Why I use the D programming language for scripting (2021)](https://opensource.com/article/21/1/d-scripting)
 * [2023-07-30, 05:13:56](https://news.ycombinator.com/item?id=36928043) - [What I would do if I ran Tarsnap (2014)](https://www.kalzumeus.com/2014/04/03/fantasy-tarsnap/)
 * [2023-07-30, 04:02:32](https://news.ycombinator.com/item?id=36927695) - [Welcome to Wikifunctions](https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page)
-* [2023-07-30, 03:46:13](https://news.ycombinator.com/item?id=36927624) - [Unsafe deserialization vulnerability in many Minecraft mods](https://github.com/dogboy21/serializationisbad)
 * [2023-07-30, 00:59:52](https://news.ycombinator.com/item?id=36926569) - [Snowflake](https://snowflake.torproject.org/)
 * [2023-07-30, 00:07:13](https://news.ycombinator.com/item?id=36926228) - [ASML EUV lithography machine could keep Moore’s Law on track](https://spectrum.ieee.org/high-na-euv)
 * [2023-07-29, 23:58:21](https://news.ycombinator.com/item?id=36926165) - [Button Pushes You (2022)](https://despens.systems/2022/06/button-pushes-you/)

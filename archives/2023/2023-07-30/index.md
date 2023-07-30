@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
+* [2023-07-30, 09:47:57](https://news.ycombinator.com/item?id=36929514) - [Emacs 29.1 Released](https://emacsredux.com/blog/2023/07/30/emacs-29-1-released/)
 * [2023-07-30, 09:44:14](https://news.ycombinator.com/item?id=36929499) - [Ffmprovisr – Making FFmpeg Easier](https://amiaopensource.github.io/ffmprovisr/)
 * [2023-07-30, 09:23:54](https://news.ycombinator.com/item?id=36929386) - [“We are not cheating” (YH Kwon superconductor comments)](https://twitter.com/8teAPi/status/1685294623449874432)
 * [2023-07-30, 09:14:00](https://news.ycombinator.com/item?id=36929335) - [How the Rich Reap Huge Tax Breaks From Private Nonprofits](https://www.propublica.org/article/how-private-nonprofits-ultrawealthy-tax-deductions-museums-foundation-art)
