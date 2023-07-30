@@ -9,6 +9,7 @@
 * [2023-07-30, 18:06:27](https://news.ycombinator.com/item?id=36934135) - [Reasons Not to Be a Manager](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/)
 * [2023-07-30, 17:59:13](https://news.ycombinator.com/item?id=36934052) - [The Reluctant Sysadmin's Guide to Securing a Linux Server](https://pboyd.io/posts/securing-a-linux-vm/)
 * [2023-07-30, 17:57:29](https://news.ycombinator.com/item?id=36934029) - [Linux Air Combat: free, lightweight and open-source combat flight simulator](https://askmisterwizard.com/2019/LinuxAirCombat/LinuxAirCombat.htm)
+* [2023-07-30, 17:30:40](https://news.ycombinator.com/item?id=36933665) - [Nvidia DGX GH200 Whitepaper](https://resources.nvidia.com/en-us-dgx-gh200/technical-white-paper)
 * [2023-07-30, 17:25:24](https://news.ycombinator.com/item?id=36933603) - [Show HN: San Francisco Compute – 512 H100s at <$2/hr for research and startups](https://sfcompute.org/)
 * [2023-07-30, 17:14:22](https://news.ycombinator.com/item?id=36933452) - [Show HN: Khoj – Chat Offline with Your Second Brain Using Llama 2](https://github.com/khoj-ai/khoj)
 * [2023-07-30, 17:06:14](https://news.ycombinator.com/item?id=36933345) - [Workarounds for C11 _Generic()](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/c11-generic/)
