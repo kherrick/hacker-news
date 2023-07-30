@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
 * [2023-07-30, 14:16:55](https://news.ycombinator.com/item?id=36931344) - [X to Close – The origins of the use of [x] in UI design. (2014)](https://medium.com/re-form/x-to-close-417936dfc0dc)
+* [2023-07-30, 14:14:04](https://news.ycombinator.com/item?id=36931316) - [Uh, guys, we should think about spending more on defense in the US](https://www.noahpinion.blog/p/uh-guys-we-really-should-think-about)
 * [2023-07-30, 13:49:53](https://news.ycombinator.com/item?id=36931129) - [The Long History of Nobody Wants to Work Anymore](https://mstdn.ca/@paulisci/110798058470040619)
 * [2023-07-30, 13:06:22](https://news.ycombinator.com/item?id=36930795) - [A dive into the AMD driver workflow](https://geohot.github.io//blog/jekyll/update/2023/06/07/a-dive-into-amds-drivers.html)
 * [2023-07-30, 12:57:30](https://news.ycombinator.com/item?id=36930707) - [Ask HN: Room temperature superconductor: what to expect?](https://news.ycombinator.com/item?id=36930707)

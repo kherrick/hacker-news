@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-30, 14:16:55](https://news.ycombinator.com/item?id=36931344) - [X to Close – The origins of the use of [x] in UI design. (2014)](https://medium.com/re-form/x-to-close-417936dfc0dc)
+* [2023-07-30, 14:14:04](https://news.ycombinator.com/item?id=36931316) - [Uh, guys, we should think about spending more on defense in the US](https://www.noahpinion.blog/p/uh-guys-we-really-should-think-about)
 * [2023-07-30, 13:49:53](https://news.ycombinator.com/item?id=36931129) - [The Long History of Nobody Wants to Work Anymore](https://mstdn.ca/@paulisci/110798058470040619)
 * [2023-07-30, 13:06:22](https://news.ycombinator.com/item?id=36930795) - [A dive into the AMD driver workflow](https://geohot.github.io//blog/jekyll/update/2023/06/07/a-dive-into-amds-drivers.html)
 * [2023-07-30, 12:57:30](https://news.ycombinator.com/item?id=36930707) - [Ask HN: Room temperature superconductor: what to expect?](https://news.ycombinator.com/item?id=36930707)
@@ -19,7 +20,6 @@
 * [2023-07-29, 21:04:18](https://news.ycombinator.com/item?id=36924570) - [The Psychotherapy Myth](https://www.aporiamagazine.com/p/the-psychotherapy-myth)
 * [2023-07-29, 16:25:30](https://news.ycombinator.com/item?id=36921785) - [The Problem of Excess Genius (1997)](https://www.visakanv.com/archives/2021/02/14/the-problem-of-excess-genius-by-david-banks-1997/)
 * [2023-07-29, 14:41:44](https://news.ycombinator.com/item?id=36920777) - [Pressure-driven distillation for fast and selective water purification](https://techxplore.com/news/2023-07-pressure-driven-distillation-fast-purification.html)
-* [2023-07-29, 13:13:59](https://news.ycombinator.com/item?id=36919981) - [The Hacker's Dictionary](http://www.hackersdictionary.com/html/index.html)
 * [2023-07-29, 10:36:00](https://news.ycombinator.com/item?id=36918798) - [Satellite guided to assisted crash in Atlantic in world first](https://www.theguardian.com/science/2023/jul/28/british-satellite-guided-to-assisted-crash-in-atlantic-in-space-first)
 * [2023-07-29, 06:49:18](https://news.ycombinator.com/item?id=36917596) - [St Francis of Assisi](https://www.lrb.co.uk/the-paper/v45/n15/mary-wellesley/at-the-national-gallery)
 * [2023-07-29, 06:39:54](https://news.ycombinator.com/item?id=36917552) - [Code Duello: The Rules of Dueling (1963)](https://www.pbs.org/wgbh/americanexperience/features/duel-code-duello-rules-dueling/)
