@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-30, 18:28:20](https://news.ycombinator.com/item?id=36934391) - [You Are Atlas, You Hold Up the Sky](https://youareatlas.com/)
+* [2023-07-30, 18:24:33](https://news.ycombinator.com/item?id=36934350) - [Greg Rutkowski Was Removed from StableDiffusion, but AI Artists Brought Him Back](https://decrypt.co/150575/greg-rutkowski-removed-from-stable-diffusion-but-brought-back-by-ai-artists)
 * [2023-07-30, 18:06:27](https://news.ycombinator.com/item?id=36934135) - [Reasons Not to Be a Manager](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/)
 * [2023-07-30, 17:59:13](https://news.ycombinator.com/item?id=36934052) - [The Reluctant Sysadmin's Guide to Securing a Linux Server](https://pboyd.io/posts/securing-a-linux-vm/)
 * [2023-07-30, 17:57:29](https://news.ycombinator.com/item?id=36934029) - [Linux Air Combat: free, lightweight and open-source combat flight simulator](https://askmisterwizard.com/2019/LinuxAirCombat/LinuxAirCombat.htm)
@@ -24,7 +25,6 @@
 * [2023-07-30, 09:44:14](https://news.ycombinator.com/item?id=36929499) - [Ffmprovisr – Making FFmpeg Easier](https://amiaopensource.github.io/ffmprovisr/)
 * [2023-07-30, 08:28:00](https://news.ycombinator.com/item?id=36929090) - [Scientists may have found mechanism behind cognitive decline in aging](https://news.cuanschutz.edu/news-stories/scientists-may-have-found-mechanism-behind-cognitive-decline-in-aging)
 * [2023-07-30, 04:59:16](https://news.ycombinator.com/item?id=36927963) - [When Emo Conquered the Mainstream](https://www.newyorker.com/books/page-turner/when-emo-conquered-the-mainstream)
-* [2023-07-30, 04:02:32](https://news.ycombinator.com/item?id=36927695) - [Welcome to Wikifunctions](https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page)
 * [2023-07-29, 18:08:07](https://news.ycombinator.com/item?id=36922883) - [Is This a Branch? (2021)](https://bartwronski.com/2021/01/18/is-this-a-branch/)
 * [2023-07-29, 14:41:44](https://news.ycombinator.com/item?id=36920777) - [Pressure-driven distillation for fast and selective water purification](https://techxplore.com/news/2023-07-pressure-driven-distillation-fast-purification.html)
 * [2023-07-29, 06:49:18](https://news.ycombinator.com/item?id=36917596) - [St Francis of Assisi](https://www.lrb.co.uk/the-paper/v45/n15/mary-wellesley/at-the-national-gallery)

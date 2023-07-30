@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
 * [2023-07-30, 18:28:20](https://news.ycombinator.com/item?id=36934391) - [You Are Atlas, You Hold Up the Sky](https://youareatlas.com/)
+* [2023-07-30, 18:24:33](https://news.ycombinator.com/item?id=36934350) - [Greg Rutkowski Was Removed from StableDiffusion, but AI Artists Brought Him Back](https://decrypt.co/150575/greg-rutkowski-removed-from-stable-diffusion-but-brought-back-by-ai-artists)
 * [2023-07-30, 18:06:27](https://news.ycombinator.com/item?id=36934135) - [Reasons Not to Be a Manager](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/)
 * [2023-07-30, 17:59:13](https://news.ycombinator.com/item?id=36934052) - [The Reluctant Sysadmin's Guide to Securing a Linux Server](https://pboyd.io/posts/securing-a-linux-vm/)
 * [2023-07-30, 17:57:29](https://news.ycombinator.com/item?id=36934029) - [Linux Air Combat: free, lightweight and open-source combat flight simulator](https://askmisterwizard.com/2019/LinuxAirCombat/LinuxAirCombat.htm)
