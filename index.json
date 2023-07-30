@@ -1,6 +1,66 @@
 [
   [
     [
+      "2023-07-30, 17:00:32",
+      "https://news.ycombinator.com/item?id=36933276"
+    ],
+    [
+      "Mutable.ai (YC W22) Is Hiring Engineers",
+      "https://www.ycombinator.com/companies/mutable-ai/jobs"
+    ]
+  ],
+  [
+    [
+      "2023-07-30, 16:51:23",
+      "https://news.ycombinator.com/item?id=36933167"
+    ],
+    [
+      "Forget subtitles: YouTube now dubs videos with AI-generated voices",
+      "https://restofworld.org/2023/youtube-ai-dubbing-automated-translation/"
+    ]
+  ],
+  [
+    [
+      "2023-07-30, 16:42:58",
+      "https://news.ycombinator.com/item?id=36933065"
+    ],
+    [
+      "We bailed out the banks but we’re not prepared to bail out the planet",
+      "https://www.theguardian.com/business/2023/jul/30/we-bailed-out-the-banks-prepared-planet-state-economy-sustainable"
+    ]
+  ],
+  [
+    [
+      "2023-07-30, 16:42:43",
+      "https://news.ycombinator.com/item?id=36933062"
+    ],
+    [
+      "The shell and its crappy handling of whitespace",
+      "https://blog.plover.com/Unix/whitespace.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-30, 16:39:16",
+      "https://news.ycombinator.com/item?id=36933028"
+    ],
+    [
+      "Musl 1.2.4 adds TCP DNS fallback",
+      "https://www.openwall.com/lists/musl/2023/05/02/1"
+    ]
+  ],
+  [
+    [
+      "2023-07-30, 16:34:21",
+      "https://news.ycombinator.com/item?id=36932980"
+    ],
+    [
+      "Monte Carlo Long-Range Interacting System Simulations",
+      "https://www.uni-leipzig.de/en/newsdetail/artikel/breakthrough-in-monte-carlo-computer-simulations-2023-07-26"
+    ]
+  ],
+  [
+    [
       "2023-07-30, 16:24:59",
       "https://news.ycombinator.com/item?id=36932876"
     ],
@@ -171,16 +231,6 @@
   ],
   [
     [
-      "2023-07-30, 07:00:46",
-      "https://news.ycombinator.com/item?id=36928601"
-    ],
-    [
-      "PlayHT (YC W23) Is Hiring ML Engineers (LLMs, Generative AI)",
-      "https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models"
-    ]
-  ],
-  [
-    [
       "2023-07-30, 05:13:56",
       "https://news.ycombinator.com/item?id=36928043"
     ],
@@ -197,16 +247,6 @@
     [
       "Welcome to Wikifunctions",
       "https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page"
-    ]
-  ],
-  [
-    [
-      "2023-07-30, 00:59:52",
-      "https://news.ycombinator.com/item?id=36926569"
-    ],
-    [
-      "Snowflake",
-      "https://snowflake.torproject.org/"
     ]
   ],
   [
@@ -241,36 +281,6 @@
   ],
   [
     [
-      "2023-07-29, 06:22:08",
-      "https://news.ycombinator.com/item?id=36917466"
-    ],
-    [
-      "Computer scientists discover limits of gradient descent (2021)",
-      "https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/"
-    ]
-  ],
-  [
-    [
-      "2023-07-29, 05:43:31",
-      "https://news.ycombinator.com/item?id=36917293"
-    ],
-    [
-      "Bead Patterns",
-      "https://buegelperlenvorlagen.ch/overview"
-    ]
-  ],
-  [
-    [
-      "2023-07-29, 04:36:26",
-      "https://news.ycombinator.com/item?id=36916982"
-    ],
-    [
-      "Blue iceberg",
-      "https://en.wikipedia.org/wiki/Blue_iceberg"
-    ]
-  ],
-  [
-    [
       "2023-07-28, 20:31:10",
       "https://news.ycombinator.com/item?id=36912880"
     ],
@@ -287,16 +297,6 @@
     [
       "Forced rhubarb, a vegetable deprived of sunlight, is having a renaissance (2019)",
       "https://www.bbc.com/travel/article/20190424-the-english-vegetable-picked-by-candlelight"
-    ]
-  ],
-  [
-    [
-      "2023-07-28, 04:54:43",
-      "https://news.ycombinator.com/item?id=36903220"
-    ],
-    [
-      "Why doctors hate their computers (2018)",
-      "https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers"
     ]
   ]
 ]
