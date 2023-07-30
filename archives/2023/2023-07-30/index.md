@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
+* [2023-07-30, 07:00:46](https://news.ycombinator.com/item?id=36928601) - [PlayHT (YC W23) Is Hiring ML Engineers (LLMs, Generative AI)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
+* [2023-07-30, 06:36:19](https://news.ycombinator.com/item?id=36928485) - [Why I use the D programming language for scripting](https://opensource.com/article/21/1/d-scripting)
 * [2023-07-30, 06:18:49](https://news.ycombinator.com/item?id=36928401) - [The X.org Project](https://www.x.org/wiki/)
 * [2023-07-30, 04:59:49](https://news.ycombinator.com/item?id=36927971) - [Comma.ai Launches Comma 3X](https://www.comma.ai/)
 * [2023-07-30, 04:54:22](https://news.ycombinator.com/item?id=36927940) - [So sweet, no spike: microbially produced protein 3k times sweeter than sugar](https://www.nature.com/articles/s41587-023-01865-x)
