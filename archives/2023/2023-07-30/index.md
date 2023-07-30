@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
+* [2023-07-30, 20:57:12](https://news.ycombinator.com/item?id=36935887) - [Rising evidence that leprosy has become endemic in Southeastern United States](https://wwwnc.cdc.gov/eid/article/29/8/22-0367_article)
+* [2023-07-30, 20:53:28](https://news.ycombinator.com/item?id=36935843) - [The Right to Lie and Google’s “Web Environment Integrity”](https://rants.org/2023/07/the-right-to-lie-and-google-wei/)
 * [2023-07-30, 20:16:18](https://news.ycombinator.com/item?id=36935480) - [SwiftUI Data Flow 2023](https://troz.net/post/2023/swiftui-data-flow-2023/)
 * [2023-07-30, 20:01:13](https://news.ycombinator.com/item?id=36935315) - [Regular use of Vitamin D supplement is associated with fewer melanoma cases](https://pubmed.ncbi.nlm.nih.gov/36580363/)
 * [2023-07-30, 19:57:17](https://news.ycombinator.com/item?id=36935281) - [HFS Origins: The Turbo File System (2017)](https://macgui.com/news/article.php?t=443)
