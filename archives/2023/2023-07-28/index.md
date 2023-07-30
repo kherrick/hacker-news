@@ -97,6 +97,7 @@
 * [2023-07-28, 06:30:31](https://news.ycombinator.com/item?id=36903642) - [The Dark Side of A.I.: Understanding the Dangers of Deepfake Images](https://blog.theabhishek.dev/the-dark-side-of-ai-understanding-the-dangers-of-deepfake-images)
 * [2023-07-28, 05:57:35](https://news.ycombinator.com/item?id=36903481) - [On the future of free long term support for Linux distributions](https://utcc.utoronto.ca/~cks/space/blog/linux/LongTermSupportNoMoreFree)
 * [2023-07-28, 05:07:42](https://news.ycombinator.com/item?id=36903282) - [Glass Dip Pens (2022)](https://neonaut.neocities.org/microblog/2022/glass-dip-pens)
+* [2023-07-28, 04:54:43](https://news.ycombinator.com/item?id=36903220) - [Why doctors hate their computers (2018)](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
 * [2023-07-28, 04:37:23](https://news.ycombinator.com/item?id=36903149) - [How to Roman Republic 101](https://acoup.blog/2023/07/21/collections-how-to-roman-republic-101-part-i-spqr/)
 * [2023-07-28, 04:29:09](https://news.ycombinator.com/item?id=36903114) - [How to Find Scientific Literature](https://www.emilkirkegaard.com/p/how-to-find-scientific-literature)
 * [2023-07-28, 04:27:28](https://news.ycombinator.com/item?id=36903103) - [Yael Tauman Kalai, a cryptographer at Microsoft](https://www.quantamagazine.org/the-cryptographer-who-ensures-we-can-trust-our-computers-20230727/)
