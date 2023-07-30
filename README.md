@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-30, 20:16:18](https://news.ycombinator.com/item?id=36935480) - [SwiftUI Data Flow 2023](https://troz.net/post/2023/swiftui-data-flow-2023/)
 * [2023-07-30, 20:01:13](https://news.ycombinator.com/item?id=36935315) - [Regular use of Vitamin D supplement is associated with fewer melanoma cases](https://pubmed.ncbi.nlm.nih.gov/36580363/)
 * [2023-07-30, 19:57:17](https://news.ycombinator.com/item?id=36935281) - [HFS Origins: The Turbo File System (2017)](https://macgui.com/news/article.php?t=443)
 * [2023-07-30, 19:34:32](https://news.ycombinator.com/item?id=36935055) - [Documentation as Code for Cloud Using PlantUML](https://blog.dornea.nu/2023/07/30/documentation-as-code-for-cloud-plantuml/)
 * [2023-07-30, 19:32:21](https://news.ycombinator.com/item?id=36935041) - [What's up, Python? The GIL removed, a new compiler, optparse deprecated](https://www.bitecode.dev/p/whats-up-python-the-gil-removed-a)
-* [2023-07-30, 18:53:24](https://news.ycombinator.com/item?id=36934655) - [Show HN: WordPress, Ghost alternative at $29/Year](https://esyblog.com)
 * [2023-07-30, 18:52:22](https://news.ycombinator.com/item?id=36934647) - [The death of privacy front ends?](https://tux.pizza/posts/service2/)
 * [2023-07-30, 18:41:12](https://news.ycombinator.com/item?id=36934520) - [Logging in Ruby: (Almost) Everything You Need to Know](https://www.akshaykhot.com/logging-in-ruby/)
 * [2023-07-30, 18:28:20](https://news.ycombinator.com/item?id=36934391) - [You Are Atlas, You Hold Up the Sky](https://youareatlas.com/)
@@ -19,7 +19,6 @@
 * [2023-07-30, 16:55:30](https://news.ycombinator.com/item?id=36933209) - [Richard Feynman's 1964 Messenger Lectures at Cornell University](https://www.feynmanlectures.caltech.edu/messenger.html)
 * [2023-07-30, 16:39:16](https://news.ycombinator.com/item?id=36933028) - [Musl 1.2.4 adds TCP DNS fallback](https://www.openwall.com/lists/musl/2023/05/02/1)
 * [2023-07-30, 16:34:21](https://news.ycombinator.com/item?id=36932980) - [Monte Carlo Long-Range Interacting System Simulations](https://www.uni-leipzig.de/en/newsdetail/artikel/breakthrough-in-monte-carlo-computer-simulations-2023-07-26)
-* [2023-07-30, 16:24:59](https://news.ycombinator.com/item?id=36932876) - [Repeating Yourself Thrice Doesn’t Turn You into a 3x Developer](https://yrashk.medium.com/repeating-yourself-thrice-doesnt-turn-you-into-a-3x-developer-a778495229c0)
 * [2023-07-30, 15:54:35](https://news.ycombinator.com/item?id=36932537) - [An Introduction to APIs](https://zapier.com/resources/guides/apis)
 * [2023-07-30, 15:53:46](https://news.ycombinator.com/item?id=36932526) - [The Power of Weeds to End Hunger in an Uncertain Climate](https://worldsensorium.com/the-power-of-weeds-to-end-hunger-in-an-uncertain-climate/)
 * [2023-07-30, 15:53:36](https://news.ycombinator.com/item?id=36932524) - [I feel hopeless, rejected, and a burden on society-one week of empathy training](https://shkspr.mobi/blog/2019/07/i-feel-hopeless-rejected-and-a-burden-on-society-one-week-of-empathy-training/)
@@ -28,6 +27,7 @@
 * [2023-07-30, 09:44:14](https://news.ycombinator.com/item?id=36929499) - [Ffmprovisr – Making FFmpeg Easier](https://amiaopensource.github.io/ffmprovisr/)
 * [2023-07-30, 04:48:32](https://news.ycombinator.com/item?id=36927902) - [On Fyodor Dostoevsky’s the Brothers Karamazov](https://www.laphamsquarterly.org/roundtable/one-can-scarcely-help-clarifying-him)
 * [2023-07-30, 04:17:41](https://news.ycombinator.com/item?id=36927760) - [Simone de Beauvoir and the art of loss](https://www.newstatesman.com/culture/books/2023/07/simone-de-beauvoir-art-of-loss-ali-smith)
+* [2023-07-29, 14:41:44](https://news.ycombinator.com/item?id=36920777) - [Pressure-driven distillation for fast and selective water purification](https://techxplore.com/news/2023-07-pressure-driven-distillation-fast-purification.html)
 * [2023-07-29, 03:19:36](https://news.ycombinator.com/item?id=36916530) - [Tetris Max 2.9.1 and Macintosh System 6.0.8 Bugs](https://www.bigmessowires.com/2023/07/28/tetris-max-2-9-1-and-macintosh-system-6-0-8-bugs/)
 * [2023-07-28, 20:31:10](https://news.ycombinator.com/item?id=36912880) - [How to find a street in 2 minutes [video]](https://www.youtube.com/watch?v=rl2Q9xH8e7M)
 
