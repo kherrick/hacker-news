@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
+* [2023-07-30, 13:49:53](https://news.ycombinator.com/item?id=36931129) - [The Long History of Nobody Wants to Work Anymore](https://mstdn.ca/@paulisci/110798058470040619)
+* [2023-07-30, 13:06:22](https://news.ycombinator.com/item?id=36930795) - [A dive into the AMD driver workflow](https://geohot.github.io//blog/jekyll/update/2023/06/07/a-dive-into-amds-drivers.html)
 * [2023-07-30, 12:57:30](https://news.ycombinator.com/item?id=36930707) - [Ask HN: Room temperature superconductor: what to expect?](https://news.ycombinator.com/item?id=36930707)
 * [2023-07-30, 12:03:46](https://news.ycombinator.com/item?id=36930321) - [New insights into the origin of the Indo-European languages](https://www.mpg.de/20666229/0725-evan-origin-of-the-indo-european-languages-150495-x)
 * [2023-07-30, 11:05:41](https://news.ycombinator.com/item?id=36929938) - [Limitless white hydrogen under our feet may soon shatter all energy assumptions](https://www.telegraph.co.uk/business/2023/07/13/white-hydrogen-disrupt-global-energy-net-zero/)

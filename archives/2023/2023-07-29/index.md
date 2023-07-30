@@ -12,6 +12,7 @@
 * [2023-07-29, 21:27:28](https://news.ycombinator.com/item?id=36924832) - [Red algae proteins grafted into tobacco double plant growth](https://news.cornell.edu/stories/2023/07/red-algae-proteins-grafted-tobacco-double-plant-growth)
 * [2023-07-29, 21:13:05](https://news.ycombinator.com/item?id=36924672) - [Water Temperatures Hit ‘Hot Tub’ Levels in the Florida Keys](https://www.smithsonianmag.com/smart-news/water-temperatures-hit-hot-tub-levels-in-the-florida-keys-180982610/)
 * [2023-07-29, 21:10:19](https://news.ycombinator.com/item?id=36924647) - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://llm-attacks.org/)
+* [2023-07-29, 21:04:18](https://news.ycombinator.com/item?id=36924570) - [The Psychotherapy Myth](https://www.aporiamagazine.com/p/the-psychotherapy-myth)
 * [2023-07-29, 21:00:55](https://news.ycombinator.com/item?id=36924518) - [Meticulous (YC S21) Is Hiring #3 Engineer to build future of testing](https://news.ycombinator.com/item?id=36924518)
 * [2023-07-29, 20:34:26](https://news.ycombinator.com/item?id=36924267) - [Show HN: Gogit – Just enough Git (in Go) to push itself to GitHub](https://benhoyt.com/writings/gogit/)
 * [2023-07-29, 20:17:12](https://news.ycombinator.com/item?id=36924117) - [Police are not primarily crime fighters, according to the data](https://www.reuters.com/legal/government/police-are-not-primarily-crime-fighters-according-data-2022-11-02/)
