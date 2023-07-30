@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-30, 09:44:14](https://news.ycombinator.com/item?id=36929499) - [Ffmprovisr – Making FFmpeg Easier](https://amiaopensource.github.io/ffmprovisr/)
+* [2023-07-30, 09:23:54](https://news.ycombinator.com/item?id=36929386) - [“We are not cheating” (YH Kwon superconductor comments)](https://twitter.com/8teAPi/status/1685294623449874432)
 * [2023-07-30, 09:14:00](https://news.ycombinator.com/item?id=36929335) - [How the Rich Reap Huge Tax Breaks From Private Nonprofits](https://www.propublica.org/article/how-private-nonprofits-ultrawealthy-tax-deductions-museums-foundation-art)
 * [2023-07-30, 08:28:00](https://news.ycombinator.com/item?id=36929090) - [Scientists may have found mechanism behind cognitive decline in aging](https://news.cuanschutz.edu/news-stories/scientists-may-have-found-mechanism-behind-cognitive-decline-in-aging)
 * [2023-07-30, 07:00:46](https://news.ycombinator.com/item?id=36928601) - [PlayHT (YC W23) Is Hiring ML Engineers (LLMs, Generative AI)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
@@ -10,7 +11,6 @@
 * [2023-07-30, 04:54:22](https://news.ycombinator.com/item?id=36927940) - [Microbially produced protein that is much sweeter than sugar](https://www.nature.com/articles/s41587-023-01865-x)
 * [2023-07-30, 04:02:32](https://news.ycombinator.com/item?id=36927695) - [Welcome to Wikifunctions](https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page)
 * [2023-07-30, 03:46:13](https://news.ycombinator.com/item?id=36927624) - [Unsafe deserialization vulnerability in many Minecraft mods](https://github.com/dogboy21/serializationisbad)
-* [2023-07-30, 01:40:25](https://news.ycombinator.com/item?id=36926852) - [GNU Boot sent a cease and desist to Libreboot](https://libreboot.org/news/gnuboot.html#gnu-boot-cease-and-desist-email)
 * [2023-07-30, 00:59:52](https://news.ycombinator.com/item?id=36926569) - [Snowflake](https://snowflake.torproject.org/)
 * [2023-07-30, 00:07:13](https://news.ycombinator.com/item?id=36926228) - [ASML EUV lithography machine could keep Moore’s Law on track](https://spectrum.ieee.org/high-na-euv)
 * [2023-07-29, 23:58:21](https://news.ycombinator.com/item?id=36926165) - [Button Pushes You (2022)](https://despens.systems/2022/06/button-pushes-you/)
