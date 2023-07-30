@@ -25,10 +25,10 @@
 * [2023-07-29, 13:17:09](https://news.ycombinator.com/item?id=36920010) - [Cyberdecks (2013)](https://blog.rfox.eu/en/Hardware/Cyberdecks.html)
 * [2023-07-29, 12:34:19](https://news.ycombinator.com/item?id=36919659) - [What happened to Vivaldi Social?](https://thomasp.vivaldi.net/2023/07/28/what-happened-to-vivaldi-social/)
 * [2023-07-29, 11:18:12](https://news.ycombinator.com/item?id=36919090) - [Ask HN: Anyone using proportional fonts for coding?](https://news.ycombinator.com/item?id=36919090)
-* [2023-07-29, 07:13:46](https://news.ycombinator.com/item?id=36917719) - [Solar Powered Conways Game of Life](https://davidhampgonsalves.com/solar-powered-conways-game-of-life/)
 * [2023-07-29, 06:39:54](https://news.ycombinator.com/item?id=36917552) - [Code Duello: The Rules of Dueling](https://www.pbs.org/wgbh/americanexperience/features/duel-code-duello-rules-dueling/)
 * [2023-07-28, 20:26:24](https://news.ycombinator.com/item?id=36912820) - [New Word Order](https://www.monkeon.co.uk/new-word-order/)
 * [2023-07-28, 15:31:07](https://news.ycombinator.com/item?id=36908369) - [The bigger the interface, the weaker the abstraction](https://functionallyimperative.com/p/the-bigger-the-interface-the-weaker)
+* [2023-07-28, 12:11:50](https://news.ycombinator.com/item?id=36905715) - [The future of Clang-based tooling](https://blog.trailofbits.com/2023/07/28/the-future-of-clang-based-tooling/)
 * [2023-07-28, 09:34:48](https://news.ycombinator.com/item?id=36904672) - [In the 17th century, Leibniz dreamed of a machine that could calculate ideas](https://spectrum.ieee.org/in-the-17th-century-leibniz-dreamed-of-a-machine-that-could-calculate-ideas)
 
 ## [Archives](archives/index.md)
