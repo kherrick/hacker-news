@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-30, 09:14:00](https://news.ycombinator.com/item?id=36929335) - [How the Rich Reap Huge Tax Breaks From Private Nonprofits](https://www.propublica.org/article/how-private-nonprofits-ultrawealthy-tax-deductions-museums-foundation-art)
 * [2023-07-30, 08:28:00](https://news.ycombinator.com/item?id=36929090) - [Scientists may have found mechanism behind cognitive decline in aging](https://news.cuanschutz.edu/news-stories/scientists-may-have-found-mechanism-behind-cognitive-decline-in-aging)
 * [2023-07-30, 07:00:46](https://news.ycombinator.com/item?id=36928601) - [PlayHT (YC W23) Is Hiring ML Engineers (LLMs, Generative AI)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 * [2023-07-30, 06:45:15](https://news.ycombinator.com/item?id=36928529) - [Fighting for the open web [image]](https://www.davidrevoy.com/article982/fighting-for-the-open-web)
@@ -29,7 +30,6 @@
 * [2023-07-28, 15:31:07](https://news.ycombinator.com/item?id=36908369) - [The bigger the interface, the weaker the abstraction](https://functionallyimperative.com/p/the-bigger-the-interface-the-weaker)
 * [2023-07-28, 11:13:20](https://news.ycombinator.com/item?id=36905267) - [Forced rhubarb, a vegetable deprived of sunlight, is having a renaissance (2019)](https://www.bbc.com/travel/article/20190424-the-english-vegetable-picked-by-candlelight)
 * [2023-07-28, 04:54:43](https://news.ycombinator.com/item?id=36903220) - [Why doctors hate their computers (2018)](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
-* [2023-07-28, 01:56:37](https://news.ycombinator.com/item?id=36902351) - [The Wrath of Goodreads](https://www.theatlantic.com/ideas/archive/2023/07/goodreads-review-bombing-amazon-moderation/674811/)
 
 ## [Archives](archives/index.md)
 
