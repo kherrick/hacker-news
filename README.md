@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-30, 02:35:29](https://news.ycombinator.com/item?id=36927249) - [The Problem of Excess Genius, by David Banks (1997)](https://www.visakanv.com/archives/2021/02/14/the-problem-of-excess-genius-by-david-banks-1997/)
 * [2023-07-30, 02:31:01](https://news.ycombinator.com/item?id=36927216) - [Korea Superconductor Papers Published ‘Without Consent’ – Yonhap](https://www.asiafinancial.com/korea-superconductor-papers-published-without-consent-yonhap)
 * [2023-07-30, 01:40:25](https://news.ycombinator.com/item?id=36926852) - [GNU Boot sent a cease and desist to Libreboot](https://libreboot.org/news/gnuboot.html#gnu-boot-cease-and-desist-email)
 * [2023-07-30, 00:59:52](https://news.ycombinator.com/item?id=36926569) - [Snowflake](https://snowflake.torproject.org/)
@@ -15,7 +16,6 @@
 * [2023-07-29, 17:53:58](https://news.ycombinator.com/item?id=36922744) - [How fast should you accelerate your kid in math?](https://kidswholovemath.substack.com/p/how-fast-should-you-accelerate-your)
 * [2023-07-29, 17:32:42](https://news.ycombinator.com/item?id=36922517) - [US Army Field Manual on Leadership (1990) [pdf]](https://armyoe.files.wordpress.com/2018/03/1990-fm-22-100.pdf)
 * [2023-07-29, 16:28:01](https://news.ycombinator.com/item?id=36921808) - [Universal and transferable adversarial attacks on aligned language models](https://llm-attacks.org/zou2023universal.pdf)
-* [2023-07-29, 16:15:45](https://news.ycombinator.com/item?id=36921675) - [The world’s largest wind turbine has been switched on](https://www.iflscience.com/the-worlds-largest-wind-turbine-has-been-switched-on-70047)
 * [2023-07-29, 16:04:15](https://news.ycombinator.com/item?id=36921552) - [Gzip beats BERT? Part 2: dataset issues, improved speed, and results](https://kenschutte.com/gzip-knn-paper2/)
 * [2023-07-29, 15:54:51](https://news.ycombinator.com/item?id=36921446) - [Functions are vectors](https://thenumb.at/Functions-are-Vectors/)
 * [2023-07-29, 14:25:36](https://news.ycombinator.com/item?id=36920630) - [Ways to shoot yourself in the foot with Redis](https://philbooth.me/blog/four-ways-to-shoot-yourself-in-the-foot-with-redis)

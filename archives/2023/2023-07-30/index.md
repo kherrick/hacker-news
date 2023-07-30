@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
+* [2023-07-30, 02:35:29](https://news.ycombinator.com/item?id=36927249) - [The Problem of Excess Genius, by David Banks (1997)](https://www.visakanv.com/archives/2021/02/14/the-problem-of-excess-genius-by-david-banks-1997/)
 * [2023-07-30, 02:31:01](https://news.ycombinator.com/item?id=36927216) - [Korea Superconductor Papers Published ‘Without Consent’ – Yonhap](https://www.asiafinancial.com/korea-superconductor-papers-published-without-consent-yonhap)
 * [2023-07-30, 01:40:25](https://news.ycombinator.com/item?id=36926852) - [GNU Boot sent a cease and desist to Libreboot](https://libreboot.org/news/gnuboot.html#gnu-boot-cease-and-desist-email)
 * [2023-07-30, 00:59:52](https://news.ycombinator.com/item?id=36926569) - [Snowflake](https://snowflake.torproject.org/)
