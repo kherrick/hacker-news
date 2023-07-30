@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-30, 11:05:41](https://news.ycombinator.com/item?id=36929938) - [Limitless white hydrogen under our feet may soon shatter all energy assumptions](https://www.telegraph.co.uk/business/2023/07/13/white-hydrogen-disrupt-global-energy-net-zero/)
 * [2023-07-30, 09:47:57](https://news.ycombinator.com/item?id=36929514) - [Emacs 29.1 Released](https://emacsredux.com/blog/2023/07/30/emacs-29-1-released/)
 * [2023-07-30, 09:44:14](https://news.ycombinator.com/item?id=36929499) - [Ffmprovisr – Making FFmpeg Easier](https://amiaopensource.github.io/ffmprovisr/)
 * [2023-07-30, 09:23:54](https://news.ycombinator.com/item?id=36929386) - [“We are not cheating” (YH Kwon superconductor comments)](https://twitter.com/8teAPi/status/1685294623449874432)
@@ -24,6 +23,7 @@
 * [2023-07-29, 10:36:00](https://news.ycombinator.com/item?id=36918798) - [Satellite guided to assisted crash in Atlantic in world first](https://www.theguardian.com/science/2023/jul/28/british-satellite-guided-to-assisted-crash-in-atlantic-in-space-first)
 * [2023-07-29, 06:39:54](https://news.ycombinator.com/item?id=36917552) - [Code Duello: The Rules of Dueling (1963)](https://www.pbs.org/wgbh/americanexperience/features/duel-code-duello-rules-dueling/)
 * [2023-07-29, 06:22:08](https://news.ycombinator.com/item?id=36917466) - [Computer scientists discover limits of gradient descent](https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/)
+* [2023-07-29, 05:43:31](https://news.ycombinator.com/item?id=36917293) - [Bead Patterns](https://buegelperlenvorlagen.ch/overview)
 * [2023-07-29, 04:36:26](https://news.ycombinator.com/item?id=36916982) - [Blue iceberg](https://en.wikipedia.org/wiki/Blue_iceberg)
 * [2023-07-28, 20:31:10](https://news.ycombinator.com/item?id=36912880) - [How to find a street in 2 minutes [video]](https://www.youtube.com/watch?v=rl2Q9xH8e7M)
 * [2023-07-28, 15:31:07](https://news.ycombinator.com/item?id=36908369) - [The bigger the interface, the weaker the abstraction](https://functionallyimperative.com/p/the-bigger-the-interface-the-weaker)
