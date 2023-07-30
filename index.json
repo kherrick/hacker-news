@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-07-30, 18:06:27",
+      "https://news.ycombinator.com/item?id=36934135"
+    ],
+    [
+      "Reasons Not to Be a Manager",
+      "https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/"
+    ]
+  ],
+  [
+    [
+      "2023-07-30, 17:59:13",
+      "https://news.ycombinator.com/item?id=36934052"
+    ],
+    [
+      "The Reluctant Sysadmin's Guide to Securing a Linux Server",
+      "https://pboyd.io/posts/securing-a-linux-vm/"
+    ]
+  ],
+  [
+    [
+      "2023-07-30, 17:06:14",
+      "https://news.ycombinator.com/item?id=36933345"
+    ],
+    [
+      "Workarounds for C11 _Generic()",
+      "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/c11-generic/"
+    ]
+  ],
+  [
+    [
       "2023-07-30, 17:00:32",
       "https://news.ycombinator.com/item?id=36933276"
     ],
@@ -37,16 +67,6 @@
     [
       "US offices are sitting empty – business owners will have to adapt",
       "https://www.theguardian.com/business/2023/jul/30/us-small-business-office-workers-gene-marks"
-    ]
-  ],
-  [
-    [
-      "2023-07-30, 16:42:43",
-      "https://news.ycombinator.com/item?id=36933062"
-    ],
-    [
-      "The shell and its crappy handling of whitespace",
-      "https://blog.plover.com/Unix/whitespace.html"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-07-30, 08:28:57",
-      "https://news.ycombinator.com/item?id=36929096"
-    ],
-    [
-      "Chicago95 – Windows 95 Theme for Linux",
-      "https://github.com/grassmunk/Chicago95"
-    ]
-  ],
-  [
-    [
       "2023-07-30, 08:28:00",
       "https://news.ycombinator.com/item?id=36929090"
     ],
@@ -287,16 +297,6 @@
     [
       "Forced rhubarb, a vegetable deprived of sunlight, is having a renaissance (2019)",
       "https://www.bbc.com/travel/article/20190424-the-english-vegetable-picked-by-candlelight"
-    ]
-  ],
-  [
-    [
-      "2023-07-28, 04:54:43",
-      "https://news.ycombinator.com/item?id=36903220"
-    ],
-    [
-      "Why doctors hate their computers (2018)",
-      "https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers"
     ]
   ]
 ]
