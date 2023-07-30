@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
 * [2023-07-30, 04:54:22](https://news.ycombinator.com/item?id=36927940) - [So sweet, no spike: microbially produced protein 3k times sweeter than sugar](https://www.nature.com/articles/s41587-023-01865-x)
+* [2023-07-30, 04:16:27](https://news.ycombinator.com/item?id=36927756) - [SGI Octane: What can a $30k computer from the 90s do?](https://www.youtube.com/watch?v=gVyCjweagJM)
 * [2023-07-30, 04:02:32](https://news.ycombinator.com/item?id=36927695) - [Wikifunctions](https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page)
 * [2023-07-30, 03:52:15](https://news.ycombinator.com/item?id=36927648) - [Free database of 4,000+ AI tools](https://gpte.ai/)
 * [2023-07-30, 03:46:13](https://news.ycombinator.com/item?id=36927624) - [Unsafe Deserialization Vulnerability in many Minecraft mods](https://github.com/dogboy21/serializationisbad)
