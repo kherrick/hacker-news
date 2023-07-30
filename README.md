@@ -18,7 +18,7 @@
 * [2023-07-29, 23:58:21](https://news.ycombinator.com/item?id=36926165) - [Button Pushes You (2022)](https://despens.systems/2022/06/button-pushes-you/)
 * [2023-07-29, 21:04:18](https://news.ycombinator.com/item?id=36924570) - [The Psychotherapy Myth](https://www.aporiamagazine.com/p/the-psychotherapy-myth)
 * [2023-07-29, 16:25:30](https://news.ycombinator.com/item?id=36921785) - [The Problem of Excess Genius (1997)](https://www.visakanv.com/archives/2021/02/14/the-problem-of-excess-genius-by-david-banks-1997/)
-* [2023-07-29, 15:54:51](https://news.ycombinator.com/item?id=36921446) - [Functions are vectors](https://thenumb.at/Functions-are-Vectors/)
+* [2023-07-29, 14:41:44](https://news.ycombinator.com/item?id=36920777) - [Pressure-driven distillation for fast and selective water purification](https://techxplore.com/news/2023-07-pressure-driven-distillation-fast-purification.html)
 * [2023-07-29, 13:13:59](https://news.ycombinator.com/item?id=36919981) - [The Hacker's Dictionary](http://www.hackersdictionary.com/html/index.html)
 * [2023-07-29, 10:36:00](https://news.ycombinator.com/item?id=36918798) - [Satellite guided to assisted crash in Atlantic in world first](https://www.theguardian.com/science/2023/jul/28/british-satellite-guided-to-assisted-crash-in-atlantic-in-space-first)
 * [2023-07-29, 06:49:18](https://news.ycombinator.com/item?id=36917596) - [St Francis of Assisi](https://www.lrb.co.uk/the-paper/v45/n15/mary-wellesley/at-the-national-gallery)
