@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-29](index.md)
 
+* [2023-07-29, 23:58:21](https://news.ycombinator.com/item?id=36926165) - [Button Pushes You](https://despens.systems/2022/06/button-pushes-you/)
+* [2023-07-29, 22:58:52](https://news.ycombinator.com/item?id=36925688) - [Room Temperature Superconductor Drama and Hope](https://twitter.com/8teAPi/status/1684385895565365248)
 * [2023-07-29, 22:51:28](https://news.ycombinator.com/item?id=36925631) - [Where programs live? Vague spaces and software systems](https://tomasp.net/blog/2023/vague-spaces/)
 * [2023-07-29, 22:31:25](https://news.ycombinator.com/item?id=36925433) - [6 Different Ways to Print Hello World in Assembler on a Raspberry Pi](https://github.com/ksaj/helloworld)
 * [2023-07-29, 21:47:45](https://news.ycombinator.com/item?id=36925019) - [Big Tobacco knew radioactive Po210 in cigarettes posed cancer risk, kept quiet](https://www.uclahealth.org/news/big-tobacco-knew-radioactive-particles-in-cigarettes)
@@ -74,6 +76,7 @@
 * [2023-07-29, 07:43:06](https://news.ycombinator.com/item?id=36917867) - [Using C++ as a scripting language, part 8](https://fwsgonzo.medium.com/using-c-as-a-scripting-language-part-8-d366fd98676)
 * [2023-07-29, 07:29:30](https://news.ycombinator.com/item?id=36917802) - [Larne Craigyhill bonfire: 17000 pallets](https://www.belfastlive.co.uk/news/larne-craigyhill-bonfire-more-17000-20989400)
 * [2023-07-29, 07:26:10](https://news.ycombinator.com/item?id=36917782) - [Counting License Plates](https://www.alexmolas.com/2023/07/01/counting-license-plates.html)
+* [2023-07-29, 07:13:46](https://news.ycombinator.com/item?id=36917719) - [Solar Powered Conways Game of Life](https://davidhampgonsalves.com/solar-powered-conways-game-of-life/)
 * [2023-07-29, 06:41:24](https://news.ycombinator.com/item?id=36917561) - [Hugging Face, GitHub and more unite to defend open source in EU AI legislation](https://venturebeat.com/ai/hugging-face-github-and-more-unite-to-defend-open-source-in-eu-ai-legislation/)
 * [2023-07-29, 06:11:55](https://news.ycombinator.com/item?id=36917424) - [U.S. Marine Corps Antenna Handbook (1999) [pdf]](https://www.marines.mil/Portals/1/MCRP%203-40.3C%20With%20Erratum%20z.pdf)
 * [2023-07-29, 05:48:57](https://news.ycombinator.com/item?id=36917320) - [(we)bsite](https://we-b.site/)
