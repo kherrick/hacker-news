@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
+* [2023-07-30, 20:01:13](https://news.ycombinator.com/item?id=36935315) - [Regular use of Vitamin D supplement is associated with fewer melanoma cases](https://pubmed.ncbi.nlm.nih.gov/36580363/)
 * [2023-07-30, 19:57:17](https://news.ycombinator.com/item?id=36935281) - [HFS Origins: The Turbo File System (2017)](https://macgui.com/news/article.php?t=443)
 * [2023-07-30, 19:34:32](https://news.ycombinator.com/item?id=36935055) - [Documentation as Code for Cloud Using PlantUML](https://blog.dornea.nu/2023/07/30/documentation-as-code-for-cloud-plantuml/)
 * [2023-07-30, 19:32:21](https://news.ycombinator.com/item?id=36935041) - [What's up, Python? The GIL removed, a new compiler, optparse deprecated](https://www.bitecode.dev/p/whats-up-python-the-gil-removed-a)
@@ -65,6 +66,7 @@
 * [2023-07-30, 04:59:16](https://news.ycombinator.com/item?id=36927963) - [When Emo Conquered the Mainstream](https://www.newyorker.com/books/page-turner/when-emo-conquered-the-mainstream)
 * [2023-07-30, 04:54:22](https://news.ycombinator.com/item?id=36927940) - [So sweet, no spike: microbially produced protein 3k times sweeter than sugar](https://www.nature.com/articles/s41587-023-01865-x)
 * [2023-07-30, 04:48:32](https://news.ycombinator.com/item?id=36927902) - [On Fyodor Dostoevsky’s the Brothers Karamazov](https://www.laphamsquarterly.org/roundtable/one-can-scarcely-help-clarifying-him)
+* [2023-07-30, 04:17:41](https://news.ycombinator.com/item?id=36927760) - [Simone de Beauvoir and the art of loss](https://www.newstatesman.com/culture/books/2023/07/simone-de-beauvoir-art-of-loss-ali-smith)
 * [2023-07-30, 04:16:27](https://news.ycombinator.com/item?id=36927756) - [SGI Octane: What can a $30k computer from the 90s do?](https://www.youtube.com/watch?v=gVyCjweagJM)
 * [2023-07-30, 04:10:58](https://news.ycombinator.com/item?id=36927727) - [One in five Texans lives in a floodplain, state’s first-ever analysis shows](https://www.texastribune.org/2023/07/28/texas-floodplain-water-development-board-flood-plan/)
 * [2023-07-30, 04:02:32](https://news.ycombinator.com/item?id=36927695) - [Wikifunctions](https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page)
