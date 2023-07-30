@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-30, 01:40:25](https://news.ycombinator.com/item?id=36926852) - [GNU Boot sent a cease and desist to Libreboot](https://libreboot.org/news/gnuboot.html#gnu-boot-cease-and-desist-email)
+* [2023-07-30, 00:59:52](https://news.ycombinator.com/item?id=36926569) - [Snowflake](https://snowflake.torproject.org/)
 * [2023-07-30, 00:14:56](https://news.ycombinator.com/item?id=36926276) - [Apple Pencils don’t draw straight on replaced iPad screens](https://arstechnica.com/gadgets/2023/07/apple-pencils-cant-draw-straight-on-third-party-replacement-ipad-screens/)
 * [2023-07-30, 00:07:13](https://news.ycombinator.com/item?id=36926228) - [ASML EUV Lithography Machine Could Keep Moore’s Law on Track](https://spectrum.ieee.org/high-na-euv)
 * [2023-07-29, 23:58:21](https://news.ycombinator.com/item?id=36926165) - [Button Pushes You](https://despens.systems/2022/06/button-pushes-you/)
 * [2023-07-29, 22:58:52](https://news.ycombinator.com/item?id=36925688) - [Room Temperature Superconductor Drama and Hope](https://twitter.com/8teAPi/status/1684385895565365248)
-* [2023-07-29, 22:31:25](https://news.ycombinator.com/item?id=36925433) - [Ways to print hello world in assembler on a Raspberry Pi](https://github.com/ksaj/helloworld)
-* [2023-07-29, 21:47:45](https://news.ycombinator.com/item?id=36925019) - [Big Tobacco knew radioactive Po210 in cigarettes posed cancer risk, kept quiet](https://www.uclahealth.org/news/big-tobacco-knew-radioactive-particles-in-cigarettes)
 * [2023-07-29, 21:27:28](https://news.ycombinator.com/item?id=36924832) - [Red algae proteins grafted into tobacco double plant growth](https://news.cornell.edu/stories/2023/07/red-algae-proteins-grafted-tobacco-double-plant-growth)
 * [2023-07-29, 21:00:55](https://news.ycombinator.com/item?id=36924518) - [Meticulous (YC S21) is hiring #3 engineer to build future of testing](https://news.ycombinator.com/item?id=36924518)
 * [2023-07-29, 20:34:26](https://news.ycombinator.com/item?id=36924267) - [Show HN: Gogit – Just enough Git (in Go) to push itself to GitHub](https://benhoyt.com/writings/gogit/)
