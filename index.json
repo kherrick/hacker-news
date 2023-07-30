@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-30, 14:35:31",
+      "https://news.ycombinator.com/item?id=36931545"
+    ],
+    [
+      "AMD Ryzen 8000 Strix Point APUs Utilize 12-Core Zen 5 and Zen 5C Hybrid Config",
+      "https://wccftech.com/amd-ryzen-8000-strix-point-apus-utilize-12-core-zen-5-zen-5c-hybrid-config-strix-halo-with-16-core-chiplet-design/"
+    ]
+  ],
+  [
+    [
       "2023-07-30, 14:16:55",
       "https://news.ycombinator.com/item?id=36931344"
     ],
@@ -57,6 +67,16 @@
     [
       "New insights into the origin of the Indo-European languages",
       "https://www.mpg.de/20666229/0725-evan-origin-of-the-indo-european-languages-150495-x"
+    ]
+  ],
+  [
+    [
+      "2023-07-30, 11:55:00",
+      "https://news.ycombinator.com/item?id=36930248"
+    ],
+    [
+      "China Launches First 700 TEU Electric Containership for Yangtze Service",
+      "https://maritime-executive.com/article/china-launches-first-700-teu-electric-containership-for-yangtze-service"
     ]
   ],
   [
@@ -151,26 +171,6 @@
   ],
   [
     [
-      "2023-07-30, 00:07:13",
-      "https://news.ycombinator.com/item?id=36926228"
-    ],
-    [
-      "ASML EUV lithography machine could keep Moore’s Law on track",
-      "https://spectrum.ieee.org/high-na-euv"
-    ]
-  ],
-  [
-    [
-      "2023-07-29, 23:58:21",
-      "https://news.ycombinator.com/item?id=36926165"
-    ],
-    [
-      "Button Pushes You (2022)",
-      "https://despens.systems/2022/06/button-pushes-you/"
-    ]
-  ],
-  [
-    [
       "2023-07-29, 21:04:18",
       "https://news.ycombinator.com/item?id=36924570"
     ],
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=36917466"
     ],
     [
-      "Computer scientists discover limits of gradient descent",
+      "Computer scientists discover limits of gradient descent (2021)",
       "https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/"
     ]
   ],
