@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
+* [2023-07-30, 14:35:31](https://news.ycombinator.com/item?id=36931545) - [AMD Ryzen 8000 Strix Point APUs Utilize 12-Core Zen 5 and Zen 5C Hybrid Config](https://wccftech.com/amd-ryzen-8000-strix-point-apus-utilize-12-core-zen-5-zen-5c-hybrid-config-strix-halo-with-16-core-chiplet-design/)
 * [2023-07-30, 14:16:55](https://news.ycombinator.com/item?id=36931344) - [X to Close – The origins of the use of [x] in UI design. (2014)](https://medium.com/re-form/x-to-close-417936dfc0dc)
 * [2023-07-30, 14:14:04](https://news.ycombinator.com/item?id=36931316) - [Uh, guys, we should think about spending more on defense in the US](https://www.noahpinion.blog/p/uh-guys-we-really-should-think-about)
 * [2023-07-30, 13:49:53](https://news.ycombinator.com/item?id=36931129) - [The Long History of Nobody Wants to Work Anymore](https://mstdn.ca/@paulisci/110798058470040619)
 * [2023-07-30, 13:06:22](https://news.ycombinator.com/item?id=36930795) - [A dive into the AMD driver workflow](https://geohot.github.io//blog/jekyll/update/2023/06/07/a-dive-into-amds-drivers.html)
 * [2023-07-30, 12:57:30](https://news.ycombinator.com/item?id=36930707) - [Ask HN: Room temperature superconductor: what to expect?](https://news.ycombinator.com/item?id=36930707)
 * [2023-07-30, 12:03:46](https://news.ycombinator.com/item?id=36930321) - [New insights into the origin of the Indo-European languages](https://www.mpg.de/20666229/0725-evan-origin-of-the-indo-european-languages-150495-x)
+* [2023-07-30, 11:55:00](https://news.ycombinator.com/item?id=36930248) - [China Launches First 700 TEU Electric Containership for Yangtze Service](https://maritime-executive.com/article/china-launches-first-700-teu-electric-containership-for-yangtze-service)
 * [2023-07-30, 11:05:41](https://news.ycombinator.com/item?id=36929938) - [Limitless white hydrogen under our feet may soon shatter all energy assumptions](https://www.telegraph.co.uk/business/2023/07/13/white-hydrogen-disrupt-global-energy-net-zero/)
 * [2023-07-30, 09:47:57](https://news.ycombinator.com/item?id=36929514) - [Emacs 29.1 Released](https://emacsredux.com/blog/2023/07/30/emacs-29-1-released/)
 * [2023-07-30, 09:44:14](https://news.ycombinator.com/item?id=36929499) - [Ffmprovisr – Making FFmpeg Easier](https://amiaopensource.github.io/ffmprovisr/)
