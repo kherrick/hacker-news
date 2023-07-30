@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-30, 09:44:14](https://news.ycombinator.com/item?id=36929499) - [Ffmprovisr – Making FFmpeg Easier](https://amiaopensource.github.io/ffmprovisr/)
 * [2023-07-30, 09:14:00](https://news.ycombinator.com/item?id=36929335) - [How the Rich Reap Huge Tax Breaks From Private Nonprofits](https://www.propublica.org/article/how-private-nonprofits-ultrawealthy-tax-deductions-museums-foundation-art)
 * [2023-07-30, 08:28:00](https://news.ycombinator.com/item?id=36929090) - [Scientists may have found mechanism behind cognitive decline in aging](https://news.cuanschutz.edu/news-stories/scientists-may-have-found-mechanism-behind-cognitive-decline-in-aging)
 * [2023-07-30, 07:00:46](https://news.ycombinator.com/item?id=36928601) - [PlayHT (YC W23) Is Hiring ML Engineers (LLMs, Generative AI)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
@@ -18,7 +19,6 @@
 * [2023-07-29, 21:27:28](https://news.ycombinator.com/item?id=36924832) - [Red algae proteins grafted into tobacco double plant growth](https://news.cornell.edu/stories/2023/07/red-algae-proteins-grafted-tobacco-double-plant-growth)
 * [2023-07-29, 20:34:26](https://news.ycombinator.com/item?id=36924267) - [Show HN: Gogit – Just enough Git (in Go) to push itself to GitHub](https://benhoyt.com/writings/gogit/)
 * [2023-07-29, 19:21:55](https://news.ycombinator.com/item?id=36923562) - [The Transformer Blueprint](https://deeprevision.github.io/posts/001-transformer/)
-* [2023-07-29, 18:46:01](https://news.ycombinator.com/item?id=36923220) - [Dino – Modern XMPP Chat Client using GTK+/Vala](https://github.com/dino/dino)
 * [2023-07-29, 16:25:30](https://news.ycombinator.com/item?id=36921785) - [The Problem of Excess Genius (1997)](https://www.visakanv.com/archives/2021/02/14/the-problem-of-excess-genius-by-david-banks-1997/)
 * [2023-07-29, 15:54:51](https://news.ycombinator.com/item?id=36921446) - [Functions are vectors](https://thenumb.at/Functions-are-Vectors/)
 * [2023-07-29, 13:13:59](https://news.ycombinator.com/item?id=36919981) - [The Hacker's Dictionary](http://www.hackersdictionary.com/html/index.html)
