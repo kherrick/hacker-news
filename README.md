@@ -11,7 +11,6 @@
 * [2023-07-30, 15:54:35](https://news.ycombinator.com/item?id=36932537) - [An Introduction to APIs](https://zapier.com/resources/guides/apis)
 * [2023-07-30, 15:53:46](https://news.ycombinator.com/item?id=36932526) - [The Power of Weeds to End Hunger in an Uncertain Climate](https://worldsensorium.com/the-power-of-weeds-to-end-hunger-in-an-uncertain-climate/)
 * [2023-07-30, 15:53:36](https://news.ycombinator.com/item?id=36932524) - [I feel hopeless, rejected, and a burden on society-one week of empathy training](https://shkspr.mobi/blog/2019/07/i-feel-hopeless-rejected-and-a-burden-on-society-one-week-of-empathy-training/)
-* [2023-07-30, 15:22:32](https://news.ycombinator.com/item?id=36932119) - [The Secretive World of Penile Enlargement](https://www.propublica.org/article/penis-enlargement-enhancement-procedures-implants)
 * [2023-07-30, 14:59:40](https://news.ycombinator.com/item?id=36931806) - [Worldcoin: A solution in search of its problem](https://newsletter.mollywhite.net/p/worldcoin-a-solution-in-search-of)
 * [2023-07-30, 14:16:55](https://news.ycombinator.com/item?id=36931344) - [X to Close – The origins of the use of [x] in UI design. (2014)](https://medium.com/re-form/x-to-close-417936dfc0dc)
 * [2023-07-30, 14:03:53](https://news.ycombinator.com/item?id=36931228) - [Cross-Validation FAQ (2022)](https://avehtari.github.io/modelselection/CV-FAQ.html)
@@ -30,6 +29,7 @@
 * [2023-07-29, 03:19:36](https://news.ycombinator.com/item?id=36916530) - [Tetris Max 2.9.1 and Macintosh System 6.0.8 Bugs](https://www.bigmessowires.com/2023/07/28/tetris-max-2-9-1-and-macintosh-system-6-0-8-bugs/)
 * [2023-07-28, 20:31:10](https://news.ycombinator.com/item?id=36912880) - [How to find a street in 2 minutes [video]](https://www.youtube.com/watch?v=rl2Q9xH8e7M)
 * [2023-07-28, 11:13:20](https://news.ycombinator.com/item?id=36905267) - [Forced rhubarb, a vegetable deprived of sunlight, is having a renaissance (2019)](https://www.bbc.com/travel/article/20190424-the-english-vegetable-picked-by-candlelight)
+* [2023-07-28, 04:54:43](https://news.ycombinator.com/item?id=36903220) - [Why doctors hate their computers (2018)](https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
 
 ## [Archives](archives/index.md)
 
