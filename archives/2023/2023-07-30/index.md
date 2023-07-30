@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
+* [2023-07-30, 18:28:20](https://news.ycombinator.com/item?id=36934391) - [You Are Atlas, You Hold Up the Sky](https://youareatlas.com/)
 * [2023-07-30, 18:06:27](https://news.ycombinator.com/item?id=36934135) - [Reasons Not to Be a Manager](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/)
 * [2023-07-30, 17:59:13](https://news.ycombinator.com/item?id=36934052) - [The Reluctant Sysadmin's Guide to Securing a Linux Server](https://pboyd.io/posts/securing-a-linux-vm/)
 * [2023-07-30, 17:25:24](https://news.ycombinator.com/item?id=36933603) - [Show HN: San Francisco Compute – 512 H100s at <$2/hr for research and startups](https://sfcompute.org/)

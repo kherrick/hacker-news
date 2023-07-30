@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-30, 18:28:20](https://news.ycombinator.com/item?id=36934391) - [You Are Atlas, You Hold Up the Sky](https://youareatlas.com/)
 * [2023-07-30, 18:06:27](https://news.ycombinator.com/item?id=36934135) - [Reasons Not to Be a Manager](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/)
 * [2023-07-30, 17:59:13](https://news.ycombinator.com/item?id=36934052) - [The Reluctant Sysadmin's Guide to Securing a Linux Server](https://pboyd.io/posts/securing-a-linux-vm/)
 * [2023-07-30, 17:25:24](https://news.ycombinator.com/item?id=36933603) - [Show HN: San Francisco Compute – 512 H100s at <$2/hr for research and startups](https://sfcompute.org/)
@@ -8,7 +9,6 @@
 * [2023-07-30, 17:00:32](https://news.ycombinator.com/item?id=36933276) - [Mutable.ai (YC W22) Is Hiring Engineers](https://www.ycombinator.com/companies/mutable-ai/jobs)
 * [2023-07-30, 16:55:30](https://news.ycombinator.com/item?id=36933209) - [Richard Feynman's 1964 Messenger Lectures at Cornell University](https://www.feynmanlectures.caltech.edu/messenger.html)
 * [2023-07-30, 16:51:23](https://news.ycombinator.com/item?id=36933167) - [Forget subtitles: YouTube now dubs videos with AI-generated voices](https://restofworld.org/2023/youtube-ai-dubbing-automated-translation/)
-* [2023-07-30, 16:46:12](https://news.ycombinator.com/item?id=36933106) - [US offices are sitting empty – business owners will have to adapt](https://www.theguardian.com/business/2023/jul/30/us-small-business-office-workers-gene-marks)
 * [2023-07-30, 16:39:16](https://news.ycombinator.com/item?id=36933028) - [Musl 1.2.4 adds TCP DNS fallback](https://www.openwall.com/lists/musl/2023/05/02/1)
 * [2023-07-30, 16:34:21](https://news.ycombinator.com/item?id=36932980) - [Monte Carlo Long-Range Interacting System Simulations](https://www.uni-leipzig.de/en/newsdetail/artikel/breakthrough-in-monte-carlo-computer-simulations-2023-07-26)
 * [2023-07-30, 16:24:59](https://news.ycombinator.com/item?id=36932876) - [Repeating Yourself Thrice Doesn’t Turn You into a 3x Developer](https://yrashk.medium.com/repeating-yourself-thrice-doesnt-turn-you-into-a-3x-developer-a778495229c0)
