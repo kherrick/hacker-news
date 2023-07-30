@@ -25,7 +25,7 @@
 * [2023-07-30, 13:06:22](https://news.ycombinator.com/item?id=36930795) - [A dive into the AMD driver workflow](https://geohot.github.io//blog/jekyll/update/2023/06/07/a-dive-into-amds-drivers.html)
 * [2023-07-30, 12:03:46](https://news.ycombinator.com/item?id=36930321) - [New insights into the origin of the Indo-European languages](https://www.mpg.de/20666229/0725-evan-origin-of-the-indo-european-languages-150495-x)
 * [2023-07-30, 09:44:14](https://news.ycombinator.com/item?id=36929499) - [Ffmprovisr – Making FFmpeg Easier](https://amiaopensource.github.io/ffmprovisr/)
-* [2023-07-30, 04:48:32](https://news.ycombinator.com/item?id=36927902) - [On Fyodor Dostoevsky’s the Brothers Karamazov](https://www.laphamsquarterly.org/roundtable/one-can-scarcely-help-clarifying-him)
+* [2023-07-30, 04:48:32](https://news.ycombinator.com/item?id=36927902) - [One Can Scarcely Help Clarifying Him: On the Brothers Karamazov](https://www.laphamsquarterly.org/roundtable/one-can-scarcely-help-clarifying-him)
 * [2023-07-30, 04:17:41](https://news.ycombinator.com/item?id=36927760) - [Simone de Beauvoir and the art of loss](https://www.newstatesman.com/culture/books/2023/07/simone-de-beauvoir-art-of-loss-ali-smith)
 * [2023-07-29, 03:19:36](https://news.ycombinator.com/item?id=36916530) - [Tetris Max 2.9.1 and Macintosh System 6.0.8 Bugs](https://www.bigmessowires.com/2023/07/28/tetris-max-2-9-1-and-macintosh-system-6-0-8-bugs/)
 * [2023-07-28, 20:31:10](https://news.ycombinator.com/item?id=36912880) - [How to find a street in 2 minutes [video]](https://www.youtube.com/watch?v=rl2Q9xH8e7M)
