@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
+* [2023-07-30, 19:34:32](https://news.ycombinator.com/item?id=36935055) - [Documentation as Code for Cloud Using PlantUML](https://blog.dornea.nu/2023/07/30/documentation-as-code-for-cloud-plantuml/)
 * [2023-07-30, 18:53:24](https://news.ycombinator.com/item?id=36934655) - [Show HN: WordPress, Ghost alternative at $29/Year](https://esyblog.com)
 * [2023-07-30, 18:52:22](https://news.ycombinator.com/item?id=36934647) - [The death of privacy front ends?](https://tux.pizza/posts/service2/)
 * [2023-07-30, 18:41:12](https://news.ycombinator.com/item?id=36934520) - [Logging in Ruby: (Almost) Everything You Need to Know](https://www.akshaykhot.com/logging-in-ruby/)
@@ -12,6 +13,7 @@
 * [2023-07-30, 18:24:33](https://news.ycombinator.com/item?id=36934350) - [Greg Rutkowski Was Removed from StableDiffusion, but AI Artists Brought Him Back](https://decrypt.co/150575/greg-rutkowski-removed-from-stable-diffusion-but-brought-back-by-ai-artists)
 * [2023-07-30, 18:06:27](https://news.ycombinator.com/item?id=36934135) - [Reasons Not to Be a Manager](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/)
 * [2023-07-30, 17:59:13](https://news.ycombinator.com/item?id=36934052) - [The Reluctant Sysadmin's Guide to Securing a Linux Server](https://pboyd.io/posts/securing-a-linux-vm/)
+* [2023-07-30, 17:57:35](https://news.ycombinator.com/item?id=36934032) - [Why transformative artificial intelligence is hard to achieve](https://thegradient.pub/why-transformative-artificial-intelligence-is-really-really-hard-to-achieve/)
 * [2023-07-30, 17:57:29](https://news.ycombinator.com/item?id=36934029) - [Linux Air Combat: free, lightweight and open-source combat flight simulator](https://askmisterwizard.com/2019/LinuxAirCombat/LinuxAirCombat.htm)
 * [2023-07-30, 17:30:40](https://news.ycombinator.com/item?id=36933665) - [Nvidia DGX GH200 Whitepaper](https://resources.nvidia.com/en-us-dgx-gh200/technical-white-paper)
 * [2023-07-30, 17:25:24](https://news.ycombinator.com/item?id=36933603) - [Show HN: San Francisco Compute – 512 H100s at <$2/hr for research and startups](https://sfcompute.org/)
