@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-30, 15:54:35](https://news.ycombinator.com/item?id=36932537) - [An Introduction to APIs](https://zapier.com/resources/guides/apis)
+* [2023-07-30, 15:53:36](https://news.ycombinator.com/item?id=36932524) - [I feel hopeless, rejected, and a burden on society-one week of empathy training](https://shkspr.mobi/blog/2019/07/i-feel-hopeless-rejected-and-a-burden-on-society-one-week-of-empathy-training/)
 * [2023-07-30, 15:22:32](https://news.ycombinator.com/item?id=36932119) - [The Secretive World of Penile Enlargement](https://www.propublica.org/article/penis-enlargement-enhancement-procedures-implants)
 * [2023-07-30, 15:17:21](https://news.ycombinator.com/item?id=36932044) - [Why has Britain become so poor?](https://www.thetimes.co.uk/article/why-has-britain-become-so-poor-lw22lhvkh)
 * [2023-07-30, 14:35:31](https://news.ycombinator.com/item?id=36931545) - [AMD Ryzen 8000 Strix Point APUs Utilize 12-Core Zen 5 and Zen 5C Hybrid Config](https://wccftech.com/amd-ryzen-8000-strix-point-apus-utilize-12-core-zen-5-zen-5c-hybrid-config-strix-halo-with-16-core-chiplet-design/)
@@ -8,7 +10,6 @@
 * [2023-07-30, 13:49:53](https://news.ycombinator.com/item?id=36931129) - [The Long History of Nobody Wants to Work Anymore](https://mstdn.ca/@paulisci/110798058470040619)
 * [2023-07-30, 13:06:22](https://news.ycombinator.com/item?id=36930795) - [A dive into the AMD driver workflow](https://geohot.github.io//blog/jekyll/update/2023/06/07/a-dive-into-amds-drivers.html)
 * [2023-07-30, 12:03:46](https://news.ycombinator.com/item?id=36930321) - [New insights into the origin of the Indo-European languages](https://www.mpg.de/20666229/0725-evan-origin-of-the-indo-european-languages-150495-x)
-* [2023-07-30, 11:55:00](https://news.ycombinator.com/item?id=36930248) - [China Launches First 700 TEU Electric Containership for Yangtze Service](https://maritime-executive.com/article/china-launches-first-700-teu-electric-containership-for-yangtze-service)
 * [2023-07-30, 09:47:57](https://news.ycombinator.com/item?id=36929514) - [Emacs 29.1](https://emacsredux.com/blog/2023/07/30/emacs-29-1-released/)
 * [2023-07-30, 09:44:14](https://news.ycombinator.com/item?id=36929499) - [Ffmprovisr – Making FFmpeg Easier](https://amiaopensource.github.io/ffmprovisr/)
 * [2023-07-30, 09:14:00](https://news.ycombinator.com/item?id=36929335) - [How the Rich Reap Huge Tax Breaks From Private Nonprofits](https://www.propublica.org/article/how-private-nonprofits-ultrawealthy-tax-deductions-museums-foundation-art)
@@ -22,7 +23,6 @@
 * [2023-07-29, 14:41:44](https://news.ycombinator.com/item?id=36920777) - [Pressure-driven distillation for fast and selective water purification](https://techxplore.com/news/2023-07-pressure-driven-distillation-fast-purification.html)
 * [2023-07-29, 10:36:00](https://news.ycombinator.com/item?id=36918798) - [Satellite guided to assisted crash in Atlantic in world first](https://www.theguardian.com/science/2023/jul/28/british-satellite-guided-to-assisted-crash-in-atlantic-in-space-first)
 * [2023-07-29, 06:49:18](https://news.ycombinator.com/item?id=36917596) - [St Francis of Assisi](https://www.lrb.co.uk/the-paper/v45/n15/mary-wellesley/at-the-national-gallery)
-* [2023-07-29, 06:39:54](https://news.ycombinator.com/item?id=36917552) - [Code Duello: The Rules of Dueling (1963)](https://www.pbs.org/wgbh/americanexperience/features/duel-code-duello-rules-dueling/)
 * [2023-07-29, 06:22:08](https://news.ycombinator.com/item?id=36917466) - [Computer scientists discover limits of gradient descent (2021)](https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/)
 * [2023-07-29, 05:43:31](https://news.ycombinator.com/item?id=36917293) - [Bead Patterns](https://buegelperlenvorlagen.ch/overview)
 * [2023-07-29, 04:36:26](https://news.ycombinator.com/item?id=36916982) - [Blue iceberg](https://en.wikipedia.org/wiki/Blue_iceberg)

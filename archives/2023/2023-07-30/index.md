@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
+* [2023-07-30, 15:54:35](https://news.ycombinator.com/item?id=36932537) - [An Introduction to APIs](https://zapier.com/resources/guides/apis)
+* [2023-07-30, 15:53:36](https://news.ycombinator.com/item?id=36932524) - [I feel hopeless, rejected, and a burden on society-one week of empathy training](https://shkspr.mobi/blog/2019/07/i-feel-hopeless-rejected-and-a-burden-on-society-one-week-of-empathy-training/)
 * [2023-07-30, 15:22:32](https://news.ycombinator.com/item?id=36932119) - [The Secretive World of Penile Enlargement](https://www.propublica.org/article/penis-enlargement-enhancement-procedures-implants)
 * [2023-07-30, 15:17:21](https://news.ycombinator.com/item?id=36932044) - [Why has Britain become so poor?](https://www.thetimes.co.uk/article/why-has-britain-become-so-poor-lw22lhvkh)
 * [2023-07-30, 14:35:31](https://news.ycombinator.com/item?id=36931545) - [AMD Ryzen 8000 Strix Point APUs Utilize 12-Core Zen 5 and Zen 5C Hybrid Config](https://wccftech.com/amd-ryzen-8000-strix-point-apus-utilize-12-core-zen-5-zen-5c-hybrid-config-strix-halo-with-16-core-chiplet-design/)
