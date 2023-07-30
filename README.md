@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-30, 04:54:22](https://news.ycombinator.com/item?id=36927940) - [So sweet, no spike: microbially produced protein 3k times sweeter than sugar](https://www.nature.com/articles/s41587-023-01865-x)
 * [2023-07-30, 04:02:32](https://news.ycombinator.com/item?id=36927695) - [Wikifunctions](https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page)
 * [2023-07-30, 03:52:15](https://news.ycombinator.com/item?id=36927648) - [Free database of 4,000+ AI tools](https://gpte.ai/)
+* [2023-07-30, 03:46:13](https://news.ycombinator.com/item?id=36927624) - [Unsafe Deserialization Vulnerability in many Minecraft mods](https://github.com/dogboy21/serializationisbad)
 * [2023-07-30, 02:35:29](https://news.ycombinator.com/item?id=36927249) - [The Problem of Excess Genius, by David Banks (1997)](https://www.visakanv.com/archives/2021/02/14/the-problem-of-excess-genius-by-david-banks-1997/)
 * [2023-07-30, 02:31:01](https://news.ycombinator.com/item?id=36927216) - [Korea Superconductor Papers Published ‘Without Consent’ – Yonhap](https://www.asiafinancial.com/korea-superconductor-papers-published-without-consent-yonhap)
 * [2023-07-30, 01:40:25](https://news.ycombinator.com/item?id=36926852) - [GNU Boot sent a cease and desist to Libreboot](https://libreboot.org/news/gnuboot.html#gnu-boot-cease-and-desist-email)
@@ -25,9 +27,7 @@
 * [2023-07-29, 14:18:29](https://news.ycombinator.com/item?id=36920566) - [Critical theory is radicalizing high school debate](https://www.slowboring.com/p/how-critical-theory-is-radicalizing)
 * [2023-07-29, 13:59:50](https://news.ycombinator.com/item?id=36920387) - [Alcohol without the hangover – scientists are finding ways](https://www.wsj.com/articles/synthetic-alcohol-no-hangover-511fc418)
 * [2023-07-29, 11:18:12](https://news.ycombinator.com/item?id=36919090) - [Ask HN: Anyone using proportional fonts for coding?](https://news.ycombinator.com/item?id=36919090)
-* [2023-07-29, 06:39:54](https://news.ycombinator.com/item?id=36917552) - [Code Duello: The Rules of Dueling](https://www.pbs.org/wgbh/americanexperience/features/duel-code-duello-rules-dueling/)
 * [2023-07-29, 04:36:26](https://news.ycombinator.com/item?id=36916982) - [Blue iceberg](https://en.wikipedia.org/wiki/Blue_iceberg)
-* [2023-07-28, 20:26:24](https://news.ycombinator.com/item?id=36912820) - [New Word Order](https://www.monkeon.co.uk/new-word-order/)
 * [2023-07-28, 15:31:07](https://news.ycombinator.com/item?id=36908369) - [The bigger the interface, the weaker the abstraction](https://functionallyimperative.com/p/the-bigger-the-interface-the-weaker)
 * [2023-07-28, 09:34:48](https://news.ycombinator.com/item?id=36904672) - [In the 17th century, Leibniz dreamed of a machine that could calculate ideas](https://spectrum.ieee.org/in-the-17th-century-leibniz-dreamed-of-a-machine-that-could-calculate-ideas)
 
