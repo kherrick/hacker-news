@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-30, 14:16:55](https://news.ycombinator.com/item?id=36931344) - [X to Close – The origins of the use of [x] in UI design. (2014)](https://medium.com/re-form/x-to-close-417936dfc0dc)
 * [2023-07-30, 13:49:53](https://news.ycombinator.com/item?id=36931129) - [The Long History of Nobody Wants to Work Anymore](https://mstdn.ca/@paulisci/110798058470040619)
 * [2023-07-30, 13:06:22](https://news.ycombinator.com/item?id=36930795) - [A dive into the AMD driver workflow](https://geohot.github.io//blog/jekyll/update/2023/06/07/a-dive-into-amds-drivers.html)
 * [2023-07-30, 12:57:30](https://news.ycombinator.com/item?id=36930707) - [Ask HN: Room temperature superconductor: what to expect?](https://news.ycombinator.com/item?id=36930707)
@@ -10,7 +11,6 @@
 * [2023-07-30, 08:28:57](https://news.ycombinator.com/item?id=36929096) - [Chicago95 – Windows 95 Theme for Linux](https://github.com/grassmunk/Chicago95)
 * [2023-07-30, 08:28:00](https://news.ycombinator.com/item?id=36929090) - [Scientists may have found mechanism behind cognitive decline in aging](https://news.cuanschutz.edu/news-stories/scientists-may-have-found-mechanism-behind-cognitive-decline-in-aging)
 * [2023-07-30, 07:00:46](https://news.ycombinator.com/item?id=36928601) - [PlayHT (YC W23) Is Hiring ML Engineers (LLMs, Generative AI)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
-* [2023-07-30, 06:36:19](https://news.ycombinator.com/item?id=36928485) - [Why I use the D programming language for scripting (2021)](https://opensource.com/article/21/1/d-scripting)
 * [2023-07-30, 05:13:56](https://news.ycombinator.com/item?id=36928043) - [What I would do if I ran Tarsnap (2014)](https://www.kalzumeus.com/2014/04/03/fantasy-tarsnap/)
 * [2023-07-30, 04:02:32](https://news.ycombinator.com/item?id=36927695) - [Welcome to Wikifunctions](https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page)
 * [2023-07-30, 00:59:52](https://news.ycombinator.com/item?id=36926569) - [Snowflake](https://snowflake.torproject.org/)
