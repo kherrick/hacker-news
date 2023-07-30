@@ -25,6 +25,7 @@
 * [2023-07-29, 18:45:56](https://news.ycombinator.com/item?id=36923219) - [Actors take to the internet to show their residual checks, some in the negative](https://www.npr.org/2023/07/27/1190336979/actors-strike-residuals-sag-aftra-wga)
 * [2023-07-29, 18:39:24](https://news.ycombinator.com/item?id=36923154) - [Counterterrorism internet surveillance is being retargeted at sex workers](https://theintercept.com/2023/07/29/skull-games-surveillance-sex-workers/)
 * [2023-07-29, 18:35:39](https://news.ycombinator.com/item?id=36923123) - [Utopia to blight: Surviving in Henry Ford’s lost jungle town](https://www.washingtonpost.com/world/2023/07/28/fordlandia-brazil/)
+* [2023-07-29, 18:08:07](https://news.ycombinator.com/item?id=36922883) - [Is This a Branch? (2021)](https://bartwronski.com/2021/01/18/is-this-a-branch/)
 * [2023-07-29, 18:02:12](https://news.ycombinator.com/item?id=36922823) - [OSRS Map Viewer](https://osrs.world/?cx=3242.00&cy=26&cz=3202.00&p=-245&y=1862&v=1)
 * [2023-07-29, 17:59:04](https://news.ycombinator.com/item?id=36922790) - [Open Source Outdoor Air Quality Monitor](https://www.airgradient.com/open-air/)
 * [2023-07-29, 17:53:58](https://news.ycombinator.com/item?id=36922744) - [How fast should you accelerate your kid in math?](https://kidswholovemath.substack.com/p/how-fast-should-you-accelerate-your)

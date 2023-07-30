@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
+* [2023-07-30, 16:24:59](https://news.ycombinator.com/item?id=36932876) - [Repeating Yourself Thrice Doesn’t Turn You into a 3x Developer](https://yrashk.medium.com/repeating-yourself-thrice-doesnt-turn-you-into-a-3x-developer-a778495229c0)
 * [2023-07-30, 16:24:59](https://news.ycombinator.com/item?id=36932875) - [Brexit Could Be Reversed - Here's How](https://www.ft.com/content/0d195d46-b348-4325-824f-c33889bb2cc0)
 * [2023-07-30, 15:54:35](https://news.ycombinator.com/item?id=36932537) - [An Introduction to APIs](https://zapier.com/resources/guides/apis)
 * [2023-07-30, 15:53:36](https://news.ycombinator.com/item?id=36932524) - [I feel hopeless, rejected, and a burden on society-one week of empathy training](https://shkspr.mobi/blog/2019/07/i-feel-hopeless-rejected-and-a-burden-on-society-one-week-of-empathy-training/)
