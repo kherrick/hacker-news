@@ -2,6 +2,7 @@
 
 * [2023-07-30, 18:06:27](https://news.ycombinator.com/item?id=36934135) - [Reasons Not to Be a Manager](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/)
 * [2023-07-30, 17:59:13](https://news.ycombinator.com/item?id=36934052) - [The Reluctant Sysadmin's Guide to Securing a Linux Server](https://pboyd.io/posts/securing-a-linux-vm/)
+* [2023-07-30, 17:14:22](https://news.ycombinator.com/item?id=36933452) - [Show HN: Khoj – Chat Offline with Your Second Brain Using Llama 2](https://github.com/khoj-ai/khoj)
 * [2023-07-30, 17:06:14](https://news.ycombinator.com/item?id=36933345) - [Workarounds for C11 _Generic()](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/c11-generic/)
 * [2023-07-30, 17:00:32](https://news.ycombinator.com/item?id=36933276) - [Mutable.ai (YC W22) Is Hiring Engineers](https://www.ycombinator.com/companies/mutable-ai/jobs)
 * [2023-07-30, 16:55:30](https://news.ycombinator.com/item?id=36933209) - [Richard Feynman's 1964 Messenger Lectures at Cornell University](https://www.feynmanlectures.caltech.edu/messenger.html)
@@ -13,6 +14,7 @@
 * [2023-07-30, 15:54:35](https://news.ycombinator.com/item?id=36932537) - [An Introduction to APIs](https://zapier.com/resources/guides/apis)
 * [2023-07-30, 15:53:46](https://news.ycombinator.com/item?id=36932526) - [The Power of Weeds to End Hunger in an Uncertain Climate](https://worldsensorium.com/the-power-of-weeds-to-end-hunger-in-an-uncertain-climate/)
 * [2023-07-30, 15:53:36](https://news.ycombinator.com/item?id=36932524) - [I feel hopeless, rejected, and a burden on society-one week of empathy training](https://shkspr.mobi/blog/2019/07/i-feel-hopeless-rejected-and-a-burden-on-society-one-week-of-empathy-training/)
+* [2023-07-30, 15:28:43](https://news.ycombinator.com/item?id=36932215) - [Hacker News reacts to JSON5 (2012)](https://news.ycombinator.com/item?id=4031699)
 * [2023-07-30, 14:59:40](https://news.ycombinator.com/item?id=36931806) - [Worldcoin: A solution in search of its problem](https://newsletter.mollywhite.net/p/worldcoin-a-solution-in-search-of)
 * [2023-07-30, 14:16:55](https://news.ycombinator.com/item?id=36931344) - [X to Close – The origins of the use of [x] in UI design. (2014)](https://medium.com/re-form/x-to-close-417936dfc0dc)
 * [2023-07-30, 14:03:53](https://news.ycombinator.com/item?id=36931228) - [Cross-Validation FAQ (2022)](https://avehtari.github.io/modelselection/CV-FAQ.html)
@@ -22,14 +24,12 @@
 * [2023-07-30, 09:47:57](https://news.ycombinator.com/item?id=36929514) - [Emacs 29.1](https://emacsredux.com/blog/2023/07/30/emacs-29-1-released/)
 * [2023-07-30, 09:44:14](https://news.ycombinator.com/item?id=36929499) - [Ffmprovisr – Making FFmpeg Easier](https://amiaopensource.github.io/ffmprovisr/)
 * [2023-07-30, 08:28:00](https://news.ycombinator.com/item?id=36929090) - [Scientists may have found mechanism behind cognitive decline in aging](https://news.cuanschutz.edu/news-stories/scientists-may-have-found-mechanism-behind-cognitive-decline-in-aging)
-* [2023-07-30, 05:13:56](https://news.ycombinator.com/item?id=36928043) - [What I would do if I ran Tarsnap (2014)](https://www.kalzumeus.com/2014/04/03/fantasy-tarsnap/)
 * [2023-07-30, 04:02:32](https://news.ycombinator.com/item?id=36927695) - [Welcome to Wikifunctions](https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page)
 * [2023-07-29, 18:08:07](https://news.ycombinator.com/item?id=36922883) - [Is This a Branch? (2021)](https://bartwronski.com/2021/01/18/is-this-a-branch/)
 * [2023-07-29, 14:41:44](https://news.ycombinator.com/item?id=36920777) - [Pressure-driven distillation for fast and selective water purification](https://techxplore.com/news/2023-07-pressure-driven-distillation-fast-purification.html)
 * [2023-07-29, 06:49:18](https://news.ycombinator.com/item?id=36917596) - [St Francis of Assisi](https://www.lrb.co.uk/the-paper/v45/n15/mary-wellesley/at-the-national-gallery)
 * [2023-07-29, 03:19:36](https://news.ycombinator.com/item?id=36916530) - [Tetris Max 2.9.1 and Macintosh System 6.0.8 Bugs](https://www.bigmessowires.com/2023/07/28/tetris-max-2-9-1-and-macintosh-system-6-0-8-bugs/)
 * [2023-07-28, 20:31:10](https://news.ycombinator.com/item?id=36912880) - [How to find a street in 2 minutes [video]](https://www.youtube.com/watch?v=rl2Q9xH8e7M)
-* [2023-07-28, 11:13:20](https://news.ycombinator.com/item?id=36905267) - [Forced rhubarb, a vegetable deprived of sunlight, is having a renaissance (2019)](https://www.bbc.com/travel/article/20190424-the-english-vegetable-picked-by-candlelight)
 
 ## [Archives](archives/index.md)
 

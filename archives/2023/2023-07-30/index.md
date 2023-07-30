@@ -6,6 +6,7 @@
 
 * [2023-07-30, 18:06:27](https://news.ycombinator.com/item?id=36934135) - [Reasons Not to Be a Manager](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/)
 * [2023-07-30, 17:59:13](https://news.ycombinator.com/item?id=36934052) - [The Reluctant Sysadmin's Guide to Securing a Linux Server](https://pboyd.io/posts/securing-a-linux-vm/)
+* [2023-07-30, 17:14:22](https://news.ycombinator.com/item?id=36933452) - [Show HN: Khoj – Chat Offline with Your Second Brain Using Llama 2](https://github.com/khoj-ai/khoj)
 * [2023-07-30, 17:06:14](https://news.ycombinator.com/item?id=36933345) - [Workarounds for C11 _Generic()](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/c11-generic/)
 * [2023-07-30, 17:00:32](https://news.ycombinator.com/item?id=36933276) - [Mutable.ai (YC W22) Is Hiring Engineers](https://www.ycombinator.com/companies/mutable-ai/jobs)
 * [2023-07-30, 16:55:30](https://news.ycombinator.com/item?id=36933209) - [Richard Feynman's 1964 Messenger Lectures at Cornell University](https://www.feynmanlectures.caltech.edu/messenger.html)
@@ -21,6 +22,7 @@
 * [2023-07-30, 15:53:46](https://news.ycombinator.com/item?id=36932526) - [The Power of Weeds to End Hunger in an Uncertain Climate](https://worldsensorium.com/the-power-of-weeds-to-end-hunger-in-an-uncertain-climate/)
 * [2023-07-30, 15:53:36](https://news.ycombinator.com/item?id=36932524) - [I feel hopeless, rejected, and a burden on society-one week of empathy training](https://shkspr.mobi/blog/2019/07/i-feel-hopeless-rejected-and-a-burden-on-society-one-week-of-empathy-training/)
 * [2023-07-30, 15:52:47](https://news.ycombinator.com/item?id=36932511) - [Credit card fee fight pits payment companies against retailers](https://www.cnbc.com/2023/07/30/credit-card-fee-fight-pits-payment-companies-against-retailers.html)
+* [2023-07-30, 15:28:43](https://news.ycombinator.com/item?id=36932215) - [Hacker News reacts to JSON5 (2012)](https://news.ycombinator.com/item?id=4031699)
 * [2023-07-30, 15:22:32](https://news.ycombinator.com/item?id=36932119) - [The Secretive World of Penile Enlargement](https://www.propublica.org/article/penis-enlargement-enhancement-procedures-implants)
 * [2023-07-30, 15:17:21](https://news.ycombinator.com/item?id=36932044) - [Why has Britain become so poor?](https://www.thetimes.co.uk/article/why-has-britain-become-so-poor-lw22lhvkh)
 * [2023-07-30, 14:59:40](https://news.ycombinator.com/item?id=36931806) - [Worldcoin: A solution in search of its problem](https://newsletter.mollywhite.net/p/worldcoin-a-solution-in-search-of)
