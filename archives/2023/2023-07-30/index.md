@@ -30,3 +30,4 @@
 * [2023-07-30, 00:59:52](https://news.ycombinator.com/item?id=36926569) - [Snowflake](https://snowflake.torproject.org/)
 * [2023-07-30, 00:14:56](https://news.ycombinator.com/item?id=36926276) - [Apple Pencils don’t draw straight on replaced iPad screens](https://arstechnica.com/gadgets/2023/07/apple-pencils-cant-draw-straight-on-third-party-replacement-ipad-screens/)
 * [2023-07-30, 00:07:13](https://news.ycombinator.com/item?id=36926228) - [ASML EUV Lithography Machine Could Keep Moore’s Law on Track](https://spectrum.ieee.org/high-na-euv)
+* [2023-07-30, 00:04:53](https://news.ycombinator.com/item?id=36926211) - [AMD Based FreeBSD Desktop](https://vermaden.wordpress.com/2023/07/30/amd-based-freebsd-desktop/)
