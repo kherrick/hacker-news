@@ -15,7 +15,6 @@
 * [2023-07-29, 21:27:28](https://news.ycombinator.com/item?id=36924832) - [Red algae proteins grafted into tobacco double plant growth](https://news.cornell.edu/stories/2023/07/red-algae-proteins-grafted-tobacco-double-plant-growth)
 * [2023-07-29, 21:00:55](https://news.ycombinator.com/item?id=36924518) - [Meticulous (YC S21) is hiring #3 engineer to build future of testing](https://news.ycombinator.com/item?id=36924518)
 * [2023-07-29, 20:34:26](https://news.ycombinator.com/item?id=36924267) - [Show HN: Gogit – Just enough Git (in Go) to push itself to GitHub](https://benhoyt.com/writings/gogit/)
-* [2023-07-29, 19:21:55](https://news.ycombinator.com/item?id=36923562) - [The Transformer Blueprint](https://deeprevision.github.io/posts/001-transformer/)
 * [2023-07-29, 17:59:04](https://news.ycombinator.com/item?id=36922790) - [Open Source Outdoor Air Quality Monitor](https://www.airgradient.com/open-air/)
 * [2023-07-29, 17:53:58](https://news.ycombinator.com/item?id=36922744) - [How fast should you accelerate your kid in math?](https://kidswholovemath.substack.com/p/how-fast-should-you-accelerate-your)
 * [2023-07-29, 17:32:42](https://news.ycombinator.com/item?id=36922517) - [US Army Field Manual on Leadership (1990) [pdf]](https://armyoe.files.wordpress.com/2018/03/1990-fm-22-100.pdf)
@@ -29,6 +28,7 @@
 * [2023-07-29, 11:18:12](https://news.ycombinator.com/item?id=36919090) - [Ask HN: Anyone using proportional fonts for coding?](https://news.ycombinator.com/item?id=36919090)
 * [2023-07-29, 04:36:26](https://news.ycombinator.com/item?id=36916982) - [Blue iceberg](https://en.wikipedia.org/wiki/Blue_iceberg)
 * [2023-07-28, 15:31:07](https://news.ycombinator.com/item?id=36908369) - [The bigger the interface, the weaker the abstraction](https://functionallyimperative.com/p/the-bigger-the-interface-the-weaker)
+* [2023-07-28, 11:13:20](https://news.ycombinator.com/item?id=36905267) - [The English vegetable picked by candlelight](https://www.bbc.com/travel/article/20190424-the-english-vegetable-picked-by-candlelight)
 * [2023-07-28, 09:34:48](https://news.ycombinator.com/item?id=36904672) - [In the 17th century, Leibniz dreamed of a machine that could calculate ideas](https://spectrum.ieee.org/in-the-17th-century-leibniz-dreamed-of-a-machine-that-could-calculate-ideas)
 
 ## [Archives](archives/index.md)

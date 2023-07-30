@@ -78,6 +78,7 @@
 * [2023-07-28, 12:00:42](https://news.ycombinator.com/item?id=36905630) - [Finley (YC W21) Is Hiring to Rethink Capital Markets Infrastructure (US Remote)](https://www.finleycms.com/careers/)
 * [2023-07-28, 11:32:48](https://news.ycombinator.com/item?id=36905405) - [There Are at Least 10 Cities with Their Own Psychological Disorders](https://www.atlasobscura.com/articles/cities-with-psychological-syndromes-stockholm)
 * [2023-07-28, 11:16:46](https://news.ycombinator.com/item?id=36905295) - [Apple cracking down on 'fingerprinting' with new App Store API rules](https://www.engadget.com/apple-cracking-down-on-fingerprinting-with-new-app-store-api-rules-080007498.html)
+* [2023-07-28, 11:13:20](https://news.ycombinator.com/item?id=36905267) - [The English vegetable picked by candlelight](https://www.bbc.com/travel/article/20190424-the-english-vegetable-picked-by-candlelight)
 * [2023-07-28, 10:45:17](https://news.ycombinator.com/item?id=36905076) - [What is RT-2? Google DeepMind’s vision-language-action model for robotics](https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/)
 * [2023-07-28, 10:11:00](https://news.ycombinator.com/item?id=36904892) - [Why is c the symbol for the speed of light? (1997)](https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html)
 * [2023-07-28, 09:54:42](https://news.ycombinator.com/item?id=36904785) - [The Resilience of Costco](https://minesafetydisclosures.com/blog/2018/6/18/costco)
