@@ -8,6 +8,7 @@
 * [2023-07-30, 06:45:15](https://news.ycombinator.com/item?id=36928529) - [Fighting for the Open Web [image]](https://www.davidrevoy.com/article982/fighting-for-the-open-web)
 * [2023-07-30, 06:36:19](https://news.ycombinator.com/item?id=36928485) - [Why I use the D programming language for scripting](https://opensource.com/article/21/1/d-scripting)
 * [2023-07-30, 06:18:49](https://news.ycombinator.com/item?id=36928401) - [The X.org Project](https://www.x.org/wiki/)
+* [2023-07-30, 05:13:56](https://news.ycombinator.com/item?id=36928043) - [What I Would Do If I Ran Tarsnap](https://www.kalzumeus.com/2014/04/03/fantasy-tarsnap/)
 * [2023-07-30, 04:59:49](https://news.ycombinator.com/item?id=36927971) - [Comma.ai Launches Comma 3X](https://www.comma.ai/)
 * [2023-07-30, 04:54:22](https://news.ycombinator.com/item?id=36927940) - [So sweet, no spike: microbially produced protein 3k times sweeter than sugar](https://www.nature.com/articles/s41587-023-01865-x)
 * [2023-07-30, 04:16:27](https://news.ycombinator.com/item?id=36927756) - [SGI Octane: What can a $30k computer from the 90s do?](https://www.youtube.com/watch?v=gVyCjweagJM)
