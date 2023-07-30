@@ -34,6 +34,7 @@
 * [2023-07-29, 16:35:32](https://news.ycombinator.com/item?id=36921898) - [Ed Yong is leaving The Atlantic after 8 years and 750 stories](https://buttondown.email/edyong209/archive/the-eds-up-an-ending/)
 * [2023-07-29, 16:28:01](https://news.ycombinator.com/item?id=36921808) - [Universal and transferable adversarial attacks on aligned language models](https://llm-attacks.org/zou2023universal.pdf)
 * [2023-07-29, 16:28:01](https://news.ycombinator.com/item?id=36921808) - [Researchers Discover New Vulnerability in Large Language Models](https://www.cmu.edu/news/stories/archives/2023/july/researchers-discover-new-vulnerability-in-large-language-models)
+* [2023-07-29, 16:25:30](https://news.ycombinator.com/item?id=36921785) - [The Problem of Excess Genius (1997)](https://www.visakanv.com/archives/2021/02/14/the-problem-of-excess-genius-by-david-banks-1997/)
 * [2023-07-29, 16:15:45](https://news.ycombinator.com/item?id=36921675) - [The World’s Largest Wind Turbine Has Been Switched On](https://www.iflscience.com/the-worlds-largest-wind-turbine-has-been-switched-on-70047)
 * [2023-07-29, 16:13:42](https://news.ycombinator.com/item?id=36921651) - [Van Gogh's Artistic Breakthrough](https://en.wikipedia.org/wiki/Vincent_van_Gogh)
 * [2023-07-29, 16:09:25](https://news.ycombinator.com/item?id=36921602) - [Apple’s Parental Controls Are Broken](https://www.wsj.com/articles/apples-parental-controls-are-broken-55a2aa52)
