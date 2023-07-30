@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
+* [2023-07-30, 17:00:32](https://news.ycombinator.com/item?id=36933276) - [Mutable.ai (YC W22) Is Hiring Engineers](https://www.ycombinator.com/companies/mutable-ai/jobs)
+* [2023-07-30, 16:51:23](https://news.ycombinator.com/item?id=36933167) - [Forget subtitles: YouTube now dubs videos with AI-generated voices](https://restofworld.org/2023/youtube-ai-dubbing-automated-translation/)
+* [2023-07-30, 16:42:58](https://news.ycombinator.com/item?id=36933065) - [We bailed out the banks but we’re not prepared to bail out the planet](https://www.theguardian.com/business/2023/jul/30/we-bailed-out-the-banks-prepared-planet-state-economy-sustainable)
+* [2023-07-30, 16:42:43](https://news.ycombinator.com/item?id=36933062) - [The shell and its crappy handling of whitespace](https://blog.plover.com/Unix/whitespace.html)
+* [2023-07-30, 16:39:16](https://news.ycombinator.com/item?id=36933028) - [Musl 1.2.4 adds TCP DNS fallback](https://www.openwall.com/lists/musl/2023/05/02/1)
+* [2023-07-30, 16:34:21](https://news.ycombinator.com/item?id=36932980) - [Monte Carlo Long-Range Interacting System Simulations](https://www.uni-leipzig.de/en/newsdetail/artikel/breakthrough-in-monte-carlo-computer-simulations-2023-07-26)
 * [2023-07-30, 16:24:59](https://news.ycombinator.com/item?id=36932876) - [Repeating Yourself Thrice Doesn’t Turn You into a 3x Developer](https://yrashk.medium.com/repeating-yourself-thrice-doesnt-turn-you-into-a-3x-developer-a778495229c0)
 * [2023-07-30, 16:24:59](https://news.ycombinator.com/item?id=36932875) - [Brexit Could Be Reversed - Here's How](https://www.ft.com/content/0d195d46-b348-4325-824f-c33889bb2cc0)
 * [2023-07-30, 15:54:35](https://news.ycombinator.com/item?id=36932537) - [An Introduction to APIs](https://zapier.com/resources/guides/apis)
