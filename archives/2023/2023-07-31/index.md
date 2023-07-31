@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-31](index.md)
 
+* [2023-07-31, 17:27:14](https://news.ycombinator.com/item?id=36945979) - [Amazon requires services on Fire TV to give it 30% of ad impressions or revenue](https://www.streamtvinsider.com/video/amazon-modifies-ad-revenue-impressions-share-policy-international-fire-tv-apps)
 * [2023-07-31, 17:01:32](https://news.ycombinator.com/item?id=36945578) - [Paul Reubens dead: Pee-wee Herman actor was 70](https://nypost.com/2023/07/31/paul-reubens-dead-pee-wee-herman-actor-was-70/)
 * [2023-07-31, 17:00:28](https://news.ycombinator.com/item?id=36945559) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-07-31, 16:37:34](https://news.ycombinator.com/item?id=36945206) - [Building Nikola Tesla's Bladeless Turbine [video]](https://www.youtube.com/watch?v=Tuzh9mHvzkk)
