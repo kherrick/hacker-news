@@ -20,6 +20,7 @@
 * [2023-07-30, 19:57:17](https://news.ycombinator.com/item?id=36935281) - [HFS Origins: The Turbo File System (2017)](https://macgui.com/news/article.php?t=443)
 * [2023-07-30, 19:34:32](https://news.ycombinator.com/item?id=36935055) - [Documentation as Code for Cloud Using PlantUML](https://blog.dornea.nu/2023/07/30/documentation-as-code-for-cloud-plantuml/)
 * [2023-07-30, 19:32:21](https://news.ycombinator.com/item?id=36935041) - [What's up, Python? The GIL removed, a new compiler, optparse deprecated](https://www.bitecode.dev/p/whats-up-python-the-gil-removed-a)
+* [2023-07-30, 19:24:52](https://news.ycombinator.com/item?id=36934963) - [Don’t Forget Intuition: The art of doing science](https://theamericanscholar.org/dont-forget-intuition/)
 * [2023-07-30, 18:53:24](https://news.ycombinator.com/item?id=36934655) - [Show HN: WordPress, Ghost alternative at $29/Year](https://esyblog.com)
 * [2023-07-30, 18:52:22](https://news.ycombinator.com/item?id=36934647) - [The death of privacy front ends?](https://tux.pizza/posts/service2/)
 * [2023-07-30, 18:41:12](https://news.ycombinator.com/item?id=36934520) - [Logging in Ruby: (Almost) Everything You Need to Know](https://www.akshaykhot.com/logging-in-ruby/)
