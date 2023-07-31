@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-31](index.md)
 
+* [2023-07-31, 11:54:00](https://news.ycombinator.com/item?id=36941299) - [So, you want to deploy on the edge?](https://zknill.io/posts/edge-database/)
 * [2023-07-31, 11:50:24](https://news.ycombinator.com/item?id=36941256) - [Online Safety Bill – Some futures](https://www.regulate.tech/online-safety-bill-some-futures-25th-july-2023/)
 * [2023-07-31, 11:47:13](https://news.ycombinator.com/item?id=36941229) - [The Future of the Web Is VNC](https://shkspr.mobi/blog/2023/07/the-future-of-the-web-is-vnc/)
 * [2023-07-31, 10:53:38](https://news.ycombinator.com/item?id=36940871) - [Is anyone using PyPy for real work?](https://news.ycombinator.com/item?id=36940871)
