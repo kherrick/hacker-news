@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-31, 09:37:26](https://news.ycombinator.com/item?id=36940387) - [Meta Forced to Reveal Anonymous Facebook User's Identity](https://stackdiary.com/meta-forced-to-reveal-anonymous-facebook-users-identity/)
 * [2023-07-31, 09:24:17](https://news.ycombinator.com/item?id=36940323) - [LK-99: The Live Online Race for a Room-Temperature Superconductor](https://eirifu.wordpress.com/2023/07/30/lk-99-superconductor-summary/#sbtable)
 * [2023-07-31, 09:06:14](https://news.ycombinator.com/item?id=36940233) - [OpenTTD 13.4 Released](https://www.openttd.org/news/2023/07/29/openttd-13-4)
-* [2023-07-31, 09:02:06](https://news.ycombinator.com/item?id=36940215) - [Feminist Hacker Barbie](https://computer-engineer-barbie.herokuapp.com/)
 * [2023-07-31, 05:36:47](https://news.ycombinator.com/item?id=36939145) - [Show HN: LearnLingo – Converse with an AI-powered language tutor](https://www.learnlingo.dev)
 * [2023-07-31, 04:23:33](https://news.ycombinator.com/item?id=36938785) - [SEC asked Coinbase to halt trading in everything except bitcoin, CEO says](https://www.ft.com/content/1f873dd5-df8f-4cfc-bb21-ef83ed11fb4d)
 * [2023-07-31, 02:37:33](https://news.ycombinator.com/item?id=36938221) - [AI and the Frontier Paradox](https://www.sequoiacap.com/article/ai-paradox-perspective/)
