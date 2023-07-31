@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-31, 23:04:25](https://news.ycombinator.com/item?id=36950075) - [Help the Library of Congress Create Games That Improve Public's Civics Knowledge](https://blogs.loc.gov/law/2023/06/help-the-library-of-congress-create-video-games-that-improve-public-knowledge-of-civics/)
+* [2023-07-31, 22:55:58](https://news.ycombinator.com/item?id=36949988) - [Retrieving your browsing history through a CAPTCHA](https://varun.ch/history)
 * [2023-07-31, 21:01:01](https://news.ycombinator.com/item?id=36948763) - [Glass Health (YC W23) is hiring a full-stack engineer in SF to build for doctors](https://news.ycombinator.com/item?id=36948763)
 * [2023-07-31, 20:35:13](https://news.ycombinator.com/item?id=36948403) - [Chunking 2M files a day for code search using syntax trees](https://docs.sweep.dev/blogs/chunking-2m-files)
 * [2023-07-31, 20:16:24](https://news.ycombinator.com/item?id=36948164) - [Icanhazip: A simple IP address tool survived a deluge of users (2021)](https://blog.apnic.net/2021/06/17/how-a-small-free-ip-tool-survived/)
 * [2023-07-31, 19:11:55](https://news.ycombinator.com/item?id=36947393) - [First new US nuclear reactor in decades enters commercial operation in Georgia](https://apnews.com/article/georgia-power-nuclear-reactor-vogtle-9555e3f9169f2d58161056feaa81a425)
 * [2023-07-31, 17:36:55](https://news.ycombinator.com/item?id=36946104) - [Marijuana addiction: those struggling often face skepticism](https://www.washingtonpost.com/health/2023/07/31/marijuana-addiction-legal-recreational-sales/)
-* [2023-07-31, 17:30:29](https://news.ycombinator.com/item?id=36946022) - [Quick thoughts on research](https://michaelnotebook.com/qtr/index.html)
 * [2023-07-31, 16:37:34](https://news.ycombinator.com/item?id=36945206) - [Building Nikola Tesla's Bladeless Turbine [video]](https://www.youtube.com/watch?v=Tuzh9mHvzkk)
 * [2023-07-31, 16:35:54](https://news.ycombinator.com/item?id=36945177) - [Show HN: File distribution over DNS: (ab)using DNS as a CDN](https://eighty-twenty.org/2023/07/31/dns-as-a-cdn)
 * [2023-07-31, 16:26:50](https://news.ycombinator.com/item?id=36945046) - [“BASIC Computer Games” code in modern languages](https://github.com/coding-horror/basic-computer-games)
@@ -27,7 +28,6 @@
 * [2023-07-31, 10:15:50](https://news.ycombinator.com/item?id=36940626) - [NASA mistakenly severs communication to Voyager 2](https://www.theregister.com/2023/07/31/nasa_mistakenly_disconnects_voyager_2/)
 * [2023-07-31, 09:24:17](https://news.ycombinator.com/item?id=36940323) - [LK-99: The live online race for a room-temperature superconductor](https://forums.spacebattles.com/threads/claims-of-room-temperature-and-ambient-pressure-superconductor.1106083/page-11?post=94266395#post-94266395)
 * [2023-07-31, 07:18:37](https://news.ycombinator.com/item?id=36939648) - [Fantasy meets reality](https://cabel.com/2023/07/30/fantasy-meets-reality/)
-* [2023-07-30, 17:18:12](https://news.ycombinator.com/item?id=36933512) - [The matrix calculus you need for deep learning (2018)](https://explained.ai/matrix-calculus/)
 * [2023-07-30, 12:03:49](https://news.ycombinator.com/item?id=36930322) - [Trying to become a better developer by learning more about aviation](https://medium.com/@Fcmam5/trying-to-become-a-better-developer-by-learning-more-about-aviation-5241e7092f7e)
 * [2023-07-30, 12:00:18](https://news.ycombinator.com/item?id=36930290) - [Secret Identities in Dwarf Fortress (2017)](https://ojs.aaai.org/index.php/AIIDE/article/view/12963)
 
