@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-31, 17:37:10](https://news.ycombinator.com/item?id=36946107) - [Pee-wee Herman has died](https://variety.com/2023/film/news/paul-reubens-dead-pee-wee-herman-1235683504/)
 * [2023-07-31, 17:30:29](https://news.ycombinator.com/item?id=36946022) - [Michael Nielsen: Quick thoughts on research](https://michaelnotebook.com/qtr/index.html)
 * [2023-07-31, 17:27:14](https://news.ycombinator.com/item?id=36945979) - [Amazon requires services on Fire TV to give it 30% of ad impressions or revenue](https://www.streamtvinsider.com/video/amazon-modifies-ad-revenue-impressions-share-policy-international-fire-tv-apps)
 * [2023-07-31, 17:00:28](https://news.ycombinator.com/item?id=36945559) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
@@ -27,6 +26,7 @@
 * [2023-07-31, 11:01:45](https://news.ycombinator.com/item?id=36940916) - [The Most Prolific Packager for Alpine Linux Is Stepping Away](https://www.phoronix.com/news/Alpine-Linux-Prolific-Packager)
 * [2023-07-31, 10:53:38](https://news.ycombinator.com/item?id=36940871) - [Ask HN: Is anyone using PyPy for real work?](https://news.ycombinator.com/item?id=36940871)
 * [2023-07-31, 10:15:50](https://news.ycombinator.com/item?id=36940626) - [NASA mistakenly severs communication to Voyager 2](https://www.theregister.com/2023/07/31/nasa_mistakenly_disconnects_voyager_2/)
+* [2023-07-30, 19:24:52](https://news.ycombinator.com/item?id=36934963) - [Don’t Forget Intuition: The art of doing science](https://theamericanscholar.org/dont-forget-intuition/)
 * [2023-07-30, 17:18:12](https://news.ycombinator.com/item?id=36933512) - [The Matrix Calculus You Need for Deep Learning](https://explained.ai/matrix-calculus/)
 * [2023-07-30, 12:03:49](https://news.ycombinator.com/item?id=36930322) - [Trying to become a better developer by learning more about aviation](https://medium.com/@Fcmam5/trying-to-become-a-better-developer-by-learning-more-about-aviation-5241e7092f7e)
 * [2023-07-30, 07:03:47](https://news.ycombinator.com/item?id=36928605) - [Voice Recognition](https://www.imperialviolet.org/2023/07/29/voice-recognition.html)
