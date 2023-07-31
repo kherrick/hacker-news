@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-31, 17:53:28](https://news.ycombinator.com/item?id=36946343) - [OpenAI wil crush Sarah Silverman](https://blog.jovono.com/openai-will-crush-sarah-silverman-cf65e2cb3940?gi=55e2bdea26f2)
 * [2023-07-31, 17:37:10](https://news.ycombinator.com/item?id=36946107) - [Pee-wee Herman has died](https://variety.com/2023/film/news/paul-reubens-dead-pee-wee-herman-1235683504/)
 * [2023-07-31, 17:30:29](https://news.ycombinator.com/item?id=36946022) - [Michael Nielsen: Quick thoughts on research](https://michaelnotebook.com/qtr/index.html)
 * [2023-07-31, 17:27:14](https://news.ycombinator.com/item?id=36945979) - [Amazon requires services on Fire TV to give it 30% of ad impressions or revenue](https://www.streamtvinsider.com/video/amazon-modifies-ad-revenue-impressions-share-policy-international-fire-tv-apps)
@@ -14,6 +13,7 @@
 * [2023-07-31, 15:45:31](https://news.ycombinator.com/item?id=36944388) - [Ask HN: How do you monitor your systemd services?](https://news.ycombinator.com/item?id=36944388)
 * [2023-07-31, 15:36:04](https://news.ycombinator.com/item?id=36944223) - [Free and open source software projects are in transition](https://www.baldurbjarnason.com/2023/the-floss-transition/)
 * [2023-07-31, 15:27:13](https://news.ycombinator.com/item?id=36944077) - [The strange way airlines are actually central banks (2020)](https://abroaden.substack.com/p/the-strange-way-airlines-are-actually)
+* [2023-07-31, 15:15:56](https://news.ycombinator.com/item?id=36943874) - [Retrogram rtl-SDR – a radio spectrum analyzer for your terminal](https://github.com/r4d10n/retrogram-rtlsdr)
 * [2023-07-31, 15:15:06](https://news.ycombinator.com/item?id=36943866) - [BBC on Mastodon: experimenting with distributed and decentralised social media](https://www.bbc.co.uk/rd/blog/2023-07-mastodon-distributed-decentralised-fediverse-activitypub)
 * [2023-07-31, 14:53:17](https://news.ycombinator.com/item?id=36943495) - [SEC Charges Hex Founder Richard Heart with Misappropriating Millions of Dollars](https://www.sec.gov/news/press-release/2023-143)
 * [2023-07-31, 14:42:41](https://news.ycombinator.com/item?id=36943318) - [Comparison of vector databases](https://navidre.medium.com/which-vector-database-should-i-use-a-comparison-cheatsheet-cb330e55fca)
@@ -26,7 +26,7 @@
 * [2023-07-31, 11:54:00](https://news.ycombinator.com/item?id=36941299) - [So, you want to deploy on the edge?](https://zknill.io/posts/edge-database/)
 * [2023-07-31, 11:01:45](https://news.ycombinator.com/item?id=36940916) - [The Most Prolific Packager for Alpine Linux Is Stepping Away](https://www.phoronix.com/news/Alpine-Linux-Prolific-Packager)
 * [2023-07-31, 10:53:38](https://news.ycombinator.com/item?id=36940871) - [Ask HN: Is anyone using PyPy for real work?](https://news.ycombinator.com/item?id=36940871)
-* [2023-07-30, 19:24:52](https://news.ycombinator.com/item?id=36934963) - [Don’t Forget Intuition: The art of doing science](https://theamericanscholar.org/dont-forget-intuition/)
+* [2023-07-31, 10:15:50](https://news.ycombinator.com/item?id=36940626) - [NASA mistakenly severs communication to Voyager 2](https://www.theregister.com/2023/07/31/nasa_mistakenly_disconnects_voyager_2/)
 * [2023-07-30, 17:18:12](https://news.ycombinator.com/item?id=36933512) - [The Matrix Calculus You Need for Deep Learning](https://explained.ai/matrix-calculus/)
 * [2023-07-30, 12:03:49](https://news.ycombinator.com/item?id=36930322) - [Trying to become a better developer by learning more about aviation](https://medium.com/@Fcmam5/trying-to-become-a-better-developer-by-learning-more-about-aviation-5241e7092f7e)
 * [2023-07-30, 07:03:47](https://news.ycombinator.com/item?id=36928605) - [Voice Recognition](https://www.imperialviolet.org/2023/07/29/voice-recognition.html)
