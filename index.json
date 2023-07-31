@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-31, 11:54:00",
+      "https://news.ycombinator.com/item?id=36941299"
+    ],
+    [
+      "So, you want to deploy on the edge?",
+      "https://zknill.io/posts/edge-database/"
+    ]
+  ],
+  [
+    [
       "2023-07-31, 11:50:24",
       "https://news.ycombinator.com/item?id=36941256"
     ],
@@ -37,16 +47,6 @@
     [
       "NASA mistakenly severs communication to Voyager 2",
       "https://www.theregister.com/2023/07/31/nasa_mistakenly_disconnects_voyager_2/"
-    ]
-  ],
-  [
-    [
-      "2023-07-31, 10:10:36",
-      "https://news.ycombinator.com/item?id=36940597"
-    ],
-    [
-      "Microsoft is trying too hard with Edge",
-      "https://www.xda-developers.com/microsoft-trying-too-hard-edge/"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "Free Public WiFi",
       "https://computer.rip/2023-07-29-Free-Public-WiFi.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-31, 00:16:58",
-      "https://news.ycombinator.com/item?id=36937480"
-    ],
-    [
-      "AI search of Neanderthal proteins resurrects ‘extinct’ antibiotics",
-      "https://www.nature.com/articles/d41586-023-02403-0"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Feynman's Messenger Lectures (1964)",
       "https://www.feynmanlectures.caltech.edu/messenger.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-30, 16:39:16",
+      "https://news.ycombinator.com/item?id=36933028"
+    ],
+    [
+      "Musl 1.2.4 adds TCP DNS fallback",
+      "https://www.openwall.com/lists/musl/2023/05/02/1"
     ]
   ],
   [
