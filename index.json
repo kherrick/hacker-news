@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-07-31, 21:01:01",
+      "https://news.ycombinator.com/item?id=36948763"
+    ],
+    [
+      "Glass Health (YC W23) is hiring a full-stack engineer in SF to build for doctors",
+      "https://news.ycombinator.com/item?id=36948763"
+    ]
+  ],
+  [
+    [
+      "2023-07-31, 20:35:13",
+      "https://news.ycombinator.com/item?id=36948403"
+    ],
+    [
+      "Chunking 2M files a day for code search using syntax trees",
+      "https://docs.sweep.dev/blogs/chunking-2m-files"
+    ]
+  ],
+  [
+    [
       "2023-07-31, 20:17:20",
       "https://news.ycombinator.com/item?id=36948180"
     ],
     [
-      "The Fall of Stack Overflow",
+      "The Fall of Stack Overflow, Explained",
       "https://newsletter.devmoh.co/p/the-fall-of-stack-overflow-explained"
+    ]
+  ],
+  [
+    [
+      "2023-07-31, 20:16:24",
+      "https://news.ycombinator.com/item?id=36948164"
+    ],
+    [
+      "Icanhazip: A simple IP address tool survived a deluge of users (2021)",
+      "https://blog.apnic.net/2021/06/17/how-a-small-free-ip-tool-survived/"
     ]
   ],
   [
@@ -57,16 +87,6 @@
     [
       "Quick thoughts on research",
       "https://michaelnotebook.com/qtr/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-31, 17:00:28",
-      "https://news.ycombinator.com/item?id=36945559"
-    ],
-    [
-      "EasyPost (YC S13) Is Hiring",
-      "https://www.easypost.com/careers"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-07-31, 13:56:34",
-      "https://news.ycombinator.com/item?id=36942526"
-    ],
-    [
-      "Happy 30th FreeBSD: Why FreeBSD open source project has endured",
-      "https://aster.cloud/2023/06/16/happy-30th-freebsd-why-the-freebsd-open-source-project-has-endured/"
-    ]
-  ],
-  [
-    [
       "2023-07-31, 13:41:21",
       "https://news.ycombinator.com/item?id=36942308"
     ],
@@ -277,16 +287,6 @@
     [
       "Fantasy Meets Reality",
       "https://cabel.com/2023/07/30/fantasy-meets-reality/"
-    ]
-  ],
-  [
-    [
-      "2023-07-30, 17:18:12",
-      "https://news.ycombinator.com/item?id=36933512"
-    ],
-    [
-      "The matrix calculus you need for deep learning (2018)",
-      "https://explained.ai/matrix-calculus/"
     ]
   ],
   [
