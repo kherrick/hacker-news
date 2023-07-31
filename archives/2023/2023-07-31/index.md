@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-31](index.md)
 
+* [2023-07-31, 17:37:10](https://news.ycombinator.com/item?id=36946107) - [Pee-wee Herman has died](https://variety.com/2023/film/news/paul-reubens-dead-pee-wee-herman-1235683504/)
 * [2023-07-31, 17:27:14](https://news.ycombinator.com/item?id=36945979) - [Amazon requires services on Fire TV to give it 30% of ad impressions or revenue](https://www.streamtvinsider.com/video/amazon-modifies-ad-revenue-impressions-share-policy-international-fire-tv-apps)
 * [2023-07-31, 17:01:32](https://news.ycombinator.com/item?id=36945578) - [Paul Reubens dead: Pee-wee Herman actor was 70](https://nypost.com/2023/07/31/paul-reubens-dead-pee-wee-herman-actor-was-70/)
 * [2023-07-31, 17:00:28](https://news.ycombinator.com/item?id=36945559) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-31, 17:37:10](https://news.ycombinator.com/item?id=36946107) - [Pee-wee Herman has died](https://variety.com/2023/film/news/paul-reubens-dead-pee-wee-herman-1235683504/)
 * [2023-07-31, 17:27:14](https://news.ycombinator.com/item?id=36945979) - [Amazon requires services on Fire TV to give it 30% of ad impressions or revenue](https://www.streamtvinsider.com/video/amazon-modifies-ad-revenue-impressions-share-policy-international-fire-tv-apps)
 * [2023-07-31, 17:00:28](https://news.ycombinator.com/item?id=36945559) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-07-31, 16:37:34](https://news.ycombinator.com/item?id=36945206) - [Building Nikola Tesla's Bladeless Turbine [video]](https://www.youtube.com/watch?v=Tuzh9mHvzkk)
@@ -16,7 +17,6 @@
 * [2023-07-31, 14:53:17](https://news.ycombinator.com/item?id=36943495) - [SEC Charges Hex Founder Richard Heart with Misappropriating Millions of Dollars](https://www.sec.gov/news/press-release/2023-143)
 * [2023-07-31, 14:48:23](https://news.ycombinator.com/item?id=36943415) - [Investors are happy to pay premium for tech, but not for AI](https://www.bloomberg.com/news/articles/2023-07-31/investors-are-happy-to-pay-premium-for-tech-but-not-for-ai)
 * [2023-07-31, 14:42:41](https://news.ycombinator.com/item?id=36943318) - [Comparison of vector databases](https://navidre.medium.com/which-vector-database-should-i-use-a-comparison-cheatsheet-cb330e55fca)
-* [2023-07-31, 14:42:40](https://news.ycombinator.com/item?id=36943317) - [What's Hashing? (2022)](https://blog.dvsj.in/hashing/)
 * [2023-07-31, 14:23:59](https://news.ycombinator.com/item?id=36942967) - [LaTeX3: Programming in LaTeX with Ease (2020)](https://www.alanshawn.com/latex3-tutorial/)
 * [2023-07-31, 14:05:25](https://news.ycombinator.com/item?id=36942651) - [x86 is dead, long live x86](https://engineering.mercari.com/en/blog/entry/20230731-x86-is-dead-long-live-x86/)
 * [2023-07-31, 13:41:21](https://news.ycombinator.com/item?id=36942308) - [Show HN: Linkwarden – An open source collaborative bookmark manager](https://linkwarden.app)
