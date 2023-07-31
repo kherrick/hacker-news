@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-31, 23:33:02](https://news.ycombinator.com/item?id=36950337) - [Temple OS Theme for Arch Linux](https://github.com/PhilipPanda/TempleOS_Theme)
 * [2023-07-31, 23:12:23](https://news.ycombinator.com/item?id=36950151) - [Occluding Contour Breakthroughs, Part 1: A Surprisingly Hard Problem](https://aaronhertzmann.com/2023/07/31/occluding-contours-part-1.html)
 * [2023-07-31, 23:04:25](https://news.ycombinator.com/item?id=36950075) - [Help the Library of Congress Create Games That Improve Public's Civics Knowledge](https://blogs.loc.gov/law/2023/06/help-the-library-of-congress-create-video-games-that-improve-public-knowledge-of-civics/)
 * [2023-07-31, 22:55:58](https://news.ycombinator.com/item?id=36949988) - [Retrieving your browsing history through a CAPTCHA](https://varun.ch/history)
@@ -8,7 +9,6 @@
 * [2023-07-31, 20:16:24](https://news.ycombinator.com/item?id=36948164) - [Icanhazip: A simple IP address tool survived a deluge of users (2021)](https://blog.apnic.net/2021/06/17/how-a-small-free-ip-tool-survived/)
 * [2023-07-31, 17:36:55](https://news.ycombinator.com/item?id=36946104) - [Marijuana addiction: those struggling often face skepticism](https://www.washingtonpost.com/health/2023/07/31/marijuana-addiction-legal-recreational-sales/)
 * [2023-07-31, 16:37:34](https://news.ycombinator.com/item?id=36945206) - [Building Nikola Tesla's Bladeless Turbine [video]](https://www.youtube.com/watch?v=Tuzh9mHvzkk)
-* [2023-07-31, 16:35:54](https://news.ycombinator.com/item?id=36945177) - [Show HN: File distribution over DNS: (ab)using DNS as a CDN](https://eighty-twenty.org/2023/07/31/dns-as-a-cdn)
 * [2023-07-31, 16:26:50](https://news.ycombinator.com/item?id=36945046) - [“BASIC Computer Games” code in modern languages](https://github.com/coding-horror/basic-computer-games)
 * [2023-07-31, 16:22:28](https://news.ycombinator.com/item?id=36944978) - [Ice core scientists in East Greenland reach bedrock](https://news.ku.dk/all_news/2023/07/pay-dirt-for-ice-core-scientists-in-east-greenland-as-they-reach-bedrock/)
 * [2023-07-31, 16:20:46](https://news.ycombinator.com/item?id=36944947) - [Digging into the odd history of Blade Runner’s title (2017)](https://www.vulture.com/2017/10/why-is-blade-runner-the-title-of-blade-runner.html)
