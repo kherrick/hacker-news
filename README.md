@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-31, 11:50:24](https://news.ycombinator.com/item?id=36941256) - [Online Safety Bill – Some futures](https://www.regulate.tech/online-safety-bill-some-futures-25th-july-2023/)
+* [2023-07-31, 11:47:13](https://news.ycombinator.com/item?id=36941229) - [The Future of the Web Is VNC](https://shkspr.mobi/blog/2023/07/the-future-of-the-web-is-vnc/)
 * [2023-07-31, 10:53:38](https://news.ycombinator.com/item?id=36940871) - [Is anyone using PyPy for real work?](https://news.ycombinator.com/item?id=36940871)
 * [2023-07-31, 10:15:50](https://news.ycombinator.com/item?id=36940626) - [NASA mistakenly severs communication to Voyager 2](https://www.theregister.com/2023/07/31/nasa_mistakenly_disconnects_voyager_2/)
 * [2023-07-31, 10:10:36](https://news.ycombinator.com/item?id=36940597) - [Microsoft is trying too hard with Edge](https://www.xda-developers.com/microsoft-trying-too-hard-edge/)
@@ -26,10 +28,8 @@
 * [2023-07-30, 17:25:24](https://news.ycombinator.com/item?id=36933603) - [Show HN: San Francisco Compute – 512 H100s at <$2/hr for research and startups](https://sfcompute.org/)
 * [2023-07-30, 17:14:22](https://news.ycombinator.com/item?id=36933452) - [Show HN: Khoj – Chat offline with your second brain using Llama 2](https://github.com/khoj-ai/khoj)
 * [2023-07-30, 16:55:30](https://news.ycombinator.com/item?id=36933209) - [Feynman's Messenger Lectures (1964)](https://www.feynmanlectures.caltech.edu/messenger.html)
-* [2023-07-30, 16:39:16](https://news.ycombinator.com/item?id=36933028) - [Musl 1.2.4 adds TCP DNS fallback](https://www.openwall.com/lists/musl/2023/05/02/1)
 * [2023-07-30, 08:28:57](https://news.ycombinator.com/item?id=36929096) - [Chicago95 – Windows 95 Theme for Linux](https://github.com/grassmunk/Chicago95)
 * [2023-07-30, 04:17:41](https://news.ycombinator.com/item?id=36927760) - [Simone de Beauvoir and the art of loss](https://www.newstatesman.com/culture/books/2023/07/simone-de-beauvoir-art-of-loss-ali-smith)
-* [2023-07-28, 18:14:14](https://news.ycombinator.com/item?id=36910920) - [Insights into the genetic histories and lifeways of Machu Picchu’s occupants](https://www.science.org/doi/10.1126/sciadv.adg3377)
 
 ## [Archives](archives/index.md)
 
