@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2023-07-31](index.md)
 
 * [2023-07-31, 15:55:02](https://news.ycombinator.com/item?id=36944544) - [BBC starts trial with the Fediverse, running its own Mastodon instance](https://social.bbc/about)
+* [2023-07-31, 15:45:31](https://news.ycombinator.com/item?id=36944388) - [Ask HN: How do you monitor your systemd services?](https://news.ycombinator.com/item?id=36944388)
 * [2023-07-31, 15:40:54](https://news.ycombinator.com/item?id=36944311) - [Is Reviving a Private Police Agency in SF the Solution to the City’s Crime Woes?](https://sfstandard.com/2023/07/31/is-reviving-a-private-police-agency-in-san-francisco-the-solution-to-the-citys-crime-woes/)
 * [2023-07-31, 15:36:04](https://news.ycombinator.com/item?id=36944223) - [Free and open source software projects are in transition](https://www.baldurbjarnason.com/2023/the-floss-transition/)
+* [2023-07-31, 15:27:13](https://news.ycombinator.com/item?id=36944077) - [The strange way airlines are actually central banks (2020)](https://abroaden.substack.com/p/the-strange-way-airlines-are-actually)
 * [2023-07-31, 15:15:06](https://news.ycombinator.com/item?id=36943866) - [BBC on Mastodon: experimenting with distributed and decentralised social media](https://www.bbc.co.uk/rd/blog/2023-07-mastodon-distributed-decentralised-fediverse-activitypub)
 * [2023-07-31, 15:01:16](https://news.ycombinator.com/item?id=36943635) - [Battery-electric “Infinity Train” will charge itself using gravity](https://newatlas.com/transport/fortescue-wae-infinity-train-electric/)
 * [2023-07-31, 14:53:17](https://news.ycombinator.com/item?id=36943495) - [SEC Charges Hex Founder Richard Heart with Misappropriating Millions of Dollars](https://www.sec.gov/news/press-release/2023-143)
@@ -25,6 +27,7 @@
 * [2023-07-31, 13:41:10](https://news.ycombinator.com/item?id=36942305) - [BHP says battery electric cheaper than hydrogen as it dumps diesel](https://thedriven.io/2023/06/23/bhp-says-battery-electric-cheaper-than-hydrogen-as-it-dumps-diesel-for-haul-trucks/)
 * [2023-07-31, 13:37:31](https://news.ycombinator.com/item?id=36942266) - [A fridge from 70 years ago has better features than the fridge I own now](https://mstdn.social/@Pandamoanimum/110808340828034444)
 * [2023-07-31, 13:36:05](https://news.ycombinator.com/item?id=36942251) - [The Blue Flash: A careless slip led to a fatal accident in the Manhattan Project](https://www.bbc.com/future/article/20230719-the-blue-flash-louis-slotin-accident-manhattan-project-oppenheimer-atomic-bomb)
+* [2023-07-31, 13:28:35](https://news.ycombinator.com/item?id=36942166) - [Cards as Weapons (1977)](https://archive.org/details/Cards_as_Weapons_-_Ricky_Jay_1977)
 * [2023-07-31, 13:24:15](https://news.ycombinator.com/item?id=36942124) - [Add PayPal to your Stripe integration](https://hyperswitch.io/blog/add-paypal-to-your-stripe-integration)
 * [2023-07-31, 13:14:32](https://news.ycombinator.com/item?id=36942033) - [The Fibonacci Matrix](https://ianthehenry.com/posts/fibonacci/)
 * [2023-07-31, 13:06:00](https://news.ycombinator.com/item?id=36941960) - [The New York Times attacks e-bikes while ignoring the real danger all around us](https://electrek.co/2023/07/30/the-new-york-times-attacks-e-bikes-while-ignoring-car-danger/)
