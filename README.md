@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-31, 05:36:47](https://news.ycombinator.com/item?id=36939145) - [Show HN: LearnLingo – Converse with an AI-powered language tutor](https://www.learnlingo.dev)
-* [2023-07-31, 04:23:33](https://news.ycombinator.com/item?id=36938785) - [SEC asked Coinbase to halt trading for everything except Bitcoin (FT)](https://www.ft.com/content/1f873dd5-df8f-4cfc-bb21-ef83ed11fb4d)
+* [2023-07-31, 04:23:33](https://news.ycombinator.com/item?id=36938785) - [SEC asked Coinbase to halt trading in everything except bitcoin, CEO says](https://www.ft.com/content/1f873dd5-df8f-4cfc-bb21-ef83ed11fb4d)
 * [2023-07-31, 02:37:33](https://news.ycombinator.com/item?id=36938221) - [AI and the Frontier Paradox](https://www.sequoiacap.com/article/ai-paradox-perspective/)
 * [2023-07-31, 00:51:31](https://news.ycombinator.com/item?id=36937713) - [Conduit: Simple, fast and reliable chat server powered by Matrix](https://conduit.rs/)
 * [2023-07-31, 00:43:27](https://news.ycombinator.com/item?id=36937658) - [The Screwed-O-Meter](https://rachelbythebay.com/fun/som/)
