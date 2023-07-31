@@ -33,6 +33,7 @@
 * [2023-07-31, 14:42:41](https://news.ycombinator.com/item?id=36943318) - [Comparison of Vector Databases](https://navidre.medium.com/which-vector-database-should-i-use-a-comparison-cheatsheet-cb330e55fca)
 * [2023-07-31, 14:42:40](https://news.ycombinator.com/item?id=36943317) - [Hashing explained for non-tech people](https://blog.dvsj.in/hashing/)
 * [2023-07-31, 14:41:09](https://news.ycombinator.com/item?id=36943293) - [Dasung to launch the world’s first color E-ink monitor](https://www.cnx-software.com/2023/07/31/dasung-to-launch-the-worlds-first-23-5-inch-color-e-ink-monitor/)
+* [2023-07-31, 14:40:02](https://news.ycombinator.com/item?id=36943263) - [Space junk: India says object found in Australia is theirs](https://www.bbc.com/news/world-australia-66359381)
 * [2023-07-31, 14:25:14](https://news.ycombinator.com/item?id=36942993) - [Unum: Vector Search engine in a single file](https://unum-cloud.github.io/usearch/)
 * [2023-07-31, 14:23:59](https://news.ycombinator.com/item?id=36942967) - [LaTeX3: Programming in LaTeX with Ease (2020)](https://www.alanshawn.com/latex3-tutorial/)
 * [2023-07-31, 14:08:53](https://news.ycombinator.com/item?id=36942717) - [I Paid Off $194k in Student Loans in Six Years. It Wasn’t Easy](https://benjaminlabaschin.com/194k-in-loans-in-six-years/)
