@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
+* [2023-07-30, 23:21:13](https://news.ycombinator.com/item?id=36937047) - [A Year in Review of 0-days Exploited In-the-Wild in 2022](https://security.googleblog.com/2023/07/the-ups-and-downs-of-0-days-year-in.html)
+* [2023-07-30, 22:49:17](https://news.ycombinator.com/item?id=36936797) - [Show HN: Pyflo – a free, interactive guide to learning Python](https://pyflo.net)
 * [2023-07-30, 22:41:06](https://news.ycombinator.com/item?id=36936735) - [Greed and Excess Drive the Climate Crisis, So Why Aren’t They Being Questioned?](https://www.transformatise.com/2023/07/greed-and-excess-drive-the-climate-crisis-so-why-arent-they-being-questioned/)
 * [2023-07-30, 22:07:35](https://news.ycombinator.com/item?id=36936498) - [Microbial Odor Profile of Polyester and Cotton Clothes After a Fitness Session](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4249026/)
+* [2023-07-30, 22:04:51](https://news.ycombinator.com/item?id=36936474) - [Show HN: Single-Instruction (Subleq) Programming Game](https://jaredkrinke.itch.io/sic-1)
 * [2023-07-30, 21:41:59](https://news.ycombinator.com/item?id=36936302) - [How to not get rejected from YC's Early AI interview batch](https://hermitian.substack.com/p/how-to-not-get-rejected-from-ycs)
 * [2023-07-30, 20:57:12](https://news.ycombinator.com/item?id=36935887) - [Rising evidence that leprosy has become endemic in Southeastern United States](https://wwwnc.cdc.gov/eid/article/29/8/22-0367_article)
 * [2023-07-30, 20:53:28](https://news.ycombinator.com/item?id=36935843) - [The Right to Lie and Google’s “Web Environment Integrity”](https://rants.org/2023/07/the-right-to-lie-and-google-wei/)
