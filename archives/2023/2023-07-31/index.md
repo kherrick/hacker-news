@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-31](index.md)
 
+* [2023-07-31, 21:01:01](https://news.ycombinator.com/item?id=36948763) - [Glass Health (YC W23) is hiring a full-stack engineer in SF to build for doctors](https://news.ycombinator.com/item?id=36948763)
+* [2023-07-31, 20:35:13](https://news.ycombinator.com/item?id=36948403) - [Chunking 2M files a day for code search using syntax trees](https://docs.sweep.dev/blogs/chunking-2m-files)
 * [2023-07-31, 20:17:20](https://news.ycombinator.com/item?id=36948180) - [The Fall of Stack Overflow](https://newsletter.devmoh.co/p/the-fall-of-stack-overflow-explained)
+* [2023-07-31, 20:16:24](https://news.ycombinator.com/item?id=36948164) - [Icanhazip: A simple IP address tool survived a deluge of users (2021)](https://blog.apnic.net/2021/06/17/how-a-small-free-ip-tool-survived/)
 * [2023-07-31, 19:30:03](https://news.ycombinator.com/item?id=36947603) - [Are the “missing baryons” simply too hot to see?](https://bigthink.com/starts-with-a-bang/missing-baryons-too-hot/)
 * [2023-07-31, 19:11:55](https://news.ycombinator.com/item?id=36947393) - [First new US nuclear reactor in decades enters commercial operation in Georgia](https://apnews.com/article/georgia-power-nuclear-reactor-vogtle-9555e3f9169f2d58161056feaa81a425)
 * [2023-07-31, 18:10:18](https://news.ycombinator.com/item?id=36946553) - [Plans to plant billions of trees threatened by undersupply of seedlings](https://www.uvm.edu/news/story/plans-plant-billions-trees-threatened-massive-undersupply-seedlings)
