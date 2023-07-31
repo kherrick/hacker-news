@@ -71,6 +71,7 @@
 * [2023-07-30, 08:28:57](https://news.ycombinator.com/item?id=36929096) - [Chicago95 – Windows 95 Theme for Linux](https://github.com/grassmunk/Chicago95)
 * [2023-07-30, 08:28:00](https://news.ycombinator.com/item?id=36929090) - [Scientists May Have Found Mechanism Behind Cognitive Decline in Aging](https://news.cuanschutz.edu/news-stories/scientists-may-have-found-mechanism-behind-cognitive-decline-in-aging)
 * [2023-07-30, 07:15:48](https://news.ycombinator.com/item?id=36928678) - [Blaming Capitalists and Workers for Inflation](https://www.profstonge.com/p/blaming-capitalists-and-workers-for)
+* [2023-07-30, 07:03:47](https://news.ycombinator.com/item?id=36928605) - [Voice Recognition](https://www.imperialviolet.org/2023/07/29/voice-recognition.html)
 * [2023-07-30, 07:00:46](https://news.ycombinator.com/item?id=36928601) - [PlayHT (YC W23) Is Hiring ML Engineers (LLMs, Generative AI)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 * [2023-07-30, 06:45:15](https://news.ycombinator.com/item?id=36928529) - [Fighting for the Open Web [image]](https://www.davidrevoy.com/article982/fighting-for-the-open-web)
 * [2023-07-30, 06:36:19](https://news.ycombinator.com/item?id=36928485) - [Why I use the D programming language for scripting](https://opensource.com/article/21/1/d-scripting)
