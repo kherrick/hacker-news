@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-31, 18:10:18](https://news.ycombinator.com/item?id=36946553) - [Plans to plant billions of trees threatened by undersupply of seedlings](https://www.uvm.edu/news/story/plans-plant-billions-trees-threatened-massive-undersupply-seedlings)
-* [2023-07-31, 17:42:10](https://news.ycombinator.com/item?id=36946171) - [STEM professionals ask Nature to retract COVID-19 lab leak paper](https://biosafetynow.org/open-letter-to-nature-medicine/)
 * [2023-07-31, 17:30:29](https://news.ycombinator.com/item?id=36946022) - [Michael Nielsen: Quick thoughts on research](https://michaelnotebook.com/qtr/index.html)
 * [2023-07-31, 17:27:14](https://news.ycombinator.com/item?id=36945979) - [Amazon requires services on Fire TV to give it 30% of ad impressions or revenue](https://www.streamtvinsider.com/video/amazon-modifies-ad-revenue-impressions-share-policy-international-fire-tv-apps)
 * [2023-07-31, 17:00:28](https://news.ycombinator.com/item?id=36945559) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
@@ -18,6 +17,7 @@
 * [2023-07-31, 14:42:41](https://news.ycombinator.com/item?id=36943318) - [Comparison of vector databases](https://navidre.medium.com/which-vector-database-should-i-use-a-comparison-cheatsheet-cb330e55fca)
 * [2023-07-31, 14:40:02](https://news.ycombinator.com/item?id=36943263) - [Space junk: India says object found in Australia is theirs](https://www.bbc.com/news/world-australia-66359381)
 * [2023-07-31, 14:25:14](https://news.ycombinator.com/item?id=36942993) - [Unum: Vector Search engine in a single file](https://unum-cloud.github.io/usearch/)
+* [2023-07-31, 14:23:59](https://news.ycombinator.com/item?id=36942967) - [LaTeX3: Programming in LaTeX with Ease (2020)](https://www.alanshawn.com/latex3-tutorial/)
 * [2023-07-31, 14:05:25](https://news.ycombinator.com/item?id=36942651) - [x86 is dead, long live x86](https://engineering.mercari.com/en/blog/entry/20230731-x86-is-dead-long-live-x86/)
 * [2023-07-31, 13:41:21](https://news.ycombinator.com/item?id=36942308) - [Show HN: Linkwarden – An open source collaborative bookmark manager](https://linkwarden.app)
 * [2023-07-31, 13:28:35](https://news.ycombinator.com/item?id=36942166) - [Cards as Weapons (1977)](https://archive.org/details/Cards_as_Weapons_-_Ricky_Jay_1977)
