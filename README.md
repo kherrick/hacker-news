@@ -2,6 +2,7 @@
 
 * [2023-07-31, 10:53:38](https://news.ycombinator.com/item?id=36940871) - [Is anyone using PyPy for real work?](https://news.ycombinator.com/item?id=36940871)
 * [2023-07-31, 10:15:50](https://news.ycombinator.com/item?id=36940626) - [NASA mistakenly severs communication to Voyager 2](https://www.theregister.com/2023/07/31/nasa_mistakenly_disconnects_voyager_2/)
+* [2023-07-31, 10:10:36](https://news.ycombinator.com/item?id=36940597) - [Microsoft is trying too hard with Edge](https://www.xda-developers.com/microsoft-trying-too-hard-edge/)
 * [2023-07-31, 10:01:45](https://news.ycombinator.com/item?id=36940525) - [Curl Command Line Variables](https://daniel.haxx.se/blog/2023/07/31/introducing-curl-command-line-variables/)
 * [2023-07-31, 09:47:34](https://news.ycombinator.com/item?id=36940441) - [We found a genius way to revive a poisoned river [video]](https://www.youtube.com/watch?v=ZgItGjKu4mQ)
 * [2023-07-31, 09:37:26](https://news.ycombinator.com/item?id=36940387) - [Meta Forced to Reveal Anonymous Facebook User's Identity](https://stackdiary.com/meta-forced-to-reveal-anonymous-facebook-users-identity/)
@@ -20,7 +21,6 @@
 * [2023-07-30, 19:57:17](https://news.ycombinator.com/item?id=36935281) - [HFS Origins: The Turbo File System (2017)](https://macgui.com/news/article.php?t=443)
 * [2023-07-30, 19:34:32](https://news.ycombinator.com/item?id=36935055) - [Documentation as Code for Cloud Using PlantUML](https://blog.dornea.nu/2023/07/30/documentation-as-code-for-cloud-plantuml/)
 * [2023-07-30, 19:32:21](https://news.ycombinator.com/item?id=36935041) - [What's up, Python? The GIL removed, a new compiler, optparse deprecated](https://www.bitecode.dev/p/whats-up-python-the-gil-removed-a)
-* [2023-07-30, 18:06:27](https://news.ycombinator.com/item?id=36934135) - [Reasons Not to Be a Manager (2019)](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/)
 * [2023-07-30, 17:59:13](https://news.ycombinator.com/item?id=36934052) - [The Reluctant Sysadmin's Guide to Securing a Linux Server](https://pboyd.io/posts/securing-a-linux-vm/)
 * [2023-07-30, 17:57:29](https://news.ycombinator.com/item?id=36934029) - [Linux Air Combat: free, lightweight and open-source combat flight simulator](https://askmisterwizard.com/2019/LinuxAirCombat/LinuxAirCombat.htm)
 * [2023-07-30, 17:25:24](https://news.ycombinator.com/item?id=36933603) - [Show HN: San Francisco Compute – 512 H100s at <$2/hr for research and startups](https://sfcompute.org/)

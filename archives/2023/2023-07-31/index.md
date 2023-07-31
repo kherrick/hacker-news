@@ -6,6 +6,7 @@
 
 * [2023-07-31, 10:53:38](https://news.ycombinator.com/item?id=36940871) - [Is anyone using PyPy for real work?](https://news.ycombinator.com/item?id=36940871)
 * [2023-07-31, 10:15:50](https://news.ycombinator.com/item?id=36940626) - [NASA mistakenly severs communication to Voyager 2](https://www.theregister.com/2023/07/31/nasa_mistakenly_disconnects_voyager_2/)
+* [2023-07-31, 10:10:36](https://news.ycombinator.com/item?id=36940597) - [Microsoft is trying too hard with Edge](https://www.xda-developers.com/microsoft-trying-too-hard-edge/)
 * [2023-07-31, 10:01:45](https://news.ycombinator.com/item?id=36940525) - [Curl Command Line Variables](https://daniel.haxx.se/blog/2023/07/31/introducing-curl-command-line-variables/)
 * [2023-07-31, 09:47:34](https://news.ycombinator.com/item?id=36940441) - [We found a genius way to revive a poisoned river [video]](https://www.youtube.com/watch?v=ZgItGjKu4mQ)
 * [2023-07-31, 09:37:26](https://news.ycombinator.com/item?id=36940387) - [Meta Forced to Reveal Anonymous Facebook User's Identity](https://stackdiary.com/meta-forced-to-reveal-anonymous-facebook-users-identity/)
