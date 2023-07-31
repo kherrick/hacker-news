@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2023-07-31, 16:35:54",
+      "https://news.ycombinator.com/item?id=36945177"
+    ],
+    [
+      "Show HN: File distribution over DNS: (ab)using DNS as a CDN",
+      "https://eighty-twenty.org/2023/07/31/dns-as-a-cdn"
+    ]
+  ],
+  [
+    [
       "2023-07-31, 16:26:50",
       "https://news.ycombinator.com/item?id=36945046"
     ],
@@ -107,6 +117,16 @@
     [
       "Free and open source software projects are in transition",
       "https://www.baldurbjarnason.com/2023/the-floss-transition/"
+    ]
+  ],
+  [
+    [
+      "2023-07-31, 15:31:26",
+      "https://news.ycombinator.com/item?id=36944152"
+    ],
+    [
+      "Show HN: Markwhen: Markdown for Timelines",
+      "https://app.markwhen.com"
     ]
   ],
   [
@@ -181,12 +201,12 @@
   ],
   [
     [
-      "2023-07-31, 14:23:59",
-      "https://news.ycombinator.com/item?id=36942967"
+      "2023-07-31, 13:56:34",
+      "https://news.ycombinator.com/item?id=36942526"
     ],
     [
-      "LaTeX3: Programming in LaTeX with Ease (2020)",
-      "https://www.alanshawn.com/latex3-tutorial/"
+      "Happy 30th FreeBSD: Why FreeBSD open source project has endured",
+      "https://aster.cloud/2023/06/16/happy-30th-freebsd-why-the-freebsd-open-source-project-has-endured/"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2023-07-31, 13:04:15",
-      "https://news.ycombinator.com/item?id=36941942"
-    ],
-    [
-      "Paperlike Color: Color E-Ink Monitor",
-      "https://www.indiegogo.com/projects/paperlike-color-world-first-color-e-ink-monitor/coming_soon"
-    ]
-  ],
-  [
-    [
       "2023-07-31, 11:54:00",
       "https://news.ycombinator.com/item?id=36941299"
     ],
     [
       "So, you want to deploy on the edge?",
       "https://zknill.io/posts/edge-database/"
-    ]
-  ],
-  [
-    [
-      "2023-07-31, 11:01:45",
-      "https://news.ycombinator.com/item?id=36940916"
-    ],
-    [
-      "The most prolific packager for Alpine Linux is stepping away",
-      "https://www.phoronix.com/news/Alpine-Linux-Prolific-Packager"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2023-07-31, 09:37:26",
-      "https://news.ycombinator.com/item?id=36940387"
-    ],
-    [
-      "Meta forced to reveal anonymous Facebook user's identity",
-      "https://stackdiary.com/meta-forced-to-reveal-anonymous-facebook-users-identity/"
-    ]
-  ],
-  [
-    [
       "2023-07-31, 09:24:17",
       "https://news.ycombinator.com/item?id=36940323"
     ],
     [
       "LK-99: The live online race for a room-temperature superconductor",
       "https://forums.spacebattles.com/threads/claims-of-room-temperature-and-ambient-pressure-superconductor.1106083/page-11?post=94266395#post-94266395"
+    ]
+  ],
+  [
+    [
+      "2023-07-31, 07:18:37",
+      "https://news.ycombinator.com/item?id=36939648"
+    ],
+    [
+      "Fantasy Meets Reality",
+      "https://cabel.com/2023/07/30/fantasy-meets-reality/"
     ]
   ],
   [
