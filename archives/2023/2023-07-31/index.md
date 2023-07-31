@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-31](index.md)
 
+* [2023-07-31, 19:11:55](https://news.ycombinator.com/item?id=36947393) - [First new US nuclear reactor in decades enters commercial operation in Georgia](https://apnews.com/article/georgia-power-nuclear-reactor-vogtle-9555e3f9169f2d58161056feaa81a425)
 * [2023-07-31, 18:10:18](https://news.ycombinator.com/item?id=36946553) - [Plans to plant billions of trees threatened by undersupply of seedlings](https://www.uvm.edu/news/story/plans-plant-billions-trees-threatened-massive-undersupply-seedlings)
 * [2023-07-31, 17:53:28](https://news.ycombinator.com/item?id=36946343) - [OpenAI wil crush Sarah Silverman](https://blog.jovono.com/openai-will-crush-sarah-silverman-cf65e2cb3940?gi=55e2bdea26f2)
 * [2023-07-31, 17:42:10](https://news.ycombinator.com/item?id=36946171) - [STEM professionals ask Nature to retract COVID-19 lab leak paper](https://biosafetynow.org/open-letter-to-nature-medicine/)
