@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-31](index.md)
 
+* [2023-07-31, 18:10:18](https://news.ycombinator.com/item?id=36946553) - [Plans to plant billions of trees threatened by undersupply of seedlings](https://www.uvm.edu/news/story/plans-plant-billions-trees-threatened-massive-undersupply-seedlings)
 * [2023-07-31, 17:53:28](https://news.ycombinator.com/item?id=36946343) - [OpenAI wil crush Sarah Silverman](https://blog.jovono.com/openai-will-crush-sarah-silverman-cf65e2cb3940?gi=55e2bdea26f2)
 * [2023-07-31, 17:37:10](https://news.ycombinator.com/item?id=36946107) - [Pee-wee Herman has died](https://variety.com/2023/film/news/paul-reubens-dead-pee-wee-herman-1235683504/)
+* [2023-07-31, 17:36:55](https://news.ycombinator.com/item?id=36946104) - [Marijuana Addiction Is Real. Those Struggling Often Face Skepticism](https://www.washingtonpost.com/health/2023/07/31/marijuana-addiction-legal-recreational-sales/)
 * [2023-07-31, 17:30:29](https://news.ycombinator.com/item?id=36946022) - [Michael Nielsen: Quick thoughts on research](https://michaelnotebook.com/qtr/index.html)
 * [2023-07-31, 17:27:14](https://news.ycombinator.com/item?id=36945979) - [Amazon requires services on Fire TV to give it 30% of ad impressions or revenue](https://www.streamtvinsider.com/video/amazon-modifies-ad-revenue-impressions-share-policy-international-fire-tv-apps)
 * [2023-07-31, 17:01:32](https://news.ycombinator.com/item?id=36945578) - [Paul Reubens dead: Pee-wee Herman actor was 70](https://nypost.com/2023/07/31/paul-reubens-dead-pee-wee-herman-actor-was-70/)
