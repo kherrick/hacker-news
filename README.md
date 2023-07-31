@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-31, 09:06:14](https://news.ycombinator.com/item?id=36940233) - [OpenTTD 13.4 Released](https://www.openttd.org/news/2023/07/29/openttd-13-4)
 * [2023-07-31, 05:36:47](https://news.ycombinator.com/item?id=36939145) - [Show HN: LearnLingo – Converse with an AI-powered language tutor](https://www.learnlingo.dev)
 * [2023-07-31, 04:23:33](https://news.ycombinator.com/item?id=36938785) - [SEC asked Coinbase to halt trading in everything except bitcoin, CEO says](https://www.ft.com/content/1f873dd5-df8f-4cfc-bb21-ef83ed11fb4d)
 * [2023-07-31, 02:37:33](https://news.ycombinator.com/item?id=36938221) - [AI and the Frontier Paradox](https://www.sequoiacap.com/article/ai-paradox-perspective/)
@@ -8,7 +9,6 @@
 * [2023-07-31, 00:34:25](https://news.ycombinator.com/item?id=36937593) - [Mac Mouse Fix](https://mousefix.org/)
 * [2023-07-31, 00:30:43](https://news.ycombinator.com/item?id=36937571) - [Free Public WiFi](https://computer.rip/2023-07-29-Free-Public-WiFi.html)
 * [2023-07-31, 00:16:58](https://news.ycombinator.com/item?id=36937480) - [AI search of Neanderthal proteins resurrects ‘extinct’ antibiotics](https://www.nature.com/articles/d41586-023-02403-0)
-* [2023-07-30, 23:34:30](https://news.ycombinator.com/item?id=36937138) - [Understanding American Airport Security Following 9/11 (2019)](https://libertarianinstitute.org/articles/tsa-airport-security-theater-guide/)
 * [2023-07-30, 23:21:13](https://news.ycombinator.com/item?id=36937047) - [A Year in Review of 0-days Exploited In-the-Wild in 2022](https://security.googleblog.com/2023/07/the-ups-and-downs-of-0-days-year-in.html)
 * [2023-07-30, 22:49:17](https://news.ycombinator.com/item?id=36936797) - [Show HN: Pyflo – a free, interactive guide to learning Python](https://pyflo.net)
 * [2023-07-30, 22:04:51](https://news.ycombinator.com/item?id=36936474) - [Show HN: Single-Instruction (Subleq) Programming Game](https://jaredkrinke.itch.io/sic-1)
