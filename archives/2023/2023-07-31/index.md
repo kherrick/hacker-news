@@ -5,8 +5,13 @@
 ### [Archives](../../index.md) for [2023-07-31](index.md)
 
 * [2023-07-31, 15:01:16](https://news.ycombinator.com/item?id=36943635) - [Battery-electric “Infinity Train” will charge itself using gravity](https://newatlas.com/transport/fortescue-wae-infinity-train-electric/)
+* [2023-07-31, 14:53:17](https://news.ycombinator.com/item?id=36943495) - [SEC Charges Hex Founder Richard Heart with Misappropriating Millions of Dollars](https://www.sec.gov/news/press-release/2023-143)
 * [2023-07-31, 14:48:23](https://news.ycombinator.com/item?id=36943415) - [Investors Are Happy to Pay Premium for Tech, but Not for AI](https://www.bloomberg.com/news/articles/2023-07-31/investors-are-happy-to-pay-premium-for-tech-but-not-for-ai)
 * [2023-07-31, 14:42:41](https://news.ycombinator.com/item?id=36943318) - [Comparison of Vector Databases](https://navidre.medium.com/which-vector-database-should-i-use-a-comparison-cheatsheet-cb330e55fca)
+* [2023-07-31, 14:42:40](https://news.ycombinator.com/item?id=36943317) - [Hashing explained for non-tech people](https://blog.dvsj.in/hashing/)
+* [2023-07-31, 14:41:09](https://news.ycombinator.com/item?id=36943293) - [Dasung to launch the world’s first color E-ink monitor](https://www.cnx-software.com/2023/07/31/dasung-to-launch-the-worlds-first-23-5-inch-color-e-ink-monitor/)
+* [2023-07-31, 14:23:59](https://news.ycombinator.com/item?id=36942967) - [LaTeX3: Programming in LaTeX with Ease (2020)](https://www.alanshawn.com/latex3-tutorial/)
+* [2023-07-31, 14:08:53](https://news.ycombinator.com/item?id=36942717) - [I Paid Off $194k in Student Loans in Six Years. It Wasn’t Easy](https://benjaminlabaschin.com/194k-in-loans-in-six-years/)
 * [2023-07-31, 14:05:25](https://news.ycombinator.com/item?id=36942651) - [x86 is dead, long live x86](https://engineering.mercari.com/en/blog/entry/20230731-x86-is-dead-long-live-x86/)
 * [2023-07-31, 13:56:34](https://news.ycombinator.com/item?id=36942526) - [Happy 30th FreeBSD Why FreeBSD Open Source Project Has Endured](https://aster.cloud/2023/06/16/happy-30th-freebsd-why-the-freebsd-open-source-project-has-endured/)
 * [2023-07-31, 13:53:29](https://news.ycombinator.com/item?id=36942476) - [Compilation of Known LK-99 Replication Attempt Claims](https://forums.spacebattles.com/threads/claims-of-room-temperature-and-ambient-pressure-superconductor.1106083/page-15)
