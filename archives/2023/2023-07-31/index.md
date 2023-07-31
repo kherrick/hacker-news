@@ -6,6 +6,7 @@
 
 * [2023-07-31, 18:10:18](https://news.ycombinator.com/item?id=36946553) - [Plans to plant billions of trees threatened by undersupply of seedlings](https://www.uvm.edu/news/story/plans-plant-billions-trees-threatened-massive-undersupply-seedlings)
 * [2023-07-31, 17:53:28](https://news.ycombinator.com/item?id=36946343) - [OpenAI wil crush Sarah Silverman](https://blog.jovono.com/openai-will-crush-sarah-silverman-cf65e2cb3940?gi=55e2bdea26f2)
+* [2023-07-31, 17:42:10](https://news.ycombinator.com/item?id=36946171) - [STEM professionals ask Nature to retract COVID-19 lab leak paper](https://biosafetynow.org/open-letter-to-nature-medicine/)
 * [2023-07-31, 17:37:10](https://news.ycombinator.com/item?id=36946107) - [Pee-wee Herman has died](https://variety.com/2023/film/news/paul-reubens-dead-pee-wee-herman-1235683504/)
 * [2023-07-31, 17:36:55](https://news.ycombinator.com/item?id=36946104) - [Marijuana Addiction Is Real. Those Struggling Often Face Skepticism](https://www.washingtonpost.com/health/2023/07/31/marijuana-addiction-legal-recreational-sales/)
 * [2023-07-31, 17:30:29](https://news.ycombinator.com/item?id=36946022) - [Michael Nielsen: Quick thoughts on research](https://michaelnotebook.com/qtr/index.html)
@@ -32,6 +33,7 @@
 * [2023-07-31, 14:42:41](https://news.ycombinator.com/item?id=36943318) - [Comparison of Vector Databases](https://navidre.medium.com/which-vector-database-should-i-use-a-comparison-cheatsheet-cb330e55fca)
 * [2023-07-31, 14:42:40](https://news.ycombinator.com/item?id=36943317) - [Hashing explained for non-tech people](https://blog.dvsj.in/hashing/)
 * [2023-07-31, 14:41:09](https://news.ycombinator.com/item?id=36943293) - [Dasung to launch the world’s first color E-ink monitor](https://www.cnx-software.com/2023/07/31/dasung-to-launch-the-worlds-first-23-5-inch-color-e-ink-monitor/)
+* [2023-07-31, 14:25:14](https://news.ycombinator.com/item?id=36942993) - [Unum: Vector Search engine in a single file](https://unum-cloud.github.io/usearch/)
 * [2023-07-31, 14:23:59](https://news.ycombinator.com/item?id=36942967) - [LaTeX3: Programming in LaTeX with Ease (2020)](https://www.alanshawn.com/latex3-tutorial/)
 * [2023-07-31, 14:08:53](https://news.ycombinator.com/item?id=36942717) - [I Paid Off $194k in Student Loans in Six Years. It Wasn’t Easy](https://benjaminlabaschin.com/194k-in-loans-in-six-years/)
 * [2023-07-31, 14:05:25](https://news.ycombinator.com/item?id=36942651) - [x86 is dead, long live x86](https://engineering.mercari.com/en/blog/entry/20230731-x86-is-dead-long-live-x86/)
