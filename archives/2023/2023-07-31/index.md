@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-31](index.md)
 
+* [2023-07-31, 09:24:17](https://news.ycombinator.com/item?id=36940323) - [LK-99: The Live Online Race for a Room-Temperature Superconductor](https://eirifu.wordpress.com/2023/07/30/lk-99-superconductor-summary/#sbtable)
 * [2023-07-31, 09:06:14](https://news.ycombinator.com/item?id=36940233) - [OpenTTD 13.4 Released](https://www.openttd.org/news/2023/07/29/openttd-13-4)
+* [2023-07-31, 09:02:06](https://news.ycombinator.com/item?id=36940215) - [Feminist Hacker Barbie](https://computer-engineer-barbie.herokuapp.com/)
 * [2023-07-31, 05:36:47](https://news.ycombinator.com/item?id=36939145) - [Show HN: LearnLingo – Converse with an AI-powered language tutor](https://www.learnlingo.dev)
 * [2023-07-31, 05:09:49](https://news.ycombinator.com/item?id=36939020) - [WikiSpooks: An Encyclopaedia of Deep Politics](https://wikispooks.com/wiki/Main_Page)
 * [2023-07-31, 04:23:33](https://news.ycombinator.com/item?id=36938785) - [SEC asked Coinbase to halt trading for everything except Bitcoin (FT)](https://www.ft.com/content/1f873dd5-df8f-4cfc-bb21-ef83ed11fb4d)
