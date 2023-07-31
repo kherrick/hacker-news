@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-31](index.md)
 
+* [2023-07-31, 14:48:23](https://news.ycombinator.com/item?id=36943415) - [Investors Are Happy to Pay Premium for Tech, but Not for AI](https://www.bloomberg.com/news/articles/2023-07-31/investors-are-happy-to-pay-premium-for-tech-but-not-for-ai)
+* [2023-07-31, 14:42:41](https://news.ycombinator.com/item?id=36943318) - [Comparison of Vector Databases](https://navidre.medium.com/which-vector-database-should-i-use-a-comparison-cheatsheet-cb330e55fca)
 * [2023-07-31, 13:56:34](https://news.ycombinator.com/item?id=36942526) - [Happy 30th FreeBSD Why FreeBSD Open Source Project Has Endured](https://aster.cloud/2023/06/16/happy-30th-freebsd-why-the-freebsd-open-source-project-has-endured/)
 * [2023-07-31, 13:53:29](https://news.ycombinator.com/item?id=36942476) - [Compilation of Known LK-99 Replication Attempt Claims](https://forums.spacebattles.com/threads/claims-of-room-temperature-and-ambient-pressure-superconductor.1106083/page-15)
 * [2023-07-31, 13:50:15](https://news.ycombinator.com/item?id=36942424) - [AWS: IPv4 addresses cost too much, so you’re going to pay](https://www.theregister.com/2023/07/31/aws_says_ipv4_addresses_cost/)

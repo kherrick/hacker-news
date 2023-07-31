@@ -33,6 +33,7 @@
 * [2023-07-30, 17:57:29](https://news.ycombinator.com/item?id=36934029) - [Linux Air Combat: free, lightweight and open-source combat flight simulator](https://askmisterwizard.com/2019/LinuxAirCombat/LinuxAirCombat.htm)
 * [2023-07-30, 17:30:40](https://news.ycombinator.com/item?id=36933665) - [Nvidia DGX GH200 Whitepaper](https://resources.nvidia.com/en-us-dgx-gh200/technical-white-paper)
 * [2023-07-30, 17:25:24](https://news.ycombinator.com/item?id=36933603) - [Show HN: San Francisco Compute – 512 H100s at <$2/hr for research and startups](https://sfcompute.org/)
+* [2023-07-30, 17:18:12](https://news.ycombinator.com/item?id=36933512) - [The Matrix Calculus You Need for Deep Learning](https://explained.ai/matrix-calculus/)
 * [2023-07-30, 17:14:22](https://news.ycombinator.com/item?id=36933452) - [Show HN: Khoj – Chat Offline with Your Second Brain Using Llama 2](https://github.com/khoj-ai/khoj)
 * [2023-07-30, 17:06:14](https://news.ycombinator.com/item?id=36933345) - [Workarounds for C11 _Generic()](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/c11-generic/)
 * [2023-07-30, 17:00:32](https://news.ycombinator.com/item?id=36933276) - [Mutable.ai (YC W22) Is Hiring Engineers](https://www.ycombinator.com/companies/mutable-ai/jobs)
