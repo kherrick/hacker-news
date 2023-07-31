@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-07-31, 11:50:24",
-      "https://news.ycombinator.com/item?id=36941256"
-    ],
-    [
-      "Online Safety Bill – Some futures",
-      "https://www.regulate.tech/online-safety-bill-some-futures-25th-july-2023/"
-    ]
-  ],
-  [
-    [
       "2023-07-31, 10:53:38",
       "https://news.ycombinator.com/item?id=36940871"
     ],
@@ -57,6 +47,16 @@
     [
       "Curl Command Line Variables",
       "https://daniel.haxx.se/blog/2023/07/31/introducing-curl-command-line-variables/"
+    ]
+  ],
+  [
+    [
+      "2023-07-31, 10:00:17",
+      "https://news.ycombinator.com/item?id=36940514"
+    ],
+    [
+      "Show HN: A Notion-like platform for building interactive models",
+      "https://www.decipad.com/"
     ]
   ],
   [
@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-07-31, 02:37:33",
-      "https://news.ycombinator.com/item?id=36938221"
-    ],
-    [
-      "AI and the Frontier Paradox",
-      "https://www.sequoiacap.com/article/ai-paradox-perspective/"
-    ]
-  ],
-  [
-    [
       "2023-07-31, 00:51:31",
       "https://news.ycombinator.com/item?id=36937713"
     ],
@@ -147,6 +137,16 @@
     [
       "Free Public WiFi",
       "https://computer.rip/2023-07-29-Free-Public-WiFi.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-31, 00:16:58",
+      "https://news.ycombinator.com/item?id=36937480"
+    ],
+    [
+      "AI search of Neanderthal proteins resurrects ‘extinct’ antibiotics",
+      "https://www.nature.com/articles/d41586-023-02403-0"
     ]
   ],
   [
@@ -197,16 +197,6 @@
     [
       "HFS Origins: The Turbo File System (2017)",
       "https://macgui.com/news/article.php?t=443"
-    ]
-  ],
-  [
-    [
-      "2023-07-30, 19:32:21",
-      "https://news.ycombinator.com/item?id=36935041"
-    ],
-    [
-      "What's up, Python? The GIL removed, a new compiler, optparse deprecated",
-      "https://www.bitecode.dev/p/whats-up-python-the-gil-removed-a"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Feynman's Messenger Lectures (1964)",
       "https://www.feynmanlectures.caltech.edu/messenger.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-30, 16:39:16",
+      "https://news.ycombinator.com/item?id=36933028"
+    ],
+    [
+      "Musl 1.2.4 adds TCP DNS fallback",
+      "https://www.openwall.com/lists/musl/2023/05/02/1"
     ]
   ],
   [
