@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-31, 10:01:45](https://news.ycombinator.com/item?id=36940525) - [Curl Command Line Variables](https://daniel.haxx.se/blog/2023/07/31/introducing-curl-command-line-variables/)
 * [2023-07-31, 09:47:34](https://news.ycombinator.com/item?id=36940441) - [We found a genius way to revive a poisoned river [video]](https://www.youtube.com/watch?v=ZgItGjKu4mQ)
 * [2023-07-31, 09:37:26](https://news.ycombinator.com/item?id=36940387) - [Meta Forced to Reveal Anonymous Facebook User's Identity](https://stackdiary.com/meta-forced-to-reveal-anonymous-facebook-users-identity/)
 * [2023-07-31, 09:24:17](https://news.ycombinator.com/item?id=36940323) - [LK-99: The Live Online Race for a Room-Temperature Superconductor](https://eirifu.wordpress.com/2023/07/30/lk-99-superconductor-summary/#sbtable)
@@ -29,7 +30,6 @@
 * [2023-07-30, 08:28:57](https://news.ycombinator.com/item?id=36929096) - [Chicago95 – Windows 95 Theme for Linux](https://github.com/grassmunk/Chicago95)
 * [2023-07-30, 04:48:32](https://news.ycombinator.com/item?id=36927902) - [One can scarcely help clarifying him: on the Brothers Karamazov](https://www.laphamsquarterly.org/roundtable/one-can-scarcely-help-clarifying-him)
 * [2023-07-30, 04:17:41](https://news.ycombinator.com/item?id=36927760) - [Simone de Beauvoir and the art of loss](https://www.newstatesman.com/culture/books/2023/07/simone-de-beauvoir-art-of-loss-ali-smith)
-* [2023-07-28, 18:14:14](https://news.ycombinator.com/item?id=36910920) - [Insights into the genetic histories and lifeways of Machu Picchu’s occupants](https://www.science.org/doi/10.1126/sciadv.adg3377)
 
 ## [Archives](archives/index.md)
 
