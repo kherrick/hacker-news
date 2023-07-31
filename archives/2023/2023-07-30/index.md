@@ -10,6 +10,7 @@
 * [2023-07-30, 22:07:35](https://news.ycombinator.com/item?id=36936498) - [Microbial Odor Profile of Polyester and Cotton Clothes After a Fitness Session](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4249026/)
 * [2023-07-30, 22:04:51](https://news.ycombinator.com/item?id=36936474) - [Show HN: Single-Instruction (Subleq) Programming Game](https://jaredkrinke.itch.io/sic-1)
 * [2023-07-30, 21:41:59](https://news.ycombinator.com/item?id=36936302) - [How to not get rejected from YC's Early AI interview batch](https://hermitian.substack.com/p/how-to-not-get-rejected-from-ycs)
+* [2023-07-30, 21:10:08](https://news.ycombinator.com/item?id=36936008) - [Banished to a Remote Idaho Valley, Beavers Created a Lush Wetland](https://e360.yale.edu/digest/idaho-beavers-stream-drought-fire)
 * [2023-07-30, 20:57:12](https://news.ycombinator.com/item?id=36935887) - [Rising evidence that leprosy has become endemic in Southeastern United States](https://wwwnc.cdc.gov/eid/article/29/8/22-0367_article)
 * [2023-07-30, 20:53:28](https://news.ycombinator.com/item?id=36935843) - [The Right to Lie and Google’s “Web Environment Integrity”](https://rants.org/2023/07/the-right-to-lie-and-google-wei/)
 * [2023-07-30, 20:50:04](https://news.ycombinator.com/item?id=36935813) - [We Finally Know Why the TSA Is Cracking Down on Clear at Airport Security](https://viewfromthewing.com/why-finally-know-why-the-tsa-is-cracking-down-on-clear-at-airport-security/)
