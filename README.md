@@ -3,9 +3,9 @@
 * [2023-07-31, 15:01:16](https://news.ycombinator.com/item?id=36943635) - [Battery-electric “Infinity Train” will charge itself using gravity](https://newatlas.com/transport/fortescue-wae-infinity-train-electric/)
 * [2023-07-31, 14:53:17](https://news.ycombinator.com/item?id=36943495) - [SEC Charges Hex Founder Richard Heart with Misappropriating Millions of Dollars](https://www.sec.gov/news/press-release/2023-143)
 * [2023-07-31, 14:48:23](https://news.ycombinator.com/item?id=36943415) - [Investors Are Happy to Pay Premium for Tech, but Not for AI](https://www.bloomberg.com/news/articles/2023-07-31/investors-are-happy-to-pay-premium-for-tech-but-not-for-ai)
+* [2023-07-31, 14:45:39](https://news.ycombinator.com/item?id=36943372) - [99-year old trucking company Yellow shuts down, putting 30k out of work](https://www.cnn.com/2023/07/31/business/yellow-corp-closing/index.html)
 * [2023-07-31, 14:42:41](https://news.ycombinator.com/item?id=36943318) - [Comparison of Vector Databases](https://navidre.medium.com/which-vector-database-should-i-use-a-comparison-cheatsheet-cb330e55fca)
 * [2023-07-31, 14:42:40](https://news.ycombinator.com/item?id=36943317) - [Hashing explained for non-tech people](https://blog.dvsj.in/hashing/)
-* [2023-07-31, 14:41:09](https://news.ycombinator.com/item?id=36943293) - [Dasung to launch the world’s first color E-ink monitor](https://www.cnx-software.com/2023/07/31/dasung-to-launch-the-worlds-first-23-5-inch-color-e-ink-monitor/)
 * [2023-07-31, 14:23:59](https://news.ycombinator.com/item?id=36942967) - [LaTeX3: Programming in LaTeX with Ease (2020)](https://www.alanshawn.com/latex3-tutorial/)
 * [2023-07-31, 14:08:53](https://news.ycombinator.com/item?id=36942717) - [I Paid Off $194k in Student Loans in Six Years. It Wasn’t Easy](https://benjaminlabaschin.com/194k-in-loans-in-six-years/)
 * [2023-07-31, 14:05:25](https://news.ycombinator.com/item?id=36942651) - [x86 is dead, long live x86](https://engineering.mercari.com/en/blog/entry/20230731-x86-is-dead-long-live-x86/)
@@ -17,7 +17,6 @@
 * [2023-07-31, 13:04:15](https://news.ycombinator.com/item?id=36941942) - [Paperlike Color: Color E-Ink Monitor](https://www.indiegogo.com/projects/paperlike-color-world-first-color-e-ink-monitor/coming_soon)
 * [2023-07-31, 12:16:48](https://news.ycombinator.com/item?id=36941480) - [Tell HN: Airbnb’s transparent pricing is a lie](https://news.ycombinator.com/item?id=36941480)
 * [2023-07-31, 11:54:00](https://news.ycombinator.com/item?id=36941299) - [So, you want to deploy on the edge?](https://zknill.io/posts/edge-database/)
-* [2023-07-31, 11:50:24](https://news.ycombinator.com/item?id=36941256) - [Online Safety Bill – Some futures](https://www.regulate.tech/online-safety-bill-some-futures-25th-july-2023/)
 * [2023-07-31, 11:01:45](https://news.ycombinator.com/item?id=36940916) - [The Most Prolific Packager for Alpine Linux Is Stepping Away](https://www.phoronix.com/news/Alpine-Linux-Prolific-Packager)
 * [2023-07-31, 10:53:38](https://news.ycombinator.com/item?id=36940871) - [Is anyone using PyPy for real work?](https://news.ycombinator.com/item?id=36940871)
 * [2023-07-31, 10:15:50](https://news.ycombinator.com/item?id=36940626) - [NASA mistakenly severs communication to Voyager 2](https://www.theregister.com/2023/07/31/nasa_mistakenly_disconnects_voyager_2/)
@@ -30,6 +29,7 @@
 * [2023-07-30, 19:24:52](https://news.ycombinator.com/item?id=36934963) - [Don’t Forget Intuition: The art of doing science](https://theamericanscholar.org/dont-forget-intuition/)
 * [2023-07-30, 17:25:24](https://news.ycombinator.com/item?id=36933603) - [Show HN: San Francisco Compute – 512 H100s at <$2/hr for research and startups](https://sfcompute.org/)
 * [2023-07-30, 17:18:12](https://news.ycombinator.com/item?id=36933512) - [The Matrix Calculus You Need for Deep Learning](https://explained.ai/matrix-calculus/)
+* [2023-07-30, 08:28:57](https://news.ycombinator.com/item?id=36929096) - [Chicago95 – Windows 95 Theme for Linux](https://github.com/grassmunk/Chicago95)
 
 ## [Archives](archives/index.md)
 

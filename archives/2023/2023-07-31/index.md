@@ -7,6 +7,7 @@
 * [2023-07-31, 15:01:16](https://news.ycombinator.com/item?id=36943635) - [Battery-electric “Infinity Train” will charge itself using gravity](https://newatlas.com/transport/fortescue-wae-infinity-train-electric/)
 * [2023-07-31, 14:53:17](https://news.ycombinator.com/item?id=36943495) - [SEC Charges Hex Founder Richard Heart with Misappropriating Millions of Dollars](https://www.sec.gov/news/press-release/2023-143)
 * [2023-07-31, 14:48:23](https://news.ycombinator.com/item?id=36943415) - [Investors Are Happy to Pay Premium for Tech, but Not for AI](https://www.bloomberg.com/news/articles/2023-07-31/investors-are-happy-to-pay-premium-for-tech-but-not-for-ai)
+* [2023-07-31, 14:45:39](https://news.ycombinator.com/item?id=36943372) - [99-year old trucking company Yellow shuts down, putting 30k out of work](https://www.cnn.com/2023/07/31/business/yellow-corp-closing/index.html)
 * [2023-07-31, 14:42:41](https://news.ycombinator.com/item?id=36943318) - [Comparison of Vector Databases](https://navidre.medium.com/which-vector-database-should-i-use-a-comparison-cheatsheet-cb330e55fca)
 * [2023-07-31, 14:42:40](https://news.ycombinator.com/item?id=36943317) - [Hashing explained for non-tech people](https://blog.dvsj.in/hashing/)
 * [2023-07-31, 14:41:09](https://news.ycombinator.com/item?id=36943293) - [Dasung to launch the world’s first color E-ink monitor](https://www.cnx-software.com/2023/07/31/dasung-to-launch-the-worlds-first-23-5-inch-color-e-ink-monitor/)
