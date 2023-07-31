@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-31, 04:23:33](https://news.ycombinator.com/item?id=36938785) - [SEC asked Coinbase to halt trading for everything except Bitcoin (FT)](https://www.ft.com/content/1f873dd5-df8f-4cfc-bb21-ef83ed11fb4d)
 * [2023-07-31, 02:37:33](https://news.ycombinator.com/item?id=36938221) - [AI and the Frontier Paradox](https://www.sequoiacap.com/article/ai-paradox-perspective/)
 * [2023-07-31, 00:51:31](https://news.ycombinator.com/item?id=36937713) - [Conduit: Simple, fast and reliable chat server powered by Matrix](https://conduit.rs/)
 * [2023-07-31, 00:43:27](https://news.ycombinator.com/item?id=36937658) - [The Screwed-O-Meter](https://rachelbythebay.com/fun/som/)
@@ -28,7 +29,6 @@
 * [2023-07-30, 15:53:36](https://news.ycombinator.com/item?id=36932524) - [I feel hopeless, rejected, and a burden – One week of empathy training (2019)](https://shkspr.mobi/blog/2019/07/i-feel-hopeless-rejected-and-a-burden-on-society-one-week-of-empathy-training/)
 * [2023-07-30, 08:28:57](https://news.ycombinator.com/item?id=36929096) - [Chicago95 – Windows 95 Theme for Linux](https://github.com/grassmunk/Chicago95)
 * [2023-07-30, 04:24:14](https://news.ycombinator.com/item?id=36927785) - [Computer Users Tape System (1976) [pdf]](https://www.sol20.org/articles/img/CUTS_PE_Mar_76.pdf)
-* [2023-07-30, 04:17:41](https://news.ycombinator.com/item?id=36927760) - [Simone de Beauvoir and the art of loss](https://www.newstatesman.com/culture/books/2023/07/simone-de-beauvoir-art-of-loss-ali-smith)
 * [2023-07-28, 18:14:14](https://news.ycombinator.com/item?id=36910920) - [Insights into the genetic histories and lifeways of Machu Picchu’s occupants](https://www.science.org/doi/10.1126/sciadv.adg3377)
 
 ## [Archives](archives/index.md)
