@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-31](index.md)
 
+* [2023-07-31, 13:37:31](https://news.ycombinator.com/item?id=36942266) - [A fridge from 70 years ago has better features than the fridge I own now](https://mstdn.social/@Pandamoanimum/110808340828034444)
+* [2023-07-31, 13:24:15](https://news.ycombinator.com/item?id=36942124) - [Add PayPal to your Stripe integration](https://hyperswitch.io/blog/add-paypal-to-your-stripe-integration)
 * [2023-07-31, 13:04:15](https://news.ycombinator.com/item?id=36941942) - [Paperlike Color: World’s First Color E-Ink Monitor](https://www.indiegogo.com/projects/paperlike-color-world-first-color-e-ink-monitor/coming_soon)
 * [2023-07-31, 11:54:00](https://news.ycombinator.com/item?id=36941299) - [So, you want to deploy on the edge?](https://zknill.io/posts/edge-database/)
 * [2023-07-31, 11:50:24](https://news.ycombinator.com/item?id=36941256) - [Online Safety Bill – Some futures](https://www.regulate.tech/online-safety-bill-some-futures-25th-july-2023/)
