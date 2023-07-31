@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-07-31, 15:55:03",
+      "https://news.ycombinator.com/item?id=36944545"
+    ],
+    [
+      "My Journey Away from the JAMstack",
+      "https://www.spicyweb.dev/farewell-jamstack/"
+    ]
+  ],
+  [
+    [
       "2023-07-31, 15:45:31",
       "https://news.ycombinator.com/item?id=36944388"
     ],
@@ -61,22 +71,22 @@
   ],
   [
     [
+      "2023-07-31, 15:15:56",
+      "https://news.ycombinator.com/item?id=36943874"
+    ],
+    [
+      "Retrogram rtl-SDR – a radio spectrum analyzer for your terminal",
+      "https://github.com/r4d10n/retrogram-rtlsdr"
+    ]
+  ],
+  [
+    [
       "2023-07-31, 15:15:06",
       "https://news.ycombinator.com/item?id=36943866"
     ],
     [
       "BBC on Mastodon: experimenting with distributed and decentralised social media",
       "https://www.bbc.co.uk/rd/blog/2023-07-mastodon-distributed-decentralised-fediverse-activitypub"
-    ]
-  ],
-  [
-    [
-      "2023-07-31, 15:01:16",
-      "https://news.ycombinator.com/item?id=36943635"
-    ],
-    [
-      "Battery-electric “Infinity Train” will charge itself using gravity (2022)",
-      "https://newatlas.com/transport/fortescue-wae-infinity-train-electric/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Show HN: Linkwarden – An open source collaborative bookmark manager",
       "https://linkwarden.app"
-    ]
-  ],
-  [
-    [
-      "2023-07-31, 13:37:31",
-      "https://news.ycombinator.com/item?id=36942266"
-    ],
-    [
-      "A fridge from 70 years ago has better features than the fridge I own now",
-      "https://mstdn.social/@Pandamoanimum/110808340828034444"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2023-07-31, 09:37:26",
-      "https://news.ycombinator.com/item?id=36940387"
-    ],
-    [
-      "Meta Forced to Reveal Anonymous Facebook User's Identity",
-      "https://stackdiary.com/meta-forced-to-reveal-anonymous-facebook-users-identity/"
-    ]
-  ],
-  [
-    [
       "2023-07-31, 05:36:47",
       "https://news.ycombinator.com/item?id=36939145"
     ],
@@ -297,6 +287,16 @@
     [
       "The Matrix Calculus You Need for Deep Learning",
       "https://explained.ai/matrix-calculus/"
+    ]
+  ],
+  [
+    [
+      "2023-07-30, 07:03:47",
+      "https://news.ycombinator.com/item?id=36928605"
+    ],
+    [
+      "Voice Recognition",
+      "https://www.imperialviolet.org/2023/07/29/voice-recognition.html"
     ]
   ]
 ]
