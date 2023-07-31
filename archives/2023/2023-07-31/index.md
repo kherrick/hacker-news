@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-31](index.md)
 
+* [2023-07-31, 17:01:32](https://news.ycombinator.com/item?id=36945578) - [Paul Reubens dead: Pee-wee Herman actor was 70](https://nypost.com/2023/07/31/paul-reubens-dead-pee-wee-herman-actor-was-70/)
+* [2023-07-31, 17:00:28](https://news.ycombinator.com/item?id=36945559) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2023-07-31, 16:37:34](https://news.ycombinator.com/item?id=36945206) - [Building Nikola Tesla's Bladeless Turbine [video]](https://www.youtube.com/watch?v=Tuzh9mHvzkk)
+* [2023-07-31, 16:35:54](https://news.ycombinator.com/item?id=36945177) - [Show HN: File distribution over DNS: (ab)using DNS as a CDN](https://eighty-twenty.org/2023/07/31/dns-as-a-cdn)
 * [2023-07-31, 16:26:50](https://news.ycombinator.com/item?id=36945046) - [A repository of “BASIC Computer Games” code in modern languages](https://github.com/coding-horror/basic-computer-games)
 * [2023-07-31, 16:22:28](https://news.ycombinator.com/item?id=36944978) - [Researchers reached the bottom of ice sheet at -2670M after 7 years of drilling](https://news.ku.dk/all_news/2023/07/pay-dirt-for-ice-core-scientists-in-east-greenland-as-they-reach-bedrock/)
 * [2023-07-31, 16:20:46](https://news.ycombinator.com/item?id=36944947) - [Digging into the Odd History of Blade Runner’s Title](https://www.vulture.com/2017/10/why-is-blade-runner-the-title-of-blade-runner.html)
