@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-31](index.md)
 
+* [2023-07-31, 15:15:06](https://news.ycombinator.com/item?id=36943866) - [BBC on Mastodon: experimenting with distributed and decentralised social media](https://www.bbc.co.uk/rd/blog/2023-07-mastodon-distributed-decentralised-fediverse-activitypub)
 * [2023-07-31, 15:01:16](https://news.ycombinator.com/item?id=36943635) - [Battery-electric “Infinity Train” will charge itself using gravity](https://newatlas.com/transport/fortescue-wae-infinity-train-electric/)
 * [2023-07-31, 14:53:17](https://news.ycombinator.com/item?id=36943495) - [SEC Charges Hex Founder Richard Heart with Misappropriating Millions of Dollars](https://www.sec.gov/news/press-release/2023-143)
 * [2023-07-31, 14:48:23](https://news.ycombinator.com/item?id=36943415) - [Investors Are Happy to Pay Premium for Tech, but Not for AI](https://www.bloomberg.com/news/articles/2023-07-31/investors-are-happy-to-pay-premium-for-tech-but-not-for-ai)
