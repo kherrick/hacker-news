@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-31, 09:47:34](https://news.ycombinator.com/item?id=36940441) - [We found a genius way to revive a poisoned river [video]](https://www.youtube.com/watch?v=ZgItGjKu4mQ)
 * [2023-07-31, 09:37:26](https://news.ycombinator.com/item?id=36940387) - [Meta Forced to Reveal Anonymous Facebook User's Identity](https://stackdiary.com/meta-forced-to-reveal-anonymous-facebook-users-identity/)
 * [2023-07-31, 09:24:17](https://news.ycombinator.com/item?id=36940323) - [LK-99: The Live Online Race for a Room-Temperature Superconductor](https://eirifu.wordpress.com/2023/07/30/lk-99-superconductor-summary/#sbtable)
 * [2023-07-31, 09:06:14](https://news.ycombinator.com/item?id=36940233) - [OpenTTD 13.4 Released](https://www.openttd.org/news/2023/07/29/openttd-13-4)
@@ -8,7 +9,6 @@
 * [2023-07-31, 02:37:33](https://news.ycombinator.com/item?id=36938221) - [AI and the Frontier Paradox](https://www.sequoiacap.com/article/ai-paradox-perspective/)
 * [2023-07-31, 00:51:31](https://news.ycombinator.com/item?id=36937713) - [Conduit: Simple, fast and reliable chat server powered by Matrix](https://conduit.rs/)
 * [2023-07-31, 00:43:27](https://news.ycombinator.com/item?id=36937658) - [The Screwed-O-Meter (2013)](https://rachelbythebay.com/fun/som/)
-* [2023-07-31, 00:34:25](https://news.ycombinator.com/item?id=36937593) - [Mac Mouse Fix](https://mousefix.org/)
 * [2023-07-31, 00:30:43](https://news.ycombinator.com/item?id=36937571) - [Free Public WiFi](https://computer.rip/2023-07-29-Free-Public-WiFi.html)
 * [2023-07-31, 00:16:58](https://news.ycombinator.com/item?id=36937480) - [AI search of Neanderthal proteins resurrects ‘extinct’ antibiotics](https://www.nature.com/articles/d41586-023-02403-0)
 * [2023-07-30, 23:21:13](https://news.ycombinator.com/item?id=36937047) - [A Year in Review of 0-days Exploited In-the-Wild in 2022](https://security.googleblog.com/2023/07/the-ups-and-downs-of-0-days-year-in.html)
