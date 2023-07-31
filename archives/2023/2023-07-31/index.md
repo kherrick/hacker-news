@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-31](index.md)
 
+* [2023-07-31, 16:26:50](https://news.ycombinator.com/item?id=36945046) - [A repository of “BASIC Computer Games” code in modern languages](https://github.com/coding-horror/basic-computer-games)
+* [2023-07-31, 16:22:28](https://news.ycombinator.com/item?id=36944978) - [Researchers reached the bottom of ice sheet at -2670M after 7 years of drilling](https://news.ku.dk/all_news/2023/07/pay-dirt-for-ice-core-scientists-in-east-greenland-as-they-reach-bedrock/)
+* [2023-07-31, 16:20:46](https://news.ycombinator.com/item?id=36944947) - [Digging into the Odd History of Blade Runner’s Title](https://www.vulture.com/2017/10/why-is-blade-runner-the-title-of-blade-runner.html)
 * [2023-07-31, 15:55:02](https://news.ycombinator.com/item?id=36944544) - [BBC starts trial with the Fediverse, running its own Mastodon instance](https://social.bbc/about)
 * [2023-07-31, 15:45:31](https://news.ycombinator.com/item?id=36944388) - [Ask HN: How do you monitor your systemd services?](https://news.ycombinator.com/item?id=36944388)
 * [2023-07-31, 15:40:54](https://news.ycombinator.com/item?id=36944311) - [Is Reviving a Private Police Agency in SF the Solution to the City’s Crime Woes?](https://sfstandard.com/2023/07/31/is-reviving-a-private-police-agency-in-san-francisco-the-solution-to-the-citys-crime-woes/)
