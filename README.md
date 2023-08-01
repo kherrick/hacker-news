@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-01, 12:01:09](https://news.ycombinator.com/item?id=36954925) - [GiveCampus (YC S15) Hiring Rails engineers in education software](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2023-08-01, 09:43:43](https://news.ycombinator.com/item?id=36954159) - [IronOS: Open-source soldering iron firmware](https://github.com/Ralim/IronOS)
 * [2023-08-01, 08:45:29](https://news.ycombinator.com/item?id=36953819) - [First claimed successful replication of LK-99](https://twitter.com/Andercot/status/1686286684424691712)
 * [2023-08-01, 06:12:59](https://news.ycombinator.com/item?id=36952894) - [Room-Temperature Ambient-Pressure Superconductor LK-99 preprint revision 2](https://arxiv.org/abs/2307.12037)
@@ -21,7 +22,6 @@
 * [2023-07-31, 21:47:33](https://news.ycombinator.com/item?id=36949314) - [Can you trust a compiler to optimize your code?](https://matklad.github.io/2023/04/09/can-you-trust-a-compiler-to-optimize-your-code.html)
 * [2023-07-31, 20:35:13](https://news.ycombinator.com/item?id=36948403) - [Chunking 2M files a day for code search using syntax trees](https://docs.sweep.dev/blogs/chunking-2m-files)
 * [2023-07-31, 20:16:24](https://news.ycombinator.com/item?id=36948164) - [Icanhazip: A simple IP address tool survived a deluge of users (2021)](https://blog.apnic.net/2021/06/17/how-a-small-free-ip-tool-survived/)
-* [2023-07-31, 16:22:28](https://news.ycombinator.com/item?id=36944978) - [Ice core scientists in East Greenland reach bedrock](https://news.ku.dk/all_news/2023/07/pay-dirt-for-ice-core-scientists-in-east-greenland-as-they-reach-bedrock/)
 * [2023-07-31, 15:41:12](https://news.ycombinator.com/item?id=36944313) - [Tree Keepers: Where Sustaining the Forest Is a Tribal Tradition](https://e360.yale.edu/features/menominee-forest-management-logging)
 * [2023-07-31, 12:21:14](https://news.ycombinator.com/item?id=36941512) - [Cut out everything that's not surprising](https://sive.rs/d22)
 * [2023-07-31, 11:20:14](https://news.ycombinator.com/item?id=36941035) - [The Cables That Run the Internet](https://www.cnet.com/home/internet/features/the-secret-life-of-the-500-cables-that-run-the-internet/)

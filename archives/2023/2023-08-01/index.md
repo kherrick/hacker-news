@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-01](index.md)
 
+* [2023-08-01, 12:01:09](https://news.ycombinator.com/item?id=36954925) - [GiveCampus (YC S15) Hiring Rails engineers in education software](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2023-08-01, 09:43:43](https://news.ycombinator.com/item?id=36954159) - [IronOS: Open-source soldering iron firmware](https://github.com/Ralim/IronOS)
 * [2023-08-01, 08:45:29](https://news.ycombinator.com/item?id=36953819) - [First claimed successful replication of LK-99 superconductivity (includes video)](https://twitter.com/Andercot/status/1686286684424691712)
 * [2023-08-01, 06:12:59](https://news.ycombinator.com/item?id=36952894) - [Room-Temperature Ambient-Pressure Superconductor LK-99 preprint revision 2](https://arxiv.org/abs/2307.12037)
