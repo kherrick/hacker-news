@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-08-01, 18:30:28",
-      "https://news.ycombinator.com/item?id=36960292"
+      "2023-08-01, 19:03:27",
+      "https://news.ycombinator.com/item?id=36960874"
     ],
     [
-      "Cancer pill AOH1996 shows promise in annihilating all solid tumours",
-      "https://innovationorigins.com/en/cancer-pill-aoh1996-shows-promise-in-annihilating-all-solid-tumours/"
+      "Run Llama 2 on your own Mac using LLM and Homebrew",
+      "https://simonwillison.net/2023/Aug/1/llama-2-mac/"
+    ]
+  ],
+  [
+    [
+      "2023-08-01, 18:31:31",
+      "https://news.ycombinator.com/item?id=36960309"
+    ],
+    [
+      "Emacs Is My New Window Manager",
+      "https://howardism.org/Technical/Emacs/new-window-manager.html"
     ]
   ],
   [
@@ -17,16 +27,6 @@
     [
       "Show HN: imessage-exporter, a full-featured CLI app and library",
       "https://github.com/ReagentX/imessage-exporter"
-    ]
-  ],
-  [
-    [
-      "2023-08-01, 18:23:53",
-      "https://news.ycombinator.com/item?id=36960185"
-    ],
-    [
-      "Sunak’s family firm signed deal with BP before opening new North Sea licences",
-      "https://www.thelondoneconomic.com/politics/sunaks-family-firm-signed-a-billion-dollar-deal-with-bp-before-pm-opened-new-north-sea-licences-353690/"
     ]
   ],
   [
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=36959267"
     ],
     [
-      "Oregon Decriminalized Hard Drugs",
+      "Oregon decriminalized hard drugs – early results aren’t encouraging",
       "https://www.theatlantic.com/politics/archive/2023/07/oregon-drug-decriminalization-results-overdoses/674733/"
     ]
   ],
@@ -95,8 +95,18 @@
       "https://news.ycombinator.com/item?id=36958531"
     ],
     [
-      "Electrified cement could turn houses and roads into nearly limitless batteries",
+      "Researchers have come up with a new way to store electricity in cement",
       "https://www.science.org/content/article/electrified-cement-could-turn-houses-and-roads-nearly-limitless-batteries"
+    ]
+  ],
+  [
+    [
+      "2023-08-01, 16:43:16",
+      "https://news.ycombinator.com/item?id=36958516"
+    ],
+    [
+      "Ask HN: In which areas have you compared 3+ tools and formed strong preferences?",
+      "https://news.ycombinator.com/item?id=36958516"
     ]
   ],
   [
@@ -181,6 +191,16 @@
   ],
   [
     [
+      "2023-08-01, 15:02:06",
+      "https://news.ycombinator.com/item?id=36956865"
+    ],
+    [
+      "Ask HN: Who wants to be hired? (August 2023)",
+      "https://news.ycombinator.com/item?id=36956865"
+    ]
+  ],
+  [
+    [
       "2023-08-01, 13:46:48",
       "https://news.ycombinator.com/item?id=36955885"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2023-08-01, 06:12:59",
-      "https://news.ycombinator.com/item?id=36952894"
-    ],
-    [
-      "Room-Temperature Ambient-Pressure Superconductor LK-99 preprint revision 2",
-      "https://arxiv.org/abs/2307.12037"
-    ]
-  ],
-  [
-    [
       "2023-08-01, 05:53:03",
       "https://news.ycombinator.com/item?id=36952796"
     ],
@@ -267,16 +277,6 @@
     [
       "Getting Started with Torch-Harmonics",
       "https://github.com/NVIDIA/torch-harmonics/blob/main/notebooks/getting_started.ipynb"
-    ]
-  ],
-  [
-    [
-      "2023-07-31, 12:21:14",
-      "https://news.ycombinator.com/item?id=36941512"
-    ],
-    [
-      "Cut out everything that's not surprising (2019)",
-      "https://sive.rs/d22"
     ]
   ],
   [
