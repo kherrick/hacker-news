@@ -69,6 +69,7 @@
 * [2023-07-31, 11:54:00](https://news.ycombinator.com/item?id=36941299) - [So, you want to deploy on the edge?](https://zknill.io/posts/edge-database/)
 * [2023-07-31, 11:50:24](https://news.ycombinator.com/item?id=36941256) - [Online Safety Bill – Some futures](https://www.regulate.tech/online-safety-bill-some-futures-25th-july-2023/)
 * [2023-07-31, 11:47:13](https://news.ycombinator.com/item?id=36941229) - [The Future of the Web Is VNC](https://shkspr.mobi/blog/2023/07/the-future-of-the-web-is-vnc/)
+* [2023-07-31, 11:20:14](https://news.ycombinator.com/item?id=36941035) - [The Secret Life of the Cables That Run the Internet](https://www.cnet.com/home/internet/features/the-secret-life-of-the-500-cables-that-run-the-internet/)
 * [2023-07-31, 11:01:45](https://news.ycombinator.com/item?id=36940916) - [The Most Prolific Packager for Alpine Linux Is Stepping Away](https://www.phoronix.com/news/Alpine-Linux-Prolific-Packager)
 * [2023-07-31, 10:53:38](https://news.ycombinator.com/item?id=36940871) - [Is anyone using PyPy for real work?](https://news.ycombinator.com/item?id=36940871)
 * [2023-07-31, 10:15:50](https://news.ycombinator.com/item?id=36940626) - [NASA mistakenly severs communication to Voyager 2](https://www.theregister.com/2023/07/31/nasa_mistakenly_disconnects_voyager_2/)

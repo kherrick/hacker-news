@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-01](index.md)
 
 * [2023-08-01, 03:02:36](https://news.ycombinator.com/item?id=36951815) - [Origin of correlated isolated flat bands in LK99](https://arxiv.org/abs/2307.16892)
+* [2023-08-01, 02:45:29](https://news.ycombinator.com/item?id=36951725) - [For the Love of God, Stop Microwaving Plastic](https://www.wired.com/story/for-the-love-of-god-stop-microwaving-plastic/)
 * [2023-08-01, 02:05:36](https://news.ycombinator.com/item?id=36951473) - [Philosophy of Science 101: What Is the Problem of Induction?](https://www.thecollector.com/problem-of-induction-philosophy-of-science/)
 * [2023-08-01, 01:39:54](https://news.ycombinator.com/item?id=36951289) - [The Worst API Ever Made](https://caseymuratori.com/blog_0025)
 * [2023-08-01, 01:18:41](https://news.ycombinator.com/item?id=36951140) - [Semiconducting Transport in LK99](https://arxiv.org/abs/2307.16802)
