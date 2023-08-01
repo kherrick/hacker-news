@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-01](index.md)
 
+* [2023-08-01, 16:43:16](https://news.ycombinator.com/item?id=36958516) - [Ask HN: In which areas have you compared 3+ tools and formed strong preferences?](https://news.ycombinator.com/item?id=36958516)
 * [2023-08-01, 16:33:36](https://news.ycombinator.com/item?id=36958352) - [Could the world go PFAS-free? Proposal to ban ‘forever chemicals’ fuels debate](https://www.nature.com/articles/d41586-023-02444-5)
 * [2023-08-01, 16:28:43](https://news.ycombinator.com/item?id=36958272) - [Webrecorder: Capture interactive websites and replay them at a later time](https://webrecorder.net/)
+* [2023-08-01, 16:23:15](https://news.ycombinator.com/item?id=36958175) - [Show HN: PromptTools – open-source tools for evaluating LLMs and vector DBs](https://github.com/hegelai/prompttools)
 * [2023-08-01, 15:52:57](https://news.ycombinator.com/item?id=36957678) - [A Room-Temperature Superconductor? New Developments](https://www.science.org/content/blog-post/room-temperature-superconductor-new-developments)
 * [2023-08-01, 15:52:19](https://news.ycombinator.com/item?id=36957669) - [Ask HN: Did anyone write a book in Nano?](https://news.ycombinator.com/item?id=36957669)
 * [2023-08-01, 15:48:37](https://news.ycombinator.com/item?id=36957614) - [Sigh, this is what browsing the web in the EU looks like nowadays (2021)](https://mmazzarolo.com/blog/2021-09-10-browsing-the-web-from-eu/)
