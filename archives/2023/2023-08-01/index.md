@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-01](index.md)
 
+* [2023-08-01, 16:28:43](https://news.ycombinator.com/item?id=36958272) - [Webrecorder: Capture interactive websites and replay them at a later time](https://webrecorder.net/)
 * [2023-08-01, 15:52:57](https://news.ycombinator.com/item?id=36957678) - [A Room-Temperature Superconductor? New Developments](https://www.science.org/content/blog-post/room-temperature-superconductor-new-developments)
+* [2023-08-01, 15:52:19](https://news.ycombinator.com/item?id=36957669) - [Ask HN: Did anyone write a book in Nano?](https://news.ycombinator.com/item?id=36957669)
 * [2023-08-01, 15:48:37](https://news.ycombinator.com/item?id=36957614) - [Sigh, this is what browsing the web in the EU looks like nowadays (2021)](https://mmazzarolo.com/blog/2021-09-10-browsing-the-web-from-eu/)
 * [2023-08-01, 15:24:51](https://news.ycombinator.com/item?id=36957204) - [Launch HN: Tiptap (YC S23) – Toolkit for developing collaborative editors](https://news.ycombinator.com/item?id=36957204)
 * [2023-08-01, 15:02:08](https://news.ycombinator.com/item?id=36956867) - [Ask HN: Who is hiring? (August 2023)](https://news.ycombinator.com/item?id=36956867)
