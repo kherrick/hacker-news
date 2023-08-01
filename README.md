@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-01, 12:16:16](https://news.ycombinator.com/item?id=36955019) - [Bridging the Python async gap from the other side](https://death.andgravity.com/asyncio-bridge)
-* [2023-08-01, 12:12:17](https://news.ycombinator.com/item?id=36954998) - [Show HN: Local development with .local domains and HTTPS](https://www.localcan.com/)
 * [2023-08-01, 12:01:09](https://news.ycombinator.com/item?id=36954925) - [GiveCampus (YC S15) Hiring Rails engineers in education software](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2023-08-01, 11:40:09](https://news.ycombinator.com/item?id=36954792) - [Who and What Is Behind the Malware Proxy Service SocksEscort?](https://krebsonsecurity.com/2023/07/who-and-what-is-behind-the-malware-proxy-service-socksescort/)
 * [2023-08-01, 11:26:15](https://news.ycombinator.com/item?id=36954718) - [Uber Posts First Quarterly Net Profit of $394M](https://www.wsj.com/articles/uber-q2-earnings-report-2023-453c335a)
@@ -29,6 +28,7 @@
 * [2023-07-31, 11:20:14](https://news.ycombinator.com/item?id=36941035) - [The Cables That Run the Internet](https://www.cnet.com/home/internet/features/the-secret-life-of-the-500-cables-that-run-the-internet/)
 * [2023-07-31, 11:06:08](https://news.ycombinator.com/item?id=36940937) - [Predictive Debugging: A Game-Changing Look into the Future](https://blog.jetbrains.com/dotnet/2023/07/27/introducing-predictive-debugging-a-game-changing-look-into-the-future/)
 * [2023-07-31, 06:44:53](https://news.ycombinator.com/item?id=36939491) - [Propagating bounds through bitwise operations](http://bitmath.blogspot.com/2023/07/propagating-bounds-through-bitwise.html)
+* [2023-07-30, 16:12:35](https://news.ycombinator.com/item?id=36932739) - [The Parts-Bin Approach: Konami’s Contra](https://nicole.express/2023/the-best-take-on-iran-contra.html)
 * [2023-07-30, 08:28:13](https://news.ycombinator.com/item?id=36929091) - [The L-functions and modular forms database](https://www.lmfdb.org/)
 
 ## [Archives](archives/index.md)
