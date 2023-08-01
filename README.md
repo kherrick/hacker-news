@@ -2,6 +2,7 @@
 
 * [2023-08-01, 15:24:51](https://news.ycombinator.com/item?id=36957204) - [Launch HN: Tiptap (YC S23) – Toolkit for developing collaborative editors](https://news.ycombinator.com/item?id=36957204)
 * [2023-08-01, 15:02:08](https://news.ycombinator.com/item?id=36956867) - [Ask HN: Who is hiring? (August 2023)](https://news.ycombinator.com/item?id=36956867)
+* [2023-08-01, 15:02:07](https://news.ycombinator.com/item?id=36956866) - [Ask HN: Freelancer? Seeking freelancer? (August 2023)](https://news.ycombinator.com/item?id=36956866)
 * [2023-08-01, 15:02:06](https://news.ycombinator.com/item?id=36956865) - [Ask HN: Who wants to be hired? (August 2023)](https://news.ycombinator.com/item?id=36956865)
 * [2023-08-01, 14:54:56](https://news.ycombinator.com/item?id=36956747) - [Damaging results of mandated return to the office: it’s worse than we thought](https://finance.yahoo.com/news/now-finding-damaging-results-mandated-095555463.html)
 * [2023-08-01, 13:46:48](https://news.ycombinator.com/item?id=36955885) - [YKK: Japan’s Zipper King [video]](https://www.youtube.com/watch?v=9d6eNmtHFQk)
@@ -22,7 +23,6 @@
 * [2023-08-01, 01:39:54](https://news.ycombinator.com/item?id=36951289) - [The worst API ever made (2014)](https://caseymuratori.com/blog_0025)
 * [2023-08-01, 01:18:41](https://news.ycombinator.com/item?id=36951140) - [Semiconducting Transport in LK99 reproduction attempt](https://arxiv.org/abs/2307.16802)
 * [2023-08-01, 01:11:19](https://news.ycombinator.com/item?id=36951089) - [MIT engineers create an energy-storing supercapacitor from ancient materials](https://news.mit.edu/2023/mit-engineers-create-supercapacitor-ancient-materials-0731)
-* [2023-07-31, 23:04:25](https://news.ycombinator.com/item?id=36950075) - [Help the Library of Congress create games to improve public knowledge of civics](https://blogs.loc.gov/law/2023/06/help-the-library-of-congress-create-video-games-that-improve-public-knowledge-of-civics/)
 * [2023-07-31, 21:47:33](https://news.ycombinator.com/item?id=36949314) - [Can you trust a compiler to optimize your code?](https://matklad.github.io/2023/04/09/can-you-trust-a-compiler-to-optimize-your-code.html)
 * [2023-07-31, 19:30:03](https://news.ycombinator.com/item?id=36947603) - [Are the “missing baryons” simply too hot to see?](https://bigthink.com/starts-with-a-bang/missing-baryons-too-hot/)
 * [2023-07-31, 15:15:56](https://news.ycombinator.com/item?id=36943874) - [Retrogram rtl-SDR – a radio spectrum analyzer for your terminal](https://github.com/r4d10n/retrogram-rtlsdr)

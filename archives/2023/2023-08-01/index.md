@@ -6,6 +6,7 @@
 
 * [2023-08-01, 15:24:51](https://news.ycombinator.com/item?id=36957204) - [Launch HN: Tiptap (YC S23) – Toolkit for developing collaborative editors](https://news.ycombinator.com/item?id=36957204)
 * [2023-08-01, 15:02:08](https://news.ycombinator.com/item?id=36956867) - [Ask HN: Who is hiring? (August 2023)](https://news.ycombinator.com/item?id=36956867)
+* [2023-08-01, 15:02:07](https://news.ycombinator.com/item?id=36956866) - [Ask HN: Freelancer? Seeking freelancer? (August 2023)](https://news.ycombinator.com/item?id=36956866)
 * [2023-08-01, 15:02:06](https://news.ycombinator.com/item?id=36956865) - [Ask HN: Who wants to be hired? (August 2023)](https://news.ycombinator.com/item?id=36956865)
 * [2023-08-01, 14:54:56](https://news.ycombinator.com/item?id=36956747) - [Damaging results of mandated return to the office: it’s worse than we thought](https://finance.yahoo.com/news/now-finding-damaging-results-mandated-095555463.html)
 * [2023-08-01, 13:54:51](https://news.ycombinator.com/item?id=36955991) - [Nim v2.0 Released](https://nim-lang.org//blog/2023/08/01/nim-v20-released.html)
