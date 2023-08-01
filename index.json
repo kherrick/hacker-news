@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-01, 19:11:45",
+      "https://news.ycombinator.com/item?id=36961009"
+    ],
+    [
+      "US lawmaker says high-tech investment 'leaving Israel' amid judicial overhaul",
+      "https://www.middleeasteye.net/news/us-lawmaker-ro-khanna-investment-leaving-israel-judicial-overhaul"
+    ]
+  ],
+  [
+    [
+      "2023-08-01, 19:01:05",
+      "https://news.ycombinator.com/item?id=36960831"
+    ],
+    [
+      "Miyazaki’s Magical Food: An Ode to Anime’s Best Cooking Scenes",
+      "https://www.seriouseats.com/studio-ghibli-anime-best-food-scenes"
+    ]
+  ],
+  [
+    [
       "2023-08-01, 18:31:31",
       "https://news.ycombinator.com/item?id=36960309"
     ],
@@ -27,26 +47,6 @@
     [
       "The Ultra-Rich Are Flourishing and Sticking Around in California",
       "https://www.bloomberg.com/news/articles/2023-08-01/california-s-home-to-more-millionaires-than-ever-and-they-re-getting-richer"
-    ]
-  ],
-  [
-    [
-      "2023-08-01, 17:59:45",
-      "https://news.ycombinator.com/item?id=36959791"
-    ],
-    [
-      "Electric Cars Aren't Affordable Because America's Workforce Is Underpaid",
-      "https://jalopnik.com/electric-cars-arent-affordable-because-americas-workfor-1850695943"
-    ]
-  ],
-  [
-    [
-      "2023-08-01, 17:50:50",
-      "https://news.ycombinator.com/item?id=36959650"
-    ],
-    [
-      "No telemetry in the Rust compiler: metrics without betraying user privacy",
-      "https://estebank.github.io/rustc-metrics.html"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "Researchers have come up with a new way to store electricity in cement",
       "https://www.science.org/content/article/electrified-cement-could-turn-houses-and-roads-nearly-limitless-batteries"
-    ]
-  ],
-  [
-    [
-      "2023-08-01, 16:43:16",
-      "https://news.ycombinator.com/item?id=36958516"
-    ],
-    [
-      "Ask HN: In which areas have you compared 3+ tools and formed strong preferences?",
-      "https://news.ycombinator.com/item?id=36958516"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Query Engines: Push vs. Pull",
       "https://justinjaffray.com/query-engines-push-vs.-pull/"
+    ]
+  ],
+  [
+    [
+      "2023-07-31, 11:56:06",
+      "https://news.ycombinator.com/item?id=36941312"
+    ],
+    [
+      "Researchers create open-source platform for Neural Radiance Field development",
+      "https://engineering.berkeley.edu/news/2023/07/researchers-create-open-source-platform-for-neural-radiance-field-development/"
     ]
   ],
   [
