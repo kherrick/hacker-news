@@ -25,10 +25,10 @@
 * [2023-08-01, 15:24:51](https://news.ycombinator.com/item?id=36957204) - [Launch HN: Tiptap (YC S23) – Toolkit for developing collaborative editors](https://news.ycombinator.com/item?id=36957204)
 * [2023-08-01, 15:02:08](https://news.ycombinator.com/item?id=36956867) - [Ask HN: Who is hiring? (August 2023)](https://news.ycombinator.com/item?id=36956867)
 * [2023-08-01, 15:02:06](https://news.ycombinator.com/item?id=36956865) - [Ask HN: Who wants to be hired? (August 2023)](https://news.ycombinator.com/item?id=36956865)
-* [2023-08-01, 14:09:00](https://news.ycombinator.com/item?id=36956141) - [Show HN: Generate a CV-style history for open-source contributors on GitHub](https://www.ringerhq.com/experts/danharrin/cv)
 * [2023-08-01, 13:46:48](https://news.ycombinator.com/item?id=36955885) - [YKK: Japan’s Zipper King [video]](https://www.youtube.com/watch?v=9d6eNmtHFQk)
 * [2023-08-01, 12:31:10](https://news.ycombinator.com/item?id=36955146) - [Splitting the Web](https://ploum.net/2023-08-01-splitting-the-web.html)
 * [2023-08-01, 09:43:43](https://news.ycombinator.com/item?id=36954159) - [IronOS: Open-source soldering iron firmware](https://github.com/Ralim/IronOS)
+* [2023-07-31, 14:30:40](https://news.ycombinator.com/item?id=36943091) - [Epicycle Clock by Sophie Houlden](https://sophiehoulden.com/randomstuff/epitime/?revised)
 * [2023-07-31, 11:56:06](https://news.ycombinator.com/item?id=36941312) - [Researchers create open-source platform for Neural Radiance Field development](https://engineering.berkeley.edu/news/2023/07/researchers-create-open-source-platform-for-neural-radiance-field-development/)
 
 ## [Archives](archives/index.md)
