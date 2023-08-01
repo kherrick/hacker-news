@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2023-08-01, 14:09:00",
+      "https://news.ycombinator.com/item?id=36956141"
+    ],
+    [
+      "Show HN: Generate a CV-style history for open-source contributors on GitHub",
+      "https://www.ringerhq.com/experts/danharrin/cv"
+    ]
+  ],
+  [
+    [
       "2023-08-01, 13:46:48",
       "https://news.ycombinator.com/item?id=36955885"
     ],
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2023-07-31, 13:35:06",
-      "https://news.ycombinator.com/item?id=36942237"
+      "2023-07-31, 16:03:16",
+      "https://news.ycombinator.com/item?id=36944686"
     ],
     [
-      "Getting Started with Torch-Harmonics",
-      "https://github.com/NVIDIA/torch-harmonics/blob/main/notebooks/getting_started.ipynb"
+      "Hypermedia as the Engine of Application State (HATEOAS)",
+      "https://htmx.org/essays/hateoas/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Researchers create open-source platform for Neural Radiance Field development",
       "https://engineering.berkeley.edu/news/2023/07/researchers-create-open-source-platform-for-neural-radiance-field-development/"
-    ]
-  ],
-  [
-    [
-      "2023-07-31, 11:06:08",
-      "https://news.ycombinator.com/item?id=36940937"
-    ],
-    [
-      "Predictive Debugging: A Game-Changing Look into the Future",
-      "https://blog.jetbrains.com/dotnet/2023/07/27/introducing-predictive-debugging-a-game-changing-look-into-the-future/"
     ]
   ]
 ]
