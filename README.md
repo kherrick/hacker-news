@@ -3,7 +3,6 @@
 * [2023-08-01, 22:26:05](https://news.ycombinator.com/item?id=36964072) - [Filament v3 has been released](https://filamentphp.com/community/danharrin-filament-v3)
 * [2023-08-01, 21:58:07](https://news.ycombinator.com/item?id=36963726) - [“Once” one-time concurrent initialization with an integer](https://nullprogram.com/blog/2023/07/31/)
 * [2023-08-01, 21:39:01](https://news.ycombinator.com/item?id=36963439) - [ServiceRouter: Hyperscale and Minimal Cost Service Mesh at Meta [pdf]](https://www.usenix.org/system/files/osdi23-saokar.pdf)
-* [2023-08-01, 21:28:12](https://news.ycombinator.com/item?id=36963261) - [Internet Explorer is EVIL! (2002)](http://toastytech.com/evil/index.html)
 * [2023-08-01, 21:24:08](https://news.ycombinator.com/item?id=36963200) - [Transform your Android device into a Linux desktop](https://mrs-t.medium.com/transform-your-android-device-into-a-linux-desktop-110a3d084ac6)
 * [2023-08-01, 21:00:15](https://news.ycombinator.com/item?id=36962818) - [Watsi (YC W13) Is Hiring a Lead Engineer](https://news.ycombinator.com/item?id=36962818)
 * [2023-08-01, 20:41:00](https://news.ycombinator.com/item?id=36962502) - [Dear Websites, Stop Asking for Ransom Sign-Ups](https://iamvishnu.com/posts/randsom-signup)
@@ -29,6 +28,7 @@
 * [2023-08-01, 12:31:10](https://news.ycombinator.com/item?id=36955146) - [Splitting the Web](https://ploum.net/2023-08-01-splitting-the-web.html)
 * [2023-08-01, 09:43:43](https://news.ycombinator.com/item?id=36954159) - [IronOS: Open-source soldering iron firmware](https://github.com/Ralim/IronOS)
 * [2023-07-31, 14:30:40](https://news.ycombinator.com/item?id=36943091) - [Epicycle Clock by Sophie Houlden](https://sophiehoulden.com/randomstuff/epitime/?revised)
+* [2023-07-31, 12:56:37](https://news.ycombinator.com/item?id=36941885) - [Two Supermoons in August](https://phys.org/news/2023-07-supermoons-august-stargazing-fun.html)
 * [2023-07-31, 11:56:06](https://news.ycombinator.com/item?id=36941312) - [Researchers create open-source platform for Neural Radiance Field development](https://engineering.berkeley.edu/news/2023/07/researchers-create-open-source-platform-for-neural-radiance-field-development/)
 
 ## [Archives](archives/index.md)
