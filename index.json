@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-08-01, 17:50:50",
+      "https://news.ycombinator.com/item?id=36959650"
+    ],
+    [
+      "No telemetry in the Rust compiler: metrics without betraying user privacy",
+      "https://estebank.github.io/rustc-metrics.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-01, 17:34:44",
+      "https://news.ycombinator.com/item?id=36959389"
+    ],
+    [
+      "Run Every Day",
+      "https://duarteocarmo.com/blog/run-every-day"
+    ]
+  ],
+  [
+    [
+      "2023-08-01, 17:10:38",
+      "https://news.ycombinator.com/item?id=36958958"
+    ],
+    [
+      "City officials attempt to doxx Wikipedians",
+      "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-08-01/News_and_notes"
+    ]
+  ],
+  [
+    [
       "2023-08-01, 17:00:13",
       "https://news.ycombinator.com/item?id=36958793"
     ],
@@ -77,16 +107,6 @@
     [
       "A Room-Temperature Superconductor? New Developments",
       "https://www.science.org/content/blog-post/room-temperature-superconductor-new-developments"
-    ]
-  ],
-  [
-    [
-      "2023-08-01, 15:52:19",
-      "https://news.ycombinator.com/item?id=36957669"
-    ],
-    [
-      "Ask HN: Did anyone write a book in Nano?",
-      "https://news.ycombinator.com/item?id=36957669"
     ]
   ],
   [
@@ -217,26 +237,6 @@
     [
       "Nvidia H100 GPUs: Supply and Demand",
       "https://gpus.llm-utils.org/nvidia-h100-gpus-supply-and-demand/"
-    ]
-  ],
-  [
-    [
-      "2023-08-01, 01:18:41",
-      "https://news.ycombinator.com/item?id=36951140"
-    ],
-    [
-      "Semiconducting Transport in LK99 reproduction attempt",
-      "https://arxiv.org/abs/2307.16802"
-    ]
-  ],
-  [
-    [
-      "2023-07-31, 21:47:33",
-      "https://news.ycombinator.com/item?id=36949314"
-    ],
-    [
-      "Can you trust a compiler to optimize your code?",
-      "https://matklad.github.io/2023/04/09/can-you-trust-a-compiler-to-optimize-your-code.html"
     ]
   ],
   [
