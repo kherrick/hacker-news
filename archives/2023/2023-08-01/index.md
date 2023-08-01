@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-01](index.md)
 
+* [2023-08-01, 17:00:13](https://news.ycombinator.com/item?id=36958793) - [Seam (API for IoT) Is Hiring a Founding Technical PM](https://www.ycombinator.com/companies/seam/jobs/9VKC412-product-manager)
+* [2023-08-01, 16:49:07](https://news.ycombinator.com/item?id=36958612) - [Opus Databending Drumkit](https://suricrasia.online/opus-databending-drumkit/)
+* [2023-08-01, 16:44:02](https://news.ycombinator.com/item?id=36958531) - [Electrified cement could turn houses and roads into nearly limitless batteries](https://www.science.org/content/article/electrified-cement-could-turn-houses-and-roads-nearly-limitless-batteries)
 * [2023-08-01, 16:43:16](https://news.ycombinator.com/item?id=36958516) - [Ask HN: In which areas have you compared 3+ tools and formed strong preferences?](https://news.ycombinator.com/item?id=36958516)
 * [2023-08-01, 16:33:36](https://news.ycombinator.com/item?id=36958352) - [Could the world go PFAS-free? Proposal to ban ‘forever chemicals’ fuels debate](https://www.nature.com/articles/d41586-023-02444-5)
 * [2023-08-01, 16:28:43](https://news.ycombinator.com/item?id=36958272) - [Webrecorder: Capture interactive websites and replay them at a later time](https://webrecorder.net/)
