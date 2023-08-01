@@ -129,6 +129,63 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="36958516">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=36958516"
+              >Ask HN: In which areas have you compared 3+ tools and formed
+              strong preferences?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-08-01 @ 16:43:16</span
+              ><span class="points-container"
+                >Points: <span class="points">23</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36958516"
+                  >Comments</a
+                ><span class="descendants">: 9</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I've used 3+ code editors on MacOS and prefer sublime text over
+                VScode, coteditor, xcode.
+              </p>
+              <p>
+                I've used Chrome, Firefox and Safari all within the past year,
+                and I prefer Chrome and Safari.
+              </p>
+              <p>
+                I've used 3+ voice transcription apps, the ones I prefer are
+                'just press record' and Otter.ai, I can't remember the names of
+                the others I used - but I downloaded a bunch of Whisper based
+                ones and non-whisper based ones on the iOS app store.
+              </p>
+              <p>
+                I've used 3+ messaging apps, I like iMessage and Telegram, I
+                prefer those over Signal and WhatsApp.
+              </p>
+              <p>
+                I've used 3+ interfaces for GPT, and I prefer the OpenAI
+                playground over ChatGPT, chatbot-ui, typingmind, openplayground,
+                Poe, and a few others I can't remember.
+              </p>
+              <p>
+                I think it's important to note that for me these are all
+                preferences. I'm not saying one of these tools are objectively
+                better. I am saying that for me they are better, and I prefer
+                them.
+              </p>
+              <p>
+                What are areas of products, tools, developer tools, APIs,
+                anything, where you've personally used 3+ tools, and what did
+                you prefer, and what did you not prefer, if you can still
+                remember?
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="36958352">
           <h3>
             <a
@@ -142,11 +199,11 @@
             <h4>
               <span>2023-08-01 @ 16:33:36</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36958352"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -162,13 +219,109 @@
             <h4>
               <span>2023-08-01 @ 16:28:43</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36958272"
                   >Comments</a
                 ><span class="descendants">: 2</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="36958175">
+          <h3>
+            <a class="item" href="https://github.com/hegelai/prompttools"
+              >Show HN: PromptTools – open-source tools for evaluating LLMs and
+              vector DBs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-08-01 @ 16:23:15</span
+              ><span class="points-container"
+                >Points: <span class="points">35</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36958175"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://github.com/hegelai/prompttools"
+                >https://github.com/hegelai/prompttools</a
+              >): open-source, self-hostable tools for experimenting with,
+              testing, and evaluating LLMs, vector databases, and prompts.
+              <p>
+                Evaluating prompts, LLMs, and vector databases is a painful,
+                time-consuming but necessary part of the product engineering
+                process. Our tools allow engineers to do this in a lot less
+                time.
+              </p>
+              <p>
+                By “evaluating” we mean checking the quality of a model's
+                response for a given use case, which is a combination of testing
+                and benchmarking. As examples: - For generated JSON, SQL, or
+                Python, you can check that the output is actually JSON, SQL, or
+                executable Python. - For generated emails, you can use another
+                model to assess the quality of the generated email given some
+                requirements, like whether or not the email is written
+                professionally. - For a question-answering chatbot, you can
+                check that the actual answer is semantically similar to an
+                expected answer.
+              </p>
+              <p>
+                At Google, Steve worked with HuggingFace and Lightning to
+                support running the newest open-source models on TPUs. He
+                realized that while the open-source community was contributing
+                incredibly powerful models, it wasn’t so easy to discover and
+                evaluate them. It wasn’t clear when you could use Llama or
+                Falcon instead of GPT-4. We began looking for ways to simplify
+                and scale this evaluation process.
+              </p>
+              <p>
+                With PromptTools, you can write a short Python script (as short
+                as 5 lines) to run such checks across models, parameters, and
+                prompts, and pass the results into an evaluation function to get
+                scores. All these can be executed on your local machine without
+                sending data to third-parties. Then we help you turn those
+                experiments into unit tests and CI/CD that track your model’s
+                performance over time.
+              </p>
+              <p>
+                Today we support all of the major model providers like OpenAI,
+                Anthropic, Google, HuggingFace, and even LlamaCpp, and vector
+                databases like ChromaDB and Weaviate. You can evaluate responses
+                via semantic similarity, auto-evaluation by a language model, or
+                structured output validations like JSON and Python. We even have
+                a notebook UI for recording manual feedback.
+              </p>
+              <p>Quickstart:</p>
+              <p></p>
+              <pre><code>  pip install prompttools
+  git clone https://github.com/hegelai/prompttools.git
+  cd prompttools &amp;&amp; jupyter notebook examples/notebooks/OpenAIChatExperiment.ipynb
+</code></pre>
+              For detailed instructions, see our documentation at
+              <a href="https://prompttools.readthedocs.io/en/latest/"
+                >https://prompttools.readthedocs.io/en/latest/</a
+              >.
+              <p>
+                We also have a playground UI, built in streamlit, which is
+                currently in beta:
+                <a
+                  href="https://github.com/hegelai/prompttools/tree/main/prompttools/playground"
+                  >https://github.com/hegelai/prompttools/tree/main/prompttools...</a
+                >. Launch it with:
+              </p>
+              <p></p>
+              <pre><code>  pip install prompttools
+  git clone https://github.com/hegelai/prompttools.git
+  cd prompttools &amp;&amp; streamlit run prompttools/ui/playground.py
+</code></pre>
+              We’d love it if you tried our product out and let us know what you
+              think! We just got started a month ago and we’re eager to get
+              feedback and keep building.
+            </div>
           </section>
         </section>
         <section id="36957678">
@@ -183,11 +336,11 @@
             <h4>
               <span>2023-08-01 @ 15:52:57</span
               ><span class="points-container"
-                >Points: <span class="points">166</span></span
+                >Points: <span class="points">212</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36957678"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
           </section>
@@ -202,11 +355,11 @@
             <h4>
               <span>2023-08-01 @ 15:52:19</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36957669"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
             <div class="text">
@@ -229,11 +382,11 @@
             <h4>
               <span>2023-08-01 @ 15:24:51</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36957204"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
             <div class="text">
@@ -339,11 +492,11 @@
             <h4>
               <span>2023-08-01 @ 15:02:08</span
               ><span class="points-container"
-                >Points: <span class="points">178</span></span
+                >Points: <span class="points">186</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36956867"
                   >Comments</a
-                ><span class="descendants">: 130</span></span
+                ><span class="descendants">: 142</span></span
               >
             </h4>
             <div class="text">
@@ -399,11 +552,11 @@
             <h4>
               <span>2023-08-01 @ 15:02:06</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">116</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36956865"
                   >Comments</a
-                ><span class="descendants">: 134</span></span
+                ><span class="descendants">: 151</span></span
               >
             </h4>
             <div class="text">
@@ -430,7 +583,7 @@
             <h4>
               <span>2023-08-01 @ 13:46:48</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36955885"
                   >Comments</a
@@ -451,11 +604,11 @@
             <h4>
               <span>2023-08-01 @ 13:39:24</span
               ><span class="points-container"
-                >Points: <span class="points">306</span></span
+                >Points: <span class="points">318</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36955806"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -490,11 +643,11 @@
             <h4>
               <span>2023-08-01 @ 11:40:09</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36954792"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -511,11 +664,11 @@
             <h4>
               <span>2023-08-01 @ 11:26:15</span
               ><span class="points-container"
-                >Points: <span class="points">136</span></span
+                >Points: <span class="points">143</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36954718"
                   >Comments</a
-                ><span class="descendants">: 229</span></span
+                ><span class="descendants">: 238</span></span
               >
             </h4>
           </section>
@@ -530,11 +683,11 @@
             <h4>
               <span>2023-08-01 @ 09:43:43</span
               ><span class="points-container"
-                >Points: <span class="points">151</span></span
+                >Points: <span class="points">157</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36954159"
                   >Comments</a
-                ><span class="descendants">: 74</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -551,11 +704,11 @@
             <h4>
               <span>2023-08-01 @ 08:45:29</span
               ><span class="points-container"
-                >Points: <span class="points">501</span></span
+                >Points: <span class="points">511</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36953819"
                   >Comments</a
-                ><span class="descendants">: 237</span></span
+                ><span class="descendants">: 243</span></span
               >
             </h4>
           </section>
@@ -571,11 +724,11 @@
             <h4>
               <span>2023-08-01 @ 06:12:59</span
               ><span class="points-container"
-                >Points: <span class="points">416</span></span
+                >Points: <span class="points">420</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36952894"
                   >Comments</a
-                ><span class="descendants">: 254</span></span
+                ><span class="descendants">: 258</span></span
               >
             </h4>
           </section>
@@ -596,7 +749,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36952867"
                   >Comments</a
-                ><span class="descendants">: 79</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
           </section>
@@ -612,11 +765,11 @@
             <h4>
               <span>2023-08-01 @ 05:53:03</span
               ><span class="points-container"
-                >Points: <span class="points">483</span></span
+                >Points: <span class="points">491</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36952796"
                   >Comments</a
-                ><span class="descendants">: 173</span></span
+                ><span class="descendants">: 179</span></span
               >
             </h4>
           </section>
@@ -632,7 +785,7 @@
             <h4>
               <span>2023-08-01 @ 05:21:23</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36952640"
                   >Comments</a
@@ -653,11 +806,11 @@
             <h4>
               <span>2023-08-01 @ 03:10:55</span
               ><span class="points-container"
-                >Points: <span class="points">188</span></span
+                >Points: <span class="points">190</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36951872"
                   >Comments</a
-                ><span class="descendants">: 111</span></span
+                ><span class="descendants">: 117</span></span
               >
             </h4>
           </section>
@@ -674,30 +827,11 @@
             <h4>
               <span>2023-08-01 @ 02:48:39</span
               ><span class="points-container"
-                >Points: <span class="points">142</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36951738"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="36951289">
-          <h3>
-            <a class="item" href="https://caseymuratori.com/blog_0025"
-              >The worst API ever made (2014)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-08-01 @ 01:39:54</span
-              ><span class="points-container"
-                >Points: <span class="points">311</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36951289"
-                  >Comments</a
-                ><span class="descendants">: 178</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -712,33 +846,11 @@
             <h4>
               <span>2023-08-01 @ 01:18:41</span
               ><span class="points-container"
-                >Points: <span class="points">567</span></span
+                >Points: <span class="points">571</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36951140"
                   >Comments</a
-                ><span class="descendants">: 232</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="36951089">
-          <h3>
-            <a
-              class="item"
-              href="https://news.mit.edu/2023/mit-engineers-create-supercapacitor-ancient-materials-0731"
-              >MIT engineers create an energy-storing supercapacitor from
-              ancient materials</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-08-01 @ 01:11:19</span
-              ><span class="points-container"
-                >Points: <span class="points">199</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36951089"
-                  >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 234</span></span
               >
             </h4>
           </section>
@@ -755,11 +867,11 @@
             <h4>
               <span>2023-07-31 @ 21:47:33</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36949314"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -776,7 +888,7 @@
             <h4>
               <span>2023-07-31 @ 19:30:03</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36947603"
                   >Comments</a
@@ -796,11 +908,11 @@
             <h4>
               <span>2023-07-31 @ 15:15:56</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36943874"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -821,7 +933,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36942237"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -836,11 +948,11 @@
             <h4>
               <span>2023-07-31 @ 12:21:14</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36941512"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -857,7 +969,7 @@
             <h4>
               <span>2023-07-31 @ 12:05:42</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36941398"
                   >Comments</a
@@ -878,11 +990,11 @@
             <h4>
               <span>2023-07-31 @ 11:06:08</span
               ><span class="points-container"
-                >Points: <span class="points">115</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36940937"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
