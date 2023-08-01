@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-01, 03:22:43](https://news.ycombinator.com/item?id=36951929) - [Show HN: An MIT-licensed ChatGPT plugin that loads and edits files locally](https://github.com/ykdojo/kaguya)
 * [2023-08-01, 03:02:36](https://news.ycombinator.com/item?id=36951815) - [Origin of correlated isolated flat bands in LK99](https://arxiv.org/abs/2307.16892)
 * [2023-08-01, 02:48:39](https://news.ycombinator.com/item?id=36951738) - [Git Files Hidden in Plain Sight](https://tylercipriani.com/blog/2023/07/31/git-files-hidden-in-plain-sight/)
 * [2023-08-01, 02:05:36](https://news.ycombinator.com/item?id=36951473) - [Philosophy of Science 101: What Is the Problem of Induction?](https://www.thecollector.com/problem-of-induction-philosophy-of-science/)
@@ -24,7 +25,6 @@
 * [2023-07-31, 14:48:23](https://news.ycombinator.com/item?id=36943415) - [Investors are happy to pay premium for tech, but not for AI](https://www.bloomberg.com/news/articles/2023-07-31/investors-are-happy-to-pay-premium-for-tech-but-not-for-ai)
 * [2023-07-31, 14:40:02](https://news.ycombinator.com/item?id=36943263) - [Space junk: India says object found in Australia is theirs](https://www.bbc.com/news/world-australia-66359381)
 * [2023-07-31, 14:25:14](https://news.ycombinator.com/item?id=36942993) - [USearch: Smaller and faster single-file vector search engine](https://unum-cloud.github.io/usearch/)
-* [2023-07-31, 13:41:21](https://news.ycombinator.com/item?id=36942308) - [Show HN: Linkwarden – An open source collaborative bookmark manager](https://linkwarden.app)
 * [2023-07-31, 11:20:14](https://news.ycombinator.com/item?id=36941035) - [The Secret Life of the Cables That Run the Internet](https://www.cnet.com/home/internet/features/the-secret-life-of-the-500-cables-that-run-the-internet/)
 * [2023-07-31, 07:18:37](https://news.ycombinator.com/item?id=36939648) - [Fantasy meets reality](https://cabel.com/2023/07/30/fantasy-meets-reality/)
 * [2023-07-31, 04:52:06](https://news.ycombinator.com/item?id=36938926) - [The Cutting-Edge Cartoons of Winsor McCay](https://daily.jstor.org/the-cutting-edge-cartoons-of-winsor-mccay/)
