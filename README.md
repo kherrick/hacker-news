@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-01, 12:24:24](https://news.ycombinator.com/item?id=36955091) - [Ask HN: Who Is Firing?](https://news.ycombinator.com/item?id=36955091)
 * [2023-08-01, 12:16:16](https://news.ycombinator.com/item?id=36955019) - [Bridging the Python async gap from the other side](https://death.andgravity.com/asyncio-bridge)
 * [2023-08-01, 12:12:17](https://news.ycombinator.com/item?id=36954998) - [Show HN: Local development with .local domains and HTTPS](https://www.localcan.com/)
 * [2023-08-01, 12:01:09](https://news.ycombinator.com/item?id=36954925) - [GiveCampus (YC S15) Hiring Rails engineers in education software](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
@@ -23,6 +22,7 @@
 * [2023-07-31, 23:04:25](https://news.ycombinator.com/item?id=36950075) - [Help the Library of Congress create games to improve public knowledge of civics](https://blogs.loc.gov/law/2023/06/help-the-library-of-congress-create-video-games-that-improve-public-knowledge-of-civics/)
 * [2023-07-31, 22:55:58](https://news.ycombinator.com/item?id=36949988) - [Retrieving your browsing history through a CAPTCHA (2022)](https://varun.ch/history)
 * [2023-07-31, 22:50:19](https://news.ycombinator.com/item?id=36949931) - [How to get ChatGPT to stop apologizing?](https://genai.stackexchange.com/questions/177/how-to-get-chatgpt-to-stop-apologizing)
+* [2023-07-31, 19:30:03](https://news.ycombinator.com/item?id=36947603) - [Are the “missing baryons” simply too hot to see?](https://bigthink.com/starts-with-a-bang/missing-baryons-too-hot/)
 * [2023-07-31, 15:41:12](https://news.ycombinator.com/item?id=36944313) - [Tree Keepers: Where Sustaining the Forest Is a Tribal Tradition](https://e360.yale.edu/features/menominee-forest-management-logging)
 * [2023-07-31, 14:42:40](https://news.ycombinator.com/item?id=36943317) - [What's Hashing? (2022)](https://blog.dvsj.in/hashing/)
 * [2023-07-31, 12:21:14](https://news.ycombinator.com/item?id=36941512) - [Cut out everything that's not surprising](https://sive.rs/d22)
