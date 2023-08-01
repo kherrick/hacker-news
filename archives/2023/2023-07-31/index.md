@@ -10,6 +10,7 @@
 * [2023-07-31, 22:55:58](https://news.ycombinator.com/item?id=36949988) - [Retrieving your browsing history through a CAPTCHA](https://varun.ch/history)
 * [2023-07-31, 22:53:18](https://news.ycombinator.com/item?id=36949961) - [Show HN: Socket web extension – free NPM supply chain protection](https://chrome.google.com/webstore/detail/socket-security/jbcobpbfgkhmjfpjjepkcocalmpkiaop)
 * [2023-07-31, 22:50:19](https://news.ycombinator.com/item?id=36949931) - [How to Get ChatGPT to Stop Apologizing?](https://genai.stackexchange.com/questions/177/how-to-get-chatgpt-to-stop-apologizing)
+* [2023-07-31, 21:47:33](https://news.ycombinator.com/item?id=36949314) - [Can you trust a compiler to optimize your code?](https://matklad.github.io/2023/04/09/can-you-trust-a-compiler-to-optimize-your-code.html)
 * [2023-07-31, 21:01:01](https://news.ycombinator.com/item?id=36948763) - [Glass Health (YC W23) is hiring a full-stack engineer in SF to build for doctors](https://news.ycombinator.com/item?id=36948763)
 * [2023-07-31, 20:35:13](https://news.ycombinator.com/item?id=36948403) - [Chunking 2M files a day for code search using syntax trees](https://docs.sweep.dev/blogs/chunking-2m-files)
 * [2023-07-31, 20:17:20](https://news.ycombinator.com/item?id=36948180) - [The Fall of Stack Overflow](https://newsletter.devmoh.co/p/the-fall-of-stack-overflow-explained)
