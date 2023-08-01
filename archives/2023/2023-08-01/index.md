@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-01](index.md)
 
 * [2023-08-01, 12:45:42](https://news.ycombinator.com/item?id=36955266) - [Rust Absolutely Positively Sucks [video]](https://www.youtube.com/watch?v=BB-H5ivmdwQ)
+* [2023-08-01, 12:24:24](https://news.ycombinator.com/item?id=36955091) - [Ask HN: Who Is Firing?](https://news.ycombinator.com/item?id=36955091)
 * [2023-08-01, 12:16:16](https://news.ycombinator.com/item?id=36955019) - [Bridging the Python async gap from the other side](https://death.andgravity.com/asyncio-bridge)
 * [2023-08-01, 12:12:17](https://news.ycombinator.com/item?id=36954998) - [Show HN: Local development with .local domains and HTTPS](https://www.localcan.com/)
 * [2023-08-01, 12:01:52](https://news.ycombinator.com/item?id=36954932) - [Prediction Market on LK-99](https://manifold.markets/QuantumObserver/will-the-lk99-room-temp-ambient-pre)
