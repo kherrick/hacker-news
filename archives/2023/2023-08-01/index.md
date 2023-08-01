@@ -6,9 +6,11 @@
 
 * [2023-08-01, 21:28:12](https://news.ycombinator.com/item?id=36963261) - [Internet Explorer Is Evil](http://toastytech.com/evil/index.html)
 * [2023-08-01, 21:24:08](https://news.ycombinator.com/item?id=36963200) - [Transform Your Android Device into a Linux Desktop](https://mrs-t.medium.com/transform-your-android-device-into-a-linux-desktop-110a3d084ac6)
+* [2023-08-01, 21:13:16](https://news.ycombinator.com/item?id=36963037) - [A Fire Upon The Deep By Vernor Vinge (1992)](https://archive.org/details/fireupondeep00ving)
 * [2023-08-01, 21:00:15](https://news.ycombinator.com/item?id=36962818) - [Watsi (YC W13) Is Hiring a Lead Engineer](https://news.ycombinator.com/item?id=36962818)
 * [2023-08-01, 20:43:35](https://news.ycombinator.com/item?id=36962545) - [Booker Prize 2023 longlist announced](https://thebookerprizes.com/the-booker-library/prize-years/2023)
 * [2023-08-01, 20:42:09](https://news.ycombinator.com/item?id=36962526) - [A Nordic Revolt Against 'Ugly' Modern Architecture](https://www.bloomberg.com/news/features/2023-08-01/a-scandinavian-uprising-against-modern-architecture)
+* [2023-08-01, 20:41:00](https://news.ycombinator.com/item?id=36962502) - [Dear Websites, Stop Asking for Ransom Sign-Ups](https://iamvishnu.com/posts/randsom-signup)
 * [2023-08-01, 20:11:26](https://news.ycombinator.com/item?id=36961996) - [eGPU: A 750 MHz Class Soft GPGPU for FPGA](https://arxiv.org/abs/2307.08378)
 * [2023-08-01, 19:54:46](https://news.ycombinator.com/item?id=36961734) - [Mac Mini M1 Mod to Receive Power over Ethernet Instead of the AC Input](https://www.inferse.com/660551/hardware-hacker-mods-an-m1-mac-mini-to-receive-power-over-ethernet-instead-of-the-ac-input/)
 * [2023-08-01, 19:35:45](https://news.ycombinator.com/item?id=36961445) - [Evading JavaScript anti-debugging techniques](https://www.nullpt.rs/evading-anti-debugging-techniques)
