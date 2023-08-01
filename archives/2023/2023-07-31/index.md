@@ -72,6 +72,7 @@
 * [2023-07-31, 13:14:32](https://news.ycombinator.com/item?id=36942033) - [The Fibonacci Matrix](https://ianthehenry.com/posts/fibonacci/)
 * [2023-07-31, 13:06:00](https://news.ycombinator.com/item?id=36941960) - [The New York Times attacks e-bikes while ignoring the real danger all around us](https://electrek.co/2023/07/30/the-new-york-times-attacks-e-bikes-while-ignoring-car-danger/)
 * [2023-07-31, 13:04:15](https://news.ycombinator.com/item?id=36941942) - [Paperlike Color: World’s First Color E-Ink Monitor](https://www.indiegogo.com/projects/paperlike-color-world-first-color-e-ink-monitor/coming_soon)
+* [2023-07-31, 12:42:04](https://news.ycombinator.com/item?id=36941740) - [The Inescapable Rise of Moral Superiority](https://thewalrus.ca/the-inescapable-rise-of-moral-superiority/)
 * [2023-07-31, 12:21:14](https://news.ycombinator.com/item?id=36941512) - [Cut out everything that's not surprising](https://sive.rs/d22)
 * [2023-07-31, 12:16:48](https://news.ycombinator.com/item?id=36941480) - [Tell HN: Airbnb’s transparent pricing is a lie](https://news.ycombinator.com/item?id=36941480)
 * [2023-07-31, 12:05:42](https://news.ycombinator.com/item?id=36941398) - [Query Engines: Push vs. Pull](https://justinjaffray.com/query-engines-push-vs.-pull/)
