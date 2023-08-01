@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-01, 21:00:15](https://news.ycombinator.com/item?id=36962818) - [Watsi (YC W13) Is Hiring a Lead Engineer](https://news.ycombinator.com/item?id=36962818)
+* [2023-08-01, 20:43:35](https://news.ycombinator.com/item?id=36962545) - [Booker Prize 2023 longlist announced](https://thebookerprizes.com/the-booker-library/prize-years/2023)
+* [2023-08-01, 20:11:26](https://news.ycombinator.com/item?id=36961996) - [eGPU: A 750 MHz Class Soft GPGPU for FPGA](https://arxiv.org/abs/2307.08378)
 * [2023-08-01, 19:54:46](https://news.ycombinator.com/item?id=36961734) - [Mac Mini M1 Mod to Receive Power over Ethernet Instead of the AC Input](https://www.inferse.com/660551/hardware-hacker-mods-an-m1-mac-mini-to-receive-power-over-ethernet-instead-of-the-ac-input/)
 * [2023-08-01, 19:17:59](https://news.ycombinator.com/item?id=36961101) - [Alfred-40B, an OSS RLHF version of Falcon40B](https://www.lighton.ai/blog/lighton-s-blog-4/introducing-alfred-40b-0723-38)
 * [2023-08-01, 19:03:41](https://news.ycombinator.com/item?id=36960882) - [“Web Environment Integrity”: Locking Down the Web](https://brave.com/web-standards-at-brave/9-web-environment-integrity/)
@@ -9,9 +12,7 @@
 * [2023-08-01, 18:31:31](https://news.ycombinator.com/item?id=36960309) - [Emacs is my new window manager](https://howardism.org/Technical/Emacs/new-window-manager.html)
 * [2023-08-01, 18:27:34](https://news.ycombinator.com/item?id=36960244) - [Show HN: imessage-exporter, a full-featured CLI app and library](https://github.com/ReagentX/imessage-exporter)
 * [2023-08-01, 17:27:44](https://news.ycombinator.com/item?id=36959267) - [Oregon decriminalized hard drugs – early results aren’t encouraging](https://www.theatlantic.com/politics/archive/2023/07/oregon-drug-decriminalization-results-overdoses/674733/)
-* [2023-08-01, 17:00:13](https://news.ycombinator.com/item?id=36958793) - [Seam (YC S20), API for IoT, is hiring a founding technical PM](https://www.ycombinator.com/companies/seam/jobs/9VKC412-product-manager)
 * [2023-08-01, 16:49:07](https://news.ycombinator.com/item?id=36958612) - [Opus Databending Drumkit](https://suricrasia.online/opus-databending-drumkit/)
-* [2023-08-01, 16:44:02](https://news.ycombinator.com/item?id=36958531) - [Researchers have come up with a new way to store electricity in cement](https://www.science.org/content/article/electrified-cement-could-turn-houses-and-roads-nearly-limitless-batteries)
 * [2023-08-01, 16:38:06](https://news.ycombinator.com/item?id=36958424) - [Senate Votes to Let People Who’ve Used Marijuana Work at Intelligence Agencies](https://www.marijuanamoment.net/senate-votes-to-let-people-whove-used-marijuana-work-at-intelligence-agencies-like-cia-and-nsa-as-part-of-defense-bill/)
 * [2023-08-01, 16:33:36](https://news.ycombinator.com/item?id=36958352) - [Could the world go PFAS-free? Proposal to ban ‘forever chemicals’ fuels debate](https://www.nature.com/articles/d41586-023-02444-5)
 * [2023-08-01, 16:31:22](https://news.ycombinator.com/item?id=36958315) - [Speed isn’t everything, and slowness may in fact be more beneficial (2017)](https://www.bps.org.uk/psychologist/slowness-essence-knowledge)
@@ -28,7 +29,6 @@
 * [2023-08-01, 05:53:03](https://news.ycombinator.com/item?id=36952796) - [Jujutsu: A Git-compatible DVCS that is both simple and powerful](https://github.com/martinvonz/jj)
 * [2023-07-31, 17:17:04](https://news.ycombinator.com/item?id=36945816) - [Cryptography may offer a solution to the AI-labeling problem](https://www.technologyreview.com/2023/07/28/1076843/cryptography-ai-labeling-problem-c2pa-provenance/)
 * [2023-07-31, 16:03:16](https://news.ycombinator.com/item?id=36944686) - [Hypermedia as the Engine of Application State (HATEOAS)](https://htmx.org/essays/hateoas/)
-* [2023-07-31, 12:05:42](https://news.ycombinator.com/item?id=36941398) - [Query Engines: Push vs. Pull](https://justinjaffray.com/query-engines-push-vs.-pull/)
 * [2023-07-31, 11:56:06](https://news.ycombinator.com/item?id=36941312) - [Researchers create open-source platform for Neural Radiance Field development](https://engineering.berkeley.edu/news/2023/07/researchers-create-open-source-platform-for-neural-radiance-field-development/)
 
 ## [Archives](archives/index.md)
