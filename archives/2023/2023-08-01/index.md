@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-01](index.md)
 
+* [2023-08-01, 19:17:59](https://news.ycombinator.com/item?id=36961101) - [Alfred-40B, an OSS RLHF version of Falcon40B](https://www.lighton.ai/blog/lighton-s-blog-4/introducing-alfred-40b-0723-38)
 * [2023-08-01, 19:11:45](https://news.ycombinator.com/item?id=36961009) - [US lawmaker says high-tech investment 'leaving Israel' amid judicial overhaul](https://www.middleeasteye.net/news/us-lawmaker-ro-khanna-investment-leaving-israel-judicial-overhaul)
+* [2023-08-01, 19:03:41](https://news.ycombinator.com/item?id=36960882) - [“Web Environment Integrity”: Locking Down the Web](https://brave.com/web-standards-at-brave/9-web-environment-integrity/)
 * [2023-08-01, 19:03:27](https://news.ycombinator.com/item?id=36960874) - [Run Llama 2 on your own Mac using LLM and Homebrew](https://simonwillison.net/2023/Aug/1/llama-2-mac/)
 * [2023-08-01, 19:01:05](https://news.ycombinator.com/item?id=36960831) - [Miyazaki’s Magical Food: An Ode to Anime’s Best Cooking Scenes](https://www.seriouseats.com/studio-ghibli-anime-best-food-scenes)
 * [2023-08-01, 18:31:31](https://news.ycombinator.com/item?id=36960309) - [Emacs Is My New Window Manager](https://howardism.org/Technical/Emacs/new-window-manager.html)
