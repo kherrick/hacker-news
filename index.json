@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-08-01, 12:45:42",
-      "https://news.ycombinator.com/item?id=36955266"
+      "2023-08-01, 12:24:24",
+      "https://news.ycombinator.com/item?id=36955091"
     ],
     [
-      "Rust Absolutely Positively Sucks [video]",
-      "https://www.youtube.com/watch?v=BB-H5ivmdwQ"
+      "Ask HN: Who Is Firing?",
+      "https://news.ycombinator.com/item?id=36955091"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2023-07-31, 23:12:23",
+      "https://news.ycombinator.com/item?id=36950151"
+    ],
+    [
+      "Occluding Contour Breakthroughs, Part 1: A Surprisingly Hard Problem",
+      "https://aaronhertzmann.com/2023/07/31/occluding-contours-part-1.html"
+    ]
+  ],
+  [
+    [
       "2023-07-31, 23:04:25",
       "https://news.ycombinator.com/item?id=36950075"
     ],
@@ -217,16 +227,6 @@
     [
       "How to get ChatGPT to stop apologizing?",
       "https://genai.stackexchange.com/questions/177/how-to-get-chatgpt-to-stop-apologizing"
-    ]
-  ],
-  [
-    [
-      "2023-07-31, 21:47:33",
-      "https://news.ycombinator.com/item?id=36949314"
-    ],
-    [
-      "Can you trust a compiler to optimize your code?",
-      "https://matklad.github.io/2023/04/09/can-you-trust-a-compiler-to-optimize-your-code.html"
     ]
   ],
   [
