@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-01, 05:15:22](https://news.ycombinator.com/item?id=36952605) - [National Lab (LBNL) results support LK-99 as a room-temperature superconductor](https://twitter.com/Andercot/status/1686215574177841152)
+* [2023-08-01, 04:04:38](https://news.ycombinator.com/item?id=36952143) - [When the Yogurt Took Over](https://whatever.scalzi.com/2010/10/02/when-the-yogurt-took-over-a-short-story/)
 * [2023-08-01, 03:22:43](https://news.ycombinator.com/item?id=36951929) - [Show HN: An MIT-licensed ChatGPT plugin that loads and edits files locally](https://github.com/ykdojo/kaguya)
 * [2023-08-01, 03:10:55](https://news.ycombinator.com/item?id=36951872) - [Nvidia H100 GPUs: Supply and Demand](https://gpus.llm-utils.org/nvidia-h100-gpus-supply-and-demand/)
 * [2023-08-01, 03:02:36](https://news.ycombinator.com/item?id=36951815) - [Origin of correlated isolated flat bands in LK99](https://arxiv.org/abs/2307.16892)
@@ -9,7 +9,6 @@
 * [2023-08-01, 01:39:54](https://news.ycombinator.com/item?id=36951289) - [The worst API ever made (2014)](https://caseymuratori.com/blog_0025)
 * [2023-08-01, 01:18:41](https://news.ycombinator.com/item?id=36951140) - [Semiconducting Transport in LK99 reproduction attempt](https://arxiv.org/abs/2307.16802)
 * [2023-08-01, 01:11:19](https://news.ycombinator.com/item?id=36951089) - [MIT engineers create an energy-storing supercapacitor from ancient materials](https://news.mit.edu/2023/mit-engineers-create-supercapacitor-ancient-materials-0731)
-* [2023-08-01, 00:28:35](https://news.ycombinator.com/item?id=36950786) - [Can you simply brainwash an LLM?](https://gradientdefense.com/blog/can-you-simply-brainwash-an-llm)
 * [2023-07-31, 23:12:23](https://news.ycombinator.com/item?id=36950151) - [Occluding Contour Breakthroughs, Part 1: A Surprisingly Hard Problem](https://aaronhertzmann.com/2023/07/31/occluding-contours-part-1.html)
 * [2023-07-31, 23:04:25](https://news.ycombinator.com/item?id=36950075) - [Help the Library of Congress create games to improve public knowledge of civics](https://blogs.loc.gov/law/2023/06/help-the-library-of-congress-create-video-games-that-improve-public-knowledge-of-civics/)
 * [2023-07-31, 22:55:58](https://news.ycombinator.com/item?id=36949988) - [Retrieving your browsing history through a CAPTCHA (2022)](https://varun.ch/history)
@@ -20,6 +19,7 @@
 * [2023-07-31, 20:16:24](https://news.ycombinator.com/item?id=36948164) - [Icanhazip: A simple IP address tool survived a deluge of users (2021)](https://blog.apnic.net/2021/06/17/how-a-small-free-ip-tool-survived/)
 * [2023-07-31, 17:54:37](https://news.ycombinator.com/item?id=36946365) - [The Postal Service, Circulating Portfolios: Modern Networked Identities](https://www.researchgate.net/publication/352497161_The_Postal_Service_Circulating_Portfolios_and_the_Cultural_Production_of_Modern_Networked_Identities)
 * [2023-07-31, 17:36:55](https://news.ycombinator.com/item?id=36946104) - [Marijuana addiction: those struggling often face skepticism](https://www.washingtonpost.com/health/2023/07/31/marijuana-addiction-legal-recreational-sales/)
+* [2023-07-31, 16:26:50](https://news.ycombinator.com/item?id=36945046) - [“BASIC Computer Games” code in modern languages](https://github.com/coding-horror/basic-computer-games)
 * [2023-07-31, 16:22:28](https://news.ycombinator.com/item?id=36944978) - [Ice core scientists in East Greenland reach bedrock](https://news.ku.dk/all_news/2023/07/pay-dirt-for-ice-core-scientists-in-east-greenland-as-they-reach-bedrock/)
 * [2023-07-31, 15:41:12](https://news.ycombinator.com/item?id=36944313) - [Tree Keepers: Where Sustaining the Forest Is a Tribal Tradition](https://e360.yale.edu/features/menominee-forest-management-logging)
 * [2023-07-31, 15:31:26](https://news.ycombinator.com/item?id=36944152) - [Show HN: Markwhen: Markdown for Timelines](https://app.markwhen.com)
