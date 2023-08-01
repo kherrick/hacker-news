@@ -6,7 +6,6 @@
 * [2023-08-01, 01:39:54](https://news.ycombinator.com/item?id=36951289) - [The Worst API Ever Made](https://caseymuratori.com/blog_0025)
 * [2023-08-01, 01:18:41](https://news.ycombinator.com/item?id=36951140) - [Semiconducting Transport in LK99 reproduction attempt](https://arxiv.org/abs/2307.16802)
 * [2023-08-01, 01:11:19](https://news.ycombinator.com/item?id=36951089) - [MIT engineers create an energy-storing supercapacitor from ancient materials](https://news.mit.edu/2023/mit-engineers-create-supercapacitor-ancient-materials-0731)
-* [2023-08-01, 00:28:35](https://news.ycombinator.com/item?id=36950786) - [Can you simply brainwash a large language model?](https://gradientdefense.com/blog/can-you-simply-brainwash-an-llm)
 * [2023-07-31, 23:12:23](https://news.ycombinator.com/item?id=36950151) - [Occluding Contour Breakthroughs, Part 1: A Surprisingly Hard Problem](https://aaronhertzmann.com/2023/07/31/occluding-contours-part-1.html)
 * [2023-07-31, 23:04:25](https://news.ycombinator.com/item?id=36950075) - [Help the Library of Congress create games to improve public knowledge of civics](https://blogs.loc.gov/law/2023/06/help-the-library-of-congress-create-video-games-that-improve-public-knowledge-of-civics/)
 * [2023-07-31, 22:55:58](https://news.ycombinator.com/item?id=36949988) - [Retrieving your browsing history through a CAPTCHA (2022)](https://varun.ch/history)
@@ -30,6 +29,7 @@
 * [2023-07-31, 04:52:06](https://news.ycombinator.com/item?id=36938926) - [The Cutting-Edge Cartoons of Winsor McCay](https://daily.jstor.org/the-cutting-edge-cartoons-of-winsor-mccay/)
 * [2023-07-30, 16:12:35](https://news.ycombinator.com/item?id=36932739) - [The Parts-Bin Approach: Konami’s Contra](https://nicole.express/2023/the-best-take-on-iran-contra.html)
 * [2023-07-30, 12:00:18](https://news.ycombinator.com/item?id=36930290) - [Secret identities in Dwarf Fortress (2017)](https://ojs.aaai.org/index.php/AIIDE/article/view/12963)
+* [2023-07-30, 09:02:39](https://news.ycombinator.com/item?id=36929294) - [Aeolus: A historic end to a trailblazing mission](https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Aeolus/Aeolus_a_historic_end_to_a_trailblazing_mission)
 
 ## [Archives](archives/index.md)
 

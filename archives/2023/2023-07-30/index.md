@@ -72,6 +72,7 @@
 * [2023-07-30, 09:44:14](https://news.ycombinator.com/item?id=36929499) - [Ffmprovisr – Making FFmpeg Easier](https://amiaopensource.github.io/ffmprovisr/)
 * [2023-07-30, 09:23:54](https://news.ycombinator.com/item?id=36929386) - [“We are not cheating” (YH Kwon superconductor comments)](https://twitter.com/8teAPi/status/1685294623449874432)
 * [2023-07-30, 09:14:00](https://news.ycombinator.com/item?id=36929335) - [How the Rich Reap Huge Tax Breaks From Private Nonprofits](https://www.propublica.org/article/how-private-nonprofits-ultrawealthy-tax-deductions-museums-foundation-art)
+* [2023-07-30, 09:02:39](https://news.ycombinator.com/item?id=36929294) - [Aeolus: A historic end to a trailblazing mission](https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Aeolus/Aeolus_a_historic_end_to_a_trailblazing_mission)
 * [2023-07-30, 08:28:57](https://news.ycombinator.com/item?id=36929096) - [Chicago95 – Windows 95 Theme for Linux](https://github.com/grassmunk/Chicago95)
 * [2023-07-30, 08:28:00](https://news.ycombinator.com/item?id=36929090) - [Scientists May Have Found Mechanism Behind Cognitive Decline in Aging](https://news.cuanschutz.edu/news-stories/scientists-may-have-found-mechanism-behind-cognitive-decline-in-aging)
 * [2023-07-30, 07:15:48](https://news.ycombinator.com/item?id=36928678) - [Blaming Capitalists and Workers for Inflation](https://www.profstonge.com/p/blaming-capitalists-and-workers-for)
