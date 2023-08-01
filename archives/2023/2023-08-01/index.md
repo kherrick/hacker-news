@@ -16,6 +16,7 @@
 * [2023-08-01, 03:22:43](https://news.ycombinator.com/item?id=36951929) - [Show HN: An MIT-licensed ChatGPT plugin that loads and edits files locally](https://github.com/ykdojo/kaguya)
 * [2023-08-01, 03:10:55](https://news.ycombinator.com/item?id=36951872) - [Nvidia H100 GPUs: Supply and Demand](https://gpus.llm-utils.org/nvidia-h100-gpus-supply-and-demand/)
 * [2023-08-01, 03:02:36](https://news.ycombinator.com/item?id=36951815) - [Origin of correlated isolated flat bands in LK99](https://arxiv.org/abs/2307.16892)
+* [2023-08-01, 03:00:59](https://news.ycombinator.com/item?id=36951809) - [Why This AI Moment May Be the Real Deal](https://www.thenewatlantis.com/publications/why-this-ai-moment-may-be-the-real-deal)
 * [2023-08-01, 02:48:39](https://news.ycombinator.com/item?id=36951738) - [Git Files Hidden in Plain Sight](https://tylercipriani.com/blog/2023/07/31/git-files-hidden-in-plain-sight/)
 * [2023-08-01, 02:45:29](https://news.ycombinator.com/item?id=36951725) - [For the Love of God, Stop Microwaving Plastic](https://www.wired.com/story/for-the-love-of-god-stop-microwaving-plastic/)
 * [2023-08-01, 02:05:36](https://news.ycombinator.com/item?id=36951473) - [Philosophy of Science 101: What Is the Problem of Induction?](https://www.thecollector.com/problem-of-induction-philosophy-of-science/)
