@@ -8,6 +8,7 @@
 * [2023-08-01, 16:49:07](https://news.ycombinator.com/item?id=36958612) - [Opus Databending Drumkit](https://suricrasia.online/opus-databending-drumkit/)
 * [2023-08-01, 16:44:02](https://news.ycombinator.com/item?id=36958531) - [Electrified cement could turn houses and roads into nearly limitless batteries](https://www.science.org/content/article/electrified-cement-could-turn-houses-and-roads-nearly-limitless-batteries)
 * [2023-08-01, 16:43:16](https://news.ycombinator.com/item?id=36958516) - [Ask HN: In which areas have you compared 3+ tools and formed strong preferences?](https://news.ycombinator.com/item?id=36958516)
+* [2023-08-01, 16:38:06](https://news.ycombinator.com/item?id=36958424) - [Senate Votes to Let People Who’ve Used Marijuana Work at Intelligence Agencies](https://www.marijuanamoment.net/senate-votes-to-let-people-whove-used-marijuana-work-at-intelligence-agencies-like-cia-and-nsa-as-part-of-defense-bill/)
 * [2023-08-01, 16:33:36](https://news.ycombinator.com/item?id=36958352) - [Could the world go PFAS-free? Proposal to ban ‘forever chemicals’ fuels debate](https://www.nature.com/articles/d41586-023-02444-5)
 * [2023-08-01, 16:28:43](https://news.ycombinator.com/item?id=36958272) - [Webrecorder: Capture interactive websites and replay them at a later time](https://webrecorder.net/)
 * [2023-08-01, 16:23:15](https://news.ycombinator.com/item?id=36958175) - [Show HN: PromptTools – open-source tools for evaluating LLMs and vector DBs](https://github.com/hegelai/prompttools)
