@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-01](index.md)
 
+* [2023-08-01, 19:03:27](https://news.ycombinator.com/item?id=36960874) - [Run Llama 2 on your own Mac using LLM and Homebrew](https://simonwillison.net/2023/Aug/1/llama-2-mac/)
+* [2023-08-01, 18:31:31](https://news.ycombinator.com/item?id=36960309) - [Emacs Is My New Window Manager](https://howardism.org/Technical/Emacs/new-window-manager.html)
 * [2023-08-01, 18:30:28](https://news.ycombinator.com/item?id=36960292) - [Cancer pill AOH1996 shows promise in annihilating all solid tumours](https://innovationorigins.com/en/cancer-pill-aoh1996-shows-promise-in-annihilating-all-solid-tumours/)
 * [2023-08-01, 18:27:34](https://news.ycombinator.com/item?id=36960244) - [Show HN: imessage-exporter, a full-featured CLI app and library](https://github.com/ReagentX/imessage-exporter)
 * [2023-08-01, 18:23:53](https://news.ycombinator.com/item?id=36960185) - [Sunak’s family firm signed deal with BP before opening new North Sea licences](https://www.thelondoneconomic.com/politics/sunaks-family-firm-signed-a-billion-dollar-deal-with-bp-before-pm-opened-new-north-sea-licences-353690/)
