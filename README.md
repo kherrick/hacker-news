@@ -23,11 +23,11 @@
 * [2023-07-31, 20:16:24](https://news.ycombinator.com/item?id=36948164) - [Icanhazip: A simple IP address tool survived a deluge of users (2021)](https://blog.apnic.net/2021/06/17/how-a-small-free-ip-tool-survived/)
 * [2023-07-31, 16:22:28](https://news.ycombinator.com/item?id=36944978) - [Ice core scientists in East Greenland reach bedrock](https://news.ku.dk/all_news/2023/07/pay-dirt-for-ice-core-scientists-in-east-greenland-as-they-reach-bedrock/)
 * [2023-07-31, 15:41:12](https://news.ycombinator.com/item?id=36944313) - [Tree Keepers: Where Sustaining the Forest Is a Tribal Tradition](https://e360.yale.edu/features/menominee-forest-management-logging)
+* [2023-07-31, 12:21:14](https://news.ycombinator.com/item?id=36941512) - [Cut out everything that's not surprising](https://sive.rs/d22)
 * [2023-07-31, 11:20:14](https://news.ycombinator.com/item?id=36941035) - [The Cables That Run the Internet](https://www.cnet.com/home/internet/features/the-secret-life-of-the-500-cables-that-run-the-internet/)
 * [2023-07-31, 11:06:08](https://news.ycombinator.com/item?id=36940937) - [Predictive Debugging: A Game-Changing Look into the Future](https://blog.jetbrains.com/dotnet/2023/07/27/introducing-predictive-debugging-a-game-changing-look-into-the-future/)
 * [2023-07-31, 07:18:37](https://news.ycombinator.com/item?id=36939648) - [Fantasy meets reality](https://cabel.com/2023/07/30/fantasy-meets-reality/)
 * [2023-07-31, 06:44:53](https://news.ycombinator.com/item?id=36939491) - [Propagating bounds through bitwise operations](http://bitmath.blogspot.com/2023/07/propagating-bounds-through-bitwise.html)
-* [2023-07-31, 04:52:06](https://news.ycombinator.com/item?id=36938926) - [The cutting-edge cartoons of Winsor McCay](https://daily.jstor.org/the-cutting-edge-cartoons-of-winsor-mccay/)
 * [2023-07-30, 16:12:35](https://news.ycombinator.com/item?id=36932739) - [The Parts-Bin Approach: Konami’s Contra](https://nicole.express/2023/the-best-take-on-iran-contra.html)
 * [2023-07-30, 08:28:13](https://news.ycombinator.com/item?id=36929091) - [The L-functions and modular forms database](https://www.lmfdb.org/)
 
