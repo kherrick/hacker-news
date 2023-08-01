@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-01, 09:43:43](https://news.ycombinator.com/item?id=36954159) - [IronOS: Open-source soldering iron firmware](https://github.com/Ralim/IronOS)
 * [2023-08-01, 08:45:29](https://news.ycombinator.com/item?id=36953819) - [First claimed successful replication of LK-99](https://twitter.com/Andercot/status/1686286684424691712)
 * [2023-08-01, 06:12:59](https://news.ycombinator.com/item?id=36952894) - [Room-Temperature Ambient-Pressure Superconductor LK-99 preprint revision 2](https://arxiv.org/abs/2307.12037)
 * [2023-08-01, 06:07:36](https://news.ycombinator.com/item?id=36952867) - [Systemd auto-restarts of units can hide problems from you](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdRestartHidesProblems)
@@ -18,7 +19,6 @@
 * [2023-07-31, 22:55:58](https://news.ycombinator.com/item?id=36949988) - [Retrieving your browsing history through a CAPTCHA (2022)](https://varun.ch/history)
 * [2023-07-31, 22:50:19](https://news.ycombinator.com/item?id=36949931) - [How to get ChatGPT to stop apologizing?](https://genai.stackexchange.com/questions/177/how-to-get-chatgpt-to-stop-apologizing)
 * [2023-07-31, 21:47:33](https://news.ycombinator.com/item?id=36949314) - [Can you trust a compiler to optimize your code?](https://matklad.github.io/2023/04/09/can-you-trust-a-compiler-to-optimize-your-code.html)
-* [2023-07-31, 21:01:01](https://news.ycombinator.com/item?id=36948763) - [Glass Health (YC W23) is hiring a full-stack engineer in SF to build for doctors](https://news.ycombinator.com/item?id=36948763)
 * [2023-07-31, 20:35:13](https://news.ycombinator.com/item?id=36948403) - [Chunking 2M files a day for code search using syntax trees](https://docs.sweep.dev/blogs/chunking-2m-files)
 * [2023-07-31, 20:16:24](https://news.ycombinator.com/item?id=36948164) - [Icanhazip: A simple IP address tool survived a deluge of users (2021)](https://blog.apnic.net/2021/06/17/how-a-small-free-ip-tool-survived/)
 * [2023-07-31, 16:22:28](https://news.ycombinator.com/item?id=36944978) - [Ice core scientists in East Greenland reach bedrock](https://news.ku.dk/all_news/2023/07/pay-dirt-for-ice-core-scientists-in-east-greenland-as-they-reach-bedrock/)
