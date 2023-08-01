@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-01, 15:52:57](https://news.ycombinator.com/item?id=36957678) - [A Room-Temperature Superconductor? New Developments](https://www.science.org/content/blog-post/room-temperature-superconductor-new-developments)
+* [2023-08-01, 15:48:37](https://news.ycombinator.com/item?id=36957614) - [Sigh, this is what browsing the web in the EU looks like nowadays (2021)](https://mmazzarolo.com/blog/2021-09-10-browsing-the-web-from-eu/)
 * [2023-08-01, 15:24:51](https://news.ycombinator.com/item?id=36957204) - [Launch HN: Tiptap (YC S23) – Toolkit for developing collaborative editors](https://news.ycombinator.com/item?id=36957204)
 * [2023-08-01, 15:02:08](https://news.ycombinator.com/item?id=36956867) - [Ask HN: Who is hiring? (August 2023)](https://news.ycombinator.com/item?id=36956867)
 * [2023-08-01, 15:02:07](https://news.ycombinator.com/item?id=36956866) - [Ask HN: Freelancer? Seeking freelancer? (August 2023)](https://news.ycombinator.com/item?id=36956866)
@@ -10,7 +12,6 @@
 * [2023-08-01, 12:01:09](https://news.ycombinator.com/item?id=36954925) - [GiveCampus (YC S15) Hiring Rails engineers in education software](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2023-08-01, 11:40:09](https://news.ycombinator.com/item?id=36954792) - [Who and What Is Behind the Malware Proxy Service SocksEscort?](https://krebsonsecurity.com/2023/07/who-and-what-is-behind-the-malware-proxy-service-socksescort/)
 * [2023-08-01, 11:26:15](https://news.ycombinator.com/item?id=36954718) - [Uber posts first quarterly net profit](https://www.wsj.com/articles/uber-q2-earnings-report-2023-453c335a)
-* [2023-08-01, 10:21:01](https://news.ycombinator.com/item?id=36954351) - [Remote Attestation TLS (RA-TLS)](https://confidentialcomputing.io/2023/03/06/unifying-remote-attestation-protocol-implementations/)
 * [2023-08-01, 09:43:43](https://news.ycombinator.com/item?id=36954159) - [IronOS: Open-source soldering iron firmware](https://github.com/Ralim/IronOS)
 * [2023-08-01, 08:45:29](https://news.ycombinator.com/item?id=36953819) - [First claimed successful replication of LK-99](https://twitter.com/Andercot/status/1686286684424691712)
 * [2023-08-01, 06:12:59](https://news.ycombinator.com/item?id=36952894) - [Room-Temperature Ambient-Pressure Superconductor LK-99 preprint revision 2](https://arxiv.org/abs/2307.12037)
@@ -26,7 +27,6 @@
 * [2023-07-31, 21:47:33](https://news.ycombinator.com/item?id=36949314) - [Can you trust a compiler to optimize your code?](https://matklad.github.io/2023/04/09/can-you-trust-a-compiler-to-optimize-your-code.html)
 * [2023-07-31, 19:30:03](https://news.ycombinator.com/item?id=36947603) - [Are the “missing baryons” simply too hot to see?](https://bigthink.com/starts-with-a-bang/missing-baryons-too-hot/)
 * [2023-07-31, 15:15:56](https://news.ycombinator.com/item?id=36943874) - [Retrogram rtl-SDR – a radio spectrum analyzer for your terminal](https://github.com/r4d10n/retrogram-rtlsdr)
-* [2023-07-31, 14:42:40](https://news.ycombinator.com/item?id=36943317) - [What's Hashing? (2022)](https://blog.dvsj.in/hashing/)
 * [2023-07-31, 13:35:06](https://news.ycombinator.com/item?id=36942237) - [Getting Started with Torch-Harmonics](https://github.com/NVIDIA/torch-harmonics/blob/main/notebooks/getting_started.ipynb)
 * [2023-07-31, 12:21:14](https://news.ycombinator.com/item?id=36941512) - [Cut out everything that's not surprising (2019)](https://sive.rs/d22)
 * [2023-07-31, 11:06:08](https://news.ycombinator.com/item?id=36940937) - [Predictive Debugging: A Game-Changing Look into the Future](https://blog.jetbrains.com/dotnet/2023/07/27/introducing-predictive-debugging-a-game-changing-look-into-the-future/)
