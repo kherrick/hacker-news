@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-01, 02:05:36](https://news.ycombinator.com/item?id=36951473) - [Philosophy of Science 101: What Is the Problem of Induction?](https://www.thecollector.com/problem-of-induction-philosophy-of-science/)
+* [2023-08-01, 01:39:54](https://news.ycombinator.com/item?id=36951289) - [The Worst API Ever Made](https://caseymuratori.com/blog_0025)
 * [2023-08-01, 01:18:41](https://news.ycombinator.com/item?id=36951140) - [Semiconducting Transport in LK99](https://arxiv.org/abs/2307.16802)
 * [2023-08-01, 01:11:19](https://news.ycombinator.com/item?id=36951089) - [MIT engineers create an energy-storing supercapacitor from ancient materials](https://news.mit.edu/2023/mit-engineers-create-supercapacitor-ancient-materials-0731)
 * [2023-08-01, 00:28:35](https://news.ycombinator.com/item?id=36950786) - [Can you simply brainwash a large language model?](https://gradientdefense.com/blog/can-you-simply-brainwash-an-llm)
@@ -17,7 +19,6 @@
 * [2023-07-31, 16:20:46](https://news.ycombinator.com/item?id=36944947) - [Digging into the odd history of Blade Runner’s title (2017)](https://www.vulture.com/2017/10/why-is-blade-runner-the-title-of-blade-runner.html)
 * [2023-07-31, 15:41:12](https://news.ycombinator.com/item?id=36944313) - [Tree Keepers: Where Sustaining the Forest Is a Tribal Tradition](https://e360.yale.edu/features/menominee-forest-management-logging)
 * [2023-07-31, 15:31:26](https://news.ycombinator.com/item?id=36944152) - [Show HN: Markwhen: Markdown for Timelines](https://app.markwhen.com)
-* [2023-07-31, 15:01:16](https://news.ycombinator.com/item?id=36943635) - [Battery-electric “Infinity Train” will charge itself using gravity (2022)](https://newatlas.com/transport/fortescue-wae-infinity-train-electric/)
 * [2023-07-31, 14:54:42](https://news.ycombinator.com/item?id=36943515) - [Randomness in CSS using trigonometry](https://hypersphere.blog/blog/randomness-in-css-using-trigonometry/)
 * [2023-07-31, 14:48:23](https://news.ycombinator.com/item?id=36943415) - [Investors are happy to pay premium for tech, but not for AI](https://www.bloomberg.com/news/articles/2023-07-31/investors-are-happy-to-pay-premium-for-tech-but-not-for-ai)
 * [2023-07-31, 14:40:02](https://news.ycombinator.com/item?id=36943263) - [Space junk: India says object found in Australia is theirs](https://www.bbc.com/news/world-australia-66359381)
@@ -26,7 +27,6 @@
 * [2023-07-31, 13:28:35](https://news.ycombinator.com/item?id=36942166) - [Cards as Weapons (1977)](https://archive.org/details/Cards_as_Weapons_-_Ricky_Jay_1977)
 * [2023-07-31, 07:18:37](https://news.ycombinator.com/item?id=36939648) - [Fantasy meets reality](https://cabel.com/2023/07/30/fantasy-meets-reality/)
 * [2023-07-31, 04:52:06](https://news.ycombinator.com/item?id=36938926) - [The Cutting-Edge Cartoons of Winsor McCay](https://daily.jstor.org/the-cutting-edge-cartoons-of-winsor-mccay/)
-* [2023-07-30, 17:18:12](https://news.ycombinator.com/item?id=36933512) - [The matrix calculus you need for deep learning (2018)](https://explained.ai/matrix-calculus/)
 * [2023-07-30, 16:12:35](https://news.ycombinator.com/item?id=36932739) - [The Parts-Bin Approach: Konami’s Contra](https://nicole.express/2023/the-best-take-on-iran-contra.html)
 * [2023-07-30, 12:03:49](https://news.ycombinator.com/item?id=36930322) - [Trying to become a better developer by learning more about aviation](https://medium.com/@Fcmam5/trying-to-become-a-better-developer-by-learning-more-about-aviation-5241e7092f7e)
 * [2023-07-30, 12:00:18](https://news.ycombinator.com/item?id=36930290) - [Secret identities in Dwarf Fortress (2017)](https://ojs.aaai.org/index.php/AIIDE/article/view/12963)
