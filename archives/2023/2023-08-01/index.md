@@ -9,6 +9,8 @@
 * [2023-08-01, 19:03:41](https://news.ycombinator.com/item?id=36960882) - [“Web Environment Integrity”: Locking Down the Web](https://brave.com/web-standards-at-brave/9-web-environment-integrity/)
 * [2023-08-01, 19:03:27](https://news.ycombinator.com/item?id=36960874) - [Run Llama 2 on your own Mac using LLM and Homebrew](https://simonwillison.net/2023/Aug/1/llama-2-mac/)
 * [2023-08-01, 19:01:05](https://news.ycombinator.com/item?id=36960831) - [Miyazaki’s Magical Food: An Ode to Anime’s Best Cooking Scenes](https://www.seriouseats.com/studio-ghibli-anime-best-food-scenes)
+* [2023-08-01, 18:51:09](https://news.ycombinator.com/item?id=36960625) - [Pixar, Adobe, Apple, Autodesk, and Nvidia Form Alliance for OpenUSD](https://www.apple.com/newsroom/2023/08/pixar-adobe-apple-autodesk-and-nvidia-form-alliance-for-openusd/)
+* [2023-08-01, 18:38:58](https://news.ycombinator.com/item?id=36960421) - [National Bank Acquires Silicon Valley Bank’s Canadian Portfolio](https://www.nbc.ca/about-us/news-media/press-release/2023/20230801-NBC-acquisition-silicon-valley-bank-canadian-portfolio.html)
 * [2023-08-01, 18:31:31](https://news.ycombinator.com/item?id=36960309) - [Emacs Is My New Window Manager](https://howardism.org/Technical/Emacs/new-window-manager.html)
 * [2023-08-01, 18:30:28](https://news.ycombinator.com/item?id=36960292) - [Cancer pill AOH1996 shows promise in annihilating all solid tumours](https://innovationorigins.com/en/cancer-pill-aoh1996-shows-promise-in-annihilating-all-solid-tumours/)
 * [2023-08-01, 18:27:34](https://news.ycombinator.com/item?id=36960244) - [Show HN: imessage-exporter, a full-featured CLI app and library](https://github.com/ReagentX/imessage-exporter)
