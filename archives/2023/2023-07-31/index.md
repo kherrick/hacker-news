@@ -86,6 +86,7 @@
 * [2023-07-31, 09:06:14](https://news.ycombinator.com/item?id=36940233) - [OpenTTD 13.4 Released](https://www.openttd.org/news/2023/07/29/openttd-13-4)
 * [2023-07-31, 09:02:06](https://news.ycombinator.com/item?id=36940215) - [Feminist Hacker Barbie](https://computer-engineer-barbie.herokuapp.com/)
 * [2023-07-31, 07:18:37](https://news.ycombinator.com/item?id=36939648) - [Fantasy Meets Reality](https://cabel.com/2023/07/30/fantasy-meets-reality/)
+* [2023-07-31, 06:44:53](https://news.ycombinator.com/item?id=36939491) - [Propagating bounds through bitwise operations](http://bitmath.blogspot.com/2023/07/propagating-bounds-through-bitwise.html)
 * [2023-07-31, 05:36:47](https://news.ycombinator.com/item?id=36939145) - [Show HN: LearnLingo – Converse with an AI-powered language tutor](https://www.learnlingo.dev)
 * [2023-07-31, 05:09:49](https://news.ycombinator.com/item?id=36939020) - [WikiSpooks: An Encyclopaedia of Deep Politics](https://wikispooks.com/wiki/Main_Page)
 * [2023-07-31, 04:52:06](https://news.ycombinator.com/item?id=36938926) - [The Cutting-Edge Cartoons of Winsor McCay](https://daily.jstor.org/the-cutting-edge-cartoons-of-winsor-mccay/)
