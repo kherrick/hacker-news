@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-01](index.md)
 
+* [2023-08-01, 19:54:46](https://news.ycombinator.com/item?id=36961734) - [Mac Mini M1 Mod to Receive Power over Ethernet Instead of the AC Input](https://www.inferse.com/660551/hardware-hacker-mods-an-m1-mac-mini-to-receive-power-over-ethernet-instead-of-the-ac-input/)
 * [2023-08-01, 19:17:59](https://news.ycombinator.com/item?id=36961101) - [Alfred-40B, an OSS RLHF version of Falcon40B](https://www.lighton.ai/blog/lighton-s-blog-4/introducing-alfred-40b-0723-38)
 * [2023-08-01, 19:11:45](https://news.ycombinator.com/item?id=36961009) - [US lawmaker says high-tech investment 'leaving Israel' amid judicial overhaul](https://www.middleeasteye.net/news/us-lawmaker-ro-khanna-investment-leaving-israel-judicial-overhaul)
 * [2023-08-01, 19:03:41](https://news.ycombinator.com/item?id=36960882) - [“Web Environment Integrity”: Locking Down the Web](https://brave.com/web-standards-at-brave/9-web-environment-integrity/)

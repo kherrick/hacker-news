@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-01, 19:54:46](https://news.ycombinator.com/item?id=36961734) - [Mac Mini M1 Mod to Receive Power over Ethernet Instead of the AC Input](https://www.inferse.com/660551/hardware-hacker-mods-an-m1-mac-mini-to-receive-power-over-ethernet-instead-of-the-ac-input/)
 * [2023-08-01, 19:17:59](https://news.ycombinator.com/item?id=36961101) - [Alfred-40B, an OSS RLHF version of Falcon40B](https://www.lighton.ai/blog/lighton-s-blog-4/introducing-alfred-40b-0723-38)
 * [2023-08-01, 19:03:41](https://news.ycombinator.com/item?id=36960882) - [“Web Environment Integrity”: Locking Down the Web](https://brave.com/web-standards-at-brave/9-web-environment-integrity/)
 * [2023-08-01, 19:01:05](https://news.ycombinator.com/item?id=36960831) - [Miyazaki’s Magical Food: An ode to anime’s best cooking scenes](https://www.seriouseats.com/studio-ghibli-anime-best-food-scenes)
@@ -8,7 +9,6 @@
 * [2023-08-01, 18:31:31](https://news.ycombinator.com/item?id=36960309) - [Emacs is my new window manager](https://howardism.org/Technical/Emacs/new-window-manager.html)
 * [2023-08-01, 18:27:34](https://news.ycombinator.com/item?id=36960244) - [Show HN: imessage-exporter, a full-featured CLI app and library](https://github.com/ReagentX/imessage-exporter)
 * [2023-08-01, 17:27:44](https://news.ycombinator.com/item?id=36959267) - [Oregon decriminalized hard drugs – early results aren’t encouraging](https://www.theatlantic.com/politics/archive/2023/07/oregon-drug-decriminalization-results-overdoses/674733/)
-* [2023-08-01, 17:10:38](https://news.ycombinator.com/item?id=36958958) - [City officials attempt to doxx Wikipedians](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-08-01/News_and_notes)
 * [2023-08-01, 17:00:13](https://news.ycombinator.com/item?id=36958793) - [Seam (YC S20), API for IoT, is hiring a founding technical PM](https://www.ycombinator.com/companies/seam/jobs/9VKC412-product-manager)
 * [2023-08-01, 16:49:07](https://news.ycombinator.com/item?id=36958612) - [Opus Databending Drumkit](https://suricrasia.online/opus-databending-drumkit/)
 * [2023-08-01, 16:44:02](https://news.ycombinator.com/item?id=36958531) - [Researchers have come up with a new way to store electricity in cement](https://www.science.org/content/article/electrified-cement-could-turn-houses-and-roads-nearly-limitless-batteries)
