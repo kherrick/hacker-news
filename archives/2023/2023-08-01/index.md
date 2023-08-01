@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-01](index.md)
 
+* [2023-08-01, 18:27:34](https://news.ycombinator.com/item?id=36960244) - [Show HN: imessage-exporter, a full-featured CLI app and library](https://github.com/ReagentX/imessage-exporter)
+* [2023-08-01, 18:23:53](https://news.ycombinator.com/item?id=36960185) - [Sunak’s family firm signed deal with BP before opening new North Sea licences](https://www.thelondoneconomic.com/politics/sunaks-family-firm-signed-a-billion-dollar-deal-with-bp-before-pm-opened-new-north-sea-licences-353690/)
 * [2023-08-01, 17:50:50](https://news.ycombinator.com/item?id=36959650) - [No telemetry in the Rust compiler: metrics without betraying user privacy](https://estebank.github.io/rustc-metrics.html)
 * [2023-08-01, 17:34:50](https://news.ycombinator.com/item?id=36959393) - [Scientists Question Superconductivity Claim from Physicist Accused of Plagiarism](https://www.wsj.com/articles/room-temperature-superconductivity-plagiarism-df591741)
 * [2023-08-01, 17:34:44](https://news.ycombinator.com/item?id=36959389) - [Run Every Day](https://duarteocarmo.com/blog/run-every-day)
@@ -15,6 +17,7 @@
 * [2023-08-01, 16:43:16](https://news.ycombinator.com/item?id=36958516) - [Ask HN: In which areas have you compared 3+ tools and formed strong preferences?](https://news.ycombinator.com/item?id=36958516)
 * [2023-08-01, 16:38:06](https://news.ycombinator.com/item?id=36958424) - [Senate Votes to Let People Who’ve Used Marijuana Work at Intelligence Agencies](https://www.marijuanamoment.net/senate-votes-to-let-people-whove-used-marijuana-work-at-intelligence-agencies-like-cia-and-nsa-as-part-of-defense-bill/)
 * [2023-08-01, 16:33:36](https://news.ycombinator.com/item?id=36958352) - [Could the world go PFAS-free? Proposal to ban ‘forever chemicals’ fuels debate](https://www.nature.com/articles/d41586-023-02444-5)
+* [2023-08-01, 16:31:22](https://news.ycombinator.com/item?id=36958315) - [Speed isn’t everything, and slowness may in fact be more beneficial (2017)](https://www.bps.org.uk/psychologist/slowness-essence-knowledge)
 * [2023-08-01, 16:28:43](https://news.ycombinator.com/item?id=36958272) - [Webrecorder: Capture interactive websites and replay them at a later time](https://webrecorder.net/)
 * [2023-08-01, 16:23:15](https://news.ycombinator.com/item?id=36958175) - [Show HN: PromptTools – open-source tools for evaluating LLMs and vector DBs](https://github.com/hegelai/prompttools)
 * [2023-08-01, 15:52:57](https://news.ycombinator.com/item?id=36957678) - [A Room-Temperature Superconductor? New Developments](https://www.science.org/content/blog-post/room-temperature-superconductor-new-developments)
@@ -30,6 +33,7 @@
 * [2023-08-01, 13:46:48](https://news.ycombinator.com/item?id=36955885) - [YKK: Japan’s Zipper King [video]](https://www.youtube.com/watch?v=9d6eNmtHFQk)
 * [2023-08-01, 13:39:24](https://news.ycombinator.com/item?id=36955806) - [Nim 2.0](https://nim-lang.org/blog/2023/08/01/nim-v20-released.html)
 * [2023-08-01, 12:45:42](https://news.ycombinator.com/item?id=36955266) - [Rust Absolutely Positively Sucks [video]](https://www.youtube.com/watch?v=BB-H5ivmdwQ)
+* [2023-08-01, 12:31:10](https://news.ycombinator.com/item?id=36955146) - [Splitting the Web](https://ploum.net/2023-08-01-splitting-the-web.html)
 * [2023-08-01, 12:24:24](https://news.ycombinator.com/item?id=36955091) - [Ask HN: Who Is Firing?](https://news.ycombinator.com/item?id=36955091)
 * [2023-08-01, 12:16:16](https://news.ycombinator.com/item?id=36955019) - [Bridging the Python async gap from the other side](https://death.andgravity.com/asyncio-bridge)
 * [2023-08-01, 12:12:17](https://news.ycombinator.com/item?id=36954998) - [Show HN: Local development with .local domains and HTTPS](https://www.localcan.com/)
