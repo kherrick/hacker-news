@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-01, 15:24:51](https://news.ycombinator.com/item?id=36957204) - [Launch HN: Tiptap (YC S23) – Toolkit for developing collaborative editors](https://news.ycombinator.com/item?id=36957204)
 * [2023-08-01, 15:02:08](https://news.ycombinator.com/item?id=36956867) - [Ask HN: Who is hiring? (August 2023)](https://news.ycombinator.com/item?id=36956867)
 * [2023-08-01, 15:02:06](https://news.ycombinator.com/item?id=36956865) - [Ask HN: Who wants to be hired? (August 2023)](https://news.ycombinator.com/item?id=36956865)
 * [2023-08-01, 14:54:56](https://news.ycombinator.com/item?id=36956747) - [Damaging results of mandated return to the office: it’s worse than we thought](https://finance.yahoo.com/news/now-finding-damaging-results-mandated-095555463.html)
@@ -16,7 +17,6 @@
 * [2023-08-01, 05:53:03](https://news.ycombinator.com/item?id=36952796) - [Jujutsu: A Git-compatible DVCS that is both simple and powerful](https://github.com/martinvonz/jj)
 * [2023-08-01, 05:21:23](https://news.ycombinator.com/item?id=36952640) - [First-principles study on the electronic structure of Pb10−xCux(PO4)6O (x=0, 1)](https://arxiv.org/abs/2307.16040)
 * [2023-08-01, 03:10:55](https://news.ycombinator.com/item?id=36951872) - [Nvidia H100 GPUs: Supply and Demand](https://gpus.llm-utils.org/nvidia-h100-gpus-supply-and-demand/)
-* [2023-08-01, 03:02:36](https://news.ycombinator.com/item?id=36951815) - [Origin of correlated isolated flat bands in LK99](https://arxiv.org/abs/2307.16892)
 * [2023-08-01, 03:00:59](https://news.ycombinator.com/item?id=36951809) - [Why This AI Moment May Be the Real Deal](https://www.thenewatlantis.com/publications/why-this-ai-moment-may-be-the-real-deal)
 * [2023-08-01, 02:48:39](https://news.ycombinator.com/item?id=36951738) - [Git files hidden in plain sight](https://tylercipriani.com/blog/2023/07/31/git-files-hidden-in-plain-sight/)
 * [2023-08-01, 01:39:54](https://news.ycombinator.com/item?id=36951289) - [The worst API ever made (2014)](https://caseymuratori.com/blog_0025)
@@ -27,9 +27,9 @@
 * [2023-07-31, 19:30:03](https://news.ycombinator.com/item?id=36947603) - [Are the “missing baryons” simply too hot to see?](https://bigthink.com/starts-with-a-bang/missing-baryons-too-hot/)
 * [2023-07-31, 15:15:56](https://news.ycombinator.com/item?id=36943874) - [Retrogram rtl-SDR – a radio spectrum analyzer for your terminal](https://github.com/r4d10n/retrogram-rtlsdr)
 * [2023-07-31, 14:42:40](https://news.ycombinator.com/item?id=36943317) - [What's Hashing? (2022)](https://blog.dvsj.in/hashing/)
+* [2023-07-31, 13:35:06](https://news.ycombinator.com/item?id=36942237) - [Getting Started with Torch-Harmonics](https://github.com/NVIDIA/torch-harmonics/blob/main/notebooks/getting_started.ipynb)
 * [2023-07-31, 12:21:14](https://news.ycombinator.com/item?id=36941512) - [Cut out everything that's not surprising (2019)](https://sive.rs/d22)
 * [2023-07-31, 11:06:08](https://news.ycombinator.com/item?id=36940937) - [Predictive Debugging: A Game-Changing Look into the Future](https://blog.jetbrains.com/dotnet/2023/07/27/introducing-predictive-debugging-a-game-changing-look-into-the-future/)
-* [2023-07-31, 06:44:53](https://news.ycombinator.com/item?id=36939491) - [Propagating bounds through bitwise operations](http://bitmath.blogspot.com/2023/07/propagating-bounds-through-bitwise.html)
 
 ## [Archives](archives/index.md)
 

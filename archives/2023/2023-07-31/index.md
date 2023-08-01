@@ -63,6 +63,7 @@
 * [2023-07-31, 13:41:10](https://news.ycombinator.com/item?id=36942305) - [BHP says battery electric cheaper than hydrogen as it dumps diesel](https://thedriven.io/2023/06/23/bhp-says-battery-electric-cheaper-than-hydrogen-as-it-dumps-diesel-for-haul-trucks/)
 * [2023-07-31, 13:37:31](https://news.ycombinator.com/item?id=36942266) - [A fridge from 70 years ago has better features than the fridge I own now](https://mstdn.social/@Pandamoanimum/110808340828034444)
 * [2023-07-31, 13:36:05](https://news.ycombinator.com/item?id=36942251) - [The Blue Flash: A careless slip led to a fatal accident in the Manhattan Project](https://www.bbc.com/future/article/20230719-the-blue-flash-louis-slotin-accident-manhattan-project-oppenheimer-atomic-bomb)
+* [2023-07-31, 13:35:06](https://news.ycombinator.com/item?id=36942237) - [Getting Started with Torch-Harmonics](https://github.com/NVIDIA/torch-harmonics/blob/main/notebooks/getting_started.ipynb)
 * [2023-07-31, 13:28:35](https://news.ycombinator.com/item?id=36942166) - [Cards as Weapons (1977)](https://archive.org/details/Cards_as_Weapons_-_Ricky_Jay_1977)
 * [2023-07-31, 13:24:15](https://news.ycombinator.com/item?id=36942124) - [Add PayPal to your Stripe integration](https://hyperswitch.io/blog/add-paypal-to-your-stripe-integration)
 * [2023-07-31, 13:14:32](https://news.ycombinator.com/item?id=36942033) - [The Fibonacci Matrix](https://ianthehenry.com/posts/fibonacci/)
