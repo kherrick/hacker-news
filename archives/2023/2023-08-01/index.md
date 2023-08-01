@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-01](index.md)
 
+* [2023-08-01, 21:28:12](https://news.ycombinator.com/item?id=36963261) - [Internet Explorer Is Evil](http://toastytech.com/evil/index.html)
 * [2023-08-01, 21:24:08](https://news.ycombinator.com/item?id=36963200) - [Transform Your Android Device into a Linux Desktop](https://mrs-t.medium.com/transform-your-android-device-into-a-linux-desktop-110a3d084ac6)
 * [2023-08-01, 21:00:15](https://news.ycombinator.com/item?id=36962818) - [Watsi (YC W13) Is Hiring a Lead Engineer](https://news.ycombinator.com/item?id=36962818)
 * [2023-08-01, 20:43:35](https://news.ycombinator.com/item?id=36962545) - [Booker Prize 2023 longlist announced](https://thebookerprizes.com/the-booker-library/prize-years/2023)

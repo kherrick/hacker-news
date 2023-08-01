@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-01, 21:28:12](https://news.ycombinator.com/item?id=36963261) - [Internet Explorer Is Evil](http://toastytech.com/evil/index.html)
 * [2023-08-01, 21:24:08](https://news.ycombinator.com/item?id=36963200) - [Transform Your Android Device into a Linux Desktop](https://mrs-t.medium.com/transform-your-android-device-into-a-linux-desktop-110a3d084ac6)
 * [2023-08-01, 21:00:15](https://news.ycombinator.com/item?id=36962818) - [Watsi (YC W13) Is Hiring a Lead Engineer](https://news.ycombinator.com/item?id=36962818)
 * [2023-08-01, 20:42:09](https://news.ycombinator.com/item?id=36962526) - [A Nordic revolt against 'ugly' modern architecture](https://www.bloomberg.com/news/features/2023-08-01/a-scandinavian-uprising-against-modern-architecture)
@@ -28,7 +29,6 @@
 * [2023-08-01, 09:43:43](https://news.ycombinator.com/item?id=36954159) - [IronOS: Open-source soldering iron firmware](https://github.com/Ralim/IronOS)
 * [2023-07-31, 16:03:16](https://news.ycombinator.com/item?id=36944686) - [HATEOAS: Hypermedia as the Engine of Application State](https://htmx.org/essays/hateoas/)
 * [2023-07-31, 12:42:04](https://news.ycombinator.com/item?id=36941740) - [The Inescapable Rise of Moral Superiority](https://thewalrus.ca/the-inescapable-rise-of-moral-superiority/)
-* [2023-07-31, 12:05:42](https://news.ycombinator.com/item?id=36941398) - [Query Engines: Push vs. Pull](https://justinjaffray.com/query-engines-push-vs.-pull/)
 * [2023-07-31, 11:56:06](https://news.ycombinator.com/item?id=36941312) - [Researchers create open-source platform for Neural Radiance Field development](https://engineering.berkeley.edu/news/2023/07/researchers-create-open-source-platform-for-neural-radiance-field-development/)
 
 ## [Archives](archives/index.md)
