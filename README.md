@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-01, 21:58:07](https://news.ycombinator.com/item?id=36963726) - [“Once” one-time concurrent initialization with an integer](https://nullprogram.com/blog/2023/07/31/)
 * [2023-08-01, 21:28:12](https://news.ycombinator.com/item?id=36963261) - [Internet Explorer Is Evil](http://toastytech.com/evil/index.html)
 * [2023-08-01, 21:24:08](https://news.ycombinator.com/item?id=36963200) - [Transform Your Android Device into a Linux Desktop](https://mrs-t.medium.com/transform-your-android-device-into-a-linux-desktop-110a3d084ac6)
 * [2023-08-01, 21:13:16](https://news.ycombinator.com/item?id=36963037) - [A Fire Upon The Deep By Vernor Vinge (1992)](https://archive.org/details/fireupondeep00ving)
@@ -27,7 +28,6 @@
 * [2023-08-01, 13:46:48](https://news.ycombinator.com/item?id=36955885) - [YKK: Japan’s Zipper King [video]](https://www.youtube.com/watch?v=9d6eNmtHFQk)
 * [2023-08-01, 12:31:10](https://news.ycombinator.com/item?id=36955146) - [Splitting the Web](https://ploum.net/2023-08-01-splitting-the-web.html)
 * [2023-08-01, 09:43:43](https://news.ycombinator.com/item?id=36954159) - [IronOS: Open-source soldering iron firmware](https://github.com/Ralim/IronOS)
-* [2023-07-31, 16:03:16](https://news.ycombinator.com/item?id=36944686) - [HATEOAS: Hypermedia as the Engine of Application State](https://htmx.org/essays/hateoas/)
 * [2023-07-31, 12:42:04](https://news.ycombinator.com/item?id=36941740) - [The Inescapable Rise of Moral Superiority](https://thewalrus.ca/the-inescapable-rise-of-moral-superiority/)
 * [2023-07-31, 11:56:06](https://news.ycombinator.com/item?id=36941312) - [Researchers create open-source platform for Neural Radiance Field development](https://engineering.berkeley.edu/news/2023/07/researchers-create-open-source-platform-for-neural-radiance-field-development/)
 
