@@ -71,6 +71,7 @@
 * [2023-07-31, 13:04:15](https://news.ycombinator.com/item?id=36941942) - [Paperlike Color: World’s First Color E-Ink Monitor](https://www.indiegogo.com/projects/paperlike-color-world-first-color-e-ink-monitor/coming_soon)
 * [2023-07-31, 12:21:14](https://news.ycombinator.com/item?id=36941512) - [Cut out everything that's not surprising](https://sive.rs/d22)
 * [2023-07-31, 12:16:48](https://news.ycombinator.com/item?id=36941480) - [Tell HN: Airbnb’s transparent pricing is a lie](https://news.ycombinator.com/item?id=36941480)
+* [2023-07-31, 12:05:42](https://news.ycombinator.com/item?id=36941398) - [Query Engines: Push vs. Pull](https://justinjaffray.com/query-engines-push-vs.-pull/)
 * [2023-07-31, 11:54:00](https://news.ycombinator.com/item?id=36941299) - [So, you want to deploy on the edge?](https://zknill.io/posts/edge-database/)
 * [2023-07-31, 11:50:24](https://news.ycombinator.com/item?id=36941256) - [Online Safety Bill – Some futures](https://www.regulate.tech/online-safety-bill-some-futures-25th-july-2023/)
 * [2023-07-31, 11:47:13](https://news.ycombinator.com/item?id=36941229) - [The Future of the Web Is VNC](https://shkspr.mobi/blog/2023/07/the-future-of-the-web-is-vnc/)
