@@ -6,6 +6,7 @@
 
 * [2023-08-01, 13:54:51](https://news.ycombinator.com/item?id=36955991) - [Nim v2.0 Released](https://nim-lang.org//blog/2023/08/01/nim-v20-released.html)
 * [2023-08-01, 13:50:29](https://news.ycombinator.com/item?id=36955934) - [Nvidia’s CEO Is the Uncle of AMD’s CEO](https://en.wikipedia.org/wiki/Lisa_Su)
+* [2023-08-01, 13:46:48](https://news.ycombinator.com/item?id=36955885) - [YKK: Japan’s Zipper King [video]](https://www.youtube.com/watch?v=9d6eNmtHFQk)
 * [2023-08-01, 13:39:24](https://news.ycombinator.com/item?id=36955806) - [Nim 2.0](https://nim-lang.org/blog/2023/08/01/nim-v20-released.html)
 * [2023-08-01, 12:45:42](https://news.ycombinator.com/item?id=36955266) - [Rust Absolutely Positively Sucks [video]](https://www.youtube.com/watch?v=BB-H5ivmdwQ)
 * [2023-08-01, 12:24:24](https://news.ycombinator.com/item?id=36955091) - [Ask HN: Who Is Firing?](https://news.ycombinator.com/item?id=36955091)
