@@ -24,7 +24,7 @@
 * [2023-08-01, 06:07:36](https://news.ycombinator.com/item?id=36952867) - [Systemd auto-restarts of units can hide problems from you](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdRestartHidesProblems)
 * [2023-08-01, 05:53:03](https://news.ycombinator.com/item?id=36952796) - [Jujutsu: A Git-compatible DVCS that is both simple and powerful](https://github.com/martinvonz/jj)
 * [2023-08-01, 05:21:23](https://news.ycombinator.com/item?id=36952640) - [First-principles study on the electronic structure of Pb10−xCux(PO4)6O (x=0, 1)](https://arxiv.org/abs/2307.16040)
-* [2023-08-01, 03:10:55](https://news.ycombinator.com/item?id=36951872) - [Nvidia H100 GPUs: Supply and Demand](https://gpus.llm-utils.org/nvidia-h100-gpus-supply-and-demand/)
+* [2023-07-31, 17:17:04](https://news.ycombinator.com/item?id=36945816) - [Cryptography may offer a solution to the AI-labeling problem](https://www.technologyreview.com/2023/07/28/1076843/cryptography-ai-labeling-problem-c2pa-provenance/)
 * [2023-07-31, 15:15:56](https://news.ycombinator.com/item?id=36943874) - [Retrogram rtl-SDR – a radio spectrum analyzer for your terminal](https://github.com/r4d10n/retrogram-rtlsdr)
 * [2023-07-31, 13:35:06](https://news.ycombinator.com/item?id=36942237) - [Getting Started with Torch-Harmonics](https://github.com/NVIDIA/torch-harmonics/blob/main/notebooks/getting_started.ipynb)
 * [2023-07-31, 12:21:14](https://news.ycombinator.com/item?id=36941512) - [Cut out everything that's not surprising (2019)](https://sive.rs/d22)
