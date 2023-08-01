@@ -1,22 +1,32 @@
 [
   [
     [
+      "2023-08-01, 13:54:51",
+      "https://news.ycombinator.com/item?id=36955991"
+    ],
+    [
+      "Nim v2.0 Released",
+      "https://nim-lang.org//blog/2023/08/01/nim-v20-released.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-01, 13:50:29",
+      "https://news.ycombinator.com/item?id=36955934"
+    ],
+    [
+      "Nvidia’s CEO Is the Uncle of AMD’s CEO",
+      "https://en.wikipedia.org/wiki/Lisa_Su"
+    ]
+  ],
+  [
+    [
       "2023-08-01, 13:39:24",
       "https://news.ycombinator.com/item?id=36955806"
     ],
     [
       "Nim 2.0",
       "https://nim-lang.org/blog/2023/08/01/nim-v20-released.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-01, 12:12:17",
-      "https://news.ycombinator.com/item?id=36954998"
-    ],
-    [
-      "Show HN: Local development with .local domains and HTTPS",
-      "https://www.localcan.com/"
     ]
   ],
   [
@@ -51,12 +61,12 @@
   ],
   [
     [
-      "2023-08-01, 10:21:01",
-      "https://news.ycombinator.com/item?id=36954351"
+      "2023-08-01, 10:35:42",
+      "https://news.ycombinator.com/item?id=36954435"
     ],
     [
-      "Remote Attestation TLS (RA-TLS)",
-      "https://confidentialcomputing.io/2023/03/06/unifying-remote-attestation-protocol-implementations/"
+      "Using Vim's abbreviations (2020)",
+      "https://vonheikemen.github.io/devlog/tools/using-vim-abbreviations/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "MIT engineers create an energy-storing supercapacitor from ancient materials",
       "https://news.mit.edu/2023/mit-engineers-create-supercapacitor-ancient-materials-0731"
-    ]
-  ],
-  [
-    [
-      "2023-07-31, 23:12:23",
-      "https://news.ycombinator.com/item?id=36950151"
-    ],
-    [
-      "Occluding Contour Breakthroughs, Part 1: A Surprisingly Hard Problem",
-      "https://aaronhertzmann.com/2023/07/31/occluding-contours-part-1.html"
     ]
   ],
   [
