@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-01](index.md)
 
+* [2023-08-01, 06:12:59](https://news.ycombinator.com/item?id=36952894) - [Room-Temperature Ambient-Pressure Superconductor LK-99 preprint revision 2](https://arxiv.org/abs/2307.12037)
 * [2023-08-01, 06:09:10](https://news.ycombinator.com/item?id=36952874) - [Why Japanese houses depreciate to zero in just 22 years](https://www.economist.com/finance-and-economics/2018/03/15/why-japanese-houses-have-such-limited-lifespans)
+* [2023-08-01, 05:53:03](https://news.ycombinator.com/item?id=36952796) - [Jujutsu: A Git-compatible DVCS that is both simple and powerful](https://github.com/martinvonz/jj)
+* [2023-08-01, 05:47:26](https://news.ycombinator.com/item?id=36952772) - [We can save what matters about writing](https://tedunderwood.com/2023/07/31/we-can-save-what-matters-about-writing-at-a-price/)
 * [2023-08-01, 05:15:22](https://news.ycombinator.com/item?id=36952605) - [National Lab (LBNL) results support LK-99 as a room-temperature superconductor](https://twitter.com/Andercot/status/1686215574177841152)
 * [2023-08-01, 04:04:38](https://news.ycombinator.com/item?id=36952143) - [When the Yogurt Took Over](https://whatever.scalzi.com/2010/10/02/when-the-yogurt-took-over-a-short-story/)
 * [2023-08-01, 03:22:43](https://news.ycombinator.com/item?id=36951929) - [Show HN: An MIT-licensed ChatGPT plugin that loads and edits files locally](https://github.com/ykdojo/kaguya)

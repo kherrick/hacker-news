@@ -74,6 +74,7 @@
 * [2023-07-30, 09:14:00](https://news.ycombinator.com/item?id=36929335) - [How the Rich Reap Huge Tax Breaks From Private Nonprofits](https://www.propublica.org/article/how-private-nonprofits-ultrawealthy-tax-deductions-museums-foundation-art)
 * [2023-07-30, 09:02:39](https://news.ycombinator.com/item?id=36929294) - [Aeolus: A historic end to a trailblazing mission](https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Aeolus/Aeolus_a_historic_end_to_a_trailblazing_mission)
 * [2023-07-30, 08:28:57](https://news.ycombinator.com/item?id=36929096) - [Chicago95 – Windows 95 Theme for Linux](https://github.com/grassmunk/Chicago95)
+* [2023-07-30, 08:28:13](https://news.ycombinator.com/item?id=36929091) - [The L-functions and modular forms database](https://www.lmfdb.org/)
 * [2023-07-30, 08:28:00](https://news.ycombinator.com/item?id=36929090) - [Scientists May Have Found Mechanism Behind Cognitive Decline in Aging](https://news.cuanschutz.edu/news-stories/scientists-may-have-found-mechanism-behind-cognitive-decline-in-aging)
 * [2023-07-30, 07:15:48](https://news.ycombinator.com/item?id=36928678) - [Blaming Capitalists and Workers for Inflation](https://www.profstonge.com/p/blaming-capitalists-and-workers-for)
 * [2023-07-30, 07:03:47](https://news.ycombinator.com/item?id=36928605) - [Voice Recognition](https://www.imperialviolet.org/2023/07/29/voice-recognition.html)
