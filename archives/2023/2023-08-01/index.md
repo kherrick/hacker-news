@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-01](index.md)
 
+* [2023-08-01, 19:11:45](https://news.ycombinator.com/item?id=36961009) - [US lawmaker says high-tech investment 'leaving Israel' amid judicial overhaul](https://www.middleeasteye.net/news/us-lawmaker-ro-khanna-investment-leaving-israel-judicial-overhaul)
 * [2023-08-01, 19:03:27](https://news.ycombinator.com/item?id=36960874) - [Run Llama 2 on your own Mac using LLM and Homebrew](https://simonwillison.net/2023/Aug/1/llama-2-mac/)
+* [2023-08-01, 19:01:05](https://news.ycombinator.com/item?id=36960831) - [Miyazaki’s Magical Food: An Ode to Anime’s Best Cooking Scenes](https://www.seriouseats.com/studio-ghibli-anime-best-food-scenes)
 * [2023-08-01, 18:31:31](https://news.ycombinator.com/item?id=36960309) - [Emacs Is My New Window Manager](https://howardism.org/Technical/Emacs/new-window-manager.html)
 * [2023-08-01, 18:30:28](https://news.ycombinator.com/item?id=36960292) - [Cancer pill AOH1996 shows promise in annihilating all solid tumours](https://innovationorigins.com/en/cancer-pill-aoh1996-shows-promise-in-annihilating-all-solid-tumours/)
 * [2023-08-01, 18:27:34](https://news.ycombinator.com/item?id=36960244) - [Show HN: imessage-exporter, a full-featured CLI app and library](https://github.com/ReagentX/imessage-exporter)
