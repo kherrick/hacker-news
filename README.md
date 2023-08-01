@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-01, 18:30:28](https://news.ycombinator.com/item?id=36960292) - [Cancer pill AOH1996 shows promise in annihilating all solid tumours](https://innovationorigins.com/en/cancer-pill-aoh1996-shows-promise-in-annihilating-all-solid-tumours/)
 * [2023-08-01, 18:27:34](https://news.ycombinator.com/item?id=36960244) - [Show HN: imessage-exporter, a full-featured CLI app and library](https://github.com/ReagentX/imessage-exporter)
 * [2023-08-01, 18:23:53](https://news.ycombinator.com/item?id=36960185) - [Sunak’s family firm signed deal with BP before opening new North Sea licences](https://www.thelondoneconomic.com/politics/sunaks-family-firm-signed-a-billion-dollar-deal-with-bp-before-pm-opened-new-north-sea-licences-353690/)
+* [2023-08-01, 17:59:45](https://news.ycombinator.com/item?id=36959791) - [Electric Cars Aren't Affordable Because America's Workforce Is Underpaid](https://jalopnik.com/electric-cars-arent-affordable-because-americas-workfor-1850695943)
 * [2023-08-01, 17:50:50](https://news.ycombinator.com/item?id=36959650) - [No telemetry in the Rust compiler: metrics without betraying user privacy](https://estebank.github.io/rustc-metrics.html)
-* [2023-08-01, 17:34:50](https://news.ycombinator.com/item?id=36959393) - [Scientists Question Superconductivity Claim from Physicist Accused of Plagiarism](https://www.wsj.com/articles/room-temperature-superconductivity-plagiarism-df591741)
 * [2023-08-01, 17:27:44](https://news.ycombinator.com/item?id=36959267) - [Oregon Decriminalized Hard Drugs](https://www.theatlantic.com/politics/archive/2023/07/oregon-drug-decriminalization-results-overdoses/674733/)
 * [2023-08-01, 17:10:38](https://news.ycombinator.com/item?id=36958958) - [City officials attempt to doxx Wikipedians](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-08-01/News_and_notes)
 * [2023-08-01, 17:00:13](https://news.ycombinator.com/item?id=36958793) - [Seam (API for IoT) Is Hiring a Founding Technical PM](https://www.ycombinator.com/companies/seam/jobs/9VKC412-product-manager)
@@ -27,7 +28,6 @@
 * [2023-08-01, 05:53:03](https://news.ycombinator.com/item?id=36952796) - [Jujutsu: A Git-compatible DVCS that is both simple and powerful](https://github.com/martinvonz/jj)
 * [2023-07-31, 17:17:04](https://news.ycombinator.com/item?id=36945816) - [Cryptography may offer a solution to the AI-labeling problem](https://www.technologyreview.com/2023/07/28/1076843/cryptography-ai-labeling-problem-c2pa-provenance/)
 * [2023-07-31, 13:35:06](https://news.ycombinator.com/item?id=36942237) - [Getting Started with Torch-Harmonics](https://github.com/NVIDIA/torch-harmonics/blob/main/notebooks/getting_started.ipynb)
-* [2023-07-31, 12:21:14](https://news.ycombinator.com/item?id=36941512) - [Cut out everything that's not surprising (2019)](https://sive.rs/d22)
 * [2023-07-31, 12:05:42](https://news.ycombinator.com/item?id=36941398) - [Query Engines: Push vs. Pull](https://justinjaffray.com/query-engines-push-vs.-pull/)
 * [2023-07-31, 11:06:08](https://news.ycombinator.com/item?id=36940937) - [Predictive Debugging: A Game-Changing Look into the Future](https://blog.jetbrains.com/dotnet/2023/07/27/introducing-predictive-debugging-a-game-changing-look-into-the-future/)
 

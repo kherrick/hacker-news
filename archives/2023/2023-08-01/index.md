@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-01](index.md)
 
+* [2023-08-01, 18:30:28](https://news.ycombinator.com/item?id=36960292) - [Cancer pill AOH1996 shows promise in annihilating all solid tumours](https://innovationorigins.com/en/cancer-pill-aoh1996-shows-promise-in-annihilating-all-solid-tumours/)
 * [2023-08-01, 18:27:34](https://news.ycombinator.com/item?id=36960244) - [Show HN: imessage-exporter, a full-featured CLI app and library](https://github.com/ReagentX/imessage-exporter)
 * [2023-08-01, 18:23:53](https://news.ycombinator.com/item?id=36960185) - [Sunak’s family firm signed deal with BP before opening new North Sea licences](https://www.thelondoneconomic.com/politics/sunaks-family-firm-signed-a-billion-dollar-deal-with-bp-before-pm-opened-new-north-sea-licences-353690/)
+* [2023-08-01, 17:59:45](https://news.ycombinator.com/item?id=36959791) - [Electric Cars Aren't Affordable Because America's Workforce Is Underpaid](https://jalopnik.com/electric-cars-arent-affordable-because-americas-workfor-1850695943)
 * [2023-08-01, 17:50:50](https://news.ycombinator.com/item?id=36959650) - [No telemetry in the Rust compiler: metrics without betraying user privacy](https://estebank.github.io/rustc-metrics.html)
 * [2023-08-01, 17:34:50](https://news.ycombinator.com/item?id=36959393) - [Scientists Question Superconductivity Claim from Physicist Accused of Plagiarism](https://www.wsj.com/articles/room-temperature-superconductivity-plagiarism-df591741)
 * [2023-08-01, 17:34:44](https://news.ycombinator.com/item?id=36959389) - [Run Every Day](https://duarteocarmo.com/blog/run-every-day)
