@@ -33,6 +33,7 @@
 * [2023-07-31, 16:26:50](https://news.ycombinator.com/item?id=36945046) - [A repository of “BASIC Computer Games” code in modern languages](https://github.com/coding-horror/basic-computer-games)
 * [2023-07-31, 16:22:28](https://news.ycombinator.com/item?id=36944978) - [Researchers reached the bottom of ice sheet at -2670M after 7 years of drilling](https://news.ku.dk/all_news/2023/07/pay-dirt-for-ice-core-scientists-in-east-greenland-as-they-reach-bedrock/)
 * [2023-07-31, 16:20:46](https://news.ycombinator.com/item?id=36944947) - [Digging into the Odd History of Blade Runner’s Title](https://www.vulture.com/2017/10/why-is-blade-runner-the-title-of-blade-runner.html)
+* [2023-07-31, 16:03:16](https://news.ycombinator.com/item?id=36944686) - [Hypermedia as the Engine of Application State (HATEOAS)](https://htmx.org/essays/hateoas/)
 * [2023-07-31, 15:55:03](https://news.ycombinator.com/item?id=36944545) - [My Journey Away from the JAMstack](https://www.spicyweb.dev/farewell-jamstack/)
 * [2023-07-31, 15:55:02](https://news.ycombinator.com/item?id=36944544) - [BBC starts trial with the Fediverse, running its own Mastodon instance](https://social.bbc/about)
 * [2023-07-31, 15:45:31](https://news.ycombinator.com/item?id=36944388) - [Ask HN: How do you monitor your systemd services?](https://news.ycombinator.com/item?id=36944388)
