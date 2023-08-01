@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-01, 03:02:36](https://news.ycombinator.com/item?id=36951815) - [Origin of correlated isolated flat bands in LK99](https://arxiv.org/abs/2307.16892)
 * [2023-08-01, 02:05:36](https://news.ycombinator.com/item?id=36951473) - [Philosophy of Science 101: What Is the Problem of Induction?](https://www.thecollector.com/problem-of-induction-philosophy-of-science/)
 * [2023-08-01, 01:39:54](https://news.ycombinator.com/item?id=36951289) - [The Worst API Ever Made](https://caseymuratori.com/blog_0025)
 * [2023-08-01, 01:18:41](https://news.ycombinator.com/item?id=36951140) - [Semiconducting Transport in LK99](https://arxiv.org/abs/2307.16802)
@@ -19,7 +20,6 @@
 * [2023-07-31, 16:20:46](https://news.ycombinator.com/item?id=36944947) - [Digging into the odd history of Blade Runner’s title (2017)](https://www.vulture.com/2017/10/why-is-blade-runner-the-title-of-blade-runner.html)
 * [2023-07-31, 15:41:12](https://news.ycombinator.com/item?id=36944313) - [Tree Keepers: Where Sustaining the Forest Is a Tribal Tradition](https://e360.yale.edu/features/menominee-forest-management-logging)
 * [2023-07-31, 15:31:26](https://news.ycombinator.com/item?id=36944152) - [Show HN: Markwhen: Markdown for Timelines](https://app.markwhen.com)
-* [2023-07-31, 14:54:42](https://news.ycombinator.com/item?id=36943515) - [Randomness in CSS using trigonometry](https://hypersphere.blog/blog/randomness-in-css-using-trigonometry/)
 * [2023-07-31, 14:48:23](https://news.ycombinator.com/item?id=36943415) - [Investors are happy to pay premium for tech, but not for AI](https://www.bloomberg.com/news/articles/2023-07-31/investors-are-happy-to-pay-premium-for-tech-but-not-for-ai)
 * [2023-07-31, 14:40:02](https://news.ycombinator.com/item?id=36943263) - [Space junk: India says object found in Australia is theirs](https://www.bbc.com/news/world-australia-66359381)
 * [2023-07-31, 14:25:14](https://news.ycombinator.com/item?id=36942993) - [USearch: Smaller and faster single-file vector search engine](https://unum-cloud.github.io/usearch/)
