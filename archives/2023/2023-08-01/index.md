@@ -9,6 +9,7 @@
 * [2023-08-01, 06:07:36](https://news.ycombinator.com/item?id=36952867) - [Systemd auto-restarts of units can hide problems from you](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdRestartHidesProblems)
 * [2023-08-01, 05:53:03](https://news.ycombinator.com/item?id=36952796) - [Jujutsu: A Git-compatible DVCS that is both simple and powerful](https://github.com/martinvonz/jj)
 * [2023-08-01, 05:47:26](https://news.ycombinator.com/item?id=36952772) - [We can save what matters about writing](https://tedunderwood.com/2023/07/31/we-can-save-what-matters-about-writing-at-a-price/)
+* [2023-08-01, 05:21:23](https://news.ycombinator.com/item?id=36952640) - [First-principles study on the electronic structure of Pb10−xCux(PO4)6O (x=0, 1)](https://arxiv.org/abs/2307.16040)
 * [2023-08-01, 05:15:22](https://news.ycombinator.com/item?id=36952605) - [National Lab (LBNL) results support LK-99 as a room-temperature superconductor](https://twitter.com/Andercot/status/1686215574177841152)
 * [2023-08-01, 04:04:38](https://news.ycombinator.com/item?id=36952143) - [When the Yogurt Took Over](https://whatever.scalzi.com/2010/10/02/when-the-yogurt-took-over-a-short-story/)
 * [2023-08-01, 03:22:43](https://news.ycombinator.com/item?id=36951929) - [Show HN: An MIT-licensed ChatGPT plugin that loads and edits files locally](https://github.com/ykdojo/kaguya)
