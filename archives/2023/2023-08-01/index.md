@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-08-01](index.md)
 
+* [2023-08-01, 12:16:16](https://news.ycombinator.com/item?id=36955019) - [Bridging the Python async gap from the other side](https://death.andgravity.com/asyncio-bridge)
+* [2023-08-01, 12:01:52](https://news.ycombinator.com/item?id=36954932) - [Prediction Market on LK-99](https://manifold.markets/QuantumObserver/will-the-lk99-room-temp-ambient-pre)
 * [2023-08-01, 12:01:09](https://news.ycombinator.com/item?id=36954925) - [GiveCampus (YC S15) Hiring Rails engineers in education software](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+* [2023-08-01, 11:40:09](https://news.ycombinator.com/item?id=36954792) - [Who and What Is Behind the Malware Proxy Service SocksEscort?](https://krebsonsecurity.com/2023/07/who-and-what-is-behind-the-malware-proxy-service-socksescort/)
+* [2023-08-01, 11:26:15](https://news.ycombinator.com/item?id=36954718) - [Uber Posts First Quarterly Net Profit of $394M](https://www.wsj.com/articles/uber-q2-earnings-report-2023-453c335a)
 * [2023-08-01, 09:43:43](https://news.ycombinator.com/item?id=36954159) - [IronOS: Open-source soldering iron firmware](https://github.com/Ralim/IronOS)
 * [2023-08-01, 08:45:29](https://news.ycombinator.com/item?id=36953819) - [First claimed successful replication of LK-99 superconductivity (includes video)](https://twitter.com/Andercot/status/1686286684424691712)
 * [2023-08-01, 06:12:59](https://news.ycombinator.com/item?id=36952894) - [Room-Temperature Ambient-Pressure Superconductor LK-99 preprint revision 2](https://arxiv.org/abs/2307.12037)
