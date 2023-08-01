@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-01, 18:27:34",
+      "https://news.ycombinator.com/item?id=36960244"
+    ],
+    [
+      "Show HN: imessage-exporter, a full-featured CLI app and library",
+      "https://github.com/ReagentX/imessage-exporter"
+    ]
+  ],
+  [
+    [
+      "2023-08-01, 18:23:53",
+      "https://news.ycombinator.com/item?id=36960185"
+    ],
+    [
+      "Sunak’s family firm signed deal with BP before opening new North Sea licences",
+      "https://www.thelondoneconomic.com/politics/sunaks-family-firm-signed-a-billion-dollar-deal-with-bp-before-pm-opened-new-north-sea-licences-353690/"
+    ]
+  ],
+  [
+    [
       "2023-08-01, 17:50:50",
       "https://news.ycombinator.com/item?id=36959650"
     ],
@@ -17,16 +37,6 @@
     [
       "Scientists Question Superconductivity Claim from Physicist Accused of Plagiarism",
       "https://www.wsj.com/articles/room-temperature-superconductivity-plagiarism-df591741"
-    ]
-  ],
-  [
-    [
-      "2023-08-01, 17:34:44",
-      "https://news.ycombinator.com/item?id=36959389"
-    ],
-    [
-      "Run Every Day",
-      "https://duarteocarmo.com/blog/run-every-day"
     ]
   ],
   [
@@ -101,6 +111,16 @@
   ],
   [
     [
+      "2023-08-01, 16:31:22",
+      "https://news.ycombinator.com/item?id=36958315"
+    ],
+    [
+      "Speed isn’t everything, and slowness may in fact be more beneficial (2017)",
+      "https://www.bps.org.uk/psychologist/slowness-essence-knowledge"
+    ]
+  ],
+  [
+    [
       "2023-08-01, 16:28:43",
       "https://news.ycombinator.com/item?id=36958272"
     ],
@@ -125,7 +145,7 @@
       "https://news.ycombinator.com/item?id=36957678"
     ],
     [
-      "A Room-Temperature Superconductor? New Developments",
+      "A room-temperature superconductor? New developments",
       "https://www.science.org/content/blog-post/room-temperature-superconductor-new-developments"
     ]
   ],
@@ -171,6 +191,16 @@
   ],
   [
     [
+      "2023-08-01, 12:31:10",
+      "https://news.ycombinator.com/item?id=36955146"
+    ],
+    [
+      "Splitting the Web",
+      "https://ploum.net/2023-08-01-splitting-the-web.html"
+    ]
+  ],
+  [
+    [
       "2023-08-01, 11:40:09",
       "https://news.ycombinator.com/item?id=36954792"
     ],
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2023-08-01, 06:07:36",
-      "https://news.ycombinator.com/item?id=36952867"
-    ],
-    [
-      "Systemd auto-restarts of units can hide problems from you",
-      "https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdRestartHidesProblems"
-    ]
-  ],
-  [
-    [
       "2023-08-01, 05:53:03",
       "https://news.ycombinator.com/item?id=36952796"
     ],
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2023-08-01, 05:21:23",
-      "https://news.ycombinator.com/item?id=36952640"
-    ],
-    [
-      "First-principles study on the electronic structure of Pb10−xCux(PO4)6O (x=0, 1)",
-      "https://arxiv.org/abs/2307.16040"
-    ]
-  ],
-  [
-    [
       "2023-07-31, 17:17:04",
       "https://news.ycombinator.com/item?id=36945816"
     ],
     [
       "Cryptography may offer a solution to the AI-labeling problem",
       "https://www.technologyreview.com/2023/07/28/1076843/cryptography-ai-labeling-problem-c2pa-provenance/"
-    ]
-  ],
-  [
-    [
-      "2023-07-31, 15:15:56",
-      "https://news.ycombinator.com/item?id=36943874"
-    ],
-    [
-      "Retrogram rtl-SDR – a radio spectrum analyzer for your terminal",
-      "https://github.com/r4d10n/retrogram-rtlsdr"
     ]
   ],
   [
