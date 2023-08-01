@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-01](index.md)
 
+* [2023-08-01, 17:50:50](https://news.ycombinator.com/item?id=36959650) - [No telemetry in the Rust compiler: metrics without betraying user privacy](https://estebank.github.io/rustc-metrics.html)
+* [2023-08-01, 17:34:44](https://news.ycombinator.com/item?id=36959389) - [Run Every Day](https://duarteocarmo.com/blog/run-every-day)
+* [2023-08-01, 17:10:38](https://news.ycombinator.com/item?id=36958958) - [City officials attempt to doxx Wikipedians](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-08-01/News_and_notes)
 * [2023-08-01, 17:00:13](https://news.ycombinator.com/item?id=36958793) - [Seam (API for IoT) Is Hiring a Founding Technical PM](https://www.ycombinator.com/companies/seam/jobs/9VKC412-product-manager)
 * [2023-08-01, 16:49:07](https://news.ycombinator.com/item?id=36958612) - [Opus Databending Drumkit](https://suricrasia.online/opus-databending-drumkit/)
 * [2023-08-01, 16:44:02](https://news.ycombinator.com/item?id=36958531) - [Electrified cement could turn houses and roads into nearly limitless batteries](https://www.science.org/content/article/electrified-cement-could-turn-houses-and-roads-nearly-limitless-batteries)
