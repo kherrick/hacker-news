@@ -10,6 +10,7 @@
 * [2023-07-31, 23:12:23](https://news.ycombinator.com/item?id=36950151) - [Occluding Contour Breakthroughs, Part 1: A Surprisingly Hard Problem](https://aaronhertzmann.com/2023/07/31/occluding-contours-part-1.html)
 * [2023-07-31, 23:04:25](https://news.ycombinator.com/item?id=36950075) - [Help the Library of Congress create games to improve public knowledge of civics](https://blogs.loc.gov/law/2023/06/help-the-library-of-congress-create-video-games-that-improve-public-knowledge-of-civics/)
 * [2023-07-31, 22:55:58](https://news.ycombinator.com/item?id=36949988) - [Retrieving your browsing history through a CAPTCHA (2022)](https://varun.ch/history)
+* [2023-07-31, 22:53:18](https://news.ycombinator.com/item?id=36949961) - [Show HN: Socket web extension – free NPM supply chain protection](https://chrome.google.com/webstore/detail/socket-security/jbcobpbfgkhmjfpjjepkcocalmpkiaop)
 * [2023-07-31, 22:50:19](https://news.ycombinator.com/item?id=36949931) - [How to Get ChatGPT to Stop Apologizing?](https://genai.stackexchange.com/questions/177/how-to-get-chatgpt-to-stop-apologizing)
 * [2023-07-31, 21:01:01](https://news.ycombinator.com/item?id=36948763) - [Glass Health (YC W23) is hiring a full-stack engineer in SF to build for doctors](https://news.ycombinator.com/item?id=36948763)
 * [2023-07-31, 20:35:13](https://news.ycombinator.com/item?id=36948403) - [Chunking 2M files a day for code search using syntax trees](https://docs.sweep.dev/blogs/chunking-2m-files)
@@ -28,7 +29,6 @@
 * [2023-07-31, 07:18:37](https://news.ycombinator.com/item?id=36939648) - [Fantasy meets reality](https://cabel.com/2023/07/30/fantasy-meets-reality/)
 * [2023-07-31, 04:52:06](https://news.ycombinator.com/item?id=36938926) - [The Cutting-Edge Cartoons of Winsor McCay](https://daily.jstor.org/the-cutting-edge-cartoons-of-winsor-mccay/)
 * [2023-07-30, 16:12:35](https://news.ycombinator.com/item?id=36932739) - [The Parts-Bin Approach: Konami’s Contra](https://nicole.express/2023/the-best-take-on-iran-contra.html)
-* [2023-07-30, 12:03:49](https://news.ycombinator.com/item?id=36930322) - [Trying to become a better developer by learning more about aviation](https://medium.com/@Fcmam5/trying-to-become-a-better-developer-by-learning-more-about-aviation-5241e7092f7e)
 * [2023-07-30, 12:00:18](https://news.ycombinator.com/item?id=36930290) - [Secret identities in Dwarf Fortress (2017)](https://ojs.aaai.org/index.php/AIIDE/article/view/12963)
 
 ## [Archives](archives/index.md)
