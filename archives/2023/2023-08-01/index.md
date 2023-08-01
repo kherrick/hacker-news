@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-01](index.md)
 
+* [2023-08-01, 22:26:05](https://news.ycombinator.com/item?id=36964072) - [Filament v3 has been released](https://filamentphp.com/community/danharrin-filament-v3)
 * [2023-08-01, 21:58:07](https://news.ycombinator.com/item?id=36963726) - [“Once” one-time concurrent initialization with an integer](https://nullprogram.com/blog/2023/07/31/)
+* [2023-08-01, 21:39:01](https://news.ycombinator.com/item?id=36963439) - [ServiceRouter: Hyperscale and Minimal Cost Service Mesh at Meta [pdf]](https://www.usenix.org/system/files/osdi23-saokar.pdf)
 * [2023-08-01, 21:28:12](https://news.ycombinator.com/item?id=36963261) - [Internet Explorer Is Evil](http://toastytech.com/evil/index.html)
 * [2023-08-01, 21:24:08](https://news.ycombinator.com/item?id=36963200) - [Transform Your Android Device into a Linux Desktop](https://mrs-t.medium.com/transform-your-android-device-into-a-linux-desktop-110a3d084ac6)
 * [2023-08-01, 21:13:16](https://news.ycombinator.com/item?id=36963037) - [A Fire Upon The Deep By Vernor Vinge (1992)](https://archive.org/details/fireupondeep00ving)
@@ -16,6 +18,7 @@
 * [2023-08-01, 19:54:46](https://news.ycombinator.com/item?id=36961734) - [Mac Mini M1 Mod to Receive Power over Ethernet Instead of the AC Input](https://www.inferse.com/660551/hardware-hacker-mods-an-m1-mac-mini-to-receive-power-over-ethernet-instead-of-the-ac-input/)
 * [2023-08-01, 19:35:45](https://news.ycombinator.com/item?id=36961445) - [Evading JavaScript anti-debugging techniques](https://www.nullpt.rs/evading-anti-debugging-techniques)
 * [2023-08-01, 19:17:59](https://news.ycombinator.com/item?id=36961101) - [Alfred-40B, an OSS RLHF version of Falcon40B](https://www.lighton.ai/blog/lighton-s-blog-4/introducing-alfred-40b-0723-38)
+* [2023-08-01, 19:14:52](https://news.ycombinator.com/item?id=36961050) - [Permission.site](https://permission.site/)
 * [2023-08-01, 19:11:45](https://news.ycombinator.com/item?id=36961009) - [US lawmaker says high-tech investment 'leaving Israel' amid judicial overhaul](https://www.middleeasteye.net/news/us-lawmaker-ro-khanna-investment-leaving-israel-judicial-overhaul)
 * [2023-08-01, 19:03:41](https://news.ycombinator.com/item?id=36960882) - [“Web Environment Integrity”: Locking Down the Web](https://brave.com/web-standards-at-brave/9-web-environment-integrity/)
 * [2023-08-01, 19:03:27](https://news.ycombinator.com/item?id=36960874) - [Run Llama 2 on your own Mac using LLM and Homebrew](https://simonwillison.net/2023/Aug/1/llama-2-mac/)
