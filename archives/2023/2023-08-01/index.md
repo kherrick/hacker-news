@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-08-01](index.md)
 
 * [2023-08-01, 17:50:50](https://news.ycombinator.com/item?id=36959650) - [No telemetry in the Rust compiler: metrics without betraying user privacy](https://estebank.github.io/rustc-metrics.html)
+* [2023-08-01, 17:34:50](https://news.ycombinator.com/item?id=36959393) - [Scientists Question Superconductivity Claim from Physicist Accused of Plagiarism](https://www.wsj.com/articles/room-temperature-superconductivity-plagiarism-df591741)
 * [2023-08-01, 17:34:44](https://news.ycombinator.com/item?id=36959389) - [Run Every Day](https://duarteocarmo.com/blog/run-every-day)
+* [2023-08-01, 17:27:44](https://news.ycombinator.com/item?id=36959267) - [Oregon Decriminalized Hard Drugs](https://www.theatlantic.com/politics/archive/2023/07/oregon-drug-decriminalization-results-overdoses/674733/)
 * [2023-08-01, 17:10:38](https://news.ycombinator.com/item?id=36958958) - [City officials attempt to doxx Wikipedians](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-08-01/News_and_notes)
 * [2023-08-01, 17:00:13](https://news.ycombinator.com/item?id=36958793) - [Seam (API for IoT) Is Hiring a Founding Technical PM](https://www.ycombinator.com/companies/seam/jobs/9VKC412-product-manager)
 * [2023-08-01, 16:49:07](https://news.ycombinator.com/item?id=36958612) - [Opus Databending Drumkit](https://suricrasia.online/opus-databending-drumkit/)
