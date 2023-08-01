@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-30](index.md)
 
+* [2023-07-30, 23:57:17](https://news.ycombinator.com/item?id=36937330) - [Retro Punched Paper Tape Using a Fanuc PPR (Portable Punch Reader) [video]](https://www.youtube.com/watch?v=fA42KVVcXA8)
 * [2023-07-30, 23:34:30](https://news.ycombinator.com/item?id=36937138) - [Understanding American Airport Security Following 9/11 (2019)](https://libertarianinstitute.org/articles/tsa-airport-security-theater-guide/)
 * [2023-07-30, 23:21:13](https://news.ycombinator.com/item?id=36937047) - [A Year in Review of 0-days Exploited In-the-Wild in 2022](https://security.googleblog.com/2023/07/the-ups-and-downs-of-0-days-year-in.html)
 * [2023-07-30, 22:49:17](https://news.ycombinator.com/item?id=36936797) - [Show HN: Pyflo – a free, interactive guide to learning Python](https://pyflo.net)
