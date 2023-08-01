@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-01, 06:09:10](https://news.ycombinator.com/item?id=36952874) - [Why Japanese houses depreciate to zero in just 22 years](https://www.economist.com/finance-and-economics/2018/03/15/why-japanese-houses-have-such-limited-lifespans)
 * [2023-08-01, 04:04:38](https://news.ycombinator.com/item?id=36952143) - [When the Yogurt Took Over](https://whatever.scalzi.com/2010/10/02/when-the-yogurt-took-over-a-short-story/)
 * [2023-08-01, 03:22:43](https://news.ycombinator.com/item?id=36951929) - [Show HN: An MIT-licensed ChatGPT plugin that loads and edits files locally](https://github.com/ykdojo/kaguya)
 * [2023-08-01, 03:10:55](https://news.ycombinator.com/item?id=36951872) - [Nvidia H100 GPUs: Supply and Demand](https://gpus.llm-utils.org/nvidia-h100-gpus-supply-and-demand/)
@@ -23,7 +24,6 @@
 * [2023-07-31, 16:20:46](https://news.ycombinator.com/item?id=36944947) - [Digging into the odd history of Blade Runner’s title (2017)](https://www.vulture.com/2017/10/why-is-blade-runner-the-title-of-blade-runner.html)
 * [2023-07-31, 15:41:12](https://news.ycombinator.com/item?id=36944313) - [Tree Keepers: Where Sustaining the Forest Is a Tribal Tradition](https://e360.yale.edu/features/menominee-forest-management-logging)
 * [2023-07-31, 15:31:26](https://news.ycombinator.com/item?id=36944152) - [Show HN: Markwhen: Markdown for Timelines](https://app.markwhen.com)
-* [2023-07-31, 14:48:23](https://news.ycombinator.com/item?id=36943415) - [Investors are happy to pay premium for tech, but not for AI](https://www.bloomberg.com/news/articles/2023-07-31/investors-are-happy-to-pay-premium-for-tech-but-not-for-ai)
 * [2023-07-31, 14:25:14](https://news.ycombinator.com/item?id=36942993) - [USearch: Smaller and faster single-file vector search engine](https://unum-cloud.github.io/usearch/)
 * [2023-07-31, 11:20:14](https://news.ycombinator.com/item?id=36941035) - [The Secret Life of the Cables That Run the Internet](https://www.cnet.com/home/internet/features/the-secret-life-of-the-500-cables-that-run-the-internet/)
 * [2023-07-31, 07:18:37](https://news.ycombinator.com/item?id=36939648) - [Fantasy meets reality](https://cabel.com/2023/07/30/fantasy-meets-reality/)
