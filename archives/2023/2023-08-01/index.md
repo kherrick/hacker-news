@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-01](index.md)
 
+* [2023-08-01, 13:54:51](https://news.ycombinator.com/item?id=36955991) - [Nim v2.0 Released](https://nim-lang.org//blog/2023/08/01/nim-v20-released.html)
+* [2023-08-01, 13:50:29](https://news.ycombinator.com/item?id=36955934) - [Nvidia’s CEO Is the Uncle of AMD’s CEO](https://en.wikipedia.org/wiki/Lisa_Su)
 * [2023-08-01, 13:39:24](https://news.ycombinator.com/item?id=36955806) - [Nim 2.0](https://nim-lang.org/blog/2023/08/01/nim-v20-released.html)
 * [2023-08-01, 12:45:42](https://news.ycombinator.com/item?id=36955266) - [Rust Absolutely Positively Sucks [video]](https://www.youtube.com/watch?v=BB-H5ivmdwQ)
 * [2023-08-01, 12:24:24](https://news.ycombinator.com/item?id=36955091) - [Ask HN: Who Is Firing?](https://news.ycombinator.com/item?id=36955091)
@@ -13,6 +15,7 @@
 * [2023-08-01, 12:01:09](https://news.ycombinator.com/item?id=36954925) - [GiveCampus (YC S15) Hiring Rails engineers in education software](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2023-08-01, 11:40:09](https://news.ycombinator.com/item?id=36954792) - [Who and What Is Behind the Malware Proxy Service SocksEscort?](https://krebsonsecurity.com/2023/07/who-and-what-is-behind-the-malware-proxy-service-socksescort/)
 * [2023-08-01, 11:26:15](https://news.ycombinator.com/item?id=36954718) - [Uber Posts First Quarterly Net Profit of $394M](https://www.wsj.com/articles/uber-q2-earnings-report-2023-453c335a)
+* [2023-08-01, 10:35:42](https://news.ycombinator.com/item?id=36954435) - [Using Vim's abbreviations (2020)](https://vonheikemen.github.io/devlog/tools/using-vim-abbreviations/)
 * [2023-08-01, 10:21:01](https://news.ycombinator.com/item?id=36954351) - [Remote Attestation TLS (RA-TLS)](https://confidentialcomputing.io/2023/03/06/unifying-remote-attestation-protocol-implementations/)
 * [2023-08-01, 09:43:43](https://news.ycombinator.com/item?id=36954159) - [IronOS: Open-source soldering iron firmware](https://github.com/Ralim/IronOS)
 * [2023-08-01, 08:45:29](https://news.ycombinator.com/item?id=36953819) - [First claimed successful replication of LK-99 superconductivity (includes video)](https://twitter.com/Andercot/status/1686286684424691712)
