@@ -2,6 +2,7 @@
 
 * [2023-08-01, 06:12:59](https://news.ycombinator.com/item?id=36952894) - [Room-Temperature Ambient-Pressure Superconductor LK-99 preprint revision 2](https://arxiv.org/abs/2307.12037)
 * [2023-08-01, 06:09:10](https://news.ycombinator.com/item?id=36952874) - [Japanese houses have limited lifespans (2018)](https://www.economist.com/finance-and-economics/2018/03/15/why-japanese-houses-have-such-limited-lifespans)
+* [2023-08-01, 06:07:36](https://news.ycombinator.com/item?id=36952867) - [Systemd auto-restarts of units can hide problems from you](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdRestartHidesProblems)
 * [2023-08-01, 05:53:03](https://news.ycombinator.com/item?id=36952796) - [Jujutsu: A Git-compatible DVCS that is both simple and powerful](https://github.com/martinvonz/jj)
 * [2023-08-01, 05:47:26](https://news.ycombinator.com/item?id=36952772) - [We can save what matters about writing](https://tedunderwood.com/2023/07/31/we-can-save-what-matters-about-writing-at-a-price/)
 * [2023-08-01, 03:10:55](https://news.ycombinator.com/item?id=36951872) - [Nvidia H100 GPUs: Supply and Demand](https://gpus.llm-utils.org/nvidia-h100-gpus-supply-and-demand/)
@@ -21,7 +22,6 @@
 * [2023-07-31, 17:54:37](https://news.ycombinator.com/item?id=36946365) - [The Postal Service, Circulating Portfolios: Modern Networked Identities](https://www.researchgate.net/publication/352497161_The_Postal_Service_Circulating_Portfolios_and_the_Cultural_Production_of_Modern_Networked_Identities)
 * [2023-07-31, 17:36:55](https://news.ycombinator.com/item?id=36946104) - [Marijuana addiction: those struggling often face skepticism](https://www.washingtonpost.com/health/2023/07/31/marijuana-addiction-legal-recreational-sales/)
 * [2023-07-31, 16:22:28](https://news.ycombinator.com/item?id=36944978) - [Ice core scientists in East Greenland reach bedrock](https://news.ku.dk/all_news/2023/07/pay-dirt-for-ice-core-scientists-in-east-greenland-as-they-reach-bedrock/)
-* [2023-07-31, 16:20:46](https://news.ycombinator.com/item?id=36944947) - [Digging into the odd history of Blade Runner’s title (2017)](https://www.vulture.com/2017/10/why-is-blade-runner-the-title-of-blade-runner.html)
 * [2023-07-31, 15:41:12](https://news.ycombinator.com/item?id=36944313) - [Tree Keepers: Where Sustaining the Forest Is a Tribal Tradition](https://e360.yale.edu/features/menominee-forest-management-logging)
 * [2023-07-31, 15:31:26](https://news.ycombinator.com/item?id=36944152) - [Show HN: Markwhen: Markdown for Timelines](https://app.markwhen.com)
 * [2023-07-31, 14:25:14](https://news.ycombinator.com/item?id=36942993) - [USearch: Smaller and faster single-file vector search engine](https://unum-cloud.github.io/usearch/)
