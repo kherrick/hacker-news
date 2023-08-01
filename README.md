@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-01, 19:11:45](https://news.ycombinator.com/item?id=36961009) - [US lawmaker says high-tech investment 'leaving Israel' amid judicial overhaul](https://www.middleeasteye.net/news/us-lawmaker-ro-khanna-investment-leaving-israel-judicial-overhaul)
 * [2023-08-01, 19:01:05](https://news.ycombinator.com/item?id=36960831) - [Miyazaki’s Magical Food: An Ode to Anime’s Best Cooking Scenes](https://www.seriouseats.com/studio-ghibli-anime-best-food-scenes)
 * [2023-08-01, 18:31:31](https://news.ycombinator.com/item?id=36960309) - [Emacs is my new window manager](https://howardism.org/Technical/Emacs/new-window-manager.html)
 * [2023-08-01, 18:27:34](https://news.ycombinator.com/item?id=36960244) - [Show HN: imessage-exporter, a full-featured CLI app and library](https://github.com/ReagentX/imessage-exporter)
@@ -10,6 +9,7 @@
 * [2023-08-01, 17:00:13](https://news.ycombinator.com/item?id=36958793) - [Seam (YC S20), API for IoT, is hiring a founding technical PM](https://www.ycombinator.com/companies/seam/jobs/9VKC412-product-manager)
 * [2023-08-01, 16:49:07](https://news.ycombinator.com/item?id=36958612) - [Opus Databending Drumkit](https://suricrasia.online/opus-databending-drumkit/)
 * [2023-08-01, 16:44:02](https://news.ycombinator.com/item?id=36958531) - [Researchers have come up with a new way to store electricity in cement](https://www.science.org/content/article/electrified-cement-could-turn-houses-and-roads-nearly-limitless-batteries)
+* [2023-08-01, 16:43:16](https://news.ycombinator.com/item?id=36958516) - [Ask HN: In which areas have you compared 3+ tools and formed strong preferences?](https://news.ycombinator.com/item?id=36958516)
 * [2023-08-01, 16:38:06](https://news.ycombinator.com/item?id=36958424) - [Senate Votes to Let People Who’ve Used Marijuana Work at Intelligence Agencies](https://www.marijuanamoment.net/senate-votes-to-let-people-whove-used-marijuana-work-at-intelligence-agencies-like-cia-and-nsa-as-part-of-defense-bill/)
 * [2023-08-01, 16:33:36](https://news.ycombinator.com/item?id=36958352) - [Could the world go PFAS-free? Proposal to ban ‘forever chemicals’ fuels debate](https://www.nature.com/articles/d41586-023-02444-5)
 * [2023-08-01, 16:31:22](https://news.ycombinator.com/item?id=36958315) - [Speed isn’t everything, and slowness may in fact be more beneficial (2017)](https://www.bps.org.uk/psychologist/slowness-essence-knowledge)
