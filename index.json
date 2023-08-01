@@ -1,12 +1,52 @@
 [
   [
     [
+      "2023-08-01, 12:16:16",
+      "https://news.ycombinator.com/item?id=36955019"
+    ],
+    [
+      "Bridging the Python async gap from the other side",
+      "https://death.andgravity.com/asyncio-bridge"
+    ]
+  ],
+  [
+    [
+      "2023-08-01, 12:01:52",
+      "https://news.ycombinator.com/item?id=36954932"
+    ],
+    [
+      "Prediction Market on LK-99",
+      "https://manifold.markets/QuantumObserver/will-the-lk99-room-temp-ambient-pre"
+    ]
+  ],
+  [
+    [
       "2023-08-01, 12:01:09",
       "https://news.ycombinator.com/item?id=36954925"
     ],
     [
       "GiveCampus (YC S15) Hiring Rails engineers in education software",
       "https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915"
+    ]
+  ],
+  [
+    [
+      "2023-08-01, 11:40:09",
+      "https://news.ycombinator.com/item?id=36954792"
+    ],
+    [
+      "Who and What Is Behind the Malware Proxy Service SocksEscort?",
+      "https://krebsonsecurity.com/2023/07/who-and-what-is-behind-the-malware-proxy-service-socksescort/"
+    ]
+  ],
+  [
+    [
+      "2023-08-01, 11:26:15",
+      "https://news.ycombinator.com/item?id=36954718"
+    ],
+    [
+      "Uber Posts First Quarterly Net Profit of $394M",
+      "https://www.wsj.com/articles/uber-q2-earnings-report-2023-453c335a"
     ]
   ],
   [
@@ -57,16 +97,6 @@
     [
       "Jujutsu: A Git-compatible DVCS that is both simple and powerful",
       "https://github.com/martinvonz/jj"
-    ]
-  ],
-  [
-    [
-      "2023-08-01, 05:47:26",
-      "https://news.ycombinator.com/item?id=36952772"
-    ],
-    [
-      "We can save what matters about writing",
-      "https://tedunderwood.com/2023/07/31/we-can-save-what-matters-about-writing-at-a-price/"
     ]
   ],
   [
@@ -201,32 +231,22 @@
   ],
   [
     [
-      "2023-07-31, 20:35:13",
-      "https://news.ycombinator.com/item?id=36948403"
-    ],
-    [
-      "Chunking 2M files a day for code search using syntax trees",
-      "https://docs.sweep.dev/blogs/chunking-2m-files"
-    ]
-  ],
-  [
-    [
-      "2023-07-31, 20:16:24",
-      "https://news.ycombinator.com/item?id=36948164"
-    ],
-    [
-      "Icanhazip: A simple IP address tool survived a deluge of users (2021)",
-      "https://blog.apnic.net/2021/06/17/how-a-small-free-ip-tool-survived/"
-    ]
-  ],
-  [
-    [
       "2023-07-31, 15:41:12",
       "https://news.ycombinator.com/item?id=36944313"
     ],
     [
       "Tree Keepers: Where Sustaining the Forest Is a Tribal Tradition",
       "https://e360.yale.edu/features/menominee-forest-management-logging"
+    ]
+  ],
+  [
+    [
+      "2023-07-31, 14:42:40",
+      "https://news.ycombinator.com/item?id=36943317"
+    ],
+    [
+      "What's Hashing? (2022)",
+      "https://blog.dvsj.in/hashing/"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2023-07-31, 07:18:37",
-      "https://news.ycombinator.com/item?id=36939648"
-    ],
-    [
-      "Fantasy meets reality",
-      "https://cabel.com/2023/07/30/fantasy-meets-reality/"
-    ]
-  ],
-  [
-    [
       "2023-07-31, 06:44:53",
       "https://news.ycombinator.com/item?id=36939491"
     ],
     [
       "Propagating bounds through bitwise operations",
       "http://bitmath.blogspot.com/2023/07/propagating-bounds-through-bitwise.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-30, 16:12:35",
-      "https://news.ycombinator.com/item?id=36932739"
-    ],
-    [
-      "The Parts-Bin Approach: Konami’s Contra",
-      "https://nicole.express/2023/the-best-take-on-iran-contra.html"
     ]
   ],
   [
