@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-08-01, 23:05:10",
-      "https://news.ycombinator.com/item?id=36964502"
+      "2023-08-02, 00:57:46",
+      "https://news.ycombinator.com/item?id=36965545"
     ],
     [
-      "Fitch Downgrades the US Rating to 'AA+'",
-      "https://www.fitchratings.com/research/sovereigns/fitch-downgrades-united-states-long-term-ratings-to-aa-from-aaa-outlook-stable-01-08-2023"
+      "Electronic Structure of LK-99",
+      "https://arxiv.org/abs/2308.00676"
     ]
   ],
   [
@@ -15,18 +15,28 @@
       "https://news.ycombinator.com/item?id=36964491"
     ],
     [
-      "Help I accidently enabled HSTS–on localhost",
+      "Help I accidently enabled HSTS on localhost",
       "https://bartwullems.blogspot.com/2023/07/help-i-accidently-enabled-hstson.html"
     ]
   ],
   [
     [
-      "2023-08-01, 22:26:05",
-      "https://news.ycombinator.com/item?id=36964072"
+      "2023-08-01, 22:46:06",
+      "https://news.ycombinator.com/item?id=36964300"
     ],
     [
-      "Filament v3 has been released",
-      "https://filamentphp.com/community/danharrin-filament-v3"
+      "Bored? How about trying a Linux speedrun? (2020)",
+      "https://rachelbythebay.com/w/2020/04/11/pengrun/"
+    ]
+  ],
+  [
+    [
+      "2023-08-01, 22:28:55",
+      "https://news.ycombinator.com/item?id=36964107"
+    ],
+    [
+      "Unconfirmed video showing potential LK-99 sample exhibiting the Meissner effect",
+      "https://twitter.com/zebulgar/status/1686498517227814912"
     ]
   ],
   [
@@ -251,31 +261,11 @@
   ],
   [
     [
-      "2023-08-01, 09:43:43",
-      "https://news.ycombinator.com/item?id=36954159"
-    ],
-    [
-      "IronOS: Open-source soldering iron firmware",
-      "https://github.com/Ralim/IronOS"
-    ]
-  ],
-  [
-    [
-      "2023-07-31, 17:13:17",
-      "https://news.ycombinator.com/item?id=36945761"
-    ],
-    [
-      "Winning a big new Blue Ocean market",
-      "https://sellsitself.substack.com/p/how-we-will-win"
-    ]
-  ],
-  [
-    [
       "2023-07-31, 14:30:40",
       "https://news.ycombinator.com/item?id=36943091"
     ],
     [
-      "Epicycle Clock by Sophie Houlden",
+      "Epicycle Clock",
       "https://sophiehoulden.com/randomstuff/epitime/?revised"
     ]
   ],
@@ -285,8 +275,18 @@
       "https://news.ycombinator.com/item?id=36941885"
     ],
     [
-      "Two Supermoons in August",
+      "Two supermoons in August",
       "https://phys.org/news/2023-07-supermoons-august-stargazing-fun.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-31, 12:24:51",
+      "https://news.ycombinator.com/item?id=36941551"
+    ],
+    [
+      "Flashdown: A terminal based Flashcard app using plain text files",
+      "https://github.com/SteveRidout/flashdown"
     ]
   ],
   [
