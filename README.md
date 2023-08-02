@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-02, 05:17:04](https://news.ycombinator.com/item?id=36967205) - [Reading SEC filings using LLMs](https://www.beatandraise.com/)
-* [2023-08-02, 03:31:57](https://news.ycombinator.com/item?id=36966653) - [I'm Betting on HTML](https://catskull.net/html.html)
+* [2023-08-02, 03:31:57](https://news.ycombinator.com/item?id=36966653) - [I'm betting on HTML](https://catskull.net/html.html)
 * [2023-08-02, 02:12:25](https://news.ycombinator.com/item?id=36966116) - [Enu – 3D live coding, implemented in Nim](https://github.com/dsrw/enu)
-* [2023-08-02, 01:54:26](https://news.ycombinator.com/item?id=36965993) - [Patterns for Building LLM-Based Systems and Products](https://eugeneyan.com/writing/llm-patterns/)
+* [2023-08-02, 01:54:26](https://news.ycombinator.com/item?id=36965993) - [Patterns for building LLM-based systems and products](https://eugeneyan.com/writing/llm-patterns/)
 * [2023-08-02, 00:57:46](https://news.ycombinator.com/item?id=36965545) - [Electronic Structure of LK-99](https://arxiv.org/abs/2308.00676)
 * [2023-08-01, 23:04:05](https://news.ycombinator.com/item?id=36964491) - [Help I accidently enabled HSTS on localhost](https://bartwullems.blogspot.com/2023/07/help-i-accidently-enabled-hstson.html)
 * [2023-08-01, 22:46:06](https://news.ycombinator.com/item?id=36964300) - [Bored? How about trying a Linux speedrun? (2020)](https://rachelbythebay.com/w/2020/04/11/pengrun/)
