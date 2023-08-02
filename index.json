@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2023-08-01, 20:41:00",
+      "https://news.ycombinator.com/item?id=36962502"
+    ],
+    [
+      "Dear websites, stop asking for ransom sign-ups",
+      "https://iamvishnu.com/posts/randsom-signup"
+    ]
+  ],
+  [
+    [
       "2023-08-01, 20:11:26",
       "https://news.ycombinator.com/item?id=36961996"
     ],
@@ -287,16 +297,6 @@
     [
       "Flashdown: A terminal based Flashcard app using plain text files",
       "https://github.com/SteveRidout/flashdown"
-    ]
-  ],
-  [
-    [
-      "2023-07-31, 11:56:06",
-      "https://news.ycombinator.com/item?id=36941312"
-    ],
-    [
-      "Researchers create open-source platform for Neural Radiance Field development",
-      "https://engineering.berkeley.edu/news/2023/07/researchers-create-open-source-platform-for-neural-radiance-field-development/"
     ]
   ]
 ]
