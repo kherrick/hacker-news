@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-02, 21:54:40](https://news.ycombinator.com/item?id=36978199) - [New targeted chemotherapy able to kill all solid tumors in preclinical research](https://www.eurekalert.org/news-releases/997141)
+* [2023-08-02, 22:08:05](https://news.ycombinator.com/item?id=36978405) - [Pollution cuts have diminished “ship track” clouds, adding to global warming](https://www.science.org/content/article/changing-clouds-unforeseen-test-geoengineering-fueling-record-ocean-warmth)
 * [2023-08-02, 21:52:31](https://news.ycombinator.com/item?id=36978176) - [Arizona driver says he was 'trapped' in hot Tesla after battery died](https://www.abc15.com/news/local-news/investigations/arizona-driver-says-he-was-trapped-in-hot-tesla-after-battery-died)
 * [2023-08-02, 21:31:24](https://news.ycombinator.com/item?id=36977863) - [Meta’s Reality Lab Prototype Hardware](https://www.meta.com/en-gb/blog/quest/reality-labs-research-display-systems-siggraph-2023-butterscotch-varifocal-flamera/)
 * [2023-08-02, 21:17:15](https://news.ycombinator.com/item?id=36977624) - [Infinite Mac Now Supports Disks, CD-ROMs and Custom Instances](https://blog.persistent.info/2023/08/infinite-mac-cd-roms.html)
@@ -24,7 +24,7 @@
 * [2023-08-02, 15:05:16](https://news.ycombinator.com/item?id=36971888) - [How I discovered the underground world of credit card network exploitation](https://chargebackstop.com/blog/card-networks-exploitation/)
 * [2023-08-02, 12:45:59](https://news.ycombinator.com/item?id=36970135) - [Launch HN: Certainly Health (YC S23) – Book doctors without surprise bills](https://news.ycombinator.com/item?id=36970135)
 * [2023-08-02, 11:35:59](https://news.ycombinator.com/item?id=36969473) - [Edge detection doesn’t explain line drawing](https://aaronhertzmann.com/2020/04/19/lines-as-edges.html)
-* [2023-08-02, 00:17:52](https://news.ycombinator.com/item?id=36965187) - [Male Moth 'Aphrodisiac' Revealed](https://phys.org/news/2023-08-male-moth-aphrodisiac-revealed.html)
+* [2023-08-02, 08:06:50](https://news.ycombinator.com/item?id=36968273) - [VkFFT: Vulkan/CUDA/Hip/OpenCL/Level Zero/Metal Fast Fourier Transform Library](https://github.com/DTolm/VkFFT)
 * [2023-08-02, 00:14:15](https://news.ycombinator.com/item?id=36965144) - [Two intermediate polars investigated by astronomers](https://phys.org/news/2023-08-intermediate-polars-astronomers.html)
 * [2023-08-01, 16:12:44](https://news.ycombinator.com/item?id=36958008) - [Transcript of taped conversations among German nuclear physicists (1945)](https://ghdi.ghi-dc.org/sub_document.cfm?document_id=2320)
 * [2023-08-01, 07:31:12](https://news.ycombinator.com/item?id=36953371) - [Moss Voltaics](https://iaac.net/project/moss-voltaics/)
