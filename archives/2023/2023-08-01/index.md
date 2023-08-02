@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-01](index.md)
 
+* [2023-08-01, 23:05:10](https://news.ycombinator.com/item?id=36964502) - [Fitch Downgrades the US Rating to 'AA+'](https://www.fitchratings.com/research/sovereigns/fitch-downgrades-united-states-long-term-ratings-to-aa-from-aaa-outlook-stable-01-08-2023)
+* [2023-08-01, 23:04:05](https://news.ycombinator.com/item?id=36964491) - [Help I accidently enabled HSTS–on localhost](https://bartwullems.blogspot.com/2023/07/help-i-accidently-enabled-hstson.html)
 * [2023-08-01, 22:26:05](https://news.ycombinator.com/item?id=36964072) - [Filament v3 has been released](https://filamentphp.com/community/danharrin-filament-v3)
 * [2023-08-01, 21:58:07](https://news.ycombinator.com/item?id=36963726) - [“Once” one-time concurrent initialization with an integer](https://nullprogram.com/blog/2023/07/31/)
 * [2023-08-01, 21:39:01](https://news.ycombinator.com/item?id=36963439) - [ServiceRouter: Hyperscale and Minimal Cost Service Mesh at Meta [pdf]](https://www.usenix.org/system/files/osdi23-saokar.pdf)

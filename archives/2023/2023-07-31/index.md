@@ -26,6 +26,7 @@
 * [2023-07-31, 17:30:29](https://news.ycombinator.com/item?id=36946022) - [Michael Nielsen: Quick thoughts on research](https://michaelnotebook.com/qtr/index.html)
 * [2023-07-31, 17:27:14](https://news.ycombinator.com/item?id=36945979) - [Amazon requires services on Fire TV to give it 30% of ad impressions or revenue](https://www.streamtvinsider.com/video/amazon-modifies-ad-revenue-impressions-share-policy-international-fire-tv-apps)
 * [2023-07-31, 17:17:04](https://news.ycombinator.com/item?id=36945816) - [Cryptography may offer a solution to the AI-labeling problem](https://www.technologyreview.com/2023/07/28/1076843/cryptography-ai-labeling-problem-c2pa-provenance/)
+* [2023-07-31, 17:13:17](https://news.ycombinator.com/item?id=36945761) - [Winning a big new Blue Ocean market](https://sellsitself.substack.com/p/how-we-will-win)
 * [2023-07-31, 17:01:32](https://news.ycombinator.com/item?id=36945578) - [Paul Reubens dead: Pee-wee Herman actor was 70](https://nypost.com/2023/07/31/paul-reubens-dead-pee-wee-herman-actor-was-70/)
 * [2023-07-31, 17:00:28](https://news.ycombinator.com/item?id=36945559) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-07-31, 16:37:34](https://news.ycombinator.com/item?id=36945206) - [Building Nikola Tesla's Bladeless Turbine [video]](https://www.youtube.com/watch?v=Tuzh9mHvzkk)
