@@ -2,7 +2,6 @@
 
 * [2023-08-02, 19:53:02](https://news.ycombinator.com/item?id=36976331) - [IRS Launches Paperless Processing Initiative](https://home.treasury.gov/news/press-releases/jy1666)
 * [2023-08-02, 19:41:40](https://news.ycombinator.com/item?id=36976124) - [Busting a Myth: “Only writers subscribe to genre magazines”](http://neil-clarke.com/busting-a-myth/)
-* [2023-08-02, 19:33:14](https://news.ycombinator.com/item?id=36975974) - [HackerOne lays off 12% of its workforce](https://www.hackerone.com/ceo/company-update)
 * [2023-08-02, 19:17:07](https://news.ycombinator.com/item?id=36975701) - [FCC allows blocking traffic from robocall-friendly provider One Owl](https://docs.fcc.gov/public/attachments/DA-23-652A1.txt)
 * [2023-08-02, 18:50:15](https://news.ycombinator.com/item?id=36975245) - [Cookbook: Finetuning Llama 2 in your own cloud environment, privately](https://blog.skypilot.co/finetuning-llama2-operational-guide/)
 * [2023-08-02, 18:43:52](https://news.ycombinator.com/item?id=36975143) - [Cops still take more stuff from people than burglars do](https://thewhyaxis.substack.com/p/cops-still-take-more-stuff-from-people)
@@ -23,6 +22,7 @@
 * [2023-08-02, 15:11:48](https://news.ycombinator.com/item?id=36971975) - [A Non-Mathematical Introduction to Kalman Filters for Programmers](https://praveshkoirala.com/2023/06/13/a-non-mathematical-introduction-to-kalman-filters-for-programmers/)
 * [2023-08-02, 15:05:16](https://news.ycombinator.com/item?id=36971888) - [How I discovered the underground world of credit card network exploitation](https://chargebackstop.com/blog/card-networks-exploitation/)
 * [2023-08-02, 12:45:59](https://news.ycombinator.com/item?id=36970135) - [Launch HN: Certainly Health (YC S23) – Book doctors without surprise bills](https://news.ycombinator.com/item?id=36970135)
+* [2023-08-02, 12:15:05](https://news.ycombinator.com/item?id=36969807) - [Show HN: We built swup+fragment-plugin to visually enhance classic websites](https://swup-fragment-plugin.netlify.app/)
 * [2023-08-02, 11:35:59](https://news.ycombinator.com/item?id=36969473) - [Why edge detection doesn’t explain line drawing](https://aaronhertzmann.com/2020/04/19/lines-as-edges.html)
 * [2023-08-02, 06:52:45](https://news.ycombinator.com/item?id=36967829) - [A beetle that heads for the ‘back door’ when eaten by a frog (2020)](https://www.smithsonianmag.com/smart-news/when-beetle-gets-eaten-frog-it-forces-its-way-out-back-door-180975484/)
 * [2023-08-02, 06:16:57](https://news.ycombinator.com/item?id=36967594) - [Stopping at 90%](https://austinhenley.com/blog/90percent.html)
