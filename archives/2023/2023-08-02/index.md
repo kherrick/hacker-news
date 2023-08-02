@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
+* [2023-08-02, 17:51:51](https://news.ycombinator.com/item?id=36974357) - [Washington, DC, avoided the worst price rises that have plagued American cities](https://worksinprogress.co/issue/how-dc-densified)
+* [2023-08-02, 17:35:00](https://news.ycombinator.com/item?id=36974096) - [Australians fight for the right to work from home permanently](https://www.reuters.com/world/asia-pacific/point-no-return-australians-fight-right-work-home-permanently-2023-08-01/)
+* [2023-08-02, 17:34:18](https://news.ycombinator.com/item?id=36974082) - [Cory Doctorow's new book on beating big tech at its own game](https://boingboing.net/2023/08/02/cory-doctorows-new-book-on-beating-big-tech-at-its-own-game.html)
 * [2023-08-02, 17:21:28](https://news.ycombinator.com/item?id=36973882) - [Kenya suspends Sam Altman’s eyeball-scanning crypto project](https://www.theverge.com/2023/8/2/23817147/kenya-worldcoin-suspended-sam-altman-eyeball-scanning)
 * [2023-08-02, 17:16:31](https://news.ycombinator.com/item?id=36973807) - [Companies with good ESG scores pollute as much as low-rated rivals](https://www.ft.com/content/b9582d62-cc6f-4b76-b0f9-5b37cf15dce4)
 * [2023-08-02, 17:07:57](https://news.ycombinator.com/item?id=36973681) - [Truss-braced wings could bring new look to runways worldwide](https://hackaday.com/2023/08/02/truss-braced-wings-could-bring-new-look-to-runways-worldwide/)

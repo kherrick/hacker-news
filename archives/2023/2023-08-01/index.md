@@ -50,6 +50,7 @@
 * [2023-08-01, 16:31:22](https://news.ycombinator.com/item?id=36958315) - [Speed isn’t everything, and slowness may in fact be more beneficial (2017)](https://www.bps.org.uk/psychologist/slowness-essence-knowledge)
 * [2023-08-01, 16:28:43](https://news.ycombinator.com/item?id=36958272) - [Webrecorder: Capture interactive websites and replay them at a later time](https://webrecorder.net/)
 * [2023-08-01, 16:23:15](https://news.ycombinator.com/item?id=36958175) - [Show HN: PromptTools – open-source tools for evaluating LLMs and vector DBs](https://github.com/hegelai/prompttools)
+* [2023-08-01, 16:12:44](https://news.ycombinator.com/item?id=36958008) - [Transcript of Taped Conversations Among German Nuclear Physicists (1945)](https://ghdi.ghi-dc.org/sub_document.cfm?document_id=2320)
 * [2023-08-01, 15:52:57](https://news.ycombinator.com/item?id=36957678) - [A Room-Temperature Superconductor? New Developments](https://www.science.org/content/blog-post/room-temperature-superconductor-new-developments)
 * [2023-08-01, 15:52:19](https://news.ycombinator.com/item?id=36957669) - [Ask HN: Did anyone write a book in Nano?](https://news.ycombinator.com/item?id=36957669)
 * [2023-08-01, 15:48:37](https://news.ycombinator.com/item?id=36957614) - [Sigh, this is what browsing the web in the EU looks like nowadays (2021)](https://mmazzarolo.com/blog/2021-09-10-browsing-the-web-from-eu/)
