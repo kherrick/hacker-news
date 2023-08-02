@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-02, 17:07:57](https://news.ycombinator.com/item?id=36973681) - [Truss-braced wings could bring new look to runways worldwide](https://hackaday.com/2023/08/02/truss-braced-wings-could-bring-new-look-to-runways-worldwide/)
+* [2023-08-02, 16:54:59](https://news.ycombinator.com/item?id=36973498) - [Academy Software Foundation Announces OpenPBR, a New Subproject of MaterialX](https://www.aswf.io/blog/academy-software-foundation-announces-openpbr-a-new-subproject-of-materialx/)
 * [2023-08-02, 16:51:48](https://news.ycombinator.com/item?id=36973454) - [Gut–brain axis study shows autism-associated molecular, microbial profiles](https://www.nature.com/articles/s41593-023-01361-0)
 * [2023-08-02, 16:18:00](https://news.ycombinator.com/item?id=36972961) - [On the (nearly lethal) comforts of a luxury cruise (1996) [pdf]](https://harpers.org/wp-content/uploads/2008/09/HarpersMagazine-1996-01-0007859.pdf)
 * [2023-08-02, 15:40:04](https://news.ycombinator.com/item?id=36972398) - [Reflex – Web apps in pure Python](https://github.com/reflex-dev/reflex)
@@ -11,7 +13,6 @@
 * [2023-08-02, 15:06:59](https://news.ycombinator.com/item?id=36971910) - [“The Onion” founder explains his strategy for sparking creativity](https://bigthink.com/the-learning-curve/the-onion-founder-strategies-sparking-creativity/)
 * [2023-08-02, 15:05:16](https://news.ycombinator.com/item?id=36971888) - [How I discovered the underground world of credit card network exploitation](https://chargebackstop.com/blog/card-networks-exploitation/)
 * [2023-08-02, 15:00:43](https://news.ycombinator.com/item?id=36971826) - [Many people in finance, sales and management feel their jobs are pointless](https://www.news.uzh.ch/en/articles/media/2023/Jobs.html)
-* [2023-08-02, 13:59:47](https://news.ycombinator.com/item?id=36971004) - [Earth Overshoot Day](https://www.overshootday.org/about/)
 * [2023-08-02, 13:59:45](https://news.ycombinator.com/item?id=36971003) - [Excuse me, is there a problem?](https://longform.asmartbear.com/problem/)
 * [2023-08-02, 13:36:45](https://news.ycombinator.com/item?id=36970702) - [Does Cloudflare’s 1.1.1.1 DNS Block Archive.is? (2019)](https://jarv.is/notes/cloudflare-dns-archive-is-blocked/)
 * [2023-08-02, 13:02:00](https://news.ycombinator.com/item?id=36970305) - [Why Rust helps even if you have to use a lot of `unsafe`](https://v5.chriskrycho.com/journal/unsafe/)
@@ -24,11 +25,10 @@
 * [2023-08-02, 06:15:09](https://news.ycombinator.com/item?id=36967579) - [Encyclopedia of Life](https://eol.org/)
 * [2023-08-02, 03:31:57](https://news.ycombinator.com/item?id=36966653) - [I'm betting on HTML](https://catskull.net/html.html)
 * [2023-08-02, 00:57:46](https://news.ycombinator.com/item?id=36965545) - [Electronic Structure of LK-99](https://arxiv.org/abs/2308.00676)
-* [2023-08-01, 15:24:51](https://news.ycombinator.com/item?id=36957204) - [Launch HN: Tiptap (YC S23) – Toolkit for developing collaborative editors](https://news.ycombinator.com/item?id=36957204)
 * [2023-08-01, 07:01:17](https://news.ycombinator.com/item?id=36953195) - [Oxocards: Interactive Programmable Minicomputers](https://oxocard.ch/en/)
 * [2023-08-01, 06:53:23](https://news.ycombinator.com/item?id=36953141) - [Toward Condensers](https://openjdk.org/projects/leyden/notes/03-toward-condensers)
 * [2023-07-31, 21:58:19](https://news.ycombinator.com/item?id=36949456) - [How the Kentucky Cave Wars Reshaped the State’s Tourism Industry](https://www.smithsonianmag.com/history/how-the-kentucky-cave-wars-reshaped-the-states-tourism-industry-180982585/)
-* [2023-07-31, 15:59:02](https://news.ycombinator.com/item?id=36944611) - [An open-source, free circuit simulator](https://hackaday.com/2023/07/30/an-open-source-free-circuit-simulator/)
+* [2023-07-31, 21:32:55](https://news.ycombinator.com/item?id=36949168) - [In Manila, a Once-Lost Masterpiece Is Back on Public View](https://hyperallergic.com/834568/in-manila-a-once-lost-juan-luna-masterpiece-is-back-on-public-view/)
 * [2023-07-31, 12:40:07](https://news.ycombinator.com/item?id=36941720) - [Shamir Secret Sharing](https://max.levch.in/post/724289457144070144/shamir-secret-sharing)
 
 ## [Archives](archives/index.md)

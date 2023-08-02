@@ -12,6 +12,7 @@
 * [2023-07-31, 22:50:19](https://news.ycombinator.com/item?id=36949931) - [How to Get ChatGPT to Stop Apologizing?](https://genai.stackexchange.com/questions/177/how-to-get-chatgpt-to-stop-apologizing)
 * [2023-07-31, 21:58:19](https://news.ycombinator.com/item?id=36949456) - [How the Kentucky Cave Wars Reshaped the State’s Tourism Industry](https://www.smithsonianmag.com/history/how-the-kentucky-cave-wars-reshaped-the-states-tourism-industry-180982585/)
 * [2023-07-31, 21:47:33](https://news.ycombinator.com/item?id=36949314) - [Can you trust a compiler to optimize your code?](https://matklad.github.io/2023/04/09/can-you-trust-a-compiler-to-optimize-your-code.html)
+* [2023-07-31, 21:32:55](https://news.ycombinator.com/item?id=36949168) - [In Manila, a Once-Lost Masterpiece Is Back on Public View](https://hyperallergic.com/834568/in-manila-a-once-lost-juan-luna-masterpiece-is-back-on-public-view/)
 * [2023-07-31, 21:01:01](https://news.ycombinator.com/item?id=36948763) - [Glass Health (YC W23) is hiring a full-stack engineer in SF to build for doctors](https://news.ycombinator.com/item?id=36948763)
 * [2023-07-31, 20:35:13](https://news.ycombinator.com/item?id=36948403) - [Chunking 2M files a day for code search using syntax trees](https://docs.sweep.dev/blogs/chunking-2m-files)
 * [2023-07-31, 20:17:20](https://news.ycombinator.com/item?id=36948180) - [The Fall of Stack Overflow](https://newsletter.devmoh.co/p/the-fall-of-stack-overflow-explained)
