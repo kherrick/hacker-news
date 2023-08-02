@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-02, 21:31:24",
+      "https://news.ycombinator.com/item?id=36977863"
+    ],
+    [
+      "Meta’s Reality Lab Prototype Hardware",
+      "https://www.meta.com/en-gb/blog/quest/reality-labs-research-display-systems-siggraph-2023-butterscotch-varifocal-flamera/"
+    ]
+  ],
+  [
+    [
       "2023-08-02, 21:16:01",
       "https://news.ycombinator.com/item?id=36977606"
     ],
@@ -31,12 +41,22 @@
   ],
   [
     [
-      "2023-08-02, 19:53:02",
-      "https://news.ycombinator.com/item?id=36976331"
+      "2023-08-02, 20:39:29",
+      "https://news.ycombinator.com/item?id=36977046"
     ],
     [
-      "IRS launches paperless processing initiative",
-      "https://home.treasury.gov/news/press-releases/jy1666"
+      "Show HN: Grammar Generator App for Llama.cpp",
+      "https://grammar.intrinsiclabs.ai/"
+    ]
+  ],
+  [
+    [
+      "2023-08-02, 20:13:42",
+      "https://news.ycombinator.com/item?id=36976670"
+    ],
+    [
+      "If Web Components are so great, why am I not using them?",
+      "https://daverupert.com/2023/07/why-not-webcomponents/"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Academy Software Foundation Announces OpenPBR, a New Subproject of MaterialX",
       "https://www.aswf.io/blog/academy-software-foundation-announces-openpbr-a-new-subproject-of-materialx/"
-    ]
-  ],
-  [
-    [
-      "2023-08-02, 16:47:37",
-      "https://news.ycombinator.com/item?id=36973400"
-    ],
-    [
-      "Show HN: Learn a language quickly by practising speaking with AI",
-      "https://www.prettypolly.app"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "VkFFT: Vulkan/CUDA/Hip/OpenCL/Level Zero/Metal Fast Fourier Transform Library",
       "https://github.com/DTolm/VkFFT"
-    ]
-  ],
-  [
-    [
-      "2023-08-02, 07:01:12",
-      "https://news.ycombinator.com/item?id=36967873"
-    ],
-    [
-      "Bitmovin (YC S15) Is Hiring in Austria",
-      "https://bitmovin.com/careers/"
     ]
   ],
   [
