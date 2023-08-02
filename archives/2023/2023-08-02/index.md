@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
+* [2023-08-02, 10:43:28](https://news.ycombinator.com/item?id=36969144) - [South America is living one of the climate extreme events](https://twitter.com/extremetemps/status/1686485331539820545)
 * [2023-08-02, 10:02:34](https://news.ycombinator.com/item?id=36968914) - [Remote work is the reason why Wall Street was wrong about a recession](https://fortune.com/2023/08/01/remote-work-preventing-economy-from-recession/)
 * [2023-08-02, 09:10:02](https://news.ycombinator.com/item?id=36968670) - [Harvard professor Francesca Gino was accused of faking data](https://www.businessinsider.com/harvard-francesca-gino-fake-data-fraud-allegations-scholar-2023-7)
 * [2023-08-02, 08:18:10](https://news.ycombinator.com/item?id=36968356) - [OpenAI filed a patent for GPT-5](https://uspto.report/TM/98089548)
