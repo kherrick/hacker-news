@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-02, 17:16:31](https://news.ycombinator.com/item?id=36973807) - [Companies with good ESG scores pollute as much as low-rated rivals](https://www.ft.com/content/b9582d62-cc6f-4b76-b0f9-5b37cf15dce4)
 * [2023-08-02, 17:07:57](https://news.ycombinator.com/item?id=36973681) - [Truss-braced wings could bring new look to runways worldwide](https://hackaday.com/2023/08/02/truss-braced-wings-could-bring-new-look-to-runways-worldwide/)
 * [2023-08-02, 16:54:59](https://news.ycombinator.com/item?id=36973498) - [Academy Software Foundation Announces OpenPBR, a New Subproject of MaterialX](https://www.aswf.io/blog/academy-software-foundation-announces-openpbr-a-new-subproject-of-materialx/)
 * [2023-08-02, 16:51:48](https://news.ycombinator.com/item?id=36973454) - [Gut–brain axis study shows autism-associated molecular, microbial profiles](https://www.nature.com/articles/s41593-023-01361-0)
+* [2023-08-02, 16:40:17](https://news.ycombinator.com/item?id=36973287) - [Coming Soon: Fedora for Apple Silicon Macs](https://fedoramagazine.org/coming-soon-fedora-for-apple-silicon-macs/)
 * [2023-08-02, 16:18:00](https://news.ycombinator.com/item?id=36972961) - [On the (nearly lethal) comforts of a luxury cruise (1996) [pdf]](https://harpers.org/wp-content/uploads/2008/09/HarpersMagazine-1996-01-0007859.pdf)
 * [2023-08-02, 15:40:04](https://news.ycombinator.com/item?id=36972398) - [Reflex – Web apps in pure Python](https://github.com/reflex-dev/reflex)
 * [2023-08-02, 15:37:44](https://news.ycombinator.com/item?id=36972367) - [STL: The Vector](https://devblogs.microsoft.com/oldnewthing/20230802-00/?p=108524)
@@ -24,10 +26,8 @@
 * [2023-08-02, 06:16:57](https://news.ycombinator.com/item?id=36967594) - [Stopping at 90%](https://austinhenley.com/blog/90percent.html)
 * [2023-08-02, 06:15:09](https://news.ycombinator.com/item?id=36967579) - [Encyclopedia of Life](https://eol.org/)
 * [2023-08-02, 03:31:57](https://news.ycombinator.com/item?id=36966653) - [I'm betting on HTML](https://catskull.net/html.html)
-* [2023-08-02, 00:57:46](https://news.ycombinator.com/item?id=36965545) - [Electronic Structure of LK-99](https://arxiv.org/abs/2308.00676)
 * [2023-08-01, 07:01:17](https://news.ycombinator.com/item?id=36953195) - [Oxocards: Interactive Programmable Minicomputers](https://oxocard.ch/en/)
 * [2023-08-01, 06:53:23](https://news.ycombinator.com/item?id=36953141) - [Toward Condensers](https://openjdk.org/projects/leyden/notes/03-toward-condensers)
-* [2023-07-31, 21:58:19](https://news.ycombinator.com/item?id=36949456) - [How the Kentucky Cave Wars Reshaped the State’s Tourism Industry](https://www.smithsonianmag.com/history/how-the-kentucky-cave-wars-reshaped-the-states-tourism-industry-180982585/)
 * [2023-07-31, 21:32:55](https://news.ycombinator.com/item?id=36949168) - [In Manila, a Once-Lost Masterpiece Is Back on Public View](https://hyperallergic.com/834568/in-manila-a-once-lost-juan-luna-masterpiece-is-back-on-public-view/)
 * [2023-07-31, 12:40:07](https://news.ycombinator.com/item?id=36941720) - [Shamir Secret Sharing](https://max.levch.in/post/724289457144070144/shamir-secret-sharing)
 

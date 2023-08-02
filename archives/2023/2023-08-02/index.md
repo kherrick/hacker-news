@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
+* [2023-08-02, 17:16:31](https://news.ycombinator.com/item?id=36973807) - [Companies with good ESG scores pollute as much as low-rated rivals](https://www.ft.com/content/b9582d62-cc6f-4b76-b0f9-5b37cf15dce4)
 * [2023-08-02, 17:07:57](https://news.ycombinator.com/item?id=36973681) - [Truss-braced wings could bring new look to runways worldwide](https://hackaday.com/2023/08/02/truss-braced-wings-could-bring-new-look-to-runways-worldwide/)
 * [2023-08-02, 16:54:59](https://news.ycombinator.com/item?id=36973498) - [Academy Software Foundation Announces OpenPBR, a New Subproject of MaterialX](https://www.aswf.io/blog/academy-software-foundation-announces-openpbr-a-new-subproject-of-materialx/)
 * [2023-08-02, 16:51:48](https://news.ycombinator.com/item?id=36973454) - [Gut–brain axis study shows autism-associated molecular, microbial profiles](https://www.nature.com/articles/s41593-023-01361-0)
+* [2023-08-02, 16:40:17](https://news.ycombinator.com/item?id=36973287) - [Coming Soon: Fedora for Apple Silicon Macs](https://fedoramagazine.org/coming-soon-fedora-for-apple-silicon-macs/)
 * [2023-08-02, 16:18:00](https://news.ycombinator.com/item?id=36972961) - [On the (nearly lethal) comforts of a luxury cruise (1996) [pdf]](https://harpers.org/wp-content/uploads/2008/09/HarpersMagazine-1996-01-0007859.pdf)
 * [2023-08-02, 15:40:04](https://news.ycombinator.com/item?id=36972398) - [Reflex – Web apps in pure Python](https://github.com/reflex-dev/reflex)
 * [2023-08-02, 15:37:44](https://news.ycombinator.com/item?id=36972367) - [STL: The Vector](https://devblogs.microsoft.com/oldnewthing/20230802-00/?p=108524)
