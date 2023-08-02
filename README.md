@@ -24,7 +24,7 @@
 * [2023-08-01, 15:52:57](https://news.ycombinator.com/item?id=36957678) - [A room-temperature superconductor? New developments](https://www.science.org/content/blog-post/room-temperature-superconductor-new-developments)
 * [2023-08-01, 15:24:51](https://news.ycombinator.com/item?id=36957204) - [Launch HN: Tiptap (YC S23) – Toolkit for developing collaborative editors](https://news.ycombinator.com/item?id=36957204)
 * [2023-08-01, 12:31:10](https://news.ycombinator.com/item?id=36955146) - [Splitting the Web](https://ploum.net/2023-08-01-splitting-the-web.html)
-* [2023-07-31, 19:56:31](https://news.ycombinator.com/item?id=36947930) - [Spaghetti Squash Squiggled Its Way onto American Tables](https://www.atlasobscura.com/articles/what-is-spaghetti-squash)
+* [2023-07-31, 19:56:31](https://news.ycombinator.com/item?id=36947930) - [The history of spaghetti squash in America](https://www.atlasobscura.com/articles/what-is-spaghetti-squash)
 * [2023-07-31, 15:59:02](https://news.ycombinator.com/item?id=36944611) - [An open-source, free circuit simulator](https://hackaday.com/2023/07/30/an-open-source-free-circuit-simulator/)
 * [2023-07-31, 14:30:40](https://news.ycombinator.com/item?id=36943091) - [Epicycle Clock](https://sophiehoulden.com/randomstuff/epitime/?revised)
 * [2023-07-31, 14:30:10](https://news.ycombinator.com/item?id=36943084) - [Antarctic bedmap data: findable, accessible, interoperable, and reusable](https://essd.copernicus.org/articles/15/2695/2023/essd-15-2695-2023-discussion.html)
