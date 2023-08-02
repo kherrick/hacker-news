@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
+* [2023-08-02, 17:21:28](https://news.ycombinator.com/item?id=36973882) - [Kenya suspends Sam Altman’s eyeball-scanning crypto project](https://www.theverge.com/2023/8/2/23817147/kenya-worldcoin-suspended-sam-altman-eyeball-scanning)
 * [2023-08-02, 17:16:31](https://news.ycombinator.com/item?id=36973807) - [Companies with good ESG scores pollute as much as low-rated rivals](https://www.ft.com/content/b9582d62-cc6f-4b76-b0f9-5b37cf15dce4)
 * [2023-08-02, 17:07:57](https://news.ycombinator.com/item?id=36973681) - [Truss-braced wings could bring new look to runways worldwide](https://hackaday.com/2023/08/02/truss-braced-wings-could-bring-new-look-to-runways-worldwide/)
+* [2023-08-02, 17:00:49](https://news.ycombinator.com/item?id=36973584) - [Run Llama 2 Uncensored Locally](https://ollama.ai/blog/run-llama2-uncensored-locally)
 * [2023-08-02, 16:54:59](https://news.ycombinator.com/item?id=36973498) - [Academy Software Foundation Announces OpenPBR, a New Subproject of MaterialX](https://www.aswf.io/blog/academy-software-foundation-announces-openpbr-a-new-subproject-of-materialx/)
 * [2023-08-02, 16:51:48](https://news.ycombinator.com/item?id=36973454) - [Gut–brain axis study shows autism-associated molecular, microbial profiles](https://www.nature.com/articles/s41593-023-01361-0)
 * [2023-08-02, 16:40:17](https://news.ycombinator.com/item?id=36973287) - [Coming Soon: Fedora for Apple Silicon Macs](https://fedoramagazine.org/coming-soon-fedora-for-apple-silicon-macs/)
