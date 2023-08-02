@@ -10,7 +10,7 @@
 * [2023-08-02, 11:35:59](https://news.ycombinator.com/item?id=36969473) - [Why Edge Detection Doesn’t Explain Line Drawing](https://aaronhertzmann.com/2020/04/19/lines-as-edges.html)
 * [2023-08-02, 09:10:02](https://news.ycombinator.com/item?id=36968670) - [Harvard professor Francesca Gino was accused of faking data](https://www.businessinsider.com/harvard-francesca-gino-fake-data-fraud-allegations-scholar-2023-7)
 * [2023-08-02, 08:06:50](https://news.ycombinator.com/item?id=36968273) - [VkFFT: Vulkan/CUDA/Hip/OpenCL/Level Zero/Metal Fast Fourier Transform Library](https://github.com/DTolm/VkFFT)
-* [2023-08-02, 07:20:41](https://news.ycombinator.com/item?id=36967992) - [Franz Kafka Was a Health Insurance Administrator](https://vienna.earth/plate/russell/kafka-insurance-career)
+* [2023-08-02, 07:20:41](https://news.ycombinator.com/item?id=36967992) - [Franz Kafka was a healthcare claims administrator and insurance underwriter](https://vienna.earth/plate/russell/kafka-insurance-career)
 * [2023-08-02, 07:01:12](https://news.ycombinator.com/item?id=36967873) - [Bitmovin (YC S15) Is Hiring in Austria](https://bitmovin.com/careers/)
 * [2023-08-02, 06:52:45](https://news.ycombinator.com/item?id=36967829) - [A beetle that heads for the ‘back door’ when eaten by a frog (2020)](https://www.smithsonianmag.com/smart-news/when-beetle-gets-eaten-frog-it-forces-its-way-out-back-door-180975484/)
 * [2023-08-02, 06:16:57](https://news.ycombinator.com/item?id=36967594) - [Stopping at 90%](https://austinhenley.com/blog/90percent.html)
