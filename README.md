@@ -5,7 +5,7 @@
 * [2023-08-02, 19:17:07](https://news.ycombinator.com/item?id=36975701) - [FCC allows blocking traffic from robocall-friendly provider One Owl](https://docs.fcc.gov/public/attachments/DA-23-652A1.txt)
 * [2023-08-02, 18:50:15](https://news.ycombinator.com/item?id=36975245) - [Cookbook: Finetuning Llama 2 in your own cloud environment, privately](https://blog.skypilot.co/finetuning-llama2-operational-guide/)
 * [2023-08-02, 18:43:52](https://news.ycombinator.com/item?id=36975143) - [Cops still take more stuff from people than burglars do](https://thewhyaxis.substack.com/p/cops-still-take-more-stuff-from-people)
-* [2023-08-02, 18:14:04](https://news.ycombinator.com/item?id=36974681) - [LK99: Team of Southeast University observed zero resistance below 110 K](https://twitter.com/lipez400/status/1686793608626663441)
+* [2023-08-02, 18:14:04](https://news.ycombinator.com/item?id=36974681) - [LK-99: Team of Southeast University observed zero resistance below 110 K](https://twitter.com/lipez400/status/1686793608626663441)
 * [2023-08-02, 17:51:53](https://news.ycombinator.com/item?id=36974358) - [Apple stole $100s from me, Customer Service says there's nothing they can do](https://old.reddit.com/r/applehelp/comments/15gechw/apple_just_stole_hundreds_of_dollars_from_me/)
 * [2023-08-02, 17:35:00](https://news.ycombinator.com/item?id=36974096) - [Australians fight for the right to work from home permanently](https://www.reuters.com/world/asia-pacific/point-no-return-australians-fight-right-work-home-permanently-2023-08-01/)
 * [2023-08-02, 17:34:18](https://news.ycombinator.com/item?id=36974082) - [Cory Doctorow's new book on beating big tech at its own game](https://boingboing.net/2023/08/02/cory-doctorows-new-book-on-beating-big-tech-at-its-own-game.html)
