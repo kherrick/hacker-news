@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
 * [2023-08-02, 13:59:45](https://news.ycombinator.com/item?id=36971003) - [Excuse me, is there a problem?](https://longform.asmartbear.com/problem/)
+* [2023-08-02, 13:49:34](https://news.ycombinator.com/item?id=36970882) - [After the Bomb](https://time.com/after-the-bomb/)
 * [2023-08-02, 13:36:45](https://news.ycombinator.com/item?id=36970702) - [Does Cloudflare’s 1.1.1.1 DNS Block Archive.is? (2019)](https://jarv.is/notes/cloudflare-dns-archive-is-blocked/)
 * [2023-08-02, 13:34:11](https://news.ycombinator.com/item?id=36970678) - [Stripe Account CLOSED for no reason and with no explanation](https://news.ycombinator.com/item?id=36970678)
 * [2023-08-02, 13:12:00](https://news.ycombinator.com/item?id=36970413) - [Tired of Dating Apps, Some Turn to Google Docs](https://www.nytimes.com/2023/08/02/style/date-me-docs.html)
