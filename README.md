@@ -15,7 +15,7 @@
 * [2023-08-01, 22:46:06](https://news.ycombinator.com/item?id=36964300) - [Bored? How about trying a Linux speedrun? (2020)](https://rachelbythebay.com/w/2020/04/11/pengrun/)
 * [2023-08-01, 22:28:55](https://news.ycombinator.com/item?id=36964107) - [Unconfirmed video showing potential LK-99 sample exhibiting the Meissner effect](https://twitter.com/zebulgar/status/1686498517227814912)
 * [2023-08-01, 21:24:08](https://news.ycombinator.com/item?id=36963200) - [Transform your Android device into a Linux desktop](https://mrs-t.medium.com/transform-your-android-device-into-a-linux-desktop-110a3d084ac6)
-* [2023-08-01, 20:11:26](https://news.ycombinator.com/item?id=36961996) - [eGPU: A 750 MHz Class Soft GPGPU for FPGA](https://arxiv.org/abs/2307.08378)
+* [2023-08-01, 20:41:00](https://news.ycombinator.com/item?id=36962502) - [Dear websites, stop asking for ransom sign-ups](https://iamvishnu.com/posts/randsom-signup)
 * [2023-08-01, 19:54:46](https://news.ycombinator.com/item?id=36961734) - [Hacker mods an M1 Mac mini to receive power over Ethernet instead of AC](https://www.inferse.com/660551/hardware-hacker-mods-an-m1-mac-mini-to-receive-power-over-ethernet-instead-of-the-ac-input/)
 * [2023-08-01, 18:51:09](https://news.ycombinator.com/item?id=36960625) - [Pixar, Adobe, Apple, Autodesk, and Nvidia form alliance for OpenUSD](https://www.apple.com/newsroom/2023/08/pixar-adobe-apple-autodesk-and-nvidia-form-alliance-for-openusd/)
 * [2023-08-01, 16:57:08](https://news.ycombinator.com/item?id=36958731) - [Show HN: Magic Loops – Combine LLMs and code to create simple automations](https://magicloops.dev)
