@@ -84,6 +84,7 @@
 * [2023-08-01, 05:21:23](https://news.ycombinator.com/item?id=36952640) - [First-principles study on the electronic structure of Pb10−xCux(PO4)6O (x=0, 1)](https://arxiv.org/abs/2307.16040)
 * [2023-08-01, 05:15:22](https://news.ycombinator.com/item?id=36952605) - [National Lab (LBNL) results support LK-99 as a room-temperature superconductor](https://twitter.com/Andercot/status/1686215574177841152)
 * [2023-08-01, 04:04:38](https://news.ycombinator.com/item?id=36952143) - [When the Yogurt Took Over](https://whatever.scalzi.com/2010/10/02/when-the-yogurt-took-over-a-short-story/)
+* [2023-08-01, 04:01:39](https://news.ycombinator.com/item?id=36952129) - [Ron’s Place](https://longreads.com/2023/07/13/how-an-extreme-diy-project-sparked-a-debate-about-art/)
 * [2023-08-01, 03:22:43](https://news.ycombinator.com/item?id=36951929) - [Show HN: An MIT-licensed ChatGPT plugin that loads and edits files locally](https://github.com/ykdojo/kaguya)
 * [2023-08-01, 03:10:55](https://news.ycombinator.com/item?id=36951872) - [Nvidia H100 GPUs: Supply and Demand](https://gpus.llm-utils.org/nvidia-h100-gpus-supply-and-demand/)
 * [2023-08-01, 03:02:36](https://news.ycombinator.com/item?id=36951815) - [Origin of correlated isolated flat bands in LK99](https://arxiv.org/abs/2307.16892)
