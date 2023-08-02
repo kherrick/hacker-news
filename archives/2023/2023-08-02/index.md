@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
+* [2023-08-02, 21:31:24](https://news.ycombinator.com/item?id=36977863) - [Meta’s Reality Lab Prototype Hardware](https://www.meta.com/en-gb/blog/quest/reality-labs-research-display-systems-siggraph-2023-butterscotch-varifocal-flamera/)
 * [2023-08-02, 21:16:01](https://news.ycombinator.com/item?id=36977606) - [DotDict: A simple Python library to make chained attributes possible](https://github.com/nick-at-dave/DotDict)
 * [2023-08-02, 21:04:46](https://news.ycombinator.com/item?id=36977427) - [Most cars still cost more to charge than to fill up with gas](https://www.businessinsider.com/ev-charging-cost-versus-gas-car-truck-suv-2023-7)
 * [2023-08-02, 20:43:10](https://news.ycombinator.com/item?id=36977107) - [ChromeOS is splitting the browser from the OS, getting more Linux-y](https://arstechnica.com/gadgets/2023/08/google-is-finally-separating-chrome-from-chromeos-for-easier-updates/)
+* [2023-08-02, 20:39:29](https://news.ycombinator.com/item?id=36977046) - [Show HN: Grammar Generator App for Llama.cpp](https://grammar.intrinsiclabs.ai/)
+* [2023-08-02, 20:13:42](https://news.ycombinator.com/item?id=36976670) - [If Web Components are so great, why am I not using them?](https://daverupert.com/2023/07/why-not-webcomponents/)
 * [2023-08-02, 19:53:02](https://news.ycombinator.com/item?id=36976331) - [IRS Launches Paperless Processing Initiative](https://home.treasury.gov/news/press-releases/jy1666)
 * [2023-08-02, 19:41:40](https://news.ycombinator.com/item?id=36976124) - [Busting a Myth: “Only writers subscribe to genre magazines”](http://neil-clarke.com/busting-a-myth/)
 * [2023-08-02, 19:33:14](https://news.ycombinator.com/item?id=36975974) - [HackerOne lays off 12% of its workforce](https://www.hackerone.com/ceo/company-update)
