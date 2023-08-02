@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
+* [2023-08-02, 08:18:10](https://news.ycombinator.com/item?id=36968356) - [OpenAI filed a patent for GPT-5](https://uspto.report/TM/98089548)
 * [2023-08-02, 08:06:50](https://news.ycombinator.com/item?id=36968273) - [VkFFT: Vulkan/CUDA/Hip/OpenCL/Level Zero/Metal Fast Fourier Transform Library](https://github.com/DTolm/VkFFT)
 * [2023-08-02, 07:59:01](https://news.ycombinator.com/item?id=36968218) - [HMRC (UK Tax Authority) Persuing Uber for £386M (~$487M) Vat](https://twitter.com/DanNeidle/status/1686643943432232962)
 * [2023-08-02, 07:01:12](https://news.ycombinator.com/item?id=36967873) - [Bitmovin (YC S15) Is Hiring in Austria](https://bitmovin.com/careers/)
