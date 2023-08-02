@@ -129,6 +129,179 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="36970196">
+          <h3>
+            <a
+              class="item"
+              href="https://www.bloomberg.com/opinion/articles/2023-08-02/junking-legacy-admissions-at-top-us-schools-is-just-a-baby-step"
+              >US universities need to stop elitist discrimination that Europe
+              abandoned</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-08-02 @ 12:51:55</span
+              ><span class="points-container"
+                >Points: <span class="points">25</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36970196"
+                  >Comments</a
+                ><span class="descendants">: 24</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="36970135">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=36970135"
+              >Launch HN: Certainly Health (YC S23) – Book doctors without
+              surprise bills</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-08-02 @ 12:45:59</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36970135"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://certainlyhealth.com/"
+                >https://certainlyhealth.com/</a
+              >), a marketplace that lets you shop for doctors and compare your
+              out-of-pocket costs upfront (currently only in NYC). Using each
+              patient's insurance and machine learning, we predict and guarantee
+              out-of-pocket costs to prevent surprise bills.
+              <p>
+                We grew up in immigrant families, and for both of us, our
+                parents would honestly tell us to not trust doctors because of
+                unexpected medical bills. They really believed that doctors were
+                adding on unnecessary things that didn’t help in order to make
+                more money. As adults, we’ve both had first-hand experiences
+                receiving surprise bills even with good insurance while working
+                at tech companies, so solving this problem is personal to us.
+              </p>
+              <p>
+                It turns out 38% of Americans delay medical care for fear of the
+                bill while prices vary 2-10x across health providers, even when
+                using insurance. This led us to believe that creating a
+                marketplace with transparent out-of-pocket costs could be a
+                solution.
+              </p>
+              <p>
+                However, it wasn’t until the July 2022 Transparency in Coverage
+                Rule (<a
+                  href="https://www.cms.gov/healthplan-price-transparency"
+                  >https://www.cms.gov/healthplan-price-transparency</a
+                >) that we had the payer pricing data (that’s actually high
+                quality compared to hospital data) to create this marketplace.
+                Certainly is the first company to use this data to predict and
+                guarantee prices for consumers to book doctors.
+              </p>
+              <p>
+                We know the HN community has been interested in applications of
+                healthcare price transparency data (<a
+                  href="https://news.ycombinator.com/item?id=32738783"
+                  >https://news.ycombinator.com/item?id=32738783</a
+                >), so we’re excited to share how we’re using this data to
+                predict and guarantee prices for a consumer application.
+              </p>
+              <p>
+                With Certainly, patients can enter their insurance, compare
+                guaranteed out-of-pocket costs across doctors, and book an
+                appointment with price transparency. For providers, we guarantee
+                any patient we send them will always pay. Partner providers pay
+                us any time we send them a new patient. Eventually, we’ll
+                convert providers to using our SaaS platform to guarantee
+                payments from existing patients.
+              </p>
+              <p>
+                We are currently focused on shoppable services - anything that
+                can be scheduled in advance. Our solution falls between two ends
+                of the spectrum for consumer shopping experiences. At one end is
+                healthcare, where the status quo is you go to a doctor and you
+                have no idea what will happen and you have no idea how much it
+                will cost. At the other end is going to a restaurant, having a
+                menu of items with corresponding prices, and deciding which
+                items you want to order.
+              </p>
+              <p>
+                Certainly Health lets you see what services could happen during
+                your visit and how much they will cost. We guarantee that if
+                those services happen, you will not pay more than the
+                out-of-pocket costs you saw upfront for each of those services.
+                But it is ultimately the doctor who decides which services you
+                end up getting (like a chef deciding which dishes you will be
+                served). As a result, you can compare upfront out-of-pocket
+                costs specific to your insurance and book a provider without
+                worrying about surprise bills.
+              </p>
+              <p>
+                A common misconception is that patient out-of-pocket costs are
+                set by doctors. Prices of healthcare services are actually the
+                result of negotiations between providers and insurance
+                companies. Groups with more negotiating power, like large
+                hospital systems, are able to command higher rates than private
+                practice physicians. This variance in cost is enormous across
+                almost all procedures we've looked at, even between providers a
+                few blocks from each other. It might cost $105 to get an
+                orthopedic consultation with one doctor, and $550 to get a
+                consultation with another doctor across the street, for example.
+                This price variance means the out-of-pocket cost also varies for
+                patients with high deductible plans or plans where the copay
+                does not cover all services (which we’ve encountered very
+                often).
+              </p>
+              <p>
+                We do not use hospital price data which is inconsistent and
+                messy (<a
+                  href="https://www.kff.org/health-costs/press-release/analysis-inconsistencies-within-hospital-price-transparency-data-make-cost-comparisons-difficult/"
+                  >https://www.kff.org/health-costs/press-release/analysis-inco...</a
+                >). Instead, our guaranteed prices are based on three things:
+                (1) health insurance published rates for procedures, as required
+                by regulation; (2) patient eligibility/benefits information
+                (e.g. deductible, copay, coinsurance); and (3) an online
+                learning model to account for variance across thousands of plans
+                and patient conditions.
+              </p>
+              <p>
+                As we process payments and claims, we create an accurate
+                platform for predicting out-of-pocket costs by accounting for
+                variations such as whether certain procedures are covered by an
+                insurance plan/copay, and how the rate changes based on
+                diagnosis code (we discovered V97.33XD is for "Sucked into jet
+                engine, subsequent encounter”), number of units, medical coding
+                modifiers, and other factors.
+              </p>
+              <p>
+                Certainly is currently available in NYC where you can choose
+                from over 5k doctors to book without surprise bills for free at
+                <a href="https://certainlyhealth.com/"
+                  >https://certainlyhealth.com/</a
+                >. We plan to expand to other cities once we prove that we can
+                establish a low CAC on both the supply and demand sides in NYC.
+              </p>
+              <p>
+                Although we’re early, we’re starting to see intended results.
+                One patient saved $850 on a podiatrist visit booked through us
+                compared to a previous visit with a different doctor for the
+                exact same services. Another was charged for an annual physical,
+                but we identified the mistake and got a refund issued to him.
+                Most of our customers have had surprise bills in the past and
+                are happy to have peace of mind with our upfront, guaranteed
+                prices.
+              </p>
+              <p>
+                We’d love to hear your ideas, experiences, feedback and any
+                feature requests!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="36969897">
           <h3>
             <a class="item" href="https://news.ycombinator.com/item?id=36969897"
@@ -139,11 +312,11 @@
             <h4>
               <span>2023-08-02 @ 12:23:45</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36969897"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
             <div class="text">
@@ -152,28 +325,6 @@
               codegen,... What are the motivations for using those models over
               prompted GPT api ?
             </div>
-          </section>
-        </section>
-        <section id="36969803">
-          <h3>
-            <a
-              class="item"
-              href="https://spectrumlocalnews.com/nys/central-ny/news/2023/08/01/lawmakers-propose-installing--speed-limiters--in-vehicles-of-repeat-speeders"
-              >Lawmakers propose 'speed limiters' for repeat offenders in New
-              York</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-08-02 @ 12:14:28</span
-              ><span class="points-container"
-                >Points: <span class="points">13</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36969803"
-                  >Comments</a
-                ><span class="descendants">: 48</span></span
-              >
-            </h4>
           </section>
         </section>
         <section id="36969709">
@@ -187,11 +338,11 @@
             <h4>
               <span>2023-08-02 @ 12:05:57</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36969709"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -208,11 +359,11 @@
             <h4>
               <span>2023-08-02 @ 11:40:59</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36969500"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -229,11 +380,11 @@
             <h4>
               <span>2023-08-02 @ 11:35:59</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36969473"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -249,11 +400,11 @@
             <h4>
               <span>2023-08-02 @ 10:24:25</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36969022"
                   >Comments</a
-                ><span class="descendants">: 83</span></span
+                ><span class="descendants">: 96</span></span
               >
             </h4>
           </section>
@@ -270,11 +421,11 @@
             <h4>
               <span>2023-08-02 @ 09:10:02</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36968670"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -290,7 +441,7 @@
             <h4>
               <span>2023-08-02 @ 08:06:50</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36968273"
                   >Comments</a
@@ -326,11 +477,11 @@
             <h4>
               <span>2023-08-02 @ 06:52:45</span
               ><span class="points-container"
-                >Points: <span class="points">118</span></span
+                >Points: <span class="points">123</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36967829"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -345,11 +496,11 @@
             <h4>
               <span>2023-08-02 @ 06:16:57</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36967594"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -362,11 +513,11 @@
             <h4>
               <span>2023-08-02 @ 06:15:09</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36967579"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -381,11 +532,11 @@
             <h4>
               <span>2023-08-02 @ 05:17:04</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36967205"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -400,11 +551,11 @@
             <h4>
               <span>2023-08-02 @ 03:31:57</span
               ><span class="points-container"
-                >Points: <span class="points">649</span></span
+                >Points: <span class="points">659</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36966653"
                   >Comments</a
-                ><span class="descendants">: 275</span></span
+                ><span class="descendants">: 277</span></span
               >
             </h4>
           </section>
@@ -419,7 +570,7 @@
             <h4>
               <span>2023-08-02 @ 02:12:25</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">95</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36966116"
                   >Comments</a
@@ -438,7 +589,7 @@
             <h4>
               <span>2023-08-02 @ 01:54:26</span
               ><span class="points-container"
-                >Points: <span class="points">299</span></span
+                >Points: <span class="points">305</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36965993"
                   >Comments</a
@@ -457,11 +608,11 @@
             <h4>
               <span>2023-08-02 @ 00:57:46</span
               ><span class="points-container"
-                >Points: <span class="points">416</span></span
+                >Points: <span class="points">420</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36965545"
                   >Comments</a
-                ><span class="descendants">: 320</span></span
+                ><span class="descendants">: 323</span></span
               >
             </h4>
           </section>
@@ -478,7 +629,7 @@
             <h4>
               <span>2023-08-01 @ 22:46:06</span
               ><span class="points-container"
-                >Points: <span class="points">172</span></span
+                >Points: <span class="points">174</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36964300"
                   >Comments</a
@@ -500,11 +651,11 @@
             <h4>
               <span>2023-08-01 @ 22:28:55</span
               ><span class="points-container"
-                >Points: <span class="points">250</span></span
+                >Points: <span class="points">254</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36964107"
                   >Comments</a
-                ><span class="descendants">: 122</span></span
+                ><span class="descendants">: 127</span></span
               >
             </h4>
           </section>
@@ -565,11 +716,11 @@
             <h4>
               <span>2023-08-01 @ 15:52:57</span
               ><span class="points-container"
-                >Points: <span class="points">1125</span></span
+                >Points: <span class="points">1127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36957678"
                   >Comments</a
-                ><span class="descendants">: 728</span></span
+                ><span class="descendants">: 730</span></span
               >
             </h4>
           </section>
@@ -685,27 +836,6 @@
             </div>
           </section>
         </section>
-        <section id="36954805">
-          <h3>
-            <a
-              class="item"
-              href="https://en.wikipedia.org/wiki/Nuffield_Science_Project"
-              >Nuffield Science Project</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-08-01 @ 11:43:51</span
-              ><span class="points-container"
-                >Points: <span class="points">10</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36954805"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="36949456">
           <h3>
             <a
@@ -719,11 +849,11 @@
             <h4>
               <span>2023-07-31 @ 21:58:19</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36949456"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -740,11 +870,11 @@
             <h4>
               <span>2023-07-31 @ 19:56:31</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36947930"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -761,11 +891,11 @@
             <h4>
               <span>2023-07-31 @ 15:59:02</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36944611"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -782,7 +912,7 @@
             <h4>
               <span>2023-07-31 @ 12:56:37</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36941885"
                   >Comments</a
@@ -803,11 +933,11 @@
             <h4>
               <span>2023-07-31 @ 12:40:07</span
               ><span class="points-container"
-                >Points: <span class="points">108</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36941720"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
