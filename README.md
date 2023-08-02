@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-02, 11:26:45](https://news.ycombinator.com/item?id=36969412) - [Ask HN: Why is LK-99 public?](https://news.ycombinator.com/item?id=36969412)
 * [2023-08-02, 11:02:46](https://news.ycombinator.com/item?id=36969271) - [Fitch downgrades U.S. after debt limit stalemate](https://www.politico.com/news/2023/08/01/fitch-downgrades-u-s-debt-00109288)
 * [2023-08-02, 10:43:28](https://news.ycombinator.com/item?id=36969144) - [South America is living one of the climate extreme events](https://twitter.com/extremetemps/status/1686485331539820545)
 * [2023-08-02, 09:10:02](https://news.ycombinator.com/item?id=36968670) - [Harvard professor Francesca Gino was accused of faking data](https://www.businessinsider.com/harvard-francesca-gino-fake-data-fraud-allegations-scholar-2023-7)
@@ -19,7 +20,6 @@
 * [2023-08-01, 22:28:55](https://news.ycombinator.com/item?id=36964107) - [Unconfirmed video showing potential LK-99 sample exhibiting the Meissner effect](https://twitter.com/zebulgar/status/1686498517227814912)
 * [2023-08-01, 19:54:46](https://news.ycombinator.com/item?id=36961734) - [Hacker mods an M1 Mac mini to receive power over Ethernet instead of AC](https://www.inferse.com/660551/hardware-hacker-mods-an-m1-mac-mini-to-receive-power-over-ethernet-instead-of-the-ac-input/)
 * [2023-08-01, 18:51:09](https://news.ycombinator.com/item?id=36960625) - [Pixar, Adobe, Apple, Autodesk, and Nvidia form alliance for OpenUSD](https://www.apple.com/newsroom/2023/08/pixar-adobe-apple-autodesk-and-nvidia-form-alliance-for-openusd/)
-* [2023-08-01, 16:57:08](https://news.ycombinator.com/item?id=36958731) - [Show HN: Magic Loops – Combine LLMs and code to create simple automations](https://magicloops.dev)
 * [2023-08-01, 15:52:57](https://news.ycombinator.com/item?id=36957678) - [A room-temperature superconductor? New developments](https://www.science.org/content/blog-post/room-temperature-superconductor-new-developments)
 * [2023-08-01, 15:24:51](https://news.ycombinator.com/item?id=36957204) - [Launch HN: Tiptap (YC S23) – Toolkit for developing collaborative editors](https://news.ycombinator.com/item?id=36957204)
 * [2023-08-01, 11:43:51](https://news.ycombinator.com/item?id=36954805) - [Nuffield Science Project](https://en.wikipedia.org/wiki/Nuffield_Science_Project)
