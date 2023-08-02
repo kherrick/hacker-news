@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
+* [2023-08-02, 21:54:40](https://news.ycombinator.com/item?id=36978199) - [New targeted chemotherapy able to kill all solid tumors in preclinical research](https://www.eurekalert.org/news-releases/997141)
+* [2023-08-02, 21:52:31](https://news.ycombinator.com/item?id=36978176) - [Arizona driver says he was 'trapped' in hot Tesla after battery died](https://www.abc15.com/news/local-news/investigations/arizona-driver-says-he-was-trapped-in-hot-tesla-after-battery-died)
 * [2023-08-02, 21:38:12](https://news.ycombinator.com/item?id=36977962) - [Internet providers that won FCC grants try to escape broadband commitments](https://arstechnica.com/tech-policy/2023/08/internet-providers-that-won-fcc-grants-try-to-escape-broadband-commitments/)
 * [2023-08-02, 21:31:24](https://news.ycombinator.com/item?id=36977863) - [Meta’s Reality Lab Prototype Hardware](https://www.meta.com/en-gb/blog/quest/reality-labs-research-display-systems-siggraph-2023-butterscotch-varifocal-flamera/)
 * [2023-08-02, 21:17:15](https://news.ycombinator.com/item?id=36977624) - [Infinite Mac Now Supports Disks, CD-ROMs and Custom Instances](https://blog.persistent.info/2023/08/infinite-mac-cd-roms.html)
