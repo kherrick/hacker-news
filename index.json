@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-02, 17:21:28",
+      "https://news.ycombinator.com/item?id=36973882"
+    ],
+    [
+      "Kenya suspends Sam Altman’s eyeball-scanning crypto project",
+      "https://www.theverge.com/2023/8/2/23817147/kenya-worldcoin-suspended-sam-altman-eyeball-scanning"
+    ]
+  ],
+  [
+    [
       "2023-08-02, 17:16:31",
       "https://news.ycombinator.com/item?id=36973807"
     ],
@@ -17,6 +27,16 @@
     [
       "Truss-braced wings could bring new look to runways worldwide",
       "https://hackaday.com/2023/08/02/truss-braced-wings-could-bring-new-look-to-runways-worldwide/"
+    ]
+  ],
+  [
+    [
+      "2023-08-02, 17:00:49",
+      "https://news.ycombinator.com/item?id=36973584"
+    ],
+    [
+      "Run Llama 2 Uncensored Locally",
+      "https://ollama.ai/blog/run-llama2-uncensored-locally"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Reflex – Web apps in pure Python",
       "https://github.com/reflex-dev/reflex"
-    ]
-  ],
-  [
-    [
-      "2023-08-02, 15:37:44",
-      "https://news.ycombinator.com/item?id=36972367"
-    ],
-    [
-      "STL: The Vector",
-      "https://devblogs.microsoft.com/oldnewthing/20230802-00/?p=108524"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Does Cloudflare’s 1.1.1.1 DNS Block Archive.is? (2019)",
       "https://jarv.is/notes/cloudflare-dns-archive-is-blocked/"
-    ]
-  ],
-  [
-    [
-      "2023-08-02, 13:02:00",
-      "https://news.ycombinator.com/item?id=36970305"
-    ],
-    [
-      "Why Rust helps even if you have to use a lot of `unsafe`",
-      "https://v5.chriskrycho.com/journal/unsafe/"
     ]
   ],
   [
