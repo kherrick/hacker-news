@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
+* [2023-08-02, 13:34:11](https://news.ycombinator.com/item?id=36970678) - [Stripe Account CLOSED for no reason and with no explanation](https://news.ycombinator.com/item?id=36970678)
 * [2023-08-02, 12:51:55](https://news.ycombinator.com/item?id=36970196) - [US universities need to stop elitist discrimination that Europe abandoned](https://www.bloomberg.com/opinion/articles/2023-08-02/junking-legacy-admissions-at-top-us-schools-is-just-a-baby-step)
 * [2023-08-02, 12:45:59](https://news.ycombinator.com/item?id=36970135) - [Launch HN: Certainly Health (YC S23) – Book doctors without surprise bills](https://news.ycombinator.com/item?id=36970135)
 * [2023-08-02, 12:23:45](https://news.ycombinator.com/item?id=36969897) - [Ask HN: Who is using small OS LLMs in production?](https://news.ycombinator.com/item?id=36969897)
