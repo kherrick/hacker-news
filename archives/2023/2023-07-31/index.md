@@ -76,6 +76,7 @@
 * [2023-07-31, 13:04:15](https://news.ycombinator.com/item?id=36941942) - [Paperlike Color: World’s First Color E-Ink Monitor](https://www.indiegogo.com/projects/paperlike-color-world-first-color-e-ink-monitor/coming_soon)
 * [2023-07-31, 12:56:37](https://news.ycombinator.com/item?id=36941885) - [Two Supermoons in August](https://phys.org/news/2023-07-supermoons-august-stargazing-fun.html)
 * [2023-07-31, 12:42:04](https://news.ycombinator.com/item?id=36941740) - [The Inescapable Rise of Moral Superiority](https://thewalrus.ca/the-inescapable-rise-of-moral-superiority/)
+* [2023-07-31, 12:24:51](https://news.ycombinator.com/item?id=36941551) - [Flashdown: A terminal based Flashcard app using plain text files](https://github.com/SteveRidout/flashdown)
 * [2023-07-31, 12:21:14](https://news.ycombinator.com/item?id=36941512) - [Cut out everything that's not surprising](https://sive.rs/d22)
 * [2023-07-31, 12:16:48](https://news.ycombinator.com/item?id=36941480) - [Tell HN: Airbnb’s transparent pricing is a lie](https://news.ycombinator.com/item?id=36941480)
 * [2023-07-31, 12:05:42](https://news.ycombinator.com/item?id=36941398) - [Query Engines: Push vs. Pull](https://justinjaffray.com/query-engines-push-vs.-pull/)
