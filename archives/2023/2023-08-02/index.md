@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
+* [2023-08-02, 15:11:48](https://news.ycombinator.com/item?id=36971975) - [A Non-Mathematical Introduction to Kalman Filters for Programmers](https://praveshkoirala.com/2023/06/13/a-non-mathematical-introduction-to-kalman-filters-for-programmers/)
+* [2023-08-02, 15:06:59](https://news.ycombinator.com/item?id=36971910) - [“The Onion” founder explains his strategy for sparking creativity](https://bigthink.com/the-learning-curve/the-onion-founder-strategies-sparking-creativity/)
+* [2023-08-02, 15:05:16](https://news.ycombinator.com/item?id=36971888) - [How I discovered the underground world of credit card network exploitation](https://chargebackstop.com/blog/card-networks-exploitation/)
+* [2023-08-02, 15:02:09](https://news.ycombinator.com/item?id=36971851) - [Why Python Is Terrible](https://josvisser.substack.com/p/why-python-is-terrible)
+* [2023-08-02, 14:35:52](https://news.ycombinator.com/item?id=36971490) - [CodeCov is now Open Source](https://about.codecov.io/blog/codecov-is-now-open-source/)
 * [2023-08-02, 14:16:54](https://news.ycombinator.com/item?id=36971220) - [How Japan is tackling a syndrome that creates recluses](https://www.telegraph.co.uk/global-health/climate-and-people/japan-recluse-generation-hikikomori-shut-in-syndrome/)
 * [2023-08-02, 13:59:47](https://news.ycombinator.com/item?id=36971004) - [Earth Overshoot Day](https://www.overshootday.org/about/)
 * [2023-08-02, 13:59:45](https://news.ycombinator.com/item?id=36971003) - [Excuse me, is there a problem?](https://longform.asmartbear.com/problem/)

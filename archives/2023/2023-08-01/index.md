@@ -77,6 +77,7 @@
 * [2023-08-01, 10:21:01](https://news.ycombinator.com/item?id=36954351) - [Remote Attestation TLS (RA-TLS)](https://confidentialcomputing.io/2023/03/06/unifying-remote-attestation-protocol-implementations/)
 * [2023-08-01, 09:43:43](https://news.ycombinator.com/item?id=36954159) - [IronOS: Open-source soldering iron firmware](https://github.com/Ralim/IronOS)
 * [2023-08-01, 08:45:29](https://news.ycombinator.com/item?id=36953819) - [First claimed successful replication of LK-99 superconductivity (includes video)](https://twitter.com/Andercot/status/1686286684424691712)
+* [2023-08-01, 06:53:23](https://news.ycombinator.com/item?id=36953141) - [Toward Condensers](https://openjdk.org/projects/leyden/notes/03-toward-condensers)
 * [2023-08-01, 06:12:59](https://news.ycombinator.com/item?id=36952894) - [Room-Temperature Ambient-Pressure Superconductor LK-99 preprint revision 2](https://arxiv.org/abs/2307.12037)
 * [2023-08-01, 06:09:10](https://news.ycombinator.com/item?id=36952874) - [Why Japanese houses depreciate to zero in just 22 years](https://www.economist.com/finance-and-economics/2018/03/15/why-japanese-houses-have-such-limited-lifespans)
 * [2023-08-01, 06:07:36](https://news.ycombinator.com/item?id=36952867) - [Systemd auto-restarts of units can hide problems from you](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdRestartHidesProblems)
