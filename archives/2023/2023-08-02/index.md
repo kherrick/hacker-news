@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
+* [2023-08-02, 18:50:15](https://news.ycombinator.com/item?id=36975245) - [Cookbook: Finetuning Llama 2 in your own cloud environment, privately](https://blog.skypilot.co/finetuning-llama2-operational-guide/)
 * [2023-08-02, 18:33:35](https://news.ycombinator.com/item?id=36974975) - [Tailwind CSS and the death of web craftsmanship](https://pdx.su/blog/2023-07-26-tailwind-and-the-death-of-craftsmanship/)
 * [2023-08-02, 18:14:04](https://news.ycombinator.com/item?id=36974681) - [LK99: Team of Southeast University observed zero resistance below 110 K](https://twitter.com/lipez400/status/1686793608626663441)
 * [2023-08-02, 17:51:53](https://news.ycombinator.com/item?id=36974358) - [Apple stole $100s from me, Customer Service says there's nothing they can do](https://old.reddit.com/r/applehelp/comments/15gechw/apple_just_stole_hundreds_of_dollars_from_me/)
