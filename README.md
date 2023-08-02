@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-02, 18:14:04](https://news.ycombinator.com/item?id=36974681) - [LK99: Team of Southeast University observed zero resistance below 110 K](https://twitter.com/lipez400/status/1686793608626663441)
 * [2023-08-02, 17:51:53](https://news.ycombinator.com/item?id=36974358) - [Apple stole $100s from me, Customer Service says there's nothing they can do](https://old.reddit.com/r/applehelp/comments/15gechw/apple_just_stole_hundreds_of_dollars_from_me/)
 * [2023-08-02, 17:51:51](https://news.ycombinator.com/item?id=36974357) - [Washington, DC, avoided the worst price rises that have plagued American cities](https://worksinprogress.co/issue/how-dc-densified)
 * [2023-08-02, 17:35:00](https://news.ycombinator.com/item?id=36974096) - [Australians fight for the right to work from home permanently](https://www.reuters.com/world/asia-pacific/point-no-return-australians-fight-right-work-home-permanently-2023-08-01/)
@@ -16,7 +17,6 @@
 * [2023-08-02, 15:21:57](https://news.ycombinator.com/item?id=36972134) - [Adtech is built on a privacy fault line](https://iapp.org/news/a/a-view-from-dc-adtech-is-built-on-a-privacy-fault-line/)
 * [2023-08-02, 15:11:48](https://news.ycombinator.com/item?id=36971975) - [A Non-Mathematical Introduction to Kalman Filters for Programmers](https://praveshkoirala.com/2023/06/13/a-non-mathematical-introduction-to-kalman-filters-for-programmers/)
 * [2023-08-02, 15:05:16](https://news.ycombinator.com/item?id=36971888) - [How I discovered the underground world of credit card network exploitation](https://chargebackstop.com/blog/card-networks-exploitation/)
-* [2023-08-02, 15:00:43](https://news.ycombinator.com/item?id=36971826) - [Many people in finance, sales and management feel their jobs are pointless](https://www.news.uzh.ch/en/articles/media/2023/Jobs.html)
 * [2023-08-02, 13:36:45](https://news.ycombinator.com/item?id=36970702) - [Does Cloudflare’s 1.1.1.1 DNS Block Archive.is? (2019)](https://jarv.is/notes/cloudflare-dns-archive-is-blocked/)
 * [2023-08-02, 12:45:59](https://news.ycombinator.com/item?id=36970135) - [Launch HN: Certainly Health (YC S23) – Book doctors without surprise bills](https://news.ycombinator.com/item?id=36970135)
 * [2023-08-02, 11:35:59](https://news.ycombinator.com/item?id=36969473) - [Why edge detection doesn’t explain line drawing](https://aaronhertzmann.com/2020/04/19/lines-as-edges.html)
