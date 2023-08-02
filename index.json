@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-02, 15:37:44",
+      "https://news.ycombinator.com/item?id=36972367"
+    ],
+    [
+      "STL: The Vector",
+      "https://devblogs.microsoft.com/oldnewthing/20230802-00/?p=108524"
+    ]
+  ],
+  [
+    [
+      "2023-08-02, 15:36:31",
+      "https://news.ycombinator.com/item?id=36972347"
+    ],
+    [
+      "Meta Open Sources AudioCraft: Generative AI for Audio",
+      "https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/"
+    ]
+  ],
+  [
+    [
       "2023-08-02, 15:11:48",
       "https://news.ycombinator.com/item?id=36971975"
     ],
@@ -31,32 +51,12 @@
   ],
   [
     [
-      "2023-08-02, 15:03:20",
-      "https://news.ycombinator.com/item?id=36971867"
-    ],
-    [
-      "Our new flagship distro: Fedora Asahi Remix",
-      "https://asahilinux.org/2023/08/fedora-asahi-remix/"
-    ]
-  ],
-  [
-    [
       "2023-08-02, 14:35:52",
       "https://news.ycombinator.com/item?id=36971490"
     ],
     [
       "CodeCov is now Open Source",
       "https://about.codecov.io/blog/codecov-is-now-open-source/"
-    ]
-  ],
-  [
-    [
-      "2023-08-02, 14:16:54",
-      "https://news.ycombinator.com/item?id=36971220"
-    ],
-    [
-      "How Japan is tackling a syndrome that creates recluses",
-      "https://www.telegraph.co.uk/global-health/climate-and-people/japan-recluse-generation-hikikomori-shut-in-syndrome/"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2023-08-02, 05:17:04",
-      "https://news.ycombinator.com/item?id=36967205"
-    ],
-    [
-      "Reading SEC filings using LLMs",
-      "https://www.beatandraise.com/"
-    ]
-  ],
-  [
-    [
       "2023-08-02, 03:31:57",
       "https://news.ycombinator.com/item?id=36966653"
     ],
@@ -237,6 +227,16 @@
     [
       "Electronic Structure of LK-99",
       "https://arxiv.org/abs/2308.00676"
+    ]
+  ],
+  [
+    [
+      "2023-08-01, 19:54:46",
+      "https://news.ycombinator.com/item?id=36961734"
+    ],
+    [
+      "Hacker mods an M1 Mac mini to receive power over Ethernet instead of AC",
+      "https://www.inferse.com/660551/hardware-hacker-mods-an-m1-mac-mini-to-receive-power-over-ethernet-instead-of-the-ac-input/"
     ]
   ],
   [
