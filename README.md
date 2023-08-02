@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-02, 05:17:04](https://news.ycombinator.com/item?id=36967205) - [Reading SEC filings using LLMs](https://www.beatandraise.com/)
 * [2023-08-02, 03:31:57](https://news.ycombinator.com/item?id=36966653) - [I'm Betting on HTML](https://catskull.net/html.html)
 * [2023-08-02, 02:12:25](https://news.ycombinator.com/item?id=36966116) - [Enu – 3D live coding, implemented in Nim](https://github.com/dsrw/enu)
 * [2023-08-02, 01:54:26](https://news.ycombinator.com/item?id=36965993) - [Patterns for Building LLM-Based Systems and Products](https://eugeneyan.com/writing/llm-patterns/)
@@ -24,7 +25,6 @@
 * [2023-08-01, 15:52:57](https://news.ycombinator.com/item?id=36957678) - [A room-temperature superconductor? New developments](https://www.science.org/content/blog-post/room-temperature-superconductor-new-developments)
 * [2023-08-01, 15:24:51](https://news.ycombinator.com/item?id=36957204) - [Launch HN: Tiptap (YC S23) – Toolkit for developing collaborative editors](https://news.ycombinator.com/item?id=36957204)
 * [2023-08-01, 15:02:08](https://news.ycombinator.com/item?id=36956867) - [Ask HN: Who is hiring? (August 2023)](https://news.ycombinator.com/item?id=36956867)
-* [2023-08-01, 13:46:48](https://news.ycombinator.com/item?id=36955885) - [YKK: Japan’s Zipper King [video]](https://www.youtube.com/watch?v=9d6eNmtHFQk)
 * [2023-08-01, 12:31:10](https://news.ycombinator.com/item?id=36955146) - [Splitting the Web](https://ploum.net/2023-08-01-splitting-the-web.html)
 * [2023-07-31, 15:59:02](https://news.ycombinator.com/item?id=36944611) - [An Open-Source, Free Circuit Simulator](https://hackaday.com/2023/07/30/an-open-source-free-circuit-simulator/)
 * [2023-07-31, 14:30:40](https://news.ycombinator.com/item?id=36943091) - [Epicycle Clock](https://sophiehoulden.com/randomstuff/epitime/?revised)
