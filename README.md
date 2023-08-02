@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-02, 13:59:45](https://news.ycombinator.com/item?id=36971003) - [Excuse me, is there a problem?](https://longform.asmartbear.com/problem/)
+* [2023-08-02, 13:36:45](https://news.ycombinator.com/item?id=36970702) - [Does Cloudflare’s 1.1.1.1 DNS Block Archive.is? (2019)](https://jarv.is/notes/cloudflare-dns-archive-is-blocked/)
 * [2023-08-02, 13:12:00](https://news.ycombinator.com/item?id=36970413) - [Tired of Dating Apps, Some Turn to Google Docs](https://www.nytimes.com/2023/08/02/style/date-me-docs.html)
 * [2023-08-02, 12:45:59](https://news.ycombinator.com/item?id=36970135) - [Launch HN: Certainly Health (YC S23) – Book doctors without surprise bills](https://news.ycombinator.com/item?id=36970135)
-* [2023-08-02, 12:23:45](https://news.ycombinator.com/item?id=36969897) - [Ask HN: Who is using small OS LLMs in production?](https://news.ycombinator.com/item?id=36969897)
 * [2023-08-02, 11:35:59](https://news.ycombinator.com/item?id=36969473) - [Why Edge Detection Doesn’t Explain Line Drawing](https://aaronhertzmann.com/2020/04/19/lines-as-edges.html)
 * [2023-08-02, 10:24:25](https://news.ycombinator.com/item?id=36969022) - [Win11Debloat is a simple script that removes pre-installed windows bloatware](https://github.com/Raphire/Win11Debloat)
 * [2023-08-02, 09:10:02](https://news.ycombinator.com/item?id=36968670) - [Harvard professor Francesca Gino was accused of faking data](https://www.businessinsider.com/harvard-francesca-gino-fake-data-fraud-allegations-scholar-2023-7)
@@ -21,7 +22,6 @@
 * [2023-08-01, 22:28:55](https://news.ycombinator.com/item?id=36964107) - [Unconfirmed video showing potential LK-99 sample exhibiting the Meissner effect](https://twitter.com/zebulgar/status/1686498517227814912)
 * [2023-08-01, 19:54:46](https://news.ycombinator.com/item?id=36961734) - [Hacker mods an M1 Mac mini to receive power over Ethernet instead of AC](https://www.inferse.com/660551/hardware-hacker-mods-an-m1-mac-mini-to-receive-power-over-ethernet-instead-of-the-ac-input/)
 * [2023-08-01, 18:51:09](https://news.ycombinator.com/item?id=36960625) - [Pixar, Adobe, Apple, Autodesk, and Nvidia form alliance for OpenUSD](https://www.apple.com/newsroom/2023/08/pixar-adobe-apple-autodesk-and-nvidia-form-alliance-for-openusd/)
-* [2023-08-01, 18:31:31](https://news.ycombinator.com/item?id=36960309) - [Emacs is my new window manager](https://howardism.org/Technical/Emacs/new-window-manager.html)
 * [2023-08-01, 15:52:57](https://news.ycombinator.com/item?id=36957678) - [A room-temperature superconductor? New developments](https://www.science.org/content/blog-post/room-temperature-superconductor-new-developments)
 * [2023-08-01, 15:24:51](https://news.ycombinator.com/item?id=36957204) - [Launch HN: Tiptap (YC S23) – Toolkit for developing collaborative editors](https://news.ycombinator.com/item?id=36957204)
 * [2023-08-01, 15:02:08](https://news.ycombinator.com/item?id=36956867) - [Ask HN: Who is hiring? (August 2023)](https://news.ycombinator.com/item?id=36956867)
