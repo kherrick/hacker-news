@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-02, 11:02:46](https://news.ycombinator.com/item?id=36969271) - [Fitch downgrades U.S. after debt limit stalemate](https://www.politico.com/news/2023/08/01/fitch-downgrades-u-s-debt-00109288)
 * [2023-08-02, 10:43:28](https://news.ycombinator.com/item?id=36969144) - [South America is living one of the climate extreme events](https://twitter.com/extremetemps/status/1686485331539820545)
 * [2023-08-02, 09:10:02](https://news.ycombinator.com/item?id=36968670) - [Harvard professor Francesca Gino was accused of faking data](https://www.businessinsider.com/harvard-francesca-gino-fake-data-fraud-allegations-scholar-2023-7)
 * [2023-08-02, 08:06:50](https://news.ycombinator.com/item?id=36968273) - [VkFFT: Vulkan/CUDA/Hip/OpenCL/Level Zero/Metal Fast Fourier Transform Library](https://github.com/DTolm/VkFFT)
 * [2023-08-02, 07:59:01](https://news.ycombinator.com/item?id=36968218) - [HMRC (UK Tax Authority) Persuing Uber for £386M (~$487M) Vat](https://twitter.com/DanNeidle/status/1686643943432232962)
+* [2023-08-02, 07:50:40](https://news.ycombinator.com/item?id=36968172) - [Why We Choose Liars as Leaders](https://journals.aom.org/doi/10.5465/amp.2021.0063.summary)
 * [2023-08-02, 07:01:12](https://news.ycombinator.com/item?id=36967873) - [Bitmovin (YC S15) Is Hiring in Austria](https://bitmovin.com/careers/)
 * [2023-08-02, 06:52:45](https://news.ycombinator.com/item?id=36967829) - [The Beetle That Heads for the ‘Back Door’ When Eaten by a Frog](https://www.smithsonianmag.com/smart-news/when-beetle-gets-eaten-frog-it-forces-its-way-out-back-door-180975484/)
 * [2023-08-02, 06:16:57](https://news.ycombinator.com/item?id=36967594) - [Stopping at 90%](https://austinhenley.com/blog/90percent.html)
@@ -15,7 +17,6 @@
 * [2023-08-02, 00:57:46](https://news.ycombinator.com/item?id=36965545) - [Electronic Structure of LK-99](https://arxiv.org/abs/2308.00676)
 * [2023-08-01, 22:46:06](https://news.ycombinator.com/item?id=36964300) - [Bored? How about trying a Linux speedrun? (2020)](https://rachelbythebay.com/w/2020/04/11/pengrun/)
 * [2023-08-01, 22:28:55](https://news.ycombinator.com/item?id=36964107) - [Unconfirmed video showing potential LK-99 sample exhibiting the Meissner effect](https://twitter.com/zebulgar/status/1686498517227814912)
-* [2023-08-01, 21:24:08](https://news.ycombinator.com/item?id=36963200) - [Transform your Android device into a Linux desktop](https://mrs-t.medium.com/transform-your-android-device-into-a-linux-desktop-110a3d084ac6)
 * [2023-08-01, 19:54:46](https://news.ycombinator.com/item?id=36961734) - [Hacker mods an M1 Mac mini to receive power over Ethernet instead of AC](https://www.inferse.com/660551/hardware-hacker-mods-an-m1-mac-mini-to-receive-power-over-ethernet-instead-of-the-ac-input/)
 * [2023-08-01, 18:51:09](https://news.ycombinator.com/item?id=36960625) - [Pixar, Adobe, Apple, Autodesk, and Nvidia form alliance for OpenUSD](https://www.apple.com/newsroom/2023/08/pixar-adobe-apple-autodesk-and-nvidia-form-alliance-for-openusd/)
 * [2023-08-01, 16:57:08](https://news.ycombinator.com/item?id=36958731) - [Show HN: Magic Loops – Combine LLMs and code to create simple automations](https://magicloops.dev)
@@ -27,7 +28,6 @@
 * [2023-07-31, 15:59:02](https://news.ycombinator.com/item?id=36944611) - [An open-source, free circuit simulator](https://hackaday.com/2023/07/30/an-open-source-free-circuit-simulator/)
 * [2023-07-31, 14:30:40](https://news.ycombinator.com/item?id=36943091) - [Epicycle Clock](https://sophiehoulden.com/randomstuff/epitime/?revised)
 * [2023-07-31, 12:56:37](https://news.ycombinator.com/item?id=36941885) - [Two supermoons in August](https://phys.org/news/2023-07-supermoons-august-stargazing-fun.html)
-* [2023-07-31, 12:55:38](https://news.ycombinator.com/item?id=36941878) - [Scientists Watch Broken Metal Heal Itself](https://nautil.us/scientists-watch-broken-metal-heal-itself-356873/)
 * [2023-07-31, 12:40:07](https://news.ycombinator.com/item?id=36941720) - [Shamir Secret Sharing](https://max.levch.in/post/724289457144070144/shamir-secret-sharing)
 * [2023-07-31, 12:24:51](https://news.ycombinator.com/item?id=36941551) - [Flashdown: A terminal based Flashcard app using plain text files](https://github.com/SteveRidout/flashdown)
 
