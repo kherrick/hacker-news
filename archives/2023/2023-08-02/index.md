@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
+* [2023-08-02, 15:40:04](https://news.ycombinator.com/item?id=36972398) - [Reflex – Web apps in pure Python](https://github.com/reflex-dev/reflex)
 * [2023-08-02, 15:37:44](https://news.ycombinator.com/item?id=36972367) - [STL: The Vector](https://devblogs.microsoft.com/oldnewthing/20230802-00/?p=108524)
 * [2023-08-02, 15:36:31](https://news.ycombinator.com/item?id=36972347) - [Meta Open Sources AudioCraft: Generative AI for Audio](https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/)
+* [2023-08-02, 15:28:42](https://news.ycombinator.com/item?id=36972227) - [Universal Paperclips](https://www.decisionproblem.com/paperclips/index2.html)
 * [2023-08-02, 15:11:48](https://news.ycombinator.com/item?id=36971975) - [A Non-Mathematical Introduction to Kalman Filters for Programmers](https://praveshkoirala.com/2023/06/13/a-non-mathematical-introduction-to-kalman-filters-for-programmers/)
 * [2023-08-02, 15:06:59](https://news.ycombinator.com/item?id=36971910) - [“The Onion” founder explains his strategy for sparking creativity](https://bigthink.com/the-learning-curve/the-onion-founder-strategies-sparking-creativity/)
 * [2023-08-02, 15:05:16](https://news.ycombinator.com/item?id=36971888) - [How I discovered the underground world of credit card network exploitation](https://chargebackstop.com/blog/card-networks-exploitation/)
