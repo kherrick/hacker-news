@@ -3,7 +3,7 @@
 * [2023-08-02, 07:01:12](https://news.ycombinator.com/item?id=36967873) - [Bitmovin (YC S15) Is Hiring in Austria](https://bitmovin.com/careers/)
 * [2023-08-02, 06:58:44](https://news.ycombinator.com/item?id=36967859) - [One thing that has changed in the professional game industry is that](https://mastodon.social/@pervognsen/110818513161468960)
 * [2023-08-02, 06:52:45](https://news.ycombinator.com/item?id=36967829) - [The Beetle That Heads for the ‘Back Door’ When Eaten by a Frog](https://www.smithsonianmag.com/smart-news/when-beetle-gets-eaten-frog-it-forces-its-way-out-back-door-180975484/)
-* [2023-08-02, 06:15:09](https://news.ycombinator.com/item?id=36967579) - [Encyclopedia of Life](https://eol.org/)
+* [2023-08-02, 06:16:57](https://news.ycombinator.com/item?id=36967594) - [Stopping at 90%](https://austinhenley.com/blog/90percent.html)
 * [2023-08-02, 05:17:04](https://news.ycombinator.com/item?id=36967205) - [Reading SEC filings using LLMs](https://www.beatandraise.com/)
 * [2023-08-02, 03:31:57](https://news.ycombinator.com/item?id=36966653) - [I'm betting on HTML](https://catskull.net/html.html)
 * [2023-08-02, 02:12:25](https://news.ycombinator.com/item?id=36966116) - [Enu – 3D live coding, implemented in Nim](https://github.com/dsrw/enu)
