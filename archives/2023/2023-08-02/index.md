@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
+* [2023-08-02, 14:16:54](https://news.ycombinator.com/item?id=36971220) - [How Japan is tackling a syndrome that creates recluses](https://www.telegraph.co.uk/global-health/climate-and-people/japan-recluse-generation-hikikomori-shut-in-syndrome/)
+* [2023-08-02, 13:59:47](https://news.ycombinator.com/item?id=36971004) - [Earth Overshoot Day](https://www.overshootday.org/about/)
 * [2023-08-02, 13:59:45](https://news.ycombinator.com/item?id=36971003) - [Excuse me, is there a problem?](https://longform.asmartbear.com/problem/)
 * [2023-08-02, 13:49:34](https://news.ycombinator.com/item?id=36970882) - [After the Bomb](https://time.com/after-the-bomb/)
 * [2023-08-02, 13:36:45](https://news.ycombinator.com/item?id=36970702) - [Does Cloudflare’s 1.1.1.1 DNS Block Archive.is? (2019)](https://jarv.is/notes/cloudflare-dns-archive-is-blocked/)
 * [2023-08-02, 13:34:11](https://news.ycombinator.com/item?id=36970678) - [Stripe Account CLOSED for no reason and with no explanation](https://news.ycombinator.com/item?id=36970678)
 * [2023-08-02, 13:12:00](https://news.ycombinator.com/item?id=36970413) - [Tired of Dating Apps, Some Turn to Google Docs](https://www.nytimes.com/2023/08/02/style/date-me-docs.html)
+* [2023-08-02, 13:02:00](https://news.ycombinator.com/item?id=36970305) - [Why Rust helps even if you have to use a lot of `unsafe`](https://v5.chriskrycho.com/journal/unsafe/)
 * [2023-08-02, 12:51:55](https://news.ycombinator.com/item?id=36970196) - [US universities need to stop elitist discrimination that Europe abandoned](https://www.bloomberg.com/opinion/articles/2023-08-02/junking-legacy-admissions-at-top-us-schools-is-just-a-baby-step)
 * [2023-08-02, 12:45:59](https://news.ycombinator.com/item?id=36970135) - [Launch HN: Certainly Health (YC S23) – Book doctors without surprise bills](https://news.ycombinator.com/item?id=36970135)
 * [2023-08-02, 12:23:45](https://news.ycombinator.com/item?id=36969897) - [Ask HN: Who is using small OS LLMs in production?](https://news.ycombinator.com/item?id=36969897)
