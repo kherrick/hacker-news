@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
+* [2023-08-02, 12:23:45](https://news.ycombinator.com/item?id=36969897) - [Ask HN: Who is using small OS LLMs in production?](https://news.ycombinator.com/item?id=36969897)
 * [2023-08-02, 12:14:28](https://news.ycombinator.com/item?id=36969803) - [Lawmakers propose 'speed limiters' for repeat offenders in New York](https://spectrumlocalnews.com/nys/central-ny/news/2023/08/01/lawmakers-propose-installing--speed-limiters--in-vehicles-of-repeat-speeders)
 * [2023-08-02, 12:05:57](https://news.ycombinator.com/item?id=36969709) - [Show HN: Adapt framework – build privacy-by-design peer-to-peer applications](https://www.adaptframework.solutions/)
 * [2023-08-02, 11:40:59](https://news.ycombinator.com/item?id=36969500) - ['Cancer-killing pill' is now being tested on humans](https://news.sky.com/story/cancer-killing-pill-that-appears-to-annihilate-solid-tumours-is-now-being-tested-on-humans-12932133)
