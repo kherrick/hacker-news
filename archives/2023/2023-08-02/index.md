@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
+* [2023-08-02, 12:14:28](https://news.ycombinator.com/item?id=36969803) - [Lawmakers propose 'speed limiters' for repeat offenders in New York](https://spectrumlocalnews.com/nys/central-ny/news/2023/08/01/lawmakers-propose-installing--speed-limiters--in-vehicles-of-repeat-speeders)
+* [2023-08-02, 12:05:57](https://news.ycombinator.com/item?id=36969709) - [Show HN: Adapt framework – build privacy-by-design peer-to-peer applications](https://www.adaptframework.solutions/)
+* [2023-08-02, 11:40:59](https://news.ycombinator.com/item?id=36969500) - ['Cancer-killing pill' is now being tested on humans](https://news.sky.com/story/cancer-killing-pill-that-appears-to-annihilate-solid-tumours-is-now-being-tested-on-humans-12932133)
 * [2023-08-02, 11:35:59](https://news.ycombinator.com/item?id=36969473) - [Why Edge Detection Doesn’t Explain Line Drawing](https://aaronhertzmann.com/2020/04/19/lines-as-edges.html)
 * [2023-08-02, 11:26:45](https://news.ycombinator.com/item?id=36969412) - [Ask HN: Why is LK-99 public?](https://news.ycombinator.com/item?id=36969412)
 * [2023-08-02, 11:02:46](https://news.ycombinator.com/item?id=36969271) - [Fitch downgrades U.S. after debt limit stalemate](https://www.politico.com/news/2023/08/01/fitch-downgrades-u-s-debt-00109288)
 * [2023-08-02, 10:43:28](https://news.ycombinator.com/item?id=36969144) - [South America is living one of the climate extreme events](https://twitter.com/extremetemps/status/1686485331539820545)
+* [2023-08-02, 10:24:25](https://news.ycombinator.com/item?id=36969022) - [Win11Debloat is a simple script that removes pre-installed windows bloatware](https://github.com/Raphire/Win11Debloat)
 * [2023-08-02, 10:02:34](https://news.ycombinator.com/item?id=36968914) - [Remote work is the reason why Wall Street was wrong about a recession](https://fortune.com/2023/08/01/remote-work-preventing-economy-from-recession/)
 * [2023-08-02, 09:10:02](https://news.ycombinator.com/item?id=36968670) - [Harvard professor Francesca Gino was accused of faking data](https://www.businessinsider.com/harvard-francesca-gino-fake-data-fraud-allegations-scholar-2023-7)
 * [2023-08-02, 08:18:10](https://news.ycombinator.com/item?id=36968356) - [OpenAI filed a patent for GPT-5](https://uspto.report/TM/98089548)
