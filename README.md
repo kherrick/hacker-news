@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-02, 02:12:25](https://news.ycombinator.com/item?id=36966116) - [Enu – 3D live coding, implemented in Nim](https://github.com/dsrw/enu)
 * [2023-08-02, 01:54:26](https://news.ycombinator.com/item?id=36965993) - [Patterns for Building LLM-Based Systems and Products](https://eugeneyan.com/writing/llm-patterns/)
 * [2023-08-02, 01:12:42](https://news.ycombinator.com/item?id=36965678) - [The Psychology of Cults – Syllabus (Harvard)](https://harvard.simplesyllabus.com/en-US/doc/1qjc9dp1v)
 * [2023-08-02, 00:57:46](https://news.ycombinator.com/item?id=36965545) - [Electronic Structure of LK-99](https://arxiv.org/abs/2308.00676)
@@ -30,6 +29,7 @@
 * [2023-07-31, 14:30:40](https://news.ycombinator.com/item?id=36943091) - [Epicycle Clock](https://sophiehoulden.com/randomstuff/epitime/?revised)
 * [2023-07-31, 12:56:37](https://news.ycombinator.com/item?id=36941885) - [Two supermoons in August](https://phys.org/news/2023-07-supermoons-august-stargazing-fun.html)
 * [2023-07-31, 12:24:51](https://news.ycombinator.com/item?id=36941551) - [Flashdown: A terminal based Flashcard app using plain text files](https://github.com/SteveRidout/flashdown)
+* [2023-07-31, 11:56:06](https://news.ycombinator.com/item?id=36941312) - [Researchers create open-source platform for Neural Radiance Field development](https://engineering.berkeley.edu/news/2023/07/researchers-create-open-source-platform-for-neural-radiance-field-development/)
 
 ## [Archives](archives/index.md)
 
