@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-02, 23:36:50](https://news.ycombinator.com/item?id=36979389) - [Jim Larkin, Backpage Exec, Dies by Suicide a Week Before His Trial](https://www.techdirt.com/2023/08/02/jim-larkin-backpage-exec-dies-by-suicide-a-week-before-his-trial/)
 * [2023-08-02, 22:50:33](https://news.ycombinator.com/item?id=36978931) - [High Dynamic Time Range Images](http://mkweb.bcgsc.ca/fun/hdtr/)
 * [2023-08-02, 22:05:04](https://news.ycombinator.com/item?id=36978350) - [EXP TV – endless stream of obscure media and video ephemera](https://exptv.org/)
 * [2023-08-02, 21:54:40](https://news.ycombinator.com/item?id=36978199) - [New targeted chemotherapy able to kill all solid tumors in preclinical research](https://www.eurekalert.org/news-releases/997141)
@@ -17,7 +18,6 @@
 * [2023-08-02, 16:54:59](https://news.ycombinator.com/item?id=36973498) - [Academy Software Foundation Announces OpenPBR, a New Subproject of MaterialX](https://www.aswf.io/blog/academy-software-foundation-announces-openpbr-a-new-subproject-of-materialx/)
 * [2023-08-02, 16:40:17](https://news.ycombinator.com/item?id=36973287) - [Coming Soon: Fedora for Apple Silicon Macs](https://fedoramagazine.org/coming-soon-fedora-for-apple-silicon-macs/)
 * [2023-08-02, 16:18:00](https://news.ycombinator.com/item?id=36972961) - [On the (nearly lethal) comforts of a luxury cruise (1996) [pdf]](https://harpers.org/wp-content/uploads/2008/09/HarpersMagazine-1996-01-0007859.pdf)
-* [2023-08-02, 16:06:29](https://news.ycombinator.com/item?id=36972790) - [Dimeadozen.ai – AI-powered market research for any startup](https://www.dimeadozen.ai/)
 * [2023-08-02, 15:40:04](https://news.ycombinator.com/item?id=36972398) - [Reflex – Web apps in pure Python](https://github.com/reflex-dev/reflex)
 * [2023-08-02, 15:36:31](https://news.ycombinator.com/item?id=36972347) - [Open-sourcing AudioCraft: Generative AI for audio](https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/)
 * [2023-08-02, 15:11:48](https://news.ycombinator.com/item?id=36971975) - [A non-mathematical introduction to Kalman filters for programmers](https://praveshkoirala.com/2023/06/13/a-non-mathematical-introduction-to-kalman-filters-for-programmers/)

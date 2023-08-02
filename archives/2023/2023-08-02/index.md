@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
+* [2023-08-02, 23:36:50](https://news.ycombinator.com/item?id=36979389) - [Jim Larkin, Backpage Exec, Dies by Suicide a Week Before His Trial](https://www.techdirt.com/2023/08/02/jim-larkin-backpage-exec-dies-by-suicide-a-week-before-his-trial/)
 * [2023-08-02, 22:50:33](https://news.ycombinator.com/item?id=36978931) - [High Dynamic Time Range Images](http://mkweb.bcgsc.ca/fun/hdtr/)
 * [2023-08-02, 22:08:05](https://news.ycombinator.com/item?id=36978405) - [Pollution cuts have diminished “ship track” clouds, adding to global warming](https://www.science.org/content/article/changing-clouds-unforeseen-test-geoengineering-fueling-record-ocean-warmth)
 * [2023-08-02, 22:05:04](https://news.ycombinator.com/item?id=36978350) - [EXP TV – endless stream of obscure media and video ephemera](https://exptv.org/)
