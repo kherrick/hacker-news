@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
+* [2023-08-02, 21:38:12](https://news.ycombinator.com/item?id=36977962) - [Internet providers that won FCC grants try to escape broadband commitments](https://arstechnica.com/tech-policy/2023/08/internet-providers-that-won-fcc-grants-try-to-escape-broadband-commitments/)
 * [2023-08-02, 21:31:24](https://news.ycombinator.com/item?id=36977863) - [Meta’s Reality Lab Prototype Hardware](https://www.meta.com/en-gb/blog/quest/reality-labs-research-display-systems-siggraph-2023-butterscotch-varifocal-flamera/)
+* [2023-08-02, 21:17:15](https://news.ycombinator.com/item?id=36977624) - [Infinite Mac Now Supports Disks, CD-ROMs and Custom Instances](https://blog.persistent.info/2023/08/infinite-mac-cd-roms.html)
 * [2023-08-02, 21:16:01](https://news.ycombinator.com/item?id=36977606) - [DotDict: A simple Python library to make chained attributes possible](https://github.com/nick-at-dave/DotDict)
 * [2023-08-02, 21:04:46](https://news.ycombinator.com/item?id=36977427) - [Most cars still cost more to charge than to fill up with gas](https://www.businessinsider.com/ev-charging-cost-versus-gas-car-truck-suv-2023-7)
 * [2023-08-02, 20:43:10](https://news.ycombinator.com/item?id=36977107) - [ChromeOS is splitting the browser from the OS, getting more Linux-y](https://arstechnica.com/gadgets/2023/08/google-is-finally-separating-chrome-from-chromeos-for-easier-updates/)
