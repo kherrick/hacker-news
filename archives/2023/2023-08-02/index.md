@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
 * [2023-08-02, 18:50:15](https://news.ycombinator.com/item?id=36975245) - [Cookbook: Finetuning Llama 2 in your own cloud environment, privately](https://blog.skypilot.co/finetuning-llama2-operational-guide/)
+* [2023-08-02, 18:43:52](https://news.ycombinator.com/item?id=36975143) - [Cops still take more stuff from people than burglars do](https://thewhyaxis.substack.com/p/cops-still-take-more-stuff-from-people)
 * [2023-08-02, 18:33:35](https://news.ycombinator.com/item?id=36974975) - [Tailwind CSS and the death of web craftsmanship](https://pdx.su/blog/2023-07-26-tailwind-and-the-death-of-craftsmanship/)
 * [2023-08-02, 18:14:04](https://news.ycombinator.com/item?id=36974681) - [LK99: Team of Southeast University observed zero resistance below 110 K](https://twitter.com/lipez400/status/1686793608626663441)
 * [2023-08-02, 17:51:53](https://news.ycombinator.com/item?id=36974358) - [Apple stole $100s from me, Customer Service says there's nothing they can do](https://old.reddit.com/r/applehelp/comments/15gechw/apple_just_stole_hundreds_of_dollars_from_me/)
@@ -38,6 +39,7 @@
 * [2023-08-02, 13:49:34](https://news.ycombinator.com/item?id=36970882) - [After the Bomb](https://time.com/after-the-bomb/)
 * [2023-08-02, 13:36:45](https://news.ycombinator.com/item?id=36970702) - [Does Cloudflare’s 1.1.1.1 DNS Block Archive.is? (2019)](https://jarv.is/notes/cloudflare-dns-archive-is-blocked/)
 * [2023-08-02, 13:34:11](https://news.ycombinator.com/item?id=36970678) - [Stripe Account CLOSED for no reason and with no explanation](https://news.ycombinator.com/item?id=36970678)
+* [2023-08-02, 13:17:08](https://news.ycombinator.com/item?id=36970467) - [Horrifying numbers of Americans will not make it to old age](https://www.economist.com/united-states/2023/07/31/horrifying-numbers-of-americans-will-not-make-it-to-old-age)
 * [2023-08-02, 13:12:00](https://news.ycombinator.com/item?id=36970413) - [Tired of Dating Apps, Some Turn to Google Docs](https://www.nytimes.com/2023/08/02/style/date-me-docs.html)
 * [2023-08-02, 13:02:00](https://news.ycombinator.com/item?id=36970305) - [Why Rust helps even if you have to use a lot of `unsafe`](https://v5.chriskrycho.com/journal/unsafe/)
 * [2023-08-02, 12:51:55](https://news.ycombinator.com/item?id=36970196) - [US universities need to stop elitist discrimination that Europe abandoned](https://www.bloomberg.com/opinion/articles/2023-08-02/junking-legacy-admissions-at-top-us-schools-is-just-a-baby-step)
