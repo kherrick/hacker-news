@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-02, 05:17:04](https://news.ycombinator.com/item?id=36967205) - [Reading SEC filings using LLMs](https://www.beatandraise.com/)
-* [2023-08-02, 05:06:18](https://news.ycombinator.com/item?id=36967159) - [Stripe is no longer a suitable payment processor](https://news.ycombinator.com/item?id=36967159)
 * [2023-08-02, 03:31:57](https://news.ycombinator.com/item?id=36966653) - [I'm betting on HTML](https://catskull.net/html.html)
 * [2023-08-02, 02:12:25](https://news.ycombinator.com/item?id=36966116) - [Enu – 3D live coding, implemented in Nim](https://github.com/dsrw/enu)
 * [2023-08-02, 01:54:26](https://news.ycombinator.com/item?id=36965993) - [Patterns for building LLM-based systems and products](https://eugeneyan.com/writing/llm-patterns/)
@@ -11,6 +10,7 @@
 * [2023-08-01, 22:28:55](https://news.ycombinator.com/item?id=36964107) - [Unconfirmed video showing potential LK-99 sample exhibiting the Meissner effect](https://twitter.com/zebulgar/status/1686498517227814912)
 * [2023-08-01, 21:24:08](https://news.ycombinator.com/item?id=36963200) - [Transform your Android device into a Linux desktop](https://mrs-t.medium.com/transform-your-android-device-into-a-linux-desktop-110a3d084ac6)
 * [2023-08-01, 21:00:15](https://news.ycombinator.com/item?id=36962818) - [Watsi (YC W13) Is Hiring a Lead Engineer](https://news.ycombinator.com/item?id=36962818)
+* [2023-08-01, 20:41:00](https://news.ycombinator.com/item?id=36962502) - [Dear websites, stop asking for ransom sign-ups](https://iamvishnu.com/posts/randsom-signup)
 * [2023-08-01, 20:11:26](https://news.ycombinator.com/item?id=36961996) - [eGPU: A 750 MHz Class Soft GPGPU for FPGA](https://arxiv.org/abs/2307.08378)
 * [2023-08-01, 19:54:46](https://news.ycombinator.com/item?id=36961734) - [Hacker mods an M1 Mac mini to receive power over Ethernet instead of AC](https://www.inferse.com/660551/hardware-hacker-mods-an-m1-mac-mini-to-receive-power-over-ethernet-instead-of-the-ac-input/)
 * [2023-08-01, 19:35:45](https://news.ycombinator.com/item?id=36961445) - [Evading JavaScript anti-debugging techniques](https://www.nullpt.rs/evading-anti-debugging-techniques)
