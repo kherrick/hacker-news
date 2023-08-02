@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
+* [2023-08-02, 22:50:33](https://news.ycombinator.com/item?id=36978931) - [High Dynamic Time Range Images](http://mkweb.bcgsc.ca/fun/hdtr/)
 * [2023-08-02, 22:08:05](https://news.ycombinator.com/item?id=36978405) - [Pollution cuts have diminished “ship track” clouds, adding to global warming](https://www.science.org/content/article/changing-clouds-unforeseen-test-geoengineering-fueling-record-ocean-warmth)
 * [2023-08-02, 21:54:40](https://news.ycombinator.com/item?id=36978199) - [New targeted chemotherapy able to kill all solid tumors in preclinical research](https://www.eurekalert.org/news-releases/997141)
 * [2023-08-02, 21:52:31](https://news.ycombinator.com/item?id=36978176) - [Arizona driver says he was 'trapped' in hot Tesla after battery died](https://www.abc15.com/news/local-news/investigations/arizona-driver-says-he-was-trapped-in-hot-tesla-after-battery-died)
