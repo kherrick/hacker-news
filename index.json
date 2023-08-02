@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-08-02, 17:51:51",
-      "https://news.ycombinator.com/item?id=36974357"
-    ],
-    [
-      "Washington, DC, avoided the worst price rises that have plagued American cities",
-      "https://worksinprogress.co/issue/how-dc-densified"
-    ]
-  ],
-  [
-    [
       "2023-08-02, 17:35:00",
       "https://news.ycombinator.com/item?id=36974096"
     ],
@@ -237,6 +227,16 @@
     [
       "Why edge detection doesn’t explain line drawing",
       "https://aaronhertzmann.com/2020/04/19/lines-as-edges.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-02, 08:06:50",
+      "https://news.ycombinator.com/item?id=36968273"
+    ],
+    [
+      "VkFFT: Vulkan/CUDA/Hip/OpenCL/Level Zero/Metal Fast Fourier Transform Library",
+      "https://github.com/DTolm/VkFFT"
     ]
   ],
   [
