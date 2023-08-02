@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
 * [2023-08-02, 13:34:11](https://news.ycombinator.com/item?id=36970678) - [Stripe Account CLOSED for no reason and with no explanation](https://news.ycombinator.com/item?id=36970678)
+* [2023-08-02, 13:12:00](https://news.ycombinator.com/item?id=36970413) - [Tired of Dating Apps, Some Turn to Google Docs](https://www.nytimes.com/2023/08/02/style/date-me-docs.html)
 * [2023-08-02, 12:51:55](https://news.ycombinator.com/item?id=36970196) - [US universities need to stop elitist discrimination that Europe abandoned](https://www.bloomberg.com/opinion/articles/2023-08-02/junking-legacy-admissions-at-top-us-schools-is-just-a-baby-step)
 * [2023-08-02, 12:45:59](https://news.ycombinator.com/item?id=36970135) - [Launch HN: Certainly Health (YC S23) – Book doctors without surprise bills](https://news.ycombinator.com/item?id=36970135)
 * [2023-08-02, 12:23:45](https://news.ycombinator.com/item?id=36969897) - [Ask HN: Who is using small OS LLMs in production?](https://news.ycombinator.com/item?id=36969897)
@@ -22,6 +23,7 @@
 * [2023-08-02, 08:06:50](https://news.ycombinator.com/item?id=36968273) - [VkFFT: Vulkan/CUDA/Hip/OpenCL/Level Zero/Metal Fast Fourier Transform Library](https://github.com/DTolm/VkFFT)
 * [2023-08-02, 07:59:01](https://news.ycombinator.com/item?id=36968218) - [HMRC (UK Tax Authority) Persuing Uber for £386M (~$487M) Vat](https://twitter.com/DanNeidle/status/1686643943432232962)
 * [2023-08-02, 07:50:40](https://news.ycombinator.com/item?id=36968172) - [Why We Choose Liars as Leaders](https://journals.aom.org/doi/10.5465/amp.2021.0063.summary)
+* [2023-08-02, 07:20:41](https://news.ycombinator.com/item?id=36967992) - [Franz Kafka Was a Health Insurance Administrator](https://vienna.earth/plate/russell/kafka-insurance-career)
 * [2023-08-02, 07:01:12](https://news.ycombinator.com/item?id=36967873) - [Bitmovin (YC S15) Is Hiring in Austria](https://bitmovin.com/careers/)
 * [2023-08-02, 06:58:44](https://news.ycombinator.com/item?id=36967859) - [One thing that has changed in the professional game industry is that](https://mastodon.social/@pervognsen/110818513161468960)
 * [2023-08-02, 06:52:45](https://news.ycombinator.com/item?id=36967829) - [The Beetle That Heads for the ‘Back Door’ When Eaten by a Frog](https://www.smithsonianmag.com/smart-news/when-beetle-gets-eaten-frog-it-forces-its-way-out-back-door-180975484/)
