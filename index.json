@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2023-08-02, 17:35:00",
-      "https://news.ycombinator.com/item?id=36974096"
-    ],
-    [
-      "Australians fight for the right to work from home permanently",
-      "https://www.reuters.com/world/asia-pacific/point-no-return-australians-fight-right-work-home-permanently-2023-08-01/"
-    ]
-  ],
-  [
-    [
       "2023-08-02, 17:34:18",
       "https://news.ycombinator.com/item?id=36974082"
     ],
@@ -105,7 +95,7 @@
       "https://news.ycombinator.com/item?id=36973584"
     ],
     [
-      "Run Llama 2 Uncensored Locally",
+      "Run Llama 2 uncensored locally",
       "https://ollama.ai/blog/run-llama2-uncensored-locally"
     ]
   ],
@@ -165,7 +155,7 @@
       "https://news.ycombinator.com/item?id=36972347"
     ],
     [
-      "Meta Open Sources AudioCraft: Generative AI for Audio",
+      "Open-sourcing AudioCraft: Generative AI for audio",
       "https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/"
     ]
   ],
@@ -237,6 +227,16 @@
     [
       "Why edge detection doesn’t explain line drawing",
       "https://aaronhertzmann.com/2020/04/19/lines-as-edges.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-02, 08:06:50",
+      "https://news.ycombinator.com/item?id=36968273"
+    ],
+    [
+      "VkFFT: Vulkan/CUDA/Hip/OpenCL/Level Zero/Metal Fast Fourier Transform Library",
+      "https://github.com/DTolm/VkFFT"
     ]
   ],
   [
