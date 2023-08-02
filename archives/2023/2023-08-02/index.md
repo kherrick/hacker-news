@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
+* [2023-08-02, 11:35:59](https://news.ycombinator.com/item?id=36969473) - [Why Edge Detection Doesn’t Explain Line Drawing](https://aaronhertzmann.com/2020/04/19/lines-as-edges.html)
 * [2023-08-02, 11:26:45](https://news.ycombinator.com/item?id=36969412) - [Ask HN: Why is LK-99 public?](https://news.ycombinator.com/item?id=36969412)
 * [2023-08-02, 11:02:46](https://news.ycombinator.com/item?id=36969271) - [Fitch downgrades U.S. after debt limit stalemate](https://www.politico.com/news/2023/08/01/fitch-downgrades-u-s-debt-00109288)
 * [2023-08-02, 10:43:28](https://news.ycombinator.com/item?id=36969144) - [South America is living one of the climate extreme events](https://twitter.com/extremetemps/status/1686485331539820545)

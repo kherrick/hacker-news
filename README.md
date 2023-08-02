@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-02, 11:35:59](https://news.ycombinator.com/item?id=36969473) - [Why Edge Detection Doesn’t Explain Line Drawing](https://aaronhertzmann.com/2020/04/19/lines-as-edges.html)
 * [2023-08-02, 11:26:45](https://news.ycombinator.com/item?id=36969412) - [Ask HN: Why is LK-99 public?](https://news.ycombinator.com/item?id=36969412)
 * [2023-08-02, 11:02:46](https://news.ycombinator.com/item?id=36969271) - [Fitch downgrades U.S. after debt limit stalemate](https://www.politico.com/news/2023/08/01/fitch-downgrades-u-s-debt-00109288)
 * [2023-08-02, 10:43:28](https://news.ycombinator.com/item?id=36969144) - [South America is living one of the climate extreme events](https://twitter.com/extremetemps/status/1686485331539820545)
 * [2023-08-02, 09:10:02](https://news.ycombinator.com/item?id=36968670) - [Harvard professor Francesca Gino was accused of faking data](https://www.businessinsider.com/harvard-francesca-gino-fake-data-fraud-allegations-scholar-2023-7)
 * [2023-08-02, 08:06:50](https://news.ycombinator.com/item?id=36968273) - [VkFFT: Vulkan/CUDA/Hip/OpenCL/Level Zero/Metal Fast Fourier Transform Library](https://github.com/DTolm/VkFFT)
-* [2023-08-02, 07:59:01](https://news.ycombinator.com/item?id=36968218) - [HMRC (UK Tax Authority) Persuing Uber for £386M (~$487M) Vat](https://twitter.com/DanNeidle/status/1686643943432232962)
 * [2023-08-02, 07:50:40](https://news.ycombinator.com/item?id=36968172) - [Why We Choose Liars as Leaders](https://journals.aom.org/doi/10.5465/amp.2021.0063.summary)
 * [2023-08-02, 07:01:12](https://news.ycombinator.com/item?id=36967873) - [Bitmovin (YC S15) Is Hiring in Austria](https://bitmovin.com/careers/)
 * [2023-08-02, 06:52:45](https://news.ycombinator.com/item?id=36967829) - [The Beetle That Heads for the ‘Back Door’ When Eaten by a Frog](https://www.smithsonianmag.com/smart-news/when-beetle-gets-eaten-frog-it-forces-its-way-out-back-door-180975484/)
