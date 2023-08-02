@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-02, 03:31:57](https://news.ycombinator.com/item?id=36966653) - [I'm Betting on HTML](https://catskull.net/html.html)
 * [2023-08-02, 02:12:25](https://news.ycombinator.com/item?id=36966116) - [Enu – 3D live coding, implemented in Nim](https://github.com/dsrw/enu)
 * [2023-08-02, 01:54:26](https://news.ycombinator.com/item?id=36965993) - [Patterns for Building LLM-Based Systems and Products](https://eugeneyan.com/writing/llm-patterns/)
 * [2023-08-02, 01:12:42](https://news.ycombinator.com/item?id=36965678) - [The Psychology of Cults – Syllabus (Harvard)](https://harvard.simplesyllabus.com/en-US/doc/1qjc9dp1v)
@@ -25,7 +26,6 @@
 * [2023-08-01, 15:24:51](https://news.ycombinator.com/item?id=36957204) - [Launch HN: Tiptap (YC S23) – Toolkit for developing collaborative editors](https://news.ycombinator.com/item?id=36957204)
 * [2023-08-01, 15:02:08](https://news.ycombinator.com/item?id=36956867) - [Ask HN: Who is hiring? (August 2023)](https://news.ycombinator.com/item?id=36956867)
 * [2023-08-01, 12:31:10](https://news.ycombinator.com/item?id=36955146) - [Splitting the Web](https://ploum.net/2023-08-01-splitting-the-web.html)
-* [2023-08-01, 04:01:39](https://news.ycombinator.com/item?id=36952129) - [Ron’s Place](https://longreads.com/2023/07/13/how-an-extreme-diy-project-sparked-a-debate-about-art/)
 * [2023-07-31, 16:07:25](https://news.ycombinator.com/item?id=36944744) - [How ’e-prints’ add to or detract from online discussions](https://www.binghamton.edu/news/story/4426/researchers-look-at-how-e-prints-add-to-or-detract-from-online-discussions)
 * [2023-07-31, 14:30:40](https://news.ycombinator.com/item?id=36943091) - [Epicycle Clock](https://sophiehoulden.com/randomstuff/epitime/?revised)
 * [2023-07-31, 12:56:37](https://news.ycombinator.com/item?id=36941885) - [Two supermoons in August](https://phys.org/news/2023-07-supermoons-august-stargazing-fun.html)
