@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
+* [2023-08-02, 21:16:01](https://news.ycombinator.com/item?id=36977606) - [DotDict: A simple Python library to make chained attributes possible](https://github.com/nick-at-dave/DotDict)
 * [2023-08-02, 19:53:02](https://news.ycombinator.com/item?id=36976331) - [IRS Launches Paperless Processing Initiative](https://home.treasury.gov/news/press-releases/jy1666)
 * [2023-08-02, 19:41:40](https://news.ycombinator.com/item?id=36976124) - [Busting a Myth: “Only writers subscribe to genre magazines”](http://neil-clarke.com/busting-a-myth/)
 * [2023-08-02, 19:33:14](https://news.ycombinator.com/item?id=36975974) - [HackerOne lays off 12% of its workforce](https://www.hackerone.com/ceo/company-update)

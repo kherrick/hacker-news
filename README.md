@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-02, 21:16:01](https://news.ycombinator.com/item?id=36977606) - [DotDict: A simple Python library to make chained attributes possible](https://github.com/nick-at-dave/DotDict)
 * [2023-08-02, 19:53:02](https://news.ycombinator.com/item?id=36976331) - [IRS Launches Paperless Processing Initiative](https://home.treasury.gov/news/press-releases/jy1666)
 * [2023-08-02, 19:41:40](https://news.ycombinator.com/item?id=36976124) - [Busting a Myth: “Only writers subscribe to genre magazines”](http://neil-clarke.com/busting-a-myth/)
 * [2023-08-02, 19:17:07](https://news.ycombinator.com/item?id=36975701) - [FCC allows blocking traffic from robocall-friendly provider One Owl](https://docs.fcc.gov/public/attachments/DA-23-652A1.txt)
@@ -24,7 +25,6 @@
 * [2023-08-02, 11:35:59](https://news.ycombinator.com/item?id=36969473) - [Why edge detection doesn’t explain line drawing](https://aaronhertzmann.com/2020/04/19/lines-as-edges.html)
 * [2023-08-02, 08:06:50](https://news.ycombinator.com/item?id=36968273) - [VkFFT: Vulkan/CUDA/Hip/OpenCL/Level Zero/Metal Fast Fourier Transform Library](https://github.com/DTolm/VkFFT)
 * [2023-08-02, 06:52:45](https://news.ycombinator.com/item?id=36967829) - [A beetle that heads for the ‘back door’ when eaten by a frog (2020)](https://www.smithsonianmag.com/smart-news/when-beetle-gets-eaten-frog-it-forces-its-way-out-back-door-180975484/)
-* [2023-08-02, 06:16:57](https://news.ycombinator.com/item?id=36967594) - [Stopping at 90%](https://austinhenley.com/blog/90percent.html)
 * [2023-08-02, 00:17:52](https://news.ycombinator.com/item?id=36965187) - [Male Moth 'Aphrodisiac' Revealed](https://phys.org/news/2023-08-male-moth-aphrodisiac-revealed.html)
 * [2023-08-02, 00:14:15](https://news.ycombinator.com/item?id=36965144) - [Two intermediate polars investigated by astronomers](https://phys.org/news/2023-08-intermediate-polars-astronomers.html)
 * [2023-08-01, 16:12:44](https://news.ycombinator.com/item?id=36958008) - [Transcript of Taped Conversations Among German Nuclear Physicists (1945)](https://ghdi.ghi-dc.org/sub_document.cfm?document_id=2320)
