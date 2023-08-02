@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
+* [2023-08-02, 16:51:48](https://news.ycombinator.com/item?id=36973454) - [Gut–brain axis study shows autism-associated molecular, microbial profiles](https://www.nature.com/articles/s41593-023-01361-0)
 * [2023-08-02, 16:18:00](https://news.ycombinator.com/item?id=36972961) - [On the (nearly lethal) comforts of a luxury cruise (1996) [pdf]](https://harpers.org/wp-content/uploads/2008/09/HarpersMagazine-1996-01-0007859.pdf)
 * [2023-08-02, 15:40:04](https://news.ycombinator.com/item?id=36972398) - [Reflex – Web apps in pure Python](https://github.com/reflex-dev/reflex)
 * [2023-08-02, 15:37:44](https://news.ycombinator.com/item?id=36972367) - [STL: The Vector](https://devblogs.microsoft.com/oldnewthing/20230802-00/?p=108524)
@@ -16,6 +17,7 @@
 * [2023-08-02, 15:05:16](https://news.ycombinator.com/item?id=36971888) - [How I discovered the underground world of credit card network exploitation](https://chargebackstop.com/blog/card-networks-exploitation/)
 * [2023-08-02, 15:03:20](https://news.ycombinator.com/item?id=36971867) - [Our new flagship distro: Fedora Asahi Remix](https://asahilinux.org/2023/08/fedora-asahi-remix/)
 * [2023-08-02, 15:02:09](https://news.ycombinator.com/item?id=36971851) - [Why Python Is Terrible](https://josvisser.substack.com/p/why-python-is-terrible)
+* [2023-08-02, 15:00:43](https://news.ycombinator.com/item?id=36971826) - [Many people in finance, sales and management feel their jobs are pointless](https://www.news.uzh.ch/en/articles/media/2023/Jobs.html)
 * [2023-08-02, 14:35:52](https://news.ycombinator.com/item?id=36971490) - [CodeCov is now Open Source](https://about.codecov.io/blog/codecov-is-now-open-source/)
 * [2023-08-02, 14:16:54](https://news.ycombinator.com/item?id=36971220) - [How Japan is tackling a syndrome that creates recluses](https://www.telegraph.co.uk/global-health/climate-and-people/japan-recluse-generation-hikikomori-shut-in-syndrome/)
 * [2023-08-02, 13:59:47](https://news.ycombinator.com/item?id=36971004) - [Earth Overshoot Day](https://www.overshootday.org/about/)
