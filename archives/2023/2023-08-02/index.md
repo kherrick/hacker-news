@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
 * [2023-08-02, 07:01:12](https://news.ycombinator.com/item?id=36967873) - [Bitmovin (YC S15) Is Hiring in Austria](https://bitmovin.com/careers/)
+* [2023-08-02, 06:58:44](https://news.ycombinator.com/item?id=36967859) - [One thing that has changed in the professional game industry is that](https://mastodon.social/@pervognsen/110818513161468960)
 * [2023-08-02, 06:52:45](https://news.ycombinator.com/item?id=36967829) - [The Beetle That Heads for the ‘Back Door’ When Eaten by a Frog](https://www.smithsonianmag.com/smart-news/when-beetle-gets-eaten-frog-it-forces-its-way-out-back-door-180975484/)
 * [2023-08-02, 05:17:04](https://news.ycombinator.com/item?id=36967205) - [Reading SEC filings using LLMs](https://www.beatandraise.com/)
 * [2023-08-02, 05:06:18](https://news.ycombinator.com/item?id=36967159) - [Stripe is no longer a suitable payment processor](https://news.ycombinator.com/item?id=36967159)

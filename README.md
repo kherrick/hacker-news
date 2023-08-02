@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-02, 07:01:12](https://news.ycombinator.com/item?id=36967873) - [Bitmovin (YC S15) Is Hiring in Austria](https://bitmovin.com/careers/)
+* [2023-08-02, 06:58:44](https://news.ycombinator.com/item?id=36967859) - [One thing that has changed in the professional game industry is that](https://mastodon.social/@pervognsen/110818513161468960)
 * [2023-08-02, 06:52:45](https://news.ycombinator.com/item?id=36967829) - [The Beetle That Heads for the ‘Back Door’ When Eaten by a Frog](https://www.smithsonianmag.com/smart-news/when-beetle-gets-eaten-frog-it-forces-its-way-out-back-door-180975484/)
 * [2023-08-02, 05:17:04](https://news.ycombinator.com/item?id=36967205) - [Reading SEC filings using LLMs](https://www.beatandraise.com/)
 * [2023-08-02, 03:31:57](https://news.ycombinator.com/item?id=36966653) - [I'm betting on HTML](https://catskull.net/html.html)
@@ -21,7 +22,6 @@
 * [2023-08-01, 16:57:08](https://news.ycombinator.com/item?id=36958731) - [Show HN: Magic Loops – Combine LLMs and code to create simple automations](https://magicloops.dev)
 * [2023-08-01, 16:31:22](https://news.ycombinator.com/item?id=36958315) - [Speed isn’t everything, and slowness may in fact be more beneficial (2017)](https://www.bps.org.uk/psychologist/slowness-essence-knowledge)
 * [2023-08-01, 16:23:15](https://news.ycombinator.com/item?id=36958175) - [Show HN: PromptTools – open-source tools for evaluating LLMs and vector DBs](https://github.com/hegelai/prompttools)
-* [2023-08-01, 15:52:57](https://news.ycombinator.com/item?id=36957678) - [A room-temperature superconductor? New developments](https://www.science.org/content/blog-post/room-temperature-superconductor-new-developments)
 * [2023-08-01, 15:24:51](https://news.ycombinator.com/item?id=36957204) - [Launch HN: Tiptap (YC S23) – Toolkit for developing collaborative editors](https://news.ycombinator.com/item?id=36957204)
 * [2023-08-01, 12:31:10](https://news.ycombinator.com/item?id=36955146) - [Splitting the Web](https://ploum.net/2023-08-01-splitting-the-web.html)
 * [2023-07-31, 19:56:31](https://news.ycombinator.com/item?id=36947930) - [The history of spaghetti squash in America](https://www.atlasobscura.com/articles/what-is-spaghetti-squash)
