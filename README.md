@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-02, 08:18:10](https://news.ycombinator.com/item?id=36968356) - [OpenAI filed a patent for GPT-5](https://uspto.report/TM/98089548)
 * [2023-08-02, 08:06:50](https://news.ycombinator.com/item?id=36968273) - [VkFFT: Vulkan/CUDA/Hip/OpenCL/Level Zero/Metal Fast Fourier Transform Library](https://github.com/DTolm/VkFFT)
 * [2023-08-02, 07:59:01](https://news.ycombinator.com/item?id=36968218) - [HMRC (UK Tax Authority) Persuing Uber for £386M (~$487M) Vat](https://twitter.com/DanNeidle/status/1686643943432232962)
 * [2023-08-02, 07:01:12](https://news.ycombinator.com/item?id=36967873) - [Bitmovin (YC S15) Is Hiring in Austria](https://bitmovin.com/careers/)
@@ -23,6 +22,7 @@
 * [2023-08-01, 16:57:08](https://news.ycombinator.com/item?id=36958731) - [Show HN: Magic Loops – Combine LLMs and code to create simple automations](https://magicloops.dev)
 * [2023-08-01, 15:52:57](https://news.ycombinator.com/item?id=36957678) - [A room-temperature superconductor? New developments](https://www.science.org/content/blog-post/room-temperature-superconductor-new-developments)
 * [2023-08-01, 15:24:51](https://news.ycombinator.com/item?id=36957204) - [Launch HN: Tiptap (YC S23) – Toolkit for developing collaborative editors](https://news.ycombinator.com/item?id=36957204)
+* [2023-08-01, 11:43:51](https://news.ycombinator.com/item?id=36954805) - [Nuffield Science Project](https://en.wikipedia.org/wiki/Nuffield_Science_Project)
 * [2023-07-31, 19:56:31](https://news.ycombinator.com/item?id=36947930) - [The history of spaghetti squash in America](https://www.atlasobscura.com/articles/what-is-spaghetti-squash)
 * [2023-07-31, 15:59:02](https://news.ycombinator.com/item?id=36944611) - [An open-source, free circuit simulator](https://hackaday.com/2023/07/30/an-open-source-free-circuit-simulator/)
 * [2023-07-31, 14:30:40](https://news.ycombinator.com/item?id=36943091) - [Epicycle Clock](https://sophiehoulden.com/randomstuff/epitime/?revised)

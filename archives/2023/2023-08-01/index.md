@@ -70,6 +70,7 @@
 * [2023-08-01, 12:12:17](https://news.ycombinator.com/item?id=36954998) - [Show HN: Local development with .local domains and HTTPS](https://www.localcan.com/)
 * [2023-08-01, 12:01:52](https://news.ycombinator.com/item?id=36954932) - [Prediction Market on LK-99](https://manifold.markets/QuantumObserver/will-the-lk99-room-temp-ambient-pre)
 * [2023-08-01, 12:01:09](https://news.ycombinator.com/item?id=36954925) - [GiveCampus (YC S15) Hiring Rails engineers in education software](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+* [2023-08-01, 11:43:51](https://news.ycombinator.com/item?id=36954805) - [Nuffield Science Project](https://en.wikipedia.org/wiki/Nuffield_Science_Project)
 * [2023-08-01, 11:40:09](https://news.ycombinator.com/item?id=36954792) - [Who and What Is Behind the Malware Proxy Service SocksEscort?](https://krebsonsecurity.com/2023/07/who-and-what-is-behind-the-malware-proxy-service-socksescort/)
 * [2023-08-01, 11:26:15](https://news.ycombinator.com/item?id=36954718) - [Uber Posts First Quarterly Net Profit of $394M](https://www.wsj.com/articles/uber-q2-earnings-report-2023-453c335a)
 * [2023-08-01, 10:35:42](https://news.ycombinator.com/item?id=36954435) - [Using Vim's abbreviations (2020)](https://vonheikemen.github.io/devlog/tools/using-vim-abbreviations/)
