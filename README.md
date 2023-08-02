@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-02, 12:51:55](https://news.ycombinator.com/item?id=36970196) - [US universities need to stop elitist discrimination that Europe abandoned](https://www.bloomberg.com/opinion/articles/2023-08-02/junking-legacy-admissions-at-top-us-schools-is-just-a-baby-step)
+* [2023-08-02, 12:45:59](https://news.ycombinator.com/item?id=36970135) - [Launch HN: Certainly Health (YC S23) – Book doctors without surprise bills](https://news.ycombinator.com/item?id=36970135)
 * [2023-08-02, 12:23:45](https://news.ycombinator.com/item?id=36969897) - [Ask HN: Who is using small OS LLMs in production?](https://news.ycombinator.com/item?id=36969897)
-* [2023-08-02, 12:14:28](https://news.ycombinator.com/item?id=36969803) - [Lawmakers propose 'speed limiters' for repeat offenders in New York](https://spectrumlocalnews.com/nys/central-ny/news/2023/08/01/lawmakers-propose-installing--speed-limiters--in-vehicles-of-repeat-speeders)
 * [2023-08-02, 12:05:57](https://news.ycombinator.com/item?id=36969709) - [Show HN: Adapt framework – build privacy-by-design peer-to-peer applications](https://www.adaptframework.solutions/)
 * [2023-08-02, 11:40:59](https://news.ycombinator.com/item?id=36969500) - ['Cancer-killing pill' is now being tested on humans](https://news.sky.com/story/cancer-killing-pill-that-appears-to-annihilate-solid-tumours-is-now-being-tested-on-humans-12932133)
 * [2023-08-02, 11:35:59](https://news.ycombinator.com/item?id=36969473) - [Why Edge Detection Doesn’t Explain Line Drawing](https://aaronhertzmann.com/2020/04/19/lines-as-edges.html)
@@ -23,7 +24,6 @@
 * [2023-08-01, 18:51:09](https://news.ycombinator.com/item?id=36960625) - [Pixar, Adobe, Apple, Autodesk, and Nvidia form alliance for OpenUSD](https://www.apple.com/newsroom/2023/08/pixar-adobe-apple-autodesk-and-nvidia-form-alliance-for-openusd/)
 * [2023-08-01, 15:52:57](https://news.ycombinator.com/item?id=36957678) - [A room-temperature superconductor? New developments](https://www.science.org/content/blog-post/room-temperature-superconductor-new-developments)
 * [2023-08-01, 15:24:51](https://news.ycombinator.com/item?id=36957204) - [Launch HN: Tiptap (YC S23) – Toolkit for developing collaborative editors](https://news.ycombinator.com/item?id=36957204)
-* [2023-08-01, 11:43:51](https://news.ycombinator.com/item?id=36954805) - [Nuffield Science Project](https://en.wikipedia.org/wiki/Nuffield_Science_Project)
 * [2023-07-31, 21:58:19](https://news.ycombinator.com/item?id=36949456) - [How the Kentucky Cave Wars Reshaped the State’s Tourism Industry](https://www.smithsonianmag.com/history/how-the-kentucky-cave-wars-reshaped-the-states-tourism-industry-180982585/)
 * [2023-07-31, 19:56:31](https://news.ycombinator.com/item?id=36947930) - [The history of spaghetti squash in America](https://www.atlasobscura.com/articles/what-is-spaghetti-squash)
 * [2023-07-31, 15:59:02](https://news.ycombinator.com/item?id=36944611) - [An open-source, free circuit simulator](https://hackaday.com/2023/07/30/an-open-source-free-circuit-simulator/)
