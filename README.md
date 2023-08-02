@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-02, 22:50:33](https://news.ycombinator.com/item?id=36978931) - [High Dynamic Time Range Images](http://mkweb.bcgsc.ca/fun/hdtr/)
+* [2023-08-02, 22:05:04](https://news.ycombinator.com/item?id=36978350) - [EXP TV – endless stream of obscure media and video ephemera](https://exptv.org/)
 * [2023-08-02, 21:54:40](https://news.ycombinator.com/item?id=36978199) - [New targeted chemotherapy able to kill all solid tumors in preclinical research](https://www.eurekalert.org/news-releases/997141)
 * [2023-08-02, 21:38:12](https://news.ycombinator.com/item?id=36977962) - [Internet providers that won FCC grants try to escape broadband commitments](https://arstechnica.com/tech-policy/2023/08/internet-providers-that-won-fcc-grants-try-to-escape-broadband-commitments/)
 * [2023-08-02, 21:31:24](https://news.ycombinator.com/item?id=36977863) - [Meta’s Reality Labs prototype hardware](https://www.meta.com/en-gb/blog/quest/reality-labs-research-display-systems-siggraph-2023-butterscotch-varifocal-flamera/)
 * [2023-08-02, 21:17:15](https://news.ycombinator.com/item?id=36977624) - [Infinite Mac: Disks, CD-ROMs and custom instances](https://blog.persistent.info/2023/08/infinite-mac-cd-roms.html)
-* [2023-08-02, 21:16:01](https://news.ycombinator.com/item?id=36977606) - [DotDict: A simple Python library to make chained attributes possible](https://github.com/nick-at-dave/DotDict)
 * [2023-08-02, 20:43:10](https://news.ycombinator.com/item?id=36977107) - [ChromeOS is splitting the browser from the OS, getting more Linux-y](https://arstechnica.com/gadgets/2023/08/google-is-finally-separating-chrome-from-chromeos-for-easier-updates/)
 * [2023-08-02, 20:13:42](https://news.ycombinator.com/item?id=36976670) - [If Web Components are so great, why am I not using them?](https://daverupert.com/2023/07/why-not-webcomponents/)
 * [2023-08-02, 19:41:40](https://news.ycombinator.com/item?id=36976124) - [Busting a myth: “only writers subscribe to genre magazines”](http://neil-clarke.com/busting-a-myth/)
