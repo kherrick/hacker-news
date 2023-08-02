@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
+* [2023-08-02, 19:41:40](https://news.ycombinator.com/item?id=36976124) - [Busting a Myth: “Only writers subscribe to genre magazines”](http://neil-clarke.com/busting-a-myth/)
 * [2023-08-02, 19:33:14](https://news.ycombinator.com/item?id=36975974) - [HackerOne lays off 12% of its workforce](https://www.hackerone.com/ceo/company-update)
 * [2023-08-02, 19:17:07](https://news.ycombinator.com/item?id=36975701) - [FCC allows blocking traffic from robocall-friendly provider One Owl](https://docs.fcc.gov/public/attachments/DA-23-652A1.txt)
 * [2023-08-02, 18:50:15](https://news.ycombinator.com/item?id=36975245) - [Cookbook: Finetuning Llama 2 in your own cloud environment, privately](https://blog.skypilot.co/finetuning-llama2-operational-guide/)
@@ -76,3 +77,4 @@
 * [2023-08-02, 01:54:26](https://news.ycombinator.com/item?id=36965993) - [Patterns for Building LLM-Based Systems and Products](https://eugeneyan.com/writing/llm-patterns/)
 * [2023-08-02, 01:12:42](https://news.ycombinator.com/item?id=36965678) - [The Psychology of Cults – Syllabus (Harvard)](https://harvard.simplesyllabus.com/en-US/doc/1qjc9dp1v)
 * [2023-08-02, 00:57:46](https://news.ycombinator.com/item?id=36965545) - [Electronic Structure of LK-99](https://arxiv.org/abs/2308.00676)
+* [2023-08-02, 00:14:15](https://news.ycombinator.com/item?id=36965144) - [Two intermediate polars investigated by astronomers](https://phys.org/news/2023-08-intermediate-polars-astronomers.html)
