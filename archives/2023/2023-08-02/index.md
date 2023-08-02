@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
 * [2023-08-02, 21:16:01](https://news.ycombinator.com/item?id=36977606) - [DotDict: A simple Python library to make chained attributes possible](https://github.com/nick-at-dave/DotDict)
+* [2023-08-02, 20:43:10](https://news.ycombinator.com/item?id=36977107) - [ChromeOS is splitting the browser from the OS, getting more Linux-y](https://arstechnica.com/gadgets/2023/08/google-is-finally-separating-chrome-from-chromeos-for-easier-updates/)
 * [2023-08-02, 19:53:02](https://news.ycombinator.com/item?id=36976331) - [IRS Launches Paperless Processing Initiative](https://home.treasury.gov/news/press-releases/jy1666)
 * [2023-08-02, 19:41:40](https://news.ycombinator.com/item?id=36976124) - [Busting a Myth: “Only writers subscribe to genre magazines”](http://neil-clarke.com/busting-a-myth/)
 * [2023-08-02, 19:33:14](https://news.ycombinator.com/item?id=36975974) - [HackerOne lays off 12% of its workforce](https://www.hackerone.com/ceo/company-update)
@@ -26,6 +27,7 @@
 * [2023-08-02, 16:47:37](https://news.ycombinator.com/item?id=36973400) - [Show HN: Learn a language quickly by practising speaking with AI](https://www.prettypolly.app)
 * [2023-08-02, 16:40:17](https://news.ycombinator.com/item?id=36973287) - [Coming Soon: Fedora for Apple Silicon Macs](https://fedoramagazine.org/coming-soon-fedora-for-apple-silicon-macs/)
 * [2023-08-02, 16:18:00](https://news.ycombinator.com/item?id=36972961) - [On the (nearly lethal) comforts of a luxury cruise (1996) [pdf]](https://harpers.org/wp-content/uploads/2008/09/HarpersMagazine-1996-01-0007859.pdf)
+* [2023-08-02, 16:06:29](https://news.ycombinator.com/item?id=36972790) - [Dimeadozen.ai – AI-powered market research for any startup](https://www.dimeadozen.ai/)
 * [2023-08-02, 15:40:04](https://news.ycombinator.com/item?id=36972398) - [Reflex – Web apps in pure Python](https://github.com/reflex-dev/reflex)
 * [2023-08-02, 15:37:44](https://news.ycombinator.com/item?id=36972367) - [STL: The Vector](https://devblogs.microsoft.com/oldnewthing/20230802-00/?p=108524)
 * [2023-08-02, 15:37:18](https://news.ycombinator.com/item?id=36972358) - [Firefox 116 Patches High-Severity Vulnerabilities](https://www.securityweek.com/firefox-116-patches-high-severity-vulnerabilities/)
