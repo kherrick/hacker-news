@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-08-03, 18:42:02",
+      "https://news.ycombinator.com/item?id=36989936"
+    ],
+    [
+      "WTF Happened in 2023?",
+      "https://www.notboring.co/p/wtf-happened-in-2023"
+    ]
+  ],
+  [
+    [
+      "2023-08-03, 18:35:53",
+      "https://news.ycombinator.com/item?id=36989858"
+    ],
+    [
+      "The Holocaust Bomb: A Question of Time [2007]",
+      "https://sgp.fas.org/eprint/morland.html"
+    ]
+  ],
+  [
+    [
       "2023-08-03, 18:35:11",
       "https://news.ycombinator.com/item?id=36989845"
     ],
     [
       "FCC fines robocaller a record $300M after blocking billions of their scam calls",
       "https://techcrunch.com/2023/08/03/fcc-fines-robocaller-a-record-300m-after-blocking-billions-of-their-scam-calls/"
+    ]
+  ],
+  [
+    [
+      "2023-08-03, 18:31:50",
+      "https://news.ycombinator.com/item?id=36989798"
+    ],
+    [
+      "AWS to Begin Charging for Public IPv4 Addresses",
+      "https://www.infoq.com/news/2023/08/aws-ec2-public-ipv4/"
     ]
   ],
   [
@@ -31,6 +61,26 @@
   ],
   [
     [
+      "2023-08-03, 18:21:52",
+      "https://news.ycombinator.com/item?id=36989662"
+    ],
+    [
+      "Show HN: Create your first ZK-SNARK Contract with Mina Blockchain",
+      "https://easymina.github.io/"
+    ]
+  ],
+  [
+    [
+      "2023-08-03, 18:16:59",
+      "https://news.ycombinator.com/item?id=36989604"
+    ],
+    [
+      "Rail company that launched first H2 line opts for all-electric future",
+      "https://www.hydrogeninsight.com/transport/no-more-hydrogen-trains-rail-company-that-launched-worlds-first-h2-line-last-year-opts-for-all-electric-future/2-1-1495801?zephr_sso_ott=tiwZxe"
+    ]
+  ],
+  [
+    [
       "2023-08-03, 18:14:32",
       "https://news.ycombinator.com/item?id=36989584"
     ],
@@ -47,6 +97,16 @@
     [
       "Chrultrabook – Modify a Chromebook to Run Windows/Linux/macOS",
       "https://chrultrabook.github.io/docs/"
+    ]
+  ],
+  [
+    [
+      "2023-08-03, 18:08:32",
+      "https://news.ycombinator.com/item?id=36989503"
+    ],
+    [
+      "On-disk HNSW index for Postgres with pg_embedding",
+      "https://neon.tech/blog/pg_embedding-on-disk-hnsw-index"
     ]
   ],
   [
@@ -171,32 +231,12 @@
   ],
   [
     [
-      "2023-08-03, 11:53:35",
-      "https://news.ycombinator.com/item?id=36984530"
-    ],
-    [
-      "Goto in Bash (2012)",
-      "https://bobcopeland.com/blog/2012/10/goto-in-bash/"
-    ]
-  ],
-  [
-    [
       "2023-08-03, 11:31:10",
       "https://news.ycombinator.com/item?id=36984302"
     ],
     [
       "Malicious Android Apps Slip into Disguise",
       "https://krebsonsecurity.com/2023/08/how-malicious-android-apps-slip-into-disguise/"
-    ]
-  ],
-  [
-    [
-      "2023-08-03, 11:14:12",
-      "https://news.ycombinator.com/item?id=36984171"
-    ],
-    [
-      "Network protocols for anyone who knows a programming language",
-      "https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147"
     ]
   ],
   [
@@ -241,16 +281,6 @@
   ],
   [
     [
-      "2023-08-03, 08:12:15",
-      "https://news.ycombinator.com/item?id=36982813"
-    ],
-    [
-      "A New Mode of Cancer Treatment",
-      "https://www.science.org/content/blog-post/new-mode-cancer-treatment"
-    ]
-  ],
-  [
-    [
       "2023-08-03, 02:25:45",
       "https://news.ycombinator.com/item?id=36980630"
     ],
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2023-08-03, 00:43:14",
-      "https://news.ycombinator.com/item?id=36979886"
-    ],
-    [
-      "Observation of zero resistance above 100 K in Pb₁₀₋ₓCuₓ(PO₄)₆O",
-      "https://arxiv.org/abs/2308.01192"
-    ]
-  ],
-  [
-    [
       "2023-08-02, 10:22:46",
       "https://news.ycombinator.com/item?id=36969018"
     ],
     [
       "How NAT traversal works (2020)",
       "https://tailscale.com/blog/how-nat-traversal-works/"
-    ]
-  ],
-  [
-    [
-      "2023-08-02, 05:53:18",
-      "https://news.ycombinator.com/item?id=36967413"
-    ],
-    [
-      "Tidal Cycles – Live coding music with Algorithmic patterns",
-      "https://tidalcycles.org/"
-    ]
-  ],
-  [
-    [
-      "2023-08-02, 04:52:55",
-      "https://news.ycombinator.com/item?id=36967094"
-    ],
-    [
-      "Remains of Chihuahua-Sized Dog Unearthed at Roman Britain Villa",
-      "https://www.smithsonianmag.com/smart-news/remains-of-chihuahua-sized-dog-unearthed-at-roman-britain-villa-180982624/"
     ]
   ]
 ]
