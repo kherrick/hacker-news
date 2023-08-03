@@ -73,6 +73,7 @@
 * [2023-08-01, 12:16:16](https://news.ycombinator.com/item?id=36955019) - [Bridging the Python async gap from the other side](https://death.andgravity.com/asyncio-bridge)
 * [2023-08-01, 12:12:17](https://news.ycombinator.com/item?id=36954998) - [Show HN: Local development with .local domains and HTTPS](https://www.localcan.com/)
 * [2023-08-01, 12:02:11](https://news.ycombinator.com/item?id=36954936) - [The Shader Permutation Problem – Part 1: How Did We Get Here?](https://therealmjp.github.io/posts/shader-permutations-part1/)
+* [2023-08-01, 12:02:03](https://news.ycombinator.com/item?id=36954934) - [Pixel Pump, the Open Source Vacuum Pickup Tool Is Now Shipping](https://hackaday.com/2023/08/01/pixel-pump-the-open-source-vacuum-pickup-tool-is-now-shipping/)
 * [2023-08-01, 12:01:52](https://news.ycombinator.com/item?id=36954932) - [Prediction Market on LK-99](https://manifold.markets/QuantumObserver/will-the-lk99-room-temp-ambient-pre)
 * [2023-08-01, 12:01:09](https://news.ycombinator.com/item?id=36954925) - [GiveCampus (YC S15) Hiring Rails engineers in education software](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2023-08-01, 11:43:51](https://news.ycombinator.com/item?id=36954805) - [Nuffield Science Project](https://en.wikipedia.org/wiki/Nuffield_Science_Project)

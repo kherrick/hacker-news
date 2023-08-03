@@ -28,8 +28,8 @@
 * [2023-08-01, 18:59:55](https://news.ycombinator.com/item?id=36960800) - [How pencils are made in a Japanese factory [video]](https://www.youtube.com/watch?v=Lk_57TP6RFk)
 * [2023-08-01, 16:12:44](https://news.ycombinator.com/item?id=36958008) - [Transcript of taped conversations among German nuclear physicists (1945)](https://ghdi.ghi-dc.org/sub_document.cfm?document_id=2320)
 * [2023-08-01, 12:02:11](https://news.ycombinator.com/item?id=36954936) - [The Shader Permutation Problem – Part 1: How Did We Get Here?](https://therealmjp.github.io/posts/shader-permutations-part1/)
+* [2023-08-01, 12:02:03](https://news.ycombinator.com/item?id=36954934) - [Pixel Pump, the Open Source Vacuum Pickup Tool Is Now Shipping](https://hackaday.com/2023/08/01/pixel-pump-the-open-source-vacuum-pickup-tool-is-now-shipping/)
 * [2023-08-01, 07:01:17](https://news.ycombinator.com/item?id=36953195) - [Oxocards: Interactive programmable minicomputers](https://oxocard.ch/en/)
-* [2023-08-01, 03:26:15](https://news.ycombinator.com/item?id=36951940) - [The Emperors for the Job](https://www.historytoday.com/archive/review/emperors-job)
 
 ## [Archives](archives/index.md)
 
