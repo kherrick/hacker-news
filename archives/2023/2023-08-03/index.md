@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-03](index.md)
 
 * [2023-08-03, 20:49:40](https://news.ycombinator.com/item?id=36991647) - [Matrix](https://matrix.org)
+* [2023-08-03, 20:34:42](https://news.ycombinator.com/item?id=36991434) - [Magic123: One Image to High-Quality 3D Object Generation](https://guochengqian.github.io/project/magic123/)
 * [2023-08-03, 20:31:00](https://news.ycombinator.com/item?id=36991381) - [Apple reports third quarter results](https://www.apple.com/newsroom/2023/08/apple-reports-third-quarter-results/)
 * [2023-08-03, 20:24:50](https://news.ycombinator.com/item?id=36991293) - [Color-Diffusion: using diffusion models to colorize black and white images](https://github.com/ErwannMillon/Color-diffusion)
 * [2023-08-03, 19:43:02](https://news.ycombinator.com/item?id=36990764) - [Airbyte API & Terraform Provider – available in open source](https://airbyte.com/blog/airbytes-official-api-and-terraform-provider-now-in-open-source)
