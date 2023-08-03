@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-08-03, 04:13:45",
-      "https://news.ycombinator.com/item?id=36981279"
+      "2023-08-03, 05:01:47",
+      "https://news.ycombinator.com/item?id=36981580"
     ],
     [
-      "Google Street View driver crashes after 100 MPH chase, police say",
-      "https://www.sfgate.com/tech/article/google-street-view-car-chase-18275718.php"
+      "System settings that aren’t in System Settings",
+      "https://eclecticlight.co/2023/07/29/system-settings-that-arent-in-system-settings/"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "SMS traffic pumping fraud",
       "https://support.twilio.com/hc/en-us/articles/8360406023067-SMS-Traffic-Pumping-Fraud"
+    ]
+  ],
+  [
+    [
+      "2023-08-03, 03:36:13",
+      "https://news.ycombinator.com/item?id=36981050"
+    ],
+    [
+      "US drug overdose deaths hit record high in 2022",
+      "https://www.opb.org/article/2023/05/18/us-drug-overdose-deaths-hit-record-high-in-2022-some-states-including-washington-see-big-surge/"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "Meta’s Reality Labs prototype hardware",
       "https://www.meta.com/en-gb/blog/quest/reality-labs-research-display-systems-siggraph-2023-butterscotch-varifocal-flamera/"
-    ]
-  ],
-  [
-    [
-      "2023-08-02, 21:17:15",
-      "https://news.ycombinator.com/item?id=36977624"
-    ],
-    [
-      "Infinite Mac: Disks, CD-ROMs and custom instances",
-      "https://blog.persistent.info/2023/08/infinite-mac-cd-roms.html"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=36954934"
     ],
     [
-      "Pixel Pump, the Open Source Vacuum Pickup Tool Is Now Shipping",
+      "Pixel Pump: Open-source vacuum pickup tool",
       "https://hackaday.com/2023/08/01/pixel-pump-the-open-source-vacuum-pickup-tool-is-now-shipping/"
     ]
   ],
