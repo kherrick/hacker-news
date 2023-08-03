@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-03](index.md)
 
+* [2023-08-03, 05:01:47](https://news.ycombinator.com/item?id=36981580) - [System settings that aren’t in System Settings](https://eclecticlight.co/2023/07/29/system-settings-that-arent-in-system-settings/)
 * [2023-08-03, 04:13:45](https://news.ycombinator.com/item?id=36981279) - [Google Street View driver crashes after 100 MPH chase, police say](https://www.sfgate.com/tech/article/google-street-view-car-chase-18275718.php)
 * [2023-08-03, 03:42:11](https://news.ycombinator.com/item?id=36981090) - [SMS Pumping Attack](https://support.twilio.com/hc/en-us/articles/8360406023067-SMS-Traffic-Pumping-Fraud)
+* [2023-08-03, 03:36:13](https://news.ycombinator.com/item?id=36981050) - [US drug overdose deaths hit record high in 2022](https://www.opb.org/article/2023/05/18/us-drug-overdose-deaths-hit-record-high-in-2022-some-states-including-washington-see-big-surge/)
 * [2023-08-03, 03:33:49](https://news.ycombinator.com/item?id=36981033) - [With merge of this pull request, Brave Browser disables WebEnvironmentIntegrity](https://github.com/brave/brave-core/pull/19476)
 * [2023-08-03, 03:17:00](https://news.ycombinator.com/item?id=36980946) - [If you think p-values are problematic, wait until you understand Bayes Factors](http://datacolada.org/78a)
 * [2023-08-03, 02:43:23](https://news.ycombinator.com/item?id=36980767) - [Radio frequency hearing in humans and its effects (2003)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/bem.10163)

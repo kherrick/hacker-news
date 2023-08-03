@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-03, 04:13:45](https://news.ycombinator.com/item?id=36981279) - [Google Street View driver crashes after 100 MPH chase, police say](https://www.sfgate.com/tech/article/google-street-view-car-chase-18275718.php)
+* [2023-08-03, 05:01:47](https://news.ycombinator.com/item?id=36981580) - [System settings that aren’t in System Settings](https://eclecticlight.co/2023/07/29/system-settings-that-arent-in-system-settings/)
 * [2023-08-03, 03:42:11](https://news.ycombinator.com/item?id=36981090) - [SMS traffic pumping fraud](https://support.twilio.com/hc/en-us/articles/8360406023067-SMS-Traffic-Pumping-Fraud)
+* [2023-08-03, 03:36:13](https://news.ycombinator.com/item?id=36981050) - [US drug overdose deaths hit record high in 2022](https://www.opb.org/article/2023/05/18/us-drug-overdose-deaths-hit-record-high-in-2022-some-states-including-washington-see-big-surge/)
 * [2023-08-03, 03:33:49](https://news.ycombinator.com/item?id=36981033) - [Disables WebEnvironmentIntegrity feature and origin trials](https://github.com/brave/brave-core/pull/19476)
 * [2023-08-03, 03:17:00](https://news.ycombinator.com/item?id=36980946) - [I don't use Bayes factors in my research (2019)](http://datacolada.org/78a)
 * [2023-08-03, 02:43:23](https://news.ycombinator.com/item?id=36980767) - [Radio frequency hearing in humans and its effects (2003)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/bem.10163)
@@ -10,7 +11,6 @@
 * [2023-08-02, 22:05:04](https://news.ycombinator.com/item?id=36978350) - [EXP TV – endless stream of obscure media and video ephemera](https://exptv.org/)
 * [2023-08-02, 21:54:40](https://news.ycombinator.com/item?id=36978199) - [New targeted chemotherapy able to kill all solid tumors in preclinical research](https://www.eurekalert.org/news-releases/997141)
 * [2023-08-02, 21:31:24](https://news.ycombinator.com/item?id=36977863) - [Meta’s Reality Labs prototype hardware](https://www.meta.com/en-gb/blog/quest/reality-labs-research-display-systems-siggraph-2023-butterscotch-varifocal-flamera/)
-* [2023-08-02, 21:17:15](https://news.ycombinator.com/item?id=36977624) - [Infinite Mac: Disks, CD-ROMs and custom instances](https://blog.persistent.info/2023/08/infinite-mac-cd-roms.html)
 * [2023-08-02, 20:13:42](https://news.ycombinator.com/item?id=36976670) - [If Web Components are so great, why am I not using them?](https://daverupert.com/2023/07/why-not-webcomponents/)
 * [2023-08-02, 19:17:07](https://news.ycombinator.com/item?id=36975701) - [FCC allows blocking traffic from robocall-friendly provider One Owl](https://docs.fcc.gov/public/attachments/DA-23-652A1.txt)
 * [2023-08-02, 18:14:04](https://news.ycombinator.com/item?id=36974681) - [LK-99: Team of Southeast University observed zero resistance below 110 K](https://twitter.com/lipez400/status/1686793608626663441)
@@ -28,7 +28,7 @@
 * [2023-08-01, 16:12:44](https://news.ycombinator.com/item?id=36958008) - [Transcript of taped conversations among German nuclear physicists (1945)](https://ghdi.ghi-dc.org/sub_document.cfm?document_id=2320)
 * [2023-08-01, 15:08:57](https://news.ycombinator.com/item?id=36956961) - [Why Kundera Never Went Home](https://compactmag.com/article/why-kundera-never-went-home)
 * [2023-08-01, 12:02:11](https://news.ycombinator.com/item?id=36954936) - [The Shader Permutation Problem – Part 1: How Did We Get Here?](https://therealmjp.github.io/posts/shader-permutations-part1/)
-* [2023-08-01, 12:02:03](https://news.ycombinator.com/item?id=36954934) - [Pixel Pump, the Open Source Vacuum Pickup Tool Is Now Shipping](https://hackaday.com/2023/08/01/pixel-pump-the-open-source-vacuum-pickup-tool-is-now-shipping/)
+* [2023-08-01, 12:02:03](https://news.ycombinator.com/item?id=36954934) - [Pixel Pump: Open-source vacuum pickup tool](https://hackaday.com/2023/08/01/pixel-pump-the-open-source-vacuum-pickup-tool-is-now-shipping/)
 * [2023-08-01, 07:01:17](https://news.ycombinator.com/item?id=36953195) - [Oxocards: Interactive programmable minicomputers](https://oxocard.ch/en/)
 
 ## [Archives](archives/index.md)
