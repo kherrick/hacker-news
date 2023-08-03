@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-03](index.md)
 
 * [2023-08-03, 22:00:37](https://news.ycombinator.com/item?id=36992619) - [Java: New Draft JEP: “Computed Constants”](http://minborgsjavapot.blogspot.com/2023/08/java-new-draft-jep-computed-constants.html)
+* [2023-08-03, 22:00:19](https://news.ycombinator.com/item?id=36992614) - [Royal Mail to Issue “Terry Pratchett’s Discworld” Stamps](https://file770.com/royal-mail-to-issue-terry-pratchetts-discworld-stamps/)
 * [2023-08-03, 21:38:56](https://news.ycombinator.com/item?id=36992335) - [Nuked-MD-FPGA – accurate Sega Genesis re-implementation based on decapped chips](https://github.com/nukeykt/Nuked-MD-FPGA)
 * [2023-08-03, 21:31:19](https://news.ycombinator.com/item?id=36992249) - [As Ocean Oxygen Levels Dip, Fish Face an Uncertain Future](https://e360.yale.edu/features/as-ocean-oxygen-levels-dip-fish-face-an-uncertain-future)
 * [2023-08-03, 20:49:40](https://news.ycombinator.com/item?id=36991647) - [Matrix](https://matrix.org)
