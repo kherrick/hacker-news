@@ -1,12 +1,62 @@
 [
   [
     [
+      "2023-08-03, 12:52:16",
+      "https://news.ycombinator.com/item?id=36985197"
+    ],
+    [
+      "IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face",
+      "https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face"
+    ]
+  ],
+  [
+    [
+      "2023-08-03, 12:46:41",
+      "https://news.ycombinator.com/item?id=36985128"
+    ],
+    [
+      "Taming the Flame of Aging: Key Pathway for Chronic Inflammation Revealed",
+      "https://neurosciencenews.com/inflammation-brain-aging-23740/"
+    ]
+  ],
+  [
+    [
+      "2023-08-03, 12:23:41",
+      "https://news.ycombinator.com/item?id=36984869"
+    ],
+    [
+      "Quantum oscillations of the quasiparticle lifetime in a metal",
+      "https://www.nature.com/articles/s41586-023-06330-y"
+    ]
+  ],
+  [
+    [
+      "2023-08-03, 12:08:48",
+      "https://news.ycombinator.com/item?id=36984695"
+    ],
+    [
+      "Don't Be Clever",
+      "https://stitcher.io/blog/dont-be-clever"
+    ]
+  ],
+  [
+    [
       "2023-08-03, 12:01:40",
       "https://news.ycombinator.com/item?id=36984623"
     ],
     [
       "UpCodes (YC S17) is hiring engineers to automate construction compliance",
       "https://up.codes/careers"
+    ]
+  ],
+  [
+    [
+      "2023-08-03, 11:53:35",
+      "https://news.ycombinator.com/item?id=36984530"
+    ],
+    [
+      "Goto in Bash",
+      "https://bobcopeland.com/blog/2012/10/goto-in-bash/"
     ]
   ],
   [
@@ -47,6 +97,16 @@
     [
       "Network Protocols for Anyone Who Knows a Programming Language",
       "https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147"
+    ]
+  ],
+  [
+    [
+      "2023-08-03, 11:02:13",
+      "https://news.ycombinator.com/item?id=36984073"
+    ],
+    [
+      "Cmd-stream-go – a high-performance remote command execution library for Golang",
+      "https://github.com/cmd-stream/cmd-stream-go"
     ]
   ],
   [
@@ -141,16 +201,6 @@
   ],
   [
     [
-      "2023-08-03, 03:17:00",
-      "https://news.ycombinator.com/item?id=36980946"
-    ],
-    [
-      "I don't use Bayes factors in my research (2019)",
-      "http://datacolada.org/78a"
-    ]
-  ],
-  [
-    [
       "2023-08-03, 02:43:23",
       "https://news.ycombinator.com/item?id=36980767"
     ],
@@ -181,52 +231,22 @@
   ],
   [
     [
-      "2023-08-02, 22:50:33",
-      "https://news.ycombinator.com/item?id=36978931"
-    ],
-    [
-      "High Dynamic Time Range Images (2006)",
-      "http://mkweb.bcgsc.ca/fun/hdtr/"
-    ]
-  ],
-  [
-    [
-      "2023-08-02, 22:05:04",
-      "https://news.ycombinator.com/item?id=36978350"
-    ],
-    [
-      "EXP TV – endless stream of obscure media and video ephemera",
-      "https://exptv.org/"
-    ]
-  ],
-  [
-    [
-      "2023-08-02, 15:11:48",
-      "https://news.ycombinator.com/item?id=36971975"
-    ],
-    [
-      "A non-mathematical introduction to Kalman filters for programmers",
-      "https://praveshkoirala.com/2023/06/13/a-non-mathematical-introduction-to-kalman-filters-for-programmers/"
-    ]
-  ],
-  [
-    [
-      "2023-08-02, 12:45:59",
-      "https://news.ycombinator.com/item?id=36970135"
-    ],
-    [
-      "Launch HN: Certainly Health (YC S23) – Book doctors without surprise bills",
-      "https://news.ycombinator.com/item?id=36970135"
-    ]
-  ],
-  [
-    [
       "2023-08-02, 05:53:18",
       "https://news.ycombinator.com/item?id=36967413"
     ],
     [
       "Tidal Cycles – Live coding music with Algorithmic patterns",
       "https://tidalcycles.org/"
+    ]
+  ],
+  [
+    [
+      "2023-08-02, 04:52:55",
+      "https://news.ycombinator.com/item?id=36967094"
+    ],
+    [
+      "Remains of Chihuahua-Sized Dog Unearthed at Roman Britain Villa",
+      "https://www.smithsonianmag.com/smart-news/remains-of-chihuahua-sized-dog-unearthed-at-roman-britain-villa-180982624/"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2023-08-01, 18:59:55",
-      "https://news.ycombinator.com/item?id=36960800"
-    ],
-    [
-      "How pencils are made in a Japanese factory [video]",
-      "https://www.youtube.com/watch?v=Lk_57TP6RFk"
-    ]
-  ],
-  [
-    [
       "2023-08-01, 15:21:56",
       "https://news.ycombinator.com/item?id=36957161"
     ],
@@ -277,16 +287,6 @@
     [
       "Why Kundera never went home",
       "https://compactmag.com/article/why-kundera-never-went-home"
-    ]
-  ],
-  [
-    [
-      "2023-08-01, 12:02:11",
-      "https://news.ycombinator.com/item?id=36954936"
-    ],
-    [
-      "The Shader Permutation Problem – Part 1: How Did We Get Here? (2021)",
-      "https://therealmjp.github.io/posts/shader-permutations-part1/"
     ]
   ],
   [
