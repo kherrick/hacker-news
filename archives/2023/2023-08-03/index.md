@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-03](index.md)
 
+* [2023-08-03, 11:28:31](https://news.ycombinator.com/item?id=36984282) - [Man Spends Entire Career Mastering Crappy Codebase](https://taylor.town/entire-career)
 * [2023-08-03, 10:05:55](https://news.ycombinator.com/item?id=36983702) - [Vicuna v1.5 series, featuring 4K and 16K context, based on Llama 2](https://twitter.com/lmsysorg/status/1686794639469371393)
+* [2023-08-03, 08:48:22](https://news.ycombinator.com/item?id=36983117) - [99% of top Python packages are now wheels](https://pythonwheels.com/)
 * [2023-08-03, 08:29:14](https://news.ycombinator.com/item?id=36982960) - [Google AMP – The Newest of Evasive Phishing Tactic](https://cofense.com/blog/google-amp-the-newest-of-evasive-phishing-tactic/)
 * [2023-08-03, 08:17:44](https://news.ycombinator.com/item?id=36982856) - [Netscape Meteors](https://erynwells.me/blog/2023/08/netscape-meteors/)
 * [2023-08-03, 08:12:15](https://news.ycombinator.com/item?id=36982813) - [Derek Lowe on AOH1996: A New Mode of Cancer Treatment](https://www.science.org/content/blog-post/new-mode-cancer-treatment)
