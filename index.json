@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=36985414"
     ],
     [
-      "Quirks of Python Package Versioning",
+      "Quirks of Python package versioning",
       "https://sethmlarson.dev/pep-440"
     ]
   ],
@@ -95,8 +95,18 @@
       "https://news.ycombinator.com/item?id=36984530"
     ],
     [
-      "Goto in Bash",
+      "Goto in Bash (2012)",
       "https://bobcopeland.com/blog/2012/10/goto-in-bash/"
+    ]
+  ],
+  [
+    [
+      "2023-08-03, 11:42:43",
+      "https://news.ycombinator.com/item?id=36984419"
+    ],
+    [
+      "“1.1.1.1 is now handling more than 1.3T requests per day”",
+      "https://twitter.com/eastdakota/status/1686927537740611584"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2023-08-03, 05:58:52",
-      "https://news.ycombinator.com/item?id=36981953"
-    ],
-    [
-      "Google’s Plan to DRM the Web Goes Against Everything Google Once Stood For",
-      "https://www.techdirt.com/2023/08/02/googles-plan-to-drm-the-web-goes-against-everything-google-once-stood-for/"
-    ]
-  ],
-  [
-    [
       "2023-08-03, 05:01:47",
       "https://news.ycombinator.com/item?id=36981580"
     ],
@@ -217,6 +217,16 @@
     [
       "SMS traffic pumping fraud",
       "https://support.twilio.com/hc/en-us/articles/8360406023067-SMS-Traffic-Pumping-Fraud"
+    ]
+  ],
+  [
+    [
+      "2023-08-03, 02:43:23",
+      "https://news.ycombinator.com/item?id=36980767"
+    ],
+    [
+      "Radio frequency hearing in humans and its effects (2003)",
+      "https://onlinelibrary.wiley.com/doi/pdf/10.1002/bem.10163"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Pico Serial Bootloader (2021)",
       "https://blog.usedbytes.com/2021/12/pico-serial-bootloader/"
-    ]
-  ],
-  [
-    [
-      "2023-08-01, 15:08:57",
-      "https://news.ycombinator.com/item?id=36956961"
-    ],
-    [
-      "Why Kundera never went home",
-      "https://compactmag.com/article/why-kundera-never-went-home"
     ]
   ],
   [
