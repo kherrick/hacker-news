@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-08-03](index.md)
 
+* [2023-08-03, 13:08:46](https://news.ycombinator.com/item?id=36985384) - [Canonical LXD forked by former project leader stgraber](https://github.com/stgraber/incus)
 * [2023-08-03, 12:52:16](https://news.ycombinator.com/item?id=36985197) - [IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face)
 * [2023-08-03, 12:46:41](https://news.ycombinator.com/item?id=36985128) - [Taming the Flame of Aging: Key Pathway for Chronic Inflammation Revealed](https://neurosciencenews.com/inflammation-brain-aging-23740/)
 * [2023-08-03, 12:23:41](https://news.ycombinator.com/item?id=36984869) - [Quantum oscillations of the quasiparticle lifetime in a metal](https://www.nature.com/articles/s41586-023-06330-y)
 * [2023-08-03, 12:08:48](https://news.ycombinator.com/item?id=36984695) - [Don't Be Clever](https://stitcher.io/blog/dont-be-clever)
+* [2023-08-03, 12:08:17](https://news.ycombinator.com/item?id=36984692) - [The Cloud Is a Prison. Can the Local-First Software Movement Set Us Free?](https://www.wired.com/story/the-cloud-is-a-prison-can-the-local-first-software-movement-set-us-free/)
 * [2023-08-03, 12:01:40](https://news.ycombinator.com/item?id=36984623) - [UpCodes (YC S17) is hiring engineers to automate construction compliance](https://up.codes/careers)
 * [2023-08-03, 11:53:35](https://news.ycombinator.com/item?id=36984530) - [Goto in Bash](https://bobcopeland.com/blog/2012/10/goto-in-bash/)
 * [2023-08-03, 11:42:35](https://news.ycombinator.com/item?id=36984416) - [Pgvector: Fewer Dimensions Are Better](https://supabase.com/blog/fewer-dimensions-are-better-pgvector)
