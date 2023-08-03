@@ -11,6 +11,7 @@
 * [2023-08-01, 22:26:05](https://news.ycombinator.com/item?id=36964072) - [Filament v3 has been released](https://filamentphp.com/community/danharrin-filament-v3)
 * [2023-08-01, 21:58:07](https://news.ycombinator.com/item?id=36963726) - [“Once” one-time concurrent initialization with an integer](https://nullprogram.com/blog/2023/07/31/)
 * [2023-08-01, 21:39:01](https://news.ycombinator.com/item?id=36963439) - [ServiceRouter: Hyperscale and Minimal Cost Service Mesh at Meta [pdf]](https://www.usenix.org/system/files/osdi23-saokar.pdf)
+* [2023-08-01, 21:35:52](https://news.ycombinator.com/item?id=36963386) - [Impressions of American Hotels 1883-1898 (2022)](https://www.theamericanmenu.com/2022/11/impressions-of-american-hotels.html)
 * [2023-08-01, 21:28:12](https://news.ycombinator.com/item?id=36963261) - [Internet Explorer Is Evil](http://toastytech.com/evil/index.html)
 * [2023-08-01, 21:24:08](https://news.ycombinator.com/item?id=36963200) - [Transform Your Android Device into a Linux Desktop](https://mrs-t.medium.com/transform-your-android-device-into-a-linux-desktop-110a3d084ac6)
 * [2023-08-01, 21:13:16](https://news.ycombinator.com/item?id=36963037) - [A Fire Upon The Deep By Vernor Vinge (1992)](https://archive.org/details/fireupondeep00ving)
