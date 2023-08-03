@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-03, 01:56:24](https://news.ycombinator.com/item?id=36980429) - [Ask HN: Is there any hopeful news about climate change?](https://news.ycombinator.com/item?id=36980429)
+* [2023-08-03, 02:04:36](https://news.ycombinator.com/item?id=36980475) - [Fitch Downgrades US Debt](https://www.bbc.com/news/business-66379366)
 * [2023-08-03, 01:14:26](https://news.ycombinator.com/item?id=36980110) - [Life at the Margin: How I got $25,000 in debt](https://www.natecation.com/life-at-the-margin-credit-card-debt/)
 * [2023-08-03, 00:43:14](https://news.ycombinator.com/item?id=36979886) - [Observation of zero resistance above 100 K in Pb₁₀₋ₓCuₓ(PO₄)₆O](https://arxiv.org/abs/2308.01192)
 * [2023-08-02, 23:56:33](https://news.ycombinator.com/item?id=36979532) - [Microsoft comes under blistering criticism for “grossly irresponsible” security](https://arstechnica.com/security/2023/08/microsoft-cloud-security-blasted-for-its-culture-of-toxic-obfuscation/)
@@ -15,7 +15,6 @@
 * [2023-08-02, 18:14:04](https://news.ycombinator.com/item?id=36974681) - [LK-99: Team of Southeast University observed zero resistance below 110 K](https://twitter.com/lipez400/status/1686793608626663441)
 * [2023-08-02, 17:34:18](https://news.ycombinator.com/item?id=36974082) - [Kickstarting a book to end enshittification, because Amazon will not carry it](https://pluralistic.net/2023/07/31/seize-the-means-of-computation/#the-internet-con)
 * [2023-08-02, 17:16:31](https://news.ycombinator.com/item?id=36973807) - [Companies with good ESG scores pollute as much as low-rated rivals](https://www.ft.com/content/b9582d62-cc6f-4b76-b0f9-5b37cf15dce4)
-* [2023-08-02, 17:00:49](https://news.ycombinator.com/item?id=36973584) - [Run Llama 2 uncensored locally](https://ollama.ai/blog/run-llama2-uncensored-locally)
 * [2023-08-02, 16:40:17](https://news.ycombinator.com/item?id=36973287) - [Coming Soon: Fedora for Apple Silicon Macs](https://fedoramagazine.org/coming-soon-fedora-for-apple-silicon-macs/)
 * [2023-08-02, 16:18:00](https://news.ycombinator.com/item?id=36972961) - [On the (nearly lethal) comforts of a luxury cruise (1996) [pdf]](https://harpers.org/wp-content/uploads/2008/09/HarpersMagazine-1996-01-0007859.pdf)
 * [2023-08-02, 15:40:04](https://news.ycombinator.com/item?id=36972398) - [Reflex – Web apps in pure Python](https://github.com/reflex-dev/reflex)
@@ -30,6 +29,7 @@
 * [2023-08-01, 16:12:44](https://news.ycombinator.com/item?id=36958008) - [Transcript of taped conversations among German nuclear physicists (1945)](https://ghdi.ghi-dc.org/sub_document.cfm?document_id=2320)
 * [2023-08-01, 12:02:11](https://news.ycombinator.com/item?id=36954936) - [The Shader Permutation Problem – Part 1: How Did We Get Here?](https://therealmjp.github.io/posts/shader-permutations-part1/)
 * [2023-08-01, 07:01:17](https://news.ycombinator.com/item?id=36953195) - [Oxocards: Interactive programmable minicomputers](https://oxocard.ch/en/)
+* [2023-08-01, 03:26:15](https://news.ycombinator.com/item?id=36951940) - [The Emperors for the Job](https://www.historytoday.com/archive/review/emperors-job)
 
 ## [Archives](archives/index.md)
 
