@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-03](index.md)
 
+* [2023-08-03, 03:42:11](https://news.ycombinator.com/item?id=36981090) - [SMS Pumping Attack](https://support.twilio.com/hc/en-us/articles/8360406023067-SMS-Traffic-Pumping-Fraud)
 * [2023-08-03, 03:33:49](https://news.ycombinator.com/item?id=36981033) - [With merge of this pull request, Brave Browser disables WebEnvironmentIntegrity](https://github.com/brave/brave-core/pull/19476)
 * [2023-08-03, 02:04:36](https://news.ycombinator.com/item?id=36980475) - [Fitch Downgrades US Debt](https://www.bbc.com/news/business-66379366)
 * [2023-08-03, 01:56:24](https://news.ycombinator.com/item?id=36980429) - [Ask HN: Is there any hopeful news about climate change?](https://news.ycombinator.com/item?id=36980429)
