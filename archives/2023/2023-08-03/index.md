@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-03](index.md)
 
+* [2023-08-03, 21:38:56](https://news.ycombinator.com/item?id=36992335) - [Nuked-MD-FPGA – accurate Sega Genesis re-implementation based on decapped chips](https://github.com/nukeykt/Nuked-MD-FPGA)
 * [2023-08-03, 21:31:19](https://news.ycombinator.com/item?id=36992249) - [As Ocean Oxygen Levels Dip, Fish Face an Uncertain Future](https://e360.yale.edu/features/as-ocean-oxygen-levels-dip-fish-face-an-uncertain-future)
 * [2023-08-03, 20:49:40](https://news.ycombinator.com/item?id=36991647) - [Matrix](https://matrix.org)
 * [2023-08-03, 20:34:42](https://news.ycombinator.com/item?id=36991434) - [Magic123: One Image to High-Quality 3D Object Generation](https://guochengqian.github.io/project/magic123/)
