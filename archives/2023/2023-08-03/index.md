@@ -43,6 +43,7 @@
 * [2023-08-03, 11:14:12](https://news.ycombinator.com/item?id=36984171) - [Network Protocols for Anyone Who Knows a Programming Language](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
 * [2023-08-03, 11:02:13](https://news.ycombinator.com/item?id=36984073) - [Cmd-stream-go – a high-performance remote command execution library for Golang](https://github.com/cmd-stream/cmd-stream-go)
 * [2023-08-03, 11:01:34](https://news.ycombinator.com/item?id=36984071) - [Briefcase: Convert a Python project into a standalone native application](https://briefcase.readthedocs.io/en/stable/)
+* [2023-08-03, 10:06:02](https://news.ycombinator.com/item?id=36983704) - [Why ISO was retired (2021)](https://bkhome.org/news/202112/why-iso-was-retired.html)
 * [2023-08-03, 10:05:55](https://news.ycombinator.com/item?id=36983702) - [Vicuna v1.5 series, featuring 4K and 16K context, based on Llama 2](https://twitter.com/lmsysorg/status/1686794639469371393)
 * [2023-08-03, 09:30:35](https://news.ycombinator.com/item?id=36983425) - [Men tend to regulate their emotions through actions rather than words](https://www.centreformalepsychology.com/male-psychology-magazine-listings/men-tend-to-regulate-their-emotions-through-actions-rather-than-words)
 * [2023-08-03, 08:48:22](https://news.ycombinator.com/item?id=36983117) - [99% of top Python packages are now wheels](https://pythonwheels.com/)
