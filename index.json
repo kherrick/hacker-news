@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-08-03, 00:43:14",
+      "https://news.ycombinator.com/item?id=36979886"
+    ],
+    [
+      "Observation of zero resistance above 100 K in Pb₁₀₋ₓCuₓ(PO₄)₆O",
+      "https://arxiv.org/abs/2308.01192"
+    ]
+  ],
+  [
+    [
+      "2023-08-02, 23:56:33",
+      "https://news.ycombinator.com/item?id=36979532"
+    ],
+    [
+      "Microsoft comes under blistering criticism for “grossly irresponsible” security",
+      "https://arstechnica.com/security/2023/08/microsoft-cloud-security-blasted-for-its-culture-of-toxic-obfuscation/"
+    ]
+  ],
+  [
+    [
       "2023-08-02, 23:36:50",
       "https://news.ycombinator.com/item?id=36979389"
     ],
     [
       "Jim Larkin, Backpage Exec, Dies by Suicide a Week Before His Trial",
       "https://www.techdirt.com/2023/08/02/jim-larkin-backpage-exec-dies-by-suicide-a-week-before-his-trial/"
+    ]
+  ],
+  [
+    [
+      "2023-08-02, 23:15:23",
+      "https://news.ycombinator.com/item?id=36979190"
+    ],
+    [
+      "The Infamous Coin Toss",
+      "https://ergodicityeconomics.com/2023/07/28/the-infamous-coin-toss/"
     ]
   ],
   [
@@ -71,32 +101,12 @@
   ],
   [
     [
-      "2023-08-02, 20:43:10",
-      "https://news.ycombinator.com/item?id=36977107"
-    ],
-    [
-      "ChromeOS is splitting the browser from the OS, getting more Linux-y",
-      "https://arstechnica.com/gadgets/2023/08/google-is-finally-separating-chrome-from-chromeos-for-easier-updates/"
-    ]
-  ],
-  [
-    [
       "2023-08-02, 20:13:42",
       "https://news.ycombinator.com/item?id=36976670"
     ],
     [
       "If Web Components are so great, why am I not using them?",
       "https://daverupert.com/2023/07/why-not-webcomponents/"
-    ]
-  ],
-  [
-    [
-      "2023-08-02, 19:41:40",
-      "https://news.ycombinator.com/item?id=36976124"
-    ],
-    [
-      "Busting a myth: “only writers subscribe to genre magazines”",
-      "http://neil-clarke.com/busting-a-myth/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Run Llama 2 uncensored locally",
       "https://ollama.ai/blog/run-llama2-uncensored-locally"
-    ]
-  ],
-  [
-    [
-      "2023-08-02, 16:54:59",
-      "https://news.ycombinator.com/item?id=36973498"
-    ],
-    [
-      "Academy Software Foundation Announces OpenPBR, a New Subproject of MaterialX",
-      "https://www.aswf.io/blog/academy-software-foundation-announces-openpbr-a-new-subproject-of-materialx/"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2023-08-01, 18:59:55",
+      "https://news.ycombinator.com/item?id=36960800"
+    ],
+    [
+      "See How Pencils Are Made in a Japanese Factory [video]",
+      "https://www.youtube.com/watch?v=Lk_57TP6RFk"
+    ]
+  ],
+  [
+    [
       "2023-08-01, 16:12:44",
       "https://news.ycombinator.com/item?id=36958008"
     ],
@@ -271,12 +281,12 @@
   ],
   [
     [
-      "2023-08-01, 07:31:12",
-      "https://news.ycombinator.com/item?id=36953371"
+      "2023-08-01, 12:02:11",
+      "https://news.ycombinator.com/item?id=36954936"
     ],
     [
-      "Moss Voltaics",
-      "https://iaac.net/project/moss-voltaics/"
+      "The Shader Permutation Problem – Part 1: How Did We Get Here?",
+      "https://therealmjp.github.io/posts/shader-permutations-part1/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Oxocards: Interactive programmable minicomputers",
       "https://oxocard.ch/en/"
-    ]
-  ],
-  [
-    [
-      "2023-08-01, 06:53:23",
-      "https://news.ycombinator.com/item?id=36953141"
-    ],
-    [
-      "Toward Condensers",
-      "https://openjdk.org/projects/leyden/notes/03-toward-condensers"
     ]
   ]
 ]
