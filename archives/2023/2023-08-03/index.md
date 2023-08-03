@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-03](index.md)
 
+* [2023-08-03, 20:31:00](https://news.ycombinator.com/item?id=36991381) - [Apple reports third quarter results](https://www.apple.com/newsroom/2023/08/apple-reports-third-quarter-results/)
 * [2023-08-03, 20:24:50](https://news.ycombinator.com/item?id=36991293) - [Color-Diffusion: using diffusion models to colorize black and white images](https://github.com/ErwannMillon/Color-diffusion)
 * [2023-08-03, 19:30:52](https://news.ycombinator.com/item?id=36990615) - [Cognitive AI for ADHD](https://www.comigo.ai)
 * [2023-08-03, 18:58:09](https://news.ycombinator.com/item?id=36990162) - [Commercial quantum computer identifies molecular candidate for better solar cell](https://www.ornl.gov/news/researchers-use-commercial-quantum-computer-identify-molecular-candidate-development-more)
@@ -68,6 +69,7 @@
 * [2023-08-03, 08:17:44](https://news.ycombinator.com/item?id=36982856) - [Netscape Meteors](https://erynwells.me/blog/2023/08/netscape-meteors/)
 * [2023-08-03, 08:12:15](https://news.ycombinator.com/item?id=36982813) - [Derek Lowe on AOH1996: A New Mode of Cancer Treatment](https://www.science.org/content/blog-post/new-mode-cancer-treatment)
 * [2023-08-03, 07:27:18](https://news.ycombinator.com/item?id=36982507) - [A list of recent hostile moves by Google's Chrome team](https://mastodon.social/@nekohayo/110775656176571435)
+* [2023-08-03, 06:17:29](https://news.ycombinator.com/item?id=36982067) - [On the Link Between Lyme Disease and Bioweapons (2019)](https://lithub.com/on-the-link-between-lyme-disease-and-bioweapons/)
 * [2023-08-03, 05:58:52](https://news.ycombinator.com/item?id=36981953) - [Google’s Plan to DRM the Web Goes Against Everything Google Once Stood For](https://www.techdirt.com/2023/08/02/googles-plan-to-drm-the-web-goes-against-everything-google-once-stood-for/)
 * [2023-08-03, 05:43:13](https://news.ycombinator.com/item?id=36981860) - [Tell HN: ai.com used to redirect to chat.openai.com, now it redirects to x.ai](https://news.ycombinator.com/item?id=36981860)
 * [2023-08-03, 05:41:19](https://news.ycombinator.com/item?id=36981843) - [LTS == 15 Years Not 5](https://www.logikalsolutions.com/wordpress/information-technology/lts/)

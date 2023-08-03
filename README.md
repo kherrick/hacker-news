@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-03, 20:31:00](https://news.ycombinator.com/item?id=36991381) - [Apple reports third quarter results](https://www.apple.com/newsroom/2023/08/apple-reports-third-quarter-results/)
 * [2023-08-03, 20:24:50](https://news.ycombinator.com/item?id=36991293) - [Color-Diffusion: using diffusion models to colorize black and white images](https://github.com/ErwannMillon/Color-diffusion)
 * [2023-08-03, 19:30:52](https://news.ycombinator.com/item?id=36990615) - [Cognitive AI for ADHD](https://www.comigo.ai)
 * [2023-08-03, 18:58:09](https://news.ycombinator.com/item?id=36990162) - [Commercial quantum computer identifies molecular candidate for better solar cell](https://www.ornl.gov/news/researchers-use-commercial-quantum-computer-identify-molecular-candidate-development-more)
@@ -21,14 +22,13 @@
 * [2023-08-03, 16:19:07](https://news.ycombinator.com/item?id=36987920) - [Show HN: Hydra 1.0 – open-source column-oriented Postgres](https://hydra-so.notion.site/Hydra-1-0-beta-318504444825401e8ce21796dcadd589)
 * [2023-08-03, 15:45:58](https://news.ycombinator.com/item?id=36987454) - [Launch HN: Sweep (YC S23) – A bot to create simple PRs in your codebase](https://github.com/sweepai/sweep)
 * [2023-08-03, 14:51:27](https://news.ycombinator.com/item?id=36986769) - [Elixir for cynical curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
-* [2023-08-03, 12:53:10](https://news.ycombinator.com/item?id=36985208) - [An Algorithm for Structuring Flowgraphs (1977) [pdf]](https://www.cs.tufts.edu/comp/150FP/archive/brenda-baker/structuring.pdf)
 * [2023-08-03, 12:00:33](https://news.ycombinator.com/item?id=36984611) - [Polars: Company Formation Announcement](https://www.pola.rs/posts/company-announcement/)
 * [2023-08-03, 11:01:34](https://news.ycombinator.com/item?id=36984071) - [Briefcase: Convert a Python project into a standalone native application](https://briefcase.readthedocs.io/en/stable/)
 * [2023-08-03, 10:06:02](https://news.ycombinator.com/item?id=36983704) - [Why ISO was retired (2021)](https://bkhome.org/news/202112/why-iso-was-retired.html)
 * [2023-08-03, 08:33:12](https://news.ycombinator.com/item?id=36982996) - [Who was the Bell Witch?](https://www.atlasobscura.com/articles/who-was-the-bell-witch)
 * [2023-08-03, 08:17:44](https://news.ycombinator.com/item?id=36982856) - [Netscape Meteors](https://erynwells.me/blog/2023/08/netscape-meteors/)
+* [2023-08-03, 06:17:29](https://news.ycombinator.com/item?id=36982067) - [On the Link Between Lyme Disease and Bioweapons (2019)](https://lithub.com/on-the-link-between-lyme-disease-and-bioweapons/)
 * [2023-08-03, 05:05:33](https://news.ycombinator.com/item?id=36981605) - [California Job Case](https://en.wikipedia.org/wiki/California_job_case)
-* [2023-08-03, 02:25:45](https://news.ycombinator.com/item?id=36980630) - [Tell HN: I think I found Toyota's battery](https://news.ycombinator.com/item?id=36980630)
 * [2023-08-02, 10:22:46](https://news.ycombinator.com/item?id=36969018) - [How NAT traversal works (2020)](https://tailscale.com/blog/how-nat-traversal-works/)
 
 ## [Archives](archives/index.md)
