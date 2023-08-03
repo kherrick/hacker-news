@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-03](index.md)
 
+* [2023-08-03, 18:58:09](https://news.ycombinator.com/item?id=36990162) - [Commercial quantum computer identifies molecular candidate for better solar cell](https://www.ornl.gov/news/researchers-use-commercial-quantum-computer-identify-molecular-candidate-development-more)
 * [2023-08-03, 18:42:02](https://news.ycombinator.com/item?id=36989936) - [WTF Happened in 2023?](https://www.notboring.co/p/wtf-happened-in-2023)
 * [2023-08-03, 18:35:53](https://news.ycombinator.com/item?id=36989858) - [The Holocaust Bomb: A Question of Time [2007]](https://sgp.fas.org/eprint/morland.html)
 * [2023-08-03, 18:35:11](https://news.ycombinator.com/item?id=36989845) - [FCC fines robocaller a record $300M after blocking billions of their scam calls](https://techcrunch.com/2023/08/03/fcc-fines-robocaller-a-record-300m-after-blocking-billions-of-their-scam-calls/)
@@ -67,6 +68,7 @@
 * [2023-08-03, 05:58:52](https://news.ycombinator.com/item?id=36981953) - [Google’s Plan to DRM the Web Goes Against Everything Google Once Stood For](https://www.techdirt.com/2023/08/02/googles-plan-to-drm-the-web-goes-against-everything-google-once-stood-for/)
 * [2023-08-03, 05:43:13](https://news.ycombinator.com/item?id=36981860) - [Tell HN: ai.com used to redirect to chat.openai.com, now it redirects to x.ai](https://news.ycombinator.com/item?id=36981860)
 * [2023-08-03, 05:41:19](https://news.ycombinator.com/item?id=36981843) - [LTS == 15 Years Not 5](https://www.logikalsolutions.com/wordpress/information-technology/lts/)
+* [2023-08-03, 05:05:33](https://news.ycombinator.com/item?id=36981605) - [California Job Case](https://en.wikipedia.org/wiki/California_job_case)
 * [2023-08-03, 05:01:47](https://news.ycombinator.com/item?id=36981580) - [System settings that aren’t in System Settings](https://eclecticlight.co/2023/07/29/system-settings-that-arent-in-system-settings/)
 * [2023-08-03, 04:13:45](https://news.ycombinator.com/item?id=36981279) - [Google Street View driver crashes after 100 MPH chase, police say](https://www.sfgate.com/tech/article/google-street-view-car-chase-18275718.php)
 * [2023-08-03, 03:42:11](https://news.ycombinator.com/item?id=36981090) - [SMS Pumping Attack](https://support.twilio.com/hc/en-us/articles/8360406023067-SMS-Traffic-Pumping-Fraud)
