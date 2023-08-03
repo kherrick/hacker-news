@@ -12,7 +12,6 @@
 * [2023-08-03, 18:35:53](https://news.ycombinator.com/item?id=36989858) - [The Holocaust Bomb: A question of time (2007)](https://sgp.fas.org/eprint/morland.html)
 * [2023-08-03, 18:35:11](https://news.ycombinator.com/item?id=36989845) - [FCC fines robocaller a record $300M after blocking billions of their scam calls](https://techcrunch.com/2023/08/03/fcc-fines-robocaller-a-record-300m-after-blocking-billions-of-their-scam-calls/)
 * [2023-08-03, 18:31:50](https://news.ycombinator.com/item?id=36989798) - [AWS to begin charging for public IPv4 addresses](https://www.infoq.com/news/2023/08/aws-ec2-public-ipv4/)
-* [2023-08-03, 18:16:59](https://news.ycombinator.com/item?id=36989604) - [Rail company that launched first H2 line opts for all-electric future](https://www.hydrogeninsight.com/transport/no-more-hydrogen-trains-rail-company-that-launched-worlds-first-h2-line-last-year-opts-for-all-electric-future/2-1-1495801?zephr_sso_ott=tiwZxe)
 * [2023-08-03, 18:13:51](https://news.ycombinator.com/item?id=36989569) - [Chrultrabook – Modify a Chromebook to Run Windows/Linux/macOS](https://chrultrabook.github.io/docs/)
 * [2023-08-03, 17:15:36](https://news.ycombinator.com/item?id=36988744) - [Brave Search launches own image and video search](https://brave.com/image-video-search/)
 * [2023-08-03, 17:00:44](https://news.ycombinator.com/item?id=36988511) - [PropelAuth (YC W22) Is Hiring Engineers](https://www.ycombinator.com/companies/propelauth/jobs)
@@ -30,6 +29,7 @@
 * [2023-08-03, 06:17:29](https://news.ycombinator.com/item?id=36982067) - [On the link between Lyme disease and bioweapons (2019)](https://lithub.com/on-the-link-between-lyme-disease-and-bioweapons/)
 * [2023-08-02, 23:38:51](https://news.ycombinator.com/item?id=36979408) - [Legends of Lizzie (1933)](https://www.newyorker.com/magazine/1933/04/22/legends-of-lizzie)
 * [2023-08-02, 10:22:46](https://news.ycombinator.com/item?id=36969018) - [How NAT traversal works (2020)](https://tailscale.com/blog/how-nat-traversal-works/)
+* [2023-08-02, 10:04:37](https://news.ycombinator.com/item?id=36968925) - [A collection of quant riddles with answers](https://puzzles.nigelcoldwell.co.uk/)
 
 ## [Archives](archives/index.md)
 
