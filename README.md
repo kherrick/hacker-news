@@ -2,6 +2,7 @@
 
 * [2023-08-03, 02:04:36](https://news.ycombinator.com/item?id=36980475) - [Fitch Downgrades US Debt](https://www.bbc.com/news/business-66379366)
 * [2023-08-03, 01:14:26](https://news.ycombinator.com/item?id=36980110) - [Life at the Margin: How I got $25,000 in debt](https://www.natecation.com/life-at-the-margin-credit-card-debt/)
+* [2023-08-03, 01:10:58](https://news.ycombinator.com/item?id=36980082) - [200k Compromised OpenAI Credentials Available for Purchase on the Dark Web](https://www.cpomagazine.com/cyber-security/over-200000-compromised-openai-credentials-available-for-purchase-on-the-dark-web/)
 * [2023-08-03, 00:43:14](https://news.ycombinator.com/item?id=36979886) - [Observation of zero resistance above 100 K in Pb₁₀₋ₓCuₓ(PO₄)₆O](https://arxiv.org/abs/2308.01192)
 * [2023-08-02, 23:56:33](https://news.ycombinator.com/item?id=36979532) - [Microsoft comes under blistering criticism for “grossly irresponsible” security](https://arstechnica.com/security/2023/08/microsoft-cloud-security-blasted-for-its-culture-of-toxic-obfuscation/)
 * [2023-08-02, 23:15:23](https://news.ycombinator.com/item?id=36979190) - [The infamous coin toss](https://ergodicityeconomics.com/2023/07/28/the-infamous-coin-toss/)
@@ -16,7 +17,6 @@
 * [2023-08-02, 17:34:18](https://news.ycombinator.com/item?id=36974082) - [Kickstarting a book to end enshittification, because Amazon will not carry it](https://pluralistic.net/2023/07/31/seize-the-means-of-computation/#the-internet-con)
 * [2023-08-02, 17:16:31](https://news.ycombinator.com/item?id=36973807) - [Companies with good ESG scores pollute as much as low-rated rivals](https://www.ft.com/content/b9582d62-cc6f-4b76-b0f9-5b37cf15dce4)
 * [2023-08-02, 16:40:17](https://news.ycombinator.com/item?id=36973287) - [Coming Soon: Fedora for Apple Silicon Macs](https://fedoramagazine.org/coming-soon-fedora-for-apple-silicon-macs/)
-* [2023-08-02, 16:18:00](https://news.ycombinator.com/item?id=36972961) - [On the (nearly lethal) comforts of a luxury cruise (1996) [pdf]](https://harpers.org/wp-content/uploads/2008/09/HarpersMagazine-1996-01-0007859.pdf)
 * [2023-08-02, 15:40:04](https://news.ycombinator.com/item?id=36972398) - [Reflex – Web apps in pure Python](https://github.com/reflex-dev/reflex)
 * [2023-08-02, 15:36:31](https://news.ycombinator.com/item?id=36972347) - [Open-sourcing AudioCraft: Generative AI for audio](https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/)
 * [2023-08-02, 15:11:48](https://news.ycombinator.com/item?id=36971975) - [A non-mathematical introduction to Kalman filters for programmers](https://praveshkoirala.com/2023/06/13/a-non-mathematical-introduction-to-kalman-filters-for-programmers/)
