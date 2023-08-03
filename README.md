@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-03, 18:42:02](https://news.ycombinator.com/item?id=36989936) - [WTF Happened in 2023?](https://www.notboring.co/p/wtf-happened-in-2023)
 * [2023-08-03, 18:35:53](https://news.ycombinator.com/item?id=36989858) - [The Holocaust Bomb: A Question of Time [2007]](https://sgp.fas.org/eprint/morland.html)
 * [2023-08-03, 18:35:11](https://news.ycombinator.com/item?id=36989845) - [FCC fines robocaller a record $300M after blocking billions of their scam calls](https://techcrunch.com/2023/08/03/fcc-fines-robocaller-a-record-300m-after-blocking-billions-of-their-scam-calls/)
 * [2023-08-03, 18:31:50](https://news.ycombinator.com/item?id=36989798) - [AWS to Begin Charging for Public IPv4 Addresses](https://www.infoq.com/news/2023/08/aws-ec2-public-ipv4/)
@@ -23,6 +22,7 @@
 * [2023-08-03, 14:51:27](https://news.ycombinator.com/item?id=36986769) - [Elixir for Cynical Curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
 * [2023-08-03, 12:53:10](https://news.ycombinator.com/item?id=36985208) - [An Algorithm for Structuring Flowgraphs (1977) [pdf]](https://www.cs.tufts.edu/comp/150FP/archive/brenda-baker/structuring.pdf)
 * [2023-08-03, 12:00:33](https://news.ycombinator.com/item?id=36984611) - [Polars: Company Formation Announcement](https://www.pola.rs/posts/company-announcement/)
+* [2023-08-03, 11:53:35](https://news.ycombinator.com/item?id=36984530) - [Goto in Bash (2012)](https://bobcopeland.com/blog/2012/10/goto-in-bash/)
 * [2023-08-03, 11:31:10](https://news.ycombinator.com/item?id=36984302) - [Malicious Android Apps Slip into Disguise](https://krebsonsecurity.com/2023/08/how-malicious-android-apps-slip-into-disguise/)
 * [2023-08-03, 11:01:34](https://news.ycombinator.com/item?id=36984071) - [Briefcase: Convert a Python project into a standalone native application](https://briefcase.readthedocs.io/en/stable/)
 * [2023-08-03, 10:06:02](https://news.ycombinator.com/item?id=36983704) - [Why ISO was retired (2021)](https://bkhome.org/news/202112/why-iso-was-retired.html)
