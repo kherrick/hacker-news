@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-03, 16:38:37](https://news.ycombinator.com/item?id=36988192) - [Ask HN: Any freelancers here? I need burnout advice](https://news.ycombinator.com/item?id=36988192)
 * [2023-08-03, 16:28:24](https://news.ycombinator.com/item?id=36988047) - [Pegasus Mail](https://www.pmail.com/)
 * [2023-08-03, 15:56:22](https://news.ycombinator.com/item?id=36987619) - [The Cartel That Controls the US Food System](https://statecraft.beehiiv.com/p/the-cartel-that-controls-us-meat)
 * [2023-08-03, 15:45:58](https://news.ycombinator.com/item?id=36987454) - [Launch HN: Sweep (YC S23) – A bot to create simple PRs in your codebase](https://github.com/sweepai/sweep)
@@ -7,7 +8,6 @@
 * [2023-08-03, 14:51:27](https://news.ycombinator.com/item?id=36986769) - [Elixir for Cynical Curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
 * [2023-08-03, 14:26:36](https://news.ycombinator.com/item?id=36986417) - [Cloudflare Registrar now supports .dev domains](https://twitter.com/eastdakota/status/1686513213503127557)
 * [2023-08-03, 13:11:38](https://news.ycombinator.com/item?id=36985414) - [Quirks of Python package versioning](https://sethmlarson.dev/pep-440)
-* [2023-08-03, 13:08:46](https://news.ycombinator.com/item?id=36985384) - [Canonical LXD forked by former project leader stgraber](https://github.com/stgraber/incus)
 * [2023-08-03, 12:53:10](https://news.ycombinator.com/item?id=36985208) - [An Algorithm for Structuring Flowgraphs (1977) [pdf]](https://www.cs.tufts.edu/comp/150FP/archive/brenda-baker/structuring.pdf)
 * [2023-08-03, 12:52:16](https://news.ycombinator.com/item?id=36985197) - [IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face)
 * [2023-08-03, 12:46:41](https://news.ycombinator.com/item?id=36985128) - [Taming the Flame of Aging: Key Pathway for Chronic Inflammation Revealed](https://neurosciencenews.com/inflammation-brain-aging-23740/)
