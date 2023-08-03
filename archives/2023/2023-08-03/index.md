@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-03](index.md)
 
+* [2023-08-03, 10:05:55](https://news.ycombinator.com/item?id=36983702) - [Vicuna v1.5 series, featuring 4K and 16K context, based on Llama 2](https://twitter.com/lmsysorg/status/1686794639469371393)
 * [2023-08-03, 08:29:14](https://news.ycombinator.com/item?id=36982960) - [Google AMP – The Newest of Evasive Phishing Tactic](https://cofense.com/blog/google-amp-the-newest-of-evasive-phishing-tactic/)
 * [2023-08-03, 08:17:44](https://news.ycombinator.com/item?id=36982856) - [Netscape Meteors](https://erynwells.me/blog/2023/08/netscape-meteors/)
 * [2023-08-03, 08:12:15](https://news.ycombinator.com/item?id=36982813) - [Derek Lowe on AOH1996: A New Mode of Cancer Treatment](https://www.science.org/content/blog-post/new-mode-cancer-treatment)
@@ -21,6 +22,7 @@
 * [2023-08-03, 02:36:27](https://news.ycombinator.com/item?id=36980714) - [Building the Future of X](https://blog.twitter.com/en_us/topics/company/2023/building-the-future-of-x)
 * [2023-08-03, 02:04:36](https://news.ycombinator.com/item?id=36980475) - [Fitch Downgrades US Debt](https://www.bbc.com/news/business-66379366)
 * [2023-08-03, 01:56:24](https://news.ycombinator.com/item?id=36980429) - [Ask HN: Is there any hopeful news about climate change?](https://news.ycombinator.com/item?id=36980429)
+* [2023-08-03, 01:24:05](https://news.ycombinator.com/item?id=36980185) - [Personal branding guide: Software engineer edition](https://blog.polywork.com/personal-branding-guide-engineer/)
 * [2023-08-03, 01:14:26](https://news.ycombinator.com/item?id=36980110) - [Life at the Margin: How I got $25,000 in debt](https://www.natecation.com/life-at-the-margin-credit-card-debt/)
 * [2023-08-03, 01:10:58](https://news.ycombinator.com/item?id=36980082) - [200k Compromised OpenAI Credentials Available for Purchase on the Dark Web](https://www.cpomagazine.com/cyber-security/over-200000-compromised-openai-credentials-available-for-purchase-on-the-dark-web/)
 * [2023-08-03, 00:43:14](https://news.ycombinator.com/item?id=36979886) - [Observation of zero resistance above 100 K in Pb₁₀₋ₓCuₓ(PO₄)₆O](https://arxiv.org/abs/2308.01192)
