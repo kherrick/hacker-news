@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-03, 21:31:19",
+      "https://news.ycombinator.com/item?id=36992249"
+    ],
+    [
+      "As Ocean Oxygen Levels Dip, Fish Face an Uncertain Future",
+      "https://e360.yale.edu/features/as-ocean-oxygen-levels-dip-fish-face-an-uncertain-future"
+    ]
+  ],
+  [
+    [
       "2023-08-03, 20:34:42",
       "https://news.ycombinator.com/item?id=36991434"
     ],
@@ -17,16 +27,6 @@
     [
       "Color-Diffusion: using diffusion models to colorize black and white images",
       "https://github.com/ErwannMillon/Color-diffusion"
-    ]
-  ],
-  [
-    [
-      "2023-08-03, 19:43:02",
-      "https://news.ycombinator.com/item?id=36990764"
-    ],
-    [
-      "Airbyte API & Terraform Provider – available in open source",
-      "https://airbyte.com/blog/airbytes-official-api-and-terraform-provider-now-in-open-source"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2023-08-03, 12:53:10",
-      "https://news.ycombinator.com/item?id=36985208"
-    ],
-    [
-      "An Algorithm for Structuring Flowgraphs (1977) [pdf]",
-      "https://www.cs.tufts.edu/comp/150FP/archive/brenda-baker/structuring.pdf"
-    ]
-  ],
-  [
-    [
       "2023-08-03, 12:00:33",
       "https://news.ycombinator.com/item?id=36984611"
     ],
@@ -257,6 +247,16 @@
     [
       "Netscape Meteors",
       "https://erynwells.me/blog/2023/08/netscape-meteors/"
+    ]
+  ],
+  [
+    [
+      "2023-08-03, 07:18:42",
+      "https://news.ycombinator.com/item?id=36982459"
+    ],
+    [
+      "Debugging the C++ standard library on macOS",
+      "https://www.jviotti.com/2022/05/05/debugging-the-cxx-standard-library-on-macos.html"
     ]
   ],
   [
