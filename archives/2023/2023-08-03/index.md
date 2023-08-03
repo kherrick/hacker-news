@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-03](index.md)
 
 * [2023-08-03, 14:57:54](https://news.ycombinator.com/item?id=36986847) - [Kenyan moderators decry toll of training of AI](https://www.theguardian.com/technology/2023/aug/02/ai-chatbot-training-human-toll-content-moderator-meta-openai)
+* [2023-08-03, 14:51:27](https://news.ycombinator.com/item?id=36986769) - [Elixir for Cynical Curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
 * [2023-08-03, 14:35:40](https://news.ycombinator.com/item?id=36986571) - [Google Street View car careens into creek after 100mph cop chase](https://www.theregister.com/2023/08/03/google_maps_driver_arrested/)
 * [2023-08-03, 14:30:35](https://news.ycombinator.com/item?id=36986481) - [How the Recession Doomers Got the U.S. Economy So Wrong](https://www.theatlantic.com/ideas/archive/2023/08/recession-doomers-economy/674900/)
 * [2023-08-03, 13:16:24](https://news.ycombinator.com/item?id=36985469) - [Most in U.S. (57%) prefer big houses, even if amenities farther away](https://www.pewresearch.org/short-reads/2023/08/02/majority-of-americans-prefer-a-community-with-big-houses-even-if-local-amenities-are-farther-away/)
@@ -17,6 +18,7 @@
 * [2023-08-03, 12:08:48](https://news.ycombinator.com/item?id=36984695) - [Don't Be Clever](https://stitcher.io/blog/dont-be-clever)
 * [2023-08-03, 12:08:17](https://news.ycombinator.com/item?id=36984692) - [The Cloud Is a Prison. Can the Local-First Software Movement Set Us Free?](https://www.wired.com/story/the-cloud-is-a-prison-can-the-local-first-software-movement-set-us-free/)
 * [2023-08-03, 12:01:40](https://news.ycombinator.com/item?id=36984623) - [UpCodes (YC S17) is hiring engineers to automate construction compliance](https://up.codes/careers)
+* [2023-08-03, 12:00:33](https://news.ycombinator.com/item?id=36984611) - [Polars: Company Formation Announcement](https://www.pola.rs/posts/company-announcement/)
 * [2023-08-03, 11:53:35](https://news.ycombinator.com/item?id=36984530) - [Goto in Bash](https://bobcopeland.com/blog/2012/10/goto-in-bash/)
 * [2023-08-03, 11:42:43](https://news.ycombinator.com/item?id=36984419) - [“1.1.1.1 is now handling more than 1.3T requests per day”](https://twitter.com/eastdakota/status/1686927537740611584)
 * [2023-08-03, 11:42:35](https://news.ycombinator.com/item?id=36984416) - [Pgvector: Fewer Dimensions Are Better](https://supabase.com/blog/fewer-dimensions-are-better-pgvector)
