@@ -14,6 +14,7 @@
 * [2023-08-03, 18:16:59](https://news.ycombinator.com/item?id=36989604) - [Rail company that launched first H2 line opts for all-electric future](https://www.hydrogeninsight.com/transport/no-more-hydrogen-trains-rail-company-that-launched-worlds-first-h2-line-last-year-opts-for-all-electric-future/2-1-1495801?zephr_sso_ott=tiwZxe)
 * [2023-08-03, 18:14:32](https://news.ycombinator.com/item?id=36989584) - [Quebec Ministery of Cybersecurity and Digital Technology employee data leaked](https://www.journaldemontreal.com/2023/08/03/fuite-de-donnees-au-ministere-deric-caire)
 * [2023-08-03, 18:13:51](https://news.ycombinator.com/item?id=36989569) - [Chrultrabook – Modify a Chromebook to Run Windows/Linux/macOS](https://chrultrabook.github.io/docs/)
+* [2023-08-03, 18:08:34](https://news.ycombinator.com/item?id=36989504) - [I just can't write normal software](https://www.thesoftwarephilosopher.com/articles/2023-08-03-i-just-cant-write-normal-software.html)
 * [2023-08-03, 18:08:32](https://news.ycombinator.com/item?id=36989503) - [On-disk HNSW index for Postgres with pg_embedding](https://neon.tech/blog/pg_embedding-on-disk-hnsw-index)
 * [2023-08-03, 17:15:36](https://news.ycombinator.com/item?id=36988744) - [Brave Search launches own image and video search](https://brave.com/image-video-search/)
 * [2023-08-03, 17:04:29](https://news.ycombinator.com/item?id=36988564) - [Drop Table “Companies”;– LTD](https://find-and-update.company-information.service.gov.uk/company/10542519)
