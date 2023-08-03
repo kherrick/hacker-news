@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-03, 11:42:35",
+      "https://news.ycombinator.com/item?id=36984416"
+    ],
+    [
+      "Pgvector: Fewer Dimensions Are Better",
+      "https://supabase.com/blog/fewer-dimensions-are-better-pgvector"
+    ]
+  ],
+  [
+    [
       "2023-08-03, 11:28:31",
       "https://news.ycombinator.com/item?id=36984282"
     ],
@@ -187,16 +197,6 @@
     [
       "A non-mathematical introduction to Kalman filters for programmers",
       "https://praveshkoirala.com/2023/06/13/a-non-mathematical-introduction-to-kalman-filters-for-programmers/"
-    ]
-  ],
-  [
-    [
-      "2023-08-02, 15:05:16",
-      "https://news.ycombinator.com/item?id=36971888"
-    ],
-    [
-      "The underground world of credit card network exploitation",
-      "https://chargebackstop.com/blog/card-networks-exploitation/"
     ]
   ],
   [
