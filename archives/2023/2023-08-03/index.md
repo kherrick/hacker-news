@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-03](index.md)
 
+* [2023-08-03, 16:44:04](https://news.ycombinator.com/item?id=36988262) - [Hackers manage to unlock Tesla software-locked features](https://electrek.co/2023/08/03/hackers-manage-unlock-tesla-software-locked-features/)
 * [2023-08-03, 16:38:37](https://news.ycombinator.com/item?id=36988192) - [Ask HN: Any freelancers here? I need burnout advice](https://news.ycombinator.com/item?id=36988192)
 * [2023-08-03, 16:28:24](https://news.ycombinator.com/item?id=36988047) - [Pegasus Mail](https://www.pmail.com/)
+* [2023-08-03, 16:09:20](https://news.ycombinator.com/item?id=36987808) - [Falsehoods Programmers Believe In](https://github.com/kdeldycke/awesome-falsehood)
 * [2023-08-03, 15:56:22](https://news.ycombinator.com/item?id=36987619) - [The Cartel That Controls the US Food System](https://statecraft.beehiiv.com/p/the-cartel-that-controls-us-meat)
 * [2023-08-03, 15:45:58](https://news.ycombinator.com/item?id=36987454) - [Launch HN: Sweep (YC S23) – A bot to create simple PRs in your codebase](https://github.com/sweepai/sweep)
 * [2023-08-03, 15:39:37](https://news.ycombinator.com/item?id=36987372) - [GNU Units](https://www.gnu.org/software/units/)
