@@ -90,6 +90,7 @@
 * [2023-08-02, 06:52:45](https://news.ycombinator.com/item?id=36967829) - [The Beetle That Heads for the ‘Back Door’ When Eaten by a Frog](https://www.smithsonianmag.com/smart-news/when-beetle-gets-eaten-frog-it-forces-its-way-out-back-door-180975484/)
 * [2023-08-02, 06:16:57](https://news.ycombinator.com/item?id=36967594) - [Stopping at 90%](https://austinhenley.com/blog/90percent.html)
 * [2023-08-02, 06:15:09](https://news.ycombinator.com/item?id=36967579) - [Encyclopedia of Life](https://eol.org/)
+* [2023-08-02, 05:53:18](https://news.ycombinator.com/item?id=36967413) - [Tidal Cycles – Live coding music with Algorithmic patterns](https://tidalcycles.org/)
 * [2023-08-02, 05:17:04](https://news.ycombinator.com/item?id=36967205) - [Reading SEC filings using LLMs](https://www.beatandraise.com/)
 * [2023-08-02, 05:06:18](https://news.ycombinator.com/item?id=36967159) - [Stripe is no longer a suitable payment processor](https://news.ycombinator.com/item?id=36967159)
 * [2023-08-02, 04:51:36](https://news.ycombinator.com/item?id=36967088) - [Babur the Naturalist](https://blogs.bl.uk/asian-and-african/2023/07/babur-the-naturalist.html)
