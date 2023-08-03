@@ -60,6 +60,7 @@
 * [2023-08-03, 03:17:00](https://news.ycombinator.com/item?id=36980946) - [If you think p-values are problematic, wait until you understand Bayes Factors](http://datacolada.org/78a)
 * [2023-08-03, 02:43:23](https://news.ycombinator.com/item?id=36980767) - [Radio frequency hearing in humans and its effects (2003)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/bem.10163)
 * [2023-08-03, 02:36:27](https://news.ycombinator.com/item?id=36980714) - [Building the Future of X](https://blog.twitter.com/en_us/topics/company/2023/building-the-future-of-x)
+* [2023-08-03, 02:25:45](https://news.ycombinator.com/item?id=36980630) - [Tell HN: I think I found Toyota's battery](https://news.ycombinator.com/item?id=36980630)
 * [2023-08-03, 02:04:36](https://news.ycombinator.com/item?id=36980475) - [Fitch Downgrades US Debt](https://www.bbc.com/news/business-66379366)
 * [2023-08-03, 01:56:24](https://news.ycombinator.com/item?id=36980429) - [Ask HN: Is there any hopeful news about climate change?](https://news.ycombinator.com/item?id=36980429)
 * [2023-08-03, 01:24:05](https://news.ycombinator.com/item?id=36980185) - [Personal branding guide: Software engineer edition](https://blog.polywork.com/personal-branding-guide-engineer/)
