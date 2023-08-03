@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-03](index.md)
 
+* [2023-08-03, 20:24:50](https://news.ycombinator.com/item?id=36991293) - [Color-Diffusion: using diffusion models to colorize black and white images](https://github.com/ErwannMillon/Color-diffusion)
 * [2023-08-03, 19:30:52](https://news.ycombinator.com/item?id=36990615) - [Cognitive AI for ADHD](https://www.comigo.ai)
 * [2023-08-03, 18:58:09](https://news.ycombinator.com/item?id=36990162) - [Commercial quantum computer identifies molecular candidate for better solar cell](https://www.ornl.gov/news/researchers-use-commercial-quantum-computer-identify-molecular-candidate-development-more)
 * [2023-08-03, 18:42:02](https://news.ycombinator.com/item?id=36989936) - [WTF Happened in 2023?](https://www.notboring.co/p/wtf-happened-in-2023)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-03, 20:24:50](https://news.ycombinator.com/item?id=36991293) - [Color-Diffusion: using diffusion models to colorize black and white images](https://github.com/ErwannMillon/Color-diffusion)
 * [2023-08-03, 19:30:52](https://news.ycombinator.com/item?id=36990615) - [Cognitive AI for ADHD](https://www.comigo.ai)
 * [2023-08-03, 18:58:09](https://news.ycombinator.com/item?id=36990162) - [Commercial quantum computer identifies molecular candidate for better solar cell](https://www.ornl.gov/news/researchers-use-commercial-quantum-computer-identify-molecular-candidate-development-more)
 * [2023-08-03, 18:35:53](https://news.ycombinator.com/item?id=36989858) - [The Holocaust Bomb: A Question of Time [2007]](https://sgp.fas.org/eprint/morland.html)
@@ -26,7 +27,6 @@
 * [2023-08-03, 10:06:02](https://news.ycombinator.com/item?id=36983704) - [Why ISO was retired (2021)](https://bkhome.org/news/202112/why-iso-was-retired.html)
 * [2023-08-03, 08:33:12](https://news.ycombinator.com/item?id=36982996) - [Who was the Bell Witch?](https://www.atlasobscura.com/articles/who-was-the-bell-witch)
 * [2023-08-03, 08:17:44](https://news.ycombinator.com/item?id=36982856) - [Netscape Meteors](https://erynwells.me/blog/2023/08/netscape-meteors/)
-* [2023-08-03, 08:12:15](https://news.ycombinator.com/item?id=36982813) - [A New Mode of Cancer Treatment](https://www.science.org/content/blog-post/new-mode-cancer-treatment)
 * [2023-08-03, 05:05:33](https://news.ycombinator.com/item?id=36981605) - [California Job Case](https://en.wikipedia.org/wiki/California_job_case)
 * [2023-08-03, 02:25:45](https://news.ycombinator.com/item?id=36980630) - [Tell HN: I think I found Toyota's battery](https://news.ycombinator.com/item?id=36980630)
 * [2023-08-02, 10:22:46](https://news.ycombinator.com/item?id=36969018) - [How NAT traversal works (2020)](https://tailscale.com/blog/how-nat-traversal-works/)
