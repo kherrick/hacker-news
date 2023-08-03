@@ -2,6 +2,7 @@
 
 * [2023-08-03, 14:57:54](https://news.ycombinator.com/item?id=36986847) - [Kenyan moderators decry toll of training of AI](https://www.theguardian.com/technology/2023/aug/02/ai-chatbot-training-human-toll-content-moderator-meta-openai)
 * [2023-08-03, 14:51:27](https://news.ycombinator.com/item?id=36986769) - [Elixir for Cynical Curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
+* [2023-08-03, 14:26:36](https://news.ycombinator.com/item?id=36986417) - [Cloudflare Registrar now supports .dev domains](https://twitter.com/eastdakota/status/1686513213503127557)
 * [2023-08-03, 13:11:38](https://news.ycombinator.com/item?id=36985414) - [Quirks of Python package versioning](https://sethmlarson.dev/pep-440)
 * [2023-08-03, 13:08:46](https://news.ycombinator.com/item?id=36985384) - [Canonical LXD forked by former project leader stgraber](https://github.com/stgraber/incus)
 * [2023-08-03, 12:53:10](https://news.ycombinator.com/item?id=36985208) - [An Algorithm for Structuring Flowgraphs (1977) [pdf]](https://www.cs.tufts.edu/comp/150FP/archive/brenda-baker/structuring.pdf)
@@ -9,7 +10,6 @@
 * [2023-08-03, 12:46:41](https://news.ycombinator.com/item?id=36985128) - [Taming the Flame of Aging: Key Pathway for Chronic Inflammation Revealed](https://neurosciencenews.com/inflammation-brain-aging-23740/)
 * [2023-08-03, 12:23:41](https://news.ycombinator.com/item?id=36984869) - [Quantum oscillations of the quasiparticle lifetime in a metal](https://www.nature.com/articles/s41586-023-06330-y)
 * [2023-08-03, 12:08:48](https://news.ycombinator.com/item?id=36984695) - [Don't Be Clever](https://stitcher.io/blog/dont-be-clever)
-* [2023-08-03, 12:08:17](https://news.ycombinator.com/item?id=36984692) - [The cloud is a prison. can the local-first software movement set us free?](https://www.wired.com/story/the-cloud-is-a-prison-can-the-local-first-software-movement-set-us-free/)
 * [2023-08-03, 12:01:40](https://news.ycombinator.com/item?id=36984623) - [UpCodes (YC S17) is hiring engineers to automate construction compliance](https://up.codes/careers)
 * [2023-08-03, 12:00:33](https://news.ycombinator.com/item?id=36984611) - [Polars: Company Formation Announcement](https://www.pola.rs/posts/company-announcement/)
 * [2023-08-03, 11:53:35](https://news.ycombinator.com/item?id=36984530) - [Goto in Bash (2012)](https://bobcopeland.com/blog/2012/10/goto-in-bash/)
