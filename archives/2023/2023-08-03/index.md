@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-03](index.md)
 
+* [2023-08-03, 18:28:51](https://news.ycombinator.com/item?id=36989753) - [Experimental Alzheimer's Vaccine Shows Promise in Mice](https://gizmodo.com/japan-experimental-alzheimers-vaccine-is-promising-1850700985)
+* [2023-08-03, 18:14:32](https://news.ycombinator.com/item?id=36989584) - [Quebec Ministery of Cybersecurity and Digital Technology employee data leaked](https://www.journaldemontreal.com/2023/08/03/fuite-de-donnees-au-ministere-deric-caire)
 * [2023-08-03, 17:15:36](https://news.ycombinator.com/item?id=36988744) - [Brave Search launches own image and video search](https://brave.com/image-video-search/)
 * [2023-08-03, 17:04:29](https://news.ycombinator.com/item?id=36988564) - [Drop Table “Companies”;– LTD](https://find-and-update.company-information.service.gov.uk/company/10542519)
 * [2023-08-03, 17:00:44](https://news.ycombinator.com/item?id=36988511) - [PropelAuth (YC W22) Is Hiring Engineers](https://www.ycombinator.com/companies/propelauth/jobs)
