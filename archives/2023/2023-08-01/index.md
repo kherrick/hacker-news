@@ -22,6 +22,7 @@
 * [2023-08-01, 19:54:46](https://news.ycombinator.com/item?id=36961734) - [Mac Mini M1 Mod to Receive Power over Ethernet Instead of the AC Input](https://www.inferse.com/660551/hardware-hacker-mods-an-m1-mac-mini-to-receive-power-over-ethernet-instead-of-the-ac-input/)
 * [2023-08-01, 19:35:45](https://news.ycombinator.com/item?id=36961445) - [Evading JavaScript anti-debugging techniques](https://www.nullpt.rs/evading-anti-debugging-techniques)
 * [2023-08-01, 19:23:02](https://news.ycombinator.com/item?id=36961201) - [The Evolution of Senescence (2022)](https://kevinbinz.com/2022/06/12/the-evolution-of-senescence/)
+* [2023-08-01, 19:20:48](https://news.ycombinator.com/item?id=36961152) - [The Canopener Bridge](https://11foot8.com/)
 * [2023-08-01, 19:17:59](https://news.ycombinator.com/item?id=36961101) - [Alfred-40B, an OSS RLHF version of Falcon40B](https://www.lighton.ai/blog/lighton-s-blog-4/introducing-alfred-40b-0723-38)
 * [2023-08-01, 19:14:52](https://news.ycombinator.com/item?id=36961050) - [Permission.site](https://permission.site/)
 * [2023-08-01, 19:11:45](https://news.ycombinator.com/item?id=36961009) - [US lawmaker says high-tech investment 'leaving Israel' amid judicial overhaul](https://www.middleeasteye.net/news/us-lawmaker-ro-khanna-investment-leaving-israel-judicial-overhaul)
