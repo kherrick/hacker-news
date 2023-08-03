@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-03](index.md)
 
+* [2023-08-03, 14:57:54](https://news.ycombinator.com/item?id=36986847) - [Kenyan moderators decry toll of training of AI](https://www.theguardian.com/technology/2023/aug/02/ai-chatbot-training-human-toll-content-moderator-meta-openai)
+* [2023-08-03, 14:35:40](https://news.ycombinator.com/item?id=36986571) - [Google Street View car careens into creek after 100mph cop chase](https://www.theregister.com/2023/08/03/google_maps_driver_arrested/)
 * [2023-08-03, 14:30:35](https://news.ycombinator.com/item?id=36986481) - [How the Recession Doomers Got the U.S. Economy So Wrong](https://www.theatlantic.com/ideas/archive/2023/08/recession-doomers-economy/674900/)
 * [2023-08-03, 13:16:24](https://news.ycombinator.com/item?id=36985469) - [Most in U.S. (57%) prefer big houses, even if amenities farther away](https://www.pewresearch.org/short-reads/2023/08/02/majority-of-americans-prefer-a-community-with-big-houses-even-if-local-amenities-are-farther-away/)
 * [2023-08-03, 13:11:38](https://news.ycombinator.com/item?id=36985414) - [Quirks of Python Package Versioning](https://sethmlarson.dev/pep-440)
