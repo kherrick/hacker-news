@@ -4,11 +4,17 @@
 
 ### [Archives](../../index.md) for [2023-08-03](index.md)
 
+* [2023-08-03, 12:52:16](https://news.ycombinator.com/item?id=36985197) - [IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face)
+* [2023-08-03, 12:46:41](https://news.ycombinator.com/item?id=36985128) - [Taming the Flame of Aging: Key Pathway for Chronic Inflammation Revealed](https://neurosciencenews.com/inflammation-brain-aging-23740/)
+* [2023-08-03, 12:23:41](https://news.ycombinator.com/item?id=36984869) - [Quantum oscillations of the quasiparticle lifetime in a metal](https://www.nature.com/articles/s41586-023-06330-y)
+* [2023-08-03, 12:08:48](https://news.ycombinator.com/item?id=36984695) - [Don't Be Clever](https://stitcher.io/blog/dont-be-clever)
 * [2023-08-03, 12:01:40](https://news.ycombinator.com/item?id=36984623) - [UpCodes (YC S17) is hiring engineers to automate construction compliance](https://up.codes/careers)
+* [2023-08-03, 11:53:35](https://news.ycombinator.com/item?id=36984530) - [Goto in Bash](https://bobcopeland.com/blog/2012/10/goto-in-bash/)
 * [2023-08-03, 11:42:35](https://news.ycombinator.com/item?id=36984416) - [Pgvector: Fewer Dimensions Are Better](https://supabase.com/blog/fewer-dimensions-are-better-pgvector)
 * [2023-08-03, 11:31:10](https://news.ycombinator.com/item?id=36984302) - [Malicious Android Apps Slip into Disguise](https://krebsonsecurity.com/2023/08/how-malicious-android-apps-slip-into-disguise/)
 * [2023-08-03, 11:28:31](https://news.ycombinator.com/item?id=36984282) - [Man Spends Entire Career Mastering Crappy Codebase](https://taylor.town/entire-career)
 * [2023-08-03, 11:14:12](https://news.ycombinator.com/item?id=36984171) - [Network Protocols for Anyone Who Knows a Programming Language](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
+* [2023-08-03, 11:02:13](https://news.ycombinator.com/item?id=36984073) - [Cmd-stream-go – a high-performance remote command execution library for Golang](https://github.com/cmd-stream/cmd-stream-go)
 * [2023-08-03, 11:01:34](https://news.ycombinator.com/item?id=36984071) - [Briefcase: Convert a Python project into a standalone native application](https://briefcase.readthedocs.io/en/stable/)
 * [2023-08-03, 10:05:55](https://news.ycombinator.com/item?id=36983702) - [Vicuna v1.5 series, featuring 4K and 16K context, based on Llama 2](https://twitter.com/lmsysorg/status/1686794639469371393)
 * [2023-08-03, 09:30:35](https://news.ycombinator.com/item?id=36983425) - [Men tend to regulate their emotions through actions rather than words](https://www.centreformalepsychology.com/male-psychology-magazine-listings/men-tend-to-regulate-their-emotions-through-actions-rather-than-words)

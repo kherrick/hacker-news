@@ -93,6 +93,7 @@
 * [2023-08-02, 05:53:18](https://news.ycombinator.com/item?id=36967413) - [Tidal Cycles – Live coding music with Algorithmic patterns](https://tidalcycles.org/)
 * [2023-08-02, 05:17:04](https://news.ycombinator.com/item?id=36967205) - [Reading SEC filings using LLMs](https://www.beatandraise.com/)
 * [2023-08-02, 05:06:18](https://news.ycombinator.com/item?id=36967159) - [Stripe is no longer a suitable payment processor](https://news.ycombinator.com/item?id=36967159)
+* [2023-08-02, 04:52:55](https://news.ycombinator.com/item?id=36967094) - [Remains of Chihuahua-Sized Dog Unearthed at Roman Britain Villa](https://www.smithsonianmag.com/smart-news/remains-of-chihuahua-sized-dog-unearthed-at-roman-britain-villa-180982624/)
 * [2023-08-02, 04:51:36](https://news.ycombinator.com/item?id=36967088) - [Babur the Naturalist](https://blogs.bl.uk/asian-and-african/2023/07/babur-the-naturalist.html)
 * [2023-08-02, 03:31:57](https://news.ycombinator.com/item?id=36966653) - [I'm Betting on HTML](https://catskull.net/html.html)
 * [2023-08-02, 02:12:25](https://news.ycombinator.com/item?id=36966116) - [Enu – 3D live coding, implemented in Nim](https://github.com/dsrw/enu)
