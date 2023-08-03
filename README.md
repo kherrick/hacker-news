@@ -10,7 +10,6 @@
 * [2023-08-03, 15:45:58](https://news.ycombinator.com/item?id=36987454) - [Launch HN: Sweep (YC S23) – A bot to create simple PRs in your codebase](https://github.com/sweepai/sweep)
 * [2023-08-03, 15:39:37](https://news.ycombinator.com/item?id=36987372) - [GNU Units](https://www.gnu.org/software/units/)
 * [2023-08-03, 14:51:27](https://news.ycombinator.com/item?id=36986769) - [Elixir for Cynical Curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
-* [2023-08-03, 14:26:36](https://news.ycombinator.com/item?id=36986417) - [Cloudflare Registrar now supports .dev domains](https://twitter.com/eastdakota/status/1686513213503127557)
 * [2023-08-03, 13:11:38](https://news.ycombinator.com/item?id=36985414) - [Quirks of Python package versioning](https://sethmlarson.dev/pep-440)
 * [2023-08-03, 12:53:10](https://news.ycombinator.com/item?id=36985208) - [An Algorithm for Structuring Flowgraphs (1977) [pdf]](https://www.cs.tufts.edu/comp/150FP/archive/brenda-baker/structuring.pdf)
 * [2023-08-03, 12:52:16](https://news.ycombinator.com/item?id=36985197) - [IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face)
@@ -29,6 +28,7 @@
 * [2023-08-02, 10:22:46](https://news.ycombinator.com/item?id=36969018) - [How Nat Traversal Works](https://tailscale.com/blog/how-nat-traversal-works/)
 * [2023-08-02, 05:53:18](https://news.ycombinator.com/item?id=36967413) - [Tidal Cycles – Live coding music with Algorithmic patterns](https://tidalcycles.org/)
 * [2023-08-02, 04:52:55](https://news.ycombinator.com/item?id=36967094) - [Remains of Chihuahua-Sized Dog Unearthed at Roman Britain Villa](https://www.smithsonianmag.com/smart-news/remains-of-chihuahua-sized-dog-unearthed-at-roman-britain-villa-180982624/)
+* [2023-08-01, 21:23:33](https://news.ycombinator.com/item?id=36963190) - [What Benjamin Franklin Learned While Fighting Counterfeiters](https://www.nytimes.com/2023/07/17/science/benjamin-franklin-counterfeit-currency.html)
 * [2023-08-01, 12:02:03](https://news.ycombinator.com/item?id=36954934) - [Pixel Pump: Open-source vacuum pickup tool](https://hackaday.com/2023/08/01/pixel-pump-the-open-source-vacuum-pickup-tool-is-now-shipping/)
 
 ## [Archives](archives/index.md)
