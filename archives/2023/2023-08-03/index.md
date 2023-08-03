@@ -16,6 +16,7 @@
 * [2023-08-03, 12:08:17](https://news.ycombinator.com/item?id=36984692) - [The Cloud Is a Prison. Can the Local-First Software Movement Set Us Free?](https://www.wired.com/story/the-cloud-is-a-prison-can-the-local-first-software-movement-set-us-free/)
 * [2023-08-03, 12:01:40](https://news.ycombinator.com/item?id=36984623) - [UpCodes (YC S17) is hiring engineers to automate construction compliance](https://up.codes/careers)
 * [2023-08-03, 11:53:35](https://news.ycombinator.com/item?id=36984530) - [Goto in Bash](https://bobcopeland.com/blog/2012/10/goto-in-bash/)
+* [2023-08-03, 11:42:43](https://news.ycombinator.com/item?id=36984419) - [“1.1.1.1 is now handling more than 1.3T requests per day”](https://twitter.com/eastdakota/status/1686927537740611584)
 * [2023-08-03, 11:42:35](https://news.ycombinator.com/item?id=36984416) - [Pgvector: Fewer Dimensions Are Better](https://supabase.com/blog/fewer-dimensions-are-better-pgvector)
 * [2023-08-03, 11:31:10](https://news.ycombinator.com/item?id=36984302) - [Malicious Android Apps Slip into Disguise](https://krebsonsecurity.com/2023/08/how-malicious-android-apps-slip-into-disguise/)
 * [2023-08-03, 11:28:31](https://news.ycombinator.com/item?id=36984282) - [Man Spends Entire Career Mastering Crappy Codebase](https://taylor.town/entire-career)
