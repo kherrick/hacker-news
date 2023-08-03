@@ -14,7 +14,6 @@
 * [2023-08-03, 18:31:50](https://news.ycombinator.com/item?id=36989798) - [AWS to begin charging for public IPv4 addresses](https://www.infoq.com/news/2023/08/aws-ec2-public-ipv4/)
 * [2023-08-03, 18:16:59](https://news.ycombinator.com/item?id=36989604) - [Rail company that launched first H2 line opts for all-electric future](https://www.hydrogeninsight.com/transport/no-more-hydrogen-trains-rail-company-that-launched-worlds-first-h2-line-last-year-opts-for-all-electric-future/2-1-1495801?zephr_sso_ott=tiwZxe)
 * [2023-08-03, 18:13:51](https://news.ycombinator.com/item?id=36989569) - [Chrultrabook – Modify a Chromebook to Run Windows/Linux/macOS](https://chrultrabook.github.io/docs/)
-* [2023-08-03, 17:15:36](https://news.ycombinator.com/item?id=36988744) - [Brave Search launches own image and video search](https://brave.com/image-video-search/)
 * [2023-08-03, 17:00:44](https://news.ycombinator.com/item?id=36988511) - [PropelAuth (YC W22) Is Hiring Engineers](https://www.ycombinator.com/companies/propelauth/jobs)
 * [2023-08-03, 16:44:04](https://news.ycombinator.com/item?id=36988262) - [Hackers manage to unlock Tesla software-locked features](https://electrek.co/2023/08/03/hackers-manage-unlock-tesla-software-locked-features/)
 * [2023-08-03, 16:28:24](https://news.ycombinator.com/item?id=36988047) - [Pegasus Mail](https://www.pmail.com/)
@@ -29,6 +28,7 @@
 * [2023-08-03, 08:17:44](https://news.ycombinator.com/item?id=36982856) - [Netscape Meteors](https://erynwells.me/blog/2023/08/netscape-meteors/)
 * [2023-08-03, 07:18:42](https://news.ycombinator.com/item?id=36982459) - [Debugging the C++ standard library on macOS](https://www.jviotti.com/2022/05/05/debugging-the-cxx-standard-library-on-macos.html)
 * [2023-08-03, 06:17:29](https://news.ycombinator.com/item?id=36982067) - [On the link between Lyme disease and bioweapons (2019)](https://lithub.com/on-the-link-between-lyme-disease-and-bioweapons/)
+* [2023-08-02, 23:38:51](https://news.ycombinator.com/item?id=36979408) - [Legends of Lizzie (1933)](https://www.newyorker.com/magazine/1933/04/22/legends-of-lizzie)
 * [2023-08-02, 10:22:46](https://news.ycombinator.com/item?id=36969018) - [How NAT traversal works (2020)](https://tailscale.com/blog/how-nat-traversal-works/)
 
 ## [Archives](archives/index.md)

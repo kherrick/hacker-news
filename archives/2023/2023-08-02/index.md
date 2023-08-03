@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-02](index.md)
 
 * [2023-08-02, 23:56:33](https://news.ycombinator.com/item?id=36979532) - [Microsoft comes under blistering criticism for “grossly irresponsible” security](https://arstechnica.com/security/2023/08/microsoft-cloud-security-blasted-for-its-culture-of-toxic-obfuscation/)
+* [2023-08-02, 23:38:51](https://news.ycombinator.com/item?id=36979408) - [Legends of Lizzie (1933)](https://www.newyorker.com/magazine/1933/04/22/legends-of-lizzie)
 * [2023-08-02, 23:36:50](https://news.ycombinator.com/item?id=36979389) - [Jim Larkin, Backpage Exec, Dies by Suicide a Week Before His Trial](https://www.techdirt.com/2023/08/02/jim-larkin-backpage-exec-dies-by-suicide-a-week-before-his-trial/)
 * [2023-08-02, 23:15:23](https://news.ycombinator.com/item?id=36979190) - [The Infamous Coin Toss](https://ergodicityeconomics.com/2023/07/28/the-infamous-coin-toss/)
 * [2023-08-02, 22:50:33](https://news.ycombinator.com/item?id=36978931) - [High Dynamic Time Range Images](http://mkweb.bcgsc.ca/fun/hdtr/)
