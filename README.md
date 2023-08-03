@@ -5,7 +5,6 @@
 * [2023-08-03, 13:08:46](https://news.ycombinator.com/item?id=36985384) - [Canonical LXD forked by former project leader stgraber](https://github.com/stgraber/incus)
 * [2023-08-03, 12:52:16](https://news.ycombinator.com/item?id=36985197) - [IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face)
 * [2023-08-03, 12:46:41](https://news.ycombinator.com/item?id=36985128) - [Taming the Flame of Aging: Key Pathway for Chronic Inflammation Revealed](https://neurosciencenews.com/inflammation-brain-aging-23740/)
-* [2023-08-03, 12:38:21](https://news.ycombinator.com/item?id=36985041) - [It’s midwinter, but it’s over 100 degrees in South America](https://www.washingtonpost.com/weather/2023/08/02/southamerica-record-winter-heat-argentina-chile/)
 * [2023-08-03, 12:23:41](https://news.ycombinator.com/item?id=36984869) - [Quantum oscillations of the quasiparticle lifetime in a metal](https://www.nature.com/articles/s41586-023-06330-y)
 * [2023-08-03, 12:08:48](https://news.ycombinator.com/item?id=36984695) - [Don't Be Clever](https://stitcher.io/blog/dont-be-clever)
 * [2023-08-03, 12:08:17](https://news.ycombinator.com/item?id=36984692) - [The Cloud Is a Prison. Can the Local-First Software Movement Set Us Free?](https://www.wired.com/story/the-cloud-is-a-prison-can-the-local-first-software-movement-set-us-free/)
@@ -28,6 +27,7 @@
 * [2023-08-02, 04:52:55](https://news.ycombinator.com/item?id=36967094) - [Remains of Chihuahua-Sized Dog Unearthed at Roman Britain Villa](https://www.smithsonianmag.com/smart-news/remains-of-chihuahua-sized-dog-unearthed-at-roman-britain-villa-180982624/)
 * [2023-08-01, 21:35:52](https://news.ycombinator.com/item?id=36963386) - [Impressions of American Hotels 1883-1898 (2022)](https://www.theamericanmenu.com/2022/11/impressions-of-american-hotels.html)
 * [2023-08-01, 21:23:33](https://news.ycombinator.com/item?id=36963190) - [What Benjamin Franklin Learned While Fighting Counterfeiters](https://www.nytimes.com/2023/07/17/science/benjamin-franklin-counterfeit-currency.html)
+* [2023-08-01, 15:21:56](https://news.ycombinator.com/item?id=36957161) - [Pico Serial Bootloader (2021)](https://blog.usedbytes.com/2021/12/pico-serial-bootloader/)
 * [2023-08-01, 15:08:57](https://news.ycombinator.com/item?id=36956961) - [Why Kundera never went home](https://compactmag.com/article/why-kundera-never-went-home)
 * [2023-08-01, 12:02:03](https://news.ycombinator.com/item?id=36954934) - [Pixel Pump: Open-source vacuum pickup tool](https://hackaday.com/2023/08/01/pixel-pump-the-open-source-vacuum-pickup-tool-is-now-shipping/)
 
