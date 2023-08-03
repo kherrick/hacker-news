@@ -6,6 +6,7 @@
 
 * [2023-08-03, 08:29:14](https://news.ycombinator.com/item?id=36982960) - [Google AMP – The Newest of Evasive Phishing Tactic](https://cofense.com/blog/google-amp-the-newest-of-evasive-phishing-tactic/)
 * [2023-08-03, 08:17:44](https://news.ycombinator.com/item?id=36982856) - [Netscape Meteors](https://erynwells.me/blog/2023/08/netscape-meteors/)
+* [2023-08-03, 08:12:15](https://news.ycombinator.com/item?id=36982813) - [Derek Lowe on AOH1996: A New Mode of Cancer Treatment](https://www.science.org/content/blog-post/new-mode-cancer-treatment)
 * [2023-08-03, 07:27:18](https://news.ycombinator.com/item?id=36982507) - [A list of recent hostile moves by Google's Chrome team](https://mastodon.social/@nekohayo/110775656176571435)
 * [2023-08-03, 05:58:52](https://news.ycombinator.com/item?id=36981953) - [Google’s Plan to DRM the Web Goes Against Everything Google Once Stood For](https://www.techdirt.com/2023/08/02/googles-plan-to-drm-the-web-goes-against-everything-google-once-stood-for/)
 * [2023-08-03, 05:43:13](https://news.ycombinator.com/item?id=36981860) - [Tell HN: ai.com used to redirect to chat.openai.com, now it redirects to x.ai](https://news.ycombinator.com/item?id=36981860)
