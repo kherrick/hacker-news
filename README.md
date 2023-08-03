@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-03, 22:05:34](https://news.ycombinator.com/item?id=36992678) - [Common Lisp: The Good, the Bad, the Ugly, the Ambivalent](https://wiki.alopex.li/CommonLispThoughts)
+* [2023-08-03, 22:05:34](https://news.ycombinator.com/item?id=36992678) - [Common Lisp: The Good, the Bad, the Ugly, the Legacy, the Ambivalent](https://wiki.alopex.li/CommonLispThoughts)
 * [2023-08-03, 22:00:37](https://news.ycombinator.com/item?id=36992619) - [Java: New Draft JEP: “Computed Constants”](http://minborgsjavapot.blogspot.com/2023/08/java-new-draft-jep-computed-constants.html)
 * [2023-08-03, 22:00:19](https://news.ycombinator.com/item?id=36992614) - [Royal Mail to Issue “Terry Pratchett’s Discworld” Stamps](https://file770.com/royal-mail-to-issue-terry-pratchetts-discworld-stamps/)
 * [2023-08-03, 21:38:56](https://news.ycombinator.com/item?id=36992335) - [Nuked-MD-FPGA – accurate Sega Genesis re-implementation based on decapped chips](https://github.com/nukeykt/Nuked-MD-FPGA)
