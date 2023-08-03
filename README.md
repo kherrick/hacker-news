@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-03, 20:49:40](https://news.ycombinator.com/item?id=36991647) - [Matrix](https://matrix.org)
 * [2023-08-03, 20:31:00](https://news.ycombinator.com/item?id=36991381) - [Apple reports third quarter results](https://www.apple.com/newsroom/2023/08/apple-reports-third-quarter-results/)
 * [2023-08-03, 20:24:50](https://news.ycombinator.com/item?id=36991293) - [Color-Diffusion: using diffusion models to colorize black and white images](https://github.com/ErwannMillon/Color-diffusion)
 * [2023-08-03, 19:30:52](https://news.ycombinator.com/item?id=36990615) - [Cognitive AI for ADHD](https://www.comigo.ai)
@@ -14,7 +15,6 @@
 * [2023-08-03, 18:08:32](https://news.ycombinator.com/item?id=36989503) - [On-disk HNSW index for Postgres with pg_embedding](https://neon.tech/blog/pg_embedding-on-disk-hnsw-index)
 * [2023-08-03, 18:08:08](https://news.ycombinator.com/item?id=36989496) - [Tesla committed fraud by “grossly” exaggerating EV range, class action says](https://arstechnica.com/tech-policy/2023/08/angry-tesla-customers-sue-firm-over-grossly-exaggerated-ev-range/)
 * [2023-08-03, 17:15:36](https://news.ycombinator.com/item?id=36988744) - [Brave Search launches own image and video search](https://brave.com/image-video-search/)
-* [2023-08-03, 17:04:29](https://news.ycombinator.com/item?id=36988564) - [Drop Table “Companies”;– LTD (2016)](https://find-and-update.company-information.service.gov.uk/company/10542519)
 * [2023-08-03, 17:00:44](https://news.ycombinator.com/item?id=36988511) - [PropelAuth (YC W22) Is Hiring Engineers](https://www.ycombinator.com/companies/propelauth/jobs)
 * [2023-08-03, 16:44:04](https://news.ycombinator.com/item?id=36988262) - [Hackers manage to unlock Tesla software-locked features](https://electrek.co/2023/08/03/hackers-manage-unlock-tesla-software-locked-features/)
 * [2023-08-03, 16:28:24](https://news.ycombinator.com/item?id=36988047) - [Pegasus Mail](https://www.pmail.com/)
