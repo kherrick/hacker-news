@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-03, 14:30:35](https://news.ycombinator.com/item?id=36986481) - [How the Recession Doomers Got the U.S. Economy So Wrong](https://www.theatlantic.com/ideas/archive/2023/08/recession-doomers-economy/674900/)
 * [2023-08-03, 13:11:38](https://news.ycombinator.com/item?id=36985414) - [Quirks of Python Package Versioning](https://sethmlarson.dev/pep-440)
 * [2023-08-03, 13:08:46](https://news.ycombinator.com/item?id=36985384) - [Canonical LXD forked by former project leader stgraber](https://github.com/stgraber/incus)
 * [2023-08-03, 12:52:16](https://news.ycombinator.com/item?id=36985197) - [IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face)
@@ -10,7 +11,7 @@
 * [2023-08-03, 12:01:40](https://news.ycombinator.com/item?id=36984623) - [UpCodes (YC S17) is hiring engineers to automate construction compliance](https://up.codes/careers)
 * [2023-08-03, 11:53:35](https://news.ycombinator.com/item?id=36984530) - [Goto in Bash](https://bobcopeland.com/blog/2012/10/goto-in-bash/)
 * [2023-08-03, 11:31:10](https://news.ycombinator.com/item?id=36984302) - [Malicious Android Apps Slip into Disguise](https://krebsonsecurity.com/2023/08/how-malicious-android-apps-slip-into-disguise/)
-* [2023-08-03, 11:28:31](https://news.ycombinator.com/item?id=36984282) - [Man Spends Entire Career Mastering Crappy Codebase](https://taylor.town/entire-career)
+* [2023-08-03, 11:28:31](https://news.ycombinator.com/item?id=36984282) - [Man spends entire career mastering crappy codebase](https://taylor.town/entire-career)
 * [2023-08-03, 11:14:12](https://news.ycombinator.com/item?id=36984171) - [Network Protocols for Anyone Who Knows a Programming Language](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
 * [2023-08-03, 11:01:34](https://news.ycombinator.com/item?id=36984071) - [Briefcase: Convert a Python project into a standalone native application](https://briefcase.readthedocs.io/en/stable/)
 * [2023-08-03, 10:05:55](https://news.ycombinator.com/item?id=36983702) - [Vicuna v1.5 series, featuring 4K and 16K context, based on Llama 2](https://twitter.com/lmsysorg/status/1686794639469371393)
@@ -21,7 +22,6 @@
 * [2023-08-03, 05:58:52](https://news.ycombinator.com/item?id=36981953) - [Google’s Plan to DRM the Web Goes Against Everything Google Once Stood For](https://www.techdirt.com/2023/08/02/googles-plan-to-drm-the-web-goes-against-everything-google-once-stood-for/)
 * [2023-08-03, 05:01:47](https://news.ycombinator.com/item?id=36981580) - [System settings that aren’t in System Settings](https://eclecticlight.co/2023/07/29/system-settings-that-arent-in-system-settings/)
 * [2023-08-03, 03:42:11](https://news.ycombinator.com/item?id=36981090) - [SMS traffic pumping fraud](https://support.twilio.com/hc/en-us/articles/8360406023067-SMS-Traffic-Pumping-Fraud)
-* [2023-08-03, 02:43:23](https://news.ycombinator.com/item?id=36980767) - [Radio frequency hearing in humans and its effects (2003)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/bem.10163)
 * [2023-08-03, 00:43:14](https://news.ycombinator.com/item?id=36979886) - [Observation of zero resistance above 100 K in Pb₁₀₋ₓCuₓ(PO₄)₆O](https://arxiv.org/abs/2308.01192)
 * [2023-08-02, 12:45:59](https://news.ycombinator.com/item?id=36970135) - [Launch HN: Certainly Health (YC S23) – Book doctors without surprise bills](https://news.ycombinator.com/item?id=36970135)
 * [2023-08-02, 05:53:18](https://news.ycombinator.com/item?id=36967413) - [Tidal Cycles – Live coding music with Algorithmic patterns](https://tidalcycles.org/)

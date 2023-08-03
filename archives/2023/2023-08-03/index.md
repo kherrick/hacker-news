@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-03](index.md)
 
+* [2023-08-03, 14:30:35](https://news.ycombinator.com/item?id=36986481) - [How the Recession Doomers Got the U.S. Economy So Wrong](https://www.theatlantic.com/ideas/archive/2023/08/recession-doomers-economy/674900/)
 * [2023-08-03, 13:16:24](https://news.ycombinator.com/item?id=36985469) - [Most in U.S. (57%) prefer big houses, even if amenities farther away](https://www.pewresearch.org/short-reads/2023/08/02/majority-of-americans-prefer-a-community-with-big-houses-even-if-local-amenities-are-farther-away/)
 * [2023-08-03, 13:11:38](https://news.ycombinator.com/item?id=36985414) - [Quirks of Python Package Versioning](https://sethmlarson.dev/pep-440)
 * [2023-08-03, 13:08:46](https://news.ycombinator.com/item?id=36985384) - [Canonical LXD forked by former project leader stgraber](https://github.com/stgraber/incus)
