@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-03](index.md)
 
+* [2023-08-03, 11:42:35](https://news.ycombinator.com/item?id=36984416) - [Pgvector: Fewer Dimensions Are Better](https://supabase.com/blog/fewer-dimensions-are-better-pgvector)
 * [2023-08-03, 11:28:31](https://news.ycombinator.com/item?id=36984282) - [Man Spends Entire Career Mastering Crappy Codebase](https://taylor.town/entire-career)
 * [2023-08-03, 10:05:55](https://news.ycombinator.com/item?id=36983702) - [Vicuna v1.5 series, featuring 4K and 16K context, based on Llama 2](https://twitter.com/lmsysorg/status/1686794639469371393)
 * [2023-08-03, 08:48:22](https://news.ycombinator.com/item?id=36983117) - [99% of top Python packages are now wheels](https://pythonwheels.com/)

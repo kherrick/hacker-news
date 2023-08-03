@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-03, 11:42:35](https://news.ycombinator.com/item?id=36984416) - [Pgvector: Fewer Dimensions Are Better](https://supabase.com/blog/fewer-dimensions-are-better-pgvector)
 * [2023-08-03, 11:28:31](https://news.ycombinator.com/item?id=36984282) - [Man Spends Entire Career Mastering Crappy Codebase](https://taylor.town/entire-career)
 * [2023-08-03, 10:05:55](https://news.ycombinator.com/item?id=36983702) - [Vicuna v1.5 series, featuring 4K and 16K context, based on Llama 2](https://twitter.com/lmsysorg/status/1686794639469371393)
 * [2023-08-03, 08:48:22](https://news.ycombinator.com/item?id=36983117) - [99% of top Python packages are now wheels](https://pythonwheels.com/)
@@ -19,7 +20,6 @@
 * [2023-08-02, 21:31:24](https://news.ycombinator.com/item?id=36977863) - [Meta’s Reality Labs prototype hardware](https://www.meta.com/en-gb/blog/quest/reality-labs-research-display-systems-siggraph-2023-butterscotch-varifocal-flamera/)
 * [2023-08-02, 18:36:12](https://news.ycombinator.com/item?id=36975021) - [Ask HN: Do you still use a hand held/desktop calculator?](https://news.ycombinator.com/item?id=36975021)
 * [2023-08-02, 15:11:48](https://news.ycombinator.com/item?id=36971975) - [A non-mathematical introduction to Kalman filters for programmers](https://praveshkoirala.com/2023/06/13/a-non-mathematical-introduction-to-kalman-filters-for-programmers/)
-* [2023-08-02, 15:05:16](https://news.ycombinator.com/item?id=36971888) - [The underground world of credit card network exploitation](https://chargebackstop.com/blog/card-networks-exploitation/)
 * [2023-08-02, 12:45:59](https://news.ycombinator.com/item?id=36970135) - [Launch HN: Certainly Health (YC S23) – Book doctors without surprise bills](https://news.ycombinator.com/item?id=36970135)
 * [2023-08-02, 05:53:18](https://news.ycombinator.com/item?id=36967413) - [Tidal Cycles – Live coding music with Algorithmic patterns](https://tidalcycles.org/)
 * [2023-08-02, 04:51:36](https://news.ycombinator.com/item?id=36967088) - [Babur the Naturalist](https://blogs.bl.uk/asian-and-african/2023/07/babur-the-naturalist.html)
