@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-03](index.md)
 
+* [2023-08-03, 17:15:36](https://news.ycombinator.com/item?id=36988744) - [Brave Search launches own image and video search](https://brave.com/image-video-search/)
 * [2023-08-03, 17:04:29](https://news.ycombinator.com/item?id=36988564) - [Drop Table “Companies”;– LTD](https://find-and-update.company-information.service.gov.uk/company/10542519)
 * [2023-08-03, 17:00:44](https://news.ycombinator.com/item?id=36988511) - [PropelAuth (YC W22) Is Hiring Engineers](https://www.ycombinator.com/companies/propelauth/jobs)
 * [2023-08-03, 16:44:04](https://news.ycombinator.com/item?id=36988262) - [Hackers manage to unlock Tesla software-locked features](https://electrek.co/2023/08/03/hackers-manage-unlock-tesla-software-locked-features/)
@@ -43,6 +44,7 @@
 * [2023-08-03, 10:05:55](https://news.ycombinator.com/item?id=36983702) - [Vicuna v1.5 series, featuring 4K and 16K context, based on Llama 2](https://twitter.com/lmsysorg/status/1686794639469371393)
 * [2023-08-03, 09:30:35](https://news.ycombinator.com/item?id=36983425) - [Men tend to regulate their emotions through actions rather than words](https://www.centreformalepsychology.com/male-psychology-magazine-listings/men-tend-to-regulate-their-emotions-through-actions-rather-than-words)
 * [2023-08-03, 08:48:22](https://news.ycombinator.com/item?id=36983117) - [99% of top Python packages are now wheels](https://pythonwheels.com/)
+* [2023-08-03, 08:33:12](https://news.ycombinator.com/item?id=36982996) - [The Elusive, Maddening Mystery of the Bell Witch](https://www.atlasobscura.com/articles/who-was-the-bell-witch)
 * [2023-08-03, 08:29:14](https://news.ycombinator.com/item?id=36982960) - [Google AMP – The Newest of Evasive Phishing Tactic](https://cofense.com/blog/google-amp-the-newest-of-evasive-phishing-tactic/)
 * [2023-08-03, 08:17:44](https://news.ycombinator.com/item?id=36982856) - [Netscape Meteors](https://erynwells.me/blog/2023/08/netscape-meteors/)
 * [2023-08-03, 08:12:15](https://news.ycombinator.com/item?id=36982813) - [Derek Lowe on AOH1996: A New Mode of Cancer Treatment](https://www.science.org/content/blog-post/new-mode-cancer-treatment)
