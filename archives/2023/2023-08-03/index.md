@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-03](index.md)
 
+* [2023-08-03, 05:58:52](https://news.ycombinator.com/item?id=36981953) - [Google’s Plan to DRM the Web Goes Against Everything Google Once Stood For](https://www.techdirt.com/2023/08/02/googles-plan-to-drm-the-web-goes-against-everything-google-once-stood-for/)
 * [2023-08-03, 05:01:47](https://news.ycombinator.com/item?id=36981580) - [System settings that aren’t in System Settings](https://eclecticlight.co/2023/07/29/system-settings-that-arent-in-system-settings/)
 * [2023-08-03, 04:13:45](https://news.ycombinator.com/item?id=36981279) - [Google Street View driver crashes after 100 MPH chase, police say](https://www.sfgate.com/tech/article/google-street-view-car-chase-18275718.php)
 * [2023-08-03, 03:42:11](https://news.ycombinator.com/item?id=36981090) - [SMS Pumping Attack](https://support.twilio.com/hc/en-us/articles/8360406023067-SMS-Traffic-Pumping-Fraud)
