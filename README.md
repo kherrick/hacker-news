@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-03, 22:05:34](https://news.ycombinator.com/item?id=36992678) - [Common Lisp: The Good, the Bad, the Ugly, the Ambivalent](https://wiki.alopex.li/CommonLispThoughts)
 * [2023-08-03, 22:00:37](https://news.ycombinator.com/item?id=36992619) - [Java: New Draft JEP: “Computed Constants”](http://minborgsjavapot.blogspot.com/2023/08/java-new-draft-jep-computed-constants.html)
 * [2023-08-03, 22:00:19](https://news.ycombinator.com/item?id=36992614) - [Royal Mail to Issue “Terry Pratchett’s Discworld” Stamps](https://file770.com/royal-mail-to-issue-terry-pratchetts-discworld-stamps/)
 * [2023-08-03, 21:38:56](https://news.ycombinator.com/item?id=36992335) - [Nuked-MD-FPGA – accurate Sega Genesis re-implementation based on decapped chips](https://github.com/nukeykt/Nuked-MD-FPGA)
@@ -12,7 +13,6 @@
 * [2023-08-03, 18:35:53](https://news.ycombinator.com/item?id=36989858) - [The Holocaust Bomb: A question of time (2007)](https://sgp.fas.org/eprint/morland.html)
 * [2023-08-03, 18:35:11](https://news.ycombinator.com/item?id=36989845) - [FCC fines robocaller a record $300M after blocking billions of their scam calls](https://techcrunch.com/2023/08/03/fcc-fines-robocaller-a-record-300m-after-blocking-billions-of-their-scam-calls/)
 * [2023-08-03, 18:31:50](https://news.ycombinator.com/item?id=36989798) - [AWS to begin charging for public IPv4 addresses](https://www.infoq.com/news/2023/08/aws-ec2-public-ipv4/)
-* [2023-08-03, 18:16:59](https://news.ycombinator.com/item?id=36989604) - [Rail company that launched first H2 line opts for all-electric future](https://www.hydrogeninsight.com/transport/no-more-hydrogen-trains-rail-company-that-launched-worlds-first-h2-line-last-year-opts-for-all-electric-future/2-1-1495801?zephr_sso_ott=tiwZxe)
 * [2023-08-03, 18:13:51](https://news.ycombinator.com/item?id=36989569) - [Chrultrabook – Modify a Chromebook to Run Windows/Linux/macOS](https://chrultrabook.github.io/docs/)
 * [2023-08-03, 17:00:44](https://news.ycombinator.com/item?id=36988511) - [PropelAuth (YC W22) Is Hiring Engineers](https://www.ycombinator.com/companies/propelauth/jobs)
 * [2023-08-03, 16:44:04](https://news.ycombinator.com/item?id=36988262) - [Hackers manage to unlock Tesla software-locked features](https://electrek.co/2023/08/03/hackers-manage-unlock-tesla-software-locked-features/)
