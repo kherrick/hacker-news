@@ -11,6 +11,7 @@
 * [2023-08-03, 13:16:24](https://news.ycombinator.com/item?id=36985469) - [Most in U.S. (57%) prefer big houses, even if amenities farther away](https://www.pewresearch.org/short-reads/2023/08/02/majority-of-americans-prefer-a-community-with-big-houses-even-if-local-amenities-are-farther-away/)
 * [2023-08-03, 13:11:38](https://news.ycombinator.com/item?id=36985414) - [Quirks of Python Package Versioning](https://sethmlarson.dev/pep-440)
 * [2023-08-03, 13:08:46](https://news.ycombinator.com/item?id=36985384) - [Canonical LXD forked by former project leader stgraber](https://github.com/stgraber/incus)
+* [2023-08-03, 12:53:10](https://news.ycombinator.com/item?id=36985208) - [An Algorithm for Structuring Flowgraphs (1977) [pdf]](https://www.cs.tufts.edu/comp/150FP/archive/brenda-baker/structuring.pdf)
 * [2023-08-03, 12:52:16](https://news.ycombinator.com/item?id=36985197) - [IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face)
 * [2023-08-03, 12:46:41](https://news.ycombinator.com/item?id=36985128) - [Taming the Flame of Aging: Key Pathway for Chronic Inflammation Revealed](https://neurosciencenews.com/inflammation-brain-aging-23740/)
 * [2023-08-03, 12:38:21](https://news.ycombinator.com/item?id=36985041) - [It’s midwinter, but it’s over 100 degrees in South America](https://www.washingtonpost.com/weather/2023/08/02/southamerica-record-winter-heat-argentina-chile/)
