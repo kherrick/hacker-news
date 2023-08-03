@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-08-03](index.md)
 
+* [2023-08-03, 04:13:45](https://news.ycombinator.com/item?id=36981279) - [Google Street View driver crashes after 100 MPH chase, police say](https://www.sfgate.com/tech/article/google-street-view-car-chase-18275718.php)
 * [2023-08-03, 03:42:11](https://news.ycombinator.com/item?id=36981090) - [SMS Pumping Attack](https://support.twilio.com/hc/en-us/articles/8360406023067-SMS-Traffic-Pumping-Fraud)
 * [2023-08-03, 03:33:49](https://news.ycombinator.com/item?id=36981033) - [With merge of this pull request, Brave Browser disables WebEnvironmentIntegrity](https://github.com/brave/brave-core/pull/19476)
+* [2023-08-03, 03:17:00](https://news.ycombinator.com/item?id=36980946) - [If you think p-values are problematic, wait until you understand Bayes Factors](http://datacolada.org/78a)
+* [2023-08-03, 02:43:23](https://news.ycombinator.com/item?id=36980767) - [Radio frequency hearing in humans and its effects (2003)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/bem.10163)
+* [2023-08-03, 02:36:27](https://news.ycombinator.com/item?id=36980714) - [Building the Future of X](https://blog.twitter.com/en_us/topics/company/2023/building-the-future-of-x)
 * [2023-08-03, 02:04:36](https://news.ycombinator.com/item?id=36980475) - [Fitch Downgrades US Debt](https://www.bbc.com/news/business-66379366)
 * [2023-08-03, 01:56:24](https://news.ycombinator.com/item?id=36980429) - [Ask HN: Is there any hopeful news about climate change?](https://news.ycombinator.com/item?id=36980429)
 * [2023-08-03, 01:14:26](https://news.ycombinator.com/item?id=36980110) - [Life at the Margin: How I got $25,000 in debt](https://www.natecation.com/life-at-the-margin-credit-card-debt/)
