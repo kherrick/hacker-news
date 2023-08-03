@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-03](index.md)
 
+* [2023-08-03, 17:04:29](https://news.ycombinator.com/item?id=36988564) - [Drop Table “Companies”;– LTD](https://find-and-update.company-information.service.gov.uk/company/10542519)
 * [2023-08-03, 17:00:44](https://news.ycombinator.com/item?id=36988511) - [PropelAuth (YC W22) Is Hiring Engineers](https://www.ycombinator.com/companies/propelauth/jobs)
 * [2023-08-03, 16:44:04](https://news.ycombinator.com/item?id=36988262) - [Hackers manage to unlock Tesla software-locked features](https://electrek.co/2023/08/03/hackers-manage-unlock-tesla-software-locked-features/)
 * [2023-08-03, 16:38:37](https://news.ycombinator.com/item?id=36988192) - [Ask HN: Any freelancers here? I need burnout advice](https://news.ycombinator.com/item?id=36988192)
@@ -13,6 +14,7 @@
 * [2023-08-03, 15:56:22](https://news.ycombinator.com/item?id=36987619) - [The Cartel That Controls the US Food System](https://statecraft.beehiiv.com/p/the-cartel-that-controls-us-meat)
 * [2023-08-03, 15:45:58](https://news.ycombinator.com/item?id=36987454) - [Launch HN: Sweep (YC S23) – A bot to create simple PRs in your codebase](https://github.com/sweepai/sweep)
 * [2023-08-03, 15:39:37](https://news.ycombinator.com/item?id=36987372) - [GNU Units](https://www.gnu.org/software/units/)
+* [2023-08-03, 15:31:39](https://news.ycombinator.com/item?id=36987273) - [Extras worry they'll be replaced by AI. Hollywood is already doing body scans](https://text.npr.org/1190605685)
 * [2023-08-03, 14:57:54](https://news.ycombinator.com/item?id=36986847) - [Kenyan moderators decry toll of training of AI](https://www.theguardian.com/technology/2023/aug/02/ai-chatbot-training-human-toll-content-moderator-meta-openai)
 * [2023-08-03, 14:51:27](https://news.ycombinator.com/item?id=36986769) - [Elixir for Cynical Curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
 * [2023-08-03, 14:35:40](https://news.ycombinator.com/item?id=36986571) - [Google Street View car careens into creek after 100mph cop chase](https://www.theregister.com/2023/08/03/google_maps_driver_arrested/)
