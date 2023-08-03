@@ -5,7 +5,6 @@
 * [2023-08-03, 03:33:49](https://news.ycombinator.com/item?id=36981033) - [With merge of this pull request, Brave Browser disables WebEnvironmentIntegrity](https://github.com/brave/brave-core/pull/19476)
 * [2023-08-03, 03:17:00](https://news.ycombinator.com/item?id=36980946) - [If you think p-values are problematic, wait until you understand Bayes Factors](http://datacolada.org/78a)
 * [2023-08-03, 02:43:23](https://news.ycombinator.com/item?id=36980767) - [Radio frequency hearing in humans and its effects (2003)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/bem.10163)
-* [2023-08-03, 02:36:27](https://news.ycombinator.com/item?id=36980714) - [Building the Future of X](https://blog.twitter.com/en_us/topics/company/2023/building-the-future-of-x)
 * [2023-08-03, 01:10:58](https://news.ycombinator.com/item?id=36980082) - [200k Compromised OpenAI Credentials Available for Purchase on the Dark Web](https://www.cpomagazine.com/cyber-security/over-200000-compromised-openai-credentials-available-for-purchase-on-the-dark-web/)
 * [2023-08-03, 00:43:14](https://news.ycombinator.com/item?id=36979886) - [Observation of zero resistance above 100 K in Pb₁₀₋ₓCuₓ(PO₄)₆O](https://arxiv.org/abs/2308.01192)
 * [2023-08-02, 22:50:33](https://news.ycombinator.com/item?id=36978931) - [High Dynamic Time Range Images (2006)](http://mkweb.bcgsc.ca/fun/hdtr/)
@@ -30,6 +29,7 @@
 * [2023-08-01, 16:12:44](https://news.ycombinator.com/item?id=36958008) - [Transcript of taped conversations among German nuclear physicists (1945)](https://ghdi.ghi-dc.org/sub_document.cfm?document_id=2320)
 * [2023-08-01, 12:02:11](https://news.ycombinator.com/item?id=36954936) - [The Shader Permutation Problem – Part 1: How Did We Get Here?](https://therealmjp.github.io/posts/shader-permutations-part1/)
 * [2023-08-01, 12:02:03](https://news.ycombinator.com/item?id=36954934) - [Pixel Pump, the Open Source Vacuum Pickup Tool Is Now Shipping](https://hackaday.com/2023/08/01/pixel-pump-the-open-source-vacuum-pickup-tool-is-now-shipping/)
+* [2023-08-01, 07:01:17](https://news.ycombinator.com/item?id=36953195) - [Oxocards: Interactive programmable minicomputers](https://oxocard.ch/en/)
 
 ## [Archives](archives/index.md)
 
