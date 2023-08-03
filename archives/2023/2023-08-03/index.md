@@ -6,6 +6,7 @@
 
 * [2023-08-03, 12:01:40](https://news.ycombinator.com/item?id=36984623) - [UpCodes (YC S17) is hiring engineers to automate construction compliance](https://up.codes/careers)
 * [2023-08-03, 11:42:35](https://news.ycombinator.com/item?id=36984416) - [Pgvector: Fewer Dimensions Are Better](https://supabase.com/blog/fewer-dimensions-are-better-pgvector)
+* [2023-08-03, 11:31:10](https://news.ycombinator.com/item?id=36984302) - [Malicious Android Apps Slip into Disguise](https://krebsonsecurity.com/2023/08/how-malicious-android-apps-slip-into-disguise/)
 * [2023-08-03, 11:28:31](https://news.ycombinator.com/item?id=36984282) - [Man Spends Entire Career Mastering Crappy Codebase](https://taylor.town/entire-career)
 * [2023-08-03, 11:14:12](https://news.ycombinator.com/item?id=36984171) - [Network Protocols for Anyone Who Knows a Programming Language](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
 * [2023-08-03, 11:01:34](https://news.ycombinator.com/item?id=36984071) - [Briefcase: Convert a Python project into a standalone native application](https://briefcase.readthedocs.io/en/stable/)
