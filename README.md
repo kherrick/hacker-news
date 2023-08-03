@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-03, 13:16:24](https://news.ycombinator.com/item?id=36985469) - [Most in U.S. (57%) prefer big houses, even if amenities farther away](https://www.pewresearch.org/short-reads/2023/08/02/majority-of-americans-prefer-a-community-with-big-houses-even-if-local-amenities-are-farther-away/)
 * [2023-08-03, 13:11:38](https://news.ycombinator.com/item?id=36985414) - [Quirks of Python Package Versioning](https://sethmlarson.dev/pep-440)
 * [2023-08-03, 13:08:46](https://news.ycombinator.com/item?id=36985384) - [Canonical LXD forked by former project leader stgraber](https://github.com/stgraber/incus)
 * [2023-08-03, 12:52:16](https://news.ycombinator.com/item?id=36985197) - [IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face)
@@ -21,8 +20,9 @@
 * [2023-08-03, 07:27:18](https://news.ycombinator.com/item?id=36982507) - [A list of recent hostile moves by Google's Chrome team](https://mastodon.social/@nekohayo/110775656176571435)
 * [2023-08-03, 05:58:52](https://news.ycombinator.com/item?id=36981953) - [Google’s Plan to DRM the Web Goes Against Everything Google Once Stood For](https://www.techdirt.com/2023/08/02/googles-plan-to-drm-the-web-goes-against-everything-google-once-stood-for/)
 * [2023-08-03, 03:42:11](https://news.ycombinator.com/item?id=36981090) - [SMS traffic pumping fraud](https://support.twilio.com/hc/en-us/articles/8360406023067-SMS-Traffic-Pumping-Fraud)
+* [2023-08-03, 02:43:23](https://news.ycombinator.com/item?id=36980767) - [Radio frequency hearing in humans and its effects (2003)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/bem.10163)
 * [2023-08-03, 00:43:14](https://news.ycombinator.com/item?id=36979886) - [Observation of zero resistance above 100 K in Pb₁₀₋ₓCuₓ(PO₄)₆O](https://arxiv.org/abs/2308.01192)
-* [2023-08-02, 23:15:23](https://news.ycombinator.com/item?id=36979190) - [The infamous coin toss](https://ergodicityeconomics.com/2023/07/28/the-infamous-coin-toss/)
+* [2023-08-02, 12:45:59](https://news.ycombinator.com/item?id=36970135) - [Launch HN: Certainly Health (YC S23) – Book doctors without surprise bills](https://news.ycombinator.com/item?id=36970135)
 * [2023-08-02, 05:53:18](https://news.ycombinator.com/item?id=36967413) - [Tidal Cycles – Live coding music with Algorithmic patterns](https://tidalcycles.org/)
 * [2023-08-02, 04:52:55](https://news.ycombinator.com/item?id=36967094) - [Remains of Chihuahua-Sized Dog Unearthed at Roman Britain Villa](https://www.smithsonianmag.com/smart-news/remains-of-chihuahua-sized-dog-unearthed-at-roman-britain-villa-180982624/)
 * [2023-08-01, 21:35:52](https://news.ycombinator.com/item?id=36963386) - [Impressions of American Hotels 1883-1898 (2022)](https://www.theamericanmenu.com/2022/11/impressions-of-american-hotels.html)
