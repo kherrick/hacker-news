@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-04, 21:37:09](https://news.ycombinator.com/item?id=37006224) - [Non-determinism in GPT-4 is caused by Sparse MoE](https://152334H.github.io/blog/non-determinism-in-gpt-4/)
 * [2023-08-04, 21:32:30](https://news.ycombinator.com/item?id=37006174) - [“Absurd”: Google, Amazon rebuked over unsupported Chromebooks still for sale](https://arstechnica.com/gadgets/2023/08/no-discounts-or-warnings-for-people-shopping-eol-chromebooks-on-amazon-walmart/)
 * [2023-08-04, 21:27:15](https://news.ycombinator.com/item?id=37006124) - [Google Invites Employees to Sleep 'On Campus' for a Fee](https://gizmodo.com/google-invites-employees-to-sleep-on-campus-for-a-fee-1850709102)
 * [2023-08-04, 21:25:23](https://news.ycombinator.com/item?id=37006102) - [Pause Random Superconductor Experiments: An Open Letter](https://futureofliff.org/)
@@ -24,7 +25,6 @@
 * [2023-08-04, 14:30:44](https://news.ycombinator.com/item?id=37000594) - [ImPlot: Interactive plotting library, ImGui style](https://github.com/epezent/implot)
 * [2023-08-04, 14:28:49](https://news.ycombinator.com/item?id=37000562) - [(next Rich)](https://clojure.org/news/2023/08/04/next-rich)
 * [2023-08-04, 13:08:51](https://news.ycombinator.com/item?id=36999463) - [85-Byte Snake Game](https://github.com/donno2048/snake)
-* [2023-08-04, 08:25:36](https://news.ycombinator.com/item?id=36997067) - [Mozilla VPN: CVE-2023-4104: vpndaemon wrongly implements Polkit authentication](https://www.openwall.com/lists/oss-security/2023/08/03/1)
 * [2023-08-04, 01:15:32](https://news.ycombinator.com/item?id=36994214) - [Successful room temperature ambient-pressure magnetic levitation of LK-99](https://arxiv.org/abs/2308.01516)
 * [2023-08-03, 17:37:15](https://news.ycombinator.com/item?id=36989066) - [Venus flytraps count electrical impulses to induce the digestive process (2016)](https://www.theatlantic.com/science/archive/2016/01/the-venus-fly-trap-counts-the-struggles-of-its-prey/424782/)
 * [2023-08-03, 16:25:34](https://news.ycombinator.com/item?id=36988012) - [Overtone – programmable, live music in Clojure](https://overtone.github.io)
