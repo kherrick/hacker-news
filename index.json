@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=36995735"
     ],
     [
-      "0.11.0 Release Notes",
+      "Zig 0.11.0 Release Notes",
       "https://ziglang.org/download/0.11.0/release-notes.html"
     ]
   ],
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2023-08-03, 12:55:14",
+      "https://news.ycombinator.com/item?id=36985232"
+    ],
+    [
+      "Peruvian fossil challenges blue whales for size",
+      "https://www.bbc.co.uk/news/science-environment-66384632"
+    ]
+  ],
+  [
+    [
       "2023-08-03, 11:25:35",
       "https://news.ycombinator.com/item?id=36984260"
     ],
@@ -205,7 +215,7 @@
       "https://news.ycombinator.com/item?id=36983841"
     ],
     [
-      "What does the “pipe” value mean in the output of “ping”?",
+      "What does the “pipe” value mean in the output of “ping”? (2009)",
       "http://web.archive.org/web/20130302161137/http://www.vincentverhagen.nl/2009/06/13/what-does-the-pipe-value-mean-in-the-output-of-ping/"
     ]
   ],
@@ -227,16 +237,6 @@
     [
       "How the World’s Most Famous Scream Was Recovered",
       "https://www.youtube.com/watch?v=6x0xmMcaWRI"
-    ]
-  ],
-  [
-    [
-      "2023-08-03, 07:18:42",
-      "https://news.ycombinator.com/item?id=36982459"
-    ],
-    [
-      "Debugging the C++ standard library on macOS",
-      "https://www.jviotti.com/2022/05/05/debugging-the-cxx-standard-library-on-macos.html"
     ]
   ],
   [
