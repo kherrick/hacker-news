@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-04, 17:00:29](https://news.ycombinator.com/item?id=37002674) - [Kodable is hiring a Full Stack Engineer to help teach millions of kids to code](https://www.indeed.com/job/full-stack-engineer-acbcc196f22f170d)
+* [2023-08-04, 16:51:04](https://news.ycombinator.com/item?id=37002535) - [PSF Hires PyPI Safety and Security Engineer](https://pyfound.blogspot.com/2023/08/announcing-our-new-pypi-safety-security.html)
+* [2023-08-04, 16:38:01](https://news.ycombinator.com/item?id=37002357) - [Another Joke Fine Shows US Authorities Do Not Take Illegal Telemarketing Serious](https://commsrisk.com/another-joke-fine-shows-us-authorities-do-not-take-illegal-telemarketing-calls-seriously/)
 * [2023-08-04, 16:26:05](https://news.ycombinator.com/item?id=37002187) - [Exploiting a Flaw in Bitmap Handling in Windows User-Mode Printer Drivers](https://www.thezdi.com/blog/2023/8/1/exploiting-a-flaw-in-bitmap-handling-in-windows-user-mode-printer-drivers)
 * [2023-08-04, 16:15:23](https://news.ycombinator.com/item?id=37002020) - [Mirantis Unveils K0smotron: An Open-Source Kubernetes Management Project](https://opensourcewatch.beehiiv.com/p/mirantis-unveils-k0smotron-opensource-streamlined-kubernetes-management-project)
 * [2023-08-04, 16:03:47](https://news.ycombinator.com/item?id=37001853) - [GNUStep Now Has Badges](http://multixden.blogspot.com/2023/08/gnustep-now-has-badges.html)
@@ -18,18 +21,15 @@
 * [2023-08-04, 13:51:29](https://news.ycombinator.com/item?id=37000029) - [Teach a man to phish and he’s set for life](https://krebsonsecurity.com/2023/08/teach-a-man-to-phish-and-hes-set-for-life/)
 * [2023-08-04, 13:44:18](https://news.ycombinator.com/item?id=36999936) - [Bark beetles are eating through Germany’s Harz forest](https://apnews.com/article/climate-germany-bark-beetles-harz-spruce-2211332b8e841ad18fc16267bcbec6dc)
 * [2023-08-04, 13:08:51](https://news.ycombinator.com/item?id=36999463) - [85-Byte Snake Game](https://github.com/donno2048/snake)
-* [2023-08-04, 12:58:07](https://news.ycombinator.com/item?id=36999338) - [Winter temperatures above 35C in South America leave climatologists in disbelief](https://www.abc.net.au/news/2023-08-04/south-america-extreme-heat-mid-winter-climate-change-scientists/102678662)
 * [2023-08-04, 12:42:29](https://news.ycombinator.com/item?id=36999169) - [Mitmproxy 10: First Bits of HTTP/3](https://mitmproxy.org/posts/releases/mitmproxy10/)
-* [2023-08-04, 12:26:59](https://news.ycombinator.com/item?id=36999016) - [FCC imposes record penalty against transnational illegal robocalling operation](https://docs.fcc.gov/public/attachments/DOC-395728A1.txt)
-* [2023-08-04, 12:01:15](https://news.ycombinator.com/item?id=36998755) - [MindsDB (YC W20) Is Hiring a Developer Advocate](https://jobs.lever.co/mindsdb/df8af46c-7168-4a11-bc04-52638b694833?lever-origin=applied&lever-source%5B%5D=Hackernews)
 * [2023-08-04, 11:42:21](https://news.ycombinator.com/item?id=36998554) - [Is Saturn a failed gas giant?](https://arxiv.org/abs/2306.14740)
 * [2023-08-04, 11:16:06](https://news.ycombinator.com/item?id=36998337) - [Painting the Eiffel Tower](https://www.toureiffel.paris/en/the-monument/painting-eiffel-tower)
 * [2023-08-04, 10:10:40](https://news.ycombinator.com/item?id=36997821) - [Andrew McCalip demonstrates synthesis of LK99](https://twitter.com/andrewmccalip/status/1687405505604734978)
 * [2023-08-04, 08:25:36](https://news.ycombinator.com/item?id=36997067) - [Mozilla VPN: CVE-2023-4104: vpndaemon wrongly implements Polkit authentication](https://www.openwall.com/lists/oss-security/2023/08/03/1)
-* [2023-08-04, 04:24:58](https://news.ycombinator.com/item?id=36995466) - [Earliest glass workshop north of the Alps discovered](https://phys.org/news/2023-07-earliest-glass-workshop-north-alps.html)
 * [2023-08-04, 01:15:32](https://news.ycombinator.com/item?id=36994214) - [Successful room temperature ambient-pressure magnetic levitation of LK-99](https://arxiv.org/abs/2308.01516)
 * [2023-08-03, 17:21:13](https://news.ycombinator.com/item?id=36988839) - [Burning Hamburg 1943 – the first culmination of liberal militarism](https://adamtooze.substack.com/p/chartbook-230-burning-hamburg-1943)
 * [2023-08-03, 16:25:34](https://news.ycombinator.com/item?id=36988012) - [Overtone – programmable, live music in Clojure](https://overtone.github.io)
+* [2023-08-03, 00:04:40](https://news.ycombinator.com/item?id=36979588) - [What Goes Around Comes Around [pdf]](http://people.csail.mit.edu/tdanford/6830papers/stonebraker-what-goes-around.pdf)
 
 ## [Archives](archives/index.md)
 
