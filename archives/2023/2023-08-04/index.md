@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-04](index.md)
 
+* [2023-08-04, 19:29:07](https://news.ycombinator.com/item?id=37004708) - [Show HN: Gdańsk AI – full stack AI voice chatbot (STT, LLM, TTS, auth, payments)](https://github.com/jmaczan/gdansk-ai)
 * [2023-08-04, 19:24:04](https://news.ycombinator.com/item?id=37004636) - [Heat-assisted detection and ranging (HADAR)](https://www.nature.com/articles/s41586-023-06174-6)
 * [2023-08-04, 18:57:48](https://news.ycombinator.com/item?id=37004282) - [Ten Ways to Teach Kids to Code](https://web.archive.org/web/20220810201855/https://transmission.vehikl.com/ten-ways-to-teach-kids-to-code/)
 * [2023-08-04, 18:37:02](https://news.ycombinator.com/item?id=37003988) - [Melatonin, a sleep aid, is a surprising treatment for food waste](https://www.anthropocenemagazine.org/2023/08/melatonin-a-sleep-aid-is-a-surprising-treatment-for-food-waste/)
