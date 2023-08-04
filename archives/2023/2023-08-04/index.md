@@ -6,6 +6,7 @@
 
 * [2023-08-04, 14:41:53](https://news.ycombinator.com/item?id=37000733) - [Rich Hickey is retiring from Nubank](https://building.nubank.com.br/clojures-journey-at-nubank-a-look-into-the-future/)
 * [2023-08-04, 14:30:44](https://news.ycombinator.com/item?id=37000594) - [ImPlot: Interactive plotting library, ImGui style](https://github.com/epezent/implot)
+* [2023-08-04, 14:28:49](https://news.ycombinator.com/item?id=37000562) - [(Next Rich)](https://clojure.org/news/2023/08/04/next-rich)
 * [2023-08-04, 13:58:27](https://news.ycombinator.com/item?id=37000144) - [A Single-Cycle 64-Bit RISC-V Register File](https://danielmangum.com/posts/single-cycle-rv64-register-file/)
 * [2023-08-04, 13:55:38](https://news.ycombinator.com/item?id=37000096) - [Ask HN: What is the easiest way to get a PhD?](https://news.ycombinator.com/item?id=37000096)
 * [2023-08-04, 13:51:29](https://news.ycombinator.com/item?id=37000029) - [Teach a man to phish and he’s set for life](https://krebsonsecurity.com/2023/08/teach-a-man-to-phish-and-hes-set-for-life/)

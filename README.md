@@ -2,6 +2,7 @@
 
 * [2023-08-04, 14:41:53](https://news.ycombinator.com/item?id=37000733) - [Rich Hickey is retiring from Nubank](https://building.nubank.com.br/clojures-journey-at-nubank-a-look-into-the-future/)
 * [2023-08-04, 14:30:44](https://news.ycombinator.com/item?id=37000594) - [ImPlot: Interactive plotting library, ImGui style](https://github.com/epezent/implot)
+* [2023-08-04, 14:28:49](https://news.ycombinator.com/item?id=37000562) - [(Next Rich)](https://clojure.org/news/2023/08/04/next-rich)
 * [2023-08-04, 13:58:27](https://news.ycombinator.com/item?id=37000144) - [A Single-Cycle 64-Bit RISC-V Register File](https://danielmangum.com/posts/single-cycle-rv64-register-file/)
 * [2023-08-04, 13:55:38](https://news.ycombinator.com/item?id=37000096) - [Ask HN: What is the easiest way to get a PhD?](https://news.ycombinator.com/item?id=37000096)
 * [2023-08-04, 13:51:29](https://news.ycombinator.com/item?id=37000029) - [Teach a man to phish and he’s set for life](https://krebsonsecurity.com/2023/08/teach-a-man-to-phish-and-hes-set-for-life/)
@@ -27,7 +28,6 @@
 * [2023-08-03, 15:45:58](https://news.ycombinator.com/item?id=36987454) - [Launch HN: Sweep (YC S23) – A bot to create simple PRs in your codebase](https://github.com/sweepai/sweep)
 * [2023-08-03, 12:55:14](https://news.ycombinator.com/item?id=36985232) - [Peruvian fossil challenges blue whales for size](https://www.bbc.co.uk/news/science-environment-66384632)
 * [2023-08-03, 10:27:17](https://news.ycombinator.com/item?id=36983841) - [What does the “pipe” value mean in the output of “ping”? (2009)](http://web.archive.org/web/20130302161137/http://www.vincentverhagen.nl/2009/06/13/what-does-the-pipe-value-mean-in-the-output-of-ping/)
-* [2023-08-03, 06:48:26](https://news.ycombinator.com/item?id=36982245) - [Unicorn – A full-stack web framework for Django](https://www.django-unicorn.com/)
 * [2023-08-03, 00:40:16](https://news.ycombinator.com/item?id=36979866) - [The entrance fee to America’s museums keeps rising](https://www.nytimes.com/2023/08/01/arts/design/museums-raise-admission-fees-guggenheim.html)
 * [2023-08-02, 17:11:36](https://news.ycombinator.com/item?id=36973736) - [If you have first-hand knowledge of the FDA’s torpor, get in touch](https://jakeseliger.com/2023/08/02/if-youre-involved-in-drug-development-and-have-first-hand-knowledge-of-the-fdas-torpor-get-in-touch/)
 
