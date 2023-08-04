@@ -2,11 +2,11 @@
 
 * [2023-08-04, 18:37:02](https://news.ycombinator.com/item?id=37003988) - [Melatonin, a sleep aid, is a surprising treatment for food waste](https://www.anthropocenemagazine.org/2023/08/melatonin-a-sleep-aid-is-a-surprising-treatment-for-food-waste/)
 * [2023-08-04, 18:31:11](https://news.ycombinator.com/item?id=37003910) - [Throw away your first draft of your code](https://ntietz.com/blog/throw-away-your-first-draft/)
-* [2023-08-04, 18:27:18](https://news.ycombinator.com/item?id=37003854) - [Representing Heterogeneous Data](http://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/)
 * [2023-08-04, 18:10:29](https://news.ycombinator.com/item?id=37003617) - [Oral cancer drug kills 100% of tumors in vitro and in animal models](https://twitter.com/gigaj0ule/status/1686814611658715136)
 * [2023-08-04, 17:59:00](https://news.ycombinator.com/item?id=37003489) - [RedHat found a way to get around the GPLv2 license intention with contract law](https://opencoreventures.com/blog/2023-08-redhat-gets-around-gplv2-license-intention-with-contract-law/)
 * [2023-08-04, 17:58:29](https://news.ycombinator.com/item?id=37003478) - [Physics – Probing the Limits of Nuclear Existence](https://physics.aps.org/articles/v15/177)
 * [2023-08-04, 17:51:31](https://news.ycombinator.com/item?id=37003393) - [Deutschlandticket: Germany’s €49 ticket pushes passenger numbers up 25%](https://www.euronews.com/green/2023/07/31/deutschlandticket-germanys-49-ticket-pushes-passenger-numbers-up-25-on-local-train-service)
+* [2023-08-04, 17:42:11](https://news.ycombinator.com/item?id=37003275) - [Ramda: A practical functional library for JavaScript programmers](https://ramdajs.com/)
 * [2023-08-04, 17:36:02](https://news.ycombinator.com/item?id=37003195) - [The unix69 keyboard layout: nerdy and nice](https://dotat.at/@/2023-08-04-unix69.html)
 * [2023-08-04, 17:00:29](https://news.ycombinator.com/item?id=37002674) - [Kodable is hiring a Full Stack Engineer to help teach millions of kids to code](https://www.indeed.com/job/full-stack-engineer-acbcc196f22f170d)
 * [2023-08-04, 16:51:04](https://news.ycombinator.com/item?id=37002535) - [PSF Hires PyPI Safety and Security Engineer](https://pyfound.blogspot.com/2023/08/announcing-our-new-pypi-safety-security.html)
