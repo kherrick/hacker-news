@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-04](index.md)
 
+* [2023-08-04, 16:03:47](https://news.ycombinator.com/item?id=37001853) - [GNUStep Now Has Badges](http://multixden.blogspot.com/2023/08/gnustep-now-has-badges.html)
+* [2023-08-04, 15:45:09](https://news.ycombinator.com/item?id=37001589) - [MDFourier – open-source Software To Compare Audio Signatures (2021)](https://junkerhq.net/MDFourier/)
+* [2023-08-04, 15:44:49](https://news.ycombinator.com/item?id=37001587) - [Curved Coordinate Systems and Fictitious Forces](https://www.mathpages.com/home/kmath641/kmath641.htm)
 * [2023-08-04, 15:39:10](https://news.ycombinator.com/item?id=37001499) - [Frackers use dangerous chemicals without disclosure due to Halliburton loophole](https://insideclimatenews.org/news/04082023/halliburton-loophole-fracking-pennsylvania/)
 * [2023-08-04, 15:38:04](https://news.ycombinator.com/item?id=37001486) - [Customers report missing deposits from Wells Fargo bank accounts](https://www.cnn.com/2023/08/03/business/wells-fargo-technical-issue-direct-deposits/index.html)
 * [2023-08-04, 15:29:41](https://news.ycombinator.com/item?id=37001369) - [Comcast, Centurylink Fail to Derail Utah Community-Owned Gigabit Fiber Network](https://www.techdirt.com/2023/08/04/comcast-centurylink-fail-to-derail-community-owned-gigabit-fiber-network-in-bountiful-utah/)
