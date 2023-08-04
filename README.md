@@ -1,10 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-04, 01:17:06](https://news.ycombinator.com/item?id=36994229) - [Arizona’s extreme heat is killing honeybees and melting their homes](https://www.cnn.com/2023/08/03/us/honeybees-arizona-phoenix-heat-climate/index.html)
 * [2023-08-04, 01:15:32](https://news.ycombinator.com/item?id=36994214) - [Successful room temperature ambient-pressure magnetic levitation of LK-99](https://arxiv.org/abs/2308.01516)
 * [2023-08-04, 01:00:19](https://news.ycombinator.com/item?id=36994122) - [Some remarks on possible superconductivity of composition Pb9CuP6O25](https://arxiv.org/abs/2308.01723)
-* [2023-08-04, 00:42:46](https://news.ycombinator.com/item?id=36994023) - [Storing dead people at -196°C [video]](https://www.youtube.com/watch?v=85BykUan6pw)
 * [2023-08-04, 00:23:26](https://news.ycombinator.com/item?id=36993886) - [Ivy League Demographics](https://archive.org/details/ivy-league-demographics)
-* [2023-08-03, 22:00:37](https://news.ycombinator.com/item?id=36992619) - [Java: New Draft JEP: “Computed Constants”](http://minborgsjavapot.blogspot.com/2023/08/java-new-draft-jep-computed-constants.html)
 * [2023-08-03, 22:00:19](https://news.ycombinator.com/item?id=36992614) - [Royal Mail to Issue “Terry Pratchett’s Discworld” Stamps](https://file770.com/royal-mail-to-issue-terry-pratchetts-discworld-stamps/)
 * [2023-08-03, 21:38:56](https://news.ycombinator.com/item?id=36992335) - [Nuked-MD-FPGA – accurate Sega Genesis re-implementation based on decapped chips](https://github.com/nukeykt/Nuked-MD-FPGA)
 * [2023-08-03, 21:31:19](https://news.ycombinator.com/item?id=36992249) - [As ocean oxygen levels dip, fish face an uncertain future](https://e360.yale.edu/features/as-ocean-oxygen-levels-dip-fish-face-an-uncertain-future)
@@ -28,6 +27,7 @@
 * [2023-08-03, 10:06:02](https://news.ycombinator.com/item?id=36983704) - [Why ISO was retired (2021)](https://bkhome.org/news/202112/why-iso-was-retired.html)
 * [2023-08-03, 07:18:42](https://news.ycombinator.com/item?id=36982459) - [Debugging the C++ standard library on macOS](https://www.jviotti.com/2022/05/05/debugging-the-cxx-standard-library-on-macos.html)
 * [2023-08-03, 06:17:29](https://news.ycombinator.com/item?id=36982067) - [On the link between Lyme disease and bioweapons (2019)](https://lithub.com/on-the-link-between-lyme-disease-and-bioweapons/)
+* [2023-08-02, 17:11:36](https://news.ycombinator.com/item?id=36973736) - [If you have first-hand knowledge of the FDA’s torpor, get in touch](https://jakeseliger.com/2023/08/02/if-youre-involved-in-drug-development-and-have-first-hand-knowledge-of-the-fdas-torpor-get-in-touch/)
 * [2023-08-02, 10:22:46](https://news.ycombinator.com/item?id=36969018) - [How NAT traversal works (2020)](https://tailscale.com/blog/how-nat-traversal-works/)
 * [2023-08-02, 10:04:37](https://news.ycombinator.com/item?id=36968925) - [A collection of quant riddles with answers](https://puzzles.nigelcoldwell.co.uk/)
 
