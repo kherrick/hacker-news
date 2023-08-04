@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-04, 18:10:29](https://news.ycombinator.com/item?id=37003617) - [Oral cancer drug kills 100% of tumors in vitro and in animal models](https://twitter.com/gigaj0ule/status/1686814611658715136)
 * [2023-08-04, 17:59:00](https://news.ycombinator.com/item?id=37003489) - [RedHat found a way to get around GPLv2 intention with contract law](https://opencoreventures.com/blog/2023-08-redhat-gets-around-gplv2-license-intention-with-contract-law/)
 * [2023-08-04, 17:51:31](https://news.ycombinator.com/item?id=37003393) - [Deutschlandticket: Germany’s €49 ticket pushes passenger numbers up 25%](https://www.euronews.com/green/2023/07/31/deutschlandticket-germanys-49-ticket-pushes-passenger-numbers-up-25-on-local-train-service)
+* [2023-08-04, 17:42:11](https://news.ycombinator.com/item?id=37003275) - [Ramda: A practical functional library for JavaScript programmers](https://ramdajs.com/)
 * [2023-08-04, 17:36:02](https://news.ycombinator.com/item?id=37003195) - [The unix69 keyboard layout: nerdy and nice](https://dotat.at/@/2023-08-04-unix69.html)
 * [2023-08-04, 17:00:29](https://news.ycombinator.com/item?id=37002674) - [Kodable is hiring a Full Stack Engineer to help teach millions of kids to code](https://www.indeed.com/job/full-stack-engineer-acbcc196f22f170d)
 * [2023-08-04, 16:51:04](https://news.ycombinator.com/item?id=37002535) - [PSF Hires PyPI Safety and Security Engineer](https://pyfound.blogspot.com/2023/08/announcing-our-new-pypi-safety-security.html)
@@ -10,6 +12,7 @@
 * [2023-08-04, 16:15:23](https://news.ycombinator.com/item?id=37002020) - [Mirantis Unveils K0smotron: An Open-Source Kubernetes Management Project](https://opensourcewatch.beehiiv.com/p/mirantis-unveils-k0smotron-opensource-streamlined-kubernetes-management-project)
 * [2023-08-04, 16:03:47](https://news.ycombinator.com/item?id=37001853) - [GNUStep Now Has Badges](http://multixden.blogspot.com/2023/08/gnustep-now-has-badges.html)
 * [2023-08-04, 16:02:40](https://news.ycombinator.com/item?id=37001837) - [LK-99 is an online sensation – but replication efforts fall short](https://www.nature.com/articles/d41586-023-02481-0)
+* [2023-08-04, 16:02:03](https://news.ycombinator.com/item?id=37001820) - [The Gamification of Reading Is Changing How We Approach Books](https://www.shondaland.com/inspire/books/a44567428/the-gamification-of-reading-is-changing-how-we-approach-books/)
 * [2023-08-04, 15:45:09](https://news.ycombinator.com/item?id=37001589) - [MDFourier – open-source Software To Compare Audio Signatures (2021)](https://junkerhq.net/MDFourier/)
 * [2023-08-04, 15:29:41](https://news.ycombinator.com/item?id=37001369) - [Comcast, Centurylink Fail to Derail Utah Community-Owned Gigabit Fiber Network](https://www.techdirt.com/2023/08/04/comcast-centurylink-fail-to-derail-community-owned-gigabit-fiber-network-in-bountiful-utah/)
 * [2023-08-04, 15:28:04](https://news.ycombinator.com/item?id=37001345) - [Virtualizing Development Environments in 2023](https://hocus.dev/blog/virtualizing-development-environments/)
@@ -23,13 +26,10 @@
 * [2023-08-04, 13:44:18](https://news.ycombinator.com/item?id=36999936) - [Bark beetles are eating through Germany’s Harz forest](https://apnews.com/article/climate-germany-bark-beetles-harz-spruce-2211332b8e841ad18fc16267bcbec6dc)
 * [2023-08-04, 13:08:51](https://news.ycombinator.com/item?id=36999463) - [85-Byte Snake Game](https://github.com/donno2048/snake)
 * [2023-08-04, 12:42:29](https://news.ycombinator.com/item?id=36999169) - [Mitmproxy 10: First Bits of HTTP/3](https://mitmproxy.org/posts/releases/mitmproxy10/)
-* [2023-08-04, 11:16:06](https://news.ycombinator.com/item?id=36998337) - [Painting the Eiffel Tower](https://www.toureiffel.paris/en/the-monument/painting-eiffel-tower)
-* [2023-08-04, 10:10:40](https://news.ycombinator.com/item?id=36997821) - [Andrew McCalip demonstrates synthesis of LK99](https://twitter.com/andrewmccalip/status/1687405505604734978)
 * [2023-08-04, 08:25:36](https://news.ycombinator.com/item?id=36997067) - [Mozilla VPN: CVE-2023-4104: vpndaemon wrongly implements Polkit authentication](https://www.openwall.com/lists/oss-security/2023/08/03/1)
 * [2023-08-04, 01:15:32](https://news.ycombinator.com/item?id=36994214) - [Successful room temperature ambient-pressure magnetic levitation of LK-99](https://arxiv.org/abs/2308.01516)
 * [2023-08-03, 16:25:34](https://news.ycombinator.com/item?id=36988012) - [Overtone – programmable, live music in Clojure](https://overtone.github.io)
 * [2023-08-03, 14:54:02](https://news.ycombinator.com/item?id=36986795) - [Do Something, So We Can Change It](https://allenpike.com/2023/do-something-so-we-can-change-it)
-* [2023-08-03, 00:04:40](https://news.ycombinator.com/item?id=36979588) - [What Goes Around Comes Around [pdf]](http://people.csail.mit.edu/tdanford/6830papers/stonebraker-what-goes-around.pdf)
 
 ## [Archives](archives/index.md)
 

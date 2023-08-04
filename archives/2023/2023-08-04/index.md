@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-04](index.md)
 
+* [2023-08-04, 18:10:29](https://news.ycombinator.com/item?id=37003617) - [Oral cancer drug kills 100% of tumors in vitro and in animal models](https://twitter.com/gigaj0ule/status/1686814611658715136)
 * [2023-08-04, 17:59:00](https://news.ycombinator.com/item?id=37003489) - [RedHat found a way to get around GPLv2 intention with contract law](https://opencoreventures.com/blog/2023-08-redhat-gets-around-gplv2-license-intention-with-contract-law/)
 * [2023-08-04, 17:51:31](https://news.ycombinator.com/item?id=37003393) - [Deutschlandticket: Germany’s €49 ticket pushes passenger numbers up 25%](https://www.euronews.com/green/2023/07/31/deutschlandticket-germanys-49-ticket-pushes-passenger-numbers-up-25-on-local-train-service)
+* [2023-08-04, 17:42:11](https://news.ycombinator.com/item?id=37003275) - [Ramda: A practical functional library for JavaScript programmers](https://ramdajs.com/)
 * [2023-08-04, 17:36:02](https://news.ycombinator.com/item?id=37003195) - [The unix69 keyboard layout: nerdy and nice](https://dotat.at/@/2023-08-04-unix69.html)
 * [2023-08-04, 17:00:29](https://news.ycombinator.com/item?id=37002674) - [Kodable is hiring a Full Stack Engineer to help teach millions of kids to code](https://www.indeed.com/job/full-stack-engineer-acbcc196f22f170d)
 * [2023-08-04, 16:51:04](https://news.ycombinator.com/item?id=37002535) - [PSF Hires PyPI Safety and Security Engineer](https://pyfound.blogspot.com/2023/08/announcing-our-new-pypi-safety-security.html)
@@ -14,6 +16,7 @@
 * [2023-08-04, 16:15:23](https://news.ycombinator.com/item?id=37002020) - [Mirantis Unveils K0smotron: An Open-Source Kubernetes Management Project](https://opensourcewatch.beehiiv.com/p/mirantis-unveils-k0smotron-opensource-streamlined-kubernetes-management-project)
 * [2023-08-04, 16:03:47](https://news.ycombinator.com/item?id=37001853) - [GNUStep Now Has Badges](http://multixden.blogspot.com/2023/08/gnustep-now-has-badges.html)
 * [2023-08-04, 16:02:40](https://news.ycombinator.com/item?id=37001837) - [LK-99 is an online sensation – but replication efforts fall short](https://www.nature.com/articles/d41586-023-02481-0)
+* [2023-08-04, 16:02:03](https://news.ycombinator.com/item?id=37001820) - [The Gamification of Reading Is Changing How We Approach Books](https://www.shondaland.com/inspire/books/a44567428/the-gamification-of-reading-is-changing-how-we-approach-books/)
 * [2023-08-04, 15:45:09](https://news.ycombinator.com/item?id=37001589) - [MDFourier – open-source Software To Compare Audio Signatures (2021)](https://junkerhq.net/MDFourier/)
 * [2023-08-04, 15:44:49](https://news.ycombinator.com/item?id=37001587) - [Curved Coordinate Systems and Fictitious Forces](https://www.mathpages.com/home/kmath641/kmath641.htm)
 * [2023-08-04, 15:39:10](https://news.ycombinator.com/item?id=37001499) - [Frackers use dangerous chemicals without disclosure due to Halliburton loophole](https://insideclimatenews.org/news/04082023/halliburton-loophole-fracking-pennsylvania/)
