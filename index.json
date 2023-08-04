@@ -21,26 +21,6 @@
   ],
   [
     [
-      "2023-08-04, 21:27:15",
-      "https://news.ycombinator.com/item?id=37006124"
-    ],
-    [
-      "Google Invites Employees to Sleep 'On Campus' for a Fee",
-      "https://gizmodo.com/google-invites-employees-to-sleep-on-campus-for-a-fee-1850709102"
-    ]
-  ],
-  [
-    [
-      "2023-08-04, 21:25:23",
-      "https://news.ycombinator.com/item?id=37006102"
-    ],
-    [
-      "Pause Random Superconductor Experiments: An Open Letter",
-      "https://futureofliff.org/"
-    ]
-  ],
-  [
-    [
       "2023-08-04, 21:11:03",
       "https://news.ycombinator.com/item?id=37005937"
     ],
@@ -67,6 +47,16 @@
     [
       "Cloud Provider Gets $2.3B Loan Using Nvidia's H100 as Collateral",
       "https://www.anandtech.com/show/19995/cloud-provider-gets-23-billion-debt-using-nvidias-h100-as-collateral"
+    ]
+  ],
+  [
+    [
+      "2023-08-04, 19:29:41",
+      "https://news.ycombinator.com/item?id=37004720"
+    ],
+    [
+      "American English Dialects",
+      "https://aschmann.net/AmEng/"
     ]
   ],
   [
@@ -161,16 +151,6 @@
   ],
   [
     [
-      "2023-08-04, 16:26:05",
-      "https://news.ycombinator.com/item?id=37002187"
-    ],
-    [
-      "Exploiting a Flaw in Bitmap Handling in Windows User-Mode Printer Drivers",
-      "https://www.thezdi.com/blog/2023/8/1/exploiting-a-flaw-in-bitmap-handling-in-windows-user-mode-printer-drivers"
-    ]
-  ],
-  [
-    [
       "2023-08-04, 16:03:47",
       "https://news.ycombinator.com/item?id=37001853"
     ],
@@ -251,12 +231,32 @@
   ],
   [
     [
+      "2023-08-04, 08:25:36",
+      "https://news.ycombinator.com/item?id=36997067"
+    ],
+    [
+      "Mozilla VPN: CVE-2023-4104: vpndaemon wrongly implements Polkit authentication",
+      "https://www.openwall.com/lists/oss-security/2023/08/03/1"
+    ]
+  ],
+  [
+    [
       "2023-08-04, 01:15:32",
       "https://news.ycombinator.com/item?id=36994214"
     ],
     [
       "Successful room temperature ambient-pressure magnetic levitation of LK-99",
       "https://arxiv.org/abs/2308.01516"
+    ]
+  ],
+  [
+    [
+      "2023-08-03, 21:28:51",
+      "https://news.ycombinator.com/item?id=36992222"
+    ],
+    [
+      "Random Testing of WebAssembly Implementations Using Semantically Valid Programs",
+      "https://www.flux.utah.edu/paper/watson-thesis"
     ]
   ],
   [
