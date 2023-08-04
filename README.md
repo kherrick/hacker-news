@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-04, 13:08:51](https://news.ycombinator.com/item?id=36999463) - [85-Byte Snake Game](https://github.com/donno2048/snake)
 * [2023-08-04, 12:26:59](https://news.ycombinator.com/item?id=36999016) - [FCC imposes $300M record penalty on robocall scammers](https://docs.fcc.gov/public/attachments/DOC-395728A1.txt)
 * [2023-08-04, 12:19:07](https://news.ycombinator.com/item?id=36998936) - [Ask HN: For advice: I'm a mathematician looking for a plan B outside of academia](https://news.ycombinator.com/item?id=36998936)
 * [2023-08-04, 12:01:15](https://news.ycombinator.com/item?id=36998755) - [MindsDB (YC W20) Is Hiring a Developer Advocate](https://jobs.lever.co/mindsdb/df8af46c-7168-4a11-bc04-52638b694833?lever-origin=applied&lever-source%5B%5D=Hackernews)
@@ -29,7 +30,6 @@
 * [2023-08-03, 10:27:17](https://news.ycombinator.com/item?id=36983841) - [What does the “pipe” value mean in the output of “ping”? (2009)](http://web.archive.org/web/20130302161137/http://www.vincentverhagen.nl/2009/06/13/what-does-the-pipe-value-mean-in-the-output-of-ping/)
 * [2023-08-03, 06:48:26](https://news.ycombinator.com/item?id=36982245) - [Unicorn – A full-stack web framework for Django](https://www.django-unicorn.com/)
 * [2023-08-02, 17:11:36](https://news.ycombinator.com/item?id=36973736) - [If you have first-hand knowledge of the FDA’s torpor, get in touch](https://jakeseliger.com/2023/08/02/if-youre-involved-in-drug-development-and-have-first-hand-knowledge-of-the-fdas-torpor-get-in-touch/)
-* [2023-08-02, 10:04:37](https://news.ycombinator.com/item?id=36968925) - [A collection of quant riddles with answers](https://puzzles.nigelcoldwell.co.uk/)
 
 ## [Archives](archives/index.md)
 
