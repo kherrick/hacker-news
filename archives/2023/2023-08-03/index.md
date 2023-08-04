@@ -41,6 +41,7 @@
 * [2023-08-03, 16:38:37](https://news.ycombinator.com/item?id=36988192) - [Ask HN: Any freelancers here? I need burnout advice](https://news.ycombinator.com/item?id=36988192)
 * [2023-08-03, 16:28:24](https://news.ycombinator.com/item?id=36988047) - [Pegasus Mail](https://www.pmail.com/)
 * [2023-08-03, 16:28:01](https://news.ycombinator.com/item?id=36988039) - [Why early modern books are so beautiful](https://resobscura.substack.com/p/why-early-modern-books-are-so-beautiful)
+* [2023-08-03, 16:25:34](https://news.ycombinator.com/item?id=36988012) - [Overtone – programmable, live music in Clojure](https://overtone.github.io)
 * [2023-08-03, 16:19:07](https://news.ycombinator.com/item?id=36987920) - [Show HN: Hydra 1.0 – open-source column-oriented Postgres](https://hydra-so.notion.site/Hydra-1-0-beta-318504444825401e8ce21796dcadd589)
 * [2023-08-03, 16:15:39](https://news.ycombinator.com/item?id=36987885) - [Who are the worlds biggest landowners](https://www.madisontrust.com/information-center/worlds-largest-landowners/)
 * [2023-08-03, 16:09:20](https://news.ycombinator.com/item?id=36987808) - [Falsehoods Programmers Believe In](https://github.com/kdeldycke/awesome-falsehood)

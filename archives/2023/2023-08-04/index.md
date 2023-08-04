@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-08-04](index.md)
 
+* [2023-08-04, 15:02:08](https://news.ycombinator.com/item?id=37000981) - [Remote work requires communicating more, but less frequently](https://ben.balter.com/2023/08/04/remote-work-communicate-more-with-less/)
+* [2023-08-04, 14:58:11](https://news.ycombinator.com/item?id=37000920) - [How to add an AI Code Copilot to your product using GPT4](https://www.windmill.dev/blog/windmill-ai)
+* [2023-08-04, 14:46:36](https://news.ycombinator.com/item?id=37000788) - [Death Squared: The explosive growth and demise of a mouse population (1973) [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1644264/pdf/procrsmed00338-0007.pdf)
 * [2023-08-04, 14:41:53](https://news.ycombinator.com/item?id=37000733) - [Rich Hickey is retiring from Nubank](https://building.nubank.com.br/clojures-journey-at-nubank-a-look-into-the-future/)
 * [2023-08-04, 14:30:44](https://news.ycombinator.com/item?id=37000594) - [ImPlot: Interactive plotting library, ImGui style](https://github.com/epezent/implot)
 * [2023-08-04, 14:28:49](https://news.ycombinator.com/item?id=37000562) - [(Next Rich)](https://clojure.org/news/2023/08/04/next-rich)
+* [2023-08-04, 14:05:37](https://news.ycombinator.com/item?id=37000250) - [Austrian leader proposes enshrining the use of cash in country's constitution](https://apnews.com/article/austria-cash-constitution-proposal-e63078b1682b375a84d0132857374e43)
 * [2023-08-04, 13:58:27](https://news.ycombinator.com/item?id=37000144) - [A Single-Cycle 64-Bit RISC-V Register File](https://danielmangum.com/posts/single-cycle-rv64-register-file/)
 * [2023-08-04, 13:55:38](https://news.ycombinator.com/item?id=37000096) - [Ask HN: What is the easiest way to get a PhD?](https://news.ycombinator.com/item?id=37000096)
 * [2023-08-04, 13:51:29](https://news.ycombinator.com/item?id=37000029) - [Teach a man to phish and he’s set for life](https://krebsonsecurity.com/2023/08/teach-a-man-to-phish-and-hes-set-for-life/)
@@ -16,7 +20,9 @@
 * [2023-08-04, 13:01:44](https://news.ycombinator.com/item?id=36999372) - [People lining up in Argentina to have their iris scanned for Worldcoin](https://twitter.com/DamianCatanzaro/status/1687243235486273536)
 * [2023-08-04, 12:58:07](https://news.ycombinator.com/item?id=36999338) - [Winter temperatures above 35C in South America leave climatologists in disbelief](https://www.abc.net.au/news/2023-08-04/south-america-extreme-heat-mid-winter-climate-change-scientists/102678662)
 * [2023-08-04, 12:51:31](https://news.ycombinator.com/item?id=36999264) - [4 Charts That Show Why AI Progress Is Unlikely to Slow Down](https://time.com/6300942/ai-progress-charts/)
+* [2023-08-04, 12:42:29](https://news.ycombinator.com/item?id=36999169) - [Mitmproxy 10: First Bits of HTTP/3](https://mitmproxy.org/posts/releases/mitmproxy10/)
 * [2023-08-04, 12:26:59](https://news.ycombinator.com/item?id=36999016) - [FCC imposes $300M record penalty on robocall scammers](https://docs.fcc.gov/public/attachments/DOC-395728A1.txt)
+* [2023-08-04, 12:22:04](https://news.ycombinator.com/item?id=36998963) - [LLMs Are Taking over APIs](https://github.com/ShishirPatil/gorilla)
 * [2023-08-04, 12:19:07](https://news.ycombinator.com/item?id=36998936) - [Ask HN: For advice: I'm a mathematician looking for a plan B outside of academia](https://news.ycombinator.com/item?id=36998936)
 * [2023-08-04, 12:01:15](https://news.ycombinator.com/item?id=36998755) - [MindsDB (YC W20) Is Hiring a Developer Advocate](https://jobs.lever.co/mindsdb/df8af46c-7168-4a11-bc04-52638b694833?lever-origin=applied&lever-source%5B%5D=Hackernews)
 * [2023-08-04, 11:51:49](https://news.ycombinator.com/item?id=36998643) - [The Coming Enshittification of Public Libraries](https://karawynn.substack.com/p/the-coming-enshittification-of-public-libraries)
