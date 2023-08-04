@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-04, 06:44:56](https://news.ycombinator.com/item?id=36996287) - [Redesigning Chrome Downloads](https://blog.chromium.org/2023/08/redesigning-chrome-downloads-to-keep.html)
+* [2023-08-04, 06:15:48](https://news.ycombinator.com/item?id=36996084) - [New web framework for Python in development](https://github.com/AliRn76/panther)
 * [2023-08-04, 05:53:09](https://news.ycombinator.com/item?id=36995944) - [PicoLisp Tutorials](https://picolisp-explored.com)
 * [2023-08-04, 05:13:14](https://news.ycombinator.com/item?id=36995735) - [Zig 0.11](https://ziglang.org/download/0.11.0/release-notes.html)
 * [2023-08-04, 02:58:33](https://news.ycombinator.com/item?id=36994982) - [Randall Couch's 'Peal' and other literary bells](https://blogs.bl.uk/english-and-drama/2023/05/literary-bells.html)
@@ -25,7 +26,6 @@
 * [2023-08-03, 10:27:17](https://news.ycombinator.com/item?id=36983841) - [What does the “pipe” value mean in the output of “ping”? (2009)](http://web.archive.org/web/20130302161137/http://www.vincentverhagen.nl/2009/06/13/what-does-the-pipe-value-mean-in-the-output-of-ping/)
 * [2023-08-03, 10:06:02](https://news.ycombinator.com/item?id=36983704) - [Why ISO was retired (2021)](https://bkhome.org/news/202112/why-iso-was-retired.html)
 * [2023-08-03, 09:52:18](https://news.ycombinator.com/item?id=36983599) - [How the World’s Most Famous Scream Was Recovered](https://www.youtube.com/watch?v=6x0xmMcaWRI)
-* [2023-08-03, 07:18:42](https://news.ycombinator.com/item?id=36982459) - [Debugging the C++ standard library on macOS (2022)](https://www.jviotti.com/2022/05/05/debugging-the-cxx-standard-library-on-macos.html)
 * [2023-08-03, 06:48:26](https://news.ycombinator.com/item?id=36982245) - [Unicorn – A full-stack web framework for Django](https://www.django-unicorn.com/)
 * [2023-08-03, 06:17:29](https://news.ycombinator.com/item?id=36982067) - [On the link between Lyme disease and bioweapons (2019)](https://lithub.com/on-the-link-between-lyme-disease-and-bioweapons/)
 * [2023-08-02, 17:11:36](https://news.ycombinator.com/item?id=36973736) - [If you have first-hand knowledge of the FDA’s torpor, get in touch](https://jakeseliger.com/2023/08/02/if-youre-involved-in-drug-development-and-have-first-hand-knowledge-of-the-fdas-torpor-get-in-touch/)
