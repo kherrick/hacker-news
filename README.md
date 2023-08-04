@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-04, 10:10:40](https://news.ycombinator.com/item?id=36997821) - [Andrew McCalip demonstrates synthesis of LK99](https://twitter.com/andrewmccalip/status/1687405505604734978)
 * [2023-08-04, 09:42:32](https://news.ycombinator.com/item?id=36997641) - [Jam.gg (Formerly Piepacker) (YC S20) Is Hiring](https://news.ycombinator.com/item?id=36997641)
 * [2023-08-04, 08:25:36](https://news.ycombinator.com/item?id=36997067) - [Mozilla VPN: CVE-2023-4104: vpndaemon wrongly implements Polkit authentication](https://www.openwall.com/lists/oss-security/2023/08/03/1)
 * [2023-08-04, 06:44:56](https://news.ycombinator.com/item?id=36996287) - [Redesigning Chrome Downloads](https://blog.chromium.org/2023/08/redesigning-chrome-downloads-to-keep.html)
@@ -22,7 +23,6 @@
 * [2023-08-03, 15:45:58](https://news.ycombinator.com/item?id=36987454) - [Launch HN: Sweep (YC S23) – A bot to create simple PRs in your codebase](https://github.com/sweepai/sweep)
 * [2023-08-03, 14:13:28](https://news.ycombinator.com/item?id=36986242) - [Movie-Theater Behavior Has Gone Off the Reels](https://www.wsj.com/articles/movie-theater-behavior-has-gone-off-the-reels-8d3ba0b)
 * [2023-08-03, 12:55:14](https://news.ycombinator.com/item?id=36985232) - [Peruvian fossil challenges blue whales for size](https://www.bbc.co.uk/news/science-environment-66384632)
-* [2023-08-03, 11:25:35](https://news.ycombinator.com/item?id=36984260) - [Pick-and-place machine](https://en.wikipedia.org/wiki/Pick-and-place_machine)
 * [2023-08-03, 10:27:17](https://news.ycombinator.com/item?id=36983841) - [What does the “pipe” value mean in the output of “ping”? (2009)](http://web.archive.org/web/20130302161137/http://www.vincentverhagen.nl/2009/06/13/what-does-the-pipe-value-mean-in-the-output-of-ping/)
 * [2023-08-03, 10:06:02](https://news.ycombinator.com/item?id=36983704) - [Why ISO was retired (2021)](https://bkhome.org/news/202112/why-iso-was-retired.html)
 * [2023-08-03, 09:52:18](https://news.ycombinator.com/item?id=36983599) - [How the World’s Most Famous Scream Was Recovered](https://www.youtube.com/watch?v=6x0xmMcaWRI)
