@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-08-04](index.md)
 
+* [2023-08-04, 06:44:56](https://news.ycombinator.com/item?id=36996287) - [Redesigning Chrome Downloads](https://blog.chromium.org/2023/08/redesigning-chrome-downloads-to-keep.html)
 * [2023-08-04, 05:53:09](https://news.ycombinator.com/item?id=36995944) - [PicoLisp Tutorials](https://picolisp-explored.com)
 * [2023-08-04, 05:13:14](https://news.ycombinator.com/item?id=36995735) - [0.11.0 Release Notes](https://ziglang.org/download/0.11.0/release-notes.html)
 * [2023-08-04, 02:58:57](https://news.ycombinator.com/item?id=36994986) - [Statement on AP Psychology and Florida](https://newsroom.collegeboard.org/statement-ap-psychology-and-florida)
+* [2023-08-04, 02:58:33](https://news.ycombinator.com/item?id=36994982) - [Randall Couch's 'Peal' and other literary bells](https://blogs.bl.uk/english-and-drama/2023/05/literary-bells.html)
 * [2023-08-04, 02:21:06](https://news.ycombinator.com/item?id=36994690) - [Why the best hiking boot is a sneaker](https://www.wsj.com/articles/why-the-best-hiking-boot-is-actually-a-sneaker-3c49803d)
 * [2023-08-04, 01:17:06](https://news.ycombinator.com/item?id=36994229) - [Arizona’s extreme heat is killing honeybees and melting their homes](https://www.cnn.com/2023/08/03/us/honeybees-arizona-phoenix-heat-climate/index.html)
 * [2023-08-04, 01:15:32](https://news.ycombinator.com/item?id=36994214) - [Successful room temperature ambient-pressure magnetic levitation of LK-99](https://arxiv.org/abs/2308.01516)
