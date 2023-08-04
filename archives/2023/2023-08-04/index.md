@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-04](index.md)
 
+* [2023-08-04, 15:04:04](https://news.ycombinator.com/item?id=37001003) - [How to Build Muscle](https://www.julian.com/guide/muscle/intro)
 * [2023-08-04, 15:02:08](https://news.ycombinator.com/item?id=37000981) - [Remote work requires communicating more, but less frequently](https://ben.balter.com/2023/08/04/remote-work-communicate-more-with-less/)
 * [2023-08-04, 14:58:11](https://news.ycombinator.com/item?id=37000920) - [How to add an AI Code Copilot to your product using GPT4](https://www.windmill.dev/blog/windmill-ai)
 * [2023-08-04, 14:46:36](https://news.ycombinator.com/item?id=37000788) - [Death Squared: The explosive growth and demise of a mouse population (1973) [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1644264/pdf/procrsmed00338-0007.pdf)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-04, 15:04:04](https://news.ycombinator.com/item?id=37001003) - [How to Build Muscle](https://www.julian.com/guide/muscle/intro)
 * [2023-08-04, 15:02:08](https://news.ycombinator.com/item?id=37000981) - [Remote work requires communicating more, but less frequently](https://ben.balter.com/2023/08/04/remote-work-communicate-more-with-less/)
 * [2023-08-04, 14:58:11](https://news.ycombinator.com/item?id=37000920) - [How to add an AI Code Copilot to your product using GPT4](https://www.windmill.dev/blog/windmill-ai)
 * [2023-08-04, 14:46:36](https://news.ycombinator.com/item?id=37000788) - [Death Squared: The explosive growth and demise of a mouse population (1973) [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1644264/pdf/procrsmed00338-0007.pdf)
@@ -27,7 +28,6 @@
 * [2023-08-03, 22:16:40](https://news.ycombinator.com/item?id=36992802) - [The worlds largest Online Toaster Exhibition](http://toastermuseum.com)
 * [2023-08-03, 18:02:56](https://news.ycombinator.com/item?id=36989424) - [The Scottish Enlightenment and the Remaking of Modern History](https://www.cambridge.org/core/journals/historical-journal/article/scottish-enlightenment-and-the-remaking-of-modern-history/ED61FD3E65AAB0DA630A325DF14F6E8B)
 * [2023-08-03, 16:25:34](https://news.ycombinator.com/item?id=36988012) - [Overtone – programmable, live music in Clojure](https://overtone.github.io)
-* [2023-08-03, 12:55:14](https://news.ycombinator.com/item?id=36985232) - [Peruvian fossil challenges blue whales for size](https://www.bbc.co.uk/news/science-environment-66384632)
 * [2023-08-03, 10:27:17](https://news.ycombinator.com/item?id=36983841) - [What does the “pipe” value mean in the output of “ping”? (2009)](http://web.archive.org/web/20130302161137/http://www.vincentverhagen.nl/2009/06/13/what-does-the-pipe-value-mean-in-the-output-of-ping/)
 * [2023-08-02, 17:11:36](https://news.ycombinator.com/item?id=36973736) - [If you have first-hand knowledge of the FDA’s torpor, get in touch](https://jakeseliger.com/2023/08/02/if-youre-involved-in-drug-development-and-have-first-hand-knowledge-of-the-fdas-torpor-get-in-touch/)
 
