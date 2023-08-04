@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-04, 15:29:41](https://news.ycombinator.com/item?id=37001369) - [Comcast, Centurylink Fail to Derail Utah Community-Owned Gigabit Fiber Network](https://www.techdirt.com/2023/08/04/comcast-centurylink-fail-to-derail-community-owned-gigabit-fiber-network-in-bountiful-utah/)
+* [2023-08-04, 15:28:04](https://news.ycombinator.com/item?id=37001345) - [Virtualizing Development Environments in 2023](https://hocus.dev/blog/virtualizing-development-environments/)
 * [2023-08-04, 15:04:04](https://news.ycombinator.com/item?id=37001003) - [How to Build Muscle](https://www.julian.com/guide/muscle/intro)
 * [2023-08-04, 15:02:08](https://news.ycombinator.com/item?id=37000981) - [Remote work requires communicating more, but less frequently](https://ben.balter.com/2023/08/04/remote-work-communicate-more-with-less/)
 * [2023-08-04, 14:58:11](https://news.ycombinator.com/item?id=37000920) - [How to add an AI Code Copilot to your product using GPT4](https://www.windmill.dev/blog/windmill-ai)
-* [2023-08-04, 14:46:36](https://news.ycombinator.com/item?id=37000788) - [Death Squared: The explosive growth and demise of a mouse population (1973) [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1644264/pdf/procrsmed00338-0007.pdf)
 * [2023-08-04, 14:41:53](https://news.ycombinator.com/item?id=37000733) - [Rich Hickey is retiring from Nubank](https://building.nubank.com.br/clojures-journey-at-nubank-a-look-into-the-future/)
 * [2023-08-04, 14:30:44](https://news.ycombinator.com/item?id=37000594) - [ImPlot: Interactive plotting library, ImGui style](https://github.com/epezent/implot)
 * [2023-08-04, 14:28:49](https://news.ycombinator.com/item?id=37000562) - [(Next Rich)](https://clojure.org/news/2023/08/04/next-rich)
