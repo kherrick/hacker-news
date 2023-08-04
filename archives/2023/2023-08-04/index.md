@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-08-04](index.md)
 
+* [2023-08-04, 13:58:27](https://news.ycombinator.com/item?id=37000144) - [A Single-Cycle 64-Bit RISC-V Register File](https://danielmangum.com/posts/single-cycle-rv64-register-file/)
 * [2023-08-04, 13:51:29](https://news.ycombinator.com/item?id=37000029) - [Teach a man to phish and he’s set for life](https://krebsonsecurity.com/2023/08/teach-a-man-to-phish-and-hes-set-for-life/)
+* [2023-08-04, 13:44:18](https://news.ycombinator.com/item?id=36999936) - [Bark beetles are eating through Germany’s Harz forest](https://apnews.com/article/climate-germany-bark-beetles-harz-spruce-2211332b8e841ad18fc16267bcbec6dc)
 * [2023-08-04, 13:24:56](https://news.ycombinator.com/item?id=36999697) - [‘I’m not wanted’: Florida universities hit by brain drain as academics flee](https://www.theguardian.com/us-news/2023/jul/30/florida-universities-colleges-faculty-leaving-desantis)
 * [2023-08-04, 13:08:51](https://news.ycombinator.com/item?id=36999463) - [85-Byte Snake Game](https://github.com/donno2048/snake)
 * [2023-08-04, 13:01:44](https://news.ycombinator.com/item?id=36999372) - [People lining up in Argentina to have their iris scanned for Worldcoin](https://twitter.com/DamianCatanzaro/status/1687243235486273536)
+* [2023-08-04, 12:58:07](https://news.ycombinator.com/item?id=36999338) - [Winter temperatures above 35C in South America leave climatologists in disbelief](https://www.abc.net.au/news/2023-08-04/south-america-extreme-heat-mid-winter-climate-change-scientists/102678662)
 * [2023-08-04, 12:51:31](https://news.ycombinator.com/item?id=36999264) - [4 Charts That Show Why AI Progress Is Unlikely to Slow Down](https://time.com/6300942/ai-progress-charts/)
 * [2023-08-04, 12:26:59](https://news.ycombinator.com/item?id=36999016) - [FCC imposes $300M record penalty on robocall scammers](https://docs.fcc.gov/public/attachments/DOC-395728A1.txt)
 * [2023-08-04, 12:19:07](https://news.ycombinator.com/item?id=36998936) - [Ask HN: For advice: I'm a mathematician looking for a plan B outside of academia](https://news.ycombinator.com/item?id=36998936)
