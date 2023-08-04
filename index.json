@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-08-03, 22:00:19",
-      "https://news.ycombinator.com/item?id=36992614"
-    ],
-    [
-      "Royal Mail to Issue “Terry Pratchett’s Discworld” Stamps",
-      "https://file770.com/royal-mail-to-issue-terry-pratchetts-discworld-stamps/"
-    ]
-  ],
-  [
-    [
       "2023-08-03, 21:38:56",
       "https://news.ycombinator.com/item?id=36992335"
     ],
@@ -111,12 +101,22 @@
   ],
   [
     [
+      "2023-08-03, 18:35:11",
+      "https://news.ycombinator.com/item?id=36989845"
+    ],
+    [
+      "FCC fines robocaller a record $300M after blocking billions of their scam calls",
+      "https://techcrunch.com/2023/08/03/fcc-fines-robocaller-a-record-300m-after-blocking-billions-of-their-scam-calls/"
+    ]
+  ],
+  [
+    [
       "2023-08-03, 18:31:50",
       "https://news.ycombinator.com/item?id=36989798"
     ],
     [
       "AWS to begin charging for public IPv4 addresses",
-      "https://www.infoq.com/news/2023/08/aws-ec2-public-ipv4/"
+      "https://aws.amazon.com/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-08-03, 11:53:35",
-      "https://news.ycombinator.com/item?id=36984530"
-    ],
-    [
-      "Goto in Bash (2012)",
-      "https://bobcopeland.com/blog/2012/10/goto-in-bash/"
-    ]
-  ],
-  [
-    [
       "2023-08-03, 11:25:35",
       "https://news.ycombinator.com/item?id=36984260"
     ],
@@ -257,6 +247,16 @@
     [
       "Why ISO was retired (2021)",
       "https://bkhome.org/news/202112/why-iso-was-retired.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-03, 07:18:42",
+      "https://news.ycombinator.com/item?id=36982459"
+    ],
+    [
+      "Debugging the C++ standard library on macOS",
+      "https://www.jviotti.com/2022/05/05/debugging-the-cxx-standard-library-on-macos.html"
     ]
   ],
   [
