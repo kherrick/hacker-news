@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-04](index.md)
 
+* [2023-08-04, 20:44:54](https://news.ycombinator.com/item?id=37005629) - [Major government tech contractors use vendor-lock to drive revenue: study](https://fedscoop.com/major-government-tech-contractors-use-monopolistic-vendor-lock-to-drive-revenue-study/)
 * [2023-08-04, 19:48:49](https://news.ycombinator.com/item?id=37004949) - [Beech leaf disease is ravaging North American trees](https://www.science.org/content/article/beech-leaf-disease-ravaging-north-american-trees)
 * [2023-08-04, 19:43:16](https://news.ycombinator.com/item?id=37004885) - [Cloud Provider Gets $2.3B Loan Using Nvidia's H100 as Collateral](https://www.anandtech.com/show/19995/cloud-provider-gets-23-billion-debt-using-nvidias-h100-as-collateral)
 * [2023-08-04, 19:29:07](https://news.ycombinator.com/item?id=37004708) - [Show HN: Gdańsk AI – full stack AI voice chatbot (STT, LLM, TTS, auth, payments)](https://github.com/jmaczan/gdansk-ai)
