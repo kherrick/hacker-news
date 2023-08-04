@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-04](index.md)
 
+* [2023-08-04, 02:58:57](https://news.ycombinator.com/item?id=36994986) - [Statement on AP Psychology and Florida](https://newsroom.collegeboard.org/statement-ap-psychology-and-florida)
 * [2023-08-04, 02:21:06](https://news.ycombinator.com/item?id=36994690) - [Why the best hiking boot is a sneaker](https://www.wsj.com/articles/why-the-best-hiking-boot-is-actually-a-sneaker-3c49803d)
 * [2023-08-04, 01:17:06](https://news.ycombinator.com/item?id=36994229) - [Arizona’s extreme heat is killing honeybees and melting their homes](https://www.cnn.com/2023/08/03/us/honeybees-arizona-phoenix-heat-climate/index.html)
 * [2023-08-04, 01:15:32](https://news.ycombinator.com/item?id=36994214) - [Successful room temperature ambient-pressure magnetic levitation of LK-99](https://arxiv.org/abs/2308.01516)

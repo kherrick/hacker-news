@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-04, 02:58:57](https://news.ycombinator.com/item?id=36994986) - [Statement on AP Psychology and Florida](https://newsroom.collegeboard.org/statement-ap-psychology-and-florida)
 * [2023-08-04, 01:15:32](https://news.ycombinator.com/item?id=36994214) - [Successful room temperature ambient-pressure magnetic levitation of LK-99](https://arxiv.org/abs/2308.01516)
 * [2023-08-04, 01:06:23](https://news.ycombinator.com/item?id=36994170) - [Aided by A.I. Language Models, Google’s Robots Are Getting Smart](https://www.nytimes.com/2023/07/28/technology/google-robots-ai.html)
 * [2023-08-04, 01:00:19](https://news.ycombinator.com/item?id=36994122) - [Some remarks on possible superconductivity of composition Pb9CuP6O25](https://arxiv.org/abs/2308.01723)
@@ -24,7 +25,6 @@
 * [2023-08-03, 11:25:35](https://news.ycombinator.com/item?id=36984260) - [Pick-and-Place Machine](https://en.wikipedia.org/wiki/Pick-and-place_machine)
 * [2023-08-03, 10:27:17](https://news.ycombinator.com/item?id=36983841) - [What does the “pipe” value mean in the output of “ping”?](http://web.archive.org/web/20130302161137/http://www.vincentverhagen.nl/2009/06/13/what-does-the-pipe-value-mean-in-the-output-of-ping/)
 * [2023-08-03, 10:06:02](https://news.ycombinator.com/item?id=36983704) - [Why ISO was retired (2021)](https://bkhome.org/news/202112/why-iso-was-retired.html)
-* [2023-08-03, 08:33:12](https://news.ycombinator.com/item?id=36982996) - [Who was the Bell Witch?](https://www.atlasobscura.com/articles/who-was-the-bell-witch)
 * [2023-08-03, 07:18:42](https://news.ycombinator.com/item?id=36982459) - [Debugging the C++ standard library on macOS](https://www.jviotti.com/2022/05/05/debugging-the-cxx-standard-library-on-macos.html)
 * [2023-08-03, 06:17:29](https://news.ycombinator.com/item?id=36982067) - [On the link between Lyme disease and bioweapons (2019)](https://lithub.com/on-the-link-between-lyme-disease-and-bioweapons/)
 * [2023-08-02, 17:11:36](https://news.ycombinator.com/item?id=36973736) - [If you have first-hand knowledge of the FDA’s torpor, get in touch](https://jakeseliger.com/2023/08/02/if-youre-involved-in-drug-development-and-have-first-hand-knowledge-of-the-fdas-torpor-get-in-touch/)
