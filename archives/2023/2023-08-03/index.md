@@ -51,6 +51,7 @@
 * [2023-08-03, 15:39:37](https://news.ycombinator.com/item?id=36987372) - [GNU Units](https://www.gnu.org/software/units/)
 * [2023-08-03, 15:31:39](https://news.ycombinator.com/item?id=36987273) - [Extras worry they'll be replaced by AI. Hollywood is already doing body scans](https://text.npr.org/1190605685)
 * [2023-08-03, 14:57:54](https://news.ycombinator.com/item?id=36986847) - [Kenyan moderators decry toll of training of AI](https://www.theguardian.com/technology/2023/aug/02/ai-chatbot-training-human-toll-content-moderator-meta-openai)
+* [2023-08-03, 14:54:02](https://news.ycombinator.com/item?id=36986795) - [Do Something, So We Can Change It](https://allenpike.com/2023/do-something-so-we-can-change-it)
 * [2023-08-03, 14:51:27](https://news.ycombinator.com/item?id=36986769) - [Elixir for Cynical Curmudgeons](https://wiki.alopex.li/ElixirForCynicalCurmudgeons)
 * [2023-08-03, 14:35:40](https://news.ycombinator.com/item?id=36986571) - [Google Street View car careens into creek after 100mph cop chase](https://www.theregister.com/2023/08/03/google_maps_driver_arrested/)
 * [2023-08-03, 14:30:35](https://news.ycombinator.com/item?id=36986481) - [How the Recession Doomers Got the U.S. Economy So Wrong](https://www.theatlantic.com/ideas/archive/2023/08/recession-doomers-economy/674900/)

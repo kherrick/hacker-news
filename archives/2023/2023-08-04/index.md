@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-04](index.md)
 
+* [2023-08-04, 17:51:31](https://news.ycombinator.com/item?id=37003393) - [Deutschlandticket: Germany’s €49 ticket pushes passenger numbers up 25%](https://www.euronews.com/green/2023/07/31/deutschlandticket-germanys-49-ticket-pushes-passenger-numbers-up-25-on-local-train-service)
 * [2023-08-04, 17:00:29](https://news.ycombinator.com/item?id=37002674) - [Kodable is hiring a Full Stack Engineer to help teach millions of kids to code](https://www.indeed.com/job/full-stack-engineer-acbcc196f22f170d)
 * [2023-08-04, 16:51:04](https://news.ycombinator.com/item?id=37002535) - [PSF Hires PyPI Safety and Security Engineer](https://pyfound.blogspot.com/2023/08/announcing-our-new-pypi-safety-security.html)
 * [2023-08-04, 16:38:01](https://news.ycombinator.com/item?id=37002357) - [Another Joke Fine Shows US Authorities Do Not Take Illegal Telemarketing Serious](https://commsrisk.com/another-joke-fine-shows-us-authorities-do-not-take-illegal-telemarketing-calls-seriously/)
@@ -17,6 +18,7 @@
 * [2023-08-04, 15:38:04](https://news.ycombinator.com/item?id=37001486) - [Customers report missing deposits from Wells Fargo bank accounts](https://www.cnn.com/2023/08/03/business/wells-fargo-technical-issue-direct-deposits/index.html)
 * [2023-08-04, 15:29:41](https://news.ycombinator.com/item?id=37001369) - [Comcast, Centurylink Fail to Derail Utah Community-Owned Gigabit Fiber Network](https://www.techdirt.com/2023/08/04/comcast-centurylink-fail-to-derail-community-owned-gigabit-fiber-network-in-bountiful-utah/)
 * [2023-08-04, 15:28:04](https://news.ycombinator.com/item?id=37001345) - [Virtualizing Development Environments in 2023](https://hocus.dev/blog/virtualizing-development-environments/)
+* [2023-08-04, 15:20:25](https://news.ycombinator.com/item?id=37001231) - [I Made a Keyboard](https://dotat.at/@/2023-08-04-keybird.html)
 * [2023-08-04, 15:04:04](https://news.ycombinator.com/item?id=37001003) - [How to Build Muscle](https://www.julian.com/guide/muscle/intro)
 * [2023-08-04, 15:02:08](https://news.ycombinator.com/item?id=37000981) - [Remote work requires communicating more, but less frequently](https://ben.balter.com/2023/08/04/remote-work-communicate-more-with-less/)
 * [2023-08-04, 14:58:11](https://news.ycombinator.com/item?id=37000920) - [How to add an AI Code Copilot to your product using GPT4](https://www.windmill.dev/blog/windmill-ai)
