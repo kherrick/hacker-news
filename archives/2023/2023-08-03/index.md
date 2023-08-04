@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-03](index.md)
 
+* [2023-08-03, 22:34:49](https://news.ycombinator.com/item?id=36993001) - [The Industrial Revolution That Almost Was (2022)](https://etiennefd.substack.com/p/the-industrial-revolution-that-almost)
 * [2023-08-03, 22:16:40](https://news.ycombinator.com/item?id=36992802) - [The worlds largest Online Toaster Exhibition](http://toastermuseum.com)
 * [2023-08-03, 22:05:34](https://news.ycombinator.com/item?id=36992678) - [Common Lisp: The Good, the Bad, the Ugly, the Ambivalent](https://wiki.alopex.li/CommonLispThoughts)
 * [2023-08-03, 22:00:37](https://news.ycombinator.com/item?id=36992619) - [Java: New Draft JEP: “Computed Constants”](http://minborgsjavapot.blogspot.com/2023/08/java-new-draft-jep-computed-constants.html)
