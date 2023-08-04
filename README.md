@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-04, 19:24:04](https://news.ycombinator.com/item?id=37004636) - [Heat-assisted detection and ranging (HADAR)](https://www.nature.com/articles/s41586-023-06174-6)
 * [2023-08-04, 18:57:48](https://news.ycombinator.com/item?id=37004282) - [Ten Ways to Teach Kids to Code](https://web.archive.org/web/20220810201855/https://transmission.vehikl.com/ten-ways-to-teach-kids-to-code/)
 * [2023-08-04, 18:37:02](https://news.ycombinator.com/item?id=37003988) - [Melatonin, a sleep aid, is a surprising treatment for food waste](https://www.anthropocenemagazine.org/2023/08/melatonin-a-sleep-aid-is-a-surprising-treatment-for-food-waste/)
 * [2023-08-04, 18:31:11](https://news.ycombinator.com/item?id=37003910) - [Throw away your first draft of your code](https://ntietz.com/blog/throw-away-your-first-draft/)
@@ -22,7 +23,6 @@
 * [2023-08-04, 14:30:44](https://news.ycombinator.com/item?id=37000594) - [ImPlot: Interactive plotting library, ImGui style](https://github.com/epezent/implot)
 * [2023-08-04, 14:28:49](https://news.ycombinator.com/item?id=37000562) - [(next Rich)](https://clojure.org/news/2023/08/04/next-rich)
 * [2023-08-04, 13:58:27](https://news.ycombinator.com/item?id=37000144) - [A Single-Cycle 64-Bit RISC-V Register File](https://danielmangum.com/posts/single-cycle-rv64-register-file/)
-* [2023-08-04, 13:51:29](https://news.ycombinator.com/item?id=37000029) - [Teach a man to phish and he’s set for life](https://krebsonsecurity.com/2023/08/teach-a-man-to-phish-and-hes-set-for-life/)
 * [2023-08-04, 13:44:18](https://news.ycombinator.com/item?id=36999936) - [Bark beetles are eating through Germany’s Harz forest](https://apnews.com/article/climate-germany-bark-beetles-harz-spruce-2211332b8e841ad18fc16267bcbec6dc)
 * [2023-08-04, 13:08:51](https://news.ycombinator.com/item?id=36999463) - [85-Byte Snake Game](https://github.com/donno2048/snake)
 * [2023-08-04, 08:25:36](https://news.ycombinator.com/item?id=36997067) - [Mozilla VPN: CVE-2023-4104: vpndaemon wrongly implements Polkit authentication](https://www.openwall.com/lists/oss-security/2023/08/03/1)
