@@ -25,7 +25,7 @@
 * [2023-08-03, 12:08:48](https://news.ycombinator.com/item?id=36984695) - [Don't be clever](https://stitcher.io/blog/dont-be-clever)
 * [2023-08-03, 11:53:35](https://news.ycombinator.com/item?id=36984530) - [Goto in Bash (2012)](https://bobcopeland.com/blog/2012/10/goto-in-bash/)
 * [2023-08-03, 11:25:35](https://news.ycombinator.com/item?id=36984260) - [Pick-and-Place Machine](https://en.wikipedia.org/wiki/Pick-and-place_machine)
-* [2023-08-03, 10:06:02](https://news.ycombinator.com/item?id=36983704) - [Why ISO was retired (2021)](https://bkhome.org/news/202112/why-iso-was-retired.html)
+* [2023-08-03, 10:27:17](https://news.ycombinator.com/item?id=36983841) - [What does the “pipe” value mean in the output of “ping”?](http://web.archive.org/web/20130302161137/http://www.vincentverhagen.nl/2009/06/13/what-does-the-pipe-value-mean-in-the-output-of-ping/)
 * [2023-08-03, 06:17:29](https://news.ycombinator.com/item?id=36982067) - [On the link between Lyme disease and bioweapons (2019)](https://lithub.com/on-the-link-between-lyme-disease-and-bioweapons/)
 * [2023-08-02, 17:11:36](https://news.ycombinator.com/item?id=36973736) - [If you have first-hand knowledge of the FDA’s torpor, get in touch](https://jakeseliger.com/2023/08/02/if-youre-involved-in-drug-development-and-have-first-hand-knowledge-of-the-fdas-torpor-get-in-touch/)
 * [2023-08-02, 10:22:46](https://news.ycombinator.com/item?id=36969018) - [How NAT traversal works (2020)](https://tailscale.com/blog/how-nat-traversal-works/)
