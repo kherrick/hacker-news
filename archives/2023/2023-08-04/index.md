@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-04](index.md)
 
+* [2023-08-04, 12:51:31](https://news.ycombinator.com/item?id=36999264) - [4 Charts That Show Why AI Progress Is Unlikely to Slow Down](https://time.com/6300942/ai-progress-charts/)
+* [2023-08-04, 12:26:59](https://news.ycombinator.com/item?id=36999016) - [FCC imposes $300M record penalty on robocall scammers](https://docs.fcc.gov/public/attachments/DOC-395728A1.txt)
+* [2023-08-04, 12:19:07](https://news.ycombinator.com/item?id=36998936) - [Ask HN: For advice: I'm a mathematician looking for a plan B outside of academia](https://news.ycombinator.com/item?id=36998936)
 * [2023-08-04, 12:01:15](https://news.ycombinator.com/item?id=36998755) - [MindsDB (YC W20) Is Hiring a Developer Advocate](https://jobs.lever.co/mindsdb/df8af46c-7168-4a11-bc04-52638b694833?lever-origin=applied&lever-source%5B%5D=Hackernews)
 * [2023-08-04, 11:51:49](https://news.ycombinator.com/item?id=36998643) - [The Coming Enshittification of Public Libraries](https://karawynn.substack.com/p/the-coming-enshittification-of-public-libraries)
 * [2023-08-04, 11:16:06](https://news.ycombinator.com/item?id=36998337) - [Painting the Eiffel Tower](https://www.toureiffel.paris/en/the-monument/painting-eiffel-tower)
@@ -18,6 +21,7 @@
 * [2023-08-04, 05:53:09](https://news.ycombinator.com/item?id=36995944) - [PicoLisp Tutorials](https://picolisp-explored.com)
 * [2023-08-04, 05:13:14](https://news.ycombinator.com/item?id=36995735) - [0.11.0 Release Notes](https://ziglang.org/download/0.11.0/release-notes.html)
 * [2023-08-04, 04:24:58](https://news.ycombinator.com/item?id=36995466) - [Earliest glass workshop north of the Alps discovered](https://phys.org/news/2023-07-earliest-glass-workshop-north-alps.html)
+* [2023-08-04, 03:08:31](https://news.ycombinator.com/item?id=36995043) - [Central Park’s Doomed Victorian Dinosaur Museum](https://www.atlasobscura.com/articles/dinosaur-museum-central-park-boss-tweed-nyc)
 * [2023-08-04, 02:58:57](https://news.ycombinator.com/item?id=36994986) - [Statement on AP Psychology and Florida](https://newsroom.collegeboard.org/statement-ap-psychology-and-florida)
 * [2023-08-04, 02:58:33](https://news.ycombinator.com/item?id=36994982) - [Randall Couch's 'Peal' and other literary bells](https://blogs.bl.uk/english-and-drama/2023/05/literary-bells.html)
 * [2023-08-04, 02:21:06](https://news.ycombinator.com/item?id=36994690) - [Why the best hiking boot is a sneaker](https://www.wsj.com/articles/why-the-best-hiking-boot-is-actually-a-sneaker-3c49803d)
