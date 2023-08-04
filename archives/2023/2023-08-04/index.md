@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-04](index.md)
 
+* [2023-08-04, 22:24:46](https://news.ycombinator.com/item?id=37006705) - [Pay no attention to the USB port behind the “no USB” sticker](https://www.theverge.com/2023/8/4/23820710/pay-no-attention-to-the-usb-port-behind-the-no-usb-sticker)
 * [2023-08-04, 21:37:09](https://news.ycombinator.com/item?id=37006224) - [Non-determinism in GPT-4 is caused by Sparse MoE](https://152334H.github.io/blog/non-determinism-in-gpt-4/)
 * [2023-08-04, 21:32:30](https://news.ycombinator.com/item?id=37006174) - [“Absurd”: Google, Amazon rebuked over unsupported Chromebooks still for sale](https://arstechnica.com/gadgets/2023/08/no-discounts-or-warnings-for-people-shopping-eol-chromebooks-on-amazon-walmart/)
 * [2023-08-04, 21:27:15](https://news.ycombinator.com/item?id=37006124) - [Google Invites Employees to Sleep 'On Campus' for a Fee](https://gizmodo.com/google-invites-employees-to-sleep-on-campus-for-a-fee-1850709102)
