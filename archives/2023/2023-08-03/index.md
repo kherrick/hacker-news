@@ -34,6 +34,7 @@
 * [2023-08-03, 18:08:32](https://news.ycombinator.com/item?id=36989503) - [On-disk HNSW index for Postgres with pg_embedding](https://neon.tech/blog/pg_embedding-on-disk-hnsw-index)
 * [2023-08-03, 18:08:08](https://news.ycombinator.com/item?id=36989496) - [Tesla committed fraud by “grossly” exaggerating EV range, class action says](https://arstechnica.com/tech-policy/2023/08/angry-tesla-customers-sue-firm-over-grossly-exaggerated-ev-range/)
 * [2023-08-03, 18:02:56](https://news.ycombinator.com/item?id=36989424) - [The Scottish Enlightenment and the Remaking of Modern History](https://www.cambridge.org/core/journals/historical-journal/article/scottish-enlightenment-and-the-remaking-of-modern-history/ED61FD3E65AAB0DA630A325DF14F6E8B)
+* [2023-08-03, 17:45:20](https://news.ycombinator.com/item?id=36989192) - [This 8-bit computer has two CPUs and one acts as a GPU [video]](https://www.youtube.com/watch?v=4LTMYocpE9M)
 * [2023-08-03, 17:21:13](https://news.ycombinator.com/item?id=36988839) - [Burning Hamburg 1943 – the first culmination of liberal militarism](https://adamtooze.substack.com/p/chartbook-230-burning-hamburg-1943)
 * [2023-08-03, 17:15:36](https://news.ycombinator.com/item?id=36988744) - [Brave Search launches own image and video search](https://brave.com/image-video-search/)
 * [2023-08-03, 17:04:29](https://news.ycombinator.com/item?id=36988564) - [Drop Table “Companies”;– LTD](https://find-and-update.company-information.service.gov.uk/company/10542519)
