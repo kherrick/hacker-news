@@ -33,6 +33,7 @@
 * [2023-08-03, 18:08:34](https://news.ycombinator.com/item?id=36989504) - [I just can't write normal software](https://www.thesoftwarephilosopher.com/articles/2023-08-03-i-just-cant-write-normal-software.html)
 * [2023-08-03, 18:08:32](https://news.ycombinator.com/item?id=36989503) - [On-disk HNSW index for Postgres with pg_embedding](https://neon.tech/blog/pg_embedding-on-disk-hnsw-index)
 * [2023-08-03, 18:08:08](https://news.ycombinator.com/item?id=36989496) - [Tesla committed fraud by “grossly” exaggerating EV range, class action says](https://arstechnica.com/tech-policy/2023/08/angry-tesla-customers-sue-firm-over-grossly-exaggerated-ev-range/)
+* [2023-08-03, 18:02:56](https://news.ycombinator.com/item?id=36989424) - [The Scottish Enlightenment and the Remaking of Modern History](https://www.cambridge.org/core/journals/historical-journal/article/scottish-enlightenment-and-the-remaking-of-modern-history/ED61FD3E65AAB0DA630A325DF14F6E8B)
 * [2023-08-03, 17:15:36](https://news.ycombinator.com/item?id=36988744) - [Brave Search launches own image and video search](https://brave.com/image-video-search/)
 * [2023-08-03, 17:04:29](https://news.ycombinator.com/item?id=36988564) - [Drop Table “Companies”;– LTD](https://find-and-update.company-information.service.gov.uk/company/10542519)
 * [2023-08-03, 17:00:44](https://news.ycombinator.com/item?id=36988511) - [PropelAuth (YC W22) Is Hiring Engineers](https://www.ycombinator.com/companies/propelauth/jobs)
