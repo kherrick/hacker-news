@@ -14,7 +14,6 @@
 * [2023-08-04, 12:58:07](https://news.ycombinator.com/item?id=36999338) - [Winter temperatures above 35C in South America leave climatologists in disbelief](https://www.abc.net.au/news/2023-08-04/south-america-extreme-heat-mid-winter-climate-change-scientists/102678662)
 * [2023-08-04, 12:42:29](https://news.ycombinator.com/item?id=36999169) - [Mitmproxy 10: First Bits of HTTP/3](https://mitmproxy.org/posts/releases/mitmproxy10/)
 * [2023-08-04, 12:26:59](https://news.ycombinator.com/item?id=36999016) - [FCC imposes record penalty against transnational illegal robocalling operation](https://docs.fcc.gov/public/attachments/DOC-395728A1.txt)
-* [2023-08-04, 12:22:04](https://news.ycombinator.com/item?id=36998963) - [LLMs Are Taking over APIs](https://github.com/ShishirPatil/gorilla)
 * [2023-08-04, 12:01:15](https://news.ycombinator.com/item?id=36998755) - [MindsDB (YC W20) Is Hiring a Developer Advocate](https://jobs.lever.co/mindsdb/df8af46c-7168-4a11-bc04-52638b694833?lever-origin=applied&lever-source%5B%5D=Hackernews)
 * [2023-08-04, 11:51:49](https://news.ycombinator.com/item?id=36998643) - [The Coming Enshittification of Public Libraries](https://karawynn.substack.com/p/the-coming-enshittification-of-public-libraries)
 * [2023-08-04, 11:42:21](https://news.ycombinator.com/item?id=36998554) - [Is Saturn a failed gas giant?](https://arxiv.org/abs/2306.14740)
@@ -28,6 +27,7 @@
 * [2023-08-03, 22:16:40](https://news.ycombinator.com/item?id=36992802) - [The worlds largest Online Toaster Exhibition](http://toastermuseum.com)
 * [2023-08-03, 18:02:56](https://news.ycombinator.com/item?id=36989424) - [The Scottish Enlightenment and the Remaking of Modern History](https://www.cambridge.org/core/journals/historical-journal/article/scottish-enlightenment-and-the-remaking-of-modern-history/ED61FD3E65AAB0DA630A325DF14F6E8B)
 * [2023-08-03, 16:25:34](https://news.ycombinator.com/item?id=36988012) - [Overtone – programmable, live music in Clojure](https://overtone.github.io)
+* [2023-08-03, 12:55:14](https://news.ycombinator.com/item?id=36985232) - [Peruvian fossil challenges blue whales for size](https://www.bbc.co.uk/news/science-environment-66384632)
 * [2023-08-03, 10:27:17](https://news.ycombinator.com/item?id=36983841) - [What does the “pipe” value mean in the output of “ping”? (2009)](http://web.archive.org/web/20130302161137/http://www.vincentverhagen.nl/2009/06/13/what-does-the-pipe-value-mean-in-the-output-of-ping/)
 * [2023-08-02, 17:11:36](https://news.ycombinator.com/item?id=36973736) - [If you have first-hand knowledge of the FDA’s torpor, get in touch](https://jakeseliger.com/2023/08/02/if-youre-involved-in-drug-development-and-have-first-hand-knowledge-of-the-fdas-torpor-get-in-touch/)
 
