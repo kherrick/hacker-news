@@ -17,7 +17,6 @@
 * [2023-08-04, 16:02:03](https://news.ycombinator.com/item?id=37001820) - [The Gamification of Reading Is Changing How We Approach Books](https://www.shondaland.com/inspire/books/a44567428/the-gamification-of-reading-is-changing-how-we-approach-books/)
 * [2023-08-04, 15:29:41](https://news.ycombinator.com/item?id=37001369) - [Comcast, CenturyLink fail to derail Utah community-owned gigabit fiber network](https://www.techdirt.com/2023/08/04/comcast-centurylink-fail-to-derail-community-owned-gigabit-fiber-network-in-bountiful-utah/)
 * [2023-08-04, 15:28:04](https://news.ycombinator.com/item?id=37001345) - [Virtualizing Development Environments in 2023](https://hocus.dev/blog/virtualizing-development-environments/)
-* [2023-08-04, 15:02:08](https://news.ycombinator.com/item?id=37000981) - [Remote work requires communicating more, but less frequently](https://ben.balter.com/2023/08/04/remote-work-communicate-more-with-less/)
 * [2023-08-04, 14:58:11](https://news.ycombinator.com/item?id=37000920) - [Add an AI Code Copilot to your product using GPT-4](https://www.windmill.dev/blog/windmill-ai)
 * [2023-08-04, 14:30:44](https://news.ycombinator.com/item?id=37000594) - [ImPlot: Interactive plotting library, ImGui style](https://github.com/epezent/implot)
 * [2023-08-04, 14:28:49](https://news.ycombinator.com/item?id=37000562) - [(next Rich)](https://clojure.org/news/2023/08/04/next-rich)
@@ -29,6 +28,7 @@
 * [2023-08-03, 17:45:20](https://news.ycombinator.com/item?id=36989192) - [This 8-bit computer has two CPUs and one acts as a GPU [video]](https://www.youtube.com/watch?v=4LTMYocpE9M)
 * [2023-08-03, 17:37:15](https://news.ycombinator.com/item?id=36989066) - [Venus flytraps count electrical impulses to induce the digestive process (2016)](https://www.theatlantic.com/science/archive/2016/01/the-venus-fly-trap-counts-the-struggles-of-its-prey/424782/)
 * [2023-08-03, 16:25:34](https://news.ycombinator.com/item?id=36988012) - [Overtone – programmable, live music in Clojure](https://overtone.github.io)
+* [2023-08-03, 15:03:32](https://news.ycombinator.com/item?id=36986900) - [Ryugu samples reveal traces of rock from before the Sun existed](https://arstechnica.com/science/2023/08/ryugu-samples-reveal-traces-of-rock-from-before-the-sun-existed/)
 * [2023-08-03, 14:54:02](https://news.ycombinator.com/item?id=36986795) - [Do something, so we can change it](https://allenpike.com/2023/do-something-so-we-can-change-it)
 
 ## [Archives](archives/index.md)
