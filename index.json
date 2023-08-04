@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-08-04, 17:00:29",
+      "https://news.ycombinator.com/item?id=37002674"
+    ],
+    [
+      "Kodable is hiring a Full Stack Engineer to help teach millions of kids to code",
+      "https://www.indeed.com/job/full-stack-engineer-acbcc196f22f170d"
+    ]
+  ],
+  [
+    [
+      "2023-08-04, 16:51:04",
+      "https://news.ycombinator.com/item?id=37002535"
+    ],
+    [
+      "PSF Hires PyPI Safety and Security Engineer",
+      "https://pyfound.blogspot.com/2023/08/announcing-our-new-pypi-safety-security.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-04, 16:38:01",
+      "https://news.ycombinator.com/item?id=37002357"
+    ],
+    [
+      "Another Joke Fine Shows US Authorities Do Not Take Illegal Telemarketing Serious",
+      "https://commsrisk.com/another-joke-fine-shows-us-authorities-do-not-take-illegal-telemarketing-calls-seriously/"
+    ]
+  ],
+  [
+    [
       "2023-08-04, 16:26:05",
       "https://news.ycombinator.com/item?id=37002187"
     ],
@@ -181,42 +211,12 @@
   ],
   [
     [
-      "2023-08-04, 12:58:07",
-      "https://news.ycombinator.com/item?id=36999338"
-    ],
-    [
-      "Winter temperatures above 35C in South America leave climatologists in disbelief",
-      "https://www.abc.net.au/news/2023-08-04/south-america-extreme-heat-mid-winter-climate-change-scientists/102678662"
-    ]
-  ],
-  [
-    [
       "2023-08-04, 12:42:29",
       "https://news.ycombinator.com/item?id=36999169"
     ],
     [
       "Mitmproxy 10: First Bits of HTTP/3",
       "https://mitmproxy.org/posts/releases/mitmproxy10/"
-    ]
-  ],
-  [
-    [
-      "2023-08-04, 12:26:59",
-      "https://news.ycombinator.com/item?id=36999016"
-    ],
-    [
-      "FCC imposes record penalty against transnational illegal robocalling operation",
-      "https://docs.fcc.gov/public/attachments/DOC-395728A1.txt"
-    ]
-  ],
-  [
-    [
-      "2023-08-04, 12:01:15",
-      "https://news.ycombinator.com/item?id=36998755"
-    ],
-    [
-      "MindsDB (YC W20) Is Hiring a Developer Advocate",
-      "https://jobs.lever.co/mindsdb/df8af46c-7168-4a11-bc04-52638b694833?lever-origin=applied&lever-source%5B%5D=Hackernews"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2023-08-04, 04:24:58",
-      "https://news.ycombinator.com/item?id=36995466"
-    ],
-    [
-      "Earliest glass workshop north of the Alps discovered",
-      "https://phys.org/news/2023-07-earliest-glass-workshop-north-alps.html"
-    ]
-  ],
-  [
-    [
       "2023-08-04, 01:15:32",
       "https://news.ycombinator.com/item?id=36994214"
     ],
@@ -297,6 +287,16 @@
     [
       "Overtone – programmable, live music in Clojure",
       "https://overtone.github.io"
+    ]
+  ],
+  [
+    [
+      "2023-08-03, 00:04:40",
+      "https://news.ycombinator.com/item?id=36979588"
+    ],
+    [
+      "What Goes Around Comes Around [pdf]",
+      "http://people.csail.mit.edu/tdanford/6830papers/stonebraker-what-goes-around.pdf"
     ]
   ]
 ]
