@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-04, 10:11:53](https://news.ycombinator.com/item?id=36997834) - [Ocean Heat Record Broken](https://www.bbc.com/news/science-environment-66387537)
 * [2023-08-04, 10:10:40](https://news.ycombinator.com/item?id=36997821) - [Andrew McCalip demonstrates synthesis of LK99](https://twitter.com/andrewmccalip/status/1687405505604734978)
 * [2023-08-04, 09:42:32](https://news.ycombinator.com/item?id=36997641) - [Jam.gg (Formerly Piepacker) (YC S20) Is Hiring](https://news.ycombinator.com/item?id=36997641)
 * [2023-08-04, 09:16:33](https://news.ycombinator.com/item?id=36997434) - [Beaver Notes: A Privacy-Focused Open-Source Note-Taking App](https://www.beavernotes.com)
@@ -21,7 +22,6 @@
 * [2023-08-03, 18:13:51](https://news.ycombinator.com/item?id=36989569) - [Chrultrabook – Modify a Chromebook to Run Windows/Linux/macOS](https://chrultrabook.github.io/docs/)
 * [2023-08-03, 16:28:01](https://news.ycombinator.com/item?id=36988039) - [Why early modern books are so beautiful](https://resobscura.substack.com/p/why-early-modern-books-are-so-beautiful)
 * [2023-08-03, 15:45:58](https://news.ycombinator.com/item?id=36987454) - [Launch HN: Sweep (YC S23) – A bot to create simple PRs in your codebase](https://github.com/sweepai/sweep)
-* [2023-08-03, 14:13:28](https://news.ycombinator.com/item?id=36986242) - [Movie-Theater Behavior Has Gone Off the Reels](https://www.wsj.com/articles/movie-theater-behavior-has-gone-off-the-reels-8d3ba0b)
 * [2023-08-03, 12:55:14](https://news.ycombinator.com/item?id=36985232) - [Peruvian fossil challenges blue whales for size](https://www.bbc.co.uk/news/science-environment-66384632)
 * [2023-08-03, 10:27:17](https://news.ycombinator.com/item?id=36983841) - [What does the “pipe” value mean in the output of “ping”? (2009)](http://web.archive.org/web/20130302161137/http://www.vincentverhagen.nl/2009/06/13/what-does-the-pipe-value-mean-in-the-output-of-ping/)
 * [2023-08-03, 10:06:02](https://news.ycombinator.com/item?id=36983704) - [Why ISO was retired (2021)](https://bkhome.org/news/202112/why-iso-was-retired.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-04](index.md)
 
+* [2023-08-04, 10:11:53](https://news.ycombinator.com/item?id=36997834) - [Ocean Heat Record Broken](https://www.bbc.com/news/science-environment-66387537)
 * [2023-08-04, 10:10:40](https://news.ycombinator.com/item?id=36997821) - [Andrew McCalip demonstrates synthesis of LK99](https://twitter.com/andrewmccalip/status/1687405505604734978)
 * [2023-08-04, 09:42:32](https://news.ycombinator.com/item?id=36997641) - [Jam.gg (Formerly Piepacker) (YC S20) Is Hiring](https://news.ycombinator.com/item?id=36997641)
 * [2023-08-04, 09:16:33](https://news.ycombinator.com/item?id=36997434) - [Beaver Notes: A Privacy-Focused Open-Source Note-Taking App](https://www.beavernotes.com)
