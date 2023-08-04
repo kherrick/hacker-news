@@ -2,12 +2,12 @@
 
 * [2023-08-04, 10:10:40](https://news.ycombinator.com/item?id=36997821) - [Andrew McCalip demonstrates synthesis of LK99](https://twitter.com/andrewmccalip/status/1687405505604734978)
 * [2023-08-04, 09:42:32](https://news.ycombinator.com/item?id=36997641) - [Jam.gg (Formerly Piepacker) (YC S20) Is Hiring](https://news.ycombinator.com/item?id=36997641)
+* [2023-08-04, 09:16:33](https://news.ycombinator.com/item?id=36997434) - [Beaver Notes: A Privacy-Focused Open-Source Note-Taking App](https://www.beavernotes.com)
 * [2023-08-04, 08:25:36](https://news.ycombinator.com/item?id=36997067) - [Mozilla VPN: CVE-2023-4104: vpndaemon wrongly implements Polkit authentication](https://www.openwall.com/lists/oss-security/2023/08/03/1)
 * [2023-08-04, 06:44:56](https://news.ycombinator.com/item?id=36996287) - [Redesigning Chrome Downloads](https://blog.chromium.org/2023/08/redesigning-chrome-downloads-to-keep.html)
 * [2023-08-04, 05:53:09](https://news.ycombinator.com/item?id=36995944) - [PicoLisp Tutorials](https://picolisp-explored.com)
 * [2023-08-04, 02:58:33](https://news.ycombinator.com/item?id=36994982) - [Randall Couch's 'Peal' and other literary bells](https://blogs.bl.uk/english-and-drama/2023/05/literary-bells.html)
 * [2023-08-04, 01:15:32](https://news.ycombinator.com/item?id=36994214) - [Successful room temperature ambient-pressure magnetic levitation of LK-99](https://arxiv.org/abs/2308.01516)
-* [2023-08-04, 01:00:19](https://news.ycombinator.com/item?id=36994122) - [Some remarks on possible superconductivity of composition Pb9CuP6O25](https://arxiv.org/abs/2308.01723)
 * [2023-08-04, 00:42:46](https://news.ycombinator.com/item?id=36994023) - [Storing dead people at -196°C [video]](https://www.youtube.com/watch?v=85BykUan6pw)
 * [2023-08-04, 00:36:54](https://news.ycombinator.com/item?id=36993968) - [Linux surpasses the Mac among Steam gamers](https://arstechnica.com/gadgets/2023/08/linux-surpasses-the-mac-among-steam-gamers/)
 * [2023-08-03, 22:16:40](https://news.ycombinator.com/item?id=36992802) - [The worlds largest Online Toaster Exhibition](http://toastermuseum.com)

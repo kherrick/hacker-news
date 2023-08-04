@@ -6,6 +6,7 @@
 
 * [2023-08-04, 10:10:40](https://news.ycombinator.com/item?id=36997821) - [Andrew McCalip demonstrates synthesis of LK99](https://twitter.com/andrewmccalip/status/1687405505604734978)
 * [2023-08-04, 09:42:32](https://news.ycombinator.com/item?id=36997641) - [Jam.gg (Formerly Piepacker) (YC S20) Is Hiring](https://news.ycombinator.com/item?id=36997641)
+* [2023-08-04, 09:16:33](https://news.ycombinator.com/item?id=36997434) - [Beaver Notes: A Privacy-Focused Open-Source Note-Taking App](https://www.beavernotes.com)
 * [2023-08-04, 08:25:36](https://news.ycombinator.com/item?id=36997067) - [Mozilla VPN: CVE-2023-4104: vpndaemon wrongly implements Polkit authentication](https://www.openwall.com/lists/oss-security/2023/08/03/1)
 * [2023-08-04, 06:44:56](https://news.ycombinator.com/item?id=36996287) - [Redesigning Chrome Downloads](https://blog.chromium.org/2023/08/redesigning-chrome-downloads-to-keep.html)
 * [2023-08-04, 06:15:48](https://news.ycombinator.com/item?id=36996084) - [New web framework for Python in development](https://github.com/AliRn76/panther)
