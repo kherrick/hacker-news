@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-04, 16:26:05](https://news.ycombinator.com/item?id=37002187) - [Exploiting a Flaw in Bitmap Handling in Windows User-Mode Printer Drivers](https://www.thezdi.com/blog/2023/8/1/exploiting-a-flaw-in-bitmap-handling-in-windows-user-mode-printer-drivers)
+* [2023-08-04, 16:15:23](https://news.ycombinator.com/item?id=37002020) - [Mirantis Unveils K0smotron: An Open-Source Kubernetes Management Project](https://opensourcewatch.beehiiv.com/p/mirantis-unveils-k0smotron-opensource-streamlined-kubernetes-management-project)
 * [2023-08-04, 16:03:47](https://news.ycombinator.com/item?id=37001853) - [GNUStep Now Has Badges](http://multixden.blogspot.com/2023/08/gnustep-now-has-badges.html)
 * [2023-08-04, 15:45:09](https://news.ycombinator.com/item?id=37001589) - [MDFourier – open-source Software To Compare Audio Signatures (2021)](https://junkerhq.net/MDFourier/)
 * [2023-08-04, 15:44:49](https://news.ycombinator.com/item?id=37001587) - [Curved Coordinate Systems and Fictitious Forces](https://www.mathpages.com/home/kmath641/kmath641.htm)
@@ -24,10 +26,8 @@
 * [2023-08-04, 11:16:06](https://news.ycombinator.com/item?id=36998337) - [Painting the Eiffel Tower](https://www.toureiffel.paris/en/the-monument/painting-eiffel-tower)
 * [2023-08-04, 10:10:40](https://news.ycombinator.com/item?id=36997821) - [Andrew McCalip demonstrates synthesis of LK99](https://twitter.com/andrewmccalip/status/1687405505604734978)
 * [2023-08-04, 08:25:36](https://news.ycombinator.com/item?id=36997067) - [Mozilla VPN: CVE-2023-4104: vpndaemon wrongly implements Polkit authentication](https://www.openwall.com/lists/oss-security/2023/08/03/1)
-* [2023-08-04, 05:53:09](https://news.ycombinator.com/item?id=36995944) - [PicoLisp Tutorials](https://picolisp-explored.com)
 * [2023-08-04, 04:24:58](https://news.ycombinator.com/item?id=36995466) - [Earliest glass workshop north of the Alps discovered](https://phys.org/news/2023-07-earliest-glass-workshop-north-alps.html)
 * [2023-08-04, 01:15:32](https://news.ycombinator.com/item?id=36994214) - [Successful room temperature ambient-pressure magnetic levitation of LK-99](https://arxiv.org/abs/2308.01516)
-* [2023-08-03, 22:16:40](https://news.ycombinator.com/item?id=36992802) - [The worlds largest Online Toaster Exhibition](http://toastermuseum.com)
 * [2023-08-03, 17:21:13](https://news.ycombinator.com/item?id=36988839) - [Burning Hamburg 1943 – the first culmination of liberal militarism](https://adamtooze.substack.com/p/chartbook-230-burning-hamburg-1943)
 * [2023-08-03, 16:25:34](https://news.ycombinator.com/item?id=36988012) - [Overtone – programmable, live music in Clojure](https://overtone.github.io)
 
