@@ -12,6 +12,7 @@
 * [2023-08-04, 20:44:54](https://news.ycombinator.com/item?id=37005629) - [Major government tech contractors use vendor-lock to drive revenue: study](https://fedscoop.com/major-government-tech-contractors-use-monopolistic-vendor-lock-to-drive-revenue-study/)
 * [2023-08-04, 19:48:49](https://news.ycombinator.com/item?id=37004949) - [Beech leaf disease is ravaging North American trees](https://www.science.org/content/article/beech-leaf-disease-ravaging-north-american-trees)
 * [2023-08-04, 19:43:16](https://news.ycombinator.com/item?id=37004885) - [Cloud Provider Gets $2.3B Loan Using Nvidia's H100 as Collateral](https://www.anandtech.com/show/19995/cloud-provider-gets-23-billion-debt-using-nvidias-h100-as-collateral)
+* [2023-08-04, 19:29:41](https://news.ycombinator.com/item?id=37004720) - [American English Dialects](https://aschmann.net/AmEng/)
 * [2023-08-04, 19:29:07](https://news.ycombinator.com/item?id=37004708) - [Show HN: Gdańsk AI – full stack AI voice chatbot (STT, LLM, TTS, auth, payments)](https://github.com/jmaczan/gdansk-ai)
 * [2023-08-04, 19:24:04](https://news.ycombinator.com/item?id=37004636) - [Heat-assisted detection and ranging (HADAR)](https://www.nature.com/articles/s41586-023-06174-6)
 * [2023-08-04, 19:22:19](https://news.ycombinator.com/item?id=37004617) - [Terraform best practices for reliability at any scale](https://substrate.tools/blog/terraform-best-practices-for-reliability-at-any-scale)
