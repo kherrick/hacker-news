@@ -81,6 +81,7 @@
 * [2023-08-03, 08:12:15](https://news.ycombinator.com/item?id=36982813) - [Derek Lowe on AOH1996: A New Mode of Cancer Treatment](https://www.science.org/content/blog-post/new-mode-cancer-treatment)
 * [2023-08-03, 07:27:18](https://news.ycombinator.com/item?id=36982507) - [A list of recent hostile moves by Google's Chrome team](https://mastodon.social/@nekohayo/110775656176571435)
 * [2023-08-03, 07:18:42](https://news.ycombinator.com/item?id=36982459) - [Debugging the C++ standard library on macOS](https://www.jviotti.com/2022/05/05/debugging-the-cxx-standard-library-on-macos.html)
+* [2023-08-03, 06:48:26](https://news.ycombinator.com/item?id=36982245) - [Unicorn – A full-stack web framework for Django](https://www.django-unicorn.com/)
 * [2023-08-03, 06:17:29](https://news.ycombinator.com/item?id=36982067) - [On the Link Between Lyme Disease and Bioweapons (2019)](https://lithub.com/on-the-link-between-lyme-disease-and-bioweapons/)
 * [2023-08-03, 05:58:52](https://news.ycombinator.com/item?id=36981953) - [Google’s Plan to DRM the Web Goes Against Everything Google Once Stood For](https://www.techdirt.com/2023/08/02/googles-plan-to-drm-the-web-goes-against-everything-google-once-stood-for/)
 * [2023-08-03, 05:43:13](https://news.ycombinator.com/item?id=36981860) - [Tell HN: ai.com used to redirect to chat.openai.com, now it redirects to x.ai](https://news.ycombinator.com/item?id=36981860)
