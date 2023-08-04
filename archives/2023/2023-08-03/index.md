@@ -65,6 +65,7 @@
 * [2023-08-03, 11:42:35](https://news.ycombinator.com/item?id=36984416) - [Pgvector: Fewer Dimensions Are Better](https://supabase.com/blog/fewer-dimensions-are-better-pgvector)
 * [2023-08-03, 11:31:10](https://news.ycombinator.com/item?id=36984302) - [Malicious Android Apps Slip into Disguise](https://krebsonsecurity.com/2023/08/how-malicious-android-apps-slip-into-disguise/)
 * [2023-08-03, 11:28:31](https://news.ycombinator.com/item?id=36984282) - [Man Spends Entire Career Mastering Crappy Codebase](https://taylor.town/entire-career)
+* [2023-08-03, 11:25:35](https://news.ycombinator.com/item?id=36984260) - [Pick-and-Place Machine](https://en.wikipedia.org/wiki/Pick-and-place_machine)
 * [2023-08-03, 11:14:12](https://news.ycombinator.com/item?id=36984171) - [Network Protocols for Anyone Who Knows a Programming Language](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
 * [2023-08-03, 11:02:13](https://news.ycombinator.com/item?id=36984073) - [Cmd-stream-go – a high-performance remote command execution library for Golang](https://github.com/cmd-stream/cmd-stream-go)
 * [2023-08-03, 11:01:34](https://news.ycombinator.com/item?id=36984071) - [Briefcase: Convert a Python project into a standalone native application](https://briefcase.readthedocs.io/en/stable/)
