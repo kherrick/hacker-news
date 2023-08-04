@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-04](index.md)
 
+* [2023-08-04, 21:32:30](https://news.ycombinator.com/item?id=37006174) - [“Absurd”: Google, Amazon rebuked over unsupported Chromebooks still for sale](https://arstechnica.com/gadgets/2023/08/no-discounts-or-warnings-for-people-shopping-eol-chromebooks-on-amazon-walmart/)
+* [2023-08-04, 21:27:15](https://news.ycombinator.com/item?id=37006124) - [Google Invites Employees to Sleep 'On Campus' for a Fee](https://gizmodo.com/google-invites-employees-to-sleep-on-campus-for-a-fee-1850709102)
+* [2023-08-04, 21:11:03](https://news.ycombinator.com/item?id=37005937) - [IBM, Red Hat and Free Software: An old maddog’s view](https://www.lpi.org/blog/2023/07/30/ibm-red-hat-and-free-software-an-old-maddogs-view/)
 * [2023-08-04, 20:44:54](https://news.ycombinator.com/item?id=37005629) - [Major government tech contractors use vendor-lock to drive revenue: study](https://fedscoop.com/major-government-tech-contractors-use-monopolistic-vendor-lock-to-drive-revenue-study/)
 * [2023-08-04, 19:48:49](https://news.ycombinator.com/item?id=37004949) - [Beech leaf disease is ravaging North American trees](https://www.science.org/content/article/beech-leaf-disease-ravaging-north-american-trees)
 * [2023-08-04, 19:43:16](https://news.ycombinator.com/item?id=37004885) - [Cloud Provider Gets $2.3B Loan Using Nvidia's H100 as Collateral](https://www.anandtech.com/show/19995/cloud-provider-gets-23-billion-debt-using-nvidias-h100-as-collateral)
