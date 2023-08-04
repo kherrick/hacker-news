@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-04](index.md)
 
+* [2023-08-04, 14:41:53](https://news.ycombinator.com/item?id=37000733) - [Rich Hickey is retiring from Nubank](https://building.nubank.com.br/clojures-journey-at-nubank-a-look-into-the-future/)
+* [2023-08-04, 14:30:44](https://news.ycombinator.com/item?id=37000594) - [ImPlot: Interactive plotting library, ImGui style](https://github.com/epezent/implot)
 * [2023-08-04, 13:58:27](https://news.ycombinator.com/item?id=37000144) - [A Single-Cycle 64-Bit RISC-V Register File](https://danielmangum.com/posts/single-cycle-rv64-register-file/)
+* [2023-08-04, 13:55:38](https://news.ycombinator.com/item?id=37000096) - [Ask HN: What is the easiest way to get a PhD?](https://news.ycombinator.com/item?id=37000096)
 * [2023-08-04, 13:51:29](https://news.ycombinator.com/item?id=37000029) - [Teach a man to phish and he’s set for life](https://krebsonsecurity.com/2023/08/teach-a-man-to-phish-and-hes-set-for-life/)
 * [2023-08-04, 13:44:18](https://news.ycombinator.com/item?id=36999936) - [Bark beetles are eating through Germany’s Harz forest](https://apnews.com/article/climate-germany-bark-beetles-harz-spruce-2211332b8e841ad18fc16267bcbec6dc)
 * [2023-08-04, 13:24:56](https://news.ycombinator.com/item?id=36999697) - [‘I’m not wanted’: Florida universities hit by brain drain as academics flee](https://www.theguardian.com/us-news/2023/jul/30/florida-universities-colleges-faculty-leaving-desantis)
