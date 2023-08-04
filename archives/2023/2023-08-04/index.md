@@ -13,6 +13,7 @@
 * [2023-08-04, 06:15:48](https://news.ycombinator.com/item?id=36996084) - [New web framework for Python in development](https://github.com/AliRn76/panther)
 * [2023-08-04, 05:53:09](https://news.ycombinator.com/item?id=36995944) - [PicoLisp Tutorials](https://picolisp-explored.com)
 * [2023-08-04, 05:13:14](https://news.ycombinator.com/item?id=36995735) - [0.11.0 Release Notes](https://ziglang.org/download/0.11.0/release-notes.html)
+* [2023-08-04, 04:24:58](https://news.ycombinator.com/item?id=36995466) - [Earliest glass workshop north of the Alps discovered](https://phys.org/news/2023-07-earliest-glass-workshop-north-alps.html)
 * [2023-08-04, 02:58:57](https://news.ycombinator.com/item?id=36994986) - [Statement on AP Psychology and Florida](https://newsroom.collegeboard.org/statement-ap-psychology-and-florida)
 * [2023-08-04, 02:58:33](https://news.ycombinator.com/item?id=36994982) - [Randall Couch's 'Peal' and other literary bells](https://blogs.bl.uk/english-and-drama/2023/05/literary-bells.html)
 * [2023-08-04, 02:21:06](https://news.ycombinator.com/item?id=36994690) - [Why the best hiking boot is a sneaker](https://www.wsj.com/articles/why-the-best-hiking-boot-is-actually-a-sneaker-3c49803d)
