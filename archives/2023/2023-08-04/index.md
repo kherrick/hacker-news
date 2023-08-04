@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-04](index.md)
 
+* [2023-08-04, 17:59:00](https://news.ycombinator.com/item?id=37003489) - [RedHat found a way to get around GPLv2 intention with contract law](https://opencoreventures.com/blog/2023-08-redhat-gets-around-gplv2-license-intention-with-contract-law/)
 * [2023-08-04, 17:51:31](https://news.ycombinator.com/item?id=37003393) - [Deutschlandticket: Germany’s €49 ticket pushes passenger numbers up 25%](https://www.euronews.com/green/2023/07/31/deutschlandticket-germanys-49-ticket-pushes-passenger-numbers-up-25-on-local-train-service)
+* [2023-08-04, 17:36:02](https://news.ycombinator.com/item?id=37003195) - [The unix69 keyboard layout: nerdy and nice](https://dotat.at/@/2023-08-04-unix69.html)
 * [2023-08-04, 17:00:29](https://news.ycombinator.com/item?id=37002674) - [Kodable is hiring a Full Stack Engineer to help teach millions of kids to code](https://www.indeed.com/job/full-stack-engineer-acbcc196f22f170d)
 * [2023-08-04, 16:51:04](https://news.ycombinator.com/item?id=37002535) - [PSF Hires PyPI Safety and Security Engineer](https://pyfound.blogspot.com/2023/08/announcing-our-new-pypi-safety-security.html)
 * [2023-08-04, 16:38:01](https://news.ycombinator.com/item?id=37002357) - [Another Joke Fine Shows US Authorities Do Not Take Illegal Telemarketing Serious](https://commsrisk.com/another-joke-fine-shows-us-authorities-do-not-take-illegal-telemarketing-calls-seriously/)
