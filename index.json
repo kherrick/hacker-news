@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-08-04, 14:41:53",
+      "https://news.ycombinator.com/item?id=37000733"
+    ],
+    [
+      "Rich Hickey is retiring from Nubank",
+      "https://building.nubank.com.br/clojures-journey-at-nubank-a-look-into-the-future/"
+    ]
+  ],
+  [
+    [
+      "2023-08-04, 14:30:44",
+      "https://news.ycombinator.com/item?id=37000594"
+    ],
+    [
+      "ImPlot: Interactive plotting library, ImGui style",
+      "https://github.com/epezent/implot"
+    ]
+  ],
+  [
+    [
       "2023-08-04, 13:58:27",
       "https://news.ycombinator.com/item?id=37000144"
     ],
     [
       "A Single-Cycle 64-Bit RISC-V Register File",
       "https://danielmangum.com/posts/single-cycle-rv64-register-file/"
+    ]
+  ],
+  [
+    [
+      "2023-08-04, 13:55:38",
+      "https://news.ycombinator.com/item?id=37000096"
+    ],
+    [
+      "Ask HN: What is the easiest way to get a PhD?",
+      "https://news.ycombinator.com/item?id=37000096"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2023-08-04, 06:15:48",
-      "https://news.ycombinator.com/item?id=36996084"
-    ],
-    [
-      "New web framework for Python in development",
-      "https://github.com/AliRn76/panther"
-    ]
-  ],
-  [
-    [
       "2023-08-04, 05:53:09",
       "https://news.ycombinator.com/item?id=36995944"
     ],
@@ -207,26 +227,6 @@
     [
       "The worlds largest Online Toaster Exhibition",
       "http://toastermuseum.com"
-    ]
-  ],
-  [
-    [
-      "2023-08-03, 21:38:56",
-      "https://news.ycombinator.com/item?id=36992335"
-    ],
-    [
-      "Nuked-MD-FPGA – Emulating Sega Mega Drive chipset using decapped chips photos",
-      "https://github.com/nukeykt/Nuked-MD-FPGA"
-    ]
-  ],
-  [
-    [
-      "2023-08-03, 20:24:50",
-      "https://news.ycombinator.com/item?id=36991293"
-    ],
-    [
-      "Color-Diffusion: using diffusion models to colorize black and white images",
-      "https://github.com/ErwannMillon/Color-diffusion"
     ]
   ],
   [
