@@ -19,6 +19,7 @@
 * [2023-08-03, 18:42:02](https://news.ycombinator.com/item?id=36989936) - [WTF Happened in 2023?](https://www.notboring.co/p/wtf-happened-in-2023)
 * [2023-08-03, 18:35:53](https://news.ycombinator.com/item?id=36989858) - [The Holocaust Bomb: A Question of Time [2007]](https://sgp.fas.org/eprint/morland.html)
 * [2023-08-03, 18:35:11](https://news.ycombinator.com/item?id=36989845) - [FCC fines robocaller a record $300M after blocking billions of their scam calls](https://techcrunch.com/2023/08/03/fcc-fines-robocaller-a-record-300m-after-blocking-billions-of-their-scam-calls/)
+* [2023-08-03, 18:31:50](https://news.ycombinator.com/item?id=36989798) - [AWS to begin charging for public IPv4 addresses](https://aws.amazon.com/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/)
 * [2023-08-03, 18:31:50](https://news.ycombinator.com/item?id=36989798) - [AWS to Begin Charging for Public IPv4 Addresses](https://www.infoq.com/news/2023/08/aws-ec2-public-ipv4/)
 * [2023-08-03, 18:30:00](https://news.ycombinator.com/item?id=36989769) - [Brave cuts ties with Bing to offer its own image and video search results](https://www.theregister.com/2023/08/03/brave_cuts_ties_with_bing/)
 * [2023-08-03, 18:28:51](https://news.ycombinator.com/item?id=36989753) - [Experimental Alzheimer's Vaccine Shows Promise in Mice](https://gizmodo.com/japan-experimental-alzheimers-vaccine-is-promising-1850700985)
