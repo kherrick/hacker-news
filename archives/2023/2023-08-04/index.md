@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-04](index.md)
 
+* [2023-08-04, 08:25:36](https://news.ycombinator.com/item?id=36997067) - [Mozilla VPN: CVE-2023-4104: vpndaemon wrongly implements Polkit authentication](https://www.openwall.com/lists/oss-security/2023/08/03/1)
 * [2023-08-04, 06:44:56](https://news.ycombinator.com/item?id=36996287) - [Redesigning Chrome Downloads](https://blog.chromium.org/2023/08/redesigning-chrome-downloads-to-keep.html)
 * [2023-08-04, 06:15:48](https://news.ycombinator.com/item?id=36996084) - [New web framework for Python in development](https://github.com/AliRn76/panther)
 * [2023-08-04, 05:53:09](https://news.ycombinator.com/item?id=36995944) - [PicoLisp Tutorials](https://picolisp-explored.com)
