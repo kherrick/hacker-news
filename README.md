@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-04, 15:29:41](https://news.ycombinator.com/item?id=37001369) - [Comcast, Centurylink Fail to Derail Utah Community-Owned Gigabit Fiber Network](https://www.techdirt.com/2023/08/04/comcast-centurylink-fail-to-derail-community-owned-gigabit-fiber-network-in-bountiful-utah/)
 * [2023-08-04, 15:04:04](https://news.ycombinator.com/item?id=37001003) - [How to Build Muscle](https://www.julian.com/guide/muscle/intro)
 * [2023-08-04, 15:02:08](https://news.ycombinator.com/item?id=37000981) - [Remote work requires communicating more, but less frequently](https://ben.balter.com/2023/08/04/remote-work-communicate-more-with-less/)
 * [2023-08-04, 14:58:11](https://news.ycombinator.com/item?id=37000920) - [How to add an AI Code Copilot to your product using GPT4](https://www.windmill.dev/blog/windmill-ai)
@@ -19,7 +20,6 @@
 * [2023-08-04, 11:51:49](https://news.ycombinator.com/item?id=36998643) - [The Coming Enshittification of Public Libraries](https://karawynn.substack.com/p/the-coming-enshittification-of-public-libraries)
 * [2023-08-04, 11:42:21](https://news.ycombinator.com/item?id=36998554) - [Is Saturn a failed gas giant?](https://arxiv.org/abs/2306.14740)
 * [2023-08-04, 11:16:06](https://news.ycombinator.com/item?id=36998337) - [Painting the Eiffel Tower](https://www.toureiffel.paris/en/the-monument/painting-eiffel-tower)
-* [2023-08-04, 10:11:53](https://news.ycombinator.com/item?id=36997834) - [Ocean Heat Record Broken](https://www.bbc.com/news/science-environment-66387537)
 * [2023-08-04, 10:10:40](https://news.ycombinator.com/item?id=36997821) - [Andrew McCalip demonstrates synthesis of LK99](https://twitter.com/andrewmccalip/status/1687405505604734978)
 * [2023-08-04, 08:25:36](https://news.ycombinator.com/item?id=36997067) - [Mozilla VPN: CVE-2023-4104: vpndaemon wrongly implements Polkit authentication](https://www.openwall.com/lists/oss-security/2023/08/03/1)
 * [2023-08-04, 05:53:09](https://news.ycombinator.com/item?id=36995944) - [PicoLisp Tutorials](https://picolisp-explored.com)
