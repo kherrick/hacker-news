@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-04, 18:31:11",
+      "https://news.ycombinator.com/item?id=37003910"
+    ],
+    [
+      "Throw away your first draft of your code",
+      "https://ntietz.com/blog/throw-away-your-first-draft/"
+    ]
+  ],
+  [
+    [
+      "2023-08-04, 18:27:18",
+      "https://news.ycombinator.com/item?id=37003854"
+    ],
+    [
+      "Representing Heterogeneous Data",
+      "http://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/"
+    ]
+  ],
+  [
+    [
       "2023-08-04, 18:10:29",
       "https://news.ycombinator.com/item?id=37003617"
     ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2023-08-04, 16:38:01",
-      "https://news.ycombinator.com/item?id=37002357"
-    ],
-    [
-      "Another Joke Fine Shows US Authorities Do Not Take Illegal Telemarketing Serious",
-      "https://commsrisk.com/another-joke-fine-shows-us-authorities-do-not-take-illegal-telemarketing-calls-seriously/"
-    ]
-  ],
-  [
-    [
       "2023-08-04, 16:26:05",
       "https://news.ycombinator.com/item?id=37002187"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2023-08-04, 15:45:09",
-      "https://news.ycombinator.com/item?id=37001589"
-    ],
-    [
-      "MDFourier – open-source Software To Compare Audio Signatures (2021)",
-      "https://junkerhq.net/MDFourier/"
-    ]
-  ],
-  [
-    [
       "2023-08-04, 15:29:41",
       "https://news.ycombinator.com/item?id=37001369"
     ],
@@ -157,6 +157,16 @@
     [
       "Virtualizing Development Environments in 2023",
       "https://hocus.dev/blog/virtualizing-development-environments/"
+    ]
+  ],
+  [
+    [
+      "2023-08-04, 15:20:25",
+      "https://news.ycombinator.com/item?id=37001231"
+    ],
+    [
+      "I Made a Keyboard",
+      "https://dotat.at/@/2023-08-04-keybird.html"
     ]
   ],
   [
@@ -205,7 +215,7 @@
       "https://news.ycombinator.com/item?id=37000562"
     ],
     [
-      "(Next Rich)",
+      "(next Rich)",
       "https://clojure.org/news/2023/08/04/next-rich"
     ]
   ],
@@ -247,16 +257,6 @@
     [
       "85-Byte Snake Game",
       "https://github.com/donno2048/snake"
-    ]
-  ],
-  [
-    [
-      "2023-08-04, 12:42:29",
-      "https://news.ycombinator.com/item?id=36999169"
-    ],
-    [
-      "Mitmproxy 10: First Bits of HTTP/3",
-      "https://mitmproxy.org/posts/releases/mitmproxy10/"
     ]
   ],
   [
