@@ -25,9 +25,9 @@
 * [2023-08-03, 12:08:48](https://news.ycombinator.com/item?id=36984695) - [Don't be clever](https://stitcher.io/blog/dont-be-clever)
 * [2023-08-03, 11:53:35](https://news.ycombinator.com/item?id=36984530) - [Goto in Bash (2012)](https://bobcopeland.com/blog/2012/10/goto-in-bash/)
 * [2023-08-03, 10:06:02](https://news.ycombinator.com/item?id=36983704) - [Why ISO was retired (2021)](https://bkhome.org/news/202112/why-iso-was-retired.html)
+* [2023-08-03, 08:33:12](https://news.ycombinator.com/item?id=36982996) - [Who was the Bell Witch?](https://www.atlasobscura.com/articles/who-was-the-bell-witch)
 * [2023-08-03, 07:18:42](https://news.ycombinator.com/item?id=36982459) - [Debugging the C++ standard library on macOS](https://www.jviotti.com/2022/05/05/debugging-the-cxx-standard-library-on-macos.html)
 * [2023-08-03, 06:17:29](https://news.ycombinator.com/item?id=36982067) - [On the link between Lyme disease and bioweapons (2019)](https://lithub.com/on-the-link-between-lyme-disease-and-bioweapons/)
-* [2023-08-02, 23:38:51](https://news.ycombinator.com/item?id=36979408) - [Legends of Lizzie (1933)](https://www.newyorker.com/magazine/1933/04/22/legends-of-lizzie)
 * [2023-08-02, 10:22:46](https://news.ycombinator.com/item?id=36969018) - [How NAT traversal works (2020)](https://tailscale.com/blog/how-nat-traversal-works/)
 * [2023-08-02, 10:04:37](https://news.ycombinator.com/item?id=36968925) - [A collection of quant riddles with answers](https://puzzles.nigelcoldwell.co.uk/)
 
