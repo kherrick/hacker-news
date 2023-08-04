@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-08-04, 15:02:08",
+      "https://news.ycombinator.com/item?id=37000981"
+    ],
+    [
+      "Remote work requires communicating more, but less frequently",
+      "https://ben.balter.com/2023/08/04/remote-work-communicate-more-with-less/"
+    ]
+  ],
+  [
+    [
+      "2023-08-04, 14:58:11",
+      "https://news.ycombinator.com/item?id=37000920"
+    ],
+    [
+      "How to add an AI Code Copilot to your product using GPT4",
+      "https://www.windmill.dev/blog/windmill-ai"
+    ]
+  ],
+  [
+    [
+      "2023-08-04, 14:46:36",
+      "https://news.ycombinator.com/item?id=37000788"
+    ],
+    [
+      "Death Squared: The explosive growth and demise of a mouse population (1973) [pdf]",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1644264/pdf/procrsmed00338-0007.pdf"
+    ]
+  ],
+  [
+    [
       "2023-08-04, 14:41:53",
       "https://news.ycombinator.com/item?id=37000733"
     ],
@@ -31,22 +61,22 @@
   ],
   [
     [
+      "2023-08-04, 14:05:37",
+      "https://news.ycombinator.com/item?id=37000250"
+    ],
+    [
+      "Austrian leader proposes enshrining the use of cash in country's constitution",
+      "https://apnews.com/article/austria-cash-constitution-proposal-e63078b1682b375a84d0132857374e43"
+    ]
+  ],
+  [
+    [
       "2023-08-04, 13:58:27",
       "https://news.ycombinator.com/item?id=37000144"
     ],
     [
       "A Single-Cycle 64-Bit RISC-V Register File",
       "https://danielmangum.com/posts/single-cycle-rv64-register-file/"
-    ]
-  ],
-  [
-    [
-      "2023-08-04, 13:55:38",
-      "https://news.ycombinator.com/item?id=37000096"
-    ],
-    [
-      "Ask HN: What is the easiest way to get a PhD?",
-      "https://news.ycombinator.com/item?id=37000096"
     ]
   ],
   [
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2023-08-04, 13:01:44",
-      "https://news.ycombinator.com/item?id=36999372"
-    ],
-    [
-      "People lining up in Argentina to have their iris scanned for Worldcoin",
-      "https://twitter.com/DamianCatanzaro/status/1687243235486273536"
-    ]
-  ],
-  [
-    [
       "2023-08-04, 12:58:07",
       "https://news.ycombinator.com/item?id=36999338"
     ],
@@ -101,12 +121,32 @@
   ],
   [
     [
+      "2023-08-04, 12:42:29",
+      "https://news.ycombinator.com/item?id=36999169"
+    ],
+    [
+      "Mitmproxy 10: First Bits of HTTP/3",
+      "https://mitmproxy.org/posts/releases/mitmproxy10/"
+    ]
+  ],
+  [
+    [
       "2023-08-04, 12:26:59",
       "https://news.ycombinator.com/item?id=36999016"
     ],
     [
       "FCC imposes record penalty against transnational illegal robocalling operation",
       "https://docs.fcc.gov/public/attachments/DOC-395728A1.txt"
+    ]
+  ],
+  [
+    [
+      "2023-08-04, 12:22:04",
+      "https://news.ycombinator.com/item?id=36998963"
+    ],
+    [
+      "LLMs Are Taking over APIs",
+      "https://github.com/ShishirPatil/gorilla"
     ]
   ],
   [
@@ -201,32 +241,12 @@
   ],
   [
     [
-      "2023-08-04, 03:08:31",
-      "https://news.ycombinator.com/item?id=36995043"
-    ],
-    [
-      "Central Park’s Doomed Victorian Dinosaur Museum",
-      "https://www.atlasobscura.com/articles/dinosaur-museum-central-park-boss-tweed-nyc"
-    ]
-  ],
-  [
-    [
       "2023-08-04, 01:15:32",
       "https://news.ycombinator.com/item?id=36994214"
     ],
     [
       "Successful room temperature ambient-pressure magnetic levitation of LK-99",
       "https://arxiv.org/abs/2308.01516"
-    ]
-  ],
-  [
-    [
-      "2023-08-04, 00:36:54",
-      "https://news.ycombinator.com/item?id=36993968"
-    ],
-    [
-      "Linux surpasses the Mac among Steam gamers",
-      "https://arstechnica.com/gadgets/2023/08/linux-surpasses-the-mac-among-steam-gamers/"
     ]
   ],
   [
@@ -251,22 +271,12 @@
   ],
   [
     [
-      "2023-08-03, 15:45:58",
-      "https://news.ycombinator.com/item?id=36987454"
+      "2023-08-03, 16:25:34",
+      "https://news.ycombinator.com/item?id=36988012"
     ],
     [
-      "Launch HN: Sweep (YC S23) – A bot to create simple PRs in your codebase",
-      "https://github.com/sweepai/sweep"
-    ]
-  ],
-  [
-    [
-      "2023-08-03, 12:55:14",
-      "https://news.ycombinator.com/item?id=36985232"
-    ],
-    [
-      "Peruvian fossil challenges blue whales for size",
-      "https://www.bbc.co.uk/news/science-environment-66384632"
+      "Overtone – programmable, live music in Clojure",
+      "https://overtone.github.io"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "What does the “pipe” value mean in the output of “ping”? (2009)",
       "http://web.archive.org/web/20130302161137/http://www.vincentverhagen.nl/2009/06/13/what-does-the-pipe-value-mean-in-the-output-of-ping/"
-    ]
-  ],
-  [
-    [
-      "2023-08-03, 00:40:16",
-      "https://news.ycombinator.com/item?id=36979866"
-    ],
-    [
-      "The entrance fee to America’s museums keeps rising",
-      "https://www.nytimes.com/2023/08/01/arts/design/museums-raise-admission-fees-guggenheim.html"
     ]
   ],
   [
