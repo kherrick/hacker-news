@@ -71,6 +71,7 @@
 * [2023-08-04, 12:01:15](https://news.ycombinator.com/item?id=36998755) - [MindsDB (YC W20) Is Hiring a Developer Advocate](https://jobs.lever.co/mindsdb/df8af46c-7168-4a11-bc04-52638b694833?lever-origin=applied&lever-source%5B%5D=Hackernews)
 * [2023-08-04, 11:51:49](https://news.ycombinator.com/item?id=36998643) - [The Coming Enshittification of Public Libraries](https://karawynn.substack.com/p/the-coming-enshittification-of-public-libraries)
 * [2023-08-04, 11:42:21](https://news.ycombinator.com/item?id=36998554) - [Is Saturn a failed gas giant?](https://arxiv.org/abs/2306.14740)
+* [2023-08-04, 11:19:44](https://news.ycombinator.com/item?id=36998366) - [Show HN: Custom Haskell handlers for Nginx](https://github.com/lyokha/nginx-haskell-module)
 * [2023-08-04, 11:16:06](https://news.ycombinator.com/item?id=36998337) - [Painting the Eiffel Tower](https://www.toureiffel.paris/en/the-monument/painting-eiffel-tower)
 * [2023-08-04, 11:07:44](https://news.ycombinator.com/item?id=36998280) - [Even people who bought Meta’s Ray-Ban smart glasses don’t want to use them](https://arstechnica.com/gadgets/2023/08/even-people-who-bought-metas-ray-ban-smart-glasses-dont-want-to-use-them/)
 * [2023-08-04, 10:11:53](https://news.ycombinator.com/item?id=36997834) - [Ocean Heat Record Broken](https://www.bbc.com/news/science-environment-66387537)
