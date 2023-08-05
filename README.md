@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-05, 14:54:35](https://news.ycombinator.com/item?id=37012611) - [Immersed Announces 'Visor' Compact Productivity Headset with 4K OLED Displays](https://www.uploadvr.com/immersed-visor-4k-oled-microdisplay-productivity-headset/)
-* [2023-08-05, 14:44:24](https://news.ycombinator.com/item?id=37012501) - [The Myth of AI Omniscience](https://cpwalker.substack.com/p/the-myth-of-ai-omniscience-ais-epistemological)
-* [2023-08-05, 14:29:45](https://news.ycombinator.com/item?id=37012347) - [Norton’s Dome: A simple violation of determinism in Newtonian mechanics](https://johncarlosbaez.wordpress.com/2023/08/05/nortons-dome/)
+* [2023-08-05, 14:44:24](https://news.ycombinator.com/item?id=37012501) - [The Myth of AI Omniscience: AI's Epistemological Limits](https://cpwalker.substack.com/p/the-myth-of-ai-omniscience-ais-epistemological)
+* [2023-08-05, 14:29:45](https://news.ycombinator.com/item?id=37012347) - [Norton’s Dome](https://johncarlosbaez.wordpress.com/2023/08/05/nortons-dome/)
 * [2023-08-05, 14:12:39](https://news.ycombinator.com/item?id=37012185) - [Mortality patterns for patients hospitalized during national cardiology meetings](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314435/)
 * [2023-08-05, 14:06:40](https://news.ycombinator.com/item?id=37012138) - [Spyware maker LetMeSpy shuts down after hacker deletes server data](https://techcrunch.com/2023/08/05/letmespy-spyware-shuts-down-wiped-server/)
 * [2023-08-05, 14:05:09](https://news.ycombinator.com/item?id=37012127) - [Wells Fargo customers scramble after deposits disappear from their accounts](https://www.nbcnews.com/business/business-news/wells-fargo-deposit-missing-outage-what-happened-rcna98201)
@@ -27,6 +26,7 @@
 * [2023-08-05, 00:53:25](https://news.ycombinator.com/item?id=37007809) - [Double neural bypass restores movement, sense of touch after paralysis](https://feinstein.northwell.edu/news/the-latest/bioelectronic-medicine-researchers-restore-feeling-lasting-movement-in-man-living-with-quadriplegia)
 * [2023-08-04, 21:23:22](https://news.ycombinator.com/item?id=37006082) - [Most promoted and blocked domains among Kagi Search users](https://kagi.com/stats)
 * [2023-08-04, 19:08:26](https://news.ycombinator.com/item?id=37004418) - [Aromas while sleeping spark cognitive increase: study](https://www.sciencedaily.com/releases/2023/08/230801131700.htm)
+* [2023-08-04, 14:28:49](https://news.ycombinator.com/item?id=37000562) - [(next Rich)](https://clojure.org/news/2023/08/04/next-rich)
 * [2023-08-04, 11:19:44](https://news.ycombinator.com/item?id=36998366) - [Show HN: Custom Haskell handlers for Nginx](https://github.com/lyokha/nginx-haskell-module)
 * [2023-08-04, 01:15:32](https://news.ycombinator.com/item?id=36994214) - [Successful room temperature ambient-pressure magnetic levitation of LK-99](https://arxiv.org/abs/2308.01516)
 * [2023-08-03, 17:54:11](https://news.ycombinator.com/item?id=36989307) - [Intel Arc A580 could be the next great affordable GPU](https://www.techradar.com/computing/gpu/watch-out-amd-intel-arc-a580-could-be-the-next-great-affordable-gpu)
