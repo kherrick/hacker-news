@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-05, 14:05:09](https://news.ycombinator.com/item?id=37012127) - [Wells Fargo customers scramble after deposits disappear from their accounts](https://www.nbcnews.com/business/business-news/wells-fargo-deposit-missing-outage-what-happened-rcna98201)
 * [2023-08-05, 13:17:01](https://news.ycombinator.com/item?id=37011717) - [EPA Approved a Chevron Fuel Ingredient That Has a Lifetime Cancer Risk](https://science.slashdot.org/story/23/08/05/0139219/epa-approved-a-chevron-fuel-ingredient-that-has-a-lifetime-cancer-risk)
 * [2023-08-05, 13:04:36](https://news.ycombinator.com/item?id=37011624) - [They Didn’t Ask to Go Viral. Posting on Social Media Without Consent Is Immoral](https://www.wired.com/story/social-media-privacy-consent/)
 * [2023-08-05, 12:27:14](https://news.ycombinator.com/item?id=37011349) - [Will Browsers Be Required by Law to Stop You from Visiting Infringing Sites?](https://www.techdirt.com/2023/08/04/will-browsers-be-required-by-law-to-stop-you-from-visiting-infringing-sites/)
@@ -15,7 +16,6 @@
 * [2023-08-05, 07:39:42](https://news.ycombinator.com/item?id=37009879) - [Lazygit Turns 5: Musings on Git, TUIs, and Open Source](https://jesseduffield.com/Lazygit-5-Years-On/)
 * [2023-08-05, 07:04:40](https://news.ycombinator.com/item?id=37009698) - [AI Won’t Replace Humans – But Humans with AI Will Replace Humans Without AI](https://hbr.org/2023/08/ai-wont-replace-humans-but-humans-with-ai-will-replace-humans-without-ai)
 * [2023-08-05, 07:00:40](https://news.ycombinator.com/item?id=37009678) - [Raycast (YC W20) Is Hiring a macOS Engineer (Remote, UTC ± 3 Hours)](https://www.raycast.com/jobs/software-engineer-macos)
-* [2023-08-05, 06:46:04](https://news.ycombinator.com/item?id=37009598) - [Archive.today: on the trail of mysterious guerrilla archivists of the Internet](https://gyrovague.com/2023/08/05/archive-today-on-the-trail-of-the-mysterious-guerrilla-archivist-of-the-internet/)
 * [2023-08-05, 05:42:13](https://news.ycombinator.com/item?id=37009329) - [Try the Last Internet Kermit Server](https://changelog.complete.org/archives/10555-try-the-last-internet-kermit-server)
 * [2023-08-05, 05:35:49](https://news.ycombinator.com/item?id=37009296) - [Eventual Business Consistency](https://tidyfirst.substack.com/p/eventual-business-consistency)
 * [2023-08-05, 04:28:07](https://news.ycombinator.com/item?id=37009027) - [Carbon–cement supercapacitors as a scalable bulk energy storage solution](https://www.pnas.org/doi/10.1073/pnas.2304318120)

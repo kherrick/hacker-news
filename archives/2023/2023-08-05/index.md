@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-05](index.md)
 
+* [2023-08-05, 14:05:09](https://news.ycombinator.com/item?id=37012127) - [Wells Fargo customers scramble after deposits disappear from their accounts](https://www.nbcnews.com/business/business-news/wells-fargo-deposit-missing-outage-what-happened-rcna98201)
 * [2023-08-05, 13:17:01](https://news.ycombinator.com/item?id=37011717) - [EPA Approved a Chevron Fuel Ingredient That Has a Lifetime Cancer Risk](https://science.slashdot.org/story/23/08/05/0139219/epa-approved-a-chevron-fuel-ingredient-that-has-a-lifetime-cancer-risk)
 * [2023-08-05, 13:14:11](https://news.ycombinator.com/item?id=37011691) - [Excessive meat and dairy consumption signficant contributor to global warming](https://www.nature.com/articles/s43016-023-00795-w)
 * [2023-08-05, 13:04:36](https://news.ycombinator.com/item?id=37011624) - [They Didn’t Ask to Go Viral. Posting on Social Media Without Consent Is Immoral](https://www.wired.com/story/social-media-privacy-consent/)
