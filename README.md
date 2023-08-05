@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-05, 01:35:36](https://news.ycombinator.com/item?id=37008093) - [Digitization of “The Most Beautiful of All Printed Books,” the Kelmscott Chaucer](https://www.openculture.com/2023/08/behold-a-digitization-of-the-most-beautiful-of-all-printed-books-the-kelmscott-chaucer.html)
+* [2023-08-05, 01:26:58](https://news.ycombinator.com/item?id=37008034) - [Reduction of Sulfur Emissions from Ships May Be Causing Rising Sea Temperatures](https://twitter.com/hankgreen/status/1687535525169930241)
 * [2023-08-05, 00:53:25](https://news.ycombinator.com/item?id=37007809) - [Double neural bypass restores movement, sense of touch after paralysis](https://feinstein.northwell.edu/news/the-latest/bioelectronic-medicine-researchers-restore-feeling-lasting-movement-in-man-living-with-quadriplegia)
 * [2023-08-04, 23:34:08](https://news.ycombinator.com/item?id=37007236) - [Math Exposition on YouTube](https://dustingmixon.wordpress.com/2023/08/04/math-exposition-on-youtube/)
 * [2023-08-04, 22:24:46](https://news.ycombinator.com/item?id=37006705) - [Pay no attention to the USB port behind the “no USB” sticker](https://www.theverge.com/2023/8/4/23820710/pay-no-attention-to-the-usb-port-behind-the-no-usb-sticker)
@@ -19,7 +20,6 @@
 * [2023-08-04, 15:29:41](https://news.ycombinator.com/item?id=37001369) - [Comcast, CenturyLink fail to derail Utah community-owned gigabit fiber network](https://www.techdirt.com/2023/08/04/comcast-centurylink-fail-to-derail-community-owned-gigabit-fiber-network-in-bountiful-utah/)
 * [2023-08-04, 15:28:04](https://news.ycombinator.com/item?id=37001345) - [Virtualizing development environments in 2023](https://hocus.dev/blog/virtualizing-development-environments/)
 * [2023-08-04, 14:58:11](https://news.ycombinator.com/item?id=37000920) - [Add an AI Code Copilot to your product using GPT-4](https://www.windmill.dev/blog/windmill-ai)
-* [2023-08-04, 14:30:44](https://news.ycombinator.com/item?id=37000594) - [ImPlot: Interactive plotting library, ImGui style](https://github.com/epezent/implot)
 * [2023-08-04, 14:28:49](https://news.ycombinator.com/item?id=37000562) - [(next Rich)](https://clojure.org/news/2023/08/04/next-rich)
 * [2023-08-04, 13:08:51](https://news.ycombinator.com/item?id=36999463) - [85-Byte Snake Game](https://github.com/donno2048/snake)
 * [2023-08-04, 01:15:32](https://news.ycombinator.com/item?id=36994214) - [Successful room temperature ambient-pressure magnetic levitation of LK-99](https://arxiv.org/abs/2308.01516)
