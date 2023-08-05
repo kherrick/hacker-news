@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-05, 07:04:40](https://news.ycombinator.com/item?id=37009698) - [AI Won’t Replace Humans – But Humans with AI Will Replace Humans Without AI](https://hbr.org/2023/08/ai-wont-replace-humans-but-humans-with-ai-will-replace-humans-without-ai)
 * [2023-08-05, 07:00:40](https://news.ycombinator.com/item?id=37009678) - [Raycast (YC W20) Is Hiring a macOS Engineer (Remote, UTC ± 3 Hours)](https://www.raycast.com/jobs/software-engineer-macos)
 * [2023-08-05, 06:46:04](https://news.ycombinator.com/item?id=37009598) - [Archive.today: on the trail of mysterious guerrilla archivists of the Internet](https://gyrovague.com/2023/08/05/archive-today-on-the-trail-of-the-mysterious-guerrilla-archivist-of-the-internet/)
 * [2023-08-05, 05:42:13](https://news.ycombinator.com/item?id=37009329) - [Try the Last Internet Kermit Server](https://changelog.complete.org/archives/10555-try-the-last-internet-kermit-server)
@@ -18,7 +19,6 @@
 * [2023-08-04, 19:08:26](https://news.ycombinator.com/item?id=37004418) - [Aromas while sleeping spark cognitive increase: study](https://www.sciencedaily.com/releases/2023/08/230801131700.htm)
 * [2023-08-04, 18:37:02](https://news.ycombinator.com/item?id=37003988) - [Melatonin as a treatment for food waste](https://www.anthropocenemagazine.org/2023/08/melatonin-a-sleep-aid-is-a-surprising-treatment-for-food-waste/)
 * [2023-08-04, 18:31:11](https://news.ycombinator.com/item?id=37003910) - [Throw away your first draft of your code](https://ntietz.com/blog/throw-away-your-first-draft/)
-* [2023-08-04, 17:36:02](https://news.ycombinator.com/item?id=37003195) - [The unix69 keyboard layout: nerdy and nice](https://dotat.at/@/2023-08-04-unix69.html)
 * [2023-08-04, 15:29:41](https://news.ycombinator.com/item?id=37001369) - [Comcast, CenturyLink fail to derail Utah community-owned gigabit fiber network](https://www.techdirt.com/2023/08/04/comcast-centurylink-fail-to-derail-community-owned-gigabit-fiber-network-in-bountiful-utah/)
 * [2023-08-04, 14:58:11](https://news.ycombinator.com/item?id=37000920) - [Add an AI Code Copilot to your product using GPT-4](https://www.windmill.dev/blog/windmill-ai)
 * [2023-08-04, 14:28:49](https://news.ycombinator.com/item?id=37000562) - [(next Rich)](https://clojure.org/news/2023/08/04/next-rich)
