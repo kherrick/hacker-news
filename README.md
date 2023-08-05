@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-05, 15:30:32](https://news.ycombinator.com/item?id=37012995) - [Disney discontinues DVD and Bluray production in Australia effective immediately](https://www.whathifi.com/news/disney-discontinues-dvd-and-blu-ray-production-in-australia-effective-immediately)
+* [2023-08-05, 15:30:32](https://news.ycombinator.com/item?id=37012995) - [Disney discontinues DVD and Bluray production in Australia](https://www.whathifi.com/news/disney-discontinues-dvd-and-blu-ray-production-in-australia-effective-immediately)
 * [2023-08-05, 14:44:24](https://news.ycombinator.com/item?id=37012501) - [The Myth of AI Omniscience: AI's Epistemological Limits](https://cpwalker.substack.com/p/the-myth-of-ai-omniscience-ais-epistemological)
 * [2023-08-05, 14:36:45](https://news.ycombinator.com/item?id=37012415) - [Being ‘Too Busy’ Means Your Personal Strategy Sucks](https://rogermartin.medium.com/being-too-busy-means-your-personal-strategy-sucks-8f24b9327179)
 * [2023-08-05, 14:29:45](https://news.ycombinator.com/item?id=37012347) - [The Dome: A simple violation of determinism in Newtonian mechanics (2005)](https://sites.pitt.edu/~jdnorton/Goodies/Dome/)
@@ -22,9 +22,9 @@
 * [2023-08-05, 07:00:40](https://news.ycombinator.com/item?id=37009678) - [Raycast (YC W20) Is Hiring a macOS Engineer (Remote, UTC ± 3 Hours)](https://www.raycast.com/jobs/software-engineer-macos)
 * [2023-08-05, 05:42:13](https://news.ycombinator.com/item?id=37009329) - [Try the Last Internet Kermit Server](https://changelog.complete.org/archives/10555-try-the-last-internet-kermit-server)
 * [2023-08-05, 05:35:49](https://news.ycombinator.com/item?id=37009296) - [Eventual Business Consistency](https://tidyfirst.substack.com/p/eventual-business-consistency)
+* [2023-08-05, 04:28:07](https://news.ycombinator.com/item?id=37009027) - [Carbon–cement supercapacitors as a scalable bulk energy storage solution](https://www.pnas.org/doi/10.1073/pnas.2304318120)
 * [2023-08-05, 03:29:37](https://news.ycombinator.com/item?id=37008724) - [NASA has reestablished full communications with Voyager 2](https://www.jpl.nasa.gov/news/nasa-mission-update-voyager-2-communications-pause)
 * [2023-08-05, 01:26:58](https://news.ycombinator.com/item?id=37008034) - [Reduction of sulfur emissions from ships may be causing rising sea temperatures](https://twitter.com/hankgreen/status/1687535525169930241)
-* [2023-08-05, 00:53:25](https://news.ycombinator.com/item?id=37007809) - [Double neural bypass restores movement, sense of touch after paralysis](https://feinstein.northwell.edu/news/the-latest/bioelectronic-medicine-researchers-restore-feeling-lasting-movement-in-man-living-with-quadriplegia)
 * [2023-08-04, 21:23:22](https://news.ycombinator.com/item?id=37006082) - [Most promoted and blocked domains among Kagi Search users](https://kagi.com/stats)
 * [2023-08-04, 19:08:26](https://news.ycombinator.com/item?id=37004418) - [Aromas while sleeping spark cognitive increase: study](https://www.sciencedaily.com/releases/2023/08/230801131700.htm)
 * [2023-08-04, 11:19:44](https://news.ycombinator.com/item?id=36998366) - [Show HN: Custom Haskell handlers for Nginx](https://github.com/lyokha/nginx-haskell-module)
