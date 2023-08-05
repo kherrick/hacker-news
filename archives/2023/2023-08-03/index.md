@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-03](index.md)
 
 * [2023-08-03, 23:21:39](https://news.ycombinator.com/item?id=36993411) - [Supercapacitor Is Made from Concrete and Carbon](https://spectrum.ieee.org/supercapacitor)
+* [2023-08-03, 23:03:57](https://news.ycombinator.com/item?id=36993291) - [A Short Ballad Dedicated to the Growth of Programs (1986)](https://ashwinram.org/1986/01/28/a-short-ballad-dedicated-to-the-growth-of-programs/)
 * [2023-08-03, 22:34:49](https://news.ycombinator.com/item?id=36993001) - [The Industrial Revolution That Almost Was (2022)](https://etiennefd.substack.com/p/the-industrial-revolution-that-almost)
 * [2023-08-03, 22:16:40](https://news.ycombinator.com/item?id=36992802) - [The worlds largest Online Toaster Exhibition](http://toastermuseum.com)
 * [2023-08-03, 22:05:34](https://news.ycombinator.com/item?id=36992678) - [Common Lisp: The Good, the Bad, the Ugly, the Ambivalent](https://wiki.alopex.li/CommonLispThoughts)

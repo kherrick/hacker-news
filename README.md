@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-05, 21:20:19](https://news.ycombinator.com/item?id=37016413) - [MK-1](https://mkone.ai/blog/introducing-mk1)
-* [2023-08-05, 20:19:22](https://news.ycombinator.com/item?id=37015928) - [A practical way to detect cargo-cult thinking](https://movingthelimit.com/a-practical-way-to-detect-cargo-cult-thinking/)
 * [2023-08-05, 19:36:29](https://news.ycombinator.com/item?id=37015585) - [nic.funet.fi: Serving freely distributable files with FTP since 1990](https://www.funet.fi/)
 * [2023-08-05, 19:05:22](https://news.ycombinator.com/item?id=37015290) - [IBM and NASA open-source largest geospatial AI foundation model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face?sf180690117=1)
 * [2023-08-05, 18:55:03](https://news.ycombinator.com/item?id=37015208) - [We’re closer to ‘engineering’ blood vessels](https://pursuit.unimelb.edu.au/articles/we-re-closer-to-engineering-blood-vessels)
@@ -30,6 +29,7 @@
 * [2023-08-04, 17:44:39](https://news.ycombinator.com/item?id=37003306) - [The power of achieving flow state in DevEx](https://hackernoon.com/the-power-of-achieving-flow-state-in-devex)
 * [2023-08-04, 07:39:56](https://news.ycombinator.com/item?id=36996723) - [DisplayPort: Taming the Altmode](https://hackaday.com/2023/08/03/displayport-taming-the-altmode/)
 * [2023-08-04, 00:50:46](https://news.ycombinator.com/item?id=36994065) - [Decoding base16 sequences quickly](https://lemire.me/blog/2023/07/27/decoding-base16-sequences-quickly/)
+* [2023-08-03, 23:03:57](https://news.ycombinator.com/item?id=36993291) - [A Short Ballad Dedicated to the Growth of Programs (1986)](https://ashwinram.org/1986/01/28/a-short-ballad-dedicated-to-the-growth-of-programs/)
 
 ## [Archives](archives/index.md)
 
