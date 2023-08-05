@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-05](index.md)
 
+* [2023-08-05, 22:36:22](https://news.ycombinator.com/item?id=37016910) - [Searching for Paul C. Pratt](https://www.bigmessowires.com/2023/08/05/searching-for-paul-c-pratt/)
 * [2023-08-05, 22:31:39](https://news.ycombinator.com/item?id=37016876) - [Jeremy Vaught spent 16 years to build @music on Twitter, then X took it away](https://syzito.xyz/@selzero/110837319716739179)
 * [2023-08-05, 21:23:35](https://news.ycombinator.com/item?id=37016431) - [Tim Hunkin (Secret Lives of Machines)](https://www.timhunkin.com/control/o_about_the_site.htm)
 * [2023-08-05, 21:21:51](https://news.ycombinator.com/item?id=37016424) - [CEOs’ pay climbed before layoffs at tech giants like Alphabet and Microsoft](https://southernillinoisnow.com/2023/08/05/ceos-pay-climbed-before-layoffs-at-tech-giants-like-alphabet-and-microsoft-data-shows/)
