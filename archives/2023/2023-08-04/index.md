@@ -29,6 +29,7 @@
 * [2023-08-04, 17:59:00](https://news.ycombinator.com/item?id=37003489) - [RedHat found a way to get around GPLv2 intention with contract law](https://opencoreventures.com/blog/2023-08-redhat-gets-around-gplv2-license-intention-with-contract-law/)
 * [2023-08-04, 17:58:29](https://news.ycombinator.com/item?id=37003478) - [Physics – Probing the Limits of Nuclear Existence](https://physics.aps.org/articles/v15/177)
 * [2023-08-04, 17:51:31](https://news.ycombinator.com/item?id=37003393) - [Deutschlandticket: Germany’s €49 ticket pushes passenger numbers up 25%](https://www.euronews.com/green/2023/07/31/deutschlandticket-germanys-49-ticket-pushes-passenger-numbers-up-25-on-local-train-service)
+* [2023-08-04, 17:44:39](https://news.ycombinator.com/item?id=37003306) - [The Power of Achieving Flow State in DevEx](https://hackernoon.com/the-power-of-achieving-flow-state-in-devex)
 * [2023-08-04, 17:42:11](https://news.ycombinator.com/item?id=37003275) - [Ramda: A practical functional library for JavaScript programmers](https://ramdajs.com/)
 * [2023-08-04, 17:36:02](https://news.ycombinator.com/item?id=37003195) - [The unix69 keyboard layout: nerdy and nice](https://dotat.at/@/2023-08-04-unix69.html)
 * [2023-08-04, 17:00:29](https://news.ycombinator.com/item?id=37002674) - [Kodable is hiring a Full Stack Engineer to help teach millions of kids to code](https://www.indeed.com/job/full-stack-engineer-acbcc196f22f170d)

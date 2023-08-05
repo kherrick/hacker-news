@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-05](index.md)
 
+* [2023-08-05, 18:29:26](https://news.ycombinator.com/item?id=37015009) - [Satellite supergroup spots methane super-emitters with “staggering” accuracy](https://innovationorigins.com/en/satellite-supergroup-spots-methane-super-emitters-with-staggering-accuracy/)
+* [2023-08-05, 18:27:27](https://news.ycombinator.com/item?id=37014986) - [Is “Do the Needful” Correct?](https://www.grammarly.com/blog/do-the-needful/)
 * [2023-08-05, 18:12:09](https://news.ycombinator.com/item?id=37014842) - [Speed Up C++ Compilation](https://devtalk.blender.org/t/speed-up-c-compilation/30508)
 * [2023-08-05, 18:03:18](https://news.ycombinator.com/item?id=37014758) - [Duck DNS](https://www.duckdns.org/)
 * [2023-08-05, 18:01:04](https://news.ycombinator.com/item?id=37014738) - [The Earthsea Trilogy (2003)](https://dannyreviews.com/h/Earthsea.html)
