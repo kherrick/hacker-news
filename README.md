@@ -2,6 +2,7 @@
 
 * [2023-08-05, 10:52:47](https://news.ycombinator.com/item?id=37010808) - [Italy Is Betting Big on Train Travel](https://www.smithsonianmag.com/smart-news/italy-tourist-trains-180982657/)
 * [2023-08-05, 10:49:21](https://news.ycombinator.com/item?id=37010786) - [Intel x86 Documentation Has More Pages Than The 6502 Has Transistors (2013)](http://www.righto.com/2013/09/intel-x86-documentation-has-more-pages.html)
+* [2023-08-05, 10:31:07](https://news.ycombinator.com/item?id=37010709) - [He Dropped Out to Become a Poet. Now He’s Won a Fields Medal (2022)](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/#repost)
 * [2023-08-05, 09:55:57](https://news.ycombinator.com/item?id=37010539) - [Flux Pinning in sample of LK-99](https://twitter.com/andercot/status/1687740396691185664)
 * [2023-08-05, 09:37:09](https://news.ycombinator.com/item?id=37010449) - [GitHub Actions and Vanity Metrics](https://jamesconroyfinn.com/github-actions-and-vanity-metrics)
 * [2023-08-05, 07:39:42](https://news.ycombinator.com/item?id=37009879) - [Lazygit Turns 5: Musings on Git, TUIs, and Open Source](https://jesseduffield.com/Lazygit-5-Years-On/)
@@ -22,7 +23,6 @@
 * [2023-08-04, 19:22:19](https://news.ycombinator.com/item?id=37004617) - [Terraform best practices for reliability at any scale](https://substrate.tools/blog/terraform-best-practices-for-reliability-at-any-scale)
 * [2023-08-04, 19:08:26](https://news.ycombinator.com/item?id=37004418) - [Aromas while sleeping spark cognitive increase: study](https://www.sciencedaily.com/releases/2023/08/230801131700.htm)
 * [2023-08-04, 18:37:02](https://news.ycombinator.com/item?id=37003988) - [Melatonin as a treatment for food waste](https://www.anthropocenemagazine.org/2023/08/melatonin-a-sleep-aid-is-a-surprising-treatment-for-food-waste/)
-* [2023-08-04, 18:31:11](https://news.ycombinator.com/item?id=37003910) - [Throw away your first draft of your code](https://ntietz.com/blog/throw-away-your-first-draft/)
 * [2023-08-04, 14:28:49](https://news.ycombinator.com/item?id=37000562) - [(next Rich)](https://clojure.org/news/2023/08/04/next-rich)
 * [2023-08-04, 11:19:44](https://news.ycombinator.com/item?id=36998366) - [Show HN: Custom Haskell handlers for Nginx](https://github.com/lyokha/nginx-haskell-module)
 * [2023-08-04, 01:15:32](https://news.ycombinator.com/item?id=36994214) - [Successful room temperature ambient-pressure magnetic levitation of LK-99](https://arxiv.org/abs/2308.01516)
