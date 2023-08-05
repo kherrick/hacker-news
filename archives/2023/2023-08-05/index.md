@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-05](index.md)
 
+* [2023-08-05, 15:49:50](https://news.ycombinator.com/item?id=37013197) - [Concrete, asphalt and urban heat islands add to the misery of heat waves](https://www.reuters.com/graphics/CLIMATE-CHANGE/URBAN-HEAT/zgpormdkevd/)
+* [2023-08-05, 15:41:21](https://news.ycombinator.com/item?id=37013114) - [Cargo Cult AI](https://queue.acm.org/detail.cfm?id=3595860)
 * [2023-08-05, 15:30:32](https://news.ycombinator.com/item?id=37012995) - [Disney discontinues DVD and Bluray production in Australia effective immediately](https://www.whathifi.com/news/disney-discontinues-dvd-and-blu-ray-production-in-australia-effective-immediately)
 * [2023-08-05, 14:54:35](https://news.ycombinator.com/item?id=37012611) - [Immersed Announces 'Visor' Compact Productivity Headset with 4K OLED Displays](https://www.uploadvr.com/immersed-visor-4k-oled-microdisplay-productivity-headset/)
 * [2023-08-05, 14:44:24](https://news.ycombinator.com/item?id=37012501) - [The Myth of AI Omniscience](https://cpwalker.substack.com/p/the-myth-of-ai-omniscience-ais-epistemological)
