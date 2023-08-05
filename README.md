@@ -21,6 +21,7 @@
 * [2023-08-05, 13:39:43](https://news.ycombinator.com/item?id=37011905) - [Use of HD and DD drives, diskettes (2011)](http://www.retrotechnology.com/herbs_stuff/guzis.html)
 * [2023-08-05, 12:26:44](https://news.ycombinator.com/item?id=37011346) - [Green vs. brown programming languages (2021)](https://earthly.dev/blog/brown-green-language/)
 * [2023-08-05, 12:23:27](https://news.ycombinator.com/item?id=37011324) - [Bram Moolenaar has died](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)
+* [2023-08-05, 10:49:21](https://news.ycombinator.com/item?id=37010786) - [Intel x86 documentation has more pages than the 6502 has transistors (2013)](http://www.righto.com/2013/09/intel-x86-documentation-has-more-pages.html)
 * [2023-08-05, 08:45:42](https://news.ycombinator.com/item?id=37010196) - [WASI: WebAssembly System Interface](https://github.com/WebAssembly/WASI)
 * [2023-08-05, 07:39:42](https://news.ycombinator.com/item?id=37009879) - [Lazygit Turns 5: Musings on Git, TUIs, and open source](https://jesseduffield.com/Lazygit-5-Years-On/)
 * [2023-08-05, 05:42:13](https://news.ycombinator.com/item?id=37009329) - [Try the last internet Kermit server](https://changelog.complete.org/archives/10555-try-the-last-internet-kermit-server)
@@ -29,7 +30,6 @@
 * [2023-08-04, 17:44:39](https://news.ycombinator.com/item?id=37003306) - [The power of achieving flow state in DevEx](https://hackernoon.com/the-power-of-achieving-flow-state-in-devex)
 * [2023-08-04, 07:39:56](https://news.ycombinator.com/item?id=36996723) - [DisplayPort: Taming the Altmode](https://hackaday.com/2023/08/03/displayport-taming-the-altmode/)
 * [2023-08-04, 00:50:46](https://news.ycombinator.com/item?id=36994065) - [Decoding base16 sequences quickly](https://lemire.me/blog/2023/07/27/decoding-base16-sequences-quickly/)
-* [2023-08-03, 23:03:57](https://news.ycombinator.com/item?id=36993291) - [A Short Ballad Dedicated to the Growth of Programs (1986)](https://ashwinram.org/1986/01/28/a-short-ballad-dedicated-to-the-growth-of-programs/)
 
 ## [Archives](archives/index.md)
 
