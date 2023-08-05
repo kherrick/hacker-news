@@ -6,6 +6,7 @@
 * [2023-08-04, 21:11:03](https://news.ycombinator.com/item?id=37005937) - [IBM, Red Hat and Free Software: An old maddog’s view](https://www.lpi.org/blog/2023/07/30/ibm-red-hat-and-free-software-an-old-maddogs-view/)
 * [2023-08-04, 19:48:49](https://news.ycombinator.com/item?id=37004949) - [New studies gauge impact and cause of beech leaf disease](https://www.science.org/content/article/beech-leaf-disease-ravaging-north-american-trees)
 * [2023-08-04, 19:29:41](https://news.ycombinator.com/item?id=37004720) - [American English Dialects](https://aschmann.net/AmEng/)
+* [2023-08-04, 19:29:07](https://news.ycombinator.com/item?id=37004708) - [Show HN: Gdańsk AI – full stack AI voice chatbot](https://github.com/jmaczan/gdansk-ai)
 * [2023-08-04, 19:22:19](https://news.ycombinator.com/item?id=37004617) - [Terraform best practices for reliability at any scale](https://substrate.tools/blog/terraform-best-practices-for-reliability-at-any-scale)
 * [2023-08-04, 18:57:48](https://news.ycombinator.com/item?id=37004282) - [Ways to teach kids to code (2016)](https://medium.com/vehikl-news/10-ways-to-teach-kids-to-code-1c5e4b68a247)
 * [2023-08-04, 18:37:02](https://news.ycombinator.com/item?id=37003988) - [Melatonin as a treatment for food waste](https://www.anthropocenemagazine.org/2023/08/melatonin-a-sleep-aid-is-a-surprising-treatment-for-food-waste/)
@@ -27,7 +28,6 @@
 * [2023-08-03, 21:28:51](https://news.ycombinator.com/item?id=36992222) - [Random Testing of WebAssembly Implementations Using Semantically Valid Programs](https://www.flux.utah.edu/paper/watson-thesis)
 * [2023-08-03, 17:37:15](https://news.ycombinator.com/item?id=36989066) - [Venus flytraps count electrical impulses to induce the digestive process (2016)](https://www.theatlantic.com/science/archive/2016/01/the-venus-fly-trap-counts-the-struggles-of-its-prey/424782/)
 * [2023-08-03, 16:25:34](https://news.ycombinator.com/item?id=36988012) - [Overtone – programmable, live music in Clojure](https://overtone.github.io)
-* [2023-08-03, 16:08:16](https://news.ycombinator.com/item?id=36987795) - [The Windows desktop is dying](https://www.computerworld.com/article/3704148/the-windows-desktop-is-dying.html)
 * [2023-08-03, 15:03:32](https://news.ycombinator.com/item?id=36986900) - [Ryugu samples reveal traces of rock from before the Sun existed](https://arstechnica.com/science/2023/08/ryugu-samples-reveal-traces-of-rock-from-before-the-sun-existed/)
 * [2023-08-03, 14:54:02](https://news.ycombinator.com/item?id=36986795) - [Do something, so we can change it](https://allenpike.com/2023/do-something-so-we-can-change-it)
 
