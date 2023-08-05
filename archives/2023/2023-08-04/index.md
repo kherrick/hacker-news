@@ -34,6 +34,7 @@
 * [2023-08-04, 17:36:02](https://news.ycombinator.com/item?id=37003195) - [The unix69 keyboard layout: nerdy and nice](https://dotat.at/@/2023-08-04-unix69.html)
 * [2023-08-04, 17:00:29](https://news.ycombinator.com/item?id=37002674) - [Kodable is hiring a Full Stack Engineer to help teach millions of kids to code](https://www.indeed.com/job/full-stack-engineer-acbcc196f22f170d)
 * [2023-08-04, 16:51:04](https://news.ycombinator.com/item?id=37002535) - [PSF Hires PyPI Safety and Security Engineer](https://pyfound.blogspot.com/2023/08/announcing-our-new-pypi-safety-security.html)
+* [2023-08-04, 16:43:17](https://news.ycombinator.com/item?id=37002420) - [My Favorite Vim Oneliners for Text Manipulation](https://muhammadraza.me/2023/vim-onliners/)
 * [2023-08-04, 16:38:01](https://news.ycombinator.com/item?id=37002357) - [Another Joke Fine Shows US Authorities Do Not Take Illegal Telemarketing Serious](https://commsrisk.com/another-joke-fine-shows-us-authorities-do-not-take-illegal-telemarketing-calls-seriously/)
 * [2023-08-04, 16:26:05](https://news.ycombinator.com/item?id=37002187) - [Exploiting a Flaw in Bitmap Handling in Windows User-Mode Printer Drivers](https://www.thezdi.com/blog/2023/8/1/exploiting-a-flaw-in-bitmap-handling-in-windows-user-mode-printer-drivers)
 * [2023-08-04, 16:15:23](https://news.ycombinator.com/item?id=37002020) - [Mirantis Unveils K0smotron: An Open-Source Kubernetes Management Project](https://opensourcewatch.beehiiv.com/p/mirantis-unveils-k0smotron-opensource-streamlined-kubernetes-management-project)
