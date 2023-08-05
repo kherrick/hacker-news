@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-05](index.md)
 
+* [2023-08-05, 10:52:47](https://news.ycombinator.com/item?id=37010808) - [Grappling with Climate Change, Overtourism, Italy Is Betting Big on Train Travel](https://www.smithsonianmag.com/smart-news/italy-tourist-trains-180982657/)
 * [2023-08-05, 07:39:42](https://news.ycombinator.com/item?id=37009879) - [Lazygit Turns 5: Musings on Git, TUIs, and Open Source](https://jesseduffield.com/Lazygit-5-Years-On/)
 * [2023-08-05, 07:04:40](https://news.ycombinator.com/item?id=37009698) - [AI Won’t Replace Humans – But Humans with AI Will Replace Humans Without AI](https://hbr.org/2023/08/ai-wont-replace-humans-but-humans-with-ai-will-replace-humans-without-ai)
 * [2023-08-05, 07:00:40](https://news.ycombinator.com/item?id=37009678) - [Raycast (YC W20) Is Hiring a macOS Engineer (Remote, UTC ± 3 Hours)](https://www.raycast.com/jobs/software-engineer-macos)
