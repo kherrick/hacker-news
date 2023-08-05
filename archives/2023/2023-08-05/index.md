@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-05](index.md)
 
+* [2023-08-05, 16:01:11](https://news.ycombinator.com/item?id=37013320) - [Pirate Site Not Impressed by Global DNS Blocking Order](https://torrentfreak.com/pirate-site-not-impressed-by-global-dns-blocking-order-230803/)
 * [2023-08-05, 15:49:50](https://news.ycombinator.com/item?id=37013197) - [Concrete, asphalt and urban heat islands add to the misery of heat waves](https://www.reuters.com/graphics/CLIMATE-CHANGE/URBAN-HEAT/zgpormdkevd/)
 * [2023-08-05, 15:41:21](https://news.ycombinator.com/item?id=37013114) - [Cargo Cult AI](https://queue.acm.org/detail.cfm?id=3595860)
 * [2023-08-05, 15:30:32](https://news.ycombinator.com/item?id=37012995) - [Disney discontinues DVD and Bluray production in Australia effective immediately](https://www.whathifi.com/news/disney-discontinues-dvd-and-blu-ray-production-in-australia-effective-immediately)
