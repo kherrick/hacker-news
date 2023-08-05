@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-05](index.md)
 
+* [2023-08-05, 19:00:39](https://news.ycombinator.com/item?id=37015253) - [I do not use a debugger](https://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger/)
+* [2023-08-05, 18:55:03](https://news.ycombinator.com/item?id=37015208) - [We’re closer to ‘engineering’ blood vessels](https://pursuit.unimelb.edu.au/articles/we-re-closer-to-engineering-blood-vessels)
 * [2023-08-05, 18:41:27](https://news.ycombinator.com/item?id=37015118) - [Replacing the flyback transformer in an Apple Studio Display](https://www.riveducha.com/fix-apple-studio-display-flyback)
+* [2023-08-05, 18:35:36](https://news.ycombinator.com/item?id=37015053) - [From Cyberdog to dataless files: a brief history of iCloud](https://eclecticlight.co/2023/08/05/from-cyberdog-to-dataless-files-a-brief-history-of-icloud/)
 * [2023-08-05, 18:29:26](https://news.ycombinator.com/item?id=37015009) - [Satellite supergroup spots methane super-emitters with “staggering” accuracy](https://innovationorigins.com/en/satellite-supergroup-spots-methane-super-emitters-with-staggering-accuracy/)
 * [2023-08-05, 18:27:27](https://news.ycombinator.com/item?id=37014986) - [Is “Do the Needful” Correct?](https://www.grammarly.com/blog/do-the-needful/)
 * [2023-08-05, 18:12:09](https://news.ycombinator.com/item?id=37014842) - [Speed Up C++ Compilation](https://devtalk.blender.org/t/speed-up-c-compilation/30508)
