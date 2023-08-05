@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-05](index.md)
 
+* [2023-08-05, 20:19:22](https://news.ycombinator.com/item?id=37015928) - [A practical way to detect cargo-cult thinking](https://movingthelimit.com/a-practical-way-to-detect-cargo-cult-thinking/)
 * [2023-08-05, 19:36:29](https://news.ycombinator.com/item?id=37015585) - [nic.funet.fi: Serving freely distributable files with FTP since 1990](https://www.funet.fi/)
 * [2023-08-05, 19:05:22](https://news.ycombinator.com/item?id=37015290) - [IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face?sf180690117=1)
 * [2023-08-05, 19:00:39](https://news.ycombinator.com/item?id=37015253) - [I do not use a debugger](https://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger/)
