@@ -90,6 +90,7 @@
 * [2023-08-04, 03:08:31](https://news.ycombinator.com/item?id=36995043) - [Central Park’s Doomed Victorian Dinosaur Museum](https://www.atlasobscura.com/articles/dinosaur-museum-central-park-boss-tweed-nyc)
 * [2023-08-04, 02:58:57](https://news.ycombinator.com/item?id=36994986) - [Statement on AP Psychology and Florida](https://newsroom.collegeboard.org/statement-ap-psychology-and-florida)
 * [2023-08-04, 02:58:33](https://news.ycombinator.com/item?id=36994982) - [Randall Couch's 'Peal' and other literary bells](https://blogs.bl.uk/english-and-drama/2023/05/literary-bells.html)
+* [2023-08-04, 02:35:52](https://news.ycombinator.com/item?id=36994794) - [Beavers are helping restore wetlands and create buffers against wildfires](https://wusfnews.wusf.usf.edu/2023-07-31/how-beavers-are-helping-restore-wetlands-and-create-buffers-against-wildfires)
 * [2023-08-04, 02:21:06](https://news.ycombinator.com/item?id=36994690) - [Why the best hiking boot is a sneaker](https://www.wsj.com/articles/why-the-best-hiking-boot-is-actually-a-sneaker-3c49803d)
 * [2023-08-04, 01:17:06](https://news.ycombinator.com/item?id=36994229) - [Arizona’s extreme heat is killing honeybees and melting their homes](https://www.cnn.com/2023/08/03/us/honeybees-arizona-phoenix-heat-climate/index.html)
 * [2023-08-04, 01:15:32](https://news.ycombinator.com/item?id=36994214) - [Successful room temperature ambient-pressure magnetic levitation of LK-99](https://arxiv.org/abs/2308.01516)

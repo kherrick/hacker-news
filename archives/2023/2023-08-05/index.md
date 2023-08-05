@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-05](index.md)
 
+* [2023-08-05, 16:20:08](https://news.ycombinator.com/item?id=37013549) - [Fatal grizzly attack renews debate over how many bears are too many](https://text.npr.org/1192258255)
+* [2023-08-05, 16:07:40](https://news.ycombinator.com/item?id=37013396) - [Just Normal Web Things](https://heather-buchel.com/blog/2023/07/just-normal-web-things/)
+* [2023-08-05, 16:06:01](https://news.ycombinator.com/item?id=37013381) - [Remote Workers Are Increasingly Less Productive, Anxious, Depressed and Lonely](https://www.deconstructoroffun.com/blog/the-remote-work-experiment-is-over)
 * [2023-08-05, 16:01:11](https://news.ycombinator.com/item?id=37013320) - [Pirate Site Not Impressed by Global DNS Blocking Order](https://torrentfreak.com/pirate-site-not-impressed-by-global-dns-blocking-order-230803/)
 * [2023-08-05, 15:49:50](https://news.ycombinator.com/item?id=37013197) - [Concrete, asphalt and urban heat islands add to the misery of heat waves](https://www.reuters.com/graphics/CLIMATE-CHANGE/URBAN-HEAT/zgpormdkevd/)
 * [2023-08-05, 15:41:21](https://news.ycombinator.com/item?id=37013114) - [Cargo Cult AI](https://queue.acm.org/detail.cfm?id=3595860)
