@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2023-08-04, 16:02:03",
-      "https://news.ycombinator.com/item?id=37001820"
-    ],
-    [
-      "The gamification of reading is changing how we approach books",
-      "https://www.shondaland.com/inspire/books/a44567428/the-gamification-of-reading-is-changing-how-we-approach-books/"
-    ]
-  ],
-  [
-    [
       "2023-08-04, 15:29:41",
       "https://news.ycombinator.com/item?id=37001369"
     ],
@@ -197,6 +187,16 @@
     [
       "Add an AI Code Copilot to your product using GPT-4",
       "https://www.windmill.dev/blog/windmill-ai"
+    ]
+  ],
+  [
+    [
+      "2023-08-04, 14:30:44",
+      "https://news.ycombinator.com/item?id=37000594"
+    ],
+    [
+      "ImPlot: Interactive plotting library, ImGui style",
+      "https://github.com/epezent/implot"
     ]
   ],
   [
