@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-05](index.md)
 
 * [2023-08-05, 17:03:52](https://news.ycombinator.com/item?id=37014097) - [Drug experts say alcohol worse than crack, heroin](https://www.reuters.com/article/uk-drugs-alcohol-idUKTRE6A000Y20101101)
+* [2023-08-05, 16:57:31](https://news.ycombinator.com/item?id=37014019) - [Immune cells fighting cancer get exhausted within hours of encountering tumors](https://theconversation.com/immune-cells-that-fight-cancer-become-exhausted-within-hours-of-first-encountering-tumors-new-research-210947)
 * [2023-08-05, 16:47:54](https://news.ycombinator.com/item?id=37013887) - [Vim's Creator Bram Moolenaar Dies at Age 62 – Slashdot](https://news.slashdot.org/story/23/08/05/1632219/vims-creator-bram-moolenaar-dies-at-age-62)
 * [2023-08-05, 16:45:43](https://news.ycombinator.com/item?id=37013848) - [San Francisco Landlords may lose everything [video][40 mins]](https://www.youtube.com/watch?v=ELGhAuiOBXU)
 * [2023-08-05, 16:20:08](https://news.ycombinator.com/item?id=37013549) - [Fatal grizzly attack renews debate over how many bears are too many](https://text.npr.org/1192258255)
@@ -19,6 +20,7 @@
 * [2023-08-05, 14:36:45](https://news.ycombinator.com/item?id=37012415) - [Being ‘Too Busy’ Means Your Personal Strategy Sucks](https://rogermartin.medium.com/being-too-busy-means-your-personal-strategy-sucks-8f24b9327179)
 * [2023-08-05, 14:29:45](https://news.ycombinator.com/item?id=37012347) - [The Dome: A simple violation of determinism in Newtonian mechanics (2005)](https://sites.pitt.edu/~jdnorton/Goodies/Dome/)
 * [2023-08-05, 14:29:45](https://news.ycombinator.com/item?id=37012347) - [Norton’s Dome: A simple violation of determinism in Newtonian mechanics](https://johncarlosbaez.wordpress.com/2023/08/05/nortons-dome/)
+* [2023-08-05, 14:14:42](https://news.ycombinator.com/item?id=37012203) - [HP uses a sticker to hide the USB port of a printer](https://haunted.computer/@netspooky/110832978569741892)
 * [2023-08-05, 14:12:39](https://news.ycombinator.com/item?id=37012185) - [Mortality Patterns for Patients Hospitalized During National Cardiology Meetings](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314435/)
 * [2023-08-05, 14:06:40](https://news.ycombinator.com/item?id=37012138) - [Spyware maker LetMeSpy shuts down after hacker deletes server data](https://techcrunch.com/2023/08/05/letmespy-spyware-shuts-down-wiped-server/)
 * [2023-08-05, 14:05:09](https://news.ycombinator.com/item?id=37012127) - [Wells Fargo customers scramble after deposits disappear from their accounts](https://www.nbcnews.com/business/business-news/wells-fargo-deposit-missing-outage-what-happened-rcna98201)

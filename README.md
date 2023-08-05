@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-05, 17:03:52](https://news.ycombinator.com/item?id=37014097) - [Drug experts say alcohol worse than crack, heroin](https://www.reuters.com/article/uk-drugs-alcohol-idUKTRE6A000Y20101101)
+* [2023-08-05, 16:57:31](https://news.ycombinator.com/item?id=37014019) - [Immune cells fighting cancer get exhausted within hours of encountering tumors](https://theconversation.com/immune-cells-that-fight-cancer-become-exhausted-within-hours-of-first-encountering-tumors-new-research-210947)
 * [2023-08-05, 16:47:54](https://news.ycombinator.com/item?id=37013887) - [Vim's Creator Bram Moolenaar Dies at Age 62 – Slashdot](https://news.slashdot.org/story/23/08/05/1632219/vims-creator-bram-moolenaar-dies-at-age-62)
-* [2023-08-05, 16:20:08](https://news.ycombinator.com/item?id=37013549) - [Fatal grizzly attack renews debate over how many bears are too many](https://text.npr.org/1192258255)
 * [2023-08-05, 16:07:40](https://news.ycombinator.com/item?id=37013396) - [Just Normal Web Things](https://heather-buchel.com/blog/2023/07/just-normal-web-things/)
 * [2023-08-05, 16:01:11](https://news.ycombinator.com/item?id=37013320) - [Pirate Site Not Impressed by Global DNS Blocking Order](https://torrentfreak.com/pirate-site-not-impressed-by-global-dns-blocking-order-230803/)
 * [2023-08-05, 15:49:50](https://news.ycombinator.com/item?id=37013197) - [Concrete, asphalt and urban heat islands add to the misery of heat waves](https://www.reuters.com/graphics/CLIMATE-CHANGE/URBAN-HEAT/zgpormdkevd/)
@@ -10,6 +9,7 @@
 * [2023-08-05, 15:30:32](https://news.ycombinator.com/item?id=37012995) - [Disney discontinues DVD and Bluray production in Australia](https://www.whathifi.com/news/disney-discontinues-dvd-and-blu-ray-production-in-australia-effective-immediately)
 * [2023-08-05, 14:44:24](https://news.ycombinator.com/item?id=37012501) - [The Myth of AI Omniscience: AI's Epistemological Limits](https://cpwalker.substack.com/p/the-myth-of-ai-omniscience-ais-epistemological)
 * [2023-08-05, 14:29:45](https://news.ycombinator.com/item?id=37012347) - [The Dome: A simple violation of determinism in Newtonian mechanics (2005)](https://sites.pitt.edu/~jdnorton/Goodies/Dome/)
+* [2023-08-05, 14:14:42](https://news.ycombinator.com/item?id=37012203) - [HP uses a sticker to hide the USB port of a printer](https://haunted.computer/@netspooky/110832978569741892)
 * [2023-08-05, 14:12:39](https://news.ycombinator.com/item?id=37012185) - [Mortality patterns for patients hospitalized during national cardiology meetings](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314435/)
 * [2023-08-05, 13:39:43](https://news.ycombinator.com/item?id=37011905) - [Use of HD and DD drives, diskettes (2011)](http://www.retrotechnology.com/herbs_stuff/guzis.html)
 * [2023-08-05, 12:27:14](https://news.ycombinator.com/item?id=37011349) - [Will Browsers Be Required by Law to Stop You from Visiting Infringing Sites?](https://www.techdirt.com/2023/08/04/will-browsers-be-required-by-law-to-stop-you-from-visiting-infringing-sites/)
