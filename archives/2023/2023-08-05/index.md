@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-05](index.md)
 
+* [2023-08-05, 12:26:44](https://news.ycombinator.com/item?id=37011346) - [Green vs. Brown Programming Languages](https://earthly.dev/blog/brown-green-language/)
+* [2023-08-05, 12:23:27](https://news.ycombinator.com/item?id=37011324) - [Bram Moolenaar Passed Away](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)
 * [2023-08-05, 10:52:47](https://news.ycombinator.com/item?id=37010808) - [Grappling with Climate Change, Overtourism, Italy Is Betting Big on Train Travel](https://www.smithsonianmag.com/smart-news/italy-tourist-trains-180982657/)
 * [2023-08-05, 10:49:21](https://news.ycombinator.com/item?id=37010786) - [Intel x86 Documentation Has More Pages Than The 6502 Has Transistors (2013)](http://www.righto.com/2013/09/intel-x86-documentation-has-more-pages.html)
 * [2023-08-05, 10:31:07](https://news.ycombinator.com/item?id=37010709) - [He Dropped Out to Become a Poet. Now He’s Won a Fields Medal (2022)](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/#repost)
