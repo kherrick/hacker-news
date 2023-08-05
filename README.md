@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-05, 01:35:36](https://news.ycombinator.com/item?id=37008093) - [Digitization of “The Most Beautiful of All Printed Books,” the Kelmscott Chaucer](https://www.openculture.com/2023/08/behold-a-digitization-of-the-most-beautiful-of-all-printed-books-the-kelmscott-chaucer.html)
 * [2023-08-04, 23:34:08](https://news.ycombinator.com/item?id=37007236) - [Math Exposition on YouTube](https://dustingmixon.wordpress.com/2023/08/04/math-exposition-on-youtube/)
 * [2023-08-04, 22:24:46](https://news.ycombinator.com/item?id=37006705) - [Pay no attention to the USB port behind the “no USB” sticker](https://www.theverge.com/2023/8/4/23820710/pay-no-attention-to-the-usb-port-behind-the-no-usb-sticker)
 * [2023-08-04, 21:37:09](https://news.ycombinator.com/item?id=37006224) - [Non-determinism in GPT-4 is caused by Sparse MoE](https://152334H.github.io/blog/non-determinism-in-gpt-4/)
@@ -24,7 +25,6 @@
 * [2023-08-04, 13:08:51](https://news.ycombinator.com/item?id=36999463) - [85-Byte Snake Game](https://github.com/donno2048/snake)
 * [2023-08-04, 01:15:32](https://news.ycombinator.com/item?id=36994214) - [Successful room temperature ambient-pressure magnetic levitation of LK-99](https://arxiv.org/abs/2308.01516)
 * [2023-08-03, 21:28:51](https://news.ycombinator.com/item?id=36992222) - [Random Testing of WebAssembly Implementations Using Semantically Valid Programs](https://www.flux.utah.edu/paper/watson-thesis)
-* [2023-08-03, 17:37:15](https://news.ycombinator.com/item?id=36989066) - [Venus flytraps count electrical impulses to induce the digestive process (2016)](https://www.theatlantic.com/science/archive/2016/01/the-venus-fly-trap-counts-the-struggles-of-its-prey/424782/)
 * [2023-08-03, 16:25:34](https://news.ycombinator.com/item?id=36988012) - [Overtone – programmable, live music in Clojure](https://overtone.github.io)
 * [2023-08-03, 16:15:11](https://news.ycombinator.com/item?id=36987875) - [The Persistence of Prog Rock (2017)](https://www.newyorker.com/magazine/2017/06/19/the-persistence-of-prog-rock)
 * [2023-08-03, 15:10:23](https://news.ycombinator.com/item?id=36986981) - [Making peer-to-peer multiplayer seamless with Godot](https://www.rafa.ee/articles/godot-peer-to-peer-multiplayer/)
