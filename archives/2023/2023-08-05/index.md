@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-05](index.md)
 
+* [2023-08-05, 17:39:01](https://news.ycombinator.com/item?id=37014506) - [A close look at the 8086 processor's bus hold circuitry](http://www.righto.com/2023/08/intel-8086-bus-hold.html)
 * [2023-08-05, 17:03:52](https://news.ycombinator.com/item?id=37014097) - [Drug experts say alcohol worse than crack, heroin](https://www.reuters.com/article/uk-drugs-alcohol-idUKTRE6A000Y20101101)
 * [2023-08-05, 16:57:31](https://news.ycombinator.com/item?id=37014019) - [Immune cells fighting cancer get exhausted within hours of encountering tumors](https://theconversation.com/immune-cells-that-fight-cancer-become-exhausted-within-hours-of-first-encountering-tumors-new-research-210947)
 * [2023-08-05, 16:47:54](https://news.ycombinator.com/item?id=37013887) - [Vim's Creator Bram Moolenaar Dies at Age 62 – Slashdot](https://news.slashdot.org/story/23/08/05/1632219/vims-creator-bram-moolenaar-dies-at-age-62)
