@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-08-05, 05:30:18",
+      "https://news.ycombinator.com/item?id=37009272"
+    ],
+    [
+      "MatX: Faster Chips for LLMs",
+      "https://matx.com"
+    ]
+  ],
+  [
+    [
       "2023-08-05, 03:29:37",
       "https://news.ycombinator.com/item?id=37008724"
     ],
     [
       "NASA has reestablished full communications with Voyager 2",
       "https://www.jpl.nasa.gov/news/nasa-mission-update-voyager-2-communications-pause"
-    ]
-  ],
-  [
-    [
-      "2023-08-05, 02:57:17",
-      "https://news.ycombinator.com/item?id=37008532"
-    ],
-    [
-      "Deploy and fine-tune large language models on K8s",
-      "https://github.com/substratusai/substratus"
     ]
   ],
   [
@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2023-08-04, 19:48:49",
+      "https://news.ycombinator.com/item?id=37004949"
+    ],
+    [
+      "New studies gauge impact and cause of beech leaf disease",
+      "https://www.science.org/content/article/beech-leaf-disease-ravaging-north-american-trees"
+    ]
+  ],
+  [
+    [
       "2023-08-04, 19:29:41",
       "https://news.ycombinator.com/item?id=37004720"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2023-08-04, 17:00:29",
-      "https://news.ycombinator.com/item?id=37002674"
-    ],
-    [
-      "Kodable (YC IK12) is hiring a full stack engineer to help teach kids to code",
-      "https://www.indeed.com/job/full-stack-engineer-acbcc196f22f170d"
-    ]
-  ],
-  [
-    [
       "2023-08-04, 16:02:40",
       "https://news.ycombinator.com/item?id=37001837"
     ],
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2023-08-04, 14:46:36",
-      "https://news.ycombinator.com/item?id=37000788"
+      "2023-08-04, 14:30:44",
+      "https://news.ycombinator.com/item?id=37000594"
     ],
     [
-      "Death Squared: The explosive growth and demise of a mouse population (1973) [pdf]",
-      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1644264/pdf/procrsmed00338-0007.pdf"
+      "ImPlot: Interactive plotting library, ImGui style",
+      "https://github.com/epezent/implot"
     ]
   ],
   [
