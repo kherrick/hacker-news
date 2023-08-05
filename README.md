@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-05, 16:47:54](https://news.ycombinator.com/item?id=37013887) - [Vim's Creator Bram Moolenaar Dies at Age 62 – Slashdot](https://news.slashdot.org/story/23/08/05/1632219/vims-creator-bram-moolenaar-dies-at-age-62)
 * [2023-08-05, 16:20:08](https://news.ycombinator.com/item?id=37013549) - [Fatal grizzly attack renews debate over how many bears are too many](https://text.npr.org/1192258255)
 * [2023-08-05, 16:07:40](https://news.ycombinator.com/item?id=37013396) - [Just Normal Web Things](https://heather-buchel.com/blog/2023/07/just-normal-web-things/)
 * [2023-08-05, 16:01:11](https://news.ycombinator.com/item?id=37013320) - [Pirate Site Not Impressed by Global DNS Blocking Order](https://torrentfreak.com/pirate-site-not-impressed-by-global-dns-blocking-order-230803/)
@@ -7,7 +8,6 @@
 * [2023-08-05, 15:41:21](https://news.ycombinator.com/item?id=37013114) - [Cargo Cult AI](https://queue.acm.org/detail.cfm?id=3595860)
 * [2023-08-05, 15:30:32](https://news.ycombinator.com/item?id=37012995) - [Disney discontinues DVD and Bluray production in Australia](https://www.whathifi.com/news/disney-discontinues-dvd-and-blu-ray-production-in-australia-effective-immediately)
 * [2023-08-05, 14:44:24](https://news.ycombinator.com/item?id=37012501) - [The Myth of AI Omniscience: AI's Epistemological Limits](https://cpwalker.substack.com/p/the-myth-of-ai-omniscience-ais-epistemological)
-* [2023-08-05, 14:36:45](https://news.ycombinator.com/item?id=37012415) - [Being ‘Too Busy’ Means Your Personal Strategy Sucks](https://rogermartin.medium.com/being-too-busy-means-your-personal-strategy-sucks-8f24b9327179)
 * [2023-08-05, 14:29:45](https://news.ycombinator.com/item?id=37012347) - [The Dome: A simple violation of determinism in Newtonian mechanics (2005)](https://sites.pitt.edu/~jdnorton/Goodies/Dome/)
 * [2023-08-05, 14:12:39](https://news.ycombinator.com/item?id=37012185) - [Mortality patterns for patients hospitalized during national cardiology meetings](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314435/)
 * [2023-08-05, 13:39:43](https://news.ycombinator.com/item?id=37011905) - [Use of HD and DD drives, diskettes (2011)](http://www.retrotechnology.com/herbs_stuff/guzis.html)
