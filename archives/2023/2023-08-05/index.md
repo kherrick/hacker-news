@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-05](index.md)
 
+* [2023-08-05, 19:05:22](https://news.ycombinator.com/item?id=37015290) - [IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face?sf180690117=1)
 * [2023-08-05, 19:00:39](https://news.ycombinator.com/item?id=37015253) - [I do not use a debugger](https://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger/)
 * [2023-08-05, 18:55:03](https://news.ycombinator.com/item?id=37015208) - [We’re closer to ‘engineering’ blood vessels](https://pursuit.unimelb.edu.au/articles/we-re-closer-to-engineering-blood-vessels)
 * [2023-08-05, 18:41:27](https://news.ycombinator.com/item?id=37015118) - [Replacing the flyback transformer in an Apple Studio Display](https://www.riveducha.com/fix-apple-studio-display-flyback)
