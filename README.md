@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-05, 21:21:51](https://news.ycombinator.com/item?id=37016424) - [CEOs’ pay climbed before layoffs at tech giants like Alphabet and Microsoft](https://southernillinoisnow.com/2023/08/05/ceos-pay-climbed-before-layoffs-at-tech-giants-like-alphabet-and-microsoft-data-shows/)
 * [2023-08-05, 21:20:19](https://news.ycombinator.com/item?id=37016413) - [MK-1](https://mkone.ai/blog/introducing-mk1)
 * [2023-08-05, 19:36:29](https://news.ycombinator.com/item?id=37015585) - [nic.funet.fi: Serving freely distributable files with FTP since 1990](https://www.funet.fi/)
 * [2023-08-05, 19:05:22](https://news.ycombinator.com/item?id=37015290) - [IBM and NASA open-source largest geospatial AI foundation model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face?sf180690117=1)
@@ -9,7 +10,6 @@
 * [2023-08-05, 18:29:26](https://news.ycombinator.com/item?id=37015009) - [Satellite supergroup spots methane super-emitters](https://innovationorigins.com/en/satellite-supergroup-spots-methane-super-emitters-with-staggering-accuracy/)
 * [2023-08-05, 18:12:09](https://news.ycombinator.com/item?id=37014842) - [Speed Up C++ Compilation](https://devtalk.blender.org/t/speed-up-c-compilation/30508)
 * [2023-08-05, 18:03:18](https://news.ycombinator.com/item?id=37014758) - [Duck DNS](https://www.duckdns.org/)
-* [2023-08-05, 18:01:04](https://news.ycombinator.com/item?id=37014738) - [The Earthsea Trilogy (2003)](https://dannyreviews.com/h/Earthsea.html)
 * [2023-08-05, 17:39:01](https://news.ycombinator.com/item?id=37014506) - [A close look at the 8086 processor's bus hold circuitry](http://www.righto.com/2023/08/intel-8086-bus-hold.html)
 * [2023-08-05, 16:33:56](https://news.ycombinator.com/item?id=37013704) - [New acoustic attack steals data from keystrokes with 95% accuracy](https://www.bleepingcomputer.com/news/security/new-acoustic-attack-steals-data-from-keystrokes-with-95-percent-accuracy/)
 * [2023-08-05, 16:07:40](https://news.ycombinator.com/item?id=37013396) - [Just normal web things](https://heather-buchel.com/blog/2023/07/just-normal-web-things/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-05](index.md)
 
+* [2023-08-05, 21:21:51](https://news.ycombinator.com/item?id=37016424) - [CEOs’ pay climbed before layoffs at tech giants like Alphabet and Microsoft](https://southernillinoisnow.com/2023/08/05/ceos-pay-climbed-before-layoffs-at-tech-giants-like-alphabet-and-microsoft-data-shows/)
 * [2023-08-05, 21:20:19](https://news.ycombinator.com/item?id=37016413) - [MK-1](https://mkone.ai/blog/introducing-mk1)
 * [2023-08-05, 20:19:22](https://news.ycombinator.com/item?id=37015928) - [A practical way to detect cargo-cult thinking](https://movingthelimit.com/a-practical-way-to-detect-cargo-cult-thinking/)
 * [2023-08-05, 19:36:29](https://news.ycombinator.com/item?id=37015585) - [nic.funet.fi: Serving freely distributable files with FTP since 1990](https://www.funet.fi/)
