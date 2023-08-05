@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-05](index.md)
 
 * [2023-08-05, 16:47:54](https://news.ycombinator.com/item?id=37013887) - [Vim's Creator Bram Moolenaar Dies at Age 62 – Slashdot](https://news.slashdot.org/story/23/08/05/1632219/vims-creator-bram-moolenaar-dies-at-age-62)
+* [2023-08-05, 16:45:43](https://news.ycombinator.com/item?id=37013848) - [San Francisco Landlords may lose everything [video][40 mins]](https://www.youtube.com/watch?v=ELGhAuiOBXU)
 * [2023-08-05, 16:20:08](https://news.ycombinator.com/item?id=37013549) - [Fatal grizzly attack renews debate over how many bears are too many](https://text.npr.org/1192258255)
 * [2023-08-05, 16:07:40](https://news.ycombinator.com/item?id=37013396) - [Just Normal Web Things](https://heather-buchel.com/blog/2023/07/just-normal-web-things/)
 * [2023-08-05, 16:06:01](https://news.ycombinator.com/item?id=37013381) - [Remote Workers Are Increasingly Less Productive, Anxious, Depressed and Lonely](https://www.deconstructoroffun.com/blog/the-remote-work-experiment-is-over)
