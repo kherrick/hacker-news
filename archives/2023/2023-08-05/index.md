@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-05](index.md)
 
 * [2023-08-05, 14:54:35](https://news.ycombinator.com/item?id=37012611) - [Immersed Announces 'Visor' Compact Productivity Headset with 4K OLED Displays](https://www.uploadvr.com/immersed-visor-4k-oled-microdisplay-productivity-headset/)
+* [2023-08-05, 14:44:24](https://news.ycombinator.com/item?id=37012501) - [The Myth of AI Omniscience](https://cpwalker.substack.com/p/the-myth-of-ai-omniscience-ais-epistemological)
 * [2023-08-05, 14:29:45](https://news.ycombinator.com/item?id=37012347) - [Norton’s Dome: A simple violation of determinism in Newtonian mechanics](https://johncarlosbaez.wordpress.com/2023/08/05/nortons-dome/)
 * [2023-08-05, 14:12:39](https://news.ycombinator.com/item?id=37012185) - [Mortality Patterns for Patients Hospitalized During National Cardiology Meetings](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314435/)
 * [2023-08-05, 14:06:40](https://news.ycombinator.com/item?id=37012138) - [Spyware maker LetMeSpy shuts down after hacker deletes server data](https://techcrunch.com/2023/08/05/letmespy-spyware-shuts-down-wiped-server/)
