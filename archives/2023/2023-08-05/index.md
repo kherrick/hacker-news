@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-05](index.md)
 
+* [2023-08-05, 14:12:39](https://news.ycombinator.com/item?id=37012185) - [Mortality Patterns for Patients Hospitalized During National Cardiology Meetings](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314435/)
+* [2023-08-05, 14:06:40](https://news.ycombinator.com/item?id=37012138) - [Spyware maker LetMeSpy shuts down after hacker deletes server data](https://techcrunch.com/2023/08/05/letmespy-spyware-shuts-down-wiped-server/)
 * [2023-08-05, 14:05:09](https://news.ycombinator.com/item?id=37012127) - [Wells Fargo customers scramble after deposits disappear from their accounts](https://www.nbcnews.com/business/business-news/wells-fargo-deposit-missing-outage-what-happened-rcna98201)
 * [2023-08-05, 13:17:01](https://news.ycombinator.com/item?id=37011717) - [EPA Approved a Chevron Fuel Ingredient That Has a Lifetime Cancer Risk](https://science.slashdot.org/story/23/08/05/0139219/epa-approved-a-chevron-fuel-ingredient-that-has-a-lifetime-cancer-risk)
 * [2023-08-05, 13:14:11](https://news.ycombinator.com/item?id=37011691) - [Excessive meat and dairy consumption signficant contributor to global warming](https://www.nature.com/articles/s43016-023-00795-w)

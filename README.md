@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-05, 14:12:39](https://news.ycombinator.com/item?id=37012185) - [Mortality Patterns for Patients Hospitalized During National Cardiology Meetings](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314435/)
+* [2023-08-05, 14:06:40](https://news.ycombinator.com/item?id=37012138) - [Spyware maker LetMeSpy shuts down after hacker deletes server data](https://techcrunch.com/2023/08/05/letmespy-spyware-shuts-down-wiped-server/)
 * [2023-08-05, 14:05:09](https://news.ycombinator.com/item?id=37012127) - [Wells Fargo customers scramble after deposits disappear from their accounts](https://www.nbcnews.com/business/business-news/wells-fargo-deposit-missing-outage-what-happened-rcna98201)
 * [2023-08-05, 13:17:01](https://news.ycombinator.com/item?id=37011717) - [EPA Approved a Chevron Fuel Ingredient That Has a Lifetime Cancer Risk](https://science.slashdot.org/story/23/08/05/0139219/epa-approved-a-chevron-fuel-ingredient-that-has-a-lifetime-cancer-risk)
 * [2023-08-05, 13:04:36](https://news.ycombinator.com/item?id=37011624) - [They Didn’t Ask to Go Viral. Posting on Social Media Without Consent Is Immoral](https://www.wired.com/story/social-media-privacy-consent/)
@@ -10,7 +12,6 @@
 * [2023-08-05, 12:19:29](https://news.ycombinator.com/item?id=37011291) - [Espresso Coffee Mitigates the Aggregation of Alzheimer′s Associated Tau Protein](https://pubs.acs.org/doi/10.1021/acs.jafc.3c01072)
 * [2023-08-05, 10:49:21](https://news.ycombinator.com/item?id=37010786) - [Intel x86 Documentation Has More Pages Than The 6502 Has Transistors (2013)](http://www.righto.com/2013/09/intel-x86-documentation-has-more-pages.html)
 * [2023-08-05, 10:31:07](https://news.ycombinator.com/item?id=37010709) - [He Dropped Out to Become a Poet. Now He’s Won a Fields Medal (2022)](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/#repost)
-* [2023-08-05, 09:55:57](https://news.ycombinator.com/item?id=37010539) - [Flux Pinning in sample of LK-99](https://twitter.com/andercot/status/1687740396691185664)
 * [2023-08-05, 09:37:09](https://news.ycombinator.com/item?id=37010449) - [GitHub Actions and Vanity Metrics](https://jamesconroyfinn.com/github-actions-and-vanity-metrics)
 * [2023-08-05, 08:45:42](https://news.ycombinator.com/item?id=37010196) - [WASI: WebAssembly System Interface](https://github.com/WebAssembly/WASI)
 * [2023-08-05, 07:39:42](https://news.ycombinator.com/item?id=37009879) - [Lazygit Turns 5: Musings on Git, TUIs, and Open Source](https://jesseduffield.com/Lazygit-5-Years-On/)
@@ -20,7 +21,6 @@
 * [2023-08-05, 05:35:49](https://news.ycombinator.com/item?id=37009296) - [Eventual Business Consistency](https://tidyfirst.substack.com/p/eventual-business-consistency)
 * [2023-08-05, 04:28:07](https://news.ycombinator.com/item?id=37009027) - [Carbon–cement supercapacitors as a scalable bulk energy storage solution](https://www.pnas.org/doi/10.1073/pnas.2304318120)
 * [2023-08-05, 03:29:37](https://news.ycombinator.com/item?id=37008724) - [NASA has reestablished full communications with Voyager 2](https://www.jpl.nasa.gov/news/nasa-mission-update-voyager-2-communications-pause)
-* [2023-08-05, 01:35:36](https://news.ycombinator.com/item?id=37008093) - [“The most beautiful of all printed books,” the Kelmscott Chaucer](https://www.openculture.com/2023/08/behold-a-digitization-of-the-most-beautiful-of-all-printed-books-the-kelmscott-chaucer.html)
 * [2023-08-05, 00:53:25](https://news.ycombinator.com/item?id=37007809) - [Double neural bypass restores movement, sense of touch after paralysis](https://feinstein.northwell.edu/news/the-latest/bioelectronic-medicine-researchers-restore-feeling-lasting-movement-in-man-living-with-quadriplegia)
 * [2023-08-04, 23:34:08](https://news.ycombinator.com/item?id=37007236) - [Math Exposition on YouTube](https://dustingmixon.wordpress.com/2023/08/04/math-exposition-on-youtube/)
 * [2023-08-04, 21:37:09](https://news.ycombinator.com/item?id=37006224) - [Non-determinism in GPT-4 is caused by Sparse MoE](https://152334H.github.io/blog/non-determinism-in-gpt-4/)
