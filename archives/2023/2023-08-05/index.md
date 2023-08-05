@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-05](index.md)
 
+* [2023-08-05, 18:41:27](https://news.ycombinator.com/item?id=37015118) - [Replacing the flyback transformer in an Apple Studio Display](https://www.riveducha.com/fix-apple-studio-display-flyback)
 * [2023-08-05, 18:29:26](https://news.ycombinator.com/item?id=37015009) - [Satellite supergroup spots methane super-emitters with “staggering” accuracy](https://innovationorigins.com/en/satellite-supergroup-spots-methane-super-emitters-with-staggering-accuracy/)
 * [2023-08-05, 18:27:27](https://news.ycombinator.com/item?id=37014986) - [Is “Do the Needful” Correct?](https://www.grammarly.com/blog/do-the-needful/)
 * [2023-08-05, 18:12:09](https://news.ycombinator.com/item?id=37014842) - [Speed Up C++ Compilation](https://devtalk.blender.org/t/speed-up-c-compilation/30508)
