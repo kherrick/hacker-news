@@ -6,10 +6,12 @@
 
 * [2023-08-05, 13:17:01](https://news.ycombinator.com/item?id=37011717) - [EPA Approved a Chevron Fuel Ingredient That Has a Lifetime Cancer Risk](https://science.slashdot.org/story/23/08/05/0139219/epa-approved-a-chevron-fuel-ingredient-that-has-a-lifetime-cancer-risk)
 * [2023-08-05, 13:14:11](https://news.ycombinator.com/item?id=37011691) - [Excessive meat and dairy consumption signficant contributor to global warming](https://www.nature.com/articles/s43016-023-00795-w)
+* [2023-08-05, 13:04:36](https://news.ycombinator.com/item?id=37011624) - [They Didn’t Ask to Go Viral. Posting on Social Media Without Consent Is Immoral](https://www.wired.com/story/social-media-privacy-consent/)
 * [2023-08-05, 12:27:14](https://news.ycombinator.com/item?id=37011349) - [Will Browsers Be Required by Law to Stop You from Visiting Infringing Sites?](https://www.techdirt.com/2023/08/04/will-browsers-be-required-by-law-to-stop-you-from-visiting-infringing-sites/)
 * [2023-08-05, 12:26:44](https://news.ycombinator.com/item?id=37011346) - [Green vs. Brown Programming Languages](https://earthly.dev/blog/brown-green-language/)
 * [2023-08-05, 12:23:27](https://news.ycombinator.com/item?id=37011324) - [Bram Moolenaar Passed Away](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)
 * [2023-08-05, 12:19:38](https://news.ycombinator.com/item?id=37011292) - [Science Fiction vs. Science Fantasy](https://warfantasy.wordpress.com/2023/08/05/soft-science-fiction-or-science-fantasy/)
+* [2023-08-05, 12:19:29](https://news.ycombinator.com/item?id=37011291) - [Espresso Coffee Mitigates the Aggregation of Alzheimer′s Associated Tau Protein](https://pubs.acs.org/doi/10.1021/acs.jafc.3c01072)
 * [2023-08-05, 10:52:47](https://news.ycombinator.com/item?id=37010808) - [Grappling with Climate Change, Overtourism, Italy Is Betting Big on Train Travel](https://www.smithsonianmag.com/smart-news/italy-tourist-trains-180982657/)
 * [2023-08-05, 10:49:21](https://news.ycombinator.com/item?id=37010786) - [Intel x86 Documentation Has More Pages Than The 6502 Has Transistors (2013)](http://www.righto.com/2013/09/intel-x86-documentation-has-more-pages.html)
 * [2023-08-05, 10:31:07](https://news.ycombinator.com/item?id=37010709) - [He Dropped Out to Become a Poet. Now He’s Won a Fields Medal (2022)](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/#repost)
