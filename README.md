@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-05, 22:31:39](https://news.ycombinator.com/item?id=37016876) - [Jeremy Vaught spent 16 years to build @music on Twitter, then X took it away](https://syzito.xyz/@selzero/110837319716739179)
+* [2023-08-05, 21:23:35](https://news.ycombinator.com/item?id=37016431) - [Tim Hunkin (Secret Lives of Machines)](https://www.timhunkin.com/control/o_about_the_site.htm)
 * [2023-08-05, 21:21:51](https://news.ycombinator.com/item?id=37016424) - [CEOs’ pay climbed before layoffs at tech giants like Alphabet and Microsoft](https://southernillinoisnow.com/2023/08/05/ceos-pay-climbed-before-layoffs-at-tech-giants-like-alphabet-and-microsoft-data-shows/)
 * [2023-08-05, 21:20:19](https://news.ycombinator.com/item?id=37016413) - [MK-1](https://mkone.ai/blog/introducing-mk1)
 * [2023-08-05, 19:36:29](https://news.ycombinator.com/item?id=37015585) - [nic.funet.fi: Serving freely distributable files with FTP since 1990](https://www.funet.fi/)
@@ -19,8 +21,6 @@
 * [2023-08-05, 13:39:43](https://news.ycombinator.com/item?id=37011905) - [Use of HD and DD drives, diskettes (2011)](http://www.retrotechnology.com/herbs_stuff/guzis.html)
 * [2023-08-05, 12:26:44](https://news.ycombinator.com/item?id=37011346) - [Green vs. brown programming languages (2021)](https://earthly.dev/blog/brown-green-language/)
 * [2023-08-05, 12:23:27](https://news.ycombinator.com/item?id=37011324) - [Bram Moolenaar has died](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)
-* [2023-08-05, 10:49:21](https://news.ycombinator.com/item?id=37010786) - [Intel x86 documentation has more pages than the 6502 has transistors (2013)](http://www.righto.com/2013/09/intel-x86-documentation-has-more-pages.html)
-* [2023-08-05, 09:37:09](https://news.ycombinator.com/item?id=37010449) - [GitHub Actions and vanity metrics](https://jamesconroyfinn.com/github-actions-and-vanity-metrics)
 * [2023-08-05, 08:45:42](https://news.ycombinator.com/item?id=37010196) - [WASI: WebAssembly System Interface](https://github.com/WebAssembly/WASI)
 * [2023-08-05, 07:39:42](https://news.ycombinator.com/item?id=37009879) - [Lazygit Turns 5: Musings on Git, TUIs, and open source](https://jesseduffield.com/Lazygit-5-Years-On/)
 * [2023-08-05, 05:42:13](https://news.ycombinator.com/item?id=37009329) - [Try the last internet Kermit server](https://changelog.complete.org/archives/10555-try-the-last-internet-kermit-server)
