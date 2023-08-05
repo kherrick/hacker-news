@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-08-05](index.md)
 
+* [2023-08-05, 15:30:32](https://news.ycombinator.com/item?id=37012995) - [Disney discontinues DVD and Bluray production in Australia effective immediately](https://www.whathifi.com/news/disney-discontinues-dvd-and-blu-ray-production-in-australia-effective-immediately)
 * [2023-08-05, 14:54:35](https://news.ycombinator.com/item?id=37012611) - [Immersed Announces 'Visor' Compact Productivity Headset with 4K OLED Displays](https://www.uploadvr.com/immersed-visor-4k-oled-microdisplay-productivity-headset/)
 * [2023-08-05, 14:44:24](https://news.ycombinator.com/item?id=37012501) - [The Myth of AI Omniscience](https://cpwalker.substack.com/p/the-myth-of-ai-omniscience-ais-epistemological)
+* [2023-08-05, 14:36:45](https://news.ycombinator.com/item?id=37012415) - [Being ‘Too Busy’ Means Your Personal Strategy Sucks](https://rogermartin.medium.com/being-too-busy-means-your-personal-strategy-sucks-8f24b9327179)
+* [2023-08-05, 14:29:45](https://news.ycombinator.com/item?id=37012347) - [The Dome: A simple violation of determinism in Newtonian mechanics (2005)](https://sites.pitt.edu/~jdnorton/Goodies/Dome/)
 * [2023-08-05, 14:29:45](https://news.ycombinator.com/item?id=37012347) - [Norton’s Dome: A simple violation of determinism in Newtonian mechanics](https://johncarlosbaez.wordpress.com/2023/08/05/nortons-dome/)
 * [2023-08-05, 14:12:39](https://news.ycombinator.com/item?id=37012185) - [Mortality Patterns for Patients Hospitalized During National Cardiology Meetings](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314435/)
 * [2023-08-05, 14:06:40](https://news.ycombinator.com/item?id=37012138) - [Spyware maker LetMeSpy shuts down after hacker deletes server data](https://techcrunch.com/2023/08/05/letmespy-spyware-shuts-down-wiped-server/)
 * [2023-08-05, 14:05:09](https://news.ycombinator.com/item?id=37012127) - [Wells Fargo customers scramble after deposits disappear from their accounts](https://www.nbcnews.com/business/business-news/wells-fargo-deposit-missing-outage-what-happened-rcna98201)
+* [2023-08-05, 13:39:43](https://news.ycombinator.com/item?id=37011905) - [Use of HD and DD drives, diskettes (2011)](http://www.retrotechnology.com/herbs_stuff/guzis.html)
 * [2023-08-05, 13:17:01](https://news.ycombinator.com/item?id=37011717) - [EPA Approved a Chevron Fuel Ingredient That Has a Lifetime Cancer Risk](https://science.slashdot.org/story/23/08/05/0139219/epa-approved-a-chevron-fuel-ingredient-that-has-a-lifetime-cancer-risk)
 * [2023-08-05, 13:14:11](https://news.ycombinator.com/item?id=37011691) - [Excessive meat and dairy consumption signficant contributor to global warming](https://www.nature.com/articles/s43016-023-00795-w)
 * [2023-08-05, 13:04:36](https://news.ycombinator.com/item?id=37011624) - [They Didn’t Ask to Go Viral. Posting on Social Media Without Consent Is Immoral](https://www.wired.com/story/social-media-privacy-consent/)
