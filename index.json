@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=37008093"
     ],
     [
-      "Digitization of “The Most Beautiful of All Printed Books,” the Kelmscott Chaucer",
+      "“The most beautiful of all printed books,” the Kelmscott Chaucer",
       "https://www.openculture.com/2023/08/behold-a-digitization-of-the-most-beautiful-of-all-printed-books-the-kelmscott-chaucer.html"
     ]
   ],
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2023-08-04, 16:02:40",
-      "https://news.ycombinator.com/item?id=37001837"
-    ],
-    [
-      "LK-99 is an online sensation – but replication efforts fall short",
-      "https://www.nature.com/articles/d41586-023-02481-0"
-    ]
-  ],
-  [
-    [
       "2023-08-04, 15:29:41",
       "https://news.ycombinator.com/item?id=37001369"
     ],
@@ -227,6 +217,16 @@
     [
       "(next Rich)",
       "https://clojure.org/news/2023/08/04/next-rich"
+    ]
+  ],
+  [
+    [
+      "2023-08-04, 11:19:44",
+      "https://news.ycombinator.com/item?id=36998366"
+    ],
+    [
+      "Show HN: Custom Haskell handlers for Nginx",
+      "https://github.com/lyokha/nginx-haskell-module"
     ]
   ],
   [
