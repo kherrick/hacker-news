@@ -2,6 +2,7 @@
 
 * [2023-08-05, 22:36:22](https://news.ycombinator.com/item?id=37016910) - [Searching for Paul C. Pratt](https://www.bigmessowires.com/2023/08/05/searching-for-paul-c-pratt/)
 * [2023-08-05, 22:31:39](https://news.ycombinator.com/item?id=37016876) - [Jeremy Vaught spent 16 years to build @music on Twitter, then X took it away](https://syzito.xyz/@selzero/110837319716739179)
+* [2023-08-05, 22:25:33](https://news.ycombinator.com/item?id=37016842) - [E-scooter startup Spin leaves Seattle, leaving behind RasPi 4s in their scooters](https://abolish.social/@_/110828271798284741)
 * [2023-08-05, 21:23:35](https://news.ycombinator.com/item?id=37016431) - [Tim Hunkin (Secret Lives of Machines)](https://www.timhunkin.com/control/o_about_the_site.htm)
 * [2023-08-05, 21:21:51](https://news.ycombinator.com/item?id=37016424) - [CEOs’ pay climbed before layoffs at tech giants like Alphabet and Microsoft](https://southernillinoisnow.com/2023/08/05/ceos-pay-climbed-before-layoffs-at-tech-giants-like-alphabet-and-microsoft-data-shows/)
 * [2023-08-05, 21:20:19](https://news.ycombinator.com/item?id=37016413) - [MK-1](https://mkone.ai/blog/introducing-mk1)
@@ -18,7 +19,6 @@
 * [2023-08-05, 16:33:56](https://news.ycombinator.com/item?id=37013704) - [New acoustic attack steals data from keystrokes with 95% accuracy](https://www.bleepingcomputer.com/news/security/new-acoustic-attack-steals-data-from-keystrokes-with-95-percent-accuracy/)
 * [2023-08-05, 16:07:40](https://news.ycombinator.com/item?id=37013396) - [Just normal web things](https://heather-buchel.com/blog/2023/07/just-normal-web-things/)
 * [2023-08-05, 16:01:11](https://news.ycombinator.com/item?id=37013320) - [Pirate site not impressed by Global DNS blocking order](https://torrentfreak.com/pirate-site-not-impressed-by-global-dns-blocking-order-230803/)
-* [2023-08-05, 14:12:39](https://news.ycombinator.com/item?id=37012185) - [Mortality patterns for patients hospitalized during cardiology meetings (2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314435/)
 * [2023-08-05, 13:56:33](https://news.ycombinator.com/item?id=37012052) - [Checking in on troubles with dark matter](https://tritonstation.com/2023/06/27/checking-in-on-troubles-with-dark-matter/)
 * [2023-08-05, 12:23:27](https://news.ycombinator.com/item?id=37011324) - [Bram Moolenaar has died](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)
 * [2023-08-05, 08:45:42](https://news.ycombinator.com/item?id=37010196) - [WASI: WebAssembly System Interface](https://github.com/WebAssembly/WASI)
