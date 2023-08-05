@@ -9,7 +9,6 @@
 * [2023-08-05, 15:30:32](https://news.ycombinator.com/item?id=37012995) - [Disney discontinues DVD and Bluray production in Australia](https://www.whathifi.com/news/disney-discontinues-dvd-and-blu-ray-production-in-australia-effective-immediately)
 * [2023-08-05, 14:44:24](https://news.ycombinator.com/item?id=37012501) - [The Myth of AI Omniscience: AI's Epistemological Limits](https://cpwalker.substack.com/p/the-myth-of-ai-omniscience-ais-epistemological)
 * [2023-08-05, 14:29:45](https://news.ycombinator.com/item?id=37012347) - [The Dome: A simple violation of determinism in Newtonian mechanics (2005)](https://sites.pitt.edu/~jdnorton/Goodies/Dome/)
-* [2023-08-05, 14:14:42](https://news.ycombinator.com/item?id=37012203) - [HP uses a sticker to hide the USB port of a printer](https://haunted.computer/@netspooky/110832978569741892)
 * [2023-08-05, 14:12:39](https://news.ycombinator.com/item?id=37012185) - [Mortality patterns for patients hospitalized during national cardiology meetings](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314435/)
 * [2023-08-05, 13:39:43](https://news.ycombinator.com/item?id=37011905) - [Use of HD and DD drives, diskettes (2011)](http://www.retrotechnology.com/herbs_stuff/guzis.html)
 * [2023-08-05, 12:27:14](https://news.ycombinator.com/item?id=37011349) - [Will Browsers Be Required by Law to Stop You from Visiting Infringing Sites?](https://www.techdirt.com/2023/08/04/will-browsers-be-required-by-law-to-stop-you-from-visiting-infringing-sites/)
@@ -28,6 +27,7 @@
 * [2023-08-04, 19:08:26](https://news.ycombinator.com/item?id=37004418) - [Aromas while sleeping spark cognitive increase: study](https://www.sciencedaily.com/releases/2023/08/230801131700.htm)
 * [2023-08-04, 11:19:44](https://news.ycombinator.com/item?id=36998366) - [Show HN: Custom Haskell handlers for Nginx](https://github.com/lyokha/nginx-haskell-module)
 * [2023-08-04, 02:35:52](https://news.ycombinator.com/item?id=36994794) - [Beavers are helping restore wetlands and create buffers against wildfires](https://wusfnews.wusf.usf.edu/2023-07-31/how-beavers-are-helping-restore-wetlands-and-create-buffers-against-wildfires)
+* [2023-08-04, 00:50:46](https://news.ycombinator.com/item?id=36994065) - [Decoding Base16 Sequences Quickly](https://lemire.me/blog/2023/07/27/decoding-base16-sequences-quickly/)
 * [2023-08-03, 23:21:39](https://news.ycombinator.com/item?id=36993411) - [Supercapacitor Is Made from Concrete and Carbon](https://spectrum.ieee.org/supercapacitor)
 * [2023-08-03, 17:54:11](https://news.ycombinator.com/item?id=36989307) - [Intel Arc A580 could be the next great affordable GPU](https://www.techradar.com/computing/gpu/watch-out-amd-intel-arc-a580-could-be-the-next-great-affordable-gpu)
 
