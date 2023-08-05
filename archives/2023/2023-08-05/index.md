@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-05](index.md)
 
+* [2023-08-05, 13:14:11](https://news.ycombinator.com/item?id=37011691) - [Excessive meat and dairy consumption signficant contributor to global warming](https://www.nature.com/articles/s43016-023-00795-w)
 * [2023-08-05, 12:27:14](https://news.ycombinator.com/item?id=37011349) - [Will Browsers Be Required by Law to Stop You from Visiting Infringing Sites?](https://www.techdirt.com/2023/08/04/will-browsers-be-required-by-law-to-stop-you-from-visiting-infringing-sites/)
 * [2023-08-05, 12:26:44](https://news.ycombinator.com/item?id=37011346) - [Green vs. Brown Programming Languages](https://earthly.dev/blog/brown-green-language/)
 * [2023-08-05, 12:23:27](https://news.ycombinator.com/item?id=37011324) - [Bram Moolenaar Passed Away](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)
@@ -22,6 +23,7 @@
 * [2023-08-05, 05:42:13](https://news.ycombinator.com/item?id=37009329) - [Try the Last Internet Kermit Server](https://changelog.complete.org/archives/10555-try-the-last-internet-kermit-server)
 * [2023-08-05, 05:35:49](https://news.ycombinator.com/item?id=37009296) - [Eventual Business Consistency](https://tidyfirst.substack.com/p/eventual-business-consistency)
 * [2023-08-05, 05:30:18](https://news.ycombinator.com/item?id=37009272) - [MatX: Faster Chips for LLMs](https://matx.com)
+* [2023-08-05, 04:28:07](https://news.ycombinator.com/item?id=37009027) - [Carbon–cement supercapacitors as a scalable bulk energy storage solution](https://www.pnas.org/doi/10.1073/pnas.2304318120)
 * [2023-08-05, 03:29:37](https://news.ycombinator.com/item?id=37008724) - [NASA has reestablished full communications with Voyager 2](https://www.jpl.nasa.gov/news/nasa-mission-update-voyager-2-communications-pause)
 * [2023-08-05, 02:57:17](https://news.ycombinator.com/item?id=37008532) - [Deploy and fine-tune large language models on K8s](https://github.com/substratusai/substratus)
 * [2023-08-05, 01:35:36](https://news.ycombinator.com/item?id=37008093) - [Digitization of “The Most Beautiful of All Printed Books,” the Kelmscott Chaucer](https://www.openculture.com/2023/08/behold-a-digitization-of-the-most-beautiful-of-all-printed-books-the-kelmscott-chaucer.html)
