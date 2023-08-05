@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-05](index.md)
 
+* [2023-08-05, 18:12:09](https://news.ycombinator.com/item?id=37014842) - [Speed Up C++ Compilation](https://devtalk.blender.org/t/speed-up-c-compilation/30508)
+* [2023-08-05, 18:03:18](https://news.ycombinator.com/item?id=37014758) - [Duck DNS](https://www.duckdns.org/)
+* [2023-08-05, 18:01:04](https://news.ycombinator.com/item?id=37014738) - [The Earthsea Trilogy (2003)](https://dannyreviews.com/h/Earthsea.html)
 * [2023-08-05, 17:39:01](https://news.ycombinator.com/item?id=37014506) - [A close look at the 8086 processor's bus hold circuitry](http://www.righto.com/2023/08/intel-8086-bus-hold.html)
 * [2023-08-05, 17:03:52](https://news.ycombinator.com/item?id=37014097) - [Drug experts say alcohol worse than crack, heroin](https://www.reuters.com/article/uk-drugs-alcohol-idUKTRE6A000Y20101101)
 * [2023-08-05, 16:57:31](https://news.ycombinator.com/item?id=37014019) - [Immune cells fighting cancer get exhausted within hours of encountering tumors](https://theconversation.com/immune-cells-that-fight-cancer-become-exhausted-within-hours-of-first-encountering-tumors-new-research-210947)
