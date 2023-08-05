@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-08-05, 19:05:22",
+      "https://news.ycombinator.com/item?id=37015290"
+    ],
+    [
+      "IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face",
+      "https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face?sf180690117=1"
+    ]
+  ],
+  [
+    [
       "2023-08-05, 19:00:39",
       "https://news.ycombinator.com/item?id=37015253"
     ],
     [
-      "I do not use a debugger",
+      "I do not use a debugger (2016)",
       "https://lemire.me/blog/2016/06/21/i-do-not-use-a-debugger/"
     ]
   ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=37015118"
     ],
     [
-      "Replacing the flyback transformer in an Apple Studio Display",
+      "Replacing the bad flyback transformer in Apple's Studio Display 17\"",
       "https://www.riveducha.com/fix-apple-studio-display-flyback"
     ]
   ],
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=37013320"
     ],
     [
-      "Pirate Site Not Impressed by Global DNS Blocking Order",
+      "Pirate site not impressed by Global DNS blocking order",
       "https://torrentfreak.com/pirate-site-not-impressed-by-global-dns-blocking-order-230803/"
     ]
   ],
@@ -175,7 +185,7 @@
       "https://news.ycombinator.com/item?id=37011346"
     ],
     [
-      "Green vs. Brown Programming Languages (2021)",
+      "Green vs. brown programming languages (2021)",
       "https://earthly.dev/blog/brown-green-language/"
     ]
   ],
@@ -205,7 +215,7 @@
       "https://news.ycombinator.com/item?id=37010449"
     ],
     [
-      "GitHub Actions and Vanity Metrics",
+      "GitHub Actions and vanity metrics",
       "https://jamesconroyfinn.com/github-actions-and-vanity-metrics"
     ]
   ],
@@ -225,7 +235,7 @@
       "https://news.ycombinator.com/item?id=37009879"
     ],
     [
-      "Lazygit Turns 5: Musings on Git, TUIs, and Open Source",
+      "Lazygit Turns 5: Musings on Git, TUIs, and open source",
       "https://jesseduffield.com/Lazygit-5-Years-On/"
     ]
   ],
@@ -245,7 +255,7 @@
       "https://news.ycombinator.com/item?id=37009329"
     ],
     [
-      "Try the Last Internet Kermit Server",
+      "Try the last internet Kermit server",
       "https://changelog.complete.org/archives/10555-try-the-last-internet-kermit-server"
     ]
   ],
@@ -265,18 +275,8 @@
       "https://news.ycombinator.com/item?id=37003306"
     ],
     [
-      "The Power of Achieving Flow State in DevEx",
+      "The power of achieving flow state in DevEx",
       "https://hackernoon.com/the-power-of-achieving-flow-state-in-devex"
-    ]
-  ],
-  [
-    [
-      "2023-08-04, 02:35:52",
-      "https://news.ycombinator.com/item?id=36994794"
-    ],
-    [
-      "Beavers are helping restore wetlands and create buffers against wildfires",
-      "https://wusfnews.wusf.usf.edu/2023-07-31/how-beavers-are-helping-restore-wetlands-and-create-buffers-against-wildfires"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=36994065"
     ],
     [
-      "Decoding Base16 Sequences Quickly",
+      "Decoding base16 sequences quickly",
       "https://lemire.me/blog/2023/07/27/decoding-base16-sequences-quickly/"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=36993411"
     ],
     [
-      "Supercapacitor Is Made from Concrete and Carbon",
+      "A supercapacitor made from cement",
       "https://spectrum.ieee.org/supercapacitor"
     ]
   ]
