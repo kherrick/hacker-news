@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-05, 13:14:11](https://news.ycombinator.com/item?id=37011691) - [Excessive meat and dairy consumption signficant contributor to global warming](https://www.nature.com/articles/s43016-023-00795-w)
+* [2023-08-05, 13:17:01](https://news.ycombinator.com/item?id=37011717) - [EPA Approved a Chevron Fuel Ingredient That Has a Lifetime Cancer Risk](https://science.slashdot.org/story/23/08/05/0139219/epa-approved-a-chevron-fuel-ingredient-that-has-a-lifetime-cancer-risk)
 * [2023-08-05, 12:27:14](https://news.ycombinator.com/item?id=37011349) - [Will Browsers Be Required by Law to Stop You from Visiting Infringing Sites?](https://www.techdirt.com/2023/08/04/will-browsers-be-required-by-law-to-stop-you-from-visiting-infringing-sites/)
 * [2023-08-05, 12:26:44](https://news.ycombinator.com/item?id=37011346) - [Green vs. Brown Programming Languages](https://earthly.dev/blog/brown-green-language/)
 * [2023-08-05, 12:23:27](https://news.ycombinator.com/item?id=37011324) - [Bram Moolenaar Passed Away](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)
@@ -24,11 +24,11 @@
 * [2023-08-04, 21:37:09](https://news.ycombinator.com/item?id=37006224) - [Non-determinism in GPT-4 is caused by Sparse MoE](https://152334H.github.io/blog/non-determinism-in-gpt-4/)
 * [2023-08-04, 21:23:22](https://news.ycombinator.com/item?id=37006082) - [Most promoted and blocked domains among Kagi Search users](https://kagi.com/stats)
 * [2023-08-04, 21:11:03](https://news.ycombinator.com/item?id=37005937) - [IBM, Red Hat and Free Software: An old maddog’s view](https://www.lpi.org/blog/2023/07/30/ibm-red-hat-and-free-software-an-old-maddogs-view/)
-* [2023-08-04, 19:22:19](https://news.ycombinator.com/item?id=37004617) - [Terraform best practices for reliability at any scale](https://substrate.tools/blog/terraform-best-practices-for-reliability-at-any-scale)
 * [2023-08-04, 19:08:26](https://news.ycombinator.com/item?id=37004418) - [Aromas while sleeping spark cognitive increase: study](https://www.sciencedaily.com/releases/2023/08/230801131700.htm)
 * [2023-08-04, 14:28:49](https://news.ycombinator.com/item?id=37000562) - [(next Rich)](https://clojure.org/news/2023/08/04/next-rich)
 * [2023-08-04, 11:19:44](https://news.ycombinator.com/item?id=36998366) - [Show HN: Custom Haskell handlers for Nginx](https://github.com/lyokha/nginx-haskell-module)
 * [2023-08-04, 01:15:32](https://news.ycombinator.com/item?id=36994214) - [Successful room temperature ambient-pressure magnetic levitation of LK-99](https://arxiv.org/abs/2308.01516)
+* [2023-08-03, 18:01:27](https://news.ycombinator.com/item?id=36989407) - [Kawa: The Event Processor for the Grug Brained Developer](https://blog.runreveal.com/kawa-the-event-processor-for-the-grug-brained-developer/)
 * [2023-08-03, 15:10:23](https://news.ycombinator.com/item?id=36986981) - [Making peer-to-peer multiplayer seamless with Godot](https://www.rafa.ee/articles/godot-peer-to-peer-multiplayer/)
 
 ## [Archives](archives/index.md)
