@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-05, 01:35:36](https://news.ycombinator.com/item?id=37008093) - [Digitization of “The Most Beautiful of All Printed Books,” the Kelmscott Chaucer](https://www.openculture.com/2023/08/behold-a-digitization-of-the-most-beautiful-of-all-printed-books-the-kelmscott-chaucer.html)
-* [2023-08-05, 01:26:58](https://news.ycombinator.com/item?id=37008034) - [Reduction of Sulfur Emissions from Ships May Be Causing Rising Sea Temperatures](https://twitter.com/hankgreen/status/1687535525169930241)
+* [2023-08-05, 01:26:58](https://news.ycombinator.com/item?id=37008034) - [Reduction of sulfur emissions from ships may be causing rising sea temperatures](https://twitter.com/hankgreen/status/1687535525169930241)
 * [2023-08-05, 00:53:25](https://news.ycombinator.com/item?id=37007809) - [Double neural bypass restores movement, sense of touch after paralysis](https://feinstein.northwell.edu/news/the-latest/bioelectronic-medicine-researchers-restore-feeling-lasting-movement-in-man-living-with-quadriplegia)
 * [2023-08-04, 23:34:08](https://news.ycombinator.com/item?id=37007236) - [Math Exposition on YouTube](https://dustingmixon.wordpress.com/2023/08/04/math-exposition-on-youtube/)
 * [2023-08-04, 22:24:46](https://news.ycombinator.com/item?id=37006705) - [Pay no attention to the USB port behind the “no USB” sticker](https://www.theverge.com/2023/8/4/23820710/pay-no-attention-to-the-usb-port-behind-the-no-usb-sticker)
