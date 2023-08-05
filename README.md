@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-05, 17:03:52](https://news.ycombinator.com/item?id=37014097) - [Drug experts say alcohol worse than crack, heroin](https://www.reuters.com/article/uk-drugs-alcohol-idUKTRE6A000Y20101101)
 * [2023-08-05, 16:47:54](https://news.ycombinator.com/item?id=37013887) - [Vim's Creator Bram Moolenaar Dies at Age 62 – Slashdot](https://news.slashdot.org/story/23/08/05/1632219/vims-creator-bram-moolenaar-dies-at-age-62)
-* [2023-08-05, 16:45:43](https://news.ycombinator.com/item?id=37013848) - [San Francisco Landlords may lose everything [video][40 mins]](https://www.youtube.com/watch?v=ELGhAuiOBXU)
 * [2023-08-05, 16:20:08](https://news.ycombinator.com/item?id=37013549) - [Fatal grizzly attack renews debate over how many bears are too many](https://text.npr.org/1192258255)
 * [2023-08-05, 16:07:40](https://news.ycombinator.com/item?id=37013396) - [Just Normal Web Things](https://heather-buchel.com/blog/2023/07/just-normal-web-things/)
 * [2023-08-05, 16:01:11](https://news.ycombinator.com/item?id=37013320) - [Pirate Site Not Impressed by Global DNS Blocking Order](https://torrentfreak.com/pirate-site-not-impressed-by-global-dns-blocking-order-230803/)
@@ -23,7 +23,7 @@
 * [2023-08-05, 07:39:42](https://news.ycombinator.com/item?id=37009879) - [Lazygit Turns 5: Musings on Git, TUIs, and Open Source](https://jesseduffield.com/Lazygit-5-Years-On/)
 * [2023-08-05, 07:00:40](https://news.ycombinator.com/item?id=37009678) - [Raycast (YC W20) Is Hiring a macOS Engineer (Remote, UTC ± 3 Hours)](https://www.raycast.com/jobs/software-engineer-macos)
 * [2023-08-05, 05:42:13](https://news.ycombinator.com/item?id=37009329) - [Try the Last Internet Kermit Server](https://changelog.complete.org/archives/10555-try-the-last-internet-kermit-server)
-* [2023-08-05, 01:26:58](https://news.ycombinator.com/item?id=37008034) - [Reduction of sulfur emissions from ships may be causing rising sea temperatures](https://twitter.com/hankgreen/status/1687535525169930241)
+* [2023-08-05, 05:35:49](https://news.ycombinator.com/item?id=37009296) - [Eventual Business Consistency](https://tidyfirst.substack.com/p/eventual-business-consistency)
 * [2023-08-04, 21:23:22](https://news.ycombinator.com/item?id=37006082) - [Most promoted and blocked domains among Kagi Search users](https://kagi.com/stats)
 * [2023-08-04, 19:08:26](https://news.ycombinator.com/item?id=37004418) - [Aromas while sleeping spark cognitive increase: study](https://www.sciencedaily.com/releases/2023/08/230801131700.htm)
 * [2023-08-04, 11:19:44](https://news.ycombinator.com/item?id=36998366) - [Show HN: Custom Haskell handlers for Nginx](https://github.com/lyokha/nginx-haskell-module)

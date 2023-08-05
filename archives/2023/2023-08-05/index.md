@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-05](index.md)
 
+* [2023-08-05, 17:03:52](https://news.ycombinator.com/item?id=37014097) - [Drug experts say alcohol worse than crack, heroin](https://www.reuters.com/article/uk-drugs-alcohol-idUKTRE6A000Y20101101)
 * [2023-08-05, 16:47:54](https://news.ycombinator.com/item?id=37013887) - [Vim's Creator Bram Moolenaar Dies at Age 62 – Slashdot](https://news.slashdot.org/story/23/08/05/1632219/vims-creator-bram-moolenaar-dies-at-age-62)
 * [2023-08-05, 16:45:43](https://news.ycombinator.com/item?id=37013848) - [San Francisco Landlords may lose everything [video][40 mins]](https://www.youtube.com/watch?v=ELGhAuiOBXU)
 * [2023-08-05, 16:20:08](https://news.ycombinator.com/item?id=37013549) - [Fatal grizzly attack renews debate over how many bears are too many](https://text.npr.org/1192258255)
