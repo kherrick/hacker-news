@@ -4,7 +4,6 @@
 * [2023-08-06, 09:07:48](https://news.ycombinator.com/item?id=37020212) - [Reasons to Drop Docker for Podman](https://developers.redhat.com/articles/2023/08/03/3-reasons-drop-docker-podman)
 * [2023-08-06, 08:32:23](https://news.ycombinator.com/item?id=37020040) - [Internet Standard #80: ASCII Format for Network Interchange (1969)](https://www.ietf.org/rfc/std/std80.txt)
 * [2023-08-06, 08:23:47](https://news.ycombinator.com/item?id=37020001) - [Memex is already here, it’s just not evenly distributed](https://filiph.net/text/memex-is-already-here,-it%27s-just-not-evenly-distributed.html)
-* [2023-08-06, 06:35:16](https://news.ycombinator.com/item?id=37019520) - [The True Story of Central Park’s Doomed Victorian Dinosaur Museum](https://www.atlasobscura.com/articles/dinosaur-museum-central-park-boss-tweed-nyc)
 * [2023-08-06, 05:29:59](https://news.ycombinator.com/item?id=37019228) - [The Sad Bastard Cookbook](https://traumbooks.itch.io/the-sad-bastard-cookbook)
 * [2023-08-06, 04:49:35](https://news.ycombinator.com/item?id=37019069) - [Euros Bills Drawn Not to Represent Real Bridges. He Built Them All on This River](https://www.boredpanda.com/euro-notes-real-bridges-comparison-robin-stam/)
 * [2023-08-06, 03:56:00](https://news.ycombinator.com/item?id=37018859) - [Write Elixir NIFs in Rust](https://docs.rs/crate/rustler/latest)
@@ -29,6 +28,7 @@
 * [2023-08-04, 16:15:25](https://news.ycombinator.com/item?id=37002021) - [Sharpscript: Lisp for Scripting](https://sharpscript.net/lisp/)
 * [2023-08-04, 16:14:46](https://news.ycombinator.com/item?id=37002008) - [Qualcomm starts a RISC-V joint venture](https://arstechnica.com/gadgets/2023/08/qualcomm-one-of-arms-biggest-customers-starts-a-risc-v-joint-venture/)
 * [2023-08-04, 08:51:27](https://news.ycombinator.com/item?id=36997263) - [Veles – A tool for binary analysis (2018)](https://github.com/codilime/veles)
+* [2023-08-04, 07:36:44](https://news.ycombinator.com/item?id=36996696) - [How to emulate an Atari ST from inside](https://www.raspberrypi.com/news/how-to-emulate-an-atari-st-from-inside/)
 * [2023-08-04, 06:14:26](https://news.ycombinator.com/item?id=36996075) - [Scientists create novel approach to control energy waves in 4D](https://showme.missouri.edu/2023/scientists-create-novel-approach-to-control-energy-waves-in-4d/)
 
 ## [Archives](archives/index.md)

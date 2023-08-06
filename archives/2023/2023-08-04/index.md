@@ -90,6 +90,7 @@
 * [2023-08-04, 08:51:27](https://news.ycombinator.com/item?id=36997263) - [Veles – A new age tool for binary analysis](https://github.com/codilime/veles)
 * [2023-08-04, 08:25:36](https://news.ycombinator.com/item?id=36997067) - [Mozilla VPN: CVE-2023-4104: vpndaemon wrongly implements Polkit authentication](https://www.openwall.com/lists/oss-security/2023/08/03/1)
 * [2023-08-04, 07:39:56](https://news.ycombinator.com/item?id=36996723) - [DisplayPort: Taming the Altmode](https://hackaday.com/2023/08/03/displayport-taming-the-altmode/)
+* [2023-08-04, 07:36:44](https://news.ycombinator.com/item?id=36996696) - [How to emulate an Atari ST from inside](https://www.raspberrypi.com/news/how-to-emulate-an-atari-st-from-inside/)
 * [2023-08-04, 07:00:26](https://news.ycombinator.com/item?id=36996401) - [Ask HN: What are some captivating fair play mystery books that you've read](https://news.ycombinator.com/item?id=36996401)
 * [2023-08-04, 06:44:56](https://news.ycombinator.com/item?id=36996287) - [Redesigning Chrome Downloads](https://blog.chromium.org/2023/08/redesigning-chrome-downloads-to-keep.html)
 * [2023-08-04, 06:15:48](https://news.ycombinator.com/item?id=36996084) - [New web framework for Python in development](https://github.com/AliRn76/panther)
