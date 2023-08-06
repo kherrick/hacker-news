@@ -24,7 +24,7 @@
 * [2023-08-05, 05:42:13](https://news.ycombinator.com/item?id=37009329) - [Try the last internet Kermit server](https://changelog.complete.org/archives/10555-try-the-last-internet-kermit-server)
 * [2023-08-05, 03:29:47](https://news.ycombinator.com/item?id=37008727) - [Flexible Glass in Tiberius’ Rome (2011)](https://www.strangehistory.net/2011/02/20/flexible-glass-in-tiberius-rome/)
 * [2023-08-05, 01:35:36](https://news.ycombinator.com/item?id=37008093) - [“The most beautiful of all printed books,” the Kelmscott Chaucer](https://www.openculture.com/2023/08/behold-a-digitization-of-the-most-beautiful-of-all-printed-books-the-kelmscott-chaucer.html)
-* [2023-08-04, 23:25:34](https://news.ycombinator.com/item?id=37007180) - [A Swift intro to Geometric Algebra (2020) [video]](https://www.youtube.com/watch?v=60z_hpEAtD8)
+* [2023-08-04, 20:59:11](https://news.ycombinator.com/item?id=37005810) - [Vancouver has a photo booth where you can watch your photos develop](https://vancouversun.com/news/local-news/vancouver-rare-photo-booth-watch-photos-develop)
 * [2023-08-04, 19:29:41](https://news.ycombinator.com/item?id=37004720) - [North American English Dialects](https://aschmann.net/AmEng/)
 * [2023-08-04, 16:43:17](https://news.ycombinator.com/item?id=37002420) - [My favorite Vim oneliners for text manipulation](https://muhammadraza.me/2023/vim-onliners/)
 * [2023-08-04, 16:15:25](https://news.ycombinator.com/item?id=37002021) - [Sharpscript: Lisp for Scripting](https://sharpscript.net/lisp/)

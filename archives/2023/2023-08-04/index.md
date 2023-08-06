@@ -13,6 +13,7 @@
 * [2023-08-04, 21:25:23](https://news.ycombinator.com/item?id=37006102) - [Pause Random Superconductor Experiments: An Open Letter](https://futureofliff.org/)
 * [2023-08-04, 21:23:22](https://news.ycombinator.com/item?id=37006082) - [Most promoted and blocked domains among Kagi Search users](https://kagi.com/stats)
 * [2023-08-04, 21:11:03](https://news.ycombinator.com/item?id=37005937) - [IBM, Red Hat and Free Software: An old maddog’s view](https://www.lpi.org/blog/2023/07/30/ibm-red-hat-and-free-software-an-old-maddogs-view/)
+* [2023-08-04, 20:59:11](https://news.ycombinator.com/item?id=37005810) - [Vancouver has a photo booth where you can watch your photos develop](https://vancouversun.com/news/local-news/vancouver-rare-photo-booth-watch-photos-develop)
 * [2023-08-04, 20:44:54](https://news.ycombinator.com/item?id=37005629) - [Major government tech contractors use vendor-lock to drive revenue: study](https://fedscoop.com/major-government-tech-contractors-use-monopolistic-vendor-lock-to-drive-revenue-study/)
 * [2023-08-04, 20:31:36](https://news.ycombinator.com/item?id=37005478) - [Analysis and Workload Characterization of the CERN EOS Storage System [pdf]](https://sincerely.dev/papers/cheops22-purandare.pdf)
 * [2023-08-04, 19:48:49](https://news.ycombinator.com/item?id=37004949) - [Beech leaf disease is ravaging North American trees](https://www.science.org/content/article/beech-leaf-disease-ravaging-north-american-trees)
