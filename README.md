@@ -2,6 +2,7 @@
 
 * [2023-08-06, 17:53:17](https://news.ycombinator.com/item?id=37024680) - [Medium's Partner Program Changes to Incentivize Human Writing over AI Articles](https://blog.medium.com/new-partner-program-incentives-focus-on-high-quality-human-writing-7335f8557f6e)
 * [2023-08-06, 17:51:48](https://news.ycombinator.com/item?id=37024662) - [A single antibody tackles two childhood viruses](https://www.nature.com/articles/d41586-023-02428-5)
+* [2023-08-06, 17:29:49](https://news.ycombinator.com/item?id=37024449) - [Blink WEI “will not ship in current form”](https://toot.cafe/@slightlyoff/110841065888292567)
 * [2023-08-06, 16:49:20](https://news.ycombinator.com/item?id=37023885) - [Why libvirt supports only 14 PCIe hotplugged devices on x86-64](https://dottedmag.net/blog/libvirt-14-pcie-devices/)
 * [2023-08-06, 16:42:26](https://news.ycombinator.com/item?id=37023806) - [Threat Actors Abuse Cloudflare Tunnel for Persistent Access, Data Theft](https://www.securityweek.com/threat-actors-abuse-cloudflare-tunnel-for-persistent-access-data-theft/)
 * [2023-08-06, 15:43:03](https://news.ycombinator.com/item?id=37023138) - [Selfish, Virus-Like DNA Can Carry Genes Between Species](https://www.quantamagazine.org/selfish-virus-like-dna-can-carry-genes-between-species-20230803/)
@@ -29,7 +30,6 @@
 * [2023-08-04, 12:25:45](https://news.ycombinator.com/item?id=36999003) - [Multimodal Neurons in Pretrained Text-Only Transformers](https://huggingface.co/papers/2308.01544)
 * [2023-08-04, 09:13:48](https://news.ycombinator.com/item?id=36997416) - [The Status Quo Coalition](https://acoup.blog/2023/07/07/collections-the-status-quo-coalition/)
 * [2023-08-04, 07:36:44](https://news.ycombinator.com/item?id=36996696) - [How to emulate an Atari ST from inside](https://www.raspberrypi.com/news/how-to-emulate-an-atari-st-from-inside/)
-* [2023-08-04, 06:14:26](https://news.ycombinator.com/item?id=36996075) - [Scientists create novel approach to control energy waves in 4D](https://showme.missouri.edu/2023/scientists-create-novel-approach-to-control-energy-waves-in-4d/)
 
 ## [Archives](archives/index.md)
 
