@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-06, 12:44:24](https://news.ycombinator.com/item?id=37021336) - [America’s Truckers, Cargo Pilots and Package Carriers Are Fed Up](https://www.wsj.com/articles/americas-truckers-cargo-pilots-and-package-carriers-are-fed-up-1543bfee)
-* [2023-08-06, 12:36:12](https://news.ycombinator.com/item?id=37021280) - [CEOs' pay climbed before layoffs at tech giants like Alphabet and Microsoft](https://abcnews.go.com/Business/ceos-pay-climbed-layoffs-tech-giants-alphabet-microsoft/story?id=101665156)
 * [2023-08-06, 11:36:29](https://news.ycombinator.com/item?id=37020924) - [Driving is more expensive than you think (2020)](https://news.harvard.edu/gazette/story/2020/01/massachusetts-car-economy-costs-64-billion-study-finds/)
 * [2023-08-06, 11:10:19](https://news.ycombinator.com/item?id=37020792) - [Venture-backed startups are failing at record rates](https://www.fastcompany.com/90933648/venture-backed-startups-are-failing-at-record-rates)
 * [2023-08-06, 10:29:14](https://news.ycombinator.com/item?id=37020620) - [Nvidia Launches a 100kb text-to-image model called Perfusion](https://research.nvidia.com/labs/par/Perfusion/)
@@ -27,6 +26,7 @@
 * [2023-08-04, 16:43:17](https://news.ycombinator.com/item?id=37002420) - [My favorite Vim oneliners for text manipulation](https://muhammadraza.me/2023/vim-onliners/)
 * [2023-08-04, 16:14:46](https://news.ycombinator.com/item?id=37002008) - [Qualcomm starts a RISC-V joint venture](https://arstechnica.com/gadgets/2023/08/qualcomm-one-of-arms-biggest-customers-starts-a-risc-v-joint-venture/)
 * [2023-08-04, 16:10:34](https://news.ycombinator.com/item?id=37001942) - [Realms of the Haunting](https://www.filfre.net/2023/08/realms-of-the-haunting/)
+* [2023-08-04, 12:25:45](https://news.ycombinator.com/item?id=36999003) - [Multimodal Neurons in Pretrained Text-Only Transformers](https://huggingface.co/papers/2308.01544)
 * [2023-08-04, 08:51:27](https://news.ycombinator.com/item?id=36997263) - [Veles – A tool for binary analysis (2018)](https://github.com/codilime/veles)
 * [2023-08-04, 07:36:44](https://news.ycombinator.com/item?id=36996696) - [How to emulate an Atari ST from inside](https://www.raspberrypi.com/news/how-to-emulate-an-atari-st-from-inside/)
 * [2023-08-04, 06:14:26](https://news.ycombinator.com/item?id=36996075) - [Scientists create novel approach to control energy waves in 4D](https://showme.missouri.edu/2023/scientists-create-novel-approach-to-control-energy-waves-in-4d/)

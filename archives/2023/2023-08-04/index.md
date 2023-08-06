@@ -75,6 +75,7 @@
 * [2023-08-04, 12:51:31](https://news.ycombinator.com/item?id=36999264) - [4 Charts That Show Why AI Progress Is Unlikely to Slow Down](https://time.com/6300942/ai-progress-charts/)
 * [2023-08-04, 12:42:29](https://news.ycombinator.com/item?id=36999169) - [Mitmproxy 10: First Bits of HTTP/3](https://mitmproxy.org/posts/releases/mitmproxy10/)
 * [2023-08-04, 12:26:59](https://news.ycombinator.com/item?id=36999016) - [FCC imposes $300M record penalty on robocall scammers](https://docs.fcc.gov/public/attachments/DOC-395728A1.txt)
+* [2023-08-04, 12:25:45](https://news.ycombinator.com/item?id=36999003) - [Multimodal Neurons in Pretrained Text-Only Transformers](https://huggingface.co/papers/2308.01544)
 * [2023-08-04, 12:22:04](https://news.ycombinator.com/item?id=36998963) - [LLMs Are Taking over APIs](https://github.com/ShishirPatil/gorilla)
 * [2023-08-04, 12:19:07](https://news.ycombinator.com/item?id=36998936) - [Ask HN: For advice: I'm a mathematician looking for a plan B outside of academia](https://news.ycombinator.com/item?id=36998936)
 * [2023-08-04, 12:01:15](https://news.ycombinator.com/item?id=36998755) - [MindsDB (YC W20) Is Hiring a Developer Advocate](https://jobs.lever.co/mindsdb/df8af46c-7168-4a11-bc04-52638b694833?lever-origin=applied&lever-source%5B%5D=Hackernews)
