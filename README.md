@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-06, 19:04:25](https://news.ycombinator.com/item?id=37025393) - [My history with Forth, and stack machines (2010)](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
+* [2023-08-06, 18:47:08](https://news.ycombinator.com/item?id=37025233) - [The Lose-Lose-Lose-Lose Bill C-18 Outcome: Meta Blocking News Links in Canada](https://www.michaelgeist.ca/2023/08/metablockslinks/)
+* [2023-08-06, 18:19:25](https://news.ycombinator.com/item?id=37024965) - [Why I Find Bullshit Work Intolerable](https://shubhamjain.co/2023/08/06/bullshit-work-intolerable/)
 * [2023-08-06, 18:18:17](https://news.ycombinator.com/item?id=37024954) - [ALTEXXANET - Your 90s Internet Experience<](http://altexxanet.org/)
 * [2023-08-06, 17:53:35](https://news.ycombinator.com/item?id=37024685) - [An unconventional LEGO Technic beam sandwich keyboard case](https://dotat.at/@/2023-08-06-ltbs.html)
 * [2023-08-06, 17:53:17](https://news.ycombinator.com/item?id=37024680) - [Medium's Partner Program Changes to Incentivize Human Writing over AI Articles](https://blog.medium.com/new-partner-program-incentives-focus-on-high-quality-human-writing-7335f8557f6e)
@@ -21,15 +23,13 @@
 * [2023-08-06, 10:26:54](https://news.ycombinator.com/item?id=37020610) - [Postgres Language Server](https://github.com/supabase/postgres_lsp)
 * [2023-08-06, 09:54:30](https://news.ycombinator.com/item?id=37020467) - [Error Handling in Zig](https://www.aolium.com/karlseguin/4013ac14-2457-479b-e59b-e603c04673c8)
 * [2023-08-06, 09:47:25](https://news.ycombinator.com/item?id=37020421) - [Show HN: Archsense – Accurately generated architecture from the source code](https://www.archsense.dev)
-* [2023-08-06, 08:32:23](https://news.ycombinator.com/item?id=37020040) - [Internet Standard #80: ASCII Format for Network Interchange (1969)](https://www.ietf.org/rfc/std/std80.txt)
 * [2023-08-06, 08:23:47](https://news.ycombinator.com/item?id=37020001) - [Memex is already here, it’s just not evenly distributed](https://filiph.net/text/memex-is-already-here,-it%27s-just-not-evenly-distributed.html)
 * [2023-08-06, 05:29:59](https://news.ycombinator.com/item?id=37019228) - [The Sad Bastard Cookbook](https://traumbooks.itch.io/the-sad-bastard-cookbook)
 * [2023-08-05, 04:30:09](https://news.ycombinator.com/item?id=37009037) - [Is NGC 1277 a problem for MOND?](https://tritonstation.com/2023/08/02/is-ngc-1277-a-problem-for-mond/)
-* [2023-08-04, 23:09:00](https://news.ycombinator.com/item?id=37007034) - [Why We Need Answers (2013)](https://www.newyorker.com/tech/annals-of-technology/why-we-need-answers)
 * [2023-08-04, 16:14:46](https://news.ycombinator.com/item?id=37002008) - [Qualcomm starts a RISC-V joint venture](https://arstechnica.com/gadgets/2023/08/qualcomm-one-of-arms-biggest-customers-starts-a-risc-v-joint-venture/)
 * [2023-08-04, 12:25:45](https://news.ycombinator.com/item?id=36999003) - [Multimodal Neurons in Pretrained Text-Only Transformers](https://huggingface.co/papers/2308.01544)
 * [2023-08-04, 09:13:48](https://news.ycombinator.com/item?id=36997416) - [The Status Quo Coalition](https://acoup.blog/2023/07/07/collections-the-status-quo-coalition/)
-* [2023-08-04, 07:36:44](https://news.ycombinator.com/item?id=36996696) - [How to emulate an Atari ST from inside](https://www.raspberrypi.com/news/how-to-emulate-an-atari-st-from-inside/)
+* [2023-08-04, 05:42:15](https://news.ycombinator.com/item?id=36995890) - [Elixir Macros](https://elixir-lang.org/getting-started/meta/macros.html)
 
 ## [Archives](archives/index.md)
 
