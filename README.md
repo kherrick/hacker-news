@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-06, 16:42:05](https://news.ycombinator.com/item?id=37023802) - [O.C. Actor Ben McKenzie's Book 'Easy Money' Exposes the Dark Side of Crypto](https://www.wmagazine.com/culture/ben-mckenzie-easy-money-crypto-book-interview)
 * [2023-08-06, 16:19:06](https://news.ycombinator.com/item?id=37023521) - [Texas Power Prices to Surge 800% on Sunday Amid Searing Heat](https://www.bloomberg.com/news/articles/2023-08-05/texas-power-prices-to-surge-800-on-sunday-amid-searing-heat)
 * [2023-08-06, 15:52:57](https://news.ycombinator.com/item?id=37023215) - [Ironically, Zoom tells employees to return to office for work](https://nypost.com/2023/08/05/zoom-tells-employees-to-return-to-office-for-work/)
 * [2023-08-06, 15:43:03](https://news.ycombinator.com/item?id=37023138) - [Selfish, Virus-Like DNA Can Carry Genes Between Species](https://www.quantamagazine.org/selfish-virus-like-dna-can-carry-genes-between-species-20230803/)
@@ -14,7 +15,6 @@
 * [2023-08-06, 12:18:11](https://news.ycombinator.com/item?id=37021173) - [Lisp in Space](https://corecursive.com/lisp-in-space-with-ron-garret/)
 * [2023-08-06, 12:15:51](https://news.ycombinator.com/item?id=37021160) - [Zoom terms now allow training AI on user content with no opt out](https://explore.zoom.us/en/terms/)
 * [2023-08-06, 12:15:25](https://news.ycombinator.com/item?id=37021158) - [Grokking AVL and RAVL Trees](https://photonlines.substack.com/p/grokking-avl-and-ravl-trees)
-* [2023-08-06, 11:37:28](https://news.ycombinator.com/item?id=37020930) - [BBRv3: Algorithm Bug Fixes and Public Internet Deployment](https://datatracker.ietf.org/meeting/117/materials/slides-117-ccwg-bbrv3-algorithm-bug-fixes-and-public-internet-deployment-00)
 * [2023-08-06, 11:10:19](https://news.ycombinator.com/item?id=37020792) - [Venture-backed startups are failing at record rates](https://www.fastcompany.com/90933648/venture-backed-startups-are-failing-at-record-rates)
 * [2023-08-06, 10:26:54](https://news.ycombinator.com/item?id=37020610) - [Postgres Language Server](https://github.com/supabase/postgres_lsp)
 * [2023-08-06, 10:13:02](https://news.ycombinator.com/item?id=37020565) - [Project: Police Flasher and 7-Segment LED Clock Through-Hole Soldering Kits](https://goughlui.com/2023/08/06/project-police-flasher-7-segment-led-clock-through-hole-soldering-kits/)
