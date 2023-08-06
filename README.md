@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-06, 05:29:59](https://news.ycombinator.com/item?id=37019228) - [The Sad Bastard Cookbook: Food you can make so you don't die](https://traumbooks.itch.io/the-sad-bastard-cookbook)
 * [2023-08-06, 04:49:35](https://news.ycombinator.com/item?id=37019069) - [Euros Bills Drawn Not to Represent Real Bridges. He Built Them All on This River](https://www.boredpanda.com/euro-notes-real-bridges-comparison-robin-stam/)
-* [2023-08-06, 03:56:00](https://news.ycombinator.com/item?id=37018859) - [Write Elixir NIFs in Rust](https://docs.rs/crate/rustler/latest)
 * [2023-08-06, 02:31:36](https://news.ycombinator.com/item?id=37018404) - [Cult of the Dead Cow wants to save internet privacy with new encryption protocol](https://gizmodo.com/cult-of-the-dead-cow-launches-veilid-encryption-project-1850699803)
 * [2023-08-06, 01:35:25](https://news.ycombinator.com/item?id=37018105) - [The way out of burnout (2016)](https://www.economist.com/1843/2016/07/28/the-way-out-of-burnout)
 * [2023-08-06, 01:13:17](https://news.ycombinator.com/item?id=37017958) - [Types of Garden Hoe](https://www.easydigging.com/garden-hoes/articles/types-of-hoes.html)
