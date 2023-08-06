@@ -14,7 +14,6 @@
 * [2023-08-06, 19:26:39](https://news.ycombinator.com/item?id=37025621) - [We Are All Animals at Night](https://hazlitt.net/feature/we-are-all-animals-night)
 * [2023-08-06, 19:04:25](https://news.ycombinator.com/item?id=37025393) - [My history with Forth and stack machines (2010)](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
 * [2023-08-06, 18:47:08](https://news.ycombinator.com/item?id=37025233) - [Meta blocking news links in Canada](https://www.michaelgeist.ca/2023/08/metablockslinks/)
-* [2023-08-06, 18:45:59](https://news.ycombinator.com/item?id=37025227) - [Windows Repair Toolbox](https://windows-repair-toolbox.com/)
 * [2023-08-06, 18:24:56](https://news.ycombinator.com/item?id=37025027) - [SymmetricDS: Open-Source, cross platform database replication software](https://www.symmetricds.org/)
 * [2023-08-06, 18:18:17](https://news.ycombinator.com/item?id=37024954) - [ALTEXXANET - 90s Internet Experience (2016)](http://altexxanet.org/)
 * [2023-08-06, 17:53:35](https://news.ycombinator.com/item?id=37024685) - [An unconventional LEGO Technic beam sandwich keyboard case](https://dotat.at/@/2023-08-06-ltbs.html)
@@ -29,6 +28,7 @@
 * [2023-08-06, 10:26:54](https://news.ycombinator.com/item?id=37020610) - [Postgres Language Server](https://github.com/supabase/postgres_lsp)
 * [2023-08-05, 14:36:40](https://news.ycombinator.com/item?id=37012413) - [Laniakea Books: Public domain books for everyone](https://nutcroft.com/blog/laniakea-books-public-domain-books-for-everyone/)
 * [2023-08-04, 19:34:48](https://news.ycombinator.com/item?id=37004793) - [Precision Medicine and Its Imprecise History (2020)](https://hdsr.mitpress.mit.edu/pub/y7r65r4k/release/4)
+* [2023-08-04, 16:13:41](https://news.ycombinator.com/item?id=37001992) - [A frog levitating in a strong magnetic field (1997) [video]](https://www.youtube.com/watch?v=KlJsVqc0ywM)
 * [2023-08-04, 09:10:42](https://news.ycombinator.com/item?id=36997399) - [The Professor of Parody (1999)](https://newrepublic.com/article/150687/professor-parody)
 
 ## [Archives](archives/index.md)

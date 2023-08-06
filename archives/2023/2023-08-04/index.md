@@ -46,6 +46,7 @@
 * [2023-08-04, 16:15:25](https://news.ycombinator.com/item?id=37002021) - [Sharpscript: Lisp for Scripting](https://sharpscript.net/lisp/)
 * [2023-08-04, 16:15:23](https://news.ycombinator.com/item?id=37002020) - [Mirantis Unveils K0smotron: An Open-Source Kubernetes Management Project](https://opensourcewatch.beehiiv.com/p/mirantis-unveils-k0smotron-opensource-streamlined-kubernetes-management-project)
 * [2023-08-04, 16:14:46](https://news.ycombinator.com/item?id=37002008) - [Qualcomm starts a RISC-V joint venture](https://arstechnica.com/gadgets/2023/08/qualcomm-one-of-arms-biggest-customers-starts-a-risc-v-joint-venture/)
+* [2023-08-04, 16:13:41](https://news.ycombinator.com/item?id=37001992) - [A frog levitating in a strong magnetic field (1997) [video]](https://www.youtube.com/watch?v=KlJsVqc0ywM)
 * [2023-08-04, 16:10:34](https://news.ycombinator.com/item?id=37001942) - [Realms of the Haunting](https://www.filfre.net/2023/08/realms-of-the-haunting/)
 * [2023-08-04, 16:03:47](https://news.ycombinator.com/item?id=37001853) - [GNUStep Now Has Badges](http://multixden.blogspot.com/2023/08/gnustep-now-has-badges.html)
 * [2023-08-04, 16:02:40](https://news.ycombinator.com/item?id=37001837) - [LK-99 is an online sensation – but replication efforts fall short](https://www.nature.com/articles/d41586-023-02481-0)
