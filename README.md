@@ -18,6 +18,7 @@
 * [2023-08-05, 18:03:18](https://news.ycombinator.com/item?id=37014758) - [Duck DNS](https://www.duckdns.org/)
 * [2023-08-05, 16:33:56](https://news.ycombinator.com/item?id=37013704) - [New acoustic attack steals data from keystrokes with 95% accuracy](https://www.bleepingcomputer.com/news/security/new-acoustic-attack-steals-data-from-keystrokes-with-95-percent-accuracy/)
 * [2023-08-05, 16:07:40](https://news.ycombinator.com/item?id=37013396) - [Just normal web things](https://heather-buchel.com/blog/2023/07/just-normal-web-things/)
+* [2023-08-05, 16:01:11](https://news.ycombinator.com/item?id=37013320) - [Pirate site not impressed by Global DNS blocking order](https://torrentfreak.com/pirate-site-not-impressed-by-global-dns-blocking-order-230803/)
 * [2023-08-05, 14:34:08](https://news.ycombinator.com/item?id=37012388) - [‘One step at a time’: entrepreneur buys stairwell in London to help startups](https://www.theguardian.com/uk-news/2023/aug/05/simon-squibb-stairwell-small-businesses-entrepreneurs-twickenham-london)
 * [2023-08-05, 13:56:33](https://news.ycombinator.com/item?id=37012052) - [Checking in on troubles with dark matter](https://tritonstation.com/2023/06/27/checking-in-on-troubles-with-dark-matter/)
 * [2023-08-05, 12:23:27](https://news.ycombinator.com/item?id=37011324) - [Bram Moolenaar has died](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)
@@ -28,7 +29,6 @@
 * [2023-08-04, 16:43:17](https://news.ycombinator.com/item?id=37002420) - [My favorite Vim oneliners for text manipulation](https://muhammadraza.me/2023/vim-onliners/)
 * [2023-08-04, 16:15:25](https://news.ycombinator.com/item?id=37002021) - [Sharpscript: Lisp for Scripting](https://sharpscript.net/lisp/)
 * [2023-08-04, 07:39:56](https://news.ycombinator.com/item?id=36996723) - [DisplayPort: Taming the Altmode](https://hackaday.com/2023/08/03/displayport-taming-the-altmode/)
-* [2023-08-04, 00:50:46](https://news.ycombinator.com/item?id=36994065) - [Decoding base16 sequences quickly](https://lemire.me/blog/2023/07/27/decoding-base16-sequences-quickly/)
 * [2023-08-03, 23:03:57](https://news.ycombinator.com/item?id=36993291) - [A short ballad dedicated to the growth of programs (1986)](https://ashwinram.org/1986/01/28/a-short-ballad-dedicated-to-the-growth-of-programs/)
 
 ## [Archives](archives/index.md)
