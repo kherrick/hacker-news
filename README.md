@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-06, 02:31:36](https://news.ycombinator.com/item?id=37018404) - [Cult of the Dead Cow Wants to Save Internet Privacy with New Encryption Protocol](https://gizmodo.com/cult-of-the-dead-cow-launches-veilid-encryption-project-1850699803)
 * [2023-08-06, 01:35:25](https://news.ycombinator.com/item?id=37018105) - [The way out of burnout (2016)](https://www.economist.com/1843/2016/07/28/the-way-out-of-burnout)
 * [2023-08-06, 00:41:26](https://news.ycombinator.com/item?id=37017750) - [George Church lab creates functional ovary tissue from adult human stem cells](https://elifesciences.org/articles/83291)
-* [2023-08-05, 23:20:44](https://news.ycombinator.com/item?id=37017199) - [Scientists of Chinese descent leaving the US at an accelerating pace](https://www.chemistryworld.com/news/scientists-of-chinese-descent-leaving-the-us-at-an-accelerating-pace/4017831.article)
 * [2023-08-05, 23:15:39](https://news.ycombinator.com/item?id=37017166) - [Mass Editing Memory in a Transformer](https://arxiv.org/abs/2210.07229)
 * [2023-08-05, 22:36:22](https://news.ycombinator.com/item?id=37016910) - [Searching for Paul C. Pratt](https://www.bigmessowires.com/2023/08/05/searching-for-paul-c-pratt/)
 * [2023-08-05, 22:25:33](https://news.ycombinator.com/item?id=37016842) - [E-scooter startup Spin apparently uses RasPi 4s inside their scooters](https://abolish.social/@_/110828271798284741)
