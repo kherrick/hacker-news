@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-06](index.md)
 
+* [2023-08-06, 13:36:35](https://news.ycombinator.com/item?id=37021769) - [Discord Rolled Out Yubikeys for All Employees](https://discord.com/blog/how-discord-rolled-out-yubikeys-for-all-employees)
 * [2023-08-06, 13:17:15](https://news.ycombinator.com/item?id=37021584) - [MS Build of OpenJDK now with enhanced escape analysis enabled by default](https://learn.microsoft.com/en-us/java/openjdk/release-notes)
 * [2023-08-06, 13:05:04](https://news.ycombinator.com/item?id=37021481) - [Code Smells of Desperation](https://www.os2museum.com/wp/this-code-smells-of-desperation/)
 * [2023-08-06, 12:44:24](https://news.ycombinator.com/item?id=37021336) - [America’s Truckers, Cargo Pilots and Package Carriers Are Fed Up](https://www.wsj.com/articles/americas-truckers-cargo-pilots-and-package-carriers-are-fed-up-1543bfee)
