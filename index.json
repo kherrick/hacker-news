@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-08-06, 13:52:47",
-      "https://news.ycombinator.com/item?id=37021916"
-    ],
-    [
-      "An airline said her bag was lost, her tracker said otherwise. She flew to get it",
-      "https://www.cnn.com/travel/article/airtag-lost-luggage-flight/index.html"
-    ]
-  ],
-  [
-    [
       "2023-08-06, 13:36:35",
       "https://news.ycombinator.com/item?id=37021769"
     ],
@@ -217,6 +207,16 @@
     [
       "The Sad Bastard Cookbook",
       "https://traumbooks.itch.io/the-sad-bastard-cookbook"
+    ]
+  ],
+  [
+    [
+      "2023-08-06, 03:56:00",
+      "https://news.ycombinator.com/item?id=37018859"
+    ],
+    [
+      "Write Elixir NIFs in Rust",
+      "https://docs.rs/crate/rustler/latest"
     ]
   ],
   [
