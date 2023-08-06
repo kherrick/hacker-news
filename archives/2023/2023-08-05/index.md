@@ -43,6 +43,7 @@
 * [2023-08-05, 14:54:35](https://news.ycombinator.com/item?id=37012611) - [Immersed Announces 'Visor' Compact Productivity Headset with 4K OLED Displays](https://www.uploadvr.com/immersed-visor-4k-oled-microdisplay-productivity-headset/)
 * [2023-08-05, 14:44:24](https://news.ycombinator.com/item?id=37012501) - [The Myth of AI Omniscience](https://cpwalker.substack.com/p/the-myth-of-ai-omniscience-ais-epistemological)
 * [2023-08-05, 14:36:45](https://news.ycombinator.com/item?id=37012415) - [Being ‘Too Busy’ Means Your Personal Strategy Sucks](https://rogermartin.medium.com/being-too-busy-means-your-personal-strategy-sucks-8f24b9327179)
+* [2023-08-05, 14:36:40](https://news.ycombinator.com/item?id=37012413) - [Laniakea Books: Public domain books for everyone](https://nutcroft.com/blog/laniakea-books-public-domain-books-for-everyone/)
 * [2023-08-05, 14:34:08](https://news.ycombinator.com/item?id=37012388) - [‘One step at a time’: entrepreneur buys stairwell in London to help startups](https://www.theguardian.com/uk-news/2023/aug/05/simon-squibb-stairwell-small-businesses-entrepreneurs-twickenham-london)
 * [2023-08-05, 14:29:45](https://news.ycombinator.com/item?id=37012347) - [The Dome: A simple violation of determinism in Newtonian mechanics (2005)](https://sites.pitt.edu/~jdnorton/Goodies/Dome/)
 * [2023-08-05, 14:29:45](https://news.ycombinator.com/item?id=37012347) - [Norton’s Dome: A simple violation of determinism in Newtonian mechanics](https://johncarlosbaez.wordpress.com/2023/08/05/nortons-dome/)
