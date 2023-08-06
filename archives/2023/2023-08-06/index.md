@@ -12,6 +12,7 @@
 * [2023-08-06, 12:44:24](https://news.ycombinator.com/item?id=37021336) - [America’s Truckers, Cargo Pilots and Package Carriers Are Fed Up](https://www.wsj.com/articles/americas-truckers-cargo-pilots-and-package-carriers-are-fed-up-1543bfee)
 * [2023-08-06, 12:36:12](https://news.ycombinator.com/item?id=37021280) - [CEOs' pay climbed before layoffs at tech giants like Alphabet and Microsoft](https://abcnews.go.com/Business/ceos-pay-climbed-layoffs-tech-giants-alphabet-microsoft/story?id=101665156)
 * [2023-08-06, 12:33:24](https://news.ycombinator.com/item?id=37021264) - [Replace Peer Review with “Peer Replication” (2021)](https://blog.everydayscientist.com/replace-peer-review-with-peer-replication/)
+* [2023-08-06, 12:18:11](https://news.ycombinator.com/item?id=37021173) - [Lisp in Space](https://corecursive.com/lisp-in-space-with-ron-garret/)
 * [2023-08-06, 12:15:51](https://news.ycombinator.com/item?id=37021160) - [Zoom terms now allow training AI on user content with no opt out](https://explore.zoom.us/en/terms/)
 * [2023-08-06, 12:15:25](https://news.ycombinator.com/item?id=37021158) - [Grokking AVL and RAVL Trees](https://photonlines.substack.com/p/grokking-avl-and-ravl-trees)
 * [2023-08-06, 11:58:37](https://news.ycombinator.com/item?id=37021059) - [Show HN: Gmail GPT – Bringing AI to Google Gmail a new way to get done](https://workspace.google.com/marketplace/app/gmail_gpt/899305976589)
