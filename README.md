@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-06, 22:37:43](https://news.ycombinator.com/item?id=37027639) - [Show HN: Tarot Arcana—AI tarot card readings](https://apps.apple.com/us/app/tarot-arcana/id1539747669)
 * [2023-08-06, 22:25:02](https://news.ycombinator.com/item?id=37027545) - [The Optics Library](http://markelz.physics.buffalo.edu/node/411)
 * [2023-08-06, 21:55:34](https://news.ycombinator.com/item?id=37027278) - [Serial murders have dwindled, thanks to improved technology](https://www.nytimes.com/2023/08/06/nyregion/serial-killers-gilgo-beach-rex-heuermann.html)
 * [2023-08-06, 21:40:03](https://news.ycombinator.com/item?id=37027108) - [Every reported mistaken arrest using facial recognition, person has been Black](https://www.businessinsider.com/in-every-reported-false-arrests-based-on-facial-recognition-that-person-has-been-black-2023-8)
@@ -13,7 +14,6 @@
 * [2023-08-06, 19:26:39](https://news.ycombinator.com/item?id=37025621) - [We Are All Animals at Night](https://hazlitt.net/feature/we-are-all-animals-night)
 * [2023-08-06, 19:04:25](https://news.ycombinator.com/item?id=37025393) - [My history with Forth and stack machines (2010)](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
 * [2023-08-06, 18:47:08](https://news.ycombinator.com/item?id=37025233) - [Meta blocking news links in Canada](https://www.michaelgeist.ca/2023/08/metablockslinks/)
-* [2023-08-06, 18:45:59](https://news.ycombinator.com/item?id=37025227) - [Windows Repair Toolbox](https://windows-repair-toolbox.com/)
 * [2023-08-06, 18:24:56](https://news.ycombinator.com/item?id=37025027) - [SymmetricDS: Open-Source, cross platform database replication software](https://www.symmetricds.org/)
 * [2023-08-06, 18:18:17](https://news.ycombinator.com/item?id=37024954) - [ALTEXXANET - 90s Internet Experience (2016)](http://altexxanet.org/)
 * [2023-08-06, 17:53:35](https://news.ycombinator.com/item?id=37024685) - [An unconventional LEGO Technic beam sandwich keyboard case](https://dotat.at/@/2023-08-06-ltbs.html)
