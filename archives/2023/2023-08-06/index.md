@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-06](index.md)
 
+* [2023-08-06, 11:58:37](https://news.ycombinator.com/item?id=37021059) - [Show HN: Gmail GPT – Bringing AI to Google Gmail a new way to get done](https://workspace.google.com/marketplace/app/gmail_gpt/899305976589)
 * [2023-08-06, 11:36:29](https://news.ycombinator.com/item?id=37020924) - [Driving is more expensive than you think (2020)](https://news.harvard.edu/gazette/story/2020/01/massachusetts-car-economy-costs-64-billion-study-finds/)
 * [2023-08-06, 11:10:19](https://news.ycombinator.com/item?id=37020792) - [Venture-backed startups are failing at record rates](https://www.fastcompany.com/90933648/venture-backed-startups-are-failing-at-record-rates)
+* [2023-08-06, 10:29:14](https://news.ycombinator.com/item?id=37020620) - [Nvidia Launches a 100kb text-to-image model called Perfusion](https://research.nvidia.com/labs/par/Perfusion/)
 * [2023-08-06, 10:26:54](https://news.ycombinator.com/item?id=37020610) - [Show HN: Postgres Language Server](https://github.com/supabase/postgres_lsp)
 * [2023-08-06, 10:21:09](https://news.ycombinator.com/item?id=37020593) - [Baldur's Gate 3](https://baldursgate3.game/)
 * [2023-08-06, 10:13:02](https://news.ycombinator.com/item?id=37020565) - [Project: Police Flasher and 7-Segment LED Clock Through-Hole Soldering Kits](https://goughlui.com/2023/08/06/project-police-flasher-7-segment-led-clock-through-hole-soldering-kits/)
