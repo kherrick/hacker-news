@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-06, 10:21:09](https://news.ycombinator.com/item?id=37020593) - [Baldur's Gate 3](https://baldursgate3.game/)
 * [2023-08-06, 08:32:23](https://news.ycombinator.com/item?id=37020040) - [Internet Standard #80: ASCII Format for Network Interchange (1969)](https://www.ietf.org/rfc/std/std80.txt)
 * [2023-08-06, 08:23:47](https://news.ycombinator.com/item?id=37020001) - [Memex is already here, it’s just not evenly distributed](https://filiph.net/text/memex-is-already-here,-it%27s-just-not-evenly-distributed.html)
 * [2023-08-06, 06:35:16](https://news.ycombinator.com/item?id=37019520) - [The True Story of Central Park’s Doomed Victorian Dinosaur Museum](https://www.atlasobscura.com/articles/dinosaur-museum-central-park-boss-tweed-nyc)
@@ -11,7 +12,6 @@
 * [2023-08-06, 01:35:25](https://news.ycombinator.com/item?id=37018105) - [The way out of burnout (2016)](https://www.economist.com/1843/2016/07/28/the-way-out-of-burnout)
 * [2023-08-06, 01:13:17](https://news.ycombinator.com/item?id=37017958) - [Types of Garden Hoe](https://www.easydigging.com/garden-hoes/articles/types-of-hoes.html)
 * [2023-08-06, 00:41:26](https://news.ycombinator.com/item?id=37017750) - [George Church lab creates ovarian granulosa-like cells from stem cells](https://elifesciences.org/articles/83291)
-* [2023-08-05, 23:15:39](https://news.ycombinator.com/item?id=37017166) - [Mass Editing Memory in a Transformer](https://arxiv.org/abs/2210.07229)
 * [2023-08-05, 23:13:13](https://news.ycombinator.com/item?id=37017148) - [On the Digestion of Great Books](https://johnathanbi.com/writing/fractal-summary-method)
 * [2023-08-05, 22:36:22](https://news.ycombinator.com/item?id=37016910) - [Searching for Paul C. Pratt](https://www.bigmessowires.com/2023/08/05/searching-for-paul-c-pratt/)
 * [2023-08-05, 21:23:35](https://news.ycombinator.com/item?id=37016431) - [Tim Hunkin (Secret Lives of Machines)](https://www.timhunkin.com/control/o_about_the_site.htm)

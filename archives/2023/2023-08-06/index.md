@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-06](index.md)
 
+* [2023-08-06, 10:21:09](https://news.ycombinator.com/item?id=37020593) - [Baldur's Gate 3](https://baldursgate3.game/)
 * [2023-08-06, 08:32:23](https://news.ycombinator.com/item?id=37020040) - [Internet Standard #80: ASCII Format for Network Interchange (1969)](https://www.ietf.org/rfc/std/std80.txt)
 * [2023-08-06, 08:23:47](https://news.ycombinator.com/item?id=37020001) - [Memex is already here, it’s just not evenly distributed](https://filiph.net/text/memex-is-already-here,-it%27s-just-not-evenly-distributed.html)
 * [2023-08-06, 06:35:16](https://news.ycombinator.com/item?id=37019520) - [The True Story of Central Park’s Doomed Victorian Dinosaur Museum](https://www.atlasobscura.com/articles/dinosaur-museum-central-park-boss-tweed-nyc)
