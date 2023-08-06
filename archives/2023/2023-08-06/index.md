@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-06](index.md)
 
+* [2023-08-06, 05:33:14](https://news.ycombinator.com/item?id=37019250) - [Thinking of buying an EV in Colorado? You could get $26,500 in discounts](https://www.cpr.org/2023/08/04/colorado-electric-vehicle-discounts-guide/)
 * [2023-08-06, 05:29:59](https://news.ycombinator.com/item?id=37019228) - [The Sad Bastard Cookbook: Food you can make so you don't die](https://traumbooks.itch.io/the-sad-bastard-cookbook)
 * [2023-08-06, 04:49:35](https://news.ycombinator.com/item?id=37019069) - [Euros Bills Drawn Not to Represent Real Bridges. He Built Them All on This River](https://www.boredpanda.com/euro-notes-real-bridges-comparison-robin-stam/)
 * [2023-08-06, 03:56:00](https://news.ycombinator.com/item?id=37018859) - [Write Elixir NIFs in Rust](https://docs.rs/crate/rustler/latest)
