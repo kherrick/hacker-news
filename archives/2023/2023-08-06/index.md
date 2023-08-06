@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-06](index.md)
 
 * [2023-08-06, 21:40:03](https://news.ycombinator.com/item?id=37027108) - [Every reported mistaken arrest using facial recognition, person has been Black](https://www.businessinsider.com/in-every-reported-false-arrests-based-on-facial-recognition-that-person-has-been-black-2023-8)
+* [2023-08-06, 21:28:45](https://news.ycombinator.com/item?id=37027001) - [Timo Noko – The Professional Hobo](https://timonoko.github.io/)
 * [2023-08-06, 21:07:29](https://news.ycombinator.com/item?id=37026783) - [The Billionaire Who Controls Your Medical Records (2021)](https://www.forbes.com/sites/katiejennings/2021/04/08/billionaire-judy-faulkner-epic-systems/)
 * [2023-08-06, 21:07:20](https://news.ycombinator.com/item?id=37026780) - [Electron Band Structure in Germanium, My Ass (2007)](https://pages.cs.wisc.edu/~kovar/hall.html)
 * [2023-08-06, 20:52:05](https://news.ycombinator.com/item?id=37026592) - [Water – Oimo.io](https://oimo.io/works/water/)
