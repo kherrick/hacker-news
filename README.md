@@ -19,7 +19,7 @@
 * [2023-08-05, 16:33:56](https://news.ycombinator.com/item?id=37013704) - [New acoustic attack steals data from keystrokes with 95% accuracy](https://www.bleepingcomputer.com/news/security/new-acoustic-attack-steals-data-from-keystrokes-with-95-percent-accuracy/)
 * [2023-08-05, 16:07:40](https://news.ycombinator.com/item?id=37013396) - [Just normal web things](https://heather-buchel.com/blog/2023/07/just-normal-web-things/)
 * [2023-08-05, 14:34:08](https://news.ycombinator.com/item?id=37012388) - [‘One step at a time’: entrepreneur buys stairwell in London to help startups](https://www.theguardian.com/uk-news/2023/aug/05/simon-squibb-stairwell-small-businesses-entrepreneurs-twickenham-london)
-* [2023-08-05, 13:56:33](https://news.ycombinator.com/item?id=37012052) - [Checking in on troubles with dark matter](https://tritonstation.com/2023/06/27/checking-in-on-troubles-with-dark-matter/)
+* [2023-08-05, 13:57:15](https://news.ycombinator.com/item?id=37012058) - [Electrogenetic interface to program mammalian gene expression by direct current](https://www.nature.com/articles/s42255-023-00850-7)
 * [2023-08-05, 12:23:27](https://news.ycombinator.com/item?id=37011324) - [Bram Moolenaar has died](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)
 * [2023-08-05, 05:42:13](https://news.ycombinator.com/item?id=37009329) - [Try the last internet Kermit server](https://changelog.complete.org/archives/10555-try-the-last-internet-kermit-server)
 * [2023-08-05, 01:35:36](https://news.ycombinator.com/item?id=37008093) - [“The most beautiful of all printed books,” the Kelmscott Chaucer](https://www.openculture.com/2023/08/behold-a-digitization-of-the-most-beautiful-of-all-printed-books-the-kelmscott-chaucer.html)

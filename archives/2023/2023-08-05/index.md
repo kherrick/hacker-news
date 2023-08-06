@@ -49,6 +49,7 @@
 * [2023-08-05, 14:12:39](https://news.ycombinator.com/item?id=37012185) - [Mortality Patterns for Patients Hospitalized During National Cardiology Meetings](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4314435/)
 * [2023-08-05, 14:06:40](https://news.ycombinator.com/item?id=37012138) - [Spyware maker LetMeSpy shuts down after hacker deletes server data](https://techcrunch.com/2023/08/05/letmespy-spyware-shuts-down-wiped-server/)
 * [2023-08-05, 14:05:09](https://news.ycombinator.com/item?id=37012127) - [Wells Fargo customers scramble after deposits disappear from their accounts](https://www.nbcnews.com/business/business-news/wells-fargo-deposit-missing-outage-what-happened-rcna98201)
+* [2023-08-05, 13:57:15](https://news.ycombinator.com/item?id=37012058) - [Electrogenetic interface to program mammalian gene expression by direct current](https://www.nature.com/articles/s42255-023-00850-7)
 * [2023-08-05, 13:56:33](https://news.ycombinator.com/item?id=37012052) - [Checking in on troubles with dark matter](https://tritonstation.com/2023/06/27/checking-in-on-troubles-with-dark-matter/)
 * [2023-08-05, 13:39:43](https://news.ycombinator.com/item?id=37011905) - [Use of HD and DD drives, diskettes (2011)](http://www.retrotechnology.com/herbs_stuff/guzis.html)
 * [2023-08-05, 13:17:01](https://news.ycombinator.com/item?id=37011717) - [EPA Approved a Chevron Fuel Ingredient That Has a Lifetime Cancer Risk](https://science.slashdot.org/story/23/08/05/0139219/epa-approved-a-chevron-fuel-ingredient-that-has-a-lifetime-cancer-risk)
