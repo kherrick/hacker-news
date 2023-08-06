@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-06](index.md)
 
 * [2023-08-06, 21:07:29](https://news.ycombinator.com/item?id=37026783) - [The Billionaire Who Controls Your Medical Records (2021)](https://www.forbes.com/sites/katiejennings/2021/04/08/billionaire-judy-faulkner-epic-systems/)
+* [2023-08-06, 21:07:20](https://news.ycombinator.com/item?id=37026780) - [Electron Band Structure in Germanium, My Ass (2007)](https://pages.cs.wisc.edu/~kovar/hall.html)
 * [2023-08-06, 20:52:05](https://news.ycombinator.com/item?id=37026592) - [Water – Oimo.io](https://oimo.io/works/water/)
 * [2023-08-06, 20:32:46](https://news.ycombinator.com/item?id=37026339) - [Food rations in communist Poland, early 1980s](https://rarehistoricalphotos.com/food-rationing-communist-poland/)
 * [2023-08-06, 20:07:05](https://news.ycombinator.com/item?id=37026058) - [When seat belt laws drew fire as a violation of personal freedom](https://www.history.com/news/seat-belt-laws-resistance)

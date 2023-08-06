@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-06, 21:07:20](https://news.ycombinator.com/item?id=37026780) - [Electron Band Structure in Germanium, My Ass (2007)](https://pages.cs.wisc.edu/~kovar/hall.html)
 * [2023-08-06, 20:52:05](https://news.ycombinator.com/item?id=37026592) - [Water](https://oimo.io/works/water/)
-* [2023-08-06, 20:32:46](https://news.ycombinator.com/item?id=37026339) - [Food rations in communist Poland, early 1980s](https://rarehistoricalphotos.com/food-rationing-communist-poland/)
 * [2023-08-06, 20:05:21](https://news.ycombinator.com/item?id=37026041) - [PEP 723 – Embedding pyproject.toml in single-file scripts – peps.python.org](https://peps.python.org/pep-0723/)
 * [2023-08-06, 19:47:13](https://news.ycombinator.com/item?id=37025841) - [Barco: Linux Containers from Scratch in C](https://github.com/lucavallin/barco)
 * [2023-08-06, 19:46:19](https://news.ycombinator.com/item?id=37025834) - [New privacy tools and policies to help you stay safe and in control online](https://blog.google/products/search/new-privacy-tools/)
