@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-06, 13:17:15](https://news.ycombinator.com/item?id=37021584) - [MS Build of OpenJDK now with enhanced escape analysis enabled by default](https://learn.microsoft.com/en-us/java/openjdk/release-notes)
 * [2023-08-06, 13:05:04](https://news.ycombinator.com/item?id=37021481) - [Code Smells of Desperation](https://www.os2museum.com/wp/this-code-smells-of-desperation/)
 * [2023-08-06, 12:44:24](https://news.ycombinator.com/item?id=37021336) - [America’s Truckers, Cargo Pilots and Package Carriers Are Fed Up](https://www.wsj.com/articles/americas-truckers-cargo-pilots-and-package-carriers-are-fed-up-1543bfee)
 * [2023-08-06, 11:36:29](https://news.ycombinator.com/item?id=37020924) - [Driving is more expensive than you think (2020)](https://news.harvard.edu/gazette/story/2020/01/massachusetts-car-economy-costs-64-billion-study-finds/)
@@ -19,7 +20,6 @@
 * [2023-08-06, 01:13:17](https://news.ycombinator.com/item?id=37017958) - [Types of Garden Hoe](https://www.easydigging.com/garden-hoes/articles/types-of-hoes.html)
 * [2023-08-05, 22:36:22](https://news.ycombinator.com/item?id=37016910) - [Searching for Paul C. Pratt](https://www.bigmessowires.com/2023/08/05/searching-for-paul-c-pratt/)
 * [2023-08-05, 19:36:29](https://news.ycombinator.com/item?id=37015585) - [nic.funet.fi: Serving freely distributable files with FTP since 1990](https://www.funet.fi/)
-* [2023-08-05, 19:05:22](https://news.ycombinator.com/item?id=37015290) - [IBM and NASA open-source largest geospatial AI foundation model on Hugging Face](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face?sf180690117=1)
 * [2023-08-05, 16:33:56](https://news.ycombinator.com/item?id=37013704) - [New acoustic attack steals data from keystrokes with 95% accuracy](https://www.bleepingcomputer.com/news/security/new-acoustic-attack-steals-data-from-keystrokes-with-95-percent-accuracy/)
 * [2023-08-05, 13:57:15](https://news.ycombinator.com/item?id=37012058) - [Electrogenetic interface to program mammalian gene expression by direct current](https://www.nature.com/articles/s42255-023-00850-7)
 * [2023-08-05, 05:42:13](https://news.ycombinator.com/item?id=37009329) - [Try the last internet Kermit server](https://changelog.complete.org/archives/10555-try-the-last-internet-kermit-server)
