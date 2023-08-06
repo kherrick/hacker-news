@@ -9,6 +9,7 @@
 * [2023-08-06, 10:21:09](https://news.ycombinator.com/item?id=37020593) - [Baldur's Gate 3](https://baldursgate3.game/)
 * [2023-08-06, 10:13:02](https://news.ycombinator.com/item?id=37020565) - [Project: Police Flasher and 7-Segment LED Clock Through-Hole Soldering Kits](https://goughlui.com/2023/08/06/project-police-flasher-7-segment-led-clock-through-hole-soldering-kits/)
 * [2023-08-06, 09:47:25](https://news.ycombinator.com/item?id=37020421) - [Show HN: Archsense – Accurately generated architecture from the source code](https://www.archsense.dev)
+* [2023-08-06, 09:32:45](https://news.ycombinator.com/item?id=37020343) - [The back-to-office backfire: Companies ending WFH perks lose out on top talent](https://www.businessinsider.com/employees-work-from-home-benefits-as-good-as-raise-2023-8)
 * [2023-08-06, 09:07:48](https://news.ycombinator.com/item?id=37020212) - [Reasons to Drop Docker for Podman](https://developers.redhat.com/articles/2023/08/03/3-reasons-drop-docker-podman)
 * [2023-08-06, 08:32:23](https://news.ycombinator.com/item?id=37020040) - [Internet Standard #80: ASCII Format for Network Interchange (1969)](https://www.ietf.org/rfc/std/std80.txt)
 * [2023-08-06, 08:23:47](https://news.ycombinator.com/item?id=37020001) - [Memex is already here, it’s just not evenly distributed](https://filiph.net/text/memex-is-already-here,-it%27s-just-not-evenly-distributed.html)
