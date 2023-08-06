@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-06, 22:25:02](https://news.ycombinator.com/item?id=37027545) - [The Optics Library](http://markelz.physics.buffalo.edu/node/411)
 * [2023-08-06, 21:55:34](https://news.ycombinator.com/item?id=37027278) - [Serial murders have dwindled, thanks to improved technology](https://www.nytimes.com/2023/08/06/nyregion/serial-killers-gilgo-beach-rex-heuermann.html)
 * [2023-08-06, 21:40:03](https://news.ycombinator.com/item?id=37027108) - [Every reported mistaken arrest using facial recognition, person has been Black](https://www.businessinsider.com/in-every-reported-false-arrests-based-on-facial-recognition-that-person-has-been-black-2023-8)
 * [2023-08-06, 21:28:45](https://news.ycombinator.com/item?id=37027001) - [Timo Noko – The Professional Hobo](https://timonoko.github.io/)
 * [2023-08-06, 21:07:29](https://news.ycombinator.com/item?id=37026783) - [The Billionaire Who Controls Your Medical Records (2021)](https://www.forbes.com/sites/katiejennings/2021/04/08/billionaire-judy-faulkner-epic-systems/)
 * [2023-08-06, 21:07:20](https://news.ycombinator.com/item?id=37026780) - [Electron Band Structure in Germanium, My Ass (2007)](https://pages.cs.wisc.edu/~kovar/hall.html)
 * [2023-08-06, 20:52:05](https://news.ycombinator.com/item?id=37026592) - [Water](https://oimo.io/works/water/)
-* [2023-08-06, 20:05:21](https://news.ycombinator.com/item?id=37026041) - [PEP 723 – Embedding pyproject.toml in single-file scripts – peps.python.org](https://peps.python.org/pep-0723/)
+* [2023-08-06, 20:35:53](https://news.ycombinator.com/item?id=37026371) - [How to enjoy SF](http://zhayitong.com/2023/06/17/sf1.html)
 * [2023-08-06, 19:47:13](https://news.ycombinator.com/item?id=37025841) - [Barco: Linux Containers from Scratch in C](https://github.com/lucavallin/barco)
 * [2023-08-06, 19:46:19](https://news.ycombinator.com/item?id=37025834) - [New privacy tools and policies to help you stay safe and in control online](https://blog.google/products/search/new-privacy-tools/)
 * [2023-08-06, 19:26:39](https://news.ycombinator.com/item?id=37025621) - [We Are All Animals at Night](https://hazlitt.net/feature/we-are-all-animals-night)
@@ -27,7 +28,6 @@
 * [2023-08-06, 10:26:54](https://news.ycombinator.com/item?id=37020610) - [Postgres Language Server](https://github.com/supabase/postgres_lsp)
 * [2023-08-06, 08:23:47](https://news.ycombinator.com/item?id=37020001) - [Memex is already here, it’s just not evenly distributed](https://filiph.net/text/memex-is-already-here,-it%27s-just-not-evenly-distributed.html)
 * [2023-08-05, 14:36:40](https://news.ycombinator.com/item?id=37012413) - [Laniakea Books: Public domain books for everyone](https://nutcroft.com/blog/laniakea-books-public-domain-books-for-everyone/)
-* [2023-08-05, 04:30:09](https://news.ycombinator.com/item?id=37009037) - [Is NGC 1277 a problem for MOND?](https://tritonstation.com/2023/08/02/is-ngc-1277-a-problem-for-mond/)
 * [2023-08-04, 19:34:48](https://news.ycombinator.com/item?id=37004793) - [Precision Medicine and Its Imprecise History (2020)](https://hdsr.mitpress.mit.edu/pub/y7r65r4k/release/4)
 * [2023-08-04, 09:10:42](https://news.ycombinator.com/item?id=36997399) - [The Professor of Parody (1999)](https://newrepublic.com/article/150687/professor-parody)
 
