@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-08-06, 10:21:09",
-      "https://news.ycombinator.com/item?id=37020593"
+      "2023-08-06, 09:47:25",
+      "https://news.ycombinator.com/item?id=37020421"
     ],
     [
-      "Baldur's Gate 3",
-      "https://baldursgate3.game/"
+      "Show HN: Archsense – Accurately generated architecture from the source code",
+      "https://www.archsense.dev"
+    ]
+  ],
+  [
+    [
+      "2023-08-06, 09:07:48",
+      "https://news.ycombinator.com/item?id=37020212"
+    ],
+    [
+      "Reasons to Drop Docker for Podman",
+      "https://developers.redhat.com/articles/2023/08/03/3-reasons-drop-docker-podman"
     ]
   ],
   [
@@ -111,12 +121,12 @@
   ],
   [
     [
-      "2023-08-06, 00:41:26",
-      "https://news.ycombinator.com/item?id=37017750"
+      "2023-08-05, 23:15:39",
+      "https://news.ycombinator.com/item?id=37017166"
     ],
     [
-      "George Church lab creates ovarian granulosa-like cells from stem cells",
-      "https://elifesciences.org/articles/83291"
+      "Mass Editing Memory in a Transformer",
+      "https://arxiv.org/abs/2210.07229"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Veles – A tool for binary analysis (2018)",
       "https://github.com/codilime/veles"
-    ]
-  ],
-  [
-    [
-      "2023-08-04, 07:39:56",
-      "https://news.ycombinator.com/item?id=36996723"
-    ],
-    [
-      "DisplayPort: Taming the Altmode",
-      "https://hackaday.com/2023/08/03/displayport-taming-the-altmode/"
     ]
   ],
   [
