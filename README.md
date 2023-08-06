@@ -2,8 +2,8 @@
 
 * [2023-08-06, 16:19:06](https://news.ycombinator.com/item?id=37023521) - [Texas Power Prices to Surge 800% on Sunday Amid Searing Heat](https://www.bloomberg.com/news/articles/2023-08-05/texas-power-prices-to-surge-800-on-sunday-amid-searing-heat)
 * [2023-08-06, 15:52:57](https://news.ycombinator.com/item?id=37023215) - [Ironically, Zoom tells employees to return to office for work](https://nypost.com/2023/08/05/zoom-tells-employees-to-return-to-office-for-work/)
+* [2023-08-06, 15:43:03](https://news.ycombinator.com/item?id=37023138) - [Selfish, Virus-Like DNA Can Carry Genes Between Species](https://www.quantamagazine.org/selfish-virus-like-dna-can-carry-genes-between-species-20230803/)
 * [2023-08-06, 15:41:05](https://news.ycombinator.com/item?id=37023117) - [The First Big Antitrust Trial of the Century Is About to Start](https://www.thebignewsletter.com/p/the-first-big-antitrust-trial-of)
-* [2023-08-06, 15:40:07](https://news.ycombinator.com/item?id=37023105) - [Smoke-spotting AI watches live video to find early signs of wildfire](https://www.newscientist.com/article/2386195-smoke-spotting-ai-watches-live-video-to-find-early-signs-of-wildfire/)
 * [2023-08-06, 15:38:22](https://news.ycombinator.com/item?id=37023089) - [‘Baldur’s Gate 3’ Prepared for 100k Concurrent Players, They’ve Gotten 700K](https://www.forbes.com/sites/paultassi/2023/08/06/baldurs-gate-3-prepared-for-100000-concurrent-players-theyve-gotten-700000/)
 * [2023-08-06, 15:20:48](https://news.ycombinator.com/item?id=37022911) - [I Went to 50 Different Dentists: Almost All Gave a Different Diagnosis](https://www.rd.com/article/how-honest-are-dentists/)
 * [2023-08-06, 15:08:04](https://news.ycombinator.com/item?id=37022771) - [Offshore wind potential in the US is huge but untapped](https://www.theverge.com/2023/8/1/23815450/us-offshore-wind-potential-berkley-report)
