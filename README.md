@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-06, 02:29:53](https://news.ycombinator.com/item?id=37018397) - [Area 51 FBI Raid (2023)](https://www.area51fbiraid.com/)
 * [2023-08-06, 01:35:25](https://news.ycombinator.com/item?id=37018105) - [The way out of burnout (2016)](https://www.economist.com/1843/2016/07/28/the-way-out-of-burnout)
 * [2023-08-06, 00:41:26](https://news.ycombinator.com/item?id=37017750) - [George Church lab creates functional ovary tissue from adult human stem cells](https://elifesciences.org/articles/83291)
 * [2023-08-05, 23:20:44](https://news.ycombinator.com/item?id=37017199) - [Scientists of Chinese descent leaving the US at an accelerating pace](https://www.chemistryworld.com/news/scientists-of-chinese-descent-leaving-the-us-at-an-accelerating-pace/4017831.article)
@@ -18,7 +19,6 @@
 * [2023-08-05, 18:03:18](https://news.ycombinator.com/item?id=37014758) - [Duck DNS](https://www.duckdns.org/)
 * [2023-08-05, 16:33:56](https://news.ycombinator.com/item?id=37013704) - [New acoustic attack steals data from keystrokes with 95% accuracy](https://www.bleepingcomputer.com/news/security/new-acoustic-attack-steals-data-from-keystrokes-with-95-percent-accuracy/)
 * [2023-08-05, 16:07:40](https://news.ycombinator.com/item?id=37013396) - [Just normal web things](https://heather-buchel.com/blog/2023/07/just-normal-web-things/)
-* [2023-08-05, 16:01:11](https://news.ycombinator.com/item?id=37013320) - [Pirate site not impressed by Global DNS blocking order](https://torrentfreak.com/pirate-site-not-impressed-by-global-dns-blocking-order-230803/)
 * [2023-08-05, 13:56:33](https://news.ycombinator.com/item?id=37012052) - [Checking in on troubles with dark matter](https://tritonstation.com/2023/06/27/checking-in-on-troubles-with-dark-matter/)
 * [2023-08-05, 12:23:27](https://news.ycombinator.com/item?id=37011324) - [Bram Moolenaar has died](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)
 * [2023-08-05, 05:42:13](https://news.ycombinator.com/item?id=37009329) - [Try the last internet Kermit server](https://changelog.complete.org/archives/10555-try-the-last-internet-kermit-server)
