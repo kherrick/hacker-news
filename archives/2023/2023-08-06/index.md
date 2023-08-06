@@ -6,6 +6,7 @@
 
 * [2023-08-06, 08:32:23](https://news.ycombinator.com/item?id=37020040) - [Internet Standard #80: ASCII Format for Network Interchange (1969)](https://www.ietf.org/rfc/std/std80.txt)
 * [2023-08-06, 08:23:47](https://news.ycombinator.com/item?id=37020001) - [Memex is already here, it’s just not evenly distributed](https://filiph.net/text/memex-is-already-here,-it%27s-just-not-evenly-distributed.html)
+* [2023-08-06, 06:35:16](https://news.ycombinator.com/item?id=37019520) - [The True Story of Central Park’s Doomed Victorian Dinosaur Museum](https://www.atlasobscura.com/articles/dinosaur-museum-central-park-boss-tweed-nyc)
 * [2023-08-06, 05:33:14](https://news.ycombinator.com/item?id=37019250) - [Thinking of buying an EV in Colorado? You could get $26,500 in discounts](https://www.cpr.org/2023/08/04/colorado-electric-vehicle-discounts-guide/)
 * [2023-08-06, 05:29:59](https://news.ycombinator.com/item?id=37019228) - [The Sad Bastard Cookbook: Food you can make so you don't die](https://traumbooks.itch.io/the-sad-bastard-cookbook)
 * [2023-08-06, 04:49:35](https://news.ycombinator.com/item?id=37019069) - [Euros Bills Drawn Not to Represent Real Bridges. He Built Them All on This River](https://www.boredpanda.com/euro-notes-real-bridges-comparison-robin-stam/)
