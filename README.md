@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-06, 17:53:17](https://news.ycombinator.com/item?id=37024680) - [Medium's Partner Program Changes to Incentivize Human Writing over AI Articles](https://blog.medium.com/new-partner-program-incentives-focus-on-high-quality-human-writing-7335f8557f6e)
 * [2023-08-06, 17:51:48](https://news.ycombinator.com/item?id=37024662) - [A single antibody tackles two childhood viruses](https://www.nature.com/articles/d41586-023-02428-5)
 * [2023-08-06, 16:49:20](https://news.ycombinator.com/item?id=37023885) - [Why libvirt supports only 14 PCIe hotplugged devices on x86-64](https://dottedmag.net/blog/libvirt-14-pcie-devices/)
 * [2023-08-06, 16:42:26](https://news.ycombinator.com/item?id=37023806) - [Threat Actors Abuse Cloudflare Tunnel for Persistent Access, Data Theft](https://www.securityweek.com/threat-actors-abuse-cloudflare-tunnel-for-persistent-access-data-theft/)
@@ -8,14 +9,12 @@
 * [2023-08-06, 15:38:22](https://news.ycombinator.com/item?id=37023089) - [‘Baldur’s Gate 3’ Prepared for 100k Concurrent Players, They’ve Gotten 700K](https://www.forbes.com/sites/paultassi/2023/08/06/baldurs-gate-3-prepared-for-100000-concurrent-players-theyve-gotten-700000/)
 * [2023-08-06, 15:20:48](https://news.ycombinator.com/item?id=37022911) - [I went to 50 different dentists: almost all gave a different diagnosis (2022)](https://www.rd.com/article/how-honest-are-dentists/)
 * [2023-08-06, 15:08:04](https://news.ycombinator.com/item?id=37022771) - [Offshore wind potential in the US is huge but untapped](https://www.theverge.com/2023/8/1/23815450/us-offshore-wind-potential-berkley-report)
-* [2023-08-06, 14:58:08](https://news.ycombinator.com/item?id=37022661) - [China's Zombie Economy](https://newleftreview.org/sidecar/posts/zombie-economy)
 * [2023-08-06, 13:15:43](https://news.ycombinator.com/item?id=37021571) - [Jupyter AI](https://jupyter-ai.readthedocs.io/en/latest/)
 * [2023-08-06, 13:05:04](https://news.ycombinator.com/item?id=37021481) - [This code smells of desperation](https://www.os2museum.com/wp/this-code-smells-of-desperation/)
 * [2023-08-06, 12:33:24](https://news.ycombinator.com/item?id=37021264) - [Replace peer review with “peer replication” (2021)](https://blog.everydayscientist.com/replace-peer-review-with-peer-replication/)
 * [2023-08-06, 12:18:11](https://news.ycombinator.com/item?id=37021173) - [Lisp in Space](https://corecursive.com/lisp-in-space-with-ron-garret/)
 * [2023-08-06, 12:15:51](https://news.ycombinator.com/item?id=37021160) - [Zoom terms now allow training AI on user content with no opt out](https://explore.zoom.us/en/terms/)
 * [2023-08-06, 12:15:25](https://news.ycombinator.com/item?id=37021158) - [Grokking AVL and RAVL Trees](https://photonlines.substack.com/p/grokking-avl-and-ravl-trees)
-* [2023-08-06, 11:37:28](https://news.ycombinator.com/item?id=37020930) - [BBRv3: Algorithm Bug Fixes and Public Internet Deployment](https://datatracker.ietf.org/meeting/117/materials/slides-117-ccwg-bbrv3-algorithm-bug-fixes-and-public-internet-deployment-00)
 * [2023-08-06, 11:10:19](https://news.ycombinator.com/item?id=37020792) - [Venture-backed startups are failing at record rates](https://www.fastcompany.com/90933648/venture-backed-startups-are-failing-at-record-rates)
 * [2023-08-06, 10:26:54](https://news.ycombinator.com/item?id=37020610) - [Postgres Language Server](https://github.com/supabase/postgres_lsp)
 * [2023-08-06, 10:13:02](https://news.ycombinator.com/item?id=37020565) - [Project: Police Flasher and 7-Segment LED Clock Through-Hole Soldering Kits](https://goughlui.com/2023/08/06/project-police-flasher-7-segment-led-clock-through-hole-soldering-kits/)
@@ -30,6 +29,7 @@
 * [2023-08-04, 12:25:45](https://news.ycombinator.com/item?id=36999003) - [Multimodal Neurons in Pretrained Text-Only Transformers](https://huggingface.co/papers/2308.01544)
 * [2023-08-04, 09:13:48](https://news.ycombinator.com/item?id=36997416) - [The Status Quo Coalition](https://acoup.blog/2023/07/07/collections-the-status-quo-coalition/)
 * [2023-08-04, 07:36:44](https://news.ycombinator.com/item?id=36996696) - [How to emulate an Atari ST from inside](https://www.raspberrypi.com/news/how-to-emulate-an-atari-st-from-inside/)
+* [2023-08-04, 06:14:26](https://news.ycombinator.com/item?id=36996075) - [Scientists create novel approach to control energy waves in 4D](https://showme.missouri.edu/2023/scientists-create-novel-approach-to-control-energy-waves-in-4d/)
 
 ## [Archives](archives/index.md)
 
