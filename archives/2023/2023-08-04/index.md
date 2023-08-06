@@ -42,6 +42,7 @@
 * [2023-08-04, 16:26:05](https://news.ycombinator.com/item?id=37002187) - [Exploiting a Flaw in Bitmap Handling in Windows User-Mode Printer Drivers](https://www.thezdi.com/blog/2023/8/1/exploiting-a-flaw-in-bitmap-handling-in-windows-user-mode-printer-drivers)
 * [2023-08-04, 16:15:25](https://news.ycombinator.com/item?id=37002021) - [Sharpscript: Lisp for Scripting](https://sharpscript.net/lisp/)
 * [2023-08-04, 16:15:23](https://news.ycombinator.com/item?id=37002020) - [Mirantis Unveils K0smotron: An Open-Source Kubernetes Management Project](https://opensourcewatch.beehiiv.com/p/mirantis-unveils-k0smotron-opensource-streamlined-kubernetes-management-project)
+* [2023-08-04, 16:14:46](https://news.ycombinator.com/item?id=37002008) - [Qualcomm starts a RISC-V joint venture](https://arstechnica.com/gadgets/2023/08/qualcomm-one-of-arms-biggest-customers-starts-a-risc-v-joint-venture/)
 * [2023-08-04, 16:03:47](https://news.ycombinator.com/item?id=37001853) - [GNUStep Now Has Badges](http://multixden.blogspot.com/2023/08/gnustep-now-has-badges.html)
 * [2023-08-04, 16:02:40](https://news.ycombinator.com/item?id=37001837) - [LK-99 is an online sensation – but replication efforts fall short](https://www.nature.com/articles/d41586-023-02481-0)
 * [2023-08-04, 16:02:03](https://news.ycombinator.com/item?id=37001820) - [The Gamification of Reading Is Changing How We Approach Books](https://www.shondaland.com/inspire/books/a44567428/the-gamification-of-reading-is-changing-how-we-approach-books/)
