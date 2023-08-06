@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-06](index.md)
 
 * [2023-08-06, 15:20:48](https://news.ycombinator.com/item?id=37022911) - [I Went to 50 Different Dentists: Almost All Gave a Different Diagnosis](https://www.rd.com/article/how-honest-are-dentists/)
+* [2023-08-06, 15:08:04](https://news.ycombinator.com/item?id=37022771) - [Offshore wind potential in the US is huge but untapped](https://www.theverge.com/2023/8/1/23815450/us-offshore-wind-potential-berkley-report)
 * [2023-08-06, 14:58:08](https://news.ycombinator.com/item?id=37022661) - [China's Zombie Economy](https://newleftreview.org/sidecar/posts/zombie-economy)
 * [2023-08-06, 13:52:47](https://news.ycombinator.com/item?id=37021916) - [An airline said her bag was lost, her tracker said otherwise. She flew to get it](https://www.cnn.com/travel/article/airtag-lost-luggage-flight/index.html)
 * [2023-08-06, 13:36:35](https://news.ycombinator.com/item?id=37021769) - [Discord Rolled Out Yubikeys for All Employees](https://discord.com/blog/how-discord-rolled-out-yubikeys-for-all-employees)
