@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-06, 17:51:48](https://news.ycombinator.com/item?id=37024662) - [A single antibody tackles two childhood viruses](https://www.nature.com/articles/d41586-023-02428-5)
 * [2023-08-06, 16:49:20](https://news.ycombinator.com/item?id=37023885) - [Why libvirt supports only 14 PCIe hotplugged devices on x86-64](https://dottedmag.net/blog/libvirt-14-pcie-devices/)
 * [2023-08-06, 16:42:26](https://news.ycombinator.com/item?id=37023806) - [Threat Actors Abuse Cloudflare Tunnel for Persistent Access, Data Theft](https://www.securityweek.com/threat-actors-abuse-cloudflare-tunnel-for-persistent-access-data-theft/)
 * [2023-08-06, 15:43:03](https://news.ycombinator.com/item?id=37023138) - [Selfish, Virus-Like DNA Can Carry Genes Between Species](https://www.quantamagazine.org/selfish-virus-like-dna-can-carry-genes-between-species-20230803/)
@@ -20,7 +21,6 @@
 * [2023-08-06, 10:13:02](https://news.ycombinator.com/item?id=37020565) - [Project: Police Flasher and 7-Segment LED Clock Through-Hole Soldering Kits](https://goughlui.com/2023/08/06/project-police-flasher-7-segment-led-clock-through-hole-soldering-kits/)
 * [2023-08-06, 09:54:30](https://news.ycombinator.com/item?id=37020467) - [Error Handling in Zig](https://www.aolium.com/karlseguin/4013ac14-2457-479b-e59b-e603c04673c8)
 * [2023-08-06, 09:47:25](https://news.ycombinator.com/item?id=37020421) - [Show HN: Archsense – Accurately generated architecture from the source code](https://www.archsense.dev)
-* [2023-08-06, 09:23:39](https://news.ycombinator.com/item?id=37020290) - [Sync for Lemmy](https://play.google.com/store/apps/datasafety?id=io.syncapps.lemmy_sync)
 * [2023-08-06, 08:32:23](https://news.ycombinator.com/item?id=37020040) - [Internet Standard #80: ASCII Format for Network Interchange (1969)](https://www.ietf.org/rfc/std/std80.txt)
 * [2023-08-06, 08:23:47](https://news.ycombinator.com/item?id=37020001) - [Memex is already here, it’s just not evenly distributed](https://filiph.net/text/memex-is-already-here,-it%27s-just-not-evenly-distributed.html)
 * [2023-08-06, 05:29:59](https://news.ycombinator.com/item?id=37019228) - [The Sad Bastard Cookbook](https://traumbooks.itch.io/the-sad-bastard-cookbook)
