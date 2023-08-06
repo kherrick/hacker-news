@@ -1,21 +1,11 @@
 [
   [
     [
-      "2023-08-06, 21:07:29",
-      "https://news.ycombinator.com/item?id=37026783"
-    ],
-    [
-      "The Billionaire Who Controls Your Medical Records (2021)",
-      "https://www.forbes.com/sites/katiejennings/2021/04/08/billionaire-judy-faulkner-epic-systems/"
-    ]
-  ],
-  [
-    [
       "2023-08-06, 20:52:05",
       "https://news.ycombinator.com/item?id=37026592"
     ],
     [
-      "Water – Oimo.io",
+      "Water",
       "https://oimo.io/works/water/"
     ]
   ],
@@ -51,6 +41,16 @@
   ],
   [
     [
+      "2023-08-06, 19:46:19",
+      "https://news.ycombinator.com/item?id=37025834"
+    ],
+    [
+      "New privacy tools and policies to help you stay safe and in control online",
+      "https://blog.google/products/search/new-privacy-tools/"
+    ]
+  ],
+  [
+    [
       "2023-08-06, 19:26:39",
       "https://news.ycombinator.com/item?id=37025621"
     ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=37025233"
     ],
     [
-      "Meta Blocking News Links in Canada",
+      "Meta blocking news links in Canada",
       "https://www.michaelgeist.ca/2023/08/metablockslinks/"
     ]
   ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2023-08-05, 14:36:40",
+      "https://news.ycombinator.com/item?id=37012413"
+    ],
+    [
+      "Laniakea Books: Public domain books for everyone",
+      "https://nutcroft.com/blog/laniakea-books-public-domain-books-for-everyone/"
+    ]
+  ],
+  [
+    [
       "2023-08-05, 04:30:09",
       "https://news.ycombinator.com/item?id=37009037"
     ],
@@ -287,16 +297,6 @@
     [
       "Multimodal Neurons in Pretrained Text-Only Transformers",
       "https://huggingface.co/papers/2308.01544"
-    ]
-  ],
-  [
-    [
-      "2023-08-04, 09:13:48",
-      "https://news.ycombinator.com/item?id=36997416"
-    ],
-    [
-      "The Status Quo Coalition",
-      "https://acoup.blog/2023/07/07/collections-the-status-quo-coalition/"
     ]
   ]
 ]
