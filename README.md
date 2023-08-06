@@ -6,7 +6,6 @@
 * [2023-08-06, 00:41:26](https://news.ycombinator.com/item?id=37017750) - [George Church lab creates functional ovary tissue from adult human stem cells](https://elifesciences.org/articles/83291)
 * [2023-08-05, 23:15:39](https://news.ycombinator.com/item?id=37017166) - [Mass Editing Memory in a Transformer](https://arxiv.org/abs/2210.07229)
 * [2023-08-05, 22:36:22](https://news.ycombinator.com/item?id=37016910) - [Searching for Paul C. Pratt](https://www.bigmessowires.com/2023/08/05/searching-for-paul-c-pratt/)
-* [2023-08-05, 22:25:33](https://news.ycombinator.com/item?id=37016842) - [E-scooter startup Spin apparently uses RasPi 4s inside their scooters](https://abolish.social/@_/110828271798284741)
 * [2023-08-05, 21:23:35](https://news.ycombinator.com/item?id=37016431) - [Tim Hunkin (Secret Lives of Machines)](https://www.timhunkin.com/control/o_about_the_site.htm)
 * [2023-08-05, 21:20:19](https://news.ycombinator.com/item?id=37016413) - [MK-1](https://mkone.ai/blog/introducing-mk1)
 * [2023-08-05, 19:36:29](https://news.ycombinator.com/item?id=37015585) - [nic.funet.fi: Serving freely distributable files with FTP since 1990](https://www.funet.fi/)
@@ -29,6 +28,7 @@
 * [2023-08-04, 16:43:17](https://news.ycombinator.com/item?id=37002420) - [My favorite Vim oneliners for text manipulation](https://muhammadraza.me/2023/vim-onliners/)
 * [2023-08-04, 16:15:25](https://news.ycombinator.com/item?id=37002021) - [Sharpscript: Lisp for Scripting](https://sharpscript.net/lisp/)
 * [2023-08-04, 07:39:56](https://news.ycombinator.com/item?id=36996723) - [DisplayPort: Taming the Altmode](https://hackaday.com/2023/08/03/displayport-taming-the-altmode/)
+* [2023-08-04, 00:50:46](https://news.ycombinator.com/item?id=36994065) - [Decoding base16 sequences quickly](https://lemire.me/blog/2023/07/27/decoding-base16-sequences-quickly/)
 * [2023-08-03, 23:03:57](https://news.ycombinator.com/item?id=36993291) - [A short ballad dedicated to the growth of programs (1986)](https://ashwinram.org/1986/01/28/a-short-ballad-dedicated-to-the-growth-of-programs/)
 
 ## [Archives](archives/index.md)
