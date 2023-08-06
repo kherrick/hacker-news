@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-06](index.md)
 
+* [2023-08-06, 21:55:34](https://news.ycombinator.com/item?id=37027278) - [Serial murders have dwindled, thanks to improved technology](https://www.nytimes.com/2023/08/06/nyregion/serial-killers-gilgo-beach-rex-heuermann.html)
 * [2023-08-06, 21:40:03](https://news.ycombinator.com/item?id=37027108) - [Every reported mistaken arrest using facial recognition, person has been Black](https://www.businessinsider.com/in-every-reported-false-arrests-based-on-facial-recognition-that-person-has-been-black-2023-8)
 * [2023-08-06, 21:28:45](https://news.ycombinator.com/item?id=37027001) - [Timo Noko – The Professional Hobo](https://timonoko.github.io/)
 * [2023-08-06, 21:07:29](https://news.ycombinator.com/item?id=37026783) - [The Billionaire Who Controls Your Medical Records (2021)](https://www.forbes.com/sites/katiejennings/2021/04/08/billionaire-judy-faulkner-epic-systems/)

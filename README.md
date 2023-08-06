@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-06, 21:55:34](https://news.ycombinator.com/item?id=37027278) - [Serial murders have dwindled, thanks to improved technology](https://www.nytimes.com/2023/08/06/nyregion/serial-killers-gilgo-beach-rex-heuermann.html)
 * [2023-08-06, 21:40:03](https://news.ycombinator.com/item?id=37027108) - [Every reported mistaken arrest using facial recognition, person has been Black](https://www.businessinsider.com/in-every-reported-false-arrests-based-on-facial-recognition-that-person-has-been-black-2023-8)
 * [2023-08-06, 21:28:45](https://news.ycombinator.com/item?id=37027001) - [Timo Noko – The Professional Hobo](https://timonoko.github.io/)
 * [2023-08-06, 21:07:29](https://news.ycombinator.com/item?id=37026783) - [The Billionaire Who Controls Your Medical Records (2021)](https://www.forbes.com/sites/katiejennings/2021/04/08/billionaire-judy-faulkner-epic-systems/)
@@ -23,13 +24,12 @@
 * [2023-08-06, 12:33:24](https://news.ycombinator.com/item?id=37021264) - [Replace peer review with “peer replication” (2021)](https://blog.everydayscientist.com/replace-peer-review-with-peer-replication/)
 * [2023-08-06, 12:18:11](https://news.ycombinator.com/item?id=37021173) - [Lisp in Space](https://corecursive.com/lisp-in-space-with-ron-garret/)
 * [2023-08-06, 12:15:51](https://news.ycombinator.com/item?id=37021160) - [Zoom terms now allow training AI on user content with no opt out](https://explore.zoom.us/en/terms/)
-* [2023-08-06, 12:15:25](https://news.ycombinator.com/item?id=37021158) - [Grokking AVL and RAVL Trees](https://photonlines.substack.com/p/grokking-avl-and-ravl-trees)
 * [2023-08-06, 10:26:54](https://news.ycombinator.com/item?id=37020610) - [Postgres Language Server](https://github.com/supabase/postgres_lsp)
 * [2023-08-06, 08:23:47](https://news.ycombinator.com/item?id=37020001) - [Memex is already here, it’s just not evenly distributed](https://filiph.net/text/memex-is-already-here,-it%27s-just-not-evenly-distributed.html)
 * [2023-08-05, 14:36:40](https://news.ycombinator.com/item?id=37012413) - [Laniakea Books: Public domain books for everyone](https://nutcroft.com/blog/laniakea-books-public-domain-books-for-everyone/)
 * [2023-08-05, 04:30:09](https://news.ycombinator.com/item?id=37009037) - [Is NGC 1277 a problem for MOND?](https://tritonstation.com/2023/08/02/is-ngc-1277-a-problem-for-mond/)
 * [2023-08-04, 19:34:48](https://news.ycombinator.com/item?id=37004793) - [Precision Medicine and Its Imprecise History (2020)](https://hdsr.mitpress.mit.edu/pub/y7r65r4k/release/4)
-* [2023-08-04, 16:14:46](https://news.ycombinator.com/item?id=37002008) - [Qualcomm starts a RISC-V joint venture](https://arstechnica.com/gadgets/2023/08/qualcomm-one-of-arms-biggest-customers-starts-a-risc-v-joint-venture/)
+* [2023-08-04, 09:10:42](https://news.ycombinator.com/item?id=36997399) - [The Professor of Parody (1999)](https://newrepublic.com/article/150687/professor-parody)
 
 ## [Archives](archives/index.md)
 
