@@ -14,6 +14,7 @@
 * [2023-08-04, 21:23:22](https://news.ycombinator.com/item?id=37006082) - [Most promoted and blocked domains among Kagi Search users](https://kagi.com/stats)
 * [2023-08-04, 21:11:03](https://news.ycombinator.com/item?id=37005937) - [IBM, Red Hat and Free Software: An old maddog’s view](https://www.lpi.org/blog/2023/07/30/ibm-red-hat-and-free-software-an-old-maddogs-view/)
 * [2023-08-04, 20:44:54](https://news.ycombinator.com/item?id=37005629) - [Major government tech contractors use vendor-lock to drive revenue: study](https://fedscoop.com/major-government-tech-contractors-use-monopolistic-vendor-lock-to-drive-revenue-study/)
+* [2023-08-04, 20:31:36](https://news.ycombinator.com/item?id=37005478) - [Analysis and Workload Characterization of the CERN EOS Storage System [pdf]](https://sincerely.dev/papers/cheops22-purandare.pdf)
 * [2023-08-04, 19:48:49](https://news.ycombinator.com/item?id=37004949) - [Beech leaf disease is ravaging North American trees](https://www.science.org/content/article/beech-leaf-disease-ravaging-north-american-trees)
 * [2023-08-04, 19:43:16](https://news.ycombinator.com/item?id=37004885) - [Cloud Provider Gets $2.3B Loan Using Nvidia's H100 as Collateral](https://www.anandtech.com/show/19995/cloud-provider-gets-23-billion-debt-using-nvidias-h100-as-collateral)
 * [2023-08-04, 19:29:41](https://news.ycombinator.com/item?id=37004720) - [American English Dialects](https://aschmann.net/AmEng/)
