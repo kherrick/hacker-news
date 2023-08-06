@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-06, 20:07:05](https://news.ycombinator.com/item?id=37026058) - [When seat belt laws drew fire as a violation of personal freedom](https://www.history.com/news/seat-belt-laws-resistance)
+* [2023-08-06, 20:05:21](https://news.ycombinator.com/item?id=37026041) - [PEP 723 – Embedding pyproject.toml in single-file scripts – peps.python.org](https://peps.python.org/pep-0723/)
 * [2023-08-06, 19:47:13](https://news.ycombinator.com/item?id=37025841) - [Barco: Linux Containers from Scratch in C](https://github.com/lucavallin/barco)
 * [2023-08-06, 19:29:10](https://news.ycombinator.com/item?id=37025650) - [Eight Months Pregnant and Arrested After False Facial Recognition Match](https://www.nytimes.com/2023/08/06/technology/facial-recognition-false-arrest.html)
 * [2023-08-06, 19:26:39](https://news.ycombinator.com/item?id=37025621) - [We Are All Animals at Night](https://hazlitt.net/feature/we-are-all-animals-night)
@@ -24,7 +25,6 @@
 * [2023-08-06, 09:54:30](https://news.ycombinator.com/item?id=37020467) - [Error Handling in Zig](https://www.aolium.com/karlseguin/4013ac14-2457-479b-e59b-e603c04673c8)
 * [2023-08-06, 09:47:25](https://news.ycombinator.com/item?id=37020421) - [Show HN: Archsense – Accurately generated architecture from the source code](https://www.archsense.dev)
 * [2023-08-06, 08:23:47](https://news.ycombinator.com/item?id=37020001) - [Memex is already here, it’s just not evenly distributed](https://filiph.net/text/memex-is-already-here,-it%27s-just-not-evenly-distributed.html)
-* [2023-08-06, 05:29:59](https://news.ycombinator.com/item?id=37019228) - [The Sad Bastard Cookbook](https://traumbooks.itch.io/the-sad-bastard-cookbook)
 * [2023-08-05, 04:30:09](https://news.ycombinator.com/item?id=37009037) - [Is NGC 1277 a problem for MOND?](https://tritonstation.com/2023/08/02/is-ngc-1277-a-problem-for-mond/)
 * [2023-08-04, 19:34:48](https://news.ycombinator.com/item?id=37004793) - [Precision Medicine and Its Imprecise History (2020)](https://hdsr.mitpress.mit.edu/pub/y7r65r4k/release/4)
 * [2023-08-04, 16:14:46](https://news.ycombinator.com/item?id=37002008) - [Qualcomm starts a RISC-V joint venture](https://arstechnica.com/gadgets/2023/08/qualcomm-one-of-arms-biggest-customers-starts-a-risc-v-joint-venture/)
