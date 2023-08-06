@@ -6,6 +6,7 @@
 
 * [2023-08-05, 23:20:44](https://news.ycombinator.com/item?id=37017199) - [Scientists of Chinese descent leaving the US at an accelerating pace](https://www.chemistryworld.com/news/scientists-of-chinese-descent-leaving-the-us-at-an-accelerating-pace/4017831.article)
 * [2023-08-05, 23:15:39](https://news.ycombinator.com/item?id=37017166) - [Mass Editing Memory in a Transformer](https://arxiv.org/abs/2210.07229)
+* [2023-08-05, 23:13:13](https://news.ycombinator.com/item?id=37017148) - [On the Digestion of Great Books](https://johnathanbi.com/writing/fractal-summary-method)
 * [2023-08-05, 22:36:22](https://news.ycombinator.com/item?id=37016910) - [Searching for Paul C. Pratt](https://www.bigmessowires.com/2023/08/05/searching-for-paul-c-pratt/)
 * [2023-08-05, 22:31:39](https://news.ycombinator.com/item?id=37016876) - [Jeremy Vaught spent 16 years to build @music on Twitter, then X took it away](https://syzito.xyz/@selzero/110837319716739179)
 * [2023-08-05, 22:25:33](https://news.ycombinator.com/item?id=37016842) - [E-scooter startup Spin leaves Seattle, leaving behind RasPi 4s in their scooters](https://abolish.social/@_/110828271798284741)
