@@ -76,6 +76,7 @@
 * [2023-08-05, 05:42:13](https://news.ycombinator.com/item?id=37009329) - [Try the Last Internet Kermit Server](https://changelog.complete.org/archives/10555-try-the-last-internet-kermit-server)
 * [2023-08-05, 05:35:49](https://news.ycombinator.com/item?id=37009296) - [Eventual Business Consistency](https://tidyfirst.substack.com/p/eventual-business-consistency)
 * [2023-08-05, 05:30:18](https://news.ycombinator.com/item?id=37009272) - [MatX: Faster Chips for LLMs](https://matx.com)
+* [2023-08-05, 04:30:09](https://news.ycombinator.com/item?id=37009037) - [Is NGC 1277 a problem for MOND?](https://tritonstation.com/2023/08/02/is-ngc-1277-a-problem-for-mond/)
 * [2023-08-05, 04:28:07](https://news.ycombinator.com/item?id=37009027) - [Carbon–cement supercapacitors as a scalable bulk energy storage solution](https://www.pnas.org/doi/10.1073/pnas.2304318120)
 * [2023-08-05, 03:29:47](https://news.ycombinator.com/item?id=37008727) - [Flexible Glass in Tiberius’ Rome (2011)](https://www.strangehistory.net/2011/02/20/flexible-glass-in-tiberius-rome/)
 * [2023-08-05, 03:29:37](https://news.ycombinator.com/item?id=37008724) - [NASA has reestablished full communications with Voyager 2](https://www.jpl.nasa.gov/news/nasa-mission-update-voyager-2-communications-pause)

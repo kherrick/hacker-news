@@ -24,7 +24,7 @@
 * [2023-08-06, 08:23:47](https://news.ycombinator.com/item?id=37020001) - [Memex is already here, it’s just not evenly distributed](https://filiph.net/text/memex-is-already-here,-it%27s-just-not-evenly-distributed.html)
 * [2023-08-06, 05:29:59](https://news.ycombinator.com/item?id=37019228) - [The Sad Bastard Cookbook](https://traumbooks.itch.io/the-sad-bastard-cookbook)
 * [2023-08-05, 20:34:03](https://news.ycombinator.com/item?id=37016049) - [Ask HN: AI that produces sheet music for practice?](https://news.ycombinator.com/item?id=37016049)
-* [2023-08-04, 21:48:23](https://news.ycombinator.com/item?id=37006319) - [Shrinkray: A modern multi-format test-case reducer](https://github.com/DRMacIver/shrinkray)
+* [2023-08-05, 04:30:09](https://news.ycombinator.com/item?id=37009037) - [Is NGC 1277 a problem for MOND?](https://tritonstation.com/2023/08/02/is-ngc-1277-a-problem-for-mond/)
 * [2023-08-04, 16:14:46](https://news.ycombinator.com/item?id=37002008) - [Qualcomm starts a RISC-V joint venture](https://arstechnica.com/gadgets/2023/08/qualcomm-one-of-arms-biggest-customers-starts-a-risc-v-joint-venture/)
 * [2023-08-04, 12:25:45](https://news.ycombinator.com/item?id=36999003) - [Multimodal Neurons in Pretrained Text-Only Transformers](https://huggingface.co/papers/2308.01544)
 * [2023-08-04, 09:13:48](https://news.ycombinator.com/item?id=36997416) - [The Status Quo Coalition](https://acoup.blog/2023/07/07/collections-the-status-quo-coalition/)
