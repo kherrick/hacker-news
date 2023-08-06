@@ -88,6 +88,7 @@
 * [2023-08-04, 10:10:40](https://news.ycombinator.com/item?id=36997821) - [Andrew McCalip demonstrates synthesis of LK99](https://twitter.com/andrewmccalip/status/1687405505604734978)
 * [2023-08-04, 09:42:32](https://news.ycombinator.com/item?id=36997641) - [Jam.gg (Formerly Piepacker) (YC S20) Is Hiring](https://news.ycombinator.com/item?id=36997641)
 * [2023-08-04, 09:16:33](https://news.ycombinator.com/item?id=36997434) - [Beaver Notes: A Privacy-Focused Open-Source Note-Taking App](https://www.beavernotes.com)
+* [2023-08-04, 09:13:48](https://news.ycombinator.com/item?id=36997416) - [The Status Quo Coalition](https://acoup.blog/2023/07/07/collections-the-status-quo-coalition/)
 * [2023-08-04, 08:51:50](https://news.ycombinator.com/item?id=36997269) - [Show HN: SymbolicAI](https://github.com/Xpitfire/symbolicai)
 * [2023-08-04, 08:51:27](https://news.ycombinator.com/item?id=36997263) - [Veles – A new age tool for binary analysis](https://github.com/codilime/veles)
 * [2023-08-04, 08:25:36](https://news.ycombinator.com/item?id=36997067) - [Mozilla VPN: CVE-2023-4104: vpndaemon wrongly implements Polkit authentication](https://www.openwall.com/lists/oss-security/2023/08/03/1)

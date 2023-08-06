@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-06, 14:58:08](https://news.ycombinator.com/item?id=37022661) - [China's Zombie Economy](https://newleftreview.org/sidecar/posts/zombie-economy)
 * [2023-08-06, 13:52:47](https://news.ycombinator.com/item?id=37021916) - [An airline said her bag was lost, her tracker said otherwise. She flew to get it](https://www.cnn.com/travel/article/airtag-lost-luggage-flight/index.html)
 * [2023-08-06, 13:36:35](https://news.ycombinator.com/item?id=37021769) - [Discord Rolled Out Yubikeys for All Employees](https://discord.com/blog/how-discord-rolled-out-yubikeys-for-all-employees)
 * [2023-08-06, 13:17:15](https://news.ycombinator.com/item?id=37021584) - [MS Build of OpenJDK now with enhanced escape analysis enabled by default](https://learn.microsoft.com/en-us/java/openjdk/release-notes)
@@ -23,11 +24,10 @@
 * [2023-08-06, 01:13:17](https://news.ycombinator.com/item?id=37017958) - [Types of Garden Hoe](https://www.easydigging.com/garden-hoes/articles/types-of-hoes.html)
 * [2023-08-05, 20:34:03](https://news.ycombinator.com/item?id=37016049) - [Ask HN: AI that produces sheet music for practice?](https://news.ycombinator.com/item?id=37016049)
 * [2023-08-05, 13:58:46](https://news.ycombinator.com/item?id=37012069) - [Entity Resolution Challenges](https://www.sheshbabu.com/posts/entity-resolution-challenges/)
-* [2023-08-05, 05:42:13](https://news.ycombinator.com/item?id=37009329) - [Try the last internet Kermit server](https://changelog.complete.org/archives/10555-try-the-last-internet-kermit-server)
 * [2023-08-04, 16:14:46](https://news.ycombinator.com/item?id=37002008) - [Qualcomm starts a RISC-V joint venture](https://arstechnica.com/gadgets/2023/08/qualcomm-one-of-arms-biggest-customers-starts-a-risc-v-joint-venture/)
 * [2023-08-04, 16:10:34](https://news.ycombinator.com/item?id=37001942) - [Realms of the Haunting](https://www.filfre.net/2023/08/realms-of-the-haunting/)
 * [2023-08-04, 12:25:45](https://news.ycombinator.com/item?id=36999003) - [Multimodal Neurons in Pretrained Text-Only Transformers](https://huggingface.co/papers/2308.01544)
-* [2023-08-04, 08:51:27](https://news.ycombinator.com/item?id=36997263) - [Veles – A tool for binary analysis (2018)](https://github.com/codilime/veles)
+* [2023-08-04, 09:13:48](https://news.ycombinator.com/item?id=36997416) - [The Status Quo Coalition](https://acoup.blog/2023/07/07/collections-the-status-quo-coalition/)
 * [2023-08-04, 07:36:44](https://news.ycombinator.com/item?id=36996696) - [How to emulate an Atari ST from inside](https://www.raspberrypi.com/news/how-to-emulate-an-atari-st-from-inside/)
 * [2023-08-04, 06:14:26](https://news.ycombinator.com/item?id=36996075) - [Scientists create novel approach to control energy waves in 4D](https://showme.missouri.edu/2023/scientists-create-novel-approach-to-control-energy-waves-in-4d/)
 
