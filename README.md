@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-06, 00:41:26](https://news.ycombinator.com/item?id=37017750) - [George Church lab creates functional ovary tissue from adult human stem cells](https://elifesciences.org/articles/83291)
+* [2023-08-05, 23:20:44](https://news.ycombinator.com/item?id=37017199) - [Scientists of Chinese descent leaving the US at an accelerating pace](https://www.chemistryworld.com/news/scientists-of-chinese-descent-leaving-the-us-at-an-accelerating-pace/4017831.article)
 * [2023-08-05, 23:15:39](https://news.ycombinator.com/item?id=37017166) - [Mass Editing Memory in a Transformer](https://arxiv.org/abs/2210.07229)
 * [2023-08-05, 22:36:22](https://news.ycombinator.com/item?id=37016910) - [Searching for Paul C. Pratt](https://www.bigmessowires.com/2023/08/05/searching-for-paul-c-pratt/)
 * [2023-08-05, 22:31:39](https://news.ycombinator.com/item?id=37016876) - [Jeremy Vaught spent 16 years to build @music on Twitter, then X took it away](https://syzito.xyz/@selzero/110837319716739179)
@@ -24,12 +26,10 @@
 * [2023-08-05, 12:23:27](https://news.ycombinator.com/item?id=37011324) - [Bram Moolenaar has died](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)
 * [2023-08-05, 05:42:13](https://news.ycombinator.com/item?id=37009329) - [Try the last internet Kermit server](https://changelog.complete.org/archives/10555-try-the-last-internet-kermit-server)
 * [2023-08-05, 01:35:36](https://news.ycombinator.com/item?id=37008093) - [“The most beautiful of all printed books,” the Kelmscott Chaucer](https://www.openculture.com/2023/08/behold-a-digitization-of-the-most-beautiful-of-all-printed-books-the-kelmscott-chaucer.html)
-* [2023-08-04, 17:44:39](https://news.ycombinator.com/item?id=37003306) - [The power of achieving flow state in DevEx](https://hackernoon.com/the-power-of-achieving-flow-state-in-devex)
+* [2023-08-04, 19:29:41](https://news.ycombinator.com/item?id=37004720) - [North American English Dialects](https://aschmann.net/AmEng/)
 * [2023-08-04, 16:43:17](https://news.ycombinator.com/item?id=37002420) - [My Favorite Vim Oneliners for Text Manipulation](https://muhammadraza.me/2023/vim-onliners/)
 * [2023-08-04, 16:15:25](https://news.ycombinator.com/item?id=37002021) - [Sharpscript: Lisp for Scripting](https://sharpscript.net/lisp/)
 * [2023-08-04, 07:39:56](https://news.ycombinator.com/item?id=36996723) - [DisplayPort: Taming the Altmode](https://hackaday.com/2023/08/03/displayport-taming-the-altmode/)
-* [2023-08-04, 00:50:46](https://news.ycombinator.com/item?id=36994065) - [Decoding base16 sequences quickly](https://lemire.me/blog/2023/07/27/decoding-base16-sequences-quickly/)
-* [2023-08-03, 23:03:57](https://news.ycombinator.com/item?id=36993291) - [A Short Ballad Dedicated to the Growth of Programs (1986)](https://ashwinram.org/1986/01/28/a-short-ballad-dedicated-to-the-growth-of-programs/)
 
 ## [Archives](archives/index.md)
 
