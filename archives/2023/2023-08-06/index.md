@@ -18,6 +18,7 @@
 * [2023-08-06, 19:26:39](https://news.ycombinator.com/item?id=37025621) - [We Are All Animals at Night](https://hazlitt.net/feature/we-are-all-animals-night)
 * [2023-08-06, 19:04:25](https://news.ycombinator.com/item?id=37025393) - [My history with Forth, and stack machines (2010)](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
 * [2023-08-06, 18:47:08](https://news.ycombinator.com/item?id=37025233) - [The Lose-Lose-Lose-Lose Bill C-18 Outcome: Meta Blocking News Links in Canada](https://www.michaelgeist.ca/2023/08/metablockslinks/)
+* [2023-08-06, 18:45:59](https://news.ycombinator.com/item?id=37025227) - [Windows Repair Toolbox](https://windows-repair-toolbox.com/)
 * [2023-08-06, 18:24:56](https://news.ycombinator.com/item?id=37025027) - [SymmetricDS: Open-Source, cross platform database replication software](https://www.symmetricds.org/)
 * [2023-08-06, 18:19:25](https://news.ycombinator.com/item?id=37024965) - [Why I Find Bullshit Work Intolerable](https://shubhamjain.co/2023/08/06/bullshit-work-intolerable/)
 * [2023-08-06, 18:18:17](https://news.ycombinator.com/item?id=37024954) - [ALTEXXANET - Your 90s Internet Experience<](http://altexxanet.org/)
