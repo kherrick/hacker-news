@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-06, 16:49:20](https://news.ycombinator.com/item?id=37023885) - [Why libvirt supports only 14 PCIe hotplugged devices on x86-64](https://dottedmag.net/blog/libvirt-14-pcie-devices/)
 * [2023-08-06, 16:42:26](https://news.ycombinator.com/item?id=37023806) - [Threat Actors Abuse Cloudflare Tunnel for Persistent Access, Data Theft](https://www.securityweek.com/threat-actors-abuse-cloudflare-tunnel-for-persistent-access-data-theft/)
 * [2023-08-06, 15:43:03](https://news.ycombinator.com/item?id=37023138) - [Selfish, Virus-Like DNA Can Carry Genes Between Species](https://www.quantamagazine.org/selfish-virus-like-dna-can-carry-genes-between-species-20230803/)
 * [2023-08-06, 15:41:05](https://news.ycombinator.com/item?id=37023117) - [The First Big Antitrust Trial of the Century Is About to Start](https://www.thebignewsletter.com/p/the-first-big-antitrust-trial-of)
@@ -23,7 +24,6 @@
 * [2023-08-06, 08:32:23](https://news.ycombinator.com/item?id=37020040) - [Internet Standard #80: ASCII Format for Network Interchange (1969)](https://www.ietf.org/rfc/std/std80.txt)
 * [2023-08-06, 08:23:47](https://news.ycombinator.com/item?id=37020001) - [Memex is already here, it’s just not evenly distributed](https://filiph.net/text/memex-is-already-here,-it%27s-just-not-evenly-distributed.html)
 * [2023-08-06, 05:29:59](https://news.ycombinator.com/item?id=37019228) - [The Sad Bastard Cookbook](https://traumbooks.itch.io/the-sad-bastard-cookbook)
-* [2023-08-05, 20:34:03](https://news.ycombinator.com/item?id=37016049) - [Ask HN: AI that produces sheet music for practice?](https://news.ycombinator.com/item?id=37016049)
 * [2023-08-05, 04:30:09](https://news.ycombinator.com/item?id=37009037) - [Is NGC 1277 a problem for MOND?](https://tritonstation.com/2023/08/02/is-ngc-1277-a-problem-for-mond/)
 * [2023-08-04, 16:14:46](https://news.ycombinator.com/item?id=37002008) - [Qualcomm starts a RISC-V joint venture](https://arstechnica.com/gadgets/2023/08/qualcomm-one-of-arms-biggest-customers-starts-a-risc-v-joint-venture/)
 * [2023-08-04, 12:25:45](https://news.ycombinator.com/item?id=36999003) - [Multimodal Neurons in Pretrained Text-Only Transformers](https://huggingface.co/papers/2308.01544)

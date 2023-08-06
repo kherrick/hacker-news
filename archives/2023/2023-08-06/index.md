@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-06](index.md)
 
+* [2023-08-06, 16:49:20](https://news.ycombinator.com/item?id=37023885) - [Why libvirt supports only 14 PCIe hotplugged devices on x86-64](https://dottedmag.net/blog/libvirt-14-pcie-devices/)
 * [2023-08-06, 16:42:26](https://news.ycombinator.com/item?id=37023806) - [Threat Actors Abuse Cloudflare Tunnel for Persistent Access, Data Theft](https://www.securityweek.com/threat-actors-abuse-cloudflare-tunnel-for-persistent-access-data-theft/)
 * [2023-08-06, 16:42:05](https://news.ycombinator.com/item?id=37023802) - [O.C. Actor Ben McKenzie's Book 'Easy Money' Exposes the Dark Side of Crypto](https://www.wmagazine.com/culture/ben-mckenzie-easy-money-crypto-book-interview)
 * [2023-08-06, 16:19:06](https://news.ycombinator.com/item?id=37023521) - [Texas Power Prices to Surge 800% on Sunday Amid Searing Heat](https://www.bloomberg.com/news/articles/2023-08-05/texas-power-prices-to-surge-800-on-sunday-amid-searing-heat)
