@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-06, 11:10:19](https://news.ycombinator.com/item?id=37020792) - [Venture-backed startups are failing at record rates](https://www.fastcompany.com/90933648/venture-backed-startups-are-failing-at-record-rates)
+* [2023-08-06, 10:26:54](https://news.ycombinator.com/item?id=37020610) - [Show HN: Postgres Language Server](https://github.com/supabase/postgres_lsp)
 * [2023-08-06, 09:47:25](https://news.ycombinator.com/item?id=37020421) - [Show HN: Archsense – Accurately generated architecture from the source code](https://www.archsense.dev)
 * [2023-08-06, 09:07:48](https://news.ycombinator.com/item?id=37020212) - [Reasons to Drop Docker for Podman](https://developers.redhat.com/articles/2023/08/03/3-reasons-drop-docker-podman)
 * [2023-08-06, 08:32:23](https://news.ycombinator.com/item?id=37020040) - [Internet Standard #80: ASCII Format for Network Interchange (1969)](https://www.ietf.org/rfc/std/std80.txt)
@@ -8,10 +10,8 @@
 * [2023-08-06, 04:49:35](https://news.ycombinator.com/item?id=37019069) - [Euros Bills Drawn Not to Represent Real Bridges. He Built Them All on This River](https://www.boredpanda.com/euro-notes-real-bridges-comparison-robin-stam/)
 * [2023-08-06, 03:56:00](https://news.ycombinator.com/item?id=37018859) - [Write Elixir NIFs in Rust](https://docs.rs/crate/rustler/latest)
 * [2023-08-06, 03:48:22](https://news.ycombinator.com/item?id=37018825) - [People who've received a black bar on Hacker News](https://bear.willmeyers.net/whos-received-a-black-bar/)
-* [2023-08-06, 02:31:36](https://news.ycombinator.com/item?id=37018404) - [Cult of the Dead Cow wants to save internet privacy with new encryption protocol](https://gizmodo.com/cult-of-the-dead-cow-launches-veilid-encryption-project-1850699803)
 * [2023-08-06, 01:35:25](https://news.ycombinator.com/item?id=37018105) - [The way out of burnout (2016)](https://www.economist.com/1843/2016/07/28/the-way-out-of-burnout)
 * [2023-08-06, 01:13:17](https://news.ycombinator.com/item?id=37017958) - [Types of Garden Hoe](https://www.easydigging.com/garden-hoes/articles/types-of-hoes.html)
-* [2023-08-05, 23:15:39](https://news.ycombinator.com/item?id=37017166) - [Mass Editing Memory in a Transformer](https://arxiv.org/abs/2210.07229)
 * [2023-08-05, 23:13:13](https://news.ycombinator.com/item?id=37017148) - [On the Digestion of Great Books](https://johnathanbi.com/writing/fractal-summary-method)
 * [2023-08-05, 22:36:22](https://news.ycombinator.com/item?id=37016910) - [Searching for Paul C. Pratt](https://www.bigmessowires.com/2023/08/05/searching-for-paul-c-pratt/)
 * [2023-08-05, 21:23:35](https://news.ycombinator.com/item?id=37016431) - [Tim Hunkin (Secret Lives of Machines)](https://www.timhunkin.com/control/o_about_the_site.htm)
