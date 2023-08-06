@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-06](index.md)
 
+* [2023-08-06, 13:05:04](https://news.ycombinator.com/item?id=37021481) - [Code Smells of Desperation](https://www.os2museum.com/wp/this-code-smells-of-desperation/)
 * [2023-08-06, 12:44:24](https://news.ycombinator.com/item?id=37021336) - [America’s Truckers, Cargo Pilots and Package Carriers Are Fed Up](https://www.wsj.com/articles/americas-truckers-cargo-pilots-and-package-carriers-are-fed-up-1543bfee)
 * [2023-08-06, 12:36:12](https://news.ycombinator.com/item?id=37021280) - [CEOs' pay climbed before layoffs at tech giants like Alphabet and Microsoft](https://abcnews.go.com/Business/ceos-pay-climbed-layoffs-tech-giants-alphabet-microsoft/story?id=101665156)
 * [2023-08-06, 11:58:37](https://news.ycombinator.com/item?id=37021059) - [Show HN: Gmail GPT – Bringing AI to Google Gmail a new way to get done](https://workspace.google.com/marketplace/app/gmail_gpt/899305976589)
