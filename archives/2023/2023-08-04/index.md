@@ -20,6 +20,7 @@
 * [2023-08-04, 20:31:36](https://news.ycombinator.com/item?id=37005478) - [Analysis and Workload Characterization of the CERN EOS Storage System [pdf]](https://sincerely.dev/papers/cheops22-purandare.pdf)
 * [2023-08-04, 19:48:49](https://news.ycombinator.com/item?id=37004949) - [Beech leaf disease is ravaging North American trees](https://www.science.org/content/article/beech-leaf-disease-ravaging-north-american-trees)
 * [2023-08-04, 19:43:16](https://news.ycombinator.com/item?id=37004885) - [Cloud Provider Gets $2.3B Loan Using Nvidia's H100 as Collateral](https://www.anandtech.com/show/19995/cloud-provider-gets-23-billion-debt-using-nvidias-h100-as-collateral)
+* [2023-08-04, 19:34:48](https://news.ycombinator.com/item?id=37004793) - [Precision Medicine and Its Imprecise History (2020)](https://hdsr.mitpress.mit.edu/pub/y7r65r4k/release/4)
 * [2023-08-04, 19:29:41](https://news.ycombinator.com/item?id=37004720) - [American English Dialects](https://aschmann.net/AmEng/)
 * [2023-08-04, 19:29:07](https://news.ycombinator.com/item?id=37004708) - [Show HN: Gdańsk AI – full stack AI voice chatbot (STT, LLM, TTS, auth, payments)](https://github.com/jmaczan/gdansk-ai)
 * [2023-08-04, 19:24:04](https://news.ycombinator.com/item?id=37004636) - [Heat-assisted detection and ranging (HADAR)](https://www.nature.com/articles/s41586-023-06174-6)

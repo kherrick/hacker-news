@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-06](index.md)
 
+* [2023-08-06, 20:07:05](https://news.ycombinator.com/item?id=37026058) - [When seat belt laws drew fire as a violation of personal freedom](https://www.history.com/news/seat-belt-laws-resistance)
 * [2023-08-06, 19:47:13](https://news.ycombinator.com/item?id=37025841) - [Barco: Linux Containers from Scratch in C](https://github.com/lucavallin/barco)
 * [2023-08-06, 19:29:10](https://news.ycombinator.com/item?id=37025650) - [Eight Months Pregnant and Arrested After False Facial Recognition Match](https://www.nytimes.com/2023/08/06/technology/facial-recognition-false-arrest.html)
 * [2023-08-06, 19:26:39](https://news.ycombinator.com/item?id=37025621) - [We Are All Animals at Night](https://hazlitt.net/feature/we-are-all-animals-night)
