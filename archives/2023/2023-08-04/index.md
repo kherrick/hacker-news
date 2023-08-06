@@ -84,6 +84,7 @@
 * [2023-08-04, 09:42:32](https://news.ycombinator.com/item?id=36997641) - [Jam.gg (Formerly Piepacker) (YC S20) Is Hiring](https://news.ycombinator.com/item?id=36997641)
 * [2023-08-04, 09:16:33](https://news.ycombinator.com/item?id=36997434) - [Beaver Notes: A Privacy-Focused Open-Source Note-Taking App](https://www.beavernotes.com)
 * [2023-08-04, 08:51:50](https://news.ycombinator.com/item?id=36997269) - [Show HN: SymbolicAI](https://github.com/Xpitfire/symbolicai)
+* [2023-08-04, 08:51:27](https://news.ycombinator.com/item?id=36997263) - [Veles – A new age tool for binary analysis](https://github.com/codilime/veles)
 * [2023-08-04, 08:25:36](https://news.ycombinator.com/item?id=36997067) - [Mozilla VPN: CVE-2023-4104: vpndaemon wrongly implements Polkit authentication](https://www.openwall.com/lists/oss-security/2023/08/03/1)
 * [2023-08-04, 07:39:56](https://news.ycombinator.com/item?id=36996723) - [DisplayPort: Taming the Altmode](https://hackaday.com/2023/08/03/displayport-taming-the-altmode/)
 * [2023-08-04, 07:00:26](https://news.ycombinator.com/item?id=36996401) - [Ask HN: What are some captivating fair play mystery books that you've read](https://news.ycombinator.com/item?id=36996401)
