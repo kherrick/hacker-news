@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-06, 10:21:09](https://news.ycombinator.com/item?id=37020593) - [Baldur's Gate 3](https://baldursgate3.game/)
+* [2023-08-06, 09:47:25](https://news.ycombinator.com/item?id=37020421) - [Show HN: Archsense – Accurately generated architecture from the source code](https://www.archsense.dev)
+* [2023-08-06, 09:07:48](https://news.ycombinator.com/item?id=37020212) - [Reasons to Drop Docker for Podman](https://developers.redhat.com/articles/2023/08/03/3-reasons-drop-docker-podman)
 * [2023-08-06, 08:32:23](https://news.ycombinator.com/item?id=37020040) - [Internet Standard #80: ASCII Format for Network Interchange (1969)](https://www.ietf.org/rfc/std/std80.txt)
 * [2023-08-06, 08:23:47](https://news.ycombinator.com/item?id=37020001) - [Memex is already here, it’s just not evenly distributed](https://filiph.net/text/memex-is-already-here,-it%27s-just-not-evenly-distributed.html)
 * [2023-08-06, 06:35:16](https://news.ycombinator.com/item?id=37019520) - [The True Story of Central Park’s Doomed Victorian Dinosaur Museum](https://www.atlasobscura.com/articles/dinosaur-museum-central-park-boss-tweed-nyc)
@@ -11,7 +12,7 @@
 * [2023-08-06, 02:31:36](https://news.ycombinator.com/item?id=37018404) - [Cult of the Dead Cow wants to save internet privacy with new encryption protocol](https://gizmodo.com/cult-of-the-dead-cow-launches-veilid-encryption-project-1850699803)
 * [2023-08-06, 01:35:25](https://news.ycombinator.com/item?id=37018105) - [The way out of burnout (2016)](https://www.economist.com/1843/2016/07/28/the-way-out-of-burnout)
 * [2023-08-06, 01:13:17](https://news.ycombinator.com/item?id=37017958) - [Types of Garden Hoe](https://www.easydigging.com/garden-hoes/articles/types-of-hoes.html)
-* [2023-08-06, 00:41:26](https://news.ycombinator.com/item?id=37017750) - [George Church lab creates ovarian granulosa-like cells from stem cells](https://elifesciences.org/articles/83291)
+* [2023-08-05, 23:15:39](https://news.ycombinator.com/item?id=37017166) - [Mass Editing Memory in a Transformer](https://arxiv.org/abs/2210.07229)
 * [2023-08-05, 23:13:13](https://news.ycombinator.com/item?id=37017148) - [On the Digestion of Great Books](https://johnathanbi.com/writing/fractal-summary-method)
 * [2023-08-05, 22:36:22](https://news.ycombinator.com/item?id=37016910) - [Searching for Paul C. Pratt](https://www.bigmessowires.com/2023/08/05/searching-for-paul-c-pratt/)
 * [2023-08-05, 21:23:35](https://news.ycombinator.com/item?id=37016431) - [Tim Hunkin (Secret Lives of Machines)](https://www.timhunkin.com/control/o_about_the_site.htm)
@@ -28,7 +29,6 @@
 * [2023-08-04, 16:15:25](https://news.ycombinator.com/item?id=37002021) - [Sharpscript: Lisp for Scripting](https://sharpscript.net/lisp/)
 * [2023-08-04, 16:14:46](https://news.ycombinator.com/item?id=37002008) - [Qualcomm starts a RISC-V joint venture](https://arstechnica.com/gadgets/2023/08/qualcomm-one-of-arms-biggest-customers-starts-a-risc-v-joint-venture/)
 * [2023-08-04, 08:51:27](https://news.ycombinator.com/item?id=36997263) - [Veles – A tool for binary analysis (2018)](https://github.com/codilime/veles)
-* [2023-08-04, 07:39:56](https://news.ycombinator.com/item?id=36996723) - [DisplayPort: Taming the Altmode](https://hackaday.com/2023/08/03/displayport-taming-the-altmode/)
 * [2023-08-04, 06:14:26](https://news.ycombinator.com/item?id=36996075) - [Scientists create novel approach to control energy waves in 4D](https://showme.missouri.edu/2023/scientists-create-novel-approach-to-control-energy-waves-in-4d/)
 
 ## [Archives](archives/index.md)
