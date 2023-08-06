@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-06, 04:49:35](https://news.ycombinator.com/item?id=37019069) - [Euros Bills Drawn Not to Represent Real Bridges. He Built Them All on This River](https://www.boredpanda.com/euro-notes-real-bridges-comparison-robin-stam/)
+* [2023-08-06, 03:56:00](https://news.ycombinator.com/item?id=37018859) - [Write Elixir NIFs in Rust](https://docs.rs/crate/rustler/latest)
 * [2023-08-06, 02:31:36](https://news.ycombinator.com/item?id=37018404) - [Cult of the Dead Cow wants to save internet privacy with new encryption protocol](https://gizmodo.com/cult-of-the-dead-cow-launches-veilid-encryption-project-1850699803)
 * [2023-08-06, 01:35:25](https://news.ycombinator.com/item?id=37018105) - [The way out of burnout (2016)](https://www.economist.com/1843/2016/07/28/the-way-out-of-burnout)
 * [2023-08-06, 01:13:17](https://news.ycombinator.com/item?id=37017958) - [Types of Garden Hoe](https://www.easydigging.com/garden-hoes/articles/types-of-hoes.html)
@@ -18,7 +19,6 @@
 * [2023-08-05, 18:12:09](https://news.ycombinator.com/item?id=37014842) - [Speed Up C++ Compilation](https://devtalk.blender.org/t/speed-up-c-compilation/30508)
 * [2023-08-05, 16:33:56](https://news.ycombinator.com/item?id=37013704) - [New acoustic attack steals data from keystrokes with 95% accuracy](https://www.bleepingcomputer.com/news/security/new-acoustic-attack-steals-data-from-keystrokes-with-95-percent-accuracy/)
 * [2023-08-05, 16:07:40](https://news.ycombinator.com/item?id=37013396) - [Just normal web things](https://heather-buchel.com/blog/2023/07/just-normal-web-things/)
-* [2023-08-05, 14:34:08](https://news.ycombinator.com/item?id=37012388) - [‘One step at a time’: entrepreneur buys stairwell in London to help startups](https://www.theguardian.com/uk-news/2023/aug/05/simon-squibb-stairwell-small-businesses-entrepreneurs-twickenham-london)
 * [2023-08-05, 13:57:15](https://news.ycombinator.com/item?id=37012058) - [Electrogenetic interface to program mammalian gene expression by direct current](https://www.nature.com/articles/s42255-023-00850-7)
 * [2023-08-05, 12:23:27](https://news.ycombinator.com/item?id=37011324) - [Bram Moolenaar has died](https://groups.google.com/g/vim_announce/c/tWahca9zkt4)
 * [2023-08-05, 05:42:13](https://news.ycombinator.com/item?id=37009329) - [Try the last internet Kermit server](https://changelog.complete.org/archives/10555-try-the-last-internet-kermit-server)
