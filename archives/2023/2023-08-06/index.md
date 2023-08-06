@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-06](index.md)
 
+* [2023-08-06, 19:04:25](https://news.ycombinator.com/item?id=37025393) - [My history with Forth, and stack machines (2010)](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
+* [2023-08-06, 18:18:17](https://news.ycombinator.com/item?id=37024954) - [ALTEXXANET - Your 90s Internet Experience<](http://altexxanet.org/)
+* [2023-08-06, 17:53:35](https://news.ycombinator.com/item?id=37024685) - [An unconventional LEGO Technic beam sandwich keyboard case](https://dotat.at/@/2023-08-06-ltbs.html)
 * [2023-08-06, 17:53:17](https://news.ycombinator.com/item?id=37024680) - [Medium's Partner Program Changes to Incentivize Human Writing over AI Articles](https://blog.medium.com/new-partner-program-incentives-focus-on-high-quality-human-writing-7335f8557f6e)
 * [2023-08-06, 17:51:48](https://news.ycombinator.com/item?id=37024662) - [A single antibody tackles two childhood viruses](https://www.nature.com/articles/d41586-023-02428-5)
 * [2023-08-06, 17:29:49](https://news.ycombinator.com/item?id=37024449) - [Blink WEI “will not ship in current form”](https://toot.cafe/@slightlyoff/110841065888292567)
