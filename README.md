@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-06, 05:33:14](https://news.ycombinator.com/item?id=37019250) - [Thinking of buying an EV in Colorado? You could get $26,500 in discounts](https://www.cpr.org/2023/08/04/colorado-electric-vehicle-discounts-guide/)
 * [2023-08-06, 05:29:59](https://news.ycombinator.com/item?id=37019228) - [The Sad Bastard Cookbook: Food you can make so you don't die](https://traumbooks.itch.io/the-sad-bastard-cookbook)
 * [2023-08-06, 04:49:35](https://news.ycombinator.com/item?id=37019069) - [Euros Bills Drawn Not to Represent Real Bridges. He Built Them All on This River](https://www.boredpanda.com/euro-notes-real-bridges-comparison-robin-stam/)
 * [2023-08-06, 03:56:00](https://news.ycombinator.com/item?id=37018859) - [Write Elixir NIFs in Rust](https://docs.rs/crate/rustler/latest)
@@ -26,6 +25,7 @@
 * [2023-08-05, 03:29:47](https://news.ycombinator.com/item?id=37008727) - [Flexible Glass in Tiberius’ Rome (2011)](https://www.strangehistory.net/2011/02/20/flexible-glass-in-tiberius-rome/)
 * [2023-08-05, 01:35:36](https://news.ycombinator.com/item?id=37008093) - [“The most beautiful of all printed books,” the Kelmscott Chaucer](https://www.openculture.com/2023/08/behold-a-digitization-of-the-most-beautiful-of-all-printed-books-the-kelmscott-chaucer.html)
 * [2023-08-04, 23:25:34](https://news.ycombinator.com/item?id=37007180) - [A Swift intro to Geometric Algebra (2020) [video]](https://www.youtube.com/watch?v=60z_hpEAtD8)
+* [2023-08-04, 19:29:41](https://news.ycombinator.com/item?id=37004720) - [North American English Dialects](https://aschmann.net/AmEng/)
 * [2023-08-04, 16:43:17](https://news.ycombinator.com/item?id=37002420) - [My favorite Vim oneliners for text manipulation](https://muhammadraza.me/2023/vim-onliners/)
 * [2023-08-04, 16:15:25](https://news.ycombinator.com/item?id=37002021) - [Sharpscript: Lisp for Scripting](https://sharpscript.net/lisp/)
 * [2023-08-04, 08:51:27](https://news.ycombinator.com/item?id=36997263) - [Veles – A new age tool for binary analysis](https://github.com/codilime/veles)
