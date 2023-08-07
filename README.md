@@ -20,7 +20,6 @@
 * [2023-08-07, 14:29:38](https://news.ycombinator.com/item?id=37034951) - [Show HN: Phind V2 – A GPT-4 agent that’s connected to the internet and your code](https://www.phind.com/hn)
 * [2023-08-07, 14:25:52](https://news.ycombinator.com/item?id=37034906) - [Sandy Bridge: Setting Intel’s modern foundation](https://chipsandcheese.com/2023/08/04/sandy-bridge-setting-intels-modern-foundation/)
 * [2023-08-07, 14:00:38](https://news.ycombinator.com/item?id=37034575) - [Show HN: Axilla – Open-source TypeScript framework for LLM apps](https://github.com/axilla-io/ax)
-* [2023-08-07, 13:43:25](https://news.ycombinator.com/item?id=37034350) - [MIT Press: Open Access Materials](https://archive.org/details/mit_press_open_access?tab=collection)
 * [2023-08-07, 12:54:18](https://news.ycombinator.com/item?id=37033753) - [Launch HN: GitStart (YC S19) – Remote junior devs working on production PRs](https://news.ycombinator.com/item?id=37033753)
 * [2023-08-07, 12:45:26](https://news.ycombinator.com/item?id=37033652) - [Ask HN: What's the coolest physical thing you've made?](https://news.ycombinator.com/item?id=37033652)
 * [2023-08-07, 12:18:41](https://news.ycombinator.com/item?id=37033403) - [Some tactics for writing in public](https://jvns.ca/blog/2023/08/07/tactics-for-writing-in-public/)
@@ -30,6 +29,7 @@
 * [2023-08-06, 07:34:01](https://news.ycombinator.com/item?id=37019757) - [Mach-O Binaries (2015)](http://www.m4b.io/reverse/engineering/mach/binaries/2015/03/29/mach-binaries.html)
 * [2023-08-05, 20:24:38](https://news.ycombinator.com/item?id=37015973) - [An arrowhead made of meteoritic iron from the late Bronze Age](https://www.sciencedirect.com/science/article/pii/S0305440323001073)
 * [2023-08-05, 12:16:17](https://news.ycombinator.com/item?id=37011271) - [How does a mobile GPU work? [pdf]](https://armkeil.blob.core.windows.net/developer/Files/pdf/graphics-and-multimedia/how-does-a-mobile-gpu-work.pdf)
+* [2023-08-05, 08:02:51](https://news.ycombinator.com/item?id=37009999) - [Korbut Flip](https://en.wikipedia.org/wiki/Korbut_flip)
 
 ## [Archives](archives/index.md)
 

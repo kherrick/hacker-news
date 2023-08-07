@@ -74,6 +74,7 @@
 * [2023-08-05, 09:47:02](https://news.ycombinator.com/item?id=37010498) - [[video] Fully levitating LK-99 sample claimed replicated](https://www.douyin.com/video/7263715495256378659)
 * [2023-08-05, 09:37:09](https://news.ycombinator.com/item?id=37010449) - [GitHub Actions and Vanity Metrics](https://jamesconroyfinn.com/github-actions-and-vanity-metrics)
 * [2023-08-05, 08:45:42](https://news.ycombinator.com/item?id=37010196) - [WASI: WebAssembly System Interface](https://github.com/WebAssembly/WASI)
+* [2023-08-05, 08:02:51](https://news.ycombinator.com/item?id=37009999) - [Korbut Flip](https://en.wikipedia.org/wiki/Korbut_flip)
 * [2023-08-05, 07:39:42](https://news.ycombinator.com/item?id=37009879) - [Lazygit Turns 5: Musings on Git, TUIs, and Open Source](https://jesseduffield.com/Lazygit-5-Years-On/)
 * [2023-08-05, 07:04:40](https://news.ycombinator.com/item?id=37009698) - [AI Won’t Replace Humans – But Humans with AI Will Replace Humans Without AI](https://hbr.org/2023/08/ai-wont-replace-humans-but-humans-with-ai-will-replace-humans-without-ai)
 * [2023-08-05, 07:00:40](https://news.ycombinator.com/item?id=37009678) - [Raycast (YC W20) Is Hiring a macOS Engineer (Remote, UTC ± 3 Hours)](https://www.raycast.com/jobs/software-engineer-macos)
