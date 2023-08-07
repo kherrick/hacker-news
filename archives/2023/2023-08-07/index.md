@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
+* [2023-08-07, 16:06:15](https://news.ycombinator.com/item?id=37036291) - [Kafka Is Dead, Long Live Kafka](https://www.warpstream.com/blog/kafka-is-dead-long-live-kafka)
+* [2023-08-07, 16:05:24](https://news.ycombinator.com/item?id=37036277) - [Police Raid Worldcoin Warehouse in Nairobi](https://www.capitalfm.co.ke/news/2023/08/police-raid-worldcoin-cryptocurrency-warehouse-in-nairobi/)
+* [2023-08-07, 15:57:36](https://news.ycombinator.com/item?id=37036181) - [Detroit woman falsely arrested while pregnant due to facial recognition tech](https://www.nbcnews.com/news/us-news/detroit-woman-sues-city-falsely-arrested-8-months-pregnant-due-facial-rcna98447)
 * [2023-08-07, 15:51:51](https://news.ycombinator.com/item?id=37036120) - [Why San Francisco Is a Homeless Mecca](https://www.wsj.com/articles/why-san-francisco-is-a-homeless-mecca-drug-prosecutions-treatment-344aac97)
 * [2023-08-07, 15:29:26](https://news.ycombinator.com/item?id=37035816) - [Bordeaux should be a climate change red flag for the wine industry](https://www.softwine.ai/bordeaux-the-canary-in-the-cellar)
 * [2023-08-07, 15:03:02](https://news.ycombinator.com/item?id=37035448) - [How to generate tested software packages using LLMs, a sandbox and a while loop](https://github.com/modal-labs/devlooper)
 * [2023-08-07, 14:48:18](https://news.ycombinator.com/item?id=37035221) - [Simple Networking in Linux](https://insanity.industries/post/simple-networking/)
 * [2023-08-07, 14:45:28](https://news.ycombinator.com/item?id=37035178) - [Snappy UIs with WebAssembly and Web Workers](https://mofi.loud.red/blog/wasm-and-workers)
 * [2023-08-07, 14:33:02](https://news.ycombinator.com/item?id=37034994) - [Fantastic Learning Resources](https://matklad.github.io/2023/08/06/fantastic-learning-resources.html)
+* [2023-08-07, 14:29:38](https://news.ycombinator.com/item?id=37034951) - [Show HN: Phind V2 – A GPT-4 agent that’s connected to the internet and your code](https://www.phind.com/hn)
 * [2023-08-07, 14:26:06](https://news.ycombinator.com/item?id=37034912) - [Chromium JPEG XL just changed to “Untriaged” for evaluation](https://bugs.chromium.org/p/chromium/issues/detail?id=1451807)
 * [2023-08-07, 14:25:52](https://news.ycombinator.com/item?id=37034906) - [Sandy Bridge: Setting Intel’s Modern Foundation](https://chipsandcheese.com/2023/08/04/sandy-bridge-setting-intels-modern-foundation/)
 * [2023-08-07, 14:08:04](https://news.ycombinator.com/item?id=37034654) - [A brief glimpse at recent events in Egypt](https://omarshehata.me/notebook/glimpse_into_recent_news_in_egypt)
