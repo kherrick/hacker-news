@@ -1,22 +1,22 @@
 [
   [
     [
-      "2023-08-07, 12:18:11",
-      "https://news.ycombinator.com/item?id=37033398"
+      "2023-08-07, 12:26:36",
+      "https://news.ycombinator.com/item?id=37033475"
     ],
     [
-      "Vocal minority sets online discourse, distorting real-life perception",
-      "https://www.fastcompany.com/90933474/taylor-swifts-eras-tour-is-a-reminder-that-social-media-is-not-real-life"
+      "PSA: Intel Graphics Drivers Now Collect Telemetry by Default",
+      "https://www.techpowerup.com/312122/psa-intel-graphics-drivers-now-collect-telemetry-by-default"
     ]
   ],
   [
     [
-      "2023-08-07, 12:06:48",
-      "https://news.ycombinator.com/item?id=37033312"
+      "2023-08-07, 11:27:03",
+      "https://news.ycombinator.com/item?id=37033014"
     ],
     [
-      "Ask HN: What are the big/important problems to work on?",
-      "https://news.ycombinator.com/item?id=37033312"
+      "Turning my Framework laptop into a tiny desktop",
+      "https://arstechnica.com/gadgets/2023/08/turning-my-framework-laptop-into-a-tiny-desktop-was-fun-now-it-needs-a-job/"
     ]
   ],
   [
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=37032449"
     ],
     [
-      "A new chip shortage mid 2023 is hitting Australia hard – how long will it last?",
+      "What's causing Australia's frozen chip shortage and how long will it last?",
       "https://www.sbs.com.au/news/article/whats-causing-australias-frozen-chip-shortage-and-how-long-will-it-last/ljhcvjctq"
     ]
   ],
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=37031944"
     ],
     [
-      "My Frugal Indie Dev Startup Stack",
+      "My frugal indie dev startup stack (2022)",
       "https://getwaitlist.com/blog/solo-dev-startup-stack"
     ]
   ],
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=37031724"
     ],
     [
-      "Ongoing compilation table of LK-99 reproduction claims",
+      "Compilation of claims/reports of LK-99 replication efforts",
       "https://forums.spacebattles.com/threads/claims-of-room-temperature-and-ambient-pressure-superconductor.1106083/page-13"
     ]
   ],
@@ -87,16 +87,6 @@
     [
       "British Gas starts to turn off Hive smart home devices forever",
       "https://www.t3.com/news/british-gas-starts-to-turn-off-hive-smart-home-devices-forever"
-    ]
-  ],
-  [
-    [
-      "2023-08-07, 05:00:26",
-      "https://news.ycombinator.com/item?id=37030346"
-    ],
-    [
-      "Isn’t London Hell?",
-      "https://www.lrb.co.uk/the-paper/v45/n16/seamus-perry/isn-t-london-hell"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Replace peer review with “peer replication” (2021)",
       "https://blog.everydayscientist.com/replace-peer-review-with-peer-replication/"
+    ]
+  ],
+  [
+    [
+      "2023-08-06, 10:26:54",
+      "https://news.ycombinator.com/item?id=37020610"
+    ],
+    [
+      "Postgres Language Server",
+      "https://github.com/supabase/postgres_lsp"
     ]
   ],
   [
