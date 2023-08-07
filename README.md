@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-07, 07:17:04](https://news.ycombinator.com/item?id=37031286) - [EurKEY: The European Keyboard Layout – For Europeans, Coders and Translators](https://eurkey.steffen.bruentjen.eu/)
+* [2023-08-07, 07:38:22](https://news.ycombinator.com/item?id=37031451) - [Nvidia's CUDA Monopoly](https://matt-rickard.com/nvidias-cuda-monopoly)
+* [2023-08-07, 06:21:25](https://news.ycombinator.com/item?id=37030863) - [Devote Yourself to the Cause of Your Life](https://every.to/napkin-math/devote-yourself-to-the-cause-of-your-life)
 * [2023-08-07, 05:39:06](https://news.ycombinator.com/item?id=37030568) - [GPTBot – OpenAI’s Web Crawler](https://platform.openai.com/docs/gptbot)
 * [2023-08-07, 05:25:36](https://news.ycombinator.com/item?id=37030481) - [British gas starts to turn off Hive smart home devices forever](https://www.t3.com/news/british-gas-starts-to-turn-off-hive-smart-home-devices-forever)
 * [2023-08-07, 04:32:11](https://news.ycombinator.com/item?id=37030159) - [Sedmario: NES Super Mario Bros level 1 written in pure sed](https://github.com/chebykinn/sedmario)
@@ -20,7 +21,6 @@
 * [2023-08-06, 18:47:08](https://news.ycombinator.com/item?id=37025233) - [Meta blocking news links in Canada](https://www.michaelgeist.ca/2023/08/metablockslinks/)
 * [2023-08-06, 18:18:17](https://news.ycombinator.com/item?id=37024954) - [ALTEXXANET - 90s Internet Experience (2016)](http://altexxanet.org/)
 * [2023-08-06, 17:53:35](https://news.ycombinator.com/item?id=37024685) - [An unconventional LEGO Technic beam sandwich keyboard case](https://dotat.at/@/2023-08-06-ltbs.html)
-* [2023-08-06, 16:49:20](https://news.ycombinator.com/item?id=37023885) - [Why libvirt supports only 14 PCIe hotplugged devices on x86-64](https://dottedmag.net/blog/libvirt-14-pcie-devices/)
 * [2023-08-06, 13:54:17](https://news.ycombinator.com/item?id=37021933) - [Critique of Lazy Sequences in Clojure](https://clojure-goes-fast.com/blog/clojures-deadly-sin/)
 * [2023-08-06, 12:33:24](https://news.ycombinator.com/item?id=37021264) - [Replace peer review with “peer replication” (2021)](https://blog.everydayscientist.com/replace-peer-review-with-peer-replication/)
 * [2023-08-05, 14:36:40](https://news.ycombinator.com/item?id=37012413) - [Laniakea Books: Public domain books for everyone](https://nutcroft.com/blog/laniakea-books-public-domain-books-for-everyone/)
