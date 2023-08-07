@@ -54,6 +54,7 @@
 * [2023-08-05, 13:58:46](https://news.ycombinator.com/item?id=37012069) - [Entity Resolution Challenges](https://www.sheshbabu.com/posts/entity-resolution-challenges/)
 * [2023-08-05, 13:57:15](https://news.ycombinator.com/item?id=37012058) - [Electrogenetic interface to program mammalian gene expression by direct current](https://www.nature.com/articles/s42255-023-00850-7)
 * [2023-08-05, 13:56:33](https://news.ycombinator.com/item?id=37012052) - [Checking in on troubles with dark matter](https://tritonstation.com/2023/06/27/checking-in-on-troubles-with-dark-matter/)
+* [2023-08-05, 13:47:59](https://news.ycombinator.com/item?id=37011977) - [NASA helps spot wine grape disease from skies above California](https://www.jpl.nasa.gov/news/nasa-helps-spot-wine-grape-disease-from-skies-above-california)
 * [2023-08-05, 13:39:43](https://news.ycombinator.com/item?id=37011905) - [Use of HD and DD drives, diskettes (2011)](http://www.retrotechnology.com/herbs_stuff/guzis.html)
 * [2023-08-05, 13:24:02](https://news.ycombinator.com/item?id=37011776) - [Unexpected link between pure mathematics and genetics](https://www.physics.ox.ac.uk/news/number-theory-and-evolutionary-genetics)
 * [2023-08-05, 13:17:01](https://news.ycombinator.com/item?id=37011717) - [EPA Approved a Chevron Fuel Ingredient That Has a Lifetime Cancer Risk](https://science.slashdot.org/story/23/08/05/0139219/epa-approved-a-chevron-fuel-ingredient-that-has-a-lifetime-cancer-risk)
