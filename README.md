@@ -2,8 +2,6 @@
 
 * [2023-08-07, 16:06:15](https://news.ycombinator.com/item?id=37036291) - [Kafka Is Dead, Long Live Kafka](https://www.warpstream.com/blog/kafka-is-dead-long-live-kafka)
 * [2023-08-07, 16:05:24](https://news.ycombinator.com/item?id=37036277) - [Police Raid Worldcoin Warehouse in Nairobi](https://www.capitalfm.co.ke/news/2023/08/police-raid-worldcoin-cryptocurrency-warehouse-in-nairobi/)
-* [2023-08-07, 16:03:47](https://news.ycombinator.com/item?id=37036257) - [War is the Lamborghini the West can't afford](https://robert94015.substack.com/p/war-is-the-lamborghini-the-west-cant)
-* [2023-08-07, 15:29:26](https://news.ycombinator.com/item?id=37035816) - [Bordeaux should be a climate change red flag for the wine industry](https://www.softwine.ai/bordeaux-the-canary-in-the-cellar)
 * [2023-08-07, 15:03:02](https://news.ycombinator.com/item?id=37035448) - [How to generate tested software packages using LLMs, a sandbox and a while loop](https://github.com/modal-labs/devlooper)
 * [2023-08-07, 14:48:18](https://news.ycombinator.com/item?id=37035221) - [Simple Networking in Linux](https://insanity.industries/post/simple-networking/)
 * [2023-08-07, 14:45:28](https://news.ycombinator.com/item?id=37035178) - [Snappy UIs with WebAssembly and Web Workers](https://mofi.loud.red/blog/wasm-and-workers)
@@ -30,6 +28,8 @@
 * [2023-08-07, 04:16:28](https://news.ycombinator.com/item?id=37030044) - [Google Maps has become an eyesore](https://www.fastcompany.com/90930810/google-maps-eyesore-5-examples-apple-maps)
 * [2023-08-05, 20:24:38](https://news.ycombinator.com/item?id=37015973) - [An arrowhead made of meteoritic iron from the late Bronze Age](https://www.sciencedirect.com/science/article/pii/S0305440323001073)
 * [2023-08-05, 13:47:59](https://news.ycombinator.com/item?id=37011977) - [NASA helps spot wine grape disease from skies above California](https://www.jpl.nasa.gov/news/nasa-helps-spot-wine-grape-disease-from-skies-above-california)
+* [2023-08-05, 12:16:17](https://news.ycombinator.com/item?id=37011271) - [How does a mobile GPU work? [pdf]](https://armkeil.blob.core.windows.net/developer/Files/pdf/graphics-and-multimedia/how-does-a-mobile-gpu-work.pdf)
+* [2023-08-05, 03:13:31](https://news.ycombinator.com/item?id=37008627) - [The process of making fake food [video]](https://www.youtube.com/watch?v=O9E77WZGCpQ)
 
 ## [Archives](archives/index.md)
 
