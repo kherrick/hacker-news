@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
+* [2023-08-07, 13:21:17](https://news.ycombinator.com/item?id=37034084) - [In California, Car Buyers Are Choosing Electric over Gasoline in Record Numbers](https://blog.ucsusa.org/dave-reichmuth/in-california-car-buyers-are-choosing-electricity-over-gasoline-in-record-numbers/)
+* [2023-08-07, 13:17:47](https://news.ycombinator.com/item?id=37034042) - [A Zoom Call, Fake Names and an A.I. Presentation Gone Awry](https://www.nytimes.com/2023/08/07/technology/ai-start-ups-competition.html)
+* [2023-08-07, 13:07:13](https://news.ycombinator.com/item?id=37033899) - [The $1M shot that changed sports contests forever](https://www.espn.com/nba/story/_/id/36146138/million-dollar-shot-michael-jordan-chicago-bulls-1993)
 * [2023-08-07, 12:59:35](https://news.ycombinator.com/item?id=37033814) - [Write your passwords down (2010)](https://blog.jgc.org/2010/12/write-your-passwords-down.html)
 * [2023-08-07, 12:45:26](https://news.ycombinator.com/item?id=37033652) - [Ask HN: What's the coolest physical thing you've made?](https://news.ycombinator.com/item?id=37033652)
 * [2023-08-07, 12:26:36](https://news.ycombinator.com/item?id=37033475) - [PSA: Intel Graphics Drivers Now Collect Telemetry by Default](https://www.techpowerup.com/312122/psa-intel-graphics-drivers-now-collect-telemetry-by-default)
