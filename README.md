@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-07, 04:16:28](https://news.ycombinator.com/item?id=37030044) - [Google Maps has become an eyesore](https://www.fastcompany.com/90930810/google-maps-eyesore-5-examples-apple-maps)
+* [2023-08-07, 04:14:24](https://news.ycombinator.com/item?id=37030027) - [Edsger Dijkstra’s One-Day Workweek](https://calnewport.com/edsger-dijkstras-one-day-workweek/)
 * [2023-08-07, 03:58:44](https://news.ycombinator.com/item?id=37029913) - [Efficient keyboard layout for English and Spanish](https://github.com/christoofar/canaria)
 * [2023-08-07, 00:03:11](https://news.ycombinator.com/item?id=37028310) - [Java’s floating-point hurts everyone everywhere (1998) [pdf]](https://people.eecs.berkeley.edu/~wkahan/JAVAhurt.pdf)
 * [2023-08-06, 23:53:20](https://news.ycombinator.com/item?id=37028247) - [Cloth Simulation](https://oimo.io/works/cloth/)
@@ -15,7 +16,6 @@
 * [2023-08-06, 19:46:19](https://news.ycombinator.com/item?id=37025834) - [New privacy tools and policies to help you stay safe and in control online](https://blog.google/products/search/new-privacy-tools/)
 * [2023-08-06, 19:26:39](https://news.ycombinator.com/item?id=37025621) - [We are all animals at night](https://hazlitt.net/feature/we-are-all-animals-night)
 * [2023-08-06, 18:47:08](https://news.ycombinator.com/item?id=37025233) - [Meta blocking news links in Canada](https://www.michaelgeist.ca/2023/08/metablockslinks/)
-* [2023-08-06, 18:24:56](https://news.ycombinator.com/item?id=37025027) - [SymmetricDS: Open-Source, cross platform database replication software](https://www.symmetricds.org/)
 * [2023-08-06, 18:18:17](https://news.ycombinator.com/item?id=37024954) - [ALTEXXANET - 90s Internet Experience (2016)](http://altexxanet.org/)
 * [2023-08-06, 17:53:35](https://news.ycombinator.com/item?id=37024685) - [An unconventional LEGO Technic beam sandwich keyboard case](https://dotat.at/@/2023-08-06-ltbs.html)
 * [2023-08-06, 16:49:20](https://news.ycombinator.com/item?id=37023885) - [Why libvirt supports only 14 PCIe hotplugged devices on x86-64](https://dottedmag.net/blog/libvirt-14-pcie-devices/)
