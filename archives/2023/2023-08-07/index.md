@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
 * [2023-08-07, 17:19:30](https://news.ycombinator.com/item?id=37037520) - [Linux Guide for Power Users](https://xnacly.me/posts/2022/linux-for-powerusers/)
+* [2023-08-07, 17:18:43](https://news.ycombinator.com/item?id=37037507) - [Zoom: No-opt out on AI training with “Customer Content”](https://stackdiary.com/zoom-terms-now-allow-training-ai-on-user-content-with-no-opt-out/)
 * [2023-08-07, 17:01:02](https://news.ycombinator.com/item?id=37037224) - [OneSignal (YC S11) Is Hiring Senior Software Engineers](https://onesignal.com/careers#section-job)
 * [2023-08-07, 16:42:00](https://news.ycombinator.com/item?id=37036913) - [Comlink Makes WebWorkers Enjoyable](https://www.npmjs.com/package/comlink)
 * [2023-08-07, 16:38:17](https://news.ycombinator.com/item?id=37036851) - [GNU/Hurd strikes back: How to use the legendary OS in a (somewhat) practical way](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
