@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
+* [2023-08-07, 18:24:31](https://news.ycombinator.com/item?id=37038494) - [Zoom's TOS Permit Training AI on User Content Without Opt-Out](https://stackdiary.com/zoom-terms-now-allow-training-ai-on-user-content-with-no-opt-out/)
 * [2023-08-07, 18:21:33](https://news.ycombinator.com/item?id=37038457) - [A beginner's guide to Git version control](https://developers.redhat.com/articles/2023/08/02/beginners-guide-git-version-control)
 * [2023-08-07, 18:19:10](https://news.ycombinator.com/item?id=37038425) - [The combined power of F# and C#](https://steven-giesel.com/blogPost/2f70d926-ec92-4dfe-b278-18f78078253d)
+* [2023-08-07, 18:09:50](https://news.ycombinator.com/item?id=37038278) - [Aeroflot deactivates brakes on nine aircraft, relies solely on reverse thrust](https://aeroxplorer.com/articles/aeroflot-deactivates-brakes-on-nine-aircraft-relies-solely-on-reverse-thrust.php)
 * [2023-08-07, 17:54:32](https://news.ycombinator.com/item?id=37038053) - [Show HN: ChainForge, a visual tool for prompt engineering and LLM evaluation](https://chainforge.ai/docs/)
 * [2023-08-07, 17:51:42](https://news.ycombinator.com/item?id=37038007) - [Car Bloat: “Huge Cars Are Terrible for Society”](https://kottke.org/23/08/car-bloat-huge-cars-are-terrible-for-society)
 * [2023-08-07, 17:23:33](https://news.ycombinator.com/item?id=37037563) - [Apple Vision Pro: Why Monitor Replacement Is Rediculous](https://kguttag.com/2023/08/05/apple-vision-pro-part-5a-why-monitor-replacement-is-ridiculous/)

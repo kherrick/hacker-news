@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-07, 18:21:33](https://news.ycombinator.com/item?id=37038457) - [A beginner's guide to Git version control](https://developers.redhat.com/articles/2023/08/02/beginners-guide-git-version-control)
+* [2023-08-07, 18:24:31](https://news.ycombinator.com/item?id=37038494) - [Zoom's TOS Permit Training AI on User Content Without Opt-Out](https://stackdiary.com/zoom-terms-now-allow-training-ai-on-user-content-with-no-opt-out/)
 * [2023-08-07, 18:19:10](https://news.ycombinator.com/item?id=37038425) - [The combined power of F# and C#](https://steven-giesel.com/blogPost/2f70d926-ec92-4dfe-b278-18f78078253d)
+* [2023-08-07, 18:09:50](https://news.ycombinator.com/item?id=37038278) - [Aeroflot deactivates brakes on nine aircraft, relies solely on reverse thrust](https://aeroxplorer.com/articles/aeroflot-deactivates-brakes-on-nine-aircraft-relies-solely-on-reverse-thrust.php)
 * [2023-08-07, 17:54:32](https://news.ycombinator.com/item?id=37038053) - [Show HN: ChainForge, a visual tool for prompt engineering and LLM evaluation](https://chainforge.ai/docs/)
 * [2023-08-07, 17:51:42](https://news.ycombinator.com/item?id=37038007) - [Car Bloat: “Huge Cars Are Terrible for Society”](https://kottke.org/23/08/car-bloat-huge-cars-are-terrible-for-society)
 * [2023-08-07, 17:23:33](https://news.ycombinator.com/item?id=37037563) - [Apple Vision Pro: Why Monitor Replacement Is Rediculous](https://kguttag.com/2023/08/05/apple-vision-pro-part-5a-why-monitor-replacement-is-ridiculous/)
@@ -17,7 +18,6 @@
 * [2023-08-07, 14:48:18](https://news.ycombinator.com/item?id=37035221) - [Simple Networking in Linux](https://insanity.industries/post/simple-networking/)
 * [2023-08-07, 14:45:28](https://news.ycombinator.com/item?id=37035178) - [Snappy UIs with WebAssembly and Web Workers](https://mofi.loud.red/blog/wasm-and-workers)
 * [2023-08-07, 14:29:38](https://news.ycombinator.com/item?id=37034951) - [Show HN: Phind V2 – A GPT-4 agent that’s connected to the internet and your code](https://www.phind.com/hn)
-* [2023-08-07, 14:26:06](https://news.ycombinator.com/item?id=37034912) - [Request: Re-open JPEG XL issue](https://bugs.chromium.org/p/chromium/issues/detail?id=1451807)
 * [2023-08-07, 14:25:52](https://news.ycombinator.com/item?id=37034906) - [Sandy Bridge: Setting Intel’s modern foundation](https://chipsandcheese.com/2023/08/04/sandy-bridge-setting-intels-modern-foundation/)
 * [2023-08-07, 14:00:38](https://news.ycombinator.com/item?id=37034575) - [Show HN: Axilla – Open-source TypeScript framework for LLM apps](https://github.com/axilla-io/ax)
 * [2023-08-07, 13:43:25](https://news.ycombinator.com/item?id=37034350) - [MIT Press: Open Access Materials](https://archive.org/details/mit_press_open_access?tab=collection)
