@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
+* [2023-08-07, 17:19:30](https://news.ycombinator.com/item?id=37037520) - [Linux Guide for Power Users](https://xnacly.me/posts/2022/linux-for-powerusers/)
 * [2023-08-07, 17:01:02](https://news.ycombinator.com/item?id=37037224) - [OneSignal (YC S11) Is Hiring Senior Software Engineers](https://onesignal.com/careers#section-job)
 * [2023-08-07, 16:42:00](https://news.ycombinator.com/item?id=37036913) - [Comlink Makes WebWorkers Enjoyable](https://www.npmjs.com/package/comlink)
 * [2023-08-07, 16:38:17](https://news.ycombinator.com/item?id=37036851) - [GNU/Hurd strikes back: How to use the legendary OS in a (somewhat) practical way](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
+* [2023-08-07, 16:22:46](https://news.ycombinator.com/item?id=37036566) - [Math for kids outside of the Calculus Sequence](https://kidswholovemath.substack.com/p/math-for-kids-outside-of-the-calculus)
 * [2023-08-07, 16:09:12](https://news.ycombinator.com/item?id=37036339) - [Displays of traffic crash numbers increase traffic crashes](https://www.science.org/doi/full/10.1126/science.abm3427)
 * [2023-08-07, 16:06:15](https://news.ycombinator.com/item?id=37036291) - [Kafka Is Dead, Long Live Kafka](https://www.warpstream.com/blog/kafka-is-dead-long-live-kafka)
 * [2023-08-07, 16:05:24](https://news.ycombinator.com/item?id=37036277) - [Police Raid Worldcoin Warehouse in Nairobi](https://www.capitalfm.co.ke/news/2023/08/police-raid-worldcoin-cryptocurrency-warehouse-in-nairobi/)
