@@ -8,6 +8,7 @@
 * [2023-08-07, 20:48:35](https://news.ycombinator.com/item?id=37040747) - [CISA Releases Its Cybersecurity Strategic Plan](https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan)
 * [2023-08-07, 20:42:48](https://news.ycombinator.com/item?id=37040681) - [Raku: A Language for Gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/)
 * [2023-08-07, 20:26:44](https://news.ycombinator.com/item?id=37040490) - [Semiconductor Supply Chain Explorer](https://chipexplorer.eto.tech)
+* [2023-08-07, 20:14:34](https://news.ycombinator.com/item?id=37040359) - [Show HN: Doculite – Use SQLite as a Document Database](https://www.npmjs.com/package/doculite)
 * [2023-08-07, 20:03:37](https://news.ycombinator.com/item?id=37040205) - [True shape of lithium revealed for the first time](https://phys.org/news/2023-08-true-lithium-revealed.html)
 * [2023-08-07, 19:46:18](https://news.ycombinator.com/item?id=37039926) - [There Is No Housing Crisis](https://thewalrus.ca/there-is-no-housing-crisis/)
 * [2023-08-07, 18:54:32](https://news.ycombinator.com/item?id=37038987) - [Impending Collapse: Our System Is on the Cusp of Failure](https://knopp.substack.com/p/impeding-collapse)
