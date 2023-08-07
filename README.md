@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-07, 12:45:26](https://news.ycombinator.com/item?id=37033652) - [Ask HN: What's the coolest physical thing you've made?](https://news.ycombinator.com/item?id=37033652)
+* [2023-08-07, 12:59:35](https://news.ycombinator.com/item?id=37033814) - [Write your passwords down (2010)](https://blog.jgc.org/2010/12/write-your-passwords-down.html)
 * [2023-08-07, 12:26:36](https://news.ycombinator.com/item?id=37033475) - [PSA: Intel Graphics Drivers Now Collect Telemetry by Default](https://www.techpowerup.com/312122/psa-intel-graphics-drivers-now-collect-telemetry-by-default)
 * [2023-08-07, 11:27:03](https://news.ycombinator.com/item?id=37033014) - [Turning my Framework laptop into a tiny desktop](https://arstechnica.com/gadgets/2023/08/turning-my-framework-laptop-into-a-tiny-desktop-was-fun-now-it-needs-a-job/)
 * [2023-08-07, 10:05:28](https://news.ycombinator.com/item?id=37032449) - [What's causing Australia's frozen chip shortage and how long will it last?](https://www.sbs.com.au/news/article/whats-causing-australias-frozen-chip-shortage-and-how-long-will-it-last/ljhcvjctq)
