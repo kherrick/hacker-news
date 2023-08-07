@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-08-07, 22:12:02",
-      "https://news.ycombinator.com/item?id=37041654"
-    ],
-    [
-      "Scotland Admits Chopping Down 16M Trees to Make Way for Wind Energy Farms",
-      "https://slaynews.com/news/scotland-chopping-down-16-million-trees-make-way-green-wind-energy-farms/"
-    ]
-  ],
-  [
-    [
       "2023-08-07, 21:45:32",
       "https://news.ycombinator.com/item?id=37041394"
     ],
@@ -187,6 +177,16 @@
     [
       "Gnu/Hurd strikes back: How to use the legendary OS in a (somewhat) practical way",
       "https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d"
+    ]
+  ],
+  [
+    [
+      "2023-08-07, 15:03:02",
+      "https://news.ycombinator.com/item?id=37035448"
+    ],
+    [
+      "How to generate tested software packages using LLMs, a sandbox and a while loop",
+      "https://github.com/modal-labs/devlooper"
     ]
   ],
   [
