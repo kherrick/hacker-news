@@ -25,9 +25,9 @@
 * [2023-08-06, 12:33:24](https://news.ycombinator.com/item?id=37021264) - [Replace peer review with “peer replication” (2021)](https://blog.everydayscientist.com/replace-peer-review-with-peer-replication/)
 * [2023-08-05, 14:36:40](https://news.ycombinator.com/item?id=37012413) - [Laniakea Books: Public domain books for everyone](https://nutcroft.com/blog/laniakea-books-public-domain-books-for-everyone/)
 * [2023-08-05, 13:24:02](https://news.ycombinator.com/item?id=37011776) - [Unexpected link between pure mathematics and genetics](https://www.physics.ox.ac.uk/news/number-theory-and-evolutionary-genetics)
+* [2023-08-05, 03:13:31](https://news.ycombinator.com/item?id=37008627) - [The process of making fake food [video]](https://www.youtube.com/watch?v=O9E77WZGCpQ)
 * [2023-08-04, 17:32:09](https://news.ycombinator.com/item?id=37003148) - [The Physics of Readability](https://loup-vaillant.fr/articles/physics-of-readability)
 * [2023-08-04, 16:53:33](https://news.ycombinator.com/item?id=37002568) - [16th century European artists shifted their focus from power to peasants [video]](https://aeon.co/videos/why-european-artists-shifted-their-focus-from-power-to-peasants-in-the-16th-century)
-* [2023-08-04, 16:13:41](https://news.ycombinator.com/item?id=37001992) - [A frog levitating in a strong magnetic field (1997) [video]](https://www.youtube.com/watch?v=KlJsVqc0ywM)
 * [2023-08-04, 10:40:32](https://news.ycombinator.com/item?id=36998027) - [The Great Libraries of Rome](https://aeon.co/essays/romes-libraries-were-shrines-to-knowledge-and-imperial-power)
 * [2023-08-04, 05:51:40](https://news.ycombinator.com/item?id=36995940) - [Elixir Livebook is a secret weapon for documentation](https://fly.io/blog/livebook-for-app-documentation/)
 

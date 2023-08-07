@@ -82,6 +82,7 @@
 * [2023-08-05, 04:28:07](https://news.ycombinator.com/item?id=37009027) - [Carbon–cement supercapacitors as a scalable bulk energy storage solution](https://www.pnas.org/doi/10.1073/pnas.2304318120)
 * [2023-08-05, 03:29:47](https://news.ycombinator.com/item?id=37008727) - [Flexible Glass in Tiberius’ Rome (2011)](https://www.strangehistory.net/2011/02/20/flexible-glass-in-tiberius-rome/)
 * [2023-08-05, 03:29:37](https://news.ycombinator.com/item?id=37008724) - [NASA has reestablished full communications with Voyager 2](https://www.jpl.nasa.gov/news/nasa-mission-update-voyager-2-communications-pause)
+* [2023-08-05, 03:13:31](https://news.ycombinator.com/item?id=37008627) - [The process of making fake food [video]](https://www.youtube.com/watch?v=O9E77WZGCpQ)
 * [2023-08-05, 02:57:17](https://news.ycombinator.com/item?id=37008532) - [Deploy and fine-tune large language models on K8s](https://github.com/substratusai/substratus)
 * [2023-08-05, 01:35:36](https://news.ycombinator.com/item?id=37008093) - [Digitization of “The Most Beautiful of All Printed Books,” the Kelmscott Chaucer](https://www.openculture.com/2023/08/behold-a-digitization-of-the-most-beautiful-of-all-printed-books-the-kelmscott-chaucer.html)
 * [2023-08-05, 01:26:58](https://news.ycombinator.com/item?id=37008034) - [Reduction of Sulfur Emissions from Ships May Be Causing Rising Sea Temperatures](https://twitter.com/hankgreen/status/1687535525169930241)
