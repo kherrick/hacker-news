@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-07, 19:46:18](https://news.ycombinator.com/item?id=37039926) - [There Is No Housing Crisis](https://thewalrus.ca/there-is-no-housing-crisis/)
+* [2023-08-07, 20:03:37](https://news.ycombinator.com/item?id=37040205) - [True shape of lithium revealed for the first time](https://phys.org/news/2023-08-true-lithium-revealed.html)
 * [2023-08-07, 18:50:19](https://news.ycombinator.com/item?id=37038908) - [Open-source canvas drawing web app, built using React](https://github.com/diogocapela/flatdraw)
 * [2023-08-07, 18:24:31](https://news.ycombinator.com/item?id=37038494) - [Zoom's TOS Permit Training AI on User Content Without Opt-Out](https://stackdiary.com/zoom-terms-now-allow-training-ai-on-user-content-with-no-opt-out/)
 * [2023-08-07, 18:21:33](https://news.ycombinator.com/item?id=37038457) - [A beginner's guide to Git version control](https://developers.redhat.com/articles/2023/08/02/beginners-guide-git-version-control)

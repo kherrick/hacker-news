@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
+* [2023-08-07, 20:03:37](https://news.ycombinator.com/item?id=37040205) - [True shape of lithium revealed for the first time](https://phys.org/news/2023-08-true-lithium-revealed.html)
 * [2023-08-07, 19:46:18](https://news.ycombinator.com/item?id=37039926) - [There Is No Housing Crisis](https://thewalrus.ca/there-is-no-housing-crisis/)
 * [2023-08-07, 18:54:32](https://news.ycombinator.com/item?id=37038987) - [Impending Collapse: Our System Is on the Cusp of Failure](https://knopp.substack.com/p/impeding-collapse)
 * [2023-08-07, 18:50:19](https://news.ycombinator.com/item?id=37038908) - [Open-source canvas drawing web app, built using React](https://github.com/diogocapela/flatdraw)
