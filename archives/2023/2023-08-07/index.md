@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
 * [2023-08-07, 15:29:26](https://news.ycombinator.com/item?id=37035816) - [Bordeaux should be a climate change red flag for the wine industry](https://www.softwine.ai/bordeaux-the-canary-in-the-cellar)
+* [2023-08-07, 15:03:02](https://news.ycombinator.com/item?id=37035448) - [How to generate tested software packages using LLMs, a sandbox and a while loop](https://github.com/modal-labs/devlooper)
 * [2023-08-07, 14:45:28](https://news.ycombinator.com/item?id=37035178) - [Snappy UIs with WebAssembly and Web Workers](https://mofi.loud.red/blog/wasm-and-workers)
 * [2023-08-07, 14:33:02](https://news.ycombinator.com/item?id=37034994) - [Fantastic Learning Resources](https://matklad.github.io/2023/08/06/fantastic-learning-resources.html)
 * [2023-08-07, 14:26:06](https://news.ycombinator.com/item?id=37034912) - [Chromium JPEG XL just changed to “Untriaged” for evaluation](https://bugs.chromium.org/p/chromium/issues/detail?id=1451807)
