@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-07, 17:01:02](https://news.ycombinator.com/item?id=37037224) - [OneSignal (YC S11) Is Hiring Senior Software Engineers](https://onesignal.com/careers#section-job)
+* [2023-08-07, 16:42:00](https://news.ycombinator.com/item?id=37036913) - [Comlink Makes WebWorkers Enjoyable](https://www.npmjs.com/package/comlink)
 * [2023-08-07, 16:38:17](https://news.ycombinator.com/item?id=37036851) - [GNU/Hurd strikes back: How to use the legendary OS in a (somewhat) practical way](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
 * [2023-08-07, 16:09:12](https://news.ycombinator.com/item?id=37036339) - [Displays of traffic crash numbers increase traffic crashes](https://www.science.org/doi/full/10.1126/science.abm3427)
 * [2023-08-07, 16:06:15](https://news.ycombinator.com/item?id=37036291) - [Kafka Is Dead, Long Live Kafka](https://www.warpstream.com/blog/kafka-is-dead-long-live-kafka)
@@ -15,7 +17,6 @@
 * [2023-08-07, 13:43:25](https://news.ycombinator.com/item?id=37034350) - [MIT Press: Open Access Materials](https://archive.org/details/mit_press_open_access?tab=collection)
 * [2023-08-07, 13:16:15](https://news.ycombinator.com/item?id=37034021) - [Self-modifying code using GCC (2011)](https://nikmav.blogspot.com/2011/12/self-modifying-code-using-gcc.html)
 * [2023-08-07, 13:07:13](https://news.ycombinator.com/item?id=37033899) - [The $1M shot that changed sports contests](https://www.espn.com/nba/story/_/id/36146138/million-dollar-shot-michael-jordan-chicago-bulls-1993)
-* [2023-08-07, 12:59:35](https://news.ycombinator.com/item?id=37033814) - [Write your passwords down (2010)](https://blog.jgc.org/2010/12/write-your-passwords-down.html)
 * [2023-08-07, 12:54:18](https://news.ycombinator.com/item?id=37033753) - [Launch HN: GitStart (YC S19) – Remote junior devs working on production PRs](https://news.ycombinator.com/item?id=37033753)
 * [2023-08-07, 12:49:49](https://news.ycombinator.com/item?id=37033702) - [The Santa Fe Time Series Prediction and Analysis Competition](https://www.santafe.edu/research/results/working-papers/the-future-of-time-series)
 * [2023-08-07, 12:45:26](https://news.ycombinator.com/item?id=37033652) - [Ask HN: What's the coolest physical thing you've made?](https://news.ycombinator.com/item?id=37033652)
@@ -25,7 +26,6 @@
 * [2023-08-07, 08:45:21](https://news.ycombinator.com/item?id=37031944) - [My frugal indie dev startup stack (2022)](https://getwaitlist.com/blog/solo-dev-startup-stack)
 * [2023-08-07, 08:07:33](https://news.ycombinator.com/item?id=37031673) - [Orb is a free and open source web desktop](https://gitlab.com/hsleisink/orb)
 * [2023-08-07, 05:39:06](https://news.ycombinator.com/item?id=37030568) - [GPTBot – OpenAI’s Web Crawler](https://platform.openai.com/docs/gptbot)
-* [2023-08-07, 05:00:26](https://news.ycombinator.com/item?id=37030346) - [Isn’t London Hell?](https://www.lrb.co.uk/the-paper/v45/n16/seamus-perry/isn-t-london-hell)
 * [2023-08-07, 04:32:11](https://news.ycombinator.com/item?id=37030159) - [Sedmario: NES Super Mario Bros level 1 written in pure sed (2015)](https://github.com/chebykinn/sedmario)
 * [2023-08-05, 20:24:38](https://news.ycombinator.com/item?id=37015973) - [An arrowhead made of meteoritic iron from the late Bronze Age](https://www.sciencedirect.com/science/article/pii/S0305440323001073)
 * [2023-08-05, 13:47:59](https://news.ycombinator.com/item?id=37011977) - [NASA helps spot wine grape disease from skies above California](https://www.jpl.nasa.gov/news/nasa-helps-spot-wine-grape-disease-from-skies-above-california)
