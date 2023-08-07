@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
+* [2023-08-07, 04:16:28](https://news.ycombinator.com/item?id=37030044) - [Google Maps has become an eyesore](https://www.fastcompany.com/90930810/google-maps-eyesore-5-examples-apple-maps)
 * [2023-08-07, 03:58:44](https://news.ycombinator.com/item?id=37029913) - [Efficient keyboard layout for English and Spanish](https://github.com/christoofar/canaria)
 * [2023-08-07, 03:18:50](https://news.ycombinator.com/item?id=37029674) - [Scientists develop pill able to kill all solid tumors in preclinical research](https://www.cityofhope.org/city-hope-scientists-develop-targeted-chemotherapy-able-kill-all-solid-tumors-preclinical-research)
 * [2023-08-07, 03:01:28](https://news.ycombinator.com/item?id=37029565) - [95 Tesla Deaths Due to Fires, Autopilot: Timeline of Fatalities](https://www.businessinsider.com/tesla-deaths)
