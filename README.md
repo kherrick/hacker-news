@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-07, 14:26:06](https://news.ycombinator.com/item?id=37034912) - [Chromium JPEG XL just changed to “Untriaged” for evaluation](https://bugs.chromium.org/p/chromium/issues/detail?id=1451807)
+* [2023-08-07, 14:25:52](https://news.ycombinator.com/item?id=37034906) - [Sandy Bridge: Setting Intel’s Modern Foundation](https://chipsandcheese.com/2023/08/04/sandy-bridge-setting-intels-modern-foundation/)
 * [2023-08-07, 14:08:04](https://news.ycombinator.com/item?id=37034654) - [A brief glimpse at recent events in Egypt](https://omarshehata.me/notebook/glimpse_into_recent_news_in_egypt)
 * [2023-08-07, 14:00:38](https://news.ycombinator.com/item?id=37034575) - [Show HN: Axilla – Open-source TypeScript framework for LLM apps](https://github.com/axilla-io/ax)
 * [2023-08-07, 13:26:38](https://news.ycombinator.com/item?id=37034145) - [Not Using Zoom](https://the.webm.ink/not-using-zoom)
@@ -20,7 +21,6 @@
 * [2023-08-07, 04:32:11](https://news.ycombinator.com/item?id=37030159) - [Sedmario: NES Super Mario Bros level 1 written in pure sed (2015)](https://github.com/chebykinn/sedmario)
 * [2023-08-07, 04:16:28](https://news.ycombinator.com/item?id=37030044) - [Google Maps has become an eyesore](https://www.fastcompany.com/90930810/google-maps-eyesore-5-examples-apple-maps)
 * [2023-08-07, 04:14:24](https://news.ycombinator.com/item?id=37030027) - [Edsger Dijkstra’s One-Day Workweek](https://calnewport.com/edsger-dijkstras-one-day-workweek/)
-* [2023-08-07, 00:03:11](https://news.ycombinator.com/item?id=37028310) - [Java’s floating-point hurts everyone everywhere (1998) [pdf]](https://people.eecs.berkeley.edu/~wkahan/JAVAhurt.pdf)
 * [2023-08-06, 23:53:20](https://news.ycombinator.com/item?id=37028247) - [Cloth Simulation](https://oimo.io/works/cloth/)
 * [2023-08-06, 23:49:05](https://news.ycombinator.com/item?id=37028223) - [Ravenchord – A Radical Redesign of the Piano](https://whipsaw.com/2023/06/05/unveiling-ravenchord-a-radical-piano-redesign-from-dan-harden/)
 * [2023-08-06, 23:40:28](https://news.ycombinator.com/item?id=37028150) - [What's new in Llama 2 and how to run it locally](https://agi-sphere.com/llama-2/)

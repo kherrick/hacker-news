@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
 * [2023-08-07, 14:26:06](https://news.ycombinator.com/item?id=37034912) - [Chromium JPEG XL just changed to “Untriaged” for evaluation](https://bugs.chromium.org/p/chromium/issues/detail?id=1451807)
+* [2023-08-07, 14:25:52](https://news.ycombinator.com/item?id=37034906) - [Sandy Bridge: Setting Intel’s Modern Foundation](https://chipsandcheese.com/2023/08/04/sandy-bridge-setting-intels-modern-foundation/)
 * [2023-08-07, 14:08:04](https://news.ycombinator.com/item?id=37034654) - [A brief glimpse at recent events in Egypt](https://omarshehata.me/notebook/glimpse_into_recent_news_in_egypt)
 * [2023-08-07, 14:00:38](https://news.ycombinator.com/item?id=37034575) - [Show HN: Axilla – Open-source TypeScript framework for LLM apps](https://github.com/axilla-io/ax)
 * [2023-08-07, 13:57:28](https://news.ycombinator.com/item?id=37034539) - [Reference Model for Service Oriented Architecture (2006)](https://docs.oasis-open.org/soa-rm/v1.0/soa-rm.html)
