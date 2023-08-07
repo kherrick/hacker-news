@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
+* [2023-08-07, 14:33:02](https://news.ycombinator.com/item?id=37034994) - [Fantastic Learning Resources](https://matklad.github.io/2023/08/06/fantastic-learning-resources.html)
 * [2023-08-07, 14:26:06](https://news.ycombinator.com/item?id=37034912) - [Chromium JPEG XL just changed to “Untriaged” for evaluation](https://bugs.chromium.org/p/chromium/issues/detail?id=1451807)
 * [2023-08-07, 14:25:52](https://news.ycombinator.com/item?id=37034906) - [Sandy Bridge: Setting Intel’s Modern Foundation](https://chipsandcheese.com/2023/08/04/sandy-bridge-setting-intels-modern-foundation/)
 * [2023-08-07, 14:08:04](https://news.ycombinator.com/item?id=37034654) - [A brief glimpse at recent events in Egypt](https://omarshehata.me/notebook/glimpse_into_recent_news_in_egypt)
 * [2023-08-07, 14:00:38](https://news.ycombinator.com/item?id=37034575) - [Show HN: Axilla – Open-source TypeScript framework for LLM apps](https://github.com/axilla-io/ax)
 * [2023-08-07, 13:57:28](https://news.ycombinator.com/item?id=37034539) - [Reference Model for Service Oriented Architecture (2006)](https://docs.oasis-open.org/soa-rm/v1.0/soa-rm.html)
+* [2023-08-07, 13:43:25](https://news.ycombinator.com/item?id=37034350) - [MIT Press: Open Access Materials](https://archive.org/details/mit_press_open_access?tab=collection)
 * [2023-08-07, 13:26:38](https://news.ycombinator.com/item?id=37034145) - [Not Using Zoom](https://the.webm.ink/not-using-zoom)
 * [2023-08-07, 13:21:17](https://news.ycombinator.com/item?id=37034084) - [In California, Car Buyers Are Choosing Electric over Gasoline in Record Numbers](https://blog.ucsusa.org/dave-reichmuth/in-california-car-buyers-are-choosing-electricity-over-gasoline-in-record-numbers/)
 * [2023-08-07, 13:17:47](https://news.ycombinator.com/item?id=37034042) - [A Zoom Call, Fake Names and an A.I. Presentation Gone Awry](https://www.nytimes.com/2023/08/07/technology/ai-start-ups-competition.html)
