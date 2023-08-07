@@ -38,6 +38,7 @@
 * [2023-08-04, 17:44:39](https://news.ycombinator.com/item?id=37003306) - [The Power of Achieving Flow State in DevEx](https://hackernoon.com/the-power-of-achieving-flow-state-in-devex)
 * [2023-08-04, 17:42:11](https://news.ycombinator.com/item?id=37003275) - [Ramda: A practical functional library for JavaScript programmers](https://ramdajs.com/)
 * [2023-08-04, 17:36:02](https://news.ycombinator.com/item?id=37003195) - [The unix69 keyboard layout: nerdy and nice](https://dotat.at/@/2023-08-04-unix69.html)
+* [2023-08-04, 17:32:09](https://news.ycombinator.com/item?id=37003148) - [The Physics of Readability](https://loup-vaillant.fr/articles/physics-of-readability)
 * [2023-08-04, 17:00:29](https://news.ycombinator.com/item?id=37002674) - [Kodable is hiring a Full Stack Engineer to help teach millions of kids to code](https://www.indeed.com/job/full-stack-engineer-acbcc196f22f170d)
 * [2023-08-04, 16:51:04](https://news.ycombinator.com/item?id=37002535) - [PSF Hires PyPI Safety and Security Engineer](https://pyfound.blogspot.com/2023/08/announcing-our-new-pypi-safety-security.html)
 * [2023-08-04, 16:43:17](https://news.ycombinator.com/item?id=37002420) - [My Favorite Vim Oneliners for Text Manipulation](https://muhammadraza.me/2023/vim-onliners/)

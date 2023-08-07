@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-06](index.md)
 
+* [2023-08-06, 23:44:47](https://news.ycombinator.com/item?id=37028182) - [Ancient DNA reveals the living descendants of enslaved people through 23andMe](https://www.nature.com/articles/d41586-023-02478-9)
+* [2023-08-06, 23:27:47](https://news.ycombinator.com/item?id=37028043) - [We are pleased to announce that DreamBerd has been renamed to C](https://github.com/TodePond/C)
 * [2023-08-06, 22:37:43](https://news.ycombinator.com/item?id=37027639) - [Show HN: Tarot Arcana—AI tarot card readings](https://apps.apple.com/us/app/tarot-arcana/id1539747669)
 * [2023-08-06, 22:25:02](https://news.ycombinator.com/item?id=37027545) - [The Optics Library](http://markelz.physics.buffalo.edu/node/411)
 * [2023-08-06, 21:55:34](https://news.ycombinator.com/item?id=37027278) - [Serial murders have dwindled, thanks to improved technology](https://www.nytimes.com/2023/08/06/nyregion/serial-killers-gilgo-beach-rex-heuermann.html)
