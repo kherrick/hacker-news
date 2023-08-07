@@ -10,7 +10,7 @@
 * [2023-08-06, 23:53:20](https://news.ycombinator.com/item?id=37028247) - [Cloth Simulation](https://oimo.io/works/cloth/)
 * [2023-08-06, 23:49:05](https://news.ycombinator.com/item?id=37028223) - [Ravenchord – A Radical Redesign of the Piano](https://whipsaw.com/2023/06/05/unveiling-ravenchord-a-radical-piano-redesign-from-dan-harden/)
 * [2023-08-06, 23:40:28](https://news.ycombinator.com/item?id=37028150) - [What's new in Llama 2 and how to run it locally](https://agi-sphere.com/llama-2/)
-* [2023-08-06, 21:28:45](https://news.ycombinator.com/item?id=37027001) - [Timo Noko – The Professional Hobo](https://timonoko.github.io/)
+* [2023-08-06, 21:28:45](https://news.ycombinator.com/item?id=37027001) - [Timo Noko – The Professional Hobo (2016)](https://timonoko.github.io/)
 * [2023-08-06, 21:07:20](https://news.ycombinator.com/item?id=37026780) - [Electron band structure in germanium, my ass (2000)](https://pages.cs.wisc.edu/~kovar/hall.html)
 * [2023-08-06, 20:52:05](https://news.ycombinator.com/item?id=37026592) - [Water](https://oimo.io/works/water/)
 * [2023-08-06, 19:47:14](https://news.ycombinator.com/item?id=37025843) - [The Design and Implementation of Userland Exec (2014)](https://grugq.github.io/docs/ul_exec.txt)
