@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
+* [2023-08-07, 21:01:07](https://news.ycombinator.com/item?id=37040898) - [Emerge Tools (YC W21) is hiring an engineer to lead front end development](https://www.ycombinator.com/companies/emerge-tools/jobs/zDcS7ia-senior-software-engineer-frontend-lead)
 * [2023-08-07, 20:42:48](https://news.ycombinator.com/item?id=37040681) - [Raku: A Language for Gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/)
 * [2023-08-07, 20:03:37](https://news.ycombinator.com/item?id=37040205) - [True shape of lithium revealed for the first time](https://phys.org/news/2023-08-true-lithium-revealed.html)
 * [2023-08-07, 19:46:18](https://news.ycombinator.com/item?id=37039926) - [There Is No Housing Crisis](https://thewalrus.ca/there-is-no-housing-crisis/)

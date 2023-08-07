@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-07, 21:01:07](https://news.ycombinator.com/item?id=37040898) - [Emerge Tools (YC W21) is hiring an engineer to lead front end development](https://www.ycombinator.com/companies/emerge-tools/jobs/zDcS7ia-senior-software-engineer-frontend-lead)
 * [2023-08-07, 20:42:48](https://news.ycombinator.com/item?id=37040681) - [Raku: A Language for Gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/)
 * [2023-08-07, 20:03:37](https://news.ycombinator.com/item?id=37040205) - [True shape of lithium revealed for the first time](https://phys.org/news/2023-08-true-lithium-revealed.html)
 * [2023-08-07, 18:50:19](https://news.ycombinator.com/item?id=37038908) - [Open-source canvas drawing web app, built using React](https://github.com/diogocapela/flatdraw)
@@ -9,7 +10,6 @@
 * [2023-08-07, 17:54:32](https://news.ycombinator.com/item?id=37038053) - [Show HN: ChainForge, a visual tool for prompt engineering and LLM evaluation](https://chainforge.ai/docs/)
 * [2023-08-07, 17:19:30](https://news.ycombinator.com/item?id=37037520) - [Linux Guide for Power Users](https://xnacly.me/posts/2022/linux-for-powerusers/)
 * [2023-08-07, 17:05:22](https://news.ycombinator.com/item?id=37037286) - [Incus, a community fork of LXD, now part of Linux Containers](https://discuss.linuxcontainers.org/t/introducing-incus/17781)
-* [2023-08-07, 17:01:02](https://news.ycombinator.com/item?id=37037224) - [OneSignal (YC S11) Is Hiring Senior Software Engineers](https://onesignal.com/careers#section-job)
 * [2023-08-07, 16:59:00](https://news.ycombinator.com/item?id=37037196) - [How Zoom’s terms of service and practices apply to AI features](https://blog.zoom.us/zooms-term-service-ai/)
 * [2023-08-07, 16:42:00](https://news.ycombinator.com/item?id=37036913) - [Comlink Makes WebWorkers Enjoyable](https://www.npmjs.com/package/comlink)
 * [2023-08-07, 16:38:17](https://news.ycombinator.com/item?id=37036851) - [Gnu/Hurd strikes back: How to use the legendary OS in a (somewhat) practical way](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
