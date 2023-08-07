@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
+* [2023-08-07, 10:05:28](https://news.ycombinator.com/item?id=37032449) - [A new chip shortage mid 2023 is hitting Australia hard – how long will it last?](https://www.sbs.com.au/news/article/whats-causing-australias-frozen-chip-shortage-and-how-long-will-it-last/ljhcvjctq)
 * [2023-08-07, 08:45:21](https://news.ycombinator.com/item?id=37031944) - [My Frugal Indie Dev Startup Stack](https://getwaitlist.com/blog/solo-dev-startup-stack)
 * [2023-08-07, 08:12:19](https://news.ycombinator.com/item?id=37031724) - [Ongoing compilation table of LK-99 reproduction claims](https://forums.spacebattles.com/threads/claims-of-room-temperature-and-ambient-pressure-superconductor.1106083/page-13)
 * [2023-08-07, 08:07:33](https://news.ycombinator.com/item?id=37031673) - [Orb is a free and open source web desktop](https://gitlab.com/hsleisink/orb)
@@ -12,6 +13,7 @@
 * [2023-08-07, 06:21:25](https://news.ycombinator.com/item?id=37030863) - [Devote Yourself to the Cause of Your Life](https://every.to/napkin-math/devote-yourself-to-the-cause-of-your-life)
 * [2023-08-07, 05:39:06](https://news.ycombinator.com/item?id=37030568) - [GPTBot – OpenAI’s Web Crawler](https://platform.openai.com/docs/gptbot)
 * [2023-08-07, 05:25:36](https://news.ycombinator.com/item?id=37030481) - [British gas starts to turn off Hive smart home devices forever](https://www.t3.com/news/british-gas-starts-to-turn-off-hive-smart-home-devices-forever)
+* [2023-08-07, 04:46:12](https://news.ycombinator.com/item?id=37030258) - [Remembering the Slip: the Manhattan street that birthed a generation of artists](https://www.theguardian.com/books/2023/aug/01/the-slip-new-york-agnes-martin-ellsworth-kelly)
 * [2023-08-07, 04:41:51](https://news.ycombinator.com/item?id=37030230) - [Ahead of Time: On Poetry and Mourning](https://yalereview.org/article/kamran-javadizadeh-ahead-time)
 * [2023-08-07, 04:32:11](https://news.ycombinator.com/item?id=37030159) - [Sedmario: NES Super Mario Bros level 1 written in pure sed](https://github.com/chebykinn/sedmario)
 * [2023-08-07, 04:16:28](https://news.ycombinator.com/item?id=37030044) - [Google Maps has become an eyesore](https://www.fastcompany.com/90930810/google-maps-eyesore-5-examples-apple-maps)
