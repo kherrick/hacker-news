@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-07, 03:01:28](https://news.ycombinator.com/item?id=37029565) - [95 Tesla Deaths Due to Fires, Autopilot: Timeline of Fatalities](https://www.businessinsider.com/tesla-deaths)
 * [2023-08-07, 00:03:11](https://news.ycombinator.com/item?id=37028310) - [Java’s Floating-Point Hurts Everyone Everywhere [pdf]](https://people.eecs.berkeley.edu/~wkahan/JAVAhurt.pdf)
 * [2023-08-06, 23:53:20](https://news.ycombinator.com/item?id=37028247) - [Cloth Simulation](https://oimo.io/works/cloth/)
 * [2023-08-06, 23:49:05](https://news.ycombinator.com/item?id=37028223) - [Ravenchord – A Radical Redesign of the Piano](https://whipsaw.com/2023/06/05/unveiling-ravenchord-a-radical-piano-redesign-from-dan-harden/)
@@ -14,6 +15,7 @@
 * [2023-08-06, 19:04:25](https://news.ycombinator.com/item?id=37025393) - [My history with Forth and stack machines (2010)](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
 * [2023-08-06, 18:47:08](https://news.ycombinator.com/item?id=37025233) - [Meta blocking news links in Canada](https://www.michaelgeist.ca/2023/08/metablockslinks/)
 * [2023-08-06, 18:45:59](https://news.ycombinator.com/item?id=37025227) - [Windows Repair Toolbox](https://windows-repair-toolbox.com/)
+* [2023-08-06, 18:24:56](https://news.ycombinator.com/item?id=37025027) - [SymmetricDS: Open-Source, cross platform database replication software](https://www.symmetricds.org/)
 * [2023-08-06, 18:18:17](https://news.ycombinator.com/item?id=37024954) - [ALTEXXANET - 90s Internet Experience (2016)](http://altexxanet.org/)
 * [2023-08-06, 17:53:35](https://news.ycombinator.com/item?id=37024685) - [An unconventional LEGO Technic beam sandwich keyboard case](https://dotat.at/@/2023-08-06-ltbs.html)
 * [2023-08-06, 16:49:20](https://news.ycombinator.com/item?id=37023885) - [Why libvirt supports only 14 PCIe hotplugged devices on x86-64](https://dottedmag.net/blog/libvirt-14-pcie-devices/)
@@ -21,8 +23,6 @@
 * [2023-08-06, 13:15:43](https://news.ycombinator.com/item?id=37021571) - [Jupyter AI](https://jupyter-ai.readthedocs.io/en/latest/)
 * [2023-08-06, 13:05:04](https://news.ycombinator.com/item?id=37021481) - [This code smells of desperation](https://www.os2museum.com/wp/this-code-smells-of-desperation/)
 * [2023-08-06, 12:33:24](https://news.ycombinator.com/item?id=37021264) - [Replace peer review with “peer replication” (2021)](https://blog.everydayscientist.com/replace-peer-review-with-peer-replication/)
-* [2023-08-06, 12:18:11](https://news.ycombinator.com/item?id=37021173) - [Lisp in Space](https://corecursive.com/lisp-in-space-with-ron-garret/)
-* [2023-08-06, 12:15:51](https://news.ycombinator.com/item?id=37021160) - [Zoom terms now allow training AI on user content with no opt out](https://explore.zoom.us/en/terms/)
 * [2023-08-06, 10:26:54](https://news.ycombinator.com/item?id=37020610) - [Postgres Language Server](https://github.com/supabase/postgres_lsp)
 * [2023-08-05, 14:36:40](https://news.ycombinator.com/item?id=37012413) - [Laniakea Books: Public domain books for everyone](https://nutcroft.com/blog/laniakea-books-public-domain-books-for-everyone/)
 * [2023-08-04, 19:34:48](https://news.ycombinator.com/item?id=37004793) - [Precision Medicine and Its Imprecise History (2020)](https://hdsr.mitpress.mit.edu/pub/y7r65r4k/release/4)
