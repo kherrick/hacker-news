@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-07, 18:21:33",
+      "https://news.ycombinator.com/item?id=37038457"
+    ],
+    [
+      "A beginner's guide to Git version control",
+      "https://developers.redhat.com/articles/2023/08/02/beginners-guide-git-version-control"
+    ]
+  ],
+  [
+    [
+      "2023-08-07, 18:19:10",
+      "https://news.ycombinator.com/item?id=37038425"
+    ],
+    [
+      "The combined power of F# and C#",
+      "https://steven-giesel.com/blogPost/2f70d926-ec92-4dfe-b278-18f78078253d"
+    ]
+  ],
+  [
+    [
       "2023-08-07, 17:54:32",
       "https://news.ycombinator.com/item?id=37038053"
     ],
@@ -17,6 +37,16 @@
     [
       "Car Bloat: “Huge Cars Are Terrible for Society”",
       "https://kottke.org/23/08/car-bloat-huge-cars-are-terrible-for-society"
+    ]
+  ],
+  [
+    [
+      "2023-08-07, 17:23:33",
+      "https://news.ycombinator.com/item?id=37037563"
+    ],
+    [
+      "Apple Vision Pro: Why Monitor Replacement Is Rediculous",
+      "https://kguttag.com/2023/08/05/apple-vision-pro-part-5a-why-monitor-replacement-is-ridiculous/"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2023-08-07, 13:16:15",
-      "https://news.ycombinator.com/item?id=37034021"
-    ],
-    [
-      "Self-modifying code using GCC (2011)",
-      "https://nikmav.blogspot.com/2011/12/self-modifying-code-using-gcc.html"
-    ]
-  ],
-  [
-    [
       "2023-08-07, 12:54:18",
       "https://news.ycombinator.com/item?id=37033753"
     ],
@@ -211,42 +231,12 @@
   ],
   [
     [
-      "2023-08-07, 12:26:36",
-      "https://news.ycombinator.com/item?id=37033475"
-    ],
-    [
-      "PSA: Intel Graphics Drivers Now Collect Telemetry by Default",
-      "https://www.techpowerup.com/312122/psa-intel-graphics-drivers-now-collect-telemetry-by-default"
-    ]
-  ],
-  [
-    [
       "2023-08-07, 12:18:41",
       "https://news.ycombinator.com/item?id=37033403"
     ],
     [
       "Some tactics for writing in public",
       "https://jvns.ca/blog/2023/08/07/tactics-for-writing-in-public/"
-    ]
-  ],
-  [
-    [
-      "2023-08-07, 09:03:12",
-      "https://news.ycombinator.com/item?id=37032061"
-    ],
-    [
-      "AMB: The Ancient Machine Book Format",
-      "https://amb.osdn.io/"
-    ]
-  ],
-  [
-    [
-      "2023-08-07, 08:45:21",
-      "https://news.ycombinator.com/item?id=37031944"
-    ],
-    [
-      "My frugal indie dev startup stack (2022)",
-      "https://getwaitlist.com/blog/solo-dev-startup-stack"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "GPTBot – OpenAI’s Web Crawler",
       "https://platform.openai.com/docs/gptbot"
+    ]
+  ],
+  [
+    [
+      "2023-08-06, 21:05:12",
+      "https://news.ycombinator.com/item?id=37026757"
+    ],
+    [
+      "Compiler Development: Rust or OCaml?",
+      "https://hirrolot.github.io/posts/compiler-development-rust-or-ocaml.html"
     ]
   ],
   [
