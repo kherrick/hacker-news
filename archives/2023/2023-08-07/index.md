@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
+* [2023-08-07, 12:18:11](https://news.ycombinator.com/item?id=37033398) - [Vocal minority sets online discourse, distorting real-life perception](https://www.fastcompany.com/90933474/taylor-swifts-eras-tour-is-a-reminder-that-social-media-is-not-real-life)
+* [2023-08-07, 12:06:48](https://news.ycombinator.com/item?id=37033312) - [Ask HN: What are the big/important problems to work on?](https://news.ycombinator.com/item?id=37033312)
+* [2023-08-07, 11:09:23](https://news.ycombinator.com/item?id=37032885) - [Tell HN: '' in Vim moves cursor to recent line](https://news.ycombinator.com/item?id=37032885)
 * [2023-08-07, 10:05:28](https://news.ycombinator.com/item?id=37032449) - [A new chip shortage mid 2023 is hitting Australia hard – how long will it last?](https://www.sbs.com.au/news/article/whats-causing-australias-frozen-chip-shortage-and-how-long-will-it-last/ljhcvjctq)
 * [2023-08-07, 08:45:21](https://news.ycombinator.com/item?id=37031944) - [My Frugal Indie Dev Startup Stack](https://getwaitlist.com/blog/solo-dev-startup-stack)
 * [2023-08-07, 08:12:19](https://news.ycombinator.com/item?id=37031724) - [Ongoing compilation table of LK-99 reproduction claims](https://forums.spacebattles.com/threads/claims-of-room-temperature-and-ambient-pressure-superconductor.1106083/page-13)
