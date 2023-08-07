@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
+* [2023-08-07, 15:29:26](https://news.ycombinator.com/item?id=37035816) - [Bordeaux should be a climate change red flag for the wine industry](https://www.softwine.ai/bordeaux-the-canary-in-the-cellar)
 * [2023-08-07, 14:45:28](https://news.ycombinator.com/item?id=37035178) - [Snappy UIs with WebAssembly and Web Workers](https://mofi.loud.red/blog/wasm-and-workers)
 * [2023-08-07, 14:33:02](https://news.ycombinator.com/item?id=37034994) - [Fantastic Learning Resources](https://matklad.github.io/2023/08/06/fantastic-learning-resources.html)
 * [2023-08-07, 14:26:06](https://news.ycombinator.com/item?id=37034912) - [Chromium JPEG XL just changed to “Untriaged” for evaluation](https://bugs.chromium.org/p/chromium/issues/detail?id=1451807)
@@ -28,6 +29,7 @@
 * [2023-08-07, 11:27:03](https://news.ycombinator.com/item?id=37033014) - [Turning my Framework laptop into a tiny desktop](https://arstechnica.com/gadgets/2023/08/turning-my-framework-laptop-into-a-tiny-desktop-was-fun-now-it-needs-a-job/)
 * [2023-08-07, 11:09:23](https://news.ycombinator.com/item?id=37032885) - [Tell HN: '' in Vim moves cursor to recent line](https://news.ycombinator.com/item?id=37032885)
 * [2023-08-07, 10:05:28](https://news.ycombinator.com/item?id=37032449) - [A new chip shortage mid 2023 is hitting Australia hard – how long will it last?](https://www.sbs.com.au/news/article/whats-causing-australias-frozen-chip-shortage-and-how-long-will-it-last/ljhcvjctq)
+* [2023-08-07, 09:03:12](https://news.ycombinator.com/item?id=37032061) - [AMB: The Ancient Machine Book Format](https://amb.osdn.io/)
 * [2023-08-07, 08:45:21](https://news.ycombinator.com/item?id=37031944) - [My Frugal Indie Dev Startup Stack](https://getwaitlist.com/blog/solo-dev-startup-stack)
 * [2023-08-07, 08:12:19](https://news.ycombinator.com/item?id=37031724) - [Ongoing compilation table of LK-99 reproduction claims](https://forums.spacebattles.com/threads/claims-of-room-temperature-and-ambient-pressure-superconductor.1106083/page-13)
 * [2023-08-07, 08:07:33](https://news.ycombinator.com/item?id=37031673) - [Orb is a free and open source web desktop](https://gitlab.com/hsleisink/orb)
