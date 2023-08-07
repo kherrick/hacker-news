@@ -7,6 +7,7 @@
 * [2023-08-06, 23:53:20](https://news.ycombinator.com/item?id=37028247) - [Cloth Simulation](https://oimo.io/works/cloth/)
 * [2023-08-06, 23:49:05](https://news.ycombinator.com/item?id=37028223) - [Ravenchord – A Radical Redesign of the Piano](https://whipsaw.com/2023/06/05/unveiling-ravenchord-a-radical-piano-redesign-from-dan-harden/)
 * [2023-08-06, 23:44:47](https://news.ycombinator.com/item?id=37028182) - [Ancient DNA reveals the living descendants of enslaved people through 23andMe](https://www.nature.com/articles/d41586-023-02478-9)
+* [2023-08-06, 23:40:28](https://news.ycombinator.com/item?id=37028150) - [What's new in Llama 2 and how to run it locally](https://agi-sphere.com/llama-2/)
 * [2023-08-06, 23:27:47](https://news.ycombinator.com/item?id=37028043) - [We are pleased to announce that DreamBerd has been renamed to C](https://github.com/TodePond/C)
 * [2023-08-06, 22:37:43](https://news.ycombinator.com/item?id=37027639) - [Show HN: Tarot Arcana—AI tarot card readings](https://apps.apple.com/us/app/tarot-arcana/id1539747669)
 * [2023-08-06, 22:25:02](https://news.ycombinator.com/item?id=37027545) - [The Optics Library](http://markelz.physics.buffalo.edu/node/411)
