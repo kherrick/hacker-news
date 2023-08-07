@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
+* [2023-08-07, 18:50:19](https://news.ycombinator.com/item?id=37038908) - [Open-source canvas drawing web app, built using React](https://github.com/diogocapela/flatdraw)
+* [2023-08-07, 18:40:27](https://news.ycombinator.com/item?id=37038716) - [A vision for the AI web: the real web 3.0](https://www.vikas.sh/post/vision-for-ai-web)
 * [2023-08-07, 18:24:31](https://news.ycombinator.com/item?id=37038494) - [Zoom's TOS Permit Training AI on User Content Without Opt-Out](https://stackdiary.com/zoom-terms-now-allow-training-ai-on-user-content-with-no-opt-out/)
 * [2023-08-07, 18:21:33](https://news.ycombinator.com/item?id=37038457) - [A beginner's guide to Git version control](https://developers.redhat.com/articles/2023/08/02/beginners-guide-git-version-control)
 * [2023-08-07, 18:19:10](https://news.ycombinator.com/item?id=37038425) - [The combined power of F# and C#](https://steven-giesel.com/blogPost/2f70d926-ec92-4dfe-b278-18f78078253d)
@@ -14,6 +16,7 @@
 * [2023-08-07, 17:19:30](https://news.ycombinator.com/item?id=37037520) - [Linux Guide for Power Users](https://xnacly.me/posts/2022/linux-for-powerusers/)
 * [2023-08-07, 17:18:43](https://news.ycombinator.com/item?id=37037507) - [Zoom: No-opt out on AI training with “Customer Content”](https://stackdiary.com/zoom-terms-now-allow-training-ai-on-user-content-with-no-opt-out/)
 * [2023-08-07, 17:01:02](https://news.ycombinator.com/item?id=37037224) - [OneSignal (YC S11) Is Hiring Senior Software Engineers](https://onesignal.com/careers#section-job)
+* [2023-08-07, 16:59:00](https://news.ycombinator.com/item?id=37037196) - [How Zoom’s terms of service and practices apply to AI features](https://blog.zoom.us/zooms-term-service-ai/)
 * [2023-08-07, 16:42:00](https://news.ycombinator.com/item?id=37036913) - [Comlink Makes WebWorkers Enjoyable](https://www.npmjs.com/package/comlink)
 * [2023-08-07, 16:38:17](https://news.ycombinator.com/item?id=37036851) - [GNU/Hurd strikes back: How to use the legendary OS in a (somewhat) practical way](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
 * [2023-08-07, 16:22:46](https://news.ycombinator.com/item?id=37036566) - [Math for kids outside of the Calculus Sequence](https://kidswholovemath.substack.com/p/math-for-kids-outside-of-the-calculus)
