@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-08-07, 04:16:28",
+      "https://news.ycombinator.com/item?id=37030044"
+    ],
+    [
+      "Google Maps has become an eyesore",
+      "https://www.fastcompany.com/90930810/google-maps-eyesore-5-examples-apple-maps"
+    ]
+  ],
+  [
+    [
       "2023-08-07, 03:58:44",
       "https://news.ycombinator.com/item?id=37029913"
     ],
     [
       "Efficient keyboard layout for English and Spanish",
       "https://github.com/christoofar/canaria"
+    ]
+  ],
+  [
+    [
+      "2023-08-07, 00:03:11",
+      "https://news.ycombinator.com/item?id=37028310"
+    ],
+    [
+      "Java’s floating-point hurts everyone everywhere (1998) [pdf]",
+      "https://people.eecs.berkeley.edu/~wkahan/JAVAhurt.pdf"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2023-08-06, 19:04:25",
-      "https://news.ycombinator.com/item?id=37025393"
-    ],
-    [
-      "My history with Forth and stack machines (2010)",
-      "https://yosefk.com/blog/my-history-with-forth-stack-machines.html"
-    ]
-  ],
-  [
-    [
       "2023-08-06, 18:47:08",
       "https://news.ycombinator.com/item?id=37025233"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2023-08-06, 15:41:05",
-      "https://news.ycombinator.com/item?id=37023117"
-    ],
-    [
-      "The antitrust trial against Google is starting in September",
-      "https://www.thebignewsletter.com/p/the-first-big-antitrust-trial-of"
-    ]
-  ],
-  [
-    [
       "2023-08-06, 15:20:48",
       "https://news.ycombinator.com/item?id=37022911"
     ],
@@ -201,32 +201,12 @@
   ],
   [
     [
-      "2023-08-06, 13:15:43",
-      "https://news.ycombinator.com/item?id=37021571"
-    ],
-    [
-      "Jupyter AI",
-      "https://jupyter-ai.readthedocs.io/en/latest/"
-    ]
-  ],
-  [
-    [
       "2023-08-06, 12:33:24",
       "https://news.ycombinator.com/item?id=37021264"
     ],
     [
       "Replace peer review with “peer replication” (2021)",
       "https://blog.everydayscientist.com/replace-peer-review-with-peer-replication/"
-    ]
-  ],
-  [
-    [
-      "2023-08-06, 12:15:51",
-      "https://news.ycombinator.com/item?id=37021160"
-    ],
-    [
-      "Zoom terms now allow training AI on user content with no opt out",
-      "https://explore.zoom.us/en/terms/"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2023-08-04, 10:40:32",
+      "https://news.ycombinator.com/item?id=36998027"
+    ],
+    [
+      "The Great Libraries of Rome",
+      "https://aeon.co/essays/romes-libraries-were-shrines-to-knowledge-and-imperial-power"
+    ]
+  ],
+  [
+    [
       "2023-08-04, 05:51:40",
       "https://news.ycombinator.com/item?id=36995940"
     ],
     [
       "Elixir Livebook is a secret weapon for documentation",
       "https://fly.io/blog/livebook-for-app-documentation/"
+    ]
+  ],
+  [
+    [
+      "2023-08-04, 01:59:31",
+      "https://news.ycombinator.com/item?id=36994532"
+    ],
+    [
+      "Catching up on the weird world of LLMs",
+      "https://simonwillison.net/2023/Aug/3/weird-world-of-llms/"
     ]
   ]
 ]
