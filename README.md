@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-07, 03:18:50](https://news.ycombinator.com/item?id=37029674) - [Scientists develop pill able to kill all solid tumors in preclinical research](https://www.cityofhope.org/city-hope-scientists-develop-targeted-chemotherapy-able-kill-all-solid-tumors-preclinical-research)
-* [2023-08-07, 01:55:16](https://news.ycombinator.com/item?id=37029081) - [Uber CEO Stunned When He Heard Cost of 3-Mile Uber Ride](https://futurism.com/the-byte/uber-ceo-ride-cost)
+* [2023-08-07, 03:58:44](https://news.ycombinator.com/item?id=37029913) - [Efficient keyboard layout for English and Spanish](https://github.com/christoofar/canaria)
 * [2023-08-06, 23:53:20](https://news.ycombinator.com/item?id=37028247) - [Cloth Simulation](https://oimo.io/works/cloth/)
 * [2023-08-06, 23:49:05](https://news.ycombinator.com/item?id=37028223) - [Ravenchord – A Radical Redesign of the Piano](https://whipsaw.com/2023/06/05/unveiling-ravenchord-a-radical-piano-redesign-from-dan-harden/)
 * [2023-08-06, 23:40:28](https://news.ycombinator.com/item?id=37028150) - [What's new in Llama 2 and how to run it locally](https://agi-sphere.com/llama-2/)
@@ -23,6 +22,7 @@
 * [2023-08-06, 15:20:48](https://news.ycombinator.com/item?id=37022911) - [I went to 50 different dentists: almost all gave a different diagnosis (2022)](https://www.rd.com/article/how-honest-are-dentists/)
 * [2023-08-06, 13:15:43](https://news.ycombinator.com/item?id=37021571) - [Jupyter AI](https://jupyter-ai.readthedocs.io/en/latest/)
 * [2023-08-06, 12:33:24](https://news.ycombinator.com/item?id=37021264) - [Replace peer review with “peer replication” (2021)](https://blog.everydayscientist.com/replace-peer-review-with-peer-replication/)
+* [2023-08-06, 12:15:51](https://news.ycombinator.com/item?id=37021160) - [Zoom terms now allow training AI on user content with no opt out](https://explore.zoom.us/en/terms/)
 * [2023-08-06, 10:26:54](https://news.ycombinator.com/item?id=37020610) - [Postgres Language Server](https://github.com/supabase/postgres_lsp)
 * [2023-08-05, 14:36:40](https://news.ycombinator.com/item?id=37012413) - [Laniakea Books: Public domain books for everyone](https://nutcroft.com/blog/laniakea-books-public-domain-books-for-everyone/)
 * [2023-08-04, 19:34:48](https://news.ycombinator.com/item?id=37004793) - [Precision Medicine and Its Imprecise History (2020)](https://hdsr.mitpress.mit.edu/pub/y7r65r4k/release/4)
