@@ -70,6 +70,7 @@
 * [2023-08-07, 05:00:26](https://news.ycombinator.com/item?id=37030346) - [Isn’t London Hell?](https://www.lrb.co.uk/the-paper/v45/n16/seamus-perry/isn-t-london-hell)
 * [2023-08-07, 04:46:12](https://news.ycombinator.com/item?id=37030258) - [Remembering the Slip: the Manhattan street that birthed a generation of artists](https://www.theguardian.com/books/2023/aug/01/the-slip-new-york-agnes-martin-ellsworth-kelly)
 * [2023-08-07, 04:41:51](https://news.ycombinator.com/item?id=37030230) - [Ahead of Time: On Poetry and Mourning](https://yalereview.org/article/kamran-javadizadeh-ahead-time)
+* [2023-08-07, 04:32:41](https://news.ycombinator.com/item?id=37030163) - [32by32 – Macintosh History from the 1980s](https://32by32.com/)
 * [2023-08-07, 04:32:11](https://news.ycombinator.com/item?id=37030159) - [Sedmario: NES Super Mario Bros level 1 written in pure sed](https://github.com/chebykinn/sedmario)
 * [2023-08-07, 04:16:28](https://news.ycombinator.com/item?id=37030044) - [Google Maps has become an eyesore](https://www.fastcompany.com/90930810/google-maps-eyesore-5-examples-apple-maps)
 * [2023-08-07, 04:14:24](https://news.ycombinator.com/item?id=37030027) - [Edsger Dijkstra’s One-Day Workweek](https://calnewport.com/edsger-dijkstras-one-day-workweek/)
