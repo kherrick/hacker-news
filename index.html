@@ -129,6 +129,107 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="37034575">
+          <h3>
+            <a class="item" href="https://github.com/axilla-io/ax"
+              >Show HN: Axilla – Open-source TypeScript framework for LLM
+              apps</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-08-07 @ 14:00:38</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37034575"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Ben and I met while working at Cruise on the ML platform for
+                self-driving cars. We spent many years there and learned the
+                hard way that shipping AI is not quite the same as shipping
+                regular code. There are many parts of the ML lifecycle, e.g.,
+                mining, processing, and labeling data and training, evaluating,
+                and deploying models. Although none of them are rocket science,
+                most of the inefficiencies tend to come from integrating them
+                together. At Cruise, we built an integrated framework that
+                accelerated the speed of shipping models to the car by 80%.
+              </p>
+              <p>
+                With the explosion of generative AI, we are seeing software
+                teams building applications and features with the same
+                inefficiencies we experienced at Cruise.
+              </p>
+              <p>
+                This got us excited about building an opinionated, end-to-end
+                platform. We started building in Python but quickly noticed that
+                most of the teams we talked to weren’t using Python, but instead
+                building in TypeScript. This is because most teams are not
+                training their own models, but rather using foundational ones
+                served by third parties over HTTP, like openAI, anthropic or
+                even OSS ones from hugging face.
+              </p>
+              <p>
+                Because of this, we’ve decided to build Axilla as a TypeScript
+                first library.
+              </p>
+              <p>
+                Our goal is to build a modular framework that can be adopted
+                incrementally yet benefits from full integration. For example,
+                the production responses coming from the LLM should be able to
+                be sent — with all necessary metadata — to the eval module or
+                the labeling tooling.
+              </p>
+              <p>
+                So far, we’ve shipped 2 modules, that are available to use today
+                on npm:
+              </p>
+              <p>
+                * *axgen*: focused on RAG type workflows. Useful if you want to
+                ingest data, get the embeddings, store it in a vector store and
+                then do similarity search retrieval. It’s how you give LLMs
+                memory or more context about private data sources.
+              </p>
+              <p>
+                * *axeval*: a lightweight evaluation library, that feels like
+                jest (so, like unit tests). In our experience, evaluation should
+                be really easy to setup, to encourage continuous quality
+                monitoring, and slowly build ground truth datasets of edge cases
+                that can be used for regression testing, and fine-tuning.
+              </p>
+              <p>
+                We are working on a serving module and a data processing one
+                next and would love to hear what functionality you need us to
+                prioritize!
+              </p>
+              <p>
+                We built an open-source demo UI for you to discover the
+                framework more:
+                <a href="https://github.com/axilla-io/demo-ui"
+                  >https://github.com/axilla-io/demo-ui</a
+                >
+              </p>
+              <p>
+                And here's a video of Nicholas walking through the UI that gives
+                an idea of what axgen can do:
+                <a
+                  href="https://www.loom.com/share/458f9b6679b740f0a5c78a33fffee3dc"
+                  >https://www.loom.com/share/458f9b6679b740f0a5c78a33fffee3dc</a
+                >
+              </p>
+              <p>
+                We’d love to hear your feedback on the framework, you can let us
+                know here, create an issue on the GitHub repo or send me an
+                email at nicholas@axilla.io
+              </p>
+              <p>And of course, contributions welcome!</p>
+            </div>
+          </section>
+        </section>
         <section id="37034145">
           <h3>
             <a class="item" href="https://the.webm.ink/not-using-zoom"
@@ -139,11 +240,33 @@
             <h4>
               <span>2023-08-07 @ 13:26:38</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37034145"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 39</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="37034084">
+          <h3>
+            <a
+              class="item"
+              href="https://blog.ucsusa.org/dave-reichmuth/in-california-car-buyers-are-choosing-electricity-over-gasoline-in-record-numbers/"
+              >In California, Car Buyers Are Choosing Electric over Gasoline in
+              Record Numbers</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-08-07 @ 13:21:17</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37034084"
+                  >Comments</a
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -160,7 +283,7 @@
             <h4>
               <span>2023-08-07 @ 13:16:15</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37034021"
                   >Comments</a
@@ -181,11 +304,11 @@
             <h4>
               <span>2023-08-07 @ 13:07:13</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37033899"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -202,11 +325,11 @@
             <h4>
               <span>2023-08-07 @ 12:59:35</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37033814"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
           </section>
@@ -222,11 +345,11 @@
             <h4>
               <span>2023-08-07 @ 12:54:18</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37033753"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
             <div class="text">
@@ -350,6 +473,27 @@
             </div>
           </section>
         </section>
+        <section id="37033702">
+          <h3>
+            <a
+              class="item"
+              href="https://www.santafe.edu/research/results/working-papers/the-future-of-time-series"
+              >The Santa Fe Time Series Prediction and Analysis Competition</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-08-07 @ 12:49:49</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37033702"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="37033475">
           <h3>
             <a
@@ -362,11 +506,11 @@
             <h4>
               <span>2023-08-07 @ 12:26:36</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">124</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37033475"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -383,11 +527,33 @@
             <h4>
               <span>2023-08-07 @ 12:18:41</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37033403"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="37033398">
+          <h3>
+            <a
+              class="item"
+              href="https://www.fastcompany.com/90933474/taylor-swifts-eras-tour-is-a-reminder-that-social-media-is-not-real-life"
+              >Vocal minority sets online discourse, distorting real-life
+              perception</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-08-07 @ 12:18:11</span
+              ><span class="points-container"
+                >Points: <span class="points">64</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37033398"
+                  >Comments</a
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -404,11 +570,11 @@
             <h4>
               <span>2023-08-07 @ 11:27:03</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37033014"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -426,11 +592,11 @@
             <h4>
               <span>2023-08-07 @ 10:05:28</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37032449"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -447,11 +613,11 @@
             <h4>
               <span>2023-08-07 @ 08:45:21</span
               ><span class="points-container"
-                >Points: <span class="points">136</span></span
+                >Points: <span class="points">140</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37031944"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 100</span></span
               >
             </h4>
           </section>
@@ -468,11 +634,11 @@
             <h4>
               <span>2023-08-07 @ 08:12:19</span
               ><span class="points-container"
-                >Points: <span class="points">249</span></span
+                >Points: <span class="points">256</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37031724"
                   >Comments</a
-                ><span class="descendants">: 213</span></span
+                ><span class="descendants">: 220</span></span
               >
             </h4>
           </section>
@@ -487,51 +653,11 @@
             <h4>
               <span>2023-08-07 @ 08:07:33</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37031673"
                   >Comments</a
                 ><span class="descendants">: 69</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="37030568">
-          <h3>
-            <a class="item" href="https://platform.openai.com/docs/gptbot"
-              >GPTBot – OpenAI’s Web Crawler</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-08-07 @ 05:39:06</span
-              ><span class="points-container"
-                >Points: <span class="points">224</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37030568"
-                  >Comments</a
-                ><span class="descendants">: 218</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="37030481">
-          <h3>
-            <a
-              class="item"
-              href="https://www.t3.com/news/british-gas-starts-to-turn-off-hive-smart-home-devices-forever"
-              >British Gas starts to turn off Hive smart home devices forever</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-08-07 @ 05:25:36</span
-              ><span class="points-container"
-                >Points: <span class="points">147</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37030481"
-                  >Comments</a
-                ><span class="descendants">: 128</span></span
               >
             </h4>
           </section>
@@ -549,11 +675,11 @@
             <h4>
               <span>2023-08-07 @ 04:46:12</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37030258"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -590,11 +716,11 @@
             <h4>
               <span>2023-08-07 @ 04:32:11</span
               ><span class="points-container"
-                >Points: <span class="points">148</span></span
+                >Points: <span class="points">152</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37030159"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -611,11 +737,11 @@
             <h4>
               <span>2023-08-07 @ 04:16:28</span
               ><span class="points-container"
-                >Points: <span class="points">519</span></span
+                >Points: <span class="points">536</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37030044"
                   >Comments</a
-                ><span class="descendants">: 483</span></span
+                ><span class="descendants">: 503</span></span
               >
             </h4>
           </section>
@@ -632,32 +758,11 @@
             <h4>
               <span>2023-08-07 @ 04:14:24</span
               ><span class="points-container"
-                >Points: <span class="points">148</span></span
+                >Points: <span class="points">155</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37030027"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="37028310">
-          <h3>
-            <a
-              class="item"
-              href="https://people.eecs.berkeley.edu/~wkahan/JAVAhurt.pdf"
-              >Java’s floating-point hurts everyone everywhere (1998) [pdf]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-08-07 @ 00:03:11</span
-              ><span class="points-container"
-                >Points: <span class="points">77</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37028310"
-                  >Comments</a
-                ><span class="descendants">: 93</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
           </section>
@@ -672,11 +777,11 @@
             <h4>
               <span>2023-08-06 @ 23:53:20</span
               ><span class="points-container"
-                >Points: <span class="points">215</span></span
+                >Points: <span class="points">223</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37028247"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -693,7 +798,7 @@
             <h4>
               <span>2023-08-06 @ 23:49:05</span
               ><span class="points-container"
-                >Points: <span class="points">149</span></span
+                >Points: <span class="points">151</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37028223"
                   >Comments</a
@@ -712,30 +817,11 @@
             <h4>
               <span>2023-08-06 @ 23:40:28</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37028150"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="37026780">
-          <h3>
-            <a class="item" href="https://pages.cs.wisc.edu/~kovar/hall.html"
-              >Electron band structure in germanium, my ass (2000)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-08-06 @ 21:07:20</span
-              ><span class="points-container"
-                >Points: <span class="points">425</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37026780"
-                  >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -746,7 +832,7 @@
             <h4>
               <span>2023-08-06 @ 20:52:05</span
               ><span class="points-container"
-                >Points: <span class="points">1075</span></span
+                >Points: <span class="points">1078</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37026592"
                   >Comments</a
@@ -767,11 +853,11 @@
             <h4>
               <span>2023-08-06 @ 13:54:17</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37021933"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -788,7 +874,7 @@
             <h4>
               <span>2023-08-05 @ 13:47:59</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37011977"
                   >Comments</a
@@ -809,11 +895,11 @@
             <h4>
               <span>2023-08-05 @ 13:24:02</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37011776"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -828,11 +914,11 @@
             <h4>
               <span>2023-08-05 @ 03:13:31</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37008627"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -849,7 +935,7 @@
             <h4>
               <span>2023-08-04 @ 05:51:40</span
               ><span class="points-container"
-                >Points: <span class="points">258</span></span
+                >Points: <span class="points">262</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36995940"
                   >Comments</a
