@@ -2,7 +2,7 @@
 
 * [2023-08-07, 16:06:15](https://news.ycombinator.com/item?id=37036291) - [Kafka Is Dead, Long Live Kafka](https://www.warpstream.com/blog/kafka-is-dead-long-live-kafka)
 * [2023-08-07, 16:05:24](https://news.ycombinator.com/item?id=37036277) - [Police Raid Worldcoin Warehouse in Nairobi](https://www.capitalfm.co.ke/news/2023/08/police-raid-worldcoin-cryptocurrency-warehouse-in-nairobi/)
-* [2023-08-07, 15:57:36](https://news.ycombinator.com/item?id=37036181) - [Detroit woman falsely arrested while pregnant due to facial recognition tech](https://www.nbcnews.com/news/us-news/detroit-woman-sues-city-falsely-arrested-8-months-pregnant-due-facial-rcna98447)
+* [2023-08-07, 16:03:47](https://news.ycombinator.com/item?id=37036257) - [War is the Lamborghini the West can't afford](https://robert94015.substack.com/p/war-is-the-lamborghini-the-west-cant)
 * [2023-08-07, 15:29:26](https://news.ycombinator.com/item?id=37035816) - [Bordeaux should be a climate change red flag for the wine industry](https://www.softwine.ai/bordeaux-the-canary-in-the-cellar)
 * [2023-08-07, 15:03:02](https://news.ycombinator.com/item?id=37035448) - [How to generate tested software packages using LLMs, a sandbox and a while loop](https://github.com/modal-labs/devlooper)
 * [2023-08-07, 14:48:18](https://news.ycombinator.com/item?id=37035221) - [Simple Networking in Linux](https://insanity.industries/post/simple-networking/)
