@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-07, 20:42:48](https://news.ycombinator.com/item?id=37040681) - [Raku: A Language for Gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/)
 * [2023-08-07, 20:03:37](https://news.ycombinator.com/item?id=37040205) - [True shape of lithium revealed for the first time](https://phys.org/news/2023-08-true-lithium-revealed.html)
 * [2023-08-07, 18:50:19](https://news.ycombinator.com/item?id=37038908) - [Open-source canvas drawing web app, built using React](https://github.com/diogocapela/flatdraw)
 * [2023-08-07, 18:24:31](https://news.ycombinator.com/item?id=37038494) - [Zoom's TOS Permit Training AI on User Content Without Opt-Out](https://stackdiary.com/zoom-terms-now-allow-training-ai-on-user-content-with-no-opt-out/)
@@ -23,7 +24,6 @@
 * [2023-08-07, 12:45:26](https://news.ycombinator.com/item?id=37033652) - [Ask HN: What's the coolest physical thing you've made?](https://news.ycombinator.com/item?id=37033652)
 * [2023-08-07, 12:18:41](https://news.ycombinator.com/item?id=37033403) - [Some tactics for writing in public](https://jvns.ca/blog/2023/08/07/tactics-for-writing-in-public/)
 * [2023-08-07, 08:07:33](https://news.ycombinator.com/item?id=37031673) - [Orb is a free and open source web desktop](https://gitlab.com/hsleisink/orb)
-* [2023-08-07, 05:39:06](https://news.ycombinator.com/item?id=37030568) - [GPTBot – OpenAI’s Web Crawler](https://platform.openai.com/docs/gptbot)
 * [2023-08-07, 04:32:41](https://news.ycombinator.com/item?id=37030163) - [32by32 – Macintosh History from the 1980s](https://32by32.com/)
 * [2023-08-06, 21:05:12](https://news.ycombinator.com/item?id=37026757) - [Compiler Development: Rust or OCaml?](https://hirrolot.github.io/posts/compiler-development-rust-or-ocaml.html)
 * [2023-08-06, 19:45:10](https://news.ycombinator.com/item?id=37025820) - [RISC-V Origins and Architecture, Part 1](https://thechipletter.substack.com/p/risc-v-part-1-origins-and-architecture)
