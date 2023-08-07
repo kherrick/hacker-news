@@ -16,6 +16,7 @@
 * [2023-08-06, 21:28:45](https://news.ycombinator.com/item?id=37027001) - [Timo Noko – The Professional Hobo](https://timonoko.github.io/)
 * [2023-08-06, 21:07:29](https://news.ycombinator.com/item?id=37026783) - [The Billionaire Who Controls Your Medical Records (2021)](https://www.forbes.com/sites/katiejennings/2021/04/08/billionaire-judy-faulkner-epic-systems/)
 * [2023-08-06, 21:07:20](https://news.ycombinator.com/item?id=37026780) - [Electron Band Structure in Germanium, My Ass (2007)](https://pages.cs.wisc.edu/~kovar/hall.html)
+* [2023-08-06, 21:05:12](https://news.ycombinator.com/item?id=37026757) - [Compiler Development: Rust or OCaml?](https://hirrolot.github.io/posts/compiler-development-rust-or-ocaml.html)
 * [2023-08-06, 20:52:05](https://news.ycombinator.com/item?id=37026592) - [Water – Oimo.io](https://oimo.io/works/water/)
 * [2023-08-06, 20:35:53](https://news.ycombinator.com/item?id=37026371) - [How to enjoy SF](http://zhayitong.com/2023/06/17/sf1.html)
 * [2023-08-06, 20:32:46](https://news.ycombinator.com/item?id=37026339) - [Food rations in communist Poland, early 1980s](https://rarehistoricalphotos.com/food-rationing-communist-poland/)
