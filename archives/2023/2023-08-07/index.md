@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
+* [2023-08-07, 14:08:04](https://news.ycombinator.com/item?id=37034654) - [A brief glimpse at recent events in Egypt](https://omarshehata.me/notebook/glimpse_into_recent_news_in_egypt)
 * [2023-08-07, 14:00:38](https://news.ycombinator.com/item?id=37034575) - [Show HN: Axilla – Open-source TypeScript framework for LLM apps](https://github.com/axilla-io/ax)
+* [2023-08-07, 13:57:28](https://news.ycombinator.com/item?id=37034539) - [Reference Model for Service Oriented Architecture (2006)](https://docs.oasis-open.org/soa-rm/v1.0/soa-rm.html)
 * [2023-08-07, 13:26:38](https://news.ycombinator.com/item?id=37034145) - [Not Using Zoom](https://the.webm.ink/not-using-zoom)
 * [2023-08-07, 13:21:17](https://news.ycombinator.com/item?id=37034084) - [In California, Car Buyers Are Choosing Electric over Gasoline in Record Numbers](https://blog.ucsusa.org/dave-reichmuth/in-california-car-buyers-are-choosing-electricity-over-gasoline-in-record-numbers/)
 * [2023-08-07, 13:17:47](https://news.ycombinator.com/item?id=37034042) - [A Zoom Call, Fake Names and an A.I. Presentation Gone Awry](https://www.nytimes.com/2023/08/07/technology/ai-start-ups-competition.html)
