@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-07, 22:34:06](https://news.ycombinator.com/item?id=37041868) - [Thoughts on Mark “diveintomark” Pilgrim's and _why's infosuicides (2011)](https://www.hanselman.com/blog/410-gone-thoughts-on-mark-diveintomark-pilgrims-and-whys-infosuicides)
-* [2023-08-07, 22:12:02](https://news.ycombinator.com/item?id=37041654) - [Scotland Admits Chopping Down 16M Trees to Make Way for Wind Energy Farms](https://slaynews.com/news/scotland-chopping-down-16-million-trees-make-way-green-wind-energy-farms/)
 * [2023-08-07, 21:45:32](https://news.ycombinator.com/item?id=37041394) - [Overworked and Underpaid, VFX Workers Vote to Unionize at Marvel](https://www.vulture.com/2023/08/vfx-workers-vote-to-unionize-at-marvel-for-the-first-time.html)
 * [2023-08-07, 21:28:23](https://news.ycombinator.com/item?id=37041213) - [Tesla, Inc. 8-k filing – CFO leaves Tesla](https://www.bamsec.com/filing/95017023038779)
 * [2023-08-07, 21:15:48](https://news.ycombinator.com/item?id=37041047) - [How to stop the “login with Google” pop up window?](https://support.google.com/accounts/thread/212592288/how-to-stop-the-login-with-google-pop-up-window?hl=en)
@@ -19,6 +18,7 @@
 * [2023-08-07, 17:19:30](https://news.ycombinator.com/item?id=37037520) - [Linux Guide for Power Users](https://xnacly.me/posts/2022/linux-for-powerusers/)
 * [2023-08-07, 16:59:00](https://news.ycombinator.com/item?id=37037196) - [How Zoom’s terms of service and practices apply to AI features](https://blog.zoom.us/zooms-term-service-ai/)
 * [2023-08-07, 16:38:17](https://news.ycombinator.com/item?id=37036851) - [Gnu/Hurd strikes back: How to use the legendary OS in a (somewhat) practical way](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
+* [2023-08-07, 15:03:02](https://news.ycombinator.com/item?id=37035448) - [How to generate tested software packages using LLMs, a sandbox and a while loop](https://github.com/modal-labs/devlooper)
 * [2023-08-07, 14:45:28](https://news.ycombinator.com/item?id=37035178) - [Snappy UIs with WebAssembly and Web Workers](https://mofi.loud.red/blog/wasm-and-workers)
 * [2023-08-07, 14:29:38](https://news.ycombinator.com/item?id=37034951) - [Show HN: Phind V2 – A GPT-4 agent that’s connected to the internet and your code](https://www.phind.com/hn)
 * [2023-08-07, 14:25:52](https://news.ycombinator.com/item?id=37034906) - [Sandy Bridge: Setting Intel’s modern foundation](https://chipsandcheese.com/2023/08/04/sandy-bridge-setting-intels-modern-foundation/)
