@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
+* [2023-08-07, 08:45:21](https://news.ycombinator.com/item?id=37031944) - [My Frugal Indie Dev Startup Stack](https://getwaitlist.com/blog/solo-dev-startup-stack)
+* [2023-08-07, 08:12:19](https://news.ycombinator.com/item?id=37031724) - [Ongoing compilation table of LK-99 reproduction claims](https://forums.spacebattles.com/threads/claims-of-room-temperature-and-ambient-pressure-superconductor.1106083/page-13)
 * [2023-08-07, 08:07:33](https://news.ycombinator.com/item?id=37031673) - [Orb is a free and open source web desktop](https://gitlab.com/hsleisink/orb)
 * [2023-08-07, 07:38:22](https://news.ycombinator.com/item?id=37031451) - [Nvidia's CUDA Monopoly](https://matt-rickard.com/nvidias-cuda-monopoly)
 * [2023-08-07, 07:17:04](https://news.ycombinator.com/item?id=37031286) - [EurKEY: The European Keyboard Layout – For Europeans, Coders and Translators](https://eurkey.steffen.bruentjen.eu/)

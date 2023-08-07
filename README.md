@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-07, 08:45:21](https://news.ycombinator.com/item?id=37031944) - [My Frugal Indie Dev Startup Stack](https://getwaitlist.com/blog/solo-dev-startup-stack)
+* [2023-08-07, 08:12:19](https://news.ycombinator.com/item?id=37031724) - [Ongoing compilation table of LK-99 reproduction claims](https://forums.spacebattles.com/threads/claims-of-room-temperature-and-ambient-pressure-superconductor.1106083/page-13)
 * [2023-08-07, 08:07:33](https://news.ycombinator.com/item?id=37031673) - [Orb is a free and open source web desktop](https://gitlab.com/hsleisink/orb)
 * [2023-08-07, 07:38:22](https://news.ycombinator.com/item?id=37031451) - [Nvidia's CUDA Monopoly](https://matt-rickard.com/nvidias-cuda-monopoly)
 * [2023-08-07, 05:39:06](https://news.ycombinator.com/item?id=37030568) - [GPTBot – OpenAI’s Web Crawler](https://platform.openai.com/docs/gptbot)
@@ -18,7 +20,6 @@
 * [2023-08-06, 19:47:13](https://news.ycombinator.com/item?id=37025841) - [Barco: Linux Containers from Scratch in C](https://github.com/lucavallin/barco)
 * [2023-08-06, 19:46:19](https://news.ycombinator.com/item?id=37025834) - [New privacy tools and policies to help you stay safe and in control online](https://blog.google/products/search/new-privacy-tools/)
 * [2023-08-06, 18:47:08](https://news.ycombinator.com/item?id=37025233) - [Meta blocking news links in Canada](https://www.michaelgeist.ca/2023/08/metablockslinks/)
-* [2023-08-06, 18:18:17](https://news.ycombinator.com/item?id=37024954) - [ALTEXXANET - 90s Internet Experience (2016)](http://altexxanet.org/)
 * [2023-08-06, 17:53:35](https://news.ycombinator.com/item?id=37024685) - [An unconventional LEGO Technic beam sandwich keyboard case](https://dotat.at/@/2023-08-06-ltbs.html)
 * [2023-08-06, 13:54:17](https://news.ycombinator.com/item?id=37021933) - [Critique of Lazy Sequences in Clojure](https://clojure-goes-fast.com/blog/clojures-deadly-sin/)
 * [2023-08-06, 12:33:24](https://news.ycombinator.com/item?id=37021264) - [Replace peer review with “peer replication” (2021)](https://blog.everydayscientist.com/replace-peer-review-with-peer-replication/)
@@ -28,7 +29,6 @@
 * [2023-08-05, 03:13:31](https://news.ycombinator.com/item?id=37008627) - [The process of making fake food [video]](https://www.youtube.com/watch?v=O9E77WZGCpQ)
 * [2023-08-04, 17:32:09](https://news.ycombinator.com/item?id=37003148) - [The Physics of Readability](https://loup-vaillant.fr/articles/physics-of-readability)
 * [2023-08-04, 16:53:33](https://news.ycombinator.com/item?id=37002568) - [16th century European artists shifted their focus from power to peasants [video]](https://aeon.co/videos/why-european-artists-shifted-their-focus-from-power-to-peasants-in-the-16th-century)
-* [2023-08-04, 10:40:32](https://news.ycombinator.com/item?id=36998027) - [The Great Libraries of Rome](https://aeon.co/essays/romes-libraries-were-shrines-to-knowledge-and-imperial-power)
 * [2023-08-04, 05:51:40](https://news.ycombinator.com/item?id=36995940) - [Elixir Livebook is a secret weapon for documentation](https://fly.io/blog/livebook-for-app-documentation/)
 
 ## [Archives](archives/index.md)
