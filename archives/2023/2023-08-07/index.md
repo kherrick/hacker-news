@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
 * [2023-08-07, 17:54:32](https://news.ycombinator.com/item?id=37038053) - [Show HN: ChainForge, a visual tool for prompt engineering and LLM evaluation](https://chainforge.ai/docs/)
+* [2023-08-07, 17:51:42](https://news.ycombinator.com/item?id=37038007) - [Car Bloat: “Huge Cars Are Terrible for Society”](https://kottke.org/23/08/car-bloat-huge-cars-are-terrible-for-society)
 * [2023-08-07, 17:19:30](https://news.ycombinator.com/item?id=37037520) - [Linux Guide for Power Users](https://xnacly.me/posts/2022/linux-for-powerusers/)
 * [2023-08-07, 17:18:43](https://news.ycombinator.com/item?id=37037507) - [Zoom: No-opt out on AI training with “Customer Content”](https://stackdiary.com/zoom-terms-now-allow-training-ai-on-user-content-with-no-opt-out/)
 * [2023-08-07, 17:01:02](https://news.ycombinator.com/item?id=37037224) - [OneSignal (YC S11) Is Hiring Senior Software Engineers](https://onesignal.com/careers#section-job)
