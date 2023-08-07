@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-06, 23:44:47](https://news.ycombinator.com/item?id=37028182) - [Ancient DNA reveals the living descendants of enslaved people through 23andMe](https://www.nature.com/articles/d41586-023-02478-9)
-* [2023-08-06, 23:27:47](https://news.ycombinator.com/item?id=37028043) - [We are pleased to announce that DreamBerd has been renamed to C](https://github.com/TodePond/C)
+* [2023-08-07, 00:46:59](https://news.ycombinator.com/item?id=37028595) - [If You Want a Car This Heavy, You Should Pay Through the Nose](https://slate.com/business/2023/01/electric-cars-hummer-ev-tax-fees-weight-joe-biden.html)
+* [2023-08-07, 00:03:11](https://news.ycombinator.com/item?id=37028310) - [Java’s Floating-Point Hurts Everyone Everywhere [pdf]](https://people.eecs.berkeley.edu/~wkahan/JAVAhurt.pdf)
+* [2023-08-06, 23:49:05](https://news.ycombinator.com/item?id=37028223) - [Ravenchord – A Radical Redesign of the Piano](https://whipsaw.com/2023/06/05/unveiling-ravenchord-a-radical-piano-redesign-from-dan-harden/)
 * [2023-08-06, 22:37:43](https://news.ycombinator.com/item?id=37027639) - [Show HN: Tarot Arcana—AI tarot card readings](https://apps.apple.com/us/app/tarot-arcana/id1539747669)
 * [2023-08-06, 22:25:02](https://news.ycombinator.com/item?id=37027545) - [The Optics Library](http://markelz.physics.buffalo.edu/node/411)
-* [2023-08-06, 21:55:34](https://news.ycombinator.com/item?id=37027278) - [Serial murders have dwindled, thanks to improved technology](https://www.nytimes.com/2023/08/06/nyregion/serial-killers-gilgo-beach-rex-heuermann.html)
 * [2023-08-06, 21:40:03](https://news.ycombinator.com/item?id=37027108) - [Every reported mistaken arrest using facial recognition, person has been Black](https://www.businessinsider.com/in-every-reported-false-arrests-based-on-facial-recognition-that-person-has-been-black-2023-8)
 * [2023-08-06, 21:28:45](https://news.ycombinator.com/item?id=37027001) - [Timo Noko – The Professional Hobo](https://timonoko.github.io/)
 * [2023-08-06, 21:07:20](https://news.ycombinator.com/item?id=37026780) - [Electron Band Structure in Germanium, My Ass (2007)](https://pages.cs.wisc.edu/~kovar/hall.html)
@@ -29,7 +29,7 @@
 * [2023-08-04, 19:34:48](https://news.ycombinator.com/item?id=37004793) - [Precision Medicine and Its Imprecise History (2020)](https://hdsr.mitpress.mit.edu/pub/y7r65r4k/release/4)
 * [2023-08-04, 17:32:09](https://news.ycombinator.com/item?id=37003148) - [The Physics of Readability](https://loup-vaillant.fr/articles/physics-of-readability)
 * [2023-08-04, 16:13:41](https://news.ycombinator.com/item?id=37001992) - [A frog levitating in a strong magnetic field (1997) [video]](https://www.youtube.com/watch?v=KlJsVqc0ywM)
-* [2023-08-04, 09:10:42](https://news.ycombinator.com/item?id=36997399) - [The Professor of Parody (1999)](https://newrepublic.com/article/150687/professor-parody)
+* [2023-08-04, 05:51:40](https://news.ycombinator.com/item?id=36995940) - [Elixir Livebook is a secret weapon for documentation](https://fly.io/blog/livebook-for-app-documentation/)
 
 ## [Archives](archives/index.md)
 

@@ -105,6 +105,7 @@
 * [2023-08-04, 06:15:48](https://news.ycombinator.com/item?id=36996084) - [New web framework for Python in development](https://github.com/AliRn76/panther)
 * [2023-08-04, 06:14:26](https://news.ycombinator.com/item?id=36996075) - [Scientists create novel approach to control energy waves in 4D](https://showme.missouri.edu/2023/scientists-create-novel-approach-to-control-energy-waves-in-4d/)
 * [2023-08-04, 05:53:09](https://news.ycombinator.com/item?id=36995944) - [PicoLisp Tutorials](https://picolisp-explored.com)
+* [2023-08-04, 05:51:40](https://news.ycombinator.com/item?id=36995940) - [Elixir Livebook is a secret weapon for documentation](https://fly.io/blog/livebook-for-app-documentation/)
 * [2023-08-04, 05:42:15](https://news.ycombinator.com/item?id=36995890) - [Elixir Macros](https://elixir-lang.org/getting-started/meta/macros.html)
 * [2023-08-04, 05:13:14](https://news.ycombinator.com/item?id=36995735) - [0.11.0 Release Notes](https://ziglang.org/download/0.11.0/release-notes.html)
 * [2023-08-04, 04:24:58](https://news.ycombinator.com/item?id=36995466) - [Earliest glass workshop north of the Alps discovered](https://phys.org/news/2023-07-earliest-glass-workshop-north-alps.html)
