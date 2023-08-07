@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-08-07, 15:51:51",
+      "https://news.ycombinator.com/item?id=37036120"
+    ],
+    [
+      "Why San Francisco Is a Homeless Mecca",
+      "https://www.wsj.com/articles/why-san-francisco-is-a-homeless-mecca-drug-prosecutions-treatment-344aac97"
+    ]
+  ],
+  [
+    [
+      "2023-08-07, 15:29:26",
+      "https://news.ycombinator.com/item?id=37035816"
+    ],
+    [
+      "Bordeaux should be a climate change red flag for the wine industry",
+      "https://www.softwine.ai/bordeaux-the-canary-in-the-cellar"
+    ]
+  ],
+  [
+    [
       "2023-08-07, 15:03:02",
       "https://news.ycombinator.com/item?id=37035448"
     ],
     [
       "How to generate tested software packages using LLMs, a sandbox and a while loop",
       "https://github.com/modal-labs/devlooper"
+    ]
+  ],
+  [
+    [
+      "2023-08-07, 14:48:18",
+      "https://news.ycombinator.com/item?id=37035221"
+    ],
+    [
+      "Simple Networking in Linux",
+      "https://insanity.industries/post/simple-networking/"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2023-08-07, 11:27:03",
-      "https://news.ycombinator.com/item?id=37033014"
-    ],
-    [
-      "Turning my Framework laptop into a tiny desktop",
-      "https://arstechnica.com/gadgets/2023/08/turning-my-framework-laptop-into-a-tiny-desktop-was-fun-now-it-needs-a-job/"
-    ]
-  ],
-  [
-    [
       "2023-08-07, 09:03:12",
       "https://news.ycombinator.com/item?id=37032061"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2023-08-07, 04:46:12",
-      "https://news.ycombinator.com/item?id=37030258"
-    ],
-    [
-      "Remembering the Slip: the Manhattan street that birthed a generation of artists",
-      "https://www.theguardian.com/books/2023/aug/01/the-slip-new-york-agnes-martin-ellsworth-kelly"
-    ]
-  ],
-  [
-    [
       "2023-08-07, 04:32:11",
       "https://news.ycombinator.com/item?id=37030159"
     ],
@@ -287,16 +297,6 @@
     [
       "The process of making fake food [video]",
       "https://www.youtube.com/watch?v=O9E77WZGCpQ"
-    ]
-  ],
-  [
-    [
-      "2023-08-04, 05:51:40",
-      "https://news.ycombinator.com/item?id=36995940"
-    ],
-    [
-      "Elixir Livebook is a secret weapon for documentation",
-      "https://fly.io/blog/livebook-for-app-documentation/"
     ]
   ]
 ]
