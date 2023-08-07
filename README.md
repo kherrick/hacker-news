@@ -11,6 +11,7 @@
 * [2023-08-07, 20:14:34](https://news.ycombinator.com/item?id=37040359) - [Show HN: Doculite – Use SQLite as a Document Database](https://www.npmjs.com/package/doculite)
 * [2023-08-07, 20:03:37](https://news.ycombinator.com/item?id=37040205) - [True shape of lithium revealed for the first time](https://phys.org/news/2023-08-true-lithium-revealed.html)
 * [2023-08-07, 18:50:19](https://news.ycombinator.com/item?id=37038908) - [Open-source canvas drawing web app, built using React](https://github.com/diogocapela/flatdraw)
+* [2023-08-07, 18:21:33](https://news.ycombinator.com/item?id=37038457) - [A beginner's guide to Git version control](https://developers.redhat.com/articles/2023/08/02/beginners-guide-git-version-control)
 * [2023-08-07, 18:19:10](https://news.ycombinator.com/item?id=37038425) - [The combined power of F# and C#](https://steven-giesel.com/blogPost/2f70d926-ec92-4dfe-b278-18f78078253d)
 * [2023-08-07, 18:09:50](https://news.ycombinator.com/item?id=37038278) - [Aeroflot deactivates brakes on nine aircraft, relies solely on reverse thrust](https://aeroxplorer.com/articles/aeroflot-deactivates-brakes-on-nine-aircraft-relies-solely-on-reverse-thrust.php)
 * [2023-08-07, 17:54:32](https://news.ycombinator.com/item?id=37038053) - [Show HN: ChainForge, a visual tool for prompt engineering and LLM evaluation](https://chainforge.ai/docs/)
@@ -27,9 +28,8 @@
 * [2023-08-07, 04:32:41](https://news.ycombinator.com/item?id=37030163) - [32by32 – Macintosh History from the 1980s](https://32by32.com/)
 * [2023-08-06, 21:05:12](https://news.ycombinator.com/item?id=37026757) - [Compiler Development: Rust or OCaml?](https://hirrolot.github.io/posts/compiler-development-rust-or-ocaml.html)
 * [2023-08-06, 07:57:48](https://news.ycombinator.com/item?id=37019862) - [The year of Linux On Desktop^WMobile [video]](https://media.ccc.de/v/froscon2023-2950-the_year_of_linux_on_desktop_wmobile)
-* [2023-08-06, 07:34:01](https://news.ycombinator.com/item?id=37019757) - [Mach-O Binaries (2015)](http://www.m4b.io/reverse/engineering/mach/binaries/2015/03/29/mach-binaries.html)
-* [2023-08-05, 20:24:38](https://news.ycombinator.com/item?id=37015973) - [An arrowhead made of meteoritic iron from the late Bronze Age](https://www.sciencedirect.com/science/article/pii/S0305440323001073)
 * [2023-08-05, 12:16:17](https://news.ycombinator.com/item?id=37011271) - [How does a mobile GPU work? [pdf]](https://armkeil.blob.core.windows.net/developer/Files/pdf/graphics-and-multimedia/how-does-a-mobile-gpu-work.pdf)
+* [2023-08-05, 09:57:23](https://news.ycombinator.com/item?id=37010547) - [Show HN: Matrix. A Sci-Fi Comic](https://github.com/baradhiren/story/tree/%E0%A4%A6%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE/Matrix)
 
 ## [Archives](archives/index.md)
 
