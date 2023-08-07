@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-07, 12:45:26](https://news.ycombinator.com/item?id=37033652) - [Ask HN: What's the coolest physical thing you've made?](https://news.ycombinator.com/item?id=37033652)
 * [2023-08-07, 12:26:36](https://news.ycombinator.com/item?id=37033475) - [PSA: Intel Graphics Drivers Now Collect Telemetry by Default](https://www.techpowerup.com/312122/psa-intel-graphics-drivers-now-collect-telemetry-by-default)
 * [2023-08-07, 11:27:03](https://news.ycombinator.com/item?id=37033014) - [Turning my Framework laptop into a tiny desktop](https://arstechnica.com/gadgets/2023/08/turning-my-framework-laptop-into-a-tiny-desktop-was-fun-now-it-needs-a-job/)
-* [2023-08-07, 11:09:23](https://news.ycombinator.com/item?id=37032885) - [Tell HN: '' in Vim moves cursor to recent line](https://news.ycombinator.com/item?id=37032885)
 * [2023-08-07, 10:05:28](https://news.ycombinator.com/item?id=37032449) - [What's causing Australia's frozen chip shortage and how long will it last?](https://www.sbs.com.au/news/article/whats-causing-australias-frozen-chip-shortage-and-how-long-will-it-last/ljhcvjctq)
 * [2023-08-07, 08:45:21](https://news.ycombinator.com/item?id=37031944) - [My frugal indie dev startup stack (2022)](https://getwaitlist.com/blog/solo-dev-startup-stack)
 * [2023-08-07, 08:12:19](https://news.ycombinator.com/item?id=37031724) - [Compilation of claims/reports of LK-99 replication efforts](https://forums.spacebattles.com/threads/claims-of-room-temperature-and-ambient-pressure-superconductor.1106083/page-13)
