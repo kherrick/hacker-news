@@ -3,6 +3,7 @@
 * [2023-08-07, 22:34:06](https://news.ycombinator.com/item?id=37041868) - [Thoughts on Mark “diveintomark” Pilgrim's and _why's infosuicides (2011)](https://www.hanselman.com/blog/410-gone-thoughts-on-mark-diveintomark-pilgrims-and-whys-infosuicides)
 * [2023-08-07, 21:45:32](https://news.ycombinator.com/item?id=37041394) - [Overworked and Underpaid, VFX Workers Vote to Unionize at Marvel](https://www.vulture.com/2023/08/vfx-workers-vote-to-unionize-at-marvel-for-the-first-time.html)
 * [2023-08-07, 21:28:23](https://news.ycombinator.com/item?id=37041213) - [Tesla, Inc. 8-k filing – CFO leaves Tesla](https://www.bamsec.com/filing/95017023038779)
+* [2023-08-07, 21:15:48](https://news.ycombinator.com/item?id=37041047) - [How to stop the “login with Google” pop up window?](https://support.google.com/accounts/thread/212592288/how-to-stop-the-login-with-google-pop-up-window?hl=en)
 * [2023-08-07, 21:01:07](https://news.ycombinator.com/item?id=37040898) - [Emerge Tools (YC W21) is hiring an engineer to lead front end development](https://www.ycombinator.com/companies/emerge-tools/jobs/zDcS7ia-senior-software-engineer-frontend-lead)
 * [2023-08-07, 20:48:35](https://news.ycombinator.com/item?id=37040747) - [CISA Releases Its Cybersecurity Strategic Plan](https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan)
 * [2023-08-07, 20:42:48](https://news.ycombinator.com/item?id=37040681) - [Raku: A language for gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/)
@@ -27,7 +28,6 @@
 * [2023-08-07, 04:32:41](https://news.ycombinator.com/item?id=37030163) - [32by32 – Macintosh History from the 1980s](https://32by32.com/)
 * [2023-08-06, 21:05:12](https://news.ycombinator.com/item?id=37026757) - [Compiler Development: Rust or OCaml?](https://hirrolot.github.io/posts/compiler-development-rust-or-ocaml.html)
 * [2023-08-06, 07:57:48](https://news.ycombinator.com/item?id=37019862) - [The year of Linux On Desktop^WMobile [video]](https://media.ccc.de/v/froscon2023-2950-the_year_of_linux_on_desktop_wmobile)
-* [2023-08-06, 07:34:01](https://news.ycombinator.com/item?id=37019757) - [Mach-O Binaries (2015)](http://www.m4b.io/reverse/engineering/mach/binaries/2015/03/29/mach-binaries.html)
 * [2023-08-05, 20:24:38](https://news.ycombinator.com/item?id=37015973) - [An arrowhead made of meteoritic iron from the late Bronze Age](https://www.sciencedirect.com/science/article/pii/S0305440323001073)
 * [2023-08-05, 12:16:17](https://news.ycombinator.com/item?id=37011271) - [How does a mobile GPU work? [pdf]](https://armkeil.blob.core.windows.net/developer/Files/pdf/graphics-and-multimedia/how-does-a-mobile-gpu-work.pdf)
 
