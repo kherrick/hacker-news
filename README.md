@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-07, 17:19:30](https://news.ycombinator.com/item?id=37037520) - [Linux Guide for Power Users](https://xnacly.me/posts/2022/linux-for-powerusers/)
-* [2023-08-07, 17:18:43](https://news.ycombinator.com/item?id=37037507) - [Zoom: No-opt out on AI training with “Customer Content”](https://stackdiary.com/zoom-terms-now-allow-training-ai-on-user-content-with-no-opt-out/)
 * [2023-08-07, 17:01:02](https://news.ycombinator.com/item?id=37037224) - [OneSignal (YC S11) Is Hiring Senior Software Engineers](https://onesignal.com/careers#section-job)
 * [2023-08-07, 16:42:00](https://news.ycombinator.com/item?id=37036913) - [Comlink Makes WebWorkers Enjoyable](https://www.npmjs.com/package/comlink)
 * [2023-08-07, 16:38:17](https://news.ycombinator.com/item?id=37036851) - [GNU/Hurd strikes back: How to use the legendary OS in a (somewhat) practical way](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
@@ -25,6 +24,7 @@
 * [2023-08-07, 12:26:36](https://news.ycombinator.com/item?id=37033475) - [PSA: Intel Graphics Drivers Now Collect Telemetry by Default](https://www.techpowerup.com/312122/psa-intel-graphics-drivers-now-collect-telemetry-by-default)
 * [2023-08-07, 12:18:41](https://news.ycombinator.com/item?id=37033403) - [Some tactics for writing in public](https://jvns.ca/blog/2023/08/07/tactics-for-writing-in-public/)
 * [2023-08-07, 09:03:12](https://news.ycombinator.com/item?id=37032061) - [AMB: The Ancient Machine Book Format](https://amb.osdn.io/)
+* [2023-08-07, 08:45:21](https://news.ycombinator.com/item?id=37031944) - [My frugal indie dev startup stack (2022)](https://getwaitlist.com/blog/solo-dev-startup-stack)
 * [2023-08-07, 08:07:33](https://news.ycombinator.com/item?id=37031673) - [Orb is a free and open source web desktop](https://gitlab.com/hsleisink/orb)
 * [2023-08-07, 05:39:06](https://news.ycombinator.com/item?id=37030568) - [GPTBot – OpenAI’s Web Crawler](https://platform.openai.com/docs/gptbot)
 * [2023-08-06, 19:45:10](https://news.ycombinator.com/item?id=37025820) - [RISC-V Origins and Architecture, Part 1](https://thechipletter.substack.com/p/risc-v-part-1-origins-and-architecture)
