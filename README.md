@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-07, 16:38:17](https://news.ycombinator.com/item?id=37036851) - [GNU/Hurd strikes back: How to use the legendary OS in a (somewhat) practical way](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
+* [2023-08-07, 16:09:12](https://news.ycombinator.com/item?id=37036339) - [Displays of traffic crash numbers increase traffic crashes](https://www.science.org/doi/full/10.1126/science.abm3427)
 * [2023-08-07, 16:06:15](https://news.ycombinator.com/item?id=37036291) - [Kafka Is Dead, Long Live Kafka](https://www.warpstream.com/blog/kafka-is-dead-long-live-kafka)
 * [2023-08-07, 16:05:24](https://news.ycombinator.com/item?id=37036277) - [Police Raid Worldcoin Warehouse in Nairobi](https://www.capitalfm.co.ke/news/2023/08/police-raid-worldcoin-cryptocurrency-warehouse-in-nairobi/)
 * [2023-08-07, 15:03:02](https://news.ycombinator.com/item?id=37035448) - [How to generate tested software packages using LLMs, a sandbox and a while loop](https://github.com/modal-labs/devlooper)
@@ -25,11 +27,9 @@
 * [2023-08-07, 05:39:06](https://news.ycombinator.com/item?id=37030568) - [GPTBot – OpenAI’s Web Crawler](https://platform.openai.com/docs/gptbot)
 * [2023-08-07, 05:00:26](https://news.ycombinator.com/item?id=37030346) - [Isn’t London Hell?](https://www.lrb.co.uk/the-paper/v45/n16/seamus-perry/isn-t-london-hell)
 * [2023-08-07, 04:32:11](https://news.ycombinator.com/item?id=37030159) - [Sedmario: NES Super Mario Bros level 1 written in pure sed (2015)](https://github.com/chebykinn/sedmario)
-* [2023-08-07, 04:16:28](https://news.ycombinator.com/item?id=37030044) - [Google Maps has become an eyesore](https://www.fastcompany.com/90930810/google-maps-eyesore-5-examples-apple-maps)
 * [2023-08-05, 20:24:38](https://news.ycombinator.com/item?id=37015973) - [An arrowhead made of meteoritic iron from the late Bronze Age](https://www.sciencedirect.com/science/article/pii/S0305440323001073)
 * [2023-08-05, 13:47:59](https://news.ycombinator.com/item?id=37011977) - [NASA helps spot wine grape disease from skies above California](https://www.jpl.nasa.gov/news/nasa-helps-spot-wine-grape-disease-from-skies-above-california)
 * [2023-08-05, 12:16:17](https://news.ycombinator.com/item?id=37011271) - [How does a mobile GPU work? [pdf]](https://armkeil.blob.core.windows.net/developer/Files/pdf/graphics-and-multimedia/how-does-a-mobile-gpu-work.pdf)
-* [2023-08-05, 03:13:31](https://news.ycombinator.com/item?id=37008627) - [The process of making fake food [video]](https://www.youtube.com/watch?v=O9E77WZGCpQ)
 
 ## [Archives](archives/index.md)
 
