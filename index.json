@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=37040681"
     ],
     [
-      "Raku: A Language for Gremlins",
+      "Raku: A language for gremlins",
       "https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/"
     ]
   ],
@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2023-08-07, 18:24:31",
-      "https://news.ycombinator.com/item?id=37038494"
-    ],
-    [
-      "Zoom's TOS Permit Training AI on User Content Without Opt-Out",
-      "https://stackdiary.com/zoom-terms-now-allow-training-ai-on-user-content-with-no-opt-out/"
-    ]
-  ],
-  [
-    [
       "2023-08-07, 18:21:33",
       "https://news.ycombinator.com/item?id=37038457"
     ],
@@ -137,6 +127,16 @@
     [
       "The combined power of F# and C#",
       "https://steven-giesel.com/blogPost/2f70d926-ec92-4dfe-b278-18f78078253d"
+    ]
+  ],
+  [
+    [
+      "2023-08-07, 18:09:50",
+      "https://news.ycombinator.com/item?id=37038278"
+    ],
+    [
+      "Aeroflot deactivates brakes on nine aircraft, relies solely on reverse thrust",
+      "https://aeroxplorer.com/articles/aeroflot-deactivates-brakes-on-nine-aircraft-relies-solely-on-reverse-thrust.php"
     ]
   ],
   [
@@ -181,22 +181,12 @@
   ],
   [
     [
-      "2023-08-07, 15:03:02",
-      "https://news.ycombinator.com/item?id=37035448"
+      "2023-08-07, 16:06:15",
+      "https://news.ycombinator.com/item?id=37036291"
     ],
     [
-      "How to generate tested software packages using LLMs, a sandbox and a while loop",
-      "https://github.com/modal-labs/devlooper"
-    ]
-  ],
-  [
-    [
-      "2023-08-07, 14:45:28",
-      "https://news.ycombinator.com/item?id=37035178"
-    ],
-    [
-      "Snappy UIs with WebAssembly and Web Workers",
-      "https://mofi.loud.red/blog/wasm-and-workers"
+      "Kafka is dead, long live Kafka",
+      "https://www.warpstream.com/blog/kafka-is-dead-long-live-kafka"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Sandy Bridge: Setting Intel’s modern foundation",
       "https://chipsandcheese.com/2023/08/04/sandy-bridge-setting-intels-modern-foundation/"
+    ]
+  ],
+  [
+    [
+      "2023-08-07, 14:00:38",
+      "https://news.ycombinator.com/item?id=37034575"
+    ],
+    [
+      "Show HN: Axilla – Open-source TypeScript framework for LLM apps",
+      "https://github.com/axilla-io/ax"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2023-08-06, 07:57:48",
+      "https://news.ycombinator.com/item?id=37019862"
+    ],
+    [
+      "The year of Linux On Desktop^WMobile [video]",
+      "https://media.ccc.de/v/froscon2023-2950-the_year_of_linux_on_desktop_wmobile"
+    ]
+  ],
+  [
+    [
       "2023-08-06, 07:34:01",
       "https://news.ycombinator.com/item?id=37019757"
     ],
     [
       "Mach-O Binaries (2015)",
       "http://www.m4b.io/reverse/engineering/mach/binaries/2015/03/29/mach-binaries.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-05, 20:24:38",
-      "https://news.ycombinator.com/item?id=37015973"
-    ],
-    [
-      "An arrowhead made of meteoritic iron from the late Bronze Age",
-      "https://www.sciencedirect.com/science/article/pii/S0305440323001073"
     ]
   ],
   [
