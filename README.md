@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-07, 14:45:28](https://news.ycombinator.com/item?id=37035178) - [Snappy UIs with WebAssembly and Web Workers](https://mofi.loud.red/blog/wasm-and-workers)
 * [2023-08-07, 14:33:02](https://news.ycombinator.com/item?id=37034994) - [Fantastic Learning Resources](https://matklad.github.io/2023/08/06/fantastic-learning-resources.html)
 * [2023-08-07, 14:26:06](https://news.ycombinator.com/item?id=37034912) - [Request: Re-open JPEG XL issue](https://bugs.chromium.org/p/chromium/issues/detail?id=1451807)
 * [2023-08-07, 14:25:52](https://news.ycombinator.com/item?id=37034906) - [Sandy Bridge: Setting Intel’s Modern Foundation](https://chipsandcheese.com/2023/08/04/sandy-bridge-setting-intels-modern-foundation/)
@@ -8,7 +9,7 @@
 * [2023-08-07, 13:43:25](https://news.ycombinator.com/item?id=37034350) - [MIT Press: Open Access Materials](https://archive.org/details/mit_press_open_access?tab=collection)
 * [2023-08-07, 13:26:38](https://news.ycombinator.com/item?id=37034145) - [Not Using Zoom](https://the.webm.ink/not-using-zoom)
 * [2023-08-07, 13:16:15](https://news.ycombinator.com/item?id=37034021) - [Self-modifying code using GCC (2011)](https://nikmav.blogspot.com/2011/12/self-modifying-code-using-gcc.html)
-* [2023-08-07, 13:07:13](https://news.ycombinator.com/item?id=37033899) - [The $1M shot that changed sports contests forever](https://www.espn.com/nba/story/_/id/36146138/million-dollar-shot-michael-jordan-chicago-bulls-1993)
+* [2023-08-07, 13:07:13](https://news.ycombinator.com/item?id=37033899) - [The $1M shot that changed sports contests](https://www.espn.com/nba/story/_/id/36146138/million-dollar-shot-michael-jordan-chicago-bulls-1993)
 * [2023-08-07, 12:54:18](https://news.ycombinator.com/item?id=37033753) - [Launch HN: GitStart (YC S19) – Remote junior devs working on production PRs](https://news.ycombinator.com/item?id=37033753)
 * [2023-08-07, 12:49:49](https://news.ycombinator.com/item?id=37033702) - [The Santa Fe Time Series Prediction and Analysis Competition](https://www.santafe.edu/research/results/working-papers/the-future-of-time-series)
 * [2023-08-07, 12:26:36](https://news.ycombinator.com/item?id=37033475) - [PSA: Intel Graphics Drivers Now Collect Telemetry by Default](https://www.techpowerup.com/312122/psa-intel-graphics-drivers-now-collect-telemetry-by-default)
@@ -18,7 +19,6 @@
 * [2023-08-07, 08:45:21](https://news.ycombinator.com/item?id=37031944) - [My frugal indie dev startup stack (2022)](https://getwaitlist.com/blog/solo-dev-startup-stack)
 * [2023-08-07, 08:12:19](https://news.ycombinator.com/item?id=37031724) - [Compilation of claims/reports of LK-99 replication efforts](https://forums.spacebattles.com/threads/claims-of-room-temperature-and-ambient-pressure-superconductor.1106083/page-13)
 * [2023-08-07, 08:07:33](https://news.ycombinator.com/item?id=37031673) - [Orb is a free and open source web desktop](https://gitlab.com/hsleisink/orb)
-* [2023-08-07, 05:39:06](https://news.ycombinator.com/item?id=37030568) - [GPTBot – OpenAI’s Web Crawler](https://platform.openai.com/docs/gptbot)
 * [2023-08-07, 04:46:12](https://news.ycombinator.com/item?id=37030258) - [Remembering the Slip: the Manhattan street that birthed a generation of artists](https://www.theguardian.com/books/2023/aug/01/the-slip-new-york-agnes-martin-ellsworth-kelly)
 * [2023-08-07, 04:41:51](https://news.ycombinator.com/item?id=37030230) - [Ahead of Time: On Poetry and Mourning](https://yalereview.org/article/kamran-javadizadeh-ahead-time)
 * [2023-08-07, 04:32:11](https://news.ycombinator.com/item?id=37030159) - [Sedmario: NES Super Mario Bros level 1 written in pure sed (2015)](https://github.com/chebykinn/sedmario)
