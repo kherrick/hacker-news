@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-08, 16:07:11](https://news.ycombinator.com/item?id=37051206) - [Inception: Leaking the root hash from /etc./shadow on AMD Zen 4 [video]](https://www.youtube.com/watch?v=2wCjU8iJ9G4)
-* [2023-08-08, 15:39:31](https://news.ycombinator.com/item?id=37050654) - [Abilene Paradox](https://en.wikipedia.org/wiki/Abilene_paradox)
+* [2023-08-08, 15:53:51](https://news.ycombinator.com/item?id=37050960) - [Do you avoid the news? You’re in growing company](https://www.washingtonpost.com/media/2023/08/01/news-avoid-depressing/)
 * [2023-08-08, 15:32:13](https://news.ycombinator.com/item?id=37050532) - [Show HN: Chat with your data using LangChain, Pinecone, and Airbyte](https://airbyte.com/tutorials/chat-with-your-data-using-openai-pinecone-airbyte-and-langchain)
 * [2023-08-08, 15:28:37](https://news.ycombinator.com/item?id=37050466) - [Go 1.21 Released](https://go.dev/doc/go1.21)
+* [2023-08-08, 15:15:31](https://news.ycombinator.com/item?id=37050257) - [GPT-4 can't reason](https://www.preprints.org/manuscript/202308.0148/v1)
 * [2023-08-08, 15:11:47](https://news.ycombinator.com/item?id=37050191) - [Svelte 5 is going to be radical](https://twitter.com/Rich_Harris/status/1688581184018583558)
 * [2023-08-08, 15:06:21](https://news.ycombinator.com/item?id=37050089) - [Homo sapiens declared extinct (1999)](https://bruces.medium.com/homo-sapiens-declared-extinct-by-bruce-sterling-1999-cc8b0f94b195)
 * [2023-08-08, 15:03:16](https://news.ycombinator.com/item?id=37050035) - [Your computer should say what you tell it to say](https://www.eff.org/deeplinks/2023/08/your-computer-should-say-what-you-tell-it-say-1)
@@ -29,7 +30,6 @@
 * [2023-08-07, 09:41:46](https://news.ycombinator.com/item?id=37032286) - [The Alexander Piano](https://www.alexanderpiano.nz/page/the-alexander-piano)
 * [2023-08-06, 23:08:54](https://news.ycombinator.com/item?id=37027909) - [Building Alex Taradov’s open-source USB sniffer](https://www.downtowndougbrown.com/2023/08/building-alex-taradovs-open-source-usb-sniffer/)
 * [2023-08-06, 06:05:14](https://news.ycombinator.com/item?id=37019396) - [Sheldon Brown's Bicycle Technical Info](https://www.sheldonbrown.com/)
-* [2023-08-05, 12:18:16](https://news.ycombinator.com/item?id=37011282) - [Jim Keller and his pioneering work on chip design and architecture](https://www.edn.com/the-story-of-jim-keller-and-his-pioneering-work-on-chip-design-and-architecture/)
 
 ## [Archives](archives/index.md)
 

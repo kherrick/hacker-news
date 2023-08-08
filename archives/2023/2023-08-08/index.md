@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
 * [2023-08-08, 16:07:11](https://news.ycombinator.com/item?id=37051206) - [Inception: Leaking the root hash from /etc./shadow on AMD Zen 4 [video]](https://www.youtube.com/watch?v=2wCjU8iJ9G4)
+* [2023-08-08, 15:53:51](https://news.ycombinator.com/item?id=37050960) - [Do you avoid the news? You’re in growing company](https://www.washingtonpost.com/media/2023/08/01/news-avoid-depressing/)
 * [2023-08-08, 15:39:31](https://news.ycombinator.com/item?id=37050654) - [Abilene Paradox](https://en.wikipedia.org/wiki/Abilene_paradox)
 * [2023-08-08, 15:32:13](https://news.ycombinator.com/item?id=37050532) - [Show HN: Chat with your data using LangChain, Pinecone, and Airbyte](https://airbyte.com/tutorials/chat-with-your-data-using-openai-pinecone-airbyte-and-langchain)
 * [2023-08-08, 15:28:37](https://news.ycombinator.com/item?id=37050466) - [Go 1.21 Released](https://go.dev/doc/go1.21)
