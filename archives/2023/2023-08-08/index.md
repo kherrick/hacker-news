@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
+* [2023-08-08, 21:00:54](https://news.ycombinator.com/item?id=37055391) - [Aviator (YC S21) is hiring engineers to build dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)
+* [2023-08-08, 20:51:20](https://news.ycombinator.com/item?id=37055280) - [The Last 1%](https://jaredramsey.com/blog/20230808.html)
 * [2023-08-08, 20:14:01](https://news.ycombinator.com/item?id=37054862) - [Milk Sad: Weak Entropy in libbitcoin (bc) seed generation](https://milksad.info/)
 * [2023-08-08, 19:59:58](https://news.ycombinator.com/item?id=37054670) - [mCaptcha: Open-source proof-of-work captcha for websites](https://mcaptcha.org/)
 * [2023-08-08, 19:53:49](https://news.ycombinator.com/item?id=37054603) - [See where your house was 66M years ago](https://dinosaurpictures.org/ancient-earth#66)
 * [2023-08-08, 19:47:40](https://news.ycombinator.com/item?id=37054533) - [The Microcontroller That Just Won’t Die](https://www.eejournal.com/article/the-microcontroller-that-just-wont-die/)
 * [2023-08-08, 19:36:36](https://news.ycombinator.com/item?id=37054374) - [Show HN: Easyful – A Free Gumroad Alternative](https://www.easyful.com/)
 * [2023-08-08, 19:35:48](https://news.ycombinator.com/item?id=37054361) - [Low-cost Smartwatch powered by ESP32 module](https://linuxgizmos.com/low-cost-smartwatch-powered-by-esp32-s3-module/)
+* [2023-08-08, 19:34:52](https://news.ycombinator.com/item?id=37054349) - [Simon's Proto-Germanic Reconstructed Pronunciation Guide [video]](https://www.youtube.com/watch?v=6xnglmDFpkc)
 * [2023-08-08, 19:27:19](https://news.ycombinator.com/item?id=37054241) - [What happened in this GPT-3 conversation?](https://chat.openai.com/share/f5341665-7f08-4fca-9639-04201363506e)
 * [2023-08-08, 18:48:40](https://news.ycombinator.com/item?id=37053694) - [Us Electric grid history and overview](https://blog.chaselambda.com/2023/03/25/us-electric-grid-history-and-overview.html)
 * [2023-08-08, 18:41:32](https://news.ycombinator.com/item?id=37053601) - [ChatGPT now seems to be embedding ads in its responses](https://jacobw.xyz/projects/gpt_ads/)
