@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-08, 05:21:29](https://news.ycombinator.com/item?id=37044820) - [Monitoring your logs is mostly a tarpit](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LogMonitoringTarpit)
 * [2023-08-08, 04:49:15](https://news.ycombinator.com/item?id=37044625) - [Run Firefox on ChromeOS](https://support.mozilla.org/en-US/kb/run-firefox-chromeos)
 * [2023-08-08, 03:27:02](https://news.ycombinator.com/item?id=37044168) - [Lacros on Chromebooks transition plan won’t be quick](https://www.aboutchromebooks.com/news/lacros-on-chromebooks-transition-plan-wont-be-quick/)
 * [2023-08-08, 02:59:24](https://news.ycombinator.com/item?id=37043973) - [Ubiquitous Superconducting Diode Effect in Superconductor Thin Films](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.027001)
@@ -20,8 +21,6 @@
 * [2023-08-07, 17:19:30](https://news.ycombinator.com/item?id=37037520) - [Linux guide for power users (2022)](https://xnacly.me/posts/2022/linux-for-powerusers/)
 * [2023-08-07, 16:59:00](https://news.ycombinator.com/item?id=37037196) - [How Zoom’s terms of service and practices apply to AI features](https://blog.zoom.us/zooms-term-service-ai/)
 * [2023-08-07, 16:38:17](https://news.ycombinator.com/item?id=37036851) - [Gnu/Hurd strikes back: How to use the legendary OS in a (somewhat) practical way](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
-* [2023-08-07, 16:09:12](https://news.ycombinator.com/item?id=37036339) - [Traffic safety “nudges” can cause number of crashes to increase (2022)](https://www.science.org/doi/full/10.1126/science.abm3427)
-* [2023-08-07, 16:06:15](https://news.ycombinator.com/item?id=37036291) - [Kafka is dead, long live Kafka](https://www.warpstream.com/blog/kafka-is-dead-long-live-kafka)
 * [2023-08-07, 12:54:18](https://news.ycombinator.com/item?id=37033753) - [Launch HN: GitStart (YC S19) – Remote junior devs working on production PRs](https://news.ycombinator.com/item?id=37033753)
 * [2023-08-07, 09:41:46](https://news.ycombinator.com/item?id=37032286) - [The Alexander Piano](https://www.alexanderpiano.nz/page/the-alexander-piano)
 * [2023-08-07, 06:07:32](https://news.ycombinator.com/item?id=37030743) - [The Importance of Being a Code Reviewer](https://medium.com/expedia-group-tech/the-importance-of-being-a-code-reviewer-fdbd910fbce7)
@@ -30,6 +29,7 @@
 * [2023-08-06, 07:57:48](https://news.ycombinator.com/item?id=37019862) - [The year of Linux On Desktop^WMobile [video]](https://media.ccc.de/v/froscon2023-2950-the_year_of_linux_on_desktop_wmobile)
 * [2023-08-06, 06:05:14](https://news.ycombinator.com/item?id=37019396) - [Sheldon Brown's Bicycle Technical Info](https://www.sheldonbrown.com/)
 * [2023-08-05, 12:18:16](https://news.ycombinator.com/item?id=37011282) - [Jim Keller and his pioneering work on chip design and architecture](https://www.edn.com/the-story-of-jim-keller-and-his-pioneering-work-on-chip-design-and-architecture/)
+* [2023-08-05, 09:42:32](https://news.ycombinator.com/item?id=37010471) - [The Real Question Behind 'What Do You Want?'](https://lopespm.com/notes/2023/08/05/real_question_behind_what_you_want.html)
 
 ## [Archives](archives/index.md)
 
