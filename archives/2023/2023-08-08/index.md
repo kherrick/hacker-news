@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
+* [2023-08-08, 17:35:03](https://news.ycombinator.com/item?id=37052694) - [Project IDX, an Experiment to Improve Full-Stack, Multiplatform App Development](https://developers.googleblog.com/2023/08/introducing-project-idx-experiment-to-improve-full-stack-multiplatform-app-development.html)
 * [2023-08-08, 17:27:38](https://news.ycombinator.com/item?id=37052586) - [Downfall Attacks](https://downfall.page/)
+* [2023-08-08, 17:05:18](https://news.ycombinator.com/item?id=37052218) - [Why not tax private jets out of business?](https://www.pressherald.com/2023/08/08/commentary-why-not-tax-private-jets-out-of-business/)
 * [2023-08-08, 17:00:51](https://news.ycombinator.com/item?id=37052137) - [SnapEDA (YC S15) is hiring AI lead for electronics copilot in Bay Area](https://careers.snapeda.com/o/engineering-lead-ai)
 * [2023-08-08, 16:07:11](https://news.ycombinator.com/item?id=37051206) - [Inception: Leaking the root hash from /etc./shadow on AMD Zen 4 [video]](https://www.youtube.com/watch?v=2wCjU8iJ9G4)
 * [2023-08-08, 16:02:06](https://news.ycombinator.com/item?id=37051111) - [Go 1.21 Is Released](https://go.dev/blog/go1.21)
@@ -12,6 +14,7 @@
 * [2023-08-08, 15:39:31](https://news.ycombinator.com/item?id=37050654) - [Abilene Paradox](https://en.wikipedia.org/wiki/Abilene_paradox)
 * [2023-08-08, 15:32:13](https://news.ycombinator.com/item?id=37050532) - [Show HN: Chat with your data using LangChain, Pinecone, and Airbyte](https://airbyte.com/tutorials/chat-with-your-data-using-openai-pinecone-airbyte-and-langchain)
 * [2023-08-08, 15:28:37](https://news.ycombinator.com/item?id=37050466) - [Go 1.21 Released](https://go.dev/doc/go1.21)
+* [2023-08-08, 15:25:55](https://news.ycombinator.com/item?id=37050409) - [StableCode](https://stability.ai/blog/stablecode-llm-generative-ai-coding)
 * [2023-08-08, 15:23:13](https://news.ycombinator.com/item?id=37050368) - [Dark microbiome in Atacama fossil delta unveils Mars life detection limits](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9944251/)
 * [2023-08-08, 15:15:31](https://news.ycombinator.com/item?id=37050257) - [GPT-4 Can't Reason](https://www.preprints.org/manuscript/202308.0148/v1)
 * [2023-08-08, 15:11:47](https://news.ycombinator.com/item?id=37050191) - [Svelte 5 is going to be radical](https://twitter.com/Rich_Harris/status/1688581184018583558)
