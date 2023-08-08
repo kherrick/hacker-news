@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-08-08, 19:53:49",
+      "https://news.ycombinator.com/item?id=37054603"
+    ],
+    [
+      "See where your house was 66M years ago",
+      "https://dinosaurpictures.org/ancient-earth#66"
+    ]
+  ],
+  [
+    [
+      "2023-08-08, 19:47:40",
+      "https://news.ycombinator.com/item?id=37054533"
+    ],
+    [
+      "The Microcontroller That Just Won’t Die",
+      "https://www.eejournal.com/article/the-microcontroller-that-just-wont-die/"
+    ]
+  ],
+  [
+    [
       "2023-08-08, 19:36:36",
       "https://news.ycombinator.com/item?id=37054374"
     ],
     [
       "Show HN: Easyful – A Free Gumroad Alternative",
       "https://www.easyful.com/"
+    ]
+  ],
+  [
+    [
+      "2023-08-08, 19:35:48",
+      "https://news.ycombinator.com/item?id=37054361"
+    ],
+    [
+      "Low-cost Smartwatch powered by ESP32 module",
+      "https://linuxgizmos.com/low-cost-smartwatch-powered-by-esp32-s3-module/"
     ]
   ],
   [
@@ -81,6 +111,16 @@
   ],
   [
     [
+      "2023-08-08, 17:36:25",
+      "https://news.ycombinator.com/item?id=37052710"
+    ],
+    [
+      "Life Has Been Found Beneath Hydrothermal Vents for the First Time",
+      "https://www.iflscience.com/life-has-been-found-beneath-hydrothermal-vents-for-the-first-time-70178"
+    ]
+  ],
+  [
+    [
       "2023-08-08, 17:35:03",
       "https://news.ycombinator.com/item?id=37052694"
     ],
@@ -137,16 +177,6 @@
     [
       "Inception: A simple XOR can cause a Microarchitectural Stack Overflow",
       "https://comsec.ethz.ch/research/microarch/inception/"
-    ]
-  ],
-  [
-    [
-      "2023-08-08, 15:53:51",
-      "https://news.ycombinator.com/item?id=37050960"
-    ],
-    [
-      "Do you avoid the news? You’re in growing company",
-      "https://www.washingtonpost.com/media/2023/08/01/news-avoid-depressing/"
     ]
   ],
   [
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2023-08-08, 13:41:03",
-      "https://news.ycombinator.com/item?id=37048825"
-    ],
-    [
-      "How real is America’s chipmaking renaissance?",
-      "https://www.economist.com/business/2023/08/07/how-real-is-americas-chipmaking-renaissance"
-    ]
-  ],
-  [
-    [
       "2023-08-08, 13:35:10",
       "https://news.ycombinator.com/item?id=37048758"
     ],
@@ -277,26 +297,6 @@
     [
       "TSMC, Bosch, Infineon, and NXP to build fab in Germany",
       "https://pr.tsmc.com/english/news/3049"
-    ]
-  ],
-  [
-    [
-      "2023-08-07, 20:59:29",
-      "https://news.ycombinator.com/item?id=37040883"
-    ],
-    [
-      "Typograms: A definition and renderer for ASCII diagrams",
-      "https://google.github.io/typograms/"
-    ]
-  ],
-  [
-    [
-      "2023-08-04, 19:19:17",
-      "https://news.ycombinator.com/item?id=37004567"
-    ],
-    [
-      "Longest-lasting incandescent light bulbs",
-      "https://en.wikipedia.org/wiki/Longest-lasting_light_bulbs"
     ]
   ]
 ]
