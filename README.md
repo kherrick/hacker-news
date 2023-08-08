@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-08, 09:22:47](https://news.ycombinator.com/item?id=37046448) - [Can Toilet Paper Cause Impotence?](https://spy.com/articles/grooming/hygiene/toilet-paper-forever-chemicals-1202971286/)
 * [2023-08-08, 08:30:46](https://news.ycombinator.com/item?id=37046107) - [UK man bitten by cat contracts unknown and ‘extensive’ bacterial infection](https://www.independent.co.uk/news/science/cat-bite-nhs-infection-b2389244.html)
 * [2023-08-08, 06:19:45](https://news.ycombinator.com/item?id=37045185) - [Norway to fine Meta $98,500 a day over user privacy breach from 14 August](https://www.theguardian.com/technology/2023/aug/07/norway-meta-fine-user-privacy-breach-targeted-ads)
 * [2023-08-08, 05:21:29](https://news.ycombinator.com/item?id=37044820) - [Monitoring your logs is mostly a tarpit](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LogMonitoringTarpit)
@@ -19,6 +18,7 @@
 * [2023-08-07, 20:03:37](https://news.ycombinator.com/item?id=37040205) - [Lithium morphology discovery could lead to safer lithium-metal batteries](https://phys.org/news/2023-08-true-lithium-revealed.html)
 * [2023-08-07, 18:50:19](https://news.ycombinator.com/item?id=37038908) - [Open-source canvas drawing web app, built using React](https://github.com/diogocapela/flatdraw)
 * [2023-08-07, 16:59:00](https://news.ycombinator.com/item?id=37037196) - [How Zoom’s terms of service and practices apply to AI features](https://blog.zoom.us/zooms-term-service-ai/)
+* [2023-08-07, 16:38:17](https://news.ycombinator.com/item?id=37036851) - [Gnu/Hurd strikes back: How to use the legendary OS in a (somewhat) practical way](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
 * [2023-08-07, 12:54:18](https://news.ycombinator.com/item?id=37033753) - [Launch HN: GitStart (YC S19) – Remote junior devs working on production PRs](https://news.ycombinator.com/item?id=37033753)
 * [2023-08-07, 12:06:21](https://news.ycombinator.com/item?id=37033307) - [Golay Code (2015)](https://blogs.ams.org/visualinsight/2015/12/01/golay-code/)
 * [2023-08-07, 09:41:46](https://news.ycombinator.com/item?id=37032286) - [The Alexander Piano](https://www.alexanderpiano.nz/page/the-alexander-piano)
