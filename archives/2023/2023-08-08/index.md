@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
 * [2023-08-08, 17:49:51](https://news.ycombinator.com/item?id=37052875) - [ChimeraOS: Instantly turn any PC into a gaming console](https://chimeraos.org/)
+* [2023-08-08, 17:46:07](https://news.ycombinator.com/item?id=37052831) - [Friendly Captcha – GDPR-Compliant Bot Protection](https://friendlycaptcha.com/)
 * [2023-08-08, 17:35:03](https://news.ycombinator.com/item?id=37052694) - [Project IDX, an Experiment to Improve Full-Stack, Multiplatform App Development](https://developers.googleblog.com/2023/08/introducing-project-idx-experiment-to-improve-full-stack-multiplatform-app-development.html)
 * [2023-08-08, 17:33:38](https://news.ycombinator.com/item?id=37052671) - [Project IDX](https://idx.dev/)
 * [2023-08-08, 17:30:09](https://news.ycombinator.com/item?id=37052622) - [LCD, Please – de-make of “Papers, please”, celebrating 10 years since launch](https://dukope.itch.io/lcd-please)

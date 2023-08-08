@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-08, 17:49:51](https://news.ycombinator.com/item?id=37052875) - [ChimeraOS: Instantly turn any PC into a gaming console](https://chimeraos.org/)
+* [2023-08-08, 17:46:07](https://news.ycombinator.com/item?id=37052831) - [Friendly Captcha – GDPR-Compliant Bot Protection](https://friendlycaptcha.com/)
 * [2023-08-08, 17:35:03](https://news.ycombinator.com/item?id=37052694) - [Project IDX, an Experiment to Improve Full-Stack, Multiplatform App Development](https://developers.googleblog.com/2023/08/introducing-project-idx-experiment-to-improve-full-stack-multiplatform-app-development.html)
 * [2023-08-08, 17:33:38](https://news.ycombinator.com/item?id=37052671) - [Project IDX](https://idx.dev/)
 * [2023-08-08, 17:30:09](https://news.ycombinator.com/item?id=37052622) - [LCD, Please – de-make of “Papers, please”, celebrating 10 years since launch](https://dukope.itch.io/lcd-please)
@@ -8,7 +9,6 @@
 * [2023-08-08, 17:23:00](https://news.ycombinator.com/item?id=37052508) - [Uninstall the NightOwl macOS app now](https://robins.one/notes/uninstall-the-nightowl-app-now.html)
 * [2023-08-08, 17:00:51](https://news.ycombinator.com/item?id=37052137) - [SnapEDA (YC S15) is hiring AI lead for electronics copilot in Bay Area](https://careers.snapeda.com/o/engineering-lead-ai)
 * [2023-08-08, 16:20:33](https://news.ycombinator.com/item?id=37051423) - [Inception: A simple XOR can cause a Microarchitectural Stack Overflow](https://comsec.ethz.ch/research/microarch/inception/)
-* [2023-08-08, 16:02:06](https://news.ycombinator.com/item?id=37051111) - [Go 1.21 Is Released](https://go.dev/blog/go1.21)
 * [2023-08-08, 15:53:51](https://news.ycombinator.com/item?id=37050960) - [Do you avoid the news? You’re in growing company](https://www.washingtonpost.com/media/2023/08/01/news-avoid-depressing/)
 * [2023-08-08, 15:32:13](https://news.ycombinator.com/item?id=37050532) - [Show HN: Chat with your data using LangChain, Pinecone, and Airbyte](https://airbyte.com/tutorials/chat-with-your-data-using-openai-pinecone-airbyte-and-langchain)
 * [2023-08-08, 15:28:37](https://news.ycombinator.com/item?id=37050466) - [Go 1.21 Released](https://go.dev/doc/go1.21)
@@ -20,7 +20,6 @@
 * [2023-08-08, 14:09:12](https://news.ycombinator.com/item?id=37049198) - [Candle: Torch Replacement in Rust](https://github.com/huggingface/candle)
 * [2023-08-08, 13:58:57](https://news.ycombinator.com/item?id=37049064) - [Bye, Gemini](https://www.makeworld.space/2023/08/bye_gemini.html)
 * [2023-08-08, 13:55:46](https://news.ycombinator.com/item?id=37049016) - [Blocked by Cloudflare](https://jrhawley.ca/2023/08/07/blocked-by-cloudflare)
-* [2023-08-08, 13:49:35](https://news.ycombinator.com/item?id=37048938) - [Banks hit with millions in fines for using Signal and WhatsApp](https://www.cnbc.com/2023/08/08/regulators-hit-wall-street-banks-with-549-million-in-penalties-for-record-keeping-failures-.html)
 * [2023-08-08, 13:41:03](https://news.ycombinator.com/item?id=37048825) - [How real is America’s chipmaking renaissance?](https://www.economist.com/business/2023/08/07/how-real-is-americas-chipmaking-renaissance)
 * [2023-08-08, 13:35:10](https://news.ycombinator.com/item?id=37048758) - [Launch HN: Stellar Sleep (YC S23) – An app that helps people with insomnia](https://news.ycombinator.com/item?id=37048758)
 * [2023-08-08, 13:05:53](https://news.ycombinator.com/item?id=37048409) - [Blueprint for a distributed multi-region IAM with Go and CockroachDB](https://www.ory.dev/global-identity-and-access-management-multi-region/)
@@ -29,6 +28,7 @@
 * [2023-08-08, 10:48:20](https://news.ycombinator.com/item?id=37047053) - [TSMC, Bosch, Infineon, and NXP to build fab in Germany](https://pr.tsmc.com/english/news/3049)
 * [2023-08-07, 20:59:29](https://news.ycombinator.com/item?id=37040883) - [Typograms: A definition and renderer for ASCII diagrams](https://google.github.io/typograms/)
 * [2023-08-07, 09:41:46](https://news.ycombinator.com/item?id=37032286) - [The Alexander Piano](https://www.alexanderpiano.nz/page/the-alexander-piano)
+* [2023-08-06, 23:08:54](https://news.ycombinator.com/item?id=37027909) - [Building Alex Taradov’s open-source USB sniffer](https://www.downtowndougbrown.com/2023/08/building-alex-taradovs-open-source-usb-sniffer/)
 * [2023-08-04, 19:19:17](https://news.ycombinator.com/item?id=37004567) - [Longest-lasting incandescent light bulbs](https://en.wikipedia.org/wiki/Longest-lasting_light_bulbs)
 
 ## [Archives](archives/index.md)
