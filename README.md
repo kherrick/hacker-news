@@ -8,7 +8,7 @@
 * [2023-08-08, 17:35:03](https://news.ycombinator.com/item?id=37052694) - [Project IDX, an Experiment to Improve Full-Stack, Multiplatform App Development](https://developers.googleblog.com/2023/08/introducing-project-idx-experiment-to-improve-full-stack-multiplatform-app-development.html)
 * [2023-08-08, 17:30:09](https://news.ycombinator.com/item?id=37052622) - [LCD, Please – de-make of “Papers, please”, celebrating 10 years since launch](https://dukope.itch.io/lcd-please)
 * [2023-08-08, 17:27:38](https://news.ycombinator.com/item?id=37052586) - [Downfall Attacks](https://downfall.page/)
-* [2023-08-08, 17:23:00](https://news.ycombinator.com/item?id=37052508) - [Uninstall the NightOwl macOS app now](https://robins.one/notes/uninstall-the-nightowl-app-now.html)
+* [2023-08-08, 17:23:00](https://news.ycombinator.com/item?id=37052508) - [Uninstall the NightOwl app](https://robins.one/notes/uninstall-the-nightowl-app-now.html)
 * [2023-08-08, 17:00:51](https://news.ycombinator.com/item?id=37052137) - [SnapEDA (YC S15) is hiring AI lead for electronics copilot in Bay Area](https://careers.snapeda.com/o/engineering-lead-ai)
 * [2023-08-08, 16:20:33](https://news.ycombinator.com/item?id=37051423) - [Inception: A simple XOR can cause a Microarchitectural Stack Overflow](https://comsec.ethz.ch/research/microarch/inception/)
 * [2023-08-08, 15:53:51](https://news.ycombinator.com/item?id=37050960) - [Do you avoid the news? You’re in growing company](https://www.washingtonpost.com/media/2023/08/01/news-avoid-depressing/)
