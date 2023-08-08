@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
+* [2023-08-08, 20:14:01](https://news.ycombinator.com/item?id=37054862) - [Milk Sad: Weak Entropy in libbitcoin (bc) seed generation](https://milksad.info/)
+* [2023-08-08, 19:59:58](https://news.ycombinator.com/item?id=37054670) - [mCaptcha: Open-source proof-of-work captcha for websites](https://mcaptcha.org/)
 * [2023-08-08, 19:53:49](https://news.ycombinator.com/item?id=37054603) - [See where your house was 66M years ago](https://dinosaurpictures.org/ancient-earth#66)
 * [2023-08-08, 19:47:40](https://news.ycombinator.com/item?id=37054533) - [The Microcontroller That Just Won’t Die](https://www.eejournal.com/article/the-microcontroller-that-just-wont-die/)
 * [2023-08-08, 19:36:36](https://news.ycombinator.com/item?id=37054374) - [Show HN: Easyful – A Free Gumroad Alternative](https://www.easyful.com/)
