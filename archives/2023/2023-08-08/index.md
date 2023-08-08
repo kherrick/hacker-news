@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
+* [2023-08-08, 16:07:11](https://news.ycombinator.com/item?id=37051206) - [Inception: Leaking the root hash from /etc./shadow on AMD Zen 4 [video]](https://www.youtube.com/watch?v=2wCjU8iJ9G4)
+* [2023-08-08, 15:39:31](https://news.ycombinator.com/item?id=37050654) - [Abilene Paradox](https://en.wikipedia.org/wiki/Abilene_paradox)
+* [2023-08-08, 15:32:13](https://news.ycombinator.com/item?id=37050532) - [Show HN: Chat with your data using LangChain, Pinecone, and Airbyte](https://airbyte.com/tutorials/chat-with-your-data-using-openai-pinecone-airbyte-and-langchain)
 * [2023-08-08, 15:28:37](https://news.ycombinator.com/item?id=37050466) - [Go 1.21 Released](https://go.dev/doc/go1.21)
 * [2023-08-08, 15:15:31](https://news.ycombinator.com/item?id=37050257) - [GPT-4 Can't Reason](https://www.preprints.org/manuscript/202308.0148/v1)
 * [2023-08-08, 15:11:47](https://news.ycombinator.com/item?id=37050191) - [Svelte 5 is going to be radical](https://twitter.com/Rich_Harris/status/1688581184018583558)
