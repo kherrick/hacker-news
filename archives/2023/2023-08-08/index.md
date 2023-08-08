@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
 * [2023-08-08, 09:22:47](https://news.ycombinator.com/item?id=37046448) - [Can Toilet Paper Cause Impotence?](https://spy.com/articles/grooming/hygiene/toilet-paper-forever-chemicals-1202971286/)
+* [2023-08-08, 08:35:31](https://news.ycombinator.com/item?id=37046128) - [Mexico seeks to solidify rank as top U.S. trade partner, push further past China](https://www.dallasfed.org/research/economics/2023/0711)
 * [2023-08-08, 08:30:46](https://news.ycombinator.com/item?id=37046107) - [UK man bitten by cat contracts unknown and ‘extensive’ bacterial infection](https://www.independent.co.uk/news/science/cat-bite-nhs-infection-b2389244.html)
 * [2023-08-08, 06:58:50](https://news.ycombinator.com/item?id=37045455) - [The SEO scam: $62,000 later](https://tinloof.com/blog/the-seo-scam-62000-dollars-later)
+* [2023-08-08, 06:49:09](https://news.ycombinator.com/item?id=37045385) - [Jailer, a unique open-source database tool](https://github.com/Wisser/Jailer)
 * [2023-08-08, 06:20:41](https://news.ycombinator.com/item?id=37045195) - [A self-driving Uber killed a woman. The backup driver pleaded guilty](https://www.washingtonpost.com/nation/2023/07/31/uber-self-driving-death-guilty/)
 * [2023-08-08, 06:19:45](https://news.ycombinator.com/item?id=37045185) - [Norway to fine Meta $98,500 a day over user privacy breach from 14 August](https://www.theguardian.com/technology/2023/aug/07/norway-meta-fine-user-privacy-breach-targeted-ads)
 * [2023-08-08, 05:21:29](https://news.ycombinator.com/item?id=37044820) - [Monitoring your logs is mostly a tarpit](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LogMonitoringTarpit)
