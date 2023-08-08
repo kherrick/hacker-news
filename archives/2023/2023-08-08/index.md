@@ -6,6 +6,7 @@
 
 * [2023-08-08, 06:58:50](https://news.ycombinator.com/item?id=37045455) - [The SEO scam: $62,000 later](https://tinloof.com/blog/the-seo-scam-62000-dollars-later)
 * [2023-08-08, 06:20:41](https://news.ycombinator.com/item?id=37045195) - [A self-driving Uber killed a woman. The backup driver pleaded guilty](https://www.washingtonpost.com/nation/2023/07/31/uber-self-driving-death-guilty/)
+* [2023-08-08, 06:19:45](https://news.ycombinator.com/item?id=37045185) - [Norway to fine Meta $98,500 a day over user privacy breach from 14 August](https://www.theguardian.com/technology/2023/aug/07/norway-meta-fine-user-privacy-breach-targeted-ads)
 * [2023-08-08, 05:21:29](https://news.ycombinator.com/item?id=37044820) - [Monitoring your logs is mostly a tarpit](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LogMonitoringTarpit)
 * [2023-08-08, 04:56:35](https://news.ycombinator.com/item?id=37044673) - [Richard Scarry Collection: Archive.org](https://archive.org/search?query=Richard+Scarry&and%5B%5D=subject%3A%22Richard+Scarry%22)
 * [2023-08-08, 04:49:15](https://news.ycombinator.com/item?id=37044625) - [Run Firefox on ChromeOS](https://support.mozilla.org/en-US/kb/run-firefox-chromeos)
