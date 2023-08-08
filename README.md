@@ -2,7 +2,6 @@
 
 * [2023-08-08, 03:27:02](https://news.ycombinator.com/item?id=37044168) - [Lacros on Chromebooks transition plan won’t be quick](https://www.aboutchromebooks.com/news/lacros-on-chromebooks-transition-plan-wont-be-quick/)
 * [2023-08-08, 02:59:24](https://news.ycombinator.com/item?id=37043973) - [Ubiquitous Superconducting Diode Effect in Superconductor Thin Films](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.027001)
-* [2023-08-08, 01:59:06](https://news.ycombinator.com/item?id=37043529) - [There Is No Housing Crisis](https://thewalrus.ca/there-is-no-housing-crisis/)
 * [2023-08-08, 01:46:55](https://news.ycombinator.com/item?id=37043447) - [Ferromagnetic half levitation of LK-99-like synthetic samples](https://arxiv.org/abs/2308.03110)
 * [2023-08-08, 01:12:23](https://news.ycombinator.com/item?id=37043196) - [Absence of superconductivity in LK-99 at ambient conditions](https://arxiv.org/abs/2308.03544)
 * [2023-08-08, 01:01:14](https://news.ycombinator.com/item?id=37043122) - [Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)](https://etleap.com/careers/software-engineer/)
@@ -16,6 +15,7 @@
 * [2023-08-07, 18:21:33](https://news.ycombinator.com/item?id=37038457) - [A beginner's guide to Git version control](https://developers.redhat.com/articles/2023/08/02/beginners-guide-git-version-control)
 * [2023-08-07, 18:19:10](https://news.ycombinator.com/item?id=37038425) - [The combined power of F# and C#](https://steven-giesel.com/blogPost/2f70d926-ec92-4dfe-b278-18f78078253d)
 * [2023-08-07, 18:09:50](https://news.ycombinator.com/item?id=37038278) - [Aeroflot deactivates brakes on nine aircraft, relies solely on reverse thrust](https://aeroxplorer.com/articles/aeroflot-deactivates-brakes-on-nine-aircraft-relies-solely-on-reverse-thrust.php)
+* [2023-08-07, 17:54:32](https://news.ycombinator.com/item?id=37038053) - [Show HN: ChainForge, a visual tool for prompt engineering and LLM evaluation](https://chainforge.ai/docs/)
 * [2023-08-07, 17:19:30](https://news.ycombinator.com/item?id=37037520) - [Linux guide for power users (2022)](https://xnacly.me/posts/2022/linux-for-powerusers/)
 * [2023-08-07, 16:59:00](https://news.ycombinator.com/item?id=37037196) - [How Zoom’s terms of service and practices apply to AI features](https://blog.zoom.us/zooms-term-service-ai/)
 * [2023-08-07, 16:38:17](https://news.ycombinator.com/item?id=37036851) - [Gnu/Hurd strikes back: How to use the legendary OS in a (somewhat) practical way](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
