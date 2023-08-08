@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
+* [2023-08-08, 12:38:49](https://news.ycombinator.com/item?id=37048099) - [Navy in Middle-Earth](https://warfantasy.wordpress.com/2023/07/02/navy-in-middle-earth/)
 * [2023-08-08, 11:40:59](https://news.ycombinator.com/item?id=37047462) - [Vector Similarity Beyond Search](https://qdrant.tech/articles/vector-similarity-beyond-search/)
+* [2023-08-08, 11:33:42](https://news.ycombinator.com/item?id=37047402) - [Show HN: Knit – A Better LLM Playground](https://promptknit.com)
 * [2023-08-08, 11:21:23](https://news.ycombinator.com/item?id=37047304) - [Magic Earth: OSM based map and routing with crowd sourced traffic data](https://www.magicearth.com/crowd-sourced-traffic/)
 * [2023-08-08, 10:48:20](https://news.ycombinator.com/item?id=37047053) - [TSMC, Bosch, Infineon, and NXP to build fab in Germany](https://pr.tsmc.com/english/news/3049)
 * [2023-08-08, 10:40:32](https://news.ycombinator.com/item?id=37046993) - [“we now believe that the game is over. LK99 is NOT a superconductor”](https://twitter.com/condensed_the/status/1688747919866814464)
