@@ -4,7 +4,6 @@
 * [2023-08-08, 17:49:51](https://news.ycombinator.com/item?id=37052875) - [ChimeraOS: Instantly turn any PC into a gaming console](https://chimeraos.org/)
 * [2023-08-08, 17:46:07](https://news.ycombinator.com/item?id=37052831) - [Friendly Captcha – GDPR-Compliant Bot Protection](https://friendlycaptcha.com/)
 * [2023-08-08, 17:35:03](https://news.ycombinator.com/item?id=37052694) - [Project IDX, an Experiment to Improve Full-Stack, Multiplatform App Development](https://developers.googleblog.com/2023/08/introducing-project-idx-experiment-to-improve-full-stack-multiplatform-app-development.html)
-* [2023-08-08, 17:33:38](https://news.ycombinator.com/item?id=37052671) - [Project IDX](https://idx.dev/)
 * [2023-08-08, 17:30:09](https://news.ycombinator.com/item?id=37052622) - [LCD, Please – de-make of “Papers, please”, celebrating 10 years since launch](https://dukope.itch.io/lcd-please)
 * [2023-08-08, 17:27:38](https://news.ycombinator.com/item?id=37052586) - [Downfall Attacks](https://downfall.page/)
 * [2023-08-08, 17:23:00](https://news.ycombinator.com/item?id=37052508) - [Uninstall the NightOwl macOS app now](https://robins.one/notes/uninstall-the-nightowl-app-now.html)
@@ -29,6 +28,7 @@
 * [2023-08-08, 10:48:20](https://news.ycombinator.com/item?id=37047053) - [TSMC, Bosch, Infineon, and NXP to build fab in Germany](https://pr.tsmc.com/english/news/3049)
 * [2023-08-07, 20:59:29](https://news.ycombinator.com/item?id=37040883) - [Typograms: A definition and renderer for ASCII diagrams](https://google.github.io/typograms/)
 * [2023-08-07, 14:06:19](https://news.ycombinator.com/item?id=37034626) - [Template for Impactful Ideas](https://tidyfirst.substack.com/p/idea-to-impact)
+* [2023-08-06, 23:08:54](https://news.ycombinator.com/item?id=37027909) - [Building Alex Taradov’s open-source USB sniffer](https://www.downtowndougbrown.com/2023/08/building-alex-taradovs-open-source-usb-sniffer/)
 * [2023-08-04, 19:19:17](https://news.ycombinator.com/item?id=37004567) - [Longest-lasting incandescent light bulbs](https://en.wikipedia.org/wiki/Longest-lasting_light_bulbs)
 
 ## [Archives](archives/index.md)
