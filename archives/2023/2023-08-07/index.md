@@ -11,6 +11,7 @@
 * [2023-08-07, 21:28:23](https://news.ycombinator.com/item?id=37041213) - [Tesla, Inc. 8-k filing – CFO leaves Tesla](https://www.bamsec.com/filing/95017023038779)
 * [2023-08-07, 21:15:48](https://news.ycombinator.com/item?id=37041047) - [How to stop the “login with Google” pop up window?](https://support.google.com/accounts/thread/212592288/how-to-stop-the-login-with-google-pop-up-window?hl=en)
 * [2023-08-07, 21:01:07](https://news.ycombinator.com/item?id=37040898) - [Emerge Tools (YC W21) is hiring an engineer to lead front end development](https://www.ycombinator.com/companies/emerge-tools/jobs/zDcS7ia-senior-software-engineer-frontend-lead)
+* [2023-08-07, 20:59:29](https://news.ycombinator.com/item?id=37040883) - [Typograms: A definition and renderer for ASCII diagrams](https://google.github.io/typograms/)
 * [2023-08-07, 20:48:35](https://news.ycombinator.com/item?id=37040747) - [CISA Releases Its Cybersecurity Strategic Plan](https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan)
 * [2023-08-07, 20:42:48](https://news.ycombinator.com/item?id=37040681) - [Raku: A Language for Gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/)
 * [2023-08-07, 20:26:44](https://news.ycombinator.com/item?id=37040490) - [Semiconductor Supply Chain Explorer](https://chipexplorer.eto.tech)
