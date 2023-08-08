@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-08-08, 16:07:11",
+      "https://news.ycombinator.com/item?id=37051206"
+    ],
+    [
+      "Inception: Leaking the root hash from /etc./shadow on AMD Zen 4 [video]",
+      "https://www.youtube.com/watch?v=2wCjU8iJ9G4"
+    ]
+  ],
+  [
+    [
+      "2023-08-08, 15:39:31",
+      "https://news.ycombinator.com/item?id=37050654"
+    ],
+    [
+      "Abilene Paradox",
+      "https://en.wikipedia.org/wiki/Abilene_paradox"
+    ]
+  ],
+  [
+    [
+      "2023-08-08, 15:32:13",
+      "https://news.ycombinator.com/item?id=37050532"
+    ],
+    [
+      "Show HN: Chat with your data using LangChain, Pinecone, and Airbyte",
+      "https://airbyte.com/tutorials/chat-with-your-data-using-openai-pinecone-airbyte-and-langchain"
+    ]
+  ],
+  [
+    [
       "2023-08-08, 15:28:37",
       "https://news.ycombinator.com/item?id=37050466"
     ],
@@ -35,18 +65,8 @@
       "https://news.ycombinator.com/item?id=37050035"
     ],
     [
-      "EFF denounces Google's WEI proposal",
+      "Your computer should say what you tell it to say",
       "https://www.eff.org/deeplinks/2023/08/your-computer-should-say-what-you-tell-it-say-1"
-    ]
-  ],
-  [
-    [
-      "2023-08-08, 14:47:52",
-      "https://news.ycombinator.com/item?id=37049786"
-    ],
-    [
-      "Italy approves 40% windfall tax on banks for 2023 as profits soar",
-      "https://www.theguardian.com/world/2023/aug/08/italy-approves-40-windfall-tax-on-banks-for-2023-as-profits-soar"
     ]
   ],
   [
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=37049662"
     ],
     [
-      "What Comes After Zoom?",
+      "What Comes After Zoom? (2020)",
       "https://www.ben-evans.com/benedictevans/2020/6/22/zoom-and-the-next-video"
     ]
   ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-08-08, 12:38:49",
-      "https://news.ycombinator.com/item?id=37048099"
-    ],
-    [
-      "Navy in Middle-Earth",
-      "https://warfantasy.wordpress.com/2023/07/02/navy-in-middle-earth/"
-    ]
-  ],
-  [
-    [
       "2023-08-08, 12:09:28",
       "https://news.ycombinator.com/item?id=37047746"
     ],
@@ -207,16 +217,6 @@
     [
       "Richard Scarry Collection: Archive.org",
       "https://archive.org/search?query=Richard+Scarry&and%5B%5D=subject%3A%22Richard+Scarry%22"
-    ]
-  ],
-  [
-    [
-      "2023-08-08, 04:49:15",
-      "https://news.ycombinator.com/item?id=37044625"
-    ],
-    [
-      "Run Firefox on ChromeOS",
-      "https://support.mozilla.org/en-US/kb/run-firefox-chromeos"
     ]
   ],
   [
