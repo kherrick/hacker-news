@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-08, 01:46:55](https://news.ycombinator.com/item?id=37043447) - [Ferromagnetic half levitation of LK-99-like synthetic samples](https://arxiv.org/abs/2308.03110)
+* [2023-08-08, 01:38:17](https://news.ycombinator.com/item?id=37043391) - [Computers Are Broken](https://computer.rip/2023-08-07-STIRred-AND-SHAKEN.html)
 * [2023-08-08, 01:12:23](https://news.ycombinator.com/item?id=37043196) - [Absence of superconductivity in LK-99 at ambient conditions](https://arxiv.org/abs/2308.03544)
 * [2023-08-08, 01:01:14](https://news.ycombinator.com/item?id=37043122) - [Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)](https://etleap.com/careers/software-engineer/)
 * [2023-08-08, 00:17:01](https://news.ycombinator.com/item?id=37042790) - [Malignant melanoma deploys elegant molecular mechanism to evade immune responses](https://www.cancer.columbia.edu/news/cancers-cloaking-device-revealed)
@@ -17,7 +18,6 @@
 * [2023-08-07, 17:19:30](https://news.ycombinator.com/item?id=37037520) - [Linux guide for power users (2022)](https://xnacly.me/posts/2022/linux-for-powerusers/)
 * [2023-08-07, 16:59:00](https://news.ycombinator.com/item?id=37037196) - [How Zoom’s terms of service and practices apply to AI features](https://blog.zoom.us/zooms-term-service-ai/)
 * [2023-08-07, 16:38:17](https://news.ycombinator.com/item?id=37036851) - [Gnu/Hurd strikes back: How to use the legendary OS in a (somewhat) practical way](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
-* [2023-08-07, 16:22:46](https://news.ycombinator.com/item?id=37036566) - [Math for kids outside of the Calculus Sequence](https://kidswholovemath.substack.com/p/math-for-kids-outside-of-the-calculus)
 * [2023-08-07, 16:09:12](https://news.ycombinator.com/item?id=37036339) - [Traffic safety “nudges” can cause number of crashes to increase (2022)](https://www.science.org/doi/full/10.1126/science.abm3427)
 * [2023-08-07, 16:06:15](https://news.ycombinator.com/item?id=37036291) - [Kafka is dead, long live Kafka](https://www.warpstream.com/blog/kafka-is-dead-long-live-kafka)
 * [2023-08-07, 14:25:52](https://news.ycombinator.com/item?id=37034906) - [Sandy Bridge: Setting Intel’s modern foundation](https://chipsandcheese.com/2023/08/04/sandy-bridge-setting-intels-modern-foundation/)
