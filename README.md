@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-08, 17:27:38](https://news.ycombinator.com/item?id=37052586) - [Downfall Attacks](https://downfall.page/)
 * [2023-08-08, 17:00:51](https://news.ycombinator.com/item?id=37052137) - [SnapEDA (YC S15) is hiring AI lead for electronics copilot in Bay Area](https://careers.snapeda.com/o/engineering-lead-ai)
 * [2023-08-08, 16:07:11](https://news.ycombinator.com/item?id=37051206) - [Inception: Leaking the root hash from /etc./shadow on AMD Zen 4 [video]](https://www.youtube.com/watch?v=2wCjU8iJ9G4)
 * [2023-08-08, 16:02:06](https://news.ycombinator.com/item?id=37051111) - [Go 1.21 Is Released](https://go.dev/blog/go1.21)
@@ -10,7 +11,6 @@
 * [2023-08-08, 15:06:21](https://news.ycombinator.com/item?id=37050089) - [Homo sapiens declared extinct (1999)](https://bruces.medium.com/homo-sapiens-declared-extinct-by-bruce-sterling-1999-cc8b0f94b195)
 * [2023-08-08, 15:03:16](https://news.ycombinator.com/item?id=37050035) - [Your computer should say what you tell it to say](https://www.eff.org/deeplinks/2023/08/your-computer-should-say-what-you-tell-it-say-1)
 * [2023-08-08, 14:39:29](https://news.ycombinator.com/item?id=37049662) - [What Comes After Zoom? (2020)](https://www.ben-evans.com/benedictevans/2020/6/22/zoom-and-the-next-video)
-* [2023-08-08, 14:10:52](https://news.ycombinator.com/item?id=37049221) - [Millions of UK voters’ data accessible in cyber-attack](https://www.theguardian.com/technology/2023/aug/08/uk-electoral-commission-registers-targeted-by-hostile-hackers)
 * [2023-08-08, 14:09:12](https://news.ycombinator.com/item?id=37049198) - [Candle: Torch Replacement in Rust](https://github.com/huggingface/candle)
 * [2023-08-08, 13:58:57](https://news.ycombinator.com/item?id=37049064) - [Bye, Gemini](https://www.makeworld.space/2023/08/bye_gemini.html)
 * [2023-08-08, 13:55:46](https://news.ycombinator.com/item?id=37049016) - [Blocked by Cloudflare](https://jrhawley.ca/2023/08/07/blocked-by-cloudflare)

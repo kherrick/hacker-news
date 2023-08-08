@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
+* [2023-08-08, 17:27:38](https://news.ycombinator.com/item?id=37052586) - [Downfall Attacks](https://downfall.page/)
 * [2023-08-08, 17:00:51](https://news.ycombinator.com/item?id=37052137) - [SnapEDA (YC S15) is hiring AI lead for electronics copilot in Bay Area](https://careers.snapeda.com/o/engineering-lead-ai)
 * [2023-08-08, 16:07:11](https://news.ycombinator.com/item?id=37051206) - [Inception: Leaking the root hash from /etc./shadow on AMD Zen 4 [video]](https://www.youtube.com/watch?v=2wCjU8iJ9G4)
 * [2023-08-08, 16:02:06](https://news.ycombinator.com/item?id=37051111) - [Go 1.21 Is Released](https://go.dev/blog/go1.21)
