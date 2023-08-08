@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
+* [2023-08-08, 10:38:00](https://news.ycombinator.com/item?id=37046974) - [A Creepy Question We'll All Have to Answer Soon](https://jasonpargin.substack.com/p/a-creepy-question-well-all-have-to)
 * [2023-08-08, 10:37:55](https://news.ycombinator.com/item?id=37046973) - [Terminal Support for Emoji](https://darrenburns.net/posts/emoji-in-the-terminal/)
 * [2023-08-08, 09:22:47](https://news.ycombinator.com/item?id=37046448) - [Can Toilet Paper Cause Impotence?](https://spy.com/articles/grooming/hygiene/toilet-paper-forever-chemicals-1202971286/)
 * [2023-08-08, 08:35:31](https://news.ycombinator.com/item?id=37046128) - [Mexico seeks to solidify rank as top U.S. trade partner, push further past China](https://www.dallasfed.org/research/economics/2023/0711)
@@ -15,6 +16,7 @@
 * [2023-08-08, 05:21:29](https://news.ycombinator.com/item?id=37044820) - [Monitoring your logs is mostly a tarpit](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LogMonitoringTarpit)
 * [2023-08-08, 04:56:35](https://news.ycombinator.com/item?id=37044673) - [Richard Scarry Collection: Archive.org](https://archive.org/search?query=Richard+Scarry&and%5B%5D=subject%3A%22Richard+Scarry%22)
 * [2023-08-08, 04:49:15](https://news.ycombinator.com/item?id=37044625) - [Run Firefox on ChromeOS](https://support.mozilla.org/en-US/kb/run-firefox-chromeos)
+* [2023-08-08, 04:40:34](https://news.ycombinator.com/item?id=37044567) - [All that glitters is not gold – emulating luxury in the ancient Greek world](https://www.britishmuseum.org/blog/all-glitters-not-gold-emulating-luxury-ancient-greek-world)
 * [2023-08-08, 03:27:02](https://news.ycombinator.com/item?id=37044168) - [Lacros on Chromebooks transition plan won’t be quick](https://www.aboutchromebooks.com/news/lacros-on-chromebooks-transition-plan-wont-be-quick/)
 * [2023-08-08, 03:02:24](https://news.ycombinator.com/item?id=37044005) - [Zoom is making its staff return to the office](https://www.cnn.com/2023/08/07/business/zoom-return-to-office/index.html)
 * [2023-08-08, 02:59:24](https://news.ycombinator.com/item?id=37043973) - [Ubiquitous Superconducting Diode Effect in Superconductor Thin Films](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.027001)

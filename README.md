@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-08, 10:38:00](https://news.ycombinator.com/item?id=37046974) - [A Creepy Question We'll All Have to Answer Soon](https://jasonpargin.substack.com/p/a-creepy-question-well-all-have-to)
 * [2023-08-08, 10:37:55](https://news.ycombinator.com/item?id=37046973) - [Terminal Support for Emoji](https://darrenburns.net/posts/emoji-in-the-terminal/)
 * [2023-08-08, 08:35:31](https://news.ycombinator.com/item?id=37046128) - [Mexico seeks to solidify rank as top U.S. trade partner, push further past China](https://www.dallasfed.org/research/economics/2023/0711)
 * [2023-08-08, 06:49:09](https://news.ycombinator.com/item?id=37045385) - [Jailer, a unique open-source database tool](https://github.com/Wisser/Jailer)
@@ -7,6 +8,7 @@
 * [2023-08-08, 05:21:29](https://news.ycombinator.com/item?id=37044820) - [Monitoring your logs is mostly a tarpit](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LogMonitoringTarpit)
 * [2023-08-08, 04:56:35](https://news.ycombinator.com/item?id=37044673) - [Richard Scarry Collection: Archive.org](https://archive.org/search?query=Richard+Scarry&and%5B%5D=subject%3A%22Richard+Scarry%22)
 * [2023-08-08, 04:49:15](https://news.ycombinator.com/item?id=37044625) - [Run Firefox on ChromeOS](https://support.mozilla.org/en-US/kb/run-firefox-chromeos)
+* [2023-08-08, 04:40:34](https://news.ycombinator.com/item?id=37044567) - [All that glitters is not gold – emulating luxury in the ancient Greek world](https://www.britishmuseum.org/blog/all-glitters-not-gold-emulating-luxury-ancient-greek-world)
 * [2023-08-08, 03:27:02](https://news.ycombinator.com/item?id=37044168) - [Lacros on Chromebooks transition plan won’t be quick](https://www.aboutchromebooks.com/news/lacros-on-chromebooks-transition-plan-wont-be-quick/)
 * [2023-08-08, 02:59:24](https://news.ycombinator.com/item?id=37043973) - [Ubiquitous superconducting diode effect in superconductor thin films](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.027001)
 * [2023-08-08, 02:55:22](https://news.ycombinator.com/item?id=37043934) - [Noclip.website: A digital museum of video game levels](https://noclip.website)
@@ -18,8 +20,6 @@
 * [2023-08-07, 20:42:48](https://news.ycombinator.com/item?id=37040681) - [Raku: A language for gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/)
 * [2023-08-07, 20:14:34](https://news.ycombinator.com/item?id=37040359) - [Show HN: Doculite – Use SQLite as a Document Database](https://www.npmjs.com/package/doculite)
 * [2023-08-07, 20:03:37](https://news.ycombinator.com/item?id=37040205) - [Lithium morphology discovery could lead to safer lithium-metal batteries](https://phys.org/news/2023-08-true-lithium-revealed.html)
-* [2023-08-07, 16:59:00](https://news.ycombinator.com/item?id=37037196) - [How Zoom’s terms of service and practices apply to AI features](https://blog.zoom.us/zooms-term-service-ai/)
-* [2023-08-07, 16:38:17](https://news.ycombinator.com/item?id=37036851) - [Gnu/Hurd strikes back: How to use the legendary OS in a (somewhat) practical way](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
 * [2023-08-07, 12:54:18](https://news.ycombinator.com/item?id=37033753) - [Launch HN: GitStart (YC S19) – Remote junior devs working on production PRs](https://news.ycombinator.com/item?id=37033753)
 * [2023-08-07, 12:06:21](https://news.ycombinator.com/item?id=37033307) - [Golay Code (2015)](https://blogs.ams.org/visualinsight/2015/12/01/golay-code/)
 * [2023-08-07, 09:41:46](https://news.ycombinator.com/item?id=37032286) - [The Alexander Piano](https://www.alexanderpiano.nz/page/the-alexander-piano)
