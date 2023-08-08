@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-08, 06:58:50](https://news.ycombinator.com/item?id=37045455) - [The SEO scam: $62,000 later](https://tinloof.com/blog/the-seo-scam-62000-dollars-later)
+* [2023-08-08, 06:20:41](https://news.ycombinator.com/item?id=37045195) - [A self-driving Uber killed a woman. The backup driver pleaded guilty](https://www.washingtonpost.com/nation/2023/07/31/uber-self-driving-death-guilty/)
 * [2023-08-08, 05:21:29](https://news.ycombinator.com/item?id=37044820) - [Monitoring your logs is mostly a tarpit](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LogMonitoringTarpit)
+* [2023-08-08, 04:56:35](https://news.ycombinator.com/item?id=37044673) - [Richard Scarry Collection: Archive.org](https://archive.org/search?query=Richard+Scarry&and%5B%5D=subject%3A%22Richard+Scarry%22)
 * [2023-08-08, 04:49:15](https://news.ycombinator.com/item?id=37044625) - [Run Firefox on ChromeOS](https://support.mozilla.org/en-US/kb/run-firefox-chromeos)
 * [2023-08-08, 03:27:02](https://news.ycombinator.com/item?id=37044168) - [Lacros on Chromebooks transition plan won’t be quick](https://www.aboutchromebooks.com/news/lacros-on-chromebooks-transition-plan-wont-be-quick/)
 * [2023-08-08, 02:55:22](https://news.ycombinator.com/item?id=37043934) - [Noclip.website: A digital museum of video game levels](https://noclip.website)
@@ -20,16 +22,14 @@
 * [2023-08-07, 17:54:32](https://news.ycombinator.com/item?id=37038053) - [Show HN: ChainForge, a visual tool for prompt engineering and LLM evaluation](https://chainforge.ai/docs/)
 * [2023-08-07, 17:19:30](https://news.ycombinator.com/item?id=37037520) - [Linux guide for power users (2022)](https://xnacly.me/posts/2022/linux-for-powerusers/)
 * [2023-08-07, 16:59:00](https://news.ycombinator.com/item?id=37037196) - [How Zoom’s terms of service and practices apply to AI features](https://blog.zoom.us/zooms-term-service-ai/)
-* [2023-08-07, 16:38:17](https://news.ycombinator.com/item?id=37036851) - [Gnu/Hurd strikes back: How to use the legendary OS in a (somewhat) practical way](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
 * [2023-08-07, 12:54:18](https://news.ycombinator.com/item?id=37033753) - [Launch HN: GitStart (YC S19) – Remote junior devs working on production PRs](https://news.ycombinator.com/item?id=37033753)
 * [2023-08-07, 09:41:46](https://news.ycombinator.com/item?id=37032286) - [The Alexander Piano](https://www.alexanderpiano.nz/page/the-alexander-piano)
 * [2023-08-07, 06:07:32](https://news.ycombinator.com/item?id=37030743) - [The Importance of Being a Code Reviewer](https://medium.com/expedia-group-tech/the-importance-of-being-a-code-reviewer-fdbd910fbce7)
 * [2023-08-07, 04:59:29](https://news.ycombinator.com/item?id=37030338) - [Theft of the Mona Lisa  (2000)](https://www.pbs.org/treasuresoftheworld/a_nav/mona_nav/main_monafrm.html)
 * [2023-08-06, 21:05:12](https://news.ycombinator.com/item?id=37026757) - [Compiler Development: Rust or OCaml?](https://hirrolot.github.io/posts/compiler-development-rust-or-ocaml.html)
-* [2023-08-06, 07:57:48](https://news.ycombinator.com/item?id=37019862) - [The year of Linux On Desktop^WMobile [video]](https://media.ccc.de/v/froscon2023-2950-the_year_of_linux_on_desktop_wmobile)
+* [2023-08-06, 07:42:25](https://news.ycombinator.com/item?id=37019791) - [The PC and Internet Revolution in Rural America](https://www.complete.org/the-pc-internet-revolution-in-rural-america/)
 * [2023-08-06, 06:05:14](https://news.ycombinator.com/item?id=37019396) - [Sheldon Brown's Bicycle Technical Info](https://www.sheldonbrown.com/)
 * [2023-08-05, 12:18:16](https://news.ycombinator.com/item?id=37011282) - [Jim Keller and his pioneering work on chip design and architecture](https://www.edn.com/the-story-of-jim-keller-and-his-pioneering-work-on-chip-design-and-architecture/)
-* [2023-08-05, 09:42:32](https://news.ycombinator.com/item?id=37010471) - [The Real Question Behind 'What Do You Want?'](https://lopespm.com/notes/2023/08/05/real_question_behind_what_you_want.html)
 
 ## [Archives](archives/index.md)
 

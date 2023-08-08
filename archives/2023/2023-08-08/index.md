@@ -7,6 +7,7 @@
 * [2023-08-08, 06:58:50](https://news.ycombinator.com/item?id=37045455) - [The SEO scam: $62,000 later](https://tinloof.com/blog/the-seo-scam-62000-dollars-later)
 * [2023-08-08, 06:20:41](https://news.ycombinator.com/item?id=37045195) - [A self-driving Uber killed a woman. The backup driver pleaded guilty](https://www.washingtonpost.com/nation/2023/07/31/uber-self-driving-death-guilty/)
 * [2023-08-08, 05:21:29](https://news.ycombinator.com/item?id=37044820) - [Monitoring your logs is mostly a tarpit](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LogMonitoringTarpit)
+* [2023-08-08, 04:56:35](https://news.ycombinator.com/item?id=37044673) - [Richard Scarry Collection: Archive.org](https://archive.org/search?query=Richard+Scarry&and%5B%5D=subject%3A%22Richard+Scarry%22)
 * [2023-08-08, 04:49:15](https://news.ycombinator.com/item?id=37044625) - [Run Firefox on ChromeOS](https://support.mozilla.org/en-US/kb/run-firefox-chromeos)
 * [2023-08-08, 03:27:02](https://news.ycombinator.com/item?id=37044168) - [Lacros on Chromebooks transition plan won’t be quick](https://www.aboutchromebooks.com/news/lacros-on-chromebooks-transition-plan-wont-be-quick/)
 * [2023-08-08, 03:02:24](https://news.ycombinator.com/item?id=37044005) - [Zoom is making its staff return to the office](https://www.cnn.com/2023/08/07/business/zoom-return-to-office/index.html)
