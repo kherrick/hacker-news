@@ -73,6 +73,7 @@
 * [2023-08-05, 09:57:23](https://news.ycombinator.com/item?id=37010547) - [Show HN: Matrix. A Sci-Fi Comic](https://github.com/baradhiren/story/tree/%E0%A4%A6%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE/Matrix)
 * [2023-08-05, 09:55:57](https://news.ycombinator.com/item?id=37010539) - [Flux Pinning in sample of LK-99](https://twitter.com/andercot/status/1687740396691185664)
 * [2023-08-05, 09:47:02](https://news.ycombinator.com/item?id=37010498) - [[video] Fully levitating LK-99 sample claimed replicated](https://www.douyin.com/video/7263715495256378659)
+* [2023-08-05, 09:42:32](https://news.ycombinator.com/item?id=37010471) - [The Real Question Behind 'What Do You Want?'](https://lopespm.com/notes/2023/08/05/real_question_behind_what_you_want.html)
 * [2023-08-05, 09:37:09](https://news.ycombinator.com/item?id=37010449) - [GitHub Actions and Vanity Metrics](https://jamesconroyfinn.com/github-actions-and-vanity-metrics)
 * [2023-08-05, 08:45:42](https://news.ycombinator.com/item?id=37010196) - [WASI: WebAssembly System Interface](https://github.com/WebAssembly/WASI)
 * [2023-08-05, 08:02:51](https://news.ycombinator.com/item?id=37009999) - [Korbut Flip](https://en.wikipedia.org/wiki/Korbut_flip)
