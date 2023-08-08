@@ -2,6 +2,7 @@
 
 * [2023-08-08, 03:27:02](https://news.ycombinator.com/item?id=37044168) - [Lacros on Chromebooks transition plan won’t be quick](https://www.aboutchromebooks.com/news/lacros-on-chromebooks-transition-plan-wont-be-quick/)
 * [2023-08-08, 02:59:24](https://news.ycombinator.com/item?id=37043973) - [Ubiquitous Superconducting Diode Effect in Superconductor Thin Films](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.027001)
+* [2023-08-08, 01:59:06](https://news.ycombinator.com/item?id=37043529) - [There Is No Housing Crisis](https://thewalrus.ca/there-is-no-housing-crisis/)
 * [2023-08-08, 01:46:55](https://news.ycombinator.com/item?id=37043447) - [Ferromagnetic half levitation of LK-99-like synthetic samples](https://arxiv.org/abs/2308.03110)
 * [2023-08-08, 01:12:23](https://news.ycombinator.com/item?id=37043196) - [Absence of superconductivity in LK-99 at ambient conditions](https://arxiv.org/abs/2308.03544)
 * [2023-08-08, 01:01:14](https://news.ycombinator.com/item?id=37043122) - [Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)](https://etleap.com/careers/software-engineer/)
@@ -22,7 +23,6 @@
 * [2023-08-07, 16:09:12](https://news.ycombinator.com/item?id=37036339) - [Traffic safety “nudges” can cause number of crashes to increase (2022)](https://www.science.org/doi/full/10.1126/science.abm3427)
 * [2023-08-07, 16:06:15](https://news.ycombinator.com/item?id=37036291) - [Kafka is dead, long live Kafka](https://www.warpstream.com/blog/kafka-is-dead-long-live-kafka)
 * [2023-08-07, 14:25:52](https://news.ycombinator.com/item?id=37034906) - [Sandy Bridge: Setting Intel’s modern foundation](https://chipsandcheese.com/2023/08/04/sandy-bridge-setting-intels-modern-foundation/)
-* [2023-08-07, 14:00:38](https://news.ycombinator.com/item?id=37034575) - [Show HN: Axilla – Open-source TypeScript framework for LLM apps](https://github.com/axilla-io/ax)
 * [2023-08-07, 12:54:18](https://news.ycombinator.com/item?id=37033753) - [Launch HN: GitStart (YC S19) – Remote junior devs working on production PRs](https://news.ycombinator.com/item?id=37033753)
 * [2023-08-07, 04:59:29](https://news.ycombinator.com/item?id=37030338) - [Theft of the Mona Lisa](https://www.pbs.org/treasuresoftheworld/a_nav/mona_nav/main_monafrm.html)
 * [2023-08-06, 21:05:12](https://news.ycombinator.com/item?id=37026757) - [Compiler Development: Rust or OCaml?](https://hirrolot.github.io/posts/compiler-development-rust-or-ocaml.html)
