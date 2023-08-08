@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-08, 18:41:32](https://news.ycombinator.com/item?id=37053601) - [ChatGPT now seems to be embedding ads in its responses](https://jacobw.xyz/projects/gpt_ads/)
+* [2023-08-08, 18:15:33](https://news.ycombinator.com/item?id=37053250) - [Kubernetes Exposed: One YAML Away from Disaster](https://blog.aquasec.com/kubernetes-exposed-one-yaml-away-from-disaster)
 * [2023-08-08, 17:57:13](https://news.ycombinator.com/item?id=37052979) - [Show HN: Agentflow – Run Complex LLM Workflows from Simple JSON](https://github.com/simonmesmith/agentflow)
 * [2023-08-08, 17:49:51](https://news.ycombinator.com/item?id=37052875) - [ChimeraOS: Instantly turn any PC into a gaming console](https://chimeraos.org/)
 * [2023-08-08, 17:46:07](https://news.ycombinator.com/item?id=37052831) - [Friendly Captcha – GDPR-Compliant Bot Protection](https://friendlycaptcha.com/)
@@ -27,8 +29,6 @@
 * [2023-08-08, 11:21:23](https://news.ycombinator.com/item?id=37047304) - [Magic Earth: OSM based map and routing with crowd sourced traffic data](https://www.magicearth.com/crowd-sourced-traffic/)
 * [2023-08-08, 10:48:20](https://news.ycombinator.com/item?id=37047053) - [TSMC, Bosch, Infineon, and NXP to build fab in Germany](https://pr.tsmc.com/english/news/3049)
 * [2023-08-07, 20:59:29](https://news.ycombinator.com/item?id=37040883) - [Typograms: A definition and renderer for ASCII diagrams](https://google.github.io/typograms/)
-* [2023-08-07, 14:06:19](https://news.ycombinator.com/item?id=37034626) - [Template for Impactful Ideas](https://tidyfirst.substack.com/p/idea-to-impact)
-* [2023-08-06, 23:08:54](https://news.ycombinator.com/item?id=37027909) - [Building Alex Taradov’s open-source USB sniffer](https://www.downtowndougbrown.com/2023/08/building-alex-taradovs-open-source-usb-sniffer/)
 * [2023-08-04, 19:19:17](https://news.ycombinator.com/item?id=37004567) - [Longest-lasting incandescent light bulbs](https://en.wikipedia.org/wiki/Longest-lasting_light_bulbs)
 
 ## [Archives](archives/index.md)

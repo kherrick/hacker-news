@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
+* [2023-08-08, 18:41:32](https://news.ycombinator.com/item?id=37053601) - [ChatGPT now seems to be embedding ads in its responses](https://jacobw.xyz/projects/gpt_ads/)
+* [2023-08-08, 18:15:33](https://news.ycombinator.com/item?id=37053250) - [Kubernetes Exposed: One YAML Away from Disaster](https://blog.aquasec.com/kubernetes-exposed-one-yaml-away-from-disaster)
 * [2023-08-08, 17:57:13](https://news.ycombinator.com/item?id=37052979) - [Show HN: Agentflow – Run Complex LLM Workflows from Simple JSON](https://github.com/simonmesmith/agentflow)
 * [2023-08-08, 17:49:51](https://news.ycombinator.com/item?id=37052875) - [ChimeraOS: Instantly turn any PC into a gaming console](https://chimeraos.org/)
 * [2023-08-08, 17:46:07](https://news.ycombinator.com/item?id=37052831) - [Friendly Captcha – GDPR-Compliant Bot Protection](https://friendlycaptcha.com/)
