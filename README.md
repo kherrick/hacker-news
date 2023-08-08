@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-08, 10:37:55](https://news.ycombinator.com/item?id=37046973) - [Terminal Support for Emoji](https://darrenburns.net/posts/emoji-in-the-terminal/)
 * [2023-08-08, 08:35:31](https://news.ycombinator.com/item?id=37046128) - [Mexico seeks to solidify rank as top U.S. trade partner, push further past China](https://www.dallasfed.org/research/economics/2023/0711)
 * [2023-08-08, 06:49:09](https://news.ycombinator.com/item?id=37045385) - [Jailer, a unique open-source database tool](https://github.com/Wisser/Jailer)
 * [2023-08-08, 06:19:45](https://news.ycombinator.com/item?id=37045185) - [Norway to fine Meta $98,500 a day over user privacy breach from 14 August](https://www.theguardian.com/technology/2023/aug/07/norway-meta-fine-user-privacy-breach-targeted-ads)
@@ -23,7 +24,6 @@
 * [2023-08-07, 12:06:21](https://news.ycombinator.com/item?id=37033307) - [Golay Code (2015)](https://blogs.ams.org/visualinsight/2015/12/01/golay-code/)
 * [2023-08-07, 09:41:46](https://news.ycombinator.com/item?id=37032286) - [The Alexander Piano](https://www.alexanderpiano.nz/page/the-alexander-piano)
 * [2023-08-07, 04:59:29](https://news.ycombinator.com/item?id=37030338) - [Theft of the Mona Lisa  (2000)](https://www.pbs.org/treasuresoftheworld/a_nav/mona_nav/main_monafrm.html)
-* [2023-08-07, 04:32:41](https://news.ycombinator.com/item?id=37030163) - [32by32 – Macintosh History from the 1980s](https://32by32.com/)
 * [2023-08-06, 23:08:54](https://news.ycombinator.com/item?id=37027909) - [Building Alex Taradov’s open-source USB sniffer](https://www.downtowndougbrown.com/2023/08/building-alex-taradovs-open-source-usb-sniffer/)
 * [2023-08-06, 07:42:25](https://news.ycombinator.com/item?id=37019791) - [The PC and Internet Revolution in Rural America](https://www.complete.org/the-pc-internet-revolution-in-rural-america/)
 * [2023-08-06, 06:05:14](https://news.ycombinator.com/item?id=37019396) - [Sheldon Brown's Bicycle Technical Info](https://www.sheldonbrown.com/)
