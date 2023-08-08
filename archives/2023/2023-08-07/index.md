@@ -63,6 +63,7 @@
 * [2023-08-07, 12:54:18](https://news.ycombinator.com/item?id=37033753) - [Launch HN: GitStart (YC S19) – Remote junior devs working on production PRs](https://news.ycombinator.com/item?id=37033753)
 * [2023-08-07, 12:49:49](https://news.ycombinator.com/item?id=37033702) - [The Santa Fe Time Series Prediction and Analysis Competition](https://www.santafe.edu/research/results/working-papers/the-future-of-time-series)
 * [2023-08-07, 12:45:26](https://news.ycombinator.com/item?id=37033652) - [Ask HN: What's the coolest physical thing you've made?](https://news.ycombinator.com/item?id=37033652)
+* [2023-08-07, 12:36:32](https://news.ycombinator.com/item?id=37033569) - [Las Vegas approves 68 miles of underground transportation tunnels](https://www.reviewjournal.com/local/traffic/las-vegas-approves-68-miles-of-underground-transportation-tunnels-2874498/)
 * [2023-08-07, 12:26:36](https://news.ycombinator.com/item?id=37033475) - [PSA: Intel Graphics Drivers Now Collect Telemetry by Default](https://www.techpowerup.com/312122/psa-intel-graphics-drivers-now-collect-telemetry-by-default)
 * [2023-08-07, 12:18:41](https://news.ycombinator.com/item?id=37033403) - [Some Tactics for Writing in Public](https://jvns.ca/blog/2023/08/07/tactics-for-writing-in-public/)
 * [2023-08-07, 12:18:11](https://news.ycombinator.com/item?id=37033398) - [Vocal minority sets online discourse, distorting real-life perception](https://www.fastcompany.com/90933474/taylor-swifts-eras-tour-is-a-reminder-that-social-media-is-not-real-life)

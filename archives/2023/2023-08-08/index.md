@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
+* [2023-08-08, 13:05:53](https://news.ycombinator.com/item?id=37048409) - [Show HN: Blueprint for a distributed multi-region IAM with Go and CockroachDB](https://www.ory.dev/global-identity-and-access-management-multi-region/)
 * [2023-08-08, 12:38:49](https://news.ycombinator.com/item?id=37048099) - [Navy in Middle-Earth](https://warfantasy.wordpress.com/2023/07/02/navy-in-middle-earth/)
+* [2023-08-08, 12:19:38](https://news.ycombinator.com/item?id=37047858) - [More Than Half of Earth's Species Live Underground](https://www.scientificamerican.com/article/more-than-half-of-earths-species-live-underground/)
+* [2023-08-08, 12:09:28](https://news.ycombinator.com/item?id=37047746) - [Web Scraping via JavaScript Runtime Heap Snapshots (2022)](https://www.adriancooney.ie/blog/web-scraping-via-javascript-heap-snapshots)
 * [2023-08-08, 11:40:59](https://news.ycombinator.com/item?id=37047462) - [Vector Similarity Beyond Search](https://qdrant.tech/articles/vector-similarity-beyond-search/)
 * [2023-08-08, 11:33:42](https://news.ycombinator.com/item?id=37047402) - [Show HN: Knit – A Better LLM Playground](https://promptknit.com)
 * [2023-08-08, 11:21:23](https://news.ycombinator.com/item?id=37047304) - [Magic Earth: OSM based map and routing with crowd sourced traffic data](https://www.magicearth.com/crowd-sourced-traffic/)
