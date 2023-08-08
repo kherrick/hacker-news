@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
+* [2023-08-08, 10:48:20](https://news.ycombinator.com/item?id=37047053) - [TSMC, Bosch, Infineon, and NXP to build fab in Germany](https://pr.tsmc.com/english/news/3049)
+* [2023-08-08, 10:40:32](https://news.ycombinator.com/item?id=37046993) - [“we now believe that the game is over. LK99 is NOT a superconductor”](https://twitter.com/condensed_the/status/1688747919866814464)
 * [2023-08-08, 10:38:00](https://news.ycombinator.com/item?id=37046974) - [A Creepy Question We'll All Have to Answer Soon](https://jasonpargin.substack.com/p/a-creepy-question-well-all-have-to)
 * [2023-08-08, 10:37:55](https://news.ycombinator.com/item?id=37046973) - [Terminal Support for Emoji](https://darrenburns.net/posts/emoji-in-the-terminal/)
 * [2023-08-08, 09:22:47](https://news.ycombinator.com/item?id=37046448) - [Can Toilet Paper Cause Impotence?](https://spy.com/articles/grooming/hygiene/toilet-paper-forever-chemicals-1202971286/)
