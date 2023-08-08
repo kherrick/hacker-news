@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-08, 15:15:31](https://news.ycombinator.com/item?id=37050257) - [GPT-4 Can't Reason](https://www.preprints.org/manuscript/202308.0148/v1)
+* [2023-08-08, 15:11:47](https://news.ycombinator.com/item?id=37050191) - [Svelte 5 is going to be radical](https://twitter.com/Rich_Harris/status/1688581184018583558)
 * [2023-08-08, 15:06:21](https://news.ycombinator.com/item?id=37050089) - [Homo sapiens declared extinct (1999)](https://bruces.medium.com/homo-sapiens-declared-extinct-by-bruce-sterling-1999-cc8b0f94b195)
 * [2023-08-08, 15:03:16](https://news.ycombinator.com/item?id=37050035) - [EFF denounces Google's WEI proposal](https://www.eff.org/deeplinks/2023/08/your-computer-should-say-what-you-tell-it-say-1)
 * [2023-08-08, 14:47:52](https://news.ycombinator.com/item?id=37049786) - [Italy approves 40% windfall tax on banks for 2023 as profits soar](https://www.theguardian.com/world/2023/aug/08/italy-approves-40-windfall-tax-on-banks-for-2023-as-profits-soar)
@@ -22,8 +24,6 @@
 * [2023-08-08, 04:49:15](https://news.ycombinator.com/item?id=37044625) - [Run Firefox on ChromeOS](https://support.mozilla.org/en-US/kb/run-firefox-chromeos)
 * [2023-08-08, 04:40:34](https://news.ycombinator.com/item?id=37044567) - [All that glitters is not gold – emulating luxury in the ancient Greek world](https://www.britishmuseum.org/blog/all-glitters-not-gold-emulating-luxury-ancient-greek-world)
 * [2023-08-08, 02:55:22](https://news.ycombinator.com/item?id=37043934) - [Noclip.website: A digital museum of video game levels](https://noclip.website)
-* [2023-08-08, 01:46:55](https://news.ycombinator.com/item?id=37043447) - [Ferromagnetic half levitation of LK-99-like synthetic samples](https://arxiv.org/abs/2308.03110)
-* [2023-08-08, 01:01:14](https://news.ycombinator.com/item?id=37043122) - [Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)](https://etleap.com/careers/software-engineer/)
 * [2023-08-07, 20:59:29](https://news.ycombinator.com/item?id=37040883) - [Typograms: A definition and renderer for ASCII diagrams](https://google.github.io/typograms/)
 * [2023-08-07, 14:06:19](https://news.ycombinator.com/item?id=37034626) - [Template for Impactful Ideas](https://tidyfirst.substack.com/p/idea-to-impact)
 * [2023-08-07, 09:41:46](https://news.ycombinator.com/item?id=37032286) - [The Alexander Piano](https://www.alexanderpiano.nz/page/the-alexander-piano)
