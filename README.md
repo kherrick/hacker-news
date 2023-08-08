@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-08, 13:35:10](https://news.ycombinator.com/item?id=37048758) - [Launch HN: Stellar Sleep (YC S23) – An app that helps people with insomnia](https://news.ycombinator.com/item?id=37048758)
 * [2023-08-08, 13:32:42](https://news.ycombinator.com/item?id=37048722) - [Rest in peace Bram Moolenaar, author of Vim](https://arstechnica.com/gadgets/2023/08/bram-moolenaar-creator-of-the-beloved-vim-text-editor-has-passed-away/)
 * [2023-08-08, 13:25:52](https://news.ycombinator.com/item?id=37048637) - [Amazon Doesn't 'Employ' Drivers, but Hired Firms to Prevent Them from Unionizing](https://www.vice.com/en/article/qjv3yp/amazon-says-it-doesnt-employ-drivers-but-records-show-it-hired-firms-to-prevent-them-from-unionizing)
 * [2023-08-08, 13:05:53](https://news.ycombinator.com/item?id=37048409) - [Blueprint for a distributed multi-region IAM with Go and CockroachDB](https://www.ory.dev/global-identity-and-access-management-multi-region/)
@@ -10,7 +11,6 @@
 * [2023-08-08, 11:21:23](https://news.ycombinator.com/item?id=37047304) - [Magic Earth: OSM based map and routing with crowd sourced traffic data](https://www.magicearth.com/crowd-sourced-traffic/)
 * [2023-08-08, 10:48:20](https://news.ycombinator.com/item?id=37047053) - [TSMC, Bosch, Infineon, and NXP to build fab in Germany](https://pr.tsmc.com/english/news/3049)
 * [2023-08-08, 08:35:31](https://news.ycombinator.com/item?id=37046128) - [Mexico seeks to solidify rank as top U.S. trade partner, push further past China](https://www.dallasfed.org/research/economics/2023/0711)
-* [2023-08-08, 06:49:09](https://news.ycombinator.com/item?id=37045385) - [Jailer, a unique open-source database tool](https://github.com/Wisser/Jailer)
 * [2023-08-08, 05:21:29](https://news.ycombinator.com/item?id=37044820) - [Monitoring your logs is mostly a tarpit](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LogMonitoringTarpit)
 * [2023-08-08, 04:56:35](https://news.ycombinator.com/item?id=37044673) - [Richard Scarry Collection: Archive.org](https://archive.org/search?query=Richard+Scarry&and%5B%5D=subject%3A%22Richard+Scarry%22)
 * [2023-08-08, 04:49:15](https://news.ycombinator.com/item?id=37044625) - [Run Firefox on ChromeOS](https://support.mozilla.org/en-US/kb/run-firefox-chromeos)
