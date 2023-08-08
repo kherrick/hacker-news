@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
+* [2023-08-08, 19:53:49](https://news.ycombinator.com/item?id=37054603) - [See where your house was 66M years ago](https://dinosaurpictures.org/ancient-earth#66)
+* [2023-08-08, 19:47:40](https://news.ycombinator.com/item?id=37054533) - [The Microcontroller That Just Won’t Die](https://www.eejournal.com/article/the-microcontroller-that-just-wont-die/)
 * [2023-08-08, 19:36:36](https://news.ycombinator.com/item?id=37054374) - [Show HN: Easyful – A Free Gumroad Alternative](https://www.easyful.com/)
+* [2023-08-08, 19:35:48](https://news.ycombinator.com/item?id=37054361) - [Low-cost Smartwatch powered by ESP32 module](https://linuxgizmos.com/low-cost-smartwatch-powered-by-esp32-s3-module/)
 * [2023-08-08, 19:27:19](https://news.ycombinator.com/item?id=37054241) - [What happened in this GPT-3 conversation?](https://chat.openai.com/share/f5341665-7f08-4fca-9639-04201363506e)
 * [2023-08-08, 18:48:40](https://news.ycombinator.com/item?id=37053694) - [Us Electric grid history and overview](https://blog.chaselambda.com/2023/03/25/us-electric-grid-history-and-overview.html)
 * [2023-08-08, 18:41:32](https://news.ycombinator.com/item?id=37053601) - [ChatGPT now seems to be embedding ads in its responses](https://jacobw.xyz/projects/gpt_ads/)
@@ -13,6 +16,7 @@
 * [2023-08-08, 17:57:13](https://news.ycombinator.com/item?id=37052979) - [Show HN: Agentflow – Run Complex LLM Workflows from Simple JSON](https://github.com/simonmesmith/agentflow)
 * [2023-08-08, 17:49:51](https://news.ycombinator.com/item?id=37052875) - [ChimeraOS: Instantly turn any PC into a gaming console](https://chimeraos.org/)
 * [2023-08-08, 17:46:07](https://news.ycombinator.com/item?id=37052831) - [Friendly Captcha – GDPR-Compliant Bot Protection](https://friendlycaptcha.com/)
+* [2023-08-08, 17:36:25](https://news.ycombinator.com/item?id=37052710) - [Life Has Been Found Beneath Hydrothermal Vents for the First Time](https://www.iflscience.com/life-has-been-found-beneath-hydrothermal-vents-for-the-first-time-70178)
 * [2023-08-08, 17:35:03](https://news.ycombinator.com/item?id=37052694) - [Project IDX, an Experiment to Improve Full-Stack, Multiplatform App Development](https://developers.googleblog.com/2023/08/introducing-project-idx-experiment-to-improve-full-stack-multiplatform-app-development.html)
 * [2023-08-08, 17:33:38](https://news.ycombinator.com/item?id=37052671) - [Project IDX](https://idx.dev/)
 * [2023-08-08, 17:30:09](https://news.ycombinator.com/item?id=37052622) - [LCD, Please – de-make of “Papers, please”, celebrating 10 years since launch](https://dukope.itch.io/lcd-please)
