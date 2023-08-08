@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
+* [2023-08-08, 13:32:42](https://news.ycombinator.com/item?id=37048722) - [Rest in peace Bram Moolenaar, author of Vim](https://arstechnica.com/gadgets/2023/08/bram-moolenaar-creator-of-the-beloved-vim-text-editor-has-passed-away/)
+* [2023-08-08, 13:25:52](https://news.ycombinator.com/item?id=37048637) - [Amazon Doesn't 'Employ' Drivers, but Hired Firms to Prevent Them from Unionizing](https://www.vice.com/en/article/qjv3yp/amazon-says-it-doesnt-employ-drivers-but-records-show-it-hired-firms-to-prevent-them-from-unionizing)
 * [2023-08-08, 13:05:53](https://news.ycombinator.com/item?id=37048409) - [Show HN: Blueprint for a distributed multi-region IAM with Go and CockroachDB](https://www.ory.dev/global-identity-and-access-management-multi-region/)
+* [2023-08-08, 12:55:47](https://news.ycombinator.com/item?id=37048299) - [Effect of Breakfast Skipping and Late Night Eating on BMI with Type 2 Diabetes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8299536/)
 * [2023-08-08, 12:38:49](https://news.ycombinator.com/item?id=37048099) - [Navy in Middle-Earth](https://warfantasy.wordpress.com/2023/07/02/navy-in-middle-earth/)
 * [2023-08-08, 12:19:38](https://news.ycombinator.com/item?id=37047858) - [More Than Half of Earth's Species Live Underground](https://www.scientificamerican.com/article/more-than-half-of-earths-species-live-underground/)
 * [2023-08-08, 12:09:28](https://news.ycombinator.com/item?id=37047746) - [Web Scraping via JavaScript Runtime Heap Snapshots (2022)](https://www.adriancooney.ie/blog/web-scraping-via-javascript-heap-snapshots)
