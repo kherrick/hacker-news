@@ -2,6 +2,7 @@
 
 * [2023-08-08, 04:49:15](https://news.ycombinator.com/item?id=37044625) - [Run Firefox on ChromeOS](https://support.mozilla.org/en-US/kb/run-firefox-chromeos)
 * [2023-08-08, 03:27:02](https://news.ycombinator.com/item?id=37044168) - [Lacros on Chromebooks transition plan won’t be quick](https://www.aboutchromebooks.com/news/lacros-on-chromebooks-transition-plan-wont-be-quick/)
+* [2023-08-08, 02:59:24](https://news.ycombinator.com/item?id=37043973) - [Ubiquitous Superconducting Diode Effect in Superconductor Thin Films](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.027001)
 * [2023-08-08, 02:55:22](https://news.ycombinator.com/item?id=37043934) - [Noclip.website: A digital museum of video game levels](https://noclip.website)
 * [2023-08-08, 01:46:55](https://news.ycombinator.com/item?id=37043447) - [Ferromagnetic half levitation of LK-99-like synthetic samples](https://arxiv.org/abs/2308.03110)
 * [2023-08-08, 01:01:14](https://news.ycombinator.com/item?id=37043122) - [Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)](https://etleap.com/careers/software-engineer/)
@@ -29,7 +30,6 @@
 * [2023-08-06, 07:57:48](https://news.ycombinator.com/item?id=37019862) - [The year of Linux On Desktop^WMobile [video]](https://media.ccc.de/v/froscon2023-2950-the_year_of_linux_on_desktop_wmobile)
 * [2023-08-06, 06:05:14](https://news.ycombinator.com/item?id=37019396) - [Sheldon Brown's Bicycle Technical Info](https://www.sheldonbrown.com/)
 * [2023-08-05, 12:18:16](https://news.ycombinator.com/item?id=37011282) - [Jim Keller and his pioneering work on chip design and architecture](https://www.edn.com/the-story-of-jim-keller-and-his-pioneering-work-on-chip-design-and-architecture/)
-* [2023-08-05, 09:42:32](https://news.ycombinator.com/item?id=37010471) - [The Real Question Behind 'What Do You Want?'](https://lopespm.com/notes/2023/08/05/real_question_behind_what_you_want.html)
 
 ## [Archives](archives/index.md)
 
