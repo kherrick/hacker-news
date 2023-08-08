@@ -6,6 +6,7 @@
 
 * [2023-08-08, 21:07:44](https://news.ycombinator.com/item?id=37055479) - [Android 14 introduces first-of-its-kind cellular connectivity security features](https://security.googleblog.com/2023/08/android-14-introduces-first-of-its-kind.html)
 * [2023-08-08, 21:00:54](https://news.ycombinator.com/item?id=37055391) - [Aviator (YC S21) is hiring engineers to build dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)
+* [2023-08-08, 20:59:18](https://news.ycombinator.com/item?id=37055368) - [PackagingCon – a conference only for software package management](https://packaging-con.org)
 * [2023-08-08, 20:51:20](https://news.ycombinator.com/item?id=37055280) - [The Last 1%](https://jaredramsey.com/blog/20230808.html)
 * [2023-08-08, 20:50:25](https://news.ycombinator.com/item?id=37055263) - [Panama Canal Draught Restrictions Spark Liner Surcharges](https://gcaptain.com/panama-canal-draught-restrictions-spark-liner-surcharges/)
 * [2023-08-08, 20:14:01](https://news.ycombinator.com/item?id=37054862) - [Milk Sad: Weak Entropy in libbitcoin (bc) seed generation](https://milksad.info/)
@@ -31,6 +32,7 @@
 * [2023-08-08, 17:23:00](https://news.ycombinator.com/item?id=37052508) - [Uninstall the NightOwl macOS app now](https://robins.one/notes/uninstall-the-nightowl-app-now.html)
 * [2023-08-08, 17:05:18](https://news.ycombinator.com/item?id=37052218) - [Why not tax private jets out of business?](https://www.pressherald.com/2023/08/08/commentary-why-not-tax-private-jets-out-of-business/)
 * [2023-08-08, 17:00:51](https://news.ycombinator.com/item?id=37052137) - [SnapEDA (YC S15) is hiring AI lead for electronics copilot in Bay Area](https://careers.snapeda.com/o/engineering-lead-ai)
+* [2023-08-08, 16:49:13](https://news.ycombinator.com/item?id=37051909) - [Mars Keeps Spinning Faster, and Scientists Don't Know Why](https://www.nature.com/articles/s41586-023-06150-0)
 * [2023-08-08, 16:20:33](https://news.ycombinator.com/item?id=37051423) - [Inception: A simple XOR can cause a Microarchitectural Stack Overflow](https://comsec.ethz.ch/research/microarch/inception/)
 * [2023-08-08, 16:07:11](https://news.ycombinator.com/item?id=37051206) - [Inception: Leaking the root hash from /etc./shadow on AMD Zen 4 [video]](https://www.youtube.com/watch?v=2wCjU8iJ9G4)
 * [2023-08-08, 16:02:06](https://news.ycombinator.com/item?id=37051111) - [Go 1.21 Is Released](https://go.dev/blog/go1.21)
