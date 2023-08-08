@@ -24,12 +24,12 @@
 * [2023-08-07, 16:06:15](https://news.ycombinator.com/item?id=37036291) - [Kafka is dead, long live Kafka](https://www.warpstream.com/blog/kafka-is-dead-long-live-kafka)
 * [2023-08-07, 12:54:18](https://news.ycombinator.com/item?id=37033753) - [Launch HN: GitStart (YC S19) – Remote junior devs working on production PRs](https://news.ycombinator.com/item?id=37033753)
 * [2023-08-07, 09:41:46](https://news.ycombinator.com/item?id=37032286) - [The Alexander Piano](https://www.alexanderpiano.nz/page/the-alexander-piano)
+* [2023-08-07, 06:07:32](https://news.ycombinator.com/item?id=37030743) - [The Importance of Being a Code Reviewer](https://medium.com/expedia-group-tech/the-importance-of-being-a-code-reviewer-fdbd910fbce7)
 * [2023-08-07, 04:59:29](https://news.ycombinator.com/item?id=37030338) - [Theft of the Mona Lisa  (2000)](https://www.pbs.org/treasuresoftheworld/a_nav/mona_nav/main_monafrm.html)
 * [2023-08-06, 21:05:12](https://news.ycombinator.com/item?id=37026757) - [Compiler Development: Rust or OCaml?](https://hirrolot.github.io/posts/compiler-development-rust-or-ocaml.html)
 * [2023-08-06, 07:57:48](https://news.ycombinator.com/item?id=37019862) - [The year of Linux On Desktop^WMobile [video]](https://media.ccc.de/v/froscon2023-2950-the_year_of_linux_on_desktop_wmobile)
 * [2023-08-06, 06:05:14](https://news.ycombinator.com/item?id=37019396) - [Sheldon Brown's Bicycle Technical Info](https://www.sheldonbrown.com/)
 * [2023-08-05, 12:18:16](https://news.ycombinator.com/item?id=37011282) - [Jim Keller and his pioneering work on chip design and architecture](https://www.edn.com/the-story-of-jim-keller-and-his-pioneering-work-on-chip-design-and-architecture/)
-* [2023-08-05, 09:42:32](https://news.ycombinator.com/item?id=37010471) - [The Real Question Behind 'What Do You Want?'](https://lopespm.com/notes/2023/08/05/real_question_behind_what_you_want.html)
 
 ## [Archives](archives/index.md)
 

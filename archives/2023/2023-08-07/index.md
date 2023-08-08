@@ -77,6 +77,7 @@
 * [2023-08-07, 07:38:22](https://news.ycombinator.com/item?id=37031451) - [Nvidia's CUDA Monopoly](https://matt-rickard.com/nvidias-cuda-monopoly)
 * [2023-08-07, 07:17:04](https://news.ycombinator.com/item?id=37031286) - [EurKEY: The European Keyboard Layout – For Europeans, Coders and Translators](https://eurkey.steffen.bruentjen.eu/)
 * [2023-08-07, 06:21:25](https://news.ycombinator.com/item?id=37030863) - [Devote Yourself to the Cause of Your Life](https://every.to/napkin-math/devote-yourself-to-the-cause-of-your-life)
+* [2023-08-07, 06:07:32](https://news.ycombinator.com/item?id=37030743) - [The Importance of Being a Code Reviewer](https://medium.com/expedia-group-tech/the-importance-of-being-a-code-reviewer-fdbd910fbce7)
 * [2023-08-07, 05:39:06](https://news.ycombinator.com/item?id=37030568) - [GPTBot – OpenAI’s Web Crawler](https://platform.openai.com/docs/gptbot)
 * [2023-08-07, 05:25:36](https://news.ycombinator.com/item?id=37030481) - [British gas starts to turn off Hive smart home devices forever](https://www.t3.com/news/british-gas-starts-to-turn-off-hive-smart-home-devices-forever)
 * [2023-08-07, 05:00:26](https://news.ycombinator.com/item?id=37030346) - [Isn’t London Hell?](https://www.lrb.co.uk/the-paper/v45/n16/seamus-perry/isn-t-london-hell)
