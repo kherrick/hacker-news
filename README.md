@@ -2,11 +2,11 @@
 
 * [2023-08-08, 21:57:10](https://news.ycombinator.com/item?id=37055989) - [Unity Weta Tools](https://unity.com/solutions/unity-weta-tools)
 * [2023-08-08, 21:11:30](https://news.ycombinator.com/item?id=37055514) - [LK-99: Phonon Bands, Localized Flat Band Magnetism, Models, & Chemical Analysis](https://drive.google.com/file/d/1ekD2KVV_SUid2wH__o1ODS3hTl1GUFb5/view)
-* [2023-08-08, 21:07:44](https://news.ycombinator.com/item?id=37055479) - [Android 14 introduces first-of-its-kind cellular connectivity security features](https://security.googleblog.com/2023/08/android-14-introduces-first-of-its-kind.html)
+* [2023-08-08, 21:07:44](https://news.ycombinator.com/item?id=37055479) - [Android 14 introduces cellular connectivity security features](https://security.googleblog.com/2023/08/android-14-introduces-first-of-its-kind.html)
 * [2023-08-08, 21:00:54](https://news.ycombinator.com/item?id=37055391) - [Aviator (YC S21) is hiring engineers to build dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)
 * [2023-08-08, 20:59:18](https://news.ycombinator.com/item?id=37055368) - [PackagingCon – a conference only for software package management](https://packaging-con.org)
 * [2023-08-08, 20:51:20](https://news.ycombinator.com/item?id=37055280) - [The Last 1%](https://jaredramsey.com/blog/20230808.html)
-* [2023-08-08, 20:50:25](https://news.ycombinator.com/item?id=37055263) - [Panama Canal Draught Restrictions Spark Liner Surcharges](https://gcaptain.com/panama-canal-draught-restrictions-spark-liner-surcharges/)
+* [2023-08-08, 20:50:25](https://news.ycombinator.com/item?id=37055263) - [Panama Canal draught restrictions spark liner surcharges](https://gcaptain.com/panama-canal-draught-restrictions-spark-liner-surcharges/)
 * [2023-08-08, 20:45:14](https://news.ycombinator.com/item?id=37055210) - [FDA Approves First Oral Treatment for Postpartum Depression](https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-treatment-postpartum-depression)
 * [2023-08-08, 20:14:01](https://news.ycombinator.com/item?id=37054862) - [Milk Sad: Weak Entropy in libbitcoin (bc) seed generation](https://milksad.info/)
 * [2023-08-08, 19:59:58](https://news.ycombinator.com/item?id=37054670) - [mCaptcha: Open-source proof-of-work captcha for websites](https://mcaptcha.org/)
