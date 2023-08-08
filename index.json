@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-08-08, 08:35:31",
+      "https://news.ycombinator.com/item?id=37046128"
+    ],
+    [
+      "Mexico seeks to solidify rank as top U.S. trade partner, push further past China",
+      "https://www.dallasfed.org/research/economics/2023/0711"
+    ]
+  ],
+  [
+    [
       "2023-08-08, 08:30:46",
       "https://news.ycombinator.com/item?id=37046107"
     ],
     [
       "UK man bitten by cat contracts unknown and ‘extensive’ bacterial infection",
       "https://www.independent.co.uk/news/science/cat-bite-nhs-infection-b2389244.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-08, 06:49:09",
+      "https://news.ycombinator.com/item?id=37045385"
+    ],
+    [
+      "Jailer, a unique open-source database tool",
+      "https://github.com/Wisser/Jailer"
     ]
   ],
   [
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2023-08-07, 18:50:19",
-      "https://news.ycombinator.com/item?id=37038908"
-    ],
-    [
-      "Open-source canvas drawing web app, built using React",
-      "https://github.com/diogocapela/flatdraw"
-    ]
-  ],
-  [
-    [
       "2023-08-07, 16:59:00",
       "https://news.ycombinator.com/item?id=37037196"
     ],
     [
       "How Zoom’s terms of service and practices apply to AI features",
       "https://blog.zoom.us/zooms-term-service-ai/"
-    ]
-  ],
-  [
-    [
-      "2023-08-07, 16:38:17",
-      "https://news.ycombinator.com/item?id=37036851"
-    ],
-    [
-      "Gnu/Hurd strikes back: How to use the legendary OS in a (somewhat) practical way",
-      "https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-08-07, 06:07:32",
-      "https://news.ycombinator.com/item?id=37030743"
-    ],
-    [
-      "The Importance of Being a Code Reviewer",
-      "https://medium.com/expedia-group-tech/the-importance-of-being-a-code-reviewer-fdbd910fbce7"
-    ]
-  ],
-  [
-    [
       "2023-08-07, 04:59:29",
       "https://news.ycombinator.com/item?id=37030338"
     ],
@@ -247,6 +237,16 @@
     [
       "32by32 – Macintosh History from the 1980s",
       "https://32by32.com/"
+    ]
+  ],
+  [
+    [
+      "2023-08-06, 23:08:54",
+      "https://news.ycombinator.com/item?id=37027909"
+    ],
+    [
+      "Building Alex Taradov’s open-source USB sniffer",
+      "https://www.downtowndougbrown.com/2023/08/building-alex-taradovs-open-source-usb-sniffer/"
     ]
   ],
   [
