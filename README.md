@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-08, 13:41:03](https://news.ycombinator.com/item?id=37048825) - [How real is America’s chipmaking renaissance?](https://www.economist.com/business/2023/08/07/how-real-is-americas-chipmaking-renaissance)
 * [2023-08-08, 13:35:10](https://news.ycombinator.com/item?id=37048758) - [Launch HN: Stellar Sleep (YC S23) – An app that helps people with insomnia](https://news.ycombinator.com/item?id=37048758)
 * [2023-08-08, 13:32:42](https://news.ycombinator.com/item?id=37048722) - [Rest in peace Bram Moolenaar, author of Vim](https://arstechnica.com/gadgets/2023/08/bram-moolenaar-creator-of-the-beloved-vim-text-editor-has-passed-away/)
 * [2023-08-08, 13:25:52](https://news.ycombinator.com/item?id=37048637) - [Amazon Doesn't 'Employ' Drivers, but Hired Firms to Prevent Them from Unionizing](https://www.vice.com/en/article/qjv3yp/amazon-says-it-doesnt-employ-drivers-but-records-show-it-hired-firms-to-prevent-them-from-unionizing)
@@ -23,7 +24,6 @@
 * [2023-08-07, 20:59:29](https://news.ycombinator.com/item?id=37040883) - [Typograms: A definition and renderer for ASCII diagrams](https://google.github.io/typograms/)
 * [2023-08-07, 20:42:48](https://news.ycombinator.com/item?id=37040681) - [Raku: A language for gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/)
 * [2023-08-07, 12:54:18](https://news.ycombinator.com/item?id=37033753) - [Launch HN: GitStart (YC S19) – Remote junior devs working on production PRs](https://news.ycombinator.com/item?id=37033753)
-* [2023-08-07, 12:36:32](https://news.ycombinator.com/item?id=37033569) - [Las Vegas approves 68 miles of underground transportation tunnels](https://www.reviewjournal.com/local/traffic/las-vegas-approves-68-miles-of-underground-transportation-tunnels-2874498/)
 * [2023-08-07, 09:41:46](https://news.ycombinator.com/item?id=37032286) - [The Alexander Piano](https://www.alexanderpiano.nz/page/the-alexander-piano)
 * [2023-08-07, 04:59:29](https://news.ycombinator.com/item?id=37030338) - [Theft of the Mona Lisa  (2000)](https://www.pbs.org/treasuresoftheworld/a_nav/mona_nav/main_monafrm.html)
 * [2023-08-06, 23:08:54](https://news.ycombinator.com/item?id=37027909) - [Building Alex Taradov’s open-source USB sniffer](https://www.downtowndougbrown.com/2023/08/building-alex-taradovs-open-source-usb-sniffer/)
