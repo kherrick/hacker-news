@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-08, 21:57:10](https://news.ycombinator.com/item?id=37055989) - [Unity Weta Tools](https://unity.com/solutions/unity-weta-tools)
+* [2023-08-08, 21:11:30](https://news.ycombinator.com/item?id=37055514) - [LK-99: Phonon Bands, Localized Flat Band Magnetism, Models, & Chemical Analysis](https://drive.google.com/file/d/1ekD2KVV_SUid2wH__o1ODS3hTl1GUFb5/view)
 * [2023-08-08, 21:07:44](https://news.ycombinator.com/item?id=37055479) - [Android 14 introduces first-of-its-kind cellular connectivity security features](https://security.googleblog.com/2023/08/android-14-introduces-first-of-its-kind.html)
 * [2023-08-08, 21:00:54](https://news.ycombinator.com/item?id=37055391) - [Aviator (YC S21) is hiring engineers to build dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)
 * [2023-08-08, 20:59:18](https://news.ycombinator.com/item?id=37055368) - [PackagingCon – a conference only for software package management](https://packaging-con.org)
@@ -25,7 +26,6 @@
 * [2023-08-08, 16:20:33](https://news.ycombinator.com/item?id=37051423) - [Inception: A simple XOR can cause a Microarchitectural Stack Overflow](https://comsec.ethz.ch/research/microarch/inception/)
 * [2023-08-08, 15:32:13](https://news.ycombinator.com/item?id=37050532) - [Show HN: Chat with your data using LangChain, Pinecone, and Airbyte](https://airbyte.com/tutorials/chat-with-your-data-using-openai-pinecone-airbyte-and-langchain)
 * [2023-08-08, 15:25:55](https://news.ycombinator.com/item?id=37050409) - [StableCode](https://stability.ai/blog/stablecode-llm-generative-ai-coding)
-* [2023-08-08, 15:23:13](https://news.ycombinator.com/item?id=37050368) - [Dark microbiome in Atacama fossil delta unveils Mars life detection limits](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9944251/)
 * [2023-08-08, 15:06:21](https://news.ycombinator.com/item?id=37050089) - [Homo sapiens declared extinct (1999)](https://bruces.medium.com/homo-sapiens-declared-extinct-by-bruce-sterling-1999-cc8b0f94b195)
 * [2023-08-08, 13:35:10](https://news.ycombinator.com/item?id=37048758) - [Launch HN: Stellar Sleep (YC S23) – An app that helps people with insomnia](https://news.ycombinator.com/item?id=37048758)
 * [2023-08-08, 12:09:28](https://news.ycombinator.com/item?id=37047746) - [Web Scraping via JavaScript Runtime Heap Snapshots (2022)](https://www.adriancooney.ie/blog/web-scraping-via-javascript-heap-snapshots)
