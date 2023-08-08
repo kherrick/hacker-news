@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-08-08, 17:49:51",
+      "https://news.ycombinator.com/item?id=37052875"
+    ],
+    [
+      "ChimeraOS: Instantly turn any PC into a gaming console",
+      "https://chimeraos.org/"
+    ]
+  ],
+  [
+    [
       "2023-08-08, 17:35:03",
       "https://news.ycombinator.com/item?id=37052694"
     ],
     [
       "Project IDX, an Experiment to Improve Full-Stack, Multiplatform App Development",
       "https://developers.googleblog.com/2023/08/introducing-project-idx-experiment-to-improve-full-stack-multiplatform-app-development.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-08, 17:33:38",
+      "https://news.ycombinator.com/item?id=37052671"
+    ],
+    [
+      "Project IDX",
+      "https://idx.dev/"
     ]
   ],
   [
@@ -41,22 +61,42 @@
   ],
   [
     [
-      "2023-08-08, 17:05:18",
-      "https://news.ycombinator.com/item?id=37052218"
-    ],
-    [
-      "Why not tax private jets out of business?",
-      "https://www.pressherald.com/2023/08/08/commentary-why-not-tax-private-jets-out-of-business/"
-    ]
-  ],
-  [
-    [
       "2023-08-08, 17:00:51",
       "https://news.ycombinator.com/item?id=37052137"
     ],
     [
       "SnapEDA (YC S15) is hiring AI lead for electronics copilot in Bay Area",
       "https://careers.snapeda.com/o/engineering-lead-ai"
+    ]
+  ],
+  [
+    [
+      "2023-08-08, 16:20:33",
+      "https://news.ycombinator.com/item?id=37051423"
+    ],
+    [
+      "Inception: A simple XOR can cause a Microarchitectural Stack Overflow",
+      "https://comsec.ethz.ch/research/microarch/inception/"
+    ]
+  ],
+  [
+    [
+      "2023-08-08, 16:02:06",
+      "https://news.ycombinator.com/item?id=37051111"
+    ],
+    [
+      "Go 1.21 Is Released",
+      "https://go.dev/blog/go1.21"
+    ]
+  ],
+  [
+    [
+      "2023-08-08, 15:53:51",
+      "https://news.ycombinator.com/item?id=37050960"
+    ],
+    [
+      "Do you avoid the news? You’re in growing company",
+      "https://www.washingtonpost.com/media/2023/08/01/news-avoid-depressing/"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2023-08-08, 14:39:29",
-      "https://news.ycombinator.com/item?id=37049662"
-    ],
-    [
-      "What Comes After Zoom? (2020)",
-      "https://www.ben-evans.com/benedictevans/2020/6/22/zoom-and-the-next-video"
-    ]
-  ],
-  [
-    [
       "2023-08-08, 14:09:12",
       "https://news.ycombinator.com/item?id=37049198"
     ],
@@ -175,7 +205,7 @@
       "https://news.ycombinator.com/item?id=37048938"
     ],
     [
-      "Banks Hit with Millions in Fines for Using Signal and WhatsApp",
+      "Banks hit with millions in fines for using Signal and WhatsApp",
       "https://www.cnbc.com/2023/08/08/regulators-hit-wall-street-banks-with-549-million-in-penalties-for-record-keeping-failures-.html"
     ]
   ],
@@ -197,16 +227,6 @@
     [
       "Launch HN: Stellar Sleep (YC S23) – An app that helps people with insomnia",
       "https://news.ycombinator.com/item?id=37048758"
-    ]
-  ],
-  [
-    [
-      "2023-08-08, 13:25:52",
-      "https://news.ycombinator.com/item?id=37048637"
-    ],
-    [
-      "Amazon Doesn't 'Employ' Drivers, but Hired Firms to Prevent Them from Unionizing",
-      "https://www.vice.com/en/article/qjv3yp/amazon-says-it-doesnt-employ-drivers-but-records-show-it-hired-firms-to-prevent-them-from-unionizing"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2023-08-08, 02:55:22",
-      "https://news.ycombinator.com/item?id=37043934"
-    ],
-    [
-      "Noclip.website: A digital museum of video game levels",
-      "https://noclip.website"
-    ]
-  ],
-  [
-    [
       "2023-08-07, 20:59:29",
       "https://news.ycombinator.com/item?id=37040883"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2023-08-06, 23:08:54",
-      "https://news.ycombinator.com/item?id=37027909"
+      "2023-08-04, 19:19:17",
+      "https://news.ycombinator.com/item?id=37004567"
     ],
     [
-      "Building Alex Taradov’s open-source USB sniffer",
-      "https://www.downtowndougbrown.com/2023/08/building-alex-taradovs-open-source-usb-sniffer/"
-    ]
-  ],
-  [
-    [
-      "2023-08-06, 06:05:14",
-      "https://news.ycombinator.com/item?id=37019396"
-    ],
-    [
-      "Sheldon Brown's Bicycle Technical Info",
-      "https://www.sheldonbrown.com/"
+      "Longest-lasting incandescent light bulbs",
+      "https://en.wikipedia.org/wiki/Longest-lasting_light_bulbs"
     ]
   ]
 ]
