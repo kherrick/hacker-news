@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
+* [2023-08-08, 15:03:16](https://news.ycombinator.com/item?id=37050035) - [EFF denounces Google's WEI proposal](https://www.eff.org/deeplinks/2023/08/your-computer-should-say-what-you-tell-it-say-1)
+* [2023-08-08, 14:47:52](https://news.ycombinator.com/item?id=37049786) - [Italy approves 40% windfall tax on banks for 2023 as profits soar](https://www.theguardian.com/world/2023/aug/08/italy-approves-40-windfall-tax-on-banks-for-2023-as-profits-soar)
+* [2023-08-08, 14:20:26](https://news.ycombinator.com/item?id=37049360) - [WebKit – Touch Bar Web API](https://bugs.webkit.org/show_bug.cgi?id=178736)
 * [2023-08-08, 14:10:52](https://news.ycombinator.com/item?id=37049221) - [Millions of UK voters’ data accessible in cyber-attack](https://www.theguardian.com/technology/2023/aug/08/uk-electoral-commission-registers-targeted-by-hostile-hackers)
 * [2023-08-08, 14:09:12](https://news.ycombinator.com/item?id=37049198) - [Candle: Torch Replacement in Rust](https://github.com/huggingface/candle)
 * [2023-08-08, 13:58:57](https://news.ycombinator.com/item?id=37049064) - [Bye, Gemini](https://www.makeworld.space/2023/08/bye_gemini.html)
+* [2023-08-08, 13:55:46](https://news.ycombinator.com/item?id=37049016) - [Blocked by Cloudflare](https://jrhawley.ca/2023/08/07/blocked-by-cloudflare)
 * [2023-08-08, 13:49:35](https://news.ycombinator.com/item?id=37048938) - [Banks Hit with Millions in Fines for Using Signal and WhatsApp](https://www.cnbc.com/2023/08/08/regulators-hit-wall-street-banks-with-549-million-in-penalties-for-record-keeping-failures-.html)
 * [2023-08-08, 13:41:03](https://news.ycombinator.com/item?id=37048825) - [How real is America’s chipmaking renaissance?](https://www.economist.com/business/2023/08/07/how-real-is-americas-chipmaking-renaissance)
 * [2023-08-08, 13:35:10](https://news.ycombinator.com/item?id=37048758) - [Launch HN: Stellar Sleep (YC S23) – An app that helps people with insomnia](https://news.ycombinator.com/item?id=37048758)
@@ -26,6 +30,7 @@
 * [2023-08-08, 10:38:00](https://news.ycombinator.com/item?id=37046974) - [A Creepy Question We'll All Have to Answer Soon](https://jasonpargin.substack.com/p/a-creepy-question-well-all-have-to)
 * [2023-08-08, 10:37:55](https://news.ycombinator.com/item?id=37046973) - [Terminal Support for Emoji](https://darrenburns.net/posts/emoji-in-the-terminal/)
 * [2023-08-08, 09:22:47](https://news.ycombinator.com/item?id=37046448) - [Can Toilet Paper Cause Impotence?](https://spy.com/articles/grooming/hygiene/toilet-paper-forever-chemicals-1202971286/)
+* [2023-08-08, 08:43:29](https://news.ycombinator.com/item?id=37046172) - [Commodore PET Keys – Series 2001 Edition](https://www.masswerk.at/nowgobang/2023/pet-keys-2001-edition)
 * [2023-08-08, 08:35:31](https://news.ycombinator.com/item?id=37046128) - [Mexico seeks to solidify rank as top U.S. trade partner, push further past China](https://www.dallasfed.org/research/economics/2023/0711)
 * [2023-08-08, 08:30:46](https://news.ycombinator.com/item?id=37046107) - [UK man bitten by cat contracts unknown and ‘extensive’ bacterial infection](https://www.independent.co.uk/news/science/cat-bite-nhs-infection-b2389244.html)
 * [2023-08-08, 06:58:50](https://news.ycombinator.com/item?id=37045455) - [The SEO scam: $62,000 later](https://tinloof.com/blog/the-seo-scam-62000-dollars-later)
