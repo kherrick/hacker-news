@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
+* [2023-08-08, 06:20:41](https://news.ycombinator.com/item?id=37045195) - [A self-driving Uber killed a woman. The backup driver pleaded guilty](https://www.washingtonpost.com/nation/2023/07/31/uber-self-driving-death-guilty/)
 * [2023-08-08, 05:21:29](https://news.ycombinator.com/item?id=37044820) - [Monitoring your logs is mostly a tarpit](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LogMonitoringTarpit)
 * [2023-08-08, 04:49:15](https://news.ycombinator.com/item?id=37044625) - [Run Firefox on ChromeOS](https://support.mozilla.org/en-US/kb/run-firefox-chromeos)
 * [2023-08-08, 03:27:02](https://news.ycombinator.com/item?id=37044168) - [Lacros on Chromebooks transition plan won’t be quick](https://www.aboutchromebooks.com/news/lacros-on-chromebooks-transition-plan-wont-be-quick/)
