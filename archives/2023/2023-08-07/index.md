@@ -79,6 +79,7 @@
 * [2023-08-07, 05:39:06](https://news.ycombinator.com/item?id=37030568) - [GPTBot – OpenAI’s Web Crawler](https://platform.openai.com/docs/gptbot)
 * [2023-08-07, 05:25:36](https://news.ycombinator.com/item?id=37030481) - [British gas starts to turn off Hive smart home devices forever](https://www.t3.com/news/british-gas-starts-to-turn-off-hive-smart-home-devices-forever)
 * [2023-08-07, 05:00:26](https://news.ycombinator.com/item?id=37030346) - [Isn’t London Hell?](https://www.lrb.co.uk/the-paper/v45/n16/seamus-perry/isn-t-london-hell)
+* [2023-08-07, 04:59:29](https://news.ycombinator.com/item?id=37030338) - [Theft of the Mona Lisa](https://www.pbs.org/treasuresoftheworld/a_nav/mona_nav/main_monafrm.html)
 * [2023-08-07, 04:46:12](https://news.ycombinator.com/item?id=37030258) - [Remembering the Slip: the Manhattan street that birthed a generation of artists](https://www.theguardian.com/books/2023/aug/01/the-slip-new-york-agnes-martin-ellsworth-kelly)
 * [2023-08-07, 04:41:51](https://news.ycombinator.com/item?id=37030230) - [Ahead of Time: On Poetry and Mourning](https://yalereview.org/article/kamran-javadizadeh-ahead-time)
 * [2023-08-07, 04:32:41](https://news.ycombinator.com/item?id=37030163) - [32by32 – Macintosh History from the 1980s](https://32by32.com/)
