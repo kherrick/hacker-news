@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-07](index.md)
 
+* [2023-08-07, 23:52:57](https://news.ycombinator.com/item?id=37042561) - [AI-generated books create a dumpster fire on Amazon and Goodreads](https://janefriedman.com/i-would-rather-see-my-books-pirated/)
 * [2023-08-07, 22:34:06](https://news.ycombinator.com/item?id=37041868) - [Thoughts on Mark “diveintomark” Pilgrim's and _why's infosuicides (2011)](https://www.hanselman.com/blog/410-gone-thoughts-on-mark-diveintomark-pilgrims-and-whys-infosuicides)
 * [2023-08-07, 22:12:02](https://news.ycombinator.com/item?id=37041654) - [Scotland Admits Chopping Down 16M Trees to Make Way for Wind Energy Farms](https://slaynews.com/news/scotland-chopping-down-16-million-trees-make-way-green-wind-energy-farms/)
 * [2023-08-07, 21:45:32](https://news.ycombinator.com/item?id=37041394) - [Overworked and Underpaid, VFX Workers Vote to Unionize at Marvel](https://www.vulture.com/2023/08/vfx-workers-vote-to-unionize-at-marvel-for-the-first-time.html)

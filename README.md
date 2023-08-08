@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-08, 00:17:01](https://news.ycombinator.com/item?id=37042790) - [Cancer’s Cloaking Device Revealed](https://www.cancer.columbia.edu/news/cancers-cloaking-device-revealed)
+* [2023-08-08, 00:15:44](https://news.ycombinator.com/item?id=37042779) - [Grammarly AI Training: The only way to opt out is to pay for 500 accounts](https://front-end.social/@fox/110846484782705013)
+* [2023-08-07, 23:52:57](https://news.ycombinator.com/item?id=37042561) - [AI-generated books create a dumpster fire on Amazon and Goodreads](https://janefriedman.com/i-would-rather-see-my-books-pirated/)
 * [2023-08-07, 22:34:06](https://news.ycombinator.com/item?id=37041868) - [Thoughts on Mark “diveintomark” Pilgrim's and _why's infosuicides (2011)](https://www.hanselman.com/blog/410-gone-thoughts-on-mark-diveintomark-pilgrims-and-whys-infosuicides)
 * [2023-08-07, 21:45:32](https://news.ycombinator.com/item?id=37041394) - [Overworked and Underpaid, VFX Workers Vote to Unionize at Marvel](https://www.vulture.com/2023/08/vfx-workers-vote-to-unionize-at-marvel-for-the-first-time.html)
-* [2023-08-07, 21:28:23](https://news.ycombinator.com/item?id=37041213) - [Tesla, Inc. 8-k filing – CFO leaves Tesla](https://www.bamsec.com/filing/95017023038779)
-* [2023-08-07, 21:15:48](https://news.ycombinator.com/item?id=37041047) - [How to stop the “login with Google” pop up window?](https://support.google.com/accounts/thread/212592288/how-to-stop-the-login-with-google-pop-up-window?hl=en)
 * [2023-08-07, 21:01:07](https://news.ycombinator.com/item?id=37040898) - [Emerge Tools (YC W21) is hiring an engineer to lead front end development](https://www.ycombinator.com/companies/emerge-tools/jobs/zDcS7ia-senior-software-engineer-frontend-lead)
 * [2023-08-07, 20:48:35](https://news.ycombinator.com/item?id=37040747) - [CISA Releases Its Cybersecurity Strategic Plan](https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan)
 * [2023-08-07, 20:42:48](https://news.ycombinator.com/item?id=37040681) - [Raku: A language for gremlins](https://buttondown.email/hillelwayne/archive/raku-a-language-for-gremlins/)
@@ -29,7 +30,6 @@
 * [2023-08-06, 21:05:12](https://news.ycombinator.com/item?id=37026757) - [Compiler Development: Rust or OCaml?](https://hirrolot.github.io/posts/compiler-development-rust-or-ocaml.html)
 * [2023-08-06, 07:57:48](https://news.ycombinator.com/item?id=37019862) - [The year of Linux On Desktop^WMobile [video]](https://media.ccc.de/v/froscon2023-2950-the_year_of_linux_on_desktop_wmobile)
 * [2023-08-05, 12:16:17](https://news.ycombinator.com/item?id=37011271) - [How does a mobile GPU work? [pdf]](https://armkeil.blob.core.windows.net/developer/Files/pdf/graphics-and-multimedia/how-does-a-mobile-gpu-work.pdf)
-* [2023-08-05, 09:57:23](https://news.ycombinator.com/item?id=37010547) - [Show HN: Matrix. A Sci-Fi Comic](https://github.com/baradhiren/story/tree/%E0%A4%A6%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE/Matrix)
 
 ## [Archives](archives/index.md)
 
