@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
+* [2023-08-08, 19:36:36](https://news.ycombinator.com/item?id=37054374) - [Show HN: Easyful – A Free Gumroad Alternative](https://www.easyful.com/)
+* [2023-08-08, 19:27:19](https://news.ycombinator.com/item?id=37054241) - [What happened in this GPT-3 conversation?](https://chat.openai.com/share/f5341665-7f08-4fca-9639-04201363506e)
+* [2023-08-08, 18:48:40](https://news.ycombinator.com/item?id=37053694) - [Us Electric grid history and overview](https://blog.chaselambda.com/2023/03/25/us-electric-grid-history-and-overview.html)
 * [2023-08-08, 18:41:32](https://news.ycombinator.com/item?id=37053601) - [ChatGPT now seems to be embedding ads in its responses](https://jacobw.xyz/projects/gpt_ads/)
+* [2023-08-08, 18:17:16](https://news.ycombinator.com/item?id=37053273) - [PyPI Requires 2FA for New User Registrations](https://blog.pypi.org/posts/2023-08-08-2fa-enforcement-for-new-users/)
 * [2023-08-08, 18:15:33](https://news.ycombinator.com/item?id=37053250) - [Kubernetes Exposed: One YAML Away from Disaster](https://blog.aquasec.com/kubernetes-exposed-one-yaml-away-from-disaster)
 * [2023-08-08, 17:57:13](https://news.ycombinator.com/item?id=37052979) - [Show HN: Agentflow – Run Complex LLM Workflows from Simple JSON](https://github.com/simonmesmith/agentflow)
 * [2023-08-08, 17:49:51](https://news.ycombinator.com/item?id=37052875) - [ChimeraOS: Instantly turn any PC into a gaming console](https://chimeraos.org/)
