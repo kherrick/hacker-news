@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-08, 17:00:51](https://news.ycombinator.com/item?id=37052137) - [SnapEDA (YC S15) is hiring AI lead for electronics copilot in Bay Area](https://careers.snapeda.com/o/engineering-lead-ai)
 * [2023-08-08, 16:07:11](https://news.ycombinator.com/item?id=37051206) - [Inception: Leaking the root hash from /etc./shadow on AMD Zen 4 [video]](https://www.youtube.com/watch?v=2wCjU8iJ9G4)
-* [2023-08-08, 15:53:51](https://news.ycombinator.com/item?id=37050960) - [Do you avoid the news? You’re in growing company](https://www.washingtonpost.com/media/2023/08/01/news-avoid-depressing/)
+* [2023-08-08, 16:02:06](https://news.ycombinator.com/item?id=37051111) - [Go 1.21 Is Released](https://go.dev/blog/go1.21)
 * [2023-08-08, 15:32:13](https://news.ycombinator.com/item?id=37050532) - [Show HN: Chat with your data using LangChain, Pinecone, and Airbyte](https://airbyte.com/tutorials/chat-with-your-data-using-openai-pinecone-airbyte-and-langchain)
 * [2023-08-08, 15:28:37](https://news.ycombinator.com/item?id=37050466) - [Go 1.21 Released](https://go.dev/doc/go1.21)
 * [2023-08-08, 15:23:13](https://news.ycombinator.com/item?id=37050368) - [Dark microbiome in Atacama fossil delta unveils Mars life detection limits](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9944251/)
@@ -21,7 +22,6 @@
 * [2023-08-08, 12:09:28](https://news.ycombinator.com/item?id=37047746) - [Web Scraping via JavaScript Runtime Heap Snapshots (2022)](https://www.adriancooney.ie/blog/web-scraping-via-javascript-heap-snapshots)
 * [2023-08-08, 11:21:23](https://news.ycombinator.com/item?id=37047304) - [Magic Earth: OSM based map and routing with crowd sourced traffic data](https://www.magicearth.com/crowd-sourced-traffic/)
 * [2023-08-08, 10:48:20](https://news.ycombinator.com/item?id=37047053) - [TSMC, Bosch, Infineon, and NXP to build fab in Germany](https://pr.tsmc.com/english/news/3049)
-* [2023-08-08, 08:43:29](https://news.ycombinator.com/item?id=37046172) - [Commodore PET Keys – Series 2001 Edition](https://www.masswerk.at/nowgobang/2023/pet-keys-2001-edition)
 * [2023-08-08, 04:56:35](https://news.ycombinator.com/item?id=37044673) - [Richard Scarry Collection: Archive.org](https://archive.org/search?query=Richard+Scarry&and%5B%5D=subject%3A%22Richard+Scarry%22)
 * [2023-08-08, 04:40:34](https://news.ycombinator.com/item?id=37044567) - [All that glitters is not gold – emulating luxury in the ancient Greek world](https://www.britishmuseum.org/blog/all-glitters-not-gold-emulating-luxury-ancient-greek-world)
 * [2023-08-08, 02:55:22](https://news.ycombinator.com/item?id=37043934) - [Noclip.website: A digital museum of video game levels](https://noclip.website)
