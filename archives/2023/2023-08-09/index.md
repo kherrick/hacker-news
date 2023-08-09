@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-09](index.md)
 
+* [2023-08-09, 09:14:46](https://news.ycombinator.com/item?id=37060313) - [Inception Attack](https://www.bleepingcomputer.com/news/security/new-inception-attack-leaks-sensitive-data-from-all-amd-zen-cpus/)
 * [2023-08-09, 08:28:11](https://news.ycombinator.com/item?id=37060014) - [Stop Using Brave Browser](https://www.spacebar.news/p/stop-using-brave-browser)
 * [2023-08-09, 07:16:37](https://news.ycombinator.com/item?id=37059594) - [Reflecting on My Failure to Build a Billion-Dollar Company (2019)](https://sahillavingia.com/reflecting)
 * [2023-08-09, 07:05:20](https://news.ycombinator.com/item?id=37059533) - [Amazon has more than half of all Arm server CPUs in the world](https://www.theregister.com/2023/08/08/amazon_arm_servers/)

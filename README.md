@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-09, 09:14:46](https://news.ycombinator.com/item?id=37060313) - [Inception Attack](https://www.bleepingcomputer.com/news/security/new-inception-attack-leaks-sensitive-data-from-all-amd-zen-cpus/)
 * [2023-08-09, 07:16:37](https://news.ycombinator.com/item?id=37059594) - [Reflecting on My Failure to Build a Billion-Dollar Company (2019)](https://sahillavingia.com/reflecting)
 * [2023-08-09, 07:05:20](https://news.ycombinator.com/item?id=37059533) - [Amazon has more than half of all Arm server CPUs in the world](https://www.theregister.com/2023/08/08/amazon_arm_servers/)
 * [2023-08-09, 06:55:13](https://news.ycombinator.com/item?id=37059487) - [A Critical Problem (2017)](https://nucleardiner.wordpress.com/2017/06/19/a-critical-problem/)
@@ -22,12 +23,11 @@
 * [2023-08-08, 19:59:58](https://news.ycombinator.com/item?id=37054670) - [mCaptcha: Open-source proof-of-work captcha for websites](https://mcaptcha.org/)
 * [2023-08-08, 19:36:36](https://news.ycombinator.com/item?id=37054374) - [Show HN: Easyful – A Free Gumroad Alternative](https://www.easyful.com/)
 * [2023-08-08, 19:35:48](https://news.ycombinator.com/item?id=37054361) - [Low-cost Smartwatch powered by ESP32 module](https://linuxgizmos.com/low-cost-smartwatch-powered-by-esp32-s3-module/)
+* [2023-08-08, 19:27:19](https://news.ycombinator.com/item?id=37054241) - [What happened in this GPT-3 conversation?](https://chat.openai.com/share/f5341665-7f08-4fca-9639-04201363506e)
 * [2023-08-08, 18:25:52](https://news.ycombinator.com/item?id=37053405) - [Reimagining the Bioreactor](https://www.growbyginkgo.com/2023/07/11/reimagining-the-bioreactor/)
-* [2023-08-08, 18:17:16](https://news.ycombinator.com/item?id=37053273) - [PyPI Requires 2FA for New User Registrations](https://blog.pypi.org/posts/2023-08-08-2fa-enforcement-for-new-users/)
-* [2023-08-08, 17:49:51](https://news.ycombinator.com/item?id=37052875) - [ChimeraOS: Instantly turn any PC into a gaming console](https://chimeraos.org/)
-* [2023-08-08, 17:36:25](https://news.ycombinator.com/item?id=37052710) - [Life has been found beneath hydrothermal vents for the first time](https://www.iflscience.com/life-has-been-found-beneath-hydrothermal-vents-for-the-first-time-70178)
 * [2023-08-08, 17:30:09](https://news.ycombinator.com/item?id=37052622) - [LCD, Please](https://dukope.itch.io/lcd-please)
 * [2023-08-08, 17:27:38](https://news.ycombinator.com/item?id=37052586) - [Downfall Attacks](https://downfall.page/)
+* [2023-08-08, 13:55:46](https://news.ycombinator.com/item?id=37049016) - [Blocked by Cloudflare](https://jrhawley.ca/2023/08/07/blocked-by-cloudflare)
 * [2023-08-08, 13:35:10](https://news.ycombinator.com/item?id=37048758) - [Launch HN: Stellar Sleep (YC S23) – An app that helps people with insomnia](https://news.ycombinator.com/item?id=37048758)
 * [2023-08-08, 10:48:20](https://news.ycombinator.com/item?id=37047053) - [TSMC, Bosch, Infineon, NXP to jointly build semiconductor fab in Europe](https://pr.tsmc.com/english/news/3049)
 
