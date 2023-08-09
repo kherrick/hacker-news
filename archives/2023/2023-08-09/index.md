@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-09](index.md)
 
+* [2023-08-09, 17:14:37](https://news.ycombinator.com/item?id=37065746) - [The time SUSE, the German Linux company, banned mentioning Jewish holidays](https://lunduke.substack.com/p/the-time-suse-the-german-linux-company)
 * [2023-08-09, 17:01:41](https://news.ycombinator.com/item?id=37065574) - [Supreme Court rules against Epic, so Apple can keep its App Store payment rules](https://www.theverge.com/2023/8/9/23826043/epic-apple-app-store-supreme-court-petition)
 * [2023-08-09, 17:01:11](https://news.ycombinator.com/item?id=37065567) - [Aptible (YC S14) Is Hiring: Security Compliance Manager and Product-Led Sales Lead](https://www.aptible.com/culture-hub/careers)
 * [2023-08-09, 16:50:51](https://news.ycombinator.com/item?id=37065413) - [Credit card debt tops $1 trillion, trapping even six-figure earners](https://www.washingtonpost.com/business/2023/08/08/credit-card-debt-1-trillion-high-earners/)
