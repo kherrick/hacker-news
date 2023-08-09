@@ -5,7 +5,7 @@
 * [2023-08-09, 13:52:33](https://news.ycombinator.com/item?id=37062650) - [Want employees to return to the office? Then give each one an office](https://www.washingtonpost.com/opinions/2023/08/09/remote-work-offices-floorplan-privacy/)
 * [2023-08-09, 13:47:56](https://news.ycombinator.com/item?id=37062579) - [Planetary defense test deflected an asteroid but unleashed a boulder swarm](https://newsroom.ucla.edu/releases/planetary-defense-nasa-dart-mission-asteroid)
 * [2023-08-09, 13:45:18](https://news.ycombinator.com/item?id=37062547) - [Tunnel Vision: CloudflareD AbuseD in the Wild](https://www.guidepointsecurity.com/blog/tunnel-vision-cloudflared-abused-in-the-wild/)
-* [2023-08-09, 13:33:59](https://news.ycombinator.com/item?id=37062422) - [Show HN: I'm 17 and wrote this guide on how CPUs run programs](https://github.com/hackclub/putting-the-you-in-cpu)
+* [2023-08-09, 13:33:59](https://news.ycombinator.com/item?id=37062422) - [I'm 17 and wrote this guide on how CPUs run programs](https://github.com/hackclub/putting-the-you-in-cpu)
 * [2023-08-09, 13:18:53](https://news.ycombinator.com/item?id=37062233) - [The Collapse of the EV SPACs: Another One Goes Bankrupt, Others on the Verge](https://wolfstreet.com/2023/08/09/the-collapse-of-the-ev-spacs-another-one-goes-bankrupt-others-on-the-verge/)
 * [2023-08-09, 13:12:37](https://news.ycombinator.com/item?id=37062157) - [She invited four people over for lunch. A week later, three were dead](https://www.washingtonpost.com/world/2023/08/09/australia-poisonous-mushroom-lunch-police/)
 * [2023-08-09, 13:01:14](https://news.ycombinator.com/item?id=37062007) - [Show HN: Infracost (YC W21): Be proactive with your cloud costs](https://news.ycombinator.com/item?id=37062007)
