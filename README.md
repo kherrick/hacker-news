@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-09, 04:24:56](https://news.ycombinator.com/item?id=37058674) - [G9.js: Automatically Interactive Graphics](http://omrelli.ug/g9/gallery/)
+* [2023-08-09, 03:24:58](https://news.ycombinator.com/item?id=37058364) - [Using GPT as an HVAC control system](https://arxiv.org/abs/2308.03028)
 * [2023-08-09, 03:07:50](https://news.ycombinator.com/item?id=37058278) - [Swap_8_and_9: A simple import can modify the Python interpreter](https://kenschutte.com/python-swap-ints/)
+* [2023-08-09, 01:55:47](https://news.ycombinator.com/item?id=37057866) - [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
 * [2023-08-09, 00:35:40](https://news.ycombinator.com/item?id=37057332) - [Testing Intel’s Arc A770 GPU for Deep Learning](https://christianjmills.com/posts/arc-a770-testing/part-2/)
 * [2023-08-09, 00:23:09](https://news.ycombinator.com/item?id=37057256) - [Rising ill-health and economic inactivity from long-term sickness: 2019 to 2023](https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/economicinactivity/articles/risingillhealthandeconomicinactivitybecauseoflongtermsicknessuk/2019to2023)
 * [2023-08-08, 21:57:10](https://news.ycombinator.com/item?id=37055989) - [Unity Weta Tools](https://unity.com/solutions/unity-weta-tools)
@@ -19,7 +21,6 @@
 * [2023-08-08, 18:33:56](https://news.ycombinator.com/item?id=37053520) - [The Rise and Fall of Qualcomm Mirasol E-Readers (2018)](https://goodereader.com/blog/electronic-readers/the-rise-and-fall-of-qualcomm-mirasol-e-readers)
 * [2023-08-08, 18:25:52](https://news.ycombinator.com/item?id=37053405) - [Reimagining the Bioreactor](https://www.growbyginkgo.com/2023/07/11/reimagining-the-bioreactor/)
 * [2023-08-08, 18:17:16](https://news.ycombinator.com/item?id=37053273) - [PyPI Requires 2FA for New User Registrations](https://blog.pypi.org/posts/2023-08-08-2fa-enforcement-for-new-users/)
-* [2023-08-08, 18:15:33](https://news.ycombinator.com/item?id=37053250) - [Kubernetes Exposed: One YAML Away from Disaster](https://blog.aquasec.com/kubernetes-exposed-one-yaml-away-from-disaster)
 * [2023-08-08, 17:49:51](https://news.ycombinator.com/item?id=37052875) - [ChimeraOS: Instantly turn any PC into a gaming console](https://chimeraos.org/)
 * [2023-08-08, 17:36:25](https://news.ycombinator.com/item?id=37052710) - [Life has been found beneath hydrothermal vents for the first time](https://www.iflscience.com/life-has-been-found-beneath-hydrothermal-vents-for-the-first-time-70178)
 * [2023-08-08, 17:30:09](https://news.ycombinator.com/item?id=37052622) - [LCD, Please](https://dukope.itch.io/lcd-please)
@@ -27,7 +28,6 @@
 * [2023-08-08, 17:23:00](https://news.ycombinator.com/item?id=37052508) - [Uninstall the NightOwl app](https://robins.one/notes/uninstall-the-nightowl-app-now.html)
 * [2023-08-08, 16:20:33](https://news.ycombinator.com/item?id=37051423) - [Inception: A simple XOR can cause a Microarchitectural Stack Overflow](https://comsec.ethz.ch/research/microarch/inception/)
 * [2023-08-08, 15:32:13](https://news.ycombinator.com/item?id=37050532) - [Show HN: Chat with your data using LangChain, Pinecone, and Airbyte](https://airbyte.com/tutorials/chat-with-your-data-using-openai-pinecone-airbyte-and-langchain)
-* [2023-08-08, 13:55:46](https://news.ycombinator.com/item?id=37049016) - [Blocked by Cloudflare](https://jrhawley.ca/2023/08/07/blocked-by-cloudflare)
 * [2023-08-08, 13:35:10](https://news.ycombinator.com/item?id=37048758) - [Launch HN: Stellar Sleep (YC S23) – An app that helps people with insomnia](https://news.ycombinator.com/item?id=37048758)
 * [2023-08-08, 10:48:20](https://news.ycombinator.com/item?id=37047053) - [TSMC, Bosch, Infineon, NXP to jointly build semiconductor fab in Europe](https://pr.tsmc.com/english/news/3049)
 
