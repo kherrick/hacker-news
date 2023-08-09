@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-09, 16:12:05](https://news.ycombinator.com/item?id=37064832) - [8 Ways Journalists Can Access Academic Research for Free](https://gijn.org/2023/08/09/8-ways-journalists-access-free-academic-research-journals/)
 * [2023-08-09, 16:11:09](https://news.ycombinator.com/item?id=37064822) - [Launch HN: Refine (YC S23) – Open-Source Retool for Enterprise](https://news.ycombinator.com/item?id=37064822)
 * [2023-08-09, 15:26:56](https://news.ycombinator.com/item?id=37064152) - [Show HN: Get notified when sites update their terms of service](https://tosnotify.com/)
 * [2023-08-09, 15:19:20](https://news.ycombinator.com/item?id=37064044) - [Show HN: PC Builder AI](https://www.pcbuilderai.com/)
 * [2023-08-09, 15:09:16](https://news.ycombinator.com/item?id=37063884) - [I don't want to host services (but I do)](https://ergaster.org/posts/2023/08/09-i-dont-want-to-host-services-but-i-do/)
 * [2023-08-09, 15:05:56](https://news.ycombinator.com/item?id=37063829) - [B.C. woman buried in Amazon packages she did not ask for and does not want](https://www.cbc.ca/news/canada/british-columbia/amazon-shoe-packages-1.6926200)
 * [2023-08-09, 15:02:40](https://news.ycombinator.com/item?id=37063774) - [Archive of novelty answering machine recordings](http://www.noveltyansweringmachine.com/audio/index.html)
-* [2023-08-09, 14:50:20](https://news.ycombinator.com/item?id=37063576) - [Slack’s biggest redesign ever tries to tame the chaos of your workday](https://www.theverge.com/2023/8/9/23824562/slack-redesign-app-dms-activity-later)
 * [2023-08-09, 14:43:28](https://news.ycombinator.com/item?id=37063459) - [Mozilla finds CPU bug (bad store forwarding) in Samsung Galaxy S20](https://bugzilla.mozilla.org/show_bug.cgi?id=1833315)
 * [2023-08-09, 14:29:49](https://news.ycombinator.com/item?id=37063238) - [SQLedge: Replicate Postgres to SQLite on the Edge](https://github.com/zknill/sqledge)
 * [2023-08-09, 14:24:56](https://news.ycombinator.com/item?id=37063151) - [Arpchat – Text your friends on the same network using just ARP](https://github.com/kognise/arpchat)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-09](index.md)
 
+* [2023-08-09, 16:12:05](https://news.ycombinator.com/item?id=37064832) - [8 Ways Journalists Can Access Academic Research for Free](https://gijn.org/2023/08/09/8-ways-journalists-access-free-academic-research-journals/)
 * [2023-08-09, 16:11:09](https://news.ycombinator.com/item?id=37064822) - [Launch HN: Refine (YC S23) – Open-Source Retool for Enterprise](https://news.ycombinator.com/item?id=37064822)
 * [2023-08-09, 15:26:56](https://news.ycombinator.com/item?id=37064152) - [Show HN: Get notified when sites update their terms of service](https://tosnotify.com/)
 * [2023-08-09, 15:19:20](https://news.ycombinator.com/item?id=37064044) - [Show HN: PC Builder AI](https://www.pcbuilderai.com/)
