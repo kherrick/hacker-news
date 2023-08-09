@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-09, 18:28:30](https://news.ycombinator.com/item?id=37066680) - [Many temptations of an open-source Chrome extension developer](https://github.com/extesy/hoverzoom/discussions/670)
+* [2023-08-09, 17:56:47](https://news.ycombinator.com/item?id=37066312) - [Popular open source project Moq criticized for quietly collecting data](https://www.bleepingcomputer.com/news/security/popular-open-source-project-moq-criticized-for-quietly-collecting-data/)
 * [2023-08-09, 17:54:51](https://news.ycombinator.com/item?id=37066292) - [When Did Postgres Become Cool?](https://www.crunchydata.com/blog/when-did-postgres-become-cool)
 * [2023-08-09, 17:01:11](https://news.ycombinator.com/item?id=37065567) - [Aptible (YC S14) Is Hiring: Security Compliance Manager and Product-Led Sales Lead](https://www.aptible.com/culture-hub/careers)
 * [2023-08-09, 16:18:50](https://news.ycombinator.com/item?id=37064922) - [Maui wildfires are 'apocalyptic' as people jump into the ocean to flee](https://www.cnn.com/2023/08/09/weather/maui-county-wildfires-hurricane-dora/index.html)
@@ -13,7 +14,6 @@
 * [2023-08-09, 14:43:28](https://news.ycombinator.com/item?id=37063459) - [Mozilla finds CPU bug (bad store forwarding) in Samsung Galaxy S20](https://bugzilla.mozilla.org/show_bug.cgi?id=1833315)
 * [2023-08-09, 14:29:49](https://news.ycombinator.com/item?id=37063238) - [SQLedge: Replicate Postgres to SQLite on the Edge](https://github.com/zknill/sqledge)
 * [2023-08-09, 14:24:56](https://news.ycombinator.com/item?id=37063151) - [Arpchat – Text your friends on the same network using just ARP](https://github.com/kognise/arpchat)
-* [2023-08-09, 14:03:46](https://news.ycombinator.com/item?id=37062820) - [Nintendo filed numerous patents for Zelda: Tears of the Kingdom mechanics](https://automaton-media.com/en/news/20230808-20590/)
 * [2023-08-09, 13:52:33](https://news.ycombinator.com/item?id=37062650) - [Want employees to return to the office? Then give each one an office](https://www.washingtonpost.com/opinions/2023/08/09/remote-work-offices-floorplan-privacy/)
 * [2023-08-09, 13:45:18](https://news.ycombinator.com/item?id=37062547) - [Tunnel Vision: CloudflareD AbuseD in the Wild](https://www.guidepointsecurity.com/blog/tunnel-vision-cloudflared-abused-in-the-wild/)
 * [2023-08-09, 13:33:59](https://news.ycombinator.com/item?id=37062422) - [I'm 17 and wrote this guide on how CPUs run programs](https://github.com/hackclub/putting-the-you-in-cpu)
