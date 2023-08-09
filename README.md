@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-09, 13:47:56](https://news.ycombinator.com/item?id=37062579) - [Planetary defense test deflected an asteroid but unleashed a boulder swarm](https://newsroom.ucla.edu/releases/planetary-defense-nasa-dart-mission-asteroid)
 * [2023-08-09, 13:33:59](https://news.ycombinator.com/item?id=37062422) - [Show HN: I'm 17 and wrote this guide on how CPUs run programs](https://github.com/hackclub/putting-the-you-in-cpu)
 * [2023-08-09, 13:18:53](https://news.ycombinator.com/item?id=37062233) - [The Collapse of the EV SPACs: Another One Goes Bankrupt, Others on the Verge](https://wolfstreet.com/2023/08/09/the-collapse-of-the-ev-spacs-another-one-goes-bankrupt-others-on-the-verge/)
-* [2023-08-09, 13:12:37](https://news.ycombinator.com/item?id=37062157) - [She invited four people over for lunch. A week later, three were dead](https://www.washingtonpost.com/world/2023/08/09/australia-poisonous-mushroom-lunch-police/)
+* [2023-08-09, 13:18:29](https://news.ycombinator.com/item?id=37062227) - [Why Sam Altman wants to scan two billion eyes](https://english.elpais.com/science-tech/2023-08-05/why-sam-altman-wants-to-scan-two-billion-eyes.html)
 * [2023-08-09, 13:01:14](https://news.ycombinator.com/item?id=37062007) - [Show HN: Infracost (YC W21): Be proactive with your cloud costs](https://news.ycombinator.com/item?id=37062007)
-* [2023-08-09, 12:56:44](https://news.ycombinator.com/item?id=37061949) - [UPS driver pay and benefits deal in US to be worth $170k a year, firm says](https://www.bbc.com/news/business-66445496)
 * [2023-08-09, 12:33:53](https://news.ycombinator.com/item?id=37061694) - [How RLHF Preference Model Tuning Works (and How Things May Go Wrong)](https://www.assemblyai.com/blog/how-rlhf-preference-model-tuning-works-and-how-things-may-go-wrong/)
 * [2023-08-09, 12:00:30](https://news.ycombinator.com/item?id=37061352) - [Tesorio (YC S15) Is Hiring a Head of Marketing – join our 100% remote startup](https://jobs.lever.co/tesorio/10de016f-be07-4707-ac5c-7029f0398a17)
 * [2023-08-09, 11:08:20](https://news.ycombinator.com/item?id=37060974) - [The Fear of AI Just Killed a Useful Tool](https://www.techdirt.com/2023/08/08/the-fear-of-ai-just-killed-a-very-useful-tool/)
