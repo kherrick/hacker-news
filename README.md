@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-09, 15:26:56](https://news.ycombinator.com/item?id=37064152) - [Show HN: Get notified when sites update their terms of service](https://tosnotify.com/)
 * [2023-08-09, 15:14:08](https://news.ycombinator.com/item?id=37063958) - [Why heart attacks are rising in young adults–and what to watch out for](https://www.nationalgeographic.com/premium/article/heart-attacks-rising-young-adults-risk-factors)
+* [2023-08-09, 15:09:16](https://news.ycombinator.com/item?id=37063884) - [I don't want to host services (but I do)](https://ergaster.org/posts/2023/08/09-i-dont-want-to-host-services-but-i-do/)
 * [2023-08-09, 15:02:40](https://news.ycombinator.com/item?id=37063774) - [Archive of novelty answering machine recordings](http://www.noveltyansweringmachine.com/audio/index.html)
 * [2023-08-09, 14:50:20](https://news.ycombinator.com/item?id=37063576) - [Slack’s biggest redesign ever tries to tame the chaos of your workday](https://www.theverge.com/2023/8/9/23824562/slack-redesign-app-dms-activity-later)
 * [2023-08-09, 14:43:28](https://news.ycombinator.com/item?id=37063459) - [Mozilla finds CPU bug (bad store forwarding) in Samsung Galaxy S20](https://bugzilla.mozilla.org/show_bug.cgi?id=1833315)
@@ -25,8 +27,6 @@
 * [2023-08-09, 03:07:50](https://news.ycombinator.com/item?id=37058278) - [Swap_8_and_9: A simple import can modify the Python interpreter](https://kenschutte.com/python-swap-ints/)
 * [2023-08-09, 01:55:47](https://news.ycombinator.com/item?id=37057866) - [Pure Bash Bible (2018)](https://github.com/dylanaraps/pure-bash-bible)
 * [2023-08-09, 00:35:40](https://news.ycombinator.com/item?id=37057332) - [Testing Intel’s Arc A770 GPU for Deep Learning](https://christianjmills.com/posts/arc-a770-testing/part-2/)
-* [2023-08-08, 21:52:13](https://news.ycombinator.com/item?id=37055941) - [War Music: Homer and His Iliad](https://literaryreview.co.uk/war-music)
-* [2023-08-08, 17:27:38](https://news.ycombinator.com/item?id=37052586) - [Downfall Attacks](https://downfall.page/)
 * [2023-08-07, 20:09:04](https://news.ycombinator.com/item?id=37040285) - [Text of Elizabethan chronicler revealed by imaging technology](https://www.medievalists.net/2023/07/hidden-text-of-elizabethan-chronicler-revealed-by-imaging-technology/)
 * [2023-08-07, 17:44:32](https://news.ycombinator.com/item?id=37037900) - [Qalculate – A multi-purpose cross-platform desktop calculator](https://qalculate.github.io/)
 * [2023-08-07, 16:40:14](https://news.ycombinator.com/item?id=37036888) - [The Ultimate-Rare story: 40 years of brilliant British games](https://www.theguardian.com/games/2023/aug/07/ultimate-rare-40-years-british-videogames-jet-pac-goldeneye-sea-of-thieves)
