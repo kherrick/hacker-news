@@ -2,6 +2,7 @@
 
 * [2023-08-09, 17:01:41](https://news.ycombinator.com/item?id=37065574) - [Supreme Court rules against Epic, so Apple can keep its App Store payment rules](https://www.theverge.com/2023/8/9/23826043/epic-apple-app-store-supreme-court-petition)
 * [2023-08-09, 17:01:11](https://news.ycombinator.com/item?id=37065567) - [Aptible (YC S14) Is Hiring: Security Compliance Manager and Product-Led Sales Lead](https://www.aptible.com/culture-hub/careers)
+* [2023-08-09, 16:18:50](https://news.ycombinator.com/item?id=37064922) - [Maui wildfires are 'apocalyptic' as people jump into the ocean to flee](https://www.cnn.com/2023/08/09/weather/maui-county-wildfires-hurricane-dora/index.html)
 * [2023-08-09, 16:12:05](https://news.ycombinator.com/item?id=37064832) - [8 Ways Journalists Can Access Academic Research for Free](https://gijn.org/2023/08/09/8-ways-journalists-access-free-academic-research-journals/)
 * [2023-08-09, 16:11:09](https://news.ycombinator.com/item?id=37064822) - [Launch HN: Refine (YC S23) – Open-Source Retool for Enterprise](https://news.ycombinator.com/item?id=37064822)
 * [2023-08-09, 15:26:56](https://news.ycombinator.com/item?id=37064152) - [Show HN: Get notified when sites update their terms of service](https://tosnotify.com/)
@@ -15,7 +16,6 @@
 * [2023-08-09, 14:24:56](https://news.ycombinator.com/item?id=37063151) - [Arpchat – Text your friends on the same network using just ARP](https://github.com/kognise/arpchat)
 * [2023-08-09, 14:03:46](https://news.ycombinator.com/item?id=37062820) - [Nintendo filed numerous patents for Zelda: Tears of the Kingdom mechanics](https://automaton-media.com/en/news/20230808-20590/)
 * [2023-08-09, 13:52:33](https://news.ycombinator.com/item?id=37062650) - [Want employees to return to the office? Then give each one an office](https://www.washingtonpost.com/opinions/2023/08/09/remote-work-offices-floorplan-privacy/)
-* [2023-08-09, 13:47:56](https://news.ycombinator.com/item?id=37062579) - [Planetary defense test deflected an asteroid but unleashed a boulder swarm](https://newsroom.ucla.edu/releases/planetary-defense-nasa-dart-mission-asteroid)
 * [2023-08-09, 13:45:18](https://news.ycombinator.com/item?id=37062547) - [Tunnel Vision: CloudflareD AbuseD in the Wild](https://www.guidepointsecurity.com/blog/tunnel-vision-cloudflared-abused-in-the-wild/)
 * [2023-08-09, 13:33:59](https://news.ycombinator.com/item?id=37062422) - [I'm 17 and wrote this guide on how CPUs run programs](https://github.com/hackclub/putting-the-you-in-cpu)
 * [2023-08-09, 13:01:14](https://news.ycombinator.com/item?id=37062007) - [Show HN: Infracost (YC W21): Be proactive with your cloud costs](https://news.ycombinator.com/item?id=37062007)
