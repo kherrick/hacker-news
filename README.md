@@ -6,7 +6,6 @@
 * [2023-08-09, 16:12:05](https://news.ycombinator.com/item?id=37064832) - [8 Ways Journalists Can Access Academic Research for Free](https://gijn.org/2023/08/09/8-ways-journalists-access-free-academic-research-journals/)
 * [2023-08-09, 16:11:09](https://news.ycombinator.com/item?id=37064822) - [Launch HN: Refine (YC S23) – Open-Source Retool for Enterprise](https://news.ycombinator.com/item?id=37064822)
 * [2023-08-09, 15:26:56](https://news.ycombinator.com/item?id=37064152) - [Show HN: Get notified when sites update their terms of service](https://tosnotify.com/)
-* [2023-08-09, 15:19:20](https://news.ycombinator.com/item?id=37064044) - [Show HN: PC Builder AI](https://www.pcbuilderai.com/)
 * [2023-08-09, 15:09:16](https://news.ycombinator.com/item?id=37063884) - [I don't want to host services (but I do)](https://ergaster.org/posts/2023/08/09-i-dont-want-to-host-services-but-i-do/)
 * [2023-08-09, 15:05:56](https://news.ycombinator.com/item?id=37063829) - [B.C. woman buried in Amazon packages she did not ask for and does not want](https://www.cbc.ca/news/canada/british-columbia/amazon-shoe-packages-1.6926200)
 * [2023-08-09, 15:02:40](https://news.ycombinator.com/item?id=37063774) - [Archive of novelty answering machine recordings](http://www.noveltyansweringmachine.com/audio/index.html)
@@ -30,6 +29,7 @@
 * [2023-08-09, 06:40:39](https://news.ycombinator.com/item?id=37059400) - [Supabase Local Dev: migrations, branching, and observability](https://supabase.com/blog/supabase-local-dev)
 * [2023-08-09, 04:24:56](https://news.ycombinator.com/item?id=37058674) - [G9.js: Automatically Interactive Graphics](http://omrelli.ug/g9/gallery/)
 * [2023-08-07, 17:44:32](https://news.ycombinator.com/item?id=37037900) - [Qalculate – A multi-purpose cross-platform desktop calculator](https://qalculate.github.io/)
+* [2023-08-07, 16:40:14](https://news.ycombinator.com/item?id=37036888) - [The Ultimate-Rare story: 40 years of brilliant British games](https://www.theguardian.com/games/2023/aug/07/ultimate-rare-40-years-british-videogames-jet-pac-goldeneye-sea-of-thieves)
 
 ## [Archives](archives/index.md)
 
