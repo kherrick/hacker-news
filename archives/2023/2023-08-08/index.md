@@ -51,6 +51,7 @@
 * [2023-08-08, 15:25:55](https://news.ycombinator.com/item?id=37050409) - [StableCode](https://stability.ai/blog/stablecode-llm-generative-ai-coding)
 * [2023-08-08, 15:23:13](https://news.ycombinator.com/item?id=37050368) - [Dark microbiome in Atacama fossil delta unveils Mars life detection limits](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9944251/)
 * [2023-08-08, 15:15:31](https://news.ycombinator.com/item?id=37050257) - [GPT-4 Can't Reason](https://www.preprints.org/manuscript/202308.0148/v1)
+* [2023-08-08, 15:14:09](https://news.ycombinator.com/item?id=37050229) - [My blog about my Dad’s work with Oppenheimer and the new movie](https://markwatson.com/p/my-dads-experiences-working-with)
 * [2023-08-08, 15:11:47](https://news.ycombinator.com/item?id=37050191) - [Svelte 5 is going to be radical](https://twitter.com/Rich_Harris/status/1688581184018583558)
 * [2023-08-08, 15:06:21](https://news.ycombinator.com/item?id=37050089) - [Homo sapiens declared extinct (1999)](https://bruces.medium.com/homo-sapiens-declared-extinct-by-bruce-sterling-1999-cc8b0f94b195)
 * [2023-08-08, 15:03:16](https://news.ycombinator.com/item?id=37050035) - [EFF denounces Google's WEI proposal](https://www.eff.org/deeplinks/2023/08/your-computer-should-say-what-you-tell-it-say-1)
