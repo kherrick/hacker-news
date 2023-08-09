@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-09](index.md)
 
+* [2023-08-09, 10:18:46](https://news.ycombinator.com/item?id=37060654) - [Mullvad VPN – Infrastructure Audit Completed by Open Security](https://mullvad.net/en/blog/2023/8/9/infrastructure-audit-completed-by-radically-open-security/)
 * [2023-08-09, 09:14:46](https://news.ycombinator.com/item?id=37060313) - [Inception Attack](https://www.bleepingcomputer.com/news/security/new-inception-attack-leaks-sensitive-data-from-all-amd-zen-cpus/)
 * [2023-08-09, 09:07:27](https://news.ycombinator.com/item?id=37060269) - [New part day: Finally a 100% new Commodore 64 can be built](https://1nt3r.net/j-cia/)
 * [2023-08-09, 08:28:11](https://news.ycombinator.com/item?id=37060014) - [Stop Using Brave Browser](https://www.spacebar.news/p/stop-using-brave-browser)
