@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-09, 21:50:39](https://news.ycombinator.com/item?id=37068924) - [Katherine Koonce (principal who died protecting her students at Covenant School)](https://fieldethos.com/katherine-koonce/)
 * [2023-08-09, 21:28:05](https://news.ycombinator.com/item?id=37068695) - [Show HN: Hacker News home page spoof](http://canonical.org/~kragen/sw/dev3/hackonfuse/)
+* [2023-08-09, 21:10:52](https://news.ycombinator.com/item?id=37068464) - [CNET is deleting old articles to try to improve its Google Search ranking](https://www.theverge.com/2023/8/9/23826342/cnet-content-pruning-deleting-articles-google-seo)
 * [2023-08-09, 21:01:04](https://news.ycombinator.com/item?id=37068346) - [BuildZoom (YC W13) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-08-09, 20:25:14](https://news.ycombinator.com/item?id=37067894) - [Optimization Techniques for GPU Programming [pdf]](https://dl.acm.org/doi/pdf/10.1145/3570638)
 * [2023-08-09, 19:46:36](https://news.ycombinator.com/item?id=37067503) - [Documenting Plants with a 3D Printer, NFC, and Cardinal](https://www.withcardinal.com/blog/2023-08-09-documenting-plants-with-cardinal)
