@@ -3,7 +3,7 @@
 * [2023-08-09, 10:18:46](https://news.ycombinator.com/item?id=37060654) - [Mullvad VPN – Infrastructure Audit Completed by Open Security](https://mullvad.net/en/blog/2023/8/9/infrastructure-audit-completed-by-radically-open-security/)
 * [2023-08-09, 09:14:46](https://news.ycombinator.com/item?id=37060313) - [Inception Attack](https://www.bleepingcomputer.com/news/security/new-inception-attack-leaks-sensitive-data-from-all-amd-zen-cpus/)
 * [2023-08-09, 09:07:27](https://news.ycombinator.com/item?id=37060269) - [New part day: Finally a 100% new Commodore 64 can be built](https://1nt3r.net/j-cia/)
-* [2023-08-09, 07:16:37](https://news.ycombinator.com/item?id=37059594) - [Reflecting on My Failure to Build a Billion-Dollar Company (2019)](https://sahillavingia.com/reflecting)
+* [2023-08-09, 08:02:54](https://news.ycombinator.com/item?id=37059857) - [Canonical's interview process step by step (by step by step by)](https://old.reddit.com/r/recruitinghell/comments/15kj845/canonical_the_recruitment_process_really_is_that/)
 * [2023-08-09, 07:05:20](https://news.ycombinator.com/item?id=37059533) - [Amazon has more than half of all Arm server CPUs in the world](https://www.theregister.com/2023/08/08/amazon_arm_servers/)
 * [2023-08-09, 06:55:13](https://news.ycombinator.com/item?id=37059487) - [A Critical Problem (2017)](https://nucleardiner.wordpress.com/2017/06/19/a-critical-problem/)
 * [2023-08-09, 06:54:49](https://news.ycombinator.com/item?id=37059481) - [Happy Birthday OpenStreetMap](https://blog.openstreetmap.org/2023/08/09/happy-birthday-openstreetmap-2/)
