@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-09](index.md)
 
 * [2023-08-09, 23:01:58](https://news.ycombinator.com/item?id=37069551) - [Who Was Duns Scotus?](https://aeon.co/essays/duns-scotus-was-no-fool-but-a-brilliant-enigmatic-thinker)
+* [2023-08-09, 22:43:32](https://news.ycombinator.com/item?id=37069387) - [Is ChatGPT a Bit Unsporting?](https://www.kmjn.org/notes/chatgpt_unsporting.html)
 * [2023-08-09, 21:52:58](https://news.ycombinator.com/item?id=37068953) - [A superconductor claim blew up online. Science has punctured it](https://www.washingtonpost.com/science/2023/08/09/room-temperature-superconductor-lk99-evidence/)
 * [2023-08-09, 21:50:39](https://news.ycombinator.com/item?id=37068924) - [Katherine Koonce (principal who died protecting her students at Covenant School)](https://fieldethos.com/katherine-koonce/)
 * [2023-08-09, 21:28:05](https://news.ycombinator.com/item?id=37068695) - [Show HN: Hacker News home page spoof](http://canonical.org/~kragen/sw/dev3/hackonfuse/)

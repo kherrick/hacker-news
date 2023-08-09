@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-09, 23:01:58](https://news.ycombinator.com/item?id=37069551) - [Who Was Duns Scotus?](https://aeon.co/essays/duns-scotus-was-no-fool-but-a-brilliant-enigmatic-thinker)
+* [2023-08-09, 22:43:32](https://news.ycombinator.com/item?id=37069387) - [Is ChatGPT a Bit Unsporting?](https://www.kmjn.org/notes/chatgpt_unsporting.html)
 * [2023-08-09, 21:10:52](https://news.ycombinator.com/item?id=37068464) - [CNET is deleting old articles to try to improve its Google Search ranking](https://www.theverge.com/2023/8/9/23826342/cnet-content-pruning-deleting-articles-google-seo)
 * [2023-08-09, 21:01:04](https://news.ycombinator.com/item?id=37068346) - [BuildZoom (YC W13) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-08-09, 20:25:14](https://news.ycombinator.com/item?id=37067894) - [Optimization Techniques for GPU Programming [pdf]](https://dl.acm.org/doi/pdf/10.1145/3570638)
@@ -14,7 +15,6 @@
 * [2023-08-09, 15:05:56](https://news.ycombinator.com/item?id=37063829) - [B.C. woman buried in Amazon packages she did not ask for and does not want](https://www.cbc.ca/news/canada/british-columbia/amazon-shoe-packages-1.6926200)
 * [2023-08-09, 15:02:40](https://news.ycombinator.com/item?id=37063774) - [Archive of novelty answering machine recordings](http://www.noveltyansweringmachine.com/audio/index.html)
 * [2023-08-09, 14:57:23](https://news.ycombinator.com/item?id=37063695) - [Why Static Languages Suffer from Complexity (2022)](https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity.html)
-* [2023-08-09, 14:49:56](https://news.ycombinator.com/item?id=37063568) - [“Please do not make it public” (Tencent’s Sogou Input Method)](https://citizenlab.ca/2023/08/vulnerabilities-in-sogou-keyboard-encryption/)
 * [2023-08-09, 14:29:49](https://news.ycombinator.com/item?id=37063238) - [SQLedge: Replicate Postgres to SQLite on the Edge](https://github.com/zknill/sqledge)
 * [2023-08-09, 14:24:56](https://news.ycombinator.com/item?id=37063151) - [Arpchat – Text your friends on the same network using just ARP](https://github.com/kognise/arpchat)
 * [2023-08-09, 13:33:59](https://news.ycombinator.com/item?id=37062422) - [I'm 17 and wrote this guide on how CPUs run programs](https://github.com/hackclub/putting-the-you-in-cpu)
