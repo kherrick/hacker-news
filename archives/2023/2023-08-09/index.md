@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2023-08-09](index.md)
 
 * [2023-08-09, 14:31:41](https://news.ycombinator.com/item?id=37063270) - [Wheat Gluten Spurs Brain Inflammation (In Mice)](https://neurosciencenews.com/gluten-neuroinflammation-23773/)
+* [2023-08-09, 14:29:49](https://news.ycombinator.com/item?id=37063238) - [SQLedge: Replicate Postgres to SQLite on the Edge](https://github.com/zknill/sqledge)
 * [2023-08-09, 13:52:33](https://news.ycombinator.com/item?id=37062650) - [Want employees to return to the office? Then give each one an office](https://www.washingtonpost.com/opinions/2023/08/09/remote-work-offices-floorplan-privacy/)
 * [2023-08-09, 13:47:56](https://news.ycombinator.com/item?id=37062579) - [Planetary defense test deflected an asteroid but unleashed a boulder swarm](https://newsroom.ucla.edu/releases/planetary-defense-nasa-dart-mission-asteroid)
+* [2023-08-09, 13:45:18](https://news.ycombinator.com/item?id=37062547) - [Tunnel Vision: CloudflareD AbuseD in the Wild](https://www.guidepointsecurity.com/blog/tunnel-vision-cloudflared-abused-in-the-wild/)
 * [2023-08-09, 13:43:03](https://news.ycombinator.com/item?id=37062520) - [Who is sneaking fentanyl across the southern border? Hint: it's not the migrants](https://www.npr.org/2023/08/09/1191638114/fentanyl-smuggling-migrants-mexico-border-drugs)
 * [2023-08-09, 13:33:59](https://news.ycombinator.com/item?id=37062422) - [Show HN: I'm 17 and wrote this guide on how CPUs run programs](https://github.com/hackclub/putting-the-you-in-cpu)
 * [2023-08-09, 13:18:53](https://news.ycombinator.com/item?id=37062233) - [The Collapse of the EV SPACs: Another One Goes Bankrupt, Others on the Verge](https://wolfstreet.com/2023/08/09/the-collapse-of-the-ev-spacs-another-one-goes-bankrupt-others-on-the-verge/)
