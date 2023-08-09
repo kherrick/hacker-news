@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-09](index.md)
 
+* [2023-08-09, 06:55:13](https://news.ycombinator.com/item?id=37059487) - [A Critical Problem – This photo gives me the creeps](https://nucleardiner.wordpress.com/2017/06/19/a-critical-problem/)
 * [2023-08-09, 06:40:41](https://news.ycombinator.com/item?id=37059402) - [AI Boyfriend [video]](https://www.youtube.com/watch?v=KiPQdVC5RHU)
 * [2023-08-09, 04:24:56](https://news.ycombinator.com/item?id=37058674) - [G9.js: Automatically Interactive Graphics](http://omrelli.ug/g9/gallery/)
 * [2023-08-09, 03:24:58](https://news.ycombinator.com/item?id=37058364) - [Using GPT as an HVAC control system](https://arxiv.org/abs/2308.03028)
