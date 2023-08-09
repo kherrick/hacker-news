@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-08-09](index.md)
 
+* [2023-08-09, 15:14:08](https://news.ycombinator.com/item?id=37063958) - [Why heart attacks are rising in young adults–and what to watch out for](https://www.nationalgeographic.com/premium/article/heart-attacks-rising-young-adults-risk-factors)
 * [2023-08-09, 15:02:40](https://news.ycombinator.com/item?id=37063774) - [Archive of novelty answering machine recordings](http://www.noveltyansweringmachine.com/audio/index.html)
 * [2023-08-09, 14:50:20](https://news.ycombinator.com/item?id=37063576) - [Slack’s biggest redesign ever tries to tame the chaos of your workday](https://www.theverge.com/2023/8/9/23824562/slack-redesign-app-dms-activity-later)
+* [2023-08-09, 14:43:28](https://news.ycombinator.com/item?id=37063459) - [Mozilla finds CPU bug (bad store forwarding) in Samsung Galaxy S20](https://bugzilla.mozilla.org/show_bug.cgi?id=1833315)
 * [2023-08-09, 14:31:41](https://news.ycombinator.com/item?id=37063270) - [Wheat Gluten Spurs Brain Inflammation (In Mice)](https://neurosciencenews.com/gluten-neuroinflammation-23773/)
 * [2023-08-09, 14:29:49](https://news.ycombinator.com/item?id=37063238) - [SQLedge: Replicate Postgres to SQLite on the Edge](https://github.com/zknill/sqledge)
+* [2023-08-09, 14:24:56](https://news.ycombinator.com/item?id=37063151) - [Arpchat – Text your friends on the same network using just ARP](https://github.com/kognise/arpchat)
 * [2023-08-09, 13:52:33](https://news.ycombinator.com/item?id=37062650) - [Want employees to return to the office? Then give each one an office](https://www.washingtonpost.com/opinions/2023/08/09/remote-work-offices-floorplan-privacy/)
 * [2023-08-09, 13:47:56](https://news.ycombinator.com/item?id=37062579) - [Planetary defense test deflected an asteroid but unleashed a boulder swarm](https://newsroom.ucla.edu/releases/planetary-defense-nasa-dart-mission-asteroid)
 * [2023-08-09, 13:45:18](https://news.ycombinator.com/item?id=37062547) - [Tunnel Vision: CloudflareD AbuseD in the Wild](https://www.guidepointsecurity.com/blog/tunnel-vision-cloudflared-abused-in-the-wild/)
