@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-09, 21:52:58](https://news.ycombinator.com/item?id=37068953) - [A superconductor claim blew up online. Science has punctured it](https://www.washingtonpost.com/science/2023/08/09/room-temperature-superconductor-lk99-evidence/)
 * [2023-08-09, 21:28:05](https://news.ycombinator.com/item?id=37068695) - [Show HN: Hacker News home page spoof](http://canonical.org/~kragen/sw/dev3/hackonfuse/)
 * [2023-08-09, 21:10:52](https://news.ycombinator.com/item?id=37068464) - [CNET is deleting old articles to try to improve its Google Search ranking](https://www.theverge.com/2023/8/9/23826342/cnet-content-pruning-deleting-articles-google-seo)
 * [2023-08-09, 21:01:04](https://news.ycombinator.com/item?id=37068346) - [BuildZoom (YC W13) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-08-09, 20:25:14](https://news.ycombinator.com/item?id=37067894) - [Optimization Techniques for GPU Programming [pdf]](https://dl.acm.org/doi/pdf/10.1145/3570638)
-* [2023-08-09, 19:46:36](https://news.ycombinator.com/item?id=37067503) - [Documenting Plants with a 3D Printer, NFC, and Cardinal](https://www.withcardinal.com/blog/2023-08-09-documenting-plants-with-cardinal)
 * [2023-08-09, 19:45:48](https://news.ycombinator.com/item?id=37067491) - [Java 21: What’s New?](https://www.loicmathieu.fr/wordpress/en/informatique/java-21-quoi-de-neuf/)
 * [2023-08-09, 18:56:15](https://news.ycombinator.com/item?id=37066989) - [Histoire: A new way to write stories, powered by Vite](https://histoire.dev/)
 * [2023-08-09, 18:28:30](https://news.ycombinator.com/item?id=37066680) - [Temptations of an open-source Chrome extension developer](https://github.com/extesy/hoverzoom/discussions/670)

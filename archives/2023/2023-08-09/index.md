@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-09](index.md)
 
+* [2023-08-09, 21:52:58](https://news.ycombinator.com/item?id=37068953) - [A superconductor claim blew up online. Science has punctured it](https://www.washingtonpost.com/science/2023/08/09/room-temperature-superconductor-lk99-evidence/)
 * [2023-08-09, 21:50:39](https://news.ycombinator.com/item?id=37068924) - [Katherine Koonce (principal who died protecting her students at Covenant School)](https://fieldethos.com/katherine-koonce/)
 * [2023-08-09, 21:28:05](https://news.ycombinator.com/item?id=37068695) - [Show HN: Hacker News home page spoof](http://canonical.org/~kragen/sw/dev3/hackonfuse/)
 * [2023-08-09, 21:10:52](https://news.ycombinator.com/item?id=37068464) - [CNET is deleting old articles to try to improve its Google Search ranking](https://www.theverge.com/2023/8/9/23826342/cnet-content-pruning-deleting-articles-google-seo)
