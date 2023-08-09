@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-09, 21:52:58](https://news.ycombinator.com/item?id=37068953) - [A superconductor claim blew up online. Science has punctured it](https://www.washingtonpost.com/science/2023/08/09/room-temperature-superconductor-lk99-evidence/)
-* [2023-08-09, 21:28:05](https://news.ycombinator.com/item?id=37068695) - [Show HN: Hacker News home page spoof](http://canonical.org/~kragen/sw/dev3/hackonfuse/)
 * [2023-08-09, 21:10:52](https://news.ycombinator.com/item?id=37068464) - [CNET is deleting old articles to try to improve its Google Search ranking](https://www.theverge.com/2023/8/9/23826342/cnet-content-pruning-deleting-articles-google-seo)
 * [2023-08-09, 21:01:04](https://news.ycombinator.com/item?id=37068346) - [BuildZoom (YC W13) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-08-09, 20:25:14](https://news.ycombinator.com/item?id=37067894) - [Optimization Techniques for GPU Programming [pdf]](https://dl.acm.org/doi/pdf/10.1145/3570638)
@@ -28,6 +27,7 @@
 * [2023-08-09, 08:02:54](https://news.ycombinator.com/item?id=37059857) - [Canonical’s recruitment process is long and complex](https://old.reddit.com/r/recruitinghell/comments/15kj845/canonical_the_recruitment_process_really_is_that/)
 * [2023-08-09, 06:40:39](https://news.ycombinator.com/item?id=37059400) - [Supabase Local Dev: migrations, branching, and observability](https://supabase.com/blog/supabase-local-dev)
 * [2023-08-08, 11:27:30](https://news.ycombinator.com/item?id=37047343) - [The Quite OK Audio Format for Fast, Lossy Compression](https://qoaformat.org/)
+* [2023-08-08, 07:01:07](https://news.ycombinator.com/item?id=37045471) - [R.I.P. Macromedia FreeHand (2007)](https://losingfight.com/blog/2007/05/17/rip-freehand/)
 * [2023-08-08, 06:41:33](https://news.ycombinator.com/item?id=37045329) - [Graceful behavior at capacity](https://blog.nelhage.com/post/systems-at-capacity/)
 * [2023-08-07, 17:44:32](https://news.ycombinator.com/item?id=37037900) - [Qalculate – A multi-purpose cross-platform desktop calculator](https://qalculate.github.io/)
 
