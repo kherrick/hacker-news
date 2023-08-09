@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-08-09](index.md)
 
+* [2023-08-09, 08:28:11](https://news.ycombinator.com/item?id=37060014) - [Stop Using Brave Browser](https://www.spacebar.news/p/stop-using-brave-browser)
 * [2023-08-09, 07:16:37](https://news.ycombinator.com/item?id=37059594) - [Reflecting on My Failure to Build a Billion-Dollar Company (2019)](https://sahillavingia.com/reflecting)
 * [2023-08-09, 07:05:20](https://news.ycombinator.com/item?id=37059533) - [Amazon has more than half of all Arm server CPUs in the world](https://www.theregister.com/2023/08/08/amazon_arm_servers/)
 * [2023-08-09, 06:55:13](https://news.ycombinator.com/item?id=37059487) - [A Critical Problem – This photo gives me the creeps](https://nucleardiner.wordpress.com/2017/06/19/a-critical-problem/)
 * [2023-08-09, 06:54:49](https://news.ycombinator.com/item?id=37059481) - [Happy Birthday OpenStreetMap](https://blog.openstreetmap.org/2023/08/09/happy-birthday-openstreetmap-2/)
 * [2023-08-09, 06:54:31](https://news.ycombinator.com/item?id=37059479) - [Llama from Scratch (or how to implement a paper without crying)](https://blog.briankitano.com/llama-from-scratch/)
 * [2023-08-09, 06:40:41](https://news.ycombinator.com/item?id=37059402) - [AI Boyfriend [video]](https://www.youtube.com/watch?v=KiPQdVC5RHU)
+* [2023-08-09, 06:33:36](https://news.ycombinator.com/item?id=37059365) - [Italy shocks banks with 40 percent windfall tax for 2023](https://www.aljazeera.com/news/2023/8/8/italy-shocks-banks-with-40-percent-windfall-tax-for-2023)
 * [2023-08-09, 04:24:56](https://news.ycombinator.com/item?id=37058674) - [G9.js: Automatically Interactive Graphics](http://omrelli.ug/g9/gallery/)
 * [2023-08-09, 03:24:58](https://news.ycombinator.com/item?id=37058364) - [Using GPT as an HVAC control system](https://arxiv.org/abs/2308.03028)
 * [2023-08-09, 03:07:50](https://news.ycombinator.com/item?id=37058278) - [Swap_8_and_9: A simple import can modify the Python interpreter](https://kenschutte.com/python-swap-ints/)
