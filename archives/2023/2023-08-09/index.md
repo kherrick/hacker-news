@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-09](index.md)
 
+* [2023-08-09, 18:56:15](https://news.ycombinator.com/item?id=37066989) - [Histoire: A new way to write stories, powered by Vite](https://histoire.dev/)
 * [2023-08-09, 18:28:30](https://news.ycombinator.com/item?id=37066680) - [Many temptations of an open-source Chrome extension developer](https://github.com/extesy/hoverzoom/discussions/670)
 * [2023-08-09, 17:56:47](https://news.ycombinator.com/item?id=37066312) - [Popular open source project Moq criticized for quietly collecting data](https://www.bleepingcomputer.com/news/security/popular-open-source-project-moq-criticized-for-quietly-collecting-data/)
 * [2023-08-09, 17:54:51](https://news.ycombinator.com/item?id=37066292) - [When Did Postgres Become Cool?](https://www.crunchydata.com/blog/when-did-postgres-become-cool)
