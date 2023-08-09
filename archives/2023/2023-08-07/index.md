@@ -27,6 +27,7 @@
 * [2023-08-07, 18:09:50](https://news.ycombinator.com/item?id=37038278) - [Aeroflot deactivates brakes on nine aircraft, relies solely on reverse thrust](https://aeroxplorer.com/articles/aeroflot-deactivates-brakes-on-nine-aircraft-relies-solely-on-reverse-thrust.php)
 * [2023-08-07, 17:54:32](https://news.ycombinator.com/item?id=37038053) - [Show HN: ChainForge, a visual tool for prompt engineering and LLM evaluation](https://chainforge.ai/docs/)
 * [2023-08-07, 17:51:42](https://news.ycombinator.com/item?id=37038007) - [Car Bloat: “Huge Cars Are Terrible for Society”](https://kottke.org/23/08/car-bloat-huge-cars-are-terrible-for-society)
+* [2023-08-07, 17:44:32](https://news.ycombinator.com/item?id=37037900) - [Qalculate – The Ultimate Desktop Calculator](https://qalculate.github.io/)
 * [2023-08-07, 17:23:33](https://news.ycombinator.com/item?id=37037563) - [Apple Vision Pro: Why Monitor Replacement Is Rediculous](https://kguttag.com/2023/08/05/apple-vision-pro-part-5a-why-monitor-replacement-is-ridiculous/)
 * [2023-08-07, 17:19:30](https://news.ycombinator.com/item?id=37037520) - [Linux Guide for Power Users](https://xnacly.me/posts/2022/linux-for-powerusers/)
 * [2023-08-07, 17:18:43](https://news.ycombinator.com/item?id=37037507) - [Zoom: No-opt out on AI training with “Customer Content”](https://stackdiary.com/zoom-terms-now-allow-training-ai-on-user-content-with-no-opt-out/)
