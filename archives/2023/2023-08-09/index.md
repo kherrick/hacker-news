@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-09](index.md)
 
+* [2023-08-09, 15:02:40](https://news.ycombinator.com/item?id=37063774) - [Archive of novelty answering machine recordings](http://www.noveltyansweringmachine.com/audio/index.html)
 * [2023-08-09, 14:50:20](https://news.ycombinator.com/item?id=37063576) - [Slack’s biggest redesign ever tries to tame the chaos of your workday](https://www.theverge.com/2023/8/9/23824562/slack-redesign-app-dms-activity-later)
 * [2023-08-09, 14:31:41](https://news.ycombinator.com/item?id=37063270) - [Wheat Gluten Spurs Brain Inflammation (In Mice)](https://neurosciencenews.com/gluten-neuroinflammation-23773/)
 * [2023-08-09, 14:29:49](https://news.ycombinator.com/item?id=37063238) - [SQLedge: Replicate Postgres to SQLite on the Edge](https://github.com/zknill/sqledge)
