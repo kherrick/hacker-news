@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
 * [2023-08-08, 21:57:10](https://news.ycombinator.com/item?id=37055989) - [Unity Weta Tools](https://unity.com/solutions/unity-weta-tools)
+* [2023-08-08, 21:52:13](https://news.ycombinator.com/item?id=37055941) - [War Music: Homer and His Iliad](https://literaryreview.co.uk/war-music)
 * [2023-08-08, 21:11:30](https://news.ycombinator.com/item?id=37055514) - [LK-99: Phonon Bands, Localized Flat Band Magnetism, Models, & Chemical Analysis](https://drive.google.com/file/d/1ekD2KVV_SUid2wH__o1ODS3hTl1GUFb5/view)
 * [2023-08-08, 21:07:44](https://news.ycombinator.com/item?id=37055479) - [Android 14 introduces first-of-its-kind cellular connectivity security features](https://security.googleblog.com/2023/08/android-14-introduces-first-of-its-kind.html)
 * [2023-08-08, 21:00:54](https://news.ycombinator.com/item?id=37055391) - [Aviator (YC S21) is hiring engineers to build dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)

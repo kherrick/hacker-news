@@ -43,6 +43,7 @@
 * [2023-08-07, 15:57:36](https://news.ycombinator.com/item?id=37036181) - [Detroit woman falsely arrested while pregnant due to facial recognition tech](https://www.nbcnews.com/news/us-news/detroit-woman-sues-city-falsely-arrested-8-months-pregnant-due-facial-rcna98447)
 * [2023-08-07, 15:51:51](https://news.ycombinator.com/item?id=37036120) - [Why San Francisco Is a Homeless Mecca](https://www.wsj.com/articles/why-san-francisco-is-a-homeless-mecca-drug-prosecutions-treatment-344aac97)
 * [2023-08-07, 15:46:00](https://news.ycombinator.com/item?id=37036032) - [Show HN: The Population Project](https://thepopulationproject.org)
+* [2023-08-07, 15:41:29](https://news.ycombinator.com/item?id=37035981) - [Remains found in China may belong to third human lineage](https://phys.org/news/2023-08-china-human-lineage.html)
 * [2023-08-07, 15:29:26](https://news.ycombinator.com/item?id=37035816) - [Bordeaux should be a climate change red flag for the wine industry](https://www.softwine.ai/bordeaux-the-canary-in-the-cellar)
 * [2023-08-07, 15:03:02](https://news.ycombinator.com/item?id=37035448) - [How to generate tested software packages using LLMs, a sandbox and a while loop](https://github.com/modal-labs/devlooper)
 * [2023-08-07, 14:48:18](https://news.ycombinator.com/item?id=37035221) - [Simple Networking in Linux](https://insanity.industries/post/simple-networking/)

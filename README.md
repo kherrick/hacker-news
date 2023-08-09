@@ -13,6 +13,7 @@
 * [2023-08-09, 00:35:40](https://news.ycombinator.com/item?id=37057332) - [Testing Intel’s Arc A770 GPU for Deep Learning](https://christianjmills.com/posts/arc-a770-testing/part-2/)
 * [2023-08-09, 00:23:09](https://news.ycombinator.com/item?id=37057256) - [Rising ill-health and economic inactivity from long-term sickness: 2019 to 2023](https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/economicinactivity/articles/risingillhealthandeconomicinactivitybecauseoflongtermsicknessuk/2019to2023)
 * [2023-08-08, 21:57:10](https://news.ycombinator.com/item?id=37055989) - [Unity Weta Tools](https://unity.com/solutions/unity-weta-tools)
+* [2023-08-08, 21:52:13](https://news.ycombinator.com/item?id=37055941) - [War Music: Homer and His Iliad](https://literaryreview.co.uk/war-music)
 * [2023-08-08, 21:11:30](https://news.ycombinator.com/item?id=37055514) - [LK-99: Phonon bands, Localized Flat Band Magnetism, Models and Chemical Analysis](https://drive.google.com/file/d/1ekD2KVV_SUid2wH__o1ODS3hTl1GUFb5/view)
 * [2023-08-08, 21:07:44](https://news.ycombinator.com/item?id=37055479) - [Android 14 introduces cellular connectivity security features](https://security.googleblog.com/2023/08/android-14-introduces-first-of-its-kind.html)
 * [2023-08-08, 21:00:54](https://news.ycombinator.com/item?id=37055391) - [Aviator (YC S21) is hiring engineers to build dev productivity platform](https://www.ycombinator.com/companies/aviator/jobs)
@@ -23,13 +24,12 @@
 * [2023-08-08, 19:59:58](https://news.ycombinator.com/item?id=37054670) - [mCaptcha: Open-source proof-of-work captcha for websites](https://mcaptcha.org/)
 * [2023-08-08, 19:36:36](https://news.ycombinator.com/item?id=37054374) - [Show HN: Easyful – A Free Gumroad Alternative](https://www.easyful.com/)
 * [2023-08-08, 19:35:48](https://news.ycombinator.com/item?id=37054361) - [Low-cost Smartwatch powered by ESP32 module](https://linuxgizmos.com/low-cost-smartwatch-powered-by-esp32-s3-module/)
-* [2023-08-08, 19:27:19](https://news.ycombinator.com/item?id=37054241) - [What happened in this GPT-3 conversation?](https://chat.openai.com/share/f5341665-7f08-4fca-9639-04201363506e)
 * [2023-08-08, 18:25:52](https://news.ycombinator.com/item?id=37053405) - [Reimagining the Bioreactor](https://www.growbyginkgo.com/2023/07/11/reimagining-the-bioreactor/)
 * [2023-08-08, 17:30:09](https://news.ycombinator.com/item?id=37052622) - [LCD, Please](https://dukope.itch.io/lcd-please)
 * [2023-08-08, 17:27:38](https://news.ycombinator.com/item?id=37052586) - [Downfall Attacks](https://downfall.page/)
-* [2023-08-08, 13:55:46](https://news.ycombinator.com/item?id=37049016) - [Blocked by Cloudflare](https://jrhawley.ca/2023/08/07/blocked-by-cloudflare)
 * [2023-08-08, 13:35:10](https://news.ycombinator.com/item?id=37048758) - [Launch HN: Stellar Sleep (YC S23) – An app that helps people with insomnia](https://news.ycombinator.com/item?id=37048758)
 * [2023-08-08, 10:48:20](https://news.ycombinator.com/item?id=37047053) - [TSMC, Bosch, Infineon, NXP to jointly build semiconductor fab in Europe](https://pr.tsmc.com/english/news/3049)
+* [2023-08-07, 15:41:29](https://news.ycombinator.com/item?id=37035981) - [Remains found in China may belong to third human lineage](https://phys.org/news/2023-08-china-human-lineage.html)
 
 ## [Archives](archives/index.md)
 
