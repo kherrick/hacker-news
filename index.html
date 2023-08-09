@@ -141,11 +141,11 @@
             <h4>
               <span>2023-08-09 @ 13:33:59</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">116</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37062422"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -163,11 +163,11 @@
             <h4>
               <span>2023-08-09 @ 13:18:53</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37062233"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -185,19 +185,102 @@
             <h4>
               <span>2023-08-09 @ 13:12:37</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37062157"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="37062007">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=37062007"
+              >Show HN: Infracost (YC W21): Be proactive with your cloud
+              costs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-08-09 @ 13:01:14</span
+              ><span class="points-container"
+                >Points: <span class="points">20</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37062007"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                We launched in February 2021
+                (https://news.ycombinator.com/item?id=26064588), and Infracost
+                is now being actively used by over 3,000 companies. However,
+                there is a shift happening in the cloud cost management space.
+                New teams, called FinOps teams (a combination of "Finance" and
+                "DevOps"), are being formed within companies to manage cloud
+                costs.
+              </p>
+              <p>
+                One of the first tasks assigned to these teams is to determine
+                "who is using what" - that is, which teams, business units,
+                products, etc. are spending the most on cloud. To accomplish
+                this, they use tags. Tags are labels that all cloud resources
+                should have and are key-value pairs. For example, a server could
+                be tagged with: product=HackerNews; environment=production;
+                team=blueTeam. So if resources are not tagged properly, then you
+                can’t tell who is using what.
+              </p>
+              <p>
+                However, FinOps teams face challenges because their tools are
+                reactive. These tools begin by analyzing cloud bills and
+                providing visibility of tags from there. This means that they
+                are looking at resources that are already running in production
+                and costing money. A customer recently shared, “I want all
+                resources to be properly tagged. But if they are not, I would
+                rather a resource not be tagged at all than be tagged
+                incorrectly.”
+              </p>
+              <p>
+                My "aha" moment! FinOps teams can define a tagging policy that
+                can be validated in CI/CD before resources are launched. This is
+                important because if code is shipped with the wrong tags, FinOps
+                teams will have to fight for sprint time to fix them. Even if
+                you shut down an untagged resource directly in the cloud, the
+                next time Terraform runs, the resource will launch again with no
+                tag. You need to fix the issue at its root.
+              </p>
+              <p>
+                I’d love your feedback on our solution to the tagging problem.
+                You define your tag key-value policy in our SaaS product, and
+                Infracost checks all Terraform resources per change. If anything
+                fails the policy, it posts a comment with the details of which
+                resources need tags, and what the allowed values are. Once
+                fixed, it will let the code be shipped to production.
+              </p>
+              <p>
+                Try it out by going to https://dashboard.infracost.io/, setting
+                up with the GitHub app or GitLab app, and defining your tagging
+                policy. It will then scan your repository and inform you of any
+                missing tags and their file and line number. You can use the
+                free trial, but if you need more time, please message me and
+                I’ll extend it for you.
+              </p>
+              <p>
+                I would also love to hear how others ensure that the correct tag
+                keys and values are applied to all resources, and whether this
+                is done proactively or reactively. Additionally, I would be
+                interested in hearing about any lessons learned in the process.
+              </p>
+              <p>Cheers</p>
+            </div>
           </section>
         </section>
         <section id="37061949">
           <h3>
             <a class="item" href="https://www.bbc.com/news/business-66445496"
-              >Ups driver pay and benefits deal in US to be worth $170k a year,
+              >UPS driver pay and benefits deal in US to be worth $170k a year,
               firm says</a
             >
           </h3>
@@ -205,11 +288,11 @@
             <h4>
               <span>2023-08-09 @ 12:56:44</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37061949"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -227,7 +310,7 @@
             <h4>
               <span>2023-08-09 @ 12:33:53</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37061694"
                   >Comments</a
@@ -266,11 +349,11 @@
             <h4>
               <span>2023-08-09 @ 11:08:20</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">163</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37060974"
                   >Comments</a
-                ><span class="descendants">: 146</span></span
+                ><span class="descendants">: 158</span></span
               >
             </h4>
           </section>
@@ -287,11 +370,11 @@
             <h4>
               <span>2023-08-09 @ 10:18:46</span
               ><span class="points-container"
-                >Points: <span class="points">260</span></span
+                >Points: <span class="points">273</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37060654"
                   >Comments</a
-                ><span class="descendants">: 122</span></span
+                ><span class="descendants">: 134</span></span
               >
             </h4>
           </section>
@@ -308,7 +391,7 @@
             <h4>
               <span>2023-08-09 @ 09:14:46</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37060313"
                   >Comments</a
@@ -327,11 +410,11 @@
             <h4>
               <span>2023-08-09 @ 09:07:27</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">124</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37060269"
                   >Comments</a
-                ><span class="descendants">: 82</span></span
+                ><span class="descendants">: 89</span></span
               >
             </h4>
           </section>
@@ -349,11 +432,11 @@
             <h4>
               <span>2023-08-09 @ 09:01:23</span
               ><span class="points-container"
-                >Points: <span class="points">104</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37060226"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
@@ -371,11 +454,11 @@
             <h4>
               <span>2023-08-09 @ 08:02:54</span
               ><span class="points-container"
-                >Points: <span class="points">115</span></span
+                >Points: <span class="points">125</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37059857"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
@@ -392,11 +475,11 @@
             <h4>
               <span>2023-08-09 @ 07:05:20</span
               ><span class="points-container"
-                >Points: <span class="points">138</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37059533"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
@@ -413,11 +496,11 @@
             <h4>
               <span>2023-08-09 @ 06:55:13</span
               ><span class="points-container"
-                >Points: <span class="points">206</span></span
+                >Points: <span class="points">207</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37059487"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -434,7 +517,7 @@
             <h4>
               <span>2023-08-09 @ 06:54:49</span
               ><span class="points-container"
-                >Points: <span class="points">290</span></span
+                >Points: <span class="points">299</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37059481"
                   >Comments</a
@@ -456,7 +539,7 @@
             <h4>
               <span>2023-08-09 @ 06:54:31</span
               ><span class="points-container"
-                >Points: <span class="points">253</span></span
+                >Points: <span class="points">262</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37059479"
                   >Comments</a
@@ -475,7 +558,7 @@
             <h4>
               <span>2023-08-09 @ 04:24:56</span
               ><span class="points-container"
-                >Points: <span class="points">414</span></span
+                >Points: <span class="points">421</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37058674"
                   >Comments</a
@@ -495,7 +578,7 @@
             <h4>
               <span>2023-08-09 @ 03:07:50</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">118</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37058278"
                   >Comments</a
@@ -514,11 +597,11 @@
             <h4>
               <span>2023-08-09 @ 01:55:47</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37057866"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -535,11 +618,11 @@
             <h4>
               <span>2023-08-09 @ 00:35:40</span
               ><span class="points-container"
-                >Points: <span class="points">164</span></span
+                >Points: <span class="points">168</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37057332"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 64</span></span
               >
             </h4>
           </section>
@@ -554,7 +637,7 @@
             <h4>
               <span>2023-08-08 @ 21:52:13</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37055941"
                   >Comments</a
@@ -575,30 +658,11 @@
             <h4>
               <span>2023-08-08 @ 21:07:44</span
               ><span class="points-container"
-                >Points: <span class="points">368</span></span
+                >Points: <span class="points">369</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37055479"
                   >Comments</a
                 ><span class="descendants">: 149</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="37052622">
-          <h3>
-            <a class="item" href="https://dukope.itch.io/lcd-please"
-              >LCD, Please</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-08-08 @ 17:30:09</span
-              ><span class="points-container"
-                >Points: <span class="points">444</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37052622"
-                  >Comments</a
-                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -611,11 +675,11 @@
             <h4>
               <span>2023-08-08 @ 17:27:38</span
               ><span class="points-container"
-                >Points: <span class="points">1171</span></span
+                >Points: <span class="points">1176</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37052586"
                   >Comments</a
-                ><span class="descendants">: 300</span></span
+                ><span class="descendants">: 301</span></span
               >
             </h4>
           </section>
@@ -745,7 +809,7 @@
             <h4>
               <span>2023-08-08 @ 10:48:20</span
               ><span class="points-container"
-                >Points: <span class="points">797</span></span
+                >Points: <span class="points">800</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37047053"
                   >Comments</a
@@ -785,11 +849,11 @@
             <h4>
               <span>2023-08-07 @ 17:44:32</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37037900"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -806,11 +870,11 @@
             <h4>
               <span>2023-08-07 @ 16:40:14</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37036888"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -827,11 +891,11 @@
             <h4>
               <span>2023-08-07 @ 15:41:29</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37035981"
                   >Comments</a
-                ><span class="descendants">: 91</span></span
+                ><span class="descendants">: 98</span></span
               >
             </h4>
           </section>
