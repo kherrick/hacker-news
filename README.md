@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-09, 06:55:13](https://news.ycombinator.com/item?id=37059487) - [A Critical Problem – This photo gives me the creeps](https://nucleardiner.wordpress.com/2017/06/19/a-critical-problem/)
+* [2023-08-09, 06:54:49](https://news.ycombinator.com/item?id=37059481) - [Happy Birthday OpenStreetMap](https://blog.openstreetmap.org/2023/08/09/happy-birthday-openstreetmap-2/)
+* [2023-08-09, 06:54:31](https://news.ycombinator.com/item?id=37059479) - [Llama from Scratch (or how to implement a paper without crying)](https://blog.briankitano.com/llama-from-scratch/)
 * [2023-08-09, 04:24:56](https://news.ycombinator.com/item?id=37058674) - [G9.js: Automatically Interactive Graphics](http://omrelli.ug/g9/gallery/)
 * [2023-08-09, 03:24:58](https://news.ycombinator.com/item?id=37058364) - [Using GPT as an HVAC control system](https://arxiv.org/abs/2308.03028)
 * [2023-08-09, 03:07:50](https://news.ycombinator.com/item?id=37058278) - [Swap_8_and_9: A simple import can modify the Python interpreter](https://kenschutte.com/python-swap-ints/)
@@ -18,8 +20,6 @@
 * [2023-08-08, 19:59:58](https://news.ycombinator.com/item?id=37054670) - [mCaptcha: Open-source proof-of-work captcha for websites](https://mcaptcha.org/)
 * [2023-08-08, 19:36:36](https://news.ycombinator.com/item?id=37054374) - [Show HN: Easyful – A Free Gumroad Alternative](https://www.easyful.com/)
 * [2023-08-08, 19:35:48](https://news.ycombinator.com/item?id=37054361) - [Low-cost Smartwatch powered by ESP32 module](https://linuxgizmos.com/low-cost-smartwatch-powered-by-esp32-s3-module/)
-* [2023-08-08, 19:27:19](https://news.ycombinator.com/item?id=37054241) - [What happened in this GPT-3 conversation?](https://chat.openai.com/share/f5341665-7f08-4fca-9639-04201363506e)
-* [2023-08-08, 18:25:52](https://news.ycombinator.com/item?id=37053405) - [Reimagining the Bioreactor](https://www.growbyginkgo.com/2023/07/11/reimagining-the-bioreactor/)
 * [2023-08-08, 18:17:16](https://news.ycombinator.com/item?id=37053273) - [PyPI Requires 2FA for New User Registrations](https://blog.pypi.org/posts/2023-08-08-2fa-enforcement-for-new-users/)
 * [2023-08-08, 17:49:51](https://news.ycombinator.com/item?id=37052875) - [ChimeraOS: Instantly turn any PC into a gaming console](https://chimeraos.org/)
 * [2023-08-08, 17:36:25](https://news.ycombinator.com/item?id=37052710) - [Life has been found beneath hydrothermal vents for the first time](https://www.iflscience.com/life-has-been-found-beneath-hydrothermal-vents-for-the-first-time-70178)
