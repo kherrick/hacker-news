@@ -17,12 +17,11 @@
 * [2023-08-08, 19:59:58](https://news.ycombinator.com/item?id=37054670) - [mCaptcha: Open-source proof-of-work captcha for websites](https://mcaptcha.org/)
 * [2023-08-08, 19:35:48](https://news.ycombinator.com/item?id=37054361) - [Low-cost Smartwatch powered by ESP32 module](https://linuxgizmos.com/low-cost-smartwatch-powered-by-esp32-s3-module/)
 * [2023-08-08, 18:33:56](https://news.ycombinator.com/item?id=37053520) - [The Rise and Fall of Qualcomm Mirasol E-Readers (2018)](https://goodereader.com/blog/electronic-readers/the-rise-and-fall-of-qualcomm-mirasol-e-readers)
-* [2023-08-08, 18:25:52](https://news.ycombinator.com/item?id=37053405) - [Reimagining the Bioreactor](https://www.growbyginkgo.com/2023/07/11/reimagining-the-bioreactor/)
 * [2023-08-08, 18:17:16](https://news.ycombinator.com/item?id=37053273) - [PyPI Requires 2FA for New User Registrations](https://blog.pypi.org/posts/2023-08-08-2fa-enforcement-for-new-users/)
-* [2023-08-08, 17:49:51](https://news.ycombinator.com/item?id=37052875) - [ChimeraOS: Instantly turn any PC into a gaming console](https://chimeraos.org/)
 * [2023-08-08, 17:36:25](https://news.ycombinator.com/item?id=37052710) - [Life has been found beneath hydrothermal vents for the first time](https://www.iflscience.com/life-has-been-found-beneath-hydrothermal-vents-for-the-first-time-70178)
 * [2023-08-08, 17:30:09](https://news.ycombinator.com/item?id=37052622) - [LCD, Please](https://dukope.itch.io/lcd-please)
 * [2023-08-08, 17:27:38](https://news.ycombinator.com/item?id=37052586) - [Downfall Attacks](https://downfall.page/)
+* [2023-08-08, 15:32:13](https://news.ycombinator.com/item?id=37050532) - [Show HN: Chat with your data using LangChain, Pinecone, and Airbyte](https://airbyte.com/tutorials/chat-with-your-data-using-openai-pinecone-airbyte-and-langchain)
 * [2023-08-08, 15:25:55](https://news.ycombinator.com/item?id=37050409) - [StableCode](https://stability.ai/blog/stablecode-llm-generative-ai-coding)
 * [2023-08-08, 15:14:09](https://news.ycombinator.com/item?id=37050229) - [My blog about my Dad’s work with Oppenheimer and the new movie](https://markwatson.com/p/my-dads-experiences-working-with)
 * [2023-08-08, 13:58:57](https://news.ycombinator.com/item?id=37049064) - [Bye, Gemini](https://www.makeworld.space/2023/08/bye_gemini.html)
@@ -30,6 +29,7 @@
 * [2023-08-08, 13:49:35](https://news.ycombinator.com/item?id=37048938) - [Banks hit with millions in fines for using Signal and WhatsApp](https://www.cnbc.com/2023/08/08/regulators-hit-wall-street-banks-with-549-million-in-penalties-for-record-keeping-failures-.html)
 * [2023-08-08, 13:35:10](https://news.ycombinator.com/item?id=37048758) - [Launch HN: Stellar Sleep (YC S23) – An app that helps people with insomnia](https://news.ycombinator.com/item?id=37048758)
 * [2023-08-08, 10:48:20](https://news.ycombinator.com/item?id=37047053) - [TSMC, Bosch, Infineon, NXP to jointly build semiconductor fab in Europe](https://pr.tsmc.com/english/news/3049)
+* [2023-08-07, 15:46:00](https://news.ycombinator.com/item?id=37036032) - [Show HN: The Population Project](https://thepopulationproject.org)
 
 ## [Archives](archives/index.md)
 
