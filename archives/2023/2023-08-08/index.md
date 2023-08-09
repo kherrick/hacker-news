@@ -23,6 +23,7 @@
 * [2023-08-08, 19:24:40](https://news.ycombinator.com/item?id=37054207) - [Are Implicit Operators a Path to Clean Code or a Buggy Nightmare?](https://hackernoon.com/are-implicit-operators-a-path-to-clean-code-or-a-buggy-nightmare)
 * [2023-08-08, 18:48:40](https://news.ycombinator.com/item?id=37053694) - [Us Electric grid history and overview](https://blog.chaselambda.com/2023/03/25/us-electric-grid-history-and-overview.html)
 * [2023-08-08, 18:41:32](https://news.ycombinator.com/item?id=37053601) - [ChatGPT now seems to be embedding ads in its responses](https://jacobw.xyz/projects/gpt_ads/)
+* [2023-08-08, 18:33:56](https://news.ycombinator.com/item?id=37053520) - [The Rise and Fall of Qualcomm Mirasol E-Readers (2018)](https://goodereader.com/blog/electronic-readers/the-rise-and-fall-of-qualcomm-mirasol-e-readers)
 * [2023-08-08, 18:25:52](https://news.ycombinator.com/item?id=37053405) - [Reimagining the Bioreactor](https://www.growbyginkgo.com/2023/07/11/reimagining-the-bioreactor/)
 * [2023-08-08, 18:17:16](https://news.ycombinator.com/item?id=37053273) - [PyPI Requires 2FA for New User Registrations](https://blog.pypi.org/posts/2023-08-08-2fa-enforcement-for-new-users/)
 * [2023-08-08, 18:15:33](https://news.ycombinator.com/item?id=37053250) - [Kubernetes Exposed: One YAML Away from Disaster](https://blog.aquasec.com/kubernetes-exposed-one-yaml-away-from-disaster)
