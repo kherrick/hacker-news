@@ -2,11 +2,11 @@
 
 * [2023-08-09, 21:01:04](https://news.ycombinator.com/item?id=37068346) - [BuildZoom (YC W13) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-08-09, 20:25:14](https://news.ycombinator.com/item?id=37067894) - [Optimization Techniques for GPU Programming [pdf]](https://dl.acm.org/doi/pdf/10.1145/3570638)
-* [2023-08-09, 20:07:52](https://news.ycombinator.com/item?id=37067696) - [Efficacy of infant simulator programmes to prevent teenage pregnancy](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)30384-1/fulltext)
 * [2023-08-09, 19:53:48](https://news.ycombinator.com/item?id=37067561) - [KO Myung-Hun's OS/2 Factory](https://www.os2.kr/komh/os2factory/)
 * [2023-08-09, 19:45:48](https://news.ycombinator.com/item?id=37067491) - [Java 21: What’s New?](https://www.loicmathieu.fr/wordpress/en/informatique/java-21-quoi-de-neuf/)
 * [2023-08-09, 18:56:15](https://news.ycombinator.com/item?id=37066989) - [Histoire: A new way to write stories, powered by Vite](https://histoire.dev/)
 * [2023-08-09, 18:28:30](https://news.ycombinator.com/item?id=37066680) - [Temptations of an open-source Chrome extension developer](https://github.com/extesy/hoverzoom/discussions/670)
+* [2023-08-09, 18:15:24](https://news.ycombinator.com/item?id=37066522) - [Making AMD GPUs competitive for LLM inference](https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference)
 * [2023-08-09, 17:54:51](https://news.ycombinator.com/item?id=37066292) - [When did Postgres become cool?](https://www.crunchydata.com/blog/when-did-postgres-become-cool)
 * [2023-08-09, 16:11:09](https://news.ycombinator.com/item?id=37064822) - [Launch HN: Refine (YC S23) – Open-Source Retool alternative for enterprise](https://news.ycombinator.com/item?id=37064822)
 * [2023-08-09, 15:26:56](https://news.ycombinator.com/item?id=37064152) - [Show HN: Get notified when sites update their terms of service](https://tosnotify.com/)

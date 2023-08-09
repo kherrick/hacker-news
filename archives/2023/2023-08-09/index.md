@@ -14,6 +14,7 @@
 * [2023-08-09, 19:31:00](https://news.ycombinator.com/item?id=37067368) - [Govt warns kenyans about Worldcoin](https://www.kenyans.co.ke/news/91702-govt-warns-kenyans-about-worldcoin)
 * [2023-08-09, 18:56:15](https://news.ycombinator.com/item?id=37066989) - [Histoire: A new way to write stories, powered by Vite](https://histoire.dev/)
 * [2023-08-09, 18:28:30](https://news.ycombinator.com/item?id=37066680) - [Many temptations of an open-source Chrome extension developer](https://github.com/extesy/hoverzoom/discussions/670)
+* [2023-08-09, 18:15:24](https://news.ycombinator.com/item?id=37066522) - [Making AMD GPUs competitive for LLM inference](https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference)
 * [2023-08-09, 17:56:47](https://news.ycombinator.com/item?id=37066312) - [Popular open source project Moq criticized for quietly collecting data](https://www.bleepingcomputer.com/news/security/popular-open-source-project-moq-criticized-for-quietly-collecting-data/)
 * [2023-08-09, 17:54:51](https://news.ycombinator.com/item?id=37066292) - [When Did Postgres Become Cool?](https://www.crunchydata.com/blog/when-did-postgres-become-cool)
 * [2023-08-09, 17:14:37](https://news.ycombinator.com/item?id=37065746) - [The time SUSE, the German Linux company, banned mentioning Jewish holidays](https://lunduke.substack.com/p/the-time-suse-the-german-linux-company)
