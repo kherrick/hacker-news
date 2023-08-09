@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-09, 19:45:48](https://news.ycombinator.com/item?id=37067491) - [Java 21: What’s New?](https://www.loicmathieu.fr/wordpress/en/informatique/java-21-quoi-de-neuf/)
 * [2023-08-09, 19:40:07](https://news.ycombinator.com/item?id=37067449) - [Living Wage Calculator](https://livingwage.mit.edu/)
 * [2023-08-09, 19:31:00](https://news.ycombinator.com/item?id=37067368) - [Govt warns kenyans about Worldcoin](https://www.kenyans.co.ke/news/91702-govt-warns-kenyans-about-worldcoin)
 * [2023-08-09, 18:56:15](https://news.ycombinator.com/item?id=37066989) - [Histoire: A new way to write stories, powered by Vite](https://histoire.dev/)
 * [2023-08-09, 18:28:30](https://news.ycombinator.com/item?id=37066680) - [Temptations of an open-source Chrome extension developer](https://github.com/extesy/hoverzoom/discussions/670)
 * [2023-08-09, 17:01:11](https://news.ycombinator.com/item?id=37065567) - [Aptible (YC S14) Is Hiring: Security Compliance Manager and Product-Led Sales Lead](https://www.aptible.com/culture-hub/careers)
-* [2023-08-09, 16:18:50](https://news.ycombinator.com/item?id=37064922) - [Maui wildfires are 'apocalyptic' as people jump into the ocean to flee](https://www.cnn.com/2023/08/09/weather/maui-county-wildfires-hurricane-dora/index.html)
 * [2023-08-09, 16:12:05](https://news.ycombinator.com/item?id=37064832) - [8 Ways Journalists Can Access Academic Research for Free](https://gijn.org/2023/08/09/8-ways-journalists-access-free-academic-research-journals/)
 * [2023-08-09, 16:11:09](https://news.ycombinator.com/item?id=37064822) - [Launch HN: Refine (YC S23) – Open-source platform for enterprise web apps](https://news.ycombinator.com/item?id=37064822)
 * [2023-08-09, 15:26:56](https://news.ycombinator.com/item?id=37064152) - [Show HN: Get notified when sites update their terms of service](https://tosnotify.com/)
