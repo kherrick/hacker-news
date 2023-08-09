@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-09](index.md)
 
 * [2023-08-09, 21:01:04](https://news.ycombinator.com/item?id=37068346) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2023-08-09, 20:25:14](https://news.ycombinator.com/item?id=37067894) - [Optimization Techniques for GPU Programming [pdf]](https://dl.acm.org/doi/pdf/10.1145/3570638)
 * [2023-08-09, 20:07:52](https://news.ycombinator.com/item?id=37067696) - [Efficacy of infant simulator programmes to prevent teenage pregnancy](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)30384-1/fulltext)
 * [2023-08-09, 19:53:48](https://news.ycombinator.com/item?id=37067561) - [KO Myung-Hun's OS/2 Factory](https://www.os2.kr/komh/os2factory/)
 * [2023-08-09, 19:46:36](https://news.ycombinator.com/item?id=37067503) - [Documenting Plants with a 3D Printer, NFC, and Cardinal](https://www.withcardinal.com/blog/2023-08-09-documenting-plants-with-cardinal)
