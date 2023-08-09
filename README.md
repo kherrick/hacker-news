@@ -13,6 +13,7 @@
 * [2023-08-08, 20:45:14](https://news.ycombinator.com/item?id=37055210) - [FDA Approves First Oral Treatment for Postpartum Depression](https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-treatment-postpartum-depression)
 * [2023-08-08, 20:14:01](https://news.ycombinator.com/item?id=37054862) - [Milk Sad: Weak Entropy in libbitcoin (bc) seed generation](https://milksad.info/)
 * [2023-08-08, 19:59:58](https://news.ycombinator.com/item?id=37054670) - [mCaptcha: Open-source proof-of-work captcha for websites](https://mcaptcha.org/)
+* [2023-08-08, 19:36:36](https://news.ycombinator.com/item?id=37054374) - [Show HN: Easyful – A Free Gumroad Alternative](https://www.easyful.com/)
 * [2023-08-08, 19:35:48](https://news.ycombinator.com/item?id=37054361) - [Low-cost Smartwatch powered by ESP32 module](https://linuxgizmos.com/low-cost-smartwatch-powered-by-esp32-s3-module/)
 * [2023-08-08, 19:24:40](https://news.ycombinator.com/item?id=37054207) - [Are Implicit Operators a Path to Clean Code or a Buggy Nightmare?](https://hackernoon.com/are-implicit-operators-a-path-to-clean-code-or-a-buggy-nightmare)
 * [2023-08-08, 18:33:56](https://news.ycombinator.com/item?id=37053520) - [The Rise and Fall of Qualcomm Mirasol E-Readers (2018)](https://goodereader.com/blog/electronic-readers/the-rise-and-fall-of-qualcomm-mirasol-e-readers)
@@ -28,7 +29,6 @@
 * [2023-08-08, 13:49:35](https://news.ycombinator.com/item?id=37048938) - [Banks hit with millions in fines for using Signal and WhatsApp](https://www.cnbc.com/2023/08/08/regulators-hit-wall-street-banks-with-549-million-in-penalties-for-record-keeping-failures-.html)
 * [2023-08-08, 13:35:10](https://news.ycombinator.com/item?id=37048758) - [Launch HN: Stellar Sleep (YC S23) – An app that helps people with insomnia](https://news.ycombinator.com/item?id=37048758)
 * [2023-08-08, 13:25:52](https://news.ycombinator.com/item?id=37048637) - [Amazon doesn't 'employ' drivers, but hired firms to prevent them from unionizing](https://www.vice.com/en/article/qjv3yp/amazon-says-it-doesnt-employ-drivers-but-records-show-it-hired-firms-to-prevent-them-from-unionizing)
-* [2023-08-08, 12:09:28](https://news.ycombinator.com/item?id=37047746) - [Web Scraping via JavaScript Runtime Heap Snapshots (2022)](https://www.adriancooney.ie/blog/web-scraping-via-javascript-heap-snapshots)
 * [2023-08-08, 10:48:20](https://news.ycombinator.com/item?id=37047053) - [TSMC, Bosch, Infineon, NXP to jointly build semiconductor fab in Europe](https://pr.tsmc.com/english/news/3049)
 
 ## [Archives](archives/index.md)
