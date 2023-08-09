@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2023-08-08, 20:14:01",
-      "https://news.ycombinator.com/item?id=37054862"
-    ],
-    [
-      "Milk Sad: Weak Entropy in libbitcoin (bc) seed generation",
-      "https://milksad.info/"
-    ]
-  ],
-  [
-    [
       "2023-08-08, 19:59:58",
       "https://news.ycombinator.com/item?id=37054670"
     ],
@@ -237,6 +227,16 @@
     [
       "Uninstall the NightOwl app",
       "https://robins.one/notes/uninstall-the-nightowl-app-now.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-08, 16:20:33",
+      "https://news.ycombinator.com/item?id=37051423"
+    ],
+    [
+      "Inception: A simple XOR can cause a Microarchitectural Stack Overflow",
+      "https://comsec.ethz.ch/research/microarch/inception/"
     ]
   ],
   [
