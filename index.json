@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-09, 19:40:07",
+      "https://news.ycombinator.com/item?id=37067449"
+    ],
+    [
+      "Living Wage Calculator",
+      "https://livingwage.mit.edu/"
+    ]
+  ],
+  [
+    [
+      "2023-08-09, 19:31:00",
+      "https://news.ycombinator.com/item?id=37067368"
+    ],
+    [
+      "Govt warns kenyans about Worldcoin",
+      "https://www.kenyans.co.ke/news/91702-govt-warns-kenyans-about-worldcoin"
+    ]
+  ],
+  [
+    [
       "2023-08-09, 18:56:15",
       "https://news.ycombinator.com/item?id=37066989"
     ],
@@ -17,16 +37,6 @@
     [
       "Temptations of an open-source Chrome extension developer",
       "https://github.com/extesy/hoverzoom/discussions/670"
-    ]
-  ],
-  [
-    [
-      "2023-08-09, 17:54:51",
-      "https://news.ycombinator.com/item?id=37066292"
-    ],
-    [
-      "When Did Postgres Become Cool?",
-      "https://www.crunchydata.com/blog/when-did-postgres-become-cool"
     ]
   ],
   [
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2023-08-09, 15:02:40",
-      "https://news.ycombinator.com/item?id=37063774"
-    ],
-    [
-      "Archive of novelty answering machine recordings",
-      "http://www.noveltyansweringmachine.com/audio/index.html"
-    ]
-  ],
-  [
-    [
       "2023-08-09, 14:57:23",
       "https://news.ycombinator.com/item?id=37063695"
     ],
@@ -147,16 +147,6 @@
     [
       "Arpchat – Text your friends on the same network using just ARP",
       "https://github.com/kognise/arpchat"
-    ]
-  ],
-  [
-    [
-      "2023-08-09, 13:45:18",
-      "https://news.ycombinator.com/item?id=37062547"
-    ],
-    [
-      "Tunnel Vision: CloudflareD AbuseD in the Wild",
-      "https://www.guidepointsecurity.com/blog/tunnel-vision-cloudflared-abused-in-the-wild/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The Quite OK Audio Format for Fast, Lossy Compression",
       "https://qoaformat.org/"
+    ]
+  ],
+  [
+    [
+      "2023-08-08, 06:41:33",
+      "https://news.ycombinator.com/item?id=37045329"
+    ],
+    [
+      "Graceful Behavior at Capacity",
+      "https://blog.nelhage.com/post/systems-at-capacity/"
     ]
   ],
   [
