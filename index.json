@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2023-08-09, 03:24:58",
+      "https://news.ycombinator.com/item?id=37058364"
+    ],
+    [
+      "Using GPT as an HVAC control system",
+      "https://arxiv.org/abs/2308.03028"
+    ]
+  ],
+  [
+    [
       "2023-08-09, 03:07:50",
       "https://news.ycombinator.com/item?id=37058278"
     ],
     [
       "Swap_8_and_9: A simple import can modify the Python interpreter",
       "https://kenschutte.com/python-swap-ints/"
+    ]
+  ],
+  [
+    [
+      "2023-08-09, 01:55:47",
+      "https://news.ycombinator.com/item?id=37057866"
+    ],
+    [
+      "Pure Bash Bible",
+      "https://github.com/dylanaraps/pure-bash-bible"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-08-08, 18:15:33",
-      "https://news.ycombinator.com/item?id=37053250"
-    ],
-    [
-      "Kubernetes Exposed: One YAML Away from Disaster",
-      "https://blog.aquasec.com/kubernetes-exposed-one-yaml-away-from-disaster"
-    ]
-  ],
-  [
-    [
       "2023-08-08, 17:49:51",
       "https://news.ycombinator.com/item?id=37052875"
     ],
@@ -267,16 +277,6 @@
     [
       "Show HN: Chat with your data using LangChain, Pinecone, and Airbyte",
       "https://airbyte.com/tutorials/chat-with-your-data-using-openai-pinecone-airbyte-and-langchain"
-    ]
-  ],
-  [
-    [
-      "2023-08-08, 13:55:46",
-      "https://news.ycombinator.com/item?id=37049016"
-    ],
-    [
-      "Blocked by Cloudflare",
-      "https://jrhawley.ca/2023/08/07/blocked-by-cloudflare"
     ]
   ],
   [
