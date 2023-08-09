@@ -4,7 +4,6 @@
 * [2023-08-09, 19:53:48](https://news.ycombinator.com/item?id=37067561) - [KO Myung-Hun's OS/2 Factory](https://www.os2.kr/komh/os2factory/)
 * [2023-08-09, 19:46:36](https://news.ycombinator.com/item?id=37067503) - [Documenting Plants with a 3D Printer, NFC, and Cardinal](https://www.withcardinal.com/blog/2023-08-09-documenting-plants-with-cardinal)
 * [2023-08-09, 19:45:48](https://news.ycombinator.com/item?id=37067491) - [Java 21: What’s New?](https://www.loicmathieu.fr/wordpress/en/informatique/java-21-quoi-de-neuf/)
-* [2023-08-09, 19:40:07](https://news.ycombinator.com/item?id=37067449) - [Living Wage Calculator](https://livingwage.mit.edu/)
 * [2023-08-09, 19:31:00](https://news.ycombinator.com/item?id=37067368) - [Govt warns kenyans about Worldcoin](https://www.kenyans.co.ke/news/91702-govt-warns-kenyans-about-worldcoin)
 * [2023-08-09, 18:56:15](https://news.ycombinator.com/item?id=37066989) - [Histoire: A new way to write stories, powered by Vite](https://histoire.dev/)
 * [2023-08-09, 18:28:30](https://news.ycombinator.com/item?id=37066680) - [Temptations of an open-source Chrome extension developer](https://github.com/extesy/hoverzoom/discussions/670)
@@ -28,6 +27,7 @@
 * [2023-08-09, 06:54:31](https://news.ycombinator.com/item?id=37059479) - [Llama from scratch, or how to implement a paper without crying](https://blog.briankitano.com/llama-from-scratch/)
 * [2023-08-09, 06:40:39](https://news.ycombinator.com/item?id=37059400) - [Supabase Local Dev: migrations, branching, and observability](https://supabase.com/blog/supabase-local-dev)
 * [2023-08-08, 11:27:30](https://news.ycombinator.com/item?id=37047343) - [The Quite OK Audio Format for Fast, Lossy Compression](https://qoaformat.org/)
+* [2023-08-08, 08:37:16](https://news.ycombinator.com/item?id=37046138) - [The Telephone (1997)](https://www.pbs.org/wgbh/americanexperience/films/telephone/)
 * [2023-08-08, 06:41:33](https://news.ycombinator.com/item?id=37045329) - [Graceful Behavior at Capacity](https://blog.nelhage.com/post/systems-at-capacity/)
 * [2023-08-07, 17:44:32](https://news.ycombinator.com/item?id=37037900) - [Qalculate – A multi-purpose cross-platform desktop calculator](https://qalculate.github.io/)
 
