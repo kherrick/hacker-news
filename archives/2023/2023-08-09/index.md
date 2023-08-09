@@ -7,6 +7,7 @@
 * [2023-08-09, 13:33:59](https://news.ycombinator.com/item?id=37062422) - [Show HN: I'm 17 and wrote this guide on how CPUs run programs](https://github.com/hackclub/putting-the-you-in-cpu)
 * [2023-08-09, 13:18:53](https://news.ycombinator.com/item?id=37062233) - [The Collapse of the EV SPACs: Another One Goes Bankrupt, Others on the Verge](https://wolfstreet.com/2023/08/09/the-collapse-of-the-ev-spacs-another-one-goes-bankrupt-others-on-the-verge/)
 * [2023-08-09, 13:12:37](https://news.ycombinator.com/item?id=37062157) - [She invited four people over for lunch. A week later, three were dead](https://www.washingtonpost.com/world/2023/08/09/australia-poisonous-mushroom-lunch-police/)
+* [2023-08-09, 13:01:14](https://news.ycombinator.com/item?id=37062007) - [Show HN: Infracost (YC W21): Be proactive with your cloud costs](https://news.ycombinator.com/item?id=37062007)
 * [2023-08-09, 12:56:44](https://news.ycombinator.com/item?id=37061949) - [Ups driver pay and benefits deal in US to be worth $170k a year, firm says](https://www.bbc.com/news/business-66445496)
 * [2023-08-09, 12:45:25](https://news.ycombinator.com/item?id=37061816) - [Ask HN: semi-old Firefox/Chrome can't update itslf, requires full reinstal, why?](https://news.ycombinator.com/item?id=37061816)
 * [2023-08-09, 12:33:53](https://news.ycombinator.com/item?id=37061694) - [How RLHF Preference Model Tuning Works (and How Things May Go Wrong)](https://www.assemblyai.com/blog/how-rlhf-preference-model-tuning-works-and-how-things-may-go-wrong/)
