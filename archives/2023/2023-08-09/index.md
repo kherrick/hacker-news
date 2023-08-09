@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-09](index.md)
 
+* [2023-08-09, 17:01:41](https://news.ycombinator.com/item?id=37065574) - [Supreme Court rules against Epic, so Apple can keep its App Store payment rules](https://www.theverge.com/2023/8/9/23826043/epic-apple-app-store-supreme-court-petition)
+* [2023-08-09, 17:01:11](https://news.ycombinator.com/item?id=37065567) - [Aptible (YC S14) Is Hiring: Security Compliance Manager and Product-Led Sales Lead](https://www.aptible.com/culture-hub/careers)
 * [2023-08-09, 16:50:51](https://news.ycombinator.com/item?id=37065413) - [Credit card debt tops $1 trillion, trapping even six-figure earners](https://www.washingtonpost.com/business/2023/08/08/credit-card-debt-1-trillion-high-earners/)
 * [2023-08-09, 16:12:05](https://news.ycombinator.com/item?id=37064832) - [8 Ways Journalists Can Access Academic Research for Free](https://gijn.org/2023/08/09/8-ways-journalists-access-free-academic-research-journals/)
 * [2023-08-09, 16:11:09](https://news.ycombinator.com/item?id=37064822) - [Launch HN: Refine (YC S23) – Open-Source Retool for Enterprise](https://news.ycombinator.com/item?id=37064822)
