@@ -21,7 +21,7 @@
 * [2023-08-08, 17:36:25](https://news.ycombinator.com/item?id=37052710) - [Life has been found beneath hydrothermal vents for the first time](https://www.iflscience.com/life-has-been-found-beneath-hydrothermal-vents-for-the-first-time-70178)
 * [2023-08-08, 17:30:09](https://news.ycombinator.com/item?id=37052622) - [LCD, Please](https://dukope.itch.io/lcd-please)
 * [2023-08-08, 17:27:38](https://news.ycombinator.com/item?id=37052586) - [Downfall Attacks](https://downfall.page/)
-* [2023-08-08, 17:23:00](https://news.ycombinator.com/item?id=37052508) - [Uninstall the NightOwl app](https://robins.one/notes/uninstall-the-nightowl-app-now.html)
+* [2023-08-08, 17:06:53](https://news.ycombinator.com/item?id=37052243) - [Who Named Earth?](https://scienceswitch.com/2023/08/08/who-named-earth/)
 * [2023-08-08, 15:25:55](https://news.ycombinator.com/item?id=37050409) - [StableCode](https://stability.ai/blog/stablecode-llm-generative-ai-coding)
 * [2023-08-08, 13:58:57](https://news.ycombinator.com/item?id=37049064) - [Bye, Gemini](https://www.makeworld.space/2023/08/bye_gemini.html)
 * [2023-08-08, 13:55:46](https://news.ycombinator.com/item?id=37049016) - [Blocked by Cloudflare](https://jrhawley.ca/2023/08/07/blocked-by-cloudflare)
