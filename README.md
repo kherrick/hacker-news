@@ -7,7 +7,6 @@
 * [2023-08-09, 06:55:13](https://news.ycombinator.com/item?id=37059487) - [A Critical Problem (2017)](https://nucleardiner.wordpress.com/2017/06/19/a-critical-problem/)
 * [2023-08-09, 06:54:49](https://news.ycombinator.com/item?id=37059481) - [Happy Birthday OpenStreetMap](https://blog.openstreetmap.org/2023/08/09/happy-birthday-openstreetmap-2/)
 * [2023-08-09, 06:54:31](https://news.ycombinator.com/item?id=37059479) - [Llama from Scratch (or how to implement a paper without crying)](https://blog.briankitano.com/llama-from-scratch/)
-* [2023-08-09, 06:33:36](https://news.ycombinator.com/item?id=37059365) - [Italy shocks banks with 40 percent windfall tax for 2023](https://www.aljazeera.com/news/2023/8/8/italy-shocks-banks-with-40-percent-windfall-tax-for-2023)
 * [2023-08-09, 04:24:56](https://news.ycombinator.com/item?id=37058674) - [G9.js: Automatically Interactive Graphics](http://omrelli.ug/g9/gallery/)
 * [2023-08-09, 03:07:50](https://news.ycombinator.com/item?id=37058278) - [Swap_8_and_9: A simple import can modify the Python interpreter](https://kenschutte.com/python-swap-ints/)
 * [2023-08-09, 01:55:47](https://news.ycombinator.com/item?id=37057866) - [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
@@ -28,6 +27,7 @@
 * [2023-08-08, 18:25:52](https://news.ycombinator.com/item?id=37053405) - [Reimagining the Bioreactor](https://www.growbyginkgo.com/2023/07/11/reimagining-the-bioreactor/)
 * [2023-08-08, 17:30:09](https://news.ycombinator.com/item?id=37052622) - [LCD, Please](https://dukope.itch.io/lcd-please)
 * [2023-08-08, 17:27:38](https://news.ycombinator.com/item?id=37052586) - [Downfall Attacks](https://downfall.page/)
+* [2023-08-08, 13:55:46](https://news.ycombinator.com/item?id=37049016) - [Blocked by Cloudflare](https://jrhawley.ca/2023/08/07/blocked-by-cloudflare)
 * [2023-08-08, 13:35:10](https://news.ycombinator.com/item?id=37048758) - [Launch HN: Stellar Sleep (YC S23) – An app that helps people with insomnia](https://news.ycombinator.com/item?id=37048758)
 * [2023-08-08, 10:48:20](https://news.ycombinator.com/item?id=37047053) - [TSMC, Bosch, Infineon, NXP to jointly build semiconductor fab in Europe](https://pr.tsmc.com/english/news/3049)
 
