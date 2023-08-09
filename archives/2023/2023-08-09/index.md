@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-09](index.md)
 
+* [2023-08-09, 18:28:30](https://news.ycombinator.com/item?id=37066680) - [Many temptations of an open-source Chrome extension developer](https://github.com/extesy/hoverzoom/discussions/670)
+* [2023-08-09, 17:54:51](https://news.ycombinator.com/item?id=37066292) - [When Did Postgres Become Cool?](https://www.crunchydata.com/blog/when-did-postgres-become-cool)
 * [2023-08-09, 17:14:37](https://news.ycombinator.com/item?id=37065746) - [The time SUSE, the German Linux company, banned mentioning Jewish holidays](https://lunduke.substack.com/p/the-time-suse-the-german-linux-company)
 * [2023-08-09, 17:01:41](https://news.ycombinator.com/item?id=37065574) - [Supreme Court rules against Epic, so Apple can keep its App Store payment rules](https://www.theverge.com/2023/8/9/23826043/epic-apple-app-store-supreme-court-petition)
 * [2023-08-09, 17:01:11](https://news.ycombinator.com/item?id=37065567) - [Aptible (YC S14) Is Hiring: Security Compliance Manager and Product-Led Sales Lead](https://www.aptible.com/culture-hub/careers)
