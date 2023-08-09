@@ -34,6 +34,7 @@
 * [2023-08-07, 17:01:02](https://news.ycombinator.com/item?id=37037224) - [OneSignal (YC S11) Is Hiring Senior Software Engineers](https://onesignal.com/careers#section-job)
 * [2023-08-07, 16:59:00](https://news.ycombinator.com/item?id=37037196) - [How Zoom’s terms of service and practices apply to AI features](https://blog.zoom.us/zooms-term-service-ai/)
 * [2023-08-07, 16:42:00](https://news.ycombinator.com/item?id=37036913) - [Comlink Makes WebWorkers Enjoyable](https://www.npmjs.com/package/comlink)
+* [2023-08-07, 16:40:14](https://news.ycombinator.com/item?id=37036888) - [The Ultimate-Rare story: 40 years of brilliant British games](https://www.theguardian.com/games/2023/aug/07/ultimate-rare-40-years-british-videogames-jet-pac-goldeneye-sea-of-thieves)
 * [2023-08-07, 16:38:17](https://news.ycombinator.com/item?id=37036851) - [GNU/Hurd strikes back: How to use the legendary OS in a (somewhat) practical way](https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d)
 * [2023-08-07, 16:22:46](https://news.ycombinator.com/item?id=37036566) - [Math for kids outside of the Calculus Sequence](https://kidswholovemath.substack.com/p/math-for-kids-outside-of-the-calculus)
 * [2023-08-07, 16:09:12](https://news.ycombinator.com/item?id=37036339) - [Displays of traffic crash numbers increase traffic crashes](https://www.science.org/doi/full/10.1126/science.abm3427)

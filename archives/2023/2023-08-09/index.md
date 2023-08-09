@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-09](index.md)
 
+* [2023-08-09, 11:08:20](https://news.ycombinator.com/item?id=37060974) - [The Fear of AI Just Killed a Useful Tool](https://www.techdirt.com/2023/08/08/the-fear-of-ai-just-killed-a-very-useful-tool/)
+* [2023-08-09, 10:51:00](https://news.ycombinator.com/item?id=37060871) - [WeWork Warns of Possible Bankruptcy](https://www.cnbc.com/2023/08/08/wework-warns-of-remaining-going-concern-and-says-bankruptcy-possible.html)
 * [2023-08-09, 10:18:46](https://news.ycombinator.com/item?id=37060654) - [Mullvad VPN – Infrastructure Audit Completed by Open Security](https://mullvad.net/en/blog/2023/8/9/infrastructure-audit-completed-by-radically-open-security/)
 * [2023-08-09, 09:14:46](https://news.ycombinator.com/item?id=37060313) - [Inception Attack](https://www.bleepingcomputer.com/news/security/new-inception-attack-leaks-sensitive-data-from-all-amd-zen-cpus/)
 * [2023-08-09, 09:07:27](https://news.ycombinator.com/item?id=37060269) - [New part day: Finally a 100% new Commodore 64 can be built](https://1nt3r.net/j-cia/)
