@@ -9,6 +9,7 @@
 * [2023-08-09, 10:18:46](https://news.ycombinator.com/item?id=37060654) - [Mullvad VPN – Infrastructure Audit Completed by Open Security](https://mullvad.net/en/blog/2023/8/9/infrastructure-audit-completed-by-radically-open-security/)
 * [2023-08-09, 09:14:46](https://news.ycombinator.com/item?id=37060313) - [Inception Attack](https://www.bleepingcomputer.com/news/security/new-inception-attack-leaks-sensitive-data-from-all-amd-zen-cpus/)
 * [2023-08-09, 09:07:27](https://news.ycombinator.com/item?id=37060269) - [New part day: Finally a 100% new Commodore 64 can be built](https://1nt3r.net/j-cia/)
+* [2023-08-09, 09:01:23](https://news.ycombinator.com/item?id=37060226) - [Intel's GPU Drivers Now Collect Telemetry, Including 'How You Use Your Computer'](https://www.extremetech.com/gaming/intels-gpu-drivers-now-collect-telemetry-including-how-you-use-your-computer)
 * [2023-08-09, 08:28:11](https://news.ycombinator.com/item?id=37060014) - [Stop Using Brave Browser](https://www.spacebar.news/p/stop-using-brave-browser)
 * [2023-08-09, 08:02:54](https://news.ycombinator.com/item?id=37059857) - [Canonical's interview process step by step (by step by step by)](https://old.reddit.com/r/recruitinghell/comments/15kj845/canonical_the_recruitment_process_really_is_that/)
 * [2023-08-09, 07:16:37](https://news.ycombinator.com/item?id=37059594) - [Reflecting on My Failure to Build a Billion-Dollar Company (2019)](https://sahillavingia.com/reflecting)
