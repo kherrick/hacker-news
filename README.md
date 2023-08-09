@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-09, 16:50:51](https://news.ycombinator.com/item?id=37065413) - [Credit card debt tops $1 trillion, trapping even six-figure earners](https://www.washingtonpost.com/business/2023/08/08/credit-card-debt-1-trillion-high-earners/)
 * [2023-08-09, 16:12:05](https://news.ycombinator.com/item?id=37064832) - [8 Ways Journalists Can Access Academic Research for Free](https://gijn.org/2023/08/09/8-ways-journalists-access-free-academic-research-journals/)
 * [2023-08-09, 16:11:09](https://news.ycombinator.com/item?id=37064822) - [Launch HN: Refine (YC S23) – Open-Source Retool for Enterprise](https://news.ycombinator.com/item?id=37064822)
 * [2023-08-09, 15:26:56](https://news.ycombinator.com/item?id=37064152) - [Show HN: Get notified when sites update their terms of service](https://tosnotify.com/)
@@ -22,12 +23,11 @@
 * [2023-08-09, 12:00:30](https://news.ycombinator.com/item?id=37061352) - [Tesorio (YC S15) Is Hiring a Head of Marketing – join our 100% remote startup](https://jobs.lever.co/tesorio/10de016f-be07-4707-ac5c-7029f0398a17)
 * [2023-08-09, 10:18:46](https://news.ycombinator.com/item?id=37060654) - [Infrastructure audit completed by Radically Open Security](https://mullvad.net/en/blog/2023/8/9/infrastructure-audit-completed-by-radically-open-security/)
 * [2023-08-09, 09:07:27](https://news.ycombinator.com/item?id=37060269) - [J-CIA64 – Modern spare part for Commodore 64, Commodore 128, SX-64](https://1nt3r.net/j-cia/)
-* [2023-08-09, 09:01:23](https://news.ycombinator.com/item?id=37060226) - [Intel's GPU Drivers Now Collect Telemetry, Including 'How You Use Your Computer'](https://www.extremetech.com/gaming/intels-gpu-drivers-now-collect-telemetry-including-how-you-use-your-computer)
 * [2023-08-09, 08:02:54](https://news.ycombinator.com/item?id=37059857) - [Canonical’s recruitment process is long and complex](https://old.reddit.com/r/recruitinghell/comments/15kj845/canonical_the_recruitment_process_really_is_that/)
 * [2023-08-09, 06:55:13](https://news.ycombinator.com/item?id=37059487) - [A Critical Problem (2017)](https://nucleardiner.wordpress.com/2017/06/19/a-critical-problem/)
 * [2023-08-09, 06:54:31](https://news.ycombinator.com/item?id=37059479) - [Llama from scratch, or how to implement a paper without crying](https://blog.briankitano.com/llama-from-scratch/)
+* [2023-08-09, 06:40:39](https://news.ycombinator.com/item?id=37059400) - [Supabase Local Dev: migrations, branching, and observability](https://supabase.com/blog/supabase-local-dev)
 * [2023-08-09, 04:24:56](https://news.ycombinator.com/item?id=37058674) - [G9.js: Automatically Interactive Graphics](http://omrelli.ug/g9/gallery/)
-* [2023-08-09, 01:55:47](https://news.ycombinator.com/item?id=37057866) - [Pure Bash Bible (2018)](https://github.com/dylanaraps/pure-bash-bible)
 * [2023-08-07, 17:44:32](https://news.ycombinator.com/item?id=37037900) - [Qalculate – A multi-purpose cross-platform desktop calculator](https://qalculate.github.io/)
 * [2023-08-07, 16:40:14](https://news.ycombinator.com/item?id=37036888) - [The Ultimate-Rare story: 40 years of brilliant British games](https://www.theguardian.com/games/2023/aug/07/ultimate-rare-40-years-british-videogames-jet-pac-goldeneye-sea-of-thieves)
 

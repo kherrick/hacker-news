@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-09](index.md)
 
+* [2023-08-09, 16:50:51](https://news.ycombinator.com/item?id=37065413) - [Credit card debt tops $1 trillion, trapping even six-figure earners](https://www.washingtonpost.com/business/2023/08/08/credit-card-debt-1-trillion-high-earners/)
 * [2023-08-09, 16:12:05](https://news.ycombinator.com/item?id=37064832) - [8 Ways Journalists Can Access Academic Research for Free](https://gijn.org/2023/08/09/8-ways-journalists-access-free-academic-research-journals/)
 * [2023-08-09, 16:11:09](https://news.ycombinator.com/item?id=37064822) - [Launch HN: Refine (YC S23) – Open-Source Retool for Enterprise](https://news.ycombinator.com/item?id=37064822)
 * [2023-08-09, 15:26:56](https://news.ycombinator.com/item?id=37064152) - [Show HN: Get notified when sites update their terms of service](https://tosnotify.com/)
@@ -49,6 +50,7 @@
 * [2023-08-09, 06:54:49](https://news.ycombinator.com/item?id=37059481) - [Happy Birthday OpenStreetMap](https://blog.openstreetmap.org/2023/08/09/happy-birthday-openstreetmap-2/)
 * [2023-08-09, 06:54:31](https://news.ycombinator.com/item?id=37059479) - [Llama from Scratch (or how to implement a paper without crying)](https://blog.briankitano.com/llama-from-scratch/)
 * [2023-08-09, 06:40:41](https://news.ycombinator.com/item?id=37059402) - [AI Boyfriend [video]](https://www.youtube.com/watch?v=KiPQdVC5RHU)
+* [2023-08-09, 06:40:39](https://news.ycombinator.com/item?id=37059400) - [Supabase Local Dev: migrations, branching, and observability](https://supabase.com/blog/supabase-local-dev)
 * [2023-08-09, 06:33:36](https://news.ycombinator.com/item?id=37059365) - [Italy shocks banks with 40 percent windfall tax for 2023](https://www.aljazeera.com/news/2023/8/8/italy-shocks-banks-with-40-percent-windfall-tax-for-2023)
 * [2023-08-09, 05:51:11](https://news.ycombinator.com/item?id=37059126) - [Superconductor LK99 Update](http://backreaction.blogspot.com/2023/08/superconductor-lk99-update.html)
 * [2023-08-09, 04:24:56](https://news.ycombinator.com/item?id=37058674) - [G9.js: Automatically Interactive Graphics](http://omrelli.ug/g9/gallery/)
