@@ -37,6 +37,7 @@
 * [2023-08-09, 12:45:25](https://news.ycombinator.com/item?id=37061816) - [Ask HN: semi-old Firefox/Chrome can't update itslf, requires full reinstal, why?](https://news.ycombinator.com/item?id=37061816)
 * [2023-08-09, 12:33:53](https://news.ycombinator.com/item?id=37061694) - [How RLHF Preference Model Tuning Works (and How Things May Go Wrong)](https://www.assemblyai.com/blog/how-rlhf-preference-model-tuning-works-and-how-things-may-go-wrong/)
 * [2023-08-09, 12:00:30](https://news.ycombinator.com/item?id=37061352) - [Tesorio (YC S15) Is Hiring a Head of Marketing – join our 100% remote startup](https://jobs.lever.co/tesorio/10de016f-be07-4707-ac5c-7029f0398a17)
+* [2023-08-09, 11:30:47](https://news.ycombinator.com/item?id=37061127) - [Review: Beepy a Palm-Sized Linux Hacking Playground](https://hackaday.com/2023/08/07/review-beepy-a-palm-sized-linux-hacking-playground/)
 * [2023-08-09, 11:08:20](https://news.ycombinator.com/item?id=37060974) - [The Fear of AI Just Killed a Useful Tool](https://www.techdirt.com/2023/08/08/the-fear-of-ai-just-killed-a-very-useful-tool/)
 * [2023-08-09, 10:51:00](https://news.ycombinator.com/item?id=37060871) - [WeWork Warns of Possible Bankruptcy](https://www.cnbc.com/2023/08/08/wework-warns-of-remaining-going-concern-and-says-bankruptcy-possible.html)
 * [2023-08-09, 10:18:46](https://news.ycombinator.com/item?id=37060654) - [Mullvad VPN – Infrastructure Audit Completed by Open Security](https://mullvad.net/en/blog/2023/8/9/infrastructure-audit-completed-by-radically-open-security/)

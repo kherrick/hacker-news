@@ -2,7 +2,6 @@
 
 * [2023-08-09, 17:01:41](https://news.ycombinator.com/item?id=37065574) - [Supreme Court rules against Epic, so Apple can keep its App Store payment rules](https://www.theverge.com/2023/8/9/23826043/epic-apple-app-store-supreme-court-petition)
 * [2023-08-09, 17:01:11](https://news.ycombinator.com/item?id=37065567) - [Aptible (YC S14) Is Hiring: Security Compliance Manager and Product-Led Sales Lead](https://www.aptible.com/culture-hub/careers)
-* [2023-08-09, 16:50:51](https://news.ycombinator.com/item?id=37065413) - [Credit card debt tops $1 trillion, trapping even six-figure earners](https://www.washingtonpost.com/business/2023/08/08/credit-card-debt-1-trillion-high-earners/)
 * [2023-08-09, 16:12:05](https://news.ycombinator.com/item?id=37064832) - [8 Ways Journalists Can Access Academic Research for Free](https://gijn.org/2023/08/09/8-ways-journalists-access-free-academic-research-journals/)
 * [2023-08-09, 16:11:09](https://news.ycombinator.com/item?id=37064822) - [Launch HN: Refine (YC S23) – Open-Source Retool for Enterprise](https://news.ycombinator.com/item?id=37064822)
 * [2023-08-09, 15:26:56](https://news.ycombinator.com/item?id=37064152) - [Show HN: Get notified when sites update their terms of service](https://tosnotify.com/)
@@ -16,11 +15,13 @@
 * [2023-08-09, 14:24:56](https://news.ycombinator.com/item?id=37063151) - [Arpchat – Text your friends on the same network using just ARP](https://github.com/kognise/arpchat)
 * [2023-08-09, 14:03:46](https://news.ycombinator.com/item?id=37062820) - [Nintendo filed numerous patents for Zelda: Tears of the Kingdom mechanics](https://automaton-media.com/en/news/20230808-20590/)
 * [2023-08-09, 13:52:33](https://news.ycombinator.com/item?id=37062650) - [Want employees to return to the office? Then give each one an office](https://www.washingtonpost.com/opinions/2023/08/09/remote-work-offices-floorplan-privacy/)
+* [2023-08-09, 13:47:56](https://news.ycombinator.com/item?id=37062579) - [Planetary defense test deflected an asteroid but unleashed a boulder swarm](https://newsroom.ucla.edu/releases/planetary-defense-nasa-dart-mission-asteroid)
 * [2023-08-09, 13:45:18](https://news.ycombinator.com/item?id=37062547) - [Tunnel Vision: CloudflareD AbuseD in the Wild](https://www.guidepointsecurity.com/blog/tunnel-vision-cloudflared-abused-in-the-wild/)
 * [2023-08-09, 13:33:59](https://news.ycombinator.com/item?id=37062422) - [I'm 17 and wrote this guide on how CPUs run programs](https://github.com/hackclub/putting-the-you-in-cpu)
 * [2023-08-09, 13:01:14](https://news.ycombinator.com/item?id=37062007) - [Show HN: Infracost (YC W21): Be proactive with your cloud costs](https://news.ycombinator.com/item?id=37062007)
 * [2023-08-09, 12:47:47](https://news.ycombinator.com/item?id=37061842) - [The Garden of Computational Delights](https://arbesman.net/computationaldelights/)
 * [2023-08-09, 12:33:53](https://news.ycombinator.com/item?id=37061694) - [How RLHF Preference Model Tuning Works (and How Things May Go Wrong)](https://www.assemblyai.com/blog/how-rlhf-preference-model-tuning-works-and-how-things-may-go-wrong/)
+* [2023-08-09, 11:30:47](https://news.ycombinator.com/item?id=37061127) - [Review: Beepy a Palm-Sized Linux Hacking Playground](https://hackaday.com/2023/08/07/review-beepy-a-palm-sized-linux-hacking-playground/)
 * [2023-08-09, 10:18:46](https://news.ycombinator.com/item?id=37060654) - [Infrastructure audit completed by Radically Open Security](https://mullvad.net/en/blog/2023/8/9/infrastructure-audit-completed-by-radically-open-security/)
 * [2023-08-09, 09:07:27](https://news.ycombinator.com/item?id=37060269) - [J-CIA64 – Modern spare part for Commodore 64, Commodore 128, SX-64](https://1nt3r.net/j-cia/)
 * [2023-08-09, 08:02:54](https://news.ycombinator.com/item?id=37059857) - [Canonical’s recruitment process is long and complex](https://old.reddit.com/r/recruitinghell/comments/15kj845/canonical_the_recruitment_process_really_is_that/)
@@ -29,7 +30,6 @@
 * [2023-08-09, 06:40:39](https://news.ycombinator.com/item?id=37059400) - [Supabase Local Dev: migrations, branching, and observability](https://supabase.com/blog/supabase-local-dev)
 * [2023-08-09, 04:24:56](https://news.ycombinator.com/item?id=37058674) - [G9.js: Automatically Interactive Graphics](http://omrelli.ug/g9/gallery/)
 * [2023-08-07, 17:44:32](https://news.ycombinator.com/item?id=37037900) - [Qalculate – A multi-purpose cross-platform desktop calculator](https://qalculate.github.io/)
-* [2023-08-07, 16:40:14](https://news.ycombinator.com/item?id=37036888) - [The Ultimate-Rare story: 40 years of brilliant British games](https://www.theguardian.com/games/2023/aug/07/ultimate-rare-40-years-british-videogames-jet-pac-goldeneye-sea-of-thieves)
 
 ## [Archives](archives/index.md)
 
