@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-09](index.md)
 
+* [2023-08-09, 20:07:52](https://news.ycombinator.com/item?id=37067696) - [Efficacy of infant simulator programmes to prevent teenage pregnancy](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)30384-1/fulltext)
 * [2023-08-09, 19:45:48](https://news.ycombinator.com/item?id=37067491) - [Java 21: What’s New?](https://www.loicmathieu.fr/wordpress/en/informatique/java-21-quoi-de-neuf/)
 * [2023-08-09, 19:40:07](https://news.ycombinator.com/item?id=37067449) - [Living Wage Calculator](https://livingwage.mit.edu/)
 * [2023-08-09, 19:31:00](https://news.ycombinator.com/item?id=37067368) - [Govt warns kenyans about Worldcoin](https://www.kenyans.co.ke/news/91702-govt-warns-kenyans-about-worldcoin)
