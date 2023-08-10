@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-10](index.md)
 
+* [2023-08-10, 18:05:41](https://news.ycombinator.com/item?id=37079616) - [Water Cooled Rooftop Solar Panels](https://evergreenoffgrid.com/water-cooled-rooftop-solar-panels/)
 * [2023-08-10, 17:59:07](https://news.ycombinator.com/item?id=37079534) - [eSignature for Google Docs and Google Drive (Beta)](https://workspaceupdates.googleblog.com/2023/08/esignature-google-docs-google-drive.html)
 * [2023-08-10, 17:53:18](https://news.ycombinator.com/item?id=37079438) - [Amazon Cuts Dozens of House Brands as It Battles Costs, Regulators](https://www.wsj.com/articles/amazon-cuts-dozens-of-house-brands-as-it-battles-costs-regulators-3f6ad56d)
+* [2023-08-10, 17:49:44](https://news.ycombinator.com/item?id=37079378) - [Lichess will no longer cooperate with the USCF and the Saint Louis Chess Club](https://lichess.org/blog/ZNTniBEAACEAJZTn/breaking-the-silence)
 * [2023-08-10, 17:36:26](https://news.ycombinator.com/item?id=37079162) - [Timelapse of Cigarettes Left in Soil for an Entire Year](https://petapixel.com/2023/08/07/incredible-timelapse-of-cigarettes-left-in-soil-for-an-entire-year/)
 * [2023-08-10, 17:19:44](https://news.ycombinator.com/item?id=37078930) - [Rhino Linux is a rolling release Ubuntu-based distribution](https://rhinolinux.org/)
 * [2023-08-10, 17:18:43](https://news.ycombinator.com/item?id=37078914) - [US Will Have to Write Off Billions in Student Debt Due to Deaths](https://www.bloomberg.com/news/articles/2023-08-07/us-will-have-to-write-off-billions-in-student-debt-due-to-deaths)

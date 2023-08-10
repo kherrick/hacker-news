@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-10, 18:05:41](https://news.ycombinator.com/item?id=37079616) - [Water Cooled Rooftop Solar Panels](https://evergreenoffgrid.com/water-cooled-rooftop-solar-panels/)
 * [2023-08-10, 17:59:07](https://news.ycombinator.com/item?id=37079534) - [eSignature for Google Docs and Google Drive (Beta)](https://workspaceupdates.googleblog.com/2023/08/esignature-google-docs-google-drive.html)
 * [2023-08-10, 17:53:18](https://news.ycombinator.com/item?id=37079438) - [Amazon Cuts Dozens of House Brands as It Battles Costs, Regulators](https://www.wsj.com/articles/amazon-cuts-dozens-of-house-brands-as-it-battles-costs-regulators-3f6ad56d)
+* [2023-08-10, 17:49:44](https://news.ycombinator.com/item?id=37079378) - [Lichess will no longer cooperate with the USCF and the Saint Louis Chess Club](https://lichess.org/blog/ZNTniBEAACEAJZTn/breaking-the-silence)
 * [2023-08-10, 17:36:26](https://news.ycombinator.com/item?id=37079162) - [Timelapse of Cigarettes Left in Soil for an Entire Year](https://petapixel.com/2023/08/07/incredible-timelapse-of-cigarettes-left-in-soil-for-an-entire-year/)
 * [2023-08-10, 17:19:44](https://news.ycombinator.com/item?id=37078930) - [Rhino Linux is a rolling release Ubuntu-based distribution](https://rhinolinux.org/)
 * [2023-08-10, 17:05:43](https://news.ycombinator.com/item?id=37078753) - [LangchainJs Real-World Examples](https://github.com/amalshehu/langchain-js-realworld)
@@ -24,12 +26,10 @@
 * [2023-08-10, 04:41:18](https://news.ycombinator.com/item?id=37072036) - [How to Make Viking Funerary Flatbread](https://www.atlasobscura.com/articles/make-viking-funeral-flatbreads)
 * [2023-08-09, 18:28:30](https://news.ycombinator.com/item?id=37066680) - [Temptations of an open-source Chrome extension developer (2021)](https://github.com/extesy/hoverzoom/discussions/670)
 * [2023-08-09, 16:41:55](https://news.ycombinator.com/item?id=37065288) - [Sixto Rodriguez has died](https://abcnews.go.com/Entertainment/wireStory/singer-songwriter-sixto-rodriguez-subject-searching-sugarman-documentary-102133209)
-* [2023-08-09, 09:13:49](https://news.ycombinator.com/item?id=37060305) - [The Tetris Effect](https://nonzerosum.games/thetetriseffect.html)
 * [2023-08-09, 04:40:19](https://news.ycombinator.com/item?id=37058773) - [John Preskill's retrospective on the black hole information paradox](https://quantumfrontiers.com/2023/08/08/it-from-qubit-the-last-harrah/)
 * [2023-08-08, 18:08:41](https://news.ycombinator.com/item?id=37053157) - [Exoplanets Could Help Us Learn How Planets Make Magnetism](https://www.quantamagazine.org/exoplanets-could-help-us-learn-how-planets-make-magnetism-20230807/)
 * [2023-08-08, 14:24:17](https://news.ycombinator.com/item?id=37049415) - [SynJax: Jax library for efficient probabilistic modeling of structured objects](https://twitter.com/milosstanojevic/status/1688896558790520832)
 * [2023-08-08, 13:56:54](https://news.ycombinator.com/item?id=37049029) - [Developers are building communities that act as their own miniature power grids](https://www.nytimes.com/2023/08/07/realestate/microgrid-solar-power-energy.html)
-* [2023-08-08, 08:43:29](https://news.ycombinator.com/item?id=37046172) - [Commodore PET Keys – Series 2001 Edition](https://www.masswerk.at/nowgobang/2023/pet-keys-2001-edition)
 
 ## [Archives](archives/index.md)
 
