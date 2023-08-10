@@ -85,6 +85,7 @@
 * [2023-08-08, 10:37:55](https://news.ycombinator.com/item?id=37046973) - [Terminal Support for Emoji](https://darrenburns.net/posts/emoji-in-the-terminal/)
 * [2023-08-08, 10:37:05](https://news.ycombinator.com/item?id=37046970) - [Typograms – Renderer for ASCII Diagrams](https://google.github.io/typograms/)
 * [2023-08-08, 09:22:47](https://news.ycombinator.com/item?id=37046448) - [Can Toilet Paper Cause Impotence?](https://spy.com/articles/grooming/hygiene/toilet-paper-forever-chemicals-1202971286/)
+* [2023-08-08, 09:11:13](https://news.ycombinator.com/item?id=37046353) - [A History of Clojure (2020) [pdf]](https://download.clojure.org/papers/clojure-hopl-iv-final.pdf)
 * [2023-08-08, 09:04:53](https://news.ycombinator.com/item?id=37046300) - [The Legitimacy of Takeover Defense in the '90s](https://via.library.depaul.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1969&context=law-review)
 * [2023-08-08, 08:43:29](https://news.ycombinator.com/item?id=37046172) - [Commodore PET Keys – Series 2001 Edition](https://www.masswerk.at/nowgobang/2023/pet-keys-2001-edition)
 * [2023-08-08, 08:37:16](https://news.ycombinator.com/item?id=37046138) - [The Telephone (1997)](https://www.pbs.org/wgbh/americanexperience/films/telephone/)

@@ -27,8 +27,8 @@
 * [2023-08-09, 08:59:06](https://news.ycombinator.com/item?id=37060213) - [Piano Emulator in Your Terminal](https://github.com/eliasdorneles/upiano)
 * [2023-08-08, 11:49:59](https://news.ycombinator.com/item?id=37047529) - [Braille Is Alive, Well, and Ever-Evolving](https://themillions.com/2023/07/braille-is-alive-well-and-ever-evolving.html)
 * [2023-08-08, 11:27:30](https://news.ycombinator.com/item?id=37047343) - [The Quite OK Audio Format for Fast, Lossy Compression](https://qoaformat.org/)
+* [2023-08-08, 09:11:13](https://news.ycombinator.com/item?id=37046353) - [A History of Clojure (2020) [pdf]](https://download.clojure.org/papers/clojure-hopl-iv-final.pdf)
 * [2023-08-08, 09:04:53](https://news.ycombinator.com/item?id=37046300) - [The Legitimacy of Takeover Defense in the '90s](https://via.library.depaul.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1969&context=law-review)
-* [2023-08-08, 07:01:07](https://news.ycombinator.com/item?id=37045471) - [R.I.P. Macromedia FreeHand (2007)](https://losingfight.com/blog/2007/05/17/rip-freehand/)
 * [2023-08-08, 06:41:33](https://news.ycombinator.com/item?id=37045329) - [Graceful behavior at capacity](https://blog.nelhage.com/post/systems-at-capacity/)
 
 ## [Archives](archives/index.md)
