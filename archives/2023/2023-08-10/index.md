@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-10](index.md)
 
+* [2023-08-10, 10:20:01](https://news.ycombinator.com/item?id=37074177) - [The Yandex Leak: How a Russian Search Giant Uses Consumer Data](https://www.confiant.com/news/the-yandex-leak-how-a-russian-search-giant-uses-consumer-data)
 * [2023-08-10, 10:08:10](https://news.ycombinator.com/item?id=37074095) - [Get your staff's consent before you monitor them, tech inquiry warns](https://www.theregister.com/2023/08/10/workplace_monitoring_select_committee/)
 * [2023-08-10, 09:39:06](https://news.ycombinator.com/item?id=37073938) - [Generative Agents: Interactive Simulacra of Human Behavior, Now Open Source](https://github.com/joonspk-research/generative_agents)
 * [2023-08-10, 09:30:44](https://news.ycombinator.com/item?id=37073885) - [Speed Test](https://speed.cloudflare.com/)
