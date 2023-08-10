@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-10](index.md)
 
+* [2023-08-10, 14:57:13](https://news.ycombinator.com/item?id=37076968) - [Maybe the problem is that Harvard exists](https://dynomight.net/harvard/)
 * [2023-08-10, 14:35:25](https://news.ycombinator.com/item?id=37076693) - [Launch HN: Rubbrband (YC W23) – Deformity detection for AI-generated images](https://news.ycombinator.com/item?id=37076693)
 * [2023-08-10, 14:21:46](https://news.ycombinator.com/item?id=37076523) - [MS Teams channels cannot contain MS-DOS device names](https://learn.microsoft.com/en-us/microsoftteams/limits-specifications-teams)
 * [2023-08-10, 14:20:09](https://news.ycombinator.com/item?id=37076500) - [Amazon tracks and targets US staff over 3 days in office rule](https://www.ft.com/content/7f058b6f-3a2b-4aeb-b77b-dc68102ebd77)
