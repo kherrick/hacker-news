@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-10, 14:35:25](https://news.ycombinator.com/item?id=37076693) - [Launch HN: Rubbrband (YC W23) – Deformity detection for AI-generated images](https://news.ycombinator.com/item?id=37076693)
 * [2023-08-10, 14:21:46](https://news.ycombinator.com/item?id=37076523) - [MS Teams channels cannot contain MS-DOS device names](https://learn.microsoft.com/en-us/microsoftteams/limits-specifications-teams)
 * [2023-08-10, 14:05:10](https://news.ycombinator.com/item?id=37076318) - [Nanoscale 'tattoos' for individual cells could provide early health warnings](https://phys.org/news/2023-08-nanoscale-tattoos-individual-cells-early.html)
 * [2023-08-10, 13:56:24](https://news.ycombinator.com/item?id=37076210) - [Do Machine Learning Models Memorize or Generalize?](https://pair.withgoogle.com/explorables/grokking/)
@@ -21,7 +22,6 @@
 * [2023-08-09, 21:10:52](https://news.ycombinator.com/item?id=37068464) - [CNET is deleting old articles to try to improve its Google Search ranking](https://www.theverge.com/2023/8/9/23826342/cnet-content-pruning-deleting-articles-google-seo)
 * [2023-08-09, 18:28:30](https://news.ycombinator.com/item?id=37066680) - [Temptations of an open-source Chrome extension developer (2021)](https://github.com/extesy/hoverzoom/discussions/670)
 * [2023-08-09, 16:41:55](https://news.ycombinator.com/item?id=37065288) - [Sixto Rodriguez has died](https://abcnews.go.com/Entertainment/wireStory/singer-songwriter-sixto-rodriguez-subject-searching-sugarman-documentary-102133209)
-* [2023-08-09, 16:12:51](https://news.ycombinator.com/item?id=37064843) - [What’s a Human-Powered Computer? (2020)](https://johnmaeda.medium.com/whats-a-human-powered-computer-14997285111)
 * [2023-08-09, 16:11:09](https://news.ycombinator.com/item?id=37064822) - [Launch HN: Refine (YC S23) – Open-source platform for enterprise web apps](https://news.ycombinator.com/item?id=37064822)
 * [2023-08-09, 11:15:21](https://news.ycombinator.com/item?id=37061020) - [MilkyTracker 1.04](https://milkytracker.org/news/2023/07/05/version-1.04/)
 * [2023-08-09, 09:13:49](https://news.ycombinator.com/item?id=37060305) - [The Tetris Effect](https://nonzerosum.games/thetetriseffect.html)
