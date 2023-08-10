@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-10, 08:28:58](https://news.ycombinator.com/item?id=37073494) - ['Unbelievable': Astronomer Claims 'Direct Evidence' of Gravity Breaking Down](https://www.vice.com/en/article/ak3jwb/unbelievable-astronomer-claims-direct-evidence-of-gravity-breaking-down)
+* [2023-08-10, 08:23:57](https://news.ycombinator.com/item?id=37073464) - [Fancy Parking](http://www.fancyparking.com)
 * [2023-08-10, 06:55:29](https://news.ycombinator.com/item?id=37072851) - [Has Google Translate been fixed yet?](https://isgooglefixed.tw/)
 * [2023-08-10, 06:21:04](https://news.ycombinator.com/item?id=37072588) - [Scripps Institution of Oceanography’s FLIP vessel decommissioned after 60 years](https://maritime-executive.com/article/world-s-strangest-research-vessel-heads-for-scrapyard-after-51-years)
 * [2023-08-10, 06:11:26](https://news.ycombinator.com/item?id=37072530) - [Supermarket AI meal planner app suggests recipe that would create chlorine gas](https://www.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes)
@@ -8,7 +9,6 @@
 * [2023-08-10, 03:10:01](https://news.ycombinator.com/item?id=37071472) - [Doctors on TikTok](https://thewalrus.ca/medical-tiktok/)
 * [2023-08-10, 02:45:03](https://news.ycombinator.com/item?id=37071300) - [Make a low-cost Bluetooth LE packet sniffer with Wireshark](https://wiki.makerdiary.com/nrf52840-mdk-usb-dongle/guides/ble-sniffer/)
 * [2023-08-10, 02:22:20](https://news.ycombinator.com/item?id=37071160) - [Autogenerating Rust-JS Bindings with UniFFI](https://hacks.mozilla.org/2023/08/autogenerating-rust-js-bindings-with-uniffi/)
-* [2023-08-10, 00:36:15](https://news.ycombinator.com/item?id=37070323) - [Transformative AGI by 2043 is <1% likely](https://arxiv.org/abs/2306.02519)
 * [2023-08-10, 00:28:10](https://news.ycombinator.com/item?id=37070261) - [UChicago scientists see first evidence of 'quantum superchemistry' in the lab](https://news.uchicago.edu/story/uchicago-scientists-observe-first-evidence-quantum-superchemistry-laboratory)
 * [2023-08-10, 00:21:36](https://news.ycombinator.com/item?id=37070218) - [Paul Graham on Conversations with Tyler](https://conversationswithtyler.com/episodes/paul-graham/)
 * [2023-08-09, 23:01:58](https://news.ycombinator.com/item?id=37069551) - [Who Was Duns Scotus?](https://aeon.co/essays/duns-scotus-was-no-fool-but-a-brilliant-enigmatic-thinker)
