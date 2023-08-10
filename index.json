@@ -1,12 +1,32 @@
 [
   [
     [
-      "2023-08-10, 13:59:45",
-      "https://news.ycombinator.com/item?id=37076248"
+      "2023-08-10, 14:05:10",
+      "https://news.ycombinator.com/item?id=37076318"
     ],
     [
-      "More Than 40% of Japanese Women May Never Have Children",
-      "https://www.bloomberg.com/news/articles/2023-08-09/more-than-40-of-japanese-women-may-end-up-never-having-children"
+      "Nanoscale 'tattoos' for individual cells could provide early health warnings",
+      "https://phys.org/news/2023-08-nanoscale-tattoos-individual-cells-early.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-10, 13:56:24",
+      "https://news.ycombinator.com/item?id=37076210"
+    ],
+    [
+      "Do Machine Learning Models Memorize or Generalize?",
+      "https://pair.withgoogle.com/explorables/grokking/"
+    ]
+  ],
+  [
+    [
+      "2023-08-10, 13:48:39",
+      "https://news.ycombinator.com/item?id=37076125"
+    ],
+    [
+      "MetaGPT: Meta Programming for Multi-Agent Collaborative Framework",
+      "https://arxiv.org/abs/2308.00352"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-08-10, 02:45:03",
-      "https://news.ycombinator.com/item?id=37071300"
-    ],
-    [
-      "Make a low-cost Bluetooth LE packet sniffer with Wireshark",
-      "https://wiki.makerdiary.com/nrf52840-mdk-usb-dongle/guides/ble-sniffer/"
-    ]
-  ],
-  [
-    [
       "2023-08-10, 02:22:20",
       "https://news.ycombinator.com/item?id=37071160"
     ],
@@ -257,16 +267,6 @@
     [
       "Braille Is Alive, Well, and Ever-Evolving",
       "https://themillions.com/2023/07/braille-is-alive-well-and-ever-evolving.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-08, 10:32:09",
-      "https://news.ycombinator.com/item?id=37046934"
-    ],
-    [
-      "Subscriber Only: A Technical Post Mortem",
-      "https://0x1.pt/2023/08/08/subscriber-only-a-technical-post-mortem/"
     ]
   ],
   [
