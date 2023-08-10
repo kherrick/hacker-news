@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-08-10, 22:22:44",
-      "https://news.ycombinator.com/item?id=37082506"
-    ],
-    [
-      "HashiCorp Switches to BSL License",
-      "https://www.hashicorp.com/license-faq#What-did-HashiCorp-announce-today-(Aug-10)"
-    ]
-  ],
-  [
-    [
       "2023-08-10, 21:57:24",
       "https://news.ycombinator.com/item?id=37082289"
     ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=37081789"
     ],
     [
-      "My Overkill Home Network – Complete Details 2023",
+      "My Overkill Home Network",
       "https://blog.networkprofile.org/my-home-network-complete-details-2023/"
     ]
   ],
@@ -77,6 +67,16 @@
     [
       "Was Y Combinator worth it?",
       "https://tableflow.com/blog/was-y-combinator-worth-it"
+    ]
+  ],
+  [
+    [
+      "2023-08-10, 20:26:37",
+      "https://news.ycombinator.com/item?id=37081306"
+    ],
+    [
+      "HashiCorp Adopts Business Source License",
+      "https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license"
     ]
   ],
   [
@@ -127,6 +127,16 @@
     [
       "Aurora I/O optimized config saved 90% DB cost",
       "https://graphite.dev/blog/how-an-aws-aurora-feature-cut-db-costs"
+    ]
+  ],
+  [
+    [
+      "2023-08-10, 18:05:41",
+      "https://news.ycombinator.com/item?id=37079616"
+    ],
+    [
+      "Water Cooled Rooftop Solar Panels",
+      "https://evergreenoffgrid.com/water-cooled-rooftop-solar-panels/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Sync Gear: How World War I Fighters Avoided Damaging Their Own Propellers",
       "https://hartzellprop.com/synch-gear-world-war-fighters-avoided-damaging-propellers/"
-    ]
-  ],
-  [
-    [
-      "2023-08-08, 18:44:34",
-      "https://news.ycombinator.com/item?id=37053649"
-    ],
-    [
-      "A bit of ST and a bit of IO: Designing a DCPU-16 emulator",
-      "https://jaspervdj.be/posts/2012-04-12-st-io-dcpu-16.html"
     ]
   ],
   [
