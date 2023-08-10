@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-10](index.md)
 
+* [2023-08-10, 11:11:31](https://news.ycombinator.com/item?id=37074589) - [What’s causing the rise of hoarding disorder?](https://daily.jstor.org/whats-causing-the-rise-of-hoarding-disorder/)
 * [2023-08-10, 10:57:30](https://news.ycombinator.com/item?id=37074452) - [The Future of the Vim Project](https://groups.google.com/g/vim_dev/c/dq9Wu5jqVTw)
 * [2023-08-10, 10:29:18](https://news.ycombinator.com/item?id=37074248) - [The average Manhattan rent just hit a new record of $5,588 a month](https://www.cnbc.com/2023/08/10/the-average-manhattan-rent-just-hit-a-new-record-of-5588-a-month.html)
 * [2023-08-10, 10:20:01](https://news.ycombinator.com/item?id=37074177) - [The Yandex Leak: How a Russian Search Giant Uses Consumer Data](https://www.confiant.com/news/the-yandex-leak-how-a-russian-search-giant-uses-consumer-data)
