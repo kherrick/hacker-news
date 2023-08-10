@@ -27,7 +27,7 @@
 * [2023-08-08, 11:27:30](https://news.ycombinator.com/item?id=37047343) - [The Quite OK Audio Format for Fast, Lossy Compression](https://qoaformat.org/)
 * [2023-08-08, 10:32:09](https://news.ycombinator.com/item?id=37046934) - [Subscriber Only: A Technical Post Mortem](https://0x1.pt/2023/08/08/subscriber-only-a-technical-post-mortem/)
 * [2023-08-08, 09:11:13](https://news.ycombinator.com/item?id=37046353) - [A History of Clojure (2020) [pdf]](https://download.clojure.org/papers/clojure-hopl-iv-final.pdf)
-* [2023-08-08, 07:47:15](https://news.ycombinator.com/item?id=37045803) - [Main is usually a function. So then when is it not?](http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
+* [2023-08-08, 07:47:15](https://news.ycombinator.com/item?id=37045803) - [Main is usually a function. So then when is it not? (2015)](http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
 * [2023-08-08, 07:01:07](https://news.ycombinator.com/item?id=37045471) - [R.I.P. Macromedia FreeHand (2007)](https://losingfight.com/blog/2007/05/17/rip-freehand/)
 * [2023-08-08, 06:41:33](https://news.ycombinator.com/item?id=37045329) - [Graceful behavior at capacity](https://blog.nelhage.com/post/systems-at-capacity/)
 
