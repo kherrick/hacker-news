@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-10](index.md)
 
+* [2023-08-10, 16:40:54](https://news.ycombinator.com/item?id=37078423) - [CIQ, Oracle, SUSE Create Open Enterprise Linux Association](https://www.suse.com/news/OpenELA-for-a-Collaborative-and-Open-Future/)
 * [2023-08-10, 16:35:58](https://news.ycombinator.com/item?id=37078358) - [Maybe the problem is that Harvard exists – Dynomight](https://dynomight.substack.com/p/harvard)
 * [2023-08-10, 16:07:54](https://news.ycombinator.com/item?id=37077977) - [Virgin Galactic successfully flies tourists to space for first time](https://www.theguardian.com/science/2023/aug/10/vigin-galactic-space-flight-vss-unity-landing)
 * [2023-08-10, 16:04:32](https://news.ycombinator.com/item?id=37077927) - [Dave Portnoy Bought Back Barstool Sports for $1](https://www.hollywoodreporter.com/business/business-news/dave-portnoy-buys-back-barstool-sports-1-dollar-1235560225/)
