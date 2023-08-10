@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-10, 10:08:10](https://news.ycombinator.com/item?id=37074095) - [Get your staff's consent before you monitor them, tech inquiry warns](https://www.theregister.com/2023/08/10/workplace_monitoring_select_committee/)
+* [2023-08-10, 09:39:06](https://news.ycombinator.com/item?id=37073938) - [Generative Agents: Interactive Simulacra of Human Behavior, Now Open Source](https://github.com/joonspk-research/generative_agents)
 * [2023-08-10, 09:30:44](https://news.ycombinator.com/item?id=37073885) - [Speed Test](https://speed.cloudflare.com/)
+* [2023-08-10, 09:12:43](https://news.ycombinator.com/item?id=37073768) - [Russia starts blocking VPN at the protocol (WireGuard, OpenVPN) level](https://vpncentral.com/russia-starts-blocking-vpn-protocols/)
 * [2023-08-10, 09:02:50](https://news.ycombinator.com/item?id=37073701) - [After 118 days, GPT Unicorn has produced a unicorn](https://gpt-unicorn.adamkdean.co.uk/)
 * [2023-08-10, 08:28:58](https://news.ycombinator.com/item?id=37073494) - ['Unbelievable': Astronomer Claims 'Direct Evidence' of Gravity Breaking Down](https://www.vice.com/en/article/ak3jwb/unbelievable-astronomer-claims-direct-evidence-of-gravity-breaking-down)
 * [2023-08-10, 08:23:57](https://news.ycombinator.com/item?id=37073464) - [Fancy Parking](http://www.fancyparking.com)
@@ -13,7 +16,6 @@
 * [2023-08-10, 02:22:20](https://news.ycombinator.com/item?id=37071160) - [Autogenerating Rust-JS Bindings with UniFFI](https://hacks.mozilla.org/2023/08/autogenerating-rust-js-bindings-with-uniffi/)
 * [2023-08-10, 00:28:10](https://news.ycombinator.com/item?id=37070261) - [UChicago scientists see first evidence of 'quantum superchemistry' in the lab](https://news.uchicago.edu/story/uchicago-scientists-observe-first-evidence-quantum-superchemistry-laboratory)
 * [2023-08-10, 00:21:36](https://news.ycombinator.com/item?id=37070218) - [Paul Graham on Conversations with Tyler](https://conversationswithtyler.com/episodes/paul-graham/)
-* [2023-08-09, 23:01:58](https://news.ycombinator.com/item?id=37069551) - [Who Was Duns Scotus?](https://aeon.co/essays/duns-scotus-was-no-fool-but-a-brilliant-enigmatic-thinker)
 * [2023-08-09, 21:10:52](https://news.ycombinator.com/item?id=37068464) - [CNET is deleting old articles to try to improve its Google Search ranking](https://www.theverge.com/2023/8/9/23826342/cnet-content-pruning-deleting-articles-google-seo)
 * [2023-08-09, 21:01:04](https://news.ycombinator.com/item?id=37068346) - [BuildZoom (YC W13) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-08-09, 20:25:14](https://news.ycombinator.com/item?id=37067894) - [Optimization Techniques for GPU Programming [pdf]](https://dl.acm.org/doi/pdf/10.1145/3570638)
@@ -21,7 +23,6 @@
 * [2023-08-09, 18:15:24](https://news.ycombinator.com/item?id=37066522) - [Making AMD GPUs competitive for LLM inference](https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference)
 * [2023-08-09, 16:11:09](https://news.ycombinator.com/item?id=37064822) - [Launch HN: Refine (YC S23) – Open-source platform for enterprise web apps](https://news.ycombinator.com/item?id=37064822)
 * [2023-08-09, 11:15:21](https://news.ycombinator.com/item?id=37061020) - [MilkyTracker 1.04](https://milkytracker.org/news/2023/07/05/version-1.04/)
-* [2023-08-09, 09:45:40](https://news.ycombinator.com/item?id=37060470) - [Akin’s Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html)
 * [2023-08-09, 09:13:49](https://news.ycombinator.com/item?id=37060305) - [The Tetris Effect](https://nonzerosum.games/thetetriseffect.html)
 * [2023-08-09, 08:59:06](https://news.ycombinator.com/item?id=37060213) - [Piano Emulator in Your Terminal](https://github.com/eliasdorneles/upiano)
 * [2023-08-08, 11:49:59](https://news.ycombinator.com/item?id=37047529) - [Braille Is Alive, Well, and Ever-Evolving](https://themillions.com/2023/07/braille-is-alive-well-and-ever-evolving.html)
@@ -29,7 +30,6 @@
 * [2023-08-08, 10:32:09](https://news.ycombinator.com/item?id=37046934) - [Subscriber Only: A Technical Post Mortem](https://0x1.pt/2023/08/08/subscriber-only-a-technical-post-mortem/)
 * [2023-08-08, 09:11:13](https://news.ycombinator.com/item?id=37046353) - [A History of Clojure (2020) [pdf]](https://download.clojure.org/papers/clojure-hopl-iv-final.pdf)
 * [2023-08-08, 07:47:15](https://news.ycombinator.com/item?id=37045803) - [Main is usually a function. So then when is it not? (2015)](http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
-* [2023-08-08, 06:41:33](https://news.ycombinator.com/item?id=37045329) - [Graceful behavior at capacity](https://blog.nelhage.com/post/systems-at-capacity/)
 
 ## [Archives](archives/index.md)
 
