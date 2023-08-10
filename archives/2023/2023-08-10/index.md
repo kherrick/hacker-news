@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-10](index.md)
 
+* [2023-08-10, 19:07:38](https://news.ycombinator.com/item?id=37080404) - [Turns out lowly thymus may be saving your life](https://news.harvard.edu/gazette/story/2023/08/turns-out-lowly-thymus-may-be-saving-your-life/)
+* [2023-08-10, 19:01:33](https://news.ycombinator.com/item?id=37080331) - [Median Center of Population for the United States: 1880 to 2020 (2020)](https://www.census.gov/library/visualizations/2020/geo/center-of-population-1880-2020.html)
 * [2023-08-10, 18:49:12](https://news.ycombinator.com/item?id=37080160) - [Nick Cave on ChatGPT and the creative process](https://www.theredhandfiles.com/chatgpt-making-things-faster-and-easier/)
 * [2023-08-10, 18:29:48](https://news.ycombinator.com/item?id=37079909) - [Aurora I/O optimized config saved 90% DB cost](https://graphite.dev/blog/how-an-aws-aurora-feature-cut-db-costs)
 * [2023-08-10, 18:05:41](https://news.ycombinator.com/item?id=37079616) - [Water Cooled Rooftop Solar Panels](https://evergreenoffgrid.com/water-cooled-rooftop-solar-panels/)
