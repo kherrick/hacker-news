@@ -66,6 +66,7 @@
 * [2023-08-08, 13:56:54](https://news.ycombinator.com/item?id=37049029) - [Microgrids Are Giving Power to the People](https://www.nytimes.com/2023/08/07/realestate/microgrid-solar-power-energy.html)
 * [2023-08-08, 13:55:46](https://news.ycombinator.com/item?id=37049016) - [Blocked by Cloudflare](https://jrhawley.ca/2023/08/07/blocked-by-cloudflare)
 * [2023-08-08, 13:49:35](https://news.ycombinator.com/item?id=37048938) - [Banks Hit with Millions in Fines for Using Signal and WhatsApp](https://www.cnbc.com/2023/08/08/regulators-hit-wall-street-banks-with-549-million-in-penalties-for-record-keeping-failures-.html)
+* [2023-08-08, 13:41:26](https://news.ycombinator.com/item?id=37048836) - [Ask HN: What are the economics of a streaming based record label?](https://news.ycombinator.com/item?id=37048836)
 * [2023-08-08, 13:41:03](https://news.ycombinator.com/item?id=37048825) - [How real is America’s chipmaking renaissance?](https://www.economist.com/business/2023/08/07/how-real-is-americas-chipmaking-renaissance)
 * [2023-08-08, 13:35:10](https://news.ycombinator.com/item?id=37048758) - [Launch HN: Stellar Sleep (YC S23) – An app that helps people with insomnia](https://news.ycombinator.com/item?id=37048758)
 * [2023-08-08, 13:32:42](https://news.ycombinator.com/item?id=37048722) - [Rest in peace Bram Moolenaar, author of Vim](https://arstechnica.com/gadgets/2023/08/bram-moolenaar-creator-of-the-beloved-vim-text-editor-has-passed-away/)
