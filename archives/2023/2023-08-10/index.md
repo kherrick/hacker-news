@@ -20,6 +20,7 @@
 * [2023-08-10, 17:05:43](https://news.ycombinator.com/item?id=37078753) - [LangchainJs Real-World Examples](https://github.com/amalshehu/langchain-js-realworld)
 * [2023-08-10, 17:02:14](https://news.ycombinator.com/item?id=37078719) - [Vim Boss](https://neovim.io/news/2023/08)
 * [2023-08-10, 17:01:03](https://news.ycombinator.com/item?id=37078708) - [Memfault (YC W19) Is Hiring a Data/Back End Engineer](https://www.ycombinator.com/companies/memfault/jobs/zALzwIe-backend-engineer-systems-data)
+* [2023-08-10, 16:59:20](https://news.ycombinator.com/item?id=37078688) - [What Affordable Housing Means](https://darrellowens.substack.com/p/what-affordable-housing-actually)
 * [2023-08-10, 16:54:01](https://news.ycombinator.com/item?id=37078606) - [I reviewed 1,000s of GraphQL vs. REST perspectives](https://konfigthis.com/blog/graphql-vs-rest)
 * [2023-08-10, 16:53:33](https://news.ycombinator.com/item?id=37078598) - [GM confirms $130k Cadillac won’t have Apple CarPlay or Android Auto](https://www.theverge.com/2023/8/10/23827059/gm-no-carplay-android-auto-escalade-iq)
 * [2023-08-10, 16:43:05](https://news.ycombinator.com/item?id=37078460) - [Unparalleled RDP Monitoring Reveal Attackers’ Tradecraft](https://www.gosecure.net/blog/2023/08/09/how-unparalleled-rdp-monitoring-reveal-attackers-tradecraft/)
