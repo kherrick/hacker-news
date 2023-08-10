@@ -63,6 +63,7 @@
 * [2023-08-08, 14:10:52](https://news.ycombinator.com/item?id=37049221) - [Millions of UK voters’ data accessible in cyber-attack](https://www.theguardian.com/technology/2023/aug/08/uk-electoral-commission-registers-targeted-by-hostile-hackers)
 * [2023-08-08, 14:09:12](https://news.ycombinator.com/item?id=37049198) - [Candle: Torch Replacement in Rust](https://github.com/huggingface/candle)
 * [2023-08-08, 13:58:57](https://news.ycombinator.com/item?id=37049064) - [Bye, Gemini](https://www.makeworld.space/2023/08/bye_gemini.html)
+* [2023-08-08, 13:56:54](https://news.ycombinator.com/item?id=37049029) - [Microgrids Are Giving Power to the People](https://www.nytimes.com/2023/08/07/realestate/microgrid-solar-power-energy.html)
 * [2023-08-08, 13:55:46](https://news.ycombinator.com/item?id=37049016) - [Blocked by Cloudflare](https://jrhawley.ca/2023/08/07/blocked-by-cloudflare)
 * [2023-08-08, 13:49:35](https://news.ycombinator.com/item?id=37048938) - [Banks Hit with Millions in Fines for Using Signal and WhatsApp](https://www.cnbc.com/2023/08/08/regulators-hit-wall-street-banks-with-549-million-in-penalties-for-record-keeping-failures-.html)
 * [2023-08-08, 13:41:03](https://news.ycombinator.com/item?id=37048825) - [How real is America’s chipmaking renaissance?](https://www.economist.com/business/2023/08/07/how-real-is-americas-chipmaking-renaissance)

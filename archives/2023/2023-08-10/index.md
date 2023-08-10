@@ -6,6 +6,7 @@
 
 * [2023-08-10, 14:35:25](https://news.ycombinator.com/item?id=37076693) - [Launch HN: Rubbrband (YC W23) – Deformity detection for AI-generated images](https://news.ycombinator.com/item?id=37076693)
 * [2023-08-10, 14:21:46](https://news.ycombinator.com/item?id=37076523) - [MS Teams channels cannot contain MS-DOS device names](https://learn.microsoft.com/en-us/microsoftteams/limits-specifications-teams)
+* [2023-08-10, 14:20:09](https://news.ycombinator.com/item?id=37076500) - [Amazon tracks and targets US staff over 3 days in office rule](https://www.ft.com/content/7f058b6f-3a2b-4aeb-b77b-dc68102ebd77)
 * [2023-08-10, 14:05:10](https://news.ycombinator.com/item?id=37076318) - [Nanoscale 'tattoos' for individual cells could provide early health warnings](https://phys.org/news/2023-08-nanoscale-tattoos-individual-cells-early.html)
 * [2023-08-10, 13:59:45](https://news.ycombinator.com/item?id=37076248) - [More Than 40% of Japanese Women May Never Have Children](https://www.bloomberg.com/news/articles/2023-08-09/more-than-40-of-japanese-women-may-end-up-never-having-children)
 * [2023-08-10, 13:56:24](https://news.ycombinator.com/item?id=37076210) - [Do Machine Learning Models Memorize or Generalize?](https://pair.withgoogle.com/explorables/grokking/)
