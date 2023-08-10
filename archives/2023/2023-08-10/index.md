@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-10](index.md)
 
+* [2023-08-10, 06:55:29](https://news.ycombinator.com/item?id=37072851) - [Has Google Translate been fixed yet?](https://isgooglefixed.tw/)
 * [2023-08-10, 06:21:04](https://news.ycombinator.com/item?id=37072588) - [Strangest Research Vessel Heads for Scrapyard After 60 Years](https://maritime-executive.com/article/world-s-strangest-research-vessel-heads-for-scrapyard-after-51-years)
 * [2023-08-10, 06:20:37](https://news.ycombinator.com/item?id=37072582) - [Justapedia, a Wikipedia alternative and aspiring replacement, has gone public](https://www.justapedia.org/)
 * [2023-08-10, 06:14:18](https://news.ycombinator.com/item?id=37072547) - [What Will the World Look Like with Less Babies?](https://lindynewsletter.beehiiv.com/p/will-world-look-like-less-babies)
