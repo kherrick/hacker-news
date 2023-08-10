@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-10, 06:55:29](https://news.ycombinator.com/item?id=37072851) - [Has Google Translate been fixed yet?](https://isgooglefixed.tw/)
-* [2023-08-10, 06:21:04](https://news.ycombinator.com/item?id=37072588) - [Strangest Research Vessel Heads for Scrapyard After 60 Years](https://maritime-executive.com/article/world-s-strangest-research-vessel-heads-for-scrapyard-after-51-years)
+* [2023-08-10, 06:21:04](https://news.ycombinator.com/item?id=37072588) - [Scripps Institution of Oceanography’s FLIP vessel decommissioned after 60 years](https://maritime-executive.com/article/world-s-strangest-research-vessel-heads-for-scrapyard-after-51-years)
 * [2023-08-10, 06:11:26](https://news.ycombinator.com/item?id=37072530) - [Supermarket AI meal planner app suggests recipe that would create chlorine gas](https://www.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes)
-* [2023-08-10, 05:13:43](https://news.ycombinator.com/item?id=37072224) - [A redesigned Slack, built for focus](https://slack.com/intl/en-gb/blog/productivity/a-redesigned-slack-built-for-focus)
 * [2023-08-10, 04:41:18](https://news.ycombinator.com/item?id=37072037) - [Manias and Mimesis: Applying René Girard’s Mimetic Theory to Financial Bubbles](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3469465)
 * [2023-08-10, 03:10:01](https://news.ycombinator.com/item?id=37071472) - [Doctors on TikTok](https://thewalrus.ca/medical-tiktok/)
 * [2023-08-10, 02:45:03](https://news.ycombinator.com/item?id=37071300) - [Make a low-cost Bluetooth LE packet sniffer with Wireshark](https://wiki.makerdiary.com/nrf52840-mdk-usb-dongle/guides/ble-sniffer/)
@@ -18,6 +17,7 @@
 * [2023-08-09, 18:28:30](https://news.ycombinator.com/item?id=37066680) - [Temptations of an open-source Chrome extension developer](https://github.com/extesy/hoverzoom/discussions/670)
 * [2023-08-09, 18:15:24](https://news.ycombinator.com/item?id=37066522) - [Making AMD GPUs competitive for LLM inference](https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference)
 * [2023-08-09, 16:11:09](https://news.ycombinator.com/item?id=37064822) - [Launch HN: Refine (YC S23) – Open-source platform for enterprise web apps](https://news.ycombinator.com/item?id=37064822)
+* [2023-08-09, 15:05:56](https://news.ycombinator.com/item?id=37063829) - [B.C. woman buried in Amazon packages she did not ask for and does not want](https://www.cbc.ca/news/canada/british-columbia/amazon-shoe-packages-1.6926200)
 * [2023-08-09, 14:29:49](https://news.ycombinator.com/item?id=37063238) - [SQLedge: Replicate Postgres to SQLite on the Edge](https://github.com/zknill/sqledge)
 * [2023-08-09, 14:24:56](https://news.ycombinator.com/item?id=37063151) - [Arpchat – Text your friends on the same network using just ARP](https://github.com/kognise/arpchat)
 * [2023-08-09, 10:18:46](https://news.ycombinator.com/item?id=37060654) - [Infrastructure audit completed by Radically Open Security](https://mullvad.net/en/blog/2023/8/9/infrastructure-audit-completed-by-radically-open-security/)
