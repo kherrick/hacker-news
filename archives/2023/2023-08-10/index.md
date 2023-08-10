@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-10](index.md)
 
+* [2023-08-10, 17:01:03](https://news.ycombinator.com/item?id=37078708) - [Memfault (YC W19) Is Hiring a Data/Back End Engineer](https://www.ycombinator.com/companies/memfault/jobs/zALzwIe-backend-engineer-systems-data)
 * [2023-08-10, 16:40:54](https://news.ycombinator.com/item?id=37078423) - [CIQ, Oracle, SUSE Create Open Enterprise Linux Association](https://www.suse.com/news/OpenELA-for-a-Collaborative-and-Open-Future/)
 * [2023-08-10, 16:35:58](https://news.ycombinator.com/item?id=37078358) - [Maybe the problem is that Harvard exists – Dynomight](https://dynomight.substack.com/p/harvard)
 * [2023-08-10, 16:07:54](https://news.ycombinator.com/item?id=37077977) - [Virgin Galactic successfully flies tourists to space for first time](https://www.theguardian.com/science/2023/aug/10/vigin-galactic-space-flight-vss-unity-landing)
