@@ -17,7 +17,6 @@
 * [2023-08-10, 16:43:05](https://news.ycombinator.com/item?id=37078460) - [Unparalleled RDP Monitoring Reveal Attackers’ Tradecraft](https://www.gosecure.net/blog/2023/08/09/how-unparalleled-rdp-monitoring-reveal-attackers-tradecraft/)
 * [2023-08-10, 16:40:54](https://news.ycombinator.com/item?id=37078423) - [CIQ, Oracle, SUSE Create Open Enterprise Linux Association](https://www.suse.com/news/OpenELA-for-a-Collaborative-and-Open-Future/)
 * [2023-08-10, 16:12:25](https://news.ycombinator.com/item?id=37078047) - [MIT Pirate Certificate](https://physicaleducationandwellness.mit.edu/about/pirate-certificate/)
-* [2023-08-10, 14:54:44](https://news.ycombinator.com/item?id=37076933) - [Students’ insight proves that the local-global conjecture doesn’t hold](https://www.quantamagazine.org/two-students-shoot-down-a-widely-believed-math-conjecture-20230810/)
 * [2023-08-10, 14:35:25](https://news.ycombinator.com/item?id=37076693) - [Launch HN: Rubbrband (YC W23) – Deformity detection for AI-generated images](https://news.ycombinator.com/item?id=37076693)
 * [2023-08-10, 14:21:46](https://news.ycombinator.com/item?id=37076523) - [MS Teams channels cannot contain MS-DOS device names](https://learn.microsoft.com/en-us/microsoftteams/limits-specifications-teams)
 * [2023-08-10, 13:56:24](https://news.ycombinator.com/item?id=37076210) - [Do Machine Learning Models Memorize or Generalize?](https://pair.withgoogle.com/explorables/grokking/)
@@ -28,6 +27,7 @@
 * [2023-08-09, 20:52:54](https://news.ycombinator.com/item?id=37068230) - [Robbie Robertson has died](https://www.nytimes.com/2023/08/09/arts/music/robbie-robertson-dead.html)
 * [2023-08-09, 04:40:19](https://news.ycombinator.com/item?id=37058773) - [John Preskill's retrospective on the black hole information paradox](https://quantumfrontiers.com/2023/08/08/it-from-qubit-the-last-harrah/)
 * [2023-08-09, 02:36:54](https://news.ycombinator.com/item?id=37058093) - [Sync Gear: How World War I Fighters Avoided Damaging Their Own Propellers](https://hartzellprop.com/synch-gear-world-war-fighters-avoided-damaging-propellers/)
+* [2023-08-08, 18:44:34](https://news.ycombinator.com/item?id=37053649) - [A bit of ST and a bit of IO: Designing a DCPU-16 emulator](https://jaspervdj.be/posts/2012-04-12-st-io-dcpu-16.html)
 * [2023-08-08, 14:03:08](https://news.ycombinator.com/item?id=37049117) - [Nextflow: Data-Driven Computational Pipelines](https://nextflow.io/)
 * [2023-08-08, 13:56:54](https://news.ycombinator.com/item?id=37049029) - [Developers are building communities that act as their own miniature power grids](https://www.nytimes.com/2023/08/07/realestate/microgrid-solar-power-energy.html)
 

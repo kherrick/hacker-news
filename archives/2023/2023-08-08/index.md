@@ -23,6 +23,7 @@
 * [2023-08-08, 19:27:19](https://news.ycombinator.com/item?id=37054241) - [What happened in this GPT-3 conversation?](https://chat.openai.com/share/f5341665-7f08-4fca-9639-04201363506e)
 * [2023-08-08, 19:24:40](https://news.ycombinator.com/item?id=37054207) - [Are Implicit Operators a Path to Clean Code or a Buggy Nightmare?](https://hackernoon.com/are-implicit-operators-a-path-to-clean-code-or-a-buggy-nightmare)
 * [2023-08-08, 18:48:40](https://news.ycombinator.com/item?id=37053694) - [Us Electric grid history and overview](https://blog.chaselambda.com/2023/03/25/us-electric-grid-history-and-overview.html)
+* [2023-08-08, 18:44:34](https://news.ycombinator.com/item?id=37053649) - [A bit of ST and a bit of IO: Designing a DCPU-16 emulator](https://jaspervdj.be/posts/2012-04-12-st-io-dcpu-16.html)
 * [2023-08-08, 18:41:32](https://news.ycombinator.com/item?id=37053601) - [ChatGPT now seems to be embedding ads in its responses](https://jacobw.xyz/projects/gpt_ads/)
 * [2023-08-08, 18:33:56](https://news.ycombinator.com/item?id=37053520) - [The Rise and Fall of Qualcomm Mirasol E-Readers (2018)](https://goodereader.com/blog/electronic-readers/the-rise-and-fall-of-qualcomm-mirasol-e-readers)
 * [2023-08-08, 18:25:52](https://news.ycombinator.com/item?id=37053405) - [Reimagining the Bioreactor](https://www.growbyginkgo.com/2023/07/11/reimagining-the-bioreactor/)
