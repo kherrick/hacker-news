@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-10, 03:10:01](https://news.ycombinator.com/item?id=37071472) - [Doctors on TikTok: The Dark Side of Medical Influencers](https://thewalrus.ca/medical-tiktok/)
 * [2023-08-10, 02:31:32](https://news.ycombinator.com/item?id=37071220) - [Show HN: Bubblic – end loneliness together using the power of your voice](https://bubblic.co/)
 * [2023-08-10, 01:38:42](https://news.ycombinator.com/item?id=37070838) - [What Is Happening with ChatGPT?](https://chat.openai.com/share/ca5e0c33-7a19-41a1-8f8a-b146b68e2d1a)
 * [2023-08-10, 00:46:02](https://news.ycombinator.com/item?id=37070398) - [Seattle becomes first in U.S. to protect gig workers from sudden 'deactivation'](https://kuow.org/stories/seattle-becomes-first-in-u-s-to-protect-gig-workers-from-sudden-deactivation)
@@ -14,7 +15,6 @@
 * [2023-08-09, 18:15:24](https://news.ycombinator.com/item?id=37066522) - [Making AMD GPUs competitive for LLM inference](https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference)
 * [2023-08-09, 16:11:09](https://news.ycombinator.com/item?id=37064822) - [Launch HN: Refine (YC S23) – Open-Source Retool alternative for enterprise](https://news.ycombinator.com/item?id=37064822)
 * [2023-08-09, 15:26:56](https://news.ycombinator.com/item?id=37064152) - [Show HN: Get notified when sites update their terms of service](https://tosnotify.com/)
-* [2023-08-09, 15:09:16](https://news.ycombinator.com/item?id=37063884) - [I don't want to host services but I do](https://ergaster.org/posts/2023/08/09-i-dont-want-to-host-services-but-i-do/)
 * [2023-08-09, 15:05:56](https://news.ycombinator.com/item?id=37063829) - [B.C. woman buried in Amazon packages she did not ask for and does not want](https://www.cbc.ca/news/canada/british-columbia/amazon-shoe-packages-1.6926200)
 * [2023-08-09, 15:02:40](https://news.ycombinator.com/item?id=37063774) - [Archive of novelty answering machine recordings](http://www.noveltyansweringmachine.com/audio/index.html)
 * [2023-08-09, 14:57:23](https://news.ycombinator.com/item?id=37063695) - [Why Static Languages Suffer from Complexity (2022)](https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity.html)
