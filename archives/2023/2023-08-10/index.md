@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-10](index.md)
 
+* [2023-08-10, 17:59:07](https://news.ycombinator.com/item?id=37079534) - [eSignature for Google Docs and Google Drive (Beta)](https://workspaceupdates.googleblog.com/2023/08/esignature-google-docs-google-drive.html)
+* [2023-08-10, 17:53:18](https://news.ycombinator.com/item?id=37079438) - [Amazon Cuts Dozens of House Brands as It Battles Costs, Regulators](https://www.wsj.com/articles/amazon-cuts-dozens-of-house-brands-as-it-battles-costs-regulators-3f6ad56d)
+* [2023-08-10, 17:36:26](https://news.ycombinator.com/item?id=37079162) - [Timelapse of Cigarettes Left in Soil for an Entire Year](https://petapixel.com/2023/08/07/incredible-timelapse-of-cigarettes-left-in-soil-for-an-entire-year/)
 * [2023-08-10, 17:19:44](https://news.ycombinator.com/item?id=37078930) - [Rhino Linux is a rolling release Ubuntu-based distribution](https://rhinolinux.org/)
 * [2023-08-10, 17:18:43](https://news.ycombinator.com/item?id=37078914) - [US Will Have to Write Off Billions in Student Debt Due to Deaths](https://www.bloomberg.com/news/articles/2023-08-07/us-will-have-to-write-off-billions-in-student-debt-due-to-deaths)
 * [2023-08-10, 17:15:37](https://news.ycombinator.com/item?id=37078875) - [Is the Airbnb Dream Dead?](https://www.bloomberg.com/news/features/2023-08-10/why-being-an-airbnb-host-is-much-harder-than-in-the-past)
@@ -13,6 +16,7 @@
 * [2023-08-10, 16:53:33](https://news.ycombinator.com/item?id=37078598) - [GM confirms $130k Cadillac won’t have Apple CarPlay or Android Auto](https://www.theverge.com/2023/8/10/23827059/gm-no-carplay-android-auto-escalade-iq)
 * [2023-08-10, 16:40:54](https://news.ycombinator.com/item?id=37078423) - [CIQ, Oracle, SUSE Create Open Enterprise Linux Association](https://www.suse.com/news/OpenELA-for-a-Collaborative-and-Open-Future/)
 * [2023-08-10, 16:35:58](https://news.ycombinator.com/item?id=37078358) - [Maybe the problem is that Harvard exists – Dynomight](https://dynomight.substack.com/p/harvard)
+* [2023-08-10, 16:12:25](https://news.ycombinator.com/item?id=37078047) - [MIT Pirate Certificate](https://physicaleducationandwellness.mit.edu/about/pirate-certificate/)
 * [2023-08-10, 16:07:54](https://news.ycombinator.com/item?id=37077977) - [Virgin Galactic successfully flies tourists to space for first time](https://www.theguardian.com/science/2023/aug/10/vigin-galactic-space-flight-vss-unity-landing)
 * [2023-08-10, 16:04:32](https://news.ycombinator.com/item?id=37077927) - [Dave Portnoy Bought Back Barstool Sports for $1](https://www.hollywoodreporter.com/business/business-news/dave-portnoy-buys-back-barstool-sports-1-dollar-1235560225/)
 * [2023-08-10, 16:00:45](https://news.ycombinator.com/item?id=37077886) - [US set to unveil long-awaited crackdown on real estate money laundering](https://www.reuters.com/world/us/us-set-unveil-long-awaited-crackdown-real-estate-money-laundering-2023-08-10/)

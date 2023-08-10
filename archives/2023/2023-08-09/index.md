@@ -89,6 +89,7 @@
 * [2023-08-09, 06:33:36](https://news.ycombinator.com/item?id=37059365) - [Italy shocks banks with 40 percent windfall tax for 2023](https://www.aljazeera.com/news/2023/8/8/italy-shocks-banks-with-40-percent-windfall-tax-for-2023)
 * [2023-08-09, 05:51:11](https://news.ycombinator.com/item?id=37059126) - [Superconductor LK99 Update](http://backreaction.blogspot.com/2023/08/superconductor-lk99-update.html)
 * [2023-08-09, 05:34:18](https://news.ycombinator.com/item?id=37059043) - [‘What have I seen?’: Joel Meyerowitz’s life in photography – in pictures](https://www.theguardian.com/artanddesign/gallery/2023/may/04/joel-meyerowitz-life-in-photography-in-pictures)
+* [2023-08-09, 04:40:19](https://news.ycombinator.com/item?id=37058773) - [John Preskill's retrospective on the black hole information paradox](https://quantumfrontiers.com/2023/08/08/it-from-qubit-the-last-harrah/)
 * [2023-08-09, 04:24:56](https://news.ycombinator.com/item?id=37058674) - [G9.js: Automatically Interactive Graphics](http://omrelli.ug/g9/gallery/)
 * [2023-08-09, 03:24:58](https://news.ycombinator.com/item?id=37058364) - [Using GPT as an HVAC control system](https://arxiv.org/abs/2308.03028)
 * [2023-08-09, 03:07:50](https://news.ycombinator.com/item?id=37058278) - [Swap_8_and_9: A simple import can modify the Python interpreter](https://kenschutte.com/python-swap-ints/)
