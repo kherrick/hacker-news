@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-10](index.md)
 
+* [2023-08-10, 09:30:44](https://news.ycombinator.com/item?id=37073885) - [Speed Test](https://speed.cloudflare.com/)
+* [2023-08-10, 09:02:50](https://news.ycombinator.com/item?id=37073701) - [After 118 days, GPT Unicorn has produced a unicorn](https://gpt-unicorn.adamkdean.co.uk/)
 * [2023-08-10, 08:28:58](https://news.ycombinator.com/item?id=37073494) - ['Unbelievable': Astronomer Claims 'Direct Evidence' of Gravity Breaking Down](https://www.vice.com/en/article/ak3jwb/unbelievable-astronomer-claims-direct-evidence-of-gravity-breaking-down)
 * [2023-08-10, 08:23:57](https://news.ycombinator.com/item?id=37073464) - [Fancy Parking](http://www.fancyparking.com)
 * [2023-08-10, 06:55:29](https://news.ycombinator.com/item?id=37072851) - [Has Google Translate been fixed yet?](https://isgooglefixed.tw/)
