@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-10](index.md)
 
+* [2023-08-10, 18:49:12](https://news.ycombinator.com/item?id=37080160) - [Nick Cave on ChatGPT and the creative process](https://www.theredhandfiles.com/chatgpt-making-things-faster-and-easier/)
+* [2023-08-10, 18:29:48](https://news.ycombinator.com/item?id=37079909) - [Aurora I/O optimized config saved 90% DB cost](https://graphite.dev/blog/how-an-aws-aurora-feature-cut-db-costs)
 * [2023-08-10, 18:05:41](https://news.ycombinator.com/item?id=37079616) - [Water Cooled Rooftop Solar Panels](https://evergreenoffgrid.com/water-cooled-rooftop-solar-panels/)
 * [2023-08-10, 17:59:07](https://news.ycombinator.com/item?id=37079534) - [eSignature for Google Docs and Google Drive (Beta)](https://workspaceupdates.googleblog.com/2023/08/esignature-google-docs-google-drive.html)
 * [2023-08-10, 17:53:18](https://news.ycombinator.com/item?id=37079438) - [Amazon Cuts Dozens of House Brands as It Battles Costs, Regulators](https://www.wsj.com/articles/amazon-cuts-dozens-of-house-brands-as-it-battles-costs-regulators-3f6ad56d)
