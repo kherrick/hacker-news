@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-10](index.md)
 
+* [2023-08-10, 13:59:45](https://news.ycombinator.com/item?id=37076248) - [More Than 40% of Japanese Women May Never Have Children](https://www.bloomberg.com/news/articles/2023-08-09/more-than-40-of-japanese-women-may-end-up-never-having-children)
+* [2023-08-10, 13:47:26](https://news.ycombinator.com/item?id=37076109) - [Lego’s new $200 Concorde is a fantastic homage to the supersonic passenger jet](https://www.theverge.com/23826738/lego-concorde-supersonic-jet-price-release-date)
 * [2023-08-10, 12:01:09](https://news.ycombinator.com/item?id=37075064) - [Gym Class VR (YC W22) Is Hiring Unity Tooling Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/futIIml-unity-engineer-tools)
 * [2023-08-10, 11:11:31](https://news.ycombinator.com/item?id=37074589) - [What’s causing the rise of hoarding disorder?](https://daily.jstor.org/whats-causing-the-rise-of-hoarding-disorder/)
 * [2023-08-10, 10:57:30](https://news.ycombinator.com/item?id=37074452) - [The Future of the Vim Project](https://groups.google.com/g/vim_dev/c/dq9Wu5jqVTw)
