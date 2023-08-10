@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-10](index.md)
 
+* [2023-08-10, 12:01:09](https://news.ycombinator.com/item?id=37075064) - [Gym Class VR (YC W22) Is Hiring Unity Tooling Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/futIIml-unity-engineer-tools)
 * [2023-08-10, 11:11:31](https://news.ycombinator.com/item?id=37074589) - [What’s causing the rise of hoarding disorder?](https://daily.jstor.org/whats-causing-the-rise-of-hoarding-disorder/)
 * [2023-08-10, 10:57:30](https://news.ycombinator.com/item?id=37074452) - [The Future of the Vim Project](https://groups.google.com/g/vim_dev/c/dq9Wu5jqVTw)
 * [2023-08-10, 10:29:18](https://news.ycombinator.com/item?id=37074248) - [The average Manhattan rent just hit a new record of $5,588 a month](https://www.cnbc.com/2023/08/10/the-average-manhattan-rent-just-hit-a-new-record-of-5588-a-month.html)
@@ -15,6 +16,7 @@
 * [2023-08-10, 09:30:44](https://news.ycombinator.com/item?id=37073885) - [Speed Test](https://speed.cloudflare.com/)
 * [2023-08-10, 09:12:43](https://news.ycombinator.com/item?id=37073768) - [Russia starts blocking VPN at the protocol (WireGuard, OpenVPN) level](https://vpncentral.com/russia-starts-blocking-vpn-protocols/)
 * [2023-08-10, 09:02:50](https://news.ycombinator.com/item?id=37073701) - [After 118 days, GPT Unicorn has produced a unicorn](https://gpt-unicorn.adamkdean.co.uk/)
+* [2023-08-10, 09:00:37](https://news.ycombinator.com/item?id=37073681) - [Family rescued from wildfires thanks to iPhone’s Emergency SOS via Satellite](https://9to5mac.com/2023/08/09/family-rescued-wildfires-maui-iphone-satellite/)
 * [2023-08-10, 08:28:58](https://news.ycombinator.com/item?id=37073494) - ['Unbelievable': Astronomer Claims 'Direct Evidence' of Gravity Breaking Down](https://www.vice.com/en/article/ak3jwb/unbelievable-astronomer-claims-direct-evidence-of-gravity-breaking-down)
 * [2023-08-10, 08:23:57](https://news.ycombinator.com/item?id=37073464) - [Fancy Parking](http://www.fancyparking.com)
 * [2023-08-10, 06:55:29](https://news.ycombinator.com/item?id=37072851) - [Has Google Translate been fixed yet?](https://isgooglefixed.tw/)
