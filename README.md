@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-10, 16:07:54](https://news.ycombinator.com/item?id=37077977) - [Virgin Galactic successfully flies tourists to space for first time](https://www.theguardian.com/science/2023/aug/10/vigin-galactic-space-flight-vss-unity-landing)
 * [2023-08-10, 14:57:13](https://news.ycombinator.com/item?id=37076968) - [Maybe the problem is that Harvard exists](https://dynomight.net/harvard/)
 * [2023-08-10, 14:54:44](https://news.ycombinator.com/item?id=37076933) - [Two Students Shoot Down a Widely Believed Math Conjecture](https://www.quantamagazine.org/two-students-shoot-down-a-widely-believed-math-conjecture-20230810/)
 * [2023-08-10, 14:35:25](https://news.ycombinator.com/item?id=37076693) - [Launch HN: Rubbrband (YC W23) – Deformity detection for AI-generated images](https://news.ycombinator.com/item?id=37076693)
@@ -8,7 +9,6 @@
 * [2023-08-10, 13:56:24](https://news.ycombinator.com/item?id=37076210) - [Do Machine Learning Models Memorize or Generalize?](https://pair.withgoogle.com/explorables/grokking/)
 * [2023-08-10, 13:48:39](https://news.ycombinator.com/item?id=37076125) - [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352)
 * [2023-08-10, 12:01:09](https://news.ycombinator.com/item?id=37075064) - [Gym Class VR (YC W22) Is Hiring Unity Tooling Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/futIIml-unity-engineer-tools)
-* [2023-08-10, 11:11:31](https://news.ycombinator.com/item?id=37074589) - [What’s causing the rise of hoarding disorder? (2019)](https://daily.jstor.org/whats-causing-the-rise-of-hoarding-disorder/)
 * [2023-08-10, 10:57:30](https://news.ycombinator.com/item?id=37074452) - [The Future of the Vim Project](https://groups.google.com/g/vim_dev/c/dq9Wu5jqVTw)
 * [2023-08-10, 10:20:01](https://news.ycombinator.com/item?id=37074177) - [The Yandex leak: How a Russian search giant uses consumer data](https://www.confiant.com/news/the-yandex-leak-how-a-russian-search-giant-uses-consumer-data)
 * [2023-08-10, 09:39:06](https://news.ycombinator.com/item?id=37073938) - [Generative Agents: Interactive Simulacra of Human Behavior, Now Open Source](https://github.com/joonspk-research/generative_agents)
@@ -23,7 +23,7 @@
 * [2023-08-09, 16:11:09](https://news.ycombinator.com/item?id=37064822) - [Launch HN: Refine (YC S23) – Open-source platform for enterprise web apps](https://news.ycombinator.com/item?id=37064822)
 * [2023-08-09, 11:15:21](https://news.ycombinator.com/item?id=37061020) - [MilkyTracker 1.04](https://milkytracker.org/news/2023/07/05/version-1.04/)
 * [2023-08-09, 09:13:49](https://news.ycombinator.com/item?id=37060305) - [The Tetris Effect](https://nonzerosum.games/thetetriseffect.html)
-* [2023-08-09, 08:59:06](https://news.ycombinator.com/item?id=37060213) - [Piano Emulator in Your Terminal](https://github.com/eliasdorneles/upiano)
+* [2023-08-08, 18:08:41](https://news.ycombinator.com/item?id=37053157) - [Exoplanets Could Help Us Learn How Planets Make Magnetism](https://www.quantamagazine.org/exoplanets-could-help-us-learn-how-planets-make-magnetism-20230807/)
 * [2023-08-08, 14:24:17](https://news.ycombinator.com/item?id=37049415) - [SynJax: Jax library for efficient probabilistic modeling of structured objects](https://twitter.com/milosstanojevic/status/1688896558790520832)
 * [2023-08-08, 13:56:54](https://news.ycombinator.com/item?id=37049029) - [Microgrids Are Giving Power to the People](https://www.nytimes.com/2023/08/07/realestate/microgrid-solar-power-energy.html)
 * [2023-08-08, 13:41:26](https://news.ycombinator.com/item?id=37048836) - [Ask HN: What are the economics of a streaming based record label?](https://news.ycombinator.com/item?id=37048836)
