@@ -84,6 +84,7 @@
 * [2023-08-08, 10:38:00](https://news.ycombinator.com/item?id=37046974) - [A Creepy Question We'll All Have to Answer Soon](https://jasonpargin.substack.com/p/a-creepy-question-well-all-have-to)
 * [2023-08-08, 10:37:55](https://news.ycombinator.com/item?id=37046973) - [Terminal Support for Emoji](https://darrenburns.net/posts/emoji-in-the-terminal/)
 * [2023-08-08, 10:37:05](https://news.ycombinator.com/item?id=37046970) - [Typograms – Renderer for ASCII Diagrams](https://google.github.io/typograms/)
+* [2023-08-08, 10:32:09](https://news.ycombinator.com/item?id=37046934) - [Subscriber Only: A Technical Post Mortem](https://0x1.pt/2023/08/08/subscriber-only-a-technical-post-mortem/)
 * [2023-08-08, 09:22:47](https://news.ycombinator.com/item?id=37046448) - [Can Toilet Paper Cause Impotence?](https://spy.com/articles/grooming/hygiene/toilet-paper-forever-chemicals-1202971286/)
 * [2023-08-08, 09:11:13](https://news.ycombinator.com/item?id=37046353) - [A History of Clojure (2020) [pdf]](https://download.clojure.org/papers/clojure-hopl-iv-final.pdf)
 * [2023-08-08, 09:04:53](https://news.ycombinator.com/item?id=37046300) - [The Legitimacy of Takeover Defense in the '90s](https://via.library.depaul.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1969&context=law-review)
