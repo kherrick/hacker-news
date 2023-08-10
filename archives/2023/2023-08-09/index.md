@@ -49,6 +49,7 @@
 * [2023-08-09, 14:29:49](https://news.ycombinator.com/item?id=37063238) - [SQLedge: Replicate Postgres to SQLite on the Edge](https://github.com/zknill/sqledge)
 * [2023-08-09, 14:24:56](https://news.ycombinator.com/item?id=37063151) - [Arpchat – Text your friends on the same network using just ARP](https://github.com/kognise/arpchat)
 * [2023-08-09, 14:03:46](https://news.ycombinator.com/item?id=37062820) - [Nintendo filed numerous patents for Zelda: Tears of the Kingdom mechanics](https://automaton-media.com/en/news/20230808-20590/)
+* [2023-08-09, 14:01:51](https://news.ycombinator.com/item?id=37062793) - [What should you know about Svalbard? (2020)](https://best-citizenships.com/2020/02/11/what-should-you-know-about-svalbard/)
 * [2023-08-09, 13:52:33](https://news.ycombinator.com/item?id=37062650) - [Want employees to return to the office? Then give each one an office](https://www.washingtonpost.com/opinions/2023/08/09/remote-work-offices-floorplan-privacy/)
 * [2023-08-09, 13:47:56](https://news.ycombinator.com/item?id=37062579) - [Planetary defense test deflected an asteroid but unleashed a boulder swarm](https://newsroom.ucla.edu/releases/planetary-defense-nasa-dart-mission-asteroid)
 * [2023-08-09, 13:45:18](https://news.ycombinator.com/item?id=37062547) - [Tunnel Vision: CloudflareD AbuseD in the Wild](https://www.guidepointsecurity.com/blog/tunnel-vision-cloudflared-abused-in-the-wild/)
