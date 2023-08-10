@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-10](index.md)
 
+* [2023-08-10, 20:41:05](https://news.ycombinator.com/item?id=37081485) - [Was Y Combinator worth it?](https://tableflow.com/blog/was-y-combinator-worth-it)
+* [2023-08-10, 20:26:37](https://news.ycombinator.com/item?id=37081306) - [HashiCorp Adopts Business Source License](https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license)
 * [2023-08-10, 20:12:22](https://news.ycombinator.com/item?id=37081129) - [Amiga runs Michigan schools' heating and air conditioning systems](https://www.woodtv.com/news/grand-rapids/1980s-computer-controls-grps-heat-and-ac/)
 * [2023-08-10, 19:58:00](https://news.ycombinator.com/item?id=37080963) - [There are 28 vacant homes for every person experiencing homelessness in the U.S.](https://unitedwaynca.org/blog/vacant-homes-vs-homelessness-by-city/)
 * [2023-08-10, 19:43:23](https://news.ycombinator.com/item?id=37080790) - [Muon g-2 doubles down with latest measurement, explores uncharted territory](https://news.fnal.gov/2023/08/muon-g-2-doubles-down-with-latest-measurement/)
