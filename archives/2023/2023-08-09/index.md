@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-09](index.md)
 
 * [2023-08-09, 23:54:29](https://news.ycombinator.com/item?id=37070014) - [Company Behind Stable Diffusion Is Crumbling](https://futurism.com/the-byte/stability-ai-stable-diffusion-chaos)
+* [2023-08-09, 23:41:03](https://news.ycombinator.com/item?id=37069894) - [If you travel to China, be aware of an exit ban](https://harrisbricken.com/chinalawblog/china-exit-bans-you-can-check-out-any-time-you-want-but-you-cant-ever-leave/)
 * [2023-08-09, 23:01:58](https://news.ycombinator.com/item?id=37069551) - [Who Was Duns Scotus?](https://aeon.co/essays/duns-scotus-was-no-fool-but-a-brilliant-enigmatic-thinker)
 * [2023-08-09, 22:43:32](https://news.ycombinator.com/item?id=37069387) - [Is ChatGPT a Bit Unsporting?](https://www.kmjn.org/notes/chatgpt_unsporting.html)
 * [2023-08-09, 21:52:58](https://news.ycombinator.com/item?id=37068953) - [A superconductor claim blew up online. Science has punctured it](https://www.washingtonpost.com/science/2023/08/09/room-temperature-superconductor-lk99-evidence/)
