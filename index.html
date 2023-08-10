@@ -141,11 +141,11 @@
             <h4>
               <span>2023-08-10 @ 18:05:41</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37079616"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -162,11 +162,11 @@
             <h4>
               <span>2023-08-10 @ 17:59:07</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37079534"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -184,11 +184,11 @@
             <h4>
               <span>2023-08-10 @ 17:53:18</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37079438"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -206,11 +206,11 @@
             <h4>
               <span>2023-08-10 @ 17:49:44</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37079378"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -227,13 +227,96 @@
             <h4>
               <span>2023-08-10 @ 17:36:26</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37079162"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="37079053">
+          <h3>
+            <a class="item" href="https://github.com/getretake/retake"
+              >Show HN: Retake – Open-Source Hybrid Search for Postgres</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-08-10 @ 17:28:59</span
+              ><span class="points-container"
+                >Points: <span class="points">15</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37079053"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://github.com/getretake/retake"
+                >https://github.com/getretake/retake</a
+              >). Retake is an open source tool that adds keyword and semantic
+              (i.e hybrid) search to databases. We’ve started by extending the
+              capabilities of Postgres with an SDK for lightning-fast queries.
+              <p>
+                We built Retake to fix two issues: keeping vectors in sync with
+                Postgres in real time is difficult, and most vector databases
+                aren’t built for hybrid search.
+              </p>
+              <p>
+                A quick refresher: “keyword search” refers to a technique where
+                results are scored based on the appearance of exact words or
+                terms. “Semantic search” uses vector embeddings to understand
+                the meaning behind those words. Hybrid search combines these two
+                approaches to enhance the precision and relevance of results.
+              </p>
+              <p>
+                To implement semantic or hybrid search today, most organizations
+                run batch jobs that update their search engine or vector
+                database using ETL tools or custom data pipelines. We’ve seen
+                from firsthand experience how time-consuming and costly this can
+                be, as moving vectors often requires re-embedding the entire
+                data source.
+              </p>
+              <p>
+                We’ve also seen how many vector databases lack crucial features
+                of “traditional” search: keyword-based (BM25) search,
+                faceting/aggregations, highlighting, efficient filtering, etc.
+              </p>
+              <p>
+                Here’s how Retake works - our core is built on top of
+                OpenSearch, which acts as a search engine and vector database.
+                We leverage logical-replication-based Change Data Capture (CDC)
+                to stay in sync with Postgres, so documents and vectors are
+                updated incrementally and in real time. Finally, Python and
+                Typescript SDKs make it easy to integrate Retake into your
+                application. There’s no need to manage separate vector databases
+                and search engines, upload and embed documents, or run expensive
+                reindexing jobs. All you need to think about is writing search
+                queries.
+              </p>
+              <p>
+                The easiest way to get started with Retake is by running our
+                Docker Compose stack:
+              </p>
+              <p></p>
+              <pre><code>  git clone https://github.com/getretake/retake.git
+  cd retake/docker &amp;&amp; docker compose up
+</code></pre>
+              Retake is Apache licensed and our repo is here:
+              <a href="https://github.com/getretake/retake"
+                >https://github.com/getretake/retake</a
+              >. For next steps, see our quick start guide:
+              <a href="https://docs.getretake.com/quickstart"
+                >https://docs.getretake.com/quickstart</a
+              >
+              <p>
+                We’d love your feedback on our solution to hybrid search. Our
+                focus right now is on nailing the basics, but we’d also love to
+                hear what you think we should focus on next.
+              </p>
+            </div>
           </section>
         </section>
         <section id="37078930">
@@ -246,7 +329,7 @@
             <h4>
               <span>2023-08-10 @ 17:19:44</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37078930"
                   >Comments</a
@@ -267,7 +350,7 @@
             <h4>
               <span>2023-08-10 @ 17:05:43</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37078753"
                   >Comments</a
@@ -284,7 +367,7 @@
             <h4>
               <span>2023-08-10 @ 17:02:14</span
               ><span class="points-container"
-                >Points: <span class="points">196</span></span
+                >Points: <span class="points">218</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37078719"
                   >Comments</a
@@ -310,6 +393,25 @@
             </h4>
           </section>
         </section>
+        <section id="37078606">
+          <h3>
+            <a class="item" href="https://konfigthis.com/blog/graphql-vs-rest"
+              >I reviewed 1,000s of GraphQL vs. REST perspectives</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-08-10 @ 16:54:01</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37078606"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="37078423">
           <h3>
             <a
@@ -322,11 +424,11 @@
             <h4>
               <span>2023-08-10 @ 16:40:54</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37078423"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -343,11 +445,11 @@
             <h4>
               <span>2023-08-10 @ 16:12:25</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37078047"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -365,33 +467,11 @@
             <h4>
               <span>2023-08-10 @ 16:07:54</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37077977"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="37077886">
-          <h3>
-            <a
-              class="item"
-              href="https://www.reuters.com/world/us/us-set-unveil-long-awaited-crackdown-real-estate-money-laundering-2023-08-10/"
-              >US set to unveil long-awaited crackdown on real estate money
-              laundering</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-08-10 @ 16:00:45</span
-              ><span class="points-container"
-                >Points: <span class="points">40</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37077886"
-                  >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
@@ -409,11 +489,11 @@
             <h4>
               <span>2023-08-10 @ 14:54:44</span
               ><span class="points-container"
-                >Points: <span class="points">177</span></span
+                >Points: <span class="points">178</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37076933"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
@@ -429,11 +509,11 @@
             <h4>
               <span>2023-08-10 @ 14:35:25</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37076693"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
             <div class="text">
@@ -515,11 +595,11 @@
             <h4>
               <span>2023-08-10 @ 14:21:46</span
               ><span class="points-container"
-                >Points: <span class="points">289</span></span
+                >Points: <span class="points">296</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37076523"
                   >Comments</a
-                ><span class="descendants">: 192</span></span
+                ><span class="descendants">: 198</span></span
               >
             </h4>
           </section>
@@ -536,11 +616,11 @@
             <h4>
               <span>2023-08-10 @ 13:56:24</span
               ><span class="points-container"
-                >Points: <span class="points">241</span></span
+                >Points: <span class="points">245</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37076210"
                   >Comments</a
-                ><span class="descendants">: 82</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
@@ -556,11 +636,11 @@
             <h4>
               <span>2023-08-10 @ 13:48:39</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">101</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37076125"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -576,11 +656,11 @@
             <h4>
               <span>2023-08-10 @ 13:13:57</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37075730"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -597,11 +677,11 @@
             <h4>
               <span>2023-08-10 @ 10:57:30</span
               ><span class="points-container"
-                >Points: <span class="points">542</span></span
+                >Points: <span class="points">547</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37074452"
                   >Comments</a
-                ><span class="descendants">: 319</span></span
+                ><span class="descendants">: 324</span></span
               >
             </h4>
           </section>
@@ -619,7 +699,7 @@
             <h4>
               <span>2023-08-10 @ 09:39:06</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37073938"
                   >Comments</a
@@ -636,7 +716,7 @@
             <h4>
               <span>2023-08-10 @ 09:30:44</span
               ><span class="points-container"
-                >Points: <span class="points">467</span></span
+                >Points: <span class="points">474</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37073885"
                   >Comments</a
@@ -658,7 +738,7 @@
             <h4>
               <span>2023-08-10 @ 06:21:04</span
               ><span class="points-container"
-                >Points: <span class="points">188</span></span
+                >Points: <span class="points">189</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37072588"
                   >Comments</a
@@ -683,29 +763,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37072036"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="37066680">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/extesy/hoverzoom/discussions/670"
-              >Temptations of an open-source Chrome extension developer
-              (2021)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-08-09 @ 18:28:30</span
-              ><span class="points-container"
-                >Points: <span class="points">1034</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37066680"
-                  >Comments</a
-                ><span class="descendants">: 338</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -722,7 +780,7 @@
             <h4>
               <span>2023-08-09 @ 16:41:55</span
               ><span class="points-container"
-                >Points: <span class="points">169</span></span
+                >Points: <span class="points">170</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37065288"
                   >Comments</a
@@ -744,7 +802,7 @@
             <h4>
               <span>2023-08-09 @ 04:40:19</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37058773"
                   >Comments</a
@@ -765,7 +823,7 @@
             <h4>
               <span>2023-08-08 @ 18:08:41</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37053157"
                   >Comments</a
@@ -787,7 +845,7 @@
             <h4>
               <span>2023-08-08 @ 14:24:17</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37049415"
                   >Comments</a
@@ -809,11 +867,11 @@
             <h4>
               <span>2023-08-08 @ 13:56:54</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37049029"
                   >Comments</a
-                ><span class="descendants">: 85</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
