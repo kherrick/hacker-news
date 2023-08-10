@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=37073768"
     ],
     [
-      "Russia starts blocking VPN at the protocol (WireGuard, OpenVPN) level",
+      "Russia Starts Blocking VPN Protocols",
       "https://vpncentral.com/russia-starts-blocking-vpn-protocols/"
     ]
   ],
@@ -135,8 +135,18 @@
       "https://news.ycombinator.com/item?id=37072037"
     ],
     [
-      "Manias and Mimesis: Applying René Girard’s Mimetic Theory to Financial Bubbles",
+      "Manias and Mimesis: Applying Girard’s Mimetic Theory to Financial Bubbles (2019)",
       "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3469465"
+    ]
+  ],
+  [
+    [
+      "2023-08-10, 03:10:01",
+      "https://news.ycombinator.com/item?id=37071472"
+    ],
+    [
+      "Doctors on TikTok",
+      "https://thewalrus.ca/medical-tiktok/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Autogenerating Rust-JS Bindings with UniFFI",
       "https://hacks.mozilla.org/2023/08/autogenerating-rust-js-bindings-with-uniffi/"
-    ]
-  ],
-  [
-    [
-      "2023-08-10, 00:21:36",
-      "https://news.ycombinator.com/item?id=37070218"
-    ],
-    [
-      "Paul Graham on Conversations with Tyler",
-      "https://conversationswithtyler.com/episodes/paul-graham/"
     ]
   ],
   [
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=37064843"
     ],
     [
-      "What’s a Human-Powered Computer? (1993)",
+      "What’s a Human-Powered Computer? (2020)",
       "https://johnmaeda.medium.com/whats-a-human-powered-computer-14997285111"
     ]
   ],
