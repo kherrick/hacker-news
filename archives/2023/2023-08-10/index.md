@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-10](index.md)
 
+* [2023-08-10, 21:37:17](https://news.ycombinator.com/item?id=37082117) - [Llama 2 on ONNX runs locally](https://github.com/microsoft/Llama-2-Onnx)
 * [2023-08-10, 21:25:20](https://news.ycombinator.com/item?id=37081994) - [Why do whistles have a little ball inside them?](https://old.reddit.com/r/NoStupidQuestions/comments/60mfwp/why_do_whistles_have_a_little_ball_inside_them/)
+* [2023-08-10, 21:08:40](https://news.ycombinator.com/item?id=37081833) - [A Modern C Development Environment](https://interrupt.memfault.com/blog/a-modern-c-dev-env)
 * [2023-08-10, 21:05:20](https://news.ycombinator.com/item?id=37081789) - [My Overkill Home Network – Complete Details 2023](https://blog.networkprofile.org/my-home-network-complete-details-2023/)
 * [2023-08-10, 20:41:05](https://news.ycombinator.com/item?id=37081485) - [Was Y Combinator worth it?](https://tableflow.com/blog/was-y-combinator-worth-it)
 * [2023-08-10, 20:26:37](https://news.ycombinator.com/item?id=37081306) - [HashiCorp Adopts Business Source License](https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license)

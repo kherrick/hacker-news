@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-10, 21:37:17](https://news.ycombinator.com/item?id=37082117) - [Llama 2 on ONNX runs locally](https://github.com/microsoft/Llama-2-Onnx)
 * [2023-08-10, 21:25:20](https://news.ycombinator.com/item?id=37081994) - [Why do whistles have a little ball inside them?](https://old.reddit.com/r/NoStupidQuestions/comments/60mfwp/why_do_whistles_have_a_little_ball_inside_them/)
+* [2023-08-10, 21:08:40](https://news.ycombinator.com/item?id=37081833) - [A Modern C Development Environment](https://interrupt.memfault.com/blog/a-modern-c-dev-env)
 * [2023-08-10, 21:05:20](https://news.ycombinator.com/item?id=37081789) - [My Overkill Home Network – Complete Details 2023](https://blog.networkprofile.org/my-home-network-complete-details-2023/)
 * [2023-08-10, 20:41:05](https://news.ycombinator.com/item?id=37081485) - [Was Y Combinator worth it?](https://tableflow.com/blog/was-y-combinator-worth-it)
 * [2023-08-10, 20:12:22](https://news.ycombinator.com/item?id=37081129) - [Amiga runs Michigan schools' heating and air conditioning systems (2015)](https://www.woodtv.com/news/grand-rapids/1980s-computer-controls-grps-heat-and-ac/)
@@ -23,11 +25,9 @@
 * [2023-08-10, 13:13:57](https://news.ycombinator.com/item?id=37075730) - [Show HN: Applite – Clean Homebrew front end app for macOS built with SwiftUI](https://aerolite.dev/applite/index.html)
 * [2023-08-10, 10:57:30](https://news.ycombinator.com/item?id=37074452) - [The Future of the Vim Project](https://groups.google.com/g/vim_dev/c/dq9Wu5jqVTw)
 * [2023-08-10, 09:39:06](https://news.ycombinator.com/item?id=37073938) - [Generative Agents: Interactive Simulacra of Human Behavior, Now Open Source](https://github.com/joonspk-research/generative_agents)
-* [2023-08-10, 06:21:04](https://news.ycombinator.com/item?id=37072588) - [Scripps Institution of Oceanography’s FLIP vessel decommissioned after 60 years](https://maritime-executive.com/article/world-s-strangest-research-vessel-heads-for-scrapyard-after-51-years)
 * [2023-08-09, 20:52:54](https://news.ycombinator.com/item?id=37068230) - [Robbie Robertson has died](https://www.nytimes.com/2023/08/09/arts/music/robbie-robertson-dead.html)
 * [2023-08-09, 04:40:19](https://news.ycombinator.com/item?id=37058773) - [John Preskill's retrospective on the black hole information paradox](https://quantumfrontiers.com/2023/08/08/it-from-qubit-the-last-harrah/)
 * [2023-08-09, 02:36:54](https://news.ycombinator.com/item?id=37058093) - [Sync Gear: How World War I Fighters Avoided Damaging Their Own Propellers](https://hartzellprop.com/synch-gear-world-war-fighters-avoided-damaging-propellers/)
-* [2023-08-08, 18:08:41](https://news.ycombinator.com/item?id=37053157) - [Exoplanets Could Help Us Learn How Planets Make Magnetism](https://www.quantamagazine.org/exoplanets-could-help-us-learn-how-planets-make-magnetism-20230807/)
 * [2023-08-08, 14:03:08](https://news.ycombinator.com/item?id=37049117) - [Nextflow: Data-Driven Computational Pipelines](https://nextflow.io/)
 * [2023-08-08, 13:56:54](https://news.ycombinator.com/item?id=37049029) - [Developers are building communities that act as their own miniature power grids](https://www.nytimes.com/2023/08/07/realestate/microgrid-solar-power-energy.html)
 
