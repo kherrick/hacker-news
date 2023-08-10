@@ -92,6 +92,7 @@
 * [2023-08-08, 08:37:16](https://news.ycombinator.com/item?id=37046138) - [The Telephone (1997)](https://www.pbs.org/wgbh/americanexperience/films/telephone/)
 * [2023-08-08, 08:35:31](https://news.ycombinator.com/item?id=37046128) - [Mexico seeks to solidify rank as top U.S. trade partner, push further past China](https://www.dallasfed.org/research/economics/2023/0711)
 * [2023-08-08, 08:30:46](https://news.ycombinator.com/item?id=37046107) - [UK man bitten by cat contracts unknown and ‘extensive’ bacterial infection](https://www.independent.co.uk/news/science/cat-bite-nhs-infection-b2389244.html)
+* [2023-08-08, 07:47:15](https://news.ycombinator.com/item?id=37045803) - [Main is usually a function. So then when is it not?](http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
 * [2023-08-08, 07:01:07](https://news.ycombinator.com/item?id=37045471) - [R.I.P. Macromedia FreeHand (2007)](https://losingfight.com/blog/2007/05/17/rip-freehand/)
 * [2023-08-08, 06:58:50](https://news.ycombinator.com/item?id=37045455) - [The SEO scam: $62,000 later](https://tinloof.com/blog/the-seo-scam-62000-dollars-later)
 * [2023-08-08, 06:49:09](https://news.ycombinator.com/item?id=37045385) - [Jailer, a unique open-source database tool](https://github.com/Wisser/Jailer)
