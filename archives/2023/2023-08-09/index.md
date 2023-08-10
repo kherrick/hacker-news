@@ -69,6 +69,7 @@
 * [2023-08-09, 09:58:19](https://news.ycombinator.com/item?id=37060543) - [T1 internet provider bans entire /32 IP assignment for the first time in history](https://rdrama.net/post/195275/marseynullbipolar-attorney-generals-office-of-washington)
 * [2023-08-09, 09:45:40](https://news.ycombinator.com/item?id=37060470) - [Akin’s Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html)
 * [2023-08-09, 09:14:46](https://news.ycombinator.com/item?id=37060313) - [Inception Attack](https://www.bleepingcomputer.com/news/security/new-inception-attack-leaks-sensitive-data-from-all-amd-zen-cpus/)
+* [2023-08-09, 09:13:49](https://news.ycombinator.com/item?id=37060305) - [The Tetris Effect](https://nonzerosum.games/thetetriseffect.html)
 * [2023-08-09, 09:07:27](https://news.ycombinator.com/item?id=37060269) - [New part day: Finally a 100% new Commodore 64 can be built](https://1nt3r.net/j-cia/)
 * [2023-08-09, 09:01:23](https://news.ycombinator.com/item?id=37060226) - [Intel's GPU Drivers Now Collect Telemetry, Including 'How You Use Your Computer'](https://www.extremetech.com/gaming/intels-gpu-drivers-now-collect-telemetry-including-how-you-use-your-computer)
 * [2023-08-09, 08:59:06](https://news.ycombinator.com/item?id=37060213) - [Piano Emulator in Your Terminal](https://github.com/eliasdorneles/upiano)
