@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-08-10](index.md)
 
+* [2023-08-10, 10:57:30](https://news.ycombinator.com/item?id=37074452) - [The Future of the Vim Project](https://groups.google.com/g/vim_dev/c/dq9Wu5jqVTw)
 * [2023-08-10, 10:29:18](https://news.ycombinator.com/item?id=37074248) - [The average Manhattan rent just hit a new record of $5,588 a month](https://www.cnbc.com/2023/08/10/the-average-manhattan-rent-just-hit-a-new-record-of-5588-a-month.html)
 * [2023-08-10, 10:20:01](https://news.ycombinator.com/item?id=37074177) - [The Yandex Leak: How a Russian Search Giant Uses Consumer Data](https://www.confiant.com/news/the-yandex-leak-how-a-russian-search-giant-uses-consumer-data)
 * [2023-08-10, 10:15:44](https://news.ycombinator.com/item?id=37074146) - [UPS CEO says drivers will avg $170k in pay and benefits at end of 5-year deal](https://www.cnbc.com/2023/08/09/ups-drivers-to-average-170000-in-pay-benefits-at-end-of-5-year-deal.html)
 * [2023-08-10, 10:08:10](https://news.ycombinator.com/item?id=37074095) - [Get your staff's consent before you monitor them, tech inquiry warns](https://www.theregister.com/2023/08/10/workplace_monitoring_select_committee/)
+* [2023-08-10, 09:52:15](https://news.ycombinator.com/item?id=37074013) - [Regex Licensing](https://regexlicensing.org/)
 * [2023-08-10, 09:39:06](https://news.ycombinator.com/item?id=37073938) - [Generative Agents: Interactive Simulacra of Human Behavior, Now Open Source](https://github.com/joonspk-research/generative_agents)
 * [2023-08-10, 09:30:44](https://news.ycombinator.com/item?id=37073885) - [Speed Test](https://speed.cloudflare.com/)
 * [2023-08-10, 09:12:43](https://news.ycombinator.com/item?id=37073768) - [Russia starts blocking VPN at the protocol (WireGuard, OpenVPN) level](https://vpncentral.com/russia-starts-blocking-vpn-protocols/)
