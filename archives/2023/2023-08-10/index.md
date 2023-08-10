@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-10](index.md)
 
+* [2023-08-10, 17:18:43](https://news.ycombinator.com/item?id=37078914) - [US Will Have to Write Off Billions in Student Debt Due to Deaths](https://www.bloomberg.com/news/articles/2023-08-07/us-will-have-to-write-off-billions-in-student-debt-due-to-deaths)
 * [2023-08-10, 17:01:03](https://news.ycombinator.com/item?id=37078708) - [Memfault (YC W19) Is Hiring a Data/Back End Engineer](https://www.ycombinator.com/companies/memfault/jobs/zALzwIe-backend-engineer-systems-data)
+* [2023-08-10, 16:53:33](https://news.ycombinator.com/item?id=37078598) - [GM confirms $130k Cadillac won’t have Apple CarPlay or Android Auto](https://www.theverge.com/2023/8/10/23827059/gm-no-carplay-android-auto-escalade-iq)
 * [2023-08-10, 16:40:54](https://news.ycombinator.com/item?id=37078423) - [CIQ, Oracle, SUSE Create Open Enterprise Linux Association](https://www.suse.com/news/OpenELA-for-a-Collaborative-and-Open-Future/)
 * [2023-08-10, 16:35:58](https://news.ycombinator.com/item?id=37078358) - [Maybe the problem is that Harvard exists – Dynomight](https://dynomight.substack.com/p/harvard)
 * [2023-08-10, 16:07:54](https://news.ycombinator.com/item?id=37077977) - [Virgin Galactic successfully flies tourists to space for first time](https://www.theguardian.com/science/2023/aug/10/vigin-galactic-space-flight-vss-unity-landing)
