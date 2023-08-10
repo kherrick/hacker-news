@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-10, 22:22:44",
+      "https://news.ycombinator.com/item?id=37082506"
+    ],
+    [
+      "HashiCorp Switches to BSL License",
+      "https://www.hashicorp.com/license-faq#What-did-HashiCorp-announce-today-(Aug-10)"
+    ]
+  ],
+  [
+    [
       "2023-08-10, 21:57:24",
       "https://news.ycombinator.com/item?id=37082289"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2023-08-10, 14:21:46",
-      "https://news.ycombinator.com/item?id=37076523"
-    ],
-    [
-      "MS Teams channels cannot contain MS-DOS device names",
-      "https://learn.microsoft.com/en-us/microsoftteams/limits-specifications-teams"
-    ]
-  ],
-  [
-    [
       "2023-08-10, 13:56:24",
       "https://news.ycombinator.com/item?id=37076210"
     ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2023-08-10, 09:39:06",
-      "https://news.ycombinator.com/item?id=37073938"
-    ],
-    [
-      "Generative Agents: Interactive Simulacra of Human Behavior, Now Open Source",
-      "https://github.com/joonspk-research/generative_agents"
-    ]
-  ],
-  [
-    [
       "2023-08-09, 20:52:54",
       "https://news.ycombinator.com/item?id=37068230"
     ],
@@ -277,6 +267,16 @@
     [
       "A bit of ST and a bit of IO: Designing a DCPU-16 emulator",
       "https://jaspervdj.be/posts/2012-04-12-st-io-dcpu-16.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-08, 16:55:54",
+      "https://news.ycombinator.com/item?id=37052049"
+    ],
+    [
+      "General and Surprising (2017)",
+      "http://www.paulgraham.com/sun.html"
     ]
   ],
   [
