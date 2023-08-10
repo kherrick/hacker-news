@@ -74,6 +74,7 @@
 * [2023-08-08, 12:38:49](https://news.ycombinator.com/item?id=37048099) - [Navy in Middle-Earth](https://warfantasy.wordpress.com/2023/07/02/navy-in-middle-earth/)
 * [2023-08-08, 12:19:38](https://news.ycombinator.com/item?id=37047858) - [More Than Half of Earth's Species Live Underground](https://www.scientificamerican.com/article/more-than-half-of-earths-species-live-underground/)
 * [2023-08-08, 12:09:28](https://news.ycombinator.com/item?id=37047746) - [Web Scraping via JavaScript Runtime Heap Snapshots (2022)](https://www.adriancooney.ie/blog/web-scraping-via-javascript-heap-snapshots)
+* [2023-08-08, 11:49:59](https://news.ycombinator.com/item?id=37047529) - [Braille Is Alive, Well, and Ever-Evolving](https://themillions.com/2023/07/braille-is-alive-well-and-ever-evolving.html)
 * [2023-08-08, 11:40:59](https://news.ycombinator.com/item?id=37047462) - [Vector Similarity Beyond Search](https://qdrant.tech/articles/vector-similarity-beyond-search/)
 * [2023-08-08, 11:33:42](https://news.ycombinator.com/item?id=37047402) - [Show HN: Knit – A Better LLM Playground](https://promptknit.com)
 * [2023-08-08, 11:27:30](https://news.ycombinator.com/item?id=37047343) - [The Quite OK Audio Format for Fast, Lossy Compression](https://qoaformat.org/)
