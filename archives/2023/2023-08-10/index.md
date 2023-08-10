@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-10](index.md)
 
+* [2023-08-10, 19:58:00](https://news.ycombinator.com/item?id=37080963) - [There are 28 vacant homes for every person experiencing homelessness in the U.S.](https://unitedwaynca.org/blog/vacant-homes-vs-homelessness-by-city/)
+* [2023-08-10, 19:43:23](https://news.ycombinator.com/item?id=37080790) - [Muon g-2 doubles down with latest measurement, explores uncharted territory](https://news.fnal.gov/2023/08/muon-g-2-doubles-down-with-latest-measurement/)
 * [2023-08-10, 19:07:38](https://news.ycombinator.com/item?id=37080404) - [Turns out lowly thymus may be saving your life](https://news.harvard.edu/gazette/story/2023/08/turns-out-lowly-thymus-may-be-saving-your-life/)
 * [2023-08-10, 19:01:33](https://news.ycombinator.com/item?id=37080331) - [Median Center of Population for the United States: 1880 to 2020 (2020)](https://www.census.gov/library/visualizations/2020/geo/center-of-population-1880-2020.html)
 * [2023-08-10, 18:49:12](https://news.ycombinator.com/item?id=37080160) - [Nick Cave on ChatGPT and the creative process](https://www.theredhandfiles.com/chatgpt-making-things-faster-and-easier/)
