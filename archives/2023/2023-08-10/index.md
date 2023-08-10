@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-10](index.md)
 
+* [2023-08-10, 06:21:04](https://news.ycombinator.com/item?id=37072588) - [Strangest Research Vessel Heads for Scrapyard After 60 Years](https://maritime-executive.com/article/world-s-strangest-research-vessel-heads-for-scrapyard-after-51-years)
 * [2023-08-10, 06:14:18](https://news.ycombinator.com/item?id=37072547) - [What Will the World Look Like with Less Babies?](https://lindynewsletter.beehiiv.com/p/will-world-look-like-less-babies)
 * [2023-08-10, 06:11:26](https://news.ycombinator.com/item?id=37072530) - [Supermarket AI meal planner app suggests recipe that would create chlorine gas](https://www.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes)
 * [2023-08-10, 05:13:43](https://news.ycombinator.com/item?id=37072224) - [A redesigned Slack, built for focus](https://slack.com/intl/en-gb/blog/productivity/a-redesigned-slack-built-for-focus)

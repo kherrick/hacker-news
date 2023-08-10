@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-10, 06:21:04](https://news.ycombinator.com/item?id=37072588) - [Strangest Research Vessel Heads for Scrapyard After 60 Years](https://maritime-executive.com/article/world-s-strangest-research-vessel-heads-for-scrapyard-after-51-years)
 * [2023-08-10, 06:14:18](https://news.ycombinator.com/item?id=37072547) - [What Will the World Look Like with Less Babies?](https://lindynewsletter.beehiiv.com/p/will-world-look-like-less-babies)
 * [2023-08-10, 06:11:26](https://news.ycombinator.com/item?id=37072530) - [Supermarket AI meal planner app suggests recipe that would create chlorine gas](https://www.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes)
 * [2023-08-10, 05:13:43](https://news.ycombinator.com/item?id=37072224) - [A redesigned Slack, built for focus](https://slack.com/intl/en-gb/blog/productivity/a-redesigned-slack-built-for-focus)
@@ -23,7 +24,6 @@
 * [2023-08-09, 11:30:47](https://news.ycombinator.com/item?id=37061127) - [Review: Beepy a Palm-Sized Linux Hacking Playground](https://hackaday.com/2023/08/07/review-beepy-a-palm-sized-linux-hacking-playground/)
 * [2023-08-09, 09:45:40](https://news.ycombinator.com/item?id=37060470) - [Akin’s Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html)
 * [2023-08-09, 08:59:06](https://news.ycombinator.com/item?id=37060213) - [Piano Emulator in Your Terminal](https://github.com/eliasdorneles/upiano)
-* [2023-08-09, 06:40:39](https://news.ycombinator.com/item?id=37059400) - [Supabase Local Dev: migrations, branching, and observability](https://supabase.com/blog/supabase-local-dev)
 * [2023-08-08, 11:49:59](https://news.ycombinator.com/item?id=37047529) - [Braille Is Alive, Well, and Ever-Evolving](https://themillions.com/2023/07/braille-is-alive-well-and-ever-evolving.html)
 * [2023-08-08, 11:27:30](https://news.ycombinator.com/item?id=37047343) - [The Quite OK Audio Format for Fast, Lossy Compression](https://qoaformat.org/)
 * [2023-08-08, 10:32:09](https://news.ycombinator.com/item?id=37046934) - [Subscriber Only: A Technical Post Mortem](https://0x1.pt/2023/08/08/subscriber-only-a-technical-post-mortem/)
