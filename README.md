@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-10, 22:22:44](https://news.ycombinator.com/item?id=37082506) - [HashiCorp Switches to BSL License](https://www.hashicorp.com/license-faq#What-did-HashiCorp-announce-today-(Aug-10))
 * [2023-08-10, 21:57:24](https://news.ycombinator.com/item?id=37082289) - [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/)
 * [2023-08-10, 21:37:17](https://news.ycombinator.com/item?id=37082117) - [Llama 2 on ONNX runs locally](https://github.com/microsoft/Llama-2-Onnx)
 * [2023-08-10, 21:08:40](https://news.ycombinator.com/item?id=37081833) - [A Modern C Development Environment](https://interrupt.memfault.com/blog/a-modern-c-dev-env)
@@ -19,15 +20,14 @@
 * [2023-08-10, 16:40:54](https://news.ycombinator.com/item?id=37078423) - [CIQ, Oracle, SUSE Create Open Enterprise Linux Association](https://www.suse.com/news/OpenELA-for-a-Collaborative-and-Open-Future/)
 * [2023-08-10, 16:12:25](https://news.ycombinator.com/item?id=37078047) - [MIT Pirate Certificate](https://physicaleducationandwellness.mit.edu/about/pirate-certificate/)
 * [2023-08-10, 14:35:25](https://news.ycombinator.com/item?id=37076693) - [Launch HN: Rubbrband (YC W23) – Deformity detection for AI-generated images](https://news.ycombinator.com/item?id=37076693)
-* [2023-08-10, 14:21:46](https://news.ycombinator.com/item?id=37076523) - [MS Teams channels cannot contain MS-DOS device names](https://learn.microsoft.com/en-us/microsoftteams/limits-specifications-teams)
 * [2023-08-10, 13:56:24](https://news.ycombinator.com/item?id=37076210) - [Do Machine Learning Models Memorize or Generalize?](https://pair.withgoogle.com/explorables/grokking/)
 * [2023-08-10, 13:48:39](https://news.ycombinator.com/item?id=37076125) - [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352)
 * [2023-08-10, 13:13:57](https://news.ycombinator.com/item?id=37075730) - [Show HN: Applite – Clean Homebrew front end app for macOS built with SwiftUI](https://aerolite.dev/applite/index.html)
 * [2023-08-10, 10:57:30](https://news.ycombinator.com/item?id=37074452) - [The Future of the Vim Project](https://groups.google.com/g/vim_dev/c/dq9Wu5jqVTw)
-* [2023-08-10, 09:39:06](https://news.ycombinator.com/item?id=37073938) - [Generative Agents: Interactive Simulacra of Human Behavior, Now Open Source](https://github.com/joonspk-research/generative_agents)
 * [2023-08-09, 20:52:54](https://news.ycombinator.com/item?id=37068230) - [Robbie Robertson has died](https://www.nytimes.com/2023/08/09/arts/music/robbie-robertson-dead.html)
 * [2023-08-09, 02:36:54](https://news.ycombinator.com/item?id=37058093) - [Sync Gear: How World War I Fighters Avoided Damaging Their Own Propellers](https://hartzellprop.com/synch-gear-world-war-fighters-avoided-damaging-propellers/)
 * [2023-08-08, 18:44:34](https://news.ycombinator.com/item?id=37053649) - [A bit of ST and a bit of IO: Designing a DCPU-16 emulator](https://jaspervdj.be/posts/2012-04-12-st-io-dcpu-16.html)
+* [2023-08-08, 16:55:54](https://news.ycombinator.com/item?id=37052049) - [General and Surprising (2017)](http://www.paulgraham.com/sun.html)
 * [2023-08-08, 14:03:08](https://news.ycombinator.com/item?id=37049117) - [Nextflow: Data-Driven Computational Pipelines](https://nextflow.io/)
 * [2023-08-08, 13:56:54](https://news.ycombinator.com/item?id=37049029) - [Developers are building communities that act as their own miniature power grids](https://www.nytimes.com/2023/08/07/realestate/microgrid-solar-power-energy.html)
 

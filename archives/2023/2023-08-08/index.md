@@ -42,6 +42,7 @@
 * [2023-08-08, 17:06:53](https://news.ycombinator.com/item?id=37052243) - [Who Named Earth?](https://scienceswitch.com/2023/08/08/who-named-earth/)
 * [2023-08-08, 17:05:18](https://news.ycombinator.com/item?id=37052218) - [Why not tax private jets out of business?](https://www.pressherald.com/2023/08/08/commentary-why-not-tax-private-jets-out-of-business/)
 * [2023-08-08, 17:00:51](https://news.ycombinator.com/item?id=37052137) - [SnapEDA (YC S15) is hiring AI lead for electronics copilot in Bay Area](https://careers.snapeda.com/o/engineering-lead-ai)
+* [2023-08-08, 16:55:54](https://news.ycombinator.com/item?id=37052049) - [General and Surprising (2017)](http://www.paulgraham.com/sun.html)
 * [2023-08-08, 16:49:13](https://news.ycombinator.com/item?id=37051909) - [Mars Keeps Spinning Faster, and Scientists Don't Know Why](https://www.nature.com/articles/s41586-023-06150-0)
 * [2023-08-08, 16:20:33](https://news.ycombinator.com/item?id=37051423) - [Inception: A simple XOR can cause a Microarchitectural Stack Overflow](https://comsec.ethz.ch/research/microarch/inception/)
 * [2023-08-08, 16:07:11](https://news.ycombinator.com/item?id=37051206) - [Inception: Leaking the root hash from /etc./shadow on AMD Zen 4 [video]](https://www.youtube.com/watch?v=2wCjU8iJ9G4)
