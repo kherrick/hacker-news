@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-08-09, 15:05:56",
+      "https://news.ycombinator.com/item?id=37063829"
+    ],
+    [
+      "B.C. woman buried in Amazon packages she did not ask for and does not want",
+      "https://www.cbc.ca/news/canada/british-columbia/amazon-shoe-packages-1.6926200"
+    ]
+  ],
+  [
+    [
       "2023-08-09, 14:29:49",
       "https://news.ycombinator.com/item?id=37063238"
     ],
@@ -187,16 +197,6 @@
     [
       "Arpchat – Text your friends on the same network using just ARP",
       "https://github.com/kognise/arpchat"
-    ]
-  ],
-  [
-    [
-      "2023-08-09, 11:30:47",
-      "https://news.ycombinator.com/item?id=37061127"
-    ],
-    [
-      "Review: Beepy a Palm-Sized Linux Hacking Playground",
-      "https://hackaday.com/2023/08/07/review-beepy-a-palm-sized-linux-hacking-playground/"
     ]
   ],
   [
@@ -227,16 +227,6 @@
     [
       "Piano Emulator in Your Terminal",
       "https://github.com/eliasdorneles/upiano"
-    ]
-  ],
-  [
-    [
-      "2023-08-09, 06:40:39",
-      "https://news.ycombinator.com/item?id=37059400"
-    ],
-    [
-      "Supabase Local Dev: migrations, branching, and observability",
-      "https://supabase.com/blog/supabase-local-dev"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "A History of Clojure (2020) [pdf]",
       "https://download.clojure.org/papers/clojure-hopl-iv-final.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-08-08, 07:47:15",
+      "https://news.ycombinator.com/item?id=37045803"
+    ],
+    [
+      "Main is usually a function. So then when is it not?",
+      "http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html"
     ]
   ],
   [
