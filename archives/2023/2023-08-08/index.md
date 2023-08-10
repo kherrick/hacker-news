@@ -62,6 +62,7 @@
 * [2023-08-08, 14:20:26](https://news.ycombinator.com/item?id=37049360) - [WebKit – Touch Bar Web API](https://bugs.webkit.org/show_bug.cgi?id=178736)
 * [2023-08-08, 14:10:52](https://news.ycombinator.com/item?id=37049221) - [Millions of UK voters’ data accessible in cyber-attack](https://www.theguardian.com/technology/2023/aug/08/uk-electoral-commission-registers-targeted-by-hostile-hackers)
 * [2023-08-08, 14:09:12](https://news.ycombinator.com/item?id=37049198) - [Candle: Torch Replacement in Rust](https://github.com/huggingface/candle)
+* [2023-08-08, 14:03:08](https://news.ycombinator.com/item?id=37049117) - [Nextflow: Data-Driven Computational Pipelines](https://nextflow.io/)
 * [2023-08-08, 13:58:57](https://news.ycombinator.com/item?id=37049064) - [Bye, Gemini](https://www.makeworld.space/2023/08/bye_gemini.html)
 * [2023-08-08, 13:56:54](https://news.ycombinator.com/item?id=37049029) - [Microgrids Are Giving Power to the People](https://www.nytimes.com/2023/08/07/realestate/microgrid-solar-power-energy.html)
 * [2023-08-08, 13:55:46](https://news.ycombinator.com/item?id=37049016) - [Blocked by Cloudflare](https://jrhawley.ca/2023/08/07/blocked-by-cloudflare)
