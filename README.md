@@ -19,7 +19,7 @@
 * [2023-08-09, 18:15:24](https://news.ycombinator.com/item?id=37066522) - [Making AMD GPUs competitive for LLM inference](https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference)
 * [2023-08-09, 16:11:09](https://news.ycombinator.com/item?id=37064822) - [Launch HN: Refine (YC S23) – Open-source platform for enterprise web apps](https://news.ycombinator.com/item?id=37064822)
 * [2023-08-09, 14:24:56](https://news.ycombinator.com/item?id=37063151) - [Arpchat – Text your friends on the same network using just ARP](https://github.com/kognise/arpchat)
-* [2023-08-09, 11:49:41](https://news.ycombinator.com/item?id=37061270) - [The Unreasonable Effectiveness of Simple Binary Encoding (SBE)](https://yafetn.github.io/2023/01/12/sbe.html)
+* [2023-08-09, 10:18:46](https://news.ycombinator.com/item?id=37060654) - [Infrastructure audit completed by Radically Open Security](https://mullvad.net/en/blog/2023/8/9/infrastructure-audit-completed-by-radically-open-security/)
 * [2023-08-09, 09:45:40](https://news.ycombinator.com/item?id=37060470) - [Akin’s Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html)
 * [2023-08-09, 09:13:49](https://news.ycombinator.com/item?id=37060305) - [The Tetris Effect](https://nonzerosum.games/thetetriseffect.html)
 * [2023-08-09, 08:59:06](https://news.ycombinator.com/item?id=37060213) - [Piano Emulator in Your Terminal](https://github.com/eliasdorneles/upiano)
