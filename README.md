@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-10, 06:14:18](https://news.ycombinator.com/item?id=37072547) - [What Will the World Look Like with Less Babies?](https://lindynewsletter.beehiiv.com/p/will-world-look-like-less-babies)
+* [2023-08-10, 06:11:26](https://news.ycombinator.com/item?id=37072530) - [Supermarket AI meal planner app suggests recipe that would create chlorine gas](https://www.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes)
+* [2023-08-10, 05:13:43](https://news.ycombinator.com/item?id=37072224) - [A redesigned Slack, built for focus](https://slack.com/intl/en-gb/blog/productivity/a-redesigned-slack-built-for-focus)
 * [2023-08-10, 04:41:18](https://news.ycombinator.com/item?id=37072037) - [Manias and Mimesis: Applying René Girard’s Mimetic Theory to Financial Bubbles](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3469465)
 * [2023-08-10, 03:10:01](https://news.ycombinator.com/item?id=37071472) - [Doctors on TikTok](https://thewalrus.ca/medical-tiktok/)
 * [2023-08-10, 02:45:03](https://news.ycombinator.com/item?id=37071300) - [Make a low-cost Bluetooth LE packet sniffer with Wireshark](https://wiki.makerdiary.com/nrf52840-mdk-usb-dongle/guides/ble-sniffer/)
@@ -15,11 +18,9 @@
 * [2023-08-09, 18:15:24](https://news.ycombinator.com/item?id=37066522) - [Making AMD GPUs competitive for LLM inference](https://blog.mlc.ai/2023/08/09/Making-AMD-GPUs-competitive-for-LLM-inference)
 * [2023-08-09, 16:11:09](https://news.ycombinator.com/item?id=37064822) - [Launch HN: Refine (YC S23) – Open-source platform for enterprise web apps](https://news.ycombinator.com/item?id=37064822)
 * [2023-08-09, 15:26:56](https://news.ycombinator.com/item?id=37064152) - [Show HN: Get notified when sites update their terms of service](https://tosnotify.com/)
-* [2023-08-09, 14:29:49](https://news.ycombinator.com/item?id=37063238) - [SQLedge: Replicate Postgres to SQLite on the Edge](https://github.com/zknill/sqledge)
 * [2023-08-09, 14:24:56](https://news.ycombinator.com/item?id=37063151) - [Arpchat – Text your friends on the same network using just ARP](https://github.com/kognise/arpchat)
 * [2023-08-09, 12:47:47](https://news.ycombinator.com/item?id=37061842) - [The Garden of Computational Delights](https://arbesman.net/computationaldelights/)
 * [2023-08-09, 11:30:47](https://news.ycombinator.com/item?id=37061127) - [Review: Beepy a Palm-Sized Linux Hacking Playground](https://hackaday.com/2023/08/07/review-beepy-a-palm-sized-linux-hacking-playground/)
-* [2023-08-09, 10:18:46](https://news.ycombinator.com/item?id=37060654) - [Infrastructure audit completed by Radically Open Security](https://mullvad.net/en/blog/2023/8/9/infrastructure-audit-completed-by-radically-open-security/)
 * [2023-08-09, 09:45:40](https://news.ycombinator.com/item?id=37060470) - [Akin’s Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/akins_laws.html)
 * [2023-08-09, 08:59:06](https://news.ycombinator.com/item?id=37060213) - [Piano Emulator in Your Terminal](https://github.com/eliasdorneles/upiano)
 * [2023-08-09, 06:40:39](https://news.ycombinator.com/item?id=37059400) - [Supabase Local Dev: migrations, branching, and observability](https://supabase.com/blog/supabase-local-dev)
@@ -27,7 +28,6 @@
 * [2023-08-08, 11:27:30](https://news.ycombinator.com/item?id=37047343) - [The Quite OK Audio Format for Fast, Lossy Compression](https://qoaformat.org/)
 * [2023-08-08, 10:32:09](https://news.ycombinator.com/item?id=37046934) - [Subscriber Only: A Technical Post Mortem](https://0x1.pt/2023/08/08/subscriber-only-a-technical-post-mortem/)
 * [2023-08-08, 09:11:13](https://news.ycombinator.com/item?id=37046353) - [A History of Clojure (2020) [pdf]](https://download.clojure.org/papers/clojure-hopl-iv-final.pdf)
-* [2023-08-08, 09:04:53](https://news.ycombinator.com/item?id=37046300) - [The Legitimacy of Takeover Defense in the '90s](https://via.library.depaul.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1969&context=law-review)
 * [2023-08-08, 07:01:07](https://news.ycombinator.com/item?id=37045471) - [R.I.P. Macromedia FreeHand (2007)](https://losingfight.com/blog/2007/05/17/rip-freehand/)
 * [2023-08-08, 06:41:33](https://news.ycombinator.com/item?id=37045329) - [Graceful behavior at capacity](https://blog.nelhage.com/post/systems-at-capacity/)
 

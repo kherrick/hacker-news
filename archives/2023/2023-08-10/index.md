@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-10](index.md)
 
+* [2023-08-10, 06:14:18](https://news.ycombinator.com/item?id=37072547) - [What Will the World Look Like with Less Babies?](https://lindynewsletter.beehiiv.com/p/will-world-look-like-less-babies)
+* [2023-08-10, 06:11:26](https://news.ycombinator.com/item?id=37072530) - [Supermarket AI meal planner app suggests recipe that would create chlorine gas](https://www.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes)
+* [2023-08-10, 05:13:43](https://news.ycombinator.com/item?id=37072224) - [A redesigned Slack, built for focus](https://slack.com/intl/en-gb/blog/productivity/a-redesigned-slack-built-for-focus)
 * [2023-08-10, 04:41:18](https://news.ycombinator.com/item?id=37072037) - [Manias and Mimesis: Applying René Girard’s Mimetic Theory to Financial Bubbles](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3469465)
 * [2023-08-10, 03:10:01](https://news.ycombinator.com/item?id=37071472) - [Doctors on TikTok: The Dark Side of Medical Influencers](https://thewalrus.ca/medical-tiktok/)
 * [2023-08-10, 02:45:03](https://news.ycombinator.com/item?id=37071300) - [Make a low-cost Bluetooth LE packet sniffer with Wireshark](https://wiki.makerdiary.com/nrf52840-mdk-usb-dongle/guides/ble-sniffer/)
