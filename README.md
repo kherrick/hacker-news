@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-10, 21:57:24](https://news.ycombinator.com/item?id=37082289) - [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/)
 * [2023-08-10, 21:37:17](https://news.ycombinator.com/item?id=37082117) - [Llama 2 on ONNX runs locally](https://github.com/microsoft/Llama-2-Onnx)
 * [2023-08-10, 21:08:40](https://news.ycombinator.com/item?id=37081833) - [A Modern C Development Environment](https://interrupt.memfault.com/blog/a-modern-c-dev-env)
 * [2023-08-10, 21:05:20](https://news.ycombinator.com/item?id=37081789) - [My Overkill Home Network – Complete Details 2023](https://blog.networkprofile.org/my-home-network-complete-details-2023/)
@@ -25,7 +26,6 @@
 * [2023-08-10, 10:57:30](https://news.ycombinator.com/item?id=37074452) - [The Future of the Vim Project](https://groups.google.com/g/vim_dev/c/dq9Wu5jqVTw)
 * [2023-08-10, 09:39:06](https://news.ycombinator.com/item?id=37073938) - [Generative Agents: Interactive Simulacra of Human Behavior, Now Open Source](https://github.com/joonspk-research/generative_agents)
 * [2023-08-09, 20:52:54](https://news.ycombinator.com/item?id=37068230) - [Robbie Robertson has died](https://www.nytimes.com/2023/08/09/arts/music/robbie-robertson-dead.html)
-* [2023-08-09, 04:40:19](https://news.ycombinator.com/item?id=37058773) - [John Preskill's retrospective on the black hole information paradox](https://quantumfrontiers.com/2023/08/08/it-from-qubit-the-last-harrah/)
 * [2023-08-09, 02:36:54](https://news.ycombinator.com/item?id=37058093) - [Sync Gear: How World War I Fighters Avoided Damaging Their Own Propellers](https://hartzellprop.com/synch-gear-world-war-fighters-avoided-damaging-propellers/)
 * [2023-08-08, 18:44:34](https://news.ycombinator.com/item?id=37053649) - [A bit of ST and a bit of IO: Designing a DCPU-16 emulator](https://jaspervdj.be/posts/2012-04-12-st-io-dcpu-16.html)
 * [2023-08-08, 14:03:08](https://news.ycombinator.com/item?id=37049117) - [Nextflow: Data-Driven Computational Pipelines](https://nextflow.io/)

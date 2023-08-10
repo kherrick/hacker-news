@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-10](index.md)
 
+* [2023-08-10, 21:57:24](https://news.ycombinator.com/item?id=37082289) - [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/)
 * [2023-08-10, 21:37:17](https://news.ycombinator.com/item?id=37082117) - [Llama 2 on ONNX runs locally](https://github.com/microsoft/Llama-2-Onnx)
 * [2023-08-10, 21:25:20](https://news.ycombinator.com/item?id=37081994) - [Why do whistles have a little ball inside them?](https://old.reddit.com/r/NoStupidQuestions/comments/60mfwp/why_do_whistles_have_a_little_ball_inside_them/)
 * [2023-08-10, 21:08:40](https://news.ycombinator.com/item?id=37081833) - [A Modern C Development Environment](https://interrupt.memfault.com/blog/a-modern-c-dev-env)
