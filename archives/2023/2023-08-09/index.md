@@ -13,6 +13,7 @@
 * [2023-08-09, 21:28:05](https://news.ycombinator.com/item?id=37068695) - [Show HN: Hacker News home page spoof](http://canonical.org/~kragen/sw/dev3/hackonfuse/)
 * [2023-08-09, 21:10:52](https://news.ycombinator.com/item?id=37068464) - [CNET is deleting old articles to try to improve its Google Search ranking](https://www.theverge.com/2023/8/9/23826342/cnet-content-pruning-deleting-articles-google-seo)
 * [2023-08-09, 21:01:04](https://news.ycombinator.com/item?id=37068346) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2023-08-09, 20:52:54](https://news.ycombinator.com/item?id=37068230) - [Robbie Robertson has died](https://www.nytimes.com/2023/08/09/arts/music/robbie-robertson-dead.html)
 * [2023-08-09, 20:25:14](https://news.ycombinator.com/item?id=37067894) - [Optimization Techniques for GPU Programming [pdf]](https://dl.acm.org/doi/pdf/10.1145/3570638)
 * [2023-08-09, 20:07:52](https://news.ycombinator.com/item?id=37067696) - [Efficacy of infant simulator programmes to prevent teenage pregnancy](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)30384-1/fulltext)
 * [2023-08-09, 19:53:48](https://news.ycombinator.com/item?id=37067561) - [KO Myung-Hun's OS/2 Factory](https://www.os2.kr/komh/os2factory/)

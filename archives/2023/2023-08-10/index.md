@@ -18,6 +18,7 @@
 * [2023-08-10, 17:01:03](https://news.ycombinator.com/item?id=37078708) - [Memfault (YC W19) Is Hiring a Data/Back End Engineer](https://www.ycombinator.com/companies/memfault/jobs/zALzwIe-backend-engineer-systems-data)
 * [2023-08-10, 16:54:01](https://news.ycombinator.com/item?id=37078606) - [I reviewed 1,000s of GraphQL vs. REST perspectives](https://konfigthis.com/blog/graphql-vs-rest)
 * [2023-08-10, 16:53:33](https://news.ycombinator.com/item?id=37078598) - [GM confirms $130k Cadillac won’t have Apple CarPlay or Android Auto](https://www.theverge.com/2023/8/10/23827059/gm-no-carplay-android-auto-escalade-iq)
+* [2023-08-10, 16:43:05](https://news.ycombinator.com/item?id=37078460) - [Unparalleled RDP Monitoring Reveal Attackers’ Tradecraft](https://www.gosecure.net/blog/2023/08/09/how-unparalleled-rdp-monitoring-reveal-attackers-tradecraft/)
 * [2023-08-10, 16:40:54](https://news.ycombinator.com/item?id=37078423) - [CIQ, Oracle, SUSE Create Open Enterprise Linux Association](https://www.suse.com/news/OpenELA-for-a-Collaborative-and-Open-Future/)
 * [2023-08-10, 16:35:58](https://news.ycombinator.com/item?id=37078358) - [Maybe the problem is that Harvard exists – Dynomight](https://dynomight.substack.com/p/harvard)
 * [2023-08-10, 16:12:25](https://news.ycombinator.com/item?id=37078047) - [MIT Pirate Certificate](https://physicaleducationandwellness.mit.edu/about/pirate-certificate/)
