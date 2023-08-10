@@ -17,6 +17,7 @@
 * [2023-08-10, 09:02:50](https://news.ycombinator.com/item?id=37073701) - [GPT Unicorn has drawn a unicorn](https://gpt-unicorn.adamkdean.co.uk/)
 * [2023-08-10, 06:21:04](https://news.ycombinator.com/item?id=37072588) - [Scripps Institution of Oceanography’s FLIP vessel decommissioned after 60 years](https://maritime-executive.com/article/world-s-strangest-research-vessel-heads-for-scrapyard-after-51-years)
 * [2023-08-10, 06:11:26](https://news.ycombinator.com/item?id=37072530) - [Supermarket AI meal planner app suggests recipe that would create chlorine gas](https://www.theguardian.com/world/2023/aug/10/pak-n-save-savey-meal-bot-ai-app-malfunction-recipes)
+* [2023-08-10, 04:41:18](https://news.ycombinator.com/item?id=37072037) - [Manias and Mimesis: Applying Girard’s Mimetic Theory to Financial Bubbles (2019)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3469465)
 * [2023-08-10, 04:41:18](https://news.ycombinator.com/item?id=37072036) - [How to Make Viking Funerary Flatbread](https://www.atlasobscura.com/articles/make-viking-funeral-flatbreads)
 * [2023-08-10, 02:22:20](https://news.ycombinator.com/item?id=37071160) - [Autogenerating Rust-JS Bindings with UniFFI](https://hacks.mozilla.org/2023/08/autogenerating-rust-js-bindings-with-uniffi/)
 * [2023-08-09, 21:10:52](https://news.ycombinator.com/item?id=37068464) - [CNET is deleting old articles to try to improve its Google Search ranking](https://www.theverge.com/2023/8/9/23826342/cnet-content-pruning-deleting-articles-google-seo)
@@ -29,7 +30,6 @@
 * [2023-08-08, 11:49:59](https://news.ycombinator.com/item?id=37047529) - [Braille Is Alive, Well, and Ever-Evolving](https://themillions.com/2023/07/braille-is-alive-well-and-ever-evolving.html)
 * [2023-08-08, 09:11:13](https://news.ycombinator.com/item?id=37046353) - [A History of Clojure (2020) [pdf]](https://download.clojure.org/papers/clojure-hopl-iv-final.pdf)
 * [2023-08-08, 08:43:29](https://news.ycombinator.com/item?id=37046172) - [Commodore PET Keys – Series 2001 Edition](https://www.masswerk.at/nowgobang/2023/pet-keys-2001-edition)
-* [2023-08-08, 07:47:15](https://news.ycombinator.com/item?id=37045803) - [Main is usually a function. So then when is it not? (2015)](http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
 
 ## [Archives](archives/index.md)
 
