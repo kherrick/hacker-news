@@ -6,6 +6,7 @@
 
 * [2023-08-10, 03:10:01](https://news.ycombinator.com/item?id=37071472) - [Doctors on TikTok: The Dark Side of Medical Influencers](https://thewalrus.ca/medical-tiktok/)
 * [2023-08-10, 02:31:32](https://news.ycombinator.com/item?id=37071220) - [Show HN: Bubblic – end loneliness together using the power of your voice](https://bubblic.co/)
+* [2023-08-10, 02:31:12](https://news.ycombinator.com/item?id=37071219) - [Practical Doomsday: A User's Guide to End of the World](https://lcamtuf.coredump.cx/prep/)
 * [2023-08-10, 02:02:31](https://news.ycombinator.com/item?id=37071025) - [Hawaii responds as deadly wildfires across 2 islands destroy communities](https://www.staradvertiser.com/2023/08/09/breaking-news/massive-wildfires-devastate-lahaina-wreak-havoc-across-2-islands/)
 * [2023-08-10, 01:38:42](https://news.ycombinator.com/item?id=37070838) - [What Is Happening with ChatGPT?](https://chat.openai.com/share/ca5e0c33-7a19-41a1-8f8a-b146b68e2d1a)
 * [2023-08-10, 00:46:02](https://news.ycombinator.com/item?id=37070398) - [Seattle becomes first in U.S. to protect gig workers from sudden 'deactivation'](https://kuow.org/stories/seattle-becomes-first-in-u-s-to-protect-gig-workers-from-sudden-deactivation)
