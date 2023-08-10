@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-08-10, 02:45:03",
+      "https://news.ycombinator.com/item?id=37071300"
+    ],
+    [
+      "Make a low-cost Bluetooth LE packet sniffer with Wireshark",
+      "https://wiki.makerdiary.com/nrf52840-mdk-usb-dongle/guides/ble-sniffer/"
+    ]
+  ],
+  [
+    [
       "2023-08-10, 02:31:32",
       "https://news.ycombinator.com/item?id=37071220"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2023-08-10, 02:31:12",
-      "https://news.ycombinator.com/item?id=37071219"
+      "2023-08-10, 02:22:20",
+      "https://news.ycombinator.com/item?id=37071160"
     ],
     [
-      "Practical Doomsday: A User's Guide to End of the World",
-      "https://lcamtuf.coredump.cx/prep/"
+      "Autogenerating Rust-JS Bindings with UniFFI",
+      "https://hacks.mozilla.org/2023/08/autogenerating-rust-js-bindings-with-uniffi/"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2023-08-09, 15:02:40",
-      "https://news.ycombinator.com/item?id=37063774"
-    ],
-    [
-      "Archive of novelty answering machine recordings",
-      "http://www.noveltyansweringmachine.com/audio/index.html"
-    ]
-  ],
-  [
-    [
       "2023-08-09, 14:29:49",
       "https://news.ycombinator.com/item?id=37063238"
     ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-08-09, 11:30:47",
-      "https://news.ycombinator.com/item?id=37061127"
-    ],
-    [
-      "Review: Beepy a Palm-Sized Linux Hacking Playground",
-      "https://hackaday.com/2023/08/07/review-beepy-a-palm-sized-linux-hacking-playground/"
-    ]
-  ],
-  [
-    [
       "2023-08-09, 09:45:40",
       "https://news.ycombinator.com/item?id=37060470"
     ],
@@ -257,6 +247,16 @@
     [
       "Supabase Local Dev: migrations, branching, and observability",
       "https://supabase.com/blog/supabase-local-dev"
+    ]
+  ],
+  [
+    [
+      "2023-08-08, 11:49:59",
+      "https://news.ycombinator.com/item?id=37047529"
+    ],
+    [
+      "Braille Is Alive, Well, and Ever-Evolving",
+      "https://themillions.com/2023/07/braille-is-alive-well-and-ever-evolving.html"
     ]
   ],
   [
