@@ -96,6 +96,7 @@
 * [2023-08-09, 04:24:56](https://news.ycombinator.com/item?id=37058674) - [G9.js: Automatically Interactive Graphics](http://omrelli.ug/g9/gallery/)
 * [2023-08-09, 03:24:58](https://news.ycombinator.com/item?id=37058364) - [Using GPT as an HVAC control system](https://arxiv.org/abs/2308.03028)
 * [2023-08-09, 03:07:50](https://news.ycombinator.com/item?id=37058278) - [Swap_8_and_9: A simple import can modify the Python interpreter](https://kenschutte.com/python-swap-ints/)
+* [2023-08-09, 02:50:52](https://news.ycombinator.com/item?id=37058171) - [Sensor Watch: a board swap for the classic Casio F-91W wristwatch](https://www.sensorwatch.net/)
 * [2023-08-09, 02:36:54](https://news.ycombinator.com/item?id=37058093) - [Sync Gear: How World War I Fighters Avoided Damaging Their Own Propellers](https://hartzellprop.com/synch-gear-world-war-fighters-avoided-damaging-propellers/)
 * [2023-08-09, 01:55:47](https://news.ycombinator.com/item?id=37057866) - [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
 * [2023-08-09, 00:56:26](https://news.ycombinator.com/item?id=37057471) - [Plunder and Urbit](https://gist.github.com/wicrum-wicrun/b308b298721ccbe0de9c6c73a6ee4242)
