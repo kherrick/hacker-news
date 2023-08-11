@@ -24,11 +24,11 @@
 * [2023-08-11, 07:11:38](https://news.ycombinator.com/item?id=37085966) - [The life of a lawyer in the late Roman republic](https://www.thecollector.com/life-lawyer-late-roman-republic/)
 * [2023-08-11, 05:37:34](https://news.ycombinator.com/item?id=37085449) - [Browsers barely care what HTTP status code your web pages are served with](https://utcc.utoronto.ca/~cks/space/blog/web/BrowsersAndHTTPStatusCodes)
 * [2023-08-10, 23:56:03](https://news.ycombinator.com/item?id=37083309) - [Show HN: Tetris, but the blocks are ARM instructions that execute in the browser](https://ofrak.com/tetris/)
-* [2023-08-09, 16:48:46](https://news.ycombinator.com/item?id=37065391) - [Pentium floating-point division bug (1994)](https://en.wikipedia.org/wiki/Pentium_FDIV_bug)
 * [2023-08-09, 15:04:25](https://news.ycombinator.com/item?id=37063803) - [Lines of code that changed everything (2019)](https://slate.com/technology/2019/10/consequential-computer-code-software-history.html)
 * [2023-08-09, 14:46:01](https://news.ycombinator.com/item?id=37063502) - [Oscilloscope Music](https://oscilloscopemusic.com/)
 * [2023-08-09, 13:59:15](https://news.ycombinator.com/item?id=37062755) - [Lessons From Linguistics: i18n Best Practices for Front-End Developers](https://shopify.engineering/internationalization-i18n-best-practices-front-end-developers)
 * [2023-08-09, 11:52:06](https://news.ycombinator.com/item?id=37061291) - [Raspberry Pi Hunts Shiny Pokémon While You Sleep](https://www.tomshardware.com/news/raspberry-pi-hunts-shiny-pokemon-while-you-sleep)
+* [2023-08-09, 00:06:06](https://news.ycombinator.com/item?id=37057135) - [Antipsychotic drug efficacy correlates with modulation of D1 not D2 receptor](https://www.wired.com/story/everyone-was-wrong-about-antipsychotics/)
 * [2023-08-08, 22:16:19](https://news.ycombinator.com/item?id=37056205) - [The PhD Octopus (1903)](https://la.utexas.edu/users/hcleaver/330T/350kPEEJamesOctopusTable.pdf)
 
 ## [Archives](archives/index.md)
