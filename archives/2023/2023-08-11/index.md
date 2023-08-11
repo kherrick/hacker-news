@@ -5,10 +5,12 @@
 ### [Archives](../../index.md) for [2023-08-11](index.md)
 
 * [2023-08-11, 17:21:08](https://news.ycombinator.com/item?id=37091223) - [Ask HN: How do you handle tech use with your kids?](https://news.ycombinator.com/item?id=37091223)
+* [2023-08-11, 17:10:56](https://news.ycombinator.com/item?id=37091091) - [Virtualizing Uxn](https://eighty-twenty.org/2023/08/11/virtualizing-uxn)
 * [2023-08-11, 17:04:46](https://news.ycombinator.com/item?id=37091006) - [Apple TV's MLS Season Pass subscriptions doubled since Messi's arrival in US](https://www.engadget.com/apple-tvs-mls-season-pass-subscriptions-have-doubled-since-messis-arrival-in-the-us-150221673.html)
 * [2023-08-11, 17:00:39](https://news.ycombinator.com/item?id=37090948) - [Laylo (YC S20) Is Hiring a Lead Growth Engineer](https://www.ycombinator.com/companies/laylo/jobs/gIwhwtd-lead-growth-engineer)
 * [2023-08-11, 16:34:48](https://news.ycombinator.com/item?id=37090632) - [Fine-Tuning Llama-2: A Comprehensive Case Study for Tailoring Custom Models](https://www.anyscale.com/blog/fine-tuning-llama-2-a-comprehensive-case-study-for-tailoring-models-to-unique-applications)
 * [2023-08-11, 16:17:49](https://news.ycombinator.com/item?id=37090424) - [Amazon starting to track and penalize workers who work from home too much](https://www.theguardian.com/technology/2023/aug/11/amazon-starting-to-track-and-penalize-workers-who-work-from-home-too-much)
+* [2023-08-11, 15:50:31](https://news.ycombinator.com/item?id=37090078) - [Z-Library Petitions U.S. and Argentina to Cease ‘Illegal’ Criminal Prosecution](https://torrentfreak.com/z-library-petitions-u-s-and-argentina-to-cease-illegal-criminal-prosecution-230811/)
 * [2023-08-11, 15:49:25](https://news.ycombinator.com/item?id=37090063) - [GSMA considers giving away mobile device locations through API](https://www.gsma.com/futurenetworks/gsma-open-gateway-api-descriptions/)
 * [2023-08-11, 15:43:20](https://news.ycombinator.com/item?id=37089985) - [Show HN: Obl.ong, Free, quality domains for all](https://obl.ong)
 * [2023-08-11, 15:30:34](https://news.ycombinator.com/item?id=37089817) - [Mpire: A Python package for easier and faster multiprocessing](https://github.com/sybrenjansen/mpire)
