@@ -43,6 +43,7 @@
 * [2023-08-09, 15:05:56](https://news.ycombinator.com/item?id=37063829) - [B.C. woman buried in Amazon packages she did not ask for and does not want](https://www.cbc.ca/news/canada/british-columbia/amazon-shoe-packages-1.6926200)
 * [2023-08-09, 15:02:40](https://news.ycombinator.com/item?id=37063774) - [Archive of novelty answering machine recordings](http://www.noveltyansweringmachine.com/audio/index.html)
 * [2023-08-09, 14:57:23](https://news.ycombinator.com/item?id=37063695) - [Why Static Languages Suffer from Complexity (2022)](https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity.html)
+* [2023-08-09, 14:53:54](https://news.ycombinator.com/item?id=37063643) - [Striking the Right Balance: Over-Engineering vs. Under-Engineering Software](https://newsletter.beginner.dev/p/striking-the-right-balance-over-engineering)
 * [2023-08-09, 14:50:20](https://news.ycombinator.com/item?id=37063576) - [Slack’s biggest redesign ever tries to tame the chaos of your workday](https://www.theverge.com/2023/8/9/23824562/slack-redesign-app-dms-activity-later)
 * [2023-08-09, 14:49:56](https://news.ycombinator.com/item?id=37063568) - [“Please do not make it public” (Tencent’s Sogou Input Method)](https://citizenlab.ca/2023/08/vulnerabilities-in-sogou-keyboard-encryption/)
 * [2023-08-09, 14:46:01](https://news.ycombinator.com/item?id=37063502) - [Oscilloscope Music](https://oscilloscopemusic.com/)

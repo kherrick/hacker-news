@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-11](index.md)
 
 * [2023-08-11, 13:45:08](https://news.ycombinator.com/item?id=37088614) - [NewOS (2005)](https://newos.org/)
+* [2023-08-11, 13:41:41](https://news.ycombinator.com/item?id=37088591) - [OpenTerraform – an MPL fork of Terraform after HashiCorp's license change](https://github.com/diggerhq/open-terraform)
 * [2023-08-11, 13:37:15](https://news.ycombinator.com/item?id=37088548) - [What HashiCorp’s License Change Means for Spacelift Customers](https://spacelift.io/blog/hashicorps-license-change)
 * [2023-08-11, 13:33:45](https://news.ycombinator.com/item?id=37088524) - [Security updates for 3.4 and 3.5 beta](https://iterm2.com/news.html)
 * [2023-08-11, 13:09:00](https://news.ycombinator.com/item?id=37088274) - [Dreams of new physics fade with latest muon magnetism result](https://www.nature.com/articles/d41586-023-02532-6)
