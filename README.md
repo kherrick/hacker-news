@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-11, 08:15:43](https://news.ycombinator.com/item?id=37086308) - [Artificial General Intelligence – A gentle introduction](https://cis.temple.edu/~pwang/AGI-Intro.html)
 * [2023-08-11, 07:11:38](https://news.ycombinator.com/item?id=37085966) - [The Life of a Lawyer in the Late Roman Republic](https://www.thecollector.com/life-lawyer-late-roman-republic/)
 * [2023-08-11, 05:37:34](https://news.ycombinator.com/item?id=37085449) - [Browsers barely care what HTTP status code your web pages are served with](https://utcc.utoronto.ca/~cks/space/blog/web/BrowsersAndHTTPStatusCodes)
 * [2023-08-11, 04:25:58](https://news.ycombinator.com/item?id=37085097) - [Websites and APIs on Render are unavailable due to Cloudflare network errors](https://status.render.com/incidents/cshql6qwnldj)
@@ -17,7 +18,6 @@
 * [2023-08-10, 20:12:22](https://news.ycombinator.com/item?id=37081129) - [Amiga runs Michigan schools' heating and air conditioning systems (2015)](https://www.woodtv.com/news/grand-rapids/1980s-computer-controls-grps-heat-and-ac/)
 * [2023-08-10, 19:43:23](https://news.ycombinator.com/item?id=37080790) - [Muon g-2 doubles down with latest measurement, explores uncharted territory](https://news.fnal.gov/2023/08/muon-g-2-doubles-down-with-latest-measurement/)
 * [2023-08-10, 19:07:38](https://news.ycombinator.com/item?id=37080404) - [Turns out lowly thymus may be saving your life](https://news.harvard.edu/gazette/story/2023/08/turns-out-lowly-thymus-may-be-saving-your-life/)
-* [2023-08-10, 18:29:48](https://news.ycombinator.com/item?id=37079909) - [Aurora I/O optimized config saved 90% DB cost](https://graphite.dev/blog/how-an-aws-aurora-feature-cut-db-costs)
 * [2023-08-10, 17:59:07](https://news.ycombinator.com/item?id=37079534) - [eSignature Beta for Google Docs and Google Drive](https://workspaceupdates.googleblog.com/2023/08/esignature-google-docs-google-drive.html)
 * [2023-08-10, 17:02:14](https://news.ycombinator.com/item?id=37078719) - [Vim Boss](https://neovim.io/news/2023/08)
 * [2023-08-10, 14:35:25](https://news.ycombinator.com/item?id=37076693) - [Launch HN: Rubbrband (YC W23) – Deformity detection for AI-generated images](https://news.ycombinator.com/item?id=37076693)

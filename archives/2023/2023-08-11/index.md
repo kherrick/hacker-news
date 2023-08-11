@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-11](index.md)
 
+* [2023-08-11, 08:15:43](https://news.ycombinator.com/item?id=37086308) - [Artificial General Intelligence – A gentle introduction](https://cis.temple.edu/~pwang/AGI-Intro.html)
 * [2023-08-11, 07:11:38](https://news.ycombinator.com/item?id=37085966) - [The Life of a Lawyer in the Late Roman Republic](https://www.thecollector.com/life-lawyer-late-roman-republic/)
 * [2023-08-11, 05:37:34](https://news.ycombinator.com/item?id=37085449) - [Browsers barely care what HTTP status code your web pages are served with](https://utcc.utoronto.ca/~cks/space/blog/web/BrowsersAndHTTPStatusCodes)
 * [2023-08-11, 04:25:58](https://news.ycombinator.com/item?id=37085097) - [Websites and APIs on Render are unavailable due to Cloudflare network errors](https://status.render.com/incidents/cshql6qwnldj)
