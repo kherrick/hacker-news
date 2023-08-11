@@ -30,6 +30,7 @@
 * [2023-08-09, 17:01:41](https://news.ycombinator.com/item?id=37065574) - [Supreme Court rules against Epic, so Apple can keep its App Store payment rules](https://www.theverge.com/2023/8/9/23826043/epic-apple-app-store-supreme-court-petition)
 * [2023-08-09, 17:01:11](https://news.ycombinator.com/item?id=37065567) - [Aptible (YC S14) Is Hiring: Security Compliance Manager and Product-Led Sales Lead](https://www.aptible.com/culture-hub/careers)
 * [2023-08-09, 16:50:51](https://news.ycombinator.com/item?id=37065413) - [Credit card debt tops $1 trillion, trapping even six-figure earners](https://www.washingtonpost.com/business/2023/08/08/credit-card-debt-1-trillion-high-earners/)
+* [2023-08-09, 16:48:46](https://news.ycombinator.com/item?id=37065391) - [Pentium floating-point division bug (1994)](https://en.wikipedia.org/wiki/Pentium_FDIV_bug)
 * [2023-08-09, 16:41:55](https://news.ycombinator.com/item?id=37065288) - [Sixto Rodriguez, subject of 'Searching for Sugarman' documentary, dies at 81](https://abcnews.go.com/Entertainment/wireStory/singer-songwriter-sixto-rodriguez-subject-searching-sugarman-documentary-102133209)
 * [2023-08-09, 16:18:50](https://news.ycombinator.com/item?id=37064922) - [Maui wildfires are 'apocalyptic' as people jump into the ocean to flee](https://www.cnn.com/2023/08/09/weather/maui-county-wildfires-hurricane-dora/index.html)
 * [2023-08-09, 16:12:51](https://news.ycombinator.com/item?id=37064843) - [What’s a Human-Powered Computer? (1993)](https://johnmaeda.medium.com/whats-a-human-powered-computer-14997285111)
