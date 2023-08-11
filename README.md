@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-11, 01:06:41](https://news.ycombinator.com/item?id=37083895) - [Perils of not being attractive or athletic in middle school](https://www.fau.edu/newsdesk/articles/perils-middle-school-study.php)
 * [2023-08-10, 23:14:08](https://news.ycombinator.com/item?id=37082941) - [SQLite Functions for Working with JSON](https://www.sqlite.org/json1.html)
 * [2023-08-10, 23:00:09](https://news.ycombinator.com/item?id=37082799) - [ACM Skills Bundle Add-On](https://learning.acm.org/skills-bundle)
 * [2023-08-10, 22:57:10](https://news.ycombinator.com/item?id=37082771) - [Source code for Quake 2 rerelease](https://github.com/id-Software/quake2-rerelease-dll)
@@ -27,6 +26,7 @@
 * [2023-08-10, 13:13:57](https://news.ycombinator.com/item?id=37075730) - [Show HN: Applite – Clean Homebrew front end app for macOS built with SwiftUI](https://aerolite.dev/applite/index.html)
 * [2023-08-09, 20:52:54](https://news.ycombinator.com/item?id=37068230) - [Robbie Robertson has died](https://www.nytimes.com/2023/08/09/arts/music/robbie-robertson-dead.html)
 * [2023-08-09, 14:26:46](https://news.ycombinator.com/item?id=37063184) - [Therapy as a way of aligning with your subconscious](https://ava.substack.com/p/therapy-as-a-way-of-aligning-with)
+* [2023-08-09, 11:31:22](https://news.ycombinator.com/item?id=37061133) - [Experiencing scientific revolutions: the 1660s and the 2020s](https://resobscura.substack.com/p/experiencing-scientific-revolutions)
 * [2023-08-09, 02:50:52](https://news.ycombinator.com/item?id=37058171) - [Sensor Watch: a board swap for the classic Casio F-91W wristwatch](https://www.sensorwatch.net/)
 * [2023-08-08, 14:03:08](https://news.ycombinator.com/item?id=37049117) - [Nextflow: Data-Driven Computational Pipelines](https://nextflow.io/)
 * [2023-08-08, 13:56:54](https://news.ycombinator.com/item?id=37049029) - [Developers are building communities that act as their own miniature power grids](https://www.nytimes.com/2023/08/07/realestate/microgrid-solar-power-energy.html)
