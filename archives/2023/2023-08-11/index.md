@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-11](index.md)
 
+* [2023-08-11, 19:28:46](https://news.ycombinator.com/item?id=37092861) - [Judge to revoke bail for FTX founder Sam Bankman-Fried over witness tampering](https://www.cnbc.com/2023/08/11/judge-to-revoke-bail-for-ftx-founder-sam-bankman-fried-over-witness-tampering.html)
 * [2023-08-11, 18:46:33](https://news.ycombinator.com/item?id=37092319) - [The Inability to Simultaneously Verify Sentience, Location, and Identity](https://arxiv.org/abs/2308.02202)
 * [2023-08-11, 18:36:42](https://news.ycombinator.com/item?id=37092212) - [Wendelstein 7-X: Gigajoule energy turnover generated for eight minutes](https://www.ipp.mpg.de/5322229/01_23)
 * [2023-08-11, 18:29:29](https://news.ycombinator.com/item?id=37092120) - [Downtown SF office building sells for 66% below assessed value](https://www.sfgate.com/bayarea/article/downtown-sf-office-building-sells-less-value-18290171.php)
@@ -15,7 +16,9 @@
 * [2023-08-11, 17:25:57](https://news.ycombinator.com/item?id=37091291) - [I Fixed a 3-year-old bug in Windows Calculator and Microsoft Couldn't Care Less!](https://dhikshith.medium.com/i-fixed-a-3-year-old-bug-in-windows-calculator-and-microsoft-open-source-doesnt-care-a6858584470d)
 * [2023-08-11, 17:21:08](https://news.ycombinator.com/item?id=37091223) - [Ask HN: How do you handle tech use with your kids?](https://news.ycombinator.com/item?id=37091223)
 * [2023-08-11, 17:21:02](https://news.ycombinator.com/item?id=37091221) - [PlayHT2.0: State-of-the-Art Generative Voice AI Model for Conversational Speech](https://news.play.ht/post/introducing-playht2-0-the-state-of-the-art-generative-voice-ai-model-for-conversational-speech)
+* [2023-08-11, 17:12:43](https://news.ycombinator.com/item?id=37091122) - [Show HN: Pykoi – a Python library for LLM data collection and fine tuning](https://www.cambioml.com/pykoi/)
 * [2023-08-11, 17:10:56](https://news.ycombinator.com/item?id=37091091) - [Virtualizing Uxn](https://eighty-twenty.org/2023/08/11/virtualizing-uxn)
+* [2023-08-11, 17:07:15](https://news.ycombinator.com/item?id=37091042) - [A gentle introduction to information geometry](https://www.robots.ox.ac.uk/~lsgs/posts/2019-09-27-info-geom.html)
 * [2023-08-11, 17:04:46](https://news.ycombinator.com/item?id=37091006) - [Apple TV's MLS Season Pass subscriptions doubled since Messi's arrival in US](https://www.engadget.com/apple-tvs-mls-season-pass-subscriptions-have-doubled-since-messis-arrival-in-the-us-150221673.html)
 * [2023-08-11, 17:00:39](https://news.ycombinator.com/item?id=37090948) - [Laylo (YC S20) Is Hiring a Lead Growth Engineer](https://www.ycombinator.com/companies/laylo/jobs/gIwhwtd-lead-growth-engineer)
 * [2023-08-11, 16:44:18](https://news.ycombinator.com/item?id=37090754) - [Infisical – open-source HashiCorp Vault alternative](https://github.com/Infisical/infisical)
