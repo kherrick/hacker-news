@@ -31,12 +31,12 @@
   ],
   [
     [
-      "2023-08-11, 13:33:45",
-      "https://news.ycombinator.com/item?id=37088524"
+      "2023-08-11, 13:37:15",
+      "https://news.ycombinator.com/item?id=37088548"
     ],
     [
-      "Security updates for 3.4 and 3.5 beta",
-      "https://iterm2.com/news.html"
+      "What HashiCorp’s license change means for our customers",
+      "https://spacelift.io/blog/hashicorps-license-change"
     ]
   ],
   [
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=37086796"
     ],
     [
-      "Fastest Branchless Binary Search",
+      "Fastest branchless binary search",
       "https://mhdm.dev/posts/sb_lower_bound/"
     ]
   ],
@@ -121,22 +121,32 @@
   ],
   [
     [
+      "2023-08-11, 08:13:53",
+      "https://news.ycombinator.com/item?id=37086301"
+    ],
+    [
+      "The Bipolar Lisp Programmer (2007)",
+      "https://www.marktarver.com/bipolar.html"
+    ]
+  ],
+  [
+    [
       "2023-08-11, 07:11:38",
       "https://news.ycombinator.com/item?id=37085966"
     ],
     [
-      "The Life of a Lawyer in the Late Roman Republic",
+      "The life of a lawyer in the late Roman republic",
       "https://www.thecollector.com/life-lawyer-late-roman-republic/"
     ]
   ],
   [
     [
-      "2023-08-11, 04:34:51",
-      "https://news.ycombinator.com/item?id=37085144"
+      "2023-08-11, 05:37:34",
+      "https://news.ycombinator.com/item?id=37085449"
     ],
     [
-      "Oils 0.17.0 – YSH Is Becoming Real",
-      "https://www.oilshell.org/blog/2023/08/release-0.17.0.html"
+      "Browsers barely care what HTTP status code your web pages are served with",
+      "https://utcc.utoronto.ca/~cks/space/blog/web/BrowsersAndHTTPStatusCodes"
     ]
   ],
   [
@@ -171,6 +181,16 @@
   ],
   [
     [
+      "2023-08-11, 02:06:47",
+      "https://news.ycombinator.com/item?id=37084262"
+    ],
+    [
+      "I fixed a bug the other day",
+      "https://www.javiergonzalez.io/blog/i-fixed-a-bug/"
+    ]
+  ],
+  [
+    [
       "2023-08-10, 23:56:03",
       "https://news.ycombinator.com/item?id=37083309"
     ],
@@ -187,16 +207,6 @@
     [
       "Vim Boss",
       "https://neovim.io/news/2023/08"
-    ]
-  ],
-  [
-    [
-      "2023-08-10, 14:35:25",
-      "https://news.ycombinator.com/item?id=37076693"
-    ],
-    [
-      "Launch HN: Rubbrband (YC W23) – Deformity detection for AI-generated images",
-      "https://news.ycombinator.com/item?id=37076693"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Reverse Engineering the Apple Multipeer Connectivity Framework (2022)",
       "https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/"
-    ]
-  ],
-  [
-    [
-      "2023-08-08, 15:13:17",
-      "https://news.ycombinator.com/item?id=37050219"
-    ],
-    [
-      "My Lifetime Reading Plan",
-      "https://www.honest-broker.com/p/my-lifetime-reading-plan"
     ]
   ],
   [
