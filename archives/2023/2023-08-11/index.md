@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-11](index.md)
 
+* [2023-08-11, 21:13:49](https://news.ycombinator.com/item?id=37094111) - [An Introduction to Graph Theory](https://arxiv.org/abs/2308.04512)
 * [2023-08-11, 21:00:41](https://news.ycombinator.com/item?id=37093965) - [Mux (YC W16) Is Hiring a Director of Engineering for Data/Platform Teams](https://mux.com/jobs?role=direng)
 * [2023-08-11, 20:52:07](https://news.ycombinator.com/item?id=37093854) - [80% of bosses say they regret earlier return-to-office plans](https://www.cnbc.com/2023/08/11/80percent-of-bosses-say-they-regret-earlier-return-to-office-plans.html)
 * [2023-08-11, 20:30:30](https://news.ycombinator.com/item?id=37093632) - [Web Environment Integrity has no standing at W3C; understanding new W3C work](https://www.w3.org/blog/2023/web-environment-integrity-has-no-standing-at-w3c/)
