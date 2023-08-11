@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-11, 13:37:15](https://news.ycombinator.com/item?id=37088548) - [What HashiCorp’s License Change Means for Spacelift Customers](https://spacelift.io/blog/hashicorps-license-change)
 * [2023-08-11, 13:09:00](https://news.ycombinator.com/item?id=37088274) - [Dreams of new physics fade with latest muon magnetism result](https://www.nature.com/articles/d41586-023-02532-6)
 * [2023-08-11, 12:46:33](https://news.ycombinator.com/item?id=37088087) - [Launch HN: Wondercraft (YC S22) – Use text-to-speech to create podcasts easily](https://news.ycombinator.com/item?id=37088087)
 * [2023-08-11, 12:45:13](https://news.ycombinator.com/item?id=37088075) - [Scientists may be on brink of discovering fifth force of nature](https://www.theguardian.com/science/2023/aug/11/scientists-fifth-force-nature)
@@ -10,7 +11,6 @@
 * [2023-08-11, 08:15:43](https://news.ycombinator.com/item?id=37086308) - [Artificial General Intelligence – A gentle introduction](https://cis.temple.edu/~pwang/AGI-Intro.html)
 * [2023-08-11, 08:13:53](https://news.ycombinator.com/item?id=37086301) - [The Bipolar Lisp Programmer (2007)](https://www.marktarver.com/bipolar.html)
 * [2023-08-11, 07:11:38](https://news.ycombinator.com/item?id=37085966) - [The Life of a Lawyer in the Late Roman Republic](https://www.thecollector.com/life-lawyer-late-roman-republic/)
-* [2023-08-11, 04:34:51](https://news.ycombinator.com/item?id=37085144) - [Oils 0.17.0 – YSH Is Becoming Real](https://www.oilshell.org/blog/2023/08/release-0.17.0.html)
 * [2023-08-11, 04:25:58](https://news.ycombinator.com/item?id=37085097) - [Websites and APIs on Render are unavailable due to Cloudflare network errors](https://status.render.com/incidents/cshql6qwnldj)
 * [2023-08-11, 03:09:30](https://news.ycombinator.com/item?id=37084677) - [Firefox desktop extensions coming soon for the upcoming Android release](https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/)
 * [2023-08-11, 02:52:46](https://news.ycombinator.com/item?id=37084575) - [Git-appraise – Distributed Code Review for Git](https://github.com/google/git-appraise)

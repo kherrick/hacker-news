@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-11](index.md)
 
+* [2023-08-11, 13:37:15](https://news.ycombinator.com/item?id=37088548) - [What HashiCorp’s License Change Means for Spacelift Customers](https://spacelift.io/blog/hashicorps-license-change)
 * [2023-08-11, 13:09:00](https://news.ycombinator.com/item?id=37088274) - [Dreams of new physics fade with latest muon magnetism result](https://www.nature.com/articles/d41586-023-02532-6)
 * [2023-08-11, 12:46:33](https://news.ycombinator.com/item?id=37088087) - [Launch HN: Wondercraft (YC S22) – Use text-to-speech to create podcasts easily](https://news.ycombinator.com/item?id=37088087)
 * [2023-08-11, 12:45:13](https://news.ycombinator.com/item?id=37088075) - [Scientists may be on brink of discovering fifth force of nature](https://www.theguardian.com/science/2023/aug/11/scientists-fifth-force-nature)
