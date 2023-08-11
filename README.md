@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-11, 22:02:05](https://news.ycombinator.com/item?id=37094599) - [Pijul: Version-Control Post-Git • Goto 2023](https://www.youtube.com/watch?v=7MpdZkGj5AI)
 * [2023-08-11, 21:48:16](https://news.ycombinator.com/item?id=37094463) - [Sites scramble to block ChatGPT web crawler after instructions emerge](https://arstechnica.com/information-technology/2023/08/openai-details-how-to-keep-chatgpt-from-gobbling-up-website-data/)
 * [2023-08-11, 21:13:49](https://news.ycombinator.com/item?id=37094111) - [An Introduction to Graph Theory](https://arxiv.org/abs/2308.04512)
 * [2023-08-11, 21:00:41](https://news.ycombinator.com/item?id=37093965) - [Mux (YC W16) Is Hiring a Director of Engineering for Data/Platform Teams](https://mux.com/jobs?role=direng)
@@ -27,7 +28,6 @@
 * [2023-08-10, 15:42:16](https://news.ycombinator.com/item?id=37077639) - [Phase in Acoustics](http://www.sengpielaudio.com/calculator-timedelayphase.htm)
 * [2023-08-10, 04:03:49](https://news.ycombinator.com/item?id=37071808) - [The history and context of Aleksandr Afanasev’s obscene Russian folktales](https://www.laphamsquarterly.org/roundtable/man-people)
 * [2023-08-09, 11:52:06](https://news.ycombinator.com/item?id=37061291) - [An automatic shiny hunter for any Pokémon game](https://www.tomshardware.com/news/raspberry-pi-hunts-shiny-pokemon-while-you-sleep)
-* [2023-08-09, 03:12:24](https://news.ycombinator.com/item?id=37058293) - [Snellings Museum of Sound and Vision](https://www.snellingsmuseum.co.uk/)
 * [2023-08-09, 00:06:06](https://news.ycombinator.com/item?id=37057135) - [D1 receptors may be a more important target than D2 for antipsychotic drugs](https://www.wired.com/story/everyone-was-wrong-about-antipsychotics/)
 * [2023-08-08, 22:16:19](https://news.ycombinator.com/item?id=37056205) - [The PhD Octopus (1903)](https://la.utexas.edu/users/hcleaver/330T/350kPEEJamesOctopusTable.pdf)
 
