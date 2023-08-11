@@ -10,7 +10,6 @@
 * [2023-08-11, 19:28:46](https://news.ycombinator.com/item?id=37092861) - [Judge to revoke bail for FTX founder Sam Bankman-Fried over witness tampering](https://www.cnbc.com/2023/08/11/judge-to-revoke-bail-for-ftx-founder-sam-bankman-fried-over-witness-tampering.html)
 * [2023-08-11, 18:46:33](https://news.ycombinator.com/item?id=37092319) - [The inability to simultaneously verify sentience, location, and identity](https://arxiv.org/abs/2308.02202)
 * [2023-08-11, 18:36:42](https://news.ycombinator.com/item?id=37092212) - [Wendelstein 7-X: Gigajoule energy turnover generated for eight minutes](https://www.ipp.mpg.de/5322229/01_23)
-* [2023-08-11, 18:22:03](https://news.ycombinator.com/item?id=37092027) - [Why is division so much more complex than other arithmetic operations?](https://scicomp.stackexchange.com/questions/187/why-is-division-so-much-more-complex-than-other-arithmetic-operations)
 * [2023-08-11, 18:18:34](https://news.ycombinator.com/item?id=37091989) - [RFC 9446 Reflections on Ten Years Past the Snowden Revelations](https://www.rfc-editor.org/rfc/rfc9446.html)
 * [2023-08-11, 18:18:02](https://news.ycombinator.com/item?id=37091983) - [Squeeze the hell out of the system you have](https://blog.danslimmon.com/2023/08/11/squeeze-the-hell-out-of-the-system-you-have/#like-2777)
 * [2023-08-11, 17:12:43](https://news.ycombinator.com/item?id=37091122) - [Show HN: Pykoi – a Python library for LLM data collection and fine tuning](https://www.cambioml.com/pykoi/)
@@ -30,6 +29,7 @@
 * [2023-08-09, 11:52:06](https://news.ycombinator.com/item?id=37061291) - [Raspberry Pi Hunts Shiny Pokémon While You Sleep](https://www.tomshardware.com/news/raspberry-pi-hunts-shiny-pokemon-while-you-sleep)
 * [2023-08-09, 03:12:24](https://news.ycombinator.com/item?id=37058293) - [Snellings Museum of Sound and Vision](https://www.snellingsmuseum.co.uk/)
 * [2023-08-09, 00:06:06](https://news.ycombinator.com/item?id=37057135) - [Antipsychotic drug efficacy correlates with modulation of D1 not D2 receptor](https://www.wired.com/story/everyone-was-wrong-about-antipsychotics/)
+* [2023-08-08, 22:16:19](https://news.ycombinator.com/item?id=37056205) - [The PhD Octopus (1903)](https://la.utexas.edu/users/hcleaver/330T/350kPEEJamesOctopusTable.pdf)
 
 ## [Archives](archives/index.md)
 
