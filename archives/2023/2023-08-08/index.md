@@ -62,6 +62,7 @@
 * [2023-08-08, 14:47:52](https://news.ycombinator.com/item?id=37049786) - [Italy approves 40% windfall tax on banks for 2023 as profits soar](https://www.theguardian.com/world/2023/aug/08/italy-approves-40-windfall-tax-on-banks-for-2023-as-profits-soar)
 * [2023-08-08, 14:39:29](https://news.ycombinator.com/item?id=37049662) - [What Comes After Zoom?](https://www.ben-evans.com/benedictevans/2020/6/22/zoom-and-the-next-video)
 * [2023-08-08, 14:24:17](https://news.ycombinator.com/item?id=37049415) - [SynJax: Jax library for efficient probabilistic modeling of structured objects](https://twitter.com/milosstanojevic/status/1688896558790520832)
+* [2023-08-08, 14:21:37](https://news.ycombinator.com/item?id=37049376) - [Why SMTP still matters today](https://resend.com/blog/why-smtp-still-matters-today)
 * [2023-08-08, 14:20:26](https://news.ycombinator.com/item?id=37049360) - [WebKit – Touch Bar Web API](https://bugs.webkit.org/show_bug.cgi?id=178736)
 * [2023-08-08, 14:10:52](https://news.ycombinator.com/item?id=37049221) - [Millions of UK voters’ data accessible in cyber-attack](https://www.theguardian.com/technology/2023/aug/08/uk-electoral-commission-registers-targeted-by-hostile-hackers)
 * [2023-08-08, 14:09:12](https://news.ycombinator.com/item?id=37049198) - [Candle: Torch Replacement in Rust](https://github.com/huggingface/candle)
