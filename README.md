@@ -12,7 +12,6 @@
 * [2023-08-10, 21:08:40](https://news.ycombinator.com/item?id=37081833) - [A Modern C Development Environment](https://interrupt.memfault.com/blog/a-modern-c-dev-env)
 * [2023-08-10, 21:05:20](https://news.ycombinator.com/item?id=37081789) - [My Overkill Home Network](https://blog.networkprofile.org/my-home-network-complete-details-2023/)
 * [2023-08-10, 21:02:55](https://news.ycombinator.com/item?id=37081752) - [A Grumman F11 Tiger Shot Itself Down (2021)](https://www.planeandpilotmag.com/news/pilot-talk/grumman-f11-tiger-shoot-itself-down/)
-* [2023-08-10, 20:41:05](https://news.ycombinator.com/item?id=37081485) - [Was Y Combinator worth it?](https://tableflow.com/blog/was-y-combinator-worth-it)
 * [2023-08-10, 20:26:37](https://news.ycombinator.com/item?id=37081306) - [HashiCorp adopts Business Source License](https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license)
 * [2023-08-10, 20:12:22](https://news.ycombinator.com/item?id=37081129) - [Amiga runs Michigan schools' heating and air conditioning systems (2015)](https://www.woodtv.com/news/grand-rapids/1980s-computer-controls-grps-heat-and-ac/)
 * [2023-08-10, 19:43:23](https://news.ycombinator.com/item?id=37080790) - [Muon g-2 doubles down with latest measurement, explores uncharted territory](https://news.fnal.gov/2023/08/muon-g-2-doubles-down-with-latest-measurement/)
@@ -30,6 +29,7 @@
 * [2023-08-09, 11:31:22](https://news.ycombinator.com/item?id=37061133) - [Experiencing scientific revolutions: the 1660s and the 2020s](https://resobscura.substack.com/p/experiencing-scientific-revolutions)
 * [2023-08-09, 02:50:52](https://news.ycombinator.com/item?id=37058171) - [Sensor Watch: a board swap for the classic Casio F-91W wristwatch](https://www.sensorwatch.net/)
 * [2023-08-08, 17:17:58](https://news.ycombinator.com/item?id=37052425) - [Reverse Engineering the Apple Multipeer Connectivity Framework](https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/)
+* [2023-08-08, 10:11:25](https://news.ycombinator.com/item?id=37046770) - [An interactive story that takes you on a journey of self-exploration](https://www.betwixt.life)
 
 ## [Archives](archives/index.md)
 
