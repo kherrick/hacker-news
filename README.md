@@ -18,8 +18,6 @@
 * [2023-08-10, 21:37:17](https://news.ycombinator.com/item?id=37082117) - [Llama 2 on ONNX runs locally](https://github.com/microsoft/Llama-2-Onnx)
 * [2023-08-10, 21:08:40](https://news.ycombinator.com/item?id=37081833) - [A Modern C Development Environment](https://interrupt.memfault.com/blog/a-modern-c-dev-env)
 * [2023-08-10, 21:05:20](https://news.ycombinator.com/item?id=37081789) - [My Overkill Home Network](https://blog.networkprofile.org/my-home-network-complete-details-2023/)
-* [2023-08-10, 20:26:37](https://news.ycombinator.com/item?id=37081306) - [HashiCorp adopts Business Source License](https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license)
-* [2023-08-10, 20:12:22](https://news.ycombinator.com/item?id=37081129) - [Amiga runs Michigan schools' heating and air conditioning systems (2015)](https://www.woodtv.com/news/grand-rapids/1980s-computer-controls-grps-heat-and-ac/)
 * [2023-08-10, 17:02:14](https://news.ycombinator.com/item?id=37078719) - [Vim Boss](https://neovim.io/news/2023/08)
 * [2023-08-10, 14:35:25](https://news.ycombinator.com/item?id=37076693) - [Launch HN: Rubbrband (YC W23) – Deformity detection for AI-generated images](https://news.ycombinator.com/item?id=37076693)
 * [2023-08-10, 05:38:59](https://news.ycombinator.com/item?id=37072374) - [Private equity: A fee too far [pdf]](https://www.russellsage.org/sites/all/files/RSF-Bulletin/Chassany-Sender-FT-2014.pdf)
@@ -27,7 +25,9 @@
 * [2023-08-09, 14:46:01](https://news.ycombinator.com/item?id=37063502) - [Oscilloscope Music](https://oscilloscopemusic.com/)
 * [2023-08-09, 14:26:46](https://news.ycombinator.com/item?id=37063184) - [Therapy as a way of aligning with your subconscious](https://ava.substack.com/p/therapy-as-a-way-of-aligning-with)
 * [2023-08-09, 13:59:15](https://news.ycombinator.com/item?id=37062755) - [Internationalization (i18n) best practices for front-end developers](https://shopify.engineering/internationalization-i18n-best-practices-front-end-developers)
+* [2023-08-09, 11:31:22](https://news.ycombinator.com/item?id=37061133) - [Experiencing scientific revolutions: the 1660s and the 2020s](https://resobscura.substack.com/p/experiencing-scientific-revolutions)
 * [2023-08-09, 07:58:21](https://news.ycombinator.com/item?id=37059842) - [Ubiquitous products](https://toiviainen.xyz/ubiquitous)
+* [2023-08-09, 02:50:52](https://news.ycombinator.com/item?id=37058171) - [Sensor Watch: a board swap for the classic Casio F-91W wristwatch](https://www.sensorwatch.net/)
 * [2023-08-08, 17:17:58](https://news.ycombinator.com/item?id=37052425) - [Reverse Engineering the Apple Multipeer Connectivity Framework (2022)](https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/)
 * [2023-08-08, 10:11:25](https://news.ycombinator.com/item?id=37046770) - [An interactive story that takes you on a journey of self-exploration](https://www.betwixt.life)
 
