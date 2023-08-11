@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-11, 15:24:28](https://news.ycombinator.com/item?id=37089739) - [Tailscale vs. Narrowlink](https://narrowlink.com/docs/comparisons/tailscale)
 * [2023-08-11, 14:53:59](https://news.ycombinator.com/item?id=37089363) - [The crash of Air France flight 447 (2021)](https://admiralcloudberg.medium.com/the-long-way-down-the-crash-of-air-france-flight-447-8a7678c37982)
 * [2023-08-11, 14:35:53](https://news.ycombinator.com/item?id=37089158) - [Publishers in Canada urge regulator to prevent Meta from restricting news access](https://philaverse.substack.com/p/publishers-in-canada-urges-regulator)
 * [2023-08-11, 13:56:06](https://news.ycombinator.com/item?id=37088716) - [Want to pwn a satellite? Turns out it's surprisingly easy](https://www.theregister.com/2023/08/11/satellite_hacking_black_hat/)
@@ -21,7 +22,6 @@
 * [2023-08-11, 02:06:47](https://news.ycombinator.com/item?id=37084262) - [I fixed a bug the other day](https://www.javiergonzalez.io/blog/i-fixed-a-bug/)
 * [2023-08-10, 23:56:03](https://news.ycombinator.com/item?id=37083309) - [Show HN: Tetris, but the blocks are ARM instructions that execute in the browser](https://ofrak.com/tetris/)
 * [2023-08-10, 17:02:14](https://news.ycombinator.com/item?id=37078719) - [Vim Boss](https://neovim.io/news/2023/08)
-* [2023-08-10, 05:38:59](https://news.ycombinator.com/item?id=37072374) - [Private equity: A fee too far [pdf]](https://www.russellsage.org/sites/all/files/RSF-Bulletin/Chassany-Sender-FT-2014.pdf)
 * [2023-08-09, 16:48:46](https://news.ycombinator.com/item?id=37065391) - [Pentium floating-point division bug (1994)](https://en.wikipedia.org/wiki/Pentium_FDIV_bug)
 * [2023-08-09, 15:04:25](https://news.ycombinator.com/item?id=37063803) - [Lines of code that changed everything (2019)](https://slate.com/technology/2019/10/consequential-computer-code-software-history.html)
 * [2023-08-09, 14:53:54](https://news.ycombinator.com/item?id=37063643) - [Striking the Right Balance: Over-Engineering vs. Under-Engineering Software](https://newsletter.beginner.dev/p/striking-the-right-balance-over-engineering)
