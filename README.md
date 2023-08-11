@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-11, 18:46:33](https://news.ycombinator.com/item?id=37092319) - [The Inability to Simultaneously Verify Sentience, Location, and Identity](https://arxiv.org/abs/2308.02202)
 * [2023-08-11, 18:36:42](https://news.ycombinator.com/item?id=37092212) - [Wendelstein 7-X: Gigajoule energy turnover generated for eight minutes](https://www.ipp.mpg.de/5322229/01_23)
 * [2023-08-11, 18:22:03](https://news.ycombinator.com/item?id=37092027) - [Why is division so much more complex than other arithmetic operations?](https://scicomp.stackexchange.com/questions/187/why-is-division-so-much-more-complex-than-other-arithmetic-operations)
 * [2023-08-11, 18:18:34](https://news.ycombinator.com/item?id=37091989) - [RFC 9446 Reflections on Ten Years Past the Snowden Revelations](https://www.rfc-editor.org/rfc/rfc9446.html)
@@ -17,7 +18,6 @@
 * [2023-08-11, 15:07:33](https://news.ycombinator.com/item?id=37089545) - [YouTube-Dl Site Goes Offline as Hosting Provider Enforces Court-Ordered Ban](https://torrentfreak.com/youtube-dl-site-goes-offline-as-hosting-provider-enforces-court-ordered-ban-230809/)
 * [2023-08-11, 13:37:15](https://news.ycombinator.com/item?id=37088548) - [What HashiCorp’s license change means for our customers](https://spacelift.io/blog/hashicorps-license-change)
 * [2023-08-11, 12:46:33](https://news.ycombinator.com/item?id=37088087) - [Launch HN: Wondercraft (YC S22) – Use text-to-speech to create podcasts easily](https://news.ycombinator.com/item?id=37088087)
-* [2023-08-11, 11:06:50](https://news.ycombinator.com/item?id=37087303) - [Feral desert donkeys are digging wells, giving water to parched wildlife (2021)](https://theconversation.com/feral-desert-donkeys-are-digging-wells-giving-water-to-parched-wildlife-159909)
 * [2023-08-11, 10:38:21](https://news.ycombinator.com/item?id=37087136) - [Shamir Secret Sharing](https://max.levch.in/post/724289457144070144/shamir-secret-sharing-its-3am-paul-the-head-of)
 * [2023-08-11, 09:38:29](https://news.ycombinator.com/item?id=37086796) - [Fastest branchless binary search](https://mhdm.dev/posts/sb_lower_bound/)
 * [2023-08-11, 08:15:43](https://news.ycombinator.com/item?id=37086308) - [Artificial General Intelligence – A gentle introduction](https://cis.temple.edu/~pwang/AGI-Intro.html)

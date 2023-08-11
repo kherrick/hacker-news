@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-11](index.md)
 
+* [2023-08-11, 18:46:33](https://news.ycombinator.com/item?id=37092319) - [The Inability to Simultaneously Verify Sentience, Location, and Identity](https://arxiv.org/abs/2308.02202)
 * [2023-08-11, 18:36:42](https://news.ycombinator.com/item?id=37092212) - [Wendelstein 7-X: Gigajoule energy turnover generated for eight minutes](https://www.ipp.mpg.de/5322229/01_23)
 * [2023-08-11, 18:22:03](https://news.ycombinator.com/item?id=37092027) - [Why is division so much more complex than other arithmetic operations?](https://scicomp.stackexchange.com/questions/187/why-is-division-so-much-more-complex-than-other-arithmetic-operations)
 * [2023-08-11, 18:18:34](https://news.ycombinator.com/item?id=37091989) - [RFC 9446 Reflections on Ten Years Past the Snowden Revelations](https://www.rfc-editor.org/rfc/rfc9446.html)
