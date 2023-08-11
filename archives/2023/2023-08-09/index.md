@@ -41,6 +41,7 @@
 * [2023-08-09, 15:14:08](https://news.ycombinator.com/item?id=37063958) - [Why heart attacks are rising in young adults–and what to watch out for](https://www.nationalgeographic.com/premium/article/heart-attacks-rising-young-adults-risk-factors)
 * [2023-08-09, 15:09:16](https://news.ycombinator.com/item?id=37063884) - [I don't want to host services (but I do)](https://ergaster.org/posts/2023/08/09-i-dont-want-to-host-services-but-i-do/)
 * [2023-08-09, 15:05:56](https://news.ycombinator.com/item?id=37063829) - [B.C. woman buried in Amazon packages she did not ask for and does not want](https://www.cbc.ca/news/canada/british-columbia/amazon-shoe-packages-1.6926200)
+* [2023-08-09, 15:04:25](https://news.ycombinator.com/item?id=37063803) - [Lines of code that changed everything (2019)](https://slate.com/technology/2019/10/consequential-computer-code-software-history.html)
 * [2023-08-09, 15:02:40](https://news.ycombinator.com/item?id=37063774) - [Archive of novelty answering machine recordings](http://www.noveltyansweringmachine.com/audio/index.html)
 * [2023-08-09, 14:57:23](https://news.ycombinator.com/item?id=37063695) - [Why Static Languages Suffer from Complexity (2022)](https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity.html)
 * [2023-08-09, 14:53:54](https://news.ycombinator.com/item?id=37063643) - [Striking the Right Balance: Over-Engineering vs. Under-Engineering Software](https://newsletter.beginner.dev/p/striking-the-right-balance-over-engineering)
