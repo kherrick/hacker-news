@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-10, 23:14:08](https://news.ycombinator.com/item?id=37082941) - [SQLite Functions for Working with JSON](https://www.sqlite.org/json1.html)
+* [2023-08-10, 23:00:09](https://news.ycombinator.com/item?id=37082799) - [ACM Skills Bundle Add-On](https://learning.acm.org/skills-bundle)
 * [2023-08-10, 22:57:10](https://news.ycombinator.com/item?id=37082771) - [Source code for Quake 2 rerelease](https://github.com/id-Software/quake2-rerelease-dll)
 * [2023-08-10, 21:57:24](https://news.ycombinator.com/item?id=37082289) - [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/)
 * [2023-08-10, 21:37:17](https://news.ycombinator.com/item?id=37082117) - [Llama 2 on ONNX runs locally](https://github.com/microsoft/Llama-2-Onnx)
@@ -12,7 +13,7 @@
 * [2023-08-10, 20:12:22](https://news.ycombinator.com/item?id=37081129) - [Amiga runs Michigan schools' heating and air conditioning systems (2015)](https://www.woodtv.com/news/grand-rapids/1980s-computer-controls-grps-heat-and-ac/)
 * [2023-08-10, 19:43:23](https://news.ycombinator.com/item?id=37080790) - [Muon g-2 doubles down with latest measurement, explores uncharted territory](https://news.fnal.gov/2023/08/muon-g-2-doubles-down-with-latest-measurement/)
 * [2023-08-10, 19:07:38](https://news.ycombinator.com/item?id=37080404) - [Turns out lowly thymus may be saving your life](https://news.harvard.edu/gazette/story/2023/08/turns-out-lowly-thymus-may-be-saving-your-life/)
-* [2023-08-10, 19:01:33](https://news.ycombinator.com/item?id=37080331) - [Median Center of Population for the United States: 1880 to 2020 (2020)](https://www.census.gov/library/visualizations/2020/geo/center-of-population-1880-2020.html)
+* [2023-08-10, 19:01:33](https://news.ycombinator.com/item?id=37080331) - [Median Center of Population for the United States: 1880 to 2020 (2021)](https://www.census.gov/library/visualizations/2020/geo/center-of-population-1880-2020.html)
 * [2023-08-10, 18:29:48](https://news.ycombinator.com/item?id=37079909) - [Aurora I/O optimized config saved 90% DB cost](https://graphite.dev/blog/how-an-aws-aurora-feature-cut-db-costs)
 * [2023-08-10, 18:05:41](https://news.ycombinator.com/item?id=37079616) - [Water Cooled Rooftop Solar Panels](https://evergreenoffgrid.com/water-cooled-rooftop-solar-panels/)
 * [2023-08-10, 17:59:07](https://news.ycombinator.com/item?id=37079534) - [eSignature for Google Docs and Google Drive (Beta)](https://workspaceupdates.googleblog.com/2023/08/esignature-google-docs-google-drive.html)
@@ -27,7 +28,6 @@
 * [2023-08-10, 13:13:57](https://news.ycombinator.com/item?id=37075730) - [Show HN: Applite – Clean Homebrew front end app for macOS built with SwiftUI](https://aerolite.dev/applite/index.html)
 * [2023-08-09, 20:52:54](https://news.ycombinator.com/item?id=37068230) - [Robbie Robertson has died](https://www.nytimes.com/2023/08/09/arts/music/robbie-robertson-dead.html)
 * [2023-08-09, 14:26:46](https://news.ycombinator.com/item?id=37063184) - [Therapy as a way of aligning with your subconscious](https://ava.substack.com/p/therapy-as-a-way-of-aligning-with)
-* [2023-08-08, 16:55:54](https://news.ycombinator.com/item?id=37052049) - [General and Surprising (2017)](http://www.paulgraham.com/sun.html)
 * [2023-08-08, 14:03:08](https://news.ycombinator.com/item?id=37049117) - [Nextflow: Data-Driven Computational Pipelines](https://nextflow.io/)
 * [2023-08-08, 13:56:54](https://news.ycombinator.com/item?id=37049029) - [Developers are building communities that act as their own miniature power grids](https://www.nytimes.com/2023/08/07/realestate/microgrid-solar-power-energy.html)
 
