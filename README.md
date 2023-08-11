@@ -26,7 +26,7 @@
 * [2023-08-10, 13:48:39](https://news.ycombinator.com/item?id=37076125) - [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352)
 * [2023-08-10, 13:13:57](https://news.ycombinator.com/item?id=37075730) - [Show HN: Applite – Clean Homebrew front end app for macOS built with SwiftUI](https://aerolite.dev/applite/index.html)
 * [2023-08-09, 20:52:54](https://news.ycombinator.com/item?id=37068230) - [Robbie Robertson has died](https://www.nytimes.com/2023/08/09/arts/music/robbie-robertson-dead.html)
-* [2023-08-09, 02:36:54](https://news.ycombinator.com/item?id=37058093) - [Sync Gear: How World War I Fighters Avoided Damaging Their Own Propellers](https://hartzellprop.com/synch-gear-world-war-fighters-avoided-damaging-propellers/)
+* [2023-08-09, 14:26:46](https://news.ycombinator.com/item?id=37063184) - [Therapy as a way of aligning with your subconscious](https://ava.substack.com/p/therapy-as-a-way-of-aligning-with)
 * [2023-08-08, 16:55:54](https://news.ycombinator.com/item?id=37052049) - [General and Surprising (2017)](http://www.paulgraham.com/sun.html)
 * [2023-08-08, 14:03:08](https://news.ycombinator.com/item?id=37049117) - [Nextflow: Data-Driven Computational Pipelines](https://nextflow.io/)
 * [2023-08-08, 13:56:54](https://news.ycombinator.com/item?id=37049029) - [Developers are building communities that act as their own miniature power grids](https://www.nytimes.com/2023/08/07/realestate/microgrid-solar-power-energy.html)

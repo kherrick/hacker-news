@@ -47,6 +47,7 @@
 * [2023-08-09, 14:43:28](https://news.ycombinator.com/item?id=37063459) - [Mozilla finds CPU bug (bad store forwarding) in Samsung Galaxy S20](https://bugzilla.mozilla.org/show_bug.cgi?id=1833315)
 * [2023-08-09, 14:31:41](https://news.ycombinator.com/item?id=37063270) - [Wheat Gluten Spurs Brain Inflammation (In Mice)](https://neurosciencenews.com/gluten-neuroinflammation-23773/)
 * [2023-08-09, 14:29:49](https://news.ycombinator.com/item?id=37063238) - [SQLedge: Replicate Postgres to SQLite on the Edge](https://github.com/zknill/sqledge)
+* [2023-08-09, 14:26:46](https://news.ycombinator.com/item?id=37063184) - [Therapy as a way of aligning with your subconscious](https://ava.substack.com/p/therapy-as-a-way-of-aligning-with)
 * [2023-08-09, 14:24:56](https://news.ycombinator.com/item?id=37063151) - [Arpchat – Text your friends on the same network using just ARP](https://github.com/kognise/arpchat)
 * [2023-08-09, 14:03:46](https://news.ycombinator.com/item?id=37062820) - [Nintendo filed numerous patents for Zelda: Tears of the Kingdom mechanics](https://automaton-media.com/en/news/20230808-20590/)
 * [2023-08-09, 14:01:51](https://news.ycombinator.com/item?id=37062793) - [What should you know about Svalbard? (2020)](https://best-citizenships.com/2020/02/11/what-should-you-know-about-svalbard/)
