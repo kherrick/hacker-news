@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-08-11](index.md)
 
 * [2023-08-11, 10:12:39](https://news.ycombinator.com/item?id=37086982) - [Dramatic rise in cancer in people under 50](https://news.harvard.edu/gazette/story/2022/09/researchers-report-dramatic-rise-in-early-onset-cancers/)
+* [2023-08-11, 09:41:51](https://news.ycombinator.com/item?id=37086814) - [Google has marked my website as harmful for a file that does not exist](https://news.ycombinator.com/item?id=37086814)
 * [2023-08-11, 09:38:29](https://news.ycombinator.com/item?id=37086796) - [Fastest Branchless Binary Search](https://mhdm.dev/posts/sb_lower_bound/)
+* [2023-08-11, 09:34:59](https://news.ycombinator.com/item?id=37086779) - [George Hotz: There is no hard takeoff](https://geohot.github.io//blog/jekyll/update/2023/08/10/there-is-no-hard-takeoff.html)
 * [2023-08-11, 08:15:43](https://news.ycombinator.com/item?id=37086308) - [Artificial General Intelligence – A gentle introduction](https://cis.temple.edu/~pwang/AGI-Intro.html)
 * [2023-08-11, 08:13:53](https://news.ycombinator.com/item?id=37086301) - [The Bipolar Lisp Programmer](https://www.marktarver.com/bipolar.html)
 * [2023-08-11, 07:11:38](https://news.ycombinator.com/item?id=37085966) - [The Life of a Lawyer in the Late Roman Republic](https://www.thecollector.com/life-lawyer-late-roman-republic/)
