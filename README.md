@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-11, 07:11:38](https://news.ycombinator.com/item?id=37085966) - [The Life of a Lawyer in the Late Roman Republic](https://www.thecollector.com/life-lawyer-late-roman-republic/)
 * [2023-08-11, 05:37:34](https://news.ycombinator.com/item?id=37085449) - [Browsers barely care what HTTP status code your web pages are served with](https://utcc.utoronto.ca/~cks/space/blog/web/BrowsersAndHTTPStatusCodes)
 * [2023-08-11, 04:25:58](https://news.ycombinator.com/item?id=37085097) - [Websites and APIs on Render are unavailable due to Cloudflare network errors](https://status.render.com/incidents/cshql6qwnldj)
 * [2023-08-11, 03:09:30](https://news.ycombinator.com/item?id=37084677) - [Firefox desktop extensions coming soon for the upcoming Android release](https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/)
@@ -8,7 +9,6 @@
 * [2023-08-10, 23:56:03](https://news.ycombinator.com/item?id=37083309) - [Show HN: Tetris, but the blocks are ARM instructions that execute in the browser](https://ofrak.com/tetris/)
 * [2023-08-10, 23:14:08](https://news.ycombinator.com/item?id=37082941) - [SQLite Functions for Working with JSON](https://www.sqlite.org/json1.html)
 * [2023-08-10, 22:57:10](https://news.ycombinator.com/item?id=37082771) - [Source code for Quake 2 rerelease](https://github.com/id-Software/quake2-rerelease-dll)
-* [2023-08-10, 21:58:31](https://news.ycombinator.com/item?id=37082304) - [WipEout (1995) Source Code Rewrite](https://phoboslab.org/log/2023/08/rewriting-wipeout)
 * [2023-08-10, 21:57:24](https://news.ycombinator.com/item?id=37082289) - [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/)
 * [2023-08-10, 21:37:17](https://news.ycombinator.com/item?id=37082117) - [Llama 2 on ONNX runs locally](https://github.com/microsoft/Llama-2-Onnx)
 * [2023-08-10, 21:08:40](https://news.ycombinator.com/item?id=37081833) - [A Modern C Development Environment](https://interrupt.memfault.com/blog/a-modern-c-dev-env)
