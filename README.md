@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-11, 15:30:34](https://news.ycombinator.com/item?id=37089817) - [Mpire: A Python package for easier and faster multiprocessing](https://github.com/sybrenjansen/mpire)
 * [2023-08-11, 15:24:28](https://news.ycombinator.com/item?id=37089739) - [Tailscale vs. Narrowlink](https://narrowlink.com/docs/comparisons/tailscale)
 * [2023-08-11, 15:07:33](https://news.ycombinator.com/item?id=37089545) - [YouTube-Dl Site Goes Offline as Hosting Provider Enforces Court-Ordered Ban](https://torrentfreak.com/youtube-dl-site-goes-offline-as-hosting-provider-enforces-court-ordered-ban-230809/)
 * [2023-08-11, 14:53:59](https://news.ycombinator.com/item?id=37089363) - [The crash of Air France flight 447 (2021)](https://admiralcloudberg.medium.com/the-long-way-down-the-crash-of-air-france-flight-447-8a7678c37982)
@@ -24,7 +25,6 @@
 * [2023-08-10, 05:38:59](https://news.ycombinator.com/item?id=37072374) - [Private equity: A fee too far [pdf]](https://www.russellsage.org/sites/all/files/RSF-Bulletin/Chassany-Sender-FT-2014.pdf)
 * [2023-08-09, 16:48:46](https://news.ycombinator.com/item?id=37065391) - [Pentium floating-point division bug (1994)](https://en.wikipedia.org/wiki/Pentium_FDIV_bug)
 * [2023-08-09, 15:04:25](https://news.ycombinator.com/item?id=37063803) - [Lines of code that changed everything (2019)](https://slate.com/technology/2019/10/consequential-computer-code-software-history.html)
-* [2023-08-09, 14:53:54](https://news.ycombinator.com/item?id=37063643) - [Striking the Right Balance: Over-Engineering vs. Under-Engineering Software](https://newsletter.beginner.dev/p/striking-the-right-balance-over-engineering)
 * [2023-08-09, 14:46:01](https://news.ycombinator.com/item?id=37063502) - [Oscilloscope Music](https://oscilloscopemusic.com/)
 * [2023-08-09, 13:59:15](https://news.ycombinator.com/item?id=37062755) - [Lessons From Linguistics: i18n Best Practices for Front-End Developers](https://shopify.engineering/internationalization-i18n-best-practices-front-end-developers)
 * [2023-08-08, 22:16:19](https://news.ycombinator.com/item?id=37056205) - [The PhD Octopus (1903)](https://la.utexas.edu/users/hcleaver/330T/350kPEEJamesOctopusTable.pdf)
