@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-11, 21:00:41](https://news.ycombinator.com/item?id=37093965) - [Mux (YC W16) Is Hiring a Director of Engineering for Data/Platform Teams](https://mux.com/jobs?role=direng)
+* [2023-08-11, 20:52:07](https://news.ycombinator.com/item?id=37093854) - [80% of bosses say they regret earlier return-to-office plans](https://www.cnbc.com/2023/08/11/80percent-of-bosses-say-they-regret-earlier-return-to-office-plans.html)
 * [2023-08-11, 20:30:30](https://news.ycombinator.com/item?id=37093632) - [Web Environment Integrity has no standing at W3C; understanding new W3C work](https://www.w3.org/blog/2023/web-environment-integrity-has-no-standing-at-w3c/)
 * [2023-08-11, 20:22:14](https://news.ycombinator.com/item?id=37093554) - [ARM’s Cortex A710: Winning by Default](https://chipsandcheese.com/2023/08/11/arms-cortex-a710-winning-by-default/)
 * [2023-08-11, 20:08:25](https://news.ycombinator.com/item?id=37093365) - [Half-Edge Data Structures](https://jerryyin.info/geometry-processing-algorithms/half-edge/)
@@ -29,7 +30,6 @@
 * [2023-08-09, 11:52:06](https://news.ycombinator.com/item?id=37061291) - [Raspberry Pi Hunts Shiny Pokémon While You Sleep](https://www.tomshardware.com/news/raspberry-pi-hunts-shiny-pokemon-while-you-sleep)
 * [2023-08-09, 03:12:24](https://news.ycombinator.com/item?id=37058293) - [Snellings Museum of Sound and Vision](https://www.snellingsmuseum.co.uk/)
 * [2023-08-09, 00:06:06](https://news.ycombinator.com/item?id=37057135) - [Antipsychotic drug efficacy correlates with modulation of D1 not D2 receptor](https://www.wired.com/story/everyone-was-wrong-about-antipsychotics/)
-* [2023-08-08, 22:16:19](https://news.ycombinator.com/item?id=37056205) - [The PhD Octopus (1903)](https://la.utexas.edu/users/hcleaver/330T/350kPEEJamesOctopusTable.pdf)
 
 ## [Archives](archives/index.md)
 
