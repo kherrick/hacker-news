@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-11, 14:35:53](https://news.ycombinator.com/item?id=37089158) - [Publishers in Canada urge regulator to prevent Meta from restricting news access](https://philaverse.substack.com/p/publishers-in-canada-urges-regulator)
 * [2023-08-11, 13:45:08](https://news.ycombinator.com/item?id=37088614) - [NewOS (2005)](https://newos.org/)
 * [2023-08-11, 13:41:41](https://news.ycombinator.com/item?id=37088591) - [OpenTerraform – an MPL fork of Terraform after HashiCorp's license change](https://github.com/diggerhq/open-terraform)
-* [2023-08-11, 13:37:15](https://news.ycombinator.com/item?id=37088548) - [What HashiCorp’s License Change Means for Spacelift Customers](https://spacelift.io/blog/hashicorps-license-change)
 * [2023-08-11, 13:33:45](https://news.ycombinator.com/item?id=37088524) - [Security updates for 3.4 and 3.5 beta](https://iterm2.com/news.html)
 * [2023-08-11, 13:09:00](https://news.ycombinator.com/item?id=37088274) - [Dreams of new physics fade with latest muon magnetism result](https://www.nature.com/articles/d41586-023-02532-6)
 * [2023-08-11, 12:46:33](https://news.ycombinator.com/item?id=37088087) - [Launch HN: Wondercraft (YC S22) – Use text-to-speech to create podcasts easily](https://news.ycombinator.com/item?id=37088087)
