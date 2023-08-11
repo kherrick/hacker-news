@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-11, 19:41:26](https://news.ycombinator.com/item?id=37093049) - [Sam Bankman-Fried to Be Sent to Jail After Judge Revokes Bail](https://www.nytimes.com/2023/08/11/technology/sam-bankman-fried-to-be-sent-to-jail-after-judge-revokes-bail.html)
 * [2023-08-11, 19:28:46](https://news.ycombinator.com/item?id=37092861) - [Judge to revoke bail for FTX founder Sam Bankman-Fried over witness tampering](https://www.cnbc.com/2023/08/11/judge-to-revoke-bail-for-ftx-founder-sam-bankman-fried-over-witness-tampering.html)
 * [2023-08-11, 18:46:33](https://news.ycombinator.com/item?id=37092319) - [The inability to simultaneously verify sentience, location, and identity](https://arxiv.org/abs/2308.02202)
 * [2023-08-11, 18:36:42](https://news.ycombinator.com/item?id=37092212) - [Wendelstein 7-X: Gigajoule energy turnover generated for eight minutes](https://www.ipp.mpg.de/5322229/01_23)
@@ -21,7 +22,6 @@
 * [2023-08-11, 12:46:33](https://news.ycombinator.com/item?id=37088087) - [Launch HN: Wondercraft (YC S22) – Use text-to-speech to create podcasts easily](https://news.ycombinator.com/item?id=37088087)
 * [2023-08-11, 09:38:29](https://news.ycombinator.com/item?id=37086796) - [Fastest branchless binary search](https://mhdm.dev/posts/sb_lower_bound/)
 * [2023-08-11, 08:15:43](https://news.ycombinator.com/item?id=37086308) - [Artificial General Intelligence – A gentle introduction](https://cis.temple.edu/~pwang/AGI-Intro.html)
-* [2023-08-11, 07:11:38](https://news.ycombinator.com/item?id=37085966) - [The life of a lawyer in the late Roman republic](https://www.thecollector.com/life-lawyer-late-roman-republic/)
 * [2023-08-10, 23:56:03](https://news.ycombinator.com/item?id=37083309) - [Show HN: Tetris, but the blocks are ARM instructions that execute in the browser](https://ofrak.com/tetris/)
 * [2023-08-10, 04:03:49](https://news.ycombinator.com/item?id=37071808) - [The history and context of Aleksandr Afanasev’s obscene Russian folktales](https://www.laphamsquarterly.org/roundtable/man-people)
 * [2023-08-09, 15:04:25](https://news.ycombinator.com/item?id=37063803) - [Lines of code that changed everything (2019)](https://slate.com/technology/2019/10/consequential-computer-code-software-history.html)

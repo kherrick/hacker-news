@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-11](index.md)
 
+* [2023-08-11, 19:41:26](https://news.ycombinator.com/item?id=37093049) - [Sam Bankman-Fried to Be Sent to Jail After Judge Revokes Bail](https://www.nytimes.com/2023/08/11/technology/sam-bankman-fried-to-be-sent-to-jail-after-judge-revokes-bail.html)
 * [2023-08-11, 19:28:46](https://news.ycombinator.com/item?id=37092861) - [Judge to revoke bail for FTX founder Sam Bankman-Fried over witness tampering](https://www.cnbc.com/2023/08/11/judge-to-revoke-bail-for-ftx-founder-sam-bankman-fried-over-witness-tampering.html)
 * [2023-08-11, 18:46:33](https://news.ycombinator.com/item?id=37092319) - [The Inability to Simultaneously Verify Sentience, Location, and Identity](https://arxiv.org/abs/2308.02202)
 * [2023-08-11, 18:36:42](https://news.ycombinator.com/item?id=37092212) - [Wendelstein 7-X: Gigajoule energy turnover generated for eight minutes](https://www.ipp.mpg.de/5322229/01_23)
