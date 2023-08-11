@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-11](index.md)
 
+* [2023-08-11, 22:31:48](https://news.ycombinator.com/item?id=37094848) - [AI Causes Real Harm. Let’s Focus on That over the End-of-Humanity Hype](https://www.scientificamerican.com/article/we-need-to-focus-on-ais-real-harms-not-imaginary-existential-risks/)
 * [2023-08-11, 22:02:05](https://news.ycombinator.com/item?id=37094599) - [Pijul: Version-Control Post-Git • Goto 2023](https://www.youtube.com/watch?v=7MpdZkGj5AI)
 * [2023-08-11, 21:48:16](https://news.ycombinator.com/item?id=37094463) - [Sites scramble to block ChatGPT web crawler after instructions emerge](https://arstechnica.com/information-technology/2023/08/openai-details-how-to-keep-chatgpt-from-gobbling-up-website-data/)
 * [2023-08-11, 21:13:49](https://news.ycombinator.com/item?id=37094111) - [An Introduction to Graph Theory](https://arxiv.org/abs/2308.04512)
