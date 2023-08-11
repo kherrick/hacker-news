@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-11, 03:09:30](https://news.ycombinator.com/item?id=37084677) - [Firefox desktop extensions coming soon for the upcoming Android release](https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/)
 * [2023-08-10, 23:14:08](https://news.ycombinator.com/item?id=37082941) - [SQLite Functions for Working with JSON](https://www.sqlite.org/json1.html)
 * [2023-08-10, 23:00:09](https://news.ycombinator.com/item?id=37082799) - [ACM Skills Bundle Add-On](https://learning.acm.org/skills-bundle)
 * [2023-08-10, 22:57:10](https://news.ycombinator.com/item?id=37082771) - [Source code for Quake 2 rerelease](https://github.com/id-Software/quake2-rerelease-dll)
@@ -18,7 +19,6 @@
 * [2023-08-10, 17:59:07](https://news.ycombinator.com/item?id=37079534) - [eSignature for Google Docs and Google Drive (Beta)](https://workspaceupdates.googleblog.com/2023/08/esignature-google-docs-google-drive.html)
 * [2023-08-10, 17:02:14](https://news.ycombinator.com/item?id=37078719) - [Vim Boss](https://neovim.io/news/2023/08)
 * [2023-08-10, 17:01:03](https://news.ycombinator.com/item?id=37078708) - [Memfault (YC W19) Is Hiring a Data/Back End Engineer](https://www.ycombinator.com/companies/memfault/jobs/zALzwIe-backend-engineer-systems-data)
-* [2023-08-10, 16:40:54](https://news.ycombinator.com/item?id=37078423) - [CIQ, Oracle, SUSE Create Open Enterprise Linux Association](https://www.suse.com/news/OpenELA-for-a-Collaborative-and-Open-Future/)
 * [2023-08-10, 16:12:25](https://news.ycombinator.com/item?id=37078047) - [MIT Pirate Certificate](https://physicaleducationandwellness.mit.edu/about/pirate-certificate/)
 * [2023-08-10, 14:35:25](https://news.ycombinator.com/item?id=37076693) - [Launch HN: Rubbrband (YC W23) – Deformity detection for AI-generated images](https://news.ycombinator.com/item?id=37076693)
 * [2023-08-10, 13:56:24](https://news.ycombinator.com/item?id=37076210) - [Do Machine Learning Models Memorize or Generalize?](https://pair.withgoogle.com/explorables/grokking/)
