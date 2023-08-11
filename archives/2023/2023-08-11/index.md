@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-11](index.md)
 
+* [2023-08-11, 11:06:50](https://news.ycombinator.com/item?id=37087303) - [Feral desert donkeys are digging wells, giving water to parched wildlife](https://theconversation.com/feral-desert-donkeys-are-digging-wells-giving-water-to-parched-wildlife-159909)
 * [2023-08-11, 10:38:21](https://news.ycombinator.com/item?id=37087136) - [Shamir Secret Sharing – how PayPal nearly died](https://max.levch.in/post/724289457144070144/shamir-secret-sharing-its-3am-paul-the-head-of)
 * [2023-08-11, 10:12:39](https://news.ycombinator.com/item?id=37086982) - [Dramatic rise in cancer in people under 50](https://news.harvard.edu/gazette/story/2022/09/researchers-report-dramatic-rise-in-early-onset-cancers/)
 * [2023-08-11, 09:41:51](https://news.ycombinator.com/item?id=37086814) - [Google has marked my website as harmful for a file that does not exist](https://news.ycombinator.com/item?id=37086814)
