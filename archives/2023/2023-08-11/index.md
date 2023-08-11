@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-11](index.md)
 
+* [2023-08-11, 17:55:26](https://news.ycombinator.com/item?id=37091679) - [Pornhub Sues Texas over Age Verification Law](https://www.vice.com/en/article/pkazpy/pornhub-sues-texas-over-age-verification-law)
 * [2023-08-11, 17:21:08](https://news.ycombinator.com/item?id=37091223) - [Ask HN: How do you handle tech use with your kids?](https://news.ycombinator.com/item?id=37091223)
 * [2023-08-11, 17:10:56](https://news.ycombinator.com/item?id=37091091) - [Virtualizing Uxn](https://eighty-twenty.org/2023/08/11/virtualizing-uxn)
 * [2023-08-11, 17:04:46](https://news.ycombinator.com/item?id=37091006) - [Apple TV's MLS Season Pass subscriptions doubled since Messi's arrival in US](https://www.engadget.com/apple-tvs-mls-season-pass-subscriptions-have-doubled-since-messis-arrival-in-the-us-150221673.html)

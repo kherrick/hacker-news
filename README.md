@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-11, 17:21:08](https://news.ycombinator.com/item?id=37091223) - [Ask HN: How do you handle tech use with your kids?](https://news.ycombinator.com/item?id=37091223)
+* [2023-08-11, 17:55:26](https://news.ycombinator.com/item?id=37091679) - [Pornhub Sues Texas over Age Verification Law](https://www.vice.com/en/article/pkazpy/pornhub-sues-texas-over-age-verification-law)
 * [2023-08-11, 17:10:56](https://news.ycombinator.com/item?id=37091091) - [Virtualizing Uxn](https://eighty-twenty.org/2023/08/11/virtualizing-uxn)
 * [2023-08-11, 17:04:46](https://news.ycombinator.com/item?id=37091006) - [Apple TV's MLS Season Pass subscriptions doubled since Messi's arrival in US](https://www.engadget.com/apple-tvs-mls-season-pass-subscriptions-have-doubled-since-messis-arrival-in-the-us-150221673.html)
 * [2023-08-11, 17:00:39](https://news.ycombinator.com/item?id=37090948) - [Laylo (YC S20) Is Hiring a Lead Growth Engineer](https://www.ycombinator.com/companies/laylo/jobs/gIwhwtd-lead-growth-engineer)
@@ -23,8 +23,8 @@
 * [2023-08-11, 08:13:53](https://news.ycombinator.com/item?id=37086301) - [The Bipolar Lisp Programmer (2007)](https://www.marktarver.com/bipolar.html)
 * [2023-08-11, 07:11:38](https://news.ycombinator.com/item?id=37085966) - [The life of a lawyer in the late Roman republic](https://www.thecollector.com/life-lawyer-late-roman-republic/)
 * [2023-08-11, 05:37:34](https://news.ycombinator.com/item?id=37085449) - [Browsers barely care what HTTP status code your web pages are served with](https://utcc.utoronto.ca/~cks/space/blog/web/BrowsersAndHTTPStatusCodes)
-* [2023-08-11, 03:09:30](https://news.ycombinator.com/item?id=37084677) - [Firefox desktop extensions coming soon for the upcoming Android release](https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/)
 * [2023-08-10, 23:56:03](https://news.ycombinator.com/item?id=37083309) - [Show HN: Tetris, but the blocks are ARM instructions that execute in the browser](https://ofrak.com/tetris/)
+* [2023-08-09, 16:48:46](https://news.ycombinator.com/item?id=37065391) - [Pentium floating-point division bug (1994)](https://en.wikipedia.org/wiki/Pentium_FDIV_bug)
 * [2023-08-09, 15:04:25](https://news.ycombinator.com/item?id=37063803) - [Lines of code that changed everything (2019)](https://slate.com/technology/2019/10/consequential-computer-code-software-history.html)
 * [2023-08-09, 14:46:01](https://news.ycombinator.com/item?id=37063502) - [Oscilloscope Music](https://oscilloscopemusic.com/)
 * [2023-08-09, 13:59:15](https://news.ycombinator.com/item?id=37062755) - [Lessons From Linguistics: i18n Best Practices for Front-End Developers](https://shopify.engineering/internationalization-i18n-best-practices-front-end-developers)
