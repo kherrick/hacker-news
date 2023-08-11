@@ -39,6 +39,7 @@
 * [2023-08-08, 17:30:09](https://news.ycombinator.com/item?id=37052622) - [LCD, Please – de-make of “Papers, please”, celebrating 10 years since launch](https://dukope.itch.io/lcd-please)
 * [2023-08-08, 17:27:38](https://news.ycombinator.com/item?id=37052586) - [Downfall Attacks](https://downfall.page/)
 * [2023-08-08, 17:23:00](https://news.ycombinator.com/item?id=37052508) - [Uninstall the NightOwl macOS app now](https://robins.one/notes/uninstall-the-nightowl-app-now.html)
+* [2023-08-08, 17:17:58](https://news.ycombinator.com/item?id=37052425) - [Reverse Engineering the Apple Multipeer Connectivity Framework](https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/)
 * [2023-08-08, 17:06:53](https://news.ycombinator.com/item?id=37052243) - [Who Named Earth?](https://scienceswitch.com/2023/08/08/who-named-earth/)
 * [2023-08-08, 17:05:18](https://news.ycombinator.com/item?id=37052218) - [Why not tax private jets out of business?](https://www.pressherald.com/2023/08/08/commentary-why-not-tax-private-jets-out-of-business/)
 * [2023-08-08, 17:00:51](https://news.ycombinator.com/item?id=37052137) - [SnapEDA (YC S15) is hiring AI lead for electronics copilot in Bay Area](https://careers.snapeda.com/o/engineering-lead-ai)
