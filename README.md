@@ -10,6 +10,7 @@
 * [2023-08-11, 20:22:14](https://news.ycombinator.com/item?id=37093554) - [ARM’s Cortex A710: Winning by Default](https://chipsandcheese.com/2023/08/11/arms-cortex-a710-winning-by-default/)
 * [2023-08-11, 20:08:25](https://news.ycombinator.com/item?id=37093365) - [Half-Edge Data Structures (2019)](https://jerryyin.info/geometry-processing-algorithms/half-edge/)
 * [2023-08-11, 19:28:46](https://news.ycombinator.com/item?id=37092861) - [Judge sends Sam Bankman-Fried to jail over witness tampering](https://www.cnbc.com/2023/08/11/judge-to-revoke-bail-for-ftx-founder-sam-bankman-fried-over-witness-tampering.html)
+* [2023-08-11, 19:26:46](https://news.ycombinator.com/item?id=37092837) - [Samsung Remote Test Lab: Run Emulated Samsung Phones from the Browser](https://developer.samsung.com/remotetestlab/)
 * [2023-08-11, 18:46:33](https://news.ycombinator.com/item?id=37092319) - [The inability to simultaneously verify sentience, location, and identity](https://arxiv.org/abs/2308.02202)
 * [2023-08-11, 18:36:42](https://news.ycombinator.com/item?id=37092212) - [Wendelstein 7-X: Gigajoule energy turnover generated for eight minutes](https://www.ipp.mpg.de/5322229/01_23)
 * [2023-08-11, 18:18:34](https://news.ycombinator.com/item?id=37091989) - [RFC 9446 Reflections on Ten Years Past the Snowden Revelations](https://www.rfc-editor.org/rfc/rfc9446.html)
@@ -29,7 +30,6 @@
 * [2023-08-10, 15:42:16](https://news.ycombinator.com/item?id=37077639) - [Phase in Acoustics](http://www.sengpielaudio.com/calculator-timedelayphase.htm)
 * [2023-08-10, 04:03:49](https://news.ycombinator.com/item?id=37071808) - [The history and context of Aleksandr Afanasev’s obscene Russian folktales](https://www.laphamsquarterly.org/roundtable/man-people)
 * [2023-08-09, 11:52:06](https://news.ycombinator.com/item?id=37061291) - [An automatic shiny hunter for any Pokémon game](https://www.tomshardware.com/news/raspberry-pi-hunts-shiny-pokemon-while-you-sleep)
-* [2023-08-09, 00:06:06](https://news.ycombinator.com/item?id=37057135) - [D1 receptors may be a more important target than D2 for antipsychotic drugs](https://www.wired.com/story/everyone-was-wrong-about-antipsychotics/)
 
 ## [Archives](archives/index.md)
 
