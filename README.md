@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-11, 12:45:13](https://news.ycombinator.com/item?id=37088075) - [Scientists may be on brink of discovering fifth force of nature](https://www.theguardian.com/science/2023/aug/11/scientists-fifth-force-nature)
+* [2023-08-11, 12:10:49](https://news.ycombinator.com/item?id=37087772) - [California allows robo-taxis to expand and emergency responders aren't happy](https://www.npr.org/2023/08/10/1193272085/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts)
 * [2023-08-11, 11:06:50](https://news.ycombinator.com/item?id=37087303) - [Feral desert donkeys are digging wells, giving water to parched wildlife](https://theconversation.com/feral-desert-donkeys-are-digging-wells-giving-water-to-parched-wildlife-159909)
 * [2023-08-11, 10:45:38](https://news.ycombinator.com/item?id=37087180) - [Abusing Zoom's Zero Touch Provisioning for Remote Attacks on Desk Phones](https://blog.syss.com/posts/zero-touch-pwn/)
 * [2023-08-11, 10:38:21](https://news.ycombinator.com/item?id=37087136) - [Shamir Secret Sharing](https://max.levch.in/post/724289457144070144/shamir-secret-sharing-its-3am-paul-the-head-of)
@@ -11,7 +13,6 @@
 * [2023-08-11, 04:25:58](https://news.ycombinator.com/item?id=37085097) - [Websites and APIs on Render are unavailable due to Cloudflare network errors](https://status.render.com/incidents/cshql6qwnldj)
 * [2023-08-11, 03:09:30](https://news.ycombinator.com/item?id=37084677) - [Firefox desktop extensions coming soon for the upcoming Android release](https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/)
 * [2023-08-11, 02:52:46](https://news.ycombinator.com/item?id=37084575) - [Git-appraise – Distributed Code Review for Git](https://github.com/google/git-appraise)
-* [2023-08-11, 02:06:47](https://news.ycombinator.com/item?id=37084262) - [I fixed a bug the other day](https://www.javiergonzalez.io/blog/i-fixed-a-bug/)
 * [2023-08-10, 23:56:03](https://news.ycombinator.com/item?id=37083309) - [Show HN: Tetris, but the blocks are ARM instructions that execute in the browser](https://ofrak.com/tetris/)
 * [2023-08-10, 23:14:08](https://news.ycombinator.com/item?id=37082941) - [SQLite Functions for Working with JSON](https://www.sqlite.org/json1.html)
 * [2023-08-10, 22:57:10](https://news.ycombinator.com/item?id=37082771) - [Source code for Quake 2 rerelease](https://github.com/id-Software/quake2-rerelease-dll)
@@ -25,7 +26,6 @@
 * [2023-08-09, 14:26:46](https://news.ycombinator.com/item?id=37063184) - [Therapy as a way of aligning with your subconscious](https://ava.substack.com/p/therapy-as-a-way-of-aligning-with)
 * [2023-08-09, 13:59:15](https://news.ycombinator.com/item?id=37062755) - [Lessons From Linguistics: i18n Best Practices for Front-End Developers](https://shopify.engineering/internationalization-i18n-best-practices-front-end-developers)
 * [2023-08-09, 11:31:22](https://news.ycombinator.com/item?id=37061133) - [Experiencing scientific revolutions: the 1660s and the 2020s](https://resobscura.substack.com/p/experiencing-scientific-revolutions)
-* [2023-08-09, 07:58:21](https://news.ycombinator.com/item?id=37059842) - [Ubiquitous products](https://toiviainen.xyz/ubiquitous)
 * [2023-08-09, 02:50:52](https://news.ycombinator.com/item?id=37058171) - [Sensor Watch: a board swap for the classic Casio F-91W wristwatch](https://www.sensorwatch.net/)
 * [2023-08-08, 17:17:58](https://news.ycombinator.com/item?id=37052425) - [Reverse Engineering the Apple Multipeer Connectivity Framework (2022)](https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/)
 * [2023-08-08, 15:13:17](https://news.ycombinator.com/item?id=37050219) - [My Lifetime Reading Plan](https://www.honest-broker.com/p/my-lifetime-reading-plan)

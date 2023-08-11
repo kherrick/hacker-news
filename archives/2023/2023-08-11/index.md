@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-11](index.md)
 
+* [2023-08-11, 12:45:13](https://news.ycombinator.com/item?id=37088075) - [Scientists may be on brink of discovering fifth force of nature](https://www.theguardian.com/science/2023/aug/11/scientists-fifth-force-nature)
+* [2023-08-11, 12:10:49](https://news.ycombinator.com/item?id=37087772) - [California allows robo-taxis to expand and emergency responders aren't happy](https://www.npr.org/2023/08/10/1193272085/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts)
 * [2023-08-11, 11:06:50](https://news.ycombinator.com/item?id=37087303) - [Feral desert donkeys are digging wells, giving water to parched wildlife](https://theconversation.com/feral-desert-donkeys-are-digging-wells-giving-water-to-parched-wildlife-159909)
 * [2023-08-11, 10:45:38](https://news.ycombinator.com/item?id=37087180) - [Abusing Zoom's Zero Touch Provisioning for Remote Attacks on Desk Phones](https://blog.syss.com/posts/zero-touch-pwn/)
 * [2023-08-11, 10:38:21](https://news.ycombinator.com/item?id=37087136) - [Shamir Secret Sharing – how PayPal nearly died](https://max.levch.in/post/724289457144070144/shamir-secret-sharing-its-3am-paul-the-head-of)
