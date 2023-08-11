@@ -1,11 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-11, 17:21:08](https://news.ycombinator.com/item?id=37091223) - [Ask HN: How do you handle tech use with your kids?](https://news.ycombinator.com/item?id=37091223)
 * [2023-08-11, 17:04:46](https://news.ycombinator.com/item?id=37091006) - [Apple TV's MLS Season Pass subscriptions doubled since Messi's arrival in US](https://www.engadget.com/apple-tvs-mls-season-pass-subscriptions-have-doubled-since-messis-arrival-in-the-us-150221673.html)
 * [2023-08-11, 17:00:39](https://news.ycombinator.com/item?id=37090948) - [Laylo (YC S20) Is Hiring a Lead Growth Engineer](https://www.ycombinator.com/companies/laylo/jobs/gIwhwtd-lead-growth-engineer)
 * [2023-08-11, 16:34:48](https://news.ycombinator.com/item?id=37090632) - [Fine-Tuning Llama-2: A Comprehensive Case Study for Tailoring Custom Models](https://www.anyscale.com/blog/fine-tuning-llama-2-a-comprehensive-case-study-for-tailoring-models-to-unique-applications)
 * [2023-08-11, 15:49:25](https://news.ycombinator.com/item?id=37090063) - [GSMA considers giving away mobile device locations through API](https://www.gsma.com/futurenetworks/gsma-open-gateway-api-descriptions/)
 * [2023-08-11, 15:43:20](https://news.ycombinator.com/item?id=37089985) - [Show HN: Obl.ong, Free, quality domains for all](https://obl.ong)
 * [2023-08-11, 15:30:34](https://news.ycombinator.com/item?id=37089817) - [Mpire: A Python package for easier and faster multiprocessing](https://github.com/sybrenjansen/mpire)
+* [2023-08-11, 15:29:38](https://news.ycombinator.com/item?id=37089808) - [Tic Tacs claim to have 0 sugar but are almost entirely sugar](https://twitter.com/pitdesi/status/1690011798643056640)
 * [2023-08-11, 15:24:28](https://news.ycombinator.com/item?id=37089739) - [Tailscale vs. Narrowlink](https://narrowlink.com/docs/comparisons/tailscale)
 * [2023-08-11, 15:07:33](https://news.ycombinator.com/item?id=37089545) - [YouTube-Dl Site Goes Offline as Hosting Provider Enforces Court-Ordered Ban](https://torrentfreak.com/youtube-dl-site-goes-offline-as-hosting-provider-enforces-court-ordered-ban-230809/)
 * [2023-08-11, 14:53:59](https://news.ycombinator.com/item?id=37089363) - [The crash of Air France flight 447 (2021)](https://admiralcloudberg.medium.com/the-long-way-down-the-crash-of-air-france-flight-447-8a7678c37982)
@@ -21,7 +23,6 @@
 * [2023-08-11, 07:11:38](https://news.ycombinator.com/item?id=37085966) - [The life of a lawyer in the late Roman republic](https://www.thecollector.com/life-lawyer-late-roman-republic/)
 * [2023-08-11, 05:37:34](https://news.ycombinator.com/item?id=37085449) - [Browsers barely care what HTTP status code your web pages are served with](https://utcc.utoronto.ca/~cks/space/blog/web/BrowsersAndHTTPStatusCodes)
 * [2023-08-11, 03:09:30](https://news.ycombinator.com/item?id=37084677) - [Firefox desktop extensions coming soon for the upcoming Android release](https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/)
-* [2023-08-11, 02:52:46](https://news.ycombinator.com/item?id=37084575) - [Git-appraise – Distributed Code Review for Git](https://github.com/google/git-appraise)
 * [2023-08-10, 23:56:03](https://news.ycombinator.com/item?id=37083309) - [Show HN: Tetris, but the blocks are ARM instructions that execute in the browser](https://ofrak.com/tetris/)
 * [2023-08-09, 16:48:46](https://news.ycombinator.com/item?id=37065391) - [Pentium floating-point division bug (1994)](https://en.wikipedia.org/wiki/Pentium_FDIV_bug)
 * [2023-08-09, 15:04:25](https://news.ycombinator.com/item?id=37063803) - [Lines of code that changed everything (2019)](https://slate.com/technology/2019/10/consequential-computer-code-software-history.html)
@@ -29,7 +30,6 @@
 * [2023-08-09, 13:59:15](https://news.ycombinator.com/item?id=37062755) - [Lessons From Linguistics: i18n Best Practices for Front-End Developers](https://shopify.engineering/internationalization-i18n-best-practices-front-end-developers)
 * [2023-08-09, 11:52:06](https://news.ycombinator.com/item?id=37061291) - [Raspberry Pi Hunts Shiny Pokémon While You Sleep](https://www.tomshardware.com/news/raspberry-pi-hunts-shiny-pokemon-while-you-sleep)
 * [2023-08-08, 22:16:19](https://news.ycombinator.com/item?id=37056205) - [The PhD Octopus (1903)](https://la.utexas.edu/users/hcleaver/330T/350kPEEJamesOctopusTable.pdf)
-* [2023-08-08, 17:17:58](https://news.ycombinator.com/item?id=37052425) - [Reverse Engineering the Apple Multipeer Connectivity Framework (2022)](https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/)
 
 ## [Archives](archives/index.md)
 
