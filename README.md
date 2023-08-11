@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-11, 10:12:39](https://news.ycombinator.com/item?id=37086982) - [Dramatic rise in cancer in people under 50](https://news.harvard.edu/gazette/story/2022/09/researchers-report-dramatic-rise-in-early-onset-cancers/)
 * [2023-08-11, 09:38:29](https://news.ycombinator.com/item?id=37086796) - [Fastest Branchless Binary Search](https://mhdm.dev/posts/sb_lower_bound/)
 * [2023-08-11, 08:15:43](https://news.ycombinator.com/item?id=37086308) - [Artificial General Intelligence – A gentle introduction](https://cis.temple.edu/~pwang/AGI-Intro.html)
 * [2023-08-11, 08:13:53](https://news.ycombinator.com/item?id=37086301) - [The Bipolar Lisp Programmer](https://www.marktarver.com/bipolar.html)
@@ -18,7 +19,6 @@
 * [2023-08-10, 21:05:20](https://news.ycombinator.com/item?id=37081789) - [My Overkill Home Network](https://blog.networkprofile.org/my-home-network-complete-details-2023/)
 * [2023-08-10, 20:26:37](https://news.ycombinator.com/item?id=37081306) - [HashiCorp adopts Business Source License](https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license)
 * [2023-08-10, 20:12:22](https://news.ycombinator.com/item?id=37081129) - [Amiga runs Michigan schools' heating and air conditioning systems (2015)](https://www.woodtv.com/news/grand-rapids/1980s-computer-controls-grps-heat-and-ac/)
-* [2023-08-10, 17:59:07](https://news.ycombinator.com/item?id=37079534) - [eSignature Beta for Google Docs and Google Drive](https://workspaceupdates.googleblog.com/2023/08/esignature-google-docs-google-drive.html)
 * [2023-08-10, 17:02:14](https://news.ycombinator.com/item?id=37078719) - [Vim Boss](https://neovim.io/news/2023/08)
 * [2023-08-10, 14:35:25](https://news.ycombinator.com/item?id=37076693) - [Launch HN: Rubbrband (YC W23) – Deformity detection for AI-generated images](https://news.ycombinator.com/item?id=37076693)
 * [2023-08-10, 05:38:59](https://news.ycombinator.com/item?id=37072374) - [Private equity: A fee too far [pdf]](https://www.russellsage.org/sites/all/files/RSF-Bulletin/Chassany-Sender-FT-2014.pdf)

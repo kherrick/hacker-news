@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-11](index.md)
 
+* [2023-08-11, 10:12:39](https://news.ycombinator.com/item?id=37086982) - [Dramatic rise in cancer in people under 50](https://news.harvard.edu/gazette/story/2022/09/researchers-report-dramatic-rise-in-early-onset-cancers/)
 * [2023-08-11, 09:38:29](https://news.ycombinator.com/item?id=37086796) - [Fastest Branchless Binary Search](https://mhdm.dev/posts/sb_lower_bound/)
 * [2023-08-11, 08:15:43](https://news.ycombinator.com/item?id=37086308) - [Artificial General Intelligence – A gentle introduction](https://cis.temple.edu/~pwang/AGI-Intro.html)
 * [2023-08-11, 08:13:53](https://news.ycombinator.com/item?id=37086301) - [The Bipolar Lisp Programmer](https://www.marktarver.com/bipolar.html)
