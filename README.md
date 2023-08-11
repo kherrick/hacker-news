@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-11, 19:52:43](https://news.ycombinator.com/item?id=37093197) - [256TB SSD from Samsung](https://semiconductor.samsung.com/news-events/tech-blog/samsung-announces-innovations-to-enhance-memory-customer-experience-in-data-centric-era-at-fms-2023/)
 * [2023-08-11, 19:41:26](https://news.ycombinator.com/item?id=37093049) - [Sam Bankman-Fried to Be Sent to Jail After Judge Revokes Bail](https://www.nytimes.com/2023/08/11/technology/sam-bankman-fried-to-be-sent-to-jail-after-judge-revokes-bail.html)
 * [2023-08-11, 19:28:46](https://news.ycombinator.com/item?id=37092861) - [Judge to revoke bail for FTX founder Sam Bankman-Fried over witness tampering](https://www.cnbc.com/2023/08/11/judge-to-revoke-bail-for-ftx-founder-sam-bankman-fried-over-witness-tampering.html)
 * [2023-08-11, 18:46:33](https://news.ycombinator.com/item?id=37092319) - [The inability to simultaneously verify sentience, location, and identity](https://arxiv.org/abs/2308.02202)
@@ -25,7 +26,6 @@
 * [2023-08-10, 23:56:03](https://news.ycombinator.com/item?id=37083309) - [Show HN: Tetris, but the blocks are ARM instructions that execute in the browser](https://ofrak.com/tetris/)
 * [2023-08-10, 04:03:49](https://news.ycombinator.com/item?id=37071808) - [The history and context of Aleksandr Afanasev’s obscene Russian folktales](https://www.laphamsquarterly.org/roundtable/man-people)
 * [2023-08-09, 15:04:25](https://news.ycombinator.com/item?id=37063803) - [Lines of code that changed everything (2019)](https://slate.com/technology/2019/10/consequential-computer-code-software-history.html)
-* [2023-08-09, 14:46:01](https://news.ycombinator.com/item?id=37063502) - [Oscilloscope Music](https://oscilloscopemusic.com/)
 * [2023-08-09, 13:59:15](https://news.ycombinator.com/item?id=37062755) - [Lessons From Linguistics: i18n Best Practices for Front-End Developers](https://shopify.engineering/internationalization-i18n-best-practices-front-end-developers)
 * [2023-08-09, 11:52:06](https://news.ycombinator.com/item?id=37061291) - [Raspberry Pi Hunts Shiny Pokémon While You Sleep](https://www.tomshardware.com/news/raspberry-pi-hunts-shiny-pokemon-while-you-sleep)
 * [2023-08-09, 00:06:06](https://news.ycombinator.com/item?id=37057135) - [Antipsychotic drug efficacy correlates with modulation of D1 not D2 receptor](https://www.wired.com/story/everyone-was-wrong-about-antipsychotics/)
