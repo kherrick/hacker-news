@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-11, 19:52:43](https://news.ycombinator.com/item?id=37093197) - [256TB SSD from Samsung](https://semiconductor.samsung.com/news-events/tech-blog/samsung-announces-innovations-to-enhance-memory-customer-experience-in-data-centric-era-at-fms-2023/)
+* [2023-08-11, 19:50:42](https://news.ycombinator.com/item?id=37093163) - [Sam Bankman-Fried Sent Back to Jail After Leaking Diary of Ex-Lover](https://themessenger.com/business/sbf-thrown-in-jail-for-tampering-with-star-witness-in-upcoming-fraud-trial)
 * [2023-08-11, 19:41:26](https://news.ycombinator.com/item?id=37093049) - [Sam Bankman-Fried to Be Sent to Jail After Judge Revokes Bail](https://www.nytimes.com/2023/08/11/technology/sam-bankman-fried-to-be-sent-to-jail-after-judge-revokes-bail.html)
 * [2023-08-11, 19:28:46](https://news.ycombinator.com/item?id=37092861) - [Judge to revoke bail for FTX founder Sam Bankman-Fried over witness tampering](https://www.cnbc.com/2023/08/11/judge-to-revoke-bail-for-ftx-founder-sam-bankman-fried-over-witness-tampering.html)
 * [2023-08-11, 18:46:33](https://news.ycombinator.com/item?id=37092319) - [The inability to simultaneously verify sentience, location, and identity](https://arxiv.org/abs/2308.02202)
@@ -15,7 +16,6 @@
 * [2023-08-11, 17:00:39](https://news.ycombinator.com/item?id=37090948) - [Laylo (YC S20) Is Hiring a Lead Growth Engineer](https://www.ycombinator.com/companies/laylo/jobs/gIwhwtd-lead-growth-engineer)
 * [2023-08-11, 16:44:18](https://news.ycombinator.com/item?id=37090754) - [Infisical – open-source HashiCorp Vault alternative](https://github.com/Infisical/infisical)
 * [2023-08-11, 16:34:48](https://news.ycombinator.com/item?id=37090632) - [Fine-Tuning Llama-2: A Comprehensive Case Study for Tailoring Custom Models](https://www.anyscale.com/blog/fine-tuning-llama-2-a-comprehensive-case-study-for-tailoring-models-to-unique-applications)
-* [2023-08-11, 15:50:31](https://news.ycombinator.com/item?id=37090078) - [Z-Library Petitions U.S. and Argentina to Cease ‘Illegal’ Criminal Prosecution](https://torrentfreak.com/z-library-petitions-u-s-and-argentina-to-cease-illegal-criminal-prosecution-230811/)
 * [2023-08-11, 15:49:25](https://news.ycombinator.com/item?id=37090063) - [GSMA considers giving away mobile device locations through API](https://www.gsma.com/futurenetworks/gsma-open-gateway-api-descriptions/)
 * [2023-08-11, 15:30:34](https://news.ycombinator.com/item?id=37089817) - [Mpire: A Python package for easier and faster multiprocessing](https://github.com/sybrenjansen/mpire)
 * [2023-08-11, 15:24:28](https://news.ycombinator.com/item?id=37089739) - [Tailscale vs. Narrowlink](https://narrowlink.com/docs/comparisons/tailscale)
