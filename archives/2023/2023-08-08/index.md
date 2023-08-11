@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-08](index.md)
 
+* [2023-08-08, 23:50:03](https://news.ycombinator.com/item?id=37057010) - [Blaise Pascal: The Infinite Spaces, Alienation, and the Wager](https://academyofideas.com/2016/03/blaise-pascal-the-infinite-spaces-alienation-and-the-wager/)
 * [2023-08-08, 21:57:10](https://news.ycombinator.com/item?id=37055989) - [Unity Weta Tools](https://unity.com/solutions/unity-weta-tools)
 * [2023-08-08, 21:52:13](https://news.ycombinator.com/item?id=37055941) - [War Music: Homer and His Iliad](https://literaryreview.co.uk/war-music)
 * [2023-08-08, 21:11:30](https://news.ycombinator.com/item?id=37055514) - [LK-99: Phonon Bands, Localized Flat Band Magnetism, Models, & Chemical Analysis](https://drive.google.com/file/d/1ekD2KVV_SUid2wH__o1ODS3hTl1GUFb5/view)
