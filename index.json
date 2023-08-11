@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-11, 04:25:58",
+      "https://news.ycombinator.com/item?id=37085097"
+    ],
+    [
+      "Websites and APIs on Render are unavailable due to Cloudflare network errors",
+      "https://status.render.com/incidents/cshql6qwnldj"
+    ]
+  ],
+  [
+    [
       "2023-08-11, 03:09:30",
       "https://news.ycombinator.com/item?id=37084677"
     ],
@@ -57,16 +67,6 @@
     [
       "Source code for Quake 2 rerelease",
       "https://github.com/id-Software/quake2-rerelease-dll"
-    ]
-  ],
-  [
-    [
-      "2023-08-10, 21:58:31",
-      "https://news.ycombinator.com/item?id=37082304"
-    ],
-    [
-      "WipEout (1995) Source Code Rewrite",
-      "https://phoboslab.org/log/2023/08/rewriting-wipeout"
     ]
   ],
   [
@@ -151,32 +151,12 @@
   ],
   [
     [
-      "2023-08-10, 19:43:23",
-      "https://news.ycombinator.com/item?id=37080790"
-    ],
-    [
-      "Muon g-2 doubles down with latest measurement, explores uncharted territory",
-      "https://news.fnal.gov/2023/08/muon-g-2-doubles-down-with-latest-measurement/"
-    ]
-  ],
-  [
-    [
       "2023-08-10, 19:07:38",
       "https://news.ycombinator.com/item?id=37080404"
     ],
     [
       "Turns out lowly thymus may be saving your life",
       "https://news.harvard.edu/gazette/story/2023/08/turns-out-lowly-thymus-may-be-saving-your-life/"
-    ]
-  ],
-  [
-    [
-      "2023-08-10, 19:01:33",
-      "https://news.ycombinator.com/item?id=37080331"
-    ],
-    [
-      "Median Center of Population for the United States: 1880 to 2020 (2021)",
-      "https://www.census.gov/library/visualizations/2020/geo/center-of-population-1880-2020.html"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2023-08-10, 14:35:25",
+      "https://news.ycombinator.com/item?id=37076693"
+    ],
+    [
+      "Launch HN: Rubbrband (YC W23) – Deformity detection for AI-generated images",
+      "https://news.ycombinator.com/item?id=37076693"
+    ]
+  ],
+  [
+    [
       "2023-08-10, 13:56:24",
       "https://news.ycombinator.com/item?id=37076210"
     ],
@@ -257,6 +247,16 @@
     [
       "Robbie Robertson has died",
       "https://www.nytimes.com/2023/08/09/arts/music/robbie-robertson-dead.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-09, 16:48:46",
+      "https://news.ycombinator.com/item?id=37065391"
+    ],
+    [
+      "Pentium floating-point division bug (1994)",
+      "https://en.wikipedia.org/wiki/Pentium_FDIV_bug"
     ]
   ],
   [
