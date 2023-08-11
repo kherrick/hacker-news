@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-11, 18:15:39](https://news.ycombinator.com/item?id=37091958) - [Israeli startups are moving jobs and money out of the country. Here’s why](https://www.cnn.com/2023/08/11/middleeast/israel-political-crisis-startups-mime-intl/index.html)
-* [2023-08-11, 17:55:26](https://news.ycombinator.com/item?id=37091679) - [Pornhub Sues Texas over Age Verification Law](https://www.vice.com/en/article/pkazpy/pornhub-sues-texas-over-age-verification-law)
 * [2023-08-11, 17:25:57](https://news.ycombinator.com/item?id=37091291) - [I Fixed a 3-year-old bug in Windows Calculator and Microsoft Couldn't Care Less!](https://dhikshith.medium.com/i-fixed-a-3-year-old-bug-in-windows-calculator-and-microsoft-open-source-doesnt-care-a6858584470d)
+* [2023-08-11, 17:21:02](https://news.ycombinator.com/item?id=37091221) - [PlayHT2.0: State-of-the-Art Generative Voice AI Model for Conversational Speech](https://news.play.ht/post/introducing-playht2-0-the-state-of-the-art-generative-voice-ai-model-for-conversational-speech)
 * [2023-08-11, 17:10:56](https://news.ycombinator.com/item?id=37091091) - [Virtualizing Uxn](https://eighty-twenty.org/2023/08/11/virtualizing-uxn)
 * [2023-08-11, 17:04:46](https://news.ycombinator.com/item?id=37091006) - [Apple TV's MLS Season Pass subscriptions doubled since Messi's arrival in US](https://www.engadget.com/apple-tvs-mls-season-pass-subscriptions-have-doubled-since-messis-arrival-in-the-us-150221673.html)
 * [2023-08-11, 17:00:39](https://news.ycombinator.com/item?id=37090948) - [Laylo (YC S20) Is Hiring a Lead Growth Engineer](https://www.ycombinator.com/companies/laylo/jobs/gIwhwtd-lead-growth-engineer)
@@ -13,7 +13,7 @@
 * [2023-08-11, 15:30:34](https://news.ycombinator.com/item?id=37089817) - [Mpire: A Python package for easier and faster multiprocessing](https://github.com/sybrenjansen/mpire)
 * [2023-08-11, 15:24:28](https://news.ycombinator.com/item?id=37089739) - [Tailscale vs. Narrowlink](https://narrowlink.com/docs/comparisons/tailscale)
 * [2023-08-11, 15:07:33](https://news.ycombinator.com/item?id=37089545) - [YouTube-Dl Site Goes Offline as Hosting Provider Enforces Court-Ordered Ban](https://torrentfreak.com/youtube-dl-site-goes-offline-as-hosting-provider-enforces-court-ordered-ban-230809/)
-* [2023-08-11, 14:53:59](https://news.ycombinator.com/item?id=37089363) - [The crash of Air France flight 447 (2021)](https://admiralcloudberg.medium.com/the-long-way-down-the-crash-of-air-france-flight-447-8a7678c37982)
+* [2023-08-11, 13:56:06](https://news.ycombinator.com/item?id=37088716) - [Want to pwn a satellite? Turns out it's surprisingly easy](https://www.theregister.com/2023/08/11/satellite_hacking_black_hat/)
 * [2023-08-11, 13:37:15](https://news.ycombinator.com/item?id=37088548) - [What HashiCorp’s license change means for our customers](https://spacelift.io/blog/hashicorps-license-change)
 * [2023-08-11, 12:46:33](https://news.ycombinator.com/item?id=37088087) - [Launch HN: Wondercraft (YC S22) – Use text-to-speech to create podcasts easily](https://news.ycombinator.com/item?id=37088087)
 * [2023-08-11, 11:06:50](https://news.ycombinator.com/item?id=37087303) - [Feral desert donkeys are digging wells, giving water to parched wildlife (2021)](https://theconversation.com/feral-desert-donkeys-are-digging-wells-giving-water-to-parched-wildlife-159909)
