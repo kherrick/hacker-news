@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-11](index.md)
 
+* [2023-08-11, 18:36:42](https://news.ycombinator.com/item?id=37092212) - [Wendelstein 7-X: Gigajoule energy turnover generated for eight minutes](https://www.ipp.mpg.de/5322229/01_23)
+* [2023-08-11, 18:22:03](https://news.ycombinator.com/item?id=37092027) - [Why is division so much more complex than other arithmetic operations?](https://scicomp.stackexchange.com/questions/187/why-is-division-so-much-more-complex-than-other-arithmetic-operations)
+* [2023-08-11, 18:18:34](https://news.ycombinator.com/item?id=37091989) - [RFC 9446 Reflections on Ten Years Past the Snowden Revelations](https://www.rfc-editor.org/rfc/rfc9446.html)
+* [2023-08-11, 18:18:02](https://news.ycombinator.com/item?id=37091983) - [Squeeze the hell out of the system you have](https://blog.danslimmon.com/2023/08/11/squeeze-the-hell-out-of-the-system-you-have/#like-2777)
 * [2023-08-11, 18:15:39](https://news.ycombinator.com/item?id=37091958) - [Israeli startups are moving jobs and money out of the country. Here’s why](https://www.cnn.com/2023/08/11/middleeast/israel-political-crisis-startups-mime-intl/index.html)
 * [2023-08-11, 17:55:26](https://news.ycombinator.com/item?id=37091679) - [Pornhub Sues Texas over Age Verification Law](https://www.vice.com/en/article/pkazpy/pornhub-sues-texas-over-age-verification-law)
 * [2023-08-11, 17:25:57](https://news.ycombinator.com/item?id=37091291) - [I Fixed a 3-year-old bug in Windows Calculator and Microsoft Couldn't Care Less!](https://dhikshith.medium.com/i-fixed-a-3-year-old-bug-in-windows-calculator-and-microsoft-open-source-doesnt-care-a6858584470d)
