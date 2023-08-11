@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-11, 20:08:25](https://news.ycombinator.com/item?id=37093365) - [Half-Edge Data Structures](https://jerryyin.info/geometry-processing-algorithms/half-edge/)
 * [2023-08-11, 19:52:43](https://news.ycombinator.com/item?id=37093197) - [256TB SSD from Samsung](https://semiconductor.samsung.com/news-events/tech-blog/samsung-announces-innovations-to-enhance-memory-customer-experience-in-data-centric-era-at-fms-2023/)
 * [2023-08-11, 19:50:42](https://news.ycombinator.com/item?id=37093163) - [Sam Bankman-Fried Sent Back to Jail After Leaking Diary of Ex-Lover](https://themessenger.com/business/sbf-thrown-in-jail-for-tampering-with-star-witness-in-upcoming-fraud-trial)
 * [2023-08-11, 19:41:26](https://news.ycombinator.com/item?id=37093049) - [Sam Bankman-Fried to Be Sent to Jail After Judge Revokes Bail](https://www.nytimes.com/2023/08/11/technology/sam-bankman-fried-to-be-sent-to-jail-after-judge-revokes-bail.html)
@@ -9,7 +10,6 @@
 * [2023-08-11, 18:22:03](https://news.ycombinator.com/item?id=37092027) - [Why is division so much more complex than other arithmetic operations?](https://scicomp.stackexchange.com/questions/187/why-is-division-so-much-more-complex-than-other-arithmetic-operations)
 * [2023-08-11, 18:18:34](https://news.ycombinator.com/item?id=37091989) - [RFC 9446 Reflections on Ten Years Past the Snowden Revelations](https://www.rfc-editor.org/rfc/rfc9446.html)
 * [2023-08-11, 18:18:02](https://news.ycombinator.com/item?id=37091983) - [Squeeze the hell out of the system you have](https://blog.danslimmon.com/2023/08/11/squeeze-the-hell-out-of-the-system-you-have/#like-2777)
-* [2023-08-11, 17:21:02](https://news.ycombinator.com/item?id=37091221) - [PlayHT2.0: State-of-the-Art Generative Voice AI Model for Conversational Speech](https://news.play.ht/post/introducing-playht2-0-the-state-of-the-art-generative-voice-ai-model-for-conversational-speech)
 * [2023-08-11, 17:12:43](https://news.ycombinator.com/item?id=37091122) - [Show HN: Pykoi – a Python library for LLM data collection and fine tuning](https://www.cambioml.com/pykoi/)
 * [2023-08-11, 17:10:56](https://news.ycombinator.com/item?id=37091091) - [Virtualizing Uxn](https://eighty-twenty.org/2023/08/11/virtualizing-uxn)
 * [2023-08-11, 17:07:15](https://news.ycombinator.com/item?id=37091042) - [A gentle introduction to information geometry](https://www.robots.ox.ac.uk/~lsgs/posts/2019-09-27-info-geom.html)
@@ -26,8 +26,8 @@
 * [2023-08-10, 23:56:03](https://news.ycombinator.com/item?id=37083309) - [Show HN: Tetris, but the blocks are ARM instructions that execute in the browser](https://ofrak.com/tetris/)
 * [2023-08-10, 04:03:49](https://news.ycombinator.com/item?id=37071808) - [The history and context of Aleksandr Afanasev’s obscene Russian folktales](https://www.laphamsquarterly.org/roundtable/man-people)
 * [2023-08-09, 15:04:25](https://news.ycombinator.com/item?id=37063803) - [Lines of code that changed everything (2019)](https://slate.com/technology/2019/10/consequential-computer-code-software-history.html)
-* [2023-08-09, 13:59:15](https://news.ycombinator.com/item?id=37062755) - [Lessons From Linguistics: i18n Best Practices for Front-End Developers](https://shopify.engineering/internationalization-i18n-best-practices-front-end-developers)
 * [2023-08-09, 11:52:06](https://news.ycombinator.com/item?id=37061291) - [Raspberry Pi Hunts Shiny Pokémon While You Sleep](https://www.tomshardware.com/news/raspberry-pi-hunts-shiny-pokemon-while-you-sleep)
+* [2023-08-09, 03:12:24](https://news.ycombinator.com/item?id=37058293) - [Snellings Museum of Sound and Vision](https://www.snellingsmuseum.co.uk/)
 * [2023-08-09, 00:06:06](https://news.ycombinator.com/item?id=37057135) - [Antipsychotic drug efficacy correlates with modulation of D1 not D2 receptor](https://www.wired.com/story/everyone-was-wrong-about-antipsychotics/)
 * [2023-08-08, 22:16:19](https://news.ycombinator.com/item?id=37056205) - [The PhD Octopus (1903)](https://la.utexas.edu/users/hcleaver/330T/350kPEEJamesOctopusTable.pdf)
 

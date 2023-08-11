@@ -103,6 +103,7 @@
 * [2023-08-09, 04:40:19](https://news.ycombinator.com/item?id=37058773) - [John Preskill's retrospective on the black hole information paradox](https://quantumfrontiers.com/2023/08/08/it-from-qubit-the-last-harrah/)
 * [2023-08-09, 04:24:56](https://news.ycombinator.com/item?id=37058674) - [G9.js: Automatically Interactive Graphics](http://omrelli.ug/g9/gallery/)
 * [2023-08-09, 03:24:58](https://news.ycombinator.com/item?id=37058364) - [Using GPT as an HVAC control system](https://arxiv.org/abs/2308.03028)
+* [2023-08-09, 03:12:24](https://news.ycombinator.com/item?id=37058293) - [Snellings Museum of Sound and Vision](https://www.snellingsmuseum.co.uk/)
 * [2023-08-09, 03:07:50](https://news.ycombinator.com/item?id=37058278) - [Swap_8_and_9: A simple import can modify the Python interpreter](https://kenschutte.com/python-swap-ints/)
 * [2023-08-09, 02:50:52](https://news.ycombinator.com/item?id=37058171) - [Sensor Watch: a board swap for the classic Casio F-91W wristwatch](https://www.sensorwatch.net/)
 * [2023-08-09, 02:36:54](https://news.ycombinator.com/item?id=37058093) - [Sync Gear: How World War I Fighters Avoided Damaging Their Own Propellers](https://hartzellprop.com/synch-gear-world-war-fighters-avoided-damaging-propellers/)

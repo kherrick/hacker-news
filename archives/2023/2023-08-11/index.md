@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-11](index.md)
 
+* [2023-08-11, 20:08:25](https://news.ycombinator.com/item?id=37093365) - [Half-Edge Data Structures](https://jerryyin.info/geometry-processing-algorithms/half-edge/)
 * [2023-08-11, 19:52:43](https://news.ycombinator.com/item?id=37093197) - [256TB SSD from Samsung](https://semiconductor.samsung.com/news-events/tech-blog/samsung-announces-innovations-to-enhance-memory-customer-experience-in-data-centric-era-at-fms-2023/)
 * [2023-08-11, 19:50:42](https://news.ycombinator.com/item?id=37093163) - [Sam Bankman-Fried Sent Back to Jail After Leaking Diary of Ex-Lover](https://themessenger.com/business/sbf-thrown-in-jail-for-tampering-with-star-witness-in-upcoming-fraud-trial)
 * [2023-08-11, 19:41:26](https://news.ycombinator.com/item?id=37093049) - [Sam Bankman-Fried to Be Sent to Jail After Judge Revokes Bail](https://www.nytimes.com/2023/08/11/technology/sam-bankman-fried-to-be-sent-to-jail-after-judge-revokes-bail.html)
