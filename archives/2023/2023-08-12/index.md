@@ -20,6 +20,7 @@
 * [2023-08-12, 16:03:33](https://news.ycombinator.com/item?id=37101563) - [CLOS: Integrating Object-Oriented and Functional Programming (2004) [pdf]](https://dreamsongs.com/Files/clos-cacm.pdf)
 * [2023-08-12, 15:59:41](https://news.ycombinator.com/item?id=37101515) - [Deep Learning Systems (CMU Course)](https://dlsyscourse.org/lectures/)
 * [2023-08-12, 15:45:40](https://news.ycombinator.com/item?id=37101341) - [Jobs and Gates banned their kids from iPads and other devices they created](https://finance.yahoo.com/news/hidden-side-steve-jobs-bill-165424007.html)
+* [2023-08-12, 15:15:58](https://news.ycombinator.com/item?id=37101026) - [Far Manager: files and archives in Windows](https://www.farmanager.com/)
 * [2023-08-12, 15:14:44](https://news.ycombinator.com/item?id=37101012) - [Hollywood’s Cold War Dissidents in Ireland](https://www.historytoday.com/archive/history-matters/dangerous-reds)
 * [2023-08-12, 15:11:57](https://news.ycombinator.com/item?id=37100986) - [Vectorized UTF-8 Validation for Java](https://github.com/AugustNagro/utf8.java)
 * [2023-08-12, 15:09:48](https://news.ycombinator.com/item?id=37100965) - [Poor Clares Convent Cemetery](https://www.atlasobscura.com/places/poor-clares-cemetery)
