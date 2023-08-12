@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-12, 04:25:34](https://news.ycombinator.com/item?id=37097048) - [Sapphire Rapids Core-to-Core Latency](https://jprahman.substack.com/p/sapphire-rapids-core-to-core-latency)
 * [2023-08-12, 04:12:48](https://news.ycombinator.com/item?id=37096975) - [Leave It to the Beavers](https://isthmus.com/news/news/leave-it-to-the-beavers/)
 * [2023-08-12, 03:09:45](https://news.ycombinator.com/item?id=37096626) - [Fooocus: OSS for image generation by ControlNet author](https://github.com/lllyasviel/Fooocus)
 * [2023-08-12, 01:46:51](https://news.ycombinator.com/item?id=37096149) - [Our fight is far from over](https://blog.archive.org/2023/08/11/our-fight-is-far-from-over/)
@@ -8,7 +9,6 @@
 * [2023-08-12, 00:21:13](https://news.ycombinator.com/item?id=37095616) - [If it can be designed on a computer, it can be built by robots](https://www.economist.com/science-and-technology/2023/08/09/if-it-can-be-designed-on-a-computer-it-can-be-built-by-robots)
 * [2023-08-12, 00:08:13](https://news.ycombinator.com/item?id=37095542) - [Show HN: Open-source proxy server for Llama2, GPT-4, Claude2 with Logging,Cache](https://github.com/BerriAI/litellm/blob/main/cookbook/proxy-server/readme.md)
 * [2023-08-11, 23:32:53](https://news.ycombinator.com/item?id=37095302) - [We need scientific dissidents](https://www.chronicle.com/article/we-need-scientific-dissidents-now-more-than-ever)
-* [2023-08-11, 23:21:18](https://news.ycombinator.com/item?id=37095222) - [Larian's Unfair Advantage](https://credistick.com/larians-unfair-advantage/)
 * [2023-08-11, 23:12:23](https://news.ycombinator.com/item?id=37095169) - [Extracellular communication between brain cells through transfer of mRNA](https://www.biorxiv.org/content/10.1101/2023.01.29.525937v1)
 * [2023-08-11, 22:02:05](https://news.ycombinator.com/item?id=37094599) - [Pijul: Version-Control Post-Git • Goto 2023](https://www.youtube.com/watch?v=7MpdZkGj5AI)
 * [2023-08-11, 21:13:49](https://news.ycombinator.com/item?id=37094111) - [An Introduction to Graph Theory](https://arxiv.org/abs/2308.04512)
