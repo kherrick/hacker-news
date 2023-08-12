@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-12](index.md)
 
+* [2023-08-12, 21:00:07](https://news.ycombinator.com/item?id=37104185) - [Freshpaint (YC S19) Is Hiring Engineers to Build a HIPAA Compliant Data Platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-08-12, 20:10:51](https://news.ycombinator.com/item?id=37103802) - [Auditory illusions with examples from Daft Punk](https://www.ugu.rs/blog/auditory-illusions-with-samples-from-daft-punk/)
 * [2023-08-12, 20:09:28](https://news.ycombinator.com/item?id=37103793) - [Tijuana's illegal sewer hookups linked to cross-border pollution](https://www.kpbs.org/news/border-immigration/2023/08/10/tijuanas-illegal-sewer-hookups-linked-to-cross-border-pollution)
 * [2023-08-12, 18:37:54](https://news.ycombinator.com/item?id=37102974) - [Learning Algorithms](https://paedubucher.ch/articles/2023-07-29-learning-algorithms.html)

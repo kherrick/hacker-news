@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-12, 21:00:07](https://news.ycombinator.com/item?id=37104185) - [Freshpaint (YC S19) Is Hiring Engineers to Build a HIPAA Compliant Data Platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-08-12, 20:10:51](https://news.ycombinator.com/item?id=37103802) - [Auditory illusions with examples from Daft Punk](https://www.ugu.rs/blog/auditory-illusions-with-samples-from-daft-punk/)
 * [2023-08-12, 20:09:28](https://news.ycombinator.com/item?id=37103793) - [Tijuana's illegal sewer hookups linked to cross-border pollution](https://www.kpbs.org/news/border-immigration/2023/08/10/tijuanas-illegal-sewer-hookups-linked-to-cross-border-pollution)
 * [2023-08-12, 18:37:54](https://news.ycombinator.com/item?id=37102974) - [Learning Algorithms](https://paedubucher.ch/articles/2023-07-29-learning-algorithms.html)
 * [2023-08-12, 17:56:32](https://news.ycombinator.com/item?id=37102610) - [The US government is taking a step toward space-based nuclear propulsion](https://arstechnica.com/space/2023/07/nasa-seeks-to-launch-a-nuclear-powered-rocket-engine-in-four-years/)
 * [2023-08-12, 17:41:10](https://news.ycombinator.com/item?id=37102482) - [Tracing the roots of the 8086 instruction set to the Datapoint 2200 minicomputer](https://www.righto.com/2023/08/datapoint-to-8086.html)
 * [2023-08-12, 17:17:22](https://news.ycombinator.com/item?id=37102271) - [A conversation with a newspaper owner raided by cops](https://thehandbasket.substack.com/p/a-conversation-with-the-newspaper)
-* [2023-08-12, 17:00:06](https://news.ycombinator.com/item?id=37102090) - [Motion (YC W20) Is Hiring Software Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
 * [2023-08-12, 16:06:00](https://news.ycombinator.com/item?id=37101588) - [Exploring the Internals of Linux v0.01](https://seiya.me/blog/reading-linux-v0.01)
 * [2023-08-12, 16:03:33](https://news.ycombinator.com/item?id=37101563) - [CLOS: Integrating Object-Oriented and Functional Programming (2004) [pdf]](https://dreamsongs.com/Files/clos-cacm.pdf)
 * [2023-08-12, 15:59:41](https://news.ycombinator.com/item?id=37101515) - [Deep Learning Systems (CMU Course)](https://dlsyscourse.org/lectures/)
@@ -29,7 +29,7 @@
 * [2023-08-11, 07:48:59](https://news.ycombinator.com/item?id=37086176) - [Sorting in Emacs](https://susam.net/blog/sorting-in-emacs.html)
 * [2023-08-11, 06:22:17](https://news.ycombinator.com/item?id=37085687) - [The Character Generator ROM](https://www.atariarchives.org/cgp/Ch02_Sec04.php)
 * [2023-08-11, 06:09:20](https://news.ycombinator.com/item?id=37085618) - [The Downsides of C++ Coroutines](https://reductor.dev/cpp/2023/08/10/the-downsides-of-coroutines.html)
-* [2023-08-10, 15:41:07](https://news.ycombinator.com/item?id=37077622) - [The Oregon Resilience Plan (2013) [pdf]](https://www.oregon.gov/oem/documents/oregon_resilience_plan_final.pdf)
+* [2023-08-09, 07:44:21](https://news.ycombinator.com/item?id=37059742) - [Special Relativity: Lorentz Transformations (2018) [video]](https://www.youtube.com/watch?v=Rh0pYtQG5wI)
 
 ## [Archives](archives/index.md)
 
