@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-12](index.md)
 
+* [2023-08-12, 13:07:26](https://news.ycombinator.com/item?id=37099780) - [Harvard University Richest in World Encourages Students to Go on Food Stamps](https://finance.yahoo.com/news/harvard-university-encourages-students-food-171022208.html)
 * [2023-08-12, 12:45:36](https://news.ycombinator.com/item?id=37099626) - [Rectify11 Improving upon the Windows 11 experience](https://rectify11.net)
 * [2023-08-12, 12:42:20](https://news.ycombinator.com/item?id=37099604) - [AML works, even if it intercepts less than 1% of criminal proceeds](http://jpkoning.blogspot.com/2023/08/aml-works-even-if-it-intercepts-less.html)
 * [2023-08-12, 12:30:12](https://news.ycombinator.com/item?id=37099518) - [San Franciscans Are Having Sex in Robotaxis, and Nobody Is Talking About It](https://sfstandard.com/2023/08/11/san-francisco-robotaxi-cruise-debauchery/)
