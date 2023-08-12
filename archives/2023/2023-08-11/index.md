@@ -80,6 +80,7 @@
 * [2023-08-11, 07:48:59](https://news.ycombinator.com/item?id=37086176) - [Sorting in Emacs](https://susam.net/blog/sorting-in-emacs.html)
 * [2023-08-11, 07:11:38](https://news.ycombinator.com/item?id=37085966) - [The Life of a Lawyer in the Late Roman Republic](https://www.thecollector.com/life-lawyer-late-roman-republic/)
 * [2023-08-11, 06:22:17](https://news.ycombinator.com/item?id=37085687) - [The Character Generator ROM](https://www.atariarchives.org/cgp/Ch02_Sec04.php)
+* [2023-08-11, 06:09:20](https://news.ycombinator.com/item?id=37085618) - [The Downsides of C++ Coroutines](https://reductor.dev/cpp/2023/08/10/the-downsides-of-coroutines.html)
 * [2023-08-11, 06:07:52](https://news.ycombinator.com/item?id=37085604) - [Objective-C Internals](https://alwaysprocessing.blog/series/objc-internals)
 * [2023-08-11, 05:37:34](https://news.ycombinator.com/item?id=37085449) - [Browsers barely care what HTTP status code your web pages are served with](https://utcc.utoronto.ca/~cks/space/blog/web/BrowsersAndHTTPStatusCodes)
 * [2023-08-11, 04:34:51](https://news.ycombinator.com/item?id=37085144) - [Oils 0.17.0 – YSH Is Becoming Real](https://www.oilshell.org/blog/2023/08/release-0.17.0.html)
