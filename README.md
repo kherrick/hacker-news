@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-12, 17:37:25](https://news.ycombinator.com/item?id=37102442) - [My $0->$100M->$0 in 5 years story](https://old.reddit.com/r/startups/comments/15p8qrx/my_0100m0_in_5_years_story/)
 * [2023-08-12, 17:17:22](https://news.ycombinator.com/item?id=37102271) - [Paper investigating police chief prior to the raids on his office and home](https://thehandbasket.substack.com/p/a-conversation-with-the-newspaper)
 * [2023-08-12, 17:00:06](https://news.ycombinator.com/item?id=37102090) - [Motion (YC W20) Is Hiring Software Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
 * [2023-08-12, 16:06:00](https://news.ycombinator.com/item?id=37101588) - [Exploring the Internals of Linux v0.01](https://seiya.me/blog/reading-linux-v0.01)
@@ -22,7 +23,6 @@
 * [2023-08-12, 04:12:48](https://news.ycombinator.com/item?id=37096975) - [Leave It to the Beavers](https://isthmus.com/news/news/leave-it-to-the-beavers/)
 * [2023-08-12, 03:09:45](https://news.ycombinator.com/item?id=37096626) - [Fooocus: OSS for image generation by ControlNet author](https://github.com/lllyasviel/Fooocus)
 * [2023-08-11, 23:32:53](https://news.ycombinator.com/item?id=37095302) - [We need scientific dissidents](https://www.chronicle.com/article/we-need-scientific-dissidents-now-more-than-ever)
-* [2023-08-11, 19:15:35](https://news.ycombinator.com/item?id=37092687) - [The Frothy Saga of the Jacuzzi Family](https://www.nytimes.com/2023/08/11/style/the-frothy-saga-of-the-jacuzzi-family.html)
 * [2023-08-11, 11:29:48](https://news.ycombinator.com/item?id=37087459) - [I'm OK, the bull is dead (2004)](https://www.computerworld.com/article/2565077/i-m-ok--the-bull-is-dead.html)
 * [2023-08-11, 09:30:44](https://news.ycombinator.com/item?id=37086753) - [Show HN: Pip Imports in Deno](https://github.com/denosaurs/deno_python)
 * [2023-08-11, 07:48:59](https://news.ycombinator.com/item?id=37086176) - [Sorting in Emacs](https://susam.net/blog/sorting-in-emacs.html)
