@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-12](index.md)
 
 * [2023-08-12, 21:13:35](https://news.ycombinator.com/item?id=37104275) - [Understanding ActivityPub Part 1: Protocol Fundamentals](https://seb.jambor.dev/posts/understanding-activitypub/)
+* [2023-08-12, 21:11:35](https://news.ycombinator.com/item?id=37104264) - [OP drew these corals with mathematical equations](https://twitter.com/naderi_yeganeh/status/1690296100496838656)
 * [2023-08-12, 21:00:07](https://news.ycombinator.com/item?id=37104185) - [Freshpaint (YC S19) Is Hiring Engineers to Build a HIPAA Compliant Data Platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-08-12, 20:10:51](https://news.ycombinator.com/item?id=37103802) - [Auditory illusions with examples from Daft Punk](https://www.ugu.rs/blog/auditory-illusions-with-samples-from-daft-punk/)
 * [2023-08-12, 20:09:28](https://news.ycombinator.com/item?id=37103793) - [Tijuana's illegal sewer hookups linked to cross-border pollution](https://www.kpbs.org/news/border-immigration/2023/08/10/tijuanas-illegal-sewer-hookups-linked-to-cross-border-pollution)
@@ -21,6 +22,7 @@
 * [2023-08-12, 15:45:40](https://news.ycombinator.com/item?id=37101341) - [Jobs and Gates banned their kids from iPads and other devices they created](https://finance.yahoo.com/news/hidden-side-steve-jobs-bill-165424007.html)
 * [2023-08-12, 15:14:44](https://news.ycombinator.com/item?id=37101012) - [Hollywood’s Cold War Dissidents in Ireland](https://www.historytoday.com/archive/history-matters/dangerous-reds)
 * [2023-08-12, 15:11:57](https://news.ycombinator.com/item?id=37100986) - [Vectorized UTF-8 Validation for Java](https://github.com/AugustNagro/utf8.java)
+* [2023-08-12, 15:09:48](https://news.ycombinator.com/item?id=37100965) - [Poor Clares Convent Cemetery](https://www.atlasobscura.com/places/poor-clares-cemetery)
 * [2023-08-12, 14:50:09](https://news.ycombinator.com/item?id=37100757) - [Postgres Audit Tables Saved Us from Taking Down Production](https://www.heap.io/blog/how-postgres-audit-tables-saved-us-from-taking-down-production)
 * [2023-08-12, 14:39:26](https://news.ycombinator.com/item?id=37100641) - [Securing Your PostgreSQL DB with Roles and Privileges](https://rlopzc.com/posts/securing-your-postgresql-db-with-roles--privileges/)
 * [2023-08-12, 14:32:39](https://news.ycombinator.com/item?id=37100565) - [NASA's Software Catalog offers hundreds of new software programs for free](https://software.nasa.gov/)
