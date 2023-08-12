@@ -12,6 +12,7 @@
 * [2023-08-12, 12:00:57](https://news.ycombinator.com/item?id=37099312) - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
 * [2023-08-12, 11:29:53](https://news.ycombinator.com/item?id=37099086) - [Microsoft Continues Right to Repair About Face, Makes Its Hardware Easier to Fix](https://www.techdirt.com/2023/08/11/microsoft-continues-about-face-on-right-to-repair-makes-its-hardware-easier-to-fix/)
 * [2023-08-12, 11:16:26](https://news.ycombinator.com/item?id=37099013) - [Confidence in U.S. Military Lowest in over Two Decades](https://news.gallup.com/poll/509189/confidence-military-lowest-two-decades.aspx)
+* [2023-08-12, 11:01:20](https://news.ycombinator.com/item?id=37098925) - [Sound Transmission Through Vacuum](https://www.jyu.fi/en/current/archive/2023/08/physicists-at-the-university-of-jyvaskyla-demonstrate-how-sound-can-be-transmitted-through-vacuum)
 * [2023-08-12, 10:51:56](https://news.ycombinator.com/item?id=37098875) - [tRPC – Move Fast and Break Nothing. End-to-end typesafe APIs made easy](https://trpc.io/)
 * [2023-08-12, 10:07:08](https://news.ycombinator.com/item?id=37098663) - [Build declaratively back ends and APIs with GraphQL or REST](https://github.com/metatypedev/metatype)
 * [2023-08-12, 09:49:26](https://news.ycombinator.com/item?id=37098591) - [I feel like I made a mistake investing professionally into Flutter](https://reddit.com/r/FlutterDev/comments/15njq61/i_feel_like_i_mad_a_mistake_investing/)
