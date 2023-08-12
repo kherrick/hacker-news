@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-12](index.md)
 
+* [2023-08-12, 18:37:54](https://news.ycombinator.com/item?id=37102974) - [Learning Algorithms](https://paedubucher.ch/articles/2023-07-29-learning-algorithms.html)
 * [2023-08-12, 17:56:32](https://news.ycombinator.com/item?id=37102610) - [US Government is taking serious step toward space-based nuclear propulsion](https://arstechnica.com/space/2023/07/nasa-seeks-to-launch-a-nuclear-powered-rocket-engine-in-four-years/)
+* [2023-08-12, 17:49:14](https://news.ycombinator.com/item?id=37102554) - [What's your go to Nix/NixOS pitch?](https://discourse.nixos.org/t/whats-your-go-to-nix-nixos-pitch/31565)
 * [2023-08-12, 17:41:10](https://news.ycombinator.com/item?id=37102482) - [Tracing the roots of the 8086 instruction set to the Datapoint 2200 minicomputer](https://www.righto.com/2023/08/datapoint-to-8086.html)
 * [2023-08-12, 17:37:25](https://news.ycombinator.com/item?id=37102442) - [My $0->$100M->$0 in 5 years story](https://old.reddit.com/r/startups/comments/15p8qrx/my_0100m0_in_5_years_story/)
 * [2023-08-12, 17:17:22](https://news.ycombinator.com/item?id=37102271) - [Paper investigating police chief prior to the raids on his office and home](https://thehandbasket.substack.com/p/a-conversation-with-the-newspaper)
