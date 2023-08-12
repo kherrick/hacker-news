@@ -5,10 +5,12 @@
 ### [Archives](../../index.md) for [2023-08-12](index.md)
 
 * [2023-08-12, 14:39:26](https://news.ycombinator.com/item?id=37100641) - [Securing Your PostgreSQL DB with Roles and Privileges](https://rlopzc.com/posts/securing-your-postgresql-db-with-roles--privileges/)
+* [2023-08-12, 14:32:39](https://news.ycombinator.com/item?id=37100565) - [NASA's Software Catalog offers hundreds of new software programs for free](https://software.nasa.gov/)
 * [2023-08-12, 13:57:18](https://news.ycombinator.com/item?id=37100226) - [The Carrot Problem](https://www.atvbt.com/the-carrot-problem/)
 * [2023-08-12, 13:50:13](https://news.ycombinator.com/item?id=37100153) - [Chinese Trust Companies on the Brink](https://www.asiamarkets.com/chinese-trust-companies-on-the-brink-looming-bankruptcies-bigger-than-evergrande/)
 * [2023-08-12, 13:49:10](https://news.ycombinator.com/item?id=37100140) - [Record Labels Hit Internet Archive with New $400M+ Copyright Lawsuit](https://torrentfreak.com/record-labels-hit-internet-archive-with-new-400m-copyright-lawsuit-230812/)
 * [2023-08-12, 13:07:26](https://news.ycombinator.com/item?id=37099780) - [Harvard University Richest in World Encourages Students to Go on Food Stamps](https://finance.yahoo.com/news/harvard-university-encourages-students-food-171022208.html)
+* [2023-08-12, 13:04:21](https://news.ycombinator.com/item?id=37099761) - [Notes on running a single-person Mastodon server](https://jvns.ca/blog/2023/08/11/some-notes-on-mastodon/)
 * [2023-08-12, 13:02:58](https://news.ycombinator.com/item?id=37099750) - [20 Years of Vim](https://www.contextualize.ai/mpereira/20-years-of-vim-ef9acae9)
 * [2023-08-12, 12:45:36](https://news.ycombinator.com/item?id=37099626) - [Rectify11 Improving upon the Windows 11 experience](https://rectify11.net)
 * [2023-08-12, 12:42:20](https://news.ycombinator.com/item?id=37099604) - [AML works, even if it intercepts less than 1% of criminal proceeds](http://jpkoning.blogspot.com/2023/08/aml-works-even-if-it-intercepts-less.html)
