@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-12, 10:51:56](https://news.ycombinator.com/item?id=37098875) - [tRPC – Move Fast and Break Nothing. End-to-end typesafe APIs made easy](https://trpc.io/)
 * [2023-08-12, 10:07:08](https://news.ycombinator.com/item?id=37098663) - [Build declaratively back ends and APIs with GraphQL or REST](https://github.com/metatypedev/metatype)
 * [2023-08-12, 09:49:26](https://news.ycombinator.com/item?id=37098591) - [I feel like I made a mistake investing professionally into Flutter](https://old.reddit.com/r/FlutterDev/comments/15njq61/i_feel_like_i_mad_a_mistake_investing/)
 * [2023-08-12, 09:28:34](https://news.ycombinator.com/item?id=37098483) - [How a startup loses its spark](https://blog.johnqian.com/startup-spark)
-* [2023-08-12, 07:40:14](https://news.ycombinator.com/item?id=37097973) - [What is gained and lost with 63-bit integers? (2014)](https://blog.janestreet.com/what-is-gained-and-lost-with-63-bit-integers/)
 * [2023-08-12, 05:40:30](https://news.ycombinator.com/item?id=37097353) - [Beginner's Guide to Llama Models](https://agi-sphere.com/llama-guide/)
 * [2023-08-12, 04:25:34](https://news.ycombinator.com/item?id=37097048) - [Sapphire Rapids Core-to-Core Latency](https://jprahman.substack.com/p/sapphire-rapids-core-to-core-latency)
 * [2023-08-12, 04:17:23](https://news.ycombinator.com/item?id=37097004) - [Do we really need a specialized vector database?](https://modelz.ai/blog/pgvector)
