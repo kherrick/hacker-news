@@ -13,6 +13,7 @@
 * [2023-08-11, 20:52:07](https://news.ycombinator.com/item?id=37093854) - [80% of bosses say they regret earlier return-to-office plans](https://www.cnbc.com/2023/08/11/80percent-of-bosses-say-they-regret-earlier-return-to-office-plans.html)
 * [2023-08-11, 20:30:30](https://news.ycombinator.com/item?id=37093632) - [Web Environment Integrity has no standing at W3C; understanding new W3C work](https://www.w3.org/blog/2023/web-environment-integrity-has-no-standing-at-w3c/)
 * [2023-08-11, 20:22:14](https://news.ycombinator.com/item?id=37093554) - [ARM’s Cortex A710: Winning by Default](https://chipsandcheese.com/2023/08/11/arms-cortex-a710-winning-by-default/)
+* [2023-08-11, 20:08:25](https://news.ycombinator.com/item?id=37093365) - [Half-Edge Data Structures (2019)](https://jerryyin.info/geometry-processing-algorithms/half-edge/)
 * [2023-08-11, 19:28:46](https://news.ycombinator.com/item?id=37092861) - [Judge sends Sam Bankman-Fried to jail over witness tampering](https://www.cnbc.com/2023/08/11/judge-to-revoke-bail-for-ftx-founder-sam-bankman-fried-over-witness-tampering.html)
 * [2023-08-11, 18:46:33](https://news.ycombinator.com/item?id=37092319) - [The inability to simultaneously verify sentience, location, and identity](https://arxiv.org/abs/2308.02202)
 * [2023-08-11, 18:36:42](https://news.ycombinator.com/item?id=37092212) - [Wendelstein 7-X: Gigajoule energy turnover generated for eight minutes](https://www.ipp.mpg.de/5322229/01_23)
@@ -29,7 +30,6 @@
 * [2023-08-11, 04:33:13](https://news.ycombinator.com/item?id=37085138) - [Zero Motorcycles steps up and makes its service manuals free](https://www.hagerty.com/media/maintenance-and-tech/zero-motorcycles-steps-up-and-makes-its-service-manuals-free/)
 * [2023-08-11, 04:15:21](https://news.ycombinator.com/item?id=37085040) - [A Woman Behind Borges](https://www.thedial.world/issue-7/jorge-luis-borges-legacy-maria-kodama)
 * [2023-08-09, 14:22:30](https://news.ycombinator.com/item?id=37063105) - [Iterators are (maybe) coming to Go](https://bitfieldconsulting.com/golang/iterators)
-* [2023-08-09, 07:44:21](https://news.ycombinator.com/item?id=37059742) - [Lorentz Transformations – Special Relativity Ch. 3 [video]](https://www.youtube.com/watch?v=Rh0pYtQG5wI)
 
 ## [Archives](archives/index.md)
 
