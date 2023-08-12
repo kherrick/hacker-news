@@ -1,22 +1,22 @@
 [
   [
     [
-      "2023-08-12, 01:46:51",
-      "https://news.ycombinator.com/item?id=37096149"
+      "2023-08-12, 03:09:45",
+      "https://news.ycombinator.com/item?id=37096626"
     ],
     [
-      "Internet Archive: “Our Fight Is Far from Over”",
-      "https://blog.archive.org/2023/08/11/our-fight-is-far-from-over/"
+      "Fooocus: OSS for image generation by ControlNet author",
+      "https://github.com/lllyasviel/Fooocus"
     ]
   ],
   [
     [
-      "2023-08-12, 01:27:10",
-      "https://news.ycombinator.com/item?id=37096015"
+      "2023-08-12, 01:46:51",
+      "https://news.ycombinator.com/item?id=37096149"
     ],
     [
-      "Police stage ‘chilling’ raid on Marion County newspaper",
-      "https://kansasreflector.com/2023/08/11/police-stage-chilling-raid-on-marion-county-newspaper-seizing-computers-records-and-cellphones/"
+      "Our fight is far from over",
+      "https://blog.archive.org/2023/08/11/our-fight-is-far-from-over/"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "An Introduction to Graph Theory",
       "https://arxiv.org/abs/2308.04512"
-    ]
-  ],
-  [
-    [
-      "2023-08-11, 20:52:07",
-      "https://news.ycombinator.com/item?id=37093854"
-    ],
-    [
-      "80% of bosses say they regret earlier return-to-office plans",
-      "https://www.cnbc.com/2023/08/11/80percent-of-bosses-say-they-regret-earlier-return-to-office-plans.html"
     ]
   ],
   [
@@ -265,8 +255,18 @@
       "https://news.ycombinator.com/item?id=37085138"
     ],
     [
-      "Zero Motorcycles steps up and makes its service manuals free",
+      "Zero Motorcycles makes its service manuals free",
       "https://www.hagerty.com/media/maintenance-and-tech/zero-motorcycles-steps-up-and-makes-its-service-manuals-free/"
+    ]
+  ],
+  [
+    [
+      "2023-08-11, 04:21:29",
+      "https://news.ycombinator.com/item?id=37085066"
+    ],
+    [
+      "The Master Fabulist of American Fiction",
+      "https://www.newyorker.com/magazine/2023/08/14/disruptions-steven-millhauser-book-review"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=37063105"
     ],
     [
-      "Iterators are (maybe) coming to Go",
+      "Iterators in Go: A proposed extension",
       "https://bitfieldconsulting.com/golang/iterators"
     ]
   ],
