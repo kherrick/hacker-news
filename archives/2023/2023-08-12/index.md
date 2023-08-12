@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-12](index.md)
 
+* [2023-08-12, 13:57:18](https://news.ycombinator.com/item?id=37100226) - [The Carrot Problem](https://www.atvbt.com/the-carrot-problem/)
 * [2023-08-12, 13:50:13](https://news.ycombinator.com/item?id=37100153) - [Chinese Trust Companies on the Brink](https://www.asiamarkets.com/chinese-trust-companies-on-the-brink-looming-bankruptcies-bigger-than-evergrande/)
 * [2023-08-12, 13:49:10](https://news.ycombinator.com/item?id=37100140) - [Record Labels Hit Internet Archive with New $400M+ Copyright Lawsuit](https://torrentfreak.com/record-labels-hit-internet-archive-with-new-400m-copyright-lawsuit-230812/)
 * [2023-08-12, 13:07:26](https://news.ycombinator.com/item?id=37099780) - [Harvard University Richest in World Encourages Students to Go on Food Stamps](https://finance.yahoo.com/news/harvard-university-encourages-students-food-171022208.html)

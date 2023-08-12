@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-12, 13:57:18](https://news.ycombinator.com/item?id=37100226) - [The Carrot Problem](https://www.atvbt.com/the-carrot-problem/)
 * [2023-08-12, 13:50:13](https://news.ycombinator.com/item?id=37100153) - [Chinese Trust Companies on the Brink](https://www.asiamarkets.com/chinese-trust-companies-on-the-brink-looming-bankruptcies-bigger-than-evergrande/)
 * [2023-08-12, 13:49:10](https://news.ycombinator.com/item?id=37100140) - [Record Labels Hit Internet Archive with New $400M+ Copyright Lawsuit](https://torrentfreak.com/record-labels-hit-internet-archive-with-new-400m-copyright-lawsuit-230812/)
 * [2023-08-12, 13:02:58](https://news.ycombinator.com/item?id=37099750) - [20 Years of Vim](https://www.contextualize.ai/mpereira/20-years-of-vim-ef9acae9)
@@ -15,7 +16,6 @@
 * [2023-08-12, 03:09:45](https://news.ycombinator.com/item?id=37096626) - [Fooocus: OSS for image generation by ControlNet author](https://github.com/lllyasviel/Fooocus)
 * [2023-08-12, 01:52:30](https://news.ycombinator.com/item?id=37096178) - [West Virginia University to drop 32 majors including all world language programs](https://www.wvgazettemail.com/news/education/wvu-to-drop-32-majors-including-all-world-language-programs/article_2b3d0aae-3962-544b-b1a3-7c28cb6df3ef.html)
 * [2023-08-12, 00:21:13](https://news.ycombinator.com/item?id=37095616) - [If it can be designed on a computer, it can be built by robots](https://www.economist.com/science-and-technology/2023/08/09/if-it-can-be-designed-on-a-computer-it-can-be-built-by-robots)
-* [2023-08-12, 00:08:13](https://news.ycombinator.com/item?id=37095542) - [Show HN: liteLLM Proxy Server: 50+ LLM Models, Error Handling, Caching](https://github.com/BerriAI/litellm/blob/main/cookbook/proxy-server/readme.md)
 * [2023-08-11, 23:32:53](https://news.ycombinator.com/item?id=37095302) - [We need scientific dissidents](https://www.chronicle.com/article/we-need-scientific-dissidents-now-more-than-ever)
 * [2023-08-11, 20:52:07](https://news.ycombinator.com/item?id=37093854) - [80% of bosses say they regret earlier return-to-office plans](https://www.cnbc.com/2023/08/11/80percent-of-bosses-say-they-regret-earlier-return-to-office-plans.html)
 * [2023-08-11, 19:15:35](https://news.ycombinator.com/item?id=37092687) - [The Frothy Saga of the Jacuzzi Family](https://www.nytimes.com/2023/08/11/style/the-frothy-saga-of-the-jacuzzi-family.html)
