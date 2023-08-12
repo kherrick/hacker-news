@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-08-12](index.md)
 
+* [2023-08-12, 17:17:22](https://news.ycombinator.com/item?id=37102271) - [Paper investigating police chief prior to the raids on his office and home](https://thehandbasket.substack.com/p/a-conversation-with-the-newspaper)
 * [2023-08-12, 17:00:06](https://news.ycombinator.com/item?id=37102090) - [Motion (YC W20) Is Hiring Software Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
 * [2023-08-12, 16:06:00](https://news.ycombinator.com/item?id=37101588) - [Exploring the Internals of Linux v0.01](https://seiya.me/blog/reading-linux-v0.01)
 * [2023-08-12, 16:03:33](https://news.ycombinator.com/item?id=37101563) - [CLOS: Integrating Object-Oriented and Functional Programming (2004) [pdf]](https://dreamsongs.com/Files/clos-cacm.pdf)
 * [2023-08-12, 15:59:41](https://news.ycombinator.com/item?id=37101515) - [Deep Learning Systems (CMU Course)](https://dlsyscourse.org/lectures/)
+* [2023-08-12, 15:45:40](https://news.ycombinator.com/item?id=37101341) - [Jobs and Gates banned their kids from iPads and other devices they created](https://finance.yahoo.com/news/hidden-side-steve-jobs-bill-165424007.html)
 * [2023-08-12, 15:14:44](https://news.ycombinator.com/item?id=37101012) - [Hollywood’s Cold War Dissidents in Ireland](https://www.historytoday.com/archive/history-matters/dangerous-reds)
 * [2023-08-12, 15:11:57](https://news.ycombinator.com/item?id=37100986) - [Vectorized UTF-8 Validation for Java](https://github.com/AugustNagro/utf8.java)
+* [2023-08-12, 14:50:09](https://news.ycombinator.com/item?id=37100757) - [Postgres Audit Tables Saved Us from Taking Down Production](https://www.heap.io/blog/how-postgres-audit-tables-saved-us-from-taking-down-production)
 * [2023-08-12, 14:39:26](https://news.ycombinator.com/item?id=37100641) - [Securing Your PostgreSQL DB with Roles and Privileges](https://rlopzc.com/posts/securing-your-postgresql-db-with-roles--privileges/)
 * [2023-08-12, 14:32:39](https://news.ycombinator.com/item?id=37100565) - [NASA's Software Catalog offers hundreds of new software programs for free](https://software.nasa.gov/)
 * [2023-08-12, 14:24:05](https://news.ycombinator.com/item?id=37100503) - [Fedora Asahi Remix first impressions](https://jasoneckert.github.io/myblog/fedora-asahi-remix/)
