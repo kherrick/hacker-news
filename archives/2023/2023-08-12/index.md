@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-12](index.md)
 
+* [2023-08-12, 17:41:10](https://news.ycombinator.com/item?id=37102482) - [Tracing the roots of the 8086 instruction set to the Datapoint 2200 minicomputer](https://www.righto.com/2023/08/datapoint-to-8086.html)
 * [2023-08-12, 17:37:25](https://news.ycombinator.com/item?id=37102442) - [My $0->$100M->$0 in 5 years story](https://old.reddit.com/r/startups/comments/15p8qrx/my_0100m0_in_5_years_story/)
 * [2023-08-12, 17:17:22](https://news.ycombinator.com/item?id=37102271) - [Paper investigating police chief prior to the raids on his office and home](https://thehandbasket.substack.com/p/a-conversation-with-the-newspaper)
 * [2023-08-12, 17:00:06](https://news.ycombinator.com/item?id=37102090) - [Motion (YC W20) Is Hiring Software Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
