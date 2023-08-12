@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-12, 13:07:26](https://news.ycombinator.com/item?id=37099780) - [Harvard University Richest in World Encourages Students to Go on Food Stamps](https://finance.yahoo.com/news/harvard-university-encourages-students-food-171022208.html)
+* [2023-08-12, 13:07:26](https://news.ycombinator.com/item?id=37099780) - [Harvard University Encourages Students To Go On Food Stamps](https://finance.yahoo.com/news/harvard-university-encourages-students-food-171022208.html)
 * [2023-08-12, 13:02:58](https://news.ycombinator.com/item?id=37099750) - [20 Years of Vim](https://www.contextualize.ai/mpereira/20-years-of-vim-ef9acae9)
 * [2023-08-12, 12:30:12](https://news.ycombinator.com/item?id=37099518) - [San Franciscans are having sex in robotaxis](https://sfstandard.com/2023/08/11/san-francisco-robotaxi-cruise-debauchery/)
 * [2023-08-12, 12:00:57](https://news.ycombinator.com/item?id=37099312) - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
