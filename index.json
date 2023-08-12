@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2023-08-11, 20:30:30",
-      "https://news.ycombinator.com/item?id=37093632"
-    ],
-    [
-      "Web Environment Integrity has no standing at W3C; understanding new W3C work",
-      "https://www.w3.org/blog/2023/web-environment-integrity-has-no-standing-at-w3c/"
-    ]
-  ],
-  [
-    [
       "2023-08-11, 20:22:14",
       "https://news.ycombinator.com/item?id=37093554"
     ],
@@ -277,6 +267,16 @@
     [
       "A Woman Behind Borges",
       "https://www.thedial.world/issue-7/jorge-luis-borges-legacy-maria-kodama"
+    ]
+  ],
+  [
+    [
+      "2023-08-10, 20:07:50",
+      "https://news.ycombinator.com/item?id=37081077"
+    ],
+    [
+      "Using Retrieval Augmented Generation (RAG) to clear our GitHub backlog",
+      "https://docs.sweep.dev/blogs/sweeps-core-algo"
     ]
   ],
   [
