@@ -25,11 +25,11 @@
 * [2023-08-11, 17:12:43](https://news.ycombinator.com/item?id=37091122) - [Show HN: Pykoi – a Python library for LLM data collection and fine tuning](https://www.cambioml.com/pykoi/)
 * [2023-08-11, 12:46:33](https://news.ycombinator.com/item?id=37088087) - [Launch HN: Wondercraft (YC S22) – Use text-to-speech to create podcasts easily](https://news.ycombinator.com/item?id=37088087)
 * [2023-08-11, 04:33:13](https://news.ycombinator.com/item?id=37085138) - [Zero Motorcycles makes its service manuals free](https://www.hagerty.com/media/maintenance-and-tech/zero-motorcycles-steps-up-and-makes-its-service-manuals-free/)
-* [2023-08-11, 04:15:21](https://news.ycombinator.com/item?id=37085040) - [A Woman Behind Borges](https://www.thedial.world/issue-7/jorge-luis-borges-legacy-maria-kodama)
+* [2023-08-11, 04:15:21](https://news.ycombinator.com/item?id=37085040) - [The Woman Behind Borges](https://www.thedial.world/issue-7/jorge-luis-borges-legacy-maria-kodama)
 * [2023-08-10, 23:56:03](https://news.ycombinator.com/item?id=37083309) - [Show HN: Tetris, but the blocks are ARM instructions that execute in the browser](https://ofrak.com/tetris/)
 * [2023-08-10, 20:07:50](https://news.ycombinator.com/item?id=37081077) - [Using Retrieval Augmented Generation (RAG) to clear our GitHub backlog](https://docs.sweep.dev/blogs/sweeps-core-algo)
 * [2023-08-09, 14:22:30](https://news.ycombinator.com/item?id=37063105) - [Iterators in Go: A proposed extension](https://bitfieldconsulting.com/golang/iterators)
-* [2023-08-09, 07:44:21](https://news.ycombinator.com/item?id=37059742) - [Lorentz Transformations – Special Relativity Ch. 3 [video]](https://www.youtube.com/watch?v=Rh0pYtQG5wI)
+* [2023-08-09, 07:44:21](https://news.ycombinator.com/item?id=37059742) - [Special Relativity: Lorentz Transformations (2018) [video]](https://www.youtube.com/watch?v=Rh0pYtQG5wI)
 
 ## [Archives](archives/index.md)
 
