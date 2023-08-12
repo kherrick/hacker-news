@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-12](index.md)
 
+* [2023-08-12, 23:11:39](https://news.ycombinator.com/item?id=37105054) - [Out-of-Distribution](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection)
 * [2023-08-12, 21:13:35](https://news.ycombinator.com/item?id=37104275) - [Understanding ActivityPub Part 1: Protocol Fundamentals](https://seb.jambor.dev/posts/understanding-activitypub/)
 * [2023-08-12, 21:11:35](https://news.ycombinator.com/item?id=37104264) - [OP drew these corals with mathematical equations](https://twitter.com/naderi_yeganeh/status/1690296100496838656)
 * [2023-08-12, 21:00:07](https://news.ycombinator.com/item?id=37104185) - [Freshpaint (YC S19) Is Hiring Engineers to Build a HIPAA Compliant Data Platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)

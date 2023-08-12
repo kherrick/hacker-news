@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-12, 23:11:39](https://news.ycombinator.com/item?id=37105054) - [Out-of-Distribution](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection)
 * [2023-08-12, 21:11:35](https://news.ycombinator.com/item?id=37104264) - [OP drew these corals with mathematical equations](https://twitter.com/naderi_yeganeh/status/1690296100496838656)
 * [2023-08-12, 21:00:07](https://news.ycombinator.com/item?id=37104185) - [Freshpaint (YC S19) Is Hiring Engineers to Build a HIPAA Compliant Data Platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-08-12, 20:10:51](https://news.ycombinator.com/item?id=37103802) - [Auditory illusions with examples from Daft Punk](https://www.ugu.rs/blog/auditory-illusions-with-samples-from-daft-punk/)
@@ -7,7 +8,6 @@
 * [2023-08-12, 18:37:54](https://news.ycombinator.com/item?id=37102974) - [Learning Algorithms](https://paedubucher.ch/articles/2023-07-29-learning-algorithms.html)
 * [2023-08-12, 17:56:32](https://news.ycombinator.com/item?id=37102610) - [The US government is taking a step toward space-based nuclear propulsion](https://arstechnica.com/space/2023/07/nasa-seeks-to-launch-a-nuclear-powered-rocket-engine-in-four-years/)
 * [2023-08-12, 17:41:10](https://news.ycombinator.com/item?id=37102482) - [Tracing the roots of the 8086 instruction set to the Datapoint 2200 minicomputer](https://www.righto.com/2023/08/datapoint-to-8086.html)
-* [2023-08-12, 17:27:20](https://news.ycombinator.com/item?id=37102360) - [Some problems with 'first name' and 'last name' fields in data](https://utcc.utoronto.ca/~cks/space/blog/programming/WhyNotFirstAndLastNameFields)
 * [2023-08-12, 16:06:00](https://news.ycombinator.com/item?id=37101588) - [Exploring the Internals of Linux v0.01](https://seiya.me/blog/reading-linux-v0.01)
 * [2023-08-12, 16:03:33](https://news.ycombinator.com/item?id=37101563) - [CLOS: Integrating Object-Oriented and Functional Programming (2004) [pdf]](https://dreamsongs.com/Files/clos-cacm.pdf)
 * [2023-08-12, 15:59:41](https://news.ycombinator.com/item?id=37101515) - [Deep Learning Systems (CMU Course)](https://dlsyscourse.org/lectures/)
