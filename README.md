@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-12, 05:40:30](https://news.ycombinator.com/item?id=37097353) - [Beginner's Guide to Llama Models](https://agi-sphere.com/llama-guide/)
-* [2023-08-12, 05:25:37](https://news.ycombinator.com/item?id=37097287) - [Multiple B787s descend below minimum safe altitude due to autopilot software bug](https://avherald.com/h?article=4d42d0b5)
+* [2023-08-12, 05:25:37](https://news.ycombinator.com/item?id=37097287) - [Incident: Virgin Atlantic B789 deviated from localizer and descended (2020)](https://avherald.com/h?article=4d42d0b5)
 * [2023-08-12, 04:25:34](https://news.ycombinator.com/item?id=37097048) - [Sapphire Rapids Core-to-Core Latency](https://jprahman.substack.com/p/sapphire-rapids-core-to-core-latency)
 * [2023-08-12, 04:17:23](https://news.ycombinator.com/item?id=37097004) - [You just do not need a specialized vector database](https://modelz.ai/blog/pgvector)
 * [2023-08-12, 04:12:48](https://news.ycombinator.com/item?id=37096975) - [Leave It to the Beavers](https://isthmus.com/news/news/leave-it-to-the-beavers/)
@@ -27,9 +27,9 @@
 * [2023-08-11, 12:46:33](https://news.ycombinator.com/item?id=37088087) - [Launch HN: Wondercraft (YC S22) – Use text-to-speech to create podcasts easily](https://news.ycombinator.com/item?id=37088087)
 * [2023-08-11, 04:33:13](https://news.ycombinator.com/item?id=37085138) - [Zero Motorcycles makes its service manuals free](https://www.hagerty.com/media/maintenance-and-tech/zero-motorcycles-steps-up-and-makes-its-service-manuals-free/)
 * [2023-08-11, 04:15:21](https://news.ycombinator.com/item?id=37085040) - [A Woman Behind Borges](https://www.thedial.world/issue-7/jorge-luis-borges-legacy-maria-kodama)
-* [2023-08-10, 23:56:03](https://news.ycombinator.com/item?id=37083309) - [Show HN: Tetris, but the blocks are ARM instructions that execute in the browser](https://ofrak.com/tetris/)
 * [2023-08-10, 20:07:50](https://news.ycombinator.com/item?id=37081077) - [Using Retrieval Augmented Generation (RAG) to clear our GitHub backlog](https://docs.sweep.dev/blogs/sweeps-core-algo)
 * [2023-08-09, 14:22:30](https://news.ycombinator.com/item?id=37063105) - [Iterators in Go: A proposed extension](https://bitfieldconsulting.com/golang/iterators)
+* [2023-08-09, 07:44:21](https://news.ycombinator.com/item?id=37059742) - [Lorentz Transformations – Special Relativity Ch. 3 [video]](https://www.youtube.com/watch?v=Rh0pYtQG5wI)
 
 ## [Archives](archives/index.md)
 
