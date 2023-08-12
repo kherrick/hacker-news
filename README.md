@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-12, 04:12:48](https://news.ycombinator.com/item?id=37096975) - [Leave It to the Beavers](https://isthmus.com/news/news/leave-it-to-the-beavers/)
 * [2023-08-12, 03:09:45](https://news.ycombinator.com/item?id=37096626) - [Fooocus: OSS for image generation by ControlNet author](https://github.com/lllyasviel/Fooocus)
 * [2023-08-12, 01:46:51](https://news.ycombinator.com/item?id=37096149) - [Our fight is far from over](https://blog.archive.org/2023/08/11/our-fight-is-far-from-over/)
 * [2023-08-12, 01:00:44](https://news.ycombinator.com/item?id=37095849) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=37095849)
@@ -29,7 +30,6 @@
 * [2023-08-11, 04:15:21](https://news.ycombinator.com/item?id=37085040) - [A Woman Behind Borges](https://www.thedial.world/issue-7/jorge-luis-borges-legacy-maria-kodama)
 * [2023-08-10, 20:07:50](https://news.ycombinator.com/item?id=37081077) - [Using Retrieval Augmented Generation (RAG) to clear our GitHub backlog](https://docs.sweep.dev/blogs/sweeps-core-algo)
 * [2023-08-09, 14:22:30](https://news.ycombinator.com/item?id=37063105) - [Iterators in Go: A proposed extension](https://bitfieldconsulting.com/golang/iterators)
-* [2023-08-09, 07:44:21](https://news.ycombinator.com/item?id=37059742) - [Lorentz Transformations – Special Relativity Ch. 3 [video]](https://www.youtube.com/watch?v=Rh0pYtQG5wI)
 
 ## [Archives](archives/index.md)
 
