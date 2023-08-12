@@ -43,6 +43,7 @@
 * [2023-08-11, 16:54:12](https://news.ycombinator.com/item?id=37090876) - [Inactive Google Account Policy](https://support.google.com/accounts/answer/12418290?hl=en)
 * [2023-08-11, 16:44:18](https://news.ycombinator.com/item?id=37090754) - [Infisical – open-source HashiCorp Vault alternative](https://github.com/Infisical/infisical)
 * [2023-08-11, 16:34:48](https://news.ycombinator.com/item?id=37090632) - [Fine-Tuning Llama-2: A Comprehensive Case Study for Tailoring Custom Models](https://www.anyscale.com/blog/fine-tuning-llama-2-a-comprehensive-case-study-for-tailoring-models-to-unique-applications)
+* [2023-08-11, 16:32:33](https://news.ycombinator.com/item?id=37090608) - [Anti-Ugly Action](https://www.theparisreview.org/blog/2023/08/07/anti-ugly-action/)
 * [2023-08-11, 16:17:49](https://news.ycombinator.com/item?id=37090424) - [Amazon starting to track and penalize workers who work from home too much](https://www.theguardian.com/technology/2023/aug/11/amazon-starting-to-track-and-penalize-workers-who-work-from-home-too-much)
 * [2023-08-11, 15:50:31](https://news.ycombinator.com/item?id=37090078) - [Z-Library Petitions U.S. and Argentina to Cease ‘Illegal’ Criminal Prosecution](https://torrentfreak.com/z-library-petitions-u-s-and-argentina-to-cease-illegal-criminal-prosecution-230811/)
 * [2023-08-11, 15:49:25](https://news.ycombinator.com/item?id=37090063) - [GSMA considers giving away mobile device locations through API](https://www.gsma.com/futurenetworks/gsma-open-gateway-api-descriptions/)

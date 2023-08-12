@@ -21,6 +21,7 @@
 * [2023-08-12, 09:28:34](https://news.ycombinator.com/item?id=37098483) - [How a startup loses its spark](https://blog.johnqian.com/startup-spark)
 * [2023-08-12, 08:36:03](https://news.ycombinator.com/item?id=37098229) - [Programming Techniques: Regular expression search algorithm (1968)](https://dl.acm.org/doi/10.1145/363347.363387)
 * [2023-08-11, 23:32:53](https://news.ycombinator.com/item?id=37095302) - [We need scientific dissidents](https://www.chronicle.com/article/we-need-scientific-dissidents-now-more-than-ever)
+* [2023-08-11, 16:32:33](https://news.ycombinator.com/item?id=37090608) - [Anti-Ugly Action](https://www.theparisreview.org/blog/2023/08/07/anti-ugly-action/)
 * [2023-08-11, 12:22:40](https://news.ycombinator.com/item?id=37087872) - [Filthy Romans: Dirty secrets of the bath-obsessed ancients (2016)](https://www.newscientist.com/article/mg23130800-600-ancient-rome-the-empire-that-cleaned-up/)
 * [2023-08-11, 11:29:48](https://news.ycombinator.com/item?id=37087459) - [I'm OK, the bull is dead (2004)](https://www.computerworld.com/article/2565077/i-m-ok--the-bull-is-dead.html)
 * [2023-08-11, 09:30:44](https://news.ycombinator.com/item?id=37086753) - [Show HN: Pip Imports in Deno](https://github.com/denosaurs/deno_python)
@@ -29,7 +30,6 @@
 * [2023-08-11, 06:22:17](https://news.ycombinator.com/item?id=37085687) - [The Character Generator ROM](https://www.atariarchives.org/cgp/Ch02_Sec04.php)
 * [2023-08-11, 06:09:20](https://news.ycombinator.com/item?id=37085618) - [The Downsides of C++ Coroutines](https://reductor.dev/cpp/2023/08/10/the-downsides-of-coroutines.html)
 * [2023-08-10, 15:41:07](https://news.ycombinator.com/item?id=37077622) - [The Oregon Resilience Plan (2013) [pdf]](https://www.oregon.gov/oem/documents/oregon_resilience_plan_final.pdf)
-* [2023-08-09, 07:44:21](https://news.ycombinator.com/item?id=37059742) - [Special Relativity: Lorentz Transformations (2018) [video]](https://www.youtube.com/watch?v=Rh0pYtQG5wI)
 
 ## [Archives](archives/index.md)
 
