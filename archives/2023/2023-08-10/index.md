@@ -53,6 +53,7 @@
 * [2023-08-10, 14:57:13](https://news.ycombinator.com/item?id=37076968) - [Maybe the problem is that Harvard exists](https://dynomight.net/harvard/)
 * [2023-08-10, 14:54:44](https://news.ycombinator.com/item?id=37076933) - [Two Students Shoot Down a Widely Believed Math Conjecture](https://www.quantamagazine.org/two-students-shoot-down-a-widely-believed-math-conjecture-20230810/)
 * [2023-08-10, 14:35:25](https://news.ycombinator.com/item?id=37076693) - [Launch HN: Rubbrband (YC W23) – Deformity detection for AI-generated images](https://news.ycombinator.com/item?id=37076693)
+* [2023-08-10, 14:34:29](https://news.ycombinator.com/item?id=37076679) - [You can't guess what's going to land–publish (pretty much) everything](https://tidyfirst.substack.com/p/publish-everything-pretty-much)
 * [2023-08-10, 14:22:36](https://news.ycombinator.com/item?id=37076531) - [Ask HN: What is the most exciting thing you have learnt this year till now?](https://news.ycombinator.com/item?id=37076531)
 * [2023-08-10, 14:21:46](https://news.ycombinator.com/item?id=37076523) - [MS Teams channels cannot contain MS-DOS device names](https://learn.microsoft.com/en-us/microsoftteams/limits-specifications-teams)
 * [2023-08-10, 14:20:09](https://news.ycombinator.com/item?id=37076500) - [Amazon tracks and targets US staff over 3 days in office rule](https://www.ft.com/content/7f058b6f-3a2b-4aeb-b77b-dc68102ebd77)
