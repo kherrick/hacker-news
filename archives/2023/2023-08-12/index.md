@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-12](index.md)
 
 * [2023-08-12, 20:10:51](https://news.ycombinator.com/item?id=37103802) - [Auditory illusions with examples from Daft Punk](https://www.ugu.rs/blog/auditory-illusions-with-samples-from-daft-punk/)
+* [2023-08-12, 20:09:28](https://news.ycombinator.com/item?id=37103793) - [Tijuana's illegal sewer hookups linked to cross-border pollution](https://www.kpbs.org/news/border-immigration/2023/08/10/tijuanas-illegal-sewer-hookups-linked-to-cross-border-pollution)
 * [2023-08-12, 18:37:54](https://news.ycombinator.com/item?id=37102974) - [Learning Algorithms](https://paedubucher.ch/articles/2023-07-29-learning-algorithms.html)
 * [2023-08-12, 17:56:32](https://news.ycombinator.com/item?id=37102610) - [US Government is taking serious step toward space-based nuclear propulsion](https://arstechnica.com/space/2023/07/nasa-seeks-to-launch-a-nuclear-powered-rocket-engine-in-four-years/)
 * [2023-08-12, 17:49:14](https://news.ycombinator.com/item?id=37102554) - [What's your go to Nix/NixOS pitch?](https://discourse.nixos.org/t/whats-your-go-to-nix-nixos-pitch/31565)

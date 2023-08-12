@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-12, 20:10:51](https://news.ycombinator.com/item?id=37103802) - [Auditory illusions with examples from Daft Punk](https://www.ugu.rs/blog/auditory-illusions-with-samples-from-daft-punk/)
+* [2023-08-12, 20:09:28](https://news.ycombinator.com/item?id=37103793) - [Tijuana's illegal sewer hookups linked to cross-border pollution](https://www.kpbs.org/news/border-immigration/2023/08/10/tijuanas-illegal-sewer-hookups-linked-to-cross-border-pollution)
 * [2023-08-12, 18:37:54](https://news.ycombinator.com/item?id=37102974) - [Learning Algorithms](https://paedubucher.ch/articles/2023-07-29-learning-algorithms.html)
 * [2023-08-12, 17:56:32](https://news.ycombinator.com/item?id=37102610) - [The US government is taking a step toward space-based nuclear propulsion](https://arstechnica.com/space/2023/07/nasa-seeks-to-launch-a-nuclear-powered-rocket-engine-in-four-years/)
 * [2023-08-12, 17:41:10](https://news.ycombinator.com/item?id=37102482) - [Tracing the roots of the 8086 instruction set to the Datapoint 2200 minicomputer](https://www.righto.com/2023/08/datapoint-to-8086.html)
@@ -10,7 +11,6 @@
 * [2023-08-12, 16:03:33](https://news.ycombinator.com/item?id=37101563) - [CLOS: Integrating Object-Oriented and Functional Programming (2004) [pdf]](https://dreamsongs.com/Files/clos-cacm.pdf)
 * [2023-08-12, 15:59:41](https://news.ycombinator.com/item?id=37101515) - [Deep Learning Systems (CMU Course)](https://dlsyscourse.org/lectures/)
 * [2023-08-12, 15:14:44](https://news.ycombinator.com/item?id=37101012) - [Hollywood’s Cold War Dissidents in Ireland](https://www.historytoday.com/archive/history-matters/dangerous-reds)
-* [2023-08-12, 15:11:57](https://news.ycombinator.com/item?id=37100986) - [Vectorized UTF-8 Validation for Java](https://github.com/AugustNagro/utf8.java)
 * [2023-08-12, 14:50:09](https://news.ycombinator.com/item?id=37100757) - [Postgres Audit Tables Saved Us from Taking Down Production](https://www.heap.io/blog/how-postgres-audit-tables-saved-us-from-taking-down-production)
 * [2023-08-12, 14:39:26](https://news.ycombinator.com/item?id=37100641) - [Securing Your PostgreSQL DB with Roles and Privileges](https://rlopzc.com/posts/securing-your-postgresql-db-with-roles--privileges/)
 * [2023-08-12, 14:24:05](https://news.ycombinator.com/item?id=37100503) - [Fedora Asahi Remix first impressions](https://jasoneckert.github.io/myblog/fedora-asahi-remix/)
