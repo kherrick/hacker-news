@@ -3,7 +3,7 @@
 * [2023-08-12, 04:25:34](https://news.ycombinator.com/item?id=37097048) - [Sapphire Rapids Core-to-Core Latency](https://jprahman.substack.com/p/sapphire-rapids-core-to-core-latency)
 * [2023-08-12, 04:12:48](https://news.ycombinator.com/item?id=37096975) - [Leave It to the Beavers](https://isthmus.com/news/news/leave-it-to-the-beavers/)
 * [2023-08-12, 03:09:45](https://news.ycombinator.com/item?id=37096626) - [Fooocus: OSS for image generation by ControlNet author](https://github.com/lllyasviel/Fooocus)
-* [2023-08-12, 01:46:51](https://news.ycombinator.com/item?id=37096149) - [Our fight is far from over](https://blog.archive.org/2023/08/11/our-fight-is-far-from-over/)
+* [2023-08-12, 01:52:30](https://news.ycombinator.com/item?id=37096178) - [West Virginia University to drop 32 majors including all world language programs](https://www.wvgazettemail.com/news/education/wvu-to-drop-32-majors-including-all-world-language-programs/article_2b3d0aae-3962-544b-b1a3-7c28cb6df3ef.html)
 * [2023-08-12, 01:00:44](https://news.ycombinator.com/item?id=37095849) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=37095849)
 * [2023-08-12, 00:34:42](https://news.ycombinator.com/item?id=37095700) - [Optimization Algorithms for Planar Graphs](https://planarity.org/)
 * [2023-08-12, 00:21:13](https://news.ycombinator.com/item?id=37095616) - [If it can be designed on a computer, it can be built by robots](https://www.economist.com/science-and-technology/2023/08/09/if-it-can-be-designed-on-a-computer-it-can-be-built-by-robots)
@@ -22,7 +22,6 @@
 * [2023-08-11, 16:44:18](https://news.ycombinator.com/item?id=37090754) - [Infisical – open-source HashiCorp Vault alternative](https://github.com/Infisical/infisical)
 * [2023-08-11, 16:34:48](https://news.ycombinator.com/item?id=37090632) - [Fine-Tuning Llama-2: A Comprehensive Case Study for Tailoring Custom Models](https://www.anyscale.com/blog/fine-tuning-llama-2-a-comprehensive-case-study-for-tailoring-models-to-unique-applications)
 * [2023-08-11, 15:49:25](https://news.ycombinator.com/item?id=37090063) - [GSMA considers giving away mobile device locations through API](https://www.gsma.com/futurenetworks/gsma-open-gateway-api-descriptions/)
-* [2023-08-11, 15:30:34](https://news.ycombinator.com/item?id=37089817) - [Mpire: A Python package for easier and faster multiprocessing](https://github.com/sybrenjansen/mpire)
 * [2023-08-11, 15:24:28](https://news.ycombinator.com/item?id=37089739) - [Tailscale vs. Narrowlink](https://narrowlink.com/docs/comparisons/tailscale)
 * [2023-08-11, 12:46:33](https://news.ycombinator.com/item?id=37088087) - [Launch HN: Wondercraft (YC S22) – Use text-to-speech to create podcasts easily](https://news.ycombinator.com/item?id=37088087)
 * [2023-08-11, 04:33:13](https://news.ycombinator.com/item?id=37085138) - [Zero Motorcycles makes its service manuals free](https://www.hagerty.com/media/maintenance-and-tech/zero-motorcycles-steps-up-and-makes-its-service-manuals-free/)
@@ -30,6 +29,7 @@
 * [2023-08-11, 04:15:21](https://news.ycombinator.com/item?id=37085040) - [A Woman Behind Borges](https://www.thedial.world/issue-7/jorge-luis-borges-legacy-maria-kodama)
 * [2023-08-10, 20:07:50](https://news.ycombinator.com/item?id=37081077) - [Using Retrieval Augmented Generation (RAG) to clear our GitHub backlog](https://docs.sweep.dev/blogs/sweeps-core-algo)
 * [2023-08-09, 14:22:30](https://news.ycombinator.com/item?id=37063105) - [Iterators in Go: A proposed extension](https://bitfieldconsulting.com/golang/iterators)
+* [2023-08-09, 07:44:21](https://news.ycombinator.com/item?id=37059742) - [Lorentz Transformations – Special Relativity Ch. 3 [video]](https://www.youtube.com/watch?v=Rh0pYtQG5wI)
 
 ## [Archives](archives/index.md)
 

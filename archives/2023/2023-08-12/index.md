@@ -7,6 +7,7 @@
 * [2023-08-12, 04:25:34](https://news.ycombinator.com/item?id=37097048) - [Sapphire Rapids Core-to-Core Latency](https://jprahman.substack.com/p/sapphire-rapids-core-to-core-latency)
 * [2023-08-12, 04:12:48](https://news.ycombinator.com/item?id=37096975) - [Leave It to the Beavers](https://isthmus.com/news/news/leave-it-to-the-beavers/)
 * [2023-08-12, 03:09:45](https://news.ycombinator.com/item?id=37096626) - [Fooocus: OSS for image generation by ControlNet author](https://github.com/lllyasviel/Fooocus)
+* [2023-08-12, 01:52:30](https://news.ycombinator.com/item?id=37096178) - [West Virginia University to drop 32 majors including all world language programs](https://www.wvgazettemail.com/news/education/wvu-to-drop-32-majors-including-all-world-language-programs/article_2b3d0aae-3962-544b-b1a3-7c28cb6df3ef.html)
 * [2023-08-12, 01:46:51](https://news.ycombinator.com/item?id=37096149) - [Internet Archive: “Our Fight Is Far from Over”](https://blog.archive.org/2023/08/11/our-fight-is-far-from-over/)
 * [2023-08-12, 01:27:10](https://news.ycombinator.com/item?id=37096015) - [Police stage ‘chilling’ raid on Marion County newspaper](https://kansasreflector.com/2023/08/11/police-stage-chilling-raid-on-marion-county-newspaper-seizing-computers-records-and-cellphones/)
 * [2023-08-12, 01:00:44](https://news.ycombinator.com/item?id=37095849) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=37095849)
