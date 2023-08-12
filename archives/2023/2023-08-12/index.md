@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-12](index.md)
 
+* [2023-08-12, 12:45:36](https://news.ycombinator.com/item?id=37099626) - [Rectify11 Improving upon the Windows 11 experience](https://rectify11.net)
 * [2023-08-12, 12:00:57](https://news.ycombinator.com/item?id=37099312) - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
 * [2023-08-12, 11:29:53](https://news.ycombinator.com/item?id=37099086) - [Microsoft Continues Right to Repair About Face, Makes Its Hardware Easier to Fix](https://www.techdirt.com/2023/08/11/microsoft-continues-about-face-on-right-to-repair-makes-its-hardware-easier-to-fix/)
 * [2023-08-12, 11:16:26](https://news.ycombinator.com/item?id=37099013) - [Confidence in U.S. Military Lowest in over Two Decades](https://news.gallup.com/poll/509189/confidence-military-lowest-two-decades.aspx)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-12, 12:45:36](https://news.ycombinator.com/item?id=37099626) - [Rectify11 Improving upon the Windows 11 experience](https://rectify11.net)
 * [2023-08-12, 12:00:57](https://news.ycombinator.com/item?id=37099312) - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
 * [2023-08-12, 11:29:53](https://news.ycombinator.com/item?id=37099086) - [Microsoft Continues Right to Repair About Face, Makes Its Hardware Easier to Fix](https://www.techdirt.com/2023/08/11/microsoft-continues-about-face-on-right-to-repair-makes-its-hardware-easier-to-fix/)
 * [2023-08-12, 10:51:56](https://news.ycombinator.com/item?id=37098875) - [tRPC – Move Fast and Break Nothing. End-to-end typesafe APIs made easy](https://trpc.io/)
@@ -10,7 +11,6 @@
 * [2023-08-12, 04:12:48](https://news.ycombinator.com/item?id=37096975) - [Leave It to the Beavers](https://isthmus.com/news/news/leave-it-to-the-beavers/)
 * [2023-08-12, 03:09:45](https://news.ycombinator.com/item?id=37096626) - [Fooocus: OSS for image generation by ControlNet author](https://github.com/lllyasviel/Fooocus)
 * [2023-08-12, 01:52:30](https://news.ycombinator.com/item?id=37096178) - [West Virginia University to drop 32 majors including all world language programs](https://www.wvgazettemail.com/news/education/wvu-to-drop-32-majors-including-all-world-language-programs/article_2b3d0aae-3962-544b-b1a3-7c28cb6df3ef.html)
-* [2023-08-12, 00:34:42](https://news.ycombinator.com/item?id=37095700) - [Optimization Algorithms for Planar Graphs](https://planarity.org/)
 * [2023-08-12, 00:21:13](https://news.ycombinator.com/item?id=37095616) - [If it can be designed on a computer, it can be built by robots](https://www.economist.com/science-and-technology/2023/08/09/if-it-can-be-designed-on-a-computer-it-can-be-built-by-robots)
 * [2023-08-12, 00:08:13](https://news.ycombinator.com/item?id=37095542) - [Show HN: Open-source proxy server for Llama2, GPT-4, Claude2 with Logging,Cache](https://github.com/BerriAI/litellm/blob/main/cookbook/proxy-server/readme.md)
 * [2023-08-11, 23:32:53](https://news.ycombinator.com/item?id=37095302) - [We need scientific dissidents](https://www.chronicle.com/article/we-need-scientific-dissidents-now-more-than-ever)
@@ -27,7 +27,7 @@
 * [2023-08-11, 04:33:13](https://news.ycombinator.com/item?id=37085138) - [Zero Motorcycles makes its service manuals free](https://www.hagerty.com/media/maintenance-and-tech/zero-motorcycles-steps-up-and-makes-its-service-manuals-free/)
 * [2023-08-10, 23:56:03](https://news.ycombinator.com/item?id=37083309) - [Show HN: Tetris, but the blocks are ARM instructions that execute in the browser](https://ofrak.com/tetris/)
 * [2023-08-10, 20:07:50](https://news.ycombinator.com/item?id=37081077) - [Using Retrieval Augmented Generation (RAG) to clear our GitHub backlog](https://docs.sweep.dev/blogs/sweeps-core-algo)
-* [2023-08-10, 14:34:29](https://news.ycombinator.com/item?id=37076679) - [You can't guess what's going to land–publish (pretty much) everything](https://tidyfirst.substack.com/p/publish-everything-pretty-much)
+* [2023-08-10, 14:34:29](https://news.ycombinator.com/item?id=37076679) - [Publish Everything (Pretty Much)](https://tidyfirst.substack.com/p/publish-everything-pretty-much)
 * [2023-08-09, 14:22:30](https://news.ycombinator.com/item?id=37063105) - [Iterators in Go: A proposed extension](https://bitfieldconsulting.com/golang/iterators)
 * [2023-08-09, 07:44:21](https://news.ycombinator.com/item?id=37059742) - [Special Relativity: Lorentz Transformations (2018) [video]](https://www.youtube.com/watch?v=Rh0pYtQG5wI)
 
