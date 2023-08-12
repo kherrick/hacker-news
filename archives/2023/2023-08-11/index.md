@@ -75,6 +75,7 @@
 * [2023-08-11, 09:19:12](https://news.ycombinator.com/item?id=37086686) - [TypeScript Without Transpilation](https://incrementalelm.com/typescript-without-transpilation/)
 * [2023-08-11, 08:15:43](https://news.ycombinator.com/item?id=37086308) - [Artificial General Intelligence – A gentle introduction](https://cis.temple.edu/~pwang/AGI-Intro.html)
 * [2023-08-11, 08:13:53](https://news.ycombinator.com/item?id=37086301) - [The Bipolar Lisp Programmer](https://www.marktarver.com/bipolar.html)
+* [2023-08-11, 07:48:59](https://news.ycombinator.com/item?id=37086176) - [Sorting in Emacs](https://susam.net/blog/sorting-in-emacs.html)
 * [2023-08-11, 07:11:38](https://news.ycombinator.com/item?id=37085966) - [The Life of a Lawyer in the Late Roman Republic](https://www.thecollector.com/life-lawyer-late-roman-republic/)
 * [2023-08-11, 05:37:34](https://news.ycombinator.com/item?id=37085449) - [Browsers barely care what HTTP status code your web pages are served with](https://utcc.utoronto.ca/~cks/space/blog/web/BrowsersAndHTTPStatusCodes)
 * [2023-08-11, 04:34:51](https://news.ycombinator.com/item?id=37085144) - [Oils 0.17.0 – YSH Is Becoming Real](https://www.oilshell.org/blog/2023/08/release-0.17.0.html)
