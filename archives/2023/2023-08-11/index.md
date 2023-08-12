@@ -61,6 +61,7 @@
 * [2023-08-11, 13:09:00](https://news.ycombinator.com/item?id=37088274) - [Dreams of new physics fade with latest muon magnetism result](https://www.nature.com/articles/d41586-023-02532-6)
 * [2023-08-11, 12:46:33](https://news.ycombinator.com/item?id=37088087) - [Launch HN: Wondercraft (YC S22) – Use text-to-speech to create podcasts easily](https://news.ycombinator.com/item?id=37088087)
 * [2023-08-11, 12:45:13](https://news.ycombinator.com/item?id=37088075) - [Scientists may be on brink of discovering fifth force of nature](https://www.theguardian.com/science/2023/aug/11/scientists-fifth-force-nature)
+* [2023-08-11, 12:13:05](https://news.ycombinator.com/item?id=37087791) - [The History of Electronic Mail](https://www.multicians.org/thvv/mail-history.html)
 * [2023-08-11, 12:10:49](https://news.ycombinator.com/item?id=37087772) - [California allows robo-taxis to expand and emergency responders aren't happy](https://www.npr.org/2023/08/10/1193272085/san-francisco-has-lots-of-self-driving-cars-theyre-driving-first-responders-nuts)
 * [2023-08-11, 11:29:48](https://news.ycombinator.com/item?id=37087459) - [I'm OK, the bull is dead (2004)](https://www.computerworld.com/article/2565077/i-m-ok--the-bull-is-dead.html)
 * [2023-08-11, 11:06:50](https://news.ycombinator.com/item?id=37087303) - [Feral desert donkeys are digging wells, giving water to parched wildlife](https://theconversation.com/feral-desert-donkeys-are-digging-wells-giving-water-to-parched-wildlife-159909)
