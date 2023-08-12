@@ -20,7 +20,6 @@
 * [2023-08-11, 23:32:53](https://news.ycombinator.com/item?id=37095302) - [We need scientific dissidents](https://www.chronicle.com/article/we-need-scientific-dissidents-now-more-than-ever)
 * [2023-08-11, 20:52:07](https://news.ycombinator.com/item?id=37093854) - [80% of bosses say they regret earlier return-to-office plans](https://www.cnbc.com/2023/08/11/80percent-of-bosses-say-they-regret-earlier-return-to-office-plans.html)
 * [2023-08-11, 19:15:35](https://news.ycombinator.com/item?id=37092687) - [The Frothy Saga of the Jacuzzi Family](https://www.nytimes.com/2023/08/11/style/the-frothy-saga-of-the-jacuzzi-family.html)
-* [2023-08-11, 18:36:42](https://news.ycombinator.com/item?id=37092212) - [Wendelstein 7-X: Gigajoule energy turnover generated for eight minutes](https://www.ipp.mpg.de/5322229/01_23)
 * [2023-08-11, 12:46:33](https://news.ycombinator.com/item?id=37088087) - [Launch HN: Wondercraft (YC S22) – Use text-to-speech to create podcasts easily](https://news.ycombinator.com/item?id=37088087)
 * [2023-08-11, 12:13:05](https://news.ycombinator.com/item?id=37087791) - [The History of Electronic Mail](https://www.multicians.org/thvv/mail-history.html)
 * [2023-08-11, 11:29:48](https://news.ycombinator.com/item?id=37087459) - [I'm OK, the bull is dead (2004)](https://www.computerworld.com/article/2565077/i-m-ok--the-bull-is-dead.html)
@@ -28,6 +27,7 @@
 * [2023-08-11, 08:42:43](https://news.ycombinator.com/item?id=37086455) - [Every Phone Should Be Able to Run Personal Website](https://rohanrd.xyz/posts/every-phone-should-be-able-to-run-personal-website/)
 * [2023-08-11, 07:48:59](https://news.ycombinator.com/item?id=37086176) - [Sorting in Emacs](https://susam.net/blog/sorting-in-emacs.html)
 * [2023-08-11, 06:07:52](https://news.ycombinator.com/item?id=37085604) - [Objective-C Internals](https://alwaysprocessing.blog/series/objc-internals)
+* [2023-08-10, 15:41:07](https://news.ycombinator.com/item?id=37077622) - [The Oregon Resilience Plan (2013) [pdf]](https://www.oregon.gov/oem/documents/oregon_resilience_plan_final.pdf)
 * [2023-08-10, 14:34:29](https://news.ycombinator.com/item?id=37076679) - [Publish Everything (Pretty Much)](https://tidyfirst.substack.com/p/publish-everything-pretty-much)
 * [2023-08-09, 07:44:21](https://news.ycombinator.com/item?id=37059742) - [Special Relativity: Lorentz Transformations (2018) [video]](https://www.youtube.com/watch?v=Rh0pYtQG5wI)
 

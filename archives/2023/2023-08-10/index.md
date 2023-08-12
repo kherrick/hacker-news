@@ -49,6 +49,7 @@
 * [2023-08-10, 16:04:32](https://news.ycombinator.com/item?id=37077927) - [Dave Portnoy Bought Back Barstool Sports for $1](https://www.hollywoodreporter.com/business/business-news/dave-portnoy-buys-back-barstool-sports-1-dollar-1235560225/)
 * [2023-08-10, 16:00:45](https://news.ycombinator.com/item?id=37077886) - [US set to unveil long-awaited crackdown on real estate money laundering](https://www.reuters.com/world/us/us-set-unveil-long-awaited-crackdown-real-estate-money-laundering-2023-08-10/)
 * [2023-08-10, 15:42:16](https://news.ycombinator.com/item?id=37077639) - [Phase in Acoustics](http://www.sengpielaudio.com/calculator-timedelayphase.htm)
+* [2023-08-10, 15:41:07](https://news.ycombinator.com/item?id=37077622) - [The Oregon Resilience Plan (2013) [pdf]](https://www.oregon.gov/oem/documents/oregon_resilience_plan_final.pdf)
 * [2023-08-10, 15:10:41](https://news.ycombinator.com/item?id=37077157) - [Researchers watched 100 hours of hackers hacking honeypot computers](https://techcrunch.com/2023/08/09/researchers-watched-100-hours-of-hackers-hacking-honeypot-computers/)
 * [2023-08-10, 14:57:13](https://news.ycombinator.com/item?id=37076968) - [Maybe the problem is that Harvard exists](https://dynomight.net/harvard/)
 * [2023-08-10, 14:54:44](https://news.ycombinator.com/item?id=37076933) - [Two Students Shoot Down a Widely Believed Math Conjecture](https://www.quantamagazine.org/two-students-shoot-down-a-widely-believed-math-conjecture-20230810/)
