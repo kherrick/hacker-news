@@ -21,7 +21,7 @@
 * [2023-08-11, 23:12:23](https://news.ycombinator.com/item?id=37095169) - [Extracellular communication between brain cells through transfer of Cre mRNA](https://www.biorxiv.org/content/10.1101/2023.01.29.525937v1)
 * [2023-08-11, 22:02:05](https://news.ycombinator.com/item?id=37094599) - [Pijul: Version-Control Post-Git [video]](https://www.youtube.com/watch?v=7MpdZkGj5AI)
 * [2023-08-11, 20:52:07](https://news.ycombinator.com/item?id=37093854) - [80% of bosses say they regret earlier return-to-office plans](https://www.cnbc.com/2023/08/11/80percent-of-bosses-say-they-regret-earlier-return-to-office-plans.html)
-* [2023-08-11, 12:13:05](https://news.ycombinator.com/item?id=37087791) - [The History of Electronic Mail](https://www.multicians.org/thvv/mail-history.html)
+* [2023-08-11, 19:15:35](https://news.ycombinator.com/item?id=37092687) - [The Frothy Saga of the Jacuzzi Family](https://www.nytimes.com/2023/08/11/style/the-frothy-saga-of-the-jacuzzi-family.html)
 * [2023-08-11, 11:29:48](https://news.ycombinator.com/item?id=37087459) - [I'm OK, the bull is dead (2004)](https://www.computerworld.com/article/2565077/i-m-ok--the-bull-is-dead.html)
 * [2023-08-11, 09:30:44](https://news.ycombinator.com/item?id=37086753) - [Show HN: Pip Imports in Deno](https://github.com/denosaurs/deno_python)
 * [2023-08-11, 07:48:59](https://news.ycombinator.com/item?id=37086176) - [Sorting in Emacs](https://susam.net/blog/sorting-in-emacs.html)
