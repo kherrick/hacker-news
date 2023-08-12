@@ -74,6 +74,7 @@
 * [2023-08-11, 09:34:59](https://news.ycombinator.com/item?id=37086779) - [George Hotz: There is no hard takeoff](https://geohot.github.io//blog/jekyll/update/2023/08/10/there-is-no-hard-takeoff.html)
 * [2023-08-11, 09:30:44](https://news.ycombinator.com/item?id=37086753) - [Show HN: Pip Imports in Deno](https://github.com/denosaurs/deno_python)
 * [2023-08-11, 09:19:12](https://news.ycombinator.com/item?id=37086686) - [TypeScript Without Transpilation](https://incrementalelm.com/typescript-without-transpilation/)
+* [2023-08-11, 08:42:43](https://news.ycombinator.com/item?id=37086455) - [Every Phone Should Be Able to Run Personal Website](https://rohanrd.xyz/posts/every-phone-should-be-able-to-run-personal-website/)
 * [2023-08-11, 08:15:43](https://news.ycombinator.com/item?id=37086308) - [Artificial General Intelligence – A gentle introduction](https://cis.temple.edu/~pwang/AGI-Intro.html)
 * [2023-08-11, 08:13:53](https://news.ycombinator.com/item?id=37086301) - [The Bipolar Lisp Programmer](https://www.marktarver.com/bipolar.html)
 * [2023-08-11, 07:48:59](https://news.ycombinator.com/item?id=37086176) - [Sorting in Emacs](https://susam.net/blog/sorting-in-emacs.html)
