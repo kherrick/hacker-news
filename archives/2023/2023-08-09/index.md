@@ -53,6 +53,7 @@
 * [2023-08-09, 14:29:49](https://news.ycombinator.com/item?id=37063238) - [SQLedge: Replicate Postgres to SQLite on the Edge](https://github.com/zknill/sqledge)
 * [2023-08-09, 14:26:46](https://news.ycombinator.com/item?id=37063184) - [Therapy as a way of aligning with your subconscious](https://ava.substack.com/p/therapy-as-a-way-of-aligning-with)
 * [2023-08-09, 14:24:56](https://news.ycombinator.com/item?id=37063151) - [Arpchat – Text your friends on the same network using just ARP](https://github.com/kognise/arpchat)
+* [2023-08-09, 14:22:30](https://news.ycombinator.com/item?id=37063105) - [Iterators are (maybe) coming to Go](https://bitfieldconsulting.com/golang/iterators)
 * [2023-08-09, 14:03:46](https://news.ycombinator.com/item?id=37062820) - [Nintendo filed numerous patents for Zelda: Tears of the Kingdom mechanics](https://automaton-media.com/en/news/20230808-20590/)
 * [2023-08-09, 14:01:51](https://news.ycombinator.com/item?id=37062793) - [What should you know about Svalbard? (2020)](https://best-citizenships.com/2020/02/11/what-should-you-know-about-svalbard/)
 * [2023-08-09, 13:59:15](https://news.ycombinator.com/item?id=37062755) - [Internationalization (i18n) best practices for front-end developers](https://shopify.engineering/internationalization-i18n-best-practices-front-end-developers)
