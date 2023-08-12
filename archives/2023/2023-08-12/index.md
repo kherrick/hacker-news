@@ -6,7 +6,9 @@
 
 * [2023-08-12, 16:06:00](https://news.ycombinator.com/item?id=37101588) - [Exploring the Internals of Linux v0.01](https://seiya.me/blog/reading-linux-v0.01)
 * [2023-08-12, 16:03:33](https://news.ycombinator.com/item?id=37101563) - [CLOS: Integrating Object-Oriented and Functional Programming (2004) [pdf]](https://dreamsongs.com/Files/clos-cacm.pdf)
+* [2023-08-12, 15:59:41](https://news.ycombinator.com/item?id=37101515) - [Deep Learning Systems (CMU Course)](https://dlsyscourse.org/lectures/)
 * [2023-08-12, 15:14:44](https://news.ycombinator.com/item?id=37101012) - [Hollywood’s Cold War Dissidents in Ireland](https://www.historytoday.com/archive/history-matters/dangerous-reds)
+* [2023-08-12, 15:11:57](https://news.ycombinator.com/item?id=37100986) - [Vectorized UTF-8 Validation for Java](https://github.com/AugustNagro/utf8.java)
 * [2023-08-12, 14:39:26](https://news.ycombinator.com/item?id=37100641) - [Securing Your PostgreSQL DB with Roles and Privileges](https://rlopzc.com/posts/securing-your-postgresql-db-with-roles--privileges/)
 * [2023-08-12, 14:32:39](https://news.ycombinator.com/item?id=37100565) - [NASA's Software Catalog offers hundreds of new software programs for free](https://software.nasa.gov/)
 * [2023-08-12, 14:24:05](https://news.ycombinator.com/item?id=37100503) - [Fedora Asahi Remix first impressions](https://jasoneckert.github.io/myblog/fedora-asahi-remix/)
