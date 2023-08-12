@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-12, 12:00:57](https://news.ycombinator.com/item?id=37099312) - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
 * [2023-08-12, 10:51:56](https://news.ycombinator.com/item?id=37098875) - [tRPC – Move Fast and Break Nothing. End-to-end typesafe APIs made easy](https://trpc.io/)
 * [2023-08-12, 10:07:08](https://news.ycombinator.com/item?id=37098663) - [Build declaratively back ends and APIs with GraphQL or REST](https://github.com/metatypedev/metatype)
 * [2023-08-12, 09:49:26](https://news.ycombinator.com/item?id=37098591) - [I feel like I made a mistake investing professionally into Flutter](https://old.reddit.com/r/FlutterDev/comments/15njq61/i_feel_like_i_mad_a_mistake_investing/)
@@ -9,7 +10,6 @@
 * [2023-08-12, 04:12:48](https://news.ycombinator.com/item?id=37096975) - [Leave It to the Beavers](https://isthmus.com/news/news/leave-it-to-the-beavers/)
 * [2023-08-12, 03:09:45](https://news.ycombinator.com/item?id=37096626) - [Fooocus: OSS for image generation by ControlNet author](https://github.com/lllyasviel/Fooocus)
 * [2023-08-12, 01:52:30](https://news.ycombinator.com/item?id=37096178) - [West Virginia University to drop 32 majors including all world language programs](https://www.wvgazettemail.com/news/education/wvu-to-drop-32-majors-including-all-world-language-programs/article_2b3d0aae-3962-544b-b1a3-7c28cb6df3ef.html)
-* [2023-08-12, 01:00:44](https://news.ycombinator.com/item?id=37095849) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=37095849)
 * [2023-08-12, 00:21:13](https://news.ycombinator.com/item?id=37095616) - [If it can be designed on a computer, it can be built by robots](https://www.economist.com/science-and-technology/2023/08/09/if-it-can-be-designed-on-a-computer-it-can-be-built-by-robots)
 * [2023-08-12, 00:08:13](https://news.ycombinator.com/item?id=37095542) - [Show HN: Open-source proxy server for Llama2, GPT-4, Claude2 with Logging,Cache](https://github.com/BerriAI/litellm/blob/main/cookbook/proxy-server/readme.md)
 * [2023-08-11, 23:32:53](https://news.ycombinator.com/item?id=37095302) - [We need scientific dissidents](https://www.chronicle.com/article/we-need-scientific-dissidents-now-more-than-ever)
