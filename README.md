@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-12, 20:10:51](https://news.ycombinator.com/item?id=37103802) - [Auditory illusions with examples from Daft Punk](https://www.ugu.rs/blog/auditory-illusions-with-samples-from-daft-punk/)
 * [2023-08-12, 18:37:54](https://news.ycombinator.com/item?id=37102974) - [Learning Algorithms](https://paedubucher.ch/articles/2023-07-29-learning-algorithms.html)
 * [2023-08-12, 17:56:32](https://news.ycombinator.com/item?id=37102610) - [The US government is taking a step toward space-based nuclear propulsion](https://arstechnica.com/space/2023/07/nasa-seeks-to-launch-a-nuclear-powered-rocket-engine-in-four-years/)
 * [2023-08-12, 17:41:10](https://news.ycombinator.com/item?id=37102482) - [Tracing the roots of the 8086 instruction set to the Datapoint 2200 minicomputer](https://www.righto.com/2023/08/datapoint-to-8086.html)
@@ -16,7 +17,6 @@
 * [2023-08-12, 13:57:18](https://news.ycombinator.com/item?id=37100226) - [The Carrot Problem](https://www.atvbt.com/the-carrot-problem/)
 * [2023-08-12, 13:49:10](https://news.ycombinator.com/item?id=37100140) - [Record labels hit Internet Archive with new copyright lawsuit](https://torrentfreak.com/record-labels-hit-internet-archive-with-new-400m-copyright-lawsuit-230812/)
 * [2023-08-12, 13:02:58](https://news.ycombinator.com/item?id=37099750) - [20 Years of Vim](https://www.contextualize.ai/mpereira/20-years-of-vim-ef9acae9)
-* [2023-08-12, 11:29:53](https://news.ycombinator.com/item?id=37099086) - [Microsoft continues right to repair about face, makes its hardware easier to fix](https://www.techdirt.com/2023/08/11/microsoft-continues-about-face-on-right-to-repair-makes-its-hardware-easier-to-fix/)
 * [2023-08-12, 10:51:56](https://news.ycombinator.com/item?id=37098875) - [tRPC – Build and consume typesafe APIs without schemas or code generation](https://trpc.io/)
 * [2023-08-12, 09:28:34](https://news.ycombinator.com/item?id=37098483) - [How a startup loses its spark](https://blog.johnqian.com/startup-spark)
 * [2023-08-12, 08:36:03](https://news.ycombinator.com/item?id=37098229) - [Programming Techniques: Regular expression search algorithm (1968)](https://dl.acm.org/doi/10.1145/363347.363387)
