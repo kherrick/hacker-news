@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-12](index.md)
 
+* [2023-08-12, 03:09:45](https://news.ycombinator.com/item?id=37096626) - [Fooocus: OSS for image generation by ControlNet author](https://github.com/lllyasviel/Fooocus)
 * [2023-08-12, 01:46:51](https://news.ycombinator.com/item?id=37096149) - [Internet Archive: “Our Fight Is Far from Over”](https://blog.archive.org/2023/08/11/our-fight-is-far-from-over/)
 * [2023-08-12, 01:27:10](https://news.ycombinator.com/item?id=37096015) - [Police stage ‘chilling’ raid on Marion County newspaper](https://kansasreflector.com/2023/08/11/police-stage-chilling-raid-on-marion-county-newspaper-seizing-computers-records-and-cellphones/)
 * [2023-08-12, 01:00:44](https://news.ycombinator.com/item?id=37095849) - [Generally Intelligent (YC S17) Is Hiring Machine Learning Research Engineers](https://news.ycombinator.com/item?id=37095849)
