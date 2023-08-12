@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-12](index.md)
 
+* [2023-08-12, 17:00:06](https://news.ycombinator.com/item?id=37102090) - [Motion (YC W20) Is Hiring Software Engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
 * [2023-08-12, 16:06:00](https://news.ycombinator.com/item?id=37101588) - [Exploring the Internals of Linux v0.01](https://seiya.me/blog/reading-linux-v0.01)
 * [2023-08-12, 16:03:33](https://news.ycombinator.com/item?id=37101563) - [CLOS: Integrating Object-Oriented and Functional Programming (2004) [pdf]](https://dreamsongs.com/Files/clos-cacm.pdf)
 * [2023-08-12, 15:59:41](https://news.ycombinator.com/item?id=37101515) - [Deep Learning Systems (CMU Course)](https://dlsyscourse.org/lectures/)
