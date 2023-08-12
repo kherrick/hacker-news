@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-08-12](index.md)
 
+* [2023-08-12, 16:06:00](https://news.ycombinator.com/item?id=37101588) - [Exploring the Internals of Linux v0.01](https://seiya.me/blog/reading-linux-v0.01)
+* [2023-08-12, 16:03:33](https://news.ycombinator.com/item?id=37101563) - [CLOS: Integrating Object-Oriented and Functional Programming (2004) [pdf]](https://dreamsongs.com/Files/clos-cacm.pdf)
+* [2023-08-12, 15:14:44](https://news.ycombinator.com/item?id=37101012) - [Hollywood’s Cold War Dissidents in Ireland](https://www.historytoday.com/archive/history-matters/dangerous-reds)
 * [2023-08-12, 14:39:26](https://news.ycombinator.com/item?id=37100641) - [Securing Your PostgreSQL DB with Roles and Privileges](https://rlopzc.com/posts/securing-your-postgresql-db-with-roles--privileges/)
 * [2023-08-12, 14:32:39](https://news.ycombinator.com/item?id=37100565) - [NASA's Software Catalog offers hundreds of new software programs for free](https://software.nasa.gov/)
 * [2023-08-12, 13:57:18](https://news.ycombinator.com/item?id=37100226) - [The Carrot Problem](https://www.atvbt.com/the-carrot-problem/)
 * [2023-08-12, 13:50:13](https://news.ycombinator.com/item?id=37100153) - [Chinese Trust Companies on the Brink](https://www.asiamarkets.com/chinese-trust-companies-on-the-brink-looming-bankruptcies-bigger-than-evergrande/)
 * [2023-08-12, 13:49:10](https://news.ycombinator.com/item?id=37100140) - [Record Labels Hit Internet Archive with New $400M+ Copyright Lawsuit](https://torrentfreak.com/record-labels-hit-internet-archive-with-new-400m-copyright-lawsuit-230812/)
+* [2023-08-12, 13:13:47](https://news.ycombinator.com/item?id=37099836) - [New finding boosts Panspermia theory that life on Earth originated in deep space](https://nautil.us/we-came-from-outer-space-360264/)
 * [2023-08-12, 13:07:26](https://news.ycombinator.com/item?id=37099780) - [Harvard University Richest in World Encourages Students to Go on Food Stamps](https://finance.yahoo.com/news/harvard-university-encourages-students-food-171022208.html)
 * [2023-08-12, 13:04:21](https://news.ycombinator.com/item?id=37099761) - [Notes on running a single-person Mastodon server](https://jvns.ca/blog/2023/08/11/some-notes-on-mastodon/)
 * [2023-08-12, 13:02:58](https://news.ycombinator.com/item?id=37099750) - [20 Years of Vim](https://www.contextualize.ai/mpereira/20-years-of-vim-ef9acae9)
