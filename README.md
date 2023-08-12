@@ -7,6 +7,7 @@
 * [2023-08-12, 18:37:54](https://news.ycombinator.com/item?id=37102974) - [Learning Algorithms](https://paedubucher.ch/articles/2023-07-29-learning-algorithms.html)
 * [2023-08-12, 17:56:32](https://news.ycombinator.com/item?id=37102610) - [The US government is taking a step toward space-based nuclear propulsion](https://arstechnica.com/space/2023/07/nasa-seeks-to-launch-a-nuclear-powered-rocket-engine-in-four-years/)
 * [2023-08-12, 17:41:10](https://news.ycombinator.com/item?id=37102482) - [Tracing the roots of the 8086 instruction set to the Datapoint 2200 minicomputer](https://www.righto.com/2023/08/datapoint-to-8086.html)
+* [2023-08-12, 17:27:20](https://news.ycombinator.com/item?id=37102360) - [Some problems with 'first name' and 'last name' fields in data](https://utcc.utoronto.ca/~cks/space/blog/programming/WhyNotFirstAndLastNameFields)
 * [2023-08-12, 16:06:00](https://news.ycombinator.com/item?id=37101588) - [Exploring the Internals of Linux v0.01](https://seiya.me/blog/reading-linux-v0.01)
 * [2023-08-12, 16:03:33](https://news.ycombinator.com/item?id=37101563) - [CLOS: Integrating Object-Oriented and Functional Programming (2004) [pdf]](https://dreamsongs.com/Files/clos-cacm.pdf)
 * [2023-08-12, 15:59:41](https://news.ycombinator.com/item?id=37101515) - [Deep Learning Systems (CMU Course)](https://dlsyscourse.org/lectures/)
@@ -28,7 +29,6 @@
 * [2023-08-11, 09:30:44](https://news.ycombinator.com/item?id=37086753) - [Show HN: Pip Imports in Deno](https://github.com/denosaurs/deno_python)
 * [2023-08-11, 08:42:43](https://news.ycombinator.com/item?id=37086455) - [Every phone should be able to run personal website](https://rohanrd.xyz/posts/every-phone-should-be-able-to-run-personal-website/)
 * [2023-08-11, 07:48:59](https://news.ycombinator.com/item?id=37086176) - [Sorting in Emacs](https://susam.net/blog/sorting-in-emacs.html)
-* [2023-08-11, 06:22:17](https://news.ycombinator.com/item?id=37085687) - [The Character Generator ROM](https://www.atariarchives.org/cgp/Ch02_Sec04.php)
 * [2023-08-11, 06:09:20](https://news.ycombinator.com/item?id=37085618) - [The Downsides of C++ Coroutines](https://reductor.dev/cpp/2023/08/10/the-downsides-of-coroutines.html)
 
 ## [Archives](archives/index.md)
