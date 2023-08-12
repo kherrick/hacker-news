@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-12](index.md)
 
+* [2023-08-12, 11:16:26](https://news.ycombinator.com/item?id=37099013) - [Confidence in U.S. Military Lowest in over Two Decades](https://news.gallup.com/poll/509189/confidence-military-lowest-two-decades.aspx)
 * [2023-08-12, 10:51:56](https://news.ycombinator.com/item?id=37098875) - [tRPC – Move Fast and Break Nothing. End-to-end typesafe APIs made easy](https://trpc.io/)
 * [2023-08-12, 10:07:08](https://news.ycombinator.com/item?id=37098663) - [Build declaratively back ends and APIs with GraphQL or REST](https://github.com/metatypedev/metatype)
 * [2023-08-12, 09:49:26](https://news.ycombinator.com/item?id=37098591) - [I feel like I made a mistake investing professionally into Flutter](https://old.reddit.com/r/FlutterDev/comments/15njq61/i_feel_like_i_mad_a_mistake_investing/)
