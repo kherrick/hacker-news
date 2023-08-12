@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2023-08-12, 12:42:20",
+      "https://news.ycombinator.com/item?id=37099604"
+    ],
+    [
+      "AML works, even if it intercepts less than 1% of criminal proceeds",
+      "http://jpkoning.blogspot.com/2023/08/aml-works-even-if-it-intercepts-less.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-12, 12:30:12",
+      "https://news.ycombinator.com/item?id=37099518"
+    ],
+    [
+      "San Franciscans Are Having Sex in Robotaxis, and Nobody Is Talking About It",
+      "https://sfstandard.com/2023/08/11/san-francisco-robotaxi-cruise-debauchery/"
+    ]
+  ],
+  [
+    [
       "2023-08-12, 12:00:57",
       "https://news.ycombinator.com/item?id=37099312"
     ],
@@ -51,6 +71,16 @@
   ],
   [
     [
+      "2023-08-12, 09:49:26",
+      "https://news.ycombinator.com/item?id=37098591"
+    ],
+    [
+      "I feel like I made a mistake investing professionally into Flutter",
+      "https://reddit.com/r/FlutterDev/comments/15njq61/i_feel_like_i_mad_a_mistake_investing/"
+    ]
+  ],
+  [
+    [
       "2023-08-12, 09:28:34",
       "https://news.ycombinator.com/item?id=37098483"
     ],
@@ -61,12 +91,12 @@
   ],
   [
     [
-      "2023-08-12, 04:25:34",
-      "https://news.ycombinator.com/item?id=37097048"
+      "2023-08-12, 07:40:14",
+      "https://news.ycombinator.com/item?id=37097973"
     ],
     [
-      "Sapphire Rapids Core-to-Core Latency",
-      "https://jprahman.substack.com/p/sapphire-rapids-core-to-core-latency"
+      "What is gained and lost with 63-bit integers? (2014)",
+      "https://blog.janestreet.com/what-is-gained-and-lost-with-63-bit-integers/"
     ]
   ],
   [
@@ -125,7 +155,7 @@
       "https://news.ycombinator.com/item?id=37095542"
     ],
     [
-      "Show HN: Open-source proxy server for Llama2, GPT-4, Claude2 with Logging,Cache",
+      "Show HN: liteLLM Proxy Server: 50+ LLM Models, Error Handling, Caching",
       "https://github.com/BerriAI/litellm/blob/main/cookbook/proxy-server/readme.md"
     ]
   ],
@@ -145,7 +175,7 @@
       "https://news.ycombinator.com/item?id=37095169"
     ],
     [
-      "Extracellular communication between brain cells through transfer of mRNA",
+      "Extracellular communication between brain cells through transfer of Cre mRNA",
       "https://www.biorxiv.org/content/10.1101/2023.01.29.525937v1"
     ]
   ],
@@ -177,16 +207,6 @@
     [
       "Wendelstein 7-X: Gigajoule energy turnover generated for eight minutes",
       "https://www.ipp.mpg.de/5322229/01_23"
-    ]
-  ],
-  [
-    [
-      "2023-08-11, 12:46:33",
-      "https://news.ycombinator.com/item?id=37088087"
-    ],
-    [
-      "Launch HN: Wondercraft (YC S22) – Use text-to-speech to create podcasts easily",
-      "https://news.ycombinator.com/item?id=37088087"
     ]
   ],
   [
@@ -247,26 +267,6 @@
     [
       "Zero Motorcycles makes its service manuals free",
       "https://www.hagerty.com/media/maintenance-and-tech/zero-motorcycles-steps-up-and-makes-its-service-manuals-free/"
-    ]
-  ],
-  [
-    [
-      "2023-08-10, 23:56:03",
-      "https://news.ycombinator.com/item?id=37083309"
-    ],
-    [
-      "Show HN: Tetris, but the blocks are ARM instructions that execute in the browser",
-      "https://ofrak.com/tetris/"
-    ]
-  ],
-  [
-    [
-      "2023-08-10, 20:07:50",
-      "https://news.ycombinator.com/item?id=37081077"
-    ],
-    [
-      "Using Retrieval Augmented Generation (RAG) to clear our GitHub backlog",
-      "https://docs.sweep.dev/blogs/sweeps-core-algo"
     ]
   ],
   [
