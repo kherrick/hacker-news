@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-12, 07:40:14](https://news.ycombinator.com/item?id=37097973) - [What is gained and lost with 63-bit integers? (2014)](https://blog.janestreet.com/what-is-gained-and-lost-with-63-bit-integers/)
 * [2023-08-12, 05:40:30](https://news.ycombinator.com/item?id=37097353) - [Beginner's Guide to Llama Models](https://agi-sphere.com/llama-guide/)
 * [2023-08-12, 05:25:37](https://news.ycombinator.com/item?id=37097287) - [Multiple Incidents: B789 deviated from localizer, descended below safe altitude](https://avherald.com/h?article=4d42d0b5)
 * [2023-08-12, 04:25:34](https://news.ycombinator.com/item?id=37097048) - [Sapphire Rapids Core-to-Core Latency](https://jprahman.substack.com/p/sapphire-rapids-core-to-core-latency)
@@ -22,7 +23,6 @@
 * [2023-08-11, 18:18:34](https://news.ycombinator.com/item?id=37091989) - [RFC 9446 Reflections on Ten Years Past the Snowden Revelations](https://www.rfc-editor.org/rfc/rfc9446.html)
 * [2023-08-11, 18:18:02](https://news.ycombinator.com/item?id=37091983) - [Squeeze the hell out of the system you have](https://blog.danslimmon.com/2023/08/11/squeeze-the-hell-out-of-the-system-you-have/#like-2777)
 * [2023-08-11, 17:12:43](https://news.ycombinator.com/item?id=37091122) - [Show HN: Pykoi – a Python library for LLM data collection and fine tuning](https://www.cambioml.com/pykoi/)
-* [2023-08-11, 15:24:28](https://news.ycombinator.com/item?id=37089739) - [Tailscale vs. Narrowlink](https://narrowlink.com/docs/comparisons/tailscale)
 * [2023-08-11, 12:46:33](https://news.ycombinator.com/item?id=37088087) - [Launch HN: Wondercraft (YC S22) – Use text-to-speech to create podcasts easily](https://news.ycombinator.com/item?id=37088087)
 * [2023-08-11, 04:33:13](https://news.ycombinator.com/item?id=37085138) - [Zero Motorcycles makes its service manuals free](https://www.hagerty.com/media/maintenance-and-tech/zero-motorcycles-steps-up-and-makes-its-service-manuals-free/)
 * [2023-08-11, 04:15:21](https://news.ycombinator.com/item?id=37085040) - [A Woman Behind Borges](https://www.thedial.world/issue-7/jorge-luis-borges-legacy-maria-kodama)
