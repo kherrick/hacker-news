@@ -90,6 +90,7 @@
 * [2023-08-09, 08:28:11](https://news.ycombinator.com/item?id=37060014) - [Stop Using Brave Browser](https://www.spacebar.news/p/stop-using-brave-browser)
 * [2023-08-09, 08:02:54](https://news.ycombinator.com/item?id=37059857) - [Canonical's interview process step by step (by step by step by)](https://old.reddit.com/r/recruitinghell/comments/15kj845/canonical_the_recruitment_process_really_is_that/)
 * [2023-08-09, 07:58:21](https://news.ycombinator.com/item?id=37059842) - [Ubiquitous products](https://toiviainen.xyz/ubiquitous)
+* [2023-08-09, 07:44:21](https://news.ycombinator.com/item?id=37059742) - [Lorentz Transformations – Special Relativity Ch. 3 [video]](https://www.youtube.com/watch?v=Rh0pYtQG5wI)
 * [2023-08-09, 07:16:37](https://news.ycombinator.com/item?id=37059594) - [Reflecting on My Failure to Build a Billion-Dollar Company (2019)](https://sahillavingia.com/reflecting)
 * [2023-08-09, 07:05:20](https://news.ycombinator.com/item?id=37059533) - [Amazon has more than half of all Arm server CPUs in the world](https://www.theregister.com/2023/08/08/amazon_arm_servers/)
 * [2023-08-09, 06:55:13](https://news.ycombinator.com/item?id=37059487) - [A Critical Problem – This photo gives me the creeps](https://nucleardiner.wordpress.com/2017/06/19/a-critical-problem/)
