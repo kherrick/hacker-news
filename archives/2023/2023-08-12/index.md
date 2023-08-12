@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-12](index.md)
 
+* [2023-08-12, 05:40:30](https://news.ycombinator.com/item?id=37097353) - [Beginner's Guide to Llama Models](https://agi-sphere.com/llama-guide/)
 * [2023-08-12, 05:25:37](https://news.ycombinator.com/item?id=37097287) - [Multiple B787s descend below minimum safe altitude due to autopilot software bug](https://avherald.com/h?article=4d42d0b5)
 * [2023-08-12, 04:25:34](https://news.ycombinator.com/item?id=37097048) - [Sapphire Rapids Core-to-Core Latency](https://jprahman.substack.com/p/sapphire-rapids-core-to-core-latency)
 * [2023-08-12, 04:12:48](https://news.ycombinator.com/item?id=37096975) - [Leave It to the Beavers](https://isthmus.com/news/news/leave-it-to-the-beavers/)
