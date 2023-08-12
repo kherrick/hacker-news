@@ -19,6 +19,7 @@
 * [2023-08-10, 20:41:05](https://news.ycombinator.com/item?id=37081485) - [Was Y Combinator worth it?](https://tableflow.com/blog/was-y-combinator-worth-it)
 * [2023-08-10, 20:26:37](https://news.ycombinator.com/item?id=37081306) - [HashiCorp Adopts Business Source License](https://www.hashicorp.com/blog/hashicorp-adopts-business-source-license)
 * [2023-08-10, 20:12:22](https://news.ycombinator.com/item?id=37081129) - [Amiga runs Michigan schools' heating and air conditioning systems](https://www.woodtv.com/news/grand-rapids/1980s-computer-controls-grps-heat-and-ac/)
+* [2023-08-10, 20:07:50](https://news.ycombinator.com/item?id=37081077) - [Using Retrieval Augmented Generation (RAG) to clear our GitHub backlog](https://docs.sweep.dev/blogs/sweeps-core-algo)
 * [2023-08-10, 19:58:00](https://news.ycombinator.com/item?id=37080963) - [There are 28 vacant homes for every person experiencing homelessness in the U.S.](https://unitedwaynca.org/blog/vacant-homes-vs-homelessness-by-city/)
 * [2023-08-10, 19:43:23](https://news.ycombinator.com/item?id=37080790) - [Muon g-2 doubles down with latest measurement, explores uncharted territory](https://news.fnal.gov/2023/08/muon-g-2-doubles-down-with-latest-measurement/)
 * [2023-08-10, 19:07:38](https://news.ycombinator.com/item?id=37080404) - [Turns out lowly thymus may be saving your life](https://news.harvard.edu/gazette/story/2023/08/turns-out-lowly-thymus-may-be-saving-your-life/)

@@ -11,7 +11,6 @@
 * [2023-08-11, 23:12:23](https://news.ycombinator.com/item?id=37095169) - [Extracellular communication between brain cells through transfer of mRNA](https://www.biorxiv.org/content/10.1101/2023.01.29.525937v1)
 * [2023-08-11, 22:02:05](https://news.ycombinator.com/item?id=37094599) - [Pijul: Version-Control Post-Git • Goto 2023](https://www.youtube.com/watch?v=7MpdZkGj5AI)
 * [2023-08-11, 21:13:49](https://news.ycombinator.com/item?id=37094111) - [An Introduction to Graph Theory](https://arxiv.org/abs/2308.04512)
-* [2023-08-11, 20:30:30](https://news.ycombinator.com/item?id=37093632) - [Web Environment Integrity has no standing at W3C; understanding new W3C work](https://www.w3.org/blog/2023/web-environment-integrity-has-no-standing-at-w3c/)
 * [2023-08-11, 20:22:14](https://news.ycombinator.com/item?id=37093554) - [ARM’s Cortex A710: Winning by Default](https://chipsandcheese.com/2023/08/11/arms-cortex-a710-winning-by-default/)
 * [2023-08-11, 19:28:46](https://news.ycombinator.com/item?id=37092861) - [Judge sends Sam Bankman-Fried to jail over witness tampering](https://www.cnbc.com/2023/08/11/judge-to-revoke-bail-for-ftx-founder-sam-bankman-fried-over-witness-tampering.html)
 * [2023-08-11, 18:46:33](https://news.ycombinator.com/item?id=37092319) - [The inability to simultaneously verify sentience, location, and identity](https://arxiv.org/abs/2308.02202)
@@ -28,6 +27,7 @@
 * [2023-08-11, 04:33:13](https://news.ycombinator.com/item?id=37085138) - [Zero Motorcycles makes its service manuals free](https://www.hagerty.com/media/maintenance-and-tech/zero-motorcycles-steps-up-and-makes-its-service-manuals-free/)
 * [2023-08-11, 04:21:29](https://news.ycombinator.com/item?id=37085066) - [The Master Fabulist of American Fiction](https://www.newyorker.com/magazine/2023/08/14/disruptions-steven-millhauser-book-review)
 * [2023-08-11, 04:15:21](https://news.ycombinator.com/item?id=37085040) - [A Woman Behind Borges](https://www.thedial.world/issue-7/jorge-luis-borges-legacy-maria-kodama)
+* [2023-08-10, 20:07:50](https://news.ycombinator.com/item?id=37081077) - [Using Retrieval Augmented Generation (RAG) to clear our GitHub backlog](https://docs.sweep.dev/blogs/sweeps-core-algo)
 * [2023-08-09, 14:22:30](https://news.ycombinator.com/item?id=37063105) - [Iterators in Go: A proposed extension](https://bitfieldconsulting.com/golang/iterators)
 * [2023-08-09, 07:44:21](https://news.ycombinator.com/item?id=37059742) - [Lorentz Transformations – Special Relativity Ch. 3 [video]](https://www.youtube.com/watch?v=Rh0pYtQG5wI)
 
