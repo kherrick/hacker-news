@@ -2,7 +2,6 @@
 
 * [2023-08-12, 13:50:13](https://news.ycombinator.com/item?id=37100153) - [Chinese Trust Companies on the Brink](https://www.asiamarkets.com/chinese-trust-companies-on-the-brink-looming-bankruptcies-bigger-than-evergrande/)
 * [2023-08-12, 13:49:10](https://news.ycombinator.com/item?id=37100140) - [Record Labels Hit Internet Archive with New $400M+ Copyright Lawsuit](https://torrentfreak.com/record-labels-hit-internet-archive-with-new-400m-copyright-lawsuit-230812/)
-* [2023-08-12, 13:07:26](https://news.ycombinator.com/item?id=37099780) - [Harvard University Encourages Students To Go On Food Stamps](https://finance.yahoo.com/news/harvard-university-encourages-students-food-171022208.html)
 * [2023-08-12, 13:02:58](https://news.ycombinator.com/item?id=37099750) - [20 Years of Vim](https://www.contextualize.ai/mpereira/20-years-of-vim-ef9acae9)
 * [2023-08-12, 12:00:57](https://news.ycombinator.com/item?id=37099312) - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
 * [2023-08-12, 11:29:53](https://news.ycombinator.com/item?id=37099086) - [Microsoft continues right to repair about face, makes its hardware easier to fix](https://www.techdirt.com/2023/08/11/microsoft-continues-about-face-on-right-to-repair-makes-its-hardware-easier-to-fix/)
@@ -20,6 +19,7 @@
 * [2023-08-11, 23:32:53](https://news.ycombinator.com/item?id=37095302) - [We need scientific dissidents](https://www.chronicle.com/article/we-need-scientific-dissidents-now-more-than-ever)
 * [2023-08-11, 20:52:07](https://news.ycombinator.com/item?id=37093854) - [80% of bosses say they regret earlier return-to-office plans](https://www.cnbc.com/2023/08/11/80percent-of-bosses-say-they-regret-earlier-return-to-office-plans.html)
 * [2023-08-11, 19:15:35](https://news.ycombinator.com/item?id=37092687) - [The Frothy Saga of the Jacuzzi Family](https://www.nytimes.com/2023/08/11/style/the-frothy-saga-of-the-jacuzzi-family.html)
+* [2023-08-11, 18:36:42](https://news.ycombinator.com/item?id=37092212) - [Wendelstein 7-X: Gigajoule energy turnover generated for eight minutes](https://www.ipp.mpg.de/5322229/01_23)
 * [2023-08-11, 12:46:33](https://news.ycombinator.com/item?id=37088087) - [Launch HN: Wondercraft (YC S22) – Use text-to-speech to create podcasts easily](https://news.ycombinator.com/item?id=37088087)
 * [2023-08-11, 12:13:05](https://news.ycombinator.com/item?id=37087791) - [The History of Electronic Mail](https://www.multicians.org/thvv/mail-history.html)
 * [2023-08-11, 11:29:48](https://news.ycombinator.com/item?id=37087459) - [I'm OK, the bull is dead (2004)](https://www.computerworld.com/article/2565077/i-m-ok--the-bull-is-dead.html)
