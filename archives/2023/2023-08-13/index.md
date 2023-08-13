@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
+* [2023-08-13, 11:23:12](https://news.ycombinator.com/item?id=37108864) - [We're All Wrong About AI](https://arnoldkling.substack.com/p/were-all-wrong-about-ai)
+* [2023-08-13, 11:08:19](https://news.ycombinator.com/item?id=37108782) - [People Drawn to Conspiracy Theories Share a Cluster of Psychological Features](https://www.scientificamerican.com/article/people-drawn-to-conspiracy-theories-share-a-cluster-of-psychological-features/)
 * [2023-08-13, 09:36:55](https://news.ycombinator.com/item?id=37108238) - [Sqlx: I'm sorry I forked you](https://sql.ophir.dev/blog.sql?post=I%E2%80%99m+sorry+I+forked+you)
 * [2023-08-13, 09:24:42](https://news.ycombinator.com/item?id=37108172) - [Why skilled immigration (usually) benefits both countries](https://www.noahpinion.blog/p/why-skilled-immigration-usually-benefits)
 * [2023-08-13, 09:17:43](https://news.ycombinator.com/item?id=37108132) - [The Scarcest Thing in the World](https://www.honest-broker.com/p/the-scarcest-thing-in-the-world)
@@ -13,6 +15,7 @@
 * [2023-08-13, 08:26:34](https://news.ycombinator.com/item?id=37107817) - [Cargo Cult Science by Richard P. Feynman (1974) [pdf]](https://calteches.library.caltech.edu/51/2/CargoCult.pdf)
 * [2023-08-13, 07:37:17](https://news.ycombinator.com/item?id=37107563) - [How to parent more predictably (2018)](https://www.jefftk.com/p/how-to-parent-more-predictably)
 * [2023-08-13, 07:23:04](https://news.ycombinator.com/item?id=37107488) - [The Meaning of Monad in MonadTrans](https://www.parsonsmatt.org/2023/08/10/the_meaning_of_monad_in_monadtrans.html)
+* [2023-08-13, 07:18:05](https://news.ycombinator.com/item?id=37107465) - [3D display could soon bring touch to the digital world](https://www.colorado.edu/today/2023/07/31/3d-display-could-soon-bring-touch-digital-world)
 * [2023-08-13, 07:01:13](https://news.ycombinator.com/item?id=37107358) - [Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=37107358)
 * [2023-08-13, 07:00:16](https://news.ycombinator.com/item?id=37107352) - [Move Back to Datacenters](https://rakkhi.substack.com/p/why-you-should-move-back-to-datacenters)
 * [2023-08-13, 06:50:14](https://news.ycombinator.com/item?id=37107298) - [Render nuked my entire account with no notice](https://news.ycombinator.com/item?id=37107298)
