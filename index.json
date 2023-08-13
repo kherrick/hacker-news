@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-13, 09:36:55",
+      "https://news.ycombinator.com/item?id=37108238"
+    ],
+    [
+      "Sqlx: I'm sorry I forked you",
+      "https://sql.ophir.dev/blog.sql?post=I%E2%80%99m+sorry+I+forked+you"
+    ]
+  ],
+  [
+    [
       "2023-08-13, 09:07:01",
       "https://news.ycombinator.com/item?id=37108063"
     ],
@@ -37,16 +47,6 @@
     [
       "The Meaning of Monad in MonadTrans",
       "https://www.parsonsmatt.org/2023/08/10/the_meaning_of_monad_in_monadtrans.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-13, 07:01:13",
-      "https://news.ycombinator.com/item?id=37107358"
-    ],
-    [
-      "Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing",
-      "https://news.ycombinator.com/item?id=37107358"
     ]
   ],
   [
