@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-13, 15:01:02](https://news.ycombinator.com/item?id=37110628) - [Pdftool.org: modify pdfs offline in the browser](https://www.pdftool.org)
 * [2023-08-13, 14:40:31](https://news.ycombinator.com/item?id=37110463) - [The video call revolution is dead](https://www.theverge.com/2023/8/12/23828781/video-call-chat-revolution-dead-zoom-google-meet-apps)
 * [2023-08-13, 14:39:10](https://news.ycombinator.com/item?id=37110444) - [You Won’t Believe This One Weird CPU Instruction (2019)](https://vaibhavsagar.com/blog/2019/09/08/popcount/)
 * [2023-08-13, 14:34:31](https://news.ycombinator.com/item?id=37110405) - [Paul Brodeur, journalist who exposed asbestos hazards, dies at 92](https://www.washingtonpost.com/obituaries/2023/08/10/paul-brodeur-dead/)
@@ -26,7 +27,6 @@
 * [2023-08-12, 16:06:00](https://news.ycombinator.com/item?id=37101588) - [Exploring the Internals of Linux v0.01](https://seiya.me/blog/reading-linux-v0.01)
 * [2023-08-12, 13:57:18](https://news.ycombinator.com/item?id=37100226) - [The Carrot Problem](https://www.atvbt.com/the-carrot-problem/)
 * [2023-08-12, 07:44:16](https://news.ycombinator.com/item?id=37097992) - [The Nanohertz Gravitational-Wave Detection Explained](https://physics.aps.org/articles/v16/116)
-* [2023-08-11, 17:23:25](https://news.ycombinator.com/item?id=37091253) - [Reading Ancient Scrolls](https://caseyhandmer.wordpress.com/2023/08/05/reading-ancient-scrolls/)
 * [2023-08-11, 03:17:40](https://news.ycombinator.com/item?id=37084726) - [Faculty Are Godzillas](https://medium.com/bits-and-behavior/faculty-are-godzillas-c74e8b7ce9fb)
 * [2023-08-11, 01:57:38](https://news.ycombinator.com/item?id=37084214) - [Learning produces a hippocampal cognitive map in the form of a state machine](https://www.biorxiv.org/content/10.1101/2023.08.03.551900v2)
 * [2023-08-11, 00:26:11](https://news.ycombinator.com/item?id=37083543) - [The Art of Finding](https://www.deepset.ai/blog/art-of-finding-document-search)

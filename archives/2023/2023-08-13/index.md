@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
+* [2023-08-13, 15:01:02](https://news.ycombinator.com/item?id=37110628) - [Pdftool.org: modify pdfs offline in the browser](https://www.pdftool.org)
 * [2023-08-13, 14:40:31](https://news.ycombinator.com/item?id=37110463) - [The video call revolution is dead](https://www.theverge.com/2023/8/12/23828781/video-call-chat-revolution-dead-zoom-google-meet-apps)
 * [2023-08-13, 14:39:10](https://news.ycombinator.com/item?id=37110444) - [You Won’t Believe This One Weird CPU Instruction (2019)](https://vaibhavsagar.com/blog/2019/09/08/popcount/)
 * [2023-08-13, 14:34:31](https://news.ycombinator.com/item?id=37110405) - [Paul Brodeur, journalist who exposed asbestos hazards, dies at 92](https://www.washingtonpost.com/obituaries/2023/08/10/paul-brodeur-dead/)
