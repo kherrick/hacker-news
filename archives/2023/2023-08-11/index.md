@@ -86,6 +86,7 @@
 * [2023-08-11, 07:48:59](https://news.ycombinator.com/item?id=37086176) - [Sorting in Emacs](https://susam.net/blog/sorting-in-emacs.html)
 * [2023-08-11, 07:11:38](https://news.ycombinator.com/item?id=37085966) - [The Life of a Lawyer in the Late Roman Republic](https://www.thecollector.com/life-lawyer-late-roman-republic/)
 * [2023-08-11, 07:00:31](https://news.ycombinator.com/item?id=37085909) - [An Interpreter for the 1991 Oriel scripting language](https://github.com/wojciech-graj/oriel)
+* [2023-08-11, 06:28:07](https://news.ycombinator.com/item?id=37085718) - [What Makes Music Sound Good? (2010) [pdf]](https://dmitri.mycpanel.princeton.edu/files/pdfs/MUS105handouts.pdf)
 * [2023-08-11, 06:22:17](https://news.ycombinator.com/item?id=37085687) - [The Character Generator ROM](https://www.atariarchives.org/cgp/Ch02_Sec04.php)
 * [2023-08-11, 06:09:20](https://news.ycombinator.com/item?id=37085618) - [The Downsides of C++ Coroutines](https://reductor.dev/cpp/2023/08/10/the-downsides-of-coroutines.html)
 * [2023-08-11, 06:07:52](https://news.ycombinator.com/item?id=37085604) - [Objective-C Internals](https://alwaysprocessing.blog/series/objc-internals)
