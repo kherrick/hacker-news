@@ -1,22 +1,12 @@
 [
   [
     [
-      "2023-08-13, 12:04:02",
-      "https://news.ycombinator.com/item?id=37109110"
+      "2023-08-13, 12:23:40",
+      "https://news.ycombinator.com/item?id=37109275"
     ],
     [
-      "New Anti-Consumer MacBook Pros – Teardown and Repair Assessment [video]",
-      "https://www.youtube.com/watch?v=r0Hwb5xvBn8"
-    ]
-  ],
-  [
-    [
-      "2023-08-13, 11:24:52",
-      "https://news.ycombinator.com/item?id=37108879"
-    ],
-    [
-      "Cancel Zoning If we want to fix the housing-affordability crisis zoning must go",
-      "https://www.theatlantic.com/ideas/archive/2022/06/zoning-housing-affordability-nimby-parking-houston/661289/"
+      "An Introduction to the Conjugate Gradient Method Without the Agonizing Pain [pdf]",
+      "https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf"
     ]
   ],
   [
@@ -41,12 +31,12 @@
   ],
   [
     [
-      "2023-08-13, 09:17:43",
-      "https://news.ycombinator.com/item?id=37108132"
+      "2023-08-13, 11:04:08",
+      "https://news.ycombinator.com/item?id=37108745"
     ],
     [
-      "The Scarcest Thing in the World",
-      "https://www.honest-broker.com/p/the-scarcest-thing-in-the-world"
+      "Former VP Claims Salesforce Lied About Software Capabilities: 'It Was All a Lie'",
+      "https://www.businessinsider.com/former-vp-claims-salesforce-lied-customer-data-platform-software-capabilities-2023-8"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "ML is useful for many things, but not for predicting scientific replicability",
       "https://www.aisnakeoil.com/p/machine-learning-is-useful-for-many"
+    ]
+  ],
+  [
+    [
+      "2023-08-11, 01:57:38",
+      "https://news.ycombinator.com/item?id=37084214"
+    ],
+    [
+      "Learning produces a hippocampal cognitive map in the form of a state machine",
+      "https://www.biorxiv.org/content/10.1101/2023.08.03.551900v2"
     ]
   ]
 ]
