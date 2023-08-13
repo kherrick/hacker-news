@@ -1,6 +1,66 @@
 [
   [
     [
+      "2023-08-13, 15:41:22",
+      "https://news.ycombinator.com/item?id=37110966"
+    ],
+    [
+      "JavaScript Is Weird",
+      "https://jsisweird.com/"
+    ]
+  ],
+  [
+    [
+      "2023-08-13, 15:39:12",
+      "https://news.ycombinator.com/item?id=37110942"
+    ],
+    [
+      "Show HN: NotYetNews – AI-Generated News from the Future",
+      "https://www.notyet.news/"
+    ]
+  ],
+  [
+    [
+      "2023-08-13, 15:39:03",
+      "https://news.ycombinator.com/item?id=37110941"
+    ],
+    [
+      "Why macOS anti-malware scans can behave oddly",
+      "https://eclecticlight.co/2023/08/12/why-macos-anti-malware-scans-can-behave-oddly/"
+    ]
+  ],
+  [
+    [
+      "2023-08-13, 15:19:32",
+      "https://news.ycombinator.com/item?id=37110795"
+    ],
+    [
+      "Are Naps Good for You?",
+      "https://www.scientificamerican.com/article/are-naps-good-for-you/"
+    ]
+  ],
+  [
+    [
+      "2023-08-13, 15:16:00",
+      "https://news.ycombinator.com/item?id=37110761"
+    ],
+    [
+      "I’ll Never Be an Astronaut",
+      "https://shaunoconnell.com/2023/08/10/ill-never-be-an-astronaut/"
+    ]
+  ],
+  [
+    [
+      "2023-08-13, 15:08:14",
+      "https://news.ycombinator.com/item?id=37110690"
+    ],
+    [
+      "The complex simplicity of my static websites",
+      "https://alinpanaitiu.com/blog/complex-simplicity-of-static-websites/"
+    ]
+  ],
+  [
+    [
       "2023-08-13, 15:01:02",
       "https://news.ycombinator.com/item?id=37110628"
     ],
@@ -71,16 +131,6 @@
   ],
   [
     [
-      "2023-08-13, 11:07:32",
-      "https://news.ycombinator.com/item?id=37108773"
-    ],
-    [
-      "Institutionalized Belief in the Greater Fool",
-      "https://investing1012dot0.substack.com/p/institutionalized-belief-in-the-greater"
-    ]
-  ],
-  [
-    [
       "2023-08-13, 11:04:08",
       "https://news.ycombinator.com/item?id=37108745"
     ],
@@ -91,12 +141,12 @@
   ],
   [
     [
-      "2023-08-13, 09:47:00",
-      "https://news.ycombinator.com/item?id=37108298"
+      "2023-08-13, 09:58:29",
+      "https://news.ycombinator.com/item?id=37108365"
     ],
     [
-      "Show HN: Broken Bear, the AI teddy bear that loves your broken self",
-      "https://brokenbear.com/"
+      "Testing your animation refresh rate with CSS",
+      "https://cohost.org/lunasorcery/post/2465593-testing-your-animati"
     ]
   ],
   [
@@ -117,16 +167,6 @@
     [
       "The Meaning of Monad in MonadTrans",
       "https://www.parsonsmatt.org/2023/08/10/the_meaning_of_monad_in_monadtrans.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-13, 07:18:05",
-      "https://news.ycombinator.com/item?id=37107465"
-    ],
-    [
-      "3D display could soon bring touch to the digital world",
-      "https://www.colorado.edu/today/2023/07/31/3d-display-could-soon-bring-touch-digital-world"
     ]
   ],
   [
@@ -171,32 +211,12 @@
   ],
   [
     [
-      "2023-08-13, 03:59:33",
-      "https://news.ycombinator.com/item?id=37106557"
-    ],
-    [
-      "The Rise and Peak of Japanese Semiconductors (2022)",
-      "https://www.asianometry.com/p/the-rise-and-peak-of-japanese-semiconductors"
-    ]
-  ],
-  [
-    [
       "2023-08-13, 03:58:11",
       "https://news.ycombinator.com/item?id=37106550"
     ],
     [
       "Flying Toasters Screensaver After Dark in CSS",
       "https://www.bryanbraun.com/after-dark-css/all/flying-toasters.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-13, 03:27:52",
-      "https://news.ycombinator.com/item?id=37106408"
-    ],
-    [
-      "Stan Lippman has died (2022)",
-      "https://en.wikipedia.org/wiki/Stanley_B._Lippman"
     ]
   ],
   [
@@ -221,26 +241,6 @@
   ],
   [
     [
-      "2023-08-13, 00:44:44",
-      "https://news.ycombinator.com/item?id=37105524"
-    ],
-    [
-      "NixOS RFC 136 approved: A plan to stabilize the new CLI and Flakes incrementally",
-      "https://github.com/NixOS/rfcs/pull/136"
-    ]
-  ],
-  [
-    [
-      "2023-08-12, 22:19:37",
-      "https://news.ycombinator.com/item?id=37104742"
-    ],
-    [
-      "A Blog Post with Every HTML Element",
-      "https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/"
-    ]
-  ],
-  [
-    [
       "2023-08-12, 22:05:54",
       "https://news.ycombinator.com/item?id=37104653"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2023-08-12, 16:06:00",
-      "https://news.ycombinator.com/item?id=37101588"
-    ],
-    [
-      "Exploring the Internals of Linux v0.01",
-      "https://seiya.me/blog/reading-linux-v0.01"
-    ]
-  ],
-  [
-    [
       "2023-08-12, 07:44:16",
       "https://news.ycombinator.com/item?id=37097992"
     ],
     [
       "The Nanohertz Gravitational-Wave Detection Explained",
       "https://physics.aps.org/articles/v16/116"
+    ]
+  ],
+  [
+    [
+      "2023-08-11, 07:00:31",
+      "https://news.ycombinator.com/item?id=37085909"
+    ],
+    [
+      "An Interpreter for the 1991 Oriel scripting language",
+      "https://github.com/wojciech-graj/oriel"
     ]
   ],
   [
