@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-13, 20:16:44](https://news.ycombinator.com/item?id=37113966) - [Show HN: I redesigned old GNOME app icons to fit in with the new HIG guidelines](https://github.com/mdwalters/redesigned-gnome-icons)
 * [2023-08-13, 20:02:11](https://news.ycombinator.com/item?id=37113807) - [Apple bleee. Everyone knows what’s on your iPhone (2020)](https://hexway.io/research/apple-bleee/)
 * [2023-08-13, 19:23:29](https://news.ycombinator.com/item?id=37113336) - [Judge denies HP's plea to throw out all-in-one printer lockdown lawsuit](https://www.theregister.com/2023/08/11/judge_denies_hps_request_to/)
 * [2023-08-13, 19:23:08](https://news.ycombinator.com/item?id=37113330) - [Metro 2033 author Dmitry Glukhovsky sentenced to 8 years in prison](https://www.pcgamer.com/metro-2033-author-dmitry-glukhovsky-sentenced-to-8-years-in-prison-for-criticizing-russias-invasion-of-ukraine/)
@@ -20,7 +21,6 @@
 * [2023-08-13, 12:23:40](https://news.ycombinator.com/item?id=37109275) - [Introduction to the Conjugate Gradient Method Without Agonizing Pain (1994) [pdf]](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
 * [2023-08-13, 11:04:08](https://news.ycombinator.com/item?id=37108745) - [Former VP Claims Salesforce Lied About Software Capabilities: 'It Was All a Lie'](https://www.businessinsider.com/former-vp-claims-salesforce-lied-customer-data-platform-software-capabilities-2023-8)
 * [2023-08-13, 09:13:30](https://news.ycombinator.com/item?id=37108111) - [Astro: All-in-one web framework designed for speed](https://astro.build/)
-* [2023-08-13, 08:26:34](https://news.ycombinator.com/item?id=37107817) - [Cargo Cult Science (1974) [pdf]](https://calteches.library.caltech.edu/51/2/CargoCult.pdf)
 * [2023-08-13, 06:10:51](https://news.ycombinator.com/item?id=37107149) - [Discussing CNET’s content-pruning to improve SEO ranking](https://tedium.co/2023/08/11/content-pruning-news-websites-is-stupid/)
 * [2023-08-12, 22:05:54](https://news.ycombinator.com/item?id=37104653) - [Upgrading my Chumby 8 kernel part 6: PWM backlight](https://www.downtowndougbrown.com/2023/08/upgrading-my-chumby-8-kernel-part-6-pwm-backlight/)
 * [2023-08-12, 07:44:16](https://news.ycombinator.com/item?id=37097992) - [The Nanohertz Gravitational-Wave Detection Explained](https://physics.aps.org/articles/v16/116)
