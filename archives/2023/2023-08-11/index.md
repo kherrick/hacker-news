@@ -51,6 +51,7 @@
 * [2023-08-11, 15:30:34](https://news.ycombinator.com/item?id=37089817) - [Mpire: A Python package for easier and faster multiprocessing](https://github.com/sybrenjansen/mpire)
 * [2023-08-11, 15:29:38](https://news.ycombinator.com/item?id=37089808) - [Tic Tacs claim to have 0 sugar but are almost entirely sugar](https://twitter.com/pitdesi/status/1690011798643056640)
 * [2023-08-11, 15:24:28](https://news.ycombinator.com/item?id=37089739) - [Tailscale vs. Narrowlink](https://narrowlink.com/docs/comparisons/tailscale)
+* [2023-08-11, 15:11:08](https://news.ycombinator.com/item?id=37089573) - [ML is useful for many things, but not for predicting scientific replicability](https://www.aisnakeoil.com/p/machine-learning-is-useful-for-many)
 * [2023-08-11, 15:07:33](https://news.ycombinator.com/item?id=37089545) - [YouTube-Dl Site Goes Offline as Hosting Provider Enforces Court-Ordered Ban](https://torrentfreak.com/youtube-dl-site-goes-offline-as-hosting-provider-enforces-court-ordered-ban-230809/)
 * [2023-08-11, 15:03:36](https://news.ycombinator.com/item?id=37089510) - [Evidence for Large Climate Altering Thermonuclear Explosions on Mars in the Past](https://www.researchgate.net/publication/371769294_Evidence_for_Large_Planetary_Climate_Altering_Thermonuclear_Explosions_on_Mars_in_the_Past)
 * [2023-08-11, 14:53:59](https://news.ycombinator.com/item?id=37089363) - [The crash of Air France flight 447 (2021)](https://admiralcloudberg.medium.com/the-long-way-down-the-crash-of-air-france-flight-447-8a7678c37982)
