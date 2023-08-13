@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
+* [2023-08-13, 12:04:02](https://news.ycombinator.com/item?id=37109110) - [New Anti-Consumer MacBook Pros – Teardown and Repair Assessment [video]](https://www.youtube.com/watch?v=r0Hwb5xvBn8)
 * [2023-08-13, 11:23:12](https://news.ycombinator.com/item?id=37108864) - [We're All Wrong About AI](https://arnoldkling.substack.com/p/were-all-wrong-about-ai)
+* [2023-08-13, 11:15:54](https://news.ycombinator.com/item?id=37108824) - [What Should You Do with an Oil Fortune?](https://www.newyorker.com/magazine/2023/08/14/what-should-you-do-with-an-oil-fortune)
 * [2023-08-13, 11:08:19](https://news.ycombinator.com/item?id=37108782) - [People Drawn to Conspiracy Theories Share a Cluster of Psychological Features](https://www.scientificamerican.com/article/people-drawn-to-conspiracy-theories-share-a-cluster-of-psychological-features/)
+* [2023-08-13, 11:07:32](https://news.ycombinator.com/item?id=37108773) - [Institutionalized Belief in the Greater Fool](https://investing1012dot0.substack.com/p/institutionalized-belief-in-the-greater)
 * [2023-08-13, 09:36:55](https://news.ycombinator.com/item?id=37108238) - [Sqlx: I'm sorry I forked you](https://sql.ophir.dev/blog.sql?post=I%E2%80%99m+sorry+I+forked+you)
 * [2023-08-13, 09:24:42](https://news.ycombinator.com/item?id=37108172) - [Why skilled immigration (usually) benefits both countries](https://www.noahpinion.blog/p/why-skilled-immigration-usually-benefits)
 * [2023-08-13, 09:17:43](https://news.ycombinator.com/item?id=37108132) - [The Scarcest Thing in the World](https://www.honest-broker.com/p/the-scarcest-thing-in-the-world)

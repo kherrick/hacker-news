@@ -56,6 +56,7 @@
 * [2023-08-12, 09:49:26](https://news.ycombinator.com/item?id=37098591) - [I feel like I made a mistake investing professionally into Flutter](https://old.reddit.com/r/FlutterDev/comments/15njq61/i_feel_like_i_mad_a_mistake_investing/)
 * [2023-08-12, 09:28:34](https://news.ycombinator.com/item?id=37098483) - [How a startup loses its spark](https://blog.johnqian.com/startup-spark)
 * [2023-08-12, 08:36:03](https://news.ycombinator.com/item?id=37098229) - [Programming Techniques: Regular expression search algorithm (1968)](https://dl.acm.org/doi/10.1145/363347.363387)
+* [2023-08-12, 07:44:16](https://news.ycombinator.com/item?id=37097992) - [The Nanohertz Gravitational-Wave Detection Explained](https://physics.aps.org/articles/v16/116)
 * [2023-08-12, 07:40:14](https://news.ycombinator.com/item?id=37097973) - [What is gained and lost with 63-bit integers? (2014)](https://blog.janestreet.com/what-is-gained-and-lost-with-63-bit-integers/)
 * [2023-08-12, 07:09:12](https://news.ycombinator.com/item?id=37097803) - [Fourteen days across the Atlantic, perched on a ship’s rudder](https://www.bbc.co.uk/news/world-latin-america-66450500)
 * [2023-08-12, 07:05:04](https://news.ycombinator.com/item?id=37097775) - [Can you use a class in C?](https://d4ckard.github.io/2023/08/11/can-you-use-a-class-in-c/)
