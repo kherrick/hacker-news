@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
+* [2023-08-13, 02:19:05](https://news.ycombinator.com/item?id=37106044) - [Cruise blames Outside Lands for driverless car traffic fiasco in San Francisco](https://www.sfchronicle.com/bayarea/article/robotaxi-backup-18293208.php)
 * [2023-08-13, 01:47:33](https://news.ycombinator.com/item?id=37105866) - [Intel's Core I7-14700K Benchmarked: More Cores, Higher Clocks](https://www.tomshardware.com/news/intels-core-i7-14700k-benchmarked-more-cores-higher-clocks)
 * [2023-08-13, 01:29:05](https://news.ycombinator.com/item?id=37105764) - [Illegal raids contribute to death of newspaper co-owner](http://marionrecord.com/)
 * [2023-08-13, 01:06:48](https://news.ycombinator.com/item?id=37105653) - [VirGL](https://docs.mesa3d.org/drivers/virgl)
