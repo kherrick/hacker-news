@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-13, 04:57:15](https://news.ycombinator.com/item?id=37106833) - [Weeds May Be a Better Friend to Pollinating Insects Than We Assume](https://www.inverse.com/science/weeds-and-pollination)
+* [2023-08-13, 04:51:27](https://news.ycombinator.com/item?id=37106802) - [YouTube gets more aggressive in pushing adblock warnings with countdown timer](https://www.neowin.net/news/youtube-gets-more-aggressive-in-pushing-adblock-warnings-with-countdown-timer/)
 * [2023-08-13, 04:48:20](https://news.ycombinator.com/item?id=37106789) - [Thermodynamic Linear Algebra](https://arxiv.org/abs/2308.05660)
 * [2023-08-13, 03:59:50](https://news.ycombinator.com/item?id=37106560) - [Solving a simple puzzle using SymPy](https://wsdookadr.github.io/posts/p9/)
 * [2023-08-13, 03:58:11](https://news.ycombinator.com/item?id=37106550) - [Flying Toasters Screensaver After Dark in CSS](https://www.bryanbraun.com/after-dark-css/all/flying-toasters.html)
@@ -18,7 +19,6 @@
 * [2023-08-12, 22:19:37](https://news.ycombinator.com/item?id=37104742) - [A Blog Post with Every HTML Element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/)
 * [2023-08-12, 21:11:35](https://news.ycombinator.com/item?id=37104264) - [I drew these corals with mathematical equations](https://twitter.com/naderi_yeganeh/status/1690296100496838656)
 * [2023-08-12, 20:10:51](https://news.ycombinator.com/item?id=37103802) - [Auditory illusions with examples from Daft Punk](https://www.ugu.rs/blog/auditory-illusions-with-samples-from-daft-punk/)
-* [2023-08-12, 17:56:32](https://news.ycombinator.com/item?id=37102610) - [The US government is taking a step toward space-based nuclear propulsion](https://arstechnica.com/space/2023/07/nasa-seeks-to-launch-a-nuclear-powered-rocket-engine-in-four-years/)
 * [2023-08-12, 17:41:10](https://news.ycombinator.com/item?id=37102482) - [Tracing the roots of the 8086 instruction set to the Datapoint 2200 minicomputer](https://www.righto.com/2023/08/datapoint-to-8086.html)
 * [2023-08-12, 16:06:00](https://news.ycombinator.com/item?id=37101588) - [Exploring the Internals of Linux v0.01](https://seiya.me/blog/reading-linux-v0.01)
 * [2023-08-12, 16:03:33](https://news.ycombinator.com/item?id=37101563) - [CLOS: Integrating Object-Oriented and Functional Programming (2004) [pdf]](https://dreamsongs.com/Files/clos-cacm.pdf)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
 * [2023-08-13, 04:57:15](https://news.ycombinator.com/item?id=37106833) - [Weeds May Be a Better Friend to Pollinating Insects Than We Assume](https://www.inverse.com/science/weeds-and-pollination)
+* [2023-08-13, 04:51:27](https://news.ycombinator.com/item?id=37106802) - [YouTube gets more aggressive in pushing adblock warnings with countdown timer](https://www.neowin.net/news/youtube-gets-more-aggressive-in-pushing-adblock-warnings-with-countdown-timer/)
 * [2023-08-13, 04:48:20](https://news.ycombinator.com/item?id=37106789) - [Thermodynamic Linear Algebra (solving linear systems in O(n))](https://arxiv.org/abs/2308.05660)
 * [2023-08-13, 04:12:51](https://news.ycombinator.com/item?id=37106618) - [Show HN: I used AI to turn people into GigaChads](https://mememes.app)
 * [2023-08-13, 03:59:50](https://news.ycombinator.com/item?id=37106560) - [Solving a simple puzzle using SymPy](https://wsdookadr.github.io/posts/p9/)
