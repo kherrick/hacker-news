@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
 * [2023-08-13, 12:04:02](https://news.ycombinator.com/item?id=37109110) - [New Anti-Consumer MacBook Pros – Teardown and Repair Assessment [video]](https://www.youtube.com/watch?v=r0Hwb5xvBn8)
+* [2023-08-13, 11:24:52](https://news.ycombinator.com/item?id=37108879) - [Cancel Zoning If we want to fix the housing-affordability crisis zoning must go](https://www.theatlantic.com/ideas/archive/2022/06/zoning-housing-affordability-nimby-parking-houston/661289/)
 * [2023-08-13, 11:23:12](https://news.ycombinator.com/item?id=37108864) - [We're All Wrong About AI](https://arnoldkling.substack.com/p/were-all-wrong-about-ai)
 * [2023-08-13, 11:15:54](https://news.ycombinator.com/item?id=37108824) - [What Should You Do with an Oil Fortune?](https://www.newyorker.com/magazine/2023/08/14/what-should-you-do-with-an-oil-fortune)
 * [2023-08-13, 11:08:19](https://news.ycombinator.com/item?id=37108782) - [People Drawn to Conspiracy Theories Share a Cluster of Psychological Features](https://www.scientificamerican.com/article/people-drawn-to-conspiracy-theories-share-a-cluster-of-psychological-features/)
@@ -19,6 +20,7 @@
 * [2023-08-13, 07:37:17](https://news.ycombinator.com/item?id=37107563) - [How to parent more predictably (2018)](https://www.jefftk.com/p/how-to-parent-more-predictably)
 * [2023-08-13, 07:23:04](https://news.ycombinator.com/item?id=37107488) - [The Meaning of Monad in MonadTrans](https://www.parsonsmatt.org/2023/08/10/the_meaning_of_monad_in_monadtrans.html)
 * [2023-08-13, 07:18:05](https://news.ycombinator.com/item?id=37107465) - [3D display could soon bring touch to the digital world](https://www.colorado.edu/today/2023/07/31/3d-display-could-soon-bring-touch-digital-world)
+* [2023-08-13, 07:17:09](https://news.ycombinator.com/item?id=37107455) - [Microsoft Docker Development Container Templates](https://github.com/devcontainers/templates)
 * [2023-08-13, 07:01:13](https://news.ycombinator.com/item?id=37107358) - [Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=37107358)
 * [2023-08-13, 07:00:16](https://news.ycombinator.com/item?id=37107352) - [Move Back to Datacenters](https://rakkhi.substack.com/p/why-you-should-move-back-to-datacenters)
 * [2023-08-13, 06:50:14](https://news.ycombinator.com/item?id=37107298) - [Render nuked my entire account with no notice](https://news.ycombinator.com/item?id=37107298)
