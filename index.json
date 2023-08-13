@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=37105653"
     ],
     [
-      "VirGL",
+      "VirGL – A virtual 3D GPU for use inside QEMU virtual machines",
       "https://docs.mesa3d.org/drivers/virgl"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=37085618"
     ],
     [
-      "The Downsides of C++ Coroutines (2023)",
+      "The Downsides of C++ Coroutines",
       "https://reductor.dev/cpp/2023/08/10/the-downsides-of-coroutines.html"
     ]
   ]
