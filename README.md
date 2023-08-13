@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-13, 04:12:51](https://news.ycombinator.com/item?id=37106618) - [Show HN: I used AI to turn people into GigaChads](https://mememes.app)
 * [2023-08-13, 03:59:50](https://news.ycombinator.com/item?id=37106560) - [Solving a simple puzzle using SymPy](https://wsdookadr.github.io/posts/p9/)
 * [2023-08-13, 03:58:11](https://news.ycombinator.com/item?id=37106550) - [Flying Toasters Screensaver After Dark in CSS](https://www.bryanbraun.com/after-dark-css/all/flying-toasters.html)
+* [2023-08-13, 03:27:52](https://news.ycombinator.com/item?id=37106408) - [Stan Lippman, early contributor to C++, died (2022)](https://www.dignitymemorial.com/obituaries/bellevue-wa/stan-lippman-10887984)
 * [2023-08-13, 03:19:03](https://news.ycombinator.com/item?id=37106369) - [Infiuss Health (YC S21) Is Hiring a Project Manager](https://news.ycombinator.com/item?id=37106369)
 * [2023-08-13, 03:05:50](https://news.ycombinator.com/item?id=37106296) - [Codelite](https://codelite.org/)
 * [2023-08-13, 03:03:52](https://news.ycombinator.com/item?id=37106285) - [Ytree; a Unix Filemanager](https://www.han.de/~werner/ytree.html)
@@ -12,7 +14,6 @@
 * [2023-08-13, 00:44:44](https://news.ycombinator.com/item?id=37105524) - [NixOS RFC 136 approved: A plan to stabilize the new CLI and Flakes incrementally](https://github.com/NixOS/rfcs/pull/136)
 * [2023-08-13, 00:35:27](https://news.ycombinator.com/item?id=37105477) - [The first messenger without user IDs](https://simplex.chat/)
 * [2023-08-12, 23:42:16](https://news.ycombinator.com/item?id=37105214) - [Cracking DesignWare's the Grammar Examiner on the C64](http://oldvcr.blogspot.com/2023/08/cracking-designwares-grammar-examiner.html)
-* [2023-08-12, 23:11:39](https://news.ycombinator.com/item?id=37105054) - [Out-of-Distribution](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection)
 * [2023-08-12, 22:19:37](https://news.ycombinator.com/item?id=37104742) - [A Blog Post with Every HTML Element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/)
 * [2023-08-12, 21:11:35](https://news.ycombinator.com/item?id=37104264) - [OP drew these corals with mathematical equations](https://twitter.com/naderi_yeganeh/status/1690296100496838656)
 * [2023-08-12, 20:10:51](https://news.ycombinator.com/item?id=37103802) - [Auditory illusions with examples from Daft Punk](https://www.ugu.rs/blog/auditory-illusions-with-samples-from-daft-punk/)
@@ -29,7 +30,6 @@
 * [2023-08-11, 17:23:25](https://news.ycombinator.com/item?id=37091253) - [Reading Ancient Scrolls](https://caseyhandmer.wordpress.com/2023/08/05/reading-ancient-scrolls/)
 * [2023-08-11, 17:15:58](https://news.ycombinator.com/item?id=37091171) - [Scientific and Technological Breakthroughs Created a New Kind of Fiction](https://lithub.com/how-scientific-and-technological-breakthroughs-created-a-new-kind-of-fiction/)
 * [2023-08-11, 15:11:08](https://news.ycombinator.com/item?id=37089573) - [ML is useful for many things, but not for predicting scientific replicability](https://www.aisnakeoil.com/p/machine-learning-is-useful-for-many)
-* [2023-08-11, 06:09:20](https://news.ycombinator.com/item?id=37085618) - [The Downsides of C++ Coroutines](https://reductor.dev/cpp/2023/08/10/the-downsides-of-coroutines.html)
 
 ## [Archives](archives/index.md)
 
