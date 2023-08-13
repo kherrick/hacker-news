@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
+* [2023-08-13, 12:43:06](https://news.ycombinator.com/item?id=37109428) - [YouTube-dl main site now blocked due to German court ruling](https://old.reddit.com/r/youtubedl/comments/15g0nnd/youtubedl_main_site_now_blocked_due_to_german/)
+* [2023-08-13, 12:42:21](https://news.ycombinator.com/item?id=37109422) - [Symmetry in Chaos](http://paulbourke.net/fractals/symmetryinchaos/)
 * [2023-08-13, 12:38:46](https://news.ycombinator.com/item?id=37109394) - [OpenAI may go bankrupt by 2024, AI bot costs company $700k every day](https://www.firstpost.com/tech/news-analysis/openai-may-go-bankrupt-by-2024-chatgpt-costs-company-700000-dollars-every-day-12986012.html)
 * [2023-08-13, 12:23:40](https://news.ycombinator.com/item?id=37109275) - [An Introduction to the Conjugate Gradient Method Without the Agonizing Pain [pdf]](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
 * [2023-08-13, 12:04:02](https://news.ycombinator.com/item?id=37109110) - [New Anti-Consumer MacBook Pros – Teardown and Repair Assessment [video]](https://www.youtube.com/watch?v=r0Hwb5xvBn8)
+* [2023-08-13, 11:27:16](https://news.ycombinator.com/item?id=37108896) - [Record Labels File $412M Copyright Infringement Lawsuit Against Internet Archive](https://www.rollingstone.com/music/music-news/record-labels-sue-internet-archive-412-million-copyright-infringement-lawsuit-1234806058/)
 * [2023-08-13, 11:24:52](https://news.ycombinator.com/item?id=37108879) - [Cancel Zoning If we want to fix the housing-affordability crisis zoning must go](https://www.theatlantic.com/ideas/archive/2022/06/zoning-housing-affordability-nimby-parking-houston/661289/)
 * [2023-08-13, 11:23:12](https://news.ycombinator.com/item?id=37108864) - [We're All Wrong About AI](https://arnoldkling.substack.com/p/were-all-wrong-about-ai)
 * [2023-08-13, 11:15:54](https://news.ycombinator.com/item?id=37108824) - [What Should You Do with an Oil Fortune?](https://www.newyorker.com/magazine/2023/08/14/what-should-you-do-with-an-oil-fortune)
