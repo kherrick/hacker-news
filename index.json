@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-13, 01:29:05",
+      "https://news.ycombinator.com/item?id=37105764"
+    ],
+    [
+      "Illegal raids contribute to death of newspaper co-owner",
+      "http://marionrecord.com/"
+    ]
+  ],
+  [
+    [
       "2023-08-13, 00:44:44",
       "https://news.ycombinator.com/item?id=37105524"
     ],
@@ -11,12 +21,42 @@
   ],
   [
     [
+      "2023-08-13, 00:11:17",
+      "https://news.ycombinator.com/item?id=37105352"
+    ],
+    [
+      "Doctor GPT: A Large Language Model That Can Pass the US Medical Licensing Exam",
+      "https://github.com/llSourcell/DoctorGPT"
+    ]
+  ],
+  [
+    [
+      "2023-08-12, 23:42:16",
+      "https://news.ycombinator.com/item?id=37105214"
+    ],
+    [
+      "Cracking DesignWare's the Grammar Examiner on the C64",
+      "http://oldvcr.blogspot.com/2023/08/cracking-designwares-grammar-examiner.html"
+    ]
+  ],
+  [
+    [
       "2023-08-12, 23:11:39",
       "https://news.ycombinator.com/item?id=37105054"
     ],
     [
       "Out-of-Distribution",
       "https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection"
+    ]
+  ],
+  [
+    [
+      "2023-08-12, 22:19:37",
+      "https://news.ycombinator.com/item?id=37104742"
+    ],
+    [
+      "A Blog Post with Every HTML Element",
+      "https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/"
     ]
   ],
   [
@@ -87,16 +127,6 @@
     [
       "Tracing the roots of the 8086 instruction set to the Datapoint 2200 minicomputer",
       "https://www.righto.com/2023/08/datapoint-to-8086.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-12, 17:27:20",
-      "https://news.ycombinator.com/item?id=37102360"
-    ],
-    [
-      "Some problems with 'first name' and 'last name' fields in data",
-      "https://utcc.utoronto.ca/~cks/space/blog/programming/WhyNotFirstAndLastNameFields"
     ]
   ],
   [
@@ -211,26 +241,6 @@
   ],
   [
     [
-      "2023-08-12, 09:28:34",
-      "https://news.ycombinator.com/item?id=37098483"
-    ],
-    [
-      "How a startup loses its spark",
-      "https://blog.johnqian.com/startup-spark"
-    ]
-  ],
-  [
-    [
-      "2023-08-12, 08:36:03",
-      "https://news.ycombinator.com/item?id=37098229"
-    ],
-    [
-      "Programming Techniques: Regular expression search algorithm (1968)",
-      "https://dl.acm.org/doi/10.1145/363347.363387"
-    ]
-  ],
-  [
-    [
       "2023-08-11, 23:32:53",
       "https://news.ycombinator.com/item?id=37095302"
     ],
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2023-08-11, 16:32:33",
-      "https://news.ycombinator.com/item?id=37090608"
+      "2023-08-11, 17:23:25",
+      "https://news.ycombinator.com/item?id=37091253"
     ],
     [
-      "Anti-Ugly Action",
-      "https://www.theparisreview.org/blog/2023/08/07/anti-ugly-action/"
+      "Reading Ancient Scrolls",
+      "https://caseyhandmer.wordpress.com/2023/08/05/reading-ancient-scrolls/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Every phone should be able to run personal website",
       "https://rohanrd.xyz/posts/every-phone-should-be-able-to-run-personal-website/"
-    ]
-  ],
-  [
-    [
-      "2023-08-11, 07:48:59",
-      "https://news.ycombinator.com/item?id=37086176"
-    ],
-    [
-      "Sorting in Emacs",
-      "https://susam.net/blog/sorting-in-emacs.html"
     ]
   ],
   [
