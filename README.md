@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-13, 07:37:17](https://news.ycombinator.com/item?id=37107563) - [How to parent more predictably (2018)](https://www.jefftk.com/p/how-to-parent-more-predictably)
 * [2023-08-13, 07:23:04](https://news.ycombinator.com/item?id=37107488) - [The Meaning of Monad in MonadTrans](https://www.parsonsmatt.org/2023/08/10/the_meaning_of_monad_in_monadtrans.html)
 * [2023-08-13, 07:01:13](https://news.ycombinator.com/item?id=37107358) - [Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=37107358)
 * [2023-08-13, 07:00:16](https://news.ycombinator.com/item?id=37107352) - [Move Back to Datacenters](https://rakkhi.substack.com/p/why-you-should-move-back-to-datacenters)
@@ -26,7 +27,6 @@
 * [2023-08-12, 17:41:10](https://news.ycombinator.com/item?id=37102482) - [Tracing the roots of the 8086 instruction set to the Datapoint 2200 minicomputer](https://www.righto.com/2023/08/datapoint-to-8086.html)
 * [2023-08-12, 16:06:00](https://news.ycombinator.com/item?id=37101588) - [Exploring the Internals of Linux v0.01](https://seiya.me/blog/reading-linux-v0.01)
 * [2023-08-12, 15:15:58](https://news.ycombinator.com/item?id=37101026) - [Far Manager: files and archives in Windows](https://www.farmanager.com/)
-* [2023-08-12, 14:08:46](https://news.ycombinator.com/item?id=37100344) - [Numbers every LLM Developer should know](https://www.anyscale.com/blog/num-every-llm-developer-should-know)
 * [2023-08-12, 13:57:18](https://news.ycombinator.com/item?id=37100226) - [The Carrot Problem](https://www.atvbt.com/the-carrot-problem/)
 * [2023-08-11, 17:23:25](https://news.ycombinator.com/item?id=37091253) - [Reading Ancient Scrolls](https://caseyhandmer.wordpress.com/2023/08/05/reading-ancient-scrolls/)
 * [2023-08-11, 15:11:08](https://news.ycombinator.com/item?id=37089573) - [ML is useful for many things, but not for predicting scientific replicability](https://www.aisnakeoil.com/p/machine-learning-is-useful-for-many)
