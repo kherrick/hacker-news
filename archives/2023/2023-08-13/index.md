@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
 * [2023-08-13, 17:18:55](https://news.ycombinator.com/item?id=37111947) - [Praising Children for Effort Rather Than Ability (2021)](https://www.oxfordlearning.com/praising-children-for-effort-rather-than-ability/)
+* [2023-08-13, 17:10:16](https://news.ycombinator.com/item?id=37111855) - [The Elite's War on Remote Work Has Nothing to Do with Productivity](https://www.okdoomer.io/heres-why-they-want-you-back-at-the-office-so-bad/)
+* [2023-08-13, 17:01:31](https://news.ycombinator.com/item?id=37111764) - [Temu Is Losing Millions of Dollars to Send You Cheap Socks](https://www.wired.com/story/temu-is-losing-millions-of-dollars-to-send-you-cheap-socks/)
 * [2023-08-13, 17:00:56](https://news.ycombinator.com/item?id=37111755) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37111755)
 * [2023-08-13, 16:19:09](https://news.ycombinator.com/item?id=37111317) - [Today I realized I now trust Microsoft more than Google. What is happening?](https://old.reddit.com/r/degoogle/comments/15pd5si/today_i_realized_i_now_trust_microsoft_more_than/)
 * [2023-08-13, 16:13:52](https://news.ycombinator.com/item?id=37111256) - [Ask HN: How do you look for jobs in 2023?](https://news.ycombinator.com/item?id=37111256)
@@ -15,6 +17,7 @@
 * [2023-08-13, 15:16:00](https://news.ycombinator.com/item?id=37110761) - [I’ll Never Be an Astronaut](https://shaunoconnell.com/2023/08/10/ill-never-be-an-astronaut/)
 * [2023-08-13, 15:08:14](https://news.ycombinator.com/item?id=37110690) - [The complex simplicity of my static websites](https://alinpanaitiu.com/blog/complex-simplicity-of-static-websites/)
 * [2023-08-13, 15:01:02](https://news.ycombinator.com/item?id=37110628) - [Pdftool.org: modify pdfs offline in the browser](https://www.pdftool.org)
+* [2023-08-13, 14:41:57](https://news.ycombinator.com/item?id=37110471) - [Domes, Planetariums, Fisheye, Spherical Mirror](http://paulbourke.net/dome/)
 * [2023-08-13, 14:40:31](https://news.ycombinator.com/item?id=37110463) - [The video call revolution is dead](https://www.theverge.com/2023/8/12/23828781/video-call-chat-revolution-dead-zoom-google-meet-apps)
 * [2023-08-13, 14:39:10](https://news.ycombinator.com/item?id=37110444) - [You Won’t Believe This One Weird CPU Instruction (2019)](https://vaibhavsagar.com/blog/2019/09/08/popcount/)
 * [2023-08-13, 14:34:31](https://news.ycombinator.com/item?id=37110405) - [Paul Brodeur, journalist who exposed asbestos hazards, dies at 92](https://www.washingtonpost.com/obituaries/2023/08/10/paul-brodeur-dead/)
