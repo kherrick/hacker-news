@@ -7,7 +7,6 @@
 * [2023-08-13, 03:27:52](https://news.ycombinator.com/item?id=37106408) - [Stan Lippman, early contributor to C++, died (2022)](https://www.dignitymemorial.com/obituaries/bellevue-wa/stan-lippman-10887984)
 * [2023-08-13, 03:19:03](https://news.ycombinator.com/item?id=37106369) - [Infiuss Health (YC S21) Is Hiring a Project Manager](https://news.ycombinator.com/item?id=37106369)
 * [2023-08-13, 03:05:50](https://news.ycombinator.com/item?id=37106296) - [Codelite](https://codelite.org/)
-* [2023-08-13, 03:03:52](https://news.ycombinator.com/item?id=37106285) - [Ytree; a Unix Filemanager](https://www.han.de/~werner/ytree.html)
 * [2023-08-13, 02:19:05](https://news.ycombinator.com/item?id=37106044) - [Cruise blames Outside Lands for driverless car traffic fiasco in San Francisco](https://www.sfchronicle.com/bayarea/article/robotaxi-backup-18293208.php)
 * [2023-08-13, 01:06:48](https://news.ycombinator.com/item?id=37105653) - [VirGL – A virtual 3D GPU for use inside QEMU virtual machines](https://docs.mesa3d.org/drivers/virgl)
 * [2023-08-13, 01:06:36](https://news.ycombinator.com/item?id=37105651) - [John's Nautical and Boatbuilding Page](http://www.boat-links.com/)
@@ -30,6 +29,7 @@
 * [2023-08-12, 13:57:18](https://news.ycombinator.com/item?id=37100226) - [The Carrot Problem](https://www.atvbt.com/the-carrot-problem/)
 * [2023-08-11, 17:23:25](https://news.ycombinator.com/item?id=37091253) - [Reading Ancient Scrolls](https://caseyhandmer.wordpress.com/2023/08/05/reading-ancient-scrolls/)
 * [2023-08-11, 15:11:08](https://news.ycombinator.com/item?id=37089573) - [ML is useful for many things, but not for predicting scientific replicability](https://www.aisnakeoil.com/p/machine-learning-is-useful-for-many)
+* [2023-08-11, 06:09:20](https://news.ycombinator.com/item?id=37085618) - [The Downsides of C++ Coroutines](https://reductor.dev/cpp/2023/08/10/the-downsides-of-coroutines.html)
 
 ## [Archives](archives/index.md)
 
