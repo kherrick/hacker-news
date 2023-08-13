@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-13, 21:23:54](https://news.ycombinator.com/item?id=37114675) - [Nothing works, everyone's mad, society is a pile of kindling waiting for a match](https://tarahenley.substack.com/p/weekend-reads-the-rage-against-the)
 * [2023-08-13, 21:20:57](https://news.ycombinator.com/item?id=37114647) - [Neuralangelo: High-Fidelity Neural Surface Reconstruction](https://research.nvidia.com/labs/dir/neuralangelo/)
 * [2023-08-13, 21:00:40](https://news.ycombinator.com/item?id=37114420) - [Babylon 5 Is a Perfect, Terrible Series](https://www.tor.com/2023/08/09/babylon-5-is-a-perfect-terrible-series/)
 * [2023-08-13, 20:32:11](https://news.ycombinator.com/item?id=37114141) - [Show HN: I wrote a RDBMS (SQLite clone) from scratch in pure Python](https://github.com/spandanb/learndb-py)
@@ -19,6 +18,7 @@
 * [2023-08-13, 18:07:45](https://news.ycombinator.com/item?id=37112432) - [(Oversimplified) History of Retro Game Consoles for Programmers](https://pikuma.com/blog/game-console-history-for-programmers)
 * [2023-08-13, 17:18:55](https://news.ycombinator.com/item?id=37111947) - [Praising children for effort rather than ability (2021)](https://www.oxfordlearning.com/praising-children-for-effort-rather-than-ability/)
 * [2023-08-13, 17:00:56](https://news.ycombinator.com/item?id=37111755) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37111755)
+* [2023-08-13, 15:39:03](https://news.ycombinator.com/item?id=37110941) - [Why macOS anti-malware scans can behave oddly](https://eclecticlight.co/2023/08/12/why-macos-anti-malware-scans-can-behave-oddly/)
 * [2023-08-13, 15:16:00](https://news.ycombinator.com/item?id=37110761) - [I’ll never be an astronaut](https://shaunoconnell.com/2023/08/10/ill-never-be-an-astronaut/)
 * [2023-08-13, 15:01:02](https://news.ycombinator.com/item?id=37110628) - [PDF Tool – Modify PDFs in the browser without uploading](https://www.pdftool.org)
 * [2023-08-13, 14:39:10](https://news.ycombinator.com/item?id=37110444) - [Popcount CPU instruction (2019)](https://vaibhavsagar.com/blog/2019/09/08/popcount/)
