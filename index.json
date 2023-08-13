@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-08-13, 18:05:41",
-      "https://news.ycombinator.com/item?id=37112411"
-    ],
-    [
-      "Klaus Schwab: “If you have nothing to hide you have no reason to be afraid.”",
-      "https://twitter.com/WallStreetSilv/status/1690352175254220801"
-    ]
-  ],
-  [
-    [
       "2023-08-13, 17:18:55",
       "https://news.ycombinator.com/item?id=37111947"
     ],
@@ -27,16 +17,6 @@
     [
       "The Elite's War on Remote Work Has Nothing to Do with Productivity",
       "https://www.okdoomer.io/heres-why-they-want-you-back-at-the-office-so-bad/"
-    ]
-  ],
-  [
-    [
-      "2023-08-13, 17:01:31",
-      "https://news.ycombinator.com/item?id=37111764"
-    ],
-    [
-      "Temu Is Losing Millions of Dollars to Send You Cheap Socks",
-      "https://www.wired.com/story/temu-is-losing-millions-of-dollars-to-send-you-cheap-socks/"
     ]
   ],
   [
@@ -105,7 +85,7 @@
       "https://news.ycombinator.com/item?id=37110628"
     ],
     [
-      "Pdftool.org: modify pdfs offline in the browser",
+      "PDF Tool – Modify PDFs in the browser without uploading",
       "https://www.pdftool.org"
     ]
   ],
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2023-08-13, 09:13:30",
+      "https://news.ycombinator.com/item?id=37108111"
+    ],
+    [
+      "Astro: All-in-one web framework designed for speed",
+      "https://astro.build/"
+    ]
+  ],
+  [
+    [
       "2023-08-13, 08:26:34",
       "https://news.ycombinator.com/item?id=37107817"
     ],
@@ -201,12 +191,12 @@
   ],
   [
     [
-      "2023-08-13, 07:23:04",
-      "https://news.ycombinator.com/item?id=37107488"
+      "2023-08-13, 07:00:16",
+      "https://news.ycombinator.com/item?id=37107352"
     ],
     [
-      "The Meaning of Monad in MonadTrans",
-      "https://www.parsonsmatt.org/2023/08/10/the_meaning_of_monad_in_monadtrans.html"
+      "Move Back to Datacenters",
+      "https://rakkhi.substack.com/p/why-you-should-move-back-to-datacenters"
     ]
   ],
   [
@@ -241,16 +231,6 @@
   ],
   [
     [
-      "2023-08-13, 03:58:11",
-      "https://news.ycombinator.com/item?id=37106550"
-    ],
-    [
-      "Flying Toasters Screensaver After Dark in CSS",
-      "https://www.bryanbraun.com/after-dark-css/all/flying-toasters.html"
-    ]
-  ],
-  [
-    [
       "2023-08-12, 22:05:54",
       "https://news.ycombinator.com/item?id=37104653"
     ],
@@ -271,12 +251,32 @@
   ],
   [
     [
+      "2023-08-12, 07:05:04",
+      "https://news.ycombinator.com/item?id=37097775"
+    ],
+    [
+      "Can you use a class in C?",
+      "https://d4ckard.github.io/2023/08/11/can-you-use-a-class-in-c/"
+    ]
+  ],
+  [
+    [
       "2023-08-11, 07:00:31",
       "https://news.ycombinator.com/item?id=37085909"
     ],
     [
       "An Interpreter for the 1991 Oriel scripting language",
       "https://github.com/wojciech-graj/oriel"
+    ]
+  ],
+  [
+    [
+      "2023-08-11, 06:28:07",
+      "https://news.ycombinator.com/item?id=37085718"
+    ],
+    [
+      "What Makes Music Sound Good? (2010) [pdf]",
+      "https://dmitri.mycpanel.princeton.edu/files/pdfs/MUS105handouts.pdf"
     ]
   ],
   [
