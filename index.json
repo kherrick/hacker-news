@@ -1,32 +1,12 @@
 [
   [
     [
-      "2023-08-13, 13:37:36",
-      "https://news.ycombinator.com/item?id=37109938"
-    ],
-    [
-      "Illegal raids contribute to death of newspaper co-owner",
-      "https://www.marionrecord.com/direct/updated_illegal_raids_contribute_to_death_of_newspaper_co_owner+5447raid+555044415445443a20496c6c6567616c20726169647320636f6e7472696275746520746f206465617468206f66206e657773706170657220636f2d6f776e6572"
-    ]
-  ],
-  [
-    [
       "2023-08-13, 13:09:15",
       "https://news.ycombinator.com/item?id=37109684"
     ],
     [
       "Texas could get a bullet train between Houston and Dallas",
       "https://www.popsci.com/technology/amtrak-bullet-train-texas/"
-    ]
-  ],
-  [
-    [
-      "2023-08-13, 12:43:06",
-      "https://news.ycombinator.com/item?id=37109428"
-    ],
-    [
-      "YouTube-dl main site now blocked due to German court ruling",
-      "https://old.reddit.com/r/youtubedl/comments/15g0nnd/youtubedl_main_site_now_blocked_due_to_german/"
     ]
   ],
   [
@@ -77,6 +57,26 @@
     [
       "Former VP Claims Salesforce Lied About Software Capabilities: 'It Was All a Lie'",
       "https://www.businessinsider.com/former-vp-claims-salesforce-lied-customer-data-platform-software-capabilities-2023-8"
+    ]
+  ],
+  [
+    [
+      "2023-08-13, 09:47:00",
+      "https://news.ycombinator.com/item?id=37108298"
+    ],
+    [
+      "Show HN: Broken Bear, the AI teddy bear that loves your broken self",
+      "https://brokenbear.com/"
+    ]
+  ],
+  [
+    [
+      "2023-08-13, 09:13:30",
+      "https://news.ycombinator.com/item?id=37108111"
+    ],
+    [
+      "Astro: All-in-one web framework designed for speed",
+      "https://astro.build/"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "The CNET Lesson: Content Pruning Is Dumb for News Content, Don’t Do It",
       "https://tedium.co/2023/08/11/content-pruning-news-websites-is-stupid/"
-    ]
-  ],
-  [
-    [
-      "2023-08-13, 05:15:25",
-      "https://news.ycombinator.com/item?id=37106905"
-    ],
-    [
-      "When the Government Tried to Flood the Grand Canyon",
-      "https://daily.jstor.org/when-the-government-tried-to-flood-the-grand-canyon/"
     ]
   ],
   [
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2023-08-12, 22:33:06",
+      "https://news.ycombinator.com/item?id=37104817"
+    ],
+    [
+      "Podman v4.6 Introduces Podmansh: A Revolutionary Login Shell",
+      "https://blog.podman.io/2023/08/podman-v4-6-introduces-podmansh-a-revolutionary-login-shell/"
+    ]
+  ],
+  [
+    [
       "2023-08-12, 22:19:37",
       "https://news.ycombinator.com/item?id=37104742"
     ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2023-08-12, 07:05:04",
-      "https://news.ycombinator.com/item?id=37097775"
-    ],
-    [
-      "Can you use a class in C?",
-      "https://d4ckard.github.io/2023/08/11/can-you-use-a-class-in-c/"
-    ]
-  ],
-  [
-    [
       "2023-08-11, 17:23:25",
       "https://news.ycombinator.com/item?id=37091253"
     ],
@@ -297,6 +287,16 @@
     [
       "Learning produces a hippocampal cognitive map in the form of a state machine",
       "https://www.biorxiv.org/content/10.1101/2023.08.03.551900v2"
+    ]
+  ],
+  [
+    [
+      "2023-08-11, 00:26:11",
+      "https://news.ycombinator.com/item?id=37083543"
+    ],
+    [
+      "The Art of Finding",
+      "https://www.deepset.ai/blog/art-of-finding-document-search"
     ]
   ]
 ]
