@@ -33,6 +33,7 @@
 * [2023-08-11, 18:15:39](https://news.ycombinator.com/item?id=37091958) - [Israeli startups are moving jobs and money out of the country. Here’s why](https://www.cnn.com/2023/08/11/middleeast/israel-political-crisis-startups-mime-intl/index.html)
 * [2023-08-11, 17:55:26](https://news.ycombinator.com/item?id=37091679) - [Pornhub Sues Texas over Age Verification Law](https://www.vice.com/en/article/pkazpy/pornhub-sues-texas-over-age-verification-law)
 * [2023-08-11, 17:25:57](https://news.ycombinator.com/item?id=37091291) - [I Fixed a 3-year-old bug in Windows Calculator and Microsoft Couldn't Care Less!](https://dhikshith.medium.com/i-fixed-a-3-year-old-bug-in-windows-calculator-and-microsoft-open-source-doesnt-care-a6858584470d)
+* [2023-08-11, 17:23:25](https://news.ycombinator.com/item?id=37091253) - [Reading Ancient Scrolls](https://caseyhandmer.wordpress.com/2023/08/05/reading-ancient-scrolls/)
 * [2023-08-11, 17:21:08](https://news.ycombinator.com/item?id=37091223) - [Ask HN: How do you handle tech use with your kids?](https://news.ycombinator.com/item?id=37091223)
 * [2023-08-11, 17:21:02](https://news.ycombinator.com/item?id=37091221) - [PlayHT2.0: State-of-the-Art Generative Voice AI Model for Conversational Speech](https://news.play.ht/post/introducing-playht2-0-the-state-of-the-art-generative-voice-ai-model-for-conversational-speech)
 * [2023-08-11, 17:12:43](https://news.ycombinator.com/item?id=37091122) - [Show HN: Pykoi – a Python library for LLM data collection and fine tuning](https://www.cambioml.com/pykoi/)
