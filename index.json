@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-08-13, 20:16:44",
-      "https://news.ycombinator.com/item?id=37113966"
-    ],
-    [
-      "Show HN: I redesigned old GNOME app icons to fit in with the new HIG guidelines",
-      "https://github.com/mdwalters/redesigned-gnome-icons"
-    ]
-  ],
-  [
-    [
       "2023-08-13, 20:13:23",
       "https://news.ycombinator.com/item?id=37113917"
     ],
@@ -257,6 +247,16 @@
     [
       "Functional Programming in Modern C++: The Imperatives Must Go [video]",
       "https://www.youtube.com/watch?v=HE71NqRpvTQ"
+    ]
+  ],
+  [
+    [
+      "2023-08-11, 07:00:31",
+      "https://news.ycombinator.com/item?id=37085909"
+    ],
+    [
+      "An Interpreter for the 1991 Oriel scripting language",
+      "https://github.com/wojciech-graj/oriel"
     ]
   ],
   [
