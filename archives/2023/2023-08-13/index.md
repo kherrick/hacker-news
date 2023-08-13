@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
+* [2023-08-13, 17:00:56](https://news.ycombinator.com/item?id=37111755) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37111755)
 * [2023-08-13, 16:19:09](https://news.ycombinator.com/item?id=37111317) - [Today I realized I now trust Microsoft more than Google. What is happening?](https://old.reddit.com/r/degoogle/comments/15pd5si/today_i_realized_i_now_trust_microsoft_more_than/)
 * [2023-08-13, 16:13:52](https://news.ycombinator.com/item?id=37111256) - [Ask HN: How do you look for jobs in 2023?](https://news.ycombinator.com/item?id=37111256)
 * [2023-08-13, 15:41:22](https://news.ycombinator.com/item?id=37110966) - [JavaScript Is Weird](https://jsisweird.com/)
