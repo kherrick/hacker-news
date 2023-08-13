@@ -36,6 +36,7 @@
 * [2023-08-11, 17:23:25](https://news.ycombinator.com/item?id=37091253) - [Reading Ancient Scrolls](https://caseyhandmer.wordpress.com/2023/08/05/reading-ancient-scrolls/)
 * [2023-08-11, 17:21:08](https://news.ycombinator.com/item?id=37091223) - [Ask HN: How do you handle tech use with your kids?](https://news.ycombinator.com/item?id=37091223)
 * [2023-08-11, 17:21:02](https://news.ycombinator.com/item?id=37091221) - [PlayHT2.0: State-of-the-Art Generative Voice AI Model for Conversational Speech](https://news.play.ht/post/introducing-playht2-0-the-state-of-the-art-generative-voice-ai-model-for-conversational-speech)
+* [2023-08-11, 17:15:58](https://news.ycombinator.com/item?id=37091171) - [Scientific and Technological Breakthroughs Created a New Kind of Fiction](https://lithub.com/how-scientific-and-technological-breakthroughs-created-a-new-kind-of-fiction/)
 * [2023-08-11, 17:12:43](https://news.ycombinator.com/item?id=37091122) - [Show HN: Pykoi – a Python library for LLM data collection and fine tuning](https://www.cambioml.com/pykoi/)
 * [2023-08-11, 17:10:56](https://news.ycombinator.com/item?id=37091091) - [Virtualizing Uxn](https://eighty-twenty.org/2023/08/11/virtualizing-uxn)
 * [2023-08-11, 17:07:15](https://news.ycombinator.com/item?id=37091042) - [A gentle introduction to information geometry](https://www.robots.ox.ac.uk/~lsgs/posts/2019-09-27-info-geom.html)
