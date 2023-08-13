@@ -26,7 +26,7 @@
 * [2023-08-12, 20:10:51](https://news.ycombinator.com/item?id=37103802) - [Auditory illusions with examples from Daft Punk](https://www.ugu.rs/blog/auditory-illusions-with-samples-from-daft-punk/)
 * [2023-08-12, 16:06:00](https://news.ycombinator.com/item?id=37101588) - [Exploring the Internals of Linux v0.01](https://seiya.me/blog/reading-linux-v0.01)
 * [2023-08-12, 15:15:58](https://news.ycombinator.com/item?id=37101026) - [Far Manager: files and archives in Windows](https://www.farmanager.com/)
-* [2023-08-12, 14:08:46](https://news.ycombinator.com/item?id=37100344) - [Numbers every LLM Developer should know](https://www.anyscale.com/blog/num-every-llm-developer-should-know)
+* [2023-08-12, 07:09:12](https://news.ycombinator.com/item?id=37097803) - [Fourteen days across the Atlantic, perched on a ship’s rudder](https://www.bbc.co.uk/news/world-latin-america-66450500)
 * [2023-08-12, 07:05:04](https://news.ycombinator.com/item?id=37097775) - [Can you use a class in C?](https://d4ckard.github.io/2023/08/11/can-you-use-a-class-in-c/)
 * [2023-08-11, 17:23:25](https://news.ycombinator.com/item?id=37091253) - [Reading Ancient Scrolls](https://caseyhandmer.wordpress.com/2023/08/05/reading-ancient-scrolls/)
 * [2023-08-11, 15:11:08](https://news.ycombinator.com/item?id=37089573) - [ML is useful for many things, but not for predicting scientific replicability](https://www.aisnakeoil.com/p/machine-learning-is-useful-for-many)
