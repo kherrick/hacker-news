@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
 * [2023-08-13, 20:16:44](https://news.ycombinator.com/item?id=37113966) - [Show HN: I redesigned old GNOME app icons to fit in with the new HIG guidelines](https://github.com/mdwalters/redesigned-gnome-icons)
+* [2023-08-13, 20:13:23](https://news.ycombinator.com/item?id=37113917) - [ZFSBootMenu](https://docs.zfsbootmenu.org/en/v2.2.x/#)
 * [2023-08-13, 20:02:11](https://news.ycombinator.com/item?id=37113807) - [Apple bleee. Everyone knows what’s on your iPhone](https://hexway.io/research/apple-bleee/)
+* [2023-08-13, 19:30:08](https://news.ycombinator.com/item?id=37113415) - [If you succeed; you will fail](https://boyter.org/posts/if-you-succeed-you-will-fail/)
 * [2023-08-13, 19:23:29](https://news.ycombinator.com/item?id=37113336) - [Judge denies HP's plea to throw out all-in-one printer lockdown lawsuit](https://www.theregister.com/2023/08/11/judge_denies_hps_request_to/)
 * [2023-08-13, 19:23:08](https://news.ycombinator.com/item?id=37113330) - [Metro 2033 author Dmitry Glukhovsky sentenced to 8 years in prison](https://www.pcgamer.com/metro-2033-author-dmitry-glukhovsky-sentenced-to-8-years-in-prison-for-criticizing-russias-invasion-of-ukraine/)
 * [2023-08-13, 19:21:27](https://news.ycombinator.com/item?id=37113314) - [Dolphin Emulator Progress Report: May, June, and July 2023](https://dolphin-emu.org/blog/2023/08/13/dolphin-progress-report-may-june-and-july-2023/)
