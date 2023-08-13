@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-13, 20:02:11](https://news.ycombinator.com/item?id=37113807) - [Apple bleee. Everyone knows what’s on your iPhone](https://hexway.io/research/apple-bleee/)
+* [2023-08-13, 20:02:11](https://news.ycombinator.com/item?id=37113807) - [Apple bleee. Everyone knows what’s on your iPhone (2020)](https://hexway.io/research/apple-bleee/)
 * [2023-08-13, 19:23:29](https://news.ycombinator.com/item?id=37113336) - [Judge denies HP's plea to throw out all-in-one printer lockdown lawsuit](https://www.theregister.com/2023/08/11/judge_denies_hps_request_to/)
 * [2023-08-13, 19:23:08](https://news.ycombinator.com/item?id=37113330) - [Metro 2033 author Dmitry Glukhovsky sentenced to 8 years in prison](https://www.pcgamer.com/metro-2033-author-dmitry-glukhovsky-sentenced-to-8-years-in-prison-for-criticizing-russias-invasion-of-ukraine/)
 * [2023-08-13, 19:21:27](https://news.ycombinator.com/item?id=37113314) - [Dolphin Emulator Progress Report: May, June, and July 2023](https://dolphin-emu.org/blog/2023/08/13/dolphin-progress-report-may-june-and-july-2023/)
@@ -22,13 +22,13 @@
 * [2023-08-13, 09:13:30](https://news.ycombinator.com/item?id=37108111) - [Astro: All-in-one web framework designed for speed](https://astro.build/)
 * [2023-08-13, 08:26:34](https://news.ycombinator.com/item?id=37107817) - [Cargo Cult Science (1974) [pdf]](https://calteches.library.caltech.edu/51/2/CargoCult.pdf)
 * [2023-08-13, 06:10:51](https://news.ycombinator.com/item?id=37107149) - [Discussing CNET’s content-pruning to improve SEO ranking](https://tedium.co/2023/08/11/content-pruning-news-websites-is-stupid/)
-* [2023-08-13, 04:48:20](https://news.ycombinator.com/item?id=37106789) - [Thermodynamic Linear Algebra](https://arxiv.org/abs/2308.05660)
 * [2023-08-12, 22:05:54](https://news.ycombinator.com/item?id=37104653) - [Upgrading my Chumby 8 kernel part 6: PWM backlight](https://www.downtowndougbrown.com/2023/08/upgrading-my-chumby-8-kernel-part-6-pwm-backlight/)
 * [2023-08-12, 07:44:16](https://news.ycombinator.com/item?id=37097992) - [The Nanohertz Gravitational-Wave Detection Explained](https://physics.aps.org/articles/v16/116)
 * [2023-08-11, 07:00:31](https://news.ycombinator.com/item?id=37085909) - [An Interpreter for the 1991 Oriel scripting language](https://github.com/wojciech-graj/oriel)
 * [2023-08-11, 06:28:07](https://news.ycombinator.com/item?id=37085718) - [What Makes Music Sound Good? (2010) [pdf]](https://dmitri.mycpanel.princeton.edu/files/pdfs/MUS105handouts.pdf)
 * [2023-08-11, 05:35:08](https://news.ycombinator.com/item?id=37085435) - [How to Roman Republic 101, Part IIIa: Starting Down the Path of Honors](https://acoup.blog/2023/08/11/collections-how-to-roman-republic-101-part-iiia-starting-down-the-path-of-honors/)
 * [2023-08-11, 02:53:55](https://news.ycombinator.com/item?id=37084581) - [Stealing from the Saracens](https://www.hurstpublishers.com/book/stealing-from-the-saracens/)
+* [2023-08-11, 02:20:34](https://news.ycombinator.com/item?id=37084351) - [Legions of DEF CON hackers will attack generative AI models](https://venturebeat.com/ai/legions-of-defcon-hackers-will-attack-generative-ai-models/)
 * [2023-08-11, 01:57:38](https://news.ycombinator.com/item?id=37084214) - [Learning produces a hippocampal cognitive map in the form of a state machine](https://www.biorxiv.org/content/10.1101/2023.08.03.551900v2)
 
 ## [Archives](archives/index.md)
