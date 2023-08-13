@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-13, 00:44:44",
+      "https://news.ycombinator.com/item?id=37105524"
+    ],
+    [
+      "NixOS RFC 136 approved: A plan to stabilize the new CLI and Flakes incrementally",
+      "https://github.com/NixOS/rfcs/pull/136"
+    ]
+  ],
+  [
+    [
       "2023-08-12, 23:11:39",
       "https://news.ycombinator.com/item?id=37105054"
     ],
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=37101515"
     ],
     [
-      "Deep Learning Systems (CMU Course)",
+      "Deep Learning Systems",
       "https://dlsyscourse.org/lectures/"
     ]
   ],
@@ -155,7 +165,7 @@
       "https://news.ycombinator.com/item?id=37100757"
     ],
     [
-      "Postgres Audit Tables Saved Us from Taking Down Production",
+      "Postgres Audit Tables Saved Us from Taking Down Production (2021)",
       "https://www.heap.io/blog/how-postgres-audit-tables-saved-us-from-taking-down-production"
     ]
   ],
@@ -177,16 +187,6 @@
     [
       "The Carrot Problem",
       "https://www.atvbt.com/the-carrot-problem/"
-    ]
-  ],
-  [
-    [
-      "2023-08-12, 13:49:10",
-      "https://news.ycombinator.com/item?id=37100140"
-    ],
-    [
-      "Record labels hit Internet Archive with new copyright lawsuit",
-      "https://torrentfreak.com/record-labels-hit-internet-archive-with-new-400m-copyright-lawsuit-230812/"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2023-08-11, 15:11:08",
+      "https://news.ycombinator.com/item?id=37089573"
+    ],
+    [
+      "ML is useful for many things, but not for predicting scientific replicability",
+      "https://www.aisnakeoil.com/p/machine-learning-is-useful-for-many"
+    ]
+  ],
+  [
+    [
       "2023-08-11, 12:22:40",
       "https://news.ycombinator.com/item?id=37087872"
     ],
@@ -281,21 +291,11 @@
   ],
   [
     [
-      "2023-08-11, 06:22:17",
-      "https://news.ycombinator.com/item?id=37085687"
-    ],
-    [
-      "The Character Generator ROM",
-      "https://www.atariarchives.org/cgp/Ch02_Sec04.php"
-    ]
-  ],
-  [
-    [
       "2023-08-11, 06:09:20",
       "https://news.ycombinator.com/item?id=37085618"
     ],
     [
-      "The Downsides of C++ Coroutines",
+      "The Downsides of C++ Coroutines (2023)",
       "https://reductor.dev/cpp/2023/08/10/the-downsides-of-coroutines.html"
     ]
   ]
