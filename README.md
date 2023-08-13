@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-13, 22:34:13](https://news.ycombinator.com/item?id=37115298) - [The Namco ND-1: Taking 2D for Granted](https://nicole.express/2023/nobody-plays-those-old-games-anymore.html)
 * [2023-08-13, 21:20:57](https://news.ycombinator.com/item?id=37114647) - [Neuralangelo: High-Fidelity Neural Surface Reconstruction](https://research.nvidia.com/labs/dir/neuralangelo/)
 * [2023-08-13, 21:00:40](https://news.ycombinator.com/item?id=37114420) - [Babylon 5 Is a Perfect, Terrible Series](https://www.tor.com/2023/08/09/babylon-5-is-a-perfect-terrible-series/)
 * [2023-08-13, 20:32:11](https://news.ycombinator.com/item?id=37114141) - [Show HN: I wrote a RDBMS (SQLite clone) from scratch in pure Python](https://github.com/spandanb/learndb-py)
@@ -25,7 +26,6 @@
 * [2023-08-13, 09:13:30](https://news.ycombinator.com/item?id=37108111) - [Astro: All-in-one web framework designed for speed](https://astro.build/)
 * [2023-08-12, 07:44:16](https://news.ycombinator.com/item?id=37097992) - [The Nanohertz Gravitational-Wave Detection Explained](https://physics.aps.org/articles/v16/116)
 * [2023-08-11, 10:03:56](https://news.ycombinator.com/item?id=37086932) - [Functional Programming in Modern C++: The Imperatives Must Go [video]](https://www.youtube.com/watch?v=HE71NqRpvTQ)
-* [2023-08-11, 07:00:31](https://news.ycombinator.com/item?id=37085909) - [An Interpreter for the 1991 Oriel scripting language](https://github.com/wojciech-graj/oriel)
 * [2023-08-11, 06:28:07](https://news.ycombinator.com/item?id=37085718) - [What Makes Music Sound Good? (2010) [pdf]](https://dmitri.mycpanel.princeton.edu/files/pdfs/MUS105handouts.pdf)
 * [2023-08-11, 05:35:08](https://news.ycombinator.com/item?id=37085435) - [How to Roman Republic 101, Part IIIa: Starting Down the Path of Honors](https://acoup.blog/2023/08/11/collections-how-to-roman-republic-101-part-iiia-starting-down-the-path-of-honors/)
 * [2023-08-11, 02:20:34](https://news.ycombinator.com/item?id=37084351) - [Legions of DEF CON hackers will attack generative AI models](https://venturebeat.com/ai/legions-of-defcon-hackers-will-attack-generative-ai-models/)

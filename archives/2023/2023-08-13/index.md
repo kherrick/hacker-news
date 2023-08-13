@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
+* [2023-08-13, 22:34:13](https://news.ycombinator.com/item?id=37115298) - [The Namco ND-1: Taking 2D for Granted](https://nicole.express/2023/nobody-plays-those-old-games-anymore.html)
 * [2023-08-13, 21:23:54](https://news.ycombinator.com/item?id=37114675) - [Nothing works, everyone's mad, society is a pile of kindling waiting for a match](https://tarahenley.substack.com/p/weekend-reads-the-rage-against-the)
 * [2023-08-13, 21:20:57](https://news.ycombinator.com/item?id=37114647) - [Neuralangelo: High-Fidelity Neural Surface Reconstruction](https://research.nvidia.com/labs/dir/neuralangelo/)
 * [2023-08-13, 21:00:40](https://news.ycombinator.com/item?id=37114420) - [Babylon 5 Is a Perfect, Terrible Series](https://www.tor.com/2023/08/09/babylon-5-is-a-perfect-terrible-series/)
