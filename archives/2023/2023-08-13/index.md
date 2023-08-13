@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
+* [2023-08-13, 15:41:22](https://news.ycombinator.com/item?id=37110966) - [JavaScript Is Weird](https://jsisweird.com/)
+* [2023-08-13, 15:39:12](https://news.ycombinator.com/item?id=37110942) - [Show HN: NotYetNews – AI-Generated News from the Future](https://www.notyet.news/)
+* [2023-08-13, 15:39:03](https://news.ycombinator.com/item?id=37110941) - [Why macOS anti-malware scans can behave oddly](https://eclecticlight.co/2023/08/12/why-macos-anti-malware-scans-can-behave-oddly/)
+* [2023-08-13, 15:19:32](https://news.ycombinator.com/item?id=37110795) - [Are Naps Good for You?](https://www.scientificamerican.com/article/are-naps-good-for-you/)
+* [2023-08-13, 15:16:00](https://news.ycombinator.com/item?id=37110761) - [I’ll Never Be an Astronaut](https://shaunoconnell.com/2023/08/10/ill-never-be-an-astronaut/)
+* [2023-08-13, 15:08:14](https://news.ycombinator.com/item?id=37110690) - [The complex simplicity of my static websites](https://alinpanaitiu.com/blog/complex-simplicity-of-static-websites/)
 * [2023-08-13, 15:01:02](https://news.ycombinator.com/item?id=37110628) - [Pdftool.org: modify pdfs offline in the browser](https://www.pdftool.org)
 * [2023-08-13, 14:40:31](https://news.ycombinator.com/item?id=37110463) - [The video call revolution is dead](https://www.theverge.com/2023/8/12/23828781/video-call-chat-revolution-dead-zoom-google-meet-apps)
 * [2023-08-13, 14:39:10](https://news.ycombinator.com/item?id=37110444) - [You Won’t Believe This One Weird CPU Instruction (2019)](https://vaibhavsagar.com/blog/2019/09/08/popcount/)
@@ -25,6 +31,7 @@
 * [2023-08-13, 11:08:19](https://news.ycombinator.com/item?id=37108782) - [People Drawn to Conspiracy Theories Share a Cluster of Psychological Features](https://www.scientificamerican.com/article/people-drawn-to-conspiracy-theories-share-a-cluster-of-psychological-features/)
 * [2023-08-13, 11:07:32](https://news.ycombinator.com/item?id=37108773) - [Institutionalized Belief in the Greater Fool](https://investing1012dot0.substack.com/p/institutionalized-belief-in-the-greater)
 * [2023-08-13, 11:04:08](https://news.ycombinator.com/item?id=37108745) - [Former VP Claims Salesforce Lied About Software Capabilities: 'It Was All a Lie'](https://www.businessinsider.com/former-vp-claims-salesforce-lied-customer-data-platform-software-capabilities-2023-8)
+* [2023-08-13, 09:58:29](https://news.ycombinator.com/item?id=37108365) - [Testing your animation refresh rate with CSS](https://cohost.org/lunasorcery/post/2465593-testing-your-animati)
 * [2023-08-13, 09:47:00](https://news.ycombinator.com/item?id=37108298) - [Show HN: Broken Bear, the AI teddy bear that loves your broken self](https://brokenbear.com/)
 * [2023-08-13, 09:36:55](https://news.ycombinator.com/item?id=37108238) - [Sqlx: I'm sorry I forked you](https://sql.ophir.dev/blog.sql?post=I%E2%80%99m+sorry+I+forked+you)
 * [2023-08-13, 09:24:42](https://news.ycombinator.com/item?id=37108172) - [Why skilled immigration (usually) benefits both countries](https://www.noahpinion.blog/p/why-skilled-immigration-usually-benefits)
