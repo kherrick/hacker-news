@@ -6,6 +6,7 @@
 
 * [2023-08-13, 13:49:21](https://news.ycombinator.com/item?id=37110031) - [Paying consumer debts is basically optional in the United States](https://pluralistic.net/2023/08/12/do-not-pay/)
 * [2023-08-13, 13:37:36](https://news.ycombinator.com/item?id=37109938) - [Illegal raids contribute to death of newspaper co-owner](https://www.marionrecord.com/direct/updated_illegal_raids_contribute_to_death_of_newspaper_co_owner+5447raid+555044415445443a20496c6c6567616c20726169647320636f6e7472696275746520746f206465617468206f66206e657773706170657220636f2d6f776e6572)
+* [2023-08-13, 13:34:17](https://news.ycombinator.com/item?id=37109903) - [The Deepest Submarine Rescue (2021)](https://www.newsweek.com/extraordinary-story-world-deepest-submarine-rescue-1598186)
 * [2023-08-13, 13:09:15](https://news.ycombinator.com/item?id=37109684) - [Texas could get a bullet train between Houston and Dallas](https://www.popsci.com/technology/amtrak-bullet-train-texas/)
 * [2023-08-13, 12:43:06](https://news.ycombinator.com/item?id=37109428) - [YouTube-dl main site now blocked due to German court ruling](https://old.reddit.com/r/youtubedl/comments/15g0nnd/youtubedl_main_site_now_blocked_due_to_german/)
 * [2023-08-13, 12:42:21](https://news.ycombinator.com/item?id=37109422) - [Symmetry in Chaos](http://paulbourke.net/fractals/symmetryinchaos/)

@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-13, 13:49:21](https://news.ycombinator.com/item?id=37110031) - [Paying consumer debts is basically optional in the United States](https://pluralistic.net/2023/08/12/do-not-pay/)
+* [2023-08-13, 13:34:17](https://news.ycombinator.com/item?id=37109903) - [The Deepest Submarine Rescue (2021)](https://www.newsweek.com/extraordinary-story-world-deepest-submarine-rescue-1598186)
 * [2023-08-13, 12:42:21](https://news.ycombinator.com/item?id=37109422) - [Symmetry in Chaos](http://paulbourke.net/fractals/symmetryinchaos/)
 * [2023-08-13, 12:23:40](https://news.ycombinator.com/item?id=37109275) - [Introduction to the Conjugate Gradient Method Without Agonizing Pain (1994) [pdf]](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
-* [2023-08-13, 11:27:16](https://news.ycombinator.com/item?id=37108896) - [Record Labels File $412M Copyright Infringement Lawsuit Against Internet Archive](https://www.rollingstone.com/music/music-news/record-labels-sue-internet-archive-412-million-copyright-infringement-lawsuit-1234806058/)
 * [2023-08-13, 11:07:32](https://news.ycombinator.com/item?id=37108773) - [Institutionalized Belief in the Greater Fool](https://investing1012dot0.substack.com/p/institutionalized-belief-in-the-greater)
 * [2023-08-13, 11:04:08](https://news.ycombinator.com/item?id=37108745) - [Former VP Claims Salesforce Lied About Software Capabilities: 'It Was All a Lie'](https://www.businessinsider.com/former-vp-claims-salesforce-lied-customer-data-platform-software-capabilities-2023-8)
 * [2023-08-13, 08:26:34](https://news.ycombinator.com/item?id=37107817) - [Cargo Cult Science by Richard P. Feynman (1974) [pdf]](https://calteches.library.caltech.edu/51/2/CargoCult.pdf)
