@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
+* [2023-08-13, 12:38:46](https://news.ycombinator.com/item?id=37109394) - [OpenAI may go bankrupt by 2024, AI bot costs company $700k every day](https://www.firstpost.com/tech/news-analysis/openai-may-go-bankrupt-by-2024-chatgpt-costs-company-700000-dollars-every-day-12986012.html)
 * [2023-08-13, 12:04:02](https://news.ycombinator.com/item?id=37109110) - [New Anti-Consumer MacBook Pros – Teardown and Repair Assessment [video]](https://www.youtube.com/watch?v=r0Hwb5xvBn8)
 * [2023-08-13, 11:24:52](https://news.ycombinator.com/item?id=37108879) - [Cancel Zoning If we want to fix the housing-affordability crisis zoning must go](https://www.theatlantic.com/ideas/archive/2022/06/zoning-housing-affordability-nimby-parking-houston/661289/)
 * [2023-08-13, 11:23:12](https://news.ycombinator.com/item?id=37108864) - [We're All Wrong About AI](https://arnoldkling.substack.com/p/were-all-wrong-about-ai)
