@@ -50,6 +50,7 @@
 * [2023-08-13, 04:48:20](https://news.ycombinator.com/item?id=37106789) - [Thermodynamic Linear Algebra (solving linear systems in O(n))](https://arxiv.org/abs/2308.05660)
 * [2023-08-13, 04:12:51](https://news.ycombinator.com/item?id=37106618) - [Show HN: I used AI to turn people into GigaChads](https://mememes.app)
 * [2023-08-13, 03:59:50](https://news.ycombinator.com/item?id=37106560) - [Solving a simple puzzle using SymPy](https://wsdookadr.github.io/posts/p9/)
+* [2023-08-13, 03:59:33](https://news.ycombinator.com/item?id=37106557) - [The Rise and Peak of Japanese Semiconductors (2022)](https://www.asianometry.com/p/the-rise-and-peak-of-japanese-semiconductors)
 * [2023-08-13, 03:58:11](https://news.ycombinator.com/item?id=37106550) - [Flying Toasters Screensaver After Dark in CSS](https://www.bryanbraun.com/after-dark-css/all/flying-toasters.html)
 * [2023-08-13, 03:27:52](https://news.ycombinator.com/item?id=37106408) - [Stan Lippman, early contributor to C++, died (2022)](https://www.dignitymemorial.com/obituaries/bellevue-wa/stan-lippman-10887984)
 * [2023-08-13, 03:27:52](https://news.ycombinator.com/item?id=37106408) - [Stan Lippman has died (2022)](https://en.wikipedia.org/wiki/Stanley_B._Lippman)
