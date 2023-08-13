@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
+* [2023-08-13, 04:57:15](https://news.ycombinator.com/item?id=37106833) - [Weeds May Be a Better Friend to Pollinating Insects Than We Assume](https://www.inverse.com/science/weeds-and-pollination)
+* [2023-08-13, 04:48:20](https://news.ycombinator.com/item?id=37106789) - [Thermodynamic Linear Algebra (solving linear systems in O(n))](https://arxiv.org/abs/2308.05660)
 * [2023-08-13, 04:12:51](https://news.ycombinator.com/item?id=37106618) - [Show HN: I used AI to turn people into GigaChads](https://mememes.app)
 * [2023-08-13, 03:59:50](https://news.ycombinator.com/item?id=37106560) - [Solving a simple puzzle using SymPy](https://wsdookadr.github.io/posts/p9/)
 * [2023-08-13, 03:58:11](https://news.ycombinator.com/item?id=37106550) - [Flying Toasters Screensaver After Dark in CSS](https://www.bryanbraun.com/after-dark-css/all/flying-toasters.html)
