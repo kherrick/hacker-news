@@ -38,6 +38,7 @@
 * [2023-08-13, 06:10:51](https://news.ycombinator.com/item?id=37107149) - [The CNET Lesson: Content Pruning Is Dumb for News Content, Don’t Do It](https://tedium.co/2023/08/11/content-pruning-news-websites-is-stupid/)
 * [2023-08-13, 05:57:34](https://news.ycombinator.com/item?id=37107101) - [Generative AI – A curated list of Generative AI projects and services](https://github.com/steven2358/awesome-generative-ai)
 * [2023-08-13, 05:45:51](https://news.ycombinator.com/item?id=37107052) - [Rust vs. Go in 2023](https://bitfieldconsulting.com/golang/rust-vs-go)
+* [2023-08-13, 05:42:39](https://news.ycombinator.com/item?id=37107036) - [Why Is Rust Programming Language Becoming So Popular?](https://www.frolicorg.com/blog/blog/why-is-rust-programming-language-becoming-so-popular)
 * [2023-08-13, 05:15:25](https://news.ycombinator.com/item?id=37106905) - [When the Government Tried to Flood the Grand Canyon](https://daily.jstor.org/when-the-government-tried-to-flood-the-grand-canyon/)
 * [2023-08-13, 04:57:15](https://news.ycombinator.com/item?id=37106833) - [Weeds May Be a Better Friend to Pollinating Insects Than We Assume](https://www.inverse.com/science/weeds-and-pollination)
 * [2023-08-13, 04:51:27](https://news.ycombinator.com/item?id=37106802) - [YouTube gets more aggressive in pushing adblock warnings with countdown timer](https://www.neowin.net/news/youtube-gets-more-aggressive-in-pushing-adblock-warnings-with-countdown-timer/)
