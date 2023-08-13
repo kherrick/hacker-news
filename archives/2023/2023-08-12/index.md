@@ -8,6 +8,7 @@
 * [2023-08-12, 23:11:39](https://news.ycombinator.com/item?id=37105054) - [Out-of-Distribution](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection)
 * [2023-08-12, 22:33:06](https://news.ycombinator.com/item?id=37104817) - [Podman v4.6 Introduces Podmansh: A Revolutionary Login Shell](https://blog.podman.io/2023/08/podman-v4-6-introduces-podmansh-a-revolutionary-login-shell/)
 * [2023-08-12, 22:19:37](https://news.ycombinator.com/item?id=37104742) - [A Blog Post with Every HTML Element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/)
+* [2023-08-12, 22:05:54](https://news.ycombinator.com/item?id=37104653) - [Upgrading my Chumby 8 kernel part 6: PWM backlight](https://www.downtowndougbrown.com/2023/08/upgrading-my-chumby-8-kernel-part-6-pwm-backlight/)
 * [2023-08-12, 21:13:35](https://news.ycombinator.com/item?id=37104275) - [Understanding ActivityPub Part 1: Protocol Fundamentals](https://seb.jambor.dev/posts/understanding-activitypub/)
 * [2023-08-12, 21:11:35](https://news.ycombinator.com/item?id=37104264) - [OP drew these corals with mathematical equations](https://twitter.com/naderi_yeganeh/status/1690296100496838656)
 * [2023-08-12, 21:00:07](https://news.ycombinator.com/item?id=37104185) - [Freshpaint (YC S19) Is Hiring Engineers to Build a HIPAA Compliant Data Platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
