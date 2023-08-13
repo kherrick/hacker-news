@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
+* [2023-08-13, 18:05:41](https://news.ycombinator.com/item?id=37112411) - [Klaus Schwab: “If you have nothing to hide you have no reason to be afraid.”](https://twitter.com/WallStreetSilv/status/1690352175254220801)
 * [2023-08-13, 17:18:55](https://news.ycombinator.com/item?id=37111947) - [Praising Children for Effort Rather Than Ability (2021)](https://www.oxfordlearning.com/praising-children-for-effort-rather-than-ability/)
 * [2023-08-13, 17:10:16](https://news.ycombinator.com/item?id=37111855) - [The Elite's War on Remote Work Has Nothing to Do with Productivity](https://www.okdoomer.io/heres-why-they-want-you-back-at-the-office-so-bad/)
 * [2023-08-13, 17:01:31](https://news.ycombinator.com/item?id=37111764) - [Temu Is Losing Millions of Dollars to Send You Cheap Socks](https://www.wired.com/story/temu-is-losing-millions-of-dollars-to-send-you-cheap-socks/)

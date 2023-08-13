@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-13, 18:05:41](https://news.ycombinator.com/item?id=37112411) - [Klaus Schwab: “If you have nothing to hide you have no reason to be afraid.”](https://twitter.com/WallStreetSilv/status/1690352175254220801)
 * [2023-08-13, 17:18:55](https://news.ycombinator.com/item?id=37111947) - [Praising Children for Effort Rather Than Ability (2021)](https://www.oxfordlearning.com/praising-children-for-effort-rather-than-ability/)
 * [2023-08-13, 17:10:16](https://news.ycombinator.com/item?id=37111855) - [The Elite's War on Remote Work Has Nothing to Do with Productivity](https://www.okdoomer.io/heres-why-they-want-you-back-at-the-office-so-bad/)
 * [2023-08-13, 17:01:31](https://news.ycombinator.com/item?id=37111764) - [Temu Is Losing Millions of Dollars to Send You Cheap Socks](https://www.wired.com/story/temu-is-losing-millions-of-dollars-to-send-you-cheap-socks/)
@@ -7,7 +8,6 @@
 * [2023-08-13, 16:19:09](https://news.ycombinator.com/item?id=37111317) - [Today I realized I now trust Microsoft more than Google. What is happening?](https://old.reddit.com/r/degoogle/comments/15pd5si/today_i_realized_i_now_trust_microsoft_more_than/)
 * [2023-08-13, 15:39:12](https://news.ycombinator.com/item?id=37110942) - [Show HN: NotYetNews – AI-Generated News from the Future](https://www.notyet.news/)
 * [2023-08-13, 15:39:03](https://news.ycombinator.com/item?id=37110941) - [Why macOS anti-malware scans can behave oddly](https://eclecticlight.co/2023/08/12/why-macos-anti-malware-scans-can-behave-oddly/)
-* [2023-08-13, 15:19:32](https://news.ycombinator.com/item?id=37110795) - [Are Naps Good for You?](https://www.scientificamerican.com/article/are-naps-good-for-you/)
 * [2023-08-13, 15:16:00](https://news.ycombinator.com/item?id=37110761) - [I’ll Never Be an Astronaut](https://shaunoconnell.com/2023/08/10/ill-never-be-an-astronaut/)
 * [2023-08-13, 15:08:14](https://news.ycombinator.com/item?id=37110690) - [The complex simplicity of my static websites](https://alinpanaitiu.com/blog/complex-simplicity-of-static-websites/)
 * [2023-08-13, 15:01:02](https://news.ycombinator.com/item?id=37110628) - [Pdftool.org: modify pdfs offline in the browser](https://www.pdftool.org)
