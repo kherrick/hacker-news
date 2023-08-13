@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
 * [2023-08-13, 03:59:50](https://news.ycombinator.com/item?id=37106560) - [Solving a simple puzzle using SymPy](https://wsdookadr.github.io/posts/p9/)
+* [2023-08-13, 03:58:11](https://news.ycombinator.com/item?id=37106550) - [Flying Toasters Screensaver After Dark in CSS](https://www.bryanbraun.com/after-dark-css/all/flying-toasters.html)
 * [2023-08-13, 03:19:03](https://news.ycombinator.com/item?id=37106369) - [Infiuss Health (YC S21) Is Hiring a Project Manager](https://news.ycombinator.com/item?id=37106369)
 * [2023-08-13, 03:05:50](https://news.ycombinator.com/item?id=37106296) - [Codelite](https://codelite.org/)
 * [2023-08-13, 03:03:52](https://news.ycombinator.com/item?id=37106285) - [Ytree; a Unix Filemanager](https://www.han.de/~werner/ytree.html)

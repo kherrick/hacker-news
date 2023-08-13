@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-13, 03:59:50](https://news.ycombinator.com/item?id=37106560) - [Solving a simple puzzle using SymPy](https://wsdookadr.github.io/posts/p9/)
+* [2023-08-13, 03:58:11](https://news.ycombinator.com/item?id=37106550) - [Flying Toasters Screensaver After Dark in CSS](https://www.bryanbraun.com/after-dark-css/all/flying-toasters.html)
 * [2023-08-13, 03:19:03](https://news.ycombinator.com/item?id=37106369) - [Infiuss Health (YC S21) Is Hiring a Project Manager](https://news.ycombinator.com/item?id=37106369)
 * [2023-08-13, 03:05:50](https://news.ycombinator.com/item?id=37106296) - [Codelite](https://codelite.org/)
 * [2023-08-13, 03:03:52](https://news.ycombinator.com/item?id=37106285) - [Ytree; a Unix Filemanager](https://www.han.de/~werner/ytree.html)
@@ -21,7 +22,6 @@
 * [2023-08-12, 16:03:33](https://news.ycombinator.com/item?id=37101563) - [CLOS: Integrating Object-Oriented and Functional Programming (2004) [pdf]](https://dreamsongs.com/Files/clos-cacm.pdf)
 * [2023-08-12, 15:59:41](https://news.ycombinator.com/item?id=37101515) - [Deep Learning Systems](https://dlsyscourse.org/lectures/)
 * [2023-08-12, 15:15:58](https://news.ycombinator.com/item?id=37101026) - [Far Manager: files and archives in Windows](https://www.farmanager.com/)
-* [2023-08-12, 15:09:48](https://news.ycombinator.com/item?id=37100965) - [Poor Clares Convent Cemetery](https://www.atlasobscura.com/places/poor-clares-cemetery)
 * [2023-08-12, 14:24:05](https://news.ycombinator.com/item?id=37100503) - [Fedora Asahi Remix first impressions](https://jasoneckert.github.io/myblog/fedora-asahi-remix/)
 * [2023-08-12, 14:08:46](https://news.ycombinator.com/item?id=37100344) - [Numbers every LLM Developer should know](https://www.anyscale.com/blog/num-every-llm-developer-should-know)
 * [2023-08-12, 14:02:57](https://news.ycombinator.com/item?id=37100283) - [Risky Giant Steps Can Solve Optimization Problems Faster](https://www.quantamagazine.org/risky-giant-steps-can-solve-optimization-problems-faster-20230811/)
