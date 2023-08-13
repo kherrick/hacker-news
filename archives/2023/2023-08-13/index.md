@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
+* [2023-08-13, 13:37:36](https://news.ycombinator.com/item?id=37109938) - [Illegal raids contribute to death of newspaper co-owner](https://www.marionrecord.com/direct/updated_illegal_raids_contribute_to_death_of_newspaper_co_owner+5447raid+555044415445443a20496c6c6567616c20726169647320636f6e7472696275746520746f206465617468206f66206e657773706170657220636f2d6f776e6572)
+* [2023-08-13, 13:09:15](https://news.ycombinator.com/item?id=37109684) - [Texas could get a bullet train between Houston and Dallas](https://www.popsci.com/technology/amtrak-bullet-train-texas/)
 * [2023-08-13, 12:43:06](https://news.ycombinator.com/item?id=37109428) - [YouTube-dl main site now blocked due to German court ruling](https://old.reddit.com/r/youtubedl/comments/15g0nnd/youtubedl_main_site_now_blocked_due_to_german/)
 * [2023-08-13, 12:42:21](https://news.ycombinator.com/item?id=37109422) - [Symmetry in Chaos](http://paulbourke.net/fractals/symmetryinchaos/)
 * [2023-08-13, 12:38:46](https://news.ycombinator.com/item?id=37109394) - [OpenAI may go bankrupt by 2024, AI bot costs company $700k every day](https://www.firstpost.com/tech/news-analysis/openai-may-go-bankrupt-by-2024-chatgpt-costs-company-700000-dollars-every-day-12986012.html)
