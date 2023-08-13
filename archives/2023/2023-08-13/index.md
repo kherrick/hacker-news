@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
+* [2023-08-13, 20:32:11](https://news.ycombinator.com/item?id=37114141) - [Show HN: I wrote a RDBMS (SQLite clone) from scratch in pure Python](https://github.com/spandanb/learndb-py)
+* [2023-08-13, 20:29:12](https://news.ycombinator.com/item?id=37114109) - [Why the world’s best vanilla is so easy to steal](https://thehustle.co/why-the-worlds-best-vanilla-is-so-easy-to-steal/)
 * [2023-08-13, 20:16:44](https://news.ycombinator.com/item?id=37113966) - [Show HN: I redesigned old GNOME app icons to fit in with the new HIG guidelines](https://github.com/mdwalters/redesigned-gnome-icons)
 * [2023-08-13, 20:13:23](https://news.ycombinator.com/item?id=37113917) - [ZFSBootMenu](https://docs.zfsbootmenu.org/en/v2.2.x/#)
+* [2023-08-13, 20:09:39](https://news.ycombinator.com/item?id=37113884) - [Desktop Linux has a Firefox problem](https://www.osnews.com/story/136653/desktop-linux-has-a-firefox-problem/)
 * [2023-08-13, 20:02:11](https://news.ycombinator.com/item?id=37113807) - [Apple bleee. Everyone knows what’s on your iPhone](https://hexway.io/research/apple-bleee/)
 * [2023-08-13, 19:30:08](https://news.ycombinator.com/item?id=37113415) - [If you succeed; you will fail](https://boyter.org/posts/if-you-succeed-you-will-fail/)
 * [2023-08-13, 19:23:29](https://news.ycombinator.com/item?id=37113336) - [Judge denies HP's plea to throw out all-in-one printer lockdown lawsuit](https://www.theregister.com/2023/08/11/judge_denies_hps_request_to/)
