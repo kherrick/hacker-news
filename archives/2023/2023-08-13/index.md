@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
+* [2023-08-13, 13:49:21](https://news.ycombinator.com/item?id=37110031) - [Paying consumer debts is basically optional in the United States](https://pluralistic.net/2023/08/12/do-not-pay/)
 * [2023-08-13, 13:37:36](https://news.ycombinator.com/item?id=37109938) - [Illegal raids contribute to death of newspaper co-owner](https://www.marionrecord.com/direct/updated_illegal_raids_contribute_to_death_of_newspaper_co_owner+5447raid+555044415445443a20496c6c6567616c20726169647320636f6e7472696275746520746f206465617468206f66206e657773706170657220636f2d6f776e6572)
 * [2023-08-13, 13:09:15](https://news.ycombinator.com/item?id=37109684) - [Texas could get a bullet train between Houston and Dallas](https://www.popsci.com/technology/amtrak-bullet-train-texas/)
 * [2023-08-13, 12:43:06](https://news.ycombinator.com/item?id=37109428) - [YouTube-dl main site now blocked due to German court ruling](https://old.reddit.com/r/youtubedl/comments/15g0nnd/youtubedl_main_site_now_blocked_due_to_german/)
 * [2023-08-13, 12:42:21](https://news.ycombinator.com/item?id=37109422) - [Symmetry in Chaos](http://paulbourke.net/fractals/symmetryinchaos/)
 * [2023-08-13, 12:38:46](https://news.ycombinator.com/item?id=37109394) - [OpenAI may go bankrupt by 2024, AI bot costs company $700k every day](https://www.firstpost.com/tech/news-analysis/openai-may-go-bankrupt-by-2024-chatgpt-costs-company-700000-dollars-every-day-12986012.html)
 * [2023-08-13, 12:23:40](https://news.ycombinator.com/item?id=37109275) - [An Introduction to the Conjugate Gradient Method Without the Agonizing Pain [pdf]](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
+* [2023-08-13, 12:15:07](https://news.ycombinator.com/item?id=37109217) - [Dallas Has a Problem with ‘Zombie’ Astroturf Groups](https://www.texasobserver.org/dallas-has-a-problem-with-zombie-astroturf-groups/)
 * [2023-08-13, 12:04:02](https://news.ycombinator.com/item?id=37109110) - [New Anti-Consumer MacBook Pros – Teardown and Repair Assessment [video]](https://www.youtube.com/watch?v=r0Hwb5xvBn8)
 * [2023-08-13, 11:27:16](https://news.ycombinator.com/item?id=37108896) - [Record Labels File $412M Copyright Infringement Lawsuit Against Internet Archive](https://www.rollingstone.com/music/music-news/record-labels-sue-internet-archive-412-million-copyright-infringement-lawsuit-1234806058/)
 * [2023-08-13, 11:24:52](https://news.ycombinator.com/item?id=37108879) - [Cancel Zoning If we want to fix the housing-affordability crisis zoning must go](https://www.theatlantic.com/ideas/archive/2022/06/zoning-housing-affordability-nimby-parking-houston/661289/)
