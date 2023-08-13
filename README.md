@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-13, 13:49:21](https://news.ycombinator.com/item?id=37110031) - [Paying consumer debts is basically optional in the United States](https://pluralistic.net/2023/08/12/do-not-pay/)
-* [2023-08-13, 13:09:15](https://news.ycombinator.com/item?id=37109684) - [Texas could get a bullet train between Houston and Dallas](https://www.popsci.com/technology/amtrak-bullet-train-texas/)
 * [2023-08-13, 12:42:21](https://news.ycombinator.com/item?id=37109422) - [Symmetry in Chaos](http://paulbourke.net/fractals/symmetryinchaos/)
 * [2023-08-13, 12:23:40](https://news.ycombinator.com/item?id=37109275) - [Introduction to the Conjugate Gradient Method Without Agonizing Pain (1994) [pdf]](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
 * [2023-08-13, 12:15:07](https://news.ycombinator.com/item?id=37109217) - [Dallas Has a Problem with ‘Zombie’ Astroturf Groups](https://www.texasobserver.org/dallas-has-a-problem-with-zombie-astroturf-groups/)
@@ -27,6 +26,7 @@
 * [2023-08-12, 16:06:00](https://news.ycombinator.com/item?id=37101588) - [Exploring the Internals of Linux v0.01](https://seiya.me/blog/reading-linux-v0.01)
 * [2023-08-12, 13:57:18](https://news.ycombinator.com/item?id=37100226) - [The Carrot Problem](https://www.atvbt.com/the-carrot-problem/)
 * [2023-08-12, 07:44:16](https://news.ycombinator.com/item?id=37097992) - [The Nanohertz Gravitational-Wave Detection Explained](https://physics.aps.org/articles/v16/116)
+* [2023-08-12, 07:05:04](https://news.ycombinator.com/item?id=37097775) - [Can you use a class in C?](https://d4ckard.github.io/2023/08/11/can-you-use-a-class-in-c/)
 * [2023-08-11, 17:23:25](https://news.ycombinator.com/item?id=37091253) - [Reading Ancient Scrolls](https://caseyhandmer.wordpress.com/2023/08/05/reading-ancient-scrolls/)
 * [2023-08-11, 01:57:38](https://news.ycombinator.com/item?id=37084214) - [Learning produces a hippocampal cognitive map in the form of a state machine](https://www.biorxiv.org/content/10.1101/2023.08.03.551900v2)
 * [2023-08-11, 00:26:11](https://news.ycombinator.com/item?id=37083543) - [The Art of Finding](https://www.deepset.ai/blog/art-of-finding-document-search)
