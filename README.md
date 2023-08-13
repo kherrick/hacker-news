@@ -1,10 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-13, 12:04:02](https://news.ycombinator.com/item?id=37109110) - [New Anti-Consumer MacBook Pros – Teardown and Repair Assessment [video]](https://www.youtube.com/watch?v=r0Hwb5xvBn8)
-* [2023-08-13, 11:24:52](https://news.ycombinator.com/item?id=37108879) - [Cancel Zoning If we want to fix the housing-affordability crisis zoning must go](https://www.theatlantic.com/ideas/archive/2022/06/zoning-housing-affordability-nimby-parking-houston/661289/)
+* [2023-08-13, 12:23:40](https://news.ycombinator.com/item?id=37109275) - [An Introduction to the Conjugate Gradient Method Without the Agonizing Pain [pdf]](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
 * [2023-08-13, 11:15:54](https://news.ycombinator.com/item?id=37108824) - [What should you do with an oil fortune?](https://www.newyorker.com/magazine/2023/08/14/what-should-you-do-with-an-oil-fortune)
 * [2023-08-13, 11:07:32](https://news.ycombinator.com/item?id=37108773) - [Institutionalized Belief in the Greater Fool](https://investing1012dot0.substack.com/p/institutionalized-belief-in-the-greater)
-* [2023-08-13, 09:17:43](https://news.ycombinator.com/item?id=37108132) - [The Scarcest Thing in the World](https://www.honest-broker.com/p/the-scarcest-thing-in-the-world)
+* [2023-08-13, 11:04:08](https://news.ycombinator.com/item?id=37108745) - [Former VP Claims Salesforce Lied About Software Capabilities: 'It Was All a Lie'](https://www.businessinsider.com/former-vp-claims-salesforce-lied-customer-data-platform-software-capabilities-2023-8)
 * [2023-08-13, 09:13:30](https://news.ycombinator.com/item?id=37108111) - [Astro: All-in-one web framework designed for speed](https://astro.build/)
 * [2023-08-13, 08:26:34](https://news.ycombinator.com/item?id=37107817) - [Cargo Cult Science by Richard P. Feynman (1974) [pdf]](https://calteches.library.caltech.edu/51/2/CargoCult.pdf)
 * [2023-08-13, 07:23:04](https://news.ycombinator.com/item?id=37107488) - [The Meaning of Monad in MonadTrans](https://www.parsonsmatt.org/2023/08/10/the_meaning_of_monad_in_monadtrans.html)
@@ -30,6 +29,7 @@
 * [2023-08-12, 07:05:04](https://news.ycombinator.com/item?id=37097775) - [Can you use a class in C?](https://d4ckard.github.io/2023/08/11/can-you-use-a-class-in-c/)
 * [2023-08-11, 17:23:25](https://news.ycombinator.com/item?id=37091253) - [Reading Ancient Scrolls](https://caseyhandmer.wordpress.com/2023/08/05/reading-ancient-scrolls/)
 * [2023-08-11, 15:11:08](https://news.ycombinator.com/item?id=37089573) - [ML is useful for many things, but not for predicting scientific replicability](https://www.aisnakeoil.com/p/machine-learning-is-useful-for-many)
+* [2023-08-11, 01:57:38](https://news.ycombinator.com/item?id=37084214) - [Learning produces a hippocampal cognitive map in the form of a state machine](https://www.biorxiv.org/content/10.1101/2023.08.03.551900v2)
 
 ## [Archives](archives/index.md)
 

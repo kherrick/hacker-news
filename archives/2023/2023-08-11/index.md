@@ -98,4 +98,5 @@
 * [2023-08-11, 02:52:46](https://news.ycombinator.com/item?id=37084575) - [git-appraise – Distributed Code Review for Git](https://github.com/google/git-appraise)
 * [2023-08-11, 02:09:56](https://news.ycombinator.com/item?id=37084283) - [An almost-complete list of LLMOps tools for developers](https://github.com/tensorchord/Awesome-LLMOps)
 * [2023-08-11, 02:06:47](https://news.ycombinator.com/item?id=37084262) - [I fixed a bug the other day](https://www.javiergonzalez.io/blog/i-fixed-a-bug/)
+* [2023-08-11, 01:57:38](https://news.ycombinator.com/item?id=37084214) - [Learning produces a hippocampal cognitive map in the form of a state machine](https://www.biorxiv.org/content/10.1101/2023.08.03.551900v2)
 * [2023-08-11, 01:06:41](https://news.ycombinator.com/item?id=37083895) - [Perils of not being attractive or athletic in middle school](https://www.fau.edu/newsdesk/articles/perils-middle-school-study.php)
