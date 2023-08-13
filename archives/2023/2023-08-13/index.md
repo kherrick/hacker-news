@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
+* [2023-08-13, 14:34:31](https://news.ycombinator.com/item?id=37110405) - [Paul Brodeur, journalist who exposed asbestos hazards, dies at 92](https://www.washingtonpost.com/obituaries/2023/08/10/paul-brodeur-dead/)
 * [2023-08-13, 13:49:21](https://news.ycombinator.com/item?id=37110031) - [Paying consumer debts is basically optional in the United States](https://pluralistic.net/2023/08/12/do-not-pay/)
 * [2023-08-13, 13:37:36](https://news.ycombinator.com/item?id=37109938) - [Illegal raids contribute to death of newspaper co-owner](https://www.marionrecord.com/direct/updated_illegal_raids_contribute_to_death_of_newspaper_co_owner+5447raid+555044415445443a20496c6c6567616c20726169647320636f6e7472696275746520746f206465617468206f66206e657773706170657220636f2d6f776e6572)
 * [2023-08-13, 13:34:17](https://news.ycombinator.com/item?id=37109903) - [The Deepest Submarine Rescue (2021)](https://www.newsweek.com/extraordinary-story-world-deepest-submarine-rescue-1598186)
