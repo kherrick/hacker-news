@@ -5,7 +5,7 @@
 * [2023-08-13, 03:05:50](https://news.ycombinator.com/item?id=37106296) - [Codelite](https://codelite.org/)
 * [2023-08-13, 03:03:52](https://news.ycombinator.com/item?id=37106285) - [Ytree; a Unix Filemanager](https://www.han.de/~werner/ytree.html)
 * [2023-08-13, 02:19:05](https://news.ycombinator.com/item?id=37106044) - [Cruise blames Outside Lands for driverless car traffic fiasco in San Francisco](https://www.sfchronicle.com/bayarea/article/robotaxi-backup-18293208.php)
-* [2023-08-13, 01:06:48](https://news.ycombinator.com/item?id=37105653) - [VirGL](https://docs.mesa3d.org/drivers/virgl)
+* [2023-08-13, 01:06:48](https://news.ycombinator.com/item?id=37105653) - [VirGL – A virtual 3D GPU for use inside QEMU virtual machines](https://docs.mesa3d.org/drivers/virgl)
 * [2023-08-13, 01:06:36](https://news.ycombinator.com/item?id=37105651) - [John's Nautical and Boatbuilding Page](http://www.boat-links.com/)
 * [2023-08-13, 00:59:24](https://news.ycombinator.com/item?id=37105610) - [Ode to the M1](https://fabiensanglard.net/m1/index.html)
 * [2023-08-13, 00:44:44](https://news.ycombinator.com/item?id=37105524) - [NixOS RFC 136 approved: A plan to stabilize the new CLI and Flakes incrementally](https://github.com/NixOS/rfcs/pull/136)
@@ -29,7 +29,7 @@
 * [2023-08-11, 17:23:25](https://news.ycombinator.com/item?id=37091253) - [Reading Ancient Scrolls](https://caseyhandmer.wordpress.com/2023/08/05/reading-ancient-scrolls/)
 * [2023-08-11, 17:15:58](https://news.ycombinator.com/item?id=37091171) - [Scientific and Technological Breakthroughs Created a New Kind of Fiction](https://lithub.com/how-scientific-and-technological-breakthroughs-created-a-new-kind-of-fiction/)
 * [2023-08-11, 15:11:08](https://news.ycombinator.com/item?id=37089573) - [ML is useful for many things, but not for predicting scientific replicability](https://www.aisnakeoil.com/p/machine-learning-is-useful-for-many)
-* [2023-08-11, 06:09:20](https://news.ycombinator.com/item?id=37085618) - [The Downsides of C++ Coroutines (2023)](https://reductor.dev/cpp/2023/08/10/the-downsides-of-coroutines.html)
+* [2023-08-11, 06:09:20](https://news.ycombinator.com/item?id=37085618) - [The Downsides of C++ Coroutines](https://reductor.dev/cpp/2023/08/10/the-downsides-of-coroutines.html)
 
 ## [Archives](archives/index.md)
 
