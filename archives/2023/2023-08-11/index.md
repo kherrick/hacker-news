@@ -94,6 +94,7 @@
 * [2023-08-11, 04:25:58](https://news.ycombinator.com/item?id=37085097) - [Websites and APIs on Render are unavailable due to Cloudflare network errors](https://status.render.com/incidents/cshql6qwnldj)
 * [2023-08-11, 04:21:29](https://news.ycombinator.com/item?id=37085066) - [The Master Fabulist of American Fiction](https://www.newyorker.com/magazine/2023/08/14/disruptions-steven-millhauser-book-review)
 * [2023-08-11, 04:15:21](https://news.ycombinator.com/item?id=37085040) - [A Woman Behind Borges](https://www.thedial.world/issue-7/jorge-luis-borges-legacy-maria-kodama)
+* [2023-08-11, 03:17:40](https://news.ycombinator.com/item?id=37084726) - [Faculty Are Godzillas](https://medium.com/bits-and-behavior/faculty-are-godzillas-c74e8b7ce9fb)
 * [2023-08-11, 03:09:30](https://news.ycombinator.com/item?id=37084677) - [Firefox desktop extensions coming soon for the upcoming Android release](https://blog.mozilla.org/addons/2023/08/10/prepare-your-firefox-desktop-extension-for-the-upcoming-android-release/)
 * [2023-08-11, 02:52:46](https://news.ycombinator.com/item?id=37084575) - [git-appraise – Distributed Code Review for Git](https://github.com/google/git-appraise)
 * [2023-08-11, 02:09:56](https://news.ycombinator.com/item?id=37084283) - [An almost-complete list of LLMOps tools for developers](https://github.com/tensorchord/Awesome-LLMOps)
