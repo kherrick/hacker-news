@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-13, 08:46:52](https://news.ycombinator.com/item?id=37107930) - [Cruise cars halt traffic in SF, cite 'connectivity issues'](https://www.kron4.com/news/bay-area/video-cruise-cars-halt-traffic-in-sf-cite-connectivity-issues-linked-to-outside-lands-festival/)
+* [2023-08-13, 09:07:01](https://news.ycombinator.com/item?id=37108063) - [Sony and other music labels sue Internet Archive for digitizing old records](https://www.engadget.com/sony-and-other-music-labels-sue-internet-archive-for-digitizing-old-records-110108988.html)
 * [2023-08-13, 08:26:34](https://news.ycombinator.com/item?id=37107817) - [Cargo Cult Science by Richard P. Feynman (1974) [pdf]](https://calteches.library.caltech.edu/51/2/CargoCult.pdf)
 * [2023-08-13, 07:37:17](https://news.ycombinator.com/item?id=37107563) - [How to parent more predictably (2018)](https://www.jefftk.com/p/how-to-parent-more-predictably)
 * [2023-08-13, 07:23:04](https://news.ycombinator.com/item?id=37107488) - [The Meaning of Monad in MonadTrans](https://www.parsonsmatt.org/2023/08/10/the_meaning_of_monad_in_monadtrans.html)
