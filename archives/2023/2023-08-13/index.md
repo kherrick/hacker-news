@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
+* [2023-08-13, 08:46:52](https://news.ycombinator.com/item?id=37107930) - [Cruise cars halt traffic in SF, cite 'connectivity issues'](https://www.kron4.com/news/bay-area/video-cruise-cars-halt-traffic-in-sf-cite-connectivity-issues-linked-to-outside-lands-festival/)
+* [2023-08-13, 08:26:34](https://news.ycombinator.com/item?id=37107817) - [Cargo Cult Science by Richard P. Feynman (1974) [pdf]](https://calteches.library.caltech.edu/51/2/CargoCult.pdf)
 * [2023-08-13, 07:37:17](https://news.ycombinator.com/item?id=37107563) - [How to parent more predictably (2018)](https://www.jefftk.com/p/how-to-parent-more-predictably)
 * [2023-08-13, 07:23:04](https://news.ycombinator.com/item?id=37107488) - [The Meaning of Monad in MonadTrans](https://www.parsonsmatt.org/2023/08/10/the_meaning_of_monad_in_monadtrans.html)
 * [2023-08-13, 07:01:13](https://news.ycombinator.com/item?id=37107358) - [Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=37107358)
 * [2023-08-13, 07:00:16](https://news.ycombinator.com/item?id=37107352) - [Move Back to Datacenters](https://rakkhi.substack.com/p/why-you-should-move-back-to-datacenters)
 * [2023-08-13, 06:50:14](https://news.ycombinator.com/item?id=37107298) - [Render nuked my entire account with no notice](https://news.ycombinator.com/item?id=37107298)
+* [2023-08-13, 06:10:51](https://news.ycombinator.com/item?id=37107149) - [The CNET Lesson: Content Pruning Is Dumb for News Content, Don’t Do It](https://tedium.co/2023/08/11/content-pruning-news-websites-is-stupid/)
 * [2023-08-13, 05:57:34](https://news.ycombinator.com/item?id=37107101) - [Generative AI – A curated list of Generative AI projects and services](https://github.com/steven2358/awesome-generative-ai)
 * [2023-08-13, 05:45:51](https://news.ycombinator.com/item?id=37107052) - [Rust vs. Go in 2023](https://bitfieldconsulting.com/golang/rust-vs-go)
 * [2023-08-13, 05:15:25](https://news.ycombinator.com/item?id=37106905) - [When the Government Tried to Flood the Grand Canyon](https://daily.jstor.org/when-the-government-tried-to-flood-the-grand-canyon/)
