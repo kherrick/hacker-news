@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-13, 21:20:57](https://news.ycombinator.com/item?id=37114647) - [Neuralangelo: High-Fidelity Neural Surface Reconstruction](https://research.nvidia.com/labs/dir/neuralangelo/)
+* [2023-08-13, 21:00:40](https://news.ycombinator.com/item?id=37114420) - [Babylon 5 Is a Perfect, Terrible Series](https://www.tor.com/2023/08/09/babylon-5-is-a-perfect-terrible-series/)
 * [2023-08-13, 20:32:11](https://news.ycombinator.com/item?id=37114141) - [Show HN: I wrote a RDBMS (SQLite clone) from scratch in pure Python](https://github.com/spandanb/learndb-py)
 * [2023-08-13, 20:29:12](https://news.ycombinator.com/item?id=37114109) - [Why the world’s best vanilla is so easy to steal](https://thehustle.co/why-the-worlds-best-vanilla-is-so-easy-to-steal/)
-* [2023-08-13, 20:16:44](https://news.ycombinator.com/item?id=37113966) - [Show HN: I redesigned old GNOME app icons to fit in with the new HIG guidelines](https://github.com/mdwalters/redesigned-gnome-icons)
 * [2023-08-13, 20:13:23](https://news.ycombinator.com/item?id=37113917) - [ZFSBootMenu](https://docs.zfsbootmenu.org/en/v2.2.x/#)
 * [2023-08-13, 20:09:39](https://news.ycombinator.com/item?id=37113884) - [Desktop Linux has a Firefox problem](https://www.osnews.com/story/136653/desktop-linux-has-a-firefox-problem/)
 * [2023-08-13, 19:30:08](https://news.ycombinator.com/item?id=37113415) - [If you succeed; you will fail](https://boyter.org/posts/if-you-succeed-you-will-fail/)
@@ -20,7 +21,6 @@
 * [2023-08-13, 15:16:00](https://news.ycombinator.com/item?id=37110761) - [I’ll never be an astronaut](https://shaunoconnell.com/2023/08/10/ill-never-be-an-astronaut/)
 * [2023-08-13, 15:01:02](https://news.ycombinator.com/item?id=37110628) - [PDF Tool – Modify PDFs in the browser without uploading](https://www.pdftool.org)
 * [2023-08-13, 14:39:10](https://news.ycombinator.com/item?id=37110444) - [Popcount CPU instruction (2019)](https://vaibhavsagar.com/blog/2019/09/08/popcount/)
-* [2023-08-13, 14:34:31](https://news.ycombinator.com/item?id=37110405) - [Paul Brodeur, journalist who exposed asbestos hazards, dies at 92](https://www.washingtonpost.com/obituaries/2023/08/10/paul-brodeur-dead/)
 * [2023-08-13, 12:42:21](https://news.ycombinator.com/item?id=37109422) - [Symmetry in Chaos](http://paulbourke.net/fractals/symmetryinchaos/)
 * [2023-08-13, 09:13:30](https://news.ycombinator.com/item?id=37108111) - [Astro: All-in-one web framework designed for speed](https://astro.build/)
 * [2023-08-12, 07:44:16](https://news.ycombinator.com/item?id=37097992) - [The Nanohertz Gravitational-Wave Detection Explained](https://physics.aps.org/articles/v16/116)
