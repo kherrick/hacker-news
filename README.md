@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-13, 18:59:01](https://news.ycombinator.com/item?id=37113012) - [Top Algorithms Every Programmer Should Know](https://sifu.hashnode.dev/top-8-algorithms-every-programmer-should-know)
 * [2023-08-13, 18:35:15](https://news.ycombinator.com/item?id=37112741) - [Azure ChatGPT: Private and secure ChatGPT for internal enterprise use](https://github.com/microsoft/azurechatgpt)
 * [2023-08-13, 18:23:29](https://news.ycombinator.com/item?id=37112625) - [‘I've got nothing to hide’ and other misunderstandings of privacy (2007)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565)
 * [2023-08-13, 18:22:43](https://news.ycombinator.com/item?id=37112615) - [Downloading a video should be “fair use” as recording a song from the radio](https://mastodon.social/@HalvarFlake/110883667162838296)
@@ -29,6 +28,7 @@
 * [2023-08-11, 07:00:31](https://news.ycombinator.com/item?id=37085909) - [An Interpreter for the 1991 Oriel scripting language](https://github.com/wojciech-graj/oriel)
 * [2023-08-11, 06:28:07](https://news.ycombinator.com/item?id=37085718) - [What Makes Music Sound Good? (2010) [pdf]](https://dmitri.mycpanel.princeton.edu/files/pdfs/MUS105handouts.pdf)
 * [2023-08-11, 05:35:08](https://news.ycombinator.com/item?id=37085435) - [How to Roman Republic 101, Part IIIa: Starting Down the Path of Honors](https://acoup.blog/2023/08/11/collections-how-to-roman-republic-101-part-iiia-starting-down-the-path-of-honors/)
+* [2023-08-11, 02:53:55](https://news.ycombinator.com/item?id=37084581) - [Stealing from the Saracens](https://www.hurstpublishers.com/book/stealing-from-the-saracens/)
 * [2023-08-11, 01:57:38](https://news.ycombinator.com/item?id=37084214) - [Learning produces a hippocampal cognitive map in the form of a state machine](https://www.biorxiv.org/content/10.1101/2023.08.03.551900v2)
 
 ## [Archives](archives/index.md)
