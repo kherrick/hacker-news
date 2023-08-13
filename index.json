@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-13, 04:12:51",
+      "https://news.ycombinator.com/item?id=37106618"
+    ],
+    [
+      "Show HN: I used AI to turn people into GigaChads",
+      "https://mememes.app"
+    ]
+  ],
+  [
+    [
       "2023-08-13, 03:59:50",
       "https://news.ycombinator.com/item?id=37106560"
     ],
@@ -17,6 +27,16 @@
     [
       "Flying Toasters Screensaver After Dark in CSS",
       "https://www.bryanbraun.com/after-dark-css/all/flying-toasters.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-13, 03:27:52",
+      "https://news.ycombinator.com/item?id=37106408"
+    ],
+    [
+      "Stan Lippman, early contributor to C++, died (2022)",
+      "https://www.dignitymemorial.com/obituaries/bellevue-wa/stan-lippman-10887984"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "Cracking DesignWare's the Grammar Examiner on the C64",
       "http://oldvcr.blogspot.com/2023/08/cracking-designwares-grammar-examiner.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-12, 23:11:39",
-      "https://news.ycombinator.com/item?id=37105054"
-    ],
-    [
-      "Out-of-Distribution",
-      "https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "ML is useful for many things, but not for predicting scientific replicability",
       "https://www.aisnakeoil.com/p/machine-learning-is-useful-for-many"
-    ]
-  ],
-  [
-    [
-      "2023-08-11, 06:09:20",
-      "https://news.ycombinator.com/item?id=37085618"
-    ],
-    [
-      "The Downsides of C++ Coroutines",
-      "https://reductor.dev/cpp/2023/08/10/the-downsides-of-coroutines.html"
     ]
   ]
 ]
