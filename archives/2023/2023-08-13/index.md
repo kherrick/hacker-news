@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
+* [2023-08-13, 18:59:01](https://news.ycombinator.com/item?id=37113012) - [Top Algorithms Every Programmer Should Know](https://sifu.hashnode.dev/top-8-algorithms-every-programmer-should-know)
 * [2023-08-13, 18:35:15](https://news.ycombinator.com/item?id=37112741) - [Azure ChatGPT: Private and secure ChatGPT for internal enterprise use](https://github.com/microsoft/azurechatgpt)
 * [2023-08-13, 18:23:29](https://news.ycombinator.com/item?id=37112625) - [‘I've got nothing to hide’ and other misunderstandings of privacy (2007)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565)
 * [2023-08-13, 18:22:43](https://news.ycombinator.com/item?id=37112615) - [Downloading a video should be “fair use” as recording a song from the radio](https://mastodon.social/@HalvarFlake/110883667162838296)

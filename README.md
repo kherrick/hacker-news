@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-13, 18:59:01](https://news.ycombinator.com/item?id=37113012) - [Top Algorithms Every Programmer Should Know](https://sifu.hashnode.dev/top-8-algorithms-every-programmer-should-know)
 * [2023-08-13, 18:35:15](https://news.ycombinator.com/item?id=37112741) - [Azure ChatGPT: Private and secure ChatGPT for internal enterprise use](https://github.com/microsoft/azurechatgpt)
 * [2023-08-13, 18:23:29](https://news.ycombinator.com/item?id=37112625) - [‘I've got nothing to hide’ and other misunderstandings of privacy (2007)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565)
 * [2023-08-13, 18:22:43](https://news.ycombinator.com/item?id=37112615) - [Downloading a video should be “fair use” as recording a song from the radio](https://mastodon.social/@HalvarFlake/110883667162838296)
@@ -15,7 +16,6 @@
 * [2023-08-13, 15:01:02](https://news.ycombinator.com/item?id=37110628) - [PDF Tool – Modify PDFs in the browser without uploading](https://www.pdftool.org)
 * [2023-08-13, 14:39:10](https://news.ycombinator.com/item?id=37110444) - [Popcount CPU instruction (2019)](https://vaibhavsagar.com/blog/2019/09/08/popcount/)
 * [2023-08-13, 14:34:31](https://news.ycombinator.com/item?id=37110405) - [Paul Brodeur, journalist who exposed asbestos hazards, dies at 92](https://www.washingtonpost.com/obituaries/2023/08/10/paul-brodeur-dead/)
-* [2023-08-13, 13:34:17](https://news.ycombinator.com/item?id=37109903) - [The Deepest Submarine Rescue (2021)](https://www.newsweek.com/extraordinary-story-world-deepest-submarine-rescue-1598186)
 * [2023-08-13, 12:42:21](https://news.ycombinator.com/item?id=37109422) - [Symmetry in Chaos](http://paulbourke.net/fractals/symmetryinchaos/)
 * [2023-08-13, 12:23:40](https://news.ycombinator.com/item?id=37109275) - [Introduction to the Conjugate Gradient Method Without Agonizing Pain (1994) [pdf]](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf)
 * [2023-08-13, 11:04:08](https://news.ycombinator.com/item?id=37108745) - [Former VP Claims Salesforce Lied About Software Capabilities: 'It Was All a Lie'](https://www.businessinsider.com/former-vp-claims-salesforce-lied-customer-data-platform-software-capabilities-2023-8)
