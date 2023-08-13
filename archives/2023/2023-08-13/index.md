@@ -6,7 +6,9 @@
 
 * [2023-08-13, 18:35:15](https://news.ycombinator.com/item?id=37112741) - [Azure ChatGPT: Private and secure ChatGPT for internal enterprise use](https://github.com/microsoft/azurechatgpt)
 * [2023-08-13, 18:22:43](https://news.ycombinator.com/item?id=37112615) - [Downloading a video should be “fair use” as recording a song from the radio](https://mastodon.social/@HalvarFlake/110883667162838296)
+* [2023-08-13, 18:21:34](https://news.ycombinator.com/item?id=37112604) - [US inflation means families are spending $709 more per month than two years ago](https://www.cnn.com/2023/08/11/economy/inflation-rate-spending/index.html)
 * [2023-08-13, 18:05:41](https://news.ycombinator.com/item?id=37112411) - [Klaus Schwab: “If you have nothing to hide you have no reason to be afraid.”](https://twitter.com/WallStreetSilv/status/1690352175254220801)
+* [2023-08-13, 18:01:39](https://news.ycombinator.com/item?id=37112368) - [Mozilla to reintroduce full Browser Extension support for Firefox Android app](https://alternativeto.net/news/2023/8/mozilla-to-reintroduce-full-browser-extension-support-for-firefox-android-app/)
 * [2023-08-13, 17:18:55](https://news.ycombinator.com/item?id=37111947) - [Praising Children for Effort Rather Than Ability (2021)](https://www.oxfordlearning.com/praising-children-for-effort-rather-than-ability/)
 * [2023-08-13, 17:10:16](https://news.ycombinator.com/item?id=37111855) - [The Elite's War on Remote Work Has Nothing to Do with Productivity](https://www.okdoomer.io/heres-why-they-want-you-back-at-the-office-so-bad/)
 * [2023-08-13, 17:01:31](https://news.ycombinator.com/item?id=37111764) - [Temu Is Losing Millions of Dollars to Send You Cheap Socks](https://www.wired.com/story/temu-is-losing-millions-of-dollars-to-send-you-cheap-socks/)
