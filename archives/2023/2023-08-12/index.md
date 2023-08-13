@@ -6,6 +6,7 @@
 
 * [2023-08-12, 23:42:16](https://news.ycombinator.com/item?id=37105214) - [Cracking DesignWare's the Grammar Examiner on the C64](http://oldvcr.blogspot.com/2023/08/cracking-designwares-grammar-examiner.html)
 * [2023-08-12, 23:11:39](https://news.ycombinator.com/item?id=37105054) - [Out-of-Distribution](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection)
+* [2023-08-12, 22:33:06](https://news.ycombinator.com/item?id=37104817) - [Podman v4.6 Introduces Podmansh: A Revolutionary Login Shell](https://blog.podman.io/2023/08/podman-v4-6-introduces-podmansh-a-revolutionary-login-shell/)
 * [2023-08-12, 22:19:37](https://news.ycombinator.com/item?id=37104742) - [A Blog Post with Every HTML Element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/)
 * [2023-08-12, 21:13:35](https://news.ycombinator.com/item?id=37104275) - [Understanding ActivityPub Part 1: Protocol Fundamentals](https://seb.jambor.dev/posts/understanding-activitypub/)
 * [2023-08-12, 21:11:35](https://news.ycombinator.com/item?id=37104264) - [OP drew these corals with mathematical equations](https://twitter.com/naderi_yeganeh/status/1690296100496838656)
