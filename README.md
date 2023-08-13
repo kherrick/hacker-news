@@ -23,13 +23,13 @@
 * [2023-08-13, 04:48:20](https://news.ycombinator.com/item?id=37106789) - [Thermodynamic Linear Algebra](https://arxiv.org/abs/2308.05660)
 * [2023-08-13, 03:59:50](https://news.ycombinator.com/item?id=37106560) - [Solving a simple puzzle using SymPy](https://wsdookadr.github.io/posts/p9/)
 * [2023-08-13, 03:58:11](https://news.ycombinator.com/item?id=37106550) - [Flying Toasters Screensaver After Dark in CSS](https://www.bryanbraun.com/after-dark-css/all/flying-toasters.html)
+* [2023-08-13, 01:06:48](https://news.ycombinator.com/item?id=37105653) - [VirGL – A virtual 3D GPU for use inside QEMU virtual machines](https://docs.mesa3d.org/drivers/virgl)
 * [2023-08-12, 22:05:54](https://news.ycombinator.com/item?id=37104653) - [Upgrading my Chumby 8 kernel part 6: PWM backlight](https://www.downtowndougbrown.com/2023/08/upgrading-my-chumby-8-kernel-part-6-pwm-backlight/)
 * [2023-08-12, 07:44:16](https://news.ycombinator.com/item?id=37097992) - [The Nanohertz Gravitational-Wave Detection Explained](https://physics.aps.org/articles/v16/116)
 * [2023-08-11, 07:00:31](https://news.ycombinator.com/item?id=37085909) - [An Interpreter for the 1991 Oriel scripting language](https://github.com/wojciech-graj/oriel)
 * [2023-08-11, 05:35:08](https://news.ycombinator.com/item?id=37085435) - [How to Roman Republic 101, Part IIIa: Starting Down the Path of Honors](https://acoup.blog/2023/08/11/collections-how-to-roman-republic-101-part-iiia-starting-down-the-path-of-honors/)
 * [2023-08-11, 03:17:40](https://news.ycombinator.com/item?id=37084726) - [Faculty Are Godzillas](https://medium.com/bits-and-behavior/faculty-are-godzillas-c74e8b7ce9fb)
 * [2023-08-11, 01:57:38](https://news.ycombinator.com/item?id=37084214) - [Learning produces a hippocampal cognitive map in the form of a state machine](https://www.biorxiv.org/content/10.1101/2023.08.03.551900v2)
-* [2023-08-11, 00:26:11](https://news.ycombinator.com/item?id=37083543) - [The Art of Finding](https://www.deepset.ai/blog/art-of-finding-document-search)
 
 ## [Archives](archives/index.md)
 
