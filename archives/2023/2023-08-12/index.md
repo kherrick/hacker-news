@@ -57,6 +57,7 @@
 * [2023-08-12, 09:28:34](https://news.ycombinator.com/item?id=37098483) - [How a startup loses its spark](https://blog.johnqian.com/startup-spark)
 * [2023-08-12, 08:36:03](https://news.ycombinator.com/item?id=37098229) - [Programming Techniques: Regular expression search algorithm (1968)](https://dl.acm.org/doi/10.1145/363347.363387)
 * [2023-08-12, 07:40:14](https://news.ycombinator.com/item?id=37097973) - [What is gained and lost with 63-bit integers? (2014)](https://blog.janestreet.com/what-is-gained-and-lost-with-63-bit-integers/)
+* [2023-08-12, 07:05:04](https://news.ycombinator.com/item?id=37097775) - [Can you use a class in C?](https://d4ckard.github.io/2023/08/11/can-you-use-a-class-in-c/)
 * [2023-08-12, 05:40:30](https://news.ycombinator.com/item?id=37097353) - [Beginner's Guide to Llama Models](https://agi-sphere.com/llama-guide/)
 * [2023-08-12, 05:25:37](https://news.ycombinator.com/item?id=37097287) - [Multiple B787s descend below minimum safe altitude due to autopilot software bug](https://avherald.com/h?article=4d42d0b5)
 * [2023-08-12, 04:25:34](https://news.ycombinator.com/item?id=37097048) - [Sapphire Rapids Core-to-Core Latency](https://jprahman.substack.com/p/sapphire-rapids-core-to-core-latency)
