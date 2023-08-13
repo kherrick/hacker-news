@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-13, 07:01:13](https://news.ycombinator.com/item?id=37107358) - [Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=37107358)
+* [2023-08-13, 06:50:14](https://news.ycombinator.com/item?id=37107298) - [Render nuked my entire account with no notice](https://news.ycombinator.com/item?id=37107298)
 * [2023-08-13, 05:45:51](https://news.ycombinator.com/item?id=37107052) - [Rust vs. Go in 2023](https://bitfieldconsulting.com/golang/rust-vs-go)
 * [2023-08-13, 05:15:25](https://news.ycombinator.com/item?id=37106905) - [When the Government Tried to Flood the Grand Canyon](https://daily.jstor.org/when-the-government-tried-to-flood-the-grand-canyon/)
 * [2023-08-13, 04:57:15](https://news.ycombinator.com/item?id=37106833) - [Weeds May Be a Better Friend to Pollinating Insects Than We Assume](https://www.inverse.com/science/weeds-and-pollination)
@@ -23,7 +24,6 @@
 * [2023-08-12, 17:41:10](https://news.ycombinator.com/item?id=37102482) - [Tracing the roots of the 8086 instruction set to the Datapoint 2200 minicomputer](https://www.righto.com/2023/08/datapoint-to-8086.html)
 * [2023-08-12, 16:06:00](https://news.ycombinator.com/item?id=37101588) - [Exploring the Internals of Linux v0.01](https://seiya.me/blog/reading-linux-v0.01)
 * [2023-08-12, 15:15:58](https://news.ycombinator.com/item?id=37101026) - [Far Manager: files and archives in Windows](https://www.farmanager.com/)
-* [2023-08-12, 15:09:48](https://news.ycombinator.com/item?id=37100965) - [Poor Clares Convent Cemetery](https://www.atlasobscura.com/places/poor-clares-cemetery)
 * [2023-08-12, 14:08:46](https://news.ycombinator.com/item?id=37100344) - [Numbers every LLM Developer should know](https://www.anyscale.com/blog/num-every-llm-developer-should-know)
 * [2023-08-12, 14:02:57](https://news.ycombinator.com/item?id=37100283) - [Risky Giant Steps Can Solve Optimization Problems Faster](https://www.quantamagazine.org/risky-giant-steps-can-solve-optimization-problems-faster-20230811/)
 * [2023-08-12, 13:57:18](https://news.ycombinator.com/item?id=37100226) - [The Carrot Problem](https://www.atvbt.com/the-carrot-problem/)
