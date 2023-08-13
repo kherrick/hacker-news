@@ -6,6 +6,7 @@
 
 * [2023-08-13, 07:01:13](https://news.ycombinator.com/item?id=37107358) - [Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=37107358)
 * [2023-08-13, 06:50:14](https://news.ycombinator.com/item?id=37107298) - [Render nuked my entire account with no notice](https://news.ycombinator.com/item?id=37107298)
+* [2023-08-13, 05:57:34](https://news.ycombinator.com/item?id=37107101) - [Generative AI – A curated list of Generative AI projects and services](https://github.com/steven2358/awesome-generative-ai)
 * [2023-08-13, 05:45:51](https://news.ycombinator.com/item?id=37107052) - [Rust vs. Go in 2023](https://bitfieldconsulting.com/golang/rust-vs-go)
 * [2023-08-13, 05:15:25](https://news.ycombinator.com/item?id=37106905) - [When the Government Tried to Flood the Grand Canyon](https://daily.jstor.org/when-the-government-tried-to-flood-the-grand-canyon/)
 * [2023-08-13, 04:57:15](https://news.ycombinator.com/item?id=37106833) - [Weeds May Be a Better Friend to Pollinating Insects Than We Assume](https://www.inverse.com/science/weeds-and-pollination)
