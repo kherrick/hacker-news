@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-13, 07:01:13](https://news.ycombinator.com/item?id=37107358) - [Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=37107358)
+* [2023-08-13, 07:00:16](https://news.ycombinator.com/item?id=37107352) - [Move Back to Datacenters](https://rakkhi.substack.com/p/why-you-should-move-back-to-datacenters)
 * [2023-08-13, 06:50:14](https://news.ycombinator.com/item?id=37107298) - [Render nuked my entire account with no notice](https://news.ycombinator.com/item?id=37107298)
 * [2023-08-13, 05:57:34](https://news.ycombinator.com/item?id=37107101) - [Generative AI – A curated list of Generative AI projects and services](https://github.com/steven2358/awesome-generative-ai)
 * [2023-08-13, 05:45:51](https://news.ycombinator.com/item?id=37107052) - [Rust vs. Go in 2023](https://bitfieldconsulting.com/golang/rust-vs-go)
@@ -17,7 +18,6 @@
 * [2023-08-13, 00:44:44](https://news.ycombinator.com/item?id=37105524) - [NixOS RFC 136 approved: A plan to stabilize the new CLI and Flakes incrementally](https://github.com/NixOS/rfcs/pull/136)
 * [2023-08-13, 00:35:27](https://news.ycombinator.com/item?id=37105477) - [The first messenger without user IDs](https://simplex.chat/)
 * [2023-08-12, 23:42:16](https://news.ycombinator.com/item?id=37105214) - [Cracking DesignWare's the Grammar Examiner on the C64](http://oldvcr.blogspot.com/2023/08/cracking-designwares-grammar-examiner.html)
-* [2023-08-12, 23:11:39](https://news.ycombinator.com/item?id=37105054) - [Out-of-Distribution](https://github.com/continuousml/Awesome-Out-Of-Distribution-Detection)
 * [2023-08-12, 22:33:06](https://news.ycombinator.com/item?id=37104817) - [Podman v4.6 Introduces Podmansh: A Revolutionary Login Shell](https://blog.podman.io/2023/08/podman-v4-6-introduces-podmansh-a-revolutionary-login-shell/)
 * [2023-08-12, 22:19:37](https://news.ycombinator.com/item?id=37104742) - [A Blog Post with Every HTML Element](https://www.patrickweaver.net/blog/a-blog-post-with-every-html-element/)
 * [2023-08-12, 21:11:35](https://news.ycombinator.com/item?id=37104264) - [I drew these corals with mathematical equations](https://twitter.com/naderi_yeganeh/status/1690296100496838656)
