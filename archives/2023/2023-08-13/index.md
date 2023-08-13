@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
 * [2023-08-13, 18:35:15](https://news.ycombinator.com/item?id=37112741) - [Azure ChatGPT: Private and secure ChatGPT for internal enterprise use](https://github.com/microsoft/azurechatgpt)
+* [2023-08-13, 18:23:29](https://news.ycombinator.com/item?id=37112625) - [‘I've got nothing to hide’ and other misunderstandings of privacy (2007)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565)
 * [2023-08-13, 18:22:43](https://news.ycombinator.com/item?id=37112615) - [Downloading a video should be “fair use” as recording a song from the radio](https://mastodon.social/@HalvarFlake/110883667162838296)
 * [2023-08-13, 18:21:34](https://news.ycombinator.com/item?id=37112604) - [US inflation means families are spending $709 more per month than two years ago](https://www.cnn.com/2023/08/11/economy/inflation-rate-spending/index.html)
 * [2023-08-13, 18:05:41](https://news.ycombinator.com/item?id=37112411) - [Klaus Schwab: “If you have nothing to hide you have no reason to be afraid.”](https://twitter.com/WallStreetSilv/status/1690352175254220801)
