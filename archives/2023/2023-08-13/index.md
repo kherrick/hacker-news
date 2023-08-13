@@ -8,6 +8,7 @@
 * [2023-08-13, 22:32:38](https://news.ycombinator.com/item?id=37115286) - [Tech salaries largely unchanged as skills shortages continue](https://www.reseller.co.nz/article/708342/tech-salaries-largely-unchanged-as-skills-shortages-continue/)
 * [2023-08-13, 21:23:54](https://news.ycombinator.com/item?id=37114675) - [Nothing works, everyone's mad, society is a pile of kindling waiting for a match](https://tarahenley.substack.com/p/weekend-reads-the-rage-against-the)
 * [2023-08-13, 21:20:57](https://news.ycombinator.com/item?id=37114647) - [Neuralangelo: High-Fidelity Neural Surface Reconstruction](https://research.nvidia.com/labs/dir/neuralangelo/)
+* [2023-08-13, 21:03:53](https://news.ycombinator.com/item?id=37114457) - [Thoughts on Elixir, Phoenix and LiveView after 18 months of commercial use](https://korban.net/posts/2023-08-11-thoughts-on-elixir-phoenix-liveview/)
 * [2023-08-13, 21:00:40](https://news.ycombinator.com/item?id=37114420) - [Babylon 5 Is a Perfect, Terrible Series](https://www.tor.com/2023/08/09/babylon-5-is-a-perfect-terrible-series/)
 * [2023-08-13, 20:32:11](https://news.ycombinator.com/item?id=37114141) - [Show HN: I wrote a RDBMS (SQLite clone) from scratch in pure Python](https://github.com/spandanb/learndb-py)
 * [2023-08-13, 20:29:12](https://news.ycombinator.com/item?id=37114109) - [Why the world’s best vanilla is so easy to steal](https://thehustle.co/why-the-worlds-best-vanilla-is-so-easy-to-steal/)
