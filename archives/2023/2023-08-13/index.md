@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
+* [2023-08-13, 09:36:55](https://news.ycombinator.com/item?id=37108238) - [Sqlx: I'm sorry I forked you](https://sql.ophir.dev/blog.sql?post=I%E2%80%99m+sorry+I+forked+you)
 * [2023-08-13, 09:07:01](https://news.ycombinator.com/item?id=37108063) - [Sony and other music labels sue Internet Archive for digitizing old records](https://www.engadget.com/sony-and-other-music-labels-sue-internet-archive-for-digitizing-old-records-110108988.html)
 * [2023-08-13, 08:46:52](https://news.ycombinator.com/item?id=37107930) - [Cruise cars halt traffic in SF, cite 'connectivity issues'](https://www.kron4.com/news/bay-area/video-cruise-cars-halt-traffic-in-sf-cite-connectivity-issues-linked-to-outside-lands-festival/)
 * [2023-08-13, 08:26:34](https://news.ycombinator.com/item?id=37107817) - [Cargo Cult Science by Richard P. Feynman (1974) [pdf]](https://calteches.library.caltech.edu/51/2/CargoCult.pdf)

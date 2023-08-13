@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-13, 09:36:55](https://news.ycombinator.com/item?id=37108238) - [Sqlx: I'm sorry I forked you](https://sql.ophir.dev/blog.sql?post=I%E2%80%99m+sorry+I+forked+you)
 * [2023-08-13, 09:07:01](https://news.ycombinator.com/item?id=37108063) - [Sony and other music labels sue Internet Archive for digitizing old records](https://www.engadget.com/sony-and-other-music-labels-sue-internet-archive-for-digitizing-old-records-110108988.html)
 * [2023-08-13, 08:26:34](https://news.ycombinator.com/item?id=37107817) - [Cargo Cult Science by Richard P. Feynman (1974) [pdf]](https://calteches.library.caltech.edu/51/2/CargoCult.pdf)
 * [2023-08-13, 07:37:17](https://news.ycombinator.com/item?id=37107563) - [How to parent more predictably (2018)](https://www.jefftk.com/p/how-to-parent-more-predictably)
 * [2023-08-13, 07:23:04](https://news.ycombinator.com/item?id=37107488) - [The Meaning of Monad in MonadTrans](https://www.parsonsmatt.org/2023/08/10/the_meaning_of_monad_in_monadtrans.html)
-* [2023-08-13, 07:01:13](https://news.ycombinator.com/item?id=37107358) - [Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=37107358)
 * [2023-08-13, 07:00:16](https://news.ycombinator.com/item?id=37107352) - [Move Back to Datacenters](https://rakkhi.substack.com/p/why-you-should-move-back-to-datacenters)
 * [2023-08-13, 06:50:14](https://news.ycombinator.com/item?id=37107298) - [Render nuked my entire account with no notice](https://news.ycombinator.com/item?id=37107298)
 * [2023-08-13, 06:10:51](https://news.ycombinator.com/item?id=37107149) - [The CNET Lesson: Content Pruning Is Dumb for News Content, Don’t Do It](https://tedium.co/2023/08/11/content-pruning-news-websites-is-stupid/)
