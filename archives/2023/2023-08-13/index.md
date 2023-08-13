@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
+* [2023-08-13, 20:02:11](https://news.ycombinator.com/item?id=37113807) - [Apple bleee. Everyone knows what’s on your iPhone](https://hexway.io/research/apple-bleee/)
+* [2023-08-13, 19:23:29](https://news.ycombinator.com/item?id=37113336) - [Judge denies HP's plea to throw out all-in-one printer lockdown lawsuit](https://www.theregister.com/2023/08/11/judge_denies_hps_request_to/)
 * [2023-08-13, 19:23:08](https://news.ycombinator.com/item?id=37113330) - [Metro 2033 author Dmitry Glukhovsky sentenced to 8 years in prison](https://www.pcgamer.com/metro-2033-author-dmitry-glukhovsky-sentenced-to-8-years-in-prison-for-criticizing-russias-invasion-of-ukraine/)
 * [2023-08-13, 19:21:27](https://news.ycombinator.com/item?id=37113314) - [Dolphin Emulator Progress Report: May, June, and July 2023](https://dolphin-emu.org/blog/2023/08/13/dolphin-progress-report-may-june-and-july-2023/)
+* [2023-08-13, 19:20:52](https://news.ycombinator.com/item?id=37113307) - [Toki Pona: an attempted universal language with only ~120 words](https://cohost.org/mcc/post/59045-mi-kama-sona-e-toki)
 * [2023-08-13, 18:59:01](https://news.ycombinator.com/item?id=37113012) - [Top Algorithms Every Programmer Should Know](https://sifu.hashnode.dev/top-8-algorithms-every-programmer-should-know)
 * [2023-08-13, 18:35:15](https://news.ycombinator.com/item?id=37112741) - [Azure ChatGPT: Private and secure ChatGPT for internal enterprise use](https://github.com/microsoft/azurechatgpt)
 * [2023-08-13, 18:23:29](https://news.ycombinator.com/item?id=37112625) - [‘I've got nothing to hide’ and other misunderstandings of privacy (2007)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565)
