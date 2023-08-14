@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-14, 18:52:54",
+      "https://news.ycombinator.com/item?id=37125118"
+    ],
+    [
+      "Show HN: LLMs can generate valid JSON 100% of the time",
+      "https://github.com/normal-computing/outlines"
+    ]
+  ],
+  [
+    [
       "2023-08-14, 18:06:15",
       "https://news.ycombinator.com/item?id=37124373"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2023-08-14, 17:40:45",
-      "https://news.ycombinator.com/item?id=37124015"
+      "2023-08-14, 17:43:40",
+      "https://news.ycombinator.com/item?id=37124059"
     ],
     [
-      "Lack of Walkability in the US is destroying mental health",
-      "https://makeamericawalkable.com/"
+      "Does there exist a complete implementation of the Risch algorithm?",
+      "https://mathoverflow.net/questions/374089/does-there-exist-a-complete-implementation-of-the-risch-algorithm"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2023-08-14, 09:14:04",
-      "https://news.ycombinator.com/item?id=37118983"
-    ],
-    [
-      "Testing on production",
-      "https://marcochiappetta.medium.com/yes-you-should-test-on-production-61f6dc61908b"
-    ]
-  ],
-  [
-    [
       "2023-08-14, 08:58:03",
       "https://news.ycombinator.com/item?id=37118883"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2023-08-14, 06:32:47",
-      "https://news.ycombinator.com/item?id=37118124"
+      "2023-08-14, 06:48:53",
+      "https://news.ycombinator.com/item?id=37118195"
     ],
     [
-      "Veilid is an open-source, P2P, mobile-ﬁrst, networked application framework",
-      "https://veilid.com/"
+      "Migrating Netflix to GraphQL Safely",
+      "https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72?gi=6070ab8bb55c"
     ]
   ],
   [
