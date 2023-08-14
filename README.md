@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-14, 17:12:03](https://news.ycombinator.com/item?id=37123614) - [Show HN: CoolReadME, a way to display GitHub profile readmes with custom CSS](https://cool-readme.vercel.app/)
 * [2023-08-14, 17:09:15](https://news.ycombinator.com/item?id=37123572) - [Following Pushback, Zoom Says It Won't Use Customer Data to Train AI Models](https://www.darkreading.com/analytics/following-pushback-zoom-says-it-won-t-use-customer-data-to-train-ai-models)
 * [2023-08-14, 17:01:29](https://news.ycombinator.com/item?id=37123455) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-08-14, 16:44:05](https://news.ycombinator.com/item?id=37123155) - [ParkyTowers: Thin Clients Laid Bare](https://www.parkytowers.me.uk/thin/)
@@ -10,7 +11,6 @@
 * [2023-08-14, 14:30:40](https://news.ycombinator.com/item?id=37121458) - [Caught by MuseScore's Dark Patterns (2021)](https://gadanidis.ca/posts/2021-11-09-musescore.html)
 * [2023-08-14, 14:06:09](https://news.ycombinator.com/item?id=37121180) - [Software Engineering at Google (2020)](https://abseil.io/resources/swe-book/html/toc.html)
 * [2023-08-14, 13:48:02](https://news.ycombinator.com/item?id=37120967) - [I built a garbage collector for a language that doesn’t need one](https://claytonwramsey.github.io/2023/08/14/dumpster.html)
-* [2023-08-14, 13:42:32](https://news.ycombinator.com/item?id=37120911) - [How to run a miserable code review](https://badsoftwareadvice.substack.com/p/how-to-run-a-miserable-code-review)
 * [2023-08-14, 13:36:30](https://news.ycombinator.com/item?id=37120874) - [Analysis of the data job market using HN job posts](https://emiruz.com/post/2023-08-12-data-jobs/)
 * [2023-08-14, 13:23:01](https://news.ycombinator.com/item?id=37120758) - [Positive association between altitude and suicide in U.S. counties](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3114154/)
 * [2023-08-14, 13:17:19](https://news.ycombinator.com/item?id=37120697) - [Bomb threat causes mass evacuation at DEF CON hacking convention](https://www.theregister.com/2023/08/14/def_con_roundup/)
