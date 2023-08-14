@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-14, 06:41:02](https://news.ycombinator.com/item?id=37118166) - [Ask HN: Getting Rid of the Founder?](https://news.ycombinator.com/item?id=37118166)
 * [2023-08-14, 06:25:04](https://news.ycombinator.com/item?id=37118081) - [Fediverse and Naive Bayes: The Grandfather of Spam Filters Still Making Waves](https://pixelfed.blog/p/2023/feature/autospam-and-naive-bayes-the-grandfather-of-spam-filters-still-making-waves)
 * [2023-08-14, 03:53:17](https://news.ycombinator.com/item?id=37117291) - [Things UNIX can do atomically (2010)](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
 * [2023-08-14, 03:29:53](https://news.ycombinator.com/item?id=37117171) - [Samo Burja: Great Founder Theory](https://www.samoburja.com/gft/)
@@ -24,7 +25,6 @@
 * [2023-08-13, 18:22:43](https://news.ycombinator.com/item?id=37112615) - [Downloading a video should be “fair use” as recording a song from the radio](https://mastodon.social/@HalvarFlake/110883667162838296)
 * [2023-08-13, 17:00:56](https://news.ycombinator.com/item?id=37111755) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37111755)
 * [2023-08-13, 15:03:02](https://news.ycombinator.com/item?id=37110648) - [Studying the Limits of Human Perfection, Through Darts](https://www.nytimes.com/2023/08/05/upshot/darts-sports-perfection.html)
-* [2023-08-13, 13:34:17](https://news.ycombinator.com/item?id=37109903) - [The Deepest Submarine Rescue (2021)](https://www.newsweek.com/extraordinary-story-world-deepest-submarine-rescue-1598186)
 * [2023-08-13, 11:50:48](https://news.ycombinator.com/item?id=37109017) - [The Wizard of Oz approach to product building (2016)](https://www.ycombinator.com/blog/ask-yc-upfront-technical-investments)
 * [2023-08-13, 10:43:28](https://news.ycombinator.com/item?id=37108624) - [Writing a Pathtracer in Lua, Week 1](https://blog.42yeah.is/rendering/2023/08/12/luapt.html)
 * [2023-08-11, 10:03:56](https://news.ycombinator.com/item?id=37086932) - [Functional Programming in Modern C++: The Imperatives Must Go [video]](https://www.youtube.com/watch?v=HE71NqRpvTQ)
