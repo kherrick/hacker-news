@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-14, 10:23:20](https://news.ycombinator.com/item?id=37119370) - [D J Bernstein – The IPv6 mess](http://cr.yp.to/djbdns/ipv6mess.html)
+* [2023-08-14, 10:13:16](https://news.ycombinator.com/item?id=37119311) - [Launch HN: Serra (YC S23) – Open-source, Python-based dbt alternative](https://news.ycombinator.com/item?id=37119311)
 * [2023-08-14, 09:14:04](https://news.ycombinator.com/item?id=37118983) - [“Yes, you should test on production” – Why developer experience matters](https://marcochiappetta.medium.com/yes-you-should-test-on-production-61f6dc61908b)
 * [2023-08-14, 08:58:03](https://news.ycombinator.com/item?id=37118883) - [Write about what you learn. It pushes you to understand topics better](https://addyosmani.com/blog/write-learn/)
-* [2023-08-14, 08:56:10](https://news.ycombinator.com/item?id=37118877) - [Vector Database benchmark with 1536/768 dim data](https://github.com/zilliztech/VectorDBBench)
 * [2023-08-14, 08:14:43](https://news.ycombinator.com/item?id=37118633) - [Python: Just Write SQL](https://joaodlf.com/python-just-write-sql)
 * [2023-08-14, 07:42:08](https://news.ycombinator.com/item?id=37118452) - [Matters Computational – Ideas, Algorithms, Source Code [pdf]](https://www.jjj.de/fxt/fxtbook.pdf)
 * [2023-08-14, 07:18:44](https://news.ycombinator.com/item?id=37118344) - [Momentum, a DIY 12-voice virtual analogue polyphonic synthesizer based on TSynth](http://electrotechnique.cc/Momentum.html)
