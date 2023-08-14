@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-14, 04:29:46](https://news.ycombinator.com/item?id=37117469) - [Core War, a very old game about programming](https://en.wikipedia.org/wiki/Core_War)
 * [2023-08-14, 03:53:17](https://news.ycombinator.com/item?id=37117291) - [Things UNIX can do atomically (2010)](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
 * [2023-08-14, 03:29:53](https://news.ycombinator.com/item?id=37117171) - [Samo Burja: Great Founder Theory](https://www.samoburja.com/gft/)
 * [2023-08-14, 02:32:40](https://news.ycombinator.com/item?id=37116831) - [The Dance of Śiva](https://www.asymptotejournal.com/blog/2023/08/09/the-dance-of-siva/)
@@ -17,7 +18,6 @@
 * [2023-08-13, 20:13:23](https://news.ycombinator.com/item?id=37113917) - [ZFSBootMenu](https://docs.zfsbootmenu.org/en/v2.2.x/#)
 * [2023-08-13, 19:30:08](https://news.ycombinator.com/item?id=37113415) - [If you succeed you will fail](https://boyter.org/posts/if-you-succeed-you-will-fail/)
 * [2023-08-13, 19:23:29](https://news.ycombinator.com/item?id=37113336) - [Judge denies HP's plea to throw out all-in-one printer lockdown lawsuit](https://www.theregister.com/2023/08/11/judge_denies_hps_request_to/)
-* [2023-08-13, 19:21:27](https://news.ycombinator.com/item?id=37113314) - [Dolphin Emulator Progress Report: May, June, and July 2023](https://dolphin-emu.org/blog/2023/08/13/dolphin-progress-report-may-june-and-july-2023/)
 * [2023-08-13, 19:20:52](https://news.ycombinator.com/item?id=37113307) - [Toki Pona: an attempted universal language with only ~120 words](https://cohost.org/mcc/post/59045-mi-kama-sona-e-toki)
 * [2023-08-13, 18:35:15](https://news.ycombinator.com/item?id=37112741) - [Azure ChatGPT: Private and secure ChatGPT for internal enterprise use](https://github.com/microsoft/azurechatgpt)
 * [2023-08-13, 18:23:29](https://news.ycombinator.com/item?id=37112625) - [‘I've got nothing to hide’ and other misunderstandings of privacy (2007)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565)
