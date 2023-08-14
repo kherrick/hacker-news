@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-08-14, 13:23:01",
-      "https://news.ycombinator.com/item?id=37120758"
+      "2023-08-14, 13:36:30",
+      "https://news.ycombinator.com/item?id=37120874"
     ],
     [
-      "Positive Association between Altitude and Suicide in 2584 U.S. Counties",
-      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3114154/"
+      "Analysis of the data job market using HN job posts",
+      "https://emiruz.com/post/2023-08-12-data-jobs/"
     ]
   ],
   [
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=37120372"
     ],
     [
-      "Tears in the Rain: The 2002 Überlingen midair collision",
+      "The 2002 Überlingen midair collision",
       "https://admiralcloudberg.medium.com/tears-in-the-rain-the-2002-%C3%BCberlingen-midair-collision-591232d0c51e"
     ]
   ],
@@ -61,12 +61,12 @@
   ],
   [
     [
-      "2023-08-14, 10:23:20",
-      "https://news.ycombinator.com/item?id=37119370"
+      "2023-08-14, 11:49:59",
+      "https://news.ycombinator.com/item?id=37119942"
     ],
     [
-      "The IPv6 mess",
-      "http://cr.yp.to/djbdns/ipv6mess.html"
+      "Show HN: Little Rat – Chrome extension monitors network calls of all extensions",
+      "https://github.com/dnakov/little-rat"
     ]
   ],
   [
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=37118883"
     ],
     [
-      "Write about what you learn. It pushes you to understand topics better",
+      "Writing about what you learn pushes you to understand topics better",
       "https://addyosmani.com/blog/write-learn/"
     ]
   ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2023-08-13, 17:11:37",
+      "https://news.ycombinator.com/item?id=37111867"
+    ],
+    [
+      "Automatically classifying the content of sound files using ML",
+      "https://blog.gingerbeardman.com/2023/08/13/automatically-classifying-the-content-of-sound-files-using-ml/"
+    ]
+  ],
+  [
+    [
       "2023-08-13, 15:51:59",
       "https://news.ycombinator.com/item?id=37111063"
     ],
@@ -267,16 +277,6 @@
     [
       "Nobody ever paid me for code",
       "https://www.bitecode.dev/p/nobody-ever-paid-me-for-code"
-    ]
-  ],
-  [
-    [
-      "2023-08-13, 10:43:28",
-      "https://news.ycombinator.com/item?id=37108624"
-    ],
-    [
-      "Writing a Pathtracer in Lua, Week 1",
-      "https://blog.42yeah.is/rendering/2023/08/12/luapt.html"
     ]
   ],
   [
