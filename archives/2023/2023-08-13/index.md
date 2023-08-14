@@ -8,6 +8,7 @@
 * [2023-08-13, 23:06:40](https://news.ycombinator.com/item?id=37115540) - [Borgbase backups have been unavailable for 3 days – recovery is at 26%](https://status.borgbase.com/status/default)
 * [2023-08-13, 22:34:13](https://news.ycombinator.com/item?id=37115298) - [The Namco ND-1: Taking 2D for Granted](https://nicole.express/2023/nobody-plays-those-old-games-anymore.html)
 * [2023-08-13, 22:32:38](https://news.ycombinator.com/item?id=37115286) - [Tech salaries largely unchanged as skills shortages continue](https://www.reseller.co.nz/article/708342/tech-salaries-largely-unchanged-as-skills-shortages-continue/)
+* [2023-08-13, 22:00:21](https://news.ycombinator.com/item?id=37114976) - [The AST Typing Problem](http://blog.ezyang.com/2013/05/the-ast-typing-problem/)
 * [2023-08-13, 21:23:54](https://news.ycombinator.com/item?id=37114675) - [Nothing works, everyone's mad, society is a pile of kindling waiting for a match](https://tarahenley.substack.com/p/weekend-reads-the-rage-against-the)
 * [2023-08-13, 21:20:57](https://news.ycombinator.com/item?id=37114647) - [Neuralangelo: High-Fidelity Neural Surface Reconstruction](https://research.nvidia.com/labs/dir/neuralangelo/)
 * [2023-08-13, 21:03:53](https://news.ycombinator.com/item?id=37114457) - [Thoughts on Elixir, Phoenix and LiveView after 18 months of commercial use](https://korban.net/posts/2023-08-11-thoughts-on-elixir-phoenix-liveview/)
