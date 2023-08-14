@@ -11,11 +11,12 @@
 * [2023-08-14, 06:25:04](https://news.ycombinator.com/item?id=37118081) - [Fediverse and Naive Bayes: The Grandfather of Spam Filters Still Making Waves](https://pixelfed.blog/p/2023/feature/autospam-and-naive-bayes-the-grandfather-of-spam-filters-still-making-waves)
 * [2023-08-14, 04:02:58](https://news.ycombinator.com/item?id=37117338) - [Bypassing YouTube video download throttling](https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling/)
 * [2023-08-14, 03:53:17](https://news.ycombinator.com/item?id=37117291) - [Things Unix can do atomically (2010)](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
-* [2023-08-14, 03:29:53](https://news.ycombinator.com/item?id=37117171) - [Great Founder Theory (2020)](https://www.samoburja.com/gft/)
 * [2023-08-14, 02:32:40](https://news.ycombinator.com/item?id=37116831) - [The Dance of Śiva](https://www.asymptotejournal.com/blog/2023/08/09/the-dance-of-siva/)
 * [2023-08-14, 01:47:50](https://news.ycombinator.com/item?id=37116539) - [Jitsi Meet Flutter SDK](https://jitsi.org/blog/introducing-the-jitsi-meet-flutter-sdk/)
+* [2023-08-14, 01:38:43](https://news.ycombinator.com/item?id=37116487) - [The world in which IPv6 was a good design (2017)](https://apenwarr.ca/log/20170810)
 * [2023-08-14, 01:15:22](https://news.ycombinator.com/item?id=37116353) - [LangChain Agent Simulation – Multi-Player Dungeons and Dragons](https://python.langchain.com/docs/use_cases/agent_simulations/two_player_dnd)
 * [2023-08-13, 23:21:31](https://news.ycombinator.com/item?id=37115626) - [A video game where you are an operating system](https://plbrault.com/blog-posts/i-created-the-nerdierst-game-ever-en/)
+* [2023-08-13, 22:00:21](https://news.ycombinator.com/item?id=37114976) - [The AST Typing Problem](http://blog.ezyang.com/2013/05/the-ast-typing-problem/)
 * [2023-08-13, 21:03:53](https://news.ycombinator.com/item?id=37114457) - [Thoughts on Elixir, Phoenix and LiveView after 18 months of commercial use](https://korban.net/posts/2023-08-11-thoughts-on-elixir-phoenix-liveview/)
 * [2023-08-13, 20:32:11](https://news.ycombinator.com/item?id=37114141) - [Show HN: I wrote a RDBMS (SQLite clone) from scratch in pure Python](https://github.com/spandanb/learndb-py)
 * [2023-08-13, 20:29:12](https://news.ycombinator.com/item?id=37114109) - [Mexico’s underground vanilla economy](https://thehustle.co/why-the-worlds-best-vanilla-is-so-easy-to-steal/)
@@ -29,7 +30,6 @@
 * [2023-08-13, 09:22:06](https://news.ycombinator.com/item?id=37108153) - [Gameboy Leach](https://gieskes.nl/undefined/prepared-gameboy/?f=leach)
 * [2023-08-12, 04:15:31](https://news.ycombinator.com/item?id=37096991) - [Risky Giant Steps Can Solve Optimization Problems Faster](https://www.quantamagazine.org/risky-giant-steps-can-solve-optimization-problems-faster-20230811/)
 * [2023-08-11, 10:03:56](https://news.ycombinator.com/item?id=37086932) - [Functional Programming in Modern C++: The Imperatives Must Go [video]](https://www.youtube.com/watch?v=HE71NqRpvTQ)
-* [2023-08-11, 02:20:34](https://news.ycombinator.com/item?id=37084351) - [Legions of DEF CON hackers will attack generative AI models](https://venturebeat.com/ai/legions-of-defcon-hackers-will-attack-generative-ai-models/)
 
 ## [Archives](archives/index.md)
 
