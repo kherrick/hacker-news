@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
+* [2023-08-13, 23:21:31](https://news.ycombinator.com/item?id=37115626) - [I created the nerdiest game ever](https://plbrault.com/blog-posts/i-created-the-nerdierst-game-ever-en/)
+* [2023-08-13, 23:06:40](https://news.ycombinator.com/item?id=37115540) - [Borgbase backups have been unavailable for 3 days – recovery is at 26%](https://status.borgbase.com/status/default)
 * [2023-08-13, 22:34:13](https://news.ycombinator.com/item?id=37115298) - [The Namco ND-1: Taking 2D for Granted](https://nicole.express/2023/nobody-plays-those-old-games-anymore.html)
 * [2023-08-13, 22:32:38](https://news.ycombinator.com/item?id=37115286) - [Tech salaries largely unchanged as skills shortages continue](https://www.reseller.co.nz/article/708342/tech-salaries-largely-unchanged-as-skills-shortages-continue/)
 * [2023-08-13, 21:23:54](https://news.ycombinator.com/item?id=37114675) - [Nothing works, everyone's mad, society is a pile of kindling waiting for a match](https://tarahenley.substack.com/p/weekend-reads-the-rage-against-the)
