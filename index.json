@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=37127218"
     ],
     [
-      "Why Developers Hate Agile",
+      "Negative developer comments about Agile and Scrum on social media",
       "https://github.com/rayfrankenstein/AITOW/blob/master/README.md"
     ]
   ],
@@ -46,7 +46,7 @@
     ],
     [
       "Java 21: First Release Candidate",
-      "https://mail.openjdk.org/pipermail/jdk-dev/2023-August/008059.html"
+      "https://openjdk.org/projects/jdk/21/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2023-08-14, 14:06:09",
-      "https://news.ycombinator.com/item?id=37121180"
-    ],
-    [
-      "Software Engineering at Google (2020)",
-      "https://abseil.io/resources/swe-book/html/toc.html"
-    ]
-  ],
-  [
-    [
       "2023-08-14, 13:48:02",
       "https://news.ycombinator.com/item?id=37120967"
     ],
@@ -247,6 +237,16 @@
     [
       "Show HN: Little Rat – Chrome extension monitors network calls of all extensions",
       "https://github.com/dnakov/little-rat"
+    ]
+  ],
+  [
+    [
+      "2023-08-14, 11:06:39",
+      "https://news.ycombinator.com/item?id=37119623"
+    ],
+    [
+      "PicoLixp Explored: On Coroutines",
+      "https://picolisp-explored.com/picolixp-explored-on-coroutines"
     ]
   ],
   [
