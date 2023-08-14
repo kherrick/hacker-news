@@ -139,13 +139,112 @@
             <h4>
               <span>2023-08-14 @ 10:23:20</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37119370"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="37119311">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=37119311"
+              >Launch HN: Serra (YC S23) – Open-source, Python-based dbt
+              alternative</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-08-14 @ 10:13:16</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37119311"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://github.com/Serra-Technologies/serra"
+                >https://github.com/Serra-Technologies/serra</a
+              >, and our docs are here:
+              <a href="https://docs.serra.io/documentation/"
+                >https://docs.serra.io/documentation/</a
+              >.
+              <p>
+                I stumbled into this idea as a data engineer for Disney+’s
+                subscriptions team. We were “firefighters for data,” ready to
+                debug huge pipelines that always crashed and burned. The worst
+                part of my job at Disney+ was the graveyard on-call rotations,
+                where pagers from 12am to 5am were guaranteed, and you'd have to
+                dig through thousands of lines of someone else’s SQL. SQL is
+                long-winded—1000 lines of SQL can often be summarized with 10
+                key transforms. We take this SQL and summarize those transforms
+                with reusable, testable, scalable Spark objects.
+              </p>
+              <p>
+                Serra is written in PySpark and modularizes every component of
+                ETL through Spark objects. Similar to dbt, we apply software
+                engineering best practices to data, but we aim to do it not just
+                with transformations, but with data connectors as well. We
+                accomplish this with a configuration YAML file—the idea is if we
+                have a pipeline with said 1000 line SQL script that is using
+                third-party connectors, we can summarize all of this into a
+                12-block config file that gives easy high-level overhead and
+                debugging capabilities—10 blocks for the transforms and 2 for
+                the in-house connectors. Then, we can add tests and custom
+                alerts to each of these objects/blocks so that we know where
+                exactly the pipeline breaks and why.
+              </p>
+              <p>
+                We are open-source to make it easy to customize Serra to
+                whatever flavor you like with custom transformers/connectors.
+                The connectors we support OOB are Snowflake, AWS, BigQuery, and
+                Databricks and are adding more based on feedback. The transforms
+                we support include mapping, pivoting, joining, truncating,
+                imputing, and more. We’re doing our best to make Serra as easy
+                to use as possible. If you have docker installed, you can run
+                this docker command to instantly get setup with a Serra
+                environment to create modular pipelines.
+              </p>
+              <p>
+                We wrap up our functionality with a command line tool that lets
+                you: - create your ETL pipelines, test them locally with a
+                subset of your data, and deploy them to the cloud (currently we
+                only support Databricks, but will soon support others and plan
+                to host our own clusters too). It also has an experimental
+                “translate” feature which is still a bit finicky, but the idea
+                is to take your existing SQL script and get suggestions on how
+                you can chunk up and modularize your job with our config. It’s
+                still just a super early suggestion feature that is definitely
+                not fleshed out, but we think it’s a cool approach.
+              </p>
+              <p>
+                Here’s a quick demo going through retooling a long-winded SQL
+                script to an easily maintainable, scalable ETL job:
+                <a
+                  href="https://www.loom.com/share/acc633c0ec03455e9e8837f5c3db3165?sid=341c529c-1c4a-41b2-85c4-ca8589ff965a"
+                  >https://www.loom.com/share/acc633c0ec03455e9e8837f5c3db3165?...</a
+                >. (docker command: docker run --mount
+                type=bind,source="$(pwd)",target=/app -it serraio/serra
+                /bin/bash)
+              </p>
+              <p>
+                We don’t see or store any of your data—we’re a transit layer
+                that helps you write ETL jobs that you can send to your
+                warehouse of choice with your actual data. Right now we are
+                helping customers retool their messy data pipelines and plan to
+                monetize by hosting Serra on the cloud, charging if you run the
+                job on our own clusters, and per API call on our translate
+                feature (once it’s mature).
+              </p>
+              <p>
+                We’re super excited to launch this to Hacker News. We’d love to
+                hear what you think. Thanks in advance!
+              </p>
+            </div>
           </section>
         </section>
         <section id="37118983">
@@ -161,7 +260,7 @@
             <h4>
               <span>2023-08-14 @ 09:14:04</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37118983"
                   >Comments</a
@@ -181,30 +280,11 @@
             <h4>
               <span>2023-08-14 @ 08:58:03</span
               ><span class="points-container"
-                >Points: <span class="points">108</span></span
+                >Points: <span class="points">118</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37118883"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="37118877">
-          <h3>
-            <a class="item" href="https://github.com/zilliztech/VectorDBBench"
-              >Vector Database benchmark with 1536/768 dim data</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-08-14 @ 08:56:10</span
-              ><span class="points-container"
-                >Points: <span class="points">21</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37118877"
-                  >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -219,11 +299,11 @@
             <h4>
               <span>2023-08-14 @ 08:14:43</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37118633"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -282,7 +362,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37118124"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -299,7 +379,7 @@
             <h4>
               <span>2023-08-14 @ 06:31:13</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37118114"
                   >Comments</a
@@ -321,11 +401,11 @@
             <h4>
               <span>2023-08-14 @ 06:29:02</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37118098"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -364,11 +444,11 @@
             <h4>
               <span>2023-08-14 @ 04:02:58</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">107</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37117338"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
@@ -385,11 +465,11 @@
             <h4>
               <span>2023-08-14 @ 03:53:17</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37117291"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -427,11 +507,11 @@
             <h4>
               <span>2023-08-14 @ 01:47:50</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37116539"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 77</span></span
               >
             </h4>
           </section>
@@ -446,11 +526,11 @@
             <h4>
               <span>2023-08-14 @ 01:38:43</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37116487"
                   >Comments</a
-                ><span class="descendants">: 86</span></span
+                ><span class="descendants">: 87</span></span
               >
             </h4>
           </section>
@@ -467,7 +547,7 @@
             <h4>
               <span>2023-08-14 @ 01:15:22</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37116353"
                   >Comments</a
@@ -488,11 +568,11 @@
             <h4>
               <span>2023-08-13 @ 23:21:31</span
               ><span class="points-container"
-                >Points: <span class="points">453</span></span
+                >Points: <span class="points">460</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37115626"
                   >Comments</a
-                ><span class="descendants">: 82</span></span
+                ><span class="descendants">: 84</span></span
               >
             </h4>
           </section>
@@ -510,7 +590,7 @@
             <h4>
               <span>2023-08-13 @ 21:03:53</span
               ><span class="points-container"
-                >Points: <span class="points">236</span></span
+                >Points: <span class="points">241</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37114457"
                   >Comments</a
@@ -530,7 +610,7 @@
             <h4>
               <span>2023-08-13 @ 20:32:11</span
               ><span class="points-container"
-                >Points: <span class="points">312</span></span
+                >Points: <span class="points">315</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37114141"
                   >Comments</a
@@ -559,7 +639,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37114109"
                   >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -596,7 +676,7 @@
             <h4>
               <span>2023-08-13 @ 19:20:52</span
               ><span class="points-container"
-                >Points: <span class="points">412</span></span
+                >Points: <span class="points">413</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37113307"
                   >Comments</a
@@ -616,11 +696,11 @@
             <h4>
               <span>2023-08-13 @ 18:35:15</span
               ><span class="points-container"
-                >Points: <span class="points">764</span></span
+                >Points: <span class="points">765</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37112741"
                   >Comments</a
-                ><span class="descendants">: 276</span></span
+                ><span class="descendants">: 277</span></span
               >
             </h4>
           </section>
@@ -658,7 +738,7 @@
             <h4>
               <span>2023-08-13 @ 11:17:45</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37108833"
                   >Comments</a
@@ -721,7 +801,7 @@
             <h4>
               <span>2023-08-12 @ 04:15:31</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37096991"
                   >Comments</a
