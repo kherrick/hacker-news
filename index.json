@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-14, 16:22:24",
+      "https://news.ycombinator.com/item?id=37122871"
+    ],
+    [
+      "Backward Compatibility, Go 1.21, and Go 2",
+      "https://go.dev/blog/compat"
+    ]
+  ],
+  [
+    [
       "2023-08-14, 15:59:53",
       "https://news.ycombinator.com/item?id=37122585"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=37122006"
     ],
     [
-      "Elixir – Why the dot (when calling anonymous functions)?",
+      "Elixir – Why the dot when calling anonymous functions?",
       "https://dashbit.co/blog/why-the-dot"
     ]
   ],
@@ -47,16 +57,6 @@
     [
       "Caught by MuseScore's Dark Patterns (2021)",
       "https://gadanidis.ca/posts/2021-11-09-musescore.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-14, 14:06:09",
-      "https://news.ycombinator.com/item?id=37121180"
-    ],
-    [
-      "Software Engineering at Google",
-      "https://abseil.io/resources/swe-book/html/toc.html"
     ]
   ],
   [
