@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-14, 22:13:42](https://news.ycombinator.com/item?id=37127450) - [The Cuts at WVU](https://community.wvu.edu/~jokatz/Closure/)
 * [2023-08-14, 21:41:37](https://news.ycombinator.com/item?id=37127174) - [Michael Burry shorts Major index in sizable bets](https://www.thestreet.com/investing/the-big-short-michael-burry-makes-big-bet-against-the-market)
 * [2023-08-14, 21:24:15](https://news.ycombinator.com/item?id=37127003) - [AI Detection Tools Falsely Accuse International Students of Cheating](https://themarkup.org/machine-learning/2023/08/14/ai-detection-tools-falsely-accuse-international-students-of-cheating)
 * [2023-08-14, 20:40:04](https://news.ycombinator.com/item?id=37126530) - [Java 21: First Release Candidate](https://mail.openjdk.org/pipermail/jdk-dev/2023-August/008059.html)
@@ -28,7 +29,6 @@
 * [2023-08-14, 08:14:43](https://news.ycombinator.com/item?id=37118633) - [Python: Just Write SQL](https://joaodlf.com/python-just-write-sql)
 * [2023-08-14, 05:37:38](https://news.ycombinator.com/item?id=37117818) - [The anesthetic effect of air at atmospheric pressure](https://pubmed.ncbi.nlm.nih.gov/1130736/)
 * [2023-08-13, 23:20:05](https://news.ycombinator.com/item?id=37115614) - [Emulating x86 on X64 on Aarch64](https://neugierig.org/software/blog/2023/08/x86-x64-aarch64.html)
-* [2023-08-13, 17:11:37](https://news.ycombinator.com/item?id=37111867) - [Automatically classifying the content of sound files using ML](https://blog.gingerbeardman.com/2023/08/13/automatically-classifying-the-content-of-sound-files-using-ml/)
 * [2023-08-13, 07:37:58](https://news.ycombinator.com/item?id=37107572) - [Floor Mouse (2018)](https://www.jefftk.com/p/floor-mouse)
 
 ## [Archives](archives/index.md)
