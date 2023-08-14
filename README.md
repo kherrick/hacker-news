@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-14, 22:42:45](https://news.ycombinator.com/item?id=37127684) - [What could Universal Early Childcare look like?](https://dchung.substack.com/p/what-could-universal-early-childcare)
 * [2023-08-14, 22:33:30](https://news.ycombinator.com/item?id=37127606) - [Montana loses fight against youth climate activists in landmark ruling](https://arstechnica.com/tech-policy/2023/08/montana-loses-fight-against-youth-climate-activists-in-landmark-ruling/)
 * [2023-08-14, 22:13:42](https://news.ycombinator.com/item?id=37127450) - [The Cuts at WVU](https://community.wvu.edu/~jokatz/Closure/)
 * [2023-08-14, 20:43:02](https://news.ycombinator.com/item?id=37126567) - [My (Herb Sutter's) C++ Now 2023 talk is online: “A TypeScript for C++”](https://herbsutter.com/2023/08/13/my-c-now-2023-talk-is-online-a-typescript-for-c/)
 * [2023-08-14, 20:40:04](https://news.ycombinator.com/item?id=37126530) - [Java 21: First Release Candidate](https://openjdk.org/projects/jdk/21/)
+* [2023-08-14, 20:10:51](https://news.ycombinator.com/item?id=37126182) - [Ask HN: Burnout because of ChatGPT?](https://news.ycombinator.com/item?id=37126182)
 * [2023-08-14, 19:42:17](https://news.ycombinator.com/item?id=37125830) - [OpenFarm – a free and open database and web application for gardening knowledge](https://openfarm.cc)
 * [2023-08-14, 19:19:57](https://news.ycombinator.com/item?id=37125561) - [Navigating the timezone nightmare in product development](https://www.getlago.com/blog/time-zone-nightmares)
 * [2023-08-14, 19:13:12](https://news.ycombinator.com/item?id=37125458) - [Study shows dementia more common in older adults with vision issues](https://www.michiganmedicine.org/health-lab/study-shows-dementia-more-common-older-adults-vision-issues)
