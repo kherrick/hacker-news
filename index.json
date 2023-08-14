@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=37117291"
     ],
     [
-      "Things UNIX can do atomically (2010)",
+      "Things Unix can do atomically (2010)",
       "https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html"
     ]
   ],
@@ -97,6 +97,16 @@
     [
       "A video game where you are an operating system",
       "https://plbrault.com/blog-posts/i-created-the-nerdierst-game-ever-en/"
+    ]
+  ],
+  [
+    [
+      "2023-08-13, 23:06:40",
+      "https://news.ycombinator.com/item?id=37115540"
+    ],
+    [
+      "Borgbase backups have been unavailable for 3 days",
+      "https://status.borgbase.com/status/default"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "The Wizard of Oz approach to product building (2016)",
       "https://www.ycombinator.com/blog/ask-yc-upfront-technical-investments"
-    ]
-  ],
-  [
-    [
-      "2023-08-13, 10:43:28",
-      "https://news.ycombinator.com/item?id=37108624"
-    ],
-    [
-      "Writing a Pathtracer in Lua, Week 1",
-      "https://blog.42yeah.is/rendering/2023/08/12/luapt.html"
     ]
   ],
   [
