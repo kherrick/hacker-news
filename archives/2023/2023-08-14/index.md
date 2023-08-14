@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
+* [2023-08-14, 23:46:02](https://news.ycombinator.com/item?id=37128293) - [Show HN: AI-town, run your own custom AI world SIM with JavaScript](https://github.com/a16z-infra/ai-town)
 * [2023-08-14, 22:42:45](https://news.ycombinator.com/item?id=37127684) - [What could Universal Early Childcare look like?](https://dchung.substack.com/p/what-could-universal-early-childcare)
 * [2023-08-14, 22:33:30](https://news.ycombinator.com/item?id=37127606) - [Montana loses fight against youth climate activists in landmark ruling](https://arstechnica.com/tech-policy/2023/08/montana-loses-fight-against-youth-climate-activists-in-landmark-ruling/)
 * [2023-08-14, 22:13:42](https://news.ycombinator.com/item?id=37127450) - [The Cuts at WVU](https://community.wvu.edu/~jokatz/Closure/)
@@ -69,6 +70,7 @@
 * [2023-08-14, 11:06:39](https://news.ycombinator.com/item?id=37119623) - [PicoLixp Explored: On Coroutines](https://picolisp-explored.com/picolixp-explored-on-coroutines)
 * [2023-08-14, 10:23:20](https://news.ycombinator.com/item?id=37119370) - [D J Bernstein – The IPv6 mess](http://cr.yp.to/djbdns/ipv6mess.html)
 * [2023-08-14, 10:13:16](https://news.ycombinator.com/item?id=37119311) - [Launch HN: Serra (YC S23) – Open-source, Python-based dbt alternative](https://news.ycombinator.com/item?id=37119311)
+* [2023-08-14, 10:01:30](https://news.ycombinator.com/item?id=37119233) - [What happened to the microfinance company Kiva?](https://www.technologyreview.com/2023/08/14/1077351/microfinance-money-making/)
 * [2023-08-14, 09:14:04](https://news.ycombinator.com/item?id=37118983) - [“Yes, you should test on production” – Why developer experience matters](https://marcochiappetta.medium.com/yes-you-should-test-on-production-61f6dc61908b)
 * [2023-08-14, 08:58:03](https://news.ycombinator.com/item?id=37118883) - [Write about what you learn. It pushes you to understand topics better](https://addyosmani.com/blog/write-learn/)
 * [2023-08-14, 08:56:10](https://news.ycombinator.com/item?id=37118877) - [Vector Database benchmark with 1536/768 dim data](https://github.com/zilliztech/VectorDBBench)
