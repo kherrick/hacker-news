@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
+* [2023-08-14, 02:32:40](https://news.ycombinator.com/item?id=37116831) - [The Dance of Śiva](https://www.asymptotejournal.com/blog/2023/08/09/the-dance-of-siva/)
 * [2023-08-14, 01:49:22](https://news.ycombinator.com/item?id=37116545) - [Access to knowledge is a human right – Alexandra Elbakyan](https://engineuring.wordpress.com/2023/08/14/access-to-knowledge-is-a-human-right/)
 * [2023-08-14, 01:47:50](https://news.ycombinator.com/item?id=37116539) - [Jitsi Meet Flutter SDK](https://jitsi.org/blog/introducing-the-jitsi-meet-flutter-sdk/)
 * [2023-08-14, 01:38:43](https://news.ycombinator.com/item?id=37116487) - [The world in which IPv6 was a good design](https://apenwarr.ca/log/20170810)
