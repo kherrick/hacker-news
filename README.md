@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-14, 04:29:46](https://news.ycombinator.com/item?id=37117469) - [Core War, a very old game about programming](https://en.wikipedia.org/wiki/Core_War)
 * [2023-08-14, 03:53:17](https://news.ycombinator.com/item?id=37117291) - [Things UNIX can do atomically (2010)](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
 * [2023-08-14, 03:29:53](https://news.ycombinator.com/item?id=37117171) - [Samo Burja: Great Founder Theory](https://www.samoburja.com/gft/)
 * [2023-08-14, 02:32:40](https://news.ycombinator.com/item?id=37116831) - [The Dance of Śiva](https://www.asymptotejournal.com/blog/2023/08/09/the-dance-of-siva/)
@@ -24,6 +23,7 @@
 * [2023-08-13, 18:22:43](https://news.ycombinator.com/item?id=37112615) - [Downloading a video should be “fair use” as recording a song from the radio](https://mastodon.social/@HalvarFlake/110883667162838296)
 * [2023-08-13, 17:00:56](https://news.ycombinator.com/item?id=37111755) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37111755)
 * [2023-08-13, 15:16:00](https://news.ycombinator.com/item?id=37110761) - [I’ll never be an astronaut](https://shaunoconnell.com/2023/08/10/ill-never-be-an-astronaut/)
+* [2023-08-13, 15:01:02](https://news.ycombinator.com/item?id=37110628) - [PDF Tool – Modify PDFs in the browser without uploading](https://www.pdftool.org)
 * [2023-08-13, 14:39:10](https://news.ycombinator.com/item?id=37110444) - [Popcount CPU instruction (2019)](https://vaibhavsagar.com/blog/2019/09/08/popcount/)
 * [2023-08-13, 13:34:17](https://news.ycombinator.com/item?id=37109903) - [The Deepest Submarine Rescue (2021)](https://www.newsweek.com/extraordinary-story-world-deepest-submarine-rescue-1598186)
 * [2023-08-13, 11:50:48](https://news.ycombinator.com/item?id=37109017) - [The Wizard of Oz approach to product building (2016)](https://www.ycombinator.com/blog/ask-yc-upfront-technical-investments)
