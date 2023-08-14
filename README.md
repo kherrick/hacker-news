@@ -6,7 +6,7 @@
 * [2023-08-14, 15:16:43](https://news.ycombinator.com/item?id=37122006) - [Elixir – Why the dot when calling anonymous functions?](https://dashbit.co/blog/why-the-dot)
 * [2023-08-14, 14:34:19](https://news.ycombinator.com/item?id=37121501) - [Non-Thoughts on the Open Source Initiative](https://yakshav.es/non-thoughts-on-the-osi/)
 * [2023-08-14, 14:30:40](https://news.ycombinator.com/item?id=37121458) - [Caught by MuseScore's Dark Patterns (2021)](https://gadanidis.ca/posts/2021-11-09-musescore.html)
-* [2023-08-14, 14:06:09](https://news.ycombinator.com/item?id=37121180) - [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
+* [2023-08-14, 14:06:09](https://news.ycombinator.com/item?id=37121180) - [Software Engineering at Google (2020)](https://abseil.io/resources/swe-book/html/toc.html)
 * [2023-08-14, 13:48:02](https://news.ycombinator.com/item?id=37120967) - [I built a garbage collector for a language that doesn’t need one](https://claytonwramsey.github.io/2023/08/14/dumpster.html)
 * [2023-08-14, 13:42:32](https://news.ycombinator.com/item?id=37120911) - [How to run a miserable code review](https://badsoftwareadvice.substack.com/p/how-to-run-a-miserable-code-review)
 * [2023-08-14, 13:36:30](https://news.ycombinator.com/item?id=37120874) - [Analysis of the data job market using HN job posts](https://emiruz.com/post/2023-08-12-data-jobs/)
