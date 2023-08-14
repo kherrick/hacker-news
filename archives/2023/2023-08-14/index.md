@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
+* [2023-08-14, 13:36:30](https://news.ycombinator.com/item?id=37120874) - [Analysis of the data job market using HN job posts](https://emiruz.com/post/2023-08-12-data-jobs/)
 * [2023-08-14, 13:23:01](https://news.ycombinator.com/item?id=37120758) - [Positive Association between Altitude and Suicide in 2584 U.S. Counties](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3114154/)
 * [2023-08-14, 13:19:15](https://news.ycombinator.com/item?id=37120715) - [Svix (YC W21) Is Hiring a Founding Account Executive (US Remote)](https://www.svix.com/careers/)
 * [2023-08-14, 13:17:19](https://news.ycombinator.com/item?id=37120697) - [Bomb threat causes mass evacuation at DEF CON hacking convention](https://www.theregister.com/2023/08/14/def_con_roundup/)
@@ -13,6 +14,7 @@
 * [2023-08-14, 12:20:26](https://news.ycombinator.com/item?id=37120188) - [Small Kansas newspaper says co-owner, 98, collapsed and died after police raid](https://www.cbsnews.com/news/kansas-newspaper-police-raid-marion-county-record-joan-meyer-dies/)
 * [2023-08-14, 12:08:46](https://news.ycombinator.com/item?id=37120093) - [Show HN: A website chatbot that also uses APIs](https://chatwith.tools)
 * [2023-08-14, 12:00:46](https://news.ycombinator.com/item?id=37120034) - [ChatGPT costs 700k/day to run; may go bankrupt in 2024](https://www.business-standard.com/companies/news/chatgpt-costs-700-000-daily-maker-may-go-bankrupt-in-2024-report-123081300627_1.html)
+* [2023-08-14, 11:49:59](https://news.ycombinator.com/item?id=37119942) - [Show HN: Little Rat – Chrome extension monitors network calls of all extensions](https://github.com/dnakov/little-rat)
 * [2023-08-14, 11:30:14](https://news.ycombinator.com/item?id=37119790) - [Argentina voted no on the Argentinian peso. USD will become its new currency](https://www.nytimes.com/2023/08/14/world/americas/argentina-javier-milei-president-primary.html)
 * [2023-08-14, 11:29:36](https://news.ycombinator.com/item?id=37119786) - [Show HN: Generate a free User Persona in 10 seconds](https://founderpal.ai/user-persona-generator)
 * [2023-08-14, 10:23:20](https://news.ycombinator.com/item?id=37119370) - [D J Bernstein – The IPv6 mess](http://cr.yp.to/djbdns/ipv6mess.html)
