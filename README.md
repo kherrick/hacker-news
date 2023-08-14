@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-14, 19:17:06](https://news.ycombinator.com/item?id=37125507) - [Loophole allows foreign money to flow into super PACs through shell companies](https://issueone.org/articles/new-report-highlights-shell-company-loophole-that-could-be-abused-by-foreigners-who-want-to-interfere-in-u-s-elections/)
+* [2023-08-14, 19:25:01](https://news.ycombinator.com/item?id=37125628) - [Bezos Earth Fund Grants $400M for Greening Underserved Urban U.S. Communities](https://www.bezosearthfund.org/news-and-insights/announcing-400-million-greening-americas-cities)
+* [2023-08-14, 19:19:57](https://news.ycombinator.com/item?id=37125561) - [Navigating the timezone nightmare in product development](https://www.getlago.com/blog/time-zone-nightmares)
 * [2023-08-14, 18:59:37](https://news.ycombinator.com/item?id=37125244) - [Videos from Python Web Conf 2023 Available on YouTube](https://sixfeetup.com/company/news/80-talks-and-tutorials-from-2023-python-web-conference-released)
 * [2023-08-14, 18:52:54](https://news.ycombinator.com/item?id=37125118) - [Show HN: LLMs can generate valid JSON 100% of the time](https://github.com/normal-computing/outlines)
 * [2023-08-14, 18:10:19](https://news.ycombinator.com/item?id=37124424) - [Trafilatura: Python tool to gather text on the Web](https://github.com/adbar/trafilatura)
@@ -26,7 +27,6 @@
 * [2023-08-14, 08:58:03](https://news.ycombinator.com/item?id=37118883) - [Writing about what you learn pushes you to understand topics better](https://addyosmani.com/blog/write-learn/)
 * [2023-08-14, 08:47:28](https://news.ycombinator.com/item?id=37118822) - [Detection of L-Ventricular Systolic Dysfunction from Electrocardiographic Images](https://doi.org/10.1161/CIRCULATIONAHA.122.062646)
 * [2023-08-14, 06:48:53](https://news.ycombinator.com/item?id=37118195) - [Migrating Netflix to GraphQL Safely](https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72?gi=6070ab8bb55c)
-* [2023-08-14, 06:25:04](https://news.ycombinator.com/item?id=37118081) - [Autospam and Naive Bayes](https://pixelfed.blog/p/2023/feature/autospam-and-naive-bayes-the-grandfather-of-spam-filters-still-making-waves)
 * [2023-08-14, 05:37:38](https://news.ycombinator.com/item?id=37117818) - [The anesthetic effect of air at atmospheric pressure](https://pubmed.ncbi.nlm.nih.gov/1130736/)
 * [2023-08-13, 17:11:37](https://news.ycombinator.com/item?id=37111867) - [Automatically classifying the content of sound files using ML](https://blog.gingerbeardman.com/2023/08/13/automatically-classifying-the-content-of-sound-files-using-ml/)
 * [2023-08-13, 06:59:15](https://news.ycombinator.com/item?id=37107346) - [Tetris Randomizers (2018)](https://simon.lc/the-history-of-tetris-randomizers)

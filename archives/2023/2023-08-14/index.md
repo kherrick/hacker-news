@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
+* [2023-08-14, 19:25:01](https://news.ycombinator.com/item?id=37125628) - [Bezos Earth Fund Grants $400M for Greening Underserved Urban U.S. Communities](https://www.bezosearthfund.org/news-and-insights/announcing-400-million-greening-americas-cities)
+* [2023-08-14, 19:19:57](https://news.ycombinator.com/item?id=37125561) - [Navigating the timezone nightmare in product development](https://www.getlago.com/blog/time-zone-nightmares)
 * [2023-08-14, 19:17:06](https://news.ycombinator.com/item?id=37125507) - [Loophole allows foreign money to flow into super PACs through shell companies](https://issueone.org/articles/new-report-highlights-shell-company-loophole-that-could-be-abused-by-foreigners-who-want-to-interfere-in-u-s-elections/)
 * [2023-08-14, 18:59:37](https://news.ycombinator.com/item?id=37125244) - [Videos from Python Web Conf 2023 Available on YouTube](https://sixfeetup.com/company/news/80-talks-and-tutorials-from-2023-python-web-conference-released)
 * [2023-08-14, 18:52:54](https://news.ycombinator.com/item?id=37125118) - [Show HN: LLMs can generate valid JSON 100% of the time](https://github.com/normal-computing/outlines)
