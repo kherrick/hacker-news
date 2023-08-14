@@ -65,6 +65,7 @@
 * [2023-08-13, 11:27:16](https://news.ycombinator.com/item?id=37108896) - [Record Labels File $412M Copyright Infringement Lawsuit Against Internet Archive](https://www.rollingstone.com/music/music-news/record-labels-sue-internet-archive-412-million-copyright-infringement-lawsuit-1234806058/)
 * [2023-08-13, 11:24:52](https://news.ycombinator.com/item?id=37108879) - [Cancel Zoning If we want to fix the housing-affordability crisis zoning must go](https://www.theatlantic.com/ideas/archive/2022/06/zoning-housing-affordability-nimby-parking-houston/661289/)
 * [2023-08-13, 11:23:12](https://news.ycombinator.com/item?id=37108864) - [We're All Wrong About AI](https://arnoldkling.substack.com/p/were-all-wrong-about-ai)
+* [2023-08-13, 11:17:45](https://news.ycombinator.com/item?id=37108833) - [Nobody ever paid me for code](https://www.bitecode.dev/p/nobody-ever-paid-me-for-code)
 * [2023-08-13, 11:15:54](https://news.ycombinator.com/item?id=37108824) - [What Should You Do with an Oil Fortune?](https://www.newyorker.com/magazine/2023/08/14/what-should-you-do-with-an-oil-fortune)
 * [2023-08-13, 11:08:19](https://news.ycombinator.com/item?id=37108782) - [People Drawn to Conspiracy Theories Share a Cluster of Psychological Features](https://www.scientificamerican.com/article/people-drawn-to-conspiracy-theories-share-a-cluster-of-psychological-features/)
 * [2023-08-13, 11:07:32](https://news.ycombinator.com/item?id=37108773) - [Institutionalized Belief in the Greater Fool](https://investing1012dot0.substack.com/p/institutionalized-belief-in-the-greater)
