@@ -6,6 +6,7 @@
 
 * [2023-08-13, 23:21:31](https://news.ycombinator.com/item?id=37115626) - [I created the nerdiest game ever](https://plbrault.com/blog-posts/i-created-the-nerdierst-game-ever-en/)
 * [2023-08-13, 23:06:40](https://news.ycombinator.com/item?id=37115540) - [Borgbase backups have been unavailable for 3 days – recovery is at 26%](https://status.borgbase.com/status/default)
+* [2023-08-13, 22:43:41](https://news.ycombinator.com/item?id=37115380) - [SBF was scheduled to speak to a Stanford class in a Tech ethics course](https://stanforddaily.com/2023/08/13/s-b-f-is-leaving-campus-but-stanfords-ties-to-his-case-are-deeper-than-previously-known/)
 * [2023-08-13, 22:34:13](https://news.ycombinator.com/item?id=37115298) - [The Namco ND-1: Taking 2D for Granted](https://nicole.express/2023/nobody-plays-those-old-games-anymore.html)
 * [2023-08-13, 22:32:38](https://news.ycombinator.com/item?id=37115286) - [Tech salaries largely unchanged as skills shortages continue](https://www.reseller.co.nz/article/708342/tech-salaries-largely-unchanged-as-skills-shortages-continue/)
 * [2023-08-13, 22:00:21](https://news.ycombinator.com/item?id=37114976) - [The AST Typing Problem](http://blog.ezyang.com/2013/05/the-ast-typing-problem/)
