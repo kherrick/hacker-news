@@ -129,6 +129,76 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="37125118">
+          <h3>
+            <a class="item" href="https://github.com/normal-computing/outlines"
+              >Show HN: LLMs can generate valid JSON 100% of the time</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-08-14 @ 18:52:54</span
+              ><span class="points-container"
+                >Points: <span class="points">28</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37125118"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Recently we came up with a fast way to generate text that
+                matches a regex (<a
+                  href="https://blog.normalcomputing.ai/posts/2023-07-27-regex-guided-generation/regex-guided-generation.html"
+                  >https://blog.normalcomputing.ai/posts/2023-07-27-regex-guide...</a
+                >). The basic idea is simple: regular expressions have an
+                equivalent Deterministic-Finite Automaton (DFA) representation.
+                We can transform this DFA into a generative model: in each state
+                we get a list of symbols which correspond to completions that
+                partially match the regular expression. We mask the other
+                symbols in the logits returned by a large language model, sample
+                a new symbol and move to the next state. The subtelty is that
+                language models work with tokens, not symbols, so we derive a
+                new FSM whose alphabet is the model's vocabulary. We can do this
+                in only one pass over the vocabulary.
+              </p>
+              <p>
+                Generating the token masks thus only requires a dictionary
+                lookup at each state. Our method blows other libraries like
+                Microsoft's guidance out of the water.
+              </p>
+              <p>
+                From there it was only a small leap to be able to generate text
+                that follows a JSON schema (<a href="https://json-schema.org/"
+                  >https://json-schema.org/</a
+                >), or is parseable into a Pydantic model (<a
+                  href="https://docs.pydantic.dev/latest/usage/models/"
+                  >https://docs.pydantic.dev/latest/usage/models/</a
+                >). The method works with union types, optional types, nested
+                schemas, arrays, everything. It is guaranteed that the output is
+                parseable.
+              </p>
+              <p>
+                I think it's cool, and I've spent a lot of time watching even
+                tiny models output valid JSON over the weekend. Hope you will
+                to.
+              </p>
+              <p>
+                I look forward to feedback, bug reports, feature requests and
+                discussions!
+              </p>
+              <p>
+                Edit: Link to our pre-print explaining the method and how this
+                can be extended to generate text that follows a Context-Free
+                Grammar
+                <a href="https://arxiv.org/abs/2307.09702"
+                  >https://arxiv.org/abs/2307.09702</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="37124373">
           <h3>
             <a
@@ -141,11 +211,11 @@
             <h4>
               <span>2023-08-14 @ 18:06:15</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37124373"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -162,30 +232,33 @@
             <h4>
               <span>2023-08-14 @ 17:52:00</span
               ><span class="points-container"
-                >Points: <span class="points">136</span></span
+                >Points: <span class="points">153</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37124187"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="37124015">
+        <section id="37124059">
           <h3>
-            <a class="item" href="https://makeamericawalkable.com/"
-              >Lack of Walkability in the US is destroying mental health</a
+            <a
+              class="item"
+              href="https://mathoverflow.net/questions/374089/does-there-exist-a-complete-implementation-of-the-risch-algorithm"
+              >Does there exist a complete implementation of the Risch
+              algorithm?</a
             >
           </h3>
           <section>
             <h4>
-              <span>2023-08-14 @ 17:40:45</span
+              <span>2023-08-14 @ 17:43:40</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37124015"
+                ><a href="https://news.ycombinator.com/item?id=37124059"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -200,11 +273,11 @@
             <h4>
               <span>2023-08-14 @ 17:38:42</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37123992"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -222,11 +295,11 @@
             <h4>
               <span>2023-08-14 @ 17:36:00</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37123961"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
             <div class="text">
@@ -248,11 +321,11 @@
             <h4>
               <span>2023-08-14 @ 17:26:15</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37123792"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -270,11 +343,11 @@
             <h4>
               <span>2023-08-14 @ 17:23:37</span
               ><span class="points-container"
-                >Points: <span class="points">105</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37123755"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -290,11 +363,11 @@
             <h4>
               <span>2023-08-14 @ 17:12:03</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37123614"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -312,11 +385,11 @@
             <h4>
               <span>2023-08-14 @ 17:09:15</span
               ><span class="points-container"
-                >Points: <span class="points">215</span></span
+                >Points: <span class="points">228</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37123572"
                   >Comments</a
-                ><span class="descendants">: 116</span></span
+                ><span class="descendants">: 121</span></span
               >
             </h4>
           </section>
@@ -346,7 +419,7 @@
             <h4>
               <span>2023-08-14 @ 16:44:05</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37123155"
                   >Comments</a
@@ -365,11 +438,11 @@
             <h4>
               <span>2023-08-14 @ 16:22:24</span
               ><span class="points-container"
-                >Points: <span class="points">200</span></span
+                >Points: <span class="points">207</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37122871"
                   >Comments</a
-                ><span class="descendants">: 148</span></span
+                ><span class="descendants">: 152</span></span
               >
             </h4>
           </section>
@@ -385,11 +458,11 @@
             <h4>
               <span>2023-08-14 @ 15:21:40</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37122064"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
             <div class="text">
@@ -469,11 +542,11 @@
             <h4>
               <span>2023-08-14 @ 15:16:43</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">136</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37122006"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -488,7 +561,7 @@
             <h4>
               <span>2023-08-14 @ 14:34:19</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37121501"
                   >Comments</a
@@ -509,11 +582,11 @@
             <h4>
               <span>2023-08-14 @ 14:06:09</span
               ><span class="points-container"
-                >Points: <span class="points">237</span></span
+                >Points: <span class="points">239</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37121180"
                   >Comments</a
-                ><span class="descendants">: 236</span></span
+                ><span class="descendants">: 238</span></span
               >
             </h4>
           </section>
@@ -531,11 +604,11 @@
             <h4>
               <span>2023-08-14 @ 13:48:02</span
               ><span class="points-container"
-                >Points: <span class="points">178</span></span
+                >Points: <span class="points">181</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37120967"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -552,11 +625,11 @@
             <h4>
               <span>2023-08-14 @ 12:41:33</span
               ><span class="points-container"
-                >Points: <span class="points">149</span></span
+                >Points: <span class="points">150</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37120372"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
           </section>
@@ -572,11 +645,11 @@
             <h4>
               <span>2023-08-14 @ 11:49:59</span
               ><span class="points-container"
-                >Points: <span class="points">228</span></span
+                >Points: <span class="points">230</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37119942"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
             <div class="text">
@@ -614,11 +687,11 @@
             <h4>
               <span>2023-08-14 @ 10:13:16</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37119311"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
             <div class="text">
@@ -702,27 +775,6 @@
             </div>
           </section>
         </section>
-        <section id="37118983">
-          <h3>
-            <a
-              class="item"
-              href="https://marcochiappetta.medium.com/yes-you-should-test-on-production-61f6dc61908b"
-              >Testing on production</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-08-14 @ 09:14:04</span
-              ><span class="points-container"
-                >Points: <span class="points">151</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37118983"
-                  >Comments</a
-                ><span class="descendants">: 88</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="37118883">
           <h3>
             <a class="item" href="https://addyosmani.com/blog/write-learn/"
@@ -734,7 +786,7 @@
             <h4>
               <span>2023-08-14 @ 08:58:03</span
               ><span class="points-container"
-                >Points: <span class="points">506</span></span
+                >Points: <span class="points">511</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37118883"
                   >Comments</a
@@ -756,7 +808,7 @@
             <h4>
               <span>2023-08-14 @ 08:47:28</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37118822"
                   >Comments</a
@@ -775,31 +827,32 @@
             <h4>
               <span>2023-08-14 @ 08:14:43</span
               ><span class="points-container"
-                >Points: <span class="points">180</span></span
+                >Points: <span class="points">181</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37118633"
                   >Comments</a
-                ><span class="descendants">: 202</span></span
+                ><span class="descendants">: 206</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="37118124">
+        <section id="37118195">
           <h3>
-            <a class="item" href="https://veilid.com/"
-              >Veilid is an open-source, P2P, mobile-ﬁrst, networked application
-              framework</a
+            <a
+              class="item"
+              href="https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72?gi=6070ab8bb55c"
+              >Migrating Netflix to GraphQL Safely</a
             >
           </h3>
           <section>
             <h4>
-              <span>2023-08-14 @ 06:32:47</span
+              <span>2023-08-14 @ 06:48:53</span
               ><span class="points-container"
-                >Points: <span class="points">151</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37118124"
+                ><a href="https://news.ycombinator.com/item?id=37118195"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -835,11 +888,11 @@
             <h4>
               <span>2023-08-14 @ 05:37:38</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37117818"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -856,7 +909,7 @@
             <h4>
               <span>2023-08-14 @ 04:02:58</span
               ><span class="points-container"
-                >Points: <span class="points">466</span></span
+                >Points: <span class="points">470</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37117338"
                   >Comments</a
@@ -898,7 +951,7 @@
             <h4>
               <span>2023-08-13 @ 06:59:15</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37107346"
                   >Comments</a
