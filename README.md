@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-14, 16:22:24](https://news.ycombinator.com/item?id=37122871) - [Backward Compatibility, Go 1.21, and Go 2](https://go.dev/blog/compat)
-* [2023-08-14, 15:59:53](https://news.ycombinator.com/item?id=37122585) - [Prop 13 Is Not Passed on to Renters](https://prop13.wtf/2023/05/06/prop13-is-not-passed-on-to-renters.html)
+* [2023-08-14, 16:08:58](https://news.ycombinator.com/item?id=37122703) - [Lahaina residents worry a rebuilt Maui could slip to the hands of rich outsiders](https://www.ctvnews.ca/climate-and-environment/lahaina-residents-worry-a-rebuilt-maui-town-could-slip-into-the-hands-of-affluent-outsiders-1.6517220)
+* [2023-08-14, 15:21:40](https://news.ycombinator.com/item?id=37122064) - [Show HN: Epsilla – Open-source vector database with low query latency](https://github.com/epsilla-cloud/vectordb)
 * [2023-08-14, 15:16:43](https://news.ycombinator.com/item?id=37122006) - [Elixir – Why the dot when calling anonymous functions?](https://dashbit.co/blog/why-the-dot)
-* [2023-08-14, 14:58:42](https://news.ycombinator.com/item?id=37121794) - [A Quickstart Guide to Privacy](https://www.hai.haus/blog/privacy-quickstart-2023.html)
 * [2023-08-14, 14:34:19](https://news.ycombinator.com/item?id=37121501) - [Non-Thoughts on the Open Source Initiative](https://yakshav.es/non-thoughts-on-the-osi/)
 * [2023-08-14, 14:30:40](https://news.ycombinator.com/item?id=37121458) - [Caught by MuseScore's Dark Patterns (2021)](https://gadanidis.ca/posts/2021-11-09-musescore.html)
-* [2023-08-14, 13:48:53](https://news.ycombinator.com/item?id=37120982) - [Inside The Decline of Stack Exchange](https://www.thediff.co/archive/inside-the-decline-of-stack-exchange/)
+* [2023-08-14, 14:06:09](https://news.ycombinator.com/item?id=37121180) - [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
 * [2023-08-14, 13:48:02](https://news.ycombinator.com/item?id=37120967) - [I built a garbage collector for a language that doesn’t need one](https://claytonwramsey.github.io/2023/08/14/dumpster.html)
 * [2023-08-14, 13:42:32](https://news.ycombinator.com/item?id=37120911) - [How to run a miserable code review](https://badsoftwareadvice.substack.com/p/how-to-run-a-miserable-code-review)
 * [2023-08-14, 13:36:30](https://news.ycombinator.com/item?id=37120874) - [Analysis of the data job market using HN job posts](https://emiruz.com/post/2023-08-12-data-jobs/)
@@ -14,7 +14,6 @@
 * [2023-08-14, 13:19:15](https://news.ycombinator.com/item?id=37120715) - [Svix (YC W21) Is Hiring a Founding Account Executive (US Remote)](https://www.svix.com/careers/)
 * [2023-08-14, 13:17:19](https://news.ycombinator.com/item?id=37120697) - [Bomb threat causes mass evacuation at DEF CON hacking convention](https://www.theregister.com/2023/08/14/def_con_roundup/)
 * [2023-08-14, 12:41:33](https://news.ycombinator.com/item?id=37120372) - [The 2002 Überlingen midair collision](https://admiralcloudberg.medium.com/tears-in-the-rain-the-2002-%C3%BCberlingen-midair-collision-591232d0c51e)
-* [2023-08-14, 12:38:47](https://news.ycombinator.com/item?id=37120350) - [Police raid of a Kansas newsroom raises alarms about violations of press freedom](https://www.npr.org/2023/08/14/1193676139/newspaper-marion-county-kansas-police-raid-first-amendment)
 * [2023-08-14, 12:08:46](https://news.ycombinator.com/item?id=37120093) - [Show HN: A website chatbot that also uses APIs](https://chatwith.tools)
 * [2023-08-14, 11:49:59](https://news.ycombinator.com/item?id=37119942) - [Show HN: Little Rat – Chrome extension monitors network calls of all extensions](https://github.com/dnakov/little-rat)
 * [2023-08-14, 10:13:16](https://news.ycombinator.com/item?id=37119311) - [Launch HN: Serra (YC S23) – Source-available, Python-based dbt alternative](https://news.ycombinator.com/item?id=37119311)
@@ -30,6 +29,7 @@
 * [2023-08-13, 11:17:45](https://news.ycombinator.com/item?id=37108833) - [Nobody ever paid me for code](https://www.bitecode.dev/p/nobody-ever-paid-me-for-code)
 * [2023-08-13, 06:59:15](https://news.ycombinator.com/item?id=37107346) - [Tetris Randomizers (2018)](https://simon.lc/the-history-of-tetris-randomizers)
 * [2023-08-12, 07:52:13](https://news.ycombinator.com/item?id=37098028) - [Tractatus Logico-Philosophicus](https://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus)
+* [2023-08-12, 04:15:31](https://news.ycombinator.com/item?id=37096991) - [Risky Giant Steps Can Solve Optimization Problems Faster](https://www.quantamagazine.org/risky-giant-steps-can-solve-optimization-problems-faster-20230811/)
 
 ## [Archives](archives/index.md)
 

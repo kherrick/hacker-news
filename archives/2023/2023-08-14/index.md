@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
 * [2023-08-14, 16:22:24](https://news.ycombinator.com/item?id=37122871) - [Backward Compatibility, Go 1.21, and Go 2](https://go.dev/blog/compat)
+* [2023-08-14, 16:08:58](https://news.ycombinator.com/item?id=37122703) - [Lahaina residents worry a rebuilt Maui could slip to the hands of rich outsiders](https://www.ctvnews.ca/climate-and-environment/lahaina-residents-worry-a-rebuilt-maui-town-could-slip-into-the-hands-of-affluent-outsiders-1.6517220)
 * [2023-08-14, 15:59:53](https://news.ycombinator.com/item?id=37122585) - [Prop 13 Is Not Passed on to Renters](https://prop13.wtf/2023/05/06/prop13-is-not-passed-on-to-renters.html)
+* [2023-08-14, 15:21:40](https://news.ycombinator.com/item?id=37122064) - [Show HN: Epsilla – Open-source vector database with low query latency](https://github.com/epsilla-cloud/vectordb)
 * [2023-08-14, 15:16:43](https://news.ycombinator.com/item?id=37122006) - [Elixir – Why the dot (when calling anonymous functions)?](https://dashbit.co/blog/why-the-dot)
 * [2023-08-14, 14:58:42](https://news.ycombinator.com/item?id=37121794) - [A Quickstart Guide to Privacy](https://www.hai.haus/blog/privacy-quickstart-2023.html)
 * [2023-08-14, 14:34:19](https://news.ycombinator.com/item?id=37121501) - [Non-Thoughts on the Open Source Initiative](https://yakshav.es/non-thoughts-on-the-osi/)
