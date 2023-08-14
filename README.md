@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-14, 07:18:44](https://news.ycombinator.com/item?id=37118344) - [Momentum, a DIY 12-voice virtual analogue polyphonic synthesizer based on TSynth](http://electrotechnique.cc/Momentum.html)
 * [2023-08-14, 06:32:47](https://news.ycombinator.com/item?id=37118124) - [Veilid is an open-source, P2P, mobile-ﬁrst, networked application framework](https://veilid.com/)
 * [2023-08-14, 06:25:04](https://news.ycombinator.com/item?id=37118081) - [Fediverse and Naive Bayes: The Grandfather of Spam Filters Still Making Waves](https://pixelfed.blog/p/2023/feature/autospam-and-naive-bayes-the-grandfather-of-spam-filters-still-making-waves)
+* [2023-08-14, 04:44:16](https://news.ycombinator.com/item?id=37117545) - [Far-right populist emerges as biggest vote in Argentina’s presidential primary](https://apnews.com/article/argentina-primaries-primary-paso-elections-a4fdbe888b7f561c3833ba4eca7e5d72)
 * [2023-08-14, 03:53:17](https://news.ycombinator.com/item?id=37117291) - [Things UNIX can do atomically (2010)](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
 * [2023-08-14, 03:29:53](https://news.ycombinator.com/item?id=37117171) - [Samo Burja: Great Founder Theory](https://www.samoburja.com/gft/)
 * [2023-08-14, 02:32:40](https://news.ycombinator.com/item?id=37116831) - [The Dance of Śiva](https://www.asymptotejournal.com/blog/2023/08/09/the-dance-of-siva/)
@@ -18,7 +20,6 @@
 * [2023-08-13, 20:13:23](https://news.ycombinator.com/item?id=37113917) - [ZFSBootMenu](https://docs.zfsbootmenu.org/en/v2.2.x/#)
 * [2023-08-13, 19:30:08](https://news.ycombinator.com/item?id=37113415) - [If you succeed you will fail](https://boyter.org/posts/if-you-succeed-you-will-fail/)
 * [2023-08-13, 19:23:29](https://news.ycombinator.com/item?id=37113336) - [Judge denies HP's plea to throw out all-in-one printer lockdown lawsuit](https://www.theregister.com/2023/08/11/judge_denies_hps_request_to/)
-* [2023-08-13, 19:21:27](https://news.ycombinator.com/item?id=37113314) - [Dolphin Emulator Progress Report: May, June, and July 2023](https://dolphin-emu.org/blog/2023/08/13/dolphin-progress-report-may-june-and-july-2023/)
 * [2023-08-13, 19:20:52](https://news.ycombinator.com/item?id=37113307) - [Toki Pona: an attempted universal language with only ~120 words](https://cohost.org/mcc/post/59045-mi-kama-sona-e-toki)
 * [2023-08-13, 18:35:15](https://news.ycombinator.com/item?id=37112741) - [Azure ChatGPT: Private and secure ChatGPT for internal enterprise use](https://github.com/microsoft/azurechatgpt)
 * [2023-08-13, 18:23:29](https://news.ycombinator.com/item?id=37112625) - [‘I've got nothing to hide’ and other misunderstandings of privacy (2007)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565)
@@ -28,7 +29,6 @@
 * [2023-08-13, 10:43:28](https://news.ycombinator.com/item?id=37108624) - [Writing a Pathtracer in Lua, Week 1](https://blog.42yeah.is/rendering/2023/08/12/luapt.html)
 * [2023-08-13, 09:22:06](https://news.ycombinator.com/item?id=37108153) - [Gameboy Leach](https://gieskes.nl/undefined/prepared-gameboy/?f=leach)
 * [2023-08-11, 10:03:56](https://news.ycombinator.com/item?id=37086932) - [Functional Programming in Modern C++: The Imperatives Must Go [video]](https://www.youtube.com/watch?v=HE71NqRpvTQ)
-* [2023-08-11, 06:28:07](https://news.ycombinator.com/item?id=37085718) - [What Makes Music Sound Good? (2010) [pdf]](https://dmitri.mycpanel.princeton.edu/files/pdfs/MUS105handouts.pdf)
 * [2023-08-11, 02:20:34](https://news.ycombinator.com/item?id=37084351) - [Legions of DEF CON hackers will attack generative AI models](https://venturebeat.com/ai/legions-of-defcon-hackers-will-attack-generative-ai-models/)
 
 ## [Archives](archives/index.md)

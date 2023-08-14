@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
+* [2023-08-14, 07:18:44](https://news.ycombinator.com/item?id=37118344) - [Momentum, a DIY 12-voice virtual analogue polyphonic synthesizer based on TSynth](http://electrotechnique.cc/Momentum.html)
 * [2023-08-14, 06:41:02](https://news.ycombinator.com/item?id=37118166) - [Ask HN: Getting Rid of the Founder?](https://news.ycombinator.com/item?id=37118166)
 * [2023-08-14, 06:32:47](https://news.ycombinator.com/item?id=37118124) - [Veilid is an open-source, P2P, mobile-ﬁrst, networked application framework](https://veilid.com/)
 * [2023-08-14, 06:25:04](https://news.ycombinator.com/item?id=37118081) - [Fediverse and Naive Bayes: The Grandfather of Spam Filters Still Making Waves](https://pixelfed.blog/p/2023/feature/autospam-and-naive-bayes-the-grandfather-of-spam-filters-still-making-waves)
+* [2023-08-14, 04:44:16](https://news.ycombinator.com/item?id=37117545) - [Far-right populist emerges as biggest vote in Argentina’s presidential primary](https://apnews.com/article/argentina-primaries-primary-paso-elections-a4fdbe888b7f561c3833ba4eca7e5d72)
 * [2023-08-14, 04:29:46](https://news.ycombinator.com/item?id=37117469) - [Core War, a very old game about programming](https://en.wikipedia.org/wiki/Core_War)
 * [2023-08-14, 03:53:17](https://news.ycombinator.com/item?id=37117291) - [Things UNIX can do atomically (2010)](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
 * [2023-08-14, 03:29:53](https://news.ycombinator.com/item?id=37117171) - [Samo Burja: Great Founder Theory](https://www.samoburja.com/gft/)
