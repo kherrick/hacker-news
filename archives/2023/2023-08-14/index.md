@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
+* [2023-08-14, 17:09:15](https://news.ycombinator.com/item?id=37123572) - [Following Pushback, Zoom Says It Won't Use Customer Data to Train AI Models](https://www.darkreading.com/analytics/following-pushback-zoom-says-it-won-t-use-customer-data-to-train-ai-models)
 * [2023-08-14, 17:01:29](https://news.ycombinator.com/item?id=37123455) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-08-14, 16:44:05](https://news.ycombinator.com/item?id=37123155) - [ParkyTowers: Thin Clients Laid Bare](https://www.parkytowers.me.uk/thin/)
 * [2023-08-14, 16:22:24](https://news.ycombinator.com/item?id=37122871) - [Backward Compatibility, Go 1.21, and Go 2](https://go.dev/blog/compat)

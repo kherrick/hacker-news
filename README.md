@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-14, 17:09:15](https://news.ycombinator.com/item?id=37123572) - [Following Pushback, Zoom Says It Won't Use Customer Data to Train AI Models](https://www.darkreading.com/analytics/following-pushback-zoom-says-it-won-t-use-customer-data-to-train-ai-models)
 * [2023-08-14, 17:01:29](https://news.ycombinator.com/item?id=37123455) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-08-14, 16:44:05](https://news.ycombinator.com/item?id=37123155) - [ParkyTowers: Thin Clients Laid Bare](https://www.parkytowers.me.uk/thin/)
 * [2023-08-14, 16:22:24](https://news.ycombinator.com/item?id=37122871) - [Backward Compatibility, Go 1.21, and Go 2](https://go.dev/blog/compat)
@@ -14,7 +15,6 @@
 * [2023-08-14, 13:23:01](https://news.ycombinator.com/item?id=37120758) - [Positive association between altitude and suicide in U.S. counties](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3114154/)
 * [2023-08-14, 13:17:19](https://news.ycombinator.com/item?id=37120697) - [Bomb threat causes mass evacuation at DEF CON hacking convention](https://www.theregister.com/2023/08/14/def_con_roundup/)
 * [2023-08-14, 12:41:33](https://news.ycombinator.com/item?id=37120372) - [The 2002 Überlingen midair collision](https://admiralcloudberg.medium.com/tears-in-the-rain-the-2002-%C3%BCberlingen-midair-collision-591232d0c51e)
-* [2023-08-14, 12:08:46](https://news.ycombinator.com/item?id=37120093) - [Show HN: A website chatbot that also uses APIs](https://chatwith.tools)
 * [2023-08-14, 11:49:59](https://news.ycombinator.com/item?id=37119942) - [Show HN: Little Rat – Chrome extension monitors network calls of all extensions](https://github.com/dnakov/little-rat)
 * [2023-08-14, 10:13:16](https://news.ycombinator.com/item?id=37119311) - [Launch HN: Serra (YC S23) – Source-available, Python-based dbt alternative](https://news.ycombinator.com/item?id=37119311)
 * [2023-08-14, 09:14:04](https://news.ycombinator.com/item?id=37118983) - [Testing on production](https://marcochiappetta.medium.com/yes-you-should-test-on-production-61f6dc61908b)
