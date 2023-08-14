@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-14, 01:47:50](https://news.ycombinator.com/item?id=37116539) - [Jitsi Meet Flutter SDK](https://jitsi.org/blog/introducing-the-jitsi-meet-flutter-sdk/)
-* [2023-08-14, 01:38:43](https://news.ycombinator.com/item?id=37116487) - [The world in which IPv6 was a good design](https://apenwarr.ca/log/20170810)
+* [2023-08-14, 01:38:43](https://news.ycombinator.com/item?id=37116487) - [The world in which IPv6 was a good design (2017)](https://apenwarr.ca/log/20170810)
 * [2023-08-14, 01:15:22](https://news.ycombinator.com/item?id=37116353) - [LangChain Agent Simulation – Multi-Player Dungeons and Dragons](https://python.langchain.com/docs/use_cases/agent_simulations/two_player_dnd)
 * [2023-08-13, 23:21:31](https://news.ycombinator.com/item?id=37115626) - [A video game where you are an operating system](https://plbrault.com/blog-posts/i-created-the-nerdierst-game-ever-en/)
 * [2023-08-13, 23:06:40](https://news.ycombinator.com/item?id=37115540) - [Borgbase backups have been unavailable for 3 days](https://status.borgbase.com/status/default)
