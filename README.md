@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-14, 18:01:53](https://news.ycombinator.com/item?id=37124329) - [More Americans Are Ending Up Homeless–At a Record Rate](https://www.wsj.com/articles/homelessness-increasing-united-states-housing-costs-e1990ac7)
 * [2023-08-14, 17:55:55](https://news.ycombinator.com/item?id=37124238) - [California PG&E Joins Proposal to Set Utility Rates Based on Income](https://www.sanjoseinside.com/news/pge-joins-proposal-to-set-utility-rates-based-on-income/#)
 * [2023-08-14, 17:52:00](https://news.ycombinator.com/item?id=37124187) - [Discord.io breached, 760k user accounts for sale on darknet](https://stackdiary.com/the-data-of-760000-discord-io-users-was-put-up-for-sale-on-the-darknet/)
-* [2023-08-14, 17:41:04](https://news.ycombinator.com/item?id=37124019) - [Why font-size must NEVER be in pixels](https://FEDmentor.dev/posts/font-size-px/)
 * [2023-08-14, 17:38:42](https://news.ycombinator.com/item?id=37123992) - [Fan-made port of Wipeout (PSX) for modern browsers](https://phoboslab.org/wipegame/)
 * [2023-08-14, 17:36:00](https://news.ycombinator.com/item?id=37123961) - [Show HN: Anonymize HN – a Chrome extension to anonymize Hacker News users](https://chrome.google.com/webstore/detail/anonymize-hn/ofclpgeijealmdamdfecbdccpjjoijnf)
 * [2023-08-14, 17:26:15](https://news.ycombinator.com/item?id=37123792) - [JWST Spots Giant Black Holes All over the Early Universe](https://www.quantamagazine.org/jwst-spots-giant-black-holes-all-over-the-early-universe-20230814/)
@@ -24,12 +24,12 @@
 * [2023-08-14, 09:14:04](https://news.ycombinator.com/item?id=37118983) - [Testing on production](https://marcochiappetta.medium.com/yes-you-should-test-on-production-61f6dc61908b)
 * [2023-08-14, 08:58:03](https://news.ycombinator.com/item?id=37118883) - [Writing about what you learn pushes you to understand topics better](https://addyosmani.com/blog/write-learn/)
 * [2023-08-14, 08:47:28](https://news.ycombinator.com/item?id=37118822) - [Detection of L-Ventricular Systolic Dysfunction from Electrocardiographic Images](https://doi.org/10.1161/CIRCULATIONAHA.122.062646)
+* [2023-08-14, 08:14:43](https://news.ycombinator.com/item?id=37118633) - [Python: Just Write SQL](https://joaodlf.com/python-just-write-sql)
 * [2023-08-14, 06:25:04](https://news.ycombinator.com/item?id=37118081) - [Autospam and Naive Bayes](https://pixelfed.blog/p/2023/feature/autospam-and-naive-bayes-the-grandfather-of-spam-filters-still-making-waves)
 * [2023-08-14, 05:37:38](https://news.ycombinator.com/item?id=37117818) - [The anesthetic effect of air at atmospheric pressure](https://pubmed.ncbi.nlm.nih.gov/1130736/)
 * [2023-08-14, 04:02:58](https://news.ycombinator.com/item?id=37117338) - [Bypassing YouTube video download throttling](https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling/)
 * [2023-08-13, 17:11:37](https://news.ycombinator.com/item?id=37111867) - [Automatically classifying the content of sound files using ML](https://blog.gingerbeardman.com/2023/08/13/automatically-classifying-the-content-of-sound-files-using-ml/)
 * [2023-08-13, 06:59:15](https://news.ycombinator.com/item?id=37107346) - [Tetris Randomizers (2018)](https://simon.lc/the-history-of-tetris-randomizers)
-* [2023-08-12, 07:52:13](https://news.ycombinator.com/item?id=37098028) - [Tractatus Logico-Philosophicus](https://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus)
 
 ## [Archives](archives/index.md)
 

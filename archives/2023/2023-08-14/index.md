@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
+* [2023-08-14, 18:01:53](https://news.ycombinator.com/item?id=37124329) - [More Americans Are Ending Up Homeless–At a Record Rate](https://www.wsj.com/articles/homelessness-increasing-united-states-housing-costs-e1990ac7)
 * [2023-08-14, 17:55:55](https://news.ycombinator.com/item?id=37124238) - [California PG&E Joins Proposal to Set Utility Rates Based on Income](https://www.sanjoseinside.com/news/pge-joins-proposal-to-set-utility-rates-based-on-income/#)
 * [2023-08-14, 17:52:00](https://news.ycombinator.com/item?id=37124187) - [Discord.io breached, 760k user accounts for sale on darknet](https://stackdiary.com/the-data-of-760000-discord-io-users-was-put-up-for-sale-on-the-darknet/)
 * [2023-08-14, 17:41:04](https://news.ycombinator.com/item?id=37124019) - [Why font-size must NEVER be in pixels](https://FEDmentor.dev/posts/font-size-px/)
