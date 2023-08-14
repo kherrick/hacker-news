@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-14, 08:58:03](https://news.ycombinator.com/item?id=37118883) - [Write about what you learn. It pushes you to understand topics better](https://addyosmani.com/blog/write-learn/)
 * [2023-08-14, 07:18:44](https://news.ycombinator.com/item?id=37118344) - [Momentum, a DIY 12-voice virtual analogue polyphonic synthesizer based on TSynth](http://electrotechnique.cc/Momentum.html)
 * [2023-08-14, 06:32:47](https://news.ycombinator.com/item?id=37118124) - [Veilid is an open-source, P2P, mobile-ﬁrst, networked application framework](https://veilid.com/)
 * [2023-08-14, 06:25:04](https://news.ycombinator.com/item?id=37118081) - [Fediverse and Naive Bayes: The Grandfather of Spam Filters Still Making Waves](https://pixelfed.blog/p/2023/feature/autospam-and-naive-bayes-the-grandfather-of-spam-filters-still-making-waves)
@@ -22,7 +23,6 @@
 * [2023-08-13, 18:35:15](https://news.ycombinator.com/item?id=37112741) - [Azure ChatGPT: Private and secure ChatGPT for internal enterprise use](https://github.com/microsoft/azurechatgpt)
 * [2023-08-13, 18:23:29](https://news.ycombinator.com/item?id=37112625) - [‘I've got nothing to hide’ and other misunderstandings of privacy (2007)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565)
 * [2023-08-13, 18:22:43](https://news.ycombinator.com/item?id=37112615) - [Downloading a video should be “fair use” as recording a song from the radio](https://mastodon.social/@HalvarFlake/110883667162838296)
-* [2023-08-13, 17:00:56](https://news.ycombinator.com/item?id=37111755) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37111755)
 * [2023-08-13, 15:03:02](https://news.ycombinator.com/item?id=37110648) - [Studying the Limits of Human Perfection, Through Darts](https://www.nytimes.com/2023/08/05/upshot/darts-sports-perfection.html)
 * [2023-08-13, 11:50:48](https://news.ycombinator.com/item?id=37109017) - [The Wizard of Oz Approach (2016)](https://www.ycombinator.com/blog/ask-yc-upfront-technical-investments)
 * [2023-08-13, 10:43:28](https://news.ycombinator.com/item?id=37108624) - [Writing a Pathtracer in Lua, Week 1](https://blog.42yeah.is/rendering/2023/08/12/luapt.html)

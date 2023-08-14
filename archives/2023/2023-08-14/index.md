@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
+* [2023-08-14, 08:58:03](https://news.ycombinator.com/item?id=37118883) - [Write about what you learn. It pushes you to understand topics better](https://addyosmani.com/blog/write-learn/)
 * [2023-08-14, 07:18:44](https://news.ycombinator.com/item?id=37118344) - [Momentum, a DIY 12-voice virtual analogue polyphonic synthesizer based on TSynth](http://electrotechnique.cc/Momentum.html)
 * [2023-08-14, 06:41:02](https://news.ycombinator.com/item?id=37118166) - [Ask HN: Getting Rid of the Founder?](https://news.ycombinator.com/item?id=37118166)
 * [2023-08-14, 06:32:47](https://news.ycombinator.com/item?id=37118124) - [Veilid is an open-source, P2P, mobile-ﬁrst, networked application framework](https://veilid.com/)
