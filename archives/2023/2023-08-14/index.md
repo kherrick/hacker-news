@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
+* [2023-08-14, 17:01:29](https://news.ycombinator.com/item?id=37123455) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2023-08-14, 16:44:05](https://news.ycombinator.com/item?id=37123155) - [ParkyTowers: Thin Clients Laid Bare](https://www.parkytowers.me.uk/thin/)
 * [2023-08-14, 16:22:24](https://news.ycombinator.com/item?id=37122871) - [Backward Compatibility, Go 1.21, and Go 2](https://go.dev/blog/compat)
 * [2023-08-14, 16:08:58](https://news.ycombinator.com/item?id=37122703) - [Lahaina residents worry a rebuilt Maui could slip to the hands of rich outsiders](https://www.ctvnews.ca/climate-and-environment/lahaina-residents-worry-a-rebuilt-maui-town-could-slip-into-the-hands-of-affluent-outsiders-1.6517220)
 * [2023-08-14, 15:59:53](https://news.ycombinator.com/item?id=37122585) - [Prop 13 Is Not Passed on to Renters](https://prop13.wtf/2023/05/06/prop13-is-not-passed-on-to-renters.html)
@@ -34,6 +36,7 @@
 * [2023-08-14, 09:14:04](https://news.ycombinator.com/item?id=37118983) - [“Yes, you should test on production” – Why developer experience matters](https://marcochiappetta.medium.com/yes-you-should-test-on-production-61f6dc61908b)
 * [2023-08-14, 08:58:03](https://news.ycombinator.com/item?id=37118883) - [Write about what you learn. It pushes you to understand topics better](https://addyosmani.com/blog/write-learn/)
 * [2023-08-14, 08:56:10](https://news.ycombinator.com/item?id=37118877) - [Vector Database benchmark with 1536/768 dim data](https://github.com/zilliztech/VectorDBBench)
+* [2023-08-14, 08:47:28](https://news.ycombinator.com/item?id=37118822) - [Detection of L-Ventricular Systolic Dysfunction from Electrocardiographic Images](https://doi.org/10.1161/CIRCULATIONAHA.122.062646)
 * [2023-08-14, 08:14:43](https://news.ycombinator.com/item?id=37118633) - [Python: Just Write SQL](https://joaodlf.com/python-just-write-sql)
 * [2023-08-14, 07:42:08](https://news.ycombinator.com/item?id=37118452) - [Matters Computational – Ideas, Algorithms, Source Code [pdf]](https://www.jjj.de/fxt/fxtbook.pdf)
 * [2023-08-14, 07:18:44](https://news.ycombinator.com/item?id=37118344) - [Momentum, a DIY 12-voice virtual analogue polyphonic synthesizer based on TSynth](http://electrotechnique.cc/Momentum.html)
