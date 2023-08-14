@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-14, 12:20:26](https://news.ycombinator.com/item?id=37120188) - [Small Kansas newspaper says co-owner, 98, collapsed and died after police raid](https://www.cbsnews.com/news/kansas-newspaper-police-raid-marion-county-record-joan-meyer-dies/)
-* [2023-08-14, 12:00:46](https://news.ycombinator.com/item?id=37120034) - [ChatGPT costs 700k/day to run; may go bankrupt in 2024](https://www.business-standard.com/companies/news/chatgpt-costs-700-000-daily-maker-may-go-bankrupt-in-2024-report-123081300627_1.html)
 * [2023-08-14, 11:29:36](https://news.ycombinator.com/item?id=37119786) - [Show HN: Generate a free User Persona in 10 seconds](https://founderpal.ai/user-persona-generator)
 * [2023-08-14, 10:13:16](https://news.ycombinator.com/item?id=37119311) - [Launch HN: Serra (YC S23) – Open-source, Python-based dbt alternative](https://news.ycombinator.com/item?id=37119311)
 * [2023-08-14, 09:14:04](https://news.ycombinator.com/item?id=37118983) - [Testing on production](https://marcochiappetta.medium.com/yes-you-should-test-on-production-61f6dc61908b)
@@ -20,6 +19,7 @@
 * [2023-08-14, 01:15:22](https://news.ycombinator.com/item?id=37116353) - [LangChain Agent Simulation – Multi-Player Dungeons and Dragons](https://python.langchain.com/docs/use_cases/agent_simulations/two_player_dnd)
 * [2023-08-13, 23:21:31](https://news.ycombinator.com/item?id=37115626) - [A video game where you are an operating system](https://plbrault.com/blog-posts/i-created-the-nerdierst-game-ever-en/)
 * [2023-08-13, 22:00:21](https://news.ycombinator.com/item?id=37114976) - [The AST Typing Problem](http://blog.ezyang.com/2013/05/the-ast-typing-problem/)
+* [2023-08-13, 21:03:53](https://news.ycombinator.com/item?id=37114457) - [Thoughts on Elixir, Phoenix and LiveView after 18 months of commercial use](https://korban.net/posts/2023-08-11-thoughts-on-elixir-phoenix-liveview/)
 * [2023-08-13, 20:32:11](https://news.ycombinator.com/item?id=37114141) - [Show HN: I wrote a RDBMS (SQLite clone) from scratch in pure Python](https://github.com/spandanb/learndb-py)
 * [2023-08-13, 19:20:52](https://news.ycombinator.com/item?id=37113307) - [Toki Pona: an attempted universal language with only ~120 words](https://cohost.org/mcc/post/59045-mi-kama-sona-e-toki)
 * [2023-08-13, 18:35:15](https://news.ycombinator.com/item?id=37112741) - [Azure ChatGPT: Private and secure ChatGPT for internal enterprise use](https://github.com/microsoft/azurechatgpt)
