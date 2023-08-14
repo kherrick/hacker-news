@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-14, 12:41:33",
+      "https://news.ycombinator.com/item?id=37120372"
+    ],
+    [
+      "Tears in the Rain: The 2002 Überlingen midair collision",
+      "https://admiralcloudberg.medium.com/tears-in-the-rain-the-2002-%C3%BCberlingen-midair-collision-591232d0c51e"
+    ]
+  ],
+  [
+    [
+      "2023-08-14, 12:38:47",
+      "https://news.ycombinator.com/item?id=37120350"
+    ],
+    [
+      "Police raid of a Kansas newsroom raises alarms about violations of press freedom",
+      "https://www.npr.org/2023/08/14/1193676139/newspaper-marion-county-kansas-police-raid-first-amendment"
+    ]
+  ],
+  [
+    [
       "2023-08-14, 12:20:26",
       "https://news.ycombinator.com/item?id=37120188"
     ],
@@ -191,26 +211,6 @@
   ],
   [
     [
-      "2023-08-13, 21:03:53",
-      "https://news.ycombinator.com/item?id=37114457"
-    ],
-    [
-      "Thoughts on Elixir, Phoenix and LiveView after 18 months of commercial use",
-      "https://korban.net/posts/2023-08-11-thoughts-on-elixir-phoenix-liveview/"
-    ]
-  ],
-  [
-    [
-      "2023-08-13, 20:32:11",
-      "https://news.ycombinator.com/item?id=37114141"
-    ],
-    [
-      "Show HN: I wrote a RDBMS (SQLite clone) from scratch in pure Python",
-      "https://github.com/spandanb/learndb-py"
-    ]
-  ],
-  [
-    [
       "2023-08-13, 19:20:52",
       "https://news.ycombinator.com/item?id=37113307"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2023-08-13, 11:50:48",
-      "https://news.ycombinator.com/item?id=37109017"
-    ],
-    [
-      "The Wizard of Oz Approach (2016)",
-      "https://www.ycombinator.com/blog/ask-yc-upfront-technical-investments"
-    ]
-  ],
-  [
-    [
       "2023-08-13, 11:17:45",
       "https://news.ycombinator.com/item?id=37108833"
     ],
@@ -287,6 +277,16 @@
     [
       "Gameboy Leach",
       "https://gieskes.nl/undefined/prepared-gameboy/?f=leach"
+    ]
+  ],
+  [
+    [
+      "2023-08-13, 05:04:31",
+      "https://news.ycombinator.com/item?id=37106858"
+    ],
+    [
+      "GraphQL Queries and Mutations",
+      "https://graphql.org/learn/queries/"
     ]
   ],
   [
