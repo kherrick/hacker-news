@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
+* [2023-08-14, 06:25:04](https://news.ycombinator.com/item?id=37118081) - [Fediverse and Naive Bayes: The Grandfather of Spam Filters Still Making Waves](https://pixelfed.blog/p/2023/feature/autospam-and-naive-bayes-the-grandfather-of-spam-filters-still-making-waves)
 * [2023-08-14, 04:29:46](https://news.ycombinator.com/item?id=37117469) - [Core War, a very old game about programming](https://en.wikipedia.org/wiki/Core_War)
 * [2023-08-14, 03:53:17](https://news.ycombinator.com/item?id=37117291) - [Things UNIX can do atomically (2010)](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
 * [2023-08-14, 03:29:53](https://news.ycombinator.com/item?id=37117171) - [Samo Burja: Great Founder Theory](https://www.samoburja.com/gft/)
