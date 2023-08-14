@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
+* [2023-08-14, 20:40:04](https://news.ycombinator.com/item?id=37126530) - [Java 21: First Release Candidate](https://mail.openjdk.org/pipermail/jdk-dev/2023-August/008059.html)
 * [2023-08-14, 20:10:51](https://news.ycombinator.com/item?id=37126182) - [Burnout because of ChatGPT?](https://news.ycombinator.com/item?id=37126182)
 * [2023-08-14, 20:03:43](https://news.ycombinator.com/item?id=37126100) - [Tell HN: Google Maps is again requiring Wi-Fi scanning to enable navigation](https://news.ycombinator.com/item?id=37126100)
 * [2023-08-14, 19:25:01](https://news.ycombinator.com/item?id=37125628) - [Bezos Earth Fund Grants $400M for Greening Underserved Urban U.S. Communities](https://www.bezosearthfund.org/news-and-insights/announcing-400-million-greening-americas-cities)
@@ -37,6 +38,7 @@
 * [2023-08-14, 14:58:42](https://news.ycombinator.com/item?id=37121794) - [A Quickstart Guide to Privacy](https://www.hai.haus/blog/privacy-quickstart-2023.html)
 * [2023-08-14, 14:34:19](https://news.ycombinator.com/item?id=37121501) - [Non-Thoughts on the Open Source Initiative](https://yakshav.es/non-thoughts-on-the-osi/)
 * [2023-08-14, 14:30:40](https://news.ycombinator.com/item?id=37121458) - [Caught by MuseScore's Dark Patterns](https://gadanidis.ca/posts/2021-11-09-musescore.html)
+* [2023-08-14, 14:10:30](https://news.ycombinator.com/item?id=37121221) - [Rust Abstractions Posted for Sockets and Other Fundamental Network Bits](https://www.phoronix.com/news/Linux-Rust-Sockets-Patches)
 * [2023-08-14, 14:06:09](https://news.ycombinator.com/item?id=37121180) - [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
 * [2023-08-14, 13:48:53](https://news.ycombinator.com/item?id=37120982) - [Inside The Decline of Stack Exchange](https://www.thediff.co/archive/inside-the-decline-of-stack-exchange/)
 * [2023-08-14, 13:48:02](https://news.ycombinator.com/item?id=37120967) - [I built a garbage collector for a language that doesn't need one](https://claytonwramsey.github.io/2023/08/14/dumpster.html)
