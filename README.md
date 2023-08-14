@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-14, 17:36:00](https://news.ycombinator.com/item?id=37123961) - [Show HN: Anonymize HN – a Chrome extension to anonymize Hacker News users](https://chrome.google.com/webstore/detail/anonymize-hn/ofclpgeijealmdamdfecbdccpjjoijnf)
+* [2023-08-14, 17:23:37](https://news.ycombinator.com/item?id=37123755) - [Judge rules in favor of Montana youths in landmark climate decision](https://www.washingtonpost.com/climate-environment/2023/08/14/youths-win-montana-climate-trial/)
 * [2023-08-14, 17:12:03](https://news.ycombinator.com/item?id=37123614) - [Show HN: CoolReadME, a way to display GitHub profile readmes with custom CSS](https://cool-readme.vercel.app/)
 * [2023-08-14, 17:09:15](https://news.ycombinator.com/item?id=37123572) - [Following Pushback, Zoom Says It Won't Use Customer Data to Train AI Models](https://www.darkreading.com/analytics/following-pushback-zoom-says-it-won-t-use-customer-data-to-train-ai-models)
 * [2023-08-14, 17:01:29](https://news.ycombinator.com/item?id=37123455) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
@@ -12,7 +14,6 @@
 * [2023-08-14, 14:06:09](https://news.ycombinator.com/item?id=37121180) - [Software Engineering at Google (2020)](https://abseil.io/resources/swe-book/html/toc.html)
 * [2023-08-14, 13:48:02](https://news.ycombinator.com/item?id=37120967) - [I built a garbage collector for a language that doesn’t need one](https://claytonwramsey.github.io/2023/08/14/dumpster.html)
 * [2023-08-14, 13:36:30](https://news.ycombinator.com/item?id=37120874) - [Analysis of the data job market using HN job posts](https://emiruz.com/post/2023-08-12-data-jobs/)
-* [2023-08-14, 13:23:01](https://news.ycombinator.com/item?id=37120758) - [Positive association between altitude and suicide in U.S. counties](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3114154/)
 * [2023-08-14, 13:17:19](https://news.ycombinator.com/item?id=37120697) - [Bomb threat causes mass evacuation at DEF CON hacking convention](https://www.theregister.com/2023/08/14/def_con_roundup/)
 * [2023-08-14, 12:41:33](https://news.ycombinator.com/item?id=37120372) - [The 2002 Überlingen midair collision](https://admiralcloudberg.medium.com/tears-in-the-rain-the-2002-%C3%BCberlingen-midair-collision-591232d0c51e)
 * [2023-08-14, 11:49:59](https://news.ycombinator.com/item?id=37119942) - [Show HN: Little Rat – Chrome extension monitors network calls of all extensions](https://github.com/dnakov/little-rat)
@@ -25,7 +26,6 @@
 * [2023-08-14, 06:31:13](https://news.ycombinator.com/item?id=37118114) - [Is Venus in some way tidally locked to Earth? (2020)](https://astronomy.stackexchange.com/questions/36488/is-venus-in-some-way-tidally-locked-to-earth)
 * [2023-08-14, 06:25:04](https://news.ycombinator.com/item?id=37118081) - [Autospam and Naive Bayes](https://pixelfed.blog/p/2023/feature/autospam-and-naive-bayes-the-grandfather-of-spam-filters-still-making-waves)
 * [2023-08-14, 04:02:58](https://news.ycombinator.com/item?id=37117338) - [Bypassing YouTube video download throttling](https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling/)
-* [2023-08-14, 03:53:17](https://news.ycombinator.com/item?id=37117291) - [Things Unix can do atomically (2010)](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
 * [2023-08-13, 17:11:37](https://news.ycombinator.com/item?id=37111867) - [Automatically classifying the content of sound files using ML](https://blog.gingerbeardman.com/2023/08/13/automatically-classifying-the-content-of-sound-files-using-ml/)
 * [2023-08-13, 11:17:45](https://news.ycombinator.com/item?id=37108833) - [Nobody ever paid me for code](https://www.bitecode.dev/p/nobody-ever-paid-me-for-code)
 * [2023-08-13, 06:59:15](https://news.ycombinator.com/item?id=37107346) - [Tetris Randomizers (2018)](https://simon.lc/the-history-of-tetris-randomizers)

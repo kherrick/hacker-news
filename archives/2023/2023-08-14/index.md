@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
+* [2023-08-14, 17:36:00](https://news.ycombinator.com/item?id=37123961) - [Show HN: Anonymize HN – a Chrome extension to anonymize Hacker News users](https://chrome.google.com/webstore/detail/anonymize-hn/ofclpgeijealmdamdfecbdccpjjoijnf)
+* [2023-08-14, 17:23:37](https://news.ycombinator.com/item?id=37123755) - [Judge rules in favor of Montana youths in landmark climate decision](https://www.washingtonpost.com/climate-environment/2023/08/14/youths-win-montana-climate-trial/)
 * [2023-08-14, 17:12:03](https://news.ycombinator.com/item?id=37123614) - [Show HN: CoolReadME, a way to display GitHub profile readmes with custom CSS](https://cool-readme.vercel.app/)
 * [2023-08-14, 17:09:15](https://news.ycombinator.com/item?id=37123572) - [Following Pushback, Zoom Says It Won't Use Customer Data to Train AI Models](https://www.darkreading.com/analytics/following-pushback-zoom-says-it-won-t-use-customer-data-to-train-ai-models)
 * [2023-08-14, 17:01:29](https://news.ycombinator.com/item?id=37123455) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
