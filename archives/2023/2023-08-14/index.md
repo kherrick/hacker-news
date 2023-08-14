@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
+* [2023-08-14, 11:30:14](https://news.ycombinator.com/item?id=37119790) - [Argentina voted no on the Argentinian peso. USD will become its new currency](https://www.nytimes.com/2023/08/14/world/americas/argentina-javier-milei-president-primary.html)
 * [2023-08-14, 10:23:20](https://news.ycombinator.com/item?id=37119370) - [D J Bernstein – The IPv6 mess](http://cr.yp.to/djbdns/ipv6mess.html)
 * [2023-08-14, 10:13:16](https://news.ycombinator.com/item?id=37119311) - [Launch HN: Serra (YC S23) – Open-source, Python-based dbt alternative](https://news.ycombinator.com/item?id=37119311)
 * [2023-08-14, 09:14:04](https://news.ycombinator.com/item?id=37118983) - [“Yes, you should test on production” – Why developer experience matters](https://marcochiappetta.medium.com/yes-you-should-test-on-production-61f6dc61908b)

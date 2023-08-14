@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-14, 11:30:14](https://news.ycombinator.com/item?id=37119790) - [Argentina voted no on the Argentinian peso. USD will become its new currency](https://www.nytimes.com/2023/08/14/world/americas/argentina-javier-milei-president-primary.html)
 * [2023-08-14, 10:23:20](https://news.ycombinator.com/item?id=37119370) - [D J Bernstein – The IPv6 mess](http://cr.yp.to/djbdns/ipv6mess.html)
 * [2023-08-14, 10:13:16](https://news.ycombinator.com/item?id=37119311) - [Launch HN: Serra (YC S23) – Open-source, Python-based dbt alternative](https://news.ycombinator.com/item?id=37119311)
 * [2023-08-14, 09:14:04](https://news.ycombinator.com/item?id=37118983) - [“Yes, you should test on production” – Why developer experience matters](https://marcochiappetta.medium.com/yes-you-should-test-on-production-61f6dc61908b)
@@ -29,7 +30,6 @@
 * [2023-08-13, 10:43:28](https://news.ycombinator.com/item?id=37108624) - [Writing a Pathtracer in Lua, Week 1](https://blog.42yeah.is/rendering/2023/08/12/luapt.html)
 * [2023-08-13, 09:22:06](https://news.ycombinator.com/item?id=37108153) - [Gameboy Leach](https://gieskes.nl/undefined/prepared-gameboy/?f=leach)
 * [2023-08-12, 04:15:31](https://news.ycombinator.com/item?id=37096991) - [Risky Giant Steps Can Solve Optimization Problems Faster](https://www.quantamagazine.org/risky-giant-steps-can-solve-optimization-problems-faster-20230811/)
-* [2023-08-11, 10:03:56](https://news.ycombinator.com/item?id=37086932) - [Functional Programming in Modern C++: The Imperatives Must Go [video]](https://www.youtube.com/watch?v=HE71NqRpvTQ)
 
 ## [Archives](archives/index.md)
 
