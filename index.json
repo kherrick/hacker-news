@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-14, 04:29:46",
+      "https://news.ycombinator.com/item?id=37117469"
+    ],
+    [
+      "Core War, a very old game about programming",
+      "https://en.wikipedia.org/wiki/Core_War"
+    ]
+  ],
+  [
+    [
       "2023-08-14, 03:53:17",
       "https://news.ycombinator.com/item?id=37117291"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2023-08-13, 14:39:10",
-      "https://news.ycombinator.com/item?id=37110444"
-    ],
-    [
-      "Popcount CPU instruction (2019)",
-      "https://vaibhavsagar.com/blog/2019/09/08/popcount/"
-    ]
-  ],
-  [
-    [
       "2023-08-13, 13:34:17",
       "https://news.ycombinator.com/item?id=37109903"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2023-08-13, 11:50:48",
-      "https://news.ycombinator.com/item?id=37109017"
+      "2023-08-13, 10:43:28",
+      "https://news.ycombinator.com/item?id=37108624"
     ],
     [
-      "The Wizard of Oz approach to product building (2016)",
-      "https://www.ycombinator.com/blog/ask-yc-upfront-technical-investments"
+      "Writing a Pathtracer in Lua, Week 1",
+      "https://blog.42yeah.is/rendering/2023/08/12/luapt.html"
     ]
   ],
   [
