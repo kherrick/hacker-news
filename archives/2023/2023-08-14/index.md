@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
 * [2023-08-14, 22:13:42](https://news.ycombinator.com/item?id=37127450) - [The Cuts at WVU](https://community.wvu.edu/~jokatz/Closure/)
+* [2023-08-14, 21:47:52](https://news.ycombinator.com/item?id=37127218) - [Why Developers Hate Agile](https://github.com/rayfrankenstein/AITOW/blob/master/README.md)
 * [2023-08-14, 21:41:37](https://news.ycombinator.com/item?id=37127174) - [Michael Burry shorts Major index in sizable bets](https://www.thestreet.com/investing/the-big-short-michael-burry-makes-big-bet-against-the-market)
 * [2023-08-14, 21:24:15](https://news.ycombinator.com/item?id=37127003) - [AI Detection Tools Falsely Accuse International Students of Cheating](https://themarkup.org/machine-learning/2023/08/14/ai-detection-tools-falsely-accuse-international-students-of-cheating)
 * [2023-08-14, 21:12:50](https://news.ycombinator.com/item?id=37126856) - [Grindr employees have 2 weeks to move across the country, RTO or lose their jobs](https://www.businessinsider.com/grindr-united-unionized-employees-work-from-home-return-in-person-2023-8)
