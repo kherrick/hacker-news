@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-08-14, 19:13:12",
+      "https://news.ycombinator.com/item?id=37125458"
+    ],
+    [
+      "Study shows dementia more common in older adults with vision issues",
+      "https://www.michiganmedicine.org/health-lab/study-shows-dementia-more-common-older-adults-vision-issues"
+    ]
+  ],
+  [
+    [
       "2023-08-14, 18:59:37",
       "https://news.ycombinator.com/item?id=37125244"
     ],
@@ -241,32 +251,12 @@
   ],
   [
     [
-      "2023-08-14, 08:47:28",
-      "https://news.ycombinator.com/item?id=37118822"
-    ],
-    [
-      "Detection of L-Ventricular Systolic Dysfunction from Electrocardiographic Images",
-      "https://doi.org/10.1161/CIRCULATIONAHA.122.062646"
-    ]
-  ],
-  [
-    [
       "2023-08-14, 06:48:53",
       "https://news.ycombinator.com/item?id=37118195"
     ],
     [
       "Migrating Netflix to GraphQL Safely",
       "https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72?gi=6070ab8bb55c"
-    ]
-  ],
-  [
-    [
-      "2023-08-14, 06:25:04",
-      "https://news.ycombinator.com/item?id=37118081"
-    ],
-    [
-      "Autospam and Naive Bayes",
-      "https://pixelfed.blog/p/2023/feature/autospam-and-naive-bayes-the-grandfather-of-spam-filters-still-making-waves"
     ]
   ],
   [
@@ -281,12 +271,12 @@
   ],
   [
     [
-      "2023-08-13, 17:11:37",
-      "https://news.ycombinator.com/item?id=37111867"
+      "2023-08-13, 23:20:05",
+      "https://news.ycombinator.com/item?id=37115614"
     ],
     [
-      "Automatically classifying the content of sound files using ML",
-      "https://blog.gingerbeardman.com/2023/08/13/automatically-classifying-the-content-of-sound-files-using-ml/"
+      "Emulating x86 on X64 on Aarch64",
+      "https://neugierig.org/software/blog/2023/08/x86-x64-aarch64.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Tetris Randomizers (2018)",
       "https://simon.lc/the-history-of-tetris-randomizers"
+    ]
+  ],
+  [
+    [
+      "2023-08-10, 21:58:31",
+      "https://news.ycombinator.com/item?id=37082304"
+    ],
+    [
+      "Rewriting wipEout",
+      "https://phoboslab.org/log/2023/08/rewriting-wipeout"
     ]
   ]
 ]
