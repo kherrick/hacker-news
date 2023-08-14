@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-14, 04:29:46](https://news.ycombinator.com/item?id=37117469) - [Core War, a very old game about programming](https://en.wikipedia.org/wiki/Core_War)
 * [2023-08-14, 03:53:17](https://news.ycombinator.com/item?id=37117291) - [Things UNIX can do atomically (2010)](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
 * [2023-08-14, 03:29:53](https://news.ycombinator.com/item?id=37117171) - [Samo Burja: Great Founder Theory](https://www.samoburja.com/gft/)
 * [2023-08-14, 02:32:40](https://news.ycombinator.com/item?id=37116831) - [The Dance of Śiva](https://www.asymptotejournal.com/blog/2023/08/09/the-dance-of-siva/)
@@ -24,9 +25,8 @@
 * [2023-08-13, 17:00:56](https://news.ycombinator.com/item?id=37111755) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37111755)
 * [2023-08-13, 15:16:00](https://news.ycombinator.com/item?id=37110761) - [I’ll never be an astronaut](https://shaunoconnell.com/2023/08/10/ill-never-be-an-astronaut/)
 * [2023-08-13, 15:01:02](https://news.ycombinator.com/item?id=37110628) - [PDF Tool – Modify PDFs in the browser without uploading](https://www.pdftool.org)
-* [2023-08-13, 14:39:10](https://news.ycombinator.com/item?id=37110444) - [Popcount CPU instruction (2019)](https://vaibhavsagar.com/blog/2019/09/08/popcount/)
 * [2023-08-13, 13:34:17](https://news.ycombinator.com/item?id=37109903) - [The Deepest Submarine Rescue (2021)](https://www.newsweek.com/extraordinary-story-world-deepest-submarine-rescue-1598186)
-* [2023-08-13, 11:50:48](https://news.ycombinator.com/item?id=37109017) - [The Wizard of Oz approach to product building (2016)](https://www.ycombinator.com/blog/ask-yc-upfront-technical-investments)
+* [2023-08-13, 10:43:28](https://news.ycombinator.com/item?id=37108624) - [Writing a Pathtracer in Lua, Week 1](https://blog.42yeah.is/rendering/2023/08/12/luapt.html)
 * [2023-08-11, 10:03:56](https://news.ycombinator.com/item?id=37086932) - [Functional Programming in Modern C++: The Imperatives Must Go [video]](https://www.youtube.com/watch?v=HE71NqRpvTQ)
 * [2023-08-11, 05:35:08](https://news.ycombinator.com/item?id=37085435) - [How to Roman Republic 101, Part IIIa: Starting Down the Path of Honors](https://acoup.blog/2023/08/11/collections-how-to-roman-republic-101-part-iiia-starting-down-the-path-of-honors/)
 * [2023-08-11, 02:20:34](https://news.ycombinator.com/item?id=37084351) - [Legions of DEF CON hackers will attack generative AI models](https://venturebeat.com/ai/legions-of-defcon-hackers-will-attack-generative-ai-models/)
