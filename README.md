@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-14, 16:22:24](https://news.ycombinator.com/item?id=37122871) - [Backward Compatibility, Go 1.21, and Go 2](https://go.dev/blog/compat)
 * [2023-08-14, 15:59:53](https://news.ycombinator.com/item?id=37122585) - [Prop 13 Is Not Passed on to Renters](https://prop13.wtf/2023/05/06/prop13-is-not-passed-on-to-renters.html)
-* [2023-08-14, 15:16:43](https://news.ycombinator.com/item?id=37122006) - [Elixir – Why the dot (when calling anonymous functions)?](https://dashbit.co/blog/why-the-dot)
+* [2023-08-14, 15:16:43](https://news.ycombinator.com/item?id=37122006) - [Elixir – Why the dot when calling anonymous functions?](https://dashbit.co/blog/why-the-dot)
 * [2023-08-14, 14:58:42](https://news.ycombinator.com/item?id=37121794) - [A Quickstart Guide to Privacy](https://www.hai.haus/blog/privacy-quickstart-2023.html)
 * [2023-08-14, 14:34:19](https://news.ycombinator.com/item?id=37121501) - [Non-Thoughts on the Open Source Initiative](https://yakshav.es/non-thoughts-on-the-osi/)
 * [2023-08-14, 14:30:40](https://news.ycombinator.com/item?id=37121458) - [Caught by MuseScore's Dark Patterns (2021)](https://gadanidis.ca/posts/2021-11-09-musescore.html)
-* [2023-08-14, 14:06:09](https://news.ycombinator.com/item?id=37121180) - [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
 * [2023-08-14, 13:48:53](https://news.ycombinator.com/item?id=37120982) - [Inside The Decline of Stack Exchange](https://www.thediff.co/archive/inside-the-decline-of-stack-exchange/)
 * [2023-08-14, 13:48:02](https://news.ycombinator.com/item?id=37120967) - [I built a garbage collector for a language that doesn’t need one](https://claytonwramsey.github.io/2023/08/14/dumpster.html)
 * [2023-08-14, 13:42:32](https://news.ycombinator.com/item?id=37120911) - [How to run a miserable code review](https://badsoftwareadvice.substack.com/p/how-to-run-a-miserable-code-review)
