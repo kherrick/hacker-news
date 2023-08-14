@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
+* [2023-08-14, 14:34:19](https://news.ycombinator.com/item?id=37121501) - [Non-Thoughts on the Open Source Initiative](https://yakshav.es/non-thoughts-on-the-osi/)
 * [2023-08-14, 14:30:40](https://news.ycombinator.com/item?id=37121458) - [Caught by MuseScore's Dark Patterns](https://gadanidis.ca/posts/2021-11-09-musescore.html)
 * [2023-08-14, 14:06:09](https://news.ycombinator.com/item?id=37121180) - [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
 * [2023-08-14, 13:48:53](https://news.ycombinator.com/item?id=37120982) - [Inside The Decline of Stack Exchange](https://www.thediff.co/archive/inside-the-decline-of-stack-exchange/)
