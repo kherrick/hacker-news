@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-13](index.md)
 
 * [2023-08-13, 23:21:31](https://news.ycombinator.com/item?id=37115626) - [I created the nerdiest game ever](https://plbrault.com/blog-posts/i-created-the-nerdierst-game-ever-en/)
+* [2023-08-13, 23:20:05](https://news.ycombinator.com/item?id=37115614) - [Emulating x86 on X64 on Aarch64](https://neugierig.org/software/blog/2023/08/x86-x64-aarch64.html)
 * [2023-08-13, 23:06:40](https://news.ycombinator.com/item?id=37115540) - [Borgbase backups have been unavailable for 3 days – recovery is at 26%](https://status.borgbase.com/status/default)
 * [2023-08-13, 22:43:41](https://news.ycombinator.com/item?id=37115380) - [SBF was scheduled to speak to a Stanford class in a Tech ethics course](https://stanforddaily.com/2023/08/13/s-b-f-is-leaving-campus-but-stanfords-ties-to-his-case-are-deeper-than-previously-known/)
 * [2023-08-13, 22:34:13](https://news.ycombinator.com/item?id=37115298) - [The Namco ND-1: Taking 2D for Granted](https://nicole.express/2023/nobody-plays-those-old-games-anymore.html)
