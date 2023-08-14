@@ -74,6 +74,7 @@
 * [2023-08-13, 09:47:00](https://news.ycombinator.com/item?id=37108298) - [Show HN: Broken Bear, the AI teddy bear that loves your broken self](https://brokenbear.com/)
 * [2023-08-13, 09:36:55](https://news.ycombinator.com/item?id=37108238) - [Sqlx: I'm sorry I forked you](https://sql.ophir.dev/blog.sql?post=I%E2%80%99m+sorry+I+forked+you)
 * [2023-08-13, 09:24:42](https://news.ycombinator.com/item?id=37108172) - [Why skilled immigration (usually) benefits both countries](https://www.noahpinion.blog/p/why-skilled-immigration-usually-benefits)
+* [2023-08-13, 09:22:06](https://news.ycombinator.com/item?id=37108153) - [Gameboy Leach](https://gieskes.nl/undefined/prepared-gameboy/?f=leach)
 * [2023-08-13, 09:17:43](https://news.ycombinator.com/item?id=37108132) - [The Scarcest Thing in the World](https://www.honest-broker.com/p/the-scarcest-thing-in-the-world)
 * [2023-08-13, 09:13:30](https://news.ycombinator.com/item?id=37108111) - [Astro: All-in-one web framework designed for speed](https://astro.build/)
 * [2023-08-13, 09:07:01](https://news.ycombinator.com/item?id=37108063) - [Sony and other music labels sue Internet Archive for digitizing old records](https://www.engadget.com/sony-and-other-music-labels-sue-internet-archive-for-digitizing-old-records-110108988.html)
