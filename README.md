@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-14, 20:10:51](https://news.ycombinator.com/item?id=37126182) - [Burnout because of ChatGPT?](https://news.ycombinator.com/item?id=37126182)
+* [2023-08-14, 20:03:43](https://news.ycombinator.com/item?id=37126100) - [Tell HN: Google Maps is again requiring wi-fi scanning to enable navigation](https://news.ycombinator.com/item?id=37126100)
 * [2023-08-14, 19:19:57](https://news.ycombinator.com/item?id=37125561) - [Navigating the timezone nightmare in product development](https://www.getlago.com/blog/time-zone-nightmares)
 * [2023-08-14, 19:13:12](https://news.ycombinator.com/item?id=37125458) - [Study shows dementia more common in older adults with vision issues](https://www.michiganmedicine.org/health-lab/study-shows-dementia-more-common-older-adults-vision-issues)
 * [2023-08-14, 18:52:54](https://news.ycombinator.com/item?id=37125118) - [Show HN: LLMs can generate valid JSON 100% of the time](https://github.com/normal-computing/outlines)
@@ -26,7 +27,6 @@
 * [2023-08-14, 06:25:04](https://news.ycombinator.com/item?id=37118081) - [Autospam and Naive Bayes](https://pixelfed.blog/p/2023/feature/autospam-and-naive-bayes-the-grandfather-of-spam-filters-still-making-waves)
 * [2023-08-14, 05:37:38](https://news.ycombinator.com/item?id=37117818) - [The anesthetic effect of air at atmospheric pressure](https://pubmed.ncbi.nlm.nih.gov/1130736/)
 * [2023-08-13, 23:20:05](https://news.ycombinator.com/item?id=37115614) - [Emulating x86 on X64 on Aarch64](https://neugierig.org/software/blog/2023/08/x86-x64-aarch64.html)
-* [2023-08-13, 17:11:37](https://news.ycombinator.com/item?id=37111867) - [Automatically classifying the content of sound files using ML](https://blog.gingerbeardman.com/2023/08/13/automatically-classifying-the-content-of-sound-files-using-ml/)
 * [2023-08-13, 06:59:15](https://news.ycombinator.com/item?id=37107346) - [Tetris Randomizers (2018)](https://simon.lc/the-history-of-tetris-randomizers)
 * [2023-08-11, 13:10:30](https://news.ycombinator.com/item?id=37088288) - [Poietic Generator](https://en.wikipedia.org/wiki/Poietic_Generator)
 * [2023-08-10, 21:58:31](https://news.ycombinator.com/item?id=37082304) - [Rewriting wipEout](https://phoboslab.org/log/2023/08/rewriting-wipeout)
