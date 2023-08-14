@@ -90,6 +90,7 @@
 * [2023-08-13, 07:17:09](https://news.ycombinator.com/item?id=37107455) - [Microsoft Docker Development Container Templates](https://github.com/devcontainers/templates)
 * [2023-08-13, 07:01:13](https://news.ycombinator.com/item?id=37107358) - [Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=37107358)
 * [2023-08-13, 07:00:16](https://news.ycombinator.com/item?id=37107352) - [Move Back to Datacenters](https://rakkhi.substack.com/p/why-you-should-move-back-to-datacenters)
+* [2023-08-13, 06:59:15](https://news.ycombinator.com/item?id=37107346) - [Tetris Randomizers (2018)](https://simon.lc/the-history-of-tetris-randomizers)
 * [2023-08-13, 06:50:14](https://news.ycombinator.com/item?id=37107298) - [Render nuked my entire account with no notice](https://news.ycombinator.com/item?id=37107298)
 * [2023-08-13, 06:10:51](https://news.ycombinator.com/item?id=37107149) - [The CNET Lesson: Content Pruning Is Dumb for News Content, Don’t Do It](https://tedium.co/2023/08/11/content-pruning-news-websites-is-stupid/)
 * [2023-08-13, 05:57:34](https://news.ycombinator.com/item?id=37107101) - [Generative AI – A curated list of Generative AI projects and services](https://github.com/steven2358/awesome-generative-ai)
