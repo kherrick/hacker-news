@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
+* [2023-08-14, 18:52:54](https://news.ycombinator.com/item?id=37125118) - [Show HN: LLMs can generate valid JSON 100% of the time](https://github.com/normal-computing/outlines)
 * [2023-08-14, 18:06:15](https://news.ycombinator.com/item?id=37124373) - [We mourn the loss of Stefan Tilkov](https://www.innoq.com/en/news/2023/08/stefan-tilkov-english/)
 * [2023-08-14, 18:01:53](https://news.ycombinator.com/item?id=37124329) - [More Americans Are Ending Up Homeless–At a Record Rate](https://www.wsj.com/articles/homelessness-increasing-united-states-housing-costs-e1990ac7)
 * [2023-08-14, 17:55:55](https://news.ycombinator.com/item?id=37124238) - [California PG&E Joins Proposal to Set Utility Rates Based on Income](https://www.sanjoseinside.com/news/pge-joins-proposal-to-set-utility-rates-based-on-income/#)
 * [2023-08-14, 17:52:00](https://news.ycombinator.com/item?id=37124187) - [Discord.io breached, 760k user accounts for sale on darknet](https://stackdiary.com/the-data-of-760000-discord-io-users-was-put-up-for-sale-on-the-darknet/)
+* [2023-08-14, 17:43:40](https://news.ycombinator.com/item?id=37124059) - [Does there exist a complete implementation of the Risch algorithm?](https://mathoverflow.net/questions/374089/does-there-exist-a-complete-implementation-of-the-risch-algorithm)
 * [2023-08-14, 17:41:04](https://news.ycombinator.com/item?id=37124019) - [Why font-size must NEVER be in pixels](https://FEDmentor.dev/posts/font-size-px/)
 * [2023-08-14, 17:40:45](https://news.ycombinator.com/item?id=37124015) - [Lack of Walkability in the US is destroying mental health](https://makeamericawalkable.com/)
 * [2023-08-14, 17:38:42](https://news.ycombinator.com/item?id=37123992) - [Fan-made port of Wipeout (PSX) for modern browsers](https://phoboslab.org/wipegame/)
@@ -53,6 +55,7 @@
 * [2023-08-14, 08:14:43](https://news.ycombinator.com/item?id=37118633) - [Python: Just Write SQL](https://joaodlf.com/python-just-write-sql)
 * [2023-08-14, 07:42:08](https://news.ycombinator.com/item?id=37118452) - [Matters Computational – Ideas, Algorithms, Source Code [pdf]](https://www.jjj.de/fxt/fxtbook.pdf)
 * [2023-08-14, 07:18:44](https://news.ycombinator.com/item?id=37118344) - [Momentum, a DIY 12-voice virtual analogue polyphonic synthesizer based on TSynth](http://electrotechnique.cc/Momentum.html)
+* [2023-08-14, 06:48:53](https://news.ycombinator.com/item?id=37118195) - [Migrating Netflix to GraphQL Safely](https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72?gi=6070ab8bb55c)
 * [2023-08-14, 06:41:02](https://news.ycombinator.com/item?id=37118166) - [Ask HN: Getting Rid of the Founder?](https://news.ycombinator.com/item?id=37118166)
 * [2023-08-14, 06:32:47](https://news.ycombinator.com/item?id=37118124) - [Veilid is an open-source, P2P, mobile-ﬁrst, networked application framework](https://veilid.com/)
 * [2023-08-14, 06:31:13](https://news.ycombinator.com/item?id=37118114) - [Is Venus in some way tidally locked to Earth?](https://astronomy.stackexchange.com/questions/36488/is-venus-in-some-way-tidally-locked-to-earth)
