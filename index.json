@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-08-14, 09:14:04",
+      "https://news.ycombinator.com/item?id=37118983"
+    ],
+    [
+      "“Yes, you should test on production” – Why developer experience matters",
+      "https://marcochiappetta.medium.com/yes-you-should-test-on-production-61f6dc61908b"
+    ]
+  ],
+  [
+    [
       "2023-08-14, 08:58:03",
       "https://news.ycombinator.com/item?id=37118883"
     ],
     [
       "Write about what you learn. It pushes you to understand topics better",
       "https://addyosmani.com/blog/write-learn/"
+    ]
+  ],
+  [
+    [
+      "2023-08-14, 08:56:10",
+      "https://news.ycombinator.com/item?id=37118877"
+    ],
+    [
+      "Vector Database benchmark with 1536/768 dim data",
+      "https://github.com/zilliztech/VectorDBBench"
     ]
   ],
   [
@@ -45,8 +65,18 @@
       "https://news.ycombinator.com/item?id=37118114"
     ],
     [
-      "Is Venus in some way tidally locked to Earth?",
+      "Is Venus in some way tidally locked to Earth? (2020)",
       "https://astronomy.stackexchange.com/questions/36488/is-venus-in-some-way-tidally-locked-to-earth"
+    ]
+  ],
+  [
+    [
+      "2023-08-14, 06:29:02",
+      "https://news.ycombinator.com/item?id=37118098"
+    ],
+    [
+      "Semantic Code Reviews – Simple and direct comments without drama",
+      "https://www.m31coding.com/blog/semantic-reviews.html"
     ]
   ],
   [
@@ -131,26 +161,6 @@
   ],
   [
     [
-      "2023-08-13, 22:00:21",
-      "https://news.ycombinator.com/item?id=37114976"
-    ],
-    [
-      "The AST Typing Problem",
-      "http://blog.ezyang.com/2013/05/the-ast-typing-problem/"
-    ]
-  ],
-  [
-    [
-      "2023-08-13, 21:20:57",
-      "https://news.ycombinator.com/item?id=37114647"
-    ],
-    [
-      "Neuralangelo: High-Fidelity Neural Surface Reconstruction",
-      "https://research.nvidia.com/labs/dir/neuralangelo/"
-    ]
-  ],
-  [
-    [
       "2023-08-13, 21:03:53",
       "https://news.ycombinator.com/item?id=37114457"
     ],
@@ -197,16 +207,6 @@
     [
       "If you succeed you will fail",
       "https://boyter.org/posts/if-you-succeed-you-will-fail/"
-    ]
-  ],
-  [
-    [
-      "2023-08-13, 19:23:29",
-      "https://news.ycombinator.com/item?id=37113336"
-    ],
-    [
-      "Judge denies HP's plea to throw out all-in-one printer lockdown lawsuit",
-      "https://www.theregister.com/2023/08/11/judge_denies_hps_request_to/"
     ]
   ],
   [
