@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-08-13, 15:01:02",
-      "https://news.ycombinator.com/item?id=37110628"
-    ],
-    [
-      "PDF Tool – Modify PDFs in the browser without uploading",
-      "https://www.pdftool.org"
-    ]
-  ],
-  [
-    [
       "2023-08-13, 14:39:10",
       "https://news.ycombinator.com/item?id=37110444"
     ],
@@ -257,6 +247,16 @@
     [
       "Symmetry in Chaos",
       "http://paulbourke.net/fractals/symmetryinchaos/"
+    ]
+  ],
+  [
+    [
+      "2023-08-13, 08:20:34",
+      "https://news.ycombinator.com/item?id=37107785"
+    ],
+    [
+      "Rlwrap: A Readline Wrapper",
+      "https://github.com/hanslub42/rlwrap"
     ]
   ],
   [
