@@ -8,6 +8,7 @@
 * [2023-08-14, 17:55:55](https://news.ycombinator.com/item?id=37124238) - [California PG&E Joins Proposal to Set Utility Rates Based on Income](https://www.sanjoseinside.com/news/pge-joins-proposal-to-set-utility-rates-based-on-income/#)
 * [2023-08-14, 17:52:00](https://news.ycombinator.com/item?id=37124187) - [Discord.io breached, 760k user accounts for sale on darknet](https://stackdiary.com/the-data-of-760000-discord-io-users-was-put-up-for-sale-on-the-darknet/)
 * [2023-08-14, 17:41:04](https://news.ycombinator.com/item?id=37124019) - [Why font-size must NEVER be in pixels](https://FEDmentor.dev/posts/font-size-px/)
+* [2023-08-14, 17:40:45](https://news.ycombinator.com/item?id=37124015) - [Lack of Walkability in the US is destroying mental health](https://makeamericawalkable.com/)
 * [2023-08-14, 17:38:42](https://news.ycombinator.com/item?id=37123992) - [Fan-made port of Wipeout (PSX) for modern browsers](https://phoboslab.org/wipegame/)
 * [2023-08-14, 17:36:00](https://news.ycombinator.com/item?id=37123961) - [Show HN: Anonymize HN – a Chrome extension to anonymize Hacker News users](https://chrome.google.com/webstore/detail/anonymize-hn/ofclpgeijealmdamdfecbdccpjjoijnf)
 * [2023-08-14, 17:26:15](https://news.ycombinator.com/item?id=37123792) - [JWST Spots Giant Black Holes All over the Early Universe](https://www.quantamagazine.org/jwst-spots-giant-black-holes-all-over-the-early-universe-20230814/)
