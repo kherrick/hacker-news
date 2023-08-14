@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-14, 20:10:51](https://news.ycombinator.com/item?id=37126182) - [Burnout because of ChatGPT?](https://news.ycombinator.com/item?id=37126182)
 * [2023-08-14, 20:03:43](https://news.ycombinator.com/item?id=37126100) - [Tell HN: Google Maps is again requiring Wi-Fi scanning to enable navigation](https://news.ycombinator.com/item?id=37126100)
 * [2023-08-14, 19:25:01](https://news.ycombinator.com/item?id=37125628) - [Bezos Earth Fund Grants $400M for Greening Underserved Urban U.S. Communities](https://www.bezosearthfund.org/news-and-insights/announcing-400-million-greening-americas-cities)
 * [2023-08-14, 19:19:57](https://news.ycombinator.com/item?id=37125561) - [Navigating the timezone nightmare in product development](https://www.getlago.com/blog/time-zone-nightmares)
@@ -7,7 +8,7 @@
 * [2023-08-14, 18:59:37](https://news.ycombinator.com/item?id=37125244) - [Videos from Python Web Conf 2023 Available on YouTube](https://sixfeetup.com/company/news/80-talks-and-tutorials-from-2023-python-web-conference-released)
 * [2023-08-14, 18:52:54](https://news.ycombinator.com/item?id=37125118) - [Show HN: LLMs can generate valid JSON 100% of the time](https://github.com/normal-computing/outlines)
 * [2023-08-14, 18:10:19](https://news.ycombinator.com/item?id=37124424) - [Trafilatura: Python tool to gather text on the Web](https://github.com/adbar/trafilatura)
-* [2023-08-14, 18:06:15](https://news.ycombinator.com/item?id=37124373) - [We mourn the loss of Stefan Tilkov](https://www.innoq.com/en/news/2023/08/stefan-tilkov-english/)
+* [2023-08-14, 18:06:15](https://news.ycombinator.com/item?id=37124373) - [Stefan Tilkov has died](https://www.innoq.com/en/news/2023/08/stefan-tilkov-english/)
 * [2023-08-14, 17:52:00](https://news.ycombinator.com/item?id=37124187) - [Discord.io breached, 760k user accounts for sale on darknet](https://stackdiary.com/the-data-of-760000-discord-io-users-was-put-up-for-sale-on-the-darknet/)
 * [2023-08-14, 17:43:40](https://news.ycombinator.com/item?id=37124059) - [Does there exist a complete implementation of the Risch algorithm?](https://mathoverflow.net/questions/374089/does-there-exist-a-complete-implementation-of-the-risch-algorithm)
 * [2023-08-14, 17:26:15](https://news.ycombinator.com/item?id=37123792) - [JWST spots giant black holes all over the early universe](https://www.quantamagazine.org/jwst-spots-giant-black-holes-all-over-the-early-universe-20230814/)
@@ -18,7 +19,6 @@
 * [2023-08-14, 16:22:24](https://news.ycombinator.com/item?id=37122871) - [Backward Compatibility, Go 1.21, and Go 2](https://go.dev/blog/compat)
 * [2023-08-14, 15:21:40](https://news.ycombinator.com/item?id=37122064) - [Show HN: Epsilla – Open-source vector database with low query latency](https://github.com/epsilla-cloud/vectordb)
 * [2023-08-14, 15:16:43](https://news.ycombinator.com/item?id=37122006) - [Elixir – Why the dot when calling anonymous functions?](https://dashbit.co/blog/why-the-dot)
-* [2023-08-14, 14:34:19](https://news.ycombinator.com/item?id=37121501) - [Non-Thoughts on the Open Source Initiative](https://yakshav.es/non-thoughts-on-the-osi/)
 * [2023-08-14, 14:06:09](https://news.ycombinator.com/item?id=37121180) - [Software Engineering at Google (2020)](https://abseil.io/resources/swe-book/html/toc.html)
 * [2023-08-14, 13:48:02](https://news.ycombinator.com/item?id=37120967) - [I built a garbage collector for a language that doesn’t need one](https://claytonwramsey.github.io/2023/08/14/dumpster.html)
 * [2023-08-14, 12:41:33](https://news.ycombinator.com/item?id=37120372) - [The 2002 Überlingen midair collision](https://admiralcloudberg.medium.com/tears-in-the-rain-the-2002-%C3%BCberlingen-midair-collision-591232d0c51e)
@@ -28,7 +28,7 @@
 * [2023-08-14, 06:48:53](https://news.ycombinator.com/item?id=37118195) - [Migrating Netflix to GraphQL Safely](https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72?gi=6070ab8bb55c)
 * [2023-08-14, 05:37:38](https://news.ycombinator.com/item?id=37117818) - [The anesthetic effect of air at atmospheric pressure](https://pubmed.ncbi.nlm.nih.gov/1130736/)
 * [2023-08-13, 23:20:05](https://news.ycombinator.com/item?id=37115614) - [Emulating x86 on X64 on Aarch64](https://neugierig.org/software/blog/2023/08/x86-x64-aarch64.html)
-* [2023-08-13, 06:59:15](https://news.ycombinator.com/item?id=37107346) - [Tetris Randomizers (2018)](https://simon.lc/the-history-of-tetris-randomizers)
+* [2023-08-11, 13:10:30](https://news.ycombinator.com/item?id=37088288) - [Poietic Generator](https://en.wikipedia.org/wiki/Poietic_Generator)
 * [2023-08-10, 21:58:31](https://news.ycombinator.com/item?id=37082304) - [Rewriting wipEout](https://phoboslab.org/log/2023/08/rewriting-wipeout)
 
 ## [Archives](archives/index.md)
