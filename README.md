@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-14, 22:42:45](https://news.ycombinator.com/item?id=37127684) - [What could Universal Early Childcare look like?](https://dchung.substack.com/p/what-could-universal-early-childcare)
+* [2023-08-14, 22:33:30](https://news.ycombinator.com/item?id=37127606) - [Montana loses fight against youth climate activists in landmark ruling](https://arstechnica.com/tech-policy/2023/08/montana-loses-fight-against-youth-climate-activists-in-landmark-ruling/)
 * [2023-08-14, 22:13:42](https://news.ycombinator.com/item?id=37127450) - [The Cuts at WVU](https://community.wvu.edu/~jokatz/Closure/)
-* [2023-08-14, 21:47:52](https://news.ycombinator.com/item?id=37127218) - [Negative developer comments about Agile and Scrum on social media](https://github.com/rayfrankenstein/AITOW/blob/master/README.md)
-* [2023-08-14, 21:41:37](https://news.ycombinator.com/item?id=37127174) - [Michael Burry shorts Major index in sizable bets](https://www.thestreet.com/investing/the-big-short-michael-burry-makes-big-bet-against-the-market)
+* [2023-08-14, 20:43:02](https://news.ycombinator.com/item?id=37126567) - [My (Herb Sutter's) C++ Now 2023 talk is online: “A TypeScript for C++”](https://herbsutter.com/2023/08/13/my-c-now-2023-talk-is-online-a-typescript-for-c/)
 * [2023-08-14, 20:40:04](https://news.ycombinator.com/item?id=37126530) - [Java 21: First Release Candidate](https://openjdk.org/projects/jdk/21/)
 * [2023-08-14, 19:42:17](https://news.ycombinator.com/item?id=37125830) - [OpenFarm – a free and open database and web application for gardening knowledge](https://openfarm.cc)
 * [2023-08-14, 19:19:57](https://news.ycombinator.com/item?id=37125561) - [Navigating the timezone nightmare in product development](https://www.getlago.com/blog/time-zone-nightmares)

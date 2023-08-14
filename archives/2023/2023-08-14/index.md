@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
 * [2023-08-14, 22:42:45](https://news.ycombinator.com/item?id=37127684) - [What could Universal Early Childcare look like?](https://dchung.substack.com/p/what-could-universal-early-childcare)
+* [2023-08-14, 22:33:30](https://news.ycombinator.com/item?id=37127606) - [Montana loses fight against youth climate activists in landmark ruling](https://arstechnica.com/tech-policy/2023/08/montana-loses-fight-against-youth-climate-activists-in-landmark-ruling/)
 * [2023-08-14, 22:13:42](https://news.ycombinator.com/item?id=37127450) - [The Cuts at WVU](https://community.wvu.edu/~jokatz/Closure/)
 * [2023-08-14, 21:47:52](https://news.ycombinator.com/item?id=37127218) - [Why Developers Hate Agile](https://github.com/rayfrankenstein/AITOW/blob/master/README.md)
 * [2023-08-14, 21:41:37](https://news.ycombinator.com/item?id=37127174) - [Michael Burry shorts Major index in sizable bets](https://www.thestreet.com/investing/the-big-short-michael-burry-makes-big-bet-against-the-market)
 * [2023-08-14, 21:24:15](https://news.ycombinator.com/item?id=37127003) - [AI Detection Tools Falsely Accuse International Students of Cheating](https://themarkup.org/machine-learning/2023/08/14/ai-detection-tools-falsely-accuse-international-students-of-cheating)
 * [2023-08-14, 21:12:50](https://news.ycombinator.com/item?id=37126856) - [Grindr employees have 2 weeks to move across the country, RTO or lose their jobs](https://www.businessinsider.com/grindr-united-unionized-employees-work-from-home-return-in-person-2023-8)
+* [2023-08-14, 20:43:02](https://news.ycombinator.com/item?id=37126567) - [My (Herb Sutter's) C++ Now 2023 talk is online: “A TypeScript for C++”](https://herbsutter.com/2023/08/13/my-c-now-2023-talk-is-online-a-typescript-for-c/)
 * [2023-08-14, 20:40:04](https://news.ycombinator.com/item?id=37126530) - [Java 21: First Release Candidate](https://openjdk.org/projects/jdk/21/)
 * [2023-08-14, 20:40:04](https://news.ycombinator.com/item?id=37126530) - [Java 21: First Release Candidate](https://mail.openjdk.org/pipermail/jdk-dev/2023-August/008059.html)
 * [2023-08-14, 20:10:51](https://news.ycombinator.com/item?id=37126182) - [Burnout because of ChatGPT?](https://news.ycombinator.com/item?id=37126182)
