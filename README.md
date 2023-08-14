@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-14, 14:30:40](https://news.ycombinator.com/item?id=37121458) - [Caught by MuseScore's Dark Patterns](https://gadanidis.ca/posts/2021-11-09-musescore.html)
 * [2023-08-14, 14:06:09](https://news.ycombinator.com/item?id=37121180) - [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
 * [2023-08-14, 13:48:53](https://news.ycombinator.com/item?id=37120982) - [Inside The Decline of Stack Exchange](https://www.thediff.co/archive/inside-the-decline-of-stack-exchange/)
 * [2023-08-14, 13:48:02](https://news.ycombinator.com/item?id=37120967) - [I built a garbage collector for a language that doesn’t need one](https://claytonwramsey.github.io/2023/08/14/dumpster.html)
@@ -19,7 +20,6 @@
 * [2023-08-14, 07:18:44](https://news.ycombinator.com/item?id=37118344) - [Momentum, a DIY 12-voice virtual analogue polyphonic synthesizer based on TSynth](http://electrotechnique.cc/Momentum.html)
 * [2023-08-14, 06:32:47](https://news.ycombinator.com/item?id=37118124) - [Veilid is an open-source, P2P, mobile-ﬁrst, networked application framework](https://veilid.com/)
 * [2023-08-14, 06:31:13](https://news.ycombinator.com/item?id=37118114) - [Is Venus in some way tidally locked to Earth? (2020)](https://astronomy.stackexchange.com/questions/36488/is-venus-in-some-way-tidally-locked-to-earth)
-* [2023-08-14, 06:29:02](https://news.ycombinator.com/item?id=37118098) - [Semantic Code Reviews – Simple and direct comments without drama](https://www.m31coding.com/blog/semantic-reviews.html)
 * [2023-08-14, 06:25:04](https://news.ycombinator.com/item?id=37118081) - [Fediverse and Naive Bayes: The Grandfather of Spam Filters Still Making Waves](https://pixelfed.blog/p/2023/feature/autospam-and-naive-bayes-the-grandfather-of-spam-filters-still-making-waves)
 * [2023-08-14, 04:02:58](https://news.ycombinator.com/item?id=37117338) - [Bypassing YouTube video download throttling](https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling/)
 * [2023-08-14, 03:53:17](https://news.ycombinator.com/item?id=37117291) - [Things Unix can do atomically (2010)](https://rcrowley.org/2010/01/06/things-unix-can-do-atomically.html)
