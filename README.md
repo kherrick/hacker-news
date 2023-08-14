@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-14, 01:49:22](https://news.ycombinator.com/item?id=37116545) - [Access to knowledge is a human right – Alexandra Elbakyan](https://engineuring.wordpress.com/2023/08/14/access-to-knowledge-is-a-human-right/)
 * [2023-08-14, 01:12:02](https://news.ycombinator.com/item?id=37116331) - [Silicon Valley Bank vice president sentenced to 15 months in prison](https://www.kron4.com/news/bay-area/silicon-valley-bank-vice-president-sentenced/)
 * [2023-08-14, 01:10:04](https://news.ycombinator.com/item?id=37116319) - [America’s Top Environmental Groups Have Lost the Plot on Climate Change](https://www.noahpinion.blog/p/americas-top-environmental-groups)
 * [2023-08-13, 23:21:31](https://news.ycombinator.com/item?id=37115626) - [I created the nerdiest game ever](https://plbrault.com/blog-posts/i-created-the-nerdierst-game-ever-en/)
@@ -9,7 +10,6 @@
 * [2023-08-13, 22:00:21](https://news.ycombinator.com/item?id=37114976) - [The AST Typing Problem](http://blog.ezyang.com/2013/05/the-ast-typing-problem/)
 * [2023-08-13, 21:20:57](https://news.ycombinator.com/item?id=37114647) - [Neuralangelo: High-Fidelity Neural Surface Reconstruction](https://research.nvidia.com/labs/dir/neuralangelo/)
 * [2023-08-13, 21:03:53](https://news.ycombinator.com/item?id=37114457) - [Thoughts on Elixir, Phoenix and LiveView after 18 months of commercial use](https://korban.net/posts/2023-08-11-thoughts-on-elixir-phoenix-liveview/)
-* [2023-08-13, 21:00:40](https://news.ycombinator.com/item?id=37114420) - [Babylon 5 Is a Perfect, Terrible Series](https://www.tor.com/2023/08/09/babylon-5-is-a-perfect-terrible-series/)
 * [2023-08-13, 20:32:11](https://news.ycombinator.com/item?id=37114141) - [Show HN: I wrote a RDBMS (SQLite clone) from scratch in pure Python](https://github.com/spandanb/learndb-py)
 * [2023-08-13, 20:29:12](https://news.ycombinator.com/item?id=37114109) - [Why the world’s best vanilla is so easy to steal](https://thehustle.co/why-the-worlds-best-vanilla-is-so-easy-to-steal/)
 * [2023-08-13, 20:13:23](https://news.ycombinator.com/item?id=37113917) - [ZFSBootMenu](https://docs.zfsbootmenu.org/en/v2.2.x/#)
