@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-08-14, 20:40:04",
+      "https://news.ycombinator.com/item?id=37126530"
+    ],
+    [
+      "Java 21: First Release Candidate",
+      "https://mail.openjdk.org/pipermail/jdk-dev/2023-August/008059.html"
+    ]
+  ],
+  [
+    [
       "2023-08-14, 20:10:51",
       "https://news.ycombinator.com/item?id=37126182"
     ],
     [
       "Burnout because of ChatGPT?",
       "https://news.ycombinator.com/item?id=37126182"
-    ]
-  ],
-  [
-    [
-      "2023-08-14, 20:03:43",
-      "https://news.ycombinator.com/item?id=37126100"
-    ],
-    [
-      "Tell HN: Google Maps is again requiring wi-fi scanning to enable navigation",
-      "https://news.ycombinator.com/item?id=37126100"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-08-14, 14:10:30",
+      "https://news.ycombinator.com/item?id=37121221"
+    ],
+    [
+      "Rust Abstractions Posted for Sockets and Other Fundamental Network Bits",
+      "https://www.phoronix.com/news/Linux-Rust-Sockets-Patches"
+    ]
+  ],
+  [
+    [
       "2023-08-14, 14:06:09",
       "https://news.ycombinator.com/item?id=37121180"
     ],
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=37118195"
     ],
     [
-      "Migrating Netflix to GraphQL Safely",
+      "Migrating Netflix to GraphQL",
       "https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72?gi=6070ab8bb55c"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "Emulating x86 on X64 on Aarch64",
       "https://neugierig.org/software/blog/2023/08/x86-x64-aarch64.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-13, 06:59:15",
-      "https://news.ycombinator.com/item?id=37107346"
-    ],
-    [
-      "Tetris Randomizers (2018)",
-      "https://simon.lc/the-history-of-tetris-randomizers"
     ]
   ],
   [
