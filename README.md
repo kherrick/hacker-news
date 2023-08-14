@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-14, 18:52:54](https://news.ycombinator.com/item?id=37125118) - [Show HN: LLMs can generate valid JSON 100% of the time](https://github.com/normal-computing/outlines)
+* [2023-08-14, 18:10:19](https://news.ycombinator.com/item?id=37124424) - [Trafilatura: Python tool to gather text on the Web](https://github.com/adbar/trafilatura)
 * [2023-08-14, 18:06:15](https://news.ycombinator.com/item?id=37124373) - [We mourn the loss of Stefan Tilkov](https://www.innoq.com/en/news/2023/08/stefan-tilkov-english/)
 * [2023-08-14, 17:52:00](https://news.ycombinator.com/item?id=37124187) - [Discord.io breached, 760k user accounts for sale on darknet](https://stackdiary.com/the-data-of-760000-discord-io-users-was-put-up-for-sale-on-the-darknet/)
 * [2023-08-14, 17:43:40](https://news.ycombinator.com/item?id=37124059) - [Does there exist a complete implementation of the Risch algorithm?](https://mathoverflow.net/questions/374089/does-there-exist-a-complete-implementation-of-the-risch-algorithm)
@@ -27,7 +28,6 @@
 * [2023-08-14, 06:48:53](https://news.ycombinator.com/item?id=37118195) - [Migrating Netflix to GraphQL Safely](https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72?gi=6070ab8bb55c)
 * [2023-08-14, 06:25:04](https://news.ycombinator.com/item?id=37118081) - [Autospam and Naive Bayes](https://pixelfed.blog/p/2023/feature/autospam-and-naive-bayes-the-grandfather-of-spam-filters-still-making-waves)
 * [2023-08-14, 05:37:38](https://news.ycombinator.com/item?id=37117818) - [The anesthetic effect of air at atmospheric pressure](https://pubmed.ncbi.nlm.nih.gov/1130736/)
-* [2023-08-14, 04:02:58](https://news.ycombinator.com/item?id=37117338) - [Bypassing YouTube video download throttling](https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling/)
 * [2023-08-13, 17:11:37](https://news.ycombinator.com/item?id=37111867) - [Automatically classifying the content of sound files using ML](https://blog.gingerbeardman.com/2023/08/13/automatically-classifying-the-content-of-sound-files-using-ml/)
 * [2023-08-13, 06:59:15](https://news.ycombinator.com/item?id=37107346) - [Tetris Randomizers (2018)](https://simon.lc/the-history-of-tetris-randomizers)
 

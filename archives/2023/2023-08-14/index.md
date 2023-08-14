@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
 * [2023-08-14, 18:52:54](https://news.ycombinator.com/item?id=37125118) - [Show HN: LLMs can generate valid JSON 100% of the time](https://github.com/normal-computing/outlines)
+* [2023-08-14, 18:10:19](https://news.ycombinator.com/item?id=37124424) - [Trafilatura: Python tool to gather text on the Web](https://github.com/adbar/trafilatura)
 * [2023-08-14, 18:06:15](https://news.ycombinator.com/item?id=37124373) - [We mourn the loss of Stefan Tilkov](https://www.innoq.com/en/news/2023/08/stefan-tilkov-english/)
 * [2023-08-14, 18:01:53](https://news.ycombinator.com/item?id=37124329) - [More Americans Are Ending Up Homeless–At a Record Rate](https://www.wsj.com/articles/homelessness-increasing-united-states-housing-costs-e1990ac7)
 * [2023-08-14, 17:55:55](https://news.ycombinator.com/item?id=37124238) - [California PG&E Joins Proposal to Set Utility Rates Based on Income](https://www.sanjoseinside.com/news/pge-joins-proposal-to-set-utility-rates-based-on-income/#)
