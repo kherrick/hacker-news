@@ -45,6 +45,7 @@
 * [2023-08-13, 15:19:32](https://news.ycombinator.com/item?id=37110795) - [Are Naps Good for You?](https://www.scientificamerican.com/article/are-naps-good-for-you/)
 * [2023-08-13, 15:16:00](https://news.ycombinator.com/item?id=37110761) - [I’ll Never Be an Astronaut](https://shaunoconnell.com/2023/08/10/ill-never-be-an-astronaut/)
 * [2023-08-13, 15:08:14](https://news.ycombinator.com/item?id=37110690) - [The complex simplicity of my static websites](https://alinpanaitiu.com/blog/complex-simplicity-of-static-websites/)
+* [2023-08-13, 15:03:02](https://news.ycombinator.com/item?id=37110648) - [Studying the Limits of Human Perfection, Through Darts](https://www.nytimes.com/2023/08/05/upshot/darts-sports-perfection.html)
 * [2023-08-13, 15:01:02](https://news.ycombinator.com/item?id=37110628) - [Pdftool.org: modify pdfs offline in the browser](https://www.pdftool.org)
 * [2023-08-13, 14:41:57](https://news.ycombinator.com/item?id=37110471) - [Domes, Planetariums, Fisheye, Spherical Mirror](http://paulbourke.net/dome/)
 * [2023-08-13, 14:40:31](https://news.ycombinator.com/item?id=37110463) - [The video call revolution is dead](https://www.theverge.com/2023/8/12/23828781/video-call-chat-revolution-dead-zoom-google-meet-apps)
