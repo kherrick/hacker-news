@@ -8,6 +8,7 @@
 * [2023-08-14, 20:40:04](https://news.ycombinator.com/item?id=37126530) - [Java 21: First Release Candidate](https://mail.openjdk.org/pipermail/jdk-dev/2023-August/008059.html)
 * [2023-08-14, 20:10:51](https://news.ycombinator.com/item?id=37126182) - [Burnout because of ChatGPT?](https://news.ycombinator.com/item?id=37126182)
 * [2023-08-14, 20:03:43](https://news.ycombinator.com/item?id=37126100) - [Tell HN: Google Maps is again requiring Wi-Fi scanning to enable navigation](https://news.ycombinator.com/item?id=37126100)
+* [2023-08-14, 19:42:17](https://news.ycombinator.com/item?id=37125830) - [OpenFarm – a free and open database and web application for gardening knowledge](https://openfarm.cc)
 * [2023-08-14, 19:25:01](https://news.ycombinator.com/item?id=37125628) - [Bezos Earth Fund Grants $400M for Greening Underserved Urban U.S. Communities](https://www.bezosearthfund.org/news-and-insights/announcing-400-million-greening-americas-cities)
 * [2023-08-14, 19:19:57](https://news.ycombinator.com/item?id=37125561) - [Navigating the timezone nightmare in product development](https://www.getlago.com/blog/time-zone-nightmares)
 * [2023-08-14, 19:17:06](https://news.ycombinator.com/item?id=37125507) - [Loophole allows foreign money to flow into super PACs through shell companies](https://issueone.org/articles/new-report-highlights-shell-company-loophole-that-could-be-abused-by-foreigners-who-want-to-interfere-in-u-s-elections/)
