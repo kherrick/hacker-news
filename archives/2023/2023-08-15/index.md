@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
+* [2023-08-15, 15:27:16](https://news.ycombinator.com/item?id=37135162) - [Why doctors pay millions in fees that could be spent on care](https://text.npr.org/1193754380)
 * [2023-08-15, 14:56:40](https://news.ycombinator.com/item?id=37134770) - [Ask HN: PayPal's negligence and incompetence has cost me $270. What can I do?](https://news.ycombinator.com/item?id=37134770)
 * [2023-08-15, 14:48:27](https://news.ycombinator.com/item?id=37134654) - [Predatory journals entrap unsuspecting scientists](https://www.nature.com/articles/d41586-023-02553-1)
 * [2023-08-15, 14:40:13](https://news.ycombinator.com/item?id=37134563) - [Ball milling destroys PFAS in contaminated soil](https://phys.org/news/2023-08-chemicals.html)
@@ -48,6 +49,7 @@
 * [2023-08-15, 03:18:58](https://news.ycombinator.com/item?id=37129768) - [A Warning from the Unpublished Preface to Orwell’s Animal Farm](https://mindmatters.ai/2023/08/a-warning-from-the-unpublished-preface-to-orwells-animal-farm/)
 * [2023-08-15, 03:17:07](https://news.ycombinator.com/item?id=37129759) - [The small steps that lead to dystopia](https://mindmatters.ai/2023/08/the-small-steps-that-lead-to-dystopia/)
 * [2023-08-15, 03:05:04](https://news.ycombinator.com/item?id=37129690) - [Brandon Gilles Dies from Long-Covid, Electrical Engineer and Spatial AI Pioneer](https://www.mcphagwara.com/articles/brandon-gilles-obituary/)
+* [2023-08-15, 02:22:52](https://news.ycombinator.com/item?id=37129417) - [Carl Linnaeus Set Out to Label All of Life](https://www.newyorker.com/magazine/2023/08/21/the-man-who-organized-nature-the-life-of-linnaeus-gunnar-broberg-book-review)
 * [2023-08-15, 02:14:43](https://news.ycombinator.com/item?id=37129359) - [Colleges Spend Like There’s No Tomorrow. ‘These Places Are Just Devouring Money'](https://www.wsj.com/articles/state-university-tuition-increase-spending-41a58100)
 * [2023-08-15, 02:08:27](https://news.ycombinator.com/item?id=37129318) - [Webvan: The Dotcom Bubble’s Biggest Bust](https://streetfins.com/webvan-the-dotcom-bubbles-biggest-bust/)
 * [2023-08-15, 01:39:40](https://news.ycombinator.com/item?id=37129132) - [Lynn Conway's Story (2000)](https://ai.eecs.umich.edu/people/conway/LynnsStory.html)
