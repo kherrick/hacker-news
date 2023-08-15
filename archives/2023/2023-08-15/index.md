@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
+* [2023-08-15, 13:14:53](https://news.ycombinator.com/item?id=37133600) - [Solar cycle is more powerful and surprising than predicted](https://theconversation.com/this-solar-cycle-the-suns-activity-is-more-powerful-and-surprising-than-predicted-209955)
+* [2023-08-15, 13:05:20](https://news.ycombinator.com/item?id=37133485) - [So much for CAPTCHA then – bots can complete them quicker than humans](https://www.theregister.com/2023/08/15/so_much_for_captcha_then/)
 * [2023-08-15, 13:01:34](https://news.ycombinator.com/item?id=37133438) - [Why is Canada giving two automakers $30B in subsidies for EV battery production?](https://www.wsws.org/en/articles/2023/08/11/dnyl-a11.html)
 * [2023-08-15, 12:31:27](https://news.ycombinator.com/item?id=37133163) - [Show HN: Llama2 Embeddings FastAPI Server](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service)
 * [2023-08-15, 12:19:33](https://news.ycombinator.com/item?id=37133054) - [The OpenTF Manifesto](https://opentf.org/)
