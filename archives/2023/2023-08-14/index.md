@@ -15,6 +15,7 @@
 * [2023-08-14, 21:47:52](https://news.ycombinator.com/item?id=37127218) - [Why Developers Hate Agile](https://github.com/rayfrankenstein/AITOW/blob/master/README.md)
 * [2023-08-14, 21:41:37](https://news.ycombinator.com/item?id=37127174) - [Michael Burry shorts Major index in sizable bets](https://www.thestreet.com/investing/the-big-short-michael-burry-makes-big-bet-against-the-market)
 * [2023-08-14, 21:24:15](https://news.ycombinator.com/item?id=37127003) - [AI Detection Tools Falsely Accuse International Students of Cheating](https://themarkup.org/machine-learning/2023/08/14/ai-detection-tools-falsely-accuse-international-students-of-cheating)
+* [2023-08-14, 21:15:22](https://news.ycombinator.com/item?id=37126890) - [A mine in the Northwest Territories provided uranium to the Manhattan Project](https://maisonneuve.org/article/2011/08/12/they-never-told-us-these-things/?ref=thebrowser.com)
 * [2023-08-14, 21:12:50](https://news.ycombinator.com/item?id=37126856) - [Grindr employees have 2 weeks to move across the country, RTO or lose their jobs](https://www.businessinsider.com/grindr-united-unionized-employees-work-from-home-return-in-person-2023-8)
 * [2023-08-14, 20:43:02](https://news.ycombinator.com/item?id=37126567) - [My (Herb Sutter's) C++ Now 2023 talk is online: “A TypeScript for C++”](https://herbsutter.com/2023/08/13/my-c-now-2023-talk-is-online-a-typescript-for-c/)
 * [2023-08-14, 20:40:04](https://news.ycombinator.com/item?id=37126530) - [Java 21: First Release Candidate](https://openjdk.org/projects/jdk/21/)

@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
+* [2023-08-15, 14:48:27](https://news.ycombinator.com/item?id=37134654) - [Predatory journals entrap unsuspecting scientists](https://www.nature.com/articles/d41586-023-02553-1)
 * [2023-08-15, 14:40:13](https://news.ycombinator.com/item?id=37134563) - [Ball milling destroys PFAS in contaminated soil](https://phys.org/news/2023-08-chemicals.html)
 * [2023-08-15, 14:36:35](https://news.ycombinator.com/item?id=37134520) - [Code Is Not Literature](https://gigamonkeys.com/code-reading/)
 * [2023-08-15, 14:24:13](https://news.ycombinator.com/item?id=37134373) - [Schizophrenia Drugs May Have Been Off Target for Decades, Study Finds](https://www.msn.com/en-us/health/medical/schizophrenia-drugs-may-have-been-off-target-for-decades-study-finds/ar-AA1fh9Nt)
 * [2023-08-15, 14:20:40](https://news.ycombinator.com/item?id=37134338) - [Coughlin: SSDs will not kill disk drives](https://blocksandfiles.com/2023/08/15/coughlin-ssds-will-not-kill-disk-drives/)
+* [2023-08-15, 14:20:16](https://news.ycombinator.com/item?id=37134329) - [Disney’s Taylor Swift Era](https://stratechery.com/2023/disneys-taylor-swift-era/)
 * [2023-08-15, 13:58:44](https://news.ycombinator.com/item?id=37134092) - [Firefox Finally Outperforming Google Chrome in SunSpider](https://www.phoronix.com/news/Firefox-Faster-SunSpider)
 * [2023-08-15, 13:14:53](https://news.ycombinator.com/item?id=37133600) - [Solar cycle is more powerful and surprising than predicted](https://theconversation.com/this-solar-cycle-the-suns-activity-is-more-powerful-and-surprising-than-predicted-209955)
 * [2023-08-15, 13:08:33](https://news.ycombinator.com/item?id=37133530) - [3 Advantages to Running FreeBSD as Your Server Operating System](https://klarasystems.com/articles/freebsd-3-advantages-to-running-freebsd-as-your-server-operating-system/)
