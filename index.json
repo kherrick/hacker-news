@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-08-15, 08:21:11",
+      "https://news.ycombinator.com/item?id=37131477"
+    ],
+    [
+      "Continuous batch enables 23x throughput in LLM inference and reduce p50 latency",
+      "https://www.anyscale.com/blog/continuous-batching-llm-inference"
+    ]
+  ],
+  [
+    [
       "2023-08-15, 04:21:27",
       "https://news.ycombinator.com/item?id=37130138"
     ],
     [
       "Features of Project Loom incorporated in JDK 21",
       "https://jdk.java.net/loom/"
-    ]
-  ],
-  [
-    [
-      "2023-08-15, 04:09:03",
-      "https://news.ycombinator.com/item?id=37130060"
-    ],
-    [
-      "Tell HN: t.co is adding a five-second delay to some domains",
-      "https://news.ycombinator.com/item?id=37130060"
     ]
   ],
   [
