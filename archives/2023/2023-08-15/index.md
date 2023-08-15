@@ -6,11 +6,13 @@
 
 * [2023-08-15, 09:58:53](https://news.ycombinator.com/item?id=37132025) - [How to find out if programming is for you](https://www.zackproser.com/blog/first-see-if-youve-got-the-bug)
 * [2023-08-15, 09:38:19](https://news.ycombinator.com/item?id=37131902) - [Why Americans Are So Awful to One Another](https://www.theatlantic.com/magazine/archive/2023/09/us-culture-moral-education-formation/674765/)
+* [2023-08-15, 09:28:15](https://news.ycombinator.com/item?id=37131854) - [Most bosses regret how they mandated workers return to the office](https://fortune.com/2023/08/14/bosses-regretting-return-to-office-mandates/)
 * [2023-08-15, 09:18:07](https://news.ycombinator.com/item?id=37131802) - [Things you forgot because of React](https://joshcollinsworth.com/blog/antiquated-react)
 * [2023-08-15, 08:49:13](https://news.ycombinator.com/item?id=37131626) - [Sam Bankman-Fried is going to jail](https://arstechnica.com/tech-policy/2023/08/sam-bankman-fried-is-going-to-jail/)
 * [2023-08-15, 08:45:47](https://news.ycombinator.com/item?id=37131604) - [Chrome is dead for those who uses ad-blockers](https://news.ycombinator.com/item?id=37131604)
 * [2023-08-15, 08:38:31](https://news.ycombinator.com/item?id=37131559) - [Xitter Broke Nitter Again](https://github.com/zedeus/nitter/issues/983)
 * [2023-08-15, 08:21:11](https://news.ycombinator.com/item?id=37131477) - [Continuous batch enables 23x throughput in LLM inference and reduce p50 latency](https://www.anyscale.com/blog/continuous-batching-llm-inference)
+* [2023-08-15, 07:45:14](https://news.ycombinator.com/item?id=37131287) - [Iraq lifts ban on Telegram after messaging app complies with authorities](https://techcrunch.com/2023/08/14/iraq-lifts-ban-on-telegram-after-messaging-app-complies-with-authorities/)
 * [2023-08-15, 07:40:58](https://news.ycombinator.com/item?id=37131263) - [New RedHat Responsibilities](https://www.hadess.net/2023/08/new-responsibilities.html)
 * [2023-08-15, 06:23:33](https://news.ycombinator.com/item?id=37130832) - [WhoFundsWho: Instantly see who funds the organizations you are reading about](https://whofundswho.com/)
 * [2023-08-15, 05:29:30](https://news.ycombinator.com/item?id=37130531) - [Ask HN: I learned useless skill of prompt engineering, how relevant will it be?](https://news.ycombinator.com/item?id=37130531)
