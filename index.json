@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-15, 12:00:12",
+      "https://news.ycombinator.com/item?id=37132855"
+    ],
+    [
+      "Metriport (YC S22) Is Hiring",
+      "https://www.ycombinator.com/companies/metriport/jobs/jsOCunE-software-engineer"
+    ]
+  ],
+  [
+    [
+      "2023-08-15, 11:47:44",
+      "https://news.ycombinator.com/item?id=37132754"
+    ],
+    [
+      "Show HN: Visual Reference to CSS Selectors",
+      "https://fffuel.co/css-selectors/"
+    ]
+  ],
+  [
+    [
       "2023-08-15, 10:30:23",
       "https://news.ycombinator.com/item?id=37132209"
     ],
@@ -17,6 +37,16 @@
     [
       "Introducing the Safer: A Better Alternative to Safes for Startup Financing",
       "https://nextwave.partners/insights/introducing-safer-better-alternative-safes-startup-financing"
+    ]
+  ],
+  [
+    [
+      "2023-08-15, 09:46:12",
+      "https://news.ycombinator.com/item?id=37131957"
+    ],
+    [
+      "Privacy friendly ESP32 smart doorbell with Home Assistant local integration",
+      "https://tristam.ie/2023/758/"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "Sam Bankman-Fried is going to jail",
       "https://arstechnica.com/tech-policy/2023/08/sam-bankman-fried-is-going-to-jail/"
-    ]
-  ],
-  [
-    [
-      "2023-08-15, 08:38:31",
-      "https://news.ycombinator.com/item?id=37131559"
-    ],
-    [
-      "Xitter Broke Nitter Again",
-      "https://github.com/zedeus/nitter/issues/983"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-08-14, 17:26:15",
-      "https://news.ycombinator.com/item?id=37123792"
-    ],
-    [
-      "JWST spots giant black holes all over the early universe",
-      "https://www.quantamagazine.org/jwst-spots-giant-black-holes-all-over-the-early-universe-20230814/"
-    ]
-  ],
-  [
-    [
       "2023-08-14, 14:38:17",
       "https://news.ycombinator.com/item?id=37121542"
     ],
@@ -237,16 +247,6 @@
     [
       "A C parser for CREATE and ALTER TABLE SQLite statements",
       "https://github.com/marcobambini/sqlite-createtable-parser"
-    ]
-  ],
-  [
-    [
-      "2023-08-14, 11:49:59",
-      "https://news.ycombinator.com/item?id=37119942"
-    ],
-    [
-      "Show HN: Little Rat – Chrome extension monitors network calls of all extensions",
-      "https://github.com/dnakov/little-rat"
     ]
   ],
   [
