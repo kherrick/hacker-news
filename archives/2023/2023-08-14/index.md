@@ -66,6 +66,7 @@
 * [2023-08-14, 13:19:15](https://news.ycombinator.com/item?id=37120715) - [Svix (YC W21) Is Hiring a Founding Account Executive (US Remote)](https://www.svix.com/careers/)
 * [2023-08-14, 13:17:19](https://news.ycombinator.com/item?id=37120697) - [Bomb threat causes mass evacuation at DEF CON hacking convention](https://www.theregister.com/2023/08/14/def_con_roundup/)
 * [2023-08-14, 12:59:26](https://news.ycombinator.com/item?id=37120513) - [W. Jason Morgan, scientist at forefront of plate tectonics theory, has died](https://www.washingtonpost.com/obituaries/2023/08/13/w-jason-morgan-plate-techtonics-princeton-dead/)
+* [2023-08-14, 12:59:07](https://news.ycombinator.com/item?id=37120510) - [A C parser for CREATE and ALTER TABLE SQLite statements](https://github.com/marcobambini/sqlite-createtable-parser)
 * [2023-08-14, 12:41:33](https://news.ycombinator.com/item?id=37120372) - [Tears in the Rain: The 2002 Überlingen midair collision](https://admiralcloudberg.medium.com/tears-in-the-rain-the-2002-%C3%BCberlingen-midair-collision-591232d0c51e)
 * [2023-08-14, 12:38:47](https://news.ycombinator.com/item?id=37120350) - [Police raid of a Kansas newsroom raises alarms about violations of press freedom](https://www.npr.org/2023/08/14/1193676139/newspaper-marion-county-kansas-police-raid-first-amendment)
 * [2023-08-14, 12:20:26](https://news.ycombinator.com/item?id=37120188) - [Small Kansas newspaper says co-owner, 98, collapsed and died after police raid](https://www.cbsnews.com/news/kansas-newspaper-police-raid-marion-county-record-joan-meyer-dies/)
