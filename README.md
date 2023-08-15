@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-15, 03:17:07](https://news.ycombinator.com/item?id=37129759) - [The small steps that lead to dystopia](https://mindmatters.ai/2023/08/the-small-steps-that-lead-to-dystopia/)
 * [2023-08-15, 02:14:43](https://news.ycombinator.com/item?id=37129359) - [Students foot the bill for flagship state universities](https://www.wsj.com/articles/state-university-tuition-increase-spending-41a58100)
 * [2023-08-15, 02:08:27](https://news.ycombinator.com/item?id=37129318) - [Webvan: The Dotcom Bubble’s Biggest Bust](https://streetfins.com/webvan-the-dotcom-bubbles-biggest-bust/)
 * [2023-08-15, 01:39:40](https://news.ycombinator.com/item?id=37129132) - [Lynn Conway's Story (2000)](https://ai.eecs.umich.edu/people/conway/LynnsStory.html)
@@ -24,7 +25,6 @@
 * [2023-08-14, 14:10:30](https://news.ycombinator.com/item?id=37121221) - [Rust Abstractions Posted for Sockets and Other Fundamental Network Bits](https://www.phoronix.com/news/Linux-Rust-Sockets-Patches)
 * [2023-08-14, 13:48:02](https://news.ycombinator.com/item?id=37120967) - [I built a garbage collector for a language that doesn’t need one](https://claytonwramsey.github.io/2023/08/14/dumpster.html)
 * [2023-08-14, 12:59:07](https://news.ycombinator.com/item?id=37120510) - [A C parser for CREATE and ALTER TABLE SQLite statements](https://github.com/marcobambini/sqlite-createtable-parser)
-* [2023-08-14, 12:41:33](https://news.ycombinator.com/item?id=37120372) - [The 2002 Überlingen midair collision](https://admiralcloudberg.medium.com/tears-in-the-rain-the-2002-%C3%BCberlingen-midair-collision-591232d0c51e)
 * [2023-08-14, 11:49:59](https://news.ycombinator.com/item?id=37119942) - [Show HN: Little Rat – Chrome extension monitors network calls of all extensions](https://github.com/dnakov/little-rat)
 * [2023-08-14, 10:13:16](https://news.ycombinator.com/item?id=37119311) - [Launch HN: Serra (YC S23) – Open-core, Python-based dbt alternative](https://news.ycombinator.com/item?id=37119311)
 * [2023-08-14, 05:37:38](https://news.ycombinator.com/item?id=37117818) - [The anesthetic effect of air at atmospheric pressure](https://pubmed.ncbi.nlm.nih.gov/1130736/)
