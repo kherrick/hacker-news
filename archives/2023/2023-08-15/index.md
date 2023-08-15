@@ -28,6 +28,7 @@
 * [2023-08-15, 12:56:52](https://news.ycombinator.com/item?id=37133388) - [Non-thermal DNA breakage by mobile-phone radiation (1800 MHz)](https://pubmed.ncbi.nlm.nih.gov/15869902/)
 * [2023-08-15, 12:31:27](https://news.ycombinator.com/item?id=37133163) - [Show HN: Llama2 Embeddings FastAPI Server](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service)
 * [2023-08-15, 12:19:33](https://news.ycombinator.com/item?id=37133054) - [The OpenTF Manifesto](https://opentf.org/)
+* [2023-08-15, 12:17:14](https://news.ycombinator.com/item?id=37133033) - [Nintendo DS cameras are the best lo-fi photo trend](https://www.polygon.com/23827844/nintendo-ds-dsi-3ds-camera-lofi-photo-trend)
 * [2023-08-15, 12:00:12](https://news.ycombinator.com/item?id=37132855) - [Metriport (YC S22) Is Hiring](https://www.ycombinator.com/companies/metriport/jobs/jsOCunE-software-engineer)
 * [2023-08-15, 11:47:44](https://news.ycombinator.com/item?id=37132754) - [Show HN: Visual Reference to CSS Selectors](https://fffuel.co/css-selectors/)
 * [2023-08-15, 11:34:26](https://news.ycombinator.com/item?id=37132651) - [Show HN: Servicer, pm2 alternative built on rust and systemd](https://servicer.dev)
@@ -61,4 +62,5 @@
 * [2023-08-15, 02:08:27](https://news.ycombinator.com/item?id=37129318) - [Webvan: The Dotcom Bubble’s Biggest Bust](https://streetfins.com/webvan-the-dotcom-bubbles-biggest-bust/)
 * [2023-08-15, 01:39:40](https://news.ycombinator.com/item?id=37129132) - [Lynn Conway's Story (2000)](https://ai.eecs.umich.edu/people/conway/LynnsStory.html)
 * [2023-08-15, 01:17:09](https://news.ycombinator.com/item?id=37128965) - [Ruth Bader Ginsburg and Gloria Steinem Fought for Your Right to Get a Beer](https://lithub.com/how-ruth-bader-ginsburg-and-gloria-steinem-fought-for-your-right-to-get-a-beer/)
+* [2023-08-15, 01:06:03](https://news.ycombinator.com/item?id=37128885) - [How to be successful as a research mathematician? Follow your gut](https://www.nature.com/articles/d41586-023-02555-z)
 * [2023-08-15, 00:52:22](https://news.ycombinator.com/item?id=37128783) - [StarCraft was never meant to be played the way Koreans played [video]](https://www.youtube.com/watch?v=FNqaR_XGwns)
