@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
+* [2023-08-15, 14:24:13](https://news.ycombinator.com/item?id=37134373) - [Schizophrenia Drugs May Have Been Off Target for Decades, Study Finds](https://www.msn.com/en-us/health/medical/schizophrenia-drugs-may-have-been-off-target-for-decades-study-finds/ar-AA1fh9Nt)
+* [2023-08-15, 14:20:40](https://news.ycombinator.com/item?id=37134338) - [Coughlin: SSDs will not kill disk drives](https://blocksandfiles.com/2023/08/15/coughlin-ssds-will-not-kill-disk-drives/)
 * [2023-08-15, 13:58:44](https://news.ycombinator.com/item?id=37134092) - [Firefox Finally Outperforming Google Chrome in SunSpider](https://www.phoronix.com/news/Firefox-Faster-SunSpider)
 * [2023-08-15, 13:14:53](https://news.ycombinator.com/item?id=37133600) - [Solar cycle is more powerful and surprising than predicted](https://theconversation.com/this-solar-cycle-the-suns-activity-is-more-powerful-and-surprising-than-predicted-209955)
 * [2023-08-15, 13:08:33](https://news.ycombinator.com/item?id=37133530) - [3 Advantages to Running FreeBSD as Your Server Operating System](https://klarasystems.com/articles/freebsd-3-advantages-to-running-freebsd-as-your-server-operating-system/)
