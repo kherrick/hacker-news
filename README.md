@@ -14,6 +14,7 @@
 * [2023-08-15, 12:31:27](https://news.ycombinator.com/item?id=37133163) - [Show HN: Llama2 Embeddings FastAPI Server](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service)
 * [2023-08-15, 12:19:33](https://news.ycombinator.com/item?id=37133054) - [The OpenTF Manifesto](https://opentf.org/)
 * [2023-08-15, 12:17:14](https://news.ycombinator.com/item?id=37133033) - [Nintendo DS cameras are the best lo-fi photo trend](https://www.polygon.com/23827844/nintendo-ds-dsi-3ds-camera-lofi-photo-trend)
+* [2023-08-15, 12:13:02](https://news.ycombinator.com/item?id=37132994) - [Acoustics expert brings rock-and-roll touch to sound of St. Peter's](https://cruxnow.com/vatican/2023/08/acoustics-expert-brings-rock-and-roll-touch-to-sound-of-st-peters)
 * [2023-08-15, 11:34:26](https://news.ycombinator.com/item?id=37132651) - [Show HN: Servicer, pm2 alternative built on Rust and systemd](https://servicer.dev)
 * [2023-08-15, 10:30:23](https://news.ycombinator.com/item?id=37132209) - [GPU-Accelerated LLM on an Orange Pi](https://blog.mlc.ai/2023/08/09/GPU-Accelerated-LLM-on-Orange-Pi)
 * [2023-08-15, 09:46:12](https://news.ycombinator.com/item?id=37131957) - [Privacy friendly ESP32 smart doorbell with Home Assistant local integration](https://tristam.ie/2023/758/)
@@ -29,7 +30,6 @@
 * [2023-08-14, 11:30:50](https://news.ycombinator.com/item?id=37119795) - [Hip hop historians who are racing to preserve its story](https://www.wired.com/story/archiving-hip-hop-history/)
 * [2023-08-14, 06:56:11](https://news.ycombinator.com/item?id=37118239) - [Decimal to fraction](https://leancrew.com/all-this/2023/08/decimal-to-fraction/)
 * [2023-08-14, 06:16:38](https://news.ycombinator.com/item?id=37118045) - [Timing with Curl (2010)](https://susam.net/blog/timing-with-curl.html)
-* [2023-08-12, 14:58:21](https://news.ycombinator.com/item?id=37100833) - [The original source code of the vi text editor, taken from System V](https://github.com/Cube9999/vi)
 
 ## [Archives](archives/index.md)
 

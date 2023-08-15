@@ -38,6 +38,7 @@
 * [2023-08-15, 12:31:27](https://news.ycombinator.com/item?id=37133163) - [Show HN: Llama2 Embeddings FastAPI Server](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service)
 * [2023-08-15, 12:19:33](https://news.ycombinator.com/item?id=37133054) - [The OpenTF Manifesto](https://opentf.org/)
 * [2023-08-15, 12:17:14](https://news.ycombinator.com/item?id=37133033) - [Nintendo DS cameras are the best lo-fi photo trend](https://www.polygon.com/23827844/nintendo-ds-dsi-3ds-camera-lofi-photo-trend)
+* [2023-08-15, 12:13:02](https://news.ycombinator.com/item?id=37132994) - [Acoustics expert brings rock-and-roll touch to sound of St. Peter's](https://cruxnow.com/vatican/2023/08/acoustics-expert-brings-rock-and-roll-touch-to-sound-of-st-peters)
 * [2023-08-15, 12:00:12](https://news.ycombinator.com/item?id=37132855) - [Metriport (YC S22) Is Hiring](https://www.ycombinator.com/companies/metriport/jobs/jsOCunE-software-engineer)
 * [2023-08-15, 11:47:44](https://news.ycombinator.com/item?id=37132754) - [Show HN: Visual Reference to CSS Selectors](https://fffuel.co/css-selectors/)
 * [2023-08-15, 11:34:26](https://news.ycombinator.com/item?id=37132651) - [Show HN: Servicer, pm2 alternative built on rust and systemd](https://servicer.dev)
