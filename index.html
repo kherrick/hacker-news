@@ -139,11 +139,11 @@
             <h4>
               <span>2023-08-15 @ 15:27:16</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37135162"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -161,7 +161,7 @@
             <h4>
               <span>2023-08-15 @ 15:10:13</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37134935"
                   >Comments</a
@@ -186,7 +186,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37134654"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -201,11 +201,11 @@
             <h4>
               <span>2023-08-15 @ 14:40:13</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37134563"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -220,11 +220,11 @@
             <h4>
               <span>2023-08-15 @ 14:36:35</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37134520"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -242,13 +242,104 @@
             <h4>
               <span>2023-08-15 @ 14:24:13</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37134373"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="37134293">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=37134293"
+              >Show HN: Layerform (YC S23) – Open-source dev environments using
+              Terraform files</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-08-15 @ 14:15:51</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37134293"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Whenever engineers run layerform spawn, we use plain .tf files
+                to give them their own "staging" environment that looks just
+                like production.
+              </p>
+              <p>
+                Many teams have a single (or too few) staging environments,
+                which developers have to queue to use. This is particularly a
+                problem when a system is large, because then engineers can't run
+                it on their machines and cannot easily test their changes in a
+                production-like environment. Often they end up with a cluttered
+                Slack channel in which engineers wait for their turn to use
+                staging. Sometimes, they don't even have that clunky channel and
+                end up merging broken code or shipping bugs to production. Lucas
+                and I decided to solve this because we previously suffered with
+                shared staging environments.
+              </p>
+              <p>
+                Layerform gives each developer their own production-like
+                environment.This eliminates the bottleneck, increasing the
+                number of deploys engineers make. Additionally, it reduces the
+                amount of bugs and rework because developers have a
+                production-like environment to develop and test against. They
+                can just run "layerform spawn" and get their own staging.
+              </p>
+              <p>
+                We wrap the MPL-licensed Terraform and allow engineers to
+                encapsulate each part of their infrastructure into layers. They
+                can then create multiple instances of a particular layer to
+                create a development environment.The benefit of using layers
+                instead of raw Terraform modules is that they're much easier to
+                write and reuse, meaning multiple development environments can
+                run on top of the same infrastructure.
+              </p>
+              <p>
+                Layerform's environments are quick and cheap to spin up because
+                they share core pieces of infrastructure. Additionally,
+                Layerform can automatically tag components in each layer, making
+                it easier for FinOps teams to manage costs and do chargebacks.
+              </p>
+              <p>
+                For example: with Layerform, a product developer can spin up
+                their own lambdas and pods for staging while still using a
+                shared Kubernetes cluster and Kafka instance. That way,
+                development environments are quicker to spin up and cheaper to
+                maintain. Each developer's layer also gets a tag, meaning FinOps
+                teams know how much each team's environments cost.
+              </p>
+              <p>
+                For the sake of transparency, the way we intend to make money is
+                by providing a managed service with governance, management, and
+                cost-control features, including turning off environments
+                automatically on inactivity or after business hours. The
+                Layerform CLI itself will remain free and open.
+              </p>
+              <p>
+                You can download the Layerform CLI right now and use it for
+                free. Currently, all the state, permissions, and layer
+                definitions stay in your cloud, under your control.
+              </p>
+              <p>
+                After the whole license change thing, I think it's also worth
+                mentioning we'll be building on top of the community's fork and
+                will consider adding support for Pulumi too.
+              </p>
+              <p>
+                We'd love your feedback on our solution to eliminate “the
+                staging bottleneck". What do you think?
+              </p>
+            </div>
           </section>
         </section>
         <section id="37134092">
@@ -263,11 +354,11 @@
             <h4>
               <span>2023-08-15 @ 13:58:44</span
               ><span class="points-container"
-                >Points: <span class="points">430</span></span
+                >Points: <span class="points">444</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37134092"
                   >Comments</a
-                ><span class="descendants">: 203</span></span
+                ><span class="descendants">: 215</span></span
               >
             </h4>
           </section>
@@ -284,7 +375,7 @@
             <h4>
               <span>2023-08-15 @ 13:58:17</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37134089"
                   >Comments</a
@@ -305,7 +396,7 @@
             <h4>
               <span>2023-08-15 @ 13:06:31</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37133504"
                   >Comments</a
@@ -326,7 +417,7 @@
             <h4>
               <span>2023-08-15 @ 12:31:27</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37133163"
                   >Comments</a
@@ -343,11 +434,11 @@
             <h4>
               <span>2023-08-15 @ 12:19:33</span
               ><span class="points-container"
-                >Points: <span class="points">207</span></span
+                >Points: <span class="points">213</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37133054"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -379,7 +470,7 @@
             <h4>
               <span>2023-08-15 @ 11:47:44</span
               ><span class="points-container"
-                >Points: <span class="points">209</span></span
+                >Points: <span class="points">215</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37132754"
                   >Comments</a
@@ -458,11 +549,11 @@
             <h4>
               <span>2023-08-15 @ 10:30:23</span
               ><span class="points-container"
-                >Points: <span class="points">154</span></span
+                >Points: <span class="points">155</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37132209"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -479,11 +570,11 @@
             <h4>
               <span>2023-08-15 @ 10:18:46</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37132136"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -499,7 +590,7 @@
             <h4>
               <span>2023-08-15 @ 09:46:12</span
               ><span class="points-container"
-                >Points: <span class="points">167</span></span
+                >Points: <span class="points">171</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37131957"
                   >Comments</a
@@ -521,11 +612,11 @@
             <h4>
               <span>2023-08-15 @ 09:18:07</span
               ><span class="points-container"
-                >Points: <span class="points">374</span></span
+                >Points: <span class="points">378</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37131802"
                   >Comments</a
-                ><span class="descendants">: 394</span></span
+                ><span class="descendants">: 398</span></span
               >
             </h4>
           </section>
@@ -546,7 +637,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37131263"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -561,11 +652,11 @@
             <h4>
               <span>2023-08-15 @ 04:21:27</span
               ><span class="points-container"
-                >Points: <span class="points">185</span></span
+                >Points: <span class="points">188</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37130138"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
           </section>
@@ -582,11 +673,11 @@
             <h4>
               <span>2023-08-15 @ 03:18:58</span
               ><span class="points-container"
-                >Points: <span class="points">233</span></span
+                >Points: <span class="points">235</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37129768"
                   >Comments</a
-                ><span class="descendants">: 319</span></span
+                ><span class="descendants">: 324</span></span
               >
             </h4>
           </section>
@@ -603,32 +694,11 @@
             <h4>
               <span>2023-08-15 @ 02:22:52</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37129417"
                   >Comments</a
                 ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="37129132">
-          <h3>
-            <a
-              class="item"
-              href="https://ai.eecs.umich.edu/people/conway/LynnsStory.html"
-              >Lynn Conway's Story (2000)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-08-15 @ 01:39:40</span
-              ><span class="points-container"
-                >Points: <span class="points">157</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37129132"
-                  >Comments</a
-                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -646,11 +716,11 @@
             <h4>
               <span>2023-08-14 @ 21:15:22</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37126890"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -672,7 +742,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37124877"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -694,7 +764,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37121418"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
           </section>
@@ -711,11 +781,11 @@
             <h4>
               <span>2023-08-14 @ 11:30:50</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37119795"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -732,7 +802,7 @@
             <h4>
               <span>2023-08-14 @ 06:56:11</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37118239"
                   >Comments</a
@@ -751,7 +821,7 @@
             <h4>
               <span>2023-08-14 @ 06:16:38</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37118045"
                   >Comments</a
@@ -775,7 +845,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37100833"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
