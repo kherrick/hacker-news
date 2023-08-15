@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-15, 22:21:13](https://news.ycombinator.com/item?id=37140049) - [XFS maintainer, Darrik Wong, steps down](https://lore.kernel.org/linux-xfs/169091989589.112530.11294854598557805230.stgit@frogsfrogsfrogs/T/#m6c9b740f7841a77e077a9fe9f96bb8818f2403bd)
 * [2023-08-15, 22:18:17](https://news.ycombinator.com/item?id=37140013) - [How Is LLaMa.cpp Possible?](https://finbarr.ca/how-is-llama-cpp-possible/)
 * [2023-08-15, 22:15:15](https://news.ycombinator.com/item?id=37139980) - [You're a cyclist who was just struck by a car driver. Why it was your fault](https://www.mcsweeneys.net/articles/youre-a-cyclist-who-was-just-struck-by-a-car-driver-heres-why-it-was-your-fault)
 * [2023-08-15, 21:42:56](https://news.ycombinator.com/item?id=37139643) - [New x86 8U servers with 32TB RAM, 480 physical cores, 15 PCIe x16 slots, 400GbE](https://lenovopress.lenovo.com/lp1684-announcing-thinksystem-v3-with-4th-gen-intel-xeon-scalable-processors)
@@ -22,13 +23,12 @@
 * [2023-08-15, 12:17:14](https://news.ycombinator.com/item?id=37133033) - [Nintendo DS cameras are the best lo-fi photo trend](https://www.polygon.com/23827844/nintendo-ds-dsi-3ds-camera-lofi-photo-trend)
 * [2023-08-15, 12:16:10](https://news.ycombinator.com/item?id=37133023) - [Why Darwin admired the earthworm](https://nautil.us/why-darwin-admired-the-humble-earthworm-361515/)
 * [2023-08-15, 09:46:12](https://news.ycombinator.com/item?id=37131957) - [Privacy friendly ESP32 smart doorbell with Home Assistant local integration](https://tristam.ie/2023/758/)
+* [2023-08-15, 09:20:15](https://news.ycombinator.com/item?id=37131812) - [Open Circuits: The Inner Beauty of Electronic Components](https://pluralistic.net/2023/08/14/hidden-worlds/#making-the-invisible-visible-and-beautiful)
 * [2023-08-15, 09:19:00](https://news.ycombinator.com/item?id=37131808) - [Virtual IBM Punch Card Data Processing (2018)](http://sims.durgadas.com/punchcards/ibm029.html)
-* [2023-08-15, 09:18:07](https://news.ycombinator.com/item?id=37131802) - [Things you forgot (or never knew) because of React](https://joshcollinsworth.com/blog/antiquated-react)
 * [2023-08-15, 02:22:52](https://news.ycombinator.com/item?id=37129417) - [Carl Linnaeus Set Out to Label All of Life](https://www.newyorker.com/magazine/2023/08/21/the-man-who-organized-nature-the-life-of-linnaeus-gunnar-broberg-book-review)
 * [2023-08-15, 01:10:56](https://news.ycombinator.com/item?id=37128929) - [Peter Pan Copyright](https://www.gosh.org/about-us/peter-pan/copyright/)
 * [2023-08-15, 01:06:03](https://news.ycombinator.com/item?id=37128885) - [How to be successful as a research mathematician? Follow your gut](https://www.nature.com/articles/d41586-023-02555-z)
 * [2023-08-14, 19:04:43](https://news.ycombinator.com/item?id=37125337) - [Bombe: Minesweeper, but you only solve each situation once](https://store.steampowered.com/app/2262930/Bombe/)
-* [2023-08-14, 11:30:50](https://news.ycombinator.com/item?id=37119795) - [Hip hop historians who are racing to preserve its story](https://www.wired.com/story/archiving-hip-hop-history/)
 * [2023-08-14, 06:56:11](https://news.ycombinator.com/item?id=37118239) - [Decimal to fraction](https://leancrew.com/all-this/2023/08/decimal-to-fraction/)
 
 ## [Archives](archives/index.md)

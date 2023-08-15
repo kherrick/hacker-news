@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
+* [2023-08-15, 22:21:13](https://news.ycombinator.com/item?id=37140049) - [XFS maintainer, Darrik Wong, steps down](https://lore.kernel.org/linux-xfs/169091989589.112530.11294854598557805230.stgit@frogsfrogsfrogs/T/#m6c9b740f7841a77e077a9fe9f96bb8818f2403bd)
 * [2023-08-15, 22:18:17](https://news.ycombinator.com/item?id=37140013) - [How Is LLaMa.cpp Possible?](https://finbarr.ca/how-is-llama-cpp-possible/)
 * [2023-08-15, 22:15:15](https://news.ycombinator.com/item?id=37139980) - [You're a cyclist who was just struck by a car driver. Why it was your fault](https://www.mcsweeneys.net/articles/youre-a-cyclist-who-was-just-struck-by-a-car-driver-heres-why-it-was-your-fault)
 * [2023-08-15, 21:42:56](https://news.ycombinator.com/item?id=37139643) - [New x86 8U servers with 32TB RAM, 480 physical cores, 15 PCIe x16 slots, 400GbE](https://lenovopress.lenovo.com/lp1684-announcing-thinksystem-v3-with-4th-gen-intel-xeon-scalable-processors)
@@ -59,6 +60,7 @@
 * [2023-08-15, 09:46:12](https://news.ycombinator.com/item?id=37131957) - [Privacy friendly ESP32 smart doorbell with Home Assistant local integration](https://tristam.ie/2023/758/)
 * [2023-08-15, 09:38:19](https://news.ycombinator.com/item?id=37131902) - [Why Americans Are So Awful to One Another](https://www.theatlantic.com/magazine/archive/2023/09/us-culture-moral-education-formation/674765/)
 * [2023-08-15, 09:28:15](https://news.ycombinator.com/item?id=37131854) - [Most bosses regret how they mandated workers return to the office](https://fortune.com/2023/08/14/bosses-regretting-return-to-office-mandates/)
+* [2023-08-15, 09:20:15](https://news.ycombinator.com/item?id=37131812) - [Open Circuits: The Inner Beauty of Electronic Components](https://pluralistic.net/2023/08/14/hidden-worlds/#making-the-invisible-visible-and-beautiful)
 * [2023-08-15, 09:19:00](https://news.ycombinator.com/item?id=37131808) - [Virtual IBM Punch Card Data Processing (2018)](http://sims.durgadas.com/punchcards/ibm029.html)
 * [2023-08-15, 09:18:07](https://news.ycombinator.com/item?id=37131802) - [Things you forgot because of React](https://joshcollinsworth.com/blog/antiquated-react)
 * [2023-08-15, 08:49:13](https://news.ycombinator.com/item?id=37131626) - [Sam Bankman-Fried is going to jail](https://arstechnica.com/tech-policy/2023/08/sam-bankman-fried-is-going-to-jail/)
