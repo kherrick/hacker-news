@@ -2,7 +2,6 @@
 
 * [2023-08-15, 15:27:16](https://news.ycombinator.com/item?id=37135162) - [Why doctors pay millions in fees that could be spent on care](https://text.npr.org/1193754380)
 * [2023-08-15, 15:10:13](https://news.ycombinator.com/item?id=37134935) - [Disney used to hate gambling. Now it’s doing a $2B sports betting deal](https://www.vox.com/2023/8/8/23825199/disney-espn-penn-barstool-2-billion-deal-explained)
-* [2023-08-15, 14:48:27](https://news.ycombinator.com/item?id=37134654) - [Predatory journals entrap unsuspecting scientists](https://www.nature.com/articles/d41586-023-02553-1)
 * [2023-08-15, 14:40:13](https://news.ycombinator.com/item?id=37134563) - [Ball milling destroys PFAS in contaminated soil](https://phys.org/news/2023-08-chemicals.html)
 * [2023-08-15, 14:36:35](https://news.ycombinator.com/item?id=37134520) - [Code Is Not Literature (2014)](https://gigamonkeys.com/code-reading/)
 * [2023-08-15, 14:24:13](https://news.ycombinator.com/item?id=37134373) - [Schizophrenia drugs may have been off target for decades, study finds](https://www.msn.com/en-us/health/medical/schizophrenia-drugs-may-have-been-off-target-for-decades-study-finds/ar-AA1fh9Nt)
@@ -21,6 +20,7 @@
 * [2023-08-15, 09:18:07](https://news.ycombinator.com/item?id=37131802) - [Things you might have missed if you’ve been in React world for a while](https://joshcollinsworth.com/blog/antiquated-react)
 * [2023-08-15, 07:40:58](https://news.ycombinator.com/item?id=37131263) - [New responsibilities](https://www.hadess.net/2023/08/new-responsibilities.html)
 * [2023-08-15, 04:21:27](https://news.ycombinator.com/item?id=37130138) - [Features of Project Loom incorporated in JDK 21](https://jdk.java.net/loom/)
+* [2023-08-15, 03:32:16](https://news.ycombinator.com/item?id=37129853) - [What coal and Jevons’ paradox tell us about AI and data](https://hex.tech/blog/jevons-paradox-demand-for-insight/)
 * [2023-08-15, 03:18:58](https://news.ycombinator.com/item?id=37129768) - [The unpublished preface to Orwell’s Animal Farm](https://mindmatters.ai/2023/08/a-warning-from-the-unpublished-preface-to-orwells-animal-farm/)
 * [2023-08-15, 02:22:52](https://news.ycombinator.com/item?id=37129417) - [Carl Linnaeus Set Out to Label All of Life](https://www.newyorker.com/magazine/2023/08/21/the-man-who-organized-nature-the-life-of-linnaeus-gunnar-broberg-book-review)
 * [2023-08-14, 21:15:22](https://news.ycombinator.com/item?id=37126890) - [Mine in the Northwest Territories provided uranium to Manhattan Project (2011)](https://maisonneuve.org/article/2011/08/12/they-never-told-us-these-things/?ref=thebrowser.com)
