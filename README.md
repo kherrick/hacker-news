@@ -3,7 +3,7 @@
 * [2023-08-15, 05:29:30](https://news.ycombinator.com/item?id=37130531) - [Ask HN: I learned useless skill of prompt engineering, how relevant will it be?](https://news.ycombinator.com/item?id=37130531)
 * [2023-08-15, 04:21:27](https://news.ycombinator.com/item?id=37130138) - [Features of Project Loom incorporated in JDK 21](https://jdk.java.net/loom/)
 * [2023-08-15, 04:09:03](https://news.ycombinator.com/item?id=37130060) - [Tell HN: t.co is adding a five-second delay to some domains](https://news.ycombinator.com/item?id=37130060)
-* [2023-08-15, 03:32:16](https://news.ycombinator.com/item?id=37129853) - [What coal and Jevons’ paradox tell us about AI and data](https://hex.tech/blog/jevons-paradox-demand-for-insight/)
+* [2023-08-15, 03:18:58](https://news.ycombinator.com/item?id=37129768) - [The unpublished preface to Orwell’s Animal Farm](https://mindmatters.ai/2023/08/a-warning-from-the-unpublished-preface-to-orwells-animal-farm/)
 * [2023-08-15, 02:08:27](https://news.ycombinator.com/item?id=37129318) - [Webvan: The Dotcom Bubble’s Biggest Bust](https://streetfins.com/webvan-the-dotcom-bubbles-biggest-bust/)
 * [2023-08-15, 01:39:40](https://news.ycombinator.com/item?id=37129132) - [Lynn Conway's Story (2000)](https://ai.eecs.umich.edu/people/conway/LynnsStory.html)
 * [2023-08-14, 23:46:02](https://news.ycombinator.com/item?id=37128293) - [Show HN: AI-town, run your own custom AI world SIM with JavaScript](https://github.com/a16z-infra/ai-town)
