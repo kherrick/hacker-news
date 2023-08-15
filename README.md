@@ -5,6 +5,7 @@
 * [2023-08-15, 13:06:31](https://news.ycombinator.com/item?id=37133504) - [Why host your own LLM?](http://marble.onl/posts/why_host_your_own_llm.html)
 * [2023-08-15, 13:05:20](https://news.ycombinator.com/item?id=37133485) - [So much for CAPTCHA then – bots can complete them quicker than humans](https://www.theregister.com/2023/08/15/so_much_for_captcha_then/)
 * [2023-08-15, 13:01:34](https://news.ycombinator.com/item?id=37133438) - [Why is Canada giving two automakers $30B in subsidies for EV battery production?](https://www.wsws.org/en/articles/2023/08/11/dnyl-a11.html)
+* [2023-08-15, 12:56:52](https://news.ycombinator.com/item?id=37133388) - [Non-thermal DNA breakage by mobile-phone radiation (1800 MHz)](https://pubmed.ncbi.nlm.nih.gov/15869902/)
 * [2023-08-15, 12:31:27](https://news.ycombinator.com/item?id=37133163) - [Show HN: Llama2 Embeddings FastAPI Server](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service)
 * [2023-08-15, 12:19:33](https://news.ycombinator.com/item?id=37133054) - [The OpenTF Manifesto](https://opentf.org/)
 * [2023-08-15, 12:00:12](https://news.ycombinator.com/item?id=37132855) - [Metriport (YC S22) Is Hiring](https://www.ycombinator.com/companies/metriport/jobs/jsOCunE-software-engineer)
@@ -27,7 +28,6 @@
 * [2023-08-14, 18:40:25](https://news.ycombinator.com/item?id=37124877) - [Next slide, please: A brief history of the corporate presentation](https://www.technologyreview.com/2023/08/11/1077232/corporate-presentations-history/)
 * [2023-08-14, 11:30:50](https://news.ycombinator.com/item?id=37119795) - [Hip hop historians who are racing to preserve its story](https://www.wired.com/story/archiving-hip-hop-history/)
 * [2023-08-14, 10:46:12](https://news.ycombinator.com/item?id=37119482) - [AST vs. Bytecode: Interpreters in the Age of Meta-Compilation [pdf]](https://stefan-marr.de/downloads/oopsla23-larose-et-al-ast-vs-bytecode-interpreters-in-the-age-of-meta-compilation.pdf)
-* [2023-08-14, 10:13:16](https://news.ycombinator.com/item?id=37119311) - [Launch HN: Serra (YC S23) – Open-core, Python-based dbt alternative](https://news.ycombinator.com/item?id=37119311)
 * [2023-08-14, 06:16:38](https://news.ycombinator.com/item?id=37118045) - [Timing with Curl (2010)](https://susam.net/blog/timing-with-curl.html)
 * [2023-08-12, 14:58:21](https://news.ycombinator.com/item?id=37100833) - [The original source code of the vi text editor, taken from System V](https://github.com/Cube9999/vi)
 
