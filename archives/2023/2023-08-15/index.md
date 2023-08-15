@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
+* [2023-08-15, 22:48:21](https://news.ycombinator.com/item?id=37140291) - [We Call on FOSS Contributors to “Exit Zoom”](https://sfconservancy.org/news/2023/aug/15/exit-zoom/)
+* [2023-08-15, 22:35:09](https://news.ycombinator.com/item?id=37140159) - [Modern CSV version 2 is now available](https://www.moderncsv.com/modern-csv-2-is-now-available/)
 * [2023-08-15, 22:21:13](https://news.ycombinator.com/item?id=37140049) - [XFS maintainer, Darrik Wong, steps down](https://lore.kernel.org/linux-xfs/169091989589.112530.11294854598557805230.stgit@frogsfrogsfrogs/T/#m6c9b740f7841a77e077a9fe9f96bb8818f2403bd)
 * [2023-08-15, 22:18:17](https://news.ycombinator.com/item?id=37140013) - [How Is LLaMa.cpp Possible?](https://finbarr.ca/how-is-llama-cpp-possible/)
 * [2023-08-15, 22:15:15](https://news.ycombinator.com/item?id=37139980) - [You're a cyclist who was just struck by a car driver. Why it was your fault](https://www.mcsweeneys.net/articles/youre-a-cyclist-who-was-just-struck-by-a-car-driver-heres-why-it-was-your-fault)

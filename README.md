@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-15, 22:48:21](https://news.ycombinator.com/item?id=37140291) - [We Call on FOSS Contributors to “Exit Zoom”](https://sfconservancy.org/news/2023/aug/15/exit-zoom/)
+* [2023-08-15, 22:35:09](https://news.ycombinator.com/item?id=37140159) - [Modern CSV version 2 is now available](https://www.moderncsv.com/modern-csv-2-is-now-available/)
 * [2023-08-15, 22:21:13](https://news.ycombinator.com/item?id=37140049) - [XFS maintainer, Darrik Wong, steps down](https://lore.kernel.org/linux-xfs/169091989589.112530.11294854598557805230.stgit@frogsfrogsfrogs/T/#m6c9b740f7841a77e077a9fe9f96bb8818f2403bd)
 * [2023-08-15, 22:18:17](https://news.ycombinator.com/item?id=37140013) - [How Is LLaMa.cpp Possible?](https://finbarr.ca/how-is-llama-cpp-possible/)
 * [2023-08-15, 22:15:15](https://news.ycombinator.com/item?id=37139980) - [You're a cyclist who was just struck by a car driver. Why it was your fault](https://www.mcsweeneys.net/articles/youre-a-cyclist-who-was-just-struck-by-a-car-driver-heres-why-it-was-your-fault)
@@ -14,9 +16,7 @@
 * [2023-08-15, 17:00:32](https://news.ycombinator.com/item?id=37136340) - [Seam (YC S20), API for IoT, Is Hiring a Founding PM](https://www.ycombinator.com/companies/seam/jobs/9VKC412-product-manager)
 * [2023-08-15, 14:36:35](https://news.ycombinator.com/item?id=37134520) - [Code Is Not Literature (2014)](https://gigamonkeys.com/code-reading/)
 * [2023-08-15, 14:15:51](https://news.ycombinator.com/item?id=37134293) - [Show HN: Layerform – Open-source development environments using Terraform files](https://github.com/ergomake/layerform)
-* [2023-08-15, 13:58:44](https://news.ycombinator.com/item?id=37134092) - [Firefox finally outperforming Google Chrome in SunSpider](https://www.phoronix.com/news/Firefox-Faster-SunSpider)
 * [2023-08-15, 13:58:17](https://news.ycombinator.com/item?id=37134089) - [Selling open-source software](https://thenewstack.io/entrepreneurship-for-engineers-selling-open-source-software/)
-* [2023-08-15, 13:06:31](https://news.ycombinator.com/item?id=37133504) - [Why host your own LLM?](http://marble.onl/posts/why_host_your_own_llm.html)
 * [2023-08-15, 12:31:27](https://news.ycombinator.com/item?id=37133163) - [Show HN: Llama2 Embeddings FastAPI Server](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service)
 * [2023-08-15, 12:28:20](https://news.ycombinator.com/item?id=37133128) - [Show HN: Lottielab – Create product animations in the browser easily](https://www.lottielab.com/)
 * [2023-08-15, 12:19:33](https://news.ycombinator.com/item?id=37133054) - [The OpenTF Manifesto](https://opentf.org/)
