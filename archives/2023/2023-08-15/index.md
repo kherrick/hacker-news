@@ -14,6 +14,7 @@
 * [2023-08-15, 08:45:47](https://news.ycombinator.com/item?id=37131604) - [Chrome is dead for those who uses ad-blockers](https://news.ycombinator.com/item?id=37131604)
 * [2023-08-15, 08:38:31](https://news.ycombinator.com/item?id=37131559) - [Xitter Broke Nitter Again](https://github.com/zedeus/nitter/issues/983)
 * [2023-08-15, 08:21:11](https://news.ycombinator.com/item?id=37131477) - [Continuous batch enables 23x throughput in LLM inference and reduce p50 latency](https://www.anyscale.com/blog/continuous-batching-llm-inference)
+* [2023-08-15, 07:53:16](https://news.ycombinator.com/item?id=37131343) - [Thoughts on the Remarkable 2](https://variousbits.net/2023/08/13/thoughts-on-the-remarkable-2/)
 * [2023-08-15, 07:45:14](https://news.ycombinator.com/item?id=37131287) - [Iraq lifts ban on Telegram after messaging app complies with authorities](https://techcrunch.com/2023/08/14/iraq-lifts-ban-on-telegram-after-messaging-app-complies-with-authorities/)
 * [2023-08-15, 07:40:58](https://news.ycombinator.com/item?id=37131263) - [New RedHat Responsibilities](https://www.hadess.net/2023/08/new-responsibilities.html)
 * [2023-08-15, 06:23:33](https://news.ycombinator.com/item?id=37130832) - [WhoFundsWho: Instantly see who funds the organizations you are reading about](https://whofundswho.com/)
