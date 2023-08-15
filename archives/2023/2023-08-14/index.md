@@ -92,6 +92,7 @@
 * [2023-08-14, 08:14:43](https://news.ycombinator.com/item?id=37118633) - [Python: Just Write SQL](https://joaodlf.com/python-just-write-sql)
 * [2023-08-14, 07:42:08](https://news.ycombinator.com/item?id=37118452) - [Matters Computational – Ideas, Algorithms, Source Code [pdf]](https://www.jjj.de/fxt/fxtbook.pdf)
 * [2023-08-14, 07:18:44](https://news.ycombinator.com/item?id=37118344) - [Momentum, a DIY 12-voice virtual analogue polyphonic synthesizer based on TSynth](http://electrotechnique.cc/Momentum.html)
+* [2023-08-14, 06:56:11](https://news.ycombinator.com/item?id=37118239) - [Decimal to Fraction](https://leancrew.com/all-this/2023/08/decimal-to-fraction/)
 * [2023-08-14, 06:48:53](https://news.ycombinator.com/item?id=37118195) - [Migrating Netflix to GraphQL Safely](https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72?gi=6070ab8bb55c)
 * [2023-08-14, 06:41:02](https://news.ycombinator.com/item?id=37118166) - [Ask HN: Getting Rid of the Founder?](https://news.ycombinator.com/item?id=37118166)
 * [2023-08-14, 06:32:47](https://news.ycombinator.com/item?id=37118124) - [Veilid is an open-source, P2P, mobile-ﬁrst, networked application framework](https://veilid.com/)

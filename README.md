@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-15, 13:58:44](https://news.ycombinator.com/item?id=37134092) - [Firefox Finally Outperforming Google Chrome in SunSpider](https://www.phoronix.com/news/Firefox-Faster-SunSpider)
 * [2023-08-15, 13:14:53](https://news.ycombinator.com/item?id=37133600) - [Solar cycle is more powerful and surprising than predicted](https://theconversation.com/this-solar-cycle-the-suns-activity-is-more-powerful-and-surprising-than-predicted-209955)
-* [2023-08-15, 13:08:33](https://news.ycombinator.com/item?id=37133530) - [3 Advantages to Running FreeBSD as Your Server Operating System](https://klarasystems.com/articles/freebsd-3-advantages-to-running-freebsd-as-your-server-operating-system/)
+* [2023-08-15, 13:08:33](https://news.ycombinator.com/item?id=37133530) - [Advantages to running FreeBSD as a server operating system](https://klarasystems.com/articles/freebsd-3-advantages-to-running-freebsd-as-your-server-operating-system/)
 * [2023-08-15, 13:06:31](https://news.ycombinator.com/item?id=37133504) - [Why host your own LLM?](http://marble.onl/posts/why_host_your_own_llm.html)
 * [2023-08-15, 13:05:20](https://news.ycombinator.com/item?id=37133485) - [So much for CAPTCHA then – bots can complete them quicker than humans](https://www.theregister.com/2023/08/15/so_much_for_captcha_then/)
 * [2023-08-15, 12:31:27](https://news.ycombinator.com/item?id=37133163) - [Show HN: Llama2 Embeddings FastAPI Server](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service)
@@ -22,12 +23,11 @@
 * [2023-08-14, 23:46:02](https://news.ycombinator.com/item?id=37128293) - [Show HN: AI-town, run your own custom AI world SIM with JavaScript](https://github.com/a16z-infra/ai-town)
 * [2023-08-14, 23:14:28](https://news.ycombinator.com/item?id=37128044) - [Internet Archive responds to recording industry lawsuit targeting obsolete media](https://blog.archive.org/2023/08/14/internet-archive-responds-to-recording-industry-lawsuit-targeting-obsolete-media/)
 * [2023-08-14, 19:42:17](https://news.ycombinator.com/item?id=37125830) - [OpenFarm – a free and open database and web application for gardening knowledge](https://openfarm.cc)
-* [2023-08-14, 19:04:43](https://news.ycombinator.com/item?id=37125337) - [Bombe: Minesweeper, but you only solve each situation once](https://store.steampowered.com/app/2262930/Bombe/)
 * [2023-08-14, 18:52:54](https://news.ycombinator.com/item?id=37125118) - [Show HN: LLMs can generate valid JSON 100% of the time](https://github.com/normal-computing/outlines)
-* [2023-08-14, 18:40:25](https://news.ycombinator.com/item?id=37124877) - [Next slide, please: A brief history of the corporate presentation](https://www.technologyreview.com/2023/08/11/1077232/corporate-presentations-history/)
 * [2023-08-14, 11:30:50](https://news.ycombinator.com/item?id=37119795) - [Hip hop historians who are racing to preserve its story](https://www.wired.com/story/archiving-hip-hop-history/)
 * [2023-08-14, 10:46:12](https://news.ycombinator.com/item?id=37119482) - [AST vs. Bytecode: Interpreters in the Age of Meta-Compilation [pdf]](https://stefan-marr.de/downloads/oopsla23-larose-et-al-ast-vs-bytecode-interpreters-in-the-age-of-meta-compilation.pdf)
 * [2023-08-14, 10:13:16](https://news.ycombinator.com/item?id=37119311) - [Launch HN: Serra (YC S23) – Open-core, Python-based dbt alternative](https://news.ycombinator.com/item?id=37119311)
+* [2023-08-14, 06:56:11](https://news.ycombinator.com/item?id=37118239) - [Decimal to Fraction](https://leancrew.com/all-this/2023/08/decimal-to-fraction/)
 * [2023-08-14, 06:16:38](https://news.ycombinator.com/item?id=37118045) - [Timing with Curl (2010)](https://susam.net/blog/timing-with-curl.html)
 * [2023-08-12, 14:58:21](https://news.ycombinator.com/item?id=37100833) - [The original source code of the vi text editor, taken from System V](https://github.com/Cube9999/vi)
 
