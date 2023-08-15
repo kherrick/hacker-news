@@ -9,7 +9,7 @@
 * [2023-08-15, 17:38:10](https://news.ycombinator.com/item?id=37136898) - [Opendream: A layer-based UI for Stable Diffusion](https://github.com/varunshenoy/opendream)
 * [2023-08-15, 17:00:32](https://news.ycombinator.com/item?id=37136340) - [Seam (YC S20), API for IoT, Is Hiring a Founding PM](https://www.ycombinator.com/companies/seam/jobs/9VKC412-product-manager)
 * [2023-08-15, 14:36:35](https://news.ycombinator.com/item?id=37134520) - [Code Is Not Literature (2014)](https://gigamonkeys.com/code-reading/)
-* [2023-08-15, 14:15:51](https://news.ycombinator.com/item?id=37134293) - [Show HN: Layerform – Open-source development environments using Terraform files](https://news.ycombinator.com/item?id=37134293)
+* [2023-08-15, 14:15:51](https://news.ycombinator.com/item?id=37134293) - [Show HN: Layerform – Open-source development environments using Terraform files](https://github.com/ergomake/layerform)
 * [2023-08-15, 13:58:44](https://news.ycombinator.com/item?id=37134092) - [Firefox finally outperforming Google Chrome in SunSpider](https://www.phoronix.com/news/Firefox-Faster-SunSpider)
 * [2023-08-15, 13:58:17](https://news.ycombinator.com/item?id=37134089) - [Selling open-source software](https://thenewstack.io/entrepreneurship-for-engineers-selling-open-source-software/)
 * [2023-08-15, 13:06:31](https://news.ycombinator.com/item?id=37133504) - [Why host your own LLM?](http://marble.onl/posts/why_host_your_own_llm.html)
