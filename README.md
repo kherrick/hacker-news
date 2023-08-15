@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-15, 19:19:16](https://news.ycombinator.com/item?id=37138102) - [Asteroid ZTm0038 with a >3% impact probability](https://newton.spacedys.com/neodys2/NEOScan/risk_page/ZTm0038/index_summary_ZTm0038.html)
 * [2023-08-15, 18:54:38](https://news.ycombinator.com/item?id=37137781) - [The Future of Terraform Must Be Open](https://blog.gruntwork.io/the-future-of-terraform-must-be-open-ab0b9ba65bca?gi=c07f9cd96456)
 * [2023-08-15, 18:41:43](https://news.ycombinator.com/item?id=37137630) - [Employees in Asia are spending most time looking busy at work, says Slack report](https://www.cnbc.com/2023/08/14/employees-in-asia-are-spending-the-most-time-looking-busy-at-work.html)
 * [2023-08-15, 17:55:30](https://news.ycombinator.com/item?id=37137130) - [Private jet came ‘within 100 feet’ of colliding with Southwest plane, NTSB says](https://www.dallasnews.com/business/airlines/2023/08/14/ntsb-probes-near-collision-of-southwest-airlines-business-jets-in-san-diego/)
@@ -21,7 +22,6 @@
 * [2023-08-15, 09:46:12](https://news.ycombinator.com/item?id=37131957) - [Privacy friendly ESP32 smart doorbell with Home Assistant local integration](https://tristam.ie/2023/758/)
 * [2023-08-15, 09:18:07](https://news.ycombinator.com/item?id=37131802) - [Things you forgot (or never knew) because of React](https://joshcollinsworth.com/blog/antiquated-react)
 * [2023-08-15, 07:40:58](https://news.ycombinator.com/item?id=37131263) - [New responsibilities](https://www.hadess.net/2023/08/new-responsibilities.html)
-* [2023-08-15, 04:21:27](https://news.ycombinator.com/item?id=37130138) - [Features of Project Loom incorporated in JDK 21](https://jdk.java.net/loom/)
 * [2023-08-15, 03:24:18](https://news.ycombinator.com/item?id=37129799) - [Wright's Book of Poultry (1911)](https://archive.org/details/wrightsbookofpou00wrig)
 * [2023-08-15, 02:22:52](https://news.ycombinator.com/item?id=37129417) - [Carl Linnaeus Set Out to Label All of Life](https://www.newyorker.com/magazine/2023/08/21/the-man-who-organized-nature-the-life-of-linnaeus-gunnar-broberg-book-review)
 * [2023-08-15, 01:06:03](https://news.ycombinator.com/item?id=37128885) - [How to be successful as a research mathematician? Follow your gut](https://www.nature.com/articles/d41586-023-02555-z)
