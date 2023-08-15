@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-15, 04:09:03](https://news.ycombinator.com/item?id=37130060) - [Tell HN: T.co is adding a ~5 second delay to domains they don't like](https://news.ycombinator.com/item?id=37130060)
 * [2023-08-15, 03:34:10](https://news.ycombinator.com/item?id=37129867) - [S.F.’s top-paid employee makes $640K. Here’s what every city worker gets paid](https://www.sfchronicle.com/projects/2023/san-francisco-employee-pay/)
 * [2023-08-15, 03:28:47](https://news.ycombinator.com/item?id=37129830) - [LED lights will change the world as incandescent bulbs phase out](https://www.vox.com/technology/23832211/light-bulb-ban-led-incandescent-energy-efficient-climate-sleep)
 * [2023-08-15, 03:05:04](https://news.ycombinator.com/item?id=37129690) - [Brandon Gilles Dies from Long-Covid, Electrical Engineer and Spatial AI Pioneer](https://www.mcphagwara.com/articles/brandon-gilles-obituary/)
@@ -26,6 +25,7 @@
 * [2023-08-14, 13:48:02](https://news.ycombinator.com/item?id=37120967) - [I built a garbage collector for a language that doesn’t need one](https://claytonwramsey.github.io/2023/08/14/dumpster.html)
 * [2023-08-14, 12:59:07](https://news.ycombinator.com/item?id=37120510) - [A C parser for CREATE and ALTER TABLE SQLite statements](https://github.com/marcobambini/sqlite-createtable-parser)
 * [2023-08-14, 11:49:59](https://news.ycombinator.com/item?id=37119942) - [Show HN: Little Rat – Chrome extension monitors network calls of all extensions](https://github.com/dnakov/little-rat)
+* [2023-08-14, 11:06:39](https://news.ycombinator.com/item?id=37119623) - [PicoLisp Explored: On Coroutines](https://picolisp-explored.com/picolixp-explored-on-coroutines)
 * [2023-08-14, 10:13:16](https://news.ycombinator.com/item?id=37119311) - [Launch HN: Serra (YC S23) – Open-core, Python-based dbt alternative](https://news.ycombinator.com/item?id=37119311)
 * [2023-08-14, 05:37:38](https://news.ycombinator.com/item?id=37117818) - [The anesthetic effect of air at atmospheric pressure](https://pubmed.ncbi.nlm.nih.gov/1130736/)
 * [2023-08-14, 05:06:02](https://news.ycombinator.com/item?id=37117649) - [The Cost of Convenience](https://surma.dev/things/cost-of-convenience/)
