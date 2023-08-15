@@ -98,6 +98,7 @@
 * [2023-08-14, 06:31:13](https://news.ycombinator.com/item?id=37118114) - [Is Venus in some way tidally locked to Earth?](https://astronomy.stackexchange.com/questions/36488/is-venus-in-some-way-tidally-locked-to-earth)
 * [2023-08-14, 06:29:02](https://news.ycombinator.com/item?id=37118098) - [Semantic Code Reviews – Simple and direct comments without drama](https://www.m31coding.com/blog/semantic-reviews.html)
 * [2023-08-14, 06:25:04](https://news.ycombinator.com/item?id=37118081) - [Fediverse and Naive Bayes: The Grandfather of Spam Filters Still Making Waves](https://pixelfed.blog/p/2023/feature/autospam-and-naive-bayes-the-grandfather-of-spam-filters-still-making-waves)
+* [2023-08-14, 06:16:38](https://news.ycombinator.com/item?id=37118045) - [Timing with Curl (2010)](https://susam.net/blog/timing-with-curl.html)
 * [2023-08-14, 05:37:38](https://news.ycombinator.com/item?id=37117818) - [The anesthetic effect of air at atmospheric pressure](https://pubmed.ncbi.nlm.nih.gov/1130736/)
 * [2023-08-14, 05:06:12](https://news.ycombinator.com/item?id=37117650) - [Why Rivian Tires Sometimes Last as Little as 6k Miles](https://jalopnik.com/why-rivian-ev-tires-do-not-last-long-6000-miles-1850729545)
 * [2023-08-14, 05:06:02](https://news.ycombinator.com/item?id=37117649) - [The Cost of Convenience](https://surma.dev/things/cost-of-convenience/)
