@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
+* [2023-08-15, 17:54:13](https://news.ycombinator.com/item?id=37137110) - [We reduced the cost of building Twitter at Twitter-scale by 100x](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
+* [2023-08-15, 17:38:10](https://news.ycombinator.com/item?id=37136898) - [Opendream: A Layer Based UI for Stable Diffusion](https://github.com/varunshenoy/opendream)
 * [2023-08-15, 17:03:23](https://news.ycombinator.com/item?id=37136390) - [Does the “Learn Vim the Hard Way” website still exist?](https://news.ycombinator.com/item?id=37136390)
 * [2023-08-15, 17:00:32](https://news.ycombinator.com/item?id=37136340) - [Seam (YC S20), API for IoT, Is Hiring a Founding PM](https://www.ycombinator.com/companies/seam/jobs/9VKC412-product-manager)
 * [2023-08-15, 16:56:54](https://news.ycombinator.com/item?id=37136280) - [Harvard tells students to go on food stamps despite having a $53B endowment](https://www.msn.com/en-us/money/news/harvard-university-encourages-students-to-go-on-food-stamps-even-though-its-the-richest-school-in-the-world-with-a-53-billion-endowment/ar-AA1f1i5f)
 * [2023-08-15, 16:41:51](https://news.ycombinator.com/item?id=37136111) - [\"About 67k” sites are banned from submission on HN, the list is kept secret](https://news.ycombinator.com/item?id=37130147)
+* [2023-08-15, 15:52:34](https://news.ycombinator.com/item?id=37135465) - [China Stops Publishing Youth Unemployment Numbers Amid Faltering Economy](https://www.taiwanplus.com/news/world-news/china/230815030/china-stops-publishing-youth-unemployment-numbers-amid-faltering-economy)
 * [2023-08-15, 15:27:16](https://news.ycombinator.com/item?id=37135162) - [Why doctors pay millions in fees that could be spent on care](https://text.npr.org/1193754380)
 * [2023-08-15, 15:10:13](https://news.ycombinator.com/item?id=37134935) - [Disney used to hate gambling. Now it’s doing a $2B sports betting deal](https://www.vox.com/2023/8/8/23825199/disney-espn-penn-barstool-2-billion-deal-explained)
 * [2023-08-15, 14:56:40](https://news.ycombinator.com/item?id=37134770) - [Ask HN: PayPal's negligence and incompetence has cost me $270. What can I do?](https://news.ycombinator.com/item?id=37134770)
