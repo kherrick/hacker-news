@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
+* [2023-08-15, 23:26:02](https://news.ycombinator.com/item?id=37140681) - [Ted's Notes on Pawpaws](https://toyrus.ngrok.io/~ted/pawpaws/)
+* [2023-08-15, 22:50:54](https://news.ycombinator.com/item?id=37140320) - [Bank of Ireland IT blunder allows customers who have no money get access to cash](https://www.independent.ie/business/personal-finance/bank-of-ireland-it-blunder-allows-customers-who-have-no-money-get-access-to-cash-at-atms/a510070628.html)
 * [2023-08-15, 22:48:21](https://news.ycombinator.com/item?id=37140291) - [We Call on FOSS Contributors to “Exit Zoom”](https://sfconservancy.org/news/2023/aug/15/exit-zoom/)
 * [2023-08-15, 22:35:09](https://news.ycombinator.com/item?id=37140159) - [Modern CSV version 2 is now available](https://www.moderncsv.com/modern-csv-2-is-now-available/)
 * [2023-08-15, 22:21:13](https://news.ycombinator.com/item?id=37140049) - [XFS maintainer, Darrik Wong, steps down](https://lore.kernel.org/linux-xfs/169091989589.112530.11294854598557805230.stgit@frogsfrogsfrogs/T/#m6c9b740f7841a77e077a9fe9f96bb8818f2403bd)
@@ -15,6 +17,7 @@
 * [2023-08-15, 20:06:17](https://news.ycombinator.com/item?id=37138691) - [Requiring ink to scan a document–yet another insult from the printer industry](https://arstechnica.com/gadgets/2023/08/the-printers-that-require-ink-to-scan-and-fax/)
 * [2023-08-15, 20:05:43](https://news.ycombinator.com/item?id=37138681) - [ISPs complain that listing every fee is too hard, urge FCC to scrap new rule](https://arstechnica.com/tech-policy/2023/08/isps-complain-that-listing-every-fee-is-too-hard-urge-fcc-to-scrap-new-rule/)
 * [2023-08-15, 20:05:06](https://news.ycombinator.com/item?id=37138672) - [My Deep Learning Rig](https://nonint.com/2022/05/30/my-deep-learning-rig/)
+* [2023-08-15, 20:04:46](https://news.ycombinator.com/item?id=37138667) - [The Five-Dollar Model: Generating Game Maps and Sprites from Sentence Embeddings](https://arxiv.org/abs/2308.04052)
 * [2023-08-15, 19:19:16](https://news.ycombinator.com/item?id=37138102) - [Asteroid ZTm0038 with a >3% impact probability](https://newton.spacedys.com/neodys2/NEOScan/risk_page/ZTm0038/index_summary_ZTm0038.html)
 * [2023-08-15, 18:57:16](https://news.ycombinator.com/item?id=37137810) - [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
 * [2023-08-15, 18:54:38](https://news.ycombinator.com/item?id=37137781) - [The Future of Terraform Must Be Open](https://blog.gruntwork.io/the-future-of-terraform-must-be-open-ab0b9ba65bca?gi=c07f9cd96456)
@@ -75,6 +78,7 @@
 * [2023-08-15, 06:23:33](https://news.ycombinator.com/item?id=37130832) - [WhoFundsWho: Instantly see who funds the organizations you are reading about](https://whofundswho.com/)
 * [2023-08-15, 05:33:37](https://news.ycombinator.com/item?id=37130562) - [Best Time to Water – Morning, Noon or Evening?](https://www.gardenmyths.com/best-time-water-morning/)
 * [2023-08-15, 05:29:30](https://news.ycombinator.com/item?id=37130531) - [Ask HN: I learned useless skill of prompt engineering, how relevant will it be?](https://news.ycombinator.com/item?id=37130531)
+* [2023-08-15, 04:28:43](https://news.ycombinator.com/item?id=37130200) - [Exploring the design space of binary search trees](https://rtheunissen.github.io/bst/)
 * [2023-08-15, 04:21:27](https://news.ycombinator.com/item?id=37130138) - [Features of Project Loom incorporated in JDK 21](https://jdk.java.net/loom/)
 * [2023-08-15, 04:19:10](https://news.ycombinator.com/item?id=37130120) - [Thoughts on [Turning] 29](https://andrew-quinn.me/29/)
 * [2023-08-15, 04:09:03](https://news.ycombinator.com/item?id=37130060) - [Tell HN: T.co is adding a ~5 second delay to domains they don't like](https://news.ycombinator.com/item?id=37130060)
