@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-08-15, 09:58:53",
+      "https://news.ycombinator.com/item?id=37132025"
+    ],
+    [
+      "How to find out if programming is for you",
+      "https://www.zackproser.com/blog/first-see-if-youve-got-the-bug"
+    ]
+  ],
+  [
+    [
+      "2023-08-15, 09:38:19",
+      "https://news.ycombinator.com/item?id=37131902"
+    ],
+    [
+      "Why Americans Are So Awful to One Another",
+      "https://www.theatlantic.com/magazine/archive/2023/09/us-culture-moral-education-formation/674765/"
+    ]
+  ],
+  [
+    [
+      "2023-08-15, 09:18:07",
+      "https://news.ycombinator.com/item?id=37131802"
+    ],
+    [
+      "Things you forgot because of React",
+      "https://joshcollinsworth.com/blog/antiquated-react"
+    ]
+  ],
+  [
+    [
       "2023-08-15, 08:49:13",
       "https://news.ycombinator.com/item?id=37131626"
     ],
@@ -27,6 +57,16 @@
     [
       "Continuous batching to increase LLM inference throughput and reduce p50 latency",
       "https://www.anyscale.com/blog/continuous-batching-llm-inference"
+    ]
+  ],
+  [
+    [
+      "2023-08-15, 07:40:58",
+      "https://news.ycombinator.com/item?id=37131263"
+    ],
+    [
+      "New RedHat Responsibilities",
+      "https://www.hadess.net/2023/08/new-responsibilities.html"
     ]
   ],
   [
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2023-08-14, 19:13:12",
-      "https://news.ycombinator.com/item?id=37125458"
-    ],
-    [
-      "Study shows dementia more common in older adults with vision issues",
-      "https://www.michiganmedicine.org/health-lab/study-shows-dementia-more-common-older-adults-vision-issues"
-    ]
-  ],
-  [
-    [
       "2023-08-14, 19:04:43",
       "https://news.ycombinator.com/item?id=37125337"
     ],
@@ -157,16 +187,6 @@
     [
       "JWST spots giant black holes all over the early universe",
       "https://www.quantamagazine.org/jwst-spots-giant-black-holes-all-over-the-early-universe-20230814/"
-    ]
-  ],
-  [
-    [
-      "2023-08-14, 17:01:29",
-      "https://news.ycombinator.com/item?id=37123455"
-    ],
-    [
-      "EasyPost (YC S13) Is Hiring",
-      "https://www.easypost.com/careers"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2023-08-14, 05:06:12",
-      "https://news.ycombinator.com/item?id=37117650"
-    ],
-    [
-      "Why Rivian Tires Sometimes Last as Little as 6k Miles",
-      "https://jalopnik.com/why-rivian-ev-tires-do-not-last-long-6000-miles-1850729545"
-    ]
-  ],
-  [
-    [
       "2023-08-14, 05:06:02",
       "https://news.ycombinator.com/item?id=37117649"
     ],
     [
       "The Cost of Convenience",
       "https://surma.dev/things/cost-of-convenience/"
-    ]
-  ],
-  [
-    [
-      "2023-08-13, 23:20:05",
-      "https://news.ycombinator.com/item?id=37115614"
-    ],
-    [
-      "Emulating x86 on X64 on Aarch64",
-      "https://neugierig.org/software/blog/2023/08/x86-x64-aarch64.html"
     ]
   ],
   [
