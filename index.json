@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-08-15, 09:28:15",
+      "https://news.ycombinator.com/item?id=37131854"
+    ],
+    [
+      "Most bosses regret how they mandated workers return to the office",
+      "https://fortune.com/2023/08/14/bosses-regretting-return-to-office-mandates/"
+    ]
+  ],
+  [
+    [
       "2023-08-15, 09:18:07",
       "https://news.ycombinator.com/item?id=37131802"
     ],
@@ -57,6 +67,16 @@
     [
       "Continuous batching to increase LLM inference throughput and reduce p50 latency",
       "https://www.anyscale.com/blog/continuous-batching-llm-inference"
+    ]
+  ],
+  [
+    [
+      "2023-08-15, 07:53:16",
+      "https://news.ycombinator.com/item?id=37131343"
+    ],
+    [
+      "Thoughts on the Remarkable 2",
+      "https://variousbits.net/2023/08/13/thoughts-on-the-remarkable-2/"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "A C parser for CREATE and ALTER TABLE SQLite statements",
       "https://github.com/marcobambini/sqlite-createtable-parser"
-    ]
-  ],
-  [
-    [
-      "2023-08-14, 11:49:59",
-      "https://news.ycombinator.com/item?id=37119942"
-    ],
-    [
-      "Show HN: Little Rat – Chrome extension monitors network calls of all extensions",
-      "https://github.com/dnakov/little-rat"
-    ]
-  ],
-  [
-    [
-      "2023-08-14, 11:06:39",
-      "https://news.ycombinator.com/item?id=37119623"
-    ],
-    [
-      "PicoLisp Explored: On Coroutines",
-      "https://picolisp-explored.com/picolixp-explored-on-coroutines"
     ]
   ],
   [
