@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
 * [2023-08-15, 22:18:17](https://news.ycombinator.com/item?id=37140013) - [How Is LLaMa.cpp Possible?](https://finbarr.ca/how-is-llama-cpp-possible/)
+* [2023-08-15, 22:15:15](https://news.ycombinator.com/item?id=37139980) - [You're a cyclist who was just struck by a car driver. Why it was your fault](https://www.mcsweeneys.net/articles/youre-a-cyclist-who-was-just-struck-by-a-car-driver-heres-why-it-was-your-fault)
 * [2023-08-15, 21:42:56](https://news.ycombinator.com/item?id=37139643) - [New x86 8U servers with 32TB RAM, 480 physical cores, 15 PCIe x16 slots, 400GbE](https://lenovopress.lenovo.com/lp1684-announcing-thinksystem-v3-with-4th-gen-intel-xeon-scalable-processors)
 * [2023-08-15, 20:51:28](https://news.ycombinator.com/item?id=37139142) - [4M Coloradans notified their medical data was exposed in MOVEit incident](https://www.scmagazine.com/news/colorado-notifies-4-million-people-that-their-medical-data-was-exposed-in-third-party-moveit-incident)
 * [2023-08-15, 20:15:27](https://news.ycombinator.com/item?id=37138807) - [How should I read type system notation?](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation)
