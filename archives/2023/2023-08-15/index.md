@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
 * [2023-08-15, 15:27:16](https://news.ycombinator.com/item?id=37135162) - [Why doctors pay millions in fees that could be spent on care](https://text.npr.org/1193754380)
+* [2023-08-15, 15:10:13](https://news.ycombinator.com/item?id=37134935) - [Disney used to hate gambling. Now it’s doing a $2B sports betting deal](https://www.vox.com/2023/8/8/23825199/disney-espn-penn-barstool-2-billion-deal-explained)
 * [2023-08-15, 14:56:40](https://news.ycombinator.com/item?id=37134770) - [Ask HN: PayPal's negligence and incompetence has cost me $270. What can I do?](https://news.ycombinator.com/item?id=37134770)
 * [2023-08-15, 14:48:27](https://news.ycombinator.com/item?id=37134654) - [Predatory journals entrap unsuspecting scientists](https://www.nature.com/articles/d41586-023-02553-1)
 * [2023-08-15, 14:40:13](https://news.ycombinator.com/item?id=37134563) - [Ball milling destroys PFAS in contaminated soil](https://phys.org/news/2023-08-chemicals.html)
@@ -13,6 +14,7 @@
 * [2023-08-15, 14:20:40](https://news.ycombinator.com/item?id=37134338) - [Coughlin: SSDs will not kill disk drives](https://blocksandfiles.com/2023/08/15/coughlin-ssds-will-not-kill-disk-drives/)
 * [2023-08-15, 14:20:16](https://news.ycombinator.com/item?id=37134329) - [Disney’s Taylor Swift Era](https://stratechery.com/2023/disneys-taylor-swift-era/)
 * [2023-08-15, 13:58:44](https://news.ycombinator.com/item?id=37134092) - [Firefox Finally Outperforming Google Chrome in SunSpider](https://www.phoronix.com/news/Firefox-Faster-SunSpider)
+* [2023-08-15, 13:58:17](https://news.ycombinator.com/item?id=37134089) - [Entrepreneurship for Engineers: Selling Open Source Software](https://thenewstack.io/entrepreneurship-for-engineers-selling-open-source-software/)
 * [2023-08-15, 13:14:53](https://news.ycombinator.com/item?id=37133600) - [Solar cycle is more powerful and surprising than predicted](https://theconversation.com/this-solar-cycle-the-suns-activity-is-more-powerful-and-surprising-than-predicted-209955)
 * [2023-08-15, 13:08:33](https://news.ycombinator.com/item?id=37133530) - [3 Advantages to Running FreeBSD as Your Server Operating System](https://klarasystems.com/articles/freebsd-3-advantages-to-running-freebsd-as-your-server-operating-system/)
 * [2023-08-15, 13:06:31](https://news.ycombinator.com/item?id=37133504) - [Why host your own LLM?](http://marble.onl/posts/why_host_your_own_llm.html)
