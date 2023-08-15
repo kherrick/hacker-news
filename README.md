@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-15, 02:14:43](https://news.ycombinator.com/item?id=37129359) - [Colleges Spend Like There’s No Tomorrow. ‘These Places Are Just Devouring Money'](https://www.wsj.com/articles/state-university-tuition-increase-spending-41a58100)
 * [2023-08-15, 01:39:40](https://news.ycombinator.com/item?id=37129132) - [Lynn Conway's Story (2000)](https://ai.eecs.umich.edu/people/conway/LynnsStory.html)
-* [2023-08-15, 00:52:22](https://news.ycombinator.com/item?id=37128783) - [StarCraft was never meant to be played the way Koreans played [video]](https://www.youtube.com/watch?v=FNqaR_XGwns)
 * [2023-08-14, 23:57:49](https://news.ycombinator.com/item?id=37128392) - [Bankman-Fried used $100M in stolen FTX funds for political donations, US says](https://www.reuters.com/legal/bankman-fried-used-customer-funds-100-mln-us-political-donations-prosecutors-say-2023-08-14/)
 * [2023-08-14, 23:46:02](https://news.ycombinator.com/item?id=37128293) - [Show HN: AI-town, run your own custom AI world SIM with JavaScript](https://github.com/a16z-infra/ai-town)
 * [2023-08-14, 23:44:19](https://news.ycombinator.com/item?id=37128281) - [Dell fined $6.5M after admitting it made overpriced monitors look discounted](https://arstechnica.com/gadgets/2023/08/dell-fined-6-5m-after-admitting-it-made-overpriced-monitors-look-discounted/)
@@ -20,7 +20,7 @@
 * [2023-08-14, 15:16:43](https://news.ycombinator.com/item?id=37122006) - [Elixir – Why the dot when calling anonymous functions?](https://dashbit.co/blog/why-the-dot)
 * [2023-08-14, 14:34:19](https://news.ycombinator.com/item?id=37121501) - [Non-thoughts on the Open Source Initiative (2020)](https://yakshav.es/non-thoughts-on-the-osi/)
 * [2023-08-14, 14:30:40](https://news.ycombinator.com/item?id=37121458) - [Caught by MuseScore's Dark Patterns (2021)](https://gadanidis.ca/posts/2021-11-09-musescore.html)
-* [2023-08-14, 14:26:46](https://news.ycombinator.com/item?id=37121403) - [First release from Anti Warez Association (1993)](https://defacto2.net/f/a3178)
+* [2023-08-14, 14:26:46](https://news.ycombinator.com/item?id=37121403) - [Anti Warez Association, 1 (1993)](https://defacto2.net/f/a3178)
 * [2023-08-14, 14:10:30](https://news.ycombinator.com/item?id=37121221) - [Rust Abstractions Posted for Sockets and Other Fundamental Network Bits](https://www.phoronix.com/news/Linux-Rust-Sockets-Patches)
 * [2023-08-14, 13:48:02](https://news.ycombinator.com/item?id=37120967) - [I built a garbage collector for a language that doesn’t need one](https://claytonwramsey.github.io/2023/08/14/dumpster.html)
 * [2023-08-14, 12:59:07](https://news.ycombinator.com/item?id=37120510) - [A C parser for CREATE and ALTER TABLE SQLite statements](https://github.com/marcobambini/sqlite-createtable-parser)
