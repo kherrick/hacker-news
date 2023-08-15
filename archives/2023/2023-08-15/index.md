@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
+* [2023-08-15, 18:54:38](https://news.ycombinator.com/item?id=37137781) - [The Future of Terraform Must Be Open](https://blog.gruntwork.io/the-future-of-terraform-must-be-open-ab0b9ba65bca?gi=c07f9cd96456)
 * [2023-08-15, 18:41:43](https://news.ycombinator.com/item?id=37137630) - [Employees in Asia are spending most time looking busy at work, says Slack report](https://www.cnbc.com/2023/08/14/employees-in-asia-are-spending-the-most-time-looking-busy-at-work.html)
 * [2023-08-15, 17:55:30](https://news.ycombinator.com/item?id=37137130) - [Private jet came ‘within 100 feet’ of colliding with Southwest plane, NTSB says](https://www.dallasnews.com/business/airlines/2023/08/14/ntsb-probes-near-collision-of-southwest-airlines-business-jets-in-san-diego/)
 * [2023-08-15, 17:54:13](https://news.ycombinator.com/item?id=37137110) - [We reduced the cost of building Twitter at Twitter-scale by 100x](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
@@ -52,6 +53,7 @@
 * [2023-08-15, 07:45:14](https://news.ycombinator.com/item?id=37131287) - [Iraq lifts ban on Telegram after messaging app complies with authorities](https://techcrunch.com/2023/08/14/iraq-lifts-ban-on-telegram-after-messaging-app-complies-with-authorities/)
 * [2023-08-15, 07:40:58](https://news.ycombinator.com/item?id=37131263) - [New RedHat Responsibilities](https://www.hadess.net/2023/08/new-responsibilities.html)
 * [2023-08-15, 06:23:33](https://news.ycombinator.com/item?id=37130832) - [WhoFundsWho: Instantly see who funds the organizations you are reading about](https://whofundswho.com/)
+* [2023-08-15, 05:33:37](https://news.ycombinator.com/item?id=37130562) - [Best Time to Water – Morning, Noon or Evening?](https://www.gardenmyths.com/best-time-water-morning/)
 * [2023-08-15, 05:29:30](https://news.ycombinator.com/item?id=37130531) - [Ask HN: I learned useless skill of prompt engineering, how relevant will it be?](https://news.ycombinator.com/item?id=37130531)
 * [2023-08-15, 04:21:27](https://news.ycombinator.com/item?id=37130138) - [Features of Project Loom incorporated in JDK 21](https://jdk.java.net/loom/)
 * [2023-08-15, 04:19:10](https://news.ycombinator.com/item?id=37130120) - [Thoughts on [Turning] 29](https://andrew-quinn.me/29/)
