@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-15, 09:38:19](https://news.ycombinator.com/item?id=37131902) - [Why Americans Are So Awful to One Another](https://www.theatlantic.com/magazine/archive/2023/09/us-culture-moral-education-formation/674765/)
 * [2023-08-15, 08:49:13](https://news.ycombinator.com/item?id=37131626) - [Sam Bankman-Fried is going to jail](https://arstechnica.com/tech-policy/2023/08/sam-bankman-fried-is-going-to-jail/)
 * [2023-08-15, 08:38:31](https://news.ycombinator.com/item?id=37131559) - [Xitter Broke Nitter Again](https://github.com/zedeus/nitter/issues/983)
-* [2023-08-15, 08:21:11](https://news.ycombinator.com/item?id=37131477) - [Continuous batch enables 23x throughput in LLM inference and reduce p50 latency](https://www.anyscale.com/blog/continuous-batching-llm-inference)
+* [2023-08-15, 08:21:11](https://news.ycombinator.com/item?id=37131477) - [Continuous batching to increase LLM inference throughput and reduce p50 latency](https://www.anyscale.com/blog/continuous-batching-llm-inference)
 * [2023-08-15, 05:29:30](https://news.ycombinator.com/item?id=37130531) - [Ask HN: I learned useless skill of prompt engineering, how relevant will it be?](https://news.ycombinator.com/item?id=37130531)
 * [2023-08-15, 04:21:27](https://news.ycombinator.com/item?id=37130138) - [Features of Project Loom incorporated in JDK 21](https://jdk.java.net/loom/)
 * [2023-08-15, 03:32:16](https://news.ycombinator.com/item?id=37129853) - [What coal and Jevons’ paradox tell us about AI and data](https://hex.tech/blog/jevons-paradox-demand-for-insight/)
@@ -24,7 +25,6 @@
 * [2023-08-14, 11:06:39](https://news.ycombinator.com/item?id=37119623) - [PicoLisp Explored: On Coroutines](https://picolisp-explored.com/picolixp-explored-on-coroutines)
 * [2023-08-14, 10:46:12](https://news.ycombinator.com/item?id=37119482) - [AST vs. Bytecode: Interpreters in the Age of Meta-Compilation [pdf]](https://stefan-marr.de/downloads/oopsla23-larose-et-al-ast-vs-bytecode-interpreters-in-the-age-of-meta-compilation.pdf)
 * [2023-08-14, 10:13:16](https://news.ycombinator.com/item?id=37119311) - [Launch HN: Serra (YC S23) – Open-core, Python-based dbt alternative](https://news.ycombinator.com/item?id=37119311)
-* [2023-08-14, 05:37:38](https://news.ycombinator.com/item?id=37117818) - [The anesthetic effect of air at atmospheric pressure](https://pubmed.ncbi.nlm.nih.gov/1130736/)
 * [2023-08-14, 05:06:12](https://news.ycombinator.com/item?id=37117650) - [Why Rivian Tires Sometimes Last as Little as 6k Miles](https://jalopnik.com/why-rivian-ev-tires-do-not-last-long-6000-miles-1850729545)
 * [2023-08-14, 05:06:02](https://news.ycombinator.com/item?id=37117649) - [The Cost of Convenience](https://surma.dev/things/cost-of-convenience/)
 * [2023-08-13, 23:20:05](https://news.ycombinator.com/item?id=37115614) - [Emulating x86 on X64 on Aarch64](https://neugierig.org/software/blog/2023/08/x86-x64-aarch64.html)

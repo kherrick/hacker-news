@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
+* [2023-08-15, 09:38:19](https://news.ycombinator.com/item?id=37131902) - [Why Americans Are So Awful to One Another](https://www.theatlantic.com/magazine/archive/2023/09/us-culture-moral-education-formation/674765/)
 * [2023-08-15, 08:49:13](https://news.ycombinator.com/item?id=37131626) - [Sam Bankman-Fried is going to jail](https://arstechnica.com/tech-policy/2023/08/sam-bankman-fried-is-going-to-jail/)
 * [2023-08-15, 08:45:47](https://news.ycombinator.com/item?id=37131604) - [Chrome is dead for those who uses ad-blockers](https://news.ycombinator.com/item?id=37131604)
 * [2023-08-15, 08:38:31](https://news.ycombinator.com/item?id=37131559) - [Xitter Broke Nitter Again](https://github.com/zedeus/nitter/issues/983)
