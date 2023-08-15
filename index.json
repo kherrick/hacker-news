@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-15, 23:26:02",
+      "https://news.ycombinator.com/item?id=37140681"
+    ],
+    [
+      "Ted's Notes on Pawpaws",
+      "https://toyrus.ngrok.io/~ted/pawpaws/"
+    ]
+  ],
+  [
+    [
+      "2023-08-15, 22:50:54",
+      "https://news.ycombinator.com/item?id=37140320"
+    ],
+    [
+      "Bank of Ireland IT blunder allows customers who have no money get access to cash",
+      "https://www.independent.ie/business/personal-finance/bank-of-ireland-it-blunder-allows-customers-who-have-no-money-get-access-to-cash-at-atms/a510070628.html"
+    ]
+  ],
+  [
+    [
       "2023-08-15, 22:48:21",
       "https://news.ycombinator.com/item?id=37140291"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2023-08-15, 21:42:56",
-      "https://news.ycombinator.com/item?id=37139643"
-    ],
-    [
-      "New x86 8U servers with 32TB RAM, 480 physical cores, 15 PCIe x16 slots, 400GbE",
-      "https://lenovopress.lenovo.com/lp1684-announcing-thinksystem-v3-with-4th-gen-intel-xeon-scalable-processors"
-    ]
-  ],
-  [
-    [
       "2023-08-15, 20:15:27",
       "https://news.ycombinator.com/item?id=37138807"
     ],
@@ -81,12 +91,12 @@
   ],
   [
     [
-      "2023-08-15, 19:19:16",
-      "https://news.ycombinator.com/item?id=37138102"
+      "2023-08-15, 20:04:46",
+      "https://news.ycombinator.com/item?id=37138667"
     ],
     [
-      "Asteroid ZTm0038 with a >3% impact probability",
-      "https://newton.spacedys.com/neodys2/NEOScan/risk_page/ZTm0038/index_summary_ZTm0038.html"
+      "The Five-Dollar Model: Generating Game Maps and Sprites from Sentence Embeddings",
+      "https://arxiv.org/abs/2308.04052"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Selling open-source software",
       "https://thenewstack.io/entrepreneurship-for-engineers-selling-open-source-software/"
-    ]
-  ],
-  [
-    [
-      "2023-08-15, 13:06:31",
-      "https://news.ycombinator.com/item?id=37133504"
-    ],
-    [
-      "Why host your own LLM?",
-      "http://marble.onl/posts/why_host_your_own_llm.html"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2023-08-15, 02:22:52",
-      "https://news.ycombinator.com/item?id=37129417"
+      "2023-08-15, 04:28:43",
+      "https://news.ycombinator.com/item?id=37130200"
     ],
     [
-      "Carl Linnaeus Set Out to Label All of Life",
-      "https://www.newyorker.com/magazine/2023/08/21/the-man-who-organized-nature-the-life-of-linnaeus-gunnar-broberg-book-review"
+      "Exploring the design space of binary search trees",
+      "https://rtheunissen.github.io/bst/"
     ]
   ],
   [
