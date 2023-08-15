@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2023-08-15, 01:17:09",
-      "https://news.ycombinator.com/item?id=37128965"
+      "2023-08-15, 00:52:22",
+      "https://news.ycombinator.com/item?id=37128783"
     ],
     [
-      "Ruth Bader Ginsburg and Gloria Steinem Fought for Your Right to Get a Beer",
-      "https://lithub.com/how-ruth-bader-ginsburg-and-gloria-steinem-fought-for-your-right-to-get-a-beer/"
+      "StarCraft was never meant to be played the way Koreans played [video]",
+      "https://www.youtube.com/watch?v=FNqaR_XGwns"
     ]
   ],
   [
@@ -51,21 +51,11 @@
   ],
   [
     [
-      "2023-08-14, 23:16:29",
-      "https://news.ycombinator.com/item?id=37128074"
-    ],
-    [
-      "Vox Media Partners with WordPress VIP",
-      "https://wpvip.com/2023/08/14/vox-media-wordpress-vip/"
-    ]
-  ],
-  [
-    [
       "2023-08-14, 23:14:28",
       "https://news.ycombinator.com/item?id=37128044"
     ],
     [
-      "Internet Archive Responds to Recording Industry Lawsuit Targeting Obsolete Media",
+      "Internet Archive responds to recording industry lawsuit targeting obsolete media",
       "https://blog.archive.org/2023/08/14/internet-archive-responds-to-recording-industry-lawsuit-targeting-obsolete-media/"
     ]
   ],
@@ -237,6 +227,16 @@
     [
       "I built a garbage collector for a language that doesn’t need one",
       "https://claytonwramsey.github.io/2023/08/14/dumpster.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-14, 12:59:07",
+      "https://news.ycombinator.com/item?id=37120510"
+    ],
+    [
+      "A C parser for CREATE and ALTER TABLE SQLite statements",
+      "https://github.com/marcobambini/sqlite-createtable-parser"
     ]
   ],
   [
