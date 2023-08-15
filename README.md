@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-15, 08:38:31](https://news.ycombinator.com/item?id=37131559) - [Xitter Broke Nitter Again](https://github.com/zedeus/nitter/issues/983)
 * [2023-08-15, 08:21:11](https://news.ycombinator.com/item?id=37131477) - [Continuous batch enables 23x throughput in LLM inference and reduce p50 latency](https://www.anyscale.com/blog/continuous-batching-llm-inference)
 * [2023-08-15, 05:29:30](https://news.ycombinator.com/item?id=37130531) - [Ask HN: I learned useless skill of prompt engineering, how relevant will it be?](https://news.ycombinator.com/item?id=37130531)
 * [2023-08-15, 04:21:27](https://news.ycombinator.com/item?id=37130138) - [Features of Project Loom incorporated in JDK 21](https://jdk.java.net/loom/)
@@ -18,7 +19,6 @@
 * [2023-08-14, 14:38:17](https://news.ycombinator.com/item?id=37121542) - [Clarence Avant Has Died](https://abcnews.go.com/Entertainment/wireStory/clarence-avant-godfather-black-music-benefactor-athletes-politicians-102251912)
 * [2023-08-14, 14:27:58](https://news.ycombinator.com/item?id=37121418) - [How Fanatics Is Building a Weird Monopoly over Sports Trading Cards](https://www.thebignewsletter.com/p/how-fanatics-is-building-a-weird)
 * [2023-08-14, 14:26:46](https://news.ycombinator.com/item?id=37121403) - [Anti Warez Association, 1 (1993)](https://defacto2.net/f/a3178)
-* [2023-08-14, 13:48:02](https://news.ycombinator.com/item?id=37120967) - [I built a garbage collector for a language that doesn’t need one](https://claytonwramsey.github.io/2023/08/14/dumpster.html)
 * [2023-08-14, 12:59:07](https://news.ycombinator.com/item?id=37120510) - [A C parser for CREATE and ALTER TABLE SQLite statements](https://github.com/marcobambini/sqlite-createtable-parser)
 * [2023-08-14, 11:49:59](https://news.ycombinator.com/item?id=37119942) - [Show HN: Little Rat – Chrome extension monitors network calls of all extensions](https://github.com/dnakov/little-rat)
 * [2023-08-14, 11:06:39](https://news.ycombinator.com/item?id=37119623) - [PicoLisp Explored: On Coroutines](https://picolisp-explored.com/picolixp-explored-on-coroutines)
