@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-15, 20:51:28](https://news.ycombinator.com/item?id=37139142) - [4M Coloradans notified their medical data was exposed in MOVEit incident](https://www.scmagazine.com/news/colorado-notifies-4-million-people-that-their-medical-data-was-exposed-in-third-party-moveit-incident)
+* [2023-08-15, 22:18:17](https://news.ycombinator.com/item?id=37140013) - [How Is LLaMa.cpp Possible?](https://finbarr.ca/how-is-llama-cpp-possible/)
+* [2023-08-15, 21:42:56](https://news.ycombinator.com/item?id=37139643) - [New x86 8U servers with 32TB RAM, 480 physical cores, 15 PCIe x16 slots, 400GbE](https://lenovopress.lenovo.com/lp1684-announcing-thinksystem-v3-with-4th-gen-intel-xeon-scalable-processors)
 * [2023-08-15, 20:15:27](https://news.ycombinator.com/item?id=37138807) - [How should I read type system notation?](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation)
 * [2023-08-15, 20:05:43](https://news.ycombinator.com/item?id=37138681) - [ISPs complain that listing every fee is too hard, urge FCC to scrap new rule](https://arstechnica.com/tech-policy/2023/08/isps-complain-that-listing-every-fee-is-too-hard-urge-fcc-to-scrap-new-rule/)
 * [2023-08-15, 20:05:06](https://news.ycombinator.com/item?id=37138672) - [My Deep Learning Rig](https://nonint.com/2022/05/30/my-deep-learning-rig/)
@@ -23,7 +24,6 @@
 * [2023-08-15, 09:46:12](https://news.ycombinator.com/item?id=37131957) - [Privacy friendly ESP32 smart doorbell with Home Assistant local integration](https://tristam.ie/2023/758/)
 * [2023-08-15, 09:19:00](https://news.ycombinator.com/item?id=37131808) - [Virtual IBM Punch Card Data Processing (2018)](http://sims.durgadas.com/punchcards/ibm029.html)
 * [2023-08-15, 09:18:07](https://news.ycombinator.com/item?id=37131802) - [Things you forgot (or never knew) because of React](https://joshcollinsworth.com/blog/antiquated-react)
-* [2023-08-15, 03:18:18](https://news.ycombinator.com/item?id=37129764) - [Functional Programming 1](https://www.youtube.com/playlist?list=PLA_-EWSPTJcu4i7RFCl_KeGrrz37C4_Oc)
 * [2023-08-15, 02:22:52](https://news.ycombinator.com/item?id=37129417) - [Carl Linnaeus Set Out to Label All of Life](https://www.newyorker.com/magazine/2023/08/21/the-man-who-organized-nature-the-life-of-linnaeus-gunnar-broberg-book-review)
 * [2023-08-15, 01:10:56](https://news.ycombinator.com/item?id=37128929) - [Peter Pan Copyright](https://www.gosh.org/about-us/peter-pan/copyright/)
 * [2023-08-15, 01:06:03](https://news.ycombinator.com/item?id=37128885) - [How to be successful as a research mathematician? Follow your gut](https://www.nature.com/articles/d41586-023-02555-z)
