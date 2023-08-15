@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-15, 02:14:43](https://news.ycombinator.com/item?id=37129359) - [Colleges Spend Like There’s No Tomorrow. ‘These Places Are Just Devouring Money'](https://www.wsj.com/articles/state-university-tuition-increase-spending-41a58100)
+* [2023-08-15, 02:14:43](https://news.ycombinator.com/item?id=37129359) - [Students foot the bill for flagship state universities](https://www.wsj.com/articles/state-university-tuition-increase-spending-41a58100)
+* [2023-08-15, 02:08:27](https://news.ycombinator.com/item?id=37129318) - [Webvan: The Dotcom Bubble’s Biggest Bust](https://streetfins.com/webvan-the-dotcom-bubbles-biggest-bust/)
 * [2023-08-15, 01:39:40](https://news.ycombinator.com/item?id=37129132) - [Lynn Conway's Story (2000)](https://ai.eecs.umich.edu/people/conway/LynnsStory.html)
-* [2023-08-14, 23:57:49](https://news.ycombinator.com/item?id=37128392) - [Bankman-Fried used $100M in stolen FTX funds for political donations, US says](https://www.reuters.com/legal/bankman-fried-used-customer-funds-100-mln-us-political-donations-prosecutors-say-2023-08-14/)
 * [2023-08-14, 23:46:02](https://news.ycombinator.com/item?id=37128293) - [Show HN: AI-town, run your own custom AI world SIM with JavaScript](https://github.com/a16z-infra/ai-town)
 * [2023-08-14, 23:44:19](https://news.ycombinator.com/item?id=37128281) - [Dell fined $6.5M after admitting it made overpriced monitors look discounted](https://arstechnica.com/gadgets/2023/08/dell-fined-6-5m-after-admitting-it-made-overpriced-monitors-look-discounted/)
 * [2023-08-14, 23:14:28](https://news.ycombinator.com/item?id=37128044) - [Internet Archive responds to recording industry lawsuit targeting obsolete media](https://blog.archive.org/2023/08/14/internet-archive-responds-to-recording-industry-lawsuit-targeting-obsolete-media/)
