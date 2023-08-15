@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-15, 05:29:30](https://news.ycombinator.com/item?id=37130531) - [Ask HN: I learned useless skill of prompt engineering, how relevant will it be?](https://news.ycombinator.com/item?id=37130531)
+* [2023-08-15, 04:21:27](https://news.ycombinator.com/item?id=37130138) - [Features of Project Loom incorporated in JDK 21](https://jdk.java.net/loom/)
 * [2023-08-15, 04:09:03](https://news.ycombinator.com/item?id=37130060) - [Tell HN: t.co is adding a five-second delay to some domains](https://news.ycombinator.com/item?id=37130060)
-* [2023-08-15, 03:18:58](https://news.ycombinator.com/item?id=37129768) - [A Warning from the Unpublished Preface to Orwell’s Animal Farm](https://mindmatters.ai/2023/08/a-warning-from-the-unpublished-preface-to-orwells-animal-farm/)
 * [2023-08-15, 02:08:27](https://news.ycombinator.com/item?id=37129318) - [Webvan: The Dotcom Bubble’s Biggest Bust](https://streetfins.com/webvan-the-dotcom-bubbles-biggest-bust/)
 * [2023-08-15, 01:39:40](https://news.ycombinator.com/item?id=37129132) - [Lynn Conway's Story (2000)](https://ai.eecs.umich.edu/people/conway/LynnsStory.html)
 * [2023-08-14, 23:46:02](https://news.ycombinator.com/item?id=37128293) - [Show HN: AI-town, run your own custom AI world SIM with JavaScript](https://github.com/a16z-infra/ai-town)
@@ -15,7 +16,6 @@
 * [2023-08-14, 17:43:40](https://news.ycombinator.com/item?id=37124059) - [Does there exist a complete implementation of the Risch algorithm?](https://mathoverflow.net/questions/374089/does-there-exist-a-complete-implementation-of-the-risch-algorithm)
 * [2023-08-14, 17:26:15](https://news.ycombinator.com/item?id=37123792) - [JWST spots giant black holes all over the early universe](https://www.quantamagazine.org/jwst-spots-giant-black-holes-all-over-the-early-universe-20230814/)
 * [2023-08-14, 17:01:29](https://news.ycombinator.com/item?id=37123455) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
-* [2023-08-14, 16:44:05](https://news.ycombinator.com/item?id=37123155) - [ParkyTowers: Thin Clients Laid Bare](https://www.parkytowers.me.uk/thin/)
 * [2023-08-14, 16:22:24](https://news.ycombinator.com/item?id=37122871) - [Backward Compatibility, Go 1.21, and Go 2](https://go.dev/blog/compat)
 * [2023-08-14, 15:21:40](https://news.ycombinator.com/item?id=37122064) - [Show HN: Epsilla – Open-source vector database with low query latency](https://github.com/epsilla-cloud/vectordb)
 * [2023-08-14, 15:16:43](https://news.ycombinator.com/item?id=37122006) - [Elixir – Why the dot when calling anonymous functions?](https://dashbit.co/blog/why-the-dot)
@@ -29,7 +29,7 @@
 * [2023-08-14, 05:37:38](https://news.ycombinator.com/item?id=37117818) - [The anesthetic effect of air at atmospheric pressure](https://pubmed.ncbi.nlm.nih.gov/1130736/)
 * [2023-08-14, 05:06:02](https://news.ycombinator.com/item?id=37117649) - [The Cost of Convenience](https://surma.dev/things/cost-of-convenience/)
 * [2023-08-13, 23:20:05](https://news.ycombinator.com/item?id=37115614) - [Emulating x86 on X64 on Aarch64](https://neugierig.org/software/blog/2023/08/x86-x64-aarch64.html)
-* [2023-08-13, 07:37:58](https://news.ycombinator.com/item?id=37107572) - [Floor Mouse (2018)](https://www.jefftk.com/p/floor-mouse)
+* [2023-08-13, 09:52:34](https://news.ycombinator.com/item?id=37108328) - [Ask HN: How did Paul Allen write an 8080 emulator in 1974?](https://news.ycombinator.com/item?id=37108328)
 
 ## [Archives](archives/index.md)
 

@@ -75,6 +75,7 @@
 * [2023-08-13, 11:04:08](https://news.ycombinator.com/item?id=37108745) - [Former VP Claims Salesforce Lied About Software Capabilities: 'It Was All a Lie'](https://www.businessinsider.com/former-vp-claims-salesforce-lied-customer-data-platform-software-capabilities-2023-8)
 * [2023-08-13, 10:43:28](https://news.ycombinator.com/item?id=37108624) - [Writing a Pathtracer in Lua, Week 1](https://blog.42yeah.is/rendering/2023/08/12/luapt.html)
 * [2023-08-13, 09:58:29](https://news.ycombinator.com/item?id=37108365) - [Testing your animation refresh rate with CSS](https://cohost.org/lunasorcery/post/2465593-testing-your-animati)
+* [2023-08-13, 09:52:34](https://news.ycombinator.com/item?id=37108328) - [Ask HN: How did Paul Allen write an 8080 emulator in 1974?](https://news.ycombinator.com/item?id=37108328)
 * [2023-08-13, 09:47:00](https://news.ycombinator.com/item?id=37108298) - [Show HN: Broken Bear, the AI teddy bear that loves your broken self](https://brokenbear.com/)
 * [2023-08-13, 09:36:55](https://news.ycombinator.com/item?id=37108238) - [Sqlx: I'm sorry I forked you](https://sql.ophir.dev/blog.sql?post=I%E2%80%99m+sorry+I+forked+you)
 * [2023-08-13, 09:24:42](https://news.ycombinator.com/item?id=37108172) - [Why skilled immigration (usually) benefits both countries](https://www.noahpinion.blog/p/why-skilled-immigration-usually-benefits)
