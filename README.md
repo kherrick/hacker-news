@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-15, 20:51:28](https://news.ycombinator.com/item?id=37139142) - [4M Coloradans notified their medical data was exposed in MOVEit incident](https://www.scmagazine.com/news/colorado-notifies-4-million-people-that-their-medical-data-was-exposed-in-third-party-moveit-incident)
 * [2023-08-15, 20:15:27](https://news.ycombinator.com/item?id=37138807) - [How should I read type system notation?](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation)
 * [2023-08-15, 20:06:17](https://news.ycombinator.com/item?id=37138691) - [Requiring ink to scan a document–yet another insult from the printer industry](https://arstechnica.com/gadgets/2023/08/the-printers-that-require-ink-to-scan-and-fax/)
 * [2023-08-15, 20:05:43](https://news.ycombinator.com/item?id=37138681) - [ISPs complain that listing every fee is too hard, urge FCC to scrap new rule](https://arstechnica.com/tech-policy/2023/08/isps-complain-that-listing-every-fee-is-too-hard-urge-fcc-to-scrap-new-rule/)
@@ -14,13 +15,13 @@
 * [2023-08-15, 13:58:17](https://news.ycombinator.com/item?id=37134089) - [Selling open-source software](https://thenewstack.io/entrepreneurship-for-engineers-selling-open-source-software/)
 * [2023-08-15, 13:06:31](https://news.ycombinator.com/item?id=37133504) - [Why host your own LLM?](http://marble.onl/posts/why_host_your_own_llm.html)
 * [2023-08-15, 12:31:27](https://news.ycombinator.com/item?id=37133163) - [Show HN: Llama2 Embeddings FastAPI Server](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service)
+* [2023-08-15, 12:28:20](https://news.ycombinator.com/item?id=37133128) - [Show HN: Lottielab – Create product animations in the browser easily](https://www.lottielab.com/)
 * [2023-08-15, 12:19:33](https://news.ycombinator.com/item?id=37133054) - [The OpenTF Manifesto](https://opentf.org/)
 * [2023-08-15, 12:17:14](https://news.ycombinator.com/item?id=37133033) - [Nintendo DS cameras are the best lo-fi photo trend](https://www.polygon.com/23827844/nintendo-ds-dsi-3ds-camera-lofi-photo-trend)
 * [2023-08-15, 12:16:10](https://news.ycombinator.com/item?id=37133023) - [Why Darwin admired the humble earthworm](https://nautil.us/why-darwin-admired-the-humble-earthworm-361515/)
 * [2023-08-15, 11:34:26](https://news.ycombinator.com/item?id=37132651) - [Show HN: Servicer, pm2 alternative built on Rust and systemd](https://servicer.dev)
 * [2023-08-15, 09:46:12](https://news.ycombinator.com/item?id=37131957) - [Privacy friendly ESP32 smart doorbell with Home Assistant local integration](https://tristam.ie/2023/758/)
 * [2023-08-15, 09:18:07](https://news.ycombinator.com/item?id=37131802) - [Things you forgot (or never knew) because of React](https://joshcollinsworth.com/blog/antiquated-react)
-* [2023-08-15, 07:40:58](https://news.ycombinator.com/item?id=37131263) - [New responsibilities](https://www.hadess.net/2023/08/new-responsibilities.html)
 * [2023-08-15, 03:24:18](https://news.ycombinator.com/item?id=37129799) - [Wright's Book of Poultry (1911)](https://archive.org/details/wrightsbookofpou00wrig)
 * [2023-08-15, 02:22:52](https://news.ycombinator.com/item?id=37129417) - [Carl Linnaeus Set Out to Label All of Life](https://www.newyorker.com/magazine/2023/08/21/the-man-who-organized-nature-the-life-of-linnaeus-gunnar-broberg-book-review)
 * [2023-08-15, 01:10:56](https://news.ycombinator.com/item?id=37128929) - [Peter Pan Copyright](https://www.gosh.org/about-us/peter-pan/copyright/)
@@ -29,7 +30,6 @@
 * [2023-08-14, 19:04:43](https://news.ycombinator.com/item?id=37125337) - [Bombe: Minesweeper, but you only solve each situation once](https://store.steampowered.com/app/2262930/Bombe/)
 * [2023-08-14, 11:30:50](https://news.ycombinator.com/item?id=37119795) - [Hip hop historians who are racing to preserve its story](https://www.wired.com/story/archiving-hip-hop-history/)
 * [2023-08-14, 06:56:11](https://news.ycombinator.com/item?id=37118239) - [Decimal to fraction](https://leancrew.com/all-this/2023/08/decimal-to-fraction/)
-* [2023-08-14, 06:16:38](https://news.ycombinator.com/item?id=37118045) - [Timing with Curl (2010)](https://susam.net/blog/timing-with-curl.html)
 
 ## [Archives](archives/index.md)
 

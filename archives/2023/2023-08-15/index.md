@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
+* [2023-08-15, 20:51:28](https://news.ycombinator.com/item?id=37139142) - [4M Coloradans notified their medical data was exposed in MOVEit incident](https://www.scmagazine.com/news/colorado-notifies-4-million-people-that-their-medical-data-was-exposed-in-third-party-moveit-incident)
 * [2023-08-15, 20:15:27](https://news.ycombinator.com/item?id=37138807) - [How should I read type system notation?](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation)
 * [2023-08-15, 20:06:17](https://news.ycombinator.com/item?id=37138691) - [Requiring ink to scan a document–yet another insult from the printer industry](https://arstechnica.com/gadgets/2023/08/the-printers-that-require-ink-to-scan-and-fax/)
 * [2023-08-15, 20:05:43](https://news.ycombinator.com/item?id=37138681) - [ISPs complain that listing every fee is too hard, urge FCC to scrap new rule](https://arstechnica.com/tech-policy/2023/08/isps-complain-that-listing-every-fee-is-too-hard-urge-fcc-to-scrap-new-rule/)
@@ -40,6 +41,7 @@
 * [2023-08-15, 13:01:34](https://news.ycombinator.com/item?id=37133438) - [Why is Canada giving two automakers $30B in subsidies for EV battery production?](https://www.wsws.org/en/articles/2023/08/11/dnyl-a11.html)
 * [2023-08-15, 12:56:52](https://news.ycombinator.com/item?id=37133388) - [Non-thermal DNA breakage by mobile-phone radiation (1800 MHz)](https://pubmed.ncbi.nlm.nih.gov/15869902/)
 * [2023-08-15, 12:31:27](https://news.ycombinator.com/item?id=37133163) - [Show HN: Llama2 Embeddings FastAPI Server](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service)
+* [2023-08-15, 12:28:20](https://news.ycombinator.com/item?id=37133128) - [Show HN: Lottielab – Create product animations in the browser easily](https://www.lottielab.com/)
 * [2023-08-15, 12:19:33](https://news.ycombinator.com/item?id=37133054) - [The OpenTF Manifesto](https://opentf.org/)
 * [2023-08-15, 12:17:14](https://news.ycombinator.com/item?id=37133033) - [Nintendo DS cameras are the best lo-fi photo trend](https://www.polygon.com/23827844/nintendo-ds-dsi-3ds-camera-lofi-photo-trend)
 * [2023-08-15, 12:16:10](https://news.ycombinator.com/item?id=37133023) - [Why Darwin admired the humble earthworm](https://nautil.us/why-darwin-admired-the-humble-earthworm-361515/)
