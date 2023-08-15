@@ -21,7 +21,7 @@
 * [2023-08-15, 12:16:10](https://news.ycombinator.com/item?id=37133023) - [Why Darwin admired the humble earthworm](https://nautil.us/why-darwin-admired-the-humble-earthworm-361515/)
 * [2023-08-15, 11:34:26](https://news.ycombinator.com/item?id=37132651) - [Show HN: Servicer, pm2 alternative built on Rust and systemd](https://servicer.dev)
 * [2023-08-15, 09:46:12](https://news.ycombinator.com/item?id=37131957) - [Privacy friendly ESP32 smart doorbell with Home Assistant local integration](https://tristam.ie/2023/758/)
-* [2023-08-15, 09:18:07](https://news.ycombinator.com/item?id=37131802) - [Things you forgot (or never knew) because of React](https://joshcollinsworth.com/blog/antiquated-react)
+* [2023-08-15, 09:19:00](https://news.ycombinator.com/item?id=37131808) - [Virtual IBM Punch Card Data Processing (2018)](http://sims.durgadas.com/punchcards/ibm029.html)
 * [2023-08-15, 03:24:18](https://news.ycombinator.com/item?id=37129799) - [Wright's Book of Poultry (1911)](https://archive.org/details/wrightsbookofpou00wrig)
 * [2023-08-15, 03:18:18](https://news.ycombinator.com/item?id=37129764) - [Functional Programming 1](https://www.youtube.com/playlist?list=PLA_-EWSPTJcu4i7RFCl_KeGrrz37C4_Oc)
 * [2023-08-15, 02:22:52](https://news.ycombinator.com/item?id=37129417) - [Carl Linnaeus Set Out to Label All of Life](https://www.newyorker.com/magazine/2023/08/21/the-man-who-organized-nature-the-life-of-linnaeus-gunnar-broberg-book-review)

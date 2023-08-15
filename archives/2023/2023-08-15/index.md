@@ -56,6 +56,7 @@
 * [2023-08-15, 09:46:12](https://news.ycombinator.com/item?id=37131957) - [Privacy friendly ESP32 smart doorbell with Home Assistant local integration](https://tristam.ie/2023/758/)
 * [2023-08-15, 09:38:19](https://news.ycombinator.com/item?id=37131902) - [Why Americans Are So Awful to One Another](https://www.theatlantic.com/magazine/archive/2023/09/us-culture-moral-education-formation/674765/)
 * [2023-08-15, 09:28:15](https://news.ycombinator.com/item?id=37131854) - [Most bosses regret how they mandated workers return to the office](https://fortune.com/2023/08/14/bosses-regretting-return-to-office-mandates/)
+* [2023-08-15, 09:19:00](https://news.ycombinator.com/item?id=37131808) - [Virtual IBM Punch Card Data Processing (2018)](http://sims.durgadas.com/punchcards/ibm029.html)
 * [2023-08-15, 09:18:07](https://news.ycombinator.com/item?id=37131802) - [Things you forgot because of React](https://joshcollinsworth.com/blog/antiquated-react)
 * [2023-08-15, 08:49:13](https://news.ycombinator.com/item?id=37131626) - [Sam Bankman-Fried is going to jail](https://arstechnica.com/tech-policy/2023/08/sam-bankman-fried-is-going-to-jail/)
 * [2023-08-15, 08:45:47](https://news.ycombinator.com/item?id=37131604) - [Chrome is dead for those who uses ad-blockers](https://news.ycombinator.com/item?id=37131604)
