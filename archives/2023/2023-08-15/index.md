@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
+* [2023-08-15, 04:19:10](https://news.ycombinator.com/item?id=37130120) - [Thoughts on [Turning] 29](https://andrew-quinn.me/29/)
 * [2023-08-15, 04:09:03](https://news.ycombinator.com/item?id=37130060) - [Tell HN: T.co is adding a ~5 second delay to domains they don't like](https://news.ycombinator.com/item?id=37130060)
 * [2023-08-15, 03:34:10](https://news.ycombinator.com/item?id=37129867) - [S.F.’s top-paid employee makes $640K. Here’s what every city worker gets paid](https://www.sfchronicle.com/projects/2023/san-francisco-employee-pay/)
 * [2023-08-15, 03:28:47](https://news.ycombinator.com/item?id=37129830) - [LED lights will change the world as incandescent bulbs phase out](https://www.vox.com/technology/23832211/light-bulb-ban-led-incandescent-energy-efficient-climate-sleep)
