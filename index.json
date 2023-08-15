@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-08-15, 03:32:16",
+      "https://news.ycombinator.com/item?id=37129853"
+    ],
+    [
+      "What coal and Jevons’ paradox tell us about AI and data",
+      "https://hex.tech/blog/jevons-paradox-demand-for-insight/"
+    ]
+  ],
+  [
+    [
       "2023-08-15, 03:18:58",
       "https://news.ycombinator.com/item?id=37129768"
     ],
@@ -191,26 +201,6 @@
   ],
   [
     [
-      "2023-08-14, 15:16:43",
-      "https://news.ycombinator.com/item?id=37122006"
-    ],
-    [
-      "Elixir – Why the dot when calling anonymous functions?",
-      "https://dashbit.co/blog/why-the-dot"
-    ]
-  ],
-  [
-    [
-      "2023-08-14, 14:34:19",
-      "https://news.ycombinator.com/item?id=37121501"
-    ],
-    [
-      "Non-thoughts on the Open Source Initiative (2020)",
-      "https://yakshav.es/non-thoughts-on-the-osi/"
-    ]
-  ],
-  [
-    [
       "2023-08-14, 14:26:46",
       "https://news.ycombinator.com/item?id=37121403"
     ],
@@ -237,6 +227,16 @@
     [
       "Show HN: Little Rat – Chrome extension monitors network calls of all extensions",
       "https://github.com/dnakov/little-rat"
+    ]
+  ],
+  [
+    [
+      "2023-08-14, 11:06:39",
+      "https://news.ycombinator.com/item?id=37119623"
+    ],
+    [
+      "PicoLisp Explored: On Coroutines",
+      "https://picolisp-explored.com/picolixp-explored-on-coroutines"
     ]
   ],
   [
