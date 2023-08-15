@@ -1,12 +1,42 @@
 [
   [
     [
-      "2023-08-15, 03:17:07",
-      "https://news.ycombinator.com/item?id=37129759"
+      "2023-08-15, 04:09:03",
+      "https://news.ycombinator.com/item?id=37130060"
     ],
     [
-      "The small steps that lead to dystopia",
-      "https://mindmatters.ai/2023/08/the-small-steps-that-lead-to-dystopia/"
+      "Tell HN: T.co is adding a ~5 second delay to domains they don't like",
+      "https://news.ycombinator.com/item?id=37130060"
+    ]
+  ],
+  [
+    [
+      "2023-08-15, 03:34:10",
+      "https://news.ycombinator.com/item?id=37129867"
+    ],
+    [
+      "S.F.’s top-paid employee makes $640K. Here’s what every city worker gets paid",
+      "https://www.sfchronicle.com/projects/2023/san-francisco-employee-pay/"
+    ]
+  ],
+  [
+    [
+      "2023-08-15, 03:28:47",
+      "https://news.ycombinator.com/item?id=37129830"
+    ],
+    [
+      "LED lights will change the world as incandescent bulbs phase out",
+      "https://www.vox.com/technology/23832211/light-bulb-ban-led-incandescent-energy-efficient-climate-sleep"
+    ]
+  ],
+  [
+    [
+      "2023-08-15, 03:05:04",
+      "https://news.ycombinator.com/item?id=37129690"
+    ],
+    [
+      "Brandon Gilles Dies from Long-Covid, Electrical Engineer and Spatial AI Pioneer",
+      "https://www.mcphagwara.com/articles/brandon-gilles-obituary/"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "Show HN: AI-town, run your own custom AI world SIM with JavaScript",
       "https://github.com/a16z-infra/ai-town"
-    ]
-  ],
-  [
-    [
-      "2023-08-14, 23:44:19",
-      "https://news.ycombinator.com/item?id=37128281"
-    ],
-    [
-      "Dell fined $6.5M after admitting it made overpriced monitors look discounted",
-      "https://arstechnica.com/gadgets/2023/08/dell-fined-6-5m-after-admitting-it-made-overpriced-monitors-look-discounted/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-08-14, 14:10:30",
-      "https://news.ycombinator.com/item?id=37121221"
-    ],
-    [
-      "Rust Abstractions Posted for Sockets and Other Fundamental Network Bits",
-      "https://www.phoronix.com/news/Linux-Rust-Sockets-Patches"
-    ]
-  ],
-  [
-    [
       "2023-08-14, 13:48:02",
       "https://news.ycombinator.com/item?id=37120967"
     ],
@@ -247,16 +257,6 @@
     [
       "Show HN: Little Rat – Chrome extension monitors network calls of all extensions",
       "https://github.com/dnakov/little-rat"
-    ]
-  ],
-  [
-    [
-      "2023-08-14, 11:06:39",
-      "https://news.ycombinator.com/item?id=37119623"
-    ],
-    [
-      "PicoLixp Explored: On Coroutines",
-      "https://picolisp-explored.com/picolixp-explored-on-coroutines"
     ]
   ],
   [
