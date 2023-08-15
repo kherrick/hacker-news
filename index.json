@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2023-08-15, 13:08:33",
+      "https://news.ycombinator.com/item?id=37133530"
+    ],
+    [
+      "3 Advantages to Running FreeBSD as Your Server Operating System",
+      "https://klarasystems.com/articles/freebsd-3-advantages-to-running-freebsd-as-your-server-operating-system/"
+    ]
+  ],
+  [
+    [
+      "2023-08-15, 13:06:31",
+      "https://news.ycombinator.com/item?id=37133504"
+    ],
+    [
+      "Why host your own LLM?",
+      "http://marble.onl/posts/why_host_your_own_llm.html"
+    ]
+  ],
+  [
+    [
       "2023-08-15, 13:05:20",
       "https://news.ycombinator.com/item?id=37133485"
     ],
@@ -65,8 +85,18 @@
       "https://news.ycombinator.com/item?id=37132754"
     ],
     [
-      "Show HN: Visual Reference to CSS Selectors",
+      "Show HN: CSS Selectors – A Visual Guide",
       "https://fffuel.co/css-selectors/"
+    ]
+  ],
+  [
+    [
+      "2023-08-15, 11:34:26",
+      "https://news.ycombinator.com/item?id=37132651"
+    ],
+    [
+      "Show HN: Servicer, pm2 alternative built on rust and systemd",
+      "https://servicer.dev"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "Things you forgot because of React",
       "https://joshcollinsworth.com/blog/antiquated-react"
-    ]
-  ],
-  [
-    [
-      "2023-08-15, 08:49:13",
-      "https://news.ycombinator.com/item?id=37131626"
-    ],
-    [
-      "Sam Bankman-Fried is going to jail",
-      "https://arstechnica.com/tech-policy/2023/08/sam-bankman-fried-is-going-to-jail/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-08-14, 19:04:43",
-      "https://news.ycombinator.com/item?id=37125337"
-    ],
-    [
-      "Bombe: Minesweeper, but you only solve each situation once",
-      "https://store.steampowered.com/app/2262930/Bombe/"
-    ]
-  ],
-  [
-    [
       "2023-08-14, 18:52:54",
       "https://news.ycombinator.com/item?id=37125118"
     ],
@@ -237,16 +247,6 @@
     [
       "Next slide, please: A brief history of the corporate presentation",
       "https://www.technologyreview.com/2023/08/11/1077232/corporate-presentations-history/"
-    ]
-  ],
-  [
-    [
-      "2023-08-14, 12:59:07",
-      "https://news.ycombinator.com/item?id=37120510"
-    ],
-    [
-      "A C parser for CREATE and ALTER TABLE SQLite statements",
-      "https://github.com/marcobambini/sqlite-createtable-parser"
     ]
   ],
   [
