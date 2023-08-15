@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-14](index.md)
 
+* [2023-08-14, 23:57:49](https://news.ycombinator.com/item?id=37128392) - [Bankman-Fried used $100M in stolen FTX funds for political donations, US says](https://www.reuters.com/legal/bankman-fried-used-customer-funds-100-mln-us-political-donations-prosecutors-say-2023-08-14/)
 * [2023-08-14, 23:46:02](https://news.ycombinator.com/item?id=37128293) - [Show HN: AI-town, run your own custom AI world SIM with JavaScript](https://github.com/a16z-infra/ai-town)
+* [2023-08-14, 23:16:29](https://news.ycombinator.com/item?id=37128074) - [Vox Media Partners with WordPress VIP](https://wpvip.com/2023/08/14/vox-media-wordpress-vip/)
+* [2023-08-14, 23:14:28](https://news.ycombinator.com/item?id=37128044) - [Internet Archive Responds to Recording Industry Lawsuit Targeting Obsolete Media](https://blog.archive.org/2023/08/14/internet-archive-responds-to-recording-industry-lawsuit-targeting-obsolete-media/)
 * [2023-08-14, 22:42:45](https://news.ycombinator.com/item?id=37127684) - [What could Universal Early Childcare look like?](https://dchung.substack.com/p/what-could-universal-early-childcare)
 * [2023-08-14, 22:33:30](https://news.ycombinator.com/item?id=37127606) - [Montana loses fight against youth climate activists in landmark ruling](https://arstechnica.com/tech-policy/2023/08/montana-loses-fight-against-youth-climate-activists-in-landmark-ruling/)
 * [2023-08-14, 22:13:42](https://news.ycombinator.com/item?id=37127450) - [The Cuts at WVU](https://community.wvu.edu/~jokatz/Closure/)
@@ -15,6 +18,7 @@
 * [2023-08-14, 20:43:02](https://news.ycombinator.com/item?id=37126567) - [My (Herb Sutter's) C++ Now 2023 talk is online: “A TypeScript for C++”](https://herbsutter.com/2023/08/13/my-c-now-2023-talk-is-online-a-typescript-for-c/)
 * [2023-08-14, 20:40:04](https://news.ycombinator.com/item?id=37126530) - [Java 21: First Release Candidate](https://openjdk.org/projects/jdk/21/)
 * [2023-08-14, 20:40:04](https://news.ycombinator.com/item?id=37126530) - [Java 21: First Release Candidate](https://mail.openjdk.org/pipermail/jdk-dev/2023-August/008059.html)
+* [2023-08-14, 20:36:02](https://news.ycombinator.com/item?id=37126479) - [Peter Shor's MIT Fall 2022 course lecture notes on quantum computing](https://math.mit.edu/~shor/435-LN/)
 * [2023-08-14, 20:10:51](https://news.ycombinator.com/item?id=37126182) - [Burnout because of ChatGPT?](https://news.ycombinator.com/item?id=37126182)
 * [2023-08-14, 20:03:43](https://news.ycombinator.com/item?id=37126100) - [Tell HN: Google Maps is again requiring Wi-Fi scanning to enable navigation](https://news.ycombinator.com/item?id=37126100)
 * [2023-08-14, 19:42:17](https://news.ycombinator.com/item?id=37125830) - [OpenFarm – a free and open database and web application for gardening knowledge](https://openfarm.cc)
@@ -49,6 +53,7 @@
 * [2023-08-14, 14:58:42](https://news.ycombinator.com/item?id=37121794) - [A Quickstart Guide to Privacy](https://www.hai.haus/blog/privacy-quickstart-2023.html)
 * [2023-08-14, 14:34:19](https://news.ycombinator.com/item?id=37121501) - [Non-Thoughts on the Open Source Initiative](https://yakshav.es/non-thoughts-on-the-osi/)
 * [2023-08-14, 14:30:40](https://news.ycombinator.com/item?id=37121458) - [Caught by MuseScore's Dark Patterns](https://gadanidis.ca/posts/2021-11-09-musescore.html)
+* [2023-08-14, 14:26:46](https://news.ycombinator.com/item?id=37121403) - [First release from Anti Warez Association (1993)](https://defacto2.net/f/a3178)
 * [2023-08-14, 14:10:30](https://news.ycombinator.com/item?id=37121221) - [Rust Abstractions Posted for Sockets and Other Fundamental Network Bits](https://www.phoronix.com/news/Linux-Rust-Sockets-Patches)
 * [2023-08-14, 14:06:09](https://news.ycombinator.com/item?id=37121180) - [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
 * [2023-08-14, 13:48:53](https://news.ycombinator.com/item?id=37120982) - [Inside The Decline of Stack Exchange](https://www.thediff.co/archive/inside-the-decline-of-stack-exchange/)
