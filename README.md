@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-15, 00:52:22](https://news.ycombinator.com/item?id=37128783) - [StarCraft was never meant to be played the way Koreans played [video]](https://www.youtube.com/watch?v=FNqaR_XGwns)
 * [2023-08-14, 23:57:49](https://news.ycombinator.com/item?id=37128392) - [Bankman-Fried used $100M in stolen FTX funds for political donations, US says](https://www.reuters.com/legal/bankman-fried-used-customer-funds-100-mln-us-political-donations-prosecutors-say-2023-08-14/)
 * [2023-08-14, 23:46:02](https://news.ycombinator.com/item?id=37128293) - [Show HN: AI-town, run your own custom AI world SIM with JavaScript](https://github.com/a16z-infra/ai-town)
+* [2023-08-14, 23:44:19](https://news.ycombinator.com/item?id=37128281) - [Dell fined $6.5M after admitting it made overpriced monitors look discounted](https://arstechnica.com/gadgets/2023/08/dell-fined-6-5m-after-admitting-it-made-overpriced-monitors-look-discounted/)
 * [2023-08-14, 23:16:29](https://news.ycombinator.com/item?id=37128074) - [Vox Media Partners with WordPress VIP](https://wpvip.com/2023/08/14/vox-media-wordpress-vip/)
 * [2023-08-14, 23:14:28](https://news.ycombinator.com/item?id=37128044) - [Internet Archive Responds to Recording Industry Lawsuit Targeting Obsolete Media](https://blog.archive.org/2023/08/14/internet-archive-responds-to-recording-industry-lawsuit-targeting-obsolete-media/)
 * [2023-08-14, 22:33:30](https://news.ycombinator.com/item?id=37127606) - [Montana loses fight against youth climate activists in landmark ruling](https://arstechnica.com/tech-policy/2023/08/montana-loses-fight-against-youth-climate-activists-in-landmark-ruling/)
@@ -14,7 +16,6 @@
 * [2023-08-14, 17:43:40](https://news.ycombinator.com/item?id=37124059) - [Does there exist a complete implementation of the Risch algorithm?](https://mathoverflow.net/questions/374089/does-there-exist-a-complete-implementation-of-the-risch-algorithm)
 * [2023-08-14, 17:26:15](https://news.ycombinator.com/item?id=37123792) - [JWST spots giant black holes all over the early universe](https://www.quantamagazine.org/jwst-spots-giant-black-holes-all-over-the-early-universe-20230814/)
 * [2023-08-14, 17:01:29](https://news.ycombinator.com/item?id=37123455) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
-* [2023-08-14, 16:22:24](https://news.ycombinator.com/item?id=37122871) - [Backward Compatibility, Go 1.21, and Go 2](https://go.dev/blog/compat)
 * [2023-08-14, 15:21:40](https://news.ycombinator.com/item?id=37122064) - [Show HN: Epsilla – Open-source vector database with low query latency](https://github.com/epsilla-cloud/vectordb)
 * [2023-08-14, 15:16:43](https://news.ycombinator.com/item?id=37122006) - [Elixir – Why the dot when calling anonymous functions?](https://dashbit.co/blog/why-the-dot)
 * [2023-08-14, 14:34:19](https://news.ycombinator.com/item?id=37121501) - [Non-thoughts on the Open Source Initiative (2020)](https://yakshav.es/non-thoughts-on-the-osi/)
@@ -26,10 +27,9 @@
 * [2023-08-14, 11:49:59](https://news.ycombinator.com/item?id=37119942) - [Show HN: Little Rat – Chrome extension monitors network calls of all extensions](https://github.com/dnakov/little-rat)
 * [2023-08-14, 11:06:39](https://news.ycombinator.com/item?id=37119623) - [PicoLixp Explored: On Coroutines](https://picolisp-explored.com/picolixp-explored-on-coroutines)
 * [2023-08-14, 10:13:16](https://news.ycombinator.com/item?id=37119311) - [Launch HN: Serra (YC S23) – Open-core, Python-based dbt alternative](https://news.ycombinator.com/item?id=37119311)
-* [2023-08-14, 10:01:30](https://news.ycombinator.com/item?id=37119233) - [What happened to the microfinance company Kiva?](https://www.technologyreview.com/2023/08/14/1077351/microfinance-money-making/)
 * [2023-08-14, 05:37:38](https://news.ycombinator.com/item?id=37117818) - [The anesthetic effect of air at atmospheric pressure](https://pubmed.ncbi.nlm.nih.gov/1130736/)
+* [2023-08-14, 05:06:02](https://news.ycombinator.com/item?id=37117649) - [The Cost of Convenience](https://surma.dev/things/cost-of-convenience/)
 * [2023-08-13, 23:20:05](https://news.ycombinator.com/item?id=37115614) - [Emulating x86 on X64 on Aarch64](https://neugierig.org/software/blog/2023/08/x86-x64-aarch64.html)
-* [2023-08-13, 07:37:58](https://news.ycombinator.com/item?id=37107572) - [Floor Mouse (2018)](https://www.jefftk.com/p/floor-mouse)
 
 ## [Archives](archives/index.md)
 

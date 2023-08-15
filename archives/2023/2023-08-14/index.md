@@ -6,6 +6,7 @@
 
 * [2023-08-14, 23:57:49](https://news.ycombinator.com/item?id=37128392) - [Bankman-Fried used $100M in stolen FTX funds for political donations, US says](https://www.reuters.com/legal/bankman-fried-used-customer-funds-100-mln-us-political-donations-prosecutors-say-2023-08-14/)
 * [2023-08-14, 23:46:02](https://news.ycombinator.com/item?id=37128293) - [Show HN: AI-town, run your own custom AI world SIM with JavaScript](https://github.com/a16z-infra/ai-town)
+* [2023-08-14, 23:44:19](https://news.ycombinator.com/item?id=37128281) - [Dell fined $6.5M after admitting it made overpriced monitors look discounted](https://arstechnica.com/gadgets/2023/08/dell-fined-6-5m-after-admitting-it-made-overpriced-monitors-look-discounted/)
 * [2023-08-14, 23:16:29](https://news.ycombinator.com/item?id=37128074) - [Vox Media Partners with WordPress VIP](https://wpvip.com/2023/08/14/vox-media-wordpress-vip/)
 * [2023-08-14, 23:14:28](https://news.ycombinator.com/item?id=37128044) - [Internet Archive Responds to Recording Industry Lawsuit Targeting Obsolete Media](https://blog.archive.org/2023/08/14/internet-archive-responds-to-recording-industry-lawsuit-targeting-obsolete-media/)
 * [2023-08-14, 22:42:45](https://news.ycombinator.com/item?id=37127684) - [What could Universal Early Childcare look like?](https://dchung.substack.com/p/what-could-universal-early-childcare)
@@ -91,6 +92,7 @@
 * [2023-08-14, 06:29:02](https://news.ycombinator.com/item?id=37118098) - [Semantic Code Reviews – Simple and direct comments without drama](https://www.m31coding.com/blog/semantic-reviews.html)
 * [2023-08-14, 06:25:04](https://news.ycombinator.com/item?id=37118081) - [Fediverse and Naive Bayes: The Grandfather of Spam Filters Still Making Waves](https://pixelfed.blog/p/2023/feature/autospam-and-naive-bayes-the-grandfather-of-spam-filters-still-making-waves)
 * [2023-08-14, 05:37:38](https://news.ycombinator.com/item?id=37117818) - [The anesthetic effect of air at atmospheric pressure](https://pubmed.ncbi.nlm.nih.gov/1130736/)
+* [2023-08-14, 05:06:02](https://news.ycombinator.com/item?id=37117649) - [The Cost of Convenience](https://surma.dev/things/cost-of-convenience/)
 * [2023-08-14, 04:44:16](https://news.ycombinator.com/item?id=37117545) - [Far-right populist emerges as biggest vote in Argentina’s presidential primary](https://apnews.com/article/argentina-primaries-primary-paso-elections-a4fdbe888b7f561c3833ba4eca7e5d72)
 * [2023-08-14, 04:29:46](https://news.ycombinator.com/item?id=37117469) - [Core War, a very old game about programming](https://en.wikipedia.org/wiki/Core_War)
 * [2023-08-14, 04:02:58](https://news.ycombinator.com/item?id=37117338) - [They Bypass YouTube Video Download Throttling](https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling/)
