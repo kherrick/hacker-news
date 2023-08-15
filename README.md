@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-15, 06:23:33](https://news.ycombinator.com/item?id=37130832) - [WhoFundsWho: Instantly see who funds the organizations you are reading about](https://whofundswho.com/)
 * [2023-08-15, 04:21:27](https://news.ycombinator.com/item?id=37130138) - [Features of Project Loom incorporated in JDK 21](https://jdk.java.net/loom/)
 * [2023-08-15, 04:09:03](https://news.ycombinator.com/item?id=37130060) - [Tell HN: t.co is adding a five-second delay to some domains](https://news.ycombinator.com/item?id=37130060)
 * [2023-08-15, 03:32:16](https://news.ycombinator.com/item?id=37129853) - [What coal and Jevons’ paradox tell us about AI and data](https://hex.tech/blog/jevons-paradox-demand-for-insight/)
@@ -30,6 +29,7 @@
 * [2023-08-14, 05:06:02](https://news.ycombinator.com/item?id=37117649) - [The Cost of Convenience](https://surma.dev/things/cost-of-convenience/)
 * [2023-08-13, 23:20:05](https://news.ycombinator.com/item?id=37115614) - [Emulating x86 on X64 on Aarch64](https://neugierig.org/software/blog/2023/08/x86-x64-aarch64.html)
 * [2023-08-13, 09:52:34](https://news.ycombinator.com/item?id=37108328) - [Ask HN: How did Paul Allen write an 8080 emulator in 1974?](https://news.ycombinator.com/item?id=37108328)
+* [2023-08-12, 14:58:21](https://news.ycombinator.com/item?id=37100833) - [The original source code of the vi text editor, taken from System V](https://github.com/Cube9999/vi)
 
 ## [Archives](archives/index.md)
 

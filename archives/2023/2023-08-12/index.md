@@ -30,6 +30,7 @@
 * [2023-08-12, 15:14:44](https://news.ycombinator.com/item?id=37101012) - [Hollywood’s Cold War Dissidents in Ireland](https://www.historytoday.com/archive/history-matters/dangerous-reds)
 * [2023-08-12, 15:11:57](https://news.ycombinator.com/item?id=37100986) - [Vectorized UTF-8 Validation for Java](https://github.com/AugustNagro/utf8.java)
 * [2023-08-12, 15:09:48](https://news.ycombinator.com/item?id=37100965) - [Poor Clares Convent Cemetery](https://www.atlasobscura.com/places/poor-clares-cemetery)
+* [2023-08-12, 14:58:21](https://news.ycombinator.com/item?id=37100833) - [The original source code of the vi text editor, taken from System V](https://github.com/Cube9999/vi)
 * [2023-08-12, 14:50:09](https://news.ycombinator.com/item?id=37100757) - [Postgres Audit Tables Saved Us from Taking Down Production](https://www.heap.io/blog/how-postgres-audit-tables-saved-us-from-taking-down-production)
 * [2023-08-12, 14:39:26](https://news.ycombinator.com/item?id=37100641) - [Securing Your PostgreSQL DB with Roles and Privileges](https://rlopzc.com/posts/securing-your-postgresql-db-with-roles--privileges/)
 * [2023-08-12, 14:32:39](https://news.ycombinator.com/item?id=37100565) - [NASA's Software Catalog offers hundreds of new software programs for free](https://software.nasa.gov/)
