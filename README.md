@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-15, 18:41:43](https://news.ycombinator.com/item?id=37137630) - [Employees in Asia are spending most time looking busy at work, says Slack report](https://www.cnbc.com/2023/08/14/employees-in-asia-are-spending-the-most-time-looking-busy-at-work.html)
 * [2023-08-15, 17:55:30](https://news.ycombinator.com/item?id=37137130) - [Private jet came ‘within 100 feet’ of colliding with Southwest plane, NTSB says](https://www.dallasnews.com/business/airlines/2023/08/14/ntsb-probes-near-collision-of-southwest-airlines-business-jets-in-san-diego/)
 * [2023-08-15, 17:54:13](https://news.ycombinator.com/item?id=37137110) - [We reduced the cost of building Mastodon at Twitter-scale by 100x](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
 * [2023-08-15, 17:38:10](https://news.ycombinator.com/item?id=37136898) - [Opendream: A layer-based UI for Stable Diffusion](https://github.com/varunshenoy/opendream)
@@ -25,7 +26,6 @@
 * [2023-08-15, 02:22:52](https://news.ycombinator.com/item?id=37129417) - [Carl Linnaeus Set Out to Label All of Life](https://www.newyorker.com/magazine/2023/08/21/the-man-who-organized-nature-the-life-of-linnaeus-gunnar-broberg-book-review)
 * [2023-08-15, 01:06:03](https://news.ycombinator.com/item?id=37128885) - [How to be successful as a research mathematician? Follow your gut](https://www.nature.com/articles/d41586-023-02555-z)
 * [2023-08-14, 21:15:22](https://news.ycombinator.com/item?id=37126890) - [Mine in the Northwest Territories provided uranium to Manhattan Project (2011)](https://maisonneuve.org/article/2011/08/12/they-never-told-us-these-things/?ref=thebrowser.com)
-* [2023-08-14, 14:27:58](https://news.ycombinator.com/item?id=37121418) - [Fanatics Is Building a Weird Monopoly over Sports Trading Cards](https://www.thebignewsletter.com/p/how-fanatics-is-building-a-weird)
 * [2023-08-14, 11:30:50](https://news.ycombinator.com/item?id=37119795) - [Hip hop historians who are racing to preserve its story](https://www.wired.com/story/archiving-hip-hop-history/)
 * [2023-08-14, 06:56:11](https://news.ycombinator.com/item?id=37118239) - [Decimal to fraction](https://leancrew.com/all-this/2023/08/decimal-to-fraction/)
 * [2023-08-14, 06:16:38](https://news.ycombinator.com/item?id=37118045) - [Timing with Curl (2010)](https://susam.net/blog/timing-with-curl.html)

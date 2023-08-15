@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
+* [2023-08-15, 18:41:43](https://news.ycombinator.com/item?id=37137630) - [Employees in Asia are spending most time looking busy at work, says Slack report](https://www.cnbc.com/2023/08/14/employees-in-asia-are-spending-the-most-time-looking-busy-at-work.html)
 * [2023-08-15, 17:55:30](https://news.ycombinator.com/item?id=37137130) - [Private jet came ‘within 100 feet’ of colliding with Southwest plane, NTSB says](https://www.dallasnews.com/business/airlines/2023/08/14/ntsb-probes-near-collision-of-southwest-airlines-business-jets-in-san-diego/)
 * [2023-08-15, 17:54:13](https://news.ycombinator.com/item?id=37137110) - [We reduced the cost of building Twitter at Twitter-scale by 100x](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
 * [2023-08-15, 17:38:10](https://news.ycombinator.com/item?id=37136898) - [Opendream: A Layer Based UI for Stable Diffusion](https://github.com/varunshenoy/opendream)
