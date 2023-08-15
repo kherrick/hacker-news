@@ -2,7 +2,6 @@
 
 * [2023-08-15, 04:09:03](https://news.ycombinator.com/item?id=37130060) - [Tell HN: t.co is adding a five-second delay to some domains](https://news.ycombinator.com/item?id=37130060)
 * [2023-08-15, 03:18:58](https://news.ycombinator.com/item?id=37129768) - [A Warning from the Unpublished Preface to Orwell’s Animal Farm](https://mindmatters.ai/2023/08/a-warning-from-the-unpublished-preface-to-orwells-animal-farm/)
-* [2023-08-15, 03:05:04](https://news.ycombinator.com/item?id=37129690) - [Brandon Gilles Dies from Long-Covid, Electrical Engineer and Spatial AI Pioneer](https://www.mcphagwara.com/articles/brandon-gilles-obituary/)
 * [2023-08-15, 02:08:27](https://news.ycombinator.com/item?id=37129318) - [Webvan: The Dotcom Bubble’s Biggest Bust](https://streetfins.com/webvan-the-dotcom-bubbles-biggest-bust/)
 * [2023-08-15, 01:39:40](https://news.ycombinator.com/item?id=37129132) - [Lynn Conway's Story (2000)](https://ai.eecs.umich.edu/people/conway/LynnsStory.html)
 * [2023-08-14, 23:46:02](https://news.ycombinator.com/item?id=37128293) - [Show HN: AI-town, run your own custom AI world SIM with JavaScript](https://github.com/a16z-infra/ai-town)
@@ -26,6 +25,7 @@
 * [2023-08-14, 12:59:07](https://news.ycombinator.com/item?id=37120510) - [A C parser for CREATE and ALTER TABLE SQLite statements](https://github.com/marcobambini/sqlite-createtable-parser)
 * [2023-08-14, 11:49:59](https://news.ycombinator.com/item?id=37119942) - [Show HN: Little Rat – Chrome extension monitors network calls of all extensions](https://github.com/dnakov/little-rat)
 * [2023-08-14, 11:06:39](https://news.ycombinator.com/item?id=37119623) - [PicoLisp Explored: On Coroutines](https://picolisp-explored.com/picolixp-explored-on-coroutines)
+* [2023-08-14, 10:46:12](https://news.ycombinator.com/item?id=37119482) - [AST vs. Bytecode: Interpreters in the Age of Meta-Compilation [pdf]](https://stefan-marr.de/downloads/oopsla23-larose-et-al-ast-vs-bytecode-interpreters-in-the-age-of-meta-compilation.pdf)
 * [2023-08-14, 10:13:16](https://news.ycombinator.com/item?id=37119311) - [Launch HN: Serra (YC S23) – Open-core, Python-based dbt alternative](https://news.ycombinator.com/item?id=37119311)
 * [2023-08-14, 05:37:38](https://news.ycombinator.com/item?id=37117818) - [The anesthetic effect of air at atmospheric pressure](https://pubmed.ncbi.nlm.nih.gov/1130736/)
 * [2023-08-14, 05:06:02](https://news.ycombinator.com/item?id=37117649) - [The Cost of Convenience](https://surma.dev/things/cost-of-convenience/)

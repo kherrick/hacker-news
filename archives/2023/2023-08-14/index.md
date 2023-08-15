@@ -76,6 +76,7 @@
 * [2023-08-14, 11:30:14](https://news.ycombinator.com/item?id=37119790) - [Argentina voted no on the Argentinian peso. USD will become its new currency](https://www.nytimes.com/2023/08/14/world/americas/argentina-javier-milei-president-primary.html)
 * [2023-08-14, 11:29:36](https://news.ycombinator.com/item?id=37119786) - [Show HN: Generate a free User Persona in 10 seconds](https://founderpal.ai/user-persona-generator)
 * [2023-08-14, 11:06:39](https://news.ycombinator.com/item?id=37119623) - [PicoLixp Explored: On Coroutines](https://picolisp-explored.com/picolixp-explored-on-coroutines)
+* [2023-08-14, 10:46:12](https://news.ycombinator.com/item?id=37119482) - [AST vs. Bytecode: Interpreters in the Age of Meta-Compilation [pdf]](https://stefan-marr.de/downloads/oopsla23-larose-et-al-ast-vs-bytecode-interpreters-in-the-age-of-meta-compilation.pdf)
 * [2023-08-14, 10:23:20](https://news.ycombinator.com/item?id=37119370) - [D J Bernstein – The IPv6 mess](http://cr.yp.to/djbdns/ipv6mess.html)
 * [2023-08-14, 10:13:16](https://news.ycombinator.com/item?id=37119311) - [Launch HN: Serra (YC S23) – Open-source, Python-based dbt alternative](https://news.ycombinator.com/item?id=37119311)
 * [2023-08-14, 10:01:30](https://news.ycombinator.com/item?id=37119233) - [What happened to the microfinance company Kiva?](https://www.technologyreview.com/2023/08/14/1077351/microfinance-money-making/)
