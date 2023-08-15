@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
+* [2023-08-15, 14:56:40](https://news.ycombinator.com/item?id=37134770) - [Ask HN: PayPal's negligence and incompetence has cost me $270. What can I do?](https://news.ycombinator.com/item?id=37134770)
 * [2023-08-15, 14:48:27](https://news.ycombinator.com/item?id=37134654) - [Predatory journals entrap unsuspecting scientists](https://www.nature.com/articles/d41586-023-02553-1)
 * [2023-08-15, 14:40:13](https://news.ycombinator.com/item?id=37134563) - [Ball milling destroys PFAS in contaminated soil](https://phys.org/news/2023-08-chemicals.html)
 * [2023-08-15, 14:36:35](https://news.ycombinator.com/item?id=37134520) - [Code Is Not Literature](https://gigamonkeys.com/code-reading/)
