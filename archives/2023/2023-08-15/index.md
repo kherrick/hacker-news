@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
+* [2023-08-15, 12:31:27](https://news.ycombinator.com/item?id=37133163) - [Show HN: Llama2 Embeddings FastAPI Server](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service)
 * [2023-08-15, 12:00:12](https://news.ycombinator.com/item?id=37132855) - [Metriport (YC S22) Is Hiring](https://www.ycombinator.com/companies/metriport/jobs/jsOCunE-software-engineer)
 * [2023-08-15, 11:47:44](https://news.ycombinator.com/item?id=37132754) - [Show HN: Visual Reference to CSS Selectors](https://fffuel.co/css-selectors/)
 * [2023-08-15, 10:30:23](https://news.ycombinator.com/item?id=37132209) - [GPU-Accelerated LLM on a $100 Orange Pi](https://blog.mlc.ai/2023/08/09/GPU-Accelerated-LLM-on-Orange-Pi)

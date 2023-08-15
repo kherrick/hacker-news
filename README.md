@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-15, 12:31:27](https://news.ycombinator.com/item?id=37133163) - [Show HN: Llama2 Embeddings FastAPI Server](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service)
 * [2023-08-15, 12:00:12](https://news.ycombinator.com/item?id=37132855) - [Metriport (YC S22) Is Hiring](https://www.ycombinator.com/companies/metriport/jobs/jsOCunE-software-engineer)
 * [2023-08-15, 11:47:44](https://news.ycombinator.com/item?id=37132754) - [Show HN: Visual Reference to CSS Selectors](https://fffuel.co/css-selectors/)
 * [2023-08-15, 10:30:23](https://news.ycombinator.com/item?id=37132209) - [GPU-Accelerated LLM on a $100 Orange Pi](https://blog.mlc.ai/2023/08/09/GPU-Accelerated-LLM-on-Orange-Pi)
@@ -18,7 +19,6 @@
 * [2023-08-14, 23:46:02](https://news.ycombinator.com/item?id=37128293) - [Show HN: AI-town, run your own custom AI world SIM with JavaScript](https://github.com/a16z-infra/ai-town)
 * [2023-08-14, 23:14:28](https://news.ycombinator.com/item?id=37128044) - [Internet Archive responds to recording industry lawsuit targeting obsolete media](https://blog.archive.org/2023/08/14/internet-archive-responds-to-recording-industry-lawsuit-targeting-obsolete-media/)
 * [2023-08-14, 19:42:17](https://news.ycombinator.com/item?id=37125830) - [OpenFarm – a free and open database and web application for gardening knowledge](https://openfarm.cc)
-* [2023-08-14, 19:04:43](https://news.ycombinator.com/item?id=37125337) - [Bombe: Minesweeper, but you only solve each situation once](https://store.steampowered.com/app/2262930/Bombe/)
 * [2023-08-14, 18:52:54](https://news.ycombinator.com/item?id=37125118) - [Show HN: LLMs can generate valid JSON 100% of the time](https://github.com/normal-computing/outlines)
 * [2023-08-14, 18:40:25](https://news.ycombinator.com/item?id=37124877) - [Next slide, please: A brief history of the corporate presentation](https://www.technologyreview.com/2023/08/11/1077232/corporate-presentations-history/)
 * [2023-08-14, 17:26:15](https://news.ycombinator.com/item?id=37123792) - [JWST spots giant black holes all over the early universe](https://www.quantamagazine.org/jwst-spots-giant-black-holes-all-over-the-early-universe-20230814/)
