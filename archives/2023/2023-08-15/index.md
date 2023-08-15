@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
+* [2023-08-15, 12:00:12](https://news.ycombinator.com/item?id=37132855) - [Metriport (YC S22) Is Hiring](https://www.ycombinator.com/companies/metriport/jobs/jsOCunE-software-engineer)
+* [2023-08-15, 11:47:44](https://news.ycombinator.com/item?id=37132754) - [Show HN: Visual Reference to CSS Selectors](https://fffuel.co/css-selectors/)
 * [2023-08-15, 10:30:23](https://news.ycombinator.com/item?id=37132209) - [GPU-Accelerated LLM on a $100 Orange Pi](https://blog.mlc.ai/2023/08/09/GPU-Accelerated-LLM-on-Orange-Pi)
 * [2023-08-15, 10:18:46](https://news.ycombinator.com/item?id=37132136) - [Introducing the Safer: A Better Alternative to Safes for Startup Financing](https://nextwave.partners/insights/introducing-safer-better-alternative-safes-startup-financing)
 * [2023-08-15, 09:58:53](https://news.ycombinator.com/item?id=37132025) - [How to find out if programming is for you](https://www.zackproser.com/blog/first-see-if-youve-got-the-bug)
+* [2023-08-15, 09:46:12](https://news.ycombinator.com/item?id=37131957) - [Privacy friendly ESP32 smart doorbell with Home Assistant local integration](https://tristam.ie/2023/758/)
 * [2023-08-15, 09:38:19](https://news.ycombinator.com/item?id=37131902) - [Why Americans Are So Awful to One Another](https://www.theatlantic.com/magazine/archive/2023/09/us-culture-moral-education-formation/674765/)
 * [2023-08-15, 09:28:15](https://news.ycombinator.com/item?id=37131854) - [Most bosses regret how they mandated workers return to the office](https://fortune.com/2023/08/14/bosses-regretting-return-to-office-mandates/)
 * [2023-08-15, 09:18:07](https://news.ycombinator.com/item?id=37131802) - [Things you forgot because of React](https://joshcollinsworth.com/blog/antiquated-react)
