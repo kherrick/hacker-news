@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
+* [2023-08-15, 10:18:46](https://news.ycombinator.com/item?id=37132136) - [Introducing the Safer: A Better Alternative to Safes for Startup Financing](https://nextwave.partners/insights/introducing-safer-better-alternative-safes-startup-financing)
 * [2023-08-15, 09:58:53](https://news.ycombinator.com/item?id=37132025) - [How to find out if programming is for you](https://www.zackproser.com/blog/first-see-if-youve-got-the-bug)
 * [2023-08-15, 09:38:19](https://news.ycombinator.com/item?id=37131902) - [Why Americans Are So Awful to One Another](https://www.theatlantic.com/magazine/archive/2023/09/us-culture-moral-education-formation/674765/)
 * [2023-08-15, 09:28:15](https://news.ycombinator.com/item?id=37131854) - [Most bosses regret how they mandated workers return to the office](https://fortune.com/2023/08/14/bosses-regretting-return-to-office-mandates/)

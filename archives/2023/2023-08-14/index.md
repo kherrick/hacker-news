@@ -31,6 +31,7 @@
 * [2023-08-14, 19:04:43](https://news.ycombinator.com/item?id=37125337) - [Bombe: Minesweeper, but you only solve each situation once](https://store.steampowered.com/app/2262930/Bombe/)
 * [2023-08-14, 18:59:37](https://news.ycombinator.com/item?id=37125244) - [Videos from Python Web Conf 2023 Available on YouTube](https://sixfeetup.com/company/news/80-talks-and-tutorials-from-2023-python-web-conference-released)
 * [2023-08-14, 18:52:54](https://news.ycombinator.com/item?id=37125118) - [Show HN: LLMs can generate valid JSON 100% of the time](https://github.com/normal-computing/outlines)
+* [2023-08-14, 18:40:25](https://news.ycombinator.com/item?id=37124877) - [Next slide, please: A brief history of the corporate presentation](https://www.technologyreview.com/2023/08/11/1077232/corporate-presentations-history/)
 * [2023-08-14, 18:10:19](https://news.ycombinator.com/item?id=37124424) - [Trafilatura: Python tool to gather text on the Web](https://github.com/adbar/trafilatura)
 * [2023-08-14, 18:06:15](https://news.ycombinator.com/item?id=37124373) - [We mourn the loss of Stefan Tilkov](https://www.innoq.com/en/news/2023/08/stefan-tilkov-english/)
 * [2023-08-14, 18:01:53](https://news.ycombinator.com/item?id=37124329) - [More Americans Are Ending Up Homeless–At a Record Rate](https://www.wsj.com/articles/homelessness-increasing-united-states-housing-costs-e1990ac7)
