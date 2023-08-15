@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
+* [2023-08-15, 20:05:43](https://news.ycombinator.com/item?id=37138681) - [ISPs complain that listing every fee is too hard, urge FCC to scrap new rule](https://arstechnica.com/tech-policy/2023/08/isps-complain-that-listing-every-fee-is-too-hard-urge-fcc-to-scrap-new-rule/)
 * [2023-08-15, 19:19:16](https://news.ycombinator.com/item?id=37138102) - [Asteroid ZTm0038 with a >3% impact probability](https://newton.spacedys.com/neodys2/NEOScan/risk_page/ZTm0038/index_summary_ZTm0038.html)
 * [2023-08-15, 18:57:16](https://news.ycombinator.com/item?id=37137810) - [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
 * [2023-08-15, 18:54:38](https://news.ycombinator.com/item?id=37137781) - [The Future of Terraform Must Be Open](https://blog.gruntwork.io/the-future-of-terraform-must-be-open-ab0b9ba65bca?gi=c07f9cd96456)
@@ -38,6 +39,7 @@
 * [2023-08-15, 12:31:27](https://news.ycombinator.com/item?id=37133163) - [Show HN: Llama2 Embeddings FastAPI Server](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service)
 * [2023-08-15, 12:19:33](https://news.ycombinator.com/item?id=37133054) - [The OpenTF Manifesto](https://opentf.org/)
 * [2023-08-15, 12:17:14](https://news.ycombinator.com/item?id=37133033) - [Nintendo DS cameras are the best lo-fi photo trend](https://www.polygon.com/23827844/nintendo-ds-dsi-3ds-camera-lofi-photo-trend)
+* [2023-08-15, 12:16:10](https://news.ycombinator.com/item?id=37133023) - [Why Darwin admired the humble earthworm](https://nautil.us/why-darwin-admired-the-humble-earthworm-361515/)
 * [2023-08-15, 12:13:02](https://news.ycombinator.com/item?id=37132994) - [Acoustics expert brings rock-and-roll touch to sound of St. Peter's](https://cruxnow.com/vatican/2023/08/acoustics-expert-brings-rock-and-roll-touch-to-sound-of-st-peters)
 * [2023-08-15, 12:00:12](https://news.ycombinator.com/item?id=37132855) - [Metriport (YC S22) Is Hiring](https://www.ycombinator.com/companies/metriport/jobs/jsOCunE-software-engineer)
 * [2023-08-15, 11:47:44](https://news.ycombinator.com/item?id=37132754) - [Show HN: Visual Reference to CSS Selectors](https://fffuel.co/css-selectors/)
