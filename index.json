@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-08-15, 03:05:04",
-      "https://news.ycombinator.com/item?id=37129690"
-    ],
-    [
-      "Brandon Gilles Dies from Long-Covid, Electrical Engineer and Spatial AI Pioneer",
-      "https://www.mcphagwara.com/articles/brandon-gilles-obituary/"
-    ]
-  ],
-  [
-    [
       "2023-08-15, 02:08:27",
       "https://news.ycombinator.com/item?id=37129318"
     ],
@@ -257,6 +247,16 @@
     [
       "PicoLisp Explored: On Coroutines",
       "https://picolisp-explored.com/picolixp-explored-on-coroutines"
+    ]
+  ],
+  [
+    [
+      "2023-08-14, 10:46:12",
+      "https://news.ycombinator.com/item?id=37119482"
+    ],
+    [
+      "AST vs. Bytecode: Interpreters in the Age of Meta-Compilation [pdf]",
+      "https://stefan-marr.de/downloads/oopsla23-larose-et-al-ast-vs-bytecode-interpreters-in-the-age-of-meta-compilation.pdf"
     ]
   ],
   [
