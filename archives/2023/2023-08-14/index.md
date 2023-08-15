@@ -94,6 +94,7 @@
 * [2023-08-14, 06:29:02](https://news.ycombinator.com/item?id=37118098) - [Semantic Code Reviews – Simple and direct comments without drama](https://www.m31coding.com/blog/semantic-reviews.html)
 * [2023-08-14, 06:25:04](https://news.ycombinator.com/item?id=37118081) - [Fediverse and Naive Bayes: The Grandfather of Spam Filters Still Making Waves](https://pixelfed.blog/p/2023/feature/autospam-and-naive-bayes-the-grandfather-of-spam-filters-still-making-waves)
 * [2023-08-14, 05:37:38](https://news.ycombinator.com/item?id=37117818) - [The anesthetic effect of air at atmospheric pressure](https://pubmed.ncbi.nlm.nih.gov/1130736/)
+* [2023-08-14, 05:06:12](https://news.ycombinator.com/item?id=37117650) - [Why Rivian Tires Sometimes Last as Little as 6k Miles](https://jalopnik.com/why-rivian-ev-tires-do-not-last-long-6000-miles-1850729545)
 * [2023-08-14, 05:06:02](https://news.ycombinator.com/item?id=37117649) - [The Cost of Convenience](https://surma.dev/things/cost-of-convenience/)
 * [2023-08-14, 04:44:16](https://news.ycombinator.com/item?id=37117545) - [Far-right populist emerges as biggest vote in Argentina’s presidential primary](https://apnews.com/article/argentina-primaries-primary-paso-elections-a4fdbe888b7f561c3833ba4eca7e5d72)
 * [2023-08-14, 04:29:46](https://news.ycombinator.com/item?id=37117469) - [Core War, a very old game about programming](https://en.wikipedia.org/wiki/Core_War)
