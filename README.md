@@ -16,7 +16,7 @@
 * [2023-08-14, 18:10:19](https://news.ycombinator.com/item?id=37124424) - [Trafilatura: Python tool to gather text on the Web](https://github.com/adbar/trafilatura)
 * [2023-08-14, 17:43:40](https://news.ycombinator.com/item?id=37124059) - [Does there exist a complete implementation of the Risch algorithm?](https://mathoverflow.net/questions/374089/does-there-exist-a-complete-implementation-of-the-risch-algorithm)
 * [2023-08-14, 17:26:15](https://news.ycombinator.com/item?id=37123792) - [JWST spots giant black holes all over the early universe](https://www.quantamagazine.org/jwst-spots-giant-black-holes-all-over-the-early-universe-20230814/)
-* [2023-08-14, 16:22:24](https://news.ycombinator.com/item?id=37122871) - [Backward Compatibility, Go 1.21, and Go 2](https://go.dev/blog/compat)
+* [2023-08-14, 16:44:05](https://news.ycombinator.com/item?id=37123155) - [ParkyTowers: Thin Clients Laid Bare](https://www.parkytowers.me.uk/thin/)
 * [2023-08-14, 15:21:40](https://news.ycombinator.com/item?id=37122064) - [Show HN: Epsilla – Open-source vector database with low query latency](https://github.com/epsilla-cloud/vectordb)
 * [2023-08-14, 14:26:46](https://news.ycombinator.com/item?id=37121403) - [Anti Warez Association, 1 (1993)](https://defacto2.net/f/a3178)
 * [2023-08-14, 12:59:07](https://news.ycombinator.com/item?id=37120510) - [A C parser for CREATE and ALTER TABLE SQLite statements](https://github.com/marcobambini/sqlite-createtable-parser)
