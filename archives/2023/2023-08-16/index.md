@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-08-16](index.md)
 
+* [2023-08-16, 12:08:25](https://news.ycombinator.com/item?id=37145789) - [Owner of hydrogen-powered Hyundai quoted $175,000 to replace fuel cell](https://www.drive.com.au/news/hyundai-ix35-hydrogen-fuel-cell-repair-germany/)
+* [2023-08-16, 12:01:09](https://news.ycombinator.com/item?id=37145725) - [Firm regrets taking Facebook moderation work](https://www.bbc.com/news/technology-66465231)
+* [2023-08-16, 11:41:07](https://news.ycombinator.com/item?id=37145558) - [Amazon Pharmacy automates discounts to help insulin patients get pledged prices](https://www.reuters.com/business/retail-consumer/amazon-pharmacy-automates-discounts-help-insulin-patients-get-pledged-prices-2023-08-15/)
+* [2023-08-16, 11:33:18](https://news.ycombinator.com/item?id=37145491) - [They Tried to Kill Me](https://www.nplusonemag.com/online-only/online-only/how-they-tried-to-kill-me/)
 * [2023-08-16, 11:25:20](https://news.ycombinator.com/item?id=37145427) - [Nintendo Is Trying to Patent Some Broad Tears of the Kingdom Mechanics](https://kotaku.com/nintendo-is-trying-to-patent-some-really-broad-tears-of-1850730637)
+* [2023-08-16, 11:18:48](https://news.ycombinator.com/item?id=37145368) - [Majority of Smithsonian’s Human Brain Specimens Was ‘Gathered Without Consent’](https://www.artnews.com/art-news/news/smithsonian-museum-natural-history-brains-consent-washington-post-1234677078/)
 * [2023-08-16, 10:19:32](https://news.ycombinator.com/item?id=37144985) - [Htmx is part of the GitHub Accelerator](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
 * [2023-08-16, 10:09:00](https://news.ycombinator.com/item?id=37144925) - [Show HN: Repo with a list of 80 decent companies hiring remotely in Europe](https://github.com/EuropeanRemote/european-remote-software-companies)
 * [2023-08-16, 10:04:25](https://news.ycombinator.com/item?id=37144894) - [On to Elixir](https://thraxil.org/users/anders/posts/2023/08/05/on-to-elixir)

@@ -104,6 +104,7 @@
 * [2023-08-15, 03:18:18](https://news.ycombinator.com/item?id=37129764) - [Functional Programming 1](https://www.youtube.com/playlist?list=PLA_-EWSPTJcu4i7RFCl_KeGrrz37C4_Oc)
 * [2023-08-15, 03:17:07](https://news.ycombinator.com/item?id=37129759) - [The small steps that lead to dystopia](https://mindmatters.ai/2023/08/the-small-steps-that-lead-to-dystopia/)
 * [2023-08-15, 03:05:04](https://news.ycombinator.com/item?id=37129690) - [Brandon Gilles Dies from Long-Covid, Electrical Engineer and Spatial AI Pioneer](https://www.mcphagwara.com/articles/brandon-gilles-obituary/)
+* [2023-08-15, 02:35:34](https://news.ycombinator.com/item?id=37129514) - [Ruins of Emperor Nero’s Theater Discovered Near Vatican](https://www.scientificamerican.com/article/ruins-of-neros-theater-discovered-near-vatican1/)
 * [2023-08-15, 02:22:52](https://news.ycombinator.com/item?id=37129417) - [Carl Linnaeus Set Out to Label All of Life](https://www.newyorker.com/magazine/2023/08/21/the-man-who-organized-nature-the-life-of-linnaeus-gunnar-broberg-book-review)
 * [2023-08-15, 02:14:43](https://news.ycombinator.com/item?id=37129359) - [Colleges Spend Like There’s No Tomorrow. ‘These Places Are Just Devouring Money'](https://www.wsj.com/articles/state-university-tuition-increase-spending-41a58100)
 * [2023-08-15, 02:08:27](https://news.ycombinator.com/item?id=37129318) - [Webvan: The Dotcom Bubble’s Biggest Bust](https://streetfins.com/webvan-the-dotcom-bubbles-biggest-bust/)
