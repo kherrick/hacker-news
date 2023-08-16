@@ -81,6 +81,7 @@
 * [2023-08-16, 11:25:20](https://news.ycombinator.com/item?id=37145427) - [Nintendo Is Trying to Patent Some Broad Tears of the Kingdom Mechanics](https://kotaku.com/nintendo-is-trying-to-patent-some-really-broad-tears-of-1850730637)
 * [2023-08-16, 11:24:05](https://news.ycombinator.com/item?id=37145411) - [Energy Jobs Have Increased in Nearly Every County in America](https://www.energy.gov/articles/us-department-energy-finds-energy-jobs-have-increased-nearly-every-county-america)
 * [2023-08-16, 11:18:48](https://news.ycombinator.com/item?id=37145368) - [Majority of Smithsonian’s Human Brain Specimens Was ‘Gathered Without Consent’](https://www.artnews.com/art-news/news/smithsonian-museum-natural-history-brains-consent-washington-post-1234677078/)
+* [2023-08-16, 10:51:23](https://news.ycombinator.com/item?id=37145195) - [The 8088 Prefetch Algorithm](https://martypc.blogspot.com/2023/08/the-8088-prefetch-algorithm.html)
 * [2023-08-16, 10:19:32](https://news.ycombinator.com/item?id=37144985) - [Htmx is part of the GitHub Accelerator](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
 * [2023-08-16, 10:09:00](https://news.ycombinator.com/item?id=37144925) - [Show HN: Repo with a list of 80 decent companies hiring remotely in Europe](https://github.com/EuropeanRemote/european-remote-software-companies)
 * [2023-08-16, 10:04:25](https://news.ycombinator.com/item?id=37144894) - [On to Elixir](https://thraxil.org/users/anders/posts/2023/08/05/on-to-elixir)
