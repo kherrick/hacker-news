@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-16](index.md)
 
+* [2023-08-16, 13:16:59](https://news.ycombinator.com/item?id=37146592) - [Tesla’s ‘ultra hardcore’ work culture – as told by its employees](https://www.theverge.com/2023/8/16/23833447/tesla-elon-musk-ultra-hardcore-employees-land-of-the-giants)
 * [2023-08-16, 13:10:59](https://news.ycombinator.com/item?id=37146532) - [The uses and abuses of Cloud Data Warehouses](https://materialize.com/blog/warehouse-abuse/)
+* [2023-08-16, 13:10:45](https://news.ycombinator.com/item?id=37146521) - [Immortal Objects for Python](https://engineering.fb.com/2023/08/15/developer-tools/immortal-objects-for-python-instagram-meta/)
 * [2023-08-16, 13:06:28](https://news.ycombinator.com/item?id=37146469) - [You need 27 tickets to guarantee a win on the UK National Lottery](https://arxiv.org/abs/2307.12430)
 * [2023-08-16, 13:00:26](https://news.ycombinator.com/item?id=37146398) - [How do we save water: Stop growing alfalfa in Imperial County](https://www.desertsun.com/story/opinion/contributors/valley-voice/2023/02/05/growing-alfalfa-in-imperial-county-and-california-wastes-water/69860506007/)
 * [2023-08-16, 12:58:44](https://news.ycombinator.com/item?id=37146373) - [Lahaina Fire Victims Being Pressured to Sell Land](https://themessenger.com/news/lahaina-fire-victims-being-pressured-to-sell-land-governor-warns)
