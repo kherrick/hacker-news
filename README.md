@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-16, 20:08:12](https://news.ycombinator.com/item?id=37152978) - [Ts_zip: Text Compression Using Large Language Models](https://bellard.org/ts_server/ts_zip.html)
-* [2023-08-16, 20:01:15](https://news.ycombinator.com/item?id=37152877) - [macOS 13.5 source code released](https://github.com/apple-oss-distributions/distribution-macOS/releases/tag/macos-135)
 * [2023-08-16, 19:56:21](https://news.ycombinator.com/item?id=37152803) - [the US climate law is fueling a factory frenzy. Here’s the latest tally](https://www.canarymedia.com/articles/clean-energy-manufacturing/the-us-climate-law-is-fueling-a-factory-frenzy-heres-the-latest-tally)
 * [2023-08-16, 19:25:04](https://news.ycombinator.com/item?id=37152313) - [Tesla’s $10k-Cheaper Model S, X Are Software Locked for Less Range: Report](https://www.thedrive.com/news/teslas-10000-cheaper-model-s-x-software-locked-for-less-range-report)
 * [2023-08-16, 19:13:04](https://news.ycombinator.com/item?id=37152136) - [Casio G-Shock time sync radio](https://gshock.casio.com/intl/technology/radio/)
@@ -9,6 +8,7 @@
 * [2023-08-16, 18:11:40](https://news.ycombinator.com/item?id=37151220) - [Windows feature that resets system clocks based on random data is wreaking havoc](https://arstechnica.com/security/2023/08/windows-feature-that-resets-system-clocks-based-on-random-data-is-wreaking-havoc/)
 * [2023-08-16, 17:45:44](https://news.ycombinator.com/item?id=37150787) - [Firezone (YC W22) is hiring a systems engineer](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-systems-engineer)
 * [2023-08-16, 17:32:50](https://news.ycombinator.com/item?id=37150550) - [Towards HTTPS by Default](https://blog.chromium.org/2023/08/towards-https-by-default.html)
+* [2023-08-16, 17:06:10](https://news.ycombinator.com/item?id=37150098) - [OpenAI acquires Global Illumination](https://openai.com/blog/openai-acquires-global-illumination)
 * [2023-08-16, 16:59:28](https://news.ycombinator.com/item?id=37150000) - [The Mathematics of Training LLMs](https://www.latent.space/p/transformers-math#details)
 * [2023-08-16, 16:45:15](https://news.ycombinator.com/item?id=37149782) - [Theory of interstellar trade (1978) [pdf]](https://www.princeton.edu/~pkrugman/interstellar.pdf)
 * [2023-08-16, 16:17:17](https://news.ycombinator.com/item?id=37149349) - [LK-99 isn’t a superconductor](https://www.nature.com/articles/d41586-023-02585-7)
