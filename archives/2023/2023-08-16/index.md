@@ -6,6 +6,8 @@
 
 * [2023-08-16, 20:08:12](https://news.ycombinator.com/item?id=37152978) - [Ts_zip: Text Compression Using Large Language Models](https://bellard.org/ts_server/ts_zip.html)
 * [2023-08-16, 20:01:15](https://news.ycombinator.com/item?id=37152877) - [macOS 13.5 source code released](https://github.com/apple-oss-distributions/distribution-macOS/releases/tag/macos-135)
+* [2023-08-16, 19:56:21](https://news.ycombinator.com/item?id=37152803) - [the US climate law is fueling a factory frenzy. Here’s the latest tally](https://www.canarymedia.com/articles/clean-energy-manufacturing/the-us-climate-law-is-fueling-a-factory-frenzy-heres-the-latest-tally)
+* [2023-08-16, 19:25:04](https://news.ycombinator.com/item?id=37152313) - [Tesla’s $10k-Cheaper Model S, X Are Software Locked for Less Range: Report](https://www.thedrive.com/news/teslas-10000-cheaper-model-s-x-software-locked-for-less-range-report)
 * [2023-08-16, 19:13:04](https://news.ycombinator.com/item?id=37152136) - [Casio G-Shock time sync radio](https://gshock.casio.com/intl/technology/radio/)
 * [2023-08-16, 19:12:44](https://news.ycombinator.com/item?id=37152133) - [Luck be a Landlord is now banned in 13 countries on the Google Play Store](https://blog.trampolinetales.com/luck-be-a-landlord-is-now-banned-in-13-countries-on-the-google-play-store/)
 * [2023-08-16, 18:45:52](https://news.ycombinator.com/item?id=37151749) - [Iowa using AI to automatically scan and ban books](https://www.engadget.com/mason-city-iowa-school-district-ai-book-ban-censorship-202541565.html)
