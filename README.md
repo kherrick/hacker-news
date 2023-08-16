@@ -6,6 +6,7 @@
 * [2023-08-16, 18:16:38](https://news.ycombinator.com/item?id=37151308) - [New York City bans TikTok for government employees](https://www.engadget.com/new-york-city-bans-tiktok-for-government-employees-174806575.html)
 * [2023-08-16, 18:11:40](https://news.ycombinator.com/item?id=37151220) - [Windows feature that resets system clocks based on random data is wreaking havoc](https://arstechnica.com/security/2023/08/windows-feature-that-resets-system-clocks-based-on-random-data-is-wreaking-havoc/)
 * [2023-08-16, 17:45:44](https://news.ycombinator.com/item?id=37150787) - [Firezone (YC W22) is hiring a systems engineer](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-systems-engineer)
+* [2023-08-16, 17:32:50](https://news.ycombinator.com/item?id=37150550) - [Towards HTTPS by Default](https://blog.chromium.org/2023/08/towards-https-by-default.html)
 * [2023-08-16, 17:06:10](https://news.ycombinator.com/item?id=37150098) - [OpenAI acquires Global Illumination](https://openai.com/blog/openai-acquires-global-illumination)
 * [2023-08-16, 16:59:28](https://news.ycombinator.com/item?id=37150000) - [The Mathematics of Training LLMs](https://www.latent.space/p/transformers-math#details)
 * [2023-08-16, 16:45:15](https://news.ycombinator.com/item?id=37149782) - [Theory of interstellar trade (1978) [pdf]](https://www.princeton.edu/~pkrugman/interstellar.pdf)
@@ -28,7 +29,6 @@
 * [2023-08-15, 13:55:34](https://news.ycombinator.com/item?id=37134056) - [A Metaobject Protocol for C++ (1995) [pdf]](https://dl.acm.org/doi/pdf/10.1145/217838.217868)
 * [2023-08-15, 10:49:48](https://news.ycombinator.com/item?id=37132320) - [The evolution of Steve Albini](https://www.theguardian.com/music/2023/aug/15/the-evolution-of-steve-albini-if-the-dumbest-person-is-on-your-side-youre-on-the-wrong-side)
 * [2023-08-15, 09:19:00](https://news.ycombinator.com/item?id=37131808) - [Virtual IBM Punch Card Data Processing (2018)](http://sims.durgadas.com/punchcards/ibm029.html)
-* [2023-08-15, 06:51:08](https://news.ycombinator.com/item?id=37130988) - [Circle Evolves C++ [video]](https://www.youtube.com/watch?v=P1ZDOGDMNLM)
 * [2023-08-15, 03:46:06](https://news.ycombinator.com/item?id=37129929) - [New calcium material functions as an ammonia synthesis catalyst](https://phys.org/news/2023-08-calcium-material-functions-ammonia-synthesis.html)
 
 ## [Archives](archives/index.md)

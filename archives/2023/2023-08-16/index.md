@@ -17,6 +17,7 @@
 * [2023-08-16, 17:49:46](https://news.ycombinator.com/item?id=37150862) - [Ask HN: What are some easy ways to earn some side money?](https://news.ycombinator.com/item?id=37150862)
 * [2023-08-16, 17:45:44](https://news.ycombinator.com/item?id=37150787) - [Firezone (YC W22) is hiring a systems engineer](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-systems-engineer)
 * [2023-08-16, 17:42:41](https://news.ycombinator.com/item?id=37150730) - [Crime is so bad near S.F. Federal building employees are told to work from home](https://www.sfchronicle.com/sf/article/drugs-crime-nancy-pelosi-federal-building-18292237.php)
+* [2023-08-16, 17:32:50](https://news.ycombinator.com/item?id=37150550) - [Towards HTTPS by Default](https://blog.chromium.org/2023/08/towards-https-by-default.html)
 * [2023-08-16, 17:15:02](https://news.ycombinator.com/item?id=37150233) - [Canada had poached 10k tech workers from the U.S. – in just 48 hours](https://www.thestar.com/business/how-canada-poached-10-000-tech-workers-from-the-u-s-in-just-48-hours/article_c159c7cc-6163-5414-8453-0db70899df90.html)
 * [2023-08-16, 17:11:57](https://news.ycombinator.com/item?id=37150185) - [Apple’s Employee No. 0 (2008)](https://www.electronicsweekly.com/blogs/mannerisms/yarns/apples-employee-no-0-2008-11/)
 * [2023-08-16, 17:06:10](https://news.ycombinator.com/item?id=37150098) - [OpenAI Acquires Global Illumination](https://openai.com/blog/openai-acquires-global-illumination)
