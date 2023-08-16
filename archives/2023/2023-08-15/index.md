@@ -36,6 +36,7 @@
 * [2023-08-15, 16:41:51](https://news.ycombinator.com/item?id=37136111) - [\"About 67k” sites are banned from submission on HN, the list is kept secret](https://news.ycombinator.com/item?id=37130147)
 * [2023-08-15, 15:52:34](https://news.ycombinator.com/item?id=37135465) - [China Stops Publishing Youth Unemployment Numbers Amid Faltering Economy](https://www.taiwanplus.com/news/world-news/china/230815030/china-stops-publishing-youth-unemployment-numbers-amid-faltering-economy)
 * [2023-08-15, 15:27:16](https://news.ycombinator.com/item?id=37135162) - [Why doctors pay millions in fees that could be spent on care](https://text.npr.org/1193754380)
+* [2023-08-15, 15:11:29](https://news.ycombinator.com/item?id=37134950) - [WASF3 disrupts mitochondria and may mediate exercise intolerance in CFS](https://www.pnas.org/doi/10.1073/pnas.2302738120)
 * [2023-08-15, 15:10:13](https://news.ycombinator.com/item?id=37134935) - [Disney used to hate gambling. Now it’s doing a $2B sports betting deal](https://www.vox.com/2023/8/8/23825199/disney-espn-penn-barstool-2-billion-deal-explained)
 * [2023-08-15, 14:56:40](https://news.ycombinator.com/item?id=37134770) - [Ask HN: PayPal's negligence and incompetence has cost me $270. What can I do?](https://news.ycombinator.com/item?id=37134770)
 * [2023-08-15, 14:48:27](https://news.ycombinator.com/item?id=37134654) - [Predatory journals entrap unsuspecting scientists](https://www.nature.com/articles/d41586-023-02553-1)
