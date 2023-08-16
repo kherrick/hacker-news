@@ -29,6 +29,7 @@
 * [2023-08-15, 18:23:59](https://news.ycombinator.com/item?id=37137444) - [Phone radiation causes brain tumors, should be classified as a carcinogen (2A)](https://www.spandidos-publications.com/10.3892/ijo.2015.2908)
 * [2023-08-15, 17:55:30](https://news.ycombinator.com/item?id=37137130) - [Private jet came ‘within 100 feet’ of colliding with Southwest plane, NTSB says](https://www.dallasnews.com/business/airlines/2023/08/14/ntsb-probes-near-collision-of-southwest-airlines-business-jets-in-san-diego/)
 * [2023-08-15, 17:54:13](https://news.ycombinator.com/item?id=37137110) - [We reduced the cost of building Twitter at Twitter-scale by 100x](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
+* [2023-08-15, 17:44:31](https://news.ycombinator.com/item?id=37136986) - [Thinking Fast and Slopes](https://www.drorpoleg.com/thinking-fast-and-slopes/)
 * [2023-08-15, 17:38:10](https://news.ycombinator.com/item?id=37136898) - [Opendream: A Layer Based UI for Stable Diffusion](https://github.com/varunshenoy/opendream)
 * [2023-08-15, 17:03:23](https://news.ycombinator.com/item?id=37136390) - [Does the “Learn Vim the Hard Way” website still exist?](https://news.ycombinator.com/item?id=37136390)
 * [2023-08-15, 17:00:32](https://news.ycombinator.com/item?id=37136340) - [Seam (YC S20), API for IoT, Is Hiring a Founding PM](https://www.ycombinator.com/companies/seam/jobs/9VKC412-product-manager)

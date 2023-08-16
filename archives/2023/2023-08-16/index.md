@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-16](index.md)
 
 * [2023-08-16, 13:10:59](https://news.ycombinator.com/item?id=37146532) - [The uses and abuses of Cloud Data Warehouses](https://materialize.com/blog/warehouse-abuse/)
+* [2023-08-16, 13:06:28](https://news.ycombinator.com/item?id=37146469) - [You need 27 tickets to guarantee a win on the UK National Lottery](https://arxiv.org/abs/2307.12430)
 * [2023-08-16, 13:00:26](https://news.ycombinator.com/item?id=37146398) - [How do we save water: Stop growing alfalfa in Imperial County](https://www.desertsun.com/story/opinion/contributors/valley-voice/2023/02/05/growing-alfalfa-in-imperial-county-and-california-wastes-water/69860506007/)
 * [2023-08-16, 12:55:15](https://news.ycombinator.com/item?id=37146331) - [Nginx Development Guide](https://nginx.org/en/docs/dev/development_guide.html)
 * [2023-08-16, 12:50:48](https://news.ycombinator.com/item?id=37146283) - [Young people were burned out. Then they quit the rat race to travel](https://www.cnn.com/travel/gen-z-burnout-travel/index.html)
@@ -16,6 +17,7 @@
 * [2023-08-16, 11:41:07](https://news.ycombinator.com/item?id=37145558) - [Amazon Pharmacy automates discounts to help insulin patients get pledged prices](https://www.reuters.com/business/retail-consumer/amazon-pharmacy-automates-discounts-help-insulin-patients-get-pledged-prices-2023-08-15/)
 * [2023-08-16, 11:33:18](https://news.ycombinator.com/item?id=37145491) - [They Tried to Kill Me](https://www.nplusonemag.com/online-only/online-only/how-they-tried-to-kill-me/)
 * [2023-08-16, 11:25:20](https://news.ycombinator.com/item?id=37145427) - [Nintendo Is Trying to Patent Some Broad Tears of the Kingdom Mechanics](https://kotaku.com/nintendo-is-trying-to-patent-some-really-broad-tears-of-1850730637)
+* [2023-08-16, 11:24:05](https://news.ycombinator.com/item?id=37145411) - [Energy Jobs Have Increased in Nearly Every County in America](https://www.energy.gov/articles/us-department-energy-finds-energy-jobs-have-increased-nearly-every-county-america)
 * [2023-08-16, 11:18:48](https://news.ycombinator.com/item?id=37145368) - [Majority of Smithsonian’s Human Brain Specimens Was ‘Gathered Without Consent’](https://www.artnews.com/art-news/news/smithsonian-museum-natural-history-brains-consent-washington-post-1234677078/)
 * [2023-08-16, 10:19:32](https://news.ycombinator.com/item?id=37144985) - [Htmx is part of the GitHub Accelerator](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
 * [2023-08-16, 10:09:00](https://news.ycombinator.com/item?id=37144925) - [Show HN: Repo with a list of 80 decent companies hiring remotely in Europe](https://github.com/EuropeanRemote/european-remote-software-companies)
