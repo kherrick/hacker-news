@@ -19,7 +19,6 @@
 * [2023-08-16, 09:23:27](https://news.ycombinator.com/item?id=37144601) - [Is this a good book for me, now?](https://maryrosecook.com/blog/post/is-this-a-good-book-for-me-now)
 * [2023-08-16, 03:06:18](https://news.ycombinator.com/item?id=37142426) - [Diligere, Equity-Invest Are New Firms of U.K. Con Man](https://krebsonsecurity.com/2023/08/diligere-equity-invest-are-new-firms-of-u-k-con-man/)
 * [2023-08-16, 03:00:40](https://news.ycombinator.com/item?id=37142388) - [NetMaker: Connect Everything with a WireGuard VPN](https://www.netmaker.io/)
-* [2023-08-16, 01:01:24](https://news.ycombinator.com/item?id=37141463) - [Putting Down the Pen: Reflecting on Oryx’s Journey](https://www.oryxspioenkop.com/2023/08/putting-down-pen-reflecting-on-oryxs.html)
 * [2023-08-15, 22:18:17](https://news.ycombinator.com/item?id=37140013) - [How Is LLaMa.cpp Possible?](https://finbarr.ca/how-is-llama-cpp-possible/)
 * [2023-08-15, 17:44:31](https://news.ycombinator.com/item?id=37136986) - [Thinking Fast and Slopes](https://www.drorpoleg.com/thinking-fast-and-slopes/)
 * [2023-08-15, 15:11:29](https://news.ycombinator.com/item?id=37134950) - [A protein that disrupts cells’ energy centers may be a culprit in CFS/ME](https://www.science.org/content/article/protein-disrupts-cells-energy-centers-may-be-culprit-chronic-fatigue-syndrome)
@@ -28,6 +27,7 @@
 * [2023-08-15, 13:41:38](https://news.ycombinator.com/item?id=37133908) - [How the iMac Saved Apple](https://www.theverge.com/23830432/imac-twenty-five-years-ago-saved-apple)
 * [2023-08-15, 09:19:00](https://news.ycombinator.com/item?id=37131808) - [Virtual IBM Punch Card Data Processing (2018)](http://sims.durgadas.com/punchcards/ibm029.html)
 * [2023-08-15, 06:51:08](https://news.ycombinator.com/item?id=37130988) - [Circle Evolves C++ [video]](https://www.youtube.com/watch?v=P1ZDOGDMNLM)
+* [2023-08-15, 03:44:34](https://news.ycombinator.com/item?id=37129921) - [The Bitter Lesson (2019) [pdf]](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf)
 * [2023-08-15, 02:35:34](https://news.ycombinator.com/item?id=37129514) - [Ruins of Emperor Nero’s Theater Discovered Near Vatican](https://www.scientificamerican.com/article/ruins-of-neros-theater-discovered-near-vatican1/)
 * [2023-08-14, 05:25:15](https://news.ycombinator.com/item?id=37117754) - [Disney invented two colors (2022)](https://insidethemagic.net/2022/02/disney-go-away-green-lp1/)
 
