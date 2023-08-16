@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-16](index.md)
 
+* [2023-08-16, 21:55:44](https://news.ycombinator.com/item?id=37154414) - [Naomi Wu and the Silence That Speaks Volumes](https://www.hackingbutlegal.com/naomi-wu-and-the-silence-that-speaks-volumes/)
 * [2023-08-16, 21:53:20](https://news.ycombinator.com/item?id=37154395) - [MLIR For Beginners: A series of articles on the MLIR framework](https://github.com/j2kun/mlir-tutorial)
 * [2023-08-16, 21:49:58](https://news.ycombinator.com/item?id=37154365) - [Ex-Google CEO Eric Schmidt to Launch AI-Science Moonshot](https://www.semafor.com/article/08/16/2023/ex-google-ceo-eric-schmidt-to-launch-ai-science-moonshot)
 * [2023-08-16, 21:31:10](https://news.ycombinator.com/item?id=37154138) - [Ubicloud – open, free and portable cloud](https://github.com/ubicloud/ubicloud)
