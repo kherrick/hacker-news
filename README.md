@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-16, 02:16:54](https://news.ycombinator.com/item?id=37142065) - [Cruise vehicle gets stuck in wet concrete while driving in San Francisco](https://www.sfgate.com/tech/article/cruise-stuck-wet-concrete-sf-18297946.php)
-* [2023-08-16, 01:06:36](https://news.ycombinator.com/item?id=37141509) - [Engineer slapped with suspension after bridge collapsed hours after opening](https://www.cbc.ca/news/canada/saskatchewan/engineer-18-month-suspension-bridge-collapsed-1.6936657)
 * [2023-08-16, 01:01:24](https://news.ycombinator.com/item?id=37141463) - [Putting Down the Pen: Reflecting on Oryx’s Journey](https://www.oryxspioenkop.com/2023/08/putting-down-pen-reflecting-on-oryxs.html)
 * [2023-08-16, 00:02:20](https://news.ycombinator.com/item?id=37140998) - [The Open (Animal) Sanctuary Project](https://opensanctuary.org/)
 * [2023-08-15, 23:26:02](https://news.ycombinator.com/item?id=37140681) - [Ted's Notes on Pawpaws (2016)](https://toyrus.ngrok.io/~ted/pawpaws/)
@@ -25,6 +24,7 @@
 * [2023-08-15, 09:20:15](https://news.ycombinator.com/item?id=37131812) - [Open Circuits: The Inner Beauty of Electronic Components](https://pluralistic.net/2023/08/14/hidden-worlds/#making-the-invisible-visible-and-beautiful)
 * [2023-08-15, 09:19:00](https://news.ycombinator.com/item?id=37131808) - [Virtual IBM Punch Card Data Processing (2018)](http://sims.durgadas.com/punchcards/ibm029.html)
 * [2023-08-15, 06:57:26](https://news.ycombinator.com/item?id=37131027) - [Love Notes to Newton [video]](https://www.youtube.com/watch?v=5kxRi34PqWo)
+* [2023-08-15, 04:51:41](https://news.ycombinator.com/item?id=37130331) - [New way to read data in antiferromagnets unlocks their use as computer memory](https://phys.org/news/2023-08-antiferromagnets-memory.html)
 * [2023-08-15, 04:28:43](https://news.ycombinator.com/item?id=37130200) - [Exploring the design space of binary search trees](https://rtheunissen.github.io/bst/)
 * [2023-08-15, 01:12:10](https://news.ycombinator.com/item?id=37128935) - [A most very unofficial guide to the W65C265SXB](https://github.com/scotws/265SXB-Guide)
 * [2023-08-15, 01:10:56](https://news.ycombinator.com/item?id=37128929) - [Peter Pan Copyright](https://www.gosh.org/about-us/peter-pan/copyright/)

@@ -83,6 +83,7 @@
 * [2023-08-15, 06:23:33](https://news.ycombinator.com/item?id=37130832) - [WhoFundsWho: Instantly see who funds the organizations you are reading about](https://whofundswho.com/)
 * [2023-08-15, 05:33:37](https://news.ycombinator.com/item?id=37130562) - [Best Time to Water – Morning, Noon or Evening?](https://www.gardenmyths.com/best-time-water-morning/)
 * [2023-08-15, 05:29:30](https://news.ycombinator.com/item?id=37130531) - [Ask HN: I learned useless skill of prompt engineering, how relevant will it be?](https://news.ycombinator.com/item?id=37130531)
+* [2023-08-15, 04:51:41](https://news.ycombinator.com/item?id=37130331) - [New way to read data in antiferromagnets unlocks their use as computer memory](https://phys.org/news/2023-08-antiferromagnets-memory.html)
 * [2023-08-15, 04:28:43](https://news.ycombinator.com/item?id=37130200) - [Exploring the design space of binary search trees](https://rtheunissen.github.io/bst/)
 * [2023-08-15, 04:21:27](https://news.ycombinator.com/item?id=37130138) - [Features of Project Loom incorporated in JDK 21](https://jdk.java.net/loom/)
 * [2023-08-15, 04:19:10](https://news.ycombinator.com/item?id=37130120) - [Thoughts on [Turning] 29](https://andrew-quinn.me/29/)
