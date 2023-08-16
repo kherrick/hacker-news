@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-16](index.md)
 
 * [2023-08-16, 10:19:32](https://news.ycombinator.com/item?id=37144985) - [Htmx is part of the GitHub Accelerator](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
+* [2023-08-16, 10:09:00](https://news.ycombinator.com/item?id=37144925) - [Show HN: Repo with a list of 80 decent companies hiring remotely in Europe](https://github.com/EuropeanRemote/european-remote-software-companies)
 * [2023-08-16, 10:04:25](https://news.ycombinator.com/item?id=37144894) - [On to Elixir](https://thraxil.org/users/anders/posts/2023/08/05/on-to-elixir)
 * [2023-08-16, 09:23:27](https://news.ycombinator.com/item?id=37144601) - [Is this a good book for me, now?](https://maryrosecook.com/blog/post/is-this-a-good-book-for-me-now)
 * [2023-08-16, 08:27:45](https://news.ycombinator.com/item?id=37144226) - [Don’t Use VPN Services](https://tilde.club/wiki/vpnwhy.html)
