@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-16, 21:53:20",
+      "https://news.ycombinator.com/item?id=37154395"
+    ],
+    [
+      "MLIR For Beginners: A series of articles on the MLIR framework",
+      "https://github.com/j2kun/mlir-tutorial"
+    ]
+  ],
+  [
+    [
       "2023-08-16, 21:49:58",
       "https://news.ycombinator.com/item?id=37154365"
     ],
@@ -17,6 +27,26 @@
     [
       "Ubicloud – open, free and portable cloud",
       "https://github.com/ubicloud/ubicloud"
+    ]
+  ],
+  [
+    [
+      "2023-08-16, 21:08:01",
+      "https://news.ycombinator.com/item?id=37153862"
+    ],
+    [
+      "$Home, Not So Sweet $Home",
+      "https://gist.github.com/sharadhr/39b804236c1941e9c30d90af828ad41e"
+    ]
+  ],
+  [
+    [
+      "2023-08-16, 20:36:47",
+      "https://news.ycombinator.com/item?id=37153426"
+    ],
+    [
+      "The Amazon Prime Day 2023 AWS Bill",
+      "https://www.lastweekinaws.com/blog/the-amazon-prime-day-2023-aws-bill/"
     ]
   ],
   [
@@ -241,16 +271,6 @@
   ],
   [
     [
-      "2023-08-15, 17:44:31",
-      "https://news.ycombinator.com/item?id=37136986"
-    ],
-    [
-      "Thinking Fast and Slopes",
-      "https://www.drorpoleg.com/thinking-fast-and-slopes/"
-    ]
-  ],
-  [
-    [
       "2023-08-15, 15:11:29",
       "https://news.ycombinator.com/item?id=37134950"
     ],
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2023-08-15, 13:55:34",
-      "https://news.ycombinator.com/item?id=37134056"
-    ],
-    [
-      "A Metaobject Protocol for C++ (1995) [pdf]",
-      "https://dl.acm.org/doi/pdf/10.1145/217838.217868"
-    ]
-  ],
-  [
-    [
       "2023-08-15, 11:16:45",
       "https://news.ycombinator.com/item?id=37132510"
     ],
     [
       "What Learning APL Taught Me About Python",
       "https://mathspp.com/blog/what-learning-apl-taught-me-about-python"
-    ]
-  ],
-  [
-    [
-      "2023-08-15, 09:19:00",
-      "https://news.ycombinator.com/item?id=37131808"
-    ],
-    [
-      "Virtual IBM Punch Card Data Processing (2018)",
-      "http://sims.durgadas.com/punchcards/ibm029.html"
     ]
   ],
   [
