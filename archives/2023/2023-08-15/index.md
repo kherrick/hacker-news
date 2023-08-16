@@ -6,6 +6,7 @@
 
 * [2023-08-15, 23:46:12](https://news.ycombinator.com/item?id=37140883) - [You don't hate Jira, you hate your manager](https://jarvispowered.com/you-dont-hate-jira-you-hate-your-manager/)
 * [2023-08-15, 23:36:59](https://news.ycombinator.com/item?id=37140806) - [Google Deprecates Google Domains, Sells It to Squarespace](https://support.google.com/domains/answer/13689670?hl=en)
+* [2023-08-15, 23:32:33](https://news.ycombinator.com/item?id=37140762) - [American stocks are at their most expensive in decades](https://www.economist.com/finance-and-economics/2023/08/10/american-stocks-are-at-their-most-expensive-in-decades)
 * [2023-08-15, 23:26:02](https://news.ycombinator.com/item?id=37140681) - [Ted's Notes on Pawpaws](https://toyrus.ngrok.io/~ted/pawpaws/)
 * [2023-08-15, 22:50:54](https://news.ycombinator.com/item?id=37140320) - [Bank of Ireland IT blunder allows customers who have no money get access to cash](https://www.independent.ie/business/personal-finance/bank-of-ireland-it-blunder-allows-customers-who-have-no-money-get-access-to-cash-at-atms/a510070628.html)
 * [2023-08-15, 22:48:21](https://news.ycombinator.com/item?id=37140291) - [We Call on FOSS Contributors to “Exit Zoom”](https://sfconservancy.org/news/2023/aug/15/exit-zoom/)
@@ -97,6 +98,7 @@
 * [2023-08-15, 02:22:52](https://news.ycombinator.com/item?id=37129417) - [Carl Linnaeus Set Out to Label All of Life](https://www.newyorker.com/magazine/2023/08/21/the-man-who-organized-nature-the-life-of-linnaeus-gunnar-broberg-book-review)
 * [2023-08-15, 02:14:43](https://news.ycombinator.com/item?id=37129359) - [Colleges Spend Like There’s No Tomorrow. ‘These Places Are Just Devouring Money'](https://www.wsj.com/articles/state-university-tuition-increase-spending-41a58100)
 * [2023-08-15, 02:08:27](https://news.ycombinator.com/item?id=37129318) - [Webvan: The Dotcom Bubble’s Biggest Bust](https://streetfins.com/webvan-the-dotcom-bubbles-biggest-bust/)
+* [2023-08-15, 01:51:50](https://news.ycombinator.com/item?id=37129200) - [Satellite pictures of other satellites](https://www.defenseone.com/technology/2023/08/next-big-space-business-satellite-pictures-other-satellites/389362/)
 * [2023-08-15, 01:39:40](https://news.ycombinator.com/item?id=37129132) - [Lynn Conway's Story (2000)](https://ai.eecs.umich.edu/people/conway/LynnsStory.html)
 * [2023-08-15, 01:17:09](https://news.ycombinator.com/item?id=37128965) - [Ruth Bader Ginsburg and Gloria Steinem Fought for Your Right to Get a Beer](https://lithub.com/how-ruth-bader-ginsburg-and-gloria-steinem-fought-for-your-right-to-get-a-beer/)
 * [2023-08-15, 01:12:10](https://news.ycombinator.com/item?id=37128935) - [265SXB-Guide: A Most Unofficial Guide to the W65C265SXB (65816)](https://github.com/scotws/265SXB-Guide)

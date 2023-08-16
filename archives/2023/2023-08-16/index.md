@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-16](index.md)
 
+* [2023-08-16, 01:06:36](https://news.ycombinator.com/item?id=37141509) - [Engineer slapped with suspension after bridge collapsed hours after opening](https://www.cbc.ca/news/canada/saskatchewan/engineer-18-month-suspension-bridge-collapsed-1.6936657)
+* [2023-08-16, 01:03:18](https://news.ycombinator.com/item?id=37141478) - [X has started reversing the throttling on some of the sites, including NYTimes'](https://twitter.com/drewharwell/status/1691544587947356160)
 * [2023-08-16, 01:01:24](https://news.ycombinator.com/item?id=37141463) - [Putting Down the Pen: Reflecting on Oryx’s Journey](https://www.oryxspioenkop.com/2023/08/putting-down-pen-reflecting-on-oryxs.html)
 * [2023-08-16, 00:13:35](https://news.ycombinator.com/item?id=37141083) - [MLS cyberattack halts entire US real estate market](https://arstechnica.com/security/2023/08/5-days-on-cyberattack-on-data-provider-stymies-realty-markets-throughout-the-us/)
 * [2023-08-16, 00:02:20](https://news.ycombinator.com/item?id=37140998) - [The Open (Animal) Sanctuary Project](https://opensanctuary.org/)
