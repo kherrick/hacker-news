@@ -46,6 +46,7 @@
 * [2023-08-15, 14:24:13](https://news.ycombinator.com/item?id=37134373) - [Schizophrenia Drugs May Have Been Off Target for Decades, Study Finds](https://www.msn.com/en-us/health/medical/schizophrenia-drugs-may-have-been-off-target-for-decades-study-finds/ar-AA1fh9Nt)
 * [2023-08-15, 14:20:40](https://news.ycombinator.com/item?id=37134338) - [Coughlin: SSDs will not kill disk drives](https://blocksandfiles.com/2023/08/15/coughlin-ssds-will-not-kill-disk-drives/)
 * [2023-08-15, 14:20:16](https://news.ycombinator.com/item?id=37134329) - [Disney’s Taylor Swift Era](https://stratechery.com/2023/disneys-taylor-swift-era/)
+* [2023-08-15, 14:18:44](https://news.ycombinator.com/item?id=37134315) - [Bayesian Flow Networks](https://arxiv.org/abs/2308.07037)
 * [2023-08-15, 14:15:51](https://news.ycombinator.com/item?id=37134293) - [Show HN: Layerform – Open-source development environments using Terraform files](https://github.com/ergomake/layerform)
 * [2023-08-15, 14:15:51](https://news.ycombinator.com/item?id=37134293) - [Show HN: Layerform (YC S23) – Open-source dev environments using Terraform files](https://news.ycombinator.com/item?id=37134293)
 * [2023-08-15, 13:58:44](https://news.ycombinator.com/item?id=37134092) - [Firefox Finally Outperforming Google Chrome in SunSpider](https://www.phoronix.com/news/Firefox-Faster-SunSpider)
