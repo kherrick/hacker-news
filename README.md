@@ -2,6 +2,7 @@
 
 * [2023-08-16, 05:28:09](https://news.ycombinator.com/item?id=37143159) - [Carl Sagan testifying before Congress in 1985 on climate change [video]](https://www.youtube.com/watch?v=Wp-WiNXH6hI)
 * [2023-08-16, 03:06:18](https://news.ycombinator.com/item?id=37142426) - [Diligere, Equity-Invest Are New Firms of U.K. Con Man](https://krebsonsecurity.com/2023/08/diligere-equity-invest-are-new-firms-of-u-k-con-man/)
+* [2023-08-16, 03:04:29](https://news.ycombinator.com/item?id=37142415) - [SpaceX takes another step toward launching Starship again](https://arstechnica.com/space/2023/08/let-the-review-begin-spacex-takes-another-step-toward-launching-starship-again/)
 * [2023-08-16, 03:00:40](https://news.ycombinator.com/item?id=37142388) - [NetMaker: Connect Everything with a WireGuard VPN](https://www.netmaker.io/)
 * [2023-08-16, 02:44:49](https://news.ycombinator.com/item?id=37142293) - [Debugging a Futex Crash](https://rustylife.github.io/2023/08/15/futex-crash.html)
 * [2023-08-16, 02:38:54](https://news.ycombinator.com/item?id=37142246) - [Chrome was delivered without any sprints at all (2021)](https://threadreaderapp.com/thread/1427137725119959046.html)
@@ -16,7 +17,6 @@
 * [2023-08-15, 18:57:16](https://news.ycombinator.com/item?id=37137810) - [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
 * [2023-08-15, 17:54:13](https://news.ycombinator.com/item?id=37137110) - [We reduced the cost of building Mastodon at Twitter-scale by 100x](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
 * [2023-08-15, 17:38:10](https://news.ycombinator.com/item?id=37136898) - [Opendream: A layer-based UI for Stable Diffusion](https://github.com/varunshenoy/opendream)
-* [2023-08-15, 17:00:32](https://news.ycombinator.com/item?id=37136340) - [Seam (YC S20), API for IoT, Is Hiring a Founding PM](https://www.ycombinator.com/companies/seam/jobs/9VKC412-product-manager)
 * [2023-08-15, 14:15:51](https://news.ycombinator.com/item?id=37134293) - [Show HN: Layerform – Open-source development environments using Terraform files](https://github.com/ergomake/layerform)
 * [2023-08-15, 13:58:17](https://news.ycombinator.com/item?id=37134089) - [Selling open-source software](https://thenewstack.io/entrepreneurship-for-engineers-selling-open-source-software/)
 * [2023-08-15, 13:41:38](https://news.ycombinator.com/item?id=37133908) - [How the iMac Saved Apple](https://www.theverge.com/23830432/imac-twenty-five-years-ago-saved-apple)
