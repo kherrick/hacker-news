@@ -2,8 +2,8 @@
 
 * [2023-08-16, 07:27:47](https://news.ycombinator.com/item?id=37143837) - [Why Tailwind CSS Won](https://matt-rickard.com/why-tailwind-css-won)
 * [2023-08-16, 07:22:04](https://news.ycombinator.com/item?id=37143794) - [Thinking about God increases acceptance of AI in decision-making](https://www.pnas.org/doi/10.1073/pnas.2218961120)
+* [2023-08-16, 06:52:33](https://news.ycombinator.com/item?id=37143603) - [Hacker News makes it to Dutch national media](https://nos.nl/artikel/2486778-toegang-tot-nieuwsmedia-en-concurrenten-vertraagd-door-elon-musks-x)
 * [2023-08-16, 06:37:42](https://news.ycombinator.com/item?id=37143533) - [Russian empire aerospace refugees (2021)](https://scottlocklin.wordpress.com/2021/03/05/russian-empire-aerospace-refugees/)
-* [2023-08-16, 05:54:56](https://news.ycombinator.com/item?id=37143329) - [Today I learned that random people can send you money on PayPal and disputed it](https://twitter.com/0xRokku/status/1691541352650272771)
 * [2023-08-16, 05:28:09](https://news.ycombinator.com/item?id=37143159) - [Carl Sagan testifying before Congress in 1985 on climate change [video]](https://www.youtube.com/watch?v=Wp-WiNXH6hI)
 * [2023-08-16, 03:06:18](https://news.ycombinator.com/item?id=37142426) - [Diligere, Equity-Invest Are New Firms of U.K. Con Man](https://krebsonsecurity.com/2023/08/diligere-equity-invest-are-new-firms-of-u-k-con-man/)
 * [2023-08-16, 03:00:40](https://news.ycombinator.com/item?id=37142388) - [NetMaker: Connect Everything with a WireGuard VPN](https://www.netmaker.io/)

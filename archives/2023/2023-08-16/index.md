@@ -7,6 +7,7 @@
 * [2023-08-16, 07:27:47](https://news.ycombinator.com/item?id=37143837) - [Why Tailwind CSS Won](https://matt-rickard.com/why-tailwind-css-won)
 * [2023-08-16, 07:22:04](https://news.ycombinator.com/item?id=37143794) - [Thinking about God increases acceptance of AI in decision-making](https://www.pnas.org/doi/10.1073/pnas.2218961120)
 * [2023-08-16, 07:01:09](https://news.ycombinator.com/item?id=37143655) - [It's time to call a halt to Pride](https://www.theargus.co.uk/news/23710533.time-end-brighton-pride-become-toxic/)
+* [2023-08-16, 06:52:33](https://news.ycombinator.com/item?id=37143603) - [Hacker News makes it to Dutch national media](https://nos.nl/artikel/2486778-toegang-tot-nieuwsmedia-en-concurrenten-vertraagd-door-elon-musks-x)
 * [2023-08-16, 06:37:42](https://news.ycombinator.com/item?id=37143533) - [Russian empire aerospace refugees (2021)](https://scottlocklin.wordpress.com/2021/03/05/russian-empire-aerospace-refugees/)
 * [2023-08-16, 06:29:47](https://news.ycombinator.com/item?id=37143495) - [Ask HN: Why Linux development happens on mailing list instead of Git?](https://news.ycombinator.com/item?id=37143495)
 * [2023-08-16, 05:54:56](https://news.ycombinator.com/item?id=37143329) - [Today I learned that random people can send you money on PayPal and disputed it](https://twitter.com/0xRokku/status/1691541352650272771)
