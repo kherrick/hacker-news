@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-16](index.md)
 
+* [2023-08-16, 07:01:09](https://news.ycombinator.com/item?id=37143655) - [It's time to call a halt to Pride](https://www.theargus.co.uk/news/23710533.time-end-brighton-pride-become-toxic/)
+* [2023-08-16, 06:37:42](https://news.ycombinator.com/item?id=37143533) - [Russian empire aerospace refugees (2021)](https://scottlocklin.wordpress.com/2021/03/05/russian-empire-aerospace-refugees/)
+* [2023-08-16, 05:54:56](https://news.ycombinator.com/item?id=37143329) - [Today I learned that random people can send you money on PayPal and disputed it](https://twitter.com/0xRokku/status/1691541352650272771)
 * [2023-08-16, 05:28:09](https://news.ycombinator.com/item?id=37143159) - [Carl Sagan testifying before Congress in 1985 on climate change [video]](https://www.youtube.com/watch?v=Wp-WiNXH6hI)
 * [2023-08-16, 05:11:04](https://news.ycombinator.com/item?id=37143075) - [Google Finds It’s Underpaying Many Men as It Addresses Wage Equity](https://www.nytimes.com/2019/03/04/technology/google-gender-pay-gap.html)
 * [2023-08-16, 04:35:16](https://news.ycombinator.com/item?id=37142912) - [The Collateral Damage of A.D.H.D. Drug Shortages](https://www.nytimes.com/2023/08/15/well/mind/adhd-adderall-shortage-children.html)

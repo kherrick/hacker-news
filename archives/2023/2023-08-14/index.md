@@ -77,6 +77,7 @@
 * [2023-08-14, 12:20:26](https://news.ycombinator.com/item?id=37120188) - [Small Kansas newspaper says co-owner, 98, collapsed and died after police raid](https://www.cbsnews.com/news/kansas-newspaper-police-raid-marion-county-record-joan-meyer-dies/)
 * [2023-08-14, 12:08:46](https://news.ycombinator.com/item?id=37120093) - [Show HN: A website chatbot that also uses APIs](https://chatwith.tools)
 * [2023-08-14, 12:00:46](https://news.ycombinator.com/item?id=37120034) - [ChatGPT costs 700k/day to run; may go bankrupt in 2024](https://www.business-standard.com/companies/news/chatgpt-costs-700-000-daily-maker-may-go-bankrupt-in-2024-report-123081300627_1.html)
+* [2023-08-14, 11:51:09](https://news.ycombinator.com/item?id=37119959) - [The Virtual Blender Camera](https://www.srlt.ca/virtual-blender-camera)
 * [2023-08-14, 11:49:59](https://news.ycombinator.com/item?id=37119942) - [Show HN: Little Rat – Chrome extension monitors network calls of all extensions](https://github.com/dnakov/little-rat)
 * [2023-08-14, 11:30:50](https://news.ycombinator.com/item?id=37119795) - [Hip hop historians who are racing to preserve its story](https://www.wired.com/story/archiving-hip-hop-history/)
 * [2023-08-14, 11:30:14](https://news.ycombinator.com/item?id=37119790) - [Argentina voted no on the Argentinian peso. USD will become its new currency](https://www.nytimes.com/2023/08/14/world/americas/argentina-javier-milei-president-primary.html)
