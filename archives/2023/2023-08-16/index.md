@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-16](index.md)
 
+* [2023-08-16, 10:19:32](https://news.ycombinator.com/item?id=37144985) - [Htmx is part of the GitHub Accelerator](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
 * [2023-08-16, 08:27:45](https://news.ycombinator.com/item?id=37144226) - [Don’t Use VPN Services](https://tilde.club/wiki/vpnwhy.html)
 * [2023-08-16, 07:27:47](https://news.ycombinator.com/item?id=37143837) - [Why Tailwind CSS Won](https://matt-rickard.com/why-tailwind-css-won)
 * [2023-08-16, 07:22:04](https://news.ycombinator.com/item?id=37143794) - [Thinking about God increases acceptance of AI in decision-making](https://www.pnas.org/doi/10.1073/pnas.2218961120)
