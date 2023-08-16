@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
+* [2023-08-15, 23:36:59](https://news.ycombinator.com/item?id=37140806) - [Google Deprecates Google Domains, Sells It to Squarespace](https://support.google.com/domains/answer/13689670?hl=en)
 * [2023-08-15, 23:26:02](https://news.ycombinator.com/item?id=37140681) - [Ted's Notes on Pawpaws](https://toyrus.ngrok.io/~ted/pawpaws/)
 * [2023-08-15, 22:50:54](https://news.ycombinator.com/item?id=37140320) - [Bank of Ireland IT blunder allows customers who have no money get access to cash](https://www.independent.ie/business/personal-finance/bank-of-ireland-it-blunder-allows-customers-who-have-no-money-get-access-to-cash-at-atms/a510070628.html)
 * [2023-08-15, 22:48:21](https://news.ycombinator.com/item?id=37140291) - [We Call on FOSS Contributors to “Exit Zoom”](https://sfconservancy.org/news/2023/aug/15/exit-zoom/)
@@ -12,6 +13,7 @@
 * [2023-08-15, 22:18:17](https://news.ycombinator.com/item?id=37140013) - [How Is LLaMa.cpp Possible?](https://finbarr.ca/how-is-llama-cpp-possible/)
 * [2023-08-15, 22:15:15](https://news.ycombinator.com/item?id=37139980) - [You're a cyclist who was just struck by a car driver. Why it was your fault](https://www.mcsweeneys.net/articles/youre-a-cyclist-who-was-just-struck-by-a-car-driver-heres-why-it-was-your-fault)
 * [2023-08-15, 21:42:56](https://news.ycombinator.com/item?id=37139643) - [New x86 8U servers with 32TB RAM, 480 physical cores, 15 PCIe x16 slots, 400GbE](https://lenovopress.lenovo.com/lp1684-announcing-thinksystem-v3-with-4th-gen-intel-xeon-scalable-processors)
+* [2023-08-15, 21:39:31](https://news.ycombinator.com/item?id=37139610) - [Federal Agency Tells SF Workers to Work from Home Due to Unsafe Conditions](https://sfist.com/2023/08/14/federal-agency-tells-sf-workers-to-work-from-home-due-to-unsafe-conditions/)
 * [2023-08-15, 20:51:28](https://news.ycombinator.com/item?id=37139142) - [4M Coloradans notified their medical data was exposed in MOVEit incident](https://www.scmagazine.com/news/colorado-notifies-4-million-people-that-their-medical-data-was-exposed-in-third-party-moveit-incident)
 * [2023-08-15, 20:15:27](https://news.ycombinator.com/item?id=37138807) - [How should I read type system notation?](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation)
 * [2023-08-15, 20:06:17](https://news.ycombinator.com/item?id=37138691) - [Requiring ink to scan a document–yet another insult from the printer industry](https://arstechnica.com/gadgets/2023/08/the-printers-that-require-ink-to-scan-and-fax/)
@@ -95,6 +97,7 @@
 * [2023-08-15, 02:08:27](https://news.ycombinator.com/item?id=37129318) - [Webvan: The Dotcom Bubble’s Biggest Bust](https://streetfins.com/webvan-the-dotcom-bubbles-biggest-bust/)
 * [2023-08-15, 01:39:40](https://news.ycombinator.com/item?id=37129132) - [Lynn Conway's Story (2000)](https://ai.eecs.umich.edu/people/conway/LynnsStory.html)
 * [2023-08-15, 01:17:09](https://news.ycombinator.com/item?id=37128965) - [Ruth Bader Ginsburg and Gloria Steinem Fought for Your Right to Get a Beer](https://lithub.com/how-ruth-bader-ginsburg-and-gloria-steinem-fought-for-your-right-to-get-a-beer/)
+* [2023-08-15, 01:12:10](https://news.ycombinator.com/item?id=37128935) - [265SXB-Guide: A Most Unofficial Guide to the W65C265SXB (65816)](https://github.com/scotws/265SXB-Guide)
 * [2023-08-15, 01:10:56](https://news.ycombinator.com/item?id=37128929) - [Peter Pan Copyright](https://www.gosh.org/about-us/peter-pan/copyright/)
 * [2023-08-15, 01:06:03](https://news.ycombinator.com/item?id=37128885) - [How to be successful as a research mathematician? Follow your gut](https://www.nature.com/articles/d41586-023-02555-z)
 * [2023-08-15, 00:52:22](https://news.ycombinator.com/item?id=37128783) - [StarCraft was never meant to be played the way Koreans played [video]](https://www.youtube.com/watch?v=FNqaR_XGwns)
