@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-16](index.md)
 
 * [2023-08-16, 22:40:10](https://news.ycombinator.com/item?id=37154840) - [New York Times considers legal action against OpenAI as copyright tensions swirl](https://www.npr.org/2023/08/16/1194202562/new-york-times-considers-legal-action-against-openai-as-copyright-tensions-swirl)
+* [2023-08-16, 22:23:46](https://news.ycombinator.com/item?id=37154685) - [2,000-year-old synagogue found in southern Russia](http://www.thehistoryblog.com/archives/68050)
 * [2023-08-16, 22:02:21](https://news.ycombinator.com/item?id=37154473) - [$70 device can spoof an Apple device and trick you into sharing your password](https://techcrunch.com/2023/08/16/this-70-device-can-spoof-an-apple-device-and-trick-you-into-sharing-your-password/)
 * [2023-08-16, 21:55:44](https://news.ycombinator.com/item?id=37154414) - [Naomi Wu and the Silence That Speaks Volumes](https://www.hackingbutlegal.com/naomi-wu-and-the-silence-that-speaks-volumes/)
 * [2023-08-16, 21:53:20](https://news.ycombinator.com/item?id=37154395) - [MLIR For Beginners: A series of articles on the MLIR framework](https://github.com/j2kun/mlir-tutorial)
