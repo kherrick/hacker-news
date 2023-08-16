@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-16, 03:06:18](https://news.ycombinator.com/item?id=37142426) - [Diligere, Equity-Invest Are New Firms of U.K. Con Man](https://krebsonsecurity.com/2023/08/diligere-equity-invest-are-new-firms-of-u-k-con-man/)
+* [2023-08-16, 03:04:29](https://news.ycombinator.com/item?id=37142415) - [SpaceX takes another step toward launching Starship again](https://arstechnica.com/space/2023/08/let-the-review-begin-spacex-takes-another-step-toward-launching-starship-again/)
 * [2023-08-16, 03:00:40](https://news.ycombinator.com/item?id=37142388) - [NetMaker: Connect Everything with a WireGuard VPN](https://www.netmaker.io/)
 * [2023-08-16, 02:44:49](https://news.ycombinator.com/item?id=37142293) - [Debugging a Futex Crash](https://rustylife.github.io/2023/08/15/futex-crash.html)
 * [2023-08-16, 02:38:54](https://news.ycombinator.com/item?id=37142246) - [Chrome was delivered without any sprints at all (2021)](https://threadreaderapp.com/thread/1427137725119959046.html)
@@ -11,7 +12,6 @@
 * [2023-08-15, 22:35:09](https://news.ycombinator.com/item?id=37140159) - [Modern CSV version 2](https://www.moderncsv.com/modern-csv-2-is-now-available/)
 * [2023-08-15, 22:18:17](https://news.ycombinator.com/item?id=37140013) - [How Is LLaMa.cpp Possible?](https://finbarr.ca/how-is-llama-cpp-possible/)
 * [2023-08-15, 20:15:27](https://news.ycombinator.com/item?id=37138807) - [How should I read type system notation?](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation)
-* [2023-08-15, 20:05:43](https://news.ycombinator.com/item?id=37138681) - [ISPs complain that listing every fee is too hard, urge FCC to scrap new rule](https://arstechnica.com/tech-policy/2023/08/isps-complain-that-listing-every-fee-is-too-hard-urge-fcc-to-scrap-new-rule/)
 * [2023-08-15, 20:05:06](https://news.ycombinator.com/item?id=37138672) - [My deep learning rig (2022)](https://nonint.com/2022/05/30/my-deep-learning-rig/)
 * [2023-08-15, 18:57:16](https://news.ycombinator.com/item?id=37137810) - [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
 * [2023-08-15, 17:54:13](https://news.ycombinator.com/item?id=37137110) - [We reduced the cost of building Mastodon at Twitter-scale by 100x](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)

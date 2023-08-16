@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-16](index.md)
 
 * [2023-08-16, 03:06:18](https://news.ycombinator.com/item?id=37142426) - [Diligere, Equity-Invest Are New Firms of U.K. Con Man](https://krebsonsecurity.com/2023/08/diligere-equity-invest-are-new-firms-of-u-k-con-man/)
+* [2023-08-16, 03:04:29](https://news.ycombinator.com/item?id=37142415) - [SpaceX takes another step toward launching Starship again](https://arstechnica.com/space/2023/08/let-the-review-begin-spacex-takes-another-step-toward-launching-starship-again/)
 * [2023-08-16, 03:00:40](https://news.ycombinator.com/item?id=37142388) - [NetMaker: Connect Everything with a WireGuard VPN](https://www.netmaker.io/)
 * [2023-08-16, 02:44:49](https://news.ycombinator.com/item?id=37142293) - [Debugging a Futex Crash](https://rustylife.github.io/2023/08/15/futex-crash.html)
 * [2023-08-16, 02:38:54](https://news.ycombinator.com/item?id=37142246) - [Chrome was delivered without any sprints at all (2021)](https://threadreaderapp.com/thread/1427137725119959046.html)
