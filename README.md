@@ -1,14 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-16, 18:16:38](https://news.ycombinator.com/item?id=37151308) - [New York City bans TikTok for government employees](https://www.engadget.com/new-york-city-bans-tiktok-for-government-employees-174806575.html)
+* [2023-08-16, 18:11:40](https://news.ycombinator.com/item?id=37151220) - [Windows feature that resets system clocks based on random data is wreaking havoc](https://arstechnica.com/security/2023/08/windows-feature-that-resets-system-clocks-based-on-random-data-is-wreaking-havoc/)
 * [2023-08-16, 17:58:27](https://news.ycombinator.com/item?id=37150986) - [Ask HN: What are some self-hosted photo organizing/sharing programs?](https://news.ycombinator.com/item?id=37150986)
-* [2023-08-16, 17:49:46](https://news.ycombinator.com/item?id=37150862) - [Ask HN: What are some easy ways to earn some side money?](https://news.ycombinator.com/item?id=37150862)
 * [2023-08-16, 17:45:44](https://news.ycombinator.com/item?id=37150787) - [Firezone (YC W22) is hiring a systems engineer](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-systems-engineer)
 * [2023-08-16, 17:11:57](https://news.ycombinator.com/item?id=37150185) - [Apple’s Employee No. 0 (2008)](https://www.electronicsweekly.com/blogs/mannerisms/yarns/apples-employee-no-0-2008-11/)
 * [2023-08-16, 17:06:10](https://news.ycombinator.com/item?id=37150098) - [OpenAI acquires Global Illumination](https://openai.com/blog/openai-acquires-global-illumination)
 * [2023-08-16, 16:59:28](https://news.ycombinator.com/item?id=37150000) - [The Mathematics of Training LLMs](https://www.latent.space/p/transformers-math#details)
 * [2023-08-16, 16:45:15](https://news.ycombinator.com/item?id=37149782) - [Theory of interstellar trade (1978) [pdf]](https://www.princeton.edu/~pkrugman/interstellar.pdf)
-* [2023-08-16, 16:42:33](https://news.ycombinator.com/item?id=37149736) - [July 2023 was the hottest month on record](https://twitter.com/nasa/status/1691106509319806977?s=46&t=H_jBB1XRvGbGkpJRBZAq5Q)
 * [2023-08-16, 16:17:17](https://news.ycombinator.com/item?id=37149349) - [LK-99 isn’t a superconductor](https://www.nature.com/articles/d41586-023-02585-7)
 * [2023-08-16, 16:15:41](https://news.ycombinator.com/item?id=37149327) - [What happens to all the stuff we return?](https://www.newyorker.com/magazine/2023/08/21/the-hidden-cost-of-free-returns)
 * [2023-08-16, 16:11:21](https://news.ycombinator.com/item?id=37149271) - [System Initiative has open sourced its collab DevOps tool](https://www.systeminit.com/blog-open-source/)
@@ -30,6 +29,7 @@
 * [2023-08-15, 10:49:48](https://news.ycombinator.com/item?id=37132320) - [The Evolution of Steve Albini](https://www.theguardian.com/music/2023/aug/15/the-evolution-of-steve-albini-if-the-dumbest-person-is-on-your-side-youre-on-the-wrong-side)
 * [2023-08-15, 09:19:00](https://news.ycombinator.com/item?id=37131808) - [Virtual IBM Punch Card Data Processing (2018)](http://sims.durgadas.com/punchcards/ibm029.html)
 * [2023-08-15, 06:51:08](https://news.ycombinator.com/item?id=37130988) - [Circle Evolves C++ [video]](https://www.youtube.com/watch?v=P1ZDOGDMNLM)
+* [2023-08-15, 02:35:34](https://news.ycombinator.com/item?id=37129514) - [Ruins of Emperor Nero’s Theater Discovered Near Vatican](https://www.scientificamerican.com/article/ruins-of-neros-theater-discovered-near-vatican1/)
 
 ## [Archives](archives/index.md)
 
