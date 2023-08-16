@@ -48,6 +48,7 @@
 * [2023-08-15, 14:15:51](https://news.ycombinator.com/item?id=37134293) - [Show HN: Layerform (YC S23) – Open-source dev environments using Terraform files](https://news.ycombinator.com/item?id=37134293)
 * [2023-08-15, 13:58:44](https://news.ycombinator.com/item?id=37134092) - [Firefox Finally Outperforming Google Chrome in SunSpider](https://www.phoronix.com/news/Firefox-Faster-SunSpider)
 * [2023-08-15, 13:58:17](https://news.ycombinator.com/item?id=37134089) - [Entrepreneurship for Engineers: Selling Open Source Software](https://thenewstack.io/entrepreneurship-for-engineers-selling-open-source-software/)
+* [2023-08-15, 13:41:38](https://news.ycombinator.com/item?id=37133908) - [How the iMac Saved Apple](https://www.theverge.com/23830432/imac-twenty-five-years-ago-saved-apple)
 * [2023-08-15, 13:14:53](https://news.ycombinator.com/item?id=37133600) - [Solar cycle is more powerful and surprising than predicted](https://theconversation.com/this-solar-cycle-the-suns-activity-is-more-powerful-and-surprising-than-predicted-209955)
 * [2023-08-15, 13:08:33](https://news.ycombinator.com/item?id=37133530) - [3 Advantages to Running FreeBSD as Your Server Operating System](https://klarasystems.com/articles/freebsd-3-advantages-to-running-freebsd-as-your-server-operating-system/)
 * [2023-08-15, 13:06:31](https://news.ycombinator.com/item?id=37133504) - [Why host your own LLM?](http://marble.onl/posts/why_host_your_own_llm.html)
