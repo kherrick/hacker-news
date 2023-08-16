@@ -2,13 +2,12 @@
 
 * [2023-08-16, 20:08:12](https://news.ycombinator.com/item?id=37152978) - [Ts_zip: Text Compression Using Large Language Models](https://bellard.org/ts_server/ts_zip.html)
 * [2023-08-16, 19:56:21](https://news.ycombinator.com/item?id=37152803) - [the US climate law is fueling a factory frenzy. Here’s the latest tally](https://www.canarymedia.com/articles/clean-energy-manufacturing/the-us-climate-law-is-fueling-a-factory-frenzy-heres-the-latest-tally)
+* [2023-08-16, 19:30:55](https://news.ycombinator.com/item?id=37152397) - [Minimum Viable Secure Product](https://mvsp.dev/)
 * [2023-08-16, 19:25:04](https://news.ycombinator.com/item?id=37152313) - [Tesla’s $10k-Cheaper Model S, X Are Software Locked for Less Range: Report](https://www.thedrive.com/news/teslas-10000-cheaper-model-s-x-software-locked-for-less-range-report)
 * [2023-08-16, 19:13:04](https://news.ycombinator.com/item?id=37152136) - [Casio G-Shock time sync radio](https://gshock.casio.com/intl/technology/radio/)
 * [2023-08-16, 18:16:38](https://news.ycombinator.com/item?id=37151308) - [New York City bans TikTok for government employees](https://www.engadget.com/new-york-city-bans-tiktok-for-government-employees-174806575.html)
 * [2023-08-16, 18:11:40](https://news.ycombinator.com/item?id=37151220) - [Windows feature that resets system clocks based on random data is wreaking havoc](https://arstechnica.com/security/2023/08/windows-feature-that-resets-system-clocks-based-on-random-data-is-wreaking-havoc/)
 * [2023-08-16, 17:45:44](https://news.ycombinator.com/item?id=37150787) - [Firezone (YC W22) is hiring a systems engineer](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-systems-engineer)
-* [2023-08-16, 17:32:50](https://news.ycombinator.com/item?id=37150550) - [Towards HTTPS by Default](https://blog.chromium.org/2023/08/towards-https-by-default.html)
-* [2023-08-16, 17:06:10](https://news.ycombinator.com/item?id=37150098) - [OpenAI acquires Global Illumination](https://openai.com/blog/openai-acquires-global-illumination)
 * [2023-08-16, 16:59:28](https://news.ycombinator.com/item?id=37150000) - [The Mathematics of Training LLMs](https://www.latent.space/p/transformers-math#details)
 * [2023-08-16, 16:45:15](https://news.ycombinator.com/item?id=37149782) - [Theory of interstellar trade (1978) [pdf]](https://www.princeton.edu/~pkrugman/interstellar.pdf)
 * [2023-08-16, 16:17:17](https://news.ycombinator.com/item?id=37149349) - [LK-99 isn’t a superconductor](https://www.nature.com/articles/d41586-023-02585-7)
@@ -28,6 +27,7 @@
 * [2023-08-15, 15:11:29](https://news.ycombinator.com/item?id=37134950) - [A protein that disrupts cells’ energy centers may be a culprit in CFS/ME](https://www.science.org/content/article/protein-disrupts-cells-energy-centers-may-be-culprit-chronic-fatigue-syndrome)
 * [2023-08-15, 14:18:44](https://news.ycombinator.com/item?id=37134315) - [Bayesian Flow Networks](https://arxiv.org/abs/2308.07037)
 * [2023-08-15, 13:55:34](https://news.ycombinator.com/item?id=37134056) - [A Metaobject Protocol for C++ (1995) [pdf]](https://dl.acm.org/doi/pdf/10.1145/217838.217868)
+* [2023-08-15, 11:16:45](https://news.ycombinator.com/item?id=37132510) - [What Learning APL Taught Me About Python](https://mathspp.com/blog/what-learning-apl-taught-me-about-python)
 * [2023-08-15, 09:19:00](https://news.ycombinator.com/item?id=37131808) - [Virtual IBM Punch Card Data Processing (2018)](http://sims.durgadas.com/punchcards/ibm029.html)
 * [2023-08-15, 03:46:06](https://news.ycombinator.com/item?id=37129929) - [New calcium material functions as an ammonia synthesis catalyst](https://phys.org/news/2023-08-calcium-material-functions-ammonia-synthesis.html)
 

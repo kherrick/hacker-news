@@ -71,6 +71,7 @@
 * [2023-08-15, 12:00:12](https://news.ycombinator.com/item?id=37132855) - [Metriport (YC S22) Is Hiring](https://www.ycombinator.com/companies/metriport/jobs/jsOCunE-software-engineer)
 * [2023-08-15, 11:47:44](https://news.ycombinator.com/item?id=37132754) - [Show HN: Visual Reference to CSS Selectors](https://fffuel.co/css-selectors/)
 * [2023-08-15, 11:34:26](https://news.ycombinator.com/item?id=37132651) - [Show HN: Servicer, pm2 alternative built on rust and systemd](https://servicer.dev)
+* [2023-08-15, 11:16:45](https://news.ycombinator.com/item?id=37132510) - [What Learning APL Taught Me About Python](https://mathspp.com/blog/what-learning-apl-taught-me-about-python)
 * [2023-08-15, 10:50:24](https://news.ycombinator.com/item?id=37132325) - [Evening Club Bridge Is Dying](https://lajollabridge.com/Articles/EveningClubBridgeDecline.htm)
 * [2023-08-15, 10:49:48](https://news.ycombinator.com/item?id=37132320) - [The Evolution of Steve Albini](https://www.theguardian.com/music/2023/aug/15/the-evolution-of-steve-albini-if-the-dumbest-person-is-on-your-side-youre-on-the-wrong-side)
 * [2023-08-15, 10:30:23](https://news.ycombinator.com/item?id=37132209) - [GPU-Accelerated LLM on a $100 Orange Pi](https://blog.mlc.ai/2023/08/09/GPU-Accelerated-LLM-on-Orange-Pi)
