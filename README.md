@@ -2,7 +2,7 @@
 
 * [2023-08-16, 07:27:47](https://news.ycombinator.com/item?id=37143837) - [Why Tailwind CSS Won](https://matt-rickard.com/why-tailwind-css-won)
 * [2023-08-16, 07:22:04](https://news.ycombinator.com/item?id=37143794) - [Thinking about God increases acceptance of AI in decision-making](https://www.pnas.org/doi/10.1073/pnas.2218961120)
-* [2023-08-16, 05:28:09](https://news.ycombinator.com/item?id=37143159) - [Carl Sagan testifying before Congress in 1985 on climate change [video]](https://www.youtube.com/watch?v=Wp-WiNXH6hI)
+* [2023-08-16, 05:28:09](https://news.ycombinator.com/item?id=37143159) - [Carl Sagan testifying before Congress on climate change (1985) [video]](https://www.youtube.com/watch?v=Wp-WiNXH6hI)
 * [2023-08-16, 04:28:18](https://news.ycombinator.com/item?id=37142890) - [What do I think about Community Notes?(Vitalik Buterin)](https://vitalik.eth.limo/general/2023/08/16/communitynotes.html)
 * [2023-08-16, 03:06:18](https://news.ycombinator.com/item?id=37142426) - [Diligere, Equity-Invest Are New Firms of U.K. Con Man](https://krebsonsecurity.com/2023/08/diligere-equity-invest-are-new-firms-of-u-k-con-man/)
 * [2023-08-16, 03:00:40](https://news.ycombinator.com/item?id=37142388) - [NetMaker: Connect Everything with a WireGuard VPN](https://www.netmaker.io/)
@@ -17,7 +17,7 @@
 * [2023-08-15, 20:05:06](https://news.ycombinator.com/item?id=37138672) - [My deep learning rig (2022)](https://nonint.com/2022/05/30/my-deep-learning-rig/)
 * [2023-08-15, 18:57:16](https://news.ycombinator.com/item?id=37137810) - [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
 * [2023-08-15, 17:38:10](https://news.ycombinator.com/item?id=37136898) - [Opendream: A layer-based UI for Stable Diffusion](https://github.com/varunshenoy/opendream)
-* [2023-08-15, 15:11:29](https://news.ycombinator.com/item?id=37134950) - [WASF3 disrupts mitochondria and may mediate exercise intolerance in CFS](https://www.pnas.org/doi/10.1073/pnas.2302738120)
+* [2023-08-15, 15:11:29](https://news.ycombinator.com/item?id=37134950) - [A protein that disrupts cells’ energy centers may be a culprit in CFS/ME](https://www.science.org/content/article/protein-disrupts-cells-energy-centers-may-be-culprit-chronic-fatigue-syndrome)
 * [2023-08-15, 13:41:38](https://news.ycombinator.com/item?id=37133908) - [How the iMac Saved Apple](https://www.theverge.com/23830432/imac-twenty-five-years-ago-saved-apple)
 * [2023-08-15, 12:28:20](https://news.ycombinator.com/item?id=37133128) - [Show HN: Lottielab – Create product animations in the browser easily](https://www.lottielab.com/)
 * [2023-08-15, 12:16:10](https://news.ycombinator.com/item?id=37133023) - [Why Darwin admired the earthworm](https://nautil.us/why-darwin-admired-the-humble-earthworm-361515/)
