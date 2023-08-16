@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-16, 22:40:10](https://news.ycombinator.com/item?id=37154840) - [New York Times considers legal action against OpenAI as copyright tensions swirl](https://www.npr.org/2023/08/16/1194202562/new-york-times-considers-legal-action-against-openai-as-copyright-tensions-swirl)
+* [2023-08-16, 22:02:21](https://news.ycombinator.com/item?id=37154473) - [$70 device can spoof an Apple device and trick you into sharing your password](https://techcrunch.com/2023/08/16/this-70-device-can-spoof-an-apple-device-and-trick-you-into-sharing-your-password/)
 * [2023-08-16, 21:55:44](https://news.ycombinator.com/item?id=37154414) - [Naomi Wu and the Silence That Speaks Volumes](https://www.hackingbutlegal.com/naomi-wu-and-the-silence-that-speaks-volumes/)
 * [2023-08-16, 21:53:20](https://news.ycombinator.com/item?id=37154395) - [MLIR For Beginners: A series of articles on the MLIR framework](https://github.com/j2kun/mlir-tutorial)
 * [2023-08-16, 21:49:58](https://news.ycombinator.com/item?id=37154365) - [Ex-Google CEO Eric Schmidt to Launch AI-Science Moonshot](https://www.semafor.com/article/08/16/2023/ex-google-ceo-eric-schmidt-to-launch-ai-science-moonshot)
@@ -10,7 +12,6 @@
 * [2023-08-16, 20:17:37](https://news.ycombinator.com/item?id=37153121) - [Bringing Safety check to the Chrome://extensions page](https://developer.chrome.com/blog/extension-safety-hub/)
 * [2023-08-16, 20:08:12](https://news.ycombinator.com/item?id=37152978) - [Ts_zip: Text Compression Using Large Language Models](https://bellard.org/ts_server/ts_zip.html)
 * [2023-08-16, 19:30:55](https://news.ycombinator.com/item?id=37152397) - [Minimum Viable Secure Product](https://mvsp.dev/)
-* [2023-08-16, 19:13:04](https://news.ycombinator.com/item?id=37152136) - [Casio G-Shock time sync radio](https://gshock.casio.com/intl/technology/radio/)
 * [2023-08-16, 18:16:38](https://news.ycombinator.com/item?id=37151308) - [New York City bans TikTok for government employees](https://www.engadget.com/new-york-city-bans-tiktok-for-government-employees-174806575.html)
 * [2023-08-16, 18:11:40](https://news.ycombinator.com/item?id=37151220) - [Windows feature that resets system clocks based on random data is wreaking havoc](https://arstechnica.com/security/2023/08/windows-feature-that-resets-system-clocks-based-on-random-data-is-wreaking-havoc/)
 * [2023-08-16, 17:45:44](https://news.ycombinator.com/item?id=37150787) - [Firezone (YC W22) is hiring a systems engineer](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-systems-engineer)
@@ -22,7 +23,6 @@
 * [2023-08-16, 14:54:22](https://news.ycombinator.com/item?id=37148033) - [Math proof draws new boundaries around black hole formation](https://www.quantamagazine.org/math-proof-draws-new-boundaries-around-black-hole-formation-20230816/)
 * [2023-08-16, 14:30:15](https://news.ycombinator.com/item?id=37147617) - [Brand-new Linux release, which I'm calling the Debian Linux Release (1993)](https://wiki.debian.org/DebianHistory?action=AttachFile&do=get&target=Debian-announcement-1993.txt)
 * [2023-08-16, 13:10:59](https://news.ycombinator.com/item?id=37146532) - [Uses and abuses of cloud data warehouses](https://materialize.com/blog/warehouse-abuse/)
-* [2023-08-16, 12:49:38](https://news.ycombinator.com/item?id=37146268) - [Today I learned you can pause the Windows Task Manager moving apps around](https://www.theverge.com/2023/8/16/23834125/microsoft-windows-task-manager-pause-shortcut)
 * [2023-08-16, 10:19:32](https://news.ycombinator.com/item?id=37144985) - [Htmx is part of the GitHub Accelerator](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
 * [2023-08-16, 09:23:27](https://news.ycombinator.com/item?id=37144601) - [Is this a good book for me, now?](https://maryrosecook.com/blog/post/is-this-a-good-book-for-me-now)
 * [2023-08-15, 19:47:59](https://news.ycombinator.com/item?id=37138464) - [Exploring the design space of binary search trees](https://rtheunissen.github.io/bst/?)
