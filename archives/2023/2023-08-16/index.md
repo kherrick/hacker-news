@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-16](index.md)
 
+* [2023-08-16, 18:45:52](https://news.ycombinator.com/item?id=37151749) - [Iowa using AI to automatically scan and ban books](https://www.engadget.com/mason-city-iowa-school-district-ai-book-ban-censorship-202541565.html)
 * [2023-08-16, 18:41:20](https://news.ycombinator.com/item?id=37151697) - [Marion County atty withdraws search warrant against Kansas paper, returns items](https://www.kshb.com/news/local-news/marion-county-attorney-withdraws-search-warrant-against-kansas-newspaper-returns-items)
 * [2023-08-16, 18:30:40](https://news.ycombinator.com/item?id=37151555) - [Ask HN: Is making a self taught transition to AI/ML related fields possible?](https://news.ycombinator.com/item?id=37151555)
 * [2023-08-16, 18:30:19](https://news.ycombinator.com/item?id=37151553) - [The DeSantis Campaign Texted Me with a Large Language Model](https://nalanj.dev/posts/desantis-campaign-sms-llm/)
