@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-16, 02:44:49](https://news.ycombinator.com/item?id=37142293) - [Debugging a Futex Crash](https://rustylife.github.io/2023/08/15/futex-crash.html)
 * [2023-08-16, 02:16:54](https://news.ycombinator.com/item?id=37142065) - [Cruise vehicle gets stuck in wet concrete while driving in San Francisco](https://www.sfgate.com/tech/article/cruise-stuck-wet-concrete-sf-18297946.php)
 * [2023-08-16, 01:47:39](https://news.ycombinator.com/item?id=37141821) - [AMD Inception Mitigations Cause 20% Performance Drop in Database Servers](https://www.phoronix.com/review/amd-inception-benchmarks)
 * [2023-08-16, 01:01:24](https://news.ycombinator.com/item?id=37141463) - [Putting Down the Pen: Reflecting on Oryx’s Journey](https://www.oryxspioenkop.com/2023/08/putting-down-pen-reflecting-on-oryxs.html)
@@ -29,7 +30,6 @@
 * [2023-08-15, 01:12:10](https://news.ycombinator.com/item?id=37128935) - [A most very unofficial guide to the W65C265SXB](https://github.com/scotws/265SXB-Guide)
 * [2023-08-15, 01:10:56](https://news.ycombinator.com/item?id=37128929) - [Peter Pan Copyright](https://www.gosh.org/about-us/peter-pan/copyright/)
 * [2023-08-15, 01:06:03](https://news.ycombinator.com/item?id=37128885) - [How to be successful as a research mathematician? Follow your gut](https://www.nature.com/articles/d41586-023-02555-z)
-* [2023-08-14, 06:56:11](https://news.ycombinator.com/item?id=37118239) - [Decimal to fraction](https://leancrew.com/all-this/2023/08/decimal-to-fraction/)
 
 ## [Archives](archives/index.md)
 
