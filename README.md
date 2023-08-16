@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-16, 16:42:33](https://news.ycombinator.com/item?id=37149736) - [July 2023 was the hottest month on record](https://twitter.com/nasa/status/1691106509319806977?s=46&t=H_jBB1XRvGbGkpJRBZAq5Q)
 * [2023-08-16, 16:28:45](https://news.ycombinator.com/item?id=37149524) - [With some tech savvy, you can disconnect your robot vacuum from the cloud](https://www.engadget.com/robot-vacuum-security-privacy-irobot-cloud-133008625.html)
 * [2023-08-16, 16:17:17](https://news.ycombinator.com/item?id=37149349) - [LK-99 isn’t a superconductor – how science sleuths solved the mystery](https://www.nature.com/articles/d41586-023-02585-7)
 * [2023-08-16, 16:15:41](https://news.ycombinator.com/item?id=37149327) - [What Happens to All the Stuff We Return?](https://www.newyorker.com/magazine/2023/08/21/the-hidden-cost-of-free-returns)
-* [2023-08-16, 15:33:57](https://news.ycombinator.com/item?id=37148680) - [The tech job recession is over](https://www.businessinsider.com/the-tech-job-recession-is-over-when-will-hiring-reaccelerate-2023-8)
 * [2023-08-16, 15:07:03](https://news.ycombinator.com/item?id=37148240) - [Ask HN: If we train an LLM with “data” instead of “language” tokens](https://news.ycombinator.com/item?id=37148240)
 * [2023-08-16, 14:54:22](https://news.ycombinator.com/item?id=37148033) - [Math Proof Draws New Boundaries Around Black Hole Formation](https://www.quantamagazine.org/math-proof-draws-new-boundaries-around-black-hole-formation-20230816/)
 * [2023-08-16, 14:52:01](https://news.ycombinator.com/item?id=37147996) - [Spring 6.1 now compatible with virtual threads and JDK 21 overall](https://github.com/spring-projects/spring-framework/wiki/What%27s-New-in-Spring-Framework-6.x)
+* [2023-08-16, 14:37:00](https://news.ycombinator.com/item?id=37147729) - [Major U.S. energy org targeted in QR code phishing attack](https://www.bleepingcomputer.com/news/security/major-us-energy-org-targeted-in-qr-code-phishing-attack/)
 * [2023-08-16, 14:30:15](https://news.ycombinator.com/item?id=37147617) - [Brand-new Linux release, which I'm calling the Debian Linux Release (1993)](https://wiki.debian.org/DebianHistory?action=AttachFile&do=get&target=Debian-announcement-1993.txt)
 * [2023-08-16, 14:02:14](https://news.ycombinator.com/item?id=37147158) - [We reduced the size of our JavaScript bundles by 33%](https://dropbox.tech/frontend/how-we-reduced-the-size-of-our-javascript-bundles-by-33-percent)
 * [2023-08-16, 13:10:59](https://news.ycombinator.com/item?id=37146532) - [The uses and abuses of Cloud Data Warehouses](https://materialize.com/blog/warehouse-abuse/)
@@ -29,7 +30,6 @@
 * [2023-08-15, 09:19:00](https://news.ycombinator.com/item?id=37131808) - [Virtual IBM Punch Card Data Processing (2018)](http://sims.durgadas.com/punchcards/ibm029.html)
 * [2023-08-15, 06:51:08](https://news.ycombinator.com/item?id=37130988) - [Circle Evolves C++ [video]](https://www.youtube.com/watch?v=P1ZDOGDMNLM)
 * [2023-08-15, 02:35:34](https://news.ycombinator.com/item?id=37129514) - [Ruins of Emperor Nero’s Theater Discovered Near Vatican](https://www.scientificamerican.com/article/ruins-of-neros-theater-discovered-near-vatican1/)
-* [2023-08-14, 05:25:15](https://news.ycombinator.com/item?id=37117754) - [Disney invented two colors (2022)](https://insidethemagic.net/2022/02/disney-go-away-green-lp1/)
 
 ## [Archives](archives/index.md)
 

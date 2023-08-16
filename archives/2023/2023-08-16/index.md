@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-16](index.md)
 
+* [2023-08-16, 16:42:33](https://news.ycombinator.com/item?id=37149736) - [July 2023 was the hottest month on record](https://twitter.com/nasa/status/1691106509319806977?s=46&t=H_jBB1XRvGbGkpJRBZAq5Q)
 * [2023-08-16, 16:28:45](https://news.ycombinator.com/item?id=37149524) - [With some tech savvy, you can disconnect your robot vacuum from the cloud](https://www.engadget.com/robot-vacuum-security-privacy-irobot-cloud-133008625.html)
 * [2023-08-16, 16:17:17](https://news.ycombinator.com/item?id=37149349) - [LK-99 isn’t a superconductor – how science sleuths solved the mystery](https://www.nature.com/articles/d41586-023-02585-7)
 * [2023-08-16, 16:15:41](https://news.ycombinator.com/item?id=37149327) - [What Happens to All the Stuff We Return?](https://www.newyorker.com/magazine/2023/08/21/the-hidden-cost-of-free-returns)
