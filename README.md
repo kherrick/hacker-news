@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-16, 21:13:10](https://news.ycombinator.com/item?id=37153919) - [Campus Puritans Come for an Astronomer–and His Byline](https://quillette.com/2023/05/25/campus-puritans/)
 * [2023-08-16, 20:32:44](https://news.ycombinator.com/item?id=37153373) - [Anonfiles Is Shutting Down](https://anonfiles.com/)
 * [2023-08-16, 20:08:12](https://news.ycombinator.com/item?id=37152978) - [Ts_zip: Text Compression Using Large Language Models](https://bellard.org/ts_server/ts_zip.html)
 * [2023-08-16, 19:56:21](https://news.ycombinator.com/item?id=37152803) - [the US climate law is fueling a factory frenzy. Here’s the latest tally](https://www.canarymedia.com/articles/clean-energy-manufacturing/the-us-climate-law-is-fueling-a-factory-frenzy-heres-the-latest-tally)
 * [2023-08-16, 19:30:55](https://news.ycombinator.com/item?id=37152397) - [Minimum Viable Secure Product](https://mvsp.dev/)
-* [2023-08-16, 19:13:04](https://news.ycombinator.com/item?id=37152136) - [Casio G-Shock time sync radio](https://gshock.casio.com/intl/technology/radio/)
 * [2023-08-16, 18:21:20](https://news.ycombinator.com/item?id=37151391) - [Transpiler, a Meaningless Word](https://rachit.pl/post/transpiler/)
 * [2023-08-16, 18:16:38](https://news.ycombinator.com/item?id=37151308) - [New York City bans TikTok for government employees](https://www.engadget.com/new-york-city-bans-tiktok-for-government-employees-174806575.html)
 * [2023-08-16, 18:11:40](https://news.ycombinator.com/item?id=37151220) - [Windows feature that resets system clocks based on random data is wreaking havoc](https://arstechnica.com/security/2023/08/windows-feature-that-resets-system-clocks-based-on-random-data-is-wreaking-havoc/)
