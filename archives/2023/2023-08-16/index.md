@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-16](index.md)
 
 * [2023-08-16, 19:13:04](https://news.ycombinator.com/item?id=37152136) - [Casio G-Shock time sync radio](https://gshock.casio.com/intl/technology/radio/)
+* [2023-08-16, 19:12:44](https://news.ycombinator.com/item?id=37152133) - [Luck be a Landlord is now banned in 13 countries on the Google Play Store](https://blog.trampolinetales.com/luck-be-a-landlord-is-now-banned-in-13-countries-on-the-google-play-store/)
 * [2023-08-16, 18:45:52](https://news.ycombinator.com/item?id=37151749) - [Iowa using AI to automatically scan and ban books](https://www.engadget.com/mason-city-iowa-school-district-ai-book-ban-censorship-202541565.html)
 * [2023-08-16, 18:41:20](https://news.ycombinator.com/item?id=37151697) - [Marion County atty withdraws search warrant against Kansas paper, returns items](https://www.kshb.com/news/local-news/marion-county-attorney-withdraws-search-warrant-against-kansas-newspaper-returns-items)
 * [2023-08-16, 18:30:40](https://news.ycombinator.com/item?id=37151555) - [Ask HN: Is making a self taught transition to AI/ML related fields possible?](https://news.ycombinator.com/item?id=37151555)
