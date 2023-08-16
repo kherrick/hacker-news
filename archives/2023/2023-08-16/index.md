@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-08-16](index.md)
 
+* [2023-08-16, 18:41:20](https://news.ycombinator.com/item?id=37151697) - [Marion County atty withdraws search warrant against Kansas paper, returns items](https://www.kshb.com/news/local-news/marion-county-attorney-withdraws-search-warrant-against-kansas-newspaper-returns-items)
+* [2023-08-16, 18:30:40](https://news.ycombinator.com/item?id=37151555) - [Ask HN: Is making a self taught transition to AI/ML related fields possible?](https://news.ycombinator.com/item?id=37151555)
+* [2023-08-16, 18:30:19](https://news.ycombinator.com/item?id=37151553) - [The DeSantis Campaign Texted Me with a Large Language Model](https://nalanj.dev/posts/desantis-campaign-sms-llm/)
 * [2023-08-16, 18:16:38](https://news.ycombinator.com/item?id=37151308) - [New York City bans TikTok for government employees](https://www.engadget.com/new-york-city-bans-tiktok-for-government-employees-174806575.html)
 * [2023-08-16, 18:11:40](https://news.ycombinator.com/item?id=37151220) - [Windows feature that resets system clocks based on random data is wreaking havoc](https://arstechnica.com/security/2023/08/windows-feature-that-resets-system-clocks-based-on-random-data-is-wreaking-havoc/)
 * [2023-08-16, 17:58:27](https://news.ycombinator.com/item?id=37150986) - [Ask HN: What are some self-hosted photo organizing/sharing programs?](https://news.ycombinator.com/item?id=37150986)
+* [2023-08-16, 17:56:59](https://news.ycombinator.com/item?id=37150962) - [Radio operator exposure to RF/microwave radiation and the risk of brain tumors](https://pubmed.ncbi.nlm.nih.gov/16873421/)
 * [2023-08-16, 17:49:46](https://news.ycombinator.com/item?id=37150862) - [Ask HN: What are some easy ways to earn some side money?](https://news.ycombinator.com/item?id=37150862)
 * [2023-08-16, 17:45:44](https://news.ycombinator.com/item?id=37150787) - [Firezone (YC W22) is hiring a systems engineer](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-systems-engineer)
 * [2023-08-16, 17:42:41](https://news.ycombinator.com/item?id=37150730) - [Crime is so bad near S.F. Federal building employees are told to work from home](https://www.sfchronicle.com/sf/article/drugs-crime-nancy-pelosi-federal-building-18292237.php)
