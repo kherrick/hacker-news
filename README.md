@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-16, 19:13:04](https://news.ycombinator.com/item?id=37152136) - [Casio G-Shock time sync radio](https://gshock.casio.com/intl/technology/radio/)
 * [2023-08-16, 18:45:52](https://news.ycombinator.com/item?id=37151749) - [Iowa using AI to automatically scan and ban books](https://www.engadget.com/mason-city-iowa-school-district-ai-book-ban-censorship-202541565.html)
 * [2023-08-16, 18:41:20](https://news.ycombinator.com/item?id=37151697) - [Marion County atty withdraws search warrant against Kansas paper, returns items](https://www.kshb.com/news/local-news/marion-county-attorney-withdraws-search-warrant-against-kansas-newspaper-returns-items)
 * [2023-08-16, 18:30:40](https://news.ycombinator.com/item?id=37151555) - [Ask HN: Is making a self taught transition to AI/ML related fields possible?](https://news.ycombinator.com/item?id=37151555)
@@ -8,7 +9,6 @@
 * [2023-08-16, 17:58:27](https://news.ycombinator.com/item?id=37150986) - [Ask HN: What are some self-hosted photo organizing/sharing programs?](https://news.ycombinator.com/item?id=37150986)
 * [2023-08-16, 17:56:59](https://news.ycombinator.com/item?id=37150962) - [Radio operator exposure to RF/microwave radiation and the risk of brain tumors](https://pubmed.ncbi.nlm.nih.gov/16873421/)
 * [2023-08-16, 17:45:44](https://news.ycombinator.com/item?id=37150787) - [Firezone (YC W22) is hiring a systems engineer](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-systems-engineer)
-* [2023-08-16, 17:11:57](https://news.ycombinator.com/item?id=37150185) - [Apple’s Employee No. 0 (2008)](https://www.electronicsweekly.com/blogs/mannerisms/yarns/apples-employee-no-0-2008-11/)
 * [2023-08-16, 17:06:10](https://news.ycombinator.com/item?id=37150098) - [OpenAI acquires Global Illumination](https://openai.com/blog/openai-acquires-global-illumination)
 * [2023-08-16, 16:59:28](https://news.ycombinator.com/item?id=37150000) - [The Mathematics of Training LLMs](https://www.latent.space/p/transformers-math#details)
 * [2023-08-16, 16:45:15](https://news.ycombinator.com/item?id=37149782) - [Theory of interstellar trade (1978) [pdf]](https://www.princeton.edu/~pkrugman/interstellar.pdf)
