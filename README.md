@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-16, 08:27:45](https://news.ycombinator.com/item?id=37144226) - [Don’t Use VPN Services](https://tilde.club/wiki/vpnwhy.html)
 * [2023-08-16, 07:27:47](https://news.ycombinator.com/item?id=37143837) - [Why Tailwind CSS Won](https://matt-rickard.com/why-tailwind-css-won)
 * [2023-08-16, 07:22:04](https://news.ycombinator.com/item?id=37143794) - [Thinking about God increases acceptance of AI in decision-making](https://www.pnas.org/doi/10.1073/pnas.2218961120)
 * [2023-08-16, 06:52:33](https://news.ycombinator.com/item?id=37143603) - [Hacker News makes it to Dutch national media](https://nos.nl/artikel/2486778-toegang-tot-nieuwsmedia-en-concurrenten-vertraagd-door-elon-musks-x)
@@ -15,7 +16,6 @@
 * [2023-08-15, 20:15:27](https://news.ycombinator.com/item?id=37138807) - [How should I read type system notation?](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation)
 * [2023-08-15, 20:05:06](https://news.ycombinator.com/item?id=37138672) - [My deep learning rig (2022)](https://nonint.com/2022/05/30/my-deep-learning-rig/)
 * [2023-08-15, 18:57:16](https://news.ycombinator.com/item?id=37137810) - [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
-* [2023-08-15, 17:54:13](https://news.ycombinator.com/item?id=37137110) - [We reduced the cost of building Mastodon at Twitter-scale by 100x](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
 * [2023-08-15, 17:38:10](https://news.ycombinator.com/item?id=37136898) - [Opendream: A layer-based UI for Stable Diffusion](https://github.com/varunshenoy/opendream)
 * [2023-08-15, 15:11:29](https://news.ycombinator.com/item?id=37134950) - [WASF3 disrupts mitochondria and may mediate exercise intolerance in CFS](https://www.pnas.org/doi/10.1073/pnas.2302738120)
 * [2023-08-15, 13:41:38](https://news.ycombinator.com/item?id=37133908) - [How the iMac Saved Apple](https://www.theverge.com/23830432/imac-twenty-five-years-ago-saved-apple)
