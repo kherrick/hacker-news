@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-16](index.md)
 
+* [2023-08-16, 02:16:54](https://news.ycombinator.com/item?id=37142065) - [Cruise vehicle gets stuck in wet concrete while driving in San Francisco](https://www.sfgate.com/tech/article/cruise-stuck-wet-concrete-sf-18297946.php)
 * [2023-08-16, 01:06:36](https://news.ycombinator.com/item?id=37141509) - [Engineer slapped with suspension after bridge collapsed hours after opening](https://www.cbc.ca/news/canada/saskatchewan/engineer-18-month-suspension-bridge-collapsed-1.6936657)
 * [2023-08-16, 01:03:18](https://news.ycombinator.com/item?id=37141478) - [X has started reversing the throttling on some of the sites, including NYTimes'](https://twitter.com/drewharwell/status/1691544587947356160)
 * [2023-08-16, 01:01:24](https://news.ycombinator.com/item?id=37141463) - [Putting Down the Pen: Reflecting on Oryx’s Journey](https://www.oryxspioenkop.com/2023/08/putting-down-pen-reflecting-on-oryxs.html)
