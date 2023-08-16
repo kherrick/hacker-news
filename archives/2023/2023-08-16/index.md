@@ -7,6 +7,7 @@
 * [2023-08-16, 13:10:59](https://news.ycombinator.com/item?id=37146532) - [The uses and abuses of Cloud Data Warehouses](https://materialize.com/blog/warehouse-abuse/)
 * [2023-08-16, 13:00:26](https://news.ycombinator.com/item?id=37146398) - [How do we save water: Stop growing alfalfa in Imperial County](https://www.desertsun.com/story/opinion/contributors/valley-voice/2023/02/05/growing-alfalfa-in-imperial-county-and-california-wastes-water/69860506007/)
 * [2023-08-16, 12:55:15](https://news.ycombinator.com/item?id=37146331) - [Nginx Development Guide](https://nginx.org/en/docs/dev/development_guide.html)
+* [2023-08-16, 12:50:48](https://news.ycombinator.com/item?id=37146283) - [Young people were burned out. Then they quit the rat race to travel](https://www.cnn.com/travel/gen-z-burnout-travel/index.html)
 * [2023-08-16, 12:20:50](https://news.ycombinator.com/item?id=37145920) - [Scientists Reconstructed a Pink Floyd Song from Brain Activity](https://www.wsj.com/articles/mind-reading-computer-ai-brain-research-a643705f)
 * [2023-08-16, 12:15:55](https://news.ycombinator.com/item?id=37145867) - [The Human Ecology of Overshoot Why a Major ‘Population Correction’ Is Inevitable](https://www.mdpi.com/2673-4060/4/3/32)
 * [2023-08-16, 12:08:25](https://news.ycombinator.com/item?id=37145789) - [Owner of hydrogen-powered Hyundai quoted $175,000 to replace fuel cell](https://www.drive.com.au/news/hyundai-ix35-hydrogen-fuel-cell-repair-germany/)
