@@ -1,32 +1,12 @@
 [
   [
     [
-      "2023-08-16, 13:16:59",
-      "https://news.ycombinator.com/item?id=37146592"
-    ],
-    [
-      "Tesla’s ‘ultra hardcore’ work culture – as told by its employees",
-      "https://www.theverge.com/2023/8/16/23833447/tesla-elon-musk-ultra-hardcore-employees-land-of-the-giants"
-    ]
-  ],
-  [
-    [
       "2023-08-16, 13:10:59",
       "https://news.ycombinator.com/item?id=37146532"
     ],
     [
       "The uses and abuses of Cloud Data Warehouses",
       "https://materialize.com/blog/warehouse-abuse/"
-    ]
-  ],
-  [
-    [
-      "2023-08-16, 13:10:45",
-      "https://news.ycombinator.com/item?id=37146521"
-    ],
-    [
-      "Immortal Objects for Python",
-      "https://engineering.fb.com/2023/08/15/developer-tools/immortal-objects-for-python-instagram-meta/"
     ]
   ],
   [
@@ -51,16 +31,6 @@
   ],
   [
     [
-      "2023-08-16, 12:58:44",
-      "https://news.ycombinator.com/item?id=37146373"
-    ],
-    [
-      "Lahaina Fire Victims Being Pressured to Sell Land",
-      "https://themessenger.com/news/lahaina-fire-victims-being-pressured-to-sell-land-governor-warns"
-    ]
-  ],
-  [
-    [
       "2023-08-16, 12:55:15",
       "https://news.ycombinator.com/item?id=37146331"
     ],
@@ -71,22 +41,32 @@
   ],
   [
     [
+      "2023-08-16, 12:50:48",
+      "https://news.ycombinator.com/item?id=37146283"
+    ],
+    [
+      "Young people were burned out. Then they quit the rat race to travel",
+      "https://www.cnn.com/travel/gen-z-burnout-travel/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-16, 12:49:38",
+      "https://news.ycombinator.com/item?id=37146268"
+    ],
+    [
+      "Today I learned you can pause the Windows Task Manager moving apps around",
+      "https://www.theverge.com/2023/8/16/23834125/microsoft-windows-task-manager-pause-shortcut"
+    ]
+  ],
+  [
+    [
       "2023-08-16, 12:20:50",
       "https://news.ycombinator.com/item?id=37145920"
     ],
     [
       "Scientists Reconstructed a Pink Floyd Song from Brain Activity",
       "https://www.wsj.com/articles/mind-reading-computer-ai-brain-research-a643705f"
-    ]
-  ],
-  [
-    [
-      "2023-08-16, 12:08:25",
-      "https://news.ycombinator.com/item?id=37145789"
-    ],
-    [
-      "Owner of hydrogen-powered Hyundai quoted $175,000 to replace fuel cell",
-      "https://www.drive.com.au/news/hyundai-ix35-hydrogen-fuel-cell-repair-germany/"
     ]
   ],
   [
@@ -171,6 +151,16 @@
   ],
   [
     [
+      "2023-08-16, 07:27:47",
+      "https://news.ycombinator.com/item?id=37143837"
+    ],
+    [
+      "Why Tailwind CSS Won",
+      "https://matt-rickard.com/why-tailwind-css-won"
+    ]
+  ],
+  [
+    [
       "2023-08-16, 03:06:18",
       "https://news.ycombinator.com/item?id=37142426"
     ],
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2023-08-16, 02:44:49",
+      "https://news.ycombinator.com/item?id=37142293"
+    ],
+    [
+      "Debugging a Futex Crash",
+      "https://rustylife.github.io/2023/08/15/futex-crash.html"
+    ]
+  ],
+  [
+    [
       "2023-08-16, 01:01:24",
       "https://news.ycombinator.com/item?id=37141463"
     ],
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2023-08-15, 22:35:09",
-      "https://news.ycombinator.com/item?id=37140159"
+      "2023-08-15, 23:26:02",
+      "https://news.ycombinator.com/item?id=37140681"
     ],
     [
-      "Modern CSV version 2",
-      "https://www.moderncsv.com/modern-csv-2-is-now-available/"
+      "Ted's Notes on Pawpaws (2016)",
+      "https://toyrus.ngrok.io/~ted/pawpaws/"
     ]
   ],
   [
