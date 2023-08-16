@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-08-16](index.md)
 
 * [2023-08-16, 21:13:10](https://news.ycombinator.com/item?id=37153919) - [Campus Puritans Come for an Astronomer–and His Byline](https://quillette.com/2023/05/25/campus-puritans/)
+* [2023-08-16, 20:47:25](https://news.ycombinator.com/item?id=37153563) - [How England’s football league is breaking the sport [video]](https://www.youtube.com/watch?v=jBeXyKVvhb0)
 * [2023-08-16, 20:32:44](https://news.ycombinator.com/item?id=37153373) - [Anonfiles Is Shutting Down](https://anonfiles.com/)
+* [2023-08-16, 20:17:37](https://news.ycombinator.com/item?id=37153121) - [Bringing Safety check to the Chrome://extensions page](https://developer.chrome.com/blog/extension-safety-hub/)
 * [2023-08-16, 20:08:12](https://news.ycombinator.com/item?id=37152978) - [Ts_zip: Text Compression Using Large Language Models](https://bellard.org/ts_server/ts_zip.html)
 * [2023-08-16, 20:01:15](https://news.ycombinator.com/item?id=37152877) - [macOS 13.5 source code released](https://github.com/apple-oss-distributions/distribution-macOS/releases/tag/macos-135)
 * [2023-08-16, 19:56:21](https://news.ycombinator.com/item?id=37152803) - [the US climate law is fueling a factory frenzy. Here’s the latest tally](https://www.canarymedia.com/articles/clean-energy-manufacturing/the-us-climate-law-is-fueling-a-factory-frenzy-heres-the-latest-tally)
