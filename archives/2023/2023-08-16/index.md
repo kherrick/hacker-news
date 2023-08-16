@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-16](index.md)
 
+* [2023-08-16, 20:32:44](https://news.ycombinator.com/item?id=37153373) - [Anonfiles Is Shutting Down](https://anonfiles.com/)
 * [2023-08-16, 20:08:12](https://news.ycombinator.com/item?id=37152978) - [Ts_zip: Text Compression Using Large Language Models](https://bellard.org/ts_server/ts_zip.html)
 * [2023-08-16, 20:01:15](https://news.ycombinator.com/item?id=37152877) - [macOS 13.5 source code released](https://github.com/apple-oss-distributions/distribution-macOS/releases/tag/macos-135)
 * [2023-08-16, 19:56:21](https://news.ycombinator.com/item?id=37152803) - [the US climate law is fueling a factory frenzy. Here’s the latest tally](https://www.canarymedia.com/articles/clean-energy-manufacturing/the-us-climate-law-is-fueling-a-factory-frenzy-heres-the-latest-tally)
@@ -15,6 +16,7 @@
 * [2023-08-16, 18:41:20](https://news.ycombinator.com/item?id=37151697) - [Marion County atty withdraws search warrant against Kansas paper, returns items](https://www.kshb.com/news/local-news/marion-county-attorney-withdraws-search-warrant-against-kansas-newspaper-returns-items)
 * [2023-08-16, 18:30:40](https://news.ycombinator.com/item?id=37151555) - [Ask HN: Is making a self taught transition to AI/ML related fields possible?](https://news.ycombinator.com/item?id=37151555)
 * [2023-08-16, 18:30:19](https://news.ycombinator.com/item?id=37151553) - [The DeSantis Campaign Texted Me with a Large Language Model](https://nalanj.dev/posts/desantis-campaign-sms-llm/)
+* [2023-08-16, 18:21:20](https://news.ycombinator.com/item?id=37151391) - [Transpiler, a Meaningless Word](https://rachit.pl/post/transpiler/)
 * [2023-08-16, 18:16:38](https://news.ycombinator.com/item?id=37151308) - [New York City bans TikTok for government employees](https://www.engadget.com/new-york-city-bans-tiktok-for-government-employees-174806575.html)
 * [2023-08-16, 18:11:40](https://news.ycombinator.com/item?id=37151220) - [Windows feature that resets system clocks based on random data is wreaking havoc](https://arstechnica.com/security/2023/08/windows-feature-that-resets-system-clocks-based-on-random-data-is-wreaking-havoc/)
 * [2023-08-16, 17:58:27](https://news.ycombinator.com/item?id=37150986) - [Ask HN: What are some self-hosted photo organizing/sharing programs?](https://news.ycombinator.com/item?id=37150986)
