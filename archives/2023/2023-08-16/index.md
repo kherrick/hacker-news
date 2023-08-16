@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-16](index.md)
 
+* [2023-08-16, 17:58:27](https://news.ycombinator.com/item?id=37150986) - [Ask HN: What are some self-hosted photo organizing/sharing programs?](https://news.ycombinator.com/item?id=37150986)
+* [2023-08-16, 17:49:46](https://news.ycombinator.com/item?id=37150862) - [Ask HN: What are some easy ways to earn some side money?](https://news.ycombinator.com/item?id=37150862)
 * [2023-08-16, 17:45:44](https://news.ycombinator.com/item?id=37150787) - [Firezone (YC W22) is hiring a systems engineer](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-systems-engineer)
 * [2023-08-16, 17:42:41](https://news.ycombinator.com/item?id=37150730) - [Crime is so bad near S.F. Federal building employees are told to work from home](https://www.sfchronicle.com/sf/article/drugs-crime-nancy-pelosi-federal-building-18292237.php)
 * [2023-08-16, 17:15:02](https://news.ycombinator.com/item?id=37150233) - [Canada had poached 10k tech workers from the U.S. – in just 48 hours](https://www.thestar.com/business/how-canada-poached-10-000-tech-workers-from-the-u-s-in-just-48-hours/article_c159c7cc-6163-5414-8453-0db70899df90.html)
