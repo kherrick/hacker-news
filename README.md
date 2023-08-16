@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-16, 15:07:03](https://news.ycombinator.com/item?id=37148240) - [Ask HN: If we train an LLM with “data” instead of “language” tokens](https://news.ycombinator.com/item?id=37148240)
 * [2023-08-16, 14:54:22](https://news.ycombinator.com/item?id=37148033) - [Math Proof Draws New Boundaries Around Black Hole Formation](https://www.quantamagazine.org/math-proof-draws-new-boundaries-around-black-hole-formation-20230816/)
 * [2023-08-16, 14:53:22](https://news.ycombinator.com/item?id=37148013) - [Twitter's response to US Government search warrant (turned over deleted DMs) [pdf]](https://www.dcd.uscourts.gov/sites/dcd/files/23sc31%20Attachment%20A%20-%20Documents%20unsealed%20with%20redactions.pdf)
 * [2023-08-16, 14:52:01](https://news.ycombinator.com/item?id=37147996) - [Spring 6.1 now compatible with virtual threads and JDK 21 overall](https://github.com/spring-projects/spring-framework/wiki/What%27s-New-in-Spring-Framework-6.x)
@@ -10,7 +11,6 @@
 * [2023-08-16, 13:00:26](https://news.ycombinator.com/item?id=37146398) - [How do we save water: Stop growing alfalfa in Imperial County](https://www.desertsun.com/story/opinion/contributors/valley-voice/2023/02/05/growing-alfalfa-in-imperial-county-and-california-wastes-water/69860506007/)
 * [2023-08-16, 12:55:15](https://news.ycombinator.com/item?id=37146331) - [Nginx Development Guide](https://nginx.org/en/docs/dev/development_guide.html)
 * [2023-08-16, 12:49:38](https://news.ycombinator.com/item?id=37146268) - [Today I learned you can pause the Windows Task Manager moving apps around](https://www.theverge.com/2023/8/16/23834125/microsoft-windows-task-manager-pause-shortcut)
-* [2023-08-16, 12:20:50](https://news.ycombinator.com/item?id=37145920) - [Scientists Reconstructed a Pink Floyd Song from Brain Activity](https://www.wsj.com/articles/mind-reading-computer-ai-brain-research-a643705f)
 * [2023-08-16, 11:57:57](https://news.ycombinator.com/item?id=37145701) - [Scientists are only beginning to understand how PFAS impacting our health](https://www.nytimes.com/2023/08/16/magazine/pfas-toxic-chemicals.html)
 * [2023-08-16, 11:41:07](https://news.ycombinator.com/item?id=37145558) - [Amazon Pharmacy automates discounts to help insulin patients get pledged prices](https://www.reuters.com/business/retail-consumer/amazon-pharmacy-automates-discounts-help-insulin-patients-get-pledged-prices-2023-08-15/)
 * [2023-08-16, 11:25:20](https://news.ycombinator.com/item?id=37145427) - [Nintendo is trying to patent some broad Tears of the Kingdom mechanics](https://kotaku.com/nintendo-is-trying-to-patent-some-really-broad-tears-of-1850730637)
@@ -26,8 +26,8 @@
 * [2023-08-15, 14:18:44](https://news.ycombinator.com/item?id=37134315) - [Bayesian Flow Networks](https://arxiv.org/abs/2308.07037)
 * [2023-08-15, 13:55:34](https://news.ycombinator.com/item?id=37134056) - [A Metaobject Protocol for C++ (1995) [pdf]](https://dl.acm.org/doi/pdf/10.1145/217838.217868)
 * [2023-08-15, 13:41:38](https://news.ycombinator.com/item?id=37133908) - [How the iMac Saved Apple](https://www.theverge.com/23830432/imac-twenty-five-years-ago-saved-apple)
+* [2023-08-15, 09:19:00](https://news.ycombinator.com/item?id=37131808) - [Virtual IBM Punch Card Data Processing (2018)](http://sims.durgadas.com/punchcards/ibm029.html)
 * [2023-08-15, 06:51:08](https://news.ycombinator.com/item?id=37130988) - [Circle Evolves C++ [video]](https://www.youtube.com/watch?v=P1ZDOGDMNLM)
-* [2023-08-15, 03:44:34](https://news.ycombinator.com/item?id=37129921) - [The Bitter Lesson (2019) [pdf]](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf)
 * [2023-08-15, 02:35:34](https://news.ycombinator.com/item?id=37129514) - [Ruins of Emperor Nero’s Theater Discovered Near Vatican](https://www.scientificamerican.com/article/ruins-of-neros-theater-discovered-near-vatican1/)
 * [2023-08-14, 05:25:15](https://news.ycombinator.com/item?id=37117754) - [Disney invented two colors (2022)](https://insidethemagic.net/2022/02/disney-go-away-green-lp1/)
 
