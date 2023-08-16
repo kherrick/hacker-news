@@ -64,6 +64,7 @@
 * [2023-08-15, 12:00:12](https://news.ycombinator.com/item?id=37132855) - [Metriport (YC S22) Is Hiring](https://www.ycombinator.com/companies/metriport/jobs/jsOCunE-software-engineer)
 * [2023-08-15, 11:47:44](https://news.ycombinator.com/item?id=37132754) - [Show HN: Visual Reference to CSS Selectors](https://fffuel.co/css-selectors/)
 * [2023-08-15, 11:34:26](https://news.ycombinator.com/item?id=37132651) - [Show HN: Servicer, pm2 alternative built on rust and systemd](https://servicer.dev)
+* [2023-08-15, 10:50:24](https://news.ycombinator.com/item?id=37132325) - [Evening Club Bridge Is Dying](https://lajollabridge.com/Articles/EveningClubBridgeDecline.htm)
 * [2023-08-15, 10:30:23](https://news.ycombinator.com/item?id=37132209) - [GPU-Accelerated LLM on a $100 Orange Pi](https://blog.mlc.ai/2023/08/09/GPU-Accelerated-LLM-on-Orange-Pi)
 * [2023-08-15, 10:18:46](https://news.ycombinator.com/item?id=37132136) - [Introducing the Safer: A Better Alternative to Safes for Startup Financing](https://nextwave.partners/insights/introducing-safer-better-alternative-safes-startup-financing)
 * [2023-08-15, 09:58:53](https://news.ycombinator.com/item?id=37132025) - [How to find out if programming is for you](https://www.zackproser.com/blog/first-see-if-youve-got-the-bug)
