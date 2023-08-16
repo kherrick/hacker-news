@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-16, 08:27:45](https://news.ycombinator.com/item?id=37144226) - [Don’t Use VPN Services](https://tilde.club/wiki/vpnwhy.html)
+* [2023-08-16, 07:27:47](https://news.ycombinator.com/item?id=37143837) - [Why Tailwind CSS Won](https://matt-rickard.com/why-tailwind-css-won)
 * [2023-08-16, 07:22:04](https://news.ycombinator.com/item?id=37143794) - [Thinking about God increases acceptance of AI in decision-making](https://www.pnas.org/doi/10.1073/pnas.2218961120)
-* [2023-08-16, 06:52:33](https://news.ycombinator.com/item?id=37143603) - [Hacker News makes it to Dutch national media](https://nos.nl/artikel/2486778-toegang-tot-nieuwsmedia-en-concurrenten-vertraagd-door-elon-musks-x)
 * [2023-08-16, 05:28:09](https://news.ycombinator.com/item?id=37143159) - [Carl Sagan testifying before Congress in 1985 on climate change [video]](https://www.youtube.com/watch?v=Wp-WiNXH6hI)
 * [2023-08-16, 04:28:18](https://news.ycombinator.com/item?id=37142890) - [What do I think about Community Notes?(Vitalik Buterin)](https://vitalik.eth.limo/general/2023/08/16/communitynotes.html)
 * [2023-08-16, 03:06:18](https://news.ycombinator.com/item?id=37142426) - [Diligere, Equity-Invest Are New Firms of U.K. Con Man](https://krebsonsecurity.com/2023/08/diligere-equity-invest-are-new-firms-of-u-k-con-man/)
@@ -14,6 +13,7 @@
 * [2023-08-15, 22:35:09](https://news.ycombinator.com/item?id=37140159) - [Modern CSV version 2](https://www.moderncsv.com/modern-csv-2-is-now-available/)
 * [2023-08-15, 22:18:17](https://news.ycombinator.com/item?id=37140013) - [How Is LLaMa.cpp Possible?](https://finbarr.ca/how-is-llama-cpp-possible/)
 * [2023-08-15, 20:15:27](https://news.ycombinator.com/item?id=37138807) - [How should I read type system notation?](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation)
+* [2023-08-15, 20:05:43](https://news.ycombinator.com/item?id=37138681) - [ISPs complain that listing every fee is too hard, urge FCC to scrap new rule](https://arstechnica.com/tech-policy/2023/08/isps-complain-that-listing-every-fee-is-too-hard-urge-fcc-to-scrap-new-rule/)
 * [2023-08-15, 20:05:06](https://news.ycombinator.com/item?id=37138672) - [My deep learning rig (2022)](https://nonint.com/2022/05/30/my-deep-learning-rig/)
 * [2023-08-15, 18:57:16](https://news.ycombinator.com/item?id=37137810) - [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
 * [2023-08-15, 17:38:10](https://news.ycombinator.com/item?id=37136898) - [Opendream: A layer-based UI for Stable Diffusion](https://github.com/varunshenoy/opendream)
