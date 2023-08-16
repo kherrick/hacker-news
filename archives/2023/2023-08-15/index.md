@@ -24,6 +24,7 @@
 * [2023-08-15, 20:04:46](https://news.ycombinator.com/item?id=37138667) - [The Five-Dollar Model: Generating Game Maps and Sprites from Sentence Embeddings](https://arxiv.org/abs/2308.04052)
 * [2023-08-15, 19:47:59](https://news.ycombinator.com/item?id=37138464) - [Exploring the design space of binary search trees](https://rtheunissen.github.io/bst/?)
 * [2023-08-15, 19:19:16](https://news.ycombinator.com/item?id=37138102) - [Asteroid ZTm0038 with a >3% impact probability](https://newton.spacedys.com/neodys2/NEOScan/risk_page/ZTm0038/index_summary_ZTm0038.html)
+* [2023-08-15, 19:18:12](https://news.ycombinator.com/item?id=37138083) - [An ancient solar flare illuminated the start of the Viking Age](https://www.sciencenews.org/article/viking-age-ancient-solar-flare-trade-archaeology)
 * [2023-08-15, 18:57:16](https://news.ycombinator.com/item?id=37137810) - [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
 * [2023-08-15, 18:54:38](https://news.ycombinator.com/item?id=37137781) - [The Future of Terraform Must Be Open](https://blog.gruntwork.io/the-future-of-terraform-must-be-open-ab0b9ba65bca?gi=c07f9cd96456)
 * [2023-08-15, 18:41:43](https://news.ycombinator.com/item?id=37137630) - [Employees in Asia are spending most time looking busy at work, says Slack report](https://www.cnbc.com/2023/08/14/employees-in-asia-are-spending-the-most-time-looking-busy-at-work.html)
