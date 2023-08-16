@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-16, 02:16:54](https://news.ycombinator.com/item?id=37142065) - [Cruise vehicle gets stuck in wet concrete while driving in San Francisco](https://www.sfgate.com/tech/article/cruise-stuck-wet-concrete-sf-18297946.php)
+* [2023-08-16, 01:47:39](https://news.ycombinator.com/item?id=37141821) - [AMD Inception Mitigations Cause 20% Performance Drop in Database Servers](https://www.phoronix.com/review/amd-inception-benchmarks)
 * [2023-08-16, 01:01:24](https://news.ycombinator.com/item?id=37141463) - [Putting Down the Pen: Reflecting on Oryx’s Journey](https://www.oryxspioenkop.com/2023/08/putting-down-pen-reflecting-on-oryxs.html)
 * [2023-08-16, 00:02:20](https://news.ycombinator.com/item?id=37140998) - [The Open (Animal) Sanctuary Project](https://opensanctuary.org/)
 * [2023-08-15, 23:26:02](https://news.ycombinator.com/item?id=37140681) - [Ted's Notes on Pawpaws (2016)](https://toyrus.ngrok.io/~ted/pawpaws/)
@@ -20,7 +21,6 @@
 * [2023-08-15, 12:28:20](https://news.ycombinator.com/item?id=37133128) - [Show HN: Lottielab – Create product animations in the browser easily](https://www.lottielab.com/)
 * [2023-08-15, 12:19:33](https://news.ycombinator.com/item?id=37133054) - [The OpenTF Manifesto](https://opentf.org/)
 * [2023-08-15, 12:16:10](https://news.ycombinator.com/item?id=37133023) - [Why Darwin admired the earthworm](https://nautil.us/why-darwin-admired-the-humble-earthworm-361515/)
-* [2023-08-15, 09:46:12](https://news.ycombinator.com/item?id=37131957) - [Privacy friendly ESP32 smart doorbell with Home Assistant local integration](https://tristam.ie/2023/758/)
 * [2023-08-15, 09:20:15](https://news.ycombinator.com/item?id=37131812) - [Open Circuits: The Inner Beauty of Electronic Components](https://pluralistic.net/2023/08/14/hidden-worlds/#making-the-invisible-visible-and-beautiful)
 * [2023-08-15, 09:19:00](https://news.ycombinator.com/item?id=37131808) - [Virtual IBM Punch Card Data Processing (2018)](http://sims.durgadas.com/punchcards/ibm029.html)
 * [2023-08-15, 06:57:26](https://news.ycombinator.com/item?id=37131027) - [Love Notes to Newton [video]](https://www.youtube.com/watch?v=5kxRi34PqWo)
