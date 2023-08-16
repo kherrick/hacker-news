@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-16](index.md)
 
+* [2023-08-16, 17:15:02](https://news.ycombinator.com/item?id=37150233) - [Canada had poached 10k tech workers from the U.S. – in just 48 hours](https://www.thestar.com/business/how-canada-poached-10-000-tech-workers-from-the-u-s-in-just-48-hours/article_c159c7cc-6163-5414-8453-0db70899df90.html)
+* [2023-08-16, 17:06:10](https://news.ycombinator.com/item?id=37150098) - [OpenAI Acquires Global Illumination](https://openai.com/blog/openai-acquires-global-illumination)
+* [2023-08-16, 16:59:28](https://news.ycombinator.com/item?id=37150000) - [The Mathematics of Training LLMs](https://www.latent.space/p/transformers-math#details)
 * [2023-08-16, 16:45:15](https://news.ycombinator.com/item?id=37149782) - [Theory of interstellar trade (1978) [pdf]](https://www.princeton.edu/~pkrugman/interstellar.pdf)
 * [2023-08-16, 16:42:33](https://news.ycombinator.com/item?id=37149736) - [July 2023 was the hottest month on record](https://twitter.com/nasa/status/1691106509319806977?s=46&t=H_jBB1XRvGbGkpJRBZAq5Q)
 * [2023-08-16, 16:28:45](https://news.ycombinator.com/item?id=37149524) - [With some tech savvy, you can disconnect your robot vacuum from the cloud](https://www.engadget.com/robot-vacuum-security-privacy-irobot-cloud-133008625.html)
