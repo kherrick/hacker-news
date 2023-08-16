@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-16, 14:02:14](https://news.ycombinator.com/item?id=37147158) - [We reduced the size of our JavaScript bundles by 33%](https://dropbox.tech/frontend/how-we-reduced-the-size-of-our-javascript-bundles-by-33-percent)
 * [2023-08-16, 13:10:59](https://news.ycombinator.com/item?id=37146532) - [The uses and abuses of Cloud Data Warehouses](https://materialize.com/blog/warehouse-abuse/)
 * [2023-08-16, 13:06:28](https://news.ycombinator.com/item?id=37146469) - [You need 27 tickets to guarantee a win on the UK National Lottery](https://arxiv.org/abs/2307.12430)
 * [2023-08-16, 13:00:26](https://news.ycombinator.com/item?id=37146398) - [How do we save water: Stop growing alfalfa in Imperial County](https://www.desertsun.com/story/opinion/contributors/valley-voice/2023/02/05/growing-alfalfa-in-imperial-county-and-california-wastes-water/69860506007/)
@@ -20,7 +21,6 @@
 * [2023-08-16, 02:44:49](https://news.ycombinator.com/item?id=37142293) - [Debugging a Futex Crash](https://rustylife.github.io/2023/08/15/futex-crash.html)
 * [2023-08-16, 01:01:24](https://news.ycombinator.com/item?id=37141463) - [Putting Down the Pen: Reflecting on Oryx’s Journey](https://www.oryxspioenkop.com/2023/08/putting-down-pen-reflecting-on-oryxs.html)
 * [2023-08-16, 00:02:20](https://news.ycombinator.com/item?id=37140998) - [The Open Sanctuary Project](https://opensanctuary.org/)
-* [2023-08-15, 23:26:02](https://news.ycombinator.com/item?id=37140681) - [Ted's Notes on Pawpaws (2016)](https://toyrus.ngrok.io/~ted/pawpaws/)
 * [2023-08-15, 22:18:17](https://news.ycombinator.com/item?id=37140013) - [How Is LLaMa.cpp Possible?](https://finbarr.ca/how-is-llama-cpp-possible/)
 * [2023-08-15, 17:44:31](https://news.ycombinator.com/item?id=37136986) - [Thinking Fast and Slopes](https://www.drorpoleg.com/thinking-fast-and-slopes/)
 * [2023-08-15, 15:11:29](https://news.ycombinator.com/item?id=37134950) - [A protein that disrupts cells’ energy centers may be a culprit in CFS/ME](https://www.science.org/content/article/protein-disrupts-cells-energy-centers-may-be-culprit-chronic-fatigue-syndrome)

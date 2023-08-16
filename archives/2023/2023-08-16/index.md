@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-16](index.md)
 
+* [2023-08-16, 14:02:14](https://news.ycombinator.com/item?id=37147158) - [We reduced the size of our JavaScript bundles by 33%](https://dropbox.tech/frontend/how-we-reduced-the-size-of-our-javascript-bundles-by-33-percent)
 * [2023-08-16, 13:16:59](https://news.ycombinator.com/item?id=37146592) - [Tesla’s ‘ultra hardcore’ work culture – as told by its employees](https://www.theverge.com/2023/8/16/23833447/tesla-elon-musk-ultra-hardcore-employees-land-of-the-giants)
 * [2023-08-16, 13:10:59](https://news.ycombinator.com/item?id=37146532) - [The uses and abuses of Cloud Data Warehouses](https://materialize.com/blog/warehouse-abuse/)
 * [2023-08-16, 13:10:45](https://news.ycombinator.com/item?id=37146521) - [Immortal Objects for Python](https://engineering.fb.com/2023/08/15/developer-tools/immortal-objects-for-python-instagram-meta/)
