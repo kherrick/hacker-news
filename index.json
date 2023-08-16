@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-08-16, 03:00:40",
+      "https://news.ycombinator.com/item?id=37142388"
+    ],
+    [
+      "NetMaker: Connect Everything with a WireGuard VPN",
+      "https://www.netmaker.io/"
+    ]
+  ],
+  [
+    [
       "2023-08-16, 02:44:49",
       "https://news.ycombinator.com/item?id=37142293"
     ],
     [
       "Debugging a Futex Crash",
       "https://rustylife.github.io/2023/08/15/futex-crash.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-16, 02:38:54",
+      "https://news.ycombinator.com/item?id=37142246"
+    ],
+    [
+      "Chrome was delivered without any sprints at all (2021)",
+      "https://threadreaderapp.com/thread/1427137725119959046.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-16, 02:37:14",
+      "https://news.ycombinator.com/item?id=37142239"
+    ],
+    [
+      "Five Years of LLM Progress",
+      "https://finbarr.ca/five-years-of-gpt-progress/"
     ]
   ],
   [
@@ -181,32 +211,12 @@
   ],
   [
     [
-      "2023-08-15, 12:31:27",
-      "https://news.ycombinator.com/item?id=37133163"
-    ],
-    [
-      "Show HN: Llama2 Embeddings FastAPI Server",
-      "https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service"
-    ]
-  ],
-  [
-    [
       "2023-08-15, 12:28:20",
       "https://news.ycombinator.com/item?id=37133128"
     ],
     [
       "Show HN: Lottielab – Create product animations in the browser easily",
       "https://www.lottielab.com/"
-    ]
-  ],
-  [
-    [
-      "2023-08-15, 12:19:33",
-      "https://news.ycombinator.com/item?id=37133054"
-    ],
-    [
-      "The OpenTF Manifesto",
-      "https://opentf.org/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Open Circuits: The Inner Beauty of Electronic Components",
       "https://pluralistic.net/2023/08/14/hidden-worlds/#making-the-invisible-visible-and-beautiful"
-    ]
-  ],
-  [
-    [
-      "2023-08-15, 09:19:00",
-      "https://news.ycombinator.com/item?id=37131808"
-    ],
-    [
-      "Virtual IBM Punch Card Data Processing (2018)",
-      "http://sims.durgadas.com/punchcards/ibm029.html"
     ]
   ],
   [
