@@ -4,6 +4,7 @@
 * [2023-08-16, 21:53:20](https://news.ycombinator.com/item?id=37154395) - [MLIR For Beginners: A series of articles on the MLIR framework](https://github.com/j2kun/mlir-tutorial)
 * [2023-08-16, 21:49:58](https://news.ycombinator.com/item?id=37154365) - [Ex-Google CEO Eric Schmidt to Launch AI-Science Moonshot](https://www.semafor.com/article/08/16/2023/ex-google-ceo-eric-schmidt-to-launch-ai-science-moonshot)
 * [2023-08-16, 21:31:10](https://news.ycombinator.com/item?id=37154138) - [Ubicloud – open, free and portable cloud](https://github.com/ubicloud/ubicloud)
+* [2023-08-16, 21:18:08](https://news.ycombinator.com/item?id=37153977) - [Germany unveils bill to legalize cannabis](https://www.dw.com/en/germany-unveils-bill-to-legalize-cannabis/a-66545963)
 * [2023-08-16, 21:08:01](https://news.ycombinator.com/item?id=37153862) - [$Home, Not So Sweet $Home](https://gist.github.com/sharadhr/39b804236c1941e9c30d90af828ad41e)
 * [2023-08-16, 20:36:47](https://news.ycombinator.com/item?id=37153426) - [The Amazon Prime Day 2023 AWS Bill](https://www.lastweekinaws.com/blog/the-amazon-prime-day-2023-aws-bill/)
 * [2023-08-16, 20:17:37](https://news.ycombinator.com/item?id=37153121) - [Bringing Safety check to the Chrome://extensions page](https://developer.chrome.com/blog/extension-safety-hub/)
@@ -27,7 +28,6 @@
 * [2023-08-16, 09:23:27](https://news.ycombinator.com/item?id=37144601) - [Is this a good book for me, now?](https://maryrosecook.com/blog/post/is-this-a-good-book-for-me-now)
 * [2023-08-15, 19:47:59](https://news.ycombinator.com/item?id=37138464) - [Exploring the design space of binary search trees](https://rtheunissen.github.io/bst/?)
 * [2023-08-15, 18:21:24](https://news.ycombinator.com/item?id=37137405) - [Be sceptical of your own work (2009)](https://terrytao.wordpress.com/career-advice/be-sceptical-of-your-own-work/)
-* [2023-08-15, 15:11:29](https://news.ycombinator.com/item?id=37134950) - [A protein that disrupts cells’ energy centers may be a culprit in CFS/ME](https://www.science.org/content/article/protein-disrupts-cells-energy-centers-may-be-culprit-chronic-fatigue-syndrome)
 * [2023-08-15, 11:16:45](https://news.ycombinator.com/item?id=37132510) - [What Learning APL Taught Me About Python](https://mathspp.com/blog/what-learning-apl-taught-me-about-python)
 * [2023-08-15, 03:46:06](https://news.ycombinator.com/item?id=37129929) - [New calcium material functions as an ammonia synthesis catalyst](https://phys.org/news/2023-08-calcium-material-functions-ammonia-synthesis.html)
 
