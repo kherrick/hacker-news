@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-16, 12:15:55](https://news.ycombinator.com/item?id=37145867) - [The Human Ecology of Overshoot Why a Major ‘Population Correction’ Is Inevitable](https://www.mdpi.com/2673-4060/4/3/32)
 * [2023-08-16, 12:08:25](https://news.ycombinator.com/item?id=37145789) - [Owner of hydrogen-powered Hyundai quoted $175,000 to replace fuel cell](https://www.drive.com.au/news/hyundai-ix35-hydrogen-fuel-cell-repair-germany/)
 * [2023-08-16, 12:01:09](https://news.ycombinator.com/item?id=37145725) - [Firm regrets taking Facebook moderation work](https://www.bbc.com/news/technology-66465231)
+* [2023-08-16, 11:57:57](https://news.ycombinator.com/item?id=37145701) - [‘Forever Chemicals’ Are Everywhere. What Are They Doing to Us?](https://www.nytimes.com/2023/08/16/magazine/pfas-toxic-chemicals.html)
 * [2023-08-16, 11:41:07](https://news.ycombinator.com/item?id=37145558) - [Amazon Pharmacy automates discounts to help insulin patients get pledged prices](https://www.reuters.com/business/retail-consumer/amazon-pharmacy-automates-discounts-help-insulin-patients-get-pledged-prices-2023-08-15/)
 * [2023-08-16, 11:33:18](https://news.ycombinator.com/item?id=37145491) - [They Tried to Kill Me](https://www.nplusonemag.com/online-only/online-only/how-they-tried-to-kill-me/)
 * [2023-08-16, 11:25:20](https://news.ycombinator.com/item?id=37145427) - [Nintendo Is Trying to Patent Some Broad Tears of the Kingdom Mechanics](https://kotaku.com/nintendo-is-trying-to-patent-some-really-broad-tears-of-1850730637)
@@ -11,7 +13,6 @@
 * [2023-08-16, 10:04:25](https://news.ycombinator.com/item?id=37144894) - [On to Elixir](https://thraxil.org/users/anders/posts/2023/08/05/on-to-elixir)
 * [2023-08-16, 09:23:27](https://news.ycombinator.com/item?id=37144601) - [Is this a good book for me, now?](https://maryrosecook.com/blog/post/is-this-a-good-book-for-me-now)
 * [2023-08-16, 07:27:47](https://news.ycombinator.com/item?id=37143837) - [Why Tailwind CSS Won](https://matt-rickard.com/why-tailwind-css-won)
-* [2023-08-16, 04:28:18](https://news.ycombinator.com/item?id=37142890) - [What do I think about Community Notes?](https://vitalik.eth.limo/general/2023/08/16/communitynotes.html)
 * [2023-08-16, 03:06:18](https://news.ycombinator.com/item?id=37142426) - [Diligere, Equity-Invest Are New Firms of U.K. Con Man](https://krebsonsecurity.com/2023/08/diligere-equity-invest-are-new-firms-of-u-k-con-man/)
 * [2023-08-16, 03:00:40](https://news.ycombinator.com/item?id=37142388) - [NetMaker: Connect Everything with a WireGuard VPN](https://www.netmaker.io/)
 * [2023-08-16, 02:44:49](https://news.ycombinator.com/item?id=37142293) - [Debugging a Futex Crash](https://rustylife.github.io/2023/08/15/futex-crash.html)
@@ -27,7 +28,6 @@
 * [2023-08-15, 10:50:24](https://news.ycombinator.com/item?id=37132325) - [Evening Club Bridge Is Dying (2015)](https://lajollabridge.com/Articles/EveningClubBridgeDecline.htm)
 * [2023-08-15, 06:51:08](https://news.ycombinator.com/item?id=37130988) - [Circle Evolves C++ [video]](https://www.youtube.com/watch?v=P1ZDOGDMNLM)
 * [2023-08-15, 04:51:41](https://news.ycombinator.com/item?id=37130331) - [New way to read data in antiferromagnets unlocks their use as computer memory](https://phys.org/news/2023-08-antiferromagnets-memory.html)
-* [2023-08-15, 04:28:43](https://news.ycombinator.com/item?id=37130200) - [Exploring the design space of binary search trees](https://rtheunissen.github.io/bst/)
 * [2023-08-15, 03:44:34](https://news.ycombinator.com/item?id=37129921) - [The Bitter Lesson (2019) [pdf]](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf)
 * [2023-08-15, 02:35:34](https://news.ycombinator.com/item?id=37129514) - [Ruins of Emperor Nero’s Theater Discovered Near Vatican](https://www.scientificamerican.com/article/ruins-of-neros-theater-discovered-near-vatican1/)
 

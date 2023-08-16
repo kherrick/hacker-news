@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-16](index.md)
 
+* [2023-08-16, 12:15:55](https://news.ycombinator.com/item?id=37145867) - [The Human Ecology of Overshoot Why a Major ‘Population Correction’ Is Inevitable](https://www.mdpi.com/2673-4060/4/3/32)
 * [2023-08-16, 12:08:25](https://news.ycombinator.com/item?id=37145789) - [Owner of hydrogen-powered Hyundai quoted $175,000 to replace fuel cell](https://www.drive.com.au/news/hyundai-ix35-hydrogen-fuel-cell-repair-germany/)
 * [2023-08-16, 12:01:09](https://news.ycombinator.com/item?id=37145725) - [Firm regrets taking Facebook moderation work](https://www.bbc.com/news/technology-66465231)
+* [2023-08-16, 11:57:57](https://news.ycombinator.com/item?id=37145701) - [‘Forever Chemicals’ Are Everywhere. What Are They Doing to Us?](https://www.nytimes.com/2023/08/16/magazine/pfas-toxic-chemicals.html)
 * [2023-08-16, 11:41:07](https://news.ycombinator.com/item?id=37145558) - [Amazon Pharmacy automates discounts to help insulin patients get pledged prices](https://www.reuters.com/business/retail-consumer/amazon-pharmacy-automates-discounts-help-insulin-patients-get-pledged-prices-2023-08-15/)
 * [2023-08-16, 11:33:18](https://news.ycombinator.com/item?id=37145491) - [They Tried to Kill Me](https://www.nplusonemag.com/online-only/online-only/how-they-tried-to-kill-me/)
 * [2023-08-16, 11:25:20](https://news.ycombinator.com/item?id=37145427) - [Nintendo Is Trying to Patent Some Broad Tears of the Kingdom Mechanics](https://kotaku.com/nintendo-is-trying-to-patent-some-really-broad-tears-of-1850730637)
