@@ -11,7 +11,6 @@
 * [2023-08-15, 22:35:09](https://news.ycombinator.com/item?id=37140159) - [Modern CSV version 2](https://www.moderncsv.com/modern-csv-2-is-now-available/)
 * [2023-08-15, 22:18:17](https://news.ycombinator.com/item?id=37140013) - [How Is LLaMa.cpp Possible?](https://finbarr.ca/how-is-llama-cpp-possible/)
 * [2023-08-15, 20:15:27](https://news.ycombinator.com/item?id=37138807) - [How should I read type system notation?](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation)
-* [2023-08-15, 20:05:43](https://news.ycombinator.com/item?id=37138681) - [ISPs complain that listing every fee is too hard, urge FCC to scrap new rule](https://arstechnica.com/tech-policy/2023/08/isps-complain-that-listing-every-fee-is-too-hard-urge-fcc-to-scrap-new-rule/)
 * [2023-08-15, 20:05:06](https://news.ycombinator.com/item?id=37138672) - [My deep learning rig (2022)](https://nonint.com/2022/05/30/my-deep-learning-rig/)
 * [2023-08-15, 18:57:16](https://news.ycombinator.com/item?id=37137810) - [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
 * [2023-08-15, 17:54:13](https://news.ycombinator.com/item?id=37137110) - [We reduced the cost of building Mastodon at Twitter-scale by 100x](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
@@ -28,6 +27,7 @@
 * [2023-08-15, 04:51:41](https://news.ycombinator.com/item?id=37130331) - [New way to read data in antiferromagnets unlocks their use as computer memory](https://phys.org/news/2023-08-antiferromagnets-memory.html)
 * [2023-08-15, 04:28:43](https://news.ycombinator.com/item?id=37130200) - [Exploring the design space of binary search trees](https://rtheunissen.github.io/bst/)
 * [2023-08-15, 03:44:34](https://news.ycombinator.com/item?id=37129921) - [The Bitter Lesson [pdf]](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf)
+* [2023-08-15, 01:12:10](https://news.ycombinator.com/item?id=37128935) - [A most very unofficial guide to the W65C265SXB](https://github.com/scotws/265SXB-Guide)
 * [2023-08-15, 01:10:56](https://news.ycombinator.com/item?id=37128929) - [Peter Pan Copyright](https://www.gosh.org/about-us/peter-pan/copyright/)
 * [2023-08-15, 01:06:03](https://news.ycombinator.com/item?id=37128885) - [How to be successful as a research mathematician? Follow your gut](https://www.nature.com/articles/d41586-023-02555-z)
 
