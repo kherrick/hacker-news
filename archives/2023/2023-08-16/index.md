@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-16](index.md)
 
 * [2023-08-16, 14:54:22](https://news.ycombinator.com/item?id=37148033) - [Math Proof Draws New Boundaries Around Black Hole Formation](https://www.quantamagazine.org/math-proof-draws-new-boundaries-around-black-hole-formation-20230816/)
+* [2023-08-16, 14:53:22](https://news.ycombinator.com/item?id=37148013) - [Twitter's response to US Government search warrant (turned over deleted DMs) [pdf]](https://www.dcd.uscourts.gov/sites/dcd/files/23sc31%20Attachment%20A%20-%20Documents%20unsealed%20with%20redactions.pdf)
 * [2023-08-16, 14:52:01](https://news.ycombinator.com/item?id=37147996) - [Spring 6.1 now compatible with virtual threads and JDK 21 overall](https://github.com/spring-projects/spring-framework/wiki/What%27s-New-in-Spring-Framework-6.x)
 * [2023-08-16, 14:47:15](https://news.ycombinator.com/item?id=37147914) - [Thousands of scientists are cutting back on Twitter](https://www.nature.com/articles/d41586-023-02554-0)
 * [2023-08-16, 14:37:00](https://news.ycombinator.com/item?id=37147729) - [Major U.S. energy org targeted in QR code phishing attack](https://www.bleepingcomputer.com/news/security/major-us-energy-org-targeted-in-qr-code-phishing-attack/)
