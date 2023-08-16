@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-16, 10:19:32](https://news.ycombinator.com/item?id=37144985) - [Htmx is part of the GitHub Accelerator](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
+* [2023-08-16, 10:04:25](https://news.ycombinator.com/item?id=37144894) - [On to Elixir](https://thraxil.org/users/anders/posts/2023/08/05/on-to-elixir)
 * [2023-08-16, 09:23:27](https://news.ycombinator.com/item?id=37144601) - [Is this a good book for me, now?](https://maryrosecook.com/blog/post/is-this-a-good-book-for-me-now)
-* [2023-08-16, 08:27:27](https://news.ycombinator.com/item?id=37144224) - [Bad software destroyed my doctor's memory](https://www.theregister.com/2023/08/16/bad_software_destroyed_doctors_memory/)
 * [2023-08-16, 07:27:47](https://news.ycombinator.com/item?id=37143837) - [Why Tailwind CSS Won](https://matt-rickard.com/why-tailwind-css-won)
 * [2023-08-16, 04:28:18](https://news.ycombinator.com/item?id=37142890) - [What do I think about Community Notes?](https://vitalik.eth.limo/general/2023/08/16/communitynotes.html)
 * [2023-08-16, 03:06:18](https://news.ycombinator.com/item?id=37142426) - [Diligere, Equity-Invest Are New Firms of U.K. Con Man](https://krebsonsecurity.com/2023/08/diligere-equity-invest-are-new-firms-of-u-k-con-man/)
