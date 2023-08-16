@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-16, 03:06:18](https://news.ycombinator.com/item?id=37142426) - [Diligere, Equity-Invest Are New Firms of U.K. Con Man](https://krebsonsecurity.com/2023/08/diligere-equity-invest-are-new-firms-of-u-k-con-man/)
 * [2023-08-16, 03:00:40](https://news.ycombinator.com/item?id=37142388) - [NetMaker: Connect Everything with a WireGuard VPN](https://www.netmaker.io/)
 * [2023-08-16, 02:44:49](https://news.ycombinator.com/item?id=37142293) - [Debugging a Futex Crash](https://rustylife.github.io/2023/08/15/futex-crash.html)
 * [2023-08-16, 02:38:54](https://news.ycombinator.com/item?id=37142246) - [Chrome was delivered without any sprints at all (2021)](https://threadreaderapp.com/thread/1427137725119959046.html)
 * [2023-08-16, 02:37:14](https://news.ycombinator.com/item?id=37142239) - [Five Years of LLM Progress](https://finbarr.ca/five-years-of-gpt-progress/)
-* [2023-08-16, 01:47:39](https://news.ycombinator.com/item?id=37141821) - [AMD Inception Mitigations Cause 20% Performance Drop in Database Servers](https://www.phoronix.com/review/amd-inception-benchmarks)
 * [2023-08-16, 01:01:24](https://news.ycombinator.com/item?id=37141463) - [Putting Down the Pen: Reflecting on Oryx’s Journey](https://www.oryxspioenkop.com/2023/08/putting-down-pen-reflecting-on-oryxs.html)
 * [2023-08-16, 00:02:20](https://news.ycombinator.com/item?id=37140998) - [The Open (Animal) Sanctuary Project](https://opensanctuary.org/)
 * [2023-08-15, 23:26:02](https://news.ycombinator.com/item?id=37140681) - [Ted's Notes on Pawpaws (2016)](https://toyrus.ngrok.io/~ted/pawpaws/)
