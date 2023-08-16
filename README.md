@@ -7,7 +7,7 @@
 * [2023-08-16, 16:42:33](https://news.ycombinator.com/item?id=37149736) - [July 2023 was the hottest month on record](https://twitter.com/nasa/status/1691106509319806977?s=46&t=H_jBB1XRvGbGkpJRBZAq5Q)
 * [2023-08-16, 16:17:17](https://news.ycombinator.com/item?id=37149349) - [LK-99 isn’t a superconductor – how science sleuths solved the mystery](https://www.nature.com/articles/d41586-023-02585-7)
 * [2023-08-16, 16:15:41](https://news.ycombinator.com/item?id=37149327) - [What Happens to All the Stuff We Return?](https://www.newyorker.com/magazine/2023/08/21/the-hidden-cost-of-free-returns)
-* [2023-08-16, 15:07:03](https://news.ycombinator.com/item?id=37148240) - [Ask HN: If we train an LLM with “data” instead of “language” tokens](https://news.ycombinator.com/item?id=37148240)
+* [2023-08-16, 16:11:21](https://news.ycombinator.com/item?id=37149271) - [System Initiative has open sourced its collab DevOps tool](https://www.systeminit.com/blog-open-source/)
 * [2023-08-16, 14:54:22](https://news.ycombinator.com/item?id=37148033) - [Math Proof Draws New Boundaries Around Black Hole Formation](https://www.quantamagazine.org/math-proof-draws-new-boundaries-around-black-hole-formation-20230816/)
 * [2023-08-16, 14:52:01](https://news.ycombinator.com/item?id=37147996) - [Spring 6.1 now compatible with virtual threads and JDK 21 overall](https://github.com/spring-projects/spring-framework/wiki/What%27s-New-in-Spring-Framework-6.x)
 * [2023-08-16, 14:30:15](https://news.ycombinator.com/item?id=37147617) - [Brand-new Linux release, which I'm calling the Debian Linux Release (1993)](https://wiki.debian.org/DebianHistory?action=AttachFile&do=get&target=Debian-announcement-1993.txt)
