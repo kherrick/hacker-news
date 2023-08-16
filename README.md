@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-16, 05:11:04](https://news.ycombinator.com/item?id=37143075) - [Google Finds It’s Underpaying Many Men as It Addresses Wage Equity](https://www.nytimes.com/2019/03/04/technology/google-gender-pay-gap.html)
 * [2023-08-16, 04:35:16](https://news.ycombinator.com/item?id=37142912) - [The Collateral Damage of A.D.H.D. Drug Shortages](https://www.nytimes.com/2023/08/15/well/mind/adhd-adderall-shortage-children.html)
+* [2023-08-16, 04:00:52](https://news.ycombinator.com/item?id=37142725) - [In Defense of Describable Dating Preferences](https://astralcodexten.substack.com/p/in-defense-of-describable-dating)
 * [2023-08-16, 03:06:18](https://news.ycombinator.com/item?id=37142426) - [Diligere, Equity-Invest Are New Firms of U.K. Con Man](https://krebsonsecurity.com/2023/08/diligere-equity-invest-are-new-firms-of-u-k-con-man/)
 * [2023-08-16, 03:00:40](https://news.ycombinator.com/item?id=37142388) - [NetMaker: Connect Everything with a WireGuard VPN](https://www.netmaker.io/)
 * [2023-08-16, 02:44:49](https://news.ycombinator.com/item?id=37142293) - [Debugging a Futex Crash](https://rustylife.github.io/2023/08/15/futex-crash.html)
@@ -23,11 +25,9 @@
 * [2023-08-15, 12:28:20](https://news.ycombinator.com/item?id=37133128) - [Show HN: Lottielab – Create product animations in the browser easily](https://www.lottielab.com/)
 * [2023-08-15, 12:16:10](https://news.ycombinator.com/item?id=37133023) - [Why Darwin admired the earthworm](https://nautil.us/why-darwin-admired-the-humble-earthworm-361515/)
 * [2023-08-15, 09:20:15](https://news.ycombinator.com/item?id=37131812) - [Open Circuits: The Inner Beauty of Electronic Components](https://pluralistic.net/2023/08/14/hidden-worlds/#making-the-invisible-visible-and-beautiful)
-* [2023-08-15, 06:57:26](https://news.ycombinator.com/item?id=37131027) - [Love Notes to Newton [video]](https://www.youtube.com/watch?v=5kxRi34PqWo)
 * [2023-08-15, 04:51:41](https://news.ycombinator.com/item?id=37130331) - [New way to read data in antiferromagnets unlocks their use as computer memory](https://phys.org/news/2023-08-antiferromagnets-memory.html)
 * [2023-08-15, 04:28:43](https://news.ycombinator.com/item?id=37130200) - [Exploring the design space of binary search trees](https://rtheunissen.github.io/bst/)
 * [2023-08-15, 03:44:34](https://news.ycombinator.com/item?id=37129921) - [The Bitter Lesson [pdf]](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf)
-* [2023-08-15, 01:12:10](https://news.ycombinator.com/item?id=37128935) - [A most very unofficial guide to the W65C265SXB](https://github.com/scotws/265SXB-Guide)
 * [2023-08-15, 01:10:56](https://news.ycombinator.com/item?id=37128929) - [Peter Pan Copyright](https://www.gosh.org/about-us/peter-pan/copyright/)
 * [2023-08-15, 01:06:03](https://news.ycombinator.com/item?id=37128885) - [How to be successful as a research mathematician? Follow your gut](https://www.nature.com/articles/d41586-023-02555-z)
 
