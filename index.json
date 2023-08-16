@@ -1,12 +1,32 @@
 [
   [
     [
-      "2023-08-16, 14:35:34",
-      "https://news.ycombinator.com/item?id=37147707"
+      "2023-08-16, 14:54:22",
+      "https://news.ycombinator.com/item?id=37148033"
     ],
     [
-      "Forget ‘quiet quitting’ – ‘loud laborers’ are killing workplace morale",
-      "https://www.cnbc.com/2023/08/09/forget-quiet-quitting-loud-laborers-are-killing-workplace-morale.html"
+      "Math Proof Draws New Boundaries Around Black Hole Formation",
+      "https://www.quantamagazine.org/math-proof-draws-new-boundaries-around-black-hole-formation-20230816/"
+    ]
+  ],
+  [
+    [
+      "2023-08-16, 14:52:01",
+      "https://news.ycombinator.com/item?id=37147996"
+    ],
+    [
+      "Spring 6.1 now compatible with virtual threads and JDK 21 overall",
+      "https://github.com/spring-projects/spring-framework/wiki/What%27s-New-in-Spring-Framework-6.x"
+    ]
+  ],
+  [
+    [
+      "2023-08-16, 14:47:15",
+      "https://news.ycombinator.com/item?id=37147914"
+    ],
+    [
+      "Thousands of scientists are cutting back on Twitter",
+      "https://www.nature.com/articles/d41586-023-02554-0"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "The uses and abuses of Cloud Data Warehouses",
       "https://materialize.com/blog/warehouse-abuse/"
-    ]
-  ],
-  [
-    [
-      "2023-08-16, 13:06:28",
-      "https://news.ycombinator.com/item?id=37146469"
-    ],
-    [
-      "You need 27 tickets to guarantee a win on the UK National Lottery",
-      "https://arxiv.org/abs/2307.12430"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "NetMaker: Connect Everything with a WireGuard VPN",
       "https://www.netmaker.io/"
-    ]
-  ],
-  [
-    [
-      "2023-08-16, 02:44:49",
-      "https://news.ycombinator.com/item?id=37142293"
-    ],
-    [
-      "Debugging a Futex Crash",
-      "https://rustylife.github.io/2023/08/15/futex-crash.html"
     ]
   ],
   [
