@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
+* [2023-08-15, 23:46:12](https://news.ycombinator.com/item?id=37140883) - [You don't hate Jira, you hate your manager](https://jarvispowered.com/you-dont-hate-jira-you-hate-your-manager/)
 * [2023-08-15, 23:36:59](https://news.ycombinator.com/item?id=37140806) - [Google Deprecates Google Domains, Sells It to Squarespace](https://support.google.com/domains/answer/13689670?hl=en)
 * [2023-08-15, 23:26:02](https://news.ycombinator.com/item?id=37140681) - [Ted's Notes on Pawpaws](https://toyrus.ngrok.io/~ted/pawpaws/)
 * [2023-08-15, 22:50:54](https://news.ycombinator.com/item?id=37140320) - [Bank of Ireland IT blunder allows customers who have no money get access to cash](https://www.independent.ie/business/personal-finance/bank-of-ireland-it-blunder-allows-customers-who-have-no-money-get-access-to-cash-at-atms/a510070628.html)
@@ -77,6 +78,7 @@
 * [2023-08-15, 07:53:16](https://news.ycombinator.com/item?id=37131343) - [Thoughts on the Remarkable 2](https://variousbits.net/2023/08/13/thoughts-on-the-remarkable-2/)
 * [2023-08-15, 07:45:14](https://news.ycombinator.com/item?id=37131287) - [Iraq lifts ban on Telegram after messaging app complies with authorities](https://techcrunch.com/2023/08/14/iraq-lifts-ban-on-telegram-after-messaging-app-complies-with-authorities/)
 * [2023-08-15, 07:40:58](https://news.ycombinator.com/item?id=37131263) - [New RedHat Responsibilities](https://www.hadess.net/2023/08/new-responsibilities.html)
+* [2023-08-15, 06:57:26](https://news.ycombinator.com/item?id=37131027) - [Love Notes to Newton [video]](https://www.youtube.com/watch?v=5kxRi34PqWo)
 * [2023-08-15, 06:23:33](https://news.ycombinator.com/item?id=37130832) - [WhoFundsWho: Instantly see who funds the organizations you are reading about](https://whofundswho.com/)
 * [2023-08-15, 05:33:37](https://news.ycombinator.com/item?id=37130562) - [Best Time to Water – Morning, Noon or Evening?](https://www.gardenmyths.com/best-time-water-morning/)
 * [2023-08-15, 05:29:30](https://news.ycombinator.com/item?id=37130531) - [Ask HN: I learned useless skill of prompt engineering, how relevant will it be?](https://news.ycombinator.com/item?id=37130531)
