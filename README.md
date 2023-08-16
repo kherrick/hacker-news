@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-16, 20:47:25](https://news.ycombinator.com/item?id=37153563) - [How England’s football league is breaking the sport [video]](https://www.youtube.com/watch?v=jBeXyKVvhb0)
-* [2023-08-16, 20:32:44](https://news.ycombinator.com/item?id=37153373) - [Anonfiles Is Shutting Down](https://anonfiles.com/)
+* [2023-08-16, 21:31:10](https://news.ycombinator.com/item?id=37154138) - [Ubicloud – open, free and portable cloud](https://github.com/ubicloud/ubicloud)
 * [2023-08-16, 20:17:37](https://news.ycombinator.com/item?id=37153121) - [Bringing Safety check to the Chrome://extensions page](https://developer.chrome.com/blog/extension-safety-hub/)
 * [2023-08-16, 20:08:12](https://news.ycombinator.com/item?id=37152978) - [Ts_zip: Text Compression Using Large Language Models](https://bellard.org/ts_server/ts_zip.html)
 * [2023-08-16, 19:56:21](https://news.ycombinator.com/item?id=37152803) - [the US climate law is fueling a factory frenzy. Here’s the latest tally](https://www.canarymedia.com/articles/clean-energy-manufacturing/the-us-climate-law-is-fueling-a-factory-frenzy-heres-the-latest-tally)
@@ -21,6 +20,7 @@
 * [2023-08-16, 13:10:59](https://news.ycombinator.com/item?id=37146532) - [Uses and abuses of cloud data warehouses](https://materialize.com/blog/warehouse-abuse/)
 * [2023-08-16, 12:49:38](https://news.ycombinator.com/item?id=37146268) - [Today I learned you can pause the Windows Task Manager moving apps around](https://www.theverge.com/2023/8/16/23834125/microsoft-windows-task-manager-pause-shortcut)
 * [2023-08-16, 10:19:32](https://news.ycombinator.com/item?id=37144985) - [Htmx is part of the GitHub Accelerator](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
+* [2023-08-16, 09:54:19](https://news.ycombinator.com/item?id=37144815) - [Embedded Linux, Ioctl, SPI-Dev, I2C-Dev and FPGA](https://www.adiuvoengineering.com/post/microzed-chronicles-ioctl-spi-i2c-and-petalinux)
 * [2023-08-16, 09:23:27](https://news.ycombinator.com/item?id=37144601) - [Is this a good book for me, now?](https://maryrosecook.com/blog/post/is-this-a-good-book-for-me-now)
 * [2023-08-15, 19:47:59](https://news.ycombinator.com/item?id=37138464) - [Exploring the design space of binary search trees](https://rtheunissen.github.io/bst/?)
 * [2023-08-15, 18:21:24](https://news.ycombinator.com/item?id=37137405) - [Be sceptical of your own work (2009)](https://terrytao.wordpress.com/career-advice/be-sceptical-of-your-own-work/)
