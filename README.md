@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-16, 17:45:44](https://news.ycombinator.com/item?id=37150787) - [Firezone (YC W22) is hiring a systems engineer](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-systems-engineer)
 * [2023-08-16, 17:15:02](https://news.ycombinator.com/item?id=37150233) - [Canada had poached 10k tech workers from the U.S. – in just 48 hours](https://www.thestar.com/business/how-canada-poached-10-000-tech-workers-from-the-u-s-in-just-48-hours/article_c159c7cc-6163-5414-8453-0db70899df90.html)
 * [2023-08-16, 17:06:10](https://news.ycombinator.com/item?id=37150098) - [OpenAI Acquires Global Illumination](https://openai.com/blog/openai-acquires-global-illumination)
 * [2023-08-16, 16:59:28](https://news.ycombinator.com/item?id=37150000) - [The Mathematics of Training LLMs](https://www.latent.space/p/transformers-math#details)
@@ -16,7 +17,6 @@
 * [2023-08-16, 12:49:38](https://news.ycombinator.com/item?id=37146268) - [Today I learned you can pause the Windows Task Manager moving apps around](https://www.theverge.com/2023/8/16/23834125/microsoft-windows-task-manager-pause-shortcut)
 * [2023-08-16, 11:57:57](https://news.ycombinator.com/item?id=37145701) - [Scientists are only beginning to understand how PFAS impacting our health](https://www.nytimes.com/2023/08/16/magazine/pfas-toxic-chemicals.html)
 * [2023-08-16, 11:25:20](https://news.ycombinator.com/item?id=37145427) - [Nintendo is trying to patent some broad Tears of the Kingdom mechanics](https://kotaku.com/nintendo-is-trying-to-patent-some-really-broad-tears-of-1850730637)
-* [2023-08-16, 11:24:05](https://news.ycombinator.com/item?id=37145411) - [Energy Jobs Have Increased in Nearly Every County in America](https://www.energy.gov/articles/us-department-energy-finds-energy-jobs-have-increased-nearly-every-county-america)
 * [2023-08-16, 10:19:32](https://news.ycombinator.com/item?id=37144985) - [Htmx is part of the GitHub Accelerator](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
 * [2023-08-16, 09:23:27](https://news.ycombinator.com/item?id=37144601) - [Is this a good book for me, now?](https://maryrosecook.com/blog/post/is-this-a-good-book-for-me-now)
 * [2023-08-16, 03:00:40](https://news.ycombinator.com/item?id=37142388) - [NetMaker: Connect Everything with a WireGuard VPN](https://www.netmaker.io/)
@@ -27,9 +27,9 @@
 * [2023-08-15, 14:18:44](https://news.ycombinator.com/item?id=37134315) - [Bayesian Flow Networks](https://arxiv.org/abs/2308.07037)
 * [2023-08-15, 13:55:34](https://news.ycombinator.com/item?id=37134056) - [A Metaobject Protocol for C++ (1995) [pdf]](https://dl.acm.org/doi/pdf/10.1145/217838.217868)
 * [2023-08-15, 13:41:38](https://news.ycombinator.com/item?id=37133908) - [How the iMac Saved Apple](https://www.theverge.com/23830432/imac-twenty-five-years-ago-saved-apple)
+* [2023-08-15, 10:49:48](https://news.ycombinator.com/item?id=37132320) - [The Evolution of Steve Albini](https://www.theguardian.com/music/2023/aug/15/the-evolution-of-steve-albini-if-the-dumbest-person-is-on-your-side-youre-on-the-wrong-side)
 * [2023-08-15, 09:19:00](https://news.ycombinator.com/item?id=37131808) - [Virtual IBM Punch Card Data Processing (2018)](http://sims.durgadas.com/punchcards/ibm029.html)
 * [2023-08-15, 06:51:08](https://news.ycombinator.com/item?id=37130988) - [Circle Evolves C++ [video]](https://www.youtube.com/watch?v=P1ZDOGDMNLM)
-* [2023-08-15, 02:35:34](https://news.ycombinator.com/item?id=37129514) - [Ruins of Emperor Nero’s Theater Discovered Near Vatican](https://www.scientificamerican.com/article/ruins-of-neros-theater-discovered-near-vatican1/)
 
 ## [Archives](archives/index.md)
 

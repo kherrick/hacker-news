@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-16](index.md)
 
+* [2023-08-16, 17:45:44](https://news.ycombinator.com/item?id=37150787) - [Firezone (YC W22) is hiring a systems engineer](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-systems-engineer)
 * [2023-08-16, 17:15:02](https://news.ycombinator.com/item?id=37150233) - [Canada had poached 10k tech workers from the U.S. – in just 48 hours](https://www.thestar.com/business/how-canada-poached-10-000-tech-workers-from-the-u-s-in-just-48-hours/article_c159c7cc-6163-5414-8453-0db70899df90.html)
 * [2023-08-16, 17:06:10](https://news.ycombinator.com/item?id=37150098) - [OpenAI Acquires Global Illumination](https://openai.com/blog/openai-acquires-global-illumination)
 * [2023-08-16, 16:59:28](https://news.ycombinator.com/item?id=37150000) - [The Mathematics of Training LLMs](https://www.latent.space/p/transformers-math#details)
