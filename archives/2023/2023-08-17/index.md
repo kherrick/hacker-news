@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-17](index.md)
 
+* [2023-08-17, 21:11:46](https://news.ycombinator.com/item?id=37168142) - [“Green Smoothie Cleanse” Causing Acute Oxalate Nephropathy](https://pubmed.ncbi.nlm.nih.gov/29203127/)
+* [2023-08-17, 20:48:15](https://news.ycombinator.com/item?id=37167835) - [Most React components offered by products aren’t usable](https://blog.dopt.com/why-our-components-are-different)
+* [2023-08-17, 20:39:58](https://news.ycombinator.com/item?id=37167698) - [RoboAgent: A universal agent with 12 Skills](https://robopen.github.io/)
 * [2023-08-17, 20:03:13](https://news.ycombinator.com/item?id=37167185) - [Fresh evidence of ChatGPT’s political bias revealed by comprehensive new study](https://www.uea.ac.uk/news/-/article/fresh-evidence-of-chatgpts-political-bias-revealed-by-comprehensive-new-study)
 * [2023-08-17, 19:50:28](https://news.ycombinator.com/item?id=37167012) - [Bears Are Climbing Half Dome in Yosemite National Park](https://www.yourcentralvalley.com/news/local-news/bears-are-climbing-half-dome-in-yosemite-national-park/)
 * [2023-08-17, 19:48:31](https://news.ycombinator.com/item?id=37166986) - [Ancient Fires Drove Large Mammals Extinct, Study Suggests](https://www.nytimes.com/2023/08/17/science/climate-paleontology-mammals.html)
