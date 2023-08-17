@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-17, 01:37:38](https://news.ycombinator.com/item?id=37156101) - [Ask HN: Tell us about your project that's not done yet but you want feedback on](https://news.ycombinator.com/item?id=37156101)
-* [2023-08-17, 01:19:13](https://news.ycombinator.com/item?id=37155969) - [StarFive VisionFive 2 Quad-Core RISC-V Performance Benchmarks](https://www.phoronix.com/review/visionfive2-riscv-benchmarks)
 * [2023-08-17, 00:12:48](https://news.ycombinator.com/item?id=37155574) - [QR codes appearing in Google street view?](https://nso.group/@haifisch/110901720830132689#.)
 * [2023-08-16, 23:39:10](https://news.ycombinator.com/item?id=37155329) - [Thirteen years later, why are most administrators still from 2005?](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-08-15/Special_report)
 * [2023-08-16, 23:28:17](https://news.ycombinator.com/item?id=37155241) - [How to Produce Green Hydrogen for $1/Kg – Terraform Industries Blog](https://terraformindustries.wordpress.com/2023/08/16/how-to-produce-green-hydrogen-for-1-kg/)
@@ -23,6 +22,7 @@
 * [2023-08-16, 14:54:22](https://news.ycombinator.com/item?id=37148033) - [Math proof draws new boundaries around black hole formation](https://www.quantamagazine.org/math-proof-draws-new-boundaries-around-black-hole-formation-20230816/)
 * [2023-08-16, 14:30:15](https://news.ycombinator.com/item?id=37147617) - [Brand-new Linux release, which I'm calling the Debian Linux Release (1993)](https://wiki.debian.org/DebianHistory?action=AttachFile&do=get&target=Debian-announcement-1993.txt)
 * [2023-08-16, 13:10:59](https://news.ycombinator.com/item?id=37146532) - [Uses and abuses of cloud data warehouses](https://materialize.com/blog/warehouse-abuse/)
+* [2023-08-16, 11:00:14](https://news.ycombinator.com/item?id=37145243) - [Why I stopped taking photographs almost altogether](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-08-15/Serendipity)
 * [2023-08-16, 10:51:23](https://news.ycombinator.com/item?id=37145195) - [The 8088 Prefetch Algorithm](https://martypc.blogspot.com/2023/08/the-8088-prefetch-algorithm.html)
 * [2023-08-16, 10:19:32](https://news.ycombinator.com/item?id=37144985) - [Htmx is part of the GitHub Accelerator](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
 * [2023-08-15, 19:47:59](https://news.ycombinator.com/item?id=37138464) - [Exploring the design space of binary search trees](https://rtheunissen.github.io/bst/?)
