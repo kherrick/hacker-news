@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-17, 18:05:20](https://news.ycombinator.com/item?id=37165697) - [Beautiful data visualization of the US stock market](https://marketmap.one)
+* [2023-08-17, 17:58:14](https://news.ycombinator.com/item?id=37165606) - [SQLite: the secret behind Apple's success? (humor)](https://www.contextualize.ai/mpereira/sqlite-the-secret-behind-apples-success-b9315c6c)
 * [2023-08-17, 17:22:21](https://news.ycombinator.com/item?id=37165119) - [Too Many Fonts in Windows 10 Can Cause Slow Application Starts](https://bigdanzblog.wordpress.com/2023/08/16/too-many-fonts-in-windows-10-can-cause-slow-application-starts/)
 * [2023-08-17, 17:07:21](https://news.ycombinator.com/item?id=37164864) - [Show HN: Shadeform – Single Platform and API for Provisioning GPUs](https://www.shadeform.ai/)
 * [2023-08-17, 16:55:36](https://news.ycombinator.com/item?id=37164650) - [Show HN: Not My Cows – Save your cows. Blast the meteors. Giddy up](https://notmycows.com/)
@@ -24,8 +25,7 @@
 * [2023-08-17, 07:21:40](https://news.ycombinator.com/item?id=37158317) - [DIY Espresso (2020)](https://www.fourbardesign.com/2020/10/diy-espresso.html)
 * [2023-08-17, 06:46:30](https://news.ycombinator.com/item?id=37158068) - [Dart 3.1 and a retrospective on functional style programming in Dart](https://medium.com/dartlang/dart-3-1-a-retrospective-on-functional-style-programming-in-dart-3-a1f4b3a7cdda)
 * [2023-08-17, 05:19:31](https://news.ycombinator.com/item?id=37157552) - [A world to win: WebAssembly for the rest of us](https://wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
-* [2023-08-17, 02:24:57](https://news.ycombinator.com/item?id=37156425) - [Poland’s ‘anti-vampire’ graves](https://www.atlasobscura.com/articles/anti-vampire-graves-poland)
-* [2023-08-17, 00:25:46](https://news.ycombinator.com/item?id=37155657) - [A simple way to test the charge level on alkaline batteries (2015) [video]](https://www.youtube.com/watch?v=nwfFBUVxpac)
+* [2023-08-16, 23:02:10](https://news.ycombinator.com/item?id=37155031) - [Copyright and fair use in the digital era](https://theweek.com/lawsuits/1025790/copyright-law-and-the-internet)
 * [2023-08-16, 16:17:17](https://news.ycombinator.com/item?id=37149349) - [LK-99 isn’t a superconductor](https://www.nature.com/articles/d41586-023-02585-7)
 * [2023-08-16, 14:56:18](https://news.ycombinator.com/item?id=37148062) - [Fred Fish (Fish Disks)](https://en.wikipedia.org/wiki/Fred_Fish)
 * [2023-08-16, 03:21:50](https://news.ycombinator.com/item?id=37142513) - [Learning via Negativa](https://matt-rickard.com/learning-via-negativa)
