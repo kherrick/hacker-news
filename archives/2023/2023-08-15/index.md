@@ -93,6 +93,7 @@
 * [2023-08-15, 07:48:24](https://news.ycombinator.com/item?id=37131315) - [The Story of Mel (1983)](http://www.catb.org/jargon/html/story-of-mel.html)
 * [2023-08-15, 07:45:14](https://news.ycombinator.com/item?id=37131287) - [Iraq lifts ban on Telegram after messaging app complies with authorities](https://techcrunch.com/2023/08/14/iraq-lifts-ban-on-telegram-after-messaging-app-complies-with-authorities/)
 * [2023-08-15, 07:40:58](https://news.ycombinator.com/item?id=37131263) - [New RedHat Responsibilities](https://www.hadess.net/2023/08/new-responsibilities.html)
+* [2023-08-15, 07:34:50](https://news.ycombinator.com/item?id=37131232) - [Shazam for Singing](https://blog.toasterthoughts.eu/posts/song-solver/)
 * [2023-08-15, 06:57:26](https://news.ycombinator.com/item?id=37131027) - [Love Notes to Newton [video]](https://www.youtube.com/watch?v=5kxRi34PqWo)
 * [2023-08-15, 06:51:08](https://news.ycombinator.com/item?id=37130988) - [Circle Evolves C++ [video]](https://www.youtube.com/watch?v=P1ZDOGDMNLM)
 * [2023-08-15, 06:23:33](https://news.ycombinator.com/item?id=37130832) - [WhoFundsWho: Instantly see who funds the organizations you are reading about](https://whofundswho.com/)

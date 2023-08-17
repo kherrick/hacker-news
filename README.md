@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-17, 04:42:38](https://news.ycombinator.com/item?id=37157323) - [DeepEval – Unit Testing for LLMs](https://github.com/mr-gpt/deepeval)
-* [2023-08-17, 04:09:12](https://news.ycombinator.com/item?id=37157084) - [Do Cartels Exist? A revisionist view of the drug wars](https://harpers.org/archive/2023/07/do-cartels-exist-revisionist-view-of-the-drug-wars/)
 * [2023-08-17, 03:22:30](https://news.ycombinator.com/item?id=37156763) - [1834: The First Cyberattack (2017)](https://www.economist.com/1843/2017/10/05/the-crooked-timber-of-humanity)
 * [2023-08-17, 03:11:36](https://news.ycombinator.com/item?id=37156696) - [NP-hard does not mean hard (2017)](https://jeremykun.com/2017/12/29/np-hard-does-not-mean-hard/)
 * [2023-08-17, 02:36:58](https://news.ycombinator.com/item?id=37156496) - [The Princeton Companion to Mathematics [pdf]](https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf)
@@ -30,6 +29,7 @@
 * [2023-08-16, 10:19:32](https://news.ycombinator.com/item?id=37144985) - [Htmx is part of the GitHub Accelerator](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
 * [2023-08-15, 18:21:24](https://news.ycombinator.com/item?id=37137405) - [Be sceptical of your own work (2009)](https://terrytao.wordpress.com/career-advice/be-sceptical-of-your-own-work/)
 * [2023-08-15, 11:16:45](https://news.ycombinator.com/item?id=37132510) - [What learning APL taught me about Python](https://mathspp.com/blog/what-learning-apl-taught-me-about-python)
+* [2023-08-15, 07:34:50](https://news.ycombinator.com/item?id=37131232) - [Shazam for Singing](https://blog.toasterthoughts.eu/posts/song-solver/)
 
 ## [Archives](archives/index.md)
 
