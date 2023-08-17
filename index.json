@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-17, 15:27:46",
+      "https://news.ycombinator.com/item?id=37163168"
+    ],
+    [
+      "Mailgun: Public Security Disclosure",
+      "https://news.ycombinator.com/item?id=37163168"
+    ]
+  ],
+  [
+    [
       "2023-08-17, 15:21:26",
       "https://news.ycombinator.com/item?id=37163066"
     ],
@@ -21,6 +31,16 @@
   ],
   [
     [
+      "2023-08-17, 15:02:10",
+      "https://news.ycombinator.com/item?id=37162774"
+    ],
+    [
+      "A proposal for much faster aircraft exit – “Fill and Flush”",
+      "https://www.fillandflush.com"
+    ]
+  ],
+  [
+    [
       "2023-08-17, 15:01:24",
       "https://news.ycombinator.com/item?id=37162762"
     ],
@@ -31,12 +51,12 @@
   ],
   [
     [
-      "2023-08-17, 14:56:07",
-      "https://news.ycombinator.com/item?id=37162677"
+      "2023-08-17, 14:50:59",
+      "https://news.ycombinator.com/item?id=37162588"
     ],
     [
-      "Federal Judge Upholds Arizonans’ Right to Record the Police",
-      "https://www.eff.org/deeplinks/2023/08/federal-judge-upholds-arizonans-right-record-police"
+      "Inflation Reduction Act impacts on the economics of hydrogen and liquid fuels",
+      "https://arxiv.org/abs/2305.00946"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "Israeli Researchers Produce Green Hydrogen with 90% Efficiency",
       "https://www.autoevolution.com/news/israeli-researchers-produce-green-hydrogen-with-90-efficiency-without-electrolysis-218644.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-17, 12:40:02",
-      "https://news.ycombinator.com/item?id=37160657"
-    ],
-    [
-      "Microsoft will let you uninstall more built-in Win 11 apps soon for less bloat",
-      "https://www.theverge.com/2023/8/17/23835550/microsoft-windows-11-uninstall-built-in-inbox-apps"
     ]
   ],
   [
@@ -181,6 +191,16 @@
   ],
   [
     [
+      "2023-08-17, 07:33:35",
+      "https://news.ycombinator.com/item?id=37158398"
+    ],
+    [
+      "Getting a job at Apple without going to college or doing LeetCode",
+      "https://aheze.substack.com/p/getting-a-job-at-apple-without-going"
+    ]
+  ],
+  [
+    [
       "2023-08-17, 07:21:40",
       "https://news.ycombinator.com/item?id=37158317"
     ],
@@ -201,12 +221,32 @@
   ],
   [
     [
-      "2023-08-17, 03:33:41",
-      "https://news.ycombinator.com/item?id=37156842"
+      "2023-08-17, 05:19:31",
+      "https://news.ycombinator.com/item?id=37157552"
     ],
     [
-      "Mastermind Solver",
-      "https://stefanabikaram.com/blog/mastermind-solver/"
+      "A world to win: WebAssembly for the rest of us",
+      "https://wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us"
+    ]
+  ],
+  [
+    [
+      "2023-08-17, 03:11:36",
+      "https://news.ycombinator.com/item?id=37156696"
+    ],
+    [
+      "NP-hard does not mean hard (2017)",
+      "https://jeremykun.com/2017/12/29/np-hard-does-not-mean-hard/"
+    ]
+  ],
+  [
+    [
+      "2023-08-17, 02:24:57",
+      "https://news.ycombinator.com/item?id=37156425"
+    ],
+    [
+      "Poland’s ‘anti-vampire’ graves",
+      "https://www.atlasobscura.com/articles/anti-vampire-graves-poland"
     ]
   ],
   [
@@ -221,32 +261,12 @@
   ],
   [
     [
-      "2023-08-17, 02:13:25",
-      "https://news.ycombinator.com/item?id=37156337"
+      "2023-08-17, 00:25:46",
+      "https://news.ycombinator.com/item?id=37155657"
     ],
     [
-      "Unit: A visual programming system [video]",
-      "https://www.youtube.com/watch?v=lvvzolKHt2E"
-    ]
-  ],
-  [
-    [
-      "2023-08-17, 01:37:38",
-      "https://news.ycombinator.com/item?id=37156101"
-    ],
-    [
-      "Ask HN: Tell us about your project that's not done yet but you want feedback on",
-      "https://news.ycombinator.com/item?id=37156101"
-    ]
-  ],
-  [
-    [
-      "2023-08-17, 00:42:50",
-      "https://news.ycombinator.com/item?id=37155752"
-    ],
-    [
-      "Captain Zilog Crushed: The Story of the Z8000",
-      "https://thechipletter.substack.com/p/captain-zilog-crushed-the-story-of"
+      "A charged battery won't bounce but partially discharged one will (2015) [video]",
+      "https://www.youtube.com/watch?v=nwfFBUVxpac"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "LK-99 isn’t a superconductor",
       "https://www.nature.com/articles/d41586-023-02585-7"
-    ]
-  ],
-  [
-    [
-      "2023-08-16, 14:01:22",
-      "https://news.ycombinator.com/item?id=37147140"
-    ],
-    [
-      "Show HN: Marqo – Vectorless Vector Search",
-      "https://github.com/marqo-ai/marqo"
-    ]
-  ],
-  [
-    [
-      "2023-08-16, 10:19:32",
-      "https://news.ycombinator.com/item?id=37144985"
-    ],
-    [
-      "Htmx is part of the GitHub Accelerator",
-      "https://htmx.org/posts/2023-06-06-htmx-github-accelerator/"
     ]
   ],
   [
