@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-17, 02:18:15](https://news.ycombinator.com/item?id=37156373) - [A Search for Technosignatures Around 11,680 Nearby Stars](https://arxiv.org/abs/2308.02712)
 * [2023-08-17, 02:13:25](https://news.ycombinator.com/item?id=37156337) - [Unit (Visual Programming System) [video]](https://www.youtube.com/watch?v=lvvzolKHt2E)
 * [2023-08-17, 01:58:38](https://news.ycombinator.com/item?id=37156232) - [CATL reveals ‘Superfast Charging Battery,’ boasts 250mi range with 10-min charge](https://electrek.co/2023/08/16/catl-new-fast-charging-battery-250-mi-10-min/)
 * [2023-08-17, 01:16:48](https://news.ycombinator.com/item?id=37155957) - [Tape Storage Might Be Computing’s Climate Savior](https://spectrum.ieee.org/tape-storage-sustainable-option)
@@ -22,7 +23,6 @@
 * [2023-08-16, 16:17:17](https://news.ycombinator.com/item?id=37149349) - [LK-99 isn’t a superconductor](https://www.nature.com/articles/d41586-023-02585-7)
 * [2023-08-16, 15:05:09](https://news.ycombinator.com/item?id=37148210) - [Show HN: LlamaGPT – Self-hosted, offline, private AI chatbot, powered by Llama 2](https://github.com/getumbrel/llama-gpt)
 * [2023-08-16, 14:54:22](https://news.ycombinator.com/item?id=37148033) - [Math proof draws new boundaries around black hole formation](https://www.quantamagazine.org/math-proof-draws-new-boundaries-around-black-hole-formation-20230816/)
-* [2023-08-16, 13:10:59](https://news.ycombinator.com/item?id=37146532) - [Uses and abuses of cloud data warehouses](https://materialize.com/blog/warehouse-abuse/)
 * [2023-08-16, 11:00:14](https://news.ycombinator.com/item?id=37145243) - [Why I stopped taking photographs almost altogether](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-08-15/Serendipity)
 * [2023-08-16, 10:51:23](https://news.ycombinator.com/item?id=37145195) - [The 8088 Prefetch Algorithm](https://martypc.blogspot.com/2023/08/the-8088-prefetch-algorithm.html)
 * [2023-08-16, 10:19:32](https://news.ycombinator.com/item?id=37144985) - [Htmx is part of the GitHub Accelerator](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
