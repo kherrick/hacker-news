@@ -109,6 +109,7 @@
 * [2023-08-16, 06:52:33](https://news.ycombinator.com/item?id=37143603) - [Hacker News makes it to Dutch national media](https://nos.nl/artikel/2486778-toegang-tot-nieuwsmedia-en-concurrenten-vertraagd-door-elon-musks-x)
 * [2023-08-16, 06:37:42](https://news.ycombinator.com/item?id=37143533) - [Russian empire aerospace refugees (2021)](https://scottlocklin.wordpress.com/2021/03/05/russian-empire-aerospace-refugees/)
 * [2023-08-16, 06:29:47](https://news.ycombinator.com/item?id=37143495) - [Ask HN: Why Linux development happens on mailing list instead of Git?](https://news.ycombinator.com/item?id=37143495)
+* [2023-08-16, 05:58:04](https://news.ycombinator.com/item?id=37143348) - [Why did people in the past look so much older?](https://www.dazeddigital.com/beauty/article/60584/1/why-people-in-the-past-look-so-much-older-cheers-ageing-smoking-cosmetics)
 * [2023-08-16, 05:54:56](https://news.ycombinator.com/item?id=37143329) - [Today I learned that random people can send you money on PayPal and disputed it](https://twitter.com/0xRokku/status/1691541352650272771)
 * [2023-08-16, 05:28:09](https://news.ycombinator.com/item?id=37143159) - [Carl Sagan testifying before Congress in 1985 on climate change [video]](https://www.youtube.com/watch?v=Wp-WiNXH6hI)
 * [2023-08-16, 05:11:04](https://news.ycombinator.com/item?id=37143075) - [Google Finds It’s Underpaying Many Men as It Addresses Wage Equity](https://www.nytimes.com/2019/03/04/technology/google-gender-pay-gap.html)
