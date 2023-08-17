@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-17](index.md)
 
+* [2023-08-17, 18:24:03](https://news.ycombinator.com/item?id=37165933) - [SpaceX Revenue Doubled to $4.6B in 2022 Versus 2021](https://www.wsj.com/tech/behind-the-curtain-of-elon-musks-secretive-spacex-revenue-growth-and-rising-costs-2c828e2b)
 * [2023-08-17, 18:05:20](https://news.ycombinator.com/item?id=37165697) - [Beautiful data visualization of the US stock market](https://marketmap.one)
 * [2023-08-17, 17:58:14](https://news.ycombinator.com/item?id=37165606) - [SQLite: the secret behind Apple's success? (humor)](https://www.contextualize.ai/mpereira/sqlite-the-secret-behind-apples-success-b9315c6c)
 * [2023-08-17, 17:22:21](https://news.ycombinator.com/item?id=37165119) - [Too Many Fonts in Windows 10 Can Cause Slow Application Starts](https://bigdanzblog.wordpress.com/2023/08/16/too-many-fonts-in-windows-10-can-cause-slow-application-starts/)
