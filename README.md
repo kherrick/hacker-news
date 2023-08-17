@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-17, 23:29:24](https://news.ycombinator.com/item?id=37169679) - [Benefits of Inconvenience (“Fuben-Eki”)](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2046153/)
 * [2023-08-17, 22:57:54](https://news.ycombinator.com/item?id=37169371) - [A Blood Factor Can Rejuvenate the Aging Brain](https://www.insideprecisionmedicine.com/topics/molecular-dx-topic/a-blood-factor-can-rejuvenate-the-aging-brain/)
 * [2023-08-17, 22:51:33](https://news.ycombinator.com/item?id=37169303) - [SUSE to Go Private](https://opensourcewatch.beehiiv.com/p/suse-go-private)
 * [2023-08-17, 22:43:11](https://news.ycombinator.com/item?id=37169226) - [The Aging Brain: Is Misplaced DNA to Blame?](https://www.science.org/content/blog-post/aging-brain-misplaced-dna-blame)
@@ -17,7 +18,6 @@
 * [2023-08-17, 18:05:20](https://news.ycombinator.com/item?id=37165697) - [Market Map](https://marketmap.one)
 * [2023-08-17, 17:18:08](https://news.ycombinator.com/item?id=37165042) - [A Guide to Undefined Behavior in C and C++ (2010)](https://blog.regehr.org/archives/213)
 * [2023-08-17, 17:07:21](https://news.ycombinator.com/item?id=37164864) - [Show HN: Shadeform – Single Platform and API for Provisioning GPUs](https://www.shadeform.ai/)
-* [2023-08-17, 16:27:26](https://news.ycombinator.com/item?id=37164155) - [1.56M dehumidifiers recalled due to fire and burn hazards](https://www.theverge.com/2023/8/16/23835116/have-you-seen-these-dehumidifiers-stop-using-them-or-you-might-die)
 * [2023-08-17, 16:15:29](https://news.ycombinator.com/item?id=37163980) - [Fuzz testing: the best thing to happen to our application tests](https://questdb.io/blog/fuzz-testing-questdb/)
 * [2023-08-17, 15:28:39](https://news.ycombinator.com/item?id=37163187) - [Turmoil, a framework for developing and testing distributed systems](https://tokio.rs/blog/2023-01-03-announcing-turmoil)
 * [2023-08-17, 15:10:50](https://news.ycombinator.com/item?id=37162898) - [I am afraid to inform you that you have built a compiler (2022)](https://rachit.pl/post/you-have-built-a-compiler/)
