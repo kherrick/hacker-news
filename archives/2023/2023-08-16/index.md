@@ -60,6 +60,7 @@
 * [2023-08-16, 15:24:15](https://news.ycombinator.com/item?id=37148520) - [Exercising at a VR Gym](https://sfstandard.com/2023/08/06/san-francisco-black-box-virtual-reality-gym/)
 * [2023-08-16, 15:07:03](https://news.ycombinator.com/item?id=37148240) - [Ask HN: If we train an LLM with “data” instead of “language” tokens](https://news.ycombinator.com/item?id=37148240)
 * [2023-08-16, 15:05:09](https://news.ycombinator.com/item?id=37148210) - [Show HN: LlamaGPT – Self-hosted, offline, private AI chatbot, powered by Llama 2](https://github.com/getumbrel/llama-gpt)
+* [2023-08-16, 14:56:18](https://news.ycombinator.com/item?id=37148062) - [Fred Fish (Fish Disks)](https://en.wikipedia.org/wiki/Fred_Fish)
 * [2023-08-16, 14:54:22](https://news.ycombinator.com/item?id=37148033) - [Math Proof Draws New Boundaries Around Black Hole Formation](https://www.quantamagazine.org/math-proof-draws-new-boundaries-around-black-hole-formation-20230816/)
 * [2023-08-16, 14:53:22](https://news.ycombinator.com/item?id=37148013) - [Twitter's response to US Government search warrant (turned over deleted DMs) [pdf]](https://www.dcd.uscourts.gov/sites/dcd/files/23sc31%20Attachment%20A%20-%20Documents%20unsealed%20with%20redactions.pdf)
 * [2023-08-16, 14:52:01](https://news.ycombinator.com/item?id=37147996) - [Spring 6.1 now compatible with virtual threads and JDK 21 overall](https://github.com/spring-projects/spring-framework/wiki/What%27s-New-in-Spring-Framework-6.x)
