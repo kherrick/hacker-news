@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-17](index.md)
 
+* [2023-08-17, 16:55:36](https://news.ycombinator.com/item?id=37164650) - [Show HN: Not My Cows – Save your cows. Blast the meteors. Giddy up](https://notmycows.com/)
 * [2023-08-17, 16:45:16](https://news.ycombinator.com/item?id=37164452) - [Adyen Plummets as Sales Miss Erases $20B of Market Value](https://finance.yahoo.com/news/adyen-plunges-20-hiring-inflation-072432744.html)
 * [2023-08-17, 16:44:28](https://news.ycombinator.com/item?id=37164446) - [Close to half of American adults favor TikTok ban, Reuters/Ipsos poll shows](https://www.reuters.com/technology/close-half-americans-favor-tiktok-ban-reutersipsos-poll-2023-08-16/)
 * [2023-08-17, 16:32:04](https://news.ycombinator.com/item?id=37164249) - [Is Slack Down?](https://news.ycombinator.com/item?id=37164249)

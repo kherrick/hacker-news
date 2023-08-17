@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-17, 16:55:36](https://news.ycombinator.com/item?id=37164650) - [Show HN: Not My Cows – Save your cows. Blast the meteors. Giddy up](https://notmycows.com/)
 * [2023-08-17, 16:45:16](https://news.ycombinator.com/item?id=37164452) - [Adyen Plummets as Sales Miss Erases $20B of Market Value](https://finance.yahoo.com/news/adyen-plunges-20-hiring-inflation-072432744.html)
 * [2023-08-17, 16:44:28](https://news.ycombinator.com/item?id=37164446) - [Close to half of American adults favor TikTok ban, Reuters/Ipsos poll shows](https://www.reuters.com/technology/close-half-americans-favor-tiktok-ban-reutersipsos-poll-2023-08-16/)
 * [2023-08-17, 16:31:56](https://news.ycombinator.com/item?id=37164243) - [My resignation letter as R7RS-large chair](https://groups.google.com/g/scheme-reports-wg2/c/xGd0_eeKmGI/m/q-xM5fbuAQAJ)
 * [2023-08-17, 16:28:16](https://news.ycombinator.com/item?id=37164173) - [YOLO-Driven Development Manifesto](https://andersoncardoso.github.io/ydd/)
 * [2023-08-17, 16:27:26](https://news.ycombinator.com/item?id=37164155) - [Have you seen these dehumidifiers? Stop using them or you might die](https://www.theverge.com/2023/8/16/23835116/have-you-seen-these-dehumidifiers-stop-using-them-or-you-might-die)
-* [2023-08-17, 15:56:58](https://news.ycombinator.com/item?id=37163684) - [Older mouse brains rejuvenated by protein found in young blood](https://www.nature.com/articles/d41586-023-02563-z)
 * [2023-08-17, 15:47:52](https://news.ycombinator.com/item?id=37163489) - [Straightforward Thai Railway Safety Posters](https://www.thaitrainguide.com/2022/06/10/railway-safety-posters/)
 * [2023-08-17, 15:28:39](https://news.ycombinator.com/item?id=37163187) - [Turmoil, a framework for developing and testing distributed systems](https://tokio.rs/blog/2023-01-03-announcing-turmoil)
 * [2023-08-17, 15:01:24](https://news.ycombinator.com/item?id=37162762) - [AMD Ryzen APU turned into a 16GB VRAM GPU and it can run Stable Diffusion](https://old.reddit.com/r/Amd/comments/15t0lsm/i_turned_a_95_amd_apu_into_a_16gb_vram_gpu_and_it/)
