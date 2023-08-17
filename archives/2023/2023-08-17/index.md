@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-17](index.md)
 
+* [2023-08-17, 04:42:38](https://news.ycombinator.com/item?id=37157323) - [DeepEval – Unit Testing for LLMs](https://github.com/mr-gpt/deepeval)
 * [2023-08-17, 03:11:36](https://news.ycombinator.com/item?id=37156696) - [NP-hard does not mean hard (2017)](https://jeremykun.com/2017/12/29/np-hard-does-not-mean-hard/)
 * [2023-08-17, 02:57:01](https://news.ycombinator.com/item?id=37156617) - [Homeowner arrested after trying to evict squatters from his own property](https://nypost.com/2023/08/16/homeowner-arrested-after-trying-to-evict-squatters-from-his-house/)
 * [2023-08-17, 02:54:43](https://news.ycombinator.com/item?id=37156603) - [Harvard Tells Grad Students to Get Food Stamps](https://www.vice.com/en/article/93kwaa/harvard-tells-grad-students-to-get-food-stamps-to-supplement-the-unlivable-wages-it-pays-them)

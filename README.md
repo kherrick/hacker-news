@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-17, 04:42:38](https://news.ycombinator.com/item?id=37157323) - [DeepEval – Unit Testing for LLMs](https://github.com/mr-gpt/deepeval)
 * [2023-08-17, 03:11:36](https://news.ycombinator.com/item?id=37156696) - [NP-hard does not mean hard (2017)](https://jeremykun.com/2017/12/29/np-hard-does-not-mean-hard/)
 * [2023-08-17, 02:36:58](https://news.ycombinator.com/item?id=37156496) - [The Princeton Companion to Mathematics [pdf]](https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf)
 * [2023-08-17, 02:18:15](https://news.ycombinator.com/item?id=37156373) - [A search for technosignatures around nearby stars](https://arxiv.org/abs/2308.02712)
 * [2023-08-17, 02:18:00](https://news.ycombinator.com/item?id=37156372) - [Ask HN: Any interesting books you have read lately?](https://news.ycombinator.com/item?id=37156372)
 * [2023-08-17, 02:13:25](https://news.ycombinator.com/item?id=37156337) - [Unit (Visual Programming System) [video]](https://www.youtube.com/watch?v=lvvzolKHt2E)
-* [2023-08-17, 01:58:38](https://news.ycombinator.com/item?id=37156232) - [CATL reveals ‘Superfast Charging Battery,’ boasts 250mi range with 10-min charge](https://electrek.co/2023/08/16/catl-new-fast-charging-battery-250-mi-10-min/)
 * [2023-08-17, 01:37:38](https://news.ycombinator.com/item?id=37156101) - [Ask HN: Tell us about your project that's not done yet but you want feedback on](https://news.ycombinator.com/item?id=37156101)
 * [2023-08-17, 01:16:48](https://news.ycombinator.com/item?id=37155957) - [Tape Storage Might Be Computing’s Climate Savior](https://spectrum.ieee.org/tape-storage-sustainable-option)
 * [2023-08-17, 00:42:50](https://news.ycombinator.com/item?id=37155752) - [Captain Zilog Crushed: The Story of the Z8000](https://thechipletter.substack.com/p/captain-zilog-crushed-the-story-of)
