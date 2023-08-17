@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-17](index.md)
 
+* [2023-08-17, 15:21:26](https://news.ycombinator.com/item?id=37163066) - [Students are submitting answers saying “I am an AI language model”](https://futurism.com/the-byte/students-answers-telltale-phrase)
 * [2023-08-17, 15:04:35](https://news.ycombinator.com/item?id=37162811) - [Three security teams just hacked a US Air Force satellite in space](https://www.space.com/satellite-hacking-hack-a-sat-competition-winners)
 * [2023-08-17, 15:01:24](https://news.ycombinator.com/item?id=37162762) - [AMD Ryzen APU turned into a 16GB VRAM GPU and it can run Stable Diffusion](https://old.reddit.com/r/Amd/comments/15t0lsm/i_turned_a_95_amd_apu_into_a_16gb_vram_gpu_and_it/)
+* [2023-08-17, 14:56:07](https://news.ycombinator.com/item?id=37162677) - [Federal Judge Upholds Arizonans’ Right to Record the Police](https://www.eff.org/deeplinks/2023/08/federal-judge-upholds-arizonans-right-record-police)
 * [2023-08-17, 13:43:45](https://news.ycombinator.com/item?id=37161441) - [The TextFX Project by Google](https://textfx.withgoogle.com/)
 * [2023-08-17, 13:36:37](https://news.ycombinator.com/item?id=37161347) - [We Don’t Need a New Twitter](https://www.newyorker.com/culture/cultural-comment/we-dont-need-a-new-twitter)
 * [2023-08-17, 13:24:40](https://news.ycombinator.com/item?id=37161184) - [Show HN: Strich – Barcode scanning for web apps](https://strich.io)
