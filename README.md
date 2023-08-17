@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-17, 03:11:36](https://news.ycombinator.com/item?id=37156696) - [NP-hard does not mean hard (2017)](https://jeremykun.com/2017/12/29/np-hard-does-not-mean-hard/)
-* [2023-08-17, 02:54:43](https://news.ycombinator.com/item?id=37156603) - [Harvard Tells Grad Students to Get Food Stamps](https://www.vice.com/en/article/93kwaa/harvard-tells-grad-students-to-get-food-stamps-to-supplement-the-unlivable-wages-it-pays-them)
 * [2023-08-17, 02:36:58](https://news.ycombinator.com/item?id=37156496) - [The Princeton Companion to Mathematics [pdf]](https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf)
 * [2023-08-17, 02:18:15](https://news.ycombinator.com/item?id=37156373) - [A Search for Technosignatures Around 11,680 Nearby Stars](https://arxiv.org/abs/2308.02712)
 * [2023-08-17, 02:18:00](https://news.ycombinator.com/item?id=37156372) - [Ask HN: Any interesting books you have read lately?](https://news.ycombinator.com/item?id=37156372)
@@ -24,6 +23,7 @@
 * [2023-08-16, 16:59:28](https://news.ycombinator.com/item?id=37150000) - [The Mathematics of Training LLMs](https://www.latent.space/p/transformers-math#details)
 * [2023-08-16, 16:17:17](https://news.ycombinator.com/item?id=37149349) - [LK-99 isn’t a superconductor](https://www.nature.com/articles/d41586-023-02585-7)
 * [2023-08-16, 15:24:15](https://news.ycombinator.com/item?id=37148520) - [Exercising at a VR Gym](https://sfstandard.com/2023/08/06/san-francisco-black-box-virtual-reality-gym/)
+* [2023-08-16, 14:54:22](https://news.ycombinator.com/item?id=37148033) - [Math proof draws new boundaries around black hole formation](https://www.quantamagazine.org/math-proof-draws-new-boundaries-around-black-hole-formation-20230816/)
 * [2023-08-16, 11:22:01](https://news.ycombinator.com/item?id=37145400) - [Slogtest](https://telemachus.me/slogtest)
 * [2023-08-16, 10:51:23](https://news.ycombinator.com/item?id=37145195) - [The 8088 Prefetch Algorithm](https://martypc.blogspot.com/2023/08/the-8088-prefetch-algorithm.html)
 * [2023-08-16, 10:19:32](https://news.ycombinator.com/item?id=37144985) - [Htmx is part of the GitHub Accelerator](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
