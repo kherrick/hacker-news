@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-17](index.md)
 
+* [2023-08-17, 22:51:33](https://news.ycombinator.com/item?id=37169303) - [SUSE to Go Private](https://opensourcewatch.beehiiv.com/p/suse-go-private)
 * [2023-08-17, 21:55:15](https://news.ycombinator.com/item?id=37168704) - [The richest Americans account for 40 percent of U.S. climate emissions](https://www.washingtonpost.com/climate-environment/2023/08/17/greenhouse-emissions-income-inequality/)
 * [2023-08-17, 21:51:43](https://news.ycombinator.com/item?id=37168662) - [A website that pairs you with an ʻOhana to support displaced by the Maui Fires](https://mauiohana.support/)
 * [2023-08-17, 21:19:16](https://news.ycombinator.com/item?id=37168243) - [YouTube Ads May Have Led to Online Tracking of Children, Research Says](https://www.nytimes.com/2023/08/17/technology/youtube-google-children-privacy.html)

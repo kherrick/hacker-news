@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-17, 21:51:43](https://news.ycombinator.com/item?id=37168662) - [A website that pairs you with an ʻOhana to support displaced by the Maui Fires](https://mauiohana.support/)
+* [2023-08-17, 22:51:33](https://news.ycombinator.com/item?id=37169303) - [SUSE to Go Private](https://opensourcewatch.beehiiv.com/p/suse-go-private)
 * [2023-08-17, 21:19:16](https://news.ycombinator.com/item?id=37168243) - [YouTube Ads May Have Led to Online Tracking of Children, Research Says](https://www.nytimes.com/2023/08/17/technology/youtube-google-children-privacy.html)
 * [2023-08-17, 21:11:46](https://news.ycombinator.com/item?id=37168142) - [“Green smoothie cleanse” causing acute oxalate nephropathy](https://pubmed.ncbi.nlm.nih.gov/29203127/)
 * [2023-08-17, 20:54:34](https://news.ycombinator.com/item?id=37167922) - [How the Army tried and failed to build a bicycle corps (2020)](https://www.armytimes.com/news/your-army/2020/02/25/how-the-army-tried-and-failed-to-build-a-bicycle-corps/)
