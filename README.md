@@ -25,11 +25,11 @@
 * [2023-08-16, 16:45:15](https://news.ycombinator.com/item?id=37149782) - [Theory of interstellar trade (1978) [pdf]](https://www.princeton.edu/~pkrugman/interstellar.pdf)
 * [2023-08-16, 16:17:17](https://news.ycombinator.com/item?id=37149349) - [LK-99 isn’t a superconductor](https://www.nature.com/articles/d41586-023-02585-7)
 * [2023-08-16, 15:24:15](https://news.ycombinator.com/item?id=37148520) - [Exercising at a VR Gym](https://sfstandard.com/2023/08/06/san-francisco-black-box-virtual-reality-gym/)
+* [2023-08-16, 14:54:22](https://news.ycombinator.com/item?id=37148033) - [Math proof draws new boundaries around black hole formation](https://www.quantamagazine.org/math-proof-draws-new-boundaries-around-black-hole-formation-20230816/)
 * [2023-08-16, 10:51:23](https://news.ycombinator.com/item?id=37145195) - [The 8088 Prefetch Algorithm](https://martypc.blogspot.com/2023/08/the-8088-prefetch-algorithm.html)
 * [2023-08-16, 10:19:32](https://news.ycombinator.com/item?id=37144985) - [Htmx is part of the GitHub Accelerator](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
 * [2023-08-15, 19:18:12](https://news.ycombinator.com/item?id=37138083) - [An ancient solar flare illuminated the start of the Viking Age](https://www.sciencenews.org/article/viking-age-ancient-solar-flare-trade-archaeology)
 * [2023-08-15, 18:21:24](https://news.ycombinator.com/item?id=37137405) - [Be sceptical of your own work (2009)](https://terrytao.wordpress.com/career-advice/be-sceptical-of-your-own-work/)
-* [2023-08-15, 11:52:20](https://news.ycombinator.com/item?id=37132791) - [Sharing data types on a multi-language project](https://mortoray.com/sharing-data-types-on-a-multilanguage-project/)
 
 ## [Archives](archives/index.md)
 
