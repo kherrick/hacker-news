@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-17](index.md)
 
+* [2023-08-17, 22:57:54](https://news.ycombinator.com/item?id=37169371) - [A Blood Factor Can Rejuvenate the Aging Brain](https://www.insideprecisionmedicine.com/topics/molecular-dx-topic/a-blood-factor-can-rejuvenate-the-aging-brain/)
 * [2023-08-17, 22:51:33](https://news.ycombinator.com/item?id=37169303) - [SUSE to Go Private](https://opensourcewatch.beehiiv.com/p/suse-go-private)
+* [2023-08-17, 22:43:11](https://news.ycombinator.com/item?id=37169226) - [The Aging Brain: Is Misplaced DNA to Blame?](https://www.science.org/content/blog-post/aging-brain-misplaced-dna-blame)
 * [2023-08-17, 21:55:15](https://news.ycombinator.com/item?id=37168704) - [The richest Americans account for 40 percent of U.S. climate emissions](https://www.washingtonpost.com/climate-environment/2023/08/17/greenhouse-emissions-income-inequality/)
 * [2023-08-17, 21:51:43](https://news.ycombinator.com/item?id=37168662) - [A website that pairs you with an ʻOhana to support displaced by the Maui Fires](https://mauiohana.support/)
 * [2023-08-17, 21:19:16](https://news.ycombinator.com/item?id=37168243) - [YouTube Ads May Have Led to Online Tracking of Children, Research Says](https://www.nytimes.com/2023/08/17/technology/youtube-google-children-privacy.html)
@@ -81,6 +83,7 @@
 * [2023-08-17, 07:02:54](https://news.ycombinator.com/item?id=37158188) - [What I learned after managing a small team for 2 years](https://luispcosta.com/managing-small-team)
 * [2023-08-17, 06:46:30](https://news.ycombinator.com/item?id=37158068) - [Dart 3.1 and a retrospective on functional style programming in Dart](https://medium.com/dartlang/dart-3-1-a-retrospective-on-functional-style-programming-in-dart-3-a1f4b3a7cdda)
 * [2023-08-17, 06:33:18](https://news.ycombinator.com/item?id=37157989) - [New York Times considers legal action against OpenAI as copyright tensions swirl](https://text.npr.org/1194202562)
+* [2023-08-17, 05:51:38](https://news.ycombinator.com/item?id=37157747) - [County Highway: print-only broadsheet magazine about America](https://airmail.news/issues/2023-7-29/highway-to-nowhere)
 * [2023-08-17, 05:19:31](https://news.ycombinator.com/item?id=37157552) - [A world to win: WebAssembly for the rest of us](https://wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
 * [2023-08-17, 04:42:38](https://news.ycombinator.com/item?id=37157323) - [DeepEval – Unit Testing for LLMs](https://github.com/mr-gpt/deepeval)
 * [2023-08-17, 04:09:12](https://news.ycombinator.com/item?id=37157084) - [Do Cartels Exist? A revisionist view of the drug wars](https://harpers.org/archive/2023/07/do-cartels-exist-revisionist-view-of-the-drug-wars/)
