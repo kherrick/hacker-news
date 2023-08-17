@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-17, 02:13:25](https://news.ycombinator.com/item?id=37156337) - [Unit (Visual Programming System) [video]](https://www.youtube.com/watch?v=lvvzolKHt2E)
 * [2023-08-17, 01:58:38](https://news.ycombinator.com/item?id=37156232) - [CATL reveals ‘Superfast Charging Battery,’ boasts 250mi range with 10-min charge](https://electrek.co/2023/08/16/catl-new-fast-charging-battery-250-mi-10-min/)
 * [2023-08-17, 01:16:48](https://news.ycombinator.com/item?id=37155957) - [Tape Storage Might Be Computing’s Climate Savior](https://spectrum.ieee.org/tape-storage-sustainable-option)
 * [2023-08-17, 00:42:50](https://news.ycombinator.com/item?id=37155752) - [Captain Zilog Crushed: The Story of the Z8000](https://thechipletter.substack.com/p/captain-zilog-crushed-the-story-of)
@@ -12,7 +13,6 @@
 * [2023-08-16, 21:55:44](https://news.ycombinator.com/item?id=37154414) - [Naomi Wu and the Silence That Speaks Volumes](https://www.hackingbutlegal.com/naomi-wu-and-the-silence-that-speaks-volumes/)
 * [2023-08-16, 21:53:20](https://news.ycombinator.com/item?id=37154395) - [MLIR For Beginners: A series of articles on the MLIR framework](https://github.com/j2kun/mlir-tutorial)
 * [2023-08-16, 21:31:10](https://news.ycombinator.com/item?id=37154138) - [Ubicloud – open, free and portable cloud](https://github.com/ubicloud/ubicloud)
-* [2023-08-16, 20:36:47](https://news.ycombinator.com/item?id=37153426) - [The Amazon Prime Day 2023 AWS Bill](https://www.lastweekinaws.com/blog/the-amazon-prime-day-2023-aws-bill/)
 * [2023-08-16, 20:17:37](https://news.ycombinator.com/item?id=37153121) - [Bringing Safety check to the Chrome://extensions page](https://developer.chrome.com/blog/extension-safety-hub/)
 * [2023-08-16, 20:08:12](https://news.ycombinator.com/item?id=37152978) - [Ts_zip: Text Compression Using Large Language Models](https://bellard.org/ts_server/ts_zip.html)
 * [2023-08-16, 19:30:55](https://news.ycombinator.com/item?id=37152397) - [Minimum Viable Secure Product](https://mvsp.dev/)
