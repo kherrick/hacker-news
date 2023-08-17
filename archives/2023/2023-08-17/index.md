@@ -6,6 +6,7 @@
 
 * [2023-08-17, 13:36:37](https://news.ycombinator.com/item?id=37161347) - [We Don’t Need a New Twitter](https://www.newyorker.com/culture/cultural-comment/we-dont-need-a-new-twitter)
 * [2023-08-17, 13:24:40](https://news.ycombinator.com/item?id=37161184) - [Show HN: Strich – Barcode scanning for web apps](https://strich.io)
+* [2023-08-17, 13:19:27](https://news.ycombinator.com/item?id=37161123) - [2024 Defense Bill Threatens Future of 3D-Printed Firearms and Basic Gun Rights](https://thefederalist.com/2023/08/09/the-2024-defense-bill-threatens-the-future-of-3d-printed-firearms-and-basic-gun-rights/)
 * [2023-08-17, 13:17:16](https://news.ycombinator.com/item?id=37161097) - [Google Chrome will summarize articles for you](https://blog.google/products/search/google-search-generative-ai-learning-features/)
 * [2023-08-17, 13:08:34](https://news.ycombinator.com/item?id=37160981) - [Faith Healers Are Back, and They’re Getting Rich](https://thewalrus.ca/faith-healers-are-back-and-theyre-getting-rich/)
 * [2023-08-17, 13:03:46](https://news.ycombinator.com/item?id=37160928) - [Driverless Car Gets Stuck in Wet Concrete in San Francisco](https://www.nytimes.com/2023/08/17/us/driverless-car-accident-sf.html)
