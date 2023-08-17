@@ -23,12 +23,12 @@
 * [2023-08-16, 21:53:20](https://news.ycombinator.com/item?id=37154395) - [MLIR For Beginners: A series of articles on the MLIR framework](https://github.com/j2kun/mlir-tutorial)
 * [2023-08-16, 21:31:10](https://news.ycombinator.com/item?id=37154138) - [Ubicloud – open, free and portable cloud](https://github.com/ubicloud/ubicloud)
 * [2023-08-16, 21:08:01](https://news.ycombinator.com/item?id=37153862) - [$HOME, not so sweet $HOME](https://gist.github.com/sharadhr/39b804236c1941e9c30d90af828ad41e)
-* [2023-08-16, 20:32:44](https://news.ycombinator.com/item?id=37153373) - [Anonfiles is shutting down](https://anonfiles.com/)
 * [2023-08-16, 17:48:43](https://news.ycombinator.com/item?id=37150843) - [Spinoza: Life and Legacy](https://thecritic.co.uk/issues/august-september-2023/a-brilliant-biography-of-an-elusive-genius/)
 * [2023-08-16, 16:17:17](https://news.ycombinator.com/item?id=37149349) - [LK-99 isn’t a superconductor](https://www.nature.com/articles/d41586-023-02585-7)
 * [2023-08-16, 14:01:22](https://news.ycombinator.com/item?id=37147140) - [Show HN: Marqo – Vectorless Vector Search](https://github.com/marqo-ai/marqo)
 * [2023-08-16, 10:51:23](https://news.ycombinator.com/item?id=37145195) - [The 8088 Prefetch Algorithm](https://martypc.blogspot.com/2023/08/the-8088-prefetch-algorithm.html)
 * [2023-08-16, 10:19:32](https://news.ycombinator.com/item?id=37144985) - [Htmx is part of the GitHub Accelerator](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
+* [2023-08-15, 19:18:12](https://news.ycombinator.com/item?id=37138083) - [An ancient solar flare illuminated the start of the Viking Age](https://www.sciencenews.org/article/viking-age-ancient-solar-flare-trade-archaeology)
 * [2023-08-15, 07:34:50](https://news.ycombinator.com/item?id=37131232) - [Shazam for Singing](https://blog.toasterthoughts.eu/posts/song-solver/)
 
 ## [Archives](archives/index.md)
