@@ -21,6 +21,7 @@
 * [2023-08-17, 15:28:39](https://news.ycombinator.com/item?id=37163187) - [Turmoil, a framework for developing and testing distributed systems](https://tokio.rs/blog/2023-01-03-announcing-turmoil)
 * [2023-08-17, 15:27:46](https://news.ycombinator.com/item?id=37163168) - [Mailgun: Public Security Disclosure](https://news.ycombinator.com/item?id=37163168)
 * [2023-08-17, 15:21:26](https://news.ycombinator.com/item?id=37163066) - [Students are submitting answers saying “I am an AI language model”](https://futurism.com/the-byte/students-answers-telltale-phrase)
+* [2023-08-17, 15:10:50](https://news.ycombinator.com/item?id=37162898) - [I am afraid to inform you that you have built a compiler (2022)](https://rachit.pl/post/you-have-built-a-compiler/)
 * [2023-08-17, 15:04:35](https://news.ycombinator.com/item?id=37162811) - [Three security teams just hacked a US Air Force satellite in space](https://www.space.com/satellite-hacking-hack-a-sat-competition-winners)
 * [2023-08-17, 15:02:10](https://news.ycombinator.com/item?id=37162774) - [A proposal for much faster aircraft exit – “Fill and Flush”](https://www.fillandflush.com)
 * [2023-08-17, 15:01:24](https://news.ycombinator.com/item?id=37162762) - [AMD Ryzen APU turned into a 16GB VRAM GPU and it can run Stable Diffusion](https://old.reddit.com/r/Amd/comments/15t0lsm/i_turned_a_95_amd_apu_into_a_16gb_vram_gpu_and_it/)

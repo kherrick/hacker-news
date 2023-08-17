@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-17, 18:05:20](https://news.ycombinator.com/item?id=37165697) - [Beautiful data visualization of the US stock market](https://marketmap.one)
-* [2023-08-17, 17:58:14](https://news.ycombinator.com/item?id=37165606) - [SQLite: the secret behind Apple's success? (humor)](https://www.contextualize.ai/mpereira/sqlite-the-secret-behind-apples-success-b9315c6c)
 * [2023-08-17, 17:22:21](https://news.ycombinator.com/item?id=37165119) - [Too Many Fonts in Windows 10 Can Cause Slow Application Starts](https://bigdanzblog.wordpress.com/2023/08/16/too-many-fonts-in-windows-10-can-cause-slow-application-starts/)
 * [2023-08-17, 17:07:21](https://news.ycombinator.com/item?id=37164864) - [Show HN: Shadeform – Single Platform and API for Provisioning GPUs](https://www.shadeform.ai/)
 * [2023-08-17, 16:55:36](https://news.ycombinator.com/item?id=37164650) - [Show HN: Not My Cows – Save your cows. Blast the meteors. Giddy up](https://notmycows.com/)
@@ -11,6 +10,7 @@
 * [2023-08-17, 16:27:26](https://news.ycombinator.com/item?id=37164155) - [Have you seen these dehumidifiers? Stop using them or you might die](https://www.theverge.com/2023/8/16/23835116/have-you-seen-these-dehumidifiers-stop-using-them-or-you-might-die)
 * [2023-08-17, 15:47:52](https://news.ycombinator.com/item?id=37163489) - [Straightforward Thai Railway Safety Posters](https://www.thaitrainguide.com/2022/06/10/railway-safety-posters/)
 * [2023-08-17, 15:28:39](https://news.ycombinator.com/item?id=37163187) - [Turmoil, a framework for developing and testing distributed systems](https://tokio.rs/blog/2023-01-03-announcing-turmoil)
+* [2023-08-17, 15:10:50](https://news.ycombinator.com/item?id=37162898) - [I am afraid to inform you that you have built a compiler (2022)](https://rachit.pl/post/you-have-built-a-compiler/)
 * [2023-08-17, 15:01:24](https://news.ycombinator.com/item?id=37162762) - [AMD Ryzen APU turned into a 16GB VRAM GPU and it can run Stable Diffusion](https://old.reddit.com/r/Amd/comments/15t0lsm/i_turned_a_95_amd_apu_into_a_16gb_vram_gpu_and_it/)
 * [2023-08-17, 13:43:45](https://news.ycombinator.com/item?id=37161441) - [The TextFX Project](https://textfx.withgoogle.com/)
 * [2023-08-17, 13:17:16](https://news.ycombinator.com/item?id=37161097) - [Learn as you search (and browse) using generative AI](https://blog.google/products/search/google-search-generative-ai-learning-features/)
