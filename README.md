@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-17, 19:48:31](https://news.ycombinator.com/item?id=37166986) - [Ancient Fires Drove Large Mammals Extinct, Study Suggests](https://www.nytimes.com/2023/08/17/science/climate-paleontology-mammals.html)
 * [2023-08-17, 19:07:45](https://news.ycombinator.com/item?id=37166478) - [JobCorps.Gov: free job training, food, housing and living allowance](https://www.jobcorps.gov/)
 * [2023-08-17, 18:24:03](https://news.ycombinator.com/item?id=37165933) - [SpaceX Revenue Doubled to $4.6B in 2022 Versus 2021](https://www.wsj.com/tech/behind-the-curtain-of-elon-musks-secretive-spacex-revenue-growth-and-rising-costs-2c828e2b)
 * [2023-08-17, 18:06:44](https://news.ycombinator.com/item?id=37165713) - [Policy Engines: Open Policy Agent vs. AWS Cedar vs. Google Zanzibar](https://www.permit.io/blog/policy-engines)
@@ -10,7 +11,7 @@
 * [2023-08-17, 16:55:36](https://news.ycombinator.com/item?id=37164650) - [Show HN: Not My Cows – Save your cows. Blast the meteors. Giddy up](https://notmycows.com/)
 * [2023-08-17, 16:31:56](https://news.ycombinator.com/item?id=37164243) - [My resignation letter as R7RS-large chair](https://groups.google.com/g/scheme-reports-wg2/c/xGd0_eeKmGI/m/q-xM5fbuAQAJ)
 * [2023-08-17, 16:27:26](https://news.ycombinator.com/item?id=37164155) - [1.56M dehumidifiers recalled due to fire and burn hazards](https://www.theverge.com/2023/8/16/23835116/have-you-seen-these-dehumidifiers-stop-using-them-or-you-might-die)
-* [2023-08-17, 15:47:52](https://news.ycombinator.com/item?id=37163489) - [Straightforward Thai Railway Safety Posters](https://www.thaitrainguide.com/2022/06/10/railway-safety-posters/)
+* [2023-08-17, 15:47:52](https://news.ycombinator.com/item?id=37163489) - [Railway Safety Posters (2022)](https://www.thaitrainguide.com/2022/06/10/railway-safety-posters/)
 * [2023-08-17, 15:28:39](https://news.ycombinator.com/item?id=37163187) - [Turmoil, a framework for developing and testing distributed systems](https://tokio.rs/blog/2023-01-03-announcing-turmoil)
 * [2023-08-17, 15:10:50](https://news.ycombinator.com/item?id=37162898) - [I am afraid to inform you that you have built a compiler (2022)](https://rachit.pl/post/you-have-built-a-compiler/)
 * [2023-08-17, 15:01:24](https://news.ycombinator.com/item?id=37162762) - [AMD Ryzen APU turned into a 16GB VRAM GPU and it can run Stable Diffusion](https://old.reddit.com/r/Amd/comments/15t0lsm/i_turned_a_95_amd_apu_into_a_16gb_vram_gpu_and_it/)
@@ -25,11 +26,10 @@
 * [2023-08-17, 07:33:35](https://news.ycombinator.com/item?id=37158398) - [Getting a job at Apple without going to college or doing LeetCode](https://aheze.substack.com/p/getting-a-job-at-apple-without-going)
 * [2023-08-17, 07:21:40](https://news.ycombinator.com/item?id=37158317) - [DIY Espresso (2020)](https://www.fourbardesign.com/2020/10/diy-espresso.html)
 * [2023-08-17, 06:46:30](https://news.ycombinator.com/item?id=37158068) - [Dart 3.1 and a retrospective on functional style programming in Dart](https://medium.com/dartlang/dart-3-1-a-retrospective-on-functional-style-programming-in-dart-3-a1f4b3a7cdda)
-* [2023-08-17, 05:19:31](https://news.ycombinator.com/item?id=37157552) - [A world to win: WebAssembly for the rest of us](https://wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
 * [2023-08-16, 16:17:17](https://news.ycombinator.com/item?id=37149349) - [LK-99 isn’t a superconductor](https://www.nature.com/articles/d41586-023-02585-7)
 * [2023-08-16, 14:56:18](https://news.ycombinator.com/item?id=37148062) - [Fred Fish (Fish Disks)](https://en.wikipedia.org/wiki/Fred_Fish)
-* [2023-08-16, 07:55:39](https://news.ycombinator.com/item?id=37143995) - [Tackling the Weaknesses of BertScore](https://docs.confident-ai.com/docs/metrics/bertscore)
 * [2023-08-16, 03:21:50](https://news.ycombinator.com/item?id=37142513) - [Learning via Negativa](https://matt-rickard.com/learning-via-negativa)
+* [2023-08-15, 23:39:30](https://news.ycombinator.com/item?id=37140831) - [Bali rice experiment cuts greenhouse gas emissions and increases yields](https://news.mongabay.com/2023/08/bali-rice-experiment-cuts-greenhouse-gas-emissions-and-increases-yields/)
 
 ## [Archives](archives/index.md)
 

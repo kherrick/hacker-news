@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
 * [2023-08-15, 23:46:12](https://news.ycombinator.com/item?id=37140883) - [You don't hate Jira, you hate your manager](https://jarvispowered.com/you-dont-hate-jira-you-hate-your-manager/)
+* [2023-08-15, 23:39:30](https://news.ycombinator.com/item?id=37140831) - [Bali rice experiment cuts greenhouse gas emissions and increases yields](https://news.mongabay.com/2023/08/bali-rice-experiment-cuts-greenhouse-gas-emissions-and-increases-yields/)
 * [2023-08-15, 23:36:59](https://news.ycombinator.com/item?id=37140806) - [Google Deprecates Google Domains, Sells It to Squarespace](https://support.google.com/domains/answer/13689670?hl=en)
 * [2023-08-15, 23:32:33](https://news.ycombinator.com/item?id=37140762) - [American stocks are at their most expensive in decades](https://www.economist.com/finance-and-economics/2023/08/10/american-stocks-are-at-their-most-expensive-in-decades)
 * [2023-08-15, 23:26:02](https://news.ycombinator.com/item?id=37140681) - [Ted's Notes on Pawpaws](https://toyrus.ngrok.io/~ted/pawpaws/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-17](index.md)
 
+* [2023-08-17, 19:48:31](https://news.ycombinator.com/item?id=37166986) - [Ancient Fires Drove Large Mammals Extinct, Study Suggests](https://www.nytimes.com/2023/08/17/science/climate-paleontology-mammals.html)
 * [2023-08-17, 19:07:45](https://news.ycombinator.com/item?id=37166478) - [JobCorps.Gov: free job training, food, housing and living allowance](https://www.jobcorps.gov/)
 * [2023-08-17, 18:24:03](https://news.ycombinator.com/item?id=37165933) - [SpaceX Revenue Doubled to $4.6B in 2022 Versus 2021](https://www.wsj.com/tech/behind-the-curtain-of-elon-musks-secretive-spacex-revenue-growth-and-rising-costs-2c828e2b)
 * [2023-08-17, 18:06:44](https://news.ycombinator.com/item?id=37165713) - [Policy Engines: Open Policy Agent vs. AWS Cedar vs. Google Zanzibar](https://www.permit.io/blog/policy-engines)
