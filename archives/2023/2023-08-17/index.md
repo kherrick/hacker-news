@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-17](index.md)
 
+* [2023-08-17, 15:56:58](https://news.ycombinator.com/item?id=37163684) - [Older mouse brains rejuvenated by protein found in young blood](https://www.nature.com/articles/d41586-023-02563-z)
+* [2023-08-17, 15:47:52](https://news.ycombinator.com/item?id=37163489) - [Straightforward Thai Railway Safety Posters](https://www.thaitrainguide.com/2022/06/10/railway-safety-posters/)
+* [2023-08-17, 15:28:39](https://news.ycombinator.com/item?id=37163187) - [Turmoil, a framework for developing and testing distributed systems](https://tokio.rs/blog/2023-01-03-announcing-turmoil)
 * [2023-08-17, 15:27:46](https://news.ycombinator.com/item?id=37163168) - [Mailgun: Public Security Disclosure](https://news.ycombinator.com/item?id=37163168)
 * [2023-08-17, 15:21:26](https://news.ycombinator.com/item?id=37163066) - [Students are submitting answers saying “I am an AI language model”](https://futurism.com/the-byte/students-answers-telltale-phrase)
 * [2023-08-17, 15:04:35](https://news.ycombinator.com/item?id=37162811) - [Three security teams just hacked a US Air Force satellite in space](https://www.space.com/satellite-hacking-hack-a-sat-competition-winners)
