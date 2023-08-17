@@ -7,6 +7,7 @@
 * [2023-08-17, 18:05:20](https://news.ycombinator.com/item?id=37165697) - [Beautiful data visualization of the US stock market](https://marketmap.one)
 * [2023-08-17, 17:58:14](https://news.ycombinator.com/item?id=37165606) - [SQLite: the secret behind Apple's success? (humor)](https://www.contextualize.ai/mpereira/sqlite-the-secret-behind-apples-success-b9315c6c)
 * [2023-08-17, 17:22:21](https://news.ycombinator.com/item?id=37165119) - [Too Many Fonts in Windows 10 Can Cause Slow Application Starts](https://bigdanzblog.wordpress.com/2023/08/16/too-many-fonts-in-windows-10-can-cause-slow-application-starts/)
+* [2023-08-17, 17:18:08](https://news.ycombinator.com/item?id=37165042) - [A Guide to Undefined Behavior in C and C++](https://blog.regehr.org/archives/213)
 * [2023-08-17, 17:07:21](https://news.ycombinator.com/item?id=37164864) - [Show HN: Shadeform – Single Platform and API for Provisioning GPUs](https://www.shadeform.ai/)
 * [2023-08-17, 16:55:36](https://news.ycombinator.com/item?id=37164650) - [Show HN: Not My Cows – Save your cows. Blast the meteors. Giddy up](https://notmycows.com/)
 * [2023-08-17, 16:45:16](https://news.ycombinator.com/item?id=37164452) - [Adyen Plummets as Sales Miss Erases $20B of Market Value](https://finance.yahoo.com/news/adyen-plunges-20-hiring-inflation-072432744.html)

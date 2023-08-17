@@ -2,6 +2,7 @@
 
 * [2023-08-17, 18:05:20](https://news.ycombinator.com/item?id=37165697) - [Beautiful data visualization of the US stock market](https://marketmap.one)
 * [2023-08-17, 17:22:21](https://news.ycombinator.com/item?id=37165119) - [Too Many Fonts in Windows 10 Can Cause Slow Application Starts](https://bigdanzblog.wordpress.com/2023/08/16/too-many-fonts-in-windows-10-can-cause-slow-application-starts/)
+* [2023-08-17, 17:18:08](https://news.ycombinator.com/item?id=37165042) - [A Guide to Undefined Behavior in C and C++](https://blog.regehr.org/archives/213)
 * [2023-08-17, 17:07:21](https://news.ycombinator.com/item?id=37164864) - [Show HN: Shadeform – Single Platform and API for Provisioning GPUs](https://www.shadeform.ai/)
 * [2023-08-17, 16:55:36](https://news.ycombinator.com/item?id=37164650) - [Show HN: Not My Cows – Save your cows. Blast the meteors. Giddy up](https://notmycows.com/)
 * [2023-08-17, 16:45:16](https://news.ycombinator.com/item?id=37164452) - [Adyen Plummets as Sales Miss Erases $20B of Market Value](https://finance.yahoo.com/news/adyen-plunges-20-hiring-inflation-072432744.html)
@@ -19,8 +20,7 @@
 * [2023-08-17, 12:02:34](https://news.ycombinator.com/item?id=37160314) - [UpCodes (YC S17) is hiring fullstack engineers to help make cheaper buildings](https://up.codes/careers)
 * [2023-08-17, 10:51:56](https://news.ycombinator.com/item?id=37159744) - [Mullvad Browser](https://blog.torproject.org/releasing-mullvad-browser/)
 * [2023-08-17, 10:39:52](https://news.ycombinator.com/item?id=37159680) - [Asteroid crater 520km in diameter buried in southeast Australia, scientists say](https://www.australiangeographic.com.au/topics/science-environment/2023/08/asteroid-crater-520km-in-diameter-buried-deep-in-southeast-australia-scientists-say/)
-* [2023-08-17, 08:38:30](https://news.ycombinator.com/item?id=37158827) - [Software Engineering Lessons from RCAs of greatest disasters](https://anoopdixith.com/disasters/)
-* [2023-08-17, 08:23:22](https://news.ycombinator.com/item?id=37158710) - [Petition to stop France from forcing browsers like Firefox to censor websites](https://foundation.mozilla.org/en/campaigns/sign-our-petition-to-stop-france-from-forcing-browsers-like-mozillas-firefox-to-censor-websites/)
+* [2023-08-17, 08:38:30](https://news.ycombinator.com/item?id=37158827) - [Software engineering lessons from RCAs of greatest disasters](https://anoopdixith.com/disasters/)
 * [2023-08-17, 07:33:35](https://news.ycombinator.com/item?id=37158398) - [Getting a job at Apple without going to college or doing LeetCode](https://aheze.substack.com/p/getting-a-job-at-apple-without-going)
 * [2023-08-17, 07:21:40](https://news.ycombinator.com/item?id=37158317) - [DIY Espresso (2020)](https://www.fourbardesign.com/2020/10/diy-espresso.html)
 * [2023-08-17, 06:46:30](https://news.ycombinator.com/item?id=37158068) - [Dart 3.1 and a retrospective on functional style programming in Dart](https://medium.com/dartlang/dart-3-1-a-retrospective-on-functional-style-programming-in-dart-3-a1f4b3a7cdda)
