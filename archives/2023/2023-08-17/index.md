@@ -12,6 +12,7 @@
 * [2023-08-17, 05:19:31](https://news.ycombinator.com/item?id=37157552) - [A world to win: WebAssembly for the rest of us](https://wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
 * [2023-08-17, 04:42:38](https://news.ycombinator.com/item?id=37157323) - [DeepEval – Unit Testing for LLMs](https://github.com/mr-gpt/deepeval)
 * [2023-08-17, 04:09:12](https://news.ycombinator.com/item?id=37157084) - [Do Cartels Exist? A revisionist view of the drug wars](https://harpers.org/archive/2023/07/do-cartels-exist-revisionist-view-of-the-drug-wars/)
+* [2023-08-17, 03:33:41](https://news.ycombinator.com/item?id=37156842) - [Mastermind Solver](https://stefanabikaram.com/blog/mastermind-solver/)
 * [2023-08-17, 03:22:30](https://news.ycombinator.com/item?id=37156763) - [1834: The First Cyberattack (2017)](https://www.economist.com/1843/2017/10/05/the-crooked-timber-of-humanity)
 * [2023-08-17, 03:11:36](https://news.ycombinator.com/item?id=37156696) - [NP-hard does not mean hard (2017)](https://jeremykun.com/2017/12/29/np-hard-does-not-mean-hard/)
 * [2023-08-17, 02:57:01](https://news.ycombinator.com/item?id=37156617) - [Homeowner arrested after trying to evict squatters from his own property](https://nypost.com/2023/08/16/homeowner-arrested-after-trying-to-evict-squatters-from-his-house/)

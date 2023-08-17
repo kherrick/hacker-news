@@ -6,6 +6,7 @@
 * [2023-08-17, 06:46:30](https://news.ycombinator.com/item?id=37158068) - [Dart 3.1 and a retrospective on functional style programming in Dart](https://medium.com/dartlang/dart-3-1-a-retrospective-on-functional-style-programming-in-dart-3-a1f4b3a7cdda)
 * [2023-08-17, 06:33:18](https://news.ycombinator.com/item?id=37157989) - [New York Times considers legal action against OpenAI as copyright tensions swirl](https://text.npr.org/1194202562)
 * [2023-08-17, 05:19:31](https://news.ycombinator.com/item?id=37157552) - [A world to win: WebAssembly for the rest of us](https://wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
+* [2023-08-17, 03:33:41](https://news.ycombinator.com/item?id=37156842) - [Mastermind Solver](https://stefanabikaram.com/blog/mastermind-solver/)
 * [2023-08-17, 03:11:36](https://news.ycombinator.com/item?id=37156696) - [NP-hard does not mean hard (2017)](https://jeremykun.com/2017/12/29/np-hard-does-not-mean-hard/)
 * [2023-08-17, 02:53:23](https://news.ycombinator.com/item?id=37156592) - [Zed: Leveraging Data Types to Process Eclectic Data [pdf]](https://www.cidrdb.org/cidr2023/papers/p52-ousterhout.pdf)
 * [2023-08-17, 02:24:57](https://news.ycombinator.com/item?id=37156425) - [Poland’s ‘anti-vampire’ graves](https://www.atlasobscura.com/articles/anti-vampire-graves-poland)
@@ -27,7 +28,6 @@
 * [2023-08-16, 17:48:43](https://news.ycombinator.com/item?id=37150843) - [Spinoza: Life and Legacy](https://thecritic.co.uk/issues/august-september-2023/a-brilliant-biography-of-an-elusive-genius/)
 * [2023-08-16, 16:17:17](https://news.ycombinator.com/item?id=37149349) - [LK-99 isn’t a superconductor](https://www.nature.com/articles/d41586-023-02585-7)
 * [2023-08-16, 14:01:22](https://news.ycombinator.com/item?id=37147140) - [Show HN: Marqo – Vectorless Vector Search](https://github.com/marqo-ai/marqo)
-* [2023-08-16, 10:19:32](https://news.ycombinator.com/item?id=37144985) - [Htmx is part of the GitHub Accelerator](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
 * [2023-08-15, 11:16:45](https://news.ycombinator.com/item?id=37132510) - [What learning APL taught me about Python](https://mathspp.com/blog/what-learning-apl-taught-me-about-python)
 * [2023-08-15, 07:34:50](https://news.ycombinator.com/item?id=37131232) - [Shazam for Singing](https://blog.toasterthoughts.eu/posts/song-solver/)
 
