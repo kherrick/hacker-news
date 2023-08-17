@@ -6,6 +6,7 @@
 
 * [2023-08-17, 21:19:16](https://news.ycombinator.com/item?id=37168243) - [YouTube Ads May Have Led to Online Tracking of Children, Research Says](https://www.nytimes.com/2023/08/17/technology/youtube-google-children-privacy.html)
 * [2023-08-17, 21:11:46](https://news.ycombinator.com/item?id=37168142) - [“Green Smoothie Cleanse” Causing Acute Oxalate Nephropathy](https://pubmed.ncbi.nlm.nih.gov/29203127/)
+* [2023-08-17, 20:54:34](https://news.ycombinator.com/item?id=37167922) - [How the Army tried and failed to build a bicycle corps (2020)](https://www.armytimes.com/news/your-army/2020/02/25/how-the-army-tried-and-failed-to-build-a-bicycle-corps/)
 * [2023-08-17, 20:48:15](https://news.ycombinator.com/item?id=37167835) - [Most React components offered by products aren’t usable](https://blog.dopt.com/why-our-components-are-different)
 * [2023-08-17, 20:39:58](https://news.ycombinator.com/item?id=37167698) - [RoboAgent: A universal agent with 12 Skills](https://robopen.github.io/)
 * [2023-08-17, 20:03:13](https://news.ycombinator.com/item?id=37167185) - [Fresh evidence of ChatGPT’s political bias revealed by comprehensive new study](https://www.uea.ac.uk/news/-/article/fresh-evidence-of-chatgpts-political-bias-revealed-by-comprehensive-new-study)
