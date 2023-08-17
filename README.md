@@ -17,6 +17,7 @@
 * [2023-08-16, 22:52:56](https://news.ycombinator.com/item?id=37154939) - [Intel QuickAssist Technology Zstandard Plugin for Zstandard](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-QuickAssist-Technology-Zstandard-Plugin-an-External/post/1509818)
 * [2023-08-16, 21:53:20](https://news.ycombinator.com/item?id=37154395) - [MLIR For Beginners: A series of articles on the MLIR framework](https://github.com/j2kun/mlir-tutorial)
 * [2023-08-16, 21:31:10](https://news.ycombinator.com/item?id=37154138) - [Ubicloud – open, free and portable cloud](https://github.com/ubicloud/ubicloud)
+* [2023-08-16, 21:18:42](https://news.ycombinator.com/item?id=37153985) - [‘The Extraordinary Journey of David Ingram’ by Dean Snow Review](https://www.historytoday.com/archive/review/extraordinary-journey-david-ingram-dean-snow-review)
 * [2023-08-16, 21:08:01](https://news.ycombinator.com/item?id=37153862) - [$HOME, not so sweet $HOME](https://gist.github.com/sharadhr/39b804236c1941e9c30d90af828ad41e)
 * [2023-08-16, 20:32:44](https://news.ycombinator.com/item?id=37153373) - [Anonfiles is shutting down](https://anonfiles.com/)
 * [2023-08-16, 20:08:12](https://news.ycombinator.com/item?id=37152978) - [Ts_zip: Text Compression Using Large Language Models](https://bellard.org/ts_server/ts_zip.html)
@@ -27,7 +28,6 @@
 * [2023-08-16, 16:59:28](https://news.ycombinator.com/item?id=37150000) - [The Mathematics of Training LLMs](https://www.latent.space/p/transformers-math#details)
 * [2023-08-16, 16:17:17](https://news.ycombinator.com/item?id=37149349) - [LK-99 isn’t a superconductor](https://www.nature.com/articles/d41586-023-02585-7)
 * [2023-08-16, 10:51:23](https://news.ycombinator.com/item?id=37145195) - [The 8088 Prefetch Algorithm](https://martypc.blogspot.com/2023/08/the-8088-prefetch-algorithm.html)
-* [2023-08-16, 10:19:32](https://news.ycombinator.com/item?id=37144985) - [Htmx is part of the GitHub Accelerator](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
 * [2023-08-15, 11:16:45](https://news.ycombinator.com/item?id=37132510) - [What learning APL taught me about Python](https://mathspp.com/blog/what-learning-apl-taught-me-about-python)
 * [2023-08-15, 07:34:50](https://news.ycombinator.com/item?id=37131232) - [Shazam for Singing](https://blog.toasterthoughts.eu/posts/song-solver/)
 
