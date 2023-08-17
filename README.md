@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-17, 08:38:30](https://news.ycombinator.com/item?id=37158827) - [Software Engineering Lessons from RCAs of greatest disasters](https://anoopdixith.com/disasters/)
 * [2023-08-17, 07:33:35](https://news.ycombinator.com/item?id=37158398) - [Getting a job at Apple without going to college or doing LeetCode](https://aheze.substack.com/p/getting-a-job-at-apple-without-going)
 * [2023-08-17, 07:21:40](https://news.ycombinator.com/item?id=37158317) - [DIY Espresso (2020)](https://www.fourbardesign.com/2020/10/diy-espresso.html)
 * [2023-08-17, 06:46:30](https://news.ycombinator.com/item?id=37158068) - [Dart 3.1 and a retrospective on functional style programming in Dart](https://medium.com/dartlang/dart-3-1-a-retrospective-on-functional-style-programming-in-dart-3-a1f4b3a7cdda)
 * [2023-08-17, 06:33:18](https://news.ycombinator.com/item?id=37157989) - [New York Times considers legal action against OpenAI as copyright tensions swirl](https://text.npr.org/1194202562)
 * [2023-08-17, 05:19:31](https://news.ycombinator.com/item?id=37157552) - [A world to win: WebAssembly for the rest of us](https://wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
-* [2023-08-17, 04:42:38](https://news.ycombinator.com/item?id=37157323) - [DeepEval – Unit Testing for LLMs](https://github.com/mr-gpt/deepeval)
 * [2023-08-17, 03:11:36](https://news.ycombinator.com/item?id=37156696) - [NP-hard does not mean hard (2017)](https://jeremykun.com/2017/12/29/np-hard-does-not-mean-hard/)
 * [2023-08-17, 02:53:23](https://news.ycombinator.com/item?id=37156592) - [Zed: Leveraging Data Types to Process Eclectic Data [pdf]](https://www.cidrdb.org/cidr2023/papers/p52-ousterhout.pdf)
 * [2023-08-17, 02:24:57](https://news.ycombinator.com/item?id=37156425) - [Poland’s ‘anti-vampire’ graves](https://www.atlasobscura.com/articles/anti-vampire-graves-poland)
