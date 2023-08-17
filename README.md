@@ -2,12 +2,12 @@
 
 * [2023-08-17, 09:44:26](https://news.ycombinator.com/item?id=37159338) - [Managing Difficult Software Engineers](https://vadimkravcenko.com/shorts/managing-bad-engineers/)
 * [2023-08-17, 08:38:30](https://news.ycombinator.com/item?id=37158827) - [Software Engineering Lessons from RCAs of greatest disasters](https://anoopdixith.com/disasters/)
+* [2023-08-17, 08:27:30](https://news.ycombinator.com/item?id=37158745) - [We Ruined Status LEDs; Here’s Why That Needs to Change](https://hackaday.com/2020/02/20/we-ruined-status-leds-heres-why-that-needs-to-change/)
 * [2023-08-17, 07:21:40](https://news.ycombinator.com/item?id=37158317) - [DIY Espresso (2020)](https://www.fourbardesign.com/2020/10/diy-espresso.html)
 * [2023-08-17, 06:46:30](https://news.ycombinator.com/item?id=37158068) - [Dart 3.1 and a retrospective on functional style programming in Dart](https://medium.com/dartlang/dart-3-1-a-retrospective-on-functional-style-programming-in-dart-3-a1f4b3a7cdda)
 * [2023-08-17, 05:19:31](https://news.ycombinator.com/item?id=37157552) - [A world to win: WebAssembly for the rest of us](https://wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
 * [2023-08-17, 04:42:38](https://news.ycombinator.com/item?id=37157323) - [DeepEval – Unit Testing for LLMs](https://github.com/mr-gpt/deepeval)
 * [2023-08-17, 03:33:41](https://news.ycombinator.com/item?id=37156842) - [Mastermind Solver](https://stefanabikaram.com/blog/mastermind-solver/)
-* [2023-08-17, 03:11:36](https://news.ycombinator.com/item?id=37156696) - [NP-hard does not mean hard (2017)](https://jeremykun.com/2017/12/29/np-hard-does-not-mean-hard/)
 * [2023-08-17, 02:24:57](https://news.ycombinator.com/item?id=37156425) - [Poland’s ‘anti-vampire’ graves](https://www.atlasobscura.com/articles/anti-vampire-graves-poland)
 * [2023-08-17, 02:18:15](https://news.ycombinator.com/item?id=37156373) - [A search for technosignatures around nearby stars](https://arxiv.org/abs/2308.02712)
 * [2023-08-17, 02:18:00](https://news.ycombinator.com/item?id=37156372) - [Ask HN: Any interesting books you have read lately?](https://news.ycombinator.com/item?id=37156372)
