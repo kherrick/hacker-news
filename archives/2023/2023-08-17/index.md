@@ -6,7 +6,9 @@
 
 * [2023-08-17, 20:03:13](https://news.ycombinator.com/item?id=37167185) - [Fresh evidence of ChatGPT’s political bias revealed by comprehensive new study](https://www.uea.ac.uk/news/-/article/fresh-evidence-of-chatgpts-political-bias-revealed-by-comprehensive-new-study)
 * [2023-08-17, 19:48:31](https://news.ycombinator.com/item?id=37166986) - [Ancient Fires Drove Large Mammals Extinct, Study Suggests](https://www.nytimes.com/2023/08/17/science/climate-paleontology-mammals.html)
+* [2023-08-17, 19:44:47](https://news.ycombinator.com/item?id=37166946) - [How to Communicate When Trust Is Low Without Digging Yourself into a Deeper Hole](https://charity.wtf/2023/08/17/how-to-communicate-when-trust-is-low-without-digging-yourself-into-a-deeper-hole/)
 * [2023-08-17, 19:40:41](https://news.ycombinator.com/item?id=37166885) - [Private equity firm announces a purchase offer with the intent to delist SUSE](https://www.suse.com/news/EQT-announces-voluntary-public-purchase-offer-and-intention-to-delist-SUSE/)
+* [2023-08-17, 19:40:32](https://news.ycombinator.com/item?id=37166880) - [Consensus: Use AI to find insights in research papers](https://consensus.app/)
 * [2023-08-17, 19:07:45](https://news.ycombinator.com/item?id=37166478) - [JobCorps.Gov: free job training, food, housing and living allowance](https://www.jobcorps.gov/)
 * [2023-08-17, 18:52:03](https://news.ycombinator.com/item?id=37166287) - [People are starting a lot of fires in the Pacific Northwest](https://www.hcn.org/articles/wildfire-people-are-starting-a-lot-of-fires-in-the-pacific-northwest)
 * [2023-08-17, 18:24:03](https://news.ycombinator.com/item?id=37165933) - [SpaceX Revenue Doubled to $4.6B in 2022 Versus 2021](https://www.wsj.com/tech/behind-the-curtain-of-elon-musks-secretive-spacex-revenue-growth-and-rising-costs-2c828e2b)
