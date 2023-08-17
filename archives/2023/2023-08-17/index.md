@@ -15,6 +15,7 @@
 * [2023-08-17, 03:11:36](https://news.ycombinator.com/item?id=37156696) - [NP-hard does not mean hard (2017)](https://jeremykun.com/2017/12/29/np-hard-does-not-mean-hard/)
 * [2023-08-17, 02:57:01](https://news.ycombinator.com/item?id=37156617) - [Homeowner arrested after trying to evict squatters from his own property](https://nypost.com/2023/08/16/homeowner-arrested-after-trying-to-evict-squatters-from-his-house/)
 * [2023-08-17, 02:54:43](https://news.ycombinator.com/item?id=37156603) - [Harvard Tells Grad Students to Get Food Stamps](https://www.vice.com/en/article/93kwaa/harvard-tells-grad-students-to-get-food-stamps-to-supplement-the-unlivable-wages-it-pays-them)
+* [2023-08-17, 02:53:23](https://news.ycombinator.com/item?id=37156592) - [Zed: Leveraging Data Types to Process Eclectic Data [pdf]](https://www.cidrdb.org/cidr2023/papers/p52-ousterhout.pdf)
 * [2023-08-17, 02:36:58](https://news.ycombinator.com/item?id=37156496) - [The Princeton Companion to Mathematics [pdf]](https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf)
 * [2023-08-17, 02:24:57](https://news.ycombinator.com/item?id=37156425) - [Poland’s ‘anti-vampire’ graves](https://www.atlasobscura.com/articles/anti-vampire-graves-poland)
 * [2023-08-17, 02:18:15](https://news.ycombinator.com/item?id=37156373) - [A Search for Technosignatures Around 11,680 Nearby Stars](https://arxiv.org/abs/2308.02712)
