@@ -1,26 +1,6 @@
 [
   [
     [
-      "2023-08-17, 15:27:46",
-      "https://news.ycombinator.com/item?id=37163168"
-    ],
-    [
-      "Mailgun: Public Security Disclosure",
-      "https://news.ycombinator.com/item?id=37163168"
-    ]
-  ],
-  [
-    [
-      "2023-08-17, 15:21:26",
-      "https://news.ycombinator.com/item?id=37163066"
-    ],
-    [
-      "Students are submitting answers saying “I am an AI language model”",
-      "https://futurism.com/the-byte/students-answers-telltale-phrase"
-    ]
-  ],
-  [
-    [
       "2023-08-17, 15:04:35",
       "https://news.ycombinator.com/item?id=37162811"
     ],
@@ -121,6 +101,16 @@
   ],
   [
     [
+      "2023-08-17, 12:40:02",
+      "https://news.ycombinator.com/item?id=37160657"
+    ],
+    [
+      "Microsoft will let you uninstall more built-in Win 11 apps soon for less bloat",
+      "https://www.theverge.com/2023/8/17/23835550/microsoft-windows-11-uninstall-built-in-inbox-apps"
+    ]
+  ],
+  [
+    [
       "2023-08-17, 12:31:39",
       "https://news.ycombinator.com/item?id=37160580"
     ],
@@ -167,6 +157,16 @@
     [
       "Asteroid crater 520km in diameter buried in southeast Australia, scientists say",
       "https://www.australiangeographic.com.au/topics/science-environment/2023/08/asteroid-crater-520km-in-diameter-buried-deep-in-southeast-australia-scientists-say/"
+    ]
+  ],
+  [
+    [
+      "2023-08-17, 09:44:26",
+      "https://news.ycombinator.com/item?id=37159338"
+    ],
+    [
+      "Managing difficult software engineers",
+      "https://vadimkravcenko.com/shorts/managing-bad-engineers/"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=37155657"
     ],
     [
-      "A charged battery won't bounce but partially discharged one will (2015) [video]",
+      "A simple way to test the charge level on alkaline batteries (2015) [video]",
       "https://www.youtube.com/watch?v=nwfFBUVxpac"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=37131232"
     ],
     [
-      "Shazam for Singing",
+      "Shazam for singing",
       "https://blog.toasterthoughts.eu/posts/song-solver/"
     ]
   ]
