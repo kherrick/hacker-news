@@ -19,4 +19,5 @@
 * [2023-08-17, 01:19:13](https://news.ycombinator.com/item?id=37155969) - [StarFive VisionFive 2 Quad-Core RISC-V Performance Benchmarks](https://www.phoronix.com/review/visionfive2-riscv-benchmarks)
 * [2023-08-17, 01:16:48](https://news.ycombinator.com/item?id=37155957) - [Tape Storage Might Be Computing’s Climate Savior](https://spectrum.ieee.org/tape-storage-sustainable-option)
 * [2023-08-17, 00:42:50](https://news.ycombinator.com/item?id=37155752) - [Captain Zilog Crushed: The Story of the Z8000](https://thechipletter.substack.com/p/captain-zilog-crushed-the-story-of)
+* [2023-08-17, 00:25:46](https://news.ycombinator.com/item?id=37155657) - [A charged battery won't bounce but partially discharged one will (2015) [video]](https://www.youtube.com/watch?v=nwfFBUVxpac)
 * [2023-08-17, 00:12:48](https://news.ycombinator.com/item?id=37155574) - [QR codes appearing in Google street view?](https://nso.group/@haifisch/110901720830132689#.)
