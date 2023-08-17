@@ -6,7 +6,6 @@
 * [2023-08-17, 20:03:13](https://news.ycombinator.com/item?id=37167185) - [Fresh evidence of ChatGPT’s political bias: study](https://www.uea.ac.uk/news/-/article/fresh-evidence-of-chatgpts-political-bias-revealed-by-comprehensive-new-study)
 * [2023-08-17, 19:48:31](https://news.ycombinator.com/item?id=37166986) - [Ancient fires drove large mammals extinct, study suggests](https://www.nytimes.com/2023/08/17/science/climate-paleontology-mammals.html)
 * [2023-08-17, 19:44:47](https://news.ycombinator.com/item?id=37166946) - [How to Communicate When Trust Is Low Without Digging Yourself into a Deeper Hole](https://charity.wtf/2023/08/17/how-to-communicate-when-trust-is-low-without-digging-yourself-into-a-deeper-hole/)
-* [2023-08-17, 19:40:41](https://news.ycombinator.com/item?id=37166885) - [Private equity firm announces a purchase offer with the intent to delist SUSE](https://www.suse.com/news/EQT-announces-voluntary-public-purchase-offer-and-intention-to-delist-SUSE/)
 * [2023-08-17, 19:40:32](https://news.ycombinator.com/item?id=37166880) - [Consensus: Use AI to find insights in research papers](https://consensus.app/)
 * [2023-08-17, 19:07:45](https://news.ycombinator.com/item?id=37166478) - [JobCorps.Gov: free job training, food, housing and living allowance](https://www.jobcorps.gov/)
 * [2023-08-17, 18:44:10](https://news.ycombinator.com/item?id=37166181) - [Going back to the old (pre-X) Twitter iOS app](https://blog.gingerbeardman.com/2023/08/17/going-back-to-the-old-pre-x-twitter-ios-app/)
@@ -29,6 +28,7 @@
 * [2023-08-17, 10:39:52](https://news.ycombinator.com/item?id=37159680) - [Asteroid crater 520km in diameter buried in southeast Australia, scientists say](https://www.australiangeographic.com.au/topics/science-environment/2023/08/asteroid-crater-520km-in-diameter-buried-deep-in-southeast-australia-scientists-say/)
 * [2023-08-17, 07:02:54](https://news.ycombinator.com/item?id=37158188) - [What I learned after managing a small team for 2 years](https://luispcosta.com/managing-small-team)
 * [2023-08-16, 14:56:18](https://news.ycombinator.com/item?id=37148062) - [Fred Fish (Fish Disks)](https://en.wikipedia.org/wiki/Fred_Fish)
+* [2023-08-16, 11:04:48](https://news.ycombinator.com/item?id=37145275) - [UltiSnips – Snippet Solution for Vim](https://github.com/SirVer/ultisnips)
 * [2023-08-15, 23:39:30](https://news.ycombinator.com/item?id=37140831) - [Bali rice experiment cuts greenhouse gas emissions and increases yields](https://news.mongabay.com/2023/08/bali-rice-experiment-cuts-greenhouse-gas-emissions-and-increases-yields/)
 
 ## [Archives](archives/index.md)
