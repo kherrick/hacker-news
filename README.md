@@ -2,7 +2,6 @@
 
 * [2023-08-17, 16:55:36](https://news.ycombinator.com/item?id=37164650) - [Show HN: Not My Cows – Save your cows. Blast the meteors. Giddy up](https://notmycows.com/)
 * [2023-08-17, 16:45:16](https://news.ycombinator.com/item?id=37164452) - [Adyen Plummets as Sales Miss Erases $20B of Market Value](https://finance.yahoo.com/news/adyen-plunges-20-hiring-inflation-072432744.html)
-* [2023-08-17, 16:44:28](https://news.ycombinator.com/item?id=37164446) - [Close to half of American adults favor TikTok ban, Reuters/Ipsos poll shows](https://www.reuters.com/technology/close-half-americans-favor-tiktok-ban-reutersipsos-poll-2023-08-16/)
 * [2023-08-17, 16:31:56](https://news.ycombinator.com/item?id=37164243) - [My resignation letter as R7RS-large chair](https://groups.google.com/g/scheme-reports-wg2/c/xGd0_eeKmGI/m/q-xM5fbuAQAJ)
 * [2023-08-17, 16:28:16](https://news.ycombinator.com/item?id=37164173) - [YOLO-Driven Development Manifesto](https://andersoncardoso.github.io/ydd/)
 * [2023-08-17, 16:27:26](https://news.ycombinator.com/item?id=37164155) - [Have you seen these dehumidifiers? Stop using them or you might die](https://www.theverge.com/2023/8/16/23835116/have-you-seen-these-dehumidifiers-stop-using-them-or-you-might-die)
@@ -24,6 +23,7 @@
 * [2023-08-17, 07:21:40](https://news.ycombinator.com/item?id=37158317) - [DIY Espresso (2020)](https://www.fourbardesign.com/2020/10/diy-espresso.html)
 * [2023-08-17, 06:46:30](https://news.ycombinator.com/item?id=37158068) - [Dart 3.1 and a retrospective on functional style programming in Dart](https://medium.com/dartlang/dart-3-1-a-retrospective-on-functional-style-programming-in-dart-3-a1f4b3a7cdda)
 * [2023-08-17, 05:19:31](https://news.ycombinator.com/item?id=37157552) - [A world to win: WebAssembly for the rest of us](https://wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
+* [2023-08-17, 03:11:36](https://news.ycombinator.com/item?id=37156696) - [NP-hard does not mean hard (2017)](https://jeremykun.com/2017/12/29/np-hard-does-not-mean-hard/)
 * [2023-08-17, 02:24:57](https://news.ycombinator.com/item?id=37156425) - [Poland’s ‘anti-vampire’ graves](https://www.atlasobscura.com/articles/anti-vampire-graves-poland)
 * [2023-08-17, 02:18:15](https://news.ycombinator.com/item?id=37156373) - [A search for technosignatures around nearby stars](https://arxiv.org/abs/2308.02712)
 * [2023-08-17, 00:25:46](https://news.ycombinator.com/item?id=37155657) - [A simple way to test the charge level on alkaline batteries (2015) [video]](https://www.youtube.com/watch?v=nwfFBUVxpac)
