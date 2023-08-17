@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-17, 13:08:34](https://news.ycombinator.com/item?id=37160981) - [Faith Healers Are Back, and They’re Getting Rich](https://thewalrus.ca/faith-healers-are-back-and-theyre-getting-rich/)
 * [2023-08-17, 13:03:46](https://news.ycombinator.com/item?id=37160928) - [Driverless Car Gets Stuck in Wet Concrete in San Francisco](https://www.nytimes.com/2023/08/17/us/driverless-car-accident-sf.html)
 * [2023-08-17, 12:47:16](https://news.ycombinator.com/item?id=37160744) - [AI bots are now better than humans at decoding CAPTCHAs](https://qz.com/ai-bots-recaptcha-turing-test-websites-authenticity-1850734350)
 * [2023-08-17, 12:43:02](https://news.ycombinator.com/item?id=37160696) - [Amazon's overcomplicated new product star ratings are no bright idea](https://www.androidpolice.com/amazon-tests-new-star-ratings/)
@@ -28,6 +27,7 @@
 * [2023-08-16, 22:52:56](https://news.ycombinator.com/item?id=37154939) - [Intel QuickAssist Technology Zstandard Plugin for Zstandard](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-QuickAssist-Technology-Zstandard-Plugin-an-External/post/1509818)
 * [2023-08-16, 17:48:43](https://news.ycombinator.com/item?id=37150843) - [Spinoza: Life and Legacy](https://thecritic.co.uk/issues/august-september-2023/a-brilliant-biography-of-an-elusive-genius/)
 * [2023-08-16, 16:17:17](https://news.ycombinator.com/item?id=37149349) - [LK-99 isn’t a superconductor](https://www.nature.com/articles/d41586-023-02585-7)
+* [2023-08-16, 14:01:22](https://news.ycombinator.com/item?id=37147140) - [Show HN: Marqo – Vectorless Vector Search](https://github.com/marqo-ai/marqo)
 * [2023-08-16, 10:19:32](https://news.ycombinator.com/item?id=37144985) - [Htmx is part of the GitHub Accelerator](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
 * [2023-08-15, 07:34:50](https://news.ycombinator.com/item?id=37131232) - [Shazam for Singing](https://blog.toasterthoughts.eu/posts/song-solver/)
 
