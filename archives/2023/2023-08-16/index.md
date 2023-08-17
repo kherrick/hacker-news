@@ -111,6 +111,7 @@
 * [2023-08-16, 04:35:16](https://news.ycombinator.com/item?id=37142912) - [The Collateral Damage of A.D.H.D. Drug Shortages](https://www.nytimes.com/2023/08/15/well/mind/adhd-adderall-shortage-children.html)
 * [2023-08-16, 04:28:18](https://news.ycombinator.com/item?id=37142890) - [What do I think about Community Notes?(Vitalik Buterin)](https://vitalik.eth.limo/general/2023/08/16/communitynotes.html)
 * [2023-08-16, 04:00:52](https://news.ycombinator.com/item?id=37142725) - [In Defense of Describable Dating Preferences](https://astralcodexten.substack.com/p/in-defense-of-describable-dating)
+* [2023-08-16, 03:21:50](https://news.ycombinator.com/item?id=37142513) - [Learning via Negativa](https://matt-rickard.com/learning-via-negativa)
 * [2023-08-16, 03:06:18](https://news.ycombinator.com/item?id=37142426) - [Diligere, Equity-Invest Are New Firms of U.K. Con Man](https://krebsonsecurity.com/2023/08/diligere-equity-invest-are-new-firms-of-u-k-con-man/)
 * [2023-08-16, 03:04:29](https://news.ycombinator.com/item?id=37142415) - [SpaceX takes another step toward launching Starship again](https://arstechnica.com/space/2023/08/let-the-review-begin-spacex-takes-another-step-toward-launching-starship-again/)
 * [2023-08-16, 03:00:40](https://news.ycombinator.com/item?id=37142388) - [NetMaker: Connect Everything with a WireGuard VPN](https://www.netmaker.io/)
