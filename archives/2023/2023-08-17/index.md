@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-17](index.md)
 
+* [2023-08-17, 15:04:35](https://news.ycombinator.com/item?id=37162811) - [Three security teams just hacked a US Air Force satellite in space](https://www.space.com/satellite-hacking-hack-a-sat-competition-winners)
+* [2023-08-17, 15:01:24](https://news.ycombinator.com/item?id=37162762) - [AMD Ryzen APU turned into a 16GB VRAM GPU and it can run Stable Diffusion](https://old.reddit.com/r/Amd/comments/15t0lsm/i_turned_a_95_amd_apu_into_a_16gb_vram_gpu_and_it/)
+* [2023-08-17, 13:43:45](https://news.ycombinator.com/item?id=37161441) - [The TextFX Project by Google](https://textfx.withgoogle.com/)
 * [2023-08-17, 13:36:37](https://news.ycombinator.com/item?id=37161347) - [We Don’t Need a New Twitter](https://www.newyorker.com/culture/cultural-comment/we-dont-need-a-new-twitter)
 * [2023-08-17, 13:24:40](https://news.ycombinator.com/item?id=37161184) - [Show HN: Strich – Barcode scanning for web apps](https://strich.io)
 * [2023-08-17, 13:19:27](https://news.ycombinator.com/item?id=37161123) - [2024 Defense Bill Threatens Future of 3D-Printed Firearms and Basic Gun Rights](https://thefederalist.com/2023/08/09/the-2024-defense-bill-threatens-the-future-of-3d-printed-firearms-and-basic-gun-rights/)
