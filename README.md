@@ -24,7 +24,7 @@
 * [2023-08-16, 16:59:28](https://news.ycombinator.com/item?id=37150000) - [The Mathematics of Training LLMs](https://www.latent.space/p/transformers-math#details)
 * [2023-08-16, 16:17:17](https://news.ycombinator.com/item?id=37149349) - [LK-99 isn’t a superconductor](https://www.nature.com/articles/d41586-023-02585-7)
 * [2023-08-16, 15:24:15](https://news.ycombinator.com/item?id=37148520) - [Exercising at a VR Gym](https://sfstandard.com/2023/08/06/san-francisco-black-box-virtual-reality-gym/)
-* [2023-08-16, 11:00:14](https://news.ycombinator.com/item?id=37145243) - [Why I stopped taking photographs almost altogether](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-08-15/Serendipity)
+* [2023-08-16, 11:22:01](https://news.ycombinator.com/item?id=37145400) - [Slogtest](https://telemachus.me/slogtest)
 * [2023-08-16, 10:51:23](https://news.ycombinator.com/item?id=37145195) - [The 8088 Prefetch Algorithm](https://martypc.blogspot.com/2023/08/the-8088-prefetch-algorithm.html)
 * [2023-08-16, 10:19:32](https://news.ycombinator.com/item?id=37144985) - [Htmx is part of the GitHub Accelerator](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
 * [2023-08-15, 19:18:12](https://news.ycombinator.com/item?id=37138083) - [An ancient solar flare illuminated the start of the Viking Age](https://www.sciencenews.org/article/viking-age-ancient-solar-flare-trade-archaeology)
