@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-17](index.md)
 
+* [2023-08-17, 13:08:34](https://news.ycombinator.com/item?id=37160981) - [Faith Healers Are Back, and They’re Getting Rich](https://thewalrus.ca/faith-healers-are-back-and-theyre-getting-rich/)
+* [2023-08-17, 13:03:46](https://news.ycombinator.com/item?id=37160928) - [Driverless Car Gets Stuck in Wet Concrete in San Francisco](https://www.nytimes.com/2023/08/17/us/driverless-car-accident-sf.html)
 * [2023-08-17, 12:47:16](https://news.ycombinator.com/item?id=37160744) - [AI bots are now better than humans at decoding CAPTCHAs](https://qz.com/ai-bots-recaptcha-turing-test-websites-authenticity-1850734350)
 * [2023-08-17, 12:43:02](https://news.ycombinator.com/item?id=37160696) - [Amazon's overcomplicated new product star ratings are no bright idea](https://www.androidpolice.com/amazon-tests-new-star-ratings/)
 * [2023-08-17, 12:41:23](https://news.ycombinator.com/item?id=37160677) - [Israeli Researchers Produce Green Hydrogen with 90% Efficiency](https://www.autoevolution.com/news/israeli-researchers-produce-green-hydrogen-with-90-efficiency-without-electrolysis-218644.html)
@@ -11,6 +13,7 @@
 * [2023-08-17, 12:31:39](https://news.ycombinator.com/item?id=37160580) - [Debian Celebrates 30 Years](https://bits.debian.org/2023/08/debian-turns-30.html)
 * [2023-08-17, 12:02:34](https://news.ycombinator.com/item?id=37160314) - [UpCodes (YC S17) is hiring fullstack engineers to help make cheaper buildings](https://up.codes/careers)
 * [2023-08-17, 11:12:45](https://news.ycombinator.com/item?id=37159887) - [Fusion Foolery](https://dothemath.ucsd.edu/2023/08/fusion-foolery/)
+* [2023-08-17, 10:51:56](https://news.ycombinator.com/item?id=37159744) - [We've Teamed Up with Mullvad VPN to Launch the Mullvad Browser](https://blog.torproject.org/releasing-mullvad-browser/)
 * [2023-08-17, 10:39:52](https://news.ycombinator.com/item?id=37159680) - [Asteroid crater 520km in diameter buried deep in southeast Australia](https://www.australiangeographic.com.au/topics/science-environment/2023/08/asteroid-crater-520km-in-diameter-buried-deep-in-southeast-australia-scientists-say/)
 * [2023-08-17, 09:44:26](https://news.ycombinator.com/item?id=37159338) - [Managing Difficult Software Engineers](https://vadimkravcenko.com/shorts/managing-bad-engineers/)
 * [2023-08-17, 08:38:30](https://news.ycombinator.com/item?id=37158827) - [Software Engineering Lessons from RCAs of greatest disasters](https://anoopdixith.com/disasters/)
