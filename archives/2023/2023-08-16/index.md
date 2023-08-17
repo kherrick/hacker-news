@@ -36,6 +36,7 @@
 * [2023-08-16, 18:30:19](https://news.ycombinator.com/item?id=37151553) - [The DeSantis Campaign Texted Me with a Large Language Model](https://nalanj.dev/posts/desantis-campaign-sms-llm/)
 * [2023-08-16, 18:21:20](https://news.ycombinator.com/item?id=37151391) - [Transpiler, a Meaningless Word](https://rachit.pl/post/transpiler/)
 * [2023-08-16, 18:16:38](https://news.ycombinator.com/item?id=37151308) - [New York City bans TikTok for government employees](https://www.engadget.com/new-york-city-bans-tiktok-for-government-employees-174806575.html)
+* [2023-08-16, 18:16:17](https://news.ycombinator.com/item?id=37151301) - [George Eliot on what an author leaves behind besides her books](https://www.laphamsquarterly.org/roundtable/repugnance-autobiography)
 * [2023-08-16, 18:11:40](https://news.ycombinator.com/item?id=37151220) - [Windows feature that resets system clocks based on random data is wreaking havoc](https://arstechnica.com/security/2023/08/windows-feature-that-resets-system-clocks-based-on-random-data-is-wreaking-havoc/)
 * [2023-08-16, 17:58:27](https://news.ycombinator.com/item?id=37150986) - [Ask HN: What are some self-hosted photo organizing/sharing programs?](https://news.ycombinator.com/item?id=37150986)
 * [2023-08-16, 17:56:59](https://news.ycombinator.com/item?id=37150962) - [Radio operator exposure to RF/microwave radiation and the risk of brain tumors](https://pubmed.ncbi.nlm.nih.gov/16873421/)
