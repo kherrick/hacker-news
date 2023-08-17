@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-17, 13:03:46](https://news.ycombinator.com/item?id=37160928) - [Driverless Car Gets Stuck in Wet Concrete in San Francisco](https://www.nytimes.com/2023/08/17/us/driverless-car-accident-sf.html)
+* [2023-08-17, 13:36:37](https://news.ycombinator.com/item?id=37161347) - [We Don’t Need a New Twitter](https://www.newyorker.com/culture/cultural-comment/we-dont-need-a-new-twitter)
+* [2023-08-17, 13:24:40](https://news.ycombinator.com/item?id=37161184) - [Show HN: Strich – Barcode scanning for web apps](https://strich.io)
 * [2023-08-17, 12:47:16](https://news.ycombinator.com/item?id=37160744) - [AI bots are now better than humans at decoding CAPTCHAs](https://qz.com/ai-bots-recaptcha-turing-test-websites-authenticity-1850734350)
 * [2023-08-17, 12:43:02](https://news.ycombinator.com/item?id=37160696) - [Amazon's overcomplicated new product star ratings are no bright idea](https://www.androidpolice.com/amazon-tests-new-star-ratings/)
 * [2023-08-17, 12:41:23](https://news.ycombinator.com/item?id=37160677) - [Israeli Researchers Produce Green Hydrogen with 90% Efficiency](https://www.autoevolution.com/news/israeli-researchers-produce-green-hydrogen-with-90-efficiency-without-electrolysis-218644.html)
@@ -23,7 +24,6 @@
 * [2023-08-17, 00:25:46](https://news.ycombinator.com/item?id=37155657) - [A charged battery won't bounce but partially discharged one will (2015) [video]](https://www.youtube.com/watch?v=nwfFBUVxpac)
 * [2023-08-17, 00:12:48](https://news.ycombinator.com/item?id=37155574) - [QR codes appearing in Google street view?](https://nso.group/@haifisch/110901720830132689#.)
 * [2023-08-16, 23:28:17](https://news.ycombinator.com/item?id=37155241) - [How to Produce Green Hydrogen for $1/Kg](https://terraformindustries.wordpress.com/2023/08/16/how-to-produce-green-hydrogen-for-1-kg/)
-* [2023-08-16, 23:08:11](https://news.ycombinator.com/item?id=37155080) - [Open Challenges in LLM Research](https://huyenchip.com/2023/08/16/llm-research-open-challenges.html)
 * [2023-08-16, 22:52:56](https://news.ycombinator.com/item?id=37154939) - [Intel QuickAssist Technology Zstandard Plugin for Zstandard](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-QuickAssist-Technology-Zstandard-Plugin-an-External/post/1509818)
 * [2023-08-16, 17:48:43](https://news.ycombinator.com/item?id=37150843) - [Spinoza: Life and Legacy](https://thecritic.co.uk/issues/august-september-2023/a-brilliant-biography-of-an-elusive-genius/)
 * [2023-08-16, 16:17:17](https://news.ycombinator.com/item?id=37149349) - [LK-99 isn’t a superconductor](https://www.nature.com/articles/d41586-023-02585-7)
