@@ -12,7 +12,6 @@
 * [2023-08-17, 02:18:15](https://news.ycombinator.com/item?id=37156373) - [A search for technosignatures around nearby stars](https://arxiv.org/abs/2308.02712)
 * [2023-08-17, 02:18:00](https://news.ycombinator.com/item?id=37156372) - [Ask HN: Any interesting books you have read lately?](https://news.ycombinator.com/item?id=37156372)
 * [2023-08-17, 02:13:25](https://news.ycombinator.com/item?id=37156337) - [Unit: A visual programming system [video]](https://www.youtube.com/watch?v=lvvzolKHt2E)
-* [2023-08-17, 01:16:48](https://news.ycombinator.com/item?id=37155957) - [Tape Storage Might Be Computing’s Climate Savior](https://spectrum.ieee.org/tape-storage-sustainable-option)
 * [2023-08-17, 00:42:50](https://news.ycombinator.com/item?id=37155752) - [Captain Zilog Crushed: The Story of the Z8000](https://thechipletter.substack.com/p/captain-zilog-crushed-the-story-of)
 * [2023-08-17, 00:25:46](https://news.ycombinator.com/item?id=37155657) - [A charged battery won't bounce but partially discharged one will (2015) [video]](https://www.youtube.com/watch?v=nwfFBUVxpac)
 * [2023-08-17, 00:12:48](https://news.ycombinator.com/item?id=37155574) - [QR codes appearing in Google street view?](https://nso.group/@haifisch/110901720830132689#.)
@@ -28,6 +27,7 @@
 * [2023-08-16, 17:48:43](https://news.ycombinator.com/item?id=37150843) - [Spinoza: Life and Legacy](https://thecritic.co.uk/issues/august-september-2023/a-brilliant-biography-of-an-elusive-genius/)
 * [2023-08-16, 16:17:17](https://news.ycombinator.com/item?id=37149349) - [LK-99 isn’t a superconductor](https://www.nature.com/articles/d41586-023-02585-7)
 * [2023-08-16, 14:01:22](https://news.ycombinator.com/item?id=37147140) - [Show HN: Marqo – Vectorless Vector Search](https://github.com/marqo-ai/marqo)
+* [2023-08-16, 10:19:32](https://news.ycombinator.com/item?id=37144985) - [Htmx is part of the GitHub Accelerator](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
 * [2023-08-15, 11:16:45](https://news.ycombinator.com/item?id=37132510) - [What learning APL taught me about Python](https://mathspp.com/blog/what-learning-apl-taught-me-about-python)
 * [2023-08-15, 07:34:50](https://news.ycombinator.com/item?id=37131232) - [Shazam for Singing](https://blog.toasterthoughts.eu/posts/song-solver/)
 
