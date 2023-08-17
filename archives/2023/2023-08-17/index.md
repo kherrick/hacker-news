@@ -7,6 +7,7 @@
 * [2023-08-17, 12:47:16](https://news.ycombinator.com/item?id=37160744) - [AI bots are now better than humans at decoding CAPTCHAs](https://qz.com/ai-bots-recaptcha-turing-test-websites-authenticity-1850734350)
 * [2023-08-17, 12:43:02](https://news.ycombinator.com/item?id=37160696) - [Amazon's overcomplicated new product star ratings are no bright idea](https://www.androidpolice.com/amazon-tests-new-star-ratings/)
 * [2023-08-17, 12:41:23](https://news.ycombinator.com/item?id=37160677) - [Israeli Researchers Produce Green Hydrogen with 90% Efficiency](https://www.autoevolution.com/news/israeli-researchers-produce-green-hydrogen-with-90-efficiency-without-electrolysis-218644.html)
+* [2023-08-17, 12:39:44](https://news.ycombinator.com/item?id=37160651) - [Cellphone Radiation Is Harmful, but Few Want to Believe It](https://neurosciencenews.com/cellphone-radiation-brain-cancer-18889/)
 * [2023-08-17, 12:31:39](https://news.ycombinator.com/item?id=37160580) - [Debian Celebrates 30 Years](https://bits.debian.org/2023/08/debian-turns-30.html)
 * [2023-08-17, 12:02:34](https://news.ycombinator.com/item?id=37160314) - [UpCodes (YC S17) is hiring fullstack engineers to help make cheaper buildings](https://up.codes/careers)
 * [2023-08-17, 11:12:45](https://news.ycombinator.com/item?id=37159887) - [Fusion Foolery](https://dothemath.ucsd.edu/2023/08/fusion-foolery/)
