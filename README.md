@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-17, 21:19:16](https://news.ycombinator.com/item?id=37168243) - [YouTube Ads May Have Led to Online Tracking of Children, Research Says](https://www.nytimes.com/2023/08/17/technology/youtube-google-children-privacy.html)
 * [2023-08-17, 21:11:46](https://news.ycombinator.com/item?id=37168142) - [“Green Smoothie Cleanse” Causing Acute Oxalate Nephropathy](https://pubmed.ncbi.nlm.nih.gov/29203127/)
 * [2023-08-17, 20:48:15](https://news.ycombinator.com/item?id=37167835) - [Most React components offered by products aren’t usable](https://blog.dopt.com/why-our-components-are-different)
 * [2023-08-17, 20:39:58](https://news.ycombinator.com/item?id=37167698) - [RoboAgent: A universal agent with 12 Skills](https://robopen.github.io/)
@@ -18,7 +19,6 @@
 * [2023-08-17, 16:27:26](https://news.ycombinator.com/item?id=37164155) - [1.56M dehumidifiers recalled due to fire and burn hazards](https://www.theverge.com/2023/8/16/23835116/have-you-seen-these-dehumidifiers-stop-using-them-or-you-might-die)
 * [2023-08-17, 16:15:29](https://news.ycombinator.com/item?id=37163980) - [Fuzz testing: the best thing to happen to our application tests](https://questdb.io/blog/fuzz-testing-questdb/)
 * [2023-08-17, 16:03:23](https://news.ycombinator.com/item?id=37163784) - [Why does email development have to suck? – Explaining all the <tr>'s and <td>'s](https://dodov.dev/blog/why-does-email-development-have-to-suck)
-* [2023-08-17, 15:47:52](https://news.ycombinator.com/item?id=37163489) - [Railway Safety Posters (2022)](https://www.thaitrainguide.com/2022/06/10/railway-safety-posters/)
 * [2023-08-17, 15:28:39](https://news.ycombinator.com/item?id=37163187) - [Turmoil, a framework for developing and testing distributed systems](https://tokio.rs/blog/2023-01-03-announcing-turmoil)
 * [2023-08-17, 15:10:50](https://news.ycombinator.com/item?id=37162898) - [I am afraid to inform you that you have built a compiler (2022)](https://rachit.pl/post/you-have-built-a-compiler/)
 * [2023-08-17, 15:02:10](https://news.ycombinator.com/item?id=37162774) - [The Fill and Flush deplaning method](https://www.fillandflush.com)
