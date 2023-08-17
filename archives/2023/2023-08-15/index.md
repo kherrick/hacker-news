@@ -70,6 +70,7 @@
 * [2023-08-15, 12:16:10](https://news.ycombinator.com/item?id=37133023) - [Why Darwin admired the humble earthworm](https://nautil.us/why-darwin-admired-the-humble-earthworm-361515/)
 * [2023-08-15, 12:13:02](https://news.ycombinator.com/item?id=37132994) - [Acoustics expert brings rock-and-roll touch to sound of St. Peter's](https://cruxnow.com/vatican/2023/08/acoustics-expert-brings-rock-and-roll-touch-to-sound-of-st-peters)
 * [2023-08-15, 12:00:12](https://news.ycombinator.com/item?id=37132855) - [Metriport (YC S22) Is Hiring](https://www.ycombinator.com/companies/metriport/jobs/jsOCunE-software-engineer)
+* [2023-08-15, 11:52:20](https://news.ycombinator.com/item?id=37132791) - [Sharing data types on a multi-language project](https://mortoray.com/sharing-data-types-on-a-multilanguage-project/)
 * [2023-08-15, 11:47:44](https://news.ycombinator.com/item?id=37132754) - [Show HN: Visual Reference to CSS Selectors](https://fffuel.co/css-selectors/)
 * [2023-08-15, 11:34:26](https://news.ycombinator.com/item?id=37132651) - [Show HN: Servicer, pm2 alternative built on rust and systemd](https://servicer.dev)
 * [2023-08-15, 11:16:45](https://news.ycombinator.com/item?id=37132510) - [What Learning APL Taught Me About Python](https://mathspp.com/blog/what-learning-apl-taught-me-about-python)
