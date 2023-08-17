@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-08-17, 12:39:44",
-      "https://news.ycombinator.com/item?id=37160651"
-    ],
-    [
-      "Cellphone Radiation Is Harmful, but Few Want to Believe It",
-      "https://neurosciencenews.com/cellphone-radiation-brain-cancer-18889/"
-    ]
-  ],
-  [
-    [
       "2023-08-17, 12:31:39",
       "https://news.ycombinator.com/item?id=37160580"
     ],
@@ -137,6 +127,16 @@
     [
       "Dart 3.1 and a retrospective on functional style programming in Dart",
       "https://medium.com/dartlang/dart-3-1-a-retrospective-on-functional-style-programming-in-dart-3-a1f4b3a7cdda"
+    ]
+  ],
+  [
+    [
+      "2023-08-17, 04:42:38",
+      "https://news.ycombinator.com/item?id=37157323"
+    ],
+    [
+      "DeepEval – Unit Testing for LLMs",
+      "https://github.com/mr-gpt/deepeval"
     ]
   ],
   [
