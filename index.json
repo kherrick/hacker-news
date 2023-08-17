@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-17, 12:47:16",
+      "https://news.ycombinator.com/item?id=37160744"
+    ],
+    [
+      "AI bots are now better than humans at decoding CAPTCHAs",
+      "https://qz.com/ai-bots-recaptcha-turing-test-websites-authenticity-1850734350"
+    ]
+  ],
+  [
+    [
+      "2023-08-17, 12:43:02",
+      "https://news.ycombinator.com/item?id=37160696"
+    ],
+    [
+      "Amazon's overcomplicated new product star ratings are no bright idea",
+      "https://www.androidpolice.com/amazon-tests-new-star-ratings/"
+    ]
+  ],
+  [
+    [
       "2023-08-17, 12:41:23",
       "https://news.ycombinator.com/item?id=37160677"
     ],
@@ -97,16 +117,6 @@
     [
       "Dart 3.1 and a retrospective on functional style programming in Dart",
       "https://medium.com/dartlang/dart-3-1-a-retrospective-on-functional-style-programming-in-dart-3-a1f4b3a7cdda"
-    ]
-  ],
-  [
-    [
-      "2023-08-17, 05:19:31",
-      "https://news.ycombinator.com/item?id=37157552"
-    ],
-    [
-      "A world to win: WebAssembly for the rest of us",
-      "https://wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Intel QuickAssist Technology Zstandard Plugin for Zstandard",
       "https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-QuickAssist-Technology-Zstandard-Plugin-an-External/post/1509818"
-    ]
-  ],
-  [
-    [
-      "2023-08-16, 21:53:20",
-      "https://news.ycombinator.com/item?id=37154395"
-    ],
-    [
-      "MLIR For Beginners: A series of articles on the MLIR framework",
-      "https://github.com/j2kun/mlir-tutorial"
     ]
   ],
   [
