@@ -20,7 +20,7 @@
 * [2023-08-16, 20:08:12](https://news.ycombinator.com/item?id=37152978) - [Ts_zip: Text Compression Using Large Language Models](https://bellard.org/ts_server/ts_zip.html)
 * [2023-08-16, 19:30:55](https://news.ycombinator.com/item?id=37152397) - [Minimum Viable Secure Product](https://mvsp.dev/)
 * [2023-08-16, 19:13:04](https://news.ycombinator.com/item?id=37152136) - [Casio G-Shock time sync radio](https://gshock.casio.com/intl/technology/radio/)
-* [2023-08-16, 18:16:17](https://news.ycombinator.com/item?id=37151301) - [George Eliot on what an author leaves behind besides her books](https://www.laphamsquarterly.org/roundtable/repugnance-autobiography)
+* [2023-08-16, 18:16:17](https://news.ycombinator.com/item?id=37151301) - [A Repugnance to Autobiography](https://www.laphamsquarterly.org/roundtable/repugnance-autobiography)
 * [2023-08-16, 17:48:43](https://news.ycombinator.com/item?id=37150843) - [Spinoza: Life and Legacy](https://thecritic.co.uk/issues/august-september-2023/a-brilliant-biography-of-an-elusive-genius/)
 * [2023-08-16, 17:45:44](https://news.ycombinator.com/item?id=37150787) - [Firezone (YC W22) is hiring a systems engineer](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-systems-engineer)
 * [2023-08-16, 16:59:28](https://news.ycombinator.com/item?id=37150000) - [The Mathematics of Training LLMs](https://www.latent.space/p/transformers-math#details)
