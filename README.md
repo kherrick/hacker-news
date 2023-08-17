@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-17, 06:46:30](https://news.ycombinator.com/item?id=37158068) - [Dart 3.1 and a retrospective on functional style programming in Dart](https://medium.com/dartlang/dart-3-1-a-retrospective-on-functional-style-programming-in-dart-3-a1f4b3a7cdda)
 * [2023-08-17, 06:33:18](https://news.ycombinator.com/item?id=37157989) - [New York Times considers legal action against OpenAI as copyright tensions swirl](https://text.npr.org/1194202562)
 * [2023-08-17, 05:19:31](https://news.ycombinator.com/item?id=37157552) - [A world to win: WebAssembly for the rest of us](https://wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
 * [2023-08-17, 04:42:38](https://news.ycombinator.com/item?id=37157323) - [DeepEval – Unit Testing for LLMs](https://github.com/mr-gpt/deepeval)
@@ -27,7 +28,6 @@
 * [2023-08-16, 16:59:28](https://news.ycombinator.com/item?id=37150000) - [The Mathematics of Training LLMs](https://www.latent.space/p/transformers-math#details)
 * [2023-08-16, 16:17:17](https://news.ycombinator.com/item?id=37149349) - [LK-99 isn’t a superconductor](https://www.nature.com/articles/d41586-023-02585-7)
 * [2023-08-16, 10:51:23](https://news.ycombinator.com/item?id=37145195) - [The 8088 Prefetch Algorithm](https://martypc.blogspot.com/2023/08/the-8088-prefetch-algorithm.html)
-* [2023-08-16, 10:19:32](https://news.ycombinator.com/item?id=37144985) - [Htmx is part of the GitHub Accelerator](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
 * [2023-08-15, 11:16:45](https://news.ycombinator.com/item?id=37132510) - [What learning APL taught me about Python](https://mathspp.com/blog/what-learning-apl-taught-me-about-python)
 * [2023-08-15, 07:34:50](https://news.ycombinator.com/item?id=37131232) - [Shazam for Singing](https://blog.toasterthoughts.eu/posts/song-solver/)
 
