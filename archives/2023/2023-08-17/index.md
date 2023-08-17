@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-17](index.md)
 
+* [2023-08-17, 07:21:40](https://news.ycombinator.com/item?id=37158317) - [DIY Espresso (2020)](https://www.fourbardesign.com/2020/10/diy-espresso.html)
 * [2023-08-17, 06:46:30](https://news.ycombinator.com/item?id=37158068) - [Dart 3.1 and a retrospective on functional style programming in Dart](https://medium.com/dartlang/dart-3-1-a-retrospective-on-functional-style-programming-in-dart-3-a1f4b3a7cdda)
 * [2023-08-17, 06:33:18](https://news.ycombinator.com/item?id=37157989) - [New York Times considers legal action against OpenAI as copyright tensions swirl](https://text.npr.org/1194202562)
 * [2023-08-17, 05:19:31](https://news.ycombinator.com/item?id=37157552) - [A world to win: WebAssembly for the rest of us](https://wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us)
@@ -14,6 +15,7 @@
 * [2023-08-17, 02:57:01](https://news.ycombinator.com/item?id=37156617) - [Homeowner arrested after trying to evict squatters from his own property](https://nypost.com/2023/08/16/homeowner-arrested-after-trying-to-evict-squatters-from-his-house/)
 * [2023-08-17, 02:54:43](https://news.ycombinator.com/item?id=37156603) - [Harvard Tells Grad Students to Get Food Stamps](https://www.vice.com/en/article/93kwaa/harvard-tells-grad-students-to-get-food-stamps-to-supplement-the-unlivable-wages-it-pays-them)
 * [2023-08-17, 02:36:58](https://news.ycombinator.com/item?id=37156496) - [The Princeton Companion to Mathematics [pdf]](https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf)
+* [2023-08-17, 02:24:57](https://news.ycombinator.com/item?id=37156425) - [Poland’s ‘anti-vampire’ graves](https://www.atlasobscura.com/articles/anti-vampire-graves-poland)
 * [2023-08-17, 02:18:15](https://news.ycombinator.com/item?id=37156373) - [A Search for Technosignatures Around 11,680 Nearby Stars](https://arxiv.org/abs/2308.02712)
 * [2023-08-17, 02:18:00](https://news.ycombinator.com/item?id=37156372) - [Ask HN: Any interesting books you have read lately?](https://news.ycombinator.com/item?id=37156372)
 * [2023-08-17, 02:13:25](https://news.ycombinator.com/item?id=37156337) - [Unit (Visual Programming System) [video]](https://www.youtube.com/watch?v=lvvzolKHt2E)
