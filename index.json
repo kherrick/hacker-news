@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-08-18, 15:04:35",
+      "https://news.ycombinator.com/item?id=37176666"
+    ],
+    [
+      "Microsoft's backwards compatibility is insane",
+      "https://twitter.com/mikko/status/1692503249595584526"
+    ]
+  ],
+  [
+    [
       "2023-08-18, 14:56:34",
       "https://news.ycombinator.com/item?id=37176555"
     ],
     [
       "Revealed: WHO aspartame safety panel linked to alleged Coca-Cola front group",
       "https://www.theguardian.com/business/2023/aug/17/who-panel-aspartame-diet-coke-guidelines"
+    ]
+  ],
+  [
+    [
+      "2023-08-18, 14:47:24",
+      "https://news.ycombinator.com/item?id=37176393"
+    ],
+    [
+      "Driverless Cruise car collides with SF fire truck, injuring passenger",
+      "https://abc7news.com/cruise-driverless-car-sffd-fire-truck-accident/13666936/"
     ]
   ],
   [
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2023-08-18, 12:40:12",
-      "https://news.ycombinator.com/item?id=37174838"
-    ],
-    [
-      "Update Complete: U.S. Nuclear Weapons No Longer Need Floppy Disks (2019)",
-      "https://www.nytimes.com/2019/10/24/us/nuclear-weapons-floppy-disks.html"
-    ]
-  ],
-  [
-    [
       "2023-08-18, 12:31:42",
       "https://news.ycombinator.com/item?id=37174758"
     ],
@@ -97,16 +107,6 @@
     [
       "Textual: Rapid Application Development Framework for Python",
       "https://github.com/Textualize/textual"
-    ]
-  ],
-  [
-    [
-      "2023-08-18, 12:02:46",
-      "https://news.ycombinator.com/item?id=37174488"
-    ],
-    [
-      "Firefox 117 Beta 8 vs. Google Chrome 116 Linux Browser Performance",
-      "https://www.phoronix.com/news/Firefox-117-Chrome-116-Bench"
     ]
   ],
   [
@@ -147,6 +147,16 @@
     [
       "WTF is going on with R7RS Large?",
       "http://dpk.io/r7rswtf"
+    ]
+  ],
+  [
+    [
+      "2023-08-18, 08:33:25",
+      "https://news.ycombinator.com/item?id=37172815"
+    ],
+    [
+      "Career advice for young system programmers",
+      "https://glaubercosta-11125.medium.com/career-advice-for-young-system-programmers-c7443f2d3edf"
     ]
   ],
   [
@@ -205,7 +215,7 @@
       "https://news.ycombinator.com/item?id=37171149"
     ],
     [
-      "Fp-go: Functional Programming Library for Golang",
+      "FP-Go: Functional programming library for Golang",
       "https://github.com/IBM/fp-go"
     ]
   ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2023-08-17, 16:03:23",
-      "https://news.ycombinator.com/item?id=37163784"
-    ],
-    [
-      "Why does email development have to suck? – Explaining all the <tr>'s and <td>'s",
-      "https://dodov.dev/blog/why-does-email-development-have-to-suck"
-    ]
-  ],
-  [
-    [
       "2023-08-17, 14:41:54",
       "https://news.ycombinator.com/item?id=37162419"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2023-08-16, 14:36:37",
-      "https://news.ycombinator.com/item?id=37147724"
+      "2023-08-17, 06:02:09",
+      "https://news.ycombinator.com/item?id=37157811"
     ],
     [
-      "λ Calculus (2013) [pdf]",
-      "https://www.cs.rpi.edu/academics/courses/spring11/proglang/handouts/lambda-calculus-chapter.pdf"
+      "Acronym’s new computer with Asus is bonkers, but that’s the point",
+      "https://techcrunch.com/2023/08/16/review-acronym-rmt02-asus/"
     ]
   ],
   [
