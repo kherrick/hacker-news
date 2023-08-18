@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-08-18](index.md)
+
+* [2023-08-18, 00:52:32](https://news.ycombinator.com/item?id=37170273) - [How to implement a disk cache plugin for Elixir's Req HTTP client?](https://thibautbarrere.com/2022/09/09/implementing-a-disk-cache-for-elixir-req)

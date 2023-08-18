@@ -67,6 +67,7 @@
 * [2023-08-16, 14:52:01](https://news.ycombinator.com/item?id=37147996) - [Spring 6.1 now compatible with virtual threads and JDK 21 overall](https://github.com/spring-projects/spring-framework/wiki/What%27s-New-in-Spring-Framework-6.x)
 * [2023-08-16, 14:47:15](https://news.ycombinator.com/item?id=37147914) - [Thousands of scientists are cutting back on Twitter](https://www.nature.com/articles/d41586-023-02554-0)
 * [2023-08-16, 14:37:00](https://news.ycombinator.com/item?id=37147729) - [Major U.S. energy org targeted in QR code phishing attack](https://www.bleepingcomputer.com/news/security/major-us-energy-org-targeted-in-qr-code-phishing-attack/)
+* [2023-08-16, 14:36:37](https://news.ycombinator.com/item?id=37147724) - [λ Calculus [pdf]](https://www.cs.rpi.edu/academics/courses/spring11/proglang/handouts/lambda-calculus-chapter.pdf)
 * [2023-08-16, 14:35:34](https://news.ycombinator.com/item?id=37147707) - [Forget ‘quiet quitting’ – ‘loud laborers’ are killing workplace morale](https://www.cnbc.com/2023/08/09/forget-quiet-quitting-loud-laborers-are-killing-workplace-morale.html)
 * [2023-08-16, 14:34:14](https://news.ycombinator.com/item?id=37147682) - [AI cameras catch 297 drivers in three days](https://www.bbc.co.uk/news/uk-england-cornwall-66508840)
 * [2023-08-16, 14:30:15](https://news.ycombinator.com/item?id=37147617) - [Brand-new Linux release, which I'm calling the Debian Linux Release (1993)](https://wiki.debian.org/DebianHistory?action=AttachFile&do=get&target=Debian-announcement-1993.txt)
