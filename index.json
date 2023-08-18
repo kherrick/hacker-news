@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-08-18, 00:52:32",
+      "https://news.ycombinator.com/item?id=37170273"
+    ],
+    [
+      "How to implement a disk cache plugin for Elixir's Req HTTP client?",
+      "https://thibautbarrere.com/2022/09/09/implementing-a-disk-cache-for-elixir-req"
+    ]
+  ],
+  [
+    [
       "2023-08-17, 23:30:58",
       "https://news.ycombinator.com/item?id=37169696"
     ],
     [
       "New Linux Tablet from Star Labs",
       "https://us.starlabs.systems/pages/starlite"
-    ]
-  ],
-  [
-    [
-      "2023-08-17, 23:29:24",
-      "https://news.ycombinator.com/item?id=37169679"
-    ],
-    [
-      "Benefits of Inconvenience (“Fuben-Eki”)",
-      "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2046153/"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2023-08-17, 18:06:44",
-      "https://news.ycombinator.com/item?id=37165713"
-    ],
-    [
-      "Policy Engines: Open Policy Agent vs. AWS Cedar vs. Google Zanzibar",
-      "https://www.permit.io/blog/policy-engines"
-    ]
-  ],
-  [
-    [
       "2023-08-17, 18:05:20",
       "https://news.ycombinator.com/item?id=37165697"
     ],
@@ -177,6 +167,16 @@
     [
       "Show HN: Shadeform – Single Platform and API for Provisioning GPUs",
       "https://www.shadeform.ai/"
+    ]
+  ],
+  [
+    [
+      "2023-08-17, 16:27:26",
+      "https://news.ycombinator.com/item?id=37164155"
+    ],
+    [
+      "1.56M dehumidifiers recalled due to fire and burn hazards",
+      "https://www.theverge.com/2023/8/16/23835116/have-you-seen-these-dehumidifiers-stop-using-them-or-you-might-die"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2023-08-16, 05:58:04",
-      "https://news.ycombinator.com/item?id=37143348"
+      "2023-08-16, 14:36:37",
+      "https://news.ycombinator.com/item?id=37147724"
     ],
     [
-      "Why did people in the past look so much older?",
-      "https://www.dazeddigital.com/beauty/article/60584/1/why-people-in-the-past-look-so-much-older-cheers-ageing-smoking-cosmetics"
+      "λ Calculus [pdf]",
+      "https://www.cs.rpi.edu/academics/courses/spring11/proglang/handouts/lambda-calculus-chapter.pdf"
     ]
   ],
   [
