@@ -129,6 +129,28 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="37176717">
+          <h3>
+            <a
+              class="item"
+              href="https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702"
+              >Deja Vu: The FBI Proves Again It Can’t Be Trusted with Section
+              702</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-08-18 @ 15:07:32</span
+              ><span class="points-container"
+                >Points: <span class="points">16</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37176717"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="37176666">
           <h3>
             <a
@@ -141,11 +163,11 @@
             <h4>
               <span>2023-08-18 @ 15:04:35</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37176666"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -163,11 +185,11 @@
             <h4>
               <span>2023-08-18 @ 14:56:34</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37176555"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -185,11 +207,32 @@
             <h4>
               <span>2023-08-18 @ 14:47:24</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37176393"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 57</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="37176220">
+          <h3>
+            <a
+              class="item"
+              href="https://ethz.ch/en/news-and-events/eth-news/news/2023/08/building-muscle-in-the-lab.html"
+              >Building Muscle in the Lab</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-08-18 @ 14:35:06</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37176220"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -206,85 +249,13 @@
             <h4>
               <span>2023-08-18 @ 14:00:55</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37175721"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="37175503">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=37175503"
-              >Tell HN: Gmail rate limiting emails from AWS SES</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-08-18 @ 13:42:50</span
-              ><span class="points-container"
-                >Points: <span class="points">42</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37175503"
-                  >Comments</a
-                ><span class="descendants">: 51</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>Background:</p>
-              <p>
-                One of my apps provides time-sensitive email notifications, for
-                60-90 days, to the subscribers(paid) - so it is critical to
-                deliver emails. We have been using the same email provider and
-                have been using AWS SES for a couple of years now. We have the
-                SPF, and DKIM all verified. Yet, for the last 3 days, we are
-                getting the below email
-              </p>
-              <p>```</p>
-              <p>Sub: Delivery Status Notification (Failure)</p>
-              <p>
-                Body: Our system has detected an unusual rate
-                of&lt;CRLF&gt;421-4.7.28 unsolicited mail originating from your
-                IP address. To protect our&lt;CRLF&gt;421-4.7.28 users from
-                spam, mail sent from your IP address has been
-                temporarily&lt;CRLF&gt;421-4.7.28 rate limited. Please
-                visit&lt;CRLF&gt;421-4.7.28
-                https://support.google.com/mail/?p=UnsolicitedRateLimitError
-                to&lt;CRLF&gt;421 4.7.28 review our Bulk Email Senders
-                Guidelines.&gt;
-              </p>
-              <p>```</p>
-              <p>
-                Troubleshooting till now: I have got the AWS tech support team
-                confirming my email configuration has no issues. AWS team has
-                informed "The current throttling is just that Gmail is seeing a
-                lot of messages from the SES shared IP and is throttling the
-                messages"
-              </p>
-              <p>
-                &gt;&gt;&gt;
-                <i
-                  >Is anyone facing the same issue with AWS? or similar issues
-                  with other bulk email service providers?</i
-                >
-              </p>
-              <p>
-                &gt;&gt;&gt;
-                <i
-                  >How do you deal with such issues in the future? Set up
-                  alternative email service providers.</i
-                >
-              </p>
-              <p>
-                &gt;&gt;&gt;
-                <i
-                  >Is this the side effect of Gmail's dormant account deletion
-                  rolled out last week?</i
-                >
-              </p>
-            </div>
           </section>
         </section>
         <section id="37175432">
@@ -300,11 +271,11 @@
             <h4>
               <span>2023-08-18 @ 13:36:15</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37175432"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -322,11 +293,11 @@
             <h4>
               <span>2023-08-18 @ 13:17:41</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37175200"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -343,11 +314,11 @@
             <h4>
               <span>2023-08-18 @ 12:47:44</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">78</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37174916"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -364,11 +335,11 @@
             <h4>
               <span>2023-08-18 @ 12:41:19</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37174850"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -386,11 +357,11 @@
             <h4>
               <span>2023-08-18 @ 12:31:42</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37174758"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -405,7 +376,7 @@
             <h4>
               <span>2023-08-18 @ 12:22:07</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37174657"
                   >Comments</a
@@ -527,11 +498,11 @@
             <h4>
               <span>2023-08-18 @ 11:16:33</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37174124"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -548,30 +519,11 @@
             <h4>
               <span>2023-08-18 @ 09:45:32</span
               ><span class="points-container"
-                >Points: <span class="points">211</span></span
+                >Points: <span class="points">233</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37173339"
                   >Comments</a
-                ><span class="descendants">: 124</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="37173231">
-          <h3>
-            <a class="item" href="http://dpk.io/r7rswtf"
-              >WTF is going on with R7RS Large?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-08-18 @ 09:32:03</span
-              ><span class="points-container"
-                >Points: <span class="points">126</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37173231"
-                  >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 132</span></span
               >
             </h4>
           </section>
@@ -592,7 +544,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37172815"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -607,33 +559,11 @@
             <h4>
               <span>2023-08-18 @ 08:15:23</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37172689"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="37172598">
-          <h3>
-            <a
-              class="item"
-              href="https://londonist.com/london/art-and-photography/aerial-london-then-and-now"
-              >London Then and Now: Aerial Shots Show City Grow over Past Two
-              Decades</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-08-18 @ 08:01:42</span
-              ><span class="points-container"
-                >Points: <span class="points">194</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37172598"
-                  >Comments</a
-                ><span class="descendants">: 164</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -648,11 +578,11 @@
             <h4>
               <span>2023-08-18 @ 06:20:29</span
               ><span class="points-container"
-                >Points: <span class="points">218</span></span
+                >Points: <span class="points">222</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37171943"
                   >Comments</a
-                ><span class="descendants">: 105</span></span
+                ><span class="descendants">: 107</span></span
               >
             </h4>
           </section>
@@ -669,11 +599,11 @@
             <h4>
               <span>2023-08-18 @ 05:58:05</span
               ><span class="points-container"
-                >Points: <span class="points">203</span></span
+                >Points: <span class="points">207</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37171801"
                   >Comments</a
-                ><span class="descendants">: 135</span></span
+                ><span class="descendants">: 139</span></span
               >
             </h4>
           </section>
@@ -688,11 +618,11 @@
             <h4>
               <span>2023-08-18 @ 04:06:04</span
               ><span class="points-container"
-                >Points: <span class="points">267</span></span
+                >Points: <span class="points">268</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37171294"
                   >Comments</a
-                ><span class="descendants">: 163</span></span
+                ><span class="descendants">: 167</span></span
               >
             </h4>
           </section>
@@ -707,7 +637,7 @@
             <h4>
               <span>2023-08-18 @ 03:33:50</span
               ><span class="points-container"
-                >Points: <span class="points">189</span></span
+                >Points: <span class="points">190</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37171149"
                   >Comments</a
@@ -726,11 +656,11 @@
             <h4>
               <span>2023-08-18 @ 02:20:55</span
               ><span class="points-container"
-                >Points: <span class="points">259</span></span
+                >Points: <span class="points">261</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37170771"
                   >Comments</a
-                ><span class="descendants">: 112</span></span
+                ><span class="descendants">: 116</span></span
               >
             </h4>
           </section>
@@ -747,7 +677,7 @@
             <h4>
               <span>2023-08-18 @ 02:05:14</span
               ><span class="points-container"
-                >Points: <span class="points">122</span></span
+                >Points: <span class="points">124</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37170683"
                   >Comments</a
@@ -766,11 +696,11 @@
             <h4>
               <span>2023-08-17 @ 23:30:58</span
               ><span class="points-container"
-                >Points: <span class="points">515</span></span
+                >Points: <span class="points">518</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37169696"
                   >Comments</a
-                ><span class="descendants">: 262</span></span
+                ><span class="descendants">: 263</span></span
               >
             </h4>
           </section>
@@ -787,11 +717,32 @@
             <h4>
               <span>2023-08-17 @ 14:41:54</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37162419"
                   >Comments</a
                 ><span class="descendants">: 20</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="37158155">
+          <h3>
+            <a
+              class="item"
+              href="https://www.bbc.com/future/article/20230815-the-ancient-tech-keeping-space-missions-alive"
+              >The ancient technology keeping space missions alive</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-08-17 @ 06:58:26</span
+              ><span class="points-container"
+                >Points: <span class="points">31</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37158155"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -809,11 +760,11 @@
             <h4>
               <span>2023-08-17 @ 06:02:09</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37157811"
                   >Comments</a
-                ><span class="descendants">: 65</span></span
+                ><span class="descendants">: 67</span></span
               >
             </h4>
           </section>
@@ -830,11 +781,11 @@
             <h4>
               <span>2023-08-16 @ 11:40:14</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37145547"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -852,11 +803,11 @@
             <h4>
               <span>2023-08-16 @ 10:22:57</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37145005"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -873,11 +824,11 @@
             <h4>
               <span>2023-08-16 @ 09:39:10</span
               ><span class="points-container"
-                >Points: <span class="points">123</span></span
+                >Points: <span class="points">124</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37144707"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
