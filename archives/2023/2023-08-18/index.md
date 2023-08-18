@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-18](index.md)
 
 * [2023-08-18, 18:53:30](https://news.ycombinator.com/item?id=37180392) - [Dirty downside of 'return to office'; ending WFH could make climate crisis worse](https://www.businessinsider.com/return-to-office-remote-work-from-home-commute-companies-climate-2023-8)
+* [2023-08-18, 18:35:41](https://news.ycombinator.com/item?id=37180115) - [Blue-light filtering spectacles probably make no difference to sleep quality](https://medicalxpress.com/news/2023-08-blue-light-filtering-spectacles-difference-eye.html)
 * [2023-08-18, 18:27:54](https://news.ycombinator.com/item?id=37180017) - [Show HN: Poozle – open-source Plaid for LLMs](https://github.com/poozlehq/poozle)
 * [2023-08-18, 17:59:06](https://news.ycombinator.com/item?id=37179587) - [Dude,Where's My Donations? Wikimedia gives another $1M to non-Wikimedia projects](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-08-15/News_and_notes)
 * [2023-08-18, 17:33:18](https://news.ycombinator.com/item?id=37179176) - [Moderna CEO made $400M last year–2,435x the median salary of employees](https://arstechnica.com/health/2023/08/moderna-ceo-made-400m-last-year-2435x-the-median-salary-of-employees/)
@@ -13,6 +14,7 @@
 * [2023-08-18, 17:26:54](https://news.ycombinator.com/item?id=37179066) - [The Plumber Problem](https://hypercritical.co/2023/08/18/the-plumber-problem)
 * [2023-08-18, 16:52:35](https://news.ycombinator.com/item?id=37178447) - [The Next Next Job, a framework for making big career decisions](https://andrewchen.com/the-next-next-job/)
 * [2023-08-18, 16:50:09](https://news.ycombinator.com/item?id=37178409) - [From Mechs to Mopar](https://www.filfre.net/2023/08/from-mechs-to-mopar/)
+* [2023-08-18, 16:49:01](https://news.ycombinator.com/item?id=37178388) - [YouTube using antipattern to force people enable history](https://news.ycombinator.com/item?id=37178388)
 * [2023-08-18, 16:45:42](https://news.ycombinator.com/item?id=37178329) - [It’s time for Americans to embrace small cars](https://arstechnica.com/cars/2023/08/dont-supersize-me-the-case-for-small-electric-cars-instead-of-big-suvs/)
 * [2023-08-18, 16:41:25](https://news.ycombinator.com/item?id=37178251) - [Zaum](https://en.wikipedia.org/wiki/Zaum)
 * [2023-08-18, 16:29:30](https://news.ycombinator.com/item?id=37178060) - [Why musicians in Spain are going topless as a radical gesture](https://www.theguardian.com/music/2023/aug/18/topless-spanish-singers-radical-gesture-eva-amaral)
