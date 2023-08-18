@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-18](index.md)
 
+* [2023-08-18, 22:02:39](https://news.ycombinator.com/item?id=37182747) - [Pines’ demon observed as a 3D acoustic plasmon in Sr2RuO4](https://www.nature.com/articles/s41586-023-06318-8)
 * [2023-08-18, 21:21:32](https://news.ycombinator.com/item?id=37182306) - [Artists have forgotten how to draw](https://unherd.com/2023/08/artists-have-forgotten-how-to-draw/)
 * [2023-08-18, 21:14:26](https://news.ycombinator.com/item?id=37182200) - [Discourse on Winning and Losing [pdf]](https://static1.squarespace.com/static/5497331ae4b0148a6141bd47/t/5af842f8758d4615555d3f6d/1526219514965/Patterns+of+Conflict+Transcript.pdf)
 * [2023-08-18, 21:00:30](https://news.ycombinator.com/item?id=37182037) - [YC Library](https://www.ycombinator.com/library)
@@ -28,6 +29,7 @@
 * [2023-08-18, 16:41:25](https://news.ycombinator.com/item?id=37178251) - [Zaum](https://en.wikipedia.org/wiki/Zaum)
 * [2023-08-18, 16:29:30](https://news.ycombinator.com/item?id=37178060) - [Why musicians in Spain are going topless as a radical gesture](https://www.theguardian.com/music/2023/aug/18/topless-spanish-singers-radical-gesture-eva-amaral)
 * [2023-08-18, 16:27:10](https://news.ycombinator.com/item?id=37178009) - [C and C++ Prioritize Performance over Correctness](https://research.swtch.com/ub)
+* [2023-08-18, 16:16:01](https://news.ycombinator.com/item?id=37177814) - [Scientists May Have Unraveled the Secret of Aging-Resistance in Naked Mole-Rats](https://ewww.kumamoto-u.ac.jp/sp/en/news/630/)
 * [2023-08-18, 15:57:49](https://news.ycombinator.com/item?id=37177508) - [Black Atlanta venture capital firm sued for racial discrimination](https://www.ajc.com/news/business/conservative-group-sues-black-atlanta-vc-firm-for-racial-discrimination/M6NP2V5PRJGE3HTJXBSF7VYKTY/)
 * [2023-08-18, 15:28:58](https://news.ycombinator.com/item?id=37176960) - [Learning Async Rust with Too Many Web Servers](https://ibraheem.ca/posts/too-many-web-servers/)
 * [2023-08-18, 15:16:46](https://news.ycombinator.com/item?id=37176842) - [Meaningful Exits for Founders](https://medium.com/strong-words/meaningful-exits-for-founders-4c3b2baba6b4)
@@ -43,6 +45,7 @@
 * [2023-08-18, 14:00:55](https://news.ycombinator.com/item?id=37175721) - [Sargablock: Bricks from Seaweed](https://fortomorrow.org/explore-solutions/sargablock)
 * [2023-08-18, 13:48:57](https://news.ycombinator.com/item?id=37175568) - [HN's HTML Is Invalid](https://validator.w3.org/nu/?doc=https://news.ycombinator.com/)
 * [2023-08-18, 13:42:50](https://news.ycombinator.com/item?id=37175503) - [Tell HN: Gmail rate limiting emails from AWS SES](https://news.ycombinator.com/item?id=37175503)
+* [2023-08-18, 13:36:15](https://news.ycombinator.com/item?id=37175432) - [Mister Rogers had a point – routinely greeting six neighbors maximizes wellbeing](https://news.gallup.com/poll/509543/saying-hello-linked-higher-wellbeing-limits.aspx)
 * [2023-08-18, 13:36:15](https://news.ycombinator.com/item?id=37175432) - [Mister Rogers Had a Point: Routinely Greeting Six Neighbors Maximizes Wellbeing](https://www.goodnewsnetwork.org/mister-rogers-had-a-point-routinely-greeting-six-neighbors-maximizes-wellbeing-outcomes/)
 * [2023-08-18, 13:33:15](https://news.ycombinator.com/item?id=37175390) - [A Ghost Town of Abandoned Mansions in China](https://www.architecturaldigest.com/story/see-inside-a-ghost-town-of-abandoned-mansions-in-china)
 * [2023-08-18, 13:20:50](https://news.ycombinator.com/item?id=37175228) - [Low dose radiation cancer 2x worse than predicted by LNT model](https://www.bmj.com/content/382/bmj-2022-074520)
