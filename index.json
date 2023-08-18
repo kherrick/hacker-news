@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-18, 12:00:30",
+      "https://news.ycombinator.com/item?id=37174474"
+    ],
+    [
+      "MixRank (YC S11) Is Hiring Global Remote Software Engineers",
+      "https://news.ycombinator.com/item?id=37174474"
+    ]
+  ],
+  [
+    [
       "2023-08-18, 09:47:10",
       "https://news.ycombinator.com/item?id=37173356"
     ],
@@ -27,16 +37,6 @@
     [
       "Career advice for young system programmers",
       "https://glaubercosta-11125.medium.com/career-advice-for-young-system-programmers-c7443f2d3edf"
-    ]
-  ],
-  [
-    [
-      "2023-08-18, 08:18:57",
-      "https://news.ycombinator.com/item?id=37172711"
-    ],
-    [
-      "Tmux has forever changed the way I write code [video]",
-      "https://www.youtube.com/watch?v=DzNmUNvnB04"
     ]
   ],
   [
@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2023-08-18, 03:10:59",
+      "https://news.ycombinator.com/item?id=37171037"
+    ],
+    [
+      "Fiber-Optic Cables Are Natural Earthquake Detectors",
+      "https://spectrum.ieee.org/earthquake"
+    ]
+  ],
+  [
+    [
       "2023-08-18, 02:47:21",
       "https://news.ycombinator.com/item?id=37170911"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2023-08-17, 20:39:58",
-      "https://news.ycombinator.com/item?id=37167698"
-    ],
-    [
-      "RoboAgent: A universal agent with 12 Skills",
-      "https://robopen.github.io/"
-    ]
-  ],
-  [
-    [
       "2023-08-17, 19:40:41",
       "https://news.ycombinator.com/item?id=37166885"
     ],
@@ -217,16 +217,6 @@
     [
       "What happens when you COPY in Postgres?",
       "https://blog.benthem.io/2023/08/16/what-actually-happens-when-you-run-copy-in-postgres.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-17, 16:15:29",
-      "https://news.ycombinator.com/item?id=37163980"
-    ],
-    [
-      "Fuzz testing: the best thing to happen to our application tests",
-      "https://questdb.io/blog/fuzz-testing-questdb/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Load Balancing: The Intuition Behind the Power of Two Random Choices",
       "https://betterprogramming.pub/load-balancing-the-intuition-behind-the-power-of-two-random-choices-6de2e139ac2f"
+    ]
+  ],
+  [
+    [
+      "2023-08-15, 23:39:30",
+      "https://news.ycombinator.com/item?id=37140831"
+    ],
+    [
+      "Bali rice experiment cuts greenhouse gas emissions and increases yields",
+      "https://news.mongabay.com/2023/08/bali-rice-experiment-cuts-greenhouse-gas-emissions-and-increases-yields/"
     ]
   ]
 ]
