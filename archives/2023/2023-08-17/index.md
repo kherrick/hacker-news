@@ -85,6 +85,7 @@
 * [2023-08-17, 07:21:40](https://news.ycombinator.com/item?id=37158317) - [DIY Espresso (2020)](https://www.fourbardesign.com/2020/10/diy-espresso.html)
 * [2023-08-17, 07:19:36](https://news.ycombinator.com/item?id=37158306) - [German Cabinet approves liberalization of Cannabis Possession](https://www.politico.eu/article/germany-bundestag-cabinet-approves-liberalization-of-cannabis-rules/)
 * [2023-08-17, 07:02:54](https://news.ycombinator.com/item?id=37158188) - [What I learned after managing a small team for 2 years](https://luispcosta.com/managing-small-team)
+* [2023-08-17, 06:58:26](https://news.ycombinator.com/item?id=37158155) - [The ancient technology keeping space missions alive](https://www.bbc.com/future/article/20230815-the-ancient-tech-keeping-space-missions-alive)
 * [2023-08-17, 06:46:30](https://news.ycombinator.com/item?id=37158068) - [Dart 3.1 and a retrospective on functional style programming in Dart](https://medium.com/dartlang/dart-3-1-a-retrospective-on-functional-style-programming-in-dart-3-a1f4b3a7cdda)
 * [2023-08-17, 06:33:18](https://news.ycombinator.com/item?id=37157989) - [New York Times considers legal action against OpenAI as copyright tensions swirl](https://text.npr.org/1194202562)
 * [2023-08-17, 06:02:09](https://news.ycombinator.com/item?id=37157811) - [Acronym’s new computer with Asus is bonkers, but that’s the point](https://techcrunch.com/2023/08/16/review-acronym-rmt02-asus/)
