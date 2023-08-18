@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-18, 03:43:36](https://news.ycombinator.com/item?id=37171187) - [China’s property giant Evergrande files for bankruptcy protection in Manhattan](https://www.cnbc.com/2023/08/18/china-property-developer-evergrande-files-for-bankruptcy-protection-in-us.html)
 * [2023-08-18, 03:33:50](https://news.ycombinator.com/item?id=37171149) - [Functional Programming Library for Golang by IBM](https://github.com/IBM/fp-go)
 * [2023-08-18, 02:47:21](https://news.ycombinator.com/item?id=37170911) - [Microplastics Detected in the Marine Air from Norway to the High Arctic](https://scienceswitch.com/2023/08/18/microplastics-detected-in-the-marine-air-from-norway-to-the-high-arctic/)
 * [2023-08-18, 02:20:55](https://news.ycombinator.com/item?id=37170771) - [GIL removal and the Faster CPython project](https://lwn.net/Articles/939981/)
@@ -21,14 +22,13 @@
 * [2023-08-17, 17:07:21](https://news.ycombinator.com/item?id=37164864) - [Show HN: Shadeform – Single Platform and API for Provisioning GPUs](https://www.shadeform.ai/)
 * [2023-08-17, 16:15:29](https://news.ycombinator.com/item?id=37163980) - [Fuzz testing: the best thing to happen to our application tests](https://questdb.io/blog/fuzz-testing-questdb/)
 * [2023-08-17, 15:28:39](https://news.ycombinator.com/item?id=37163187) - [Turmoil, a framework for developing and testing distributed systems](https://tokio.rs/blog/2023-01-03-announcing-turmoil)
-* [2023-08-17, 15:10:50](https://news.ycombinator.com/item?id=37162898) - [I am afraid to inform you that you have built a compiler (2022)](https://rachit.pl/post/you-have-built-a-compiler/)
 * [2023-08-17, 15:02:10](https://news.ycombinator.com/item?id=37162774) - [The Fill and Flush deplaning method](https://www.fillandflush.com)
 * [2023-08-17, 12:51:00](https://news.ycombinator.com/item?id=37160783) - [Retrieving 1TB of data from a faulty drive with the help of woodworking tools](https://blog.jgc.org/2023/08/retrieving-1tb-of-data-from-faulty.html)
-* [2023-08-17, 05:51:38](https://news.ycombinator.com/item?id=37157747) - [County Highway: print-only broadsheet magazine about America](https://airmail.news/issues/2023-7-29/highway-to-nowhere)
 * [2023-08-16, 15:22:22](https://news.ycombinator.com/item?id=37148490) - [Unlocking the mathematical formula of juggling (2012) [video]](https://www.bbc.co.uk/news/av/magazine-20669507)
 * [2023-08-16, 14:56:18](https://news.ycombinator.com/item?id=37148062) - [Fred Fish](https://en.wikipedia.org/wiki/Fred_Fish)
 * [2023-08-16, 14:36:37](https://news.ycombinator.com/item?id=37147724) - [λ Calculus (2013) [pdf]](https://www.cs.rpi.edu/academics/courses/spring11/proglang/handouts/lambda-calculus-chapter.pdf)
 * [2023-08-16, 07:09:35](https://news.ycombinator.com/item?id=37143716) - [New book considers the impact of electronic logging devices on drivers](https://www.truckersnews.com/home/article/15305066/new-book-considers-the-impact-of-electronic-logging-devices-on-drivers)
+* [2023-08-16, 06:03:11](https://news.ycombinator.com/item?id=37143376) - [Load Balancing: The Intuition Behind the Power of Two Random Choices](https://betterprogramming.pub/load-balancing-the-intuition-behind-the-power-of-two-random-choices-6de2e139ac2f)
 * [2023-08-15, 23:39:30](https://news.ycombinator.com/item?id=37140831) - [Bali rice experiment cuts greenhouse gas emissions and increases yields](https://news.mongabay.com/2023/08/bali-rice-experiment-cuts-greenhouse-gas-emissions-and-increases-yields/)
 
 ## [Archives](archives/index.md)
