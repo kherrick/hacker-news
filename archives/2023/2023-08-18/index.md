@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-18](index.md)
 
 * [2023-08-18, 15:07:32](https://news.ycombinator.com/item?id=37176717) - [Deja Vu: The FBI Proves Again It Can’t Be Trusted with Section 702](https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702)
+* [2023-08-18, 15:06:48](https://news.ycombinator.com/item?id=37176703) - [Ask vs. Guess Culture](https://jeanhsu.substack.com/p/ask-vs-guess-culture)
 * [2023-08-18, 15:04:35](https://news.ycombinator.com/item?id=37176666) - [Microsoft's backwards compatibility is insane](https://twitter.com/mikko/status/1692503249595584526)
 * [2023-08-18, 14:56:34](https://news.ycombinator.com/item?id=37176555) - [Revealed: WHO aspartame safety panel linked to alleged Coca-Cola front group](https://www.theguardian.com/business/2023/aug/17/who-panel-aspartame-diet-coke-guidelines)
 * [2023-08-18, 14:49:41](https://news.ycombinator.com/item?id=37176439) - [Show HN: A website for remote workers to find Airbnb's with good Internet](https://thewirednomad.com)
@@ -16,6 +17,7 @@
 * [2023-08-18, 13:42:50](https://news.ycombinator.com/item?id=37175503) - [Tell HN: Gmail rate limiting emails from AWS SES](https://news.ycombinator.com/item?id=37175503)
 * [2023-08-18, 13:36:15](https://news.ycombinator.com/item?id=37175432) - [Mister Rogers Had a Point: Routinely Greeting Six Neighbors Maximizes Wellbeing](https://www.goodnewsnetwork.org/mister-rogers-had-a-point-routinely-greeting-six-neighbors-maximizes-wellbeing-outcomes/)
 * [2023-08-18, 13:33:15](https://news.ycombinator.com/item?id=37175390) - [A Ghost Town of Abandoned Mansions in China](https://www.architecturaldigest.com/story/see-inside-a-ghost-town-of-abandoned-mansions-in-china)
+* [2023-08-18, 13:20:50](https://news.ycombinator.com/item?id=37175228) - [Low dose radiation cancer 2x worse than predicted by LNT model](https://www.bmj.com/content/382/bmj-2022-074520)
 * [2023-08-18, 13:17:41](https://news.ycombinator.com/item?id=37175200) - [Broadband Monopolies Push Bill That Would Crush Your Ability to Stand Up to Them](https://www.techdirt.com/2023/08/18/with-hr-3557-broadband-monopolies-are-pushing-a-bill-that-would-crush-your-towns-ability-to-stand-up-to-them/)
 * [2023-08-18, 12:47:44](https://news.ycombinator.com/item?id=37174916) - [Node.js 20.6.0 will include built-in support for .env files](https://twitter.com/kom_256/status/1692225622091706389)
 * [2023-08-18, 12:41:19](https://news.ycombinator.com/item?id=37174850) - [You probably don’t need to fine-tune LLMs](https://www.tidepool.so/2023/08/17/why-you-probably-dont-need-to-fine-tune-an-llm/)
