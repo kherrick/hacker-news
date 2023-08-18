@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-18, 14:00:55](https://news.ycombinator.com/item?id=37175721) - [Sargablock: Bricks from Seaweed](https://fortomorrow.org/explore-solutions/sargablock)
-* [2023-08-18, 13:48:57](https://news.ycombinator.com/item?id=37175568) - [HN's HTML Is Invalid](https://validator.w3.org/nu/?doc=https://news.ycombinator.com/)
 * [2023-08-18, 13:42:50](https://news.ycombinator.com/item?id=37175503) - [Tell HN: Gmail rate limiting emails from AWS SES](https://news.ycombinator.com/item?id=37175503)
 * [2023-08-18, 13:36:15](https://news.ycombinator.com/item?id=37175432) - [Mister Rogers Had a Point: Routinely Greeting Six Neighbors Maximizes Wellbeing](https://www.goodnewsnetwork.org/mister-rogers-had-a-point-routinely-greeting-six-neighbors-maximizes-wellbeing-outcomes/)
 * [2023-08-18, 13:33:15](https://news.ycombinator.com/item?id=37175390) - [A Ghost Town of Abandoned Mansions in China](https://www.architecturaldigest.com/story/see-inside-a-ghost-town-of-abandoned-mansions-in-china)
+* [2023-08-18, 13:17:41](https://news.ycombinator.com/item?id=37175200) - [Broadband Monopolies Push Bill That Would Crush Your Ability to Stand Up to Them](https://www.techdirt.com/2023/08/18/with-hr-3557-broadband-monopolies-are-pushing-a-bill-that-would-crush-your-towns-ability-to-stand-up-to-them/)
 * [2023-08-18, 12:47:44](https://news.ycombinator.com/item?id=37174916) - [Node.js 20.6.0 will include built-in support for .env files](https://twitter.com/kom_256/status/1692225622091706389)
 * [2023-08-18, 12:41:19](https://news.ycombinator.com/item?id=37174850) - [You probably don’t need to fine-tune LLMs](https://www.tidepool.so/2023/08/17/why-you-probably-dont-need-to-fine-tune-an-llm/)
 * [2023-08-18, 12:40:12](https://news.ycombinator.com/item?id=37174838) - [Update Complete: U.S. Nuclear Weapons No Longer Need Floppy Disks](https://www.nytimes.com/2019/10/24/us/nuclear-weapons-floppy-disks.html)
@@ -18,6 +18,7 @@
 * [2023-08-18, 08:33:25](https://news.ycombinator.com/item?id=37172815) - [Career advice for young system programmers](https://glaubercosta-11125.medium.com/career-advice-for-young-system-programmers-c7443f2d3edf)
 * [2023-08-18, 08:15:23](https://news.ycombinator.com/item?id=37172689) - [Pg_later: Asynchronous Queries for Postgres](https://tembo.io/blog/introducing-pg-later/)
 * [2023-08-18, 08:01:42](https://news.ycombinator.com/item?id=37172598) - [London Then and Now: Aerial Shots Show City Grow over Past Two Decades](https://londonist.com/london/art-and-photography/aerial-london-then-and-now)
+* [2023-08-18, 06:22:27](https://news.ycombinator.com/item?id=37171955) - [Microsoft AI suggests Ottawa food bank as a “cannot miss” tourist spot](https://arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/)
 * [2023-08-18, 06:20:29](https://news.ycombinator.com/item?id=37171943) - [Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)
 * [2023-08-18, 05:58:05](https://news.ycombinator.com/item?id=37171801) - [TypeScript Is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
 * [2023-08-18, 04:06:04](https://news.ycombinator.com/item?id=37171294) - [micro – A Modern Alternative to nano](https://micro-editor.github.io/)
@@ -29,7 +30,6 @@
 * [2023-08-16, 14:36:37](https://news.ycombinator.com/item?id=37147724) - [λ Calculus (2013) [pdf]](https://www.cs.rpi.edu/academics/courses/spring11/proglang/handouts/lambda-calculus-chapter.pdf)
 * [2023-08-16, 11:40:14](https://news.ycombinator.com/item?id=37145547) - [Understanding ‘Why’ (2021)](https://jessiexxcheung.medium.com/understanding-why-6166a3dcf668)
 * [2023-08-16, 09:39:10](https://news.ycombinator.com/item?id=37144707) - [A new instrument found unusual success](https://www.theguardian.com/music/2023/aug/16/if-stevie-wonder-wants-to-play-it-pay-attention-how-a-bizarre-new-instrument-found-unusual-success)
-* [2023-08-16, 06:03:11](https://news.ycombinator.com/item?id=37143376) - [Load Balancing: The Intuition Behind the Power of Two Random Choices](https://betterprogramming.pub/load-balancing-the-intuition-behind-the-power-of-two-random-choices-6de2e139ac2f)
 
 ## [Archives](archives/index.md)
 
