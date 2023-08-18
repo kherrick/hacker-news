@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-08-18](index.md)
 
+* [2023-08-18, 22:40:51](https://news.ycombinator.com/item?id=37183069) - [2009scape](https://2009scape.org/)
 * [2023-08-18, 22:11:40](https://news.ycombinator.com/item?id=37182828) - [Radiation Spikes at Chernobyl: A Mystery Few Seem Interested in Solving](https://zetter.substack.com/p/radiation-spikes-at-chernobyl-a-mystery)
 * [2023-08-18, 22:02:39](https://news.ycombinator.com/item?id=37182747) - [Pines’ demon observed as a 3D acoustic plasmon in Sr2RuO4](https://www.nature.com/articles/s41586-023-06318-8)
+* [2023-08-18, 21:48:08](https://news.ycombinator.com/item?id=37182600) - [Analysis: Health care CEOs hauled in $4B last year as inflation pinched workers](https://www.statnews.com/2023/08/17/health-ceo-salaries-compensation/)
+* [2023-08-18, 21:40:11](https://news.ycombinator.com/item?id=37182515) - [ARM’s Neoverse N2: Cortex A710 for Servers](https://chipsandcheese.com/2023/08/18/arms-neoverse-n2-cortex-a710-for-servers/)
 * [2023-08-18, 21:21:32](https://news.ycombinator.com/item?id=37182306) - [Artists have forgotten how to draw](https://unherd.com/2023/08/artists-have-forgotten-how-to-draw/)
 * [2023-08-18, 21:14:26](https://news.ycombinator.com/item?id=37182200) - [Discourse on Winning and Losing [pdf]](https://static1.squarespace.com/static/5497331ae4b0148a6141bd47/t/5af842f8758d4615555d3f6d/1526219514965/Patterns+of+Conflict+Transcript.pdf)
 * [2023-08-18, 21:00:30](https://news.ycombinator.com/item?id=37182037) - [YC Library](https://www.ycombinator.com/library)
