@@ -44,6 +44,7 @@
 * [2023-08-17, 16:25:01](https://news.ycombinator.com/item?id=37164115) - [What happens when you COPY in Postgres?](https://blog.benthem.io/2023/08/16/what-actually-happens-when-you-run-copy-in-postgres.html)
 * [2023-08-17, 16:15:29](https://news.ycombinator.com/item?id=37163980) - [Fuzz testing: the best thing to happen to our application tests](https://questdb.io/blog/fuzz-testing-questdb/)
 * [2023-08-17, 16:03:23](https://news.ycombinator.com/item?id=37163784) - [Why does email development have to suck? – Explaining all the <tr>'s and <td>'s](https://dodov.dev/blog/why-does-email-development-have-to-suck)
+* [2023-08-17, 16:01:09](https://news.ycombinator.com/item?id=37163742) - [Algebraic data types in Lua (almost)](https://mrcjkb.dev/posts/2023-08-17-lua-adts.html)
 * [2023-08-17, 15:56:58](https://news.ycombinator.com/item?id=37163684) - [Older mouse brains rejuvenated by protein found in young blood](https://www.nature.com/articles/d41586-023-02563-z)
 * [2023-08-17, 15:47:52](https://news.ycombinator.com/item?id=37163489) - [Straightforward Thai Railway Safety Posters](https://www.thaitrainguide.com/2022/06/10/railway-safety-posters/)
 * [2023-08-17, 15:28:58](https://news.ycombinator.com/item?id=37163191) - [Future Intel CPUs May Dump Hyper-Threading for Partitioned Thread Scheduling](https://hothardware.com/news/future-intel-cpu-partition-threads)
