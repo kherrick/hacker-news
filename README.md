@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-17, 23:30:58](https://news.ycombinator.com/item?id=37169696) - [New Linux Tablet from Star Labs](https://us.starlabs.systems/pages/starlite)
 * [2023-08-17, 23:29:24](https://news.ycombinator.com/item?id=37169679) - [Benefits of Inconvenience (“Fuben-Eki”)](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2046153/)
 * [2023-08-17, 22:57:54](https://news.ycombinator.com/item?id=37169371) - [A Blood Factor Can Rejuvenate the Aging Brain](https://www.insideprecisionmedicine.com/topics/molecular-dx-topic/a-blood-factor-can-rejuvenate-the-aging-brain/)
 * [2023-08-17, 22:51:33](https://news.ycombinator.com/item?id=37169303) - [SUSE to Go Private](https://opensourcewatch.beehiiv.com/p/suse-go-private)
@@ -13,7 +14,6 @@
 * [2023-08-17, 19:44:47](https://news.ycombinator.com/item?id=37166946) - [How to communicate when trust is low without digging yourself into a deeper hole](https://charity.wtf/2023/08/17/how-to-communicate-when-trust-is-low-without-digging-yourself-into-a-deeper-hole/)
 * [2023-08-17, 19:40:32](https://news.ycombinator.com/item?id=37166880) - [Consensus: Use AI to find insights in research papers](https://consensus.app/)
 * [2023-08-17, 19:07:45](https://news.ycombinator.com/item?id=37166478) - [JobCorps.Gov: free job training, food, housing and living allowance](https://www.jobcorps.gov/)
-* [2023-08-17, 18:44:10](https://news.ycombinator.com/item?id=37166181) - [Going back to the old (pre-X) Twitter iOS app](https://blog.gingerbeardman.com/2023/08/17/going-back-to-the-old-pre-x-twitter-ios-app/)
 * [2023-08-17, 18:06:44](https://news.ycombinator.com/item?id=37165713) - [Policy Engines: Open Policy Agent vs. AWS Cedar vs. Google Zanzibar](https://www.permit.io/blog/policy-engines)
 * [2023-08-17, 18:05:20](https://news.ycombinator.com/item?id=37165697) - [Market Map](https://marketmap.one)
 * [2023-08-17, 17:18:08](https://news.ycombinator.com/item?id=37165042) - [A Guide to Undefined Behavior in C and C++ (2010)](https://blog.regehr.org/archives/213)
@@ -23,12 +23,12 @@
 * [2023-08-17, 15:10:50](https://news.ycombinator.com/item?id=37162898) - [I am afraid to inform you that you have built a compiler (2022)](https://rachit.pl/post/you-have-built-a-compiler/)
 * [2023-08-17, 15:02:10](https://news.ycombinator.com/item?id=37162774) - [The Fill and Flush deplaning method](https://www.fillandflush.com)
 * [2023-08-17, 12:51:00](https://news.ycombinator.com/item?id=37160783) - [Retrieving 1TB of data from a faulty drive with the help of woodworking tools](https://blog.jgc.org/2023/08/retrieving-1tb-of-data-from-faulty.html)
-* [2023-08-17, 12:02:34](https://news.ycombinator.com/item?id=37160314) - [UpCodes (YC S17) is hiring fullstack engineers to help make cheaper buildings](https://up.codes/careers)
 * [2023-08-17, 10:45:45](https://news.ycombinator.com/item?id=37159712) - [Show HN: Run globally distributed full-stack apps on high-performance MicroVMs](https://www.koyeb.com/)
 * [2023-08-17, 10:39:52](https://news.ycombinator.com/item?id=37159680) - [Asteroid crater 520km in diameter buried in southeast Australia, scientists say](https://www.australiangeographic.com.au/topics/science-environment/2023/08/asteroid-crater-520km-in-diameter-buried-deep-in-southeast-australia-scientists-say/)
 * [2023-08-17, 05:51:38](https://news.ycombinator.com/item?id=37157747) - [County Highway: print-only broadsheet magazine about America](https://airmail.news/issues/2023-7-29/highway-to-nowhere)
 * [2023-08-16, 14:56:18](https://news.ycombinator.com/item?id=37148062) - [Fred Fish](https://en.wikipedia.org/wiki/Fred_Fish)
 * [2023-08-16, 05:58:04](https://news.ycombinator.com/item?id=37143348) - [Why did people in the past look so much older?](https://www.dazeddigital.com/beauty/article/60584/1/why-people-in-the-past-look-so-much-older-cheers-ageing-smoking-cosmetics)
+* [2023-08-16, 02:41:28](https://news.ycombinator.com/item?id=37142268) - [Cparser – A C99 parser (with GNU extensions) (2020)](https://github.com/libfirm/cparser)
 * [2023-08-15, 23:39:30](https://news.ycombinator.com/item?id=37140831) - [Bali rice experiment cuts greenhouse gas emissions and increases yields](https://news.mongabay.com/2023/08/bali-rice-experiment-cuts-greenhouse-gas-emissions-and-increases-yields/)
 
 ## [Archives](archives/index.md)

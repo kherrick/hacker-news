@@ -121,6 +121,7 @@
 * [2023-08-16, 03:04:29](https://news.ycombinator.com/item?id=37142415) - [SpaceX takes another step toward launching Starship again](https://arstechnica.com/space/2023/08/let-the-review-begin-spacex-takes-another-step-toward-launching-starship-again/)
 * [2023-08-16, 03:00:40](https://news.ycombinator.com/item?id=37142388) - [NetMaker: Connect Everything with a WireGuard VPN](https://www.netmaker.io/)
 * [2023-08-16, 02:44:49](https://news.ycombinator.com/item?id=37142293) - [Debugging a Futex Crash](https://rustylife.github.io/2023/08/15/futex-crash.html)
+* [2023-08-16, 02:41:28](https://news.ycombinator.com/item?id=37142268) - [Cparser – A C99 parser (with GNU extensions) (2020)](https://github.com/libfirm/cparser)
 * [2023-08-16, 02:38:54](https://news.ycombinator.com/item?id=37142246) - [Chrome was delivered without any sprints at all (2021)](https://threadreaderapp.com/thread/1427137725119959046.html)
 * [2023-08-16, 02:37:14](https://news.ycombinator.com/item?id=37142239) - [Five Years of LLM Progress](https://finbarr.ca/five-years-of-gpt-progress/)
 * [2023-08-16, 02:16:54](https://news.ycombinator.com/item?id=37142065) - [Cruise vehicle gets stuck in wet concrete while driving in San Francisco](https://www.sfgate.com/tech/article/cruise-stuck-wet-concrete-sf-18297946.php)

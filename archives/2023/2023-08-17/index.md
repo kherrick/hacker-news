@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-17](index.md)
 
+* [2023-08-17, 23:30:58](https://news.ycombinator.com/item?id=37169696) - [New Linux Tablet from Star Labs](https://us.starlabs.systems/pages/starlite)
 * [2023-08-17, 23:29:24](https://news.ycombinator.com/item?id=37169679) - [Benefits of Inconvenience (“Fuben-Eki”)](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2046153/)
 * [2023-08-17, 22:57:54](https://news.ycombinator.com/item?id=37169371) - [A Blood Factor Can Rejuvenate the Aging Brain](https://www.insideprecisionmedicine.com/topics/molecular-dx-topic/a-blood-factor-can-rejuvenate-the-aging-brain/)
 * [2023-08-17, 22:51:33](https://news.ycombinator.com/item?id=37169303) - [SUSE to Go Private](https://opensourcewatch.beehiiv.com/p/suse-go-private)
