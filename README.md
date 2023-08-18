@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-18, 03:33:50](https://news.ycombinator.com/item?id=37171149) - [Functional Programming Library for Golang by IBM](https://github.com/IBM/fp-go)
+* [2023-08-18, 02:47:21](https://news.ycombinator.com/item?id=37170911) - [Microplastics Detected in the Marine Air from Norway to the High Arctic](https://scienceswitch.com/2023/08/18/microplastics-detected-in-the-marine-air-from-norway-to-the-high-arctic/)
 * [2023-08-18, 02:05:14](https://news.ycombinator.com/item?id=37170683) - [FreeBSD Bhyve Virtualization](https://vermaden.wordpress.com/2023/08/18/freebsd-bhyve-virtualization/)
 * [2023-08-18, 02:03:30](https://news.ycombinator.com/item?id=37170671) - [The modern sea spider had started to diversify by the Jurassic, study finds](https://www.bristol.ac.uk/news/2023/august/sea-spider-had-started-to-diversify-by-jurassic.html)
 * [2023-08-18, 02:02:24](https://news.ycombinator.com/item?id=37170669) - [New type of star gives clues to mysterious origin of magnetars](https://www.eso.org/public/news/eso2313/)
 * [2023-08-18, 00:52:32](https://news.ycombinator.com/item?id=37170273) - [How to implement a disk cache plugin for Elixir's Req HTTP client?](https://thibautbarrere.com/2022/09/09/implementing-a-disk-cache-for-elixir-req)
 * [2023-08-17, 23:30:58](https://news.ycombinator.com/item?id=37169696) - [StarLite 12.5-inch Linux tablet](https://us.starlabs.systems/pages/starlite)
-* [2023-08-17, 23:29:24](https://news.ycombinator.com/item?id=37169679) - [Benefits of Inconvenience (“Fuben-Eki”)](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2046153/)
 * [2023-08-17, 22:51:33](https://news.ycombinator.com/item?id=37169303) - [SUSE to Go Private](https://opensourcewatch.beehiiv.com/p/suse-go-private)
 * [2023-08-17, 22:43:11](https://news.ycombinator.com/item?id=37169226) - [The aging brain: is misplaced DNA to blame?](https://www.science.org/content/blog-post/aging-brain-misplaced-dna-blame)
 * [2023-08-17, 20:54:34](https://news.ycombinator.com/item?id=37167922) - [How the Army tried and failed to build a bicycle corps (2020)](https://www.armytimes.com/news/your-army/2020/02/25/how-the-army-tried-and-failed-to-build-a-bicycle-corps/)
