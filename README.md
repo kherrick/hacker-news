@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-18, 13:33:15](https://news.ycombinator.com/item?id=37175390) - [A Ghost Town of Abandoned Mansions in China](https://www.architecturaldigest.com/story/see-inside-a-ghost-town-of-abandoned-mansions-in-china)
 * [2023-08-18, 12:47:44](https://news.ycombinator.com/item?id=37174916) - [Node.js 20.6.0 will include built-in support for .env files](https://twitter.com/kom_256/status/1692225622091706389)
 * [2023-08-18, 12:41:19](https://news.ycombinator.com/item?id=37174850) - [You probably don’t need to fine-tune LLMs](https://www.tidepool.so/2023/08/17/why-you-probably-dont-need-to-fine-tune-an-llm/)
 * [2023-08-18, 12:22:07](https://news.ycombinator.com/item?id=37174657) - [Textual: Rapid Application Development Framework for Python](https://github.com/Textualize/textual)
@@ -22,7 +23,6 @@
 * [2023-08-18, 02:02:24](https://news.ycombinator.com/item?id=37170669) - [New type of star gives clues to mysterious origin of magnetars](https://www.eso.org/public/news/eso2313/)
 * [2023-08-17, 23:30:58](https://news.ycombinator.com/item?id=37169696) - [StarLite 12.5-inch Linux tablet](https://us.starlabs.systems/pages/starlite)
 * [2023-08-17, 22:43:11](https://news.ycombinator.com/item?id=37169226) - [The aging brain: is misplaced DNA to blame?](https://www.science.org/content/blog-post/aging-brain-misplaced-dna-blame)
-* [2023-08-17, 19:40:41](https://news.ycombinator.com/item?id=37166885) - [SUSE to go private](https://www.suse.com/news/EQT-announces-voluntary-public-purchase-offer-and-intention-to-delist-SUSE/)
 * [2023-08-17, 16:25:01](https://news.ycombinator.com/item?id=37164115) - [What happens when you COPY in Postgres?](https://blog.benthem.io/2023/08/16/what-actually-happens-when-you-run-copy-in-postgres.html)
 * [2023-08-17, 14:41:54](https://news.ycombinator.com/item?id=37162419) - [Abbrev: A hidden Ruby gem](https://www.akshaykhot.com/ruby-abbrev-module/)
 * [2023-08-17, 06:02:09](https://news.ycombinator.com/item?id=37157811) - [Acronym’s new computer with Asus is bonkers, but that’s the point](https://techcrunch.com/2023/08/16/review-acronym-rmt02-asus/)

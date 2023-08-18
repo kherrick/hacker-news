@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-18](index.md)
 
+* [2023-08-18, 13:33:15](https://news.ycombinator.com/item?id=37175390) - [A Ghost Town of Abandoned Mansions in China](https://www.architecturaldigest.com/story/see-inside-a-ghost-town-of-abandoned-mansions-in-china)
 * [2023-08-18, 12:47:44](https://news.ycombinator.com/item?id=37174916) - [Node.js 20.6.0 will include built-in support for .env files](https://twitter.com/kom_256/status/1692225622091706389)
 * [2023-08-18, 12:41:19](https://news.ycombinator.com/item?id=37174850) - [You probably don’t need to fine-tune LLMs](https://www.tidepool.so/2023/08/17/why-you-probably-dont-need-to-fine-tune-an-llm/)
 * [2023-08-18, 12:22:07](https://news.ycombinator.com/item?id=37174657) - [Textual: Rapid Application Development Framework for Python](https://github.com/Textualize/textual)
