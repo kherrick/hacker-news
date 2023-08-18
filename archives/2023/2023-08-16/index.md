@@ -9,6 +9,7 @@
 * [2023-08-16, 23:22:23](https://news.ycombinator.com/item?id=37155189) - [Object Oriented Programming in C (2006)](http://ldeniau.web.cern.ch/ldeniau/cos.html)
 * [2023-08-16, 23:08:11](https://news.ycombinator.com/item?id=37155080) - [Open Challenges in LLM Research](https://huyenchip.com/2023/08/16/llm-research-open-challenges.html)
 * [2023-08-16, 23:02:10](https://news.ycombinator.com/item?id=37155031) - [Copyright and fair use in the digital era](https://theweek.com/lawsuits/1025790/copyright-law-and-the-internet)
+* [2023-08-16, 22:59:56](https://news.ycombinator.com/item?id=37155010) - [Architecture of Consoles (2020)](https://www.copetti.org/writings/consoles/)
 * [2023-08-16, 22:52:56](https://news.ycombinator.com/item?id=37154939) - [Intel QuickAssist Technology Zstandard Plugin for Zstandard](https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-QuickAssist-Technology-Zstandard-Plugin-an-External/post/1509818)
 * [2023-08-16, 22:40:10](https://news.ycombinator.com/item?id=37154840) - [New York Times considers legal action against OpenAI as copyright tensions swirl](https://www.npr.org/2023/08/16/1194202562/new-york-times-considers-legal-action-against-openai-as-copyright-tensions-swirl)
 * [2023-08-16, 22:23:46](https://news.ycombinator.com/item?id=37154685) - [2,000-year-old synagogue found in southern Russia](http://www.thehistoryblog.com/archives/68050)

@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-18, 08:33:39](https://news.ycombinator.com/item?id=37172818) - [Is Germany once again the sick man of Europe?](https://www.economist.com/leaders/2023/08/17/is-germany-once-again-the-sick-man-of-europe)
 * [2023-08-18, 08:18:57](https://news.ycombinator.com/item?id=37172711) - [Tmux has forever changed the way I write code [video]](https://www.youtube.com/watch?v=DzNmUNvnB04)
-* [2023-08-18, 08:15:19](https://news.ycombinator.com/item?id=37172685) - [CATL (Tesla Supplier) Launches Superfast Charging Battery (10 min)](https://www.catl.com/en/news/6091.html)
 * [2023-08-18, 08:01:42](https://news.ycombinator.com/item?id=37172598) - [London Then and Now: Aerial Shots Show City Grow over Past Two Decades](https://londonist.com/london/art-and-photography/aerial-london-then-and-now)
 * [2023-08-18, 06:22:27](https://news.ycombinator.com/item?id=37171955) - [Microsoft AI suggests Ottawa food bank as a “cannot miss” tourist spot](https://arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/)
 * [2023-08-18, 06:20:29](https://news.ycombinator.com/item?id=37171943) - [Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)
@@ -23,6 +21,8 @@
 * [2023-08-17, 19:44:47](https://news.ycombinator.com/item?id=37166946) - [How to communicate when trust is low without digging yourself into a deeper hole](https://charity.wtf/2023/08/17/how-to-communicate-when-trust-is-low-without-digging-yourself-into-a-deeper-hole/)
 * [2023-08-17, 19:40:41](https://news.ycombinator.com/item?id=37166885) - [SUSE to go private](https://www.suse.com/news/EQT-announces-voluntary-public-purchase-offer-and-intention-to-delist-SUSE/)
 * [2023-08-17, 19:07:45](https://news.ycombinator.com/item?id=37166478) - [Job Corps: free, residential training and education for low-income young adults](https://www.jobcorps.gov/)
+* [2023-08-17, 17:18:08](https://news.ycombinator.com/item?id=37165042) - [A Guide to Undefined Behavior in C and C++ (2010)](https://blog.regehr.org/archives/213)
+* [2023-08-16, 22:59:56](https://news.ycombinator.com/item?id=37155010) - [Architecture of Consoles (2020)](https://www.copetti.org/writings/consoles/)
 * [2023-08-16, 15:34:38](https://news.ycombinator.com/item?id=37148694) - [Metallica Hard-Wires a Different Set List Every Night](https://www.nytimes.com/2023/08/16/arts/music/metallica-set-list-interview.html)
 * [2023-08-16, 14:56:18](https://news.ycombinator.com/item?id=37148062) - [Fred Fish](https://en.wikipedia.org/wiki/Fred_Fish)
 * [2023-08-16, 14:36:37](https://news.ycombinator.com/item?id=37147724) - [λ Calculus (2013) [pdf]](https://www.cs.rpi.edu/academics/courses/spring11/proglang/handouts/lambda-calculus-chapter.pdf)
