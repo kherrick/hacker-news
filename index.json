@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2023-08-18, 17:14:59",
+      "https://news.ycombinator.com/item?id=37178842"
+    ],
+    [
+      "Expanding Transformer size without losing function or starting from scratch",
+      "https://arxiv.org/abs/2308.06103"
+    ]
+  ],
+  [
+    [
       "2023-08-18, 16:41:25",
       "https://news.ycombinator.com/item?id=37178251"
     ],
@@ -237,16 +247,6 @@
     [
       "Emulating the 6502 CPU in C++ (2021) [video]",
       "https://www.youtube.com/watch?v=qJgsuQoy9bc"
-    ]
-  ],
-  [
-    [
-      "2023-08-18, 08:15:23",
-      "https://news.ycombinator.com/item?id=37172689"
-    ],
-    [
-      "Pg_later: Asynchronous Queries for Postgres",
-      "https://tembo.io/blog/introducing-pg-later/"
     ]
   ],
   [
