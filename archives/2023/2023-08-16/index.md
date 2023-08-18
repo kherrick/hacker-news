@@ -59,6 +59,7 @@
 * [2023-08-16, 16:11:21](https://news.ycombinator.com/item?id=37149271) - [System Initiative has open sourced its collab DevOps tool](https://www.systeminit.com/blog-open-source/)
 * [2023-08-16, 15:33:57](https://news.ycombinator.com/item?id=37148680) - [The tech job recession is over](https://www.businessinsider.com/the-tech-job-recession-is-over-when-will-hiring-reaccelerate-2023-8)
 * [2023-08-16, 15:24:15](https://news.ycombinator.com/item?id=37148520) - [Exercising at a VR Gym](https://sfstandard.com/2023/08/06/san-francisco-black-box-virtual-reality-gym/)
+* [2023-08-16, 15:22:22](https://news.ycombinator.com/item?id=37148490) - [Unlocking the mathematical formula of juggling (2012) [video]](https://www.bbc.co.uk/news/av/magazine-20669507)
 * [2023-08-16, 15:07:03](https://news.ycombinator.com/item?id=37148240) - [Ask HN: If we train an LLM with “data” instead of “language” tokens](https://news.ycombinator.com/item?id=37148240)
 * [2023-08-16, 15:05:09](https://news.ycombinator.com/item?id=37148210) - [Show HN: LlamaGPT – Self-hosted, offline, private AI chatbot, powered by Llama 2](https://github.com/getumbrel/llama-gpt)
 * [2023-08-16, 14:56:18](https://news.ycombinator.com/item?id=37148062) - [Fred Fish (Fish Disks)](https://en.wikipedia.org/wiki/Fred_Fish)
