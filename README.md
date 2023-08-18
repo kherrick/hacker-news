@@ -2,6 +2,7 @@
 
 * [2023-08-18, 03:33:50](https://news.ycombinator.com/item?id=37171149) - [Functional Programming Library for Golang by IBM](https://github.com/IBM/fp-go)
 * [2023-08-18, 02:47:21](https://news.ycombinator.com/item?id=37170911) - [Microplastics Detected in the Marine Air from Norway to the High Arctic](https://scienceswitch.com/2023/08/18/microplastics-detected-in-the-marine-air-from-norway-to-the-high-arctic/)
+* [2023-08-18, 02:20:55](https://news.ycombinator.com/item?id=37170771) - [GIL removal and the Faster CPython project](https://lwn.net/Articles/939981/)
 * [2023-08-18, 02:05:14](https://news.ycombinator.com/item?id=37170683) - [FreeBSD Bhyve Virtualization](https://vermaden.wordpress.com/2023/08/18/freebsd-bhyve-virtualization/)
 * [2023-08-18, 02:03:30](https://news.ycombinator.com/item?id=37170671) - [The modern sea spider had started to diversify by the Jurassic, study finds](https://www.bristol.ac.uk/news/2023/august/sea-spider-had-started-to-diversify-by-jurassic.html)
 * [2023-08-18, 02:02:24](https://news.ycombinator.com/item?id=37170669) - [New type of star gives clues to mysterious origin of magnetars](https://www.eso.org/public/news/eso2313/)
@@ -23,7 +24,6 @@
 * [2023-08-17, 15:10:50](https://news.ycombinator.com/item?id=37162898) - [I am afraid to inform you that you have built a compiler (2022)](https://rachit.pl/post/you-have-built-a-compiler/)
 * [2023-08-17, 15:02:10](https://news.ycombinator.com/item?id=37162774) - [The Fill and Flush deplaning method](https://www.fillandflush.com)
 * [2023-08-17, 12:51:00](https://news.ycombinator.com/item?id=37160783) - [Retrieving 1TB of data from a faulty drive with the help of woodworking tools](https://blog.jgc.org/2023/08/retrieving-1tb-of-data-from-faulty.html)
-* [2023-08-17, 10:45:45](https://news.ycombinator.com/item?id=37159712) - [Show HN: Run globally distributed full-stack apps on high-performance MicroVMs](https://www.koyeb.com/)
 * [2023-08-17, 05:51:38](https://news.ycombinator.com/item?id=37157747) - [County Highway: print-only broadsheet magazine about America](https://airmail.news/issues/2023-7-29/highway-to-nowhere)
 * [2023-08-16, 15:22:22](https://news.ycombinator.com/item?id=37148490) - [Unlocking the mathematical formula of juggling (2012) [video]](https://www.bbc.co.uk/news/av/magazine-20669507)
 * [2023-08-16, 14:56:18](https://news.ycombinator.com/item?id=37148062) - [Fred Fish](https://en.wikipedia.org/wiki/Fred_Fish)
