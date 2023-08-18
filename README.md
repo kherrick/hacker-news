@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-18, 08:15:19](https://news.ycombinator.com/item?id=37172685) - [CATL (Tesla Supplier) Launches Superfast Charging Battery (10 min)](https://www.catl.com/en/news/6091.html)
 * [2023-08-18, 06:44:42](https://news.ycombinator.com/item?id=37172091) - [ProtonMail Complied with 5,957 Data Requests in 2022 – Still Secure and Private?](https://restoreprivacy.com/protonmail-data-requests-user-logs/)
 * [2023-08-18, 06:22:27](https://news.ycombinator.com/item?id=37171955) - [Microsoft AI suggests Ottawa food bank as a “cannot miss” tourist spot](https://arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/)
 * [2023-08-18, 06:20:29](https://news.ycombinator.com/item?id=37171943) - [Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)
@@ -20,7 +21,6 @@
 * [2023-08-17, 19:48:31](https://news.ycombinator.com/item?id=37166986) - [Ancient fires drove large mammals extinct, study suggests](https://www.nytimes.com/2023/08/17/science/climate-paleontology-mammals.html)
 * [2023-08-17, 19:44:47](https://news.ycombinator.com/item?id=37166946) - [How to communicate when trust is low without digging yourself into a deeper hole](https://charity.wtf/2023/08/17/how-to-communicate-when-trust-is-low-without-digging-yourself-into-a-deeper-hole/)
 * [2023-08-17, 19:40:41](https://news.ycombinator.com/item?id=37166885) - [SUSE to go private](https://www.suse.com/news/EQT-announces-voluntary-public-purchase-offer-and-intention-to-delist-SUSE/)
-* [2023-08-17, 19:40:32](https://news.ycombinator.com/item?id=37166880) - [Consensus: Use AI to find insights in research papers](https://consensus.app/)
 * [2023-08-17, 19:07:45](https://news.ycombinator.com/item?id=37166478) - [Job Corps: free, residential training and education for low-income young adults](https://www.jobcorps.gov/)
 * [2023-08-17, 17:18:08](https://news.ycombinator.com/item?id=37165042) - [A Guide to Undefined Behavior in C and C++ (2010)](https://blog.regehr.org/archives/213)
 * [2023-08-16, 15:34:38](https://news.ycombinator.com/item?id=37148694) - [Metallica Hard-Wires a Different Set List Every Night](https://www.nytimes.com/2023/08/16/arts/music/metallica-set-list-interview.html)
