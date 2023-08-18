@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-18](index.md)
 
+* [2023-08-18, 12:47:44](https://news.ycombinator.com/item?id=37174916) - [Node.js 20.6.0 will include built-in support for .env files](https://twitter.com/kom_256/status/1692225622091706389)
+* [2023-08-18, 12:41:19](https://news.ycombinator.com/item?id=37174850) - [You probably don’t need to fine-tune LLMs](https://www.tidepool.so/2023/08/17/why-you-probably-dont-need-to-fine-tune-an-llm/)
 * [2023-08-18, 12:02:46](https://news.ycombinator.com/item?id=37174488) - [Firefox 117 Beta 8 vs. Google Chrome 116 Linux Browser Performance](https://www.phoronix.com/news/Firefox-117-Chrome-116-Bench)
 * [2023-08-18, 12:00:30](https://news.ycombinator.com/item?id=37174474) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=37174474)
 * [2023-08-18, 11:34:57](https://news.ycombinator.com/item?id=37174282) - [UK birth slump dubbed ‘good for planet’](https://www.telegraph.co.uk/business/2023/08/17/20-year-low-for-baby-born-in-england-good-news-for-planet/)
@@ -17,6 +19,7 @@
 * [2023-08-18, 08:15:23](https://news.ycombinator.com/item?id=37172689) - [Pg_later: Asynchronous Queries for Postgres](https://tembo.io/blog/introducing-pg-later/)
 * [2023-08-18, 08:15:19](https://news.ycombinator.com/item?id=37172685) - [CATL (Tesla Supplier) Launches Superfast Charging Battery (10 min)](https://www.catl.com/en/news/6091.html)
 * [2023-08-18, 08:01:42](https://news.ycombinator.com/item?id=37172598) - [London Then and Now: Aerial Shots Show City Grow over Past Two Decades](https://londonist.com/london/art-and-photography/aerial-london-then-and-now)
+* [2023-08-18, 07:46:32](https://news.ycombinator.com/item?id=37172477) - [System Initiative: remove the papercuts from DevOps work](https://github.com/systeminit/si)
 * [2023-08-18, 06:44:42](https://news.ycombinator.com/item?id=37172091) - [ProtonMail Complied with 5,957 Data Requests in 2022 – Still Secure and Private?](https://restoreprivacy.com/protonmail-data-requests-user-logs/)
 * [2023-08-18, 06:22:27](https://news.ycombinator.com/item?id=37171955) - [Microsoft AI suggests Ottawa food bank as a “cannot miss” tourist spot](https://arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/)
 * [2023-08-18, 06:20:29](https://news.ycombinator.com/item?id=37171943) - [Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)
