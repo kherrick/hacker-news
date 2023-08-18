@@ -7,6 +7,7 @@
 * [2023-08-18, 15:07:32](https://news.ycombinator.com/item?id=37176717) - [Deja Vu: The FBI Proves Again It Can’t Be Trusted with Section 702](https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702)
 * [2023-08-18, 15:04:35](https://news.ycombinator.com/item?id=37176666) - [Microsoft's backwards compatibility is insane](https://twitter.com/mikko/status/1692503249595584526)
 * [2023-08-18, 14:56:34](https://news.ycombinator.com/item?id=37176555) - [Revealed: WHO aspartame safety panel linked to alleged Coca-Cola front group](https://www.theguardian.com/business/2023/aug/17/who-panel-aspartame-diet-coke-guidelines)
+* [2023-08-18, 14:49:41](https://news.ycombinator.com/item?id=37176439) - [Show HN: A website for remote workers to find Airbnb's with good Internet](https://thewirednomad.com)
 * [2023-08-18, 14:47:24](https://news.ycombinator.com/item?id=37176393) - [Driverless Cruise car collides with SF fire truck, injuring passenger](https://abc7news.com/cruise-driverless-car-sffd-fire-truck-accident/13666936/)
 * [2023-08-18, 14:35:06](https://news.ycombinator.com/item?id=37176220) - [Building Muscle in the Lab](https://ethz.ch/en/news-and-events/eth-news/news/2023/08/building-muscle-in-the-lab.html)
 * [2023-08-18, 14:13:54](https://news.ycombinator.com/item?id=37175892) - [Learning How to Code?](https://news.ycombinator.com/item?id=37175892)
