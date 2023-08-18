@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-18](index.md)
 
+* [2023-08-18, 08:33:39](https://news.ycombinator.com/item?id=37172818) - [Is Germany once again the sick man of Europe?](https://www.economist.com/leaders/2023/08/17/is-germany-once-again-the-sick-man-of-europe)
 * [2023-08-18, 08:18:57](https://news.ycombinator.com/item?id=37172711) - [Tmux has forever changed the way I write code [video]](https://www.youtube.com/watch?v=DzNmUNvnB04)
 * [2023-08-18, 08:15:19](https://news.ycombinator.com/item?id=37172685) - [CATL (Tesla Supplier) Launches Superfast Charging Battery (10 min)](https://www.catl.com/en/news/6091.html)
 * [2023-08-18, 08:01:42](https://news.ycombinator.com/item?id=37172598) - [London Then and Now: Aerial Shots Show City Grow over Past Two Decades](https://londonist.com/london/art-and-photography/aerial-london-then-and-now)
