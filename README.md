@@ -8,7 +8,6 @@
 * [2023-08-17, 23:29:24](https://news.ycombinator.com/item?id=37169679) - [Benefits of Inconvenience (“Fuben-Eki”)](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2046153/)
 * [2023-08-17, 22:51:33](https://news.ycombinator.com/item?id=37169303) - [SUSE to Go Private](https://opensourcewatch.beehiiv.com/p/suse-go-private)
 * [2023-08-17, 22:43:11](https://news.ycombinator.com/item?id=37169226) - [The aging brain: is misplaced DNA to blame?](https://www.science.org/content/blog-post/aging-brain-misplaced-dna-blame)
-* [2023-08-17, 21:19:16](https://news.ycombinator.com/item?id=37168243) - [YouTube Ads May Have Led to Online Tracking of Children, Research Says](https://www.nytimes.com/2023/08/17/technology/youtube-google-children-privacy.html)
 * [2023-08-17, 20:54:34](https://news.ycombinator.com/item?id=37167922) - [How the Army tried and failed to build a bicycle corps (2020)](https://www.armytimes.com/news/your-army/2020/02/25/how-the-army-tried-and-failed-to-build-a-bicycle-corps/)
 * [2023-08-17, 20:39:58](https://news.ycombinator.com/item?id=37167698) - [RoboAgent: A universal agent with 12 Skills](https://robopen.github.io/)
 * [2023-08-17, 20:31:38](https://news.ycombinator.com/item?id=37167562) - [An underwater landslide knocked out two critical submarine cables serving Africa](https://www.kentik.com/blog/dual-subsea-cable-cuts-disrupt-african-internet/)
@@ -29,6 +28,7 @@
 * [2023-08-16, 15:22:22](https://news.ycombinator.com/item?id=37148490) - [Unlocking the mathematical formula of juggling (2012) [video]](https://www.bbc.co.uk/news/av/magazine-20669507)
 * [2023-08-16, 14:56:18](https://news.ycombinator.com/item?id=37148062) - [Fred Fish](https://en.wikipedia.org/wiki/Fred_Fish)
 * [2023-08-16, 14:36:37](https://news.ycombinator.com/item?id=37147724) - [λ Calculus (2013) [pdf]](https://www.cs.rpi.edu/academics/courses/spring11/proglang/handouts/lambda-calculus-chapter.pdf)
+* [2023-08-16, 07:09:35](https://news.ycombinator.com/item?id=37143716) - [New book considers the impact of electronic logging devices on drivers](https://www.truckersnews.com/home/article/15305066/new-book-considers-the-impact-of-electronic-logging-devices-on-drivers)
 * [2023-08-15, 23:39:30](https://news.ycombinator.com/item?id=37140831) - [Bali rice experiment cuts greenhouse gas emissions and increases yields](https://news.mongabay.com/2023/08/bali-rice-experiment-cuts-greenhouse-gas-emissions-and-increases-yields/)
 
 ## [Archives](archives/index.md)
