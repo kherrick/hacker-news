@@ -6,6 +6,7 @@
 
 * [2023-08-18, 12:47:44](https://news.ycombinator.com/item?id=37174916) - [Node.js 20.6.0 will include built-in support for .env files](https://twitter.com/kom_256/status/1692225622091706389)
 * [2023-08-18, 12:41:19](https://news.ycombinator.com/item?id=37174850) - [You probably don’t need to fine-tune LLMs](https://www.tidepool.so/2023/08/17/why-you-probably-dont-need-to-fine-tune-an-llm/)
+* [2023-08-18, 12:22:07](https://news.ycombinator.com/item?id=37174657) - [Textual: Rapid Application Development Framework for Python](https://github.com/Textualize/textual)
 * [2023-08-18, 12:02:46](https://news.ycombinator.com/item?id=37174488) - [Firefox 117 Beta 8 vs. Google Chrome 116 Linux Browser Performance](https://www.phoronix.com/news/Firefox-117-Chrome-116-Bench)
 * [2023-08-18, 12:00:30](https://news.ycombinator.com/item?id=37174474) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=37174474)
 * [2023-08-18, 11:34:57](https://news.ycombinator.com/item?id=37174282) - [UK birth slump dubbed ‘good for planet’](https://www.telegraph.co.uk/business/2023/08/17/20-year-low-for-baby-born-in-england-good-news-for-planet/)

@@ -2,6 +2,7 @@
 
 * [2023-08-18, 12:47:44](https://news.ycombinator.com/item?id=37174916) - [Node.js 20.6.0 will include built-in support for .env files](https://twitter.com/kom_256/status/1692225622091706389)
 * [2023-08-18, 12:41:19](https://news.ycombinator.com/item?id=37174850) - [You probably don’t need to fine-tune LLMs](https://www.tidepool.so/2023/08/17/why-you-probably-dont-need-to-fine-tune-an-llm/)
+* [2023-08-18, 12:22:07](https://news.ycombinator.com/item?id=37174657) - [Textual: Rapid Application Development Framework for Python](https://github.com/Textualize/textual)
 * [2023-08-18, 12:02:46](https://news.ycombinator.com/item?id=37174488) - [Firefox 117 Beta 8 vs. Google Chrome 116 Linux Browser Performance](https://www.phoronix.com/news/Firefox-117-Chrome-116-Bench)
 * [2023-08-18, 12:00:30](https://news.ycombinator.com/item?id=37174474) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=37174474)
 * [2023-08-18, 09:45:32](https://news.ycombinator.com/item?id=37173339) - [Short session expiration does not help security](https://www.sjoerdlangkemper.nl/2023/08/16/session-timeout/)
@@ -26,7 +27,6 @@
 * [2023-08-17, 14:41:54](https://news.ycombinator.com/item?id=37162419) - [Abbrev: A hidden Ruby gem](https://www.akshaykhot.com/ruby-abbrev-module/)
 * [2023-08-17, 06:02:09](https://news.ycombinator.com/item?id=37157811) - [Acronym’s new computer with Asus is bonkers, but that’s the point](https://techcrunch.com/2023/08/16/review-acronym-rmt02-asus/)
 * [2023-08-16, 22:59:56](https://news.ycombinator.com/item?id=37155010) - [Architecture of Consoles (2020)](https://www.copetti.org/writings/consoles/)
-* [2023-08-16, 16:17:17](https://news.ycombinator.com/item?id=37149349) - [LK-99 isn’t a superconductor](https://www.nature.com/articles/d41586-023-02585-7)
 * [2023-08-16, 14:36:37](https://news.ycombinator.com/item?id=37147724) - [λ Calculus (2013) [pdf]](https://www.cs.rpi.edu/academics/courses/spring11/proglang/handouts/lambda-calculus-chapter.pdf)
 * [2023-08-16, 09:39:10](https://news.ycombinator.com/item?id=37144707) - [A new instrument found unusual success](https://www.theguardian.com/music/2023/aug/16/if-stevie-wonder-wants-to-play-it-pay-attention-how-a-bizarre-new-instrument-found-unusual-success)
 * [2023-08-16, 06:03:11](https://news.ycombinator.com/item?id=37143376) - [Load Balancing: The Intuition Behind the Power of Two Random Choices](https://betterprogramming.pub/load-balancing-the-intuition-behind-the-power-of-two-random-choices-6de2e139ac2f)
