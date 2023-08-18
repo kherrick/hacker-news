@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=37169696"
     ],
     [
-      "New Linux Tablet from Star Labs",
+      "StarLite 12.5-inch Linux tablet",
       "https://us.starlabs.systems/pages/starlite"
     ]
   ],
@@ -27,16 +27,6 @@
     [
       "Benefits of Inconvenience (“Fuben-Eki”)",
       "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2046153/"
-    ]
-  ],
-  [
-    [
-      "2023-08-17, 22:57:54",
-      "https://news.ycombinator.com/item?id=37169371"
-    ],
-    [
-      "A Blood Factor Can Rejuvenate the Aging Brain",
-      "https://www.insideprecisionmedicine.com/topics/molecular-dx-topic/a-blood-factor-can-rejuvenate-the-aging-brain/"
     ]
   ],
   [
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=37169226"
     ],
     [
-      "The Aging Brain: Is Misplaced DNA to Blame?",
+      "The aging brain: is misplaced DNA to blame?",
       "https://www.science.org/content/blog-post/aging-brain-misplaced-dna-blame"
     ]
   ],
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2023-08-17, 16:27:26",
+      "https://news.ycombinator.com/item?id=37164155"
+    ],
+    [
+      "1.56M dehumidifiers recalled due to fire and burn hazards",
+      "https://www.theverge.com/2023/8/16/23835116/have-you-seen-these-dehumidifiers-stop-using-them-or-you-might-die"
+    ]
+  ],
+  [
+    [
       "2023-08-17, 16:15:29",
       "https://news.ycombinator.com/item?id=37163980"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2023-08-16, 16:17:17",
+      "https://news.ycombinator.com/item?id=37149349"
+    ],
+    [
+      "LK-99 isn’t a superconductor",
+      "https://www.nature.com/articles/d41586-023-02585-7"
+    ]
+  ],
+  [
+    [
       "2023-08-16, 15:22:22",
       "https://news.ycombinator.com/item?id=37148490"
     ],
@@ -275,18 +285,8 @@
       "https://news.ycombinator.com/item?id=37147724"
     ],
     [
-      "λ Calculus [pdf]",
+      "λ Calculus (2013) [pdf]",
       "https://www.cs.rpi.edu/academics/courses/spring11/proglang/handouts/lambda-calculus-chapter.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-08-16, 02:41:28",
-      "https://news.ycombinator.com/item?id=37142268"
-    ],
-    [
-      "Cparser – A C99 parser (with GNU extensions) (2020)",
-      "https://github.com/libfirm/cparser"
     ]
   ],
   [
