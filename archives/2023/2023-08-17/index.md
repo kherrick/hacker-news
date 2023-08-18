@@ -8,6 +8,7 @@
 * [2023-08-17, 23:29:24](https://news.ycombinator.com/item?id=37169679) - [Benefits of Inconvenience (“Fuben-Eki”)](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/2046153/)
 * [2023-08-17, 22:57:54](https://news.ycombinator.com/item?id=37169371) - [A Blood Factor Can Rejuvenate the Aging Brain](https://www.insideprecisionmedicine.com/topics/molecular-dx-topic/a-blood-factor-can-rejuvenate-the-aging-brain/)
 * [2023-08-17, 22:51:33](https://news.ycombinator.com/item?id=37169303) - [SUSE to Go Private](https://opensourcewatch.beehiiv.com/p/suse-go-private)
+* [2023-08-17, 22:50:53](https://news.ycombinator.com/item?id=37169294) - [On Cans (2014)](https://medium.com/lucky-peach/on-cans-7d86344def06)
 * [2023-08-17, 22:43:11](https://news.ycombinator.com/item?id=37169226) - [The Aging Brain: Is Misplaced DNA to Blame?](https://www.science.org/content/blog-post/aging-brain-misplaced-dna-blame)
 * [2023-08-17, 21:55:15](https://news.ycombinator.com/item?id=37168704) - [The richest Americans account for 40 percent of U.S. climate emissions](https://www.washingtonpost.com/climate-environment/2023/08/17/greenhouse-emissions-income-inequality/)
 * [2023-08-17, 21:51:43](https://news.ycombinator.com/item?id=37168662) - [A website that pairs you with an ʻOhana to support displaced by the Maui Fires](https://mauiohana.support/)
