@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-18](index.md)
 
+* [2023-08-18, 14:13:54](https://news.ycombinator.com/item?id=37175892) - [Learning How to Code?](https://news.ycombinator.com/item?id=37175892)
 * [2023-08-18, 14:00:55](https://news.ycombinator.com/item?id=37175721) - [Sargablock: Bricks from Seaweed](https://fortomorrow.org/explore-solutions/sargablock)
 * [2023-08-18, 13:48:57](https://news.ycombinator.com/item?id=37175568) - [HN's HTML Is Invalid](https://validator.w3.org/nu/?doc=https://news.ycombinator.com/)
 * [2023-08-18, 13:42:50](https://news.ycombinator.com/item?id=37175503) - [Tell HN: Gmail rate limiting emails from AWS SES](https://news.ycombinator.com/item?id=37175503)

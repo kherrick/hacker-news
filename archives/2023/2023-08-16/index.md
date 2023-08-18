@@ -100,6 +100,7 @@
 * [2023-08-16, 11:04:48](https://news.ycombinator.com/item?id=37145275) - [UltiSnips – Snippet Solution for Vim](https://github.com/SirVer/ultisnips)
 * [2023-08-16, 11:00:14](https://news.ycombinator.com/item?id=37145243) - [Why I stopped taking photographs almost altogether](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-08-15/Serendipity)
 * [2023-08-16, 10:51:23](https://news.ycombinator.com/item?id=37145195) - [The 8088 Prefetch Algorithm](https://martypc.blogspot.com/2023/08/the-8088-prefetch-algorithm.html)
+* [2023-08-16, 10:22:57](https://news.ycombinator.com/item?id=37145005) - [Irrigating more U.S. crops by mid-century will be worth it, researchers say](https://phys.org/news/2023-08-irrigating-crops-mid-century-worth-investment.html)
 * [2023-08-16, 10:19:32](https://news.ycombinator.com/item?id=37144985) - [Htmx is part of the GitHub Accelerator](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
 * [2023-08-16, 10:09:00](https://news.ycombinator.com/item?id=37144925) - [Show HN: Repo with a list of 80 decent companies hiring remotely in Europe](https://github.com/EuropeanRemote/european-remote-software-companies)
 * [2023-08-16, 10:04:25](https://news.ycombinator.com/item?id=37144894) - [On to Elixir](https://thraxil.org/users/anders/posts/2023/08/05/on-to-elixir)

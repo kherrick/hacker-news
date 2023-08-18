@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-18, 14:13:54](https://news.ycombinator.com/item?id=37175892) - [Learning How to Code?](https://news.ycombinator.com/item?id=37175892)
 * [2023-08-18, 14:00:55](https://news.ycombinator.com/item?id=37175721) - [Sargablock: Bricks from Seaweed](https://fortomorrow.org/explore-solutions/sargablock)
 * [2023-08-18, 13:42:50](https://news.ycombinator.com/item?id=37175503) - [Tell HN: Gmail rate limiting emails from AWS SES](https://news.ycombinator.com/item?id=37175503)
 * [2023-08-18, 13:36:15](https://news.ycombinator.com/item?id=37175432) - [Mister Rogers Had a Point: Routinely Greeting Six Neighbors Maximizes Wellbeing](https://www.goodnewsnetwork.org/mister-rogers-had-a-point-routinely-greeting-six-neighbors-maximizes-wellbeing-outcomes/)
@@ -15,10 +16,8 @@
 * [2023-08-18, 11:16:33](https://news.ycombinator.com/item?id=37174124) - [A 100GW phased laser array for interstellar lightsail propulsion](https://opg.optica.org/josab/viewmedia.cfm?uri=josab-38-5-1477&html=true)
 * [2023-08-18, 09:45:32](https://news.ycombinator.com/item?id=37173339) - [Short session expiration does not help security](https://www.sjoerdlangkemper.nl/2023/08/16/session-timeout/)
 * [2023-08-18, 09:32:03](https://news.ycombinator.com/item?id=37173231) - [WTF is going on with R7RS Large?](http://dpk.io/r7rswtf)
-* [2023-08-18, 08:33:25](https://news.ycombinator.com/item?id=37172815) - [Career advice for young system programmers](https://glaubercosta-11125.medium.com/career-advice-for-young-system-programmers-c7443f2d3edf)
 * [2023-08-18, 08:15:23](https://news.ycombinator.com/item?id=37172689) - [Pg_later: Asynchronous Queries for Postgres](https://tembo.io/blog/introducing-pg-later/)
 * [2023-08-18, 08:01:42](https://news.ycombinator.com/item?id=37172598) - [London Then and Now: Aerial Shots Show City Grow over Past Two Decades](https://londonist.com/london/art-and-photography/aerial-london-then-and-now)
-* [2023-08-18, 06:22:27](https://news.ycombinator.com/item?id=37171955) - [Microsoft AI suggests Ottawa food bank as a “cannot miss” tourist spot](https://arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/)
 * [2023-08-18, 06:20:29](https://news.ycombinator.com/item?id=37171943) - [Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)
 * [2023-08-18, 05:58:05](https://news.ycombinator.com/item?id=37171801) - [TypeScript Is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
 * [2023-08-18, 04:06:04](https://news.ycombinator.com/item?id=37171294) - [micro – A Modern Alternative to nano](https://micro-editor.github.io/)
@@ -29,6 +28,7 @@
 * [2023-08-17, 14:41:54](https://news.ycombinator.com/item?id=37162419) - [Abbrev: A hidden Ruby gem](https://www.akshaykhot.com/ruby-abbrev-module/)
 * [2023-08-16, 14:36:37](https://news.ycombinator.com/item?id=37147724) - [λ Calculus (2013) [pdf]](https://www.cs.rpi.edu/academics/courses/spring11/proglang/handouts/lambda-calculus-chapter.pdf)
 * [2023-08-16, 11:40:14](https://news.ycombinator.com/item?id=37145547) - [Understanding ‘Why’ (2021)](https://jessiexxcheung.medium.com/understanding-why-6166a3dcf668)
+* [2023-08-16, 10:22:57](https://news.ycombinator.com/item?id=37145005) - [Irrigating more U.S. crops by mid-century will be worth it, researchers say](https://phys.org/news/2023-08-irrigating-crops-mid-century-worth-investment.html)
 * [2023-08-16, 09:39:10](https://news.ycombinator.com/item?id=37144707) - [A new instrument found unusual success](https://www.theguardian.com/music/2023/aug/16/if-stevie-wonder-wants-to-play-it-pay-attention-how-a-bizarre-new-instrument-found-unusual-success)
 
 ## [Archives](archives/index.md)
