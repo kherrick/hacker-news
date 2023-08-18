@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-18, 22:46:24](https://news.ycombinator.com/item?id=37183112) - [Xbox’s new “8 strikes” mod rollout judges hate speech 3x worse than cheating](https://arstechnica.com/gaming/2023/08/xboxs-new-8-strikes-moderation-judges-cheating-and-profanity-equally-harshly/)
 * [2023-08-18, 22:40:51](https://news.ycombinator.com/item?id=37183069) - [2009scape](https://2009scape.org/)
 * [2023-08-18, 22:11:40](https://news.ycombinator.com/item?id=37182828) - [Radiation Spikes at Chernobyl: A Mystery Few Seem Interested in Solving](https://zetter.substack.com/p/radiation-spikes-at-chernobyl-a-mystery)
 * [2023-08-18, 22:02:39](https://news.ycombinator.com/item?id=37182747) - [Pines’ demon observed as a 3D acoustic plasmon in Sr2RuO4](https://www.nature.com/articles/s41586-023-06318-8)
@@ -9,7 +10,6 @@
 * [2023-08-18, 19:22:09](https://news.ycombinator.com/item?id=37180767) - [Fixing the TPM: Hardware Security Modules Done Right](https://loup-vaillant.fr/articles/hsm-done-right)
 * [2023-08-18, 18:27:54](https://news.ycombinator.com/item?id=37180017) - [Show HN: Poozle – open-source Plaid for LLMs](https://github.com/poozlehq/poozle)
 * [2023-08-18, 17:26:54](https://news.ycombinator.com/item?id=37179066) - [The Plumber Problem](https://hypercritical.co/2023/08/18/the-plumber-problem)
-* [2023-08-18, 17:14:59](https://news.ycombinator.com/item?id=37178842) - [Expanding Transformer size without losing function or starting from scratch](https://arxiv.org/abs/2308.06103)
 * [2023-08-18, 16:41:25](https://news.ycombinator.com/item?id=37178251) - [Zaum](https://en.wikipedia.org/wiki/Zaum)
 * [2023-08-18, 15:28:58](https://news.ycombinator.com/item?id=37176960) - [Learning async Rust with entirely too many web servers](https://ibraheem.ca/posts/too-many-web-servers/)
 * [2023-08-18, 15:16:46](https://news.ycombinator.com/item?id=37176842) - [Meaningful exits for founders (2016)](https://medium.com/strong-words/meaningful-exits-for-founders-4c3b2baba6b4)

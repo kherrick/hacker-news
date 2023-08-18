@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-18](index.md)
 
+* [2023-08-18, 22:46:24](https://news.ycombinator.com/item?id=37183112) - [Xbox’s new “8 strikes” mod rollout judges hate speech 3x worse than cheating](https://arstechnica.com/gaming/2023/08/xboxs-new-8-strikes-moderation-judges-cheating-and-profanity-equally-harshly/)
 * [2023-08-18, 22:40:51](https://news.ycombinator.com/item?id=37183069) - [2009scape](https://2009scape.org/)
 * [2023-08-18, 22:11:40](https://news.ycombinator.com/item?id=37182828) - [Radiation Spikes at Chernobyl: A Mystery Few Seem Interested in Solving](https://zetter.substack.com/p/radiation-spikes-at-chernobyl-a-mystery)
 * [2023-08-18, 22:02:39](https://news.ycombinator.com/item?id=37182747) - [Pines’ demon observed as a 3D acoustic plasmon in Sr2RuO4](https://www.nature.com/articles/s41586-023-06318-8)
