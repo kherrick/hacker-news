@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-18](index.md)
 
+* [2023-08-18, 05:58:05](https://news.ycombinator.com/item?id=37171801) - [TypeScript Is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
 * [2023-08-18, 04:06:04](https://news.ycombinator.com/item?id=37171294) - [micro – A Modern Alternative to nano](https://micro-editor.github.io/)
 * [2023-08-18, 03:43:36](https://news.ycombinator.com/item?id=37171187) - [China’s property giant Evergrande files for bankruptcy protection in Manhattan](https://www.cnbc.com/2023/08/18/china-property-developer-evergrande-files-for-bankruptcy-protection-in-us.html)
 * [2023-08-18, 03:33:50](https://news.ycombinator.com/item?id=37171149) - [Functional Programming Library for Golang by IBM](https://github.com/IBM/fp-go)

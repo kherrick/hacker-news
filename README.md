@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-18, 05:58:05](https://news.ycombinator.com/item?id=37171801) - [TypeScript Is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
 * [2023-08-18, 04:06:04](https://news.ycombinator.com/item?id=37171294) - [micro – A Modern Alternative to nano](https://micro-editor.github.io/)
 * [2023-08-18, 03:43:36](https://news.ycombinator.com/item?id=37171187) - [China’s property giant Evergrande files for bankruptcy protection in Manhattan](https://www.cnbc.com/2023/08/18/china-property-developer-evergrande-files-for-bankruptcy-protection-in-us.html)
 * [2023-08-18, 03:33:50](https://news.ycombinator.com/item?id=37171149) - [Fp-go: Functional Programming Library for Golang](https://github.com/IBM/fp-go)
@@ -18,7 +19,6 @@
 * [2023-08-17, 19:48:31](https://news.ycombinator.com/item?id=37166986) - [Ancient fires drove large mammals extinct, study suggests](https://www.nytimes.com/2023/08/17/science/climate-paleontology-mammals.html)
 * [2023-08-17, 19:44:47](https://news.ycombinator.com/item?id=37166946) - [How to communicate when trust is low without digging yourself into a deeper hole](https://charity.wtf/2023/08/17/how-to-communicate-when-trust-is-low-without-digging-yourself-into-a-deeper-hole/)
 * [2023-08-17, 19:40:41](https://news.ycombinator.com/item?id=37166885) - [SUSE to go private](https://www.suse.com/news/EQT-announces-voluntary-public-purchase-offer-and-intention-to-delist-SUSE/)
-* [2023-08-17, 19:40:32](https://news.ycombinator.com/item?id=37166880) - [Consensus: Use AI to find insights in research papers](https://consensus.app/)
 * [2023-08-17, 19:07:45](https://news.ycombinator.com/item?id=37166478) - [Job Corps: free, residential training and education for low-income young adults](https://www.jobcorps.gov/)
 * [2023-08-17, 17:18:08](https://news.ycombinator.com/item?id=37165042) - [A Guide to Undefined Behavior in C and C++ (2010)](https://blog.regehr.org/archives/213)
 * [2023-08-17, 16:15:29](https://news.ycombinator.com/item?id=37163980) - [Fuzz testing: the best thing to happen to our application tests](https://questdb.io/blog/fuzz-testing-questdb/)
