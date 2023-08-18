@@ -91,6 +91,7 @@
 * [2023-08-16, 12:01:09](https://news.ycombinator.com/item?id=37145725) - [Firm regrets taking Facebook moderation work](https://www.bbc.com/news/technology-66465231)
 * [2023-08-16, 11:57:57](https://news.ycombinator.com/item?id=37145701) - [‘Forever Chemicals’ Are Everywhere. What Are They Doing to Us?](https://www.nytimes.com/2023/08/16/magazine/pfas-toxic-chemicals.html)
 * [2023-08-16, 11:41:07](https://news.ycombinator.com/item?id=37145558) - [Amazon Pharmacy automates discounts to help insulin patients get pledged prices](https://www.reuters.com/business/retail-consumer/amazon-pharmacy-automates-discounts-help-insulin-patients-get-pledged-prices-2023-08-15/)
+* [2023-08-16, 11:40:14](https://news.ycombinator.com/item?id=37145547) - [Understanding ‘Why’ (2021)](https://jessiexxcheung.medium.com/understanding-why-6166a3dcf668)
 * [2023-08-16, 11:33:18](https://news.ycombinator.com/item?id=37145491) - [They Tried to Kill Me](https://www.nplusonemag.com/online-only/online-only/how-they-tried-to-kill-me/)
 * [2023-08-16, 11:25:20](https://news.ycombinator.com/item?id=37145427) - [Nintendo Is Trying to Patent Some Broad Tears of the Kingdom Mechanics](https://kotaku.com/nintendo-is-trying-to-patent-some-really-broad-tears-of-1850730637)
 * [2023-08-16, 11:24:05](https://news.ycombinator.com/item?id=37145411) - [Energy Jobs Have Increased in Nearly Every County in America](https://www.energy.gov/articles/us-department-energy-finds-energy-jobs-have-increased-nearly-every-county-america)
