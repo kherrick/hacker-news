@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-18, 22:40:51",
+      "https://news.ycombinator.com/item?id=37183069"
+    ],
+    [
+      "2009scape",
+      "https://2009scape.org/"
+    ]
+  ],
+  [
+    [
       "2023-08-18, 22:11:40",
       "https://news.ycombinator.com/item?id=37182828"
     ],
@@ -21,6 +31,26 @@
   ],
   [
     [
+      "2023-08-18, 21:48:08",
+      "https://news.ycombinator.com/item?id=37182600"
+    ],
+    [
+      "Analysis: Health care CEOs hauled in $4B last year as inflation pinched workers",
+      "https://www.statnews.com/2023/08/17/health-ceo-salaries-compensation/"
+    ]
+  ],
+  [
+    [
+      "2023-08-18, 21:40:11",
+      "https://news.ycombinator.com/item?id=37182515"
+    ],
+    [
+      "ARM’s Neoverse N2: Cortex A710 for Servers",
+      "https://chipsandcheese.com/2023/08/18/arms-neoverse-n2-cortex-a710-for-servers/"
+    ]
+  ],
+  [
+    [
       "2023-08-18, 21:21:32",
       "https://news.ycombinator.com/item?id=37182306"
     ],
@@ -37,16 +67,6 @@
     [
       "Discourse on Winning and Losing (1989) [pdf]",
       "https://static1.squarespace.com/static/5497331ae4b0148a6141bd47/t/5af842f8758d4615555d3f6d/1526219514965/Patterns+of+Conflict+Transcript.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-08-18, 21:00:30",
-      "https://news.ycombinator.com/item?id=37182037"
-    ],
-    [
-      "YC Library",
-      "https://www.ycombinator.com/library"
     ]
   ],
   [
@@ -91,32 +111,12 @@
   ],
   [
     [
-      "2023-08-18, 17:14:59",
-      "https://news.ycombinator.com/item?id=37178842"
-    ],
-    [
-      "Expanding Transformer size without losing function or starting from scratch",
-      "https://arxiv.org/abs/2308.06103"
-    ]
-  ],
-  [
-    [
       "2023-08-18, 16:41:25",
       "https://news.ycombinator.com/item?id=37178251"
     ],
     [
       "Zaum",
       "https://en.wikipedia.org/wiki/Zaum"
-    ]
-  ],
-  [
-    [
-      "2023-08-18, 16:27:10",
-      "https://news.ycombinator.com/item?id=37178009"
-    ],
-    [
-      "C and C++ prioritize performance over correctness",
-      "https://research.swtch.com/ub"
     ]
   ],
   [
@@ -197,16 +197,6 @@
     [
       "Mister Rogers had a point – routinely greeting six neighbors maximizes wellbeing",
       "https://news.gallup.com/poll/509543/saying-hello-linked-higher-wellbeing-limits.aspx"
-    ]
-  ],
-  [
-    [
-      "2023-08-18, 13:20:50",
-      "https://news.ycombinator.com/item?id=37175228"
-    ],
-    [
-      "Low dose radiation cancer 2x worse than predicted by LNT model",
-      "https://www.bmj.com/content/382/bmj-2022-074520"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Algebraic data types in Lua (almost)",
       "https://mrcjkb.dev/posts/2023-08-17-lua-adts.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-16, 21:21:57",
+      "https://news.ycombinator.com/item?id=37154030"
+    ],
+    [
+      "Buy Me a Chair: The wacky world of university endowments",
+      "https://musgrave.substack.com/p/buy-me-a-chair"
     ]
   ]
 ]
