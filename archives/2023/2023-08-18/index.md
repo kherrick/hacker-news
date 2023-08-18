@@ -57,6 +57,7 @@
 * [2023-08-18, 09:32:03](https://news.ycombinator.com/item?id=37173231) - [WTF is going on with R7RS Large?](http://dpk.io/r7rswtf)
 * [2023-08-18, 08:33:39](https://news.ycombinator.com/item?id=37172818) - [Is Germany once again the sick man of Europe?](https://www.economist.com/leaders/2023/08/17/is-germany-once-again-the-sick-man-of-europe)
 * [2023-08-18, 08:33:25](https://news.ycombinator.com/item?id=37172815) - [Career advice for young system programmers](https://glaubercosta-11125.medium.com/career-advice-for-young-system-programmers-c7443f2d3edf)
+* [2023-08-18, 08:28:04](https://news.ycombinator.com/item?id=37172769) - [Emulating a CPU in C++ (6502) [video]](https://www.youtube.com/watch?v=qJgsuQoy9bc)
 * [2023-08-18, 08:18:57](https://news.ycombinator.com/item?id=37172711) - [Tmux has forever changed the way I write code [video]](https://www.youtube.com/watch?v=DzNmUNvnB04)
 * [2023-08-18, 08:15:23](https://news.ycombinator.com/item?id=37172689) - [Pg_later: Asynchronous Queries for Postgres](https://tembo.io/blog/introducing-pg-later/)
 * [2023-08-18, 08:15:19](https://news.ycombinator.com/item?id=37172685) - [CATL (Tesla Supplier) Launches Superfast Charging Battery (10 min)](https://www.catl.com/en/news/6091.html)
