@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-18](index.md)
 
+* [2023-08-18, 22:11:40](https://news.ycombinator.com/item?id=37182828) - [Radiation Spikes at Chernobyl: A Mystery Few Seem Interested in Solving](https://zetter.substack.com/p/radiation-spikes-at-chernobyl-a-mystery)
 * [2023-08-18, 22:02:39](https://news.ycombinator.com/item?id=37182747) - [Pines’ demon observed as a 3D acoustic plasmon in Sr2RuO4](https://www.nature.com/articles/s41586-023-06318-8)
 * [2023-08-18, 21:21:32](https://news.ycombinator.com/item?id=37182306) - [Artists have forgotten how to draw](https://unherd.com/2023/08/artists-have-forgotten-how-to-draw/)
 * [2023-08-18, 21:14:26](https://news.ycombinator.com/item?id=37182200) - [Discourse on Winning and Losing [pdf]](https://static1.squarespace.com/static/5497331ae4b0148a6141bd47/t/5af842f8758d4615555d3f6d/1526219514965/Patterns+of+Conflict+Transcript.pdf)
@@ -78,6 +79,7 @@
 * [2023-08-18, 06:20:29](https://news.ycombinator.com/item?id=37171943) - [Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)
 * [2023-08-18, 05:58:05](https://news.ycombinator.com/item?id=37171801) - [TypeScript Is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
 * [2023-08-18, 05:07:44](https://news.ycombinator.com/item?id=37171553) - [Complexity theory’s 50-year journey to the limits of knowledge](https://www.quantamagazine.org/complexity-theorys-50-year-journey-to-the-limits-of-knowledge-20230817/)
+* [2023-08-18, 04:30:23](https://news.ycombinator.com/item?id=37171411) - [The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
 * [2023-08-18, 04:06:04](https://news.ycombinator.com/item?id=37171294) - [micro – A Modern Alternative to nano](https://micro-editor.github.io/)
 * [2023-08-18, 03:43:36](https://news.ycombinator.com/item?id=37171187) - [China’s property giant Evergrande files for bankruptcy protection in Manhattan](https://www.cnbc.com/2023/08/18/china-property-developer-evergrande-files-for-bankruptcy-protection-in-us.html)
 * [2023-08-18, 03:33:50](https://news.ycombinator.com/item?id=37171149) - [Functional Programming Library for Golang by IBM](https://github.com/IBM/fp-go)
