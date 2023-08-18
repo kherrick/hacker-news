@@ -57,6 +57,7 @@
 * [2023-08-16, 16:17:17](https://news.ycombinator.com/item?id=37149349) - [LK-99 isn’t a superconductor – how science sleuths solved the mystery](https://www.nature.com/articles/d41586-023-02585-7)
 * [2023-08-16, 16:15:41](https://news.ycombinator.com/item?id=37149327) - [What Happens to All the Stuff We Return?](https://www.newyorker.com/magazine/2023/08/21/the-hidden-cost-of-free-returns)
 * [2023-08-16, 16:11:21](https://news.ycombinator.com/item?id=37149271) - [System Initiative has open sourced its collab DevOps tool](https://www.systeminit.com/blog-open-source/)
+* [2023-08-16, 15:34:38](https://news.ycombinator.com/item?id=37148694) - [Metallica Hard-Wires a Different Set List Every Night](https://www.nytimes.com/2023/08/16/arts/music/metallica-set-list-interview.html)
 * [2023-08-16, 15:33:57](https://news.ycombinator.com/item?id=37148680) - [The tech job recession is over](https://www.businessinsider.com/the-tech-job-recession-is-over-when-will-hiring-reaccelerate-2023-8)
 * [2023-08-16, 15:24:15](https://news.ycombinator.com/item?id=37148520) - [Exercising at a VR Gym](https://sfstandard.com/2023/08/06/san-francisco-black-box-virtual-reality-gym/)
 * [2023-08-16, 15:22:22](https://news.ycombinator.com/item?id=37148490) - [Unlocking the mathematical formula of juggling (2012) [video]](https://www.bbc.co.uk/news/av/magazine-20669507)
