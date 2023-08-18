@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-18, 16:45:42](https://news.ycombinator.com/item?id=37178329) - [It’s time for Americans to embrace small cars](https://arstechnica.com/cars/2023/08/dont-supersize-me-the-case-for-small-electric-cars-instead-of-big-suvs/)
 * [2023-08-18, 16:27:10](https://news.ycombinator.com/item?id=37178009) - [C and C++ Prioritize Performance over Correctness](https://research.swtch.com/ub)
 * [2023-08-18, 15:57:49](https://news.ycombinator.com/item?id=37177508) - [Black Atlanta venture capital firm sued for racial discrimination](https://www.ajc.com/news/business/conservative-group-sues-black-atlanta-vc-firm-for-racial-discrimination/M6NP2V5PRJGE3HTJXBSF7VYKTY/)
 * [2023-08-18, 15:07:32](https://news.ycombinator.com/item?id=37176717) - [Deja Vu: The FBI Proves Again It Can’t Be Trusted with Section 702](https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702)
@@ -28,7 +29,6 @@
 * [2023-08-17, 06:58:26](https://news.ycombinator.com/item?id=37158155) - [The ancient technology keeping space missions alive](https://www.bbc.com/future/article/20230815-the-ancient-tech-keeping-space-missions-alive)
 * [2023-08-17, 06:02:09](https://news.ycombinator.com/item?id=37157811) - [Acronym’s new computer with Asus is bonkers, but that’s the point](https://techcrunch.com/2023/08/16/review-acronym-rmt02-asus/)
 * [2023-08-16, 11:40:14](https://news.ycombinator.com/item?id=37145547) - [Understanding ‘Why’ (2021)](https://jessiexxcheung.medium.com/understanding-why-6166a3dcf668)
-* [2023-08-16, 10:22:57](https://news.ycombinator.com/item?id=37145005) - [Irrigating more U.S. crops by mid-century will be worth it, researchers say](https://phys.org/news/2023-08-irrigating-crops-mid-century-worth-investment.html)
 * [2023-08-16, 09:39:10](https://news.ycombinator.com/item?id=37144707) - [A new instrument found unusual success](https://www.theguardian.com/music/2023/aug/16/if-stevie-wonder-wants-to-play-it-pay-attention-how-a-bizarre-new-instrument-found-unusual-success)
 
 ## [Archives](archives/index.md)
