@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-18](index.md)
 
+* [2023-08-18, 20:36:59](https://news.ycombinator.com/item?id=37181759) - [A testimony of “guilt-by-association” harassment in astronomy](https://hxstem.substack.com/p/a-testimony-of-guilt-by-association)
+* [2023-08-18, 19:59:05](https://news.ycombinator.com/item?id=37181276) - [Boycott Systemd (2014)](https://web.archive.org/web/20140424123646/http://boycottsystemd.org/)
 * [2023-08-18, 19:31:10](https://news.ycombinator.com/item?id=37180894) - [Apple searlized the iPhone 14 backglass [video]](https://www.youtube.com/shorts/fLEOiQdDkzk)
 * [2023-08-18, 18:53:30](https://news.ycombinator.com/item?id=37180392) - [Dirty downside of 'return to office'; ending WFH could make climate crisis worse](https://www.businessinsider.com/return-to-office-remote-work-from-home-commute-companies-climate-2023-8)
 * [2023-08-18, 18:35:41](https://news.ycombinator.com/item?id=37180115) - [Blue-light filtering spectacles probably make no difference to sleep quality](https://medicalxpress.com/news/2023-08-blue-light-filtering-spectacles-difference-eye.html)
