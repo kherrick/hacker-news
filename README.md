@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-18, 09:32:03](https://news.ycombinator.com/item?id=37173231) - [WTF is going on with R7RS Large?](http://dpk.io/r7rswtf)
+* [2023-08-18, 08:33:25](https://news.ycombinator.com/item?id=37172815) - [Career advice for young system programmers](https://glaubercosta-11125.medium.com/career-advice-for-young-system-programmers-c7443f2d3edf)
 * [2023-08-18, 08:18:57](https://news.ycombinator.com/item?id=37172711) - [Tmux has forever changed the way I write code [video]](https://www.youtube.com/watch?v=DzNmUNvnB04)
 * [2023-08-18, 08:01:42](https://news.ycombinator.com/item?id=37172598) - [London Then and Now: Aerial Shots Show City Grow over Past Two Decades](https://londonist.com/london/art-and-photography/aerial-london-then-and-now)
 * [2023-08-18, 06:22:27](https://news.ycombinator.com/item?id=37171955) - [Microsoft AI suggests Ottawa food bank as a “cannot miss” tourist spot](https://arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/)
@@ -21,15 +23,13 @@
 * [2023-08-17, 19:44:47](https://news.ycombinator.com/item?id=37166946) - [How to communicate when trust is low without digging yourself into a deeper hole](https://charity.wtf/2023/08/17/how-to-communicate-when-trust-is-low-without-digging-yourself-into-a-deeper-hole/)
 * [2023-08-17, 19:40:41](https://news.ycombinator.com/item?id=37166885) - [SUSE to go private](https://www.suse.com/news/EQT-announces-voluntary-public-purchase-offer-and-intention-to-delist-SUSE/)
 * [2023-08-17, 19:07:45](https://news.ycombinator.com/item?id=37166478) - [Job Corps: free, residential training and education for low-income young adults](https://www.jobcorps.gov/)
-* [2023-08-17, 17:18:08](https://news.ycombinator.com/item?id=37165042) - [A Guide to Undefined Behavior in C and C++ (2010)](https://blog.regehr.org/archives/213)
+* [2023-08-17, 16:15:29](https://news.ycombinator.com/item?id=37163980) - [Fuzz testing: the best thing to happen to our application tests](https://questdb.io/blog/fuzz-testing-questdb/)
 * [2023-08-16, 22:59:56](https://news.ycombinator.com/item?id=37155010) - [Architecture of Consoles (2020)](https://www.copetti.org/writings/consoles/)
 * [2023-08-16, 15:34:38](https://news.ycombinator.com/item?id=37148694) - [Metallica Hard-Wires a Different Set List Every Night](https://www.nytimes.com/2023/08/16/arts/music/metallica-set-list-interview.html)
-* [2023-08-16, 14:56:18](https://news.ycombinator.com/item?id=37148062) - [Fred Fish](https://en.wikipedia.org/wiki/Fred_Fish)
 * [2023-08-16, 14:36:37](https://news.ycombinator.com/item?id=37147724) - [λ Calculus (2013) [pdf]](https://www.cs.rpi.edu/academics/courses/spring11/proglang/handouts/lambda-calculus-chapter.pdf)
 * [2023-08-16, 09:39:10](https://news.ycombinator.com/item?id=37144707) - [A new instrument found unusual success](https://www.theguardian.com/music/2023/aug/16/if-stevie-wonder-wants-to-play-it-pay-attention-how-a-bizarre-new-instrument-found-unusual-success)
 * [2023-08-16, 07:09:35](https://news.ycombinator.com/item?id=37143716) - [New book considers the impact of electronic logging devices on drivers](https://www.truckersnews.com/home/article/15305066/new-book-considers-the-impact-of-electronic-logging-devices-on-drivers)
 * [2023-08-16, 06:03:11](https://news.ycombinator.com/item?id=37143376) - [Load Balancing: The Intuition Behind the Power of Two Random Choices](https://betterprogramming.pub/load-balancing-the-intuition-behind-the-power-of-two-random-choices-6de2e139ac2f)
-* [2023-08-15, 23:39:30](https://news.ycombinator.com/item?id=37140831) - [Bali rice experiment cuts greenhouse gas emissions and increases yields](https://news.mongabay.com/2023/08/bali-rice-experiment-cuts-greenhouse-gas-emissions-and-increases-yields/)
 
 ## [Archives](archives/index.md)
 
