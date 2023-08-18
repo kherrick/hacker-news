@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-18](index.md)
 
+* [2023-08-18, 17:59:06](https://news.ycombinator.com/item?id=37179587) - [Dude,Where's My Donations? Wikimedia gives another $1M to non-Wikimedia projects](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-08-15/News_and_notes)
 * [2023-08-18, 17:33:18](https://news.ycombinator.com/item?id=37179176) - [Moderna CEO made $400M last year–2,435x the median salary of employees](https://arstechnica.com/health/2023/08/moderna-ceo-made-400m-last-year-2435x-the-median-salary-of-employees/)
+* [2023-08-18, 17:29:17](https://news.ycombinator.com/item?id=37179110) - [Earth’s hottest month: these charts show what happened in July; what comes next](https://www.nature.com/articles/d41586-023-02552-2)
 * [2023-08-18, 17:28:13](https://news.ycombinator.com/item?id=37179094) - [Police Are Getting DNA Data from People Who Think They Opted Out](https://theintercept.com/2023/08/18/gedmatch-dna-police-forensic-genetic-genealogy/)
 * [2023-08-18, 17:26:54](https://news.ycombinator.com/item?id=37179066) - [The Plumber Problem](https://hypercritical.co/2023/08/18/the-plumber-problem)
 * [2023-08-18, 16:52:35](https://news.ycombinator.com/item?id=37178447) - [The Next Next Job, a framework for making big career decisions](https://andrewchen.com/the-next-next-job/)
