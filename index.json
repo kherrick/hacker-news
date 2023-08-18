@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-18, 12:47:44",
+      "https://news.ycombinator.com/item?id=37174916"
+    ],
+    [
+      "Node.js 20.6.0 will include built-in support for .env files",
+      "https://twitter.com/kom_256/status/1692225622091706389"
+    ]
+  ],
+  [
+    [
+      "2023-08-18, 12:41:19",
+      "https://news.ycombinator.com/item?id=37174850"
+    ],
+    [
+      "You probably don’t need to fine-tune LLMs",
+      "https://www.tidepool.so/2023/08/17/why-you-probably-dont-need-to-fine-tune-an-llm/"
+    ]
+  ],
+  [
+    [
       "2023-08-18, 12:02:46",
       "https://news.ycombinator.com/item?id=37174488"
     ],
@@ -17,16 +37,6 @@
     [
       "MixRank (YC S11) Is Hiring Global Remote Software Engineers",
       "https://news.ycombinator.com/item?id=37174474"
-    ]
-  ],
-  [
-    [
-      "2023-08-18, 09:46:13",
-      "https://news.ycombinator.com/item?id=37173344"
-    ],
-    [
-      "Facebook must pay $100.000 to Norway each day for violating our right to privacy",
-      "https://tutanota.com/blog/facebook-instagram-adtracking-ends"
     ]
   ],
   [
@@ -81,6 +91,16 @@
   ],
   [
     [
+      "2023-08-18, 07:46:32",
+      "https://news.ycombinator.com/item?id=37172477"
+    ],
+    [
+      "System Initiative: remove the papercuts from DevOps work",
+      "https://github.com/systeminit/si"
+    ]
+  ],
+  [
+    [
       "2023-08-18, 06:22:27",
       "https://news.ycombinator.com/item?id=37171955"
     ],
@@ -121,32 +141,12 @@
   ],
   [
     [
-      "2023-08-18, 03:43:36",
-      "https://news.ycombinator.com/item?id=37171187"
-    ],
-    [
-      "China’s property giant Evergrande files for bankruptcy protection in Manhattan",
-      "https://www.cnbc.com/2023/08/18/china-property-developer-evergrande-files-for-bankruptcy-protection-in-us.html"
-    ]
-  ],
-  [
-    [
       "2023-08-18, 03:33:50",
       "https://news.ycombinator.com/item?id=37171149"
     ],
     [
       "Fp-go: Functional Programming Library for Golang",
       "https://github.com/IBM/fp-go"
-    ]
-  ],
-  [
-    [
-      "2023-08-18, 02:47:21",
-      "https://news.ycombinator.com/item?id=37170911"
-    ],
-    [
-      "Microplastics detected in the marine air from Norway to the high Arctic",
-      "https://scienceswitch.com/2023/08/18/microplastics-detected-in-the-marine-air-from-norway-to-the-high-arctic/"
     ]
   ],
   [
