@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-18, 09:32:03",
+      "https://news.ycombinator.com/item?id=37173231"
+    ],
+    [
+      "WTF is going on with R7RS Large?",
+      "http://dpk.io/r7rswtf"
+    ]
+  ],
+  [
+    [
+      "2023-08-18, 08:33:25",
+      "https://news.ycombinator.com/item?id=37172815"
+    ],
+    [
+      "Career advice for young system programmers",
+      "https://glaubercosta-11125.medium.com/career-advice-for-young-system-programmers-c7443f2d3edf"
+    ]
+  ],
+  [
+    [
       "2023-08-18, 08:18:57",
       "https://news.ycombinator.com/item?id=37172711"
     ],
@@ -211,12 +231,12 @@
   ],
   [
     [
-      "2023-08-17, 17:18:08",
-      "https://news.ycombinator.com/item?id=37165042"
+      "2023-08-17, 16:15:29",
+      "https://news.ycombinator.com/item?id=37163980"
     ],
     [
-      "A Guide to Undefined Behavior in C and C++ (2010)",
-      "https://blog.regehr.org/archives/213"
+      "Fuzz testing: the best thing to happen to our application tests",
+      "https://questdb.io/blog/fuzz-testing-questdb/"
     ]
   ],
   [
@@ -237,16 +257,6 @@
     [
       "Metallica Hard-Wires a Different Set List Every Night",
       "https://www.nytimes.com/2023/08/16/arts/music/metallica-set-list-interview.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-16, 14:56:18",
-      "https://news.ycombinator.com/item?id=37148062"
-    ],
-    [
-      "Fred Fish",
-      "https://en.wikipedia.org/wiki/Fred_Fish"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Load Balancing: The Intuition Behind the Power of Two Random Choices",
       "https://betterprogramming.pub/load-balancing-the-intuition-behind-the-power-of-two-random-choices-6de2e139ac2f"
-    ]
-  ],
-  [
-    [
-      "2023-08-15, 23:39:30",
-      "https://news.ycombinator.com/item?id=37140831"
-    ],
-    [
-      "Bali rice experiment cuts greenhouse gas emissions and increases yields",
-      "https://news.mongabay.com/2023/08/bali-rice-experiment-cuts-greenhouse-gas-emissions-and-increases-yields/"
     ]
   ]
 ]
