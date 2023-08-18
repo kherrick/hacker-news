@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-18](index.md)
 
+* [2023-08-18, 17:28:13](https://news.ycombinator.com/item?id=37179094) - [Police Are Getting DNA Data from People Who Think They Opted Out](https://theintercept.com/2023/08/18/gedmatch-dna-police-forensic-genetic-genealogy/)
 * [2023-08-18, 16:45:42](https://news.ycombinator.com/item?id=37178329) - [It’s time for Americans to embrace small cars](https://arstechnica.com/cars/2023/08/dont-supersize-me-the-case-for-small-electric-cars-instead-of-big-suvs/)
 * [2023-08-18, 16:29:30](https://news.ycombinator.com/item?id=37178060) - [Why musicians in Spain are going topless as a radical gesture](https://www.theguardian.com/music/2023/aug/18/topless-spanish-singers-radical-gesture-eva-amaral)
 * [2023-08-18, 16:27:10](https://news.ycombinator.com/item?id=37178009) - [C and C++ Prioritize Performance over Correctness](https://research.swtch.com/ub)
