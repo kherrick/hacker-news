@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-18, 06:20:29](https://news.ycombinator.com/item?id=37171943) - [Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)
 * [2023-08-18, 05:58:05](https://news.ycombinator.com/item?id=37171801) - [TypeScript Is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
 * [2023-08-18, 04:06:04](https://news.ycombinator.com/item?id=37171294) - [micro – A Modern Alternative to nano](https://micro-editor.github.io/)
 * [2023-08-18, 03:43:36](https://news.ycombinator.com/item?id=37171187) - [China’s property giant Evergrande files for bankruptcy protection in Manhattan](https://www.cnbc.com/2023/08/18/china-property-developer-evergrande-files-for-bankruptcy-protection-in-us.html)
@@ -22,7 +23,6 @@
 * [2023-08-17, 19:07:45](https://news.ycombinator.com/item?id=37166478) - [Job Corps: free, residential training and education for low-income young adults](https://www.jobcorps.gov/)
 * [2023-08-17, 17:18:08](https://news.ycombinator.com/item?id=37165042) - [A Guide to Undefined Behavior in C and C++ (2010)](https://blog.regehr.org/archives/213)
 * [2023-08-17, 16:15:29](https://news.ycombinator.com/item?id=37163980) - [Fuzz testing: the best thing to happen to our application tests](https://questdb.io/blog/fuzz-testing-questdb/)
-* [2023-08-17, 15:28:39](https://news.ycombinator.com/item?id=37163187) - [Turmoil, a framework for developing and testing distributed systems](https://tokio.rs/blog/2023-01-03-announcing-turmoil)
 * [2023-08-16, 23:02:10](https://news.ycombinator.com/item?id=37155031) - [Copyright and fair use in the digital era](https://theweek.com/lawsuits/1025790/copyright-law-and-the-internet)
 * [2023-08-16, 14:56:18](https://news.ycombinator.com/item?id=37148062) - [Fred Fish](https://en.wikipedia.org/wiki/Fred_Fish)
 * [2023-08-16, 14:36:37](https://news.ycombinator.com/item?id=37147724) - [λ Calculus (2013) [pdf]](https://www.cs.rpi.edu/academics/courses/spring11/proglang/handouts/lambda-calculus-chapter.pdf)
