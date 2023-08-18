@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-18, 17:28:13](https://news.ycombinator.com/item?id=37179094) - [Police Are Getting DNA Data from People Who Think They Opted Out](https://theintercept.com/2023/08/18/gedmatch-dna-police-forensic-genetic-genealogy/)
+* [2023-08-18, 17:26:54](https://news.ycombinator.com/item?id=37179066) - [The Plumber Problem](https://hypercritical.co/2023/08/18/the-plumber-problem)
+* [2023-08-18, 16:50:09](https://news.ycombinator.com/item?id=37178409) - [From Mechs to Mopar](https://www.filfre.net/2023/08/from-mechs-to-mopar/)
 * [2023-08-18, 16:27:10](https://news.ycombinator.com/item?id=37178009) - [C and C++ Prioritize Performance over Correctness](https://research.swtch.com/ub)
 * [2023-08-18, 15:07:32](https://news.ycombinator.com/item?id=37176717) - [Deja Vu: The FBI Proves Again It Can’t Be Trusted with Section 702](https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702)
 * [2023-08-18, 15:06:48](https://news.ycombinator.com/item?id=37176703) - [Ask vs. Guess Culture](https://jeanhsu.substack.com/p/ask-vs-guess-culture)
@@ -22,8 +24,6 @@
 * [2023-08-18, 05:58:05](https://news.ycombinator.com/item?id=37171801) - [TypeScript Is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
 * [2023-08-18, 04:06:04](https://news.ycombinator.com/item?id=37171294) - [micro – A Modern Alternative to nano](https://micro-editor.github.io/)
 * [2023-08-18, 03:33:50](https://news.ycombinator.com/item?id=37171149) - [FP-Go: Functional programming library for Golang](https://github.com/IBM/fp-go)
-* [2023-08-18, 02:20:55](https://news.ycombinator.com/item?id=37170771) - [GIL removal and the Faster CPython project](https://lwn.net/Articles/939981/)
-* [2023-08-17, 23:30:58](https://news.ycombinator.com/item?id=37169696) - [StarLite 12.5-inch Linux tablet](https://us.starlabs.systems/pages/starlite)
 * [2023-08-17, 20:48:00](https://news.ycombinator.com/item?id=37167833) - [Throwing away 10 months of work after 2 months on the job](https://www.dancowell.com/breaking-the-rules/)
 * [2023-08-17, 16:01:09](https://news.ycombinator.com/item?id=37163742) - [Algebraic data types in Lua (almost)](https://mrcjkb.dev/posts/2023-08-17-lua-adts.html)
 * [2023-08-17, 14:41:54](https://news.ycombinator.com/item?id=37162419) - [Abbrev: A hidden Ruby gem](https://www.akshaykhot.com/ruby-abbrev-module/)
