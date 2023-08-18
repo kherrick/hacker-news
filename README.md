@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-18, 06:44:42](https://news.ycombinator.com/item?id=37172091) - [ProtonMail Complied with 5,957 Data Requests in 2022 – Still Secure and Private?](https://restoreprivacy.com/protonmail-data-requests-user-logs/)
+* [2023-08-18, 06:22:27](https://news.ycombinator.com/item?id=37171955) - [Microsoft AI suggests Ottawa food bank as a “cannot miss” tourist spot](https://arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/)
 * [2023-08-18, 06:20:29](https://news.ycombinator.com/item?id=37171943) - [Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)
 * [2023-08-18, 05:58:05](https://news.ycombinator.com/item?id=37171801) - [TypeScript Is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
 * [2023-08-18, 04:06:04](https://news.ycombinator.com/item?id=37171294) - [micro – A Modern Alternative to nano](https://micro-editor.github.io/)
@@ -14,7 +16,6 @@
 * [2023-08-18, 00:52:32](https://news.ycombinator.com/item?id=37170273) - [How to implement a disk cache plugin for Elixir's Req HTTP client?](https://thibautbarrere.com/2022/09/09/implementing-a-disk-cache-for-elixir-req)
 * [2023-08-17, 23:30:58](https://news.ycombinator.com/item?id=37169696) - [StarLite 12.5-inch Linux tablet](https://us.starlabs.systems/pages/starlite)
 * [2023-08-17, 22:43:11](https://news.ycombinator.com/item?id=37169226) - [The aging brain: is misplaced DNA to blame?](https://www.science.org/content/blog-post/aging-brain-misplaced-dna-blame)
-* [2023-08-17, 20:54:34](https://news.ycombinator.com/item?id=37167922) - [How the Army tried and failed to build a bicycle corps (2020)](https://www.armytimes.com/news/your-army/2020/02/25/how-the-army-tried-and-failed-to-build-a-bicycle-corps/)
 * [2023-08-17, 20:39:58](https://news.ycombinator.com/item?id=37167698) - [RoboAgent: A universal agent with 12 Skills](https://robopen.github.io/)
 * [2023-08-17, 20:31:38](https://news.ycombinator.com/item?id=37167562) - [An underwater landslide knocked out two critical submarine cables serving Africa](https://www.kentik.com/blog/dual-subsea-cable-cuts-disrupt-african-internet/)
 * [2023-08-17, 19:48:31](https://news.ycombinator.com/item?id=37166986) - [Ancient fires drove large mammals extinct, study suggests](https://www.nytimes.com/2023/08/17/science/climate-paleontology-mammals.html)
@@ -22,7 +23,6 @@
 * [2023-08-17, 19:40:41](https://news.ycombinator.com/item?id=37166885) - [SUSE to go private](https://www.suse.com/news/EQT-announces-voluntary-public-purchase-offer-and-intention-to-delist-SUSE/)
 * [2023-08-17, 19:07:45](https://news.ycombinator.com/item?id=37166478) - [Job Corps: free, residential training and education for low-income young adults](https://www.jobcorps.gov/)
 * [2023-08-17, 17:18:08](https://news.ycombinator.com/item?id=37165042) - [A Guide to Undefined Behavior in C and C++ (2010)](https://blog.regehr.org/archives/213)
-* [2023-08-17, 16:15:29](https://news.ycombinator.com/item?id=37163980) - [Fuzz testing: the best thing to happen to our application tests](https://questdb.io/blog/fuzz-testing-questdb/)
 * [2023-08-16, 23:02:10](https://news.ycombinator.com/item?id=37155031) - [Copyright and fair use in the digital era](https://theweek.com/lawsuits/1025790/copyright-law-and-the-internet)
 * [2023-08-16, 14:56:18](https://news.ycombinator.com/item?id=37148062) - [Fred Fish](https://en.wikipedia.org/wiki/Fred_Fish)
 * [2023-08-16, 14:36:37](https://news.ycombinator.com/item?id=37147724) - [λ Calculus (2013) [pdf]](https://www.cs.rpi.edu/academics/courses/spring11/proglang/handouts/lambda-calculus-chapter.pdf)
