@@ -101,6 +101,7 @@
 * [2023-08-16, 10:09:00](https://news.ycombinator.com/item?id=37144925) - [Show HN: Repo with a list of 80 decent companies hiring remotely in Europe](https://github.com/EuropeanRemote/european-remote-software-companies)
 * [2023-08-16, 10:04:25](https://news.ycombinator.com/item?id=37144894) - [On to Elixir](https://thraxil.org/users/anders/posts/2023/08/05/on-to-elixir)
 * [2023-08-16, 09:54:19](https://news.ycombinator.com/item?id=37144815) - [Embedded Linux, Ioctl, SPI-Dev, I2C-Dev and FPGA](https://www.adiuvoengineering.com/post/microzed-chronicles-ioctl-spi-i2c-and-petalinux)
+* [2023-08-16, 09:39:10](https://news.ycombinator.com/item?id=37144707) - [A new instrument found unusual success](https://www.theguardian.com/music/2023/aug/16/if-stevie-wonder-wants-to-play-it-pay-attention-how-a-bizarre-new-instrument-found-unusual-success)
 * [2023-08-16, 09:23:27](https://news.ycombinator.com/item?id=37144601) - [Is this a good book for me, now?](https://maryrosecook.com/blog/post/is-this-a-good-book-for-me-now)
 * [2023-08-16, 08:27:45](https://news.ycombinator.com/item?id=37144226) - [Don’t Use VPN Services](https://tilde.club/wiki/vpnwhy.html)
 * [2023-08-16, 08:27:27](https://news.ycombinator.com/item?id=37144224) - [Bad software destroyed my doctor's memory](https://www.theregister.com/2023/08/16/bad_software_destroyed_doctors_memory/)
