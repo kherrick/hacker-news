@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-18, 09:47:10](https://news.ycombinator.com/item?id=37173356) - [Why Japan has so many ‘never travelers’](https://www.cnn.com/travel/article/japan-never-traveler-culture-cmb/index.html)
 * [2023-08-18, 09:32:03](https://news.ycombinator.com/item?id=37173231) - [WTF is going on with R7RS Large?](http://dpk.io/r7rswtf)
 * [2023-08-18, 08:33:25](https://news.ycombinator.com/item?id=37172815) - [Career advice for young system programmers](https://glaubercosta-11125.medium.com/career-advice-for-young-system-programmers-c7443f2d3edf)
 * [2023-08-18, 08:18:57](https://news.ycombinator.com/item?id=37172711) - [Tmux has forever changed the way I write code [video]](https://www.youtube.com/watch?v=DzNmUNvnB04)
@@ -11,7 +12,6 @@
 * [2023-08-18, 04:06:04](https://news.ycombinator.com/item?id=37171294) - [micro – A Modern Alternative to nano](https://micro-editor.github.io/)
 * [2023-08-18, 03:43:36](https://news.ycombinator.com/item?id=37171187) - [China’s property giant Evergrande files for bankruptcy protection in Manhattan](https://www.cnbc.com/2023/08/18/china-property-developer-evergrande-files-for-bankruptcy-protection-in-us.html)
 * [2023-08-18, 03:33:50](https://news.ycombinator.com/item?id=37171149) - [Fp-go: Functional Programming Library for Golang](https://github.com/IBM/fp-go)
-* [2023-08-18, 02:47:21](https://news.ycombinator.com/item?id=37170911) - [Microplastics detected in the marine air from Norway to the high Arctic](https://scienceswitch.com/2023/08/18/microplastics-detected-in-the-marine-air-from-norway-to-the-high-arctic/)
 * [2023-08-18, 02:20:55](https://news.ycombinator.com/item?id=37170771) - [GIL removal and the Faster CPython project](https://lwn.net/Articles/939981/)
 * [2023-08-18, 02:05:14](https://news.ycombinator.com/item?id=37170683) - [FreeBSD Bhyve Virtualization](https://vermaden.wordpress.com/2023/08/18/freebsd-bhyve-virtualization/)
 * [2023-08-18, 02:03:30](https://news.ycombinator.com/item?id=37170671) - [The modern sea spider had started to diversify by the Jurassic, study finds](https://www.bristol.ac.uk/news/2023/august/sea-spider-had-started-to-diversify-by-jurassic.html)
