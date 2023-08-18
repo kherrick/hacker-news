@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-18, 03:33:50](https://news.ycombinator.com/item?id=37171149) - [Functional Programming Library for Golang by IBM](https://github.com/IBM/fp-go)
 * [2023-08-18, 02:05:14](https://news.ycombinator.com/item?id=37170683) - [FreeBSD Bhyve Virtualization](https://vermaden.wordpress.com/2023/08/18/freebsd-bhyve-virtualization/)
 * [2023-08-18, 02:03:30](https://news.ycombinator.com/item?id=37170671) - [The modern sea spider had started to diversify by the Jurassic, study finds](https://www.bristol.ac.uk/news/2023/august/sea-spider-had-started-to-diversify-by-jurassic.html)
 * [2023-08-18, 02:02:24](https://news.ycombinator.com/item?id=37170669) - [New type of star gives clues to mysterious origin of magnetars](https://www.eso.org/public/news/eso2313/)
@@ -15,7 +16,6 @@
 * [2023-08-17, 19:44:47](https://news.ycombinator.com/item?id=37166946) - [How to communicate when trust is low without digging yourself into a deeper hole](https://charity.wtf/2023/08/17/how-to-communicate-when-trust-is-low-without-digging-yourself-into-a-deeper-hole/)
 * [2023-08-17, 19:40:32](https://news.ycombinator.com/item?id=37166880) - [Consensus: Use AI to find insights in research papers](https://consensus.app/)
 * [2023-08-17, 19:07:45](https://news.ycombinator.com/item?id=37166478) - [JobCorps.Gov: free job training, food, housing and living allowance](https://www.jobcorps.gov/)
-* [2023-08-17, 18:05:20](https://news.ycombinator.com/item?id=37165697) - [Market Map](https://marketmap.one)
 * [2023-08-17, 17:18:08](https://news.ycombinator.com/item?id=37165042) - [A Guide to Undefined Behavior in C and C++ (2010)](https://blog.regehr.org/archives/213)
 * [2023-08-17, 17:07:21](https://news.ycombinator.com/item?id=37164864) - [Show HN: Shadeform – Single Platform and API for Provisioning GPUs](https://www.shadeform.ai/)
 * [2023-08-17, 16:15:29](https://news.ycombinator.com/item?id=37163980) - [Fuzz testing: the best thing to happen to our application tests](https://questdb.io/blog/fuzz-testing-questdb/)
