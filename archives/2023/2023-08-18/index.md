@@ -9,6 +9,7 @@
 * [2023-08-18, 11:34:57](https://news.ycombinator.com/item?id=37174282) - [UK birth slump dubbed ‘good for planet’](https://www.telegraph.co.uk/business/2023/08/17/20-year-low-for-baby-born-in-england-good-news-for-planet/)
 * [2023-08-18, 09:47:10](https://news.ycombinator.com/item?id=37173356) - [Why Japan has so many ‘never travelers’](https://www.cnn.com/travel/article/japan-never-traveler-culture-cmb/index.html)
 * [2023-08-18, 09:46:13](https://news.ycombinator.com/item?id=37173344) - [Facebook must pay $100.000 to Norway each day for violating our right to privacy](https://tutanota.com/blog/facebook-instagram-adtracking-ends)
+* [2023-08-18, 09:45:32](https://news.ycombinator.com/item?id=37173339) - [Short session expiration does not help security](https://www.sjoerdlangkemper.nl/2023/08/16/session-timeout/)
 * [2023-08-18, 09:32:03](https://news.ycombinator.com/item?id=37173231) - [WTF is going on with R7RS Large?](http://dpk.io/r7rswtf)
 * [2023-08-18, 08:33:39](https://news.ycombinator.com/item?id=37172818) - [Is Germany once again the sick man of Europe?](https://www.economist.com/leaders/2023/08/17/is-germany-once-again-the-sick-man-of-europe)
 * [2023-08-18, 08:33:25](https://news.ycombinator.com/item?id=37172815) - [Career advice for young system programmers](https://glaubercosta-11125.medium.com/career-advice-for-young-system-programmers-c7443f2d3edf)

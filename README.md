@@ -2,8 +2,8 @@
 
 * [2023-08-18, 12:02:46](https://news.ycombinator.com/item?id=37174488) - [Firefox 117 Beta 8 vs. Google Chrome 116 Linux Browser Performance](https://www.phoronix.com/news/Firefox-117-Chrome-116-Bench)
 * [2023-08-18, 12:00:30](https://news.ycombinator.com/item?id=37174474) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=37174474)
-* [2023-08-18, 11:34:57](https://news.ycombinator.com/item?id=37174282) - [UK birth slump dubbed ‘good for planet’](https://www.telegraph.co.uk/business/2023/08/17/20-year-low-for-baby-born-in-england-good-news-for-planet/)
 * [2023-08-18, 09:46:13](https://news.ycombinator.com/item?id=37173344) - [Facebook must pay $100.000 to Norway each day for violating our right to privacy](https://tutanota.com/blog/facebook-instagram-adtracking-ends)
+* [2023-08-18, 09:45:32](https://news.ycombinator.com/item?id=37173339) - [Short session expiration does not help security](https://www.sjoerdlangkemper.nl/2023/08/16/session-timeout/)
 * [2023-08-18, 09:32:03](https://news.ycombinator.com/item?id=37173231) - [WTF is going on with R7RS Large?](http://dpk.io/r7rswtf)
 * [2023-08-18, 08:33:25](https://news.ycombinator.com/item?id=37172815) - [Career advice for young system programmers](https://glaubercosta-11125.medium.com/career-advice-for-young-system-programmers-c7443f2d3edf)
 * [2023-08-18, 08:15:23](https://news.ycombinator.com/item?id=37172689) - [Pg_later: Asynchronous Queries for Postgres](https://tembo.io/blog/introducing-pg-later/)
@@ -23,7 +23,7 @@
 * [2023-08-17, 22:43:11](https://news.ycombinator.com/item?id=37169226) - [The aging brain: is misplaced DNA to blame?](https://www.science.org/content/blog-post/aging-brain-misplaced-dna-blame)
 * [2023-08-17, 19:40:41](https://news.ycombinator.com/item?id=37166885) - [SUSE to go private](https://www.suse.com/news/EQT-announces-voluntary-public-purchase-offer-and-intention-to-delist-SUSE/)
 * [2023-08-17, 16:25:01](https://news.ycombinator.com/item?id=37164115) - [What happens when you COPY in Postgres?](https://blog.benthem.io/2023/08/16/what-actually-happens-when-you-run-copy-in-postgres.html)
-* [2023-08-17, 12:51:00](https://news.ycombinator.com/item?id=37160783) - [Retrieving 1TB of data from a faulty drive with the help of woodworking tools](https://blog.jgc.org/2023/08/retrieving-1tb-of-data-from-faulty.html)
+* [2023-08-17, 14:41:54](https://news.ycombinator.com/item?id=37162419) - [Abbrev: A hidden Ruby gem](https://www.akshaykhot.com/ruby-abbrev-module/)
 * [2023-08-17, 06:02:09](https://news.ycombinator.com/item?id=37157811) - [Acronym’s new computer with Asus is bonkers, but that’s the point](https://techcrunch.com/2023/08/16/review-acronym-rmt02-asus/)
 * [2023-08-16, 22:59:56](https://news.ycombinator.com/item?id=37155010) - [Architecture of Consoles (2020)](https://www.copetti.org/writings/consoles/)
 * [2023-08-16, 16:17:17](https://news.ycombinator.com/item?id=37149349) - [LK-99 isn’t a superconductor](https://www.nature.com/articles/d41586-023-02585-7)

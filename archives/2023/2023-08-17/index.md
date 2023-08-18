@@ -55,6 +55,7 @@
 * [2023-08-17, 15:01:24](https://news.ycombinator.com/item?id=37162762) - [AMD Ryzen APU turned into a 16GB VRAM GPU and it can run Stable Diffusion](https://old.reddit.com/r/Amd/comments/15t0lsm/i_turned_a_95_amd_apu_into_a_16gb_vram_gpu_and_it/)
 * [2023-08-17, 14:56:07](https://news.ycombinator.com/item?id=37162677) - [Federal Judge Upholds Arizonans’ Right to Record the Police](https://www.eff.org/deeplinks/2023/08/federal-judge-upholds-arizonans-right-record-police)
 * [2023-08-17, 14:50:59](https://news.ycombinator.com/item?id=37162588) - [Inflation Reduction Act impacts on the economics of hydrogen and liquid fuels](https://arxiv.org/abs/2305.00946)
+* [2023-08-17, 14:41:54](https://news.ycombinator.com/item?id=37162419) - [Abbrev: A hidden Ruby gem](https://www.akshaykhot.com/ruby-abbrev-module/)
 * [2023-08-17, 13:43:45](https://news.ycombinator.com/item?id=37161441) - [The TextFX Project by Google](https://textfx.withgoogle.com/)
 * [2023-08-17, 13:36:37](https://news.ycombinator.com/item?id=37161347) - [We Don’t Need a New Twitter](https://www.newyorker.com/culture/cultural-comment/we-dont-need-a-new-twitter)
 * [2023-08-17, 13:24:40](https://news.ycombinator.com/item?id=37161184) - [Show HN: Strich – Barcode scanning for web apps](https://strich.io)
