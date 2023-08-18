@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-18, 21:00:30",
+      "https://news.ycombinator.com/item?id=37182037"
+    ],
+    [
+      "YC Library",
+      "https://www.ycombinator.com/library"
+    ]
+  ],
+  [
+    [
       "2023-08-18, 20:36:59",
       "https://news.ycombinator.com/item?id=37181759"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
+      "2023-08-18, 19:08:12",
+      "https://news.ycombinator.com/item?id=37180583"
+    ],
+    [
+      "Solar-Powered Electric Motors for EVs That Never Plug In",
+      "https://spectrum.ieee.org/solar-powered-motor"
+    ]
+  ],
+  [
+    [
       "2023-08-18, 18:53:30",
       "https://news.ycombinator.com/item?id=37180392"
     ],
     [
       "Dirty downside of 'return to office'; ending WFH could make climate crisis worse",
       "https://www.businessinsider.com/return-to-office-remote-work-from-home-commute-companies-climate-2023-8"
-    ]
-  ],
-  [
-    [
-      "2023-08-18, 18:35:41",
-      "https://news.ycombinator.com/item?id=37180115"
-    ],
-    [
-      "Blue-light filtering spectacles probably make no difference to sleep quality",
-      "https://medicalxpress.com/news/2023-08-blue-light-filtering-spectacles-difference-eye.html"
     ]
   ],
   [
@@ -225,7 +235,7 @@
       "https://news.ycombinator.com/item?id=37172769"
     ],
     [
-      "Emulating a CPU in C++ (6502) [video]",
+      "Emulating the 6502 CPU in C++ (2021) [video]",
       "https://www.youtube.com/watch?v=qJgsuQoy9bc"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "Algebraic data types in Lua (almost)",
       "https://mrcjkb.dev/posts/2023-08-17-lua-adts.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-17, 14:41:54",
-      "https://news.ycombinator.com/item?id=37162419"
-    ],
-    [
-      "Abbrev: A hidden Ruby gem",
-      "https://www.akshaykhot.com/ruby-abbrev-module/"
     ]
   ],
   [
