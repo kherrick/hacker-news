@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-18](index.md)
 
+* [2023-08-18, 12:00:30](https://news.ycombinator.com/item?id=37174474) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=37174474)
 * [2023-08-18, 09:47:10](https://news.ycombinator.com/item?id=37173356) - [Why Japan has so many ‘never travelers’](https://www.cnn.com/travel/article/japan-never-traveler-culture-cmb/index.html)
 * [2023-08-18, 09:32:03](https://news.ycombinator.com/item?id=37173231) - [WTF is going on with R7RS Large?](http://dpk.io/r7rswtf)
 * [2023-08-18, 08:33:39](https://news.ycombinator.com/item?id=37172818) - [Is Germany once again the sick man of Europe?](https://www.economist.com/leaders/2023/08/17/is-germany-once-again-the-sick-man-of-europe)
