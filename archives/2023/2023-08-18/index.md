@@ -14,6 +14,7 @@
 * [2023-08-18, 16:29:30](https://news.ycombinator.com/item?id=37178060) - [Why musicians in Spain are going topless as a radical gesture](https://www.theguardian.com/music/2023/aug/18/topless-spanish-singers-radical-gesture-eva-amaral)
 * [2023-08-18, 16:27:10](https://news.ycombinator.com/item?id=37178009) - [C and C++ Prioritize Performance over Correctness](https://research.swtch.com/ub)
 * [2023-08-18, 15:57:49](https://news.ycombinator.com/item?id=37177508) - [Black Atlanta venture capital firm sued for racial discrimination](https://www.ajc.com/news/business/conservative-group-sues-black-atlanta-vc-firm-for-racial-discrimination/M6NP2V5PRJGE3HTJXBSF7VYKTY/)
+* [2023-08-18, 15:16:46](https://news.ycombinator.com/item?id=37176842) - [Meaningful Exits for Founders](https://medium.com/strong-words/meaningful-exits-for-founders-4c3b2baba6b4)
 * [2023-08-18, 15:07:32](https://news.ycombinator.com/item?id=37176717) - [Deja Vu: The FBI Proves Again It Can’t Be Trusted with Section 702](https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702)
 * [2023-08-18, 15:06:48](https://news.ycombinator.com/item?id=37176703) - [Ask vs. Guess Culture](https://jeanhsu.substack.com/p/ask-vs-guess-culture)
 * [2023-08-18, 15:04:35](https://news.ycombinator.com/item?id=37176666) - [Microsoft's backwards compatibility is insane](https://twitter.com/mikko/status/1692503249595584526)
