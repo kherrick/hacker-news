@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-18, 04:06:04](https://news.ycombinator.com/item?id=37171294) - [micro – A Modern Alternative to nano](https://micro-editor.github.io/)
 * [2023-08-18, 03:43:36](https://news.ycombinator.com/item?id=37171187) - [China’s property giant Evergrande files for bankruptcy protection in Manhattan](https://www.cnbc.com/2023/08/18/china-property-developer-evergrande-files-for-bankruptcy-protection-in-us.html)
 * [2023-08-18, 03:33:50](https://news.ycombinator.com/item?id=37171149) - [Fp-go: Functional Programming Library for Golang](https://github.com/IBM/fp-go)
 * [2023-08-18, 02:47:21](https://news.ycombinator.com/item?id=37170911) - [Microplastics detected in the marine air from Norway to the high Arctic](https://scienceswitch.com/2023/08/18/microplastics-detected-in-the-marine-air-from-norway-to-the-high-arctic/)
@@ -23,7 +24,6 @@
 * [2023-08-17, 16:15:29](https://news.ycombinator.com/item?id=37163980) - [Fuzz testing: the best thing to happen to our application tests](https://questdb.io/blog/fuzz-testing-questdb/)
 * [2023-08-17, 15:28:39](https://news.ycombinator.com/item?id=37163187) - [Turmoil, a framework for developing and testing distributed systems](https://tokio.rs/blog/2023-01-03-announcing-turmoil)
 * [2023-08-17, 15:02:10](https://news.ycombinator.com/item?id=37162774) - [The Fill and Flush deplaning method](https://www.fillandflush.com)
-* [2023-08-16, 15:22:22](https://news.ycombinator.com/item?id=37148490) - [Unlocking the mathematical formula of juggling (2012) [video]](https://www.bbc.co.uk/news/av/magazine-20669507)
 * [2023-08-16, 14:56:18](https://news.ycombinator.com/item?id=37148062) - [Fred Fish](https://en.wikipedia.org/wiki/Fred_Fish)
 * [2023-08-16, 14:36:37](https://news.ycombinator.com/item?id=37147724) - [λ Calculus (2013) [pdf]](https://www.cs.rpi.edu/academics/courses/spring11/proglang/handouts/lambda-calculus-chapter.pdf)
 * [2023-08-16, 09:39:10](https://news.ycombinator.com/item?id=37144707) - [A new instrument found unusual success](https://www.theguardian.com/music/2023/aug/16/if-stevie-wonder-wants-to-play-it-pay-attention-how-a-bizarre-new-instrument-found-unusual-success)
