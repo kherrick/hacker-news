@@ -40,6 +40,7 @@
 * [2023-08-17, 16:31:56](https://news.ycombinator.com/item?id=37164243) - [My resignation letter as R7RS-large chair](https://groups.google.com/g/scheme-reports-wg2/c/xGd0_eeKmGI/m/q-xM5fbuAQAJ)
 * [2023-08-17, 16:28:16](https://news.ycombinator.com/item?id=37164173) - [YOLO-Driven Development Manifesto](https://andersoncardoso.github.io/ydd/)
 * [2023-08-17, 16:27:26](https://news.ycombinator.com/item?id=37164155) - [Have you seen these dehumidifiers? Stop using them or you might die](https://www.theverge.com/2023/8/16/23835116/have-you-seen-these-dehumidifiers-stop-using-them-or-you-might-die)
+* [2023-08-17, 16:25:01](https://news.ycombinator.com/item?id=37164115) - [What happens when you COPY in Postgres?](https://blog.benthem.io/2023/08/16/what-actually-happens-when-you-run-copy-in-postgres.html)
 * [2023-08-17, 16:15:29](https://news.ycombinator.com/item?id=37163980) - [Fuzz testing: the best thing to happen to our application tests](https://questdb.io/blog/fuzz-testing-questdb/)
 * [2023-08-17, 16:03:23](https://news.ycombinator.com/item?id=37163784) - [Why does email development have to suck? – Explaining all the <tr>'s and <td>'s](https://dodov.dev/blog/why-does-email-development-have-to-suck)
 * [2023-08-17, 15:56:58](https://news.ycombinator.com/item?id=37163684) - [Older mouse brains rejuvenated by protein found in young blood](https://www.nature.com/articles/d41586-023-02563-z)
