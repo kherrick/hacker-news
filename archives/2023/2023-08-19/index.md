@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-08-19](index.md)
 
+* [2023-08-19, 23:15:58](https://news.ycombinator.com/item?id=37194317) - [Mousetrap.jl: a GUI library for Julia and C++ that fully wrap GTK4](https://github.com/Clemapfel/mousetrap.jl)
 * [2023-08-19, 23:09:17](https://news.ycombinator.com/item?id=37194272) - [Cellebrite asks cops to keep its phone hacking tech ‘hush hush’](https://techcrunch.com/2023/08/19/cellebrite-asks-cops-to-keep-its-phone-hacking-tech-hush-hush/)
 * [2023-08-19, 22:47:13](https://news.ycombinator.com/item?id=37194115) - [The Authors Whose Pirated Books Are Powering Generative AI](https://www.theatlantic.com/technology/archive/2023/08/books3-ai-meta-llama-pirated-books/675063/)
+* [2023-08-19, 22:45:15](https://news.ycombinator.com/item?id=37194104) - [The Rimac Nevera Has Broken the Production EV Nurburgring Lap Record](https://www.thedrive.com/news/the-rimac-nevera-has-broken-the-production-ev-nurburgring-lap-record)
+* [2023-08-19, 22:09:36](https://news.ycombinator.com/item?id=37193814) - [National IQ Dataset](https://viewoniq.org/?page_id=9)
 * [2023-08-19, 21:52:29](https://news.ycombinator.com/item?id=37193670) - [Programming Language choices: Pascal, LOGO, Forth, Prolog, C (1986) [video]](https://clp.bbcrewind.co.uk/3d15323fe870ef44784832c02f4f7992)
 * [2023-08-19, 20:52:07](https://news.ycombinator.com/item?id=37193065) - [Indie Game Dev: Assessing Risk](https://derekyu.com/makegames/risk.html)
 * [2023-08-19, 20:47:40](https://news.ycombinator.com/item?id=37193016) - [Is the world finally ready for ethical porn?](https://shado-mag.com/see/is-the-world-finally-ready-for-ethical-porn/)
