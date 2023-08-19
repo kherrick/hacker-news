@@ -67,6 +67,7 @@
 * [2023-08-18, 11:34:57](https://news.ycombinator.com/item?id=37174282) - [UK birth slump dubbed ‘good for planet’](https://www.telegraph.co.uk/business/2023/08/17/20-year-low-for-baby-born-in-england-good-news-for-planet/)
 * [2023-08-18, 11:34:36](https://news.ycombinator.com/item?id=37174277) - [Meta prohibits Department of Defense to use Llama2](https://ai.meta.com/llama/use-policy/)
 * [2023-08-18, 11:20:24](https://news.ycombinator.com/item?id=37174163) - [The E/Jugaad Manifesto](https://ctojunior.substack.com/p/the-ejugaad-manifesto)
+* [2023-08-18, 11:19:13](https://news.ycombinator.com/item?id=37174147) - [New Motherboard Improves Old CRT Television](https://hackaday.com/2023/08/16/new-motherboard-improves-old-crt-television/)
 * [2023-08-18, 11:16:33](https://news.ycombinator.com/item?id=37174124) - [A 100GW phased laser array for interstellar lightsail propulsion](https://opg.optica.org/josab/viewmedia.cfm?uri=josab-38-5-1477&html=true)
 * [2023-08-18, 09:47:10](https://news.ycombinator.com/item?id=37173356) - [Why Japan has so many ‘never travelers’](https://www.cnn.com/travel/article/japan-never-traveler-culture-cmb/index.html)
 * [2023-08-18, 09:46:13](https://news.ycombinator.com/item?id=37173344) - [Facebook must pay $100.000 to Norway each day for violating our right to privacy](https://tutanota.com/blog/facebook-instagram-adtracking-ends)
