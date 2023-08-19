@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-19](index.md)
 
 * [2023-08-19, 12:41:38](https://news.ycombinator.com/item?id=37188184) - [Cloud Tenancy Types to Suit Everyone (2019)](https://medium.com/the-scale-factory/cloud-tenancy-types-to-suit-everyone-d2ebf2333958)
+* [2023-08-19, 12:32:51](https://news.ycombinator.com/item?id=37188102) - [Show HN: A simple, open-source Notion-like avatar generator](https://www.avatartion.com)
 * [2023-08-19, 12:21:28](https://news.ycombinator.com/item?id=37188015) - [Why old books smell so good](https://scienceswitch.com/2023/08/19/why-do-old-books-smell-so-good/)
 * [2023-08-19, 12:01:27](https://news.ycombinator.com/item?id=37187874) - [(Cold) Lattice Confinement Fusion](https://www1.grc.nasa.gov/space/science/lattice-confinement-fusion/)
 * [2023-08-19, 12:01:02](https://news.ycombinator.com/item?id=37187870) - [Fart Proudly – An Essay by Benjamin Franklin](https://en.wikipedia.org/wiki/Fart_Proudly)
