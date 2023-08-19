@@ -94,6 +94,7 @@
 * [2023-08-18, 06:22:27](https://news.ycombinator.com/item?id=37171955) - [Microsoft AI suggests Ottawa food bank as a “cannot miss” tourist spot](https://arstechnica.com/information-technology/2023/08/microsoft-ai-suggests-food-bank-as-a-cannot-miss-tourist-spot-in-canada/)
 * [2023-08-18, 06:20:29](https://news.ycombinator.com/item?id=37171943) - [Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)
 * [2023-08-18, 05:58:05](https://news.ycombinator.com/item?id=37171801) - [TypeScript Is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
+* [2023-08-18, 05:34:13](https://news.ycombinator.com/item?id=37171680) - [Epoch and the Cassette Vision – 1997 Developer Interview](https://shmuplations.com/epoch/)
 * [2023-08-18, 05:07:44](https://news.ycombinator.com/item?id=37171553) - [Complexity theory’s 50-year journey to the limits of knowledge](https://www.quantamagazine.org/complexity-theorys-50-year-journey-to-the-limits-of-knowledge-20230817/)
 * [2023-08-18, 04:30:23](https://news.ycombinator.com/item?id=37171411) - [The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
 * [2023-08-18, 04:06:04](https://news.ycombinator.com/item?id=37171294) - [micro – A Modern Alternative to nano](https://micro-editor.github.io/)
