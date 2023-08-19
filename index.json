@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-19, 23:15:58",
+      "https://news.ycombinator.com/item?id=37194317"
+    ],
+    [
+      "Mousetrap.jl: a GUI library for Julia and C++ that fully wrap GTK4",
+      "https://github.com/Clemapfel/mousetrap.jl"
+    ]
+  ],
+  [
+    [
       "2023-08-19, 23:09:17",
       "https://news.ycombinator.com/item?id=37194272"
     ],
@@ -17,6 +27,26 @@
     [
       "The Authors Whose Pirated Books Are Powering Generative AI",
       "https://www.theatlantic.com/technology/archive/2023/08/books3-ai-meta-llama-pirated-books/675063/"
+    ]
+  ],
+  [
+    [
+      "2023-08-19, 22:45:15",
+      "https://news.ycombinator.com/item?id=37194104"
+    ],
+    [
+      "The Rimac Nevera Has Broken the Production EV Nurburgring Lap Record",
+      "https://www.thedrive.com/news/the-rimac-nevera-has-broken-the-production-ev-nurburgring-lap-record"
+    ]
+  ],
+  [
+    [
+      "2023-08-19, 22:09:36",
+      "https://news.ycombinator.com/item?id=37193814"
+    ],
+    [
+      "National IQ Dataset",
+      "https://viewoniq.org/?page_id=9"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2023-08-19, 16:46:50",
-      "https://news.ycombinator.com/item?id=37190616"
-    ],
-    [
-      "California Historical Radio Society Hints and Kinks [pdf]",
-      "https://californiahistoricalradio.com/wp-content/uploads/2012/01/CHRS-Hints-and-Kinks.pdf"
-    ]
-  ],
-  [
-    [
       "2023-08-19, 16:35:08",
       "https://news.ycombinator.com/item?id=37190493"
     ],
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2023-08-19, 13:51:12",
-      "https://news.ycombinator.com/item?id=37188791"
-    ],
-    [
-      "AI-generated art lacks copyright protection, D.C. court says",
-      "https://news.bloomberglaw.com/ip-law/ai-generated-art-lacks-copyright-protection-d-c-court-rules"
-    ]
-  ],
-  [
-    [
       "2023-08-19, 13:38:22",
       "https://news.ycombinator.com/item?id=37188659"
     ],
     [
       "Show HN: Rivet – Open-source game server management with Nomad and Rust",
       "https://github.com/rivet-gg/rivet"
-    ]
-  ],
-  [
-    [
-      "2023-08-19, 12:32:51",
-      "https://news.ycombinator.com/item?id=37188102"
-    ],
-    [
-      "Show HN: A simple, open-source Notion-like avatar generator",
-      "https://www.avatartion.com"
     ]
   ],
   [
