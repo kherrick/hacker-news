@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-08-19, 07:42:30",
+      "https://news.ycombinator.com/item?id=37186483"
+    ],
+    [
+      "Comparing Windows uninstallers, getting upset and then deciding to make my own",
+      "https://jv16powertools.com/blog/comparing-windows-uninstallers-and-making-uninstalr/"
+    ]
+  ],
+  [
+    [
       "2023-08-19, 07:00:15",
       "https://news.ycombinator.com/item?id=37186277"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2023-08-18, 22:11:40",
-      "https://news.ycombinator.com/item?id=37182828"
-    ],
-    [
-      "Radiation Spikes at Chernobyl",
-      "https://zetter.substack.com/p/radiation-spikes-at-chernobyl-a-mystery"
-    ]
-  ],
-  [
-    [
       "2023-08-18, 22:02:39",
       "https://news.ycombinator.com/item?id=37182747"
     ],
@@ -157,16 +157,6 @@
     [
       "Show HN: Saf – simple, reliable, rsync-based, battle tested, rounded backup",
       "https://github.com/dusanx/saf"
-    ]
-  ],
-  [
-    [
-      "2023-08-18, 19:22:09",
-      "https://news.ycombinator.com/item?id=37180767"
-    ],
-    [
-      "Fixing the TPM: Hardware Security Modules Done Right",
-      "https://loup-vaillant.fr/articles/hsm-done-right"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "Why your blog still needs RSS",
       "https://journal.paoloamoroso.com/why-your-blog-still-needs-rss"
+    ]
+  ],
+  [
+    [
+      "2023-08-18, 12:22:07",
+      "https://news.ycombinator.com/item?id=37174657"
+    ],
+    [
+      "Textual: Rapid Application Development framework for Python",
+      "https://github.com/Textualize/textual"
     ]
   ],
   [
