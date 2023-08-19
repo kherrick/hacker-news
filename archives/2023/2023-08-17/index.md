@@ -19,6 +19,7 @@
 * [2023-08-17, 20:48:00](https://news.ycombinator.com/item?id=37167833) - [Throwing away 10 months of work after 2 months on the job](https://www.dancowell.com/breaking-the-rules/)
 * [2023-08-17, 20:39:58](https://news.ycombinator.com/item?id=37167698) - [RoboAgent: A universal agent with 12 Skills](https://robopen.github.io/)
 * [2023-08-17, 20:31:38](https://news.ycombinator.com/item?id=37167562) - [An underwater landslide knocked out two critical submarine cables serving Africa](https://www.kentik.com/blog/dual-subsea-cable-cuts-disrupt-african-internet/)
+* [2023-08-17, 20:05:40](https://news.ycombinator.com/item?id=37167210) - [Joys and pains of insects](https://www.scientificamerican.com/article/do-insects-feel-joy-and-pain/)
 * [2023-08-17, 20:03:13](https://news.ycombinator.com/item?id=37167185) - [Fresh evidence of ChatGPT’s political bias revealed by comprehensive new study](https://www.uea.ac.uk/news/-/article/fresh-evidence-of-chatgpts-political-bias-revealed-by-comprehensive-new-study)
 * [2023-08-17, 19:50:28](https://news.ycombinator.com/item?id=37167012) - [Bears Are Climbing Half Dome in Yosemite National Park](https://www.yourcentralvalley.com/news/local-news/bears-are-climbing-half-dome-in-yosemite-national-park/)
 * [2023-08-17, 19:48:31](https://news.ycombinator.com/item?id=37166986) - [Ancient Fires Drove Large Mammals Extinct, Study Suggests](https://www.nytimes.com/2023/08/17/science/climate-paleontology-mammals.html)
