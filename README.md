@@ -2,7 +2,6 @@
 
 * [2023-08-19, 00:41:57](https://news.ycombinator.com/item?id=37184156) - [With LLMs, enterprise data is different](https://colinharman.substack.com/p/with-llms-enterprise-is-different)
 * [2023-08-19, 00:36:22](https://news.ycombinator.com/item?id=37184117) - [TSMC – the world's most important company. And everyone wants control of it](https://www.abc.net.au/news/2023-08-19/tsmc-the-most-important-company-in-the-world/102728172)
-* [2023-08-19, 00:30:23](https://news.ycombinator.com/item?id=37184077) - [Learn X in Y Minutes](https://learnxinyminutes.com/)
 * [2023-08-19, 00:25:23](https://news.ycombinator.com/item?id=37184046) - [Metazooa](https://metazooa.com/game)
 * [2023-08-18, 22:45:24](https://news.ycombinator.com/item?id=37183103) - [The Jester of Tonga](https://www.the-fence.com/the-jester-of-tonga/)
 * [2023-08-18, 22:40:51](https://news.ycombinator.com/item?id=37183069) - [2009scape](https://2009scape.org/)
@@ -13,6 +12,7 @@
 * [2023-08-18, 19:22:09](https://news.ycombinator.com/item?id=37180767) - [Fixing the TPM: Hardware Security Modules Done Right](https://loup-vaillant.fr/articles/hsm-done-right)
 * [2023-08-18, 18:27:54](https://news.ycombinator.com/item?id=37180017) - [Show HN: Poozle – open-source Plaid for LLMs](https://github.com/poozlehq/poozle)
 * [2023-08-18, 17:26:54](https://news.ycombinator.com/item?id=37179066) - [The Plumber Problem](https://hypercritical.co/2023/08/18/the-plumber-problem)
+* [2023-08-18, 17:14:59](https://news.ycombinator.com/item?id=37178842) - [Expanding Transformer size without losing function or starting from scratch](https://arxiv.org/abs/2308.06103)
 * [2023-08-18, 16:41:25](https://news.ycombinator.com/item?id=37178251) - [Zaum](https://en.wikipedia.org/wiki/Zaum)
 * [2023-08-18, 15:28:58](https://news.ycombinator.com/item?id=37176960) - [Learning async Rust with entirely too many web servers](https://ibraheem.ca/posts/too-many-web-servers/)
 * [2023-08-18, 15:16:46](https://news.ycombinator.com/item?id=37176842) - [Meaningful exits for founders (2016)](https://medium.com/strong-words/meaningful-exits-for-founders-4c3b2baba6b4)
