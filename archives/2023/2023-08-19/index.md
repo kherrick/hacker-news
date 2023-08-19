@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-19](index.md)
 
 * [2023-08-19, 09:35:16](https://news.ycombinator.com/item?id=37187051) - [America’s Obsession with Weight-Loss Drugs Is Affecting the Economy of Denmark](https://www.wsj.com/economy/central-banking/americas-obsession-with-weight-loss-drugs-is-affecting-the-economy-of-denmark-22797e5c)
+* [2023-08-19, 09:14:29](https://news.ycombinator.com/item?id=37186959) - [Spotify Annoyed by People Uploading Hours of White Noise](https://futurism.com/the-byte/spotify-white-noise)
 * [2023-08-19, 08:45:26](https://news.ycombinator.com/item?id=37186806) - [Coffee shops track customers and employees](https://imgur.com/gallery/SFLVOiu)
 * [2023-08-19, 08:04:04](https://news.ycombinator.com/item?id=37186607) - [Meet the $4 Billion AI Superstars That Google Lost](https://www.bloomberg.com/opinion/features/2023-07-13/ex-google-scientists-kickstarted-the-generative-ai-era-of-chatgpt-midjourney)
 * [2023-08-19, 08:00:05](https://news.ycombinator.com/item?id=37186590) - [Conclusive Evidence for Modified Gravity](https://scitechdaily.com/conclusive-evidence-for-modified-gravity-collapse-of-newtons-and-einsteins-theories-in-low-acceleration/)
