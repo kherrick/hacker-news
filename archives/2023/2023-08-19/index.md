@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-19](index.md)
 
 * [2023-08-19, 12:21:28](https://news.ycombinator.com/item?id=37188015) - [Why old books smell so good](https://scienceswitch.com/2023/08/19/why-do-old-books-smell-so-good/)
+* [2023-08-19, 12:01:27](https://news.ycombinator.com/item?id=37187874) - [(Cold) Lattice Confinement Fusion](https://www1.grc.nasa.gov/space/science/lattice-confinement-fusion/)
 * [2023-08-19, 12:01:02](https://news.ycombinator.com/item?id=37187870) - [Fart Proudly – An Essay by Benjamin Franklin](https://en.wikipedia.org/wiki/Fart_Proudly)
 * [2023-08-19, 11:56:01](https://news.ycombinator.com/item?id=37187837) - [Amsterdam to use “noise cameras” against too loud cars](https://nltimes.nl/2023/08/11/amsterdam-use-noise-cameras-loud-cars)
 * [2023-08-19, 11:41:57](https://news.ycombinator.com/item?id=37187760) - [Windy.com: global weather website with live filters](https://www.windy.com)
