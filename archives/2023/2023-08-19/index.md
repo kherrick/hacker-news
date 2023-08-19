@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-19](index.md)
 
+* [2023-08-19, 15:57:02](https://news.ycombinator.com/item?id=37190037) - [We Spent $1,500,000 on Ads Without Getting a Single Customer](https://www.briefmix.com/startup/setting-objectives-kpis)
+* [2023-08-19, 15:54:32](https://news.ycombinator.com/item?id=37190005) - [Show HN: Find simple open source bounties to solve and get paid](https://www.bountyfordevs.com/)
+* [2023-08-19, 15:41:39](https://news.ycombinator.com/item?id=37189872) - [Twitter/X has removed all media posted before 2014](https://twitter.com/tomcoates/status/1692922211416334597)
 * [2023-08-19, 15:17:23](https://news.ycombinator.com/item?id=37189616) - [China’s defeated youth: Young Chinese have little hope for the future](https://www.economist.com/briefing/2023/08/17/chinas-defeated-youth)
 * [2023-08-19, 15:09:09](https://news.ycombinator.com/item?id=37189556) - [Speakers of different languages remember visual scenes differently](https://www.science.org/doi/10.1126/sciadv.adh0064)
 * [2023-08-19, 15:00:28](https://news.ycombinator.com/item?id=37189462) - [Rust devs push back as Serde project ships precompiled binaries](https://www.bleepingcomputer.com/news/security/rust-devs-push-back-as-serde-project-ships-precompiled-binaries/)
@@ -48,3 +51,4 @@
 * [2023-08-19, 00:30:23](https://news.ycombinator.com/item?id=37184077) - [Learn X in Y Minutes](https://learnxinyminutes.com/)
 * [2023-08-19, 00:27:18](https://news.ycombinator.com/item?id=37184054) - [Cyberattack shutters major NSF-funded telescopes for more than 2 weeks](https://www.science.org/content/article/cyberattack-shutters-major-nsf-funded-telescopes-more-2-weeks)
 * [2023-08-19, 00:25:23](https://news.ycombinator.com/item?id=37184046) - [Metazooa](https://metazooa.com/game)
+* [2023-08-19, 00:14:44](https://news.ycombinator.com/item?id=37183964) - [My Job Search Story](https://medium.com/@tedskyba/my-job-search-story-ca3956b498c9)
