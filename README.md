@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-19, 04:13:24](https://news.ycombinator.com/item?id=37185429) - [Xiaomi introduced the new generation robo-dog, Xiaomi CyberDog 2](https://xiaomiui.net/xiaomi-introduced-the-new-generation-robo-dog-xiaomi-cyberdog-2-49032/)
+* [2023-08-19, 02:30:46](https://news.ycombinator.com/item?id=37184904) - [Cruise told by CA DMV to reduce robotaxi fleet 50% following crash](https://techcrunch.com/2023/08/18/cruise-told-by-regulators-to-immediately-reduce-robotaxi-fleet-50-following-crash/)
 * [2023-08-19, 02:27:49](https://news.ycombinator.com/item?id=37184884) - [How to Roman Republic 101, Part IIIb: Imperium](https://acoup.blog/2023/08/18/collections-how-to-roman-republic-101-part-iiib-imperium/)
 * [2023-08-19, 00:36:22](https://news.ycombinator.com/item?id=37184117) - [Morris Chang founded TSMC, the most valuable company in Asia](https://www.abc.net.au/news/2023-08-19/tsmc-the-most-important-company-in-the-world/102728172)
 * [2023-08-19, 00:27:18](https://news.ycombinator.com/item?id=37184054) - [Cyberattack shutters major NSF-funded telescopes for more than 2 weeks](https://www.science.org/content/article/cyberattack-shutters-major-nsf-funded-telescopes-more-2-weeks)
 * [2023-08-19, 00:25:23](https://news.ycombinator.com/item?id=37184046) - [Metazooa](https://metazooa.com/game)
-* [2023-08-18, 22:45:24](https://news.ycombinator.com/item?id=37183103) - [The Jester of Tonga](https://www.the-fence.com/the-jester-of-tonga/)
 * [2023-08-18, 22:40:51](https://news.ycombinator.com/item?id=37183069) - [2009scape](https://2009scape.org/)
 * [2023-08-18, 22:11:40](https://news.ycombinator.com/item?id=37182828) - [Radiation Spikes at Chernobyl](https://zetter.substack.com/p/radiation-spikes-at-chernobyl-a-mystery)
 * [2023-08-18, 22:02:39](https://news.ycombinator.com/item?id=37182747) - [Pines’ demon observed as a 3D acoustic plasmon in Sr2RuO4](https://www.nature.com/articles/s41586-023-06318-8)
@@ -29,7 +30,6 @@
 * [2023-08-18, 08:28:04](https://news.ycombinator.com/item?id=37172769) - [Emulating the 6502 CPU in C++ (2021) [video]](https://www.youtube.com/watch?v=qJgsuQoy9bc)
 * [2023-08-18, 05:07:44](https://news.ycombinator.com/item?id=37171553) - [Complexity theory’s 50-year journey to the limits of knowledge](https://www.quantamagazine.org/complexity-theorys-50-year-journey-to-the-limits-of-knowledge-20230817/)
 * [2023-08-18, 04:30:23](https://news.ycombinator.com/item?id=37171411) - [The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
-* [2023-08-17, 16:01:09](https://news.ycombinator.com/item?id=37163742) - [Algebraic data types in Lua (almost)](https://mrcjkb.dev/posts/2023-08-17-lua-adts.html)
 
 ## [Archives](archives/index.md)
 
