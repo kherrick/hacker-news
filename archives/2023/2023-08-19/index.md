@@ -6,6 +6,7 @@
 
 * [2023-08-19, 15:17:23](https://news.ycombinator.com/item?id=37189616) - [China’s defeated youth: Young Chinese have little hope for the future](https://www.economist.com/briefing/2023/08/17/chinas-defeated-youth)
 * [2023-08-19, 15:09:09](https://news.ycombinator.com/item?id=37189556) - [Speakers of different languages remember visual scenes differently](https://www.science.org/doi/10.1126/sciadv.adh0064)
+* [2023-08-19, 15:00:28](https://news.ycombinator.com/item?id=37189462) - [Rust devs push back as Serde project ships precompiled binaries](https://www.bleepingcomputer.com/news/security/rust-devs-push-back-as-serde-project-ships-precompiled-binaries/)
 * [2023-08-19, 14:35:34](https://news.ycombinator.com/item?id=37189216) - [Tesla repossessed my car due to an extreme oversight on their end](https://old.reddit.com/r/RealTesla/comments/15u8wuv/tesla_repossessed_my_car_due_to_an_extreme/)
 * [2023-08-19, 13:51:12](https://news.ycombinator.com/item?id=37188791) - [AI-Generated Art Lacks Copyright Protection, D.C. Court Says](https://news.bloomberglaw.com/ip-law/ai-generated-art-lacks-copyright-protection-d-c-court-rules)
 * [2023-08-19, 13:46:17](https://news.ycombinator.com/item?id=37188736) - [WD refused to answer our questions about its self-wiping SanDisk SSDs](https://www.theverge.com/23837513/western-digital-sandisk-ssd-corrupted-deleted-questions)
