@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-19](index.md)
 
+* [2023-08-19, 18:05:20](https://news.ycombinator.com/item?id=37191424) - [Flexport Is Hiring (Though not as much as before)](https://flexport.com/careers)
 * [2023-08-19, 17:02:25](https://news.ycombinator.com/item?id=37190790) - [British Columbia declares a state of emergency amid devastating wildfires](https://www.washingtonpost.com/world/2023/08/19/canada-wildfires-british-columbia-kelowna-emergency/)
 * [2023-08-19, 16:59:18](https://news.ycombinator.com/item?id=37190757) - [NC Files More Than 400 Charges Against Shelby Nissan Dealership Employees](https://jalopnik.com/north-carolina-nissan-dealer-shelby-federal-charges-sue-1850752053)
 * [2023-08-19, 16:57:32](https://news.ycombinator.com/item?id=37190743) - [Aviation Navigation Log on $20 Receipt Printer](https://carloslagoa.com/blog/flipreps/flipreps.html)

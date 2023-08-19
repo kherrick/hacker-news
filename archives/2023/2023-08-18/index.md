@@ -44,6 +44,7 @@
 * [2023-08-18, 16:16:01](https://news.ycombinator.com/item?id=37177814) - [Scientists May Have Unraveled the Secret of Aging-Resistance in Naked Mole-Rats](https://ewww.kumamoto-u.ac.jp/sp/en/news/630/)
 * [2023-08-18, 15:57:49](https://news.ycombinator.com/item?id=37177508) - [Black Atlanta venture capital firm sued for racial discrimination](https://www.ajc.com/news/business/conservative-group-sues-black-atlanta-vc-firm-for-racial-discrimination/M6NP2V5PRJGE3HTJXBSF7VYKTY/)
 * [2023-08-18, 15:52:37](https://news.ycombinator.com/item?id=37177404) - [Soundproofing my studio](https://www.jeffgeerling.com/blog/2023/soundproofing-my-studio-whats-wall)
+* [2023-08-18, 15:42:41](https://news.ycombinator.com/item?id=37177203) - [Helidon Níma: The first Java microservices framework based on virtual threads](https://helidon.io/nima)
 * [2023-08-18, 15:31:17](https://news.ycombinator.com/item?id=37176996) - [The Cart Narc and His Camera](https://www.theringer.com/pop-culture/2023/8/10/23825135/cart-narc-shopping-cart-theory-instagram-youtube)
 * [2023-08-18, 15:28:58](https://news.ycombinator.com/item?id=37176960) - [Learning Async Rust with Too Many Web Servers](https://ibraheem.ca/posts/too-many-web-servers/)
 * [2023-08-18, 15:16:46](https://news.ycombinator.com/item?id=37176842) - [Meaningful Exits for Founders](https://medium.com/strong-words/meaningful-exits-for-founders-4c3b2baba6b4)
