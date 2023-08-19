@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-19, 08:04:04",
+      "https://news.ycombinator.com/item?id=37186607"
+    ],
+    [
+      "Meet the $4 Billion AI Superstars That Google Lost",
+      "https://www.bloomberg.com/opinion/features/2023-07-13/ex-google-scientists-kickstarted-the-generative-ai-era-of-chatgpt-midjourney"
+    ]
+  ],
+  [
+    [
       "2023-08-19, 08:00:05",
       "https://news.ycombinator.com/item?id=37186590"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2023-08-18, 22:11:40",
-      "https://news.ycombinator.com/item?id=37182828"
-    ],
-    [
-      "Radiation Spikes at Chernobyl",
-      "https://zetter.substack.com/p/radiation-spikes-at-chernobyl-a-mystery"
-    ]
-  ],
-  [
-    [
       "2023-08-18, 22:02:39",
       "https://news.ycombinator.com/item?id=37182747"
     ],
@@ -151,32 +151,22 @@
   ],
   [
     [
+      "2023-08-18, 19:22:09",
+      "https://news.ycombinator.com/item?id=37180767"
+    ],
+    [
+      "Fixing the TPM: Hardware Security Modules Done Right",
+      "https://loup-vaillant.fr/articles/hsm-done-right"
+    ]
+  ],
+  [
+    [
       "2023-08-18, 18:27:54",
       "https://news.ycombinator.com/item?id=37180017"
     ],
     [
       "Show HN: Poozle – open-source Plaid for LLMs",
       "https://github.com/poozlehq/poozle"
-    ]
-  ],
-  [
-    [
-      "2023-08-18, 17:26:54",
-      "https://news.ycombinator.com/item?id=37179066"
-    ],
-    [
-      "The Plumber Problem",
-      "https://hypercritical.co/2023/08/18/the-plumber-problem"
-    ]
-  ],
-  [
-    [
-      "2023-08-18, 15:16:46",
-      "https://news.ycombinator.com/item?id=37176842"
-    ],
-    [
-      "Meaningful exits for founders (2016)",
-      "https://medium.com/strong-words/meaningful-exits-for-founders-4c3b2baba6b4"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "Why your blog still needs RSS",
       "https://journal.paoloamoroso.com/why-your-blog-still-needs-rss"
+    ]
+  ],
+  [
+    [
+      "2023-08-18, 12:22:07",
+      "https://news.ycombinator.com/item?id=37174657"
+    ],
+    [
+      "Textual: Rapid Application Development framework for Python",
+      "https://github.com/Textualize/textual"
     ]
   ],
   [
