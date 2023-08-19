@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-19](index.md)
 
+* [2023-08-19, 13:51:12](https://news.ycombinator.com/item?id=37188791) - [AI-Generated Art Lacks Copyright Protection, D.C. Court Says](https://news.bloomberglaw.com/ip-law/ai-generated-art-lacks-copyright-protection-d-c-court-rules)
+* [2023-08-19, 13:46:17](https://news.ycombinator.com/item?id=37188736) - [WD refused to answer our questions about its self-wiping SanDisk SSDs](https://www.theverge.com/23837513/western-digital-sandisk-ssd-corrupted-deleted-questions)
+* [2023-08-19, 13:38:22](https://news.ycombinator.com/item?id=37188659) - [Show HN: Rivet (YC W23) – Open-Source Game Server Management with Nomad and Rust](https://github.com/rivet-gg/rivet)
 * [2023-08-19, 13:26:48](https://news.ycombinator.com/item?id=37188549) - [Not so solitary predators? Great white shark duo seem to be travelling together](https://www.cbc.ca/radio/asithappens/tracking-great-white-shark-duo-ocearch-1.6940794)
 * [2023-08-19, 13:21:33](https://news.ycombinator.com/item?id=37188502) - [Facebook won't lift ban in Canada even for sharing wildfire info](https://www.reuters.com/technology/canada-demands-meta-lift-ban-news-allow-fires-info-be-shared-2023-08-18/)
 * [2023-08-19, 13:09:12](https://news.ycombinator.com/item?id=37188395) - [Cruise Agrees to Reduce Driverless Car Fleet in San Francisco After Crash](https://www.nytimes.com/2023/08/18/technology/cruise-crash-driverless-car-san-francisco.html)
