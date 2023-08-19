@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-19](index.md)
 
+* [2023-08-19, 11:56:01](https://news.ycombinator.com/item?id=37187837) - [Amsterdam to use “noise cameras” against too loud cars](https://nltimes.nl/2023/08/11/amsterdam-use-noise-cameras-loud-cars)
+* [2023-08-19, 10:28:26](https://news.ycombinator.com/item?id=37187320) - [Ask HN: How to contract for US companies as EU national](https://news.ycombinator.com/item?id=37187320)
 * [2023-08-19, 09:35:16](https://news.ycombinator.com/item?id=37187051) - [America’s Obsession with Weight-Loss Drugs Is Affecting the Economy of Denmark](https://www.wsj.com/economy/central-banking/americas-obsession-with-weight-loss-drugs-is-affecting-the-economy-of-denmark-22797e5c)
 * [2023-08-19, 09:14:29](https://news.ycombinator.com/item?id=37186959) - [Spotify Annoyed by People Uploading Hours of White Noise](https://futurism.com/the-byte/spotify-white-noise)
 * [2023-08-19, 08:45:26](https://news.ycombinator.com/item?id=37186806) - [Coffee shops track customers and employees](https://imgur.com/gallery/SFLVOiu)
