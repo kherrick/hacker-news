@@ -26,10 +26,10 @@
 * [2023-08-19, 10:21:27](https://news.ycombinator.com/item?id=37187278) - [Flipping the model presents a new way to treat sleep apnoea](https://news.flinders.edu.au/blog/2023/08/08/flipping-the-model-presents-a-new-way-to-treat-sleep-apnoea/)
 * [2023-08-19, 00:14:44](https://news.ycombinator.com/item?id=37183964) - [My job search story](https://medium.com/@tedskyba/my-job-search-story-ca3956b498c9)
 * [2023-08-18, 17:03:10](https://news.ycombinator.com/item?id=37178630) - [Astronomers Find Star Is a Powerful Magnet](https://skyandtelescope.org/astronomy-news/astronomers-find-strange-star-is-a-powerful-magnet/)
-* [2023-08-18, 14:09:09](https://news.ycombinator.com/item?id=37175823) - [Time, frequency, phase and delay (1996)](http://www.libinst.com/tpfd.htm)
 * [2023-08-18, 13:14:58](https://news.ycombinator.com/item?id=37175170) - [Structuring Your Infrastructure as Code](https://leebriggs.co.uk/blog/2023/08/17/structuring-iac)
 * [2023-08-18, 03:25:46](https://news.ycombinator.com/item?id=37171114) - [The Lost Script of Rapa Nui](https://www.historytoday.com/archive/missing-pieces/lost-script-rapa-nui)
 * [2023-08-17, 20:14:06](https://news.ycombinator.com/item?id=37167306) - [Spotify looked to ban white noise podcasts to become more profitable](https://www.bloomberg.com/news/newsletters/2023-08-17/white-noise-podcasters-are-costing-spotify-38-million-a-year)
+* [2023-08-16, 13:23:27](https://news.ycombinator.com/item?id=37146685) - [Part-DB: open-source inventory management system for your electronic components](https://github.com/Part-DB/Part-DB-server)
 
 ## [Archives](archives/index.md)
 
