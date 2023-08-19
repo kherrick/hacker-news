@@ -4,7 +4,6 @@
 * [2023-08-19, 09:14:29](https://news.ycombinator.com/item?id=37186959) - [Spotify Annoyed by People Uploading Hours of White Noise](https://futurism.com/the-byte/spotify-white-noise)
 * [2023-08-19, 07:42:30](https://news.ycombinator.com/item?id=37186483) - [Comparing Windows uninstallers, getting upset and then deciding to make my own](https://jv16powertools.com/blog/comparing-windows-uninstallers-and-making-uninstalr/)
 * [2023-08-19, 07:09:37](https://news.ycombinator.com/item?id=37186327) - [Important CIA Contributions to Modern Technology](https://www.cia.gov/stories/story/cia-contributions-to-modern-technology-75-years/)
-* [2023-08-19, 07:06:57](https://news.ycombinator.com/item?id=37186318) - [The super wealthy have their own exclusive versions of Amazon, Tinder, Instagram](https://www.cnbc.com/2017/05/10/websites-and-apps-millionaires-and-billionaires-use.html)
 * [2023-08-19, 07:00:15](https://news.ycombinator.com/item?id=37186277) - [PlayHT (YC W23) Is Hiring Senior ML Engineer (Large Language Models)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 * [2023-08-19, 04:17:56](https://news.ycombinator.com/item?id=37185461) - [Ask HN: Why did Microsoft, Meta, and PayPal update their ToS today?](https://news.ycombinator.com/item?id=37185461)
 * [2023-08-19, 02:30:46](https://news.ycombinator.com/item?id=37184904) - [Cruise told by CA DMV to reduce robotaxi fleet 50% following crash](https://techcrunch.com/2023/08/18/cruise-told-by-regulators-to-immediately-reduce-robotaxi-fleet-50-following-crash/)
@@ -29,6 +28,7 @@
 * [2023-08-18, 05:07:44](https://news.ycombinator.com/item?id=37171553) - [Complexity theory’s 50-year journey to the limits of knowledge](https://www.quantamagazine.org/complexity-theorys-50-year-journey-to-the-limits-of-knowledge-20230817/)
 * [2023-08-18, 04:30:23](https://news.ycombinator.com/item?id=37171411) - [The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
 * [2023-08-17, 20:05:40](https://news.ycombinator.com/item?id=37167210) - [Joys and pains of insects](https://www.scientificamerican.com/article/do-insects-feel-joy-and-pain/)
+* [2023-08-16, 21:21:57](https://news.ycombinator.com/item?id=37154030) - [Buy Me a Chair: The wacky world of university endowments](https://musgrave.substack.com/p/buy-me-a-chair)
 * [2023-08-16, 13:23:27](https://news.ycombinator.com/item?id=37146685) - [Part-DB: open-source inventory management system for your electronic components](https://github.com/Part-DB/Part-DB-server)
 
 ## [Archives](archives/index.md)
