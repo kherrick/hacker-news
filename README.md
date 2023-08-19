@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-19, 04:13:24](https://news.ycombinator.com/item?id=37185429) - [Xiaomi introduced the new generation robo-dog, Xiaomi CyberDog 2](https://xiaomiui.net/xiaomi-introduced-the-new-generation-robo-dog-xiaomi-cyberdog-2-49032/)
-* [2023-08-19, 02:30:46](https://news.ycombinator.com/item?id=37184904) - [Cruise told by CA DMV to reduce robotaxi fleet 50% following crash](https://techcrunch.com/2023/08/18/cruise-told-by-regulators-to-immediately-reduce-robotaxi-fleet-50-following-crash/)
+* [2023-08-19, 03:09:39](https://news.ycombinator.com/item?id=37185090) - [Interview with Shang-Yi Chiang, Former TSMC VP of Research](https://www.computerhistory.org/collections/catalog/102792671)
 * [2023-08-19, 02:27:49](https://news.ycombinator.com/item?id=37184884) - [How to Roman Republic 101, Part IIIb: Imperium](https://acoup.blog/2023/08/18/collections-how-to-roman-republic-101-part-iiib-imperium/)
+* [2023-08-19, 00:36:49](https://news.ycombinator.com/item?id=37184119) - [Chronosort](https://ledoc.itch.io/chronosort)
 * [2023-08-19, 00:36:22](https://news.ycombinator.com/item?id=37184117) - [Morris Chang founded TSMC, the most valuable company in Asia](https://www.abc.net.au/news/2023-08-19/tsmc-the-most-important-company-in-the-world/102728172)
 * [2023-08-19, 00:27:18](https://news.ycombinator.com/item?id=37184054) - [Cyberattack shutters major NSF-funded telescopes for more than 2 weeks](https://www.science.org/content/article/cyberattack-shutters-major-nsf-funded-telescopes-more-2-weeks)
 * [2023-08-19, 00:25:23](https://news.ycombinator.com/item?id=37184046) - [Metazooa](https://metazooa.com/game)
@@ -19,7 +20,6 @@
 * [2023-08-18, 16:41:25](https://news.ycombinator.com/item?id=37178251) - [Zaum](https://en.wikipedia.org/wiki/Zaum)
 * [2023-08-18, 15:28:58](https://news.ycombinator.com/item?id=37176960) - [Learning async Rust with entirely too many web servers](https://ibraheem.ca/posts/too-many-web-servers/)
 * [2023-08-18, 15:16:46](https://news.ycombinator.com/item?id=37176842) - [Meaningful exits for founders (2016)](https://medium.com/strong-words/meaningful-exits-for-founders-4c3b2baba6b4)
-* [2023-08-18, 15:07:32](https://news.ycombinator.com/item?id=37176717) - [The FBI proves again it can’t be trusted with Section 702](https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702)
 * [2023-08-18, 15:06:48](https://news.ycombinator.com/item?id=37176703) - [Ask vs. Guess Culture](https://jeanhsu.substack.com/p/ask-vs-guess-culture)
 * [2023-08-18, 15:04:35](https://news.ycombinator.com/item?id=37176666) - [Windows 11 will happily execute a binary compiled 30 years ago](https://twitter.com/mikko/status/1692503249595584526)
 * [2023-08-18, 14:03:42](https://news.ycombinator.com/item?id=37175754) - [Why GNU su does not support the `wheel' group (2002)](https://ftp.gnu.org/old-gnu/Manuals/coreutils-4.5.4/html_node/coreutils_149.html)
