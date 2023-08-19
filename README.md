@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-19, 18:32:30](https://news.ycombinator.com/item?id=37191671) - [Air Force funds ‘blended wing body’ design for long-range, fuel-efficient flight](https://www.popsci.com/technology/air-force-blended-wing-body/)
+* [2023-08-19, 18:26:35](https://news.ycombinator.com/item?id=37191621) - [New plant-based pork ribs to feature edible vegan bones](https://www.theguardian.com/food/2023/aug/17/new-plant-based-pork-ribs-to-feature-edible-vegan-bones)
 * [2023-08-19, 18:06:14](https://news.ycombinator.com/item?id=37191434) - [First Hurricane to hit California in 84 years; ‘catastrophic’ flooding feared](https://www.washingtonpost.com/weather/2023/08/19/hurricane-hilary-southern-california-rain-floods-forecast/)
 * [2023-08-19, 18:05:20](https://news.ycombinator.com/item?id=37191424) - [Flexport Is Hiring (Though not as much as before)](https://flexport.com/careers)
 * [2023-08-19, 17:55:42](https://news.ycombinator.com/item?id=37191332) - [Iraq Blocks Telegram, Leaks Blackhole BGP Routes](https://www.kentik.com/blog/iraq-blocks-telegram-leaks-blackhole-bgp-routes/)
@@ -14,7 +16,6 @@
 * [2023-08-19, 15:57:02](https://news.ycombinator.com/item?id=37190037) - [When to invest in marketing](https://www.briefmix.com/startup/setting-objectives-kpis)
 * [2023-08-19, 15:55:56](https://news.ycombinator.com/item?id=37190025) - [July 4th is not the US's Birthday. A tale about how Ben Franklin invented the US](https://jmsdnns.com/history/july-4th-is-no-birthday/)
 * [2023-08-19, 15:09:09](https://news.ycombinator.com/item?id=37189556) - [Speakers of different languages remember visual scenes differently](https://www.science.org/doi/10.1126/sciadv.adh0064)
-* [2023-08-19, 14:21:06](https://news.ycombinator.com/item?id=37189067) - [Cheems, the Shiba Inu meme dog, has died](https://www.the-sun.com/news/8879390/cheems-balltze-dog-meme-cheemsburger-viral-cancer/)
 * [2023-08-19, 13:51:12](https://news.ycombinator.com/item?id=37188791) - [AI-generated art lacks copyright protection, D.C. court says](https://news.bloomberglaw.com/ip-law/ai-generated-art-lacks-copyright-protection-d-c-court-rules)
 * [2023-08-19, 13:41:43](https://news.ycombinator.com/item?id=37188695) - [The lost script of Rapa Nui](https://www.historytoday.com/archive/missing-pieces/lost-script-rapa-nui)
 * [2023-08-19, 13:38:22](https://news.ycombinator.com/item?id=37188659) - [Show HN: Rivet – Open-source game server management with Nomad and Rust](https://github.com/rivet-gg/rivet)
@@ -22,7 +23,6 @@
 * [2023-08-19, 11:41:57](https://news.ycombinator.com/item?id=37187760) - [Windy.com: global weather website with live filters](https://www.windy.com)
 * [2023-08-19, 11:26:43](https://news.ycombinator.com/item?id=37187663) - [Stable Diffusion in C/C++](https://github.com/leejet/stable-diffusion.cpp)
 * [2023-08-19, 10:21:27](https://news.ycombinator.com/item?id=37187278) - [Flipping the model presents a new way to treat sleep apnoea](https://news.flinders.edu.au/blog/2023/08/08/flipping-the-model-presents-a-new-way-to-treat-sleep-apnoea/)
-* [2023-08-19, 09:52:35](https://news.ycombinator.com/item?id=37187138) - [Cloud outage causes Bambu 3D printers to start printing on their own](https://themessenger.com/tech/bambu-owners-3d-printers-malfunction-cloud-print-twice)
 * [2023-08-19, 00:14:44](https://news.ycombinator.com/item?id=37183964) - [My job search story](https://medium.com/@tedskyba/my-job-search-story-ca3956b498c9)
 * [2023-08-18, 15:42:41](https://news.ycombinator.com/item?id=37177203) - [Helidon Níma: The first Java microservices framework based on virtual threads](https://helidon.io/nima)
 * [2023-08-18, 12:17:58](https://news.ycombinator.com/item?id=37174619) - [Moonbit: Fast, compact and user friendly language for WebAssembly](https://moonbitlang.com/blog/first-announce/)

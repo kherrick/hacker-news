@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-19](index.md)
 
+* [2023-08-19, 18:32:30](https://news.ycombinator.com/item?id=37191671) - [Air Force funds ‘blended wing body’ design for long-range, fuel-efficient flight](https://www.popsci.com/technology/air-force-blended-wing-body/)
 * [2023-08-19, 18:26:35](https://news.ycombinator.com/item?id=37191621) - [New plant-based pork ribs to feature edible vegan bones](https://www.theguardian.com/food/2023/aug/17/new-plant-based-pork-ribs-to-feature-edible-vegan-bones)
 * [2023-08-19, 18:06:14](https://news.ycombinator.com/item?id=37191434) - [First Hurricane to hit California in 84 years; ‘catastrophic’ flooding feared](https://www.washingtonpost.com/weather/2023/08/19/hurricane-hilary-southern-california-rain-floods-forecast/)
 * [2023-08-19, 18:05:20](https://news.ycombinator.com/item?id=37191424) - [Flexport Is Hiring (Though not as much as before)](https://flexport.com/careers)
