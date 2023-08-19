@@ -6,6 +6,7 @@
 
 * [2023-08-18, 22:46:24](https://news.ycombinator.com/item?id=37183112) - [Xbox’s new “8 strikes” mod rollout judges hate speech 3x worse than cheating](https://arstechnica.com/gaming/2023/08/xboxs-new-8-strikes-moderation-judges-cheating-and-profanity-equally-harshly/)
 * [2023-08-18, 22:45:24](https://news.ycombinator.com/item?id=37183103) - [The Jester of Tonga](https://www.the-fence.com/the-jester-of-tonga/)
+* [2023-08-18, 22:44:22](https://news.ycombinator.com/item?id=37183092) - [My Kushy New Job](https://www.gq.com/story/wells-tower-on-marijuana)
 * [2023-08-18, 22:40:51](https://news.ycombinator.com/item?id=37183069) - [2009scape](https://2009scape.org/)
 * [2023-08-18, 22:30:39](https://news.ycombinator.com/item?id=37183000) - [Illustrated JavaScript coding course for absolute beginners [pdf]](https://codeguppy.com/site/download/coding_course.pdf)
 * [2023-08-18, 22:11:40](https://news.ycombinator.com/item?id=37182828) - [Radiation Spikes at Chernobyl: A Mystery Few Seem Interested in Solving](https://zetter.substack.com/p/radiation-spikes-at-chernobyl-a-mystery)
