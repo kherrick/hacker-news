@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-19](index.md)
 
+* [2023-08-19, 19:45:12](https://news.ycombinator.com/item?id=37192371) - [Insulin resistance after a 3-day fast](https://journals.physiology.org/doi/abs/10.1152/ajpendo.00317.2022)
 * [2023-08-19, 19:35:25](https://news.ycombinator.com/item?id=37192291) - [Police urged to investigate hospital bosses for corporate manslaughter](https://www.theguardian.com/uk-news/2023/aug/19/lucy-letby-police-urged-to-investigate-hospital-bosses-for-corporate-manslaughter)
+* [2023-08-19, 19:28:43](https://news.ycombinator.com/item?id=37192238) - [I Have Blocked OpenAI](https://gavinhoward.com/2023/08/i-have-blocked-openai/)
 * [2023-08-19, 18:45:56](https://news.ycombinator.com/item?id=37191795) - [High-Dosage NMN Promotes Ferroptosis to Suppress Lung Adenocarcinoma in Mice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10177531/)
 * [2023-08-19, 18:32:30](https://news.ycombinator.com/item?id=37191671) - [Air Force funds ‘blended wing body’ design for long-range, fuel-efficient flight](https://www.popsci.com/technology/air-force-blended-wing-body/)
 * [2023-08-19, 18:26:35](https://news.ycombinator.com/item?id=37191621) - [New plant-based pork ribs to feature edible vegan bones](https://www.theguardian.com/food/2023/aug/17/new-plant-based-pork-ribs-to-feature-edible-vegan-bones)
@@ -12,6 +14,7 @@
 * [2023-08-19, 18:05:20](https://news.ycombinator.com/item?id=37191424) - [Flexport Is Hiring (Though not as much as before)](https://flexport.com/careers)
 * [2023-08-19, 17:55:42](https://news.ycombinator.com/item?id=37191332) - [Iraq Blocks Telegram, Leaks Blackhole BGP Routes](https://www.kentik.com/blog/iraq-blocks-telegram-leaks-blackhole-bgp-routes/)
 * [2023-08-19, 17:45:48](https://news.ycombinator.com/item?id=37191220) - [70 years ago, an Anglo-US coup condemned Iran to decades of oppression](https://theconversation.com/70-years-ago-an-anglo-us-coup-condemned-iran-to-decades-of-oppression-but-now-the-people-are-fighting-back-211698)
+* [2023-08-19, 17:06:06](https://news.ycombinator.com/item?id=37190818) - [Life Has Several Exits](https://lopespm.com/notes/2023/08/19/life_exits.html)
 * [2023-08-19, 17:02:25](https://news.ycombinator.com/item?id=37190790) - [British Columbia declares a state of emergency amid devastating wildfires](https://www.washingtonpost.com/world/2023/08/19/canada-wildfires-british-columbia-kelowna-emergency/)
 * [2023-08-19, 16:59:18](https://news.ycombinator.com/item?id=37190757) - [NC Files More Than 400 Charges Against Shelby Nissan Dealership Employees](https://jalopnik.com/north-carolina-nissan-dealer-shelby-federal-charges-sue-1850752053)
 * [2023-08-19, 16:57:32](https://news.ycombinator.com/item?id=37190743) - [Aviation Navigation Log on $20 Receipt Printer](https://carloslagoa.com/blog/flipreps/flipreps.html)
