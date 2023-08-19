@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-19, 20:52:07](https://news.ycombinator.com/item?id=37193065) - [Indie Game Dev: Assessing Risk](https://derekyu.com/makegames/risk.html)
+* [2023-08-19, 20:37:43](https://news.ycombinator.com/item?id=37192915) - [What Saved the ‘Miracle House’ in Lahaina?](https://www.civilbeat.org/2023/08/what-saved-the-miracle-house-in-lahaina/)
 * [2023-08-19, 20:32:08](https://news.ycombinator.com/item?id=37192858) - [How do we pay for parking?](https://cohost.org/cathoderaydude/post/2521077-hahaha-we-live-in-he)
 * [2023-08-19, 20:15:59](https://news.ycombinator.com/item?id=37192710) - [Clone-a-Lisa](https://vole.wtf/clone-a-lisa/)
 * [2023-08-19, 20:14:21](https://news.ycombinator.com/item?id=37192691) - [IP Address Blocking Banned After Anti-Piracy Court Order Hit Cloudflare](https://torrentfreak.com/ip-address-blocking-banned-after-anti-piracy-court-order-hit-cloudflare-230811/)
@@ -8,7 +9,6 @@
 * [2023-08-19, 18:45:56](https://news.ycombinator.com/item?id=37191795) - [High-Dosage NMN Promotes Ferroptosis to Suppress Lung Adenocarcinoma in Mice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10177531/)
 * [2023-08-19, 18:06:14](https://news.ycombinator.com/item?id=37191434) - [First hurricane to hit California in 84 years](https://www.washingtonpost.com/weather/2023/08/19/hurricane-hilary-southern-california-rain-floods-forecast/)
 * [2023-08-19, 18:05:20](https://news.ycombinator.com/item?id=37191424) - [Flexport (YC W14) is hiring](https://flexport.com/careers)
-* [2023-08-19, 17:55:42](https://news.ycombinator.com/item?id=37191332) - [Iraq Blocks Telegram, Leaks Blackhole BGP Routes](https://www.kentik.com/blog/iraq-blocks-telegram-leaks-blackhole-bgp-routes/)
 * [2023-08-19, 17:06:06](https://news.ycombinator.com/item?id=37190818) - [Life Has Several Exits](https://lopespm.com/notes/2023/08/19/life_exits.html)
 * [2023-08-19, 16:57:32](https://news.ycombinator.com/item?id=37190743) - [Show HN: Aviation navigation log on $20 receipt printer](https://carloslagoa.com/blog/flipreps/flipreps.html)
 * [2023-08-19, 16:46:50](https://news.ycombinator.com/item?id=37190616) - [California Historical Radio Society Hints and Kinks [pdf]](https://californiahistoricalradio.com/wp-content/uploads/2012/01/CHRS-Hints-and-Kinks.pdf)

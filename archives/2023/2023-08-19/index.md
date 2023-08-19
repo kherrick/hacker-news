@@ -6,6 +6,7 @@
 
 * [2023-08-19, 20:52:07](https://news.ycombinator.com/item?id=37193065) - [Indie Game Dev: Assessing Risk](https://derekyu.com/makegames/risk.html)
 * [2023-08-19, 20:47:40](https://news.ycombinator.com/item?id=37193016) - [Is the world finally ready for ethical porn?](https://shado-mag.com/see/is-the-world-finally-ready-for-ethical-porn/)
+* [2023-08-19, 20:37:43](https://news.ycombinator.com/item?id=37192915) - [What Saved the ‘Miracle House’ in Lahaina?](https://www.civilbeat.org/2023/08/what-saved-the-miracle-house-in-lahaina/)
 * [2023-08-19, 20:32:08](https://news.ycombinator.com/item?id=37192858) - [Hahaha We Live in Hell](https://cohost.org/cathoderaydude/post/2521077-hahaha-we-live-in-he)
 * [2023-08-19, 20:15:59](https://news.ycombinator.com/item?id=37192710) - [Clone-a-Lisa](https://vole.wtf/clone-a-lisa/)
 * [2023-08-19, 20:14:21](https://news.ycombinator.com/item?id=37192691) - [IP Address Blocking Banned After Anti-Piracy Court Order Hit Cloudflare](https://torrentfreak.com/ip-address-blocking-banned-after-anti-piracy-court-order-hit-cloudflare-230811/)
