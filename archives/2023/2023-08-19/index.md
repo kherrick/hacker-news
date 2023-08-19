@@ -6,6 +6,8 @@
 
 * [2023-08-19, 16:59:18](https://news.ycombinator.com/item?id=37190757) - [NC Files More Than 400 Charges Against Shelby Nissan Dealership Employees](https://jalopnik.com/north-carolina-nissan-dealer-shelby-federal-charges-sue-1850752053)
 * [2023-08-19, 16:57:32](https://news.ycombinator.com/item?id=37190743) - [Aviation Navigation Log on $20 Receipt Printer](https://carloslagoa.com/blog/flipreps/flipreps.html)
+* [2023-08-19, 16:51:34](https://news.ycombinator.com/item?id=37190678) - ['No-water' hydropower turns England's hills into green and pleasant batteries](https://www.rechargenews.com/energy-transition/no-water-hydropower-turns-englands-hills-into-green-and-pleasant-batteries/2-1-1501993?zephr_sso_ott=5JVAmL)
+* [2023-08-19, 16:35:08](https://news.ycombinator.com/item?id=37190493) - [OpenZFS – Incremental add of disks to existing RAIDZ](https://github.com/openzfs/zfs/pull/15022)
 * [2023-08-19, 16:07:20](https://news.ycombinator.com/item?id=37190172) - [Microsoft retracts AI-written article advising tourists to visit a food bank](https://www.engadget.com/microsoft-retracts-ai-written-article-advising-tourists-to-visit-a-food-bank-on-an-empty-stomach-182701884.html)
 * [2023-08-19, 15:57:02](https://news.ycombinator.com/item?id=37190037) - [We Spent $1,500,000 on Ads Without Getting a Single Customer](https://www.briefmix.com/startup/setting-objectives-kpis)
 * [2023-08-19, 15:54:32](https://news.ycombinator.com/item?id=37190005) - [Show HN: Find simple open source bounties to solve and get paid](https://www.bountyfordevs.com/)
