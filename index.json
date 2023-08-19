@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-08-18, 19:22:09",
-      "https://news.ycombinator.com/item?id=37180767"
-    ],
-    [
-      "Fixing the TPM: Hardware Security Modules Done Right",
-      "https://loup-vaillant.fr/articles/hsm-done-right"
-    ]
-  ],
-  [
-    [
       "2023-08-18, 18:27:54",
       "https://news.ycombinator.com/item?id=37180017"
     ],
@@ -287,6 +277,16 @@
     [
       "Throwing away 10 months of work after 2 months on the job",
       "https://www.dancowell.com/breaking-the-rules/"
+    ]
+  ],
+  [
+    [
+      "2023-08-17, 16:01:09",
+      "https://news.ycombinator.com/item?id=37163742"
+    ],
+    [
+      "Algebraic data types in Lua (almost)",
+      "https://mrcjkb.dev/posts/2023-08-17-lua-adts.html"
     ]
   ],
   [
