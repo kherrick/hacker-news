@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-19](index.md)
 
+* [2023-08-19, 13:26:48](https://news.ycombinator.com/item?id=37188549) - [Not so solitary predators? Great white shark duo seem to be travelling together](https://www.cbc.ca/radio/asithappens/tracking-great-white-shark-duo-ocearch-1.6940794)
+* [2023-08-19, 13:21:33](https://news.ycombinator.com/item?id=37188502) - [Facebook won't lift ban in Canada even for sharing wildfire info](https://www.reuters.com/technology/canada-demands-meta-lift-ban-news-allow-fires-info-be-shared-2023-08-18/)
 * [2023-08-19, 12:41:38](https://news.ycombinator.com/item?id=37188184) - [Cloud Tenancy Types to Suit Everyone (2019)](https://medium.com/the-scale-factory/cloud-tenancy-types-to-suit-everyone-d2ebf2333958)
 * [2023-08-19, 12:32:51](https://news.ycombinator.com/item?id=37188102) - [Show HN: A simple, open-source Notion-like avatar generator](https://www.avatartion.com)
 * [2023-08-19, 12:21:28](https://news.ycombinator.com/item?id=37188015) - [Why old books smell so good](https://scienceswitch.com/2023/08/19/why-do-old-books-smell-so-good/)

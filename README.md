@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-19, 13:26:48](https://news.ycombinator.com/item?id=37188549) - [Not so solitary predators? Great white shark duo seem to be travelling together](https://www.cbc.ca/radio/asithappens/tracking-great-white-shark-duo-ocearch-1.6940794)
+* [2023-08-19, 13:21:33](https://news.ycombinator.com/item?id=37188502) - [Facebook won't lift ban in Canada even for sharing wildfire info](https://www.reuters.com/technology/canada-demands-meta-lift-ban-news-allow-fires-info-be-shared-2023-08-18/)
 * [2023-08-19, 12:41:38](https://news.ycombinator.com/item?id=37188184) - [Cloud Tenancy Types to Suit Everyone (2019)](https://medium.com/the-scale-factory/cloud-tenancy-types-to-suit-everyone-d2ebf2333958)
 * [2023-08-19, 12:32:51](https://news.ycombinator.com/item?id=37188102) - [Show HN: A simple, open-source Notion-like avatar generator](https://www.avatartion.com)
 * [2023-08-19, 12:21:28](https://news.ycombinator.com/item?id=37188015) - [Why old books smell so good](https://scienceswitch.com/2023/08/19/why-do-old-books-smell-so-good/)
@@ -10,8 +12,6 @@
 * [2023-08-19, 10:28:26](https://news.ycombinator.com/item?id=37187320) - [Ask HN: How to contract for US companies as EU national](https://news.ycombinator.com/item?id=37187320)
 * [2023-08-19, 10:21:27](https://news.ycombinator.com/item?id=37187278) - [Flipping the model presents a new way to treat sleep apnoea](https://news.flinders.edu.au/blog/2023/08/08/flipping-the-model-presents-a-new-way-to-treat-sleep-apnoea/)
 * [2023-08-19, 07:00:15](https://news.ycombinator.com/item?id=37186277) - [PlayHT (YC W23) Is Hiring Senior ML Engineer (Large Language Models)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
-* [2023-08-19, 04:17:56](https://news.ycombinator.com/item?id=37185461) - [Ask HN: Why did Microsoft, Meta, and PayPal update their ToS today?](https://news.ycombinator.com/item?id=37185461)
-* [2023-08-19, 02:30:46](https://news.ycombinator.com/item?id=37184904) - [Cruise told by CA DMV to reduce robotaxi fleet 50% following crash](https://techcrunch.com/2023/08/18/cruise-told-by-regulators-to-immediately-reduce-robotaxi-fleet-50-following-crash/)
 * [2023-08-19, 02:27:49](https://news.ycombinator.com/item?id=37184884) - [How to Roman Republic 101, Part IIIb: Imperium](https://acoup.blog/2023/08/18/collections-how-to-roman-republic-101-part-iiib-imperium/)
 * [2023-08-19, 00:27:18](https://news.ycombinator.com/item?id=37184054) - [Cyberattack shutters major NSF-funded telescopes for more than 2 weeks](https://www.science.org/content/article/cyberattack-shutters-major-nsf-funded-telescopes-more-2-weeks)
 * [2023-08-19, 00:25:23](https://news.ycombinator.com/item?id=37184046) - [Metazooa](https://metazooa.com/game)
