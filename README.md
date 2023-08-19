@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-19, 20:52:07](https://news.ycombinator.com/item?id=37193065) - [Indie Game Dev: Assessing Risk](https://derekyu.com/makegames/risk.html)
 * [2023-08-19, 20:32:08](https://news.ycombinator.com/item?id=37192858) - [How do we pay for parking?](https://cohost.org/cathoderaydude/post/2521077-hahaha-we-live-in-he)
 * [2023-08-19, 20:15:59](https://news.ycombinator.com/item?id=37192710) - [Clone-a-Lisa](https://vole.wtf/clone-a-lisa/)
 * [2023-08-19, 20:14:21](https://news.ycombinator.com/item?id=37192691) - [IP Address Blocking Banned After Anti-Piracy Court Order Hit Cloudflare](https://torrentfreak.com/ip-address-blocking-banned-after-anti-piracy-court-order-hit-cloudflare-230811/)
@@ -25,7 +26,6 @@
 * [2023-08-18, 17:03:10](https://news.ycombinator.com/item?id=37178630) - [Astronomers Find Star Is a Powerful Magnet](https://skyandtelescope.org/astronomy-news/astronomers-find-strange-star-is-a-powerful-magnet/)
 * [2023-08-18, 15:42:41](https://news.ycombinator.com/item?id=37177203) - [Helidon Níma: A Java microservices framework based on virtual threads](https://helidon.io/nima)
 * [2023-08-18, 14:39:49](https://news.ycombinator.com/item?id=37176289) - [The PolymurHash universal hash function](https://github.com/orlp/polymur-hash)
-* [2023-08-18, 14:09:09](https://news.ycombinator.com/item?id=37175823) - [Time, frequency, phase and delay (1996)](http://www.libinst.com/tpfd.htm)
 * [2023-08-18, 13:14:58](https://news.ycombinator.com/item?id=37175170) - [Structuring Your Infrastructure as Code](https://leebriggs.co.uk/blog/2023/08/17/structuring-iac)
 * [2023-08-18, 03:25:46](https://news.ycombinator.com/item?id=37171114) - [The Lost Script of Rapa Nui](https://www.historytoday.com/archive/missing-pieces/lost-script-rapa-nui)
 * [2023-08-17, 20:14:06](https://news.ycombinator.com/item?id=37167306) - [Spotify looked to ban white noise podcasts to become more profitable](https://www.bloomberg.com/news/newsletters/2023-08-17/white-noise-podcasters-are-costing-spotify-38-million-a-year)
