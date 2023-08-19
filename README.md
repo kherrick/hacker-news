@@ -2,7 +2,6 @@
 
 * [2023-08-19, 09:35:16](https://news.ycombinator.com/item?id=37187051) - [America’s Obsession with Weight-Loss Drugs Is Affecting the Economy of Denmark](https://www.wsj.com/economy/central-banking/americas-obsession-with-weight-loss-drugs-is-affecting-the-economy-of-denmark-22797e5c)
 * [2023-08-19, 09:14:29](https://news.ycombinator.com/item?id=37186959) - [Spotify Annoyed by People Uploading Hours of White Noise](https://futurism.com/the-byte/spotify-white-noise)
-* [2023-08-19, 08:00:05](https://news.ycombinator.com/item?id=37186590) - [Conclusive Evidence for Modified Gravity](https://scitechdaily.com/conclusive-evidence-for-modified-gravity-collapse-of-newtons-and-einsteins-theories-in-low-acceleration/)
 * [2023-08-19, 07:09:37](https://news.ycombinator.com/item?id=37186327) - [Important CIA Contributions to Modern Technology](https://www.cia.gov/stories/story/cia-contributions-to-modern-technology-75-years/)
 * [2023-08-19, 07:00:15](https://news.ycombinator.com/item?id=37186277) - [PlayHT (YC W23) Is Hiring Senior ML Engineer (Large Language Models)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 * [2023-08-19, 04:17:56](https://news.ycombinator.com/item?id=37185461) - [Ask HN: Why did Microsoft, Meta, and PayPal update their ToS today?](https://news.ycombinator.com/item?id=37185461)
@@ -17,6 +16,7 @@
 * [2023-08-18, 21:19:44](https://news.ycombinator.com/item?id=37182284) - [Show HN: Saf – simple, reliable, rsync-based, battle tested, rounded backup](https://github.com/dusanx/saf)
 * [2023-08-18, 18:27:54](https://news.ycombinator.com/item?id=37180017) - [Show HN: Poozle – open-source Plaid for LLMs](https://github.com/poozlehq/poozle)
 * [2023-08-18, 17:12:05](https://news.ycombinator.com/item?id=37178785) - [The Floppy Disk (2011)](https://www.ibm.com/ibm/history/ibm100/us/en/icons/floppy/)
+* [2023-08-18, 15:28:58](https://news.ycombinator.com/item?id=37176960) - [Learning async Rust with entirely too many web servers](https://ibraheem.ca/posts/too-many-web-servers/)
 * [2023-08-18, 15:06:48](https://news.ycombinator.com/item?id=37176703) - [Ask vs. Guess Culture](https://jeanhsu.substack.com/p/ask-vs-guess-culture)
 * [2023-08-18, 13:36:15](https://news.ycombinator.com/item?id=37175432) - [Mister Rogers had a point – routinely greeting six neighbors maximizes wellbeing](https://news.gallup.com/poll/509543/saying-hello-linked-higher-wellbeing-limits.aspx)
 * [2023-08-18, 13:17:01](https://news.ycombinator.com/item?id=37175192) - [Why your blog still needs RSS](https://journal.paoloamoroso.com/why-your-blog-still-needs-rss)
