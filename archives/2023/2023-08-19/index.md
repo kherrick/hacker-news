@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-19](index.md)
 
+* [2023-08-19, 14:35:34](https://news.ycombinator.com/item?id=37189216) - [Tesla repossessed my car due to an extreme oversight on their end](https://old.reddit.com/r/RealTesla/comments/15u8wuv/tesla_repossessed_my_car_due_to_an_extreme/)
 * [2023-08-19, 13:51:12](https://news.ycombinator.com/item?id=37188791) - [AI-Generated Art Lacks Copyright Protection, D.C. Court Says](https://news.bloomberglaw.com/ip-law/ai-generated-art-lacks-copyright-protection-d-c-court-rules)
 * [2023-08-19, 13:46:17](https://news.ycombinator.com/item?id=37188736) - [WD refused to answer our questions about its self-wiping SanDisk SSDs](https://www.theverge.com/23837513/western-digital-sandisk-ssd-corrupted-deleted-questions)
 * [2023-08-19, 13:41:43](https://news.ycombinator.com/item?id=37188695) - [The Lost Script of Rapa Nui](https://www.historytoday.com/archive/missing-pieces/lost-script-rapa-nui)

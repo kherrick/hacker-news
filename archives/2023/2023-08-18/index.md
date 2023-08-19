@@ -30,6 +30,7 @@
 * [2023-08-18, 17:29:17](https://news.ycombinator.com/item?id=37179110) - [Earth’s hottest month: these charts show what happened in July; what comes next](https://www.nature.com/articles/d41586-023-02552-2)
 * [2023-08-18, 17:28:13](https://news.ycombinator.com/item?id=37179094) - [Police Are Getting DNA Data from People Who Think They Opted Out](https://theintercept.com/2023/08/18/gedmatch-dna-police-forensic-genetic-genealogy/)
 * [2023-08-18, 17:26:54](https://news.ycombinator.com/item?id=37179066) - [The Plumber Problem](https://hypercritical.co/2023/08/18/the-plumber-problem)
+* [2023-08-18, 17:23:56](https://news.ycombinator.com/item?id=37179010) - [C# Application Markup Language (Csaml): A Preview (2006)](http://www.charlespetzold.com/etc/CSAML.html)
 * [2023-08-18, 17:14:59](https://news.ycombinator.com/item?id=37178842) - [Expanding Transformer size without losing function or starting from scratch](https://arxiv.org/abs/2308.06103)
 * [2023-08-18, 17:12:05](https://news.ycombinator.com/item?id=37178785) - [The Floppy Disk (2011)](https://www.ibm.com/ibm/history/ibm100/us/en/icons/floppy/)
 * [2023-08-18, 17:01:16](https://news.ycombinator.com/item?id=37178594) - [Moonbit: The fast, compact and user friendly language for WebAssembly](https://www.moonbitlang.com/blog/first-announce/)
