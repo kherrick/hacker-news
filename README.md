@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-19, 04:13:24](https://news.ycombinator.com/item?id=37185429) - [Xiaomi introduced the new generation robo-dog, Xiaomi CyberDog 2](https://xiaomiui.net/xiaomi-introduced-the-new-generation-robo-dog-xiaomi-cyberdog-2-49032/)
+* [2023-08-19, 04:05:08](https://news.ycombinator.com/item?id=37185390) - [The Scourge of 00UB](https://gavinhoward.com/2023/08/the-scourge-of-00ub/)
 * [2023-08-19, 03:09:39](https://news.ycombinator.com/item?id=37185090) - [Interview with Shang-Yi Chiang, Former TSMC VP of Research](https://www.computerhistory.org/collections/catalog/102792671)
 * [2023-08-19, 02:27:49](https://news.ycombinator.com/item?id=37184884) - [How to Roman Republic 101, Part IIIb: Imperium](https://acoup.blog/2023/08/18/collections-how-to-roman-republic-101-part-iiib-imperium/)
 * [2023-08-19, 00:36:49](https://news.ycombinator.com/item?id=37184119) - [Chronosort](https://ledoc.itch.io/chronosort)
@@ -15,7 +16,6 @@
 * [2023-08-18, 19:22:09](https://news.ycombinator.com/item?id=37180767) - [Fixing the TPM: Hardware Security Modules Done Right](https://loup-vaillant.fr/articles/hsm-done-right)
 * [2023-08-18, 18:27:54](https://news.ycombinator.com/item?id=37180017) - [Show HN: Poozle – open-source Plaid for LLMs](https://github.com/poozlehq/poozle)
 * [2023-08-18, 17:26:54](https://news.ycombinator.com/item?id=37179066) - [The Plumber Problem](https://hypercritical.co/2023/08/18/the-plumber-problem)
-* [2023-08-18, 17:14:59](https://news.ycombinator.com/item?id=37178842) - [Expanding Transformer size without losing function or starting from scratch](https://arxiv.org/abs/2308.06103)
 * [2023-08-18, 17:01:16](https://news.ycombinator.com/item?id=37178594) - [Moonbit: The fast, compact and user friendly language for WebAssembly](https://www.moonbitlang.com/blog/first-announce/)
 * [2023-08-18, 16:41:25](https://news.ycombinator.com/item?id=37178251) - [Zaum](https://en.wikipedia.org/wiki/Zaum)
 * [2023-08-18, 15:28:58](https://news.ycombinator.com/item?id=37176960) - [Learning async Rust with entirely too many web servers](https://ibraheem.ca/posts/too-many-web-servers/)
