@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-19, 17:02:25",
+      "https://news.ycombinator.com/item?id=37190790"
+    ],
+    [
+      "British Columbia declares a state of emergency amid devastating wildfires",
+      "https://www.washingtonpost.com/world/2023/08/19/canada-wildfires-british-columbia-kelowna-emergency/"
+    ]
+  ],
+  [
+    [
       "2023-08-19, 16:59:18",
       "https://news.ycombinator.com/item?id=37190757"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=37190743"
     ],
     [
-      "Show HN: Aviation Navigation Log on $20 Receipt Printer",
+      "Show HN: Aviation navigation log on $20 receipt printer",
       "https://carloslagoa.com/blog/flipreps/flipreps.html"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=37190493"
     ],
     [
-      "OpenZFS – Incremental add of disks to existing RAIDZ",
+      "OpenZFS – add disks to existing RAIDZ",
       "https://github.com/openzfs/zfs/pull/15022"
     ]
   ],
@@ -61,6 +71,16 @@
   ],
   [
     [
+      "2023-08-19, 15:55:56",
+      "https://news.ycombinator.com/item?id=37190025"
+    ],
+    [
+      "July 4th is NOT the US's Birthday. A tale about how Ben Franklin invented the US",
+      "https://jmsdnns.com/history/july-4th-is-no-birthday/"
+    ]
+  ],
+  [
+    [
       "2023-08-19, 15:09:09",
       "https://news.ycombinator.com/item?id=37189556"
     ],
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=37189067"
     ],
     [
-      "Cheems – The shiba inu meme dog has died",
+      "Cheems, the Shiba Inu meme dog, has died",
       "https://www.the-sun.com/news/8879390/cheems-balltze-dog-meme-cheemsburger-viral-cancer/"
     ]
   ],
@@ -91,21 +111,11 @@
   ],
   [
     [
-      "2023-08-19, 13:46:17",
-      "https://news.ycombinator.com/item?id=37188736"
-    ],
-    [
-      "WD refused to answer our questions about its self-wiping SanDisk SSDs",
-      "https://www.theverge.com/23837513/western-digital-sandisk-ssd-corrupted-deleted-questions"
-    ]
-  ],
-  [
-    [
       "2023-08-19, 13:41:43",
       "https://news.ycombinator.com/item?id=37188695"
     ],
     [
-      "The Lost Script of Rapa Nui",
+      "The lost script of Rapa Nui",
       "https://www.historytoday.com/archive/missing-pieces/lost-script-rapa-nui"
     ]
   ],
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=37188659"
     ],
     [
-      "Show HN: Rivet (YC W23) – Open-Source Game Server Management with Nomad and Rust",
+      "Show HN: Rivet – Open-source game server management with Nomad and Rust",
       "https://github.com/rivet-gg/rivet"
     ]
   ],
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=37188015"
     ],
     [
-      "Why old books smell so good",
+      "Why do old books smell so good?",
       "https://scienceswitch.com/2023/08/19/why-do-old-books-smell-so-good/"
     ]
   ],
@@ -175,7 +185,7 @@
       "https://news.ycombinator.com/item?id=37187663"
     ],
     [
-      "Stable Diffusion in pure C/C++",
+      "Stable Diffusion in C/C++",
       "https://github.com/leejet/stable-diffusion.cpp"
     ]
   ],
@@ -191,21 +201,11 @@
   ],
   [
     [
-      "2023-08-19, 02:27:49",
-      "https://news.ycombinator.com/item?id=37184884"
-    ],
-    [
-      "How to Roman Republic 101, Part IIIb: Imperium",
-      "https://acoup.blog/2023/08/18/collections-how-to-roman-republic-101-part-iiib-imperium/"
-    ]
-  ],
-  [
-    [
       "2023-08-19, 00:14:44",
       "https://news.ycombinator.com/item?id=37183964"
     ],
     [
-      "My Job Search Story",
+      "My job search story",
       "https://medium.com/@tedskyba/my-job-search-story-ca3956b498c9"
     ]
   ],
