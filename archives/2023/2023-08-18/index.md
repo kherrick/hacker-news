@@ -60,6 +60,7 @@
 * [2023-08-18, 13:33:15](https://news.ycombinator.com/item?id=37175390) - [A Ghost Town of Abandoned Mansions in China](https://www.architecturaldigest.com/story/see-inside-a-ghost-town-of-abandoned-mansions-in-china)
 * [2023-08-18, 13:20:50](https://news.ycombinator.com/item?id=37175228) - [Low dose radiation cancer 2x worse than predicted by LNT model](https://www.bmj.com/content/382/bmj-2022-074520)
 * [2023-08-18, 13:17:41](https://news.ycombinator.com/item?id=37175200) - [Broadband Monopolies Push Bill That Would Crush Your Ability to Stand Up to Them](https://www.techdirt.com/2023/08/18/with-hr-3557-broadband-monopolies-are-pushing-a-bill-that-would-crush-your-towns-ability-to-stand-up-to-them/)
+* [2023-08-18, 13:17:01](https://news.ycombinator.com/item?id=37175192) - [Why your blog still needs RSS](https://journal.paoloamoroso.com/why-your-blog-still-needs-rss)
 * [2023-08-18, 12:47:44](https://news.ycombinator.com/item?id=37174916) - [Node.js 20.6.0 will include built-in support for .env files](https://twitter.com/kom_256/status/1692225622091706389)
 * [2023-08-18, 12:41:19](https://news.ycombinator.com/item?id=37174850) - [You probably don’t need to fine-tune LLMs](https://www.tidepool.so/2023/08/17/why-you-probably-dont-need-to-fine-tune-an-llm/)
 * [2023-08-18, 12:40:12](https://news.ycombinator.com/item?id=37174838) - [Update Complete: U.S. Nuclear Weapons No Longer Need Floppy Disks](https://www.nytimes.com/2019/10/24/us/nuclear-weapons-floppy-disks.html)
