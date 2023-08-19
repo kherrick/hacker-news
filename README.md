@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-19, 02:30:46](https://news.ycombinator.com/item?id=37184904) - [Cruise told by CA DMV to reduce robotaxi fleet 50% following crash](https://techcrunch.com/2023/08/18/cruise-told-by-regulators-to-immediately-reduce-robotaxi-fleet-50-following-crash/)
 * [2023-08-19, 00:41:57](https://news.ycombinator.com/item?id=37184156) - [With LLMs, enterprise data is different](https://colinharman.substack.com/p/with-llms-enterprise-is-different)
 * [2023-08-19, 00:36:22](https://news.ycombinator.com/item?id=37184117) - [TSMC – the world's most important company. And everyone wants control of it](https://www.abc.net.au/news/2023-08-19/tsmc-the-most-important-company-in-the-world/102728172)
 * [2023-08-19, 00:25:23](https://news.ycombinator.com/item?id=37184046) - [Metazooa](https://metazooa.com/game)
@@ -12,8 +13,8 @@
 * [2023-08-18, 19:22:09](https://news.ycombinator.com/item?id=37180767) - [Fixing the TPM: Hardware Security Modules Done Right](https://loup-vaillant.fr/articles/hsm-done-right)
 * [2023-08-18, 18:27:54](https://news.ycombinator.com/item?id=37180017) - [Show HN: Poozle – open-source Plaid for LLMs](https://github.com/poozlehq/poozle)
 * [2023-08-18, 17:26:54](https://news.ycombinator.com/item?id=37179066) - [The Plumber Problem](https://hypercritical.co/2023/08/18/the-plumber-problem)
-* [2023-08-18, 17:14:59](https://news.ycombinator.com/item?id=37178842) - [Expanding Transformer size without losing function or starting from scratch](https://arxiv.org/abs/2308.06103)
 * [2023-08-18, 16:41:25](https://news.ycombinator.com/item?id=37178251) - [Zaum](https://en.wikipedia.org/wiki/Zaum)
+* [2023-08-18, 15:31:17](https://news.ycombinator.com/item?id=37176996) - [The Cart Narc and His Camera](https://www.theringer.com/pop-culture/2023/8/10/23825135/cart-narc-shopping-cart-theory-instagram-youtube)
 * [2023-08-18, 15:28:58](https://news.ycombinator.com/item?id=37176960) - [Learning async Rust with entirely too many web servers](https://ibraheem.ca/posts/too-many-web-servers/)
 * [2023-08-18, 15:16:46](https://news.ycombinator.com/item?id=37176842) - [Meaningful exits for founders (2016)](https://medium.com/strong-words/meaningful-exits-for-founders-4c3b2baba6b4)
 * [2023-08-18, 15:06:48](https://news.ycombinator.com/item?id=37176703) - [Ask vs. Guess Culture](https://jeanhsu.substack.com/p/ask-vs-guess-culture)
@@ -28,7 +29,6 @@
 * [2023-08-18, 05:07:44](https://news.ycombinator.com/item?id=37171553) - [Complexity theory’s 50-year journey to the limits of knowledge](https://www.quantamagazine.org/complexity-theorys-50-year-journey-to-the-limits-of-knowledge-20230817/)
 * [2023-08-18, 04:30:23](https://news.ycombinator.com/item?id=37171411) - [The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
 * [2023-08-17, 20:48:00](https://news.ycombinator.com/item?id=37167833) - [Throwing away 10 months of work after 2 months on the job](https://www.dancowell.com/breaking-the-rules/)
-* [2023-08-17, 16:01:09](https://news.ycombinator.com/item?id=37163742) - [Algebraic data types in Lua (almost)](https://mrcjkb.dev/posts/2023-08-17-lua-adts.html)
 * [2023-08-16, 21:21:57](https://news.ycombinator.com/item?id=37154030) - [Buy Me a Chair: The wacky world of university endowments](https://musgrave.substack.com/p/buy-me-a-chair)
 
 ## [Archives](archives/index.md)

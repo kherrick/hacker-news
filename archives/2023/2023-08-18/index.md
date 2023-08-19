@@ -38,6 +38,7 @@
 * [2023-08-18, 16:27:10](https://news.ycombinator.com/item?id=37178009) - [C and C++ Prioritize Performance over Correctness](https://research.swtch.com/ub)
 * [2023-08-18, 16:16:01](https://news.ycombinator.com/item?id=37177814) - [Scientists May Have Unraveled the Secret of Aging-Resistance in Naked Mole-Rats](https://ewww.kumamoto-u.ac.jp/sp/en/news/630/)
 * [2023-08-18, 15:57:49](https://news.ycombinator.com/item?id=37177508) - [Black Atlanta venture capital firm sued for racial discrimination](https://www.ajc.com/news/business/conservative-group-sues-black-atlanta-vc-firm-for-racial-discrimination/M6NP2V5PRJGE3HTJXBSF7VYKTY/)
+* [2023-08-18, 15:31:17](https://news.ycombinator.com/item?id=37176996) - [The Cart Narc and His Camera](https://www.theringer.com/pop-culture/2023/8/10/23825135/cart-narc-shopping-cart-theory-instagram-youtube)
 * [2023-08-18, 15:28:58](https://news.ycombinator.com/item?id=37176960) - [Learning Async Rust with Too Many Web Servers](https://ibraheem.ca/posts/too-many-web-servers/)
 * [2023-08-18, 15:16:46](https://news.ycombinator.com/item?id=37176842) - [Meaningful Exits for Founders](https://medium.com/strong-words/meaningful-exits-for-founders-4c3b2baba6b4)
 * [2023-08-18, 15:07:32](https://news.ycombinator.com/item?id=37176717) - [Deja Vu: The FBI Proves Again It Can’t Be Trusted with Section 702](https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702)
