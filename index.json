@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2023-08-18, 15:07:32",
-      "https://news.ycombinator.com/item?id=37176717"
-    ],
-    [
-      "The FBI proves again it can’t be trusted with Section 702",
-      "https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702"
-    ]
-  ],
-  [
-    [
       "2023-08-18, 15:06:48",
       "https://news.ycombinator.com/item?id=37176703"
     ],
@@ -201,22 +191,22 @@
   ],
   [
     [
-      "2023-08-18, 15:04:35",
-      "https://news.ycombinator.com/item?id=37176666"
-    ],
-    [
-      "Windows 11 will happily execute a binary compiled 30 years ago",
-      "https://twitter.com/mikko/status/1692503249595584526"
-    ]
-  ],
-  [
-    [
       "2023-08-18, 13:36:15",
       "https://news.ycombinator.com/item?id=37175432"
     ],
     [
       "Mister Rogers had a point – routinely greeting six neighbors maximizes wellbeing",
       "https://news.gallup.com/poll/509543/saying-hello-linked-higher-wellbeing-limits.aspx"
+    ]
+  ],
+  [
+    [
+      "2023-08-18, 12:22:07",
+      "https://news.ycombinator.com/item?id=37174657"
+    ],
+    [
+      "Textual: Rapid Application Development framework for Python",
+      "https://github.com/Textualize/textual"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The Atlas of Economic Complexity",
       "https://atlas.cid.harvard.edu/"
+    ]
+  ],
+  [
+    [
+      "2023-08-17, 16:01:09",
+      "https://news.ycombinator.com/item?id=37163742"
+    ],
+    [
+      "Algebraic data types in Lua (almost)",
+      "https://mrcjkb.dev/posts/2023-08-17-lua-adts.html"
     ]
   ],
   [
