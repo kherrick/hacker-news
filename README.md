@@ -21,6 +21,7 @@
 * [2023-08-18, 15:06:48](https://news.ycombinator.com/item?id=37176703) - [Ask vs. Guess Culture](https://jeanhsu.substack.com/p/ask-vs-guess-culture)
 * [2023-08-18, 13:36:15](https://news.ycombinator.com/item?id=37175432) - [Mister Rogers had a point – routinely greeting six neighbors maximizes wellbeing](https://news.gallup.com/poll/509543/saying-hello-linked-higher-wellbeing-limits.aspx)
 * [2023-08-18, 13:17:01](https://news.ycombinator.com/item?id=37175192) - [Why your blog still needs RSS](https://journal.paoloamoroso.com/why-your-blog-still-needs-rss)
+* [2023-08-18, 12:22:07](https://news.ycombinator.com/item?id=37174657) - [Textual: Rapid Application Development framework for Python](https://github.com/Textualize/textual)
 * [2023-08-18, 12:17:58](https://news.ycombinator.com/item?id=37174619) - [Moonbit: Fast, compact and user friendly language for WebAssembly](https://moonbitlang.com/blog/first-announce/)
 * [2023-08-18, 11:41:07](https://news.ycombinator.com/item?id=37174330) - [Kernighan and Pike were right: Do one thing, and do it well](https://medium.com/source-and-buggy/do-one-thing-and-do-it-well-886b11a5d21)
 * [2023-08-18, 11:19:13](https://news.ycombinator.com/item?id=37174147) - [New motherboard improves old CRT television](https://hackaday.com/2023/08/16/new-motherboard-improves-old-crt-television/)
@@ -29,7 +30,6 @@
 * [2023-08-18, 05:07:44](https://news.ycombinator.com/item?id=37171553) - [Complexity theory’s 50-year journey to the limits of knowledge](https://www.quantamagazine.org/complexity-theorys-50-year-journey-to-the-limits-of-knowledge-20230817/)
 * [2023-08-18, 04:30:23](https://news.ycombinator.com/item?id=37171411) - [The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
 * [2023-08-17, 20:05:40](https://news.ycombinator.com/item?id=37167210) - [Joys and pains of insects](https://www.scientificamerican.com/article/do-insects-feel-joy-and-pain/)
-* [2023-08-16, 21:21:57](https://news.ycombinator.com/item?id=37154030) - [Buy Me a Chair: The wacky world of university endowments](https://musgrave.substack.com/p/buy-me-a-chair)
 
 ## [Archives](archives/index.md)
 
