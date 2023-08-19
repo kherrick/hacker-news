@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-19, 12:21:28](https://news.ycombinator.com/item?id=37188015) - [Why old books smell so good](https://scienceswitch.com/2023/08/19/why-do-old-books-smell-so-good/)
-* [2023-08-19, 12:01:27](https://news.ycombinator.com/item?id=37187874) - [(Cold) Lattice Confinement Fusion](https://www1.grc.nasa.gov/space/science/lattice-confinement-fusion/)
 * [2023-08-19, 12:01:02](https://news.ycombinator.com/item?id=37187870) - [Fart Proudly – An Essay by Benjamin Franklin](https://en.wikipedia.org/wiki/Fart_Proudly)
 * [2023-08-19, 11:56:01](https://news.ycombinator.com/item?id=37187837) - [Amsterdam to use “noise cameras” against too loud cars](https://nltimes.nl/2023/08/11/amsterdam-use-noise-cameras-loud-cars)
 * [2023-08-19, 11:41:57](https://news.ycombinator.com/item?id=37187760) - [Windy.com: global weather website with live filters](https://www.windy.com)
+* [2023-08-19, 11:26:43](https://news.ycombinator.com/item?id=37187663) - [Stable Diffusion in pure C/C++](https://github.com/leejet/stable-diffusion.cpp)
 * [2023-08-19, 10:28:26](https://news.ycombinator.com/item?id=37187320) - [Ask HN: How to contract for US companies as EU national](https://news.ycombinator.com/item?id=37187320)
 * [2023-08-19, 07:00:15](https://news.ycombinator.com/item?id=37186277) - [PlayHT (YC W23) Is Hiring Senior ML Engineer (Large Language Models)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 * [2023-08-19, 04:17:56](https://news.ycombinator.com/item?id=37185461) - [Ask HN: Why did Microsoft, Meta, and PayPal update their ToS today?](https://news.ycombinator.com/item?id=37185461)
