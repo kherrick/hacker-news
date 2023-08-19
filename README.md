@@ -10,7 +10,6 @@
 * [2023-08-18, 22:02:39](https://news.ycombinator.com/item?id=37182747) - [Pines’ demon observed as a 3D acoustic plasmon in Sr2RuO4](https://www.nature.com/articles/s41586-023-06318-8)
 * [2023-08-18, 21:40:11](https://news.ycombinator.com/item?id=37182515) - [ARM’s Neoverse N2: Cortex A710 for Servers](https://chipsandcheese.com/2023/08/18/arms-neoverse-n2-cortex-a710-for-servers/)
 * [2023-08-18, 21:19:44](https://news.ycombinator.com/item?id=37182284) - [Show HN: Saf – simple, reliable, rsync-based, battle tested, rounded backup](https://github.com/dusanx/saf)
-* [2023-08-18, 19:22:09](https://news.ycombinator.com/item?id=37180767) - [Fixing the TPM: Hardware Security Modules Done Right](https://loup-vaillant.fr/articles/hsm-done-right)
 * [2023-08-18, 18:27:54](https://news.ycombinator.com/item?id=37180017) - [Show HN: Poozle – open-source Plaid for LLMs](https://github.com/poozlehq/poozle)
 * [2023-08-18, 17:26:54](https://news.ycombinator.com/item?id=37179066) - [The Plumber Problem](https://hypercritical.co/2023/08/18/the-plumber-problem)
 * [2023-08-18, 16:41:25](https://news.ycombinator.com/item?id=37178251) - [Zaum](https://en.wikipedia.org/wiki/Zaum)
@@ -29,6 +28,7 @@
 * [2023-08-18, 05:07:44](https://news.ycombinator.com/item?id=37171553) - [Complexity theory’s 50-year journey to the limits of knowledge](https://www.quantamagazine.org/complexity-theorys-50-year-journey-to-the-limits-of-knowledge-20230817/)
 * [2023-08-18, 04:30:23](https://news.ycombinator.com/item?id=37171411) - [The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
 * [2023-08-17, 20:48:00](https://news.ycombinator.com/item?id=37167833) - [Throwing away 10 months of work after 2 months on the job](https://www.dancowell.com/breaking-the-rules/)
+* [2023-08-17, 16:01:09](https://news.ycombinator.com/item?id=37163742) - [Algebraic data types in Lua (almost)](https://mrcjkb.dev/posts/2023-08-17-lua-adts.html)
 * [2023-08-16, 21:21:57](https://news.ycombinator.com/item?id=37154030) - [Buy Me a Chair: The wacky world of university endowments](https://musgrave.substack.com/p/buy-me-a-chair)
 
 ## [Archives](archives/index.md)
