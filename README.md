@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-19, 20:15:59](https://news.ycombinator.com/item?id=37192710) - [Clone-a-Lisa](https://vole.wtf/clone-a-lisa/)
 * [2023-08-19, 18:45:56](https://news.ycombinator.com/item?id=37191795) - [High-Dosage NMN Promotes Ferroptosis to Suppress Lung Adenocarcinoma in Mice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10177531/)
 * [2023-08-19, 18:32:30](https://news.ycombinator.com/item?id=37191671) - [Air Force funds ‘blended wing body’ design for long-range, fuel-efficient flight](https://www.popsci.com/technology/air-force-blended-wing-body/)
 * [2023-08-19, 18:06:14](https://news.ycombinator.com/item?id=37191434) - [First Hurricane to hit California in 84 years; ‘catastrophic’ flooding feared](https://www.washingtonpost.com/weather/2023/08/19/hurricane-hilary-southern-california-rain-floods-forecast/)
@@ -26,7 +27,6 @@
 * [2023-08-18, 15:42:41](https://news.ycombinator.com/item?id=37177203) - [Helidon Níma: The first Java microservices framework based on virtual threads](https://helidon.io/nima)
 * [2023-08-18, 14:09:09](https://news.ycombinator.com/item?id=37175823) - [Time, frequency, phase and delay (1996)](http://www.libinst.com/tpfd.htm)
 * [2023-08-18, 13:14:58](https://news.ycombinator.com/item?id=37175170) - [Structuring Your Infrastructure as Code](https://leebriggs.co.uk/blog/2023/08/17/structuring-iac)
-* [2023-08-18, 12:17:58](https://news.ycombinator.com/item?id=37174619) - [Moonbit: Fast, compact and user friendly language for WebAssembly](https://moonbitlang.com/blog/first-announce/)
 * [2023-08-18, 03:25:46](https://news.ycombinator.com/item?id=37171114) - [The Lost Script of Rapa Nui](https://www.historytoday.com/archive/missing-pieces/lost-script-rapa-nui)
 * [2023-08-17, 20:14:06](https://news.ycombinator.com/item?id=37167306) - [Spotify looked to ban white noise podcasts to become more profitable](https://www.bloomberg.com/news/newsletters/2023-08-17/white-noise-podcasters-are-costing-spotify-38-million-a-year)
 * [2023-08-16, 13:23:27](https://news.ycombinator.com/item?id=37146685) - [Part-DB: open-source inventory management system for your electronic components](https://github.com/Part-DB/Part-DB-server)

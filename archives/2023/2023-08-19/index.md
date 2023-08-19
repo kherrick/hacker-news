@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-19](index.md)
 
+* [2023-08-19, 20:15:59](https://news.ycombinator.com/item?id=37192710) - [Clone-a-Lisa](https://vole.wtf/clone-a-lisa/)
 * [2023-08-19, 19:45:12](https://news.ycombinator.com/item?id=37192371) - [Insulin resistance after a 3-day fast](https://journals.physiology.org/doi/abs/10.1152/ajpendo.00317.2022)
 * [2023-08-19, 19:35:25](https://news.ycombinator.com/item?id=37192291) - [Police urged to investigate hospital bosses for corporate manslaughter](https://www.theguardian.com/uk-news/2023/aug/19/lucy-letby-police-urged-to-investigate-hospital-bosses-for-corporate-manslaughter)
 * [2023-08-19, 19:28:43](https://news.ycombinator.com/item?id=37192238) - [I Have Blocked OpenAI](https://gavinhoward.com/2023/08/i-have-blocked-openai/)
