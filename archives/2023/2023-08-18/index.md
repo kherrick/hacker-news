@@ -33,6 +33,7 @@
 * [2023-08-18, 17:23:56](https://news.ycombinator.com/item?id=37179010) - [C# Application Markup Language (Csaml): A Preview (2006)](http://www.charlespetzold.com/etc/CSAML.html)
 * [2023-08-18, 17:14:59](https://news.ycombinator.com/item?id=37178842) - [Expanding Transformer size without losing function or starting from scratch](https://arxiv.org/abs/2308.06103)
 * [2023-08-18, 17:12:05](https://news.ycombinator.com/item?id=37178785) - [The Floppy Disk (2011)](https://www.ibm.com/ibm/history/ibm100/us/en/icons/floppy/)
+* [2023-08-18, 17:03:10](https://news.ycombinator.com/item?id=37178630) - [Astronomers Find Star Is a Powerful Magnet](https://skyandtelescope.org/astronomy-news/astronomers-find-strange-star-is-a-powerful-magnet/)
 * [2023-08-18, 17:01:16](https://news.ycombinator.com/item?id=37178594) - [Moonbit: The fast, compact and user friendly language for WebAssembly](https://www.moonbitlang.com/blog/first-announce/)
 * [2023-08-18, 16:52:35](https://news.ycombinator.com/item?id=37178447) - [The Next Next Job, a framework for making big career decisions](https://andrewchen.com/the-next-next-job/)
 * [2023-08-18, 16:50:09](https://news.ycombinator.com/item?id=37178409) - [From Mechs to Mopar](https://www.filfre.net/2023/08/from-mechs-to-mopar/)

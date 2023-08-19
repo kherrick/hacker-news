@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-19](index.md)
 
 * [2023-08-19, 20:47:40](https://news.ycombinator.com/item?id=37193016) - [Is the world finally ready for ethical porn?](https://shado-mag.com/see/is-the-world-finally-ready-for-ethical-porn/)
+* [2023-08-19, 20:32:08](https://news.ycombinator.com/item?id=37192858) - [Hahaha We Live in Hell](https://cohost.org/cathoderaydude/post/2521077-hahaha-we-live-in-he)
 * [2023-08-19, 20:15:59](https://news.ycombinator.com/item?id=37192710) - [Clone-a-Lisa](https://vole.wtf/clone-a-lisa/)
 * [2023-08-19, 20:12:10](https://news.ycombinator.com/item?id=37192662) - [The Noisy Middle Ages](https://www.medievalists.net/2016/02/the-noisy-middle-ages/)
 * [2023-08-19, 19:45:12](https://news.ycombinator.com/item?id=37192371) - [Insulin resistance after a 3-day fast](https://journals.physiology.org/doi/abs/10.1152/ajpendo.00317.2022)
