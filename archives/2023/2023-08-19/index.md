@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-08-19](index.md)
 
+* [2023-08-19, 18:26:35](https://news.ycombinator.com/item?id=37191621) - [New plant-based pork ribs to feature edible vegan bones](https://www.theguardian.com/food/2023/aug/17/new-plant-based-pork-ribs-to-feature-edible-vegan-bones)
+* [2023-08-19, 18:06:14](https://news.ycombinator.com/item?id=37191434) - [First Hurricane to hit California in 84 years; ‘catastrophic’ flooding feared](https://www.washingtonpost.com/weather/2023/08/19/hurricane-hilary-southern-california-rain-floods-forecast/)
 * [2023-08-19, 18:05:20](https://news.ycombinator.com/item?id=37191424) - [Flexport Is Hiring (Though not as much as before)](https://flexport.com/careers)
 * [2023-08-19, 17:45:48](https://news.ycombinator.com/item?id=37191220) - [70 years ago, an Anglo-US coup condemned Iran to decades of oppression](https://theconversation.com/70-years-ago-an-anglo-us-coup-condemned-iran-to-decades-of-oppression-but-now-the-people-are-fighting-back-211698)
 * [2023-08-19, 17:02:25](https://news.ycombinator.com/item?id=37190790) - [British Columbia declares a state of emergency amid devastating wildfires](https://www.washingtonpost.com/world/2023/08/19/canada-wildfires-british-columbia-kelowna-emergency/)
 * [2023-08-19, 16:59:18](https://news.ycombinator.com/item?id=37190757) - [NC Files More Than 400 Charges Against Shelby Nissan Dealership Employees](https://jalopnik.com/north-carolina-nissan-dealer-shelby-federal-charges-sue-1850752053)
 * [2023-08-19, 16:57:32](https://news.ycombinator.com/item?id=37190743) - [Aviation Navigation Log on $20 Receipt Printer](https://carloslagoa.com/blog/flipreps/flipreps.html)
 * [2023-08-19, 16:51:34](https://news.ycombinator.com/item?id=37190678) - ['No-water' hydropower turns England's hills into green and pleasant batteries](https://www.rechargenews.com/energy-transition/no-water-hydropower-turns-englands-hills-into-green-and-pleasant-batteries/2-1-1501993?zephr_sso_ott=5JVAmL)
+* [2023-08-19, 16:46:50](https://news.ycombinator.com/item?id=37190616) - [California Historical Radio Society Hints and Kinks [pdf]](https://californiahistoricalradio.com/wp-content/uploads/2012/01/CHRS-Hints-and-Kinks.pdf)
 * [2023-08-19, 16:35:08](https://news.ycombinator.com/item?id=37190493) - [OpenZFS – Incremental add of disks to existing RAIDZ](https://github.com/openzfs/zfs/pull/15022)
 * [2023-08-19, 16:07:20](https://news.ycombinator.com/item?id=37190172) - [Microsoft retracts AI-written article advising tourists to visit a food bank](https://www.engadget.com/microsoft-retracts-ai-written-article-advising-tourists-to-visit-a-food-bank-on-an-empty-stomach-182701884.html)
 * [2023-08-19, 15:57:02](https://news.ycombinator.com/item?id=37190037) - [We Spent $1,500,000 on Ads Without Getting a Single Customer](https://www.briefmix.com/startup/setting-objectives-kpis)
