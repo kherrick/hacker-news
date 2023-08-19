@@ -29,6 +29,7 @@
 * [2023-08-18, 17:28:13](https://news.ycombinator.com/item?id=37179094) - [Police Are Getting DNA Data from People Who Think They Opted Out](https://theintercept.com/2023/08/18/gedmatch-dna-police-forensic-genetic-genealogy/)
 * [2023-08-18, 17:26:54](https://news.ycombinator.com/item?id=37179066) - [The Plumber Problem](https://hypercritical.co/2023/08/18/the-plumber-problem)
 * [2023-08-18, 17:14:59](https://news.ycombinator.com/item?id=37178842) - [Expanding Transformer size without losing function or starting from scratch](https://arxiv.org/abs/2308.06103)
+* [2023-08-18, 17:01:16](https://news.ycombinator.com/item?id=37178594) - [Moonbit: The fast, compact and user friendly language for WebAssembly](https://www.moonbitlang.com/blog/first-announce/)
 * [2023-08-18, 16:52:35](https://news.ycombinator.com/item?id=37178447) - [The Next Next Job, a framework for making big career decisions](https://andrewchen.com/the-next-next-job/)
 * [2023-08-18, 16:50:09](https://news.ycombinator.com/item?id=37178409) - [From Mechs to Mopar](https://www.filfre.net/2023/08/from-mechs-to-mopar/)
 * [2023-08-18, 16:49:01](https://news.ycombinator.com/item?id=37178388) - [YouTube using antipattern to force people enable history](https://news.ycombinator.com/item?id=37178388)
