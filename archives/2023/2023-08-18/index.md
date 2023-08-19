@@ -56,6 +56,7 @@
 * [2023-08-18, 14:47:24](https://news.ycombinator.com/item?id=37176393) - [Driverless Cruise car collides with SF fire truck, injuring passenger](https://abc7news.com/cruise-driverless-car-sffd-fire-truck-accident/13666936/)
 * [2023-08-18, 14:35:06](https://news.ycombinator.com/item?id=37176220) - [Building Muscle in the Lab](https://ethz.ch/en/news-and-events/eth-news/news/2023/08/building-muscle-in-the-lab.html)
 * [2023-08-18, 14:13:54](https://news.ycombinator.com/item?id=37175892) - [Learning How to Code?](https://news.ycombinator.com/item?id=37175892)
+* [2023-08-18, 14:09:09](https://news.ycombinator.com/item?id=37175823) - [Time, frequency, phase and delay (1996)](http://www.libinst.com/tpfd.htm)
 * [2023-08-18, 14:03:42](https://news.ycombinator.com/item?id=37175754) - [Richard Stallman on why GNU su didn't support the “wheel” group](https://ftp.gnu.org/old-gnu/Manuals/coreutils-4.5.4/html_node/coreutils_149.html)
 * [2023-08-18, 14:00:55](https://news.ycombinator.com/item?id=37175721) - [Sargablock: Bricks from Seaweed](https://fortomorrow.org/explore-solutions/sargablock)
 * [2023-08-18, 13:48:57](https://news.ycombinator.com/item?id=37175568) - [HN's HTML Is Invalid](https://validator.w3.org/nu/?doc=https://news.ycombinator.com/)
