@@ -16,6 +16,7 @@
 * [2023-08-18, 17:26:54](https://news.ycombinator.com/item?id=37179066) - [The Plumber Problem](https://hypercritical.co/2023/08/18/the-plumber-problem)
 * [2023-08-18, 17:14:59](https://news.ycombinator.com/item?id=37178842) - [Expanding Transformer size without losing function or starting from scratch](https://arxiv.org/abs/2308.06103)
 * [2023-08-18, 16:41:25](https://news.ycombinator.com/item?id=37178251) - [Zaum](https://en.wikipedia.org/wiki/Zaum)
+* [2023-08-18, 15:52:37](https://news.ycombinator.com/item?id=37177404) - [Soundproofing my studio](https://www.jeffgeerling.com/blog/2023/soundproofing-my-studio-whats-wall)
 * [2023-08-18, 15:28:58](https://news.ycombinator.com/item?id=37176960) - [Learning async Rust with entirely too many web servers](https://ibraheem.ca/posts/too-many-web-servers/)
 * [2023-08-18, 15:16:46](https://news.ycombinator.com/item?id=37176842) - [Meaningful exits for founders (2016)](https://medium.com/strong-words/meaningful-exits-for-founders-4c3b2baba6b4)
 * [2023-08-18, 15:06:48](https://news.ycombinator.com/item?id=37176703) - [Ask vs. Guess Culture](https://jeanhsu.substack.com/p/ask-vs-guess-culture)
@@ -28,7 +29,6 @@
 * [2023-08-18, 08:28:04](https://news.ycombinator.com/item?id=37172769) - [Emulating the 6502 CPU in C++ (2021) [video]](https://www.youtube.com/watch?v=qJgsuQoy9bc)
 * [2023-08-18, 05:07:44](https://news.ycombinator.com/item?id=37171553) - [Complexity theory’s 50-year journey to the limits of knowledge](https://www.quantamagazine.org/complexity-theorys-50-year-journey-to-the-limits-of-knowledge-20230817/)
 * [2023-08-18, 04:30:23](https://news.ycombinator.com/item?id=37171411) - [The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
-* [2023-08-17, 16:01:09](https://news.ycombinator.com/item?id=37163742) - [Algebraic data types in Lua (almost)](https://mrcjkb.dev/posts/2023-08-17-lua-adts.html)
 * [2023-08-16, 21:21:57](https://news.ycombinator.com/item?id=37154030) - [Buy Me a Chair: The wacky world of university endowments](https://musgrave.substack.com/p/buy-me-a-chair)
 
 ## [Archives](archives/index.md)
