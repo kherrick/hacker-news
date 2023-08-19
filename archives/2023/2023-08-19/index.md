@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-19](index.md)
 
+* [2023-08-19, 16:59:18](https://news.ycombinator.com/item?id=37190757) - [NC Files More Than 400 Charges Against Shelby Nissan Dealership Employees](https://jalopnik.com/north-carolina-nissan-dealer-shelby-federal-charges-sue-1850752053)
 * [2023-08-19, 15:57:02](https://news.ycombinator.com/item?id=37190037) - [We Spent $1,500,000 on Ads Without Getting a Single Customer](https://www.briefmix.com/startup/setting-objectives-kpis)
 * [2023-08-19, 15:54:32](https://news.ycombinator.com/item?id=37190005) - [Show HN: Find simple open source bounties to solve and get paid](https://www.bountyfordevs.com/)
 * [2023-08-19, 15:41:39](https://news.ycombinator.com/item?id=37189872) - [Twitter/X has removed all media posted before 2014](https://twitter.com/tomcoates/status/1692922211416334597)
