@@ -2,7 +2,6 @@
 
 * [2023-08-19, 04:17:56](https://news.ycombinator.com/item?id=37185461) - [Ask HN: Why did Microsoft, Meta, and PayPal update their ToS today?](https://news.ycombinator.com/item?id=37185461)
 * [2023-08-19, 04:13:24](https://news.ycombinator.com/item?id=37185429) - [Xiaomi CyberDog 2](https://xiaomiui.net/xiaomi-introduced-the-new-generation-robo-dog-xiaomi-cyberdog-2-49032/)
-* [2023-08-19, 03:09:39](https://news.ycombinator.com/item?id=37185090) - [Interview with Shang-Yi Chiang, Former TSMC VP of Research](https://www.computerhistory.org/collections/catalog/102792671)
 * [2023-08-19, 02:27:49](https://news.ycombinator.com/item?id=37184884) - [How to Roman Republic 101, Part IIIb: Imperium](https://acoup.blog/2023/08/18/collections-how-to-roman-republic-101-part-iiib-imperium/)
 * [2023-08-19, 00:36:49](https://news.ycombinator.com/item?id=37184119) - [Chronosort](https://ledoc.itch.io/chronosort)
 * [2023-08-19, 00:36:22](https://news.ycombinator.com/item?id=37184117) - [Morris Chang founded TSMC, the most valuable company in Asia](https://www.abc.net.au/news/2023-08-19/tsmc-the-most-important-company-in-the-world/102728172)
@@ -30,6 +29,7 @@
 * [2023-08-18, 08:28:04](https://news.ycombinator.com/item?id=37172769) - [Emulating the 6502 CPU in C++ (2021) [video]](https://www.youtube.com/watch?v=qJgsuQoy9bc)
 * [2023-08-18, 05:07:44](https://news.ycombinator.com/item?id=37171553) - [Complexity theory’s 50-year journey to the limits of knowledge](https://www.quantamagazine.org/complexity-theorys-50-year-journey-to-the-limits-of-knowledge-20230817/)
 * [2023-08-18, 04:30:23](https://news.ycombinator.com/item?id=37171411) - [The Atlas of Economic Complexity](https://atlas.cid.harvard.edu/)
+* [2023-08-16, 21:21:57](https://news.ycombinator.com/item?id=37154030) - [Buy Me a Chair: The wacky world of university endowments](https://musgrave.substack.com/p/buy-me-a-chair)
 
 ## [Archives](archives/index.md)
 
