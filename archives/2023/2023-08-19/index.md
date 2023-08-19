@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-19](index.md)
 
+* [2023-08-19, 08:04:04](https://news.ycombinator.com/item?id=37186607) - [Meet the $4 Billion AI Superstars That Google Lost](https://www.bloomberg.com/opinion/features/2023-07-13/ex-google-scientists-kickstarted-the-generative-ai-era-of-chatgpt-midjourney)
 * [2023-08-19, 08:00:05](https://news.ycombinator.com/item?id=37186590) - [Conclusive Evidence for Modified Gravity](https://scitechdaily.com/conclusive-evidence-for-modified-gravity-collapse-of-newtons-and-einsteins-theories-in-low-acceleration/)
 * [2023-08-19, 07:09:37](https://news.ycombinator.com/item?id=37186327) - [Important CIA Contributions to Modern Technology](https://www.cia.gov/stories/story/cia-contributions-to-modern-technology-75-years/)
 * [2023-08-19, 07:00:15](https://news.ycombinator.com/item?id=37186277) - [PlayHT (YC W23) Is Hiring Senior ML Engineer (Large Language Models)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
