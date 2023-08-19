@@ -8,6 +8,7 @@
 * [2023-08-19, 19:45:12](https://news.ycombinator.com/item?id=37192371) - [Insulin resistance after a 3-day fast](https://journals.physiology.org/doi/abs/10.1152/ajpendo.00317.2022)
 * [2023-08-19, 19:35:25](https://news.ycombinator.com/item?id=37192291) - [Police urged to investigate hospital bosses for corporate manslaughter](https://www.theguardian.com/uk-news/2023/aug/19/lucy-letby-police-urged-to-investigate-hospital-bosses-for-corporate-manslaughter)
 * [2023-08-19, 19:28:43](https://news.ycombinator.com/item?id=37192238) - [I Have Blocked OpenAI](https://gavinhoward.com/2023/08/i-have-blocked-openai/)
+* [2023-08-19, 19:16:36](https://news.ycombinator.com/item?id=37192115) - [An Open Letter to Hobbyists (1976)](https://archive.nytimes.com/www.nytimes.com/library/cyber/surf/072397mind-letter.html)
 * [2023-08-19, 18:45:56](https://news.ycombinator.com/item?id=37191795) - [High-Dosage NMN Promotes Ferroptosis to Suppress Lung Adenocarcinoma in Mice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10177531/)
 * [2023-08-19, 18:32:30](https://news.ycombinator.com/item?id=37191671) - [Air Force funds ‘blended wing body’ design for long-range, fuel-efficient flight](https://www.popsci.com/technology/air-force-blended-wing-body/)
 * [2023-08-19, 18:26:35](https://news.ycombinator.com/item?id=37191621) - [New plant-based pork ribs to feature edible vegan bones](https://www.theguardian.com/food/2023/aug/17/new-plant-based-pork-ribs-to-feature-edible-vegan-bones)

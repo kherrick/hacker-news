@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-19, 20:15:59](https://news.ycombinator.com/item?id=37192710) - [Clone-a-Lisa](https://vole.wtf/clone-a-lisa/)
+* [2023-08-19, 19:16:36](https://news.ycombinator.com/item?id=37192115) - [An Open Letter to Hobbyists (1976)](https://archive.nytimes.com/www.nytimes.com/library/cyber/surf/072397mind-letter.html)
 * [2023-08-19, 18:45:56](https://news.ycombinator.com/item?id=37191795) - [High-Dosage NMN Promotes Ferroptosis to Suppress Lung Adenocarcinoma in Mice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10177531/)
 * [2023-08-19, 18:32:30](https://news.ycombinator.com/item?id=37191671) - [Air Force funds ‘blended wing body’ design for long-range, fuel-efficient flight](https://www.popsci.com/technology/air-force-blended-wing-body/)
 * [2023-08-19, 18:06:14](https://news.ycombinator.com/item?id=37191434) - [First Hurricane to hit California in 84 years; ‘catastrophic’ flooding feared](https://www.washingtonpost.com/weather/2023/08/19/hurricane-hilary-southern-california-rain-floods-forecast/)
@@ -9,7 +10,6 @@
 * [2023-08-19, 17:45:48](https://news.ycombinator.com/item?id=37191220) - [70 years ago, an Anglo-US coup condemned Iran to decades of oppression](https://theconversation.com/70-years-ago-an-anglo-us-coup-condemned-iran-to-decades-of-oppression-but-now-the-people-are-fighting-back-211698)
 * [2023-08-19, 17:06:06](https://news.ycombinator.com/item?id=37190818) - [Life Has Several Exits](https://lopespm.com/notes/2023/08/19/life_exits.html)
 * [2023-08-19, 17:02:25](https://news.ycombinator.com/item?id=37190790) - [British Columbia declares a state of emergency amid devastating wildfires](https://www.washingtonpost.com/world/2023/08/19/canada-wildfires-british-columbia-kelowna-emergency/)
-* [2023-08-19, 16:59:18](https://news.ycombinator.com/item?id=37190757) - [NC files charges against Nissan dealership employees](https://jalopnik.com/north-carolina-nissan-dealer-shelby-federal-charges-sue-1850752053)
 * [2023-08-19, 16:57:32](https://news.ycombinator.com/item?id=37190743) - [Show HN: Aviation navigation log on $20 receipt printer](https://carloslagoa.com/blog/flipreps/flipreps.html)
 * [2023-08-19, 16:51:34](https://news.ycombinator.com/item?id=37190678) - ['No-water' hydropower turns England's hills into green and pleasant batteries](https://www.rechargenews.com/energy-transition/no-water-hydropower-turns-englands-hills-into-green-and-pleasant-batteries/2-1-1501993?zephr_sso_ott=5JVAmL)
 * [2023-08-19, 16:46:50](https://news.ycombinator.com/item?id=37190616) - [California Historical Radio Society Hints and Kinks [pdf]](https://californiahistoricalradio.com/wp-content/uploads/2012/01/CHRS-Hints-and-Kinks.pdf)
