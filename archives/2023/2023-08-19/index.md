@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-19](index.md)
 
+* [2023-08-19, 07:00:15](https://news.ycombinator.com/item?id=37186277) - [PlayHT (YC W23) Is Hiring Senior ML Engineer (Large Language Models)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 * [2023-08-19, 04:17:56](https://news.ycombinator.com/item?id=37185461) - [Ask HN: Why did Microsoft, Meta, and PayPal update their ToS today?](https://news.ycombinator.com/item?id=37185461)
 * [2023-08-19, 04:13:24](https://news.ycombinator.com/item?id=37185429) - [Xiaomi introduced the new generation robo-dog, Xiaomi CyberDog 2](https://xiaomiui.net/xiaomi-introduced-the-new-generation-robo-dog-xiaomi-cyberdog-2-49032/)
 * [2023-08-19, 04:05:08](https://news.ycombinator.com/item?id=37185390) - [The Scourge of 00UB](https://gavinhoward.com/2023/08/the-scourge-of-00ub/)
