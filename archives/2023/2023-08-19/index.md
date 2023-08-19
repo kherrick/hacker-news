@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-08-19](index.md)
 
+* [2023-08-19, 17:02:25](https://news.ycombinator.com/item?id=37190790) - [British Columbia declares a state of emergency amid devastating wildfires](https://www.washingtonpost.com/world/2023/08/19/canada-wildfires-british-columbia-kelowna-emergency/)
 * [2023-08-19, 16:59:18](https://news.ycombinator.com/item?id=37190757) - [NC Files More Than 400 Charges Against Shelby Nissan Dealership Employees](https://jalopnik.com/north-carolina-nissan-dealer-shelby-federal-charges-sue-1850752053)
 * [2023-08-19, 16:57:32](https://news.ycombinator.com/item?id=37190743) - [Aviation Navigation Log on $20 Receipt Printer](https://carloslagoa.com/blog/flipreps/flipreps.html)
 * [2023-08-19, 16:51:34](https://news.ycombinator.com/item?id=37190678) - ['No-water' hydropower turns England's hills into green and pleasant batteries](https://www.rechargenews.com/energy-transition/no-water-hydropower-turns-englands-hills-into-green-and-pleasant-batteries/2-1-1501993?zephr_sso_ott=5JVAmL)
 * [2023-08-19, 16:35:08](https://news.ycombinator.com/item?id=37190493) - [OpenZFS – Incremental add of disks to existing RAIDZ](https://github.com/openzfs/zfs/pull/15022)
 * [2023-08-19, 16:07:20](https://news.ycombinator.com/item?id=37190172) - [Microsoft retracts AI-written article advising tourists to visit a food bank](https://www.engadget.com/microsoft-retracts-ai-written-article-advising-tourists-to-visit-a-food-bank-on-an-empty-stomach-182701884.html)
 * [2023-08-19, 15:57:02](https://news.ycombinator.com/item?id=37190037) - [We Spent $1,500,000 on Ads Without Getting a Single Customer](https://www.briefmix.com/startup/setting-objectives-kpis)
+* [2023-08-19, 15:55:56](https://news.ycombinator.com/item?id=37190025) - [July 4th is NOT the US's Birthday. A tale about how Ben Franklin invented the US](https://jmsdnns.com/history/july-4th-is-no-birthday/)
 * [2023-08-19, 15:54:32](https://news.ycombinator.com/item?id=37190005) - [Show HN: Find simple open source bounties to solve and get paid](https://www.bountyfordevs.com/)
 * [2023-08-19, 15:41:39](https://news.ycombinator.com/item?id=37189872) - [Twitter/X has removed all media posted before 2014](https://twitter.com/tomcoates/status/1692922211416334597)
 * [2023-08-19, 15:17:23](https://news.ycombinator.com/item?id=37189616) - [China’s defeated youth: Young Chinese have little hope for the future](https://www.economist.com/briefing/2023/08/17/chinas-defeated-youth)
