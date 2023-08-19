@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-19, 04:17:56](https://news.ycombinator.com/item?id=37185461) - [Ask HN: Why did Microsoft, Meta, and PayPal update their ToS today?](https://news.ycombinator.com/item?id=37185461)
-* [2023-08-19, 04:13:24](https://news.ycombinator.com/item?id=37185429) - [Xiaomi CyberDog 2](https://xiaomiui.net/xiaomi-introduced-the-new-generation-robo-dog-xiaomi-cyberdog-2-49032/)
 * [2023-08-19, 02:27:49](https://news.ycombinator.com/item?id=37184884) - [How to Roman Republic 101, Part IIIb: Imperium](https://acoup.blog/2023/08/18/collections-how-to-roman-republic-101-part-iiib-imperium/)
 * [2023-08-19, 00:36:49](https://news.ycombinator.com/item?id=37184119) - [Chronosort](https://ledoc.itch.io/chronosort)
 * [2023-08-19, 00:36:22](https://news.ycombinator.com/item?id=37184117) - [Morris Chang founded TSMC, the most valuable company in Asia](https://www.abc.net.au/news/2023-08-19/tsmc-the-most-important-company-in-the-world/102728172)
@@ -19,6 +18,7 @@
 * [2023-08-18, 16:41:25](https://news.ycombinator.com/item?id=37178251) - [Zaum](https://en.wikipedia.org/wiki/Zaum)
 * [2023-08-18, 15:28:58](https://news.ycombinator.com/item?id=37176960) - [Learning async Rust with entirely too many web servers](https://ibraheem.ca/posts/too-many-web-servers/)
 * [2023-08-18, 15:16:46](https://news.ycombinator.com/item?id=37176842) - [Meaningful exits for founders (2016)](https://medium.com/strong-words/meaningful-exits-for-founders-4c3b2baba6b4)
+* [2023-08-18, 15:07:32](https://news.ycombinator.com/item?id=37176717) - [The FBI proves again it can’t be trusted with Section 702](https://www.eff.org/deeplinks/2023/07/deja-vu-fbi-proves-again-it-cant-be-trusted-section-702)
 * [2023-08-18, 15:06:48](https://news.ycombinator.com/item?id=37176703) - [Ask vs. Guess Culture](https://jeanhsu.substack.com/p/ask-vs-guess-culture)
 * [2023-08-18, 15:04:35](https://news.ycombinator.com/item?id=37176666) - [Windows 11 will happily execute a binary compiled 30 years ago](https://twitter.com/mikko/status/1692503249595584526)
 * [2023-08-18, 13:36:15](https://news.ycombinator.com/item?id=37175432) - [Mister Rogers had a point – routinely greeting six neighbors maximizes wellbeing](https://news.gallup.com/poll/509543/saying-hello-linked-higher-wellbeing-limits.aspx)
