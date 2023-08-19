@@ -2,8 +2,8 @@
 
 * [2023-08-19, 13:51:12](https://news.ycombinator.com/item?id=37188791) - [AI-Generated Art Lacks Copyright Protection, D.C. Court Says](https://news.bloomberglaw.com/ip-law/ai-generated-art-lacks-copyright-protection-d-c-court-rules)
 * [2023-08-19, 13:46:17](https://news.ycombinator.com/item?id=37188736) - [WD refused to answer our questions about its self-wiping SanDisk SSDs](https://www.theverge.com/23837513/western-digital-sandisk-ssd-corrupted-deleted-questions)
+* [2023-08-19, 13:41:43](https://news.ycombinator.com/item?id=37188695) - [The Lost Script of Rapa Nui](https://www.historytoday.com/archive/missing-pieces/lost-script-rapa-nui)
 * [2023-08-19, 13:38:22](https://news.ycombinator.com/item?id=37188659) - [Show HN: Rivet (YC W23) – Open-Source Game Server Management with Nomad and Rust](https://github.com/rivet-gg/rivet)
-* [2023-08-19, 13:09:12](https://news.ycombinator.com/item?id=37188395) - [Cruise Agrees to Reduce Driverless Car Fleet in San Francisco After Crash](https://www.nytimes.com/2023/08/18/technology/cruise-crash-driverless-car-san-francisco.html)
 * [2023-08-19, 12:32:51](https://news.ycombinator.com/item?id=37188102) - [Show HN: A simple, open-source Notion-like avatar generator](https://www.avatartion.com)
 * [2023-08-19, 12:21:28](https://news.ycombinator.com/item?id=37188015) - [Why old books smell so good](https://scienceswitch.com/2023/08/19/why-do-old-books-smell-so-good/)
 * [2023-08-19, 12:01:02](https://news.ycombinator.com/item?id=37187870) - [Fart Proudly – An Essay by Benjamin Franklin](https://en.wikipedia.org/wiki/Fart_Proudly)
