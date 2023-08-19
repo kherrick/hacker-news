@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-19, 08:45:26](https://news.ycombinator.com/item?id=37186806) - [Coffee shops track customers and employees](https://imgur.com/gallery/SFLVOiu)
 * [2023-08-19, 08:04:04](https://news.ycombinator.com/item?id=37186607) - [Meet the $4 Billion AI Superstars That Google Lost](https://www.bloomberg.com/opinion/features/2023-07-13/ex-google-scientists-kickstarted-the-generative-ai-era-of-chatgpt-midjourney)
 * [2023-08-19, 08:00:05](https://news.ycombinator.com/item?id=37186590) - [Conclusive Evidence for Modified Gravity](https://scitechdaily.com/conclusive-evidence-for-modified-gravity-collapse-of-newtons-and-einsteins-theories-in-low-acceleration/)
 * [2023-08-19, 07:00:15](https://news.ycombinator.com/item?id=37186277) - [PlayHT (YC W23) Is Hiring Senior ML Engineer (Large Language Models)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
@@ -20,7 +21,6 @@
 * [2023-08-18, 15:06:48](https://news.ycombinator.com/item?id=37176703) - [Ask vs. Guess Culture](https://jeanhsu.substack.com/p/ask-vs-guess-culture)
 * [2023-08-18, 13:36:15](https://news.ycombinator.com/item?id=37175432) - [Mister Rogers had a point – routinely greeting six neighbors maximizes wellbeing](https://news.gallup.com/poll/509543/saying-hello-linked-higher-wellbeing-limits.aspx)
 * [2023-08-18, 13:17:01](https://news.ycombinator.com/item?id=37175192) - [Why your blog still needs RSS](https://journal.paoloamoroso.com/why-your-blog-still-needs-rss)
-* [2023-08-18, 12:22:07](https://news.ycombinator.com/item?id=37174657) - [Textual: Rapid Application Development framework for Python](https://github.com/Textualize/textual)
 * [2023-08-18, 12:17:58](https://news.ycombinator.com/item?id=37174619) - [Moonbit: Fast, compact and user friendly language for WebAssembly](https://moonbitlang.com/blog/first-announce/)
 * [2023-08-18, 11:41:07](https://news.ycombinator.com/item?id=37174330) - [Kernighan and Pike were right: Do one thing, and do it well](https://medium.com/source-and-buggy/do-one-thing-and-do-it-well-886b11a5d21)
 * [2023-08-18, 11:19:13](https://news.ycombinator.com/item?id=37174147) - [New motherboard improves old CRT television](https://hackaday.com/2023/08/16/new-motherboard-improves-old-crt-television/)
