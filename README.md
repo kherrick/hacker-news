@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-19, 18:45:56](https://news.ycombinator.com/item?id=37191795) - [High-Dosage NMN Promotes Ferroptosis to Suppress Lung Adenocarcinoma in Mice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10177531/)
 * [2023-08-19, 18:32:30](https://news.ycombinator.com/item?id=37191671) - [Air Force funds ‘blended wing body’ design for long-range, fuel-efficient flight](https://www.popsci.com/technology/air-force-blended-wing-body/)
 * [2023-08-19, 18:26:35](https://news.ycombinator.com/item?id=37191621) - [New plant-based pork ribs to feature edible vegan bones](https://www.theguardian.com/food/2023/aug/17/new-plant-based-pork-ribs-to-feature-edible-vegan-bones)
 * [2023-08-19, 18:06:14](https://news.ycombinator.com/item?id=37191434) - [First Hurricane to hit California in 84 years; ‘catastrophic’ flooding feared](https://www.washingtonpost.com/weather/2023/08/19/hurricane-hilary-southern-california-rain-floods-forecast/)
@@ -23,7 +24,6 @@
 * [2023-08-19, 11:41:57](https://news.ycombinator.com/item?id=37187760) - [Windy.com: global weather website with live filters](https://www.windy.com)
 * [2023-08-19, 11:26:43](https://news.ycombinator.com/item?id=37187663) - [Stable Diffusion in C/C++](https://github.com/leejet/stable-diffusion.cpp)
 * [2023-08-19, 10:21:27](https://news.ycombinator.com/item?id=37187278) - [Flipping the model presents a new way to treat sleep apnoea](https://news.flinders.edu.au/blog/2023/08/08/flipping-the-model-presents-a-new-way-to-treat-sleep-apnoea/)
-* [2023-08-19, 09:52:35](https://news.ycombinator.com/item?id=37187138) - [Cloud outage causes Bambu 3D printers to start printing on their own](https://themessenger.com/tech/bambu-owners-3d-printers-malfunction-cloud-print-twice)
 * [2023-08-19, 00:14:44](https://news.ycombinator.com/item?id=37183964) - [My job search story](https://medium.com/@tedskyba/my-job-search-story-ca3956b498c9)
 * [2023-08-18, 15:42:41](https://news.ycombinator.com/item?id=37177203) - [Helidon Níma: The first Java microservices framework based on virtual threads](https://helidon.io/nima)
 * [2023-08-18, 14:09:09](https://news.ycombinator.com/item?id=37175823) - [Time, frequency, phase and delay (1996)](http://www.libinst.com/tpfd.htm)
