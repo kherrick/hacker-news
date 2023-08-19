@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-19, 20:47:40](https://news.ycombinator.com/item?id=37193016) - [Is the world finally ready for ethical porn?](https://shado-mag.com/see/is-the-world-finally-ready-for-ethical-porn/)
 * [2023-08-19, 20:32:08](https://news.ycombinator.com/item?id=37192858) - [Hahaha We Live in Hell](https://cohost.org/cathoderaydude/post/2521077-hahaha-we-live-in-he)
 * [2023-08-19, 20:15:59](https://news.ycombinator.com/item?id=37192710) - [Clone-a-Lisa](https://vole.wtf/clone-a-lisa/)
+* [2023-08-19, 20:14:21](https://news.ycombinator.com/item?id=37192691) - [IP Address Blocking Banned After Anti-Piracy Court Order Hit Cloudflare](https://torrentfreak.com/ip-address-blocking-banned-after-anti-piracy-court-order-hit-cloudflare-230811/)
 * [2023-08-19, 20:12:10](https://news.ycombinator.com/item?id=37192662) - [The Noisy Middle Ages](https://www.medievalists.net/2016/02/the-noisy-middle-ages/)
 * [2023-08-19, 19:16:36](https://news.ycombinator.com/item?id=37192115) - [An Open Letter to Hobbyists (1976)](https://archive.nytimes.com/www.nytimes.com/library/cyber/surf/072397mind-letter.html)
 * [2023-08-19, 18:45:56](https://news.ycombinator.com/item?id=37191795) - [High-Dosage NMN Promotes Ferroptosis to Suppress Lung Adenocarcinoma in Mice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10177531/)
