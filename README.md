@@ -2,7 +2,6 @@
 
 * [2023-08-19, 08:04:04](https://news.ycombinator.com/item?id=37186607) - [Meet the $4 Billion AI Superstars That Google Lost](https://www.bloomberg.com/opinion/features/2023-07-13/ex-google-scientists-kickstarted-the-generative-ai-era-of-chatgpt-midjourney)
 * [2023-08-19, 08:00:05](https://news.ycombinator.com/item?id=37186590) - [Conclusive Evidence for Modified Gravity](https://scitechdaily.com/conclusive-evidence-for-modified-gravity-collapse-of-newtons-and-einsteins-theories-in-low-acceleration/)
-* [2023-08-19, 07:09:37](https://news.ycombinator.com/item?id=37186327) - [Important CIA Contributions to Modern Technology](https://www.cia.gov/stories/story/cia-contributions-to-modern-technology-75-years/)
 * [2023-08-19, 07:00:15](https://news.ycombinator.com/item?id=37186277) - [PlayHT (YC W23) Is Hiring Senior ML Engineer (Large Language Models)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 * [2023-08-19, 04:17:56](https://news.ycombinator.com/item?id=37185461) - [Ask HN: Why did Microsoft, Meta, and PayPal update their ToS today?](https://news.ycombinator.com/item?id=37185461)
 * [2023-08-19, 02:27:49](https://news.ycombinator.com/item?id=37184884) - [How to Roman Republic 101, Part IIIb: Imperium](https://acoup.blog/2023/08/18/collections-how-to-roman-republic-101-part-iiib-imperium/)
@@ -12,6 +11,7 @@
 * [2023-08-18, 22:44:22](https://news.ycombinator.com/item?id=37183092) - [My Kushy New Job](https://www.gq.com/story/wells-tower-on-marijuana)
 * [2023-08-18, 22:40:51](https://news.ycombinator.com/item?id=37183069) - [2009scape](https://2009scape.org/)
 * [2023-08-18, 22:30:39](https://news.ycombinator.com/item?id=37183000) - [Illustrated JavaScript coding course for absolute beginners [pdf]](https://codeguppy.com/site/download/coding_course.pdf)
+* [2023-08-18, 22:11:40](https://news.ycombinator.com/item?id=37182828) - [Radiation Spikes at Chernobyl](https://zetter.substack.com/p/radiation-spikes-at-chernobyl-a-mystery)
 * [2023-08-18, 22:02:39](https://news.ycombinator.com/item?id=37182747) - [Pines’ demon observed as a 3D acoustic plasmon in Sr2RuO4](https://www.nature.com/articles/s41586-023-06318-8)
 * [2023-08-18, 21:40:11](https://news.ycombinator.com/item?id=37182515) - [ARM’s Neoverse N2: Cortex A710 for Servers](https://chipsandcheese.com/2023/08/18/arms-neoverse-n2-cortex-a710-for-servers/)
 * [2023-08-18, 21:19:44](https://news.ycombinator.com/item?id=37182284) - [Show HN: Saf – simple, reliable, rsync-based, battle tested, rounded backup](https://github.com/dusanx/saf)
