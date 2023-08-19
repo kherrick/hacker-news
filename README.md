@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-19, 23:09:17](https://news.ycombinator.com/item?id=37194272) - [Cellebrite asks cops to keep its phone hacking tech ‘hush hush’](https://techcrunch.com/2023/08/19/cellebrite-asks-cops-to-keep-its-phone-hacking-tech-hush-hush/)
 * [2023-08-19, 21:52:29](https://news.ycombinator.com/item?id=37193670) - [Programming Language choices: Pascal, LOGO, Forth, Prolog, C (1986) [video]](https://clp.bbcrewind.co.uk/3d15323fe870ef44784832c02f4f7992)
 * [2023-08-19, 20:52:07](https://news.ycombinator.com/item?id=37193065) - [Indie Game Dev: Assessing Risk](https://derekyu.com/makegames/risk.html)
-* [2023-08-19, 20:37:43](https://news.ycombinator.com/item?id=37192915) - [What Saved the ‘Miracle House’ in Lahaina?](https://www.civilbeat.org/2023/08/what-saved-the-miracle-house-in-lahaina/)
+* [2023-08-19, 20:37:43](https://news.ycombinator.com/item?id=37192915) - [What saved the ‘miracle house’ in Lahaina?](https://www.civilbeat.org/2023/08/what-saved-the-miracle-house-in-lahaina/)
 * [2023-08-19, 20:33:01](https://news.ycombinator.com/item?id=37192868) - [When the Beatles Recorded “Twist and Shout”](https://lithub.com/it-conveyed-them-when-the-beatles-recorded-twist-and-shout/)
 * [2023-08-19, 20:15:59](https://news.ycombinator.com/item?id=37192710) - [Clone-a-Lisa](https://vole.wtf/clone-a-lisa/)
 * [2023-08-19, 20:14:21](https://news.ycombinator.com/item?id=37192691) - [IP Address Blocking Banned After Anti-Piracy Court Order Hit Cloudflare](https://torrentfreak.com/ip-address-blocking-banned-after-anti-piracy-court-order-hit-cloudflare-230811/)
@@ -29,7 +30,6 @@
 * [2023-08-18, 13:14:58](https://news.ycombinator.com/item?id=37175170) - [Structuring Your Infrastructure as Code](https://leebriggs.co.uk/blog/2023/08/17/structuring-iac)
 * [2023-08-18, 03:25:46](https://news.ycombinator.com/item?id=37171114) - [The Lost Script of Rapa Nui](https://www.historytoday.com/archive/missing-pieces/lost-script-rapa-nui)
 * [2023-08-17, 20:14:06](https://news.ycombinator.com/item?id=37167306) - [Spotify looked to ban white noise podcasts to become more profitable](https://www.bloomberg.com/news/newsletters/2023-08-17/white-noise-podcasters-are-costing-spotify-38-million-a-year)
-* [2023-08-16, 13:23:27](https://news.ycombinator.com/item?id=37146685) - [Part-DB: open-source inventory management system for your electronic components](https://github.com/Part-DB/Part-DB-server)
 
 ## [Archives](archives/index.md)
 

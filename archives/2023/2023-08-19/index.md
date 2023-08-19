@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-19](index.md)
 
+* [2023-08-19, 23:09:17](https://news.ycombinator.com/item?id=37194272) - [Cellebrite asks cops to keep its phone hacking tech ‘hush hush’](https://techcrunch.com/2023/08/19/cellebrite-asks-cops-to-keep-its-phone-hacking-tech-hush-hush/)
 * [2023-08-19, 21:52:29](https://news.ycombinator.com/item?id=37193670) - [Programming Language choices: Pascal, LOGO, Forth, Prolog, C (1986) [video]](https://clp.bbcrewind.co.uk/3d15323fe870ef44784832c02f4f7992)
 * [2023-08-19, 20:52:07](https://news.ycombinator.com/item?id=37193065) - [Indie Game Dev: Assessing Risk](https://derekyu.com/makegames/risk.html)
 * [2023-08-19, 20:47:40](https://news.ycombinator.com/item?id=37193016) - [Is the world finally ready for ethical porn?](https://shado-mag.com/see/is-the-world-finally-ready-for-ethical-porn/)
