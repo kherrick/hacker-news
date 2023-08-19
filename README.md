@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-19, 16:59:18](https://news.ycombinator.com/item?id=37190757) - [NC Files More Than 400 Charges Against Shelby Nissan Dealership Employees](https://jalopnik.com/north-carolina-nissan-dealer-shelby-federal-charges-sue-1850752053)
+* [2023-08-19, 16:07:20](https://news.ycombinator.com/item?id=37190172) - [Microsoft retracts AI-written article advising tourists to visit a food bank](https://www.engadget.com/microsoft-retracts-ai-written-article-advising-tourists-to-visit-a-food-bank-on-an-empty-stomach-182701884.html)
 * [2023-08-19, 15:57:02](https://news.ycombinator.com/item?id=37190037) - [We Spent $1,500,000 on Ads Without Getting a Single Customer](https://www.briefmix.com/startup/setting-objectives-kpis)
-* [2023-08-19, 15:41:39](https://news.ycombinator.com/item?id=37189872) - [Twitter/X has removed all media posted before 2014](https://twitter.com/tomcoates/status/1692922211416334597)
 * [2023-08-19, 15:09:09](https://news.ycombinator.com/item?id=37189556) - [Speakers of different languages remember visual scenes differently](https://www.science.org/doi/10.1126/sciadv.adh0064)
 * [2023-08-19, 14:21:06](https://news.ycombinator.com/item?id=37189067) - [Cheems – The shiba inu meme dog has died](https://www.the-sun.com/news/8879390/cheems-balltze-dog-meme-cheemsburger-viral-cancer/)
 * [2023-08-19, 13:51:12](https://news.ycombinator.com/item?id=37188791) - [AI-Generated Art Lacks Copyright Protection, D.C. Court Says](https://news.bloomberglaw.com/ip-law/ai-generated-art-lacks-copyright-protection-d-c-court-rules)
