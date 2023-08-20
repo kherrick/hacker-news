@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-20, 16:57:42",
+      "https://news.ycombinator.com/item?id=37200909"
+    ],
+    [
+      "Run a macOS VM on Apple Silicon from a double-click with Vimy",
+      "https://eclecticlight.co/2023/08/17/run-a-macos-vm-on-apple-silicon-from-a-double-click-with-vimy/"
+    ]
+  ],
+  [
+    [
       "2023-08-20, 16:28:32",
       "https://news.ycombinator.com/item?id=37200619"
     ],
@@ -17,16 +27,6 @@
     [
       "So You Want to Learn Physics",
       "https://www.susanrigetti.com/physics"
-    ]
-  ],
-  [
-    [
-      "2023-08-20, 15:54:17",
-      "https://news.ycombinator.com/item?id=37200311"
-    ],
-    [
-      "The Maximum Tension Principle in General Relativity(2002)",
-      "https://arxiv.org/abs/hep-th/0210109"
     ]
   ],
   [
@@ -57,6 +57,16 @@
     [
       "VidCutter: A program for lossless video cutting",
       "https://github.com/ozmartian/vidcutter"
+    ]
+  ],
+  [
+    [
+      "2023-08-20, 14:10:18",
+      "https://news.ycombinator.com/item?id=37199311"
+    ],
+    [
+      "The Hallucinated Rows Incident",
+      "https://medium.com/epsio-blog/the-hallucinated-rows-incident-c42e2f4bb71f"
     ]
   ],
   [
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2023-08-20, 13:03:39",
-      "https://news.ycombinator.com/item?id=37198728"
-    ],
-    [
-      "Even Been to This Free London Yew Maze?",
-      "https://londonist.com/london/free-and-cheap/brent-lodge-park-millennium-maze-hanwell-ealing"
-    ]
-  ],
-  [
-    [
       "2023-08-20, 12:57:23",
       "https://news.ycombinator.com/item?id=37198673"
     ],
@@ -141,22 +141,22 @@
   ],
   [
     [
-      "2023-08-20, 12:57:21",
-      "https://news.ycombinator.com/item?id=37198672"
-    ],
-    [
-      "X glitch wipes out most pictures and links tweeted before December 2014",
-      "https://www.theverge.com/2023/8/20/23838823/twitter-x-deleted-pictures-links-2014-metadata-t-co-shortener"
-    ]
-  ],
-  [
-    [
       "2023-08-20, 12:56:10",
       "https://news.ycombinator.com/item?id=37198664"
     ],
     [
       "The Stick of Jan Sloot",
       "https://www.spronck.net/sloot.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-20, 12:10:27",
+      "https://news.ycombinator.com/item?id=37198357"
+    ],
+    [
+      "Show HN: Talk to AI Models in Terminal",
+      "https://github.com/Databingo/aih"
     ]
   ],
   [
@@ -177,16 +177,6 @@
     [
       "All of Physics in 9 Lines",
       "https://www.motionmountain.net/9lines.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-20, 10:48:43",
-      "https://news.ycombinator.com/item?id=37197903"
-    ],
-    [
-      "Electricity Maps",
-      "https://app.electricitymaps.com"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Electrical detection of RNA cancer biomarkers at the single-molecule level",
       "https://medicalxpress.com/news/2023-08-electrical-rna-cancer-biomarkers-single-molecule.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-17, 22:14:13",
+      "https://news.ycombinator.com/item?id=37168911"
+    ],
+    [
+      "Can computing clean up its act?",
+      "https://www.economist.com/science-and-technology/2023/08/16/can-computing-clean-up-its-act"
     ]
   ]
 ]
