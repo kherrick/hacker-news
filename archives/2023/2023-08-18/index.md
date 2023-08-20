@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-18](index.md)
 
+* [2023-08-18, 22:51:11](https://news.ycombinator.com/item?id=37183144) - [The rise of the open kitchen](https://www.eater.com/23736307/open-kitchens-chefs-diners-wolfgang-puck-spago)
 * [2023-08-18, 22:46:24](https://news.ycombinator.com/item?id=37183112) - [Xbox’s new “8 strikes” mod rollout judges hate speech 3x worse than cheating](https://arstechnica.com/gaming/2023/08/xboxs-new-8-strikes-moderation-judges-cheating-and-profanity-equally-harshly/)
 * [2023-08-18, 22:45:48](https://news.ycombinator.com/item?id=37183108) - [The Cost of Good Movies](https://soaringtwenties.substack.com/p/the-real-cost-of-good-movies-and)
 * [2023-08-18, 22:45:24](https://news.ycombinator.com/item?id=37183103) - [The Jester of Tonga](https://www.the-fence.com/the-jester-of-tonga/)
