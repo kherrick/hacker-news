@@ -5,7 +5,7 @@
 * [2023-08-20, 11:02:35](https://news.ycombinator.com/item?id=37197986) - [Without Belief in a God, but Never Without Belief in a Devil](https://www.robkhenderson.com/p/without-belief-in-a-god-but-never)
 * [2023-08-20, 11:00:55](https://news.ycombinator.com/item?id=37197977) - [All of Physics in 9 Lines](https://www.motionmountain.net/9lines.html)
 * [2023-08-20, 10:48:43](https://news.ycombinator.com/item?id=37197903) - [Electricity Maps](https://app.electricitymaps.com)
-* [2023-08-20, 10:23:28](https://news.ycombinator.com/item?id=37197785) - [Finland ends homelessness and provides shelter for all in need (2020)](https://scoop.me/housing-first-finland-homelessness/)
+* [2023-08-20, 10:23:28](https://news.ycombinator.com/item?id=37197785) - [Finland provides housing and counseling to the homeless (2020)](https://scoop.me/housing-first-finland-homelessness/)
 * [2023-08-20, 10:18:09](https://news.ycombinator.com/item?id=37197761) - [Scripting with Go: A Modest Proposal](https://bitfieldconsulting.com/golang/scripting)
 * [2023-08-20, 10:12:55](https://news.ycombinator.com/item?id=37197734) - [Large Language Models As General Pattern Machines](https://arxiv.org/abs/2307.04721)
 * [2023-08-20, 09:58:52](https://news.ycombinator.com/item?id=37197686) - [The Pattern Language of Project Xanadu](https://maggieappleton.com/xanadu-patterns)
