@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-20, 10:02:41](https://news.ycombinator.com/item?id=37197699) - [RFC 9454: Update to OSPF Terminology, Changed Master/Slave to Leader/Follower](https://www.rfc-editor.org/rfc/rfc9454.html)
+* [2023-08-20, 11:02:35](https://news.ycombinator.com/item?id=37197986) - [Without Belief in a God, but Never Without Belief in a Devil](https://www.robkhenderson.com/p/without-belief-in-a-god-but-never)
 * [2023-08-20, 09:58:52](https://news.ycombinator.com/item?id=37197686) - [The Pattern Language of Project Xanadu](https://maggieappleton.com/xanadu-patterns)
-* [2023-08-20, 08:39:07](https://news.ycombinator.com/item?id=37197257) - [Don’t Build a General Purpose API to Power Your Own Front End (2021)](https://max.engineer/server-informed-ui)
 * [2023-08-20, 08:36:18](https://news.ycombinator.com/item?id=37197243) - [Adobe's co-founder John Warnock dies at 82](https://www.reuters.com/technology/adobes-co-founder-john-warnock-dies-82-2023-08-20/)
 * [2023-08-20, 08:32:12](https://news.ycombinator.com/item?id=37197226) - [Oz eyes UK online bill in fight with tech over encryption & child safety](https://www.theguardian.com/australia-news/2023/aug/20/australia-eyes-uk-online-bill-in-fight-with-tech-companies-over-encryption-child-safety)
 * [2023-08-20, 08:31:00](https://news.ycombinator.com/item?id=37197220) - [30 years on, Debian is at the heart of the most successful Linux distros](https://www.theregister.com/2023/08/17/debian_turns_30/)
@@ -18,6 +17,7 @@
 * [2023-08-20, 01:12:19](https://news.ycombinator.com/item?id=37195023) - [Project Valhalla, Simple as it can be, but not simpler](https://cr.openjdk.org/~jrose/values/larval-values.html)
 * [2023-08-20, 01:00:25](https://news.ycombinator.com/item?id=37194963) - [AMD's 7900 XTX achieves better value for Stable Diffusion than Nvidia RTX 4080](https://wccftech.com/amd-radeon-7900-xtx-offers-higher-generative-ai-performance-per-dollar-than-nvidia-rtx-4080-after-990-speedup/)
 * [2023-08-20, 00:58:32](https://news.ycombinator.com/item?id=37194944) - [Large Language Models: Compilers for the 4th Gen of Programming Languages? [pdf]](https://drops.dagstuhl.de/opus/volltexte/2023/18524/pdf/OASIcs-SLATE-2023-10.pdf)
+* [2023-08-19, 23:56:51](https://news.ycombinator.com/item?id=37194600) - [W. H. Auden’s 1954 review of The Fellowship of the Ring](https://lithub.com/read-w-h-audens-1954-review-of-the-fellowship-of-the-ring/)
 * [2023-08-19, 23:15:58](https://news.ycombinator.com/item?id=37194317) - [Mousetrap.jl: a GUI library for Julia and C++ that wraps GTK4](https://github.com/Clemapfel/mousetrap.jl)
 * [2023-08-19, 23:14:44](https://news.ycombinator.com/item?id=37194302) - [CRISPR gene-editing treatment eliminates HIV-like virus from non-human primates](https://www.nature.com/articles/s41434-023-00410-4)
 * [2023-08-19, 23:09:17](https://news.ycombinator.com/item?id=37194272) - [Cellebrite asks cops to keep its technology secret](https://techcrunch.com/2023/08/19/cellebrite-asks-cops-to-keep-its-phone-hacking-tech-hush-hush/)
