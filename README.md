@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-20, 05:41:34](https://news.ycombinator.com/item?id=37196440) - [The ReMarkable Streaming Tool v2: Elevating Remote Work Efficiency](https://blog.owulveryck.info/2023/07/25/evolving-the-game-a-clientless-streaming-tool-for-remarkable-2.html)
 * [2023-08-20, 04:09:40](https://news.ycombinator.com/item?id=37196055) - [MacPaint and QuickDraw Source Code – CHM](https://computerhistory.org/blog/macpaint-and-quickdraw-source-code/)
 * [2023-08-20, 03:58:38](https://news.ycombinator.com/item?id=37195992) - [Gov. Newsom declares state of emergency for southern California](https://www.cnn.com/2023/08/19/weather/hurricane-hilary-california-southwest-tropical-storm-saturday/index.html)
 * [2023-08-20, 03:43:39](https://news.ycombinator.com/item?id=37195905) - [Modernity has made us allergic](https://www.noemamag.com/modernity-has-made-us-allergic/)
@@ -15,7 +16,6 @@
 * [2023-08-19, 23:05:41](https://news.ycombinator.com/item?id=37194244) - [AirGradient Air Quality Monitor Pro Kit Review](https://bubelov.com/blog/2023/06/airgradient-pro-kit-review/)
 * [2023-08-19, 22:53:21](https://news.ycombinator.com/item?id=37194156) - [UCLA floor tiles decoded, pay homage to first internet message (2013)](https://newsroom.ucla.edu/stories/a-coded-message-hidden-in-floor-247232)
 * [2023-08-19, 21:52:29](https://news.ycombinator.com/item?id=37193670) - [Programming Language choices: Pascal, LOGO, Forth, Prolog, C (1986) [video]](https://clp.bbcrewind.co.uk/3d15323fe870ef44784832c02f4f7992)
-* [2023-08-19, 20:37:43](https://news.ycombinator.com/item?id=37192915) - [What saved the ‘miracle house’ in Lahaina?](https://www.civilbeat.org/2023/08/what-saved-the-miracle-house-in-lahaina/)
 * [2023-08-19, 20:15:59](https://news.ycombinator.com/item?id=37192710) - [Clone-a-Lisa](https://vole.wtf/clone-a-lisa/)
 * [2023-08-19, 18:05:20](https://news.ycombinator.com/item?id=37191424) - [Flexport (YC W14) is hiring](https://flexport.com/careers)
 * [2023-08-19, 16:57:32](https://news.ycombinator.com/item?id=37190743) - [Show HN: Aviation navigation log on $20 receipt printer](https://carloslagoa.com/blog/flipreps/flipreps.html)

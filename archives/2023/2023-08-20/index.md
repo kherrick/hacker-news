@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-20](index.md)
 
+* [2023-08-20, 05:41:34](https://news.ycombinator.com/item?id=37196440) - [The ReMarkable Streaming Tool v2: Elevating Remote Work Efficiency](https://blog.owulveryck.info/2023/07/25/evolving-the-game-a-clientless-streaming-tool-for-remarkable-2.html)
 * [2023-08-20, 04:09:40](https://news.ycombinator.com/item?id=37196055) - [MacPaint and QuickDraw Source Code – CHM](https://computerhistory.org/blog/macpaint-and-quickdraw-source-code/)
 * [2023-08-20, 03:58:38](https://news.ycombinator.com/item?id=37195992) - [Gov. Newsom declares state of emergency for southern California](https://www.cnn.com/2023/08/19/weather/hurricane-hilary-california-southwest-tropical-storm-saturday/index.html)
 * [2023-08-20, 03:43:39](https://news.ycombinator.com/item?id=37195905) - [Modernity has made us allergic](https://www.noemamag.com/modernity-has-made-us-allergic/)
