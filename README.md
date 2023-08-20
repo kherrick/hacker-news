@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-20, 03:43:39](https://news.ycombinator.com/item?id=37195905) - [Modernity has made us allergic](https://www.noemamag.com/modernity-has-made-us-allergic/)
 * [2023-08-20, 02:29:22](https://news.ycombinator.com/item?id=37195483) - [Executive Function Theft](https://hedgehoglibrarian.com/2023/08/14/executive-function-theft/)
 * [2023-08-20, 02:26:50](https://news.ycombinator.com/item?id=37195467) - [A Critique of the Cap'n Proto Schema Language](https://zenhack.net/2019/06/25/a-critique-of-the-capnproto-schema-language.html)
 * [2023-08-20, 01:12:19](https://news.ycombinator.com/item?id=37195023) - [Project Valhalla, Simple as it can be, but not simpler](https://cr.openjdk.org/~jrose/values/larval-values.html)
@@ -11,7 +12,6 @@
 * [2023-08-19, 23:05:41](https://news.ycombinator.com/item?id=37194244) - [AirGradient Air Quality Monitor Pro Kit Review](https://bubelov.com/blog/2023/06/airgradient-pro-kit-review/)
 * [2023-08-19, 22:53:21](https://news.ycombinator.com/item?id=37194156) - [UCLA floor tiles decoded, pay homage to first internet message (2013)](https://newsroom.ucla.edu/stories/a-coded-message-hidden-in-floor-247232)
 * [2023-08-19, 21:52:29](https://news.ycombinator.com/item?id=37193670) - [Programming Language choices: Pascal, LOGO, Forth, Prolog, C (1986) [video]](https://clp.bbcrewind.co.uk/3d15323fe870ef44784832c02f4f7992)
-* [2023-08-19, 20:52:07](https://news.ycombinator.com/item?id=37193065) - [Indie Game Dev: Assessing Risk](https://derekyu.com/makegames/risk.html)
 * [2023-08-19, 20:37:43](https://news.ycombinator.com/item?id=37192915) - [What saved the ‘miracle house’ in Lahaina?](https://www.civilbeat.org/2023/08/what-saved-the-miracle-house-in-lahaina/)
 * [2023-08-19, 20:15:59](https://news.ycombinator.com/item?id=37192710) - [Clone-a-Lisa](https://vole.wtf/clone-a-lisa/)
 * [2023-08-19, 20:14:21](https://news.ycombinator.com/item?id=37192691) - [IP address blocking banned after anti-piracy court order hit Cloudflare](https://torrentfreak.com/ip-address-blocking-banned-after-anti-piracy-court-order-hit-cloudflare-230811/)
