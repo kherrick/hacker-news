@@ -6,6 +6,7 @@
 * [2023-08-20, 15:50:52](https://news.ycombinator.com/item?id=37200284) - [Demystifying ESIM Technology [video]](https://media.ccc.de/v/camp2023-57190-demystifying_esim_technology)
 * [2023-08-20, 14:30:31](https://news.ycombinator.com/item?id=37199495) - [Kris Nóva has died](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/)
 * [2023-08-20, 14:28:04](https://news.ycombinator.com/item?id=37199479) - [VidCutter: A program for lossless video cutting](https://github.com/ozmartian/vidcutter)
+* [2023-08-20, 14:16:58](https://news.ycombinator.com/item?id=37199352) - [The Next New Thing: Venture Capital Stories](https://computerhistory.org/stories/the-next-new-thing/)
 * [2023-08-20, 14:10:18](https://news.ycombinator.com/item?id=37199311) - [The Hallucinated Rows Incident](https://medium.com/epsio-blog/the-hallucinated-rows-incident-c42e2f4bb71f)
 * [2023-08-20, 14:05:48](https://news.ycombinator.com/item?id=37199275) - [Phonetic change in an Antarctic winter (2019)](https://pubs.aip.org/asa/jasa/article/146/5/3327/993882/Phonetic-change-in-an-Antarctic-winter)
 * [2023-08-20, 13:29:51](https://news.ycombinator.com/item?id=37198954) - [Shouldn't distant objects appear magnified?](https://astronomy.stackexchange.com/questions/54499/shouldnt-very-very-distant-objects-appear-magnified)
@@ -15,7 +16,6 @@
 * [2023-08-20, 13:05:32](https://news.ycombinator.com/item?id=37198744) - [Using lei, b4, and mutt to do kernel development](https://josefbacik.github.io/kernel/2021/10/18/lei-and-b4.html)
 * [2023-08-20, 12:57:23](https://news.ycombinator.com/item?id=37198673) - [PHYS771 Lecture 9: Quantum](https://scottaaronson.com/democritus/lec9.html)
 * [2023-08-20, 12:56:10](https://news.ycombinator.com/item?id=37198664) - [The Stick of Jan Sloot](https://www.spronck.net/sloot.html)
-* [2023-08-20, 12:10:27](https://news.ycombinator.com/item?id=37198357) - [Show HN: Talk to AI Models in Terminal](https://github.com/Databingo/aih)
 * [2023-08-20, 11:13:57](https://news.ycombinator.com/item?id=37198060) - [Rotating Drum Memory with the Bendix G15 [video]](https://www.youtube.com/watch?v=ijRV_7sr4_k)
 * [2023-08-20, 11:00:55](https://news.ycombinator.com/item?id=37197977) - [All of Physics in 9 Lines](https://www.motionmountain.net/9lines.html)
 * [2023-08-20, 10:18:09](https://news.ycombinator.com/item?id=37197761) - [Scripting with Go: A Modest Proposal](https://bitfieldconsulting.com/golang/scripting)
@@ -29,7 +29,7 @@
 * [2023-08-20, 03:43:39](https://news.ycombinator.com/item?id=37195905) - [Modernity has made us allergic](https://www.noemamag.com/modernity-has-made-us-allergic/)
 * [2023-08-20, 00:59:28](https://news.ycombinator.com/item?id=37194953) - [GCC always assumes aligned pointer accesses](https://trust-in-soft.com/blog/2020/04/06/gcc-always-assumes-aligned-pointer-accesses/)
 * [2023-08-19, 23:29:28](https://news.ycombinator.com/item?id=37194394) - [Electrical detection of RNA cancer biomarkers at the single-molecule level](https://medicalxpress.com/news/2023-08-electrical-rna-cancer-biomarkers-single-molecule.html)
-* [2023-08-17, 22:14:13](https://news.ycombinator.com/item?id=37168911) - [Can computing clean up its act?](https://www.economist.com/science-and-technology/2023/08/16/can-computing-clean-up-its-act)
+* [2023-08-17, 22:14:13](https://news.ycombinator.com/item?id=37168911) - [Data centres account for between 1.5% and 2% of global electricity consumption](https://www.economist.com/science-and-technology/2023/08/16/can-computing-clean-up-its-act)
 
 ## [Archives](archives/index.md)
 

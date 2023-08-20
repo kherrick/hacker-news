@@ -12,6 +12,7 @@
 * [2023-08-20, 15:50:52](https://news.ycombinator.com/item?id=37200284) - [Demystifying ESIM Technology [video]](https://media.ccc.de/v/camp2023-57190-demystifying_esim_technology)
 * [2023-08-20, 14:30:31](https://news.ycombinator.com/item?id=37199495) - [Kris Nova passed away](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/)
 * [2023-08-20, 14:28:04](https://news.ycombinator.com/item?id=37199479) - [VidCutter: A program for lossless video cutting](https://github.com/ozmartian/vidcutter)
+* [2023-08-20, 14:16:58](https://news.ycombinator.com/item?id=37199352) - [The Next New Thing: Venture Capital Stories](https://computerhistory.org/stories/the-next-new-thing/)
 * [2023-08-20, 14:10:18](https://news.ycombinator.com/item?id=37199311) - [The Hallucinated Rows Incident](https://medium.com/epsio-blog/the-hallucinated-rows-incident-c42e2f4bb71f)
 * [2023-08-20, 14:05:48](https://news.ycombinator.com/item?id=37199275) - [Phonetic change in an Antarctic winter (2019)](https://pubs.aip.org/asa/jasa/article/146/5/3327/993882/Phonetic-change-in-an-Antarctic-winter)
 * [2023-08-20, 13:36:19](https://news.ycombinator.com/item?id=37199004) - [The Never Ending Now](https://perell.com/essay/never-ending-now/)
