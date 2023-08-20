@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-20](index.md)
 
+* [2023-08-20, 13:22:07](https://news.ycombinator.com/item?id=37198886) - [Infrequently Asked Questions in Comp.lang.c](https://www.seebs.net/faqs/c-iaq.html)
+* [2023-08-20, 12:56:10](https://news.ycombinator.com/item?id=37198664) - [The Stick of Jan Sloot](https://www.spronck.net/sloot.html)
 * [2023-08-20, 12:48:08](https://news.ycombinator.com/item?id=37198603) - [Why do people seem to prefer Chrome's devtools over Firefox's?](https://old.reddit.com/r/webdev/comments/15vpear/why_do_people_seem_to_prefer_chromes_devtools/)
 * [2023-08-20, 12:11:04](https://news.ycombinator.com/item?id=37198361) - [Amazon Bestselling Book Published 2 Days into Maui Wildfires Raising Red Flags](https://goodereader.com/blog/electronic-readers/amazon-bestselling-book-published-2-days-into-maui-wildfires-raising-red-flags)
 * [2023-08-20, 11:08:52](https://news.ycombinator.com/item?id=37198020) - [AI-generated art cannot be copyrighted, rules a US Federal Judge](https://www.theverge.com/2023/8/19/23838458/ai-generated-art-no-copyright-district-court)
@@ -15,6 +17,7 @@
 * [2023-08-20, 10:12:55](https://news.ycombinator.com/item?id=37197734) - [Large Language Models As General Pattern Machines](https://arxiv.org/abs/2307.04721)
 * [2023-08-20, 10:02:41](https://news.ycombinator.com/item?id=37197699) - [RFC 9454: Update to OSPF Terminology, Changed Master/Slave to Leader/Follower](https://www.rfc-editor.org/rfc/rfc9454.html)
 * [2023-08-20, 09:58:52](https://news.ycombinator.com/item?id=37197686) - [The Pattern Language of Project Xanadu](https://maggieappleton.com/xanadu-patterns)
+* [2023-08-20, 09:36:40](https://news.ycombinator.com/item?id=37197575) - [Show HN: Superfunctions – AI prompt templates as an API](https://superfunctions.versoly.page)
 * [2023-08-20, 08:39:07](https://news.ycombinator.com/item?id=37197257) - [Don’t Build a General Purpose API to Power Your Own Front End (2021)](https://max.engineer/server-informed-ui)
 * [2023-08-20, 08:36:18](https://news.ycombinator.com/item?id=37197243) - [Adobe's co-founder John Warnock dies at 82](https://www.reuters.com/technology/adobes-co-founder-john-warnock-dies-82-2023-08-20/)
 * [2023-08-20, 08:32:12](https://news.ycombinator.com/item?id=37197226) - [Oz eyes UK online bill in fight with tech over encryption & child safety](https://www.theguardian.com/australia-news/2023/aug/20/australia-eyes-uk-online-bill-in-fight-with-tech-companies-over-encryption-child-safety)
