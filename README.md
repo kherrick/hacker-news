@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-20, 17:07:45](https://news.ycombinator.com/item?id=37201000) - [Walmart pulls children's toy that swears and sings in Polish about doing cocaine](https://toronto.ctvnews.ca/walmart-pulls-children-s-toy-that-swears-and-sings-in-polish-about-doing-cocaine-1.5678364)
 * [2023-08-20, 16:28:13](https://news.ycombinator.com/item?id=37200615) - [So You Want to Learn Physics](https://www.susanrigetti.com/physics)
 * [2023-08-20, 15:54:17](https://news.ycombinator.com/item?id=37200311) - [The Maximum Tension Principle in General Relativity(2002)](https://arxiv.org/abs/hep-th/0210109)
 * [2023-08-20, 15:50:52](https://news.ycombinator.com/item?id=37200284) - [Demystifying ESIM Technology [video]](https://media.ccc.de/v/camp2023-57190-demystifying_esim_technology)
@@ -26,7 +27,6 @@
 * [2023-08-20, 07:00:58](https://news.ycombinator.com/item?id=37196872) - [Raycast (YC W20) Is Hiring a macOS Engineer (Remote, UTC ± 3 Hours)](https://www.raycast.com/jobs/software-engineer-macos)
 * [2023-08-20, 05:44:41](https://news.ycombinator.com/item?id=37196461) - [Welcome to Datasette Cloud](https://www.datasette.cloud/blog/2023/welcome/)
 * [2023-08-20, 05:41:34](https://news.ycombinator.com/item?id=37196440) - [The ReMarkable Streaming Tool v2: Elevating Remote Work Efficiency](https://blog.owulveryck.info/2023/07/25/evolving-the-game-a-clientless-streaming-tool-for-remarkable-2.html)
-* [2023-08-20, 05:28:58](https://news.ycombinator.com/item?id=37196382) - [How Surround Sound for Headphones Works (2014)](https://hajo.me/blog/2014/12/28/how-surround-sound-for-headphones-works/)
 * [2023-08-20, 03:43:39](https://news.ycombinator.com/item?id=37195905) - [Modernity has made us allergic](https://www.noemamag.com/modernity-has-made-us-allergic/)
 * [2023-08-20, 00:59:28](https://news.ycombinator.com/item?id=37194953) - [GCC always assumes aligned pointer accesses](https://trust-in-soft.com/blog/2020/04/06/gcc-always-assumes-aligned-pointer-accesses/)
 * [2023-08-19, 23:29:28](https://news.ycombinator.com/item?id=37194394) - [Electrical detection of RNA cancer biomarkers at the single-molecule level](https://medicalxpress.com/news/2023-08-electrical-rna-cancer-biomarkers-single-molecule.html)
