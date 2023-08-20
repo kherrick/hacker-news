@@ -43,6 +43,7 @@
 * [2023-08-20, 13:11:53](https://news.ycombinator.com/item?id=37198788) - [The Pentagon’s UFO Shop, the Hitchhiker Effect, and Models of Contagion [pdf]](https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf)
 * [2023-08-20, 13:06:44](https://news.ycombinator.com/item?id=37198752) - [Non-Euclidean Geometry Online: A Guide to Resources (2008)](https://pi.math.cornell.edu/~mec/mircea.html)
 * [2023-08-20, 13:05:32](https://news.ycombinator.com/item?id=37198744) - [Using lei, b4, and mutt to do kernel development](https://josefbacik.github.io/kernel/2021/10/18/lei-and-b4.html)
+* [2023-08-20, 13:04:26](https://news.ycombinator.com/item?id=37198735) - [One step forward, another backwards](https://accidentalwoodworker.blogspot.com/2023/08/one-step-forward-another-backwards.html)
 * [2023-08-20, 13:03:39](https://news.ycombinator.com/item?id=37198728) - [Even Been to This Free London Yew Maze?](https://londonist.com/london/free-and-cheap/brent-lodge-park-millennium-maze-hanwell-ealing)
 * [2023-08-20, 12:57:23](https://news.ycombinator.com/item?id=37198673) - [PHYS771 Lecture 9: Quantum](https://scottaaronson.com/democritus/lec9.html)
 * [2023-08-20, 12:57:21](https://news.ycombinator.com/item?id=37198672) - [X glitch wipes out most pictures and links tweeted before December 2014](https://www.theverge.com/2023/8/20/23838823/twitter-x-deleted-pictures-links-2014-metadata-t-co-shortener)
