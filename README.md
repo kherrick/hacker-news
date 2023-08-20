@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-20, 18:14:56](https://news.ycombinator.com/item?id=37201612) - [The missing C++ smart pointer](https://blog.matthieud.me/2023/the-missing-cpp-smart-pointer/)
 * [2023-08-20, 16:57:42](https://news.ycombinator.com/item?id=37200909) - [Run a macOS VM on Apple Silicon from a double-click with Vimy](https://eclecticlight.co/2023/08/17/run-a-macos-vm-on-apple-silicon-from-a-double-click-with-vimy/)
 * [2023-08-20, 16:28:32](https://news.ycombinator.com/item?id=37200619) - [Scientists trap light inside a magnet](https://www.ccny.cuny.edu/news/ccny-scientists-trap-light-inside-magnet)
 * [2023-08-20, 16:28:13](https://news.ycombinator.com/item?id=37200615) - [So You Want to Learn Physics](https://www.susanrigetti.com/physics)
@@ -16,7 +17,6 @@
 * [2023-08-20, 13:05:32](https://news.ycombinator.com/item?id=37198744) - [Using lei, b4, and mutt to do kernel development (2021)](https://josefbacik.github.io/kernel/2021/10/18/lei-and-b4.html)
 * [2023-08-20, 12:57:23](https://news.ycombinator.com/item?id=37198673) - [PHYS771 Lecture 9: Quantum](https://scottaaronson.com/democritus/lec9.html)
 * [2023-08-20, 12:56:10](https://news.ycombinator.com/item?id=37198664) - [The Stick of Jan Sloot](https://www.spronck.net/sloot.html)
-* [2023-08-20, 12:10:27](https://news.ycombinator.com/item?id=37198357) - [Show HN: Talk to AI Models in Terminal](https://github.com/Databingo/aih)
 * [2023-08-20, 11:13:57](https://news.ycombinator.com/item?id=37198060) - [Rotating Drum Memory with the Bendix G15 [video]](https://www.youtube.com/watch?v=ijRV_7sr4_k)
 * [2023-08-20, 11:00:55](https://news.ycombinator.com/item?id=37197977) - [All of Physics in 9 Lines](https://www.motionmountain.net/9lines.html)
 * [2023-08-20, 10:48:43](https://news.ycombinator.com/item?id=37197903) - [Electricity Maps](https://app.electricitymaps.com)
