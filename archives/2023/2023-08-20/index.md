@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-20](index.md)
 
 * [2023-08-20, 17:07:45](https://news.ycombinator.com/item?id=37201000) - [Walmart pulls children's toy that swears and sings in Polish about doing cocaine](https://toronto.ctvnews.ca/walmart-pulls-children-s-toy-that-swears-and-sings-in-polish-about-doing-cocaine-1.5678364)
+* [2023-08-20, 16:28:32](https://news.ycombinator.com/item?id=37200619) - [Scientists trap light inside a magnet](https://www.ccny.cuny.edu/news/ccny-scientists-trap-light-inside-magnet)
 * [2023-08-20, 16:28:13](https://news.ycombinator.com/item?id=37200615) - [So You Want to Learn Physics](https://www.susanrigetti.com/physics)
 * [2023-08-20, 15:54:17](https://news.ycombinator.com/item?id=37200311) - [The Maximum Tension Principle in General Relativity(2002)](https://arxiv.org/abs/hep-th/0210109)
 * [2023-08-20, 15:50:52](https://news.ycombinator.com/item?id=37200284) - [Demystifying ESIM Technology [video]](https://media.ccc.de/v/camp2023-57190-demystifying_esim_technology)
@@ -26,6 +27,7 @@
 * [2023-08-20, 12:56:10](https://news.ycombinator.com/item?id=37198664) - [The Stick of Jan Sloot](https://www.spronck.net/sloot.html)
 * [2023-08-20, 12:48:08](https://news.ycombinator.com/item?id=37198603) - [Why do people seem to prefer Chrome's devtools over Firefox's?](https://old.reddit.com/r/webdev/comments/15vpear/why_do_people_seem_to_prefer_chromes_devtools/)
 * [2023-08-20, 12:11:04](https://news.ycombinator.com/item?id=37198361) - [Amazon Bestselling Book Published 2 Days into Maui Wildfires Raising Red Flags](https://goodereader.com/blog/electronic-readers/amazon-bestselling-book-published-2-days-into-maui-wildfires-raising-red-flags)
+* [2023-08-20, 11:13:57](https://news.ycombinator.com/item?id=37198060) - [Rotating Drum Memory with the Bendix G15 [video]](https://www.youtube.com/watch?v=ijRV_7sr4_k)
 * [2023-08-20, 11:08:52](https://news.ycombinator.com/item?id=37198020) - [AI-generated art cannot be copyrighted, rules a US Federal Judge](https://www.theverge.com/2023/8/19/23838458/ai-generated-art-no-copyright-district-court)
 * [2023-08-20, 11:02:35](https://news.ycombinator.com/item?id=37197986) - [Without Belief in a God, but Never Without Belief in a Devil](https://www.robkhenderson.com/p/without-belief-in-a-god-but-never)
 * [2023-08-20, 11:00:55](https://news.ycombinator.com/item?id=37197977) - [All of Physics in 9 Lines](https://www.motionmountain.net/9lines.html)
