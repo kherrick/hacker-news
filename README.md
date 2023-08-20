@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-20, 08:39:07](https://news.ycombinator.com/item?id=37197257) - [Don’t Build a General Purpose API to Power Your Own Front End (2021)](https://max.engineer/server-informed-ui)
 * [2023-08-20, 08:32:12](https://news.ycombinator.com/item?id=37197226) - [Oz eyes UK online bill in fight with tech over encryption & child safety](https://www.theguardian.com/australia-news/2023/aug/20/australia-eyes-uk-online-bill-in-fight-with-tech-companies-over-encryption-child-safety)
 * [2023-08-20, 08:31:00](https://news.ycombinator.com/item?id=37197220) - [30 years on, Debian is at the heart of the most successful Linux distros](https://www.theregister.com/2023/08/17/debian_turns_30/)
 * [2023-08-20, 08:12:59](https://news.ycombinator.com/item?id=37197155) - [Shit Life Syndrome](https://en.wikipedia.org/wiki/Shit_life_syndrome)
@@ -25,7 +26,6 @@
 * [2023-08-19, 20:15:59](https://news.ycombinator.com/item?id=37192710) - [Clone-a-Lisa](https://vole.wtf/clone-a-lisa/)
 * [2023-08-19, 16:57:32](https://news.ycombinator.com/item?id=37190743) - [Show HN: Aviation navigation log on $20 receipt printer](https://carloslagoa.com/blog/flipreps/flipreps.html)
 * [2023-08-19, 16:35:08](https://news.ycombinator.com/item?id=37190493) - [OpenZFS – add disks to existing RAIDZ](https://github.com/openzfs/zfs/pull/15022)
-* [2023-08-19, 13:38:22](https://news.ycombinator.com/item?id=37188659) - [Show HN: Rivet – Open-source game server management with Nomad and Rust](https://github.com/rivet-gg/rivet)
 * [2023-08-19, 02:27:42](https://news.ycombinator.com/item?id=37184883) - [A new way to identify chiral molecules with light could vastly improve detection](https://phys.org/news/2023-08-chiral-molecules-vastly-efficiency.html)
 * [2023-08-18, 17:03:10](https://news.ycombinator.com/item?id=37178630) - [Astronomers Find Star Is a Powerful Magnet](https://skyandtelescope.org/astronomy-news/astronomers-find-strange-star-is-a-powerful-magnet/)
 * [2023-08-18, 15:42:41](https://news.ycombinator.com/item?id=37177203) - [Helidon Níma: A Java microservices framework based on virtual threads](https://helidon.io/nima)
