@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-20, 04:09:40](https://news.ycombinator.com/item?id=37196055) - [MacPaint and QuickDraw Source Code – CHM](https://computerhistory.org/blog/macpaint-and-quickdraw-source-code/)
+* [2023-08-20, 03:58:38](https://news.ycombinator.com/item?id=37195992) - [Gov. Newsom declares state of emergency for southern California](https://www.cnn.com/2023/08/19/weather/hurricane-hilary-california-southwest-tropical-storm-saturday/index.html)
 * [2023-08-20, 03:43:39](https://news.ycombinator.com/item?id=37195905) - [Modernity has made us allergic](https://www.noemamag.com/modernity-has-made-us-allergic/)
 * [2023-08-20, 02:29:22](https://news.ycombinator.com/item?id=37195483) - [Executive Function Theft](https://hedgehoglibrarian.com/2023/08/14/executive-function-theft/)
 * [2023-08-20, 02:26:50](https://news.ycombinator.com/item?id=37195467) - [A Critique of the Cap'n Proto Schema Language](https://zenhack.net/2019/06/25/a-critique-of-the-capnproto-schema-language.html)
@@ -28,7 +29,6 @@
 * [2023-08-18, 22:45:48](https://news.ycombinator.com/item?id=37183108) - [The Cost of Good Movies](https://soaringtwenties.substack.com/p/the-real-cost-of-good-movies-and)
 * [2023-08-18, 17:03:10](https://news.ycombinator.com/item?id=37178630) - [Astronomers Find Star Is a Powerful Magnet](https://skyandtelescope.org/astronomy-news/astronomers-find-strange-star-is-a-powerful-magnet/)
 * [2023-08-18, 15:42:41](https://news.ycombinator.com/item?id=37177203) - [Helidon Níma: A Java microservices framework based on virtual threads](https://helidon.io/nima)
-* [2023-08-18, 03:25:46](https://news.ycombinator.com/item?id=37171114) - [The Lost Script of Rapa Nui](https://www.historytoday.com/archive/missing-pieces/lost-script-rapa-nui)
 * [2023-08-17, 20:14:06](https://news.ycombinator.com/item?id=37167306) - [Spotify looked to ban white noise podcasts to become more profitable](https://www.bloomberg.com/news/newsletters/2023-08-17/white-noise-podcasters-are-costing-spotify-38-million-a-year)
 
 ## [Archives](archives/index.md)
