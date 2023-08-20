@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-20, 19:03:31](https://news.ycombinator.com/item?id=37202009) - [It’s Lambdas All the Way Down](https://itsbehnam.com/It-s-Lambdas-All-the-Way-Down-eb33012f54bb4708af001e0214910698)
 * [2023-08-20, 18:23:18](https://news.ycombinator.com/item?id=37201688) - [Heat Your House with a Mechanical Windmill](https://solar.lowtechmagazine.com/2019/02/heat-your-house-with-a-mechanical-windmill/)
-* [2023-08-20, 18:21:54](https://news.ycombinator.com/item?id=37201674) - [Reverse Outlines (2011)](https://explorationsofstyle.com/2011/02/09/reverse-outlines/)
 * [2023-08-20, 18:14:56](https://news.ycombinator.com/item?id=37201612) - [The missing C++ smart pointer](https://blog.matthieud.me/2023/the-missing-cpp-smart-pointer/)
 * [2023-08-20, 16:57:42](https://news.ycombinator.com/item?id=37200909) - [Run a macOS VM on Apple Silicon from a double-click with Vimy](https://eclecticlight.co/2023/08/17/run-a-macos-vm-on-apple-silicon-from-a-double-click-with-vimy/)
 * [2023-08-20, 16:28:32](https://news.ycombinator.com/item?id=37200619) - [Scientists trap light inside a magnet](https://www.ccny.cuny.edu/news/ccny-scientists-trap-light-inside-magnet)
