@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-20](index.md)
 
+* [2023-08-20, 22:05:55](https://news.ycombinator.com/item?id=37203354) - [JSON Schema Store](https://www.schemastore.org/json/)
 * [2023-08-20, 21:52:19](https://news.ycombinator.com/item?id=37203251) - [Two men die in Ironman Cork competition in Ireland](https://www.espn.com/olympics/story/_/id/38228423/two-men-die-ironman-cork-competition-ireland)
+* [2023-08-20, 21:45:19](https://news.ycombinator.com/item?id=37203196) - [OpenCopilot – AI Copilot (sidekick) for your own SaaS product](https://github.com/openchatai/OpenCopilot)
 * [2023-08-20, 21:28:48](https://news.ycombinator.com/item?id=37203086) - [A raid on a Kansas newspaper likely broke the law, experts say. But which one?](https://abcnews.go.com/US/wireStory/raid-kansas-newspaper-broke-law-experts-102390880)
 * [2023-08-20, 21:27:54](https://news.ycombinator.com/item?id=37203078) - [Judge who signed Kansas newspaper search warrant had 2 DUI arrests, reports say](https://www.npr.org/2023/08/17/1194392001/judge-who-signed-kansas-newspaper-search-warrant-had-2-dui-arrests-reports-say)
 * [2023-08-20, 21:26:22](https://news.ycombinator.com/item?id=37203067) - [16-bit Serial Homebrew CPU – 2023](https://www.jiristepanovsky.cz/project.php?p=23cpu)
