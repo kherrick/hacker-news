@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=37202009"
     ],
     [
-      "It’s Lambdas All the Way Down",
+      "It’s lambdas all the way down",
       "https://itsbehnam.com/It-s-Lambdas-All-the-Way-Down-eb33012f54bb4708af001e0214910698"
     ]
   ],
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=37201688"
     ],
     [
-      "Heat Your House with a Mechanical Windmill",
+      "Heat your house with a mechanical windmill",
       "https://solar.lowtechmagazine.com/2019/02/heat-your-house-with-a-mechanical-windmill/"
     ]
   ],
@@ -27,16 +27,6 @@
     [
       "The missing C++ smart pointer",
       "https://blog.matthieud.me/2023/the-missing-cpp-smart-pointer/"
-    ]
-  ],
-  [
-    [
-      "2023-08-20, 17:39:23",
-      "https://news.ycombinator.com/item?id=37201276"
-    ],
-    [
-      "Why the IDE needs to be reimagined",
-      "https://codestory.ai/blog/reimaginging-the-ide"
     ]
   ],
   [
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=37200615"
     ],
     [
-      "So You Want to Learn Physics",
+      "So you want to learn physics (2021)",
       "https://www.susanrigetti.com/physics"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "Electrical detection of RNA cancer biomarkers at the single-molecule level",
       "https://medicalxpress.com/news/2023-08-electrical-rna-cancer-biomarkers-single-molecule.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-19, 21:46:26",
+      "https://news.ycombinator.com/item?id=37193599"
+    ],
+    [
+      "Vector databases: analyzing the trade-offs",
+      "https://thedataquarry.com/posts/vector-db-4/"
     ]
   ],
   [
