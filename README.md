@@ -2,12 +2,12 @@
 
 * [2023-08-20, 13:29:51](https://news.ycombinator.com/item?id=37198954) - [Shouldn't distant objects appear magnified](https://astronomy.stackexchange.com/questions/54499/shouldnt-very-very-distant-objects-appear-magnified)
 * [2023-08-20, 13:22:07](https://news.ycombinator.com/item?id=37198886) - [Infrequently Asked Questions in Comp.lang.c](https://www.seebs.net/faqs/c-iaq.html)
+* [2023-08-20, 13:13:38](https://news.ycombinator.com/item?id=37198808) - [The renewable energy revolution is happening faster than you think](https://www.newscientist.com/article/2387712-the-renewable-energy-revolution-is-happening-faster-than-you-think/)
 * [2023-08-20, 13:13:13](https://news.ycombinator.com/item?id=37198803) - [What Is a PID Controller in an Espresso Machine?](https://www.beanground.com/pid-controller-espresso/)
 * [2023-08-20, 13:06:44](https://news.ycombinator.com/item?id=37198752) - [Non-Euclidean Geometry Online: A Guide to Resources (2008)](https://pi.math.cornell.edu/~mec/mircea.html)
 * [2023-08-20, 13:05:32](https://news.ycombinator.com/item?id=37198744) - [Using lei, b4, and mutt to do kernel development](https://josefbacik.github.io/kernel/2021/10/18/lei-and-b4.html)
 * [2023-08-20, 12:57:23](https://news.ycombinator.com/item?id=37198673) - [PHYS771 Lecture 9: Quantum](https://scottaaronson.com/democritus/lec9.html)
 * [2023-08-20, 12:56:10](https://news.ycombinator.com/item?id=37198664) - [The Stick of Jan Sloot](https://www.spronck.net/sloot.html)
-* [2023-08-20, 12:48:08](https://news.ycombinator.com/item?id=37198603) - [Why do people seem to prefer Chrome's devtools over Firefox's?](https://old.reddit.com/r/webdev/comments/15vpear/why_do_people_seem_to_prefer_chromes_devtools/)
 * [2023-08-20, 11:02:35](https://news.ycombinator.com/item?id=37197986) - [Without belief in a god, but never without belief in a devil](https://www.robkhenderson.com/p/without-belief-in-a-god-but-never)
 * [2023-08-20, 11:00:55](https://news.ycombinator.com/item?id=37197977) - [All of Physics in 9 Lines](https://www.motionmountain.net/9lines.html)
 * [2023-08-20, 10:48:43](https://news.ycombinator.com/item?id=37197903) - [Electricity Maps](https://app.electricitymaps.com)
@@ -26,10 +26,10 @@
 * [2023-08-20, 04:09:40](https://news.ycombinator.com/item?id=37196055) - [MacPaint and QuickDraw source code (1984)](https://computerhistory.org/blog/macpaint-and-quickdraw-source-code/)
 * [2023-08-20, 02:29:22](https://news.ycombinator.com/item?id=37195483) - [Executive Function Theft](https://hedgehoglibrarian.com/2023/08/14/executive-function-theft/)
 * [2023-08-20, 02:26:50](https://news.ycombinator.com/item?id=37195467) - [A Critique of the Cap'n Proto Schema Language (2019)](https://zenhack.net/2019/06/25/a-critique-of-the-capnproto-schema-language.html)
+* [2023-08-20, 01:12:19](https://news.ycombinator.com/item?id=37195023) - [Project Valhalla, Simple as it can be, but not simpler](https://cr.openjdk.org/~jrose/values/larval-values.html)
+* [2023-08-20, 00:59:28](https://news.ycombinator.com/item?id=37194953) - [GCC always assumes aligned pointer accesses](https://trust-in-soft.com/blog/2020/04/06/gcc-always-assumes-aligned-pointer-accesses/)
 * [2023-08-20, 00:58:32](https://news.ycombinator.com/item?id=37194944) - [Large Language Models: Compilers for the 4th Gen of Programming Languages? [pdf]](https://drops.dagstuhl.de/opus/volltexte/2023/18524/pdf/OASIcs-SLATE-2023-10.pdf)
-* [2023-08-19, 23:15:58](https://news.ycombinator.com/item?id=37194317) - [Mousetrap.jl: a GUI library for Julia and C++ that wraps GTK4](https://github.com/Clemapfel/mousetrap.jl)
-* [2023-08-19, 23:14:44](https://news.ycombinator.com/item?id=37194302) - [CRISPR gene-editing treatment eliminates HIV-like virus from non-human primates](https://www.nature.com/articles/s41434-023-00410-4)
-* [2023-08-19, 22:53:21](https://news.ycombinator.com/item?id=37194156) - [UCLA floor tiles decoded, pay homage to first internet message (2013)](https://newsroom.ucla.edu/stories/a-coded-message-hidden-in-floor-247232)
+* [2023-08-19, 20:33:01](https://news.ycombinator.com/item?id=37192868) - [When the Beatles Recorded “Twist and Shout”](https://lithub.com/it-conveyed-them-when-the-beatles-recorded-twist-and-shout/)
 
 ## [Archives](archives/index.md)
 

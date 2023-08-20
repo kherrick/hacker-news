@@ -6,6 +6,7 @@
 
 * [2023-08-20, 13:29:51](https://news.ycombinator.com/item?id=37198954) - [Shouldn't distant objects appear magnified](https://astronomy.stackexchange.com/questions/54499/shouldnt-very-very-distant-objects-appear-magnified)
 * [2023-08-20, 13:22:07](https://news.ycombinator.com/item?id=37198886) - [Infrequently Asked Questions in Comp.lang.c](https://www.seebs.net/faqs/c-iaq.html)
+* [2023-08-20, 13:13:38](https://news.ycombinator.com/item?id=37198808) - [The renewable energy revolution is happening faster than you think](https://www.newscientist.com/article/2387712-the-renewable-energy-revolution-is-happening-faster-than-you-think/)
 * [2023-08-20, 13:13:13](https://news.ycombinator.com/item?id=37198803) - [What Is a PID Controller in an Espresso Machine?](https://www.beanground.com/pid-controller-espresso/)
 * [2023-08-20, 13:06:44](https://news.ycombinator.com/item?id=37198752) - [Non-Euclidean Geometry Online: A Guide to Resources (2008)](https://pi.math.cornell.edu/~mec/mircea.html)
 * [2023-08-20, 13:05:32](https://news.ycombinator.com/item?id=37198744) - [Using lei, b4, and mutt to do kernel development](https://josefbacik.github.io/kernel/2021/10/18/lei-and-b4.html)
@@ -41,4 +42,5 @@
 * [2023-08-20, 01:55:39](https://news.ycombinator.com/item?id=37195284) - [Parable of the Broken Window](https://en.wikipedia.org/wiki/Parable_of_the_broken_window)
 * [2023-08-20, 01:12:19](https://news.ycombinator.com/item?id=37195023) - [Project Valhalla, Simple as it can be, but not simpler](https://cr.openjdk.org/~jrose/values/larval-values.html)
 * [2023-08-20, 01:00:25](https://news.ycombinator.com/item?id=37194963) - [AMD's 7900 XTX achieves better value for Stable Diffusion than Nvidia RTX 4080](https://wccftech.com/amd-radeon-7900-xtx-offers-higher-generative-ai-performance-per-dollar-than-nvidia-rtx-4080-after-990-speedup/)
+* [2023-08-20, 00:59:28](https://news.ycombinator.com/item?id=37194953) - [GCC always assumes aligned pointer accesses](https://trust-in-soft.com/blog/2020/04/06/gcc-always-assumes-aligned-pointer-accesses/)
 * [2023-08-20, 00:58:32](https://news.ycombinator.com/item?id=37194944) - [Large Language Models: Compilers for the 4th Gen of Programming Languages? [pdf]](https://drops.dagstuhl.de/opus/volltexte/2023/18524/pdf/OASIcs-SLATE-2023-10.pdf)
