@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-20, 04:09:40](https://news.ycombinator.com/item?id=37196055) - [MacPaint and QuickDraw Source Code – CHM](https://computerhistory.org/blog/macpaint-and-quickdraw-source-code/)
 * [2023-08-20, 03:43:39](https://news.ycombinator.com/item?id=37195905) - [Modernity has made us allergic](https://www.noemamag.com/modernity-has-made-us-allergic/)
 * [2023-08-20, 02:29:22](https://news.ycombinator.com/item?id=37195483) - [Executive Function Theft](https://hedgehoglibrarian.com/2023/08/14/executive-function-theft/)
 * [2023-08-20, 02:26:50](https://news.ycombinator.com/item?id=37195467) - [A Critique of the Cap'n Proto Schema Language](https://zenhack.net/2019/06/25/a-critique-of-the-capnproto-schema-language.html)
@@ -21,7 +22,6 @@
 * [2023-08-19, 15:09:09](https://news.ycombinator.com/item?id=37189556) - [Speakers of different languages remember visual scenes differently](https://www.science.org/doi/10.1126/sciadv.adh0064)
 * [2023-08-19, 13:38:22](https://news.ycombinator.com/item?id=37188659) - [Show HN: Rivet – Open-source game server management with Nomad and Rust](https://github.com/rivet-gg/rivet)
 * [2023-08-19, 13:14:16](https://news.ycombinator.com/item?id=37188445) - [Onsen: A Peek into Japan’s Hot Springs](https://one-from-nippon.ghost.io/onsen-part-1/)
-* [2023-08-19, 11:41:57](https://news.ycombinator.com/item?id=37187760) - [Windy.com: global weather website with live filters](https://www.windy.com)
 * [2023-08-19, 03:27:29](https://news.ycombinator.com/item?id=37185194) - [President of the Moon Committee – Walter Benjamin’s Radio Years](https://www.thenation.com/article/society/walter-benjamin-radio-years/)
 * [2023-08-19, 02:27:42](https://news.ycombinator.com/item?id=37184883) - [A new way to identify chiral molecules with light could vastly improve detection](https://phys.org/news/2023-08-chiral-molecules-vastly-efficiency.html)
 * [2023-08-18, 22:51:11](https://news.ycombinator.com/item?id=37183144) - [The rise of the open kitchen](https://www.eater.com/23736307/open-kitchens-chefs-diners-wolfgang-puck-spago)
