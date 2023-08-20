@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-08-20](index.md)
 
+* [2023-08-20, 20:37:59](https://news.ycombinator.com/item?id=37202727) - [Jazz² Resurrection: Open-source Jazz Jackrabbit 2 reimplementation](http://deat.tk/jazz2/)
+* [2023-08-20, 20:23:52](https://news.ycombinator.com/item?id=37202620) - [How to Start a Profitable Roasting Business](https://bellwethercoffee.com/blog/how-to-start-a-profitable-roasting-business/)
 * [2023-08-20, 19:03:31](https://news.ycombinator.com/item?id=37202009) - [It’s Lambdas All the Way Down](https://itsbehnam.com/It-s-Lambdas-All-the-Way-Down-eb33012f54bb4708af001e0214910698)
 * [2023-08-20, 18:23:18](https://news.ycombinator.com/item?id=37201688) - [Heat Your House with a Mechanical Windmill](https://solar.lowtechmagazine.com/2019/02/heat-your-house-with-a-mechanical-windmill/)
 * [2023-08-20, 18:21:54](https://news.ycombinator.com/item?id=37201674) - [Reverse Outlines (2011)](https://explorationsofstyle.com/2011/02/09/reverse-outlines/)
+* [2023-08-20, 18:20:56](https://news.ycombinator.com/item?id=37201661) - [The Startup Founder Hero's Journey](https://www.wysr.xyz/p/the-startup-founder-heros-journey)
 * [2023-08-20, 18:14:56](https://news.ycombinator.com/item?id=37201612) - [The missing C++ smart pointer](https://blog.matthieud.me/2023/the-missing-cpp-smart-pointer/)
 * [2023-08-20, 17:39:23](https://news.ycombinator.com/item?id=37201276) - [Why the IDE needs to be reimagined](https://codestory.ai/blog/reimaginging-the-ide)
 * [2023-08-20, 17:07:45](https://news.ycombinator.com/item?id=37201000) - [Walmart pulls children's toy that swears and sings in Polish about doing cocaine](https://toronto.ctvnews.ca/walmart-pulls-children-s-toy-that-swears-and-sings-in-polish-about-doing-cocaine-1.5678364)
