@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-08-20, 22:05:55",
+      "https://news.ycombinator.com/item?id=37203354"
+    ],
+    [
+      "JSON Schema Store",
+      "https://www.schemastore.org/json/"
+    ]
+  ],
+  [
+    [
       "2023-08-20, 21:52:19",
       "https://news.ycombinator.com/item?id=37203251"
     ],
     [
       "Two men die in Ironman Cork competition in Ireland",
       "https://www.espn.com/olympics/story/_/id/38228423/two-men-die-ironman-cork-competition-ireland"
+    ]
+  ],
+  [
+    [
+      "2023-08-20, 21:45:19",
+      "https://news.ycombinator.com/item?id=37203196"
+    ],
+    [
+      "OpenCopilot – AI Copilot (sidekick) for your own SaaS product",
+      "https://github.com/openchatai/OpenCopilot"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2023-08-20, 18:14:56",
-      "https://news.ycombinator.com/item?id=37201612"
-    ],
-    [
-      "The missing C++ smart pointer",
-      "https://blog.matthieud.me/2023/the-missing-cpp-smart-pointer/"
-    ]
-  ],
-  [
-    [
       "2023-08-20, 17:08:19",
       "https://news.ycombinator.com/item?id=37201007"
     ],
@@ -177,16 +187,6 @@
     [
       "VidCutter: A program for lossless video cutting",
       "https://github.com/ozmartian/vidcutter"
-    ]
-  ],
-  [
-    [
-      "2023-08-20, 14:05:48",
-      "https://news.ycombinator.com/item?id=37199275"
-    ],
-    [
-      "Phonetic change in an Antarctic winter (2019)",
-      "https://pubs.aip.org/asa/jasa/article/146/5/3327/993882/Phonetic-change-in-an-Antarctic-winter"
     ]
   ],
   [
