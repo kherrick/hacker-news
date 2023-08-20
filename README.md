@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-20, 19:03:31](https://news.ycombinator.com/item?id=37202009) - [It’s Lambdas All the Way Down](https://itsbehnam.com/It-s-Lambdas-All-the-Way-Down-eb33012f54bb4708af001e0214910698)
-* [2023-08-20, 18:23:18](https://news.ycombinator.com/item?id=37201688) - [Heat Your House with a Mechanical Windmill](https://solar.lowtechmagazine.com/2019/02/heat-your-house-with-a-mechanical-windmill/)
+* [2023-08-20, 19:03:31](https://news.ycombinator.com/item?id=37202009) - [It’s lambdas all the way down](https://itsbehnam.com/It-s-Lambdas-All-the-Way-Down-eb33012f54bb4708af001e0214910698)
+* [2023-08-20, 18:23:18](https://news.ycombinator.com/item?id=37201688) - [Heat your house with a mechanical windmill](https://solar.lowtechmagazine.com/2019/02/heat-your-house-with-a-mechanical-windmill/)
 * [2023-08-20, 18:14:56](https://news.ycombinator.com/item?id=37201612) - [The missing C++ smart pointer](https://blog.matthieud.me/2023/the-missing-cpp-smart-pointer/)
-* [2023-08-20, 17:39:23](https://news.ycombinator.com/item?id=37201276) - [Why the IDE needs to be reimagined](https://codestory.ai/blog/reimaginging-the-ide)
 * [2023-08-20, 16:57:42](https://news.ycombinator.com/item?id=37200909) - [Run a macOS VM on Apple Silicon from a double-click with Vimy](https://eclecticlight.co/2023/08/17/run-a-macos-vm-on-apple-silicon-from-a-double-click-with-vimy/)
 * [2023-08-20, 16:28:32](https://news.ycombinator.com/item?id=37200619) - [Scientists trap light inside a magnet](https://www.ccny.cuny.edu/news/ccny-scientists-trap-light-inside-magnet)
-* [2023-08-20, 16:28:13](https://news.ycombinator.com/item?id=37200615) - [So You Want to Learn Physics](https://www.susanrigetti.com/physics)
+* [2023-08-20, 16:28:13](https://news.ycombinator.com/item?id=37200615) - [So you want to learn physics (2021)](https://www.susanrigetti.com/physics)
 * [2023-08-20, 14:30:31](https://news.ycombinator.com/item?id=37199495) - [Kris Nóva has died](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/)
 * [2023-08-20, 14:28:04](https://news.ycombinator.com/item?id=37199479) - [VidCutter: A program for lossless video cutting](https://github.com/ozmartian/vidcutter)
 * [2023-08-20, 14:16:58](https://news.ycombinator.com/item?id=37199352) - [The Next New Thing: Venture Capital Stories](https://computerhistory.org/stories/the-next-new-thing/)
@@ -29,6 +28,7 @@
 * [2023-08-20, 05:44:41](https://news.ycombinator.com/item?id=37196461) - [Welcome to Datasette Cloud](https://www.datasette.cloud/blog/2023/welcome/)
 * [2023-08-20, 05:41:34](https://news.ycombinator.com/item?id=37196440) - [The ReMarkable Streaming Tool v2: Elevating Remote Work Efficiency](https://blog.owulveryck.info/2023/07/25/evolving-the-game-a-clientless-streaming-tool-for-remarkable-2.html)
 * [2023-08-19, 23:29:28](https://news.ycombinator.com/item?id=37194394) - [Electrical detection of RNA cancer biomarkers at the single-molecule level](https://medicalxpress.com/news/2023-08-electrical-rna-cancer-biomarkers-single-molecule.html)
+* [2023-08-19, 21:46:26](https://news.ycombinator.com/item?id=37193599) - [Vector databases: analyzing the trade-offs](https://thedataquarry.com/posts/vector-db-4/)
 * [2023-08-17, 22:14:13](https://news.ycombinator.com/item?id=37168911) - [Data centres account for between 1.5% and 2% of global electricity consumption](https://www.economist.com/science-and-technology/2023/08/16/can-computing-clean-up-its-act)
 
 ## [Archives](archives/index.md)
