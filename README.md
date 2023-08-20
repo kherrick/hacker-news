@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-20, 08:39:07](https://news.ycombinator.com/item?id=37197257) - [Don’t Build a General Purpose API to Power Your Own Front End (2021)](https://max.engineer/server-informed-ui)
+* [2023-08-20, 08:36:18](https://news.ycombinator.com/item?id=37197243) - [Adobe's co-founder John Warnock dies at 82](https://www.reuters.com/technology/adobes-co-founder-john-warnock-dies-82-2023-08-20/)
 * [2023-08-20, 08:31:00](https://news.ycombinator.com/item?id=37197220) - [30 years on, Debian is at the heart of the most successful Linux distros](https://www.theregister.com/2023/08/17/debian_turns_30/)
 * [2023-08-20, 08:12:59](https://news.ycombinator.com/item?id=37197155) - [Shit Life Syndrome](https://en.wikipedia.org/wiki/Shit_life_syndrome)
 * [2023-08-20, 07:00:58](https://news.ycombinator.com/item?id=37196872) - [Raycast (YC W20) Is Hiring a macOS Engineer (Remote, UTC ± 3 Hours)](https://www.raycast.com/jobs/software-engineer-macos)
@@ -18,7 +19,6 @@
 * [2023-08-19, 23:15:58](https://news.ycombinator.com/item?id=37194317) - [Mousetrap.jl: a GUI library for Julia and C++ that wraps GTK4](https://github.com/Clemapfel/mousetrap.jl)
 * [2023-08-19, 23:14:44](https://news.ycombinator.com/item?id=37194302) - [CRISPR gene-editing treatment eliminates HIV-like virus from non-human primates](https://www.nature.com/articles/s41434-023-00410-4)
 * [2023-08-19, 23:09:17](https://news.ycombinator.com/item?id=37194272) - [Cellebrite asks cops to keep its technology secret](https://techcrunch.com/2023/08/19/cellebrite-asks-cops-to-keep-its-phone-hacking-tech-hush-hush/)
-* [2023-08-19, 23:05:41](https://news.ycombinator.com/item?id=37194244) - [AirGradient Air Quality Monitor Pro Kit Review](https://bubelov.com/blog/2023/06/airgradient-pro-kit-review/)
 * [2023-08-19, 22:53:21](https://news.ycombinator.com/item?id=37194156) - [UCLA floor tiles decoded, pay homage to first internet message (2013)](https://newsroom.ucla.edu/stories/a-coded-message-hidden-in-floor-247232)
 * [2023-08-19, 21:52:29](https://news.ycombinator.com/item?id=37193670) - [Programming Language choices: Pascal, LOGO, Forth, Prolog, C (1986) [video]](https://clp.bbcrewind.co.uk/3d15323fe870ef44784832c02f4f7992)
 * [2023-08-19, 20:33:01](https://news.ycombinator.com/item?id=37192868) - [When the Beatles Recorded “Twist and Shout”](https://lithub.com/it-conveyed-them-when-the-beatles-recorded-twist-and-shout/)

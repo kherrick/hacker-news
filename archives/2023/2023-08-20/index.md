@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-20](index.md)
 
 * [2023-08-20, 08:39:07](https://news.ycombinator.com/item?id=37197257) - [Don’t Build a General Purpose API to Power Your Own Front End (2021)](https://max.engineer/server-informed-ui)
+* [2023-08-20, 08:36:18](https://news.ycombinator.com/item?id=37197243) - [Adobe's co-founder John Warnock dies at 82](https://www.reuters.com/technology/adobes-co-founder-john-warnock-dies-82-2023-08-20/)
 * [2023-08-20, 08:32:12](https://news.ycombinator.com/item?id=37197226) - [Oz eyes UK online bill in fight with tech over encryption & child safety](https://www.theguardian.com/australia-news/2023/aug/20/australia-eyes-uk-online-bill-in-fight-with-tech-companies-over-encryption-child-safety)
 * [2023-08-20, 08:31:00](https://news.ycombinator.com/item?id=37197220) - [30 years on, Debian is at the heart of the most successful Linux distros](https://www.theregister.com/2023/08/17/debian_turns_30/)
 * [2023-08-20, 08:12:59](https://news.ycombinator.com/item?id=37197155) - [Shit Life Syndrome](https://en.wikipedia.org/wiki/Shit_life_syndrome)
