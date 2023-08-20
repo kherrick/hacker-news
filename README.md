@@ -2,11 +2,13 @@
 
 * [2023-08-20, 13:29:51](https://news.ycombinator.com/item?id=37198954) - [Shouldn't distant objects appear magnified](https://astronomy.stackexchange.com/questions/54499/shouldnt-very-very-distant-objects-appear-magnified)
 * [2023-08-20, 13:22:07](https://news.ycombinator.com/item?id=37198886) - [Infrequently Asked Questions in Comp.lang.c](https://www.seebs.net/faqs/c-iaq.html)
-* [2023-08-20, 13:13:38](https://news.ycombinator.com/item?id=37198808) - [The renewable energy revolution is happening faster than you think](https://www.newscientist.com/article/2387712-the-renewable-energy-revolution-is-happening-faster-than-you-think/)
+* [2023-08-20, 13:19:23](https://news.ycombinator.com/item?id=37198853) - [A supramolecular organo-ionic electrolyte that can be liquidated for recycling](https://techxplore.com/news/2023-08-supramolecular-organo-ionic-electrolyte-liquidated-recycling.html)
 * [2023-08-20, 13:13:13](https://news.ycombinator.com/item?id=37198803) - [What Is a PID Controller in an Espresso Machine?](https://www.beanground.com/pid-controller-espresso/)
 * [2023-08-20, 13:06:44](https://news.ycombinator.com/item?id=37198752) - [Non-Euclidean Geometry Online: A Guide to Resources (2008)](https://pi.math.cornell.edu/~mec/mircea.html)
 * [2023-08-20, 13:05:32](https://news.ycombinator.com/item?id=37198744) - [Using lei, b4, and mutt to do kernel development](https://josefbacik.github.io/kernel/2021/10/18/lei-and-b4.html)
+* [2023-08-20, 13:03:39](https://news.ycombinator.com/item?id=37198728) - [Even Been to This Free London Yew Maze?](https://londonist.com/london/free-and-cheap/brent-lodge-park-millennium-maze-hanwell-ealing)
 * [2023-08-20, 12:57:23](https://news.ycombinator.com/item?id=37198673) - [PHYS771 Lecture 9: Quantum](https://scottaaronson.com/democritus/lec9.html)
+* [2023-08-20, 12:57:21](https://news.ycombinator.com/item?id=37198672) - [X glitch wipes out most pictures and links tweeted before December 2014](https://www.theverge.com/2023/8/20/23838823/twitter-x-deleted-pictures-links-2014-metadata-t-co-shortener)
 * [2023-08-20, 12:56:10](https://news.ycombinator.com/item?id=37198664) - [The Stick of Jan Sloot](https://www.spronck.net/sloot.html)
 * [2023-08-20, 11:02:35](https://news.ycombinator.com/item?id=37197986) - [Without belief in a god, but never without belief in a devil](https://www.robkhenderson.com/p/without-belief-in-a-god-but-never)
 * [2023-08-20, 11:00:55](https://news.ycombinator.com/item?id=37197977) - [All of Physics in 9 Lines](https://www.motionmountain.net/9lines.html)
@@ -17,7 +19,6 @@
 * [2023-08-20, 09:58:52](https://news.ycombinator.com/item?id=37197686) - [The Pattern Language of Project Xanadu](https://maggieappleton.com/xanadu-patterns)
 * [2023-08-20, 09:36:40](https://news.ycombinator.com/item?id=37197575) - [Show HN: Superfunctions – AI prompt templates as an API](https://superfunctions.versoly.page)
 * [2023-08-20, 08:36:18](https://news.ycombinator.com/item?id=37197243) - [John Warnock has died](https://www.reuters.com/technology/adobes-co-founder-john-warnock-dies-82-2023-08-20/)
-* [2023-08-20, 08:31:00](https://news.ycombinator.com/item?id=37197220) - [Debian is at the heart of the most successful Linux distros](https://www.theregister.com/2023/08/17/debian_turns_30/)
 * [2023-08-20, 08:12:59](https://news.ycombinator.com/item?id=37197155) - [Shit Life Syndrome](https://en.wikipedia.org/wiki/Shit_life_syndrome)
 * [2023-08-20, 07:00:58](https://news.ycombinator.com/item?id=37196872) - [Raycast (YC W20) Is Hiring a macOS Engineer (Remote, UTC ± 3 Hours)](https://www.raycast.com/jobs/software-engineer-macos)
 * [2023-08-20, 05:44:41](https://news.ycombinator.com/item?id=37196461) - [Welcome to Datasette Cloud](https://www.datasette.cloud/blog/2023/welcome/)
@@ -29,7 +30,6 @@
 * [2023-08-20, 01:12:19](https://news.ycombinator.com/item?id=37195023) - [Project Valhalla, Simple as it can be, but not simpler](https://cr.openjdk.org/~jrose/values/larval-values.html)
 * [2023-08-20, 00:59:28](https://news.ycombinator.com/item?id=37194953) - [GCC always assumes aligned pointer accesses](https://trust-in-soft.com/blog/2020/04/06/gcc-always-assumes-aligned-pointer-accesses/)
 * [2023-08-20, 00:58:32](https://news.ycombinator.com/item?id=37194944) - [Large Language Models: Compilers for the 4th Gen of Programming Languages? [pdf]](https://drops.dagstuhl.de/opus/volltexte/2023/18524/pdf/OASIcs-SLATE-2023-10.pdf)
-* [2023-08-19, 20:33:01](https://news.ycombinator.com/item?id=37192868) - [When the Beatles Recorded “Twist and Shout”](https://lithub.com/it-conveyed-them-when-the-beatles-recorded-twist-and-shout/)
 
 ## [Archives](archives/index.md)
 
