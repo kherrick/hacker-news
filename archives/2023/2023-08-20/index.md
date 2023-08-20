@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-08-20](index.md)
 
+* [2023-08-20, 21:52:19](https://news.ycombinator.com/item?id=37203251) - [Two men die in Ironman Cork competition in Ireland](https://www.espn.com/olympics/story/_/id/38228423/two-men-die-ironman-cork-competition-ireland)
 * [2023-08-20, 21:28:48](https://news.ycombinator.com/item?id=37203086) - [A raid on a Kansas newspaper likely broke the law, experts say. But which one?](https://abcnews.go.com/US/wireStory/raid-kansas-newspaper-broke-law-experts-102390880)
 * [2023-08-20, 21:27:54](https://news.ycombinator.com/item?id=37203078) - [Judge who signed Kansas newspaper search warrant had 2 DUI arrests, reports say](https://www.npr.org/2023/08/17/1194392001/judge-who-signed-kansas-newspaper-search-warrant-had-2-dui-arrests-reports-say)
+* [2023-08-20, 21:26:22](https://news.ycombinator.com/item?id=37203067) - [16-bit Serial Homebrew CPU – 2023](https://www.jiristepanovsky.cz/project.php?p=23cpu)
 * [2023-08-20, 20:37:59](https://news.ycombinator.com/item?id=37202727) - [Jazz² Resurrection: Open-source Jazz Jackrabbit 2 reimplementation](http://deat.tk/jazz2/)
+* [2023-08-20, 20:36:30](https://news.ycombinator.com/item?id=37202714) - [Ruby's Hash Is A Swiss-Army Knife](https://www.akshaykhot.com/ruby-hash-is-a-swiss-army-knife/)
+* [2023-08-20, 20:31:50](https://news.ycombinator.com/item?id=37202680) - [Ghana's MPs pass bill criminalising witchcraft accusation](https://www.trtafrika.com:443/africa/ghanas-mps-pass-bill-criminalising-witchcraft-accusation-14238700)
 * [2023-08-20, 20:23:52](https://news.ycombinator.com/item?id=37202620) - [How to Start a Profitable Roasting Business](https://bellwethercoffee.com/blog/how-to-start-a-profitable-roasting-business/)
 * [2023-08-20, 19:54:04](https://news.ycombinator.com/item?id=37202415) - [The Mystery of an Abandoned Cabinet Full of Kodachrome Slides in San Francisco](https://petapixel.com/2023/08/16/the-mystery-of-an-abandoned-cabinet-full-of-kodachrome-slides-in-san-francisco/)
 * [2023-08-20, 19:03:31](https://news.ycombinator.com/item?id=37202009) - [It’s Lambdas All the Way Down](https://itsbehnam.com/It-s-Lambdas-All-the-Way-Down-eb33012f54bb4708af001e0214910698)
