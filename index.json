@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-20, 01:00:25",
+      "https://news.ycombinator.com/item?id=37194963"
+    ],
+    [
+      "AMD's 7900 XTX achieves better value for Stable Diffusion than Nvidia RTX 4080",
+      "https://wccftech.com/amd-radeon-7900-xtx-offers-higher-generative-ai-performance-per-dollar-than-nvidia-rtx-4080-after-990-speedup/"
+    ]
+  ],
+  [
+    [
+      "2023-08-19, 23:59:08",
+      "https://news.ycombinator.com/item?id=37194618"
+    ],
+    [
+      "Who’s Afraid of Lorne Michaels?",
+      "https://longreads.com/2023/08/17/lorne-michaels-saturday-night-live/"
+    ]
+  ],
+  [
+    [
       "2023-08-19, 23:56:51",
       "https://news.ycombinator.com/item?id=37194600"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=37194317"
     ],
     [
-      "Mousetrap.jl: a GUI library for Julia and C++ that fully wrap GTK4",
+      "Mousetrap.jl: a GUI library for Julia and C++ that wraps GTK4",
       "https://github.com/Clemapfel/mousetrap.jl"
     ]
   ],
@@ -47,16 +67,6 @@
     [
       "UCLA floor tiles decoded, pay homage to first internet message",
       "https://newsroom.ucla.edu/stories/a-coded-message-hidden-in-floor-247232"
-    ]
-  ],
-  [
-    [
-      "2023-08-19, 22:47:13",
-      "https://news.ycombinator.com/item?id=37194115"
-    ],
-    [
-      "The Authors Whose Pirated Books Are Powering Generative AI",
-      "https://www.theatlantic.com/technology/archive/2023/08/books3-ai-meta-llama-pirated-books/675063/"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2023-08-19, 17:06:06",
-      "https://news.ycombinator.com/item?id=37190818"
-    ],
-    [
-      "Life Has Several Exits",
-      "https://lopespm.com/notes/2023/08/19/life_exits.html"
-    ]
-  ],
-  [
-    [
       "2023-08-19, 16:57:32",
       "https://news.ycombinator.com/item?id=37190743"
     ],
@@ -177,6 +177,16 @@
     [
       "Speakers of different languages remember visual scenes differently",
       "https://www.science.org/doi/10.1126/sciadv.adh0064"
+    ]
+  ],
+  [
+    [
+      "2023-08-19, 14:23:04",
+      "https://news.ycombinator.com/item?id=37189084"
+    ],
+    [
+      "Man on the Clapham Omnibus",
+      "https://en.wikipedia.org/wiki/Man_on_the_Clapham_omnibus"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Helidon Níma: A Java microservices framework based on virtual threads",
       "https://helidon.io/nima"
-    ]
-  ],
-  [
-    [
-      "2023-08-18, 14:39:49",
-      "https://news.ycombinator.com/item?id=37176289"
-    ],
-    [
-      "The PolymurHash universal hash function",
-      "https://github.com/orlp/polymur-hash"
     ]
   ],
   [
