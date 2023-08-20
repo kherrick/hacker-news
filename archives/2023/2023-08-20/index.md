@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-20](index.md)
 
+* [2023-08-20, 18:23:18](https://news.ycombinator.com/item?id=37201688) - [Heat Your House with a Mechanical Windmill](https://solar.lowtechmagazine.com/2019/02/heat-your-house-with-a-mechanical-windmill/)
 * [2023-08-20, 18:14:56](https://news.ycombinator.com/item?id=37201612) - [The missing C++ smart pointer](https://blog.matthieud.me/2023/the-missing-cpp-smart-pointer/)
 * [2023-08-20, 17:07:45](https://news.ycombinator.com/item?id=37201000) - [Walmart pulls children's toy that swears and sings in Polish about doing cocaine](https://toronto.ctvnews.ca/walmart-pulls-children-s-toy-that-swears-and-sings-in-polish-about-doing-cocaine-1.5678364)
 * [2023-08-20, 16:57:42](https://news.ycombinator.com/item?id=37200909) - [Run a macOS VM on Apple Silicon from a double-click with Vimy](https://eclecticlight.co/2023/08/17/run-a-macos-vm-on-apple-silicon-from-a-double-click-with-vimy/)

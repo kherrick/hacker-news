@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-20, 18:23:18](https://news.ycombinator.com/item?id=37201688) - [Heat Your House with a Mechanical Windmill](https://solar.lowtechmagazine.com/2019/02/heat-your-house-with-a-mechanical-windmill/)
 * [2023-08-20, 18:14:56](https://news.ycombinator.com/item?id=37201612) - [The missing C++ smart pointer](https://blog.matthieud.me/2023/the-missing-cpp-smart-pointer/)
 * [2023-08-20, 16:57:42](https://news.ycombinator.com/item?id=37200909) - [Run a macOS VM on Apple Silicon from a double-click with Vimy](https://eclecticlight.co/2023/08/17/run-a-macos-vm-on-apple-silicon-from-a-double-click-with-vimy/)
 * [2023-08-20, 16:28:32](https://news.ycombinator.com/item?id=37200619) - [Scientists trap light inside a magnet](https://www.ccny.cuny.edu/news/ccny-scientists-trap-light-inside-magnet)
@@ -8,7 +9,6 @@
 * [2023-08-20, 14:30:31](https://news.ycombinator.com/item?id=37199495) - [Kris Nóva has died](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/)
 * [2023-08-20, 14:28:04](https://news.ycombinator.com/item?id=37199479) - [VidCutter: A program for lossless video cutting](https://github.com/ozmartian/vidcutter)
 * [2023-08-20, 14:16:58](https://news.ycombinator.com/item?id=37199352) - [The Next New Thing: Venture Capital Stories](https://computerhistory.org/stories/the-next-new-thing/)
-* [2023-08-20, 14:10:18](https://news.ycombinator.com/item?id=37199311) - [The Hallucinated Rows Incident](https://medium.com/epsio-blog/the-hallucinated-rows-incident-c42e2f4bb71f)
 * [2023-08-20, 14:05:48](https://news.ycombinator.com/item?id=37199275) - [Phonetic change in an Antarctic winter (2019)](https://pubs.aip.org/asa/jasa/article/146/5/3327/993882/Phonetic-change-in-an-Antarctic-winter)
 * [2023-08-20, 13:29:51](https://news.ycombinator.com/item?id=37198954) - [Shouldn't distant objects appear magnified?](https://astronomy.stackexchange.com/questions/54499/shouldnt-very-very-distant-objects-appear-magnified)
 * [2023-08-20, 13:22:07](https://news.ycombinator.com/item?id=37198886) - [Infrequently Asked Questions in Comp.lang.c (1999)](https://www.seebs.net/faqs/c-iaq.html)
