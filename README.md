@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-20, 23:01:31](https://news.ycombinator.com/item?id=37203761) - [Cell therapy repairs cornea damage with patient's stem cells gives trial results](https://medicalxpress.com/news/2023-08-cell-therapy-cornea-patient-stem.html)
 * [2023-08-20, 22:24:59](https://news.ycombinator.com/item?id=37203511) - [TimeGuessr: Guess what year a photograph was taken](https://timeguessr.com/)
 * [2023-08-20, 22:05:55](https://news.ycombinator.com/item?id=37203354) - [JSON Schema Store](https://www.schemastore.org/json/)
 * [2023-08-20, 21:45:19](https://news.ycombinator.com/item?id=37203196) - [OpenCopilot – AI Copilot (sidekick) for your own SaaS product](https://github.com/openchatai/OpenCopilot)
 * [2023-08-20, 21:28:48](https://news.ycombinator.com/item?id=37203086) - [A raid on a Kansas newspaper likely broke the law, experts say. But which one?](https://abcnews.go.com/US/wireStory/raid-kansas-newspaper-broke-law-experts-102390880)
 * [2023-08-20, 21:26:22](https://news.ycombinator.com/item?id=37203067) - [16-bit Serial Homebrew CPU – 2023](https://www.jiristepanovsky.cz/project.php?p=23cpu)
-* [2023-08-20, 21:26:07](https://news.ycombinator.com/item?id=37203065) - [Show HN: Fake Hacker News – See what HN has to say before you post](https://www.fakehn.com/)
 * [2023-08-20, 20:37:59](https://news.ycombinator.com/item?id=37202727) - [Jazz² Resurrection: Open-source Jazz Jackrabbit 2 reimplementation](http://deat.tk/jazz2/)
 * [2023-08-20, 20:36:30](https://news.ycombinator.com/item?id=37202714) - [Ruby's hash is a Swiss-army knife](https://www.akshaykhot.com/ruby-hash-is-a-swiss-army-knife/)
 * [2023-08-20, 20:31:50](https://news.ycombinator.com/item?id=37202680) - [Ghana's MPs pass bill criminalising witchcraft accusation](https://www.trtafrika.com:443/africa/ghanas-mps-pass-bill-criminalising-witchcraft-accusation-14238700)

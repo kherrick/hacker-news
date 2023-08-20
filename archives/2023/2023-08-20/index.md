@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-20](index.md)
 
+* [2023-08-20, 23:01:31](https://news.ycombinator.com/item?id=37203761) - [Cell therapy repairs cornea damage with patient's stem cells gives trial results](https://medicalxpress.com/news/2023-08-cell-therapy-cornea-patient-stem.html)
 * [2023-08-20, 22:24:59](https://news.ycombinator.com/item?id=37203511) - [TimeGuessr: Guess what year a photograph was taken](https://timeguessr.com/)
 * [2023-08-20, 22:05:55](https://news.ycombinator.com/item?id=37203354) - [JSON Schema Store](https://www.schemastore.org/json/)
 * [2023-08-20, 21:52:19](https://news.ycombinator.com/item?id=37203251) - [Two men die in Ironman Cork competition in Ireland](https://www.espn.com/olympics/story/_/id/38228423/two-men-die-ironman-cork-competition-ireland)
