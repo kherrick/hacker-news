@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-20, 17:07:45](https://news.ycombinator.com/item?id=37201000) - [Walmart pulls children's toy that swears and sings in Polish about doing cocaine](https://toronto.ctvnews.ca/walmart-pulls-children-s-toy-that-swears-and-sings-in-polish-about-doing-cocaine-1.5678364)
 * [2023-08-20, 16:28:32](https://news.ycombinator.com/item?id=37200619) - [Scientists trap light inside a magnet](https://www.ccny.cuny.edu/news/ccny-scientists-trap-light-inside-magnet)
 * [2023-08-20, 16:28:13](https://news.ycombinator.com/item?id=37200615) - [So You Want to Learn Physics](https://www.susanrigetti.com/physics)
 * [2023-08-20, 15:54:17](https://news.ycombinator.com/item?id=37200311) - [The Maximum Tension Principle in General Relativity(2002)](https://arxiv.org/abs/hep-th/0210109)
@@ -24,6 +23,7 @@
 * [2023-08-20, 10:12:55](https://news.ycombinator.com/item?id=37197734) - [Large Language Models As General Pattern Machines](https://arxiv.org/abs/2307.04721)
 * [2023-08-20, 09:58:52](https://news.ycombinator.com/item?id=37197686) - [The Pattern Language of Project Xanadu](https://maggieappleton.com/xanadu-patterns)
 * [2023-08-20, 08:39:07](https://news.ycombinator.com/item?id=37197257) - [Don’t build a general purpose API to power your own front end (2021)](https://max.engineer/server-informed-ui)
+* [2023-08-20, 08:36:18](https://news.ycombinator.com/item?id=37197243) - [John Warnock has died](https://www.reuters.com/technology/adobes-co-founder-john-warnock-dies-82-2023-08-20/)
 * [2023-08-20, 07:00:58](https://news.ycombinator.com/item?id=37196872) - [Raycast (YC W20) Is Hiring a macOS Engineer (Remote, UTC ± 3 Hours)](https://www.raycast.com/jobs/software-engineer-macos)
 * [2023-08-20, 05:44:41](https://news.ycombinator.com/item?id=37196461) - [Welcome to Datasette Cloud](https://www.datasette.cloud/blog/2023/welcome/)
 * [2023-08-20, 05:41:34](https://news.ycombinator.com/item?id=37196440) - [The ReMarkable Streaming Tool v2: Elevating Remote Work Efficiency](https://blog.owulveryck.info/2023/07/25/evolving-the-game-a-clientless-streaming-tool-for-remarkable-2.html)
