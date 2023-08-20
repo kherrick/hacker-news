@@ -36,6 +36,7 @@
 * [2023-08-20, 14:16:58](https://news.ycombinator.com/item?id=37199352) - [The Next New Thing: Venture Capital Stories](https://computerhistory.org/stories/the-next-new-thing/)
 * [2023-08-20, 14:10:18](https://news.ycombinator.com/item?id=37199311) - [The Hallucinated Rows Incident](https://medium.com/epsio-blog/the-hallucinated-rows-incident-c42e2f4bb71f)
 * [2023-08-20, 14:05:48](https://news.ycombinator.com/item?id=37199275) - [Phonetic change in an Antarctic winter (2019)](https://pubs.aip.org/asa/jasa/article/146/5/3327/993882/Phonetic-change-in-an-Antarctic-winter)
+* [2023-08-20, 13:51:20](https://news.ycombinator.com/item?id=37199131) - [Now Is the Time for Grimoires](https://www.oneusefulthing.org/p/now-is-the-time-for-grimoires)
 * [2023-08-20, 13:45:50](https://news.ycombinator.com/item?id=37199078) - [De Facto Ports](https://matt-rickard.com/de-facto-ports)
 * [2023-08-20, 13:36:19](https://news.ycombinator.com/item?id=37199004) - [The Never Ending Now](https://perell.com/essay/never-ending-now/)
 * [2023-08-20, 13:29:51](https://news.ycombinator.com/item?id=37198954) - [Shouldn't distant objects appear magnified](https://astronomy.stackexchange.com/questions/54499/shouldnt-very-very-distant-objects-appear-magnified)
