@@ -6,6 +6,7 @@
 
 * [2023-08-19, 23:59:08](https://news.ycombinator.com/item?id=37194618) - [Who’s Afraid of Lorne Michaels?](https://longreads.com/2023/08/17/lorne-michaels-saturday-night-live/)
 * [2023-08-19, 23:56:51](https://news.ycombinator.com/item?id=37194600) - [W. H. Auden’s 1954 review of The Fellowship of the Ring](https://lithub.com/read-w-h-audens-1954-review-of-the-fellowship-of-the-ring/)
+* [2023-08-19, 23:29:28](https://news.ycombinator.com/item?id=37194394) - [Electrical detection of RNA cancer biomarkers at the single-molecule level](https://medicalxpress.com/news/2023-08-electrical-rna-cancer-biomarkers-single-molecule.html)
 * [2023-08-19, 23:15:58](https://news.ycombinator.com/item?id=37194317) - [Mousetrap.jl: a GUI library for Julia and C++ that fully wrap GTK4](https://github.com/Clemapfel/mousetrap.jl)
 * [2023-08-19, 23:14:44](https://news.ycombinator.com/item?id=37194302) - [CRISPR gene-editing treatment eliminates HIV-like virus from non-human primates](https://www.nature.com/articles/s41434-023-00410-4)
 * [2023-08-19, 23:09:17](https://news.ycombinator.com/item?id=37194272) - [Cellebrite asks cops to keep its phone hacking tech ‘hush hush’](https://techcrunch.com/2023/08/19/cellebrite-asks-cops-to-keep-its-phone-hacking-tech-hush-hush/)

@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-20, 14:30:31](https://news.ycombinator.com/item?id=37199495) - [Kris Nova passed away](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/)
+* [2023-08-20, 13:36:19](https://news.ycombinator.com/item?id=37199004) - [The Never Ending Now](https://perell.com/essay/never-ending-now/)
 * [2023-08-20, 13:29:51](https://news.ycombinator.com/item?id=37198954) - [Shouldn't distant objects appear magnified](https://astronomy.stackexchange.com/questions/54499/shouldnt-very-very-distant-objects-appear-magnified)
 * [2023-08-20, 13:22:07](https://news.ycombinator.com/item?id=37198886) - [Infrequently Asked Questions in Comp.lang.c (1999)](https://www.seebs.net/faqs/c-iaq.html)
 * [2023-08-20, 13:19:23](https://news.ycombinator.com/item?id=37198853) - [A supramolecular organo-ionic electrolyte that can be liquidated for recycling](https://techxplore.com/news/2023-08-supramolecular-organo-ionic-electrolyte-liquidated-recycling.html)
-* [2023-08-20, 13:13:13](https://news.ycombinator.com/item?id=37198803) - [What Is a PID Controller in an Espresso Machine?](https://www.beanground.com/pid-controller-espresso/)
 * [2023-08-20, 13:06:44](https://news.ycombinator.com/item?id=37198752) - [Non-Euclidean Geometry Online: A Guide to Resources (2008)](https://pi.math.cornell.edu/~mec/mircea.html)
 * [2023-08-20, 13:05:32](https://news.ycombinator.com/item?id=37198744) - [Using lei, b4, and mutt to do kernel development](https://josefbacik.github.io/kernel/2021/10/18/lei-and-b4.html)
 * [2023-08-20, 13:03:39](https://news.ycombinator.com/item?id=37198728) - [Even Been to This Free London Yew Maze?](https://londonist.com/london/free-and-cheap/brent-lodge-park-millennium-maze-hanwell-ealing)
@@ -29,7 +29,7 @@
 * [2023-08-20, 02:29:22](https://news.ycombinator.com/item?id=37195483) - [Executive Function Theft](https://hedgehoglibrarian.com/2023/08/14/executive-function-theft/)
 * [2023-08-20, 02:26:50](https://news.ycombinator.com/item?id=37195467) - [A Critique of the Cap'n Proto Schema Language (2019)](https://zenhack.net/2019/06/25/a-critique-of-the-capnproto-schema-language.html)
 * [2023-08-20, 00:59:28](https://news.ycombinator.com/item?id=37194953) - [GCC always assumes aligned pointer accesses](https://trust-in-soft.com/blog/2020/04/06/gcc-always-assumes-aligned-pointer-accesses/)
-* [2023-08-20, 00:58:32](https://news.ycombinator.com/item?id=37194944) - [Large Language Models: Compilers for the 4th Gen of Programming Languages? [pdf]](https://drops.dagstuhl.de/opus/volltexte/2023/18524/pdf/OASIcs-SLATE-2023-10.pdf)
+* [2023-08-19, 23:29:28](https://news.ycombinator.com/item?id=37194394) - [Electrical detection of RNA cancer biomarkers at the single-molecule level](https://medicalxpress.com/news/2023-08-electrical-rna-cancer-biomarkers-single-molecule.html)
 
 ## [Archives](archives/index.md)
 

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-20](index.md)
 
 * [2023-08-20, 14:30:31](https://news.ycombinator.com/item?id=37199495) - [Kris Nova passed away](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/)
+* [2023-08-20, 13:36:19](https://news.ycombinator.com/item?id=37199004) - [The Never Ending Now](https://perell.com/essay/never-ending-now/)
 * [2023-08-20, 13:29:51](https://news.ycombinator.com/item?id=37198954) - [Shouldn't distant objects appear magnified](https://astronomy.stackexchange.com/questions/54499/shouldnt-very-very-distant-objects-appear-magnified)
 * [2023-08-20, 13:22:07](https://news.ycombinator.com/item?id=37198886) - [Infrequently Asked Questions in Comp.lang.c](https://www.seebs.net/faqs/c-iaq.html)
 * [2023-08-20, 13:19:23](https://news.ycombinator.com/item?id=37198853) - [A supramolecular organo-ionic electrolyte that can be liquidated for recycling](https://techxplore.com/news/2023-08-supramolecular-organo-ionic-electrolyte-liquidated-recycling.html)
