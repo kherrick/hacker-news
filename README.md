@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-20, 18:23:18](https://news.ycombinator.com/item?id=37201688) - [Heat Your House with a Mechanical Windmill](https://solar.lowtechmagazine.com/2019/02/heat-your-house-with-a-mechanical-windmill/)
+* [2023-08-20, 18:21:54](https://news.ycombinator.com/item?id=37201674) - [Reverse Outlines (2011)](https://explorationsofstyle.com/2011/02/09/reverse-outlines/)
 * [2023-08-20, 18:14:56](https://news.ycombinator.com/item?id=37201612) - [The missing C++ smart pointer](https://blog.matthieud.me/2023/the-missing-cpp-smart-pointer/)
 * [2023-08-20, 16:57:42](https://news.ycombinator.com/item?id=37200909) - [Run a macOS VM on Apple Silicon from a double-click with Vimy](https://eclecticlight.co/2023/08/17/run-a-macos-vm-on-apple-silicon-from-a-double-click-with-vimy/)
 * [2023-08-20, 16:28:32](https://news.ycombinator.com/item?id=37200619) - [Scientists trap light inside a magnet](https://www.ccny.cuny.edu/news/ccny-scientists-trap-light-inside-magnet)
 * [2023-08-20, 16:28:13](https://news.ycombinator.com/item?id=37200615) - [So You Want to Learn Physics](https://www.susanrigetti.com/physics)
-* [2023-08-20, 15:50:52](https://news.ycombinator.com/item?id=37200284) - [Demystifying ESIM Technology [video]](https://media.ccc.de/v/camp2023-57190-demystifying_esim_technology)
 * [2023-08-20, 14:30:31](https://news.ycombinator.com/item?id=37199495) - [Kris Nóva has died](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/)
 * [2023-08-20, 14:28:04](https://news.ycombinator.com/item?id=37199479) - [VidCutter: A program for lossless video cutting](https://github.com/ozmartian/vidcutter)
 * [2023-08-20, 14:16:58](https://news.ycombinator.com/item?id=37199352) - [The Next New Thing: Venture Capital Stories](https://computerhistory.org/stories/the-next-new-thing/)
