@@ -9,6 +9,7 @@
 * [2023-08-19, 23:15:58](https://news.ycombinator.com/item?id=37194317) - [Mousetrap.jl: a GUI library for Julia and C++ that fully wrap GTK4](https://github.com/Clemapfel/mousetrap.jl)
 * [2023-08-19, 23:14:44](https://news.ycombinator.com/item?id=37194302) - [CRISPR gene-editing treatment eliminates HIV-like virus from non-human primates](https://www.nature.com/articles/s41434-023-00410-4)
 * [2023-08-19, 23:09:17](https://news.ycombinator.com/item?id=37194272) - [Cellebrite asks cops to keep its phone hacking tech ‘hush hush’](https://techcrunch.com/2023/08/19/cellebrite-asks-cops-to-keep-its-phone-hacking-tech-hush-hush/)
+* [2023-08-19, 23:05:41](https://news.ycombinator.com/item?id=37194244) - [AirGradient Air Quality Monitor Pro Kit Review](https://bubelov.com/blog/2023/06/airgradient-pro-kit-review/)
 * [2023-08-19, 22:53:21](https://news.ycombinator.com/item?id=37194156) - [UCLA floor tiles decoded, pay homage to first internet message](https://newsroom.ucla.edu/stories/a-coded-message-hidden-in-floor-247232)
 * [2023-08-19, 22:47:13](https://news.ycombinator.com/item?id=37194115) - [The Authors Whose Pirated Books Are Powering Generative AI](https://www.theatlantic.com/technology/archive/2023/08/books3-ai-meta-llama-pirated-books/675063/)
 * [2023-08-19, 22:45:15](https://news.ycombinator.com/item?id=37194104) - [The Rimac Nevera Has Broken the Production EV Nurburgring Lap Record](https://www.thedrive.com/news/the-rimac-nevera-has-broken-the-production-ev-nurburgring-lap-record)
