@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-08-20](index.md)
+
+* [2023-08-20, 01:00:25](https://news.ycombinator.com/item?id=37194963) - [AMD's 7900 XTX achieves better value for Stable Diffusion than Nvidia RTX 4080](https://wccftech.com/amd-radeon-7900-xtx-offers-higher-generative-ai-performance-per-dollar-than-nvidia-rtx-4080-after-990-speedup/)

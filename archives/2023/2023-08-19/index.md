@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-19](index.md)
 
+* [2023-08-19, 23:59:08](https://news.ycombinator.com/item?id=37194618) - [Who’s Afraid of Lorne Michaels?](https://longreads.com/2023/08/17/lorne-michaels-saturday-night-live/)
 * [2023-08-19, 23:56:51](https://news.ycombinator.com/item?id=37194600) - [W. H. Auden’s 1954 review of The Fellowship of the Ring](https://lithub.com/read-w-h-audens-1954-review-of-the-fellowship-of-the-ring/)
 * [2023-08-19, 23:15:58](https://news.ycombinator.com/item?id=37194317) - [Mousetrap.jl: a GUI library for Julia and C++ that fully wrap GTK4](https://github.com/Clemapfel/mousetrap.jl)
 * [2023-08-19, 23:14:44](https://news.ycombinator.com/item?id=37194302) - [CRISPR gene-editing treatment eliminates HIV-like virus from non-human primates](https://www.nature.com/articles/s41434-023-00410-4)
@@ -48,6 +49,7 @@
 * [2023-08-19, 15:09:09](https://news.ycombinator.com/item?id=37189556) - [Speakers of different languages remember visual scenes differently](https://www.science.org/doi/10.1126/sciadv.adh0064)
 * [2023-08-19, 15:00:28](https://news.ycombinator.com/item?id=37189462) - [Rust devs push back as Serde project ships precompiled binaries](https://www.bleepingcomputer.com/news/security/rust-devs-push-back-as-serde-project-ships-precompiled-binaries/)
 * [2023-08-19, 14:35:34](https://news.ycombinator.com/item?id=37189216) - [Tesla repossessed my car due to an extreme oversight on their end](https://old.reddit.com/r/RealTesla/comments/15u8wuv/tesla_repossessed_my_car_due_to_an_extreme/)
+* [2023-08-19, 14:23:04](https://news.ycombinator.com/item?id=37189084) - [Man on the Clapham Omnibus](https://en.wikipedia.org/wiki/Man_on_the_Clapham_omnibus)
 * [2023-08-19, 14:21:06](https://news.ycombinator.com/item?id=37189067) - [Cheems – The shiba inu meme dog has died](https://www.the-sun.com/news/8879390/cheems-balltze-dog-meme-cheemsburger-viral-cancer/)
 * [2023-08-19, 13:51:12](https://news.ycombinator.com/item?id=37188791) - [AI-Generated Art Lacks Copyright Protection, D.C. Court Says](https://news.bloomberglaw.com/ip-law/ai-generated-art-lacks-copyright-protection-d-c-court-rules)
 * [2023-08-19, 13:46:17](https://news.ycombinator.com/item?id=37188736) - [WD refused to answer our questions about its self-wiping SanDisk SSDs](https://www.theverge.com/23837513/western-digital-sandisk-ssd-corrupted-deleted-questions)
