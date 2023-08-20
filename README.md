@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-20, 02:35:25](https://news.ycombinator.com/item?id=37195524) - [Flash mobs invade luxury L.A. retailers with brute force, overwhelming numbers](https://www.latimes.com/california/story/2023-08-16/smash-and-grabs-flash-mob-robberies-shopper-fear-retailer-concern)
 * [2023-08-20, 01:55:39](https://news.ycombinator.com/item?id=37195284) - [Parable of the Broken Window](https://en.wikipedia.org/wiki/Parable_of_the_broken_window)
 * [2023-08-20, 01:00:25](https://news.ycombinator.com/item?id=37194963) - [AMD's 7900 XTX achieves better value for Stable Diffusion than Nvidia RTX 4080](https://wccftech.com/amd-radeon-7900-xtx-offers-higher-generative-ai-performance-per-dollar-than-nvidia-rtx-4080-after-990-speedup/)
 * [2023-08-19, 23:59:08](https://news.ycombinator.com/item?id=37194618) - [Who’s Afraid of Lorne Michaels?](https://longreads.com/2023/08/17/lorne-michaels-saturday-night-live/)
@@ -10,6 +11,7 @@
 * [2023-08-19, 23:05:41](https://news.ycombinator.com/item?id=37194244) - [AirGradient Air Quality Monitor Pro Kit Review](https://bubelov.com/blog/2023/06/airgradient-pro-kit-review/)
 * [2023-08-19, 22:53:21](https://news.ycombinator.com/item?id=37194156) - [UCLA floor tiles decoded, pay homage to first internet message (2013)](https://newsroom.ucla.edu/stories/a-coded-message-hidden-in-floor-247232)
 * [2023-08-19, 21:52:29](https://news.ycombinator.com/item?id=37193670) - [Programming Language choices: Pascal, LOGO, Forth, Prolog, C (1986) [video]](https://clp.bbcrewind.co.uk/3d15323fe870ef44784832c02f4f7992)
+* [2023-08-19, 20:52:07](https://news.ycombinator.com/item?id=37193065) - [Indie Game Dev: Assessing Risk](https://derekyu.com/makegames/risk.html)
 * [2023-08-19, 20:37:43](https://news.ycombinator.com/item?id=37192915) - [What saved the ‘miracle house’ in Lahaina?](https://www.civilbeat.org/2023/08/what-saved-the-miracle-house-in-lahaina/)
 * [2023-08-19, 20:15:59](https://news.ycombinator.com/item?id=37192710) - [Clone-a-Lisa](https://vole.wtf/clone-a-lisa/)
 * [2023-08-19, 20:14:21](https://news.ycombinator.com/item?id=37192691) - [IP address blocking banned after anti-piracy court order hit Cloudflare](https://torrentfreak.com/ip-address-blocking-banned-after-anti-piracy-court-order-hit-cloudflare-230811/)
@@ -22,12 +24,10 @@
 * [2023-08-19, 13:38:22](https://news.ycombinator.com/item?id=37188659) - [Show HN: Rivet – Open-source game server management with Nomad and Rust](https://github.com/rivet-gg/rivet)
 * [2023-08-19, 12:21:28](https://news.ycombinator.com/item?id=37188015) - [Why do old books smell so good?](https://scienceswitch.com/2023/08/19/why-do-old-books-smell-so-good/)
 * [2023-08-19, 11:41:57](https://news.ycombinator.com/item?id=37187760) - [Windy.com: global weather website with live filters](https://www.windy.com)
-* [2023-08-19, 11:26:43](https://news.ycombinator.com/item?id=37187663) - [Stable Diffusion in C/C++](https://github.com/leejet/stable-diffusion.cpp)
 * [2023-08-19, 02:27:42](https://news.ycombinator.com/item?id=37184883) - [A new way to identify chiral molecules with light could vastly improve detection](https://phys.org/news/2023-08-chiral-molecules-vastly-efficiency.html)
 * [2023-08-18, 22:45:48](https://news.ycombinator.com/item?id=37183108) - [The Cost of Good Movies](https://soaringtwenties.substack.com/p/the-real-cost-of-good-movies-and)
 * [2023-08-18, 17:03:10](https://news.ycombinator.com/item?id=37178630) - [Astronomers Find Star Is a Powerful Magnet](https://skyandtelescope.org/astronomy-news/astronomers-find-strange-star-is-a-powerful-magnet/)
 * [2023-08-18, 15:42:41](https://news.ycombinator.com/item?id=37177203) - [Helidon Níma: A Java microservices framework based on virtual threads](https://helidon.io/nima)
-* [2023-08-18, 13:14:58](https://news.ycombinator.com/item?id=37175170) - [Structuring Your Infrastructure as Code](https://leebriggs.co.uk/blog/2023/08/17/structuring-iac)
 * [2023-08-18, 03:25:46](https://news.ycombinator.com/item?id=37171114) - [The Lost Script of Rapa Nui](https://www.historytoday.com/archive/missing-pieces/lost-script-rapa-nui)
 * [2023-08-17, 20:14:06](https://news.ycombinator.com/item?id=37167306) - [Spotify looked to ban white noise podcasts to become more profitable](https://www.bloomberg.com/news/newsletters/2023-08-17/white-noise-podcasters-are-costing-spotify-38-million-a-year)
 
