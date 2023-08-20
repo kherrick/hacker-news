@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-20](index.md)
 
+* [2023-08-20, 21:28:48](https://news.ycombinator.com/item?id=37203086) - [A raid on a Kansas newspaper likely broke the law, experts say. But which one?](https://abcnews.go.com/US/wireStory/raid-kansas-newspaper-broke-law-experts-102390880)
+* [2023-08-20, 21:27:54](https://news.ycombinator.com/item?id=37203078) - [Judge who signed Kansas newspaper search warrant had 2 DUI arrests, reports say](https://www.npr.org/2023/08/17/1194392001/judge-who-signed-kansas-newspaper-search-warrant-had-2-dui-arrests-reports-say)
 * [2023-08-20, 20:37:59](https://news.ycombinator.com/item?id=37202727) - [Jazz² Resurrection: Open-source Jazz Jackrabbit 2 reimplementation](http://deat.tk/jazz2/)
 * [2023-08-20, 20:23:52](https://news.ycombinator.com/item?id=37202620) - [How to Start a Profitable Roasting Business](https://bellwethercoffee.com/blog/how-to-start-a-profitable-roasting-business/)
 * [2023-08-20, 19:54:04](https://news.ycombinator.com/item?id=37202415) - [The Mystery of an Abandoned Cabinet Full of Kodachrome Slides in San Francisco](https://petapixel.com/2023/08/16/the-mystery-of-an-abandoned-cabinet-full-of-kodachrome-slides-in-san-francisco/)
