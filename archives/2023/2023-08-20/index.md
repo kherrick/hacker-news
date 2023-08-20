@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-20](index.md)
 
+* [2023-08-20, 12:11:04](https://news.ycombinator.com/item?id=37198361) - [Amazon Bestselling Book Published 2 Days into Maui Wildfires Raising Red Flags](https://goodereader.com/blog/electronic-readers/amazon-bestselling-book-published-2-days-into-maui-wildfires-raising-red-flags)
 * [2023-08-20, 11:08:52](https://news.ycombinator.com/item?id=37198020) - [AI-generated art cannot be copyrighted, rules a US Federal Judge](https://www.theverge.com/2023/8/19/23838458/ai-generated-art-no-copyright-district-court)
 * [2023-08-20, 11:02:35](https://news.ycombinator.com/item?id=37197986) - [Without Belief in a God, but Never Without Belief in a Devil](https://www.robkhenderson.com/p/without-belief-in-a-god-but-never)
 * [2023-08-20, 10:23:28](https://news.ycombinator.com/item?id=37197785) - [Finland ends homelessness and provides shelter for all in need (2020)](https://scoop.me/housing-first-finland-homelessness/)
