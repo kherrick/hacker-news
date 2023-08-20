@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-20, 08:32:12](https://news.ycombinator.com/item?id=37197226) - [Oz eyes UK online bill in fight with tech over encryption & child safety](https://www.theguardian.com/australia-news/2023/aug/20/australia-eyes-uk-online-bill-in-fight-with-tech-companies-over-encryption-child-safety)
 * [2023-08-20, 07:00:58](https://news.ycombinator.com/item?id=37196872) - [Raycast (YC W20) Is Hiring a macOS Engineer (Remote, UTC ± 3 Hours)](https://www.raycast.com/jobs/software-engineer-macos)
 * [2023-08-20, 05:44:41](https://news.ycombinator.com/item?id=37196461) - [Welcome to Datasette Cloud](https://www.datasette.cloud/blog/2023/welcome/)
 * [2023-08-20, 05:41:34](https://news.ycombinator.com/item?id=37196440) - [The ReMarkable Streaming Tool v2: Elevating Remote Work Efficiency](https://blog.owulveryck.info/2023/07/25/evolving-the-game-a-clientless-streaming-tool-for-remarkable-2.html)
@@ -26,7 +27,6 @@
 * [2023-08-19, 13:38:22](https://news.ycombinator.com/item?id=37188659) - [Show HN: Rivet – Open-source game server management with Nomad and Rust](https://github.com/rivet-gg/rivet)
 * [2023-08-19, 13:14:16](https://news.ycombinator.com/item?id=37188445) - [Onsen: A Peek into Japan’s Hot Springs](https://one-from-nippon.ghost.io/onsen-part-1/)
 * [2023-08-19, 02:27:42](https://news.ycombinator.com/item?id=37184883) - [A new way to identify chiral molecules with light could vastly improve detection](https://phys.org/news/2023-08-chiral-molecules-vastly-efficiency.html)
-* [2023-08-18, 22:45:48](https://news.ycombinator.com/item?id=37183108) - [The Cost of Good Movies](https://soaringtwenties.substack.com/p/the-real-cost-of-good-movies-and)
 * [2023-08-18, 17:03:10](https://news.ycombinator.com/item?id=37178630) - [Astronomers Find Star Is a Powerful Magnet](https://skyandtelescope.org/astronomy-news/astronomers-find-strange-star-is-a-powerful-magnet/)
 * [2023-08-18, 15:42:41](https://news.ycombinator.com/item?id=37177203) - [Helidon Níma: A Java microservices framework based on virtual threads](https://helidon.io/nima)
 * [2023-08-17, 20:14:06](https://news.ycombinator.com/item?id=37167306) - [Spotify looked to ban white noise podcasts to become more profitable](https://www.bloomberg.com/news/newsletters/2023-08-17/white-noise-podcasters-are-costing-spotify-38-million-a-year)
