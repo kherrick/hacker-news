@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-20](index.md)
 
+* [2023-08-20, 11:08:52](https://news.ycombinator.com/item?id=37198020) - [AI-generated art cannot be copyrighted, rules a US Federal Judge](https://www.theverge.com/2023/8/19/23838458/ai-generated-art-no-copyright-district-court)
 * [2023-08-20, 11:02:35](https://news.ycombinator.com/item?id=37197986) - [Without Belief in a God, but Never Without Belief in a Devil](https://www.robkhenderson.com/p/without-belief-in-a-god-but-never)
+* [2023-08-20, 10:23:28](https://news.ycombinator.com/item?id=37197785) - [Finland ends homelessness and provides shelter for all in need (2020)](https://scoop.me/housing-first-finland-homelessness/)
 * [2023-08-20, 10:02:41](https://news.ycombinator.com/item?id=37197699) - [RFC 9454: Update to OSPF Terminology, Changed Master/Slave to Leader/Follower](https://www.rfc-editor.org/rfc/rfc9454.html)
 * [2023-08-20, 09:58:52](https://news.ycombinator.com/item?id=37197686) - [The Pattern Language of Project Xanadu](https://maggieappleton.com/xanadu-patterns)
 * [2023-08-20, 08:39:07](https://news.ycombinator.com/item?id=37197257) - [Don’t Build a General Purpose API to Power Your Own Front End (2021)](https://max.engineer/server-informed-ui)

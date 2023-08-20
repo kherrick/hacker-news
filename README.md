@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-20, 11:08:52](https://news.ycombinator.com/item?id=37198020) - [AI-generated art cannot be copyrighted, rules a US Federal Judge](https://www.theverge.com/2023/8/19/23838458/ai-generated-art-no-copyright-district-court)
 * [2023-08-20, 11:02:35](https://news.ycombinator.com/item?id=37197986) - [Without Belief in a God, but Never Without Belief in a Devil](https://www.robkhenderson.com/p/without-belief-in-a-god-but-never)
+* [2023-08-20, 10:23:28](https://news.ycombinator.com/item?id=37197785) - [Finland ends homelessness and provides shelter for all in need (2020)](https://scoop.me/housing-first-finland-homelessness/)
 * [2023-08-20, 09:58:52](https://news.ycombinator.com/item?id=37197686) - [The Pattern Language of Project Xanadu](https://maggieappleton.com/xanadu-patterns)
 * [2023-08-20, 08:39:07](https://news.ycombinator.com/item?id=37197257) - [Don’t Build a General Purpose API to Power Your Own Front End (2021)](https://max.engineer/server-informed-ui)
 * [2023-08-20, 08:36:18](https://news.ycombinator.com/item?id=37197243) - [Adobe's co-founder John Warnock dies at 82](https://www.reuters.com/technology/adobes-co-founder-john-warnock-dies-82-2023-08-20/)
@@ -26,10 +28,8 @@
 * [2023-08-19, 20:33:01](https://news.ycombinator.com/item?id=37192868) - [When the Beatles Recorded “Twist and Shout”](https://lithub.com/it-conveyed-them-when-the-beatles-recorded-twist-and-shout/)
 * [2023-08-19, 20:15:59](https://news.ycombinator.com/item?id=37192710) - [Clone-a-Lisa](https://vole.wtf/clone-a-lisa/)
 * [2023-08-19, 16:57:32](https://news.ycombinator.com/item?id=37190743) - [Show HN: Aviation navigation log on $20 receipt printer](https://carloslagoa.com/blog/flipreps/flipreps.html)
-* [2023-08-19, 13:38:22](https://news.ycombinator.com/item?id=37188659) - [Show HN: Rivet – Open-source game server management with Nomad and Rust](https://github.com/rivet-gg/rivet)
 * [2023-08-19, 02:27:42](https://news.ycombinator.com/item?id=37184883) - [A new way to identify chiral molecules with light could vastly improve detection](https://phys.org/news/2023-08-chiral-molecules-vastly-efficiency.html)
 * [2023-08-18, 17:03:10](https://news.ycombinator.com/item?id=37178630) - [Astronomers Find Star Is a Powerful Magnet](https://skyandtelescope.org/astronomy-news/astronomers-find-strange-star-is-a-powerful-magnet/)
-* [2023-08-17, 20:14:06](https://news.ycombinator.com/item?id=37167306) - [Spotify looked to ban white noise podcasts to become more profitable](https://www.bloomberg.com/news/newsletters/2023-08-17/white-noise-podcasters-are-costing-spotify-38-million-a-year)
 
 ## [Archives](archives/index.md)
 
