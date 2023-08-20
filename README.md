@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-20, 02:29:22](https://news.ycombinator.com/item?id=37195483) - [Executive Function Theft](https://hedgehoglibrarian.com/2023/08/14/executive-function-theft/)
-* [2023-08-20, 01:55:39](https://news.ycombinator.com/item?id=37195284) - [Parable of the Broken Window](https://en.wikipedia.org/wiki/Parable_of_the_broken_window)
 * [2023-08-20, 01:00:25](https://news.ycombinator.com/item?id=37194963) - [AMD's 7900 XTX achieves better value for Stable Diffusion than Nvidia RTX 4080](https://wccftech.com/amd-radeon-7900-xtx-offers-higher-generative-ai-performance-per-dollar-than-nvidia-rtx-4080-after-990-speedup/)
 * [2023-08-19, 23:59:08](https://news.ycombinator.com/item?id=37194618) - [Who’s Afraid of Lorne Michaels?](https://longreads.com/2023/08/17/lorne-michaels-saturday-night-live/)
 * [2023-08-19, 23:15:58](https://news.ycombinator.com/item?id=37194317) - [Mousetrap.jl: a GUI library for Julia and C++ that wraps GTK4](https://github.com/Clemapfel/mousetrap.jl)
@@ -21,6 +20,7 @@
 * [2023-08-19, 14:49:30](https://news.ycombinator.com/item?id=37189370) - [A Man Who Transformed American Theater](https://www.theatlantic.com/magazine/archive/2023/09/august-wilson-plays-patti-hartigan-book/674770/)
 * [2023-08-19, 14:23:04](https://news.ycombinator.com/item?id=37189084) - [Man on the Clapham Omnibus](https://en.wikipedia.org/wiki/Man_on_the_Clapham_omnibus)
 * [2023-08-19, 13:38:22](https://news.ycombinator.com/item?id=37188659) - [Show HN: Rivet – Open-source game server management with Nomad and Rust](https://github.com/rivet-gg/rivet)
+* [2023-08-19, 12:32:51](https://news.ycombinator.com/item?id=37188102) - [Show HN: A simple, open-source Notion-like avatar generator](https://www.avatartion.com)
 * [2023-08-19, 12:21:28](https://news.ycombinator.com/item?id=37188015) - [Why do old books smell so good?](https://scienceswitch.com/2023/08/19/why-do-old-books-smell-so-good/)
 * [2023-08-19, 11:41:57](https://news.ycombinator.com/item?id=37187760) - [Windy.com: global weather website with live filters](https://www.windy.com)
 * [2023-08-19, 02:27:42](https://news.ycombinator.com/item?id=37184883) - [A new way to identify chiral molecules with light could vastly improve detection](https://phys.org/news/2023-08-chiral-molecules-vastly-efficiency.html)
