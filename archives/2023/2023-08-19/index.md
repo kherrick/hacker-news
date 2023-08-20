@@ -48,6 +48,7 @@
 * [2023-08-19, 15:17:23](https://news.ycombinator.com/item?id=37189616) - [China’s defeated youth: Young Chinese have little hope for the future](https://www.economist.com/briefing/2023/08/17/chinas-defeated-youth)
 * [2023-08-19, 15:09:09](https://news.ycombinator.com/item?id=37189556) - [Speakers of different languages remember visual scenes differently](https://www.science.org/doi/10.1126/sciadv.adh0064)
 * [2023-08-19, 15:00:28](https://news.ycombinator.com/item?id=37189462) - [Rust devs push back as Serde project ships precompiled binaries](https://www.bleepingcomputer.com/news/security/rust-devs-push-back-as-serde-project-ships-precompiled-binaries/)
+* [2023-08-19, 14:49:30](https://news.ycombinator.com/item?id=37189370) - [A Man Who Transformed American Theater](https://www.theatlantic.com/magazine/archive/2023/09/august-wilson-plays-patti-hartigan-book/674770/)
 * [2023-08-19, 14:35:34](https://news.ycombinator.com/item?id=37189216) - [Tesla repossessed my car due to an extreme oversight on their end](https://old.reddit.com/r/RealTesla/comments/15u8wuv/tesla_repossessed_my_car_due_to_an_extreme/)
 * [2023-08-19, 14:23:04](https://news.ycombinator.com/item?id=37189084) - [Man on the Clapham Omnibus](https://en.wikipedia.org/wiki/Man_on_the_Clapham_omnibus)
 * [2023-08-19, 14:21:06](https://news.ycombinator.com/item?id=37189067) - [Cheems – The shiba inu meme dog has died](https://www.the-sun.com/news/8879390/cheems-balltze-dog-meme-cheemsburger-viral-cancer/)
