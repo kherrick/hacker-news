@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-08-20, 08:32:12",
-      "https://news.ycombinator.com/item?id=37197226"
-    ],
-    [
-      "Oz eyes UK online bill in fight with tech over encryption & child safety",
-      "https://www.theguardian.com/australia-news/2023/aug/20/australia-eyes-uk-online-bill-in-fight-with-tech-companies-over-encryption-child-safety"
-    ]
-  ],
-  [
-    [
       "2023-08-20, 08:31:00",
       "https://news.ycombinator.com/item?id=37197220"
     ],
@@ -257,6 +247,16 @@
     [
       "OpenZFS – add disks to existing RAIDZ",
       "https://github.com/openzfs/zfs/pull/15022"
+    ]
+  ],
+  [
+    [
+      "2023-08-19, 13:38:22",
+      "https://news.ycombinator.com/item?id=37188659"
+    ],
+    [
+      "Show HN: Rivet – Open-source game server management with Nomad and Rust",
+      "https://github.com/rivet-gg/rivet"
     ]
   ],
   [
