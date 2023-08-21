@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2023-08-21, 18:08:07",
+      "https://news.ycombinator.com/item?id=37213190"
+    ],
+    [
+      "Latest Android Runtime (ART) update led to apps starting 30% faster",
+      "https://9to5google.com/2023/08/21/android-runtime-13-14-updates/"
+    ]
+  ],
+  [
+    [
       "2023-08-21, 18:01:41",
       "https://news.ycombinator.com/item?id=37213107"
     ],
@@ -267,16 +277,6 @@
     [
       "Building a digital music collection in 2023",
       "https://www.worthe-it.co.za/blog/2023-08-20-building-a-digital-music-collection-in-2023.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-21, 05:58:53",
-      "https://news.ycombinator.com/item?id=37205902"
-    ],
-    [
-      "Taming High Cardinality by sharding a stream",
-      "https://last9.io/blog/how-we-tame-high-cardinality-by-sharding-a-stream/"
     ]
   ],
   [
