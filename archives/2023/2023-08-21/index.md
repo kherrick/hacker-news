@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
 * [2023-08-21, 15:13:47](https://news.ycombinator.com/item?id=37210650) - [American workers are demanding almost $80k a year to take a new job](https://www.cnbc.com/2023/08/21/american-workers-are-demanding-almost-80000-a-year-to-take-a-new-job.html)
+* [2023-08-21, 15:11:21](https://news.ycombinator.com/item?id=37210615) - [''Vinegar Syndrome'' Decaying Archives of Cellulose Acetate Microfilm Stock](https://www.cbc.ca/news/canada/toronto/vinegar-syndrome-acetate-film-1.6939032)
 * [2023-08-21, 14:56:36](https://news.ycombinator.com/item?id=37210397) - [Flatpak is not the future (2021)](https://ludocode.com/blog/flatpak-is-not-the-future)
 * [2023-08-21, 14:19:18](https://news.ycombinator.com/item?id=37209888) - [All of the vehicle license plates available in America](https://www.beautifulpublicdata.com/all-of-the-license-plates-in-the-united-states/)
 * [2023-08-21, 14:02:57](https://news.ycombinator.com/item?id=37209684) - [Duo Outage](https://status.duo.com)
 * [2023-08-21, 13:39:37](https://news.ycombinator.com/item?id=37209460) - [Study: Inflammation drives social media use](https://www.buffalo.edu/news/releases/2023/08/lee-inflammation-drives-social-media-use.html)
 * [2023-08-21, 13:24:43](https://news.ycombinator.com/item?id=37209279) - [Taos Operating System (1995)](http://www.uruk.org/emu/Taos.html)
+* [2023-08-21, 12:49:16](https://news.ycombinator.com/item?id=37208812) - [[Ask HN] How many submissions have you accidentally flagged?](https://news.ycombinator.com/item?id=37208812)
 * [2023-08-21, 12:45:01](https://news.ycombinator.com/item?id=37208761) - [Universe 25: An Experiment with Disturbing Conclusions](https://exploringyourmind.com/universe-25-an-experiment-with-disturbing-conclusions/)
 * [2023-08-21, 12:44:21](https://news.ycombinator.com/item?id=37208751) - [Wi-Fi sniffers strapped to drones–Mike Lindell’s odd plan to stop election fraud](https://arstechnica.com/tech-policy/2023/08/wi-fi-sniffers-strapped-to-drones-mike-lindells-odd-plan-to-stop-election-fraud/)
 * [2023-08-21, 12:08:56](https://news.ycombinator.com/item?id=37208378) - [Anyone incarcerated 2+ years is going to return to their Google account deleted](https://twitter.com/GrahamStarr/status/1693119093526671859)
