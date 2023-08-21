@@ -70,6 +70,7 @@
 * [2023-08-20, 10:02:41](https://news.ycombinator.com/item?id=37197699) - [RFC 9454: Update to OSPF Terminology, Changed Master/Slave to Leader/Follower](https://www.rfc-editor.org/rfc/rfc9454.html)
 * [2023-08-20, 09:58:52](https://news.ycombinator.com/item?id=37197686) - [The Pattern Language of Project Xanadu](https://maggieappleton.com/xanadu-patterns)
 * [2023-08-20, 09:36:40](https://news.ycombinator.com/item?id=37197575) - [Show HN: Superfunctions – AI prompt templates as an API](https://superfunctions.versoly.page)
+* [2023-08-20, 09:00:25](https://news.ycombinator.com/item?id=37197358) - [Enhancement of mosquito trapping efficiency using pulse width modulated LEDs](https://www.nature.com/articles/srep40074)
 * [2023-08-20, 08:39:07](https://news.ycombinator.com/item?id=37197257) - [Don’t Build a General Purpose API to Power Your Own Front End (2021)](https://max.engineer/server-informed-ui)
 * [2023-08-20, 08:36:18](https://news.ycombinator.com/item?id=37197243) - [Adobe's co-founder John Warnock dies at 82](https://www.reuters.com/technology/adobes-co-founder-john-warnock-dies-82-2023-08-20/)
 * [2023-08-20, 08:32:12](https://news.ycombinator.com/item?id=37197226) - [Oz eyes UK online bill in fight with tech over encryption & child safety](https://www.theguardian.com/australia-news/2023/aug/20/australia-eyes-uk-online-bill-in-fight-with-tech-companies-over-encryption-child-safety)
