@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-21, 05:13:16](https://news.ycombinator.com/item?id=37205717) - [Out-of-memory victim selection with BPF](https://lwn.net/SubscriberLink/941614/f873a0ec485e01c5/)
-* [2023-08-21, 04:59:01](https://news.ycombinator.com/item?id=37205647) - [Precompiled binaries removed from serde v1.0.184](https://github.com/serde-rs/serde/releases/tag/v1.0.184)
 * [2023-08-21, 03:09:20](https://news.ycombinator.com/item?id=37205053) - [FreeBSD replaces bubblesort with mergesort on SYSINTs](https://twitter.com/cperciva/status/1693127769901969772)
 * [2023-08-21, 03:04:51](https://news.ycombinator.com/item?id=37205029) - [Anxious brains redirect emotion regulation](https://www.nature.com/articles/s41467-023-40666-3)
 * [2023-08-21, 02:58:28](https://news.ycombinator.com/item?id=37204996) - [CLAs create different issues than making (small) open source contributions](https://utcc.utoronto.ca/~cks/space/blog/tech/CLAsImpedeContributionsII)
@@ -13,6 +12,7 @@
 * [2023-08-20, 22:34:51](https://news.ycombinator.com/item?id=37203584) - [The Republic of Cows](https://hakaimagazine.com/features/the-republic-of-cows/)
 * [2023-08-20, 22:24:59](https://news.ycombinator.com/item?id=37203511) - [TimeGuessr: Guess what year a photograph was taken](https://timeguessr.com/)
 * [2023-08-20, 22:05:55](https://news.ycombinator.com/item?id=37203354) - [JSON Schema Store](https://www.schemastore.org/json/)
+* [2023-08-20, 21:45:19](https://news.ycombinator.com/item?id=37203196) - [OpenCopilot – Open source AI copilot for your own SaaS product](https://github.com/openchatai/OpenCopilot)
 * [2023-08-20, 21:26:22](https://news.ycombinator.com/item?id=37203067) - [16-bit Serial Homebrew CPU](https://www.jiristepanovsky.cz/project.php?p=23cpu)
 * [2023-08-20, 20:37:59](https://news.ycombinator.com/item?id=37202727) - [Jazz² Resurrection: Open-source Jazz Jackrabbit 2 reimplementation](http://deat.tk/jazz2/)
 * [2023-08-20, 20:36:30](https://news.ycombinator.com/item?id=37202714) - [Ruby's hash is a Swiss-army knife](https://www.akshaykhot.com/ruby-hash-is-a-swiss-army-knife/)
