@@ -45,6 +45,7 @@
 * [2023-08-21, 11:49:30](https://news.ycombinator.com/item?id=37208211) - [The Ideal Viewport Doesn't Exist](https://viewports.fyi/)
 * [2023-08-21, 11:31:15](https://news.ycombinator.com/item?id=37208083) - [GNU Parallel, where have you been all my life?](https://alexplescan.com/posts/2023/08/20/gnu-parallel/)
 * [2023-08-21, 09:55:14](https://news.ycombinator.com/item?id=37207329) - [80% of Companies do not need Snowflake or Databricks](https://kjhealey.medium.com/cached-takes-80-of-companies-do-not-need-snowflake-or-databricks-5ebda64c0853)
+* [2023-08-21, 09:40:25](https://news.ycombinator.com/item?id=37207237) - [A retiring consultant’s advice on consultants](https://www.economist.com/business/2023/08/17/a-retiring-consultants-advice-on-consultants)
 * [2023-08-21, 09:23:12](https://news.ycombinator.com/item?id=37207107) - [Tesla owners say they've been trapped inside their EVs after they lost power](https://www.businessinsider.com/how-to-manually-open-tesla-door-if-battery-power-dies-2023-8)
 * [2023-08-21, 08:56:36](https://news.ycombinator.com/item?id=37206953) - [Last rites for the UK Online Safety Bill, an idea too stupid to notice it's dead](https://www.theregister.com/2023/08/21/opinion_column_monday/)
 * [2023-08-21, 08:08:27](https://news.ycombinator.com/item?id=37206651) - [English is a pictographic language with 26 radicals](https://www.smbc-comics.com/comic/pronounce)
