@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-21, 03:43:49](https://news.ycombinator.com/item?id=37205215) - [Texas electricity prices soar 6k% as heat wave is expected to shatter records](https://desdemonadespair.net/2023/08/texas-electricity-prices-soar-6000-percent-as-a-fresh-heat-wave-is-expected-to-shatter-records-spot-electricity-prices-jumped-to-4750-per-megawatt-hour-from-the-average-of-75.html)
-* [2023-08-21, 03:09:20](https://news.ycombinator.com/item?id=37205053) - [FreeBSD replaces bubblesort with mergesort on SYSINTs, results in 100x speed](https://twitter.com/cperciva/status/1693127769901969772)
+* [2023-08-21, 03:09:20](https://news.ycombinator.com/item?id=37205053) - [FreeBSD replaces bubblesort with mergesort on SYSINTs](https://twitter.com/cperciva/status/1693127769901969772)
 * [2023-08-21, 03:04:51](https://news.ycombinator.com/item?id=37205029) - [Anxious brains redirect emotion regulation](https://www.nature.com/articles/s41467-023-40666-3)
 * [2023-08-21, 02:58:28](https://news.ycombinator.com/item?id=37204996) - [CLAs create different issues than making (small) open source contributions](https://utcc.utoronto.ca/~cks/space/blog/tech/CLAsImpedeContributionsII)
 * [2023-08-21, 02:47:52](https://news.ycombinator.com/item?id=37204950) - [StableVideo: Text-Driven Consistency-Aware Diffusion Video Editing](https://rese1f.github.io/StableVideo/)
@@ -9,10 +8,10 @@
 * [2023-08-21, 02:12:35](https://news.ycombinator.com/item?id=37204775) - [GNU Radio software-defined radio (SDR) implementation of a LoRa transceiver](https://github.com/tapparelj/gr-lora_sdr)
 * [2023-08-21, 00:18:06](https://news.ycombinator.com/item?id=37204193) - [Useful San Francisco and Bay Area History Resources](https://sfmemory.org/)
 * [2023-08-20, 23:01:31](https://news.ycombinator.com/item?id=37203761) - [Cell therapy repairs cornea damage with patient's stem cells gives trial results](https://medicalxpress.com/news/2023-08-cell-therapy-cornea-patient-stem.html)
+* [2023-08-20, 22:34:51](https://news.ycombinator.com/item?id=37203584) - [The Republic of Cows](https://hakaimagazine.com/features/the-republic-of-cows/)
 * [2023-08-20, 22:24:59](https://news.ycombinator.com/item?id=37203511) - [TimeGuessr: Guess what year a photograph was taken](https://timeguessr.com/)
 * [2023-08-20, 22:05:55](https://news.ycombinator.com/item?id=37203354) - [JSON Schema Store](https://www.schemastore.org/json/)
 * [2023-08-20, 21:45:19](https://news.ycombinator.com/item?id=37203196) - [OpenCopilot – Open source AI copilot for your own SaaS product](https://github.com/openchatai/OpenCopilot)
-* [2023-08-20, 21:28:48](https://news.ycombinator.com/item?id=37203086) - [A raid on a Kansas newspaper likely broke the law, experts say. But which one?](https://abcnews.go.com/US/wireStory/raid-kansas-newspaper-broke-law-experts-102390880)
 * [2023-08-20, 21:26:22](https://news.ycombinator.com/item?id=37203067) - [16-bit Serial Homebrew CPU](https://www.jiristepanovsky.cz/project.php?p=23cpu)
 * [2023-08-20, 20:37:59](https://news.ycombinator.com/item?id=37202727) - [Jazz² Resurrection: Open-source Jazz Jackrabbit 2 reimplementation](http://deat.tk/jazz2/)
 * [2023-08-20, 20:36:30](https://news.ycombinator.com/item?id=37202714) - [Ruby's hash is a Swiss-army knife](https://www.akshaykhot.com/ruby-hash-is-a-swiss-army-knife/)
@@ -22,7 +21,6 @@
 * [2023-08-20, 16:57:42](https://news.ycombinator.com/item?id=37200909) - [Run a macOS VM on Apple Silicon from a double-click with Vimy](https://eclecticlight.co/2023/08/17/run-a-macos-vm-on-apple-silicon-from-a-double-click-with-vimy/)
 * [2023-08-20, 16:28:13](https://news.ycombinator.com/item?id=37200615) - [So you want to learn physics (2021)](https://www.susanrigetti.com/physics)
 * [2023-08-20, 14:35:57](https://news.ycombinator.com/item?id=37199549) - [Ned Wright's JavaScript Cosmology Calculator](https://www.astro.ucla.edu/~wright/CosmoCalc.html)
-* [2023-08-20, 14:30:31](https://news.ycombinator.com/item?id=37199495) - [Kris Nóva has died](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/)
 * [2023-08-20, 14:28:04](https://news.ycombinator.com/item?id=37199479) - [VidCutter: A program for lossless video cutting](https://github.com/ozmartian/vidcutter)
 * [2023-08-20, 14:24:58](https://news.ycombinator.com/item?id=37199449) - [macOS updates for Apple Silicon Macs are larger than reported](https://eclecticlight.co/2023/08/19/macos-updates-for-apple-silicon-macs-are-larger-than-reported/)
 * [2023-08-20, 13:45:50](https://news.ycombinator.com/item?id=37199078) - [De Facto Ports](https://matt-rickard.com/de-facto-ports)
@@ -30,6 +28,8 @@
 * [2023-08-20, 08:36:18](https://news.ycombinator.com/item?id=37197243) - [John Warnock has died](https://www.reuters.com/technology/adobes-co-founder-john-warnock-dies-82-2023-08-20/)
 * [2023-08-19, 23:29:28](https://news.ycombinator.com/item?id=37194394) - [Electrical detection of RNA cancer biomarkers at the single-molecule level](https://medicalxpress.com/news/2023-08-electrical-rna-cancer-biomarkers-single-molecule.html)
 * [2023-08-19, 21:46:26](https://news.ycombinator.com/item?id=37193599) - [Vector databases: analyzing the trade-offs](https://thedataquarry.com/posts/vector-db-4/)
+* [2023-08-19, 21:33:37](https://news.ycombinator.com/item?id=37193461) - [Blue-light glasses may not reduce eyestrain from screens, study says](https://www.washingtonpost.com/wellness/2023/08/17/blue-light-filter-glasses-eye/)
+* [2023-08-19, 10:41:12](https://news.ycombinator.com/item?id=37187388) - [Atari Tempest: Time-Lapse Photography (2016)](https://arcadeblogger.com/2016/07/15/atari-tempest-photography/)
 
 ## [Archives](archives/index.md)
 

@@ -72,6 +72,7 @@
 * [2023-08-19, 11:56:01](https://news.ycombinator.com/item?id=37187837) - [Amsterdam to use “noise cameras” against too loud cars](https://nltimes.nl/2023/08/11/amsterdam-use-noise-cameras-loud-cars)
 * [2023-08-19, 11:41:57](https://news.ycombinator.com/item?id=37187760) - [Windy.com: global weather website with live filters](https://www.windy.com)
 * [2023-08-19, 11:26:43](https://news.ycombinator.com/item?id=37187663) - [Stable Diffusion in pure C/C++](https://github.com/leejet/stable-diffusion.cpp)
+* [2023-08-19, 10:41:12](https://news.ycombinator.com/item?id=37187388) - [Atari Tempest: Time-Lapse Photography (2016)](https://arcadeblogger.com/2016/07/15/atari-tempest-photography/)
 * [2023-08-19, 10:28:26](https://news.ycombinator.com/item?id=37187320) - [Ask HN: How to contract for US companies as EU national](https://news.ycombinator.com/item?id=37187320)
 * [2023-08-19, 10:21:27](https://news.ycombinator.com/item?id=37187278) - [Flipping the model presents a new way to treat sleep apnoea](https://news.flinders.edu.au/blog/2023/08/08/flipping-the-model-presents-a-new-way-to-treat-sleep-apnoea/)
 * [2023-08-19, 09:52:35](https://news.ycombinator.com/item?id=37187138) - [Bambu Owners Woke Up Yesterday to Find Their 3D Printers Had Gone Rogue](https://themessenger.com/tech/bambu-owners-3d-printers-malfunction-cloud-print-twice)
