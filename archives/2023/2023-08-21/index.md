@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
+* [2023-08-21, 14:56:36](https://news.ycombinator.com/item?id=37210397) - [Flatpak is not the future (2021)](https://ludocode.com/blog/flatpak-is-not-the-future)
 * [2023-08-21, 14:19:18](https://news.ycombinator.com/item?id=37209888) - [All of the vehicle license plates available in America](https://www.beautifulpublicdata.com/all-of-the-license-plates-in-the-united-states/)
 * [2023-08-21, 14:02:57](https://news.ycombinator.com/item?id=37209684) - [Duo Outage](https://status.duo.com)
 * [2023-08-21, 13:39:37](https://news.ycombinator.com/item?id=37209460) - [Study: Inflammation drives social media use](https://www.buffalo.edu/news/releases/2023/08/lee-inflammation-drives-social-media-use.html)
