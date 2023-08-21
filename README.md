@@ -12,7 +12,6 @@
 * [2023-08-21, 15:33:45](https://news.ycombinator.com/item?id=37210961) - [New study measures grammatical complexity of 1,314 languages](https://phys.org/news/2023-08-evolution-complex-grammars-grammatical-complexity.html)
 * [2023-08-21, 15:33:11](https://news.ycombinator.com/item?id=37210953) - [Don't Fire Your Illustrator](https://sambleckley.com/writing/dont-fire-your-illustrator.html)
 * [2023-08-21, 15:25:30](https://news.ycombinator.com/item?id=37210837) - [Kansas Bureau of Investigation takes lead following police raid of newspaper](https://www.kansascity.com/news/politics-government/article278253028.html)
-* [2023-08-21, 15:11:21](https://news.ycombinator.com/item?id=37210615) - [''Vinegar Syndrome'' Decaying Archives of Cellulose Acetate Microfilm Stock](https://www.cbc.ca/news/canada/toronto/vinegar-syndrome-acetate-film-1.6939032)
 * [2023-08-21, 15:09:20](https://news.ycombinator.com/item?id=37210584) - [I come here not to bury Delphi, but to praise it (2019)](https://accu.org/journals/overload/27/153/martin_2703/)
 * [2023-08-21, 13:39:37](https://news.ycombinator.com/item?id=37209460) - [Study: Inflammation drives social media use](https://www.buffalo.edu/news/releases/2023/08/lee-inflammation-drives-social-media-use.html)
 * [2023-08-21, 13:27:20](https://news.ycombinator.com/item?id=37209309) - [Suppose I Wanted to Kill a Lot of Pilots](https://newsletter.butwhatfor.com/p/invert-always-invert-avoid-failure)
@@ -29,6 +28,7 @@
 * [2023-08-20, 22:50:43](https://news.ycombinator.com/item?id=37203690) - [The headline-grabbing debate over which explorer reached the North Pole soonest](https://www.nytimes.com/2023/06/04/books/review/battle-of-ink-and-ice-darrell-hartman.html)
 * [2023-08-20, 20:38:52](https://news.ycombinator.com/item?id=37202732) - [12,000-year-old sequins hint at a shared culture in Indonesian islands](https://cosmosmagazine.com/history/archaeology/12000-year-old-sequins-hint-at-a-shared-culture-in-indonesian-islands/)
 * [2023-08-20, 10:52:19](https://news.ycombinator.com/item?id=37197921) - [Transcoding Latin 1 strings to UTF-8 strings at 12 GB/s using AVX-512](https://lemire.me/blog/2023/08/18/transcoding-latin-1-strings-to-utf-8-strings-at-12-gb-s-using-avx-512/)
+* [2023-08-20, 08:36:18](https://news.ycombinator.com/item?id=37197243) - [John Warnock has died](https://www.reuters.com/technology/adobes-co-founder-john-warnock-dies-82-2023-08-20/)
 * [2023-08-20, 03:56:00](https://news.ycombinator.com/item?id=37195977) - [Dead Brands of Computing Past: Soltek](https://www.cpushack.com/2023/08/19/dead-brands-of-computing-past-soltek/)
 
 ## [Archives](archives/index.md)
