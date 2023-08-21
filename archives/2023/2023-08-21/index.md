@@ -6,6 +6,7 @@
 
 * [2023-08-21, 09:55:14](https://news.ycombinator.com/item?id=37207329) - [80% of Companies do not need Snowflake or Databricks](https://kjhealey.medium.com/cached-takes-80-of-companies-do-not-need-snowflake-or-databricks-5ebda64c0853)
 * [2023-08-21, 09:23:12](https://news.ycombinator.com/item?id=37207107) - [Tesla owners say they've been trapped inside their EVs after they lost power](https://www.businessinsider.com/how-to-manually-open-tesla-door-if-battery-power-dies-2023-8)
+* [2023-08-21, 08:56:36](https://news.ycombinator.com/item?id=37206953) - [Last rites for the UK Online Safety Bill, an idea too stupid to notice it's dead](https://www.theregister.com/2023/08/21/opinion_column_monday/)
 * [2023-08-21, 08:08:27](https://news.ycombinator.com/item?id=37206651) - [English is a pictographic language with 26 radicals](https://www.smbc-comics.com/comic/pronounce)
 * [2023-08-21, 07:20:26](https://news.ycombinator.com/item?id=37206353) - [Be careful of the examples you use. They stick](https://blog.thinkst.com/2023/08/default-behaviour-sticks-and-so-do-examples.html)
 * [2023-08-21, 06:26:41](https://news.ycombinator.com/item?id=37206061) - [A man who can talk backwards](https://linguischtick.wordpress.com/2017/04/06/the-man-who-can-talk-backwards/)

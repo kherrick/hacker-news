@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-21, 09:55:14](https://news.ycombinator.com/item?id=37207329) - [Most companies do not need Snowflake or Databricks](https://kjhealey.medium.com/cached-takes-80-of-companies-do-not-need-snowflake-or-databricks-5ebda64c0853)
+* [2023-08-21, 08:56:36](https://news.ycombinator.com/item?id=37206953) - [Last rites for the UK Online Safety Bill, an idea too stupid to notice it's dead](https://www.theregister.com/2023/08/21/opinion_column_monday/)
 * [2023-08-21, 07:20:26](https://news.ycombinator.com/item?id=37206353) - [Be careful of the examples you use. They stick](https://blog.thinkst.com/2023/08/default-behaviour-sticks-and-so-do-examples.html)
 * [2023-08-21, 06:26:41](https://news.ycombinator.com/item?id=37206061) - [A man who can talk backwards (2017)](https://linguischtick.wordpress.com/2017/04/06/the-man-who-can-talk-backwards/)
-* [2023-08-21, 06:24:50](https://news.ycombinator.com/item?id=37206052) - [To Conference Organisers Everywhere](https://arunraghavan.net/2023/08/to-conference-organisers-everywhere/)
+* [2023-08-21, 06:24:50](https://news.ycombinator.com/item?id=37206052) - [Conferences are inadvertently excluding many attendees from foreign countries](https://arunraghavan.net/2023/08/to-conference-organisers-everywhere/)
 * [2023-08-21, 05:16:03](https://news.ycombinator.com/item?id=37205731) - [We’re All Just Temporarily Abled](https://blog.jim-nielsen.com/2023/temporarily-abled/)
 * [2023-08-21, 05:13:16](https://news.ycombinator.com/item?id=37205717) - [Out-of-memory victim selection with BPF](https://lwn.net/SubscriberLink/941614/f873a0ec485e01c5/)
 * [2023-08-21, 04:59:01](https://news.ycombinator.com/item?id=37205647) - [Precompiled binaries removed from serde v1.0.184](https://github.com/serde-rs/serde/releases/tag/v1.0.184)
@@ -29,7 +30,6 @@
 * [2023-08-20, 04:45:22](https://news.ycombinator.com/item?id=37196192) - [This Boat Don't Float (2009)](https://www.startribune.com/this-boat-don-t-float/49134952/)
 * [2023-08-19, 21:33:37](https://news.ycombinator.com/item?id=37193461) - [Blue-light glasses may not reduce eyestrain from screens, study says](https://www.washingtonpost.com/wellness/2023/08/17/blue-light-filter-glasses-eye/)
 * [2023-08-19, 10:41:12](https://news.ycombinator.com/item?id=37187388) - [Atari Tempest: Time-Lapse Photography (2016)](https://arcadeblogger.com/2016/07/15/atari-tempest-photography/)
-* [2023-08-19, 09:53:24](https://news.ycombinator.com/item?id=37187145) - [A Fistful of Tropes](http://www.antipope.org/charlie/blog-static/2023/08/a-fistful-of-tropes.html)
 
 ## [Archives](archives/index.md)
 
