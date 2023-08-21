@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-21, 09:55:14](https://news.ycombinator.com/item?id=37207329) - [80% of Companies do not need Snowflake or Databricks](https://kjhealey.medium.com/cached-takes-80-of-companies-do-not-need-snowflake-or-databricks-5ebda64c0853)
 * [2023-08-21, 09:23:12](https://news.ycombinator.com/item?id=37207107) - [Tesla owners say they've been trapped inside their EVs after they lost power](https://www.businessinsider.com/how-to-manually-open-tesla-door-if-battery-power-dies-2023-8)
 * [2023-08-21, 07:20:26](https://news.ycombinator.com/item?id=37206353) - [Be careful of the examples you use. They stick](https://blog.thinkst.com/2023/08/default-behaviour-sticks-and-so-do-examples.html)
 * [2023-08-21, 06:26:41](https://news.ycombinator.com/item?id=37206061) - [A man who can talk backwards (2017)](https://linguischtick.wordpress.com/2017/04/06/the-man-who-can-talk-backwards/)
@@ -9,7 +10,6 @@
 * [2023-08-21, 04:59:01](https://news.ycombinator.com/item?id=37205647) - [Precompiled binaries removed from serde v1.0.184](https://github.com/serde-rs/serde/releases/tag/v1.0.184)
 * [2023-08-21, 03:09:20](https://news.ycombinator.com/item?id=37205053) - [FreeBSD replaces bubblesort with mergesort on SYSINTs](https://twitter.com/cperciva/status/1693127769901969772)
 * [2023-08-21, 03:04:51](https://news.ycombinator.com/item?id=37205029) - [Anxious brains redirect emotion regulation](https://www.nature.com/articles/s41467-023-40666-3)
-* [2023-08-21, 02:58:28](https://news.ycombinator.com/item?id=37204996) - [CLAs create different issues than making (small) open source contributions](https://utcc.utoronto.ca/~cks/space/blog/tech/CLAsImpedeContributionsII)
 * [2023-08-21, 02:47:52](https://news.ycombinator.com/item?id=37204950) - [StableVideo: Text-Driven Consistency-Aware Diffusion Video Editing](https://rese1f.github.io/StableVideo/)
 * [2023-08-21, 02:42:41](https://news.ycombinator.com/item?id=37204926) - [Probability Can Bite (2010)](https://www.maa.org/external_archive/devlin/devlin_04_10.html)
 * [2023-08-21, 02:12:35](https://news.ycombinator.com/item?id=37204775) - [GNU Radio software-defined radio (SDR) implementation of a LoRa transceiver](https://github.com/tapparelj/gr-lora_sdr)
