@@ -64,6 +64,7 @@
 * [2023-08-20, 11:08:52](https://news.ycombinator.com/item?id=37198020) - [AI-generated art cannot be copyrighted, rules a US Federal Judge](https://www.theverge.com/2023/8/19/23838458/ai-generated-art-no-copyright-district-court)
 * [2023-08-20, 11:02:35](https://news.ycombinator.com/item?id=37197986) - [Without Belief in a God, but Never Without Belief in a Devil](https://www.robkhenderson.com/p/without-belief-in-a-god-but-never)
 * [2023-08-20, 11:00:55](https://news.ycombinator.com/item?id=37197977) - [All of Physics in 9 Lines](https://www.motionmountain.net/9lines.html)
+* [2023-08-20, 10:52:19](https://news.ycombinator.com/item?id=37197921) - [Transcoding Latin 1 strings to UTF-8 strings at 12 GB/s using AVX-512](https://lemire.me/blog/2023/08/18/transcoding-latin-1-strings-to-utf-8-strings-at-12-gb-s-using-avx-512/)
 * [2023-08-20, 10:48:43](https://news.ycombinator.com/item?id=37197903) - [Electricity Maps](https://app.electricitymaps.com)
 * [2023-08-20, 10:23:28](https://news.ycombinator.com/item?id=37197785) - [Finland ends homelessness and provides shelter for all in need (2020)](https://scoop.me/housing-first-finland-homelessness/)
 * [2023-08-20, 10:18:09](https://news.ycombinator.com/item?id=37197761) - [Scripting with Go: A Modest Proposal](https://bitfieldconsulting.com/golang/scripting)
