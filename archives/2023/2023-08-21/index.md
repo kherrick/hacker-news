@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
+* [2023-08-21, 19:30:06](https://news.ycombinator.com/item?id=37214212) - [Eighteen150 A residence program for solo immigrant founders](https://www.unshackledvc.com/eighteen150)
+* [2023-08-21, 19:15:27](https://news.ycombinator.com/item?id=37214043) - [How the Rich Get Richer (2020)](https://www.imf.org/en/Blogs/Articles/2020/11/30/how-the-rich-get-richer)
 * [2023-08-21, 18:49:28](https://news.ycombinator.com/item?id=37213739) - [What does it mean for a monad to be strong?](http://blog.sigfpe.com/2023/08/what-does-it-mean-for-monad-to-be-strong.html)
 * [2023-08-21, 18:48:25](https://news.ycombinator.com/item?id=37213729) - [Show HN: VisionScript, abstract programming language for computer vision](https://github.com/capjamesg/visionscript)
 * [2023-08-21, 18:28:37](https://news.ycombinator.com/item?id=37213479) - [5 years ago Valve released Proton forever changing Linux gaming](https://www.gamingonlinux.com/2023/08/5-years-ago-valve-released-proton-forever-changing-linux-gaming/)
