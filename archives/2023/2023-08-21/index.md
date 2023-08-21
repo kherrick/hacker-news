@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
+* [2023-08-21, 17:09:20](https://news.ycombinator.com/item?id=37212381) - [Show HN: My husband quit his job to build a new social audio app with Flutter](https://www.bubblic.app/)
+* [2023-08-21, 17:04:20](https://news.ycombinator.com/item?id=37212318) - [‘I Was Shadowbanned:’ How Hinge's Algorithm Decides Who You Date](https://gizmodo.com/hinge-dating-app-algorithm-1850744140)
+* [2023-08-21, 17:00:09](https://news.ycombinator.com/item?id=37212266) - [When I have a slower publishing cadence my blog grows faster](https://www.henrikkarlsson.xyz/p/effort-pieces)
 * [2023-08-21, 16:34:54](https://news.ycombinator.com/item?id=37211933) - [Build a Business, Not an Audience](https://jakobgreenfeld.com/build_an_audience)
 * [2023-08-21, 16:20:02](https://news.ycombinator.com/item?id=37211675) - [Namecheap to increase .COM and .XYZ prices](https://www.namecheap.com/blog/upcoming-com-and-xyz-domain-price-increase/)
 * [2023-08-21, 16:11:01](https://news.ycombinator.com/item?id=37211542) - [MacLynx beta 5: UTF-8, pull-down menus and more dialogue boxes](http://oldvcr.blogspot.com/2023/08/maclynx-beta-5-utf-8-pull-down-menus.html)
