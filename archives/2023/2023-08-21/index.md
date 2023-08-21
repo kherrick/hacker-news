@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
+* [2023-08-21, 14:02:57](https://news.ycombinator.com/item?id=37209684) - [Duo Outage](https://status.duo.com)
 * [2023-08-21, 13:39:37](https://news.ycombinator.com/item?id=37209460) - [Study: Inflammation drives social media use](https://www.buffalo.edu/news/releases/2023/08/lee-inflammation-drives-social-media-use.html)
 * [2023-08-21, 13:24:43](https://news.ycombinator.com/item?id=37209279) - [Taos Operating System (1995)](http://www.uruk.org/emu/Taos.html)
 * [2023-08-21, 12:45:01](https://news.ycombinator.com/item?id=37208761) - [Universe 25: An Experiment with Disturbing Conclusions](https://exploringyourmind.com/universe-25-an-experiment-with-disturbing-conclusions/)
@@ -18,6 +19,7 @@
 * [2023-08-21, 09:23:12](https://news.ycombinator.com/item?id=37207107) - [Tesla owners say they've been trapped inside their EVs after they lost power](https://www.businessinsider.com/how-to-manually-open-tesla-door-if-battery-power-dies-2023-8)
 * [2023-08-21, 08:56:36](https://news.ycombinator.com/item?id=37206953) - [Last rites for the UK Online Safety Bill, an idea too stupid to notice it's dead](https://www.theregister.com/2023/08/21/opinion_column_monday/)
 * [2023-08-21, 08:08:27](https://news.ycombinator.com/item?id=37206651) - [English is a pictographic language with 26 radicals](https://www.smbc-comics.com/comic/pronounce)
+* [2023-08-21, 07:46:38](https://news.ycombinator.com/item?id=37206520) - [Show HN: I'm Sending a Weekly PHP Community Newsletter](https://weeklyphp.substack.com/)
 * [2023-08-21, 07:20:26](https://news.ycombinator.com/item?id=37206353) - [Be careful of the examples you use. They stick](https://blog.thinkst.com/2023/08/default-behaviour-sticks-and-so-do-examples.html)
 * [2023-08-21, 06:26:41](https://news.ycombinator.com/item?id=37206061) - [A man who can talk backwards](https://linguischtick.wordpress.com/2017/04/06/the-man-who-can-talk-backwards/)
 * [2023-08-21, 06:24:50](https://news.ycombinator.com/item?id=37206052) - [To Conference Organisers Everywhere](https://arunraghavan.net/2023/08/to-conference-organisers-everywhere/)
