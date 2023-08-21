@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-21, 09:55:14](https://news.ycombinator.com/item?id=37207329) - [80% of Companies do not need Snowflake or Databricks](https://kjhealey.medium.com/cached-takes-80-of-companies-do-not-need-snowflake-or-databricks-5ebda64c0853)
-* [2023-08-21, 09:23:12](https://news.ycombinator.com/item?id=37207107) - [Tesla owners say they've been trapped inside their EVs after they lost power](https://www.businessinsider.com/how-to-manually-open-tesla-door-if-battery-power-dies-2023-8)
+* [2023-08-21, 09:55:14](https://news.ycombinator.com/item?id=37207329) - [Most companies do not need Snowflake or Databricks](https://kjhealey.medium.com/cached-takes-80-of-companies-do-not-need-snowflake-or-databricks-5ebda64c0853)
 * [2023-08-21, 07:20:26](https://news.ycombinator.com/item?id=37206353) - [Be careful of the examples you use. They stick](https://blog.thinkst.com/2023/08/default-behaviour-sticks-and-so-do-examples.html)
 * [2023-08-21, 06:26:41](https://news.ycombinator.com/item?id=37206061) - [A man who can talk backwards (2017)](https://linguischtick.wordpress.com/2017/04/06/the-man-who-can-talk-backwards/)
 * [2023-08-21, 06:24:50](https://news.ycombinator.com/item?id=37206052) - [To Conference Organisers Everywhere](https://arunraghavan.net/2023/08/to-conference-organisers-everywhere/)
@@ -10,6 +9,7 @@
 * [2023-08-21, 04:59:01](https://news.ycombinator.com/item?id=37205647) - [Precompiled binaries removed from serde v1.0.184](https://github.com/serde-rs/serde/releases/tag/v1.0.184)
 * [2023-08-21, 03:09:20](https://news.ycombinator.com/item?id=37205053) - [FreeBSD replaces bubblesort with mergesort on SYSINTs](https://twitter.com/cperciva/status/1693127769901969772)
 * [2023-08-21, 03:04:51](https://news.ycombinator.com/item?id=37205029) - [Anxious brains redirect emotion regulation](https://www.nature.com/articles/s41467-023-40666-3)
+* [2023-08-21, 02:58:28](https://news.ycombinator.com/item?id=37204996) - [CLAs create different issues than making (small) open source contributions](https://utcc.utoronto.ca/~cks/space/blog/tech/CLAsImpedeContributionsII)
 * [2023-08-21, 02:47:52](https://news.ycombinator.com/item?id=37204950) - [StableVideo: Text-Driven Consistency-Aware Diffusion Video Editing](https://rese1f.github.io/StableVideo/)
 * [2023-08-21, 02:42:41](https://news.ycombinator.com/item?id=37204926) - [Probability Can Bite (2010)](https://www.maa.org/external_archive/devlin/devlin_04_10.html)
 * [2023-08-21, 02:12:35](https://news.ycombinator.com/item?id=37204775) - [GNU Radio software-defined radio (SDR) implementation of a LoRa transceiver](https://github.com/tapparelj/gr-lora_sdr)
@@ -21,6 +21,7 @@
 * [2023-08-20, 20:37:59](https://news.ycombinator.com/item?id=37202727) - [Jazz² Resurrection: Open-source Jazz Jackrabbit 2 reimplementation](http://deat.tk/jazz2/)
 * [2023-08-20, 20:36:30](https://news.ycombinator.com/item?id=37202714) - [Ruby's hash is a Swiss-army knife](https://www.akshaykhot.com/ruby-hash-is-a-swiss-army-knife/)
 * [2023-08-20, 19:54:04](https://news.ycombinator.com/item?id=37202415) - [An abandoned cabinet full of Kodachrome slides in San Francisco](https://petapixel.com/2023/08/16/the-mystery-of-an-abandoned-cabinet-full-of-kodachrome-slides-in-san-francisco/)
+* [2023-08-20, 16:28:13](https://news.ycombinator.com/item?id=37200615) - [So you want to learn physics (2021)](https://www.susanrigetti.com/physics)
 * [2023-08-20, 14:24:58](https://news.ycombinator.com/item?id=37199449) - [macOS updates for Apple Silicon Macs are larger than reported](https://eclecticlight.co/2023/08/19/macos-updates-for-apple-silicon-macs-are-larger-than-reported/)
 * [2023-08-20, 09:00:25](https://news.ycombinator.com/item?id=37197358) - [Enhancement of mosquito trapping efficiency using pulse width modulated LEDs](https://www.nature.com/articles/srep40074)
 * [2023-08-20, 08:36:18](https://news.ycombinator.com/item?id=37197243) - [John Warnock has died](https://www.reuters.com/technology/adobes-co-founder-john-warnock-dies-82-2023-08-20/)
@@ -29,7 +30,6 @@
 * [2023-08-19, 21:33:37](https://news.ycombinator.com/item?id=37193461) - [Blue-light glasses may not reduce eyestrain from screens, study says](https://www.washingtonpost.com/wellness/2023/08/17/blue-light-filter-glasses-eye/)
 * [2023-08-19, 10:41:12](https://news.ycombinator.com/item?id=37187388) - [Atari Tempest: Time-Lapse Photography (2016)](https://arcadeblogger.com/2016/07/15/atari-tempest-photography/)
 * [2023-08-19, 09:53:24](https://news.ycombinator.com/item?id=37187145) - [A Fistful of Tropes](http://www.antipope.org/charlie/blog-static/2023/08/a-fistful-of-tropes.html)
-* [2023-08-19, 01:46:56](https://news.ycombinator.com/item?id=37184626) - [How Indian artists transformed the Buddha’s absence into presence](https://www.washingtonpost.com/entertainment/art/2023/08/14/buddha-metropolitan-museum-buddhism-india/)
 
 ## [Archives](archives/index.md)
 
