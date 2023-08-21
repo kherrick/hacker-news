@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-21, 18:49:28](https://news.ycombinator.com/item?id=37213739) - [What does it mean for a monad to be strong?](http://blog.sigfpe.com/2023/08/what-does-it-mean-for-monad-to-be-strong.html)
+* [2023-08-21, 18:48:25](https://news.ycombinator.com/item?id=37213729) - [Show HN: VisionScript, abstract programming language for computer vision](https://github.com/capjamesg/visionscript)
 * [2023-08-21, 18:28:37](https://news.ycombinator.com/item?id=37213479) - [5 years ago Valve released Proton forever changing Linux gaming](https://www.gamingonlinux.com/2023/08/5-years-ago-valve-released-proton-forever-changing-linux-gaming/)
 * [2023-08-21, 18:08:07](https://news.ycombinator.com/item?id=37213190) - [Latest Android Runtime (ART) update led to apps starting 30% faster](https://9to5google.com/2023/08/21/android-runtime-13-14-updates/)
 * [2023-08-21, 18:03:52](https://news.ycombinator.com/item?id=37213134) - [Critical hearing looms in battle over California’s last nuclear power plant](https://www.thenewlede.org/2023/08/critical-hearing-looms-in-battle-over-californias-last-nuclear-power-plant/)
@@ -28,7 +29,6 @@
 * [2023-08-20, 23:27:14](https://news.ycombinator.com/item?id=37203915) - [David G. Conroy: FPGA Retrocomputing](http://fpgaretrocomputing.org/)
 * [2023-08-20, 22:50:43](https://news.ycombinator.com/item?id=37203690) - [The headline-grabbing debate over which explorer reached the North Pole soonest](https://www.nytimes.com/2023/06/04/books/review/battle-of-ink-and-ice-darrell-hartman.html)
 * [2023-08-20, 10:52:19](https://news.ycombinator.com/item?id=37197921) - [Transcoding Latin 1 strings to UTF-8 strings at 12 GB/s using AVX-512](https://lemire.me/blog/2023/08/18/transcoding-latin-1-strings-to-utf-8-strings-at-12-gb-s-using-avx-512/)
-* [2023-08-20, 03:56:00](https://news.ycombinator.com/item?id=37195977) - [Dead Brands of Computing Past: Soltek](https://www.cpushack.com/2023/08/19/dead-brands-of-computing-past-soltek/)
 * [2023-08-19, 22:49:00](https://news.ycombinator.com/item?id=37194128) - [Show HN: Just intonation keyboard – play music without knowing music](https://ad8e.pages.dev/keyboard)
 
 ## [Archives](archives/index.md)
