@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
+* [2023-08-21, 05:13:16](https://news.ycombinator.com/item?id=37205717) - [Out-of-memory victim selection with BPF](https://lwn.net/SubscriberLink/941614/f873a0ec485e01c5/)
 * [2023-08-21, 04:59:01](https://news.ycombinator.com/item?id=37205647) - [Precompiled binaries removed from serde v1.0.184](https://github.com/serde-rs/serde/releases/tag/v1.0.184)
 * [2023-08-21, 03:43:49](https://news.ycombinator.com/item?id=37205215) - [Texas electricity prices soar 6k% as heat wave is expected to shatter records](https://desdemonadespair.net/2023/08/texas-electricity-prices-soar-6000-percent-as-a-fresh-heat-wave-is-expected-to-shatter-records-spot-electricity-prices-jumped-to-4750-per-megawatt-hour-from-the-average-of-75.html)
 * [2023-08-21, 03:09:20](https://news.ycombinator.com/item?id=37205053) - [FreeBSD replaces bubblesort with mergesort on SYSINTs, results in 100x speed](https://twitter.com/cperciva/status/1693127769901969772)
