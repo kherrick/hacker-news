@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-21, 23:27:49](https://news.ycombinator.com/item?id=37216700) - [Why a highly mutated coronavirus variant has scientists on alert](https://www.nature.com/articles/d41586-023-02656-9)
 * [2023-08-21, 21:51:45](https://news.ycombinator.com/item?id=37215829) - [Associated Press clarifies standards around generative AI](https://www.niemanlab.org/2023/08/not-a-replacement-of-journalists-in-any-way-ap-clarifies-standards-around-generative-ai/)
 * [2023-08-21, 21:23:51](https://news.ycombinator.com/item?id=37215557) - [uBlock Origin Lite now available on Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin-lite/)
 * [2023-08-21, 21:09:35](https://news.ycombinator.com/item?id=37215400) - [Educational Codebases](https://buttondown.email/hillelwayne/archive/educational-codebases/)
@@ -23,7 +24,6 @@
 * [2023-08-21, 14:36:22](https://news.ycombinator.com/item?id=37210103) - [FreeBSD Experimenting with a Port of Nvidia's Linux Open DRM Kernel Driver](https://www.phoronix.com/news/FreeBSD-Port-Linux-DRM-KO)
 * [2023-08-21, 14:21:57](https://news.ycombinator.com/item?id=37209932) - [Garbage Collection in a Large Lisp System (1984) [pdf]](https://dl.acm.org/doi/pdf/10.1145/800055.802040)
 * [2023-08-21, 14:19:18](https://news.ycombinator.com/item?id=37209888) - [All of the vehicle license plates available in America](https://www.beautifulpublicdata.com/all-of-the-license-plates-in-the-united-states/)
-* [2023-08-21, 11:54:09](https://news.ycombinator.com/item?id=37208248) - [Show HN: The Uncolouring Book](https://lines.potato.horse)
 * [2023-08-21, 11:49:30](https://news.ycombinator.com/item?id=37208211) - [The ideal viewport doesn't exist](https://viewports.fyi/)
 * [2023-08-21, 11:12:39](https://news.ycombinator.com/item?id=37207927) - [Bluegrass Archive](https://bluegrassarchive.com/)
 * [2023-08-21, 09:40:25](https://news.ycombinator.com/item?id=37207237) - [A retiring consultant’s advice on consultants](https://www.economist.com/business/2023/08/17/a-retiring-consultants-advice-on-consultants)

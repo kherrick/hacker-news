@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
+* [2023-08-21, 23:27:49](https://news.ycombinator.com/item?id=37216700) - [Why a highly mutated coronavirus variant has scientists on alert](https://www.nature.com/articles/d41586-023-02656-9)
 * [2023-08-21, 22:31:35](https://news.ycombinator.com/item?id=37216215) - [South Korea's biggest telco says 5G has failed to deliver](https://www.theregister.com/2023/08/21/sk_telecom_5g_disappointed/)
 * [2023-08-21, 21:56:29](https://news.ycombinator.com/item?id=37215892) - [Baghdad closes LED advert screens after hacker shows porn film on a screen](https://www.iraqinews.com/iraq/baghdad-closes-led-advert-screens-after-hacker-shows-porn-film-on-a-screen/)
 * [2023-08-21, 21:51:45](https://news.ycombinator.com/item?id=37215829) - [Associated Press clarifies standards around generative AI](https://www.niemanlab.org/2023/08/not-a-replacement-of-journalists-in-any-way-ap-clarifies-standards-around-generative-ai/)
