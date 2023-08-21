@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
+* [2023-08-21, 22:31:35](https://news.ycombinator.com/item?id=37216215) - [South Korea's biggest telco says 5G has failed to deliver](https://www.theregister.com/2023/08/21/sk_telecom_5g_disappointed/)
 * [2023-08-21, 21:56:29](https://news.ycombinator.com/item?id=37215892) - [Baghdad closes LED advert screens after hacker shows porn film on a screen](https://www.iraqinews.com/iraq/baghdad-closes-led-advert-screens-after-hacker-shows-porn-film-on-a-screen/)
 * [2023-08-21, 21:51:45](https://news.ycombinator.com/item?id=37215829) - [Associated Press clarifies standards around generative AI](https://www.niemanlab.org/2023/08/not-a-replacement-of-journalists-in-any-way-ap-clarifies-standards-around-generative-ai/)
 * [2023-08-21, 21:23:51](https://news.ycombinator.com/item?id=37215557) - [uBlock Origin Lite now available on Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin-lite/)
@@ -60,6 +61,7 @@
 * [2023-08-21, 11:50:39](https://news.ycombinator.com/item?id=37208219) - [Windows 11 has made the “clean Windows install” an oxymoron](https://arstechnica.com/gadgets/2023/08/windows-11-has-made-the-clean-windows-install-an-oxymoron/)
 * [2023-08-21, 11:49:30](https://news.ycombinator.com/item?id=37208211) - [The Ideal Viewport Doesn't Exist](https://viewports.fyi/)
 * [2023-08-21, 11:31:15](https://news.ycombinator.com/item?id=37208083) - [GNU Parallel, where have you been all my life?](https://alexplescan.com/posts/2023/08/20/gnu-parallel/)
+* [2023-08-21, 11:12:39](https://news.ycombinator.com/item?id=37207927) - [Bluegrass Archive](https://bluegrassarchive.com/)
 * [2023-08-21, 09:55:14](https://news.ycombinator.com/item?id=37207329) - [80% of Companies do not need Snowflake or Databricks](https://kjhealey.medium.com/cached-takes-80-of-companies-do-not-need-snowflake-or-databricks-5ebda64c0853)
 * [2023-08-21, 09:40:25](https://news.ycombinator.com/item?id=37207237) - [A retiring consultant’s advice on consultants](https://www.economist.com/business/2023/08/17/a-retiring-consultants-advice-on-consultants)
 * [2023-08-21, 09:23:12](https://news.ycombinator.com/item?id=37207107) - [Tesla owners say they've been trapped inside their EVs after they lost power](https://www.businessinsider.com/how-to-manually-open-tesla-door-if-battery-power-dies-2023-8)
