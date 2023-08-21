@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-08-21, 04:59:01",
-      "https://news.ycombinator.com/item?id=37205647"
-    ],
-    [
-      "Precompiled binaries removed from serde v1.0.184",
-      "https://github.com/serde-rs/serde/releases/tag/v1.0.184"
-    ]
-  ],
-  [
-    [
       "2023-08-21, 03:09:20",
       "https://news.ycombinator.com/item?id=37205053"
     ],
@@ -127,6 +117,16 @@
     [
       "JSON Schema Store",
       "https://www.schemastore.org/json/"
+    ]
+  ],
+  [
+    [
+      "2023-08-20, 21:45:19",
+      "https://news.ycombinator.com/item?id=37203196"
+    ],
+    [
+      "OpenCopilot – Open source AI copilot for your own SaaS product",
+      "https://github.com/openchatai/OpenCopilot"
     ]
   ],
   [
