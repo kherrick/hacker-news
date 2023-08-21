@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2023-08-21, 14:21:57",
+      "https://news.ycombinator.com/item?id=37209932"
+    ],
+    [
+      "Garbage Collection in a Large Lisp System (1984) [pdf]",
+      "https://dl.acm.org/doi/pdf/10.1145/800055.802040"
+    ]
+  ],
+  [
+    [
       "2023-08-21, 13:39:37",
       "https://news.ycombinator.com/item?id=37209460"
     ],
@@ -227,16 +237,6 @@
     [
       "Anxious brains redirect emotion regulation",
       "https://www.nature.com/articles/s41467-023-40666-3"
-    ]
-  ],
-  [
-    [
-      "2023-08-21, 02:47:52",
-      "https://news.ycombinator.com/item?id=37204950"
-    ],
-    [
-      "Stablevideo: Text-driven consistency-aware diffusion video editing",
-      "https://rese1f.github.io/StableVideo/"
     ]
   ],
   [
