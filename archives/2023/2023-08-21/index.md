@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
+* [2023-08-21, 20:57:23](https://news.ycombinator.com/item?id=37215246) - [SolarPi experiment 2: Finally something that works](http://blog.rfox.eu/en/Hardware/SolarPi_experiment_2_Finally_something_that_works.html)
 * [2023-08-21, 20:12:40](https://news.ycombinator.com/item?id=37214733) - [Google Pixel Binary Transparency: verifiable security for Pixel devices](https://security.googleblog.com/2023/08/pixel-binary-transparency-verifiable.html)
 * [2023-08-21, 19:41:39](https://news.ycombinator.com/item?id=37214342) - [Why Open Source?](https://getconvoy.io/blog/why-open-source/)
 * [2023-08-21, 19:40:15](https://news.ycombinator.com/item?id=37214321) - [Top Ten Most Frequent DNS Test Failures](https://dnsinstitute.com/research/2022/ten-common-failures-202204.html)
