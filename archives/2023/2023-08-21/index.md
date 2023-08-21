@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
+* [2023-08-21, 16:34:54](https://news.ycombinator.com/item?id=37211933) - [Build a Business, Not an Audience](https://jakobgreenfeld.com/build_an_audience)
 * [2023-08-21, 16:20:02](https://news.ycombinator.com/item?id=37211675) - [Namecheap to increase .COM and .XYZ prices](https://www.namecheap.com/blog/upcoming-com-and-xyz-domain-price-increase/)
 * [2023-08-21, 16:11:01](https://news.ycombinator.com/item?id=37211542) - [MacLynx beta 5: UTF-8, pull-down menus and more dialogue boxes](http://oldvcr.blogspot.com/2023/08/maclynx-beta-5-utf-8-pull-down-menus.html)
 * [2023-08-21, 16:09:27](https://news.ycombinator.com/item?id=37211519) - [I Made Stable Diffusion XL Smarter by Finetuning It on Bad AI-Generated Images](https://minimaxir.com/2023/08/stable-diffusion-xl-wrong/)
 * [2023-08-21, 16:05:39](https://news.ycombinator.com/item?id=37211462) - [9% price increase for .COM and .XYZ domains starting Sept 1, 2023](https://i.imgur.com/5cGazrG.png)
 * [2023-08-21, 15:51:18](https://news.ycombinator.com/item?id=37211231) - [What Are FD&C Dyes and Lakes (and How Do They Differ)?](https://www.madmicas.com/pages/what-are-fd-c-dyes-and-lakes-and-how-do-they-differ)
+* [2023-08-21, 15:51:18](https://news.ycombinator.com/item?id=37211230) - [Steve Jobs: Fast boot times saves lives](https://www.folklore.org/StoryView.py?story=Saving_Lives.txt)
 * [2023-08-21, 15:33:11](https://news.ycombinator.com/item?id=37210953) - [Don't Fire Your Illustrator](https://sambleckley.com/writing/dont-fire-your-illustrator.html)
 * [2023-08-21, 15:25:30](https://news.ycombinator.com/item?id=37210837) - [Kansas Bureau of Investigation takes lead following police raid of newspaper](https://www.kansascity.com/news/politics-government/article278253028.html)
 * [2023-08-21, 15:13:47](https://news.ycombinator.com/item?id=37210650) - [American workers are demanding almost $80k a year to take a new job](https://www.cnbc.com/2023/08/21/american-workers-are-demanding-almost-80000-a-year-to-take-a-new-job.html)
