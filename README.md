@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-21, 11:31:15](https://news.ycombinator.com/item?id=37208083) - [GNU Parallel, where have you been all my life?](https://alexplescan.com/posts/2023/08/20/gnu-parallel/)
 * [2023-08-21, 09:55:14](https://news.ycombinator.com/item?id=37207329) - [Most companies do not need Snowflake or Databricks](https://kjhealey.medium.com/cached-takes-80-of-companies-do-not-need-snowflake-or-databricks-5ebda64c0853)
 * [2023-08-21, 08:56:36](https://news.ycombinator.com/item?id=37206953) - [Last rites for the UK Online Safety Bill, an idea too stupid to notice it's dead](https://www.theregister.com/2023/08/21/opinion_column_monday/)
 * [2023-08-21, 07:20:26](https://news.ycombinator.com/item?id=37206353) - [Be careful of the examples you use. They stick](https://blog.thinkst.com/2023/08/default-behaviour-sticks-and-so-do-examples.html)
@@ -22,7 +23,6 @@
 * [2023-08-20, 20:37:59](https://news.ycombinator.com/item?id=37202727) - [Jazz² Resurrection: Open-source Jazz Jackrabbit 2 reimplementation](http://deat.tk/jazz2/)
 * [2023-08-20, 20:36:30](https://news.ycombinator.com/item?id=37202714) - [Ruby's hash is a Swiss-army knife](https://www.akshaykhot.com/ruby-hash-is-a-swiss-army-knife/)
 * [2023-08-20, 19:54:04](https://news.ycombinator.com/item?id=37202415) - [An abandoned cabinet full of Kodachrome slides in San Francisco](https://petapixel.com/2023/08/16/the-mystery-of-an-abandoned-cabinet-full-of-kodachrome-slides-in-san-francisco/)
-* [2023-08-20, 16:28:13](https://news.ycombinator.com/item?id=37200615) - [So you want to learn physics (2021)](https://www.susanrigetti.com/physics)
 * [2023-08-20, 14:24:58](https://news.ycombinator.com/item?id=37199449) - [macOS updates for Apple Silicon Macs are larger than reported](https://eclecticlight.co/2023/08/19/macos-updates-for-apple-silicon-macs-are-larger-than-reported/)
 * [2023-08-20, 09:00:25](https://news.ycombinator.com/item?id=37197358) - [Enhancement of mosquito trapping efficiency using pulse width modulated LEDs](https://www.nature.com/articles/srep40074)
 * [2023-08-20, 08:36:18](https://news.ycombinator.com/item?id=37197243) - [John Warnock has died](https://www.reuters.com/technology/adobes-co-founder-john-warnock-dies-82-2023-08-20/)
