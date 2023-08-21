@@ -8,6 +8,7 @@
 * [2023-08-21, 18:49:28](https://news.ycombinator.com/item?id=37213739) - [What does it mean for a monad to be strong?](http://blog.sigfpe.com/2023/08/what-does-it-mean-for-monad-to-be-strong.html)
 * [2023-08-21, 18:48:25](https://news.ycombinator.com/item?id=37213729) - [Show HN: VisionScript, abstract programming language for computer vision](https://github.com/capjamesg/visionscript)
 * [2023-08-21, 18:28:37](https://news.ycombinator.com/item?id=37213479) - [5 years ago Valve released Proton](https://www.gamingonlinux.com/2023/08/5-years-ago-valve-released-proton-forever-changing-linux-gaming/)
+* [2023-08-21, 18:08:07](https://news.ycombinator.com/item?id=37213190) - [Latest Android Runtime (ART) update led to apps starting 30% faster](https://9to5google.com/2023/08/21/android-runtime-13-14-updates/)
 * [2023-08-21, 18:01:41](https://news.ycombinator.com/item?id=37213107) - [Early Days of AI](https://blog.eladgil.com/p/early-days-of-ai)
 * [2023-08-21, 17:31:57](https://news.ycombinator.com/item?id=37212711) - [Lyrebird the Linux voice changer now supports PipeWire](https://github.com/lyrebird-voice-changer/lyrebird/releases/tag/v1.2.0)
 * [2023-08-21, 17:14:43](https://news.ycombinator.com/item?id=37212462) - [P2panda: P2P protocol for secure, energy-efficient local-first web applications](https://p2panda.org/)
@@ -27,7 +28,6 @@
 * [2023-08-21, 11:49:30](https://news.ycombinator.com/item?id=37208211) - [The ideal viewport doesn't exist](https://viewports.fyi/)
 * [2023-08-21, 09:40:25](https://news.ycombinator.com/item?id=37207237) - [A retiring consultant’s advice on consultants](https://www.economist.com/business/2023/08/17/a-retiring-consultants-advice-on-consultants)
 * [2023-08-21, 06:51:53](https://news.ycombinator.com/item?id=37206204) - [Building a digital music collection in 2023](https://www.worthe-it.co.za/blog/2023-08-20-building-a-digital-music-collection-in-2023.html)
-* [2023-08-21, 05:58:53](https://news.ycombinator.com/item?id=37205902) - [Taming High Cardinality by sharding a stream](https://last9.io/blog/how-we-tame-high-cardinality-by-sharding-a-stream/)
 * [2023-08-20, 10:52:19](https://news.ycombinator.com/item?id=37197921) - [Transcoding Latin 1 strings to UTF-8 strings at 12 GB/s using AVX-512](https://lemire.me/blog/2023/08/18/transcoding-latin-1-strings-to-utf-8-strings-at-12-gb-s-using-avx-512/)
 * [2023-08-19, 22:49:00](https://news.ycombinator.com/item?id=37194128) - [Show HN: Just intonation keyboard – play music without knowing music](https://ad8e.pages.dev/keyboard)
 
