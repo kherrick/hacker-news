@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
+* [2023-08-21, 15:51:18](https://news.ycombinator.com/item?id=37211231) - [What Are FD&C Dyes and Lakes (and How Do They Differ)?](https://www.madmicas.com/pages/what-are-fd-c-dyes-and-lakes-and-how-do-they-differ)
 * [2023-08-21, 15:33:11](https://news.ycombinator.com/item?id=37210953) - [Don't Fire Your Illustrator](https://sambleckley.com/writing/dont-fire-your-illustrator.html)
 * [2023-08-21, 15:25:30](https://news.ycombinator.com/item?id=37210837) - [Kansas Bureau of Investigation takes lead following police raid of newspaper](https://www.kansascity.com/news/politics-government/article278253028.html)
 * [2023-08-21, 15:13:47](https://news.ycombinator.com/item?id=37210650) - [American workers are demanding almost $80k a year to take a new job](https://www.cnbc.com/2023/08/21/american-workers-are-demanding-almost-80000-a-year-to-take-a-new-job.html)
 * [2023-08-21, 15:11:21](https://news.ycombinator.com/item?id=37210615) - [''Vinegar Syndrome'' Decaying Archives of Cellulose Acetate Microfilm Stock](https://www.cbc.ca/news/canada/toronto/vinegar-syndrome-acetate-film-1.6939032)
+* [2023-08-21, 15:09:20](https://news.ycombinator.com/item?id=37210584) - [I come here not to bury Delphi, but to praise it (2019)](https://accu.org/journals/overload/27/153/martin_2703/)
 * [2023-08-21, 14:56:36](https://news.ycombinator.com/item?id=37210397) - [Flatpak is not the future (2021)](https://ludocode.com/blog/flatpak-is-not-the-future)
 * [2023-08-21, 14:19:18](https://news.ycombinator.com/item?id=37209888) - [All of the vehicle license plates available in America](https://www.beautifulpublicdata.com/all-of-the-license-plates-in-the-united-states/)
 * [2023-08-21, 14:02:57](https://news.ycombinator.com/item?id=37209684) - [Duo Outage](https://status.duo.com)

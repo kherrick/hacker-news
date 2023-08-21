@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-20](index.md)
 
 * [2023-08-20, 23:30:49](https://news.ycombinator.com/item?id=37203945) - [Changing its name tanked X's downloads in App Store and Play Store](https://daringfireball.net/linked/2023/08/19/seufert-x-downloads)
+* [2023-08-20, 23:27:14](https://news.ycombinator.com/item?id=37203915) - [David G. Conroy: FPGA Retrocomputing](http://fpgaretrocomputing.org/)
 * [2023-08-20, 23:01:31](https://news.ycombinator.com/item?id=37203761) - [Cell therapy repairs cornea damage with patient's stem cells gives trial results](https://medicalxpress.com/news/2023-08-cell-therapy-cornea-patient-stem.html)
 * [2023-08-20, 22:34:51](https://news.ycombinator.com/item?id=37203584) - [The Republic of Cows](https://hakaimagazine.com/features/the-republic-of-cows/)
 * [2023-08-20, 22:24:59](https://news.ycombinator.com/item?id=37203511) - [TimeGuessr: Guess what year a photograph was taken](https://timeguessr.com/)
