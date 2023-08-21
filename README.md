@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-21, 21:23:51](https://news.ycombinator.com/item?id=37215557) - [uBlock Origin Lite now available on Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin-lite/)
+* [2023-08-21, 21:09:35](https://news.ycombinator.com/item?id=37215400) - [Educational Codebases](https://buttondown.email/hillelwayne/archive/educational-codebases/)
 * [2023-08-21, 20:57:23](https://news.ycombinator.com/item?id=37215246) - [SolarPi experiment 2: Finally something that works](http://blog.rfox.eu/en/Hardware/SolarPi_experiment_2_Finally_something_that_works.html)
 * [2023-08-21, 20:12:40](https://news.ycombinator.com/item?id=37214733) - [Google Pixel Binary Transparency: verifiable security for Pixel devices](https://security.googleblog.com/2023/08/pixel-binary-transparency-verifiable.html)
 * [2023-08-21, 19:41:39](https://news.ycombinator.com/item?id=37214342) - [Why Open Source?](https://getconvoy.io/blog/why-open-source/)
@@ -8,7 +10,6 @@
 * [2023-08-21, 18:49:28](https://news.ycombinator.com/item?id=37213739) - [What does it mean for a monad to be strong?](http://blog.sigfpe.com/2023/08/what-does-it-mean-for-monad-to-be-strong.html)
 * [2023-08-21, 18:48:25](https://news.ycombinator.com/item?id=37213729) - [Show HN: VisionScript, abstract programming language for computer vision](https://github.com/capjamesg/visionscript)
 * [2023-08-21, 18:28:37](https://news.ycombinator.com/item?id=37213479) - [5 years ago Valve released Proton](https://www.gamingonlinux.com/2023/08/5-years-ago-valve-released-proton-forever-changing-linux-gaming/)
-* [2023-08-21, 18:08:07](https://news.ycombinator.com/item?id=37213190) - [Latest Android Runtime (ART) update led to apps starting 30% faster](https://9to5google.com/2023/08/21/android-runtime-13-14-updates/)
 * [2023-08-21, 18:01:41](https://news.ycombinator.com/item?id=37213107) - [Early Days of AI](https://blog.eladgil.com/p/early-days-of-ai)
 * [2023-08-21, 17:31:57](https://news.ycombinator.com/item?id=37212711) - [Lyrebird the Linux voice changer now supports PipeWire](https://github.com/lyrebird-voice-changer/lyrebird/releases/tag/v1.2.0)
 * [2023-08-21, 17:14:43](https://news.ycombinator.com/item?id=37212462) - [P2panda: P2P protocol for secure, energy-efficient local-first web applications](https://p2panda.org/)
@@ -24,7 +25,6 @@
 * [2023-08-21, 13:27:20](https://news.ycombinator.com/item?id=37209309) - [Suppose I wanted to kill a lot of pilots (2020)](https://newsletter.butwhatfor.com/p/invert-always-invert-avoid-failure)
 * [2023-08-21, 13:24:43](https://news.ycombinator.com/item?id=37209279) - [Taos Operating System (1995)](http://www.uruk.org/emu/Taos.html)
 * [2023-08-21, 11:54:09](https://news.ycombinator.com/item?id=37208248) - [Show HN: The Uncolouring Book](https://lines.potato.horse)
-* [2023-08-21, 11:51:32](https://news.ycombinator.com/item?id=37208228) - [Why bumblebees love cats and other beautiful relationships (2021)](https://longreads.com/2021/03/23/nation-of-plants-excerpt-stefano-mancuso/)
 * [2023-08-21, 11:49:30](https://news.ycombinator.com/item?id=37208211) - [The ideal viewport doesn't exist](https://viewports.fyi/)
 * [2023-08-21, 09:40:25](https://news.ycombinator.com/item?id=37207237) - [A retiring consultant’s advice on consultants](https://www.economist.com/business/2023/08/17/a-retiring-consultants-advice-on-consultants)
 * [2023-08-21, 06:51:53](https://news.ycombinator.com/item?id=37206204) - [Building a digital music collection in 2023](https://www.worthe-it.co.za/blog/2023-08-20-building-a-digital-music-collection-in-2023.html)
