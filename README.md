@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-21, 08:08:27](https://news.ycombinator.com/item?id=37206651) - [English is a pictographic language with 26 radicals](https://www.smbc-comics.com/comic/pronounce)
+* [2023-08-21, 07:20:26](https://news.ycombinator.com/item?id=37206353) - [Be careful of the examples you use. They stick](https://blog.thinkst.com/2023/08/default-behaviour-sticks-and-so-do-examples.html)
 * [2023-08-21, 06:26:41](https://news.ycombinator.com/item?id=37206061) - [A man who can talk backwards (2017)](https://linguischtick.wordpress.com/2017/04/06/the-man-who-can-talk-backwards/)
 * [2023-08-21, 06:24:50](https://news.ycombinator.com/item?id=37206052) - [To Conference Organisers Everywhere](https://arunraghavan.net/2023/08/to-conference-organisers-everywhere/)
 * [2023-08-21, 05:16:03](https://news.ycombinator.com/item?id=37205731) - [We’re All Just Temporarily Abled](https://blog.jim-nielsen.com/2023/temporarily-abled/)
@@ -20,7 +21,6 @@
 * [2023-08-20, 20:37:59](https://news.ycombinator.com/item?id=37202727) - [Jazz² Resurrection: Open-source Jazz Jackrabbit 2 reimplementation](http://deat.tk/jazz2/)
 * [2023-08-20, 20:36:30](https://news.ycombinator.com/item?id=37202714) - [Ruby's hash is a Swiss-army knife](https://www.akshaykhot.com/ruby-hash-is-a-swiss-army-knife/)
 * [2023-08-20, 19:54:04](https://news.ycombinator.com/item?id=37202415) - [An abandoned cabinet full of Kodachrome slides in San Francisco](https://petapixel.com/2023/08/16/the-mystery-of-an-abandoned-cabinet-full-of-kodachrome-slides-in-san-francisco/)
-* [2023-08-20, 19:03:31](https://news.ycombinator.com/item?id=37202009) - [It’s lambdas all the way down](https://itsbehnam.com/It-s-Lambdas-All-the-Way-Down-eb33012f54bb4708af001e0214910698)
 * [2023-08-20, 18:23:18](https://news.ycombinator.com/item?id=37201688) - [Heat your house with a mechanical windmill (2019)](https://solar.lowtechmagazine.com/2019/02/heat-your-house-with-a-mechanical-windmill/)
 * [2023-08-20, 14:24:58](https://news.ycombinator.com/item?id=37199449) - [macOS updates for Apple Silicon Macs are larger than reported](https://eclecticlight.co/2023/08/19/macos-updates-for-apple-silicon-macs-are-larger-than-reported/)
 * [2023-08-20, 09:00:25](https://news.ycombinator.com/item?id=37197358) - [Enhancement of mosquito trapping efficiency using pulse width modulated LEDs](https://www.nature.com/articles/srep40074)
