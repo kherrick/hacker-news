@@ -8,7 +8,7 @@
 * [2023-08-21, 11:49:30](https://news.ycombinator.com/item?id=37208211) - [The Ideal Viewport Doesn't Exist](https://viewports.fyi/)
 * [2023-08-21, 11:31:15](https://news.ycombinator.com/item?id=37208083) - [GNU Parallel, where have you been all my life?](https://alexplescan.com/posts/2023/08/20/gnu-parallel/)
 * [2023-08-21, 09:55:14](https://news.ycombinator.com/item?id=37207329) - [Most companies do not need Snowflake or Databricks](https://kjhealey.medium.com/cached-takes-80-of-companies-do-not-need-snowflake-or-databricks-5ebda64c0853)
-* [2023-08-21, 07:46:38](https://news.ycombinator.com/item?id=37206520) - [Show HN: I'm Sending a Weekly PHP Community Newsletter](https://weeklyphp.substack.com/)
+* [2023-08-21, 07:46:38](https://news.ycombinator.com/item?id=37206520) - [I'm sending a weekly PHP community newsletter](https://weeklyphp.substack.com/)
 * [2023-08-21, 07:20:26](https://news.ycombinator.com/item?id=37206353) - [Be careful of the examples you use. They stick](https://blog.thinkst.com/2023/08/default-behaviour-sticks-and-so-do-examples.html)
 * [2023-08-21, 06:24:50](https://news.ycombinator.com/item?id=37206052) - [Conferences are inadvertently excluding many attendees from foreign countries](https://arunraghavan.net/2023/08/to-conference-organisers-everywhere/)
 * [2023-08-21, 05:16:03](https://news.ycombinator.com/item?id=37205731) - [We’re All Just Temporarily Abled](https://blog.jim-nielsen.com/2023/temporarily-abled/)
