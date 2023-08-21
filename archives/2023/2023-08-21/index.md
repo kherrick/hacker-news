@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
+* [2023-08-21, 13:39:37](https://news.ycombinator.com/item?id=37209460) - [Study: Inflammation drives social media use](https://www.buffalo.edu/news/releases/2023/08/lee-inflammation-drives-social-media-use.html)
 * [2023-08-21, 12:45:01](https://news.ycombinator.com/item?id=37208761) - [Universe 25: An Experiment with Disturbing Conclusions](https://exploringyourmind.com/universe-25-an-experiment-with-disturbing-conclusions/)
 * [2023-08-21, 12:08:56](https://news.ycombinator.com/item?id=37208378) - [Anyone incarcerated 2+ years is going to return to their Google account deleted](https://twitter.com/GrahamStarr/status/1693119093526671859)
 * [2023-08-21, 11:55:02](https://news.ycombinator.com/item?id=37208257) - [Career Advice Nobody Gave Me: Never Ignore a Recruiter (2022)](https://index.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556)

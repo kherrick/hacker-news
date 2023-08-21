@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-21, 13:39:37](https://news.ycombinator.com/item?id=37209460) - [Study: Inflammation drives social media use](https://www.buffalo.edu/news/releases/2023/08/lee-inflammation-drives-social-media-use.html)
 * [2023-08-21, 11:51:32](https://news.ycombinator.com/item?id=37208228) - [Why Bumblebees Love Cats and Other Beautiful Relationships (2021)](https://longreads.com/2021/03/23/nation-of-plants-excerpt-stefano-mancuso/)
 * [2023-08-21, 11:49:30](https://news.ycombinator.com/item?id=37208211) - [The Ideal Viewport Doesn't Exist](https://viewports.fyi/)
 * [2023-08-21, 11:31:15](https://news.ycombinator.com/item?id=37208083) - [GNU Parallel, where have you been all my life?](https://alexplescan.com/posts/2023/08/20/gnu-parallel/)
@@ -17,7 +18,6 @@
 * [2023-08-21, 02:12:35](https://news.ycombinator.com/item?id=37204775) - [GNU Radio software-defined radio (SDR) implementation of a LoRa transceiver](https://github.com/tapparelj/gr-lora_sdr)
 * [2023-08-20, 23:01:31](https://news.ycombinator.com/item?id=37203761) - [Cell therapy repairs cornea damage with patient's stem cells gives trial results](https://medicalxpress.com/news/2023-08-cell-therapy-cornea-patient-stem.html)
 * [2023-08-20, 22:34:51](https://news.ycombinator.com/item?id=37203584) - [The Republic of Cows](https://hakaimagazine.com/features/the-republic-of-cows/)
-* [2023-08-20, 22:24:59](https://news.ycombinator.com/item?id=37203511) - [TimeGuessr: Guess what year a photograph was taken](https://timeguessr.com/)
 * [2023-08-20, 22:05:55](https://news.ycombinator.com/item?id=37203354) - [JSON Schema Store](https://www.schemastore.org/json/)
 * [2023-08-20, 20:38:52](https://news.ycombinator.com/item?id=37202732) - [12,000-year-old sequins hint at a shared culture in Indonesian islands](https://cosmosmagazine.com/history/archaeology/12000-year-old-sequins-hint-at-a-shared-culture-in-indonesian-islands/)
 * [2023-08-20, 20:37:59](https://news.ycombinator.com/item?id=37202727) - [Jazz² Resurrection: Open-source Jazz Jackrabbit 2 reimplementation](http://deat.tk/jazz2/)
