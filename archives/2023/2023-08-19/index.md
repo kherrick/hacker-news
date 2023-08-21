@@ -17,6 +17,7 @@
 * [2023-08-19, 22:09:36](https://news.ycombinator.com/item?id=37193814) - [National IQ Dataset](https://viewoniq.org/?page_id=9)
 * [2023-08-19, 21:52:29](https://news.ycombinator.com/item?id=37193670) - [Programming Language choices: Pascal, LOGO, Forth, Prolog, C (1986) [video]](https://clp.bbcrewind.co.uk/3d15323fe870ef44784832c02f4f7992)
 * [2023-08-19, 21:46:26](https://news.ycombinator.com/item?id=37193599) - [Vector databases: analyzing the trade-offs](https://thedataquarry.com/posts/vector-db-4/)
+* [2023-08-19, 21:33:37](https://news.ycombinator.com/item?id=37193461) - [Blue-light glasses may not reduce eyestrain from screens, study says](https://www.washingtonpost.com/wellness/2023/08/17/blue-light-filter-glasses-eye/)
 * [2023-08-19, 20:52:07](https://news.ycombinator.com/item?id=37193065) - [Indie Game Dev: Assessing Risk](https://derekyu.com/makegames/risk.html)
 * [2023-08-19, 20:47:40](https://news.ycombinator.com/item?id=37193016) - [Is the world finally ready for ethical porn?](https://shado-mag.com/see/is-the-world-finally-ready-for-ethical-porn/)
 * [2023-08-19, 20:37:43](https://news.ycombinator.com/item?id=37192915) - [What Saved the ‘Miracle House’ in Lahaina?](https://www.civilbeat.org/2023/08/what-saved-the-miracle-house-in-lahaina/)
