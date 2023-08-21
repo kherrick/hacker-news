@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-08-21, 03:04:51",
+      "https://news.ycombinator.com/item?id=37205029"
+    ],
+    [
+      "Anxious brains redirect emotion regulation",
+      "https://www.nature.com/articles/s41467-023-40666-3"
+    ]
+  ],
+  [
+    [
       "2023-08-21, 02:47:52",
       "https://news.ycombinator.com/item?id=37204950"
     ],
     [
       "StableVideo: Text-Driven Consistency-Aware Diffusion Video Editing",
       "https://rese1f.github.io/StableVideo/"
+    ]
+  ],
+  [
+    [
+      "2023-08-21, 02:42:41",
+      "https://news.ycombinator.com/item?id=37204926"
+    ],
+    [
+      "Probability Can Bite",
+      "https://www.maa.org/external_archive/devlin/devlin_04_10.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-21, 02:12:35",
+      "https://news.ycombinator.com/item?id=37204775"
+    ],
+    [
+      "GNU Radio software-defined radio (SDR) implementation of a LoRa transceiver",
+      "https://github.com/tapparelj/gr-lora_sdr"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2023-08-20, 16:28:32",
-      "https://news.ycombinator.com/item?id=37200619"
-    ],
-    [
-      "Scientists trap light inside a magnet",
-      "https://www.ccny.cuny.edu/news/ccny-scientists-trap-light-inside-magnet"
-    ]
-  ],
-  [
-    [
       "2023-08-20, 16:28:13",
       "https://news.ycombinator.com/item?id=37200615"
     ],
@@ -181,22 +201,12 @@
   ],
   [
     [
-      "2023-08-20, 15:50:52",
-      "https://news.ycombinator.com/item?id=37200284"
+      "2023-08-20, 14:35:57",
+      "https://news.ycombinator.com/item?id=37199549"
     ],
     [
-      "Demystifying ESIM Technology [video]",
-      "https://media.ccc.de/v/camp2023-57190-demystifying_esim_technology"
-    ]
-  ],
-  [
-    [
-      "2023-08-20, 14:30:31",
-      "https://news.ycombinator.com/item?id=37199495"
-    ],
-    [
-      "Kris Nóva has died",
-      "https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/"
+      "Ned Wright's JavaScript Cosmology Calculator",
+      "https://www.astro.ucla.edu/~wright/CosmoCalc.html"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "macOS updates for Apple Silicon Macs are larger than reported",
       "https://eclecticlight.co/2023/08/19/macos-updates-for-apple-silicon-macs-are-larger-than-reported/"
-    ]
-  ],
-  [
-    [
-      "2023-08-20, 13:45:50",
-      "https://news.ycombinator.com/item?id=37199078"
-    ],
-    [
-      "De Facto Ports",
-      "https://matt-rickard.com/de-facto-ports"
     ]
   ],
   [
