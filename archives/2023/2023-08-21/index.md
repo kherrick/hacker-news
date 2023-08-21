@@ -4,14 +4,17 @@
 
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
+* [2023-08-21, 18:08:07](https://news.ycombinator.com/item?id=37213190) - [Latest Android Runtime (ART) update led to apps starting 30% faster](https://9to5google.com/2023/08/21/android-runtime-13-14-updates/)
 * [2023-08-21, 17:55:46](https://news.ycombinator.com/item?id=37213037) - [Shrinking Economies Don't Innovate](https://www.overcomingbias.com/p/shrinking-economies-dont-innovate)
 * [2023-08-21, 17:31:57](https://news.ycombinator.com/item?id=37212711) - [Lyrebird the Linux voice changer now supports PipeWire](https://github.com/lyrebird-voice-changer/lyrebird/releases/tag/v1.2.0)
 * [2023-08-21, 17:29:06](https://news.ycombinator.com/item?id=37212672) - [US Housing Affordability Hits Worst Point in Nearly Four Decades](https://www.bloomberg.com/news/articles/2023-08-17/rising-mortgage-rates-squeeze-affordability-in-us-housing-market)
+* [2023-08-21, 17:14:43](https://news.ycombinator.com/item?id=37212462) - [P2panda: P2P protocol for secure, energy-efficient local-first web applications](https://p2panda.org/)
 * [2023-08-21, 17:09:20](https://news.ycombinator.com/item?id=37212381) - [Show HN: My husband quit his job to build a new social audio app with Flutter](https://www.bubblic.app/)
 * [2023-08-21, 17:04:20](https://news.ycombinator.com/item?id=37212318) - [‘I Was Shadowbanned:’ How Hinge's Algorithm Decides Who You Date](https://gizmodo.com/hinge-dating-app-algorithm-1850744140)
 * [2023-08-21, 17:02:51](https://news.ycombinator.com/item?id=37212301) - [New York and California Each Lost $1T When Financial Firms Moved South](https://www.bloomberg.com/graphics/2023-asset-management-relocation-wall-street-south/)
 * [2023-08-21, 17:00:09](https://news.ycombinator.com/item?id=37212266) - [When I have a slower publishing cadence my blog grows faster](https://www.henrikkarlsson.xyz/p/effort-pieces)
 * [2023-08-21, 16:34:54](https://news.ycombinator.com/item?id=37211933) - [Build a Business, Not an Audience](https://jakobgreenfeld.com/build_an_audience)
+* [2023-08-21, 16:33:05](https://news.ycombinator.com/item?id=37211900) - [Bun v1.0 launching 9/1](https://bun.sh/1.0)
 * [2023-08-21, 16:20:02](https://news.ycombinator.com/item?id=37211675) - [Namecheap to increase .COM and .XYZ prices](https://www.namecheap.com/blog/upcoming-com-and-xyz-domain-price-increase/)
 * [2023-08-21, 16:11:01](https://news.ycombinator.com/item?id=37211542) - [MacLynx beta 5: UTF-8, pull-down menus and more dialogue boxes](http://oldvcr.blogspot.com/2023/08/maclynx-beta-5-utf-8-pull-down-menus.html)
 * [2023-08-21, 16:09:27](https://news.ycombinator.com/item?id=37211519) - [I Made Stable Diffusion XL Smarter by Finetuning It on Bad AI-Generated Images](https://minimaxir.com/2023/08/stable-diffusion-xl-wrong/)
