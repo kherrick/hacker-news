@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-21, 20:12:40](https://news.ycombinator.com/item?id=37214733) - [Google Pixel Binary Transparency: verifiable security for Pixel devices](https://security.googleblog.com/2023/08/pixel-binary-transparency-verifiable.html)
 * [2023-08-21, 19:41:39](https://news.ycombinator.com/item?id=37214342) - [Why Open Source?](https://getconvoy.io/blog/why-open-source/)
+* [2023-08-21, 19:40:15](https://news.ycombinator.com/item?id=37214321) - [Top Ten Most Frequent DNS Test Failures](https://dnsinstitute.com/research/2022/ten-common-failures-202204.html)
 * [2023-08-21, 19:30:06](https://news.ycombinator.com/item?id=37214212) - [Eighteen150 A residence program for solo immigrant founders](https://www.unshackledvc.com/eighteen150)
-* [2023-08-21, 19:15:27](https://news.ycombinator.com/item?id=37214043) - [How the rich get richer (2020)](https://www.imf.org/en/Blogs/Articles/2020/11/30/how-the-rich-get-richer)
 * [2023-08-21, 18:49:28](https://news.ycombinator.com/item?id=37213739) - [What does it mean for a monad to be strong?](http://blog.sigfpe.com/2023/08/what-does-it-mean-for-monad-to-be-strong.html)
 * [2023-08-21, 18:48:25](https://news.ycombinator.com/item?id=37213729) - [Show HN: VisionScript, abstract programming language for computer vision](https://github.com/capjamesg/visionscript)
 * [2023-08-21, 18:28:37](https://news.ycombinator.com/item?id=37213479) - [5 years ago Valve released Proton](https://www.gamingonlinux.com/2023/08/5-years-ago-valve-released-proton-forever-changing-linux-gaming/)
@@ -18,7 +19,6 @@
 * [2023-08-21, 15:33:11](https://news.ycombinator.com/item?id=37210953) - [Don't fire your illustrator](https://sambleckley.com/writing/dont-fire-your-illustrator.html)
 * [2023-08-21, 15:09:20](https://news.ycombinator.com/item?id=37210584) - [I come here not to bury Delphi, but to praise it (2019)](https://accu.org/journals/overload/27/153/martin_2703/)
 * [2023-08-21, 14:19:18](https://news.ycombinator.com/item?id=37209888) - [All of the vehicle license plates available in America](https://www.beautifulpublicdata.com/all-of-the-license-plates-in-the-united-states/)
-* [2023-08-21, 13:39:37](https://news.ycombinator.com/item?id=37209460) - [Study: Inflammation drives social media use](https://www.buffalo.edu/news/releases/2023/08/lee-inflammation-drives-social-media-use.html)
 * [2023-08-21, 13:27:20](https://news.ycombinator.com/item?id=37209309) - [Suppose I wanted to kill a lot of pilots (2020)](https://newsletter.butwhatfor.com/p/invert-always-invert-avoid-failure)
 * [2023-08-21, 13:24:43](https://news.ycombinator.com/item?id=37209279) - [Taos Operating System (1995)](http://www.uruk.org/emu/Taos.html)
 * [2023-08-21, 11:54:09](https://news.ycombinator.com/item?id=37208248) - [Show HN: The Uncolouring Book](https://lines.potato.horse)

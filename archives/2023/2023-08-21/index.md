@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
+* [2023-08-21, 20:12:40](https://news.ycombinator.com/item?id=37214733) - [Google Pixel Binary Transparency: verifiable security for Pixel devices](https://security.googleblog.com/2023/08/pixel-binary-transparency-verifiable.html)
 * [2023-08-21, 19:41:39](https://news.ycombinator.com/item?id=37214342) - [Why Open Source?](https://getconvoy.io/blog/why-open-source/)
+* [2023-08-21, 19:40:15](https://news.ycombinator.com/item?id=37214321) - [Top Ten Most Frequent DNS Test Failures](https://dnsinstitute.com/research/2022/ten-common-failures-202204.html)
 * [2023-08-21, 19:30:06](https://news.ycombinator.com/item?id=37214212) - [Eighteen150 A residence program for solo immigrant founders](https://www.unshackledvc.com/eighteen150)
 * [2023-08-21, 19:15:27](https://news.ycombinator.com/item?id=37214043) - [How the Rich Get Richer (2020)](https://www.imf.org/en/Blogs/Articles/2020/11/30/how-the-rich-get-richer)
 * [2023-08-21, 18:49:28](https://news.ycombinator.com/item?id=37213739) - [What does it mean for a monad to be strong?](http://blog.sigfpe.com/2023/08/what-does-it-mean-for-monad-to-be-strong.html)
