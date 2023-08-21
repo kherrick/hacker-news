@@ -95,6 +95,7 @@
 * [2023-08-19, 02:30:46](https://news.ycombinator.com/item?id=37184904) - [Cruise told by CA DMV to reduce robotaxi fleet 50% following crash](https://techcrunch.com/2023/08/18/cruise-told-by-regulators-to-immediately-reduce-robotaxi-fleet-50-following-crash/)
 * [2023-08-19, 02:27:49](https://news.ycombinator.com/item?id=37184884) - [How to Roman Republic 101, Part IIIb: Imperium](https://acoup.blog/2023/08/18/collections-how-to-roman-republic-101-part-iiib-imperium/)
 * [2023-08-19, 02:27:42](https://news.ycombinator.com/item?id=37184883) - [A new way to identify chiral molecules with light could vastly improve detection](https://phys.org/news/2023-08-chiral-molecules-vastly-efficiency.html)
+* [2023-08-19, 01:46:56](https://news.ycombinator.com/item?id=37184626) - [How Indian artists transformed the Buddha’s absence into presence](https://www.washingtonpost.com/entertainment/art/2023/08/14/buddha-metropolitan-museum-buddhism-india/)
 * [2023-08-19, 00:41:57](https://news.ycombinator.com/item?id=37184156) - [With LLMs, enterprise data is different](https://colinharman.substack.com/p/with-llms-enterprise-is-different)
 * [2023-08-19, 00:36:49](https://news.ycombinator.com/item?id=37184119) - [Chronosort](https://ledoc.itch.io/chronosort)
 * [2023-08-19, 00:36:22](https://news.ycombinator.com/item?id=37184117) - [TSMC – the world's most important company. And everyone wants control of it](https://www.abc.net.au/news/2023-08-19/tsmc-the-most-important-company-in-the-world/102728172)
