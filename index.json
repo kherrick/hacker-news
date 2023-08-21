@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-21, 17:31:57",
+      "https://news.ycombinator.com/item?id=37212711"
+    ],
+    [
+      "Lyrebird the Linux voice changer now supports PipeWire",
+      "https://github.com/lyrebird-voice-changer/lyrebird/releases/tag/v1.2.0"
+    ]
+  ],
+  [
+    [
+      "2023-08-21, 17:29:06",
+      "https://news.ycombinator.com/item?id=37212672"
+    ],
+    [
+      "US Housing Affordability Hits Worst Point in Nearly Four Decades",
+      "https://www.bloomberg.com/news/articles/2023-08-17/rising-mortgage-rates-squeeze-affordability-in-us-housing-market"
+    ]
+  ],
+  [
+    [
       "2023-08-21, 17:09:20",
       "https://news.ycombinator.com/item?id=37212381"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-08-21, 14:21:57",
-      "https://news.ycombinator.com/item?id=37209932"
-    ],
-    [
-      "Garbage Collection in a Large Lisp System (1984) [pdf]",
-      "https://dl.acm.org/doi/pdf/10.1145/800055.802040"
-    ]
-  ],
-  [
-    [
       "2023-08-21, 13:39:37",
       "https://news.ycombinator.com/item?id=37209460"
     ],
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2023-08-21, 06:26:41",
-      "https://news.ycombinator.com/item?id=37206061"
+      "2023-08-21, 05:58:53",
+      "https://news.ycombinator.com/item?id=37205902"
     ],
     [
-      "A man who can talk backwards (2017)",
-      "https://linguischtick.wordpress.com/2017/04/06/the-man-who-can-talk-backwards/"
+      "Taming High Cardinality by sharding a stream",
+      "https://last9.io/blog/how-we-tame-high-cardinality-by-sharding-a-stream/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Transcoding Latin 1 strings to UTF-8 strings at 12 GB/s using AVX-512",
       "https://lemire.me/blog/2023/08/18/transcoding-latin-1-strings-to-utf-8-strings-at-12-gb-s-using-avx-512/"
-    ]
-  ],
-  [
-    [
-      "2023-08-20, 08:36:18",
-      "https://news.ycombinator.com/item?id=37197243"
-    ],
-    [
-      "John Warnock has died",
-      "https://www.reuters.com/technology/adobes-co-founder-john-warnock-dies-82-2023-08-20/"
     ]
   ],
   [
