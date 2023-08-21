@@ -32,6 +32,7 @@
 * [2023-08-21, 16:34:54](https://news.ycombinator.com/item?id=37211933) - [Build a Business, Not an Audience](https://jakobgreenfeld.com/build_an_audience)
 * [2023-08-21, 16:33:05](https://news.ycombinator.com/item?id=37211900) - [Bun v1.0 launching 9/1](https://bun.sh/1.0)
 * [2023-08-21, 16:20:02](https://news.ycombinator.com/item?id=37211675) - [Namecheap to increase .COM and .XYZ prices](https://www.namecheap.com/blog/upcoming-com-and-xyz-domain-price-increase/)
+* [2023-08-21, 16:17:56](https://news.ycombinator.com/item?id=37211642) - [The broad set of computer science problems faced at cloud database companies](https://davidgomes.com/the-broad-set-of-computer-science-problems-faced-at-cloud-database-companies/)
 * [2023-08-21, 16:11:01](https://news.ycombinator.com/item?id=37211542) - [MacLynx beta 5: UTF-8, pull-down menus and more dialogue boxes](http://oldvcr.blogspot.com/2023/08/maclynx-beta-5-utf-8-pull-down-menus.html)
 * [2023-08-21, 16:09:27](https://news.ycombinator.com/item?id=37211519) - [I Made Stable Diffusion XL Smarter by Finetuning It on Bad AI-Generated Images](https://minimaxir.com/2023/08/stable-diffusion-xl-wrong/)
 * [2023-08-21, 16:05:39](https://news.ycombinator.com/item?id=37211462) - [9% price increase for .COM and .XYZ domains starting Sept 1, 2023](https://i.imgur.com/5cGazrG.png)
