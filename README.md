@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-21, 02:47:52](https://news.ycombinator.com/item?id=37204950) - [StableVideo: Text-Driven Consistency-Aware Diffusion Video Editing](https://rese1f.github.io/StableVideo/)
 * [2023-08-21, 01:20:48](https://news.ycombinator.com/item?id=37204473) - [My talk with Kris Nova about being homeless. See you on the other side, friend](https://kubecuddle.transistor.fm/episodes/dave-fogle-and-kris-nova)
 * [2023-08-21, 00:18:06](https://news.ycombinator.com/item?id=37204193) - [Useful San Francisco and Bay Area History Resources](https://sfmemory.org/)
 * [2023-08-20, 23:30:49](https://news.ycombinator.com/item?id=37203945) - [Changing its name tanked X's downloads in App Store and Play Store](https://daringfireball.net/linked/2023/08/19/seufert-x-downloads)
@@ -23,7 +24,6 @@
 * [2023-08-20, 14:24:58](https://news.ycombinator.com/item?id=37199449) - [macOS updates for Apple Silicon Macs are larger than reported](https://eclecticlight.co/2023/08/19/macos-updates-for-apple-silicon-macs-are-larger-than-reported/)
 * [2023-08-20, 13:45:50](https://news.ycombinator.com/item?id=37199078) - [De Facto Ports](https://matt-rickard.com/de-facto-ports)
 * [2023-08-20, 13:29:51](https://news.ycombinator.com/item?id=37198954) - [Shouldn't distant objects appear magnified?](https://astronomy.stackexchange.com/questions/54499/shouldnt-very-very-distant-objects-appear-magnified)
-* [2023-08-20, 13:19:23](https://news.ycombinator.com/item?id=37198853) - [A supramolecular organo-ionic electrolyte that can be liquidated for recycling](https://techxplore.com/news/2023-08-supramolecular-organo-ionic-electrolyte-liquidated-recycling.html)
 * [2023-08-20, 12:56:10](https://news.ycombinator.com/item?id=37198664) - [The Stick of Jan Sloot (2004)](https://www.spronck.net/sloot.html)
 * [2023-08-20, 08:36:18](https://news.ycombinator.com/item?id=37197243) - [John Warnock has died](https://www.reuters.com/technology/adobes-co-founder-john-warnock-dies-82-2023-08-20/)
 * [2023-08-20, 00:59:28](https://news.ycombinator.com/item?id=37194953) - [GCC always assumes aligned pointer accesses (2020)](https://trust-in-soft.com/blog/2020/04/06/gcc-always-assumes-aligned-pointer-accesses/)
