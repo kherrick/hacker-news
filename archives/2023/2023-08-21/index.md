@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
+* [2023-08-21, 03:43:49](https://news.ycombinator.com/item?id=37205215) - [Texas electricity prices soar 6k% as heat wave is expected to shatter records](https://desdemonadespair.net/2023/08/texas-electricity-prices-soar-6000-percent-as-a-fresh-heat-wave-is-expected-to-shatter-records-spot-electricity-prices-jumped-to-4750-per-megawatt-hour-from-the-average-of-75.html)
+* [2023-08-21, 03:09:20](https://news.ycombinator.com/item?id=37205053) - [FreeBSD replaces bubblesort with mergesort on SYSINTs, results in 100x speed](https://twitter.com/cperciva/status/1693127769901969772)
 * [2023-08-21, 03:04:51](https://news.ycombinator.com/item?id=37205029) - [Anxious brains redirect emotion regulation](https://www.nature.com/articles/s41467-023-40666-3)
 * [2023-08-21, 02:47:52](https://news.ycombinator.com/item?id=37204950) - [StableVideo: Text-Driven Consistency-Aware Diffusion Video Editing](https://rese1f.github.io/StableVideo/)
 * [2023-08-21, 02:42:41](https://news.ycombinator.com/item?id=37204926) - [Probability Can Bite](https://www.maa.org/external_archive/devlin/devlin_04_10.html)
