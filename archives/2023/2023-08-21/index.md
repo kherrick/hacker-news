@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
+* [2023-08-21, 17:55:46](https://news.ycombinator.com/item?id=37213037) - [Shrinking Economies Don't Innovate](https://www.overcomingbias.com/p/shrinking-economies-dont-innovate)
 * [2023-08-21, 17:31:57](https://news.ycombinator.com/item?id=37212711) - [Lyrebird the Linux voice changer now supports PipeWire](https://github.com/lyrebird-voice-changer/lyrebird/releases/tag/v1.2.0)
 * [2023-08-21, 17:29:06](https://news.ycombinator.com/item?id=37212672) - [US Housing Affordability Hits Worst Point in Nearly Four Decades](https://www.bloomberg.com/news/articles/2023-08-17/rising-mortgage-rates-squeeze-affordability-in-us-housing-market)
 * [2023-08-21, 17:09:20](https://news.ycombinator.com/item?id=37212381) - [Show HN: My husband quit his job to build a new social audio app with Flutter](https://www.bubblic.app/)
 * [2023-08-21, 17:04:20](https://news.ycombinator.com/item?id=37212318) - [‘I Was Shadowbanned:’ How Hinge's Algorithm Decides Who You Date](https://gizmodo.com/hinge-dating-app-algorithm-1850744140)
+* [2023-08-21, 17:02:51](https://news.ycombinator.com/item?id=37212301) - [New York and California Each Lost $1T When Financial Firms Moved South](https://www.bloomberg.com/graphics/2023-asset-management-relocation-wall-street-south/)
 * [2023-08-21, 17:00:09](https://news.ycombinator.com/item?id=37212266) - [When I have a slower publishing cadence my blog grows faster](https://www.henrikkarlsson.xyz/p/effort-pieces)
 * [2023-08-21, 16:34:54](https://news.ycombinator.com/item?id=37211933) - [Build a Business, Not an Audience](https://jakobgreenfeld.com/build_an_audience)
 * [2023-08-21, 16:20:02](https://news.ycombinator.com/item?id=37211675) - [Namecheap to increase .COM and .XYZ prices](https://www.namecheap.com/blog/upcoming-com-and-xyz-domain-price-increase/)
@@ -34,6 +36,7 @@
 * [2023-08-21, 12:44:21](https://news.ycombinator.com/item?id=37208751) - [Wi-Fi sniffers strapped to drones–Mike Lindell’s odd plan to stop election fraud](https://arstechnica.com/tech-policy/2023/08/wi-fi-sniffers-strapped-to-drones-mike-lindells-odd-plan-to-stop-election-fraud/)
 * [2023-08-21, 12:08:56](https://news.ycombinator.com/item?id=37208378) - [Anyone incarcerated 2+ years is going to return to their Google account deleted](https://twitter.com/GrahamStarr/status/1693119093526671859)
 * [2023-08-21, 11:55:02](https://news.ycombinator.com/item?id=37208257) - [Career Advice Nobody Gave Me: Never Ignore a Recruiter (2022)](https://index.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556)
+* [2023-08-21, 11:54:09](https://news.ycombinator.com/item?id=37208248) - [Show HN: The Uncolouring Book](https://lines.potato.horse)
 * [2023-08-21, 11:51:32](https://news.ycombinator.com/item?id=37208228) - [Why Bumblebees Love Cats and Other Beautiful Relationships (2021)](https://longreads.com/2021/03/23/nation-of-plants-excerpt-stefano-mancuso/)
 * [2023-08-21, 11:50:39](https://news.ycombinator.com/item?id=37208219) - [Windows 11 has made the “clean Windows install” an oxymoron](https://arstechnica.com/gadgets/2023/08/windows-11-has-made-the-clean-windows-install-an-oxymoron/)
 * [2023-08-21, 11:49:30](https://news.ycombinator.com/item?id=37208211) - [The Ideal Viewport Doesn't Exist](https://viewports.fyi/)
