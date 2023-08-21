@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-21, 05:16:03](https://news.ycombinator.com/item?id=37205731) - [We’re All Just Temporarily Abled](https://blog.jim-nielsen.com/2023/temporarily-abled/)
 * [2023-08-21, 05:13:16](https://news.ycombinator.com/item?id=37205717) - [Out-of-memory victim selection with BPF](https://lwn.net/SubscriberLink/941614/f873a0ec485e01c5/)
+* [2023-08-21, 04:59:01](https://news.ycombinator.com/item?id=37205647) - [Precompiled binaries removed from serde v1.0.184](https://github.com/serde-rs/serde/releases/tag/v1.0.184)
 * [2023-08-21, 03:09:20](https://news.ycombinator.com/item?id=37205053) - [FreeBSD replaces bubblesort with mergesort on SYSINTs](https://twitter.com/cperciva/status/1693127769901969772)
 * [2023-08-21, 03:04:51](https://news.ycombinator.com/item?id=37205029) - [Anxious brains redirect emotion regulation](https://www.nature.com/articles/s41467-023-40666-3)
 * [2023-08-21, 02:58:28](https://news.ycombinator.com/item?id=37204996) - [CLAs create different issues than making (small) open source contributions](https://utcc.utoronto.ca/~cks/space/blog/tech/CLAsImpedeContributionsII)
@@ -21,15 +23,13 @@
 * [2023-08-20, 18:23:18](https://news.ycombinator.com/item?id=37201688) - [Heat your house with a mechanical windmill (2019)](https://solar.lowtechmagazine.com/2019/02/heat-your-house-with-a-mechanical-windmill/)
 * [2023-08-20, 16:57:42](https://news.ycombinator.com/item?id=37200909) - [Run a macOS VM on Apple Silicon from a double-click with Vimy](https://eclecticlight.co/2023/08/17/run-a-macos-vm-on-apple-silicon-from-a-double-click-with-vimy/)
 * [2023-08-20, 16:28:13](https://news.ycombinator.com/item?id=37200615) - [So you want to learn physics (2021)](https://www.susanrigetti.com/physics)
-* [2023-08-20, 14:35:57](https://news.ycombinator.com/item?id=37199549) - [Ned Wright's JavaScript Cosmology Calculator](https://www.astro.ucla.edu/~wright/CosmoCalc.html)
-* [2023-08-20, 14:28:04](https://news.ycombinator.com/item?id=37199479) - [VidCutter: A program for lossless video cutting](https://github.com/ozmartian/vidcutter)
 * [2023-08-20, 14:24:58](https://news.ycombinator.com/item?id=37199449) - [macOS updates for Apple Silicon Macs are larger than reported](https://eclecticlight.co/2023/08/19/macos-updates-for-apple-silicon-macs-are-larger-than-reported/)
 * [2023-08-20, 13:29:51](https://news.ycombinator.com/item?id=37198954) - [Shouldn't distant objects appear magnified?](https://astronomy.stackexchange.com/questions/54499/shouldnt-very-very-distant-objects-appear-magnified)
 * [2023-08-20, 08:36:18](https://news.ycombinator.com/item?id=37197243) - [John Warnock has died](https://www.reuters.com/technology/adobes-co-founder-john-warnock-dies-82-2023-08-20/)
-* [2023-08-19, 23:29:28](https://news.ycombinator.com/item?id=37194394) - [Electrical detection of RNA cancer biomarkers at the single-molecule level](https://medicalxpress.com/news/2023-08-electrical-rna-cancer-biomarkers-single-molecule.html)
 * [2023-08-19, 21:46:26](https://news.ycombinator.com/item?id=37193599) - [Vector databases: analyzing the trade-offs](https://thedataquarry.com/posts/vector-db-4/)
 * [2023-08-19, 21:33:37](https://news.ycombinator.com/item?id=37193461) - [Blue-light glasses may not reduce eyestrain from screens, study says](https://www.washingtonpost.com/wellness/2023/08/17/blue-light-filter-glasses-eye/)
 * [2023-08-19, 10:41:12](https://news.ycombinator.com/item?id=37187388) - [Atari Tempest: Time-Lapse Photography (2016)](https://arcadeblogger.com/2016/07/15/atari-tempest-photography/)
+* [2023-08-19, 09:53:24](https://news.ycombinator.com/item?id=37187145) - [A Fistful of Tropes](http://www.antipope.org/charlie/blog-static/2023/08/a-fistful-of-tropes.html)
 
 ## [Archives](archives/index.md)
 

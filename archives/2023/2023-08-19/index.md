@@ -75,6 +75,7 @@
 * [2023-08-19, 10:41:12](https://news.ycombinator.com/item?id=37187388) - [Atari Tempest: Time-Lapse Photography (2016)](https://arcadeblogger.com/2016/07/15/atari-tempest-photography/)
 * [2023-08-19, 10:28:26](https://news.ycombinator.com/item?id=37187320) - [Ask HN: How to contract for US companies as EU national](https://news.ycombinator.com/item?id=37187320)
 * [2023-08-19, 10:21:27](https://news.ycombinator.com/item?id=37187278) - [Flipping the model presents a new way to treat sleep apnoea](https://news.flinders.edu.au/blog/2023/08/08/flipping-the-model-presents-a-new-way-to-treat-sleep-apnoea/)
+* [2023-08-19, 09:53:24](https://news.ycombinator.com/item?id=37187145) - [A Fistful of Tropes](http://www.antipope.org/charlie/blog-static/2023/08/a-fistful-of-tropes.html)
 * [2023-08-19, 09:52:35](https://news.ycombinator.com/item?id=37187138) - [Bambu Owners Woke Up Yesterday to Find Their 3D Printers Had Gone Rogue](https://themessenger.com/tech/bambu-owners-3d-printers-malfunction-cloud-print-twice)
 * [2023-08-19, 09:35:16](https://news.ycombinator.com/item?id=37187051) - [America’s Obsession with Weight-Loss Drugs Is Affecting the Economy of Denmark](https://www.wsj.com/economy/central-banking/americas-obsession-with-weight-loss-drugs-is-affecting-the-economy-of-denmark-22797e5c)
 * [2023-08-19, 09:14:29](https://news.ycombinator.com/item?id=37186959) - [Spotify Annoyed by People Uploading Hours of White Noise](https://futurism.com/the-byte/spotify-white-noise)
