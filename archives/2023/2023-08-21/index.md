@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
+* [2023-08-21, 17:31:57](https://news.ycombinator.com/item?id=37212711) - [Lyrebird the Linux voice changer now supports PipeWire](https://github.com/lyrebird-voice-changer/lyrebird/releases/tag/v1.2.0)
+* [2023-08-21, 17:29:06](https://news.ycombinator.com/item?id=37212672) - [US Housing Affordability Hits Worst Point in Nearly Four Decades](https://www.bloomberg.com/news/articles/2023-08-17/rising-mortgage-rates-squeeze-affordability-in-us-housing-market)
 * [2023-08-21, 17:09:20](https://news.ycombinator.com/item?id=37212381) - [Show HN: My husband quit his job to build a new social audio app with Flutter](https://www.bubblic.app/)
 * [2023-08-21, 17:04:20](https://news.ycombinator.com/item?id=37212318) - [‘I Was Shadowbanned:’ How Hinge's Algorithm Decides Who You Date](https://gizmodo.com/hinge-dating-app-algorithm-1850744140)
 * [2023-08-21, 17:00:09](https://news.ycombinator.com/item?id=37212266) - [When I have a slower publishing cadence my blog grows faster](https://www.henrikkarlsson.xyz/p/effort-pieces)
@@ -44,6 +46,7 @@
 * [2023-08-21, 07:20:26](https://news.ycombinator.com/item?id=37206353) - [Be careful of the examples you use. They stick](https://blog.thinkst.com/2023/08/default-behaviour-sticks-and-so-do-examples.html)
 * [2023-08-21, 06:26:41](https://news.ycombinator.com/item?id=37206061) - [A man who can talk backwards](https://linguischtick.wordpress.com/2017/04/06/the-man-who-can-talk-backwards/)
 * [2023-08-21, 06:24:50](https://news.ycombinator.com/item?id=37206052) - [To Conference Organisers Everywhere](https://arunraghavan.net/2023/08/to-conference-organisers-everywhere/)
+* [2023-08-21, 05:58:53](https://news.ycombinator.com/item?id=37205902) - [Taming High Cardinality by sharding a stream](https://last9.io/blog/how-we-tame-high-cardinality-by-sharding-a-stream/)
 * [2023-08-21, 05:16:03](https://news.ycombinator.com/item?id=37205731) - [We’re All Just Temporarily Abled](https://blog.jim-nielsen.com/2023/temporarily-abled/)
 * [2023-08-21, 05:13:16](https://news.ycombinator.com/item?id=37205717) - [Out-of-memory victim selection with BPF](https://lwn.net/SubscriberLink/941614/f873a0ec485e01c5/)
 * [2023-08-21, 04:59:01](https://news.ycombinator.com/item?id=37205647) - [Precompiled binaries removed from serde v1.0.184](https://github.com/serde-rs/serde/releases/tag/v1.0.184)
