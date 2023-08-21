@@ -15,6 +15,7 @@
 * [2023-08-20, 21:27:54](https://news.ycombinator.com/item?id=37203078) - [Judge who signed Kansas newspaper search warrant had 2 DUI arrests, reports say](https://www.npr.org/2023/08/17/1194392001/judge-who-signed-kansas-newspaper-search-warrant-had-2-dui-arrests-reports-say)
 * [2023-08-20, 21:26:22](https://news.ycombinator.com/item?id=37203067) - [16-bit Serial Homebrew CPU – 2023](https://www.jiristepanovsky.cz/project.php?p=23cpu)
 * [2023-08-20, 21:26:07](https://news.ycombinator.com/item?id=37203065) - [Show HN: Fake Hacker News – See what HN has to say before you post](https://www.fakehn.com/)
+* [2023-08-20, 20:38:52](https://news.ycombinator.com/item?id=37202732) - [12,000-year-old sequins hint at a shared culture in Indonesian islands](https://cosmosmagazine.com/history/archaeology/12000-year-old-sequins-hint-at-a-shared-culture-in-indonesian-islands/)
 * [2023-08-20, 20:37:59](https://news.ycombinator.com/item?id=37202727) - [Jazz² Resurrection: Open-source Jazz Jackrabbit 2 reimplementation](http://deat.tk/jazz2/)
 * [2023-08-20, 20:36:30](https://news.ycombinator.com/item?id=37202714) - [Ruby's Hash Is A Swiss-Army Knife](https://www.akshaykhot.com/ruby-hash-is-a-swiss-army-knife/)
 * [2023-08-20, 20:31:50](https://news.ycombinator.com/item?id=37202680) - [Ghana's MPs pass bill criminalising witchcraft accusation](https://www.trtafrika.com:443/africa/ghanas-mps-pass-bill-criminalising-witchcraft-accusation-14238700)
