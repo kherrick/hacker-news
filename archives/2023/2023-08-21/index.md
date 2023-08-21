@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
+* [2023-08-21, 19:41:39](https://news.ycombinator.com/item?id=37214342) - [Why Open Source?](https://getconvoy.io/blog/why-open-source/)
 * [2023-08-21, 19:30:06](https://news.ycombinator.com/item?id=37214212) - [Eighteen150 A residence program for solo immigrant founders](https://www.unshackledvc.com/eighteen150)
 * [2023-08-21, 19:15:27](https://news.ycombinator.com/item?id=37214043) - [How the Rich Get Richer (2020)](https://www.imf.org/en/Blogs/Articles/2020/11/30/how-the-rich-get-richer)
 * [2023-08-21, 18:49:28](https://news.ycombinator.com/item?id=37213739) - [What does it mean for a monad to be strong?](http://blog.sigfpe.com/2023/08/what-does-it-mean-for-monad-to-be-strong.html)
@@ -57,6 +58,7 @@
 * [2023-08-21, 08:08:27](https://news.ycombinator.com/item?id=37206651) - [English is a pictographic language with 26 radicals](https://www.smbc-comics.com/comic/pronounce)
 * [2023-08-21, 07:46:38](https://news.ycombinator.com/item?id=37206520) - [Show HN: I'm Sending a Weekly PHP Community Newsletter](https://weeklyphp.substack.com/)
 * [2023-08-21, 07:20:26](https://news.ycombinator.com/item?id=37206353) - [Be careful of the examples you use. They stick](https://blog.thinkst.com/2023/08/default-behaviour-sticks-and-so-do-examples.html)
+* [2023-08-21, 06:51:53](https://news.ycombinator.com/item?id=37206204) - [Building a digital music collection in 2023](https://www.worthe-it.co.za/blog/2023-08-20-building-a-digital-music-collection-in-2023.html)
 * [2023-08-21, 06:26:41](https://news.ycombinator.com/item?id=37206061) - [A man who can talk backwards](https://linguischtick.wordpress.com/2017/04/06/the-man-who-can-talk-backwards/)
 * [2023-08-21, 06:24:50](https://news.ycombinator.com/item?id=37206052) - [To Conference Organisers Everywhere](https://arunraghavan.net/2023/08/to-conference-organisers-everywhere/)
 * [2023-08-21, 05:58:53](https://news.ycombinator.com/item?id=37205902) - [Taming High Cardinality by sharding a stream](https://last9.io/blog/how-we-tame-high-cardinality-by-sharding-a-stream/)
