@@ -7,7 +7,7 @@
 * [2023-08-21, 18:48:25](https://news.ycombinator.com/item?id=37213729) - [Show HN: VisionScript, abstract programming language for computer vision](https://github.com/capjamesg/visionscript)
 * [2023-08-21, 18:28:37](https://news.ycombinator.com/item?id=37213479) - [5 years ago Valve released Proton](https://www.gamingonlinux.com/2023/08/5-years-ago-valve-released-proton-forever-changing-linux-gaming/)
 * [2023-08-21, 18:08:07](https://news.ycombinator.com/item?id=37213190) - [Latest Android Runtime (ART) update led to apps starting 30% faster](https://9to5google.com/2023/08/21/android-runtime-13-14-updates/)
-* [2023-08-21, 18:03:52](https://news.ycombinator.com/item?id=37213134) - [Critical hearing looms in battle over California’s last nuclear power plant](https://www.thenewlede.org/2023/08/critical-hearing-looms-in-battle-over-californias-last-nuclear-power-plant/)
+* [2023-08-21, 18:01:41](https://news.ycombinator.com/item?id=37213107) - [Early Days of AI](https://blog.eladgil.com/p/early-days-of-ai)
 * [2023-08-21, 17:31:57](https://news.ycombinator.com/item?id=37212711) - [Lyrebird the Linux voice changer now supports PipeWire](https://github.com/lyrebird-voice-changer/lyrebird/releases/tag/v1.2.0)
 * [2023-08-21, 17:14:43](https://news.ycombinator.com/item?id=37212462) - [P2panda: P2P protocol for secure, energy-efficient local-first web applications](https://p2panda.org/)
 * [2023-08-21, 17:00:09](https://news.ycombinator.com/item?id=37212266) - [When I have a slower publishing cadence my blog grows faster](https://www.henrikkarlsson.xyz/p/effort-pieces)

@@ -12,6 +12,7 @@
 * [2023-08-21, 18:28:37](https://news.ycombinator.com/item?id=37213479) - [5 years ago Valve released Proton forever changing Linux gaming](https://www.gamingonlinux.com/2023/08/5-years-ago-valve-released-proton-forever-changing-linux-gaming/)
 * [2023-08-21, 18:08:07](https://news.ycombinator.com/item?id=37213190) - [Latest Android Runtime (ART) update led to apps starting 30% faster](https://9to5google.com/2023/08/21/android-runtime-13-14-updates/)
 * [2023-08-21, 18:03:52](https://news.ycombinator.com/item?id=37213134) - [Critical hearing looms in battle over California’s last nuclear power plant](https://www.thenewlede.org/2023/08/critical-hearing-looms-in-battle-over-californias-last-nuclear-power-plant/)
+* [2023-08-21, 18:01:41](https://news.ycombinator.com/item?id=37213107) - [Early Days of AI](https://blog.eladgil.com/p/early-days-of-ai)
 * [2023-08-21, 17:55:46](https://news.ycombinator.com/item?id=37213037) - [Shrinking Economies Don't Innovate](https://www.overcomingbias.com/p/shrinking-economies-dont-innovate)
 * [2023-08-21, 17:31:57](https://news.ycombinator.com/item?id=37212711) - [Lyrebird the Linux voice changer now supports PipeWire](https://github.com/lyrebird-voice-changer/lyrebird/releases/tag/v1.2.0)
 * [2023-08-21, 17:29:06](https://news.ycombinator.com/item?id=37212672) - [US Housing Affordability Hits Worst Point in Nearly Four Decades](https://www.bloomberg.com/news/articles/2023-08-17/rising-mortgage-rates-squeeze-affordability-in-us-housing-market)
