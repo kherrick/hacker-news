@@ -83,6 +83,7 @@
 * [2023-08-20, 05:44:41](https://news.ycombinator.com/item?id=37196461) - [Welcome to Datasette Cloud](https://www.datasette.cloud/blog/2023/welcome/)
 * [2023-08-20, 05:41:34](https://news.ycombinator.com/item?id=37196440) - [The ReMarkable Streaming Tool v2: Elevating Remote Work Efficiency](https://blog.owulveryck.info/2023/07/25/evolving-the-game-a-clientless-streaming-tool-for-remarkable-2.html)
 * [2023-08-20, 05:28:58](https://news.ycombinator.com/item?id=37196382) - [How Surround Sound for Headphones Works](https://hajo.me/blog/2014/12/28/how-surround-sound-for-headphones-works/)
+* [2023-08-20, 05:19:11](https://news.ycombinator.com/item?id=37196336) - [First United States Army Group](https://en.wikipedia.org/wiki/First_United_States_Army_Group)
 * [2023-08-20, 04:45:22](https://news.ycombinator.com/item?id=37196192) - [This Boat Don't Float (2009)](https://www.startribune.com/this-boat-don-t-float/49134952/)
 * [2023-08-20, 04:09:40](https://news.ycombinator.com/item?id=37196055) - [MacPaint and QuickDraw Source Code – CHM](https://computerhistory.org/blog/macpaint-and-quickdraw-source-code/)
 * [2023-08-20, 03:58:38](https://news.ycombinator.com/item?id=37195992) - [Gov. Newsom declares state of emergency for southern California](https://www.cnn.com/2023/08/19/weather/hurricane-hilary-california-southwest-tropical-storm-saturday/index.html)
