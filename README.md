@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-21, 15:13:47](https://news.ycombinator.com/item?id=37210650) - [American workers are demanding almost $80k a year to take a new job](https://www.cnbc.com/2023/08/21/american-workers-are-demanding-almost-80000-a-year-to-take-a-new-job.html)
 * [2023-08-21, 14:56:36](https://news.ycombinator.com/item?id=37210397) - [Flatpak is not the future (2021)](https://ludocode.com/blog/flatpak-is-not-the-future)
 * [2023-08-21, 14:19:18](https://news.ycombinator.com/item?id=37209888) - [All of the vehicle license plates available in America](https://www.beautifulpublicdata.com/all-of-the-license-plates-in-the-united-states/)
 * [2023-08-21, 14:02:57](https://news.ycombinator.com/item?id=37209684) - [Duo Outage](https://status.duo.com)
@@ -20,7 +21,6 @@
 * [2023-08-21, 02:58:28](https://news.ycombinator.com/item?id=37204996) - [CLAs create different issues than making (small) open source contributions](https://utcc.utoronto.ca/~cks/space/blog/tech/CLAsImpedeContributionsII)
 * [2023-08-21, 02:47:52](https://news.ycombinator.com/item?id=37204950) - [StableVideo: Text-Driven Consistency-Aware Diffusion Video Editing](https://rese1f.github.io/StableVideo/)
 * [2023-08-21, 02:12:35](https://news.ycombinator.com/item?id=37204775) - [GNU Radio software-defined radio (SDR) implementation of a LoRa transceiver](https://github.com/tapparelj/gr-lora_sdr)
-* [2023-08-20, 22:34:51](https://news.ycombinator.com/item?id=37203584) - [The Republic of Cows](https://hakaimagazine.com/features/the-republic-of-cows/)
 * [2023-08-20, 20:38:52](https://news.ycombinator.com/item?id=37202732) - [12,000-year-old sequins hint at a shared culture in Indonesian islands](https://cosmosmagazine.com/history/archaeology/12000-year-old-sequins-hint-at-a-shared-culture-in-indonesian-islands/)
 * [2023-08-20, 20:37:59](https://news.ycombinator.com/item?id=37202727) - [Jazz² Resurrection: Open-source Jazz Jackrabbit 2 reimplementation](http://deat.tk/jazz2/)
 * [2023-08-20, 14:24:58](https://news.ycombinator.com/item?id=37199449) - [macOS updates for Apple Silicon Macs are larger than reported](https://eclecticlight.co/2023/08/19/macos-updates-for-apple-silicon-macs-are-larger-than-reported/)

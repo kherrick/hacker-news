@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
+* [2023-08-21, 15:13:47](https://news.ycombinator.com/item?id=37210650) - [American workers are demanding almost $80k a year to take a new job](https://www.cnbc.com/2023/08/21/american-workers-are-demanding-almost-80000-a-year-to-take-a-new-job.html)
 * [2023-08-21, 14:56:36](https://news.ycombinator.com/item?id=37210397) - [Flatpak is not the future (2021)](https://ludocode.com/blog/flatpak-is-not-the-future)
 * [2023-08-21, 14:19:18](https://news.ycombinator.com/item?id=37209888) - [All of the vehicle license plates available in America](https://www.beautifulpublicdata.com/all-of-the-license-plates-in-the-united-states/)
 * [2023-08-21, 14:02:57](https://news.ycombinator.com/item?id=37209684) - [Duo Outage](https://status.duo.com)
