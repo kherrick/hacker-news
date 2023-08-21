@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-21, 21:56:29](https://news.ycombinator.com/item?id=37215892) - [Baghdad closes LED advert screens after hacker shows porn film on a screen](https://www.iraqinews.com/iraq/baghdad-closes-led-advert-screens-after-hacker-shows-porn-film-on-a-screen/)
+* [2023-08-21, 21:51:45](https://news.ycombinator.com/item?id=37215829) - [Associated Press clarifies standards around generative AI](https://www.niemanlab.org/2023/08/not-a-replacement-of-journalists-in-any-way-ap-clarifies-standards-around-generative-ai/)
 * [2023-08-21, 21:23:51](https://news.ycombinator.com/item?id=37215557) - [uBlock Origin Lite now available on Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin-lite/)
 * [2023-08-21, 21:09:35](https://news.ycombinator.com/item?id=37215400) - [Educational Codebases](https://buttondown.email/hillelwayne/archive/educational-codebases/)
 * [2023-08-21, 20:57:23](https://news.ycombinator.com/item?id=37215246) - [SolarPi experiment 2: Finally something that works](http://blog.rfox.eu/en/Hardware/SolarPi_experiment_2_Finally_something_that_works.html)
@@ -27,7 +28,6 @@
 * [2023-08-21, 11:54:09](https://news.ycombinator.com/item?id=37208248) - [Show HN: The Uncolouring Book](https://lines.potato.horse)
 * [2023-08-21, 11:49:30](https://news.ycombinator.com/item?id=37208211) - [The ideal viewport doesn't exist](https://viewports.fyi/)
 * [2023-08-21, 09:40:25](https://news.ycombinator.com/item?id=37207237) - [A retiring consultant’s advice on consultants](https://www.economist.com/business/2023/08/17/a-retiring-consultants-advice-on-consultants)
-* [2023-08-21, 06:51:53](https://news.ycombinator.com/item?id=37206204) - [Building a digital music collection in 2023](https://www.worthe-it.co.za/blog/2023-08-20-building-a-digital-music-collection-in-2023.html)
 * [2023-08-20, 10:52:19](https://news.ycombinator.com/item?id=37197921) - [Transcoding Latin 1 strings to UTF-8 strings at 12 GB/s using AVX-512](https://lemire.me/blog/2023/08/18/transcoding-latin-1-strings-to-utf-8-strings-at-12-gb-s-using-avx-512/)
 * [2023-08-19, 22:49:00](https://news.ycombinator.com/item?id=37194128) - [Show HN: Just intonation keyboard – play music without knowing music](https://ad8e.pages.dev/keyboard)
 
