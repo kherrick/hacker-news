@@ -2,6 +2,7 @@
 
 * [2023-08-21, 11:55:02](https://news.ycombinator.com/item?id=37208257) - [Career Advice Nobody Gave Me: Never Ignore a Recruiter (2022)](https://index.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556)
 * [2023-08-21, 11:50:39](https://news.ycombinator.com/item?id=37208219) - [Windows 11 has made the “clean Windows install” an oxymoron](https://arstechnica.com/gadgets/2023/08/windows-11-has-made-the-clean-windows-install-an-oxymoron/)
+* [2023-08-21, 11:49:30](https://news.ycombinator.com/item?id=37208211) - [The Ideal Viewport Doesn't Exist](https://viewports.fyi/)
 * [2023-08-21, 11:31:15](https://news.ycombinator.com/item?id=37208083) - [GNU Parallel, where have you been all my life?](https://alexplescan.com/posts/2023/08/20/gnu-parallel/)
 * [2023-08-21, 09:55:14](https://news.ycombinator.com/item?id=37207329) - [Most companies do not need Snowflake or Databricks](https://kjhealey.medium.com/cached-takes-80-of-companies-do-not-need-snowflake-or-databricks-5ebda64c0853)
 * [2023-08-21, 08:56:36](https://news.ycombinator.com/item?id=37206953) - [Last rites for the UK Online Safety Bill, an idea too stupid to notice it's dead](https://www.theregister.com/2023/08/21/opinion_column_monday/)
@@ -15,7 +16,6 @@
 * [2023-08-21, 03:04:51](https://news.ycombinator.com/item?id=37205029) - [Anxious brains redirect emotion regulation](https://www.nature.com/articles/s41467-023-40666-3)
 * [2023-08-21, 02:58:28](https://news.ycombinator.com/item?id=37204996) - [CLAs create different issues than making (small) open source contributions](https://utcc.utoronto.ca/~cks/space/blog/tech/CLAsImpedeContributionsII)
 * [2023-08-21, 02:47:52](https://news.ycombinator.com/item?id=37204950) - [StableVideo: Text-Driven Consistency-Aware Diffusion Video Editing](https://rese1f.github.io/StableVideo/)
-* [2023-08-21, 02:42:41](https://news.ycombinator.com/item?id=37204926) - [Probability Can Bite (2010)](https://www.maa.org/external_archive/devlin/devlin_04_10.html)
 * [2023-08-21, 02:12:35](https://news.ycombinator.com/item?id=37204775) - [GNU Radio software-defined radio (SDR) implementation of a LoRa transceiver](https://github.com/tapparelj/gr-lora_sdr)
 * [2023-08-20, 23:01:31](https://news.ycombinator.com/item?id=37203761) - [Cell therapy repairs cornea damage with patient's stem cells gives trial results](https://medicalxpress.com/news/2023-08-cell-therapy-cornea-patient-stem.html)
 * [2023-08-20, 22:34:51](https://news.ycombinator.com/item?id=37203584) - [The Republic of Cows](https://hakaimagazine.com/features/the-republic-of-cows/)
