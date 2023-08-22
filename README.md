@@ -20,6 +20,7 @@
 * [2023-08-22, 15:23:09](https://news.ycombinator.com/item?id=37224042) - [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
 * [2023-08-22, 14:01:49](https://news.ycombinator.com/item?id=37222855) - [Architecture diagrams enable better conversations](https://www.unravelled.dev/how-architecture-diagrams-enable-better-conversations/)
 * [2023-08-22, 13:58:58](https://news.ycombinator.com/item?id=37222823) - [Prettymapp – Create maps from OpenStreetMap data in a Streamlit webapp](https://github.com/chrieke/prettymapp)
+* [2023-08-22, 13:58:50](https://news.ycombinator.com/item?id=37222822) - [SeamlessM4T, a Multimodal AI Model for Speech and Text Translation](https://about.fb.com/news/2023/08/seamlessm4t-ai-translation-model/)
 * [2023-08-22, 13:48:41](https://news.ycombinator.com/item?id=37222672) - [Hackers can use credit bureaus to dox nearly anyone in America](https://www.404media.co/the-secret-weapon-hackers-can-use-to-dox-nearly-anyone-in-america-for-15-tlo-usinfosearch-transunion/)
 * [2023-08-22, 13:41:40](https://news.ycombinator.com/item?id=37222571) - [The new science of meditation](https://www.vox.com/future-perfect/23836358/meditation-mindfulness-enlightenment-science-contemplative-buddhism-spirituality)
 * [2023-08-22, 13:10:09](https://news.ycombinator.com/item?id=37222191) - [Microsoft is bringing Python to Excel](https://www.theverge.com/2023/8/22/23841167/microsoft-excel-python-integration-support)
@@ -27,7 +28,6 @@
 * [2023-08-22, 12:05:18](https://news.ycombinator.com/item?id=37221487) - [Close to the Machine: Technophilia and its discontents](https://manu.zone/books/close-to-the-machine/)
 * [2023-08-22, 10:09:49](https://news.ycombinator.com/item?id=37220667) - [A good measurement culture where numbers don’t replace common sense](https://blog.promaton.com/how-to-avoid-kpi-psychosis-in-your-organization-5ffc83967f2b)
 * [2023-08-22, 07:17:52](https://news.ycombinator.com/item?id=37219643) - [The Populist Advantage](https://www.project-syndicate.org/commentary/populist-economic-policies-easier-sell-than-liberal-orthodoxy-by-raghuram-rajan-2023-08?barrier=accesspaylog)
-* [2023-08-22, 06:53:05](https://news.ycombinator.com/item?id=37219513) - [Transactions in a Microservice World](https://wso2.com/whitepapers/transactions-in-a-microservice-world/)
 * [2023-08-22, 02:07:56](https://news.ycombinator.com/item?id=37217761) - [Compile-Time Checked Truth Tables](https://blog.ploeh.dk/2023/08/21/compile-time-type-checked-truth-tables/)
 * [2023-08-21, 20:26:31](https://news.ycombinator.com/item?id=37214898) - [Kullback–Leibler divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)
 
