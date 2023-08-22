@@ -1,13 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-22, 13:17:34](https://news.ycombinator.com/item?id=37222277) - [What does it mean when an LLM “hallucinates” & why do LLMs hallucinate?](https://labelbox.com/blog/what-does-it-mean-when-an-llm-hallucinates/)
 * [2023-08-22, 13:10:09](https://news.ycombinator.com/item?id=37222191) - [Microsoft is bringing Python to Excel](https://www.theverge.com/2023/8/22/23841167/microsoft-excel-python-integration-support)
 * [2023-08-22, 12:35:53](https://news.ycombinator.com/item?id=37221792) - [Libre Office ReleaseNotes 7.6](https://wiki.documentfoundation.org/ReleaseNotes/7.6/en)
-* [2023-08-22, 12:29:51](https://news.ycombinator.com/item?id=37221725) - [Airport Pianos: Find Pianos in Airports](https://airportpianos.org)
 * [2023-08-22, 12:05:18](https://news.ycombinator.com/item?id=37221487) - [Ellen Ullman wrote the most precise account of “computer culture” I have seen](https://manu.zone/books/close-to-the-machine/)
 * [2023-08-22, 12:00:09](https://news.ycombinator.com/item?id=37221454) - [GiveCampus (YC S15) Is Hiring Rails engineers passionate about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2023-08-22, 11:40:18](https://news.ycombinator.com/item?id=37221287) - [Northvolt raises $1.2B convertible note from BlackRock](https://sifted.eu/articles/northvolt-1-2bn-convertible-blackrock-news)
 * [2023-08-22, 11:18:25](https://news.ycombinator.com/item?id=37221138) - [Simple PowerShell things allowing you to dig a bit deeper than usual](https://github.com/gtworek/PSBits)
+* [2023-08-22, 10:46:01](https://news.ycombinator.com/item?id=37220885) - [Prompting, realized, and unrealized bias in generative AI](http://marble.onl/posts/code_of_practice_and_bias.html)
 * [2023-08-22, 10:40:51](https://news.ycombinator.com/item?id=37220851) - [New JWST data confirms, worsens the Hubble tension](https://bigthink.com/starts-with-a-bang/jwst-confirms-worsens-hubble-tension/)
 * [2023-08-22, 10:37:51](https://news.ycombinator.com/item?id=37220828) - [Antonmedv/walk: Terminal file manager](https://github.com/antonmedv/walk)
 * [2023-08-22, 10:09:49](https://news.ycombinator.com/item?id=37220667) - [Why KPIs are destroying businesses](https://blog.promaton.com/how-to-avoid-kpi-psychosis-in-your-organization-5ffc83967f2b?gi=aaf774f21dbb)
@@ -29,6 +28,7 @@
 * [2023-08-21, 16:17:56](https://news.ycombinator.com/item?id=37211642) - [The broad set of computer science problems faced at cloud database companies](https://davidgomes.com/the-broad-set-of-computer-science-problems-faced-at-cloud-database-companies/)
 * [2023-08-21, 16:07:11](https://news.ycombinator.com/item?id=37211482) - [Toy Models of Superposition (2022)](https://transformer-circuits.pub/2022/toy_model/index.html)
 * [2023-08-21, 15:58:50](https://news.ycombinator.com/item?id=37211365) - [Clever coating turns lampshades into indoor air purifiers](https://techxplore.com/news/2023-08-clever-coating-lampshades-indoor-air.html)
+* [2023-08-21, 14:39:47](https://news.ycombinator.com/item?id=37210146) - [How to use a Breadboard. How do breadboards work? (2021) [video]](https://www.youtube.com/watch?v=BYOiYvdaCis)
 * [2023-08-21, 11:54:09](https://news.ycombinator.com/item?id=37208248) - [Show HN: The Uncolouring Book](https://lines.potato.horse)
 
 ## [Archives](archives/index.md)
