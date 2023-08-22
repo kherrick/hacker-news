@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-22, 17:00:29](https://news.ycombinator.com/item?id=37225550) - [Emerge (YC W21) is hiring a lead front end engineer [remote, small team]](https://www.workatastartup.com/jobs/61922/)
+* [2023-08-22, 16:55:07](https://news.ycombinator.com/item?id=37225467) - [‘Broken’ solar panels manufactured specifically for South Africa](https://dailyinvestor.com/energy/28170/broken-solar-panels-manufactured-specifically-for-south-africa/)
 * [2023-08-22, 16:51:17](https://news.ycombinator.com/item?id=37225397) - [6 Archetypes of Broken Ownership](https://blog.alexewerlof.com/p/broken-ownership)
 * [2023-08-22, 16:16:57](https://news.ycombinator.com/item?id=37224861) - [Noiszy: A browser plugin that creates meaningless web data – digital “noise.”](https://noiszy.com)
 * [2023-08-22, 16:02:03](https://news.ycombinator.com/item?id=37224651) - [Structured Logging with Slog](https://go.dev/blog/slog)
@@ -9,9 +10,8 @@
 * [2023-08-22, 15:29:24](https://news.ycombinator.com/item?id=37224148) - [Show HN: FlakeHub – Discover and publish Nix flakes](https://flakehub.com/)
 * [2023-08-22, 15:23:09](https://news.ycombinator.com/item?id=37224042) - [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
 * [2023-08-22, 15:03:49](https://news.ycombinator.com/item?id=37223776) - [Show HN: OpenCopilot – Build Your Open-Source Copilot in a Single Day](https://github.com/opencopilotdev/opencopilot)
-* [2023-08-22, 14:51:12](https://news.ycombinator.com/item?id=37223580) - [Show HN: Cosmic Media – Search millions of stock photos and videos](https://news.ycombinator.com/item?id=37223580)
 * [2023-08-22, 14:33:32](https://news.ycombinator.com/item?id=37223323) - [1919 Cartoon Depicting the Use of a ‘Pocket Telephone’](https://www.vintag.es/2023/08/the-pocket-telephone.html)
-* [2023-08-22, 14:01:49](https://news.ycombinator.com/item?id=37222855) - [Architecture diagrams enable better conversations](https://www.unravelled.dev/how-architecture-diagrams-enable-better-conversations/)
+* [2023-08-22, 14:15:20](https://news.ycombinator.com/item?id=37223018) - [Inkscape possible domain compromise](https://discourse.nixos.org/t/inkscape-possible-domain-compromise/32008)
 * [2023-08-22, 13:58:58](https://news.ycombinator.com/item?id=37222823) - [Prettymapp – Create beautiful maps from OpenStreetMap data in a streamlit webapp](https://github.com/chrieke/prettymapp)
 * [2023-08-22, 13:58:50](https://news.ycombinator.com/item?id=37222822) - [Meta Releases SeamlessM4T, a Multimodal AI Model for Speech and Text Translation](https://about.fb.com/news/2023/08/seamlessm4t-ai-translation-model/)
 * [2023-08-22, 13:48:41](https://news.ycombinator.com/item?id=37222672) - [The Secret Weapon Hackers Can Use to Dox Nearly Anyone in America for $15](https://www.404media.co/the-secret-weapon-hackers-can-use-to-dox-nearly-anyone-in-america-for-15-tlo-usinfosearch-transunion/)
