@@ -2,6 +2,7 @@
 
 * [2023-08-22, 22:58:38](https://news.ycombinator.com/item?id=37229689) - [Dashworks is hiring ML and fullstack engineers](https://www.dashworks.ai/company#jobs)
 * [2023-08-22, 22:28:06](https://news.ycombinator.com/item?id=37229403) - [OpenSAFELY is a secure, open-source platform for analysis of health records data](https://www.opensafely.org/about/#core-design-features-for-privacy-transparency-and-open-working)
+* [2023-08-22, 22:14:37](https://news.ycombinator.com/item?id=37229270) - [Skiff – Privacy-first end-to-end encrypted email](https://skiff.com)
 * [2023-08-22, 22:09:19](https://news.ycombinator.com/item?id=37229212) - [Thoughts on Flash (2010)](https://web.archive.org/web/20170615060422/https://www.apple.com/hotnews/thoughts-on-flash/)
 * [2023-08-22, 21:49:08](https://news.ycombinator.com/item?id=37228975) - [LibreOffice 24.2 Will Succeed LibreOffice 7.6](https://www.phoronix.com/news/LibreOffice-24.2-Up-Next)
 * [2023-08-22, 21:34:51](https://news.ycombinator.com/item?id=37228822) - [An Old Conjecture Falls, Making Spheres a Lot More Complicated](https://www.quantamagazine.org/an-old-conjecture-falls-making-spheres-a-lot-more-complicated-20230822/)
@@ -27,7 +28,6 @@
 * [2023-08-22, 12:05:18](https://news.ycombinator.com/item?id=37221487) - [Close to the Machine: Technophilia and its discontents](https://manu.zone/books/close-to-the-machine/)
 * [2023-08-22, 10:09:49](https://news.ycombinator.com/item?id=37220667) - [A good measurement culture where numbers don’t replace common sense](https://blog.promaton.com/how-to-avoid-kpi-psychosis-in-your-organization-5ffc83967f2b)
 * [2023-08-22, 07:17:52](https://news.ycombinator.com/item?id=37219643) - [The Populist Advantage](https://www.project-syndicate.org/commentary/populist-economic-policies-easier-sell-than-liberal-orthodoxy-by-raghuram-rajan-2023-08?barrier=accesspaylog)
-* [2023-08-22, 05:50:12](https://news.ycombinator.com/item?id=37219121) - [Inverting Gauss’ Formula](https://blog.demofox.org/2023/08/21/inverting-gauss-formula/)
 * [2023-08-22, 02:07:56](https://news.ycombinator.com/item?id=37217761) - [Compile-Time Checked Truth Tables](https://blog.ploeh.dk/2023/08/21/compile-time-type-checked-truth-tables/)
 * [2023-08-21, 20:26:31](https://news.ycombinator.com/item?id=37214898) - [Kullback–Leibler divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)
 
