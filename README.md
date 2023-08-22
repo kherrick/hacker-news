@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-22, 12:00:09](https://news.ycombinator.com/item?id=37221454) - [GiveCampus (YC S15) Is Hiring Rails engineers passionate about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+* [2023-08-22, 11:40:18](https://news.ycombinator.com/item?id=37221287) - [Northvolt raises $1.2B convertible note from BlackRock](https://sifted.eu/articles/northvolt-1-2bn-convertible-blackrock-news)
 * [2023-08-22, 11:31:10](https://news.ycombinator.com/item?id=37221224) - [US must land astronauts on the Moon again](https://www.theregister.com/2023/08/09/nasa_artemis_2_update/)
 * [2023-08-22, 11:18:25](https://news.ycombinator.com/item?id=37221138) - [Simple PowerShell things allowing you to dig a bit deeper than usual](https://github.com/gtworek/PSBits)
 * [2023-08-22, 10:46:01](https://news.ycombinator.com/item?id=37220885) - [Prompting, realized, and unrealized bias in generative AI](http://marble.onl/posts/code_of_practice_and_bias.html)
@@ -20,14 +22,12 @@
 * [2023-08-22, 02:58:43](https://news.ycombinator.com/item?id=37218114) - [Unlocking Discord Nitro features for free](https://blog.0x7d0.dev/history/unlocking-discord-nitro-features-for-free/)
 * [2023-08-22, 02:25:17](https://news.ycombinator.com/item?id=37217871) - [Compuserve](https://www.compuserve.com/)
 * [2023-08-22, 01:39:18](https://news.ycombinator.com/item?id=37217561) - [Who the Tech Is Meant For](https://monkeynoodle.org/2023/08/20/who-the-tech-is-meant-for/)
-* [2023-08-22, 01:12:05](https://news.ycombinator.com/item?id=37217364) - [Justpaid.io (YC W23) Is Hiring Founding Frontend Engineer](https://www.ycombinator.com/companies/justpaid-io/jobs/oCjZzPi-founding-frontend-engineer-contract-to-hire)
 * [2023-08-22, 00:39:12](https://news.ycombinator.com/item?id=37217139) - [NY Times Rides in Waymo Robotaxis in SF](https://www.nytimes.com/2023/08/21/technology/waymo-driverless-cars-san-francisco.html)
-* [2023-08-21, 21:23:51](https://news.ycombinator.com/item?id=37215557) - [uBlock Origin Lite now available on Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin-lite/)
+* [2023-08-21, 21:51:45](https://news.ycombinator.com/item?id=37215829) - [Associated Press clarifies standards around generative AI](https://www.niemanlab.org/2023/08/not-a-replacement-of-journalists-in-any-way-ap-clarifies-standards-around-generative-ai/)
 * [2023-08-21, 16:17:56](https://news.ycombinator.com/item?id=37211642) - [The broad set of computer science problems faced at cloud database companies](https://davidgomes.com/the-broad-set-of-computer-science-problems-faced-at-cloud-database-companies/)
 * [2023-08-21, 16:07:11](https://news.ycombinator.com/item?id=37211482) - [Toy Models of Superposition (2022)](https://transformer-circuits.pub/2022/toy_model/index.html)
 * [2023-08-21, 15:58:50](https://news.ycombinator.com/item?id=37211365) - [Clever coating turns lampshades into indoor air purifiers](https://techxplore.com/news/2023-08-clever-coating-lampshades-indoor-air.html)
 * [2023-08-21, 14:39:47](https://news.ycombinator.com/item?id=37210146) - [How to use a Breadboard. How do breadboards work? (2021) [video]](https://www.youtube.com/watch?v=BYOiYvdaCis)
-* [2023-08-21, 14:36:22](https://news.ycombinator.com/item?id=37210103) - [FreeBSD Experimenting with a Port of Nvidia's Linux Open DRM Kernel Driver](https://www.phoronix.com/news/FreeBSD-Port-Linux-DRM-KO)
 * [2023-08-21, 11:54:09](https://news.ycombinator.com/item?id=37208248) - [Show HN: The Uncolouring Book](https://lines.potato.horse)
 * [2023-08-21, 04:34:43](https://news.ycombinator.com/item?id=37205536) - [Unix is both a technology and an idea](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixTechnologyAndIdea)
 

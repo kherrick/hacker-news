@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
+* [2023-08-22, 12:00:09](https://news.ycombinator.com/item?id=37221454) - [GiveCampus (YC S15) Is Hiring Rails engineers passionate about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+* [2023-08-22, 11:40:18](https://news.ycombinator.com/item?id=37221287) - [Northvolt raises $1.2B convertible note from BlackRock](https://sifted.eu/articles/northvolt-1-2bn-convertible-blackrock-news)
 * [2023-08-22, 11:31:10](https://news.ycombinator.com/item?id=37221224) - [US must land astronauts on the Moon again](https://www.theregister.com/2023/08/09/nasa_artemis_2_update/)
 * [2023-08-22, 11:18:25](https://news.ycombinator.com/item?id=37221138) - [Simple PowerShell things allowing you to dig a bit deeper than usual](https://github.com/gtworek/PSBits)
 * [2023-08-22, 10:46:01](https://news.ycombinator.com/item?id=37220885) - [Prompting, realized, and unrealized bias in generative AI](http://marble.onl/posts/code_of_practice_and_bias.html)
