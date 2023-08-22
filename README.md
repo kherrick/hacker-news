@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-22, 13:48:31](https://news.ycombinator.com/item?id=37222669) - [Hand Coded SLisp](https://github.com/0x3444ac53/HCSL)
+* [2023-08-22, 13:48:28](https://news.ycombinator.com/item?id=37222668) - [Extend a C/C++ Project with Zig (2021)](https://zig.news/kristoff/extend-a-c-c-project-with-zig-55di)
 * [2023-08-22, 13:26:47](https://news.ycombinator.com/item?id=37222393) - [The Feds Asked TikTok for Lots of Domestic Spying Features](https://gizmodo.com/tiktok-cfius-draft-agreement-shows-spying-requests-1850759715)
 * [2023-08-22, 13:10:09](https://news.ycombinator.com/item?id=37222191) - [Microsoft is bringing Python to Excel](https://www.theverge.com/2023/8/22/23841167/microsoft-excel-python-integration-support)
 * [2023-08-22, 12:35:53](https://news.ycombinator.com/item?id=37221792) - [Libre Office ReleaseNotes 7.6](https://wiki.documentfoundation.org/ReleaseNotes/7.6/en)
@@ -28,8 +30,6 @@
 * [2023-08-21, 20:26:31](https://news.ycombinator.com/item?id=37214898) - [Kullback–Leibler Divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)
 * [2023-08-21, 16:07:11](https://news.ycombinator.com/item?id=37211482) - [Toy Models of Superposition (2022)](https://transformer-circuits.pub/2022/toy_model/index.html)
 * [2023-08-21, 15:58:50](https://news.ycombinator.com/item?id=37211365) - [Clever coating turns lampshades into indoor air purifiers](https://techxplore.com/news/2023-08-clever-coating-lampshades-indoor-air.html)
-* [2023-08-21, 14:39:47](https://news.ycombinator.com/item?id=37210146) - [How to use a Breadboard. How do breadboards work? (2021) [video]](https://www.youtube.com/watch?v=BYOiYvdaCis)
-* [2023-08-21, 11:54:09](https://news.ycombinator.com/item?id=37208248) - [Show HN: The Uncolouring Book](https://lines.potato.horse)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
+* [2023-08-22, 13:48:31](https://news.ycombinator.com/item?id=37222669) - [Hand Coded SLisp](https://github.com/0x3444ac53/HCSL)
+* [2023-08-22, 13:48:28](https://news.ycombinator.com/item?id=37222668) - [Extend a C/C++ Project with Zig (2021)](https://zig.news/kristoff/extend-a-c-c-project-with-zig-55di)
 * [2023-08-22, 13:26:47](https://news.ycombinator.com/item?id=37222393) - [The Feds Asked TikTok for Lots of Domestic Spying Features](https://gizmodo.com/tiktok-cfius-draft-agreement-shows-spying-requests-1850759715)
 * [2023-08-22, 13:17:34](https://news.ycombinator.com/item?id=37222277) - [What does it mean when an LLM “hallucinates” & why do LLMs hallucinate?](https://labelbox.com/blog/what-does-it-mean-when-an-llm-hallucinates/)
 * [2023-08-22, 13:10:09](https://news.ycombinator.com/item?id=37222191) - [Microsoft is bringing Python to Excel](https://www.theverge.com/2023/8/22/23841167/microsoft-excel-python-integration-support)
