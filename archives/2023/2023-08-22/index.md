@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
+* [2023-08-22, 17:29:12](https://news.ycombinator.com/item?id=37225965) - [Become Fluent in New Testament Greek](https://www.fluentgreeknt.com)
 * [2023-08-22, 17:00:29](https://news.ycombinator.com/item?id=37225550) - [Emerge (YC W21) is hiring a lead front end engineer [remote, small team]](https://www.workatastartup.com/jobs/61922/)
 * [2023-08-22, 16:55:07](https://news.ycombinator.com/item?id=37225467) - [‘Broken’ solar panels manufactured specifically for South Africa](https://dailyinvestor.com/energy/28170/broken-solar-panels-manufactured-specifically-for-south-africa/)
 * [2023-08-22, 16:51:17](https://news.ycombinator.com/item?id=37225397) - [6 Archetypes of Broken Ownership](https://blog.alexewerlof.com/p/broken-ownership)
