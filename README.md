@@ -27,7 +27,7 @@
 * [2023-08-21, 11:49:30](https://news.ycombinator.com/item?id=37208211) - [The ideal viewport doesn't exist](https://viewports.fyi/)
 * [2023-08-21, 11:12:39](https://news.ycombinator.com/item?id=37207927) - [Bluegrass Archive](https://bluegrassarchive.com/)
 * [2023-08-21, 09:40:25](https://news.ycombinator.com/item?id=37207237) - [A retiring consultant’s advice on consultants](https://www.economist.com/business/2023/08/17/a-retiring-consultants-advice-on-consultants)
-* [2023-08-21, 09:30:57](https://news.ycombinator.com/item?id=37207165) - [Ask HN: How to monetize a website that is making views?](https://news.ycombinator.com/item?id=37207165)
+* [2023-08-21, 06:51:53](https://news.ycombinator.com/item?id=37206204) - [Building a digital music collection in 2023](https://www.worthe-it.co.za/blog/2023-08-20-building-a-digital-music-collection-in-2023.html)
 * [2023-08-21, 04:34:43](https://news.ycombinator.com/item?id=37205536) - [Unix is both a technology and an idea](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixTechnologyAndIdea)
 * [2023-08-19, 22:49:00](https://news.ycombinator.com/item?id=37194128) - [Show HN: Just intonation keyboard – play music without knowing music](https://ad8e.pages.dev/keyboard)
 
