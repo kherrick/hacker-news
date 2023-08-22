@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-22, 20:56:34](https://news.ycombinator.com/item?id=37228412) - [Phone.wtf](https://phone.wtf/)
+* [2023-08-22, 21:49:08](https://news.ycombinator.com/item?id=37228975) - [LibreOffice 24.2 Will Succeed LibreOffice 7.6](https://www.phoronix.com/news/LibreOffice-24.2-Up-Next)
 * [2023-08-22, 20:35:04](https://news.ycombinator.com/item?id=37228166) - [Your brain on emoji](https://nautil.us/your-🧠-on-emoji-365823/)
-* [2023-08-22, 20:31:09](https://news.ycombinator.com/item?id=37228154) - [Have You Ever Heard of the Fernet Encryption Algorithm?](https://isc.sans.edu/diary/0)
 * [2023-08-22, 20:29:07](https://news.ycombinator.com/item?id=37228124) - [Tech jobs market normalizing as July unemployment dips](https://www.ciodive.com/news/compTIA-july-tech-jobs-report-BLS/690033/)
 * [2023-08-22, 20:21:12](https://news.ycombinator.com/item?id=37228028) - [When Trucks Fly](https://www.newyorker.com/magazine/2023/08/21/when-trucks-fly)
 * [2023-08-22, 19:09:47](https://news.ycombinator.com/item?id=37227229) - [G. Polya, How to Solve It](https://www.math.utah.edu/~alfeld/math/polya.html)
@@ -24,6 +23,7 @@
 * [2023-08-22, 13:10:09](https://news.ycombinator.com/item?id=37222191) - [Microsoft is bringing Python to Excel](https://www.theverge.com/2023/8/22/23841167/microsoft-excel-python-integration-support)
 * [2023-08-22, 12:15:28](https://news.ycombinator.com/item?id=37221576) - [My Pebble mood tracker app from 2016](https://www.nothingeasyaboutthis.com/moodapp/)
 * [2023-08-22, 12:05:18](https://news.ycombinator.com/item?id=37221487) - [Close to the Machine: Technophilia and its discontents](https://manu.zone/books/close-to-the-machine/)
+* [2023-08-22, 11:18:25](https://news.ycombinator.com/item?id=37221138) - [Simple PowerShell things allowing you to dig a bit deeper than usual](https://github.com/gtworek/PSBits)
 * [2023-08-22, 10:09:49](https://news.ycombinator.com/item?id=37220667) - [A good measurement culture where numbers don’t replace common sense](https://blog.promaton.com/how-to-avoid-kpi-psychosis-in-your-organization-5ffc83967f2b)
 * [2023-08-22, 07:17:52](https://news.ycombinator.com/item?id=37219643) - [The Populist Advantage](https://www.project-syndicate.org/commentary/populist-economic-policies-easier-sell-than-liberal-orthodoxy-by-raghuram-rajan-2023-08?barrier=accesspaylog)
 * [2023-08-22, 06:53:05](https://news.ycombinator.com/item?id=37219513) - [Transactions in a Microservice World](https://wso2.com/whitepapers/transactions-in-a-microservice-world/)
