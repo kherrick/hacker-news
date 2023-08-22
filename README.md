@@ -10,6 +10,7 @@
 * [2023-08-22, 17:00:29](https://news.ycombinator.com/item?id=37225550) - [Emerge (YC W21) is hiring a lead front end engineer (remote, small team)](https://www.workatastartup.com/jobs/61922/)
 * [2023-08-22, 16:51:17](https://news.ycombinator.com/item?id=37225397) - [Broken Ownership](https://blog.alexewerlof.com/p/broken-ownership)
 * [2023-08-22, 16:02:03](https://news.ycombinator.com/item?id=37224651) - [Structured logging with slog](https://go.dev/blog/slog)
+* [2023-08-22, 15:43:13](https://news.ycombinator.com/item?id=37224377) - [Show HN: Points and Miles Database](https://www.points411.com/)
 * [2023-08-22, 15:29:24](https://news.ycombinator.com/item?id=37224148) - [Show HN: FlakeHub – Discover and publish Nix flakes](https://flakehub.com/)
 * [2023-08-22, 15:23:09](https://news.ycombinator.com/item?id=37224042) - [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
 * [2023-08-22, 15:03:49](https://news.ycombinator.com/item?id=37223776) - [Show HN: OpenCopilot – Build and embed open-source AI copilots into your product](https://github.com/opencopilotdev/opencopilot)
@@ -27,7 +28,6 @@
 * [2023-08-22, 10:09:49](https://news.ycombinator.com/item?id=37220667) - [A good measurement culture where numbers don’t replace common sense](https://blog.promaton.com/how-to-avoid-kpi-psychosis-in-your-organization-5ffc83967f2b)
 * [2023-08-22, 06:53:05](https://news.ycombinator.com/item?id=37219513) - [Transactions in a Microservice World](https://wso2.com/whitepapers/transactions-in-a-microservice-world/)
 * [2023-08-22, 05:50:12](https://news.ycombinator.com/item?id=37219121) - [Inverting Gauss’ Formula](https://blog.demofox.org/2023/08/21/inverting-gauss-formula/)
-* [2023-08-22, 04:57:26](https://news.ycombinator.com/item?id=37218841) - [I walked across Luxembourg](https://blog.ioces.com/matt/posts/i-walked-across-luxembourg/)
 * [2023-08-22, 02:07:56](https://news.ycombinator.com/item?id=37217761) - [Compile-Time Checked Truth Tables](https://blog.ploeh.dk/2023/08/21/compile-time-type-checked-truth-tables/)
 * [2023-08-21, 20:26:31](https://news.ycombinator.com/item?id=37214898) - [Kullback–Leibler divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)
 
