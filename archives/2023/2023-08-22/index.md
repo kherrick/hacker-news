@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
+* [2023-08-22, 11:31:10](https://news.ycombinator.com/item?id=37221224) - [US must land astronauts on the Moon again](https://www.theregister.com/2023/08/09/nasa_artemis_2_update/)
 * [2023-08-22, 10:46:01](https://news.ycombinator.com/item?id=37220885) - [Prompting, realized, and unrealized bias in generative AI](http://marble.onl/posts/code_of_practice_and_bias.html)
 * [2023-08-22, 10:40:51](https://news.ycombinator.com/item?id=37220851) - [New JWST data confirms, worsens the Hubble tension](https://bigthink.com/starts-with-a-bang/jwst-confirms-worsens-hubble-tension/)
 * [2023-08-22, 10:26:30](https://news.ycombinator.com/item?id=37220744) - [Consciousness in AI: Insights from the Science of Consciousness](https://arxiv.org/abs/2308.08708)
@@ -27,6 +28,7 @@
 * [2023-08-22, 02:35:23](https://news.ycombinator.com/item?id=37217940) - [America’s corporate giants are getting harder to topple](https://www.economist.com/business/2023/08/21/americas-corporate-giants-are-getting-harder-to-topple)
 * [2023-08-22, 02:31:27](https://news.ycombinator.com/item?id=37217917) - [Jeff Bezos on AI, 1998](https://www.jessewright.com/jeff-bezos-on-ai-1998)
 * [2023-08-22, 02:25:17](https://news.ycombinator.com/item?id=37217871) - [Compuserve](https://www.compuserve.com/)
+* [2023-08-22, 01:39:18](https://news.ycombinator.com/item?id=37217561) - [Who the Tech Is Meant For](https://monkeynoodle.org/2023/08/20/who-the-tech-is-meant-for/)
 * [2023-08-22, 01:22:48](https://news.ycombinator.com/item?id=37217450) - [The Cost of Living/Housing Crisis](https://www.metafilter.com/200377/The-Cost-of-Living-Housing-Crisis)
 * [2023-08-22, 01:12:05](https://news.ycombinator.com/item?id=37217364) - [Justpaid.io (YC W23) Is Hiring Founding Front End Engineer](https://www.ycombinator.com/companies/justpaid-io/jobs/oCjZzPi-founding-frontend-engineer-contract-to-hire)
 * [2023-08-22, 00:39:12](https://news.ycombinator.com/item?id=37217139) - [NY Times Rides in Waymo Robotaxis in SF](https://www.nytimes.com/2023/08/21/technology/waymo-driverless-cars-san-francisco.html)
