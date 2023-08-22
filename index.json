@@ -1,12 +1,32 @@
 [
   [
     [
-      "2023-08-21, 23:27:49",
-      "https://news.ycombinator.com/item?id=37216700"
+      "2023-08-21, 23:44:54",
+      "https://news.ycombinator.com/item?id=37216800"
     ],
     [
-      "Why a highly mutated coronavirus variant has scientists on alert",
-      "https://www.nature.com/articles/d41586-023-02656-9"
+      "Podman Desktop celebrates 500k downloads",
+      "https://blog.podman.io/2023/08/celebrating-500k-downloads-the-podman-desktop-journey-%f0%9f%8e%89/"
+    ]
+  ],
+  [
+    [
+      "2023-08-21, 23:21:26",
+      "https://news.ycombinator.com/item?id=37216647"
+    ],
+    [
+      "Growing share of Americans favor more nuclear power",
+      "https://www.pewresearch.org/short-reads/2023/08/18/growing-share-of-americans-favor-more-nuclear-power/"
+    ]
+  ],
+  [
+    [
+      "2023-08-21, 22:05:17",
+      "https://news.ycombinator.com/item?id=37215974"
+    ],
+    [
+      "Ego Death",
+      "https://krisnova.net/posts/ego-death/"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "uBlock Origin Lite now available on Firefox",
       "https://addons.mozilla.org/en-US/firefox/addon/ublock-origin-lite/"
+    ]
+  ],
+  [
+    [
+      "2023-08-21, 21:20:55",
+      "https://news.ycombinator.com/item?id=37215526"
+    ],
+    [
+      "Screen Time at Age 1 Year and Communication, Problem-Solving Developmental Delay",
+      "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2808593"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "Why Open Source?",
       "https://getconvoy.io/blog/why-open-source/"
-    ]
-  ],
-  [
-    [
-      "2023-08-21, 19:40:15",
-      "https://news.ycombinator.com/item?id=37214321"
-    ],
-    [
-      "Top Ten Most Frequent DNS Test Failures",
-      "https://dnsinstitute.com/research/2022/ten-common-failures-202204.html"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "P2panda: P2P protocol for secure, energy-efficient local-first web applications",
       "https://p2panda.org/"
-    ]
-  ],
-  [
-    [
-      "2023-08-21, 17:00:09",
-      "https://news.ycombinator.com/item?id=37212266"
-    ],
-    [
-      "When I have a slower publishing cadence my blog grows faster",
-      "https://www.henrikkarlsson.xyz/p/effort-pieces"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Building a digital music collection in 2023",
       "https://www.worthe-it.co.za/blog/2023-08-20-building-a-digital-music-collection-in-2023.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-20, 10:52:19",
-      "https://news.ycombinator.com/item?id=37197921"
-    ],
-    [
-      "Transcoding Latin 1 strings to UTF-8 strings at 12 GB/s using AVX-512",
-      "https://lemire.me/blog/2023/08/18/transcoding-latin-1-strings-to-utf-8-strings-at-12-gb-s-using-avx-512/"
     ]
   ],
   [
