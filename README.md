@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-22, 15:29:24](https://news.ycombinator.com/item?id=37224148) - [Show HN: FlakeHub – Discover and publish Nix flakes](https://flakehub.com/)
 * [2023-08-22, 15:23:09](https://news.ycombinator.com/item?id=37224042) - [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
 * [2023-08-22, 14:25:15](https://news.ycombinator.com/item?id=37223175) - [Atari Launches Atari 2600+](https://atari.com/products/atari-2600-plus)
 * [2023-08-22, 14:15:20](https://news.ycombinator.com/item?id=37223018) - [Inkscape possible domain compromise](https://discourse.nixos.org/t/inkscape-possible-domain-compromise/32008)
@@ -20,15 +21,14 @@
 * [2023-08-22, 11:18:25](https://news.ycombinator.com/item?id=37221138) - [Simple PowerShell things allowing you to dig a bit deeper than usual](https://github.com/gtworek/PSBits)
 * [2023-08-22, 10:37:51](https://news.ycombinator.com/item?id=37220828) - [Antonmedv/walk: Terminal file manager](https://github.com/antonmedv/walk)
 * [2023-08-22, 10:09:49](https://news.ycombinator.com/item?id=37220667) - [Why KPIs are destroying businesses](https://blog.promaton.com/how-to-avoid-kpi-psychosis-in-your-organization-5ffc83967f2b?gi=aaf774f21dbb)
-* [2023-08-22, 08:28:33](https://news.ycombinator.com/item?id=37220023) - [Darling Progress Report Q2 2023](https://blog.darlinghq.org/2023/08/21/progress-report-q2-2023/)
 * [2023-08-22, 07:44:50](https://news.ycombinator.com/item?id=37219779) - [Arm Announces Public Filing for Proposed Initial Public Offering](https://www.arm.com/company/news/2023/08/arm-announces-public-filing-of-registration-statement-for-proposed-initial-public-offering)
 * [2023-08-22, 06:31:11](https://news.ycombinator.com/item?id=37219374) - [Effects of natural and artificial light on man and other living things (1909)](https://archive.org/details/healthlighteffec00ottj)
+* [2023-08-22, 05:36:26](https://news.ycombinator.com/item?id=37219058) - [QuickSort Algorithm (2018) [video]](https://www.youtube.com/watch?v=7h1s2SojIRw)
 * [2023-08-22, 05:04:49](https://news.ycombinator.com/item?id=37218879) - [STM32 family grows to microprocessor/Linux level with STM32MP1](https://www.st.com/en/microcontrollers-microprocessors/stm32mp1-series.html)
 * [2023-08-22, 04:57:26](https://news.ycombinator.com/item?id=37218841) - [I walked across Luxembourg](https://blog.ioces.com/matt/posts/i-walked-across-luxembourg/)
 * [2023-08-22, 04:34:04](https://news.ycombinator.com/item?id=37218727) - [Electrolyzer efficiently converts CO2 into renewable propane fuel](https://scienceswitch.com/2023/08/22/revolutionary-electrolyzer-efficiently-converts-co2-into-renewable-propane-fuel/)
 * [2023-08-22, 03:20:32](https://news.ycombinator.com/item?id=37218263) - [Learn AutoHotKey by stealing my scripts](https://www.hillelwayne.com/post/ahk-scripts-project/)
 * [2023-08-22, 02:58:43](https://news.ycombinator.com/item?id=37218114) - [Unlocking Discord Nitro features for free](https://blog.0x7d0.dev/history/unlocking-discord-nitro-features-for-free/)
-* [2023-08-22, 01:39:18](https://news.ycombinator.com/item?id=37217561) - [Who the Tech Is Meant For](https://monkeynoodle.org/2023/08/20/who-the-tech-is-meant-for/)
 * [2023-08-21, 20:26:31](https://news.ycombinator.com/item?id=37214898) - [Kullback–Leibler Divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)
 
 ## [Archives](archives/index.md)
