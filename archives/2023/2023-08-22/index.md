@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
+* [2023-08-22, 23:24:18](https://news.ycombinator.com/item?id=37229898) - [A State Official Refused to Release Water for West Maui Fires](https://www.civilbeat.org/2023/08/a-state-official-refused-to-release-water-for-west-maui-fires-until-it-was-too-late/)
 * [2023-08-22, 22:58:38](https://news.ycombinator.com/item?id=37229689) - [Dashworks is hiring ML and fullstack engineers](https://www.dashworks.ai/company#jobs)
 * [2023-08-22, 22:28:06](https://news.ycombinator.com/item?id=37229403) - [OpenSAFELY is a secure, open-source platform for analysis of health records data](https://www.opensafely.org/about/#core-design-features-for-privacy-transparency-and-open-working)
 * [2023-08-22, 22:14:37](https://news.ycombinator.com/item?id=37229270) - [Skiff – Privacy-first end-to-end encrypted email](https://skiff.com)

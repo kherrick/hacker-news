@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-22, 23:24:18](https://news.ycombinator.com/item?id=37229898) - [A State Official Refused to Release Water for West Maui Fires](https://www.civilbeat.org/2023/08/a-state-official-refused-to-release-water-for-west-maui-fires-until-it-was-too-late/)
 * [2023-08-22, 22:58:38](https://news.ycombinator.com/item?id=37229689) - [Dashworks is hiring ML and fullstack engineers](https://www.dashworks.ai/company#jobs)
 * [2023-08-22, 22:28:06](https://news.ycombinator.com/item?id=37229403) - [OpenSAFELY is a secure, open-source platform for analysis of health records data](https://www.opensafely.org/about/#core-design-features-for-privacy-transparency-and-open-working)
 * [2023-08-22, 22:14:37](https://news.ycombinator.com/item?id=37229270) - [Skiff – Privacy-first end-to-end encrypted email](https://skiff.com)
@@ -9,7 +10,6 @@
 * [2023-08-22, 20:48:05](https://news.ycombinator.com/item?id=37228304) - [How to Write Software with Zero bugs – 25 years after qmail 1.0 – D. Bernstein [pdf]](https://cr.yp.to/qmail/qmailsec-20071101.pdf)
 * [2023-08-22, 20:21:12](https://news.ycombinator.com/item?id=37228028) - [When Trucks Fly](https://www.newyorker.com/magazine/2023/08/21/when-trucks-fly)
 * [2023-08-22, 20:19:35](https://news.ycombinator.com/item?id=37228004) - [Beyond SQL: A relational database for modern applications](https://fauna.com/blog/beyond-sql)
-* [2023-08-22, 19:32:37](https://news.ycombinator.com/item?id=37227496) - [Tom Moulton, Father of the Disco Mix (1976)](https://blog.gingerbeardman.com/2023/08/22/tom-moulton-father-of-the-disco-mix/)
 * [2023-08-22, 19:09:47](https://news.ycombinator.com/item?id=37227229) - [G. Polya, How to Solve It](https://www.math.utah.edu/~alfeld/math/polya.html)
 * [2023-08-22, 19:02:37](https://news.ycombinator.com/item?id=37227139) - [GPT-3.5 Turbo fine-tuning and API updates](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates)
 * [2023-08-22, 17:56:52](https://news.ycombinator.com/item?id=37226360) - [Asyncio, twisted, tornado, gevent walk into a bar](https://www.bitecode.dev/p/asyncio-twisted-tornado-gevent-walk)
