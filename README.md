@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-22, 22:09:19](https://news.ycombinator.com/item?id=37229212) - [Thoughts on Flash (2010)](https://web.archive.org/web/20170615060422/https://www.apple.com/hotnews/thoughts-on-flash/)
-* [2023-08-22, 21:50:03](https://news.ycombinator.com/item?id=37228987) - [Longtime Super Mario voice actor Charles Martinet retires from the role](https://www.axios.com/2023/08/21/charles-martinet-super-mario-voice)
 * [2023-08-22, 21:49:08](https://news.ycombinator.com/item?id=37228975) - [LibreOffice 24.2 Will Succeed LibreOffice 7.6](https://www.phoronix.com/news/LibreOffice-24.2-Up-Next)
 * [2023-08-22, 20:48:05](https://news.ycombinator.com/item?id=37228304) - [How to Write Software with Zero bugs – 25 years after qmail 1.0 – D. Bernstein [pdf]](https://cr.yp.to/qmail/qmailsec-20071101.pdf)
 * [2023-08-22, 20:31:09](https://news.ycombinator.com/item?id=37228154) - [Have You Ever Heard of the Fernet Encryption Algorithm?](https://isc.sans.edu/diary/0)
@@ -16,6 +15,7 @@
 * [2023-08-22, 16:02:03](https://news.ycombinator.com/item?id=37224651) - [Structured logging with slog](https://go.dev/blog/slog)
 * [2023-08-22, 15:29:24](https://news.ycombinator.com/item?id=37224148) - [Show HN: FlakeHub – Discover and publish Nix flakes](https://flakehub.com/)
 * [2023-08-22, 15:23:09](https://news.ycombinator.com/item?id=37224042) - [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
+* [2023-08-22, 14:33:32](https://news.ycombinator.com/item?id=37223323) - [1919 cartoon depicting the use of a ‘pocket telephone’](https://www.vintag.es/2023/08/the-pocket-telephone.html)
 * [2023-08-22, 14:01:49](https://news.ycombinator.com/item?id=37222855) - [Architecture diagrams enable better conversations](https://www.unravelled.dev/how-architecture-diagrams-enable-better-conversations/)
 * [2023-08-22, 13:58:58](https://news.ycombinator.com/item?id=37222823) - [Prettymapp – Create maps from OpenStreetMap data in a Streamlit webapp](https://github.com/chrieke/prettymapp)
 * [2023-08-22, 13:58:50](https://news.ycombinator.com/item?id=37222822) - [SeamlessM4T, a Multimodal AI Model for Speech and Text Translation](https://about.fb.com/news/2023/08/seamlessm4t-ai-translation-model/)
