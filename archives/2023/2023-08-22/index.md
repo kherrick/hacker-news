@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
+* [2023-08-22, 15:43:13](https://news.ycombinator.com/item?id=37224377) - [Show HN: Points and Miles Database](https://www.points411.com/)
 * [2023-08-22, 15:41:12](https://news.ycombinator.com/item?id=37224340) - [Chronic Pain: Finding Relief with the Benefits of Cannabis](https://spinfuel.com/chronic-pain-in-2023-and-cannabis/)
 * [2023-08-22, 15:29:24](https://news.ycombinator.com/item?id=37224148) - [Show HN: FlakeHub – Discover and publish Nix flakes](https://flakehub.com/)
 * [2023-08-22, 15:23:09](https://news.ycombinator.com/item?id=37224042) - [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
