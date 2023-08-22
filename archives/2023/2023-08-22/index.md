@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
 * [2023-08-22, 11:31:10](https://news.ycombinator.com/item?id=37221224) - [US must land astronauts on the Moon again](https://www.theregister.com/2023/08/09/nasa_artemis_2_update/)
+* [2023-08-22, 11:18:25](https://news.ycombinator.com/item?id=37221138) - [Simple PowerShell things allowing you to dig a bit deeper than usual](https://github.com/gtworek/PSBits)
 * [2023-08-22, 10:46:01](https://news.ycombinator.com/item?id=37220885) - [Prompting, realized, and unrealized bias in generative AI](http://marble.onl/posts/code_of_practice_and_bias.html)
 * [2023-08-22, 10:40:51](https://news.ycombinator.com/item?id=37220851) - [New JWST data confirms, worsens the Hubble tension](https://bigthink.com/starts-with-a-bang/jwst-confirms-worsens-hubble-tension/)
+* [2023-08-22, 10:37:51](https://news.ycombinator.com/item?id=37220828) - [Antonmedv/walk: Terminal file manager](https://github.com/antonmedv/walk)
 * [2023-08-22, 10:26:30](https://news.ycombinator.com/item?id=37220744) - [Consciousness in AI: Insights from the Science of Consciousness](https://arxiv.org/abs/2308.08708)
 * [2023-08-22, 10:09:49](https://news.ycombinator.com/item?id=37220667) - [Why KPIs are destroying businesses](https://blog.promaton.com/how-to-avoid-kpi-psychosis-in-your-organization-5ffc83967f2b?gi=aaf774f21dbb)
 * [2023-08-22, 10:06:30](https://news.ycombinator.com/item?id=37220641) - [The Uncanny Sight of Waves Breaking on a Star](https://nautil.us/the-uncanny-sight-of-waves-breaking-on-a-star-363508/)
