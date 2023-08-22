@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-22, 02:25:17](https://news.ycombinator.com/item?id=37217871) - [Compuserve](https://www.compuserve.com/)
 * [2023-08-22, 01:12:05](https://news.ycombinator.com/item?id=37217364) - [Justpaid.io (YC W23) Is Hiring Founding Frontend Engineer](https://www.ycombinator.com/companies/justpaid-io/jobs/oCjZzPi-founding-frontend-engineer-contract-to-hire)
 * [2023-08-22, 00:39:12](https://news.ycombinator.com/item?id=37217139) - [NY Times Rides in Waymo Robotaxis in SF](https://www.nytimes.com/2023/08/21/technology/waymo-driverless-cars-san-francisco.html)
 * [2023-08-21, 23:44:54](https://news.ycombinator.com/item?id=37216800) - [Podman Desktop celebrates 500k downloads](https://blog.podman.io/2023/08/celebrating-500k-downloads-the-podman-desktop-journey-%f0%9f%8e%89/)
@@ -22,12 +23,11 @@
 * [2023-08-21, 15:33:11](https://news.ycombinator.com/item?id=37210953) - [Don't fire your illustrator](https://sambleckley.com/writing/dont-fire-your-illustrator.html)
 * [2023-08-21, 15:09:20](https://news.ycombinator.com/item?id=37210584) - [I come here not to bury Delphi, but to praise it (2019)](https://accu.org/journals/overload/27/153/martin_2703/)
 * [2023-08-21, 14:36:22](https://news.ycombinator.com/item?id=37210103) - [FreeBSD Experimenting with a Port of Nvidia's Linux Open DRM Kernel Driver](https://www.phoronix.com/news/FreeBSD-Port-Linux-DRM-KO)
-* [2023-08-21, 14:21:57](https://news.ycombinator.com/item?id=37209932) - [Garbage Collection in a Large Lisp System (1984) [pdf]](https://dl.acm.org/doi/pdf/10.1145/800055.802040)
 * [2023-08-21, 14:19:18](https://news.ycombinator.com/item?id=37209888) - [All of the vehicle license plates available in America](https://www.beautifulpublicdata.com/all-of-the-license-plates-in-the-united-states/)
 * [2023-08-21, 11:49:30](https://news.ycombinator.com/item?id=37208211) - [The ideal viewport doesn't exist](https://viewports.fyi/)
 * [2023-08-21, 11:12:39](https://news.ycombinator.com/item?id=37207927) - [Bluegrass Archive](https://bluegrassarchive.com/)
 * [2023-08-21, 09:40:25](https://news.ycombinator.com/item?id=37207237) - [A retiring consultant’s advice on consultants](https://www.economist.com/business/2023/08/17/a-retiring-consultants-advice-on-consultants)
-* [2023-08-21, 06:51:53](https://news.ycombinator.com/item?id=37206204) - [Building a digital music collection in 2023](https://www.worthe-it.co.za/blog/2023-08-20-building-a-digital-music-collection-in-2023.html)
+* [2023-08-21, 04:40:10](https://news.ycombinator.com/item?id=37205559) - [Genome of the Tyrolean Iceman reveals unusually high Anatolian farmer ancestry](https://www.sciencedirect.com/science/article/pii/S2666979X2300174X)
 * [2023-08-21, 04:34:43](https://news.ycombinator.com/item?id=37205536) - [Unix is both a technology and an idea](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixTechnologyAndIdea)
 * [2023-08-19, 22:49:00](https://news.ycombinator.com/item?id=37194128) - [Show HN: Just intonation keyboard – play music without knowing music](https://ad8e.pages.dev/keyboard)
 

@@ -83,6 +83,7 @@
 * [2023-08-21, 05:16:03](https://news.ycombinator.com/item?id=37205731) - [We’re All Just Temporarily Abled](https://blog.jim-nielsen.com/2023/temporarily-abled/)
 * [2023-08-21, 05:13:16](https://news.ycombinator.com/item?id=37205717) - [Out-of-memory victim selection with BPF](https://lwn.net/SubscriberLink/941614/f873a0ec485e01c5/)
 * [2023-08-21, 04:59:01](https://news.ycombinator.com/item?id=37205647) - [Precompiled binaries removed from serde v1.0.184](https://github.com/serde-rs/serde/releases/tag/v1.0.184)
+* [2023-08-21, 04:40:10](https://news.ycombinator.com/item?id=37205559) - [Genome of the Tyrolean Iceman reveals unusually high Anatolian farmer ancestry](https://www.sciencedirect.com/science/article/pii/S2666979X2300174X)
 * [2023-08-21, 04:34:43](https://news.ycombinator.com/item?id=37205536) - [Unix is both a technology and an idea](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixTechnologyAndIdea)
 * [2023-08-21, 03:43:49](https://news.ycombinator.com/item?id=37205215) - [Texas electricity prices soar 6k% as heat wave is expected to shatter records](https://desdemonadespair.net/2023/08/texas-electricity-prices-soar-6000-percent-as-a-fresh-heat-wave-is-expected-to-shatter-records-spot-electricity-prices-jumped-to-4750-per-megawatt-hour-from-the-average-of-75.html)
 * [2023-08-21, 03:09:20](https://news.ycombinator.com/item?id=37205053) - [FreeBSD replaces bubblesort with mergesort on SYSINTs, results in 100x speed](https://twitter.com/cperciva/status/1693127769901969772)
