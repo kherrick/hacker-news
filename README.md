@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-22, 05:04:49](https://news.ycombinator.com/item?id=37218879) - [STM32 family grows to microprocessor/Linux level with STM32MP1](https://www.st.com/en/microcontrollers-microprocessors/stm32mp1-series.html)
 * [2023-08-22, 04:57:26](https://news.ycombinator.com/item?id=37218841) - [I Walked Across Luxembourg – A Hike from the West to the East of the Grand Duchy](https://blog.ioces.com/matt/posts/i-walked-across-luxembourg/)
 * [2023-08-22, 04:34:04](https://news.ycombinator.com/item?id=37218727) - [Revolutionary Electrolyzer Efficiently Converts CO2 into Renewable Propane Fuel](https://scienceswitch.com/2023/08/22/revolutionary-electrolyzer-efficiently-converts-co2-into-renewable-propane-fuel/)
 * [2023-08-22, 04:00:29](https://news.ycombinator.com/item?id=37218531) - [Charging capacitors from thermal fluctuations using diodes](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.024130)
@@ -11,7 +12,6 @@
 * [2023-08-22, 02:31:27](https://news.ycombinator.com/item?id=37217917) - [Jeff Bezos on AI (1998) [video]](https://www.jessewright.com/jeff-bezos-on-ai-1998)
 * [2023-08-22, 02:25:17](https://news.ycombinator.com/item?id=37217871) - [Compuserve](https://www.compuserve.com/)
 * [2023-08-22, 01:12:05](https://news.ycombinator.com/item?id=37217364) - [Justpaid.io (YC W23) Is Hiring Founding Frontend Engineer](https://www.ycombinator.com/companies/justpaid-io/jobs/oCjZzPi-founding-frontend-engineer-contract-to-hire)
-* [2023-08-21, 23:44:54](https://news.ycombinator.com/item?id=37216800) - [Podman Desktop celebrates 500k downloads](https://blog.podman.io/2023/08/celebrating-500k-downloads-the-podman-desktop-journey-%f0%9f%8e%89/)
 * [2023-08-21, 22:05:17](https://news.ycombinator.com/item?id=37215974) - [Ego Death](https://krisnova.net/posts/ego-death/)
 * [2023-08-21, 21:51:45](https://news.ycombinator.com/item?id=37215829) - [Associated Press clarifies standards around generative AI](https://www.niemanlab.org/2023/08/not-a-replacement-of-journalists-in-any-way-ap-clarifies-standards-around-generative-ai/)
 * [2023-08-21, 21:23:51](https://news.ycombinator.com/item?id=37215557) - [uBlock Origin Lite now available on Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin-lite/)

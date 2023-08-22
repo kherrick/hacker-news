@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
+* [2023-08-22, 05:04:49](https://news.ycombinator.com/item?id=37218879) - [STM32 family grows to microprocessor/Linux level with STM32MP1](https://www.st.com/en/microcontrollers-microprocessors/stm32mp1-series.html)
 * [2023-08-22, 04:57:26](https://news.ycombinator.com/item?id=37218841) - [I Walked Across Luxembourg – A Hike from the West to the East of the Grand Duchy](https://blog.ioces.com/matt/posts/i-walked-across-luxembourg/)
 * [2023-08-22, 04:34:04](https://news.ycombinator.com/item?id=37218727) - [Revolutionary Electrolyzer Efficiently Converts CO2 into Renewable Propane Fuel](https://scienceswitch.com/2023/08/22/revolutionary-electrolyzer-efficiently-converts-co2-into-renewable-propane-fuel/)
 * [2023-08-22, 04:00:29](https://news.ycombinator.com/item?id=37218531) - [Charging capacitors from thermal fluctuations using diodes](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.024130)
