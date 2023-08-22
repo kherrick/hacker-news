@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
+* [2023-08-22, 07:44:50](https://news.ycombinator.com/item?id=37219779) - [Arm Announces Public Filing for Proposed Initial Public Offering](https://www.arm.com/company/news/2023/08/arm-announces-public-filing-of-registration-statement-for-proposed-initial-public-offering)
 * [2023-08-22, 05:04:49](https://news.ycombinator.com/item?id=37218879) - [STM32 family grows to microprocessor/Linux level with STM32MP1](https://www.st.com/en/microcontrollers-microprocessors/stm32mp1-series.html)
 * [2023-08-22, 04:57:26](https://news.ycombinator.com/item?id=37218841) - [I Walked Across Luxembourg – A Hike from the West to the East of the Grand Duchy](https://blog.ioces.com/matt/posts/i-walked-across-luxembourg/)
 * [2023-08-22, 04:45:10](https://news.ycombinator.com/item?id=37218783) - [Manipulating Terraform states for fun, profit, and reusability](https://github.com/ergomake/layerform/blob/main/blog/terraform-states.md)
