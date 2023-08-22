@@ -91,6 +91,7 @@
 * [2023-08-21, 02:58:28](https://news.ycombinator.com/item?id=37204996) - [CLAs create different issues than making (small) open source contributions](https://utcc.utoronto.ca/~cks/space/blog/tech/CLAsImpedeContributionsII)
 * [2023-08-21, 02:47:52](https://news.ycombinator.com/item?id=37204950) - [StableVideo: Text-Driven Consistency-Aware Diffusion Video Editing](https://rese1f.github.io/StableVideo/)
 * [2023-08-21, 02:42:41](https://news.ycombinator.com/item?id=37204926) - [Probability Can Bite](https://www.maa.org/external_archive/devlin/devlin_04_10.html)
+* [2023-08-21, 02:28:49](https://news.ycombinator.com/item?id=37204856) - [The Lawn Is Resting: A Visit to Balzac’s House](https://www.theparisreview.org/blog/2023/08/17/the-lawn-is-resting-a-visit-to-balzacs-house/)
 * [2023-08-21, 02:26:39](https://news.ycombinator.com/item?id=37204837) - [The Age of the Clever Fool](https://www.ft.com/content/1dbc675b-944d-4fb3-8889-6be7526cf11e)
 * [2023-08-21, 02:12:35](https://news.ycombinator.com/item?id=37204775) - [GNU Radio software-defined radio (SDR) implementation of a LoRa transceiver](https://github.com/tapparelj/gr-lora_sdr)
 * [2023-08-21, 01:20:48](https://news.ycombinator.com/item?id=37204473) - [My talk with Kris Nova about being homeless. See you on the other side, friend](https://kubecuddle.transistor.fm/episodes/dave-fogle-and-kris-nova)

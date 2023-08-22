@@ -21,7 +21,6 @@
 * [2023-08-21, 16:17:56](https://news.ycombinator.com/item?id=37211642) - [The broad set of computer science problems faced at cloud database companies](https://davidgomes.com/the-broad-set-of-computer-science-problems-faced-at-cloud-database-companies/)
 * [2023-08-21, 15:51:18](https://news.ycombinator.com/item?id=37211230) - [Saving Lives](https://www.folklore.org/StoryView.py?story=Saving_Lives.txt)
 * [2023-08-21, 15:33:45](https://news.ycombinator.com/item?id=37210961) - [New study measures grammatical complexity of languages](https://phys.org/news/2023-08-evolution-complex-grammars-grammatical-complexity.html)
-* [2023-08-21, 15:33:11](https://news.ycombinator.com/item?id=37210953) - [Don't fire your illustrator](https://sambleckley.com/writing/dont-fire-your-illustrator.html)
 * [2023-08-21, 15:09:20](https://news.ycombinator.com/item?id=37210584) - [I come here not to bury Delphi, but to praise it (2019)](https://accu.org/journals/overload/27/153/martin_2703/)
 * [2023-08-21, 14:36:22](https://news.ycombinator.com/item?id=37210103) - [FreeBSD Experimenting with a Port of Nvidia's Linux Open DRM Kernel Driver](https://www.phoronix.com/news/FreeBSD-Port-Linux-DRM-KO)
 * [2023-08-21, 14:19:18](https://news.ycombinator.com/item?id=37209888) - [All of the vehicle license plates available in America](https://www.beautifulpublicdata.com/all-of-the-license-plates-in-the-united-states/)
@@ -29,6 +28,7 @@
 * [2023-08-21, 09:40:25](https://news.ycombinator.com/item?id=37207237) - [A retiring consultant’s advice on consultants](https://www.economist.com/business/2023/08/17/a-retiring-consultants-advice-on-consultants)
 * [2023-08-21, 04:40:10](https://news.ycombinator.com/item?id=37205559) - [Genome of the Tyrolean Iceman reveals unusually high Anatolian farmer ancestry](https://www.sciencedirect.com/science/article/pii/S2666979X2300174X)
 * [2023-08-21, 04:34:43](https://news.ycombinator.com/item?id=37205536) - [Unix is both a technology and an idea](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixTechnologyAndIdea)
+* [2023-08-21, 02:28:49](https://news.ycombinator.com/item?id=37204856) - [The Lawn Is Resting: A Visit to Balzac’s House](https://www.theparisreview.org/blog/2023/08/17/the-lawn-is-resting-a-visit-to-balzacs-house/)
 * [2023-08-19, 22:49:00](https://news.ycombinator.com/item?id=37194128) - [Show HN: Just intonation keyboard – play music without knowing music](https://ad8e.pages.dev/keyboard)
 
 ## [Archives](archives/index.md)
