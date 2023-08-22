@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
+* [2023-08-22, 15:23:09](https://news.ycombinator.com/item?id=37224042) - [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
 * [2023-08-22, 14:25:15](https://news.ycombinator.com/item?id=37223175) - [Atari Launches Atari 2600+](https://atari.com/products/atari-2600-plus)
 * [2023-08-22, 14:15:20](https://news.ycombinator.com/item?id=37223018) - [Inkscape possible domain compromise (2022)](https://discourse.nixos.org/t/inkscape-possible-domain-compromise/32008)
 * [2023-08-22, 14:01:49](https://news.ycombinator.com/item?id=37222855) - [Architecture diagrams enable better conversations](https://www.unravelled.dev/how-architecture-diagrams-enable-better-conversations/)
 * [2023-08-22, 13:58:58](https://news.ycombinator.com/item?id=37222823) - [Prettymapp – Create beautiful maps from OpenStreetMap data in a streamlit webapp](https://github.com/chrieke/prettymapp)
+* [2023-08-22, 13:48:41](https://news.ycombinator.com/item?id=37222672) - [The Secret Weapon Hackers Can Use to Dox Nearly Anyone in America for $15](https://www.404media.co/the-secret-weapon-hackers-can-use-to-dox-nearly-anyone-in-america-for-15-tlo-usinfosearch-transunion/)
 * [2023-08-22, 13:48:31](https://news.ycombinator.com/item?id=37222669) - [Hand Coded SLisp](https://github.com/0x3444ac53/HCSL)
 * [2023-08-22, 13:48:28](https://news.ycombinator.com/item?id=37222668) - [Extend a C/C++ Project with Zig (2021)](https://zig.news/kristoff/extend-a-c-c-project-with-zig-55di)
 * [2023-08-22, 13:41:47](https://news.ycombinator.com/item?id=37222579) - [Someone needs to save the Internet Archives from the lawyers and I have an idea](https://www.techradar.com/computing/websites-apps/someone-needs-to-save-the-internet-archives-from-the-lawyers-and-i-have-an-idea)
+* [2023-08-22, 13:41:40](https://news.ycombinator.com/item?id=37222571) - [How scientists are bringing advanced meditation out of the monastery](https://www.vox.com/future-perfect/23836358/meditation-mindfulness-enlightenment-science-contemplative-buddhism-spirituality)
 * [2023-08-22, 13:26:47](https://news.ycombinator.com/item?id=37222393) - [The Feds Asked TikTok for Lots of Domestic Spying Features](https://gizmodo.com/tiktok-cfius-draft-agreement-shows-spying-requests-1850759715)
 * [2023-08-22, 13:17:34](https://news.ycombinator.com/item?id=37222277) - [What does it mean when an LLM “hallucinates” & why do LLMs hallucinate?](https://labelbox.com/blog/what-does-it-mean-when-an-llm-hallucinates/)
 * [2023-08-22, 13:10:09](https://news.ycombinator.com/item?id=37222191) - [Microsoft is bringing Python to Excel](https://www.theverge.com/2023/8/22/23841167/microsoft-excel-python-integration-support)
