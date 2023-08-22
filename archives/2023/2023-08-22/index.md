@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
+* [2023-08-22, 22:58:38](https://news.ycombinator.com/item?id=37229689) - [Dashworks is hiring ML and fullstack engineers](https://www.dashworks.ai/company#jobs)
+* [2023-08-22, 22:28:06](https://news.ycombinator.com/item?id=37229403) - [OpenSAFELY is a secure, open-source platform for analysis of health records data](https://www.opensafely.org/about/#core-design-features-for-privacy-transparency-and-open-working)
 * [2023-08-22, 22:09:19](https://news.ycombinator.com/item?id=37229212) - [Thoughts on Flash (2010)](https://web.archive.org/web/20170615060422/https://www.apple.com/hotnews/thoughts-on-flash/)
 * [2023-08-22, 21:50:03](https://news.ycombinator.com/item?id=37228987) - [Longtime Super Mario voice actor Charles Martinet retires from the role](https://www.axios.com/2023/08/21/charles-martinet-super-mario-voice)
 * [2023-08-22, 21:49:08](https://news.ycombinator.com/item?id=37228975) - [LibreOffice 24.2 Will Succeed LibreOffice 7.6](https://www.phoronix.com/news/LibreOffice-24.2-Up-Next)
