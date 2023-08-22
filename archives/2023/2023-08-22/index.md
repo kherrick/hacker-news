@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
+* [2023-08-22, 17:48:26](https://news.ycombinator.com/item?id=37226227) - [Figma makes 200 fixes and improvements to Dev Mode](https://figma.com/blog/dev-mode-fast-follows-200-new-features-and-fixes/)
 * [2023-08-22, 17:29:12](https://news.ycombinator.com/item?id=37225965) - [Become Fluent in New Testament Greek](https://www.fluentgreeknt.com)
 * [2023-08-22, 17:11:47](https://news.ycombinator.com/item?id=37225713) - [Auth0 Alternatives](https://fusionauth.io/guides/auth0-alternatives)
 * [2023-08-22, 17:00:29](https://news.ycombinator.com/item?id=37225550) - [Emerge (YC W21) is hiring a lead front end engineer [remote, small team]](https://www.workatastartup.com/jobs/61922/)
@@ -45,6 +46,7 @@
 * [2023-08-22, 10:37:51](https://news.ycombinator.com/item?id=37220828) - [Antonmedv/walk: Terminal file manager](https://github.com/antonmedv/walk)
 * [2023-08-22, 10:26:30](https://news.ycombinator.com/item?id=37220744) - [Consciousness in AI: Insights from the Science of Consciousness](https://arxiv.org/abs/2308.08708)
 * [2023-08-22, 10:09:49](https://news.ycombinator.com/item?id=37220667) - [Why KPIs are destroying businesses](https://blog.promaton.com/how-to-avoid-kpi-psychosis-in-your-organization-5ffc83967f2b?gi=aaf774f21dbb)
+* [2023-08-22, 10:09:49](https://news.ycombinator.com/item?id=37220667) - [A good measurement culture where numbers don’t replace common sense](https://blog.promaton.com/how-to-avoid-kpi-psychosis-in-your-organization-5ffc83967f2b)
 * [2023-08-22, 10:06:30](https://news.ycombinator.com/item?id=37220641) - [The Uncanny Sight of Waves Breaking on a Star](https://nautil.us/the-uncanny-sight-of-waves-breaking-on-a-star-363508/)
 * [2023-08-22, 08:49:42](https://news.ycombinator.com/item?id=37220164) - [Brazilian hacker claims Bolsonaro asked him to hack into the 2022 voting system](https://apnews.com/article/brazil-bolsonaro-hacking-inquiry-cc8f890588a5115ff77370d236b3e149)
 * [2023-08-22, 08:28:33](https://news.ycombinator.com/item?id=37220023) - [Darling Progress Report Q2 2023](https://blog.darlinghq.org/2023/08/21/progress-report-q2-2023/)
