@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
+* [2023-08-22, 13:17:34](https://news.ycombinator.com/item?id=37222277) - [What does it mean when an LLM “hallucinates” & why do LLMs hallucinate?](https://labelbox.com/blog/what-does-it-mean-when-an-llm-hallucinates/)
 * [2023-08-22, 13:10:09](https://news.ycombinator.com/item?id=37222191) - [Microsoft is bringing Python to Excel](https://www.theverge.com/2023/8/22/23841167/microsoft-excel-python-integration-support)
 * [2023-08-22, 12:35:53](https://news.ycombinator.com/item?id=37221792) - [Libre Office ReleaseNotes 7.6](https://wiki.documentfoundation.org/ReleaseNotes/7.6/en)
 * [2023-08-22, 12:29:51](https://news.ycombinator.com/item?id=37221725) - [Airport Pianos: Find Pianos in Airports](https://airportpianos.org)
@@ -24,6 +25,7 @@
 * [2023-08-22, 07:44:50](https://news.ycombinator.com/item?id=37219779) - [Arm Announces Public Filing for Proposed Initial Public Offering](https://www.arm.com/company/news/2023/08/arm-announces-public-filing-of-registration-statement-for-proposed-initial-public-offering)
 * [2023-08-22, 07:14:48](https://news.ycombinator.com/item?id=37219627) - [TermiC: Terminal C, Interactive C/C++ REPL shell created with BASH](https://github.com/hanoglu/TermiC)
 * [2023-08-22, 05:59:20](https://news.ycombinator.com/item?id=37219167) - [Stolen from Apple](https://www.folklore.org/StoryView.py?project=Macintosh&story=Stolen_From_Apple.txt&sortOrder=Sort+by+Comments)
+* [2023-08-22, 05:36:26](https://news.ycombinator.com/item?id=37219058) - [QuickSort Algorithm [video]](https://www.youtube.com/watch?v=7h1s2SojIRw)
 * [2023-08-22, 05:04:49](https://news.ycombinator.com/item?id=37218879) - [STM32 family grows to microprocessor/Linux level with STM32MP1](https://www.st.com/en/microcontrollers-microprocessors/stm32mp1-series.html)
 * [2023-08-22, 04:57:26](https://news.ycombinator.com/item?id=37218841) - [I Walked Across Luxembourg – A Hike from the West to the East of the Grand Duchy](https://blog.ioces.com/matt/posts/i-walked-across-luxembourg/)
 * [2023-08-22, 04:45:10](https://news.ycombinator.com/item?id=37218783) - [Manipulating Terraform states for fun, profit, and reusability](https://github.com/ergomake/layerform/blob/main/blog/terraform-states.md)
