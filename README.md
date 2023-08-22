@@ -2,6 +2,7 @@
 
 * [2023-08-22, 03:24:45](https://news.ycombinator.com/item?id=37218289) - [NixOS Impermanence](https://nixos.wiki/wiki/Impermanence)
 * [2023-08-22, 03:20:32](https://news.ycombinator.com/item?id=37218263) - [Learn AutoHotKey by stealing my scripts](https://www.hillelwayne.com/post/ahk-scripts-project/)
+* [2023-08-22, 02:58:43](https://news.ycombinator.com/item?id=37218114) - [Unlocking Discord Nitro Features for Free](https://blog.0x7d0.dev/history/unlocking-discord-nitro-features-for-free/)
 * [2023-08-22, 02:35:23](https://news.ycombinator.com/item?id=37217940) - [America’s corporate giants are getting harder to topple](https://www.economist.com/business/2023/08/21/americas-corporate-giants-are-getting-harder-to-topple)
 * [2023-08-22, 02:31:27](https://news.ycombinator.com/item?id=37217917) - [Jeff Bezos on AI, 1998](https://www.jessewright.com/jeff-bezos-on-ai-1998)
 * [2023-08-22, 02:25:17](https://news.ycombinator.com/item?id=37217871) - [Compuserve](https://www.compuserve.com/)
@@ -21,7 +22,6 @@
 * [2023-08-21, 17:14:43](https://news.ycombinator.com/item?id=37212462) - [P2panda: P2P protocol for secure, energy-efficient local-first web applications](https://p2panda.org/)
 * [2023-08-21, 16:17:56](https://news.ycombinator.com/item?id=37211642) - [The broad set of computer science problems faced at cloud database companies](https://davidgomes.com/the-broad-set-of-computer-science-problems-faced-at-cloud-database-companies/)
 * [2023-08-21, 15:51:18](https://news.ycombinator.com/item?id=37211230) - [Saving Lives](https://www.folklore.org/StoryView.py?story=Saving_Lives.txt)
-* [2023-08-21, 15:33:45](https://news.ycombinator.com/item?id=37210961) - [New study measures grammatical complexity of languages](https://phys.org/news/2023-08-evolution-complex-grammars-grammatical-complexity.html)
 * [2023-08-21, 14:36:22](https://news.ycombinator.com/item?id=37210103) - [FreeBSD Experimenting with a Port of Nvidia's Linux Open DRM Kernel Driver](https://www.phoronix.com/news/FreeBSD-Port-Linux-DRM-KO)
 * [2023-08-21, 14:19:18](https://news.ycombinator.com/item?id=37209888) - [All of the vehicle license plates available in America](https://www.beautifulpublicdata.com/all-of-the-license-plates-in-the-united-states/)
 * [2023-08-21, 11:12:39](https://news.ycombinator.com/item?id=37207927) - [Bluegrass Archive](https://bluegrassarchive.com/)
