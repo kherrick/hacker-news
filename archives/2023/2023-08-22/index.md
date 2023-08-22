@@ -59,6 +59,7 @@
 * [2023-08-22, 07:57:04](https://news.ycombinator.com/item?id=37219851) - [The Lack of Self-Deception](https://evidenceanecdotal.blogspot.com/2023/08/the-lack-of-self-deception.html)
 * [2023-08-22, 07:44:50](https://news.ycombinator.com/item?id=37219779) - [Arm Announces Public Filing for Proposed Initial Public Offering](https://www.arm.com/company/news/2023/08/arm-announces-public-filing-of-registration-statement-for-proposed-initial-public-offering)
 * [2023-08-22, 07:14:48](https://news.ycombinator.com/item?id=37219627) - [TermiC: Terminal C, Interactive C/C++ REPL shell created with BASH](https://github.com/hanoglu/TermiC)
+* [2023-08-22, 06:53:05](https://news.ycombinator.com/item?id=37219513) - [Transactions in a Microservice World](https://wso2.com/whitepapers/transactions-in-a-microservice-world/)
 * [2023-08-22, 06:31:11](https://news.ycombinator.com/item?id=37219374) - [The effects of natural and artificial light on man, by John Ott (1976)](https://archive.org/details/healthlighteffec00ottj)
 * [2023-08-22, 05:59:20](https://news.ycombinator.com/item?id=37219167) - [Stolen from Apple](https://www.folklore.org/StoryView.py?project=Macintosh&story=Stolen_From_Apple.txt&sortOrder=Sort+by+Comments)
 * [2023-08-22, 05:50:12](https://news.ycombinator.com/item?id=37219121) - [Inverting Gauss’ Formula](https://blog.demofox.org/2023/08/21/inverting-gauss-formula/)
