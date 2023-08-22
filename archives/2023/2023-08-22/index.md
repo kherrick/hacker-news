@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
+* [2023-08-22, 22:09:19](https://news.ycombinator.com/item?id=37229212) - [Thoughts on Flash (2010)](https://web.archive.org/web/20170615060422/https://www.apple.com/hotnews/thoughts-on-flash/)
+* [2023-08-22, 21:50:03](https://news.ycombinator.com/item?id=37228987) - [Longtime Super Mario voice actor Charles Martinet retires from the role](https://www.axios.com/2023/08/21/charles-martinet-super-mario-voice)
 * [2023-08-22, 21:49:08](https://news.ycombinator.com/item?id=37228975) - [LibreOffice 24.2 Will Succeed LibreOffice 7.6](https://www.phoronix.com/news/LibreOffice-24.2-Up-Next)
 * [2023-08-22, 20:56:34](https://news.ycombinator.com/item?id=37228412) - [Phone.wtf](https://phone.wtf/)
+* [2023-08-22, 20:48:05](https://news.ycombinator.com/item?id=37228304) - [How to Write Software with Zero bugs – 25 years after qmail 1.0 – D. Bernstein [pdf]](https://cr.yp.to/qmail/qmailsec-20071101.pdf)
 * [2023-08-22, 20:35:04](https://news.ycombinator.com/item?id=37228166) - [Your Brain On Emoji](https://nautil.us/your-🧠-on-emoji-365823/)
 * [2023-08-22, 20:31:09](https://news.ycombinator.com/item?id=37228154) - [Have You Ever Heard of the Fernet Encryption Algorithm?](https://isc.sans.edu/diary/0)
 * [2023-08-22, 20:29:07](https://news.ycombinator.com/item?id=37228124) - [Tech jobs market normalizing as July unemployment dips](https://www.ciodive.com/news/compTIA-july-tech-jobs-report-BLS/690033/)
