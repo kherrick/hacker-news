@@ -19,7 +19,7 @@
 * [2023-08-22, 13:58:58](https://news.ycombinator.com/item?id=37222823) - [Prettymapp – Create maps from OpenStreetMap data in a Streamlit webapp](https://github.com/chrieke/prettymapp)
 * [2023-08-22, 13:58:50](https://news.ycombinator.com/item?id=37222822) - [SeamlessM4T, a Multimodal AI Model for Speech and Text Translation](https://about.fb.com/news/2023/08/seamlessm4t-ai-translation-model/)
 * [2023-08-22, 13:48:41](https://news.ycombinator.com/item?id=37222672) - [Hackers can use credit bureaus to dox nearly anyone in America](https://www.404media.co/the-secret-weapon-hackers-can-use-to-dox-nearly-anyone-in-america-for-15-tlo-usinfosearch-transunion/)
-* [2023-08-22, 13:48:28](https://news.ycombinator.com/item?id=37222668) - [Extend a C/C++ Project with Zig (2021)](https://zig.news/kristoff/extend-a-c-c-project-with-zig-55di)
+* [2023-08-22, 13:48:31](https://news.ycombinator.com/item?id=37222669) - [HCSL: Hand Coded Stringy Lisp](https://github.com/0x3444ac53/HCSL)
 * [2023-08-22, 13:41:40](https://news.ycombinator.com/item?id=37222571) - [The new science of meditation](https://www.vox.com/future-perfect/23836358/meditation-mindfulness-enlightenment-science-contemplative-buddhism-spirituality)
 * [2023-08-22, 13:26:47](https://news.ycombinator.com/item?id=37222393) - [The feds asked TikTok for lots of domestic spying features](https://gizmodo.com/tiktok-cfius-draft-agreement-shows-spying-requests-1850759715)
 * [2023-08-22, 13:10:09](https://news.ycombinator.com/item?id=37222191) - [Microsoft is bringing Python to Excel](https://www.theverge.com/2023/8/22/23841167/microsoft-excel-python-integration-support)
