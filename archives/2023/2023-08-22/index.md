@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
+* [2023-08-22, 10:40:51](https://news.ycombinator.com/item?id=37220851) - [New JWST data confirms, worsens the Hubble tension](https://bigthink.com/starts-with-a-bang/jwst-confirms-worsens-hubble-tension/)
+* [2023-08-22, 10:09:49](https://news.ycombinator.com/item?id=37220667) - [Why KPIs are destroying businesses](https://blog.promaton.com/how-to-avoid-kpi-psychosis-in-your-organization-5ffc83967f2b?gi=aaf774f21dbb)
 * [2023-08-22, 10:06:30](https://news.ycombinator.com/item?id=37220641) - [The Uncanny Sight of Waves Breaking on a Star](https://nautil.us/the-uncanny-sight-of-waves-breaking-on-a-star-363508/)
 * [2023-08-22, 08:49:42](https://news.ycombinator.com/item?id=37220164) - [Brazilian hacker claims Bolsonaro asked him to hack into the 2022 voting system](https://apnews.com/article/brazil-bolsonaro-hacking-inquiry-cc8f890588a5115ff77370d236b3e149)
 * [2023-08-22, 08:28:33](https://news.ycombinator.com/item?id=37220023) - [Darling Progress Report Q2 2023](https://blog.darlinghq.org/2023/08/21/progress-report-q2-2023/)
