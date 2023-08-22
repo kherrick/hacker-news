@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-22, 08:49:42](https://news.ycombinator.com/item?id=37220164) - [Brazilian hacker claims Bolsonaro asked him to hack into the 2022 voting system](https://apnews.com/article/brazil-bolsonaro-hacking-inquiry-cc8f890588a5115ff77370d236b3e149)
 * [2023-08-22, 08:28:33](https://news.ycombinator.com/item?id=37220023) - [Darling Progress Report Q2 2023](https://blog.darlinghq.org/2023/08/21/progress-report-q2-2023/)
 * [2023-08-22, 07:57:04](https://news.ycombinator.com/item?id=37219851) - [The Lack of Self-Deception](https://evidenceanecdotal.blogspot.com/2023/08/the-lack-of-self-deception.html)
 * [2023-08-22, 07:44:50](https://news.ycombinator.com/item?id=37219779) - [Arm Announces Public Filing for Proposed Initial Public Offering](https://www.arm.com/company/news/2023/08/arm-announces-public-filing-of-registration-statement-for-proposed-initial-public-offering)
@@ -17,7 +18,6 @@
 * [2023-08-22, 01:12:05](https://news.ycombinator.com/item?id=37217364) - [Justpaid.io (YC W23) Is Hiring Founding Frontend Engineer](https://www.ycombinator.com/companies/justpaid-io/jobs/oCjZzPi-founding-frontend-engineer-contract-to-hire)
 * [2023-08-22, 00:39:12](https://news.ycombinator.com/item?id=37217139) - [NY Times Rides in Waymo Robotaxis in SF](https://www.nytimes.com/2023/08/21/technology/waymo-driverless-cars-san-francisco.html)
 * [2023-08-21, 22:05:17](https://news.ycombinator.com/item?id=37215974) - [Ego Death](https://krisnova.net/posts/ego-death/)
-* [2023-08-21, 21:51:45](https://news.ycombinator.com/item?id=37215829) - [Associated Press clarifies standards around generative AI](https://www.niemanlab.org/2023/08/not-a-replacement-of-journalists-in-any-way-ap-clarifies-standards-around-generative-ai/)
 * [2023-08-21, 21:23:51](https://news.ycombinator.com/item?id=37215557) - [uBlock Origin Lite now available on Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin-lite/)
 * [2023-08-21, 20:57:23](https://news.ycombinator.com/item?id=37215246) - [SolarPi experiment 2: Finally something that works](http://blog.rfox.eu/en/Hardware/SolarPi_experiment_2_Finally_something_that_works.html)
 * [2023-08-21, 20:12:40](https://news.ycombinator.com/item?id=37214733) - [Pixel Binary Transparency: verifiable security for Pixel devices](https://security.googleblog.com/2023/08/pixel-binary-transparency-verifiable.html)
