@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-22, 08:49:42](https://news.ycombinator.com/item?id=37220164) - [Brazilian hacker claims Bolsonaro asked him to hack into the 2022 voting system](https://apnews.com/article/brazil-bolsonaro-hacking-inquiry-cc8f890588a5115ff77370d236b3e149)
+* [2023-08-22, 10:06:30](https://news.ycombinator.com/item?id=37220641) - [The Uncanny Sight of Waves Breaking on a Star](https://nautil.us/the-uncanny-sight-of-waves-breaking-on-a-star-363508/)
 * [2023-08-22, 08:28:33](https://news.ycombinator.com/item?id=37220023) - [Darling Progress Report Q2 2023](https://blog.darlinghq.org/2023/08/21/progress-report-q2-2023/)
-* [2023-08-22, 07:57:04](https://news.ycombinator.com/item?id=37219851) - [The Lack of Self-Deception](https://evidenceanecdotal.blogspot.com/2023/08/the-lack-of-self-deception.html)
 * [2023-08-22, 07:44:50](https://news.ycombinator.com/item?id=37219779) - [Arm Announces Public Filing for Proposed Initial Public Offering](https://www.arm.com/company/news/2023/08/arm-announces-public-filing-of-registration-statement-for-proposed-initial-public-offering)
 * [2023-08-22, 07:14:48](https://news.ycombinator.com/item?id=37219627) - [TermiC: Terminal C, Interactive C/C++ REPL shell created with BASH](https://github.com/hanoglu/TermiC)
 * [2023-08-22, 05:59:20](https://news.ycombinator.com/item?id=37219167) - [Stolen from Apple](https://www.folklore.org/StoryView.py?project=Macintosh&story=Stolen_From_Apple.txt&sortOrder=Sort+by+Comments)
@@ -20,6 +19,7 @@
 * [2023-08-21, 22:50:39](https://news.ycombinator.com/item?id=37216401) - [The Pleasure and Communion of Jane Austen’s Country Dance](https://lithub.com/the-pleasure-and-communion-of-austens-country-dance/)
 * [2023-08-21, 22:05:17](https://news.ycombinator.com/item?id=37215974) - [Ego Death](https://krisnova.net/posts/ego-death/)
 * [2023-08-21, 21:23:51](https://news.ycombinator.com/item?id=37215557) - [uBlock Origin Lite now available on Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin-lite/)
+* [2023-08-21, 20:57:23](https://news.ycombinator.com/item?id=37215246) - [SolarPi experiment 2: Finally something that works](http://blog.rfox.eu/en/Hardware/SolarPi_experiment_2_Finally_something_that_works.html)
 * [2023-08-21, 20:12:40](https://news.ycombinator.com/item?id=37214733) - [Pixel Binary Transparency: verifiable security for Pixel devices](https://security.googleblog.com/2023/08/pixel-binary-transparency-verifiable.html)
 * [2023-08-21, 19:41:39](https://news.ycombinator.com/item?id=37214342) - [Why Open Source?](https://getconvoy.io/blog/why-open-source/)
 * [2023-08-21, 16:17:56](https://news.ycombinator.com/item?id=37211642) - [The broad set of computer science problems faced at cloud database companies](https://davidgomes.com/the-broad-set-of-computer-science-problems-faced-at-cloud-database-companies/)
