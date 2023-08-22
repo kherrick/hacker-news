@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-22, 16:16:57](https://news.ycombinator.com/item?id=37224861) - [Noiszy: A browser plugin that creates meaningless web data – digital “noise.”](https://noiszy.com)
+* [2023-08-22, 16:02:03](https://news.ycombinator.com/item?id=37224651) - [Structured Logging with Slog](https://go.dev/blog/slog)
 * [2023-08-22, 15:59:34](https://news.ycombinator.com/item?id=37224609) - [Tesla asked officials to redact info of driver-assistance in use during crashes](https://www.businessinsider.com/tesla-asked-nhtsa-redact-information-autopilot-fsd-use-crashes-report-2023-8)
 * [2023-08-22, 15:43:13](https://news.ycombinator.com/item?id=37224377) - [Show HN: Points and Miles Database](https://www.points411.com/)
 * [2023-08-22, 15:29:24](https://news.ycombinator.com/item?id=37224148) - [Show HN: FlakeHub – Discover and publish Nix flakes](https://flakehub.com/)
@@ -14,7 +15,6 @@
 * [2023-08-22, 13:48:41](https://news.ycombinator.com/item?id=37222672) - [The Secret Weapon Hackers Can Use to Dox Nearly Anyone in America for $15](https://www.404media.co/the-secret-weapon-hackers-can-use-to-dox-nearly-anyone-in-america-for-15-tlo-usinfosearch-transunion/)
 * [2023-08-22, 13:48:28](https://news.ycombinator.com/item?id=37222668) - [Extend a C/C++ Project with Zig (2021)](https://zig.news/kristoff/extend-a-c-c-project-with-zig-55di)
 * [2023-08-22, 13:41:47](https://news.ycombinator.com/item?id=37222579) - [Someone needs to save the Internet Archives from the lawyers and I have an idea](https://www.techradar.com/computing/websites-apps/someone-needs-to-save-the-internet-archives-from-the-lawyers-and-i-have-an-idea)
-* [2023-08-22, 13:41:40](https://news.ycombinator.com/item?id=37222571) - [The new science of meditation](https://www.vox.com/future-perfect/23836358/meditation-mindfulness-enlightenment-science-contemplative-buddhism-spirituality)
 * [2023-08-22, 13:26:47](https://news.ycombinator.com/item?id=37222393) - [The Feds Asked TikTok for Lots of Domestic Spying Features](https://gizmodo.com/tiktok-cfius-draft-agreement-shows-spying-requests-1850759715)
 * [2023-08-22, 13:10:09](https://news.ycombinator.com/item?id=37222191) - [Microsoft is bringing Python to Excel](https://www.theverge.com/2023/8/22/23841167/microsoft-excel-python-integration-support)
 * [2023-08-22, 12:20:14](https://news.ycombinator.com/item?id=37221622) - [Switching from Chrome to Firefox](https://frunc.de/how-to/chrome-to-firefox-tips/)

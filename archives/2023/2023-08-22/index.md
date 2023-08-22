@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
 * [2023-08-22, 16:16:57](https://news.ycombinator.com/item?id=37224861) - [Noiszy: A browser plugin that creates meaningless web data – digital “noise.”](https://noiszy.com)
+* [2023-08-22, 16:02:03](https://news.ycombinator.com/item?id=37224651) - [Structured Logging with Slog](https://go.dev/blog/slog)
 * [2023-08-22, 15:59:34](https://news.ycombinator.com/item?id=37224609) - [Tesla asked officials to redact info of driver-assistance in use during crashes](https://www.businessinsider.com/tesla-asked-nhtsa-redact-information-autopilot-fsd-use-crashes-report-2023-8)
 * [2023-08-22, 15:43:13](https://news.ycombinator.com/item?id=37224377) - [Show HN: Points and Miles Database](https://www.points411.com/)
 * [2023-08-22, 15:41:12](https://news.ycombinator.com/item?id=37224340) - [Chronic Pain: Finding Relief with the Benefits of Cannabis](https://spinfuel.com/chronic-pain-in-2023-and-cannabis/)
