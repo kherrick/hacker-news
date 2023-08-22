@@ -25,10 +25,10 @@
 * [2023-08-21, 20:12:40](https://news.ycombinator.com/item?id=37214733) - [Pixel Binary Transparency: verifiable security for Pixel devices](https://security.googleblog.com/2023/08/pixel-binary-transparency-verifiable.html)
 * [2023-08-21, 19:41:39](https://news.ycombinator.com/item?id=37214342) - [Why Open Source?](https://getconvoy.io/blog/why-open-source/)
 * [2023-08-21, 16:17:56](https://news.ycombinator.com/item?id=37211642) - [The broad set of computer science problems faced at cloud database companies](https://davidgomes.com/the-broad-set-of-computer-science-problems-faced-at-cloud-database-companies/)
+* [2023-08-21, 16:07:11](https://news.ycombinator.com/item?id=37211482) - [Toy Models of Superposition (2022)](https://transformer-circuits.pub/2022/toy_model/index.html)
 * [2023-08-21, 15:58:50](https://news.ycombinator.com/item?id=37211365) - [Clever coating turns lampshades into indoor air purifiers](https://techxplore.com/news/2023-08-clever-coating-lampshades-indoor-air.html)
 * [2023-08-21, 14:39:47](https://news.ycombinator.com/item?id=37210146) - [How to use a Breadboard. How do breadboards work? (2021) [video]](https://www.youtube.com/watch?v=BYOiYvdaCis)
 * [2023-08-21, 14:36:22](https://news.ycombinator.com/item?id=37210103) - [FreeBSD Experimenting with a Port of Nvidia's Linux Open DRM Kernel Driver](https://www.phoronix.com/news/FreeBSD-Port-Linux-DRM-KO)
-* [2023-08-21, 09:32:57](https://news.ycombinator.com/item?id=37207183) - [The Economics of Organized Play](https://outsidetheasylum.blog/the-economics-of-organized-play/)
 * [2023-08-21, 04:34:43](https://news.ycombinator.com/item?id=37205536) - [Unix is both a technology and an idea](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixTechnologyAndIdea)
 
 ## [Archives](archives/index.md)
