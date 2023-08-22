@@ -27,8 +27,8 @@
 * [2023-08-22, 12:15:28](https://news.ycombinator.com/item?id=37221576) - [My Pebble mood tracker app from 2016](https://www.nothingeasyaboutthis.com/moodapp/)
 * [2023-08-22, 12:05:18](https://news.ycombinator.com/item?id=37221487) - [Close to the Machine: Technophilia and its discontents](https://manu.zone/books/close-to-the-machine/)
 * [2023-08-22, 10:09:49](https://news.ycombinator.com/item?id=37220667) - [A good measurement culture where numbers don’t replace common sense](https://blog.promaton.com/how-to-avoid-kpi-psychosis-in-your-organization-5ffc83967f2b)
-* [2023-08-22, 07:17:52](https://news.ycombinator.com/item?id=37219643) - [The Populist Advantage](https://www.project-syndicate.org/commentary/populist-economic-policies-easier-sell-than-liberal-orthodoxy-by-raghuram-rajan-2023-08?barrier=accesspaylog)
 * [2023-08-22, 02:07:56](https://news.ycombinator.com/item?id=37217761) - [Compile-Time Checked Truth Tables](https://blog.ploeh.dk/2023/08/21/compile-time-type-checked-truth-tables/)
+* [2023-08-22, 02:07:07](https://news.ycombinator.com/item?id=37217757) - [Aeron – Proof of the benefits of open development](https://www.gresearch.com/blog/article/aeron-proof-of-the-benefits-of-open-development/)
 * [2023-08-21, 20:26:31](https://news.ycombinator.com/item?id=37214898) - [Kullback–Leibler divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)
 
 ## [Archives](archives/index.md)
