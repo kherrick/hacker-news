@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
+* [2023-08-22, 15:41:12](https://news.ycombinator.com/item?id=37224340) - [Chronic Pain: Finding Relief with the Benefits of Cannabis](https://spinfuel.com/chronic-pain-in-2023-and-cannabis/)
 * [2023-08-22, 15:29:24](https://news.ycombinator.com/item?id=37224148) - [Show HN: FlakeHub – Discover and publish Nix flakes](https://flakehub.com/)
 * [2023-08-22, 15:23:09](https://news.ycombinator.com/item?id=37224042) - [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
 * [2023-08-22, 15:03:49](https://news.ycombinator.com/item?id=37223776) - [Show HN: OpenCopilot – Build Your Open-Source Copilot in a Single Day](https://github.com/opencopilotdev/opencopilot)
+* [2023-08-22, 14:51:12](https://news.ycombinator.com/item?id=37223580) - [Show HN: Cosmic Media – Search millions of stock photos and videos](https://news.ycombinator.com/item?id=37223580)
+* [2023-08-22, 14:33:32](https://news.ycombinator.com/item?id=37223323) - [1919 Cartoon Depicting the Use of a ‘Pocket Telephone’](https://www.vintag.es/2023/08/the-pocket-telephone.html)
 * [2023-08-22, 14:25:15](https://news.ycombinator.com/item?id=37223175) - [Atari Launches Atari 2600+](https://atari.com/products/atari-2600-plus)
 * [2023-08-22, 14:15:20](https://news.ycombinator.com/item?id=37223018) - [Inkscape possible domain compromise (2022)](https://discourse.nixos.org/t/inkscape-possible-domain-compromise/32008)
 * [2023-08-22, 14:01:49](https://news.ycombinator.com/item?id=37222855) - [Architecture diagrams enable better conversations](https://www.unravelled.dev/how-architecture-diagrams-enable-better-conversations/)
