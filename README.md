@@ -3,6 +3,7 @@
 * [2023-08-22, 04:34:04](https://news.ycombinator.com/item?id=37218727) - [Revolutionary Electrolyzer Efficiently Converts CO2 into Renewable Propane Fuel](https://scienceswitch.com/2023/08/22/revolutionary-electrolyzer-efficiently-converts-co2-into-renewable-propane-fuel/)
 * [2023-08-22, 04:00:29](https://news.ycombinator.com/item?id=37218531) - [Charging capacitors from thermal fluctuations using diodes](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.024130)
 * [2023-08-22, 03:24:45](https://news.ycombinator.com/item?id=37218289) - [Impermanence](https://nixos.wiki/wiki/Impermanence)
+* [2023-08-22, 03:21:56](https://news.ycombinator.com/item?id=37218268) - [Asphalt Wasteland: Maybe parking does explain the world](https://www.commonwealmagazine.org/parking-grabar-slate-henry-paved-paradise)
 * [2023-08-22, 03:20:32](https://news.ycombinator.com/item?id=37218263) - [Learn AutoHotKey by stealing my scripts](https://www.hillelwayne.com/post/ahk-scripts-project/)
 * [2023-08-22, 02:58:43](https://news.ycombinator.com/item?id=37218114) - [Unlocking Discord Nitro Features for Free](https://blog.0x7d0.dev/history/unlocking-discord-nitro-features-for-free/)
 * [2023-08-22, 02:35:23](https://news.ycombinator.com/item?id=37217940) - [Incumbents are fighting back against disrupters](https://www.economist.com/business/2023/08/21/americas-corporate-giants-are-getting-harder-to-topple)
@@ -28,7 +29,6 @@
 * [2023-08-21, 09:40:25](https://news.ycombinator.com/item?id=37207237) - [A retiring consultant’s advice on consultants](https://www.economist.com/business/2023/08/17/a-retiring-consultants-advice-on-consultants)
 * [2023-08-21, 04:40:10](https://news.ycombinator.com/item?id=37205559) - [Genome of the Tyrolean Iceman reveals unusually high Anatolian farmer ancestry](https://www.sciencedirect.com/science/article/pii/S2666979X2300174X)
 * [2023-08-21, 04:34:43](https://news.ycombinator.com/item?id=37205536) - [Unix is both a technology and an idea](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixTechnologyAndIdea)
-* [2023-08-21, 02:28:49](https://news.ycombinator.com/item?id=37204856) - [The Lawn Is Resting: A Visit to Balzac’s House](https://www.theparisreview.org/blog/2023/08/17/the-lawn-is-resting-a-visit-to-balzacs-house/)
 * [2023-08-19, 22:49:00](https://news.ycombinator.com/item?id=37194128) - [Show HN: Just intonation keyboard – play music without knowing music](https://ad8e.pages.dev/keyboard)
 
 ## [Archives](archives/index.md)
