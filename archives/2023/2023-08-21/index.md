@@ -71,6 +71,7 @@
 * [2023-08-21, 11:31:15](https://news.ycombinator.com/item?id=37208083) - [GNU Parallel, where have you been all my life?](https://alexplescan.com/posts/2023/08/20/gnu-parallel/)
 * [2023-08-21, 11:12:39](https://news.ycombinator.com/item?id=37207927) - [Bluegrass Archive](https://bluegrassarchive.com/)
 * [2023-08-21, 09:55:14](https://news.ycombinator.com/item?id=37207329) - [80% of Companies do not need Snowflake or Databricks](https://kjhealey.medium.com/cached-takes-80-of-companies-do-not-need-snowflake-or-databricks-5ebda64c0853)
+* [2023-08-21, 09:48:24](https://news.ycombinator.com/item?id=37207281) - [How to Sell 20M Novels](https://www.newstatesman.com/culture/books/2023/08/colleen-hoovers-tales-of-love-and-trauma)
 * [2023-08-21, 09:40:25](https://news.ycombinator.com/item?id=37207237) - [A retiring consultant’s advice on consultants](https://www.economist.com/business/2023/08/17/a-retiring-consultants-advice-on-consultants)
 * [2023-08-21, 09:32:57](https://news.ycombinator.com/item?id=37207183) - [The Economics of Organized Play](https://outsidetheasylum.blog/the-economics-of-organized-play/)
 * [2023-08-21, 09:30:57](https://news.ycombinator.com/item?id=37207165) - [Ask HN: How to monetize a website that is making views?](https://news.ycombinator.com/item?id=37207165)
