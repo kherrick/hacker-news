@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-22, 13:10:09](https://news.ycombinator.com/item?id=37222191) - [Microsoft is bringing Python to Excel](https://www.theverge.com/2023/8/22/23841167/microsoft-excel-python-integration-support)
 * [2023-08-22, 12:35:53](https://news.ycombinator.com/item?id=37221792) - [Libre Office ReleaseNotes 7.6](https://wiki.documentfoundation.org/ReleaseNotes/7.6/en)
 * [2023-08-22, 12:29:51](https://news.ycombinator.com/item?id=37221725) - [Airport Pianos: Find Pianos in Airports](https://airportpianos.org)
 * [2023-08-22, 12:05:18](https://news.ycombinator.com/item?id=37221487) - [Ellen Ullman wrote the most precise account of “computer culture” I have seen](https://manu.zone/books/close-to-the-machine/)
@@ -29,7 +30,6 @@
 * [2023-08-21, 15:58:50](https://news.ycombinator.com/item?id=37211365) - [Clever coating turns lampshades into indoor air purifiers](https://techxplore.com/news/2023-08-clever-coating-lampshades-indoor-air.html)
 * [2023-08-21, 14:39:47](https://news.ycombinator.com/item?id=37210146) - [How to use a Breadboard. How do breadboards work? (2021) [video]](https://www.youtube.com/watch?v=BYOiYvdaCis)
 * [2023-08-21, 11:54:09](https://news.ycombinator.com/item?id=37208248) - [Show HN: The Uncolouring Book](https://lines.potato.horse)
-* [2023-08-21, 04:34:43](https://news.ycombinator.com/item?id=37205536) - [Unix is both a technology and an idea](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixTechnologyAndIdea)
 
 ## [Archives](archives/index.md)
 
