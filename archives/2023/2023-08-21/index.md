@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
+* [2023-08-21, 23:44:54](https://news.ycombinator.com/item?id=37216800) - [Podman Desktop celebrates 500k downloads](https://blog.podman.io/2023/08/celebrating-500k-downloads-the-podman-desktop-journey-%f0%9f%8e%89/)
 * [2023-08-21, 23:27:49](https://news.ycombinator.com/item?id=37216700) - [Why a highly mutated coronavirus variant has scientists on alert](https://www.nature.com/articles/d41586-023-02656-9)
+* [2023-08-21, 23:21:26](https://news.ycombinator.com/item?id=37216647) - [Growing share of Americans favor more nuclear power](https://www.pewresearch.org/short-reads/2023/08/18/growing-share-of-americans-favor-more-nuclear-power/)
 * [2023-08-21, 22:31:35](https://news.ycombinator.com/item?id=37216215) - [South Korea's biggest telco says 5G has failed to deliver](https://www.theregister.com/2023/08/21/sk_telecom_5g_disappointed/)
+* [2023-08-21, 22:05:17](https://news.ycombinator.com/item?id=37215974) - [Ego Death](https://krisnova.net/posts/ego-death/)
 * [2023-08-21, 21:56:29](https://news.ycombinator.com/item?id=37215892) - [Baghdad closes LED advert screens after hacker shows porn film on a screen](https://www.iraqinews.com/iraq/baghdad-closes-led-advert-screens-after-hacker-shows-porn-film-on-a-screen/)
 * [2023-08-21, 21:51:45](https://news.ycombinator.com/item?id=37215829) - [Associated Press clarifies standards around generative AI](https://www.niemanlab.org/2023/08/not-a-replacement-of-journalists-in-any-way-ap-clarifies-standards-around-generative-ai/)
 * [2023-08-21, 21:23:51](https://news.ycombinator.com/item?id=37215557) - [uBlock Origin Lite now available on Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin-lite/)
+* [2023-08-21, 21:20:55](https://news.ycombinator.com/item?id=37215526) - [Screen Time at Age 1 Year and Communication, Problem-Solving Developmental Delay](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2808593)
 * [2023-08-21, 21:09:35](https://news.ycombinator.com/item?id=37215400) - [Educational Codebases](https://buttondown.email/hillelwayne/archive/educational-codebases/)
 * [2023-08-21, 20:57:23](https://news.ycombinator.com/item?id=37215246) - [SolarPi experiment 2: Finally something that works](http://blog.rfox.eu/en/Hardware/SolarPi_experiment_2_Finally_something_that_works.html)
 * [2023-08-21, 20:12:40](https://news.ycombinator.com/item?id=37214733) - [Google Pixel Binary Transparency: verifiable security for Pixel devices](https://security.googleblog.com/2023/08/pixel-binary-transparency-verifiable.html)
