@@ -7,6 +7,7 @@
 * [2023-08-21, 23:44:54](https://news.ycombinator.com/item?id=37216800) - [Podman Desktop celebrates 500k downloads](https://blog.podman.io/2023/08/celebrating-500k-downloads-the-podman-desktop-journey-%f0%9f%8e%89/)
 * [2023-08-21, 23:27:49](https://news.ycombinator.com/item?id=37216700) - [Why a highly mutated coronavirus variant has scientists on alert](https://www.nature.com/articles/d41586-023-02656-9)
 * [2023-08-21, 23:21:26](https://news.ycombinator.com/item?id=37216647) - [Growing share of Americans favor more nuclear power](https://www.pewresearch.org/short-reads/2023/08/18/growing-share-of-americans-favor-more-nuclear-power/)
+* [2023-08-21, 22:54:04](https://news.ycombinator.com/item?id=37216440) - [‘Here Begins the Dark Sea’ Review: A Map from the Future](https://www.wsj.com/arts-culture/books/here-begins-the-dark-sea-review-a-map-from-the-future-3b04d426)
 * [2023-08-21, 22:50:39](https://news.ycombinator.com/item?id=37216401) - [The Pleasure and Communion of Jane Austen’s Country Dance](https://lithub.com/the-pleasure-and-communion-of-austens-country-dance/)
 * [2023-08-21, 22:31:35](https://news.ycombinator.com/item?id=37216215) - [South Korea's biggest telco says 5G has failed to deliver](https://www.theregister.com/2023/08/21/sk_telecom_5g_disappointed/)
 * [2023-08-21, 22:05:17](https://news.ycombinator.com/item?id=37215974) - [Ego Death](https://krisnova.net/posts/ego-death/)
