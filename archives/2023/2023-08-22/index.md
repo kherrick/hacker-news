@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
+* [2023-08-22, 20:56:34](https://news.ycombinator.com/item?id=37228412) - [Phone.wtf](https://phone.wtf/)
 * [2023-08-22, 20:35:04](https://news.ycombinator.com/item?id=37228166) - [Your Brain On Emoji](https://nautil.us/your-🧠-on-emoji-365823/)
 * [2023-08-22, 20:31:09](https://news.ycombinator.com/item?id=37228154) - [Have You Ever Heard of the Fernet Encryption Algorithm?](https://isc.sans.edu/diary/0)
 * [2023-08-22, 20:29:07](https://news.ycombinator.com/item?id=37228124) - [Tech jobs market normalizing as July unemployment dips](https://www.ciodive.com/news/compTIA-july-tech-jobs-report-BLS/690033/)
@@ -48,6 +49,7 @@
 * [2023-08-22, 12:35:53](https://news.ycombinator.com/item?id=37221792) - [Libre Office ReleaseNotes 7.6](https://wiki.documentfoundation.org/ReleaseNotes/7.6/en)
 * [2023-08-22, 12:29:51](https://news.ycombinator.com/item?id=37221725) - [Airport Pianos: Find Pianos in Airports](https://airportpianos.org)
 * [2023-08-22, 12:20:14](https://news.ycombinator.com/item?id=37221622) - [Switching from Chrome to Firefox? Here Are Some Tips](https://frunc.de/how-to/chrome-to-firefox-tips/)
+* [2023-08-22, 12:15:28](https://news.ycombinator.com/item?id=37221576) - [My Pebble mood tracker app from 2016](https://www.nothingeasyaboutthis.com/moodapp/)
 * [2023-08-22, 12:05:18](https://news.ycombinator.com/item?id=37221487) - [Ellen Ullman wrote the most precise account of “computer culture” I have seen](https://manu.zone/books/close-to-the-machine/)
 * [2023-08-22, 12:00:09](https://news.ycombinator.com/item?id=37221454) - [GiveCampus (YC S15) Is Hiring Rails engineers passionate about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2023-08-22, 11:40:18](https://news.ycombinator.com/item?id=37221287) - [Northvolt raises $1.2B convertible note from BlackRock](https://sifted.eu/articles/northvolt-1-2bn-convertible-blackrock-news)
