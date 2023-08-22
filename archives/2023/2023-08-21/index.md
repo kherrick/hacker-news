@@ -50,6 +50,7 @@
 * [2023-08-21, 15:11:21](https://news.ycombinator.com/item?id=37210615) - [''Vinegar Syndrome'' Decaying Archives of Cellulose Acetate Microfilm Stock](https://www.cbc.ca/news/canada/toronto/vinegar-syndrome-acetate-film-1.6939032)
 * [2023-08-21, 15:09:20](https://news.ycombinator.com/item?id=37210584) - [I come here not to bury Delphi, but to praise it (2019)](https://accu.org/journals/overload/27/153/martin_2703/)
 * [2023-08-21, 14:56:36](https://news.ycombinator.com/item?id=37210397) - [Flatpak is not the future (2021)](https://ludocode.com/blog/flatpak-is-not-the-future)
+* [2023-08-21, 14:39:47](https://news.ycombinator.com/item?id=37210146) - [How to use a Breadboard. How do breadboards work? (2021) [video]](https://www.youtube.com/watch?v=BYOiYvdaCis)
 * [2023-08-21, 14:36:22](https://news.ycombinator.com/item?id=37210103) - [FreeBSD Experimenting with a Port of Nvidia's Linux Open DRM Kernel Driver](https://www.phoronix.com/news/FreeBSD-Port-Linux-DRM-KO)
 * [2023-08-21, 14:21:57](https://news.ycombinator.com/item?id=37209932) - [Garbage Collection in a Large Lisp System (1984) [pdf]](https://dl.acm.org/doi/pdf/10.1145/800055.802040)
 * [2023-08-21, 14:19:18](https://news.ycombinator.com/item?id=37209888) - [All of the vehicle license plates available in America](https://www.beautifulpublicdata.com/all-of-the-license-plates-in-the-united-states/)

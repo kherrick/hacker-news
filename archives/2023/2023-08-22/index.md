@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
 * [2023-08-22, 03:24:45](https://news.ycombinator.com/item?id=37218289) - [NixOS Impermanence](https://nixos.wiki/wiki/Impermanence)
+* [2023-08-22, 03:21:56](https://news.ycombinator.com/item?id=37218268) - [Asphalt Wasteland: Maybe parking does explain the world](https://www.commonwealmagazine.org/parking-grabar-slate-henry-paved-paradise)
 * [2023-08-22, 03:20:32](https://news.ycombinator.com/item?id=37218263) - [Learn AutoHotKey by stealing my scripts](https://www.hillelwayne.com/post/ahk-scripts-project/)
 * [2023-08-22, 02:58:43](https://news.ycombinator.com/item?id=37218114) - [Unlocking Discord Nitro Features for Free](https://blog.0x7d0.dev/history/unlocking-discord-nitro-features-for-free/)
 * [2023-08-22, 02:35:23](https://news.ycombinator.com/item?id=37217940) - [America’s corporate giants are getting harder to topple](https://www.economist.com/business/2023/08/21/americas-corporate-giants-are-getting-harder-to-topple)
