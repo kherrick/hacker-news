@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
+* [2023-08-22, 14:15:20](https://news.ycombinator.com/item?id=37223018) - [Inkscape possible domain compromise (2022)](https://discourse.nixos.org/t/inkscape-possible-domain-compromise/32008)
+* [2023-08-22, 14:01:49](https://news.ycombinator.com/item?id=37222855) - [Architecture diagrams enable better conversations](https://www.unravelled.dev/how-architecture-diagrams-enable-better-conversations/)
 * [2023-08-22, 13:48:31](https://news.ycombinator.com/item?id=37222669) - [Hand Coded SLisp](https://github.com/0x3444ac53/HCSL)
 * [2023-08-22, 13:48:28](https://news.ycombinator.com/item?id=37222668) - [Extend a C/C++ Project with Zig (2021)](https://zig.news/kristoff/extend-a-c-c-project-with-zig-55di)
+* [2023-08-22, 13:41:47](https://news.ycombinator.com/item?id=37222579) - [Someone needs to save the Internet Archives from the lawyers and I have an idea](https://www.techradar.com/computing/websites-apps/someone-needs-to-save-the-internet-archives-from-the-lawyers-and-i-have-an-idea)
 * [2023-08-22, 13:26:47](https://news.ycombinator.com/item?id=37222393) - [The Feds Asked TikTok for Lots of Domestic Spying Features](https://gizmodo.com/tiktok-cfius-draft-agreement-shows-spying-requests-1850759715)
 * [2023-08-22, 13:17:34](https://news.ycombinator.com/item?id=37222277) - [What does it mean when an LLM “hallucinates” & why do LLMs hallucinate?](https://labelbox.com/blog/what-does-it-mean-when-an-llm-hallucinates/)
 * [2023-08-22, 13:10:09](https://news.ycombinator.com/item?id=37222191) - [Microsoft is bringing Python to Excel](https://www.theverge.com/2023/8/22/23841167/microsoft-excel-python-integration-support)
