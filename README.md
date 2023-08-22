@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-22, 20:35:04](https://news.ycombinator.com/item?id=37228166) - [Your brain on emoji](https://nautil.us/your-🧠-on-emoji-365823/)
+* [2023-08-22, 20:31:09](https://news.ycombinator.com/item?id=37228154) - [Have You Ever Heard of the Fernet Encryption Algorithm?](https://isc.sans.edu/diary/0)
 * [2023-08-22, 20:29:07](https://news.ycombinator.com/item?id=37228124) - [Tech jobs market normalizing as July unemployment dips](https://www.ciodive.com/news/compTIA-july-tech-jobs-report-BLS/690033/)
 * [2023-08-22, 20:21:12](https://news.ycombinator.com/item?id=37228028) - [When Trucks Fly](https://www.newyorker.com/magazine/2023/08/21/when-trucks-fly)
 * [2023-08-22, 19:09:47](https://news.ycombinator.com/item?id=37227229) - [G. Polya, How to Solve It](https://www.math.utah.edu/~alfeld/math/polya.html)
@@ -20,7 +21,6 @@
 * [2023-08-22, 13:58:50](https://news.ycombinator.com/item?id=37222822) - [SeamlessM4T, a Multimodal AI Model for Speech and Text Translation](https://about.fb.com/news/2023/08/seamlessm4t-ai-translation-model/)
 * [2023-08-22, 13:48:41](https://news.ycombinator.com/item?id=37222672) - [Hackers can use credit bureaus to dox nearly anyone in America](https://www.404media.co/the-secret-weapon-hackers-can-use-to-dox-nearly-anyone-in-america-for-15-tlo-usinfosearch-transunion/)
 * [2023-08-22, 13:41:40](https://news.ycombinator.com/item?id=37222571) - [The new science of meditation](https://www.vox.com/future-perfect/23836358/meditation-mindfulness-enlightenment-science-contemplative-buddhism-spirituality)
-* [2023-08-22, 13:26:47](https://news.ycombinator.com/item?id=37222393) - [The feds asked TikTok for lots of domestic spying features](https://gizmodo.com/tiktok-cfius-draft-agreement-shows-spying-requests-1850759715)
 * [2023-08-22, 13:10:09](https://news.ycombinator.com/item?id=37222191) - [Microsoft is bringing Python to Excel](https://www.theverge.com/2023/8/22/23841167/microsoft-excel-python-integration-support)
 * [2023-08-22, 12:05:18](https://news.ycombinator.com/item?id=37221487) - [Close to the Machine: Technophilia and its discontents](https://manu.zone/books/close-to-the-machine/)
 * [2023-08-22, 11:18:25](https://news.ycombinator.com/item?id=37221138) - [Simple PowerShell things allowing you to dig a bit deeper than usual](https://github.com/gtworek/PSBits)
