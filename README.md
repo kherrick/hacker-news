@@ -28,7 +28,7 @@
 * [2023-08-22, 04:57:26](https://news.ycombinator.com/item?id=37218841) - [I walked across Luxembourg](https://blog.ioces.com/matt/posts/i-walked-across-luxembourg/)
 * [2023-08-22, 04:34:04](https://news.ycombinator.com/item?id=37218727) - [Electrolyzer efficiently converts CO2 into renewable propane fuel](https://scienceswitch.com/2023/08/22/revolutionary-electrolyzer-efficiently-converts-co2-into-renewable-propane-fuel/)
 * [2023-08-22, 03:20:32](https://news.ycombinator.com/item?id=37218263) - [Learn AutoHotKey by stealing my scripts](https://www.hillelwayne.com/post/ahk-scripts-project/)
-* [2023-08-21, 22:54:04](https://news.ycombinator.com/item?id=37216440) - [‘Here Begins the Dark Sea’ Review: A Map from the Future](https://www.wsj.com/arts-culture/books/here-begins-the-dark-sea-review-a-map-from-the-future-3b04d426)
+* [2023-08-22, 02:07:56](https://news.ycombinator.com/item?id=37217761) - [Compile-Time Checked Truth Tables](https://blog.ploeh.dk/2023/08/21/compile-time-type-checked-truth-tables/)
 * [2023-08-21, 20:26:31](https://news.ycombinator.com/item?id=37214898) - [Kullback–Leibler Divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)
 
 ## [Archives](archives/index.md)

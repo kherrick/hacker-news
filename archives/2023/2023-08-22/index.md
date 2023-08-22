@@ -59,6 +59,7 @@
 * [2023-08-22, 02:35:23](https://news.ycombinator.com/item?id=37217940) - [America’s corporate giants are getting harder to topple](https://www.economist.com/business/2023/08/21/americas-corporate-giants-are-getting-harder-to-topple)
 * [2023-08-22, 02:31:27](https://news.ycombinator.com/item?id=37217917) - [Jeff Bezos on AI, 1998](https://www.jessewright.com/jeff-bezos-on-ai-1998)
 * [2023-08-22, 02:25:17](https://news.ycombinator.com/item?id=37217871) - [Compuserve](https://www.compuserve.com/)
+* [2023-08-22, 02:07:56](https://news.ycombinator.com/item?id=37217761) - [Compile-Time Checked Truth Tables](https://blog.ploeh.dk/2023/08/21/compile-time-type-checked-truth-tables/)
 * [2023-08-22, 01:39:18](https://news.ycombinator.com/item?id=37217561) - [Who the Tech Is Meant For](https://monkeynoodle.org/2023/08/20/who-the-tech-is-meant-for/)
 * [2023-08-22, 01:22:48](https://news.ycombinator.com/item?id=37217450) - [The Cost of Living/Housing Crisis](https://www.metafilter.com/200377/The-Cost-of-Living-Housing-Crisis)
 * [2023-08-22, 01:12:05](https://news.ycombinator.com/item?id=37217364) - [Justpaid.io (YC W23) Is Hiring Founding Front End Engineer](https://www.ycombinator.com/companies/justpaid-io/jobs/oCjZzPi-founding-frontend-engineer-contract-to-hire)
