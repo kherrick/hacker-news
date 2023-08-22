@@ -53,6 +53,7 @@
 * [2023-08-22, 07:14:48](https://news.ycombinator.com/item?id=37219627) - [TermiC: Terminal C, Interactive C/C++ REPL shell created with BASH](https://github.com/hanoglu/TermiC)
 * [2023-08-22, 06:31:11](https://news.ycombinator.com/item?id=37219374) - [The effects of natural and artificial light on man, by John Ott (1976)](https://archive.org/details/healthlighteffec00ottj)
 * [2023-08-22, 05:59:20](https://news.ycombinator.com/item?id=37219167) - [Stolen from Apple](https://www.folklore.org/StoryView.py?project=Macintosh&story=Stolen_From_Apple.txt&sortOrder=Sort+by+Comments)
+* [2023-08-22, 05:50:12](https://news.ycombinator.com/item?id=37219121) - [Inverting Gauss’ Formula](https://blog.demofox.org/2023/08/21/inverting-gauss-formula/)
 * [2023-08-22, 05:36:26](https://news.ycombinator.com/item?id=37219058) - [QuickSort Algorithm [video]](https://www.youtube.com/watch?v=7h1s2SojIRw)
 * [2023-08-22, 05:04:49](https://news.ycombinator.com/item?id=37218879) - [STM32 family grows to microprocessor/Linux level with STM32MP1](https://www.st.com/en/microcontrollers-microprocessors/stm32mp1-series.html)
 * [2023-08-22, 04:57:26](https://news.ycombinator.com/item?id=37218841) - [I Walked Across Luxembourg – A Hike from the West to the East of the Grand Duchy](https://blog.ioces.com/matt/posts/i-walked-across-luxembourg/)

@@ -1,10 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-22, 17:11:47](https://news.ycombinator.com/item?id=37225713) - [Auth0 Alternatives](https://fusionauth.io/guides/auth0-alternatives)
 * [2023-08-22, 17:00:29](https://news.ycombinator.com/item?id=37225550) - [Emerge (YC W21) is hiring a lead front end engineer [remote, small team]](https://www.workatastartup.com/jobs/61922/)
 * [2023-08-22, 16:55:07](https://news.ycombinator.com/item?id=37225467) - [‘Broken’ solar panels manufactured specifically for South Africa](https://dailyinvestor.com/energy/28170/broken-solar-panels-manufactured-specifically-for-south-africa/)
 * [2023-08-22, 16:51:17](https://news.ycombinator.com/item?id=37225397) - [6 Archetypes of Broken Ownership](https://blog.alexewerlof.com/p/broken-ownership)
-* [2023-08-22, 16:16:57](https://news.ycombinator.com/item?id=37224861) - [Noiszy: A browser plugin that creates meaningless web data – digital “noise.”](https://noiszy.com)
 * [2023-08-22, 16:02:03](https://news.ycombinator.com/item?id=37224651) - [Structured Logging with Slog](https://go.dev/blog/slog)
 * [2023-08-22, 15:59:34](https://news.ycombinator.com/item?id=37224609) - [Tesla asked officials to redact info of driver-assistance in use during crashes](https://www.businessinsider.com/tesla-asked-nhtsa-redact-information-autopilot-fsd-use-crashes-report-2023-8)
 * [2023-08-22, 15:43:13](https://news.ycombinator.com/item?id=37224377) - [Show HN: Points and Miles Database](https://www.points411.com/)
@@ -25,9 +23,11 @@
 * [2023-08-22, 10:09:49](https://news.ycombinator.com/item?id=37220667) - [Why KPIs are destroying businesses](https://blog.promaton.com/how-to-avoid-kpi-psychosis-in-your-organization-5ffc83967f2b?gi=aaf774f21dbb)
 * [2023-08-22, 07:44:50](https://news.ycombinator.com/item?id=37219779) - [Arm Announces Public Filing for Proposed Initial Public Offering](https://www.arm.com/company/news/2023/08/arm-announces-public-filing-of-registration-statement-for-proposed-initial-public-offering)
 * [2023-08-22, 06:31:11](https://news.ycombinator.com/item?id=37219374) - [Effects of natural and artificial light on man and other living things (1909)](https://archive.org/details/healthlighteffec00ottj)
+* [2023-08-22, 05:50:12](https://news.ycombinator.com/item?id=37219121) - [Inverting Gauss’ Formula](https://blog.demofox.org/2023/08/21/inverting-gauss-formula/)
 * [2023-08-22, 04:57:26](https://news.ycombinator.com/item?id=37218841) - [I walked across Luxembourg](https://blog.ioces.com/matt/posts/i-walked-across-luxembourg/)
 * [2023-08-22, 04:34:04](https://news.ycombinator.com/item?id=37218727) - [Electrolyzer efficiently converts CO2 into renewable propane fuel](https://scienceswitch.com/2023/08/22/revolutionary-electrolyzer-efficiently-converts-co2-into-renewable-propane-fuel/)
 * [2023-08-22, 03:20:32](https://news.ycombinator.com/item?id=37218263) - [Learn AutoHotKey by stealing my scripts](https://www.hillelwayne.com/post/ahk-scripts-project/)
+* [2023-08-22, 02:58:43](https://news.ycombinator.com/item?id=37218114) - [Unlocking Discord Nitro features for free](https://blog.0x7d0.dev/history/unlocking-discord-nitro-features-for-free/)
 * [2023-08-22, 02:07:56](https://news.ycombinator.com/item?id=37217761) - [Compile-Time Checked Truth Tables](https://blog.ploeh.dk/2023/08/21/compile-time-type-checked-truth-tables/)
 * [2023-08-21, 20:26:31](https://news.ycombinator.com/item?id=37214898) - [Kullback–Leibler Divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)
 
