@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
+* [2023-08-22, 20:35:04](https://news.ycombinator.com/item?id=37228166) - [Your Brain On Emoji](https://nautil.us/your-🧠-on-emoji-365823/)
+* [2023-08-22, 20:29:07](https://news.ycombinator.com/item?id=37228124) - [Tech jobs market normalizing as July unemployment dips](https://www.ciodive.com/news/compTIA-july-tech-jobs-report-BLS/690033/)
+* [2023-08-22, 20:21:12](https://news.ycombinator.com/item?id=37228028) - [When Trucks Fly](https://www.newyorker.com/magazine/2023/08/21/when-trucks-fly)
 * [2023-08-22, 20:10:14](https://news.ycombinator.com/item?id=37227902) - [Google engineer earns $150K works 1 hr/day, spends rest of time on his startup](https://www.businessinsider.com/google-employee-says-he-works-one-hour-days-fortune-2023-8)
 * [2023-08-22, 19:04:24](https://news.ycombinator.com/item?id=37227172) - [Experian fined $650k for not letting you opt out of its spammy emails](https://www.theverge.com/2023/8/22/23841646/experian-fined-spam-emails-ftc-doj)
 * [2023-08-22, 19:02:37](https://news.ycombinator.com/item?id=37227139) - [GPT-3.5 Turbo fine-tuning and API updates](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates)
