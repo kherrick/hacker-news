@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
+* [2023-08-22, 19:02:37](https://news.ycombinator.com/item?id=37227139) - [GPT-3.5 Turbo fine-tuning and API updates](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates)
+* [2023-08-22, 18:33:43](https://news.ycombinator.com/item?id=37226805) - [Godly – Astronomically good web design inspiration](https://godly.website/)
+* [2023-08-22, 17:56:52](https://news.ycombinator.com/item?id=37226360) - [Asyncio, twisted, tornado, gevent walk into a bar](https://www.bitecode.dev/p/asyncio-twisted-tornado-gevent-walk)
 * [2023-08-22, 17:48:26](https://news.ycombinator.com/item?id=37226227) - [Figma makes 200 fixes and improvements to Dev Mode](https://figma.com/blog/dev-mode-fast-follows-200-new-features-and-fixes/)
 * [2023-08-22, 17:29:12](https://news.ycombinator.com/item?id=37225965) - [Become Fluent in New Testament Greek](https://www.fluentgreeknt.com)
 * [2023-08-22, 17:11:47](https://news.ycombinator.com/item?id=37225713) - [Auth0 Alternatives](https://fusionauth.io/guides/auth0-alternatives)
