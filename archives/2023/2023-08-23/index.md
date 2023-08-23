@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
+* [2023-08-23, 20:35:33](https://news.ycombinator.com/item?id=37241601) - [Life on board a British nuclear submarine](https://www.theguardian.com/uk/2012/aug/21/life-on-board-nuclear-submarine)
+* [2023-08-23, 20:31:52](https://news.ycombinator.com/item?id=37241566) - [Nvidia reports 88% jump in revenue and tops estimates](https://www.cnbc.com/2023/08/23/nvidia-nvda-earnings-report-q2-2024.html)
+* [2023-08-23, 20:25:29](https://news.ycombinator.com/item?id=37241498) - [Nvidia Announces Financial Results for Second Quarter Fiscal 2024](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2024)
 * [2023-08-23, 19:39:24](https://news.ycombinator.com/item?id=37241116) - [WinRAR 0-day that uses poisoned JPG and TXT files under exploit since April](https://arstechnica.com/security/2023/08/winrar-0-day-that-uses-poisoned-jpg-and-txt-files-under-exploit-since-april/)
+* [2023-08-23, 19:02:55](https://news.ycombinator.com/item?id=37240681) - [The Early History of Counting](https://www.laphamsquarterly.org/roundtable/early-history-counting)
 * [2023-08-23, 18:38:56](https://news.ycombinator.com/item?id=37240363) - [Show HN: Dataherald AI – Natural Language to SQL Engine](https://github.com/Dataherald/dataherald)
 * [2023-08-23, 18:27:30](https://news.ycombinator.com/item?id=37240195) - [Let Go](https://xkcd.com/862/)
 * [2023-08-23, 18:27:15](https://news.ycombinator.com/item?id=37240187) - [An excruciatingly detailed guide to SSH (but only the things I find useful)](https://grahamhelton.com/blog/ssh-cheatsheet/)
@@ -70,6 +74,7 @@
 * [2023-08-23, 05:11:09](https://news.ycombinator.com/item?id=37232103) - [zrepl: A one-stop, integrated solution for ZFS replication](https://zrepl.github.io/)
 * [2023-08-23, 05:11:06](https://news.ycombinator.com/item?id=37232102) - [I Met a Book](https://www.nationalreview.com/2023/07/i-met-a-book/)
 * [2023-08-23, 05:05:05](https://news.ycombinator.com/item?id=37232074) - [The Sticky History of Baklava](https://www.smithsonianmag.com/travel/the-sticky-history-of-baklava-180982771/)
+* [2023-08-23, 05:02:32](https://news.ycombinator.com/item?id=37232066) - [Critical Periods for Language: Much More Than You Wanted to Know](https://astralcodexten.substack.com/p/critical-periods-for-language-much)
 * [2023-08-23, 05:00:58](https://news.ycombinator.com/item?id=37232057) - [How iceberg won the lettuce wars](https://www.atlasobscura.com/articles/iceberg-lettuce-wedge-salad)
 * [2023-08-23, 04:49:25](https://news.ycombinator.com/item?id=37231991) - [McNealy's bittersweet memo bids good-bye to Sun (2010)](https://www.cnet.com/culture/mcnealys-bittersweet-memo-bids-good-bye-to-sun-20000017/)
 * [2023-08-23, 04:48:41](https://news.ycombinator.com/item?id=37231989) - [In Wuhan, doctors knew the truth. They were told to keep quiet](https://www.washingtonpost.com/opinions/2023/08/22/wuhan-doctors-pandemic-china-coverup/)
