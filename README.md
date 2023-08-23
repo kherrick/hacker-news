@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-23, 14:05:16](https://news.ycombinator.com/item?id=37236100) - [WinRAR zero-day exploited since April to hack trading accounts](https://www.bleepingcomputer.com/news/security/winrar-zero-day-exploited-since-april-to-hack-trading-accounts/)
 * [2023-08-23, 13:46:35](https://news.ycombinator.com/item?id=37235770) - [Cash payments above €3000 to be outlawed in Netherlands](https://www.rijksoverheid.nl/onderwerpen/geldzaken/vraag-en-antwoord/grote-aankopen-met-contant-geld)
 * [2023-08-23, 13:31:58](https://news.ycombinator.com/item?id=37235578) - [AI predicts certain esophageal and stomach cancers three years before diagnosis](https://www.michiganmedicine.org/health-lab/ai-can-predict-certain-forms-esophageal-and-stomach-cancer)
 * [2023-08-23, 13:20:09](https://news.ycombinator.com/item?id=37235441) - [Oldest Known Animation, a 5200 Year-Old Iranian Ceramic Vessel](https://www.vintag.es/2023/08/vase-animation.html)
 * [2023-08-23, 13:20:09](https://news.ycombinator.com/item?id=37235440) - [Frank Smith was locked up for 8 decades. At 98, what would it mean to be free?](https://www.bostonglobe.com/2023/07/05/magazine/frank-smith-was-locked-up-eight-decades-98-what-would-it-mean-be-free/)
 * [2023-08-23, 13:18:53](https://news.ycombinator.com/item?id=37235421) - [As a self-taught developer, what are your self-directed learning tips?](https://news.ycombinator.com/item?id=37235421)
-* [2023-08-23, 12:49:52](https://news.ycombinator.com/item?id=37235019) - [India’s Chandrayaan-3 probe successfully lands on the lunar South Pole](https://www.theverge.com/2023/8/23/23842669/chandrayaan3-india-moon-mission-successful-lunar-south-pole)
 * [2023-08-23, 11:13:05](https://news.ycombinator.com/item?id=37234169) - [Collection of stand-alone Python machine learning recipes (2021)](https://github.com/rougier/ML-Recipes)
 * [2023-08-23, 11:04:27](https://news.ycombinator.com/item?id=37234121) - [Show HN: Pip install inference, open source computer vision deployment](https://github.com/roboflow/inference)
 * [2023-08-23, 11:02:57](https://news.ycombinator.com/item?id=37234111) - [Ask HN: Where to find open source house plans?](https://news.ycombinator.com/item?id=37234111)
