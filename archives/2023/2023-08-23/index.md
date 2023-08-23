@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
+* [2023-08-23, 18:38:56](https://news.ycombinator.com/item?id=37240363) - [Show HN: Dataherald AI – Natural Language to SQL Engine](https://github.com/Dataherald/dataherald)
 * [2023-08-23, 18:27:30](https://news.ycombinator.com/item?id=37240195) - [Let Go](https://xkcd.com/862/)
 * [2023-08-23, 18:27:15](https://news.ycombinator.com/item?id=37240187) - [An excruciatingly detailed guide to SSH (but only the things I find useful)](https://grahamhelton.com/blog/ssh-cheatsheet/)
 * [2023-08-23, 18:25:43](https://news.ycombinator.com/item?id=37240166) - [Reclaiming Control: The Internet Archive Empowers People. Gatekeepers Keep Suing](https://www.techdirt.com/2023/08/23/reclaiming-control-the-internet-archive-empowers-people-so-gatekeepers-keep-suing/)
