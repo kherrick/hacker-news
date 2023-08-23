@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
+* [2023-08-23, 10:37:38](https://news.ycombinator.com/item?id=37233977) - [Why the vagus nerve is so exciting to scientists](https://www.theguardian.com/society/2023/aug/23/the-key-to-depression-obesity-alcoholism-and-more-why-the-vagus-nerve-is-so-exciting-to-scientists)
 * [2023-08-23, 08:33:28](https://news.ycombinator.com/item?id=37233295) - [macOS 13.5 no longer allows setting system wide ulimits](https://developer.apple.com/forums/thread/735798)
 * [2023-08-23, 06:51:04](https://news.ycombinator.com/item?id=37232626) - [Resistor–Transistor Logic (RTL)](https://en.wikipedia.org/wiki/Resistor%E2%80%93transistor_logic)
 * [2023-08-23, 06:23:36](https://news.ycombinator.com/item?id=37232451) - [Permutation Iteration and Random Access](https://blog.demofox.org/2023/08/22/permutation-iteration-and-random-access/)
@@ -21,6 +22,7 @@
 * [2023-08-23, 02:56:52](https://news.ycombinator.com/item?id=37231354) - [The World's Oldest Photograph](https://www.artandobject.com/news/what-you-might-not-know-about-worlds-oldest-photograph)
 * [2023-08-23, 02:53:21](https://news.ycombinator.com/item?id=37231342) - [I didn't write any JavaScript, and other shortcuts](https://csvbase.com/blog/4)
 * [2023-08-23, 02:40:55](https://news.ycombinator.com/item?id=37231273) - [Modern Computer Architecture and Organization: Learn x86, ARM, and RISC-V](https://www.packtpub.com/product/modern-computer-architecture-and-organization-second-edition/9781803234519)
+* [2023-08-23, 02:23:48](https://news.ycombinator.com/item?id=37231179) - [A fungeoid is a typically multi-dimensional language similar to Befunge](https://esolangs.org/wiki/Fungeoid)
 * [2023-08-23, 01:58:32](https://news.ycombinator.com/item?id=37230995) - [Ask HN: Nicknames for Computer Science Books?](https://news.ycombinator.com/item?id=37230995)
 * [2023-08-23, 01:50:10](https://news.ycombinator.com/item?id=37230937) - [Mastering Emacs](https://www.masteringemacs.org/)
 * [2023-08-23, 01:49:10](https://news.ycombinator.com/item?id=37230932) - [What Happened to Wirecutter?](https://www.theatlantic.com/technology/archive/2023/08/wirecutter-recommendations-worse-new-york-times/675075/)
