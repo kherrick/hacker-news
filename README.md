@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-23, 17:02:18](https://news.ycombinator.com/item?id=37238976) - [Aptible (YC S14) Is Hiring Security Compliance Manager and Product-Led Sales Lead](https://www.aptible.com/culture-hub/careers)
 * [2023-08-23, 16:12:27](https://news.ycombinator.com/item?id=37238254) - [City-Wide IMSI-Catcher Detection](https://seaglass.cs.washington.edu/)
 * [2023-08-23, 15:28:45](https://news.ycombinator.com/item?id=37237583) - [AI Real-Time Human Full-Body Photo Generator](https://generated.photos/human-generator/)
 * [2023-08-23, 15:09:35](https://news.ycombinator.com/item?id=37237246) - [A group of Motherboard folks just spun up their own new independent outlet](https://www.404media.co/welcome-to-404-media/)
@@ -11,7 +12,6 @@
 * [2023-08-23, 14:01:18](https://news.ycombinator.com/item?id=37236027) - [ChatGPT turned generative AI into an “anything tool”](https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/)
 * [2023-08-23, 13:44:12](https://news.ycombinator.com/item?id=37235738) - [If is Evil when used in location context](https://www.nginx.com/resources/wiki/start/topics/depth/ifisevil/)
 * [2023-08-23, 13:31:58](https://news.ycombinator.com/item?id=37235578) - [AI predicts certain esophageal and stomach cancers three years before diagnosis](https://www.michiganmedicine.org/health-lab/ai-can-predict-certain-forms-esophageal-and-stomach-cancer)
-* [2023-08-23, 13:20:09](https://news.ycombinator.com/item?id=37235441) - [Oldest Known Animation, a 5200 Year-Old Iranian Ceramic Vessel](https://www.vintag.es/2023/08/vase-animation.html)
 * [2023-08-23, 13:12:05](https://news.ycombinator.com/item?id=37235333) - [Rubbing Shoulders: Class Segregation in Daily Activities [pdf]](https://maximmassenkoff.com/papers/RubbingShoulders.pdf)
 * [2023-08-23, 12:34:37](https://news.ycombinator.com/item?id=37234887) - [Show HN: Fast vector similarity using Rust and Python](https://github.com/Dicklesworthstone/fast_vector_similarity)
 * [2023-08-23, 11:45:25](https://news.ycombinator.com/item?id=37234404) - [Coffee grounds make concrete 30% stronger](https://www.rmit.edu.au/news/all-news/2023/aug/coffee-concrete)
