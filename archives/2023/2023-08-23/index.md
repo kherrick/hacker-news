@@ -46,6 +46,7 @@
 * [2023-08-23, 05:37:01](https://news.ycombinator.com/item?id=37232229) - [Enhance Rust errors with file and line details](https://crates.io/crates/wherr)
 * [2023-08-23, 05:30:01](https://news.ycombinator.com/item?id=37232198) - [If you’re a criminal I will not use any application you write](https://escapebigtech.info/posts/i-wont-use-applications-by-criminals/)
 * [2023-08-23, 05:11:09](https://news.ycombinator.com/item?id=37232103) - [zrepl: A one-stop, integrated solution for ZFS replication](https://zrepl.github.io/)
+* [2023-08-23, 05:11:06](https://news.ycombinator.com/item?id=37232102) - [I Met a Book](https://www.nationalreview.com/2023/07/i-met-a-book/)
 * [2023-08-23, 05:05:05](https://news.ycombinator.com/item?id=37232074) - [The Sticky History of Baklava](https://www.smithsonianmag.com/travel/the-sticky-history-of-baklava-180982771/)
 * [2023-08-23, 04:49:25](https://news.ycombinator.com/item?id=37231991) - [McNealy's bittersweet memo bids good-bye to Sun (2010)](https://www.cnet.com/culture/mcnealys-bittersweet-memo-bids-good-bye-to-sun-20000017/)
 * [2023-08-23, 04:48:41](https://news.ycombinator.com/item?id=37231989) - [In Wuhan, doctors knew the truth. They were told to keep quiet](https://www.washingtonpost.com/opinions/2023/08/22/wuhan-doctors-pandemic-china-coverup/)
