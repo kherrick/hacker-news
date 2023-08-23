@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-08-23, 03:51:08",
+      "https://news.ycombinator.com/item?id=37231636"
+    ],
+    [
+      "Memory Order in C++ (2022)",
+      "https://www.sobyte.net/post/2022-06/cpp-memory-order/"
+    ]
+  ],
+  [
+    [
       "2023-08-23, 02:53:21",
       "https://news.ycombinator.com/item?id=37231342"
     ],
@@ -67,16 +77,6 @@
     [
       "Modern Computer Architecture and Organization: Learn x86, ARM, and RISC-V",
       "https://www.packtpub.com/product/modern-computer-architecture-and-organization-second-edition/9781803234519"
-    ]
-  ],
-  [
-    [
-      "2023-08-23, 01:50:10",
-      "https://news.ycombinator.com/item?id=37230937"
-    ],
-    [
-      "Mastering Emacs",
-      "https://www.masteringemacs.org/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-08-22, 16:21:01",
-      "https://news.ycombinator.com/item?id=37224936"
-    ],
-    [
-      "Is Beekeeping Wrong?",
-      "https://www.newyorker.com/magazine/2023/08/28/is-beekeeping-wrong"
-    ]
-  ],
-  [
-    [
       "2023-08-22, 15:23:09",
       "https://news.ycombinator.com/item?id=37224042"
     ],
@@ -297,6 +287,16 @@
     [
       "Aeron – Proof of the benefits of open development",
       "https://www.gresearch.com/blog/article/aeron-proof-of-the-benefits-of-open-development/"
+    ]
+  ],
+  [
+    [
+      "2023-08-21, 21:06:56",
+      "https://news.ycombinator.com/item?id=37215374"
+    ],
+    [
+      "My thoughts on the 2023 FTC robotics season",
+      "https://ritvikg.dev/posts/20230418-thoughts-on-ftc-season"
     ]
   ]
 ]
