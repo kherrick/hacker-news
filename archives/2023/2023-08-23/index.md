@@ -8,6 +8,7 @@
 * [2023-08-23, 12:19:47](https://news.ycombinator.com/item?id=37234728) - [Musk’s Erratic Behavior May Be Caused by Escalating Drug Use, Associates Say](https://www.thedailybeast.com/elon-musks-odd-behavior-may-be-due-to-increasing-drug-use-associates-tell-ronan-farrow)
 * [2023-08-23, 11:46:56](https://news.ycombinator.com/item?id=37234415) - [Ridiculous captcha at GitHub to reset your password](https://github.com/orgs/community/discussions/64625)
 * [2023-08-23, 11:45:25](https://news.ycombinator.com/item?id=37234404) - [Coffee grounds make concrete 30% stronger](https://www.rmit.edu.au/news/all-news/2023/aug/coffee-concrete)
+* [2023-08-23, 11:34:07](https://news.ycombinator.com/item?id=37234327) - [‘It’s Not My Responsibility’ to Save the Office Economy](https://www.wsj.com/articles/its-not-my-responsibility-to-save-the-office-economy-901dafce)
 * [2023-08-23, 11:31:07](https://news.ycombinator.com/item?id=37234310) - [Server-Side Rendering Is a Thiel Truth (2020)](https://www.timr.co/server-side-rendering-is-a-thiel-truth/)
 * [2023-08-23, 11:13:05](https://news.ycombinator.com/item?id=37234169) - [Collection of stand-alone Python machine learning recipes (2021)](https://github.com/rougier/ML-Recipes)
 * [2023-08-23, 11:04:27](https://news.ycombinator.com/item?id=37234121) - [Show HN: Pip install inference, open source computer vision deployment](https://github.com/roboflow/inference)

@@ -2,7 +2,7 @@
 
 * [2023-08-23, 12:36:12](https://news.ycombinator.com/item?id=37234914) - [Chandrayaan-3 Lands on the Moon](https://twitter.com/isro/status/1694327198394863911)
 * [2023-08-23, 11:46:56](https://news.ycombinator.com/item?id=37234415) - [Ridiculous captcha at GitHub to reset your password](https://github.com/orgs/community/discussions/64625)
-* [2023-08-23, 11:45:25](https://news.ycombinator.com/item?id=37234404) - [Coffee grounds make concrete 30% stronger](https://www.rmit.edu.au/news/all-news/2023/aug/coffee-concrete)
+* [2023-08-23, 11:34:07](https://news.ycombinator.com/item?id=37234327) - [‘It’s Not My Responsibility’ to Save the Office Economy](https://www.wsj.com/articles/its-not-my-responsibility-to-save-the-office-economy-901dafce)
 * [2023-08-23, 11:31:07](https://news.ycombinator.com/item?id=37234310) - [Server-Side Rendering Is a Thiel Truth (2020)](https://www.timr.co/server-side-rendering-is-a-thiel-truth/)
 * [2023-08-23, 11:13:05](https://news.ycombinator.com/item?id=37234169) - [Collection of stand-alone Python machine learning recipes (2021)](https://github.com/rougier/ML-Recipes)
 * [2023-08-23, 11:04:27](https://news.ycombinator.com/item?id=37234121) - [Show HN: Pip install inference, open source computer vision deployment](https://github.com/roboflow/inference)
@@ -22,8 +22,8 @@
 * [2023-08-23, 02:23:48](https://news.ycombinator.com/item?id=37231179) - [A fungeoid is a typically multi-dimensional language similar to Befunge](https://esolangs.org/wiki/Fungeoid)
 * [2023-08-23, 02:20:07](https://news.ycombinator.com/item?id=37231148) - [Visualizing the mysterious: Quantum entanglement photons captured in real-time](https://phys.org/news/2023-08-visualizing-mysterious-quantum-entanglement-photons.amp)
 * [2023-08-23, 01:37:01](https://news.ycombinator.com/item?id=37230843) - [Eye scans detect signs of Parkinson’s disease up to seven years before diagnosis](https://www.moorfields.nhs.uk/news/eye-scans-detect-signs-parkinson-s-disease-seven-years-diagnosis)
+* [2023-08-23, 01:00:33](https://news.ycombinator.com/item?id=37230619) - [I only lost 10 minutes of data, thanks to ZFS](https://mastodon.social/@chromakode/110936177254839251)
 * [2023-08-23, 00:01:44](https://news.ycombinator.com/item?id=37230198) - [Mounting your iPhone on your motorcycle can damage its camera (2022)](https://old.reddit.com/r/motorcycles/comments/v7d6rn/learned_the_hard_way_that_mounting_your_phone_on/)
-* [2023-08-22, 22:58:38](https://news.ycombinator.com/item?id=37229689) - [Dashworks is hiring ML and fullstack engineers](https://www.dashworks.ai/company#jobs)
 * [2023-08-22, 22:30:42](https://news.ycombinator.com/item?id=37229435) - [No One Wants Simplicity](https://lukeplant.me.uk/blog/posts/no-one-actually-wants-simplicity/)
 * [2023-08-22, 22:14:37](https://news.ycombinator.com/item?id=37229270) - [Skiff – Privacy-first end-to-end encrypted email](https://skiff.com)
 * [2023-08-22, 15:23:09](https://news.ycombinator.com/item?id=37224042) - [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
