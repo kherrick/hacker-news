@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-23, 17:22:32](https://news.ycombinator.com/item?id=37239247) - [My Books Were Used to Train AI](https://www.theatlantic.com/books/archive/2023/08/stephen-king-books-ai-writing/675088/)
 * [2023-08-23, 17:02:18](https://news.ycombinator.com/item?id=37238976) - [Aptible (YC S14) Is Hiring Security Compliance Manager and Product-Led Sales Lead](https://www.aptible.com/culture-hub/careers)
 * [2023-08-23, 16:12:27](https://news.ycombinator.com/item?id=37238254) - [City-Wide IMSI-Catcher Detection](https://seaglass.cs.washington.edu/)
 * [2023-08-23, 15:28:45](https://news.ycombinator.com/item?id=37237583) - [AI Real-Time Human Full-Body Photo Generator](https://generated.photos/human-generator/)
@@ -9,7 +10,6 @@
 * [2023-08-23, 14:07:45](https://news.ycombinator.com/item?id=37236137) - [Apple’s treatment of small games developer makes a textbook antitrust case](https://9to5mac.com/2023/08/23/textbook-antitrust-case/)
 * [2023-08-23, 14:05:16](https://news.ycombinator.com/item?id=37236100) - [WinRAR zero-day exploited since April to hack trading accounts](https://www.bleepingcomputer.com/news/security/winrar-zero-day-exploited-since-april-to-hack-trading-accounts/)
 * [2023-08-23, 14:05:14](https://news.ycombinator.com/item?id=37236099) - [My favorite prime number generator](https://eli.thegreenplace.net/2023/my-favorite-prime-number-generator/)
-* [2023-08-23, 14:01:18](https://news.ycombinator.com/item?id=37236027) - [ChatGPT turned generative AI into an “anything tool”](https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/)
 * [2023-08-23, 13:44:12](https://news.ycombinator.com/item?id=37235738) - [If is Evil when used in location context](https://www.nginx.com/resources/wiki/start/topics/depth/ifisevil/)
 * [2023-08-23, 13:31:58](https://news.ycombinator.com/item?id=37235578) - [AI predicts certain esophageal and stomach cancers three years before diagnosis](https://www.michiganmedicine.org/health-lab/ai-can-predict-certain-forms-esophageal-and-stomach-cancer)
 * [2023-08-23, 13:12:05](https://news.ycombinator.com/item?id=37235333) - [Rubbing Shoulders: Class Segregation in Daily Activities [pdf]](https://maximmassenkoff.com/papers/RubbingShoulders.pdf)
