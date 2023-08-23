@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-08-23, 18:27:30",
-      "https://news.ycombinator.com/item?id=37240195"
-    ],
-    [
-      "Let Go",
-      "https://xkcd.com/862/"
-    ]
-  ],
-  [
-    [
       "2023-08-23, 18:27:15",
       "https://news.ycombinator.com/item?id=37240187"
     ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=37239272"
     ],
     [
-      "Clearspace-1 space debris cleanup target struck by space debris – Space",
+      "Clearspace-1 space debris cleanup target struck by space debris",
       "https://www.space.com/space-debris-cleanup-mission-target-hit"
     ]
   ],
@@ -77,6 +67,16 @@
     [
       "Show HN: Gentrace – evaluation and observability for generative AI",
       "https://gentrace.ai"
+    ]
+  ],
+  [
+    [
+      "2023-08-23, 16:15:48",
+      "https://news.ycombinator.com/item?id=37238306"
+    ],
+    [
+      "Exploring Windows XP on macOS ARM64",
+      "https://milen.me/writings/exploring-windows-xp-on-macos-arm64/"
     ]
   ],
   [
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=37235738"
     ],
     [
-      "If is Evil when used in location context",
+      "If is Evil when used in location context (2015)",
       "https://www.nginx.com/resources/wiki/start/topics/depth/ifisevil/"
     ]
   ],
@@ -221,22 +221,12 @@
   ],
   [
     [
-      "2023-08-23, 05:11:09",
-      "https://news.ycombinator.com/item?id=37232103"
+      "2023-08-23, 02:56:52",
+      "https://news.ycombinator.com/item?id=37231354"
     ],
     [
-      "Zrepl – ZFS replication",
-      "https://zrepl.github.io/"
-    ]
-  ],
-  [
-    [
-      "2023-08-23, 02:40:55",
-      "https://news.ycombinator.com/item?id=37231273"
-    ],
-    [
-      "Modern Computer Architecture and Organization - Second Edition (2022)",
-      "https://www.packtpub.com/product/modern-computer-architecture-and-organization-second-edition/9781803234519"
+      "The World's Oldest Photograph (2022)",
+      "https://www.artandobject.com/news/what-you-might-not-know-about-worlds-oldest-photograph"
     ]
   ],
   [
@@ -245,7 +235,7 @@
       "https://news.ycombinator.com/item?id=37231148"
     ],
     [
-      "Visualizing the mysterious: Quantum entanglement photons captured in real-time",
+      "Image constructed using quantum entanglement of photons",
       "https://phys.org/news/2023-08-visualizing-mysterious-quantum-entanglement-photons.amp"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "Natural beekeepers are the radical dissenters of apiculture",
       "https://www.newyorker.com/magazine/2023/08/28/is-beekeeping-wrong"
+    ]
+  ],
+  [
+    [
+      "2023-08-22, 15:23:09",
+      "https://news.ycombinator.com/item?id=37224042"
+    ],
+    [
+      "The first conformant M1 GPU driver",
+      "https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html"
     ]
   ],
   [
