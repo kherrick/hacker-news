@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
+* [2023-08-23, 11:31:07](https://news.ycombinator.com/item?id=37234310) - [Server-Side Rendering Is a Thiel Truth (2020)](https://www.timr.co/server-side-rendering-is-a-thiel-truth/)
 * [2023-08-23, 11:02:57](https://news.ycombinator.com/item?id=37234111) - [Ask HN: Where to find open source house plans?](https://news.ycombinator.com/item?id=37234111)
 * [2023-08-23, 10:37:38](https://news.ycombinator.com/item?id=37233977) - [Why the vagus nerve is so exciting to scientists](https://www.theguardian.com/society/2023/aug/23/the-key-to-depression-obesity-alcoholism-and-more-why-the-vagus-nerve-is-so-exciting-to-scientists)
 * [2023-08-23, 10:30:23](https://news.ycombinator.com/item?id=37233936) - [Live telecast of Chandrayaan-3 Soft-landing](https://www.isro.gov.in/LIVE_telecast_of_Soft_landing.html)

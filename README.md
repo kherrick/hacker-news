@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-23, 11:31:07](https://news.ycombinator.com/item?id=37234310) - [Server-Side Rendering Is a Thiel Truth (2020)](https://www.timr.co/server-side-rendering-is-a-thiel-truth/)
 * [2023-08-23, 11:02:57](https://news.ycombinator.com/item?id=37234111) - [Ask HN: Where to find open source house plans?](https://news.ycombinator.com/item?id=37234111)
 * [2023-08-23, 10:37:38](https://news.ycombinator.com/item?id=37233977) - [Why the vagus nerve is so exciting to scientists](https://www.theguardian.com/society/2023/aug/23/the-key-to-depression-obesity-alcoholism-and-more-why-the-vagus-nerve-is-so-exciting-to-scientists)
 * [2023-08-23, 10:30:23](https://news.ycombinator.com/item?id=37233936) - [Live telecast of Chandrayaan-3 Soft-landing](https://www.isro.gov.in/LIVE_telecast_of_Soft_landing.html)
@@ -18,7 +19,6 @@
 * [2023-08-23, 01:00:33](https://news.ycombinator.com/item?id=37230619) - [I only lost 10 minutes of data, thanks to ZFS](https://mastodon.social/@chromakode/110936177254839251)
 * [2023-08-23, 00:01:44](https://news.ycombinator.com/item?id=37230198) - [Mounting your iPhone on your motorcycle can damage its camera](https://old.reddit.com/r/motorcycles/comments/v7d6rn/learned_the_hard_way_that_mounting_your_phone_on/)
 * [2023-08-22, 22:58:38](https://news.ycombinator.com/item?id=37229689) - [Dashworks is hiring ML and fullstack engineers](https://www.dashworks.ai/company#jobs)
-* [2023-08-22, 22:28:06](https://news.ycombinator.com/item?id=37229403) - [OpenSAFELY is a secure, open-source platform for analysis of health records data](https://www.opensafely.org/about/#core-design-features-for-privacy-transparency-and-open-working)
 * [2023-08-22, 22:14:37](https://news.ycombinator.com/item?id=37229270) - [Skiff – Privacy-first end-to-end encrypted email](https://skiff.com)
 * [2023-08-22, 22:09:19](https://news.ycombinator.com/item?id=37229212) - [Thoughts on Flash (2010)](https://web.archive.org/web/20170615060422/https://www.apple.com/hotnews/thoughts-on-flash/)
 * [2023-08-22, 21:53:07](https://news.ycombinator.com/item?id=37229030) - [PostgreSQL Lock Conflicts](https://pglocks.org/)
