@@ -1,22 +1,42 @@
 [
   [
     [
+      "2023-08-23, 06:23:36",
+      "https://news.ycombinator.com/item?id=37232451"
+    ],
+    [
+      "Permutation Iteration and Random Access",
+      "https://blog.demofox.org/2023/08/22/permutation-iteration-and-random-access/"
+    ]
+  ],
+  [
+    [
+      "2023-08-23, 05:37:01",
+      "https://news.ycombinator.com/item?id=37232229"
+    ],
+    [
+      "Enhance Rust errors with file and line details",
+      "https://crates.io/crates/wherr"
+    ]
+  ],
+  [
+    [
+      "2023-08-23, 05:11:09",
+      "https://news.ycombinator.com/item?id=37232103"
+    ],
+    [
+      "zrepl: A one-stop, integrated solution for ZFS replication",
+      "https://zrepl.github.io/"
+    ]
+  ],
+  [
+    [
       "2023-08-23, 01:50:10",
       "https://news.ycombinator.com/item?id=37230937"
     ],
     [
       "Mastering Emacs",
       "https://www.masteringemacs.org/"
-    ]
-  ],
-  [
-    [
-      "2023-08-23, 01:49:10",
-      "https://news.ycombinator.com/item?id=37230932"
-    ],
-    [
-      "What happened to Wirecutter?",
-      "https://www.theatlantic.com/technology/archive/2023/08/wirecutter-recommendations-worse-new-york-times/675075/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-08-22, 18:58:46",
-      "https://news.ycombinator.com/item?id=37227086"
-    ],
-    [
-      "First ever remains of a dicraeosaurid sauropod unearthed in India",
-      "https://phys.org/news/2023-08-dicraeosaurid-sauropod-unearthed-india.html"
-    ]
-  ],
-  [
-    [
       "2023-08-22, 17:56:52",
       "https://news.ycombinator.com/item?id=37226360"
     ],
@@ -245,7 +255,7 @@
       "https://news.ycombinator.com/item?id=37220604"
     ],
     [
-      "A complete guide to building a hand-wired keyboard",
+      "A complete guide to building a hand-wired keyboard (2020)",
       "https://www.crackedthecode.co/a-complete-guide-to-building-a-hand-wired-keyboard/"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "Frog Galvanoscope",
       "https://en.wikipedia.org/wiki/Frog_galvanoscope"
-    ]
-  ],
-  [
-    [
-      "2023-08-22, 02:07:56",
-      "https://news.ycombinator.com/item?id=37217761"
-    ],
-    [
-      "Compile-Time Checked Truth Tables",
-      "https://blog.ploeh.dk/2023/08/21/compile-time-type-checked-truth-tables/"
     ]
   ],
   [
