@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-08-23, 03:27:07",
-      "https://news.ycombinator.com/item?id=37231516"
-    ],
-    [
-      "Awk programming language 2nd edition",
-      "https://www.awk.dev/"
-    ]
-  ],
-  [
-    [
       "2023-08-23, 01:50:10",
       "https://news.ycombinator.com/item?id=37230937"
     ],
@@ -237,6 +227,16 @@
     [
       "Hogfish ‘See’ with Their Skin, Even When They’re Dead",
       "https://www.nytimes.com/2023/08/22/science/hogfish-skin-camouflage-dead.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-22, 13:58:58",
+      "https://news.ycombinator.com/item?id=37222823"
+    ],
+    [
+      "Prettymapp – Create maps from OpenStreetMap data in a Streamlit webapp",
+      "https://github.com/chrieke/prettymapp"
     ]
   ],
   [
