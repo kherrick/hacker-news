@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
 * [2023-08-23, 14:05:16](https://news.ycombinator.com/item?id=37236100) - [WinRAR zero-day exploited since April to hack trading accounts](https://www.bleepingcomputer.com/news/security/winrar-zero-day-exploited-since-april-to-hack-trading-accounts/)
+* [2023-08-23, 14:05:14](https://news.ycombinator.com/item?id=37236099) - [My favorite prime number generator](https://eli.thegreenplace.net/2023/my-favorite-prime-number-generator/)
 * [2023-08-23, 13:46:35](https://news.ycombinator.com/item?id=37235770) - [Cash payments above €3000 to be outlawed in Netherlands](https://www.rijksoverheid.nl/onderwerpen/geldzaken/vraag-en-antwoord/grote-aankopen-met-contant-geld)
 * [2023-08-23, 13:31:58](https://news.ycombinator.com/item?id=37235578) - [AI predicts certain esophageal and stomach cancers three years before diagnosis](https://www.michiganmedicine.org/health-lab/ai-can-predict-certain-forms-esophageal-and-stomach-cancer)
 * [2023-08-23, 13:20:09](https://news.ycombinator.com/item?id=37235441) - [Oldest Known Animation, a 5200 Year-Old Iranian Ceramic Vessel](https://www.vintag.es/2023/08/vase-animation.html)
