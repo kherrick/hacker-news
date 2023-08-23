@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
+* [2023-08-23, 04:48:41](https://news.ycombinator.com/item?id=37231989) - [In Wuhan, doctors knew the truth. They were told to keep quiet](https://www.washingtonpost.com/opinions/2023/08/22/wuhan-doctors-pandemic-china-coverup/)
+* [2023-08-23, 03:22:59](https://news.ycombinator.com/item?id=37231496) - [Programmers should not call themselves engineers (2015)](https://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/)
 * [2023-08-23, 01:58:32](https://news.ycombinator.com/item?id=37230995) - [Ask HN: Nicknames for Computer Science Books?](https://news.ycombinator.com/item?id=37230995)
 * [2023-08-23, 01:49:10](https://news.ycombinator.com/item?id=37230932) - [What Happened to Wirecutter?](https://www.theatlantic.com/technology/archive/2023/08/wirecutter-recommendations-worse-new-york-times/675075/)
 * [2023-08-23, 01:44:26](https://news.ycombinator.com/item?id=37230898) - [AdNauseam: uBlock Origin fork silently clicking ads](https://github.com/dhowe/AdNauseam)

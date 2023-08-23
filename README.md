@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-23, 04:48:41](https://news.ycombinator.com/item?id=37231989) - [In Wuhan, doctors knew the truth. They were told to keep quiet](https://www.washingtonpost.com/opinions/2023/08/22/wuhan-doctors-pandemic-china-coverup/)
+* [2023-08-23, 03:22:59](https://news.ycombinator.com/item?id=37231496) - [Programmers should not call themselves engineers (2015)](https://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/)
 * [2023-08-23, 01:49:10](https://news.ycombinator.com/item?id=37230932) - [What happened to Wirecutter?](https://www.theatlantic.com/technology/archive/2023/08/wirecutter-recommendations-worse-new-york-times/675075/)
 * [2023-08-23, 01:37:01](https://news.ycombinator.com/item?id=37230843) - [Eye scans detect signs of Parkinson’s disease up to seven years before diagnosis](https://www.moorfields.nhs.uk/news/eye-scans-detect-signs-parkinson-s-disease-seven-years-diagnosis)
 * [2023-08-23, 01:00:33](https://news.ycombinator.com/item?id=37230619) - [I only lost 10 minutes of data, thanks to ZFS](https://mastodon.social/@chromakode/110936177254839251)
@@ -12,7 +14,6 @@
 * [2023-08-22, 21:34:51](https://news.ycombinator.com/item?id=37228822) - [An Old Conjecture Falls, Making Spheres a Lot More Complicated](https://www.quantamagazine.org/an-old-conjecture-falls-making-spheres-a-lot-more-complicated-20230822/)
 * [2023-08-22, 20:35:04](https://news.ycombinator.com/item?id=37228166) - [Your brain on emoji](https://nautil.us/your-🧠-on-emoji-365823/)
 * [2023-08-22, 20:21:12](https://news.ycombinator.com/item?id=37228028) - [When Trucks Fly](https://www.newyorker.com/magazine/2023/08/21/when-trucks-fly)
-* [2023-08-22, 20:19:35](https://news.ycombinator.com/item?id=37228004) - [Beyond SQL: A relational database for modern applications](https://fauna.com/blog/beyond-sql)
 * [2023-08-22, 19:09:47](https://news.ycombinator.com/item?id=37227229) - [How to Solve It (1945)](https://www.math.utah.edu/~alfeld/math/polya.html)
 * [2023-08-22, 19:02:37](https://news.ycombinator.com/item?id=37227139) - [GPT-3.5 Turbo fine-tuning and API updates](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates)
 * [2023-08-22, 18:58:46](https://news.ycombinator.com/item?id=37227086) - [First ever remains of a dicraeosaurid sauropod unearthed in India](https://phys.org/news/2023-08-dicraeosaurid-sauropod-unearthed-india.html)
@@ -21,7 +22,6 @@
 * [2023-08-22, 15:29:24](https://news.ycombinator.com/item?id=37224148) - [Show HN: FlakeHub – Discover and publish Nix flakes](https://flakehub.com/)
 * [2023-08-22, 15:23:09](https://news.ycombinator.com/item?id=37224042) - [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
 * [2023-08-22, 15:20:04](https://news.ycombinator.com/item?id=37223995) - [Hogfish ‘See’ with Their Skin, Even When They’re Dead](https://www.nytimes.com/2023/08/22/science/hogfish-skin-camouflage-dead.html)
-* [2023-08-22, 14:01:49](https://news.ycombinator.com/item?id=37222855) - [Architecture diagrams enable better conversations](https://www.unravelled.dev/how-architecture-diagrams-enable-better-conversations/)
 * [2023-08-22, 13:58:58](https://news.ycombinator.com/item?id=37222823) - [Prettymapp – Create maps from OpenStreetMap data in a Streamlit webapp](https://github.com/chrieke/prettymapp)
 * [2023-08-22, 13:41:40](https://news.ycombinator.com/item?id=37222571) - [The new science of meditation](https://www.vox.com/future-perfect/23836358/meditation-mindfulness-enlightenment-science-contemplative-buddhism-spirituality)
 * [2023-08-22, 12:15:28](https://news.ycombinator.com/item?id=37221576) - [My Pebble mood tracker app from 2016](https://www.nothingeasyaboutthis.com/moodapp/)
