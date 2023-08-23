@@ -17,6 +17,7 @@
 * [2023-08-23, 17:07:27](https://news.ycombinator.com/item?id=37239044) - [Embedded Linux UIO and AMD FPGA](https://www.adiuvoengineering.com/post/microzed-chronicles-uio-part-one-introduction-and-set-up)
 * [2023-08-23, 17:02:18](https://news.ycombinator.com/item?id=37238976) - [Aptible (YC S14) Is Hiring Security Compliance Manager and Product-Led Sales Lead](https://www.aptible.com/culture-hub/careers)
 * [2023-08-23, 16:38:13](https://news.ycombinator.com/item?id=37238648) - [Show HN: Gentrace – evaluation and observability for generative AI](https://gentrace.ai)
+* [2023-08-23, 16:15:48](https://news.ycombinator.com/item?id=37238306) - [Exploring Windows XP on macOS ARM64](https://milen.me/writings/exploring-windows-xp-on-macos-arm64/)
 * [2023-08-23, 16:12:27](https://news.ycombinator.com/item?id=37238254) - [City-Wide IMSI-Catcher Detection](https://seaglass.cs.washington.edu/)
 * [2023-08-23, 15:28:45](https://news.ycombinator.com/item?id=37237583) - [AI Real-Time Human Full-Body Photo Generator](https://generated.photos/human-generator/)
 * [2023-08-23, 15:09:35](https://news.ycombinator.com/item?id=37237246) - [A group of Motherboard folks just spun up their own new independent outlet](https://www.404media.co/welcome-to-404-media/)
