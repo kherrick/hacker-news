@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
+* [2023-08-23, 19:39:24](https://news.ycombinator.com/item?id=37241116) - [WinRAR 0-day that uses poisoned JPG and TXT files under exploit since April](https://arstechnica.com/security/2023/08/winrar-0-day-that-uses-poisoned-jpg-and-txt-files-under-exploit-since-april/)
 * [2023-08-23, 18:38:56](https://news.ycombinator.com/item?id=37240363) - [Show HN: Dataherald AI – Natural Language to SQL Engine](https://github.com/Dataherald/dataherald)
 * [2023-08-23, 18:27:30](https://news.ycombinator.com/item?id=37240195) - [Let Go](https://xkcd.com/862/)
 * [2023-08-23, 18:27:15](https://news.ycombinator.com/item?id=37240187) - [An excruciatingly detailed guide to SSH (but only the things I find useful)](https://grahamhelton.com/blog/ssh-cheatsheet/)
@@ -58,6 +59,7 @@
 * [2023-08-23, 09:46:05](https://news.ycombinator.com/item?id=37233706) - [The Terrifying Possibility of Accidental Nuclear War](https://scienceswitch.com/2023/08/23/the-terrifying-possibility-of-accidental-nuclear-war/)
 * [2023-08-23, 08:33:28](https://news.ycombinator.com/item?id=37233295) - [macOS 13.5 no longer allows setting system wide ulimits](https://developer.apple.com/forums/thread/735798)
 * [2023-08-23, 06:51:04](https://news.ycombinator.com/item?id=37232626) - [Resistor–Transistor Logic (RTL)](https://en.wikipedia.org/wiki/Resistor%E2%80%93transistor_logic)
+* [2023-08-23, 06:44:11](https://news.ycombinator.com/item?id=37232572) - [In the Sheriff We Trust](https://azcir.org/cspoa/)
 * [2023-08-23, 06:41:07](https://news.ycombinator.com/item?id=37232546) - [What happens when you see the face of someone you love](https://www.technologyreview.com/2021/08/25/1031451/brain-scientifi)
 * [2023-08-23, 06:23:36](https://news.ycombinator.com/item?id=37232451) - [Permutation Iteration and Random Access](https://blog.demofox.org/2023/08/22/permutation-iteration-and-random-access/)
 * [2023-08-23, 06:19:45](https://news.ycombinator.com/item?id=37232433) - [Show HN: My New Portfolio Update](https://anasdew.com/)
