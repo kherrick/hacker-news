@@ -87,6 +87,7 @@
 * [2023-08-23, 02:40:55](https://news.ycombinator.com/item?id=37231273) - [Modern Computer Architecture and Organization: Learn x86, ARM, and RISC-V](https://www.packtpub.com/product/modern-computer-architecture-and-organization-second-edition/9781803234519)
 * [2023-08-23, 02:23:48](https://news.ycombinator.com/item?id=37231179) - [A fungeoid is a typically multi-dimensional language similar to Befunge](https://esolangs.org/wiki/Fungeoid)
 * [2023-08-23, 02:20:07](https://news.ycombinator.com/item?id=37231148) - [Visualizing the mysterious: Quantum entanglement photons captured in real-time](https://phys.org/news/2023-08-visualizing-mysterious-quantum-entanglement-photons.amp)
+* [2023-08-23, 02:04:16](https://news.ycombinator.com/item?id=37231025) - [PreTeXt: Write Once Read Anywhere Authoring and Publishing System](https://pretextbook.org/)
 * [2023-08-23, 01:58:32](https://news.ycombinator.com/item?id=37230995) - [Ask HN: Nicknames for Computer Science Books?](https://news.ycombinator.com/item?id=37230995)
 * [2023-08-23, 01:50:10](https://news.ycombinator.com/item?id=37230937) - [Mastering Emacs](https://www.masteringemacs.org/)
 * [2023-08-23, 01:49:10](https://news.ycombinator.com/item?id=37230932) - [What Happened to Wirecutter?](https://www.theatlantic.com/technology/archive/2023/08/wirecutter-recommendations-worse-new-york-times/675075/)
