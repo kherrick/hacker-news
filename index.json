@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-08-23, 13:57:28",
+      "https://news.ycombinator.com/item?id=37235957"
+    ],
+    [
+      "Choosing the Right Rust Web Framework: An Overview",
+      "https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison"
+    ]
+  ],
+  [
+    [
       "2023-08-23, 13:46:35",
       "https://news.ycombinator.com/item?id=37235770"
     ],
@@ -61,12 +71,12 @@
   ],
   [
     [
-      "2023-08-23, 13:18:53",
-      "https://news.ycombinator.com/item?id=37235421"
+      "2023-08-23, 13:12:05",
+      "https://news.ycombinator.com/item?id=37235333"
     ],
     [
-      "Ask HN: As a self-taught developer, what are your self-directed learning tips?",
-      "https://news.ycombinator.com/item?id=37235421"
+      "Rubbing Shoulders: Class Segregation in Daily Activities [pdf]",
+      "https://maximmassenkoff.com/papers/RubbingShoulders.pdf"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2023-08-23, 03:51:08",
-      "https://news.ycombinator.com/item?id=37231636"
-    ],
-    [
-      "Memory Order in C++ (2022)",
-      "https://www.sobyte.net/post/2022-06/cpp-memory-order/"
-    ]
-  ],
-  [
-    [
       "2023-08-23, 02:56:52",
       "https://news.ycombinator.com/item?id=37231354"
     ],
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2023-08-22, 22:58:38",
-      "https://news.ycombinator.com/item?id=37229689"
-    ],
-    [
-      "Dashworks is hiring ML and fullstack engineers",
-      "https://www.dashworks.ai/company#jobs"
-    ]
-  ],
-  [
-    [
       "2023-08-22, 22:30:42",
       "https://news.ycombinator.com/item?id=37229435"
     ],
     [
       "No One Wants Simplicity",
       "https://lukeplant.me.uk/blog/posts/no-one-actually-wants-simplicity/"
+    ]
+  ],
+  [
+    [
+      "2023-08-22, 21:34:48",
+      "https://news.ycombinator.com/item?id=37228821"
+    ],
+    [
+      "MacWhisper: Transcribe audio files on your Mac",
+      "https://goodsnooze.gumroad.com/l/macwhisper"
     ]
   ],
   [
