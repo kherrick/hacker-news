@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-23, 22:13:58](https://news.ycombinator.com/item?id=37242545) - [Zoom CEO says employees can't be as innovative or get to know each other on Zoom](https://www.businessinsider.com/zoom-ceo-employees-return-to-office-2023-8)
-* [2023-08-23, 21:24:39](https://news.ycombinator.com/item?id=37242043) - [Tornado Cash devs charged with laundering more than $1B](https://www.theverge.com/2023/8/23/23843161/tornado-cash-indictment-conspiracy-north-korea-money-laundering)
+* [2023-08-23, 22:24:25](https://news.ycombinator.com/item?id=37242651) - [BioWare is laying off 50 employees](https://blog.bioware.com/2023/08/23/an-update-on-the-state-of-bioware/)
 * [2023-08-23, 20:35:33](https://news.ycombinator.com/item?id=37241601) - [Life on board a British nuclear submarine (2012)](https://www.theguardian.com/uk/2012/aug/21/life-on-board-nuclear-submarine)
 * [2023-08-23, 20:24:40](https://news.ycombinator.com/item?id=37241487) - [Nvidia Announces Financial Results for Second Quarter Fiscal 2024](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2024)
 * [2023-08-23, 19:02:55](https://news.ycombinator.com/item?id=37240681) - [The Early History of Counting](https://www.laphamsquarterly.org/roundtable/early-history-counting)
@@ -22,6 +21,7 @@
 * [2023-08-23, 10:26:19](https://news.ycombinator.com/item?id=37233902) - [Add dir=“auto” to your inputs and textareas](https://mough.xyz/312/psa-add-dir-auto-to-your-inputs-and-textareas)
 * [2023-08-23, 06:19:53](https://news.ycombinator.com/item?id=37232435) - [Interferometric imaging of amplitude and phase of spatial biphoton states](https://www.nature.com/articles/s41566-023-01272-3)
 * [2023-08-23, 02:54:33](https://news.ycombinator.com/item?id=37231347) - [An interpreter for a programming language based on Spotify playlists](https://github.com/h313/spet)
+* [2023-08-23, 02:20:07](https://news.ycombinator.com/item?id=37231148) - [Image constructed using quantum entanglement of photons](https://phys.org/news/2023-08-visualizing-mysterious-quantum-entanglement-photons.amp)
 * [2023-08-23, 02:04:16](https://news.ycombinator.com/item?id=37231025) - [PreTeXt: Write Once Read Anywhere Authoring and Publishing System](https://pretextbook.org/)
 * [2023-08-22, 22:58:31](https://news.ycombinator.com/item?id=37229686) - [People in a genetic database have segments of DNA in common unexpectedly often](https://arstechnica.com/science/2023/08/genetics-makes-some-people-more-likely-to-participate-in-genetic-studies/)
 * [2023-08-22, 21:34:48](https://news.ycombinator.com/item?id=37228821) - [MacWhisper: Transcribe audio files on your Mac](https://goodsnooze.gumroad.com/l/macwhisper)
