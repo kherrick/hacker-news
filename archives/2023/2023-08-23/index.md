@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
 * [2023-08-23, 21:24:39](https://news.ycombinator.com/item?id=37242043) - [Tornado Cash devs charged with laundering more than $1B](https://www.theverge.com/2023/8/23/23843161/tornado-cash-indictment-conspiracy-north-korea-money-laundering)
+* [2023-08-23, 21:13:12](https://news.ycombinator.com/item?id=37241906) - [Backblaze Product and Pricing Updates](https://www.backblaze.com/blog/2023-product-announcement/)
 * [2023-08-23, 21:01:56](https://news.ycombinator.com/item?id=37241809) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-08-23, 20:35:33](https://news.ycombinator.com/item?id=37241601) - [Life on board a British nuclear submarine](https://www.theguardian.com/uk/2012/aug/21/life-on-board-nuclear-submarine)
 * [2023-08-23, 20:31:52](https://news.ycombinator.com/item?id=37241566) - [Nvidia reports 88% jump in revenue and tops estimates](https://www.cnbc.com/2023/08/23/nvidia-nvda-earnings-report-q2-2024.html)
@@ -70,6 +71,7 @@
 * [2023-08-23, 06:44:11](https://news.ycombinator.com/item?id=37232572) - [In the Sheriff We Trust](https://azcir.org/cspoa/)
 * [2023-08-23, 06:41:07](https://news.ycombinator.com/item?id=37232546) - [What happens when you see the face of someone you love](https://www.technologyreview.com/2021/08/25/1031451/brain-scientifi)
 * [2023-08-23, 06:23:36](https://news.ycombinator.com/item?id=37232451) - [Permutation Iteration and Random Access](https://blog.demofox.org/2023/08/22/permutation-iteration-and-random-access/)
+* [2023-08-23, 06:19:53](https://news.ycombinator.com/item?id=37232435) - [Interferometric imaging of amplitude and phase of spatial biphoton states](https://www.nature.com/articles/s41566-023-01272-3)
 * [2023-08-23, 06:19:45](https://news.ycombinator.com/item?id=37232433) - [Show HN: My New Portfolio Update](https://anasdew.com/)
 * [2023-08-23, 06:01:31](https://news.ycombinator.com/item?id=37232340) - [Unit Tests Are Overrated: Rethinking Testing Strategies](https://thenewstack.io/unit-tests-are-overrated-rethinking-testing-strategies/)
 * [2023-08-23, 05:37:01](https://news.ycombinator.com/item?id=37232229) - [Enhance Rust errors with file and line details](https://crates.io/crates/wherr)
