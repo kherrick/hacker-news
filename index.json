@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-08-23, 14:49:31",
+      "https://news.ycombinator.com/item?id=37236916"
+    ],
+    [
+      "A half-hour to learn Rust",
+      "https://fasterthanli.me/articles/a-half-hour-to-learn-rust"
+    ]
+  ],
+  [
+    [
+      "2023-08-23, 14:46:42",
+      "https://news.ycombinator.com/item?id=37236860"
+    ],
+    [
+      "Odd and Unsafe Baby Car Seats from the Past",
+      "https://rarehistoricalphotos.com/unsafe-vintage-baby-car-seat/"
+    ]
+  ],
+  [
+    [
+      "2023-08-23, 14:43:56",
+      "https://news.ycombinator.com/item?id=37236803"
+    ],
+    [
+      "Thomas Sowell's greatest insight – Konstantin Kisin [video]",
+      "https://www.youtube.com/watch?v=DvSHWaUDa7k"
+    ]
+  ],
+  [
+    [
+      "2023-08-23, 14:40:21",
+      "https://news.ycombinator.com/item?id=37236746"
+    ],
+    [
+      "Wappalyzer no longer open source?",
+      "https://news.ycombinator.com/item?id=37236746"
+    ]
+  ],
+  [
+    [
       "2023-08-23, 14:05:16",
       "https://news.ycombinator.com/item?id=37236100"
     ],
@@ -52,16 +92,6 @@
   [
     [
       "2023-08-23, 13:20:09",
-      "https://news.ycombinator.com/item?id=37235441"
-    ],
-    [
-      "Oldest Known Animation, a 5200 Year-Old Iranian Ceramic Vessel",
-      "https://www.vintag.es/2023/08/vase-animation.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-23, 13:20:09",
       "https://news.ycombinator.com/item?id=37235440"
     ],
     [
@@ -77,6 +107,16 @@
     [
       "Rubbing Shoulders: Class Segregation in Daily Activities [pdf]",
       "https://maximmassenkoff.com/papers/RubbingShoulders.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-08-23, 12:34:37",
+      "https://news.ycombinator.com/item?id=37234887"
+    ],
+    [
+      "Show HN: Fast vector similarity using Rust and Python",
+      "https://github.com/Dicklesworthstone/fast_vector_similarity"
     ]
   ],
   [
@@ -107,16 +147,6 @@
     [
       "Ask HN: Where to find open source house plans?",
       "https://news.ycombinator.com/item?id=37234111"
-    ]
-  ],
-  [
-    [
-      "2023-08-23, 10:37:38",
-      "https://news.ycombinator.com/item?id=37233977"
-    ],
-    [
-      "Why the vagus nerve is so exciting to scientists",
-      "https://www.theguardian.com/society/2023/aug/23/the-key-to-depression-obesity-alcoholism-and-more-why-the-vagus-nerve-is-so-exciting-to-scientists"
     ]
   ],
   [
@@ -167,16 +197,6 @@
     [
       "Zrepl – ZFS replication",
       "https://zrepl.github.io/"
-    ]
-  ],
-  [
-    [
-      "2023-08-23, 04:49:25",
-      "https://news.ycombinator.com/item?id=37231991"
-    ],
-    [
-      "McNealy's bittersweet memo bids good-bye to Sun (2010)",
-      "https://www.cnet.com/culture/mcnealys-bittersweet-memo-bids-good-bye-to-sun-20000017/"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-08-22, 15:20:04",
-      "https://news.ycombinator.com/item?id=37223995"
-    ],
-    [
-      "Hogfish ‘See’ with Their Skin, Even When They’re Dead",
-      "https://www.nytimes.com/2023/08/22/science/hogfish-skin-camouflage-dead.html"
-    ]
-  ],
-  [
-    [
       "2023-08-22, 10:54:29",
       "https://news.ycombinator.com/item?id=37220953"
     ],
     [
       "Writing a Package Manager",
       "https://antonz.org/writing-package-manager/"
-    ]
-  ],
-  [
-    [
-      "2023-08-22, 04:40:40",
-      "https://news.ycombinator.com/item?id=37218765"
-    ],
-    [
-      "Frog Galvanoscope",
-      "https://en.wikipedia.org/wiki/Frog_galvanoscope"
     ]
   ]
 ]
