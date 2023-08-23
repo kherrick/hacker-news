@@ -7,6 +7,7 @@
 * [2023-08-23, 06:51:04](https://news.ycombinator.com/item?id=37232626) - [Resistor–Transistor Logic (RTL)](https://en.wikipedia.org/wiki/Resistor%E2%80%93transistor_logic)
 * [2023-08-23, 06:23:36](https://news.ycombinator.com/item?id=37232451) - [Permutation Iteration and Random Access](https://blog.demofox.org/2023/08/22/permutation-iteration-and-random-access/)
 * [2023-08-23, 06:19:45](https://news.ycombinator.com/item?id=37232433) - [Show HN: My New Portfolio Update](https://anasdew.com/)
+* [2023-08-23, 06:01:31](https://news.ycombinator.com/item?id=37232340) - [Unit Tests Are Overrated: Rethinking Testing Strategies](https://thenewstack.io/unit-tests-are-overrated-rethinking-testing-strategies/)
 * [2023-08-23, 05:37:01](https://news.ycombinator.com/item?id=37232229) - [Enhance Rust errors with file and line details](https://crates.io/crates/wherr)
 * [2023-08-23, 05:30:01](https://news.ycombinator.com/item?id=37232198) - [If you’re a criminal I will not use any application you write](https://escapebigtech.info/posts/i-wont-use-applications-by-criminals/)
 * [2023-08-23, 05:11:09](https://news.ycombinator.com/item?id=37232103) - [zrepl: A one-stop, integrated solution for ZFS replication](https://zrepl.github.io/)
