@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
+* [2023-08-23, 16:12:27](https://news.ycombinator.com/item?id=37238254) - [City-Wide IMSI-Catcher Detection](https://seaglass.cs.washington.edu/)
 * [2023-08-23, 15:28:45](https://news.ycombinator.com/item?id=37237583) - [AI Real-Time Human Full-Body Photo Generator](https://generated.photos/human-generator/)
 * [2023-08-23, 15:09:35](https://news.ycombinator.com/item?id=37237246) - [A group of Motherboard folks just spun up their own new independent outlet](https://www.404media.co/welcome-to-404-media/)
 * [2023-08-23, 15:09:24](https://news.ycombinator.com/item?id=37237242) - [Maui residents who disobeyed barricades survived fires](https://thehill.com/homenews/state-watch/4166222-maui-residents-who-disobeyed-barricade-survived-fires-ap-reports/)
@@ -50,6 +51,7 @@
 * [2023-08-23, 05:11:09](https://news.ycombinator.com/item?id=37232103) - [zrepl: A one-stop, integrated solution for ZFS replication](https://zrepl.github.io/)
 * [2023-08-23, 05:11:06](https://news.ycombinator.com/item?id=37232102) - [I Met a Book](https://www.nationalreview.com/2023/07/i-met-a-book/)
 * [2023-08-23, 05:05:05](https://news.ycombinator.com/item?id=37232074) - [The Sticky History of Baklava](https://www.smithsonianmag.com/travel/the-sticky-history-of-baklava-180982771/)
+* [2023-08-23, 05:00:58](https://news.ycombinator.com/item?id=37232057) - [How iceberg won the lettuce wars](https://www.atlasobscura.com/articles/iceberg-lettuce-wedge-salad)
 * [2023-08-23, 04:49:25](https://news.ycombinator.com/item?id=37231991) - [McNealy's bittersweet memo bids good-bye to Sun (2010)](https://www.cnet.com/culture/mcnealys-bittersweet-memo-bids-good-bye-to-sun-20000017/)
 * [2023-08-23, 04:48:41](https://news.ycombinator.com/item?id=37231989) - [In Wuhan, doctors knew the truth. They were told to keep quiet](https://www.washingtonpost.com/opinions/2023/08/22/wuhan-doctors-pandemic-china-coverup/)
 * [2023-08-23, 03:51:08](https://news.ycombinator.com/item?id=37231636) - [Memory Order in C++ (2022)](https://www.sobyte.net/post/2022-06/cpp-memory-order/)
