@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-23, 06:19:45](https://news.ycombinator.com/item?id=37232433) - [Show HN: My New Portfolio Update](https://anasdew.com/)
 * [2023-08-23, 01:50:10](https://news.ycombinator.com/item?id=37230937) - [Mastering Emacs](https://www.masteringemacs.org/)
 * [2023-08-23, 01:49:10](https://news.ycombinator.com/item?id=37230932) - [What happened to Wirecutter?](https://www.theatlantic.com/technology/archive/2023/08/wirecutter-recommendations-worse-new-york-times/675075/)
 * [2023-08-23, 01:47:04](https://news.ycombinator.com/item?id=37230913) - [OneDiffusion](https://github.com/bentoml/OneDiffusion)
@@ -25,6 +24,7 @@
 * [2023-08-22, 13:58:58](https://news.ycombinator.com/item?id=37222823) - [Prettymapp – Create maps from OpenStreetMap data in a Streamlit webapp](https://github.com/chrieke/prettymapp)
 * [2023-08-22, 12:15:28](https://news.ycombinator.com/item?id=37221576) - [My Pebble mood tracker app from 2016](https://www.nothingeasyaboutthis.com/moodapp/)
 * [2023-08-22, 10:54:29](https://news.ycombinator.com/item?id=37220953) - [Writing a Package Manager](https://antonz.org/writing-package-manager/)
+* [2023-08-22, 09:59:03](https://news.ycombinator.com/item?id=37220604) - [A complete guide to building a hand-wired keyboard](https://www.crackedthecode.co/a-complete-guide-to-building-a-hand-wired-keyboard/)
 * [2023-08-22, 06:53:05](https://news.ycombinator.com/item?id=37219513) - [Transactions in a Microservice World](https://wso2.com/whitepapers/transactions-in-a-microservice-world/)
 * [2023-08-22, 04:40:40](https://news.ycombinator.com/item?id=37218765) - [Frog Galvanoscope](https://en.wikipedia.org/wiki/Frog_galvanoscope)
 * [2023-08-22, 02:07:56](https://news.ycombinator.com/item?id=37217761) - [Compile-Time Checked Truth Tables](https://blog.ploeh.dk/2023/08/21/compile-time-type-checked-truth-tables/)
