@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-23, 17:56:15",
+      "https://news.ycombinator.com/item?id=37239747"
+    ],
+    [
+      "How to sabotage your salary negotiation efforts before you even start",
+      "https://interviewing.io/blog/sabotage-salary-negotiation-before-even-start"
+    ]
+  ],
+  [
+    [
+      "2023-08-23, 17:50:22",
+      "https://news.ycombinator.com/item?id=37239661"
+    ],
+    [
+      "Ugly Numbers from Microsoft and ChatGPT Reveal AI Demand Is Already Shrinking",
+      "https://www.honest-broker.com/p/ugly-numbers-from-microsoft-and-chatgpt"
+    ]
+  ],
+  [
+    [
       "2023-08-23, 17:36:11",
       "https://news.ycombinator.com/item?id=37239455"
     ],
@@ -27,6 +47,16 @@
     [
       "My Books Were Used to Train AI",
       "https://www.theatlantic.com/books/archive/2023/08/stephen-king-books-ai-writing/675088/"
+    ]
+  ],
+  [
+    [
+      "2023-08-23, 17:07:27",
+      "https://news.ycombinator.com/item?id=37239044"
+    ],
+    [
+      "Embedded Linux UIO and AMD FPGA",
+      "https://www.adiuvoengineering.com/post/microzed-chronicles-uio-part-one-introduction-and-set-up"
     ]
   ],
   [
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2023-08-23, 14:49:31",
-      "https://news.ycombinator.com/item?id=37236916"
-    ],
-    [
-      "A half-hour to learn Rust (2020)",
-      "https://fasterthanli.me/articles/a-half-hour-to-learn-rust"
-    ]
-  ],
-  [
-    [
       "2023-08-23, 14:07:45",
       "https://news.ycombinator.com/item?id=37236137"
     ],
@@ -117,16 +137,6 @@
     [
       "If is Evil when used in location context",
       "https://www.nginx.com/resources/wiki/start/topics/depth/ifisevil/"
-    ]
-  ],
-  [
-    [
-      "2023-08-23, 13:12:05",
-      "https://news.ycombinator.com/item?id=37235333"
-    ],
-    [
-      "Rubbing Shoulders: Class Segregation in Daily Activities [pdf]",
-      "https://maximmassenkoff.com/papers/RubbingShoulders.pdf"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "PSA: Add dir=“auto” to your inputs and textareas",
       "https://mough.xyz/312/psa-add-dir-auto-to-your-inputs-and-textareas"
-    ]
-  ],
-  [
-    [
-      "2023-08-23, 05:37:01",
-      "https://news.ycombinator.com/item?id=37232229"
-    ],
-    [
-      "Enhance Rust errors with file and line details",
-      "https://crates.io/crates/wherr"
     ]
   ],
   [
