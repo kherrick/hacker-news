@@ -17,6 +17,7 @@
 * [2023-08-23, 03:51:08](https://news.ycombinator.com/item?id=37231636) - [Memory Order in C++ (2022)](https://www.sobyte.net/post/2022-06/cpp-memory-order/)
 * [2023-08-23, 03:27:07](https://news.ycombinator.com/item?id=37231516) - [Awk programming language 2nd edition](https://www.awk.dev/)
 * [2023-08-23, 03:22:59](https://news.ycombinator.com/item?id=37231496) - [Programmers should not call themselves engineers (2015)](https://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/)
+* [2023-08-23, 02:56:52](https://news.ycombinator.com/item?id=37231354) - [The World's Oldest Photograph](https://www.artandobject.com/news/what-you-might-not-know-about-worlds-oldest-photograph)
 * [2023-08-23, 02:53:21](https://news.ycombinator.com/item?id=37231342) - [I didn't write any JavaScript, and other shortcuts](https://csvbase.com/blog/4)
 * [2023-08-23, 02:40:55](https://news.ycombinator.com/item?id=37231273) - [Modern Computer Architecture and Organization: Learn x86, ARM, and RISC-V](https://www.packtpub.com/product/modern-computer-architecture-and-organization-second-edition/9781803234519)
 * [2023-08-23, 01:58:32](https://news.ycombinator.com/item?id=37230995) - [Ask HN: Nicknames for Computer Science Books?](https://news.ycombinator.com/item?id=37230995)
