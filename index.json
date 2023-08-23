@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-23, 01:44:26",
+      "https://news.ycombinator.com/item?id=37230898"
+    ],
+    [
+      "AdNauseam: uBlock Origin fork silently clicking ads",
+      "https://github.com/dhowe/AdNauseam"
+    ]
+  ],
+  [
+    [
+      "2023-08-23, 01:00:33",
+      "https://news.ycombinator.com/item?id=37230619"
+    ],
+    [
+      "My SSD suddenly died. I only lost 10 minutes of data, thanks to ZFS",
+      "https://mastodon.social/@chromakode/110936177254839251"
+    ]
+  ],
+  [
+    [
       "2023-08-23, 00:01:44",
       "https://news.ycombinator.com/item?id=37230198"
     ],
@@ -47,16 +67,6 @@
     [
       "PostgreSQL Lock Conflicts",
       "https://pglocks.org/"
-    ]
-  ],
-  [
-    [
-      "2023-08-22, 21:49:08",
-      "https://news.ycombinator.com/item?id=37228975"
-    ],
-    [
-      "LibreOffice 24.2 Will Succeed LibreOffice 7.6",
-      "https://www.phoronix.com/news/LibreOffice-24.2-Up-Next"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Whisper.api: Open-source, self-hosted speech-to-text with fast transcription",
       "https://github.com/innovatorved/whisper.api"
-    ]
-  ],
-  [
-    [
-      "2023-08-22, 16:51:17",
-      "https://news.ycombinator.com/item?id=37225397"
-    ],
-    [
-      "Broken Ownership",
-      "https://blog.alexewerlof.com/p/broken-ownership"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2023-08-22, 12:05:18",
-      "https://news.ycombinator.com/item?id=37221487"
+      "2023-08-22, 10:54:29",
+      "https://news.ycombinator.com/item?id=37220953"
     ],
     [
-      "Close to the Machine: Technophilia and its discontents",
-      "https://manu.zone/books/close-to-the-machine/"
+      "Writing a Package Manager",
+      "https://antonz.org/writing-package-manager/"
     ]
   ],
   [
     [
-      "2023-08-22, 10:09:49",
-      "https://news.ycombinator.com/item?id=37220667"
+      "2023-08-22, 06:53:05",
+      "https://news.ycombinator.com/item?id=37219513"
     ],
     [
-      "A good measurement culture where numbers don’t replace common sense",
-      "https://blog.promaton.com/how-to-avoid-kpi-psychosis-in-your-organization-5ffc83967f2b"
+      "Transactions in a Microservice World",
+      "https://wso2.com/whitepapers/transactions-in-a-microservice-world/"
     ]
   ],
   [
