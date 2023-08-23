@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
+* [2023-08-23, 15:28:45](https://news.ycombinator.com/item?id=37237583) - [AI Real-Time Human Full-Body Photo Generator](https://generated.photos/human-generator/)
 * [2023-08-23, 15:09:35](https://news.ycombinator.com/item?id=37237246) - [A group of Motherboard folks just spun up their own new independent outlet](https://www.404media.co/welcome-to-404-media/)
 * [2023-08-23, 15:09:24](https://news.ycombinator.com/item?id=37237242) - [Maui residents who disobeyed barricades survived fires](https://thehill.com/homenews/state-watch/4166222-maui-residents-who-disobeyed-barricade-survived-fires-ap-reports/)
 * [2023-08-23, 14:49:31](https://news.ycombinator.com/item?id=37236916) - [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
