@@ -25,10 +25,10 @@
 * [2023-08-23, 10:30:23](https://news.ycombinator.com/item?id=37233936) - [Chandrayaan-3 Soft-landing [video]](https://www.isro.gov.in/LIVE_telecast_of_Soft_landing.html)
 * [2023-08-23, 10:26:19](https://news.ycombinator.com/item?id=37233902) - [Add dir=“auto” to your inputs and textareas](https://mough.xyz/312/psa-add-dir-auto-to-your-inputs-and-textareas)
 * [2023-08-23, 02:20:07](https://news.ycombinator.com/item?id=37231148) - [Image constructed using quantum entanglement of photons](https://phys.org/news/2023-08-visualizing-mysterious-quantum-entanglement-photons.amp)
-* [2023-08-22, 22:17:16](https://news.ycombinator.com/item?id=37229293) - [Reading the temperature, humidity, and pressure from a BME280 Sensor with Java](https://webtechie.be/post/2023-07-26-read-temperature-pressure-humidity-bme280-java-pi4j-jbang-raspberrypi/)
 * [2023-08-22, 21:34:48](https://news.ycombinator.com/item?id=37228821) - [MacWhisper: Transcribe audio files on your Mac](https://goodsnooze.gumroad.com/l/macwhisper)
 * [2023-08-22, 21:15:58](https://news.ycombinator.com/item?id=37228627) - [Creating Animated Cartoons with Character (2010) [pdf]](https://joemurraystudio.com/books-by-joe-murray/)
 * [2023-08-22, 16:21:01](https://news.ycombinator.com/item?id=37224936) - [Natural beekeepers are the radical dissenters of apiculture](https://www.newyorker.com/magazine/2023/08/28/is-beekeeping-wrong)
+* [2023-08-22, 15:23:09](https://news.ycombinator.com/item?id=37224042) - [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
 * [2023-08-22, 09:59:03](https://news.ycombinator.com/item?id=37220604) - [A complete guide to building a hand-wired keyboard (2020)](https://www.crackedthecode.co/a-complete-guide-to-building-a-hand-wired-keyboard/)
 
 ## [Archives](archives/index.md)
