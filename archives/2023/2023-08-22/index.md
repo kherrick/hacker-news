@@ -67,6 +67,7 @@
 * [2023-08-22, 11:40:18](https://news.ycombinator.com/item?id=37221287) - [Northvolt raises $1.2B convertible note from BlackRock](https://sifted.eu/articles/northvolt-1-2bn-convertible-blackrock-news)
 * [2023-08-22, 11:31:10](https://news.ycombinator.com/item?id=37221224) - [US must land astronauts on the Moon again](https://www.theregister.com/2023/08/09/nasa_artemis_2_update/)
 * [2023-08-22, 11:18:25](https://news.ycombinator.com/item?id=37221138) - [Simple PowerShell things allowing you to dig a bit deeper than usual](https://github.com/gtworek/PSBits)
+* [2023-08-22, 10:54:29](https://news.ycombinator.com/item?id=37220953) - [Writing a Package Manager](https://antonz.org/writing-package-manager/)
 * [2023-08-22, 10:46:01](https://news.ycombinator.com/item?id=37220885) - [Prompting, realized, and unrealized bias in generative AI](http://marble.onl/posts/code_of_practice_and_bias.html)
 * [2023-08-22, 10:40:51](https://news.ycombinator.com/item?id=37220851) - [New JWST data confirms, worsens the Hubble tension](https://bigthink.com/starts-with-a-bang/jwst-confirms-worsens-hubble-tension/)
 * [2023-08-22, 10:37:51](https://news.ycombinator.com/item?id=37220828) - [Antonmedv/walk: Terminal file manager](https://github.com/antonmedv/walk)
