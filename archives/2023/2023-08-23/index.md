@@ -15,6 +15,7 @@
 * [2023-08-23, 14:01:18](https://news.ycombinator.com/item?id=37236027) - [ChatGPT turned generative AI into an “anything tool”](https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/)
 * [2023-08-23, 13:57:28](https://news.ycombinator.com/item?id=37235957) - [Choosing the Right Rust Web Framework: An Overview](https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison)
 * [2023-08-23, 13:46:35](https://news.ycombinator.com/item?id=37235770) - [Cash payments above €3000 to be outlawed in Netherlands](https://www.rijksoverheid.nl/onderwerpen/geldzaken/vraag-en-antwoord/grote-aankopen-met-contant-geld)
+* [2023-08-23, 13:44:12](https://news.ycombinator.com/item?id=37235738) - [If is Evil when used in location context](https://www.nginx.com/resources/wiki/start/topics/depth/ifisevil/)
 * [2023-08-23, 13:31:58](https://news.ycombinator.com/item?id=37235578) - [AI predicts certain esophageal and stomach cancers three years before diagnosis](https://www.michiganmedicine.org/health-lab/ai-can-predict-certain-forms-esophageal-and-stomach-cancer)
 * [2023-08-23, 13:20:09](https://news.ycombinator.com/item?id=37235441) - [Oldest Known Animation, a 5200 Year-Old Iranian Ceramic Vessel](https://www.vintag.es/2023/08/vase-animation.html)
 * [2023-08-23, 13:20:09](https://news.ycombinator.com/item?id=37235440) - [Frank Smith was locked up for 8 decades. At 98, what would it mean to be free?](https://www.bostonglobe.com/2023/07/05/magazine/frank-smith-was-locked-up-eight-decades-98-what-would-it-mean-be-free/)
