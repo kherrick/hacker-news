@@ -13,6 +13,7 @@
 * [2023-08-22, 19:09:47](https://news.ycombinator.com/item?id=37227229) - [How to Solve It (1945)](https://www.math.utah.edu/~alfeld/math/polya.html)
 * [2023-08-22, 19:02:37](https://news.ycombinator.com/item?id=37227139) - [GPT-3.5 Turbo fine-tuning and API updates](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates)
 * [2023-08-22, 17:56:52](https://news.ycombinator.com/item?id=37226360) - [Asyncio, twisted, tornado, gevent walk into a bar](https://www.bitecode.dev/p/asyncio-twisted-tornado-gevent-walk)
+* [2023-08-22, 17:48:09](https://news.ycombinator.com/item?id=37226221) - [Whisper.api: Open-source, self-hosted speech-to-text with fast transcription](https://github.com/innovatorved/whisper.api)
 * [2023-08-22, 16:02:03](https://news.ycombinator.com/item?id=37224651) - [Structured logging with slog](https://go.dev/blog/slog)
 * [2023-08-22, 15:29:24](https://news.ycombinator.com/item?id=37224148) - [Show HN: FlakeHub – Discover and publish Nix flakes](https://flakehub.com/)
 * [2023-08-22, 15:23:09](https://news.ycombinator.com/item?id=37224042) - [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
@@ -29,7 +30,6 @@
 * [2023-08-22, 02:07:56](https://news.ycombinator.com/item?id=37217761) - [Compile-Time Checked Truth Tables](https://blog.ploeh.dk/2023/08/21/compile-time-type-checked-truth-tables/)
 * [2023-08-22, 02:07:07](https://news.ycombinator.com/item?id=37217757) - [Aeron – Proof of the benefits of open development](https://www.gresearch.com/blog/article/aeron-proof-of-the-benefits-of-open-development/)
 * [2023-08-21, 21:06:56](https://news.ycombinator.com/item?id=37215374) - [My thoughts on the 2023 FTC robotics season](https://ritvikg.dev/posts/20230418-thoughts-on-ftc-season)
-* [2023-08-21, 20:26:31](https://news.ycombinator.com/item?id=37214898) - [Kullback–Leibler divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)
 
 ## [Archives](archives/index.md)
 
