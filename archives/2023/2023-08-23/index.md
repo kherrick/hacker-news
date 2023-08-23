@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
+* [2023-08-23, 12:19:47](https://news.ycombinator.com/item?id=37234728) - [Musk’s Erratic Behavior May Be Caused by Escalating Drug Use, Associates Say](https://www.thedailybeast.com/elon-musks-odd-behavior-may-be-due-to-increasing-drug-use-associates-tell-ronan-farrow)
 * [2023-08-23, 11:46:56](https://news.ycombinator.com/item?id=37234415) - [Ridiculous captcha at GitHub to reset your password](https://github.com/orgs/community/discussions/64625)
+* [2023-08-23, 11:45:25](https://news.ycombinator.com/item?id=37234404) - [Coffee grounds make concrete 30% stronger](https://www.rmit.edu.au/news/all-news/2023/aug/coffee-concrete)
 * [2023-08-23, 11:31:07](https://news.ycombinator.com/item?id=37234310) - [Server-Side Rendering Is a Thiel Truth (2020)](https://www.timr.co/server-side-rendering-is-a-thiel-truth/)
+* [2023-08-23, 11:13:05](https://news.ycombinator.com/item?id=37234169) - [Collection of stand-alone Python machine learning recipes (2021)](https://github.com/rougier/ML-Recipes)
+* [2023-08-23, 11:04:27](https://news.ycombinator.com/item?id=37234121) - [Show HN: Pip install inference, open source computer vision deployment](https://github.com/roboflow/inference)
 * [2023-08-23, 11:02:57](https://news.ycombinator.com/item?id=37234111) - [Ask HN: Where to find open source house plans?](https://news.ycombinator.com/item?id=37234111)
 * [2023-08-23, 10:37:38](https://news.ycombinator.com/item?id=37233977) - [Why the vagus nerve is so exciting to scientists](https://www.theguardian.com/society/2023/aug/23/the-key-to-depression-obesity-alcoholism-and-more-why-the-vagus-nerve-is-so-exciting-to-scientists)
 * [2023-08-23, 10:30:23](https://news.ycombinator.com/item?id=37233936) - [Live telecast of Chandrayaan-3 Soft-landing](https://www.isro.gov.in/LIVE_telecast_of_Soft_landing.html)
@@ -27,6 +31,7 @@
 * [2023-08-23, 02:53:21](https://news.ycombinator.com/item?id=37231342) - [I didn't write any JavaScript, and other shortcuts](https://csvbase.com/blog/4)
 * [2023-08-23, 02:40:55](https://news.ycombinator.com/item?id=37231273) - [Modern Computer Architecture and Organization: Learn x86, ARM, and RISC-V](https://www.packtpub.com/product/modern-computer-architecture-and-organization-second-edition/9781803234519)
 * [2023-08-23, 02:23:48](https://news.ycombinator.com/item?id=37231179) - [A fungeoid is a typically multi-dimensional language similar to Befunge](https://esolangs.org/wiki/Fungeoid)
+* [2023-08-23, 02:20:07](https://news.ycombinator.com/item?id=37231148) - [Visualizing the mysterious: Quantum entanglement photons captured in real-time](https://phys.org/news/2023-08-visualizing-mysterious-quantum-entanglement-photons.amp)
 * [2023-08-23, 01:58:32](https://news.ycombinator.com/item?id=37230995) - [Ask HN: Nicknames for Computer Science Books?](https://news.ycombinator.com/item?id=37230995)
 * [2023-08-23, 01:50:10](https://news.ycombinator.com/item?id=37230937) - [Mastering Emacs](https://www.masteringemacs.org/)
 * [2023-08-23, 01:49:10](https://news.ycombinator.com/item?id=37230932) - [What Happened to Wirecutter?](https://www.theatlantic.com/technology/archive/2023/08/wirecutter-recommendations-worse-new-york-times/675075/)
