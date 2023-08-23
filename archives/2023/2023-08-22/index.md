@@ -16,6 +16,7 @@
 * [2023-08-22, 21:45:38](https://news.ycombinator.com/item?id=37228947) - [The Song, Painted (2022)](https://news.cgtn.com/event/2022/The-Song-Painted/index.html)
 * [2023-08-22, 21:34:51](https://news.ycombinator.com/item?id=37228822) - [An Old Conjecture Falls, Making Spheres a Lot More Complicated](https://www.quantamagazine.org/an-old-conjecture-falls-making-spheres-a-lot-more-complicated-20230822/)
 * [2023-08-22, 21:34:48](https://news.ycombinator.com/item?id=37228821) - [MacWhisper: Transcribe audio files on your Mac](https://goodsnooze.gumroad.com/l/macwhisper)
+* [2023-08-22, 21:15:58](https://news.ycombinator.com/item?id=37228627) - [Joe Murray – Creating Animated Cartoons with Character (2010) [pdf]](https://joemurraystudio.com/books-by-joe-murray/)
 * [2023-08-22, 20:56:34](https://news.ycombinator.com/item?id=37228412) - [Phone.wtf](https://phone.wtf/)
 * [2023-08-22, 20:48:05](https://news.ycombinator.com/item?id=37228304) - [How to Write Software with Zero bugs – 25 years after qmail 1.0 – D. Bernstein [pdf]](https://cr.yp.to/qmail/qmailsec-20071101.pdf)
 * [2023-08-22, 20:35:04](https://news.ycombinator.com/item?id=37228166) - [Your Brain On Emoji](https://nautil.us/your-🧠-on-emoji-365823/)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
+* [2023-08-23, 17:36:11](https://news.ycombinator.com/item?id=37239455) - [AI Nutrition Facts](https://nutrition-facts.ai)
+* [2023-08-23, 17:25:27](https://news.ycombinator.com/item?id=37239272) - [Clearspace-1 space debris cleanup target struck by space debris – Space](https://www.space.com/space-debris-cleanup-mission-target-hit)
 * [2023-08-23, 17:22:32](https://news.ycombinator.com/item?id=37239247) - [My Books Were Used to Train AI](https://www.theatlantic.com/books/archive/2023/08/stephen-king-books-ai-writing/675088/)
 * [2023-08-23, 17:02:18](https://news.ycombinator.com/item?id=37238976) - [Aptible (YC S14) Is Hiring Security Compliance Manager and Product-Led Sales Lead](https://www.aptible.com/culture-hub/careers)
 * [2023-08-23, 16:12:27](https://news.ycombinator.com/item?id=37238254) - [City-Wide IMSI-Catcher Detection](https://seaglass.cs.washington.edu/)
