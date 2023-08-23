@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
+* [2023-08-23, 06:19:45](https://news.ycombinator.com/item?id=37232433) - [Show HN: My New Portfolio Update](https://anasdew.com/)
+* [2023-08-23, 05:30:01](https://news.ycombinator.com/item?id=37232198) - [If you’re a criminal I will not use any application you write](https://escapebigtech.info/posts/i-wont-use-applications-by-criminals/)
 * [2023-08-23, 04:48:41](https://news.ycombinator.com/item?id=37231989) - [In Wuhan, doctors knew the truth. They were told to keep quiet](https://www.washingtonpost.com/opinions/2023/08/22/wuhan-doctors-pandemic-china-coverup/)
 * [2023-08-23, 03:27:07](https://news.ycombinator.com/item?id=37231516) - [Awk programming language 2nd edition](https://www.awk.dev/)
 * [2023-08-23, 03:22:59](https://news.ycombinator.com/item?id=37231496) - [Programmers should not call themselves engineers (2015)](https://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/)
