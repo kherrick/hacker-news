@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-23, 22:24:25](https://news.ycombinator.com/item?id=37242651) - [BioWare is laying off 50 employees](https://blog.bioware.com/2023/08/23/an-update-on-the-state-of-bioware/)
 * [2023-08-23, 22:13:58](https://news.ycombinator.com/item?id=37242545) - [Zoom CEO says employees can't be as innovative or get to know each other on Zoom](https://www.businessinsider.com/zoom-ceo-employees-return-to-office-2023-8)
 * [2023-08-23, 21:24:39](https://news.ycombinator.com/item?id=37242043) - [Tornado Cash devs charged with laundering more than $1B](https://www.theverge.com/2023/8/23/23843161/tornado-cash-indictment-conspiracy-north-korea-money-laundering)
 * [2023-08-23, 20:35:33](https://news.ycombinator.com/item?id=37241601) - [Life on board a British nuclear submarine (2012)](https://www.theguardian.com/uk/2012/aug/21/life-on-board-nuclear-submarine)
@@ -30,6 +29,7 @@
 * [2023-08-22, 18:39:30](https://news.ycombinator.com/item?id=37226879) - [Against Automaticity](https://carcinisation.com/2023/08/22/against-automaticity/)
 * [2023-08-22, 16:21:01](https://news.ycombinator.com/item?id=37224936) - [Natural beekeepers are the radical dissenters of apiculture](https://www.newyorker.com/magazine/2023/08/28/is-beekeeping-wrong)
 * [2023-08-21, 22:55:25](https://news.ycombinator.com/item?id=37216455) - [The History of Windows 2.0](https://www.abortretry.fail/p/the-history-of-windows-20)
+* [2023-08-21, 22:50:39](https://news.ycombinator.com/item?id=37216401) - [The Pleasure and Communion of Jane Austen’s Country Dance](https://lithub.com/the-pleasure-and-communion-of-austens-country-dance/)
 
 ## [Archives](archives/index.md)
 
