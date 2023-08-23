@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-08-23, 14:43:56",
-      "https://news.ycombinator.com/item?id=37236803"
-    ],
-    [
-      "Thomas Sowell's greatest insight – Konstantin Kisin [video]",
-      "https://www.youtube.com/watch?v=DvSHWaUDa7k"
-    ]
-  ],
-  [
-    [
       "2023-08-23, 14:40:21",
       "https://news.ycombinator.com/item?id=37236746"
     ],
@@ -97,6 +87,26 @@
     [
       "Choosing the Right Rust Web Framework: An Overview",
       "https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison"
+    ]
+  ],
+  [
+    [
+      "2023-08-23, 13:44:12",
+      "https://news.ycombinator.com/item?id=37235738"
+    ],
+    [
+      "If is Evil when used in location context",
+      "https://www.nginx.com/resources/wiki/start/topics/depth/ifisevil/"
+    ]
+  ],
+  [
+    [
+      "2023-08-23, 13:31:58",
+      "https://news.ycombinator.com/item?id=37235578"
+    ],
+    [
+      "AI predicts certain esophageal and stomach cancers three years before diagnosis",
+      "https://www.michiganmedicine.org/health-lab/ai-can-predict-certain-forms-esophageal-and-stomach-cancer"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The first conformant M1 GPU driver",
       "https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-22, 10:54:29",
-      "https://news.ycombinator.com/item?id=37220953"
-    ],
-    [
-      "Writing a Package Manager",
-      "https://antonz.org/writing-package-manager/"
     ]
   ]
 ]
