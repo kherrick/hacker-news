@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
+* [2023-08-23, 13:46:35](https://news.ycombinator.com/item?id=37235770) - [Cash payments above €3000 to be outlawed in Netherlands](https://www.rijksoverheid.nl/onderwerpen/geldzaken/vraag-en-antwoord/grote-aankopen-met-contant-geld)
 * [2023-08-23, 13:31:58](https://news.ycombinator.com/item?id=37235578) - [AI predicts certain esophageal and stomach cancers three years before diagnosis](https://www.michiganmedicine.org/health-lab/ai-can-predict-certain-forms-esophageal-and-stomach-cancer)
 * [2023-08-23, 13:20:09](https://news.ycombinator.com/item?id=37235440) - [Frank Smith was locked up for 8 decades. At 98, what would it mean to be free?](https://www.bostonglobe.com/2023/07/05/magazine/frank-smith-was-locked-up-eight-decades-98-what-would-it-mean-be-free/)
+* [2023-08-23, 13:18:53](https://news.ycombinator.com/item?id=37235421) - [As a self-taught developer, what are your self-directed learning tips?](https://news.ycombinator.com/item?id=37235421)
 * [2023-08-23, 13:14:56](https://news.ycombinator.com/item?id=37235371) - [Asking for help: We cannot sell our SaaS](https://app.fyyn.io/en/welcome)
 * [2023-08-23, 12:49:52](https://news.ycombinator.com/item?id=37235019) - [India’s Chandrayaan-3 probe successfully lands on the lunar South Pole](https://www.theverge.com/2023/8/23/23842669/chandrayaan3-india-moon-mission-successful-lunar-south-pole)
 * [2023-08-23, 12:36:12](https://news.ycombinator.com/item?id=37234914) - [Chandrayaan-3 Lands on the Moon](https://twitter.com/isro/status/1694327198394863911)
@@ -19,6 +21,7 @@
 * [2023-08-23, 11:02:57](https://news.ycombinator.com/item?id=37234111) - [Ask HN: Where to find open source house plans?](https://news.ycombinator.com/item?id=37234111)
 * [2023-08-23, 10:37:38](https://news.ycombinator.com/item?id=37233977) - [Why the vagus nerve is so exciting to scientists](https://www.theguardian.com/society/2023/aug/23/the-key-to-depression-obesity-alcoholism-and-more-why-the-vagus-nerve-is-so-exciting-to-scientists)
 * [2023-08-23, 10:30:23](https://news.ycombinator.com/item?id=37233936) - [Live telecast of Chandrayaan-3 Soft-landing](https://www.isro.gov.in/LIVE_telecast_of_Soft_landing.html)
+* [2023-08-23, 10:26:19](https://news.ycombinator.com/item?id=37233902) - [PSA: Add dir=“auto” to your inputs and textareas](https://mough.xyz/312/psa-add-dir-auto-to-your-inputs-and-textareas)
 * [2023-08-23, 09:46:05](https://news.ycombinator.com/item?id=37233706) - [The Terrifying Possibility of Accidental Nuclear War](https://scienceswitch.com/2023/08/23/the-terrifying-possibility-of-accidental-nuclear-war/)
 * [2023-08-23, 08:33:28](https://news.ycombinator.com/item?id=37233295) - [macOS 13.5 no longer allows setting system wide ulimits](https://developer.apple.com/forums/thread/735798)
 * [2023-08-23, 06:51:04](https://news.ycombinator.com/item?id=37232626) - [Resistor–Transistor Logic (RTL)](https://en.wikipedia.org/wiki/Resistor%E2%80%93transistor_logic)
