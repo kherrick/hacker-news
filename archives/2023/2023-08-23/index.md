@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
 * [2023-08-23, 13:31:58](https://news.ycombinator.com/item?id=37235578) - [AI predicts certain esophageal and stomach cancers three years before diagnosis](https://www.michiganmedicine.org/health-lab/ai-can-predict-certain-forms-esophageal-and-stomach-cancer)
+* [2023-08-23, 13:20:09](https://news.ycombinator.com/item?id=37235440) - [Frank Smith was locked up for 8 decades. At 98, what would it mean to be free?](https://www.bostonglobe.com/2023/07/05/magazine/frank-smith-was-locked-up-eight-decades-98-what-would-it-mean-be-free/)
 * [2023-08-23, 13:14:56](https://news.ycombinator.com/item?id=37235371) - [Asking for help: We cannot sell our SaaS](https://app.fyyn.io/en/welcome)
 * [2023-08-23, 12:49:52](https://news.ycombinator.com/item?id=37235019) - [India’s Chandrayaan-3 probe successfully lands on the lunar South Pole](https://www.theverge.com/2023/8/23/23842669/chandrayaan3-india-moon-mission-successful-lunar-south-pole)
 * [2023-08-23, 12:36:12](https://news.ycombinator.com/item?id=37234914) - [Chandrayaan-3 Lands on the Moon](https://twitter.com/isro/status/1694327198394863911)
@@ -21,6 +22,7 @@
 * [2023-08-23, 09:46:05](https://news.ycombinator.com/item?id=37233706) - [The Terrifying Possibility of Accidental Nuclear War](https://scienceswitch.com/2023/08/23/the-terrifying-possibility-of-accidental-nuclear-war/)
 * [2023-08-23, 08:33:28](https://news.ycombinator.com/item?id=37233295) - [macOS 13.5 no longer allows setting system wide ulimits](https://developer.apple.com/forums/thread/735798)
 * [2023-08-23, 06:51:04](https://news.ycombinator.com/item?id=37232626) - [Resistor–Transistor Logic (RTL)](https://en.wikipedia.org/wiki/Resistor%E2%80%93transistor_logic)
+* [2023-08-23, 06:41:07](https://news.ycombinator.com/item?id=37232546) - [What happens when you see the face of someone you love](https://www.technologyreview.com/2021/08/25/1031451/brain-scientifi)
 * [2023-08-23, 06:23:36](https://news.ycombinator.com/item?id=37232451) - [Permutation Iteration and Random Access](https://blog.demofox.org/2023/08/22/permutation-iteration-and-random-access/)
 * [2023-08-23, 06:19:45](https://news.ycombinator.com/item?id=37232433) - [Show HN: My New Portfolio Update](https://anasdew.com/)
 * [2023-08-23, 06:01:31](https://news.ycombinator.com/item?id=37232340) - [Unit Tests Are Overrated: Rethinking Testing Strategies](https://thenewstack.io/unit-tests-are-overrated-rethinking-testing-strategies/)
