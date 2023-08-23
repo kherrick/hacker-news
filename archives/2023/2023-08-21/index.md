@@ -16,6 +16,7 @@
 * [2023-08-21, 21:23:51](https://news.ycombinator.com/item?id=37215557) - [uBlock Origin Lite now available on Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin-lite/)
 * [2023-08-21, 21:20:55](https://news.ycombinator.com/item?id=37215526) - [Screen Time at Age 1 Year and Communication, Problem-Solving Developmental Delay](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2808593)
 * [2023-08-21, 21:09:35](https://news.ycombinator.com/item?id=37215400) - [Educational Codebases](https://buttondown.email/hillelwayne/archive/educational-codebases/)
+* [2023-08-21, 21:06:56](https://news.ycombinator.com/item?id=37215374) - [My thoughts on the 2023 FTC robotics season](https://ritvikg.dev/posts/20230418-thoughts-on-ftc-season)
 * [2023-08-21, 20:57:23](https://news.ycombinator.com/item?id=37215246) - [SolarPi experiment 2: Finally something that works](http://blog.rfox.eu/en/Hardware/SolarPi_experiment_2_Finally_something_that_works.html)
 * [2023-08-21, 20:26:31](https://news.ycombinator.com/item?id=37214898) - [Kullback–Leibler Divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)
 * [2023-08-21, 20:12:40](https://news.ycombinator.com/item?id=37214733) - [Google Pixel Binary Transparency: verifiable security for Pixel devices](https://security.googleblog.com/2023/08/pixel-binary-transparency-verifiable.html)
