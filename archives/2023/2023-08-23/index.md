@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
+* [2023-08-23, 18:27:15](https://news.ycombinator.com/item?id=37240187) - [An excruciatingly detailed guide to SSH (but only the things I find useful)](https://grahamhelton.com/blog/ssh-cheatsheet/)
 * [2023-08-23, 18:25:43](https://news.ycombinator.com/item?id=37240166) - [Reclaiming Control: The Internet Archive Empowers People. Gatekeepers Keep Suing](https://www.techdirt.com/2023/08/23/reclaiming-control-the-internet-archive-empowers-people-so-gatekeepers-keep-suing/)
+* [2023-08-23, 18:12:25](https://news.ycombinator.com/item?id=37239979) - [HashiCorp switching to BSL shows a need for open charter companies](https://opencoreventures.com/blog/2023-08-23-hashicorp-switching-bsl-shows-need-for-open-charter-companies/)
 * [2023-08-23, 17:56:15](https://news.ycombinator.com/item?id=37239747) - [How to sabotage your salary negotiation efforts before you even start](https://interviewing.io/blog/sabotage-salary-negotiation-before-even-start)
 * [2023-08-23, 17:50:22](https://news.ycombinator.com/item?id=37239661) - [Ugly Numbers from Microsoft and ChatGPT Reveal AI Demand Is Already Shrinking](https://www.honest-broker.com/p/ugly-numbers-from-microsoft-and-chatgpt)
 * [2023-08-23, 17:36:11](https://news.ycombinator.com/item?id=37239455) - [AI Nutrition Facts](https://nutrition-facts.ai)
