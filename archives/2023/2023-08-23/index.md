@@ -5,10 +5,12 @@
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
 * [2023-08-23, 04:48:41](https://news.ycombinator.com/item?id=37231989) - [In Wuhan, doctors knew the truth. They were told to keep quiet](https://www.washingtonpost.com/opinions/2023/08/22/wuhan-doctors-pandemic-china-coverup/)
+* [2023-08-23, 03:27:07](https://news.ycombinator.com/item?id=37231516) - [Awk programming language 2nd edition](https://www.awk.dev/)
 * [2023-08-23, 03:22:59](https://news.ycombinator.com/item?id=37231496) - [Programmers should not call themselves engineers (2015)](https://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/)
 * [2023-08-23, 01:58:32](https://news.ycombinator.com/item?id=37230995) - [Ask HN: Nicknames for Computer Science Books?](https://news.ycombinator.com/item?id=37230995)
 * [2023-08-23, 01:50:10](https://news.ycombinator.com/item?id=37230937) - [Mastering Emacs](https://www.masteringemacs.org/)
 * [2023-08-23, 01:49:10](https://news.ycombinator.com/item?id=37230932) - [What Happened to Wirecutter?](https://www.theatlantic.com/technology/archive/2023/08/wirecutter-recommendations-worse-new-york-times/675075/)
+* [2023-08-23, 01:47:04](https://news.ycombinator.com/item?id=37230913) - [OneDiffusion](https://github.com/bentoml/OneDiffusion)
 * [2023-08-23, 01:44:26](https://news.ycombinator.com/item?id=37230898) - [AdNauseam: uBlock Origin fork silently clicking ads](https://github.com/dhowe/AdNauseam)
 * [2023-08-23, 01:37:01](https://news.ycombinator.com/item?id=37230843) - [Eye scans detect signs of Parkinson’s disease up to seven years before diagnosis](https://www.moorfields.nhs.uk/news/eye-scans-detect-signs-parkinson-s-disease-seven-years-diagnosis)
 * [2023-08-23, 01:00:33](https://news.ycombinator.com/item?id=37230619) - [My SSD suddenly died. I only lost 10 minutes of data, thanks to ZFS](https://mastodon.social/@chromakode/110936177254839251)
