@@ -11,6 +11,7 @@
 * [2023-08-23, 14:46:42](https://news.ycombinator.com/item?id=37236860) - [Odd and Unsafe Baby Car Seats from the Past](https://rarehistoricalphotos.com/unsafe-vintage-baby-car-seat/)
 * [2023-08-23, 14:43:56](https://news.ycombinator.com/item?id=37236803) - [Thomas Sowell's greatest insight – Konstantin Kisin [video]](https://www.youtube.com/watch?v=DvSHWaUDa7k)
 * [2023-08-23, 14:40:21](https://news.ycombinator.com/item?id=37236746) - [Wappalyzer no longer open source?](https://news.ycombinator.com/item?id=37236746)
+* [2023-08-23, 14:07:45](https://news.ycombinator.com/item?id=37236137) - [Apple’s treatment of small games developer makes a textbook antitrust case](https://9to5mac.com/2023/08/23/textbook-antitrust-case/)
 * [2023-08-23, 14:05:16](https://news.ycombinator.com/item?id=37236100) - [WinRAR zero-day exploited since April to hack trading accounts](https://www.bleepingcomputer.com/news/security/winrar-zero-day-exploited-since-april-to-hack-trading-accounts/)
 * [2023-08-23, 14:05:14](https://news.ycombinator.com/item?id=37236099) - [My favorite prime number generator](https://eli.thegreenplace.net/2023/my-favorite-prime-number-generator/)
 * [2023-08-23, 14:01:18](https://news.ycombinator.com/item?id=37236027) - [ChatGPT turned generative AI into an “anything tool”](https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/)
