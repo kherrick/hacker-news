@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
+* [2023-08-23, 14:49:31](https://news.ycombinator.com/item?id=37236916) - [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+* [2023-08-23, 14:46:42](https://news.ycombinator.com/item?id=37236860) - [Odd and Unsafe Baby Car Seats from the Past](https://rarehistoricalphotos.com/unsafe-vintage-baby-car-seat/)
+* [2023-08-23, 14:43:56](https://news.ycombinator.com/item?id=37236803) - [Thomas Sowell's greatest insight – Konstantin Kisin [video]](https://www.youtube.com/watch?v=DvSHWaUDa7k)
+* [2023-08-23, 14:40:21](https://news.ycombinator.com/item?id=37236746) - [Wappalyzer no longer open source?](https://news.ycombinator.com/item?id=37236746)
 * [2023-08-23, 14:05:16](https://news.ycombinator.com/item?id=37236100) - [WinRAR zero-day exploited since April to hack trading accounts](https://www.bleepingcomputer.com/news/security/winrar-zero-day-exploited-since-april-to-hack-trading-accounts/)
 * [2023-08-23, 14:05:14](https://news.ycombinator.com/item?id=37236099) - [My favorite prime number generator](https://eli.thegreenplace.net/2023/my-favorite-prime-number-generator/)
 * [2023-08-23, 13:57:28](https://news.ycombinator.com/item?id=37235957) - [Choosing the Right Rust Web Framework: An Overview](https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison)
@@ -16,6 +20,7 @@
 * [2023-08-23, 13:12:05](https://news.ycombinator.com/item?id=37235333) - [Rubbing Shoulders: Class Segregation in Daily Activities [pdf]](https://maximmassenkoff.com/papers/RubbingShoulders.pdf)
 * [2023-08-23, 12:49:52](https://news.ycombinator.com/item?id=37235019) - [India’s Chandrayaan-3 probe successfully lands on the lunar South Pole](https://www.theverge.com/2023/8/23/23842669/chandrayaan3-india-moon-mission-successful-lunar-south-pole)
 * [2023-08-23, 12:36:12](https://news.ycombinator.com/item?id=37234914) - [Chandrayaan-3 Lands on the Moon](https://twitter.com/isro/status/1694327198394863911)
+* [2023-08-23, 12:34:37](https://news.ycombinator.com/item?id=37234887) - [Show HN: Fast vector similarity using Rust and Python](https://github.com/Dicklesworthstone/fast_vector_similarity)
 * [2023-08-23, 12:19:47](https://news.ycombinator.com/item?id=37234728) - [Musk’s Erratic Behavior May Be Caused by Escalating Drug Use, Associates Say](https://www.thedailybeast.com/elon-musks-odd-behavior-may-be-due-to-increasing-drug-use-associates-tell-ronan-farrow)
 * [2023-08-23, 11:46:56](https://news.ycombinator.com/item?id=37234415) - [Ridiculous captcha at GitHub to reset your password](https://github.com/orgs/community/discussions/64625)
 * [2023-08-23, 11:45:25](https://news.ycombinator.com/item?id=37234404) - [Coffee grounds make concrete 30% stronger](https://www.rmit.edu.au/news/all-news/2023/aug/coffee-concrete)
