@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
+* [2023-08-23, 08:33:28](https://news.ycombinator.com/item?id=37233295) - [macOS 13.5 no longer allows setting system wide ulimits](https://developer.apple.com/forums/thread/735798)
 * [2023-08-23, 06:51:04](https://news.ycombinator.com/item?id=37232626) - [Resistor–Transistor Logic (RTL)](https://en.wikipedia.org/wiki/Resistor%E2%80%93transistor_logic)
 * [2023-08-23, 06:23:36](https://news.ycombinator.com/item?id=37232451) - [Permutation Iteration and Random Access](https://blog.demofox.org/2023/08/22/permutation-iteration-and-random-access/)
 * [2023-08-23, 06:19:45](https://news.ycombinator.com/item?id=37232433) - [Show HN: My New Portfolio Update](https://anasdew.com/)

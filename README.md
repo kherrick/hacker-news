@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-23, 08:33:28](https://news.ycombinator.com/item?id=37233295) - [macOS 13.5 no longer allows setting system wide ulimits](https://developer.apple.com/forums/thread/735798)
 * [2023-08-23, 06:51:04](https://news.ycombinator.com/item?id=37232626) - [Resistor–Transistor Logic (RTL)](https://en.wikipedia.org/wiki/Resistor%E2%80%93transistor_logic)
 * [2023-08-23, 06:23:36](https://news.ycombinator.com/item?id=37232451) - [Permutation iteration and random access](https://blog.demofox.org/2023/08/22/permutation-iteration-and-random-access/)
 * [2023-08-23, 06:01:31](https://news.ycombinator.com/item?id=37232340) - [Unit Tests Are Overrated: Rethinking Testing Strategies](https://thenewstack.io/unit-tests-are-overrated-rethinking-testing-strategies/)
@@ -21,7 +22,6 @@
 * [2023-08-22, 21:45:38](https://news.ycombinator.com/item?id=37228947) - [The Song, Painted (2022)](https://news.cgtn.com/event/2022/The-Song-Painted/index.html)
 * [2023-08-22, 21:34:51](https://news.ycombinator.com/item?id=37228822) - [An Old Conjecture Falls, Making Spheres a Lot More Complicated](https://www.quantamagazine.org/an-old-conjecture-falls-making-spheres-a-lot-more-complicated-20230822/)
 * [2023-08-22, 20:35:04](https://news.ycombinator.com/item?id=37228166) - [Your brain on emoji](https://nautil.us/your-🧠-on-emoji-365823/)
-* [2023-08-22, 19:09:47](https://news.ycombinator.com/item?id=37227229) - [How to Solve It (1945)](https://www.math.utah.edu/~alfeld/math/polya.html)
 * [2023-08-22, 15:23:09](https://news.ycombinator.com/item?id=37224042) - [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
 * [2023-08-22, 15:20:04](https://news.ycombinator.com/item?id=37223995) - [Hogfish ‘See’ with Their Skin, Even When They’re Dead](https://www.nytimes.com/2023/08/22/science/hogfish-skin-camouflage-dead.html)
 * [2023-08-22, 12:15:28](https://news.ycombinator.com/item?id=37221576) - [My Pebble mood tracker app from 2016](https://www.nothingeasyaboutthis.com/moodapp/)
