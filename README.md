@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-23, 01:49:10](https://news.ycombinator.com/item?id=37230932) - [What Happened to Wirecutter?](https://www.theatlantic.com/technology/archive/2023/08/wirecutter-recommendations-worse-new-york-times/675075/)
 * [2023-08-23, 01:44:26](https://news.ycombinator.com/item?id=37230898) - [AdNauseam: uBlock Origin fork silently clicking ads on behalf of users](https://github.com/dhowe/AdNauseam)
 * [2023-08-23, 01:37:01](https://news.ycombinator.com/item?id=37230843) - [Eye scans detect signs of Parkinson’s disease up to seven years before diagnosis](https://www.moorfields.nhs.uk/news/eye-scans-detect-signs-parkinson-s-disease-seven-years-diagnosis)
 * [2023-08-23, 01:00:33](https://news.ycombinator.com/item?id=37230619) - [My SSD suddenly died. I only lost 10 minutes of data, thanks to ZFS](https://mastodon.social/@chromakode/110936177254839251)
@@ -13,7 +14,6 @@
 * [2023-08-22, 19:09:47](https://news.ycombinator.com/item?id=37227229) - [How to Solve It (1945)](https://www.math.utah.edu/~alfeld/math/polya.html)
 * [2023-08-22, 19:02:37](https://news.ycombinator.com/item?id=37227139) - [GPT-3.5 Turbo fine-tuning and API updates](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates)
 * [2023-08-22, 17:56:52](https://news.ycombinator.com/item?id=37226360) - [Asyncio, twisted, tornado, gevent walk into a bar](https://www.bitecode.dev/p/asyncio-twisted-tornado-gevent-walk)
-* [2023-08-22, 17:48:09](https://news.ycombinator.com/item?id=37226221) - [Whisper.api: Open-source, self-hosted speech-to-text with fast transcription](https://github.com/innovatorved/whisper.api)
 * [2023-08-22, 16:02:03](https://news.ycombinator.com/item?id=37224651) - [Structured logging with slog](https://go.dev/blog/slog)
 * [2023-08-22, 15:29:24](https://news.ycombinator.com/item?id=37224148) - [Show HN: FlakeHub – Discover and publish Nix flakes](https://flakehub.com/)
 * [2023-08-22, 15:23:09](https://news.ycombinator.com/item?id=37224042) - [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
