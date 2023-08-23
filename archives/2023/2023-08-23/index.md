@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
+* [2023-08-23, 15:09:35](https://news.ycombinator.com/item?id=37237246) - [A group of Motherboard folks just spun up their own new independent outlet](https://www.404media.co/welcome-to-404-media/)
+* [2023-08-23, 15:09:24](https://news.ycombinator.com/item?id=37237242) - [Maui residents who disobeyed barricades survived fires](https://thehill.com/homenews/state-watch/4166222-maui-residents-who-disobeyed-barricade-survived-fires-ap-reports/)
 * [2023-08-23, 14:49:31](https://news.ycombinator.com/item?id=37236916) - [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 * [2023-08-23, 14:46:42](https://news.ycombinator.com/item?id=37236860) - [Odd and Unsafe Baby Car Seats from the Past](https://rarehistoricalphotos.com/unsafe-vintage-baby-car-seat/)
 * [2023-08-23, 14:43:56](https://news.ycombinator.com/item?id=37236803) - [Thomas Sowell's greatest insight – Konstantin Kisin [video]](https://www.youtube.com/watch?v=DvSHWaUDa7k)
 * [2023-08-23, 14:40:21](https://news.ycombinator.com/item?id=37236746) - [Wappalyzer no longer open source?](https://news.ycombinator.com/item?id=37236746)
 * [2023-08-23, 14:05:16](https://news.ycombinator.com/item?id=37236100) - [WinRAR zero-day exploited since April to hack trading accounts](https://www.bleepingcomputer.com/news/security/winrar-zero-day-exploited-since-april-to-hack-trading-accounts/)
 * [2023-08-23, 14:05:14](https://news.ycombinator.com/item?id=37236099) - [My favorite prime number generator](https://eli.thegreenplace.net/2023/my-favorite-prime-number-generator/)
+* [2023-08-23, 14:01:18](https://news.ycombinator.com/item?id=37236027) - [ChatGPT turned generative AI into an “anything tool”](https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/)
 * [2023-08-23, 13:57:28](https://news.ycombinator.com/item?id=37235957) - [Choosing the Right Rust Web Framework: An Overview](https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison)
 * [2023-08-23, 13:46:35](https://news.ycombinator.com/item?id=37235770) - [Cash payments above €3000 to be outlawed in Netherlands](https://www.rijksoverheid.nl/onderwerpen/geldzaken/vraag-en-antwoord/grote-aankopen-met-contant-geld)
 * [2023-08-23, 13:31:58](https://news.ycombinator.com/item?id=37235578) - [AI predicts certain esophageal and stomach cancers three years before diagnosis](https://www.michiganmedicine.org/health-lab/ai-can-predict-certain-forms-esophageal-and-stomach-cancer)
