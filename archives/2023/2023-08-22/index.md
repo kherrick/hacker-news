@@ -77,6 +77,7 @@
 * [2023-08-22, 10:06:30](https://news.ycombinator.com/item?id=37220641) - [The Uncanny Sight of Waves Breaking on a Star](https://nautil.us/the-uncanny-sight-of-waves-breaking-on-a-star-363508/)
 * [2023-08-22, 08:49:42](https://news.ycombinator.com/item?id=37220164) - [Brazilian hacker claims Bolsonaro asked him to hack into the 2022 voting system](https://apnews.com/article/brazil-bolsonaro-hacking-inquiry-cc8f890588a5115ff77370d236b3e149)
 * [2023-08-22, 08:28:33](https://news.ycombinator.com/item?id=37220023) - [Darling Progress Report Q2 2023](https://blog.darlinghq.org/2023/08/21/progress-report-q2-2023/)
+* [2023-08-22, 07:57:28](https://news.ycombinator.com/item?id=37219855) - [Fire Escape Trap in Top of Auto, 1933](https://www.vintag.es/2023/08/auto-fire-escape.html)
 * [2023-08-22, 07:57:04](https://news.ycombinator.com/item?id=37219851) - [The Lack of Self-Deception](https://evidenceanecdotal.blogspot.com/2023/08/the-lack-of-self-deception.html)
 * [2023-08-22, 07:44:50](https://news.ycombinator.com/item?id=37219779) - [Arm Announces Public Filing for Proposed Initial Public Offering](https://www.arm.com/company/news/2023/08/arm-announces-public-filing-of-registration-statement-for-proposed-initial-public-offering)
 * [2023-08-22, 07:17:52](https://news.ycombinator.com/item?id=37219643) - [The Populist Advantage](https://www.project-syndicate.org/commentary/populist-economic-policies-easier-sell-than-liberal-orthodoxy-by-raghuram-rajan-2023-08?barrier=accesspaylog)
