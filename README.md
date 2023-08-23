@@ -7,7 +7,7 @@
 * [2023-08-23, 04:49:25](https://news.ycombinator.com/item?id=37231991) - [McNealy's bittersweet memo bids good-bye to Sun (2010)](https://www.cnet.com/culture/mcnealys-bittersweet-memo-bids-good-bye-to-sun-20000017/)
 * [2023-08-23, 03:51:08](https://news.ycombinator.com/item?id=37231636) - [Memory Order in C++ (2022)](https://www.sobyte.net/post/2022-06/cpp-memory-order/)
 * [2023-08-23, 02:53:21](https://news.ycombinator.com/item?id=37231342) - [I didn't write any JavaScript, and other shortcuts](https://csvbase.com/blog/4)
-* [2023-08-23, 02:40:55](https://news.ycombinator.com/item?id=37231273) - [Modern Computer Architecture and Organization: Learn x86, ARM, and RISC-V](https://www.packtpub.com/product/modern-computer-architecture-and-organization-second-edition/9781803234519)
+* [2023-08-23, 02:40:55](https://news.ycombinator.com/item?id=37231273) - [Modern Computer Architecture and Organization - Second Edition (2022)](https://www.packtpub.com/product/modern-computer-architecture-and-organization-second-edition/9781803234519)
 * [2023-08-23, 01:47:04](https://news.ycombinator.com/item?id=37230913) - [OneDiffusion](https://github.com/bentoml/OneDiffusion)
 * [2023-08-23, 01:37:01](https://news.ycombinator.com/item?id=37230843) - [Eye scans detect signs of Parkinson’s disease up to seven years before diagnosis](https://www.moorfields.nhs.uk/news/eye-scans-detect-signs-parkinson-s-disease-seven-years-diagnosis)
 * [2023-08-23, 01:00:33](https://news.ycombinator.com/item?id=37230619) - [I only lost 10 minutes of data, thanks to ZFS](https://mastodon.social/@chromakode/110936177254839251)
