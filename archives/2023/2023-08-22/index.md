@@ -36,6 +36,7 @@
 * [2023-08-22, 17:00:29](https://news.ycombinator.com/item?id=37225550) - [Emerge (YC W21) is hiring a lead front end engineer [remote, small team]](https://www.workatastartup.com/jobs/61922/)
 * [2023-08-22, 16:55:07](https://news.ycombinator.com/item?id=37225467) - [‘Broken’ solar panels manufactured specifically for South Africa](https://dailyinvestor.com/energy/28170/broken-solar-panels-manufactured-specifically-for-south-africa/)
 * [2023-08-22, 16:51:17](https://news.ycombinator.com/item?id=37225397) - [6 Archetypes of Broken Ownership](https://blog.alexewerlof.com/p/broken-ownership)
+* [2023-08-22, 16:21:01](https://news.ycombinator.com/item?id=37224936) - [Is Beekeeping Wrong?](https://www.newyorker.com/magazine/2023/08/28/is-beekeeping-wrong)
 * [2023-08-22, 16:16:57](https://news.ycombinator.com/item?id=37224861) - [Noiszy: A browser plugin that creates meaningless web data – digital “noise.”](https://noiszy.com)
 * [2023-08-22, 16:02:03](https://news.ycombinator.com/item?id=37224651) - [Structured Logging with Slog](https://go.dev/blog/slog)
 * [2023-08-22, 15:59:34](https://news.ycombinator.com/item?id=37224609) - [Tesla asked officials to redact info of driver-assistance in use during crashes](https://www.businessinsider.com/tesla-asked-nhtsa-redact-information-autopilot-fsd-use-crashes-report-2023-8)
