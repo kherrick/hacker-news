@@ -5,9 +5,9 @@
 * [2023-08-23, 05:37:01](https://news.ycombinator.com/item?id=37232229) - [Enhance Rust errors with file and line details](https://crates.io/crates/wherr)
 * [2023-08-23, 05:11:09](https://news.ycombinator.com/item?id=37232103) - [Zrepl – ZFS replication](https://zrepl.github.io/)
 * [2023-08-23, 04:49:25](https://news.ycombinator.com/item?id=37231991) - [McNealy's bittersweet memo bids good-bye to Sun (2010)](https://www.cnet.com/culture/mcnealys-bittersweet-memo-bids-good-bye-to-sun-20000017/)
+* [2023-08-23, 03:51:08](https://news.ycombinator.com/item?id=37231636) - [Memory Order in C++ (2022)](https://www.sobyte.net/post/2022-06/cpp-memory-order/)
 * [2023-08-23, 02:53:21](https://news.ycombinator.com/item?id=37231342) - [I didn't write any JavaScript, and other shortcuts](https://csvbase.com/blog/4)
 * [2023-08-23, 02:40:55](https://news.ycombinator.com/item?id=37231273) - [Modern Computer Architecture and Organization: Learn x86, ARM, and RISC-V](https://www.packtpub.com/product/modern-computer-architecture-and-organization-second-edition/9781803234519)
-* [2023-08-23, 01:50:10](https://news.ycombinator.com/item?id=37230937) - [Mastering Emacs](https://www.masteringemacs.org/)
 * [2023-08-23, 01:47:04](https://news.ycombinator.com/item?id=37230913) - [OneDiffusion](https://github.com/bentoml/OneDiffusion)
 * [2023-08-23, 01:37:01](https://news.ycombinator.com/item?id=37230843) - [Eye scans detect signs of Parkinson’s disease up to seven years before diagnosis](https://www.moorfields.nhs.uk/news/eye-scans-detect-signs-parkinson-s-disease-seven-years-diagnosis)
 * [2023-08-23, 01:00:33](https://news.ycombinator.com/item?id=37230619) - [I only lost 10 minutes of data, thanks to ZFS](https://mastodon.social/@chromakode/110936177254839251)
@@ -22,7 +22,6 @@
 * [2023-08-22, 19:09:47](https://news.ycombinator.com/item?id=37227229) - [How to Solve It (1945)](https://www.math.utah.edu/~alfeld/math/polya.html)
 * [2023-08-22, 19:02:37](https://news.ycombinator.com/item?id=37227139) - [GPT-3.5 Turbo fine-tuning and API updates](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates)
 * [2023-08-22, 17:56:52](https://news.ycombinator.com/item?id=37226360) - [Asyncio, twisted, tornado, gevent walk into a bar](https://www.bitecode.dev/p/asyncio-twisted-tornado-gevent-walk)
-* [2023-08-22, 16:21:01](https://news.ycombinator.com/item?id=37224936) - [Is Beekeeping Wrong?](https://www.newyorker.com/magazine/2023/08/28/is-beekeeping-wrong)
 * [2023-08-22, 15:23:09](https://news.ycombinator.com/item?id=37224042) - [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
 * [2023-08-22, 15:20:04](https://news.ycombinator.com/item?id=37223995) - [Hogfish ‘See’ with Their Skin, Even When They’re Dead](https://www.nytimes.com/2023/08/22/science/hogfish-skin-camouflage-dead.html)
 * [2023-08-22, 12:15:28](https://news.ycombinator.com/item?id=37221576) - [My Pebble mood tracker app from 2016](https://www.nothingeasyaboutthis.com/moodapp/)
@@ -30,6 +29,7 @@
 * [2023-08-22, 09:59:03](https://news.ycombinator.com/item?id=37220604) - [A complete guide to building a hand-wired keyboard (2020)](https://www.crackedthecode.co/a-complete-guide-to-building-a-hand-wired-keyboard/)
 * [2023-08-22, 04:40:40](https://news.ycombinator.com/item?id=37218765) - [Frog Galvanoscope](https://en.wikipedia.org/wiki/Frog_galvanoscope)
 * [2023-08-22, 02:07:07](https://news.ycombinator.com/item?id=37217757) - [Aeron – Proof of the benefits of open development](https://www.gresearch.com/blog/article/aeron-proof-of-the-benefits-of-open-development/)
+* [2023-08-21, 21:06:56](https://news.ycombinator.com/item?id=37215374) - [My thoughts on the 2023 FTC robotics season](https://ritvikg.dev/posts/20230418-thoughts-on-ftc-season)
 
 ## [Archives](archives/index.md)
 

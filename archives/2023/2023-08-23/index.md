@@ -13,6 +13,7 @@
 * [2023-08-23, 05:05:05](https://news.ycombinator.com/item?id=37232074) - [The Sticky History of Baklava](https://www.smithsonianmag.com/travel/the-sticky-history-of-baklava-180982771/)
 * [2023-08-23, 04:49:25](https://news.ycombinator.com/item?id=37231991) - [McNealy's bittersweet memo bids good-bye to Sun (2010)](https://www.cnet.com/culture/mcnealys-bittersweet-memo-bids-good-bye-to-sun-20000017/)
 * [2023-08-23, 04:48:41](https://news.ycombinator.com/item?id=37231989) - [In Wuhan, doctors knew the truth. They were told to keep quiet](https://www.washingtonpost.com/opinions/2023/08/22/wuhan-doctors-pandemic-china-coverup/)
+* [2023-08-23, 03:51:08](https://news.ycombinator.com/item?id=37231636) - [Memory Order in C++ (2022)](https://www.sobyte.net/post/2022-06/cpp-memory-order/)
 * [2023-08-23, 03:27:07](https://news.ycombinator.com/item?id=37231516) - [Awk programming language 2nd edition](https://www.awk.dev/)
 * [2023-08-23, 03:22:59](https://news.ycombinator.com/item?id=37231496) - [Programmers should not call themselves engineers (2015)](https://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/)
 * [2023-08-23, 02:53:21](https://news.ycombinator.com/item?id=37231342) - [I didn't write any JavaScript, and other shortcuts](https://csvbase.com/blog/4)
