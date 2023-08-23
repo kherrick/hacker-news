@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-23, 06:19:45](https://news.ycombinator.com/item?id=37232433) - [Show HN: My New Portfolio Update](https://anasdew.com/)
-* [2023-08-23, 05:30:01](https://news.ycombinator.com/item?id=37232198) - [If you’re a criminal I will not use any application you write](https://escapebigtech.info/posts/i-wont-use-applications-by-criminals/)
 * [2023-08-23, 01:50:10](https://news.ycombinator.com/item?id=37230937) - [Mastering Emacs](https://www.masteringemacs.org/)
 * [2023-08-23, 01:49:10](https://news.ycombinator.com/item?id=37230932) - [What happened to Wirecutter?](https://www.theatlantic.com/technology/archive/2023/08/wirecutter-recommendations-worse-new-york-times/675075/)
 * [2023-08-23, 01:47:04](https://news.ycombinator.com/item?id=37230913) - [OneDiffusion](https://github.com/bentoml/OneDiffusion)
@@ -28,6 +27,7 @@
 * [2023-08-22, 10:54:29](https://news.ycombinator.com/item?id=37220953) - [Writing a Package Manager](https://antonz.org/writing-package-manager/)
 * [2023-08-22, 06:53:05](https://news.ycombinator.com/item?id=37219513) - [Transactions in a Microservice World](https://wso2.com/whitepapers/transactions-in-a-microservice-world/)
 * [2023-08-22, 04:40:40](https://news.ycombinator.com/item?id=37218765) - [Frog Galvanoscope](https://en.wikipedia.org/wiki/Frog_galvanoscope)
+* [2023-08-22, 02:07:56](https://news.ycombinator.com/item?id=37217761) - [Compile-Time Checked Truth Tables](https://blog.ploeh.dk/2023/08/21/compile-time-type-checked-truth-tables/)
 * [2023-08-22, 02:07:07](https://news.ycombinator.com/item?id=37217757) - [Aeron – Proof of the benefits of open development](https://www.gresearch.com/blog/article/aeron-proof-of-the-benefits-of-open-development/)
 * [2023-08-21, 21:06:56](https://news.ycombinator.com/item?id=37215374) - [My thoughts on the 2023 FTC robotics season](https://ritvikg.dev/posts/20230418-thoughts-on-ftc-season)
 
