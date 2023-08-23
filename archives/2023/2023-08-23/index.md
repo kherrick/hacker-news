@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
+* [2023-08-23, 22:24:25](https://news.ycombinator.com/item?id=37242651) - [BioWare is laying off 50 employees](https://blog.bioware.com/2023/08/23/an-update-on-the-state-of-bioware/)
 * [2023-08-23, 21:24:39](https://news.ycombinator.com/item?id=37242043) - [Tornado Cash devs charged with laundering more than $1B](https://www.theverge.com/2023/8/23/23843161/tornado-cash-indictment-conspiracy-north-korea-money-laundering)
 * [2023-08-23, 21:13:12](https://news.ycombinator.com/item?id=37241906) - [Backblaze Product and Pricing Updates](https://www.backblaze.com/blog/2023-product-announcement/)
 * [2023-08-23, 21:01:56](https://news.ycombinator.com/item?id=37241809) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
