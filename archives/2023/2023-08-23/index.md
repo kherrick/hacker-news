@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
+* [2023-08-23, 11:02:57](https://news.ycombinator.com/item?id=37234111) - [Ask HN: Where to find open source house plans?](https://news.ycombinator.com/item?id=37234111)
 * [2023-08-23, 10:37:38](https://news.ycombinator.com/item?id=37233977) - [Why the vagus nerve is so exciting to scientists](https://www.theguardian.com/society/2023/aug/23/the-key-to-depression-obesity-alcoholism-and-more-why-the-vagus-nerve-is-so-exciting-to-scientists)
+* [2023-08-23, 10:30:23](https://news.ycombinator.com/item?id=37233936) - [Live telecast of Chandrayaan-3 Soft-landing](https://www.isro.gov.in/LIVE_telecast_of_Soft_landing.html)
 * [2023-08-23, 08:33:28](https://news.ycombinator.com/item?id=37233295) - [macOS 13.5 no longer allows setting system wide ulimits](https://developer.apple.com/forums/thread/735798)
 * [2023-08-23, 06:51:04](https://news.ycombinator.com/item?id=37232626) - [Resistor–Transistor Logic (RTL)](https://en.wikipedia.org/wiki/Resistor%E2%80%93transistor_logic)
 * [2023-08-23, 06:23:36](https://news.ycombinator.com/item?id=37232451) - [Permutation Iteration and Random Access](https://blog.demofox.org/2023/08/22/permutation-iteration-and-random-access/)
