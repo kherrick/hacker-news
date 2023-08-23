@@ -2,7 +2,6 @@
 
 * [2023-08-23, 06:19:45](https://news.ycombinator.com/item?id=37232433) - [Show HN: My New Portfolio Update](https://anasdew.com/)
 * [2023-08-23, 05:30:01](https://news.ycombinator.com/item?id=37232198) - [If you’re a criminal I will not use any application you write](https://escapebigtech.info/posts/i-wont-use-applications-by-criminals/)
-* [2023-08-23, 03:27:07](https://news.ycombinator.com/item?id=37231516) - [Awk programming language 2nd edition](https://www.awk.dev/)
 * [2023-08-23, 01:50:10](https://news.ycombinator.com/item?id=37230937) - [Mastering Emacs](https://www.masteringemacs.org/)
 * [2023-08-23, 01:49:10](https://news.ycombinator.com/item?id=37230932) - [What happened to Wirecutter?](https://www.theatlantic.com/technology/archive/2023/08/wirecutter-recommendations-worse-new-york-times/675075/)
 * [2023-08-23, 01:47:04](https://news.ycombinator.com/item?id=37230913) - [OneDiffusion](https://github.com/bentoml/OneDiffusion)
@@ -24,6 +23,7 @@
 * [2023-08-22, 16:02:03](https://news.ycombinator.com/item?id=37224651) - [Structured logging with slog](https://go.dev/blog/slog)
 * [2023-08-22, 15:23:09](https://news.ycombinator.com/item?id=37224042) - [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
 * [2023-08-22, 15:20:04](https://news.ycombinator.com/item?id=37223995) - [Hogfish ‘See’ with Their Skin, Even When They’re Dead](https://www.nytimes.com/2023/08/22/science/hogfish-skin-camouflage-dead.html)
+* [2023-08-22, 13:58:58](https://news.ycombinator.com/item?id=37222823) - [Prettymapp – Create maps from OpenStreetMap data in a Streamlit webapp](https://github.com/chrieke/prettymapp)
 * [2023-08-22, 12:15:28](https://news.ycombinator.com/item?id=37221576) - [My Pebble mood tracker app from 2016](https://www.nothingeasyaboutthis.com/moodapp/)
 * [2023-08-22, 10:54:29](https://news.ycombinator.com/item?id=37220953) - [Writing a Package Manager](https://antonz.org/writing-package-manager/)
 * [2023-08-22, 06:53:05](https://news.ycombinator.com/item?id=37219513) - [Transactions in a Microservice World](https://wso2.com/whitepapers/transactions-in-a-microservice-world/)
