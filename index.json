@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-23, 10:37:38",
+      "https://news.ycombinator.com/item?id=37233977"
+    ],
+    [
+      "Why the vagus nerve is so exciting to scientists",
+      "https://www.theguardian.com/society/2023/aug/23/the-key-to-depression-obesity-alcoholism-and-more-why-the-vagus-nerve-is-so-exciting-to-scientists"
+    ]
+  ],
+  [
+    [
       "2023-08-23, 08:33:28",
       "https://news.ycombinator.com/item?id=37233295"
     ],
@@ -27,16 +37,6 @@
     [
       "Permutation iteration and random access",
       "https://blog.demofox.org/2023/08/22/permutation-iteration-and-random-access/"
-    ]
-  ],
-  [
-    [
-      "2023-08-23, 06:01:31",
-      "https://news.ycombinator.com/item?id=37232340"
-    ],
-    [
-      "Unit Tests Are Overrated: Rethinking Testing Strategies",
-      "https://thenewstack.io/unit-tests-are-overrated-rethinking-testing-strategies/"
     ]
   ],
   [
@@ -107,6 +107,16 @@
     [
       "Modern Computer Architecture and Organization - Second Edition (2022)",
       "https://www.packtpub.com/product/modern-computer-architecture-and-organization-second-edition/9781803234519"
+    ]
+  ],
+  [
+    [
+      "2023-08-23, 02:23:48",
+      "https://news.ycombinator.com/item?id=37231179"
+    ],
+    [
+      "A fungeoid is a typically multi-dimensional language similar to Befunge",
+      "https://esolangs.org/wiki/Fungeoid"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Aeron – Proof of the benefits of open development",
       "https://www.gresearch.com/blog/article/aeron-proof-of-the-benefits-of-open-development/"
-    ]
-  ],
-  [
-    [
-      "2023-08-21, 21:06:56",
-      "https://news.ycombinator.com/item?id=37215374"
-    ],
-    [
-      "My thoughts on the 2023 FTC robotics season",
-      "https://ritvikg.dev/posts/20230418-thoughts-on-ftc-season"
     ]
   ]
 ]
