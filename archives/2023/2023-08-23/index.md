@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
+* [2023-08-23, 12:49:52](https://news.ycombinator.com/item?id=37235019) - [India’s Chandrayaan-3 probe successfully lands on the lunar South Pole](https://www.theverge.com/2023/8/23/23842669/chandrayaan3-india-moon-mission-successful-lunar-south-pole)
 * [2023-08-23, 12:36:12](https://news.ycombinator.com/item?id=37234914) - [Chandrayaan-3 Lands on the Moon](https://twitter.com/isro/status/1694327198394863911)
 * [2023-08-23, 12:19:47](https://news.ycombinator.com/item?id=37234728) - [Musk’s Erratic Behavior May Be Caused by Escalating Drug Use, Associates Say](https://www.thedailybeast.com/elon-musks-odd-behavior-may-be-due-to-increasing-drug-use-associates-tell-ronan-farrow)
 * [2023-08-23, 11:46:56](https://news.ycombinator.com/item?id=37234415) - [Ridiculous captcha at GitHub to reset your password](https://github.com/orgs/community/discussions/64625)
