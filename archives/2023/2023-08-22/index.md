@@ -34,6 +34,7 @@
 * [2023-08-22, 19:04:24](https://news.ycombinator.com/item?id=37227172) - [Experian fined $650k for not letting you opt out of its spammy emails](https://www.theverge.com/2023/8/22/23841646/experian-fined-spam-emails-ftc-doj)
 * [2023-08-22, 19:02:37](https://news.ycombinator.com/item?id=37227139) - [GPT-3.5 Turbo fine-tuning and API updates](https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates)
 * [2023-08-22, 18:58:46](https://news.ycombinator.com/item?id=37227086) - [First ever remains of a dicraeosaurid sauropod unearthed in India](https://phys.org/news/2023-08-dicraeosaurid-sauropod-unearthed-india.html)
+* [2023-08-22, 18:39:30](https://news.ycombinator.com/item?id=37226879) - [Against Automaticity](https://carcinisation.com/2023/08/22/against-automaticity/)
 * [2023-08-22, 18:33:43](https://news.ycombinator.com/item?id=37226805) - [Godly – Astronomically good web design inspiration](https://godly.website/)
 * [2023-08-22, 17:56:52](https://news.ycombinator.com/item?id=37226360) - [Asyncio, twisted, tornado, gevent walk into a bar](https://www.bitecode.dev/p/asyncio-twisted-tornado-gevent-walk)
 * [2023-08-22, 17:48:26](https://news.ycombinator.com/item?id=37226227) - [Figma makes 200 fixes and improvements to Dev Mode](https://figma.com/blog/dev-mode-fast-follows-200-new-features-and-fixes/)
