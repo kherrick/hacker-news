@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
+* [2023-08-23, 13:31:58](https://news.ycombinator.com/item?id=37235578) - [AI predicts certain esophageal and stomach cancers three years before diagnosis](https://www.michiganmedicine.org/health-lab/ai-can-predict-certain-forms-esophageal-and-stomach-cancer)
+* [2023-08-23, 13:14:56](https://news.ycombinator.com/item?id=37235371) - [Asking for help: We cannot sell our SaaS](https://app.fyyn.io/en/welcome)
 * [2023-08-23, 12:49:52](https://news.ycombinator.com/item?id=37235019) - [India’s Chandrayaan-3 probe successfully lands on the lunar South Pole](https://www.theverge.com/2023/8/23/23842669/chandrayaan3-india-moon-mission-successful-lunar-south-pole)
 * [2023-08-23, 12:36:12](https://news.ycombinator.com/item?id=37234914) - [Chandrayaan-3 Lands on the Moon](https://twitter.com/isro/status/1694327198394863911)
 * [2023-08-23, 12:19:47](https://news.ycombinator.com/item?id=37234728) - [Musk’s Erratic Behavior May Be Caused by Escalating Drug Use, Associates Say](https://www.thedailybeast.com/elon-musks-odd-behavior-may-be-due-to-increasing-drug-use-associates-tell-ronan-farrow)
