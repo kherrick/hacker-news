@@ -6,6 +6,7 @@
 * [2023-08-23, 05:11:09](https://news.ycombinator.com/item?id=37232103) - [Zrepl – ZFS replication](https://zrepl.github.io/)
 * [2023-08-23, 04:49:25](https://news.ycombinator.com/item?id=37231991) - [McNealy's bittersweet memo bids good-bye to Sun (2010)](https://www.cnet.com/culture/mcnealys-bittersweet-memo-bids-good-bye-to-sun-20000017/)
 * [2023-08-23, 02:53:21](https://news.ycombinator.com/item?id=37231342) - [I didn't write any JavaScript, and other shortcuts](https://csvbase.com/blog/4)
+* [2023-08-23, 02:40:55](https://news.ycombinator.com/item?id=37231273) - [Modern Computer Architecture and Organization: Learn x86, ARM, and RISC-V](https://www.packtpub.com/product/modern-computer-architecture-and-organization-second-edition/9781803234519)
 * [2023-08-23, 01:50:10](https://news.ycombinator.com/item?id=37230937) - [Mastering Emacs](https://www.masteringemacs.org/)
 * [2023-08-23, 01:47:04](https://news.ycombinator.com/item?id=37230913) - [OneDiffusion](https://github.com/bentoml/OneDiffusion)
 * [2023-08-23, 01:37:01](https://news.ycombinator.com/item?id=37230843) - [Eye scans detect signs of Parkinson’s disease up to seven years before diagnosis](https://www.moorfields.nhs.uk/news/eye-scans-detect-signs-parkinson-s-disease-seven-years-diagnosis)
@@ -29,7 +30,6 @@
 * [2023-08-22, 09:59:03](https://news.ycombinator.com/item?id=37220604) - [A complete guide to building a hand-wired keyboard (2020)](https://www.crackedthecode.co/a-complete-guide-to-building-a-hand-wired-keyboard/)
 * [2023-08-22, 04:40:40](https://news.ycombinator.com/item?id=37218765) - [Frog Galvanoscope](https://en.wikipedia.org/wiki/Frog_galvanoscope)
 * [2023-08-22, 02:07:07](https://news.ycombinator.com/item?id=37217757) - [Aeron – Proof of the benefits of open development](https://www.gresearch.com/blog/article/aeron-proof-of-the-benefits-of-open-development/)
-* [2023-08-21, 21:06:56](https://news.ycombinator.com/item?id=37215374) - [My thoughts on the 2023 FTC robotics season](https://ritvikg.dev/posts/20230418-thoughts-on-ftc-season)
 
 ## [Archives](archives/index.md)
 
