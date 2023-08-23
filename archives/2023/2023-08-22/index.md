@@ -12,6 +12,7 @@
 * [2023-08-22, 21:53:07](https://news.ycombinator.com/item?id=37229030) - [PostgreSQL Lock Conflicts](https://pglocks.org/)
 * [2023-08-22, 21:50:03](https://news.ycombinator.com/item?id=37228987) - [Longtime Super Mario voice actor Charles Martinet retires from the role](https://www.axios.com/2023/08/21/charles-martinet-super-mario-voice)
 * [2023-08-22, 21:49:08](https://news.ycombinator.com/item?id=37228975) - [LibreOffice 24.2 Will Succeed LibreOffice 7.6](https://www.phoronix.com/news/LibreOffice-24.2-Up-Next)
+* [2023-08-22, 21:45:38](https://news.ycombinator.com/item?id=37228947) - [The Song, Painted (2022)](https://news.cgtn.com/event/2022/The-Song-Painted/index.html)
 * [2023-08-22, 21:34:51](https://news.ycombinator.com/item?id=37228822) - [An Old Conjecture Falls, Making Spheres a Lot More Complicated](https://www.quantamagazine.org/an-old-conjecture-falls-making-spheres-a-lot-more-complicated-20230822/)
 * [2023-08-22, 20:56:34](https://news.ycombinator.com/item?id=37228412) - [Phone.wtf](https://phone.wtf/)
 * [2023-08-22, 20:48:05](https://news.ycombinator.com/item?id=37228304) - [How to Write Software with Zero bugs – 25 years after qmail 1.0 – D. Bernstein [pdf]](https://cr.yp.to/qmail/qmailsec-20071101.pdf)
