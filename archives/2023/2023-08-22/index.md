@@ -8,6 +8,7 @@
 * [2023-08-22, 22:58:38](https://news.ycombinator.com/item?id=37229689) - [Dashworks is hiring ML and fullstack engineers](https://www.dashworks.ai/company#jobs)
 * [2023-08-22, 22:30:42](https://news.ycombinator.com/item?id=37229435) - [No One Wants Simplicity](https://lukeplant.me.uk/blog/posts/no-one-actually-wants-simplicity/)
 * [2023-08-22, 22:28:06](https://news.ycombinator.com/item?id=37229403) - [OpenSAFELY is a secure, open-source platform for analysis of health records data](https://www.opensafely.org/about/#core-design-features-for-privacy-transparency-and-open-working)
+* [2023-08-22, 22:17:16](https://news.ycombinator.com/item?id=37229293) - [Reading the temperature, humidity, and pressure from a BME280 Sensor with Java](https://webtechie.be/post/2023-07-26-read-temperature-pressure-humidity-bme280-java-pi4j-jbang-raspberrypi/)
 * [2023-08-22, 22:14:37](https://news.ycombinator.com/item?id=37229270) - [Skiff – Privacy-first end-to-end encrypted email](https://skiff.com)
 * [2023-08-22, 22:09:19](https://news.ycombinator.com/item?id=37229212) - [Thoughts on Flash (2010)](https://web.archive.org/web/20170615060422/https://www.apple.com/hotnews/thoughts-on-flash/)
 * [2023-08-22, 21:53:07](https://news.ycombinator.com/item?id=37229030) - [PostgreSQL Lock Conflicts](https://pglocks.org/)
