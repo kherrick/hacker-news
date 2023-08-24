@@ -21,12 +21,32 @@
   ],
   [
     [
+      "2023-08-24, 11:20:45",
+      "https://news.ycombinator.com/item?id=37247548"
+    ],
+    [
+      "ELI5: Why are 11 and 12 called eleven and twelve and not oneteen and twoteen?",
+      "https://old.reddit.com/r/explainlikeimfive/comments/15zuitf/eli5_why_are_11_and_12_called_eleven_ant_twelve/"
+    ]
+  ],
+  [
+    [
       "2023-08-24, 10:41:47",
       "https://news.ycombinator.com/item?id=37247275"
     ],
     [
       "Show HN: I built this Postgres logger for you guys to check out",
       "https://rocketgraph.io/logger-demo"
+    ]
+  ],
+  [
+    [
+      "2023-08-24, 10:40:57",
+      "https://news.ycombinator.com/item?id=37247268"
+    ],
+    [
+      "Show HN: Web App with GUI for AutoML on Tabular Data",
+      "https://github.com/mljar/automl-app"
     ]
   ],
   [
@@ -51,22 +71,22 @@
   ],
   [
     [
+      "2023-08-24, 08:43:56",
+      "https://news.ycombinator.com/item?id=37246458"
+    ],
+    [
+      "Show HN: Playwright in Docker with hot reloading – Simple testautomation",
+      "https://github.com/punnerud/playwright_hot_docker"
+    ]
+  ],
+  [
+    [
       "2023-08-24, 08:37:27",
       "https://news.ycombinator.com/item?id=37246416"
     ],
     [
       "Apparatus for facilitating the birth of a child by centrifugal force (1963)",
       "https://patents.google.com/patent/US3216423A/en"
-    ]
-  ],
-  [
-    [
-      "2023-08-24, 05:53:40",
-      "https://news.ycombinator.com/item?id=37245473"
-    ],
-    [
-      "Open source LLM with 32k Context Length",
-      "https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-08-23, 10:30:23",
-      "https://news.ycombinator.com/item?id=37233936"
-    ],
-    [
-      "Chandrayaan-3 Soft-landing [video]",
-      "https://www.isro.gov.in/LIVE_telecast_of_Soft_landing.html"
-    ]
-  ],
-  [
-    [
       "2023-08-23, 06:51:04",
       "https://news.ycombinator.com/item?id=37232626"
     ],
@@ -217,16 +227,6 @@
     [
       "The first conformant M1 GPU driver",
       "https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-22, 01:01:10",
-      "https://news.ycombinator.com/item?id=37217291"
-    ],
-    [
-      "CIAM for the Single Application",
-      "https://ciamweekly.substack.com/p/ciam-for-the-single-application"
     ]
   ],
   [
