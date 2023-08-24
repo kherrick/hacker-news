@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-24, 08:00:30](https://news.ycombinator.com/item?id=37246193) - [Danish cloud host says customers ‘lost all data’ after ransomware attack](https://techcrunch.com/2023/08/23/cloudnordic-azero-cloud-host-ransomware/)
 * [2023-08-24, 06:16:08](https://news.ycombinator.com/item?id=37245593) - [Kellogg’s is going to war over Mexico’s nutrition label rules](https://www.statnews.com/2023/08/21/kelloggs-mexico-nutrition-label/)
 * [2023-08-24, 05:53:40](https://news.ycombinator.com/item?id=37245473) - [Open source LLM with 32k Context Length](https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/)
 * [2023-08-24, 04:57:34](https://news.ycombinator.com/item?id=37245171) - [Show HN: Automate complicated manual business processes](https://www.tooljet.com/workflows)
@@ -14,7 +15,6 @@
 * [2023-08-23, 17:56:15](https://news.ycombinator.com/item?id=37239747) - [Common mistakes in salary negotiation](https://interviewing.io/blog/sabotage-salary-negotiation-before-even-start)
 * [2023-08-23, 16:12:27](https://news.ycombinator.com/item?id=37238254) - [SeaGlass: City-Wide IMSI-Catcher Detection (2017)](https://seaglass.cs.washington.edu/)
 * [2023-08-23, 15:28:45](https://news.ycombinator.com/item?id=37237583) - [AI real-time human full-body photo generator](https://generated.photos/human-generator/)
-* [2023-08-23, 14:01:18](https://news.ycombinator.com/item?id=37236027) - [ChatGPT turned generative AI into an “anything tool”](https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/)
 * [2023-08-23, 10:30:23](https://news.ycombinator.com/item?id=37233936) - [Chandrayaan-3 Soft-landing [video]](https://www.isro.gov.in/LIVE_telecast_of_Soft_landing.html)
 * [2023-08-23, 05:05:05](https://news.ycombinator.com/item?id=37232074) - [The sticky history of baklava](https://www.smithsonianmag.com/travel/the-sticky-history-of-baklava-180982771/)
 * [2023-08-23, 02:54:33](https://news.ycombinator.com/item?id=37231347) - [An interpreter for a programming language based on Spotify playlists](https://github.com/h313/spet)
