@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-24](index.md)
 
+* [2023-08-24, 04:30:04](https://news.ycombinator.com/item?id=37245008) - [It's Getting Too Hot for Tropical Trees to Photosynthesize, Scientists Warn](https://www.vice.com/en/article/v7bzpy/its-getting-too-hot-for-tropical-trees-to-photosynthesize-scientists-warn)
 * [2023-08-24, 03:06:41](https://news.ycombinator.com/item?id=37244564) - [Atari games like it's 1980 with “faithful recreation” of Atari 2600 console](https://newatlas.com/games/plaion-atari-2600-plus-console/)
 * [2023-08-24, 02:53:12](https://news.ycombinator.com/item?id=37244503) - [Print(“lol”) doubled the speed of my Go function](https://medium.com/@ludirehak/printing-lol-doubled-the-speed-of-my-go-code-e32e02fc3f92)
 * [2023-08-24, 02:14:02](https://news.ycombinator.com/item?id=37244292) - [So Long, Twitter and Reddit](https://andrewkelley.me/post/goodbye-twitter-reddit.html)
