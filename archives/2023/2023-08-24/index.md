@@ -7,6 +7,7 @@
 * [2023-08-24, 13:13:04](https://news.ycombinator.com/item?id=37248353) - [I Won't Deliberately Use AI for Programming](https://www.mahdikarimi.com/blog/why-i-wont-use-ai-deliberately)
 * [2023-08-24, 12:28:55](https://news.ycombinator.com/item?id=37248002) - [Ask HN: Where do I find good code to read?](https://news.ycombinator.com/item?id=37248002)
 * [2023-08-24, 12:10:41](https://news.ycombinator.com/item?id=37247879) - [Learn the basics of digital electronics with the hands-on Logic Lab kit](http://www.technoblogy.com/show?4FFY)
+* [2023-08-24, 11:53:07](https://news.ycombinator.com/item?id=37247754) - [Haskell Researchers Announce Discovery of Industry Programmer Who Gives a Shit](http://steve-yegge.blogspot.com/2010/12/haskell-researchers-announce-discovery.html)
 * [2023-08-24, 11:20:45](https://news.ycombinator.com/item?id=37247548) - [ELI5: Why are 11 and 12 called eleven and twelve and not oneteen and twoteen?](https://old.reddit.com/r/explainlikeimfive/comments/15zuitf/eli5_why_are_11_and_12_called_eleven_ant_twelve/)
 * [2023-08-24, 10:59:20](https://news.ycombinator.com/item?id=37247394) - [Jacobin: Minimal JVM written in Go and capable of running Java 17 classes](https://jacobin.org/)
 * [2023-08-24, 10:41:47](https://news.ycombinator.com/item?id=37247275) - [Show HN: I built this Postgres logger for you guys to check out](https://rocketgraph.io/logger-demo)
