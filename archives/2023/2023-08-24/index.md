@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-24](index.md)
 
+* [2023-08-24, 15:36:50](https://news.ycombinator.com/item?id=37250094) - [Seafood banned after Japan starts releasing Fukushima nuclear wastewater](https://apnews.com/article/japan-fukushima-nuclear-radioactive-water-release-04d2423accd508e57afcd9e1eb6714ab)
 * [2023-08-24, 15:31:04](https://news.ycombinator.com/item?id=37249995) - [New flame retardants found in breast milk years after similar chemicals banned](https://text.npr.org/1194759795)
 * [2023-08-24, 15:02:56](https://news.ycombinator.com/item?id=37249623) - [Bypassing Bitlocker using a cheap logic analyzer on a Lenovo laptop](https://www.errno.fr/BypassingBitlocker.html)
 * [2023-08-24, 14:26:40](https://news.ycombinator.com/item?id=37249110) - [No app, no entry: How the digital world is failing the non tech-savvy](https://www.theguardian.com/technology/2023/aug/20/no-app-no-entry-how-the-digital-world-is-failing-the-non-tech-savvy)

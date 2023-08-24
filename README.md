@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-24, 15:36:50](https://news.ycombinator.com/item?id=37250094) - [Seafood banned after Japan starts releasing Fukushima nuclear wastewater](https://apnews.com/article/japan-fukushima-nuclear-radioactive-water-release-04d2423accd508e57afcd9e1eb6714ab)
 * [2023-08-24, 15:31:04](https://news.ycombinator.com/item?id=37249995) - [New flame retardants found in breast milk years after similar chemicals banned](https://text.npr.org/1194759795)
 * [2023-08-24, 15:02:56](https://news.ycombinator.com/item?id=37249623) - [Bypassing Bitlocker using a cheap logic analyzer on a Lenovo laptop](https://www.errno.fr/BypassingBitlocker.html)
 * [2023-08-24, 14:25:08](https://news.ycombinator.com/item?id=37249096) - [Microsoft’s Revocation of the Verisign Class 3 Public Primary G5 Root Cert](https://airlockdigital.com/microsofts-revocation-of-the-verisign-class-3-public-primary-certification-authority-g5-root-certificate/)
@@ -19,7 +20,6 @@
 * [2023-08-24, 09:25:17](https://news.ycombinator.com/item?id=37246740) - [How Modern SQL Databases Are Changing Web Development: Part 1](https://blog.whimslab.io/how-modern-sql-databases-are-changing-web-development-4d1f15b0daea)
 * [2023-08-24, 04:21:47](https://news.ycombinator.com/item?id=37244971) - [Understanding Percentiles (2021)](https://blog.shalvah.me/posts/understanding-percentiles)
 * [2023-08-24, 01:21:02](https://news.ycombinator.com/item?id=37244012) - [Bun v0.8](https://bun.sh/blog/bun-v0.8.0)
-* [2023-08-23, 20:41:01](https://news.ycombinator.com/item?id=37241625) - [Pytudes](https://github.com/norvig/pytudes)
 * [2023-08-23, 18:38:56](https://news.ycombinator.com/item?id=37240363) - [Show HN: Dataherald AI – Natural Language to SQL Engine](https://github.com/Dataherald/dataherald)
 * [2023-08-23, 15:28:45](https://news.ycombinator.com/item?id=37237583) - [AI real-time human full-body photo generator](https://generated.photos/human-generator/)
 * [2023-08-23, 06:51:04](https://news.ycombinator.com/item?id=37232626) - [Resistor–transistor logic](https://en.wikipedia.org/wiki/Resistor%E2%80%93transistor_logic)
