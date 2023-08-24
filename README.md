@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-24, 04:30:04](https://news.ycombinator.com/item?id=37245008) - [It's Getting Too Hot for Tropical Trees to Photosynthesize, Scientists Warn](https://www.vice.com/en/article/v7bzpy/its-getting-too-hot-for-tropical-trees-to-photosynthesize-scientists-warn)
 * [2023-08-24, 02:53:12](https://news.ycombinator.com/item?id=37244503) - [Print(“lol”) doubled the speed of my Go function](https://medium.com/@ludirehak/printing-lol-doubled-the-speed-of-my-go-code-e32e02fc3f92)
 * [2023-08-24, 01:21:02](https://news.ycombinator.com/item?id=37244012) - [Bun v0.8](https://bun.sh/blog/bun-v0.8.0)
 * [2023-08-24, 00:37:58](https://news.ycombinator.com/item?id=37243751) - [Use web components for what they’re good at](https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/)
@@ -19,6 +18,7 @@
 * [2023-08-23, 15:28:45](https://news.ycombinator.com/item?id=37237583) - [AI real-time human full-body photo generator](https://generated.photos/human-generator/)
 * [2023-08-23, 14:05:14](https://news.ycombinator.com/item?id=37236099) - [My favorite prime number generator](https://eli.thegreenplace.net/2023/my-favorite-prime-number-generator/)
 * [2023-08-23, 14:01:18](https://news.ycombinator.com/item?id=37236027) - [ChatGPT turned generative AI into an “anything tool”](https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/)
+* [2023-08-23, 12:34:37](https://news.ycombinator.com/item?id=37234887) - [Show HN: Fast vector similarity using Rust and Python](https://github.com/Dicklesworthstone/fast_vector_similarity)
 * [2023-08-23, 10:30:23](https://news.ycombinator.com/item?id=37233936) - [Chandrayaan-3 Soft-landing [video]](https://www.isro.gov.in/LIVE_telecast_of_Soft_landing.html)
 * [2023-08-23, 02:54:33](https://news.ycombinator.com/item?id=37231347) - [An interpreter for a programming language based on Spotify playlists](https://github.com/h313/spet)
 * [2023-08-23, 02:04:16](https://news.ycombinator.com/item?id=37231025) - [PreTeXt: Write Once Read Anywhere Authoring and Publishing System](https://pretextbook.org/)
