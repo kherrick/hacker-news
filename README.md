@@ -22,12 +22,12 @@
 * [2023-08-24, 11:55:04](https://news.ycombinator.com/item?id=37247767) - [Show HN: Open-source obsidian.md sync server](https://news.ycombinator.com/item?id=37247767)
 * [2023-08-24, 11:01:07](https://news.ycombinator.com/item?id=37247405) - [Japan’s 72 Microseasons (2015)](https://www.nippon.com/en/features/h00124/)
 * [2023-08-24, 10:59:20](https://news.ycombinator.com/item?id=37247394) - [Jacobin: Minimal JVM written in Go and capable of running Java 17 classes](https://jacobin.org/)
-* [2023-08-24, 10:41:47](https://news.ycombinator.com/item?id=37247275) - [Show HN: I built this Postgres logger](https://rocketgraph.io/logger-demo)
 * [2023-08-24, 10:40:57](https://news.ycombinator.com/item?id=37247268) - [Show HN: Web App with GUI for AutoML on Tabular Data](https://github.com/mljar/automl-app)
 * [2023-08-24, 09:51:17](https://news.ycombinator.com/item?id=37246932) - [Leaving Haskell Behind](https://journal.infinitenegativeutility.com/leaving-haskell-behind)
 * [2023-08-24, 09:25:17](https://news.ycombinator.com/item?id=37246740) - [How Modern SQL Databases Are Changing Web Development: Part 1](https://blog.whimslab.io/how-modern-sql-databases-are-changing-web-development-4d1f15b0daea)
 * [2023-08-23, 13:06:31](https://news.ycombinator.com/item?id=37235242) - [Spanish astronomer discovers new active galaxy](https://phys.org/news/2023-08-spanish-astronomer-galaxy.html)
 * [2023-08-23, 02:42:18](https://news.ycombinator.com/item?id=37231276) - [Screen Apnea](https://www.nytimes.com/2023/08/21/well/live/screen-apnea-breathing.html)
+* [2023-08-21, 23:14:03](https://news.ycombinator.com/item?id=37216599) - [Scientists reveal how sensory protein changes shape with nanometer resolution](https://phys.org/news/2023-08-scientists-reveal-sensory-protein-nanometer.html)
 * [2023-08-21, 22:58:59](https://news.ycombinator.com/item?id=37216489) - [Inside the JVM: Arrays](https://blogs.oracle.com/javamagazine/post/java-array-objects)
 * [2023-08-21, 20:13:09](https://news.ycombinator.com/item?id=37214742) - [Blog-cells: Interactive code cells for static sites](https://rameshvarun.github.io/blog-cells/)
 
