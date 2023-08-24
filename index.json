@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-08-24, 16:25:48",
+      "https://news.ycombinator.com/item?id=37250834"
+    ],
+    [
+      "Hacker News Guidelines",
+      "https://news.ycombinator.com/newsguidelines.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-24, 16:25:31",
+      "https://news.ycombinator.com/item?id=37250828"
+    ],
+    [
+      "Toward AGI – What Is Missing?",
+      "https://mark-riedl.medium.com/toward-agi-what-is-missing-c2f0d878471a"
+    ]
+  ],
+  [
+    [
+      "2023-08-24, 16:24:54",
+      "https://news.ycombinator.com/item?id=37250821"
+    ],
+    [
+      "Build a chatbot with custom data sources, powered by LlamaIndex",
+      "https://blog.streamlit.io/build-a-chatbot-with-custom-data-sources-powered-by-llamaindex/"
+    ]
+  ],
+  [
+    [
       "2023-08-24, 16:15:07",
       "https://news.ycombinator.com/item?id=37250677"
     ],
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=37250388"
     ],
     [
-      "DOJ Sues SpaceX for Discriminating Against Asylees and Refugees in Hiring",
+      "DOJ sues SpaceX for discriminating against asylees and refugees in hiring",
       "https://www.justice.gov/opa/pr/justice-department-sues-spacex-discriminating-against-asylees-and-refugees-hiring"
     ]
   ],
@@ -81,32 +111,12 @@
   ],
   [
     [
-      "2023-08-24, 14:06:04",
-      "https://news.ycombinator.com/item?id=37248931"
-    ],
-    [
-      "T-Mobile to cut about 7% of workforce, mostly corporate roles",
-      "https://www.bloomberg.com/news/articles/2023-08-24/t-mobile-to-cut-about-7-of-workforce-mostly-corporate-roles"
-    ]
-  ],
-  [
-    [
       "2023-08-24, 14:02:12",
       "https://news.ycombinator.com/item?id=37248895"
     ],
     [
       "Hugging Face raises $235M from investors including Salesforce and Nvidia",
       "https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/"
-    ]
-  ],
-  [
-    [
-      "2023-08-24, 14:01:02",
-      "https://news.ycombinator.com/item?id=37248882"
-    ],
-    [
-      "The curious ways your skin shapes your health",
-      "https://www.bbc.com/future/article/20230823-the-curious-ways-your-skin-shapes-your-health"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Graph of Thoughts: Solving Elaborate Problems with Large Language Models",
       "https://arxiv.org/abs/2308.09687"
-    ]
-  ],
-  [
-    [
-      "2023-08-24, 13:41:01",
-      "https://news.ycombinator.com/item?id=37248652"
-    ],
-    [
-      "Camera crushes Lidar, claims startup",
-      "https://spectrum.ieee.org/camera-crushes-lidar"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2023-08-24, 09:51:17",
+      "https://news.ycombinator.com/item?id=37246932"
+    ],
+    [
+      "Leaving Haskell Behind",
+      "https://journal.infinitenegativeutility.com/leaving-haskell-behind"
+    ]
+  ],
+  [
+    [
       "2023-08-24, 09:25:17",
       "https://news.ycombinator.com/item?id=37246740"
     ],
@@ -267,16 +277,6 @@
     [
       "Inside the JVM: Arrays",
       "https://blogs.oracle.com/javamagazine/post/java-array-objects"
-    ]
-  ],
-  [
-    [
-      "2023-08-21, 22:51:25",
-      "https://news.ycombinator.com/item?id=37216412"
-    ],
-    [
-      "The Antagonists: The rise and fall of type-in text games",
-      "https://if50.substack.com/p/the-antagonists"
     ]
   ],
   [
