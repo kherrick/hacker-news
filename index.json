@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-24, 20:08:38",
+      "https://news.ycombinator.com/item?id=37253897"
+    ],
+    [
+      "$528M Antarctic icebreaker too big to fit under Tasman bridge to refuel",
+      "https://www.theguardian.com/australia-news/2023/aug/24/australias-528m-antarctic-icebreaker-too-big-to-fit-under-tasman-bridge-to-refuel"
+    ]
+  ],
+  [
+    [
       "2023-08-24, 19:46:42",
       "https://news.ycombinator.com/item?id=37253685"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
-      "2023-08-24, 18:52:04",
-      "https://news.ycombinator.com/item?id=37253026"
-    ],
-    [
-      "Better.com stock gets clobbered as it begins trading publicly down more than 93%",
-      "https://www.fastcompany.com/90944558/better-stock-down-public-betr-nasdaq"
-    ]
-  ],
-  [
-    [
       "2023-08-24, 18:07:16",
       "https://news.ycombinator.com/item?id=37252472"
     ],
     [
       "A New Physics Theory of Life (2014)",
       "https://www.quantamagazine.org/a-new-thermodynamics-theory-of-the-origin-of-life-20140122/"
+    ]
+  ],
+  [
+    [
+      "2023-08-24, 17:59:31",
+      "https://news.ycombinator.com/item?id=37252384"
+    ],
+    [
+      "Is there a fifth fundamental force of nature?",
+      "https://bigthink.com/starts-with-a-bang/5th-fundamental-force/"
     ]
   ],
   [
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2023-08-24, 16:15:07",
-      "https://news.ycombinator.com/item?id=37250677"
-    ],
-    [
-      "New Windows updates cause UNSUPPORTED_PROCESSOR blue screens",
-      "https://www.bleepingcomputer.com/news/microsoft/new-windows-updates-cause-unsupported-processor-blue-screens/"
-    ]
-  ],
-  [
-    [
       "2023-08-24, 15:02:56",
       "https://news.ycombinator.com/item?id=37249623"
     ],
@@ -161,12 +161,32 @@
   ],
   [
     [
+      "2023-08-24, 14:01:02",
+      "https://news.ycombinator.com/item?id=37248882"
+    ],
+    [
+      "Skin health can be used to predict a number of seemingly unconnected factors",
+      "https://www.bbc.com/future/article/20230823-the-curious-ways-your-skin-shapes-your-health"
+    ]
+  ],
+  [
+    [
       "2023-08-24, 13:44:48",
       "https://news.ycombinator.com/item?id=37248694"
     ],
     [
       "Graph of Thoughts: Solving Elaborate Problems with Large Language Models",
       "https://arxiv.org/abs/2308.09687"
+    ]
+  ],
+  [
+    [
+      "2023-08-24, 13:41:01",
+      "https://news.ycombinator.com/item?id=37248652"
+    ],
+    [
+      "Camera crushes Lidar, claims startup",
+      "https://spectrum.ieee.org/camera-crushes-lidar"
     ]
   ],
   [
@@ -181,22 +201,22 @@
   ],
   [
     [
+      "2023-08-24, 13:19:30",
+      "https://news.ycombinator.com/item?id=37248411"
+    ],
+    [
+      "Is Computer Hacking a Crime? (1989) [pdf]",
+      "https://faculty.weber.edu/apainter1/Readings/Hacking%20a%20Crime.pdf"
+    ]
+  ],
+  [
+    [
       "2023-08-24, 12:30:28",
       "https://news.ycombinator.com/item?id=37248020"
     ],
     [
       "Grokking Hash Array Mapped Tries (HAMTs)",
       "https://photonlines.substack.com/p/grokking-hash-array-mapped-tries"
-    ]
-  ],
-  [
-    [
-      "2023-08-24, 12:28:55",
-      "https://news.ycombinator.com/item?id=37248002"
-    ],
-    [
-      "Ask HN: Where do I find good code to read?",
-      "https://news.ycombinator.com/item?id=37248002"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2023-08-24, 09:25:17",
-      "https://news.ycombinator.com/item?id=37246740"
-    ],
-    [
-      "How Modern SQL Databases Are Changing Web Development: Part 1",
-      "https://blog.whimslab.io/how-modern-sql-databases-are-changing-web-development-4d1f15b0daea"
-    ]
-  ],
-  [
-    [
       "2023-08-24, 00:25:54",
       "https://news.ycombinator.com/item?id=37243673"
     ],
@@ -287,16 +297,6 @@
     [
       "Screen Apnea",
       "https://www.nytimes.com/2023/08/21/well/live/screen-apnea-breathing.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-21, 22:58:59",
-      "https://news.ycombinator.com/item?id=37216489"
-    ],
-    [
-      "Inside the JVM: Arrays",
-      "https://blogs.oracle.com/javamagazine/post/java-array-objects"
     ]
   ]
 ]
