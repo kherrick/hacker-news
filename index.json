@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-08-24, 21:57:25",
+      "https://news.ycombinator.com/item?id=37255079"
+    ],
+    [
+      "Proof-of-Work Defense for Onion Services",
+      "https://blog.torproject.org/introducing-proof-of-work-defense-for-onion-services/"
+    ]
+  ],
+  [
+    [
       "2023-08-24, 21:51:28",
       "https://news.ycombinator.com/item?id=37255022"
     ],
     [
       "SQLite 3.43.0 Released",
       "https://sqlite.org/releaselog/3_43_0.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-24, 21:32:46",
+      "https://news.ycombinator.com/item?id=37254823"
+    ],
+    [
+      "Runme – Interactive Runbooks Built with Markdown",
+      "https://runme.dev/"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Zoom’s CEO thinks Zoom sucks for building trust, leaked audio reveals",
       "https://arstechnica.com/tech-policy/2023/08/leaked-audio-reveals-zoom-ceo-believes-its-hard-to-build-trust-on-zoom/"
-    ]
-  ],
-  [
-    [
-      "2023-08-24, 21:15:53",
-      "https://news.ycombinator.com/item?id=37254644"
-    ],
-    [
-      "Fox TV license renewal may be in jeopardy as FCC invites public response",
-      "https://arstechnica.com/tech-policy/2023/08/petition-to-deny-fox-tv-license-over-false-election-info-gains-steam-at-fcc/"
     ]
   ],
   [
@@ -161,26 +171,6 @@
   ],
   [
     [
-      "2023-08-24, 14:51:49",
-      "https://news.ycombinator.com/item?id=37249442"
-    ],
-    [
-      "Adding water to Martian soil samples might have been a bad idea",
-      "https://daily.jstor.org/we-might-have-accidentally-killed-the-only-life-we-ever-found-on-mars/"
-    ]
-  ],
-  [
-    [
-      "2023-08-24, 14:02:12",
-      "https://news.ycombinator.com/item?id=37248895"
-    ],
-    [
-      "Hugging Face raises $235M from investors including Salesforce and Nvidia",
-      "https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/"
-    ]
-  ],
-  [
-    [
       "2023-08-24, 14:01:02",
       "https://news.ycombinator.com/item?id=37248882"
     ],
@@ -287,6 +277,16 @@
     [
       "The Dilemma of Icons",
       "https://fairpixelsco.medium.com/icons-a-dilemma-of-design-and-meaning-1bf40eba1079"
+    ]
+  ],
+  [
+    [
+      "2023-08-24, 04:46:23",
+      "https://news.ycombinator.com/item?id=37245109"
+    ],
+    [
+      "Distributed Consensus",
+      "https://shachaf.net/w/consensus"
     ]
   ],
   [
