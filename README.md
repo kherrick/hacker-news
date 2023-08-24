@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-24, 17:27:20](https://news.ycombinator.com/item?id=37251871) - [Population ecologist warns humanity is on verge of population correction](https://phys.org/news/2023-08-population-ecologist-humanity-verge-massive.html)
 * [2023-08-24, 17:01:49](https://news.ycombinator.com/item?id=37251466) - [Show HN: Adapt Copilot to Your Goals](https://docs.flux.ai/tutorials/adapt-copilot-to-your-goals)
 * [2023-08-24, 16:25:48](https://news.ycombinator.com/item?id=37250834) - [Hacker News Guidelines](https://news.ycombinator.com/newsguidelines.html)
 * [2023-08-24, 16:25:31](https://news.ycombinator.com/item?id=37250828) - [Toward AGI – What Is Missing?](https://mark-riedl.medium.com/toward-agi-what-is-missing-c2f0d878471a)
@@ -13,7 +14,6 @@
 * [2023-08-24, 14:25:08](https://news.ycombinator.com/item?id=37249096) - [Microsoft’s Revocation of the Verisign Class 3 Public Primary G5 Root Cert](https://airlockdigital.com/microsofts-revocation-of-the-verisign-class-3-public-primary-certification-authority-g5-root-certificate/)
 * [2023-08-24, 14:02:12](https://news.ycombinator.com/item?id=37248895) - [Hugging Face raises $235M from investors including Salesforce and Nvidia](https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/)
 * [2023-08-24, 13:57:57](https://news.ycombinator.com/item?id=37248844) - [Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding/)
-* [2023-08-24, 13:52:53](https://news.ycombinator.com/item?id=37248781) - [Rust 1.72.0](https://blog.rust-lang.org/2023/08/24/Rust-1.72.0.html)
 * [2023-08-24, 13:44:48](https://news.ycombinator.com/item?id=37248694) - [Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://arxiv.org/abs/2308.09687)
 * [2023-08-24, 12:54:22](https://news.ycombinator.com/item?id=37248189) - [New ancient ape from Türkiye challenges the story of human origins](https://phys.org/news/2023-08-ancient-ape-trkiye-story-human.html)
 * [2023-08-24, 12:28:55](https://news.ycombinator.com/item?id=37248002) - [Ask HN: Where do I find good code to read?](https://news.ycombinator.com/item?id=37248002)
