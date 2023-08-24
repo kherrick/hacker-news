@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-24, 08:01:29](https://news.ycombinator.com/item?id=37246195) - [Dutch e-bike maker VanMoof goes bankrupt, leaving riders stranded](https://www.npr.org/2023/08/23/1195201692/vanmoof-ebikes-bankrupt-netherlands)
-* [2023-08-24, 08:00:30](https://news.ycombinator.com/item?id=37246193) - [Danish cloud host says customers ‘lost all data’ after ransomware attack](https://techcrunch.com/2023/08/23/cloudnordic-azero-cloud-host-ransomware/)
 * [2023-08-24, 06:16:08](https://news.ycombinator.com/item?id=37245593) - [Kellogg’s is going to war over Mexico’s nutrition label rules](https://www.statnews.com/2023/08/21/kelloggs-mexico-nutrition-label/)
 * [2023-08-24, 05:53:40](https://news.ycombinator.com/item?id=37245473) - [Open source LLM with 32k Context Length](https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/)
 * [2023-08-24, 04:57:34](https://news.ycombinator.com/item?id=37245171) - [Show HN: Automate complicated manual business processes](https://www.tooljet.com/workflows)
@@ -16,7 +15,9 @@
 * [2023-08-23, 17:02:18](https://news.ycombinator.com/item?id=37238976) - [Aptible (YC S14) Is Hiring: Security Compliance Manager, Product-Led Sales Lead](https://www.aptible.com/culture-hub/careers)
 * [2023-08-23, 16:12:27](https://news.ycombinator.com/item?id=37238254) - [SeaGlass: City-Wide IMSI-Catcher Detection (2017)](https://seaglass.cs.washington.edu/)
 * [2023-08-23, 15:28:45](https://news.ycombinator.com/item?id=37237583) - [AI real-time human full-body photo generator](https://generated.photos/human-generator/)
-* [2023-08-23, 02:54:33](https://news.ycombinator.com/item?id=37231347) - [An interpreter for a programming language based on Spotify playlists](https://github.com/h313/spet)
+* [2023-08-23, 14:01:18](https://news.ycombinator.com/item?id=37236027) - [ChatGPT turned generative AI into an “anything tool”](https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/)
+* [2023-08-23, 10:30:23](https://news.ycombinator.com/item?id=37233936) - [Chandrayaan-3 Soft-landing [video]](https://www.isro.gov.in/LIVE_telecast_of_Soft_landing.html)
+* [2023-08-23, 10:26:19](https://news.ycombinator.com/item?id=37233902) - [Add dir=“auto” to your inputs and textareas](https://mough.xyz/312/psa-add-dir-auto-to-your-inputs-and-textareas)
 * [2023-08-23, 02:04:16](https://news.ycombinator.com/item?id=37231025) - [PreTeXt: Write Once Read Anywhere Authoring and Publishing System](https://pretextbook.org/)
 * [2023-08-22, 19:42:08](https://news.ycombinator.com/item?id=37227606) - [On keeping sketchbooks](https://attainablefelicity.mattkirkland.com/20230822/Sketchbooks.html)
 * [2023-08-22, 18:39:30](https://news.ycombinator.com/item?id=37226879) - [Against Automaticity](https://carcinisation.com/2023/08/22/against-automaticity/)
@@ -29,7 +30,6 @@
 * [2023-08-21, 21:03:13](https://news.ycombinator.com/item?id=37215331) - [The Simplest Walking Robot: A bipedal robot with 1 actuator and 2 rigid bodies](https://arxiv.org/abs/2308.08401)
 * [2023-08-21, 20:13:09](https://news.ycombinator.com/item?id=37214742) - [Blog-cells: Interactive code cells for static sites](https://rameshvarun.github.io/blog-cells/)
 * [2023-08-21, 20:09:20](https://news.ycombinator.com/item?id=37214693) - [Cosmological time dilation in the early Universe](https://www.advancedsciencenews.com/time-ran-slowly-in-the-early-universe-just-as-einstein-predicted/)
-* [2023-08-21, 19:46:42](https://news.ycombinator.com/item?id=37214408) - [Welsh Is a Language for Science](https://www.cardiff.ac.uk/news/view/2733589-welsh-is-a-language-for-science)
 
 ## [Archives](archives/index.md)
 
