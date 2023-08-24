@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-24](index.md)
 
+* [2023-08-24, 21:57:25](https://news.ycombinator.com/item?id=37255079) - [Proof-of-Work Defense for Onion Services](https://blog.torproject.org/introducing-proof-of-work-defense-for-onion-services/)
 * [2023-08-24, 21:51:28](https://news.ycombinator.com/item?id=37255022) - [SQLite 3.43.0 Released](https://sqlite.org/releaselog/3_43_0.html)
+* [2023-08-24, 21:32:46](https://news.ycombinator.com/item?id=37254823) - [Runme – Interactive Runbooks Built with Markdown](https://runme.dev/)
 * [2023-08-24, 21:29:01](https://news.ycombinator.com/item?id=37254772) - [The longest word you can type on the first row of a QWERTY keyboard](https://rubenerd.com/the-longest-word-you-can-type-on-the-first-row/)
 * [2023-08-24, 21:19:45](https://news.ycombinator.com/item?id=37254685) - [Zoom’s CEO thinks Zoom sucks for building trust, leaked audio reveals](https://arstechnica.com/tech-policy/2023/08/leaked-audio-reveals-zoom-ceo-believes-its-hard-to-build-trust-on-zoom/)
 * [2023-08-24, 21:15:53](https://news.ycombinator.com/item?id=37254644) - [Fox TV license renewal may be in jeopardy as FCC invites public response](https://arstechnica.com/tech-policy/2023/08/petition-to-deny-fox-tv-license-over-false-election-info-gains-steam-at-fcc/)
