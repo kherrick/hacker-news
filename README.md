@@ -1,14 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-24, 02:53:12](https://news.ycombinator.com/item?id=37244503) - [Print(“lol”) doubled the speed of my Go function](https://medium.com/@ludirehak/printing-lol-doubled-the-speed-of-my-go-code-e32e02fc3f92)
 * [2023-08-24, 02:14:02](https://news.ycombinator.com/item?id=37244292) - [So Long, Twitter and Reddit](https://andrewkelley.me/post/goodbye-twitter-reddit.html)
 * [2023-08-24, 01:21:02](https://news.ycombinator.com/item?id=37244012) - [Bun v0.8](https://bun.sh/blog/bun-v0.8.0)
 * [2023-08-24, 00:37:58](https://news.ycombinator.com/item?id=37243751) - [Use web components for what they’re good at](https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/)
-* [2023-08-24, 00:05:47](https://news.ycombinator.com/item?id=37243527) - [The median return of 2022's SPAC mergers: -82%](https://pranshum.yarn.tech/24dade67-68e3-4e18-b597-94acfab46a61)
 * [2023-08-23, 23:39:11](https://news.ycombinator.com/item?id=37243354) - [Princeton ‘AI Snake Oil’ authors say GenAI hype has ‘spiraled out of control’](https://venturebeat.com/ai/princeton-university-ai-snake-oil-professors-say-generative-ai-hype-has-spiraled-out-of-control/)
 * [2023-08-23, 20:41:01](https://news.ycombinator.com/item?id=37241625) - [Pytudes](https://github.com/norvig/pytudes)
 * [2023-08-23, 20:35:33](https://news.ycombinator.com/item?id=37241601) - [Life on board a British nuclear submarine (2012)](https://www.theguardian.com/uk/2012/aug/21/life-on-board-nuclear-submarine)
 * [2023-08-23, 20:24:40](https://news.ycombinator.com/item?id=37241487) - [Nvidia Announces Financial Results for Second Quarter Fiscal 2024](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2024)
-* [2023-08-23, 19:02:55](https://news.ycombinator.com/item?id=37240681) - [The Early History of Counting](https://www.laphamsquarterly.org/roundtable/early-history-counting)
 * [2023-08-23, 18:38:56](https://news.ycombinator.com/item?id=37240363) - [Show HN: Dataherald AI – Natural Language to SQL Engine](https://github.com/Dataherald/dataherald)
 * [2023-08-23, 18:12:25](https://news.ycombinator.com/item?id=37239979) - [HashiCorp switching to BSL shows a need for open charter companies](https://opencoreventures.com/blog/2023-08-23-hashicorp-switching-bsl-shows-need-for-open-charter-companies/)
 * [2023-08-23, 17:56:15](https://news.ycombinator.com/item?id=37239747) - [Common mistakes in salary negotiation](https://interviewing.io/blog/sabotage-salary-negotiation-before-even-start)
@@ -29,6 +28,7 @@
 * [2023-08-21, 22:55:25](https://news.ycombinator.com/item?id=37216455) - [The History of Windows 2.0](https://www.abortretry.fail/p/the-history-of-windows-20)
 * [2023-08-21, 22:52:38](https://news.ycombinator.com/item?id=37216424) - [The Fandomization of News](https://www.theverge.com/23836187/gen-z-news-creator-sourcing-tiktok-instagram-lil-tay)
 * [2023-08-21, 21:03:13](https://news.ycombinator.com/item?id=37215331) - [The Simplest Walking Robot: A bipedal robot with 1 actuator and 2 rigid bodies](https://arxiv.org/abs/2308.08401)
+* [2023-08-21, 20:09:20](https://news.ycombinator.com/item?id=37214693) - [Time ran slowly in the early Universe, just as Einstein predicted](https://www.advancedsciencenews.com/time-ran-slowly-in-the-early-universe-just-as-einstein-predicted/)
 * [2023-08-21, 19:46:42](https://news.ycombinator.com/item?id=37214408) - [Welsh Is a Language for Science](https://www.cardiff.ac.uk/news/view/2733589-welsh-is-a-language-for-science)
 
 ## [Archives](archives/index.md)

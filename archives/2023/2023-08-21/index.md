@@ -23,6 +23,7 @@
 * [2023-08-21, 20:57:23](https://news.ycombinator.com/item?id=37215246) - [SolarPi experiment 2: Finally something that works](http://blog.rfox.eu/en/Hardware/SolarPi_experiment_2_Finally_something_that_works.html)
 * [2023-08-21, 20:26:31](https://news.ycombinator.com/item?id=37214898) - [Kullback–Leibler Divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)
 * [2023-08-21, 20:12:40](https://news.ycombinator.com/item?id=37214733) - [Google Pixel Binary Transparency: verifiable security for Pixel devices](https://security.googleblog.com/2023/08/pixel-binary-transparency-verifiable.html)
+* [2023-08-21, 20:09:20](https://news.ycombinator.com/item?id=37214693) - [Time ran slowly in the early Universe, just as Einstein predicted](https://www.advancedsciencenews.com/time-ran-slowly-in-the-early-universe-just-as-einstein-predicted/)
 * [2023-08-21, 19:46:42](https://news.ycombinator.com/item?id=37214408) - [Welsh Is a Language for Science](https://www.cardiff.ac.uk/news/view/2733589-welsh-is-a-language-for-science)
 * [2023-08-21, 19:41:39](https://news.ycombinator.com/item?id=37214342) - [Why Open Source?](https://getconvoy.io/blog/why-open-source/)
 * [2023-08-21, 19:40:15](https://news.ycombinator.com/item?id=37214321) - [Top Ten Most Frequent DNS Test Failures](https://dnsinstitute.com/research/2022/ten-common-failures-202204.html)
