@@ -15,6 +15,7 @@
 * [2023-08-24, 13:41:01](https://news.ycombinator.com/item?id=37248652) - [Camera Crushes Lidar, Claims Startup](https://spectrum.ieee.org/camera-crushes-lidar)
 * [2023-08-24, 13:13:04](https://news.ycombinator.com/item?id=37248353) - [I Won't Deliberately Use AI for Programming](https://www.mahdikarimi.com/blog/why-i-wont-use-ai-deliberately)
 * [2023-08-24, 13:05:01](https://news.ycombinator.com/item?id=37248293) - [BillaBear – v1.1 – Subscription Management and Billing](https://github.com/billabear/billabear/releases/tag/v1.1.0)
+* [2023-08-24, 12:54:22](https://news.ycombinator.com/item?id=37248189) - [New ancient ape from Türkiye challenges the story of human origins](https://phys.org/news/2023-08-ancient-ape-trkiye-story-human.html)
 * [2023-08-24, 12:28:55](https://news.ycombinator.com/item?id=37248002) - [Ask HN: Where do I find good code to read?](https://news.ycombinator.com/item?id=37248002)
 * [2023-08-24, 12:10:41](https://news.ycombinator.com/item?id=37247879) - [Learn the basics of digital electronics with the hands-on Logic Lab kit](http://www.technoblogy.com/show?4FFY)
 * [2023-08-24, 11:53:07](https://news.ycombinator.com/item?id=37247754) - [Haskell Researchers Announce Discovery of Industry Programmer Who Gives a Shit](http://steve-yegge.blogspot.com/2010/12/haskell-researchers-announce-discovery.html)
