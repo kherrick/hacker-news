@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-24](index.md)
 
+* [2023-08-24, 15:02:56](https://news.ycombinator.com/item?id=37249623) - [Bypassing Bitlocker using a cheap logic analyzer on a Lenovo laptop](https://www.errno.fr/BypassingBitlocker.html)
 * [2023-08-24, 14:26:40](https://news.ycombinator.com/item?id=37249110) - [No app, no entry: How the digital world is failing the non tech-savvy](https://www.theguardian.com/technology/2023/aug/20/no-app-no-entry-how-the-digital-world-is-failing-the-non-tech-savvy)
 * [2023-08-24, 14:25:08](https://news.ycombinator.com/item?id=37249096) - [Microsoft’s Revocation of the Verisign Class 3 Public Primary G5 Root Cert](https://airlockdigital.com/microsofts-revocation-of-the-verisign-class-3-public-primary-certification-authority-g5-root-certificate/)
 * [2023-08-24, 14:07:42](https://news.ycombinator.com/item?id=37248949) - [The AI Porn Marketplace Where Everything and Everyone Is for Sale](https://www.404media.co/inside-the-ai-porn-marketplace-where-everything-and-everyone-is-for-sale/)
