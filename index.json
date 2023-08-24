@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-08-24, 14:02:51",
-      "https://news.ycombinator.com/item?id=37248900"
-    ],
-    [
-      "Meta launches own AI code-writing tool: Code Llama",
-      "https://www.theverge.com/2023/8/24/23843487/meta-llama-code-generation-generative-ai-llm"
-    ]
-  ],
-  [
-    [
       "2023-08-24, 14:02:12",
       "https://news.ycombinator.com/item?id=37248895"
     ],
@@ -75,8 +65,8 @@
       "https://news.ycombinator.com/item?id=37248844"
     ],
     [
-      "Code Llama, an AI tool for coding",
-      "https://about.fb.com/news/2023/08/code-llama-ai-for-coding/"
+      "Code Llama, a state-of-the-art large language model for coding",
+      "https://ai.meta.com/blog/code-llama-large-language-model-coding/"
     ]
   ],
   [
@@ -97,16 +87,6 @@
     [
       "Graph of Thoughts: Solving Elaborate Problems with Large Language Models",
       "https://arxiv.org/abs/2308.09687"
-    ]
-  ],
-  [
-    [
-      "2023-08-24, 13:41:01",
-      "https://news.ycombinator.com/item?id=37248652"
-    ],
-    [
-      "Camera Crushes Lidar, Claims Startup",
-      "https://spectrum.ieee.org/camera-crushes-lidar"
     ]
   ],
   [
@@ -155,7 +135,7 @@
       "https://news.ycombinator.com/item?id=37247275"
     ],
     [
-      "Show HN: I built this Postgres logger for you guys to check out",
+      "Show HN: I built this Postgres logger",
       "https://rocketgraph.io/logger-demo"
     ]
   ],
@@ -191,12 +171,32 @@
   ],
   [
     [
+      "2023-08-24, 04:21:47",
+      "https://news.ycombinator.com/item?id=37244971"
+    ],
+    [
+      "Understanding Percentiles (2021)",
+      "https://blog.shalvah.me/posts/understanding-percentiles"
+    ]
+  ],
+  [
+    [
       "2023-08-24, 01:21:02",
       "https://news.ycombinator.com/item?id=37244012"
     ],
     [
       "Bun v0.8",
       "https://bun.sh/blog/bun-v0.8.0"
+    ]
+  ],
+  [
+    [
+      "2023-08-23, 20:41:01",
+      "https://news.ycombinator.com/item?id=37241625"
+    ],
+    [
+      "Pytudes",
+      "https://github.com/norvig/pytudes"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=37231276"
     ],
     [
-      "'Screen Apnea'",
+      "Screen Apnea",
       "https://www.nytimes.com/2023/08/21/well/live/screen-apnea-breathing.html"
     ]
   ],
