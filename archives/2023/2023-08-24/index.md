@@ -12,6 +12,7 @@
 * [2023-08-24, 14:02:12](https://news.ycombinator.com/item?id=37248895) - [Hugging Face raises $235M from investors including Salesforce and Nvidia](https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/)
 * [2023-08-24, 14:01:02](https://news.ycombinator.com/item?id=37248882) - [The curious ways your skin shapes your health](https://www.bbc.com/future/article/20230823-the-curious-ways-your-skin-shapes-your-health)
 * [2023-08-24, 13:57:57](https://news.ycombinator.com/item?id=37248844) - [Code Llama, an AI Tool for Coding](https://about.fb.com/news/2023/08/code-llama-ai-for-coding/)
+* [2023-08-24, 13:57:57](https://news.ycombinator.com/item?id=37248844) - [Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding/)
 * [2023-08-24, 13:52:53](https://news.ycombinator.com/item?id=37248781) - [Rust 1.72.0](https://blog.rust-lang.org/2023/08/24/Rust-1.72.0.html)
 * [2023-08-24, 13:49:17](https://news.ycombinator.com/item?id=37248748) - [Most of My Instagram Ads Are for Drugs, Stolen Credit Cards, Hacked Accounts](https://www.404media.co/instagram-ads-illegal-content-drugs-guns-hackers/)
 * [2023-08-24, 13:44:48](https://news.ycombinator.com/item?id=37248694) - [Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://arxiv.org/abs/2308.09687)
