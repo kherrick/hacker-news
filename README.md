@@ -4,7 +4,7 @@
 * [2023-08-24, 18:07:16](https://news.ycombinator.com/item?id=37252472) - [A New Physics Theory of Life](https://www.quantamagazine.org/a-new-thermodynamics-theory-of-the-origin-of-life-20140122/)
 * [2023-08-24, 17:50:58](https://news.ycombinator.com/item?id=37252258) - [Corrupted Blood Incident](https://en.wikipedia.org/wiki/Corrupted_Blood_incident)
 * [2023-08-24, 17:49:04](https://news.ycombinator.com/item?id=37252231) - [Show HN: Shimmer – ADHD coaching for adults, now on web](https://www.shimmer.care/blog/web-launch-adhd-coaching)
-* [2023-08-24, 17:36:22](https://news.ycombinator.com/item?id=37252025) - [How Artificial Intelligence Gave a Paralyzed Woman Her Voice Back](https://www.ucsf.edu/news/2023/08/425986/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back)
+* [2023-08-24, 17:36:22](https://news.ycombinator.com/item?id=37252025) - [Artificial intelligence gave a paralyzed woman her voice back](https://www.ucsf.edu/news/2023/08/425986/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back)
 * [2023-08-24, 17:33:12](https://news.ycombinator.com/item?id=37251969) - [Show HN: Use Code Llama as Drop-In Replacement for Copilot Chat](https://continue.dev/docs/walkthroughs/codellama)
 * [2023-08-24, 17:32:59](https://news.ycombinator.com/item?id=37251964) - [Barbara: Live Coding Languages for Quilters](https://www.barbara.graphics/)
 * [2023-08-24, 16:58:57](https://news.ycombinator.com/item?id=37251411) - [LANDrop – Drop any files to any devices on your LAN](https://landrop.app/)
