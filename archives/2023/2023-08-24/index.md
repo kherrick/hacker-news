@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-08-24](index.md)
 
+* [2023-08-24, 19:46:42](https://news.ycombinator.com/item?id=37253685) - [Firefox users may import Chrome extensions now](https://www.ghacks.net/2023/08/23/firefox-users-may-import-chrome-extensions-now/)
 * [2023-08-24, 18:52:46](https://news.ycombinator.com/item?id=37253035) - [FreeBSD on Firecracker](https://www.usenix.org/publications/loginonline/freebsd-firecracker)
+* [2023-08-24, 18:52:04](https://news.ycombinator.com/item?id=37253026) - [Better.com stock gets clobbered as it begins trading publicly down more than 93%](https://www.fastcompany.com/90944558/better-stock-down-public-betr-nasdaq)
 * [2023-08-24, 18:07:16](https://news.ycombinator.com/item?id=37252472) - [A New Physics Theory of Life](https://www.quantamagazine.org/a-new-thermodynamics-theory-of-the-origin-of-life-20140122/)
+* [2023-08-24, 17:56:10](https://news.ycombinator.com/item?id=37252334) - [Bram Moolenaar's programming language, Zimbu](https://thenewstack.io/vim-creator-bram-moolenaars-forgotten-programming-language-zimbu/)
 * [2023-08-24, 17:50:58](https://news.ycombinator.com/item?id=37252258) - [Corrupted Blood Incident](https://en.wikipedia.org/wiki/Corrupted_Blood_incident)
 * [2023-08-24, 17:49:04](https://news.ycombinator.com/item?id=37252231) - [Show HN: Shimmer – ADHD coaching for adults, now on web](https://www.shimmer.care/blog/web-launch-adhd-coaching)
 * [2023-08-24, 17:41:32](https://news.ycombinator.com/item?id=37252110) - [Zoom CEO reportedly to staff: Workers can't build trust or collaborate.. on Zoom](https://www.theregister.com/2023/08/24/zoom_ceo_says_hard_to_build_trust_collaborate_on_zoom/)
