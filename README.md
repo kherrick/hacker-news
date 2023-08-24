@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-24, 05:18:47](https://news.ycombinator.com/item?id=37245300) - [Japan starts release of Fukushima’s treated radioactive water](https://www.aljazeera.com/news/2023/8/24/japan-prepares-to-start-release-of-fukushima-radioactive-water)
 * [2023-08-24, 02:53:12](https://news.ycombinator.com/item?id=37244503) - [Print(“lol”) doubled the speed of my Go function](https://medium.com/@ludirehak/printing-lol-doubled-the-speed-of-my-go-code-e32e02fc3f92)
 * [2023-08-24, 01:21:02](https://news.ycombinator.com/item?id=37244012) - [Bun v0.8](https://bun.sh/blog/bun-v0.8.0)
 * [2023-08-24, 00:37:58](https://news.ycombinator.com/item?id=37243751) - [Use web components for what they’re good at](https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/)
@@ -29,7 +30,6 @@
 * [2023-08-21, 22:51:25](https://news.ycombinator.com/item?id=37216412) - [The Antagonists: The rise and fall of type-in text games](https://if50.substack.com/p/the-antagonists)
 * [2023-08-21, 21:03:13](https://news.ycombinator.com/item?id=37215331) - [The Simplest Walking Robot: A bipedal robot with 1 actuator and 2 rigid bodies](https://arxiv.org/abs/2308.08401)
 * [2023-08-21, 20:09:20](https://news.ycombinator.com/item?id=37214693) - [Time ran slowly in the early Universe, just as Einstein predicted](https://www.advancedsciencenews.com/time-ran-slowly-in-the-early-universe-just-as-einstein-predicted/)
-* [2023-08-21, 19:46:42](https://news.ycombinator.com/item?id=37214408) - [Welsh Is a Language for Science](https://www.cardiff.ac.uk/news/view/2733589-welsh-is-a-language-for-science)
 
 ## [Archives](archives/index.md)
 
