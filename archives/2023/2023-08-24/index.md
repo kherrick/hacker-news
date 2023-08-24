@@ -6,6 +6,7 @@
 
 * [2023-08-24, 16:15:07](https://news.ycombinator.com/item?id=37250677) - [New Windows updates cause UNSUPPORTED_PROCESSOR blue screens](https://www.bleepingcomputer.com/news/microsoft/new-windows-updates-cause-unsupported-processor-blue-screens/)
 * [2023-08-24, 16:10:41](https://news.ycombinator.com/item?id=37250615) - [Crypto has amplified, not reduced, financial risks in less developed economies](https://www.ft.com/content/dc6d7505-03b5-4cc2-8fc9-6e3ea2efa63a)
+* [2023-08-24, 16:02:45](https://news.ycombinator.com/item?id=37250491) - [AI Business Toolkit](https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fai-business.streamlit.app%2F)
 * [2023-08-24, 15:58:50](https://news.ycombinator.com/item?id=37250434) - [Climate change: Thousands of penguins die in Antarctic ice breakup](https://www.bbc.com/news/science-environment-66492767)
 * [2023-08-24, 15:55:33](https://news.ycombinator.com/item?id=37250388) - [DOJ Sues SpaceX for Discriminating Against Asylees and Refugees in Hiring](https://www.justice.gov/opa/pr/justice-department-sues-spacex-discriminating-against-asylees-and-refugees-hiring)
 * [2023-08-24, 15:54:47](https://news.ycombinator.com/item?id=37250373) - [A single weekly bout of exercise may reduce cardiovascular mortality (2006)](https://academic.oup.com/eurjpc/article/13/5/798/5933265)
@@ -33,6 +34,7 @@
 * [2023-08-24, 12:54:22](https://news.ycombinator.com/item?id=37248189) - [New ancient ape from Türkiye challenges the story of human origins](https://phys.org/news/2023-08-ancient-ape-trkiye-story-human.html)
 * [2023-08-24, 12:28:55](https://news.ycombinator.com/item?id=37248002) - [Ask HN: Where do I find good code to read?](https://news.ycombinator.com/item?id=37248002)
 * [2023-08-24, 12:10:41](https://news.ycombinator.com/item?id=37247879) - [Learn the basics of digital electronics with the hands-on Logic Lab kit](http://www.technoblogy.com/show?4FFY)
+* [2023-08-24, 11:55:04](https://news.ycombinator.com/item?id=37247767) - [Show HN: Open-source obsidian.md sync server](https://news.ycombinator.com/item?id=37247767)
 * [2023-08-24, 11:53:07](https://news.ycombinator.com/item?id=37247754) - [Haskell Researchers Announce Discovery of Industry Programmer Who Gives a Shit](http://steve-yegge.blogspot.com/2010/12/haskell-researchers-announce-discovery.html)
 * [2023-08-24, 11:20:45](https://news.ycombinator.com/item?id=37247548) - [ELI5: Why are 11 and 12 called eleven and twelve and not oneteen and twoteen?](https://old.reddit.com/r/explainlikeimfive/comments/15zuitf/eli5_why_are_11_and_12_called_eleven_ant_twelve/)
 * [2023-08-24, 10:59:20](https://news.ycombinator.com/item?id=37247394) - [Jacobin: Minimal JVM written in Go and capable of running Java 17 classes](https://jacobin.org/)
