@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-24, 20:44:22](https://news.ycombinator.com/item?id=37254294) - [Threads.net Can Go to Hell](https://lapcatsoftware.com/articles/2023/8/4.html)
 * [2023-08-24, 20:08:38](https://news.ycombinator.com/item?id=37253897) - [$528M Antarctic icebreaker too big to fit under Tasman bridge to refuel](https://www.theguardian.com/australia-news/2023/aug/24/australias-528m-antarctic-icebreaker-too-big-to-fit-under-tasman-bridge-to-refuel)
 * [2023-08-24, 19:46:42](https://news.ycombinator.com/item?id=37253685) - [Firefox users may import Chrome extensions now](https://www.ghacks.net/2023/08/23/firefox-users-may-import-chrome-extensions-now/)
 * [2023-08-24, 18:52:46](https://news.ycombinator.com/item?id=37253035) - [FreeBSD on Firecracker](https://www.usenix.org/publications/loginonline/freebsd-firecracker)
@@ -27,7 +28,6 @@
 * [2023-08-24, 10:59:20](https://news.ycombinator.com/item?id=37247394) - [Jacobin: A more than minimal JVM written in Go](https://jacobin.org/)
 * [2023-08-24, 09:51:17](https://news.ycombinator.com/item?id=37246932) - [Leaving Haskell behind](https://journal.infinitenegativeutility.com/leaving-haskell-behind)
 * [2023-08-24, 06:04:03](https://news.ycombinator.com/item?id=37245530) - [The Dilemma of Icons](https://fairpixelsco.medium.com/icons-a-dilemma-of-design-and-meaning-1bf40eba1079)
-* [2023-08-24, 00:25:54](https://news.ycombinator.com/item?id=37243673) - [The Invention of a Neighborhood](https://www.newyorker.com/magazine/2023/08/28/boerum-hill-brooklyn-gentrification-jonathan-lethem)
 * [2023-08-23, 13:06:31](https://news.ycombinator.com/item?id=37235242) - [Spanish astronomer discovers new active galaxy](https://phys.org/news/2023-08-spanish-astronomer-galaxy.html)
 * [2023-08-23, 02:42:18](https://news.ycombinator.com/item?id=37231276) - [Screen Apnea](https://www.nytimes.com/2023/08/21/well/live/screen-apnea-breathing.html)
 

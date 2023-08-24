@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-24](index.md)
 
+* [2023-08-24, 20:44:22](https://news.ycombinator.com/item?id=37254294) - [Threads.net Can Go to Hell](https://lapcatsoftware.com/articles/2023/8/4.html)
 * [2023-08-24, 20:08:38](https://news.ycombinator.com/item?id=37253897) - [$528M Antarctic icebreaker too big to fit under Tasman bridge to refuel](https://www.theguardian.com/australia-news/2023/aug/24/australias-528m-antarctic-icebreaker-too-big-to-fit-under-tasman-bridge-to-refuel)
 * [2023-08-24, 19:46:42](https://news.ycombinator.com/item?id=37253685) - [Firefox users may import Chrome extensions now](https://www.ghacks.net/2023/08/23/firefox-users-may-import-chrome-extensions-now/)
 * [2023-08-24, 18:52:46](https://news.ycombinator.com/item?id=37253035) - [FreeBSD on Firecracker](https://www.usenix.org/publications/loginonline/freebsd-firecracker)
