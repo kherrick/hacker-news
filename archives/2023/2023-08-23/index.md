@@ -96,6 +96,7 @@
 * [2023-08-23, 02:56:52](https://news.ycombinator.com/item?id=37231354) - [The World's Oldest Photograph](https://www.artandobject.com/news/what-you-might-not-know-about-worlds-oldest-photograph)
 * [2023-08-23, 02:54:33](https://news.ycombinator.com/item?id=37231347) - [An interpreter for a programming language based on Spotify playlists](https://github.com/h313/spet)
 * [2023-08-23, 02:53:21](https://news.ycombinator.com/item?id=37231342) - [I didn't write any JavaScript, and other shortcuts](https://csvbase.com/blog/4)
+* [2023-08-23, 02:42:18](https://news.ycombinator.com/item?id=37231276) - ['Screen Apnea'](https://www.nytimes.com/2023/08/21/well/live/screen-apnea-breathing.html)
 * [2023-08-23, 02:40:55](https://news.ycombinator.com/item?id=37231273) - [Modern Computer Architecture and Organization: Learn x86, ARM, and RISC-V](https://www.packtpub.com/product/modern-computer-architecture-and-organization-second-edition/9781803234519)
 * [2023-08-23, 02:23:48](https://news.ycombinator.com/item?id=37231179) - [A fungeoid is a typically multi-dimensional language similar to Befunge](https://esolangs.org/wiki/Fungeoid)
 * [2023-08-23, 02:20:07](https://news.ycombinator.com/item?id=37231148) - [Visualizing the mysterious: Quantum entanglement photons captured in real-time](https://phys.org/news/2023-08-visualizing-mysterious-quantum-entanglement-photons.amp)

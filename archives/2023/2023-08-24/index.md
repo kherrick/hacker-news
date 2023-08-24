@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-24](index.md)
 
+* [2023-08-24, 12:28:55](https://news.ycombinator.com/item?id=37248002) - [Ask HN: Where do I find good code to read?](https://news.ycombinator.com/item?id=37248002)
+* [2023-08-24, 12:10:41](https://news.ycombinator.com/item?id=37247879) - [Learn the basics of digital electronics with the hands-on Logic Lab kit](http://www.technoblogy.com/show?4FFY)
 * [2023-08-24, 10:41:47](https://news.ycombinator.com/item?id=37247275) - [Show HN: I built this Postgres logger for you guys to check out](https://rocketgraph.io/logger-demo)
 * [2023-08-24, 09:51:17](https://news.ycombinator.com/item?id=37246932) - [Leaving Haskell Behind](https://journal.infinitenegativeutility.com/leaving-haskell-behind)
 * [2023-08-24, 09:51:02](https://news.ycombinator.com/item?id=37246928) - [Apple’s treatment of small games developer makes a textbook antitrust case](https://9to5mac.com/2023/08/23/textbook-antitrust-case/)
