@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
+* [2023-08-23, 23:39:11](https://news.ycombinator.com/item?id=37243354) - [Princeton ‘AI Snake Oil’ authors say GenAI hype has ‘spiraled out of control’](https://venturebeat.com/ai/princeton-university-ai-snake-oil-professors-say-generative-ai-hype-has-spiraled-out-of-control/)
+* [2023-08-23, 23:15:58](https://news.ycombinator.com/item?id=37243171) - [Show HN: Chat with GPT about medical issues, get answers from medical literature](https://github.com/clint-llm/clint-llm.github.io)
 * [2023-08-23, 22:24:25](https://news.ycombinator.com/item?id=37242651) - [BioWare is laying off 50 employees](https://blog.bioware.com/2023/08/23/an-update-on-the-state-of-bioware/)
 * [2023-08-23, 22:13:58](https://news.ycombinator.com/item?id=37242545) - [Zoom CEO says employees can't be as innovative or get to know each other on Zoom](https://www.businessinsider.com/zoom-ceo-employees-return-to-office-2023-8)
 * [2023-08-23, 21:24:39](https://news.ycombinator.com/item?id=37242043) - [Tornado Cash devs charged with laundering more than $1B](https://www.theverge.com/2023/8/23/23843161/tornado-cash-indictment-conspiracy-north-korea-money-laundering)
 * [2023-08-23, 21:13:12](https://news.ycombinator.com/item?id=37241906) - [Backblaze Product and Pricing Updates](https://www.backblaze.com/blog/2023-product-announcement/)
 * [2023-08-23, 21:01:56](https://news.ycombinator.com/item?id=37241809) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2023-08-23, 20:41:01](https://news.ycombinator.com/item?id=37241625) - [Pytudes](https://github.com/norvig/pytudes)
 * [2023-08-23, 20:35:33](https://news.ycombinator.com/item?id=37241601) - [Life on board a British nuclear submarine](https://www.theguardian.com/uk/2012/aug/21/life-on-board-nuclear-submarine)
 * [2023-08-23, 20:31:52](https://news.ycombinator.com/item?id=37241566) - [Nvidia reports 88% jump in revenue and tops estimates](https://www.cnbc.com/2023/08/23/nvidia-nvda-earnings-report-q2-2024.html)
 * [2023-08-23, 20:25:29](https://news.ycombinator.com/item?id=37241498) - [Nvidia Announces Financial Results for Second Quarter Fiscal 2024](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2024)
