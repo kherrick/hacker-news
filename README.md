@@ -16,6 +16,7 @@
 * [2023-08-24, 13:44:48](https://news.ycombinator.com/item?id=37248694) - [Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://arxiv.org/abs/2308.09687)
 * [2023-08-24, 13:26:45](https://news.ycombinator.com/item?id=37248494) - [Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding/)
 * [2023-08-24, 12:54:22](https://news.ycombinator.com/item?id=37248189) - [New ancient ape from Türkiye challenges the story of human origins](https://phys.org/news/2023-08-ancient-ape-trkiye-story-human.html)
+* [2023-08-24, 12:30:28](https://news.ycombinator.com/item?id=37248020) - [Visual Introduction to Hash-Array Mapped Tries (HAMTs)](https://photonlines.substack.com/p/grokking-hash-array-mapped-tries)
 * [2023-08-24, 12:28:55](https://news.ycombinator.com/item?id=37248002) - [Ask HN: Where do I find good code to read?](https://news.ycombinator.com/item?id=37248002)
 * [2023-08-24, 12:10:41](https://news.ycombinator.com/item?id=37247879) - [Logic Lab](http://www.technoblogy.com/show?4FFY)
 * [2023-08-24, 11:55:04](https://news.ycombinator.com/item?id=37247767) - [Show HN: Open-source obsidian.md sync server](https://news.ycombinator.com/item?id=37247767)
@@ -28,7 +29,6 @@
 * [2023-08-23, 13:06:31](https://news.ycombinator.com/item?id=37235242) - [Spanish astronomer discovers new active galaxy](https://phys.org/news/2023-08-spanish-astronomer-galaxy.html)
 * [2023-08-23, 02:42:18](https://news.ycombinator.com/item?id=37231276) - [Screen Apnea](https://www.nytimes.com/2023/08/21/well/live/screen-apnea-breathing.html)
 * [2023-08-21, 22:58:59](https://news.ycombinator.com/item?id=37216489) - [Inside the JVM: Arrays](https://blogs.oracle.com/javamagazine/post/java-array-objects)
-* [2023-08-21, 22:51:25](https://news.ycombinator.com/item?id=37216412) - [The Antagonists: The rise and fall of type-in text games](https://if50.substack.com/p/the-antagonists)
 * [2023-08-21, 20:13:09](https://news.ycombinator.com/item?id=37214742) - [Blog-cells: Interactive code cells for static sites](https://rameshvarun.github.io/blog-cells/)
 
 ## [Archives](archives/index.md)
