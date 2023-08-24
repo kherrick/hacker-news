@@ -82,6 +82,7 @@
 * [2023-08-24, 06:16:08](https://news.ycombinator.com/item?id=37245593) - [Kellogg’s is going to war over Mexico’s nutrition label rules](https://www.statnews.com/2023/08/21/kelloggs-mexico-nutrition-label/)
 * [2023-08-24, 06:04:03](https://news.ycombinator.com/item?id=37245530) - [The Dilemma of Icons](https://fairpixelsco.medium.com/icons-a-dilemma-of-design-and-meaning-1bf40eba1079)
 * [2023-08-24, 05:53:40](https://news.ycombinator.com/item?id=37245473) - [Open source LLM with 32k Context Length](https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/)
+* [2023-08-24, 05:35:46](https://news.ycombinator.com/item?id=37245383) - [Domain Repetition](https://iquilezles.org/articles/sdfrepetition/)
 * [2023-08-24, 05:18:47](https://news.ycombinator.com/item?id=37245300) - [Japan starts release of Fukushima’s treated radioactive water](https://www.aljazeera.com/news/2023/8/24/japan-prepares-to-start-release-of-fukushima-radioactive-water)
 * [2023-08-24, 04:57:34](https://news.ycombinator.com/item?id=37245171) - [Show HN: Automate complicated manual business processes](https://www.tooljet.com/workflows)
 * [2023-08-24, 04:46:23](https://news.ycombinator.com/item?id=37245109) - [Distributed Consensus](https://shachaf.net/w/consensus)

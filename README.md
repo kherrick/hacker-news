@@ -4,7 +4,6 @@
 * [2023-08-24, 21:51:28](https://news.ycombinator.com/item?id=37255022) - [SQLite 3.43.0 Released](https://sqlite.org/releaselog/3_43_0.html)
 * [2023-08-24, 21:32:46](https://news.ycombinator.com/item?id=37254823) - [Runme – Interactive Runbooks Built with Markdown](https://runme.dev/)
 * [2023-08-24, 21:29:01](https://news.ycombinator.com/item?id=37254772) - [The longest word you can type on the first row of a QWERTY keyboard](https://rubenerd.com/the-longest-word-you-can-type-on-the-first-row/)
-* [2023-08-24, 21:19:45](https://news.ycombinator.com/item?id=37254685) - [Zoom’s CEO thinks Zoom sucks for building trust, leaked audio reveals](https://arstechnica.com/tech-policy/2023/08/leaked-audio-reveals-zoom-ceo-believes-its-hard-to-build-trust-on-zoom/)
 * [2023-08-24, 21:02:21](https://news.ycombinator.com/item?id=37254510) - [Maccarone: AI-managed code blocks in Python](https://github.com/bsilverthorn/maccarone)
 * [2023-08-24, 20:34:32](https://news.ycombinator.com/item?id=37254198) - [Amazon Honeycode Shutting Down](https://honeycodecommunity.aws/c/announcements/7)
 * [2023-08-24, 18:52:46](https://news.ycombinator.com/item?id=37253035) - [FreeBSD on Firecracker](https://www.usenix.org/publications/loginonline/freebsd-firecracker)
@@ -28,6 +27,7 @@
 * [2023-08-24, 10:59:20](https://news.ycombinator.com/item?id=37247394) - [Jacobin: A more than minimal JVM written in Go](https://jacobin.org/)
 * [2023-08-24, 09:51:17](https://news.ycombinator.com/item?id=37246932) - [Leaving Haskell behind](https://journal.infinitenegativeutility.com/leaving-haskell-behind)
 * [2023-08-24, 06:04:03](https://news.ycombinator.com/item?id=37245530) - [The Dilemma of Icons](https://fairpixelsco.medium.com/icons-a-dilemma-of-design-and-meaning-1bf40eba1079)
+* [2023-08-24, 05:35:46](https://news.ycombinator.com/item?id=37245383) - [Domain Repetition](https://iquilezles.org/articles/sdfrepetition/)
 * [2023-08-24, 04:46:23](https://news.ycombinator.com/item?id=37245109) - [Distributed Consensus](https://shachaf.net/w/consensus)
 * [2023-08-23, 13:06:31](https://news.ycombinator.com/item?id=37235242) - [Spanish astronomer discovers new active galaxy](https://phys.org/news/2023-08-spanish-astronomer-galaxy.html)
 
