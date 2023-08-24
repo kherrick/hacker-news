@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-24](index.md)
 
 * [2023-08-24, 17:49:04](https://news.ycombinator.com/item?id=37252231) - [Show HN: Shimmer – ADHD coaching for adults, now on web](https://www.shimmer.care/blog/web-launch-adhd-coaching)
+* [2023-08-24, 17:41:32](https://news.ycombinator.com/item?id=37252110) - [Zoom CEO reportedly to staff: Workers can't build trust or collaborate.. on Zoom](https://www.theregister.com/2023/08/24/zoom_ceo_says_hard_to_build_trust_collaborate_on_zoom/)
 * [2023-08-24, 17:36:22](https://news.ycombinator.com/item?id=37252025) - [How Artificial Intelligence Gave a Paralyzed Woman Her Voice Back](https://www.ucsf.edu/news/2023/08/425986/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back)
 * [2023-08-24, 17:33:12](https://news.ycombinator.com/item?id=37251969) - [Show HN: Use Code Llama as Drop-In Replacement for Copilot Chat](https://continue.dev/docs/walkthroughs/codellama)
 * [2023-08-24, 17:27:20](https://news.ycombinator.com/item?id=37251871) - [Population ecologist warns humanity is on verge of population correction](https://phys.org/news/2023-08-population-ecologist-humanity-verge-massive.html)

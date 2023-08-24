@@ -1,14 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-24, 17:49:04](https://news.ycombinator.com/item?id=37252231) - [Show HN: Shimmer – ADHD coaching for adults, now on web](https://www.shimmer.care/blog/web-launch-adhd-coaching)
+* [2023-08-24, 17:41:32](https://news.ycombinator.com/item?id=37252110) - [Zoom CEO reportedly to staff: Workers can't build trust or collaborate.. on Zoom](https://www.theregister.com/2023/08/24/zoom_ceo_says_hard_to_build_trust_collaborate_on_zoom/)
 * [2023-08-24, 17:36:22](https://news.ycombinator.com/item?id=37252025) - [How Artificial Intelligence Gave a Paralyzed Woman Her Voice Back](https://www.ucsf.edu/news/2023/08/425986/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back)
 * [2023-08-24, 17:33:12](https://news.ycombinator.com/item?id=37251969) - [Show HN: Use Code Llama as Drop-In Replacement for Copilot Chat](https://continue.dev/docs/walkthroughs/codellama)
 * [2023-08-24, 17:01:49](https://news.ycombinator.com/item?id=37251466) - [Show HN: Adapt Copilot to Your Goals](https://docs.flux.ai/tutorials/adapt-copilot-to-your-goals)
 * [2023-08-24, 16:25:48](https://news.ycombinator.com/item?id=37250834) - [Hacker News Guidelines](https://news.ycombinator.com/newsguidelines.html)
 * [2023-08-24, 16:24:54](https://news.ycombinator.com/item?id=37250821) - [Build a chatbot with custom data sources, powered by LlamaIndex](https://blog.streamlit.io/build-a-chatbot-with-custom-data-sources-powered-by-llamaindex/)
-* [2023-08-24, 16:15:07](https://news.ycombinator.com/item?id=37250677) - [New Windows updates cause UNSUPPORTED_PROCESSOR blue screens](https://www.bleepingcomputer.com/news/microsoft/new-windows-updates-cause-unsupported-processor-blue-screens/)
 * [2023-08-24, 16:02:45](https://news.ycombinator.com/item?id=37250491) - [AI Business Toolkit](https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fai-business.streamlit.app%2F)
-* [2023-08-24, 15:55:33](https://news.ycombinator.com/item?id=37250388) - [DOJ sues SpaceX for discriminating against asylees and refugees in hiring](https://www.justice.gov/opa/pr/justice-department-sues-spacex-discriminating-against-asylees-and-refugees-hiring)
 * [2023-08-24, 15:54:47](https://news.ycombinator.com/item?id=37250373) - [A single weekly bout of exercise may reduce cardiovascular mortality (2006)](https://academic.oup.com/eurjpc/article/13/5/798/5933265)
 * [2023-08-24, 15:02:56](https://news.ycombinator.com/item?id=37249623) - [Bypassing Bitlocker using a cheap logic analyzer on a Lenovo laptop](https://www.errno.fr/BypassingBitlocker.html)
 * [2023-08-24, 14:51:49](https://news.ycombinator.com/item?id=37249442) - [Adding water to Martian soil samples might have been a bad idea](https://daily.jstor.org/we-might-have-accidentally-killed-the-only-life-we-ever-found-on-mars/)
@@ -29,6 +28,7 @@
 * [2023-08-23, 13:06:31](https://news.ycombinator.com/item?id=37235242) - [Spanish astronomer discovers new active galaxy](https://phys.org/news/2023-08-spanish-astronomer-galaxy.html)
 * [2023-08-23, 02:42:18](https://news.ycombinator.com/item?id=37231276) - [Screen Apnea](https://www.nytimes.com/2023/08/21/well/live/screen-apnea-breathing.html)
 * [2023-08-21, 22:58:59](https://news.ycombinator.com/item?id=37216489) - [Inside the JVM: Arrays](https://blogs.oracle.com/javamagazine/post/java-array-objects)
+* [2023-08-21, 22:51:25](https://news.ycombinator.com/item?id=37216412) - [The Antagonists: The rise and fall of type-in text games](https://if50.substack.com/p/the-antagonists)
 * [2023-08-21, 20:13:09](https://news.ycombinator.com/item?id=37214742) - [Blog-cells: Interactive code cells for static sites](https://rameshvarun.github.io/blog-cells/)
 
 ## [Archives](archives/index.md)
