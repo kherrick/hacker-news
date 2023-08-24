@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-24](index.md)
 
+* [2023-08-24, 16:25:48](https://news.ycombinator.com/item?id=37250834) - [Hacker News Guidelines](https://news.ycombinator.com/newsguidelines.html)
+* [2023-08-24, 16:25:31](https://news.ycombinator.com/item?id=37250828) - [Toward AGI – What Is Missing?](https://mark-riedl.medium.com/toward-agi-what-is-missing-c2f0d878471a)
+* [2023-08-24, 16:24:54](https://news.ycombinator.com/item?id=37250821) - [Build a chatbot with custom data sources, powered by LlamaIndex](https://blog.streamlit.io/build-a-chatbot-with-custom-data-sources-powered-by-llamaindex/)
 * [2023-08-24, 16:15:07](https://news.ycombinator.com/item?id=37250677) - [New Windows updates cause UNSUPPORTED_PROCESSOR blue screens](https://www.bleepingcomputer.com/news/microsoft/new-windows-updates-cause-unsupported-processor-blue-screens/)
 * [2023-08-24, 16:10:41](https://news.ycombinator.com/item?id=37250615) - [Crypto has amplified, not reduced, financial risks in less developed economies](https://www.ft.com/content/dc6d7505-03b5-4cc2-8fc9-6e3ea2efa63a)
 * [2023-08-24, 16:02:45](https://news.ycombinator.com/item?id=37250491) - [AI Business Toolkit](https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fai-business.streamlit.app%2F)
