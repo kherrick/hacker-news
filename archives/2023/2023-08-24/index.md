@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-24](index.md)
 
+* [2023-08-24, 06:16:08](https://news.ycombinator.com/item?id=37245593) - [Kellogg’s is going to war over Mexico’s nutrition label rules](https://www.statnews.com/2023/08/21/kelloggs-mexico-nutrition-label/)
 * [2023-08-24, 05:53:40](https://news.ycombinator.com/item?id=37245473) - [Open source LLM with 32k Context Length](https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/)
 * [2023-08-24, 05:18:47](https://news.ycombinator.com/item?id=37245300) - [Japan starts release of Fukushima’s treated radioactive water](https://www.aljazeera.com/news/2023/8/24/japan-prepares-to-start-release-of-fukushima-radioactive-water)
 * [2023-08-24, 04:57:34](https://news.ycombinator.com/item?id=37245171) - [Show HN: Automate complicated manual business processes](https://www.tooljet.com/workflows)

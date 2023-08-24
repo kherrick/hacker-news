@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-24, 06:16:08](https://news.ycombinator.com/item?id=37245593) - [Kellogg’s is going to war over Mexico’s nutrition label rules](https://www.statnews.com/2023/08/21/kelloggs-mexico-nutrition-label/)
 * [2023-08-24, 05:53:40](https://news.ycombinator.com/item?id=37245473) - [Open source LLM with 32k Context Length](https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/)
 * [2023-08-24, 04:57:34](https://news.ycombinator.com/item?id=37245171) - [Show HN: Automate complicated manual business processes](https://www.tooljet.com/workflows)
 * [2023-08-24, 02:53:12](https://news.ycombinator.com/item?id=37244503) - [Print(“lol”) doubled the speed of my Go function](https://medium.com/@ludirehak/printing-lol-doubled-the-speed-of-my-go-code-e32e02fc3f92)
 * [2023-08-24, 01:21:02](https://news.ycombinator.com/item?id=37244012) - [Bun v0.8](https://bun.sh/blog/bun-v0.8.0)
-* [2023-08-24, 00:37:58](https://news.ycombinator.com/item?id=37243751) - [Use web components for what they’re good at](https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/)
 * [2023-08-23, 20:41:01](https://news.ycombinator.com/item?id=37241625) - [Pytudes](https://github.com/norvig/pytudes)
 * [2023-08-23, 20:35:33](https://news.ycombinator.com/item?id=37241601) - [Life on board a British nuclear submarine (2012)](https://www.theguardian.com/uk/2012/aug/21/life-on-board-nuclear-submarine)
 * [2023-08-23, 20:24:40](https://news.ycombinator.com/item?id=37241487) - [Nvidia announces financial results for second quarter fiscal 2024](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2024)
@@ -12,7 +12,6 @@
 * [2023-08-23, 18:38:56](https://news.ycombinator.com/item?id=37240363) - [Show HN: Dataherald AI – Natural Language to SQL Engine](https://github.com/Dataherald/dataherald)
 * [2023-08-23, 18:12:25](https://news.ycombinator.com/item?id=37239979) - [HashiCorp switching to BSL shows a need for open charter companies](https://opencoreventures.com/blog/2023-08-23-hashicorp-switching-bsl-shows-need-for-open-charter-companies/)
 * [2023-08-23, 17:56:15](https://news.ycombinator.com/item?id=37239747) - [Common mistakes in salary negotiation](https://interviewing.io/blog/sabotage-salary-negotiation-before-even-start)
-* [2023-08-23, 17:02:18](https://news.ycombinator.com/item?id=37238976) - [Aptible (YC S14) Is Hiring: Security Compliance Manager, Product-Led Sales Lead](https://www.aptible.com/culture-hub/careers)
 * [2023-08-23, 16:12:27](https://news.ycombinator.com/item?id=37238254) - [SeaGlass: City-Wide IMSI-Catcher Detection (2017)](https://seaglass.cs.washington.edu/)
 * [2023-08-23, 15:28:45](https://news.ycombinator.com/item?id=37237583) - [AI real-time human full-body photo generator](https://generated.photos/human-generator/)
 * [2023-08-23, 14:01:18](https://news.ycombinator.com/item?id=37236027) - [ChatGPT turned generative AI into an “anything tool”](https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/)
@@ -30,6 +29,7 @@
 * [2023-08-21, 22:51:25](https://news.ycombinator.com/item?id=37216412) - [The Antagonists: The rise and fall of type-in text games](https://if50.substack.com/p/the-antagonists)
 * [2023-08-21, 21:03:13](https://news.ycombinator.com/item?id=37215331) - [The Simplest Walking Robot: A bipedal robot with 1 actuator and 2 rigid bodies](https://arxiv.org/abs/2308.08401)
 * [2023-08-21, 20:09:20](https://news.ycombinator.com/item?id=37214693) - [Cosmological time dilation in the early Universe](https://www.advancedsciencenews.com/time-ran-slowly-in-the-early-universe-just-as-einstein-predicted/)
+* [2023-08-21, 19:46:42](https://news.ycombinator.com/item?id=37214408) - [Welsh Is a Language for Science](https://www.cardiff.ac.uk/news/view/2733589-welsh-is-a-language-for-science)
 
 ## [Archives](archives/index.md)
 
