@@ -76,6 +76,7 @@
 * [2023-08-24, 05:53:40](https://news.ycombinator.com/item?id=37245473) - [Open source LLM with 32k Context Length](https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/)
 * [2023-08-24, 05:18:47](https://news.ycombinator.com/item?id=37245300) - [Japan starts release of Fukushima’s treated radioactive water](https://www.aljazeera.com/news/2023/8/24/japan-prepares-to-start-release-of-fukushima-radioactive-water)
 * [2023-08-24, 04:57:34](https://news.ycombinator.com/item?id=37245171) - [Show HN: Automate complicated manual business processes](https://www.tooljet.com/workflows)
+* [2023-08-24, 04:46:23](https://news.ycombinator.com/item?id=37245109) - [Distributed Consensus](https://shachaf.net/w/consensus)
 * [2023-08-24, 04:30:04](https://news.ycombinator.com/item?id=37245008) - [It's Getting Too Hot for Tropical Trees to Photosynthesize, Scientists Warn](https://www.vice.com/en/article/v7bzpy/its-getting-too-hot-for-tropical-trees-to-photosynthesize-scientists-warn)
 * [2023-08-24, 04:21:47](https://news.ycombinator.com/item?id=37244971) - [Understanding Percentiles](https://blog.shalvah.me/posts/understanding-percentiles)
 * [2023-08-24, 03:06:41](https://news.ycombinator.com/item?id=37244564) - [Atari games like it's 1980 with “faithful recreation” of Atari 2600 console](https://newatlas.com/games/plaion-atari-2600-plus-console/)
