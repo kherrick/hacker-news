@@ -12,7 +12,7 @@
 * [2023-08-23, 18:38:56](https://news.ycombinator.com/item?id=37240363) - [Show HN: Dataherald AI – Natural Language to SQL Engine](https://github.com/Dataherald/dataherald)
 * [2023-08-23, 18:12:25](https://news.ycombinator.com/item?id=37239979) - [HashiCorp switching to BSL shows a need for open charter companies](https://opencoreventures.com/blog/2023-08-23-hashicorp-switching-bsl-shows-need-for-open-charter-companies/)
 * [2023-08-23, 17:56:15](https://news.ycombinator.com/item?id=37239747) - [Common mistakes in salary negotiation](https://interviewing.io/blog/sabotage-salary-negotiation-before-even-start)
-* [2023-08-23, 16:38:13](https://news.ycombinator.com/item?id=37238648) - [Show HN: Gentrace – evaluation and observability for generative AI](https://gentrace.ai)
+* [2023-08-23, 17:02:18](https://news.ycombinator.com/item?id=37238976) - [Aptible (YC S14) Is Hiring: Security Compliance Manager, Product-Led Sales Lead](https://www.aptible.com/culture-hub/careers)
 * [2023-08-23, 16:12:27](https://news.ycombinator.com/item?id=37238254) - [SeaGlass: City-Wide IMSI-Catcher Detection (2017)](https://seaglass.cs.washington.edu/)
 * [2023-08-23, 15:28:45](https://news.ycombinator.com/item?id=37237583) - [AI real-time human full-body photo generator](https://generated.photos/human-generator/)
 * [2023-08-23, 14:01:18](https://news.ycombinator.com/item?id=37236027) - [ChatGPT turned generative AI into an “anything tool”](https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/)
