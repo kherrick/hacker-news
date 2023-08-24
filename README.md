@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-24, 08:01:29](https://news.ycombinator.com/item?id=37246195) - [Dutch e-bike maker VanMoof goes bankrupt, leaving riders stranded](https://www.npr.org/2023/08/23/1195201692/vanmoof-ebikes-bankrupt-netherlands)
-* [2023-08-24, 06:16:08](https://news.ycombinator.com/item?id=37245593) - [Kellogg’s is going to war over Mexico’s nutrition label rules](https://www.statnews.com/2023/08/21/kelloggs-mexico-nutrition-label/)
+* [2023-08-24, 08:37:27](https://news.ycombinator.com/item?id=37246416) - [Apparatus for facilitating the birth of a child by centrifugal force](https://patents.google.com/patent/US3216423A/en)
 * [2023-08-24, 05:53:40](https://news.ycombinator.com/item?id=37245473) - [Open source LLM with 32k Context Length](https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/)
 * [2023-08-24, 04:57:34](https://news.ycombinator.com/item?id=37245171) - [Show HN: Automate complicated manual business processes](https://www.tooljet.com/workflows)
 * [2023-08-24, 02:53:12](https://news.ycombinator.com/item?id=37244503) - [Print(“lol”) doubled the speed of my Go function](https://medium.com/@ludirehak/printing-lol-doubled-the-speed-of-my-go-code-e32e02fc3f92)
 * [2023-08-24, 01:21:02](https://news.ycombinator.com/item?id=37244012) - [Bun v0.8](https://bun.sh/blog/bun-v0.8.0)
+* [2023-08-24, 00:37:58](https://news.ycombinator.com/item?id=37243751) - [Use web components for what they’re good at](https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/)
 * [2023-08-23, 20:41:01](https://news.ycombinator.com/item?id=37241625) - [Pytudes](https://github.com/norvig/pytudes)
 * [2023-08-23, 20:35:33](https://news.ycombinator.com/item?id=37241601) - [Life on board a British nuclear submarine (2012)](https://www.theguardian.com/uk/2012/aug/21/life-on-board-nuclear-submarine)
 * [2023-08-23, 20:24:40](https://news.ycombinator.com/item?id=37241487) - [Nvidia announces financial results for second quarter fiscal 2024](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2024)
