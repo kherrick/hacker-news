@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-24](index.md)
 
+* [2023-08-24, 22:17:18](https://news.ycombinator.com/item?id=37255280) - [An image preprocessing tool to protect artworks from AI-for-Art based mimicry](https://mist-project.github.io/index_en.html)
 * [2023-08-24, 21:57:25](https://news.ycombinator.com/item?id=37255079) - [Proof-of-Work Defense for Onion Services](https://blog.torproject.org/introducing-proof-of-work-defense-for-onion-services/)
 * [2023-08-24, 21:51:28](https://news.ycombinator.com/item?id=37255022) - [SQLite 3.43.0 Released](https://sqlite.org/releaselog/3_43_0.html)
 * [2023-08-24, 21:32:46](https://news.ycombinator.com/item?id=37254823) - [Runme – Interactive Runbooks Built with Markdown](https://runme.dev/)

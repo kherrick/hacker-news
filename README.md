@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-24, 22:17:18](https://news.ycombinator.com/item?id=37255280) - [An image preprocessing tool to protect artworks from AI-for-Art based mimicry](https://mist-project.github.io/index_en.html)
 * [2023-08-24, 21:57:25](https://news.ycombinator.com/item?id=37255079) - [Proof-of-Work Defense for Onion Services](https://blog.torproject.org/introducing-proof-of-work-defense-for-onion-services/)
-* [2023-08-24, 21:51:28](https://news.ycombinator.com/item?id=37255022) - [SQLite 3.43.0 Released](https://sqlite.org/releaselog/3_43_0.html)
+* [2023-08-24, 21:51:28](https://news.ycombinator.com/item?id=37255022) - [SQLite 3.43](https://sqlite.org/releaselog/3_43_0.html)
 * [2023-08-24, 21:32:46](https://news.ycombinator.com/item?id=37254823) - [Runme – Interactive Runbooks Built with Markdown](https://runme.dev/)
 * [2023-08-24, 21:29:01](https://news.ycombinator.com/item?id=37254772) - [The longest word you can type on the first row of a QWERTY keyboard](https://rubenerd.com/the-longest-word-you-can-type-on-the-first-row/)
 * [2023-08-24, 21:02:21](https://news.ycombinator.com/item?id=37254510) - [Maccarone: AI-managed code blocks in Python](https://github.com/bsilverthorn/maccarone)
@@ -15,7 +16,6 @@
 * [2023-08-24, 16:58:57](https://news.ycombinator.com/item?id=37251411) - [LANDrop – Drop any files to any devices on your LAN](https://landrop.app/)
 * [2023-08-24, 16:25:48](https://news.ycombinator.com/item?id=37250834) - [Hacker News Guidelines](https://news.ycombinator.com/newsguidelines.html)
 * [2023-08-24, 15:02:56](https://news.ycombinator.com/item?id=37249623) - [Bypassing Bitlocker using a cheap logic analyzer on a Lenovo laptop](https://www.errno.fr/BypassingBitlocker.html)
-* [2023-08-24, 14:51:49](https://news.ycombinator.com/item?id=37249442) - [Adding water to Martian soil samples might have been a bad idea](https://daily.jstor.org/we-might-have-accidentally-killed-the-only-life-we-ever-found-on-mars/)
 * [2023-08-24, 14:01:02](https://news.ycombinator.com/item?id=37248882) - [Skin health can be used to predict a number of seemingly unconnected factors](https://www.bbc.com/future/article/20230823-the-curious-ways-your-skin-shapes-your-health)
 * [2023-08-24, 13:44:48](https://news.ycombinator.com/item?id=37248694) - [Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://arxiv.org/abs/2308.09687)
 * [2023-08-24, 13:26:45](https://news.ycombinator.com/item?id=37248494) - [Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding/)
