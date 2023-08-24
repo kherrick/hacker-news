@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2023-08-23, 10:30:23",
-      "https://news.ycombinator.com/item?id=37233936"
-    ],
-    [
-      "Chandrayaan-3 Soft-landing [video]",
-      "https://www.isro.gov.in/LIVE_telecast_of_Soft_landing.html"
-    ]
-  ],
-  [
-    [
       "2023-08-23, 02:54:33",
       "https://news.ycombinator.com/item?id=37231347"
     ],
@@ -277,6 +267,16 @@
     [
       "The Simplest Walking Robot: A bipedal robot with 1 actuator and 2 rigid bodies",
       "https://arxiv.org/abs/2308.08401"
+    ]
+  ],
+  [
+    [
+      "2023-08-21, 20:13:09",
+      "https://news.ycombinator.com/item?id=37214742"
+    ],
+    [
+      "Blog-cells: Interactive code cells for static sites",
+      "https://rameshvarun.github.io/blog-cells/"
     ]
   ],
   [
