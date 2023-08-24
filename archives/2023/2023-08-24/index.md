@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-24](index.md)
 
 * [2023-08-24, 14:26:40](https://news.ycombinator.com/item?id=37249110) - [No app, no entry: How the digital world is failing the non tech-savvy](https://www.theguardian.com/technology/2023/aug/20/no-app-no-entry-how-the-digital-world-is-failing-the-non-tech-savvy)
+* [2023-08-24, 14:25:08](https://news.ycombinator.com/item?id=37249096) - [Microsoft’s Revocation of the Verisign Class 3 Public Primary G5 Root Cert](https://airlockdigital.com/microsofts-revocation-of-the-verisign-class-3-public-primary-certification-authority-g5-root-certificate/)
 * [2023-08-24, 14:07:42](https://news.ycombinator.com/item?id=37248949) - [The AI Porn Marketplace Where Everything and Everyone Is for Sale](https://www.404media.co/inside-the-ai-porn-marketplace-where-everything-and-everyone-is-for-sale/)
 * [2023-08-24, 14:02:12](https://news.ycombinator.com/item?id=37248895) - [Hugging Face raises $235M from investors including Salesforce and Nvidia](https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/)
 * [2023-08-24, 14:01:02](https://news.ycombinator.com/item?id=37248882) - [The curious ways your skin shapes your health](https://www.bbc.com/future/article/20230823-the-curious-ways-your-skin-shapes-your-health)

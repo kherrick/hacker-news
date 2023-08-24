@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-24, 14:26:40](https://news.ycombinator.com/item?id=37249110) - [No app, no entry: How the digital world is failing the non tech-savvy](https://www.theguardian.com/technology/2023/aug/20/no-app-no-entry-how-the-digital-world-is-failing-the-non-tech-savvy)
+* [2023-08-24, 14:25:08](https://news.ycombinator.com/item?id=37249096) - [Microsoft’s Revocation of the Verisign Class 3 Public Primary G5 Root Cert](https://airlockdigital.com/microsofts-revocation-of-the-verisign-class-3-public-primary-certification-authority-g5-root-certificate/)
 * [2023-08-24, 14:07:42](https://news.ycombinator.com/item?id=37248949) - [Inside the AI porn marketplace](https://www.404media.co/inside-the-ai-porn-marketplace-where-everything-and-everyone-is-for-sale/)
 * [2023-08-24, 14:02:12](https://news.ycombinator.com/item?id=37248895) - [Hugging Face raises $235M from investors including Salesforce and Nvidia](https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/)
 * [2023-08-24, 14:01:02](https://news.ycombinator.com/item?id=37248882) - [The curious ways your skin shapes your health](https://www.bbc.com/future/article/20230823-the-curious-ways-your-skin-shapes-your-health)
@@ -8,7 +9,6 @@
 * [2023-08-24, 13:52:53](https://news.ycombinator.com/item?id=37248781) - [Rust 1.72.0](https://blog.rust-lang.org/2023/08/24/Rust-1.72.0.html)
 * [2023-08-24, 13:44:48](https://news.ycombinator.com/item?id=37248694) - [Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://arxiv.org/abs/2308.09687)
 * [2023-08-24, 13:41:01](https://news.ycombinator.com/item?id=37248652) - [Camera Crushes Lidar, Claims Startup](https://spectrum.ieee.org/camera-crushes-lidar)
-* [2023-08-24, 13:05:01](https://news.ycombinator.com/item?id=37248293) - [BillaBear – v1.1 – Subscription Management and Billing](https://github.com/billabear/billabear/releases/tag/v1.1.0)
 * [2023-08-24, 12:54:22](https://news.ycombinator.com/item?id=37248189) - [New ancient ape from Türkiye challenges the story of human origins](https://phys.org/news/2023-08-ancient-ape-trkiye-story-human.html)
 * [2023-08-24, 12:10:41](https://news.ycombinator.com/item?id=37247879) - [Logic Lab](http://www.technoblogy.com/show?4FFY)
 * [2023-08-24, 10:59:20](https://news.ycombinator.com/item?id=37247394) - [Jacobin: Minimal JVM written in Go and capable of running Java 17 classes](https://jacobin.org/)
