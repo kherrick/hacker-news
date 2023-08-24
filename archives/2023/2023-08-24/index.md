@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-08-24](index.md)
 
+* [2023-08-24, 14:07:42](https://news.ycombinator.com/item?id=37248949) - [The AI Porn Marketplace Where Everything and Everyone Is for Sale](https://www.404media.co/inside-the-ai-porn-marketplace-where-everything-and-everyone-is-for-sale/)
+* [2023-08-24, 13:49:17](https://news.ycombinator.com/item?id=37248748) - [Most of My Instagram Ads Are for Drugs, Stolen Credit Cards, Hacked Accounts](https://www.404media.co/instagram-ads-illegal-content-drugs-guns-hackers/)
+* [2023-08-24, 13:44:48](https://news.ycombinator.com/item?id=37248694) - [Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://arxiv.org/abs/2308.09687)
 * [2023-08-24, 13:13:04](https://news.ycombinator.com/item?id=37248353) - [I Won't Deliberately Use AI for Programming](https://www.mahdikarimi.com/blog/why-i-wont-use-ai-deliberately)
+* [2023-08-24, 13:05:01](https://news.ycombinator.com/item?id=37248293) - [BillaBear – v1.1 – Subscription Management and Billing](https://github.com/billabear/billabear/releases/tag/v1.1.0)
 * [2023-08-24, 12:28:55](https://news.ycombinator.com/item?id=37248002) - [Ask HN: Where do I find good code to read?](https://news.ycombinator.com/item?id=37248002)
 * [2023-08-24, 12:10:41](https://news.ycombinator.com/item?id=37247879) - [Learn the basics of digital electronics with the hands-on Logic Lab kit](http://www.technoblogy.com/show?4FFY)
 * [2023-08-24, 11:53:07](https://news.ycombinator.com/item?id=37247754) - [Haskell Researchers Announce Discovery of Industry Programmer Who Gives a Shit](http://steve-yegge.blogspot.com/2010/12/haskell-researchers-announce-discovery.html)
