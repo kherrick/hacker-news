@@ -10,6 +10,7 @@
 * [2023-08-24, 16:58:57](https://news.ycombinator.com/item?id=37251411) - [LANDrop – Drop any files to any devices on your LAN](https://landrop.app/)
 * [2023-08-24, 16:25:48](https://news.ycombinator.com/item?id=37250834) - [Hacker News Guidelines](https://news.ycombinator.com/newsguidelines.html)
 * [2023-08-24, 16:24:54](https://news.ycombinator.com/item?id=37250821) - [Build a chatbot with custom data sources, powered by LlamaIndex](https://blog.streamlit.io/build-a-chatbot-with-custom-data-sources-powered-by-llamaindex/)
+* [2023-08-24, 16:15:07](https://news.ycombinator.com/item?id=37250677) - [New Windows updates cause UNSUPPORTED_PROCESSOR blue screens](https://www.bleepingcomputer.com/news/microsoft/new-windows-updates-cause-unsupported-processor-blue-screens/)
 * [2023-08-24, 16:02:45](https://news.ycombinator.com/item?id=37250491) - [AI Business Toolkit](https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fai-business.streamlit.app%2F)
 * [2023-08-24, 15:54:47](https://news.ycombinator.com/item?id=37250373) - [A single weekly bout of exercise may reduce cardiovascular mortality (2006)](https://academic.oup.com/eurjpc/article/13/5/798/5933265)
 * [2023-08-24, 15:02:56](https://news.ycombinator.com/item?id=37249623) - [Bypassing Bitlocker using a cheap logic analyzer on a Lenovo laptop](https://www.errno.fr/BypassingBitlocker.html)
@@ -28,7 +29,6 @@
 * [2023-08-24, 00:25:54](https://news.ycombinator.com/item?id=37243673) - [The Invention of a Neighborhood](https://www.newyorker.com/magazine/2023/08/28/boerum-hill-brooklyn-gentrification-jonathan-lethem)
 * [2023-08-23, 13:06:31](https://news.ycombinator.com/item?id=37235242) - [Spanish astronomer discovers new active galaxy](https://phys.org/news/2023-08-spanish-astronomer-galaxy.html)
 * [2023-08-23, 02:42:18](https://news.ycombinator.com/item?id=37231276) - [Screen Apnea](https://www.nytimes.com/2023/08/21/well/live/screen-apnea-breathing.html)
-* [2023-08-21, 22:58:59](https://news.ycombinator.com/item?id=37216489) - [Inside the JVM: Arrays](https://blogs.oracle.com/javamagazine/post/java-array-objects)
 * [2023-08-21, 20:13:09](https://news.ycombinator.com/item?id=37214742) - [Blog-cells: Interactive code cells for static sites](https://rameshvarun.github.io/blog-cells/)
 
 ## [Archives](archives/index.md)
