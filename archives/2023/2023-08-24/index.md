@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-08-24](index.md)
 
+* [2023-08-24, 16:15:07](https://news.ycombinator.com/item?id=37250677) - [New Windows updates cause UNSUPPORTED_PROCESSOR blue screens](https://www.bleepingcomputer.com/news/microsoft/new-windows-updates-cause-unsupported-processor-blue-screens/)
+* [2023-08-24, 16:10:41](https://news.ycombinator.com/item?id=37250615) - [Crypto has amplified, not reduced, financial risks in less developed economies](https://www.ft.com/content/dc6d7505-03b5-4cc2-8fc9-6e3ea2efa63a)
 * [2023-08-24, 15:58:50](https://news.ycombinator.com/item?id=37250434) - [Climate change: Thousands of penguins die in Antarctic ice breakup](https://www.bbc.com/news/science-environment-66492767)
 * [2023-08-24, 15:55:33](https://news.ycombinator.com/item?id=37250388) - [DOJ Sues SpaceX for Discriminating Against Asylees and Refugees in Hiring](https://www.justice.gov/opa/pr/justice-department-sues-spacex-discriminating-against-asylees-and-refugees-hiring)
+* [2023-08-24, 15:54:47](https://news.ycombinator.com/item?id=37250373) - [A single weekly bout of exercise may reduce cardiovascular mortality (2006)](https://academic.oup.com/eurjpc/article/13/5/798/5933265)
 * [2023-08-24, 15:36:50](https://news.ycombinator.com/item?id=37250094) - [Seafood banned after Japan starts releasing Fukushima nuclear wastewater](https://apnews.com/article/japan-fukushima-nuclear-radioactive-water-release-04d2423accd508e57afcd9e1eb6714ab)
 * [2023-08-24, 15:31:04](https://news.ycombinator.com/item?id=37249995) - [New flame retardants found in breast milk years after similar chemicals banned](https://text.npr.org/1194759795)
 * [2023-08-24, 15:02:56](https://news.ycombinator.com/item?id=37249623) - [Bypassing Bitlocker using a cheap logic analyzer on a Lenovo laptop](https://www.errno.fr/BypassingBitlocker.html)
