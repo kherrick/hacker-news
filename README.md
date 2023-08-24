@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-24, 10:41:47](https://news.ycombinator.com/item?id=37247275) - [Show HN: I built this Postgres logger for you guys to check out](https://rocketgraph.io/logger-demo)
 * [2023-08-24, 09:51:17](https://news.ycombinator.com/item?id=37246932) - [Leaving Haskell Behind](https://journal.infinitenegativeutility.com/leaving-haskell-behind)
 * [2023-08-24, 09:25:17](https://news.ycombinator.com/item?id=37246740) - [How Modern SQL Databases Are Changing Web Development: Part 1](https://blog.whimslab.io/how-modern-sql-databases-are-changing-web-development-4d1f15b0daea)
 * [2023-08-24, 08:37:27](https://news.ycombinator.com/item?id=37246416) - [Apparatus for facilitating the birth of a child by centrifugal force](https://patents.google.com/patent/US3216423A/en)
@@ -15,7 +16,6 @@
 * [2023-08-23, 16:12:27](https://news.ycombinator.com/item?id=37238254) - [SeaGlass: City-Wide IMSI-Catcher Detection (2017)](https://seaglass.cs.washington.edu/)
 * [2023-08-23, 15:28:45](https://news.ycombinator.com/item?id=37237583) - [AI real-time human full-body photo generator](https://generated.photos/human-generator/)
 * [2023-08-23, 14:01:18](https://news.ycombinator.com/item?id=37236027) - [ChatGPT turned generative AI into an “anything tool”](https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/)
-* [2023-08-23, 10:37:38](https://news.ycombinator.com/item?id=37233977) - [Growing scientific interest in vagus nerve stimulation](https://www.theguardian.com/society/2023/aug/23/the-key-to-depression-obesity-alcoholism-and-more-why-the-vagus-nerve-is-so-exciting-to-scientists)
 * [2023-08-23, 10:30:23](https://news.ycombinator.com/item?id=37233936) - [Chandrayaan-3 Soft-landing [video]](https://www.isro.gov.in/LIVE_telecast_of_Soft_landing.html)
 * [2023-08-23, 10:26:19](https://news.ycombinator.com/item?id=37233902) - [Add dir=“auto” to your inputs and textareas](https://mough.xyz/312/psa-add-dir-auto-to-your-inputs-and-textareas)
 * [2023-08-23, 06:51:04](https://news.ycombinator.com/item?id=37232626) - [Resistor–transistor logic](https://en.wikipedia.org/wiki/Resistor%E2%80%93transistor_logic)
