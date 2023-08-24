@@ -2,9 +2,8 @@
 
 * [2023-08-24, 10:41:47](https://news.ycombinator.com/item?id=37247275) - [Show HN: I built this Postgres logger for you guys to check out](https://rocketgraph.io/logger-demo)
 * [2023-08-24, 09:51:17](https://news.ycombinator.com/item?id=37246932) - [Leaving Haskell Behind](https://journal.infinitenegativeutility.com/leaving-haskell-behind)
-* [2023-08-24, 09:51:02](https://news.ycombinator.com/item?id=37246928) - [Apple’s treatment of small games developer makes a textbook antitrust case](https://9to5mac.com/2023/08/23/textbook-antitrust-case/)
 * [2023-08-24, 09:25:17](https://news.ycombinator.com/item?id=37246740) - [How Modern SQL Databases Are Changing Web Development: Part 1](https://blog.whimslab.io/how-modern-sql-databases-are-changing-web-development-4d1f15b0daea)
-* [2023-08-24, 08:37:27](https://news.ycombinator.com/item?id=37246416) - [Apparatus for facilitating the birth of a child by centrifugal force](https://patents.google.com/patent/US3216423A/en)
+* [2023-08-24, 08:37:27](https://news.ycombinator.com/item?id=37246416) - [Apparatus for facilitating the birth of a child by centrifugal force (1963)](https://patents.google.com/patent/US3216423A/en)
 * [2023-08-24, 05:53:40](https://news.ycombinator.com/item?id=37245473) - [Open source LLM with 32k Context Length](https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/)
 * [2023-08-24, 04:57:34](https://news.ycombinator.com/item?id=37245171) - [Show HN: Automate complicated manual business processes](https://www.tooljet.com/workflows)
 * [2023-08-24, 04:21:47](https://news.ycombinator.com/item?id=37244971) - [Understanding Percentiles](https://blog.shalvah.me/posts/understanding-percentiles)
@@ -16,6 +15,7 @@
 * [2023-08-23, 18:38:56](https://news.ycombinator.com/item?id=37240363) - [Show HN: Dataherald AI – Natural Language to SQL Engine](https://github.com/Dataherald/dataherald)
 * [2023-08-23, 16:12:27](https://news.ycombinator.com/item?id=37238254) - [SeaGlass: City-Wide IMSI-Catcher Detection (2017)](https://seaglass.cs.washington.edu/)
 * [2023-08-23, 15:28:45](https://news.ycombinator.com/item?id=37237583) - [AI real-time human full-body photo generator](https://generated.photos/human-generator/)
+* [2023-08-23, 14:01:18](https://news.ycombinator.com/item?id=37236027) - [ChatGPT turned generative AI into an “anything tool”](https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/)
 * [2023-08-23, 10:30:23](https://news.ycombinator.com/item?id=37233936) - [Chandrayaan-3 Soft-landing [video]](https://www.isro.gov.in/LIVE_telecast_of_Soft_landing.html)
 * [2023-08-23, 10:26:19](https://news.ycombinator.com/item?id=37233902) - [Add dir=“auto” to your inputs and textareas](https://mough.xyz/312/psa-add-dir-auto-to-your-inputs-and-textareas)
 * [2023-08-23, 06:51:04](https://news.ycombinator.com/item?id=37232626) - [Resistor–transistor logic](https://en.wikipedia.org/wiki/Resistor%E2%80%93transistor_logic)
