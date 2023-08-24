@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-24, 21:51:28](https://news.ycombinator.com/item?id=37255022) - [SQLite 3.43.0 Released](https://sqlite.org/releaselog/3_43_0.html)
 * [2023-08-24, 21:29:01](https://news.ycombinator.com/item?id=37254772) - [The longest word you can type on the first row of a QWERTY keyboard](https://rubenerd.com/the-longest-word-you-can-type-on-the-first-row/)
 * [2023-08-24, 21:19:45](https://news.ycombinator.com/item?id=37254685) - [Zoom’s CEO thinks Zoom sucks for building trust, leaked audio reveals](https://arstechnica.com/tech-policy/2023/08/leaked-audio-reveals-zoom-ceo-believes-its-hard-to-build-trust-on-zoom/)
+* [2023-08-24, 21:15:53](https://news.ycombinator.com/item?id=37254644) - [Fox TV license renewal may be in jeopardy as FCC invites public response](https://arstechnica.com/tech-policy/2023/08/petition-to-deny-fox-tv-license-over-false-election-info-gains-steam-at-fcc/)
 * [2023-08-24, 21:02:21](https://news.ycombinator.com/item?id=37254510) - [Maccarone: AI-managed code blocks in Python](https://github.com/bsilverthorn/maccarone)
 * [2023-08-24, 20:34:32](https://news.ycombinator.com/item?id=37254198) - [Amazon Honeycode Shutting Down](https://honeycodecommunity.aws/c/announcements/7)
-* [2023-08-24, 20:08:38](https://news.ycombinator.com/item?id=37253897) - [$528M Antarctic icebreaker too big to fit under Tasman bridge to refuel](https://www.theguardian.com/australia-news/2023/aug/24/australias-528m-antarctic-icebreaker-too-big-to-fit-under-tasman-bridge-to-refuel)
 * [2023-08-24, 18:52:46](https://news.ycombinator.com/item?id=37253035) - [FreeBSD on Firecracker](https://www.usenix.org/publications/loginonline/freebsd-firecracker)
 * [2023-08-24, 18:07:16](https://news.ycombinator.com/item?id=37252472) - [A New Physics Theory of Life (2014)](https://www.quantamagazine.org/a-new-thermodynamics-theory-of-the-origin-of-life-20140122/)
 * [2023-08-24, 17:59:31](https://news.ycombinator.com/item?id=37252384) - [Is there a fifth fundamental force of nature?](https://bigthink.com/starts-with-a-bang/5th-fundamental-force/)
@@ -28,7 +29,6 @@
 * [2023-08-24, 10:59:20](https://news.ycombinator.com/item?id=37247394) - [Jacobin: A more than minimal JVM written in Go](https://jacobin.org/)
 * [2023-08-24, 09:51:17](https://news.ycombinator.com/item?id=37246932) - [Leaving Haskell behind](https://journal.infinitenegativeutility.com/leaving-haskell-behind)
 * [2023-08-24, 06:04:03](https://news.ycombinator.com/item?id=37245530) - [The Dilemma of Icons](https://fairpixelsco.medium.com/icons-a-dilemma-of-design-and-meaning-1bf40eba1079)
-* [2023-08-24, 04:46:23](https://news.ycombinator.com/item?id=37245109) - [Distributed Consensus](https://shachaf.net/w/consensus)
 * [2023-08-23, 13:06:31](https://news.ycombinator.com/item?id=37235242) - [Spanish astronomer discovers new active galaxy](https://phys.org/news/2023-08-spanish-astronomer-galaxy.html)
 
 ## [Archives](archives/index.md)
