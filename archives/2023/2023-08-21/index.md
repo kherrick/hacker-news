@@ -8,6 +8,7 @@
 * [2023-08-21, 23:28:12](https://news.ycombinator.com/item?id=37216702) - [Automated assembly – molecular mechanisms from text mining and curated databases](https://www.embopress.org/doi/full/10.15252/msb.202211325)
 * [2023-08-21, 23:27:49](https://news.ycombinator.com/item?id=37216700) - [Why a highly mutated coronavirus variant has scientists on alert](https://www.nature.com/articles/d41586-023-02656-9)
 * [2023-08-21, 23:21:26](https://news.ycombinator.com/item?id=37216647) - [Growing share of Americans favor more nuclear power](https://www.pewresearch.org/short-reads/2023/08/18/growing-share-of-americans-favor-more-nuclear-power/)
+* [2023-08-21, 22:58:59](https://news.ycombinator.com/item?id=37216489) - [Inside the JVM: Arrays](https://blogs.oracle.com/javamagazine/post/java-array-objects)
 * [2023-08-21, 22:55:25](https://news.ycombinator.com/item?id=37216455) - [The History of Windows 2.0](https://www.abortretry.fail/p/the-history-of-windows-20)
 * [2023-08-21, 22:54:04](https://news.ycombinator.com/item?id=37216440) - [‘Here Begins the Dark Sea’ Review: A Map from the Future](https://www.wsj.com/arts-culture/books/here-begins-the-dark-sea-review-a-map-from-the-future-3b04d426)
 * [2023-08-21, 22:52:38](https://news.ycombinator.com/item?id=37216424) - [The Fandomization of News](https://www.theverge.com/23836187/gen-z-news-creator-sourcing-tiktok-instagram-lil-tay)
