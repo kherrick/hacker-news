@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-24, 03:06:41](https://news.ycombinator.com/item?id=37244564) - [Atari games like it's 1980 with “faithful recreation” of Atari 2600 console](https://newatlas.com/games/plaion-atari-2600-plus-console/)
 * [2023-08-24, 02:14:02](https://news.ycombinator.com/item?id=37244292) - [So Long, Twitter and Reddit](https://andrewkelley.me/post/goodbye-twitter-reddit.html)
 * [2023-08-24, 01:21:02](https://news.ycombinator.com/item?id=37244012) - [Bun v0.8](https://bun.sh/blog/bun-v0.8.0)
 * [2023-08-24, 00:37:58](https://news.ycombinator.com/item?id=37243751) - [Use web components for what they’re good at](https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/)
@@ -30,6 +29,7 @@
 * [2023-08-21, 22:55:25](https://news.ycombinator.com/item?id=37216455) - [The History of Windows 2.0](https://www.abortretry.fail/p/the-history-of-windows-20)
 * [2023-08-21, 22:52:38](https://news.ycombinator.com/item?id=37216424) - [The Fandomization of News](https://www.theverge.com/23836187/gen-z-news-creator-sourcing-tiktok-instagram-lil-tay)
 * [2023-08-21, 21:03:13](https://news.ycombinator.com/item?id=37215331) - [The Simplest Walking Robot: A bipedal robot with 1 actuator and 2 rigid bodies](https://arxiv.org/abs/2308.08401)
+* [2023-08-21, 19:46:42](https://news.ycombinator.com/item?id=37214408) - [Welsh Is a Language for Science](https://www.cardiff.ac.uk/news/view/2733589-welsh-is-a-language-for-science)
 
 ## [Archives](archives/index.md)
 
