@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
 * [2023-08-21, 23:44:54](https://news.ycombinator.com/item?id=37216800) - [Podman Desktop celebrates 500k downloads](https://blog.podman.io/2023/08/celebrating-500k-downloads-the-podman-desktop-journey-%f0%9f%8e%89/)
+* [2023-08-21, 23:28:12](https://news.ycombinator.com/item?id=37216702) - [Automated assembly – molecular mechanisms from text mining and curated databases](https://www.embopress.org/doi/full/10.15252/msb.202211325)
 * [2023-08-21, 23:27:49](https://news.ycombinator.com/item?id=37216700) - [Why a highly mutated coronavirus variant has scientists on alert](https://www.nature.com/articles/d41586-023-02656-9)
 * [2023-08-21, 23:21:26](https://news.ycombinator.com/item?id=37216647) - [Growing share of Americans favor more nuclear power](https://www.pewresearch.org/short-reads/2023/08/18/growing-share-of-americans-favor-more-nuclear-power/)
 * [2023-08-21, 22:55:25](https://news.ycombinator.com/item?id=37216455) - [The History of Windows 2.0](https://www.abortretry.fail/p/the-history-of-windows-20)
