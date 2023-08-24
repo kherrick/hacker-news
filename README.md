@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-24, 17:49:04](https://news.ycombinator.com/item?id=37252231) - [Show HN: Shimmer – ADHD coaching for adults, now on web](https://www.shimmer.care/blog/web-launch-adhd-coaching)
+* [2023-08-24, 17:36:22](https://news.ycombinator.com/item?id=37252025) - [How Artificial Intelligence Gave a Paralyzed Woman Her Voice Back](https://www.ucsf.edu/news/2023/08/425986/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back)
 * [2023-08-24, 17:33:12](https://news.ycombinator.com/item?id=37251969) - [Show HN: Use Code Llama as Drop-In Replacement for Copilot Chat](https://continue.dev/docs/walkthroughs/codellama)
 * [2023-08-24, 17:01:49](https://news.ycombinator.com/item?id=37251466) - [Show HN: Adapt Copilot to Your Goals](https://docs.flux.ai/tutorials/adapt-copilot-to-your-goals)
 * [2023-08-24, 16:25:48](https://news.ycombinator.com/item?id=37250834) - [Hacker News Guidelines](https://news.ycombinator.com/newsguidelines.html)
@@ -12,8 +14,8 @@
 * [2023-08-24, 14:51:49](https://news.ycombinator.com/item?id=37249442) - [Adding water to Martian soil samples might have been a bad idea](https://daily.jstor.org/we-might-have-accidentally-killed-the-only-life-we-ever-found-on-mars/)
 * [2023-08-24, 14:25:08](https://news.ycombinator.com/item?id=37249096) - [Microsoft’s Revocation of the Verisign Class 3 Public Primary G5 Root Cert](https://airlockdigital.com/microsofts-revocation-of-the-verisign-class-3-public-primary-certification-authority-g5-root-certificate/)
 * [2023-08-24, 14:02:12](https://news.ycombinator.com/item?id=37248895) - [Hugging Face raises $235M from investors including Salesforce and Nvidia](https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/)
-* [2023-08-24, 13:57:57](https://news.ycombinator.com/item?id=37248844) - [Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding/)
 * [2023-08-24, 13:44:48](https://news.ycombinator.com/item?id=37248694) - [Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://arxiv.org/abs/2308.09687)
+* [2023-08-24, 13:26:45](https://news.ycombinator.com/item?id=37248494) - [Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding/)
 * [2023-08-24, 12:54:22](https://news.ycombinator.com/item?id=37248189) - [New ancient ape from Türkiye challenges the story of human origins](https://phys.org/news/2023-08-ancient-ape-trkiye-story-human.html)
 * [2023-08-24, 12:28:55](https://news.ycombinator.com/item?id=37248002) - [Ask HN: Where do I find good code to read?](https://news.ycombinator.com/item?id=37248002)
 * [2023-08-24, 12:10:41](https://news.ycombinator.com/item?id=37247879) - [Logic Lab](http://www.technoblogy.com/show?4FFY)
@@ -27,9 +29,7 @@
 * [2023-08-23, 13:06:31](https://news.ycombinator.com/item?id=37235242) - [Spanish astronomer discovers new active galaxy](https://phys.org/news/2023-08-spanish-astronomer-galaxy.html)
 * [2023-08-23, 02:42:18](https://news.ycombinator.com/item?id=37231276) - [Screen Apnea](https://www.nytimes.com/2023/08/21/well/live/screen-apnea-breathing.html)
 * [2023-08-21, 22:58:59](https://news.ycombinator.com/item?id=37216489) - [Inside the JVM: Arrays](https://blogs.oracle.com/javamagazine/post/java-array-objects)
-* [2023-08-21, 22:51:25](https://news.ycombinator.com/item?id=37216412) - [The Antagonists: The rise and fall of type-in text games](https://if50.substack.com/p/the-antagonists)
 * [2023-08-21, 20:13:09](https://news.ycombinator.com/item?id=37214742) - [Blog-cells: Interactive code cells for static sites](https://rameshvarun.github.io/blog-cells/)
-* [2023-08-21, 20:09:20](https://news.ycombinator.com/item?id=37214693) - [Cosmological time dilation in the early Universe](https://www.advancedsciencenews.com/time-ran-slowly-in-the-early-universe-just-as-einstein-predicted/)
 
 ## [Archives](archives/index.md)
 
