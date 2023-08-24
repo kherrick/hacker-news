@@ -1,12 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-24, 21:29:01](https://news.ycombinator.com/item?id=37254772) - [The longest word you can type on the first row of a QWERTY keyboard](https://rubenerd.com/the-longest-word-you-can-type-on-the-first-row/)
+* [2023-08-24, 21:19:45](https://news.ycombinator.com/item?id=37254685) - [Zoom’s CEO thinks Zoom sucks for building trust, leaked audio reveals](https://arstechnica.com/tech-policy/2023/08/leaked-audio-reveals-zoom-ceo-believes-its-hard-to-build-trust-on-zoom/)
+* [2023-08-24, 21:02:21](https://news.ycombinator.com/item?id=37254510) - [Maccarone: AI-managed code blocks in Python](https://github.com/bsilverthorn/maccarone)
+* [2023-08-24, 20:34:32](https://news.ycombinator.com/item?id=37254198) - [Amazon Honeycode Shutting Down](https://honeycodecommunity.aws/c/announcements/7)
 * [2023-08-24, 20:08:38](https://news.ycombinator.com/item?id=37253897) - [$528M Antarctic icebreaker too big to fit under Tasman bridge to refuel](https://www.theguardian.com/australia-news/2023/aug/24/australias-528m-antarctic-icebreaker-too-big-to-fit-under-tasman-bridge-to-refuel)
-* [2023-08-24, 19:46:42](https://news.ycombinator.com/item?id=37253685) - [Firefox users may import Chrome extensions now](https://www.ghacks.net/2023/08/23/firefox-users-may-import-chrome-extensions-now/)
 * [2023-08-24, 18:52:46](https://news.ycombinator.com/item?id=37253035) - [FreeBSD on Firecracker](https://www.usenix.org/publications/loginonline/freebsd-firecracker)
 * [2023-08-24, 18:07:16](https://news.ycombinator.com/item?id=37252472) - [A New Physics Theory of Life (2014)](https://www.quantamagazine.org/a-new-thermodynamics-theory-of-the-origin-of-life-20140122/)
 * [2023-08-24, 17:59:31](https://news.ycombinator.com/item?id=37252384) - [Is there a fifth fundamental force of nature?](https://bigthink.com/starts-with-a-bang/5th-fundamental-force/)
 * [2023-08-24, 17:56:10](https://news.ycombinator.com/item?id=37252334) - [Bram Moolenaar's programming language, Zimbu](https://thenewstack.io/vim-creator-bram-moolenaars-forgotten-programming-language-zimbu/)
-* [2023-08-24, 17:50:58](https://news.ycombinator.com/item?id=37252258) - [Corrupted Blood incident](https://en.wikipedia.org/wiki/Corrupted_Blood_incident)
 * [2023-08-24, 17:49:04](https://news.ycombinator.com/item?id=37252231) - [Show HN: Shimmer – ADHD coaching for adults, now on web](https://www.shimmer.care/blog/web-launch-adhd-coaching)
 * [2023-08-24, 17:36:22](https://news.ycombinator.com/item?id=37252025) - [Artificial intelligence gave a paralyzed woman her voice back](https://www.ucsf.edu/news/2023/08/425986/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back)
 * [2023-08-24, 17:32:59](https://news.ycombinator.com/item?id=37251964) - [Barbara: Live coding languages for quilters](https://www.barbara.graphics/)
@@ -17,7 +19,6 @@
 * [2023-08-24, 14:02:12](https://news.ycombinator.com/item?id=37248895) - [Hugging Face raises $235M from investors including Salesforce and Nvidia](https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/)
 * [2023-08-24, 14:01:02](https://news.ycombinator.com/item?id=37248882) - [Skin health can be used to predict a number of seemingly unconnected factors](https://www.bbc.com/future/article/20230823-the-curious-ways-your-skin-shapes-your-health)
 * [2023-08-24, 13:44:48](https://news.ycombinator.com/item?id=37248694) - [Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://arxiv.org/abs/2308.09687)
-* [2023-08-24, 13:41:01](https://news.ycombinator.com/item?id=37248652) - [Camera crushes Lidar, claims startup](https://spectrum.ieee.org/camera-crushes-lidar)
 * [2023-08-24, 13:26:45](https://news.ycombinator.com/item?id=37248494) - [Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding/)
 * [2023-08-24, 13:19:30](https://news.ycombinator.com/item?id=37248411) - [Is Computer Hacking a Crime? (1989) [pdf]](https://faculty.weber.edu/apainter1/Readings/Hacking%20a%20Crime.pdf)
 * [2023-08-24, 12:30:28](https://news.ycombinator.com/item?id=37248020) - [Grokking Hash Array Mapped Tries (HAMTs)](https://photonlines.substack.com/p/grokking-hash-array-mapped-tries)
@@ -29,7 +30,6 @@
 * [2023-08-24, 06:04:03](https://news.ycombinator.com/item?id=37245530) - [The Dilemma of Icons](https://fairpixelsco.medium.com/icons-a-dilemma-of-design-and-meaning-1bf40eba1079)
 * [2023-08-24, 04:46:23](https://news.ycombinator.com/item?id=37245109) - [Distributed Consensus](https://shachaf.net/w/consensus)
 * [2023-08-23, 13:06:31](https://news.ycombinator.com/item?id=37235242) - [Spanish astronomer discovers new active galaxy](https://phys.org/news/2023-08-spanish-astronomer-galaxy.html)
-* [2023-08-23, 02:42:18](https://news.ycombinator.com/item?id=37231276) - [Screen Apnea](https://www.nytimes.com/2023/08/21/well/live/screen-apnea-breathing.html)
 
 ## [Archives](archives/index.md)
 
