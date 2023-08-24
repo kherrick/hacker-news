@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-24, 01:21:02](https://news.ycombinator.com/item?id=37244012) - [Bun v0.8.0](https://bun.sh/blog/bun-v0.8.0)
 * [2023-08-24, 00:37:58](https://news.ycombinator.com/item?id=37243751) - [Use web components for what they’re good at](https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/)
 * [2023-08-24, 00:05:47](https://news.ycombinator.com/item?id=37243527) - [The median return of 2022's SPAC mergers: -82%](https://pranshum.yarn.tech/24dade67-68e3-4e18-b597-94acfab46a61)
+* [2023-08-23, 23:39:11](https://news.ycombinator.com/item?id=37243354) - [Princeton ‘AI Snake Oil’ authors say GenAI hype has ‘spiraled out of control’](https://venturebeat.com/ai/princeton-university-ai-snake-oil-professors-say-generative-ai-hype-has-spiraled-out-of-control/)
 * [2023-08-23, 20:41:01](https://news.ycombinator.com/item?id=37241625) - [Pytudes](https://github.com/norvig/pytudes)
 * [2023-08-23, 20:35:33](https://news.ycombinator.com/item?id=37241601) - [Life on board a British nuclear submarine (2012)](https://www.theguardian.com/uk/2012/aug/21/life-on-board-nuclear-submarine)
 * [2023-08-23, 20:24:40](https://news.ycombinator.com/item?id=37241487) - [Nvidia Announces Financial Results for Second Quarter Fiscal 2024](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2024)
@@ -18,7 +20,6 @@
 * [2023-08-23, 14:01:18](https://news.ycombinator.com/item?id=37236027) - [ChatGPT turned generative AI into an “anything tool”](https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/)
 * [2023-08-23, 10:37:38](https://news.ycombinator.com/item?id=37233977) - [Growing scientific interest in vagus nerve stimulation](https://www.theguardian.com/society/2023/aug/23/the-key-to-depression-obesity-alcoholism-and-more-why-the-vagus-nerve-is-so-exciting-to-scientists)
 * [2023-08-23, 10:30:23](https://news.ycombinator.com/item?id=37233936) - [Chandrayaan-3 Soft-landing [video]](https://www.isro.gov.in/LIVE_telecast_of_Soft_landing.html)
-* [2023-08-23, 10:26:19](https://news.ycombinator.com/item?id=37233902) - [Add dir=“auto” to your inputs and textareas](https://mough.xyz/312/psa-add-dir-auto-to-your-inputs-and-textareas)
 * [2023-08-23, 02:54:33](https://news.ycombinator.com/item?id=37231347) - [An interpreter for a programming language based on Spotify playlists](https://github.com/h313/spet)
 * [2023-08-23, 02:20:07](https://news.ycombinator.com/item?id=37231148) - [Image constructed using quantum entanglement of photons](https://phys.org/news/2023-08-visualizing-mysterious-quantum-entanglement-photons.amp)
 * [2023-08-23, 02:04:16](https://news.ycombinator.com/item?id=37231025) - [PreTeXt: Write Once Read Anywhere Authoring and Publishing System](https://pretextbook.org/)
@@ -28,7 +29,6 @@
 * [2023-08-22, 16:21:01](https://news.ycombinator.com/item?id=37224936) - [Natural beekeepers are the radical dissenters of apiculture](https://www.newyorker.com/magazine/2023/08/28/is-beekeeping-wrong)
 * [2023-08-21, 22:55:25](https://news.ycombinator.com/item?id=37216455) - [The History of Windows 2.0](https://www.abortretry.fail/p/the-history-of-windows-20)
 * [2023-08-21, 22:52:38](https://news.ycombinator.com/item?id=37216424) - [The Fandomization of News](https://www.theverge.com/23836187/gen-z-news-creator-sourcing-tiktok-instagram-lil-tay)
-* [2023-08-21, 22:50:39](https://news.ycombinator.com/item?id=37216401) - [The Pleasure and Communion of Jane Austen’s Country Dance](https://lithub.com/the-pleasure-and-communion-of-austens-country-dance/)
 * [2023-08-21, 21:03:13](https://news.ycombinator.com/item?id=37215331) - [The Simplest Walking Robot: A bipedal robot with 1 actuator and 2 rigid bodies](https://arxiv.org/abs/2308.08401)
 
 ## [Archives](archives/index.md)
