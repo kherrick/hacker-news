@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-24](index.md)
 
+* [2023-08-24, 09:51:17](https://news.ycombinator.com/item?id=37246932) - [Leaving Haskell Behind](https://journal.infinitenegativeutility.com/leaving-haskell-behind)
+* [2023-08-24, 09:25:17](https://news.ycombinator.com/item?id=37246740) - [How Modern SQL Databases Are Changing Web Development: Part 1](https://blog.whimslab.io/how-modern-sql-databases-are-changing-web-development-4d1f15b0daea)
 * [2023-08-24, 08:37:27](https://news.ycombinator.com/item?id=37246416) - [Apparatus for facilitating the birth of a child by centrifugal force](https://patents.google.com/patent/US3216423A/en)
 * [2023-08-24, 08:01:29](https://news.ycombinator.com/item?id=37246195) - [Dutch e-bike maker VanMoof goes bankrupt, leaving riders stranded](https://www.npr.org/2023/08/23/1195201692/vanmoof-ebikes-bankrupt-netherlands)
 * [2023-08-24, 08:00:30](https://news.ycombinator.com/item?id=37246193) - [Danish cloud host says customers ‘lost all data’ after ransomware attack](https://techcrunch.com/2023/08/23/cloudnordic-azero-cloud-host-ransomware/)
@@ -12,6 +14,7 @@
 * [2023-08-24, 05:18:47](https://news.ycombinator.com/item?id=37245300) - [Japan starts release of Fukushima’s treated radioactive water](https://www.aljazeera.com/news/2023/8/24/japan-prepares-to-start-release-of-fukushima-radioactive-water)
 * [2023-08-24, 04:57:34](https://news.ycombinator.com/item?id=37245171) - [Show HN: Automate complicated manual business processes](https://www.tooljet.com/workflows)
 * [2023-08-24, 04:30:04](https://news.ycombinator.com/item?id=37245008) - [It's Getting Too Hot for Tropical Trees to Photosynthesize, Scientists Warn](https://www.vice.com/en/article/v7bzpy/its-getting-too-hot-for-tropical-trees-to-photosynthesize-scientists-warn)
+* [2023-08-24, 04:21:47](https://news.ycombinator.com/item?id=37244971) - [Understanding Percentiles](https://blog.shalvah.me/posts/understanding-percentiles)
 * [2023-08-24, 03:06:41](https://news.ycombinator.com/item?id=37244564) - [Atari games like it's 1980 with “faithful recreation” of Atari 2600 console](https://newatlas.com/games/plaion-atari-2600-plus-console/)
 * [2023-08-24, 02:53:12](https://news.ycombinator.com/item?id=37244503) - [Print(“lol”) doubled the speed of my Go function](https://medium.com/@ludirehak/printing-lol-doubled-the-speed-of-my-go-code-e32e02fc3f92)
 * [2023-08-24, 02:14:02](https://news.ycombinator.com/item?id=37244292) - [So Long, Twitter and Reddit](https://andrewkelley.me/post/goodbye-twitter-reddit.html)
