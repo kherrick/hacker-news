@@ -11,6 +11,7 @@
 * [2023-08-23, 21:24:39](https://news.ycombinator.com/item?id=37242043) - [Tornado Cash devs charged with laundering more than $1B](https://www.theverge.com/2023/8/23/23843161/tornado-cash-indictment-conspiracy-north-korea-money-laundering)
 * [2023-08-23, 21:13:12](https://news.ycombinator.com/item?id=37241906) - [Backblaze Product and Pricing Updates](https://www.backblaze.com/blog/2023-product-announcement/)
 * [2023-08-23, 21:01:56](https://news.ycombinator.com/item?id=37241809) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2023-08-23, 20:46:43](https://news.ycombinator.com/item?id=37241684) - [Interview: Francis Ford Coppola (2012)](https://therumpus.net/2012/08/17/the-rumpus-interview-with-francis-ford-coppola-2/)
 * [2023-08-23, 20:41:01](https://news.ycombinator.com/item?id=37241625) - [Pytudes](https://github.com/norvig/pytudes)
 * [2023-08-23, 20:35:33](https://news.ycombinator.com/item?id=37241601) - [Life on board a British nuclear submarine](https://www.theguardian.com/uk/2012/aug/21/life-on-board-nuclear-submarine)
 * [2023-08-23, 20:31:52](https://news.ycombinator.com/item?id=37241566) - [Nvidia reports 88% jump in revenue and tops estimates](https://www.cnbc.com/2023/08/23/nvidia-nvda-earnings-report-q2-2024.html)
