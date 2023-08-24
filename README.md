@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-24, 17:27:20](https://news.ycombinator.com/item?id=37251871) - [Population ecologist warns humanity is on verge of population correction](https://phys.org/news/2023-08-population-ecologist-humanity-verge-massive.html)
+* [2023-08-24, 17:33:12](https://news.ycombinator.com/item?id=37251969) - [Show HN: Use Code Llama as Drop-In Replacement for Copilot Chat](https://continue.dev/docs/walkthroughs/codellama)
 * [2023-08-24, 17:01:49](https://news.ycombinator.com/item?id=37251466) - [Show HN: Adapt Copilot to Your Goals](https://docs.flux.ai/tutorials/adapt-copilot-to-your-goals)
 * [2023-08-24, 16:25:48](https://news.ycombinator.com/item?id=37250834) - [Hacker News Guidelines](https://news.ycombinator.com/newsguidelines.html)
 * [2023-08-24, 16:25:31](https://news.ycombinator.com/item?id=37250828) - [Toward AGI – What Is Missing?](https://mark-riedl.medium.com/toward-agi-what-is-missing-c2f0d878471a)
