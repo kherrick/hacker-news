@@ -73,6 +73,7 @@
 * [2023-08-24, 10:59:20](https://news.ycombinator.com/item?id=37247394) - [Jacobin: Minimal JVM written in Go and capable of running Java 17 classes](https://jacobin.org/)
 * [2023-08-24, 10:41:47](https://news.ycombinator.com/item?id=37247275) - [Show HN: I built this Postgres logger for you guys to check out](https://rocketgraph.io/logger-demo)
 * [2023-08-24, 10:40:57](https://news.ycombinator.com/item?id=37247268) - [Show HN: Web App with GUI for AutoML on Tabular Data](https://github.com/mljar/automl-app)
+* [2023-08-24, 10:10:35](https://news.ycombinator.com/item?id=37247055) - [Preventing software piracy with crypto-microprocessors (1980) [pdf]](https://www.princeton.edu/~rblee/ELE572Papers/Fall04Readings/CryptoProc_Best.pdf)
 * [2023-08-24, 09:51:17](https://news.ycombinator.com/item?id=37246932) - [Leaving Haskell Behind](https://journal.infinitenegativeutility.com/leaving-haskell-behind)
 * [2023-08-24, 09:51:02](https://news.ycombinator.com/item?id=37246928) - [Apple’s treatment of small games developer makes a textbook antitrust case](https://9to5mac.com/2023/08/23/textbook-antitrust-case/)
 * [2023-08-24, 09:25:17](https://news.ycombinator.com/item?id=37246740) - [How Modern SQL Databases Are Changing Web Development: Part 1](https://blog.whimslab.io/how-modern-sql-databases-are-changing-web-development-4d1f15b0daea)
