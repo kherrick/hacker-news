@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-24, 14:26:40",
+      "https://news.ycombinator.com/item?id=37249110"
+    ],
+    [
+      "No app, no entry: How the digital world is failing the non tech-savvy",
+      "https://www.theguardian.com/technology/2023/aug/20/no-app-no-entry-how-the-digital-world-is-failing-the-non-tech-savvy"
+    ]
+  ],
+  [
+    [
       "2023-08-24, 14:07:42",
       "https://news.ycombinator.com/item?id=37248949"
     ],
@@ -21,12 +31,32 @@
   ],
   [
     [
+      "2023-08-24, 14:01:02",
+      "https://news.ycombinator.com/item?id=37248882"
+    ],
+    [
+      "The curious ways your skin shapes your health",
+      "https://www.bbc.com/future/article/20230823-the-curious-ways-your-skin-shapes-your-health"
+    ]
+  ],
+  [
+    [
       "2023-08-24, 13:57:57",
       "https://news.ycombinator.com/item?id=37248844"
     ],
     [
-      "Code Llama, an AI Tool for Coding",
+      "Code Llama, an AI tool for coding",
       "https://about.fb.com/news/2023/08/code-llama-ai-for-coding/"
+    ]
+  ],
+  [
+    [
+      "2023-08-24, 13:52:53",
+      "https://news.ycombinator.com/item?id=37248781"
+    ],
+    [
+      "Rust 1.72.0",
+      "https://blog.rust-lang.org/2023/08/24/Rust-1.72.0.html"
     ]
   ],
   [
@@ -37,6 +67,16 @@
     [
       "Graph of Thoughts: Solving Elaborate Problems with Large Language Models",
       "https://arxiv.org/abs/2308.09687"
+    ]
+  ],
+  [
+    [
+      "2023-08-24, 13:41:01",
+      "https://news.ycombinator.com/item?id=37248652"
+    ],
+    [
+      "Camera Crushes Lidar, Claims Startup",
+      "https://spectrum.ieee.org/camera-crushes-lidar"
     ]
   ],
   [
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2023-08-24, 08:37:27",
-      "https://news.ycombinator.com/item?id=37246416"
-    ],
-    [
-      "Apparatus for facilitating the birth of a child by centrifugal force (1963)",
-      "https://patents.google.com/patent/US3216423A/en"
-    ]
-  ],
-  [
-    [
       "2023-08-24, 04:57:34",
       "https://news.ycombinator.com/item?id=37245171"
     ],
@@ -135,7 +165,7 @@
       "https://news.ycombinator.com/item?id=37244971"
     ],
     [
-      "Understanding Percentiles",
+      "Understanding Percentiles (2021)",
       "https://blog.shalvah.me/posts/understanding-percentiles"
     ]
   ],
@@ -147,16 +177,6 @@
     [
       "Bun v0.8",
       "https://bun.sh/blog/bun-v0.8.0"
-    ]
-  ],
-  [
-    [
-      "2023-08-23, 20:41:01",
-      "https://news.ycombinator.com/item?id=37241625"
-    ],
-    [
-      "Pytudes",
-      "https://github.com/norvig/pytudes"
     ]
   ],
   [
@@ -207,26 +227,6 @@
     [
       "'Screen Apnea'",
       "https://www.nytimes.com/2023/08/21/well/live/screen-apnea-breathing.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-22, 19:42:08",
-      "https://news.ycombinator.com/item?id=37227606"
-    ],
-    [
-      "On keeping sketchbooks",
-      "https://attainablefelicity.mattkirkland.com/20230822/Sketchbooks.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-22, 15:23:09",
-      "https://news.ycombinator.com/item?id=37224042"
-    ],
-    [
-      "The first conformant M1 GPU driver",
-      "https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html"
     ]
   ],
   [
