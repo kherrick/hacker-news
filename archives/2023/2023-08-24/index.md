@@ -42,6 +42,7 @@
 * [2023-08-24, 11:55:04](https://news.ycombinator.com/item?id=37247767) - [Show HN: Open-source obsidian.md sync server](https://news.ycombinator.com/item?id=37247767)
 * [2023-08-24, 11:53:07](https://news.ycombinator.com/item?id=37247754) - [Haskell Researchers Announce Discovery of Industry Programmer Who Gives a Shit](http://steve-yegge.blogspot.com/2010/12/haskell-researchers-announce-discovery.html)
 * [2023-08-24, 11:20:45](https://news.ycombinator.com/item?id=37247548) - [ELI5: Why are 11 and 12 called eleven and twelve and not oneteen and twoteen?](https://old.reddit.com/r/explainlikeimfive/comments/15zuitf/eli5_why_are_11_and_12_called_eleven_ant_twelve/)
+* [2023-08-24, 11:01:07](https://news.ycombinator.com/item?id=37247405) - [Japan’s 72 Microseasons (2015)](https://www.nippon.com/en/features/h00124/)
 * [2023-08-24, 10:59:20](https://news.ycombinator.com/item?id=37247394) - [Jacobin: Minimal JVM written in Go and capable of running Java 17 classes](https://jacobin.org/)
 * [2023-08-24, 10:41:47](https://news.ycombinator.com/item?id=37247275) - [Show HN: I built this Postgres logger for you guys to check out](https://rocketgraph.io/logger-demo)
 * [2023-08-24, 10:40:57](https://news.ycombinator.com/item?id=37247268) - [Show HN: Web App with GUI for AutoML on Tabular Data](https://github.com/mljar/automl-app)
