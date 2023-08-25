@@ -32,6 +32,7 @@
 * [2023-08-24, 17:33:12](https://news.ycombinator.com/item?id=37251969) - [Show HN: Use Code Llama as Drop-In Replacement for Copilot Chat](https://continue.dev/docs/walkthroughs/codellama)
 * [2023-08-24, 17:32:59](https://news.ycombinator.com/item?id=37251964) - [Barbara: Live Coding Languages for Quilters](https://www.barbara.graphics/)
 * [2023-08-24, 17:27:20](https://news.ycombinator.com/item?id=37251871) - [Population ecologist warns humanity is on verge of population correction](https://phys.org/news/2023-08-population-ecologist-humanity-verge-massive.html)
+* [2023-08-24, 17:19:31](https://news.ycombinator.com/item?id=37251750) - [Explore the Dragon Realm: Build a C++ adventure game with a little help from AI](https://about.gitlab.com/blog/2023/08/24/building-a-text-adventure-using-cplusplus-and-code-suggestions/)
 * [2023-08-24, 17:01:49](https://news.ycombinator.com/item?id=37251466) - [Show HN: Adapt Copilot to Your Goals](https://docs.flux.ai/tutorials/adapt-copilot-to-your-goals)
 * [2023-08-24, 16:58:57](https://news.ycombinator.com/item?id=37251411) - [LANDrop – Drop any files to any devices on your LAN](https://landrop.app/)
 * [2023-08-24, 16:25:48](https://news.ycombinator.com/item?id=37250834) - [Hacker News Guidelines](https://news.ycombinator.com/newsguidelines.html)
