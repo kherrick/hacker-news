@@ -3,6 +3,7 @@
 * [2023-08-25, 09:45:01](https://news.ycombinator.com/item?id=37259826) - [The Tao of Go](https://bitfieldconsulting.com/golang/tao-of-go)
 * [2023-08-25, 09:34:28](https://news.ycombinator.com/item?id=37259753) - [Finetuning of Falcon-7B LLM Using QLoRA on Mental Health Conversational Dataset](https://github.com/iamarunbrahma/finetuned-qlora-falcon7b-medical)
 * [2023-08-25, 09:22:26](https://news.ycombinator.com/item?id=37259699) - [Things I tried to improve sleep](https://vincelwt.com/sleep)
+* [2023-08-25, 09:09:07](https://news.ycombinator.com/item?id=37259619) - [Paper cups are just as toxic as plastic cups](https://www.gu.se/en/news/paper-cups-are-just-as-toxic-as-plastic-cups)
 * [2023-08-25, 08:33:06](https://news.ycombinator.com/item?id=37259428) - [An Open Source Mobile Phone Based on the ESP32](https://hackaday.com/2023/08/24/an-open-source-mobile-phone-based-on-the-esp32/)
 * [2023-08-25, 07:55:17](https://news.ycombinator.com/item?id=37259225) - [Unpacking Elixir: Concurrency](https://underjord.io/unpacking-elixir-concurrency.html)
 * [2023-08-25, 04:44:21](https://news.ycombinator.com/item?id=37258178) - [The place where no humans will tread for 100k years](https://www.bbc.com/future/article/20230824-the-descent-to-the-worlds-first-waste-nuclear-fuel-storage-site)
@@ -27,7 +28,6 @@
 * [2023-08-24, 12:52:42](https://news.ycombinator.com/item?id=37248177) - [Compiling Functional Languages (2002) [pdf]](https://xavierleroy.org/talks/compilation-agay.pdf)
 * [2023-08-24, 12:20:54](https://news.ycombinator.com/item?id=37247945) - [Hydra: Column-Oriented Postgres](https://www.hydra.so/)
 * [2023-08-24, 11:53:24](https://news.ycombinator.com/item?id=37247758) - [DC Grids](https://www.iisb.fraunhofer.de/en/research_areas/intelligent_energy_systems/DC-grids.html)
-* [2023-08-24, 11:40:13](https://news.ycombinator.com/item?id=37247678) - [The GRUB MBR (2008)](https://thestarman.pcministry.com/asm/mbr/GRUB.htm)
 * [2023-08-24, 11:32:49](https://news.ycombinator.com/item?id=37247633) - [Cyberpunk in the Nineties (1998)](https://www.streettech.com/bcp/BCPtext/Manifestos/CPInThe90s.html)
 * [2023-08-24, 05:35:46](https://news.ycombinator.com/item?id=37245383) - [Domain Repetition](https://iquilezles.org/articles/sdfrepetition/)
 
