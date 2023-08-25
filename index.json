@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-25, 04:39:51",
+      "https://news.ycombinator.com/item?id=37258143"
+    ],
+    [
+      "Naked Mole Rat’s Longevity Gene Gives Mice a Longer Life",
+      "https://scienceswitch.com/2023/08/25/naked-mole-rats-longevity-gene-gives-mice-a-longer-life/"
+    ]
+  ],
+  [
+    [
       "2023-08-25, 04:11:10",
       "https://news.ycombinator.com/item?id=37257949"
     ],
@@ -57,6 +67,16 @@
     [
       "Understanding Automatic Differentiation in 30 lines of Python",
       "https://vmartin.fr/understanding-automatic-differentiation-in-30-lines-of-python.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-25, 01:45:59",
+      "https://news.ycombinator.com/item?id=37256889"
+    ],
+    [
+      "How to speed up the Rust compiler in August 2023",
+      "https://nnethercote.github.io/2023/08/25/how-to-speed-up-the-rust-compiler-in-august-2023.html"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-08-24, 14:01:02",
-      "https://news.ycombinator.com/item?id=37248882"
-    ],
-    [
-      "Skin health can be used to predict a number of seemingly unconnected factors",
-      "https://www.bbc.com/future/article/20230823-the-curious-ways-your-skin-shapes-your-health"
-    ]
-  ],
-  [
-    [
       "2023-08-24, 13:26:45",
       "https://news.ycombinator.com/item?id=37248494"
     ],
@@ -277,16 +287,6 @@
     [
       "Domain Repetition",
       "https://iquilezles.org/articles/sdfrepetition/"
-    ]
-  ],
-  [
-    [
-      "2023-08-24, 04:46:23",
-      "https://news.ycombinator.com/item?id=37245109"
-    ],
-    [
-      "Distributed Consensus",
-      "https://shachaf.net/w/consensus"
     ]
   ],
   [
