@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 04:44:21](https://news.ycombinator.com/item?id=37258178) - [The place where no humans will tread for 100k years](https://www.bbc.com/future/article/20230824-the-descent-to-the-worlds-first-waste-nuclear-fuel-storage-site)
 * [2023-08-25, 04:39:51](https://news.ycombinator.com/item?id=37258143) - [Naked Mole Rat’s Longevity Gene Gives Mice a Longer Life](https://scienceswitch.com/2023/08/25/naked-mole-rats-longevity-gene-gives-mice-a-longer-life/)
 * [2023-08-25, 04:11:10](https://news.ycombinator.com/item?id=37257949) - [Foreach Derp with Csh](http://blog.syncpup.com/posts/foreach-derp-with-csh.html)
 * [2023-08-25, 03:07:36](https://news.ycombinator.com/item?id=37257521) - [Python 3.11.5 (2023)](https://www.python.org/downloads/release/python-3115/)
