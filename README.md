@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-25, 21:43:31](https://news.ycombinator.com/item?id=37267385) - [Oliver Anthony slams use of song at debate: I wrote that song about those people](https://themessenger.com/entertainment/oliver-anthony-rich-men-north-of-richmond-republican-debate)
 * [2023-08-25, 21:10:54](https://news.ycombinator.com/item?id=37267086) - [NASA Shares First Images from US Pollution-Monitoring Instrument](https://www.nasa.gov/press-release/nasa-shares-first-images-from-us-pollution-monitoring-instrument/)
-* [2023-08-25, 20:58:11](https://news.ycombinator.com/item?id=37266957) - [Giving up the iPad-only travel dream](https://sixcolors.com/post/2023/08/why-i-gave-up-on-the-ipad-only-dream/)
 * [2023-08-25, 19:45:22](https://news.ycombinator.com/item?id=37266200) - [The Notetaking Cold War (2020)](https://every.to/superorganizers/the-notetaking-cold-war-591898)
 * [2023-08-25, 18:48:10](https://news.ycombinator.com/item?id=37265664) - [Slime Molds [video]](https://www.youtube.com/watch?v=gpt9cJrEZ_Y)
 * [2023-08-25, 17:42:23](https://news.ycombinator.com/item?id=37264676) - [Web scraping for me, but not for thee](https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm)
