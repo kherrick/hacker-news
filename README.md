@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-25, 16:07:36](https://news.ycombinator.com/item?id=37263322) - [EU’s War on Behavioral Advertising](https://thisisunpacked.substack.com/p/the-eu-war-on-behavioral-advertising)
-* [2023-08-25, 15:59:12](https://news.ycombinator.com/item?id=37263204) - [Blocking Entire Countries from Your Website for Better Traffic – Benefits](https://developmentfriendly.com/should-i-block-entire-countries-from-accessing-my-website-for-more-qualified-traffic/)
+* [2023-08-25, 16:03:11](https://news.ycombinator.com/item?id=37263251) - [Robert's Rules of Order](https://en.wikipedia.org/wiki/Robert%27s_Rules_of_Order)
 * [2023-08-25, 15:32:31](https://news.ycombinator.com/item?id=37262857) - [HelloSystem: A graphical OS built on FreeBSD](https://hellosystem.github.io/docs/)
 * [2023-08-25, 15:13:08](https://news.ycombinator.com/item?id=37262625) - [New York, California Lose Firms Managing an Estimated $2T in Assets](https://www.costar.com/article/420490632/new-york-california-lose-firms-managing-an-estimated-2-trillion-in-assets)
 * [2023-08-25, 14:56:59](https://news.ycombinator.com/item?id=37262442) - [Ubuntu Desktop: charting a course for the future](https://ubuntu.com/blog/ubuntu-desktop-charting-a-course-for-the-future)
