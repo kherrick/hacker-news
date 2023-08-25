@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-25, 03:07:36",
+      "https://news.ycombinator.com/item?id=37257521"
+    ],
+    [
+      "Python 3.11.5 (2023)",
+      "https://www.python.org/downloads/release/python-3115/"
+    ]
+  ],
+  [
+    [
       "2023-08-25, 02:58:29",
       "https://news.ycombinator.com/item?id=37257465"
     ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=37256577"
     ],
     [
-      "AI Isn’t Good Enough",
+      "AI isn’t good enough",
       "https://skventures.substack.com/p/ai-isnt-good-enough"
     ]
   ],
@@ -181,6 +191,16 @@
   ],
   [
     [
+      "2023-08-24, 16:25:48",
+      "https://news.ycombinator.com/item?id=37250834"
+    ],
+    [
+      "Hacker News Guidelines",
+      "https://news.ycombinator.com/newsguidelines.html"
+    ]
+  ],
+  [
+    [
       "2023-08-24, 14:01:02",
       "https://news.ycombinator.com/item?id=37248882"
     ],
@@ -221,6 +241,16 @@
   ],
   [
     [
+      "2023-08-24, 12:20:54",
+      "https://news.ycombinator.com/item?id=37247945"
+    ],
+    [
+      "Hydra: Column-Oriented Postgres",
+      "https://www.hydra.so/"
+    ]
+  ],
+  [
+    [
       "2023-08-24, 11:55:04",
       "https://news.ycombinator.com/item?id=37247767"
     ],
@@ -251,42 +281,12 @@
   ],
   [
     [
-      "2023-08-24, 10:10:35",
-      "https://news.ycombinator.com/item?id=37247055"
-    ],
-    [
-      "Preventing software piracy with crypto-microprocessors (1980) [pdf]",
-      "https://www.princeton.edu/~rblee/ELE572Papers/Fall04Readings/CryptoProc_Best.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-08-24, 09:18:57",
-      "https://news.ycombinator.com/item?id=37246688"
-    ],
-    [
-      "Ask HN: Undiscovered electronics/maker YouTube channels",
-      "https://news.ycombinator.com/item?id=37246688"
-    ]
-  ],
-  [
-    [
       "2023-08-24, 05:35:46",
       "https://news.ycombinator.com/item?id=37245383"
     ],
     [
       "Domain Repetition",
       "https://iquilezles.org/articles/sdfrepetition/"
-    ]
-  ],
-  [
-    [
-      "2023-08-24, 04:46:23",
-      "https://news.ycombinator.com/item?id=37245109"
-    ],
-    [
-      "Distributed Consensus",
-      "https://shachaf.net/w/consensus"
     ]
   ],
   [
