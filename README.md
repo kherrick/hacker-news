@@ -2,7 +2,6 @@
 
 * [2023-08-25, 09:45:01](https://news.ycombinator.com/item?id=37259826) - [The Tao of Go](https://bitfieldconsulting.com/golang/tao-of-go)
 * [2023-08-25, 09:34:28](https://news.ycombinator.com/item?id=37259753) - [Finetuning of Falcon-7B LLM Using QLoRA on Mental Health Conversational Dataset](https://github.com/iamarunbrahma/finetuned-qlora-falcon7b-medical)
-* [2023-08-25, 09:09:07](https://news.ycombinator.com/item?id=37259619) - [Paper cups are just as toxic as plastic cups](https://www.gu.se/en/news/paper-cups-are-just-as-toxic-as-plastic-cups)
 * [2023-08-25, 08:33:06](https://news.ycombinator.com/item?id=37259428) - [An Open Source Mobile Phone Based on the ESP32](https://hackaday.com/2023/08/24/an-open-source-mobile-phone-based-on-the-esp32/)
 * [2023-08-25, 07:55:17](https://news.ycombinator.com/item?id=37259225) - [Unpacking Elixir: Concurrency](https://underjord.io/unpacking-elixir-concurrency.html)
 * [2023-08-25, 04:44:21](https://news.ycombinator.com/item?id=37258178) - [The place where no humans will tread for 100k years](https://www.bbc.com/future/article/20230824-the-descent-to-the-worlds-first-waste-nuclear-fuel-storage-site)
@@ -20,6 +19,7 @@
 * [2023-08-25, 00:13:37](https://news.ycombinator.com/item?id=37256217) - [Helicopter Footage Reveals State Trooper Surveillance Capabilities](https://unicornriot.ninja/2023/helicopter-footage-from-mass-arrest-reveals-state-trooper-surveillance-capabilities-tactics-and-communications/)
 * [2023-08-24, 23:55:44](https://news.ycombinator.com/item?id=37256077) - [Higashiyama Atsuki and the “between-legs effect”](https://www.nippon.com/en/japan-topics/c12403/)
 * [2023-08-24, 21:57:25](https://news.ycombinator.com/item?id=37255079) - [Proof-of-Work Defense for Onion Services](https://blog.torproject.org/introducing-proof-of-work-defense-for-onion-services/)
+* [2023-08-24, 21:32:46](https://news.ycombinator.com/item?id=37254823) - [Runme – Interactive Runbooks Built with Markdown](https://runme.dev/)
 * [2023-08-24, 21:02:21](https://news.ycombinator.com/item?id=37254510) - [Maccarone: AI-managed code blocks in Python](https://github.com/bsilverthorn/maccarone)
 * [2023-08-24, 20:48:22](https://news.ycombinator.com/item?id=37254348) - [Abacuysnth – A synthesizer inspired by an abacus (2022) [video]](https://www.youtube.com/watch?v=1lWUlo18B14)
 * [2023-08-24, 17:19:31](https://news.ycombinator.com/item?id=37251750) - [Explore the Dragon Realm: Build a C++ adventure game with a little help from AI](https://about.gitlab.com/blog/2023/08/24/building-a-text-adventure-using-cplusplus-and-code-suggestions/)
