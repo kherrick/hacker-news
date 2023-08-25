@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 09:14:42](https://news.ycombinator.com/item?id=37259655) - [Monetizing Developer Tools](https://github.com/rui314/mold/issues/190)
+* [2023-08-25, 08:59:49](https://news.ycombinator.com/item?id=37259578) - [FDA approving drugs after fewer trials, providing less information to public](https://medicalxpress.com/news/2023-08-fda-drugs-trials.html)
 * [2023-08-25, 08:34:59](https://news.ycombinator.com/item?id=37259441) - [Eppie is a decentralized email with full address and account ownership](https://eppie.io)
 * [2023-08-25, 07:55:17](https://news.ycombinator.com/item?id=37259225) - [Unpacking Elixir: Concurrency](https://underjord.io/unpacking-elixir-concurrency.html)
 * [2023-08-25, 05:26:58](https://news.ycombinator.com/item?id=37258411) - [Evolution of the Gitea Downloads Site](https://blog.gitea.com/evolution-of-the-gitea-downloads-site/)

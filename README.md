@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-25, 08:34:59](https://news.ycombinator.com/item?id=37259441) - [Eppie is a decentralized email with full address and account ownership](https://eppie.io)
+* [2023-08-25, 09:14:42](https://news.ycombinator.com/item?id=37259655) - [Monetizing Developer Tools](https://github.com/rui314/mold/issues/190)
+* [2023-08-25, 08:59:49](https://news.ycombinator.com/item?id=37259578) - [FDA approving drugs after fewer trials, providing less information to public](https://medicalxpress.com/news/2023-08-fda-drugs-trials.html)
 * [2023-08-25, 07:55:17](https://news.ycombinator.com/item?id=37259225) - [Unpacking Elixir: Concurrency](https://underjord.io/unpacking-elixir-concurrency.html)
 * [2023-08-25, 04:44:21](https://news.ycombinator.com/item?id=37258178) - [The place where no humans will tread for 100k years](https://www.bbc.com/future/article/20230824-the-descent-to-the-worlds-first-waste-nuclear-fuel-storage-site)
 * [2023-08-25, 04:39:51](https://news.ycombinator.com/item?id=37258143) - [Naked Mole Rat’s Longevity Gene Gives Mice a Longer Life](https://scienceswitch.com/2023/08/25/naked-mole-rats-longevity-gene-gives-mice-a-longer-life/)
@@ -15,7 +16,6 @@
 * [2023-08-25, 01:36:17](https://news.ycombinator.com/item?id=37256817) - [The human Y chromosome has been completely sequenced](https://www.nature.com/articles/s41586-023-06457-y)
 * [2023-08-25, 01:01:55](https://news.ycombinator.com/item?id=37256577) - [AI isn’t good enough](https://skventures.substack.com/p/ai-isnt-good-enough)
 * [2023-08-25, 00:48:03](https://news.ycombinator.com/item?id=37256479) - [Implementing Interactive Languages](https://www.scattered-thoughts.net/writing/implementing-interactive-languages/)
-* [2023-08-25, 00:13:37](https://news.ycombinator.com/item?id=37256217) - [Helicopter Footage Reveals State Trooper Surveillance Capabilities](https://unicornriot.ninja/2023/helicopter-footage-from-mass-arrest-reveals-state-trooper-surveillance-capabilities-tactics-and-communications/)
 * [2023-08-24, 23:55:44](https://news.ycombinator.com/item?id=37256077) - [Higashiyama Atsuki and the “between-legs effect”](https://www.nippon.com/en/japan-topics/c12403/)
 * [2023-08-24, 21:57:25](https://news.ycombinator.com/item?id=37255079) - [Proof-of-Work Defense for Onion Services](https://blog.torproject.org/introducing-proof-of-work-defense-for-onion-services/)
 * [2023-08-24, 21:32:46](https://news.ycombinator.com/item?id=37254823) - [Runme – Interactive Runbooks Built with Markdown](https://runme.dev/)
