@@ -12,6 +12,7 @@
 * [2023-08-25, 16:20:09](https://news.ycombinator.com/item?id=37263473) - [Show HN: Release AI – Talk to Your Infrastructure](https://www.ycombinator.com/launches/JI1-release-ai-talk-to-your-infrastructure)
 * [2023-08-25, 16:19:14](https://news.ycombinator.com/item?id=37263459) - [Just 23% of Americans Know the US Has Failed to Pass an Internet-Era Privacy Law](https://www.techdirt.com/2023/08/25/just-23-of-americans-know-the-u-s-has-failed-to-pass-an-internet-era-privacy-law/)
 * [2023-08-25, 16:16:53](https://news.ycombinator.com/item?id=37263434) - [Changes to UK Surveillance Regime May Violate International Law](https://www.justsecurity.org/87615/changes-to-uk-surveillance-regime-may-violate-international-law/)
+* [2023-08-25, 16:14:57](https://news.ycombinator.com/item?id=37263411) - [Dark Web Reports](https://www.dailydarkweb.com)
 * [2023-08-25, 16:07:36](https://news.ycombinator.com/item?id=37263322) - [EU’s War on Behavioral Advertising](https://thisisunpacked.substack.com/p/the-eu-war-on-behavioral-advertising)
 * [2023-08-25, 16:03:11](https://news.ycombinator.com/item?id=37263251) - [Robert's Rules of Order](https://en.wikipedia.org/wiki/Robert%27s_Rules_of_Order)
 * [2023-08-25, 15:59:12](https://news.ycombinator.com/item?id=37263204) - [Blocking Entire Countries from Your Website for Better Traffic – Benefits](https://developmentfriendly.com/should-i-block-entire-countries-from-accessing-my-website-for-more-qualified-traffic/)
