@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 19:45:22](https://news.ycombinator.com/item?id=37266200) - [The Notetaking Cold War (2020)](https://every.to/superorganizers/the-notetaking-cold-war-591898)
 * [2023-08-25, 19:32:29](https://news.ycombinator.com/item?id=37266091) - [Tropical forests are approaching critical temperature thresholds](https://www.nature.com/articles/s41586-023-06391-z)
 * [2023-08-25, 19:31:36](https://news.ycombinator.com/item?id=37266081) - [Global risk of heat stress to cattle from climate change](https://iopscience.iop.org/article/10.1088/1748-9326/aceb79)
 * [2023-08-25, 18:48:10](https://news.ycombinator.com/item?id=37265664) - [Slime molds are gorgeous (you just never knew it) [video]](https://www.youtube.com/watch?v=gpt9cJrEZ_Y)
@@ -30,6 +31,7 @@
 * [2023-08-25, 15:59:12](https://news.ycombinator.com/item?id=37263204) - [Blocking Entire Countries from Your Website for Better Traffic – Benefits](https://developmentfriendly.com/should-i-block-entire-countries-from-accessing-my-website-for-more-qualified-traffic/)
 * [2023-08-25, 15:32:31](https://news.ycombinator.com/item?id=37262857) - [HelloSystem: A graphical OS built on FreeBSD](https://hellosystem.github.io/docs/)
 * [2023-08-25, 15:13:08](https://news.ycombinator.com/item?id=37262625) - [New York, California Lose Firms Managing an Estimated $2T in Assets](https://www.costar.com/article/420490632/new-york-california-lose-firms-managing-an-estimated-2-trillion-in-assets)
+* [2023-08-25, 15:08:02](https://news.ycombinator.com/item?id=37262562) - [A Dao of Web Design (2000)](https://alistapart.com/article/dao/)
 * [2023-08-25, 14:58:23](https://news.ycombinator.com/item?id=37262457) - [Let's Not Encrypt [2019]](http://michael.orlitzky.com/articles/lets_not_encrypt.xhtml)
 * [2023-08-25, 14:56:59](https://news.ycombinator.com/item?id=37262442) - [Ubuntu Desktop: charting a course for the future](https://ubuntu.com/blog/ubuntu-desktop-charting-a-course-for-the-future)
 * [2023-08-25, 14:56:48](https://news.ycombinator.com/item?id=37262440) - [OpenTF Announces Fork of Terraform](https://opentf.org/announcement)
