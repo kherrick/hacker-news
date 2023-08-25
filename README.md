@@ -29,7 +29,7 @@
 * [2023-08-24, 13:26:45](https://news.ycombinator.com/item?id=37248494) - [Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding/)
 * [2023-08-24, 12:20:54](https://news.ycombinator.com/item?id=37247945) - [Hydra: Column-Oriented Postgres](https://www.hydra.so/)
 * [2023-08-24, 11:53:24](https://news.ycombinator.com/item?id=37247758) - [DC Grids](https://www.iisb.fraunhofer.de/en/research_areas/intelligent_energy_systems/DC-grids.html)
-* [2023-08-24, 05:35:46](https://news.ycombinator.com/item?id=37245383) - [Domain Repetition](https://iquilezles.org/articles/sdfrepetition/)
+* [2023-08-24, 11:32:49](https://news.ycombinator.com/item?id=37247633) - [Cyberpunk in the Nineties (1998)](https://www.streettech.com/bcp/BCPtext/Manifestos/CPInThe90s.html)
 
 ## [Archives](archives/index.md)
 
