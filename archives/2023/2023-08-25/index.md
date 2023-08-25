@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
 * [2023-08-25, 22:57:15](https://news.ycombinator.com/item?id=37268068) - [Gitlab's plan to support ActivityPub for merge requests](https://gitlab.com/groups/gitlab-org/-/epics/11247)
+* [2023-08-25, 22:43:08](https://news.ycombinator.com/item?id=37267940) - [CVE Is Everything Terrible About the System](https://daniel.haxx.se/blog/2023/08/26/cve-2020-19909-is-everything-that-is-wrong-with-cves/)
 * [2023-08-25, 22:08:23](https://news.ycombinator.com/item?id=37267597) - [Show HN: Beating GPT-4 on HumanEval with a fine-tuned CodeLlama-34B](https://www.phind.com/blog/code-llama-beats-gpt4)
 * [2023-08-25, 21:59:12](https://news.ycombinator.com/item?id=37267523) - [Casio Caleid XM-700 Mobile Navigator (1997)](https://blog.gingerbeardman.com/2023/08/25/casio-caleid-xm700-mobile-navigator-hardware/)
 * [2023-08-25, 21:43:31](https://news.ycombinator.com/item?id=37267385) - [Oliver Anthony slams use of song at debate: I wrote that song about those people](https://themessenger.com/entertainment/oliver-anthony-rich-men-north-of-richmond-republican-debate)

@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-25, 22:57:15](https://news.ycombinator.com/item?id=37268068) - [Gitlab's plan to support ActivityPub for merge requests](https://gitlab.com/groups/gitlab-org/-/epics/11247)
+* [2023-08-25, 22:43:08](https://news.ycombinator.com/item?id=37267940) - [CVE Is Everything Terrible About the System](https://daniel.haxx.se/blog/2023/08/26/cve-2020-19909-is-everything-that-is-wrong-with-cves/)
 * [2023-08-25, 22:08:23](https://news.ycombinator.com/item?id=37267597) - [Beating GPT-4 on HumanEval with a fine-tuned CodeLlama-34B](https://www.phind.com/blog/code-llama-beats-gpt4)
 * [2023-08-25, 21:59:12](https://news.ycombinator.com/item?id=37267523) - [Casio Caleid XM-700 Mobile Navigator (1997)](https://blog.gingerbeardman.com/2023/08/25/casio-caleid-xm700-mobile-navigator-hardware/)
-* [2023-08-25, 21:35:47](https://news.ycombinator.com/item?id=37267324) - [X to use Israeli software to require selfie, govt-issued ID for verification](https://www.jpost.com/business-and-innovation/article-755505)
 * [2023-08-25, 21:32:38](https://news.ycombinator.com/item?id=37267299) - [Fifth Circuit: Law Enforcement Doesn’t Need Warrants to Search Phones at Border](https://www.techdirt.com/2023/08/25/fifth-circuit-says-law-enforcement-doesnt-need-warrants-to-search-phones-at-the-border/)
 * [2023-08-25, 21:10:54](https://news.ycombinator.com/item?id=37267086) - [NASA Shares First Images from US Pollution-Monitoring Instrument](https://www.nasa.gov/press-release/nasa-shares-first-images-from-us-pollution-monitoring-instrument/)
 * [2023-08-25, 20:58:11](https://news.ycombinator.com/item?id=37266957) - [Giving up the iPad-only travel dream](https://sixcolors.com/post/2023/08/why-i-gave-up-on-the-ipad-only-dream/)
