@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 23:32:06](https://news.ycombinator.com/item?id=37268348) - [Why do cats love tuna so much? Scientists may finally know](https://www.science.org/content/article/why-do-cats-love-tuna-so-much-scientists-may-finally-know)
 * [2023-08-25, 22:57:15](https://news.ycombinator.com/item?id=37268068) - [Gitlab's plan to support ActivityPub for merge requests](https://gitlab.com/groups/gitlab-org/-/epics/11247)
 * [2023-08-25, 22:43:08](https://news.ycombinator.com/item?id=37267940) - [CVE Is Everything Terrible About the System](https://daniel.haxx.se/blog/2023/08/26/cve-2020-19909-is-everything-that-is-wrong-with-cves/)
 * [2023-08-25, 22:08:23](https://news.ycombinator.com/item?id=37267597) - [Show HN: Beating GPT-4 on HumanEval with a fine-tuned CodeLlama-34B](https://www.phind.com/blog/code-llama-beats-gpt4)
