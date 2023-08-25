@@ -7,7 +7,7 @@
 * [2023-08-25, 02:27:12](https://news.ycombinator.com/item?id=37257218) - [Os.js – open-source JavaScript web desktop platform with a window manager](https://www.os-js.org/)
 * [2023-08-25, 02:07:13](https://news.ycombinator.com/item?id=37257027) - [Algebraic Topology for Data Scientists](https://arxiv.org/abs/2308.10825)
 * [2023-08-25, 01:47:59](https://news.ycombinator.com/item?id=37256903) - [Understanding Automatic Differentiation in 30 lines of Python](https://vmartin.fr/understanding-automatic-differentiation-in-30-lines-of-python.html)
-* [2023-08-25, 01:45:59](https://news.ycombinator.com/item?id=37256889) - [How to speed up the Rust compiler in August 2023](https://nnethercote.github.io/2023/08/25/how-to-speed-up-the-rust-compiler-in-august-2023.html)
+* [2023-08-25, 01:45:59](https://news.ycombinator.com/item?id=37256889) - [How to speed up the Rust compiler](https://nnethercote.github.io/2023/08/25/how-to-speed-up-the-rust-compiler-in-august-2023.html)
 * [2023-08-25, 01:41:02](https://news.ycombinator.com/item?id=37256849) - [A new futex API](https://lwn.net/Articles/940944/)
 * [2023-08-25, 01:36:17](https://news.ycombinator.com/item?id=37256817) - [The human Y chromosome has been completely sequenced](https://www.nature.com/articles/s41586-023-06457-y)
 * [2023-08-24, 23:55:44](https://news.ycombinator.com/item?id=37256077) - [Higashiyama Atsuki and the “between-legs effect”](https://www.nippon.com/en/japan-topics/c12403/)
