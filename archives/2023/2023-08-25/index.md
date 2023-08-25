@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 17:34:18](https://news.ycombinator.com/item?id=37264576) - [Windows icons locations. Where are the default icons found?](https://www.digitalcitizen.life/where-find-most-windows-10s-native-icons/)
 * [2023-08-25, 17:31:02](https://news.ycombinator.com/item?id=37264538) - [Poly (YC S22) |Hiring Founding Platform Engineer|GenAI Design Asset Marketplace](https://www.ycombinator.com/companies/poly/jobs/L4ObRgn-founding-platform-full-stack-front-end-developer-generative-ai-enabled-design-asset-marketplace-founding-team-at-a-yc-startup-backed-by-bloomberg-felicis-figma)
 * [2023-08-25, 17:05:52](https://news.ycombinator.com/item?id=37264208) - [Dropbox Axes Unlimited Cloud Storage for Businesses](https://blog.dropbox.com/topics/product/updates-to-our-storage-policy-on-dropbox-advanced)
 * [2023-08-25, 16:45:42](https://news.ycombinator.com/item?id=37263884) - [Upholding Free Speech Amidst the EU’s DSA Law](https://news.gab.com/2023/08/upholding-free-speech-amidst-the-eus-dsa-law/)
