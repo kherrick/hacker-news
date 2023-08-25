@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 16:16:53](https://news.ycombinator.com/item?id=37263434) - [Changes to UK Surveillance Regime May Violate International Law](https://www.justsecurity.org/87615/changes-to-uk-surveillance-regime-may-violate-international-law/)
 * [2023-08-25, 16:07:36](https://news.ycombinator.com/item?id=37263322) - [EU’s War on Behavioral Advertising](https://thisisunpacked.substack.com/p/the-eu-war-on-behavioral-advertising)
 * [2023-08-25, 16:03:11](https://news.ycombinator.com/item?id=37263251) - [Robert's Rules of Order](https://en.wikipedia.org/wiki/Robert%27s_Rules_of_Order)
 * [2023-08-25, 15:59:12](https://news.ycombinator.com/item?id=37263204) - [Blocking Entire Countries from Your Website for Better Traffic – Benefits](https://developmentfriendly.com/should-i-block-entire-countries-from-accessing-my-website-for-more-qualified-traffic/)
@@ -13,6 +14,7 @@
 * [2023-08-25, 14:56:59](https://news.ycombinator.com/item?id=37262442) - [Ubuntu Desktop: charting a course for the future](https://ubuntu.com/blog/ubuntu-desktop-charting-a-course-for-the-future)
 * [2023-08-25, 14:56:48](https://news.ycombinator.com/item?id=37262440) - [OpenTF Announces Fork of Terraform](https://opentf.org/announcement)
 * [2023-08-25, 14:51:04](https://news.ycombinator.com/item?id=37262370) - [Meta Throttles 404Media Investigation on Drug Ads, Continues to Advertise Drugs](https://www.404media.co/instagram-throttles-404-media-investigation-into-drug-ads-on-instagram-continues-to-let-people-advertise-drugs/)
+* [2023-08-25, 14:42:39](https://news.ycombinator.com/item?id=37262265) - [Why note-taking apps don’t make us smarter](https://www.theverge.com/2023/8/25/23845590/note-taking-apps-ai-chat-distractions-notion-roam-mem-obsidian)
 * [2023-08-25, 14:42:00](https://news.ycombinator.com/item?id=37262258) - [Leaked Wipeout source code leads to near-total rewrite and remaster](https://arstechnica.com/gaming/2023/08/developer-rewrites-original-wipeout-from-abysmal-leaked-windows-source/)
 * [2023-08-25, 14:01:13](https://news.ycombinator.com/item?id=37261843) - [Does wearing waterproof clothing increase PFAS in our bodies?](https://molecularspec.substack.com/p/water-repellent-clothing-and-pfas)
 * [2023-08-25, 13:57:16](https://news.ycombinator.com/item?id=37261786) - [How the fertility crisis might end](https://www.overcomingbias.com/p/13-fertility-scenarios)
