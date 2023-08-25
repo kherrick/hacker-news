@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-25, 17:34:18",
+      "https://news.ycombinator.com/item?id=37264576"
+    ],
+    [
+      "Windows icons locations. Where are the default icons found?",
+      "https://www.digitalcitizen.life/where-find-most-windows-10s-native-icons/"
+    ]
+  ],
+  [
+    [
       "2023-08-25, 17:31:02",
       "https://news.ycombinator.com/item?id=37264538"
     ],
@@ -27,16 +37,6 @@
     [
       "UBC device uses wood dust to trap up to 99.9 per cent of microplastics in water",
       "https://news.ubc.ca/2023/08/16/microplastic-pollution-plants-could-be-the-answer/"
-    ]
-  ],
-  [
-    [
-      "2023-08-25, 16:39:41",
-      "https://news.ycombinator.com/item?id=37263793"
-    ],
-    [
-      "My hobby became my job, 50% extra pay, just needed to let go of GPLv3",
-      "https://goauthentik.io/blog/2023-08-23-my-hobby-became-my-job"
     ]
   ],
   [
@@ -241,32 +241,22 @@
   ],
   [
     [
+      "2023-08-25, 04:39:51",
+      "https://news.ycombinator.com/item?id=37258143"
+    ],
+    [
+      "Naked Mole Rat’s Longevity Gene Gives Mice a Longer Life",
+      "https://scienceswitch.com/2023/08/25/naked-mole-rats-longevity-gene-gives-mice-a-longer-life/"
+    ]
+  ],
+  [
+    [
       "2023-08-25, 03:06:37",
       "https://news.ycombinator.com/item?id=37257514"
     ],
     [
       "How to drill your own water well",
       "https://drillyourownwell.com/"
-    ]
-  ],
-  [
-    [
-      "2023-08-25, 02:27:12",
-      "https://news.ycombinator.com/item?id=37257218"
-    ],
-    [
-      "Os.js – open-source JavaScript web desktop platform with a window manager",
-      "https://www.os-js.org/"
-    ]
-  ],
-  [
-    [
-      "2023-08-25, 00:35:59",
-      "https://news.ycombinator.com/item?id=37256378"
-    ],
-    [
-      "The Time I Snuck into Ken Kesey’s Fiction Class",
-      "https://lithub.com/lidia-yuknavitch-the-time-i-snuck-into-ken-keseys-fiction-class/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Visualizing Neural Networks",
       "https://photonlines.substack.com/p/grokking-neural-networks"
+    ]
+  ],
+  [
+    [
+      "2023-08-24, 11:53:24",
+      "https://news.ycombinator.com/item?id=37247758"
+    ],
+    [
+      "DC Grids",
+      "https://www.iisb.fraunhofer.de/en/research_areas/intelligent_energy_systems/DC-grids.html"
     ]
   ]
 ]
