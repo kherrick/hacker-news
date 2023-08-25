@@ -1,10 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-25, 14:01:13](https://news.ycombinator.com/item?id=37261843) - [Does wearing waterproof clothing increase PFAS in our bodies?](https://molecularspec.substack.com/p/water-repellent-clothing-and-pfas)
+* [2023-08-25, 13:57:16](https://news.ycombinator.com/item?id=37261786) - [How the fertility crisis might end](https://www.overcomingbias.com/p/13-fertility-scenarios)
 * [2023-08-25, 13:31:46](https://news.ycombinator.com/item?id=37261527) - [Huawei reportedly building 'secret' semiconductor fabs](https://www.theregister.com/2023/08/25/huawei_building_secret_fabs/)
 * [2023-08-25, 12:52:10](https://news.ycombinator.com/item?id=37261126) - [None of us are truly living off the grid](https://www.okdoomer.io/youre-not-going-to-make-it/)
 * [2023-08-25, 12:46:31](https://news.ycombinator.com/item?id=37261088) - [Making NetBSD Multiboot-Compatible (2007)](https://jmmv.dev/2007/03/making-netbsd-multiboot-compatible.html)
 * [2023-08-25, 12:36:18](https://news.ycombinator.com/item?id=37261001) - [50TB IBM tape drive more than doubles LTO-9 capacity](https://blocksandfiles.com/2023/08/23/50tb-ibm-tape/)
 * [2023-08-25, 12:26:16](https://news.ycombinator.com/item?id=37260914) - [LuaJIT Uses Rolling Releases](https://www.freelists.org/post/luajit/LuaJIT-uses-rolling-releases)
+* [2023-08-25, 12:25:59](https://news.ycombinator.com/item?id=37260913) - [Show HN: PlotAI – Create Plots in Python and Matplotlib with LLM](https://github.com/mljar/plotai)
 * [2023-08-25, 11:50:20](https://news.ycombinator.com/item?id=37260637) - [Factorio: Space Age](https://factorio.com/blog/post/fff-373)
 * [2023-08-25, 10:44:12](https://news.ycombinator.com/item?id=37260141) - [Stable Linux mainline builds for Ubuntu](https://stgraber.org/2023/08/24/stable-linux-mainline-builds/)
 * [2023-08-25, 09:34:28](https://news.ycombinator.com/item?id=37259753) - [Finetuning of Falcon-7B LLM Using QLoRA on Mental Health Conversational Dataset](https://github.com/iamarunbrahma/finetuned-qlora-falcon7b-medical)
@@ -23,13 +26,10 @@
 * [2023-08-25, 00:13:37](https://news.ycombinator.com/item?id=37256217) - [Helicopter Footage Reveals State Trooper Surveillance Capabilities](https://unicornriot.ninja/2023/helicopter-footage-from-mass-arrest-reveals-state-trooper-surveillance-capabilities-tactics-and-communications/)
 * [2023-08-24, 23:55:44](https://news.ycombinator.com/item?id=37256077) - [Higashiyama Atsuki and the “between-legs effect”](https://www.nippon.com/en/japan-topics/c12403/)
 * [2023-08-24, 21:25:14](https://news.ycombinator.com/item?id=37254743) - [Researchers publish new results from dark boson searches](https://phys.org/news/2023-08-publish-results-dark-boson.html)
-* [2023-08-24, 20:48:22](https://news.ycombinator.com/item?id=37254348) - [Abacuysnth – A synthesizer inspired by an abacus (2022) [video]](https://www.youtube.com/watch?v=1lWUlo18B14)
 * [2023-08-24, 18:33:38](https://news.ycombinator.com/item?id=37252821) - [Winner’s Curse: Negotiation Mistakes to Avoid](https://www.pon.harvard.edu/daily/business-negotiations/how-to-avoid-the-winners-curse/)
 * [2023-08-24, 15:44:48](https://news.ycombinator.com/item?id=37250213) - [Easy-ISLisp: ISLisp interpreter/compiler](https://github.com/sasagawa888/eisl)
 * [2023-08-24, 13:26:45](https://news.ycombinator.com/item?id=37248494) - [Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding/)
 * [2023-08-24, 12:20:54](https://news.ycombinator.com/item?id=37247945) - [Hydra: Column-Oriented Postgres](https://www.hydra.so/)
-* [2023-08-24, 11:53:24](https://news.ycombinator.com/item?id=37247758) - [DC Grids](https://www.iisb.fraunhofer.de/en/research_areas/intelligent_energy_systems/DC-grids.html)
-* [2023-08-24, 11:32:49](https://news.ycombinator.com/item?id=37247633) - [Cyberpunk in the Nineties (1998)](https://www.streettech.com/bcp/BCPtext/Manifestos/CPInThe90s.html)
 
 ## [Archives](archives/index.md)
 
