@@ -55,6 +55,7 @@
 * [2023-08-25, 12:25:59](https://news.ycombinator.com/item?id=37260913) - [Show HN: PlotAI – Create Plots in Python and Matplotlib with LLM](https://github.com/mljar/plotai)
 * [2023-08-25, 11:50:20](https://news.ycombinator.com/item?id=37260637) - [Factorio: Space Age](https://factorio.com/blog/post/fff-373)
 * [2023-08-25, 11:38:06](https://news.ycombinator.com/item?id=37260553) - [The College Board Tells TikTok and Facebook Your SAT Scores](https://gizmodo.com/sat-college-board-tells-facebook-tiktok-your-scores-gpa-1850768077)
+* [2023-08-25, 11:16:24](https://news.ycombinator.com/item?id=37260393) - [The Case For – and Against – Apple Shipping a Larger iMac](https://512pixels.net/2023/08/the-case-for-and-against-a-larger-imac/)
 * [2023-08-25, 10:44:12](https://news.ycombinator.com/item?id=37260141) - [Stable Linux mainline builds for Ubuntu](https://stgraber.org/2023/08/24/stable-linux-mainline-builds/)
 * [2023-08-25, 09:45:01](https://news.ycombinator.com/item?id=37259826) - [The Tao of Go](https://bitfieldconsulting.com/golang/tao-of-go)
 * [2023-08-25, 09:39:07](https://news.ycombinator.com/item?id=37259786) - [Rust Malware Staged on Crates.io](https://blog.phylum.io/rust-malware-staged-on-crates-io/)
