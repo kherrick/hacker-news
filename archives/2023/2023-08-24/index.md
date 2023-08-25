@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-24](index.md)
 
+* [2023-08-24, 23:55:44](https://news.ycombinator.com/item?id=37256077) - [Ig Nobel Prize Winner Higashiyama Atsuki and the “Between-Legs Effect” Mystery](https://www.nippon.com/en/japan-topics/c12403/)
 * [2023-08-24, 22:17:18](https://news.ycombinator.com/item?id=37255280) - [An image preprocessing tool to protect artworks from AI-for-Art based mimicry](https://mist-project.github.io/index_en.html)
 * [2023-08-24, 21:57:25](https://news.ycombinator.com/item?id=37255079) - [Proof-of-Work Defense for Onion Services](https://blog.torproject.org/introducing-proof-of-work-defense-for-onion-services/)
 * [2023-08-24, 21:51:28](https://news.ycombinator.com/item?id=37255022) - [SQLite 3.43.0 Released](https://sqlite.org/releaselog/3_43_0.html)
@@ -11,6 +12,7 @@
 * [2023-08-24, 21:29:01](https://news.ycombinator.com/item?id=37254772) - [The longest word you can type on the first row of a QWERTY keyboard](https://rubenerd.com/the-longest-word-you-can-type-on-the-first-row/)
 * [2023-08-24, 21:19:45](https://news.ycombinator.com/item?id=37254685) - [Zoom’s CEO thinks Zoom sucks for building trust, leaked audio reveals](https://arstechnica.com/tech-policy/2023/08/leaked-audio-reveals-zoom-ceo-believes-its-hard-to-build-trust-on-zoom/)
 * [2023-08-24, 21:15:53](https://news.ycombinator.com/item?id=37254644) - [Fox TV license renewal may be in jeopardy as FCC invites public response](https://arstechnica.com/tech-policy/2023/08/petition-to-deny-fox-tv-license-over-false-election-info-gains-steam-at-fcc/)
+* [2023-08-24, 21:07:08](https://news.ycombinator.com/item?id=37254561) - [NYC Lost 100K Homes in Apartment-to-House Conversions](https://www.thecity.nyc/housing/2023/8/24/23843686/100k-apartments-lost-to-house-conversions)
 * [2023-08-24, 21:02:21](https://news.ycombinator.com/item?id=37254510) - [Maccarone: AI-managed code blocks in Python](https://github.com/bsilverthorn/maccarone)
 * [2023-08-24, 20:44:22](https://news.ycombinator.com/item?id=37254294) - [Threads.net Can Go to Hell](https://lapcatsoftware.com/articles/2023/8/4.html)
 * [2023-08-24, 20:34:32](https://news.ycombinator.com/item?id=37254198) - [Amazon Honeycode Shutting Down](https://honeycodecommunity.aws/c/announcements/7)
