@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 18:25:29](https://news.ycombinator.com/item?id=37265346) - [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
 * [2023-08-25, 18:08:55](https://news.ycombinator.com/item?id=37265097) - [Why Htmx Does Not Have a Build Step](https://htmx.org/essays/no-build-step/)
 * [2023-08-25, 17:57:07](https://news.ycombinator.com/item?id=37264893) - [Ask HN: Down to $16, had 4 job offers rescinded; in crisis mode, where to turn?](https://news.ycombinator.com/item?id=37264893)
 * [2023-08-25, 17:34:18](https://news.ycombinator.com/item?id=37264576) - [Windows icons locations. Where are the default icons found?](https://www.digitalcitizen.life/where-find-most-windows-10s-native-icons/)
