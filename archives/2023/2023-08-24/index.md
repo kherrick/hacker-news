@@ -16,6 +16,7 @@
 * [2023-08-24, 21:07:08](https://news.ycombinator.com/item?id=37254561) - [NYC Lost 100K Homes in Apartment-to-House Conversions](https://www.thecity.nyc/housing/2023/8/24/23843686/100k-apartments-lost-to-house-conversions)
 * [2023-08-24, 21:02:21](https://news.ycombinator.com/item?id=37254510) - [Maccarone: AI-managed code blocks in Python](https://github.com/bsilverthorn/maccarone)
 * [2023-08-24, 20:48:22](https://news.ycombinator.com/item?id=37254348) - [Abacusynth (MIDI) [video]](https://www.youtube.com/watch?v=1lWUlo18B14)
+* [2023-08-24, 20:47:19](https://news.ycombinator.com/item?id=37254338) - [What’s the World’s Oldest Language?](https://www.scientificamerican.com/article/whats-the-worlds-oldest-language/)
 * [2023-08-24, 20:44:22](https://news.ycombinator.com/item?id=37254294) - [Threads.net Can Go to Hell](https://lapcatsoftware.com/articles/2023/8/4.html)
 * [2023-08-24, 20:34:32](https://news.ycombinator.com/item?id=37254198) - [Amazon Honeycode Shutting Down](https://honeycodecommunity.aws/c/announcements/7)
 * [2023-08-24, 20:08:38](https://news.ycombinator.com/item?id=37253897) - [$528M Antarctic icebreaker too big to fit under Tasman bridge to refuel](https://www.theguardian.com/australia-news/2023/aug/24/australias-528m-antarctic-icebreaker-too-big-to-fit-under-tasman-bridge-to-refuel)
