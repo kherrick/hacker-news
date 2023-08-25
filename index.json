@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-25, 17:57:07",
+      "https://news.ycombinator.com/item?id=37264893"
+    ],
+    [
+      "Ask HN: Down to $16, had 4 job offers rescinded; in crisis mode, where to turn?",
+      "https://news.ycombinator.com/item?id=37264893"
+    ]
+  ],
+  [
+    [
       "2023-08-25, 17:34:18",
       "https://news.ycombinator.com/item?id=37264576"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2023-08-25, 17:05:52",
-      "https://news.ycombinator.com/item?id=37264208"
+      "2023-08-25, 17:01:32",
+      "https://news.ycombinator.com/item?id=37264149"
     ],
     [
-      "Dropbox Axes Unlimited Cloud Storage for Businesses",
-      "https://blog.dropbox.com/topics/product/updates-to-our-storage-policy-on-dropbox-advanced"
+      "The 2,500 year old history of why Python’s all([]) returns True",
+      "https://blog.carlmjohnson.net/post/2020/python-square-of-opposition/"
     ]
   ],
   [
@@ -46,7 +56,7 @@
     ],
     [
       "Show HN: Release AI – Talk to Your Infrastructure",
-      "https://www.ycombinator.com/launches/JI1-release-ai-talk-to-your-infrastructure"
+      "https://news.ycombinator.com/item?id=37263473"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "OpenTF Announces Fork of Terraform",
       "https://opentf.org/announcement"
-    ]
-  ],
-  [
-    [
-      "2023-08-25, 14:42:39",
-      "https://news.ycombinator.com/item?id=37262265"
-    ],
-    [
-      "Why note-taking apps don’t make us smarter",
-      "https://www.theverge.com/2023/8/25/23845590/note-taking-apps-ai-chat-distractions-notion-roam-mem-obsidian"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2023-08-25, 00:35:59",
+      "https://news.ycombinator.com/item?id=37256378"
+    ],
+    [
+      "The Time I Snuck into Ken Kesey’s Fiction Class",
+      "https://lithub.com/lidia-yuknavitch-the-time-i-snuck-into-ken-keseys-fiction-class/"
+    ]
+  ],
+  [
+    [
       "2023-08-24, 21:01:59",
       "https://news.ycombinator.com/item?id=37254507"
     ],
@@ -287,16 +297,6 @@
     [
       "Visualizing Neural Networks",
       "https://photonlines.substack.com/p/grokking-neural-networks"
-    ]
-  ],
-  [
-    [
-      "2023-08-24, 11:53:24",
-      "https://news.ycombinator.com/item?id=37247758"
-    ],
-    [
-      "DC Grids",
-      "https://www.iisb.fraunhofer.de/en/research_areas/intelligent_energy_systems/DC-grids.html"
     ]
   ]
 ]
