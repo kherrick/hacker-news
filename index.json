@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-25, 22:57:15",
+      "https://news.ycombinator.com/item?id=37268068"
+    ],
+    [
+      "Gitlab's plan to support ActivityPub for merge requests",
+      "https://gitlab.com/groups/gitlab-org/-/epics/11247"
+    ]
+  ],
+  [
+    [
       "2023-08-25, 22:08:23",
       "https://news.ycombinator.com/item?id=37267597"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2023-08-25, 14:42:00",
-      "https://news.ycombinator.com/item?id=37262258"
-    ],
-    [
-      "Leaked Wipeout source code leads to near-total rewrite and remaster",
-      "https://arstechnica.com/gaming/2023/08/developer-rewrites-original-wipeout-from-abysmal-leaked-windows-source/"
-    ]
-  ],
-  [
-    [
       "2023-08-25, 14:37:24",
       "https://news.ycombinator.com/item?id=37262220"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2023-08-25, 07:55:17",
-      "https://news.ycombinator.com/item?id=37259225"
-    ],
-    [
-      "Unpacking Elixir: Concurrency",
-      "https://underjord.io/unpacking-elixir-concurrency.html"
-    ]
-  ],
-  [
-    [
       "2023-08-25, 07:11:43",
       "https://news.ycombinator.com/item?id=37258974"
     ],
     [
       "I cycled to all the villages in alphabetical order",
       "https://diziet.dreamwidth.org/16260.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-25, 06:31:56",
+      "https://news.ycombinator.com/item?id=37258753"
+    ],
+    [
+      "A scalar triple product identity",
+      "https://realtimecollisiondetection.net/blog/?p=69"
     ]
   ],
   [
