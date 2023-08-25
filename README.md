@@ -21,7 +21,7 @@
 * [2023-08-24, 17:49:04](https://news.ycombinator.com/item?id=37252231) - [Show HN: Shimmer – ADHD coaching for adults, now on web](https://www.shimmer.care/blog/web-launch-adhd-coaching)
 * [2023-08-24, 17:36:22](https://news.ycombinator.com/item?id=37252025) - [Artificial intelligence gave a paralyzed woman her voice back](https://www.ucsf.edu/news/2023/08/425986/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back)
 * [2023-08-24, 16:58:57](https://news.ycombinator.com/item?id=37251411) - [LANDrop – Drop any files to any devices on your LAN](https://landrop.app/)
-* [2023-08-24, 16:25:48](https://news.ycombinator.com/item?id=37250834) - [Hacker News Guidelines](https://news.ycombinator.com/newsguidelines.html)
+* [2023-08-24, 15:44:48](https://news.ycombinator.com/item?id=37250213) - [Easy-ISLisp: ISLisp interpreter/compiler](https://github.com/sasagawa888/eisl)
 * [2023-08-24, 13:26:45](https://news.ycombinator.com/item?id=37248494) - [Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding/)
 * [2023-08-24, 13:19:30](https://news.ycombinator.com/item?id=37248411) - [Is Computer Hacking a Crime? (1989) [pdf]](https://faculty.weber.edu/apainter1/Readings/Hacking%20a%20Crime.pdf)
 * [2023-08-24, 12:52:42](https://news.ycombinator.com/item?id=37248177) - [Compiling Functional Languages (2002) [pdf]](https://xavierleroy.org/talks/compilation-agay.pdf)
