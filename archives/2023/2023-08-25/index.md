@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 16:19:14](https://news.ycombinator.com/item?id=37263459) - [Just 23% of Americans Know the US Has Failed to Pass an Internet-Era Privacy Law](https://www.techdirt.com/2023/08/25/just-23-of-americans-know-the-u-s-has-failed-to-pass-an-internet-era-privacy-law/)
 * [2023-08-25, 16:16:53](https://news.ycombinator.com/item?id=37263434) - [Changes to UK Surveillance Regime May Violate International Law](https://www.justsecurity.org/87615/changes-to-uk-surveillance-regime-may-violate-international-law/)
 * [2023-08-25, 16:07:36](https://news.ycombinator.com/item?id=37263322) - [EU’s War on Behavioral Advertising](https://thisisunpacked.substack.com/p/the-eu-war-on-behavioral-advertising)
 * [2023-08-25, 16:03:11](https://news.ycombinator.com/item?id=37263251) - [Robert's Rules of Order](https://en.wikipedia.org/wiki/Robert%27s_Rules_of_Order)
@@ -16,6 +17,7 @@
 * [2023-08-25, 14:51:04](https://news.ycombinator.com/item?id=37262370) - [Meta Throttles 404Media Investigation on Drug Ads, Continues to Advertise Drugs](https://www.404media.co/instagram-throttles-404-media-investigation-into-drug-ads-on-instagram-continues-to-let-people-advertise-drugs/)
 * [2023-08-25, 14:42:39](https://news.ycombinator.com/item?id=37262265) - [Why note-taking apps don’t make us smarter](https://www.theverge.com/2023/8/25/23845590/note-taking-apps-ai-chat-distractions-notion-roam-mem-obsidian)
 * [2023-08-25, 14:42:00](https://news.ycombinator.com/item?id=37262258) - [Leaked Wipeout source code leads to near-total rewrite and remaster](https://arstechnica.com/gaming/2023/08/developer-rewrites-original-wipeout-from-abysmal-leaked-windows-source/)
+* [2023-08-25, 14:27:44](https://news.ycombinator.com/item?id=37262115) - [For the first time Americans are listening more on-demand audio than live audio](https://www.edisonresearch.com/weekly-insights-8-23-2023-on-demand-audio-passes-linear-audio/)
 * [2023-08-25, 14:01:13](https://news.ycombinator.com/item?id=37261843) - [Does wearing waterproof clothing increase PFAS in our bodies?](https://molecularspec.substack.com/p/water-repellent-clothing-and-pfas)
 * [2023-08-25, 13:57:16](https://news.ycombinator.com/item?id=37261786) - [How the fertility crisis might end](https://www.overcomingbias.com/p/13-fertility-scenarios)
 * [2023-08-25, 13:31:46](https://news.ycombinator.com/item?id=37261527) - [Huawei reportedly building 'secret' semiconductor fabs](https://www.theregister.com/2023/08/25/huawei_building_secret_fabs/)
