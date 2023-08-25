@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-25, 07:55:17](https://news.ycombinator.com/item?id=37259225) - [Unpacking Elixir: Concurrency](https://underjord.io/unpacking-elixir-concurrency.html)
+* [2023-08-25, 05:26:58](https://news.ycombinator.com/item?id=37258411) - [Evolution of the Gitea Downloads Site](https://blog.gitea.com/evolution-of-the-gitea-downloads-site/)
 * [2023-08-25, 04:44:21](https://news.ycombinator.com/item?id=37258178) - [The place where no humans will tread for 100k years](https://www.bbc.com/future/article/20230824-the-descent-to-the-worlds-first-waste-nuclear-fuel-storage-site)
 * [2023-08-25, 04:39:51](https://news.ycombinator.com/item?id=37258143) - [Naked Mole Rat’s Longevity Gene Gives Mice a Longer Life](https://scienceswitch.com/2023/08/25/naked-mole-rats-longevity-gene-gives-mice-a-longer-life/)
 * [2023-08-25, 03:06:37](https://news.ycombinator.com/item?id=37257514) - [How to Drill Your Own Water Well](https://drillyourownwell.com/)
@@ -20,7 +21,6 @@
 * [2023-08-24, 21:02:21](https://news.ycombinator.com/item?id=37254510) - [Maccarone: AI-managed code blocks in Python](https://github.com/bsilverthorn/maccarone)
 * [2023-08-24, 20:48:22](https://news.ycombinator.com/item?id=37254348) - [Abacuysnth – A synthesizer inspired by an abacus (2022) [video]](https://www.youtube.com/watch?v=1lWUlo18B14)
 * [2023-08-24, 18:52:46](https://news.ycombinator.com/item?id=37253035) - [FreeBSD on Firecracker](https://www.usenix.org/publications/loginonline/freebsd-firecracker)
-* [2023-08-24, 17:56:10](https://news.ycombinator.com/item?id=37252334) - [Bram Moolenaar's programming language, Zimbu](https://thenewstack.io/vim-creator-bram-moolenaars-forgotten-programming-language-zimbu/)
 * [2023-08-24, 15:44:48](https://news.ycombinator.com/item?id=37250213) - [Easy-ISLisp: ISLisp interpreter/compiler](https://github.com/sasagawa888/eisl)
 * [2023-08-24, 13:26:45](https://news.ycombinator.com/item?id=37248494) - [Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding/)
 * [2023-08-24, 13:19:30](https://news.ycombinator.com/item?id=37248411) - [Is Computer Hacking a Crime? (1989) [pdf]](https://faculty.weber.edu/apainter1/Readings/Hacking%20a%20Crime.pdf)
