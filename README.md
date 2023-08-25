@@ -24,7 +24,7 @@
 * [2023-08-25, 00:13:37](https://news.ycombinator.com/item?id=37256217) - [Helicopter Footage Reveals State Trooper Surveillance Capabilities](https://unicornriot.ninja/2023/helicopter-footage-from-mass-arrest-reveals-state-trooper-surveillance-capabilities-tactics-and-communications/)
 * [2023-08-24, 23:55:44](https://news.ycombinator.com/item?id=37256077) - [Higashiyama Atsuki and the “between-legs effect”](https://www.nippon.com/en/japan-topics/c12403/)
 * [2023-08-24, 21:25:14](https://news.ycombinator.com/item?id=37254743) - [Researchers publish new results from dark boson searches](https://phys.org/news/2023-08-publish-results-dark-boson.html)
-* [2023-08-24, 20:47:19](https://news.ycombinator.com/item?id=37254338) - [What’s the World’s Oldest Language?](https://www.scientificamerican.com/article/whats-the-worlds-oldest-language/)
+* [2023-08-24, 18:33:38](https://news.ycombinator.com/item?id=37252821) - [Winner’s Curse: Negotiation Mistakes to Avoid](https://www.pon.harvard.edu/daily/business-negotiations/how-to-avoid-the-winners-curse/)
 * [2023-08-24, 17:19:31](https://news.ycombinator.com/item?id=37251750) - [Explore the Dragon Realm: Build a C++ adventure game with a little help from AI](https://about.gitlab.com/blog/2023/08/24/building-a-text-adventure-using-cplusplus-and-code-suggestions/)
 * [2023-08-24, 15:44:48](https://news.ycombinator.com/item?id=37250213) - [Easy-ISLisp: ISLisp interpreter/compiler](https://github.com/sasagawa888/eisl)
 * [2023-08-24, 13:26:45](https://news.ycombinator.com/item?id=37248494) - [Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding/)

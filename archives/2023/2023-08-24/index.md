@@ -24,6 +24,7 @@
 * [2023-08-24, 19:46:42](https://news.ycombinator.com/item?id=37253685) - [Firefox users may import Chrome extensions now](https://www.ghacks.net/2023/08/23/firefox-users-may-import-chrome-extensions-now/)
 * [2023-08-24, 18:52:46](https://news.ycombinator.com/item?id=37253035) - [FreeBSD on Firecracker](https://www.usenix.org/publications/loginonline/freebsd-firecracker)
 * [2023-08-24, 18:52:04](https://news.ycombinator.com/item?id=37253026) - [Better.com stock gets clobbered as it begins trading publicly down more than 93%](https://www.fastcompany.com/90944558/better-stock-down-public-betr-nasdaq)
+* [2023-08-24, 18:33:38](https://news.ycombinator.com/item?id=37252821) - [Winner’s Curse: Negotiation Mistakes to Avoid](https://www.pon.harvard.edu/daily/business-negotiations/how-to-avoid-the-winners-curse/)
 * [2023-08-24, 18:07:16](https://news.ycombinator.com/item?id=37252472) - [A New Physics Theory of Life](https://www.quantamagazine.org/a-new-thermodynamics-theory-of-the-origin-of-life-20140122/)
 * [2023-08-24, 17:59:31](https://news.ycombinator.com/item?id=37252384) - [Is there a fifth fundamental force of nature?](https://bigthink.com/starts-with-a-bang/5th-fundamental-force/)
 * [2023-08-24, 17:56:10](https://news.ycombinator.com/item?id=37252334) - [Bram Moolenaar's programming language, Zimbu](https://thenewstack.io/vim-creator-bram-moolenaars-forgotten-programming-language-zimbu/)
