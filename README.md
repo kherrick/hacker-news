@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-25, 18:48:10](https://news.ycombinator.com/item?id=37265664) - [Slime molds are gorgeous (you just never knew it) [video]](https://www.youtube.com/watch?v=gpt9cJrEZ_Y)
 * [2023-08-25, 18:25:29](https://news.ycombinator.com/item?id=37265346) - [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
 * [2023-08-25, 18:08:55](https://news.ycombinator.com/item?id=37265097) - [Why Htmx Does Not Have a Build Step](https://htmx.org/essays/no-build-step/)
 * [2023-08-25, 17:31:02](https://news.ycombinator.com/item?id=37264538) - [Poly (YC S22) |Hiring Founding Platform Engineer|GenAI Design Asset Marketplace](https://www.ycombinator.com/companies/poly/jobs/L4ObRgn-founding-platform-full-stack-front-end-developer-generative-ai-enabled-design-asset-marketplace-founding-team-at-a-yc-startup-backed-by-bloomberg-felicis-figma)
@@ -13,7 +14,6 @@
 * [2023-08-25, 14:56:48](https://news.ycombinator.com/item?id=37262440) - [OpenTF Announces Fork of Terraform](https://opentf.org/announcement)
 * [2023-08-25, 14:42:00](https://news.ycombinator.com/item?id=37262258) - [Leaked Wipeout source code leads to near-total rewrite and remaster](https://arstechnica.com/gaming/2023/08/developer-rewrites-original-wipeout-from-abysmal-leaked-windows-source/)
 * [2023-08-25, 14:37:24](https://news.ycombinator.com/item?id=37262220) - [Untouchable Number](https://en.wikipedia.org/wiki/Untouchable_number)
-* [2023-08-25, 14:27:44](https://news.ycombinator.com/item?id=37262115) - [On-demand audio passes linear audio](https://www.edisonresearch.com/weekly-insights-8-23-2023-on-demand-audio-passes-linear-audio/)
 * [2023-08-25, 13:00:13](https://news.ycombinator.com/item?id=37261198) - [How do domain-specific chatbots work? A retrieval augmented generation overview](https://scriv.ai/guides/retrieval-augmented-generation-overview/)
 * [2023-08-25, 12:46:31](https://news.ycombinator.com/item?id=37261088) - [Making NetBSD Multiboot-Compatible (2007)](https://jmmv.dev/2007/03/making-netbsd-multiboot-compatible.html)
 * [2023-08-25, 12:36:18](https://news.ycombinator.com/item?id=37261001) - [50TB IBM tape drive more than doubles LTO-9 capacity](https://blocksandfiles.com/2023/08/23/50tb-ibm-tape/)
