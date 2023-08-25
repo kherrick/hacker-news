@@ -7,6 +7,7 @@
 * [2023-08-25, 12:36:18](https://news.ycombinator.com/item?id=37261001) - [50TB IBM tape drive more than doubles LTO-9 capacity](https://blocksandfiles.com/2023/08/23/50tb-ibm-tape/)
 * [2023-08-25, 11:50:20](https://news.ycombinator.com/item?id=37260637) - [Factorio: Space Age](https://factorio.com/blog/post/fff-373)
 * [2023-08-25, 11:38:06](https://news.ycombinator.com/item?id=37260553) - [The College Board Tells TikTok and Facebook Your SAT Scores](https://gizmodo.com/sat-college-board-tells-facebook-tiktok-your-scores-gpa-1850768077)
+* [2023-08-25, 10:44:12](https://news.ycombinator.com/item?id=37260141) - [Stable Linux mainline builds for Ubuntu](https://stgraber.org/2023/08/24/stable-linux-mainline-builds/)
 * [2023-08-25, 09:45:01](https://news.ycombinator.com/item?id=37259826) - [The Tao of Go](https://bitfieldconsulting.com/golang/tao-of-go)
 * [2023-08-25, 09:34:28](https://news.ycombinator.com/item?id=37259753) - [Finetuning of Falcon-7B LLM Using QLoRA on Mental Health Conversational Dataset](https://github.com/iamarunbrahma/finetuned-qlora-falcon7b-medical)
 * [2023-08-25, 09:22:26](https://news.ycombinator.com/item?id=37259699) - [Things I tried to improve sleep](https://vincelwt.com/sleep)
