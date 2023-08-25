@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 14:51:04](https://news.ycombinator.com/item?id=37262370) - [Meta Throttles 404Media Investigation on Drug Ads, Continues to Advertise Drugs](https://www.404media.co/instagram-throttles-404-media-investigation-into-drug-ads-on-instagram-continues-to-let-people-advertise-drugs/)
 * [2023-08-25, 14:01:13](https://news.ycombinator.com/item?id=37261843) - [Does wearing waterproof clothing increase PFAS in our bodies?](https://molecularspec.substack.com/p/water-repellent-clothing-and-pfas)
 * [2023-08-25, 13:57:16](https://news.ycombinator.com/item?id=37261786) - [How the fertility crisis might end](https://www.overcomingbias.com/p/13-fertility-scenarios)
 * [2023-08-25, 13:31:46](https://news.ycombinator.com/item?id=37261527) - [Huawei reportedly building 'secret' semiconductor fabs](https://www.theregister.com/2023/08/25/huawei_building_secret_fabs/)
