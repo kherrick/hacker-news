@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 09:34:28](https://news.ycombinator.com/item?id=37259753) - [Finetuning of Falcon-7B LLM Using QLoRA on Mental Health Conversational Dataset](https://github.com/iamarunbrahma/finetuned-qlora-falcon7b-medical)
 * [2023-08-25, 09:14:42](https://news.ycombinator.com/item?id=37259655) - [Monetizing Developer Tools](https://github.com/rui314/mold/issues/190)
 * [2023-08-25, 08:59:49](https://news.ycombinator.com/item?id=37259578) - [FDA approving drugs after fewer trials, providing less information to public](https://medicalxpress.com/news/2023-08-fda-drugs-trials.html)
 * [2023-08-25, 08:51:04](https://news.ycombinator.com/item?id=37259525) - [Bizarre Movie Posters From Africa That Are So Bad, They’re Good](https://www.dannydutch.com/post/bizarre-movie-posters-from-africa-that-are-so-bad-they-re-good)
