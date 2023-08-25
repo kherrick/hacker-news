@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
 * [2023-08-25, 03:07:36](https://news.ycombinator.com/item?id=37257521) - [Python 3.11.5 (2023)](https://www.python.org/downloads/release/python-3115/)
+* [2023-08-25, 03:06:37](https://news.ycombinator.com/item?id=37257514) - [How to Drill Your Own Water Well](https://drillyourownwell.com/)
 * [2023-08-25, 02:58:29](https://news.ycombinator.com/item?id=37257465) - [Hell freezes over as Apple supports right-to-repair bill](https://arstechnica.com/gadgets/2023/08/hell-freezes-over-as-apple-supports-right-to-repair-bill/)
 * [2023-08-25, 02:27:12](https://news.ycombinator.com/item?id=37257218) - [Os.js – open-source JavaScript web desktop platform with a window manager](https://www.os-js.org/)
 * [2023-08-25, 02:07:13](https://news.ycombinator.com/item?id=37257027) - [Algebraic Topology for Data Scientists](https://arxiv.org/abs/2308.10825)
