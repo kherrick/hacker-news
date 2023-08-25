@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-25, 14:58:23](https://news.ycombinator.com/item?id=37262457) - [Let's Not Encrypt [2019]](http://michael.orlitzky.com/articles/lets_not_encrypt.xhtml)
+* [2023-08-25, 14:56:48](https://news.ycombinator.com/item?id=37262440) - [OpenTF Announces Fork of Terraform](https://opentf.org/announcement)
 * [2023-08-25, 14:51:04](https://news.ycombinator.com/item?id=37262370) - [Meta Throttles 404Media Investigation on Drug Ads, Continues to Advertise Drugs](https://www.404media.co/instagram-throttles-404-media-investigation-into-drug-ads-on-instagram-continues-to-let-people-advertise-drugs/)
 * [2023-08-25, 14:01:13](https://news.ycombinator.com/item?id=37261843) - [Does wearing waterproof clothing increase PFAS in our bodies?](https://molecularspec.substack.com/p/water-repellent-clothing-and-pfas)
 * [2023-08-25, 13:31:46](https://news.ycombinator.com/item?id=37261527) - [Huawei reportedly building 'secret' semiconductor fabs](https://www.theregister.com/2023/08/25/huawei_building_secret_fabs/)
@@ -24,12 +26,10 @@
 * [2023-08-25, 01:01:55](https://news.ycombinator.com/item?id=37256577) - [AI isn’t good enough](https://skventures.substack.com/p/ai-isnt-good-enough)
 * [2023-08-25, 00:48:03](https://news.ycombinator.com/item?id=37256479) - [Implementing Interactive Languages](https://www.scattered-thoughts.net/writing/implementing-interactive-languages/)
 * [2023-08-24, 21:25:14](https://news.ycombinator.com/item?id=37254743) - [Researchers publish new results from dark boson searches](https://phys.org/news/2023-08-publish-results-dark-boson.html)
-* [2023-08-24, 20:48:22](https://news.ycombinator.com/item?id=37254348) - [Abacuysnth – A synthesizer inspired by an abacus (2022) [video]](https://www.youtube.com/watch?v=1lWUlo18B14)
 * [2023-08-24, 18:33:38](https://news.ycombinator.com/item?id=37252821) - [Winner’s Curse: Negotiation Mistakes to Avoid](https://www.pon.harvard.edu/daily/business-negotiations/how-to-avoid-the-winners-curse/)
 * [2023-08-24, 15:44:48](https://news.ycombinator.com/item?id=37250213) - [Easy-ISLisp: ISLisp interpreter/compiler](https://github.com/sasagawa888/eisl)
 * [2023-08-24, 13:26:45](https://news.ycombinator.com/item?id=37248494) - [Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding/)
 * [2023-08-24, 12:29:47](https://news.ycombinator.com/item?id=37248013) - [Visualizing Neural Networks](https://photonlines.substack.com/p/grokking-neural-networks)
-* [2023-08-24, 11:32:49](https://news.ycombinator.com/item?id=37247633) - [Cyberpunk in the Nineties (1998)](https://www.streettech.com/bcp/BCPtext/Manifestos/CPInThe90s.html)
 
 ## [Archives](archives/index.md)
 
