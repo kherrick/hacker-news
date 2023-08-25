@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
 * [2023-08-25, 14:58:23](https://news.ycombinator.com/item?id=37262457) - [Let's Not Encrypt [2019]](http://michael.orlitzky.com/articles/lets_not_encrypt.xhtml)
+* [2023-08-25, 14:56:59](https://news.ycombinator.com/item?id=37262442) - [Ubuntu Desktop: charting a course for the future](https://ubuntu.com/blog/ubuntu-desktop-charting-a-course-for-the-future)
 * [2023-08-25, 14:56:48](https://news.ycombinator.com/item?id=37262440) - [OpenTF Announces Fork of Terraform](https://opentf.org/announcement)
 * [2023-08-25, 14:51:04](https://news.ycombinator.com/item?id=37262370) - [Meta Throttles 404Media Investigation on Drug Ads, Continues to Advertise Drugs](https://www.404media.co/instagram-throttles-404-media-investigation-into-drug-ads-on-instagram-continues-to-let-people-advertise-drugs/)
+* [2023-08-25, 14:42:00](https://news.ycombinator.com/item?id=37262258) - [Leaked Wipeout source code leads to near-total rewrite and remaster](https://arstechnica.com/gaming/2023/08/developer-rewrites-original-wipeout-from-abysmal-leaked-windows-source/)
 * [2023-08-25, 14:01:13](https://news.ycombinator.com/item?id=37261843) - [Does wearing waterproof clothing increase PFAS in our bodies?](https://molecularspec.substack.com/p/water-repellent-clothing-and-pfas)
 * [2023-08-25, 13:57:16](https://news.ycombinator.com/item?id=37261786) - [How the fertility crisis might end](https://www.overcomingbias.com/p/13-fertility-scenarios)
 * [2023-08-25, 13:31:46](https://news.ycombinator.com/item?id=37261527) - [Huawei reportedly building 'secret' semiconductor fabs](https://www.theregister.com/2023/08/25/huawei_building_secret_fabs/)

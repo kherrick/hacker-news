@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-25, 14:58:23](https://news.ycombinator.com/item?id=37262457) - [Let's Not Encrypt [2019]](http://michael.orlitzky.com/articles/lets_not_encrypt.xhtml)
+* [2023-08-25, 14:56:59](https://news.ycombinator.com/item?id=37262442) - [Ubuntu Desktop: charting a course for the future](https://ubuntu.com/blog/ubuntu-desktop-charting-a-course-for-the-future)
 * [2023-08-25, 14:56:48](https://news.ycombinator.com/item?id=37262440) - [OpenTF Announces Fork of Terraform](https://opentf.org/announcement)
 * [2023-08-25, 14:51:04](https://news.ycombinator.com/item?id=37262370) - [Meta Throttles 404Media Investigation on Drug Ads, Continues to Advertise Drugs](https://www.404media.co/instagram-throttles-404-media-investigation-into-drug-ads-on-instagram-continues-to-let-people-advertise-drugs/)
+* [2023-08-25, 14:42:00](https://news.ycombinator.com/item?id=37262258) - [Leaked Wipeout source code leads to near-total rewrite and remaster](https://arstechnica.com/gaming/2023/08/developer-rewrites-original-wipeout-from-abysmal-leaked-windows-source/)
 * [2023-08-25, 14:01:13](https://news.ycombinator.com/item?id=37261843) - [Does wearing waterproof clothing increase PFAS in our bodies?](https://molecularspec.substack.com/p/water-repellent-clothing-and-pfas)
 * [2023-08-25, 13:31:46](https://news.ycombinator.com/item?id=37261527) - [Huawei reportedly building 'secret' semiconductor fabs](https://www.theregister.com/2023/08/25/huawei_building_secret_fabs/)
 * [2023-08-25, 13:00:13](https://news.ycombinator.com/item?id=37261198) - [How do domain-specific chatbots work? A retrieval augmented generation overview](https://scriv.ai/guides/retrieval-augmented-generation-overview/)
@@ -25,7 +26,6 @@
 * [2023-08-25, 01:36:17](https://news.ycombinator.com/item?id=37256817) - [The complete sequence of a human Y chromosome](https://www.nature.com/articles/s41586-023-06457-y)
 * [2023-08-25, 01:01:55](https://news.ycombinator.com/item?id=37256577) - [AI isn’t good enough](https://skventures.substack.com/p/ai-isnt-good-enough)
 * [2023-08-25, 00:48:03](https://news.ycombinator.com/item?id=37256479) - [Implementing Interactive Languages](https://www.scattered-thoughts.net/writing/implementing-interactive-languages/)
-* [2023-08-24, 21:25:14](https://news.ycombinator.com/item?id=37254743) - [Researchers publish new results from dark boson searches](https://phys.org/news/2023-08-publish-results-dark-boson.html)
 * [2023-08-24, 18:33:38](https://news.ycombinator.com/item?id=37252821) - [Winner’s Curse: Negotiation Mistakes to Avoid](https://www.pon.harvard.edu/daily/business-negotiations/how-to-avoid-the-winners-curse/)
 * [2023-08-24, 15:44:48](https://news.ycombinator.com/item?id=37250213) - [Easy-ISLisp: ISLisp interpreter/compiler](https://github.com/sasagawa888/eisl)
 * [2023-08-24, 13:26:45](https://news.ycombinator.com/item?id=37248494) - [Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding/)
