@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
 * [2023-08-25, 13:31:46](https://news.ycombinator.com/item?id=37261527) - [Huawei reportedly building 'secret' semiconductor fabs](https://www.theregister.com/2023/08/25/huawei_building_secret_fabs/)
+* [2023-08-25, 12:52:10](https://news.ycombinator.com/item?id=37261126) - [None of us are truly living off the grid](https://www.okdoomer.io/youre-not-going-to-make-it/)
 * [2023-08-25, 12:46:31](https://news.ycombinator.com/item?id=37261088) - [Making NetBSD Multiboot-Compatible (2007)](https://jmmv.dev/2007/03/making-netbsd-multiboot-compatible.html)
 * [2023-08-25, 12:36:18](https://news.ycombinator.com/item?id=37261001) - [50TB IBM tape drive more than doubles LTO-9 capacity](https://blocksandfiles.com/2023/08/23/50tb-ibm-tape/)
 * [2023-08-25, 12:26:16](https://news.ycombinator.com/item?id=37260914) - [LuaJIT Uses Rolling Releases](https://www.freelists.org/post/luajit/LuaJIT-uses-rolling-releases)
