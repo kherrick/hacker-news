@@ -16,6 +16,7 @@
 * [2023-08-24, 21:15:53](https://news.ycombinator.com/item?id=37254644) - [Fox TV license renewal may be in jeopardy as FCC invites public response](https://arstechnica.com/tech-policy/2023/08/petition-to-deny-fox-tv-license-over-false-election-info-gains-steam-at-fcc/)
 * [2023-08-24, 21:07:08](https://news.ycombinator.com/item?id=37254561) - [NYC Lost 100K Homes in Apartment-to-House Conversions](https://www.thecity.nyc/housing/2023/8/24/23843686/100k-apartments-lost-to-house-conversions)
 * [2023-08-24, 21:02:21](https://news.ycombinator.com/item?id=37254510) - [Maccarone: AI-managed code blocks in Python](https://github.com/bsilverthorn/maccarone)
+* [2023-08-24, 21:01:59](https://news.ycombinator.com/item?id=37254507) - [Breaking copy protection on a 1983 game for Apple 2](https://ia804502.us.archive.org/30/items/SpareChange4amCrack/Spare%20Change%20%284am%20%26%20san%20inc%20crack%29.txt)
 * [2023-08-24, 20:48:22](https://news.ycombinator.com/item?id=37254348) - [Abacusynth (MIDI) [video]](https://www.youtube.com/watch?v=1lWUlo18B14)
 * [2023-08-24, 20:47:19](https://news.ycombinator.com/item?id=37254338) - [What’s the World’s Oldest Language?](https://www.scientificamerican.com/article/whats-the-worlds-oldest-language/)
 * [2023-08-24, 20:44:22](https://news.ycombinator.com/item?id=37254294) - [Threads.net Can Go to Hell](https://lapcatsoftware.com/articles/2023/8/4.html)

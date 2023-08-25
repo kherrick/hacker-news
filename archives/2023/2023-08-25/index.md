@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 16:07:36](https://news.ycombinator.com/item?id=37263322) - [EU’s War on Behavioral Advertising](https://thisisunpacked.substack.com/p/the-eu-war-on-behavioral-advertising)
+* [2023-08-25, 15:59:12](https://news.ycombinator.com/item?id=37263204) - [Blocking Entire Countries from Your Website for Better Traffic – Benefits](https://developmentfriendly.com/should-i-block-entire-countries-from-accessing-my-website-for-more-qualified-traffic/)
+* [2023-08-25, 15:32:31](https://news.ycombinator.com/item?id=37262857) - [HelloSystem: A graphical OS built on FreeBSD](https://hellosystem.github.io/docs/)
+* [2023-08-25, 15:13:08](https://news.ycombinator.com/item?id=37262625) - [New York, California Lose Firms Managing an Estimated $2T in Assets](https://www.costar.com/article/420490632/new-york-california-lose-firms-managing-an-estimated-2-trillion-in-assets)
 * [2023-08-25, 14:58:23](https://news.ycombinator.com/item?id=37262457) - [Let's Not Encrypt [2019]](http://michael.orlitzky.com/articles/lets_not_encrypt.xhtml)
 * [2023-08-25, 14:56:59](https://news.ycombinator.com/item?id=37262442) - [Ubuntu Desktop: charting a course for the future](https://ubuntu.com/blog/ubuntu-desktop-charting-a-course-for-the-future)
 * [2023-08-25, 14:56:48](https://news.ycombinator.com/item?id=37262440) - [OpenTF Announces Fork of Terraform](https://opentf.org/announcement)
@@ -22,6 +26,7 @@
 * [2023-08-25, 11:38:06](https://news.ycombinator.com/item?id=37260553) - [The College Board Tells TikTok and Facebook Your SAT Scores](https://gizmodo.com/sat-college-board-tells-facebook-tiktok-your-scores-gpa-1850768077)
 * [2023-08-25, 10:44:12](https://news.ycombinator.com/item?id=37260141) - [Stable Linux mainline builds for Ubuntu](https://stgraber.org/2023/08/24/stable-linux-mainline-builds/)
 * [2023-08-25, 09:45:01](https://news.ycombinator.com/item?id=37259826) - [The Tao of Go](https://bitfieldconsulting.com/golang/tao-of-go)
+* [2023-08-25, 09:39:07](https://news.ycombinator.com/item?id=37259786) - [Rust Malware Staged on Crates.io](https://blog.phylum.io/rust-malware-staged-on-crates-io/)
 * [2023-08-25, 09:34:28](https://news.ycombinator.com/item?id=37259753) - [Finetuning of Falcon-7B LLM Using QLoRA on Mental Health Conversational Dataset](https://github.com/iamarunbrahma/finetuned-qlora-falcon7b-medical)
 * [2023-08-25, 09:22:26](https://news.ycombinator.com/item?id=37259699) - [Things I tried to improve sleep](https://vincelwt.com/sleep)
 * [2023-08-25, 09:14:42](https://news.ycombinator.com/item?id=37259655) - [Monetizing Developer Tools](https://github.com/rui314/mold/issues/190)
