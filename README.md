@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-25, 22:08:23](https://news.ycombinator.com/item?id=37267597) - [Show HN: Beating GPT-4 on HumanEval with a fine-tuned CodeLlama-34B](https://www.phind.com/blog/code-llama-beats-gpt4)
+* [2023-08-25, 22:08:23](https://news.ycombinator.com/item?id=37267597) - [Beating GPT-4 on HumanEval with a fine-tuned CodeLlama-34B](https://www.phind.com/blog/code-llama-beats-gpt4)
 * [2023-08-25, 21:59:12](https://news.ycombinator.com/item?id=37267523) - [Casio Caleid XM-700 Mobile Navigator (1997)](https://blog.gingerbeardman.com/2023/08/25/casio-caleid-xm700-mobile-navigator-hardware/)
 * [2023-08-25, 21:35:47](https://news.ycombinator.com/item?id=37267324) - [X to use Israeli software to require selfie, govt-issued ID for verification](https://www.jpost.com/business-and-innovation/article-755505)
 * [2023-08-25, 21:32:38](https://news.ycombinator.com/item?id=37267299) - [Fifth Circuit: Law Enforcement Doesn’t Need Warrants to Search Phones at Border](https://www.techdirt.com/2023/08/25/fifth-circuit-says-law-enforcement-doesnt-need-warrants-to-search-phones-at-the-border/)
@@ -16,8 +16,8 @@
 * [2023-08-25, 16:20:09](https://news.ycombinator.com/item?id=37263473) - [Show HN: Release AI – Talk to Your Infrastructure](https://news.ycombinator.com/item?id=37263473)
 * [2023-08-25, 16:07:36](https://news.ycombinator.com/item?id=37263322) - [The EU's war on behavioral advertising](https://thisisunpacked.substack.com/p/the-eu-war-on-behavioral-advertising)
 * [2023-08-25, 15:32:31](https://news.ycombinator.com/item?id=37262857) - [HelloSystem: A graphical OS built on FreeBSD](https://hellosystem.github.io/docs/)
-* [2023-08-25, 14:56:48](https://news.ycombinator.com/item?id=37262440) - [OpenTF Announces Fork of Terraform](https://opentf.org/announcement)
-* [2023-08-25, 14:42:39](https://news.ycombinator.com/item?id=37262265) - [Note-taking apps are designed for storage, not insight – can AI change that?](https://www.theverge.com/2023/8/25/23845590/note-taking-apps-ai-chat-distractions-notion-roam-mem-obsidian)
+* [2023-08-25, 14:56:48](https://news.ycombinator.com/item?id=37262440) - [OpenTF announces fork of Terraform](https://opentf.org/announcement)
+* [2023-08-25, 14:42:00](https://news.ycombinator.com/item?id=37262258) - [Leaked Wipeout source code leads to near-total rewrite and remaster](https://arstechnica.com/gaming/2023/08/developer-rewrites-original-wipeout-from-abysmal-leaked-windows-source/)
 * [2023-08-25, 14:37:24](https://news.ycombinator.com/item?id=37262220) - [Untouchable number](https://en.wikipedia.org/wiki/Untouchable_number)
 * [2023-08-25, 13:00:13](https://news.ycombinator.com/item?id=37261198) - [How do domain-specific chatbots work? A retrieval augmented generation overview](https://scriv.ai/guides/retrieval-augmented-generation-overview/)
 * [2023-08-25, 11:50:20](https://news.ycombinator.com/item?id=37260637) - [Factorio: Space Age](https://factorio.com/blog/post/fff-373)
