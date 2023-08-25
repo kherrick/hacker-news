@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2023-08-24, 21:57:25",
-      "https://news.ycombinator.com/item?id=37255079"
-    ],
-    [
-      "Proof-of-Work Defense for Onion Services",
-      "https://blog.torproject.org/introducing-proof-of-work-defense-for-onion-services/"
-    ]
-  ],
-  [
-    [
       "2023-08-24, 21:25:14",
       "https://news.ycombinator.com/item?id=37254743"
     ],
@@ -257,6 +247,16 @@
     [
       "Code Llama, a state-of-the-art large language model for coding",
       "https://ai.meta.com/blog/code-llama-large-language-model-coding/"
+    ]
+  ],
+  [
+    [
+      "2023-08-24, 12:52:42",
+      "https://news.ycombinator.com/item?id=37248177"
+    ],
+    [
+      "Compiling Functional Languages (2002) [pdf]",
+      "https://xavierleroy.org/talks/compilation-agay.pdf"
     ]
   ],
   [
