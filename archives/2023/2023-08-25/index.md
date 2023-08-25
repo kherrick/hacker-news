@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 20:58:11](https://news.ycombinator.com/item?id=37266957) - [Giving up the iPad-only travel dream](https://sixcolors.com/post/2023/08/why-i-gave-up-on-the-ipad-only-dream/)
 * [2023-08-25, 19:45:22](https://news.ycombinator.com/item?id=37266200) - [The Notetaking Cold War (2020)](https://every.to/superorganizers/the-notetaking-cold-war-591898)
 * [2023-08-25, 19:43:59](https://news.ycombinator.com/item?id=37266189) - [Wealthy People Are Getting Full-Body Scans. Early Detection or Unnecessary?](https://www.wsj.com/health/wellness/full-body-preventive-scan-cost-eb291fcc)
 * [2023-08-25, 19:32:29](https://news.ycombinator.com/item?id=37266091) - [Tropical forests are approaching critical temperature thresholds](https://www.nature.com/articles/s41586-023-06391-z)

@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-25, 20:58:11](https://news.ycombinator.com/item?id=37266957) - [Giving up the iPad-only travel dream](https://sixcolors.com/post/2023/08/why-i-gave-up-on-the-ipad-only-dream/)
 * [2023-08-25, 19:45:22](https://news.ycombinator.com/item?id=37266200) - [The Notetaking Cold War (2020)](https://every.to/superorganizers/the-notetaking-cold-war-591898)
-* [2023-08-25, 19:43:59](https://news.ycombinator.com/item?id=37266189) - [Wealthy People Are Getting Full-Body Scans. Early Detection or Unnecessary?](https://www.wsj.com/health/wellness/full-body-preventive-scan-cost-eb291fcc)
 * [2023-08-25, 18:48:10](https://news.ycombinator.com/item?id=37265664) - [Slime Molds [video]](https://www.youtube.com/watch?v=gpt9cJrEZ_Y)
 * [2023-08-25, 17:42:23](https://news.ycombinator.com/item?id=37264676) - [Web scraping for me, but not for thee](https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm)
 * [2023-08-25, 17:31:02](https://news.ycombinator.com/item?id=37264538) - [Poly (YC S22) is hiring a founding platform engineer](https://www.ycombinator.com/companies/poly/jobs/L4ObRgn-founding-platform-full-stack-front-end-developer-generative-ai-enabled-design-asset-marketplace-founding-team-at-a-yc-startup-backed-by-bloomberg-felicis-figma)
@@ -18,7 +18,6 @@
 * [2023-08-25, 14:37:24](https://news.ycombinator.com/item?id=37262220) - [Untouchable number](https://en.wikipedia.org/wiki/Untouchable_number)
 * [2023-08-25, 13:00:13](https://news.ycombinator.com/item?id=37261198) - [How do domain-specific chatbots work? A retrieval augmented generation overview](https://scriv.ai/guides/retrieval-augmented-generation-overview/)
 * [2023-08-25, 12:26:16](https://news.ycombinator.com/item?id=37260914) - [LuaJIT uses rolling releases](https://www.freelists.org/post/luajit/LuaJIT-uses-rolling-releases)
-* [2023-08-25, 12:25:59](https://news.ycombinator.com/item?id=37260913) - [Show HN: PlotAI – Create Plots in Python and Matplotlib with LLM](https://github.com/mljar/plotai)
 * [2023-08-25, 11:50:20](https://news.ycombinator.com/item?id=37260637) - [Factorio: Space Age](https://factorio.com/blog/post/fff-373)
 * [2023-08-25, 10:44:12](https://news.ycombinator.com/item?id=37260141) - [Stable Linux mainline builds for Ubuntu](https://stgraber.org/2023/08/24/stable-linux-mainline-builds/)
 * [2023-08-25, 09:34:28](https://news.ycombinator.com/item?id=37259753) - [Finetuning of Falcon-7B LLM Using QLoRA on Mental Health Conversational Dataset](https://github.com/iamarunbrahma/finetuned-qlora-falcon7b-medical)
@@ -30,6 +29,7 @@
 * [2023-08-24, 21:01:59](https://news.ycombinator.com/item?id=37254507) - [Breaking copy protection on a 1983 game for Apple 2](https://ia804502.us.archive.org/30/items/SpareChange4amCrack/Spare%20Change%20%284am%20%26%20san%20inc%20crack%29.txt)
 * [2023-08-24, 18:33:38](https://news.ycombinator.com/item?id=37252821) - [Winner’s Curse: Negotiation Mistakes to Avoid](https://www.pon.harvard.edu/daily/business-negotiations/how-to-avoid-the-winners-curse/)
 * [2023-08-24, 12:29:47](https://news.ycombinator.com/item?id=37248013) - [Visualizing Neural Networks](https://photonlines.substack.com/p/grokking-neural-networks)
+* [2023-08-24, 11:53:24](https://news.ycombinator.com/item?id=37247758) - [DC Grids](https://www.iisb.fraunhofer.de/en/research_areas/intelligent_energy_systems/DC-grids.html)
 
 ## [Archives](archives/index.md)
 
