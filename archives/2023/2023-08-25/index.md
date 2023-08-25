@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 17:31:02](https://news.ycombinator.com/item?id=37264538) - [Poly (YC S22) |Hiring Founding Platform Engineer|GenAI Design Asset Marketplace](https://www.ycombinator.com/companies/poly/jobs/L4ObRgn-founding-platform-full-stack-front-end-developer-generative-ai-enabled-design-asset-marketplace-founding-team-at-a-yc-startup-backed-by-bloomberg-felicis-figma)
+* [2023-08-25, 17:05:52](https://news.ycombinator.com/item?id=37264208) - [Dropbox Axes Unlimited Cloud Storage for Businesses](https://blog.dropbox.com/topics/product/updates-to-our-storage-policy-on-dropbox-advanced)
+* [2023-08-25, 16:45:42](https://news.ycombinator.com/item?id=37263884) - [Upholding Free Speech Amidst the EU’s DSA Law](https://news.gab.com/2023/08/upholding-free-speech-amidst-the-eus-dsa-law/)
+* [2023-08-25, 16:42:02](https://news.ycombinator.com/item?id=37263827) - [UBC device uses wood dust to trap up to 99.9 per cent of microplastics in water](https://news.ubc.ca/2023/08/16/microplastic-pollution-plants-could-be-the-answer/)
+* [2023-08-25, 16:39:41](https://news.ycombinator.com/item?id=37263793) - [My hobby became my job, 50% extra pay, just needed to let go of GPLv3](https://goauthentik.io/blog/2023-08-23-my-hobby-became-my-job)
 * [2023-08-25, 16:20:09](https://news.ycombinator.com/item?id=37263473) - [Show HN: Release AI – Talk to Your Infrastructure](https://www.ycombinator.com/launches/JI1-release-ai-talk-to-your-infrastructure)
 * [2023-08-25, 16:19:14](https://news.ycombinator.com/item?id=37263459) - [Just 23% of Americans Know the US Has Failed to Pass an Internet-Era Privacy Law](https://www.techdirt.com/2023/08/25/just-23-of-americans-know-the-u-s-has-failed-to-pass-an-internet-era-privacy-law/)
 * [2023-08-25, 16:16:53](https://news.ycombinator.com/item?id=37263434) - [Changes to UK Surveillance Regime May Violate International Law](https://www.justsecurity.org/87615/changes-to-uk-surveillance-regime-may-violate-international-law/)
