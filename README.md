@@ -17,7 +17,6 @@
 * [2023-08-24, 17:56:10](https://news.ycombinator.com/item?id=37252334) - [Bram Moolenaar's programming language, Zimbu](https://thenewstack.io/vim-creator-bram-moolenaars-forgotten-programming-language-zimbu/)
 * [2023-08-24, 17:49:04](https://news.ycombinator.com/item?id=37252231) - [Show HN: Shimmer – ADHD coaching for adults, now on web](https://www.shimmer.care/blog/web-launch-adhd-coaching)
 * [2023-08-24, 17:36:22](https://news.ycombinator.com/item?id=37252025) - [Artificial intelligence gave a paralyzed woman her voice back](https://www.ucsf.edu/news/2023/08/425986/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back)
-* [2023-08-24, 17:32:59](https://news.ycombinator.com/item?id=37251964) - [Barbara: Live coding languages for quilters](https://www.barbara.graphics/)
 * [2023-08-24, 16:58:57](https://news.ycombinator.com/item?id=37251411) - [LANDrop – Drop any files to any devices on your LAN](https://landrop.app/)
 * [2023-08-24, 14:01:02](https://news.ycombinator.com/item?id=37248882) - [Skin health can be used to predict a number of seemingly unconnected factors](https://www.bbc.com/future/article/20230823-the-curious-ways-your-skin-shapes-your-health)
 * [2023-08-24, 13:44:48](https://news.ycombinator.com/item?id=37248694) - [Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://arxiv.org/abs/2308.09687)
@@ -30,6 +29,7 @@
 * [2023-08-24, 09:18:57](https://news.ycombinator.com/item?id=37246688) - [Ask HN: Undiscovered electronics/maker YouTube channels](https://news.ycombinator.com/item?id=37246688)
 * [2023-08-24, 05:35:46](https://news.ycombinator.com/item?id=37245383) - [Domain Repetition](https://iquilezles.org/articles/sdfrepetition/)
 * [2023-08-24, 04:46:23](https://news.ycombinator.com/item?id=37245109) - [Distributed Consensus](https://shachaf.net/w/consensus)
+* [2023-08-24, 00:05:11](https://news.ycombinator.com/item?id=37243519) - [Old English Names: Cæd, Bæd and Dangerous to Know](https://www.historytoday.com/archive/feature/old-english-names-caed-baed-and-dangerous-know)
 
 ## [Archives](archives/index.md)
 
