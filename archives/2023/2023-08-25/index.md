@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 08:34:59](https://news.ycombinator.com/item?id=37259441) - [Eppie is a decentralized email with full address and account ownership](https://eppie.io)
 * [2023-08-25, 07:55:17](https://news.ycombinator.com/item?id=37259225) - [Unpacking Elixir: Concurrency](https://underjord.io/unpacking-elixir-concurrency.html)
 * [2023-08-25, 05:26:58](https://news.ycombinator.com/item?id=37258411) - [Evolution of the Gitea Downloads Site](https://blog.gitea.com/evolution-of-the-gitea-downloads-site/)
 * [2023-08-25, 04:44:21](https://news.ycombinator.com/item?id=37258178) - [The place where no humans will tread for 100k years](https://www.bbc.com/future/article/20230824-the-descent-to-the-worlds-first-waste-nuclear-fuel-storage-site)
@@ -25,4 +26,5 @@
 * [2023-08-25, 00:48:03](https://news.ycombinator.com/item?id=37256479) - [Implementing Interactive Languages](https://www.scattered-thoughts.net/writing/implementing-interactive-languages/)
 * [2023-08-25, 00:36:02](https://news.ycombinator.com/item?id=37256379) - [Record low sea ice led to catastrophic breeding failure of emperor penguins](https://www.nature.com/articles/s43247-023-00927-x)
 * [2023-08-25, 00:25:33](https://news.ycombinator.com/item?id=37256300) - [OpenAI now tries to hide that ChatGPT was trained on copyrighted books](https://www.businessinsider.com/openais-latest-chatgpt-version-hides-training-on-copyrighted-material-2023-8)
+* [2023-08-25, 00:13:37](https://news.ycombinator.com/item?id=37256217) - [Helicopter Footage Reveals State Trooper Surveillance Capabilities](https://unicornriot.ninja/2023/helicopter-footage-from-mass-arrest-reveals-state-trooper-surveillance-capabilities-tactics-and-communications/)
 * [2023-08-25, 00:01:47](https://news.ycombinator.com/item?id=37256115) - [My experience contributing to HashiCorp open-source projects](https://discuss.hashicorp.com/t/updating-contributing-md/46186)
