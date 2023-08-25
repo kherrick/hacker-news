@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-25, 02:58:29](https://news.ycombinator.com/item?id=37257465) - [Hell freezes over as Apple supports right-to-repair bill](https://arstechnica.com/gadgets/2023/08/hell-freezes-over-as-apple-supports-right-to-repair-bill/)
 * [2023-08-25, 02:27:12](https://news.ycombinator.com/item?id=37257218) - [Os.js – open-source JavaScript web desktop platform with a window manager](https://www.os-js.org/)
+* [2023-08-25, 02:07:13](https://news.ycombinator.com/item?id=37257027) - [Algebraic Topology for Data Scientists](https://arxiv.org/abs/2308.10825)
+* [2023-08-25, 01:57:03](https://news.ycombinator.com/item?id=37256968) - [America is building chip factories. Now to find the workers](https://www.economist.com/united-states/2023/08/05/america-is-building-chip-factories-now-to-find-the-workers)
 * [2023-08-25, 01:47:59](https://news.ycombinator.com/item?id=37256903) - [Understanding Automatic Differentiation in 30 lines of Python](https://vmartin.fr/understanding-automatic-differentiation-in-30-lines-of-python.html)
 * [2023-08-25, 01:36:17](https://news.ycombinator.com/item?id=37256817) - [The human Y chromosome has been completely sequenced](https://www.nature.com/articles/s41586-023-06457-y)
 * [2023-08-25, 01:01:55](https://news.ycombinator.com/item?id=37256577) - [AI Isn’t Good Enough](https://skventures.substack.com/p/ai-isnt-good-enough)
 * [2023-08-25, 00:48:40](https://news.ycombinator.com/item?id=37256484) - [Paper and bamboo straws contain PFAS chemicals more often than plastic straws do](https://www.nbcnews.com/health/health-news/paper-bamboo-straws-contain-pfas-forever-chemicals-rcna101614)
-* [2023-08-25, 00:36:02](https://news.ycombinator.com/item?id=37256379) - [Record low sea ice led to catastrophic breeding failure of emperor penguins](https://www.nature.com/articles/s43247-023-00927-x)
-* [2023-08-25, 00:01:47](https://news.ycombinator.com/item?id=37256115) - [My experience contributing to HashiCorp open-source projects](https://discuss.hashicorp.com/t/updating-contributing-md/46186)
 * [2023-08-24, 23:55:44](https://news.ycombinator.com/item?id=37256077) - [Higashiyama Atsuki and the “between-legs effect”](https://www.nippon.com/en/japan-topics/c12403/)
 * [2023-08-24, 22:17:18](https://news.ycombinator.com/item?id=37255280) - [An image preprocessing tool to protect artworks from AI-for-Art based mimicry](https://mist-project.github.io/index_en.html)
 * [2023-08-24, 21:57:25](https://news.ycombinator.com/item?id=37255079) - [Proof-of-Work Defense for Onion Services](https://blog.torproject.org/introducing-proof-of-work-defense-for-onion-services/)
@@ -29,7 +30,6 @@
 * [2023-08-24, 09:18:57](https://news.ycombinator.com/item?id=37246688) - [Ask HN: Undiscovered electronics/maker YouTube channels](https://news.ycombinator.com/item?id=37246688)
 * [2023-08-24, 05:35:46](https://news.ycombinator.com/item?id=37245383) - [Domain Repetition](https://iquilezles.org/articles/sdfrepetition/)
 * [2023-08-24, 04:46:23](https://news.ycombinator.com/item?id=37245109) - [Distributed Consensus](https://shachaf.net/w/consensus)
-* [2023-08-23, 13:06:31](https://news.ycombinator.com/item?id=37235242) - [Spanish astronomer discovers new active galaxy](https://phys.org/news/2023-08-spanish-astronomer-galaxy.html)
 
 ## [Archives](archives/index.md)
 
