@@ -11,6 +11,7 @@
 * [2023-08-25, 01:57:03](https://news.ycombinator.com/item?id=37256968) - [America is building chip factories. Now to find the workers](https://www.economist.com/united-states/2023/08/05/america-is-building-chip-factories-now-to-find-the-workers)
 * [2023-08-25, 01:47:59](https://news.ycombinator.com/item?id=37256903) - [Understanding Automatic Differentiation in 30 lines of Python](https://vmartin.fr/understanding-automatic-differentiation-in-30-lines-of-python.html)
 * [2023-08-25, 01:41:42](https://news.ycombinator.com/item?id=37256852) - [Research Suggests Politicians Are More Likely to Be Psychopaths](https://www.smithsonianmag.com/smart-news/research-suggests-politicians-are-more-likely-to-be-psychopaths-11364143/)
+* [2023-08-25, 01:41:02](https://news.ycombinator.com/item?id=37256849) - [A new futex API](https://lwn.net/Articles/940944/)
 * [2023-08-25, 01:36:17](https://news.ycombinator.com/item?id=37256817) - [The human Y chromosome has been completely sequenced](https://www.nature.com/articles/s41586-023-06457-y)
 * [2023-08-25, 01:01:55](https://news.ycombinator.com/item?id=37256577) - [AI Isn’t Good Enough](https://skventures.substack.com/p/ai-isnt-good-enough)
 * [2023-08-25, 00:48:40](https://news.ycombinator.com/item?id=37256484) - [Paper and bamboo straws contain PFAS chemicals more often than plastic straws do](https://www.nbcnews.com/health/health-news/paper-bamboo-straws-contain-pfas-forever-chemicals-rcna101614)
