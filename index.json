@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-25, 09:34:28",
+      "https://news.ycombinator.com/item?id=37259753"
+    ],
+    [
+      "Finetuning of Falcon-7B LLM Using QLoRA on Mental Health Conversational Dataset",
+      "https://github.com/iamarunbrahma/finetuned-qlora-falcon7b-medical"
+    ]
+  ],
+  [
+    [
       "2023-08-25, 08:51:04",
       "https://news.ycombinator.com/item?id=37259525"
     ],
@@ -77,16 +87,6 @@
     [
       "Algebraic Topology for Data Scientists",
       "https://arxiv.org/abs/2308.10825"
-    ]
-  ],
-  [
-    [
-      "2023-08-25, 01:57:03",
-      "https://news.ycombinator.com/item?id=37256968"
-    ],
-    [
-      "America is building chip factories. Now to find the workers",
-      "https://www.economist.com/united-states/2023/08/05/america-is-building-chip-factories-now-to-find-the-workers"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2023-08-24, 21:32:46",
-      "https://news.ycombinator.com/item?id=37254823"
-    ],
-    [
-      "Runme – Interactive Runbooks Built with Markdown",
-      "https://runme.dev/"
-    ]
-  ],
-  [
-    [
       "2023-08-24, 21:02:21",
       "https://news.ycombinator.com/item?id=37254510"
     ],
@@ -267,6 +257,16 @@
     [
       "Hydra: Column-Oriented Postgres",
       "https://www.hydra.so/"
+    ]
+  ],
+  [
+    [
+      "2023-08-24, 11:53:24",
+      "https://news.ycombinator.com/item?id=37247758"
+    ],
+    [
+      "DC Grids",
+      "https://www.iisb.fraunhofer.de/en/research_areas/intelligent_energy_systems/DC-grids.html"
     ]
   ],
   [
