@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-25, 19:32:29",
+      "https://news.ycombinator.com/item?id=37266091"
+    ],
+    [
+      "Tropical forests are approaching critical temperature thresholds",
+      "https://www.nature.com/articles/s41586-023-06391-z"
+    ]
+  ],
+  [
+    [
+      "2023-08-25, 19:31:36",
+      "https://news.ycombinator.com/item?id=37266081"
+    ],
+    [
+      "Global risk of heat stress to cattle from climate change",
+      "https://iopscience.iop.org/article/10.1088/1748-9326/aceb79"
+    ]
+  ],
+  [
+    [
       "2023-08-25, 18:48:10",
       "https://news.ycombinator.com/item?id=37265664"
     ],
@@ -21,21 +41,11 @@
   ],
   [
     [
-      "2023-08-25, 18:08:55",
-      "https://news.ycombinator.com/item?id=37265097"
-    ],
-    [
-      "Why Htmx Does Not Have a Build Step",
-      "https://htmx.org/essays/no-build-step/"
-    ]
-  ],
-  [
-    [
       "2023-08-25, 17:42:23",
       "https://news.ycombinator.com/item?id=37264676"
     ],
     [
-      "Web Scraping for Me, but Not for Thee",
+      "Web scraping for me, but not for thee",
       "https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm"
     ]
   ],
@@ -45,8 +55,18 @@
       "https://news.ycombinator.com/item?id=37264538"
     ],
     [
-      "Poly (YC S22) |Hiring Founding Platform Engineer|GenAI Design Asset Marketplace",
+      "Poly (YC S22) is hiring a founding platform engineer",
       "https://www.ycombinator.com/companies/poly/jobs/L4ObRgn-founding-platform-full-stack-front-end-developer-generative-ai-enabled-design-asset-marketplace-founding-team-at-a-yc-startup-backed-by-bloomberg-felicis-figma"
+    ]
+  ],
+  [
+    [
+      "2023-08-25, 17:01:32",
+      "https://news.ycombinator.com/item?id=37264149"
+    ],
+    [
+      "Why does all() return True if the iterable is empty?",
+      "https://blog.carlmjohnson.net/post/2020/python-square-of-opposition/"
     ]
   ],
   [
@@ -91,22 +111,12 @@
   ],
   [
     [
-      "2023-08-25, 16:16:53",
-      "https://news.ycombinator.com/item?id=37263434"
+      "2023-08-25, 16:07:36",
+      "https://news.ycombinator.com/item?id=37263322"
     ],
     [
-      "Changes to UK Surveillance Regime May Violate International Law",
-      "https://www.justsecurity.org/87615/changes-to-uk-surveillance-regime-may-violate-international-law/"
-    ]
-  ],
-  [
-    [
-      "2023-08-25, 16:01:33",
-      "https://news.ycombinator.com/item?id=37263231"
-    ],
-    [
-      "Imminent Death of ChatGPT [and Generative AI] Is Greatly Exaggerated",
-      "https://synthedia.substack.com/p/the-imminent-death-of-chatgpt-and"
+      "The EU's war on behavioral advertising",
+      "https://thisisunpacked.substack.com/p/the-eu-war-on-behavioral-advertising"
     ]
   ],
   [
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2023-08-25, 14:42:39",
+      "https://news.ycombinator.com/item?id=37262265"
+    ],
+    [
+      "Note-taking apps are designed for storage, not insight – can AI change that?",
+      "https://www.theverge.com/2023/8/25/23845590/note-taking-apps-ai-chat-distractions-notion-roam-mem-obsidian"
+    ]
+  ],
+  [
+    [
       "2023-08-25, 14:42:00",
       "https://news.ycombinator.com/item?id=37262258"
     ],
@@ -145,7 +165,7 @@
       "https://news.ycombinator.com/item?id=37262220"
     ],
     [
-      "Untouchable Number",
+      "Untouchable number",
       "https://en.wikipedia.org/wiki/Untouchable_number"
     ]
   ],
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2023-08-25, 12:46:31",
-      "https://news.ycombinator.com/item?id=37261088"
-    ],
-    [
-      "Making NetBSD Multiboot-Compatible (2007)",
-      "https://jmmv.dev/2007/03/making-netbsd-multiboot-compatible.html"
-    ]
-  ],
-  [
-    [
       "2023-08-25, 12:26:16",
       "https://news.ycombinator.com/item?id=37260914"
     ],
     [
-      "LuaJIT Uses Rolling Releases",
+      "LuaJIT uses rolling releases",
       "https://www.freelists.org/post/luajit/LuaJIT-uses-rolling-releases"
-    ]
-  ],
-  [
-    [
-      "2023-08-25, 12:25:59",
-      "https://news.ycombinator.com/item?id=37260913"
-    ],
-    [
-      "Show HN: PlotAI – Create Plots in Python and Matplotlib with LLM",
-      "https://github.com/mljar/plotai"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2023-08-24, 21:29:01",
+      "https://news.ycombinator.com/item?id=37254772"
+    ],
+    [
+      "The longest word you can type on the first row",
+      "https://rubenerd.com/the-longest-word-you-can-type-on-the-first-row/"
+    ]
+  ],
+  [
+    [
       "2023-08-24, 21:01:59",
       "https://news.ycombinator.com/item?id=37254507"
     ],
@@ -287,16 +297,6 @@
     [
       "Visualizing Neural Networks",
       "https://photonlines.substack.com/p/grokking-neural-networks"
-    ]
-  ],
-  [
-    [
-      "2023-08-24, 11:53:24",
-      "https://news.ycombinator.com/item?id=37247758"
-    ],
-    [
-      "DC Grids",
-      "https://www.iisb.fraunhofer.de/en/research_areas/intelligent_energy_systems/DC-grids.html"
     ]
   ]
 ]
