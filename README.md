@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-25, 14:01:13](https://news.ycombinator.com/item?id=37261843) - [Does wearing waterproof clothing increase PFAS in our bodies?](https://molecularspec.substack.com/p/water-repellent-clothing-and-pfas)
-* [2023-08-25, 13:57:16](https://news.ycombinator.com/item?id=37261786) - [How the fertility crisis might end](https://www.overcomingbias.com/p/13-fertility-scenarios)
 * [2023-08-25, 13:31:46](https://news.ycombinator.com/item?id=37261527) - [Huawei reportedly building 'secret' semiconductor fabs](https://www.theregister.com/2023/08/25/huawei_building_secret_fabs/)
-* [2023-08-25, 12:52:10](https://news.ycombinator.com/item?id=37261126) - [None of us are truly living off the grid](https://www.okdoomer.io/youre-not-going-to-make-it/)
+* [2023-08-25, 13:00:13](https://news.ycombinator.com/item?id=37261198) - [How do domain-specific chatbots work? A retrieval augmented generation overview](https://scriv.ai/guides/retrieval-augmented-generation-overview/)
 * [2023-08-25, 12:46:31](https://news.ycombinator.com/item?id=37261088) - [Making NetBSD Multiboot-Compatible (2007)](https://jmmv.dev/2007/03/making-netbsd-multiboot-compatible.html)
 * [2023-08-25, 12:36:18](https://news.ycombinator.com/item?id=37261001) - [50TB IBM tape drive more than doubles LTO-9 capacity](https://blocksandfiles.com/2023/08/23/50tb-ibm-tape/)
 * [2023-08-25, 12:26:16](https://news.ycombinator.com/item?id=37260914) - [LuaJIT Uses Rolling Releases](https://www.freelists.org/post/luajit/LuaJIT-uses-rolling-releases)
@@ -30,6 +29,7 @@
 * [2023-08-24, 15:44:48](https://news.ycombinator.com/item?id=37250213) - [Easy-ISLisp: ISLisp interpreter/compiler](https://github.com/sasagawa888/eisl)
 * [2023-08-24, 13:26:45](https://news.ycombinator.com/item?id=37248494) - [Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding/)
 * [2023-08-24, 12:20:54](https://news.ycombinator.com/item?id=37247945) - [Hydra: Column-Oriented Postgres](https://www.hydra.so/)
+* [2023-08-24, 11:53:24](https://news.ycombinator.com/item?id=37247758) - [DC Grids](https://www.iisb.fraunhofer.de/en/research_areas/intelligent_energy_systems/DC-grids.html)
 
 ## [Archives](archives/index.md)
 
