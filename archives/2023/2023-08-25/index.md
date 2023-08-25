@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 09:45:01](https://news.ycombinator.com/item?id=37259826) - [The Tao of Go](https://bitfieldconsulting.com/golang/tao-of-go)
 * [2023-08-25, 09:34:28](https://news.ycombinator.com/item?id=37259753) - [Finetuning of Falcon-7B LLM Using QLoRA on Mental Health Conversational Dataset](https://github.com/iamarunbrahma/finetuned-qlora-falcon7b-medical)
+* [2023-08-25, 09:22:26](https://news.ycombinator.com/item?id=37259699) - [Things I tried to improve sleep](https://vincelwt.com/sleep)
 * [2023-08-25, 09:14:42](https://news.ycombinator.com/item?id=37259655) - [Monetizing Developer Tools](https://github.com/rui314/mold/issues/190)
 * [2023-08-25, 08:59:49](https://news.ycombinator.com/item?id=37259578) - [FDA approving drugs after fewer trials, providing less information to public](https://medicalxpress.com/news/2023-08-fda-drugs-trials.html)
 * [2023-08-25, 08:51:04](https://news.ycombinator.com/item?id=37259525) - [Bizarre Movie Posters From Africa That Are So Bad, They’re Good](https://www.dannydutch.com/post/bizarre-movie-posters-from-africa-that-are-so-bad-they-re-good)
 * [2023-08-25, 08:34:59](https://news.ycombinator.com/item?id=37259441) - [Eppie is a decentralized email with full address and account ownership](https://eppie.io)
+* [2023-08-25, 08:33:06](https://news.ycombinator.com/item?id=37259428) - [An Open Source Mobile Phone Based on the ESP32](https://hackaday.com/2023/08/24/an-open-source-mobile-phone-based-on-the-esp32/)
 * [2023-08-25, 07:55:17](https://news.ycombinator.com/item?id=37259225) - [Unpacking Elixir: Concurrency](https://underjord.io/unpacking-elixir-concurrency.html)
 * [2023-08-25, 05:26:58](https://news.ycombinator.com/item?id=37258411) - [Evolution of the Gitea Downloads Site](https://blog.gitea.com/evolution-of-the-gitea-downloads-site/)
 * [2023-08-25, 04:44:21](https://news.ycombinator.com/item?id=37258178) - [The place where no humans will tread for 100k years](https://www.bbc.com/future/article/20230824-the-descent-to-the-worlds-first-waste-nuclear-fuel-storage-site)
