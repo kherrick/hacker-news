@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-08-25, 09:45:01",
-      "https://news.ycombinator.com/item?id=37259826"
-    ],
-    [
-      "The Tao of Go",
-      "https://bitfieldconsulting.com/golang/tao-of-go"
-    ]
-  ],
-  [
-    [
       "2023-08-25, 09:34:28",
       "https://news.ycombinator.com/item?id=37259753"
     ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=37258178"
     ],
     [
-      "The place where no humans will tread for 100k years",
+      "A place where no humans will tread for 100k years",
       "https://www.bbc.com/future/article/20230824-the-descent-to-the-worlds-first-waste-nuclear-fuel-storage-site"
     ]
   ],
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=37256817"
     ],
     [
-      "The human Y chromosome has been completely sequenced",
+      "The complete sequence of a human Y chromosome",
       "https://www.nature.com/articles/s41586-023-06457-y"
     ]
   ],
@@ -277,6 +267,16 @@
     [
       "DC Grids",
       "https://www.iisb.fraunhofer.de/en/research_areas/intelligent_energy_systems/DC-grids.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-24, 11:40:13",
+      "https://news.ycombinator.com/item?id=37247678"
+    ],
+    [
+      "The GRUB MBR (2008)",
+      "https://thestarman.pcministry.com/asm/mbr/GRUB.htm"
     ]
   ],
   [
