@@ -24,7 +24,7 @@
 * [2023-08-25, 09:34:28](https://news.ycombinator.com/item?id=37259753) - [Finetuning of Falcon-7B LLM Using QLoRA on Mental Health Conversational Dataset](https://github.com/iamarunbrahma/finetuned-qlora-falcon7b-medical)
 * [2023-08-25, 07:55:17](https://news.ycombinator.com/item?id=37259225) - [Unpacking Elixir: Concurrency](https://underjord.io/unpacking-elixir-concurrency.html)
 * [2023-08-25, 07:11:43](https://news.ycombinator.com/item?id=37258974) - [I cycled to all the villages in alphabetical order](https://diziet.dreamwidth.org/16260.html)
-* [2023-08-25, 00:35:59](https://news.ycombinator.com/item?id=37256378) - [The Time I Snuck into Ken Kesey’s Fiction Class](https://lithub.com/lidia-yuknavitch-the-time-i-snuck-into-ken-keseys-fiction-class/)
+* [2023-08-25, 00:35:59](https://news.ycombinator.com/item?id=37256378) - [The Time I Snuck into Ken Kesey’s Fiction Class (2017)](https://lithub.com/lidia-yuknavitch-the-time-i-snuck-into-ken-keseys-fiction-class/)
 * [2023-08-25, 00:31:42](https://news.ycombinator.com/item?id=37256346) - [Research group detects a quantum entanglement wave for the first time](https://www.aalto.fi/en/news/research-group-detects-a-quantum-entanglement-wave-for-the-first-time-using-real-space-measurements)
 * [2023-08-24, 21:01:59](https://news.ycombinator.com/item?id=37254507) - [Breaking copy protection on a 1983 game for Apple 2](https://ia804502.us.archive.org/30/items/SpareChange4amCrack/Spare%20Change%20%284am%20%26%20san%20inc%20crack%29.txt)
 * [2023-08-24, 18:33:38](https://news.ycombinator.com/item?id=37252821) - [Winner’s Curse: Negotiation Mistakes to Avoid](https://www.pon.harvard.edu/daily/business-negotiations/how-to-avoid-the-winners-curse/)
