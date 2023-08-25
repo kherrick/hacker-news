@@ -72,6 +72,7 @@
 * [2023-08-24, 11:55:04](https://news.ycombinator.com/item?id=37247767) - [Show HN: Open-source obsidian.md sync server](https://news.ycombinator.com/item?id=37247767)
 * [2023-08-24, 11:53:07](https://news.ycombinator.com/item?id=37247754) - [Haskell Researchers Announce Discovery of Industry Programmer Who Gives a Shit](http://steve-yegge.blogspot.com/2010/12/haskell-researchers-announce-discovery.html)
 * [2023-08-24, 11:40:13](https://news.ycombinator.com/item?id=37247678) - [The GRUB MBR (2008)](https://thestarman.pcministry.com/asm/mbr/GRUB.htm)
+* [2023-08-24, 11:32:49](https://news.ycombinator.com/item?id=37247633) - [Cyberpunk in the Nineties](https://www.streettech.com/bcp/BCPtext/Manifestos/CPInThe90s.html)
 * [2023-08-24, 11:20:45](https://news.ycombinator.com/item?id=37247548) - [ELI5: Why are 11 and 12 called eleven and twelve and not oneteen and twoteen?](https://old.reddit.com/r/explainlikeimfive/comments/15zuitf/eli5_why_are_11_and_12_called_eleven_ant_twelve/)
 * [2023-08-24, 11:01:07](https://news.ycombinator.com/item?id=37247405) - [Japan’s 72 Microseasons (2015)](https://www.nippon.com/en/features/h00124/)
 * [2023-08-24, 10:59:20](https://news.ycombinator.com/item?id=37247394) - [Jacobin: Minimal JVM written in Go and capable of running Java 17 classes](https://jacobin.org/)
