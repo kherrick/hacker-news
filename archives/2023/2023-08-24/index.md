@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-24](index.md)
 
 * [2023-08-24, 23:55:44](https://news.ycombinator.com/item?id=37256077) - [Ig Nobel Prize Winner Higashiyama Atsuki and the “Between-Legs Effect” Mystery](https://www.nippon.com/en/japan-topics/c12403/)
+* [2023-08-24, 22:35:49](https://news.ycombinator.com/item?id=37255443) - [Dollar Tree is the latest retailer to say shoplifting is squeezing margins](https://www.marketwatch.com/story/dollar-trees-stock-slides-8-6-premarket-as-profit-falls-sharply-from-a-year-ago-c84ff785)
 * [2023-08-24, 22:17:18](https://news.ycombinator.com/item?id=37255280) - [An image preprocessing tool to protect artworks from AI-for-Art based mimicry](https://mist-project.github.io/index_en.html)
 * [2023-08-24, 21:57:25](https://news.ycombinator.com/item?id=37255079) - [Proof-of-Work Defense for Onion Services](https://blog.torproject.org/introducing-proof-of-work-defense-for-onion-services/)
 * [2023-08-24, 21:51:28](https://news.ycombinator.com/item?id=37255022) - [SQLite 3.43.0 Released](https://sqlite.org/releaselog/3_43_0.html)
@@ -79,6 +80,7 @@
 * [2023-08-24, 09:51:17](https://news.ycombinator.com/item?id=37246932) - [Leaving Haskell Behind](https://journal.infinitenegativeutility.com/leaving-haskell-behind)
 * [2023-08-24, 09:51:02](https://news.ycombinator.com/item?id=37246928) - [Apple’s treatment of small games developer makes a textbook antitrust case](https://9to5mac.com/2023/08/23/textbook-antitrust-case/)
 * [2023-08-24, 09:25:17](https://news.ycombinator.com/item?id=37246740) - [How Modern SQL Databases Are Changing Web Development: Part 1](https://blog.whimslab.io/how-modern-sql-databases-are-changing-web-development-4d1f15b0daea)
+* [2023-08-24, 09:18:57](https://news.ycombinator.com/item?id=37246688) - [Ask HN: Undiscovered electronics/maker YouTube channels](https://news.ycombinator.com/item?id=37246688)
 * [2023-08-24, 08:43:56](https://news.ycombinator.com/item?id=37246458) - [Show HN: Playwright in Docker with hot reloading – Simple testautomation](https://github.com/punnerud/playwright_hot_docker)
 * [2023-08-24, 08:37:27](https://news.ycombinator.com/item?id=37246416) - [Apparatus for facilitating the birth of a child by centrifugal force](https://patents.google.com/patent/US3216423A/en)
 * [2023-08-24, 08:01:29](https://news.ycombinator.com/item?id=37246195) - [Dutch e-bike maker VanMoof goes bankrupt, leaving riders stranded](https://www.npr.org/2023/08/23/1195201692/vanmoof-ebikes-bankrupt-netherlands)
