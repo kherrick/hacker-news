@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 18:08:55](https://news.ycombinator.com/item?id=37265097) - [Why Htmx Does Not Have a Build Step](https://htmx.org/essays/no-build-step/)
 * [2023-08-25, 17:57:07](https://news.ycombinator.com/item?id=37264893) - [Ask HN: Down to $16, had 4 job offers rescinded; in crisis mode, where to turn?](https://news.ycombinator.com/item?id=37264893)
 * [2023-08-25, 17:34:18](https://news.ycombinator.com/item?id=37264576) - [Windows icons locations. Where are the default icons found?](https://www.digitalcitizen.life/where-find-most-windows-10s-native-icons/)
 * [2023-08-25, 17:31:02](https://news.ycombinator.com/item?id=37264538) - [Poly (YC S22) |Hiring Founding Platform Engineer|GenAI Design Asset Marketplace](https://www.ycombinator.com/companies/poly/jobs/L4ObRgn-founding-platform-full-stack-front-end-developer-generative-ai-enabled-design-asset-marketplace-founding-team-at-a-yc-startup-backed-by-bloomberg-felicis-figma)
@@ -12,6 +13,7 @@
 * [2023-08-25, 16:45:42](https://news.ycombinator.com/item?id=37263884) - [Upholding Free Speech Amidst the EU’s DSA Law](https://news.gab.com/2023/08/upholding-free-speech-amidst-the-eus-dsa-law/)
 * [2023-08-25, 16:42:02](https://news.ycombinator.com/item?id=37263827) - [UBC device uses wood dust to trap up to 99.9 per cent of microplastics in water](https://news.ubc.ca/2023/08/16/microplastic-pollution-plants-could-be-the-answer/)
 * [2023-08-25, 16:39:41](https://news.ycombinator.com/item?id=37263793) - [My hobby became my job, 50% extra pay, just needed to let go of GPLv3](https://goauthentik.io/blog/2023-08-23-my-hobby-became-my-job)
+* [2023-08-25, 16:34:49](https://news.ycombinator.com/item?id=37263708) - [Email Authentication: A Developer's Guide](https://resend.com/blog/email-authentication-a-developers-guide)
 * [2023-08-25, 16:20:09](https://news.ycombinator.com/item?id=37263473) - [Show HN: Release AI – Talk to Your Infrastructure](https://www.ycombinator.com/launches/JI1-release-ai-talk-to-your-infrastructure)
 * [2023-08-25, 16:20:09](https://news.ycombinator.com/item?id=37263473) - [Show HN: Release AI – Talk to Your Infrastructure](https://news.ycombinator.com/item?id=37263473)
 * [2023-08-25, 16:19:14](https://news.ycombinator.com/item?id=37263459) - [Just 23% of Americans Know the US Has Failed to Pass an Internet-Era Privacy Law](https://www.techdirt.com/2023/08/25/just-23-of-americans-know-the-u-s-has-failed-to-pass-an-internet-era-privacy-law/)
@@ -53,6 +55,7 @@
 * [2023-08-25, 08:34:59](https://news.ycombinator.com/item?id=37259441) - [Eppie is a decentralized email with full address and account ownership](https://eppie.io)
 * [2023-08-25, 08:33:06](https://news.ycombinator.com/item?id=37259428) - [An Open Source Mobile Phone Based on the ESP32](https://hackaday.com/2023/08/24/an-open-source-mobile-phone-based-on-the-esp32/)
 * [2023-08-25, 07:55:17](https://news.ycombinator.com/item?id=37259225) - [Unpacking Elixir: Concurrency](https://underjord.io/unpacking-elixir-concurrency.html)
+* [2023-08-25, 07:11:43](https://news.ycombinator.com/item?id=37258974) - [I cycled to all the villages in alphabetical order](https://diziet.dreamwidth.org/16260.html)
 * [2023-08-25, 05:26:58](https://news.ycombinator.com/item?id=37258411) - [Evolution of the Gitea Downloads Site](https://blog.gitea.com/evolution-of-the-gitea-downloads-site/)
 * [2023-08-25, 04:44:21](https://news.ycombinator.com/item?id=37258178) - [The place where no humans will tread for 100k years](https://www.bbc.com/future/article/20230824-the-descent-to-the-worlds-first-waste-nuclear-fuel-storage-site)
 * [2023-08-25, 04:39:51](https://news.ycombinator.com/item?id=37258143) - [Naked Mole Rat’s Longevity Gene Gives Mice a Longer Life](https://scienceswitch.com/2023/08/25/naked-mole-rats-longevity-gene-gives-mice-a-longer-life/)
