@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-25, 04:11:10](https://news.ycombinator.com/item?id=37257949) - [Foreach Derp with Csh](http://blog.syncpup.com/posts/foreach-derp-with-csh.html)
 * [2023-08-25, 03:06:37](https://news.ycombinator.com/item?id=37257514) - [How to Drill Your Own Water Well](https://drillyourownwell.com/)
 * [2023-08-25, 02:58:29](https://news.ycombinator.com/item?id=37257465) - [Hell freezes over as Apple supports right-to-repair bill](https://arstechnica.com/gadgets/2023/08/hell-freezes-over-as-apple-supports-right-to-repair-bill/)
 * [2023-08-25, 02:27:12](https://news.ycombinator.com/item?id=37257218) - [Os.js – open-source JavaScript web desktop platform with a window manager](https://www.os-js.org/)
@@ -20,15 +21,14 @@
 * [2023-08-24, 16:58:57](https://news.ycombinator.com/item?id=37251411) - [LANDrop – Drop any files to any devices on your LAN](https://landrop.app/)
 * [2023-08-24, 16:25:48](https://news.ycombinator.com/item?id=37250834) - [Hacker News Guidelines](https://news.ycombinator.com/newsguidelines.html)
 * [2023-08-24, 14:01:02](https://news.ycombinator.com/item?id=37248882) - [Skin health can be used to predict a number of seemingly unconnected factors](https://www.bbc.com/future/article/20230823-the-curious-ways-your-skin-shapes-your-health)
-* [2023-08-24, 13:44:48](https://news.ycombinator.com/item?id=37248694) - [Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://arxiv.org/abs/2308.09687)
 * [2023-08-24, 13:26:45](https://news.ycombinator.com/item?id=37248494) - [Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding/)
 * [2023-08-24, 13:19:30](https://news.ycombinator.com/item?id=37248411) - [Is Computer Hacking a Crime? (1989) [pdf]](https://faculty.weber.edu/apainter1/Readings/Hacking%20a%20Crime.pdf)
+* [2023-08-24, 12:52:42](https://news.ycombinator.com/item?id=37248177) - [Compiling Functional Languages (2002) [pdf]](https://xavierleroy.org/talks/compilation-agay.pdf)
 * [2023-08-24, 12:20:54](https://news.ycombinator.com/item?id=37247945) - [Hydra: Column-Oriented Postgres](https://www.hydra.so/)
 * [2023-08-24, 11:55:04](https://news.ycombinator.com/item?id=37247767) - [Show HN: Open-source obsidian.md sync server](https://news.ycombinator.com/item?id=37247767)
 * [2023-08-24, 11:40:13](https://news.ycombinator.com/item?id=37247678) - [The GRUB MBR (2008)](https://thestarman.pcministry.com/asm/mbr/GRUB.htm)
 * [2023-08-24, 11:32:49](https://news.ycombinator.com/item?id=37247633) - [Cyberpunk in the Nineties](https://www.streettech.com/bcp/BCPtext/Manifestos/CPInThe90s.html)
 * [2023-08-24, 05:35:46](https://news.ycombinator.com/item?id=37245383) - [Domain Repetition](https://iquilezles.org/articles/sdfrepetition/)
-* [2023-08-24, 04:46:23](https://news.ycombinator.com/item?id=37245109) - [Distributed Consensus](https://shachaf.net/w/consensus)
 * [2023-08-24, 00:05:11](https://news.ycombinator.com/item?id=37243519) - [Old English names: Cæd, bæd and dangerous to know](https://www.historytoday.com/archive/feature/old-english-names-caed-baed-and-dangerous-know)
 
 ## [Archives](archives/index.md)

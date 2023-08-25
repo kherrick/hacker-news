@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 04:11:10](https://news.ycombinator.com/item?id=37257949) - [Foreach Derp with Csh](http://blog.syncpup.com/posts/foreach-derp-with-csh.html)
 * [2023-08-25, 03:07:36](https://news.ycombinator.com/item?id=37257521) - [Python 3.11.5 (2023)](https://www.python.org/downloads/release/python-3115/)
 * [2023-08-25, 03:06:37](https://news.ycombinator.com/item?id=37257514) - [How to Drill Your Own Water Well](https://drillyourownwell.com/)
 * [2023-08-25, 02:58:29](https://news.ycombinator.com/item?id=37257465) - [Hell freezes over as Apple supports right-to-repair bill](https://arstechnica.com/gadgets/2023/08/hell-freezes-over-as-apple-supports-right-to-repair-bill/)
