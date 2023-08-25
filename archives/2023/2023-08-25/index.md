@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 07:55:17](https://news.ycombinator.com/item?id=37259225) - [Unpacking Elixir: Concurrency](https://underjord.io/unpacking-elixir-concurrency.html)
 * [2023-08-25, 05:26:58](https://news.ycombinator.com/item?id=37258411) - [Evolution of the Gitea Downloads Site](https://blog.gitea.com/evolution-of-the-gitea-downloads-site/)
 * [2023-08-25, 04:44:21](https://news.ycombinator.com/item?id=37258178) - [The place where no humans will tread for 100k years](https://www.bbc.com/future/article/20230824-the-descent-to-the-worlds-first-waste-nuclear-fuel-storage-site)
 * [2023-08-25, 04:39:51](https://news.ycombinator.com/item?id=37258143) - [Naked Mole Rat’s Longevity Gene Gives Mice a Longer Life](https://scienceswitch.com/2023/08/25/naked-mole-rats-longevity-gene-gives-mice-a-longer-life/)
