@@ -14,6 +14,7 @@
 * [2023-08-25, 01:01:55](https://news.ycombinator.com/item?id=37256577) - [AI isn’t good enough](https://skventures.substack.com/p/ai-isnt-good-enough)
 * [2023-08-24, 23:55:44](https://news.ycombinator.com/item?id=37256077) - [Higashiyama Atsuki and the “between-legs effect”](https://www.nippon.com/en/japan-topics/c12403/)
 * [2023-08-24, 21:57:25](https://news.ycombinator.com/item?id=37255079) - [Proof-of-Work Defense for Onion Services](https://blog.torproject.org/introducing-proof-of-work-defense-for-onion-services/)
+* [2023-08-24, 21:32:46](https://news.ycombinator.com/item?id=37254823) - [Runme – Interactive Runbooks Built with Markdown](https://runme.dev/)
 * [2023-08-24, 21:02:21](https://news.ycombinator.com/item?id=37254510) - [Maccarone: AI-managed code blocks in Python](https://github.com/bsilverthorn/maccarone)
 * [2023-08-24, 18:52:46](https://news.ycombinator.com/item?id=37253035) - [FreeBSD on Firecracker](https://www.usenix.org/publications/loginonline/freebsd-firecracker)
 * [2023-08-24, 17:49:04](https://news.ycombinator.com/item?id=37252231) - [Show HN: Shimmer – ADHD coaching for adults, now on web](https://www.shimmer.care/blog/web-launch-adhd-coaching)
@@ -27,7 +28,6 @@
 * [2023-08-24, 11:55:04](https://news.ycombinator.com/item?id=37247767) - [Show HN: Open-source obsidian.md sync server](https://news.ycombinator.com/item?id=37247767)
 * [2023-08-24, 11:40:13](https://news.ycombinator.com/item?id=37247678) - [The GRUB MBR (2008)](https://thestarman.pcministry.com/asm/mbr/GRUB.htm)
 * [2023-08-24, 11:32:49](https://news.ycombinator.com/item?id=37247633) - [Cyberpunk in the Nineties](https://www.streettech.com/bcp/BCPtext/Manifestos/CPInThe90s.html)
-* [2023-08-24, 06:27:44](https://news.ycombinator.com/item?id=37245684) - [Bridge Comparisons [pdf]](https://www.toledoblade.com/assets/pdf/TO21727622.PDF)
 * [2023-08-24, 05:35:46](https://news.ycombinator.com/item?id=37245383) - [Domain Repetition](https://iquilezles.org/articles/sdfrepetition/)
 * [2023-08-24, 00:05:11](https://news.ycombinator.com/item?id=37243519) - [Old English names: Cæd, bæd and dangerous to know](https://www.historytoday.com/archive/feature/old-english-names-caed-baed-and-dangerous-know)
 
