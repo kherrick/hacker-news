@@ -31,22 +31,22 @@
   ],
   [
     [
+      "2023-08-25, 10:44:12",
+      "https://news.ycombinator.com/item?id=37260141"
+    ],
+    [
+      "Stable Linux mainline builds for Ubuntu",
+      "https://stgraber.org/2023/08/24/stable-linux-mainline-builds/"
+    ]
+  ],
+  [
+    [
       "2023-08-25, 09:34:28",
       "https://news.ycombinator.com/item?id=37259753"
     ],
     [
       "Finetuning of Falcon-7B LLM Using QLoRA on Mental Health Conversational Dataset",
       "https://github.com/iamarunbrahma/finetuned-qlora-falcon7b-medical"
-    ]
-  ],
-  [
-    [
-      "2023-08-25, 08:33:06",
-      "https://news.ycombinator.com/item?id=37259428"
-    ],
-    [
-      "An Open Source Mobile Phone Based on the ESP32",
-      "https://hackaday.com/2023/08/24/an-open-source-mobile-phone-based-on-the-esp32/"
     ]
   ],
   [
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2023-08-24, 21:25:14",
+      "https://news.ycombinator.com/item?id=37254743"
+    ],
+    [
+      "Researchers publish new results from dark boson searches",
+      "https://phys.org/news/2023-08-publish-results-dark-boson.html"
+    ]
+  ],
+  [
+    [
       "2023-08-24, 20:48:22",
       "https://news.ycombinator.com/item?id=37254348"
     ],
@@ -247,16 +257,6 @@
     [
       "Code Llama, a state-of-the-art large language model for coding",
       "https://ai.meta.com/blog/code-llama-large-language-model-coding/"
-    ]
-  ],
-  [
-    [
-      "2023-08-24, 12:52:42",
-      "https://news.ycombinator.com/item?id=37248177"
-    ],
-    [
-      "Compiling Functional Languages (2002) [pdf]",
-      "https://xavierleroy.org/talks/compilation-agay.pdf"
     ]
   ],
   [
