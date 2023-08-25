@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-25, 21:43:31](https://news.ycombinator.com/item?id=37267385) - [Oliver Anthony slams use of song at debate: I wrote that song about those people](https://themessenger.com/entertainment/oliver-anthony-rich-men-north-of-richmond-republican-debate)
+* [2023-08-25, 21:32:38](https://news.ycombinator.com/item?id=37267299) - [Fifth Circuit: Law Enforcement Doesn’t Need Warrants to Search Phones at Border](https://www.techdirt.com/2023/08/25/fifth-circuit-says-law-enforcement-doesnt-need-warrants-to-search-phones-at-the-border/)
 * [2023-08-25, 21:10:54](https://news.ycombinator.com/item?id=37267086) - [NASA Shares First Images from US Pollution-Monitoring Instrument](https://www.nasa.gov/press-release/nasa-shares-first-images-from-us-pollution-monitoring-instrument/)
 * [2023-08-25, 19:45:22](https://news.ycombinator.com/item?id=37266200) - [The Notetaking Cold War (2020)](https://every.to/superorganizers/the-notetaking-cold-war-591898)
 * [2023-08-25, 18:48:10](https://news.ycombinator.com/item?id=37265664) - [Slime Molds [video]](https://www.youtube.com/watch?v=gpt9cJrEZ_Y)
