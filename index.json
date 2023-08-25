@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=37257465"
     ],
     [
-      "Hell freezes over as Apple supports right-to-repair bill",
+      "Apple supports right-to-repair bill",
       "https://arstechnica.com/gadgets/2023/08/hell-freezes-over-as-apple-supports-right-to-repair-bill/"
     ]
   ],
@@ -57,16 +57,6 @@
     [
       "Understanding Automatic Differentiation in 30 lines of Python",
       "https://vmartin.fr/understanding-automatic-differentiation-in-30-lines-of-python.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-25, 01:41:02",
-      "https://news.ycombinator.com/item?id=37256849"
-    ],
-    [
-      "A new futex API",
-      "https://lwn.net/Articles/940944/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Domain Repetition",
       "https://iquilezles.org/articles/sdfrepetition/"
+    ]
+  ],
+  [
+    [
+      "2023-08-24, 04:46:23",
+      "https://news.ycombinator.com/item?id=37245109"
+    ],
+    [
+      "Distributed Consensus",
+      "https://shachaf.net/w/consensus"
     ]
   ],
   [
