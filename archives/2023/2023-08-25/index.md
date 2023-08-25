@@ -8,6 +8,8 @@
 * [2023-08-25, 19:43:59](https://news.ycombinator.com/item?id=37266189) - [Wealthy People Are Getting Full-Body Scans. Early Detection or Unnecessary?](https://www.wsj.com/health/wellness/full-body-preventive-scan-cost-eb291fcc)
 * [2023-08-25, 19:32:29](https://news.ycombinator.com/item?id=37266091) - [Tropical forests are approaching critical temperature thresholds](https://www.nature.com/articles/s41586-023-06391-z)
 * [2023-08-25, 19:31:36](https://news.ycombinator.com/item?id=37266081) - [Global risk of heat stress to cattle from climate change](https://iopscience.iop.org/article/10.1088/1748-9326/aceb79)
+* [2023-08-25, 19:29:20](https://news.ycombinator.com/item?id=37266068) - [T-Mobile US profits just keep rolling in. So only thing to do is axe 5k workers](https://www.theregister.com/2023/08/25/t_mobile_layoffs_5000/)
+* [2023-08-25, 19:28:02](https://news.ycombinator.com/item?id=37266053) - [SpaceX Blast Left Officials in Disbelief over Environmental Damage](https://www.bloomberg.com/news/features/2023-08-25/elon-musk-s-spacex-explosion-left-major-debris-after-starship-rocket-launch)
 * [2023-08-25, 18:48:10](https://news.ycombinator.com/item?id=37265664) - [Slime molds are gorgeous (you just never knew it) [video]](https://www.youtube.com/watch?v=gpt9cJrEZ_Y)
 * [2023-08-25, 18:25:29](https://news.ycombinator.com/item?id=37265346) - [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
 * [2023-08-25, 18:08:55](https://news.ycombinator.com/item?id=37265097) - [Why Htmx Does Not Have a Build Step](https://htmx.org/essays/no-build-step/)
