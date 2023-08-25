@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 22:57:15](https://news.ycombinator.com/item?id=37268068) - [Gitlab's plan to support ActivityPub for merge requests](https://gitlab.com/groups/gitlab-org/-/epics/11247)
 * [2023-08-25, 22:08:23](https://news.ycombinator.com/item?id=37267597) - [Show HN: Beating GPT-4 on HumanEval with a fine-tuned CodeLlama-34B](https://www.phind.com/blog/code-llama-beats-gpt4)
 * [2023-08-25, 21:59:12](https://news.ycombinator.com/item?id=37267523) - [Casio Caleid XM-700 Mobile Navigator (1997)](https://blog.gingerbeardman.com/2023/08/25/casio-caleid-xm700-mobile-navigator-hardware/)
 * [2023-08-25, 21:43:31](https://news.ycombinator.com/item?id=37267385) - [Oliver Anthony slams use of song at debate: I wrote that song about those people](https://themessenger.com/entertainment/oliver-anthony-rich-men-north-of-richmond-republican-debate)
@@ -75,6 +76,7 @@
 * [2023-08-25, 08:33:06](https://news.ycombinator.com/item?id=37259428) - [An Open Source Mobile Phone Based on the ESP32](https://hackaday.com/2023/08/24/an-open-source-mobile-phone-based-on-the-esp32/)
 * [2023-08-25, 07:55:17](https://news.ycombinator.com/item?id=37259225) - [Unpacking Elixir: Concurrency](https://underjord.io/unpacking-elixir-concurrency.html)
 * [2023-08-25, 07:11:43](https://news.ycombinator.com/item?id=37258974) - [I cycled to all the villages in alphabetical order](https://diziet.dreamwidth.org/16260.html)
+* [2023-08-25, 06:31:56](https://news.ycombinator.com/item?id=37258753) - [A scalar triple product identity](https://realtimecollisiondetection.net/blog/?p=69)
 * [2023-08-25, 05:26:58](https://news.ycombinator.com/item?id=37258411) - [Evolution of the Gitea Downloads Site](https://blog.gitea.com/evolution-of-the-gitea-downloads-site/)
 * [2023-08-25, 04:44:21](https://news.ycombinator.com/item?id=37258178) - [The place where no humans will tread for 100k years](https://www.bbc.com/future/article/20230824-the-descent-to-the-worlds-first-waste-nuclear-fuel-storage-site)
 * [2023-08-25, 04:39:51](https://news.ycombinator.com/item?id=37258143) - [Naked Mole Rat’s Longevity Gene Gives Mice a Longer Life](https://scienceswitch.com/2023/08/25/naked-mole-rats-longevity-gene-gives-mice-a-longer-life/)
