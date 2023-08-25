@@ -4,7 +4,6 @@
 * [2023-08-25, 02:58:29](https://news.ycombinator.com/item?id=37257465) - [Hell freezes over as Apple supports right-to-repair bill](https://arstechnica.com/gadgets/2023/08/hell-freezes-over-as-apple-supports-right-to-repair-bill/)
 * [2023-08-25, 02:27:12](https://news.ycombinator.com/item?id=37257218) - [Os.js – open-source JavaScript web desktop platform with a window manager](https://www.os-js.org/)
 * [2023-08-25, 02:07:13](https://news.ycombinator.com/item?id=37257027) - [Algebraic Topology for Data Scientists](https://arxiv.org/abs/2308.10825)
-* [2023-08-25, 01:57:03](https://news.ycombinator.com/item?id=37256968) - [America is building chip factories. Now to find the workers](https://www.economist.com/united-states/2023/08/05/america-is-building-chip-factories-now-to-find-the-workers)
 * [2023-08-25, 01:47:59](https://news.ycombinator.com/item?id=37256903) - [Understanding Automatic Differentiation in 30 lines of Python](https://vmartin.fr/understanding-automatic-differentiation-in-30-lines-of-python.html)
 * [2023-08-25, 01:41:02](https://news.ycombinator.com/item?id=37256849) - [A new futex API](https://lwn.net/Articles/940944/)
 * [2023-08-25, 01:36:17](https://news.ycombinator.com/item?id=37256817) - [The human Y chromosome has been completely sequenced](https://www.nature.com/articles/s41586-023-06457-y)
@@ -29,6 +28,7 @@
 * [2023-08-24, 11:40:13](https://news.ycombinator.com/item?id=37247678) - [The GRUB MBR (2008)](https://thestarman.pcministry.com/asm/mbr/GRUB.htm)
 * [2023-08-24, 11:32:49](https://news.ycombinator.com/item?id=37247633) - [Cyberpunk in the Nineties](https://www.streettech.com/bcp/BCPtext/Manifestos/CPInThe90s.html)
 * [2023-08-24, 05:35:46](https://news.ycombinator.com/item?id=37245383) - [Domain Repetition](https://iquilezles.org/articles/sdfrepetition/)
+* [2023-08-24, 04:46:23](https://news.ycombinator.com/item?id=37245109) - [Distributed Consensus](https://shachaf.net/w/consensus)
 * [2023-08-24, 00:05:11](https://news.ycombinator.com/item?id=37243519) - [Old English names: Cæd, bæd and dangerous to know](https://www.historytoday.com/archive/feature/old-english-names-caed-baed-and-dangerous-know)
 
 ## [Archives](archives/index.md)
