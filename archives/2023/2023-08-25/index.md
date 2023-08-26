@@ -23,6 +23,7 @@
 * [2023-08-25, 19:29:20](https://news.ycombinator.com/item?id=37266068) - [T-Mobile US profits just keep rolling in. So only thing to do is axe 5k workers](https://www.theregister.com/2023/08/25/t_mobile_layoffs_5000/)
 * [2023-08-25, 19:28:02](https://news.ycombinator.com/item?id=37266053) - [SpaceX Blast Left Officials in Disbelief over Environmental Damage](https://www.bloomberg.com/news/features/2023-08-25/elon-musk-s-spacex-explosion-left-major-debris-after-starship-rocket-launch)
 * [2023-08-25, 18:48:10](https://news.ycombinator.com/item?id=37265664) - [Slime molds are gorgeous (you just never knew it) [video]](https://www.youtube.com/watch?v=gpt9cJrEZ_Y)
+* [2023-08-25, 18:28:11](https://news.ycombinator.com/item?id=37265392) - [BASH Stack – Bash Awk Sed HTMX web framework](https://bashsta.cc/)
 * [2023-08-25, 18:25:29](https://news.ycombinator.com/item?id=37265346) - [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
 * [2023-08-25, 18:08:55](https://news.ycombinator.com/item?id=37265097) - [Why Htmx Does Not Have a Build Step](https://htmx.org/essays/no-build-step/)
 * [2023-08-25, 17:57:07](https://news.ycombinator.com/item?id=37264893) - [Ask HN: Down to $16, had 4 job offers rescinded; in crisis mode, where to turn?](https://news.ycombinator.com/item?id=37264893)
