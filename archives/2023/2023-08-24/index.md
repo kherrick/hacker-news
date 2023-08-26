@@ -94,6 +94,7 @@
 * [2023-08-24, 09:51:02](https://news.ycombinator.com/item?id=37246928) - [Apple’s treatment of small games developer makes a textbook antitrust case](https://9to5mac.com/2023/08/23/textbook-antitrust-case/)
 * [2023-08-24, 09:25:17](https://news.ycombinator.com/item?id=37246740) - [How Modern SQL Databases Are Changing Web Development: Part 1](https://blog.whimslab.io/how-modern-sql-databases-are-changing-web-development-4d1f15b0daea)
 * [2023-08-24, 09:18:57](https://news.ycombinator.com/item?id=37246688) - [Ask HN: Undiscovered electronics/maker YouTube channels](https://news.ycombinator.com/item?id=37246688)
+* [2023-08-24, 08:57:01](https://news.ycombinator.com/item?id=37246545) - [Prof. Robert Boice's Rules of the Road for Writers](https://home.uchicago.edu/~rfulton/Tips.htm)
 * [2023-08-24, 08:43:56](https://news.ycombinator.com/item?id=37246458) - [Show HN: Playwright in Docker with hot reloading – Simple testautomation](https://github.com/punnerud/playwright_hot_docker)
 * [2023-08-24, 08:37:27](https://news.ycombinator.com/item?id=37246416) - [Apparatus for facilitating the birth of a child by centrifugal force](https://patents.google.com/patent/US3216423A/en)
 * [2023-08-24, 08:01:29](https://news.ycombinator.com/item?id=37246195) - [Dutch e-bike maker VanMoof goes bankrupt, leaving riders stranded](https://www.npr.org/2023/08/23/1195201692/vanmoof-ebikes-bankrupt-netherlands)

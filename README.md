@@ -29,7 +29,7 @@
 * [2023-08-25, 00:30:25](https://news.ycombinator.com/item?id=37256332) - [The Wires That Bind: Electrification and Community Renewal](https://www.quarterlyessay.com.au/essay/2023/03/the-wires-that-bind/extract)
 * [2023-08-25, 00:11:15](https://news.ycombinator.com/item?id=37256195) - [Engineering Serendipity: Does Sharing Lead to Knowledge Production? [pdf]](https://www.hbs.edu/ris/Publication%20Files/20-058_39f454e9-bef0-4bed-bfa8-526e90601ade.pdf)
 * [2023-08-24, 21:01:59](https://news.ycombinator.com/item?id=37254507) - [Breaking copy protection on a 1983 game for Apple 2](https://ia804502.us.archive.org/30/items/SpareChange4amCrack/Spare%20Change%20%284am%20%26%20san%20inc%20crack%29.txt)
-* [2023-08-24, 12:29:47](https://news.ycombinator.com/item?id=37248013) - [Visualizing Neural Networks](https://photonlines.substack.com/p/grokking-neural-networks)
+* [2023-08-24, 08:57:01](https://news.ycombinator.com/item?id=37246545) - [Prof. Robert Boice's Rules of the Road for Writers](https://home.uchicago.edu/~rfulton/Tips.htm)
 
 ## [Archives](archives/index.md)
 
