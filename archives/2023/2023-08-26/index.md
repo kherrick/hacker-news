@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-26](index.md)
 
+* [2023-08-26, 22:36:33](https://news.ycombinator.com/item?id=37277522) - [My husband just retired. I’m scared to death of running out of money](https://www.washingtonpost.com/business/2023/08/25/fear-running-out-of-money-retirement/)
+* [2023-08-26, 22:01:38](https://news.ycombinator.com/item?id=37277311) - [A clock where the time is in a song title](https://pudding.cool/projects/clocks/)
 * [2023-08-26, 21:42:50](https://news.ycombinator.com/item?id=37277183) - [East German Balloon Escape](https://en.wikipedia.org/wiki/East_German_balloon_escape)
 * [2023-08-26, 21:36:42](https://news.ycombinator.com/item?id=37277134) - [The Rival to the Panama Canal That Was Never Built](https://www.bbc.com/future/article/20230825-the-rival-to-the-panama-canal-that-was-never-built)
 * [2023-08-26, 21:20:02](https://news.ycombinator.com/item?id=37277016) - [Airbnb allowing host to place cameras in the room where I would be sleeping](https://old.reddit.com/r/BestofRedditorUpdates/comments/1623v0b/airbnb_allowing_host_to_place_cameras_in_the_room/)
