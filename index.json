@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-08-26, 01:13:30",
-      "https://news.ycombinator.com/item?id=37268996"
+      "2023-08-26, 02:24:50",
+      "https://news.ycombinator.com/item?id=37269376"
     ],
     [
-      "Why the US is one of only a few countries with no paid time off",
-      "https://www.vox.com/policy-and-politics/2019/12/24/21035628/new-york-paid-time-off"
+      "Interpretable Graph Neural Networks for Tabular Data",
+      "https://arxiv.org/abs/2308.08945"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2023-08-25, 13:43:11",
+      "https://news.ycombinator.com/item?id=37261640"
+    ],
+    [
+      "Packaging software is something that takes work",
+      "https://utcc.utoronto.ca/~cks/space/blog/linux/PackagingTakesWork"
+    ]
+  ],
+  [
+    [
       "2023-08-25, 13:00:13",
       "https://news.ycombinator.com/item?id=37261198"
     ],
@@ -277,16 +287,6 @@
     [
       "Breaking copy protection on a 1983 game for Apple 2",
       "https://ia804502.us.archive.org/30/items/SpareChange4amCrack/Spare%20Change%20%284am%20%26%20san%20inc%20crack%29.txt"
-    ]
-  ],
-  [
-    [
-      "2023-08-24, 12:29:47",
-      "https://news.ycombinator.com/item?id=37248013"
-    ],
-    [
-      "Visualizing Neural Networks",
-      "https://photonlines.substack.com/p/grokking-neural-networks"
     ]
   ],
   [
