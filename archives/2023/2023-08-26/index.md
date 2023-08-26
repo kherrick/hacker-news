@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-26](index.md)
 
+* [2023-08-26, 18:17:16](https://news.ycombinator.com/item?id=37275401) - [A video of the transformation of a single cell into a salamander](https://pmdvod.nationalgeographic.com/NG_Video/772/995/1442844739770_1550184269599_1442865731523_mp4_video_1024x576_1632000_primary_audio_eng_3.mp4)
 * [2023-08-26, 17:27:28](https://news.ycombinator.com/item?id=37274871) - [Slack’s Migration to a Cellular Architecture](https://slack.engineering/slacks-migration-to-a-cellular-architecture/)
 * [2023-08-26, 17:18:53](https://news.ycombinator.com/item?id=37274774) - [California deploys AI-powered wildfire detection systems](https://arstechnica.com/information-technology/2023/08/firefighters-use-ai-to-spot-wildfires-in-california/)
 * [2023-08-26, 17:01:42](https://news.ycombinator.com/item?id=37274605) - [UK's infrastructure is too expensive: Railways, Trams, and Roads all cost more](https://www.samdumitriu.com/p/britains-infrastructure-is-too-expensive)
@@ -58,6 +59,7 @@
 * [2023-08-26, 01:13:30](https://news.ycombinator.com/item?id=37268996) - [Why the US is one of only a few countries with no paid time off](https://www.vox.com/policy-and-politics/2019/12/24/21035628/new-york-paid-time-off)
 * [2023-08-26, 01:01:40](https://news.ycombinator.com/item?id=37268923) - [Generally Intelligent (YC S17) Is Hiring Research Scientists](https://news.ycombinator.com/item?id=37268923)
 * [2023-08-26, 00:55:05](https://news.ycombinator.com/item?id=37268886) - [We are not empty: The concept of the atomic void is a mistake](https://aeon.co/essays/why-the-empty-atom-picture-misunderstands-quantum-theory)
+* [2023-08-26, 00:50:30](https://news.ycombinator.com/item?id=37268852) - [Atop an Underwater Hot Spring, an ‘Octopus Garden’ Thrives](https://www.nytimes.com/2023/08/23/science/biology-octopus-garden.html)
 * [2023-08-26, 00:33:06](https://news.ycombinator.com/item?id=37268738) - [Training immune cells to remove ‘trash’ helps resolve lung inflammation](https://today.uic.edu/immune-cells-acute-lung-injury/)
 * [2023-08-26, 00:14:14](https://news.ycombinator.com/item?id=37268616) - [Sidewalk Garden: a 800 square feet garden in San Francisco's Mission District](https://zachklein.com/Sidewalk+Garden)
 * [2023-08-26, 00:13:27](https://news.ycombinator.com/item?id=37268610) - [Deep Neural Nets: 33 years ago and 33 years from now](http://karpathy.github.io/2022/03/14/lecun1989/)
