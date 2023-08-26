@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-26, 11:01:26](https://news.ycombinator.com/item?id=37271653) - [The EU’s Digital Services Act is now in effect](https://www.theverge.com/23845672/eu-digital-services-act-explained)
 * [2023-08-26, 08:06:20](https://news.ycombinator.com/item?id=37270747) - [Ask HN: What's the Situation with YouTube-Dl?](https://news.ycombinator.com/item?id=37270747)
 * [2023-08-26, 07:41:28](https://news.ycombinator.com/item?id=37270634) - [Uncle Sam accuses SpaceX of not considering asylees and refugees for employment](https://www.theregister.com/2023/08/25/spacex_discrimination_lawsuit/)
 * [2023-08-26, 07:00:50](https://news.ycombinator.com/item?id=37270463) - [Gym Class VR (YC W22) is hiring a Unity animator and programmer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-animator-programmer-vr-unity)
 * [2023-08-26, 05:28:21](https://news.ycombinator.com/item?id=37270171) - [Llama2.c L2E LLM – Multi OS Binary and Unikernel Release](https://github.com/trholding/llama2.c/releases/tag/L2E_v0.1)
 * [2023-08-26, 04:53:34](https://news.ycombinator.com/item?id=37270048) - [This week in KDE: Double-click by default](https://pointieststick.com/2023/08/18/this-week-in-kde-double-click-by-default/)
-* [2023-08-26, 02:33:52](https://news.ycombinator.com/item?id=37269425) - [FFmpeg Explorer](https://ffmpeg.lav.io)
 * [2023-08-26, 02:24:50](https://news.ycombinator.com/item?id=37269376) - [Interpretable graph neural networks for tabular data](https://arxiv.org/abs/2308.08945)
 * [2023-08-26, 00:33:06](https://news.ycombinator.com/item?id=37268738) - [Training immune cells to remove ‘trash’ helps resolve lung inflammation](https://today.uic.edu/immune-cells-acute-lung-injury/)
 * [2023-08-26, 00:14:14](https://news.ycombinator.com/item?id=37268616) - [Sidewalk Garden](https://zachklein.com/Sidewalk+Garden)

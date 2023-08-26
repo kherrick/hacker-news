@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-26](index.md)
 
+* [2023-08-26, 11:01:26](https://news.ycombinator.com/item?id=37271653) - [The EU’s Digital Services Act is now in effect](https://www.theverge.com/23845672/eu-digital-services-act-explained)
 * [2023-08-26, 08:47:17](https://news.ycombinator.com/item?id=37270881) - [66% of Americans say they want extended European-style vacation policies at work](https://www.cnbc.com/2023/08/25/66percent-of-americans-say-they-want-extended-european-style-vacation-policies-at-work.html)
 * [2023-08-26, 08:06:20](https://news.ycombinator.com/item?id=37270747) - [Ask HN: What's the Situation with YouTube-Dl?](https://news.ycombinator.com/item?id=37270747)
 * [2023-08-26, 07:41:28](https://news.ycombinator.com/item?id=37270634) - [Uncle Sam accuses SpaceX of not considering asylees and refugees for employment](https://www.theregister.com/2023/08/25/spacex_discrimination_lawsuit/)
