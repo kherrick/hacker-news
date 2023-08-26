@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-26, 04:18:22](https://news.ycombinator.com/item?id=37269909) - [Companies That Union-Bust Must Now Automatically Recognize Union, NLRB Rules](https://www.vice.com/en/article/dy3xej/companies-that-union-bust-must-now-automatically-recognize-union-nlrb-rules)
 * [2023-08-26, 02:24:50](https://news.ycombinator.com/item?id=37269376) - [Interpretable Graph Neural Networks for Tabular Data](https://arxiv.org/abs/2308.08945)
 * [2023-08-26, 01:01:40](https://news.ycombinator.com/item?id=37268923) - [Generally Intelligent (YC S17) is hiring research scientists](https://news.ycombinator.com/item?id=37268923)
 * [2023-08-26, 00:55:05](https://news.ycombinator.com/item?id=37268886) - [We are not empty: The concept of the atomic void is a mistake](https://aeon.co/essays/why-the-empty-atom-picture-misunderstands-quantum-theory)
@@ -26,7 +27,6 @@
 * [2023-08-25, 07:11:43](https://news.ycombinator.com/item?id=37258974) - [I cycled to all the villages in alphabetical order](https://diziet.dreamwidth.org/16260.html)
 * [2023-08-25, 06:31:56](https://news.ycombinator.com/item?id=37258753) - [A scalar triple product identity](https://realtimecollisiondetection.net/blog/?p=69)
 * [2023-08-25, 00:31:42](https://news.ycombinator.com/item?id=37256346) - [Research group detects a quantum entanglement wave for the first time](https://www.aalto.fi/en/news/research-group-detects-a-quantum-entanglement-wave-for-the-first-time-using-real-space-measurements)
-* [2023-08-25, 00:30:25](https://news.ycombinator.com/item?id=37256332) - [The Wires That Bind: Electrification and Community Renewal](https://www.quarterlyessay.com.au/essay/2023/03/the-wires-that-bind/extract)
 * [2023-08-25, 00:11:15](https://news.ycombinator.com/item?id=37256195) - [Engineering Serendipity: Does Sharing Lead to Knowledge Production? [pdf]](https://www.hbs.edu/ris/Publication%20Files/20-058_39f454e9-bef0-4bed-bfa8-526e90601ade.pdf)
 * [2023-08-24, 21:01:59](https://news.ycombinator.com/item?id=37254507) - [Breaking copy protection on a 1983 game for Apple 2](https://ia804502.us.archive.org/30/items/SpareChange4amCrack/Spare%20Change%20%284am%20%26%20san%20inc%20crack%29.txt)
 * [2023-08-24, 08:57:01](https://news.ycombinator.com/item?id=37246545) - [Prof. Robert Boice's Rules of the Road for Writers](https://home.uchicago.edu/~rfulton/Tips.htm)
