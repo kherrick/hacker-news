@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-26](index.md)
 
+* [2023-08-26, 07:00:50](https://news.ycombinator.com/item?id=37270463) - [Gym Class VR (YC W22) Is Hiring – Unity Animator and Programmer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-animator-programmer-vr-unity)
 * [2023-08-26, 05:33:27](https://news.ycombinator.com/item?id=37270190) - [Skiplagging: The travel hack hated by airlines is now the subject of a lawsuit](https://www.abc.net.au/news/2023-08-26/skiplagging-is-the-travel-hack-that-airlines-hate/102742604)
 * [2023-08-26, 05:28:21](https://news.ycombinator.com/item?id=37270171) - [Llama2.c L2E LLM – Multi OS Binary and Unikernel Release](https://github.com/trholding/llama2.c/releases/tag/L2E_v0.1)
 * [2023-08-26, 04:18:22](https://news.ycombinator.com/item?id=37269909) - [Companies That Union-Bust Must Now Automatically Recognize Union, NLRB Rules](https://www.vice.com/en/article/dy3xej/companies-that-union-bust-must-now-automatically-recognize-union-nlrb-rules)
