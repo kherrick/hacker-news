@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-26](index.md)
 
+* [2023-08-26, 02:24:50](https://news.ycombinator.com/item?id=37269376) - [Interpretable Graph Neural Networks for Tabular Data](https://arxiv.org/abs/2308.08945)
 * [2023-08-26, 01:13:30](https://news.ycombinator.com/item?id=37268996) - [Why the US is one of only a few countries with no paid time off](https://www.vox.com/policy-and-politics/2019/12/24/21035628/new-york-paid-time-off)
 * [2023-08-26, 01:01:40](https://news.ycombinator.com/item?id=37268923) - [Generally Intelligent (YC S17) Is Hiring Research Scientists](https://news.ycombinator.com/item?id=37268923)
 * [2023-08-26, 00:55:05](https://news.ycombinator.com/item?id=37268886) - [We are not empty: The concept of the atomic void is a mistake](https://aeon.co/essays/why-the-empty-atom-picture-misunderstands-quantum-theory)

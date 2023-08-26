@@ -58,6 +58,7 @@
 * [2023-08-25, 14:27:44](https://news.ycombinator.com/item?id=37262115) - [For the first time Americans are listening more on-demand audio than live audio](https://www.edisonresearch.com/weekly-insights-8-23-2023-on-demand-audio-passes-linear-audio/)
 * [2023-08-25, 14:01:13](https://news.ycombinator.com/item?id=37261843) - [Does wearing waterproof clothing increase PFAS in our bodies?](https://molecularspec.substack.com/p/water-repellent-clothing-and-pfas)
 * [2023-08-25, 13:57:16](https://news.ycombinator.com/item?id=37261786) - [How the fertility crisis might end](https://www.overcomingbias.com/p/13-fertility-scenarios)
+* [2023-08-25, 13:43:11](https://news.ycombinator.com/item?id=37261640) - [Packaging software is something that takes work](https://utcc.utoronto.ca/~cks/space/blog/linux/PackagingTakesWork)
 * [2023-08-25, 13:31:46](https://news.ycombinator.com/item?id=37261527) - [Huawei reportedly building 'secret' semiconductor fabs](https://www.theregister.com/2023/08/25/huawei_building_secret_fabs/)
 * [2023-08-25, 13:00:13](https://news.ycombinator.com/item?id=37261198) - [How do domain-specific chatbots work? A retrieval augmented generation overview](https://scriv.ai/guides/retrieval-augmented-generation-overview/)
 * [2023-08-25, 12:52:10](https://news.ycombinator.com/item?id=37261126) - [None of us are truly living off the grid](https://www.okdoomer.io/youre-not-going-to-make-it/)

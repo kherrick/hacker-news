@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-26, 01:13:30](https://news.ycombinator.com/item?id=37268996) - [Why the US is one of only a few countries with no paid time off](https://www.vox.com/policy-and-politics/2019/12/24/21035628/new-york-paid-time-off)
+* [2023-08-26, 02:24:50](https://news.ycombinator.com/item?id=37269376) - [Interpretable Graph Neural Networks for Tabular Data](https://arxiv.org/abs/2308.08945)
 * [2023-08-26, 01:01:40](https://news.ycombinator.com/item?id=37268923) - [Generally Intelligent (YC S17) is hiring research scientists](https://news.ycombinator.com/item?id=37268923)
 * [2023-08-26, 00:55:05](https://news.ycombinator.com/item?id=37268886) - [We are not empty: The concept of the atomic void is a mistake](https://aeon.co/essays/why-the-empty-atom-picture-misunderstands-quantum-theory)
 * [2023-08-26, 00:33:06](https://news.ycombinator.com/item?id=37268738) - [Training immune cells to remove ‘trash’ helps resolve lung inflammation](https://today.uic.edu/immune-cells-acute-lung-injury/)
@@ -21,6 +21,7 @@
 * [2023-08-25, 15:32:31](https://news.ycombinator.com/item?id=37262857) - [HelloSystem: A graphical OS built on FreeBSD](https://hellosystem.github.io/docs/)
 * [2023-08-25, 14:56:48](https://news.ycombinator.com/item?id=37262440) - [OpenTF announces fork of Terraform](https://opentf.org/announcement)
 * [2023-08-25, 14:37:24](https://news.ycombinator.com/item?id=37262220) - [Untouchable number](https://en.wikipedia.org/wiki/Untouchable_number)
+* [2023-08-25, 13:43:11](https://news.ycombinator.com/item?id=37261640) - [Packaging software is something that takes work](https://utcc.utoronto.ca/~cks/space/blog/linux/PackagingTakesWork)
 * [2023-08-25, 13:00:13](https://news.ycombinator.com/item?id=37261198) - [How do domain-specific chatbots work? A retrieval augmented generation overview](https://scriv.ai/guides/retrieval-augmented-generation-overview/)
 * [2023-08-25, 07:11:43](https://news.ycombinator.com/item?id=37258974) - [I cycled to all the villages in alphabetical order](https://diziet.dreamwidth.org/16260.html)
 * [2023-08-25, 06:31:56](https://news.ycombinator.com/item?id=37258753) - [A scalar triple product identity](https://realtimecollisiondetection.net/blog/?p=69)
@@ -28,7 +29,6 @@
 * [2023-08-25, 00:30:25](https://news.ycombinator.com/item?id=37256332) - [The Wires That Bind: Electrification and Community Renewal](https://www.quarterlyessay.com.au/essay/2023/03/the-wires-that-bind/extract)
 * [2023-08-25, 00:11:15](https://news.ycombinator.com/item?id=37256195) - [Engineering Serendipity: Does Sharing Lead to Knowledge Production? [pdf]](https://www.hbs.edu/ris/Publication%20Files/20-058_39f454e9-bef0-4bed-bfa8-526e90601ade.pdf)
 * [2023-08-24, 21:01:59](https://news.ycombinator.com/item?id=37254507) - [Breaking copy protection on a 1983 game for Apple 2](https://ia804502.us.archive.org/30/items/SpareChange4amCrack/Spare%20Change%20%284am%20%26%20san%20inc%20crack%29.txt)
-* [2023-08-24, 12:29:47](https://news.ycombinator.com/item?id=37248013) - [Visualizing Neural Networks](https://photonlines.substack.com/p/grokking-neural-networks)
 * [2023-08-24, 08:57:01](https://news.ycombinator.com/item?id=37246545) - [Prof. Robert Boice's Rules of the Road for Writers](https://home.uchicago.edu/~rfulton/Tips.htm)
 
 ## [Archives](archives/index.md)
