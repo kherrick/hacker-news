@@ -3,7 +3,6 @@
 * [2023-08-26, 21:00:09](https://news.ycombinator.com/item?id=37276864) - [Freshpaint (YC S19) Is Hiring Engineers to Build a HIPAA Compliant Data Platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-08-26, 20:18:24](https://news.ycombinator.com/item?id=37276485) - [Attention didn’t collapse. It was stolen (2022)](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media)
 * [2023-08-26, 20:11:42](https://news.ycombinator.com/item?id=37276424) - [Gojekyll – 20x faster Go port of jekyll](https://github.com/osteele/gojekyll)
-* [2023-08-26, 19:03:33](https://news.ycombinator.com/item?id=37275856) - [90% of “eco-friendly” paper straws contain traces of toxic forever chemicals](https://scienceswitch.com/2023/08/27/90-of-eco-friendly-paper-straws-contain-traces-of-toxic-forever-chemicals/)
 * [2023-08-26, 18:44:05](https://news.ycombinator.com/item?id=37275676) - [Historic Algorithms Help Unlock Shortest-Path Problem Breakthrough](https://cacm.acm.org/news/275684-historic-algorithms-help-unlock-shortest-path-problem-breakthrough/fulltext)
 * [2023-08-26, 18:28:46](https://news.ycombinator.com/item?id=37275526) - [Modernizing Compiler Design for Carbon Toolchain [video]](https://www.youtube.com/watch?v=ZI198eFghJk)
 * [2023-08-26, 18:17:16](https://news.ycombinator.com/item?id=37275401) - [A video of the transformation of a single cell into a salamander](https://pmdvod.nationalgeographic.com/NG_Video/772/995/1442844739770_1550184269599_1442865731523_mp4_video_1024x576_1632000_primary_audio_eng_3.mp4)
@@ -29,6 +28,7 @@
 * [2023-08-24, 11:08:23](https://news.ycombinator.com/item?id=37247451) - [How was the size of Earth first measured?](https://stardate.org/astro-guide/faqs/how-was-size-earth-first-measured)
 * [2023-08-24, 09:05:58](https://news.ycombinator.com/item?id=37246610) - [Universal Design Guide Playbook](https://universaldesignguide.com/)
 * [2023-08-24, 08:58:43](https://news.ycombinator.com/item?id=37246563) - [Seqlock-Based Atomic Memory Snapshots](https://puzpuzpuz.dev/seqlock-based-atomic-memory-snapshots)
+* [2023-08-24, 01:47:44](https://news.ycombinator.com/item?id=37244146) - [Science of Crowd Control [video]](https://www.youtube.com/watch?v=C_B09FZwSbA)
 * [2023-08-24, 01:03:51](https://news.ycombinator.com/item?id=37243933) - [Alternative Shells](https://github.com/oilshell/oil/wiki/Alternative-Shells)
 
 ## [Archives](archives/index.md)
