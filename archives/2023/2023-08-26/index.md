@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-26](index.md)
 
 * [2023-08-26, 21:36:42](https://news.ycombinator.com/item?id=37277134) - [The Rival to the Panama Canal That Was Never Built](https://www.bbc.com/future/article/20230825-the-rival-to-the-panama-canal-that-was-never-built)
+* [2023-08-26, 21:20:02](https://news.ycombinator.com/item?id=37277016) - [Airbnb allowing host to place cameras in the room where I would be sleeping](https://old.reddit.com/r/BestofRedditorUpdates/comments/1623v0b/airbnb_allowing_host_to_place_cameras_in_the_room/)
 * [2023-08-26, 21:01:52](https://news.ycombinator.com/item?id=37276869) - [New York Is Full. And it’s the housing market’s fault](https://www.theatlantic.com/ideas/archive/2023/08/new-york-housing-asylum-seekers-mayor-adams/675091/)
 * [2023-08-26, 21:00:09](https://news.ycombinator.com/item?id=37276864) - [Freshpaint (YC S19) Is Hiring Engineers to Build a HIPAA Compliant Data Platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-08-26, 20:18:24](https://news.ycombinator.com/item?id=37276485) - [Attention didn’t collapse. It was stolen (2022)](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media)

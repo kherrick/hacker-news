@@ -78,6 +78,7 @@
 * [2023-08-24, 13:05:01](https://news.ycombinator.com/item?id=37248293) - [BillaBear – v1.1 – Subscription Management and Billing](https://github.com/billabear/billabear/releases/tag/v1.1.0)
 * [2023-08-24, 12:54:22](https://news.ycombinator.com/item?id=37248189) - [New ancient ape from Türkiye challenges the story of human origins](https://phys.org/news/2023-08-ancient-ape-trkiye-story-human.html)
 * [2023-08-24, 12:52:42](https://news.ycombinator.com/item?id=37248177) - [Compiling Functional Languages (2002) [pdf]](https://xavierleroy.org/talks/compilation-agay.pdf)
+* [2023-08-24, 12:31:01](https://news.ycombinator.com/item?id=37248025) - [Alberghi Diffusi Turn Villages into Hotels](https://www.smithsonianmag.com/travel/how-alberghi-diffusi-turn-villages-into-hotels-180981951/)
 * [2023-08-24, 12:30:28](https://news.ycombinator.com/item?id=37248020) - [Visual Introduction to Hash-Array Mapped Tries (HAMTs)](https://photonlines.substack.com/p/grokking-hash-array-mapped-tries)
 * [2023-08-24, 12:29:47](https://news.ycombinator.com/item?id=37248013) - [Visualizing Neural Networks](https://photonlines.substack.com/p/grokking-neural-networks)
 * [2023-08-24, 12:28:55](https://news.ycombinator.com/item?id=37248002) - [Ask HN: Where do I find good code to read?](https://news.ycombinator.com/item?id=37248002)
