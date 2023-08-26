@@ -69,6 +69,7 @@
 * [2023-08-24, 13:49:17](https://news.ycombinator.com/item?id=37248748) - [Most of My Instagram Ads Are for Drugs, Stolen Credit Cards, Hacked Accounts](https://www.404media.co/instagram-ads-illegal-content-drugs-guns-hackers/)
 * [2023-08-24, 13:44:48](https://news.ycombinator.com/item?id=37248694) - [Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://arxiv.org/abs/2308.09687)
 * [2023-08-24, 13:41:01](https://news.ycombinator.com/item?id=37248652) - [Camera Crushes Lidar, Claims Startup](https://spectrum.ieee.org/camera-crushes-lidar)
+* [2023-08-24, 13:27:39](https://news.ycombinator.com/item?id=37248505) - [East of the Sun and West of the Moon: The Art of Kay Nielsen (2015)](https://www.theparisreview.org/blog/2015/12/03/east-of-the-sun-and-west-of-the-moon/)
 * [2023-08-24, 13:26:45](https://news.ycombinator.com/item?id=37248494) - [Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding/)
 * [2023-08-24, 13:19:30](https://news.ycombinator.com/item?id=37248411) - [Is Computer Hacking a Crime? (1989) [pdf]](https://faculty.weber.edu/apainter1/Readings/Hacking%20a%20Crime.pdf)
 * [2023-08-24, 13:13:04](https://news.ycombinator.com/item?id=37248353) - [I Won't Deliberately Use AI for Programming](https://www.mahdikarimi.com/blog/why-i-wont-use-ai-deliberately)
