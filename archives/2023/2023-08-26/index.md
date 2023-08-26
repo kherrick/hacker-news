@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-26](index.md)
 
+* [2023-08-26, 15:01:51](https://news.ycombinator.com/item?id=37273507) - [Xinjiang Victims Database](https://www.shahit.biz/eng/)
 * [2023-08-26, 13:52:38](https://news.ycombinator.com/item?id=37272929) - [Let Maintainers Be Maintainers](https://graydon2.dreamwidth.org/306832.html)
 * [2023-08-26, 13:28:57](https://news.ycombinator.com/item?id=37272716) - [Newly discovered black hole 'speed limit' hints at new laws of physics](https://www.livescience.com/physics-mathematics/newly-discovered-black-hole-speed-limit-hints-at-new-laws-of-physics)
 * [2023-08-26, 13:21:16](https://news.ycombinator.com/item?id=37272652) - [E-ink is so Retropunk](https://rmkit.dev/eink-is-so-retropunk/)
