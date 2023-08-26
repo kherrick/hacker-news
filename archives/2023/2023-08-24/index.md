@@ -95,6 +95,7 @@
 * [2023-08-24, 09:51:02](https://news.ycombinator.com/item?id=37246928) - [Apple’s treatment of small games developer makes a textbook antitrust case](https://9to5mac.com/2023/08/23/textbook-antitrust-case/)
 * [2023-08-24, 09:25:17](https://news.ycombinator.com/item?id=37246740) - [How Modern SQL Databases Are Changing Web Development: Part 1](https://blog.whimslab.io/how-modern-sql-databases-are-changing-web-development-4d1f15b0daea)
 * [2023-08-24, 09:18:57](https://news.ycombinator.com/item?id=37246688) - [Ask HN: Undiscovered electronics/maker YouTube channels](https://news.ycombinator.com/item?id=37246688)
+* [2023-08-24, 09:05:58](https://news.ycombinator.com/item?id=37246610) - [Universal Design Guide Playbook](https://universaldesignguide.com/)
 * [2023-08-24, 09:01:57](https://news.ycombinator.com/item?id=37246583) - [A Dive into the Legacy of BSD Unix](https://medium.com/@marvelsmarket7/title-unraveling-the-origins-of-influential-1980s-networking-software-a-dive-into-the-legacy-of-cb6a2b2f198)
 * [2023-08-24, 08:57:01](https://news.ycombinator.com/item?id=37246545) - [Prof. Robert Boice's Rules of the Road for Writers](https://home.uchicago.edu/~rfulton/Tips.htm)
 * [2023-08-24, 08:43:56](https://news.ycombinator.com/item?id=37246458) - [Show HN: Playwright in Docker with hot reloading – Simple testautomation](https://github.com/punnerud/playwright_hot_docker)

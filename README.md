@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-26, 08:47:17](https://news.ycombinator.com/item?id=37270881) - [66% of Americans say they want extended European-style vacation policies at work](https://www.cnbc.com/2023/08/25/66percent-of-americans-say-they-want-extended-european-style-vacation-policies-at-work.html)
+* [2023-08-26, 08:06:20](https://news.ycombinator.com/item?id=37270747) - [Ask HN: What's the Situation with YouTube-Dl?](https://news.ycombinator.com/item?id=37270747)
 * [2023-08-26, 07:41:28](https://news.ycombinator.com/item?id=37270634) - [Uncle Sam accuses SpaceX of not considering asylees and refugees for employment](https://www.theregister.com/2023/08/25/spacex_discrimination_lawsuit/)
 * [2023-08-26, 07:00:50](https://news.ycombinator.com/item?id=37270463) - [Gym Class VR (YC W22) is hiring a Unity animator and programmer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-animator-programmer-vr-unity)
 * [2023-08-26, 05:28:21](https://news.ycombinator.com/item?id=37270171) - [Llama2.c L2E LLM – Multi OS Binary and Unikernel Release](https://github.com/trholding/llama2.c/releases/tag/L2E_v0.1)
@@ -16,7 +16,6 @@
 * [2023-08-25, 21:32:38](https://news.ycombinator.com/item?id=37267299) - [Fifth Circuit: Law enforcement doesn’t need warrants to search phones at border](https://www.techdirt.com/2023/08/25/fifth-circuit-says-law-enforcement-doesnt-need-warrants-to-search-phones-at-the-border/)
 * [2023-08-25, 20:58:11](https://news.ycombinator.com/item?id=37266957) - [Giving up the iPad-only travel dream](https://sixcolors.com/post/2023/08/why-i-gave-up-on-the-ipad-only-dream/)
 * [2023-08-25, 17:42:23](https://news.ycombinator.com/item?id=37264676) - [Web scraping for me, but not for thee](https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm)
-* [2023-08-25, 16:34:49](https://news.ycombinator.com/item?id=37263708) - [Email Authentication: A Developer's Guide](https://resend.com/blog/email-authentication-a-developers-guide)
 * [2023-08-25, 16:07:36](https://news.ycombinator.com/item?id=37263322) - [The EU's war on behavioral advertising](https://thisisunpacked.substack.com/p/the-eu-war-on-behavioral-advertising)
 * [2023-08-25, 15:51:43](https://news.ycombinator.com/item?id=37263121) - [Programming as Theory Building (1985) [pdf]](https://algoritmos-iii.github.io/assets/bibliografia/programming-as-theory-building.pdf)
 * [2023-08-25, 15:32:31](https://news.ycombinator.com/item?id=37262857) - [HelloSystem: A graphical OS built on FreeBSD](https://hellosystem.github.io/docs/)
@@ -26,8 +25,9 @@
 * [2023-08-25, 00:11:15](https://news.ycombinator.com/item?id=37256195) - [Engineering Serendipity: Does Sharing Lead to Knowledge Production? [pdf]](https://www.hbs.edu/ris/Publication%20Files/20-058_39f454e9-bef0-4bed-bfa8-526e90601ade.pdf)
 * [2023-08-24, 14:41:14](https://news.ycombinator.com/item?id=37249289) - [A study of research on the psychology of expertise in weather forecasting](https://mitpress.mit.edu/9780262548816/minding-the-weather/)
 * [2023-08-24, 13:26:45](https://news.ycombinator.com/item?id=37248494) - [Code Llama, a state-of-the-art large language model for coding](https://ai.meta.com/blog/code-llama-large-language-model-coding/)
+* [2023-08-24, 09:05:58](https://news.ycombinator.com/item?id=37246610) - [Universal Design Guide Playbook](https://universaldesignguide.com/)
 * [2023-08-24, 09:01:57](https://news.ycombinator.com/item?id=37246583) - [A Dive into the Legacy of BSD Unix](https://medium.com/@marvelsmarket7/title-unraveling-the-origins-of-influential-1980s-networking-software-a-dive-into-the-legacy-of-cb6a2b2f198)
-* [2023-08-24, 08:57:01](https://news.ycombinator.com/item?id=37246545) - [Prof. Robert Boice's Rules of the Road for Writers](https://home.uchicago.edu/~rfulton/Tips.htm)
+* [2023-08-24, 08:57:01](https://news.ycombinator.com/item?id=37246545) - [Prof. Robert Boice's Rules of the Road for Writers (2012)](https://home.uchicago.edu/~rfulton/Tips.htm)
 * [2023-08-24, 02:30:06](https://news.ycombinator.com/item?id=37244382) - [The Tug Bibliography Archive](https://ftp.math.utah.edu/pub/tex/bib/)
 * [2023-08-24, 01:35:23](https://news.ycombinator.com/item?id=37244086) - [Who were the real Sin Eaters? (2021)](https://www.panmacmillan.com/blogs/fiction/megan-campisi-on-the-sin-eater)
 
