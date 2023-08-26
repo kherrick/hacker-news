@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-26, 12:44:00](https://news.ycombinator.com/item?id=37272345) - [Ask HN: What do non-technical founders need to know about software dev?](https://news.ycombinator.com/item?id=37272345)
+* [2023-08-26, 12:28:18](https://news.ycombinator.com/item?id=37272217) - [How to Search on Encrypted Data (2013)](https://esl.cs.brown.edu/blog/how-to-search-on-encrypted-data-introduction-part-1/)
 * [2023-08-26, 12:01:00](https://news.ycombinator.com/item?id=37272009) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-08-26, 11:26:05](https://news.ycombinator.com/item?id=37271776) - [The Albanian town that TikTok emptied](https://www.codastory.com/authoritarian-tech/albania-tiktok-migration-uk/)
 * [2023-08-26, 11:23:56](https://news.ycombinator.com/item?id=37271764) - [The WordPress 100 Year Plan](https://wordpress.com/100-year/)
@@ -18,7 +19,6 @@
 * [2023-08-25, 22:08:23](https://news.ycombinator.com/item?id=37267597) - [Beating GPT-4 on HumanEval with a fine-tuned CodeLlama-34B](https://www.phind.com/blog/code-llama-beats-gpt4)
 * [2023-08-25, 21:59:12](https://news.ycombinator.com/item?id=37267523) - [Casio Caleid XM-700 Mobile Navigator (1997)](https://blog.gingerbeardman.com/2023/08/25/casio-caleid-xm700-mobile-navigator-hardware/)
 * [2023-08-25, 20:58:11](https://news.ycombinator.com/item?id=37266957) - [Giving up the iPad-only travel dream](https://sixcolors.com/post/2023/08/why-i-gave-up-on-the-ipad-only-dream/)
-* [2023-08-25, 16:07:36](https://news.ycombinator.com/item?id=37263322) - [The EU's war on behavioral advertising](https://thisisunpacked.substack.com/p/the-eu-war-on-behavioral-advertising)
 * [2023-08-25, 15:51:43](https://news.ycombinator.com/item?id=37263121) - [Programming as Theory Building (1985) [pdf]](https://algoritmos-iii.github.io/assets/bibliografia/programming-as-theory-building.pdf)
 * [2023-08-25, 14:56:48](https://news.ycombinator.com/item?id=37262440) - [OpenTF announces fork of Terraform](https://opentf.org/announcement)
 * [2023-08-25, 11:13:52](https://news.ycombinator.com/item?id=37260374) - [Manuals Showcase](https://archive.org/details/manuals_showcase)
