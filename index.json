@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-26, 21:01:52",
+      "https://news.ycombinator.com/item?id=37276869"
+    ],
+    [
+      "New York Is Full. And it’s the housing market’s fault",
+      "https://www.theatlantic.com/ideas/archive/2023/08/new-york-housing-asylum-seekers-mayor-adams/675091/"
+    ]
+  ],
+  [
+    [
       "2023-08-26, 21:00:09",
       "https://news.ycombinator.com/item?id=37276864"
     ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2023-08-26, 18:55:43",
-      "https://news.ycombinator.com/item?id=37275785"
-    ],
-    [
-      "The challenge of designing nuclear waste warning markers to last 10k years",
-      "https://nightingaledvs.com/design-warning-for-nuclear-waste/"
-    ]
-  ],
-  [
-    [
       "2023-08-26, 18:44:05",
       "https://news.ycombinator.com/item?id=37275676"
     ],
@@ -111,32 +111,12 @@
   ],
   [
     [
-      "2023-08-26, 18:10:19",
-      "https://news.ycombinator.com/item?id=37275315"
-    ],
-    [
-      "Datapen.io – A Curation of Free Data Science Resources",
-      "https://www.datapen.io/"
-    ]
-  ],
-  [
-    [
       "2023-08-26, 17:27:28",
       "https://news.ycombinator.com/item?id=37274871"
     ],
     [
       "Slack’s migration to a cellular architecture",
       "https://slack.engineering/slacks-migration-to-a-cellular-architecture/"
-    ]
-  ],
-  [
-    [
-      "2023-08-26, 16:48:19",
-      "https://news.ycombinator.com/item?id=37274467"
-    ],
-    [
-      "VPS Benchmarking – Cloudfanatic, DigitalOcean, Linode, Vultr",
-      "https://blog.aawadia.dev/2023/08/26/yabs-august-2023/"
     ]
   ],
   [
@@ -165,7 +145,7 @@
       "https://news.ycombinator.com/item?id=37272929"
     ],
     [
-      "Let Maintainers Be Maintainers",
+      "Let maintainers be maintainers",
       "https://graydon2.dreamwidth.org/306832.html"
     ]
   ],
@@ -207,6 +187,16 @@
     [
       "A venture-backed startup has quietly bought more than 80 mom-and-pop shops",
       "https://techcrunch.com/2023/08/24/this-venture-backed-startup-has-quietly-bought-more-than-80-mom-and-pop-shops/"
+    ]
+  ],
+  [
+    [
+      "2023-08-26, 12:28:18",
+      "https://news.ycombinator.com/item?id=37272217"
+    ],
+    [
+      "How to Search on Encrypted Data (2013)",
+      "https://esl.cs.brown.edu/blog/how-to-search-on-encrypted-data-introduction-part-1/"
     ]
   ],
   [
@@ -281,11 +271,21 @@
   ],
   [
     [
+      "2023-08-24, 14:36:58",
+      "https://news.ycombinator.com/item?id=37249228"
+    ],
+    [
+      "Gatsby Adapters",
+      "https://www.netlify.com/blog/gatsby-adapters-realize-the-full-potential-of-gatsby-on-your-platform/"
+    ]
+  ],
+  [
+    [
       "2023-08-24, 12:31:01",
       "https://news.ycombinator.com/item?id=37248025"
     ],
     [
-      "Alberghi Diffusi Turn Villages into Hotels",
+      "Alberghi diffusi turn villages into hotels",
       "https://www.smithsonianmag.com/travel/how-alberghi-diffusi-turn-villages-into-hotels-180981951/"
     ]
   ],
