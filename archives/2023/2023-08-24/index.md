@@ -8,6 +8,7 @@
 * [2023-08-24, 22:35:49](https://news.ycombinator.com/item?id=37255443) - [Dollar Tree is the latest retailer to say shoplifting is squeezing margins](https://www.marketwatch.com/story/dollar-trees-stock-slides-8-6-premarket-as-profit-falls-sharply-from-a-year-ago-c84ff785)
 * [2023-08-24, 22:17:18](https://news.ycombinator.com/item?id=37255280) - [An image preprocessing tool to protect artworks from AI-for-Art based mimicry](https://mist-project.github.io/index_en.html)
 * [2023-08-24, 21:57:25](https://news.ycombinator.com/item?id=37255079) - [Proof-of-Work Defense for Onion Services](https://blog.torproject.org/introducing-proof-of-work-defense-for-onion-services/)
+* [2023-08-24, 21:56:35](https://news.ycombinator.com/item?id=37255069) - [How Tycho Brahe Really Died (2001)](https://www.ips-planetarium.org/page/a_jacobsen2001)
 * [2023-08-24, 21:51:28](https://news.ycombinator.com/item?id=37255022) - [SQLite 3.43.0 Released](https://sqlite.org/releaselog/3_43_0.html)
 * [2023-08-24, 21:32:46](https://news.ycombinator.com/item?id=37254823) - [Runme – Interactive Runbooks Built with Markdown](https://runme.dev/)
 * [2023-08-24, 21:29:01](https://news.ycombinator.com/item?id=37254772) - [The longest word you can type on the first row of a QWERTY keyboard](https://rubenerd.com/the-longest-word-you-can-type-on-the-first-row/)
