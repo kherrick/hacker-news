@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-26, 08:47:17](https://news.ycombinator.com/item?id=37270881) - [66% of Americans say they want extended European-style vacation policies at work](https://www.cnbc.com/2023/08/25/66percent-of-americans-say-they-want-extended-european-style-vacation-policies-at-work.html)
 * [2023-08-26, 07:41:28](https://news.ycombinator.com/item?id=37270634) - [Uncle Sam accuses SpaceX of not considering asylees and refugees for employment](https://www.theregister.com/2023/08/25/spacex_discrimination_lawsuit/)
 * [2023-08-26, 07:00:50](https://news.ycombinator.com/item?id=37270463) - [Gym Class VR (YC W22) is hiring a Unity animator and programmer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-animator-programmer-vr-unity)
 * [2023-08-26, 05:28:21](https://news.ycombinator.com/item?id=37270171) - [Llama2.c L2E LLM – Multi OS Binary and Unikernel Release](https://github.com/trholding/llama2.c/releases/tag/L2E_v0.1)
@@ -22,13 +23,12 @@
 * [2023-08-25, 15:32:31](https://news.ycombinator.com/item?id=37262857) - [HelloSystem: A graphical OS built on FreeBSD](https://hellosystem.github.io/docs/)
 * [2023-08-25, 14:56:48](https://news.ycombinator.com/item?id=37262440) - [OpenTF announces fork of Terraform](https://opentf.org/announcement)
 * [2023-08-25, 11:13:52](https://news.ycombinator.com/item?id=37260374) - [Manuals Showcase](https://archive.org/details/manuals_showcase)
-* [2023-08-25, 07:11:43](https://news.ycombinator.com/item?id=37258974) - [I cycled to all the villages in alphabetical order](https://diziet.dreamwidth.org/16260.html)
 * [2023-08-25, 06:31:56](https://news.ycombinator.com/item?id=37258753) - [A scalar triple product identity](https://realtimecollisiondetection.net/blog/?p=69)
-* [2023-08-25, 00:31:42](https://news.ycombinator.com/item?id=37256346) - [Research group detects a quantum entanglement wave for the first time](https://www.aalto.fi/en/news/research-group-detects-a-quantum-entanglement-wave-for-the-first-time-using-real-space-measurements)
 * [2023-08-25, 00:11:15](https://news.ycombinator.com/item?id=37256195) - [Engineering Serendipity: Does Sharing Lead to Knowledge Production? [pdf]](https://www.hbs.edu/ris/Publication%20Files/20-058_39f454e9-bef0-4bed-bfa8-526e90601ade.pdf)
 * [2023-08-24, 14:41:14](https://news.ycombinator.com/item?id=37249289) - [A study of research on the psychology of expertise in weather forecasting](https://mitpress.mit.edu/9780262548816/minding-the-weather/)
 * [2023-08-24, 09:01:57](https://news.ycombinator.com/item?id=37246583) - [A Dive into the Legacy of BSD Unix](https://medium.com/@marvelsmarket7/title-unraveling-the-origins-of-influential-1980s-networking-software-a-dive-into-the-legacy-of-cb6a2b2f198)
 * [2023-08-24, 08:57:01](https://news.ycombinator.com/item?id=37246545) - [Prof. Robert Boice's Rules of the Road for Writers](https://home.uchicago.edu/~rfulton/Tips.htm)
+* [2023-08-24, 02:30:06](https://news.ycombinator.com/item?id=37244382) - [The Tug Bibliography Archive](https://ftp.math.utah.edu/pub/tex/bib/)
 * [2023-08-24, 01:35:23](https://news.ycombinator.com/item?id=37244086) - [Who were the real Sin Eaters? (2021)](https://www.panmacmillan.com/blogs/fiction/megan-campisi-on-the-sin-eater)
 
 ## [Archives](archives/index.md)
