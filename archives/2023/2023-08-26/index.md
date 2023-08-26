@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-08-26](index.md)
 
+* [2023-08-26, 15:49:36](https://news.ycombinator.com/item?id=37273907) - [Google Maps is a critical dependency for nutrition facts on mcdonalds.com](https://mastodon.social/@simevidas/110956696765338181)
 * [2023-08-26, 15:38:56](https://news.ycombinator.com/item?id=37273818) - [Exxon Knew about Climate Change Almost 40 Years Ago](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/)
+* [2023-08-26, 15:10:05](https://news.ycombinator.com/item?id=37273577) - [“Autobesity”: More than 150 car models too big for regular UK parking spaces](https://www.theguardian.com/business/2023/aug/26/more-than-150-car-models-too-big-for-regular-uk-parking-spaces)
 * [2023-08-26, 15:01:51](https://news.ycombinator.com/item?id=37273507) - [Xinjiang Victims Database](https://www.shahit.biz/eng/)
 * [2023-08-26, 14:41:19](https://news.ycombinator.com/item?id=37273345) - [Apple Pay Later: What Are the Crazy Ones Up To?](https://www.softwareplatform.net/2023/04/16/apple-pay-later-what-are-the-crazy-ones-up-to/)
+* [2023-08-26, 14:30:14](https://news.ycombinator.com/item?id=37273257) - [Ask HN: Publicly Sharing Revenue?](https://news.ycombinator.com/item?id=37273257)
 * [2023-08-26, 13:52:38](https://news.ycombinator.com/item?id=37272929) - [Let Maintainers Be Maintainers](https://graydon2.dreamwidth.org/306832.html)
 * [2023-08-26, 13:39:28](https://news.ycombinator.com/item?id=37272801) - [Armed with traffic cones, protesters are immobilizing driverless cars](https://www.npr.org/2023/08/26/1195695051/driverless-cars-san-francisco-waymo-cruise)
 * [2023-08-26, 13:28:57](https://news.ycombinator.com/item?id=37272716) - [Newly discovered black hole 'speed limit' hints at new laws of physics](https://www.livescience.com/physics-mathematics/newly-discovered-black-hole-speed-limit-hints-at-new-laws-of-physics)
