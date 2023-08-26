@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-08-26](index.md)
 
+* [2023-08-26, 12:44:48](https://news.ycombinator.com/item?id=37272350) - [‘Flat’ company structures rarely work, but some firms aim for middle ground](https://www.nytimes.com/2023/07/05/business/flat-structure-companies.html)
 * [2023-08-26, 12:44:00](https://news.ycombinator.com/item?id=37272345) - [Ask HN: What do non-technical founders need to know about software dev?](https://news.ycombinator.com/item?id=37272345)
+* [2023-08-26, 12:37:18](https://news.ycombinator.com/item?id=37272298) - [This venture-backed startup has quietly bought more than 80 mom-and-pop shops](https://techcrunch.com/2023/08/24/this-venture-backed-startup-has-quietly-bought-more-than-80-mom-and-pop-shops/)
 * [2023-08-26, 12:28:18](https://news.ycombinator.com/item?id=37272217) - [How to Search on Encrypted Data (2013)](https://esl.cs.brown.edu/blog/how-to-search-on-encrypted-data-introduction-part-1/)
+* [2023-08-26, 12:28:08](https://news.ycombinator.com/item?id=37272214) - [Wirecutter CEO Sells Top Reviews for Kickbacks a Pay to Play Strategy Exposed](https://www.xdesk.com/wirecutter-standing-desk-review-pay-to-play-model)
 * [2023-08-26, 12:01:00](https://news.ycombinator.com/item?id=37272009) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-08-26, 11:26:05](https://news.ycombinator.com/item?id=37271776) - [The Albanian town that TikTok emptied](https://www.codastory.com/authoritarian-tech/albania-tiktok-migration-uk/)
 * [2023-08-26, 11:23:56](https://news.ycombinator.com/item?id=37271764) - [The WordPress 100 Year Plan](https://wordpress.com/100-year/)
