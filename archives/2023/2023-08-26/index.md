@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-26](index.md)
 
+* [2023-08-26, 13:17:34](https://news.ycombinator.com/item?id=37272611) - [fish-shell: the user-friendly command-line shell](https://github.com/fish-shell/fish-shell)
 * [2023-08-26, 12:44:48](https://news.ycombinator.com/item?id=37272350) - [‘Flat’ company structures rarely work, but some firms aim for middle ground](https://www.nytimes.com/2023/07/05/business/flat-structure-companies.html)
 * [2023-08-26, 12:44:00](https://news.ycombinator.com/item?id=37272345) - [Ask HN: What do non-technical founders need to know about software dev?](https://news.ycombinator.com/item?id=37272345)
 * [2023-08-26, 12:37:18](https://news.ycombinator.com/item?id=37272298) - [This venture-backed startup has quietly bought more than 80 mom-and-pop shops](https://techcrunch.com/2023/08/24/this-venture-backed-startup-has-quietly-bought-more-than-80-mom-and-pop-shops/)
