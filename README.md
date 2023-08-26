@@ -2,7 +2,7 @@
 
 * [2023-08-26, 07:00:50](https://news.ycombinator.com/item?id=37270463) - [Gym Class VR (YC W22) is hiring a Unity animator and programmer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-animator-programmer-vr-unity)
 * [2023-08-26, 05:28:21](https://news.ycombinator.com/item?id=37270171) - [Llama2.c L2E LLM – Multi OS Binary and Unikernel Release](https://github.com/trholding/llama2.c/releases/tag/L2E_v0.1)
-* [2023-08-26, 04:18:22](https://news.ycombinator.com/item?id=37269909) - [Companies That Union-Bust Must Now Automatically Recognize Union, NLRB Rules](https://www.vice.com/en/article/dy3xej/companies-that-union-bust-must-now-automatically-recognize-union-nlrb-rules)
+* [2023-08-26, 04:53:34](https://news.ycombinator.com/item?id=37270048) - [This week in KDE: Double-click by default](https://pointieststick.com/2023/08/18/this-week-in-kde-double-click-by-default/)
 * [2023-08-26, 02:33:52](https://news.ycombinator.com/item?id=37269425) - [FFmpeg Explorer](https://ffmpeg.lav.io)
 * [2023-08-26, 02:24:50](https://news.ycombinator.com/item?id=37269376) - [Interpretable graph neural networks for tabular data](https://arxiv.org/abs/2308.08945)
 * [2023-08-26, 00:55:05](https://news.ycombinator.com/item?id=37268886) - [We are not empty: The concept of the atomic void is a mistake](https://aeon.co/essays/why-the-empty-atom-picture-misunderstands-quantum-theory)
