@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 23:33:55](https://news.ycombinator.com/item?id=37268360) - [Why fewer university students are studying Mandarin](https://www.economist.com/china/2023/08/24/why-fewer-university-students-are-studying-mandarin)
 * [2023-08-25, 23:32:06](https://news.ycombinator.com/item?id=37268348) - [Why do cats love tuna so much? Scientists may finally know](https://www.science.org/content/article/why-do-cats-love-tuna-so-much-scientists-may-finally-know)
+* [2023-08-25, 23:22:44](https://news.ycombinator.com/item?id=37268268) - [How to Read an RFC (2018)](https://www.ietf.org/blog/how-read-rfc/)
 * [2023-08-25, 22:57:15](https://news.ycombinator.com/item?id=37268068) - [Gitlab's plan to support ActivityPub for merge requests](https://gitlab.com/groups/gitlab-org/-/epics/11247)
 * [2023-08-25, 22:43:08](https://news.ycombinator.com/item?id=37267940) - [CVE Is Everything Terrible About the System](https://daniel.haxx.se/blog/2023/08/26/cve-2020-19909-is-everything-that-is-wrong-with-cves/)
 * [2023-08-25, 22:08:23](https://news.ycombinator.com/item?id=37267597) - [Show HN: Beating GPT-4 on HumanEval with a fine-tuned CodeLlama-34B](https://www.phind.com/blog/code-llama-beats-gpt4)
@@ -100,6 +102,7 @@
 * [2023-08-25, 00:36:02](https://news.ycombinator.com/item?id=37256379) - [Record low sea ice led to catastrophic breeding failure of emperor penguins](https://www.nature.com/articles/s43247-023-00927-x)
 * [2023-08-25, 00:35:59](https://news.ycombinator.com/item?id=37256378) - [The Time I Snuck into Ken Kesey’s Fiction Class](https://lithub.com/lidia-yuknavitch-the-time-i-snuck-into-ken-keseys-fiction-class/)
 * [2023-08-25, 00:31:42](https://news.ycombinator.com/item?id=37256346) - [Research group detects a quantum entanglement wave for the first time](https://www.aalto.fi/en/news/research-group-detects-a-quantum-entanglement-wave-for-the-first-time-using-real-space-measurements)
+* [2023-08-25, 00:30:25](https://news.ycombinator.com/item?id=37256332) - [The Wires That Bind: Electrification and Community Renewal](https://www.quarterlyessay.com.au/essay/2023/03/the-wires-that-bind/extract)
 * [2023-08-25, 00:25:33](https://news.ycombinator.com/item?id=37256300) - [OpenAI now tries to hide that ChatGPT was trained on copyrighted books](https://www.businessinsider.com/openais-latest-chatgpt-version-hides-training-on-copyrighted-material-2023-8)
 * [2023-08-25, 00:13:37](https://news.ycombinator.com/item?id=37256217) - [Helicopter Footage Reveals State Trooper Surveillance Capabilities](https://unicornriot.ninja/2023/helicopter-footage-from-mass-arrest-reveals-state-trooper-surveillance-capabilities-tactics-and-communications/)
 * [2023-08-25, 00:11:15](https://news.ycombinator.com/item?id=37256195) - [Engineering Serendipity: Does Sharing Lead to Knowledge Production? [pdf]](https://www.hbs.edu/ris/Publication%20Files/20-058_39f454e9-bef0-4bed-bfa8-526e90601ade.pdf)
