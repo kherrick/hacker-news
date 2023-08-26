@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-26](index.md)
 
+* [2023-08-26, 12:44:00](https://news.ycombinator.com/item?id=37272345) - [Ask HN: What do non-technical founders need to know about software dev?](https://news.ycombinator.com/item?id=37272345)
 * [2023-08-26, 12:01:00](https://news.ycombinator.com/item?id=37272009) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-08-26, 11:26:05](https://news.ycombinator.com/item?id=37271776) - [The Albanian town that TikTok emptied](https://www.codastory.com/authoritarian-tech/albania-tiktok-migration-uk/)
 * [2023-08-26, 11:23:56](https://news.ycombinator.com/item?id=37271764) - [The WordPress 100 Year Plan](https://wordpress.com/100-year/)
