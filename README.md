@@ -1,13 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-26, 13:17:34](https://news.ycombinator.com/item?id=37272611) - [fish-shell: the user-friendly command-line shell](https://github.com/fish-shell/fish-shell)
+* [2023-08-26, 13:11:24](https://news.ycombinator.com/item?id=37272562) - [Following Elon Musk’s lead, Big Tech is surrendering to disinformation](https://www.washingtonpost.com/technology/2023/08/25/political-conspiracies-facebook-youtube-elon-musk/)
 * [2023-08-26, 12:44:48](https://news.ycombinator.com/item?id=37272350) - [‘Flat’ company structures rarely work, but some firms aim for middle ground](https://www.nytimes.com/2023/07/05/business/flat-structure-companies.html)
 * [2023-08-26, 12:44:00](https://news.ycombinator.com/item?id=37272345) - [Ask HN: What do non-technical founders need to know about software dev?](https://news.ycombinator.com/item?id=37272345)
 * [2023-08-26, 12:37:18](https://news.ycombinator.com/item?id=37272298) - [This venture-backed startup has quietly bought more than 80 mom-and-pop shops](https://techcrunch.com/2023/08/24/this-venture-backed-startup-has-quietly-bought-more-than-80-mom-and-pop-shops/)
 * [2023-08-26, 12:28:18](https://news.ycombinator.com/item?id=37272217) - [How to Search on Encrypted Data (2013)](https://esl.cs.brown.edu/blog/how-to-search-on-encrypted-data-introduction-part-1/)
-* [2023-08-26, 12:28:08](https://news.ycombinator.com/item?id=37272214) - [Wirecutter CEO Sells Top Reviews for Kickbacks a Pay to Play Strategy Exposed](https://www.xdesk.com/wirecutter-standing-desk-review-pay-to-play-model)
 * [2023-08-26, 12:01:00](https://news.ycombinator.com/item?id=37272009) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-* [2023-08-26, 11:26:05](https://news.ycombinator.com/item?id=37271776) - [The Albanian town that TikTok emptied](https://www.codastory.com/authoritarian-tech/albania-tiktok-migration-uk/)
 * [2023-08-26, 11:01:26](https://news.ycombinator.com/item?id=37271653) - [The EU’s Digital Services Act is now in effect](https://www.theverge.com/23845672/eu-digital-services-act-explained)
 * [2023-08-26, 10:54:39](https://news.ycombinator.com/item?id=37271611) - [Clean mount lists in Linux](https://dbohdan.com/clean-mount-lists)
 * [2023-08-26, 10:01:54](https://news.ycombinator.com/item?id=37271269) - [NES Emulator in Common Lisp](https://github.com/samanthadoran/potential-disco)
@@ -28,6 +27,7 @@
 * [2023-08-24, 09:05:58](https://news.ycombinator.com/item?id=37246610) - [Universal Design Guide Playbook](https://universaldesignguide.com/)
 * [2023-08-24, 09:03:24](https://news.ycombinator.com/item?id=37246593) - [Luckily I got hit by a car](https://stevenwaterman.uk/good-luck-bad-luck/)
 * [2023-08-24, 08:57:01](https://news.ycombinator.com/item?id=37246545) - [Prof. Robert Boice's Rules of the Road for Writers (2012)](https://home.uchicago.edu/~rfulton/Tips.htm)
+* [2023-08-24, 06:47:08](https://news.ycombinator.com/item?id=37245793) - [Eighty Shades of Option Key](https://getenet.notion.site/Eighty-Shades-of-Option-Key-3c6e58feb5c848ee9d4c027f0b9d52e0)
 * [2023-08-24, 02:30:06](https://news.ycombinator.com/item?id=37244382) - [The Tug Bibliography Archive](https://ftp.math.utah.edu/pub/tex/bib/)
 * [2023-08-24, 01:47:44](https://news.ycombinator.com/item?id=37244146) - [Science of Crowd Control [video]](https://www.youtube.com/watch?v=C_B09FZwSbA)
 
