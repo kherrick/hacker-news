@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-26, 13:17:34](https://news.ycombinator.com/item?id=37272611) - [fish-shell: the user-friendly command-line shell](https://github.com/fish-shell/fish-shell)
-* [2023-08-26, 13:11:24](https://news.ycombinator.com/item?id=37272562) - [Following Elon Musk’s lead, Big Tech is surrendering to disinformation](https://www.washingtonpost.com/technology/2023/08/25/political-conspiracies-facebook-youtube-elon-musk/)
 * [2023-08-26, 12:44:48](https://news.ycombinator.com/item?id=37272350) - [‘Flat’ company structures rarely work, but some firms aim for middle ground](https://www.nytimes.com/2023/07/05/business/flat-structure-companies.html)
 * [2023-08-26, 12:44:00](https://news.ycombinator.com/item?id=37272345) - [Ask HN: What do non-technical founders need to know about software dev?](https://news.ycombinator.com/item?id=37272345)
 * [2023-08-26, 12:37:18](https://news.ycombinator.com/item?id=37272298) - [This venture-backed startup has quietly bought more than 80 mom-and-pop shops](https://techcrunch.com/2023/08/24/this-venture-backed-startup-has-quietly-bought-more-than-80-mom-and-pop-shops/)
@@ -18,6 +17,7 @@
 * [2023-08-25, 22:08:23](https://news.ycombinator.com/item?id=37267597) - [Beating GPT-4 on HumanEval with a fine-tuned CodeLlama-34B](https://www.phind.com/blog/code-llama-beats-gpt4)
 * [2023-08-25, 21:59:12](https://news.ycombinator.com/item?id=37267523) - [Casio Caleid XM-700 Mobile Navigator (1997)](https://blog.gingerbeardman.com/2023/08/25/casio-caleid-xm700-mobile-navigator-hardware/)
 * [2023-08-25, 20:58:11](https://news.ycombinator.com/item?id=37266957) - [Giving up the iPad-only travel dream](https://sixcolors.com/post/2023/08/why-i-gave-up-on-the-ipad-only-dream/)
+* [2023-08-25, 16:07:36](https://news.ycombinator.com/item?id=37263322) - [The EU's war on behavioral advertising](https://thisisunpacked.substack.com/p/the-eu-war-on-behavioral-advertising)
 * [2023-08-25, 15:51:43](https://news.ycombinator.com/item?id=37263121) - [Programming as Theory Building (1985) [pdf]](https://algoritmos-iii.github.io/assets/bibliografia/programming-as-theory-building.pdf)
 * [2023-08-25, 14:56:48](https://news.ycombinator.com/item?id=37262440) - [OpenTF announces fork of Terraform](https://opentf.org/announcement)
 * [2023-08-25, 11:13:52](https://news.ycombinator.com/item?id=37260374) - [Manuals Showcase](https://archive.org/details/manuals_showcase)
