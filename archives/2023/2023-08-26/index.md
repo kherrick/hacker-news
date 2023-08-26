@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-26](index.md)
 
 * [2023-08-26, 19:03:33](https://news.ycombinator.com/item?id=37275856) - [90% of “eco-friendly” paper straws contain traces of toxic forever chemicals](https://scienceswitch.com/2023/08/27/90-of-eco-friendly-paper-straws-contain-traces-of-toxic-forever-chemicals/)
+* [2023-08-26, 18:56:32](https://news.ycombinator.com/item?id=37275795) - [Longtime 'Price Is Right' Host Bob Barker Dies at 99](https://www.npr.org/2023/08/26/200752493/price-is-right-host-bob-barker-dead)
 * [2023-08-26, 18:44:05](https://news.ycombinator.com/item?id=37275676) - [Historic Algorithms Help Unlock Shortest-Path Problem Breakthrough](https://cacm.acm.org/news/275684-historic-algorithms-help-unlock-shortest-path-problem-breakthrough/fulltext)
 * [2023-08-26, 18:28:46](https://news.ycombinator.com/item?id=37275526) - [Modernizing Compiler Design for Carbon Toolchain [video]](https://www.youtube.com/watch?v=ZI198eFghJk)
 * [2023-08-26, 18:17:16](https://news.ycombinator.com/item?id=37275401) - [A video of the transformation of a single cell into a salamander](https://pmdvod.nationalgeographic.com/NG_Video/772/995/1442844739770_1550184269599_1442865731523_mp4_video_1024x576_1632000_primary_audio_eng_3.mp4)

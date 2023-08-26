@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-26, 19:03:33](https://news.ycombinator.com/item?id=37275856) - [90% of “eco-friendly” paper straws contain traces of toxic forever chemicals](https://scienceswitch.com/2023/08/27/90-of-eco-friendly-paper-straws-contain-traces-of-toxic-forever-chemicals/)
+* [2023-08-26, 18:56:32](https://news.ycombinator.com/item?id=37275795) - [Longtime 'Price Is Right' Host Bob Barker Dies at 99](https://www.npr.org/2023/08/26/200752493/price-is-right-host-bob-barker-dead)
 * [2023-08-26, 18:44:05](https://news.ycombinator.com/item?id=37275676) - [Historic Algorithms Help Unlock Shortest-Path Problem Breakthrough](https://cacm.acm.org/news/275684-historic-algorithms-help-unlock-shortest-path-problem-breakthrough/fulltext)
 * [2023-08-26, 18:28:46](https://news.ycombinator.com/item?id=37275526) - [Modernizing Compiler Design for Carbon Toolchain [video]](https://www.youtube.com/watch?v=ZI198eFghJk)
 * [2023-08-26, 18:17:16](https://news.ycombinator.com/item?id=37275401) - [A video of the transformation of a single cell into a salamander](https://pmdvod.nationalgeographic.com/NG_Video/772/995/1442844739770_1550184269599_1442865731523_mp4_video_1024x576_1632000_primary_audio_eng_3.mp4)
@@ -19,7 +20,6 @@
 * [2023-08-26, 11:12:30](https://news.ycombinator.com/item?id=37271715) - [Power Consumption of JPEG, WebP, and AVIF](https://fershad.com/writing/power-consumption-jpeg-webp-and-avif/)
 * [2023-08-26, 10:54:39](https://news.ycombinator.com/item?id=37271611) - [Clean mount lists in Linux](https://dbohdan.com/clean-mount-lists)
 * [2023-08-26, 10:01:54](https://news.ycombinator.com/item?id=37271269) - [NES Emulator in Common Lisp (2016)](https://github.com/samanthadoran/potential-disco)
-* [2023-08-26, 07:43:42](https://news.ycombinator.com/item?id=37270648) - [FaceFusion: Next generation face swapper and enhancer](https://github.com/facefusion/facefusion)
 * [2023-08-26, 05:53:32](https://news.ycombinator.com/item?id=37270252) - [Introducing Coalton to lispers without a background in ML-like languages](https://gist.github.com/digikar99/b76964faf17b3a86739c001dc1b14a39)
 * [2023-08-26, 00:50:30](https://news.ycombinator.com/item?id=37268852) - [Atop an Underwater Hot Spring, an ‘Octopus Garden’ Thrives](https://www.nytimes.com/2023/08/23/science/biology-octopus-garden.html)
 * [2023-08-25, 22:08:23](https://news.ycombinator.com/item?id=37267597) - [Beating GPT-4 on HumanEval with a fine-tuned CodeLlama-34B](https://www.phind.com/blog/code-llama-beats-gpt4)
