@@ -15,7 +15,6 @@
 * [2023-08-25, 21:59:12](https://news.ycombinator.com/item?id=37267523) - [Casio Caleid XM-700 Mobile Navigator (1997)](https://blog.gingerbeardman.com/2023/08/25/casio-caleid-xm700-mobile-navigator-hardware/)
 * [2023-08-25, 21:32:38](https://news.ycombinator.com/item?id=37267299) - [Fifth Circuit: Law enforcement doesn’t need warrants to search phones at border](https://www.techdirt.com/2023/08/25/fifth-circuit-says-law-enforcement-doesnt-need-warrants-to-search-phones-at-the-border/)
 * [2023-08-25, 20:58:11](https://news.ycombinator.com/item?id=37266957) - [Giving up the iPad-only travel dream](https://sixcolors.com/post/2023/08/why-i-gave-up-on-the-ipad-only-dream/)
-* [2023-08-25, 19:45:22](https://news.ycombinator.com/item?id=37266200) - [The Notetaking Cold War (2020)](https://every.to/superorganizers/the-notetaking-cold-war-591898)
 * [2023-08-25, 17:42:23](https://news.ycombinator.com/item?id=37264676) - [Web scraping for me, but not for thee](https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm)
 * [2023-08-25, 16:07:36](https://news.ycombinator.com/item?id=37263322) - [The EU's war on behavioral advertising](https://thisisunpacked.substack.com/p/the-eu-war-on-behavioral-advertising)
 * [2023-08-25, 15:51:43](https://news.ycombinator.com/item?id=37263121) - [Programming as Theory Building (1985) [pdf]](https://algoritmos-iii.github.io/assets/bibliografia/programming-as-theory-building.pdf)
@@ -29,6 +28,7 @@
 * [2023-08-24, 09:05:58](https://news.ycombinator.com/item?id=37246610) - [Universal Design Guide Playbook](https://universaldesignguide.com/)
 * [2023-08-24, 08:57:01](https://news.ycombinator.com/item?id=37246545) - [Prof. Robert Boice's Rules of the Road for Writers (2012)](https://home.uchicago.edu/~rfulton/Tips.htm)
 * [2023-08-24, 02:30:06](https://news.ycombinator.com/item?id=37244382) - [The Tug Bibliography Archive](https://ftp.math.utah.edu/pub/tex/bib/)
+* [2023-08-24, 01:47:44](https://news.ycombinator.com/item?id=37244146) - [Science of Crowd Control [video]](https://www.youtube.com/watch?v=C_B09FZwSbA)
 * [2023-08-24, 01:35:23](https://news.ycombinator.com/item?id=37244086) - [Who were the real Sin Eaters? (2021)](https://www.panmacmillan.com/blogs/fiction/megan-campisi-on-the-sin-eater)
 
 ## [Archives](archives/index.md)

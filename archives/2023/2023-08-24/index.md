@@ -117,6 +117,7 @@
 * [2023-08-24, 02:30:06](https://news.ycombinator.com/item?id=37244382) - [The Tug Bibliography Archive](https://ftp.math.utah.edu/pub/tex/bib/)
 * [2023-08-24, 02:14:02](https://news.ycombinator.com/item?id=37244292) - [So Long, Twitter and Reddit](https://andrewkelley.me/post/goodbye-twitter-reddit.html)
 * [2023-08-24, 01:48:59](https://news.ycombinator.com/item?id=37244154) - [YouTube may face billions in fines if FTC confirms child privacy violations](https://arstechnica.com/tech-policy/2023/08/youtube-may-face-billions-in-fines-if-ftc-confirms-child-privacy-violations/)
+* [2023-08-24, 01:47:44](https://news.ycombinator.com/item?id=37244146) - [Science of Crowd Control [video]](https://www.youtube.com/watch?v=C_B09FZwSbA)
 * [2023-08-24, 01:46:23](https://news.ycombinator.com/item?id=37244134) - [Russian Legacy 600 crashes near Tver](https://www.flightradar24.com/blog/russian-legacy-600-crashes-near-tver/)
 * [2023-08-24, 01:35:23](https://news.ycombinator.com/item?id=37244086) - [Who were the real Sin Eaters? (2021)](https://www.panmacmillan.com/blogs/fiction/megan-campisi-on-the-sin-eater)
 * [2023-08-24, 01:21:02](https://news.ycombinator.com/item?id=37244012) - [Bun v0.8.0](https://bun.sh/blog/bun-v0.8.0)
