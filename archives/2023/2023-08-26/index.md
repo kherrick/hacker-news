@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-26](index.md)
 
+* [2023-08-26, 17:27:28](https://news.ycombinator.com/item?id=37274871) - [Slack’s Migration to a Cellular Architecture](https://slack.engineering/slacks-migration-to-a-cellular-architecture/)
 * [2023-08-26, 17:18:53](https://news.ycombinator.com/item?id=37274774) - [California deploys AI-powered wildfire detection systems](https://arstechnica.com/information-technology/2023/08/firefighters-use-ai-to-spot-wildfires-in-california/)
 * [2023-08-26, 17:01:42](https://news.ycombinator.com/item?id=37274605) - [UK's infrastructure is too expensive: Railways, Trams, and Roads all cost more](https://www.samdumitriu.com/p/britains-infrastructure-is-too-expensive)
 * [2023-08-26, 16:58:56](https://news.ycombinator.com/item?id=37274572) - [Britain’s failed experiment in boosting low-wage sectors](https://www.economist.com/britain/2023/08/24/britains-failed-experiment-in-boosting-low-wage-sectors)
@@ -13,6 +14,7 @@
 * [2023-08-26, 16:06:42](https://news.ycombinator.com/item?id=37274052) - [n8n.io - A powerful workflow automation tool](https://n8n.io)
 * [2023-08-26, 15:49:36](https://news.ycombinator.com/item?id=37273907) - [Google Maps is a critical dependency for nutrition facts on mcdonalds.com](https://mastodon.social/@simevidas/110956696765338181)
 * [2023-08-26, 15:38:56](https://news.ycombinator.com/item?id=37273818) - [Exxon Knew about Climate Change Almost 40 Years Ago](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/)
+* [2023-08-26, 15:23:08](https://news.ycombinator.com/item?id=37273701) - [Rust Cryptography Should Be Written in Rust](https://briansmith.org/rust-cryptography-should-be-written-in-rust-01)
 * [2023-08-26, 15:10:05](https://news.ycombinator.com/item?id=37273577) - [“Autobesity”: More than 150 car models too big for regular UK parking spaces](https://www.theguardian.com/business/2023/aug/26/more-than-150-car-models-too-big-for-regular-uk-parking-spaces)
 * [2023-08-26, 15:01:51](https://news.ycombinator.com/item?id=37273507) - [Xinjiang Victims Database](https://www.shahit.biz/eng/)
 * [2023-08-26, 14:41:19](https://news.ycombinator.com/item?id=37273345) - [Apple Pay Later: What Are the Crazy Ones Up To?](https://www.softwareplatform.net/2023/04/16/apple-pay-later-what-are-the-crazy-ones-up-to/)
