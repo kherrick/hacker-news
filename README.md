@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-26, 05:33:27](https://news.ycombinator.com/item?id=37270190) - [Skiplagging: The travel hack hated by airlines is now the subject of a lawsuit](https://www.abc.net.au/news/2023-08-26/skiplagging-is-the-travel-hack-that-airlines-hate/102742604)
+* [2023-08-26, 05:28:21](https://news.ycombinator.com/item?id=37270171) - [Llama2.c L2E LLM – Multi OS Binary and Unikernel Release](https://github.com/trholding/llama2.c/releases/tag/L2E_v0.1)
 * [2023-08-26, 04:18:22](https://news.ycombinator.com/item?id=37269909) - [Companies That Union-Bust Must Now Automatically Recognize Union, NLRB Rules](https://www.vice.com/en/article/dy3xej/companies-that-union-bust-must-now-automatically-recognize-union-nlrb-rules)
 * [2023-08-26, 02:24:50](https://news.ycombinator.com/item?id=37269376) - [Interpretable Graph Neural Networks for Tabular Data](https://arxiv.org/abs/2308.08945)
 * [2023-08-26, 01:01:40](https://news.ycombinator.com/item?id=37268923) - [Generally Intelligent (YC S17) is hiring research scientists](https://news.ycombinator.com/item?id=37268923)
@@ -25,7 +26,6 @@
 * [2023-08-25, 13:43:11](https://news.ycombinator.com/item?id=37261640) - [Packaging software is something that takes work](https://utcc.utoronto.ca/~cks/space/blog/linux/PackagingTakesWork)
 * [2023-08-25, 11:13:52](https://news.ycombinator.com/item?id=37260374) - [Manuals Showcase](https://archive.org/details/manuals_showcase)
 * [2023-08-25, 07:11:43](https://news.ycombinator.com/item?id=37258974) - [I cycled to all the villages in alphabetical order](https://diziet.dreamwidth.org/16260.html)
-* [2023-08-25, 06:31:56](https://news.ycombinator.com/item?id=37258753) - [A scalar triple product identity](https://realtimecollisiondetection.net/blog/?p=69)
 * [2023-08-25, 00:31:42](https://news.ycombinator.com/item?id=37256346) - [Research group detects a quantum entanglement wave for the first time](https://www.aalto.fi/en/news/research-group-detects-a-quantum-entanglement-wave-for-the-first-time-using-real-space-measurements)
 * [2023-08-25, 00:11:15](https://news.ycombinator.com/item?id=37256195) - [Engineering Serendipity: Does Sharing Lead to Knowledge Production? [pdf]](https://www.hbs.edu/ris/Publication%20Files/20-058_39f454e9-bef0-4bed-bfa8-526e90601ade.pdf)
 * [2023-08-24, 08:57:01](https://news.ycombinator.com/item?id=37246545) - [Prof. Robert Boice's Rules of the Road for Writers](https://home.uchicago.edu/~rfulton/Tips.htm)
