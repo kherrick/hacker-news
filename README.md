@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-26, 18:44:05](https://news.ycombinator.com/item?id=37275676) - [Historic Algorithms Help Unlock Shortest-Path Problem Breakthrough](https://cacm.acm.org/news/275684-historic-algorithms-help-unlock-shortest-path-problem-breakthrough/fulltext)
 * [2023-08-26, 18:17:16](https://news.ycombinator.com/item?id=37275401) - [A video of the transformation of a single cell into a salamander](https://pmdvod.nationalgeographic.com/NG_Video/772/995/1442844739770_1550184269599_1442865731523_mp4_video_1024x576_1632000_primary_audio_eng_3.mp4)
 * [2023-08-26, 17:48:57](https://news.ycombinator.com/item?id=37275085) - [Ford Confronts Strange, Ear-Piercing Static in F-150 Trucks](https://www.wsj.com/business/autos/ford-confronts-strange-ear-piercing-static-in-f-150-trucks-7551ba24)
 * [2023-08-26, 17:27:28](https://news.ycombinator.com/item?id=37274871) - [Slack’s Migration to a Cellular Architecture](https://slack.engineering/slacks-migration-to-a-cellular-architecture/)
@@ -22,7 +23,6 @@
 * [2023-08-26, 00:50:30](https://news.ycombinator.com/item?id=37268852) - [Atop an Underwater Hot Spring, an ‘Octopus Garden’ Thrives](https://www.nytimes.com/2023/08/23/science/biology-octopus-garden.html)
 * [2023-08-26, 00:13:27](https://news.ycombinator.com/item?id=37268610) - [Deep Neural Nets: 33 years ago and 33 years from now (2022)](http://karpathy.github.io/2022/03/14/lecun1989/)
 * [2023-08-25, 22:08:23](https://news.ycombinator.com/item?id=37267597) - [Beating GPT-4 on HumanEval with a fine-tuned CodeLlama-34B](https://www.phind.com/blog/code-llama-beats-gpt4)
-* [2023-08-25, 20:58:11](https://news.ycombinator.com/item?id=37266957) - [Giving up the iPad-only travel dream](https://sixcolors.com/post/2023/08/why-i-gave-up-on-the-ipad-only-dream/)
 * [2023-08-25, 15:51:43](https://news.ycombinator.com/item?id=37263121) - [Programming as Theory Building (1985) [pdf]](https://algoritmos-iii.github.io/assets/bibliografia/programming-as-theory-building.pdf)
 * [2023-08-25, 14:56:48](https://news.ycombinator.com/item?id=37262440) - [OpenTF announces fork of Terraform](https://opentf.org/announcement)
 * [2023-08-24, 13:27:39](https://news.ycombinator.com/item?id=37248505) - [East of the Sun and West of the Moon: The Art of Kay Nielsen (2015)](https://www.theparisreview.org/blog/2015/12/03/east-of-the-sun-and-west-of-the-moon/)
