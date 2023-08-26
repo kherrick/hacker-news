@@ -6,6 +6,7 @@
 
 * [2023-08-26, 18:44:05](https://news.ycombinator.com/item?id=37275676) - [Historic Algorithms Help Unlock Shortest-Path Problem Breakthrough](https://cacm.acm.org/news/275684-historic-algorithms-help-unlock-shortest-path-problem-breakthrough/fulltext)
 * [2023-08-26, 18:17:16](https://news.ycombinator.com/item?id=37275401) - [A video of the transformation of a single cell into a salamander](https://pmdvod.nationalgeographic.com/NG_Video/772/995/1442844739770_1550184269599_1442865731523_mp4_video_1024x576_1632000_primary_audio_eng_3.mp4)
+* [2023-08-26, 18:10:19](https://news.ycombinator.com/item?id=37275315) - [Datapen.io – A Curation of Free Data Science Resources](https://www.datapen.io/)
 * [2023-08-26, 17:48:57](https://news.ycombinator.com/item?id=37275085) - [Ford Confronts Strange, Ear-Piercing Static in F-150 Trucks](https://www.wsj.com/business/autos/ford-confronts-strange-ear-piercing-static-in-f-150-trucks-7551ba24)
 * [2023-08-26, 17:27:28](https://news.ycombinator.com/item?id=37274871) - [Slack’s Migration to a Cellular Architecture](https://slack.engineering/slacks-migration-to-a-cellular-architecture/)
 * [2023-08-26, 17:18:53](https://news.ycombinator.com/item?id=37274774) - [California deploys AI-powered wildfire detection systems](https://arstechnica.com/information-technology/2023/08/firefighters-use-ai-to-spot-wildfires-in-california/)
