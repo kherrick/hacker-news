@@ -88,6 +88,7 @@
 * [2023-08-24, 11:40:13](https://news.ycombinator.com/item?id=37247678) - [The GRUB MBR (2008)](https://thestarman.pcministry.com/asm/mbr/GRUB.htm)
 * [2023-08-24, 11:32:49](https://news.ycombinator.com/item?id=37247633) - [Cyberpunk in the Nineties](https://www.streettech.com/bcp/BCPtext/Manifestos/CPInThe90s.html)
 * [2023-08-24, 11:20:45](https://news.ycombinator.com/item?id=37247548) - [ELI5: Why are 11 and 12 called eleven and twelve and not oneteen and twoteen?](https://old.reddit.com/r/explainlikeimfive/comments/15zuitf/eli5_why_are_11_and_12_called_eleven_ant_twelve/)
+* [2023-08-24, 11:08:23](https://news.ycombinator.com/item?id=37247451) - [How was the size of Earth first measured?](https://stardate.org/astro-guide/faqs/how-was-size-earth-first-measured)
 * [2023-08-24, 11:01:07](https://news.ycombinator.com/item?id=37247405) - [Japan’s 72 Microseasons (2015)](https://www.nippon.com/en/features/h00124/)
 * [2023-08-24, 10:59:20](https://news.ycombinator.com/item?id=37247394) - [Jacobin: Minimal JVM written in Go and capable of running Java 17 classes](https://jacobin.org/)
 * [2023-08-24, 10:41:47](https://news.ycombinator.com/item?id=37247275) - [Show HN: I built this Postgres logger for you guys to check out](https://rocketgraph.io/logger-demo)

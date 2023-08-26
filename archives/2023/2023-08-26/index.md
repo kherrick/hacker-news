@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-26](index.md)
 
 * [2023-08-26, 17:18:53](https://news.ycombinator.com/item?id=37274774) - [California deploys AI-powered wildfire detection systems](https://arstechnica.com/information-technology/2023/08/firefighters-use-ai-to-spot-wildfires-in-california/)
+* [2023-08-26, 17:01:42](https://news.ycombinator.com/item?id=37274605) - [UK's infrastructure is too expensive: Railways, Trams, and Roads all cost more](https://www.samdumitriu.com/p/britains-infrastructure-is-too-expensive)
 * [2023-08-26, 16:58:56](https://news.ycombinator.com/item?id=37274572) - [Britain’s failed experiment in boosting low-wage sectors](https://www.economist.com/britain/2023/08/24/britains-failed-experiment-in-boosting-low-wage-sectors)
 * [2023-08-26, 16:41:32](https://news.ycombinator.com/item?id=37274404) - [For many home-schoolers, parents are no longer doing the teaching](https://www.washingtonpost.com/education/interactive/2023/homeschooling-microschools-pods-esa-vouchers/)
 * [2023-08-26, 16:36:43](https://news.ycombinator.com/item?id=37274357) - [Heineken sells its Russia operations for 1 euro](https://www.cbsnews.com/news/heineken-sells-russian-business-one-euro-ukraine-war/)
