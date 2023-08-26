@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-26, 17:18:53](https://news.ycombinator.com/item?id=37274774) - [California deploys AI-powered wildfire detection systems](https://arstechnica.com/information-technology/2023/08/firefighters-use-ai-to-spot-wildfires-in-california/)
+* [2023-08-26, 16:58:56](https://news.ycombinator.com/item?id=37274572) - [Britain’s failed experiment in boosting low-wage sectors](https://www.economist.com/britain/2023/08/24/britains-failed-experiment-in-boosting-low-wage-sectors)
 * [2023-08-26, 16:41:32](https://news.ycombinator.com/item?id=37274404) - [For many home-schoolers, parents are no longer doing the teaching](https://www.washingtonpost.com/education/interactive/2023/homeschooling-microschools-pods-esa-vouchers/)
 * [2023-08-26, 16:36:43](https://news.ycombinator.com/item?id=37274357) - [Heineken sells its Russia operations for 1 euro](https://www.cbsnews.com/news/heineken-sells-russian-business-one-euro-ukraine-war/)
 * [2023-08-26, 16:06:42](https://news.ycombinator.com/item?id=37274052) - [n8n.io - A powerful workflow automation tool](https://n8n.io)
@@ -19,9 +21,7 @@
 * [2023-08-26, 10:01:54](https://news.ycombinator.com/item?id=37271269) - [NES Emulator in Common Lisp (2016)](https://github.com/samanthadoran/potential-disco)
 * [2023-08-26, 07:43:42](https://news.ycombinator.com/item?id=37270648) - [FaceFusion: Next generation face swapper and enhancer](https://github.com/facefusion/facefusion)
 * [2023-08-26, 02:24:50](https://news.ycombinator.com/item?id=37269376) - [Interpretable graph neural networks for tabular data](https://arxiv.org/abs/2308.08945)
-* [2023-08-26, 00:13:27](https://news.ycombinator.com/item?id=37268610) - [Deep Neural Nets: 33 years ago and 33 years from now (2022)](http://karpathy.github.io/2022/03/14/lecun1989/)
 * [2023-08-25, 22:08:23](https://news.ycombinator.com/item?id=37267597) - [Beating GPT-4 on HumanEval with a fine-tuned CodeLlama-34B](https://www.phind.com/blog/code-llama-beats-gpt4)
-* [2023-08-25, 20:58:11](https://news.ycombinator.com/item?id=37266957) - [Giving up the iPad-only travel dream](https://sixcolors.com/post/2023/08/why-i-gave-up-on-the-ipad-only-dream/)
 * [2023-08-25, 15:51:43](https://news.ycombinator.com/item?id=37263121) - [Programming as Theory Building (1985) [pdf]](https://algoritmos-iii.github.io/assets/bibliografia/programming-as-theory-building.pdf)
 * [2023-08-25, 14:56:48](https://news.ycombinator.com/item?id=37262440) - [OpenTF announces fork of Terraform](https://opentf.org/announcement)
 * [2023-08-24, 14:41:14](https://news.ycombinator.com/item?id=37249289) - [A study of research on the psychology of expertise in weather forecasting](https://mitpress.mit.edu/9780262548816/minding-the-weather/)
