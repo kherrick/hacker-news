@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-26](index.md)
 
 * [2023-08-26, 16:24:37](https://news.ycombinator.com/item?id=37274220) - [Silicon Valley elites revealed as buyers of $800M of land to build utopian city](https://www.theguardian.com/us-news/2023/aug/26/silicon-valley-elites-buy-800m-land-new-city)
+* [2023-08-26, 16:06:42](https://news.ycombinator.com/item?id=37274052) - [n8n.io - A powerful workflow automation tool](https://n8n.io)
 * [2023-08-26, 15:49:36](https://news.ycombinator.com/item?id=37273907) - [Google Maps is a critical dependency for nutrition facts on mcdonalds.com](https://mastodon.social/@simevidas/110956696765338181)
 * [2023-08-26, 15:38:56](https://news.ycombinator.com/item?id=37273818) - [Exxon Knew about Climate Change Almost 40 Years Ago](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/)
 * [2023-08-26, 15:10:05](https://news.ycombinator.com/item?id=37273577) - [“Autobesity”: More than 150 car models too big for regular UK parking spaces](https://www.theguardian.com/business/2023/aug/26/more-than-150-car-models-too-big-for-regular-uk-parking-spaces)
