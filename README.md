@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-26, 21:01:52](https://news.ycombinator.com/item?id=37276869) - [New York Is Full. And it’s the housing market’s fault](https://www.theatlantic.com/ideas/archive/2023/08/new-york-housing-asylum-seekers-mayor-adams/675091/)
 * [2023-08-26, 21:00:09](https://news.ycombinator.com/item?id=37276864) - [Freshpaint (YC S19) Is Hiring Engineers to Build a HIPAA Compliant Data Platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-08-26, 20:20:07](https://news.ycombinator.com/item?id=37276502) - [Thoughts about what worked in math circles](https://buttondown.email/j2kun/archive/thoughts-about-what-worked-in-math-circles/)
 * [2023-08-26, 20:18:24](https://news.ycombinator.com/item?id=37276485) - [Attention didn’t collapse. It was stolen (2022)](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media)
 * [2023-08-26, 20:11:42](https://news.ycombinator.com/item?id=37276424) - [Gojekyll: A fast, partially compatible Go clone of Jekyll](https://github.com/osteele/gojekyll)
 * [2023-08-26, 19:57:50](https://news.ycombinator.com/item?id=37276282) - [Show HN: Dumbar, a not so smart menubar app](https://jerrysv.xyz/blog/dumbar.html)
 * [2023-08-26, 19:27:26](https://news.ycombinator.com/item?id=37276026) - [Show HN: TRS-GPT - ChatGPT client/server for the TRS-80](https://druid77.github.io/trs-gpt/)
+* [2023-08-26, 18:55:43](https://news.ycombinator.com/item?id=37275785) - [The challenge of designing nuclear waste warning markers to last 10k years](https://nightingaledvs.com/design-warning-for-nuclear-waste/)
 * [2023-08-26, 18:44:05](https://news.ycombinator.com/item?id=37275676) - [Historic algorithms help unlock shortest-path problem breakthrough](https://cacm.acm.org/news/275684-historic-algorithms-help-unlock-shortest-path-problem-breakthrough/fulltext)
 * [2023-08-26, 18:28:46](https://news.ycombinator.com/item?id=37275526) - [Modernizing compiler design for Carbon's toolchain [video]](https://www.youtube.com/watch?v=ZI198eFghJk)
 * [2023-08-26, 18:17:16](https://news.ycombinator.com/item?id=37275401) - [A video of the transformation of a single cell into a salamander](https://pmdvod.nationalgeographic.com/NG_Video/772/995/1442844739770_1550184269599_1442865731523_mp4_video_1024x576_1632000_primary_audio_eng_3.mp4)
