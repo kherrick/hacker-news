@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-26](index.md)
 
+* [2023-08-26, 23:36:32](https://news.ycombinator.com/item?id=37277907) - [Linux on a Commodore 64!](https://github.com/onnokort/semu-c64)
 * [2023-08-26, 22:36:33](https://news.ycombinator.com/item?id=37277522) - [My husband just retired. I’m scared to death of running out of money](https://www.washingtonpost.com/business/2023/08/25/fear-running-out-of-money-retirement/)
 * [2023-08-26, 22:01:38](https://news.ycombinator.com/item?id=37277311) - [A clock where the time is in a song title](https://pudding.cool/projects/clocks/)
 * [2023-08-26, 21:42:50](https://news.ycombinator.com/item?id=37277183) - [East German Balloon Escape](https://en.wikipedia.org/wiki/East_German_balloon_escape)
