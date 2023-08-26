@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-26, 21:36:42](https://news.ycombinator.com/item?id=37277134) - [The Rival to the Panama Canal That Was Never Built](https://www.bbc.com/future/article/20230825-the-rival-to-the-panama-canal-that-was-never-built)
 * [2023-08-26, 21:00:09](https://news.ycombinator.com/item?id=37276864) - [Freshpaint (YC S19) Is Hiring Engineers to Build a HIPAA Compliant Data Platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-08-26, 20:18:24](https://news.ycombinator.com/item?id=37276485) - [Attention didn’t collapse. It was stolen (2022)](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media)
 * [2023-08-26, 20:11:42](https://news.ycombinator.com/item?id=37276424) - [Gojekyll – 20x faster Go port of jekyll](https://github.com/osteele/gojekyll)
@@ -18,7 +19,6 @@
 * [2023-08-26, 11:12:30](https://news.ycombinator.com/item?id=37271715) - [Power Consumption of JPEG, WebP, and AVIF](https://fershad.com/writing/power-consumption-jpeg-webp-and-avif/)
 * [2023-08-26, 10:54:39](https://news.ycombinator.com/item?id=37271611) - [Clean mount lists in Linux](https://dbohdan.com/clean-mount-lists)
 * [2023-08-26, 10:01:54](https://news.ycombinator.com/item?id=37271269) - [NES Emulator in Common Lisp (2016)](https://github.com/samanthadoran/potential-disco)
-* [2023-08-26, 07:43:42](https://news.ycombinator.com/item?id=37270648) - [FaceFusion: Next generation face swapper and enhancer](https://github.com/facefusion/facefusion)
 * [2023-08-26, 05:53:32](https://news.ycombinator.com/item?id=37270252) - [Introducing Coalton to lispers without a background in ML-like languages](https://gist.github.com/digikar99/b76964faf17b3a86739c001dc1b14a39)
 * [2023-08-26, 00:50:30](https://news.ycombinator.com/item?id=37268852) - [Atop an Underwater Hot Spring, an ‘Octopus Garden’ Thrives](https://www.nytimes.com/2023/08/23/science/biology-octopus-garden.html)
 * [2023-08-25, 22:08:23](https://news.ycombinator.com/item?id=37267597) - [Beating GPT-4 on HumanEval with a fine-tuned CodeLlama-34B](https://www.phind.com/blog/code-llama-beats-gpt4)
