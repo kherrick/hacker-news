@@ -1,12 +1,62 @@
 [
   [
     [
+      "2023-08-26, 01:01:40",
+      "https://news.ycombinator.com/item?id=37268923"
+    ],
+    [
+      "Generally Intelligent (YC S17) Is Hiring Research Scientists",
+      "https://news.ycombinator.com/item?id=37268923"
+    ]
+  ],
+  [
+    [
+      "2023-08-26, 00:14:14",
+      "https://news.ycombinator.com/item?id=37268616"
+    ],
+    [
+      "Sidewalk Garden: a 800 square feet garden in San Francisco's Mission District",
+      "https://zachklein.com/Sidewalk+Garden"
+    ]
+  ],
+  [
+    [
+      "2023-08-26, 00:13:27",
+      "https://news.ycombinator.com/item?id=37268610"
+    ],
+    [
+      "Deep Neural Nets: 33 years ago and 33 years from now",
+      "http://karpathy.github.io/2022/03/14/lecun1989/"
+    ]
+  ],
+  [
+    [
+      "2023-08-25, 23:33:55",
+      "https://news.ycombinator.com/item?id=37268360"
+    ],
+    [
+      "Why fewer university students are studying Mandarin",
+      "https://www.economist.com/china/2023/08/24/why-fewer-university-students-are-studying-mandarin"
+    ]
+  ],
+  [
+    [
       "2023-08-25, 23:32:06",
       "https://news.ycombinator.com/item?id=37268348"
     ],
     [
       "Why do cats love tuna so much? Scientists may finally know",
       "https://www.science.org/content/article/why-do-cats-love-tuna-so-much-scientists-may-finally-know"
+    ]
+  ],
+  [
+    [
+      "2023-08-25, 23:22:44",
+      "https://news.ycombinator.com/item?id=37268268"
+    ],
+    [
+      "How to Read an RFC (2018)",
+      "https://www.ietf.org/blog/how-read-rfc/"
     ]
   ],
   [
@@ -61,16 +111,6 @@
   ],
   [
     [
-      "2023-08-25, 21:10:54",
-      "https://news.ycombinator.com/item?id=37267086"
-    ],
-    [
-      "NASA Shares First Images from US Pollution-Monitoring Instrument",
-      "https://www.nasa.gov/press-release/nasa-shares-first-images-from-us-pollution-monitoring-instrument/"
-    ]
-  ],
-  [
-    [
       "2023-08-25, 20:58:11",
       "https://news.ycombinator.com/item?id=37266957"
     ],
@@ -117,26 +157,6 @@
     [
       "Web scraping for me, but not for thee",
       "https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm"
-    ]
-  ],
-  [
-    [
-      "2023-08-25, 17:31:02",
-      "https://news.ycombinator.com/item?id=37264538"
-    ],
-    [
-      "Poly (YC S22) is hiring a founding platform engineer",
-      "https://www.ycombinator.com/companies/poly/jobs/L4ObRgn-founding-platform-full-stack-front-end-developer-generative-ai-enabled-design-asset-marketplace-founding-team-at-a-yc-startup-backed-by-bloomberg-felicis-figma"
-    ]
-  ],
-  [
-    [
-      "2023-08-25, 17:01:32",
-      "https://news.ycombinator.com/item?id=37264149"
-    ],
-    [
-      "Why does all() return True if the iterable is empty?",
-      "https://blog.carlmjohnson.net/post/2020/python-square-of-opposition/"
     ]
   ],
   [
@@ -221,26 +241,6 @@
   ],
   [
     [
-      "2023-08-25, 10:44:12",
-      "https://news.ycombinator.com/item?id=37260141"
-    ],
-    [
-      "Stable Linux mainline builds for Ubuntu",
-      "https://stgraber.org/2023/08/24/stable-linux-mainline-builds/"
-    ]
-  ],
-  [
-    [
-      "2023-08-25, 09:34:28",
-      "https://news.ycombinator.com/item?id=37259753"
-    ],
-    [
-      "Finetuning of Falcon-7B LLM Using QLoRA on Mental Health Conversational Dataset",
-      "https://github.com/iamarunbrahma/finetuned-qlora-falcon7b-medical"
-    ]
-  ],
-  [
-    [
       "2023-08-25, 07:11:43",
       "https://news.ycombinator.com/item?id=37258974"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2023-08-25, 00:30:25",
+      "https://news.ycombinator.com/item?id=37256332"
+    ],
+    [
+      "The Wires That Bind: Electrification and Community Renewal",
+      "https://www.quarterlyessay.com.au/essay/2023/03/the-wires-that-bind/extract"
+    ]
+  ],
+  [
+    [
       "2023-08-25, 00:11:15",
       "https://news.ycombinator.com/item?id=37256195"
     ],
@@ -287,16 +297,6 @@
     [
       "Breaking copy protection on a 1983 game for Apple 2",
       "https://ia804502.us.archive.org/30/items/SpareChange4amCrack/Spare%20Change%20%284am%20%26%20san%20inc%20crack%29.txt"
-    ]
-  ],
-  [
-    [
-      "2023-08-24, 12:29:47",
-      "https://news.ycombinator.com/item?id=37248013"
-    ],
-    [
-      "Visualizing Neural Networks",
-      "https://photonlines.substack.com/p/grokking-neural-networks"
     ]
   ]
 ]
