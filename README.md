@@ -2,10 +2,11 @@
 
 * [2023-08-26, 16:24:37](https://news.ycombinator.com/item?id=37274220) - [Silicon Valley elites revealed as buyers of $800M of land to build utopian city](https://www.theguardian.com/us-news/2023/aug/26/silicon-valley-elites-buy-800m-land-new-city)
 * [2023-08-26, 15:49:36](https://news.ycombinator.com/item?id=37273907) - [Google Maps is a critical dependency for nutrition facts on mcdonalds.com](https://mastodon.social/@simevidas/110956696765338181)
+* [2023-08-26, 15:10:05](https://news.ycombinator.com/item?id=37273577) - [“Autobesity”: More than 150 car models too big for regular UK parking spaces](https://www.theguardian.com/business/2023/aug/26/more-than-150-car-models-too-big-for-regular-uk-parking-spaces)
 * [2023-08-26, 14:41:19](https://news.ycombinator.com/item?id=37273345) - [Apple Pay Later: What Are the Crazy Ones Up To?](https://www.softwareplatform.net/2023/04/16/apple-pay-later-what-are-the-crazy-ones-up-to/)
 * [2023-08-26, 14:39:39](https://news.ycombinator.com/item?id=37273333) - [High-altitude heist – 500 dollars stolen](https://www.bbc.com/news/world-europe-66628465)
+* [2023-08-26, 14:30:14](https://news.ycombinator.com/item?id=37273257) - [Ask HN: Publicly Sharing Revenue?](https://news.ycombinator.com/item?id=37273257)
 * [2023-08-26, 13:52:38](https://news.ycombinator.com/item?id=37272929) - [Let Maintainers Be Maintainers](https://graydon2.dreamwidth.org/306832.html)
-* [2023-08-26, 13:39:28](https://news.ycombinator.com/item?id=37272801) - [Armed with traffic cones, protesters are immobilizing driverless cars](https://www.npr.org/2023/08/26/1195695051/driverless-cars-san-francisco-waymo-cruise)
 * [2023-08-26, 13:28:57](https://news.ycombinator.com/item?id=37272716) - [Newly discovered black hole 'speed limit' hints at new laws of physics](https://www.livescience.com/physics-mathematics/newly-discovered-black-hole-speed-limit-hints-at-new-laws-of-physics)
 * [2023-08-26, 13:21:16](https://news.ycombinator.com/item?id=37272652) - [E-ink is so Retropunk](https://rmkit.dev/eink-is-so-retropunk/)
 * [2023-08-26, 13:17:34](https://news.ycombinator.com/item?id=37272611) - [Fish – A friendly interactive shell](https://github.com/fish-shell/fish-shell)
@@ -28,7 +29,6 @@
 * [2023-08-24, 11:54:02](https://news.ycombinator.com/item?id=37247763) - [STM32MP2: ST’s first Linux capable 64-bit MPU with NPU, GPU and TSN](https://blog.st.com/stm32mp2/)
 * [2023-08-24, 09:05:58](https://news.ycombinator.com/item?id=37246610) - [Universal Design Guide Playbook](https://universaldesignguide.com/)
 * [2023-08-24, 08:58:43](https://news.ycombinator.com/item?id=37246563) - [Seqlock-Based Atomic Memory Snapshots](https://puzpuzpuz.dev/seqlock-based-atomic-memory-snapshots)
-* [2023-08-24, 06:47:08](https://news.ycombinator.com/item?id=37245793) - [Eighty Shades of Option Key](https://getenet.notion.site/Eighty-Shades-of-Option-Key-3c6e58feb5c848ee9d4c027f0b9d52e0)
 * [2023-08-24, 01:47:44](https://news.ycombinator.com/item?id=37244146) - [Science of Crowd Control [video]](https://www.youtube.com/watch?v=C_B09FZwSbA)
 
 ## [Archives](archives/index.md)
