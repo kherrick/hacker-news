@@ -13,6 +13,7 @@
 * [2023-08-25, 21:59:12](https://news.ycombinator.com/item?id=37267523) - [Casio Caleid XM-700 Mobile Navigator (1997)](https://blog.gingerbeardman.com/2023/08/25/casio-caleid-xm700-mobile-navigator-hardware/)
 * [2023-08-25, 21:32:38](https://news.ycombinator.com/item?id=37267299) - [Fifth Circuit: Law enforcement doesn’t need warrants to search phones at border](https://www.techdirt.com/2023/08/25/fifth-circuit-says-law-enforcement-doesnt-need-warrants-to-search-phones-at-the-border/)
 * [2023-08-25, 20:58:11](https://news.ycombinator.com/item?id=37266957) - [Giving up the iPad-only travel dream](https://sixcolors.com/post/2023/08/why-i-gave-up-on-the-ipad-only-dream/)
+* [2023-08-25, 19:45:22](https://news.ycombinator.com/item?id=37266200) - [The Notetaking Cold War (2020)](https://every.to/superorganizers/the-notetaking-cold-war-591898)
 * [2023-08-25, 18:48:10](https://news.ycombinator.com/item?id=37265664) - [Slime Molds [video]](https://www.youtube.com/watch?v=gpt9cJrEZ_Y)
 * [2023-08-25, 17:42:23](https://news.ycombinator.com/item?id=37264676) - [Web scraping for me, but not for thee](https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm)
 * [2023-08-25, 16:34:49](https://news.ycombinator.com/item?id=37263708) - [Email Authentication: A Developer's Guide](https://resend.com/blog/email-authentication-a-developers-guide)
@@ -28,7 +29,6 @@
 * [2023-08-25, 06:31:56](https://news.ycombinator.com/item?id=37258753) - [A scalar triple product identity](https://realtimecollisiondetection.net/blog/?p=69)
 * [2023-08-25, 00:31:42](https://news.ycombinator.com/item?id=37256346) - [Research group detects a quantum entanglement wave for the first time](https://www.aalto.fi/en/news/research-group-detects-a-quantum-entanglement-wave-for-the-first-time-using-real-space-measurements)
 * [2023-08-25, 00:11:15](https://news.ycombinator.com/item?id=37256195) - [Engineering Serendipity: Does Sharing Lead to Knowledge Production? [pdf]](https://www.hbs.edu/ris/Publication%20Files/20-058_39f454e9-bef0-4bed-bfa8-526e90601ade.pdf)
-* [2023-08-24, 21:01:59](https://news.ycombinator.com/item?id=37254507) - [Breaking copy protection on a 1983 game for Apple 2](https://ia804502.us.archive.org/30/items/SpareChange4amCrack/Spare%20Change%20%284am%20%26%20san%20inc%20crack%29.txt)
 * [2023-08-24, 08:57:01](https://news.ycombinator.com/item?id=37246545) - [Prof. Robert Boice's Rules of the Road for Writers](https://home.uchicago.edu/~rfulton/Tips.htm)
 
 ## [Archives](archives/index.md)
