@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-26](index.md)
 
+* [2023-08-26, 20:18:24](https://news.ycombinator.com/item?id=37276485) - [Attention didn’t collapse. It was stolen (2022)](https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media)
+* [2023-08-26, 20:11:42](https://news.ycombinator.com/item?id=37276424) - [Gojekyll – 20x faster Go port of jekyll](https://github.com/osteele/gojekyll)
 * [2023-08-26, 19:03:33](https://news.ycombinator.com/item?id=37275856) - [90% of “eco-friendly” paper straws contain traces of toxic forever chemicals](https://scienceswitch.com/2023/08/27/90-of-eco-friendly-paper-straws-contain-traces-of-toxic-forever-chemicals/)
 * [2023-08-26, 18:56:32](https://news.ycombinator.com/item?id=37275795) - [Longtime 'Price Is Right' Host Bob Barker Dies at 99](https://www.npr.org/2023/08/26/200752493/price-is-right-host-bob-barker-dead)
 * [2023-08-26, 18:44:05](https://news.ycombinator.com/item?id=37275676) - [Historic Algorithms Help Unlock Shortest-Path Problem Breakthrough](https://cacm.acm.org/news/275684-historic-algorithms-help-unlock-shortest-path-problem-breakthrough/fulltext)
