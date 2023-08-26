@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-26, 19:03:33](https://news.ycombinator.com/item?id=37275856) - [90% of “eco-friendly” paper straws contain traces of toxic forever chemicals](https://scienceswitch.com/2023/08/27/90-of-eco-friendly-paper-straws-contain-traces-of-toxic-forever-chemicals/)
 * [2023-08-26, 18:44:05](https://news.ycombinator.com/item?id=37275676) - [Historic Algorithms Help Unlock Shortest-Path Problem Breakthrough](https://cacm.acm.org/news/275684-historic-algorithms-help-unlock-shortest-path-problem-breakthrough/fulltext)
 * [2023-08-26, 18:28:46](https://news.ycombinator.com/item?id=37275526) - [Modernizing Compiler Design for Carbon Toolchain [video]](https://www.youtube.com/watch?v=ZI198eFghJk)
 * [2023-08-26, 18:17:16](https://news.ycombinator.com/item?id=37275401) - [A video of the transformation of a single cell into a salamander](https://pmdvod.nationalgeographic.com/NG_Video/772/995/1442844739770_1550184269599_1442865731523_mp4_video_1024x576_1632000_primary_audio_eng_3.mp4)
@@ -10,7 +11,6 @@
 * [2023-08-26, 16:48:19](https://news.ycombinator.com/item?id=37274467) - [Yet Another VPS Benchmark – Cloudfanatic, DigitalOcean, Linode, Vultr [Aug 2023]](https://blog.aawadia.dev/2023/08/26/yabs-august-2023/)
 * [2023-08-26, 16:06:42](https://news.ycombinator.com/item?id=37274052) - [n8n.io - A powerful workflow automation tool](https://n8n.io)
 * [2023-08-26, 15:55:58](https://news.ycombinator.com/item?id=37273957) - [SwiftUI Is Convenient, but Slow](https://notes.alinpanaitiu.com/SwiftUI-is-convenient,-but-slow)
-* [2023-08-26, 15:23:08](https://news.ycombinator.com/item?id=37273701) - [Rust Cryptography Should Be Written in Rust](https://briansmith.org/rust-cryptography-should-be-written-in-rust-01)
 * [2023-08-26, 13:52:38](https://news.ycombinator.com/item?id=37272929) - [Let Maintainers Be Maintainers](https://graydon2.dreamwidth.org/306832.html)
 * [2023-08-26, 13:21:16](https://news.ycombinator.com/item?id=37272652) - [E-ink is so Retropunk](https://rmkit.dev/eink-is-so-retropunk/)
 * [2023-08-26, 12:37:18](https://news.ycombinator.com/item?id=37272298) - [This venture-backed startup has quietly bought more than 80 mom-and-pop shops](https://techcrunch.com/2023/08/24/this-venture-backed-startup-has-quietly-bought-more-than-80-mom-and-pop-shops/)
