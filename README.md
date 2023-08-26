@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-26, 07:41:28](https://news.ycombinator.com/item?id=37270634) - [Uncle Sam accuses SpaceX of not considering asylees and refugees for employment](https://www.theregister.com/2023/08/25/spacex_discrimination_lawsuit/)
 * [2023-08-26, 07:00:50](https://news.ycombinator.com/item?id=37270463) - [Gym Class VR (YC W22) is hiring a Unity animator and programmer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-animator-programmer-vr-unity)
 * [2023-08-26, 05:28:21](https://news.ycombinator.com/item?id=37270171) - [Llama2.c L2E LLM – Multi OS Binary and Unikernel Release](https://github.com/trholding/llama2.c/releases/tag/L2E_v0.1)
-* [2023-08-26, 04:53:34](https://news.ycombinator.com/item?id=37270048) - [This week in KDE: Double-click by default](https://pointieststick.com/2023/08/18/this-week-in-kde-double-click-by-default/)
 * [2023-08-26, 02:33:52](https://news.ycombinator.com/item?id=37269425) - [FFmpeg Explorer](https://ffmpeg.lav.io)
 * [2023-08-26, 02:24:50](https://news.ycombinator.com/item?id=37269376) - [Interpretable graph neural networks for tabular data](https://arxiv.org/abs/2308.08945)
-* [2023-08-26, 00:55:05](https://news.ycombinator.com/item?id=37268886) - [We are not empty: The concept of the atomic void is a mistake](https://aeon.co/essays/why-the-empty-atom-picture-misunderstands-quantum-theory)
 * [2023-08-26, 00:33:06](https://news.ycombinator.com/item?id=37268738) - [Training immune cells to remove ‘trash’ helps resolve lung inflammation](https://today.uic.edu/immune-cells-acute-lung-injury/)
 * [2023-08-26, 00:14:14](https://news.ycombinator.com/item?id=37268616) - [Sidewalk Garden](https://zachklein.com/Sidewalk+Garden)
 * [2023-08-26, 00:13:27](https://news.ycombinator.com/item?id=37268610) - [Deep Neural Nets: 33 years ago and 33 years from now (2022)](http://karpathy.github.io/2022/03/14/lecun1989/)
@@ -28,6 +27,7 @@
 * [2023-08-25, 00:31:42](https://news.ycombinator.com/item?id=37256346) - [Research group detects a quantum entanglement wave for the first time](https://www.aalto.fi/en/news/research-group-detects-a-quantum-entanglement-wave-for-the-first-time-using-real-space-measurements)
 * [2023-08-25, 00:11:15](https://news.ycombinator.com/item?id=37256195) - [Engineering Serendipity: Does Sharing Lead to Knowledge Production? [pdf]](https://www.hbs.edu/ris/Publication%20Files/20-058_39f454e9-bef0-4bed-bfa8-526e90601ade.pdf)
 * [2023-08-24, 14:41:14](https://news.ycombinator.com/item?id=37249289) - [A study of research on the psychology of expertise in weather forecasting](https://mitpress.mit.edu/9780262548816/minding-the-weather/)
+* [2023-08-24, 09:01:57](https://news.ycombinator.com/item?id=37246583) - [A Dive into the Legacy of BSD Unix](https://medium.com/@marvelsmarket7/title-unraveling-the-origins-of-influential-1980s-networking-software-a-dive-into-the-legacy-of-cb6a2b2f198)
 * [2023-08-24, 08:57:01](https://news.ycombinator.com/item?id=37246545) - [Prof. Robert Boice's Rules of the Road for Writers](https://home.uchicago.edu/~rfulton/Tips.htm)
 * [2023-08-24, 01:35:23](https://news.ycombinator.com/item?id=37244086) - [Who were the real Sin Eaters? (2021)](https://www.panmacmillan.com/blogs/fiction/megan-campisi-on-the-sin-eater)
 
