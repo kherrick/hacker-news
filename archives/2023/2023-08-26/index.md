@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-26](index.md)
 
+* [2023-08-26, 16:41:32](https://news.ycombinator.com/item?id=37274404) - [For many home-schoolers, parents are no longer doing the teaching](https://www.washingtonpost.com/education/interactive/2023/homeschooling-microschools-pods-esa-vouchers/)
+* [2023-08-26, 16:36:43](https://news.ycombinator.com/item?id=37274357) - [Heineken sells its Russia operations for 1 euro](https://www.cbsnews.com/news/heineken-sells-russian-business-one-euro-ukraine-war/)
 * [2023-08-26, 16:24:37](https://news.ycombinator.com/item?id=37274220) - [Silicon Valley elites revealed as buyers of $800M of land to build utopian city](https://www.theguardian.com/us-news/2023/aug/26/silicon-valley-elites-buy-800m-land-new-city)
 * [2023-08-26, 16:06:42](https://news.ycombinator.com/item?id=37274052) - [n8n.io - A powerful workflow automation tool](https://n8n.io)
 * [2023-08-26, 15:49:36](https://news.ycombinator.com/item?id=37273907) - [Google Maps is a critical dependency for nutrition facts on mcdonalds.com](https://mastodon.social/@simevidas/110956696765338181)
