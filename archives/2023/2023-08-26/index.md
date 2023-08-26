@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-26](index.md)
 
+* [2023-08-26, 15:38:56](https://news.ycombinator.com/item?id=37273818) - [Exxon Knew about Climate Change Almost 40 Years Ago](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/)
 * [2023-08-26, 15:01:51](https://news.ycombinator.com/item?id=37273507) - [Xinjiang Victims Database](https://www.shahit.biz/eng/)
 * [2023-08-26, 14:41:19](https://news.ycombinator.com/item?id=37273345) - [Apple Pay Later: What Are the Crazy Ones Up To?](https://www.softwareplatform.net/2023/04/16/apple-pay-later-what-are-the-crazy-ones-up-to/)
 * [2023-08-26, 13:52:38](https://news.ycombinator.com/item?id=37272929) - [Let Maintainers Be Maintainers](https://graydon2.dreamwidth.org/306832.html)
