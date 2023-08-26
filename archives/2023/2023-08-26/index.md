@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-08-26](index.md)
 
+* [2023-08-26, 12:01:00](https://news.ycombinator.com/item?id=37272009) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+* [2023-08-26, 11:26:05](https://news.ycombinator.com/item?id=37271776) - [The Albanian town that TikTok emptied](https://www.codastory.com/authoritarian-tech/albania-tiktok-migration-uk/)
 * [2023-08-26, 11:23:56](https://news.ycombinator.com/item?id=37271764) - [The WordPress 100 Year Plan](https://wordpress.com/100-year/)
 * [2023-08-26, 11:01:26](https://news.ycombinator.com/item?id=37271653) - [The EU’s Digital Services Act is now in effect](https://www.theverge.com/23845672/eu-digital-services-act-explained)
 * [2023-08-26, 10:58:41](https://news.ycombinator.com/item?id=37271635) - [X (erstwhile Twitter) introduces Studio](https://studio.twitter.com/)
 * [2023-08-26, 10:54:39](https://news.ycombinator.com/item?id=37271611) - [Clean mount lists in Linux](https://dbohdan.com/clean-mount-lists)
 * [2023-08-26, 10:38:54](https://news.ycombinator.com/item?id=37271515) - [Austin company unveils humanoid robot](https://www.kxan.com/news/local/austin/austin-company-unveils-humanoid-robot/)
+* [2023-08-26, 10:19:59](https://news.ycombinator.com/item?id=37271401) - [As I get older, I just don't care about new technology](https://old.reddit.com/r/webdev/comments/1613yqj/as_i_get_older_i_just_dont_care_about_new/)
 * [2023-08-26, 10:01:54](https://news.ycombinator.com/item?id=37271269) - [NES Emulator in Common Lisp](https://github.com/samanthadoran/potential-disco)
 * [2023-08-26, 08:47:17](https://news.ycombinator.com/item?id=37270881) - [66% of Americans say they want extended European-style vacation policies at work](https://www.cnbc.com/2023/08/25/66percent-of-americans-say-they-want-extended-european-style-vacation-policies-at-work.html)
 * [2023-08-26, 08:06:20](https://news.ycombinator.com/item?id=37270747) - [Ask HN: What's the Situation with YouTube-Dl?](https://news.ycombinator.com/item?id=37270747)
