@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-27, 13:41:42](https://news.ycombinator.com/item?id=37282642) - [Silicon Valley “Pronatalists” Oppose Remote Work Despite Boosted Fertility Rates](https://www.stoppopulationdecline.org/silicon-valley-pronatalists-against-wfh/)
-* [2023-08-27, 13:17:08](https://news.ycombinator.com/item?id=37282432) - [Anger found to be the primary driver of climate activism](https://phys.org/news/2023-08-anger-primary-driver-climate.html)
 * [2023-08-27, 13:11:18](https://news.ycombinator.com/item?id=37282385) - [Python Type Hints – *args and **kwargs (2021)](https://adamj.eu/tech/2021/05/11/python-type-hints-args-and-kwargs/)
 * [2023-08-27, 13:06:24](https://news.ycombinator.com/item?id=37282341) - [WordPress introduces 100 year domain registrations](https://wordpress.com/blog/2023/08/25/introducing-the-100-year-plan/)
 * [2023-08-27, 12:14:22](https://news.ycombinator.com/item?id=37281902) - [Moderation Strike: Results of Negotiations](https://meta.stackexchange.com/questions/391847/moderation-strike-results-of-negotiations)
@@ -23,6 +22,7 @@
 * [2023-08-26, 17:28:10](https://news.ycombinator.com/item?id=37274882) - [Show HN: Going into Freshman Year, Figured I Should Build an Interpreter ¯\\(ツ)/¯](https://news.ycombinator.com/item?id=37274882)
 * [2023-08-26, 13:21:16](https://news.ycombinator.com/item?id=37272652) - [E-ink is so Retropunk](https://rmkit.dev/eink-is-so-retropunk/)
 * [2023-08-26, 09:15:59](https://news.ycombinator.com/item?id=37271001) - [Portable OpenBSD vi for Unix systems](https://github.com/johnsonjh/OpenVi)
+* [2023-08-26, 08:52:16](https://news.ycombinator.com/item?id=37270908) - [Entropy in Engineering Processes](https://logical.li/blog/entropy/)
 * [2023-08-26, 08:35:23](https://news.ycombinator.com/item?id=37270844) - [1997 Intel 32 Bit Microprocessors Price List](http://web.archive.org/web/19970415020918/http://www1.intel.com/design/pricelst/32BMP.htm)
 * [2023-08-26, 07:09:19](https://news.ycombinator.com/item?id=37270500) - [Misidentifying Talent (2022)](https://danluu.com/talent/)
 * [2023-08-26, 05:10:18](https://news.ycombinator.com/item?id=37270108) - [Reasons to replace advanced search with filters](https://adamsilver.io/blog/7-reasons-to-replace-advanced-search-with-filters-so-users-can-easily-find-what-they-need/)
