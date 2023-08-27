@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-27](index.md)
 
+* [2023-08-27, 19:44:05](https://news.ycombinator.com/item?id=37285944) - [X officially takes on LinkedIn with its new job posting feature](https://bgr.com/business/x-officially-takes-on-linkedin-with-its-new-job-posting-feature/)
 * [2023-08-27, 19:25:45](https://news.ycombinator.com/item?id=37285804) - [A company backed by SV has purchased 52,000 acres to build a new city](https://www.businessinsider.com/flannery-silicon-valley-billionaires-build-new-california-city-solano-county-2023-8)
 * [2023-08-27, 19:06:58](https://news.ycombinator.com/item?id=37285653) - [Python Proposal (Inspired by Lua)](https://hachyderm.io/@nedbat/110962461917632486)
+* [2023-08-27, 19:03:00](https://news.ycombinator.com/item?id=37285622) - [Scientists in Antarctica say they were left alone against sexual harassers](https://abcnews.go.com/Technology/wireStory/women-working-antarctica-left-fend-sexual-harassers-102596137)
 * [2023-08-27, 18:37:10](https://news.ycombinator.com/item?id=37285413) - [Classical Music Is for Everyone](https://www.firstthings.com/web-exclusives/2023/08/classical-music-is-for-everyone)
 * [2023-08-27, 18:35:14](https://news.ycombinator.com/item?id=37285396) - [PMET: Precise Model Editing in a Transformer](https://arxiv.org/abs/2308.08742)
 * [2023-08-27, 18:05:17](https://news.ycombinator.com/item?id=37285156) - [A forum engine written in Assembly](https://asm32.info/fossil/asmbb/index)
