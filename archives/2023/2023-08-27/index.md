@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-27](index.md)
 
+* [2023-08-27, 23:06:21](https://news.ycombinator.com/item?id=37287522) - [In the '90s I survived summers in Egypt with no AC. How would it feel now?](https://www.npr.org/sections/goatsandsoda/2023/08/27/1195966057/comic-in-the-90s-i-survived-summers-in-egypt-with-no-ac-how-would-it-feel-now)
+* [2023-08-27, 22:28:56](https://news.ycombinator.com/item?id=37287239) - [Scientists Are Reincarnating the Woolly Mammoth to Return in 4 Years](https://www.popularmechanics.com/science/animals/a42708517/scientists-reincarnating-woolly-mammoth/)
 * [2023-08-27, 21:59:04](https://news.ycombinator.com/item?id=37287013) - [IBM introduces enterprise magnetic tape drive that holds 50TB per cartridge](https://www.techspot.com/news/99928-ibm-introduces-enterprise-magnetic-tape-drive-holds-50tb.html)
 * [2023-08-27, 21:37:49](https://news.ycombinator.com/item?id=37286860) - [Scientists find way to wipe a cell's memory to reprogram it as a stem cell](https://www.uwa.edu.au/news/Article/2023/August/Scientists-find-way-to-wipe-a-cells-memory-to-reprogram-it-as-a-stem-cell)
 * [2023-08-27, 21:05:33](https://news.ycombinator.com/item?id=37286636) - [Seven Sins of Writing](https://www.hamilton.edu/academics/centers/writing/seven-sins-of-writing)
