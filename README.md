@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-27, 15:46:47](https://news.ycombinator.com/item?id=37283776) - [Ham radio enthusiasts vs. High-frequency traders: A battle for the airwaves](https://www.wsj.com/business/entrepreneurship/ham-radio-enthusiasts-vs-high-frequency-traders-a-battle-for-the-airwaves-6d6c5c1f)
 * [2023-08-27, 15:04:04](https://news.ycombinator.com/item?id=37283375) - [Some of the error messages produced by Apple's MPW C compiler (2006)](https://www.cs.cmu.edu/~jasonh/personal/humor/compile.html)
 * [2023-08-27, 14:43:25](https://news.ycombinator.com/item?id=37283191) - [Sal Khan: How AI could save (not destroy) education [video]](https://www.youtube.com/watch?v=hJP5GqnTrNo)
 * [2023-08-27, 14:35:22](https://news.ycombinator.com/item?id=37283128) - [Mother is arrested in Bangladesh after son in US criticizes government online](https://www.nbcnews.com/news/asian-america/mother-arrested-bangladesh-son-us-criticizes-government-online-rcna101392)
@@ -12,7 +13,6 @@
 * [2023-08-27, 11:46:30](https://news.ycombinator.com/item?id=37281692) - [WTFPython: Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython)
 * [2023-08-27, 11:37:42](https://news.ycombinator.com/item?id=37281630) - [Waku: The Minimalist React Framework with Server Components](https://waku.gg/)
 * [2023-08-27, 11:00:09](https://news.ycombinator.com/item?id=37281411) - [Show HN: Graphweaver – Instant GraphQL API on Postgres, MySQL, SQLite and More](https://github.com/exogee-technology/graphweaver)
-* [2023-08-27, 09:58:21](https://news.ycombinator.com/item?id=37281093) - [Seasonal malaria vaccine-drug combo sees dramatic reductions at 5-year mark](https://www.lshtm.ac.uk/newsevents/news/2023/seasonal-malaria-vaccine-drug-combination-sees-dramatic-reductions-five-year)
 * [2023-08-27, 09:52:06](https://news.ycombinator.com/item?id=37281060) - [Lie still in bed](https://ognjen.io/lie-still-in-bed/)
 * [2023-08-27, 09:46:50](https://news.ycombinator.com/item?id=37281020) - [Anti-AI Hype LLM Reading List](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
 * [2023-08-27, 09:36:34](https://news.ycombinator.com/item?id=37280972) - [Prisoners of Google Android Development](https://solutional.ee/blog/2023-08-26-Prisoners-of-Google-Android-Development.html)

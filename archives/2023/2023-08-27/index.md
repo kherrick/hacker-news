@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-27](index.md)
 
+* [2023-08-27, 15:46:47](https://news.ycombinator.com/item?id=37283776) - [Ham radio enthusiasts vs. High-frequency traders: A battle for the airwaves](https://www.wsj.com/business/entrepreneurship/ham-radio-enthusiasts-vs-high-frequency-traders-a-battle-for-the-airwaves-6d6c5c1f)
 * [2023-08-27, 15:04:04](https://news.ycombinator.com/item?id=37283375) - [Some of the error messages produced by Apple's MPW C compiler (2006)](https://www.cs.cmu.edu/~jasonh/personal/humor/compile.html)
 * [2023-08-27, 14:43:25](https://news.ycombinator.com/item?id=37283191) - [Sal Khan: How AI could save (not destroy) education [video]](https://www.youtube.com/watch?v=hJP5GqnTrNo)
 * [2023-08-27, 14:35:22](https://news.ycombinator.com/item?id=37283128) - [Mother is arrested in Bangladesh after son in US criticizes government online](https://www.nbcnews.com/news/asian-america/mother-arrested-bangladesh-son-us-criticizes-government-online-rcna101392)
