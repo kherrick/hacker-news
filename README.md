@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-27, 13:21:34](https://news.ycombinator.com/item?id=37282465) - [France to spend €200M on destroying excess wine as demand falls](https://www.theguardian.com/world/2023/aug/25/france-fund-destroying-excess-wine-demand-falls)
+* [2023-08-27, 14:28:40](https://news.ycombinator.com/item?id=37283060) - [Consumers complaining on X targeted by scammers after verification changes](https://www.theguardian.com/technology/2023/aug/27/consumers-complaining-x-targeted-scammers-verification-changes-twitter)
 * [2023-08-27, 13:11:18](https://news.ycombinator.com/item?id=37282385) - [Python Type Hints – *args and **kwargs (2021)](https://adamj.eu/tech/2021/05/11/python-type-hints-args-and-kwargs/)
 * [2023-08-27, 13:06:24](https://news.ycombinator.com/item?id=37282341) - [WordPress introduces 100 year domain registrations](https://wordpress.com/blog/2023/08/25/introducing-the-100-year-plan/)
 * [2023-08-27, 12:14:22](https://news.ycombinator.com/item?id=37281902) - [Moderation Strike: Results of Negotiations](https://meta.stackexchange.com/questions/391847/moderation-strike-results-of-negotiations)
