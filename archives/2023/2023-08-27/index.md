@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-27](index.md)
 
 * [2023-08-27, 15:04:04](https://news.ycombinator.com/item?id=37283375) - [Some of the error messages produced by Apple's MPW C compiler (2006)](https://www.cs.cmu.edu/~jasonh/personal/humor/compile.html)
+* [2023-08-27, 14:35:22](https://news.ycombinator.com/item?id=37283128) - [Mother is arrested in Bangladesh after son in US criticizes government online](https://www.nbcnews.com/news/asian-america/mother-arrested-bangladesh-son-us-criticizes-government-online-rcna101392)
 * [2023-08-27, 14:28:40](https://news.ycombinator.com/item?id=37283060) - [Consumers complaining on X targeted by scammers after verification changes](https://www.theguardian.com/technology/2023/aug/27/consumers-complaining-x-targeted-scammers-verification-changes-twitter)
 * [2023-08-27, 13:54:46](https://news.ycombinator.com/item?id=37282744) - [Remote Work Is Here to Stay, and Employers Aren’t Happy About It](https://www.investopedia.com/remote-work-is-here-to-stay-and-employers-arent-happy-about-it-7814388)
 * [2023-08-27, 13:41:42](https://news.ycombinator.com/item?id=37282642) - [Silicon Valley “Pronatalists” Oppose Remote Work Despite Boosted Fertility Rates](https://www.stoppopulationdecline.org/silicon-valley-pronatalists-against-wfh/)
