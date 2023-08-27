@@ -69,6 +69,7 @@
 * [2023-08-26, 11:23:56](https://news.ycombinator.com/item?id=37271764) - [The WordPress 100 Year Plan](https://wordpress.com/100-year/)
 * [2023-08-26, 11:12:30](https://news.ycombinator.com/item?id=37271715) - [Power Consumption of JPEG, WebP, and AVIF](https://fershad.com/writing/power-consumption-jpeg-webp-and-avif/)
 * [2023-08-26, 11:01:26](https://news.ycombinator.com/item?id=37271653) - [The EU’s Digital Services Act is now in effect](https://www.theverge.com/23845672/eu-digital-services-act-explained)
+* [2023-08-26, 11:00:18](https://news.ycombinator.com/item?id=37271644) - [When Kraftwerk Issued Their Own Pocket Calculator Synthesizer (2019)](https://www.openculture.com/2019/06/when-kraftwerk-issued-their-own-pocket-calculator-synthesizer.html)
 * [2023-08-26, 10:58:41](https://news.ycombinator.com/item?id=37271635) - [X (erstwhile Twitter) introduces Studio](https://studio.twitter.com/)
 * [2023-08-26, 10:54:39](https://news.ycombinator.com/item?id=37271611) - [Clean mount lists in Linux](https://dbohdan.com/clean-mount-lists)
 * [2023-08-26, 10:38:54](https://news.ycombinator.com/item?id=37271515) - [Austin company unveils humanoid robot](https://www.kxan.com/news/local/austin/austin-company-unveils-humanoid-robot/)
