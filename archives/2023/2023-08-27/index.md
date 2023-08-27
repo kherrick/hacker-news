@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-27](index.md)
 
+* [2023-08-27, 07:38:09](https://news.ycombinator.com/item?id=37280309) - [Who is driving Germany's far-right poll surge?](https://adamtooze.substack.com/p/chartbook-235-who-is-driving-germanys)
 * [2023-08-27, 05:51:10](https://news.ycombinator.com/item?id=37279773) - [Ubus (OpenWrt micro bus architecture)](https://openwrt.org/docs/techref/ubus)
 * [2023-08-27, 05:09:05](https://news.ycombinator.com/item?id=37279589) - [The Hiragana (Chart with Sound)](https://japanesecomplete.com/hiragana-chart)
 * [2023-08-27, 04:58:44](https://news.ycombinator.com/item?id=37279543) - [Bugzilla Celebrates 25 Years with Special Announcements](https://www.bugzilla.org/blog/2023/08/26/bugzilla-celebrates-25-years/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-27, 07:38:09](https://news.ycombinator.com/item?id=37280309) - [Who is driving Germany's far-right poll surge?](https://adamtooze.substack.com/p/chartbook-235-who-is-driving-germanys)
 * [2023-08-27, 05:51:10](https://news.ycombinator.com/item?id=37279773) - [Ubus (OpenWrt micro bus architecture)](https://openwrt.org/docs/techref/ubus)
 * [2023-08-27, 05:09:05](https://news.ycombinator.com/item?id=37279589) - [Interactive Hiragana chart with audio](https://japanesecomplete.com/hiragana-chart)
 * [2023-08-27, 04:58:44](https://news.ycombinator.com/item?id=37279543) - [Happy 25th Birthday to Bugzilla](https://www.bugzilla.org/blog/2023/08/26/bugzilla-celebrates-25-years/)
@@ -18,7 +19,6 @@
 * [2023-08-26, 19:27:26](https://news.ycombinator.com/item?id=37276026) - [Show HN: TRS-GPT – ChatGPT client/server for the TRS-80](https://druid77.github.io/trs-gpt/)
 * [2023-08-26, 18:44:05](https://news.ycombinator.com/item?id=37275676) - [Historic algorithms help unlock shortest-path problem breakthrough](https://cacm.acm.org/news/275684-historic-algorithms-help-unlock-shortest-path-problem-breakthrough/fulltext)
 * [2023-08-26, 17:27:28](https://news.ycombinator.com/item?id=37274871) - [Slack’s migration to a cellular architecture](https://slack.engineering/slacks-migration-to-a-cellular-architecture/)
-* [2023-08-26, 16:41:32](https://news.ycombinator.com/item?id=37274404) - [For many home-schoolers, parents are no longer doing the teaching](https://www.washingtonpost.com/education/interactive/2023/homeschooling-microschools-pods-esa-vouchers/)
 * [2023-08-26, 13:21:16](https://news.ycombinator.com/item?id=37272652) - [E-ink is so Retropunk](https://rmkit.dev/eink-is-so-retropunk/)
 * [2023-08-26, 09:11:16](https://news.ycombinator.com/item?id=37270979) - [Bare Metal Space Invaders](https://blog.fponzi.me/2023-08-13-bare-metal-space-invaders.html)
 * [2023-08-26, 08:52:16](https://news.ycombinator.com/item?id=37270908) - [Entropy in Engineering Processes](https://logical.li/blog/entropy/)
