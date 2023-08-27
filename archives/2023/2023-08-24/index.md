@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-24](index.md)
 
 * [2023-08-24, 23:55:44](https://news.ycombinator.com/item?id=37256077) - [Ig Nobel Prize Winner Higashiyama Atsuki and the “Between-Legs Effect” Mystery](https://www.nippon.com/en/japan-topics/c12403/)
+* [2023-08-24, 23:12:09](https://news.ycombinator.com/item?id=37255741) - [In This Essay I Will: On Distraction](https://www.theparisreview.org/blog/2023/08/23/in-this-essay-i-will-on-distraction/)
 * [2023-08-24, 22:35:49](https://news.ycombinator.com/item?id=37255443) - [Dollar Tree is the latest retailer to say shoplifting is squeezing margins](https://www.marketwatch.com/story/dollar-trees-stock-slides-8-6-premarket-as-profit-falls-sharply-from-a-year-ago-c84ff785)
 * [2023-08-24, 22:17:18](https://news.ycombinator.com/item?id=37255280) - [An image preprocessing tool to protect artworks from AI-for-Art based mimicry](https://mist-project.github.io/index_en.html)
 * [2023-08-24, 21:57:25](https://news.ycombinator.com/item?id=37255079) - [Proof-of-Work Defense for Onion Services](https://blog.torproject.org/introducing-proof-of-work-defense-for-onion-services/)
