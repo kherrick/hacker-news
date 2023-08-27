@@ -84,6 +84,7 @@
 * [2023-08-26, 08:47:17](https://news.ycombinator.com/item?id=37270881) - [66% of Americans say they want extended European-style vacation policies at work](https://www.cnbc.com/2023/08/25/66percent-of-americans-say-they-want-extended-european-style-vacation-policies-at-work.html)
 * [2023-08-26, 08:35:23](https://news.ycombinator.com/item?id=37270844) - [1997 Intel 32 Bit Microprocessors Price List](http://web.archive.org/web/19970415020918/http://www1.intel.com/design/pricelst/32BMP.htm)
 * [2023-08-26, 08:06:20](https://news.ycombinator.com/item?id=37270747) - [Ask HN: What's the Situation with YouTube-Dl?](https://news.ycombinator.com/item?id=37270747)
+* [2023-08-26, 08:04:27](https://news.ycombinator.com/item?id=37270739) - [The Ptrace Anti-RE Trick](http://hkopp.github.io/2023/08/the-ptrace-anti-re-trick)
 * [2023-08-26, 07:43:42](https://news.ycombinator.com/item?id=37270648) - [FaceFusion: Next generation face swapper and enhancer](https://github.com/facefusion/facefusion)
 * [2023-08-26, 07:41:28](https://news.ycombinator.com/item?id=37270634) - [Uncle Sam accuses SpaceX of not considering asylees and refugees for employment](https://www.theregister.com/2023/08/25/spacex_discrimination_lawsuit/)
 * [2023-08-26, 07:09:19](https://news.ycombinator.com/item?id=37270500) - [Misidentifying Talent](https://danluu.com/talent/)
