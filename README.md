@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-27, 19:25:45](https://news.ycombinator.com/item?id=37285804) - [A company backed by SV has purchased 52,000 acres to build a new city](https://www.businessinsider.com/flannery-silicon-valley-billionaires-build-new-california-city-solano-county-2023-8)
 * [2023-08-27, 18:37:10](https://news.ycombinator.com/item?id=37285413) - [Classical Music Is for Everyone](https://www.firstthings.com/web-exclusives/2023/08/classical-music-is-for-everyone)
 * [2023-08-27, 18:35:14](https://news.ycombinator.com/item?id=37285396) - [PMET: Precise Model Editing in a Transformer](https://arxiv.org/abs/2308.08742)
 * [2023-08-27, 18:05:17](https://news.ycombinator.com/item?id=37285156) - [A forum engine written in Assembly](https://asm32.info/fossil/asmbb/index)
@@ -9,7 +10,6 @@
 * [2023-08-27, 15:54:16](https://news.ycombinator.com/item?id=37283860) - [Where do fonts come from? This one business, mostly](https://thehustle.co/where-do-fonts-come-from/)
 * [2023-08-27, 15:33:58](https://news.ycombinator.com/item?id=37283636) - [I Can Eat Glass](https://en.wikipedia.org/wiki/I_Can_Eat_Glass)
 * [2023-08-27, 15:04:04](https://news.ycombinator.com/item?id=37283375) - [Some of the error messages produced by Apple's MPW C compiler (2006)](https://www.cs.cmu.edu/~jasonh/personal/humor/compile.html)
-* [2023-08-27, 14:43:25](https://news.ycombinator.com/item?id=37283191) - [Sal Khan: How AI could save (not destroy) education [video]](https://www.youtube.com/watch?v=hJP5GqnTrNo)
 * [2023-08-27, 13:21:53](https://news.ycombinator.com/item?id=37282469) - [AnnaArchivist/annas-archive](https://annas-software.org/AnnaArchivist/annas-archive)
 * [2023-08-27, 13:20:13](https://news.ycombinator.com/item?id=37282450) - [Demodulation of the 5G NR Downlink](https://destevez.net/2023/08/demodulation-of-the-5g-nr-downlink/)
 * [2023-08-27, 13:11:18](https://news.ycombinator.com/item?id=37282385) - [Python Type Hints – *args and **kwargs (2021)](https://adamj.eu/tech/2021/05/11/python-type-hints-args-and-kwargs/)
