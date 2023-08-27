@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-27, 03:55:28](https://news.ycombinator.com/item?id=37279318) - [Firefox 1.0 New York Times Ad](https://www.scribd.com/document/393519605/Firefox-1-0-New-York-Times-Ad)
 * [2023-08-27, 02:22:09](https://news.ycombinator.com/item?id=37278883) - [Scenes from the Solbourne Computer corporate video, March 1992](http://oldvcr.blogspot.com/2023/08/scenes-from-solbourne-computer.html)
 * [2023-08-27, 00:59:07](https://news.ycombinator.com/item?id=37278390) - [Linux 6.5 Last Minute Fixes a Performance Regression, 34% Drop in a Benchmark](https://www.phoronix.com/news/Linux-6.5-x86-Fix-34p-Drop)
 * [2023-08-27, 00:51:13](https://news.ycombinator.com/item?id=37278345) - [If you're interested in eye-tracking, I'm interested in funding you](https://twitter.com/paulg/status/1695596853864321055)
@@ -20,7 +21,6 @@
 * [2023-08-26, 13:52:38](https://news.ycombinator.com/item?id=37272929) - [Let maintainers be maintainers](https://graydon2.dreamwidth.org/306832.html)
 * [2023-08-26, 13:39:28](https://news.ycombinator.com/item?id=37272801) - [Armed with traffic cones, protesters are immobilizing driverless cars](https://www.npr.org/2023/08/26/1195695051/driverless-cars-san-francisco-waymo-cruise)
 * [2023-08-26, 13:21:16](https://news.ycombinator.com/item?id=37272652) - [E-ink is so Retropunk](https://rmkit.dev/eink-is-so-retropunk/)
-* [2023-08-26, 12:55:52](https://news.ycombinator.com/item?id=37272445) - [This isn’t the way to speed up Rust compile times](https://xeiaso.net/blog/serde-precompiled-stupid)
 * [2023-08-26, 09:11:16](https://news.ycombinator.com/item?id=37270979) - [Bare Metal Space Invaders](https://blog.fponzi.me/2023-08-13-bare-metal-space-invaders.html)
 * [2023-08-26, 08:52:16](https://news.ycombinator.com/item?id=37270908) - [Entropy in Engineering Processes](https://logical.li/blog/entropy/)
 * [2023-08-26, 05:53:32](https://news.ycombinator.com/item?id=37270252) - [Introducing Coalton to lispers without a background in ML-like languages](https://gist.github.com/digikar99/b76964faf17b3a86739c001dc1b14a39)
