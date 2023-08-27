@@ -32,6 +32,7 @@
 * [2023-08-24, 17:56:10](https://news.ycombinator.com/item?id=37252334) - [Bram Moolenaar's programming language, Zimbu](https://thenewstack.io/vim-creator-bram-moolenaars-forgotten-programming-language-zimbu/)
 * [2023-08-24, 17:50:58](https://news.ycombinator.com/item?id=37252258) - [Corrupted Blood Incident](https://en.wikipedia.org/wiki/Corrupted_Blood_incident)
 * [2023-08-24, 17:49:04](https://news.ycombinator.com/item?id=37252231) - [Show HN: Shimmer – ADHD coaching for adults, now on web](https://www.shimmer.care/blog/web-launch-adhd-coaching)
+* [2023-08-24, 17:48:45](https://news.ycombinator.com/item?id=37252225) - [How to Program in Your Sleep](https://bellmar.medium.com/how-to-program-in-your-sleep-58f448a90afb)
 * [2023-08-24, 17:41:32](https://news.ycombinator.com/item?id=37252110) - [Zoom CEO reportedly to staff: Workers can't build trust or collaborate.. on Zoom](https://www.theregister.com/2023/08/24/zoom_ceo_says_hard_to_build_trust_collaborate_on_zoom/)
 * [2023-08-24, 17:40:36](https://news.ycombinator.com/item?id=37252095) - [As California fires worsen, can AI come to the rescue?](https://www.latimes.com/california/story/2023-08-24/can-ai-fight-wildfires-california-is-counting-on-it)
 * [2023-08-24, 17:36:22](https://news.ycombinator.com/item?id=37252025) - [How Artificial Intelligence Gave a Paralyzed Woman Her Voice Back](https://www.ucsf.edu/news/2023/08/425986/how-artificial-intelligence-gave-paralyzed-woman-her-voice-back)

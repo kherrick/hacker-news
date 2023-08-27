@@ -5,7 +5,6 @@
 * [2023-08-27, 00:51:13](https://news.ycombinator.com/item?id=37278345) - [If you're interested in eye-tracking, I'm interested in funding you](https://twitter.com/paulg/status/1695596853864321055)
 * [2023-08-27, 00:26:01](https://news.ycombinator.com/item?id=37278189) - [It’s not intelligent if it always halts: A critical perspective on AI approaches](https://www.lifeiscomputation.com/it-is-not-intelligent-if-it-always-halts/)
 * [2023-08-26, 23:36:32](https://news.ycombinator.com/item?id=37277907) - [Linux on a Commodore 64](https://github.com/onnokort/semu-c64)
-* [2023-08-26, 23:17:20](https://news.ycombinator.com/item?id=37277809) - [Illegal shooting along power lines a leading cause of death for bald eagles](https://www.usgs.gov/news/national-news-release/illegal-shooting-along-power-lines-a-leading-cause-death-bald-eagles)
 * [2023-08-26, 23:05:43](https://news.ycombinator.com/item?id=37277718) - [Martin Miller talks about his mother, Alice Miller (2015)](https://www.contemporarypsychotherapy.org/volume-7-issue-1-summer-2015/interview-martin-miller/)
 * [2023-08-26, 22:01:38](https://news.ycombinator.com/item?id=37277311) - [A clock where the time is in a song title](https://pudding.cool/projects/clocks/)
 * [2023-08-26, 21:43:44](https://news.ycombinator.com/item?id=37277191) - [COBOL gets new life in the cloud thanks to Watsonx and AI](https://www.silverliningsinfo.com/apps-services/ibm-watsonx-brings-cobol-cloud-era-ai)
@@ -28,6 +27,7 @@
 * [2023-08-26, 05:20:45](https://news.ycombinator.com/item?id=37270138) - [The Arab Dagger](https://www.fordemilitaryantiques.com/articles/2020/9/8/the-arab-dagger)
 * [2023-08-26, 01:45:37](https://news.ycombinator.com/item?id=37269173) - [Porting Stunt Car Racer to the Commodore Plus/4](https://cobbpg.github.io/articles/stunt-car-racer-plus4-port.html)
 * [2023-08-24, 21:56:35](https://news.ycombinator.com/item?id=37255069) - [How Tycho Brahe really died (2001)](https://www.ips-planetarium.org/page/a_jacobsen2001)
+* [2023-08-24, 17:48:45](https://news.ycombinator.com/item?id=37252225) - [How to Program in Your Sleep](https://bellmar.medium.com/how-to-program-in-your-sleep-58f448a90afb)
 * [2023-08-24, 11:08:23](https://news.ycombinator.com/item?id=37247451) - [How was the size of Earth first measured? (2015)](https://stardate.org/astro-guide/faqs/how-was-size-earth-first-measured)
 * [2023-08-24, 11:02:22](https://news.ycombinator.com/item?id=37247413) - [The rise of pity marketing](https://www.newstatesman.com/culture/social-media/2023/08/rise-pity-marketing-edinburgh-fringe)
 
