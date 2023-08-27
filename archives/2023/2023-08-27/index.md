@@ -58,6 +58,7 @@
 * [2023-08-27, 04:58:44](https://news.ycombinator.com/item?id=37279543) - [Bugzilla Celebrates 25 Years with Special Announcements](https://www.bugzilla.org/blog/2023/08/26/bugzilla-celebrates-25-years/)
 * [2023-08-27, 04:53:11](https://news.ycombinator.com/item?id=37279521) - [Silicon Valley elites revealed as investors behind $800M Bay Area land grab](https://www.sfchronicle.com/bayarea/article/solano-new-city-investors-silicon-valley-18331296.php)
 * [2023-08-27, 03:55:28](https://news.ycombinator.com/item?id=37279318) - [Firefox 1.0 New York Times Ad](https://www.scribd.com/document/393519605/Firefox-1-0-New-York-Times-Ad)
+* [2023-08-27, 03:47:28](https://news.ycombinator.com/item?id=37279279) - [The Decreationist: Simone Weil’s thoughts on the unmaking of the self](https://theamericanscholar.org/the-decreationist/)
 * [2023-08-27, 03:13:13](https://news.ycombinator.com/item?id=37279109) - [Block YouTube Ads on AppleTV by Decrypting and Stripping Ads from Profobuf](https://ericdraken.com/pfsense-decrypt-ad-traffic/)
 * [2023-08-27, 02:41:10](https://news.ycombinator.com/item?id=37278991) - [Two Erlang patterns I love](http://blog.syncpup.com/posts/two-erlang-patterns-i-love.html)
 * [2023-08-27, 02:22:09](https://news.ycombinator.com/item?id=37278883) - [Scenes from the Solbourne Computer corporate video, March 1992](http://oldvcr.blogspot.com/2023/08/scenes-from-solbourne-computer.html)
