@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-27](index.md)
 
+* [2023-08-27, 18:03:12](https://news.ycombinator.com/item?id=37285131) - [The world’s last internet cafes](https://restofworld.org/2023/internet-cafes/)
 * [2023-08-27, 17:00:40](https://news.ycombinator.com/item?id=37284488) - [Infiuss Health (YC S21) Is Hiring a Data Analyst](https://news.ycombinator.com/item?id=37284488)
 * [2023-08-27, 16:56:44](https://news.ycombinator.com/item?id=37284452) - [Phrack Magazine](http://phrack.org/)
 * [2023-08-27, 16:55:10](https://news.ycombinator.com/item?id=37284437) - [Expert Opinions I Agree with (That Most People Don’t)](https://www.scotthyoung.com/blog/2023/08/08/expert-opinions/)
