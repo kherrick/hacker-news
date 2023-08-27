@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-27, 01:10:57](https://news.ycombinator.com/item?id=37278473) - [Ask HN: How to Contact Stripe Directly?](https://news.ycombinator.com/item?id=37278473)
+* [2023-08-27, 00:59:07](https://news.ycombinator.com/item?id=37278390) - [Linux 6.5 Last Minute Fixes a Performance Regression, 34% Drop in a Benchmark](https://www.phoronix.com/news/Linux-6.5-x86-Fix-34p-Drop)
 * [2023-08-27, 00:51:13](https://news.ycombinator.com/item?id=37278345) - [If you're interested in eye-tracking, I'm interested in funding you](https://twitter.com/paulg/status/1695596853864321055)
 * [2023-08-27, 00:26:01](https://news.ycombinator.com/item?id=37278189) - [It’s not intelligent if it always halts: A critical perspective on AI approaches](https://www.lifeiscomputation.com/it-is-not-intelligent-if-it-always-halts/)
 * [2023-08-26, 23:36:32](https://news.ycombinator.com/item?id=37277907) - [Linux on a Commodore 64](https://github.com/onnokort/semu-c64)
 * [2023-08-26, 23:17:20](https://news.ycombinator.com/item?id=37277809) - [Illegal shooting along power lines a leading cause of death for bald eagles](https://www.usgs.gov/news/national-news-release/illegal-shooting-along-power-lines-a-leading-cause-death-bald-eagles)
 * [2023-08-26, 23:05:43](https://news.ycombinator.com/item?id=37277718) - [Martin Miller talks about his mother, Alice Miller (2015)](https://www.contemporarypsychotherapy.org/volume-7-issue-1-summer-2015/interview-martin-miller/)
-* [2023-08-26, 22:25:27](https://news.ycombinator.com/item?id=37277457) - [Show HN: Investor radar, the ultimate database of investors for your startup](https://www.investorradar.io/)
 * [2023-08-26, 22:01:38](https://news.ycombinator.com/item?id=37277311) - [A clock where the time is in a song title](https://pudding.cool/projects/clocks/)
 * [2023-08-26, 21:43:44](https://news.ycombinator.com/item?id=37277191) - [COBOL gets new life in the cloud thanks to Watsonx and AI](https://www.silverliningsinfo.com/apps-services/ibm-watsonx-brings-cobol-cloud-era-ai)
 * [2023-08-26, 21:00:09](https://news.ycombinator.com/item?id=37276864) - [Freshpaint (YC S19) is hiring engineers to build a HIPAA compliant data platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
