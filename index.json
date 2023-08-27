@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-08-27, 18:05:17",
-      "https://news.ycombinator.com/item?id=37285156"
-    ],
-    [
-      "A forum engine written in Assembly",
-      "https://asm32.info/fossil/asmbb/index"
-    ]
-  ],
-  [
-    [
       "2023-08-27, 17:26:42",
       "https://news.ycombinator.com/item?id=37284764"
     ],
@@ -147,6 +137,16 @@
     [
       "WTFPython: Exploring and understanding Python through surprising snippets",
       "https://github.com/satwikkansal/wtfpython"
+    ]
+  ],
+  [
+    [
+      "2023-08-27, 11:37:42",
+      "https://news.ycombinator.com/item?id=37281630"
+    ],
+    [
+      "Waku: The Minimalist React Framework with Server Components",
+      "https://waku.gg/"
     ]
   ],
   [
