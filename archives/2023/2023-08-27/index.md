@@ -12,6 +12,7 @@
 * [2023-08-27, 11:46:30](https://news.ycombinator.com/item?id=37281692) - [WTFPython: Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython)
 * [2023-08-27, 11:38:44](https://news.ycombinator.com/item?id=37281641) - [Ask HN: Best WFH Purchases?](https://news.ycombinator.com/item?id=37281641)
 * [2023-08-27, 11:37:42](https://news.ycombinator.com/item?id=37281630) - [Waku: The Minimalist React Framework with Server Components](https://waku.gg/)
+* [2023-08-27, 11:00:09](https://news.ycombinator.com/item?id=37281411) - [Show HN: Graphweaver – Instant GraphQL API on Postgres, MySQL, SQLite and More](https://github.com/exogee-technology/graphweaver)
 * [2023-08-27, 10:58:48](https://news.ycombinator.com/item?id=37281406) - [Things that didn't age well](https://mastodon.social/@damianogerli/110677869558047692)
 * [2023-08-27, 09:58:21](https://news.ycombinator.com/item?id=37281093) - [Seasonal malaria vaccine-drug combo sees dramatic reductions at 5-year mark](https://www.lshtm.ac.uk/newsevents/news/2023/seasonal-malaria-vaccine-drug-combination-sees-dramatic-reductions-five-year)
 * [2023-08-27, 09:52:06](https://news.ycombinator.com/item?id=37281060) - [Lie Still in Bed](https://ognjen.io/lie-still-in-bed/)

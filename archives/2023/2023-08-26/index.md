@@ -32,6 +32,7 @@
 * [2023-08-26, 18:12:04](https://news.ycombinator.com/item?id=37275331) - [Never-Ending Learning of User Interfaces](https://arxiv.org/abs/2308.08726)
 * [2023-08-26, 18:10:19](https://news.ycombinator.com/item?id=37275315) - [Datapen.io – A Curation of Free Data Science Resources](https://www.datapen.io/)
 * [2023-08-26, 17:48:57](https://news.ycombinator.com/item?id=37275085) - [Ford Confronts Strange, Ear-Piercing Static in F-150 Trucks](https://www.wsj.com/business/autos/ford-confronts-strange-ear-piercing-static-in-f-150-trucks-7551ba24)
+* [2023-08-26, 17:28:10](https://news.ycombinator.com/item?id=37274882) - [Show HN: Going into Freshman Year, Figured I Should Build an Interpreter ¯\\(ツ)/¯](https://news.ycombinator.com/item?id=37274882)
 * [2023-08-26, 17:27:28](https://news.ycombinator.com/item?id=37274871) - [Slack’s Migration to a Cellular Architecture](https://slack.engineering/slacks-migration-to-a-cellular-architecture/)
 * [2023-08-26, 17:18:53](https://news.ycombinator.com/item?id=37274774) - [California deploys AI-powered wildfire detection systems](https://arstechnica.com/information-technology/2023/08/firefighters-use-ai-to-spot-wildfires-in-california/)
 * [2023-08-26, 17:01:42](https://news.ycombinator.com/item?id=37274605) - [UK's infrastructure is too expensive: Railways, Trams, and Roads all cost more](https://www.samdumitriu.com/p/britains-infrastructure-is-too-expensive)
