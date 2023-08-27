@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-27, 15:04:04](https://news.ycombinator.com/item?id=37283375) - [Some of the error messages produced by Apple's MPW C compiler (2006)](https://www.cs.cmu.edu/~jasonh/personal/humor/compile.html)
 * [2023-08-27, 14:28:40](https://news.ycombinator.com/item?id=37283060) - [Consumers complaining on X targeted by scammers after verification changes](https://www.theguardian.com/technology/2023/aug/27/consumers-complaining-x-targeted-scammers-verification-changes-twitter)
 * [2023-08-27, 13:54:46](https://news.ycombinator.com/item?id=37282744) - [Remote Work Is Here to Stay, and Employers Aren’t Happy About It](https://www.investopedia.com/remote-work-is-here-to-stay-and-employers-arent-happy-about-it-7814388)
 * [2023-08-27, 13:11:18](https://news.ycombinator.com/item?id=37282385) - [Python Type Hints – *args and **kwargs (2021)](https://adamj.eu/tech/2021/05/11/python-type-hints-args-and-kwargs/)
@@ -9,7 +10,6 @@
 * [2023-08-27, 11:53:56](https://news.ycombinator.com/item?id=37281745) - [Overthewire.org](https://overthewire.org/wargames/)
 * [2023-08-27, 11:46:30](https://news.ycombinator.com/item?id=37281692) - [WTFPython: Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython)
 * [2023-08-27, 11:37:42](https://news.ycombinator.com/item?id=37281630) - [Waku: The Minimalist React Framework with Server Components](https://waku.gg/)
-* [2023-08-27, 09:58:21](https://news.ycombinator.com/item?id=37281093) - [Seasonal malaria vaccine-drug combo sees dramatic reductions at 5-year mark](https://www.lshtm.ac.uk/newsevents/news/2023/seasonal-malaria-vaccine-drug-combination-sees-dramatic-reductions-five-year)
 * [2023-08-27, 09:52:06](https://news.ycombinator.com/item?id=37281060) - [Lie still in bed](https://ognjen.io/lie-still-in-bed/)
 * [2023-08-27, 09:46:50](https://news.ycombinator.com/item?id=37281020) - [Anti-AI Hype LLM Reading List](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
 * [2023-08-27, 09:36:34](https://news.ycombinator.com/item?id=37280972) - [Prisoners of Google Android Development](https://solutional.ee/blog/2023-08-26-Prisoners-of-Google-Android-Development.html)
