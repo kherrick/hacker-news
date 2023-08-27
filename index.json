@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-27, 11:46:30",
+      "https://news.ycombinator.com/item?id=37281692"
+    ],
+    [
+      "WTFPython: Exploring and understanding Python through surprising snippets",
+      "https://github.com/satwikkansal/wtfpython"
+    ]
+  ],
+  [
+    [
+      "2023-08-27, 10:58:48",
+      "https://news.ycombinator.com/item?id=37281406"
+    ],
+    [
+      "Things that didn't age well",
+      "https://mastodon.social/@damianogerli/110677869558047692"
+    ]
+  ],
+  [
+    [
       "2023-08-27, 09:58:21",
       "https://news.ycombinator.com/item?id=37281093"
     ],
@@ -17,6 +37,16 @@
     [
       "Lie Still in Bed",
       "https://ognjen.io/lie-still-in-bed/"
+    ]
+  ],
+  [
+    [
+      "2023-08-27, 09:46:50",
+      "https://news.ycombinator.com/item?id=37281020"
+    ],
+    [
+      "Anti-AI Hype LLM Reading List",
+      "https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2023-08-27, 02:41:10",
-      "https://news.ycombinator.com/item?id=37278991"
-    ],
-    [
-      "Two Erlang patterns I love",
-      "http://blog.syncpup.com/posts/two-erlang-patterns-i-love.html"
-    ]
-  ],
-  [
-    [
       "2023-08-27, 00:51:13",
       "https://news.ycombinator.com/item?id=37278345"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-08-26, 21:43:44",
-      "https://news.ycombinator.com/item?id=37277191"
-    ],
-    [
-      "COBOL gets new life in the cloud thanks to Watsonx and AI",
-      "https://www.silverliningsinfo.com/apps-services/ibm-watsonx-brings-cobol-cloud-era-ai"
-    ]
-  ],
-  [
-    [
       "2023-08-26, 21:00:09",
       "https://news.ycombinator.com/item?id=37276864"
     ],
@@ -167,16 +177,6 @@
     [
       "Show HN: TRS-GPT – ChatGPT client/server for the TRS-80",
       "https://druid77.github.io/trs-gpt/"
-    ]
-  ],
-  [
-    [
-      "2023-08-26, 17:27:28",
-      "https://news.ycombinator.com/item?id=37274871"
-    ],
-    [
-      "Slack’s migration to a cellular architecture",
-      "https://slack.engineering/slacks-migration-to-a-cellular-architecture/"
     ]
   ],
   [
