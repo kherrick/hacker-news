@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-27, 09:42:34](https://news.ycombinator.com/item?id=37281000) - [Why WhatsApp Was Able to Support 50B Messages a Day with 32 Engineers](https://newsletter.systemdesign.one/p/whatsapp-engineering)
+* [2023-08-27, 09:26:58](https://news.ycombinator.com/item?id=37280933) - [Ask HN: Underrated music, books, movies?](https://news.ycombinator.com/item?id=37280933)
 * [2023-08-27, 07:42:53](https://news.ycombinator.com/item?id=37280338) - [OpenWrt Security Advisories](https://openwrt.org/advisory/start)
 * [2023-08-27, 05:51:10](https://news.ycombinator.com/item?id=37279773) - [Ubus (OpenWrt micro bus architecture)](https://openwrt.org/docs/techref/ubus)
 * [2023-08-27, 05:09:05](https://news.ycombinator.com/item?id=37279589) - [Interactive Hiragana chart with audio](https://japanesecomplete.com/hiragana-chart)
@@ -22,7 +22,7 @@
 * [2023-08-26, 09:15:59](https://news.ycombinator.com/item?id=37271001) - [Portable OpenBSD vi for Unix systems](https://github.com/johnsonjh/OpenVi)
 * [2023-08-26, 09:11:16](https://news.ycombinator.com/item?id=37270979) - [Bare Metal Space Invaders](https://blog.fponzi.me/2023-08-13-bare-metal-space-invaders.html)
 * [2023-08-26, 08:52:16](https://news.ycombinator.com/item?id=37270908) - [Entropy in Engineering Processes](https://logical.li/blog/entropy/)
-* [2023-08-26, 07:09:19](https://news.ycombinator.com/item?id=37270500) - [Misidentifying Talent](https://danluu.com/talent/)
+* [2023-08-26, 07:09:19](https://news.ycombinator.com/item?id=37270500) - [Misidentifying Talent (2022)](https://danluu.com/talent/)
 * [2023-08-26, 05:20:45](https://news.ycombinator.com/item?id=37270138) - [The Arab Dagger](https://www.fordemilitaryantiques.com/articles/2020/9/8/the-arab-dagger)
 * [2023-08-26, 01:45:37](https://news.ycombinator.com/item?id=37269173) - [Porting Stunt Car Racer to the Commodore Plus/4](https://cobbpg.github.io/articles/stunt-car-racer-plus4-port.html)
 * [2023-08-26, 00:49:30](https://news.ycombinator.com/item?id=37268845) - [Scene Archetypes: The ones making Amiga 500 fun](https://www.datagubbe.se/scenearch/)
