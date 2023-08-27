@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-08-27, 04:58:44",
+      "https://news.ycombinator.com/item?id=37279543"
+    ],
+    [
+      "Bugzilla Celebrates 25 Years with Special Announcements",
+      "https://www.bugzilla.org/blog/2023/08/26/bugzilla-celebrates-25-years/"
+    ]
+  ],
+  [
+    [
       "2023-08-27, 03:55:28",
       "https://news.ycombinator.com/item?id=37279318"
     ],
     [
       "Firefox 1.0 New York Times Ad (2004)",
       "https://www.scribd.com/document/393519605/Firefox-1-0-New-York-Times-Ad"
+    ]
+  ],
+  [
+    [
+      "2023-08-27, 03:13:13",
+      "https://news.ycombinator.com/item?id=37279109"
+    ],
+    [
+      "Block YouTube Ads on AppleTV by Decrypting and Stripping Ads from Profobuf",
+      "https://ericdraken.com/pfsense-decrypt-ad-traffic/"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Cody – The AI that knows your entire codebase",
       "https://about.sourcegraph.com/cody"
-    ]
-  ],
-  [
-    [
-      "2023-08-26, 23:05:43",
-      "https://news.ycombinator.com/item?id=37277718"
-    ],
-    [
-      "Martin Miller talks about his mother, Alice Miller (2015)",
-      "https://www.contemporarypsychotherapy.org/volume-7-issue-1-summer-2015/interview-martin-miller/"
     ]
   ],
   [
@@ -181,26 +191,6 @@
   ],
   [
     [
-      "2023-08-26, 13:52:38",
-      "https://news.ycombinator.com/item?id=37272929"
-    ],
-    [
-      "Let maintainers be maintainers",
-      "https://graydon2.dreamwidth.org/306832.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-26, 13:39:28",
-      "https://news.ycombinator.com/item?id=37272801"
-    ],
-    [
-      "Armed with traffic cones, protesters are immobilizing driverless cars",
-      "https://www.npr.org/2023/08/26/1195695051/driverless-cars-san-francisco-waymo-cruise"
-    ]
-  ],
-  [
-    [
       "2023-08-26, 13:21:16",
       "https://news.ycombinator.com/item?id=37272652"
     ],
@@ -257,6 +247,16 @@
     [
       "Porting Stunt Car Racer to the Commodore Plus/4",
       "https://cobbpg.github.io/articles/stunt-car-racer-plus4-port.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-26, 00:49:30",
+      "https://news.ycombinator.com/item?id=37268845"
+    ],
+    [
+      "Scene Archetypes: The ones making Amiga 500 fun",
+      "https://www.datagubbe.se/scenearch/"
     ]
   ],
   [
