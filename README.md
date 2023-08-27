@@ -4,7 +4,6 @@
 * [2023-08-27, 12:05:31](https://news.ycombinator.com/item?id=37281840) - [Social media does not cause depression in children](https://norwegianscitechnews.com/2023/08/social-media-does-not-cause-depression-in-children/)
 * [2023-08-27, 11:53:56](https://news.ycombinator.com/item?id=37281745) - [Overthewire.org](https://overthewire.org/wargames/)
 * [2023-08-27, 11:46:30](https://news.ycombinator.com/item?id=37281692) - [WTFPython: Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython)
-* [2023-08-27, 11:38:44](https://news.ycombinator.com/item?id=37281641) - [Ask HN: Best WFH Purchases?](https://news.ycombinator.com/item?id=37281641)
 * [2023-08-27, 11:37:42](https://news.ycombinator.com/item?id=37281630) - [Waku: The Minimalist React Framework with Server Components](https://waku.gg/)
 * [2023-08-27, 10:58:48](https://news.ycombinator.com/item?id=37281406) - [Things that didn't age well](https://mastodon.social/@damianogerli/110677869558047692)
 * [2023-08-27, 09:58:21](https://news.ycombinator.com/item?id=37281093) - [Seasonal malaria vaccine-drug combo sees dramatic reductions at 5-year mark](https://www.lshtm.ac.uk/newsevents/news/2023/seasonal-malaria-vaccine-drug-combination-sees-dramatic-reductions-five-year)
@@ -28,6 +27,7 @@
 * [2023-08-26, 05:10:18](https://news.ycombinator.com/item?id=37270108) - [Reasons to replace advanced search with filters](https://adamsilver.io/blog/7-reasons-to-replace-advanced-search-with-filters-so-users-can-easily-find-what-they-need/)
 * [2023-08-26, 00:49:30](https://news.ycombinator.com/item?id=37268845) - [Scene Archetypes: The ones making Amiga 500 fun](https://www.datagubbe.se/scenearch/)
 * [2023-08-26, 00:17:12](https://news.ycombinator.com/item?id=37268638) - [The hierarchy of innovation (2012)](https://www.roughtype.com/?p=1603)
+* [2023-08-24, 17:48:45](https://news.ycombinator.com/item?id=37252225) - [How to Program in Your Sleep](https://bellmar.medium.com/how-to-program-in-your-sleep-58f448a90afb)
 * [2023-08-24, 12:15:05](https://news.ycombinator.com/item?id=37247906) - [Ancient Culture Torched Its Own Homes Every 60 Years](https://daily.jstor.org/burned-house-mystery-why-did-this-ancient-culture-torch-its-own-homes-every-60-years/)
 * [2023-08-24, 11:02:22](https://news.ycombinator.com/item?id=37247413) - [The rise of pity marketing](https://www.newstatesman.com/culture/social-media/2023/08/rise-pity-marketing-edinburgh-fringe)
 
