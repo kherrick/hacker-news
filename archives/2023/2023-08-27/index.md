@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-27](index.md)
 
 * [2023-08-27, 12:18:27](https://news.ycombinator.com/item?id=37281928) - [Apple to Limit iPhone 15 USB-C Cables to USB 2.0 Speeds: Report](https://www.extremetech.com/mobile/apple-to-limit-iphone-15-usb-c-cables-to-usb-20-speeds-report)
+* [2023-08-27, 12:14:22](https://news.ycombinator.com/item?id=37281902) - [Moderation Strike: Results of Negotiations](https://meta.stackexchange.com/questions/391847/moderation-strike-results-of-negotiations)
 * [2023-08-27, 12:05:31](https://news.ycombinator.com/item?id=37281840) - [Social media does not cause depression in children](https://norwegianscitechnews.com/2023/08/social-media-does-not-cause-depression-in-children/)
 * [2023-08-27, 11:53:56](https://news.ycombinator.com/item?id=37281745) - [Overthewire.org](https://overthewire.org/wargames/)
 * [2023-08-27, 11:46:30](https://news.ycombinator.com/item?id=37281692) - [WTFPython: Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython)

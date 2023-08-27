@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-27, 12:18:27](https://news.ycombinator.com/item?id=37281928) - [Apple to Limit iPhone 15 USB-C Cables to USB 2.0 Speeds: Report](https://www.extremetech.com/mobile/apple-to-limit-iphone-15-usb-c-cables-to-usb-20-speeds-report)
+* [2023-08-27, 12:14:22](https://news.ycombinator.com/item?id=37281902) - [Moderation Strike: Results of Negotiations](https://meta.stackexchange.com/questions/391847/moderation-strike-results-of-negotiations)
 * [2023-08-27, 12:05:31](https://news.ycombinator.com/item?id=37281840) - [Social media does not cause depression in children](https://norwegianscitechnews.com/2023/08/social-media-does-not-cause-depression-in-children/)
 * [2023-08-27, 11:53:56](https://news.ycombinator.com/item?id=37281745) - [Overthewire.org](https://overthewire.org/wargames/)
 * [2023-08-27, 11:46:30](https://news.ycombinator.com/item?id=37281692) - [WTFPython: Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython)
@@ -11,7 +12,6 @@
 * [2023-08-27, 09:46:50](https://news.ycombinator.com/item?id=37281020) - [Anti-AI Hype LLM Reading List](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
 * [2023-08-27, 09:36:34](https://news.ycombinator.com/item?id=37280972) - [Prisoners of Google Android Development](https://solutional.ee/blog/2023-08-26-Prisoners-of-Google-Android-Development.html)
 * [2023-08-27, 09:18:03](https://news.ycombinator.com/item?id=37280878) - [i386 in Ubuntu won't die](https://popey.com/blog/2023/08/i386-in-ubuntu-wont-die/)
-* [2023-08-27, 07:42:53](https://news.ycombinator.com/item?id=37280338) - [OpenWrt Security Advisories](https://openwrt.org/advisory/start)
 * [2023-08-27, 05:51:10](https://news.ycombinator.com/item?id=37279773) - [Ubus (OpenWrt micro bus architecture)](https://openwrt.org/docs/techref/ubus)
 * [2023-08-27, 05:09:05](https://news.ycombinator.com/item?id=37279589) - [Interactive Hiragana chart with audio](https://japanesecomplete.com/hiragana-chart)
 * [2023-08-27, 04:58:44](https://news.ycombinator.com/item?id=37279543) - [Happy 25th Birthday to Bugzilla](https://www.bugzilla.org/blog/2023/08/26/bugzilla-celebrates-25-years/)
