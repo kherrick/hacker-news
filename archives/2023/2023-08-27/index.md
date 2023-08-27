@@ -6,6 +6,7 @@
 
 * [2023-08-27, 09:42:34](https://news.ycombinator.com/item?id=37281000) - [Why WhatsApp Was Able to Support 50B Messages a Day with 32 Engineers](https://newsletter.systemdesign.one/p/whatsapp-engineering)
 * [2023-08-27, 09:26:58](https://news.ycombinator.com/item?id=37280933) - [Ask HN: Underrated music, books, movies?](https://news.ycombinator.com/item?id=37280933)
+* [2023-08-27, 09:18:03](https://news.ycombinator.com/item?id=37280878) - [i386 in Ubuntu Won't Die](https://popey.com/blog/2023/08/i386-in-ubuntu-wont-die/)
 * [2023-08-27, 07:42:53](https://news.ycombinator.com/item?id=37280338) - [OpenWrt Security Advisories](https://openwrt.org/advisory/start)
 * [2023-08-27, 07:38:09](https://news.ycombinator.com/item?id=37280309) - [Who is driving Germany's far-right poll surge?](https://adamtooze.substack.com/p/chartbook-235-who-is-driving-germanys)
 * [2023-08-27, 05:51:10](https://news.ycombinator.com/item?id=37279773) - [Ubus (OpenWrt micro bus architecture)](https://openwrt.org/docs/techref/ubus)

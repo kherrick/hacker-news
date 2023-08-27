@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-27, 09:26:58](https://news.ycombinator.com/item?id=37280933) - [Ask HN: Underrated music, books, movies?](https://news.ycombinator.com/item?id=37280933)
+* [2023-08-27, 09:18:03](https://news.ycombinator.com/item?id=37280878) - [i386 in Ubuntu Won't Die](https://popey.com/blog/2023/08/i386-in-ubuntu-wont-die/)
 * [2023-08-27, 07:42:53](https://news.ycombinator.com/item?id=37280338) - [OpenWrt Security Advisories](https://openwrt.org/advisory/start)
 * [2023-08-27, 05:51:10](https://news.ycombinator.com/item?id=37279773) - [Ubus (OpenWrt micro bus architecture)](https://openwrt.org/docs/techref/ubus)
 * [2023-08-27, 05:09:05](https://news.ycombinator.com/item?id=37279589) - [Interactive Hiragana chart with audio](https://japanesecomplete.com/hiragana-chart)
@@ -16,7 +17,6 @@
 * [2023-08-26, 20:20:07](https://news.ycombinator.com/item?id=37276502) - [Thoughts about what worked in math circles](https://buttondown.email/j2kun/archive/thoughts-about-what-worked-in-math-circles/)
 * [2023-08-26, 20:11:42](https://news.ycombinator.com/item?id=37276424) - [Gojekyll: A fast, partially compatible Go clone of Jekyll](https://github.com/osteele/gojekyll)
 * [2023-08-26, 19:27:26](https://news.ycombinator.com/item?id=37276026) - [Show HN: TRS-GPT – ChatGPT client/server for the TRS-80](https://druid77.github.io/trs-gpt/)
-* [2023-08-26, 18:44:05](https://news.ycombinator.com/item?id=37275676) - [Historic algorithms help unlock shortest-path problem breakthrough](https://cacm.acm.org/news/275684-historic-algorithms-help-unlock-shortest-path-problem-breakthrough/fulltext)
 * [2023-08-26, 17:27:28](https://news.ycombinator.com/item?id=37274871) - [Slack’s migration to a cellular architecture](https://slack.engineering/slacks-migration-to-a-cellular-architecture/)
 * [2023-08-26, 13:21:16](https://news.ycombinator.com/item?id=37272652) - [E-ink is so Retropunk](https://rmkit.dev/eink-is-so-retropunk/)
 * [2023-08-26, 09:15:59](https://news.ycombinator.com/item?id=37271001) - [Portable OpenBSD vi for Unix systems](https://github.com/johnsonjh/OpenVi)
@@ -27,8 +27,8 @@
 * [2023-08-26, 01:45:37](https://news.ycombinator.com/item?id=37269173) - [Porting Stunt Car Racer to the Commodore Plus/4](https://cobbpg.github.io/articles/stunt-car-racer-plus4-port.html)
 * [2023-08-26, 00:49:30](https://news.ycombinator.com/item?id=37268845) - [Scene Archetypes: The ones making Amiga 500 fun](https://www.datagubbe.se/scenearch/)
 * [2023-08-26, 00:17:12](https://news.ycombinator.com/item?id=37268638) - [The hierarchy of innovation (2012)](https://www.roughtype.com/?p=1603)
-* [2023-08-24, 21:56:35](https://news.ycombinator.com/item?id=37255069) - [How Tycho Brahe really died (2001)](https://www.ips-planetarium.org/page/a_jacobsen2001)
 * [2023-08-24, 17:48:45](https://news.ycombinator.com/item?id=37252225) - [How to Program in Your Sleep](https://bellmar.medium.com/how-to-program-in-your-sleep-58f448a90afb)
+* [2023-08-24, 12:15:05](https://news.ycombinator.com/item?id=37247906) - [Ancient Culture Torched Its Own Homes Every 60 Years](https://daily.jstor.org/burned-house-mystery-why-did-this-ancient-culture-torch-its-own-homes-every-60-years/)
 * [2023-08-24, 11:02:22](https://news.ycombinator.com/item?id=37247413) - [The rise of pity marketing](https://www.newstatesman.com/culture/social-media/2023/08/rise-pity-marketing-edinburgh-fringe)
 
 ## [Archives](archives/index.md)

@@ -85,6 +85,7 @@
 * [2023-08-24, 12:29:47](https://news.ycombinator.com/item?id=37248013) - [Visualizing Neural Networks](https://photonlines.substack.com/p/grokking-neural-networks)
 * [2023-08-24, 12:28:55](https://news.ycombinator.com/item?id=37248002) - [Ask HN: Where do I find good code to read?](https://news.ycombinator.com/item?id=37248002)
 * [2023-08-24, 12:20:54](https://news.ycombinator.com/item?id=37247945) - [Hydra: Column-Oriented Postgres](https://www.hydra.so/)
+* [2023-08-24, 12:15:05](https://news.ycombinator.com/item?id=37247906) - [Ancient Culture Torched Its Own Homes Every 60 Years](https://daily.jstor.org/burned-house-mystery-why-did-this-ancient-culture-torch-its-own-homes-every-60-years/)
 * [2023-08-24, 12:10:41](https://news.ycombinator.com/item?id=37247879) - [Learn the basics of digital electronics with the hands-on Logic Lab kit](http://www.technoblogy.com/show?4FFY)
 * [2023-08-24, 11:55:04](https://news.ycombinator.com/item?id=37247767) - [Show HN: Open-source obsidian.md sync server](https://news.ycombinator.com/item?id=37247767)
 * [2023-08-24, 11:54:02](https://news.ycombinator.com/item?id=37247763) - [STM32MP2: ST’s first Linux capable 64-bit MPU with NPU, GPU and TSN](https://blog.st.com/stm32mp2/)
