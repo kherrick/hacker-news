@@ -24,6 +24,7 @@
 * [2023-08-27, 17:26:42](https://news.ycombinator.com/item?id=37284764) - [Study: Carbon offsets aren’t doing their job, overstate impact](https://arstechnica.com/science/2023/08/study-carbon-offsets-arent-doing-their-job-overstate-impact/)
 * [2023-08-27, 17:11:12](https://news.ycombinator.com/item?id=37284610) - [Allie Beth Allman, the Queen of Highland Park](https://www.texasmonthly.com/news-politics/allie-beth-allman-queen-of-highland-park-homes/)
 * [2023-08-27, 17:00:40](https://news.ycombinator.com/item?id=37284488) - [Infiuss Health (YC S21) Is Hiring a Data Analyst](https://news.ycombinator.com/item?id=37284488)
+* [2023-08-27, 17:00:31](https://news.ycombinator.com/item?id=37284487) - [111,111.1 meters is reliably 1 degree of latitude](https://gis.stackexchange.com/a/2964/5599)
 * [2023-08-27, 16:56:44](https://news.ycombinator.com/item?id=37284452) - [Phrack Magazine](http://phrack.org/)
 * [2023-08-27, 16:55:10](https://news.ycombinator.com/item?id=37284437) - [Expert Opinions I Agree with (That Most People Don’t)](https://www.scotthyoung.com/blog/2023/08/08/expert-opinions/)
 * [2023-08-27, 16:28:32](https://news.ycombinator.com/item?id=37284189) - [How to Setup a Plex Media Server on Raspberry Pi](https://www.makeuseof.com/tag/raspberry-pi-plex-media-server/)
