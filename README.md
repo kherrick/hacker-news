@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-27, 13:11:18](https://news.ycombinator.com/item?id=37282385) - [Python Type Hints – *args and **kwargs](https://adamj.eu/tech/2021/05/11/python-type-hints-args-and-kwargs/)
+* [2023-08-27, 13:17:08](https://news.ycombinator.com/item?id=37282432) - [Anger found to be the primary driver of climate activism](https://phys.org/news/2023-08-anger-primary-driver-climate.html)
+* [2023-08-27, 13:11:18](https://news.ycombinator.com/item?id=37282385) - [Python Type Hints – *args and **kwargs (2021)](https://adamj.eu/tech/2021/05/11/python-type-hints-args-and-kwargs/)
+* [2023-08-27, 13:06:24](https://news.ycombinator.com/item?id=37282341) - [WordPress introduces 100 year domain registrations](https://wordpress.com/blog/2023/08/25/introducing-the-100-year-plan/)
 * [2023-08-27, 12:14:22](https://news.ycombinator.com/item?id=37281902) - [Moderation Strike: Results of Negotiations](https://meta.stackexchange.com/questions/391847/moderation-strike-results-of-negotiations)
 * [2023-08-27, 12:06:17](https://news.ycombinator.com/item?id=37281851) - [IBM analog AI chip could give the Nvidia H100 a run for its money](https://www.techradar.com/pro/nvidia-beware-ibm-has-a-new-analog-ai-chip-that-could-give-the-h100-a-run-for-its-money)
 * [2023-08-27, 12:05:31](https://news.ycombinator.com/item?id=37281840) - [Social media does not cause depression in children](https://norwegianscitechnews.com/2023/08/social-media-does-not-cause-depression-in-children/)
@@ -13,7 +15,6 @@
 * [2023-08-27, 09:36:34](https://news.ycombinator.com/item?id=37280972) - [Prisoners of Google Android Development](https://solutional.ee/blog/2023-08-26-Prisoners-of-Google-Android-Development.html)
 * [2023-08-27, 09:18:03](https://news.ycombinator.com/item?id=37280878) - [i386 in Ubuntu won't die](https://popey.com/blog/2023/08/i386-in-ubuntu-wont-die/)
 * [2023-08-27, 05:51:10](https://news.ycombinator.com/item?id=37279773) - [Ubus (OpenWrt micro bus architecture)](https://openwrt.org/docs/techref/ubus)
-* [2023-08-27, 05:09:05](https://news.ycombinator.com/item?id=37279589) - [Interactive Hiragana chart with audio](https://japanesecomplete.com/hiragana-chart)
 * [2023-08-27, 04:58:44](https://news.ycombinator.com/item?id=37279543) - [Happy 25th Birthday to Bugzilla](https://www.bugzilla.org/blog/2023/08/26/bugzilla-celebrates-25-years/)
 * [2023-08-27, 03:13:13](https://news.ycombinator.com/item?id=37279109) - [Block YouTube ads on AppleTV by decrypting and stripping ads from Profobuf](https://ericdraken.com/pfsense-decrypt-ad-traffic/)
 * [2023-08-27, 00:51:13](https://news.ycombinator.com/item?id=37278345) - [If you're interested in eye-tracking, I'm interested in funding you](https://twitter.com/paulg/status/1695596853864321055)
@@ -27,7 +28,6 @@
 * [2023-08-26, 05:10:18](https://news.ycombinator.com/item?id=37270108) - [Reasons to replace advanced search with filters](https://adamsilver.io/blog/7-reasons-to-replace-advanced-search-with-filters-so-users-can-easily-find-what-they-need/)
 * [2023-08-26, 01:51:35](https://news.ycombinator.com/item?id=37269211) - [Initial impressions of Microsoft Olive](https://zhenghaotan.com/blog/initial-impressions-of-msft-olive)
 * [2023-08-26, 00:49:30](https://news.ycombinator.com/item?id=37268845) - [Scene Archetypes: The ones making Amiga 500 fun](https://www.datagubbe.se/scenearch/)
-* [2023-08-24, 17:48:45](https://news.ycombinator.com/item?id=37252225) - [How to Program in Your Sleep](https://bellmar.medium.com/how-to-program-in-your-sleep-58f448a90afb)
 * [2023-08-24, 12:15:05](https://news.ycombinator.com/item?id=37247906) - [Ancient Culture Torched Its Own Homes Every 60 Years](https://daily.jstor.org/burned-house-mystery-why-did-this-ancient-culture-torch-its-own-homes-every-60-years/)
 * [2023-08-24, 11:02:22](https://news.ycombinator.com/item?id=37247413) - [The rise of pity marketing](https://www.newstatesman.com/culture/social-media/2023/08/rise-pity-marketing-edinburgh-fringe)
 

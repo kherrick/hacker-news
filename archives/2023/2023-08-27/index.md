@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-27](index.md)
 
+* [2023-08-27, 13:17:08](https://news.ycombinator.com/item?id=37282432) - [Anger found to be the primary driver of climate activism](https://phys.org/news/2023-08-anger-primary-driver-climate.html)
 * [2023-08-27, 13:11:18](https://news.ycombinator.com/item?id=37282385) - [Python Type Hints – *args and **kwargs](https://adamj.eu/tech/2021/05/11/python-type-hints-args-and-kwargs/)
+* [2023-08-27, 13:06:24](https://news.ycombinator.com/item?id=37282341) - [WordPress introduces 100 year domain registrations](https://wordpress.com/blog/2023/08/25/introducing-the-100-year-plan/)
 * [2023-08-27, 12:18:27](https://news.ycombinator.com/item?id=37281928) - [Apple to Limit iPhone 15 USB-C Cables to USB 2.0 Speeds: Report](https://www.extremetech.com/mobile/apple-to-limit-iphone-15-usb-c-cables-to-usb-20-speeds-report)
 * [2023-08-27, 12:14:22](https://news.ycombinator.com/item?id=37281902) - [Moderation Strike: Results of Negotiations](https://meta.stackexchange.com/questions/391847/moderation-strike-results-of-negotiations)
 * [2023-08-27, 12:06:17](https://news.ycombinator.com/item?id=37281851) - [IBM analog AI chip could give the Nvidia H100 a run for its money](https://www.techradar.com/pro/nvidia-beware-ibm-has-a-new-analog-ai-chip-that-could-give-the-h100-a-run-for-its-money)
