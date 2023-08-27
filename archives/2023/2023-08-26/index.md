@@ -12,6 +12,7 @@
 * [2023-08-26, 22:36:33](https://news.ycombinator.com/item?id=37277522) - [My husband just retired. I’m scared to death of running out of money](https://www.washingtonpost.com/business/2023/08/25/fear-running-out-of-money-retirement/)
 * [2023-08-26, 22:25:27](https://news.ycombinator.com/item?id=37277457) - [Show HN: Investor Radar, the Ultimate Database of Investors for Your Startup](https://www.investorradar.io/)
 * [2023-08-26, 22:01:38](https://news.ycombinator.com/item?id=37277311) - [A clock where the time is in a song title](https://pudding.cool/projects/clocks/)
+* [2023-08-26, 21:54:49](https://news.ycombinator.com/item?id=37277265) - [Manuscript Textiles: Weaving the Thread of Faith](https://blogs.bl.uk/asian-and-african/2023/07/manuscript-textiles-weaving-the-thread-of-faith.html)
 * [2023-08-26, 21:43:44](https://news.ycombinator.com/item?id=37277191) - [COBOL gets new life in the cloud thanks to Watsonx and AI](https://www.silverliningsinfo.com/apps-services/ibm-watsonx-brings-cobol-cloud-era-ai)
 * [2023-08-26, 21:42:50](https://news.ycombinator.com/item?id=37277183) - [East German Balloon Escape](https://en.wikipedia.org/wiki/East_German_balloon_escape)
 * [2023-08-26, 21:36:42](https://news.ycombinator.com/item?id=37277134) - [The Rival to the Panama Canal That Was Never Built](https://www.bbc.com/future/article/20230825-the-rival-to-the-panama-canal-that-was-never-built)
