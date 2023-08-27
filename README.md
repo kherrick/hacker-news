@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-27, 19:18:55](https://news.ycombinator.com/item?id=37285758) - [Ukraine uses Australian drones made of cardboard](https://aircosmosinternational.com/article/ukraine-uses-australian-drones-made-of-cardboard-3664)
 * [2023-08-27, 19:06:58](https://news.ycombinator.com/item?id=37285653) - [Python proposal (inspired by Lua)](https://hachyderm.io/@nedbat/110962461917632486)
 * [2023-08-27, 18:37:10](https://news.ycombinator.com/item?id=37285413) - [Classical music is for everyone](https://www.firstthings.com/web-exclusives/2023/08/classical-music-is-for-everyone)
 * [2023-08-27, 18:35:14](https://news.ycombinator.com/item?id=37285396) - [PMET: Precise Model Editing in a Transformer](https://arxiv.org/abs/2308.08742)
@@ -14,7 +15,6 @@
 * [2023-08-27, 13:11:18](https://news.ycombinator.com/item?id=37282385) - [Python Type Hints – *args and **kwargs (2021)](https://adamj.eu/tech/2021/05/11/python-type-hints-args-and-kwargs/)
 * [2023-08-27, 11:53:56](https://news.ycombinator.com/item?id=37281745) - [Overthewire.org](https://overthewire.org/wargames/)
 * [2023-08-27, 11:46:30](https://news.ycombinator.com/item?id=37281692) - [WTFPython: Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython)
-* [2023-08-27, 11:37:42](https://news.ycombinator.com/item?id=37281630) - [Waku: The Minimalist React Framework with Server Components](https://waku.gg/)
 * [2023-08-27, 11:00:09](https://news.ycombinator.com/item?id=37281411) - [Show HN: Graphweaver – Instant GraphQL API on Postgres, MySQL, SQLite and More](https://github.com/exogee-technology/graphweaver)
 * [2023-08-27, 09:52:06](https://news.ycombinator.com/item?id=37281060) - [Lie still in bed](https://ognjen.io/lie-still-in-bed/)
 * [2023-08-27, 09:36:34](https://news.ycombinator.com/item?id=37280972) - [Prisoners of Google Android Development](https://solutional.ee/blog/2023-08-26-Prisoners-of-Google-Android-Development.html)
