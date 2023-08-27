@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-27, 03:55:28](https://news.ycombinator.com/item?id=37279318) - [Firefox 1.0 New York Times Ad](https://www.scribd.com/document/393519605/Firefox-1-0-New-York-Times-Ad)
+* [2023-08-27, 03:55:28](https://news.ycombinator.com/item?id=37279318) - [Firefox 1.0 New York Times Ad (2004)](https://www.scribd.com/document/393519605/Firefox-1-0-New-York-Times-Ad)
 * [2023-08-27, 02:22:09](https://news.ycombinator.com/item?id=37278883) - [Scenes from the Solbourne Computer corporate video, March 1992](http://oldvcr.blogspot.com/2023/08/scenes-from-solbourne-computer.html)
 * [2023-08-27, 00:59:07](https://news.ycombinator.com/item?id=37278390) - [Linux 6.5 Last Minute Fixes a Performance Regression, 34% Drop in a Benchmark](https://www.phoronix.com/news/Linux-6.5-x86-Fix-34p-Drop)
 * [2023-08-27, 00:51:13](https://news.ycombinator.com/item?id=37278345) - [If you're interested in eye-tracking, I'm interested in funding you](https://twitter.com/paulg/status/1695596853864321055)
@@ -12,7 +12,7 @@
 * [2023-08-26, 21:00:09](https://news.ycombinator.com/item?id=37276864) - [Freshpaint (YC S19) is hiring engineers to build a HIPAA compliant data platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-08-26, 20:20:07](https://news.ycombinator.com/item?id=37276502) - [Thoughts about what worked in math circles](https://buttondown.email/j2kun/archive/thoughts-about-what-worked-in-math-circles/)
 * [2023-08-26, 20:11:42](https://news.ycombinator.com/item?id=37276424) - [Gojekyll: A fast, partially compatible Go clone of Jekyll](https://github.com/osteele/gojekyll)
-* [2023-08-26, 19:27:26](https://news.ycombinator.com/item?id=37276026) - [Show HN: TRS-GPT - ChatGPT client/server for the TRS-80](https://druid77.github.io/trs-gpt/)
+* [2023-08-26, 19:27:26](https://news.ycombinator.com/item?id=37276026) - [Show HN: TRS-GPT – ChatGPT client/server for the TRS-80](https://druid77.github.io/trs-gpt/)
 * [2023-08-26, 18:44:05](https://news.ycombinator.com/item?id=37275676) - [Historic algorithms help unlock shortest-path problem breakthrough](https://cacm.acm.org/news/275684-historic-algorithms-help-unlock-shortest-path-problem-breakthrough/fulltext)
 * [2023-08-26, 18:28:46](https://news.ycombinator.com/item?id=37275526) - [Modernizing compiler design for Carbon's toolchain [video]](https://www.youtube.com/watch?v=ZI198eFghJk)
 * [2023-08-26, 17:27:28](https://news.ycombinator.com/item?id=37274871) - [Slack’s migration to a cellular architecture](https://slack.engineering/slacks-migration-to-a-cellular-architecture/)
