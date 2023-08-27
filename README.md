@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-27, 07:42:53](https://news.ycombinator.com/item?id=37280338) - [OpenWrt Security Advisories](https://openwrt.org/advisory/start)
 * [2023-08-27, 07:38:09](https://news.ycombinator.com/item?id=37280309) - [Who is driving Germany's far-right poll surge?](https://adamtooze.substack.com/p/chartbook-235-who-is-driving-germanys)
 * [2023-08-27, 05:51:10](https://news.ycombinator.com/item?id=37279773) - [Ubus (OpenWrt micro bus architecture)](https://openwrt.org/docs/techref/ubus)
 * [2023-08-27, 05:09:05](https://news.ycombinator.com/item?id=37279589) - [Interactive Hiragana chart with audio](https://japanesecomplete.com/hiragana-chart)
@@ -11,7 +12,6 @@
 * [2023-08-27, 00:51:13](https://news.ycombinator.com/item?id=37278345) - [If you're interested in eye-tracking, I'm interested in funding you](https://twitter.com/paulg/status/1695596853864321055)
 * [2023-08-26, 23:36:32](https://news.ycombinator.com/item?id=37277907) - [Linux on a Commodore 64](https://github.com/onnokort/semu-c64)
 * [2023-08-26, 23:06:09](https://news.ycombinator.com/item?id=37277722) - [Cody – The AI that knows your entire codebase](https://about.sourcegraph.com/cody)
-* [2023-08-26, 22:01:38](https://news.ycombinator.com/item?id=37277311) - [A clock where the time is in a song title](https://pudding.cool/projects/clocks/)
 * [2023-08-26, 21:43:44](https://news.ycombinator.com/item?id=37277191) - [COBOL gets new life in the cloud thanks to Watsonx and AI](https://www.silverliningsinfo.com/apps-services/ibm-watsonx-brings-cobol-cloud-era-ai)
 * [2023-08-26, 21:00:09](https://news.ycombinator.com/item?id=37276864) - [Freshpaint (YC S19) is hiring engineers to build a HIPAA compliant data platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-08-26, 20:20:07](https://news.ycombinator.com/item?id=37276502) - [Thoughts about what worked in math circles](https://buttondown.email/j2kun/archive/thoughts-about-what-worked-in-math-circles/)
