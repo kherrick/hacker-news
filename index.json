@@ -1,32 +1,12 @@
 [
   [
     [
-      "2023-08-27, 19:44:05",
-      "https://news.ycombinator.com/item?id=37285944"
-    ],
-    [
-      "X officially takes on LinkedIn with its new job posting feature",
-      "https://bgr.com/business/x-officially-takes-on-linkedin-with-its-new-job-posting-feature/"
-    ]
-  ],
-  [
-    [
       "2023-08-27, 19:06:58",
       "https://news.ycombinator.com/item?id=37285653"
     ],
     [
       "Python proposal (inspired by Lua)",
       "https://hachyderm.io/@nedbat/110962461917632486"
-    ]
-  ],
-  [
-    [
-      "2023-08-27, 19:03:00",
-      "https://news.ycombinator.com/item?id=37285622"
-    ],
-    [
-      "Scientists in Antarctica say they were left alone against sexual harassers",
-      "https://abcnews.go.com/Technology/wireStory/women-working-antarctica-left-fend-sexual-harassers-102596137"
     ]
   ],
   [
@@ -115,8 +95,18 @@
       "https://news.ycombinator.com/item?id=37282469"
     ],
     [
-      "AnnaArchivist/annas-archive",
+      "The code for Anna's Archive",
       "https://annas-software.org/AnnaArchivist/annas-archive"
+    ]
+  ],
+  [
+    [
+      "2023-08-27, 13:20:13",
+      "https://news.ycombinator.com/item?id=37282450"
+    ],
+    [
+      "Demodulation of the 5G NR Downlink",
+      "https://destevez.net/2023/08/demodulation-of-the-5g-nr-downlink/"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Block YouTube ads on AppleTV by decrypting and stripping ads from Profobuf",
       "https://ericdraken.com/pfsense-decrypt-ad-traffic/"
+    ]
+  ],
+  [
+    [
+      "2023-08-26, 21:54:49",
+      "https://news.ycombinator.com/item?id=37277265"
+    ],
+    [
+      "Manuscript Textiles: Weaving the Thread of Faith",
+      "https://blogs.bl.uk/asian-and-african/2023/07/manuscript-textiles-weaving-the-thread-of-faith.html"
     ]
   ],
   [
