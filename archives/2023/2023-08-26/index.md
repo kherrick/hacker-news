@@ -87,6 +87,7 @@
 * [2023-08-26, 05:33:27](https://news.ycombinator.com/item?id=37270190) - [Skiplagging: The travel hack hated by airlines is now the subject of a lawsuit](https://www.abc.net.au/news/2023-08-26/skiplagging-is-the-travel-hack-that-airlines-hate/102742604)
 * [2023-08-26, 05:28:21](https://news.ycombinator.com/item?id=37270171) - [Llama2.c L2E LLM – Multi OS Binary and Unikernel Release](https://github.com/trholding/llama2.c/releases/tag/L2E_v0.1)
 * [2023-08-26, 05:20:45](https://news.ycombinator.com/item?id=37270138) - [The Arab Dagger](https://www.fordemilitaryantiques.com/articles/2020/9/8/the-arab-dagger)
+* [2023-08-26, 05:10:18](https://news.ycombinator.com/item?id=37270108) - [Reasons to replace advanced search with filters](https://adamsilver.io/blog/7-reasons-to-replace-advanced-search-with-filters-so-users-can-easily-find-what-they-need/)
 * [2023-08-26, 04:53:34](https://news.ycombinator.com/item?id=37270048) - [This week in KDE: Double-click by default](https://pointieststick.com/2023/08/18/this-week-in-kde-double-click-by-default/)
 * [2023-08-26, 04:18:22](https://news.ycombinator.com/item?id=37269909) - [Companies That Union-Bust Must Now Automatically Recognize Union, NLRB Rules](https://www.vice.com/en/article/dy3xej/companies-that-union-bust-must-now-automatically-recognize-union-nlrb-rules)
 * [2023-08-26, 02:33:52](https://news.ycombinator.com/item?id=37269425) - [FFmpeg Explorer](https://ffmpeg.lav.io)
