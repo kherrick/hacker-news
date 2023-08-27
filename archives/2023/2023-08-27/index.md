@@ -17,6 +17,7 @@
 * [2023-08-27, 13:54:46](https://news.ycombinator.com/item?id=37282744) - [Remote Work Is Here to Stay, and Employers Aren’t Happy About It](https://www.investopedia.com/remote-work-is-here-to-stay-and-employers-arent-happy-about-it-7814388)
 * [2023-08-27, 13:41:42](https://news.ycombinator.com/item?id=37282642) - [Silicon Valley “Pronatalists” Oppose Remote Work Despite Boosted Fertility Rates](https://www.stoppopulationdecline.org/silicon-valley-pronatalists-against-wfh/)
 * [2023-08-27, 13:21:34](https://news.ycombinator.com/item?id=37282465) - [France to spend €200M on destroying excess wine as demand falls](https://www.theguardian.com/world/2023/aug/25/france-fund-destroying-excess-wine-demand-falls)
+* [2023-08-27, 13:20:13](https://news.ycombinator.com/item?id=37282450) - [Demodulation of the 5G NR Downlink](https://destevez.net/2023/08/demodulation-of-the-5g-nr-downlink/)
 * [2023-08-27, 13:17:08](https://news.ycombinator.com/item?id=37282432) - [Anger found to be the primary driver of climate activism](https://phys.org/news/2023-08-anger-primary-driver-climate.html)
 * [2023-08-27, 13:11:18](https://news.ycombinator.com/item?id=37282385) - [Python Type Hints – *args and **kwargs](https://adamj.eu/tech/2021/05/11/python-type-hints-args-and-kwargs/)
 * [2023-08-27, 13:06:24](https://news.ycombinator.com/item?id=37282341) - [WordPress introduces 100 year domain registrations](https://wordpress.com/blog/2023/08/25/introducing-the-100-year-plan/)

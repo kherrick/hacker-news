@@ -9,6 +9,7 @@
 * [2023-08-27, 15:04:04](https://news.ycombinator.com/item?id=37283375) - [Some of the error messages produced by Apple's MPW C compiler (2006)](https://www.cs.cmu.edu/~jasonh/personal/humor/compile.html)
 * [2023-08-27, 14:43:25](https://news.ycombinator.com/item?id=37283191) - [Sal Khan: How AI could save (not destroy) education [video]](https://www.youtube.com/watch?v=hJP5GqnTrNo)
 * [2023-08-27, 14:35:22](https://news.ycombinator.com/item?id=37283128) - [Mother is arrested in Bangladesh after son in US criticizes government online](https://www.nbcnews.com/news/asian-america/mother-arrested-bangladesh-son-us-criticizes-government-online-rcna101392)
+* [2023-08-27, 13:20:13](https://news.ycombinator.com/item?id=37282450) - [Demodulation of the 5G NR Downlink](https://destevez.net/2023/08/demodulation-of-the-5g-nr-downlink/)
 * [2023-08-27, 13:11:18](https://news.ycombinator.com/item?id=37282385) - [Python Type Hints – *args and **kwargs (2021)](https://adamj.eu/tech/2021/05/11/python-type-hints-args-and-kwargs/)
 * [2023-08-27, 13:06:24](https://news.ycombinator.com/item?id=37282341) - [WordPress introduces 100 year domain registrations](https://wordpress.com/blog/2023/08/25/introducing-the-100-year-plan/)
 * [2023-08-27, 11:53:56](https://news.ycombinator.com/item?id=37281745) - [Overthewire.org](https://overthewire.org/wargames/)
@@ -28,7 +29,6 @@
 * [2023-08-26, 09:15:59](https://news.ycombinator.com/item?id=37271001) - [Portable OpenBSD vi for Unix systems](https://github.com/johnsonjh/OpenVi)
 * [2023-08-26, 05:10:18](https://news.ycombinator.com/item?id=37270108) - [Reasons to replace advanced search with filters](https://adamsilver.io/blog/7-reasons-to-replace-advanced-search-with-filters-so-users-can-easily-find-what-they-need/)
 * [2023-08-26, 00:49:30](https://news.ycombinator.com/item?id=37268845) - [Scene Archetypes: The ones making Amiga 500 fun](https://www.datagubbe.se/scenearch/)
-* [2023-08-24, 23:12:09](https://news.ycombinator.com/item?id=37255741) - [In This Essay I Will: On Distraction](https://www.theparisreview.org/blog/2023/08/23/in-this-essay-i-will-on-distraction/)
 * [2023-08-24, 12:15:05](https://news.ycombinator.com/item?id=37247906) - [Ancient Culture Torched Its Own Homes Every 60 Years](https://daily.jstor.org/burned-house-mystery-why-did-this-ancient-culture-torch-its-own-homes-every-60-years/)
 
 ## [Archives](archives/index.md)
