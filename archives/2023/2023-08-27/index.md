@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-27](index.md)
 
 * [2023-08-27, 09:58:21](https://news.ycombinator.com/item?id=37281093) - [Seasonal malaria vaccine-drug combo sees dramatic reductions at 5-year mark](https://www.lshtm.ac.uk/newsevents/news/2023/seasonal-malaria-vaccine-drug-combination-sees-dramatic-reductions-five-year)
+* [2023-08-27, 09:52:06](https://news.ycombinator.com/item?id=37281060) - [Lie Still in Bed](https://ognjen.io/lie-still-in-bed/)
 * [2023-08-27, 09:42:34](https://news.ycombinator.com/item?id=37281000) - [Why WhatsApp Was Able to Support 50B Messages a Day with 32 Engineers](https://newsletter.systemdesign.one/p/whatsapp-engineering)
 * [2023-08-27, 09:26:58](https://news.ycombinator.com/item?id=37280933) - [Ask HN: Underrated music, books, movies?](https://news.ycombinator.com/item?id=37280933)
 * [2023-08-27, 09:18:03](https://news.ycombinator.com/item?id=37280878) - [i386 in Ubuntu Won't Die](https://popey.com/blog/2023/08/i386-in-ubuntu-wont-die/)

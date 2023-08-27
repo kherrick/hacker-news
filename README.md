@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-27, 09:58:21](https://news.ycombinator.com/item?id=37281093) - [Seasonal malaria vaccine-drug combo sees dramatic reductions at 5-year mark](https://www.lshtm.ac.uk/newsevents/news/2023/seasonal-malaria-vaccine-drug-combination-sees-dramatic-reductions-five-year)
+* [2023-08-27, 09:52:06](https://news.ycombinator.com/item?id=37281060) - [Lie Still in Bed](https://ognjen.io/lie-still-in-bed/)
 * [2023-08-27, 09:26:58](https://news.ycombinator.com/item?id=37280933) - [Ask HN: Underrated music, books, movies?](https://news.ycombinator.com/item?id=37280933)
 * [2023-08-27, 09:18:03](https://news.ycombinator.com/item?id=37280878) - [i386 in Ubuntu Won't Die](https://popey.com/blog/2023/08/i386-in-ubuntu-wont-die/)
 * [2023-08-27, 07:42:53](https://news.ycombinator.com/item?id=37280338) - [OpenWrt Security Advisories](https://openwrt.org/advisory/start)
@@ -20,7 +21,6 @@
 * [2023-08-26, 17:27:28](https://news.ycombinator.com/item?id=37274871) - [Slack’s migration to a cellular architecture](https://slack.engineering/slacks-migration-to-a-cellular-architecture/)
 * [2023-08-26, 13:21:16](https://news.ycombinator.com/item?id=37272652) - [E-ink is so Retropunk](https://rmkit.dev/eink-is-so-retropunk/)
 * [2023-08-26, 09:15:59](https://news.ycombinator.com/item?id=37271001) - [Portable OpenBSD vi for Unix systems](https://github.com/johnsonjh/OpenVi)
-* [2023-08-26, 09:11:16](https://news.ycombinator.com/item?id=37270979) - [Bare Metal Space Invaders](https://blog.fponzi.me/2023-08-13-bare-metal-space-invaders.html)
 * [2023-08-26, 08:52:16](https://news.ycombinator.com/item?id=37270908) - [Entropy in Engineering Processes](https://logical.li/blog/entropy/)
 * [2023-08-26, 07:09:19](https://news.ycombinator.com/item?id=37270500) - [Misidentifying Talent (2022)](https://danluu.com/talent/)
 * [2023-08-26, 05:20:45](https://news.ycombinator.com/item?id=37270138) - [The Arab Dagger](https://www.fordemilitaryantiques.com/articles/2020/9/8/the-arab-dagger)
