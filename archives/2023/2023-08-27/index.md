@@ -6,10 +6,12 @@
 
 * [2023-08-27, 21:00:42](https://news.ycombinator.com/item?id=37286598) - [Meticulous (YC S21) Is Hiring #3 Engineer to build future of software](https://news.ycombinator.com/item?id=37286598)
 * [2023-08-27, 20:30:50](https://news.ycombinator.com/item?id=37286363) - [OnlyFans: Who is Leonid Radvinsky, the elusive owner of a porn empire?](https://www.bbc.com/news/world-66615008)
+* [2023-08-27, 20:20:40](https://news.ycombinator.com/item?id=37286283) - [Labor unions are pushing hard for better pay and hours – and winning](https://www.cnbc.com/2023/08/27/labor-unions-winning-better-pay-hours.html)
 * [2023-08-27, 19:58:20](https://news.ycombinator.com/item?id=37286075) - [Can Vines Speed Urban Cooling? – UC Davis](https://www.ucdavis.edu/climate/what-can-i-do/blog/can-vines-speed-urban-cooling)
 * [2023-08-27, 19:44:05](https://news.ycombinator.com/item?id=37285944) - [X officially takes on LinkedIn with its new job posting feature](https://bgr.com/business/x-officially-takes-on-linkedin-with-its-new-job-posting-feature/)
 * [2023-08-27, 19:25:45](https://news.ycombinator.com/item?id=37285804) - [A company backed by SV has purchased 52,000 acres to build a new city](https://www.businessinsider.com/flannery-silicon-valley-billionaires-build-new-california-city-solano-county-2023-8)
 * [2023-08-27, 19:18:55](https://news.ycombinator.com/item?id=37285758) - [Ukraine uses Australian drones made of cardboard](https://aircosmosinternational.com/article/ukraine-uses-australian-drones-made-of-cardboard-3664)
+* [2023-08-27, 19:16:56](https://news.ycombinator.com/item?id=37285744) - [The Pitting PowerBook (2005)](https://news.e-scribe.com/misc/aluminum/)
 * [2023-08-27, 19:06:58](https://news.ycombinator.com/item?id=37285653) - [Python Proposal (Inspired by Lua)](https://hachyderm.io/@nedbat/110962461917632486)
 * [2023-08-27, 19:03:00](https://news.ycombinator.com/item?id=37285622) - [Scientists in Antarctica say they were left alone against sexual harassers](https://abcnews.go.com/Technology/wireStory/women-working-antarctica-left-fend-sexual-harassers-102596137)
 * [2023-08-27, 18:37:10](https://news.ycombinator.com/item?id=37285413) - [Classical Music Is for Everyone](https://www.firstthings.com/web-exclusives/2023/08/classical-music-is-for-everyone)
