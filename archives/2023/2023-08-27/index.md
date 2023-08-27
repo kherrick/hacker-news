@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-27](index.md)
 
+* [2023-08-27, 21:59:04](https://news.ycombinator.com/item?id=37287013) - [IBM introduces enterprise magnetic tape drive that holds 50TB per cartridge](https://www.techspot.com/news/99928-ibm-introduces-enterprise-magnetic-tape-drive-holds-50tb.html)
 * [2023-08-27, 21:37:49](https://news.ycombinator.com/item?id=37286860) - [Scientists find way to wipe a cell's memory to reprogram it as a stem cell](https://www.uwa.edu.au/news/Article/2023/August/Scientists-find-way-to-wipe-a-cells-memory-to-reprogram-it-as-a-stem-cell)
 * [2023-08-27, 21:05:33](https://news.ycombinator.com/item?id=37286636) - [Seven Sins of Writing](https://www.hamilton.edu/academics/centers/writing/seven-sins-of-writing)
 * [2023-08-27, 21:00:42](https://news.ycombinator.com/item?id=37286598) - [Meticulous (YC S21) Is Hiring #3 Engineer to build future of software](https://news.ycombinator.com/item?id=37286598)
