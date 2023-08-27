@@ -95,5 +95,6 @@
 * [2023-08-26, 00:50:30](https://news.ycombinator.com/item?id=37268852) - [Atop an Underwater Hot Spring, an ‘Octopus Garden’ Thrives](https://www.nytimes.com/2023/08/23/science/biology-octopus-garden.html)
 * [2023-08-26, 00:49:30](https://news.ycombinator.com/item?id=37268845) - [Scene Archetypes: The ones making Amiga 500 fun](https://www.datagubbe.se/scenearch/)
 * [2023-08-26, 00:33:06](https://news.ycombinator.com/item?id=37268738) - [Training immune cells to remove ‘trash’ helps resolve lung inflammation](https://today.uic.edu/immune-cells-acute-lung-injury/)
+* [2023-08-26, 00:17:12](https://news.ycombinator.com/item?id=37268638) - [The hierarchy of innovation (2012)](https://www.roughtype.com/?p=1603)
 * [2023-08-26, 00:14:14](https://news.ycombinator.com/item?id=37268616) - [Sidewalk Garden: a 800 square feet garden in San Francisco's Mission District](https://zachklein.com/Sidewalk+Garden)
 * [2023-08-26, 00:13:27](https://news.ycombinator.com/item?id=37268610) - [Deep Neural Nets: 33 years ago and 33 years from now](http://karpathy.github.io/2022/03/14/lecun1989/)
