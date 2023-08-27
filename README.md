@@ -17,7 +17,7 @@
 * [2023-08-27, 11:37:42](https://news.ycombinator.com/item?id=37281630) - [Waku: The Minimalist React Framework with Server Components](https://waku.gg/)
 * [2023-08-27, 11:00:09](https://news.ycombinator.com/item?id=37281411) - [Show HN: Graphweaver – Instant GraphQL API on Postgres, MySQL, SQLite and More](https://github.com/exogee-technology/graphweaver)
 * [2023-08-27, 09:52:06](https://news.ycombinator.com/item?id=37281060) - [Lie still in bed](https://ognjen.io/lie-still-in-bed/)
-* [2023-08-27, 09:36:34](https://news.ycombinator.com/item?id=37280972) - [Prisoners of Google Android Development](https://solutional.ee/blog/2023-08-26-Prisoners-of-Google-Android-Development.html)
+* [2023-08-27, 09:36:34](https://news.ycombinator.com/item?id=37280972) - [Prisoners of Google Android development](https://solutional.ee/blog/2023-08-26-Prisoners-of-Google-Android-Development.html)
 * [2023-08-27, 09:18:03](https://news.ycombinator.com/item?id=37280878) - [i386 in Ubuntu won't die](https://popey.com/blog/2023/08/i386-in-ubuntu-wont-die/)
 * [2023-08-27, 05:51:10](https://news.ycombinator.com/item?id=37279773) - [Ubus (OpenWrt micro bus architecture)](https://openwrt.org/docs/techref/ubus)
 * [2023-08-27, 03:13:13](https://news.ycombinator.com/item?id=37279109) - [Block YouTube ads on AppleTV by decrypting and stripping ads from Profobuf](https://ericdraken.com/pfsense-decrypt-ad-traffic/)
