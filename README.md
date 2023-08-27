@@ -8,7 +8,7 @@
 * [2023-08-27, 04:58:44](https://news.ycombinator.com/item?id=37279543) - [Happy 25th Birthday to Bugzilla](https://www.bugzilla.org/blog/2023/08/26/bugzilla-celebrates-25-years/)
 * [2023-08-27, 03:55:28](https://news.ycombinator.com/item?id=37279318) - [Firefox 1.0 New York Times ad (2004)](https://www.scribd.com/document/393519605/Firefox-1-0-New-York-Times-Ad)
 * [2023-08-27, 03:13:13](https://news.ycombinator.com/item?id=37279109) - [Block YouTube ads on AppleTV by decrypting and stripping ads from Profobuf](https://ericdraken.com/pfsense-decrypt-ad-traffic/)
-* [2023-08-27, 00:59:07](https://news.ycombinator.com/item?id=37278390) - [Linux 6.5 Last Minute Fixes a Performance Regression, 34% Drop in a Benchmark](https://www.phoronix.com/news/Linux-6.5-x86-Fix-34p-Drop)
+* [2023-08-27, 02:41:10](https://news.ycombinator.com/item?id=37278991) - [Two Erlang patterns I love](http://blog.syncpup.com/posts/two-erlang-patterns-i-love.html)
 * [2023-08-27, 00:51:13](https://news.ycombinator.com/item?id=37278345) - [If you're interested in eye-tracking, I'm interested in funding you](https://twitter.com/paulg/status/1695596853864321055)
 * [2023-08-26, 23:36:32](https://news.ycombinator.com/item?id=37277907) - [Linux on a Commodore 64](https://github.com/onnokort/semu-c64)
 * [2023-08-26, 23:06:09](https://news.ycombinator.com/item?id=37277722) - [Cody – The AI that knows your entire codebase](https://about.sourcegraph.com/cody)
