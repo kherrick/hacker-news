@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-27](index.md)
 
+* [2023-08-27, 17:00:40](https://news.ycombinator.com/item?id=37284488) - [Infiuss Health (YC S21) Is Hiring a Data Analyst](https://news.ycombinator.com/item?id=37284488)
 * [2023-08-27, 15:54:16](https://news.ycombinator.com/item?id=37283860) - [I had no idea that one company basically owns every font](https://thehustle.co/where-do-fonts-come-from/)
 * [2023-08-27, 15:46:47](https://news.ycombinator.com/item?id=37283776) - [Ham radio enthusiasts vs. High-frequency traders: A battle for the airwaves](https://www.wsj.com/business/entrepreneurship/ham-radio-enthusiasts-vs-high-frequency-traders-a-battle-for-the-airwaves-6d6c5c1f)
 * [2023-08-27, 15:33:58](https://news.ycombinator.com/item?id=37283636) - [I Can Eat Glass](https://en.wikipedia.org/wiki/I_Can_Eat_Glass)
