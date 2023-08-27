@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-27](index.md)
 
+* [2023-08-27, 18:37:10](https://news.ycombinator.com/item?id=37285413) - [Classical Music Is for Everyone](https://www.firstthings.com/web-exclusives/2023/08/classical-music-is-for-everyone)
+* [2023-08-27, 18:35:14](https://news.ycombinator.com/item?id=37285396) - [PMET: Precise Model Editing in a Transformer](https://arxiv.org/abs/2308.08742)
+* [2023-08-27, 18:05:17](https://news.ycombinator.com/item?id=37285156) - [A forum engine written in Assembly](https://asm32.info/fossil/asmbb/index)
 * [2023-08-27, 18:03:12](https://news.ycombinator.com/item?id=37285131) - [The world’s last internet cafes](https://restofworld.org/2023/internet-cafes/)
 * [2023-08-27, 17:26:42](https://news.ycombinator.com/item?id=37284764) - [Study: Carbon offsets aren’t doing their job, overstate impact](https://arstechnica.com/science/2023/08/study-carbon-offsets-arent-doing-their-job-overstate-impact/)
 * [2023-08-27, 17:00:40](https://news.ycombinator.com/item?id=37284488) - [Infiuss Health (YC S21) Is Hiring a Data Analyst](https://news.ycombinator.com/item?id=37284488)
@@ -20,6 +23,7 @@
 * [2023-08-27, 14:28:40](https://news.ycombinator.com/item?id=37283060) - [Consumers complaining on X targeted by scammers after verification changes](https://www.theguardian.com/technology/2023/aug/27/consumers-complaining-x-targeted-scammers-verification-changes-twitter)
 * [2023-08-27, 13:54:46](https://news.ycombinator.com/item?id=37282744) - [Remote Work Is Here to Stay, and Employers Aren’t Happy About It](https://www.investopedia.com/remote-work-is-here-to-stay-and-employers-arent-happy-about-it-7814388)
 * [2023-08-27, 13:41:42](https://news.ycombinator.com/item?id=37282642) - [Silicon Valley “Pronatalists” Oppose Remote Work Despite Boosted Fertility Rates](https://www.stoppopulationdecline.org/silicon-valley-pronatalists-against-wfh/)
+* [2023-08-27, 13:21:53](https://news.ycombinator.com/item?id=37282469) - [AnnaArchivist/annas-archive](https://annas-software.org/AnnaArchivist/annas-archive)
 * [2023-08-27, 13:21:34](https://news.ycombinator.com/item?id=37282465) - [France to spend €200M on destroying excess wine as demand falls](https://www.theguardian.com/world/2023/aug/25/france-fund-destroying-excess-wine-demand-falls)
 * [2023-08-27, 13:20:13](https://news.ycombinator.com/item?id=37282450) - [Demodulation of the 5G NR Downlink](https://destevez.net/2023/08/demodulation-of-the-5g-nr-downlink/)
 * [2023-08-27, 13:17:08](https://news.ycombinator.com/item?id=37282432) - [Anger found to be the primary driver of climate activism](https://phys.org/news/2023-08-anger-primary-driver-climate.html)
