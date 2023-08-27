@@ -1,12 +1,52 @@
 [
   [
     [
+      "2023-08-27, 00:26:01",
+      "https://news.ycombinator.com/item?id=37278189"
+    ],
+    [
+      "It’s Not Intelligent If It Always Halts: A Critical Perspective On AI Approaches",
+      "https://www.lifeiscomputation.com/it-is-not-intelligent-if-it-always-halts/"
+    ]
+  ],
+  [
+    [
       "2023-08-26, 23:36:32",
       "https://news.ycombinator.com/item?id=37277907"
     ],
     [
-      "Linux on a Commodore 64!",
+      "Linux on a Commodore 64",
       "https://github.com/onnokort/semu-c64"
+    ]
+  ],
+  [
+    [
+      "2023-08-26, 23:17:37",
+      "https://news.ycombinator.com/item?id=37277810"
+    ],
+    [
+      "History and Development of the 567 Series GM Locomotive Engine (1951) [pdf]",
+      "https://utahrails.net/pdf/EMD_567_History_and_Development_1951.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-08-26, 23:17:20",
+      "https://news.ycombinator.com/item?id=37277809"
+    ],
+    [
+      "Illegal shooting along power lines a leading cause of death for bald eagles",
+      "https://www.usgs.gov/news/national-news-release/illegal-shooting-along-power-lines-a-leading-cause-death-bald-eagles"
+    ]
+  ],
+  [
+    [
+      "2023-08-26, 22:25:27",
+      "https://news.ycombinator.com/item?id=37277457"
+    ],
+    [
+      "Show HN: Investor Radar, the Ultimate Database of Investors for Your Startup",
+      "https://www.investorradar.io/"
     ]
   ],
   [
@@ -41,16 +81,6 @@
   ],
   [
     [
-      "2023-08-26, 20:18:24",
-      "https://news.ycombinator.com/item?id=37276485"
-    ],
-    [
-      "Attention didn’t collapse. It was stolen (2022)",
-      "https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media"
-    ]
-  ],
-  [
-    [
       "2023-08-26, 20:11:42",
       "https://news.ycombinator.com/item?id=37276424"
     ],
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2023-08-26, 18:55:43",
-      "https://news.ycombinator.com/item?id=37275785"
-    ],
-    [
-      "The challenge of designing nuclear waste warning markers to last 10k years",
-      "https://nightingaledvs.com/design-warning-for-nuclear-waste/"
-    ]
-  ],
-  [
-    [
       "2023-08-26, 18:44:05",
       "https://news.ycombinator.com/item?id=37275676"
     ],
@@ -107,16 +127,6 @@
     [
       "Modernizing compiler design for Carbon's toolchain [video]",
       "https://www.youtube.com/watch?v=ZI198eFghJk"
-    ]
-  ],
-  [
-    [
-      "2023-08-26, 18:17:16",
-      "https://news.ycombinator.com/item?id=37275401"
-    ],
-    [
-      "A video of the transformation of a single cell into a salamander",
-      "https://pmdvod.nationalgeographic.com/NG_Video/772/995/1442844739770_1550184269599_1442865731523_mp4_video_1024x576_1632000_primary_audio_eng_3.mp4"
     ]
   ],
   [
@@ -201,26 +211,6 @@
   ],
   [
     [
-      "2023-08-26, 12:37:18",
-      "https://news.ycombinator.com/item?id=37272298"
-    ],
-    [
-      "A venture-backed startup has quietly bought more than 80 mom-and-pop shops",
-      "https://techcrunch.com/2023/08/24/this-venture-backed-startup-has-quietly-bought-more-than-80-mom-and-pop-shops/"
-    ]
-  ],
-  [
-    [
-      "2023-08-26, 11:12:30",
-      "https://news.ycombinator.com/item?id=37271715"
-    ],
-    [
-      "Power Consumption of JPEG, WebP, and AVIF",
-      "https://fershad.com/writing/power-consumption-jpeg-webp-and-avif/"
-    ]
-  ],
-  [
-    [
       "2023-08-26, 10:54:39",
       "https://news.ycombinator.com/item?id=37271611"
     ],
@@ -231,22 +221,22 @@
   ],
   [
     [
-      "2023-08-26, 10:01:54",
-      "https://news.ycombinator.com/item?id=37271269"
-    ],
-    [
-      "NES Emulator in Common Lisp (2016)",
-      "https://github.com/samanthadoran/potential-disco"
-    ]
-  ],
-  [
-    [
       "2023-08-26, 05:53:32",
       "https://news.ycombinator.com/item?id=37270252"
     ],
     [
       "Introducing Coalton to lispers without a background in ML-like languages",
       "https://gist.github.com/digikar99/b76964faf17b3a86739c001dc1b14a39"
+    ]
+  ],
+  [
+    [
+      "2023-08-26, 05:20:45",
+      "https://news.ycombinator.com/item?id=37270138"
+    ],
+    [
+      "The Arab Dagger",
+      "https://www.fordemilitaryantiques.com/articles/2020/9/8/the-arab-dagger"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "How was the size of Earth first measured? (2015)",
       "https://stardate.org/astro-guide/faqs/how-was-size-earth-first-measured"
+    ]
+  ],
+  [
+    [
+      "2023-08-24, 11:02:22",
+      "https://news.ycombinator.com/item?id=37247413"
+    ],
+    [
+      "The Rise of Pity Marketing",
+      "https://www.newstatesman.com/culture/social-media/2023/08/rise-pity-marketing-edinburgh-fringe"
     ]
   ]
 ]
