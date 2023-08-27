@@ -22,6 +22,7 @@
 * [2023-08-27, 19:03:00](https://news.ycombinator.com/item?id=37285622) - [Scientists in Antarctica say they were left alone against sexual harassers](https://abcnews.go.com/Technology/wireStory/women-working-antarctica-left-fend-sexual-harassers-102596137)
 * [2023-08-27, 18:37:10](https://news.ycombinator.com/item?id=37285413) - [Classical Music Is for Everyone](https://www.firstthings.com/web-exclusives/2023/08/classical-music-is-for-everyone)
 * [2023-08-27, 18:35:14](https://news.ycombinator.com/item?id=37285396) - [PMET: Precise Model Editing in a Transformer](https://arxiv.org/abs/2308.08742)
+* [2023-08-27, 18:16:41](https://news.ycombinator.com/item?id=37285237) - [Grades of Quality of Panama Hats](https://www.brentblack.com/panama-hat-grades-explained.html)
 * [2023-08-27, 18:05:17](https://news.ycombinator.com/item?id=37285156) - [A forum engine written in Assembly](https://asm32.info/fossil/asmbb/index)
 * [2023-08-27, 18:03:12](https://news.ycombinator.com/item?id=37285131) - [The world’s last internet cafes](https://restofworld.org/2023/internet-cafes/)
 * [2023-08-27, 17:39:34](https://news.ycombinator.com/item?id=37284885) - [American megachurches are thriving by poaching flocks](https://www.economist.com/united-states/2023/08/24/american-megachurches-are-thriving-by-poaching-flocks)
