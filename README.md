@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-27, 18:03:12](https://news.ycombinator.com/item?id=37285131) - [The world’s last internet cafes](https://restofworld.org/2023/internet-cafes/)
+* [2023-08-27, 17:26:42](https://news.ycombinator.com/item?id=37284764) - [Study: Carbon offsets aren’t doing their job, overstate impact](https://arstechnica.com/science/2023/08/study-carbon-offsets-arent-doing-their-job-overstate-impact/)
 * [2023-08-27, 17:00:40](https://news.ycombinator.com/item?id=37284488) - [Infiuss Health (YC S21) is hiring a data analyst](https://news.ycombinator.com/item?id=37284488)
 * [2023-08-27, 16:56:44](https://news.ycombinator.com/item?id=37284452) - [Phrack Magazine](http://phrack.org/)
 * [2023-08-27, 16:28:32](https://news.ycombinator.com/item?id=37284189) - [How to Setup a Plex Media Server on Raspberry Pi](https://www.makeuseof.com/tag/raspberry-pi-plex-media-server/)
@@ -28,7 +29,6 @@
 * [2023-08-26, 05:10:18](https://news.ycombinator.com/item?id=37270108) - [Reasons to replace advanced search with filters](https://adamsilver.io/blog/7-reasons-to-replace-advanced-search-with-filters-so-users-can-easily-find-what-they-need/)
 * [2023-08-26, 04:45:08](https://news.ycombinator.com/item?id=37270007) - [Exploring the eerie beauty of Japan's abandoned villages](https://www.japantimes.co.jp/news/2023/08/18/japan/society/exploring-the-eerie-beauty-of-japans-abandoned-villages/)
 * [2023-08-26, 00:49:30](https://news.ycombinator.com/item?id=37268845) - [Scene Archetypes: The ones making Amiga 500 fun](https://www.datagubbe.se/scenearch/)
-* [2023-08-24, 23:12:09](https://news.ycombinator.com/item?id=37255741) - [In This Essay I Will: On Distraction](https://www.theparisreview.org/blog/2023/08/23/in-this-essay-i-will-on-distraction/)
 * [2023-08-24, 12:15:05](https://news.ycombinator.com/item?id=37247906) - [Ancient Culture Torched Its Own Homes Every 60 Years](https://daily.jstor.org/burned-house-mystery-why-did-this-ancient-culture-torch-its-own-homes-every-60-years/)
 
 ## [Archives](archives/index.md)
