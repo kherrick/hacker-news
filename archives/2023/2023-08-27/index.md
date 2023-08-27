@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-08-27](index.md)
 
+* [2023-08-27, 11:46:30](https://news.ycombinator.com/item?id=37281692) - [WTFPython: Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython)
+* [2023-08-27, 10:58:48](https://news.ycombinator.com/item?id=37281406) - [Things that didn't age well](https://mastodon.social/@damianogerli/110677869558047692)
 * [2023-08-27, 09:58:21](https://news.ycombinator.com/item?id=37281093) - [Seasonal malaria vaccine-drug combo sees dramatic reductions at 5-year mark](https://www.lshtm.ac.uk/newsevents/news/2023/seasonal-malaria-vaccine-drug-combination-sees-dramatic-reductions-five-year)
 * [2023-08-27, 09:52:06](https://news.ycombinator.com/item?id=37281060) - [Lie Still in Bed](https://ognjen.io/lie-still-in-bed/)
+* [2023-08-27, 09:46:50](https://news.ycombinator.com/item?id=37281020) - [Anti-AI Hype LLM Reading List](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
 * [2023-08-27, 09:42:34](https://news.ycombinator.com/item?id=37281000) - [Why WhatsApp Was Able to Support 50B Messages a Day with 32 Engineers](https://newsletter.systemdesign.one/p/whatsapp-engineering)
 * [2023-08-27, 09:36:34](https://news.ycombinator.com/item?id=37280972) - [Prisoners of Google Android Development](https://solutional.ee/blog/2023-08-26-Prisoners-of-Google-Android-Development.html)
 * [2023-08-27, 09:26:58](https://news.ycombinator.com/item?id=37280933) - [Ask HN: Underrated music, books, movies?](https://news.ycombinator.com/item?id=37280933)
