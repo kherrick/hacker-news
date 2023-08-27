@@ -36,6 +36,7 @@
 * [2023-08-26, 17:28:10](https://news.ycombinator.com/item?id=37274882) - [Show HN: Going into Freshman Year, Figured I Should Build an Interpreter ¯\\(ツ)/¯](https://news.ycombinator.com/item?id=37274882)
 * [2023-08-26, 17:27:28](https://news.ycombinator.com/item?id=37274871) - [Slack’s Migration to a Cellular Architecture](https://slack.engineering/slacks-migration-to-a-cellular-architecture/)
 * [2023-08-26, 17:18:53](https://news.ycombinator.com/item?id=37274774) - [California deploys AI-powered wildfire detection systems](https://arstechnica.com/information-technology/2023/08/firefighters-use-ai-to-spot-wildfires-in-california/)
+* [2023-08-26, 17:02:10](https://news.ycombinator.com/item?id=37274610) - [UX design patterns for loading](https://pencilandpaper.io/articles/ux-pattern-analysis-loading-feedback/)
 * [2023-08-26, 17:01:42](https://news.ycombinator.com/item?id=37274605) - [UK's infrastructure is too expensive: Railways, Trams, and Roads all cost more](https://www.samdumitriu.com/p/britains-infrastructure-is-too-expensive)
 * [2023-08-26, 16:58:56](https://news.ycombinator.com/item?id=37274572) - [Britain’s failed experiment in boosting low-wage sectors](https://www.economist.com/britain/2023/08/24/britains-failed-experiment-in-boosting-low-wage-sectors)
 * [2023-08-26, 16:48:19](https://news.ycombinator.com/item?id=37274467) - [Yet Another VPS Benchmark – Cloudfanatic, DigitalOcean, Linode, Vultr [Aug 2023]](https://blog.aawadia.dev/2023/08/26/yabs-august-2023/)
