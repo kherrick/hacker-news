@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-27](index.md)
 
+* [2023-08-27, 21:00:42](https://news.ycombinator.com/item?id=37286598) - [Meticulous (YC S21) Is Hiring #3 Engineer to build future of software](https://news.ycombinator.com/item?id=37286598)
 * [2023-08-27, 19:44:05](https://news.ycombinator.com/item?id=37285944) - [X officially takes on LinkedIn with its new job posting feature](https://bgr.com/business/x-officially-takes-on-linkedin-with-its-new-job-posting-feature/)
 * [2023-08-27, 19:25:45](https://news.ycombinator.com/item?id=37285804) - [A company backed by SV has purchased 52,000 acres to build a new city](https://www.businessinsider.com/flannery-silicon-valley-billionaires-build-new-california-city-solano-county-2023-8)
 * [2023-08-27, 19:18:55](https://news.ycombinator.com/item?id=37285758) - [Ukraine uses Australian drones made of cardboard](https://aircosmosinternational.com/article/ukraine-uses-australian-drones-made-of-cardboard-3664)
@@ -13,6 +14,7 @@
 * [2023-08-27, 18:35:14](https://news.ycombinator.com/item?id=37285396) - [PMET: Precise Model Editing in a Transformer](https://arxiv.org/abs/2308.08742)
 * [2023-08-27, 18:05:17](https://news.ycombinator.com/item?id=37285156) - [A forum engine written in Assembly](https://asm32.info/fossil/asmbb/index)
 * [2023-08-27, 18:03:12](https://news.ycombinator.com/item?id=37285131) - [The world’s last internet cafes](https://restofworld.org/2023/internet-cafes/)
+* [2023-08-27, 17:39:34](https://news.ycombinator.com/item?id=37284885) - [American megachurches are thriving by poaching flocks](https://www.economist.com/united-states/2023/08/24/american-megachurches-are-thriving-by-poaching-flocks)
 * [2023-08-27, 17:26:42](https://news.ycombinator.com/item?id=37284764) - [Study: Carbon offsets aren’t doing their job, overstate impact](https://arstechnica.com/science/2023/08/study-carbon-offsets-arent-doing-their-job-overstate-impact/)
 * [2023-08-27, 17:00:40](https://news.ycombinator.com/item?id=37284488) - [Infiuss Health (YC S21) Is Hiring a Data Analyst](https://news.ycombinator.com/item?id=37284488)
 * [2023-08-27, 16:56:44](https://news.ycombinator.com/item?id=37284452) - [Phrack Magazine](http://phrack.org/)
