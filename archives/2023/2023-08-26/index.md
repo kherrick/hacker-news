@@ -5,7 +5,10 @@
 ### [Archives](../../index.md) for [2023-08-26](index.md)
 
 * [2023-08-26, 23:36:32](https://news.ycombinator.com/item?id=37277907) - [Linux on a Commodore 64!](https://github.com/onnokort/semu-c64)
+* [2023-08-26, 23:17:37](https://news.ycombinator.com/item?id=37277810) - [History and Development of the 567 Series GM Locomotive Engine (1951) [pdf]](https://utahrails.net/pdf/EMD_567_History_and_Development_1951.pdf)
+* [2023-08-26, 23:17:20](https://news.ycombinator.com/item?id=37277809) - [Illegal shooting along power lines a leading cause of death for bald eagles](https://www.usgs.gov/news/national-news-release/illegal-shooting-along-power-lines-a-leading-cause-death-bald-eagles)
 * [2023-08-26, 22:36:33](https://news.ycombinator.com/item?id=37277522) - [My husband just retired. I’m scared to death of running out of money](https://www.washingtonpost.com/business/2023/08/25/fear-running-out-of-money-retirement/)
+* [2023-08-26, 22:25:27](https://news.ycombinator.com/item?id=37277457) - [Show HN: Investor Radar, the Ultimate Database of Investors for Your Startup](https://www.investorradar.io/)
 * [2023-08-26, 22:01:38](https://news.ycombinator.com/item?id=37277311) - [A clock where the time is in a song title](https://pudding.cool/projects/clocks/)
 * [2023-08-26, 21:42:50](https://news.ycombinator.com/item?id=37277183) - [East German Balloon Escape](https://en.wikipedia.org/wiki/East_German_balloon_escape)
 * [2023-08-26, 21:36:42](https://news.ycombinator.com/item?id=37277134) - [The Rival to the Panama Canal That Was Never Built](https://www.bbc.com/future/article/20230825-the-rival-to-the-panama-canal-that-was-never-built)
@@ -75,6 +78,7 @@
 * [2023-08-26, 05:53:32](https://news.ycombinator.com/item?id=37270252) - [Introducing Coalton to lispers without a background in ML-like languages](https://gist.github.com/digikar99/b76964faf17b3a86739c001dc1b14a39)
 * [2023-08-26, 05:33:27](https://news.ycombinator.com/item?id=37270190) - [Skiplagging: The travel hack hated by airlines is now the subject of a lawsuit](https://www.abc.net.au/news/2023-08-26/skiplagging-is-the-travel-hack-that-airlines-hate/102742604)
 * [2023-08-26, 05:28:21](https://news.ycombinator.com/item?id=37270171) - [Llama2.c L2E LLM – Multi OS Binary and Unikernel Release](https://github.com/trholding/llama2.c/releases/tag/L2E_v0.1)
+* [2023-08-26, 05:20:45](https://news.ycombinator.com/item?id=37270138) - [The Arab Dagger](https://www.fordemilitaryantiques.com/articles/2020/9/8/the-arab-dagger)
 * [2023-08-26, 04:53:34](https://news.ycombinator.com/item?id=37270048) - [This week in KDE: Double-click by default](https://pointieststick.com/2023/08/18/this-week-in-kde-double-click-by-default/)
 * [2023-08-26, 04:18:22](https://news.ycombinator.com/item?id=37269909) - [Companies That Union-Bust Must Now Automatically Recognize Union, NLRB Rules](https://www.vice.com/en/article/dy3xej/companies-that-union-bust-must-now-automatically-recognize-union-nlrb-rules)
 * [2023-08-26, 02:33:52](https://news.ycombinator.com/item?id=37269425) - [FFmpeg Explorer](https://ffmpeg.lav.io)

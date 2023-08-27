@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-08-27](index.md)
+
+* [2023-08-27, 00:26:01](https://news.ycombinator.com/item?id=37278189) - [It’s Not Intelligent If It Always Halts: A Critical Perspective On AI Approaches](https://www.lifeiscomputation.com/it-is-not-intelligent-if-it-always-halts/)
