@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-27](index.md)
 
+* [2023-08-27, 21:37:49](https://news.ycombinator.com/item?id=37286860) - [Scientists find way to wipe a cell's memory to reprogram it as a stem cell](https://www.uwa.edu.au/news/Article/2023/August/Scientists-find-way-to-wipe-a-cells-memory-to-reprogram-it-as-a-stem-cell)
+* [2023-08-27, 21:05:33](https://news.ycombinator.com/item?id=37286636) - [Seven Sins of Writing](https://www.hamilton.edu/academics/centers/writing/seven-sins-of-writing)
 * [2023-08-27, 21:00:42](https://news.ycombinator.com/item?id=37286598) - [Meticulous (YC S21) Is Hiring #3 Engineer to build future of software](https://news.ycombinator.com/item?id=37286598)
 * [2023-08-27, 20:30:50](https://news.ycombinator.com/item?id=37286363) - [OnlyFans: Who is Leonid Radvinsky, the elusive owner of a porn empire?](https://www.bbc.com/news/world-66615008)
 * [2023-08-27, 20:20:40](https://news.ycombinator.com/item?id=37286283) - [Labor unions are pushing hard for better pay and hours – and winning](https://www.cnbc.com/2023/08/27/labor-unions-winning-better-pay-hours.html)
@@ -20,6 +22,7 @@
 * [2023-08-27, 18:03:12](https://news.ycombinator.com/item?id=37285131) - [The world’s last internet cafes](https://restofworld.org/2023/internet-cafes/)
 * [2023-08-27, 17:39:34](https://news.ycombinator.com/item?id=37284885) - [American megachurches are thriving by poaching flocks](https://www.economist.com/united-states/2023/08/24/american-megachurches-are-thriving-by-poaching-flocks)
 * [2023-08-27, 17:26:42](https://news.ycombinator.com/item?id=37284764) - [Study: Carbon offsets aren’t doing their job, overstate impact](https://arstechnica.com/science/2023/08/study-carbon-offsets-arent-doing-their-job-overstate-impact/)
+* [2023-08-27, 17:11:12](https://news.ycombinator.com/item?id=37284610) - [Allie Beth Allman, the Queen of Highland Park](https://www.texasmonthly.com/news-politics/allie-beth-allman-queen-of-highland-park-homes/)
 * [2023-08-27, 17:00:40](https://news.ycombinator.com/item?id=37284488) - [Infiuss Health (YC S21) Is Hiring a Data Analyst](https://news.ycombinator.com/item?id=37284488)
 * [2023-08-27, 16:56:44](https://news.ycombinator.com/item?id=37284452) - [Phrack Magazine](http://phrack.org/)
 * [2023-08-27, 16:55:10](https://news.ycombinator.com/item?id=37284437) - [Expert Opinions I Agree with (That Most People Don’t)](https://www.scotthyoung.com/blog/2023/08/08/expert-opinions/)
