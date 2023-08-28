@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
+* [2023-08-28, 06:02:36](https://news.ycombinator.com/item?id=37290356) - [Learn GNU Awk with hundreds of examples and exercises](https://learnbyexample.github.io/learn_gnuawk/awk-introduction.html)
 * [2023-08-28, 03:23:04](https://news.ycombinator.com/item?id=37289349) - [Total data loss after botched GitOps and failed backups](https://firefish.social/notes/9iqefgi8rzfksnqc)
 * [2023-08-28, 03:02:46](https://news.ycombinator.com/item?id=37289215) - [Crumb,a New Programming Language of No Keywords, and Everything Is a Function](https://github.com/liam-ilan/crumb)
 * [2023-08-28, 02:53:38](https://news.ycombinator.com/item?id=37289151) - [Scrum is a cancer](https://twitter.com/svpino/status/1695806027256475777)

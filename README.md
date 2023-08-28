@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-28, 06:02:36](https://news.ycombinator.com/item?id=37290356) - [Learn GNU Awk with hundreds of examples and exercises](https://learnbyexample.github.io/learn_gnuawk/awk-introduction.html)
 * [2023-08-28, 03:23:04](https://news.ycombinator.com/item?id=37289349) - [Total data loss after botched GitOps and failed backups](https://firefish.social/notes/9iqefgi8rzfksnqc)
-* [2023-08-28, 02:53:38](https://news.ycombinator.com/item?id=37289151) - [Scrum is a cancer](https://twitter.com/svpino/status/1695806027256475777)
 * [2023-08-28, 02:38:40](https://news.ycombinator.com/item?id=37289067) - [West Point discovers time capsule from 1828](https://www.westpoint.edu/news/press-releases/west-point-discovers-time-capsule-monument-base)
 * [2023-08-28, 02:28:01](https://news.ycombinator.com/item?id=37288987) - [Answering ambiguous questions with a database of questions, answers, revisions](https://arxiv.org/abs/2308.08661)
 * [2023-08-28, 02:27:34](https://news.ycombinator.com/item?id=37288978) - [Evergrande shares plunge as much as 87% as trading resumes after 17 months](https://www.cnbc.com/2023/08/28/china-evergrande-shares-plunge-as-trading-resumes-trade-after-17-months.html)
