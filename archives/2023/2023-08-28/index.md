@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
+* [2023-08-28, 17:13:43](https://news.ycombinator.com/item?id=37297360) - [Charles Darwin Ate One of Everything He Discovered](https://www.thefactsite.com/charles-darwin-eating-habits/)
 * [2023-08-28, 17:00:12](https://news.ycombinator.com/item?id=37297174) - [SiPhox (YC S20) Is Hiring](https://www.ycombinator.com/companies/siphox/jobs/nFufcgs-siphox-kit-team-lead-director-level)
 * [2023-08-28, 16:36:17](https://news.ycombinator.com/item?id=37296783) - [Nvidia on the Mountaintop](https://stratechery.com/2023/nvidia-on-the-mountaintop/)
 * [2023-08-28, 16:13:47](https://news.ycombinator.com/item?id=37296401) - [Fig Has Joined AWS](https://fig.io/blog/post/fig-joins-aws)
@@ -40,6 +41,7 @@
 * [2023-08-28, 12:39:20](https://news.ycombinator.com/item?id=37293072) - [‘Oh my God’: live worm found in Australian woman’s brain in worldfirst discovery](https://www.theguardian.com/australia-news/2023/aug/28/live-worm-living-womans-brain-australia-depression-forgetfulness)
 * [2023-08-28, 12:31:21](https://news.ycombinator.com/item?id=37293002) - [Ask HN: My mother is slowly looking her eyesight, how to prepare?](https://news.ycombinator.com/item?id=37293002)
 * [2023-08-28, 12:29:37](https://news.ycombinator.com/item?id=37292985) - [Feds probing roughly 5k pilots suspected of withholding major health issues](https://www.businessinsider.com/faa-investigating-pilots-suspicion-major-health-issues-flying-veterans-benefits-2023-8)
+* [2023-08-28, 12:14:45](https://news.ycombinator.com/item?id=37292864) - [Trees guard their seeds: Unlocking the secrets of mast seeding](https://phys.org/news/2023-08-trees-seeds-secrets-mast-seeding.html)
 * [2023-08-28, 12:12:18](https://news.ycombinator.com/item?id=37292844) - [Google Gemini Eats the World](https://www.semianalysis.com/p/google-gemini-eats-the-world-gemini)
 * [2023-08-28, 11:19:10](https://news.ycombinator.com/item?id=37292379) - [How to find time to learn after work (2017)](https://www.feststelltaste.de/how-to-find-time-to-learn-after-work/)
 * [2023-08-28, 11:15:38](https://news.ycombinator.com/item?id=37292357) - [Self-driving cars less likely to detect children and people of color](https://www.businessinsider.com/self-driving-cars-less-likely-detect-kids-people-of-color-2023-8)
