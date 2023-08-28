@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-28, 02:15:44](https://news.ycombinator.com/item?id=37288889) - [The ‘Fidelity Mafia’ Behind Big Crypto](https://www.wsj.com/finance/currencies/the-fidelity-mafia-behind-big-crypto-953ad00e)
 * [2023-08-28, 01:33:24](https://news.ycombinator.com/item?id=37288627) - [Hacker Smacker: Friend/foe individual writers on Hacker News](https://github.com/samuelclay/hackersmacker)
 * [2023-08-28, 01:05:24](https://news.ycombinator.com/item?id=37288446) - [Writing Linux Modules in Ada – Part 1](http://www.nihamkin.com/2016/10/23/writing-linux-modules-in-ada-part-1/#writing-linux-modules-in-ada-part-1)
 * [2023-08-28, 00:32:34](https://news.ycombinator.com/item?id=37288208) - [Federal study links testicular cancer to ‘forever chemicals’](https://undark.org/2023/08/22/federal-study-links-testicular-cancer-to-forever-chemicals/)
@@ -17,7 +18,6 @@
 * [2023-08-27, 18:05:17](https://news.ycombinator.com/item?id=37285156) - [A forum engine written in Assembly](https://asm32.info/fossil/asmbb/index)
 * [2023-08-27, 17:00:31](https://news.ycombinator.com/item?id=37284487) - [111,111.1 meters is reliably 1 degree of latitude](https://gis.stackexchange.com/a/2964/5599)
 * [2023-08-27, 16:13:52](https://news.ycombinator.com/item?id=37284039) - [A New Ongoing Project: The Satomi/Sammy/Three Star Arrangeball](https://nicole.express/2023/arrange-all-you-want.html)
-* [2023-08-27, 15:54:16](https://news.ycombinator.com/item?id=37283860) - [Where do fonts come from? Monotype, mostly](https://thehustle.co/where-do-fonts-come-from/)
 * [2023-08-27, 15:04:04](https://news.ycombinator.com/item?id=37283375) - [Some of the error messages produced by Apple's MPW C compiler (2006)](https://www.cs.cmu.edu/~jasonh/personal/humor/compile.html)
 * [2023-08-27, 13:21:53](https://news.ycombinator.com/item?id=37282469) - [The code for Anna's Archive](https://annas-software.org/AnnaArchivist/annas-archive)
 * [2023-08-27, 13:11:18](https://news.ycombinator.com/item?id=37282385) - [Python Type Hints – *args and **kwargs (2021)](https://adamj.eu/tech/2021/05/11/python-type-hints-args-and-kwargs/)
