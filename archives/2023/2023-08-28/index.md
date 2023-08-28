@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
+* [2023-08-28, 17:46:32](https://news.ycombinator.com/item?id=37297823) - [When your classmates threaten you with felony charges](https://miles.land/posts/classmates-legal-threat-fizz-defcon/)
+* [2023-08-28, 17:40:59](https://news.ycombinator.com/item?id=37297751) - [3M is paying $5.5B to resolve 300k lawsuits over defective combat earplugs](https://qz.com/3m-is-paying-5-5-billion-to-resolve-300-000-lawsuits-o-1850780085)
+* [2023-08-28, 17:24:56](https://news.ycombinator.com/item?id=37297526) - [Aphex Twin -- at FieldDay [video]](https://www.youtube.com/watch?v=fkmo-LseN0c)
 * [2023-08-28, 17:24:40](https://news.ycombinator.com/item?id=37297520) - [‘San Francisco changed dramatically’ – Nordstrom is bailing on a flagship store](https://fortune.com/2023/08/28/nordstrom-closes-san-francisco-store-downtown-market-street-remote-work/)
 * [2023-08-28, 17:13:43](https://news.ycombinator.com/item?id=37297360) - [Charles Darwin Ate One of Everything He Discovered](https://www.thefactsite.com/charles-darwin-eating-habits/)
 * [2023-08-28, 17:09:47](https://news.ycombinator.com/item?id=37297304) - [Introducing ChatGPT Enterprise](https://openai.com/blog/introducing-chatgpt-enterprise)
