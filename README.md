@@ -12,7 +12,6 @@
 * [2023-08-28, 12:42:33](https://news.ycombinator.com/item?id=37293103) - [Tesla braces for its first trial involving Autopilot fatality](https://www.reuters.com/business/autos-transportation/tesla-braces-its-first-trial-involving-autopilot-fatality-2023-08-28/)
 * [2023-08-28, 12:39:20](https://news.ycombinator.com/item?id=37293072) - [‘Oh my God’: live worm found in Australian woman’s brain in worldfirst discovery](https://www.theguardian.com/australia-news/2023/aug/28/live-worm-living-womans-brain-australia-depression-forgetfulness)
 * [2023-08-28, 12:31:21](https://news.ycombinator.com/item?id=37293002) - [Ask HN: My mother is slowly looking her eyesight, how to prepare?](https://news.ycombinator.com/item?id=37293002)
-* [2023-08-28, 12:29:37](https://news.ycombinator.com/item?id=37292985) - [Feds probing roughly 5k pilots suspected of withholding major health issues](https://www.businessinsider.com/faa-investigating-pilots-suspicion-major-health-issues-flying-veterans-benefits-2023-8)
 * [2023-08-28, 11:19:10](https://news.ycombinator.com/item?id=37292379) - [How to find time to learn after work (2017)](https://www.feststelltaste.de/how-to-find-time-to-learn-after-work/)
 * [2023-08-28, 11:10:45](https://news.ycombinator.com/item?id=37292321) - [New Images and Video Confirm Austin-Made Tesla Model Y Has Cracked Front Casting](https://www.autoevolution.com/news/new-images-and-video-confirm-austin-made-tesla-model-y-has-cracked-front-casting-220165.html)
 * [2023-08-28, 11:06:32](https://news.ycombinator.com/item?id=37292295) - [C++ Papercuts](https://www.thecodedmessage.com/posts/c++-papercuts/)
@@ -30,6 +29,7 @@
 * [2023-08-27, 21:37:49](https://news.ycombinator.com/item?id=37286860) - [A new method to reprogram human cells to better mimic embryonic stem cells](https://www.uwa.edu.au/news/Article/2023/August/Scientists-find-way-to-wipe-a-cells-memory-to-reprogram-it-as-a-stem-cell)
 * [2023-08-27, 19:58:17](https://news.ycombinator.com/item?id=37286074) - [High-Dimensional Probability and Applications in Data Science](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html)
 * [2023-08-27, 13:05:32](https://news.ycombinator.com/item?id=37282334) - [That Old NetBSD Server, Running Since 2010](https://it-notes.dragas.net/2023/08/27/that-old-netbsd-server-running-since-2010/)
+* [2023-08-27, 04:49:58](https://news.ycombinator.com/item?id=37279509) - [Homer and His Iliad](https://www.historytoday.com/archive/review/homer-and-his-iliad-robin-lane-fox-review)
 
 ## [Archives](archives/index.md)
 
