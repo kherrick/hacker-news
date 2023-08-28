@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
+* [2023-08-28, 07:28:38](https://news.ycombinator.com/item?id=37290942) - [How to Design Programs (2023)](https://htdp.org/2023-8-14/Book/index.html)
 * [2023-08-28, 06:33:58](https://news.ycombinator.com/item?id=37290574) - [Mastercard ends Binance card partnership in latest blow to crypto giant](https://www.cnbc.com/2023/08/25/mastercard-ends-binance-card-partnership.html)
 * [2023-08-28, 06:02:36](https://news.ycombinator.com/item?id=37290356) - [Learn GNU Awk with hundreds of examples and exercises](https://learnbyexample.github.io/learn_gnuawk/awk-introduction.html)
 * [2023-08-28, 05:15:55](https://news.ycombinator.com/item?id=37290042) - [Inmos and the Transputer – Parallel Ventures](https://thechipletter.substack.com/p/inmos-and-the-transputer-part-1-parallel)
