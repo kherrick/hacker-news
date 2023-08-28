@@ -2,7 +2,6 @@
 
 * [2023-08-28, 22:37:01](https://news.ycombinator.com/item?id=37301274) - [False Canopies on Fighters Work, One Almost Killed Me](https://www.thedrive.com/the-war-zone/false-canopies-on-fighters-work-one-almost-killed-me)
 * [2023-08-28, 21:36:58](https://news.ycombinator.com/item?id=37300709) - [Water-purifying cup makes drinkable water from creeks and streams](https://cockrell.utexas.edu/news/archive/9720-water-purifying-cup-makes-drinkable-water-from-creeks-and-streams-in-minutes)
-* [2023-08-28, 21:24:37](https://news.ycombinator.com/item?id=37300579) - [Front-end is harder than Back-end](https://news.ycombinator.com/item?id=37300579)
 * [2023-08-28, 21:00:13](https://news.ycombinator.com/item?id=37300322) - [Kodable (YC IK12) is hiring a senior engineer to help us teach kids to code](https://www.indeed.com/job/senior-full-stack-engineer-c38525c084b29fa2?_gl=1*1s9dm2h*_gcl_au*NjI1Nzg0NDk2LjE2OTE0NDA1MDE.)
 * [2023-08-28, 20:27:03](https://news.ycombinator.com/item?id=37299986) - [Bioregions 2023](https://www.oneearth.org/bioregions-2023/)
 * [2023-08-28, 18:59:10](https://news.ycombinator.com/item?id=37298866) - [A JVM in Rust part 5 – Executing instructions](https://andreabergia.com/blog/2023/08/a-jvm-in-rust-part-5-executing-instructions/)
@@ -30,6 +29,7 @@
 * [2023-08-28, 04:24:54](https://news.ycombinator.com/item?id=37289756) - [Loose Lips Save Sunken Ships](https://hakaimagazine.com/features/loose-lips-save-sunken-ships/)
 * [2023-08-27, 16:58:49](https://news.ycombinator.com/item?id=37284472) - [Reaching the Unix philosophy's logical extreme with WebAssembly](https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm)
 * [2023-08-27, 06:16:31](https://news.ycombinator.com/item?id=37279895) - [Can a worker-owned restaurant work?](https://southseattleemerald.com/2023/08/26/can-a-worker-owned-restaurant-work/)
+* [2023-08-26, 10:40:09](https://news.ycombinator.com/item?id=37271528) - [Ancient Popcorn (2012)](https://www.si.edu/newsdesk/releases/ancient-popcorn-discovered-peru)
 
 ## [Archives](archives/index.md)
 
