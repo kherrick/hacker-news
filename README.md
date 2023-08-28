@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-28, 02:27:34](https://news.ycombinator.com/item?id=37288978) - [Evergrande shares plunge as much as 87% as trading resumes after 17 months](https://www.cnbc.com/2023/08/28/china-evergrande-shares-plunge-as-trading-resumes-trade-after-17-months.html)
 * [2023-08-28, 02:15:44](https://news.ycombinator.com/item?id=37288889) - [The ‘Fidelity Mafia’ Behind Big Crypto](https://www.wsj.com/finance/currencies/the-fidelity-mafia-behind-big-crypto-953ad00e)
 * [2023-08-28, 01:52:08](https://news.ycombinator.com/item?id=37288734) - [Milk Bag](https://en.wikipedia.org/wiki/Milk_bag)
 * [2023-08-28, 01:33:24](https://news.ycombinator.com/item?id=37288627) - [Hacker Smacker: Friend/foe individual writers on Hacker News](https://github.com/samuelclay/hackersmacker)
@@ -22,13 +23,12 @@
 * [2023-08-27, 13:21:53](https://news.ycombinator.com/item?id=37282469) - [The code for Anna's Archive](https://annas-software.org/AnnaArchivist/annas-archive)
 * [2023-08-27, 13:11:18](https://news.ycombinator.com/item?id=37282385) - [Python Type Hints – *args and **kwargs (2021)](https://adamj.eu/tech/2021/05/11/python-type-hints-args-and-kwargs/)
 * [2023-08-27, 13:05:32](https://news.ycombinator.com/item?id=37282334) - [That Old NetBSD Server, Running Since 2010](https://it-notes.dragas.net/2023/08/27/that-old-netbsd-server-running-since-2010/)
-* [2023-08-27, 11:53:56](https://news.ycombinator.com/item?id=37281745) - [Overthewire.org](https://overthewire.org/wargames/)
+* [2023-08-27, 04:45:20](https://news.ycombinator.com/item?id=37279491) - [Finding Home in Ah Ying: A Special View of 1980s Hong Kong](https://mubi.com/en/notebook/posts/finding-home-in-ah-ying-a-special-view-of-1980s-hong-kong)
 * [2023-08-27, 03:47:28](https://news.ycombinator.com/item?id=37279279) - [The Decreationist: Simone Weil’s thoughts on the unmaking of the self](https://theamericanscholar.org/the-decreationist/)
 * [2023-08-26, 20:32:36](https://news.ycombinator.com/item?id=37276630) - [Tokyo by Train (2016) [video]](https://www.youtube.com/watch?v=Y49VfddU-L4)
 * [2023-08-26, 17:02:10](https://news.ycombinator.com/item?id=37274610) - [UX design patterns for loading](https://pencilandpaper.io/articles/ux-pattern-analysis-loading-feedback/)
 * [2023-08-26, 11:00:18](https://news.ycombinator.com/item?id=37271644) - [Kraftwerk issued their own pocket calculator synthesizer (2019)](https://www.openculture.com/2019/06/when-kraftwerk-issued-their-own-pocket-calculator-synthesizer.html)
 * [2023-08-26, 08:04:27](https://news.ycombinator.com/item?id=37270739) - [The Ptrace Anti-RE Trick](http://hkopp.github.io/2023/08/the-ptrace-anti-re-trick)
-* [2023-08-26, 05:10:18](https://news.ycombinator.com/item?id=37270108) - [Reasons to replace advanced search with filters](https://adamsilver.io/blog/7-reasons-to-replace-advanced-search-with-filters-so-users-can-easily-find-what-they-need/)
 * [2023-08-26, 04:45:08](https://news.ycombinator.com/item?id=37270007) - [Japan's abandoned villages](https://www.japantimes.co.jp/news/2023/08/18/japan/society/exploring-the-eerie-beauty-of-japans-abandoned-villages/)
 
 ## [Archives](archives/index.md)
