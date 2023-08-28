@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-08-28, 20:09:00",
-      "https://news.ycombinator.com/item?id=37299772"
-    ],
-    [
-      "A17T: Atomic Design Toolkit and Tailwind CSS Plugin",
-      "https://a17t.miles.land/"
-    ]
-  ],
-  [
-    [
       "2023-08-28, 18:59:10",
       "https://news.ycombinator.com/item?id=37298866"
     ],
@@ -207,6 +197,16 @@
     [
       "An unexpected find that freed 20GB of unused index space (2021)",
       "https://hakibenita.com/postgresql-unused-index-size"
+    ]
+  ],
+  [
+    [
+      "2023-08-28, 13:48:44",
+      "https://news.ycombinator.com/item?id=37293911"
+    ],
+    [
+      "Helm-Compose – The Docker-compose like tool for K8s development",
+      "https://seacrew.github.io/helm-compose/"
     ]
   ],
   [
