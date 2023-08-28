@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-28, 02:27:34](https://news.ycombinator.com/item?id=37288978) - [Evergrande shares plunge as much as 87% as trading resumes after 17 months](https://www.cnbc.com/2023/08/28/china-evergrande-shares-plunge-as-trading-resumes-trade-after-17-months.html)
+* [2023-08-28, 02:22:51](https://news.ycombinator.com/item?id=37288944) - [72-Year-Old C++ Creator Bjarne Stroustrup Shares Life Advice](https://developers.slashdot.org/story/23/08/26/029217/72-year-old-c-creator-bjarne-stroustrup-shares-life-advice)
 * [2023-08-28, 02:15:44](https://news.ycombinator.com/item?id=37288889) - [The ‘Fidelity Mafia’ Behind Big Crypto](https://www.wsj.com/finance/currencies/the-fidelity-mafia-behind-big-crypto-953ad00e)
 * [2023-08-28, 01:52:08](https://news.ycombinator.com/item?id=37288734) - [Milk Bag](https://en.wikipedia.org/wiki/Milk_bag)
 * [2023-08-28, 01:33:24](https://news.ycombinator.com/item?id=37288627) - [Hacker Smacker: Friend/foe individual writers on Hacker News](https://github.com/samuelclay/hackersmacker)
@@ -18,7 +19,6 @@
 * [2023-08-27, 18:16:41](https://news.ycombinator.com/item?id=37285237) - [Grades of quality of Panama hats](https://www.brentblack.com/panama-hat-grades-explained.html)
 * [2023-08-27, 18:05:17](https://news.ycombinator.com/item?id=37285156) - [A forum engine written in Assembly](https://asm32.info/fossil/asmbb/index)
 * [2023-08-27, 17:00:31](https://news.ycombinator.com/item?id=37284487) - [111,111.1 meters is reliably 1 degree of latitude](https://gis.stackexchange.com/a/2964/5599)
-* [2023-08-27, 16:13:52](https://news.ycombinator.com/item?id=37284039) - [A New Ongoing Project: The Satomi/Sammy/Three Star Arrangeball](https://nicole.express/2023/arrange-all-you-want.html)
 * [2023-08-27, 15:04:04](https://news.ycombinator.com/item?id=37283375) - [Some of the error messages produced by Apple's MPW C compiler (2006)](https://www.cs.cmu.edu/~jasonh/personal/humor/compile.html)
 * [2023-08-27, 13:21:53](https://news.ycombinator.com/item?id=37282469) - [The code for Anna's Archive](https://annas-software.org/AnnaArchivist/annas-archive)
 * [2023-08-27, 13:11:18](https://news.ycombinator.com/item?id=37282385) - [Python Type Hints – *args and **kwargs (2021)](https://adamj.eu/tech/2021/05/11/python-type-hints-args-and-kwargs/)
