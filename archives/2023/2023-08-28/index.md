@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
+* [2023-08-28, 20:36:43](https://news.ycombinator.com/item?id=37300085) - [Wikipedia should focus on content creation – not social justice campaigns](https://www.telegraph.co.uk/business/2023/08/28/wikipedia-donations-contributors-social-justice-charities/)
 * [2023-08-28, 20:09:00](https://news.ycombinator.com/item?id=37299772) - [A17T: Atomic Design Toolkit and Tailwind CSS Plugin](https://a17t.miles.land/)
 * [2023-08-28, 19:05:18](https://news.ycombinator.com/item?id=37298952) - [Google’s Surveillance](https://simplifiedprivacy.com/googles-surveillance-the-shocking-truth/)
 * [2023-08-28, 18:59:10](https://news.ycombinator.com/item?id=37298866) - [A JVM in Rust part 5 – Executing instructions](https://andreabergia.com/blog/2023/08/a-jvm-in-rust-part-5-executing-instructions/)
@@ -31,6 +32,7 @@
 * [2023-08-28, 15:56:26](https://news.ycombinator.com/item?id=37296108) - [GNOME's Sysprof Adds FlameGraphs to Better Visualize Output](https://www.phoronix.com/news/GNOME-Sysprof-FlameGraphs)
 * [2023-08-28, 15:51:43](https://news.ycombinator.com/item?id=37296040) - [Show HN: Turning Websites into Animated Videos](https://www.minidemo.app/)
 * [2023-08-28, 15:42:21](https://news.ycombinator.com/item?id=37295884) - [MastApple//C, a Mastodon client for the Apple II (//C and ][e)](https://www.colino.net/wordpress/en/binary-release-of-mastodon-for-the-apple-c/)
+* [2023-08-28, 15:38:11](https://news.ycombinator.com/item?id=37295817) - [SEC charges Impact Theory for unregistered offering of NFTs](https://www.sec.gov/news/press-release/2023-163)
 * [2023-08-28, 15:38:11](https://news.ycombinator.com/item?id=37295817) - [SEC brought its first non-fungible token enforcement action](https://www.sec.gov/news/statement/peirce-uyeda-statement-nft-082823)
 * [2023-08-28, 15:25:00](https://news.ycombinator.com/item?id=37295611) - [Steel Bank Common Lisp 2.3.8 released: “a mark-region parallel GC is available”](https://www.sbcl.org/news.html#2.3.8)
 * [2023-08-28, 15:17:15](https://news.ycombinator.com/item?id=37295470) - [California Population Size Projected to Stagnate](https://www.nytimes.com/2023/08/27/us/california-population-decline-housing-crisis.html)
