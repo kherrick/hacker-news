@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-28, 17:24:40](https://news.ycombinator.com/item?id=37297520) - [‘San Francisco changed dramatically’ – Nordstrom is bailing on a flagship store](https://fortune.com/2023/08/28/nordstrom-closes-san-francisco-store-downtown-market-street-remote-work/)
 * [2023-08-28, 17:13:43](https://news.ycombinator.com/item?id=37297360) - [Charles Darwin Ate One of Everything He Discovered](https://www.thefactsite.com/charles-darwin-eating-habits/)
 * [2023-08-28, 17:09:47](https://news.ycombinator.com/item?id=37297304) - [Introducing ChatGPT Enterprise](https://openai.com/blog/introducing-chatgpt-enterprise)
 * [2023-08-28, 17:00:12](https://news.ycombinator.com/item?id=37297174) - [SiPhox (YC S20) Is Hiring](https://www.ycombinator.com/companies/siphox/jobs/nFufcgs-siphox-kit-team-lead-director-level)
@@ -18,7 +19,6 @@
 * [2023-08-28, 14:21:05](https://news.ycombinator.com/item?id=37294440) - [Zero-Downtime Hetzner Deploys with Ansible](https://scratchdb.com/blog/ansible-hetzner-deploys/)
 * [2023-08-28, 13:48:44](https://news.ycombinator.com/item?id=37293911) - [Helm-Compose – The Docker-compose like tool for K8s development](https://seacrew.github.io/helm-compose/)
 * [2023-08-28, 13:03:31](https://news.ycombinator.com/item?id=37293294) - [Ohio LinuxFest 2023 Conference Speakers](https://olfconference.org/speakers/)
-* [2023-08-28, 12:39:20](https://news.ycombinator.com/item?id=37293072) - [Live worm found in Australian woman’s brain](https://www.theguardian.com/australia-news/2023/aug/28/live-worm-living-womans-brain-australia-depression-forgetfulness)
 * [2023-08-28, 12:31:21](https://news.ycombinator.com/item?id=37293002) - [Ask HN: My mother is slowly losing her eyesight, how to prepare?](https://news.ycombinator.com/item?id=37293002)
 * [2023-08-28, 12:14:45](https://news.ycombinator.com/item?id=37292864) - [Trees guard their seeds: Unlocking the secrets of mast seeding](https://phys.org/news/2023-08-trees-seeds-secrets-mast-seeding.html)
 * [2023-08-28, 11:19:10](https://news.ycombinator.com/item?id=37292379) - [How to find time to learn after work (2017)](https://www.feststelltaste.de/how-to-find-time-to-learn-after-work/)
