@@ -43,6 +43,7 @@
 * [2023-08-27, 16:55:10](https://news.ycombinator.com/item?id=37284437) - [Expert Opinions I Agree with (That Most People Don’t)](https://www.scotthyoung.com/blog/2023/08/08/expert-opinions/)
 * [2023-08-27, 16:28:32](https://news.ycombinator.com/item?id=37284189) - [How to Setup a Plex Media Server on Raspberry Pi](https://www.makeuseof.com/tag/raspberry-pi-plex-media-server/)
 * [2023-08-27, 16:13:52](https://news.ycombinator.com/item?id=37284039) - [A New Ongoing Project: The Satomi/Sammy/Three Star Arrangeball](https://nicole.express/2023/arrange-all-you-want.html)
+* [2023-08-27, 16:12:25](https://news.ycombinator.com/item?id=37284026) - [Show HN: MoodMinder – Swift Anger Regulation for Better Emotional Well-Being](https://moodminder-34552.bubbleapps.io)
 * [2023-08-27, 15:54:16](https://news.ycombinator.com/item?id=37283860) - [I had no idea that one company basically owns every font](https://thehustle.co/where-do-fonts-come-from/)
 * [2023-08-27, 15:46:47](https://news.ycombinator.com/item?id=37283776) - [Ham radio enthusiasts vs. High-frequency traders: A battle for the airwaves](https://www.wsj.com/business/entrepreneurship/ham-radio-enthusiasts-vs-high-frequency-traders-a-battle-for-the-airwaves-6d6c5c1f)
 * [2023-08-27, 15:33:58](https://news.ycombinator.com/item?id=37283636) - [I Can Eat Glass](https://en.wikipedia.org/wiki/I_Can_Eat_Glass)
