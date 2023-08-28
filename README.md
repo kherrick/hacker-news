@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-28, 11:15:38](https://news.ycombinator.com/item?id=37292357) - [Self-driving cars less likely to detect children and people of color](https://www.businessinsider.com/self-driving-cars-less-likely-detect-kids-people-of-color-2023-8)
+* [2023-08-28, 11:06:32](https://news.ycombinator.com/item?id=37292295) - [C++ Papercuts](https://www.thecodedmessage.com/posts/c++-papercuts/)
 * [2023-08-28, 10:48:10](https://news.ycombinator.com/item?id=37292175) - [AI art could enhance humanity's collective memory [video]](https://www.ted.com/talks/refik_anadol_how_ai_art_could_enhance_humanity_s_collective_memory)
 * [2023-08-28, 10:27:29](https://news.ycombinator.com/item?id=37292041) - [What do I think about Community Notes?](https://vitalik.ca/general/2023/08/16/communitynotes.html)
 * [2023-08-28, 10:24:58](https://news.ycombinator.com/item?id=37292016) - [What does it take to make your own integrated circuits at home?](https://hackaday.com/2022/03/22/old-printer-becomes-direct-laser-lithography-machine/)
@@ -27,7 +28,6 @@
 * [2023-08-27, 19:58:17](https://news.ycombinator.com/item?id=37286074) - [High-Dimensional Probability and Applications in Data Science](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html)
 * [2023-08-27, 13:05:32](https://news.ycombinator.com/item?id=37282334) - [That Old NetBSD Server, Running Since 2010](https://it-notes.dragas.net/2023/08/27/that-old-netbsd-server-running-since-2010/)
 * [2023-08-27, 04:49:58](https://news.ycombinator.com/item?id=37279509) - [Homer and His Iliad](https://www.historytoday.com/archive/review/homer-and-his-iliad-robin-lane-fox-review)
-* [2023-08-26, 23:05:43](https://news.ycombinator.com/item?id=37277718) - [Martin Miller talks about his mother, Alice Miller (2015)](https://www.contemporarypsychotherapy.org/volume-7-issue-1-summer-2015/interview-martin-miller/)
 * [2023-08-26, 17:28:10](https://news.ycombinator.com/item?id=37274882) - [Show HN: Going into freshman year, figured I should build an interpreter](https://news.ycombinator.com/item?id=37274882)
 * [2023-08-26, 08:04:27](https://news.ycombinator.com/item?id=37270739) - [The Ptrace Anti-RE Trick](http://hkopp.github.io/2023/08/the-ptrace-anti-re-trick)
 
