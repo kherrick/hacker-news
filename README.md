@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-28, 02:15:44](https://news.ycombinator.com/item?id=37288889) - [The ‘Fidelity Mafia’ Behind Big Crypto](https://www.wsj.com/finance/currencies/the-fidelity-mafia-behind-big-crypto-953ad00e)
+* [2023-08-28, 01:52:08](https://news.ycombinator.com/item?id=37288734) - [Milk Bag](https://en.wikipedia.org/wiki/Milk_bag)
 * [2023-08-28, 01:33:24](https://news.ycombinator.com/item?id=37288627) - [Hacker Smacker: Friend/foe individual writers on Hacker News](https://github.com/samuelclay/hackersmacker)
 * [2023-08-28, 01:05:24](https://news.ycombinator.com/item?id=37288446) - [Writing Linux Modules in Ada – Part 1](http://www.nihamkin.com/2016/10/23/writing-linux-modules-in-ada-part-1/#writing-linux-modules-in-ada-part-1)
 * [2023-08-28, 00:32:34](https://news.ycombinator.com/item?id=37288208) - [Federal study links testicular cancer to ‘forever chemicals’](https://undark.org/2023/08/22/federal-study-links-testicular-cancer-to-forever-chemicals/)
@@ -12,7 +13,6 @@
 * [2023-08-27, 22:08:37](https://news.ycombinator.com/item?id=37287101) - [Our Products](https://www.kinkisharyo.co.jp/english/ourproducts/)
 * [2023-08-27, 21:37:49](https://news.ycombinator.com/item?id=37286860) - [A new method to reprogram human cells to better mimic embryonic stem cells](https://www.uwa.edu.au/news/Article/2023/August/Scientists-find-way-to-wipe-a-cells-memory-to-reprogram-it-as-a-stem-cell)
 * [2023-08-27, 21:00:42](https://news.ycombinator.com/item?id=37286598) - [Meticulous (YC S21) is hiring #3 engineer](https://news.ycombinator.com/item?id=37286598)
-* [2023-08-27, 19:23:03](https://news.ycombinator.com/item?id=37285786) - [Get Into Motion](https://martinrue.com/get-into-motion/)
 * [2023-08-27, 18:35:14](https://news.ycombinator.com/item?id=37285396) - [PMET: Precise Model Editing in a Transformer](https://arxiv.org/abs/2308.08742)
 * [2023-08-27, 18:16:41](https://news.ycombinator.com/item?id=37285237) - [Grades of quality of Panama hats](https://www.brentblack.com/panama-hat-grades-explained.html)
 * [2023-08-27, 18:05:17](https://news.ycombinator.com/item?id=37285156) - [A forum engine written in Assembly](https://asm32.info/fossil/asmbb/index)
