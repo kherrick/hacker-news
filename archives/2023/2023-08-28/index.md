@@ -31,6 +31,7 @@
 * [2023-08-28, 03:02:46](https://news.ycombinator.com/item?id=37289215) - [Crumb,a New Programming Language of No Keywords, and Everything Is a Function](https://github.com/liam-ilan/crumb)
 * [2023-08-28, 02:53:38](https://news.ycombinator.com/item?id=37289151) - [Scrum is a cancer](https://twitter.com/svpino/status/1695806027256475777)
 * [2023-08-28, 02:38:40](https://news.ycombinator.com/item?id=37289067) - [West Point discovers time capsule from 1828](https://www.westpoint.edu/news/press-releases/west-point-discovers-time-capsule-monument-base)
+* [2023-08-28, 02:33:40](https://news.ycombinator.com/item?id=37289029) - [Linux 6.5](https://lkml.iu.edu/hypermail/linux/kernel/2308.3/03287.html)
 * [2023-08-28, 02:28:01](https://news.ycombinator.com/item?id=37288987) - [Answering Ambiguous Questions with a DB of Questions, Answers, and Revisions](https://arxiv.org/abs/2308.08661)
 * [2023-08-28, 02:27:34](https://news.ycombinator.com/item?id=37288978) - [Evergrande shares plunge as much as 87% as trading resumes after 17 months](https://www.cnbc.com/2023/08/28/china-evergrande-shares-plunge-as-trading-resumes-trade-after-17-months.html)
 * [2023-08-28, 02:22:51](https://news.ycombinator.com/item?id=37288944) - [72-Year-Old C++ Creator Bjarne Stroustrup Shares Life Advice](https://developers.slashdot.org/story/23/08/26/029217/72-year-old-c-creator-bjarne-stroustrup-shares-life-advice)
