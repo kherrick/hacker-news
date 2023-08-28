@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
 * [2023-08-28, 17:13:43](https://news.ycombinator.com/item?id=37297360) - [Charles Darwin Ate One of Everything He Discovered](https://www.thefactsite.com/charles-darwin-eating-habits/)
+* [2023-08-28, 17:09:47](https://news.ycombinator.com/item?id=37297304) - [Introducing ChatGPT Enterprise](https://openai.com/blog/introducing-chatgpt-enterprise)
 * [2023-08-28, 17:00:12](https://news.ycombinator.com/item?id=37297174) - [SiPhox (YC S20) Is Hiring](https://www.ycombinator.com/companies/siphox/jobs/nFufcgs-siphox-kit-team-lead-director-level)
 * [2023-08-28, 16:36:17](https://news.ycombinator.com/item?id=37296783) - [Nvidia on the Mountaintop](https://stratechery.com/2023/nvidia-on-the-mountaintop/)
 * [2023-08-28, 16:13:47](https://news.ycombinator.com/item?id=37296401) - [Fig Has Joined AWS](https://fig.io/blog/post/fig-joins-aws)

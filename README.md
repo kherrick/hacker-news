@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-28, 17:13:43](https://news.ycombinator.com/item?id=37297360) - [Charles Darwin Ate One of Everything He Discovered](https://www.thefactsite.com/charles-darwin-eating-habits/)
+* [2023-08-28, 17:09:47](https://news.ycombinator.com/item?id=37297304) - [Introducing ChatGPT Enterprise](https://openai.com/blog/introducing-chatgpt-enterprise)
 * [2023-08-28, 17:00:12](https://news.ycombinator.com/item?id=37297174) - [SiPhox (YC S20) Is Hiring](https://www.ycombinator.com/companies/siphox/jobs/nFufcgs-siphox-kit-team-lead-director-level)
 * [2023-08-28, 16:36:17](https://news.ycombinator.com/item?id=37296783) - [Nvidia on the Mountaintop](https://stratechery.com/2023/nvidia-on-the-mountaintop/)
 * [2023-08-28, 16:13:47](https://news.ycombinator.com/item?id=37296401) - [Fig Has Joined AWS](https://fig.io/blog/post/fig-joins-aws)
@@ -21,7 +22,6 @@
 * [2023-08-28, 12:31:21](https://news.ycombinator.com/item?id=37293002) - [Ask HN: My mother is slowly losing her eyesight, how to prepare?](https://news.ycombinator.com/item?id=37293002)
 * [2023-08-28, 12:14:45](https://news.ycombinator.com/item?id=37292864) - [Trees guard their seeds: Unlocking the secrets of mast seeding](https://phys.org/news/2023-08-trees-seeds-secrets-mast-seeding.html)
 * [2023-08-28, 11:19:10](https://news.ycombinator.com/item?id=37292379) - [How to find time to learn after work (2017)](https://www.feststelltaste.de/how-to-find-time-to-learn-after-work/)
-* [2023-08-28, 11:06:32](https://news.ycombinator.com/item?id=37292295) - [C++ Papercuts](https://www.thecodedmessage.com/posts/c++-papercuts/)
 * [2023-08-28, 09:46:41](https://news.ycombinator.com/item?id=37291765) - [We put half a million files in one Git repository (2022)](https://www.canva.dev/blog/engineering/we-put-half-a-million-files-in-one-git-repository-heres-what-we-learned/)
 * [2023-08-28, 09:01:40](https://news.ycombinator.com/item?id=37291504) - [Fortran](https://fortran-lang.org/en/index.html)
 * [2023-08-28, 07:39:51](https://news.ycombinator.com/item?id=37291007) - [The secretive world of North Korean science fiction](https://arstechnica.com/culture/2023/08/the-strange-secretive-world-of-north-korean-science-fiction/)
