@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-28, 15:56:26](https://news.ycombinator.com/item?id=37296108) - [GNOME's Sysprof Adds FlameGraphs to Better Visualize Output](https://www.phoronix.com/news/GNOME-Sysprof-FlameGraphs)
+* [2023-08-28, 16:03:54](https://news.ycombinator.com/item?id=37296247) - [What can I do as an amateur hacker to get the best programming job next year?](https://news.ycombinator.com/item?id=37296247)
+* [2023-08-28, 15:51:43](https://news.ycombinator.com/item?id=37296040) - [Show HN: Turning Websites into Animated Videos](https://www.minidemo.app/)
 * [2023-08-28, 15:42:21](https://news.ycombinator.com/item?id=37295884) - [MastApple//C, a Mastodon client for the Apple II (//C and ][e)](https://www.colino.net/wordpress/en/binary-release-of-mastodon-for-the-apple-c/)
 * [2023-08-28, 15:38:11](https://news.ycombinator.com/item?id=37295817) - [SEC brought its first non-fungible token enforcement action](https://www.sec.gov/news/statement/peirce-uyeda-statement-nft-082823)
 * [2023-08-28, 15:25:00](https://news.ycombinator.com/item?id=37295611) - [Steel Bank Common Lisp 2.3.8 released: “a mark-region parallel GC is available”](https://www.sbcl.org/news.html#2.3.8)
@@ -13,7 +14,6 @@
 * [2023-08-28, 14:42:04](https://news.ycombinator.com/item?id=37294793) - [Postgres: The Unexpected Find That Freed 20GB of Unused Index Space](https://hakibenita.com/postgresql-unused-index-size)
 * [2023-08-28, 14:21:05](https://news.ycombinator.com/item?id=37294440) - [Zero-Downtime Hetzner Deploys with Ansible](https://scratchdb.com/blog/ansible-hetzner-deploys/)
 * [2023-08-28, 13:48:44](https://news.ycombinator.com/item?id=37293911) - [Helm-Compose – The Docker-compose like tool for K8s development](https://seacrew.github.io/helm-compose/)
-* [2023-08-28, 13:21:28](https://news.ycombinator.com/item?id=37293542) - [Hackers can get your IP through Skype by just sending a link, no click required](https://www.404media.co/hackers-find-your-skype-ip-address-microsoft-wont-fix/)
 * [2023-08-28, 13:03:31](https://news.ycombinator.com/item?id=37293294) - [Ohio LinuxFest 2023 Conference Speakers](https://olfconference.org/speakers/)
 * [2023-08-28, 12:50:45](https://news.ycombinator.com/item?id=37293175) - [Divide your life into semesters, even when you’re not in school](https://www.vox.com/even-better/23835758/divide-life-semesters-not-in-school-motivation-goals)
 * [2023-08-28, 12:39:20](https://news.ycombinator.com/item?id=37293072) - [Live worm found in Australian woman’s brain](https://www.theguardian.com/australia-news/2023/aug/28/live-worm-living-womans-brain-australia-depression-forgetfulness)
@@ -23,13 +23,13 @@
 * [2023-08-28, 10:24:58](https://news.ycombinator.com/item?id=37292016) - [What does it take to make your own integrated circuits at home?](https://hackaday.com/2022/03/22/old-printer-becomes-direct-laser-lithography-machine/)
 * [2023-08-28, 09:46:41](https://news.ycombinator.com/item?id=37291765) - [We put half a million files in one Git repository (2022)](https://www.canva.dev/blog/engineering/we-put-half-a-million-files-in-one-git-repository-heres-what-we-learned/)
 * [2023-08-28, 09:01:40](https://news.ycombinator.com/item?id=37291504) - [Fortran](https://fortran-lang.org/en/index.html)
+* [2023-08-28, 07:40:18](https://news.ycombinator.com/item?id=37291010) - [Why the AGPL is often unenforceable (2015)](https://www.devever.net/~hl/agplunenforceable)
+* [2023-08-28, 07:39:51](https://news.ycombinator.com/item?id=37291007) - [The secretive world of North Korean science fiction](https://arstechnica.com/culture/2023/08/the-strange-secretive-world-of-north-korean-science-fiction/)
 * [2023-08-28, 06:02:36](https://news.ycombinator.com/item?id=37290356) - [CLI text processing with GNU awk](https://learnbyexample.github.io/learn_gnuawk/awk-introduction.html)
 * [2023-08-28, 04:23:05](https://news.ycombinator.com/item?id=37289742) - [Finding Hope in the Dark Power of Fungus](https://www.noemamag.com/finding-hope-in-the-dark-power-of-fungus/)
 * [2023-08-28, 03:18:34](https://news.ycombinator.com/item?id=37289321) - [PHP-Tokio – Use any async Rust library from PHP](https://github.com/danog/php-tokio)
 * [2023-08-28, 02:38:40](https://news.ycombinator.com/item?id=37289067) - [West Point discovers time capsule from 1828](https://www.westpoint.edu/news/press-releases/west-point-discovers-time-capsule-monument-base)
-* [2023-08-28, 01:05:24](https://news.ycombinator.com/item?id=37288446) - [Writing Linux Modules in Ada (2016)](http://www.nihamkin.com/2016/10/23/writing-linux-modules-in-ada-part-1/#writing-linux-modules-in-ada-part-1)
 * [2023-08-27, 19:58:17](https://news.ycombinator.com/item?id=37286074) - [High-Dimensional Probability and Applications in Data Science](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html)
-* [2023-08-27, 13:05:32](https://news.ycombinator.com/item?id=37282334) - [That Old NetBSD Server, Running Since 2010](https://it-notes.dragas.net/2023/08/27/that-old-netbsd-server-running-since-2010/)
 
 ## [Archives](archives/index.md)
 
