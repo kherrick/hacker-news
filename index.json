@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-08-28, 15:56:26",
-      "https://news.ycombinator.com/item?id=37296108"
+      "2023-08-28, 16:03:54",
+      "https://news.ycombinator.com/item?id=37296247"
     ],
     [
-      "GNOME's Sysprof Adds FlameGraphs to Better Visualize Output",
-      "https://www.phoronix.com/news/GNOME-Sysprof-FlameGraphs"
+      "What can I do as an amateur hacker to get the best programming job next year?",
+      "https://news.ycombinator.com/item?id=37296247"
+    ]
+  ],
+  [
+    [
+      "2023-08-28, 15:51:43",
+      "https://news.ycombinator.com/item?id=37296040"
+    ],
+    [
+      "Show HN: Turning Websites into Animated Videos",
+      "https://www.minidemo.app/"
     ]
   ],
   [
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2023-08-28, 13:21:28",
-      "https://news.ycombinator.com/item?id=37293542"
-    ],
-    [
-      "Hackers can get your IP through Skype by just sending a link, no click required",
-      "https://www.404media.co/hackers-find-your-skype-ip-address-microsoft-wont-fix/"
-    ]
-  ],
-  [
-    [
       "2023-08-28, 13:03:31",
       "https://news.ycombinator.com/item?id=37293294"
     ],
@@ -231,6 +231,26 @@
   ],
   [
     [
+      "2023-08-28, 07:40:18",
+      "https://news.ycombinator.com/item?id=37291010"
+    ],
+    [
+      "Why the AGPL is often unenforceable (2015)",
+      "https://www.devever.net/~hl/agplunenforceable"
+    ]
+  ],
+  [
+    [
+      "2023-08-28, 07:39:51",
+      "https://news.ycombinator.com/item?id=37291007"
+    ],
+    [
+      "The secretive world of North Korean science fiction",
+      "https://arstechnica.com/culture/2023/08/the-strange-secretive-world-of-north-korean-science-fiction/"
+    ]
+  ],
+  [
+    [
       "2023-08-28, 06:02:36",
       "https://news.ycombinator.com/item?id=37290356"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-08-28, 01:05:24",
-      "https://news.ycombinator.com/item?id=37288446"
-    ],
-    [
-      "Writing Linux Modules in Ada (2016)",
-      "http://www.nihamkin.com/2016/10/23/writing-linux-modules-in-ada-part-1/#writing-linux-modules-in-ada-part-1"
-    ]
-  ],
-  [
-    [
       "2023-08-27, 19:58:17",
       "https://news.ycombinator.com/item?id=37286074"
     ],
     [
       "High-Dimensional Probability and Applications in Data Science",
       "https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-27, 13:05:32",
-      "https://news.ycombinator.com/item?id=37282334"
-    ],
-    [
-      "That Old NetBSD Server, Running Since 2010",
-      "https://it-notes.dragas.net/2023/08/27/that-old-netbsd-server-running-since-2010/"
     ]
   ]
 ]
