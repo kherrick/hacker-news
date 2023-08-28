@@ -82,6 +82,7 @@
 * [2023-08-27, 05:09:05](https://news.ycombinator.com/item?id=37279589) - [The Hiragana (Chart with Sound)](https://japanesecomplete.com/hiragana-chart)
 * [2023-08-27, 04:58:44](https://news.ycombinator.com/item?id=37279543) - [Bugzilla Celebrates 25 Years with Special Announcements](https://www.bugzilla.org/blog/2023/08/26/bugzilla-celebrates-25-years/)
 * [2023-08-27, 04:53:11](https://news.ycombinator.com/item?id=37279521) - [Silicon Valley elites revealed as investors behind $800M Bay Area land grab](https://www.sfchronicle.com/bayarea/article/solano-new-city-investors-silicon-valley-18331296.php)
+* [2023-08-27, 04:49:58](https://news.ycombinator.com/item?id=37279509) - [‘Homer and His Iliad’ by Robin Lane Fox Review](https://www.historytoday.com/archive/review/homer-and-his-iliad-robin-lane-fox-review)
 * [2023-08-27, 04:45:20](https://news.ycombinator.com/item?id=37279491) - [Finding Home in Ah Ying: A Special View of 1980s Hong Kong](https://mubi.com/en/notebook/posts/finding-home-in-ah-ying-a-special-view-of-1980s-hong-kong)
 * [2023-08-27, 03:55:28](https://news.ycombinator.com/item?id=37279318) - [Firefox 1.0 New York Times Ad](https://www.scribd.com/document/393519605/Firefox-1-0-New-York-Times-Ad)
 * [2023-08-27, 03:47:28](https://news.ycombinator.com/item?id=37279279) - [The Decreationist: Simone Weil’s thoughts on the unmaking of the self](https://theamericanscholar.org/the-decreationist/)
