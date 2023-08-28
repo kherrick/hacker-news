@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
 * [2023-08-28, 10:27:29](https://news.ycombinator.com/item?id=37292041) - [Vitalik Buterin on Twitter Community Notes](https://vitalik.ca/general/2023/08/16/communitynotes.html)
+* [2023-08-28, 10:24:58](https://news.ycombinator.com/item?id=37292016) - [What does it take to make your own integrated circuits at home?](https://hackaday.com/2022/03/22/old-printer-becomes-direct-laser-lithography-machine/)
 * [2023-08-28, 09:55:02](https://news.ycombinator.com/item?id=37291824) - [How many years to senior engineer?](https://swizec.com/blog/how-many-years-to-senior-engineer/)
 * [2023-08-28, 09:46:41](https://news.ycombinator.com/item?id=37291765) - [We Put Half a Million Files in One Git Repository, Here's What We Learned (2022)](https://www.canva.dev/blog/engineering/we-put-half-a-million-files-in-one-git-repository-heres-what-we-learned/)
 * [2023-08-28, 09:16:26](https://news.ycombinator.com/item?id=37291607) - [The V Programming Language 0.4](https://vlang.io/)
