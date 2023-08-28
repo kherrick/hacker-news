@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-08-28, 17:44:25",
-      "https://news.ycombinator.com/item?id=37297792"
-    ],
-    [
-      "Sipeed unveils RISC-V tablet, portable Linux console, and cluster",
-      "https://www.cnx-software.com/2023/08/28/sipeed-unveils-risc-v-tablet-portable-linux-console-and-cluster/"
-    ]
-  ],
-  [
-    [
       "2023-08-28, 17:40:59",
       "https://news.ycombinator.com/item?id=37297751"
     ],
@@ -77,16 +67,6 @@
     [
       "Dining like Darwin: When scientists swallow their subjects (2015)",
       "https://www.npr.org/sections/thesalt/2015/08/12/430075644/dining-like-darwin-when-scientists-swallow-their-subjects"
-    ]
-  ],
-  [
-    [
-      "2023-08-28, 17:13:33",
-      "https://news.ycombinator.com/item?id=37297359"
-    ],
-    [
-      "Please ask questions (rust-lang/regex)",
-      "https://github.com/rust-lang/regex/discussions/1073"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2023-08-28, 13:48:44",
+      "https://news.ycombinator.com/item?id=37293911"
+    ],
+    [
+      "Helm-Compose – The Docker-compose like tool for K8s development",
+      "https://seacrew.github.io/helm-compose/"
+    ]
+  ],
+  [
+    [
       "2023-08-28, 13:43:22",
       "https://news.ycombinator.com/item?id=37293846"
     ],
@@ -297,6 +287,16 @@
     [
       "Reaching the Unix philosophy's logical extreme with WebAssembly",
       "https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm"
+    ]
+  ],
+  [
+    [
+      "2023-08-26, 10:40:09",
+      "https://news.ycombinator.com/item?id=37271528"
+    ],
+    [
+      "Ancient Popcorn (2012)",
+      "https://www.si.edu/newsdesk/releases/ancient-popcorn-discovered-peru"
     ]
   ]
 ]
