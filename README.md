@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-28, 11:19:10](https://news.ycombinator.com/item?id=37292379) - [How to find time to learn after work (2017)](https://www.feststelltaste.de/how-to-find-time-to-learn-after-work/)
 * [2023-08-28, 11:15:38](https://news.ycombinator.com/item?id=37292357) - [Self-driving cars less likely to detect children and people of color](https://www.businessinsider.com/self-driving-cars-less-likely-detect-kids-people-of-color-2023-8)
+* [2023-08-28, 11:10:45](https://news.ycombinator.com/item?id=37292321) - [New Images and Video Confirm Austin-Made Tesla Model Y Has Cracked Front Casting](https://www.autoevolution.com/news/new-images-and-video-confirm-austin-made-tesla-model-y-has-cracked-front-casting-220165.html)
 * [2023-08-28, 11:06:32](https://news.ycombinator.com/item?id=37292295) - [C++ Papercuts](https://www.thecodedmessage.com/posts/c++-papercuts/)
 * [2023-08-28, 10:48:10](https://news.ycombinator.com/item?id=37292175) - [AI art could enhance humanity's collective memory [video]](https://www.ted.com/talks/refik_anadol_how_ai_art_could_enhance_humanity_s_collective_memory)
 * [2023-08-28, 10:27:29](https://news.ycombinator.com/item?id=37292041) - [What do I think about Community Notes?](https://vitalik.ca/general/2023/08/16/communitynotes.html)
@@ -8,7 +10,6 @@
 * [2023-08-28, 09:46:41](https://news.ycombinator.com/item?id=37291765) - [We Put Half a Million Files in One Git Repository, Here's What We Learned (2022)](https://www.canva.dev/blog/engineering/we-put-half-a-million-files-in-one-git-repository-heres-what-we-learned/)
 * [2023-08-28, 09:16:26](https://news.ycombinator.com/item?id=37291607) - [The V Programming Language 0.4](https://vlang.io/)
 * [2023-08-28, 09:01:40](https://news.ycombinator.com/item?id=37291504) - [Fortran](https://fortran-lang.org/en/index.html)
-* [2023-08-28, 07:58:57](https://news.ycombinator.com/item?id=37291133) - [Pricing your SaaS on the demand curve using the Pareto power law](https://www.heymarketcurve.com/blog/saas-pricing)
 * [2023-08-28, 07:28:38](https://news.ycombinator.com/item?id=37290942) - [How to Design Programs (2023)](https://htdp.org/2023-8-14/Book/index.html)
 * [2023-08-28, 06:02:36](https://news.ycombinator.com/item?id=37290356) - [CLI text processing with GNU awk](https://learnbyexample.github.io/learn_gnuawk/awk-introduction.html)
 * [2023-08-28, 05:15:55](https://news.ycombinator.com/item?id=37290042) - [Inmos and the Transputer – Parallel Ventures](https://thechipletter.substack.com/p/inmos-and-the-transputer-part-1-parallel)
@@ -29,7 +30,6 @@
 * [2023-08-27, 13:05:32](https://news.ycombinator.com/item?id=37282334) - [That Old NetBSD Server, Running Since 2010](https://it-notes.dragas.net/2023/08/27/that-old-netbsd-server-running-since-2010/)
 * [2023-08-27, 04:49:58](https://news.ycombinator.com/item?id=37279509) - [Homer and His Iliad](https://www.historytoday.com/archive/review/homer-and-his-iliad-robin-lane-fox-review)
 * [2023-08-26, 17:28:10](https://news.ycombinator.com/item?id=37274882) - [Show HN: Going into freshman year, figured I should build an interpreter](https://news.ycombinator.com/item?id=37274882)
-* [2023-08-26, 08:04:27](https://news.ycombinator.com/item?id=37270739) - [The Ptrace Anti-RE Trick](http://hkopp.github.io/2023/08/the-ptrace-anti-re-trick)
 
 ## [Archives](archives/index.md)
 
