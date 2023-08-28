@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
+* [2023-08-28, 12:47:26](https://news.ycombinator.com/item?id=37293143) - [Ask HN: Are “theoretical” concepts being lost by new engineers?](https://news.ycombinator.com/item?id=37293143)
+* [2023-08-28, 12:39:20](https://news.ycombinator.com/item?id=37293072) - [‘Oh my God’: live worm found in Australian woman’s brain in worldfirst discovery](https://www.theguardian.com/australia-news/2023/aug/28/live-worm-living-womans-brain-australia-depression-forgetfulness)
+* [2023-08-28, 12:29:37](https://news.ycombinator.com/item?id=37292985) - [Feds probing roughly 5k pilots suspected of withholding major health issues](https://www.businessinsider.com/faa-investigating-pilots-suspicion-major-health-issues-flying-veterans-benefits-2023-8)
 * [2023-08-28, 11:19:10](https://news.ycombinator.com/item?id=37292379) - [How to find time to learn after work (2017)](https://www.feststelltaste.de/how-to-find-time-to-learn-after-work/)
 * [2023-08-28, 11:15:38](https://news.ycombinator.com/item?id=37292357) - [Self-driving cars less likely to detect children and people of color](https://www.businessinsider.com/self-driving-cars-less-likely-detect-kids-people-of-color-2023-8)
 * [2023-08-28, 11:10:45](https://news.ycombinator.com/item?id=37292321) - [New Images and Video Confirm Austin-Made Tesla Model Y Has Cracked Front Casting](https://www.autoevolution.com/news/new-images-and-video-confirm-austin-made-tesla-model-y-has-cracked-front-casting-220165.html)
@@ -21,6 +24,7 @@
 * [2023-08-28, 07:58:34](https://news.ycombinator.com/item?id=37291130) - [Ask HN: Is it possible to get a conversation with a CEO from here?](https://news.ycombinator.com/item?id=37291130)
 * [2023-08-28, 07:40:18](https://news.ycombinator.com/item?id=37291010) - [Why the AGPL is often unenforceable (2015)](https://www.devever.net/~hl/agplunenforceable)
 * [2023-08-28, 07:28:38](https://news.ycombinator.com/item?id=37290942) - [How to Design Programs (2023)](https://htdp.org/2023-8-14/Book/index.html)
+* [2023-08-28, 07:16:53](https://news.ycombinator.com/item?id=37290853) - [Homeric Question: With No Predecessor to Imitate, No Successor Could Imitate Him](https://fantasticanachronism.com/2020/01/17/having-had-no-predecessor-to-imitate/)
 * [2023-08-28, 07:06:02](https://news.ycombinator.com/item?id=37290790) - [Korean Air is asking passengers to step on the scales before boarding](https://www.cnbc.com/2023/08/28/should-airlines-weigh-passengers-its-for-safety-say-airlines-.html)
 * [2023-08-28, 06:33:58](https://news.ycombinator.com/item?id=37290574) - [Mastercard ends Binance card partnership in latest blow to crypto giant](https://www.cnbc.com/2023/08/25/mastercard-ends-binance-card-partnership.html)
 * [2023-08-28, 06:02:36](https://news.ycombinator.com/item?id=37290356) - [Learn GNU Awk with hundreds of examples and exercises](https://learnbyexample.github.io/learn_gnuawk/awk-introduction.html)
