@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-28, 03:23:04](https://news.ycombinator.com/item?id=37289349) - [Total data loss after botched GitOps and failed backups](https://firefish.social/notes/9iqefgi8rzfksnqc)
+* [2023-08-28, 03:02:46](https://news.ycombinator.com/item?id=37289215) - [Crumb,a New Programming Language of No Keywords, and Everything Is a Function](https://github.com/liam-ilan/crumb)
 * [2023-08-28, 02:53:38](https://news.ycombinator.com/item?id=37289151) - [Scrum is a cancer](https://twitter.com/svpino/status/1695806027256475777)
 * [2023-08-28, 02:38:40](https://news.ycombinator.com/item?id=37289067) - [West Point discovers time capsule from 1828](https://www.westpoint.edu/news/press-releases/west-point-discovers-time-capsule-monument-base)
 * [2023-08-28, 02:28:01](https://news.ycombinator.com/item?id=37288987) - [Answering ambiguous questions with a database of questions, answers, revisions](https://arxiv.org/abs/2308.08661)
@@ -20,7 +21,6 @@
 * [2023-08-27, 20:06:34](https://news.ycombinator.com/item?id=37286143) - [Reviewing a Lifetime – An Autobiography by John D. Sedory (1923–2013)](https://thestarman.pcministry.com/lit/life/index.html)
 * [2023-08-27, 18:35:14](https://news.ycombinator.com/item?id=37285396) - [PMET: Precise Model Editing in a Transformer](https://arxiv.org/abs/2308.08742)
 * [2023-08-27, 18:16:41](https://news.ycombinator.com/item?id=37285237) - [Grades of quality of Panama hats](https://www.brentblack.com/panama-hat-grades-explained.html)
-* [2023-08-27, 18:05:17](https://news.ycombinator.com/item?id=37285156) - [A forum engine written in Assembly](https://asm32.info/fossil/asmbb/index)
 * [2023-08-27, 17:00:31](https://news.ycombinator.com/item?id=37284487) - [111,111.1 meters is reliably 1 degree of latitude](https://gis.stackexchange.com/a/2964/5599)
 * [2023-08-27, 15:46:47](https://news.ycombinator.com/item?id=37283776) - [Ham radio enthusiasts vs. High-frequency traders: A battle for the airwaves](https://www.wsj.com/business/entrepreneurship/ham-radio-enthusiasts-vs-high-frequency-traders-a-battle-for-the-airwaves-6d6c5c1f)
 * [2023-08-27, 15:04:04](https://news.ycombinator.com/item?id=37283375) - [Some of the error messages produced by Apple's MPW C compiler (2006)](https://www.cs.cmu.edu/~jasonh/personal/humor/compile.html)
