@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
+* [2023-08-28, 14:55:16](https://news.ycombinator.com/item?id=37295041) - [For Antarctica’s emperor penguins, ‘there is no time left’](https://www.nationalgeographic.com/premium/article/time-running-out-antarcticas-emperor-penguins-breeding-failure)
 * [2023-08-28, 14:07:10](https://news.ycombinator.com/item?id=37294198) - [Past Covid infection protection against re-infection: a systematic meta-analysis](https://www.thelancet.com/article/S0140-6736(22)02465-5/fulltext)
 * [2023-08-28, 13:44:13](https://news.ycombinator.com/item?id=37293855) - [We Don’t Need a New Twitter](https://calnewport.com/we-dont-need-a-new-twitter/)
 * [2023-08-28, 13:42:38](https://news.ycombinator.com/item?id=37293836) - [Wet-Bulb Temperature](https://en.wikipedia.org/wiki/Wet-bulb_temperature)
