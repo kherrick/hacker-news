@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-08-28, 18:06:05",
+      "https://news.ycombinator.com/item?id=37298133"
+    ],
+    [
+      "Utopia Clicker",
+      "https://tinysubversions.com/game/utopia/"
+    ]
+  ],
+  [
+    [
       "2023-08-28, 17:46:32",
       "https://news.ycombinator.com/item?id=37297823"
     ],
@@ -57,16 +67,6 @@
     [
       "3M is paying $5.5B to resolve 300k lawsuits over defective combat earplugs",
       "https://qz.com/3m-is-paying-5-5-billion-to-resolve-300-000-lawsuits-o-1850780085"
-    ]
-  ],
-  [
-    [
-      "2023-08-28, 17:13:43",
-      "https://news.ycombinator.com/item?id=37297360"
-    ],
-    [
-      "Charles Darwin Ate One of Everything He Discovered",
-      "https://www.thefactsite.com/charles-darwin-eating-habits/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2023-08-28, 13:48:44",
-      "https://news.ycombinator.com/item?id=37293911"
-    ],
-    [
-      "Helm-Compose – The Docker-compose like tool for K8s development",
-      "https://seacrew.github.io/helm-compose/"
-    ]
-  ],
-  [
-    [
       "2023-08-28, 13:43:22",
       "https://news.ycombinator.com/item?id=37293846"
     ],
@@ -287,6 +277,16 @@
     [
       "CLI text processing with GNU awk",
       "https://learnbyexample.github.io/learn_gnuawk/awk-introduction.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-27, 16:58:49",
+      "https://news.ycombinator.com/item?id=37284472"
+    ],
+    [
+      "Reaching the Unix philosophy's logical extreme with WebAssembly",
+      "https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm"
     ]
   ],
   [
