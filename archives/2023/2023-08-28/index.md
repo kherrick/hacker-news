@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
+* [2023-08-28, 22:37:01](https://news.ycombinator.com/item?id=37301274) - [False Canopies on Fighters Work, One Almost Killed Me](https://www.thedrive.com/the-war-zone/false-canopies-on-fighters-work-one-almost-killed-me)
 * [2023-08-28, 22:04:08](https://news.ycombinator.com/item?id=37300974) - [Google moderates private bookmarks sync-ed with Chrome](https://strangeobject.space/@silvermoon82/110969122337810598)
 * [2023-08-28, 21:36:58](https://news.ycombinator.com/item?id=37300709) - [Water-Purifying Cup Makes Drinkable Water from Creeks and Streams](https://cockrell.utexas.edu/news/archive/9720-water-purifying-cup-makes-drinkable-water-from-creeks-and-streams-in-minutes)
+* [2023-08-28, 21:24:37](https://news.ycombinator.com/item?id=37300579) - [Front-end is harder than Back-end](https://news.ycombinator.com/item?id=37300579)
 * [2023-08-28, 21:00:13](https://news.ycombinator.com/item?id=37300322) - [Kodable is hiring a Senior Fullstack Engineer to help us teach kids to code](https://www.indeed.com/job/senior-full-stack-engineer-c38525c084b29fa2?_gl=1*1s9dm2h*_gcl_au*NjI1Nzg0NDk2LjE2OTE0NDA1MDE.)
 * [2023-08-28, 20:36:43](https://news.ycombinator.com/item?id=37300085) - [Wikipedia should focus on content creation – not social justice campaigns](https://www.telegraph.co.uk/business/2023/08/28/wikipedia-donations-contributors-social-justice-charities/)
 * [2023-08-28, 20:27:03](https://news.ycombinator.com/item?id=37299986) - [Bioregions 2023](https://www.oneearth.org/bioregions-2023/)
