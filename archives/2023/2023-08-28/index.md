@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
+* [2023-08-28, 20:09:00](https://news.ycombinator.com/item?id=37299772) - [A17T: Atomic Design Toolkit and Tailwind CSS Plugin](https://a17t.miles.land/)
 * [2023-08-28, 19:05:18](https://news.ycombinator.com/item?id=37298952) - [Google’s Surveillance](https://simplifiedprivacy.com/googles-surveillance-the-shocking-truth/)
 * [2023-08-28, 18:59:10](https://news.ycombinator.com/item?id=37298866) - [A JVM in Rust part 5 – Executing instructions](https://andreabergia.com/blog/2023/08/a-jvm-in-rust-part-5-executing-instructions/)
 * [2023-08-28, 18:42:01](https://news.ycombinator.com/item?id=37298665) - [Raise Less, Build More](https://trohan.com/2023/08/20/raise-less-build-more/)
