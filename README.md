@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-28, 06:33:58](https://news.ycombinator.com/item?id=37290574) - [Mastercard ends Binance card partnership in latest blow to crypto giant](https://www.cnbc.com/2023/08/25/mastercard-ends-binance-card-partnership.html)
 * [2023-08-28, 06:02:36](https://news.ycombinator.com/item?id=37290356) - [Learn GNU Awk with hundreds of examples and exercises](https://learnbyexample.github.io/learn_gnuawk/awk-introduction.html)
 * [2023-08-28, 05:15:55](https://news.ycombinator.com/item?id=37290042) - [Inmos and the Transputer – Parallel Ventures](https://thechipletter.substack.com/p/inmos-and-the-transputer-part-1-parallel)
 * [2023-08-28, 04:30:25](https://news.ycombinator.com/item?id=37289789) - [The Elements of Style [pdf]](https://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf)
 * [2023-08-28, 02:38:40](https://news.ycombinator.com/item?id=37289067) - [West Point discovers time capsule from 1828](https://www.westpoint.edu/news/press-releases/west-point-discovers-time-capsule-monument-base)
-* [2023-08-28, 02:28:01](https://news.ycombinator.com/item?id=37288987) - [Answering ambiguous questions with a database of questions, answers, revisions](https://arxiv.org/abs/2308.08661)
 * [2023-08-28, 02:27:34](https://news.ycombinator.com/item?id=37288978) - [Evergrande shares plunge as much as 87% as trading resumes after 17 months](https://www.cnbc.com/2023/08/28/china-evergrande-shares-plunge-as-trading-resumes-trade-after-17-months.html)
 * [2023-08-28, 01:05:24](https://news.ycombinator.com/item?id=37288446) - [Writing Linux Modules in Ada (2016)](http://www.nihamkin.com/2016/10/23/writing-linux-modules-in-ada-part-1/#writing-linux-modules-in-ada-part-1)
 * [2023-08-28, 00:32:34](https://news.ycombinator.com/item?id=37288208) - [Federal study links testicular cancer to ‘forever chemicals’](https://undark.org/2023/08/22/federal-study-links-testicular-cancer-to-forever-chemicals/)
