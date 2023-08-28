@@ -2,7 +2,6 @@
 
 * [2023-08-28, 09:01:40](https://news.ycombinator.com/item?id=37291504) - [Fortran](https://fortran-lang.org/en/index.html)
 * [2023-08-28, 08:33:54](https://news.ycombinator.com/item?id=37291346) - [VanCubic Camper Modules Turn Your Cargo Van into a Modern House on Wheels in 1hr](https://www.autoevolution.com/news/vancubic-camper-modules-turn-your-cargo-van-into-a-modern-house-on-wheels-in-just-an-hour-220182.html)
-* [2023-08-28, 08:13:37](https://news.ycombinator.com/item?id=37291225) - [Polish railway system hacked, trains forced to stop by attackers](https://twitter.com/vxunderground/status/1695604752661295610)
 * [2023-08-28, 07:58:57](https://news.ycombinator.com/item?id=37291133) - [Pricing your SaaS on the demand curve using the Pareto power law](https://www.heymarketcurve.com/blog/saas-pricing)
 * [2023-08-28, 07:40:18](https://news.ycombinator.com/item?id=37291010) - [Why the AGPL is often unenforceable (2015)](https://www.devever.net/~hl/agplunenforceable)
 * [2023-08-28, 07:28:38](https://news.ycombinator.com/item?id=37290942) - [How to Design Programs (2023)](https://htdp.org/2023-8-14/Book/index.html)
@@ -25,6 +24,7 @@
 * [2023-08-27, 20:06:34](https://news.ycombinator.com/item?id=37286143) - [Reviewing a Lifetime – An Autobiography by John D. Sedory (1923–2013)](https://thestarman.pcministry.com/lit/life/index.html)
 * [2023-08-27, 19:58:17](https://news.ycombinator.com/item?id=37286074) - [High-Dimensional Probability and Applications in Data Science](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html)
 * [2023-08-27, 16:12:25](https://news.ycombinator.com/item?id=37284026) - [Show HN: MoodMinder – Swift Anger Regulation for Better Emotional Well-Being](https://moodminder-34552.bubbleapps.io)
+* [2023-08-27, 15:04:04](https://news.ycombinator.com/item?id=37283375) - [Some of the error messages produced by Apple's MPW C compiler (2006)](https://www.cs.cmu.edu/~jasonh/personal/humor/compile.html)
 * [2023-08-27, 13:05:32](https://news.ycombinator.com/item?id=37282334) - [That Old NetBSD Server, Running Since 2010](https://it-notes.dragas.net/2023/08/27/that-old-netbsd-server-running-since-2010/)
 * [2023-08-27, 04:49:58](https://news.ycombinator.com/item?id=37279509) - [Homer and His Iliad](https://www.historytoday.com/archive/review/homer-and-his-iliad-robin-lane-fox-review)
 * [2023-08-26, 23:05:43](https://news.ycombinator.com/item?id=37277718) - [Martin Miller talks about his mother, Alice Miller (2015)](https://www.contemporarypsychotherapy.org/volume-7-issue-1-summer-2015/interview-martin-miller/)
