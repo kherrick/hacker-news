@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-08-28, 19:05:18",
-      "https://news.ycombinator.com/item?id=37298952"
-    ],
-    [
-      "Google’s Surveillance",
-      "https://simplifiedprivacy.com/googles-surveillance-the-shocking-truth/"
-    ]
-  ],
-  [
-    [
       "2023-08-28, 18:59:10",
       "https://news.ycombinator.com/item?id=37298866"
     ],
@@ -27,16 +17,6 @@
     [
       "Raise Less, Build More",
       "https://trohan.com/2023/08/20/raise-less-build-more/"
-    ]
-  ],
-  [
-    [
-      "2023-08-28, 18:37:32",
-      "https://news.ycombinator.com/item?id=37298616"
-    ],
-    [
-      "Opening of West Point time capsule reveals what cynics said it would: Nothing",
-      "https://www.freep.com/story/news/local/michigan/2023/08/28/west-point-time-capsule-kosciuszko-mystery/70697206007/"
     ]
   ],
   [
@@ -71,6 +51,16 @@
   ],
   [
     [
+      "2023-08-28, 17:44:25",
+      "https://news.ycombinator.com/item?id=37297792"
+    ],
+    [
+      "Sipeed unveils RISC-V tablet, portable Linux console, and cluster",
+      "https://www.cnx-software.com/2023/08/28/sipeed-unveils-risc-v-tablet-portable-linux-console-and-cluster/"
+    ]
+  ],
+  [
+    [
       "2023-08-28, 17:40:59",
       "https://news.ycombinator.com/item?id=37297751"
     ],
@@ -87,6 +77,16 @@
     [
       "Dining like Darwin: When scientists swallow their subjects (2015)",
       "https://www.npr.org/sections/thesalt/2015/08/12/430075644/dining-like-darwin-when-scientists-swallow-their-subjects"
+    ]
+  ],
+  [
+    [
+      "2023-08-28, 17:13:33",
+      "https://news.ycombinator.com/item?id=37297359"
+    ],
+    [
+      "Please ask questions (rust-lang/regex)",
+      "https://github.com/rust-lang/regex/discussions/1073"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2023-08-28, 12:31:21",
+      "https://news.ycombinator.com/item?id=37293002"
+    ],
+    [
+      "Ask HN: My mother is slowly losing her eyesight, how to prepare?",
+      "https://news.ycombinator.com/item?id=37293002"
+    ]
+  ],
+  [
+    [
       "2023-08-28, 12:14:45",
       "https://news.ycombinator.com/item?id=37292864"
     ],
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2023-08-28, 09:01:40",
-      "https://news.ycombinator.com/item?id=37291504"
+      "2023-08-28, 09:46:41",
+      "https://news.ycombinator.com/item?id=37291765"
     ],
     [
-      "Fortran",
-      "https://fortran-lang.org/en/index.html"
+      "We put half a million files in one Git repository (2022)",
+      "https://www.canva.dev/blog/engineering/we-put-half-a-million-files-in-one-git-repository-heres-what-we-learned/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Reaching the Unix philosophy's logical extreme with WebAssembly",
       "https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm"
-    ]
-  ],
-  [
-    [
-      "2023-08-27, 06:16:31",
-      "https://news.ycombinator.com/item?id=37279895"
-    ],
-    [
-      "Can a worker-owned restaurant work",
-      "https://southseattleemerald.com/2023/08/26/can-a-worker-owned-restaurant-work/"
     ]
   ]
 ]
