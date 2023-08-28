@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-08-28, 13:21:28",
+      "https://news.ycombinator.com/item?id=37293542"
+    ],
+    [
+      "Hackers can get your IP through Skype by just sending a link, no click required",
+      "https://www.404media.co/hackers-find-your-skype-ip-address-microsoft-wont-fix/"
+    ]
+  ],
+  [
+    [
       "2023-08-28, 13:03:31",
       "https://news.ycombinator.com/item?id=37293294"
     ],
@@ -247,16 +257,6 @@
     [
       "A study on robustness and reliability of large language model code generation",
       "https://arxiv.org/abs/2308.10335"
-    ]
-  ],
-  [
-    [
-      "2023-08-27, 22:42:00",
-      "https://news.ycombinator.com/item?id=37287339"
-    ],
-    [
-      "Running WASI binaries from your HTML using Web Components",
-      "https://runno.dev/articles/wasi-web-component"
     ]
   ],
   [
