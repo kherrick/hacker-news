@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
+* [2023-08-28, 13:22:20](https://news.ycombinator.com/item?id=37293557) - [E-Bike Industry Blames Consumers for Fires to Undermine Right to Repair Laws](https://www.techdirt.com/2023/08/28/e-bike-industry-blames-consumers-for-fires-in-effort-to-undermine-right-to-repair-laws/)
+* [2023-08-28, 13:03:31](https://news.ycombinator.com/item?id=37293294) - [Ohio LinuxFest 2023 Conference Speakers](https://olfconference.org/speakers/)
+* [2023-08-28, 12:57:14](https://news.ycombinator.com/item?id=37293236) - [A Harvard Professor Became the World’s Leading Alien Hunter](https://www.nytimes.com/2023/08/24/magazine/avi-loeb-alien-hunter.html)
 * [2023-08-28, 12:47:26](https://news.ycombinator.com/item?id=37293143) - [Ask HN: Are “theoretical” concepts being lost by new engineers?](https://news.ycombinator.com/item?id=37293143)
+* [2023-08-28, 12:45:56](https://news.ycombinator.com/item?id=37293132) - [An open-source MySQL alternative for running database on Kubernetes](https://github.com/apecloud/kubeblocks)
 * [2023-08-28, 12:42:33](https://news.ycombinator.com/item?id=37293103) - [Tesla braces for its first trial involving Autopilot fatality](https://www.reuters.com/business/autos-transportation/tesla-braces-its-first-trial-involving-autopilot-fatality-2023-08-28/)
 * [2023-08-28, 12:39:20](https://news.ycombinator.com/item?id=37293072) - [‘Oh my God’: live worm found in Australian woman’s brain in worldfirst discovery](https://www.theguardian.com/australia-news/2023/aug/28/live-worm-living-womans-brain-australia-depression-forgetfulness)
+* [2023-08-28, 12:31:21](https://news.ycombinator.com/item?id=37293002) - [Ask HN: My mother is slowly looking her eyesight, how to prepare?](https://news.ycombinator.com/item?id=37293002)
 * [2023-08-28, 12:29:37](https://news.ycombinator.com/item?id=37292985) - [Feds probing roughly 5k pilots suspected of withholding major health issues](https://www.businessinsider.com/faa-investigating-pilots-suspicion-major-health-issues-flying-veterans-benefits-2023-8)
 * [2023-08-28, 12:12:18](https://news.ycombinator.com/item?id=37292844) - [Google Gemini Eats the World](https://www.semianalysis.com/p/google-gemini-eats-the-world-gemini)
 * [2023-08-28, 11:19:10](https://news.ycombinator.com/item?id=37292379) - [How to find time to learn after work (2017)](https://www.feststelltaste.de/how-to-find-time-to-learn-after-work/)
