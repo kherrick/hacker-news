@@ -48,6 +48,7 @@
 * [2023-08-26, 15:55:58](https://news.ycombinator.com/item?id=37273957) - [SwiftUI Is Convenient, but Slow](https://notes.alinpanaitiu.com/SwiftUI-is-convenient,-but-slow)
 * [2023-08-26, 15:49:36](https://news.ycombinator.com/item?id=37273907) - [Google Maps is a critical dependency for nutrition facts on mcdonalds.com](https://mastodon.social/@simevidas/110956696765338181)
 * [2023-08-26, 15:38:56](https://news.ycombinator.com/item?id=37273818) - [Exxon Knew about Climate Change Almost 40 Years Ago](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/)
+* [2023-08-26, 15:23:53](https://news.ycombinator.com/item?id=37273705) - [Arguments against IDEs](http://martinevald.net/articles/arguments-against-ides.html)
 * [2023-08-26, 15:23:08](https://news.ycombinator.com/item?id=37273701) - [Rust Cryptography Should Be Written in Rust](https://briansmith.org/rust-cryptography-should-be-written-in-rust-01)
 * [2023-08-26, 15:10:05](https://news.ycombinator.com/item?id=37273577) - [“Autobesity”: More than 150 car models too big for regular UK parking spaces](https://www.theguardian.com/business/2023/aug/26/more-than-150-car-models-too-big-for-regular-uk-parking-spaces)
 * [2023-08-26, 15:01:51](https://news.ycombinator.com/item?id=37273507) - [Xinjiang Victims Database](https://www.shahit.biz/eng/)
