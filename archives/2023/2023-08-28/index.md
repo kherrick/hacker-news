@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
+* [2023-08-28, 07:58:34](https://news.ycombinator.com/item?id=37291130) - [Ask HN: Is it possible to get a conversation with a CEO from here?](https://news.ycombinator.com/item?id=37291130)
+* [2023-08-28, 07:40:18](https://news.ycombinator.com/item?id=37291010) - [Why the AGPL is often unenforceable (2015)](https://www.devever.net/~hl/agplunenforceable)
 * [2023-08-28, 07:28:38](https://news.ycombinator.com/item?id=37290942) - [How to Design Programs (2023)](https://htdp.org/2023-8-14/Book/index.html)
 * [2023-08-28, 06:33:58](https://news.ycombinator.com/item?id=37290574) - [Mastercard ends Binance card partnership in latest blow to crypto giant](https://www.cnbc.com/2023/08/25/mastercard-ends-binance-card-partnership.html)
 * [2023-08-28, 06:02:36](https://news.ycombinator.com/item?id=37290356) - [Learn GNU Awk with hundreds of examples and exercises](https://learnbyexample.github.io/learn_gnuawk/awk-introduction.html)
