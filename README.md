@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-28, 18:37:32](https://news.ycombinator.com/item?id=37298616) - [Opening of West Point time capsule reveals what cynics said it would: Nothing](https://www.freep.com/story/news/local/michigan/2023/08/28/west-point-time-capsule-kosciuszko-mystery/70697206007/)
+* [2023-08-28, 18:29:27](https://news.ycombinator.com/item?id=37298506) - [Serial adapter / reboot controller for Apple M1/M2](https://www.tindie.com/products/aaafnraa/serial-adapter-reboot-controller-for-apple-m1m2/)
 * [2023-08-28, 17:46:32](https://news.ycombinator.com/item?id=37297823) - [When your classmates threaten you with felony charges](https://miles.land/posts/classmates-legal-threat-fizz-defcon/)
 * [2023-08-28, 17:44:25](https://news.ycombinator.com/item?id=37297792) - [Sipeed unveils RISC-V tablet, portable Linux console, and cluster](https://www.cnx-software.com/2023/08/28/sipeed-unveils-risc-v-tablet-portable-linux-console-and-cluster/)
 * [2023-08-28, 17:40:59](https://news.ycombinator.com/item?id=37297751) - [3M is paying $5.5B to resolve 300k lawsuits over defective combat earplugs](https://qz.com/3m-is-paying-5-5-billion-to-resolve-300-000-lawsuits-o-1850780085)
@@ -13,7 +14,6 @@
 * [2023-08-28, 16:13:47](https://news.ycombinator.com/item?id=37296401) - [Fig Has Joined AWS](https://fig.io/blog/post/fig-joins-aws)
 * [2023-08-28, 15:42:21](https://news.ycombinator.com/item?id=37295884) - [MastApple//C, a Mastodon client for the Apple II (//C and ][e)](https://www.colino.net/wordpress/en/binary-release-of-mastodon-for-the-apple-c/)
 * [2023-08-28, 15:25:00](https://news.ycombinator.com/item?id=37295611) - [Steel Bank Common Lisp 2.3.8 released: “a mark-region parallel GC is available”](https://www.sbcl.org/news.html#2.3.8)
-* [2023-08-28, 15:15:52](https://news.ycombinator.com/item?id=37295439) - [Cleaning Up Dead Bodies in AWS IAM](https://www.noq.dev/blog/cleaning-up-dead-bodies-in-aws-iam)
 * [2023-08-28, 15:14:21](https://news.ycombinator.com/item?id=37295408) - [Unit Test LlamaIndex with DeepEval](https://docs.confident-ai.com/docs/tutorials/evaluating-llamaindex)
 * [2023-08-28, 15:03:39](https://news.ycombinator.com/item?id=37295192) - [Continue with LocalAI: An alternative to GitHub's Copilot that runs locally](https://old.reddit.com/r/selfhosted/comments/163nxcm/continue_with_localai_an_alternative_to_githubs/)
 * [2023-08-28, 15:00:59](https://news.ycombinator.com/item?id=37295149) - [Launch HN: HyLight (YC S23) – Hydrogen airships to inspect energy infrastructure](https://news.ycombinator.com/item?id=37295149)
