@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
+* [2023-08-28, 15:03:39](https://news.ycombinator.com/item?id=37295192) - [Continue with LocalAI: An alternative to GitHub's Copilot that runs locally](https://old.reddit.com/r/selfhosted/comments/163nxcm/continue_with_localai_an_alternative_to_githubs/)
 * [2023-08-28, 15:00:59](https://news.ycombinator.com/item?id=37295149) - [Launch HN: HyLight (YC S23) – Hydrogen airships to inspect energy infrastructure](https://news.ycombinator.com/item?id=37295149)
 * [2023-08-28, 15:00:43](https://news.ycombinator.com/item?id=37295144) - [Lfortran: Modern interactive LLVM-based Fortran compiler](https://lfortran.org/)
 * [2023-08-28, 14:58:09](https://news.ycombinator.com/item?id=37295097) - [OpenTelemetry in 2023](https://bit.kevinslin.com/p/opentelemetry-in-2023)

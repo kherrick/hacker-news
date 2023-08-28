@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-28, 15:03:39](https://news.ycombinator.com/item?id=37295192) - [Continue with LocalAI: An alternative to GitHub's Copilot that runs locally](https://old.reddit.com/r/selfhosted/comments/163nxcm/continue_with_localai_an_alternative_to_githubs/)
 * [2023-08-28, 15:00:59](https://news.ycombinator.com/item?id=37295149) - [Launch HN: HyLight (YC S23) – Hydrogen airships to inspect energy infrastructure](https://news.ycombinator.com/item?id=37295149)
 * [2023-08-28, 15:00:43](https://news.ycombinator.com/item?id=37295144) - [Lfortran: Modern interactive LLVM-based Fortran compiler](https://lfortran.org/)
 * [2023-08-28, 14:58:09](https://news.ycombinator.com/item?id=37295097) - [OpenTelemetry in 2023](https://bit.kevinslin.com/p/opentelemetry-in-2023)
@@ -24,7 +25,6 @@
 * [2023-08-28, 04:23:05](https://news.ycombinator.com/item?id=37289742) - [Finding Hope in the Dark Power of Fungus](https://www.noemamag.com/finding-hope-in-the-dark-power-of-fungus/)
 * [2023-08-28, 03:18:34](https://news.ycombinator.com/item?id=37289321) - [PHP-Tokio – Use any async Rust library from PHP](https://github.com/danog/php-tokio)
 * [2023-08-28, 02:38:40](https://news.ycombinator.com/item?id=37289067) - [West Point discovers time capsule from 1828](https://www.westpoint.edu/news/press-releases/west-point-discovers-time-capsule-monument-base)
-* [2023-08-28, 02:33:40](https://news.ycombinator.com/item?id=37289029) - [Linux 6.5](https://lkml.iu.edu/hypermail/linux/kernel/2308.3/03287.html)
 * [2023-08-28, 01:05:24](https://news.ycombinator.com/item?id=37288446) - [Writing Linux Modules in Ada (2016)](http://www.nihamkin.com/2016/10/23/writing-linux-modules-in-ada-part-1/#writing-linux-modules-in-ada-part-1)
 * [2023-08-28, 00:32:34](https://news.ycombinator.com/item?id=37288208) - [Federal study links testicular cancer to ‘forever chemicals’](https://undark.org/2023/08/22/federal-study-links-testicular-cancer-to-forever-chemicals/)
 * [2023-08-27, 21:37:49](https://news.ycombinator.com/item?id=37286860) - [A new method to reprogram human cells to better mimic embryonic stem cells](https://www.uwa.edu.au/news/Article/2023/August/Scientists-find-way-to-wipe-a-cells-memory-to-reprogram-it-as-a-stem-cell)
