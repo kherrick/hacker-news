@@ -8,7 +8,7 @@
 * [2023-08-28, 17:46:32](https://news.ycombinator.com/item?id=37297823) - [When your classmates threaten you with felony charges](https://miles.land/posts/classmates-legal-threat-fizz-defcon/)
 * [2023-08-28, 17:40:59](https://news.ycombinator.com/item?id=37297751) - [3M is paying $5.5B to resolve 300k lawsuits over defective combat earplugs](https://qz.com/3m-is-paying-5-5-billion-to-resolve-300-000-lawsuits-o-1850780085)
 * [2023-08-28, 17:13:43](https://news.ycombinator.com/item?id=37297360) - [Dining like Darwin: When scientists swallow their subjects (2015)](https://www.npr.org/sections/thesalt/2015/08/12/430075644/dining-like-darwin-when-scientists-swallow-their-subjects)
-* [2023-08-28, 17:10:04](https://news.ycombinator.com/item?id=37297312) - [Social media’s addictive loop compels users to share mindlessly](https://dornsife.usc.edu/news/stories/social-media-addiction-share-mindlessly/)
+* [2023-08-28, 17:10:04](https://news.ycombinator.com/item?id=37297312) - [Frequent and infrequent users of social media respond differently to rewards](https://dornsife.usc.edu/news/stories/social-media-addiction-share-mindlessly/)
 * [2023-08-28, 17:09:47](https://news.ycombinator.com/item?id=37297304) - [Introducing ChatGPT Enterprise](https://openai.com/blog/introducing-chatgpt-enterprise)
 * [2023-08-28, 17:00:12](https://news.ycombinator.com/item?id=37297174) - [SiPhox (YC S20) Is Hiring](https://www.ycombinator.com/companies/siphox/jobs/nFufcgs-siphox-kit-team-lead-director-level)
 * [2023-08-28, 16:37:22](https://news.ycombinator.com/item?id=37296803) - [Dark Messiah modding community got Ubisoft approval](https://www.moddb.com/mods/dark-messiah-co-op/news/a-call-to-dark-messiah-arms)
