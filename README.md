@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-28, 15:38:11](https://news.ycombinator.com/item?id=37295817) - [SEC brought its first non-fungible token enforcement action](https://www.sec.gov/news/statement/peirce-uyeda-statement-nft-082823)
+* [2023-08-28, 15:17:15](https://news.ycombinator.com/item?id=37295470) - [California Population Size Projected to Stagnate](https://www.nytimes.com/2023/08/27/us/california-population-decline-housing-crisis.html)
 * [2023-08-28, 15:03:39](https://news.ycombinator.com/item?id=37295192) - [Continue with LocalAI: An alternative to GitHub's Copilot that runs locally](https://old.reddit.com/r/selfhosted/comments/163nxcm/continue_with_localai_an_alternative_to_githubs/)
 * [2023-08-28, 15:00:59](https://news.ycombinator.com/item?id=37295149) - [Launch HN: HyLight (YC S23) – Hydrogen airships to inspect energy infrastructure](https://news.ycombinator.com/item?id=37295149)
 * [2023-08-28, 15:00:43](https://news.ycombinator.com/item?id=37295144) - [Lfortran: Modern interactive LLVM-based Fortran compiler](https://lfortran.org/)
@@ -8,9 +10,7 @@
 * [2023-08-28, 13:22:20](https://news.ycombinator.com/item?id=37293557) - [E-bike industry blames consumers for fires to undermine right to repair laws](https://www.techdirt.com/2023/08/28/e-bike-industry-blames-consumers-for-fires-in-effort-to-undermine-right-to-repair-laws/)
 * [2023-08-28, 13:21:28](https://news.ycombinator.com/item?id=37293542) - [Hackers can get your IP through Skype by just sending a link, no click required](https://www.404media.co/hackers-find-your-skype-ip-address-microsoft-wont-fix/)
 * [2023-08-28, 13:03:31](https://news.ycombinator.com/item?id=37293294) - [Ohio LinuxFest 2023 Conference Speakers](https://olfconference.org/speakers/)
-* [2023-08-28, 12:57:14](https://news.ycombinator.com/item?id=37293236) - [A Harvard professor became the world’s leading alien hunter](https://www.nytimes.com/2023/08/24/magazine/avi-loeb-alien-hunter.html)
 * [2023-08-28, 12:50:45](https://news.ycombinator.com/item?id=37293175) - [Divide your life into semesters, even when you’re not in school](https://www.vox.com/even-better/23835758/divide-life-semesters-not-in-school-motivation-goals)
-* [2023-08-28, 12:45:56](https://news.ycombinator.com/item?id=37293132) - [An open-source MySQL alternative for running database on Kubernetes](https://github.com/apecloud/kubeblocks)
 * [2023-08-28, 12:39:20](https://news.ycombinator.com/item?id=37293072) - [Live worm found in Australian woman’s brain](https://www.theguardian.com/australia-news/2023/aug/28/live-worm-living-womans-brain-australia-depression-forgetfulness)
 * [2023-08-28, 12:31:21](https://news.ycombinator.com/item?id=37293002) - [Ask HN: My mother is slowly looking her eyesight, how to prepare?](https://news.ycombinator.com/item?id=37293002)
 * [2023-08-28, 11:19:10](https://news.ycombinator.com/item?id=37292379) - [How to find time to learn after work (2017)](https://www.feststelltaste.de/how-to-find-time-to-learn-after-work/)

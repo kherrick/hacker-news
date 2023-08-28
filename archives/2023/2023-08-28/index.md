@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
+* [2023-08-28, 15:38:11](https://news.ycombinator.com/item?id=37295817) - [SEC brought its first non-fungible token enforcement action](https://www.sec.gov/news/statement/peirce-uyeda-statement-nft-082823)
+* [2023-08-28, 15:17:15](https://news.ycombinator.com/item?id=37295470) - [California Population Size Projected to Stagnate](https://www.nytimes.com/2023/08/27/us/california-population-decline-housing-crisis.html)
 * [2023-08-28, 15:03:39](https://news.ycombinator.com/item?id=37295192) - [Continue with LocalAI: An alternative to GitHub's Copilot that runs locally](https://old.reddit.com/r/selfhosted/comments/163nxcm/continue_with_localai_an_alternative_to_githubs/)
 * [2023-08-28, 15:00:59](https://news.ycombinator.com/item?id=37295149) - [Launch HN: HyLight (YC S23) – Hydrogen airships to inspect energy infrastructure](https://news.ycombinator.com/item?id=37295149)
 * [2023-08-28, 15:00:43](https://news.ycombinator.com/item?id=37295144) - [Lfortran: Modern interactive LLVM-based Fortran compiler](https://lfortran.org/)
