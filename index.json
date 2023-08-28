@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=37288987"
     ],
     [
-      "Answering Ambiguous Questions with a DB of Questions, Answers, and Revisions",
+      "Answering ambiguous questions with a database of questions, answers, revisions",
       "https://arxiv.org/abs/2308.08661"
     ]
   ],
@@ -37,16 +37,6 @@
     [
       "Evergrande shares plunge as much as 87% as trading resumes after 17 months",
       "https://www.cnbc.com/2023/08/28/china-evergrande-shares-plunge-as-trading-resumes-trade-after-17-months.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-28, 02:22:51",
-      "https://news.ycombinator.com/item?id=37288944"
-    ],
-    [
-      "72-Year-Old C++ Creator Bjarne Stroustrup Shares Life Advice",
-      "https://developers.slashdot.org/story/23/08/26/029217/72-year-old-c-creator-bjarne-stroustrup-shares-life-advice"
     ]
   ],
   [
@@ -101,12 +91,12 @@
   ],
   [
     [
-      "2023-08-27, 22:59:29",
-      "https://news.ycombinator.com/item?id=37287472"
+      "2023-08-27, 23:15:08",
+      "https://news.ycombinator.com/item?id=37287591"
     ],
     [
-      "Open-Source Washing",
-      "https://github.com/ergomake/layerform/blob/main/blog/source-available-is-not-open-source.md"
+      "A study on robustness and reliability of large language model code generation",
+      "https://arxiv.org/abs/2308.10335"
     ]
   ],
   [
@@ -117,16 +107,6 @@
     [
       "Running WASI binaries from your HTML using Web Components",
       "https://runno.dev/articles/wasi-web-component"
-    ]
-  ],
-  [
-    [
-      "2023-08-27, 22:28:56",
-      "https://news.ycombinator.com/item?id=37287239"
-    ],
-    [
-      "Scientists are working to bring the woolly mammoth back",
-      "https://www.popularmechanics.com/science/animals/a42708517/scientists-reincarnating-woolly-mammoth/"
     ]
   ],
   [
@@ -161,12 +141,32 @@
   ],
   [
     [
+      "2023-08-27, 21:05:33",
+      "https://news.ycombinator.com/item?id=37286636"
+    ],
+    [
+      "Seven Sins of Writing",
+      "https://www.hamilton.edu/academics/centers/writing/seven-sins-of-writing"
+    ]
+  ],
+  [
+    [
       "2023-08-27, 21:00:42",
       "https://news.ycombinator.com/item?id=37286598"
     ],
     [
       "Meticulous (YC S21) is hiring #3 engineer",
       "https://news.ycombinator.com/item?id=37286598"
+    ]
+  ],
+  [
+    [
+      "2023-08-27, 20:06:34",
+      "https://news.ycombinator.com/item?id=37286143"
+    ],
+    [
+      "Reviewing a Lifetime – An Autobiography by John D. Sedory (1923–2013)",
+      "https://thestarman.pcministry.com/lit/life/index.html"
     ]
   ],
   [
@@ -191,22 +191,22 @@
   ],
   [
     [
-      "2023-08-27, 18:05:17",
-      "https://news.ycombinator.com/item?id=37285156"
-    ],
-    [
-      "A forum engine written in Assembly",
-      "https://asm32.info/fossil/asmbb/index"
-    ]
-  ],
-  [
-    [
       "2023-08-27, 17:00:31",
       "https://news.ycombinator.com/item?id=37284487"
     ],
     [
       "111,111.1 meters is reliably 1 degree of latitude",
       "https://gis.stackexchange.com/a/2964/5599"
+    ]
+  ],
+  [
+    [
+      "2023-08-27, 15:46:47",
+      "https://news.ycombinator.com/item?id=37283776"
+    ],
+    [
+      "Ham radio enthusiasts vs. High-frequency traders: A battle for the airwaves",
+      "https://www.wsj.com/business/entrepreneurship/ham-radio-enthusiasts-vs-high-frequency-traders-a-battle-for-the-airwaves-6d6c5c1f"
     ]
   ],
   [
