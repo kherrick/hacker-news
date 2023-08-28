@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
+* [2023-08-28, 21:00:13](https://news.ycombinator.com/item?id=37300322) - [Kodable is hiring a Senior Fullstack Engineer to help us teach kids to code](https://www.indeed.com/job/senior-full-stack-engineer-c38525c084b29fa2?_gl=1*1s9dm2h*_gcl_au*NjI1Nzg0NDk2LjE2OTE0NDA1MDE.)
 * [2023-08-28, 20:36:43](https://news.ycombinator.com/item?id=37300085) - [Wikipedia should focus on content creation – not social justice campaigns](https://www.telegraph.co.uk/business/2023/08/28/wikipedia-donations-contributors-social-justice-charities/)
+* [2023-08-28, 20:27:03](https://news.ycombinator.com/item?id=37299986) - [Bioregions 2023](https://www.oneearth.org/bioregions-2023/)
 * [2023-08-28, 20:09:00](https://news.ycombinator.com/item?id=37299772) - [A17T: Atomic Design Toolkit and Tailwind CSS Plugin](https://a17t.miles.land/)
 * [2023-08-28, 19:05:18](https://news.ycombinator.com/item?id=37298952) - [Google’s Surveillance](https://simplifiedprivacy.com/googles-surveillance-the-shocking-truth/)
 * [2023-08-28, 18:59:10](https://news.ycombinator.com/item?id=37298866) - [A JVM in Rust part 5 – Executing instructions](https://andreabergia.com/blog/2023/08/a-jvm-in-rust-part-5-executing-instructions/)
