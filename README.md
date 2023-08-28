@@ -5,10 +5,8 @@
 * [2023-08-28, 18:29:27](https://news.ycombinator.com/item?id=37298506) - [Serial adapter / reboot controller for Apple M1/M2](https://www.tindie.com/products/aaafnraa/serial-adapter-reboot-controller-for-apple-m1m2/)
 * [2023-08-28, 18:06:05](https://news.ycombinator.com/item?id=37298133) - [Utopia Clicker](https://tinysubversions.com/game/utopia/)
 * [2023-08-28, 17:46:32](https://news.ycombinator.com/item?id=37297823) - [When your classmates threaten you with felony charges](https://miles.land/posts/classmates-legal-threat-fizz-defcon/)
-* [2023-08-28, 17:44:25](https://news.ycombinator.com/item?id=37297792) - [Sipeed unveils RISC-V tablet, portable Linux console, and cluster](https://www.cnx-software.com/2023/08/28/sipeed-unveils-risc-v-tablet-portable-linux-console-and-cluster/)
 * [2023-08-28, 17:40:59](https://news.ycombinator.com/item?id=37297751) - [3M is paying $5.5B to resolve 300k lawsuits over defective combat earplugs](https://qz.com/3m-is-paying-5-5-billion-to-resolve-300-000-lawsuits-o-1850780085)
 * [2023-08-28, 17:13:43](https://news.ycombinator.com/item?id=37297360) - [Dining like Darwin: When scientists swallow their subjects (2015)](https://www.npr.org/sections/thesalt/2015/08/12/430075644/dining-like-darwin-when-scientists-swallow-their-subjects)
-* [2023-08-28, 17:13:33](https://news.ycombinator.com/item?id=37297359) - [Please ask questions (rust-lang/regex)](https://github.com/rust-lang/regex/discussions/1073)
 * [2023-08-28, 17:10:04](https://news.ycombinator.com/item?id=37297312) - [Social media’s addictive loop compels users to share mindlessly](https://dornsife.usc.edu/news/stories/social-media-addiction-share-mindlessly/)
 * [2023-08-28, 17:09:47](https://news.ycombinator.com/item?id=37297304) - [Introducing ChatGPT Enterprise](https://openai.com/blog/introducing-chatgpt-enterprise)
 * [2023-08-28, 17:00:12](https://news.ycombinator.com/item?id=37297174) - [SiPhox (YC S20) Is Hiring](https://www.ycombinator.com/companies/siphox/jobs/nFufcgs-siphox-kit-team-lead-director-level)
@@ -23,6 +21,7 @@
 * [2023-08-28, 14:56:19](https://news.ycombinator.com/item?id=37295066) - [Designing a new concurrent data structure](https://questdb.io/blog/concurrent-lockfree-datastructure-design-walkthrough/)
 * [2023-08-28, 14:42:04](https://news.ycombinator.com/item?id=37294793) - [Postgres: The Unexpected Find That Freed 20GB of Unused Index Space](https://hakibenita.com/postgresql-unused-index-size)
 * [2023-08-28, 14:21:05](https://news.ycombinator.com/item?id=37294440) - [Zero-Downtime Hetzner Deploys with Ansible](https://scratchdb.com/blog/ansible-hetzner-deploys/)
+* [2023-08-28, 13:48:44](https://news.ycombinator.com/item?id=37293911) - [Helm-Compose – The Docker-compose like tool for K8s development](https://seacrew.github.io/helm-compose/)
 * [2023-08-28, 13:43:22](https://news.ycombinator.com/item?id=37293846) - [How to create a Qt 5 ARM/Intel universal binary for Mac](https://www.downtowndougbrown.com/2023/08/how-to-create-a-qt-5-arm-intel-universal-binary-for-mac/)
 * [2023-08-28, 12:31:21](https://news.ycombinator.com/item?id=37293002) - [Ask HN: My mother is slowly losing her eyesight, how to prepare?](https://news.ycombinator.com/item?id=37293002)
 * [2023-08-28, 12:14:45](https://news.ycombinator.com/item?id=37292864) - [Trees guard their seeds: Unlocking the secrets of mast seeding](https://phys.org/news/2023-08-trees-seeds-secrets-mast-seeding.html)
@@ -30,6 +29,7 @@
 * [2023-08-28, 07:39:51](https://news.ycombinator.com/item?id=37291007) - [The secretive world of North Korean science fiction](https://arstechnica.com/culture/2023/08/the-strange-secretive-world-of-north-korean-science-fiction/)
 * [2023-08-28, 06:02:36](https://news.ycombinator.com/item?id=37290356) - [CLI text processing with GNU awk](https://learnbyexample.github.io/learn_gnuawk/awk-introduction.html)
 * [2023-08-27, 16:58:49](https://news.ycombinator.com/item?id=37284472) - [Reaching the Unix philosophy's logical extreme with WebAssembly](https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm)
+* [2023-08-26, 10:40:09](https://news.ycombinator.com/item?id=37271528) - [Ancient Popcorn (2012)](https://www.si.edu/newsdesk/releases/ancient-popcorn-discovered-peru)
 
 ## [Archives](archives/index.md)
 

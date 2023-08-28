@@ -77,6 +77,7 @@
 * [2023-08-26, 11:00:18](https://news.ycombinator.com/item?id=37271644) - [When Kraftwerk Issued Their Own Pocket Calculator Synthesizer (2019)](https://www.openculture.com/2019/06/when-kraftwerk-issued-their-own-pocket-calculator-synthesizer.html)
 * [2023-08-26, 10:58:41](https://news.ycombinator.com/item?id=37271635) - [X (erstwhile Twitter) introduces Studio](https://studio.twitter.com/)
 * [2023-08-26, 10:54:39](https://news.ycombinator.com/item?id=37271611) - [Clean mount lists in Linux](https://dbohdan.com/clean-mount-lists)
+* [2023-08-26, 10:40:09](https://news.ycombinator.com/item?id=37271528) - [Ancient Popcorn (2012)](https://www.si.edu/newsdesk/releases/ancient-popcorn-discovered-peru)
 * [2023-08-26, 10:38:54](https://news.ycombinator.com/item?id=37271515) - [Austin company unveils humanoid robot](https://www.kxan.com/news/local/austin/austin-company-unveils-humanoid-robot/)
 * [2023-08-26, 10:19:59](https://news.ycombinator.com/item?id=37271401) - [As I get older, I just don't care about new technology](https://old.reddit.com/r/webdev/comments/1613yqj/as_i_get_older_i_just_dont_care_about_new/)
 * [2023-08-26, 10:01:54](https://news.ycombinator.com/item?id=37271269) - [NES Emulator in Common Lisp](https://github.com/samanthadoran/potential-disco)
