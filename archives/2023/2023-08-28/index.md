@@ -13,6 +13,7 @@
 * [2023-08-28, 17:10:04](https://news.ycombinator.com/item?id=37297312) - [Social media’s addictive loop compels users to share mindlessly](https://dornsife.usc.edu/news/stories/social-media-addiction-share-mindlessly/)
 * [2023-08-28, 17:09:47](https://news.ycombinator.com/item?id=37297304) - [Introducing ChatGPT Enterprise](https://openai.com/blog/introducing-chatgpt-enterprise)
 * [2023-08-28, 17:00:12](https://news.ycombinator.com/item?id=37297174) - [SiPhox (YC S20) Is Hiring](https://www.ycombinator.com/companies/siphox/jobs/nFufcgs-siphox-kit-team-lead-director-level)
+* [2023-08-28, 16:37:22](https://news.ycombinator.com/item?id=37296803) - [Dark Messiah modding community got Ubisoft approval](https://www.moddb.com/mods/dark-messiah-co-op/news/a-call-to-dark-messiah-arms)
 * [2023-08-28, 16:36:17](https://news.ycombinator.com/item?id=37296783) - [Nvidia on the Mountaintop](https://stratechery.com/2023/nvidia-on-the-mountaintop/)
 * [2023-08-28, 16:13:47](https://news.ycombinator.com/item?id=37296401) - [Fig Has Joined AWS](https://fig.io/blog/post/fig-joins-aws)
 * [2023-08-28, 16:03:54](https://news.ycombinator.com/item?id=37296247) - [What can I do as an amateur hacker to get the best programming job next year?](https://news.ycombinator.com/item?id=37296247)
