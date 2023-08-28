@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-28, 16:13:47](https://news.ycombinator.com/item?id=37296401) - [Fig Has Joined AWS](https://fig.io/blog/post/fig-joins-aws)
 * [2023-08-28, 16:03:54](https://news.ycombinator.com/item?id=37296247) - [What can I do as an amateur hacker to get the best programming job next year?](https://news.ycombinator.com/item?id=37296247)
 * [2023-08-28, 15:51:43](https://news.ycombinator.com/item?id=37296040) - [Show HN: Turning Websites into Animated Videos](https://www.minidemo.app/)
 * [2023-08-28, 15:42:21](https://news.ycombinator.com/item?id=37295884) - [MastApple//C, a Mastodon client for the Apple II (//C and ][e)](https://www.colino.net/wordpress/en/binary-release-of-mastodon-for-the-apple-c/)
@@ -23,7 +24,6 @@
 * [2023-08-28, 10:24:58](https://news.ycombinator.com/item?id=37292016) - [What does it take to make your own integrated circuits at home?](https://hackaday.com/2022/03/22/old-printer-becomes-direct-laser-lithography-machine/)
 * [2023-08-28, 09:46:41](https://news.ycombinator.com/item?id=37291765) - [We put half a million files in one Git repository (2022)](https://www.canva.dev/blog/engineering/we-put-half-a-million-files-in-one-git-repository-heres-what-we-learned/)
 * [2023-08-28, 09:01:40](https://news.ycombinator.com/item?id=37291504) - [Fortran](https://fortran-lang.org/en/index.html)
-* [2023-08-28, 07:40:18](https://news.ycombinator.com/item?id=37291010) - [Why the AGPL is often unenforceable (2015)](https://www.devever.net/~hl/agplunenforceable)
 * [2023-08-28, 07:39:51](https://news.ycombinator.com/item?id=37291007) - [The secretive world of North Korean science fiction](https://arstechnica.com/culture/2023/08/the-strange-secretive-world-of-north-korean-science-fiction/)
 * [2023-08-28, 06:02:36](https://news.ycombinator.com/item?id=37290356) - [CLI text processing with GNU awk](https://learnbyexample.github.io/learn_gnuawk/awk-introduction.html)
 * [2023-08-28, 04:23:05](https://news.ycombinator.com/item?id=37289742) - [Finding Hope in the Dark Power of Fungus](https://www.noemamag.com/finding-hope-in-the-dark-power-of-fungus/)

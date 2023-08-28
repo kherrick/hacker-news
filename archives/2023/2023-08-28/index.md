@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
+* [2023-08-28, 16:13:47](https://news.ycombinator.com/item?id=37296401) - [Fig Has Joined AWS](https://fig.io/blog/post/fig-joins-aws)
 * [2023-08-28, 16:03:54](https://news.ycombinator.com/item?id=37296247) - [What can I do as an amateur hacker to get the best programming job next year?](https://news.ycombinator.com/item?id=37296247)
 * [2023-08-28, 15:56:26](https://news.ycombinator.com/item?id=37296108) - [GNOME's Sysprof Adds FlameGraphs to Better Visualize Output](https://www.phoronix.com/news/GNOME-Sysprof-FlameGraphs)
 * [2023-08-28, 15:51:43](https://news.ycombinator.com/item?id=37296040) - [Show HN: Turning Websites into Animated Videos](https://www.minidemo.app/)
