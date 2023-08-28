@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-28, 07:28:38](https://news.ycombinator.com/item?id=37290942) - [How to Design Programs (2023)](https://htdp.org/2023-8-14/Book/index.html)
-* [2023-08-28, 06:33:58](https://news.ycombinator.com/item?id=37290574) - [Mastercard ends Binance card partnership in latest blow to crypto giant](https://www.cnbc.com/2023/08/25/mastercard-ends-binance-card-partnership.html)
 * [2023-08-28, 06:02:36](https://news.ycombinator.com/item?id=37290356) - [CLI text processing with GNU awk](https://learnbyexample.github.io/learn_gnuawk/awk-introduction.html)
 * [2023-08-28, 05:15:55](https://news.ycombinator.com/item?id=37290042) - [Inmos and the Transputer – Parallel Ventures](https://thechipletter.substack.com/p/inmos-and-the-transputer-part-1-parallel)
 * [2023-08-28, 04:30:25](https://news.ycombinator.com/item?id=37289789) - [The Elements of Style [pdf]](https://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf)
+* [2023-08-28, 03:18:34](https://news.ycombinator.com/item?id=37289321) - [PHP-Tokio – Use any async Rust library from PHP](https://github.com/danog/php-tokio)
 * [2023-08-28, 02:38:40](https://news.ycombinator.com/item?id=37289067) - [West Point discovers time capsule from 1828](https://www.westpoint.edu/news/press-releases/west-point-discovers-time-capsule-monument-base)
 * [2023-08-28, 02:27:34](https://news.ycombinator.com/item?id=37288978) - [Evergrande shares plunge as much as 87% as trading resumes after 17 months](https://www.cnbc.com/2023/08/28/china-evergrande-shares-plunge-as-trading-resumes-trade-after-17-months.html)
 * [2023-08-28, 01:05:24](https://news.ycombinator.com/item?id=37288446) - [Writing Linux Modules in Ada (2016)](http://www.nihamkin.com/2016/10/23/writing-linux-modules-in-ada-part-1/#writing-linux-modules-in-ada-part-1)

@@ -10,6 +10,7 @@
 * [2023-08-28, 05:15:55](https://news.ycombinator.com/item?id=37290042) - [Inmos and the Transputer – Parallel Ventures](https://thechipletter.substack.com/p/inmos-and-the-transputer-part-1-parallel)
 * [2023-08-28, 04:30:25](https://news.ycombinator.com/item?id=37289789) - [The Elements of Style [pdf]](https://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf)
 * [2023-08-28, 03:23:04](https://news.ycombinator.com/item?id=37289349) - [Total data loss after botched GitOps and failed backups](https://firefish.social/notes/9iqefgi8rzfksnqc)
+* [2023-08-28, 03:18:34](https://news.ycombinator.com/item?id=37289321) - [PHP-Tokio – Use any async Rust library from PHP](https://github.com/danog/php-tokio)
 * [2023-08-28, 03:02:46](https://news.ycombinator.com/item?id=37289215) - [Crumb,a New Programming Language of No Keywords, and Everything Is a Function](https://github.com/liam-ilan/crumb)
 * [2023-08-28, 02:53:38](https://news.ycombinator.com/item?id=37289151) - [Scrum is a cancer](https://twitter.com/svpino/status/1695806027256475777)
 * [2023-08-28, 02:38:40](https://news.ycombinator.com/item?id=37289067) - [West Point discovers time capsule from 1828](https://www.westpoint.edu/news/press-releases/west-point-discovers-time-capsule-monument-base)
