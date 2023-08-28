@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
+* [2023-08-28, 14:07:10](https://news.ycombinator.com/item?id=37294198) - [Past Covid infection protection against re-infection: a systematic meta-analysis](https://www.thelancet.com/article/S0140-6736(22)02465-5/fulltext)
+* [2023-08-28, 13:44:13](https://news.ycombinator.com/item?id=37293855) - [We Don’t Need a New Twitter](https://calnewport.com/we-dont-need-a-new-twitter/)
+* [2023-08-28, 13:42:38](https://news.ycombinator.com/item?id=37293836) - [Wet-Bulb Temperature](https://en.wikipedia.org/wiki/Wet-bulb_temperature)
 * [2023-08-28, 13:22:20](https://news.ycombinator.com/item?id=37293557) - [E-Bike Industry Blames Consumers for Fires to Undermine Right to Repair Laws](https://www.techdirt.com/2023/08/28/e-bike-industry-blames-consumers-for-fires-in-effort-to-undermine-right-to-repair-laws/)
 * [2023-08-28, 13:21:28](https://news.ycombinator.com/item?id=37293542) - [Hackers can get your IP through Skype by just sending a link, no click required](https://www.404media.co/hackers-find-your-skype-ip-address-microsoft-wont-fix/)
 * [2023-08-28, 13:03:31](https://news.ycombinator.com/item?id=37293294) - [Ohio LinuxFest 2023 Conference Speakers](https://olfconference.org/speakers/)
 * [2023-08-28, 12:57:14](https://news.ycombinator.com/item?id=37293236) - [A Harvard Professor Became the World’s Leading Alien Hunter](https://www.nytimes.com/2023/08/24/magazine/avi-loeb-alien-hunter.html)
+* [2023-08-28, 12:50:45](https://news.ycombinator.com/item?id=37293175) - [Divide your life into semesters, even when you’re not in school](https://www.vox.com/even-better/23835758/divide-life-semesters-not-in-school-motivation-goals)
 * [2023-08-28, 12:47:26](https://news.ycombinator.com/item?id=37293143) - [Ask HN: Are “theoretical” concepts being lost by new engineers?](https://news.ycombinator.com/item?id=37293143)
 * [2023-08-28, 12:45:56](https://news.ycombinator.com/item?id=37293132) - [An open-source MySQL alternative for running database on Kubernetes](https://github.com/apecloud/kubeblocks)
 * [2023-08-28, 12:42:33](https://news.ycombinator.com/item?id=37293103) - [Tesla braces for its first trial involving Autopilot fatality](https://www.reuters.com/business/autos-transportation/tesla-braces-its-first-trial-involving-autopilot-fatality-2023-08-28/)
