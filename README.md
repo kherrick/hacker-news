@@ -1,14 +1,15 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-28, 02:38:40](https://news.ycombinator.com/item?id=37289067) - [West Point discovers time capsule from 1828](https://www.westpoint.edu/news/press-releases/west-point-discovers-time-capsule-monument-base)
 * [2023-08-28, 02:27:34](https://news.ycombinator.com/item?id=37288978) - [Evergrande shares plunge as much as 87% as trading resumes after 17 months](https://www.cnbc.com/2023/08/28/china-evergrande-shares-plunge-as-trading-resumes-trade-after-17-months.html)
 * [2023-08-28, 02:22:51](https://news.ycombinator.com/item?id=37288944) - [72-Year-Old C++ Creator Bjarne Stroustrup Shares Life Advice](https://developers.slashdot.org/story/23/08/26/029217/72-year-old-c-creator-bjarne-stroustrup-shares-life-advice)
-* [2023-08-28, 02:15:44](https://news.ycombinator.com/item?id=37288889) - [The ‘Fidelity Mafia’ Behind Big Crypto](https://www.wsj.com/finance/currencies/the-fidelity-mafia-behind-big-crypto-953ad00e)
 * [2023-08-28, 01:52:08](https://news.ycombinator.com/item?id=37288734) - [Milk Bag](https://en.wikipedia.org/wiki/Milk_bag)
 * [2023-08-28, 01:33:24](https://news.ycombinator.com/item?id=37288627) - [Hacker Smacker: Friend/foe individual writers on Hacker News](https://github.com/samuelclay/hackersmacker)
 * [2023-08-28, 01:05:24](https://news.ycombinator.com/item?id=37288446) - [Writing Linux Modules in Ada – Part 1](http://www.nihamkin.com/2016/10/23/writing-linux-modules-in-ada-part-1/#writing-linux-modules-in-ada-part-1)
 * [2023-08-28, 00:32:34](https://news.ycombinator.com/item?id=37288208) - [Federal study links testicular cancer to ‘forever chemicals’](https://undark.org/2023/08/22/federal-study-links-testicular-cancer-to-forever-chemicals/)
 * [2023-08-27, 23:58:36](https://news.ycombinator.com/item?id=37287923) - [On being ready to die, and yet also now being able to swallow ice cream](https://jakeseliger.com/2023/08/27/on-being-ready-to-die-and-yet-also-now-being-able-to-swallow-slurries-including-ice-cream/)
 * [2023-08-27, 23:15:08](https://news.ycombinator.com/item?id=37287591) - [A study on robustness and reliability of large language model code generation](https://arxiv.org/abs/2308.10335)
+* [2023-08-27, 22:59:29](https://news.ycombinator.com/item?id=37287472) - [Open-Source Washing](https://github.com/ergomake/layerform/blob/main/blog/source-available-is-not-open-source.md)
 * [2023-08-27, 22:42:00](https://news.ycombinator.com/item?id=37287339) - [Running WASI binaries from your HTML using Web Components](https://runno.dev/articles/wasi-web-component)
 * [2023-08-27, 22:28:56](https://news.ycombinator.com/item?id=37287239) - [Scientists are working to bring the woolly mammoth back](https://www.popularmechanics.com/science/animals/a42708517/scientists-reincarnating-woolly-mammoth/)
 * [2023-08-27, 22:17:21](https://news.ycombinator.com/item?id=37287155) - [Netbirdio/netbird: Connect devices into a single private WireGuard mesh network](https://github.com/netbirdio/netbird)
@@ -29,7 +30,6 @@
 * [2023-08-26, 17:02:10](https://news.ycombinator.com/item?id=37274610) - [UX design patterns for loading](https://pencilandpaper.io/articles/ux-pattern-analysis-loading-feedback/)
 * [2023-08-26, 11:00:18](https://news.ycombinator.com/item?id=37271644) - [Kraftwerk issued their own pocket calculator synthesizer (2019)](https://www.openculture.com/2019/06/when-kraftwerk-issued-their-own-pocket-calculator-synthesizer.html)
 * [2023-08-26, 08:04:27](https://news.ycombinator.com/item?id=37270739) - [The Ptrace Anti-RE Trick](http://hkopp.github.io/2023/08/the-ptrace-anti-re-trick)
-* [2023-08-26, 04:45:08](https://news.ycombinator.com/item?id=37270007) - [Japan's abandoned villages](https://www.japantimes.co.jp/news/2023/08/18/japan/society/exploring-the-eerie-beauty-of-japans-abandoned-villages/)
 
 ## [Archives](archives/index.md)
 
