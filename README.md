@@ -16,7 +16,6 @@
 * [2023-08-28, 16:13:47](https://news.ycombinator.com/item?id=37296401) - [Amazon acquires Fig](https://fig.io/blog/post/fig-joins-aws)
 * [2023-08-28, 15:59:07](https://news.ycombinator.com/item?id=37296153) - [Parallel garbage collection for SBCL [pdf]](https://applied-langua.ge/~hayley/swcl-gc.pdf)
 * [2023-08-28, 15:38:11](https://news.ycombinator.com/item?id=37295817) - [SEC charges Impact Theory for unregistered offering of NFTs](https://www.sec.gov/news/press-release/2023-163)
-* [2023-08-28, 15:14:21](https://news.ycombinator.com/item?id=37295408) - [Unit Test LlamaIndex with DeepEval](https://docs.confident-ai.com/docs/tutorials/evaluating-llamaindex)
 * [2023-08-28, 15:00:59](https://news.ycombinator.com/item?id=37295149) - [Launch HN: HyLight (YC S23) – Hydrogen airships to inspect energy infrastructure](https://news.ycombinator.com/item?id=37295149)
 * [2023-08-28, 15:00:43](https://news.ycombinator.com/item?id=37295144) - [Lfortran: Modern interactive LLVM-based Fortran compiler](https://lfortran.org/)
 * [2023-08-28, 14:58:09](https://news.ycombinator.com/item?id=37295097) - [OpenTelemetry in 2023](https://bit.kevinslin.com/p/opentelemetry-in-2023)
@@ -30,6 +29,7 @@
 * [2023-08-28, 04:29:42](https://news.ycombinator.com/item?id=37289785) - [Dog who served on both sides of the American Revolution](https://www.smithsonianmag.com/history/the-dog-who-served-on-both-sides-of-the-american-revolution-180982781/)
 * [2023-08-27, 16:58:49](https://news.ycombinator.com/item?id=37284472) - [Reaching the Unix philosophy's logical extreme with WebAssembly](https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm)
 * [2023-08-27, 06:16:31](https://news.ycombinator.com/item?id=37279895) - [Can a worker-owned restaurant work?](https://southseattleemerald.com/2023/08/26/can-a-worker-owned-restaurant-work/)
+* [2023-08-26, 10:40:09](https://news.ycombinator.com/item?id=37271528) - [Ancient Popcorn (2012)](https://www.si.edu/newsdesk/releases/ancient-popcorn-discovered-peru)
 
 ## [Archives](archives/index.md)
 
