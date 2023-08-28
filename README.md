@@ -2,6 +2,7 @@
 
 * [2023-08-28, 08:33:54](https://news.ycombinator.com/item?id=37291346) - [VanCubic Camper Modules Turn Your Cargo Van into a Modern House on Wheels in 1hr](https://www.autoevolution.com/news/vancubic-camper-modules-turn-your-cargo-van-into-a-modern-house-on-wheels-in-just-an-hour-220182.html)
 * [2023-08-28, 08:13:37](https://news.ycombinator.com/item?id=37291225) - [Polish railway system hacked, trains forced to stop by attackers](https://twitter.com/vxunderground/status/1695604752661295610)
+* [2023-08-28, 07:58:57](https://news.ycombinator.com/item?id=37291133) - [Pricing your SaaS on the demand curve using the Pareto power law](https://www.heymarketcurve.com/blog/saas-pricing)
 * [2023-08-28, 07:58:34](https://news.ycombinator.com/item?id=37291130) - [Ask HN: Is it possible to get a conversation with a CEO from here?](https://news.ycombinator.com/item?id=37291130)
 * [2023-08-28, 07:40:18](https://news.ycombinator.com/item?id=37291010) - [Why the AGPL is often unenforceable (2015)](https://www.devever.net/~hl/agplunenforceable)
 * [2023-08-28, 07:28:38](https://news.ycombinator.com/item?id=37290942) - [How to Design Programs (2023)](https://htdp.org/2023-8-14/Book/index.html)
@@ -26,8 +27,7 @@
 * [2023-08-27, 13:05:32](https://news.ycombinator.com/item?id=37282334) - [That Old NetBSD Server, Running Since 2010](https://it-notes.dragas.net/2023/08/27/that-old-netbsd-server-running-since-2010/)
 * [2023-08-27, 04:49:58](https://news.ycombinator.com/item?id=37279509) - [Homer and His Iliad](https://www.historytoday.com/archive/review/homer-and-his-iliad-robin-lane-fox-review)
 * [2023-08-27, 03:47:28](https://news.ycombinator.com/item?id=37279279) - [The Decreationist: Simone Weil’s thoughts on the unmaking of the self](https://theamericanscholar.org/the-decreationist/)
-* [2023-08-26, 23:05:43](https://news.ycombinator.com/item?id=37277718) - [Martin Miller talks about his mother, Alice Miller (2015)](https://www.contemporarypsychotherapy.org/volume-7-issue-1-summer-2015/interview-martin-miller/)
-* [2023-08-26, 20:32:36](https://news.ycombinator.com/item?id=37276630) - [Tokyo by Train (2016) [video]](https://www.youtube.com/watch?v=Y49VfddU-L4)
+* [2023-08-26, 17:28:10](https://news.ycombinator.com/item?id=37274882) - [Show HN: Going into freshman year, figured I should build an interpreter](https://news.ycombinator.com/item?id=37274882)
 * [2023-08-26, 17:02:10](https://news.ycombinator.com/item?id=37274610) - [UX design patterns for loading](https://pencilandpaper.io/articles/ux-pattern-analysis-loading-feedback/)
 * [2023-08-26, 08:04:27](https://news.ycombinator.com/item?id=37270739) - [The Ptrace Anti-RE Trick](http://hkopp.github.io/2023/08/the-ptrace-anti-re-trick)
 
