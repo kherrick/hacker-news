@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
+* [2023-08-28, 09:55:02](https://news.ycombinator.com/item?id=37291824) - [How many years to senior engineer?](https://swizec.com/blog/how-many-years-to-senior-engineer/)
+* [2023-08-28, 09:46:41](https://news.ycombinator.com/item?id=37291765) - [We Put Half a Million Files in One Git Repository, Here's What We Learned (2022)](https://www.canva.dev/blog/engineering/we-put-half-a-million-files-in-one-git-repository-heres-what-we-learned/)
 * [2023-08-28, 09:01:40](https://news.ycombinator.com/item?id=37291504) - [Fortran](https://fortran-lang.org/en/index.html)
 * [2023-08-28, 08:33:54](https://news.ycombinator.com/item?id=37291346) - [VanCubic Camper Modules Turn Your Cargo Van into a Modern House on Wheels in 1hr](https://www.autoevolution.com/news/vancubic-camper-modules-turn-your-cargo-van-into-a-modern-house-on-wheels-in-just-an-hour-220182.html)
 * [2023-08-28, 08:13:37](https://news.ycombinator.com/item?id=37291225) - [Polish railway system hacked, trains forced to stop by attackers](https://twitter.com/vxunderground/status/1695604752661295610)
@@ -11,6 +13,7 @@
 * [2023-08-28, 07:58:34](https://news.ycombinator.com/item?id=37291130) - [Ask HN: Is it possible to get a conversation with a CEO from here?](https://news.ycombinator.com/item?id=37291130)
 * [2023-08-28, 07:40:18](https://news.ycombinator.com/item?id=37291010) - [Why the AGPL is often unenforceable (2015)](https://www.devever.net/~hl/agplunenforceable)
 * [2023-08-28, 07:28:38](https://news.ycombinator.com/item?id=37290942) - [How to Design Programs (2023)](https://htdp.org/2023-8-14/Book/index.html)
+* [2023-08-28, 07:06:02](https://news.ycombinator.com/item?id=37290790) - [Korean Air is asking passengers to step on the scales before boarding](https://www.cnbc.com/2023/08/28/should-airlines-weigh-passengers-its-for-safety-say-airlines-.html)
 * [2023-08-28, 06:33:58](https://news.ycombinator.com/item?id=37290574) - [Mastercard ends Binance card partnership in latest blow to crypto giant](https://www.cnbc.com/2023/08/25/mastercard-ends-binance-card-partnership.html)
 * [2023-08-28, 06:02:36](https://news.ycombinator.com/item?id=37290356) - [Learn GNU Awk with hundreds of examples and exercises](https://learnbyexample.github.io/learn_gnuawk/awk-introduction.html)
 * [2023-08-28, 05:15:55](https://news.ycombinator.com/item?id=37290042) - [Inmos and the Transputer – Parallel Ventures](https://thechipletter.substack.com/p/inmos-and-the-transputer-part-1-parallel)
