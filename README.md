@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-28, 13:22:20](https://news.ycombinator.com/item?id=37293557) - [E-Bike Industry Blames Consumers for Fires to Undermine Right to Repair Laws](https://www.techdirt.com/2023/08/28/e-bike-industry-blames-consumers-for-fires-in-effort-to-undermine-right-to-repair-laws/)
+* [2023-08-28, 13:21:28](https://news.ycombinator.com/item?id=37293542) - [Hackers can get your IP through Skype by just sending a link, no click required](https://www.404media.co/hackers-find-your-skype-ip-address-microsoft-wont-fix/)
 * [2023-08-28, 13:03:31](https://news.ycombinator.com/item?id=37293294) - [Ohio LinuxFest 2023 Conference Speakers](https://olfconference.org/speakers/)
 * [2023-08-28, 12:57:14](https://news.ycombinator.com/item?id=37293236) - [A Harvard professor became the world’s leading alien hunter](https://www.nytimes.com/2023/08/24/magazine/avi-loeb-alien-hunter.html)
 * [2023-08-28, 12:45:56](https://news.ycombinator.com/item?id=37293132) - [An open-source MySQL alternative for running database on Kubernetes](https://github.com/apecloud/kubeblocks)
@@ -25,7 +26,6 @@
 * [2023-08-28, 00:32:34](https://news.ycombinator.com/item?id=37288208) - [Federal study links testicular cancer to ‘forever chemicals’](https://undark.org/2023/08/22/federal-study-links-testicular-cancer-to-forever-chemicals/)
 * [2023-08-27, 23:58:36](https://news.ycombinator.com/item?id=37287923) - [On being ready to die, and yet also now being able to swallow ice cream](https://jakeseliger.com/2023/08/27/on-being-ready-to-die-and-yet-also-now-being-able-to-swallow-slurries-including-ice-cream/)
 * [2023-08-27, 23:15:08](https://news.ycombinator.com/item?id=37287591) - [A study on robustness and reliability of large language model code generation](https://arxiv.org/abs/2308.10335)
-* [2023-08-27, 22:42:00](https://news.ycombinator.com/item?id=37287339) - [Running WASI binaries from your HTML using Web Components](https://runno.dev/articles/wasi-web-component)
 * [2023-08-27, 21:37:49](https://news.ycombinator.com/item?id=37286860) - [A new method to reprogram human cells to better mimic embryonic stem cells](https://www.uwa.edu.au/news/Article/2023/August/Scientists-find-way-to-wipe-a-cells-memory-to-reprogram-it-as-a-stem-cell)
 * [2023-08-27, 19:58:17](https://news.ycombinator.com/item?id=37286074) - [High-Dimensional Probability and Applications in Data Science](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html)
 * [2023-08-27, 13:05:32](https://news.ycombinator.com/item?id=37282334) - [That Old NetBSD Server, Running Since 2010](https://it-notes.dragas.net/2023/08/27/that-old-netbsd-server-running-since-2010/)
