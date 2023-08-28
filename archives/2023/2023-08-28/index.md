@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
+* [2023-08-28, 08:33:54](https://news.ycombinator.com/item?id=37291346) - [VanCubic Camper Modules Turn Your Cargo Van into a Modern House on Wheels in 1hr](https://www.autoevolution.com/news/vancubic-camper-modules-turn-your-cargo-van-into-a-modern-house-on-wheels-in-just-an-hour-220182.html)
+* [2023-08-28, 08:13:37](https://news.ycombinator.com/item?id=37291225) - [Polish railway system hacked, trains forced to stop by attackers](https://twitter.com/vxunderground/status/1695604752661295610)
 * [2023-08-28, 07:58:34](https://news.ycombinator.com/item?id=37291130) - [Ask HN: Is it possible to get a conversation with a CEO from here?](https://news.ycombinator.com/item?id=37291130)
 * [2023-08-28, 07:40:18](https://news.ycombinator.com/item?id=37291010) - [Why the AGPL is often unenforceable (2015)](https://www.devever.net/~hl/agplunenforceable)
 * [2023-08-28, 07:28:38](https://news.ycombinator.com/item?id=37290942) - [How to Design Programs (2023)](https://htdp.org/2023-8-14/Book/index.html)
