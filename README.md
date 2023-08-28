@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-28, 18:59:10](https://news.ycombinator.com/item?id=37298866) - [A JVM in Rust part 5 – Executing instructions](https://andreabergia.com/blog/2023/08/a-jvm-in-rust-part-5-executing-instructions/)
 * [2023-08-28, 18:37:32](https://news.ycombinator.com/item?id=37298616) - [Opening of West Point time capsule reveals what cynics said it would: Nothing](https://www.freep.com/story/news/local/michigan/2023/08/28/west-point-time-capsule-kosciuszko-mystery/70697206007/)
 * [2023-08-28, 18:29:27](https://news.ycombinator.com/item?id=37298506) - [Serial adapter / reboot controller for Apple M1/M2](https://www.tindie.com/products/aaafnraa/serial-adapter-reboot-controller-for-apple-m1m2/)
 * [2023-08-28, 17:46:32](https://news.ycombinator.com/item?id=37297823) - [When your classmates threaten you with felony charges](https://miles.land/posts/classmates-legal-threat-fizz-defcon/)
@@ -12,13 +13,12 @@
 * [2023-08-28, 16:37:22](https://news.ycombinator.com/item?id=37296803) - [Dark Messiah modding community got Ubisoft approval](https://www.moddb.com/mods/dark-messiah-co-op/news/a-call-to-dark-messiah-arms)
 * [2023-08-28, 16:36:17](https://news.ycombinator.com/item?id=37296783) - [Nvidia on the Mountaintop](https://stratechery.com/2023/nvidia-on-the-mountaintop/)
 * [2023-08-28, 16:13:47](https://news.ycombinator.com/item?id=37296401) - [Fig Has Joined AWS](https://fig.io/blog/post/fig-joins-aws)
-* [2023-08-28, 15:42:21](https://news.ycombinator.com/item?id=37295884) - [MastApple//C, a Mastodon client for the Apple II (//C and ][e)](https://www.colino.net/wordpress/en/binary-release-of-mastodon-for-the-apple-c/)
 * [2023-08-28, 15:25:00](https://news.ycombinator.com/item?id=37295611) - [Steel Bank Common Lisp 2.3.8 released: “a mark-region parallel GC is available”](https://www.sbcl.org/news.html#2.3.8)
 * [2023-08-28, 15:14:21](https://news.ycombinator.com/item?id=37295408) - [Unit Test LlamaIndex with DeepEval](https://docs.confident-ai.com/docs/tutorials/evaluating-llamaindex)
-* [2023-08-28, 15:03:39](https://news.ycombinator.com/item?id=37295192) - [Continue with LocalAI: An alternative to GitHub's Copilot that runs locally](https://old.reddit.com/r/selfhosted/comments/163nxcm/continue_with_localai_an_alternative_to_githubs/)
 * [2023-08-28, 15:00:59](https://news.ycombinator.com/item?id=37295149) - [Launch HN: HyLight (YC S23) – Hydrogen airships to inspect energy infrastructure](https://news.ycombinator.com/item?id=37295149)
 * [2023-08-28, 15:00:43](https://news.ycombinator.com/item?id=37295144) - [Lfortran: Modern interactive LLVM-based Fortran compiler](https://lfortran.org/)
 * [2023-08-28, 14:58:09](https://news.ycombinator.com/item?id=37295097) - [OpenTelemetry in 2023](https://bit.kevinslin.com/p/opentelemetry-in-2023)
+* [2023-08-28, 14:56:19](https://news.ycombinator.com/item?id=37295066) - [Designing a new concurrent data structure](https://questdb.io/blog/concurrent-lockfree-datastructure-design-walkthrough/)
 * [2023-08-28, 14:42:04](https://news.ycombinator.com/item?id=37294793) - [Postgres: The Unexpected Find That Freed 20GB of Unused Index Space](https://hakibenita.com/postgresql-unused-index-size)
 * [2023-08-28, 14:21:05](https://news.ycombinator.com/item?id=37294440) - [Zero-Downtime Hetzner Deploys with Ansible](https://scratchdb.com/blog/ansible-hetzner-deploys/)
 * [2023-08-28, 13:48:44](https://news.ycombinator.com/item?id=37293911) - [Helm-Compose – The Docker-compose like tool for K8s development](https://seacrew.github.io/helm-compose/)
@@ -29,7 +29,7 @@
 * [2023-08-28, 09:01:40](https://news.ycombinator.com/item?id=37291504) - [Fortran](https://fortran-lang.org/en/index.html)
 * [2023-08-28, 07:39:51](https://news.ycombinator.com/item?id=37291007) - [The secretive world of North Korean science fiction](https://arstechnica.com/culture/2023/08/the-strange-secretive-world-of-north-korean-science-fiction/)
 * [2023-08-28, 06:02:36](https://news.ycombinator.com/item?id=37290356) - [CLI text processing with GNU awk](https://learnbyexample.github.io/learn_gnuawk/awk-introduction.html)
-* [2023-08-28, 04:23:05](https://news.ycombinator.com/item?id=37289742) - [Finding Hope in the Dark Power of Fungus](https://www.noemamag.com/finding-hope-in-the-dark-power-of-fungus/)
+* [2023-08-27, 06:16:31](https://news.ycombinator.com/item?id=37279895) - [Can a worker-owned restaurant work](https://southseattleemerald.com/2023/08/26/can-a-worker-owned-restaurant-work/)
 
 ## [Archives](archives/index.md)
 
