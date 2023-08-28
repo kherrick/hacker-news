@@ -94,6 +94,7 @@
 * [2023-08-28, 06:02:36](https://news.ycombinator.com/item?id=37290356) - [Learn GNU Awk with hundreds of examples and exercises](https://learnbyexample.github.io/learn_gnuawk/awk-introduction.html)
 * [2023-08-28, 05:15:55](https://news.ycombinator.com/item?id=37290042) - [Inmos and the Transputer – Parallel Ventures](https://thechipletter.substack.com/p/inmos-and-the-transputer-part-1-parallel)
 * [2023-08-28, 04:30:25](https://news.ycombinator.com/item?id=37289789) - [The Elements of Style [pdf]](https://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf)
+* [2023-08-28, 04:29:42](https://news.ycombinator.com/item?id=37289785) - [Dog who served on both sides of the American Revolution](https://www.smithsonianmag.com/history/the-dog-who-served-on-both-sides-of-the-american-revolution-180982781/)
 * [2023-08-28, 04:23:05](https://news.ycombinator.com/item?id=37289742) - [Finding Hope in the Dark Power of Fungus](https://www.noemamag.com/finding-hope-in-the-dark-power-of-fungus/)
 * [2023-08-28, 03:23:04](https://news.ycombinator.com/item?id=37289349) - [Total data loss after botched GitOps and failed backups](https://firefish.social/notes/9iqefgi8rzfksnqc)
 * [2023-08-28, 03:18:34](https://news.ycombinator.com/item?id=37289321) - [PHP-Tokio – Use any async Rust library from PHP](https://github.com/danog/php-tokio)
