@@ -86,6 +86,7 @@
 * [2023-08-28, 07:28:38](https://news.ycombinator.com/item?id=37290942) - [How to Design Programs (2023)](https://htdp.org/2023-8-14/Book/index.html)
 * [2023-08-28, 07:16:53](https://news.ycombinator.com/item?id=37290853) - [Homeric Question: With No Predecessor to Imitate, No Successor Could Imitate Him](https://fantasticanachronism.com/2020/01/17/having-had-no-predecessor-to-imitate/)
 * [2023-08-28, 07:06:02](https://news.ycombinator.com/item?id=37290790) - [Korean Air is asking passengers to step on the scales before boarding](https://www.cnbc.com/2023/08/28/should-airlines-weigh-passengers-its-for-safety-say-airlines-.html)
+* [2023-08-28, 06:41:20](https://news.ycombinator.com/item?id=37290625) - [Souvenir Spoons Museum](http://spoonplanet.com/)
 * [2023-08-28, 06:33:58](https://news.ycombinator.com/item?id=37290574) - [Mastercard ends Binance card partnership in latest blow to crypto giant](https://www.cnbc.com/2023/08/25/mastercard-ends-binance-card-partnership.html)
 * [2023-08-28, 06:02:36](https://news.ycombinator.com/item?id=37290356) - [Learn GNU Awk with hundreds of examples and exercises](https://learnbyexample.github.io/learn_gnuawk/awk-introduction.html)
 * [2023-08-28, 05:15:55](https://news.ycombinator.com/item?id=37290042) - [Inmos and the Transputer – Parallel Ventures](https://thechipletter.substack.com/p/inmos-and-the-transputer-part-1-parallel)
