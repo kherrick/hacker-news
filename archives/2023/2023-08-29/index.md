@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
+* [2023-08-29, 20:14:15](https://news.ycombinator.com/item?id=37313293) - [Drumscript: A simple MIDI drum machine scripting language](https://github.com/tepreece/drumscript)
 * [2023-08-29, 19:21:58](https://news.ycombinator.com/item?id=37312579) - [I chose the ThinkPad Z13 Gen1 as my Linux laptop](https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/)
 * [2023-08-29, 19:19:23](https://news.ycombinator.com/item?id=37312540) - [Jama: Evidence does not show that common cancer screening tests extend lifetime](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2808648)
 * [2023-08-29, 19:17:58](https://news.ycombinator.com/item?id=37312523) - [Webstudio: Open-source WYSIWYG adds Radix UI elements](https://webstudio.is/radix)
@@ -11,6 +12,7 @@
 * [2023-08-29, 19:09:40](https://news.ycombinator.com/item?id=37312404) - [Show HN: Why AI data should be self hosted](https://www.layernext.ai//post/why-is-layernext-self-hosted-by-default)
 * [2023-08-29, 19:08:23](https://news.ycombinator.com/item?id=37312385) - [MapReduce, TensorFlow, Vertex: Google's bet to avoid repeating history in AI](https://www.supervised.news/p/mapreduce-tensorflow-bard-also-hello)
 * [2023-08-29, 18:37:16](https://news.ycombinator.com/item?id=37312001) - [Linux overtakes Mac as Steam's second-most used OS, thanks to the Steam Deck](https://www.pcgamer.com/linux-overtakes-mac-as-steams-second-most-used-os-and-its-all-thanks-to-the-steam-deck/)
+* [2023-08-29, 18:35:16](https://news.ycombinator.com/item?id=37311975) - [Hacking GTA V RP Servers Using Web Exploitation Techniques](https://www.nullpt.rs/hacking-gta-servers-using-web-exploitation)
 * [2023-08-29, 18:29:12](https://news.ycombinator.com/item?id=37311891) - [Bicyclists Deserve the Right to Free Movement](https://www.thenation.com/article/society/bicycles-cycling-bike-safety/)
 * [2023-08-29, 18:19:52](https://news.ycombinator.com/item?id=37311780) - [AWS Works Council Germany](https://www.aws-works-council-initiative.de/)
 * [2023-08-29, 17:57:50](https://news.ycombinator.com/item?id=37311508) - [Popularity of DOS/4GW made Win95 game compat easier, but with higher stakes](https://devblogs.microsoft.com/oldnewthing/20230829-00/?p=108661)
