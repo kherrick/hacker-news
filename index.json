@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-29, 19:21:58",
+      "https://news.ycombinator.com/item?id=37312579"
+    ],
+    [
+      "I chose the ThinkPad Z13 Gen1 as my Linux laptop",
+      "https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/"
+    ]
+  ],
+  [
+    [
       "2023-08-29, 19:19:23",
       "https://news.ycombinator.com/item?id=37312540"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=37312502"
     ],
     [
-      "Google Announced AlloyDB AI for Building Generative AI Apps with PostgreSQL",
+      "AlloyDB AI: Generative AI applications with PostgreSQL",
       "https://cloud.google.com/blog/products/databases/helping-developers-build-gen-ai-apps-with-google-cloud-databases"
     ]
   ],
@@ -37,6 +47,16 @@
     [
       "Show HN: Why AI data should be self hosted",
       "https://www.layernext.ai//post/why-is-layernext-self-hosted-by-default"
+    ]
+  ],
+  [
+    [
+      "2023-08-29, 19:08:23",
+      "https://news.ycombinator.com/item?id=37312385"
+    ],
+    [
+      "MapReduce, TensorFlow, Vertex: Google's bet to avoid repeating history in AI",
+      "https://www.supervised.news/p/mapreduce-tensorflow-bard-also-hello"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Popularity of DOS/4GW made Win95 game compat easier, but with higher stakes",
       "https://devblogs.microsoft.com/oldnewthing/20230829-00/?p=108661"
-    ]
-  ],
-  [
-    [
-      "2023-08-29, 17:48:50",
-      "https://news.ycombinator.com/item?id=37311394"
-    ],
-    [
-      "A Deep Dive into Weaviate's Fusion Algorithms for Hybrid Search",
-      "https://weaviate.io/blog/hybrid-search-fusion-algorithms"
     ]
   ],
   [
@@ -121,12 +131,12 @@
   ],
   [
     [
-      "2023-08-29, 15:24:58",
-      "https://news.ycombinator.com/item?id=37309309"
+      "2023-08-29, 14:48:20",
+      "https://news.ycombinator.com/item?id=37308747"
     ],
     [
-      "Lesser Known Postgres Features (2021)",
-      "https://hakibenita.com/postgresql-unknown-features"
+      "Ask HN: Why did Python win?",
+      "https://news.ycombinator.com/item?id=37308747"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The first observation of neutrinos at CERN's Large Hadron Collider",
       "https://phys.org/news/2023-08-neutrinos-cern-large-hadron-collider.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-28, 20:07:03",
-      "https://news.ycombinator.com/item?id=37299746"
-    ],
-    [
-      "What can historical clothing reveal that other sources cannot?",
-      "https://www.historytoday.com/archive/head-head/what-can-historical-clothing-reveal-other-sources-cannot"
     ]
   ]
 ]
