@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
+* [2023-08-29, 19:21:58](https://news.ycombinator.com/item?id=37312579) - [I chose the ThinkPad Z13 Gen1 as my Linux laptop](https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/)
 * [2023-08-29, 19:19:23](https://news.ycombinator.com/item?id=37312540) - [Jama: Evidence does not show that common cancer screening tests extend lifetime](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2808648)
 * [2023-08-29, 19:17:58](https://news.ycombinator.com/item?id=37312523) - [Webstudio: Open-source WYSIWYG adds Radix UI elements](https://webstudio.is/radix)
 * [2023-08-29, 19:16:41](https://news.ycombinator.com/item?id=37312502) - [Google Announced AlloyDB AI for Building Generative AI Apps with PostgreSQL](https://cloud.google.com/blog/products/databases/helping-developers-build-gen-ai-apps-with-google-cloud-databases)
 * [2023-08-29, 19:09:40](https://news.ycombinator.com/item?id=37312404) - [Show HN: Why AI data should be self hosted](https://www.layernext.ai//post/why-is-layernext-self-hosted-by-default)
+* [2023-08-29, 19:08:23](https://news.ycombinator.com/item?id=37312385) - [MapReduce, TensorFlow, Vertex: Google's bet to avoid repeating history in AI](https://www.supervised.news/p/mapreduce-tensorflow-bard-also-hello)
 * [2023-08-29, 18:37:16](https://news.ycombinator.com/item?id=37312001) - [Linux overtakes Mac as Steam's second-most used OS, thanks to the Steam Deck](https://www.pcgamer.com/linux-overtakes-mac-as-steams-second-most-used-os-and-its-all-thanks-to-the-steam-deck/)
 * [2023-08-29, 18:29:12](https://news.ycombinator.com/item?id=37311891) - [Bicyclists Deserve the Right to Free Movement](https://www.thenation.com/article/society/bicycles-cycling-bike-safety/)
 * [2023-08-29, 18:19:52](https://news.ycombinator.com/item?id=37311780) - [AWS Works Council Germany](https://www.aws-works-council-initiative.de/)
@@ -28,6 +30,7 @@
 * [2023-08-29, 15:24:58](https://news.ycombinator.com/item?id=37309309) - [Lesser Known Postgres Features](https://hakibenita.com/postgresql-unknown-features)
 * [2023-08-29, 15:21:34](https://news.ycombinator.com/item?id=37309250) - [When did people stop being drunk all the time?](https://www.lefineder.com/p/when-did-people-stop-being-drunk)
 * [2023-08-29, 15:17:57](https://news.ycombinator.com/item?id=37309189) - [Can Chrome Sync or Firefox Sync be trusted with sensitive data?](https://palant.info/2018/03/13/can-chrome-sync-or-firefox-sync-be-trusted-with-sensitive-data/)
+* [2023-08-29, 14:48:20](https://news.ycombinator.com/item?id=37308747) - [Ask HN: Why did Python win?](https://news.ycombinator.com/item?id=37308747)
 * [2023-08-29, 14:44:19](https://news.ycombinator.com/item?id=37308708) - [Air pollution greatest global threat to human health, says benchmark study](https://phys.org/news/2023-08-air-pollution-greatest-global-threat.html)
 * [2023-08-29, 14:42:03](https://news.ycombinator.com/item?id=37308675) - [FDA schedules meeting to establish regulatory rules for artificial womb trials](https://www.fda.gov/advisory-committees/advisory-committee-calendar/pediatric-advisory-committee-meeting-announcement-09192023)
 * [2023-08-29, 14:24:29](https://news.ycombinator.com/item?id=37308409) - [ChatGPT web and mobile UIs unavailable](https://status.openai.com/incidents/5l07rfcr5fyn)
