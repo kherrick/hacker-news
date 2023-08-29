@@ -129,6 +129,28 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="37311239">
+          <h3>
+            <a
+              class="item"
+              href="https://www.404media.co/activists-petition-government-for-right-to-hack-mcdonalds-mcflurry-machines-to-repair-them/"
+              >iFixit Petitions Government for Right to Hack McDonald's Ice
+              Cream Machine</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-08-29 @ 17:37:31</span
+              ><span class="points-container"
+                >Points: <span class="points">24</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37311239"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="37310772">
           <h3>
             <a
@@ -142,11 +164,11 @@
             <h4>
               <span>2023-08-29 @ 17:02:49</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37310772"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -167,25 +189,6 @@
             </h4>
           </section>
         </section>
-        <section id="37310531">
-          <h3>
-            <a class="item" href="https://arxiv.org/abs/2308.08998"
-              >Reinforced Self-Training (ReST) for Language Modeling</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-08-29 @ 16:46:16</span
-              ><span class="points-container"
-                >Points: <span class="points">6</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37310531"
-                  >Comments</a
-                ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="37310314">
           <h3>
             <a
@@ -198,13 +201,140 @@
             <h4>
               <span>2023-08-29 @ 16:30:26</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37310314"
                   >Comments</a
-                ><span class="descendants">: 85</span></span
+                ><span class="descendants">: 91</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="37310070">
+          <h3>
+            <a class="item" href="https://github.com/langfuse/langfuse"
+              >Show HN: Langfuse – Open-source observability and analytics for
+              LLM apps</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-08-29 @ 16:14:06</span
+              ><span class="points-container"
+                >Points: <span class="points">31</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37310070"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://github.com/langfuse/langfuse"
+                >https://github.com/langfuse/langfuse</a
+              >, 2 min demo:
+              <a href="https://langfuse.com/video">https://langfuse.com/video</a
+              >, try it yourself:
+              <a href="https://langfuse.com/demo">https://langfuse.com/demo</a>)
+              <p>
+                Langfuse makes capturing and viewing LLM calls (execution
+                traces) a breeze. On top of this data, you can analyze the
+                quality, cost and latency of LLM apps.
+              </p>
+              <p>
+                When GPT-4 dropped, we started building LLM apps – a lot of
+                them! [1, 2] But they all suffered from the same issue: it’s
+                hard to assure quality in 100% of cases and even to have a clear
+                view of user behavior. Initially, we logged all
+                prompts/completions to our production database to understand
+                what works and what doesn’t. We soon realized we needed more
+                context, more data and better analytics to sustainably improve
+                our apps. So we started building a homegrown tool.
+              </p>
+              <p>
+                Our first task was to track and view what is going on in
+                production: what user input is provided, how prompt templates or
+                vector db requests work, and which steps of an LLM chain fail.
+                We built async SDKs and a slick frontend to render chains in a
+                nested way. It’s a good way to look at LLM logic ‘natively’.
+                Then we added some basic analytics to understand token usage and
+                quality over time for the entire project or single users
+                (pre-built dashboards).
+              </p>
+              <p>
+                Under the hood, we use the T3 stack (Typescript, NextJs, Prisma,
+                tRPC, Tailwind, NextAuth), which allows us to move fast + it
+                means it's easy to contribute to our repo. The SDKs are heavily
+                influenced by the design of the PostHog SDKs [3] for stable
+                implementations of async network requests. It was a surprisingly
+                inconvenient experience to convert OpenAPI specs to boilerplate
+                Python code and we ended up using Fern [4] here. We’re fans of
+                Tailwind + shadcn/ui + tremor.so for speed and flexibility in
+                building tables and dashboards fast.
+              </p>
+              <p>
+                Our SDKs run fully asynchronously and make network requests in
+                the background. We did our best to reduce any impact on
+                application performance to a minimum. We never block the main
+                execution path.
+              </p>
+              <p>
+                We've made two engineering decisions we've felt uncertain about:
+                to use a Postgres database and Looker Studio for the analytics
+                MVP. Supabase performs well at our scale and integrates
+                seamlessly into our tech stack. We will need to move to an OLAP
+                database soon and are debating if we need to start batching
+                ingestion and if we can keep using Vercel. Any experience you
+                could share would be helpful!
+              </p>
+              <p>
+                Integrating Looker Studio got us to first analytics charts in
+                half a day. As it is not open-source and does not work with our
+                UI/UX, we are looking to switch it out for an OSS solution to
+                flexibly generate charts and dashboards. We’ve had a look at
+                Lightdash and would be happy to hear your thoughts.
+              </p>
+              <p>
+                We’re borrowing our OSS business model from Posthog/Supabase who
+                make it easy to self-host with features reserved for enterprise
+                (no plans yet) and a paid version for managed cloud service.
+                Right now all of our code is available under a permissive
+                license (MIT).
+              </p>
+              <p>
+                Next, we’re going deep on analytics. For quality specifically,
+                we will build out model-based evaluations and labeling to be
+                able to cluster traces by scores and use cases.
+              </p>
+              <p>
+                Looking forward to hearing your thoughts and discussion – we’ll
+                be in the comments. Thanks!
+              </p>
+              <p>
+                [1]
+                <a href="https://learn-from-ai.com/"
+                  >https://learn-from-ai.com/</a
+                >
+              </p>
+              <p>
+                [2]
+                <a
+                  href="https://www.loom.com/share/5c044ca77be44ff7821967834dd70cba"
+                  >https://www.loom.com/share/5c044ca77be44ff7821967834dd70cba</a
+                >
+              </p>
+              <p>
+                [3]
+                <a href="https://posthog.com/docs/libraries"
+                  >https://posthog.com/docs/libraries</a
+                >
+              </p>
+              <p>
+                [4]
+                <a href="https://buildwithfern.com/"
+                  >https://buildwithfern.com/</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="37309818">
@@ -217,30 +347,11 @@
             <h4>
               <span>2023-08-29 @ 15:57:58</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37309818"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="37309786">
-          <h3>
-            <a class="item" href="https://museapp.com/end-and-beginning/"
-              >An End, and a Beginning</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-08-29 @ 15:55:28</span
-              ><span class="points-container"
-                >Points: <span class="points">28</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37309786"
-                  >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -257,7 +368,7 @@
             <h4>
               <span>2023-08-29 @ 15:24:58</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37309309"
                   >Comments</a
@@ -271,19 +382,19 @@
             <a
               class="item"
               href="https://palant.info/2018/03/13/can-chrome-sync-or-firefox-sync-be-trusted-with-sensitive-data/"
-              >Can Chrome Sync or Firefox Sync be trusted with sensitive
-              data?</a
+              >Can Chrome Sync or Firefox Sync be trusted with sensitive data?
+              (2018)</a
             >
           </h3>
           <section>
             <h4>
               <span>2023-08-29 @ 15:17:57</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37309189"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -298,11 +409,11 @@
             <h4>
               <span>2023-08-29 @ 14:24:21</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37308405"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -319,7 +430,7 @@
             <h4>
               <span>2023-08-29 @ 13:44:20</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37307828"
                   >Comments</a
@@ -341,11 +452,11 @@
             <h4>
               <span>2023-08-29 @ 13:41:41</span
               ><span class="points-container"
-                >Points: <span class="points">148</span></span
+                >Points: <span class="points">153</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37307788"
                   >Comments</a
-                ><span class="descendants">: 85</span></span
+                ><span class="descendants">: 89</span></span
               >
             </h4>
           </section>
@@ -362,11 +473,11 @@
             <h4>
               <span>2023-08-29 @ 13:36:05</span
               ><span class="points-container"
-                >Points: <span class="points">301</span></span
+                >Points: <span class="points">313</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37307708"
                   >Comments</a
-                ><span class="descendants">: 139</span></span
+                ><span class="descendants">: 146</span></span
               >
             </h4>
           </section>
@@ -383,7 +494,7 @@
             <h4>
               <span>2023-08-29 @ 13:32:45</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37307653"
                   >Comments</a
@@ -404,11 +515,11 @@
             <h4>
               <span>2023-08-29 @ 13:21:34</span
               ><span class="points-container"
-                >Points: <span class="points">189</span></span
+                >Points: <span class="points">195</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37307473"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -425,7 +536,7 @@
             <h4>
               <span>2023-08-29 @ 13:10:13</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37307313"
                   >Comments</a
@@ -447,11 +558,11 @@
             <h4>
               <span>2023-08-29 @ 12:31:27</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37306769"
                   >Comments</a
-                ><span class="descendants">: 173</span></span
+                ><span class="descendants">: 181</span></span
               >
             </h4>
           </section>
@@ -468,11 +579,11 @@
             <h4>
               <span>2023-08-29 @ 12:11:42</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37306534"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -489,11 +600,11 @@
             <h4>
               <span>2023-08-29 @ 12:11:12</span
               ><span class="points-container"
-                >Points: <span class="points">111</span></span
+                >Points: <span class="points">115</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37306530"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -511,7 +622,7 @@
             <h4>
               <span>2023-08-29 @ 11:20:23</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37306055"
                   >Comments</a
@@ -532,11 +643,11 @@
             <h4>
               <span>2023-08-29 @ 10:51:31</span
               ><span class="points-container"
-                >Points: <span class="points">189</span></span
+                >Points: <span class="points">192</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37305800"
                   >Comments</a
-                ><span class="descendants">: 78</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -553,11 +664,11 @@
             <h4>
               <span>2023-08-29 @ 09:48:30</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">97</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37305338"
                   >Comments</a
-                ><span class="descendants">: 341</span></span
+                ><span class="descendants">: 359</span></span
               >
             </h4>
           </section>
@@ -573,11 +684,11 @@
             <h4>
               <span>2023-08-29 @ 09:30:35</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">129</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37305240"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -592,32 +703,11 @@
             <h4>
               <span>2023-08-29 @ 08:34:46</span
               ><span class="points-container"
-                >Points: <span class="points">188</span></span
+                >Points: <span class="points">190</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37304870"
                   >Comments</a
                 ><span class="descendants">: 9</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="37304803">
-          <h3>
-            <a
-              class="item"
-              href="https://cloud.google.com/blog/products/maps-platform/announcing-pollen-api-providing-actionable-info-about-airborne-pollen-levels-worldwide"
-              >Announcing the Pollen API</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-08-29 @ 08:21:57</span
-              ><span class="points-container"
-                >Points: <span class="points">113</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37304803"
-                  >Comments</a
-                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -632,11 +722,11 @@
             <h4>
               <span>2023-08-29 @ 08:19:35</span
               ><span class="points-container"
-                >Points: <span class="points">167</span></span
+                >Points: <span class="points">168</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37304789"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
@@ -651,11 +741,11 @@
             <h4>
               <span>2023-08-29 @ 07:11:09</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37304370"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -670,7 +760,7 @@
             <h4>
               <span>2023-08-29 @ 05:55:40</span
               ><span class="points-container"
-                >Points: <span class="points">228</span></span
+                >Points: <span class="points">229</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37303960"
                   >Comments</a
@@ -689,11 +779,11 @@
             <h4>
               <span>2023-08-29 @ 03:52:47</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37303384"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -710,11 +800,11 @@
             <h4>
               <span>2023-08-28 @ 20:07:03</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37299746"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -734,6 +824,27 @@
                 ><a href="https://news.ycombinator.com/item?id=37294099"
                   >Comments</a
                 ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="37291674">
+          <h3>
+            <a
+              class="item"
+              href="https://nicolo.dev/en/blog/fairplay-apple-obfuscation/"
+              >Analysis of obfuscations found in Apple FairPlay</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-08-28 @ 09:28:17</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37291674"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
