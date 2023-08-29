@@ -82,6 +82,7 @@
 * [2023-08-26, 10:32:30](https://news.ycombinator.com/item?id=37271475) - [Experiments with higher-kinded types and object algebras in C# (2020)](https://github.com/tgrospic/object-algebras)
 * [2023-08-26, 10:19:59](https://news.ycombinator.com/item?id=37271401) - [As I get older, I just don't care about new technology](https://old.reddit.com/r/webdev/comments/1613yqj/as_i_get_older_i_just_dont_care_about_new/)
 * [2023-08-26, 10:01:54](https://news.ycombinator.com/item?id=37271269) - [NES Emulator in Common Lisp](https://github.com/samanthadoran/potential-disco)
+* [2023-08-26, 09:46:30](https://news.ycombinator.com/item?id=37271162) - [The Python dictionary dispatch pattern](https://jamesg.blog/2023/08/26/python-dictionary-dispatch/)
 * [2023-08-26, 09:15:59](https://news.ycombinator.com/item?id=37271001) - [Portable OpenBSD vi for Unix systems](https://github.com/johnsonjh/OpenVi)
 * [2023-08-26, 09:11:16](https://news.ycombinator.com/item?id=37270979) - [Bare Metal Space Invaders](https://blog.fponzi.me/2023-08-13-bare-metal-space-invaders.html)
 * [2023-08-26, 08:52:16](https://news.ycombinator.com/item?id=37270908) - [Entropy in Engineering Processes](https://logical.li/blog/entropy/)

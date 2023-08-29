@@ -3,7 +3,7 @@
 * [2023-08-29, 11:20:52](https://news.ycombinator.com/item?id=37306058) - [Show HN: Advanced Tab Manager for Firefox](https://addons.mozilla.org/en-US/firefox/addon/grasshopper-urls/)
 * [2023-08-29, 10:51:31](https://news.ycombinator.com/item?id=37305800) - [Grave flaws in BGP Error handling](https://blog.benjojo.co.uk/post/bgp-path-attributes-grave-error-handling)
 * [2023-08-29, 10:46:12](https://news.ycombinator.com/item?id=37305752) - [Exxon says world set to fail 2°C global warming cap by 2050](https://www.reuters.com/business/energy/exxon-projects-oil-gas-be-54-worlds-energy-needs-2050-2023-08-28/)
-* [2023-08-29, 09:33:48](https://news.ycombinator.com/item?id=37305260) - [AI Crap – Drew Devault](https://drewdevault.com/2023/08/29/2023-08-29-AI-crap.html)
+* [2023-08-29, 09:33:48](https://news.ycombinator.com/item?id=37305260) - [AI Crap](https://drewdevault.com/2023/08/29/2023-08-29-AI-crap.html)
 * [2023-08-29, 09:30:35](https://news.ycombinator.com/item?id=37305240) - [Automatic Generation of Visualizations and Infographics with LLMs](https://microsoft.github.io/lida/)
 * [2023-08-29, 08:52:56](https://news.ycombinator.com/item?id=37304983) - [The Interim Computer Museum](https://icm.museum)
 * [2023-08-29, 08:34:46](https://news.ycombinator.com/item?id=37304870) - [Visualization of Common Algorithms](https://visualgo.net/en)
@@ -29,7 +29,7 @@
 * [2023-08-28, 04:24:54](https://news.ycombinator.com/item?id=37289756) - [Loose lips save sunken ships](https://hakaimagazine.com/features/loose-lips-save-sunken-ships/)
 * [2023-08-27, 05:25:34](https://news.ycombinator.com/item?id=37279651) - [Practical parsing with Flex and Bison (2021)](https://begriffs.com/posts/2021-11-28-practical-parsing.html)
 * [2023-08-26, 10:32:30](https://news.ycombinator.com/item?id=37271475) - [Experiments with higher-kinded types and object algebras in C# (2020)](https://github.com/tgrospic/object-algebras)
-* [2023-08-25, 07:51:16](https://news.ycombinator.com/item?id=37259204) - [Explore the Genealogy of Timepieces](https://watchsage.uc.r.appspot.com/)
+* [2023-08-26, 09:46:30](https://news.ycombinator.com/item?id=37271162) - [The Python dictionary dispatch pattern](https://jamesg.blog/2023/08/26/python-dictionary-dispatch/)
 
 ## [Archives](archives/index.md)
 
