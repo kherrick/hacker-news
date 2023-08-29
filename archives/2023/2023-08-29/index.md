@@ -76,6 +76,7 @@
 * [2023-08-29, 11:25:48](https://news.ycombinator.com/item?id=37306108) - [Google Bard: incredible that this is a shipped product](https://twitter.com/rawxrawxraw/status/1691253814769184768)
 * [2023-08-29, 11:20:52](https://news.ycombinator.com/item?id=37306058) - [Show HN: Advanced Tab Manager for Firefox](https://addons.mozilla.org/en-US/firefox/addon/grasshopper-urls/)
 * [2023-08-29, 11:20:23](https://news.ycombinator.com/item?id=37306055) - [Neutrons prove ‘Bond villain’ did not cause Arecibo telescope collapse](https://www.ornl.gov/news/neutrons-prove-bond-villain-did-not-cause-arecibo-telescope-collapse)
+* [2023-08-29, 11:17:02](https://news.ycombinator.com/item?id=37306018) - [Installing Mac OS on the Nintendo Wii [video]](https://www.youtube.com/watch?v=mdXQ8rcmF48)
 * [2023-08-29, 10:51:31](https://news.ycombinator.com/item?id=37305800) - [Grave flaws in BGP Error handling](https://blog.benjojo.co.uk/post/bgp-path-attributes-grave-error-handling)
 * [2023-08-29, 10:46:12](https://news.ycombinator.com/item?id=37305752) - [Exxon says world set to fail 2°C global warming cap by 2050](https://www.reuters.com/business/energy/exxon-projects-oil-gas-be-54-worlds-energy-needs-2050-2023-08-28/)
 * [2023-08-29, 09:55:20](https://news.ycombinator.com/item?id=37305383) - [Llama 2 is about as factually accurate as GPT-4 for summaries and is 30X cheaper](https://www.anyscale.com/blog/llama-2-is-about-as-factually-accurate-as-gpt-4-for-summaries-and-is-30x-cheaper)
