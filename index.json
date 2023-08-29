@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-29, 19:19:23",
+      "https://news.ycombinator.com/item?id=37312540"
+    ],
+    [
+      "Jama: Evidence does not show that common cancer screening tests extend lifetime",
+      "https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2808648"
+    ]
+  ],
+  [
+    [
       "2023-08-29, 19:17:58",
       "https://news.ycombinator.com/item?id=37312523"
     ],
@@ -17,6 +27,16 @@
     [
       "Google Announced AlloyDB AI for Building Generative AI Apps with PostgreSQL",
       "https://cloud.google.com/blog/products/databases/helping-developers-build-gen-ai-apps-with-google-cloud-databases"
+    ]
+  ],
+  [
+    [
+      "2023-08-29, 19:09:40",
+      "https://news.ycombinator.com/item?id=37312404"
+    ],
+    [
+      "Show HN: Why AI data should be self hosted",
+      "https://www.layernext.ai//post/why-is-layernext-self-hosted-by-default"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-08-29, 12:11:42",
-      "https://news.ycombinator.com/item?id=37306534"
-    ],
-    [
-      "Simplifying GPU Application Development with HMM",
-      "https://developer.nvidia.com/blog/simplifying-gpu-application-development-with-heterogeneous-memory-management/"
-    ]
-  ],
-  [
-    [
       "2023-08-29, 11:20:23",
       "https://news.ycombinator.com/item?id=37306055"
     ],
@@ -241,32 +251,12 @@
   ],
   [
     [
-      "2023-08-29, 08:21:57",
-      "https://news.ycombinator.com/item?id=37304803"
-    ],
-    [
-      "Announcing the Pollen API",
-      "https://cloud.google.com/blog/products/maps-platform/announcing-pollen-api-providing-actionable-info-about-airborne-pollen-levels-worldwide"
-    ]
-  ],
-  [
-    [
       "2023-08-29, 08:19:35",
       "https://news.ycombinator.com/item?id=37304789"
     ],
     [
       "Abandoned and little-known airfields",
       "http://www.airfields-freeman.com/"
-    ]
-  ],
-  [
-    [
-      "2023-08-29, 05:55:40",
-      "https://news.ycombinator.com/item?id=37303960"
-    ],
-    [
-      "Alexandria: A minimalistic cross-platform eBook reader",
-      "https://github.com/btpf/Alexandria"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The Cheap Radio Hack That Disrupted Poland's Railway System",
       "https://www.wired.com/story/poland-train-radio-stop-attack/"
+    ]
+  ],
+  [
+    [
+      "2023-08-29, 00:47:03",
+      "https://news.ycombinator.com/item?id=37302176"
+    ],
+    [
+      "The first observation of neutrinos at CERN's Large Hadron Collider",
+      "https://phys.org/news/2023-08-neutrinos-cern-large-hadron-collider.html"
     ]
   ],
   [
