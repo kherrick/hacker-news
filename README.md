@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-29, 15:21:34](https://news.ycombinator.com/item?id=37309250) - [When did people stop being drunk all the time?](https://www.lefineder.com/p/when-did-people-stop-being-drunk)
 * [2023-08-29, 14:44:19](https://news.ycombinator.com/item?id=37308708) - [Air pollution greatest global threat to human health, says benchmark study](https://phys.org/news/2023-08-air-pollution-greatest-global-threat.html)
 * [2023-08-29, 14:24:21](https://news.ycombinator.com/item?id=37308405) - [Starlink's User Terminal Firmware](https://blog.quarkslab.com/starlink.html)
 * [2023-08-29, 13:44:20](https://news.ycombinator.com/item?id=37307828) - [C.R. Rao: A Life in Statistics (2020)](https://bhavana.org.in/c-r-rao-a-life-in-statistics/)
@@ -9,6 +8,7 @@
 * [2023-08-29, 13:32:45](https://news.ycombinator.com/item?id=37307653) - [Analysis of Obfuscation Techniques Found in Apple FairPlay](https://nicolo.dev/en/blog/fairplay-apple-obfuscation/)
 * [2023-08-29, 13:21:34](https://news.ycombinator.com/item?id=37307473) - [Accessible Palette: stop using HSL for color systems](https://wildbit.com/blog/accessible-palette-stop-using-hsl-for-color-systems)
 * [2023-08-29, 13:10:13](https://news.ycombinator.com/item?id=37307313) - [Observability in WebAssembly](https://dev.dylibso.com/docs/observe/overview/)
+* [2023-08-29, 13:07:00](https://news.ycombinator.com/item?id=37307260) - [How Mojo gets a 35,000x speedup over Python – Part 2](https://www.modular.com/blog/how-mojo-gets-a-35-000x-speedup-over-python-part-2)
 * [2023-08-29, 13:06:43](https://news.ycombinator.com/item?id=37307253) - [StarCitizen Server Meshing Architecture](https://sc-server-meshing.info/wiki)
 * [2023-08-29, 12:31:27](https://news.ycombinator.com/item?id=37306769) - [I don’t buy “duplication is cheaper than the wrong abstraction” (2021)](https://www.codewithjason.com/duplication-cheaper-wrong-abstraction/)
 * [2023-08-29, 12:11:42](https://news.ycombinator.com/item?id=37306534) - [Simplifying GPU Application Development with HMM](https://developer.nvidia.com/blog/simplifying-gpu-application-development-with-heterogeneous-memory-management/)
