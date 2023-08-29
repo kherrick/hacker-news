@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-29, 16:30:26](https://news.ycombinator.com/item?id=37310314) - [Embracing Sabbaticals, Sunsetting Retirement Age](https://jacek.migdal.pl/2023/08/16/sabbaticals.html)
 * [2023-08-29, 15:57:58](https://news.ycombinator.com/item?id=37309818) - [MagicEdit: High-Fidelity Temporally Coherent Video Editing](https://magic-edit.github.io/)
+* [2023-08-29, 15:55:28](https://news.ycombinator.com/item?id=37309786) - [An End, and a Beginning](https://museapp.com/end-and-beginning/)
 * [2023-08-29, 15:40:48](https://news.ycombinator.com/item?id=37309563) - [‘Life or Death:’ AI-Generated Mushroom Foraging Books Are All over Amazon](https://www.404media.co/ai-generated-mushroom-foraging-books-amazon/)
 * [2023-08-29, 15:24:58](https://news.ycombinator.com/item?id=37309309) - [Lesser Known Postgres Features](https://hakibenita.com/postgresql-unknown-features)
 * [2023-08-29, 14:44:19](https://news.ycombinator.com/item?id=37308708) - [Air pollution greatest global threat to human health, says benchmark study](https://phys.org/news/2023-08-air-pollution-greatest-global-threat.html)
@@ -26,10 +28,8 @@
 * [2023-08-29, 08:21:57](https://news.ycombinator.com/item?id=37304803) - [Announcing the Pollen API](https://cloud.google.com/blog/products/maps-platform/announcing-pollen-api-providing-actionable-info-about-airborne-pollen-levels-worldwide)
 * [2023-08-29, 08:19:35](https://news.ycombinator.com/item?id=37304789) - [Abandoned and Little-Known Airfields](http://www.airfields-freeman.com/)
 * [2023-08-29, 07:11:09](https://news.ycombinator.com/item?id=37304370) - [Unix sockets, Cygwin, SSH agents, and sadness](https://mjg59.dreamwidth.org/67402.html)
-* [2023-08-29, 07:01:44](https://news.ycombinator.com/item?id=37304306) - [Stringzilla: Fastest string sort, search, split, and shuffle using SIMD](https://github.com/ashvardanian/Stringzilla)
 * [2023-08-29, 05:55:40](https://news.ycombinator.com/item?id=37303960) - [Alexandria: A minimalistic cross-platform eBook reader](https://github.com/btpf/Alexandria)
 * [2023-08-28, 20:07:03](https://news.ycombinator.com/item?id=37299746) - [What can historical clothing reveal that other sources cannot?](https://www.historytoday.com/archive/head-head/what-can-historical-clothing-reveal-other-sources-cannot)
-* [2023-08-27, 12:17:45](https://news.ycombinator.com/item?id=37281920) - [Scenes from the Solbourne Computer corporate video, March 1992](http://oldvcr.blogspot.com/2023/08/scenes-from-solbourne-computer.html)
 
 ## [Archives](archives/index.md)
 
