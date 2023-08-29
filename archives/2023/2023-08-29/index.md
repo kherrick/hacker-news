@@ -6,6 +6,7 @@
 
 * [2023-08-29, 14:24:29](https://news.ycombinator.com/item?id=37308409) - [ChatGPT web and mobile UIs unavailable](https://status.openai.com/incidents/5l07rfcr5fyn)
 * [2023-08-29, 14:24:21](https://news.ycombinator.com/item?id=37308405) - [Diving into Starlink's User Terminal Firmware](https://blog.quarkslab.com/starlink.html)
+* [2023-08-29, 14:18:31](https://news.ycombinator.com/item?id=37308329) - [She paid husband's hospital bill. A year after his death, they wanted more money](https://text.npr.org/1194289492)
 * [2023-08-29, 13:55:50](https://news.ycombinator.com/item?id=37308009) - [200k users abandon Netflix after crackdown backfires](https://www.forbes.com.au/news/innovation/netflix-password-crackdown-backfires/)
 * [2023-08-29, 13:48:27](https://news.ycombinator.com/item?id=37307886) - [Extreme poverty: How far have we come, and how far do we still have to go?](https://ourworldindata.org/extreme-poverty-in-brief)
 * [2023-08-29, 13:44:20](https://news.ycombinator.com/item?id=37307828) - [C.R. Rao: A Life in Statistics](https://bhavana.org.in/c-r-rao-a-life-in-statistics/)
