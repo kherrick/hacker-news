@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-29, 10:51:31",
+      "https://news.ycombinator.com/item?id=37305800"
+    ],
+    [
+      "Grave flaws in BGP Error handling",
+      "https://blog.benjojo.co.uk/post/bgp-path-attributes-grave-error-handling"
+    ]
+  ],
+  [
+    [
       "2023-08-29, 09:33:48",
       "https://news.ycombinator.com/item?id=37305260"
     ],
@@ -71,6 +81,16 @@
   ],
   [
     [
+      "2023-08-29, 07:53:25",
+      "https://news.ycombinator.com/item?id=37304626"
+    ],
+    [
+      "Silicon Valley faces a crisis of nonsense",
+      "https://www.piratewires.com/p/choose-good-quests"
+    ]
+  ],
+  [
+    [
       "2023-08-29, 07:11:09",
       "https://news.ycombinator.com/item?id=37304370"
     ],
@@ -107,16 +127,6 @@
     [
       "Alexandria: A minimalistic cross-platform eBook reader",
       "https://github.com/btpf/Alexandria"
-    ]
-  ],
-  [
-    [
-      "2023-08-29, 04:57:35",
-      "https://news.ycombinator.com/item?id=37303695"
-    ],
-    [
-      "How to share a NumPy array between processes",
-      "https://superfastpython.com/numpy-share-array-processes/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Parallel garbage collection for SBCL [pdf]",
       "https://applied-langua.ge/~hayley/swcl-gc.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-08-28, 15:14:26",
-      "https://news.ycombinator.com/item?id=37295409"
-    ],
-    [
-      "Startup receives grant for clinical trial of a promising eye treatment",
-      "https://research.usc.edu/news/2023/08/usc-supported-startup-receives-major-grant-for-clinical-trial-of-a-promising-eye-treatment/"
     ]
   ],
   [
