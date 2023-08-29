@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-08-29, 05:33:35",
-      "https://news.ycombinator.com/item?id=37303868"
-    ],
-    [
-      "Paper Straws Have Higher 'Forever Chemical' Concentration Than Plastic Straws",
-      "https://reason.com/2023/08/25/presence-of-forever-chemicals-in-paper-straws-highlights-the-inanity-of-plastic-straw-bans/"
-    ]
-  ],
-  [
-    [
       "2023-08-29, 04:57:35",
       "https://news.ycombinator.com/item?id=37303695"
     ],
@@ -287,6 +277,16 @@
     [
       "Practical parsing with Flex and Bison (2021)",
       "https://begriffs.com/posts/2021-11-28-practical-parsing.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-26, 10:32:30",
+      "https://news.ycombinator.com/item?id=37271475"
+    ],
+    [
+      "Experiments with higher-kinded types and object algebras in C# (2020)",
+      "https://github.com/tgrospic/object-algebras"
     ]
   ],
   [
