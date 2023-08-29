@@ -5,7 +5,6 @@
 * [2023-08-29, 06:35:54](https://news.ycombinator.com/item?id=37304153) - [Source: Google Pixel 8 will get more Android OS updates](https://9to5google.com/2023/08/28/google-pixel-8-android-os-updates/)
 * [2023-08-29, 06:30:17](https://news.ycombinator.com/item?id=37304125) - [A note to young folks: download the things you love](https://birchtree.me/blog/a-note-to-young-folks-download-the-videos-you-love/)
 * [2023-08-29, 05:55:40](https://news.ycombinator.com/item?id=37303960) - [Alexandria: A minimalistic cross-platform eBook reader](https://github.com/btpf/Alexandria)
-* [2023-08-29, 05:33:35](https://news.ycombinator.com/item?id=37303868) - [Paper Straws Have Higher 'Forever Chemical' Concentration Than Plastic Straws](https://reason.com/2023/08/25/presence-of-forever-chemicals-in-paper-straws-highlights-the-inanity-of-plastic-straw-bans/)
 * [2023-08-29, 04:57:35](https://news.ycombinator.com/item?id=37303695) - [How to share a NumPy array between processes](https://superfastpython.com/numpy-share-array-processes/)
 * [2023-08-29, 04:28:35](https://news.ycombinator.com/item?id=37303569) - [Toyota to halt operations at all Japan assembly plants due to system failure](https://www.reuters.com/business/autos-transportation/toyota-halts-operations-12-japan-factories-due-system-failure-nhk-2023-08-29/)
 * [2023-08-29, 03:49:42](https://news.ycombinator.com/item?id=37303364) - [Implementing Nearest-Neighbour Recommendations in Ruby](https://www.vector-logic.com/blog/posts/implementing-neighbour-based-recommendations-in-ruby)
@@ -29,6 +28,7 @@
 * [2023-08-27, 16:58:49](https://news.ycombinator.com/item?id=37284472) - [Reaching the Unix philosophy's logical extreme with WebAssembly](https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm)
 * [2023-08-27, 06:16:31](https://news.ycombinator.com/item?id=37279895) - [Can a worker-owned restaurant work?](https://southseattleemerald.com/2023/08/26/can-a-worker-owned-restaurant-work/)
 * [2023-08-27, 05:25:34](https://news.ycombinator.com/item?id=37279651) - [Practical parsing with Flex and Bison (2021)](https://begriffs.com/posts/2021-11-28-practical-parsing.html)
+* [2023-08-26, 10:32:30](https://news.ycombinator.com/item?id=37271475) - [Experiments with higher-kinded types and object algebras in C# (2020)](https://github.com/tgrospic/object-algebras)
 * [2023-08-25, 07:51:16](https://news.ycombinator.com/item?id=37259204) - [Explore the Genealogy of Timepieces](https://watchsage.uc.r.appspot.com/)
 
 ## [Archives](archives/index.md)
