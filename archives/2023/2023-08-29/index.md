@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
+* [2023-08-29, 22:20:27](https://news.ycombinator.com/item?id=37314892) - [Apple Sep 2023 Event: “Wonderlust”](https://www.apple.com/apple-events/)
+* [2023-08-29, 22:17:48](https://news.ycombinator.com/item?id=37314867) - [Pgvector 0.5.0 Feature Highlights and how tos](https://jkatz05.com/post/postgres/pgvector-overview-0.5.0/)
 * [2023-08-29, 21:51:26](https://news.ycombinator.com/item?id=37314622) - [Home – Database of Databases](https://dbdb.io/)
 * [2023-08-29, 21:42:52](https://news.ycombinator.com/item?id=37314526) - [Doas – dedicated OpenBSD application subexecutor](https://flak.tedunangst.com/post/doas)
 * [2023-08-29, 20:26:50](https://news.ycombinator.com/item?id=37313493) - [How far can you jump from a swing?](https://www.alexmolas.com/2023/08/18/how-far-can-you-jump.html)
