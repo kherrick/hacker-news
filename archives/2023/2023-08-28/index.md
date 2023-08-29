@@ -64,6 +64,7 @@
 * [2023-08-28, 14:42:04](https://news.ycombinator.com/item?id=37294793) - [Postgres: The Unexpected Find That Freed 20GB of Unused Index Space](https://hakibenita.com/postgresql-unused-index-size)
 * [2023-08-28, 14:21:05](https://news.ycombinator.com/item?id=37294440) - [Zero-Downtime Hetzner Deploys with Ansible](https://scratchdb.com/blog/ansible-hetzner-deploys/)
 * [2023-08-28, 14:07:10](https://news.ycombinator.com/item?id=37294198) - [Past Covid infection protection against re-infection: a systematic meta-analysis](https://www.thelancet.com/article/S0140-6736(22)02465-5/fulltext)
+* [2023-08-28, 14:00:54](https://news.ycombinator.com/item?id=37294099) - [Sound Card EEG (ScEEG) Technology](http://www.hotamateurprograms.com/eeg.htm)
 * [2023-08-28, 13:48:44](https://news.ycombinator.com/item?id=37293911) - [Helm-Compose – The Docker-compose like tool for K8s development](https://seacrew.github.io/helm-compose/)
 * [2023-08-28, 13:44:13](https://news.ycombinator.com/item?id=37293855) - [We Don’t Need a New Twitter](https://calnewport.com/we-dont-need-a-new-twitter/)
 * [2023-08-28, 13:43:22](https://news.ycombinator.com/item?id=37293846) - [How to create a Qt 5 ARM/Intel universal binary for Mac](https://www.downtowndougbrown.com/2023/08/how-to-create-a-qt-5-arm-intel-universal-binary-for-mac/)

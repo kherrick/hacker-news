@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-29, 16:46:04](https://news.ycombinator.com/item?id=37310528) - [Google, Amazon, Nvidia, and others invest $235M in Hugging Face](https://www.theverge.com/2023/8/24/23844444/google-amazon-nvidia-hugging-face-generative-ai-investment)
 * [2023-08-29, 16:30:26](https://news.ycombinator.com/item?id=37310314) - [Embracing Sabbaticals, Sunsetting Retirement Age](https://jacek.migdal.pl/2023/08/16/sabbaticals.html)
 * [2023-08-29, 15:57:58](https://news.ycombinator.com/item?id=37309818) - [MagicEdit: High-Fidelity Temporally Coherent Video Editing](https://magic-edit.github.io/)
 * [2023-08-29, 15:55:28](https://news.ycombinator.com/item?id=37309786) - [An End, and a Beginning](https://museapp.com/end-and-beginning/)
-* [2023-08-29, 15:40:48](https://news.ycombinator.com/item?id=37309563) - [‘Life or Death:’ AI-Generated Mushroom Foraging Books Are All over Amazon](https://www.404media.co/ai-generated-mushroom-foraging-books-amazon/)
-* [2023-08-29, 15:24:58](https://news.ycombinator.com/item?id=37309309) - [Lesser Known Postgres Features](https://hakibenita.com/postgresql-unknown-features)
-* [2023-08-29, 14:44:19](https://news.ycombinator.com/item?id=37308708) - [Air pollution greatest global threat to human health, says benchmark study](https://phys.org/news/2023-08-air-pollution-greatest-global-threat.html)
+* [2023-08-29, 15:24:58](https://news.ycombinator.com/item?id=37309309) - [Lesser Known Postgres Features (2021)](https://hakibenita.com/postgresql-unknown-features)
 * [2023-08-29, 14:24:21](https://news.ycombinator.com/item?id=37308405) - [Starlink's User Terminal Firmware](https://blog.quarkslab.com/starlink.html)
 * [2023-08-29, 13:44:20](https://news.ycombinator.com/item?id=37307828) - [C.R. Rao: A Life in Statistics (2020)](https://bhavana.org.in/c-r-rao-a-life-in-statistics/)
 * [2023-08-29, 13:41:41](https://news.ycombinator.com/item?id=37307788) - [Whistleblower alleges Booz Allen was overcharging U.S. taxpayers for losses](https://www.nbcnews.com/news/investigations/marine-sarah-feinberg-whistleblower-booz-allen-69-million-rcna102098)
@@ -21,7 +20,6 @@
 * [2023-08-29, 11:43:00](https://news.ycombinator.com/item?id=37306262) - [Elevator Saga: An elevator programming game (2015)](https://play.elevatorsaga.com/index.html)
 * [2023-08-29, 11:20:23](https://news.ycombinator.com/item?id=37306055) - [Neutrons prove ‘Bond villain’ did not cause Arecibo telescope collapse](https://www.ornl.gov/news/neutrons-prove-bond-villain-did-not-cause-arecibo-telescope-collapse)
 * [2023-08-29, 10:51:31](https://news.ycombinator.com/item?id=37305800) - [Grave flaws in BGP Error handling](https://blog.benjojo.co.uk/post/bgp-path-attributes-grave-error-handling)
-* [2023-08-29, 09:55:20](https://news.ycombinator.com/item?id=37305383) - [Llama 2 is about as factually accurate as GPT-4 for summaries and is 30X cheaper](https://www.anyscale.com/blog/llama-2-is-about-as-factually-accurate-as-gpt-4-for-summaries-and-is-30x-cheaper)
 * [2023-08-29, 09:48:30](https://news.ycombinator.com/item?id=37305338) - [Why does the USA use 110V and UK use 230-240V? (2014)](https://electronics.stackexchange.com/questions/115200/why-does-the-usa-use-110v-and-uk-use-230-240v)
 * [2023-08-29, 09:30:35](https://news.ycombinator.com/item?id=37305240) - [Automatic Generation of Visualizations and Infographics with LLMs](https://microsoft.github.io/lida/)
 * [2023-08-29, 08:34:46](https://news.ycombinator.com/item?id=37304870) - [Visualization of Common Algorithms](https://visualgo.net/en)
@@ -30,6 +28,8 @@
 * [2023-08-29, 07:11:09](https://news.ycombinator.com/item?id=37304370) - [Unix sockets, Cygwin, SSH agents, and sadness](https://mjg59.dreamwidth.org/67402.html)
 * [2023-08-29, 05:55:40](https://news.ycombinator.com/item?id=37303960) - [Alexandria: A minimalistic cross-platform eBook reader](https://github.com/btpf/Alexandria)
 * [2023-08-28, 20:07:03](https://news.ycombinator.com/item?id=37299746) - [What can historical clothing reveal that other sources cannot?](https://www.historytoday.com/archive/head-head/what-can-historical-clothing-reveal-other-sources-cannot)
+* [2023-08-28, 14:00:54](https://news.ycombinator.com/item?id=37294099) - [Sound Card EEG (ScEEG) Technology](http://www.hotamateurprograms.com/eeg.htm)
+* [2023-08-27, 12:17:45](https://news.ycombinator.com/item?id=37281920) - [Scenes from the Solbourne Computer corporate video, March 1992](http://oldvcr.blogspot.com/2023/08/scenes-from-solbourne-computer.html)
 
 ## [Archives](archives/index.md)
 

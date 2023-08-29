@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
+* [2023-08-29, 16:46:04](https://news.ycombinator.com/item?id=37310528) - [Google, Amazon, Nvidia, and others invest $235M in Hugging Face](https://www.theverge.com/2023/8/24/23844444/google-amazon-nvidia-hugging-face-generative-ai-investment)
 * [2023-08-29, 16:30:26](https://news.ycombinator.com/item?id=37310314) - [Embracing Sabbaticals, Sunsetting Retirement Age](https://jacek.migdal.pl/2023/08/16/sabbaticals.html)
 * [2023-08-29, 15:57:58](https://news.ycombinator.com/item?id=37309818) - [MagicEdit: High-Fidelity Temporally Coherent Video Editing](https://magic-edit.github.io/)
 * [2023-08-29, 15:55:28](https://news.ycombinator.com/item?id=37309786) - [An End, and a Beginning](https://museapp.com/end-and-beginning/)
