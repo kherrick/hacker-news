@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-29, 05:55:40",
+      "https://news.ycombinator.com/item?id=37303960"
+    ],
+    [
+      "Alexandria: A minimalistic cross-platform eBook reader",
+      "https://github.com/btpf/Alexandria"
+    ]
+  ],
+  [
+    [
       "2023-08-29, 04:57:35",
       "https://news.ycombinator.com/item?id=37303695"
     ],
@@ -31,22 +41,22 @@
   ],
   [
     [
+      "2023-08-29, 03:49:42",
+      "https://news.ycombinator.com/item?id=37303364"
+    ],
+    [
+      "Implementing Nearest-Neighbour Recommendations in Ruby",
+      "https://www.vector-logic.com/blog/posts/implementing-neighbour-based-recommendations-in-ruby"
+    ]
+  ],
+  [
+    [
       "2023-08-29, 03:48:09",
       "https://news.ycombinator.com/item?id=37303357"
     ],
     [
       "Changing my relationship with GitHub Copilot",
       "https://ntietz.com/blog/changing-my-relationship-with-github-copilot/"
-    ]
-  ],
-  [
-    [
-      "2023-08-29, 02:25:34",
-      "https://news.ycombinator.com/item?id=37302829"
-    ],
-    [
-      "The best approach I've seen for hiring junior engineers",
-      "https://www.rubick.com/hiring-new-engineers/"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2023-08-28, 15:00:43",
-      "https://news.ycombinator.com/item?id=37295144"
-    ],
-    [
-      "Lfortran: Modern interactive LLVM-based Fortran compiler",
-      "https://lfortran.org/"
-    ]
-  ],
-  [
-    [
       "2023-08-28, 14:58:09",
       "https://news.ycombinator.com/item?id=37295097"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2023-08-28, 14:42:04",
-      "https://news.ycombinator.com/item?id=37294793"
-    ],
-    [
-      "An unexpected find that freed 20GB of unused index space (2021)",
-      "https://hakibenita.com/postgresql-unused-index-size"
-    ]
-  ],
-  [
-    [
       "2023-08-28, 12:14:45",
       "https://news.ycombinator.com/item?id=37292864"
     ],
     [
       "How trees guard their seeds with mast seeding",
       "https://phys.org/news/2023-08-trees-seeds-secrets-mast-seeding.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-28, 10:17:33",
+      "https://news.ycombinator.com/item?id=37291962"
+    ],
+    [
+      "The $2.98 Computer Library (1977)",
+      "https://www.atariarchives.org/bcc2/showpage.php?page=10"
     ]
   ],
   [
