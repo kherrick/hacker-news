@@ -2,12 +2,12 @@
 
 * [2023-08-29, 09:48:30](https://news.ycombinator.com/item?id=37305338) - [Why does the USA use 110V and UK use 230-240V?](https://electronics.stackexchange.com/questions/115200/why-does-the-usa-use-110v-and-uk-use-230-240v)
 * [2023-08-29, 09:33:48](https://news.ycombinator.com/item?id=37305260) - [AI Crap – Drew Devault](https://drewdevault.com/2023/08/29/2023-08-29-AI-crap.html)
+* [2023-08-29, 09:30:35](https://news.ycombinator.com/item?id=37305240) - [Automatic Generation of Visualizations and Infographics with LLMs](https://microsoft.github.io/lida/)
 * [2023-08-29, 08:52:56](https://news.ycombinator.com/item?id=37304983) - [The Interim Computer Museum](https://icm.museum)
 * [2023-08-29, 08:34:46](https://news.ycombinator.com/item?id=37304870) - [Visualization of Common Algorithms](https://visualgo.net/en)
 * [2023-08-29, 08:30:52](https://news.ycombinator.com/item?id=37304851) - [Elixir Saves Pinterest $2M a Year in Server Costs](https://paraxial.io/blog/elixir-savings)
 * [2023-08-29, 08:21:57](https://news.ycombinator.com/item?id=37304803) - [Announcing the Pollen API](https://cloud.google.com/blog/products/maps-platform/announcing-pollen-api-providing-actionable-info-about-airborne-pollen-levels-worldwide)
 * [2023-08-29, 08:19:35](https://news.ycombinator.com/item?id=37304789) - [Abandoned and Little-Known Airfields](http://www.airfields-freeman.com/)
-* [2023-08-29, 07:53:25](https://news.ycombinator.com/item?id=37304626) - [Silicon Valley faces a crisis of nonsense](https://www.piratewires.com/p/choose-good-quests)
 * [2023-08-29, 07:11:09](https://news.ycombinator.com/item?id=37304370) - [Unix sockets, Cygwin, SSH agents, and sadness](https://mjg59.dreamwidth.org/67402.html)
 * [2023-08-29, 07:10:39](https://news.ycombinator.com/item?id=37304367) - [Multics Simulator](https://multicians.org/simulator.html)
 * [2023-08-29, 06:39:59](https://news.ycombinator.com/item?id=37304167) - [Compiling Rust for .NET, using only tea and stubbornness](https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_0_1.html)

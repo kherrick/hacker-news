@@ -6,6 +6,7 @@
 
 * [2023-08-29, 09:48:30](https://news.ycombinator.com/item?id=37305338) - [Why does the USA use 110V and UK use 230-240V?](https://electronics.stackexchange.com/questions/115200/why-does-the-usa-use-110v-and-uk-use-230-240v)
 * [2023-08-29, 09:33:48](https://news.ycombinator.com/item?id=37305260) - [AI Crap – Drew Devault](https://drewdevault.com/2023/08/29/2023-08-29-AI-crap.html)
+* [2023-08-29, 09:30:35](https://news.ycombinator.com/item?id=37305240) - [Automatic Generation of Visualizations and Infographics with LLMs](https://microsoft.github.io/lida/)
 * [2023-08-29, 08:52:56](https://news.ycombinator.com/item?id=37304983) - [The Interim Computer Museum](https://icm.museum)
 * [2023-08-29, 08:34:46](https://news.ycombinator.com/item?id=37304870) - [Visualization of Common Algorithms](https://visualgo.net/en)
 * [2023-08-29, 08:30:52](https://news.ycombinator.com/item?id=37304851) - [Elixir Saves Pinterest $2M a Year in Server Costs](https://paraxial.io/blog/elixir-savings)
