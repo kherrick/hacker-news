@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
+* [2023-08-29, 18:29:12](https://news.ycombinator.com/item?id=37311891) - [Bicyclists Deserve the Right to Free Movement](https://www.thenation.com/article/society/bicycles-cycling-bike-safety/)
 * [2023-08-29, 18:19:52](https://news.ycombinator.com/item?id=37311780) - [AWS Works Council Germany](https://www.aws-works-council-initiative.de/)
+* [2023-08-29, 17:57:50](https://news.ycombinator.com/item?id=37311508) - [Popularity of DOS/4GW made Win95 game compat easier, but with higher stakes](https://devblogs.microsoft.com/oldnewthing/20230829-00/?p=108661)
 * [2023-08-29, 17:48:50](https://news.ycombinator.com/item?id=37311394) - [A Deep Dive into Weaviate's Fusion Algorithms for Hybrid Search](https://weaviate.io/blog/hybrid-search-fusion-algorithms)
 * [2023-08-29, 17:37:31](https://news.ycombinator.com/item?id=37311239) - [iFixit Petitions Government for Right to Hack McDonald's Ice Cream Machine](https://www.404media.co/activists-petition-government-for-right-to-hack-mcdonalds-mcflurry-machines-to-repair-them/)
 * [2023-08-29, 17:02:49](https://news.ycombinator.com/item?id=37310772) - [FBI, Partners Dismantle Qakbot Infrastructure in Multinational Cyber Takedown](https://www.fbi.gov/news/stories/fbi-partners-dismantle-qakbot-infrastructure-in-multinational-cyber-takedown)
@@ -80,6 +82,7 @@
 * [2023-08-29, 04:28:35](https://news.ycombinator.com/item?id=37303569) - [Toyota to halt operations at all Japan assembly plants due to system failure](https://www.reuters.com/business/autos-transportation/toyota-halts-operations-12-japan-factories-due-system-failure-nhk-2023-08-29/)
 * [2023-08-29, 04:24:52](https://news.ycombinator.com/item?id=37303554) - [Grumpy Website](https://grumpy.website/)
 * [2023-08-29, 03:52:47](https://news.ycombinator.com/item?id=37303384) - [I raced a homing pigeon against the Internet [video]](https://www.youtube.com/watch?v=4pz2kMxCu8I)
+* [2023-08-29, 03:49:51](https://news.ycombinator.com/item?id=37303365) - [The Cheap Radio Hack That Disrupted Poland's Railway System](https://www.wired.com/story/poland-train-radio-stop-attack/)
 * [2023-08-29, 03:49:42](https://news.ycombinator.com/item?id=37303364) - [Implementing Nearest-Neighbour Recommendations in Ruby](https://www.vector-logic.com/blog/posts/implementing-neighbour-based-recommendations-in-ruby)
 * [2023-08-29, 03:48:09](https://news.ycombinator.com/item?id=37303357) - [Changing my relationship with GitHub Copilot](https://ntietz.com/blog/changing-my-relationship-with-github-copilot/)
 * [2023-08-29, 03:42:27](https://news.ycombinator.com/item?id=37303332) - [Amazon CEO warns remote workers: ‘It’s probably not going to work out for you’](https://nypost.com/2023/08/28/amazon-ceo-andy-jassy-warns-remote-workers-its-probably-not-going-to-work-out-for-you/)
