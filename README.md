@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-29, 11:25:48](https://news.ycombinator.com/item?id=37306108) - [Google Bard: incredible that this is a shipped product](https://twitter.com/rawxrawxraw/status/1691253814769184768)
 * [2023-08-29, 11:20:52](https://news.ycombinator.com/item?id=37306058) - [Show HN: Advanced Tab Manager for Firefox](https://addons.mozilla.org/en-US/firefox/addon/grasshopper-urls/)
+* [2023-08-29, 11:20:23](https://news.ycombinator.com/item?id=37306055) - [Neutrons prove ‘Bond villain’ did not cause Arecibo telescope collapse](https://www.ornl.gov/news/neutrons-prove-bond-villain-did-not-cause-arecibo-telescope-collapse)
 * [2023-08-29, 10:51:31](https://news.ycombinator.com/item?id=37305800) - [Grave flaws in BGP Error handling](https://blog.benjojo.co.uk/post/bgp-path-attributes-grave-error-handling)
 * [2023-08-29, 10:46:12](https://news.ycombinator.com/item?id=37305752) - [Exxon says world set to fail 2°C global warming cap by 2050](https://www.reuters.com/business/energy/exxon-projects-oil-gas-be-54-worlds-energy-needs-2050-2023-08-28/)
 * [2023-08-29, 09:33:48](https://news.ycombinator.com/item?id=37305260) - [AI Crap](https://drewdevault.com/2023/08/29/2023-08-29-AI-crap.html)
@@ -22,9 +24,7 @@
 * [2023-08-28, 20:27:03](https://news.ycombinator.com/item?id=37299986) - [Bioregions 2023](https://www.oneearth.org/bioregions-2023/)
 * [2023-08-28, 17:09:47](https://news.ycombinator.com/item?id=37297304) - [ChatGPT Enterprise](https://openai.com/blog/introducing-chatgpt-enterprise)
 * [2023-08-28, 15:00:59](https://news.ycombinator.com/item?id=37295149) - [Launch HN: HyLight (YC S23) – Hydrogen airships to inspect energy infrastructure](https://news.ycombinator.com/item?id=37295149)
-* [2023-08-28, 10:17:33](https://news.ycombinator.com/item?id=37291962) - [The $2.98 Computer Library (1977)](https://www.atariarchives.org/bcc2/showpage.php?page=10)
 * [2023-08-28, 08:15:15](https://news.ycombinator.com/item?id=37291240) - [The Origins and Motivations of Univalent Foundations (2014)](https://www.ias.edu/ideas/2014/voevodsky-origins)
-* [2023-08-28, 07:17:40](https://news.ycombinator.com/item?id=37290860) - [Deseret Alphabet](https://www.deseretalphabet.org/)
 * [2023-08-28, 06:41:20](https://news.ycombinator.com/item?id=37290625) - [Souvenir Spoons Museum](http://spoonplanet.com/)
 * [2023-08-28, 04:24:54](https://news.ycombinator.com/item?id=37289756) - [Loose lips save sunken ships](https://hakaimagazine.com/features/loose-lips-save-sunken-ships/)
 * [2023-08-27, 05:25:34](https://news.ycombinator.com/item?id=37279651) - [Practical parsing with Flex and Bison (2021)](https://begriffs.com/posts/2021-11-28-practical-parsing.html)
