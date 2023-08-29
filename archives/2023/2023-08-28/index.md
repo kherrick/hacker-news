@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
 * [2023-08-28, 23:43:30](https://news.ycombinator.com/item?id=37301728) - [Amazon CEO reportedly told remote employees: It’s probably not going to work out](https://www.theverge.com/2023/8/28/23849754/amazon-ceo-andy-jassy-remote-employees-return-to-office)
+* [2023-08-28, 23:27:06](https://news.ycombinator.com/item?id=37301627) - [Gitlab Gitaly project now supports the SHA-256 hashing algorithm](https://about.gitlab.com/blog/2023/08/28/sha256-support-in-gitaly/)
 * [2023-08-28, 23:23:08](https://news.ycombinator.com/item?id=37301600) - [Google moderates Google Collections items](https://strangeobject.space/@silvermoon82/110969122337810598)
+* [2023-08-28, 22:50:55](https://news.ycombinator.com/item?id=37301400) - [The sudden demise of Indian vultures killed thousands of people](https://www.economist.com/graphic-detail/2023/08/22/the-sudden-demise-of-indian-vultures-killed-thousands-of-people)
 * [2023-08-28, 22:37:01](https://news.ycombinator.com/item?id=37301274) - [False Canopies on Fighters Work, One Almost Killed Me](https://www.thedrive.com/the-war-zone/false-canopies-on-fighters-work-one-almost-killed-me)
 * [2023-08-28, 22:04:08](https://news.ycombinator.com/item?id=37300974) - [Google moderates private bookmarks sync-ed with Chrome](https://strangeobject.space/@silvermoon82/110969122337810598)
 * [2023-08-28, 21:36:58](https://news.ycombinator.com/item?id=37300709) - [Water-Purifying Cup Makes Drinkable Water from Creeks and Streams](https://cockrell.utexas.edu/news/archive/9720-water-purifying-cup-makes-drinkable-water-from-creeks-and-streams-in-minutes)
