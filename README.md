@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-29, 06:35:54](https://news.ycombinator.com/item?id=37304153) - [Source: Google Pixel 8 will get more Android OS updates](https://9to5google.com/2023/08/28/google-pixel-8-android-os-updates/)
+* [2023-08-29, 06:30:17](https://news.ycombinator.com/item?id=37304125) - [A note to young folks: download the things you love](https://birchtree.me/blog/a-note-to-young-folks-download-the-videos-you-love/)
 * [2023-08-29, 05:55:40](https://news.ycombinator.com/item?id=37303960) - [Alexandria: A minimalistic cross-platform eBook reader](https://github.com/btpf/Alexandria)
 * [2023-08-29, 04:57:35](https://news.ycombinator.com/item?id=37303695) - [How to share a NumPy array between processes](https://superfastpython.com/numpy-share-array-processes/)
 * [2023-08-29, 04:28:35](https://news.ycombinator.com/item?id=37303569) - [Toyota to halt operations at all Japan assembly plants due to system failure](https://www.reuters.com/business/autos-transportation/toyota-halts-operations-12-japan-factories-due-system-failure-nhk-2023-08-29/)
@@ -8,7 +10,6 @@
 * [2023-08-29, 03:48:09](https://news.ycombinator.com/item?id=37303357) - [Changing my relationship with GitHub Copilot](https://ntietz.com/blog/changing-my-relationship-with-github-copilot/)
 * [2023-08-29, 02:23:56](https://news.ycombinator.com/item?id=37302816) - [The Heart of W. Edwards Deming](https://hagakure.substack.com/p/the-hagakure-64-the-heart-of-w-edwards)
 * [2023-08-29, 01:00:15](https://news.ycombinator.com/item?id=37302284) - [Padlet (YC W13) is hiring in San Francisco and Singapore](https://padlet.jobs)
-* [2023-08-29, 00:49:15](https://news.ycombinator.com/item?id=37302185) - [New research finds Late Pleistocene glaciations terminated by Earth's axis tilt](https://phys.org/news/2023-08-late-pleistocene-glaciations-terminated-earth.html)
 * [2023-08-29, 00:19:54](https://news.ycombinator.com/item?id=37301991) - [WebLLM: Llama2 in the Browser](https://webllm.mlc.ai/)
 * [2023-08-28, 22:50:55](https://news.ycombinator.com/item?id=37301400) - [The sudden demise of Indian vultures killed thousands of people](https://www.economist.com/graphic-detail/2023/08/22/the-sudden-demise-of-indian-vultures-killed-thousands-of-people)
 * [2023-08-28, 20:27:03](https://news.ycombinator.com/item?id=37299986) - [Bioregions 2023](https://www.oneearth.org/bioregions-2023/)
@@ -16,7 +17,6 @@
 * [2023-08-28, 18:29:27](https://news.ycombinator.com/item?id=37298506) - [Serial adapter/reboot controller for Apple M1/M2](https://www.tindie.com/products/aaafnraa/serial-adapter-reboot-controller-for-apple-m1m2/)
 * [2023-08-28, 17:13:51](https://news.ycombinator.com/item?id=37297362) - [A lost Edith Wharton play debuts on stage](https://www.smithsonianmag.com/smart-news/a-lost-edith-wharton-play-is-performed-for-the-first-time-180982795/)
 * [2023-08-28, 17:09:47](https://news.ycombinator.com/item?id=37297304) - [ChatGPT Enterprise](https://openai.com/blog/introducing-chatgpt-enterprise)
-* [2023-08-28, 16:13:47](https://news.ycombinator.com/item?id=37296401) - [Amazon acquires Fig](https://fig.io/blog/post/fig-joins-aws)
 * [2023-08-28, 15:59:07](https://news.ycombinator.com/item?id=37296153) - [Parallel garbage collection for SBCL [pdf]](https://applied-langua.ge/~hayley/swcl-gc.pdf)
 * [2023-08-28, 15:38:11](https://news.ycombinator.com/item?id=37295817) - [SEC charges Impact Theory for unregistered offering of NFTs](https://www.sec.gov/news/press-release/2023-163)
 * [2023-08-28, 15:14:26](https://news.ycombinator.com/item?id=37295409) - [Startup receives grant for clinical trial of a promising eye treatment](https://research.usc.edu/news/2023/08/usc-supported-startup-receives-major-grant-for-clinical-trial-of-a-promising-eye-treatment/)

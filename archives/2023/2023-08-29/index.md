@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
+* [2023-08-29, 06:35:54](https://news.ycombinator.com/item?id=37304153) - [Source: Google Pixel 8 will get more Android OS updates](https://9to5google.com/2023/08/28/google-pixel-8-android-os-updates/)
+* [2023-08-29, 06:30:17](https://news.ycombinator.com/item?id=37304125) - [A note to young folks: download the things you love](https://birchtree.me/blog/a-note-to-young-folks-download-the-videos-you-love/)
 * [2023-08-29, 05:55:40](https://news.ycombinator.com/item?id=37303960) - [Alexandria: A minimalistic cross-platform eBook reader](https://github.com/btpf/Alexandria)
 * [2023-08-29, 04:57:35](https://news.ycombinator.com/item?id=37303695) - [How to share a NumPy array between processes](https://superfastpython.com/numpy-share-array-processes/)
 * [2023-08-29, 04:28:35](https://news.ycombinator.com/item?id=37303569) - [Toyota to halt operations at all Japan assembly plants due to system failure](https://www.reuters.com/business/autos-transportation/toyota-halts-operations-12-japan-factories-due-system-failure-nhk-2023-08-29/)
