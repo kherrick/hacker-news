@@ -28,6 +28,7 @@
 * [2023-08-28, 17:40:59](https://news.ycombinator.com/item?id=37297751) - [3M is paying $5.5B to resolve 300k lawsuits over defective combat earplugs](https://qz.com/3m-is-paying-5-5-billion-to-resolve-300-000-lawsuits-o-1850780085)
 * [2023-08-28, 17:24:56](https://news.ycombinator.com/item?id=37297526) - [Aphex Twin -- at FieldDay [video]](https://www.youtube.com/watch?v=fkmo-LseN0c)
 * [2023-08-28, 17:24:40](https://news.ycombinator.com/item?id=37297520) - [‘San Francisco changed dramatically’ – Nordstrom is bailing on a flagship store](https://fortune.com/2023/08/28/nordstrom-closes-san-francisco-store-downtown-market-street-remote-work/)
+* [2023-08-28, 17:13:51](https://news.ycombinator.com/item?id=37297362) - [A Lost Edith Wharton Play Debuts on Stage for the First Time](https://www.smithsonianmag.com/smart-news/a-lost-edith-wharton-play-is-performed-for-the-first-time-180982795/)
 * [2023-08-28, 17:13:43](https://news.ycombinator.com/item?id=37297360) - [Dining like Darwin: When scientists swallow their subjects (2015)](https://www.npr.org/sections/thesalt/2015/08/12/430075644/dining-like-darwin-when-scientists-swallow-their-subjects)
 * [2023-08-28, 17:13:43](https://news.ycombinator.com/item?id=37297360) - [Charles Darwin Ate One of Everything He Discovered](https://www.thefactsite.com/charles-darwin-eating-habits/)
 * [2023-08-28, 17:13:33](https://news.ycombinator.com/item?id=37297359) - [Please ask questions (rust-lang/regex)](https://github.com/rust-lang/regex/discussions/1073)
