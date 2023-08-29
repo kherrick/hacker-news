@@ -2,6 +2,7 @@
 
 * [2023-08-29, 17:02:49](https://news.ycombinator.com/item?id=37310772) - [FBI, Partners Dismantle Qakbot Infrastructure in Multinational Cyber Takedown](https://www.fbi.gov/news/stories/fbi-partners-dismantle-qakbot-infrastructure-in-multinational-cyber-takedown)
 * [2023-08-29, 17:01:05](https://news.ycombinator.com/item?id=37310746) - [OneSignal (YC S11. Email, SMS, Push Notification Platform) Is Hiring Engineers](https://onesignal.com/careers#section-job)
+* [2023-08-29, 16:46:16](https://news.ycombinator.com/item?id=37310531) - [Reinforced Self-Training (ReST) for Language Modeling](https://arxiv.org/abs/2308.08998)
 * [2023-08-29, 16:30:26](https://news.ycombinator.com/item?id=37310314) - [Embracing Sabbaticals, Sunsetting Retirement Age](https://jacek.migdal.pl/2023/08/16/sabbaticals.html)
 * [2023-08-29, 15:57:58](https://news.ycombinator.com/item?id=37309818) - [MagicEdit: High-Fidelity Temporally Coherent Video Editing](https://magic-edit.github.io/)
 * [2023-08-29, 15:55:28](https://news.ycombinator.com/item?id=37309786) - [An End, and a Beginning](https://museapp.com/end-and-beginning/)
@@ -18,7 +19,6 @@
 * [2023-08-29, 12:31:27](https://news.ycombinator.com/item?id=37306769) - [I don’t buy “duplication is cheaper than the wrong abstraction” (2021)](https://www.codewithjason.com/duplication-cheaper-wrong-abstraction/)
 * [2023-08-29, 12:11:42](https://news.ycombinator.com/item?id=37306534) - [Simplifying GPU Application Development with HMM](https://developer.nvidia.com/blog/simplifying-gpu-application-development-with-heterogeneous-memory-management/)
 * [2023-08-29, 12:11:12](https://news.ycombinator.com/item?id=37306530) - [Duet AI for Google Workspace Now Available](https://workspace.google.com/blog/product-announcements/duet-ai-in-workspace-now-available)
-* [2023-08-29, 11:43:00](https://news.ycombinator.com/item?id=37306262) - [Elevator Saga: An elevator programming game (2015)](https://play.elevatorsaga.com/index.html)
 * [2023-08-29, 11:20:23](https://news.ycombinator.com/item?id=37306055) - [Neutrons prove ‘Bond villain’ did not cause Arecibo telescope collapse](https://www.ornl.gov/news/neutrons-prove-bond-villain-did-not-cause-arecibo-telescope-collapse)
 * [2023-08-29, 10:51:31](https://news.ycombinator.com/item?id=37305800) - [Grave flaws in BGP Error handling](https://blog.benjojo.co.uk/post/bgp-path-attributes-grave-error-handling)
 * [2023-08-29, 09:48:30](https://news.ycombinator.com/item?id=37305338) - [Why does the USA use 110V and UK use 230-240V? (2014)](https://electronics.stackexchange.com/questions/115200/why-does-the-usa-use-110v-and-uk-use-230-240v)
