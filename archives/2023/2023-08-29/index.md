@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
+* [2023-08-29, 08:34:46](https://news.ycombinator.com/item?id=37304870) - [Visualization of Common Algorithms](https://visualgo.net/en)
 * [2023-08-29, 08:30:52](https://news.ycombinator.com/item?id=37304851) - [Elixir Saves Pinterest $2M a Year in Server Costs](https://paraxial.io/blog/elixir-savings)
+* [2023-08-29, 08:21:57](https://news.ycombinator.com/item?id=37304803) - [Announcing the Pollen API](https://cloud.google.com/blog/products/maps-platform/announcing-pollen-api-providing-actionable-info-about-airborne-pollen-levels-worldwide)
 * [2023-08-29, 08:19:35](https://news.ycombinator.com/item?id=37304789) - [Abandoned and Little-Known Airfields](http://www.airfields-freeman.com/)
 * [2023-08-29, 07:11:09](https://news.ycombinator.com/item?id=37304370) - [Unix sockets, Cygwin, SSH agents, and sadness](https://mjg59.dreamwidth.org/67402.html)
 * [2023-08-29, 07:10:39](https://news.ycombinator.com/item?id=37304367) - [Multics Simulator](https://multicians.org/simulator.html)
