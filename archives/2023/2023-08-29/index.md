@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
 * [2023-08-29, 20:14:15](https://news.ycombinator.com/item?id=37313293) - [Drumscript: A simple MIDI drum machine scripting language](https://github.com/tepreece/drumscript)
+* [2023-08-29, 20:06:11](https://news.ycombinator.com/item?id=37313183) - [Griffin - A fully-regulated, API-driven bank, with Clojure](https://www.juxt.pro/blog/clojure-in-griffin/)
+* [2023-08-29, 19:27:05](https://news.ycombinator.com/item?id=37312647) - [The FBI Has Collected DNA Profiles for 21M People](https://theintercept.com/2023/08/29/fbi-dna-collection-surveillance/)
 * [2023-08-29, 19:21:58](https://news.ycombinator.com/item?id=37312579) - [I chose the ThinkPad Z13 Gen1 as my Linux laptop](https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/)
 * [2023-08-29, 19:19:23](https://news.ycombinator.com/item?id=37312540) - [Jama: Evidence does not show that common cancer screening tests extend lifetime](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2808648)
 * [2023-08-29, 19:17:58](https://news.ycombinator.com/item?id=37312523) - [Webstudio: Open-source WYSIWYG adds Radix UI elements](https://webstudio.is/radix)
