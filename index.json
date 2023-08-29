@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-29, 12:35:25",
+      "https://news.ycombinator.com/item?id=37306810"
+    ],
+    [
+      "Google’s Surveillance: The Shocking Truth – Simplified Privacy",
+      "https://simplifiedprivacy.com/googles-surveillance-the-shocking-truth/"
+    ]
+  ],
+  [
+    [
+      "2023-08-29, 12:11:42",
+      "https://news.ycombinator.com/item?id=37306534"
+    ],
+    [
+      "Simplifying GPU Application Development with HMM",
+      "https://developer.nvidia.com/blog/simplifying-gpu-application-development-with-heterogeneous-memory-management/"
+    ]
+  ],
+  [
+    [
       "2023-08-29, 12:00:19",
       "https://news.ycombinator.com/item?id=37306435"
     ],
@@ -17,6 +37,16 @@
     [
       "New study finds microplastics infiltrate all systems of body, alter behaviour",
       "https://www.sustainableplastics.com/news/microplastics-found-pass-blood-brain-barrier-even-though-ingested-drinking-water"
+    ]
+  ],
+  [
+    [
+      "2023-08-29, 11:43:00",
+      "https://news.ycombinator.com/item?id=37306262"
+    ],
+    [
+      "Elevator Saga: The elevator programming game",
+      "https://play.elevatorsaga.com/index.html"
     ]
   ],
   [
@@ -51,12 +81,12 @@
   ],
   [
     [
-      "2023-08-29, 10:46:12",
-      "https://news.ycombinator.com/item?id=37305752"
+      "2023-08-29, 09:52:03",
+      "https://news.ycombinator.com/item?id=37305358"
     ],
     [
-      "Exxon says world set to fail 2°C global warming cap by 2050",
-      "https://www.reuters.com/business/energy/exxon-projects-oil-gas-be-54-worlds-energy-needs-2050-2023-08-28/"
+      "The Reasons Not to Use Scrum",
+      "https://www.amazingcto.com/the-5-reasons-not-to-use-scrum/"
     ]
   ],
   [
@@ -191,22 +221,22 @@
   ],
   [
     [
-      "2023-08-29, 00:19:54",
-      "https://news.ycombinator.com/item?id=37301991"
-    ],
-    [
-      "WebLLM: Llama2 in the Browser",
-      "https://webllm.mlc.ai/"
-    ]
-  ],
-  [
-    [
       "2023-08-28, 22:50:55",
       "https://news.ycombinator.com/item?id=37301400"
     ],
     [
       "The sudden demise of Indian vultures killed thousands of people",
       "https://www.economist.com/graphic-detail/2023/08/22/the-sudden-demise-of-indian-vultures-killed-thousands-of-people"
+    ]
+  ],
+  [
+    [
+      "2023-08-28, 18:22:07",
+      "https://news.ycombinator.com/item?id=37298401"
+    ],
+    [
+      "The Leg (1982)",
+      "https://www.lrb.co.uk/the-paper/v04/n11/oliver-sacks/the-leg"
     ]
   ],
   [
@@ -241,16 +271,6 @@
   ],
   [
     [
-      "2023-08-28, 06:41:20",
-      "https://news.ycombinator.com/item?id=37290625"
-    ],
-    [
-      "Souvenir Spoons Museum",
-      "http://spoonplanet.com/"
-    ]
-  ],
-  [
-    [
       "2023-08-28, 04:24:54",
       "https://news.ycombinator.com/item?id=37289756"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-08-26, 10:32:30",
-      "https://news.ycombinator.com/item?id=37271475"
-    ],
-    [
-      "Experiments with higher-kinded types and object algebras in C# (2020)",
-      "https://github.com/tgrospic/object-algebras"
-    ]
-  ],
-  [
-    [
       "2023-08-26, 09:46:30",
       "https://news.ycombinator.com/item?id=37271162"
     ],
     [
       "The Python dictionary dispatch pattern",
       "https://jamesg.blog/2023/08/26/python-dictionary-dispatch/"
-    ]
-  ],
-  [
-    [
-      "2023-08-25, 07:51:16",
-      "https://news.ycombinator.com/item?id=37259204"
-    ],
-    [
-      "Explore the Genealogy of Timepieces",
-      "https://watchsage.uc.r.appspot.com/"
     ]
   ]
 ]
