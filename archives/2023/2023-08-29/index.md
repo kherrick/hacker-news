@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
+* [2023-08-29, 13:36:05](https://news.ycombinator.com/item?id=37307708) - [Keystroke timing obfuscation added to SSH(1)](https://undeadly.org/cgi?action=article;sid=20230829051257)
+* [2023-08-29, 13:34:19](https://news.ycombinator.com/item?id=37307681) - [Poetry: Python Packaging and Dependency Management](https://github.com/python-poetry/poetry)
 * [2023-08-29, 13:21:34](https://news.ycombinator.com/item?id=37307473) - [Accessible Palette: stop using HSL for color systems](https://wildbit.com/blog/accessible-palette-stop-using-hsl-for-color-systems)
 * [2023-08-29, 13:10:13](https://news.ycombinator.com/item?id=37307313) - [Announcing: Observability SDKs for WebAssembly](https://dev.dylibso.com/docs/observe/overview/)
+* [2023-08-29, 13:07:00](https://news.ycombinator.com/item?id=37307260) - [How Mojo gets a 35,000x speedup over Python – Part 2](https://www.modular.com/blog/how-mojo-gets-a-35-000x-speedup-over-python-part-2)
 * [2023-08-29, 13:06:43](https://news.ycombinator.com/item?id=37307253) - [StarCitizen Server Meshing Architecture](https://sc-server-meshing.info/wiki)
 * [2023-08-29, 13:04:50](https://news.ycombinator.com/item?id=37307224) - [Why cartoon characters wear gloves [video]](https://www.youtube.com/watch?v=3R3cvbLsbAk)
 * [2023-08-29, 12:38:04](https://news.ycombinator.com/item?id=37306841) - [America Is Using Up Its Groundwater Like There’s No Tomorrow](https://www.nytimes.com/interactive/2023/08/28/climate/groundwater-drying-climate-change.html)
