@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
+* [2023-08-29, 08:30:52](https://news.ycombinator.com/item?id=37304851) - [Elixir Saves Pinterest $2M a Year in Server Costs](https://paraxial.io/blog/elixir-savings)
 * [2023-08-29, 07:11:09](https://news.ycombinator.com/item?id=37304370) - [Unix sockets, Cygwin, SSH agents, and sadness](https://mjg59.dreamwidth.org/67402.html)
+* [2023-08-29, 07:10:39](https://news.ycombinator.com/item?id=37304367) - [Multics Simulator](https://multicians.org/simulator.html)
 * [2023-08-29, 06:39:59](https://news.ycombinator.com/item?id=37304167) - [Compiling Rust for .NET, using only tea and stubbornness](https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_0_1.html)
 * [2023-08-29, 06:35:54](https://news.ycombinator.com/item?id=37304153) - [Source: Google Pixel 8 will get more Android OS updates](https://9to5google.com/2023/08/28/google-pixel-8-android-os-updates/)
 * [2023-08-29, 06:30:17](https://news.ycombinator.com/item?id=37304125) - [A note to young folks: download the things you love](https://birchtree.me/blog/a-note-to-young-folks-download-the-videos-you-love/)

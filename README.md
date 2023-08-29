@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-29, 08:30:52](https://news.ycombinator.com/item?id=37304851) - [Elixir Saves Pinterest $2M a Year in Server Costs](https://paraxial.io/blog/elixir-savings)
 * [2023-08-29, 07:11:09](https://news.ycombinator.com/item?id=37304370) - [Unix sockets, Cygwin, SSH agents, and sadness](https://mjg59.dreamwidth.org/67402.html)
+* [2023-08-29, 07:10:39](https://news.ycombinator.com/item?id=37304367) - [Multics Simulator](https://multicians.org/simulator.html)
 * [2023-08-29, 06:39:59](https://news.ycombinator.com/item?id=37304167) - [Compiling Rust for .NET, using only tea and stubbornness](https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_0_1.html)
-* [2023-08-29, 06:35:54](https://news.ycombinator.com/item?id=37304153) - [Source: Google Pixel 8 will get more Android OS updates](https://9to5google.com/2023/08/28/google-pixel-8-android-os-updates/)
 * [2023-08-29, 06:30:17](https://news.ycombinator.com/item?id=37304125) - [A note to young folks: download the things you love](https://birchtree.me/blog/a-note-to-young-folks-download-the-videos-you-love/)
 * [2023-08-29, 05:55:40](https://news.ycombinator.com/item?id=37303960) - [Alexandria: A minimalistic cross-platform eBook reader](https://github.com/btpf/Alexandria)
 * [2023-08-29, 04:57:35](https://news.ycombinator.com/item?id=37303695) - [How to share a NumPy array between processes](https://superfastpython.com/numpy-share-array-processes/)
@@ -13,7 +14,6 @@
 * [2023-08-29, 00:19:54](https://news.ycombinator.com/item?id=37301991) - [WebLLM: Llama2 in the Browser](https://webllm.mlc.ai/)
 * [2023-08-28, 22:50:55](https://news.ycombinator.com/item?id=37301400) - [The sudden demise of Indian vultures killed thousands of people](https://www.economist.com/graphic-detail/2023/08/22/the-sudden-demise-of-indian-vultures-killed-thousands-of-people)
 * [2023-08-28, 20:27:03](https://news.ycombinator.com/item?id=37299986) - [Bioregions 2023](https://www.oneearth.org/bioregions-2023/)
-* [2023-08-28, 18:42:01](https://news.ycombinator.com/item?id=37298665) - [Raise less, build more](https://trohan.com/2023/08/20/raise-less-build-more/)
 * [2023-08-28, 18:29:27](https://news.ycombinator.com/item?id=37298506) - [Serial adapter/reboot controller for Apple M1/M2](https://www.tindie.com/products/aaafnraa/serial-adapter-reboot-controller-for-apple-m1m2/)
 * [2023-08-28, 18:24:15](https://news.ycombinator.com/item?id=37298441) - [Perfectly Reproducible, Verified Go Toolchains](https://go.dev/blog/rebuild)
 * [2023-08-28, 17:13:51](https://news.ycombinator.com/item?id=37297362) - [A lost Edith Wharton play debuts on stage](https://www.smithsonianmag.com/smart-news/a-lost-edith-wharton-play-is-performed-for-the-first-time-180982795/)
