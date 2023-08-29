@@ -6,6 +6,7 @@
 
 * [2023-08-29, 19:17:58](https://news.ycombinator.com/item?id=37312523) - [Webstudio: Open-source WYSIWYG adds Radix UI elements](https://webstudio.is/radix)
 * [2023-08-29, 19:16:41](https://news.ycombinator.com/item?id=37312502) - [Google Announced AlloyDB AI for Building Generative AI Apps with PostgreSQL](https://cloud.google.com/blog/products/databases/helping-developers-build-gen-ai-apps-with-google-cloud-databases)
+* [2023-08-29, 18:37:16](https://news.ycombinator.com/item?id=37312001) - [Linux overtakes Mac as Steam's second-most used OS, thanks to the Steam Deck](https://www.pcgamer.com/linux-overtakes-mac-as-steams-second-most-used-os-and-its-all-thanks-to-the-steam-deck/)
 * [2023-08-29, 18:29:12](https://news.ycombinator.com/item?id=37311891) - [Bicyclists Deserve the Right to Free Movement](https://www.thenation.com/article/society/bicycles-cycling-bike-safety/)
 * [2023-08-29, 18:19:52](https://news.ycombinator.com/item?id=37311780) - [AWS Works Council Germany](https://www.aws-works-council-initiative.de/)
 * [2023-08-29, 17:57:50](https://news.ycombinator.com/item?id=37311508) - [Popularity of DOS/4GW made Win95 game compat easier, but with higher stakes](https://devblogs.microsoft.com/oldnewthing/20230829-00/?p=108661)
@@ -26,6 +27,7 @@
 * [2023-08-29, 15:21:34](https://news.ycombinator.com/item?id=37309250) - [When did people stop being drunk all the time?](https://www.lefineder.com/p/when-did-people-stop-being-drunk)
 * [2023-08-29, 15:17:57](https://news.ycombinator.com/item?id=37309189) - [Can Chrome Sync or Firefox Sync be trusted with sensitive data?](https://palant.info/2018/03/13/can-chrome-sync-or-firefox-sync-be-trusted-with-sensitive-data/)
 * [2023-08-29, 14:44:19](https://news.ycombinator.com/item?id=37308708) - [Air pollution greatest global threat to human health, says benchmark study](https://phys.org/news/2023-08-air-pollution-greatest-global-threat.html)
+* [2023-08-29, 14:42:03](https://news.ycombinator.com/item?id=37308675) - [FDA schedules meeting to establish regulatory rules for artificial womb trials](https://www.fda.gov/advisory-committees/advisory-committee-calendar/pediatric-advisory-committee-meeting-announcement-09192023)
 * [2023-08-29, 14:24:29](https://news.ycombinator.com/item?id=37308409) - [ChatGPT web and mobile UIs unavailable](https://status.openai.com/incidents/5l07rfcr5fyn)
 * [2023-08-29, 14:24:21](https://news.ycombinator.com/item?id=37308405) - [Diving into Starlink's User Terminal Firmware](https://blog.quarkslab.com/starlink.html)
 * [2023-08-29, 14:18:31](https://news.ycombinator.com/item?id=37308329) - [She paid husband's hospital bill. A year after his death, they wanted more money](https://text.npr.org/1194289492)

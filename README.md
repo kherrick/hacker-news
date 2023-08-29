@@ -2,7 +2,7 @@
 
 * [2023-08-29, 19:17:58](https://news.ycombinator.com/item?id=37312523) - [Webstudio: Open-source WYSIWYG adds Radix UI elements](https://webstudio.is/radix)
 * [2023-08-29, 19:16:41](https://news.ycombinator.com/item?id=37312502) - [Google Announced AlloyDB AI for Building Generative AI Apps with PostgreSQL](https://cloud.google.com/blog/products/databases/helping-developers-build-gen-ai-apps-with-google-cloud-databases)
-* [2023-08-29, 18:29:12](https://news.ycombinator.com/item?id=37311891) - [Bicyclists Deserve the Right to Free Movement](https://www.thenation.com/article/society/bicycles-cycling-bike-safety/)
+* [2023-08-29, 18:37:16](https://news.ycombinator.com/item?id=37312001) - [Linux overtakes Mac as Steam's second-most used OS, thanks to the Steam Deck](https://www.pcgamer.com/linux-overtakes-mac-as-steams-second-most-used-os-and-its-all-thanks-to-the-steam-deck/)
 * [2023-08-29, 17:57:50](https://news.ycombinator.com/item?id=37311508) - [Popularity of DOS/4GW made Win95 game compat easier, but with higher stakes](https://devblogs.microsoft.com/oldnewthing/20230829-00/?p=108661)
 * [2023-08-29, 17:48:50](https://news.ycombinator.com/item?id=37311394) - [A Deep Dive into Weaviate's Fusion Algorithms for Hybrid Search](https://weaviate.io/blog/hybrid-search-fusion-algorithms)
 * [2023-08-29, 17:37:31](https://news.ycombinator.com/item?id=37311239) - [iFixit Petitions Government for Right to Hack McDonald's Ice Cream Machine](https://www.404media.co/activists-petition-government-for-right-to-hack-mcdonalds-mcflurry-machines-to-repair-them/)
@@ -11,7 +11,7 @@
 * [2023-08-29, 16:14:06](https://news.ycombinator.com/item?id=37310070) - [Show HN: Langfuse – Open-source observability and analytics for LLM apps](https://github.com/langfuse/langfuse)
 * [2023-08-29, 15:57:58](https://news.ycombinator.com/item?id=37309818) - [MagicEdit: High-Fidelity Temporally Coherent Video Editing](https://magic-edit.github.io/)
 * [2023-08-29, 15:24:58](https://news.ycombinator.com/item?id=37309309) - [Lesser Known Postgres Features (2021)](https://hakibenita.com/postgresql-unknown-features)
-* [2023-08-29, 15:17:57](https://news.ycombinator.com/item?id=37309189) - [Can Chrome Sync or Firefox Sync be trusted with sensitive data? (2018)](https://palant.info/2018/03/13/can-chrome-sync-or-firefox-sync-be-trusted-with-sensitive-data/)
+* [2023-08-29, 14:42:03](https://news.ycombinator.com/item?id=37308675) - [FDA schedules meeting to establish regulatory rules for artificial womb trials](https://www.fda.gov/advisory-committees/advisory-committee-calendar/pediatric-advisory-committee-meeting-announcement-09192023)
 * [2023-08-29, 14:24:21](https://news.ycombinator.com/item?id=37308405) - [Starlink's User Terminal Firmware](https://blog.quarkslab.com/starlink.html)
 * [2023-08-29, 13:44:20](https://news.ycombinator.com/item?id=37307828) - [C.R. Rao: A Life in Statistics (2020)](https://bhavana.org.in/c-r-rao-a-life-in-statistics/)
 * [2023-08-29, 13:36:05](https://news.ycombinator.com/item?id=37307708) - [Keystroke timing obfuscation added to ssh(1)](https://undeadly.org/cgi?action=article;sid=20230829051257)
@@ -24,12 +24,12 @@
 * [2023-08-29, 10:51:31](https://news.ycombinator.com/item?id=37305800) - [Grave flaws in BGP Error handling](https://blog.benjojo.co.uk/post/bgp-path-attributes-grave-error-handling)
 * [2023-08-29, 09:48:30](https://news.ycombinator.com/item?id=37305338) - [Why does the USA use 110V and UK use 230-240V? (2014)](https://electronics.stackexchange.com/questions/115200/why-does-the-usa-use-110v-and-uk-use-230-240v)
 * [2023-08-29, 09:30:35](https://news.ycombinator.com/item?id=37305240) - [Automatic Generation of Visualizations and Infographics with LLMs](https://microsoft.github.io/lida/)
+* [2023-08-29, 08:21:57](https://news.ycombinator.com/item?id=37304803) - [Announcing the Pollen API](https://cloud.google.com/blog/products/maps-platform/announcing-pollen-api-providing-actionable-info-about-airborne-pollen-levels-worldwide)
 * [2023-08-29, 08:19:35](https://news.ycombinator.com/item?id=37304789) - [Abandoned and little-known airfields](http://www.airfields-freeman.com/)
 * [2023-08-29, 05:55:40](https://news.ycombinator.com/item?id=37303960) - [Alexandria: A minimalistic cross-platform eBook reader](https://github.com/btpf/Alexandria)
 * [2023-08-29, 03:52:47](https://news.ycombinator.com/item?id=37303384) - [I raced a homing pigeon against the Internet [video]](https://www.youtube.com/watch?v=4pz2kMxCu8I)
 * [2023-08-29, 03:49:51](https://news.ycombinator.com/item?id=37303365) - [The Cheap Radio Hack That Disrupted Poland's Railway System](https://www.wired.com/story/poland-train-radio-stop-attack/)
 * [2023-08-28, 20:07:03](https://news.ycombinator.com/item?id=37299746) - [What can historical clothing reveal that other sources cannot?](https://www.historytoday.com/archive/head-head/what-can-historical-clothing-reveal-other-sources-cannot)
-* [2023-08-28, 14:00:54](https://news.ycombinator.com/item?id=37294099) - [Sound Card EEG (ScEEG) Technology](http://www.hotamateurprograms.com/eeg.htm)
 
 ## [Archives](archives/index.md)
 
