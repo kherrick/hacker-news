@@ -6,7 +6,7 @@
 * [2023-08-29, 16:30:26](https://news.ycombinator.com/item?id=37310314) - [Embracing Sabbaticals, Sunsetting Retirement Age](https://jacek.migdal.pl/2023/08/16/sabbaticals.html)
 * [2023-08-29, 15:57:58](https://news.ycombinator.com/item?id=37309818) - [MagicEdit: High-Fidelity Temporally Coherent Video Editing](https://magic-edit.github.io/)
 * [2023-08-29, 15:55:28](https://news.ycombinator.com/item?id=37309786) - [An End, and a Beginning](https://museapp.com/end-and-beginning/)
-* [2023-08-29, 15:41:33](https://news.ycombinator.com/item?id=37309575) - [Direct speech reconstruction from sensorimotor activity and deep learning models](https://iopscience.iop.org/article/10.1088/1741-2552/ace8be)
+* [2023-08-29, 15:41:04](https://news.ycombinator.com/item?id=37309566) - [Grayscale was unreasonably denied its Bitcoin ETF, court rules](https://twitter.com/jchervinsky/status/1696544309699363201)
 * [2023-08-29, 15:24:58](https://news.ycombinator.com/item?id=37309309) - [Lesser Known Postgres Features (2021)](https://hakibenita.com/postgresql-unknown-features)
 * [2023-08-29, 15:17:57](https://news.ycombinator.com/item?id=37309189) - [Can Chrome Sync or Firefox Sync be trusted with sensitive data?](https://palant.info/2018/03/13/can-chrome-sync-or-firefox-sync-be-trusted-with-sensitive-data/)
 * [2023-08-29, 14:24:21](https://news.ycombinator.com/item?id=37308405) - [Starlink's User Terminal Firmware](https://blog.quarkslab.com/starlink.html)
