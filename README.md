@@ -16,6 +16,7 @@
 * [2023-08-29, 12:11:42](https://news.ycombinator.com/item?id=37306534) - [Simplifying GPU Application Development with HMM](https://developer.nvidia.com/blog/simplifying-gpu-application-development-with-heterogeneous-memory-management/)
 * [2023-08-29, 12:11:12](https://news.ycombinator.com/item?id=37306530) - [Duet AI for Google Workspace Now Available](https://workspace.google.com/blog/product-announcements/duet-ai-in-workspace-now-available)
 * [2023-08-29, 12:00:19](https://news.ycombinator.com/item?id=37306435) - [CoinTracker (YC W18) Hiring a Product Leader to Build B2B Product (Remote)](https://jobs.ashbyhq.com/cointracker/b32d47df-5650-4424-8bd7-1ec151ad9922)
+* [2023-08-29, 11:53:38](https://news.ycombinator.com/item?id=37306364) - [World’s Oldest Cat Door Has Let Working Cats Enter the Cathedral Since 14c](https://mymodernmet.com/exeter-cathedral-cat-flap/)
 * [2023-08-29, 11:43:00](https://news.ycombinator.com/item?id=37306262) - [Elevator Saga: An elevator programming game (2015)](https://play.elevatorsaga.com/index.html)
 * [2023-08-29, 11:42:50](https://news.ycombinator.com/item?id=37306258) - [Show HN: Mu – A Micro App Platform](https://mu.app)
 * [2023-08-29, 11:20:23](https://news.ycombinator.com/item?id=37306055) - [Neutrons prove ‘Bond villain’ did not cause Arecibo telescope collapse](https://www.ornl.gov/news/neutrons-prove-bond-villain-did-not-cause-arecibo-telescope-collapse)
@@ -29,7 +30,6 @@
 * [2023-08-29, 07:01:44](https://news.ycombinator.com/item?id=37304306) - [Stringzilla: Fastest string sort, search, split, and shuffle using SIMD](https://github.com/ashvardanian/Stringzilla)
 * [2023-08-29, 05:55:40](https://news.ycombinator.com/item?id=37303960) - [Alexandria: A minimalistic cross-platform eBook reader](https://github.com/btpf/Alexandria)
 * [2023-08-26, 10:00:32](https://news.ycombinator.com/item?id=37271260) - [DevToys – A Swiss army knife for developers](https://bartwullems.blogspot.com/2023/08/devtoysa-swiss-army-knife-for-developers.html)
-* [2023-08-26, 09:46:30](https://news.ycombinator.com/item?id=37271162) - [The Python dictionary dispatch pattern](https://jamesg.blog/2023/08/26/python-dictionary-dispatch/)
 
 ## [Archives](archives/index.md)
 
