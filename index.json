@@ -111,6 +111,26 @@
   ],
   [
     [
+      "2023-08-29, 13:06:43",
+      "https://news.ycombinator.com/item?id=37307253"
+    ],
+    [
+      "StarCitizen Server Meshing Architecture",
+      "https://sc-server-meshing.info/wiki"
+    ]
+  ],
+  [
+    [
+      "2023-08-29, 12:31:27",
+      "https://news.ycombinator.com/item?id=37306769"
+    ],
+    [
+      "I don’t buy “duplication is cheaper than the wrong abstraction” (2021)",
+      "https://www.codewithjason.com/duplication-cheaper-wrong-abstraction/"
+    ]
+  ],
+  [
+    [
       "2023-08-29, 12:11:42",
       "https://news.ycombinator.com/item?id=37306534"
     ],
@@ -137,16 +157,6 @@
     [
       "CoinTracker (YC W18) Hiring a Product Leader to Build B2B Product (Remote)",
       "https://jobs.ashbyhq.com/cointracker/b32d47df-5650-4424-8bd7-1ec151ad9922"
-    ]
-  ],
-  [
-    [
-      "2023-08-29, 11:53:38",
-      "https://news.ycombinator.com/item?id=37306364"
-    ],
-    [
-      "World’s Oldest Cat Door Has Let Working Cats Enter the Cathedral Since 14c",
-      "https://mymodernmet.com/exeter-cathedral-cat-flap/"
     ]
   ],
   [
@@ -195,7 +205,7 @@
       "https://news.ycombinator.com/item?id=37305338"
     ],
     [
-      "Why does the USA use 110V and UK use 230-240V?",
+      "Why does the USA use 110V and UK use 230-240V? (2014)",
       "https://electronics.stackexchange.com/questions/115200/why-does-the-usa-use-110v-and-uk-use-230-240v"
     ]
   ],
@@ -217,16 +227,6 @@
     [
       "Visualization of Common Algorithms",
       "https://visualgo.net/en"
-    ]
-  ],
-  [
-    [
-      "2023-08-29, 08:30:52",
-      "https://news.ycombinator.com/item?id=37304851"
-    ],
-    [
-      "Elixir Saves Pinterest $2M a Year in Server Costs",
-      "https://paraxial.io/blog/elixir-savings"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2023-08-27, 07:09:39",
-      "https://news.ycombinator.com/item?id=37280157"
-    ],
-    [
-      "Harbour – A Cross-Platform xBase",
-      "https://harbour.github.io/"
-    ]
-  ],
-  [
-    [
       "2023-08-26, 10:00:32",
       "https://news.ycombinator.com/item?id=37271260"
     ],
     [
       "DevToys – A Swiss army knife for developers",
       "https://bartwullems.blogspot.com/2023/08/devtoysa-swiss-army-knife-for-developers.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-26, 09:46:30",
+      "https://news.ycombinator.com/item?id=37271162"
+    ],
+    [
+      "The Python dictionary dispatch pattern",
+      "https://jamesg.blog/2023/08/26/python-dictionary-dispatch/"
     ]
   ]
 ]
