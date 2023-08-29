@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-29, 20:26:50](https://news.ycombinator.com/item?id=37313493) - [How far can you jump from a swing?](https://www.alexmolas.com/2023/08/18/how-far-can-you-jump.html)
+* [2023-08-29, 20:17:54](https://news.ycombinator.com/item?id=37313349) - [ISPs Should Not Police Online Speech – No Matter How Awful It Is](https://www.eff.org/deeplinks/2023/08/isps-should-not-police-online-speech-no-matter-how-awful-it)
 * [2023-08-29, 20:14:15](https://news.ycombinator.com/item?id=37313293) - [Drumscript: A simple MIDI drum machine scripting language](https://github.com/tepreece/drumscript)
 * [2023-08-29, 20:06:11](https://news.ycombinator.com/item?id=37313183) - [Griffin - A fully-regulated, API-driven bank, with Clojure](https://www.juxt.pro/blog/clojure-in-griffin/)
-* [2023-08-29, 19:29:47](https://news.ycombinator.com/item?id=37312695) - [Texas Guardsmen spied on migrants via WhatsApp, mishandled secret docs](https://www.armytimes.com/news/your-army/2023/08/29/texas-guardsmen-spied-on-migrants-via-whatsapp-mishandled-secret-docs/)
 * [2023-08-29, 19:27:05](https://news.ycombinator.com/item?id=37312647) - [The FBI Has Collected DNA Profiles for 21M People](https://theintercept.com/2023/08/29/fbi-dna-collection-surveillance/)
 * [2023-08-29, 19:21:58](https://news.ycombinator.com/item?id=37312579) - [I chose the ThinkPad Z13 Gen1 as my Linux laptop](https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/)
 * [2023-08-29, 19:17:58](https://news.ycombinator.com/item?id=37312523) - [Webstudio: Open-source WYSIWYG adds Radix UI elements](https://webstudio.is/radix)
