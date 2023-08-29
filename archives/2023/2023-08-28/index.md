@@ -99,6 +99,7 @@
 * [2023-08-28, 07:40:18](https://news.ycombinator.com/item?id=37291010) - [Why the AGPL is often unenforceable (2015)](https://www.devever.net/~hl/agplunenforceable)
 * [2023-08-28, 07:39:51](https://news.ycombinator.com/item?id=37291007) - [The secretive world of North Korean science fiction](https://arstechnica.com/culture/2023/08/the-strange-secretive-world-of-north-korean-science-fiction/)
 * [2023-08-28, 07:28:38](https://news.ycombinator.com/item?id=37290942) - [How to Design Programs (2023)](https://htdp.org/2023-8-14/Book/index.html)
+* [2023-08-28, 07:17:40](https://news.ycombinator.com/item?id=37290860) - [Deseret Alphabet](https://www.deseretalphabet.org/)
 * [2023-08-28, 07:16:53](https://news.ycombinator.com/item?id=37290853) - [Homeric Question: With No Predecessor to Imitate, No Successor Could Imitate Him](https://fantasticanachronism.com/2020/01/17/having-had-no-predecessor-to-imitate/)
 * [2023-08-28, 07:06:02](https://news.ycombinator.com/item?id=37290790) - [Korean Air is asking passengers to step on the scales before boarding](https://www.cnbc.com/2023/08/28/should-airlines-weigh-passengers-its-for-safety-say-airlines-.html)
 * [2023-08-28, 06:41:20](https://news.ycombinator.com/item?id=37290625) - [Souvenir Spoons Museum](http://spoonplanet.com/)
