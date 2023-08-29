@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-08-29, 16:46:04",
-      "https://news.ycombinator.com/item?id=37310528"
+      "2023-08-29, 17:02:49",
+      "https://news.ycombinator.com/item?id=37310772"
     ],
     [
-      "Google, Amazon, Nvidia, and others invest $235M in Hugging Face",
-      "https://www.theverge.com/2023/8/24/23844444/google-amazon-nvidia-hugging-face-generative-ai-investment"
+      "FBI, Partners Dismantle Qakbot Infrastructure in Multinational Cyber Takedown",
+      "https://www.fbi.gov/news/stories/fbi-partners-dismantle-qakbot-infrastructure-in-multinational-cyber-takedown"
+    ]
+  ],
+  [
+    [
+      "2023-08-29, 17:01:05",
+      "https://news.ycombinator.com/item?id=37310746"
+    ],
+    [
+      "OneSignal (YC S11. Email, SMS, Push Notification Platform) Is Hiring Engineers",
+      "https://onesignal.com/careers#section-job"
     ]
   ],
   [
@@ -41,12 +51,32 @@
   ],
   [
     [
+      "2023-08-29, 15:41:04",
+      "https://news.ycombinator.com/item?id=37309566"
+    ],
+    [
+      "Grayscale was unreasonably denied its Bitcoin ETF, court rules",
+      "https://twitter.com/jchervinsky/status/1696544309699363201"
+    ]
+  ],
+  [
+    [
       "2023-08-29, 15:24:58",
       "https://news.ycombinator.com/item?id=37309309"
     ],
     [
       "Lesser Known Postgres Features (2021)",
       "https://hakibenita.com/postgresql-unknown-features"
+    ]
+  ],
+  [
+    [
+      "2023-08-29, 15:17:57",
+      "https://news.ycombinator.com/item?id=37309189"
+    ],
+    [
+      "Can Chrome Sync or Firefox Sync be trusted with sensitive data?",
+      "https://palant.info/2018/03/13/can-chrome-sync-or-firefox-sync-be-trusted-with-sensitive-data/"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2023-08-29, 13:06:43",
-      "https://news.ycombinator.com/item?id=37307253"
-    ],
-    [
-      "StarCitizen Server Meshing Architecture",
-      "https://sc-server-meshing.info/wiki"
-    ]
-  ],
-  [
-    [
       "2023-08-29, 12:31:27",
       "https://news.ycombinator.com/item?id=37306769"
     ],
@@ -157,16 +177,6 @@
     [
       "Duet AI for Google Workspace Now Available",
       "https://workspace.google.com/blog/product-announcements/duet-ai-in-workspace-now-available"
-    ]
-  ],
-  [
-    [
-      "2023-08-29, 12:00:19",
-      "https://news.ycombinator.com/item?id=37306435"
-    ],
-    [
-      "CoinTracker (YC W18) Hiring a Product Leader to Build B2B Product (Remote)",
-      "https://jobs.ashbyhq.com/cointracker/b32d47df-5650-4424-8bd7-1ec151ad9922"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Sound Card EEG (ScEEG) Technology",
       "http://www.hotamateurprograms.com/eeg.htm"
-    ]
-  ],
-  [
-    [
-      "2023-08-27, 12:17:45",
-      "https://news.ycombinator.com/item?id=37281920"
-    ],
-    [
-      "Scenes from the Solbourne Computer corporate video, March 1992",
-      "http://oldvcr.blogspot.com/2023/08/scenes-from-solbourne-computer.html"
     ]
   ]
 ]
