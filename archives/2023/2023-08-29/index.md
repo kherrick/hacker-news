@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
+* [2023-08-29, 17:37:31](https://news.ycombinator.com/item?id=37311239) - [iFixit Petitions Government for Right to Hack McDonald's Ice Cream Machine](https://www.404media.co/activists-petition-government-for-right-to-hack-mcdonalds-mcflurry-machines-to-repair-them/)
 * [2023-08-29, 17:02:49](https://news.ycombinator.com/item?id=37310772) - [FBI, Partners Dismantle Qakbot Infrastructure in Multinational Cyber Takedown](https://www.fbi.gov/news/stories/fbi-partners-dismantle-qakbot-infrastructure-in-multinational-cyber-takedown)
 * [2023-08-29, 17:01:05](https://news.ycombinator.com/item?id=37310746) - [OneSignal (YC S11. Email, SMS, Push Notification Platform) Is Hiring Engineers](https://onesignal.com/careers#section-job)
 * [2023-08-29, 16:46:16](https://news.ycombinator.com/item?id=37310531) - [Reinforced Self-Training (ReST) for Language Modeling](https://arxiv.org/abs/2308.08998)
 * [2023-08-29, 16:46:04](https://news.ycombinator.com/item?id=37310528) - [Google, Amazon, Nvidia, and others invest $235M in Hugging Face](https://www.theverge.com/2023/8/24/23844444/google-amazon-nvidia-hugging-face-generative-ai-investment)
 * [2023-08-29, 16:30:26](https://news.ycombinator.com/item?id=37310314) - [Embracing Sabbaticals, Sunsetting Retirement Age](https://jacek.migdal.pl/2023/08/16/sabbaticals.html)
+* [2023-08-29, 16:14:06](https://news.ycombinator.com/item?id=37310070) - [Show HN: Langfuse – Open-source observability and analytics for LLM apps](https://github.com/langfuse/langfuse)
 * [2023-08-29, 15:57:58](https://news.ycombinator.com/item?id=37309818) - [MagicEdit: High-Fidelity Temporally Coherent Video Editing](https://magic-edit.github.io/)
 * [2023-08-29, 15:55:28](https://news.ycombinator.com/item?id=37309786) - [An End, and a Beginning](https://museapp.com/end-and-beginning/)
 * [2023-08-29, 15:41:33](https://news.ycombinator.com/item?id=37309575) - [Direct speech reconstruction from sensorimotor activity and deep learning models](https://iopscience.iop.org/article/10.1088/1741-2552/ace8be)
