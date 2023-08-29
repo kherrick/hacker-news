@@ -5,9 +5,13 @@
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
 * [2023-08-29, 12:35:25](https://news.ycombinator.com/item?id=37306810) - [Google’s Surveillance: The Shocking Truth – Simplified Privacy](https://simplifiedprivacy.com/googles-surveillance-the-shocking-truth/)
+* [2023-08-29, 12:31:27](https://news.ycombinator.com/item?id=37306769) - [I don’t buy “duplication is cheaper than the wrong abstraction” (2021)](https://www.codewithjason.com/duplication-cheaper-wrong-abstraction/)
+* [2023-08-29, 12:17:25](https://news.ycombinator.com/item?id=37306596) - [Ask HN: Are there any fulfilling careers in tech anymore?](https://news.ycombinator.com/item?id=37306596)
 * [2023-08-29, 12:11:42](https://news.ycombinator.com/item?id=37306534) - [Simplifying GPU Application Development with HMM](https://developer.nvidia.com/blog/simplifying-gpu-application-development-with-heterogeneous-memory-management/)
 * [2023-08-29, 12:00:19](https://news.ycombinator.com/item?id=37306435) - [CoinTracker (YC W18) Hiring a Product Leader to Build B2B Product (Remote)](https://jobs.ashbyhq.com/cointracker/b32d47df-5650-4424-8bd7-1ec151ad9922)
 * [2023-08-29, 11:59:43](https://news.ycombinator.com/item?id=37306427) - [New study finds microplastics infiltrate all systems of body, alter behaviour](https://www.sustainableplastics.com/news/microplastics-found-pass-blood-brain-barrier-even-though-ingested-drinking-water)
+* [2023-08-29, 11:58:34](https://news.ycombinator.com/item?id=37306411) - [ToDesktop – Web app to desktop app in minutes](https://www.todesktop.com/)
+* [2023-08-29, 11:53:38](https://news.ycombinator.com/item?id=37306364) - [World’s Oldest Cat Door Has Let Working Cats Enter the Cathedral Since 14c](https://mymodernmet.com/exeter-cathedral-cat-flap/)
 * [2023-08-29, 11:43:00](https://news.ycombinator.com/item?id=37306262) - [Elevator Saga: The elevator programming game](https://play.elevatorsaga.com/index.html)
 * [2023-08-29, 11:25:48](https://news.ycombinator.com/item?id=37306108) - [Google Bard: incredible that this is a shipped product](https://twitter.com/rawxrawxraw/status/1691253814769184768)
 * [2023-08-29, 11:20:52](https://news.ycombinator.com/item?id=37306058) - [Show HN: Advanced Tab Manager for Firefox](https://addons.mozilla.org/en-US/firefox/addon/grasshopper-urls/)
