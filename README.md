@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-29, 04:57:35](https://news.ycombinator.com/item?id=37303695) - [How to share a NumPy array between processes](https://superfastpython.com/numpy-share-array-processes/)
+* [2023-08-29, 04:28:35](https://news.ycombinator.com/item?id=37303569) - [Toyota to halt operations at all Japan assembly plants due to system failure](https://www.reuters.com/business/autos-transportation/toyota-halts-operations-12-japan-factories-due-system-failure-nhk-2023-08-29/)
 * [2023-08-29, 03:48:09](https://news.ycombinator.com/item?id=37303357) - [Changing my relationship with GitHub Copilot](https://ntietz.com/blog/changing-my-relationship-with-github-copilot/)
 * [2023-08-29, 02:25:34](https://news.ycombinator.com/item?id=37302829) - [The best approach I've seen for hiring junior engineers](https://www.rubick.com/hiring-new-engineers/)
 * [2023-08-29, 02:23:56](https://news.ycombinator.com/item?id=37302816) - [The Heart of W. Edwards Deming](https://hagakure.substack.com/p/the-hagakure-64-the-heart-of-w-edwards)
@@ -24,7 +25,6 @@
 * [2023-08-28, 14:56:19](https://news.ycombinator.com/item?id=37295066) - [Designing a new concurrent data structure](https://questdb.io/blog/concurrent-lockfree-datastructure-design-walkthrough/)
 * [2023-08-28, 14:42:04](https://news.ycombinator.com/item?id=37294793) - [An unexpected find that freed 20GB of unused index space (2021)](https://hakibenita.com/postgresql-unused-index-size)
 * [2023-08-28, 12:14:45](https://news.ycombinator.com/item?id=37292864) - [How trees guard their seeds with mast seeding](https://phys.org/news/2023-08-trees-seeds-secrets-mast-seeding.html)
-* [2023-08-28, 07:39:51](https://news.ycombinator.com/item?id=37291007) - [North Korean science fiction](https://arstechnica.com/culture/2023/08/the-strange-secretive-world-of-north-korean-science-fiction/)
 * [2023-08-28, 06:41:20](https://news.ycombinator.com/item?id=37290625) - [Souvenir Spoons Museum](http://spoonplanet.com/)
 * [2023-08-28, 04:24:54](https://news.ycombinator.com/item?id=37289756) - [Loose lips save sunken ships](https://hakaimagazine.com/features/loose-lips-save-sunken-ships/)
 * [2023-08-27, 16:58:49](https://news.ycombinator.com/item?id=37284472) - [Reaching the Unix philosophy's logical extreme with WebAssembly](https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm)
