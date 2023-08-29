@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
+* [2023-08-29, 11:20:52](https://news.ycombinator.com/item?id=37306058) - [Show HN: Advanced Tab Manager for Firefox](https://addons.mozilla.org/en-US/firefox/addon/grasshopper-urls/)
 * [2023-08-29, 10:51:31](https://news.ycombinator.com/item?id=37305800) - [Grave flaws in BGP Error handling](https://blog.benjojo.co.uk/post/bgp-path-attributes-grave-error-handling)
+* [2023-08-29, 10:46:12](https://news.ycombinator.com/item?id=37305752) - [Exxon says world set to fail 2°C global warming cap by 2050](https://www.reuters.com/business/energy/exxon-projects-oil-gas-be-54-worlds-energy-needs-2050-2023-08-28/)
 * [2023-08-29, 09:48:30](https://news.ycombinator.com/item?id=37305338) - [Why does the USA use 110V and UK use 230-240V?](https://electronics.stackexchange.com/questions/115200/why-does-the-usa-use-110v-and-uk-use-230-240v)
 * [2023-08-29, 09:33:48](https://news.ycombinator.com/item?id=37305260) - [AI Crap – Drew Devault](https://drewdevault.com/2023/08/29/2023-08-29-AI-crap.html)
 * [2023-08-29, 09:30:35](https://news.ycombinator.com/item?id=37305240) - [Automatic Generation of Visualizations and Infographics with LLMs](https://microsoft.github.io/lida/)
