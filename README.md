@@ -11,7 +11,6 @@
 * [2023-08-28, 20:27:03](https://news.ycombinator.com/item?id=37299986) - [Bioregions 2023](https://www.oneearth.org/bioregions-2023/)
 * [2023-08-28, 18:42:01](https://news.ycombinator.com/item?id=37298665) - [Raise less, build more](https://trohan.com/2023/08/20/raise-less-build-more/)
 * [2023-08-28, 18:29:27](https://news.ycombinator.com/item?id=37298506) - [Serial adapter/reboot controller for Apple M1/M2](https://www.tindie.com/products/aaafnraa/serial-adapter-reboot-controller-for-apple-m1m2/)
-* [2023-08-28, 18:06:05](https://news.ycombinator.com/item?id=37298133) - [Utopia Clicker](https://tinysubversions.com/game/utopia/)
 * [2023-08-28, 17:13:51](https://news.ycombinator.com/item?id=37297362) - [A lost Edith Wharton play debuts on stage](https://www.smithsonianmag.com/smart-news/a-lost-edith-wharton-play-is-performed-for-the-first-time-180982795/)
 * [2023-08-28, 17:09:47](https://news.ycombinator.com/item?id=37297304) - [ChatGPT Enterprise](https://openai.com/blog/introducing-chatgpt-enterprise)
 * [2023-08-28, 16:37:22](https://news.ycombinator.com/item?id=37296803) - [Dark Messiah modding community got Ubisoft approval](https://www.moddb.com/mods/dark-messiah-co-op/news/a-call-to-dark-messiah-arms)
@@ -30,6 +29,7 @@
 * [2023-08-28, 04:24:54](https://news.ycombinator.com/item?id=37289756) - [Loose lips save sunken ships](https://hakaimagazine.com/features/loose-lips-save-sunken-ships/)
 * [2023-08-27, 16:58:49](https://news.ycombinator.com/item?id=37284472) - [Reaching the Unix philosophy's logical extreme with WebAssembly](https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm)
 * [2023-08-27, 06:16:31](https://news.ycombinator.com/item?id=37279895) - [Can a worker-owned restaurant work?](https://southseattleemerald.com/2023/08/26/can-a-worker-owned-restaurant-work/)
+* [2023-08-25, 07:51:16](https://news.ycombinator.com/item?id=37259204) - [Explore the Genealogy of Timepieces](https://watchsage.uc.r.appspot.com/)
 
 ## [Archives](archives/index.md)
 

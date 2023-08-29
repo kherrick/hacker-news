@@ -83,6 +83,7 @@
 * [2023-08-25, 08:34:59](https://news.ycombinator.com/item?id=37259441) - [Eppie is a decentralized email with full address and account ownership](https://eppie.io)
 * [2023-08-25, 08:33:06](https://news.ycombinator.com/item?id=37259428) - [An Open Source Mobile Phone Based on the ESP32](https://hackaday.com/2023/08/24/an-open-source-mobile-phone-based-on-the-esp32/)
 * [2023-08-25, 07:55:17](https://news.ycombinator.com/item?id=37259225) - [Unpacking Elixir: Concurrency](https://underjord.io/unpacking-elixir-concurrency.html)
+* [2023-08-25, 07:51:16](https://news.ycombinator.com/item?id=37259204) - [Explore the Genealogy of Timepieces](https://watchsage.uc.r.appspot.com/)
 * [2023-08-25, 07:11:43](https://news.ycombinator.com/item?id=37258974) - [I cycled to all the villages in alphabetical order](https://diziet.dreamwidth.org/16260.html)
 * [2023-08-25, 06:31:56](https://news.ycombinator.com/item?id=37258753) - [A scalar triple product identity](https://realtimecollisiondetection.net/blog/?p=69)
 * [2023-08-25, 05:26:58](https://news.ycombinator.com/item?id=37258411) - [Evolution of the Gitea Downloads Site](https://blog.gitea.com/evolution-of-the-gitea-downloads-site/)
