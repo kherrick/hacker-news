@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
+* [2023-08-29, 12:00:19](https://news.ycombinator.com/item?id=37306435) - [CoinTracker (YC W18) Hiring a Product Leader to Build B2B Product (Remote)](https://jobs.ashbyhq.com/cointracker/b32d47df-5650-4424-8bd7-1ec151ad9922)
+* [2023-08-29, 11:59:43](https://news.ycombinator.com/item?id=37306427) - [New study finds microplastics infiltrate all systems of body, alter behaviour](https://www.sustainableplastics.com/news/microplastics-found-pass-blood-brain-barrier-even-though-ingested-drinking-water)
 * [2023-08-29, 11:25:48](https://news.ycombinator.com/item?id=37306108) - [Google Bard: incredible that this is a shipped product](https://twitter.com/rawxrawxraw/status/1691253814769184768)
 * [2023-08-29, 11:20:52](https://news.ycombinator.com/item?id=37306058) - [Show HN: Advanced Tab Manager for Firefox](https://addons.mozilla.org/en-US/firefox/addon/grasshopper-urls/)
 * [2023-08-29, 11:20:23](https://news.ycombinator.com/item?id=37306055) - [Neutrons prove ‘Bond villain’ did not cause Arecibo telescope collapse](https://www.ornl.gov/news/neutrons-prove-bond-villain-did-not-cause-arecibo-telescope-collapse)
@@ -20,6 +22,7 @@
 * [2023-08-29, 07:53:25](https://news.ycombinator.com/item?id=37304626) - [Silicon Valley faces a crisis of nonsense](https://www.piratewires.com/p/choose-good-quests)
 * [2023-08-29, 07:11:09](https://news.ycombinator.com/item?id=37304370) - [Unix sockets, Cygwin, SSH agents, and sadness](https://mjg59.dreamwidth.org/67402.html)
 * [2023-08-29, 07:10:39](https://news.ycombinator.com/item?id=37304367) - [Multics Simulator](https://multicians.org/simulator.html)
+* [2023-08-29, 07:01:44](https://news.ycombinator.com/item?id=37304306) - [Stringzilla: Fastest string sort, search, split, and shuffle using SIMD](https://github.com/ashvardanian/Stringzilla)
 * [2023-08-29, 06:39:59](https://news.ycombinator.com/item?id=37304167) - [Compiling Rust for .NET, using only tea and stubbornness](https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_0_1.html)
 * [2023-08-29, 06:35:54](https://news.ycombinator.com/item?id=37304153) - [Source: Google Pixel 8 will get more Android OS updates](https://9to5google.com/2023/08/28/google-pixel-8-android-os-updates/)
 * [2023-08-29, 06:30:17](https://news.ycombinator.com/item?id=37304125) - [A note to young folks: download the things you love](https://birchtree.me/blog/a-note-to-young-folks-download-the-videos-you-love/)
