@@ -2,6 +2,7 @@
 
 * [2023-08-29, 20:14:15](https://news.ycombinator.com/item?id=37313293) - [Drumscript: A simple MIDI drum machine scripting language](https://github.com/tepreece/drumscript)
 * [2023-08-29, 20:06:11](https://news.ycombinator.com/item?id=37313183) - [Griffin - A fully-regulated, API-driven bank, with Clojure](https://www.juxt.pro/blog/clojure-in-griffin/)
+* [2023-08-29, 19:29:47](https://news.ycombinator.com/item?id=37312695) - [Texas Guardsmen spied on migrants via WhatsApp, mishandled secret docs](https://www.armytimes.com/news/your-army/2023/08/29/texas-guardsmen-spied-on-migrants-via-whatsapp-mishandled-secret-docs/)
 * [2023-08-29, 19:27:05](https://news.ycombinator.com/item?id=37312647) - [The FBI Has Collected DNA Profiles for 21M People](https://theintercept.com/2023/08/29/fbi-dna-collection-surveillance/)
 * [2023-08-29, 19:21:58](https://news.ycombinator.com/item?id=37312579) - [I chose the ThinkPad Z13 Gen1 as my Linux laptop](https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/)
 * [2023-08-29, 19:17:58](https://news.ycombinator.com/item?id=37312523) - [Webstudio: Open-source WYSIWYG adds Radix UI elements](https://webstudio.is/radix)
@@ -26,7 +27,6 @@
 * [2023-08-29, 11:20:23](https://news.ycombinator.com/item?id=37306055) - [Neutrons prove ‘Bond villain’ did not cause Arecibo telescope collapse](https://www.ornl.gov/news/neutrons-prove-bond-villain-did-not-cause-arecibo-telescope-collapse)
 * [2023-08-29, 10:51:31](https://news.ycombinator.com/item?id=37305800) - [Grave flaws in BGP Error handling](https://blog.benjojo.co.uk/post/bgp-path-attributes-grave-error-handling)
 * [2023-08-29, 09:48:30](https://news.ycombinator.com/item?id=37305338) - [Why does the USA use 110V and UK use 230-240V? (2014)](https://electronics.stackexchange.com/questions/115200/why-does-the-usa-use-110v-and-uk-use-230-240v)
-* [2023-08-29, 09:30:35](https://news.ycombinator.com/item?id=37305240) - [Automatic Generation of Visualizations and Infographics with LLMs](https://microsoft.github.io/lida/)
 * [2023-08-29, 08:19:35](https://news.ycombinator.com/item?id=37304789) - [Abandoned and little-known airfields](http://www.airfields-freeman.com/)
 * [2023-08-29, 03:49:51](https://news.ycombinator.com/item?id=37303365) - [A cheap radio hack disrupted Poland's railway system](https://www.wired.com/story/poland-train-radio-stop-attack/)
 * [2023-08-29, 00:47:03](https://news.ycombinator.com/item?id=37302176) - [The first observation of neutrinos at CERN's Large Hadron Collider](https://phys.org/news/2023-08-neutrinos-cern-large-hadron-collider.html)
