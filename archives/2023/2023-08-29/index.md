@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
+* [2023-08-29, 13:06:43](https://news.ycombinator.com/item?id=37307253) - [StarCitizen Server Meshing Architecture](https://sc-server-meshing.info/wiki)
+* [2023-08-29, 12:38:04](https://news.ycombinator.com/item?id=37306841) - [America Is Using Up Its Groundwater Like There’s No Tomorrow](https://www.nytimes.com/interactive/2023/08/28/climate/groundwater-drying-climate-change.html)
 * [2023-08-29, 12:35:25](https://news.ycombinator.com/item?id=37306810) - [Google’s Surveillance: The Shocking Truth – Simplified Privacy](https://simplifiedprivacy.com/googles-surveillance-the-shocking-truth/)
 * [2023-08-29, 12:31:27](https://news.ycombinator.com/item?id=37306769) - [I don’t buy “duplication is cheaper than the wrong abstraction” (2021)](https://www.codewithjason.com/duplication-cheaper-wrong-abstraction/)
 * [2023-08-29, 12:17:25](https://news.ycombinator.com/item?id=37306596) - [Ask HN: Are there any fulfilling careers in tech anymore?](https://news.ycombinator.com/item?id=37306596)
