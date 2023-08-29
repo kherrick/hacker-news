@@ -83,6 +83,7 @@
 * [2023-08-27, 07:38:09](https://news.ycombinator.com/item?id=37280309) - [Who is driving Germany's far-right poll surge?](https://adamtooze.substack.com/p/chartbook-235-who-is-driving-germanys)
 * [2023-08-27, 06:16:31](https://news.ycombinator.com/item?id=37279895) - [Can a worker-owned restaurant work](https://southseattleemerald.com/2023/08/26/can-a-worker-owned-restaurant-work/)
 * [2023-08-27, 05:51:10](https://news.ycombinator.com/item?id=37279773) - [Ubus (OpenWrt micro bus architecture)](https://openwrt.org/docs/techref/ubus)
+* [2023-08-27, 05:25:34](https://news.ycombinator.com/item?id=37279651) - [Practical parsing with Flex and Bison (2021)](https://begriffs.com/posts/2021-11-28-practical-parsing.html)
 * [2023-08-27, 05:09:05](https://news.ycombinator.com/item?id=37279589) - [The Hiragana (Chart with Sound)](https://japanesecomplete.com/hiragana-chart)
 * [2023-08-27, 04:58:44](https://news.ycombinator.com/item?id=37279543) - [Bugzilla Celebrates 25 Years with Special Announcements](https://www.bugzilla.org/blog/2023/08/26/bugzilla-celebrates-25-years/)
 * [2023-08-27, 04:53:11](https://news.ycombinator.com/item?id=37279521) - [Silicon Valley elites revealed as investors behind $800M Bay Area land grab](https://www.sfchronicle.com/bayarea/article/solano-new-city-investors-silicon-valley-18331296.php)
