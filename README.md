@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-29, 13:21:34](https://news.ycombinator.com/item?id=37307473) - [Accessible Palette: stop using HSL for color systems](https://wildbit.com/blog/accessible-palette-stop-using-hsl-for-color-systems)
 * [2023-08-29, 13:06:43](https://news.ycombinator.com/item?id=37307253) - [StarCitizen Server Meshing Architecture](https://sc-server-meshing.info/wiki)
 * [2023-08-29, 12:38:04](https://news.ycombinator.com/item?id=37306841) - [America Is Using Up Its Groundwater Like There’s No Tomorrow](https://www.nytimes.com/interactive/2023/08/28/climate/groundwater-drying-climate-change.html)
 * [2023-08-29, 12:31:27](https://news.ycombinator.com/item?id=37306769) - [I don’t buy “duplication is cheaper than the wrong abstraction” (2021)](https://www.codewithjason.com/duplication-cheaper-wrong-abstraction/)
@@ -26,7 +27,6 @@
 * [2023-08-28, 18:22:07](https://news.ycombinator.com/item?id=37298401) - [The Leg (1982)](https://www.lrb.co.uk/the-paper/v04/n11/oliver-sacks/the-leg)
 * [2023-08-28, 17:09:47](https://news.ycombinator.com/item?id=37297304) - [ChatGPT Enterprise](https://openai.com/blog/introducing-chatgpt-enterprise)
 * [2023-08-28, 15:00:59](https://news.ycombinator.com/item?id=37295149) - [Launch HN: HyLight (YC S23) – Hydrogen airships to inspect energy infrastructure](https://news.ycombinator.com/item?id=37295149)
-* [2023-08-28, 08:15:15](https://news.ycombinator.com/item?id=37291240) - [The Origins and Motivations of Univalent Foundations (2014)](https://www.ias.edu/ideas/2014/voevodsky-origins)
 * [2023-08-28, 04:24:54](https://news.ycombinator.com/item?id=37289756) - [Loose lips save sunken ships](https://hakaimagazine.com/features/loose-lips-save-sunken-ships/)
 * [2023-08-27, 05:25:34](https://news.ycombinator.com/item?id=37279651) - [Practical parsing with Flex and Bison (2021)](https://begriffs.com/posts/2021-11-28-practical-parsing.html)
 * [2023-08-26, 09:46:30](https://news.ycombinator.com/item?id=37271162) - [The Python dictionary dispatch pattern](https://jamesg.blog/2023/08/26/python-dictionary-dispatch/)

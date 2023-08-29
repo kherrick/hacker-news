@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
+* [2023-08-29, 13:21:34](https://news.ycombinator.com/item?id=37307473) - [Accessible Palette: stop using HSL for color systems](https://wildbit.com/blog/accessible-palette-stop-using-hsl-for-color-systems)
 * [2023-08-29, 13:06:43](https://news.ycombinator.com/item?id=37307253) - [StarCitizen Server Meshing Architecture](https://sc-server-meshing.info/wiki)
 * [2023-08-29, 12:38:04](https://news.ycombinator.com/item?id=37306841) - [America Is Using Up Its Groundwater Like There’s No Tomorrow](https://www.nytimes.com/interactive/2023/08/28/climate/groundwater-drying-climate-change.html)
 * [2023-08-29, 12:35:25](https://news.ycombinator.com/item?id=37306810) - [Google’s Surveillance: The Shocking Truth – Simplified Privacy](https://simplifiedprivacy.com/googles-surveillance-the-shocking-truth/)
