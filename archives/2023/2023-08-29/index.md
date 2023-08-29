@@ -75,6 +75,7 @@
 * [2023-08-29, 04:57:35](https://news.ycombinator.com/item?id=37303695) - [How to share a NumPy array between processes](https://superfastpython.com/numpy-share-array-processes/)
 * [2023-08-29, 04:28:35](https://news.ycombinator.com/item?id=37303569) - [Toyota to halt operations at all Japan assembly plants due to system failure](https://www.reuters.com/business/autos-transportation/toyota-halts-operations-12-japan-factories-due-system-failure-nhk-2023-08-29/)
 * [2023-08-29, 04:24:52](https://news.ycombinator.com/item?id=37303554) - [Grumpy Website](https://grumpy.website/)
+* [2023-08-29, 03:52:47](https://news.ycombinator.com/item?id=37303384) - [I raced a homing pigeon against the Internet [video]](https://www.youtube.com/watch?v=4pz2kMxCu8I)
 * [2023-08-29, 03:49:42](https://news.ycombinator.com/item?id=37303364) - [Implementing Nearest-Neighbour Recommendations in Ruby](https://www.vector-logic.com/blog/posts/implementing-neighbour-based-recommendations-in-ruby)
 * [2023-08-29, 03:48:09](https://news.ycombinator.com/item?id=37303357) - [Changing my relationship with GitHub Copilot](https://ntietz.com/blog/changing-my-relationship-with-github-copilot/)
 * [2023-08-29, 03:42:27](https://news.ycombinator.com/item?id=37303332) - [Amazon CEO warns remote workers: ‘It’s probably not going to work out for you’](https://nypost.com/2023/08/28/amazon-ceo-andy-jassy-warns-remote-workers-its-probably-not-going-to-work-out-for-you/)

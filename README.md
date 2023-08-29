@@ -6,7 +6,6 @@
 * [2023-08-29, 16:30:26](https://news.ycombinator.com/item?id=37310314) - [Embracing Sabbaticals, Sunsetting Retirement Age](https://jacek.migdal.pl/2023/08/16/sabbaticals.html)
 * [2023-08-29, 15:57:58](https://news.ycombinator.com/item?id=37309818) - [MagicEdit: High-Fidelity Temporally Coherent Video Editing](https://magic-edit.github.io/)
 * [2023-08-29, 15:55:28](https://news.ycombinator.com/item?id=37309786) - [An End, and a Beginning](https://museapp.com/end-and-beginning/)
-* [2023-08-29, 15:41:04](https://news.ycombinator.com/item?id=37309566) - [Grayscale was unreasonably denied its Bitcoin ETF, court rules](https://twitter.com/jchervinsky/status/1696544309699363201)
 * [2023-08-29, 15:24:58](https://news.ycombinator.com/item?id=37309309) - [Lesser Known Postgres Features (2021)](https://hakibenita.com/postgresql-unknown-features)
 * [2023-08-29, 15:17:57](https://news.ycombinator.com/item?id=37309189) - [Can Chrome Sync or Firefox Sync be trusted with sensitive data?](https://palant.info/2018/03/13/can-chrome-sync-or-firefox-sync-be-trusted-with-sensitive-data/)
 * [2023-08-29, 14:24:21](https://news.ycombinator.com/item?id=37308405) - [Starlink's User Terminal Firmware](https://blog.quarkslab.com/starlink.html)
@@ -28,6 +27,7 @@
 * [2023-08-29, 08:19:35](https://news.ycombinator.com/item?id=37304789) - [Abandoned and Little-Known Airfields](http://www.airfields-freeman.com/)
 * [2023-08-29, 07:11:09](https://news.ycombinator.com/item?id=37304370) - [Unix sockets, Cygwin, SSH agents, and sadness](https://mjg59.dreamwidth.org/67402.html)
 * [2023-08-29, 05:55:40](https://news.ycombinator.com/item?id=37303960) - [Alexandria: A minimalistic cross-platform eBook reader](https://github.com/btpf/Alexandria)
+* [2023-08-29, 03:52:47](https://news.ycombinator.com/item?id=37303384) - [I raced a homing pigeon against the Internet [video]](https://www.youtube.com/watch?v=4pz2kMxCu8I)
 * [2023-08-28, 20:07:03](https://news.ycombinator.com/item?id=37299746) - [What can historical clothing reveal that other sources cannot?](https://www.historytoday.com/archive/head-head/what-can-historical-clothing-reveal-other-sources-cannot)
 * [2023-08-28, 14:00:54](https://news.ycombinator.com/item?id=37294099) - [Sound Card EEG (ScEEG) Technology](http://www.hotamateurprograms.com/eeg.htm)
 
