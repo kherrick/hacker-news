@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
 * [2023-08-28, 23:43:30](https://news.ycombinator.com/item?id=37301728) - [Amazon CEO reportedly told remote employees: It’s probably not going to work out](https://www.theverge.com/2023/8/28/23849754/amazon-ceo-andy-jassy-remote-employees-return-to-office)
+* [2023-08-28, 23:23:08](https://news.ycombinator.com/item?id=37301600) - [Google moderates Google Collections items](https://strangeobject.space/@silvermoon82/110969122337810598)
 * [2023-08-28, 22:37:01](https://news.ycombinator.com/item?id=37301274) - [False Canopies on Fighters Work, One Almost Killed Me](https://www.thedrive.com/the-war-zone/false-canopies-on-fighters-work-one-almost-killed-me)
 * [2023-08-28, 22:04:08](https://news.ycombinator.com/item?id=37300974) - [Google moderates private bookmarks sync-ed with Chrome](https://strangeobject.space/@silvermoon82/110969122337810598)
 * [2023-08-28, 21:36:58](https://news.ycombinator.com/item?id=37300709) - [Water-Purifying Cup Makes Drinkable Water from Creeks and Streams](https://cockrell.utexas.edu/news/archive/9720-water-purifying-cup-makes-drinkable-water-from-creeks-and-streams-in-minutes)
@@ -45,6 +46,7 @@
 * [2023-08-28, 15:25:00](https://news.ycombinator.com/item?id=37295611) - [Steel Bank Common Lisp 2.3.8 released: “a mark-region parallel GC is available”](https://www.sbcl.org/news.html#2.3.8)
 * [2023-08-28, 15:17:15](https://news.ycombinator.com/item?id=37295470) - [California Population Size Projected to Stagnate](https://www.nytimes.com/2023/08/27/us/california-population-decline-housing-crisis.html)
 * [2023-08-28, 15:15:52](https://news.ycombinator.com/item?id=37295439) - [Cleaning Up Dead Bodies in AWS IAM](https://www.noq.dev/blog/cleaning-up-dead-bodies-in-aws-iam)
+* [2023-08-28, 15:14:26](https://news.ycombinator.com/item?id=37295409) - [Startup receives grant for clinical trial of a promising eye treatment](https://research.usc.edu/news/2023/08/usc-supported-startup-receives-major-grant-for-clinical-trial-of-a-promising-eye-treatment/)
 * [2023-08-28, 15:14:21](https://news.ycombinator.com/item?id=37295408) - [Unit Test LlamaIndex with DeepEval](https://docs.confident-ai.com/docs/tutorials/evaluating-llamaindex)
 * [2023-08-28, 15:03:39](https://news.ycombinator.com/item?id=37295192) - [Continue with LocalAI: An alternative to GitHub's Copilot that runs locally](https://old.reddit.com/r/selfhosted/comments/163nxcm/continue_with_localai_an_alternative_to_githubs/)
 * [2023-08-28, 15:00:59](https://news.ycombinator.com/item?id=37295149) - [Launch HN: HyLight (YC S23) – Hydrogen airships to inspect energy infrastructure](https://news.ycombinator.com/item?id=37295149)
