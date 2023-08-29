@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-29, 18:19:52",
+      "https://news.ycombinator.com/item?id=37311780"
+    ],
+    [
+      "AWS Works Council Germany",
+      "https://www.aws-works-council-initiative.de/"
+    ]
+  ],
+  [
+    [
+      "2023-08-29, 17:48:50",
+      "https://news.ycombinator.com/item?id=37311394"
+    ],
+    [
+      "A Deep Dive into Weaviate's Fusion Algorithms for Hybrid Search",
+      "https://weaviate.io/blog/hybrid-search-fusion-algorithms"
+    ]
+  ],
+  [
+    [
       "2023-08-29, 17:37:31",
       "https://news.ycombinator.com/item?id=37311239"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2023-08-29, 08:21:57",
-      "https://news.ycombinator.com/item?id=37304803"
-    ],
-    [
-      "Announcing the Pollen API",
-      "https://cloud.google.com/blog/products/maps-platform/announcing-pollen-api-providing-actionable-info-about-airborne-pollen-levels-worldwide"
-    ]
-  ],
-  [
-    [
       "2023-08-29, 08:19:35",
       "https://news.ycombinator.com/item?id=37304789"
     ],
@@ -287,16 +297,6 @@
     [
       "Sound Card EEG (ScEEG) Technology",
       "http://www.hotamateurprograms.com/eeg.htm"
-    ]
-  ],
-  [
-    [
-      "2023-08-28, 09:28:17",
-      "https://news.ycombinator.com/item?id=37291674"
-    ],
-    [
-      "Analysis of obfuscations found in Apple FairPlay",
-      "https://nicolo.dev/en/blog/fairplay-apple-obfuscation/"
     ]
   ]
 ]
