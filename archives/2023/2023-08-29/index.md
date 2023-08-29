@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
+* [2023-08-29, 03:42:27](https://news.ycombinator.com/item?id=37303332) - [Amazon CEO warns remote workers: ‘It’s probably not going to work out for you’](https://nypost.com/2023/08/28/amazon-ceo-andy-jassy-warns-remote-workers-its-probably-not-going-to-work-out-for-you/)
 * [2023-08-29, 02:58:45](https://news.ycombinator.com/item?id=37303043) - [Asus reportedly shuts down Zenfone division, no more compact flagships](https://www.androidauthority.com/asus-reportedly-shuts-down-zenfone-division-3358431/)
 * [2023-08-29, 02:39:01](https://news.ycombinator.com/item?id=37302939) - [The Ocean Has a Fever](https://earthobservatory.nasa.gov/images/151743/the-ocean-has-a-fever)
 * [2023-08-29, 02:23:56](https://news.ycombinator.com/item?id=37302816) - [The Heart of W. Edwards Deming](https://hagakure.substack.com/p/the-hagakure-64-the-heart-of-w-edwards)
