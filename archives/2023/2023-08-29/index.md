@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
+* [2023-08-29, 15:21:34](https://news.ycombinator.com/item?id=37309250) - [When did people stop being drunk all the time?](https://www.lefineder.com/p/when-did-people-stop-being-drunk)
+* [2023-08-29, 14:44:19](https://news.ycombinator.com/item?id=37308708) - [Air pollution greatest global threat to human health, says benchmark study](https://phys.org/news/2023-08-air-pollution-greatest-global-threat.html)
 * [2023-08-29, 14:24:29](https://news.ycombinator.com/item?id=37308409) - [ChatGPT web and mobile UIs unavailable](https://status.openai.com/incidents/5l07rfcr5fyn)
 * [2023-08-29, 14:24:21](https://news.ycombinator.com/item?id=37308405) - [Diving into Starlink's User Terminal Firmware](https://blog.quarkslab.com/starlink.html)
 * [2023-08-29, 14:18:31](https://news.ycombinator.com/item?id=37308329) - [She paid husband's hospital bill. A year after his death, they wanted more money](https://text.npr.org/1194289492)
