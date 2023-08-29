@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-29, 21:51:26](https://news.ycombinator.com/item?id=37314622) - [Home – Database of Databases](https://dbdb.io/)
 * [2023-08-29, 21:42:52](https://news.ycombinator.com/item?id=37314526) - [Doas – dedicated OpenBSD application subexecutor](https://flak.tedunangst.com/post/doas)
 * [2023-08-29, 20:26:50](https://news.ycombinator.com/item?id=37313493) - [How far can you jump from a swing?](https://www.alexmolas.com/2023/08/18/how-far-can-you-jump.html)
 * [2023-08-29, 20:17:54](https://news.ycombinator.com/item?id=37313349) - [ISPs Should Not Police Online Speech – No Matter How Awful It Is](https://www.eff.org/deeplinks/2023/08/isps-should-not-police-online-speech-no-matter-how-awful-it)
@@ -24,7 +25,6 @@
 * [2023-08-29, 13:32:45](https://news.ycombinator.com/item?id=37307653) - [Analysis of Obfuscation Techniques Found in Apple FairPlay](https://nicolo.dev/en/blog/fairplay-apple-obfuscation/)
 * [2023-08-29, 13:21:34](https://news.ycombinator.com/item?id=37307473) - [Accessible Palette: stop using HSL for color systems (2021)](https://wildbit.com/blog/accessible-palette-stop-using-hsl-for-color-systems)
 * [2023-08-29, 12:38:44](https://news.ycombinator.com/item?id=37306853) - [Bobbi Gibb: The Boston Marathon pioneer who raced a lie](https://www.bbc.co.uk/sport/athletics/66615089)
-* [2023-08-29, 11:20:23](https://news.ycombinator.com/item?id=37306055) - [Neutrons prove ‘Bond villain’ did not cause Arecibo telescope collapse](https://www.ornl.gov/news/neutrons-prove-bond-villain-did-not-cause-arecibo-telescope-collapse)
 * [2023-08-29, 10:51:31](https://news.ycombinator.com/item?id=37305800) - [Grave flaws in BGP Error handling](https://blog.benjojo.co.uk/post/bgp-path-attributes-grave-error-handling)
 * [2023-08-29, 09:48:30](https://news.ycombinator.com/item?id=37305338) - [Why does the USA use 110V and UK use 230-240V? (2014)](https://electronics.stackexchange.com/questions/115200/why-does-the-usa-use-110v-and-uk-use-230-240v)
 * [2023-08-29, 08:19:35](https://news.ycombinator.com/item?id=37304789) - [Abandoned and little-known airfields](http://www.airfields-freeman.com/)

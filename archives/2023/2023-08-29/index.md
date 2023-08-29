@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
+* [2023-08-29, 21:51:26](https://news.ycombinator.com/item?id=37314622) - [Home – Database of Databases](https://dbdb.io/)
 * [2023-08-29, 21:42:52](https://news.ycombinator.com/item?id=37314526) - [Doas – dedicated OpenBSD application subexecutor](https://flak.tedunangst.com/post/doas)
 * [2023-08-29, 20:26:50](https://news.ycombinator.com/item?id=37313493) - [How far can you jump from a swing?](https://www.alexmolas.com/2023/08/18/how-far-can-you-jump.html)
 * [2023-08-29, 20:17:54](https://news.ycombinator.com/item?id=37313349) - [ISPs Should Not Police Online Speech – No Matter How Awful It Is](https://www.eff.org/deeplinks/2023/08/isps-should-not-police-online-speech-no-matter-how-awful-it)
