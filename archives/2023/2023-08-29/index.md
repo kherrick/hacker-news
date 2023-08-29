@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
+* [2023-08-29, 19:17:58](https://news.ycombinator.com/item?id=37312523) - [Webstudio: Open-source WYSIWYG adds Radix UI elements](https://webstudio.is/radix)
+* [2023-08-29, 19:16:41](https://news.ycombinator.com/item?id=37312502) - [Google Announced AlloyDB AI for Building Generative AI Apps with PostgreSQL](https://cloud.google.com/blog/products/databases/helping-developers-build-gen-ai-apps-with-google-cloud-databases)
 * [2023-08-29, 18:29:12](https://news.ycombinator.com/item?id=37311891) - [Bicyclists Deserve the Right to Free Movement](https://www.thenation.com/article/society/bicycles-cycling-bike-safety/)
 * [2023-08-29, 18:19:52](https://news.ycombinator.com/item?id=37311780) - [AWS Works Council Germany](https://www.aws-works-council-initiative.de/)
 * [2023-08-29, 17:57:50](https://news.ycombinator.com/item?id=37311508) - [Popularity of DOS/4GW made Win95 game compat easier, but with higher stakes](https://devblogs.microsoft.com/oldnewthing/20230829-00/?p=108661)
