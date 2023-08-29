@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-29, 14:24:29](https://news.ycombinator.com/item?id=37308409) - [ChatGPT web and mobile UIs unavailable](https://status.openai.com/incidents/5l07rfcr5fyn)
 * [2023-08-29, 14:24:21](https://news.ycombinator.com/item?id=37308405) - [Starlink's User Terminal Firmware](https://blog.quarkslab.com/starlink.html)
 * [2023-08-29, 14:18:31](https://news.ycombinator.com/item?id=37308329) - [She paid husband's hospital bill. A year after his death, they wanted more money](https://text.npr.org/1194289492)
 * [2023-08-29, 13:48:27](https://news.ycombinator.com/item?id=37307886) - [Extreme poverty: How far have we come, and how far do we still have to go?](https://ourworldindata.org/extreme-poverty-in-brief)
@@ -12,6 +11,7 @@
 * [2023-08-29, 13:10:13](https://news.ycombinator.com/item?id=37307313) - [Observability in WebAssembly](https://dev.dylibso.com/docs/observe/overview/)
 * [2023-08-29, 13:07:00](https://news.ycombinator.com/item?id=37307260) - [How Mojo gets a 35,000x speedup over Python – Part 2](https://www.modular.com/blog/how-mojo-gets-a-35-000x-speedup-over-python-part-2)
 * [2023-08-29, 13:06:43](https://news.ycombinator.com/item?id=37307253) - [StarCitizen Server Meshing Architecture](https://sc-server-meshing.info/wiki)
+* [2023-08-29, 12:52:50](https://news.ycombinator.com/item?id=37307032) - [Amazon CEO tells staff to work in office 3 days a week or look for another job](https://www.theguardian.com/technology/2023/aug/29/amazon-ceo-staff-work-in-office-job-workers)
 * [2023-08-29, 12:31:27](https://news.ycombinator.com/item?id=37306769) - [I don’t buy “duplication is cheaper than the wrong abstraction” (2021)](https://www.codewithjason.com/duplication-cheaper-wrong-abstraction/)
 * [2023-08-29, 12:11:42](https://news.ycombinator.com/item?id=37306534) - [Simplifying GPU Application Development with HMM](https://developer.nvidia.com/blog/simplifying-gpu-application-development-with-heterogeneous-memory-management/)
 * [2023-08-29, 12:11:12](https://news.ycombinator.com/item?id=37306530) - [Duet AI for Google Workspace Now Available](https://workspace.google.com/blog/product-announcements/duet-ai-in-workspace-now-available)
