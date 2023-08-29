@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-29, 20:26:50](https://news.ycombinator.com/item?id=37313493) - [How far can you jump from a swing?](https://www.alexmolas.com/2023/08/18/how-far-can-you-jump.html)
 * [2023-08-29, 20:14:15](https://news.ycombinator.com/item?id=37313293) - [Drumscript: A simple MIDI drum machine scripting language](https://github.com/tepreece/drumscript)
 * [2023-08-29, 20:06:11](https://news.ycombinator.com/item?id=37313183) - [Griffin - A fully-regulated, API-driven bank, with Clojure](https://www.juxt.pro/blog/clojure-in-griffin/)
 * [2023-08-29, 19:29:47](https://news.ycombinator.com/item?id=37312695) - [Texas Guardsmen spied on migrants via WhatsApp, mishandled secret docs](https://www.armytimes.com/news/your-army/2023/08/29/texas-guardsmen-spied-on-migrants-via-whatsapp-mishandled-secret-docs/)
 * [2023-08-29, 19:27:05](https://news.ycombinator.com/item?id=37312647) - [The FBI Has Collected DNA Profiles for 21M People](https://theintercept.com/2023/08/29/fbi-dna-collection-surveillance/)
 * [2023-08-29, 19:21:58](https://news.ycombinator.com/item?id=37312579) - [I chose the ThinkPad Z13 Gen1 as my Linux laptop](https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/)
 * [2023-08-29, 19:17:58](https://news.ycombinator.com/item?id=37312523) - [Webstudio: Open-source WYSIWYG adds Radix UI elements](https://webstudio.is/radix)
-* [2023-08-29, 19:16:41](https://news.ycombinator.com/item?id=37312502) - [AlloyDB AI: Generative AI applications with PostgreSQL](https://cloud.google.com/blog/products/databases/helping-developers-build-gen-ai-apps-with-google-cloud-databases)
 * [2023-08-29, 19:08:23](https://news.ycombinator.com/item?id=37312385) - [MapReduce, TensorFlow, Vertex: Google's bet to avoid repeating history in AI](https://www.supervised.news/p/mapreduce-tensorflow-bard-also-hello)
 * [2023-08-29, 18:37:16](https://news.ycombinator.com/item?id=37312001) - [Linux overtakes Mac as Steam's second-most used OS, thanks to the Steam Deck](https://www.pcgamer.com/linux-overtakes-mac-as-steams-second-most-used-os-and-its-all-thanks-to-the-steam-deck/)
 * [2023-08-29, 18:35:16](https://news.ycombinator.com/item?id=37311975) - [Hacking GTA V RP Servers Using Web Exploitation Techniques](https://www.nullpt.rs/hacking-gta-servers-using-web-exploitation)
