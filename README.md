@@ -2,6 +2,7 @@
 
 * [2023-08-29, 04:57:35](https://news.ycombinator.com/item?id=37303695) - [How to share a NumPy array between processes](https://superfastpython.com/numpy-share-array-processes/)
 * [2023-08-29, 04:28:35](https://news.ycombinator.com/item?id=37303569) - [Toyota to halt operations at all Japan assembly plants due to system failure](https://www.reuters.com/business/autos-transportation/toyota-halts-operations-12-japan-factories-due-system-failure-nhk-2023-08-29/)
+* [2023-08-29, 04:24:52](https://news.ycombinator.com/item?id=37303554) - [Grumpy Website](https://grumpy.website/)
 * [2023-08-29, 03:48:09](https://news.ycombinator.com/item?id=37303357) - [Changing my relationship with GitHub Copilot](https://ntietz.com/blog/changing-my-relationship-with-github-copilot/)
 * [2023-08-29, 02:25:34](https://news.ycombinator.com/item?id=37302829) - [The best approach I've seen for hiring junior engineers](https://www.rubick.com/hiring-new-engineers/)
 * [2023-08-29, 02:23:56](https://news.ycombinator.com/item?id=37302816) - [The Heart of W. Edwards Deming](https://hagakure.substack.com/p/the-hagakure-64-the-heart-of-w-edwards)
@@ -14,7 +15,6 @@
 * [2023-08-28, 18:29:27](https://news.ycombinator.com/item?id=37298506) - [Serial adapter/reboot controller for Apple M1/M2](https://www.tindie.com/products/aaafnraa/serial-adapter-reboot-controller-for-apple-m1m2/)
 * [2023-08-28, 17:13:51](https://news.ycombinator.com/item?id=37297362) - [A lost Edith Wharton play debuts on stage](https://www.smithsonianmag.com/smart-news/a-lost-edith-wharton-play-is-performed-for-the-first-time-180982795/)
 * [2023-08-28, 17:09:47](https://news.ycombinator.com/item?id=37297304) - [ChatGPT Enterprise](https://openai.com/blog/introducing-chatgpt-enterprise)
-* [2023-08-28, 16:37:22](https://news.ycombinator.com/item?id=37296803) - [Dark Messiah modding community got Ubisoft approval](https://www.moddb.com/mods/dark-messiah-co-op/news/a-call-to-dark-messiah-arms)
 * [2023-08-28, 16:13:47](https://news.ycombinator.com/item?id=37296401) - [Amazon acquires Fig](https://fig.io/blog/post/fig-joins-aws)
 * [2023-08-28, 15:59:07](https://news.ycombinator.com/item?id=37296153) - [Parallel garbage collection for SBCL [pdf]](https://applied-langua.ge/~hayley/swcl-gc.pdf)
 * [2023-08-28, 15:38:11](https://news.ycombinator.com/item?id=37295817) - [SEC charges Impact Theory for unregistered offering of NFTs](https://www.sec.gov/news/press-release/2023-163)

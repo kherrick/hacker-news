@@ -6,6 +6,7 @@
 
 * [2023-08-29, 04:57:35](https://news.ycombinator.com/item?id=37303695) - [How to share a NumPy array between processes](https://superfastpython.com/numpy-share-array-processes/)
 * [2023-08-29, 04:28:35](https://news.ycombinator.com/item?id=37303569) - [Toyota to halt operations at all Japan assembly plants due to system failure](https://www.reuters.com/business/autos-transportation/toyota-halts-operations-12-japan-factories-due-system-failure-nhk-2023-08-29/)
+* [2023-08-29, 04:24:52](https://news.ycombinator.com/item?id=37303554) - [Grumpy Website](https://grumpy.website/)
 * [2023-08-29, 03:48:09](https://news.ycombinator.com/item?id=37303357) - [Changing my relationship with GitHub Copilot](https://ntietz.com/blog/changing-my-relationship-with-github-copilot/)
 * [2023-08-29, 03:42:27](https://news.ycombinator.com/item?id=37303332) - [Amazon CEO warns remote workers: ‘It’s probably not going to work out for you’](https://nypost.com/2023/08/28/amazon-ceo-andy-jassy-warns-remote-workers-its-probably-not-going-to-work-out-for-you/)
 * [2023-08-29, 02:58:45](https://news.ycombinator.com/item?id=37303043) - [Asus reportedly shuts down Zenfone division, no more compact flagships](https://www.androidauthority.com/asus-reportedly-shuts-down-zenfone-division-3358431/)
