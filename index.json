@@ -11,22 +11,32 @@
   ],
   [
     [
+      "2023-08-29, 20:06:11",
+      "https://news.ycombinator.com/item?id=37313183"
+    ],
+    [
+      "Griffin - A fully-regulated, API-driven bank, with Clojure",
+      "https://www.juxt.pro/blog/clojure-in-griffin/"
+    ]
+  ],
+  [
+    [
+      "2023-08-29, 19:27:05",
+      "https://news.ycombinator.com/item?id=37312647"
+    ],
+    [
+      "The FBI Has Collected DNA Profiles for 21M People",
+      "https://theintercept.com/2023/08/29/fbi-dna-collection-surveillance/"
+    ]
+  ],
+  [
+    [
       "2023-08-29, 19:21:58",
       "https://news.ycombinator.com/item?id=37312579"
     ],
     [
       "I chose the ThinkPad Z13 Gen1 as my Linux laptop",
       "https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/"
-    ]
-  ],
-  [
-    [
-      "2023-08-29, 19:19:23",
-      "https://news.ycombinator.com/item?id=37312540"
-    ],
-    [
-      "Jama: Evidence does not show that common cancer screening tests extend lifetime",
-      "https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2808648"
     ]
   ],
   [
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=37311508"
     ],
     [
-      "Popularity of DOS/4GW made Win95 game compat easier, but with higher stakes",
+      "DOS/4GW made Windows 95 game compatibility easier, but with higher stakes",
       "https://devblogs.microsoft.com/oldnewthing/20230829-00/?p=108661"
     ]
   ],
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=37310746"
     ],
     [
-      "OneSignal (YC S11. Email, SMS, Push Notification Platform) Is Hiring Engineers",
+      "OneSignal (YC S11), email/SMS push notification platform, is hiring engineers",
       "https://onesignal.com/careers#section-job"
     ]
   ],
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=37309818"
     ],
     [
-      "MagicEdit: High-Fidelity Temporally Coherent Video Editing",
+      "MagicEdit: High-fidelity temporally coherent video editing",
       "https://magic-edit.github.io/"
     ]
   ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2023-08-29, 13:10:13",
-      "https://news.ycombinator.com/item?id=37307313"
-    ],
-    [
-      "Observability in WebAssembly",
-      "https://dev.dylibso.com/docs/observe/overview/"
-    ]
-  ],
-  [
-    [
       "2023-08-29, 12:31:27",
       "https://news.ycombinator.com/item?id=37306769"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=37303365"
     ],
     [
-      "The Cheap Radio Hack That Disrupted Poland's Railway System",
+      "A cheap radio hack disrupted Poland's railway system",
       "https://www.wired.com/story/poland-train-radio-stop-attack/"
     ]
   ],
