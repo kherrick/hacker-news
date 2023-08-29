@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
+* [2023-08-29, 13:55:50](https://news.ycombinator.com/item?id=37308009) - [200k users abandon Netflix after crackdown backfires](https://www.forbes.com.au/news/innovation/netflix-password-crackdown-backfires/)
 * [2023-08-29, 13:44:20](https://news.ycombinator.com/item?id=37307828) - [C.R. Rao: A Life in Statistics](https://bhavana.org.in/c-r-rao-a-life-in-statistics/)
 * [2023-08-29, 13:41:41](https://news.ycombinator.com/item?id=37307788) - [Whistleblower alleges Booz Allen was overcharging U.S. taxpayers for losses](https://www.nbcnews.com/news/investigations/marine-sarah-feinberg-whistleblower-booz-allen-69-million-rcna102098)
 * [2023-08-29, 13:36:05](https://news.ycombinator.com/item?id=37307708) - [Keystroke timing obfuscation added to SSH(1)](https://undeadly.org/cgi?action=article;sid=20230829051257)
@@ -25,6 +26,7 @@
 * [2023-08-29, 11:58:34](https://news.ycombinator.com/item?id=37306411) - [ToDesktop – Web app to desktop app in minutes](https://www.todesktop.com/)
 * [2023-08-29, 11:53:38](https://news.ycombinator.com/item?id=37306364) - [World’s Oldest Cat Door Has Let Working Cats Enter the Cathedral Since 14c](https://mymodernmet.com/exeter-cathedral-cat-flap/)
 * [2023-08-29, 11:43:00](https://news.ycombinator.com/item?id=37306262) - [Elevator Saga: The elevator programming game](https://play.elevatorsaga.com/index.html)
+* [2023-08-29, 11:42:50](https://news.ycombinator.com/item?id=37306258) - [Show HN: Mu – A Micro App Platform](https://mu.app)
 * [2023-08-29, 11:25:48](https://news.ycombinator.com/item?id=37306108) - [Google Bard: incredible that this is a shipped product](https://twitter.com/rawxrawxraw/status/1691253814769184768)
 * [2023-08-29, 11:20:52](https://news.ycombinator.com/item?id=37306058) - [Show HN: Advanced Tab Manager for Firefox](https://addons.mozilla.org/en-US/firefox/addon/grasshopper-urls/)
 * [2023-08-29, 11:20:23](https://news.ycombinator.com/item?id=37306055) - [Neutrons prove ‘Bond villain’ did not cause Arecibo telescope collapse](https://www.ornl.gov/news/neutrons-prove-bond-villain-did-not-cause-arecibo-telescope-collapse)
