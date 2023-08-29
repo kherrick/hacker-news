@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
+* [2023-08-29, 13:44:20](https://news.ycombinator.com/item?id=37307828) - [C.R. Rao: A Life in Statistics](https://bhavana.org.in/c-r-rao-a-life-in-statistics/)
+* [2023-08-29, 13:41:41](https://news.ycombinator.com/item?id=37307788) - [Whistleblower alleges Booz Allen was overcharging U.S. taxpayers for losses](https://www.nbcnews.com/news/investigations/marine-sarah-feinberg-whistleblower-booz-allen-69-million-rcna102098)
 * [2023-08-29, 13:36:05](https://news.ycombinator.com/item?id=37307708) - [Keystroke timing obfuscation added to SSH(1)](https://undeadly.org/cgi?action=article;sid=20230829051257)
 * [2023-08-29, 13:34:19](https://news.ycombinator.com/item?id=37307681) - [Poetry: Python Packaging and Dependency Management](https://github.com/python-poetry/poetry)
+* [2023-08-29, 13:32:45](https://news.ycombinator.com/item?id=37307653) - [Analysis of Obfuscation Techniques Found in Apple FairPlay](https://nicolo.dev/en/blog/fairplay-apple-obfuscation/)
 * [2023-08-29, 13:21:34](https://news.ycombinator.com/item?id=37307473) - [Accessible Palette: stop using HSL for color systems](https://wildbit.com/blog/accessible-palette-stop-using-hsl-for-color-systems)
 * [2023-08-29, 13:10:13](https://news.ycombinator.com/item?id=37307313) - [Announcing: Observability SDKs for WebAssembly](https://dev.dylibso.com/docs/observe/overview/)
 * [2023-08-29, 13:07:00](https://news.ycombinator.com/item?id=37307260) - [How Mojo gets a 35,000x speedup over Python – Part 2](https://www.modular.com/blog/how-mojo-gets-a-35-000x-speedup-over-python-part-2)
@@ -16,6 +19,7 @@
 * [2023-08-29, 12:31:27](https://news.ycombinator.com/item?id=37306769) - [I don’t buy “duplication is cheaper than the wrong abstraction” (2021)](https://www.codewithjason.com/duplication-cheaper-wrong-abstraction/)
 * [2023-08-29, 12:17:25](https://news.ycombinator.com/item?id=37306596) - [Ask HN: Are there any fulfilling careers in tech anymore?](https://news.ycombinator.com/item?id=37306596)
 * [2023-08-29, 12:11:42](https://news.ycombinator.com/item?id=37306534) - [Simplifying GPU Application Development with HMM](https://developer.nvidia.com/blog/simplifying-gpu-application-development-with-heterogeneous-memory-management/)
+* [2023-08-29, 12:11:12](https://news.ycombinator.com/item?id=37306530) - [Duet AI for Google Workspace Now Available](https://workspace.google.com/blog/product-announcements/duet-ai-in-workspace-now-available)
 * [2023-08-29, 12:00:19](https://news.ycombinator.com/item?id=37306435) - [CoinTracker (YC W18) Hiring a Product Leader to Build B2B Product (Remote)](https://jobs.ashbyhq.com/cointracker/b32d47df-5650-4424-8bd7-1ec151ad9922)
 * [2023-08-29, 11:59:43](https://news.ycombinator.com/item?id=37306427) - [New study finds microplastics infiltrate all systems of body, alter behaviour](https://www.sustainableplastics.com/news/microplastics-found-pass-blood-brain-barrier-even-though-ingested-drinking-water)
 * [2023-08-29, 11:58:34](https://news.ycombinator.com/item?id=37306411) - [ToDesktop – Web app to desktop app in minutes](https://www.todesktop.com/)
