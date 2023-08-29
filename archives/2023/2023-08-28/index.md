@@ -93,6 +93,7 @@
 * [2023-08-28, 09:16:26](https://news.ycombinator.com/item?id=37291607) - [The V Programming Language 0.4](https://vlang.io/)
 * [2023-08-28, 09:01:40](https://news.ycombinator.com/item?id=37291504) - [Fortran](https://fortran-lang.org/en/index.html)
 * [2023-08-28, 08:33:54](https://news.ycombinator.com/item?id=37291346) - [VanCubic Camper Modules Turn Your Cargo Van into a Modern House on Wheels in 1hr](https://www.autoevolution.com/news/vancubic-camper-modules-turn-your-cargo-van-into-a-modern-house-on-wheels-in-just-an-hour-220182.html)
+* [2023-08-28, 08:15:15](https://news.ycombinator.com/item?id=37291240) - [The Origins and Motivations of Univalent Foundations (2014)](https://www.ias.edu/ideas/2014/voevodsky-origins)
 * [2023-08-28, 08:13:37](https://news.ycombinator.com/item?id=37291225) - [Polish railway system hacked, trains forced to stop by attackers](https://twitter.com/vxunderground/status/1695604752661295610)
 * [2023-08-28, 07:58:57](https://news.ycombinator.com/item?id=37291133) - [Pricing your SaaS on the demand curve using the Pareto power law](https://www.heymarketcurve.com/blog/saas-pricing)
 * [2023-08-28, 07:58:34](https://news.ycombinator.com/item?id=37291130) - [Ask HN: Is it possible to get a conversation with a CEO from here?](https://news.ycombinator.com/item?id=37291130)
