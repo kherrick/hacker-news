@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
+* [2023-08-29, 18:19:52](https://news.ycombinator.com/item?id=37311780) - [AWS Works Council Germany](https://www.aws-works-council-initiative.de/)
+* [2023-08-29, 17:48:50](https://news.ycombinator.com/item?id=37311394) - [A Deep Dive into Weaviate's Fusion Algorithms for Hybrid Search](https://weaviate.io/blog/hybrid-search-fusion-algorithms)
 * [2023-08-29, 17:37:31](https://news.ycombinator.com/item?id=37311239) - [iFixit Petitions Government for Right to Hack McDonald's Ice Cream Machine](https://www.404media.co/activists-petition-government-for-right-to-hack-mcdonalds-mcflurry-machines-to-repair-them/)
 * [2023-08-29, 17:02:49](https://news.ycombinator.com/item?id=37310772) - [FBI, Partners Dismantle Qakbot Infrastructure in Multinational Cyber Takedown](https://www.fbi.gov/news/stories/fbi-partners-dismantle-qakbot-infrastructure-in-multinational-cyber-takedown)
 * [2023-08-29, 17:01:05](https://news.ycombinator.com/item?id=37310746) - [OneSignal (YC S11. Email, SMS, Push Notification Platform) Is Hiring Engineers](https://onesignal.com/careers#section-job)

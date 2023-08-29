@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-29, 18:19:52](https://news.ycombinator.com/item?id=37311780) - [AWS Works Council Germany](https://www.aws-works-council-initiative.de/)
+* [2023-08-29, 17:48:50](https://news.ycombinator.com/item?id=37311394) - [A Deep Dive into Weaviate's Fusion Algorithms for Hybrid Search](https://weaviate.io/blog/hybrid-search-fusion-algorithms)
 * [2023-08-29, 17:37:31](https://news.ycombinator.com/item?id=37311239) - [iFixit Petitions Government for Right to Hack McDonald's Ice Cream Machine](https://www.404media.co/activists-petition-government-for-right-to-hack-mcdonalds-mcflurry-machines-to-repair-them/)
 * [2023-08-29, 17:02:49](https://news.ycombinator.com/item?id=37310772) - [FBI, Partners Dismantle Qakbot Infrastructure in Multinational Cyber Takedown](https://www.fbi.gov/news/stories/fbi-partners-dismantle-qakbot-infrastructure-in-multinational-cyber-takedown)
 * [2023-08-29, 17:01:05](https://news.ycombinator.com/item?id=37310746) - [OneSignal (YC S11. Email, SMS, Push Notification Platform) Is Hiring Engineers](https://onesignal.com/careers#section-job)
@@ -22,14 +24,12 @@
 * [2023-08-29, 09:48:30](https://news.ycombinator.com/item?id=37305338) - [Why does the USA use 110V and UK use 230-240V? (2014)](https://electronics.stackexchange.com/questions/115200/why-does-the-usa-use-110v-and-uk-use-230-240v)
 * [2023-08-29, 09:30:35](https://news.ycombinator.com/item?id=37305240) - [Automatic Generation of Visualizations and Infographics with LLMs](https://microsoft.github.io/lida/)
 * [2023-08-29, 08:34:46](https://news.ycombinator.com/item?id=37304870) - [Visualization of Common Algorithms](https://visualgo.net/en)
-* [2023-08-29, 08:21:57](https://news.ycombinator.com/item?id=37304803) - [Announcing the Pollen API](https://cloud.google.com/blog/products/maps-platform/announcing-pollen-api-providing-actionable-info-about-airborne-pollen-levels-worldwide)
 * [2023-08-29, 08:19:35](https://news.ycombinator.com/item?id=37304789) - [Abandoned and Little-Known Airfields](http://www.airfields-freeman.com/)
 * [2023-08-29, 07:11:09](https://news.ycombinator.com/item?id=37304370) - [Unix sockets, Cygwin, SSH agents, and sadness](https://mjg59.dreamwidth.org/67402.html)
 * [2023-08-29, 05:55:40](https://news.ycombinator.com/item?id=37303960) - [Alexandria: A minimalistic cross-platform eBook reader](https://github.com/btpf/Alexandria)
 * [2023-08-29, 03:52:47](https://news.ycombinator.com/item?id=37303384) - [I raced a homing pigeon against the Internet [video]](https://www.youtube.com/watch?v=4pz2kMxCu8I)
 * [2023-08-28, 20:07:03](https://news.ycombinator.com/item?id=37299746) - [What can historical clothing reveal that other sources cannot?](https://www.historytoday.com/archive/head-head/what-can-historical-clothing-reveal-other-sources-cannot)
 * [2023-08-28, 14:00:54](https://news.ycombinator.com/item?id=37294099) - [Sound Card EEG (ScEEG) Technology](http://www.hotamateurprograms.com/eeg.htm)
-* [2023-08-28, 09:28:17](https://news.ycombinator.com/item?id=37291674) - [Analysis of obfuscations found in Apple FairPlay](https://nicolo.dev/en/blog/fairplay-apple-obfuscation/)
 
 ## [Archives](archives/index.md)
 
