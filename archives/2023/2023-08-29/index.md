@@ -4,13 +4,17 @@
 
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
+* [2023-08-29, 17:02:49](https://news.ycombinator.com/item?id=37310772) - [FBI, Partners Dismantle Qakbot Infrastructure in Multinational Cyber Takedown](https://www.fbi.gov/news/stories/fbi-partners-dismantle-qakbot-infrastructure-in-multinational-cyber-takedown)
+* [2023-08-29, 17:01:05](https://news.ycombinator.com/item?id=37310746) - [OneSignal (YC S11. Email, SMS, Push Notification Platform) Is Hiring Engineers](https://onesignal.com/careers#section-job)
 * [2023-08-29, 16:46:04](https://news.ycombinator.com/item?id=37310528) - [Google, Amazon, Nvidia, and others invest $235M in Hugging Face](https://www.theverge.com/2023/8/24/23844444/google-amazon-nvidia-hugging-face-generative-ai-investment)
 * [2023-08-29, 16:30:26](https://news.ycombinator.com/item?id=37310314) - [Embracing Sabbaticals, Sunsetting Retirement Age](https://jacek.migdal.pl/2023/08/16/sabbaticals.html)
 * [2023-08-29, 15:57:58](https://news.ycombinator.com/item?id=37309818) - [MagicEdit: High-Fidelity Temporally Coherent Video Editing](https://magic-edit.github.io/)
 * [2023-08-29, 15:55:28](https://news.ycombinator.com/item?id=37309786) - [An End, and a Beginning](https://museapp.com/end-and-beginning/)
+* [2023-08-29, 15:41:04](https://news.ycombinator.com/item?id=37309566) - [Grayscale was unreasonably denied its Bitcoin ETF, court rules](https://twitter.com/jchervinsky/status/1696544309699363201)
 * [2023-08-29, 15:40:48](https://news.ycombinator.com/item?id=37309563) - [‘Life or Death:’ AI-Generated Mushroom Foraging Books Are All over Amazon](https://www.404media.co/ai-generated-mushroom-foraging-books-amazon/)
 * [2023-08-29, 15:24:58](https://news.ycombinator.com/item?id=37309309) - [Lesser Known Postgres Features](https://hakibenita.com/postgresql-unknown-features)
 * [2023-08-29, 15:21:34](https://news.ycombinator.com/item?id=37309250) - [When did people stop being drunk all the time?](https://www.lefineder.com/p/when-did-people-stop-being-drunk)
+* [2023-08-29, 15:17:57](https://news.ycombinator.com/item?id=37309189) - [Can Chrome Sync or Firefox Sync be trusted with sensitive data?](https://palant.info/2018/03/13/can-chrome-sync-or-firefox-sync-be-trusted-with-sensitive-data/)
 * [2023-08-29, 14:44:19](https://news.ycombinator.com/item?id=37308708) - [Air pollution greatest global threat to human health, says benchmark study](https://phys.org/news/2023-08-air-pollution-greatest-global-threat.html)
 * [2023-08-29, 14:24:29](https://news.ycombinator.com/item?id=37308409) - [ChatGPT web and mobile UIs unavailable](https://status.openai.com/incidents/5l07rfcr5fyn)
 * [2023-08-29, 14:24:21](https://news.ycombinator.com/item?id=37308405) - [Diving into Starlink's User Terminal Firmware](https://blog.quarkslab.com/starlink.html)
