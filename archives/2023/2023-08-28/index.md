@@ -23,6 +23,7 @@
 * [2023-08-28, 18:37:32](https://news.ycombinator.com/item?id=37298616) - [Opening of West Point time capsule reveals what cynics said it would: Nothing](https://www.freep.com/story/news/local/michigan/2023/08/28/west-point-time-capsule-kosciuszko-mystery/70697206007/)
 * [2023-08-28, 18:29:27](https://news.ycombinator.com/item?id=37298506) - [Serial adapter / reboot controller for Apple M1/M2](https://www.tindie.com/products/aaafnraa/serial-adapter-reboot-controller-for-apple-m1m2/)
 * [2023-08-28, 18:24:15](https://news.ycombinator.com/item?id=37298441) - [Perfectly Reproducible, Verified Go Toolchains](https://go.dev/blog/rebuild)
+* [2023-08-28, 18:22:07](https://news.ycombinator.com/item?id=37298401) - [The Leg (1982)](https://www.lrb.co.uk/the-paper/v04/n11/oliver-sacks/the-leg)
 * [2023-08-28, 18:06:05](https://news.ycombinator.com/item?id=37298133) - [Utopia Clicker](https://tinysubversions.com/game/utopia/)
 * [2023-08-28, 17:46:32](https://news.ycombinator.com/item?id=37297823) - [When your classmates threaten you with felony charges](https://miles.land/posts/classmates-legal-threat-fizz-defcon/)
 * [2023-08-28, 17:44:25](https://news.ycombinator.com/item?id=37297792) - [Sipeed unveils RISC-V tablet, portable Linux console, and cluster](https://www.cnx-software.com/2023/08/28/sipeed-unveils-risc-v-tablet-portable-linux-console-and-cluster/)

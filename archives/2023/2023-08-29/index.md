@@ -4,13 +4,17 @@
 
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
+* [2023-08-29, 12:35:25](https://news.ycombinator.com/item?id=37306810) - [Google’s Surveillance: The Shocking Truth – Simplified Privacy](https://simplifiedprivacy.com/googles-surveillance-the-shocking-truth/)
+* [2023-08-29, 12:11:42](https://news.ycombinator.com/item?id=37306534) - [Simplifying GPU Application Development with HMM](https://developer.nvidia.com/blog/simplifying-gpu-application-development-with-heterogeneous-memory-management/)
 * [2023-08-29, 12:00:19](https://news.ycombinator.com/item?id=37306435) - [CoinTracker (YC W18) Hiring a Product Leader to Build B2B Product (Remote)](https://jobs.ashbyhq.com/cointracker/b32d47df-5650-4424-8bd7-1ec151ad9922)
 * [2023-08-29, 11:59:43](https://news.ycombinator.com/item?id=37306427) - [New study finds microplastics infiltrate all systems of body, alter behaviour](https://www.sustainableplastics.com/news/microplastics-found-pass-blood-brain-barrier-even-though-ingested-drinking-water)
+* [2023-08-29, 11:43:00](https://news.ycombinator.com/item?id=37306262) - [Elevator Saga: The elevator programming game](https://play.elevatorsaga.com/index.html)
 * [2023-08-29, 11:25:48](https://news.ycombinator.com/item?id=37306108) - [Google Bard: incredible that this is a shipped product](https://twitter.com/rawxrawxraw/status/1691253814769184768)
 * [2023-08-29, 11:20:52](https://news.ycombinator.com/item?id=37306058) - [Show HN: Advanced Tab Manager for Firefox](https://addons.mozilla.org/en-US/firefox/addon/grasshopper-urls/)
 * [2023-08-29, 11:20:23](https://news.ycombinator.com/item?id=37306055) - [Neutrons prove ‘Bond villain’ did not cause Arecibo telescope collapse](https://www.ornl.gov/news/neutrons-prove-bond-villain-did-not-cause-arecibo-telescope-collapse)
 * [2023-08-29, 10:51:31](https://news.ycombinator.com/item?id=37305800) - [Grave flaws in BGP Error handling](https://blog.benjojo.co.uk/post/bgp-path-attributes-grave-error-handling)
 * [2023-08-29, 10:46:12](https://news.ycombinator.com/item?id=37305752) - [Exxon says world set to fail 2°C global warming cap by 2050](https://www.reuters.com/business/energy/exxon-projects-oil-gas-be-54-worlds-energy-needs-2050-2023-08-28/)
+* [2023-08-29, 09:52:03](https://news.ycombinator.com/item?id=37305358) - [The Reasons Not to Use Scrum](https://www.amazingcto.com/the-5-reasons-not-to-use-scrum/)
 * [2023-08-29, 09:48:30](https://news.ycombinator.com/item?id=37305338) - [Why does the USA use 110V and UK use 230-240V?](https://electronics.stackexchange.com/questions/115200/why-does-the-usa-use-110v-and-uk-use-230-240v)
 * [2023-08-29, 09:33:48](https://news.ycombinator.com/item?id=37305260) - [AI Crap – Drew Devault](https://drewdevault.com/2023/08/29/2023-08-29-AI-crap.html)
 * [2023-08-29, 09:30:35](https://news.ycombinator.com/item?id=37305240) - [Automatic Generation of Visualizations and Infographics with LLMs](https://microsoft.github.io/lida/)
