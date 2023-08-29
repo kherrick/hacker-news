@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-29, 22:59:41](https://news.ycombinator.com/item?id=37315292) - [I’m so sorry for psychology’s loss, whatever it is](https://www.experimental-history.com/p/im-so-sorry-for-psychologys-loss)
 * [2023-08-29, 22:52:33](https://news.ycombinator.com/item?id=37315208) - [Equation Group Tools](https://github.com/x0rz/EQGRP)
 * [2023-08-29, 22:17:48](https://news.ycombinator.com/item?id=37314867) - [Pgvector 0.5.0 Feature Highlights and how tos](https://jkatz05.com/post/postgres/pgvector-overview-0.5.0/)
 * [2023-08-29, 21:51:26](https://news.ycombinator.com/item?id=37314622) - [Home – Database of Databases](https://dbdb.io/)
 * [2023-08-29, 21:42:52](https://news.ycombinator.com/item?id=37314526) - [Doas – dedicated OpenBSD application subexecutor](https://flak.tedunangst.com/post/doas)
 * [2023-08-29, 20:26:50](https://news.ycombinator.com/item?id=37313493) - [How far can you jump from a swing?](https://www.alexmolas.com/2023/08/18/how-far-can-you-jump.html)
-* [2023-08-29, 20:17:54](https://news.ycombinator.com/item?id=37313349) - [ISPs Should Not Police Online Speech – No Matter How Awful It Is](https://www.eff.org/deeplinks/2023/08/isps-should-not-police-online-speech-no-matter-how-awful-it)
 * [2023-08-29, 20:14:15](https://news.ycombinator.com/item?id=37313293) - [Drumscript: A simple MIDI drum machine scripting language](https://github.com/tepreece/drumscript)
 * [2023-08-29, 20:06:11](https://news.ycombinator.com/item?id=37313183) - [Griffin - A fully-regulated, API-driven bank, with Clojure](https://www.juxt.pro/blog/clojure-in-griffin/)
 * [2023-08-29, 19:17:58](https://news.ycombinator.com/item?id=37312523) - [Webstudio: Open-source WYSIWYG adds Radix UI elements](https://webstudio.is/radix)
