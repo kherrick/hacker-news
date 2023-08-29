@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-29, 02:39:01](https://news.ycombinator.com/item?id=37302939) - [The Ocean Has a Fever](https://earthobservatory.nasa.gov/images/151743/the-ocean-has-a-fever)
 * [2023-08-29, 01:00:15](https://news.ycombinator.com/item?id=37302284) - [Padlet (YC W13) is hiring in San Francisco and Singapore](https://padlet.jobs)
 * [2023-08-29, 00:23:53](https://news.ycombinator.com/item?id=37302022) - [Fi now opts you into the use of your CPNI by Alphabet affiliates](https://fi.sds.modeaondemand.com/en-us/tutorial/app-googlefi-android-smartphone/latest/feature_privacy_settings_web/)
 * [2023-08-29, 00:19:54](https://news.ycombinator.com/item?id=37301991) - [WebLLM: Llama2 in the Browser](https://webllm.mlc.ai/)
@@ -27,7 +28,6 @@
 * [2023-08-28, 07:39:51](https://news.ycombinator.com/item?id=37291007) - [North Korean science fiction](https://arstechnica.com/culture/2023/08/the-strange-secretive-world-of-north-korean-science-fiction/)
 * [2023-08-28, 06:41:20](https://news.ycombinator.com/item?id=37290625) - [Souvenir Spoons Museum](http://spoonplanet.com/)
 * [2023-08-28, 04:29:42](https://news.ycombinator.com/item?id=37289785) - [Dog who served on both sides of the American Revolution](https://www.smithsonianmag.com/history/the-dog-who-served-on-both-sides-of-the-american-revolution-180982781/)
-* [2023-08-27, 17:26:42](https://news.ycombinator.com/item?id=37284764) - [Study: Carbon offsets aren’t doing their job, overstate impact](https://arstechnica.com/science/2023/08/study-carbon-offsets-arent-doing-their-job-overstate-impact/)
 * [2023-08-27, 16:58:49](https://news.ycombinator.com/item?id=37284472) - [Reaching the Unix philosophy's logical extreme with WebAssembly](https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm)
 * [2023-08-27, 06:16:31](https://news.ycombinator.com/item?id=37279895) - [Can a worker-owned restaurant work?](https://southseattleemerald.com/2023/08/26/can-a-worker-owned-restaurant-work/)
 
