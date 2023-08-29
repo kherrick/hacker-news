@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-08-29, 03:42:27",
-      "https://news.ycombinator.com/item?id=37303332"
-    ],
-    [
-      "Amazon CEO warns remote workers: ‘It’s probably not going to work out for you’",
-      "https://nypost.com/2023/08/28/amazon-ceo-andy-jassy-warns-remote-workers-its-probably-not-going-to-work-out-for-you/"
-    ]
-  ],
-  [
-    [
       "2023-08-29, 02:25:34",
       "https://news.ycombinator.com/item?id=37302829"
     ],
@@ -27,16 +17,6 @@
     [
       "The Heart of W. Edwards Deming",
       "https://hagakure.substack.com/p/the-hagakure-64-the-heart-of-w-edwards"
-    ]
-  ],
-  [
-    [
-      "2023-08-29, 02:23:04",
-      "https://news.ycombinator.com/item?id=37302810"
-    ],
-    [
-      "Interstellar puzzle based on graph theory",
-      "https://treksit.com"
     ]
   ],
   [
@@ -151,6 +131,16 @@
   ],
   [
     [
+      "2023-08-28, 16:13:47",
+      "https://news.ycombinator.com/item?id=37296401"
+    ],
+    [
+      "Amazon acquires Fig",
+      "https://fig.io/blog/post/fig-joins-aws"
+    ]
+  ],
+  [
+    [
       "2023-08-28, 15:59:07",
       "https://news.ycombinator.com/item?id=37296153"
     ],
@@ -227,6 +217,16 @@
     [
       "An unexpected find that freed 20GB of unused index space (2021)",
       "https://hakibenita.com/postgresql-unused-index-size"
+    ]
+  ],
+  [
+    [
+      "2023-08-28, 13:43:22",
+      "https://news.ycombinator.com/item?id=37293846"
+    ],
+    [
+      "How to create a Qt 5 ARM/Intel universal binary for Mac",
+      "https://www.downtowndougbrown.com/2023/08/how-to-create-a-qt-5-arm-intel-universal-binary-for-mac/"
     ]
   ],
   [
