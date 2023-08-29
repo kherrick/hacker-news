@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
+* [2023-08-29, 14:24:29](https://news.ycombinator.com/item?id=37308409) - [ChatGPT web and mobile UIs unavailable](https://status.openai.com/incidents/5l07rfcr5fyn)
+* [2023-08-29, 14:24:21](https://news.ycombinator.com/item?id=37308405) - [Diving into Starlink's User Terminal Firmware](https://blog.quarkslab.com/starlink.html)
 * [2023-08-29, 13:55:50](https://news.ycombinator.com/item?id=37308009) - [200k users abandon Netflix after crackdown backfires](https://www.forbes.com.au/news/innovation/netflix-password-crackdown-backfires/)
+* [2023-08-29, 13:48:27](https://news.ycombinator.com/item?id=37307886) - [Extreme poverty: How far have we come, and how far do we still have to go?](https://ourworldindata.org/extreme-poverty-in-brief)
 * [2023-08-29, 13:44:20](https://news.ycombinator.com/item?id=37307828) - [C.R. Rao: A Life in Statistics](https://bhavana.org.in/c-r-rao-a-life-in-statistics/)
 * [2023-08-29, 13:41:41](https://news.ycombinator.com/item?id=37307788) - [Whistleblower alleges Booz Allen was overcharging U.S. taxpayers for losses](https://www.nbcnews.com/news/investigations/marine-sarah-feinberg-whistleblower-booz-allen-69-million-rcna102098)
 * [2023-08-29, 13:36:05](https://news.ycombinator.com/item?id=37307708) - [Keystroke timing obfuscation added to SSH(1)](https://undeadly.org/cgi?action=article;sid=20230829051257)

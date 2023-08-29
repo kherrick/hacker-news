@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-29, 13:55:50](https://news.ycombinator.com/item?id=37308009) - [200k users abandon Netflix after crackdown backfires](https://www.forbes.com.au/news/innovation/netflix-password-crackdown-backfires/)
+* [2023-08-29, 14:24:29](https://news.ycombinator.com/item?id=37308409) - [ChatGPT web and mobile UIs unavailable](https://status.openai.com/incidents/5l07rfcr5fyn)
+* [2023-08-29, 14:24:21](https://news.ycombinator.com/item?id=37308405) - [Diving into Starlink's User Terminal Firmware](https://blog.quarkslab.com/starlink.html)
+* [2023-08-29, 13:48:27](https://news.ycombinator.com/item?id=37307886) - [Extreme poverty: How far have we come, and how far do we still have to go?](https://ourworldindata.org/extreme-poverty-in-brief)
 * [2023-08-29, 13:44:20](https://news.ycombinator.com/item?id=37307828) - [C.R. Rao: A Life in Statistics (2020)](https://bhavana.org.in/c-r-rao-a-life-in-statistics/)
 * [2023-08-29, 13:41:41](https://news.ycombinator.com/item?id=37307788) - [Whistleblower alleges Booz Allen was overcharging U.S. taxpayers for losses](https://www.nbcnews.com/news/investigations/marine-sarah-feinberg-whistleblower-booz-allen-69-million-rcna102098)
 * [2023-08-29, 13:36:05](https://news.ycombinator.com/item?id=37307708) - [Keystroke timing obfuscation added to ssh(1)](https://undeadly.org/cgi?action=article;sid=20230829051257)
@@ -25,10 +27,8 @@
 * [2023-08-29, 07:11:09](https://news.ycombinator.com/item?id=37304370) - [Unix sockets, Cygwin, SSH agents, and sadness](https://mjg59.dreamwidth.org/67402.html)
 * [2023-08-29, 07:01:44](https://news.ycombinator.com/item?id=37304306) - [Stringzilla: Fastest string sort, search, split, and shuffle using SIMD](https://github.com/ashvardanian/Stringzilla)
 * [2023-08-29, 05:55:40](https://news.ycombinator.com/item?id=37303960) - [Alexandria: A minimalistic cross-platform eBook reader](https://github.com/btpf/Alexandria)
-* [2023-08-29, 02:23:56](https://news.ycombinator.com/item?id=37302816) - [The Heart of W. Edwards Deming](https://hagakure.substack.com/p/the-hagakure-64-the-heart-of-w-edwards)
 * [2023-08-28, 18:22:07](https://news.ycombinator.com/item?id=37298401) - [The Leg (1982)](https://www.lrb.co.uk/the-paper/v04/n11/oliver-sacks/the-leg)
-* [2023-08-28, 04:24:54](https://news.ycombinator.com/item?id=37289756) - [Loose lips save sunken ships](https://hakaimagazine.com/features/loose-lips-save-sunken-ships/)
-* [2023-08-27, 05:25:34](https://news.ycombinator.com/item?id=37279651) - [Practical parsing with Flex and Bison (2021)](https://begriffs.com/posts/2021-11-28-practical-parsing.html)
+* [2023-08-27, 07:09:39](https://news.ycombinator.com/item?id=37280157) - [Harbour – A Cross-Platform xBase](https://harbour.github.io/)
 * [2023-08-26, 10:00:32](https://news.ycombinator.com/item?id=37271260) - [DevToys – A Swiss army knife for developers](https://bartwullems.blogspot.com/2023/08/devtoysa-swiss-army-knife-for-developers.html)
 
 ## [Archives](archives/index.md)

@@ -81,6 +81,7 @@
 * [2023-08-27, 09:18:03](https://news.ycombinator.com/item?id=37280878) - [i386 in Ubuntu Won't Die](https://popey.com/blog/2023/08/i386-in-ubuntu-wont-die/)
 * [2023-08-27, 07:42:53](https://news.ycombinator.com/item?id=37280338) - [OpenWrt Security Advisories](https://openwrt.org/advisory/start)
 * [2023-08-27, 07:38:09](https://news.ycombinator.com/item?id=37280309) - [Who is driving Germany's far-right poll surge?](https://adamtooze.substack.com/p/chartbook-235-who-is-driving-germanys)
+* [2023-08-27, 07:09:39](https://news.ycombinator.com/item?id=37280157) - [Harbour – A Cross-Platform xBase](https://harbour.github.io/)
 * [2023-08-27, 06:16:31](https://news.ycombinator.com/item?id=37279895) - [Can a worker-owned restaurant work](https://southseattleemerald.com/2023/08/26/can-a-worker-owned-restaurant-work/)
 * [2023-08-27, 05:51:10](https://news.ycombinator.com/item?id=37279773) - [Ubus (OpenWrt micro bus architecture)](https://openwrt.org/docs/techref/ubus)
 * [2023-08-27, 05:25:34](https://news.ycombinator.com/item?id=37279651) - [Practical parsing with Flex and Bison (2021)](https://begriffs.com/posts/2021-11-28-practical-parsing.html)
