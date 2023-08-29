@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-29, 03:48:09](https://news.ycombinator.com/item?id=37303357) - [Changing my relationship with GitHub Copilot](https://ntietz.com/blog/changing-my-relationship-with-github-copilot/)
 * [2023-08-29, 02:25:34](https://news.ycombinator.com/item?id=37302829) - [The best approach I've seen for hiring junior engineers](https://www.rubick.com/hiring-new-engineers/)
 * [2023-08-29, 02:23:56](https://news.ycombinator.com/item?id=37302816) - [The Heart of W. Edwards Deming](https://hagakure.substack.com/p/the-hagakure-64-the-heart-of-w-edwards)
 * [2023-08-29, 01:00:15](https://news.ycombinator.com/item?id=37302284) - [Padlet (YC W13) is hiring in San Francisco and Singapore](https://padlet.jobs)
@@ -22,7 +23,6 @@
 * [2023-08-28, 14:58:09](https://news.ycombinator.com/item?id=37295097) - [OpenTelemetry in 2023](https://bit.kevinslin.com/p/opentelemetry-in-2023)
 * [2023-08-28, 14:56:19](https://news.ycombinator.com/item?id=37295066) - [Designing a new concurrent data structure](https://questdb.io/blog/concurrent-lockfree-datastructure-design-walkthrough/)
 * [2023-08-28, 14:42:04](https://news.ycombinator.com/item?id=37294793) - [An unexpected find that freed 20GB of unused index space (2021)](https://hakibenita.com/postgresql-unused-index-size)
-* [2023-08-28, 13:43:22](https://news.ycombinator.com/item?id=37293846) - [How to create a Qt 5 ARM/Intel universal binary for Mac](https://www.downtowndougbrown.com/2023/08/how-to-create-a-qt-5-arm-intel-universal-binary-for-mac/)
 * [2023-08-28, 12:14:45](https://news.ycombinator.com/item?id=37292864) - [How trees guard their seeds with mast seeding](https://phys.org/news/2023-08-trees-seeds-secrets-mast-seeding.html)
 * [2023-08-28, 07:39:51](https://news.ycombinator.com/item?id=37291007) - [North Korean science fiction](https://arstechnica.com/culture/2023/08/the-strange-secretive-world-of-north-korean-science-fiction/)
 * [2023-08-28, 06:41:20](https://news.ycombinator.com/item?id=37290625) - [Souvenir Spoons Museum](http://spoonplanet.com/)
