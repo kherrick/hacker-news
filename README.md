@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-30, 21:26:25](https://news.ycombinator.com/item?id=37329365) - [Google Removes ‘Pirate’ URLs from Users’ Privately Saved Links](https://torrentfreak.com/google-removes-pirate-sites-from-users-privately-saved-links-230830/)
 * [2023-08-30, 21:15:36](https://news.ycombinator.com/item?id=37329261) - [Why do shared hospital rooms not violate HIPAA?](https://law.stackexchange.com/questions/28878/how-is-it-legal-for-a-hospital-to-put-two-patients-together-in-the-same-room-in)
 * [2023-08-30, 21:01:00](https://news.ycombinator.com/item?id=37329067) - [Mux (YC W16) is hiring a Sr Platform Engineer to work on video infra at scale](https://www.mux.com/jobs?j=srplatform)
 * [2023-08-30, 20:42:49](https://news.ycombinator.com/item?id=37328786) - [At Taser maker Axon, ex-staffers say loyalty meant being tased or tattooed](https://www.reuters.com/investigates/special-report/axon-taser-exposures/)
 * [2023-08-30, 20:32:21](https://news.ycombinator.com/item?id=37328609) - [Designing Deep Networks to Process Other Deep Networks](https://developer.nvidia.com/blog/designing-deep-networks-to-process-other-deep-networks/)
-* [2023-08-30, 19:27:03](https://news.ycombinator.com/item?id=37327606) - [Making Amiga IFF Thumbnails Work in Linux](https://linuxjedi.co.uk/2023/08/24/making-amiga-iff-thumbnails-work-in-linux/)
 * [2023-08-30, 18:40:52](https://news.ycombinator.com/item?id=37326870) - [Show HN: I automated 1/2 of my typing](https://github.com/eschluntz/compress)
 * [2023-08-30, 17:31:07](https://news.ycombinator.com/item?id=37325711) - [Shocks to the system: Don DeLillo’s novels of the cold war and its aftermath](https://www.bookforum.com/print/3001/don-delillo-s-novels-of-the-cold-war-and-its-aftermath-25202)
 * [2023-08-30, 17:25:55](https://news.ycombinator.com/item?id=37325622) - [Photogrammetry on Commercial Flights (2021)](https://leifgehrmann.com/2021/09/05/photogrammetry-on-a-plane/)
