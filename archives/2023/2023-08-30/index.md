@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 11:06:30](https://news.ycombinator.com/item?id=37320211) - [Politicians, scientists spar over alleged NIH coverup using COVID19 origin paper](https://www.science.org/content/article/politicians-scientists-spar-over-alleged-nih-cover-up-using-covid-19-origin-paper)
 * [2023-08-30, 10:27:56](https://news.ycombinator.com/item?id=37319841) - [Why McDonald's Ice Cream Machines Are Always Broken and How to Fix Them](https://www.youtube.com/watch?v=2uCpY3tFTIA)
 * [2023-08-30, 10:04:35](https://news.ycombinator.com/item?id=37319666) - [DevTools Tips](https://devtoolstips.org/)
 * [2023-08-30, 09:58:35](https://news.ycombinator.com/item?id=37319626) - [Fairphone 5](https://shop.fairphone.com/fairphone-5)
