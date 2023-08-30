@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-30, 14:53:43](https://news.ycombinator.com/item?id=37323066) - [Decoupling isn't phoney – The global trading system is starting to rearrange](https://www.noahpinion.blog/p/decoupling-isnt-phoney)
-* [2023-08-30, 13:55:10](https://news.ycombinator.com/item?id=37322214) - [Honda targeting 50% weight reduction with EV solid state batteries](https://www.thedrive.com/news/honda-solid-state-batteries-will-offer-same-energy-density-at-half-the-weight)
 * [2023-08-30, 13:42:39](https://news.ycombinator.com/item?id=37322025) - [The Surprising Impact of Medium-Size Texts on PostgreSQL Performance (2020)](https://hakibenita.com/sql-medium-text-performance)
 * [2023-08-30, 13:21:36](https://news.ycombinator.com/item?id=37321732) - [Why I Traded My Smartphone for an Ax](https://www.thefp.com/p/why-i-traded-my-smartphone-for-an-ax)
 * [2023-08-30, 12:53:49](https://news.ycombinator.com/item?id=37321292) - [OSM River Basins](https://amandasaurus.github.io/osm-river-basins/#map=2/0/0)
@@ -9,6 +8,7 @@
 * [2023-08-30, 12:32:05](https://news.ycombinator.com/item?id=37321028) - [A DIY ‘bionic pancreas’ is changing diabetes care](https://www.nature.com/articles/d41586-023-02648-9)
 * [2023-08-30, 12:29:09](https://news.ycombinator.com/item?id=37321002) - [Microsoft is using malware-like pop-ups in Win11 to get people to ditch Chrome](https://www.theverge.com/2023/8/30/23851902/microsoft-bing-popups-windows-11-malware)
 * [2023-08-30, 12:27:11](https://news.ycombinator.com/item?id=37320975) - [Hundreds of thousands trafficked to work as online scammers in SE Asia, says UN](https://www.ohchr.org/en/press-releases/2023/08/hundreds-thousands-trafficked-work-online-scammers-se-asia-says-un-report)
+* [2023-08-30, 12:13:54](https://news.ycombinator.com/item?id=37320841) - [Produce HTML from S-Expressions](https://github.com/lelanthran/l2h)
 * [2023-08-30, 12:07:39](https://news.ycombinator.com/item?id=37320786) - [Windows 11 system components use the default browser to open links in Europe](https://blogs.windows.com/windows-insider/2023/08/25/announcing-windows-11-insider-preview-build-23531-dev-channel/)
 * [2023-08-30, 12:00:37](https://news.ycombinator.com/item?id=37320729) - [Lago – Open-Source Stripe Billing Alternative Is Hiring a Content Lead](https://news.ycombinator.com/item?id=37320729)
 * [2023-08-30, 11:40:48](https://news.ycombinator.com/item?id=37320516) - [n Guilty Men (1997)](https://www2.law.ucla.edu/volokh/guilty.htm)
