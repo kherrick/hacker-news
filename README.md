@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-30, 10:04:35](https://news.ycombinator.com/item?id=37319666) - [DevTools Tips](https://devtoolstips.org/)
 * [2023-08-30, 09:58:35](https://news.ycombinator.com/item?id=37319626) - [Fairphone 5](https://shop.fairphone.com/fairphone-5)
 * [2023-08-30, 09:46:02](https://news.ycombinator.com/item?id=37319562) - [Titanium micro-spikes skewer resistant superbugs](https://www.rmit.edu.au/news/all-news/2023/aug/antifungal-titanium)
 * [2023-08-30, 09:35:59](https://news.ycombinator.com/item?id=37319500) - [New Map APIs from Google](https://latlong.blog/2023/08/new-map-apis-from-google.html)
-* [2023-08-30, 08:41:55](https://news.ycombinator.com/item?id=37319209) - [Why a cancer scare around aspartame is mostly unfounded](https://www.economist.com/the-economist-explains/2023/07/13/why-a-cancer-scare-around-aspartame-is-mostly-unfounded)
 * [2023-08-30, 08:01:10](https://news.ycombinator.com/item?id=37318964) - [Phind (code beating GPT4) seems to have used WizardLM's finetuned checkpoint](https://twitter.com/WizardLM_AI/status/1696527036804989171)
 * [2023-08-30, 07:00:17](https://news.ycombinator.com/item?id=37318590) - [SigNoz (YC W21, Open source Observability tool) hiring DevRel engineers (remote)](https://signoz.io/careers/devrel-engineer-in/)
 * [2023-08-30, 04:45:14](https://news.ycombinator.com/item?id=37317776) - [Deno 1.36](https://deno.com/blog/v1.36)

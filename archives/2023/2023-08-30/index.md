@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 10:04:35](https://news.ycombinator.com/item?id=37319666) - [DevTools Tips](https://devtoolstips.org/)
 * [2023-08-30, 09:58:35](https://news.ycombinator.com/item?id=37319626) - [Fairphone 5](https://shop.fairphone.com/fairphone-5)
 * [2023-08-30, 09:46:02](https://news.ycombinator.com/item?id=37319562) - [Titanium micro-spikes skewer resistant superbugs](https://www.rmit.edu.au/news/all-news/2023/aug/antifungal-titanium)
 * [2023-08-30, 09:35:59](https://news.ycombinator.com/item?id=37319500) - [New Map APIs from Google](https://latlong.blog/2023/08/new-map-apis-from-google.html)
