@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-30, 23:10:09](https://news.ycombinator.com/item?id=37330327) - [Real-world ranges for Teslas 50-60% of EPA Range](https://www.recurrentauto.com/news/real-world-range-for-tesla)
 * [2023-08-30, 22:58:06](https://news.ycombinator.com/item?id=37330234) - [Australia will not force age verification due to privacy and security concerns](https://www.theguardian.com/australia-news/2023/aug/31/roadmap-for-age-verification-online-pornographic-material-adult-websites-australia-law)
 * [2023-08-30, 22:32:31](https://news.ycombinator.com/item?id=37330024) - [Full Speed Ahead: EV Study Reveals Impacts of Fast Charging](https://www.recurrentauto.com/research/impacts-of-fast-charging)
 * [2023-08-30, 22:20:46](https://news.ycombinator.com/item?id=37329923) - [How to Install Lima(runs command line Ubuntu) on macOS Using 9 Easy Steps](https://www.cyberithub.com/how-to-install-lima-on-macos-using-9-easy-steps/)
@@ -23,7 +24,6 @@
 * [2023-08-30, 14:37:28](https://news.ycombinator.com/item?id=37322794) - [Multiplix, operating system kernel for RISC-V and AArch64 SBCs](https://github.com/zyedidia/multiplix)
 * [2023-08-30, 14:13:33](https://news.ycombinator.com/item?id=37322460) - [How to get transactions between almost any data stores](https://petereliaskraft.net/blog/epoxy)
 * [2023-08-30, 12:32:05](https://news.ycombinator.com/item?id=37321028) - [A DIY ‘bionic pancreas’ is changing diabetes care](https://www.nature.com/articles/d41586-023-02648-9)
-* [2023-08-30, 12:18:30](https://news.ycombinator.com/item?id=37320897) - [Fake town built exclusively for filming TV and movies](https://petapixel.com/2023/08/23/this-giant-fake-town-was-built-exclusively-for-filming-tv-and-movies/)
 * [2023-08-30, 10:47:27](https://news.ycombinator.com/item?id=37320037) - [DIY ESP32 based chicken coop door. Control based on time, light or via app](https://github.com/ESP32-COOP/ESP32-COOP-DOC)
 * [2023-08-30, 09:41:49](https://news.ycombinator.com/item?id=37319537) - [Making life (even) harder for proprietary modules](https://lwn.net/Articles/939842/)
 * [2023-08-30, 07:34:19](https://news.ycombinator.com/item?id=37318810) - [ChatLZMA – text generation from data compression](http://pepijndevos.nl/2023/07/15/chatlmza.html)
