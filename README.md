@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-30, 07:00:17](https://news.ycombinator.com/item?id=37318590) - [SigNoz (YC W21, Open source Observability tool) hiring DevRel engineers (remote)](https://signoz.io/careers/devrel-engineer-in/)
 * [2023-08-30, 02:46:32](https://news.ycombinator.com/item?id=37317055) - [Bad Apple Font](https://blog.erk.dev/posts/anifont/)
 * [2023-08-30, 02:31:08](https://news.ycombinator.com/item?id=37316959) - [Authentication on meet.jit.si](https://jitsi.org/blog/authentication-on-meet-jit-si/)
 * [2023-08-30, 02:24:31](https://news.ycombinator.com/item?id=37316919) - [Applying SRE Principles to CI/CD](https://buildkite.com/blog/applying-sre-principles-to-cicd)
@@ -18,7 +19,6 @@
 * [2023-08-29, 20:06:11](https://news.ycombinator.com/item?id=37313183) - [Griffin – A fully-regulated, API-driven bank, with Clojure](https://www.juxt.pro/blog/clojure-in-griffin/)
 * [2023-08-29, 19:17:58](https://news.ycombinator.com/item?id=37312523) - [Webstudio: Open-source WYSIWYG adds Radix UI elements](https://webstudio.is/radix)
 * [2023-08-29, 19:08:23](https://news.ycombinator.com/item?id=37312385) - [MapReduce, TensorFlow, Vertex: Google's bet to avoid repeating history in AI](https://www.supervised.news/p/mapreduce-tensorflow-bard-also-hello)
-* [2023-08-29, 18:35:16](https://news.ycombinator.com/item?id=37311975) - [Hacking GTA V RP Servers Using Web Exploitation Techniques](https://www.nullpt.rs/hacking-gta-servers-using-web-exploitation)
 * [2023-08-29, 17:57:50](https://news.ycombinator.com/item?id=37311508) - [DOS/4GW made Windows 95 game compatibility easier, but with higher stakes](https://devblogs.microsoft.com/oldnewthing/20230829-00/?p=108661)
 * [2023-08-29, 15:57:58](https://news.ycombinator.com/item?id=37309818) - [MagicEdit: High-fidelity temporally coherent video editing](https://magic-edit.github.io/)
 * [2023-08-29, 15:41:33](https://news.ycombinator.com/item?id=37309575) - [Direct speech reconstruction from sensorimotor activity and deep learning models](https://iopscience.iop.org/article/10.1088/1741-2552/ace8be)
