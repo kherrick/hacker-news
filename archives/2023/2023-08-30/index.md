@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 14:53:43](https://news.ycombinator.com/item?id=37323066) - [Decoupling isn't phoney – The global trading system is starting to rearrange](https://www.noahpinion.blog/p/decoupling-isnt-phoney)
 * [2023-08-30, 13:57:20](https://news.ycombinator.com/item?id=37322256) - [AntiX Linux 23 Released](https://antixlinux.com/antix-23-released/)
 * [2023-08-30, 13:55:10](https://news.ycombinator.com/item?id=37322214) - [Honda targeting 50% weight reduction with EV solid state batteries](https://www.thedrive.com/news/honda-solid-state-batteries-will-offer-same-energy-density-at-half-the-weight)
 * [2023-08-30, 13:50:57](https://news.ycombinator.com/item?id=37322152) - [Visa, Mastercard Prepare to Raise Credit-Card Fees](https://www.wsj.com/finance/visa-mastercard-prepare-to-raise-credit-card-fees-ed779be1)
