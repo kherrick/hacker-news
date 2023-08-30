@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 16:38:05](https://news.ycombinator.com/item?id=37324705) - [“AI has turned every WiFi router into a camera that can work in the dark”](https://twitter.com/sharyph_/status/1675021148310913025)
+* [2023-08-30, 16:28:46](https://news.ycombinator.com/item?id=37324503) - [OpenAI shatters revenue expectations, predicted to generate over $1B](https://the-decoder.com/openai-shatters-revenue-expectations-predicted-to-generate-over-1-billion/)
 * [2023-08-30, 16:24:39](https://news.ycombinator.com/item?id=37324427) - [I wrote, “Scrum is a cancer,” and the Internet had thoughts about it](https://twitter.com/svpino/status/1696869327335571833)
+* [2023-08-30, 16:21:16](https://news.ycombinator.com/item?id=37324370) - [File Attachments: Databases can now store files and images](https://xata.io/blog/file-attachments)
 * [2023-08-30, 16:13:23](https://news.ycombinator.com/item?id=37324244) - [So What If Google Sends Me Targetted Ads?](https://theprivacydad.com/so-what-if-google-sends-me-targetted-ads/)
 * [2023-08-30, 16:10:34](https://news.ycombinator.com/item?id=37324202) - [2023 Paid VPN Relationship and Corporate VPN Ownership Map](https://windscribe.com/vpnmap)
 * [2023-08-30, 16:04:14](https://news.ycombinator.com/item?id=37324142) - [Two years unmasking a well-funded Silicon Valley 'apocalypse cult'](https://www.truthdig.com/articles/before-its-too-late-buddy/)
