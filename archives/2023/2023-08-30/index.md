@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 10:27:56](https://news.ycombinator.com/item?id=37319841) - [Why McDonald's Ice Cream Machines Are Always Broken and How to Fix Them](https://www.youtube.com/watch?v=2uCpY3tFTIA)
 * [2023-08-30, 10:04:35](https://news.ycombinator.com/item?id=37319666) - [DevTools Tips](https://devtoolstips.org/)
 * [2023-08-30, 09:58:35](https://news.ycombinator.com/item?id=37319626) - [Fairphone 5](https://shop.fairphone.com/fairphone-5)
 * [2023-08-30, 09:46:02](https://news.ycombinator.com/item?id=37319562) - [Titanium micro-spikes skewer resistant superbugs](https://www.rmit.edu.au/news/all-news/2023/aug/antifungal-titanium)
@@ -17,6 +18,7 @@
 * [2023-08-30, 08:01:10](https://news.ycombinator.com/item?id=37318964) - [Phind (code beating GPT4) seems to have used WizardLM's finetuned checkpoint](https://twitter.com/WizardLM_AI/status/1696527036804989171)
 * [2023-08-30, 07:00:17](https://news.ycombinator.com/item?id=37318590) - [SigNoz (YC W21, Open source Observability tool) hiring DevRel engineers (remote)](https://signoz.io/careers/devrel-engineer-in/)
 * [2023-08-30, 06:36:36](https://news.ycombinator.com/item?id=37318445) - [How to shuffle a big dataset (2018)](https://blog.janestreet.com/how-to-shuffle-a-big-dataset/)
+* [2023-08-30, 05:03:57](https://news.ycombinator.com/item?id=37317883) - [Digging on the Dark Side of the Volcano](https://www.archaeology.org/issues/526-2309/letter-from/11661-vesuvius-dark-side)
 * [2023-08-30, 04:48:21](https://news.ycombinator.com/item?id=37317796) - [Tesla ordered by auto regulators to provide data on ‘Elon mode’ configuration](https://www.cnbc.com/2023/08/30/tesla-ordered-by-nhtsa-to-provide-data-on-elon-mode-for-autopilot.html)
 * [2023-08-30, 04:45:14](https://news.ycombinator.com/item?id=37317776) - [Deno 1.36](https://deno.com/blog/v1.36)
 * [2023-08-30, 04:19:16](https://news.ycombinator.com/item?id=37317604) - [The end of cool small cars](https://www.blackbirdspyplane.com/p/the-end-of-cool-small-cars)
