@@ -88,6 +88,7 @@
 * [2023-08-29, 11:14:46](https://news.ycombinator.com/item?id=37305998) - [Shapfuzz: Efficient Fuzzing via Shapley-Guided Byte Selection](https://arxiv.org/abs/2308.09239)
 * [2023-08-29, 10:51:31](https://news.ycombinator.com/item?id=37305800) - [Grave flaws in BGP Error handling](https://blog.benjojo.co.uk/post/bgp-path-attributes-grave-error-handling)
 * [2023-08-29, 10:46:12](https://news.ycombinator.com/item?id=37305752) - [Exxon says world set to fail 2°C global warming cap by 2050](https://www.reuters.com/business/energy/exxon-projects-oil-gas-be-54-worlds-energy-needs-2050-2023-08-28/)
+* [2023-08-29, 10:41:23](https://news.ycombinator.com/item?id=37305698) - [We always end up with waterfall](https://www.amazingcto.com/why-we-always-endup-with-waterfall-even-scrum/)
 * [2023-08-29, 09:55:20](https://news.ycombinator.com/item?id=37305383) - [Llama 2 is about as factually accurate as GPT-4 for summaries and is 30X cheaper](https://www.anyscale.com/blog/llama-2-is-about-as-factually-accurate-as-gpt-4-for-summaries-and-is-30x-cheaper)
 * [2023-08-29, 09:52:03](https://news.ycombinator.com/item?id=37305358) - [The Reasons Not to Use Scrum](https://www.amazingcto.com/the-5-reasons-not-to-use-scrum/)
 * [2023-08-29, 09:48:30](https://news.ycombinator.com/item?id=37305338) - [Why does the USA use 110V and UK use 230-240V?](https://electronics.stackexchange.com/questions/115200/why-does-the-usa-use-110v-and-uk-use-230-240v)
