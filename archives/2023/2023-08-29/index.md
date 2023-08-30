@@ -104,6 +104,7 @@
 * [2023-08-29, 08:30:52](https://news.ycombinator.com/item?id=37304851) - [Elixir Saves Pinterest $2M a Year in Server Costs](https://paraxial.io/blog/elixir-savings)
 * [2023-08-29, 08:21:57](https://news.ycombinator.com/item?id=37304803) - [Announcing the Pollen API](https://cloud.google.com/blog/products/maps-platform/announcing-pollen-api-providing-actionable-info-about-airborne-pollen-levels-worldwide)
 * [2023-08-29, 08:19:35](https://news.ycombinator.com/item?id=37304789) - [Abandoned and Little-Known Airfields](http://www.airfields-freeman.com/)
+* [2023-08-29, 07:59:26](https://news.ycombinator.com/item?id=37304666) - [Beautifully Designed College Chemistry Handouts](https://www.makingmolecules.com/handouts)
 * [2023-08-29, 07:53:25](https://news.ycombinator.com/item?id=37304626) - [Silicon Valley faces a crisis of nonsense](https://www.piratewires.com/p/choose-good-quests)
 * [2023-08-29, 07:11:09](https://news.ycombinator.com/item?id=37304370) - [Unix sockets, Cygwin, SSH agents, and sadness](https://mjg59.dreamwidth.org/67402.html)
 * [2023-08-29, 07:10:39](https://news.ycombinator.com/item?id=37304367) - [Multics Simulator](https://multicians.org/simulator.html)

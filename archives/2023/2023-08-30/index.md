@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 22:32:31](https://news.ycombinator.com/item?id=37330024) - [Full Speed Ahead: EV Study Reveals Impacts of Fast Charging](https://www.recurrentauto.com/research/impacts-of-fast-charging)
 * [2023-08-30, 22:20:46](https://news.ycombinator.com/item?id=37329923) - [How to Install Lima(runs command line Ubuntu) on macOS Using 9 Easy Steps](https://www.cyberithub.com/how-to-install-lima-on-macos-using-9-easy-steps/)
 * [2023-08-30, 21:31:29](https://news.ycombinator.com/item?id=37329407) - [Lockheed Martin is having a streetwear moment in South Korea](https://mashable.com/article/lockheed-martin-apparel-streetwear-south-korea)
 * [2023-08-30, 21:26:25](https://news.ycombinator.com/item?id=37329365) - [Google Removes ‘Pirate’ URLs from Users’ Privately Saved Links](https://torrentfreak.com/google-removes-pirate-sites-from-users-privately-saved-links-230830/)
