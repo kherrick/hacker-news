@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 17:24:29](https://news.ycombinator.com/item?id=37325594) - [Ask HN: Best books to learn web development?](https://news.ycombinator.com/item?id=37325594)
 * [2023-08-30, 17:07:53](https://news.ycombinator.com/item?id=37325310) - [Google kills two-year “Pixel Pass” subscription after just 22 months](https://arstechnica.com/gadgets/2023/08/google-kills-two-year-pixel-pass-subscription-after-just-22-months/)
 * [2023-08-30, 17:00:58](https://news.ycombinator.com/item?id=37325182) - [Motion (YC W20) Is Hiring React Native Engineers](https://jobs.ashbyhq.com/motion/595bd0e0-c9ce-4922-8b99-0035903c93a8?utm_source=hn)
 * [2023-08-30, 17:00:22](https://news.ycombinator.com/item?id=37325173) - [ThirdAI Uses Ray for Parallel Training of Billion-Parameter NN on Commodity CPUs](https://www.anyscale.com/blog/how-thirdai-uses-ray-for-parallel-training-of-billion-parameter-neural-networks-on-commodity-cpus)
 * [2023-08-30, 16:57:35](https://news.ycombinator.com/item?id=37325120) - [How South Korea’s Birth Rate Dropped Below Japan’s](https://www.nippon.com/en/in-depth/d00915/)
 * [2023-08-30, 16:56:27](https://news.ycombinator.com/item?id=37325101) - [For Indigenous Peoples with Deep Ties to the Land, Climate Change Is Personal](https://reasonstobecheerful.world/indigenous-peoples-climate-change-mental-health/)
 * [2023-08-30, 16:55:19](https://news.ycombinator.com/item?id=37325080) - [Open Space Toolkit – collection of versatile libraries for aerospace engineering](https://github.com/open-space-collective/open-space-toolkit)
+* [2023-08-30, 16:39:11](https://news.ycombinator.com/item?id=37324733) - [Population.io](https://mobile.population.io/)
 * [2023-08-30, 16:38:05](https://news.ycombinator.com/item?id=37324705) - [“AI has turned every WiFi router into a camera that can work in the dark”](https://twitter.com/sharyph_/status/1675021148310913025)
 * [2023-08-30, 16:37:29](https://news.ycombinator.com/item?id=37324687) - [STM32 Blue Pill as an Hid USB Keyboard](https://www.instructables.com/STM32-As-HID-USB-Keyboard-STM32-Tutorials/)
 * [2023-08-30, 16:37:23](https://news.ycombinator.com/item?id=37324683) - [Long Live the 'GPU Poor' – Open-Source AI Grants](https://a16z.com/2023/08/30/supporting-the-open-source-ai-community/)
