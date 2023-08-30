@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2023-08-30, 16:09:40",
-      "https://news.ycombinator.com/item?id=37324197"
-    ],
-    [
-      "Lightweight Virtualization: Libkrun, Vsock, Metallize",
-      "https://taras.glek.net/post/lightweight-virtualization-metallize-libkrun-vsock/"
-    ]
-  ],
-  [
-    [
       "2023-08-30, 16:03:54",
       "https://news.ycombinator.com/item?id=37324140"
     ],
@@ -297,6 +287,16 @@
     [
       "New Map APIs from Google",
       "https://latlong.blog/2023/08/new-map-apis-from-google.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-29, 23:00:04",
+      "https://news.ycombinator.com/item?id=37315297"
+    ],
+    [
+      "Inertial HSMs thwart advanced physical attacks",
+      "https://tches.iacr.org/index.php/TCHES/article/view/9290/8856"
     ]
   ]
 ]
