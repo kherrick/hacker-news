@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 16:56:27](https://news.ycombinator.com/item?id=37325101) - [For Indigenous Peoples with Deep Ties to the Land, Climate Change Is Personal](https://reasonstobecheerful.world/indigenous-peoples-climate-change-mental-health/)
 * [2023-08-30, 16:38:05](https://news.ycombinator.com/item?id=37324705) - [“AI has turned every WiFi router into a camera that can work in the dark”](https://twitter.com/sharyph_/status/1675021148310913025)
+* [2023-08-30, 16:37:23](https://news.ycombinator.com/item?id=37324683) - [Long Live the 'GPU Poor' – Open-Source AI Grants](https://a16z.com/2023/08/30/supporting-the-open-source-ai-community/)
 * [2023-08-30, 16:28:46](https://news.ycombinator.com/item?id=37324503) - [OpenAI shatters revenue expectations, predicted to generate over $1B](https://the-decoder.com/openai-shatters-revenue-expectations-predicted-to-generate-over-1-billion/)
 * [2023-08-30, 16:24:39](https://news.ycombinator.com/item?id=37324427) - [I wrote, “Scrum is a cancer,” and the Internet had thoughts about it](https://twitter.com/svpino/status/1696869327335571833)
 * [2023-08-30, 16:21:16](https://news.ycombinator.com/item?id=37324370) - [File Attachments: Databases can now store files and images](https://xata.io/blog/file-attachments)
@@ -31,6 +33,7 @@
 * [2023-08-30, 12:31:30](https://news.ycombinator.com/item?id=37321023) - [Farmers Insurance Laying Off 11% of Workforce, Citing Industry Challenges](https://www.insurancejournal.com/news/national/2023/08/28/738095.htm)
 * [2023-08-30, 12:29:09](https://news.ycombinator.com/item?id=37321002) - [Microsoft is using malware-like pop-ups in Win11 to get people to ditch Chrome](https://www.theverge.com/2023/8/30/23851902/microsoft-bing-popups-windows-11-malware)
 * [2023-08-30, 12:27:11](https://news.ycombinator.com/item?id=37320975) - [Hundreds of thousands trafficked to work as online scammers in SE Asia](https://www.ohchr.org/en/press-releases/2023/08/hundreds-thousands-trafficked-work-online-scammers-se-asia-says-un-report)
+* [2023-08-30, 12:18:30](https://news.ycombinator.com/item?id=37320897) - [Giant fake town was built exclusively for filming TV and movies](https://petapixel.com/2023/08/23/this-giant-fake-town-was-built-exclusively-for-filming-tv-and-movies/)
 * [2023-08-30, 12:13:54](https://news.ycombinator.com/item?id=37320841) - [Produce HTML from S-Expressions](https://github.com/lelanthran/l2h)
 * [2023-08-30, 12:07:39](https://news.ycombinator.com/item?id=37320786) - [Windows 11 will respect default browser for system apps in the European Union](https://blogs.windows.com/windows-insider/2023/08/25/announcing-windows-11-insider-preview-build-23531-dev-channel/)
 * [2023-08-30, 12:00:37](https://news.ycombinator.com/item?id=37320729) - [Lago – Open-Source Stripe Billing Alternative Is Hiring a Content Lead](https://news.ycombinator.com/item?id=37320729)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-30, 16:38:05](https://news.ycombinator.com/item?id=37324705) - [“AI has turned every WiFi router into a camera that can work in the dark”](https://twitter.com/sharyph_/status/1675021148310913025)
+* [2023-08-30, 16:56:27](https://news.ycombinator.com/item?id=37325101) - [For Indigenous Peoples with Deep Ties to the Land, Climate Change Is Personal](https://reasonstobecheerful.world/indigenous-peoples-climate-change-mental-health/)
+* [2023-08-30, 16:37:23](https://news.ycombinator.com/item?id=37324683) - [Long Live the 'GPU Poor' – Open-Source AI Grants](https://a16z.com/2023/08/30/supporting-the-open-source-ai-community/)
 * [2023-08-30, 16:28:46](https://news.ycombinator.com/item?id=37324503) - [OpenAI shatters revenue expectations, predicted to generate over $1B](https://the-decoder.com/openai-shatters-revenue-expectations-predicted-to-generate-over-1-billion/)
 * [2023-08-30, 16:24:39](https://news.ycombinator.com/item?id=37324427) - [I wrote, “Scrum is a cancer,” and the Internet had thoughts about it](https://twitter.com/svpino/status/1696869327335571833)
 * [2023-08-30, 16:21:16](https://news.ycombinator.com/item?id=37324370) - [File Attachments: Databases can now store files and images](https://xata.io/blog/file-attachments)
@@ -15,6 +16,7 @@
 * [2023-08-30, 12:32:21](https://news.ycombinator.com/item?id=37321032) - [Understanding Llama 2 and the New Code Llama LLMs](https://magazine.sebastianraschka.com/p/ahead-of-ai-11-new-foundation-models)
 * [2023-08-30, 12:32:05](https://news.ycombinator.com/item?id=37321028) - [A DIY ‘bionic pancreas’ is changing diabetes care](https://www.nature.com/articles/d41586-023-02648-9)
 * [2023-08-30, 12:27:11](https://news.ycombinator.com/item?id=37320975) - [Hundreds of thousands trafficked to work as online scammers in SE Asia, says UN](https://www.ohchr.org/en/press-releases/2023/08/hundreds-thousands-trafficked-work-online-scammers-se-asia-says-un-report)
+* [2023-08-30, 12:18:30](https://news.ycombinator.com/item?id=37320897) - [Giant fake town was built exclusively for filming TV and movies](https://petapixel.com/2023/08/23/this-giant-fake-town-was-built-exclusively-for-filming-tv-and-movies/)
 * [2023-08-30, 12:00:37](https://news.ycombinator.com/item?id=37320729) - [Lago – Open-Source Stripe Billing Alternative Is Hiring a Content Lead](https://news.ycombinator.com/item?id=37320729)
 * [2023-08-30, 11:40:48](https://news.ycombinator.com/item?id=37320516) - [n Guilty Men (1997)](https://www2.law.ucla.edu/volokh/guilty.htm)
 * [2023-08-30, 10:47:27](https://news.ycombinator.com/item?id=37320037) - [DIY ESP32 based chicken coop door. Control based on time, light or via app](https://github.com/ESP32-COOP/ESP32-COOP-DOC)
@@ -26,10 +28,8 @@
 * [2023-08-30, 02:46:32](https://news.ycombinator.com/item?id=37317055) - [Bad Apple Font](https://blog.erk.dev/posts/anifont/)
 * [2023-08-30, 02:31:08](https://news.ycombinator.com/item?id=37316959) - [Authentication on meet.jit.si](https://jitsi.org/blog/authentication-on-meet-jit-si/)
 * [2023-08-30, 02:12:31](https://news.ycombinator.com/item?id=37316831) - [Discovery of spherules of likely extrasolar composition in the Pacific Ocean [pdf]](https://lweb.cfa.harvard.edu/~loeb/Interstellar_Expedition.pdf)
-* [2023-08-29, 23:56:05](https://news.ycombinator.com/item?id=37315802) - [Intel shows 8 core 528 thread processor with silicon photonics](https://www.servethehome.com/intel-shows-8-core-528-thread-processor-with-silicon-photonics/)
 * [2023-08-29, 20:28:01](https://news.ycombinator.com/item?id=37313516) - [How Correlated Are You?](https://www.allendowney.com/blog/2023/08/20/how-correlated-are-you/)
 * [2023-08-29, 20:17:54](https://news.ycombinator.com/item?id=37313349) - [ISPs should not police online speech no matter how awful it is](https://www.eff.org/deeplinks/2023/08/isps-should-not-police-online-speech-no-matter-how-awful-it)
-* [2023-08-29, 20:13:52](https://news.ycombinator.com/item?id=37313285) - [The Colonel’s Bequest – Case Cracked (2020)](https://www.benshoof.org/blog/case-cracked)
 
 ## [Archives](archives/index.md)
 
