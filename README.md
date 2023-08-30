@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-30, 03:41:38](https://news.ycombinator.com/item?id=37317398) - [California court dismisses lawsuit over nuclear power plant](https://www.thenewlede.org/2023/08/california-court-dismisses-lawsuit-over-nuclear-power-plant/)
 * [2023-08-30, 02:46:32](https://news.ycombinator.com/item?id=37317055) - [Bad Apple Font](https://blog.erk.dev/posts/anifont/)
 * [2023-08-30, 02:31:08](https://news.ycombinator.com/item?id=37316959) - [Jitsi.org has started requiring authentication](https://jitsi.org/blog/authentication-on-meet-jit-si/)
 * [2023-08-30, 02:24:31](https://news.ycombinator.com/item?id=37316919) - [Applying SRE Principles to CI/CD](https://buildkite.com/blog/applying-sre-principles-to-cicd)
@@ -13,7 +14,6 @@
 * [2023-08-29, 21:04:14](https://news.ycombinator.com/item?id=37314073) - [Meta AI releases CoTracker, a model for tracking any points (pixels) on a video](https://co-tracker.github.io/)
 * [2023-08-29, 20:26:50](https://news.ycombinator.com/item?id=37313493) - [How far can you jump from a swing?](https://www.alexmolas.com/2023/08/18/how-far-can-you-jump.html)
 * [2023-08-29, 20:17:54](https://news.ycombinator.com/item?id=37313349) - [ISPs should not police online speech no matter how awful it is](https://www.eff.org/deeplinks/2023/08/isps-should-not-police-online-speech-no-matter-how-awful-it)
-* [2023-08-29, 20:14:15](https://news.ycombinator.com/item?id=37313293) - [Drumscript: A simple MIDI drum machine scripting language](https://github.com/tepreece/drumscript)
 * [2023-08-29, 20:06:11](https://news.ycombinator.com/item?id=37313183) - [Griffin – A fully-regulated, API-driven bank, with Clojure](https://www.juxt.pro/blog/clojure-in-griffin/)
 * [2023-08-29, 19:17:58](https://news.ycombinator.com/item?id=37312523) - [Webstudio: Open-source WYSIWYG adds Radix UI elements](https://webstudio.is/radix)
 * [2023-08-29, 19:08:23](https://news.ycombinator.com/item?id=37312385) - [MapReduce, TensorFlow, Vertex: Google's bet to avoid repeating history in AI](https://www.supervised.news/p/mapreduce-tensorflow-bard-also-hello)
