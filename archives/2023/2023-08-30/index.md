@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 18:37:35](https://news.ycombinator.com/item?id=37326806) - [FCC refuses to scrap rule requiring ISPs to list every monthly fee](https://arstechnica.com/tech-policy/2023/08/fcc-says-too-bad-to-isps-complaining-that-listing-every-fee-is-too-hard/)
 * [2023-08-30, 18:08:57](https://news.ycombinator.com/item?id=37326355) - [EV Chargers Should Be Dumber](https://heatmap.news/electric-vehicles/nema-14-50-mobile-charger-lucid-air)
 * [2023-08-30, 17:59:50](https://news.ycombinator.com/item?id=37326205) - [Netlify Announces the Evolution of Cloud Platform](https://www.netlify.com/blog/gatsby-cloud-evolution/)
+* [2023-08-30, 17:31:07](https://news.ycombinator.com/item?id=37325711) - [Shocks to the System: Don DeLillo’s Novels of the Cold War and Its Aftermath](https://www.bookforum.com/print/3001/don-delillo-s-novels-of-the-cold-war-and-its-aftermath-25202)
 * [2023-08-30, 17:25:55](https://news.ycombinator.com/item?id=37325622) - [Photogrammetry on Commercial Flights (2021)](https://leifgehrmann.com/2021/09/05/photogrammetry-on-a-plane/)
 * [2023-08-30, 17:24:29](https://news.ycombinator.com/item?id=37325594) - [Ask HN: Best books to learn web development?](https://news.ycombinator.com/item?id=37325594)
 * [2023-08-30, 17:07:53](https://news.ycombinator.com/item?id=37325310) - [Google kills two-year “Pixel Pass” subscription after just 22 months](https://arstechnica.com/gadgets/2023/08/google-kills-two-year-pixel-pass-subscription-after-just-22-months/)
@@ -73,6 +75,7 @@
 * [2023-08-30, 08:36:54](https://news.ycombinator.com/item?id=37319180) - [FreeBSD can now boot in 25 milliseconds](https://www.theregister.com/2023/08/29/freebsd_boots_in_25ms/)
 * [2023-08-30, 08:29:26](https://news.ycombinator.com/item?id=37319139) - [Climate change death toll to reach 1B by end of century](https://www.mdpi.com/1996-1073/16/16/6074)
 * [2023-08-30, 08:01:10](https://news.ycombinator.com/item?id=37318964) - [Phind (code beating GPT4) seems to have used WizardLM's finetuned checkpoint](https://twitter.com/WizardLM_AI/status/1696527036804989171)
+* [2023-08-30, 07:34:19](https://news.ycombinator.com/item?id=37318810) - [ChatLZMA – text generation from data compression](http://pepijndevos.nl/2023/07/15/chatlmza.html)
 * [2023-08-30, 07:00:17](https://news.ycombinator.com/item?id=37318590) - [SigNoz (YC W21, Open source Observability tool) hiring DevRel engineers (remote)](https://signoz.io/careers/devrel-engineer-in/)
 * [2023-08-30, 06:36:36](https://news.ycombinator.com/item?id=37318445) - [How to shuffle a big dataset (2018)](https://blog.janestreet.com/how-to-shuffle-a-big-dataset/)
 * [2023-08-30, 05:03:57](https://news.ycombinator.com/item?id=37317883) - [Digging on the Dark Side of the Volcano](https://www.archaeology.org/issues/526-2309/letter-from/11661-vesuvius-dark-side)
