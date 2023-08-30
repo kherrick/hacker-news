@@ -80,6 +80,7 @@
 * [2023-08-29, 12:11:42](https://news.ycombinator.com/item?id=37306534) - [Simplifying GPU Application Development with HMM](https://developer.nvidia.com/blog/simplifying-gpu-application-development-with-heterogeneous-memory-management/)
 * [2023-08-29, 12:11:12](https://news.ycombinator.com/item?id=37306530) - [Duet AI for Google Workspace Now Available](https://workspace.google.com/blog/product-announcements/duet-ai-in-workspace-now-available)
 * [2023-08-29, 12:00:19](https://news.ycombinator.com/item?id=37306435) - [CoinTracker (YC W18) Hiring a Product Leader to Build B2B Product (Remote)](https://jobs.ashbyhq.com/cointracker/b32d47df-5650-4424-8bd7-1ec151ad9922)
+* [2023-08-29, 11:59:59](https://news.ycombinator.com/item?id=37306431) - [Three Antiquities Traffickers and Their Fall from Grace](https://hyperallergic.com/830328/three-antiquities-traffickers-and-their-fall-from-grace/)
 * [2023-08-29, 11:59:43](https://news.ycombinator.com/item?id=37306427) - [New study finds microplastics infiltrate all systems of body, alter behaviour](https://www.sustainableplastics.com/news/microplastics-found-pass-blood-brain-barrier-even-though-ingested-drinking-water)
 * [2023-08-29, 11:58:34](https://news.ycombinator.com/item?id=37306411) - [ToDesktop – Web app to desktop app in minutes](https://www.todesktop.com/)
 * [2023-08-29, 11:53:38](https://news.ycombinator.com/item?id=37306364) - [World’s Oldest Cat Door Has Let Working Cats Enter the Cathedral Since 14c](https://mymodernmet.com/exeter-cathedral-cat-flap/)
