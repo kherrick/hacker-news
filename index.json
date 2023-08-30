@@ -1,22 +1,42 @@
 [
   [
     [
+      "2023-08-30, 01:00:52",
+      "https://news.ycombinator.com/item?id=37316309"
+    ],
+    [
+      "Fomos: Experimental OS, built with Rust",
+      "https://github.com/Ruddle/Fomos"
+    ]
+  ],
+  [
+    [
+      "2023-08-29, 23:58:15",
+      "https://news.ycombinator.com/item?id=37315827"
+    ],
+    [
+      "A Green Revolution in ‘Carbon Valley’",
+      "https://www.noemamag.com/a-green-revolution-in-carbon-valley/"
+    ]
+  ],
+  [
+    [
       "2023-08-29, 23:56:05",
       "https://news.ycombinator.com/item?id=37315802"
     ],
     [
-      "Intel Shows 8 Core 528 Thread Processor with Silicon Photonics",
+      "Intel shows 8 core 528 thread processor with silicon photonics",
       "https://www.servethehome.com/intel-shows-8-core-528-thread-processor-with-silicon-photonics/"
     ]
   ],
   [
     [
-      "2023-08-29, 22:59:41",
-      "https://news.ycombinator.com/item?id=37315292"
+      "2023-08-29, 23:40:27",
+      "https://news.ycombinator.com/item?id=37315667"
     ],
     [
-      "I’m so sorry for psychology’s loss, whatever it is",
-      "https://www.experimental-history.com/p/im-so-sorry-for-psychologys-loss"
+      "Show HN: Query your database using plain English on premise",
+      "https://www.vizly.fyi/"
     ]
   ],
   [
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2023-08-29, 21:51:26",
-      "https://news.ycombinator.com/item?id=37314622"
-    ],
-    [
-      "Home – Database of Databases",
-      "https://dbdb.io/"
-    ]
-  ],
-  [
-    [
       "2023-08-29, 21:42:52",
       "https://news.ycombinator.com/item?id=37314526"
     ],
@@ -61,12 +71,32 @@
   ],
   [
     [
+      "2023-08-29, 21:04:14",
+      "https://news.ycombinator.com/item?id=37314073"
+    ],
+    [
+      "Meta AI releases CoTracker, a model for tracking any points (pixels) on a video",
+      "https://co-tracker.github.io/"
+    ]
+  ],
+  [
+    [
       "2023-08-29, 20:26:50",
       "https://news.ycombinator.com/item?id=37313493"
     ],
     [
       "How far can you jump from a swing?",
       "https://www.alexmolas.com/2023/08/18/how-far-can-you-jump.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-29, 20:17:54",
+      "https://news.ycombinator.com/item?id=37313349"
+    ],
+    [
+      "ISPs should not police online speech no matter how awful it is",
+      "https://www.eff.org/deeplinks/2023/08/isps-should-not-police-online-speech-no-matter-how-awful-it"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2023-08-29, 17:37:31",
-      "https://news.ycombinator.com/item?id=37311239"
-    ],
-    [
-      "iFixit Petitions Government for Right to Hack McDonald's Ice Cream Machine",
-      "https://www.404media.co/activists-petition-government-for-right-to-hack-mcdonalds-mcflurry-machines-to-repair-them/"
-    ]
-  ],
-  [
-    [
       "2023-08-29, 17:02:49",
       "https://news.ycombinator.com/item?id=37310772"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-08-29, 13:44:20",
-      "https://news.ycombinator.com/item?id=37307828"
-    ],
-    [
-      "C.R. Rao: A Life in Statistics (2020)",
-      "https://bhavana.org.in/c-r-rao-a-life-in-statistics/"
-    ]
-  ],
-  [
-    [
       "2023-08-29, 13:36:05",
       "https://news.ycombinator.com/item?id=37307708"
     ],
@@ -231,22 +241,22 @@
   ],
   [
     [
+      "2023-08-29, 13:00:14",
+      "https://news.ycombinator.com/item?id=37307147"
+    ],
+    [
+      "The Brain Connections Between Our Hands and Tongues",
+      "https://www.quantamagazine.org/the-hidden-brain-connections-between-our-hands-and-tongues-20230828/"
+    ]
+  ],
+  [
+    [
       "2023-08-29, 11:17:02",
       "https://news.ycombinator.com/item?id=37306018"
     ],
     [
       "Installing Mac OS on the Nintendo Wii [video]",
       "https://www.youtube.com/watch?v=mdXQ8rcmF48"
-    ]
-  ],
-  [
-    [
-      "2023-08-29, 11:14:46",
-      "https://news.ycombinator.com/item?id=37305998"
-    ],
-    [
-      "Shapfuzz: Efficient Fuzzing via Shapley-Guided Byte Selection",
-      "https://arxiv.org/abs/2308.09239"
     ]
   ],
   [
@@ -261,22 +271,12 @@
   ],
   [
     [
-      "2023-08-29, 09:48:30",
-      "https://news.ycombinator.com/item?id=37305338"
+      "2023-08-29, 05:59:00",
+      "https://news.ycombinator.com/item?id=37303983"
     ],
     [
-      "Why does the USA use 110V and UK use 230-240V? (2014)",
-      "https://electronics.stackexchange.com/questions/115200/why-does-the-usa-use-110v-and-uk-use-230-240v"
-    ]
-  ],
-  [
-    [
-      "2023-08-29, 08:19:35",
-      "https://news.ycombinator.com/item?id=37304789"
-    ],
-    [
-      "Abandoned and little-known airfields",
-      "http://www.airfields-freeman.com/"
+      "Baby's first WASM compiler",
+      "https://www.scattered-thoughts.net/writing/babys-first-wasm-compiler/"
     ]
   ],
   [
