@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-30, 12:00:37](https://news.ycombinator.com/item?id=37320729) - [Lago – Open-Source Stripe Billing Alternative Is Hiring a Content Lead](https://news.ycombinator.com/item?id=37320729)
 * [2023-08-30, 11:17:04](https://news.ycombinator.com/item?id=37320304) - [Buffer Overflows in Notepad++](https://securitylab.github.com/advisories/GHSL-2023-092_Notepad__/)
 * [2023-08-30, 11:06:30](https://news.ycombinator.com/item?id=37320211) - [Politicians, scientists spar over alleged NIH coverup using COVID19 origin paper](https://www.science.org/content/article/politicians-scientists-spar-over-alleged-nih-cover-up-using-covid-19-origin-paper)
 * [2023-08-30, 10:04:35](https://news.ycombinator.com/item?id=37319666) - [DevTools Tips](https://devtoolstips.org/)
@@ -10,7 +11,6 @@
 * [2023-08-30, 08:54:38](https://news.ycombinator.com/item?id=37319271) - [iFixit wants Congress to let it hack McDonald’s ice cream machines](https://www.theverge.com/2023/8/29/23850595/mcdonalds-broken-ice-cream-machines-ifixit)
 * [2023-08-30, 08:36:54](https://news.ycombinator.com/item?id=37319180) - [FreeBSD can now boot in 25 milliseconds](https://www.theregister.com/2023/08/29/freebsd_boots_in_25ms/)
 * [2023-08-30, 08:01:10](https://news.ycombinator.com/item?id=37318964) - [Phind (code beating GPT4) seems to have used WizardLM's finetuned checkpoint](https://twitter.com/WizardLM_AI/status/1696527036804989171)
-* [2023-08-30, 07:00:17](https://news.ycombinator.com/item?id=37318590) - [SigNoz (YC W21, Open source Observability tool) hiring DevRel engineers (remote)](https://signoz.io/careers/devrel-engineer-in/)
 * [2023-08-30, 05:03:57](https://news.ycombinator.com/item?id=37317883) - [Digging on the Dark Side of the Volcano](https://www.archaeology.org/issues/526-2309/letter-from/11661-vesuvius-dark-side)
 * [2023-08-30, 02:46:32](https://news.ycombinator.com/item?id=37317055) - [Bad Apple Font](https://blog.erk.dev/posts/anifont/)
 * [2023-08-30, 02:31:08](https://news.ycombinator.com/item?id=37316959) - [Authentication on meet.jit.si](https://jitsi.org/blog/authentication-on-meet-jit-si/)
