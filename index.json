@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-08-30, 16:00:41",
+      "https://news.ycombinator.com/item?id=37324104"
+    ],
+    [
+      "Weight-based motor vehicle tax",
+      "https://www.skatteetaten.no/en/rates/weight-based-motor-vehicle-tax/"
+    ]
+  ],
+  [
+    [
+      "2023-08-30, 15:33:20",
+      "https://news.ycombinator.com/item?id=37323727"
+    ],
+    [
+      "The End of the Googleverse",
+      "https://www.theverge.com/23846048/google-search-memes-images-pagerank-altavista-seo-keywords"
+    ]
+  ],
+  [
+    [
+      "2023-08-30, 15:24:08",
+      "https://news.ycombinator.com/item?id=37323604"
+    ],
+    [
+      "Hacking the LG Monitor's EDID",
+      "https://gist.github.com/kj800x/be3001c07c49fdb36970633b0bc6defb"
+    ]
+  ],
+  [
+    [
       "2023-08-30, 14:53:43",
       "https://news.ycombinator.com/item?id=37323066"
     ],
@@ -11,12 +41,12 @@
   ],
   [
     [
-      "2023-08-30, 14:30:35",
-      "https://news.ycombinator.com/item?id=37322700"
+      "2023-08-30, 14:25:39",
+      "https://news.ycombinator.com/item?id=37322619"
     ],
     [
-      "CA Supreme Court Concludes No Reason to Generate Precedent on Geofence Warrants",
-      "https://www.techdirt.com/2023/08/29/california-supreme-court-decides-theres-no-reason-to-generate-precedent-on-geofence-warrants/"
+      "Tracking Application-Level Consistency with LiteFS",
+      "https://fly.io/blog/tracking-consistency-with-litefs/"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2023-08-30, 12:07:39",
-      "https://news.ycombinator.com/item?id=37320786"
-    ],
-    [
-      "Windows 11 system components use the default browser to open links in Europe",
-      "https://blogs.windows.com/windows-insider/2023/08/25/announcing-windows-11-insider-preview-build-23531-dev-channel/"
-    ]
-  ],
-  [
-    [
       "2023-08-30, 12:00:37",
       "https://news.ycombinator.com/item?id=37320729"
     ],
@@ -187,16 +207,6 @@
     [
       "iFixit wants Congress to let it hack McDonald’s ice cream machines",
       "https://www.theverge.com/2023/8/29/23850595/mcdonalds-broken-ice-cream-machines-ifixit"
-    ]
-  ],
-  [
-    [
-      "2023-08-30, 05:03:57",
-      "https://news.ycombinator.com/item?id=37317883"
-    ],
-    [
-      "Digging on the Dark Side of the Volcano",
-      "https://www.archaeology.org/issues/526-2309/letter-from/11661-vesuvius-dark-side"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Colonel’s Bequest – Case Cracked (2020)",
       "https://www.benshoof.org/blog/case-cracked"
-    ]
-  ],
-  [
-    [
-      "2023-08-29, 06:11:50",
-      "https://news.ycombinator.com/item?id=37304043"
-    ],
-    [
-      "The geometry of diffusion guidance",
-      "https://sander.ai/2023/08/28/geometry.html"
     ]
   ]
 ]
