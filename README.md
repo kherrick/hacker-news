@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-30, 02:12:31](https://news.ycombinator.com/item?id=37316831) - [Discovery of Spherules of Likely Extrasolar Composition in the Pacific Ocean [pdf]](https://lweb.cfa.harvard.edu/~loeb/Interstellar_Expedition.pdf)
-* [2023-08-30, 01:34:32](https://news.ycombinator.com/item?id=37316572) - [Putin’s Forever War](https://www.nytimes.com/2023/08/06/world/europe/putins-forever-war.html)
 * [2023-08-30, 01:00:52](https://news.ycombinator.com/item?id=37316309) - [Fomos: Experimental OS, built with Rust](https://github.com/Ruddle/Fomos)
 * [2023-08-29, 23:58:15](https://news.ycombinator.com/item?id=37315827) - [A Green Revolution in ‘Carbon Valley’](https://www.noemamag.com/a-green-revolution-in-carbon-valley/)
 * [2023-08-29, 23:56:05](https://news.ycombinator.com/item?id=37315802) - [Intel shows 8 core 528 thread processor with silicon photonics](https://www.servethehome.com/intel-shows-8-core-528-thread-processor-with-silicon-photonics/)
@@ -23,6 +22,7 @@
 * [2023-08-29, 15:57:58](https://news.ycombinator.com/item?id=37309818) - [MagicEdit: High-fidelity temporally coherent video editing](https://magic-edit.github.io/)
 * [2023-08-29, 14:48:20](https://news.ycombinator.com/item?id=37308747) - [Ask HN: Why did Python win?](https://news.ycombinator.com/item?id=37308747)
 * [2023-08-29, 14:24:21](https://news.ycombinator.com/item?id=37308405) - [Starlink's User Terminal Firmware](https://blog.quarkslab.com/starlink.html)
+* [2023-08-29, 13:44:20](https://news.ycombinator.com/item?id=37307828) - [C.R. Rao: A Life in Statistics (2020)](https://bhavana.org.in/c-r-rao-a-life-in-statistics/)
 * [2023-08-29, 13:36:05](https://news.ycombinator.com/item?id=37307708) - [Keystroke timing obfuscation added to ssh(1)](https://undeadly.org/cgi?action=article;sid=20230829051257)
 * [2023-08-29, 13:21:34](https://news.ycombinator.com/item?id=37307473) - [Accessible Palette: stop using HSL for color systems (2021)](https://wildbit.com/blog/accessible-palette-stop-using-hsl-for-color-systems)
 * [2023-08-29, 13:00:14](https://news.ycombinator.com/item?id=37307147) - [The brain connections between our hands and tongues](https://www.quantamagazine.org/the-hidden-brain-connections-between-our-hands-and-tongues-20230828/)
