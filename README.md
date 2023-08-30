@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-30, 20:20:51](https://news.ycombinator.com/item?id=37328422) - [ChatGPT user sessions are down 29% since May](https://sparktoro.com/blog/we-analyzed-millions-of-chatgpt-user-sessions-visits-are-down-29-since-may-programming-assistance-is-30-of-use/)
 * [2023-08-30, 19:15:03](https://news.ycombinator.com/item?id=37327462) - [Pharmacist says he has filled Alzheimer's prescriptions for members of Congress (2017)](https://www.vox.com/policy-and-politics/2017/10/11/16458142/congress-alzheimers-pharmacist)
 * [2023-08-30, 19:12:34](https://news.ycombinator.com/item?id=37327416) - [Tesla Could Be Fined Daily over Autopilot’s Nag-Free ‘Elon Mode’](https://www.thedrive.com/news/tesla-could-be-fined-daily-over-autopilots-secret-nag-free-elon-mode)
 * [2023-08-30, 18:40:52](https://news.ycombinator.com/item?id=37326870) - [Show HN: I automated 1/2 of my typing](https://github.com/eschluntz/compress)
 * [2023-08-30, 18:37:35](https://news.ycombinator.com/item?id=37326806) - [FCC refuses to scrap rule requiring ISPs to list every monthly fee](https://arstechnica.com/tech-policy/2023/08/fcc-says-too-bad-to-isps-complaining-that-listing-every-fee-is-too-hard/)
-* [2023-08-30, 18:17:27](https://news.ycombinator.com/item?id=37326501) - [Yes, people often forget to cancel monthly subscriptions – and the costs add up](https://text.npr.org/1196059950)
 * [2023-08-30, 17:31:07](https://news.ycombinator.com/item?id=37325711) - [Shocks to the system: Don DeLillo’s novels of the cold war and its aftermath](https://www.bookforum.com/print/3001/don-delillo-s-novels-of-the-cold-war-and-its-aftermath-25202)
 * [2023-08-30, 17:25:55](https://news.ycombinator.com/item?id=37325622) - [Photogrammetry on Commercial Flights (2021)](https://leifgehrmann.com/2021/09/05/photogrammetry-on-a-plane/)
 * [2023-08-30, 17:00:58](https://news.ycombinator.com/item?id=37325182) - [Motion (YC W20) Is Hiring React Native Engineers](https://jobs.ashbyhq.com/motion/595bd0e0-c9ce-4922-8b99-0035903c93a8?utm_source=hn)

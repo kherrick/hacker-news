@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 20:20:51](https://news.ycombinator.com/item?id=37328422) - [ChatGPT user sessions are down 29% since May](https://sparktoro.com/blog/we-analyzed-millions-of-chatgpt-user-sessions-visits-are-down-29-since-may-programming-assistance-is-30-of-use/)
 * [2023-08-30, 19:15:03](https://news.ycombinator.com/item?id=37327462) - [Pharmacist says he has filled Alzheimer's prescriptions for members of Congress](https://www.vox.com/policy-and-politics/2017/10/11/16458142/congress-alzheimers-pharmacist)
 * [2023-08-30, 19:13:29](https://news.ycombinator.com/item?id=37327432) - [We will all be dead soon](http://www.adambourg.com/interesting/not-mine/2023/08/28/we-will-all-be-dead-soon.html)
 * [2023-08-30, 19:12:34](https://news.ycombinator.com/item?id=37327416) - [Tesla Could Be Fined Daily over Autopilot’s Nag-Free ‘Elon Mode’](https://www.thedrive.com/news/tesla-could-be-fined-daily-over-autopilots-secret-nag-free-elon-mode)
