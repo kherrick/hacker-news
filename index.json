@@ -1,12 +1,62 @@
 [
   [
     [
+      "2023-08-30, 12:31:30",
+      "https://news.ycombinator.com/item?id=37321023"
+    ],
+    [
+      "Farmers Insurance Laying Off 11% of Workforce, Citing Industry Challenges",
+      "https://www.insurancejournal.com/news/national/2023/08/28/738095.htm"
+    ]
+  ],
+  [
+    [
+      "2023-08-30, 12:27:11",
+      "https://news.ycombinator.com/item?id=37320975"
+    ],
+    [
+      "Hundreds of thousands trafficked to work as online scammers in SE Asia",
+      "https://www.ohchr.org/en/press-releases/2023/08/hundreds-thousands-trafficked-work-online-scammers-se-asia-says-un-report"
+    ]
+  ],
+  [
+    [
+      "2023-08-30, 12:07:39",
+      "https://news.ycombinator.com/item?id=37320786"
+    ],
+    [
+      "Windows 11 will respect default browser for system apps in the European Union",
+      "https://blogs.windows.com/windows-insider/2023/08/25/announcing-windows-11-insider-preview-build-23531-dev-channel/"
+    ]
+  ],
+  [
+    [
       "2023-08-30, 12:00:37",
       "https://news.ycombinator.com/item?id=37320729"
     ],
     [
       "Lago – Open-Source Stripe Billing Alternative Is Hiring a Content Lead",
       "https://news.ycombinator.com/item?id=37320729"
+    ]
+  ],
+  [
+    [
+      "2023-08-30, 11:40:48",
+      "https://news.ycombinator.com/item?id=37320516"
+    ],
+    [
+      "<N> Guilty Men",
+      "https://www2.law.ucla.edu/volokh/guilty.htm"
+    ]
+  ],
+  [
+    [
+      "2023-08-30, 11:35:40",
+      "https://news.ycombinator.com/item?id=37320476"
+    ],
+    [
+      "Putin’s Cinema Fund Rejects Movie Piracy, Fuming Cinema Boss Demands Barbie",
+      "https://torrentfreak.com/putins-cinema-fund-rejects-movie-piracy-fuming-cinema-boss-demands-barbie-230830/"
     ]
   ],
   [
@@ -27,6 +77,16 @@
     [
       "Politicians, scientists spar over alleged NIH coverup using COVID19 origin paper",
       "https://www.science.org/content/article/politicians-scientists-spar-over-alleged-nih-cover-up-using-covid-19-origin-paper"
+    ]
+  ],
+  [
+    [
+      "2023-08-30, 10:47:27",
+      "https://news.ycombinator.com/item?id=37320037"
+    ],
+    [
+      "DIY ESP32 based chicken coop door. Control based on time, light or via app",
+      "https://github.com/ESP32-COOP/ESP32-COOP-DOC"
     ]
   ],
   [
@@ -91,32 +151,12 @@
   ],
   [
     [
-      "2023-08-30, 08:36:54",
-      "https://news.ycombinator.com/item?id=37319180"
+      "2023-08-30, 04:58:07",
+      "https://news.ycombinator.com/item?id=37317854"
     ],
     [
-      "FreeBSD can now boot in 25 milliseconds",
-      "https://www.theregister.com/2023/08/29/freebsd_boots_in_25ms/"
-    ]
-  ],
-  [
-    [
-      "2023-08-30, 08:01:10",
-      "https://news.ycombinator.com/item?id=37318964"
-    ],
-    [
-      "Phind (code beating GPT4) seems to have used WizardLM's finetuned checkpoint",
-      "https://twitter.com/WizardLM_AI/status/1696527036804989171"
-    ]
-  ],
-  [
-    [
-      "2023-08-30, 05:03:57",
-      "https://news.ycombinator.com/item?id=37317883"
-    ],
-    [
-      "Digging on the Dark Side of the Volcano",
-      "https://www.archaeology.org/issues/526-2309/letter-from/11661-vesuvius-dark-side"
+      "Drawings of the Taj Mahal and Agra monument from the early 19th century",
+      "https://blogs.bl.uk/asian-and-african/2023/08/drawings-of-the-taj-mahal-and-agra-monuments-commissioned-by-lady-maria-nugent-in-the-early-19th-cen.html"
     ]
   ],
   [
@@ -181,26 +221,6 @@
   ],
   [
     [
-      "2023-08-29, 23:40:27",
-      "https://news.ycombinator.com/item?id=37315667"
-    ],
-    [
-      "Show HN: Query your database using plain English on premise",
-      "https://www.vizly.fyi/"
-    ]
-  ],
-  [
-    [
-      "2023-08-29, 21:04:14",
-      "https://news.ycombinator.com/item?id=37314073"
-    ],
-    [
-      "Meta AI releases CoTracker, a model for tracking any points (pixels) on a video",
-      "https://co-tracker.github.io/"
-    ]
-  ],
-  [
-    [
       "2023-08-29, 20:28:01",
       "https://news.ycombinator.com/item?id=37313516"
     ],
@@ -227,26 +247,6 @@
     [
       "The Colonel’s Bequest – Case Cracked (2020)",
       "https://www.benshoof.org/blog/case-cracked"
-    ]
-  ],
-  [
-    [
-      "2023-08-29, 20:06:11",
-      "https://news.ycombinator.com/item?id=37313183"
-    ],
-    [
-      "Griffin – A fully-regulated, API-driven bank, with Clojure",
-      "https://www.juxt.pro/blog/clojure-in-griffin/"
-    ]
-  ],
-  [
-    [
-      "2023-08-29, 13:36:05",
-      "https://news.ycombinator.com/item?id=37307708"
-    ],
-    [
-      "Keystroke timing obfuscation added to ssh(1)",
-      "https://undeadly.org/cgi?action=article;sid=20230829051257"
     ]
   ],
   [
