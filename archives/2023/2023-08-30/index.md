@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 13:50:57](https://news.ycombinator.com/item?id=37322152) - [Visa, Mastercard Prepare to Raise Credit-Card Fees](https://www.wsj.com/finance/visa-mastercard-prepare-to-raise-credit-card-fees-ed779be1)
+* [2023-08-30, 13:36:24](https://news.ycombinator.com/item?id=37321951) - [US Copyright Office wants to hear what people think about AI and copyright](https://www.theverge.com/2023/8/29/23851126/us-copyright-office-ai-public-comments)
+* [2023-08-30, 13:25:59](https://news.ycombinator.com/item?id=37321797) - [The EPA removes federal protections for most of the country's wetlands](https://www.npr.org/2023/08/29/1196654382/epa-wetlands-waterways-supreme-court)
 * [2023-08-30, 12:59:10](https://news.ycombinator.com/item?id=37321393) - [Could the Universe be a giant quantum computer?](https://www.nature.com/articles/d41586-023-02646-x)
 * [2023-08-30, 12:53:49](https://news.ycombinator.com/item?id=37321292) - [OSM River Basins](https://amandasaurus.github.io/osm-river-basins/#map=2/0/0)
 * [2023-08-30, 12:32:21](https://news.ycombinator.com/item?id=37321032) - [Understanding Llama 2 and the New Code Llama LLMs](https://magazine.sebastianraschka.com/p/ahead-of-ai-11-new-foundation-models)
