@@ -30,6 +30,7 @@
 * [2023-08-29, 19:08:23](https://news.ycombinator.com/item?id=37312385) - [MapReduce, TensorFlow, Vertex: Google's bet to avoid repeating history in AI](https://www.supervised.news/p/mapreduce-tensorflow-bard-also-hello)
 * [2023-08-29, 18:37:16](https://news.ycombinator.com/item?id=37312001) - [Linux overtakes Mac as Steam's second-most used OS, thanks to the Steam Deck](https://www.pcgamer.com/linux-overtakes-mac-as-steams-second-most-used-os-and-its-all-thanks-to-the-steam-deck/)
 * [2023-08-29, 18:35:16](https://news.ycombinator.com/item?id=37311975) - [Hacking GTA V RP Servers Using Web Exploitation Techniques](https://www.nullpt.rs/hacking-gta-servers-using-web-exploitation)
+* [2023-08-29, 18:32:58](https://news.ycombinator.com/item?id=37311948) - [Amid the Horrors of the Holocaust, Jewish Musicians Composed Songs of Survival](https://www.smithsonianmag.com/arts-culture/horrors-holocaust-jewish-musicians-composed-songs-survival-terezin-180982704/)
 * [2023-08-29, 18:29:12](https://news.ycombinator.com/item?id=37311891) - [Bicyclists Deserve the Right to Free Movement](https://www.thenation.com/article/society/bicycles-cycling-bike-safety/)
 * [2023-08-29, 18:19:52](https://news.ycombinator.com/item?id=37311780) - [AWS Works Council Germany](https://www.aws-works-council-initiative.de/)
 * [2023-08-29, 17:57:50](https://news.ycombinator.com/item?id=37311508) - [Popularity of DOS/4GW made Win95 game compat easier, but with higher stakes](https://devblogs.microsoft.com/oldnewthing/20230829-00/?p=108661)
