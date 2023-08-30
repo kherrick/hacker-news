@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 17:00:58](https://news.ycombinator.com/item?id=37325182) - [Motion (YC W20) Is Hiring React Native Engineers](https://jobs.ashbyhq.com/motion/595bd0e0-c9ce-4922-8b99-0035903c93a8?utm_source=hn)
 * [2023-08-30, 16:56:27](https://news.ycombinator.com/item?id=37325101) - [For Indigenous Peoples with Deep Ties to the Land, Climate Change Is Personal](https://reasonstobecheerful.world/indigenous-peoples-climate-change-mental-health/)
 * [2023-08-30, 16:38:05](https://news.ycombinator.com/item?id=37324705) - [“AI has turned every WiFi router into a camera that can work in the dark”](https://twitter.com/sharyph_/status/1675021148310913025)
+* [2023-08-30, 16:37:29](https://news.ycombinator.com/item?id=37324687) - [STM32 Blue Pill as an Hid USB Keyboard](https://www.instructables.com/STM32-As-HID-USB-Keyboard-STM32-Tutorials/)
 * [2023-08-30, 16:37:23](https://news.ycombinator.com/item?id=37324683) - [Long Live the 'GPU Poor' – Open-Source AI Grants](https://a16z.com/2023/08/30/supporting-the-open-source-ai-community/)
 * [2023-08-30, 16:28:46](https://news.ycombinator.com/item?id=37324503) - [OpenAI shatters revenue expectations, predicted to generate over $1B](https://the-decoder.com/openai-shatters-revenue-expectations-predicted-to-generate-over-1-billion/)
 * [2023-08-30, 16:24:39](https://news.ycombinator.com/item?id=37324427) - [I wrote, “Scrum is a cancer,” and the Internet had thoughts about it](https://twitter.com/svpino/status/1696869327335571833)
@@ -14,6 +16,7 @@
 * [2023-08-30, 16:10:34](https://news.ycombinator.com/item?id=37324202) - [2023 Paid VPN Relationship and Corporate VPN Ownership Map](https://windscribe.com/vpnmap)
 * [2023-08-30, 16:04:14](https://news.ycombinator.com/item?id=37324142) - [Two years unmasking a well-funded Silicon Valley 'apocalypse cult'](https://www.truthdig.com/articles/before-its-too-late-buddy/)
 * [2023-08-30, 16:00:41](https://news.ycombinator.com/item?id=37324104) - [Weight-based motor vehicle tax](https://www.skatteetaten.no/en/rates/weight-based-motor-vehicle-tax/)
+* [2023-08-30, 15:35:16](https://news.ycombinator.com/item?id=37323760) - [On (My) Caste](https://www.cs.toronto.edu/~meel/opinions/caste.html)
 * [2023-08-30, 15:33:20](https://news.ycombinator.com/item?id=37323727) - [The End of the Googleverse](https://www.theverge.com/23846048/google-search-memes-images-pagerank-altavista-seo-keywords)
 * [2023-08-30, 15:24:08](https://news.ycombinator.com/item?id=37323604) - [Hacking the LG Monitor's EDID](https://gist.github.com/kj800x/be3001c07c49fdb36970633b0bc6defb)
 * [2023-08-30, 14:53:43](https://news.ycombinator.com/item?id=37323066) - [Decoupling isn't phoney – The global trading system is starting to rearrange](https://www.noahpinion.blog/p/decoupling-isnt-phoney)
