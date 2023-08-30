@@ -14,7 +14,6 @@
 * [2023-08-30, 16:24:39](https://news.ycombinator.com/item?id=37324427) - [I wrote, “Scrum is a cancer,” and the Internet had thoughts about it](https://twitter.com/svpino/status/1696869327335571833)
 * [2023-08-30, 16:21:16](https://news.ycombinator.com/item?id=37324370) - [File Attachments: Databases can now store files and images](https://xata.io/blog/file-attachments)
 * [2023-08-30, 16:10:34](https://news.ycombinator.com/item?id=37324202) - [2023 Paid VPN Relationship and Corporate VPN Ownership Map](https://windscribe.com/vpnmap)
-* [2023-08-30, 16:09:40](https://news.ycombinator.com/item?id=37324197) - [Lightweight Virtualization: Libkrun, Vsock, Metallize](https://taras.glek.net/post/lightweight-virtualization-metallize-libkrun-vsock/)
 * [2023-08-30, 16:03:54](https://news.ycombinator.com/item?id=37324140) - [Van Rossum, Gosling, Goldberg, Hejlsberg panel and live discussion at PyData '23](https://pydata.org/language-creator-fundraiser)
 * [2023-08-30, 16:01:46](https://news.ycombinator.com/item?id=37324121) - [Keeping Figma Fast: perf-testing the WASM editor](https://www.figma.com/blog/keeping-figma-fast/)
 * [2023-08-30, 16:00:41](https://news.ycombinator.com/item?id=37324104) - [Weight-based motor vehicle tax](https://www.skatteetaten.no/en/rates/weight-based-motor-vehicle-tax/)
@@ -30,6 +29,7 @@
 * [2023-08-30, 11:40:48](https://news.ycombinator.com/item?id=37320516) - [n Guilty Men (1997)](https://www2.law.ucla.edu/volokh/guilty.htm)
 * [2023-08-30, 10:47:27](https://news.ycombinator.com/item?id=37320037) - [DIY ESP32 based chicken coop door. Control based on time, light or via app](https://github.com/ESP32-COOP/ESP32-COOP-DOC)
 * [2023-08-30, 09:35:59](https://news.ycombinator.com/item?id=37319500) - [New Map APIs from Google](https://latlong.blog/2023/08/new-map-apis-from-google.html)
+* [2023-08-29, 23:00:04](https://news.ycombinator.com/item?id=37315297) - [Inertial HSMs thwart advanced physical attacks](https://tches.iacr.org/index.php/TCHES/article/view/9290/8856)
 
 ## [Archives](archives/index.md)
 

@@ -7,6 +7,7 @@
 * [2023-08-29, 23:58:15](https://news.ycombinator.com/item?id=37315827) - [A Green Revolution in ‘Carbon Valley’](https://www.noemamag.com/a-green-revolution-in-carbon-valley/)
 * [2023-08-29, 23:56:05](https://news.ycombinator.com/item?id=37315802) - [Intel Shows 8 Core 528 Thread Processor with Silicon Photonics](https://www.servethehome.com/intel-shows-8-core-528-thread-processor-with-silicon-photonics/)
 * [2023-08-29, 23:40:27](https://news.ycombinator.com/item?id=37315667) - [Show HN: Query your database using plain English on premise](https://www.vizly.fyi/)
+* [2023-08-29, 23:00:04](https://news.ycombinator.com/item?id=37315297) - [Inertial HSMs thwart advanced physical attacks](https://tches.iacr.org/index.php/TCHES/article/view/9290/8856)
 * [2023-08-29, 22:59:41](https://news.ycombinator.com/item?id=37315292) - [I’m so sorry for psychology’s loss, whatever it is](https://www.experimental-history.com/p/im-so-sorry-for-psychologys-loss)
 * [2023-08-29, 22:52:33](https://news.ycombinator.com/item?id=37315208) - [Equation Group Tools](https://github.com/x0rz/EQGRP)
 * [2023-08-29, 22:20:27](https://news.ycombinator.com/item?id=37314892) - [Apple Sep 2023 Event: “Wonderlust”](https://www.apple.com/apple-events/)
