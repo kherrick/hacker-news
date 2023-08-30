@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-30, 04:48:21](https://news.ycombinator.com/item?id=37317796) - [Tesla ordered by auto regulators to provide data on ‘Elon mode’ configuration](https://www.cnbc.com/2023/08/30/tesla-ordered-by-nhtsa-to-provide-data-on-elon-mode-for-autopilot.html)
 * [2023-08-30, 03:41:38](https://news.ycombinator.com/item?id=37317398) - [California court dismisses lawsuit over nuclear power plant](https://www.thenewlede.org/2023/08/california-court-dismisses-lawsuit-over-nuclear-power-plant/)
 * [2023-08-30, 02:46:32](https://news.ycombinator.com/item?id=37317055) - [Bad Apple Font](https://blog.erk.dev/posts/anifont/)
 * [2023-08-30, 02:31:08](https://news.ycombinator.com/item?id=37316959) - [Jitsi.org has started requiring authentication](https://jitsi.org/blog/authentication-on-meet-jit-si/)
@@ -22,7 +23,6 @@
 * [2023-08-29, 15:57:58](https://news.ycombinator.com/item?id=37309818) - [MagicEdit: High-fidelity temporally coherent video editing](https://magic-edit.github.io/)
 * [2023-08-29, 15:41:33](https://news.ycombinator.com/item?id=37309575) - [Direct speech reconstruction from sensorimotor activity and deep learning models](https://iopscience.iop.org/article/10.1088/1741-2552/ace8be)
 * [2023-08-29, 14:48:20](https://news.ycombinator.com/item?id=37308747) - [Ask HN: Why did Python win?](https://news.ycombinator.com/item?id=37308747)
-* [2023-08-29, 13:36:05](https://news.ycombinator.com/item?id=37307708) - [Keystroke timing obfuscation added to ssh(1)](https://undeadly.org/cgi?action=article;sid=20230829051257)
 * [2023-08-29, 13:00:14](https://news.ycombinator.com/item?id=37307147) - [The brain connections between our hands and tongues](https://www.quantamagazine.org/the-hidden-brain-connections-between-our-hands-and-tongues-20230828/)
 * [2023-08-29, 11:17:02](https://news.ycombinator.com/item?id=37306018) - [Installing Mac OS on the Nintendo Wii [video]](https://www.youtube.com/watch?v=mdXQ8rcmF48)
 * [2023-08-29, 06:11:50](https://news.ycombinator.com/item?id=37304043) - [The geometry of diffusion guidance](https://sander.ai/2023/08/28/geometry.html)
