@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-30, 17:07:53",
+      "https://news.ycombinator.com/item?id=37325310"
+    ],
+    [
+      "Google kills two-year “Pixel Pass” subscription after just 22 months",
+      "https://arstechnica.com/gadgets/2023/08/google-kills-two-year-pixel-pass-subscription-after-just-22-months/"
+    ]
+  ],
+  [
+    [
       "2023-08-30, 17:00:58",
       "https://news.ycombinator.com/item?id=37325182"
     ],
@@ -17,6 +27,16 @@
     [
       "ThirdAI Uses Ray for Parallel Training of Billion-Parameter NN on Commodity CPUs",
       "https://www.anyscale.com/blog/how-thirdai-uses-ray-for-parallel-training-of-billion-parameter-neural-networks-on-commodity-cpus"
+    ]
+  ],
+  [
+    [
+      "2023-08-30, 16:57:35",
+      "https://news.ycombinator.com/item?id=37325120"
+    ],
+    [
+      "How South Korea’s Birth Rate Dropped Below Japan’s",
+      "https://www.nippon.com/en/in-depth/d00915/"
     ]
   ],
   [
@@ -47,6 +67,16 @@
     [
       "Long Live the 'GPU Poor' – Open-Source AI Grants",
       "https://a16z.com/2023/08/30/supporting-the-open-source-ai-community/"
+    ]
+  ],
+  [
+    [
+      "2023-08-30, 16:29:02",
+      "https://news.ycombinator.com/item?id=37324509"
+    ],
+    [
+      "How Might Life Migrate Through the Universe?",
+      "https://thereader.mitpress.mit.edu/how-might-life-migrate-through-the-universe/"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2023-08-30, 16:03:54",
-      "https://news.ycombinator.com/item?id=37324140"
-    ],
-    [
-      "Van Rossum, Gosling, Goldberg, Hejlsberg panel and live discussion at PyData '23",
-      "https://pydata.org/language-creator-fundraiser"
-    ]
-  ],
-  [
-    [
       "2023-08-30, 16:01:46",
       "https://news.ycombinator.com/item?id=37324121"
     ],
@@ -127,6 +147,16 @@
     [
       "Weight-based motor vehicle tax",
       "https://www.skatteetaten.no/en/rates/weight-based-motor-vehicle-tax/"
+    ]
+  ],
+  [
+    [
+      "2023-08-30, 15:40:06",
+      "https://news.ycombinator.com/item?id=37323834"
+    ],
+    [
+      "High-Speed AI Drone Overtakes World-Champion Drone Racers",
+      "https://www.news.uzh.ch/en/articles/media/2023/Drone-race.html"
     ]
   ],
   [
@@ -267,36 +297,6 @@
     [
       "New Map APIs from Google",
       "https://latlong.blog/2023/08/new-map-apis-from-google.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-30, 04:58:07",
-      "https://news.ycombinator.com/item?id=37317854"
-    ],
-    [
-      "Drawings of the Taj Mahal and Agra monument from the early 19th century",
-      "https://blogs.bl.uk/asian-and-african/2023/08/drawings-of-the-taj-mahal-and-agra-monuments-commissioned-by-lady-maria-nugent-in-the-early-19th-cen.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-30, 02:31:08",
-      "https://news.ycombinator.com/item?id=37316959"
-    ],
-    [
-      "Authentication on meet.jit.si",
-      "https://jitsi.org/blog/authentication-on-meet-jit-si/"
-    ]
-  ],
-  [
-    [
-      "2023-08-29, 20:17:54",
-      "https://news.ycombinator.com/item?id=37313349"
-    ],
-    [
-      "ISPs should not police online speech no matter how awful it is",
-      "https://www.eff.org/deeplinks/2023/08/isps-should-not-police-online-speech-no-matter-how-awful-it"
     ]
   ]
 ]
