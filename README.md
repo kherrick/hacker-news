@@ -13,6 +13,7 @@
 * [2023-08-29, 21:04:14](https://news.ycombinator.com/item?id=37314073) - [Meta AI releases CoTracker, a model for tracking any points (pixels) on a video](https://co-tracker.github.io/)
 * [2023-08-29, 20:26:50](https://news.ycombinator.com/item?id=37313493) - [How far can you jump from a swing?](https://www.alexmolas.com/2023/08/18/how-far-can-you-jump.html)
 * [2023-08-29, 20:17:54](https://news.ycombinator.com/item?id=37313349) - [ISPs should not police online speech no matter how awful it is](https://www.eff.org/deeplinks/2023/08/isps-should-not-police-online-speech-no-matter-how-awful-it)
+* [2023-08-29, 20:14:15](https://news.ycombinator.com/item?id=37313293) - [Drumscript: A simple MIDI drum machine scripting language](https://github.com/tepreece/drumscript)
 * [2023-08-29, 20:13:52](https://news.ycombinator.com/item?id=37313285) - [The Colonel’s Bequest – Case Cracked (2020)](https://www.benshoof.org/blog/case-cracked)
 * [2023-08-29, 20:06:11](https://news.ycombinator.com/item?id=37313183) - [Griffin – A fully-regulated, API-driven bank, with Clojure](https://www.juxt.pro/blog/clojure-in-griffin/)
 * [2023-08-29, 19:17:58](https://news.ycombinator.com/item?id=37312523) - [Webstudio: Open-source WYSIWYG adds Radix UI elements](https://webstudio.is/radix)
@@ -29,7 +30,6 @@
 * [2023-08-29, 05:59:00](https://news.ycombinator.com/item?id=37303983) - [Baby's first WASM compiler](https://www.scattered-thoughts.net/writing/babys-first-wasm-compiler/)
 * [2023-08-29, 03:49:51](https://news.ycombinator.com/item?id=37303365) - [A cheap radio hack disrupted Poland's railway system](https://www.wired.com/story/poland-train-radio-stop-attack/)
 * [2023-08-29, 00:47:03](https://news.ycombinator.com/item?id=37302176) - [The first observation of neutrinos at CERN's Large Hadron Collider](https://phys.org/news/2023-08-neutrinos-cern-large-hadron-collider.html)
-* [2023-08-28, 09:28:17](https://news.ycombinator.com/item?id=37291674) - [Analysis of obfuscations found in Apple FairPlay](https://nicolo.dev/en/blog/fairplay-apple-obfuscation/)
 
 ## [Archives](archives/index.md)
 
