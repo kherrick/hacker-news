@@ -11,6 +11,7 @@
 * [2023-08-30, 20:42:49](https://news.ycombinator.com/item?id=37328786) - [At Taser maker Axon, ex-staffers say loyalty meant being tased or tattooed](https://www.reuters.com/investigates/special-report/axon-taser-exposures/)
 * [2023-08-30, 20:32:21](https://news.ycombinator.com/item?id=37328609) - [Designing Deep Networks to Process Other Deep Networks](https://developer.nvidia.com/blog/designing-deep-networks-to-process-other-deep-networks/)
 * [2023-08-30, 20:20:51](https://news.ycombinator.com/item?id=37328422) - [ChatGPT user sessions are down 29% since May](https://sparktoro.com/blog/we-analyzed-millions-of-chatgpt-user-sessions-visits-are-down-29-since-may-programming-assistance-is-30-of-use/)
+* [2023-08-30, 19:44:28](https://news.ycombinator.com/item?id=37327895) - [Echo Chess: The Quest for Solvability](https://samiramly.com/chess)
 * [2023-08-30, 19:27:03](https://news.ycombinator.com/item?id=37327606) - [Making Amiga IFF Thumbnails Work in Linux](https://linuxjedi.co.uk/2023/08/24/making-amiga-iff-thumbnails-work-in-linux/)
 * [2023-08-30, 19:15:03](https://news.ycombinator.com/item?id=37327462) - [Pharmacist says he has filled Alzheimer's prescriptions for members of Congress](https://www.vox.com/policy-and-politics/2017/10/11/16458142/congress-alzheimers-pharmacist)
 * [2023-08-30, 19:13:29](https://news.ycombinator.com/item?id=37327432) - [We will all be dead soon](http://www.adambourg.com/interesting/not-mine/2023/08/28/we-will-all-be-dead-soon.html)
