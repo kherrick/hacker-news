@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 19:13:29](https://news.ycombinator.com/item?id=37327432) - [We will all be dead soon](http://www.adambourg.com/interesting/not-mine/2023/08/28/we-will-all-be-dead-soon.html)
 * [2023-08-30, 18:37:35](https://news.ycombinator.com/item?id=37326806) - [FCC refuses to scrap rule requiring ISPs to list every monthly fee](https://arstechnica.com/tech-policy/2023/08/fcc-says-too-bad-to-isps-complaining-that-listing-every-fee-is-too-hard/)
 * [2023-08-30, 18:17:27](https://news.ycombinator.com/item?id=37326501) - [Yes, people often forget to cancel monthly subscriptions – and the costs add up](https://text.npr.org/1196059950)
 * [2023-08-30, 18:12:38](https://news.ycombinator.com/item?id=37326419) - [Microsoft is discontinuing Visual Studio for Mac after major overhaul](https://9to5mac.com/2023/08/30/microsoft-visual-studio-mac-discontinued/)
@@ -22,6 +23,7 @@
 * [2023-08-30, 16:38:05](https://news.ycombinator.com/item?id=37324705) - [“AI has turned every WiFi router into a camera that can work in the dark”](https://twitter.com/sharyph_/status/1675021148310913025)
 * [2023-08-30, 16:37:29](https://news.ycombinator.com/item?id=37324687) - [STM32 Blue Pill as an Hid USB Keyboard](https://www.instructables.com/STM32-As-HID-USB-Keyboard-STM32-Tutorials/)
 * [2023-08-30, 16:37:23](https://news.ycombinator.com/item?id=37324683) - [Long Live the 'GPU Poor' – Open-Source AI Grants](https://a16z.com/2023/08/30/supporting-the-open-source-ai-community/)
+* [2023-08-30, 16:29:27](https://news.ycombinator.com/item?id=37324518) - [When should you use the IN instead of the OR operator in Postgres?](https://ottertune.com/blog/query-best-practices-when-should-you-use-the-in-instead-of-the-or-operator)
 * [2023-08-30, 16:29:02](https://news.ycombinator.com/item?id=37324509) - [How Might Life Migrate Through the Universe?](https://thereader.mitpress.mit.edu/how-might-life-migrate-through-the-universe/)
 * [2023-08-30, 16:28:46](https://news.ycombinator.com/item?id=37324503) - [OpenAI shatters revenue expectations, predicted to generate over $1B](https://the-decoder.com/openai-shatters-revenue-expectations-predicted-to-generate-over-1-billion/)
 * [2023-08-30, 16:24:39](https://news.ycombinator.com/item?id=37324427) - [I wrote, “Scrum is a cancer,” and the Internet had thoughts about it](https://twitter.com/svpino/status/1696869327335571833)
