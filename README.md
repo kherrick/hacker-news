@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-30, 08:43:33](https://news.ycombinator.com/item?id=37319219) - [Apple: Using cash is “clearly reckless”](https://blog.vexl.it/apple-using-cash-is-clearly-reckless-77e2a519a3bc)
+* [2023-08-30, 09:46:02](https://news.ycombinator.com/item?id=37319562) - [Titanium micro-spikes skewer resistant superbugs](https://www.rmit.edu.au/news/all-news/2023/aug/antifungal-titanium)
 * [2023-08-30, 08:41:55](https://news.ycombinator.com/item?id=37319209) - [Why a cancer scare around aspartame is mostly unfounded](https://www.economist.com/the-economist-explains/2023/07/13/why-a-cancer-scare-around-aspartame-is-mostly-unfounded)
 * [2023-08-30, 08:01:10](https://news.ycombinator.com/item?id=37318964) - [Phind (code beating GPT4) seems to have used WizardLM's finetuned checkpoint](https://twitter.com/WizardLM_AI/status/1696527036804989171)
 * [2023-08-30, 07:00:17](https://news.ycombinator.com/item?id=37318590) - [SigNoz (YC W21, Open source Observability tool) hiring DevRel engineers (remote)](https://signoz.io/careers/devrel-engineer-in/)
-* [2023-08-30, 06:36:36](https://news.ycombinator.com/item?id=37318445) - [How to shuffle a big dataset (2018)](https://blog.janestreet.com/how-to-shuffle-a-big-dataset/)
 * [2023-08-30, 04:45:14](https://news.ycombinator.com/item?id=37317776) - [Deno 1.36](https://deno.com/blog/v1.36)
+* [2023-08-30, 04:19:16](https://news.ycombinator.com/item?id=37317604) - [The end of cool small cars](https://www.blackbirdspyplane.com/p/the-end-of-cool-small-cars)
 * [2023-08-30, 03:26:47](https://news.ycombinator.com/item?id=37317321) - [Housing Is a Labor Issue: Land owners are taking all the wage gains](https://www.hamiltonnolan.com/p/housing-is-a-labor-issue)
 * [2023-08-30, 02:46:32](https://news.ycombinator.com/item?id=37317055) - [Bad Apple Font](https://blog.erk.dev/posts/anifont/)
 * [2023-08-30, 02:31:08](https://news.ycombinator.com/item?id=37316959) - [Authentication on meet.jit.si](https://jitsi.org/blog/authentication-on-meet-jit-si/)
