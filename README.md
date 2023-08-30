@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-30, 08:29:26](https://news.ycombinator.com/item?id=37319139) - [Climate change death toll to reach 1B by end of century](https://www.mdpi.com/1996-1073/16/16/6074)
 * [2023-08-30, 07:00:17](https://news.ycombinator.com/item?id=37318590) - [SigNoz (YC W21, Open source Observability tool) hiring DevRel engineers (remote)](https://signoz.io/careers/devrel-engineer-in/)
 * [2023-08-30, 06:36:36](https://news.ycombinator.com/item?id=37318445) - [How to shuffle a big dataset (2018)](https://blog.janestreet.com/how-to-shuffle-a-big-dataset/)
 * [2023-08-30, 02:46:32](https://news.ycombinator.com/item?id=37317055) - [Bad Apple Font](https://blog.erk.dev/posts/anifont/)
@@ -25,7 +26,6 @@
 * [2023-08-29, 13:36:05](https://news.ycombinator.com/item?id=37307708) - [Keystroke timing obfuscation added to ssh(1)](https://undeadly.org/cgi?action=article;sid=20230829051257)
 * [2023-08-29, 13:00:14](https://news.ycombinator.com/item?id=37307147) - [The brain connections between our hands and tongues](https://www.quantamagazine.org/the-hidden-brain-connections-between-our-hands-and-tongues-20230828/)
 * [2023-08-29, 11:17:02](https://news.ycombinator.com/item?id=37306018) - [Installing Mac OS on the Nintendo Wii [video]](https://www.youtube.com/watch?v=mdXQ8rcmF48)
-* [2023-08-29, 10:41:23](https://news.ycombinator.com/item?id=37305698) - [We always end up with waterfall](https://www.amazingcto.com/why-we-always-endup-with-waterfall-even-scrum/)
 * [2023-08-29, 06:11:50](https://news.ycombinator.com/item?id=37304043) - [The geometry of diffusion guidance](https://sander.ai/2023/08/28/geometry.html)
 * [2023-08-29, 05:59:00](https://news.ycombinator.com/item?id=37303983) - [Baby's first WASM compiler](https://www.scattered-thoughts.net/writing/babys-first-wasm-compiler/)
 * [2023-08-29, 03:49:51](https://news.ycombinator.com/item?id=37303365) - [A cheap radio hack disrupted Poland's railway system](https://www.wired.com/story/poland-train-radio-stop-attack/)

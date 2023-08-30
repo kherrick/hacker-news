@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 08:29:26](https://news.ycombinator.com/item?id=37319139) - [Climate change death toll to reach 1B by end of century](https://www.mdpi.com/1996-1073/16/16/6074)
 * [2023-08-30, 07:00:17](https://news.ycombinator.com/item?id=37318590) - [SigNoz (YC W21, Open source Observability tool) hiring DevRel engineers (remote)](https://signoz.io/careers/devrel-engineer-in/)
 * [2023-08-30, 06:36:36](https://news.ycombinator.com/item?id=37318445) - [How to shuffle a big dataset (2018)](https://blog.janestreet.com/how-to-shuffle-a-big-dataset/)
 * [2023-08-30, 04:48:21](https://news.ycombinator.com/item?id=37317796) - [Tesla ordered by auto regulators to provide data on ‘Elon mode’ configuration](https://www.cnbc.com/2023/08/30/tesla-ordered-by-nhtsa-to-provide-data-on-elon-mode-for-autopilot.html)
