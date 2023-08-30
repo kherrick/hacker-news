@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 22:58:06](https://news.ycombinator.com/item?id=37330234) - [Australia will not force age verification due to privacy and security concerns](https://www.theguardian.com/australia-news/2023/aug/31/roadmap-for-age-verification-online-pornographic-material-adult-websites-australia-law)
 * [2023-08-30, 22:32:31](https://news.ycombinator.com/item?id=37330024) - [Full Speed Ahead: EV Study Reveals Impacts of Fast Charging](https://www.recurrentauto.com/research/impacts-of-fast-charging)
 * [2023-08-30, 22:20:46](https://news.ycombinator.com/item?id=37329923) - [How to Install Lima(runs command line Ubuntu) on macOS Using 9 Easy Steps](https://www.cyberithub.com/how-to-install-lima-on-macos-using-9-easy-steps/)
 * [2023-08-30, 21:31:29](https://news.ycombinator.com/item?id=37329407) - [Lockheed Martin is having a streetwear moment in South Korea](https://mashable.com/article/lockheed-martin-apparel-streetwear-south-korea)
@@ -11,6 +12,7 @@
 * [2023-08-30, 21:15:36](https://news.ycombinator.com/item?id=37329261) - [Why do shared hospital rooms not violate HIPAA?](https://law.stackexchange.com/questions/28878/how-is-it-legal-for-a-hospital-to-put-two-patients-together-in-the-same-room-in)
 * [2023-08-30, 21:01:00](https://news.ycombinator.com/item?id=37329067) - [Mux (YC W16) is hiring a Sr Platform Engineer to work on video infra at scale](https://www.mux.com/jobs?j=srplatform)
 * [2023-08-30, 20:42:49](https://news.ycombinator.com/item?id=37328786) - [At Taser maker Axon, ex-staffers say loyalty meant being tased or tattooed](https://www.reuters.com/investigates/special-report/axon-taser-exposures/)
+* [2023-08-30, 20:35:25](https://news.ycombinator.com/item?id=37328669) - [Keisan Casio is shutting down](https://keisan.casio.com/keisan/abolition.php)
 * [2023-08-30, 20:32:21](https://news.ycombinator.com/item?id=37328609) - [Designing Deep Networks to Process Other Deep Networks](https://developer.nvidia.com/blog/designing-deep-networks-to-process-other-deep-networks/)
 * [2023-08-30, 20:20:51](https://news.ycombinator.com/item?id=37328422) - [ChatGPT user sessions are down 29% since May](https://sparktoro.com/blog/we-analyzed-millions-of-chatgpt-user-sessions-visits-are-down-29-since-may-programming-assistance-is-30-of-use/)
 * [2023-08-30, 19:44:28](https://news.ycombinator.com/item?id=37327895) - [Echo Chess: The Quest for Solvability](https://samiramly.com/chess)
