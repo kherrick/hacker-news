@@ -93,6 +93,7 @@
 * [2023-08-28, 10:17:33](https://news.ycombinator.com/item?id=37291962) - [The $2.98 Computer Library (1977)](https://www.atariarchives.org/bcc2/showpage.php?page=10)
 * [2023-08-28, 09:55:02](https://news.ycombinator.com/item?id=37291824) - [How many years to senior engineer?](https://swizec.com/blog/how-many-years-to-senior-engineer/)
 * [2023-08-28, 09:46:41](https://news.ycombinator.com/item?id=37291765) - [We Put Half a Million Files in One Git Repository, Here's What We Learned (2022)](https://www.canva.dev/blog/engineering/we-put-half-a-million-files-in-one-git-repository-heres-what-we-learned/)
+* [2023-08-28, 09:28:17](https://news.ycombinator.com/item?id=37291674) - [Analysis of obfuscations found in Apple FairPlay](https://nicolo.dev/en/blog/fairplay-apple-obfuscation/)
 * [2023-08-28, 09:16:26](https://news.ycombinator.com/item?id=37291607) - [The V Programming Language 0.4](https://vlang.io/)
 * [2023-08-28, 09:01:40](https://news.ycombinator.com/item?id=37291504) - [Fortran](https://fortran-lang.org/en/index.html)
 * [2023-08-28, 08:33:54](https://news.ycombinator.com/item?id=37291346) - [VanCubic Camper Modules Turn Your Cargo Van into a Modern House on Wheels in 1hr](https://www.autoevolution.com/news/vancubic-camper-modules-turn-your-cargo-van-into-a-modern-house-on-wheels-in-just-an-hour-220182.html)
