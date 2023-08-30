@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-30, 12:59:10](https://news.ycombinator.com/item?id=37321393) - [Could the Universe be a giant quantum computer?](https://www.nature.com/articles/d41586-023-02646-x)
 * [2023-08-30, 12:53:49](https://news.ycombinator.com/item?id=37321292) - [OSM River Basins](https://amandasaurus.github.io/osm-river-basins/#map=2/0/0)
 * [2023-08-30, 12:32:21](https://news.ycombinator.com/item?id=37321032) - [Understanding Llama 2 and the New Code Llama LLMs](https://magazine.sebastianraschka.com/p/ahead-of-ai-11-new-foundation-models)
 * [2023-08-30, 12:32:05](https://news.ycombinator.com/item?id=37321028) - [A DIY ‘bionic pancreas’ is changing diabetes care – what's next?](https://www.nature.com/articles/d41586-023-02648-9)
@@ -27,7 +28,6 @@
 * [2023-08-29, 20:17:54](https://news.ycombinator.com/item?id=37313349) - [ISPs should not police online speech no matter how awful it is](https://www.eff.org/deeplinks/2023/08/isps-should-not-police-online-speech-no-matter-how-awful-it)
 * [2023-08-29, 20:13:52](https://news.ycombinator.com/item?id=37313285) - [The Colonel’s Bequest – Case Cracked (2020)](https://www.benshoof.org/blog/case-cracked)
 * [2023-08-29, 13:00:14](https://news.ycombinator.com/item?id=37307147) - [The brain connections between our hands and tongues](https://www.quantamagazine.org/the-hidden-brain-connections-between-our-hands-and-tongues-20230828/)
-* [2023-08-29, 10:41:23](https://news.ycombinator.com/item?id=37305698) - [We always end up with waterfall](https://www.amazingcto.com/why-we-always-endup-with-waterfall-even-scrum/)
 * [2023-08-29, 06:11:50](https://news.ycombinator.com/item?id=37304043) - [The geometry of diffusion guidance](https://sander.ai/2023/08/28/geometry.html)
 * [2023-08-29, 05:59:00](https://news.ycombinator.com/item?id=37303983) - [Baby's first WASM compiler](https://www.scattered-thoughts.net/writing/babys-first-wasm-compiler/)
 

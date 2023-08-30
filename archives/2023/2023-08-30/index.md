@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 12:59:10](https://news.ycombinator.com/item?id=37321393) - [Could the Universe be a giant quantum computer?](https://www.nature.com/articles/d41586-023-02646-x)
 * [2023-08-30, 12:53:49](https://news.ycombinator.com/item?id=37321292) - [OSM River Basins](https://amandasaurus.github.io/osm-river-basins/#map=2/0/0)
 * [2023-08-30, 12:32:21](https://news.ycombinator.com/item?id=37321032) - [Understanding Llama 2 and the New Code Llama LLMs](https://magazine.sebastianraschka.com/p/ahead-of-ai-11-new-foundation-models)
 * [2023-08-30, 12:32:05](https://news.ycombinator.com/item?id=37321028) - [A DIY ‘bionic pancreas’ is changing diabetes care – what's next?](https://www.nature.com/articles/d41586-023-02648-9)
