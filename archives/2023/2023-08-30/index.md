@@ -7,6 +7,7 @@
 * [2023-08-30, 16:24:39](https://news.ycombinator.com/item?id=37324427) - [I wrote, “Scrum is a cancer,” and the Internet had thoughts about it](https://twitter.com/svpino/status/1696869327335571833)
 * [2023-08-30, 16:13:23](https://news.ycombinator.com/item?id=37324244) - [So What If Google Sends Me Targetted Ads?](https://theprivacydad.com/so-what-if-google-sends-me-targetted-ads/)
 * [2023-08-30, 16:10:34](https://news.ycombinator.com/item?id=37324202) - [2023 Paid VPN Relationship and Corporate VPN Ownership Map](https://windscribe.com/vpnmap)
+* [2023-08-30, 16:04:14](https://news.ycombinator.com/item?id=37324142) - [Two years unmasking a well-funded Silicon Valley 'apocalypse cult'](https://www.truthdig.com/articles/before-its-too-late-buddy/)
 * [2023-08-30, 16:00:41](https://news.ycombinator.com/item?id=37324104) - [Weight-based motor vehicle tax](https://www.skatteetaten.no/en/rates/weight-based-motor-vehicle-tax/)
 * [2023-08-30, 15:33:20](https://news.ycombinator.com/item?id=37323727) - [The End of the Googleverse](https://www.theverge.com/23846048/google-search-memes-images-pagerank-altavista-seo-keywords)
 * [2023-08-30, 15:24:08](https://news.ycombinator.com/item?id=37323604) - [Hacking the LG Monitor's EDID](https://gist.github.com/kj800x/be3001c07c49fdb36970633b0bc6defb)
