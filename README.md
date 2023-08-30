@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-29, 23:56:05](https://news.ycombinator.com/item?id=37315802) - [Intel Shows 8 Core 528 Thread Processor with Silicon Photonics](https://www.servethehome.com/intel-shows-8-core-528-thread-processor-with-silicon-photonics/)
 * [2023-08-29, 22:59:41](https://news.ycombinator.com/item?id=37315292) - [I’m so sorry for psychology’s loss, whatever it is](https://www.experimental-history.com/p/im-so-sorry-for-psychologys-loss)
 * [2023-08-29, 22:52:33](https://news.ycombinator.com/item?id=37315208) - [Equation Group Tools](https://github.com/x0rz/EQGRP)
 * [2023-08-29, 22:17:48](https://news.ycombinator.com/item?id=37314867) - [Pgvector 0.5.0 Feature Highlights and how tos](https://jkatz05.com/post/postgres/pgvector-overview-0.5.0/)
@@ -21,10 +22,9 @@
 * [2023-08-29, 14:24:21](https://news.ycombinator.com/item?id=37308405) - [Starlink's User Terminal Firmware](https://blog.quarkslab.com/starlink.html)
 * [2023-08-29, 13:44:20](https://news.ycombinator.com/item?id=37307828) - [C.R. Rao: A Life in Statistics (2020)](https://bhavana.org.in/c-r-rao-a-life-in-statistics/)
 * [2023-08-29, 13:36:05](https://news.ycombinator.com/item?id=37307708) - [Keystroke timing obfuscation added to ssh(1)](https://undeadly.org/cgi?action=article;sid=20230829051257)
-* [2023-08-29, 13:32:45](https://news.ycombinator.com/item?id=37307653) - [Analysis of Obfuscation Techniques Found in Apple FairPlay](https://nicolo.dev/en/blog/fairplay-apple-obfuscation/)
 * [2023-08-29, 13:21:34](https://news.ycombinator.com/item?id=37307473) - [Accessible Palette: stop using HSL for color systems (2021)](https://wildbit.com/blog/accessible-palette-stop-using-hsl-for-color-systems)
-* [2023-08-29, 12:38:44](https://news.ycombinator.com/item?id=37306853) - [Bobbi Gibb: The Boston Marathon pioneer who raced a lie](https://www.bbc.co.uk/sport/athletics/66615089)
 * [2023-08-29, 11:17:02](https://news.ycombinator.com/item?id=37306018) - [Installing Mac OS on the Nintendo Wii [video]](https://www.youtube.com/watch?v=mdXQ8rcmF48)
+* [2023-08-29, 11:14:46](https://news.ycombinator.com/item?id=37305998) - [Shapfuzz: Efficient Fuzzing via Shapley-Guided Byte Selection](https://arxiv.org/abs/2308.09239)
 * [2023-08-29, 10:51:31](https://news.ycombinator.com/item?id=37305800) - [Grave flaws in BGP Error handling](https://blog.benjojo.co.uk/post/bgp-path-attributes-grave-error-handling)
 * [2023-08-29, 09:48:30](https://news.ycombinator.com/item?id=37305338) - [Why does the USA use 110V and UK use 230-240V? (2014)](https://electronics.stackexchange.com/questions/115200/why-does-the-usa-use-110v-and-uk-use-230-240v)
 * [2023-08-29, 08:19:35](https://news.ycombinator.com/item?id=37304789) - [Abandoned and little-known airfields](http://www.airfields-freeman.com/)

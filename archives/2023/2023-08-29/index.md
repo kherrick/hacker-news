@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
+* [2023-08-29, 23:56:05](https://news.ycombinator.com/item?id=37315802) - [Intel Shows 8 Core 528 Thread Processor with Silicon Photonics](https://www.servethehome.com/intel-shows-8-core-528-thread-processor-with-silicon-photonics/)
 * [2023-08-29, 22:59:41](https://news.ycombinator.com/item?id=37315292) - [I’m so sorry for psychology’s loss, whatever it is](https://www.experimental-history.com/p/im-so-sorry-for-psychologys-loss)
 * [2023-08-29, 22:52:33](https://news.ycombinator.com/item?id=37315208) - [Equation Group Tools](https://github.com/x0rz/EQGRP)
 * [2023-08-29, 22:20:27](https://news.ycombinator.com/item?id=37314892) - [Apple Sep 2023 Event: “Wonderlust”](https://www.apple.com/apple-events/)
@@ -79,6 +80,7 @@
 * [2023-08-29, 11:20:52](https://news.ycombinator.com/item?id=37306058) - [Show HN: Advanced Tab Manager for Firefox](https://addons.mozilla.org/en-US/firefox/addon/grasshopper-urls/)
 * [2023-08-29, 11:20:23](https://news.ycombinator.com/item?id=37306055) - [Neutrons prove ‘Bond villain’ did not cause Arecibo telescope collapse](https://www.ornl.gov/news/neutrons-prove-bond-villain-did-not-cause-arecibo-telescope-collapse)
 * [2023-08-29, 11:17:02](https://news.ycombinator.com/item?id=37306018) - [Installing Mac OS on the Nintendo Wii [video]](https://www.youtube.com/watch?v=mdXQ8rcmF48)
+* [2023-08-29, 11:14:46](https://news.ycombinator.com/item?id=37305998) - [Shapfuzz: Efficient Fuzzing via Shapley-Guided Byte Selection](https://arxiv.org/abs/2308.09239)
 * [2023-08-29, 10:51:31](https://news.ycombinator.com/item?id=37305800) - [Grave flaws in BGP Error handling](https://blog.benjojo.co.uk/post/bgp-path-attributes-grave-error-handling)
 * [2023-08-29, 10:46:12](https://news.ycombinator.com/item?id=37305752) - [Exxon says world set to fail 2°C global warming cap by 2050](https://www.reuters.com/business/energy/exxon-projects-oil-gas-be-54-worlds-energy-needs-2050-2023-08-28/)
 * [2023-08-29, 09:55:20](https://news.ycombinator.com/item?id=37305383) - [Llama 2 is about as factually accurate as GPT-4 for summaries and is 30X cheaper](https://www.anyscale.com/blog/llama-2-is-about-as-factually-accurate-as-gpt-4-for-summaries-and-is-30x-cheaper)
