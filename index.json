@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-08-30, 18:37:35",
+      "https://news.ycombinator.com/item?id=37326806"
+    ],
+    [
+      "FCC refuses to scrap rule requiring ISPs to list every monthly fee",
+      "https://arstechnica.com/tech-policy/2023/08/fcc-says-too-bad-to-isps-complaining-that-listing-every-fee-is-too-hard/"
+    ]
+  ],
+  [
+    [
       "2023-08-30, 18:08:57",
       "https://news.ycombinator.com/item?id=37326355"
     ],
     [
       "EV Chargers Should Be Dumber",
       "https://heatmap.news/electric-vehicles/nema-14-50-mobile-charger-lucid-air"
+    ]
+  ],
+  [
+    [
+      "2023-08-30, 17:31:07",
+      "https://news.ycombinator.com/item?id=37325711"
+    ],
+    [
+      "Shocks to the System: Don DeLillo’s Novels of the Cold War and Its Aftermath",
+      "https://www.bookforum.com/print/3001/don-delillo-s-novels-of-the-cold-war-and-its-aftermath-25202"
     ]
   ],
   [
@@ -51,22 +71,12 @@
   ],
   [
     [
-      "2023-08-30, 16:57:35",
-      "https://news.ycombinator.com/item?id=37325120"
+      "2023-08-30, 16:39:11",
+      "https://news.ycombinator.com/item?id=37324733"
     ],
     [
-      "How South Korea’s Birth Rate Dropped Below Japan’s",
-      "https://www.nippon.com/en/in-depth/d00915/"
-    ]
-  ],
-  [
-    [
-      "2023-08-30, 16:55:19",
-      "https://news.ycombinator.com/item?id=37325080"
-    ],
-    [
-      "Open Space Toolkit – collection of versatile libraries for aerospace engineering",
-      "https://github.com/open-space-collective/open-space-toolkit"
+      "Population.io",
+      "https://mobile.population.io/"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "How Might Life Migrate Through the Universe?",
       "https://thereader.mitpress.mit.edu/how-might-life-migrate-through-the-universe/"
-    ]
-  ],
-  [
-    [
-      "2023-08-30, 16:24:39",
-      "https://news.ycombinator.com/item?id=37324427"
-    ],
-    [
-      "I wrote, “Scrum is a cancer,” and the Internet had thoughts about it",
-      "https://twitter.com/svpino/status/1696869327335571833"
     ]
   ],
   [
@@ -187,16 +187,6 @@
     [
       "How to get transactions between almost any data stores",
       "https://petereliaskraft.net/blog/epoxy"
-    ]
-  ],
-  [
-    [
-      "2023-08-30, 13:42:39",
-      "https://news.ycombinator.com/item?id=37322025"
-    ],
-    [
-      "The Surprising Impact of Medium-Size Texts on PostgreSQL Performance (2020)",
-      "https://hakibenita.com/sql-medium-text-performance"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "New Map APIs from Google",
       "https://latlong.blog/2023/08/new-map-apis-from-google.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-30, 07:34:19",
+      "https://news.ycombinator.com/item?id=37318810"
+    ],
+    [
+      "ChatLZMA – text generation from data compression",
+      "http://pepijndevos.nl/2023/07/15/chatlmza.html"
     ]
   ],
   [
