@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-30, 11:17:04](https://news.ycombinator.com/item?id=37320304) - [Buffer Overflows in Notepad++](https://securitylab.github.com/advisories/GHSL-2023-092_Notepad__/)
 * [2023-08-30, 11:06:30](https://news.ycombinator.com/item?id=37320211) - [Politicians, scientists spar over alleged NIH coverup using COVID19 origin paper](https://www.science.org/content/article/politicians-scientists-spar-over-alleged-nih-cover-up-using-covid-19-origin-paper)
 * [2023-08-30, 10:04:35](https://news.ycombinator.com/item?id=37319666) - [DevTools Tips](https://devtoolstips.org/)
 * [2023-08-30, 09:58:35](https://news.ycombinator.com/item?id=37319626) - [Fairphone 5](https://shop.fairphone.com/fairphone-5)
@@ -20,7 +21,6 @@
 * [2023-08-29, 23:40:27](https://news.ycombinator.com/item?id=37315667) - [Show HN: Query your database using plain English on premise](https://www.vizly.fyi/)
 * [2023-08-29, 21:04:14](https://news.ycombinator.com/item?id=37314073) - [Meta AI releases CoTracker, a model for tracking any points (pixels) on a video](https://co-tracker.github.io/)
 * [2023-08-29, 20:28:01](https://news.ycombinator.com/item?id=37313516) - [How Correlated Are You?](https://www.allendowney.com/blog/2023/08/20/how-correlated-are-you/)
-* [2023-08-29, 20:26:50](https://news.ycombinator.com/item?id=37313493) - [How far can you jump from a swing?](https://www.alexmolas.com/2023/08/18/how-far-can-you-jump.html)
 * [2023-08-29, 20:17:54](https://news.ycombinator.com/item?id=37313349) - [ISPs should not police online speech no matter how awful it is](https://www.eff.org/deeplinks/2023/08/isps-should-not-police-online-speech-no-matter-how-awful-it)
 * [2023-08-29, 20:13:52](https://news.ycombinator.com/item?id=37313285) - [The Colonel’s Bequest – Case Cracked (2020)](https://www.benshoof.org/blog/case-cracked)
 * [2023-08-29, 20:06:11](https://news.ycombinator.com/item?id=37313183) - [Griffin – A fully-regulated, API-driven bank, with Clojure](https://www.juxt.pro/blog/clojure-in-griffin/)
