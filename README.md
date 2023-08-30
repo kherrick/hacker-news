@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-30, 08:43:33](https://news.ycombinator.com/item?id=37319219) - [Apple: Using cash is “clearly reckless”](https://blog.vexl.it/apple-using-cash-is-clearly-reckless-77e2a519a3bc)
 * [2023-08-30, 08:41:55](https://news.ycombinator.com/item?id=37319209) - [Why a cancer scare around aspartame is mostly unfounded](https://www.economist.com/the-economist-explains/2023/07/13/why-a-cancer-scare-around-aspartame-is-mostly-unfounded)
 * [2023-08-30, 08:01:10](https://news.ycombinator.com/item?id=37318964) - [Phind (code beating GPT4) seems to have used WizardLM's finetuned checkpoint](https://twitter.com/WizardLM_AI/status/1696527036804989171)
 * [2023-08-30, 07:00:17](https://news.ycombinator.com/item?id=37318590) - [SigNoz (YC W21, Open source Observability tool) hiring DevRel engineers (remote)](https://signoz.io/careers/devrel-engineer-in/)
 * [2023-08-30, 06:36:36](https://news.ycombinator.com/item?id=37318445) - [How to shuffle a big dataset (2018)](https://blog.janestreet.com/how-to-shuffle-a-big-dataset/)
 * [2023-08-30, 04:45:14](https://news.ycombinator.com/item?id=37317776) - [Deno 1.36](https://deno.com/blog/v1.36)
+* [2023-08-30, 03:26:47](https://news.ycombinator.com/item?id=37317321) - [Housing Is a Labor Issue: Land owners are taking all the wage gains](https://www.hamiltonnolan.com/p/housing-is-a-labor-issue)
 * [2023-08-30, 02:46:32](https://news.ycombinator.com/item?id=37317055) - [Bad Apple Font](https://blog.erk.dev/posts/anifont/)
 * [2023-08-30, 02:31:08](https://news.ycombinator.com/item?id=37316959) - [Authentication on meet.jit.si](https://jitsi.org/blog/authentication-on-meet-jit-si/)
 * [2023-08-30, 02:24:31](https://news.ycombinator.com/item?id=37316919) - [Applying SRE Principles to CI/CD](https://buildkite.com/blog/applying-sre-principles-to-cicd)
@@ -22,14 +24,12 @@
 * [2023-08-29, 20:06:11](https://news.ycombinator.com/item?id=37313183) - [Griffin – A fully-regulated, API-driven bank, with Clojure](https://www.juxt.pro/blog/clojure-in-griffin/)
 * [2023-08-29, 19:17:58](https://news.ycombinator.com/item?id=37312523) - [Webstudio: Open-source WYSIWYG adds Radix UI elements](https://webstudio.is/radix)
 * [2023-08-29, 19:08:23](https://news.ycombinator.com/item?id=37312385) - [MapReduce, TensorFlow, Vertex: Google's bet to avoid repeating history in AI](https://www.supervised.news/p/mapreduce-tensorflow-bard-also-hello)
-* [2023-08-29, 18:35:16](https://news.ycombinator.com/item?id=37311975) - [Hacking GTA V RP Servers Using Web Exploitation Techniques](https://www.nullpt.rs/hacking-gta-servers-using-web-exploitation)
 * [2023-08-29, 15:41:33](https://news.ycombinator.com/item?id=37309575) - [Direct speech reconstruction from sensorimotor activity and deep learning models](https://iopscience.iop.org/article/10.1088/1741-2552/ace8be)
 * [2023-08-29, 13:36:05](https://news.ycombinator.com/item?id=37307708) - [Keystroke timing obfuscation added to ssh(1)](https://undeadly.org/cgi?action=article;sid=20230829051257)
 * [2023-08-29, 13:00:14](https://news.ycombinator.com/item?id=37307147) - [The brain connections between our hands and tongues](https://www.quantamagazine.org/the-hidden-brain-connections-between-our-hands-and-tongues-20230828/)
 * [2023-08-29, 11:17:02](https://news.ycombinator.com/item?id=37306018) - [Installing Mac OS on the Nintendo Wii [video]](https://www.youtube.com/watch?v=mdXQ8rcmF48)
 * [2023-08-29, 06:11:50](https://news.ycombinator.com/item?id=37304043) - [The geometry of diffusion guidance](https://sander.ai/2023/08/28/geometry.html)
 * [2023-08-29, 05:59:00](https://news.ycombinator.com/item?id=37303983) - [Baby's first WASM compiler](https://www.scattered-thoughts.net/writing/babys-first-wasm-compiler/)
-* [2023-08-29, 00:47:03](https://news.ycombinator.com/item?id=37302176) - [The first observation of neutrinos at CERN's Large Hadron Collider](https://phys.org/news/2023-08-neutrinos-cern-large-hadron-collider.html)
 
 ## [Archives](archives/index.md)
 
