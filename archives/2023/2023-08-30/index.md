@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 21:01:00](https://news.ycombinator.com/item?id=37329067) - [Mux (YC W16) is hiring a Sr Platform Engineer to work on video infra at scale](https://www.mux.com/jobs?j=srplatform)
 * [2023-08-30, 20:32:21](https://news.ycombinator.com/item?id=37328609) - [Designing Deep Networks to Process Other Deep Networks](https://developer.nvidia.com/blog/designing-deep-networks-to-process-other-deep-networks/)
 * [2023-08-30, 20:20:51](https://news.ycombinator.com/item?id=37328422) - [ChatGPT user sessions are down 29% since May](https://sparktoro.com/blog/we-analyzed-millions-of-chatgpt-user-sessions-visits-are-down-29-since-may-programming-assistance-is-30-of-use/)
 * [2023-08-30, 19:15:03](https://news.ycombinator.com/item?id=37327462) - [Pharmacist says he has filled Alzheimer's prescriptions for members of Congress](https://www.vox.com/policy-and-politics/2017/10/11/16458142/congress-alzheimers-pharmacist)
@@ -44,6 +45,7 @@
 * [2023-08-30, 15:35:16](https://news.ycombinator.com/item?id=37323760) - [On (My) Caste](https://www.cs.toronto.edu/~meel/opinions/caste.html)
 * [2023-08-30, 15:33:20](https://news.ycombinator.com/item?id=37323727) - [The End of the Googleverse](https://www.theverge.com/23846048/google-search-memes-images-pagerank-altavista-seo-keywords)
 * [2023-08-30, 15:24:08](https://news.ycombinator.com/item?id=37323604) - [Hacking the LG Monitor's EDID](https://gist.github.com/kj800x/be3001c07c49fdb36970633b0bc6defb)
+* [2023-08-30, 14:55:13](https://news.ycombinator.com/item?id=37323092) - [Developing 120-Year-Old Photos Found in a Time Capsule [video]](https://www.youtube.com/watch?v=IoDj4mXdqmc)
 * [2023-08-30, 14:53:43](https://news.ycombinator.com/item?id=37323066) - [Decoupling isn't phoney – The global trading system is starting to rearrange](https://www.noahpinion.blog/p/decoupling-isnt-phoney)
 * [2023-08-30, 14:37:28](https://news.ycombinator.com/item?id=37322794) - [Multiplix, operating system kernel for RISC-V and AArch64 SBCs](https://github.com/zyedidia/multiplix)
 * [2023-08-30, 14:30:35](https://news.ycombinator.com/item?id=37322700) - [CA Supreme Court Concludes No Reason to Generate Precedent on Geofence Warrants](https://www.techdirt.com/2023/08/29/california-supreme-court-decides-theres-no-reason-to-generate-precedent-on-geofence-warrants/)
