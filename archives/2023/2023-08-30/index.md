@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 19:15:03](https://news.ycombinator.com/item?id=37327462) - [Pharmacist says he has filled Alzheimer's prescriptions for members of Congress](https://www.vox.com/policy-and-politics/2017/10/11/16458142/congress-alzheimers-pharmacist)
 * [2023-08-30, 19:13:29](https://news.ycombinator.com/item?id=37327432) - [We will all be dead soon](http://www.adambourg.com/interesting/not-mine/2023/08/28/we-will-all-be-dead-soon.html)
 * [2023-08-30, 18:37:35](https://news.ycombinator.com/item?id=37326806) - [FCC refuses to scrap rule requiring ISPs to list every monthly fee](https://arstechnica.com/tech-policy/2023/08/fcc-says-too-bad-to-isps-complaining-that-listing-every-fee-is-too-hard/)
 * [2023-08-30, 18:17:27](https://news.ycombinator.com/item?id=37326501) - [Yes, people often forget to cancel monthly subscriptions – and the costs add up](https://text.npr.org/1196059950)

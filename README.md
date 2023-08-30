@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-30, 19:13:29](https://news.ycombinator.com/item?id=37327432) - [We will all be dead soon](http://www.adambourg.com/interesting/not-mine/2023/08/28/we-will-all-be-dead-soon.html)
+* [2023-08-30, 19:15:03](https://news.ycombinator.com/item?id=37327462) - [Pharmacist says he has filled Alzheimer's prescriptions for members of Congress](https://www.vox.com/policy-and-politics/2017/10/11/16458142/congress-alzheimers-pharmacist)
 * [2023-08-30, 18:37:35](https://news.ycombinator.com/item?id=37326806) - [FCC refuses to scrap rule requiring ISPs to list every monthly fee](https://arstechnica.com/tech-policy/2023/08/fcc-says-too-bad-to-isps-complaining-that-listing-every-fee-is-too-hard/)
-* [2023-08-30, 18:12:38](https://news.ycombinator.com/item?id=37326419) - [Microsoft is discontinuing Visual Studio for Mac after major overhaul](https://9to5mac.com/2023/08/30/microsoft-visual-studio-mac-discontinued/)
+* [2023-08-30, 18:17:27](https://news.ycombinator.com/item?id=37326501) - [Yes, people often forget to cancel monthly subscriptions – and the costs add up](https://text.npr.org/1196059950)
 * [2023-08-30, 17:31:07](https://news.ycombinator.com/item?id=37325711) - [Shocks to the System: Don DeLillo’s Novels of the Cold War and Its Aftermath](https://www.bookforum.com/print/3001/don-delillo-s-novels-of-the-cold-war-and-its-aftermath-25202)
 * [2023-08-30, 17:25:55](https://news.ycombinator.com/item?id=37325622) - [Photogrammetry on Commercial Flights (2021)](https://leifgehrmann.com/2021/09/05/photogrammetry-on-a-plane/)
 * [2023-08-30, 17:07:53](https://news.ycombinator.com/item?id=37325310) - [Google kills two-year “Pixel Pass” subscription after just 22 months](https://arstechnica.com/gadgets/2023/08/google-kills-two-year-pixel-pass-subscription-after-just-22-months/)
