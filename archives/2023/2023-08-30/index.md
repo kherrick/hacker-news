@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
 * [2023-08-30, 18:37:35](https://news.ycombinator.com/item?id=37326806) - [FCC refuses to scrap rule requiring ISPs to list every monthly fee](https://arstechnica.com/tech-policy/2023/08/fcc-says-too-bad-to-isps-complaining-that-listing-every-fee-is-too-hard/)
+* [2023-08-30, 18:17:27](https://news.ycombinator.com/item?id=37326501) - [Yes, people often forget to cancel monthly subscriptions – and the costs add up](https://text.npr.org/1196059950)
 * [2023-08-30, 18:12:38](https://news.ycombinator.com/item?id=37326419) - [Microsoft is discontinuing Visual Studio for Mac after major overhaul](https://9to5mac.com/2023/08/30/microsoft-visual-studio-mac-discontinued/)
 * [2023-08-30, 18:08:57](https://news.ycombinator.com/item?id=37326355) - [EV Chargers Should Be Dumber](https://heatmap.news/electric-vehicles/nema-14-50-mobile-charger-lucid-air)
 * [2023-08-30, 17:59:50](https://news.ycombinator.com/item?id=37326205) - [Netlify Announces the Evolution of Cloud Platform](https://www.netlify.com/blog/gatsby-cloud-evolution/)
@@ -68,6 +69,7 @@
 * [2023-08-30, 10:04:35](https://news.ycombinator.com/item?id=37319666) - [DevTools Tips](https://devtoolstips.org/)
 * [2023-08-30, 09:58:35](https://news.ycombinator.com/item?id=37319626) - [Fairphone 5](https://shop.fairphone.com/fairphone-5)
 * [2023-08-30, 09:46:02](https://news.ycombinator.com/item?id=37319562) - [Titanium micro-spikes skewer resistant superbugs](https://www.rmit.edu.au/news/all-news/2023/aug/antifungal-titanium)
+* [2023-08-30, 09:41:49](https://news.ycombinator.com/item?id=37319537) - [Making life (even) harder for proprietary modules](https://lwn.net/Articles/939842/)
 * [2023-08-30, 09:41:49](https://news.ycombinator.com/item?id=37319537) - [Linux 6.6 to Protect Against Illicit Behavior of Nvidia Proprietary Driver](https://www.phoronix.com/news/Linux-6.6-Illicit-NVIDIA-Change)
 * [2023-08-30, 09:35:59](https://news.ycombinator.com/item?id=37319500) - [New Map APIs from Google](https://latlong.blog/2023/08/new-map-apis-from-google.html)
 * [2023-08-30, 09:35:59](https://news.ycombinator.com/item?id=37319500) - [New Map APIs from Google](https://cloud.google.com/blog/products/maps-platform/going-beyond-map-introducing-environment-apis)

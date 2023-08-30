@@ -42,6 +42,7 @@
 * [2023-08-29, 16:46:16](https://news.ycombinator.com/item?id=37310531) - [Reinforced Self-Training (ReST) for Language Modeling](https://arxiv.org/abs/2308.08998)
 * [2023-08-29, 16:46:04](https://news.ycombinator.com/item?id=37310528) - [Google, Amazon, Nvidia, and others invest $235M in Hugging Face](https://www.theverge.com/2023/8/24/23844444/google-amazon-nvidia-hugging-face-generative-ai-investment)
 * [2023-08-29, 16:30:26](https://news.ycombinator.com/item?id=37310314) - [Embracing Sabbaticals, Sunsetting Retirement Age](https://jacek.migdal.pl/2023/08/16/sabbaticals.html)
+* [2023-08-29, 16:23:03](https://news.ycombinator.com/item?id=37310216) - [Lunik: The CIA’s plot to steal a Soviet satellite (2021)](https://www.technologyreview.com/2021/01/28/1016867/lunik-cia-heist-steal-russian-satellite-space-us-ussr/)
 * [2023-08-29, 16:14:06](https://news.ycombinator.com/item?id=37310070) - [Show HN: Langfuse – Open-source observability and analytics for LLM apps](https://github.com/langfuse/langfuse)
 * [2023-08-29, 15:57:58](https://news.ycombinator.com/item?id=37309818) - [MagicEdit: High-Fidelity Temporally Coherent Video Editing](https://magic-edit.github.io/)
 * [2023-08-29, 15:55:28](https://news.ycombinator.com/item?id=37309786) - [An End, and a Beginning](https://museapp.com/end-and-beginning/)
