@@ -105,6 +105,7 @@
 * [2023-08-29, 06:35:54](https://news.ycombinator.com/item?id=37304153) - [Source: Google Pixel 8 will get more Android OS updates](https://9to5google.com/2023/08/28/google-pixel-8-android-os-updates/)
 * [2023-08-29, 06:30:17](https://news.ycombinator.com/item?id=37304125) - [A note to young folks: download the things you love](https://birchtree.me/blog/a-note-to-young-folks-download-the-videos-you-love/)
 * [2023-08-29, 06:24:56](https://news.ycombinator.com/item?id=37304104) - [Germany Is Losing Its Mojo. Finding It Again Won’t Be Easy](https://www.wsj.com/world/europe/germany-is-losing-its-mojo-finding-it-again-wont-be-easy-c4b46761)
+* [2023-08-29, 06:11:50](https://news.ycombinator.com/item?id=37304043) - [The geometry of diffusion guidance](https://sander.ai/2023/08/28/geometry.html)
 * [2023-08-29, 06:01:28](https://news.ycombinator.com/item?id=37303993) - [Traffic 101: Packets Mostly Flow](https://slack.engineering/traffic-101-packets-mostly-flow/)
 * [2023-08-29, 05:59:00](https://news.ycombinator.com/item?id=37303983) - [Baby's first WASM compiler](https://www.scattered-thoughts.net/writing/babys-first-wasm-compiler/)
 * [2023-08-29, 05:55:40](https://news.ycombinator.com/item?id=37303960) - [Alexandria: A minimalistic cross-platform eBook reader](https://github.com/btpf/Alexandria)
