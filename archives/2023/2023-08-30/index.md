@@ -4,9 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 12:31:30](https://news.ycombinator.com/item?id=37321023) - [Farmers Insurance Laying Off 11% of Workforce, Citing Industry Challenges](https://www.insurancejournal.com/news/national/2023/08/28/738095.htm)
+* [2023-08-30, 12:27:11](https://news.ycombinator.com/item?id=37320975) - [Hundreds of thousands trafficked to work as online scammers in SE Asia](https://www.ohchr.org/en/press-releases/2023/08/hundreds-thousands-trafficked-work-online-scammers-se-asia-says-un-report)
+* [2023-08-30, 12:07:39](https://news.ycombinator.com/item?id=37320786) - [Windows 11 will respect default browser for system apps in the European Union](https://blogs.windows.com/windows-insider/2023/08/25/announcing-windows-11-insider-preview-build-23531-dev-channel/)
 * [2023-08-30, 12:00:37](https://news.ycombinator.com/item?id=37320729) - [Lago – Open-Source Stripe Billing Alternative Is Hiring a Content Lead](https://news.ycombinator.com/item?id=37320729)
+* [2023-08-30, 11:40:48](https://news.ycombinator.com/item?id=37320516) - [<N> Guilty Men](https://www2.law.ucla.edu/volokh/guilty.htm)
+* [2023-08-30, 11:35:40](https://news.ycombinator.com/item?id=37320476) - [Putin’s Cinema Fund Rejects Movie Piracy, Fuming Cinema Boss Demands Barbie](https://torrentfreak.com/putins-cinema-fund-rejects-movie-piracy-fuming-cinema-boss-demands-barbie-230830/)
 * [2023-08-30, 11:17:04](https://news.ycombinator.com/item?id=37320304) - [Buffer Overflows in Notepad++](https://securitylab.github.com/advisories/GHSL-2023-092_Notepad__/)
 * [2023-08-30, 11:06:30](https://news.ycombinator.com/item?id=37320211) - [Politicians, scientists spar over alleged NIH coverup using COVID19 origin paper](https://www.science.org/content/article/politicians-scientists-spar-over-alleged-nih-cover-up-using-covid-19-origin-paper)
+* [2023-08-30, 10:47:27](https://news.ycombinator.com/item?id=37320037) - [DIY ESP32 based chicken coop door. Control based on time, light or via app](https://github.com/ESP32-COOP/ESP32-COOP-DOC)
 * [2023-08-30, 10:27:56](https://news.ycombinator.com/item?id=37319841) - [Why McDonald's Ice Cream Machines Are Always Broken and How to Fix Them](https://www.youtube.com/watch?v=2uCpY3tFTIA)
 * [2023-08-30, 10:04:35](https://news.ycombinator.com/item?id=37319666) - [DevTools Tips](https://devtoolstips.org/)
 * [2023-08-30, 09:58:35](https://news.ycombinator.com/item?id=37319626) - [Fairphone 5](https://shop.fairphone.com/fairphone-5)
@@ -22,6 +28,7 @@
 * [2023-08-30, 07:00:17](https://news.ycombinator.com/item?id=37318590) - [SigNoz (YC W21, Open source Observability tool) hiring DevRel engineers (remote)](https://signoz.io/careers/devrel-engineer-in/)
 * [2023-08-30, 06:36:36](https://news.ycombinator.com/item?id=37318445) - [How to shuffle a big dataset (2018)](https://blog.janestreet.com/how-to-shuffle-a-big-dataset/)
 * [2023-08-30, 05:03:57](https://news.ycombinator.com/item?id=37317883) - [Digging on the Dark Side of the Volcano](https://www.archaeology.org/issues/526-2309/letter-from/11661-vesuvius-dark-side)
+* [2023-08-30, 04:58:07](https://news.ycombinator.com/item?id=37317854) - [Drawings of the Taj Mahal and Agra monument from the early 19th century](https://blogs.bl.uk/asian-and-african/2023/08/drawings-of-the-taj-mahal-and-agra-monuments-commissioned-by-lady-maria-nugent-in-the-early-19th-cen.html)
 * [2023-08-30, 04:48:21](https://news.ycombinator.com/item?id=37317796) - [Tesla ordered by auto regulators to provide data on ‘Elon mode’ configuration](https://www.cnbc.com/2023/08/30/tesla-ordered-by-nhtsa-to-provide-data-on-elon-mode-for-autopilot.html)
 * [2023-08-30, 04:45:14](https://news.ycombinator.com/item?id=37317776) - [Deno 1.36](https://deno.com/blog/v1.36)
 * [2023-08-30, 04:19:16](https://news.ycombinator.com/item?id=37317604) - [The end of cool small cars](https://www.blackbirdspyplane.com/p/the-end-of-cool-small-cars)
