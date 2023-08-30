@@ -25,11 +25,11 @@
 * [2023-08-29, 13:36:05](https://news.ycombinator.com/item?id=37307708) - [Keystroke timing obfuscation added to ssh(1)](https://undeadly.org/cgi?action=article;sid=20230829051257)
 * [2023-08-29, 13:00:14](https://news.ycombinator.com/item?id=37307147) - [The brain connections between our hands and tongues](https://www.quantamagazine.org/the-hidden-brain-connections-between-our-hands-and-tongues-20230828/)
 * [2023-08-29, 11:17:02](https://news.ycombinator.com/item?id=37306018) - [Installing Mac OS on the Nintendo Wii [video]](https://www.youtube.com/watch?v=mdXQ8rcmF48)
-* [2023-08-29, 10:41:23](https://news.ycombinator.com/item?id=37305698) - [We always end up with waterfall](https://www.amazingcto.com/why-we-always-endup-with-waterfall-even-scrum/)
 * [2023-08-29, 06:11:50](https://news.ycombinator.com/item?id=37304043) - [The geometry of diffusion guidance](https://sander.ai/2023/08/28/geometry.html)
 * [2023-08-29, 05:59:00](https://news.ycombinator.com/item?id=37303983) - [Baby's first WASM compiler](https://www.scattered-thoughts.net/writing/babys-first-wasm-compiler/)
 * [2023-08-29, 03:49:51](https://news.ycombinator.com/item?id=37303365) - [A cheap radio hack disrupted Poland's railway system](https://www.wired.com/story/poland-train-radio-stop-attack/)
 * [2023-08-29, 00:47:03](https://news.ycombinator.com/item?id=37302176) - [The first observation of neutrinos at CERN's Large Hadron Collider](https://phys.org/news/2023-08-neutrinos-cern-large-hadron-collider.html)
+* [2023-08-28, 09:28:17](https://news.ycombinator.com/item?id=37291674) - [Analysis of obfuscations found in Apple FairPlay](https://nicolo.dev/en/blog/fairplay-apple-obfuscation/)
 
 ## [Archives](archives/index.md)
 
