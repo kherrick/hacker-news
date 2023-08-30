@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-30, 18:37:35](https://news.ycombinator.com/item?id=37326806) - [FCC refuses to scrap rule requiring ISPs to list every monthly fee](https://arstechnica.com/tech-policy/2023/08/fcc-says-too-bad-to-isps-complaining-that-listing-every-fee-is-too-hard/)
-* [2023-08-30, 18:08:57](https://news.ycombinator.com/item?id=37326355) - [EV Chargers Should Be Dumber](https://heatmap.news/electric-vehicles/nema-14-50-mobile-charger-lucid-air)
+* [2023-08-30, 18:12:38](https://news.ycombinator.com/item?id=37326419) - [Microsoft is discontinuing Visual Studio for Mac after major overhaul](https://9to5mac.com/2023/08/30/microsoft-visual-studio-mac-discontinued/)
 * [2023-08-30, 17:31:07](https://news.ycombinator.com/item?id=37325711) - [Shocks to the System: Don DeLillo’s Novels of the Cold War and Its Aftermath](https://www.bookforum.com/print/3001/don-delillo-s-novels-of-the-cold-war-and-its-aftermath-25202)
 * [2023-08-30, 17:25:55](https://news.ycombinator.com/item?id=37325622) - [Photogrammetry on Commercial Flights (2021)](https://leifgehrmann.com/2021/09/05/photogrammetry-on-a-plane/)
 * [2023-08-30, 17:07:53](https://news.ycombinator.com/item?id=37325310) - [Google kills two-year “Pixel Pass” subscription after just 22 months](https://arstechnica.com/gadgets/2023/08/google-kills-two-year-pixel-pass-subscription-after-just-22-months/)
@@ -27,7 +27,7 @@
 * [2023-08-30, 11:40:48](https://news.ycombinator.com/item?id=37320516) - [n Guilty Men (1997)](https://www2.law.ucla.edu/volokh/guilty.htm)
 * [2023-08-30, 10:51:00](https://news.ycombinator.com/item?id=37320071) - [A case for dynamic scoring of high-skilled immigration](https://www.slowboring.com/p/a-serious-case-for-dynamic-scoring)
 * [2023-08-30, 10:47:27](https://news.ycombinator.com/item?id=37320037) - [DIY ESP32 based chicken coop door. Control based on time, light or via app](https://github.com/ESP32-COOP/ESP32-COOP-DOC)
-* [2023-08-30, 09:35:59](https://news.ycombinator.com/item?id=37319500) - [New Map APIs from Google](https://latlong.blog/2023/08/new-map-apis-from-google.html)
+* [2023-08-30, 09:35:59](https://news.ycombinator.com/item?id=37319500) - [New Map APIs from Google](https://cloud.google.com/blog/products/maps-platform/going-beyond-map-introducing-environment-apis)
 * [2023-08-30, 07:34:19](https://news.ycombinator.com/item?id=37318810) - [ChatLZMA – text generation from data compression](http://pepijndevos.nl/2023/07/15/chatlmza.html)
 * [2023-08-29, 23:00:04](https://news.ycombinator.com/item?id=37315297) - [Inertial HSMs thwart advanced physical attacks](https://tches.iacr.org/index.php/TCHES/article/view/9290/8856)
 

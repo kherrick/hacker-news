@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
 * [2023-08-30, 18:37:35](https://news.ycombinator.com/item?id=37326806) - [FCC refuses to scrap rule requiring ISPs to list every monthly fee](https://arstechnica.com/tech-policy/2023/08/fcc-says-too-bad-to-isps-complaining-that-listing-every-fee-is-too-hard/)
+* [2023-08-30, 18:12:38](https://news.ycombinator.com/item?id=37326419) - [Microsoft is discontinuing Visual Studio for Mac after major overhaul](https://9to5mac.com/2023/08/30/microsoft-visual-studio-mac-discontinued/)
 * [2023-08-30, 18:08:57](https://news.ycombinator.com/item?id=37326355) - [EV Chargers Should Be Dumber](https://heatmap.news/electric-vehicles/nema-14-50-mobile-charger-lucid-air)
 * [2023-08-30, 17:59:50](https://news.ycombinator.com/item?id=37326205) - [Netlify Announces the Evolution of Cloud Platform](https://www.netlify.com/blog/gatsby-cloud-evolution/)
 * [2023-08-30, 17:31:07](https://news.ycombinator.com/item?id=37325711) - [Shocks to the System: Don DeLillo’s Novels of the Cold War and Its Aftermath](https://www.bookforum.com/print/3001/don-delillo-s-novels-of-the-cold-war-and-its-aftermath-25202)
@@ -69,6 +70,7 @@
 * [2023-08-30, 09:46:02](https://news.ycombinator.com/item?id=37319562) - [Titanium micro-spikes skewer resistant superbugs](https://www.rmit.edu.au/news/all-news/2023/aug/antifungal-titanium)
 * [2023-08-30, 09:41:49](https://news.ycombinator.com/item?id=37319537) - [Linux 6.6 to Protect Against Illicit Behavior of Nvidia Proprietary Driver](https://www.phoronix.com/news/Linux-6.6-Illicit-NVIDIA-Change)
 * [2023-08-30, 09:35:59](https://news.ycombinator.com/item?id=37319500) - [New Map APIs from Google](https://latlong.blog/2023/08/new-map-apis-from-google.html)
+* [2023-08-30, 09:35:59](https://news.ycombinator.com/item?id=37319500) - [New Map APIs from Google](https://cloud.google.com/blog/products/maps-platform/going-beyond-map-introducing-environment-apis)
 * [2023-08-30, 08:54:38](https://news.ycombinator.com/item?id=37319271) - [iFixit wants Congress to let it hack McDonald’s ice cream machines](https://www.theverge.com/2023/8/29/23850595/mcdonalds-broken-ice-cream-machines-ifixit)
 * [2023-08-30, 08:43:33](https://news.ycombinator.com/item?id=37319219) - [Apple: Using cash is “clearly reckless”](https://blog.vexl.it/apple-using-cash-is-clearly-reckless-77e2a519a3bc)
 * [2023-08-30, 08:41:55](https://news.ycombinator.com/item?id=37319209) - [Why a cancer scare around aspartame is mostly unfounded](https://www.economist.com/the-economist-explains/2023/07/13/why-a-cancer-scare-around-aspartame-is-mostly-unfounded)
