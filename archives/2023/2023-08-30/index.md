@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 12:32:21](https://news.ycombinator.com/item?id=37321032) - [Understanding Llama 2 and the New Code Llama LLMs](https://magazine.sebastianraschka.com/p/ahead-of-ai-11-new-foundation-models)
 * [2023-08-30, 12:31:30](https://news.ycombinator.com/item?id=37321023) - [Farmers Insurance Laying Off 11% of Workforce, Citing Industry Challenges](https://www.insurancejournal.com/news/national/2023/08/28/738095.htm)
+* [2023-08-30, 12:29:09](https://news.ycombinator.com/item?id=37321002) - [Microsoft is using malware-like pop-ups in Win11 to get people to ditch Chrome](https://www.theverge.com/2023/8/30/23851902/microsoft-bing-popups-windows-11-malware)
 * [2023-08-30, 12:27:11](https://news.ycombinator.com/item?id=37320975) - [Hundreds of thousands trafficked to work as online scammers in SE Asia](https://www.ohchr.org/en/press-releases/2023/08/hundreds-thousands-trafficked-work-online-scammers-se-asia-says-un-report)
 * [2023-08-30, 12:07:39](https://news.ycombinator.com/item?id=37320786) - [Windows 11 will respect default browser for system apps in the European Union](https://blogs.windows.com/windows-insider/2023/08/25/announcing-windows-11-insider-preview-build-23531-dev-channel/)
 * [2023-08-30, 12:00:37](https://news.ycombinator.com/item?id=37320729) - [Lago – Open-Source Stripe Billing Alternative Is Hiring a Content Lead](https://news.ycombinator.com/item?id=37320729)
