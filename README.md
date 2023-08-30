@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-30, 21:01:00](https://news.ycombinator.com/item?id=37329067) - [Mux (YC W16) is hiring a Sr Platform Engineer to work on video infra at scale](https://www.mux.com/jobs?j=srplatform)
+* [2023-08-30, 20:42:49](https://news.ycombinator.com/item?id=37328786) - [At Taser maker Axon, ex-staffers say loyalty meant being tased or tattooed](https://www.reuters.com/investigates/special-report/axon-taser-exposures/)
 * [2023-08-30, 20:32:21](https://news.ycombinator.com/item?id=37328609) - [Designing Deep Networks to Process Other Deep Networks](https://developer.nvidia.com/blog/designing-deep-networks-to-process-other-deep-networks/)
 * [2023-08-30, 18:40:52](https://news.ycombinator.com/item?id=37326870) - [Show HN: I automated 1/2 of my typing](https://github.com/eschluntz/compress)
 * [2023-08-30, 18:37:35](https://news.ycombinator.com/item?id=37326806) - [FCC refuses to scrap rule requiring ISPs to list every monthly fee](https://arstechnica.com/tech-policy/2023/08/fcc-says-too-bad-to-isps-complaining-that-listing-every-fee-is-too-hard/)
@@ -21,7 +22,6 @@
 * [2023-08-30, 14:13:33](https://news.ycombinator.com/item?id=37322460) - [How to get transactions between almost any data stores](https://petereliaskraft.net/blog/epoxy)
 * [2023-08-30, 12:53:49](https://news.ycombinator.com/item?id=37321292) - [OSM River Basins](https://amandasaurus.github.io/osm-river-basins/#map=2/0/0)
 * [2023-08-30, 12:32:05](https://news.ycombinator.com/item?id=37321028) - [A DIY ‘bionic pancreas’ is changing diabetes care](https://www.nature.com/articles/d41586-023-02648-9)
-* [2023-08-30, 12:27:11](https://news.ycombinator.com/item?id=37320975) - [Hundreds of thousands trafficked to work as online scammers in SE Asia, says UN](https://www.ohchr.org/en/press-releases/2023/08/hundreds-thousands-trafficked-work-online-scammers-se-asia-says-un-report)
 * [2023-08-30, 12:18:30](https://news.ycombinator.com/item?id=37320897) - [Fake town built exclusively for filming TV and movies](https://petapixel.com/2023/08/23/this-giant-fake-town-was-built-exclusively-for-filming-tv-and-movies/)
 * [2023-08-30, 10:51:00](https://news.ycombinator.com/item?id=37320071) - [A case for dynamic scoring of high-skilled immigration](https://www.slowboring.com/p/a-serious-case-for-dynamic-scoring)
 * [2023-08-30, 10:47:27](https://news.ycombinator.com/item?id=37320037) - [DIY ESP32 based chicken coop door. Control based on time, light or via app](https://github.com/ESP32-COOP/ESP32-COOP-DOC)

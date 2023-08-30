@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
 * [2023-08-30, 21:01:00](https://news.ycombinator.com/item?id=37329067) - [Mux (YC W16) is hiring a Sr Platform Engineer to work on video infra at scale](https://www.mux.com/jobs?j=srplatform)
+* [2023-08-30, 20:42:49](https://news.ycombinator.com/item?id=37328786) - [At Taser maker Axon, ex-staffers say loyalty meant being tased or tattooed](https://www.reuters.com/investigates/special-report/axon-taser-exposures/)
 * [2023-08-30, 20:32:21](https://news.ycombinator.com/item?id=37328609) - [Designing Deep Networks to Process Other Deep Networks](https://developer.nvidia.com/blog/designing-deep-networks-to-process-other-deep-networks/)
 * [2023-08-30, 20:20:51](https://news.ycombinator.com/item?id=37328422) - [ChatGPT user sessions are down 29% since May](https://sparktoro.com/blog/we-analyzed-millions-of-chatgpt-user-sessions-visits-are-down-29-since-may-programming-assistance-is-30-of-use/)
 * [2023-08-30, 19:15:03](https://news.ycombinator.com/item?id=37327462) - [Pharmacist says he has filled Alzheimer's prescriptions for members of Congress](https://www.vox.com/policy-and-politics/2017/10/11/16458142/congress-alzheimers-pharmacist)
