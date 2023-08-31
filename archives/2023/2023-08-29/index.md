@@ -122,6 +122,7 @@
 * [2023-08-29, 05:59:00](https://news.ycombinator.com/item?id=37303983) - [Baby's first WASM compiler](https://www.scattered-thoughts.net/writing/babys-first-wasm-compiler/)
 * [2023-08-29, 05:55:40](https://news.ycombinator.com/item?id=37303960) - [Alexandria: A minimalistic cross-platform eBook reader](https://github.com/btpf/Alexandria)
 * [2023-08-29, 05:33:35](https://news.ycombinator.com/item?id=37303868) - [Paper Straws Have Higher 'Forever Chemical' Concentration Than Plastic Straws](https://reason.com/2023/08/25/presence-of-forever-chemicals-in-paper-straws-highlights-the-inanity-of-plastic-straw-bans/)
+* [2023-08-29, 05:04:19](https://news.ycombinator.com/item?id=37303722) - [The open source saxophone project](https://www.stohrermusic.com/2017/10/the-open-source-saxophone-project/)
 * [2023-08-29, 04:57:35](https://news.ycombinator.com/item?id=37303695) - [How to share a NumPy array between processes](https://superfastpython.com/numpy-share-array-processes/)
 * [2023-08-29, 04:28:35](https://news.ycombinator.com/item?id=37303569) - [Toyota to halt operations at all Japan assembly plants due to system failure](https://www.reuters.com/business/autos-transportation/toyota-halts-operations-12-japan-factories-due-system-failure-nhk-2023-08-29/)
 * [2023-08-29, 04:24:52](https://news.ycombinator.com/item?id=37303554) - [Grumpy Website](https://grumpy.website/)

@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-31, 07:18:26](https://news.ycombinator.com/item?id=37333596) - [Tell HN: UC Berkeley's CS61A/B/C are the best courses to learn CS and coding](https://news.ycombinator.com/item?id=37333596)
-* [2023-08-31, 06:38:22](https://news.ycombinator.com/item?id=37333299) - [7th century BCE Library of Ashurbanipal is the oldest recovered library](https://www.worldhistory.org/Library_of_Ashurbanipal/)
+* [2023-08-31, 07:01:26](https://news.ycombinator.com/item?id=37333478) - [India Enable Government Surveillance, Creating ‘Backdoor’ for Surveillance](https://dovthelachman.com/indias-laws-enable-government-surveillance-creating-dangerous-backdoor-for-surveillance-companies/)
 * [2023-08-31, 06:23:21](https://news.ycombinator.com/item?id=37333195) - [Youtube2Webpage: Create Websites with Text from Videos](https://github.com/obra/Youtube2Webpage)
 * [2023-08-31, 06:07:06](https://news.ycombinator.com/item?id=37333077) - [Cheetah: A Lightweight Virtual Machine Manager for macOS](https://macspot.net/)
 * [2023-08-31, 05:55:10](https://news.ycombinator.com/item?id=37332974) - [Money is pouring into AI. Skeptics say it’s a ‘grift shift’](https://www.institutionalinvestor.com/article/2c4fad0w6irk838pca3gg/portfolio/money-is-pouring-into-ai-skeptics-say-its-a-grift-shift)
@@ -21,7 +21,6 @@
 * [2023-08-30, 12:32:05](https://news.ycombinator.com/item?id=37321028) - [A DIY ‘bionic pancreas’ is changing diabetes care](https://www.nature.com/articles/d41586-023-02648-9)
 * [2023-08-30, 12:13:54](https://news.ycombinator.com/item?id=37320841) - [Produce HTML from S-Expressions](https://github.com/lelanthran/l2h)
 * [2023-08-30, 10:28:24](https://news.ycombinator.com/item?id=37319845) - [Rule of Three](https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming))
-* [2023-08-30, 09:36:30](https://news.ycombinator.com/item?id=37319501) - [Plastic palm trees and inflatable pineapples](https://onthearts.com/p/plastic-palm-trees-and-inflatable)
 * [2023-08-30, 07:34:19](https://news.ycombinator.com/item?id=37318810) - [ChatLZMA – text generation from data compression](http://pepijndevos.nl/2023/07/15/chatlmza.html)
 * [2023-08-30, 00:56:25](https://news.ycombinator.com/item?id=37316280) - [The Tera Computer System (1990)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=108b3a24274af0aab079bd94ab7c1ee6543563d4)
 * [2023-08-29, 23:00:04](https://news.ycombinator.com/item?id=37315297) - [Inertial HSMs thwart advanced physical attacks](https://tches.iacr.org/index.php/TCHES/article/view/9290/8856)
@@ -30,6 +29,7 @@
 * [2023-08-29, 11:59:59](https://news.ycombinator.com/item?id=37306431) - [Three Antiquities Traffickers and Their Fall from Grace](https://hyperallergic.com/830328/three-antiquities-traffickers-and-their-fall-from-grace/)
 * [2023-08-29, 11:57:43](https://news.ycombinator.com/item?id=37306401) - [Film Review: BlackBerry](https://anarchonomicon.substack.com/p/review-blackberry)
 * [2023-08-29, 11:54:58](https://news.ycombinator.com/item?id=37306376) - [Never Ending September Date](https://www.df7cb.de/projects/sdate/)
+* [2023-08-29, 05:04:19](https://news.ycombinator.com/item?id=37303722) - [The open source saxophone project](https://www.stohrermusic.com/2017/10/the-open-source-saxophone-project/)
 
 ## [Archives](archives/index.md)
 
