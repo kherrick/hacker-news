@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-08-31, 07:52:42",
-      "https://news.ycombinator.com/item?id=37333837"
-    ],
-    [
-      "Ask HN: Why hasn't the cloud killed the mainframe?",
-      "https://news.ycombinator.com/item?id=37333837"
-    ]
-  ],
-  [
-    [
       "2023-08-31, 07:18:26",
       "https://news.ycombinator.com/item?id=37333596"
     ],
@@ -161,16 +151,6 @@
   ],
   [
     [
-      "2023-08-30, 19:27:03",
-      "https://news.ycombinator.com/item?id=37327606"
-    ],
-    [
-      "Making Amiga IFF Thumbnails Work in Linux",
-      "https://linuxjedi.co.uk/2023/08/24/making-amiga-iff-thumbnails-work-in-linux/"
-    ]
-  ],
-  [
-    [
       "2023-08-30, 18:40:52",
       "https://news.ycombinator.com/item?id=37326870"
     ],
@@ -181,22 +161,22 @@
   ],
   [
     [
-      "2023-08-30, 17:25:55",
-      "https://news.ycombinator.com/item?id=37325622"
-    ],
-    [
-      "Photogrammetry on commercial flights (2021)",
-      "https://leifgehrmann.com/2021/09/05/photogrammetry-on-a-plane/"
-    ]
-  ],
-  [
-    [
       "2023-08-30, 14:55:13",
       "https://news.ycombinator.com/item?id=37323092"
     ],
     [
       "Developing 120-year-old photos found in a time capsule [video]",
       "https://www.youtube.com/watch?v=IoDj4mXdqmc"
+    ]
+  ],
+  [
+    [
+      "2023-08-30, 14:37:28",
+      "https://news.ycombinator.com/item?id=37322794"
+    ],
+    [
+      "Multiplix, operating system kernel for RISC-V and AArch64 SBCs",
+      "https://github.com/zyedidia/multiplix"
     ]
   ],
   [
@@ -227,6 +207,16 @@
     [
       "Produce HTML from S-Expressions",
       "https://github.com/lelanthran/l2h"
+    ]
+  ],
+  [
+    [
+      "2023-08-30, 10:28:24",
+      "https://news.ycombinator.com/item?id=37319845"
+    ],
+    [
+      "Rule of Three",
+      "https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Never Ending September Date",
       "https://www.df7cb.de/projects/sdate/"
+    ]
+  ],
+  [
+    [
+      "2023-08-29, 05:04:19",
+      "https://news.ycombinator.com/item?id=37303722"
+    ],
+    [
+      "The open source saxophone project",
+      "https://www.stohrermusic.com/2017/10/the-open-source-saxophone-project/"
     ]
   ]
 ]
