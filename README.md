@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-31, 16:22:45](https://news.ycombinator.com/item?id=37339701) - [Broken by bison, aspen saplings having a tough time in northern Yellowstone](https://phys.org/news/2023-08-broken-bison-aspen-saplings-tough.html)
 * [2023-08-31, 16:17:28](https://news.ycombinator.com/item?id=37339619) - [VanMoof acquired by e-mobility company Lavoie](https://www.bicycleretailer.com/industry-news/2023/08/31/vanmoof-acquired-e-mobility-company-lavoie)
 * [2023-08-31, 16:10:30](https://news.ycombinator.com/item?id=37339485) - [Mastodon Is Rewinding the Clock on Social Media – In a Good Way](https://chrlschn.medium.com/mastodon-is-rewinding-the-clock-on-social-media-in-a-good-way-8998f6d9f1aa)
 * [2023-08-31, 16:04:38](https://news.ycombinator.com/item?id=37339372) - [Doom for 16-bit DOS computers](https://github.com/FrenkelS/Doom8088)
 * [2023-08-31, 16:03:03](https://news.ycombinator.com/item?id=37339348) - [Electronics Course (45 episodes, YouTube)](https://www.youtube.com/playlist?list=PL7qUW0KPfsIIOPOKL84wK_Qj9N7gvJX6v)
-* [2023-08-31, 15:24:55](https://news.ycombinator.com/item?id=37338672) - [South Korea extends natural population fall as fertility rate falls to 0.7](https://www.koreatimes.co.kr/www/nation/2023/08/113_358114.html)
 * [2023-08-31, 15:20:48](https://news.ycombinator.com/item?id=37338585) - [X wants permission to start collecting your bio data and employment history](https://www.theverge.com/2023/8/31/23853618/x-privacy-policy-update-biometrics-job-history)
 * [2023-08-31, 14:35:23](https://news.ycombinator.com/item?id=37337771) - [IBM promised to back off facial recognition, then signed a $70M contract for it](https://www.theverge.com/2023/8/31/23852955/ibm-uk-government-contract-biometric-facial-recognition)
 * [2023-08-31, 14:15:39](https://news.ycombinator.com/item?id=37337482) - [Ghostfolio: Open-source wealth management software](https://ghostfol.io)

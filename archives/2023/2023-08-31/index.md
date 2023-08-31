@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-31](index.md)
 
+* [2023-08-31, 16:22:45](https://news.ycombinator.com/item?id=37339701) - [Broken by bison, aspen saplings having a tough time in northern Yellowstone](https://phys.org/news/2023-08-broken-bison-aspen-saplings-tough.html)
 * [2023-08-31, 16:17:28](https://news.ycombinator.com/item?id=37339619) - [VanMoof acquired by e-mobility company Lavoie](https://www.bicycleretailer.com/industry-news/2023/08/31/vanmoof-acquired-e-mobility-company-lavoie)
 * [2023-08-31, 16:10:30](https://news.ycombinator.com/item?id=37339485) - [Mastodon Is Rewinding the Clock on Social Media – In a Good Way](https://chrlschn.medium.com/mastodon-is-rewinding-the-clock-on-social-media-in-a-good-way-8998f6d9f1aa)
 * [2023-08-31, 16:04:38](https://news.ycombinator.com/item?id=37339372) - [Doom for 16-bit DOS computers](https://github.com/FrenkelS/Doom8088)
