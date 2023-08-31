@@ -58,6 +58,7 @@
 * [2023-08-30, 15:35:16](https://news.ycombinator.com/item?id=37323760) - [On (My) Caste](https://www.cs.toronto.edu/~meel/opinions/caste.html)
 * [2023-08-30, 15:33:20](https://news.ycombinator.com/item?id=37323727) - [The End of the Googleverse](https://www.theverge.com/23846048/google-search-memes-images-pagerank-altavista-seo-keywords)
 * [2023-08-30, 15:24:08](https://news.ycombinator.com/item?id=37323604) - [Hacking the LG Monitor's EDID](https://gist.github.com/kj800x/be3001c07c49fdb36970633b0bc6defb)
+* [2023-08-30, 15:16:28](https://news.ycombinator.com/item?id=37323473) - [Zadie Smith Makes 1860s London Feel Alive, and Recognizable](https://www.nytimes.com/2023/08/28/books/review/zadie-smith-the-fraud.html)
 * [2023-08-30, 14:55:13](https://news.ycombinator.com/item?id=37323092) - [Developing 120-Year-Old Photos Found in a Time Capsule [video]](https://www.youtube.com/watch?v=IoDj4mXdqmc)
 * [2023-08-30, 14:53:43](https://news.ycombinator.com/item?id=37323066) - [Decoupling isn't phoney – The global trading system is starting to rearrange](https://www.noahpinion.blog/p/decoupling-isnt-phoney)
 * [2023-08-30, 14:42:50](https://news.ycombinator.com/item?id=37322881) - [Terry Pratchett’s hard drive steamrolled in 2017 had '10 unfinished novels'](https://www.thepopverse.com/neil-gaiman-terry-pratchett-unfinished-steamroller-will)

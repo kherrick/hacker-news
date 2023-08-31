@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-31](index.md)
 
+* [2023-08-31, 12:01:16](https://news.ycombinator.com/item?id=37335833) - [Firezone (YC W22) is hiring Rust engineers to build secure networks](https://www.ycombinator.com/companies/firezone)
+* [2023-08-31, 11:51:19](https://news.ycombinator.com/item?id=37335751) - [NASA officials sound alarm over future of the Deep Space Network](https://arstechnica.com/space/2023/08/nasas-artemis-i-mission-nearly-broke-the-deep-space-network/)
+* [2023-08-31, 11:36:49](https://news.ycombinator.com/item?id=37335607) - [Swedish cities hit by four residential explosions in an hour](https://www.theguardian.com/world/2023/aug/31/bomb-experts-called-in-after-swedish-cities-see-four-explosions-in-just-over-an-hour)
 * [2023-08-31, 11:24:49](https://news.ycombinator.com/item?id=37335492) - [Show HN: AI Judges Your Spotify](https://www.yourmusictastesucks.com/?ref=hn)
 * [2023-08-31, 11:12:45](https://news.ycombinator.com/item?id=37335404) - [Microsoft is unbundling Teams from Office in Europe to address regulator concern](https://www.theverge.com/2023/8/31/23853517/microsoft-teams-unbundling-europe)
 * [2023-08-31, 09:58:48](https://news.ycombinator.com/item?id=37334750) - [Managed to death: How Canada turned its forests into a carbon bomb](https://thebulletin.org/2023/08/managed-to-death-how-canada-turned-its-forests-into-a-carbon-bomb/#post-heading)
