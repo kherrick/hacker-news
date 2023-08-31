@@ -102,6 +102,7 @@
 * [2023-08-30, 09:36:30](https://news.ycombinator.com/item?id=37319501) - [Plastic palm trees and inflatable pineapples](https://onthearts.com/p/plastic-palm-trees-and-inflatable)
 * [2023-08-30, 09:35:59](https://news.ycombinator.com/item?id=37319500) - [New Map APIs from Google](https://latlong.blog/2023/08/new-map-apis-from-google.html)
 * [2023-08-30, 09:35:59](https://news.ycombinator.com/item?id=37319500) - [New Map APIs from Google](https://cloud.google.com/blog/products/maps-platform/going-beyond-map-introducing-environment-apis)
+* [2023-08-30, 09:30:00](https://news.ycombinator.com/item?id=37319461) - [Mimicking natural selection in chemical systems](https://www.nature.com/articles/s41570-019-0155-6)
 * [2023-08-30, 08:54:38](https://news.ycombinator.com/item?id=37319271) - [iFixit wants Congress to let it hack McDonald’s ice cream machines](https://www.theverge.com/2023/8/29/23850595/mcdonalds-broken-ice-cream-machines-ifixit)
 * [2023-08-30, 08:43:33](https://news.ycombinator.com/item?id=37319219) - [Apple: Using cash is “clearly reckless”](https://blog.vexl.it/apple-using-cash-is-clearly-reckless-77e2a519a3bc)
 * [2023-08-30, 08:41:55](https://news.ycombinator.com/item?id=37319209) - [Why a cancer scare around aspartame is mostly unfounded](https://www.economist.com/the-economist-explains/2023/07/13/why-a-cancer-scare-around-aspartame-is-mostly-unfounded)
