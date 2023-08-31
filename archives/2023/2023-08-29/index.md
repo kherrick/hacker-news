@@ -71,6 +71,7 @@
 * [2023-08-29, 13:06:43](https://news.ycombinator.com/item?id=37307253) - [StarCitizen Server Meshing Architecture](https://sc-server-meshing.info/wiki)
 * [2023-08-29, 13:04:50](https://news.ycombinator.com/item?id=37307224) - [Why cartoon characters wear gloves [video]](https://www.youtube.com/watch?v=3R3cvbLsbAk)
 * [2023-08-29, 13:00:14](https://news.ycombinator.com/item?id=37307147) - [The Brain Connections Between Our Hands and Tongues](https://www.quantamagazine.org/the-hidden-brain-connections-between-our-hands-and-tongues-20230828/)
+* [2023-08-29, 12:55:25](https://news.ycombinator.com/item?id=37307072) - [Happywale](https://happywhale.com/)
 * [2023-08-29, 12:52:50](https://news.ycombinator.com/item?id=37307032) - [Amazon CEO tells staff to work in office 3 days a week or look for another job](https://www.theguardian.com/technology/2023/aug/29/amazon-ceo-staff-work-in-office-job-workers)
 * [2023-08-29, 12:38:44](https://news.ycombinator.com/item?id=37306853) - [Bobbi Gibb: The Boston Marathon pioneer who raced a lie](https://www.bbc.co.uk/sport/athletics/66615089)
 * [2023-08-29, 12:38:04](https://news.ycombinator.com/item?id=37306841) - [America Is Using Up Its Groundwater Like There’s No Tomorrow](https://www.nytimes.com/interactive/2023/08/28/climate/groundwater-drying-climate-change.html)
