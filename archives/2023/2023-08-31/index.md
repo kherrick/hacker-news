@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-31](index.md)
 
+* [2023-08-31, 17:00:18](https://news.ycombinator.com/item?id=37340311) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37340311)
+* [2023-08-31, 16:47:53](https://news.ycombinator.com/item?id=37340080) - [AMD Open-Source GPU Kernel Driver Above 5M Lines, Entire Linux Kernel at 34.8M](https://www.phoronix.com/news/AMD-5-Million-Lines)
 * [2023-08-31, 16:43:32](https://news.ycombinator.com/item?id=37340010) - [When your coworker does great work, tell their manager](https://jvns.ca/blog/2020/07/14/when-your-coworker-does-great-work-tell-their-manager/)
 * [2023-08-31, 16:22:45](https://news.ycombinator.com/item?id=37339701) - [Broken by bison, aspen saplings having a tough time in northern Yellowstone](https://phys.org/news/2023-08-broken-bison-aspen-saplings-tough.html)
 * [2023-08-31, 16:17:28](https://news.ycombinator.com/item?id=37339619) - [VanMoof acquired by e-mobility company Lavoie](https://www.bicycleretailer.com/industry-news/2023/08/31/vanmoof-acquired-e-mobility-company-lavoie)

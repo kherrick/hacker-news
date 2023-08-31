@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-31, 17:00:18](https://news.ycombinator.com/item?id=37340311) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37340311)
+* [2023-08-31, 16:47:53](https://news.ycombinator.com/item?id=37340080) - [AMD Open-Source GPU Kernel Driver Above 5M Lines, Entire Linux Kernel at 34.8M](https://www.phoronix.com/news/AMD-5-Million-Lines)
 * [2023-08-31, 16:43:32](https://news.ycombinator.com/item?id=37340010) - [When your coworker does great work, tell their manager](https://jvns.ca/blog/2020/07/14/when-your-coworker-does-great-work-tell-their-manager/)
 * [2023-08-31, 16:22:45](https://news.ycombinator.com/item?id=37339701) - [Broken by bison, aspen saplings having a tough time in northern Yellowstone](https://phys.org/news/2023-08-broken-bison-aspen-saplings-tough.html)
 * [2023-08-31, 16:17:28](https://news.ycombinator.com/item?id=37339619) - [VanMoof acquired by e-mobility company Lavoie](https://www.bicycleretailer.com/industry-news/2023/08/31/vanmoof-acquired-e-mobility-company-lavoie)
@@ -15,9 +17,7 @@
 * [2023-08-31, 13:09:46](https://news.ycombinator.com/item?id=37336606) - [Usenet, the OG social network, rises again like a text-only phoenix](https://www.theregister.com/2023/08/30/usenet_revival/)
 * [2023-08-31, 12:44:14](https://news.ycombinator.com/item?id=37336299) - [Shell abandons its plan to offset CO2 emissions](https://www.bloomberg.com/news/features/2023-08-31/shell-silently-abandoned-its-100-million-a-year-plan-to-offset-co2-emissions)
 * [2023-08-31, 12:17:38](https://news.ycombinator.com/item?id=37336013) - [Chandrayaan-3 Confirms Presence of Sulfur and Other Elements on Lunar South Pole](https://scienceswitch.com/2023/08/31/isros-chandrayaan-3-confirms-presence-of-sulfur-and-other-elements-on-lunar-south-pole/)
-* [2023-08-31, 12:01:16](https://news.ycombinator.com/item?id=37335833) - [Firezone (YC W22) is hiring Rust engineers to build secure networks](https://www.ycombinator.com/companies/firezone)
 * [2023-08-31, 11:51:19](https://news.ycombinator.com/item?id=37335751) - [NASA officials sound alarm over future of the Deep Space Network](https://arstechnica.com/space/2023/08/nasas-artemis-i-mission-nearly-broke-the-deep-space-network/)
-* [2023-08-31, 10:05:11](https://news.ycombinator.com/item?id=37334805) - [Goodreads Is Terrible for Books. Why Can’t We All Quit It?](https://thewalrus.ca/goodreads-is-terrible/)
 * [2023-08-31, 09:57:16](https://news.ycombinator.com/item?id=37334737) - [It's not just you – no one is posting on social media anymore](https://www.businessinsider.com/social-media-dead-instagram-tiktok-bereal-replaced-group-chats-messaging-2023-8)
 * [2023-08-31, 06:53:43](https://news.ycombinator.com/item?id=37333404) - [UTM – Virtual Machines for iOS and macOS](https://github.com/utmapp/UTM)
 * [2023-08-31, 06:23:21](https://news.ycombinator.com/item?id=37333195) - [Youtube2Webpage: Create Websites with Text from Videos](https://github.com/obra/Youtube2Webpage)
