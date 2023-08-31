@@ -11,6 +11,7 @@
 * [2023-08-31, 18:35:10](https://news.ycombinator.com/item?id=37341799) - [X-ray CT scans of coffee equipment: Aeropress, Fellow kettle, Moka pot](https://www.scanofthemonth.com/scans/coffee)
 * [2023-08-31, 18:33:48](https://news.ycombinator.com/item?id=37341783) - [A boy who stole Half-Life 2](https://www.eurogamer.net/the-boy-who-stole-half-life-2-article)
 * [2023-08-31, 18:26:34](https://news.ycombinator.com/item?id=37341670) - [Fine-tuning GPT-3.5-turbo for natural language to SQL](https://medium.com/dataherald/fine-tuning-gpt-3-5-turbo-for-natural-language-to-sql-4445c1d37f7c)
+* [2023-08-31, 18:16:06](https://news.ycombinator.com/item?id=37341492) - [A historical record of foundational web development blog posts](https://esif.dev/)
 * [2023-08-31, 17:14:51](https://news.ycombinator.com/item?id=37340547) - [Rare oxygen isotope detected at last – and it defies expectations](https://www.nature.com/articles/d41586-023-02713-3)
 * [2023-08-31, 17:13:34](https://news.ycombinator.com/item?id=37340523) - [No Love for Negative Permissions – DAC/ACL Bypass on Linux](https://blog.sigma-star.at/post/2023/08/negative-permissions/)
 * [2023-08-31, 17:00:22](https://news.ycombinator.com/item?id=37340314) - [Teaching with AI](https://openai.com/blog/teaching-with-ai)
