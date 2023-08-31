@@ -23,11 +23,11 @@
 * [2023-08-30, 14:13:33](https://news.ycombinator.com/item?id=37322460) - [How to get transactions between almost any data stores](https://petereliaskraft.net/blog/epoxy)
 * [2023-08-30, 12:32:05](https://news.ycombinator.com/item?id=37321028) - [A DIY ‘bionic pancreas’ is changing diabetes care](https://www.nature.com/articles/d41586-023-02648-9)
 * [2023-08-30, 12:28:41](https://news.ycombinator.com/item?id=37320994) - [Tatung Electric Cooker (2022)](https://www.foodnetwork.com/how-to/packages/shopping/what-is-tatung-electric-cookier)
+* [2023-08-30, 12:18:30](https://news.ycombinator.com/item?id=37320897) - [Fake town built exclusively for filming TV and movies](https://petapixel.com/2023/08/23/this-giant-fake-town-was-built-exclusively-for-filming-tv-and-movies/)
 * [2023-08-30, 11:40:48](https://news.ycombinator.com/item?id=37320516) - [N guilty men (1997)](https://www2.law.ucla.edu/volokh/guilty.htm)
 * [2023-08-30, 07:34:19](https://news.ycombinator.com/item?id=37318810) - [ChatLZMA – text generation from data compression](http://pepijndevos.nl/2023/07/15/chatlmza.html)
 * [2023-08-29, 23:00:04](https://news.ycombinator.com/item?id=37315297) - [Inertial HSMs thwart advanced physical attacks](https://tches.iacr.org/index.php/TCHES/article/view/9290/8856)
 * [2023-08-29, 16:23:03](https://news.ycombinator.com/item?id=37310216) - [Lunik: The CIA’s plot to steal a Soviet satellite (2021)](https://www.technologyreview.com/2021/01/28/1016867/lunik-cia-heist-steal-russian-satellite-space-us-ussr/)
-* [2023-08-29, 12:55:25](https://news.ycombinator.com/item?id=37307072) - [Happywale](https://happywhale.com/)
 * [2023-08-29, 11:54:58](https://news.ycombinator.com/item?id=37306376) - [Never Ending September Date](https://www.df7cb.de/projects/sdate/)
 * [2023-08-29, 07:59:26](https://news.ycombinator.com/item?id=37304666) - [Gallery – Making Molecules](https://www.makingmolecules.com/handouts)
 
