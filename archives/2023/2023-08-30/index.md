@@ -29,6 +29,7 @@
 * [2023-08-30, 18:12:38](https://news.ycombinator.com/item?id=37326419) - [Microsoft is discontinuing Visual Studio for Mac after major overhaul](https://9to5mac.com/2023/08/30/microsoft-visual-studio-mac-discontinued/)
 * [2023-08-30, 18:08:57](https://news.ycombinator.com/item?id=37326355) - [EV Chargers Should Be Dumber](https://heatmap.news/electric-vehicles/nema-14-50-mobile-charger-lucid-air)
 * [2023-08-30, 17:59:50](https://news.ycombinator.com/item?id=37326205) - [Netlify Announces the Evolution of Cloud Platform](https://www.netlify.com/blog/gatsby-cloud-evolution/)
+* [2023-08-30, 17:52:23](https://news.ycombinator.com/item?id=37326081) - [Butterflies (1948)](https://www.newyorker.com/magazine/1948/06/12/butterflies-vladimir-nabokov)
 * [2023-08-30, 17:31:07](https://news.ycombinator.com/item?id=37325711) - [Shocks to the System: Don DeLillo’s Novels of the Cold War and Its Aftermath](https://www.bookforum.com/print/3001/don-delillo-s-novels-of-the-cold-war-and-its-aftermath-25202)
 * [2023-08-30, 17:25:55](https://news.ycombinator.com/item?id=37325622) - [Photogrammetry on Commercial Flights (2021)](https://leifgehrmann.com/2021/09/05/photogrammetry-on-a-plane/)
 * [2023-08-30, 17:24:29](https://news.ycombinator.com/item?id=37325594) - [Ask HN: Best books to learn web development?](https://news.ycombinator.com/item?id=37325594)
