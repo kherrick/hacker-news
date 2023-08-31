@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-31](index.md)
 
+* [2023-08-31, 06:38:22](https://news.ycombinator.com/item?id=37333299) - [The 7th century Library of Ashurbanipal is the oldest known library in the world](https://www.worldhistory.org/Library_of_Ashurbanipal/)
 * [2023-08-31, 05:55:10](https://news.ycombinator.com/item?id=37332974) - [Money Is Pouring into AI. Skeptics Say It’s a ‘Grift Shift.’](https://www.institutionalinvestor.com/article/2c4fad0w6irk838pca3gg/portfolio/money-is-pouring-into-ai-skeptics-say-its-a-grift-shift)
 * [2023-08-31, 05:34:20](https://news.ycombinator.com/item?id=37332860) - [Hidden 3D](https://hidden-3d.com/)
 * [2023-08-31, 04:47:03](https://news.ycombinator.com/item?id=37332582) - [We Are Not Supporting OpenTF](https://medium.com/@hello_9187/why-we-are-not-supporting-opentf-a46855f52dc4)
