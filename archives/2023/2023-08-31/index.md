@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-08-31](index.md)
 
+* [2023-08-31, 17:14:51](https://news.ycombinator.com/item?id=37340547) - [Rare oxygen isotope detected at last – and it defies expectations](https://www.nature.com/articles/d41586-023-02713-3)
 * [2023-08-31, 17:00:22](https://news.ycombinator.com/item?id=37340314) - [Teaching with AI](https://openai.com/blog/teaching-with-ai)
 * [2023-08-31, 17:00:18](https://news.ycombinator.com/item?id=37340311) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37340311)
 * [2023-08-31, 16:58:58](https://news.ycombinator.com/item?id=37340290) - [Why Mathematical Proof Is a Social Compact](https://www.quantamagazine.org/why-mathematical-proof-is-a-social-compact-20230831/)
+* [2023-08-31, 16:56:56](https://news.ycombinator.com/item?id=37340250) - [If you make less than $55K, the Labor Department wants you to get overtime pay](https://www.businessinsider.com/you-might-be-eligible-for-overtime-pay-2023-8)
 * [2023-08-31, 16:47:53](https://news.ycombinator.com/item?id=37340080) - [AMD Open-Source GPU Kernel Driver Above 5M Lines, Entire Linux Kernel at 34.8M](https://www.phoronix.com/news/AMD-5-Million-Lines)
 * [2023-08-31, 16:43:32](https://news.ycombinator.com/item?id=37340010) - [When your coworker does great work, tell their manager](https://jvns.ca/blog/2020/07/14/when-your-coworker-does-great-work-tell-their-manager/)
 * [2023-08-31, 16:22:45](https://news.ycombinator.com/item?id=37339701) - [Broken by bison, aspen saplings having a tough time in northern Yellowstone](https://phys.org/news/2023-08-broken-bison-aspen-saplings-tough.html)
