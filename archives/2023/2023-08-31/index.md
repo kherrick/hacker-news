@@ -13,6 +13,7 @@
 * [2023-08-31, 11:40:51](https://news.ycombinator.com/item?id=37335656) - [The Dungeons and Dragons Players of Death Row](https://www.nytimes.com/2023/08/31/magazine/dungeons-dragons-death-row.html)
 * [2023-08-31, 11:36:49](https://news.ycombinator.com/item?id=37335607) - [Swedish cities hit by four residential explosions in an hour](https://www.theguardian.com/world/2023/aug/31/bomb-experts-called-in-after-swedish-cities-see-four-explosions-in-just-over-an-hour)
 * [2023-08-31, 11:24:49](https://news.ycombinator.com/item?id=37335492) - [Show HN: AI Judges Your Spotify](https://www.yourmusictastesucks.com/?ref=hn)
+* [2023-08-31, 11:21:32](https://news.ycombinator.com/item?id=37335471) - [State Governments Can’t Resist the Siren Song of Censorship](https://www.techdirt.com/2023/08/30/state-governments-cant-resist-the-siren-song-of-censorship/)
 * [2023-08-31, 11:12:45](https://news.ycombinator.com/item?id=37335404) - [Microsoft is unbundling Teams from Office in Europe to address regulator concern](https://www.theverge.com/2023/8/31/23853517/microsoft-teams-unbundling-europe)
 * [2023-08-31, 10:05:11](https://news.ycombinator.com/item?id=37334805) - [Goodreads Is Terrible for Books. Why Can’t We All Quit It?](https://thewalrus.ca/goodreads-is-terrible/)
 * [2023-08-31, 09:58:48](https://news.ycombinator.com/item?id=37334750) - [Managed to death: How Canada turned its forests into a carbon bomb](https://thebulletin.org/2023/08/managed-to-death-how-canada-turned-its-forests-into-a-carbon-bomb/#post-heading)
