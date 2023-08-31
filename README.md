@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-31, 11:24:49](https://news.ycombinator.com/item?id=37335492) - [Show HN: AI Judges Your Spotify](https://www.yourmusictastesucks.com/?ref=hn)
 * [2023-08-31, 09:58:48](https://news.ycombinator.com/item?id=37334750) - [Managed to death: How Canada turned its forests into a carbon bomb](https://thebulletin.org/2023/08/managed-to-death-how-canada-turned-its-forests-into-a-carbon-bomb/#post-heading)
 * [2023-08-31, 09:57:16](https://news.ycombinator.com/item?id=37334737) - [It's not just you – no one is posting on social media anymore](https://www.businessinsider.com/social-media-dead-instagram-tiktok-bereal-replaced-group-chats-messaging-2023-8)
 * [2023-08-31, 09:51:21](https://news.ycombinator.com/item?id=37334695) - [Show HN: 99% cheaper international business transfers – fixed fee, real rate](https://atlantic.money/gb/en/business)
@@ -22,7 +23,6 @@
 * [2023-08-30, 15:40:06](https://news.ycombinator.com/item?id=37323834) - [High-Speed AI Drone Overtakes World-Champion Drone Racers](https://www.news.uzh.ch/en/articles/media/2023/Drone-race.html)
 * [2023-08-30, 15:24:08](https://news.ycombinator.com/item?id=37323604) - [Hacking the LG Monitor's EDID](https://gist.github.com/kj800x/be3001c07c49fdb36970633b0bc6defb)
 * [2023-08-30, 12:32:05](https://news.ycombinator.com/item?id=37321028) - [A DIY ‘bionic pancreas’ is changing diabetes care](https://www.nature.com/articles/d41586-023-02648-9)
-* [2023-08-30, 12:13:54](https://news.ycombinator.com/item?id=37320841) - [Produce HTML from S-Expressions](https://github.com/lelanthran/l2h)
 * [2023-08-30, 10:51:00](https://news.ycombinator.com/item?id=37320071) - [A case for dynamic scoring of high-skilled immigration](https://www.slowboring.com/p/a-serious-case-for-dynamic-scoring)
 * [2023-08-30, 00:56:25](https://news.ycombinator.com/item?id=37316280) - [The Tera Computer System (1990)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=108b3a24274af0aab079bd94ab7c1ee6543563d4)
 * [2023-08-29, 14:28:34](https://news.ycombinator.com/item?id=37308469) - [Random Load Balancing Is Unevenly Distributed](https://www.evanjones.ca/random-load-balancing-is-uneven.html)
