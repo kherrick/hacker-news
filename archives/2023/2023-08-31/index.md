@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-31](index.md)
 
+* [2023-08-31, 21:08:54](https://news.ycombinator.com/item?id=37343711) - [Human ancestors nearly went extinct 900k years ago](https://www.nature.com/articles/d41586-023-02712-4)
 * [2023-08-31, 21:00:19](https://news.ycombinator.com/item?id=37343611) - [Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)](https://etleap.com/careers/software-engineer/)
 * [2023-08-31, 20:29:03](https://news.ycombinator.com/item?id=37343274) - [Keep your files inside your VM](https://msimkunas.lt/2023/08/28/vm-file-sharing.html)
 * [2023-08-31, 20:00:47](https://news.ycombinator.com/item?id=37342925) - [Why did old phone numbers start with letters? (2015)](https://www.mentalfloss.com/article/61116/why-did-old-phone-numbers-start-letters)
@@ -87,6 +88,7 @@
 * [2023-08-31, 06:07:06](https://news.ycombinator.com/item?id=37333077) - [Cheetah: A Lightweight Virtual Machine Manager for macOS](https://macspot.net/)
 * [2023-08-31, 05:55:10](https://news.ycombinator.com/item?id=37332974) - [Money Is Pouring into AI. Skeptics Say It’s a ‘Grift Shift.’](https://www.institutionalinvestor.com/article/2c4fad0w6irk838pca3gg/portfolio/money-is-pouring-into-ai-skeptics-say-its-a-grift-shift)
 * [2023-08-31, 05:34:20](https://news.ycombinator.com/item?id=37332860) - [Hidden 3D](https://hidden-3d.com/)
+* [2023-08-31, 05:12:39](https://news.ycombinator.com/item?id=37332729) - [The Decline and Rise of IBM (1996)](https://sloanreview.mit.edu/article/the-decline-and-rise-of-ibm/?switch_view=PDF)
 * [2023-08-31, 05:08:50](https://news.ycombinator.com/item?id=37332705) - [Report on Reparations for Transatlantic Chattel Slavery](https://www.voice-online.co.uk/wp-content/uploads/2023/07/The-Brattle-Report_compressed.pdf)
 * [2023-08-31, 04:47:03](https://news.ycombinator.com/item?id=37332582) - [We Are Not Supporting OpenTF](https://medium.com/@hello_9187/why-we-are-not-supporting-opentf-a46855f52dc4)
 * [2023-08-31, 04:33:40](https://news.ycombinator.com/item?id=37332493) - [RyujinX – Open Source Nintendo Switch Emulator](https://ryujinx.org/)
