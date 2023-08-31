@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-31](index.md)
 
+* [2023-08-31, 21:47:53](https://news.ycombinator.com/item?id=37344096) - [Wii Architecture – A Practical Analysis](https://www.copetti.org/writings/consoles/wii/)
 * [2023-08-31, 21:39:44](https://news.ycombinator.com/item?id=37344026) - [Types versus sets (and what about categories?)](https://lawrencecpaulson.github.io/2022/03/16/Types_vs_Sets.html)
 * [2023-08-31, 21:08:54](https://news.ycombinator.com/item?id=37343711) - [Human ancestors nearly went extinct 900k years ago](https://www.nature.com/articles/d41586-023-02712-4)
 * [2023-08-31, 21:00:19](https://news.ycombinator.com/item?id=37343611) - [Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)](https://etleap.com/careers/software-engineer/)
