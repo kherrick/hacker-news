@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-31](index.md)
 
+* [2023-08-31, 08:07:09](https://news.ycombinator.com/item?id=37333939) - [Sourcegraph Security Breach: Incident involving unauthorized admin access](https://about.sourcegraph.com/blog/security-update-august-2023)
+* [2023-08-31, 07:54:08](https://news.ycombinator.com/item?id=37333848) - [*@gmail.com](https://xkcd.com/2822/)
 * [2023-08-31, 07:52:42](https://news.ycombinator.com/item?id=37333837) - [Ask HN: Why hasn't the cloud killed the mainframe?](https://news.ycombinator.com/item?id=37333837)
 * [2023-08-31, 07:18:26](https://news.ycombinator.com/item?id=37333596) - [Tell HN: UC Berkeley's CS61A/B/C are the best courses to learn CS and coding](https://news.ycombinator.com/item?id=37333596)
 * [2023-08-31, 07:01:26](https://news.ycombinator.com/item?id=37333478) - [India Enable Government Surveillance, Creating ‘Backdoor’ for Surveillance](https://dovthelachman.com/indias-laws-enable-government-surveillance-creating-dangerous-backdoor-for-surveillance-companies/)
