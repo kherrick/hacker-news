@@ -8,6 +8,7 @@
 * [2023-08-31, 09:57:16](https://news.ycombinator.com/item?id=37334737) - [It's not just you – no one is posting on social media anymore](https://www.businessinsider.com/social-media-dead-instagram-tiktok-bereal-replaced-group-chats-messaging-2023-8)
 * [2023-08-31, 09:19:45](https://news.ycombinator.com/item?id=37334486) - [HashiCorp silently amend Terraform Registry TOS](https://github.com/opentffoundation/roadmap/issues/24)
 * [2023-08-31, 09:15:46](https://news.ycombinator.com/item?id=37334454) - [U.S. Bans Sales of Nvidia's H100, A100 GPUs to Middle East](https://www.tomshardware.com/news/us-bans-sales-of-nvidias-h100-a100-gpus-to-middle-east)
+* [2023-08-31, 09:13:54](https://news.ycombinator.com/item?id=37334442) - [Dog autism? 37% of US dog owners buy into anti-vaccine nonsense](https://arstechnica.com/health/2023/08/dog-autism-37-of-us-dog-owners-buy-into-anti-vaccine-nonsense/)
 * [2023-08-31, 08:31:41](https://news.ycombinator.com/item?id=37334125) - [Young climate activist tells Greenpeace to drop ‘old-fashioned’ anti-nuclear](https://www.euractiv.com/section/energy-environment/news/young-climate-activist-tells-greenpeace-to-drop-old-fashioned-anti-nuclear-stance/)
 * [2023-08-31, 08:07:09](https://news.ycombinator.com/item?id=37333939) - [Sourcegraph Security Breach: Incident involving unauthorized admin access](https://about.sourcegraph.com/blog/security-update-august-2023)
 * [2023-08-31, 07:54:08](https://news.ycombinator.com/item?id=37333848) - [*@gmail.com](https://xkcd.com/2822/)
