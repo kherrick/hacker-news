@@ -6,6 +6,7 @@
 
 * [2023-08-31, 12:01:16](https://news.ycombinator.com/item?id=37335833) - [Firezone (YC W22) is hiring Rust engineers to build secure networks](https://www.ycombinator.com/companies/firezone)
 * [2023-08-31, 11:51:19](https://news.ycombinator.com/item?id=37335751) - [NASA officials sound alarm over future of the Deep Space Network](https://arstechnica.com/space/2023/08/nasas-artemis-i-mission-nearly-broke-the-deep-space-network/)
+* [2023-08-31, 11:40:51](https://news.ycombinator.com/item?id=37335656) - [The Dungeons and Dragons Players of Death Row](https://www.nytimes.com/2023/08/31/magazine/dungeons-dragons-death-row.html)
 * [2023-08-31, 11:36:49](https://news.ycombinator.com/item?id=37335607) - [Swedish cities hit by four residential explosions in an hour](https://www.theguardian.com/world/2023/aug/31/bomb-experts-called-in-after-swedish-cities-see-four-explosions-in-just-over-an-hour)
 * [2023-08-31, 11:24:49](https://news.ycombinator.com/item?id=37335492) - [Show HN: AI Judges Your Spotify](https://www.yourmusictastesucks.com/?ref=hn)
 * [2023-08-31, 11:12:45](https://news.ycombinator.com/item?id=37335404) - [Microsoft is unbundling Teams from Office in Europe to address regulator concern](https://www.theverge.com/2023/8/31/23853517/microsoft-teams-unbundling-europe)
@@ -17,6 +18,7 @@
 * [2023-08-31, 09:15:46](https://news.ycombinator.com/item?id=37334454) - [U.S. Bans Sales of Nvidia's H100, A100 GPUs to Middle East](https://www.tomshardware.com/news/us-bans-sales-of-nvidias-h100-a100-gpus-to-middle-east)
 * [2023-08-31, 09:13:54](https://news.ycombinator.com/item?id=37334442) - [Dog autism? 37% of US dog owners buy into anti-vaccine nonsense](https://arstechnica.com/health/2023/08/dog-autism-37-of-us-dog-owners-buy-into-anti-vaccine-nonsense/)
 * [2023-08-31, 08:31:41](https://news.ycombinator.com/item?id=37334125) - [Young climate activist tells Greenpeace to drop ‘old-fashioned’ anti-nuclear](https://www.euractiv.com/section/energy-environment/news/young-climate-activist-tells-greenpeace-to-drop-old-fashioned-anti-nuclear-stance/)
+* [2023-08-31, 08:12:12](https://news.ycombinator.com/item?id=37333976) - [Show HN: A NextJS boilerplate to automate all the boring stuff](https://shipfa.st/)
 * [2023-08-31, 08:07:09](https://news.ycombinator.com/item?id=37333939) - [Sourcegraph Security Breach: Incident involving unauthorized admin access](https://about.sourcegraph.com/blog/security-update-august-2023)
 * [2023-08-31, 07:59:07](https://news.ycombinator.com/item?id=37333882) - [Microsoft to unbundle Teams software in Europe to abate EU antitrust concerns](https://www.cnbc.com/2023/08/31/microsoft-to-unbundle-teams-software-in-europe-in-bid-to-abate-eu-concerns.html)
 * [2023-08-31, 07:54:08](https://news.ycombinator.com/item?id=37333848) - [*@gmail.com](https://xkcd.com/2822/)
