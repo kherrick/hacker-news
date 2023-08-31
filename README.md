@@ -3,7 +3,6 @@
 * [2023-08-31, 09:58:48](https://news.ycombinator.com/item?id=37334750) - [Managed to death: How Canada turned its forests into a carbon bomb](https://thebulletin.org/2023/08/managed-to-death-how-canada-turned-its-forests-into-a-carbon-bomb/#post-heading)
 * [2023-08-31, 09:57:16](https://news.ycombinator.com/item?id=37334737) - [It's not just you – no one is posting on social media anymore](https://www.businessinsider.com/social-media-dead-instagram-tiktok-bereal-replaced-group-chats-messaging-2023-8)
 * [2023-08-31, 09:19:45](https://news.ycombinator.com/item?id=37334486) - [HashiCorp silently amend Terraform Registry TOS](https://github.com/opentffoundation/roadmap/issues/24)
-* [2023-08-31, 09:13:54](https://news.ycombinator.com/item?id=37334442) - [Dog autism? 37% of US dog owners buy into anti-vaccine nonsense](https://arstechnica.com/health/2023/08/dog-autism-37-of-us-dog-owners-buy-into-anti-vaccine-nonsense/)
 * [2023-08-31, 08:31:41](https://news.ycombinator.com/item?id=37334125) - [Young climate activist tells Greenpeace to drop ‘old-fashioned’ anti-nuclear](https://www.euractiv.com/section/energy-environment/news/young-climate-activist-tells-greenpeace-to-drop-old-fashioned-anti-nuclear-stance/)
 * [2023-08-31, 07:54:08](https://news.ycombinator.com/item?id=37333848) - [*@gmail.com](https://xkcd.com/2822/)
 * [2023-08-31, 07:18:26](https://news.ycombinator.com/item?id=37333596) - [Tell HN: UC Berkeley's CS61A/B/C are the best courses to learn CS and coding](https://news.ycombinator.com/item?id=37333596)
@@ -30,6 +29,7 @@
 * [2023-08-29, 11:59:59](https://news.ycombinator.com/item?id=37306431) - [Three Antiquities Traffickers and Their Fall from Grace](https://hyperallergic.com/830328/three-antiquities-traffickers-and-their-fall-from-grace/)
 * [2023-08-29, 11:57:43](https://news.ycombinator.com/item?id=37306401) - [Film Review: BlackBerry](https://anarchonomicon.substack.com/p/review-blackberry)
 * [2023-08-29, 11:54:58](https://news.ycombinator.com/item?id=37306376) - [Never Ending September Date](https://www.df7cb.de/projects/sdate/)
+* [2023-08-29, 07:59:26](https://news.ycombinator.com/item?id=37304666) - [Gallery – Making Molecules](https://www.makingmolecules.com/handouts)
 
 ## [Archives](archives/index.md)
 
