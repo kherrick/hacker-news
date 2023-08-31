@@ -83,6 +83,7 @@
 * [2023-08-29, 11:59:59](https://news.ycombinator.com/item?id=37306431) - [Three Antiquities Traffickers and Their Fall from Grace](https://hyperallergic.com/830328/three-antiquities-traffickers-and-their-fall-from-grace/)
 * [2023-08-29, 11:59:43](https://news.ycombinator.com/item?id=37306427) - [New study finds microplastics infiltrate all systems of body, alter behaviour](https://www.sustainableplastics.com/news/microplastics-found-pass-blood-brain-barrier-even-though-ingested-drinking-water)
 * [2023-08-29, 11:58:34](https://news.ycombinator.com/item?id=37306411) - [ToDesktop – Web app to desktop app in minutes](https://www.todesktop.com/)
+* [2023-08-29, 11:54:58](https://news.ycombinator.com/item?id=37306376) - [Never Ending September Date](https://www.df7cb.de/projects/sdate/)
 * [2023-08-29, 11:53:38](https://news.ycombinator.com/item?id=37306364) - [World’s Oldest Cat Door Has Let Working Cats Enter the Cathedral Since 14c](https://mymodernmet.com/exeter-cathedral-cat-flap/)
 * [2023-08-29, 11:43:00](https://news.ycombinator.com/item?id=37306262) - [Elevator Saga: The elevator programming game](https://play.elevatorsaga.com/index.html)
 * [2023-08-29, 11:42:50](https://news.ycombinator.com/item?id=37306258) - [Show HN: Mu – A Micro App Platform](https://mu.app)

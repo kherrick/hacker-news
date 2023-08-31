@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-30, 23:47:44](https://news.ycombinator.com/item?id=37330642) - [Very, Very, Few People Are Falling Down the YouTube Rabbit Hole](https://www.theatlantic.com/technology/archive/2023/08/youtube-rabbit-holes-american-politics/675186/)
 * [2023-08-30, 22:58:06](https://news.ycombinator.com/item?id=37330234) - [Australia will not force age verification due to privacy and security concerns](https://www.theguardian.com/australia-news/2023/aug/31/roadmap-for-age-verification-online-pornographic-material-adult-websites-australia-law)
-* [2023-08-30, 22:32:31](https://news.ycombinator.com/item?id=37330024) - [Full Speed Ahead: EV Study Reveals Impacts of Fast Charging](https://www.recurrentauto.com/research/impacts-of-fast-charging)
 * [2023-08-30, 22:20:46](https://news.ycombinator.com/item?id=37329923) - [How to Install Lima(runs command line Ubuntu) on macOS Using 9 Easy Steps](https://www.cyberithub.com/how-to-install-lima-on-macos-using-9-easy-steps/)
 * [2023-08-30, 21:01:00](https://news.ycombinator.com/item?id=37329067) - [Mux (YC W16) is hiring a Sr Platform Engineer to work on video infra at scale](https://www.mux.com/jobs?j=srplatform)
 * [2023-08-30, 20:42:49](https://news.ycombinator.com/item?id=37328786) - [At Taser maker Axon, ex-staffers say loyalty meant being tased or tattooed](https://www.reuters.com/investigates/special-report/axon-taser-exposures/)
@@ -13,6 +11,7 @@
 * [2023-08-30, 18:40:52](https://news.ycombinator.com/item?id=37326870) - [Show HN: I automated 1/2 of my typing](https://github.com/eschluntz/compress)
 * [2023-08-30, 17:31:07](https://news.ycombinator.com/item?id=37325711) - [Shocks to the system: Don DeLillo’s novels of the cold war and its aftermath](https://www.bookforum.com/print/3001/don-delillo-s-novels-of-the-cold-war-and-its-aftermath-25202)
 * [2023-08-30, 17:25:55](https://news.ycombinator.com/item?id=37325622) - [Photogrammetry on Commercial Flights (2021)](https://leifgehrmann.com/2021/09/05/photogrammetry-on-a-plane/)
+* [2023-08-30, 16:37:23](https://news.ycombinator.com/item?id=37324683) - [Long Live the 'GPU Poor' – Open-Source AI Grants](https://a16z.com/2023/08/30/supporting-the-open-source-ai-community/)
 * [2023-08-30, 16:21:16](https://news.ycombinator.com/item?id=37324370) - [File Attachments: Databases can now store files and images](https://xata.io/blog/file-attachments)
 * [2023-08-30, 16:01:46](https://news.ycombinator.com/item?id=37324121) - [Keeping Figma Fast: perf-testing the WASM editor](https://www.figma.com/blog/keeping-figma-fast/)
 * [2023-08-30, 15:40:06](https://news.ycombinator.com/item?id=37323834) - [High-Speed AI Drone Overtakes World-Champion Drone Racers](https://www.news.uzh.ch/en/articles/media/2023/Drone-race.html)
@@ -29,6 +28,7 @@
 * [2023-08-30, 07:34:19](https://news.ycombinator.com/item?id=37318810) - [ChatLZMA – text generation from data compression](http://pepijndevos.nl/2023/07/15/chatlmza.html)
 * [2023-08-29, 23:00:04](https://news.ycombinator.com/item?id=37315297) - [Inertial HSMs thwart advanced physical attacks](https://tches.iacr.org/index.php/TCHES/article/view/9290/8856)
 * [2023-08-29, 16:23:03](https://news.ycombinator.com/item?id=37310216) - [Lunik: The CIA’s plot to steal a Soviet satellite (2021)](https://www.technologyreview.com/2021/01/28/1016867/lunik-cia-heist-steal-russian-satellite-space-us-ussr/)
+* [2023-08-29, 11:54:58](https://news.ycombinator.com/item?id=37306376) - [Never Ending September Date](https://www.df7cb.de/projects/sdate/)
 * [2023-08-29, 07:59:26](https://news.ycombinator.com/item?id=37304666) - [Beautifully Designed College Chemistry Handouts](https://www.makingmolecules.com/handouts)
 
 ## [Archives](archives/index.md)
