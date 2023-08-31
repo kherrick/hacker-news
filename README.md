@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-31, 06:38:22](https://news.ycombinator.com/item?id=37333299) - [The 7th century Library of Ashurbanipal is the oldest known library in the world](https://www.worldhistory.org/Library_of_Ashurbanipal/)
+* [2023-08-31, 06:38:22](https://news.ycombinator.com/item?id=37333299) - [7th century BCE Library of Ashurbanipal is the oldest recovered library](https://www.worldhistory.org/Library_of_Ashurbanipal/)
 * [2023-08-31, 06:23:21](https://news.ycombinator.com/item?id=37333195) - [Youtube2Webpage: Create Websites with Text from Videos](https://github.com/obra/Youtube2Webpage)
+* [2023-08-31, 06:07:06](https://news.ycombinator.com/item?id=37333077) - [Cheetah: A Lightweight Virtual Machine Manager for macOS](https://macspot.net/)
 * [2023-08-31, 05:55:10](https://news.ycombinator.com/item?id=37332974) - [Money Is Pouring into AI. Skeptics Say It’s a ‘Grift Shift.’](https://www.institutionalinvestor.com/article/2c4fad0w6irk838pca3gg/portfolio/money-is-pouring-into-ai-skeptics-say-its-a-grift-shift)
 * [2023-08-31, 05:34:20](https://news.ycombinator.com/item?id=37332860) - [Hidden 3D](https://hidden-3d.com/)
 * [2023-08-31, 04:33:40](https://news.ycombinator.com/item?id=37332493) - [RyujinX – Open Source Nintendo Switch Emulator](https://ryujinx.org/)
@@ -15,7 +16,6 @@
 * [2023-08-30, 17:25:55](https://news.ycombinator.com/item?id=37325622) - [Photogrammetry on commercial flights (2021)](https://leifgehrmann.com/2021/09/05/photogrammetry-on-a-plane/)
 * [2023-08-30, 16:29:02](https://news.ycombinator.com/item?id=37324509) - [How might life migrate through the universe?](https://thereader.mitpress.mit.edu/how-might-life-migrate-through-the-universe/)
 * [2023-08-30, 16:21:16](https://news.ycombinator.com/item?id=37324370) - [File Attachments: Databases can now store files and images](https://xata.io/blog/file-attachments)
-* [2023-08-30, 15:24:08](https://news.ycombinator.com/item?id=37323604) - [Hacking the LG Monitor's EDID](https://gist.github.com/kj800x/be3001c07c49fdb36970633b0bc6defb)
 * [2023-08-30, 14:55:13](https://news.ycombinator.com/item?id=37323092) - [Developing 120-year-old photos found in a time capsule [video]](https://www.youtube.com/watch?v=IoDj4mXdqmc)
 * [2023-08-30, 14:37:28](https://news.ycombinator.com/item?id=37322794) - [Multiplix, operating system kernel for RISC-V and AArch64 SBCs](https://github.com/zyedidia/multiplix)
 * [2023-08-30, 14:13:33](https://news.ycombinator.com/item?id=37322460) - [How to get transactions between almost any data stores](https://petereliaskraft.net/blog/epoxy)
