@@ -3,7 +3,6 @@
 * [2023-08-31, 23:00:17](https://news.ycombinator.com/item?id=37344702) - [Independent Guest Virtual Machine (IGVM) File Format](https://github.com/microsoft/igvm)
 * [2023-08-31, 21:47:53](https://news.ycombinator.com/item?id=37344096) - [Wii Architecture – A Practical Analysis](https://www.copetti.org/writings/consoles/wii/)
 * [2023-08-31, 21:39:44](https://news.ycombinator.com/item?id=37344026) - [Types versus sets (and what about categories?) (2022)](https://lawrencecpaulson.github.io/2022/03/16/Types_vs_Sets.html)
-* [2023-08-31, 21:18:16](https://news.ycombinator.com/item?id=37343814) - [SvelteKit View Transitions](https://svelte.dev/blog/view-transitions)
 * [2023-08-31, 21:08:54](https://news.ycombinator.com/item?id=37343711) - [Modern genetic data suggests pre-humans were a group of only 1,280 individuals](https://www.nature.com/articles/d41586-023-02712-4)
 * [2023-08-31, 21:00:19](https://news.ycombinator.com/item?id=37343611) - [Etleap (YC W13) is hiring a software engineer in London or San Francisco](https://etleap.com/careers/software-engineer/)
 * [2023-08-31, 20:29:03](https://news.ycombinator.com/item?id=37343274) - [Keep your files inside your VM](https://msimkunas.lt/2023/08/28/vm-file-sharing.html)
@@ -28,6 +27,7 @@
 * [2023-08-31, 14:15:39](https://news.ycombinator.com/item?id=37337482) - [Ghostfolio: Open-source wealth management software](https://ghostfol.io)
 * [2023-08-31, 13:24:05](https://news.ycombinator.com/item?id=37336782) - [New antifungal therapy for fungal meningitis](https://med.umn.edu/news/u-m-research-team-successfully-tests-new-antifungal-therapy-fungal-meningitis)
 * [2023-08-31, 12:00:49](https://news.ycombinator.com/item?id=37335828) - [Dense Neptune-sized exoplanet discovered with TESS](https://phys.org/news/2023-08-dense-neptune-sized-exoplanet-tess.html)
+* [2023-08-31, 09:19:45](https://news.ycombinator.com/item?id=37334486) - [The Terraform Registry Terms of Service have been updated](https://github.com/opentffoundation/roadmap/issues/24#issuecomment-1699535216)
 * [2023-08-31, 06:38:22](https://news.ycombinator.com/item?id=37333299) - [Library of Ashurbanipal](https://www.worldhistory.org/Library_of_Ashurbanipal/)
 * [2023-08-31, 05:12:39](https://news.ycombinator.com/item?id=37332729) - [The Decline and Rise of IBM (1996)](https://sloanreview.mit.edu/article/the-decline-and-rise-of-ibm/?switch_view=PDF)
 

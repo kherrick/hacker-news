@@ -75,6 +75,7 @@
 * [2023-08-31, 09:57:16](https://news.ycombinator.com/item?id=37334737) - [It's not just you – no one is posting on social media anymore](https://www.businessinsider.com/social-media-dead-instagram-tiktok-bereal-replaced-group-chats-messaging-2023-8)
 * [2023-08-31, 09:51:21](https://news.ycombinator.com/item?id=37334695) - [Show HN: 99% cheaper international business transfers – fixed fee, real rate](https://atlantic.money/gb/en/business)
 * [2023-08-31, 09:38:58](https://news.ycombinator.com/item?id=37334628) - [GPS Spoofing – Pioneered in Russia (2022)](https://greydynamics.com/gps-spoofing-pioneered-in-russia/)
+* [2023-08-31, 09:19:45](https://news.ycombinator.com/item?id=37334486) - [The Terraform Registry Terms of Service have been updated](https://github.com/opentffoundation/roadmap/issues/24#issuecomment-1699535216)
 * [2023-08-31, 09:19:45](https://news.ycombinator.com/item?id=37334486) - [HashiCorp silently amend Terraform Registry TOS](https://github.com/opentffoundation/roadmap/issues/24)
 * [2023-08-31, 09:15:46](https://news.ycombinator.com/item?id=37334454) - [U.S. Bans Sales of Nvidia's H100, A100 GPUs to Middle East](https://www.tomshardware.com/news/us-bans-sales-of-nvidias-h100-a100-gpus-to-middle-east)
 * [2023-08-31, 09:13:54](https://news.ycombinator.com/item?id=37334442) - [Dog autism? 37% of US dog owners buy into anti-vaccine nonsense](https://arstechnica.com/health/2023/08/dog-autism-37-of-us-dog-owners-buy-into-anti-vaccine-nonsense/)
