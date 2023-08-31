@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-31](index.md)
 
+* [2023-08-31, 12:44:14](https://news.ycombinator.com/item?id=37336299) - [Shell Quietly Shelves a Radical Plan to Shrink Its Carbon Footprint](https://www.bloomberg.com/news/features/2023-08-31/shell-silently-abandoned-its-100-million-a-year-plan-to-offset-co2-emissions)
+* [2023-08-31, 12:11:47](https://news.ycombinator.com/item?id=37335945) - [Docker Is Four Things](https://matthiasportzel.com/docker/)
 * [2023-08-31, 12:01:16](https://news.ycombinator.com/item?id=37335833) - [Firezone (YC W22) is hiring Rust engineers to build secure networks](https://www.ycombinator.com/companies/firezone)
 * [2023-08-31, 11:51:19](https://news.ycombinator.com/item?id=37335751) - [NASA officials sound alarm over future of the Deep Space Network](https://arstechnica.com/space/2023/08/nasas-artemis-i-mission-nearly-broke-the-deep-space-network/)
 * [2023-08-31, 11:40:51](https://news.ycombinator.com/item?id=37335656) - [The Dungeons and Dragons Players of Death Row](https://www.nytimes.com/2023/08/31/magazine/dungeons-dragons-death-row.html)

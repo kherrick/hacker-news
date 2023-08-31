@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-31, 12:44:14](https://news.ycombinator.com/item?id=37336299) - [Shell Quietly Shelves a Radical Plan to Shrink Its Carbon Footprint](https://www.bloomberg.com/news/features/2023-08-31/shell-silently-abandoned-its-100-million-a-year-plan-to-offset-co2-emissions)
+* [2023-08-31, 12:11:47](https://news.ycombinator.com/item?id=37335945) - [Docker Is Four Things](https://matthiasportzel.com/docker/)
 * [2023-08-31, 12:01:16](https://news.ycombinator.com/item?id=37335833) - [Firezone (YC W22) is hiring Rust engineers to build secure networks](https://www.ycombinator.com/companies/firezone)
 * [2023-08-31, 11:51:19](https://news.ycombinator.com/item?id=37335751) - [NASA officials sound alarm over future of the Deep Space Network](https://arstechnica.com/space/2023/08/nasas-artemis-i-mission-nearly-broke-the-deep-space-network/)
 * [2023-08-31, 11:40:51](https://news.ycombinator.com/item?id=37335656) - [The Dungeons and Dragons Players of Death Row](https://www.nytimes.com/2023/08/31/magazine/dungeons-dragons-death-row.html)
 * [2023-08-31, 11:12:45](https://news.ycombinator.com/item?id=37335404) - [Microsoft is unbundling Teams from Office in Europe to address regulator concern](https://www.theverge.com/2023/8/31/23853517/microsoft-teams-unbundling-europe)
-* [2023-08-31, 09:58:48](https://news.ycombinator.com/item?id=37334750) - [Managed to death: How Canada turned its forests into a carbon bomb](https://thebulletin.org/2023/08/managed-to-death-how-canada-turned-its-forests-into-a-carbon-bomb/#post-heading)
-* [2023-08-31, 09:51:21](https://news.ycombinator.com/item?id=37334695) - [Show HN: 99% cheaper international business transfers – fixed fee, real rate](https://atlantic.money/gb/en/business)
 * [2023-08-31, 09:19:45](https://news.ycombinator.com/item?id=37334486) - [HashiCorp silently amend Terraform Registry TOS](https://github.com/opentffoundation/roadmap/issues/24)
 * [2023-08-31, 08:12:12](https://news.ycombinator.com/item?id=37333976) - [Show HN: A NextJS boilerplate to automate all the boring stuff](https://shipfa.st/)
 * [2023-08-31, 07:59:07](https://news.ycombinator.com/item?id=37333882) - [Microsoft to unbundle Teams software in Europe to abate EU antitrust concerns](https://www.cnbc.com/2023/08/31/microsoft-to-unbundle-teams-software-in-europe-in-bid-to-abate-eu-concerns.html)
