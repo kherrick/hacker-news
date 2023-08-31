@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-31, 17:14:51](https://news.ycombinator.com/item?id=37340547) - [Rare oxygen isotope detected at last – and it defies expectations](https://www.nature.com/articles/d41586-023-02713-3)
+* [2023-08-31, 17:13:34](https://news.ycombinator.com/item?id=37340523) - [No Love for Negative Permissions – DAC/ACL Bypass on Linux](https://blog.sigma-star.at/post/2023/08/negative-permissions/)
 * [2023-08-31, 17:00:22](https://news.ycombinator.com/item?id=37340314) - [Teaching with AI](https://openai.com/blog/teaching-with-ai)
 * [2023-08-31, 17:00:18](https://news.ycombinator.com/item?id=37340311) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37340311)
 * [2023-08-31, 16:58:58](https://news.ycombinator.com/item?id=37340290) - [Why Mathematical Proof Is a Social Compact](https://www.quantamagazine.org/why-mathematical-proof-is-a-social-compact-20230831/)
@@ -26,7 +27,6 @@
 * [2023-08-31, 04:33:40](https://news.ycombinator.com/item?id=37332493) - [RyujinX – Open Source Nintendo Switch Emulator](https://ryujinx.org/)
 * [2023-08-31, 03:30:01](https://news.ycombinator.com/item?id=37332126) - [Ask HN: How to handle Asian-style “Family name first” when designing interfaces?](https://news.ycombinator.com/item?id=37332126)
 * [2023-08-31, 02:51:50](https://news.ycombinator.com/item?id=37331902) - [Exploring light neutron-rich nuclei: First observation of oxygen-28](https://phys.org/news/2023-08-exploring-neutron-rich-nuclei-oxygen-.html)
-* [2023-08-31, 02:27:26](https://news.ycombinator.com/item?id=37331778) - [Absurd Success](https://www.marginalia.nu/log/87_absurd_success/)
 * [2023-08-30, 09:30:00](https://news.ycombinator.com/item?id=37319461) - [Mimicking natural selection in chemical systems](https://www.nature.com/articles/s41570-019-0155-6)
 * [2023-08-29, 12:19:47](https://news.ycombinator.com/item?id=37306619) - [Lego Ideas: Insect Collection – Botanicals meets animals](https://www.brothers-brick.com/2023/08/28/lego-ideas-21342-the-insect-collection-botanicals-meets-animals-review/)
 * [2023-08-29, 09:13:14](https://news.ycombinator.com/item?id=37305113) - [Secure Boot on ESP32 Platforms](https://thistle.tech/blog/esp32-secure-boot-v2-enablement-2)
