@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-31, 09:58:48](https://news.ycombinator.com/item?id=37334750) - [Managed to death: How Canada turned its forests into a carbon bomb](https://thebulletin.org/2023/08/managed-to-death-how-canada-turned-its-forests-into-a-carbon-bomb/#post-heading)
+* [2023-08-31, 09:57:16](https://news.ycombinator.com/item?id=37334737) - [It's not just you – no one is posting on social media anymore](https://www.businessinsider.com/social-media-dead-instagram-tiktok-bereal-replaced-group-chats-messaging-2023-8)
+* [2023-08-31, 09:19:45](https://news.ycombinator.com/item?id=37334486) - [HashiCorp silently amend Terraform Registry TOS](https://github.com/opentffoundation/roadmap/issues/24)
 * [2023-08-31, 09:15:46](https://news.ycombinator.com/item?id=37334454) - [U.S. Bans Sales of Nvidia's H100, A100 GPUs to Middle East](https://www.tomshardware.com/news/us-bans-sales-of-nvidias-h100-a100-gpus-to-middle-east)
 * [2023-08-31, 08:31:41](https://news.ycombinator.com/item?id=37334125) - [Young climate activist tells Greenpeace to drop ‘old-fashioned’ anti-nuclear](https://www.euractiv.com/section/energy-environment/news/young-climate-activist-tells-greenpeace-to-drop-old-fashioned-anti-nuclear-stance/)
 * [2023-08-31, 07:54:08](https://news.ycombinator.com/item?id=37333848) - [*@gmail.com](https://xkcd.com/2822/)
@@ -7,7 +10,6 @@
 * [2023-08-31, 06:53:43](https://news.ycombinator.com/item?id=37333404) - [UTM – Virtual Machines for iOS and macOS](https://github.com/utmapp/UTM)
 * [2023-08-31, 06:23:21](https://news.ycombinator.com/item?id=37333195) - [Youtube2Webpage: Create Websites with Text from Videos](https://github.com/obra/Youtube2Webpage)
 * [2023-08-31, 06:07:06](https://news.ycombinator.com/item?id=37333077) - [Cheetah: A Lightweight Virtual Machine Manager for macOS](https://macspot.net/)
-* [2023-08-31, 05:34:20](https://news.ycombinator.com/item?id=37332860) - [Hidden 3D](https://hidden-3d.com/)
 * [2023-08-31, 04:33:40](https://news.ycombinator.com/item?id=37332493) - [RyujinX – Open Source Nintendo Switch Emulator](https://ryujinx.org/)
 * [2023-08-31, 03:30:01](https://news.ycombinator.com/item?id=37332126) - [Ask HN: How to handle Asian-style “Family name first” when designing interfaces?](https://news.ycombinator.com/item?id=37332126)
 * [2023-08-31, 02:52:33](https://news.ycombinator.com/item?id=37331907) - [FDA approves multiple generics of ADHD and BED treatment Vyvanse](https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-multiple-generics-adhd-and-bed-treatment)
@@ -17,7 +19,6 @@
 * [2023-08-30, 20:35:25](https://news.ycombinator.com/item?id=37328669) - [Keisan Casio is shutting down](https://keisan.casio.com/keisan/abolition.php)
 * [2023-08-30, 19:27:03](https://news.ycombinator.com/item?id=37327606) - [Making Amiga IFF Thumbnails Work in Linux](https://linuxjedi.co.uk/2023/08/24/making-amiga-iff-thumbnails-work-in-linux/)
 * [2023-08-30, 18:40:52](https://news.ycombinator.com/item?id=37326870) - [Show HN: I automated half of my typing](https://github.com/eschluntz/compress)
-* [2023-08-30, 17:25:55](https://news.ycombinator.com/item?id=37325622) - [Photogrammetry on commercial flights (2021)](https://leifgehrmann.com/2021/09/05/photogrammetry-on-a-plane/)
 * [2023-08-30, 16:29:27](https://news.ycombinator.com/item?id=37324518) - [When should you use the IN instead of the OR operator in Postgres?](https://ottertune.com/blog/query-best-practices-when-should-you-use-the-in-instead-of-the-or-operator)
 * [2023-08-30, 15:40:06](https://news.ycombinator.com/item?id=37323834) - [High-Speed AI Drone Overtakes World-Champion Drone Racers](https://www.news.uzh.ch/en/articles/media/2023/Drone-race.html)
 * [2023-08-30, 15:24:08](https://news.ycombinator.com/item?id=37323604) - [Hacking the LG Monitor's EDID](https://gist.github.com/kj800x/be3001c07c49fdb36970633b0bc6defb)
@@ -29,7 +30,6 @@
 * [2023-08-29, 11:59:59](https://news.ycombinator.com/item?id=37306431) - [Three Antiquities Traffickers and Their Fall from Grace](https://hyperallergic.com/830328/three-antiquities-traffickers-and-their-fall-from-grace/)
 * [2023-08-29, 11:57:43](https://news.ycombinator.com/item?id=37306401) - [Film Review: BlackBerry](https://anarchonomicon.substack.com/p/review-blackberry)
 * [2023-08-29, 11:54:58](https://news.ycombinator.com/item?id=37306376) - [Never Ending September Date](https://www.df7cb.de/projects/sdate/)
-* [2023-08-29, 07:59:26](https://news.ycombinator.com/item?id=37304666) - [Gallery – Making Molecules](https://www.makingmolecules.com/handouts)
 
 ## [Archives](archives/index.md)
 
