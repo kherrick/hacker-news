@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-31](index.md)
 
+* [2023-08-31, 23:00:17](https://news.ycombinator.com/item?id=37344702) - [Independent Guest Virtual Machine (IGVM) File Format](https://github.com/microsoft/igvm)
 * [2023-08-31, 21:47:53](https://news.ycombinator.com/item?id=37344096) - [Wii Architecture – A Practical Analysis](https://www.copetti.org/writings/consoles/wii/)
 * [2023-08-31, 21:39:44](https://news.ycombinator.com/item?id=37344026) - [Types versus sets (and what about categories?)](https://lawrencecpaulson.github.io/2022/03/16/Types_vs_Sets.html)
+* [2023-08-31, 21:18:16](https://news.ycombinator.com/item?id=37343814) - [SvelteKit View Transitions](https://svelte.dev/blog/view-transitions)
 * [2023-08-31, 21:08:54](https://news.ycombinator.com/item?id=37343711) - [Human ancestors nearly went extinct 900k years ago](https://www.nature.com/articles/d41586-023-02712-4)
 * [2023-08-31, 21:00:19](https://news.ycombinator.com/item?id=37343611) - [Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)](https://etleap.com/careers/software-engineer/)
 * [2023-08-31, 20:29:03](https://news.ycombinator.com/item?id=37343274) - [Keep your files inside your VM](https://msimkunas.lt/2023/08/28/vm-file-sharing.html)
@@ -61,6 +63,7 @@
 * [2023-08-31, 12:17:38](https://news.ycombinator.com/item?id=37336013) - [Chandrayaan-3 Confirms Presence of Sulfur and Other Elements on Lunar South Pole](https://scienceswitch.com/2023/08/31/isros-chandrayaan-3-confirms-presence-of-sulfur-and-other-elements-on-lunar-south-pole/)
 * [2023-08-31, 12:11:47](https://news.ycombinator.com/item?id=37335945) - [Docker Is Four Things](https://matthiasportzel.com/docker/)
 * [2023-08-31, 12:01:16](https://news.ycombinator.com/item?id=37335833) - [Firezone (YC W22) is hiring Rust engineers to build secure networks](https://www.ycombinator.com/companies/firezone)
+* [2023-08-31, 12:00:49](https://news.ycombinator.com/item?id=37335828) - [Dense Neptune-sized exoplanet discovered with TESS](https://phys.org/news/2023-08-dense-neptune-sized-exoplanet-tess.html)
 * [2023-08-31, 11:51:19](https://news.ycombinator.com/item?id=37335751) - [NASA officials sound alarm over future of the Deep Space Network](https://arstechnica.com/space/2023/08/nasas-artemis-i-mission-nearly-broke-the-deep-space-network/)
 * [2023-08-31, 11:40:51](https://news.ycombinator.com/item?id=37335656) - [The Dungeons and Dragons Players of Death Row](https://www.nytimes.com/2023/08/31/magazine/dungeons-dragons-death-row.html)
 * [2023-08-31, 11:36:49](https://news.ycombinator.com/item?id=37335607) - [Swedish cities hit by four residential explosions in an hour](https://www.theguardian.com/world/2023/aug/31/bomb-experts-called-in-after-swedish-cities-see-four-explosions-in-just-over-an-hour)
