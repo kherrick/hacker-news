@@ -13,6 +13,7 @@
 * [2023-08-31, 09:13:54](https://news.ycombinator.com/item?id=37334442) - [Dog autism? 37% of US dog owners buy into anti-vaccine nonsense](https://arstechnica.com/health/2023/08/dog-autism-37-of-us-dog-owners-buy-into-anti-vaccine-nonsense/)
 * [2023-08-31, 08:31:41](https://news.ycombinator.com/item?id=37334125) - [Young climate activist tells Greenpeace to drop ‘old-fashioned’ anti-nuclear](https://www.euractiv.com/section/energy-environment/news/young-climate-activist-tells-greenpeace-to-drop-old-fashioned-anti-nuclear-stance/)
 * [2023-08-31, 08:07:09](https://news.ycombinator.com/item?id=37333939) - [Sourcegraph Security Breach: Incident involving unauthorized admin access](https://about.sourcegraph.com/blog/security-update-august-2023)
+* [2023-08-31, 07:59:07](https://news.ycombinator.com/item?id=37333882) - [Microsoft to unbundle Teams software in Europe to abate EU antitrust concerns](https://www.cnbc.com/2023/08/31/microsoft-to-unbundle-teams-software-in-europe-in-bid-to-abate-eu-concerns.html)
 * [2023-08-31, 07:54:08](https://news.ycombinator.com/item?id=37333848) - [*@gmail.com](https://xkcd.com/2822/)
 * [2023-08-31, 07:52:42](https://news.ycombinator.com/item?id=37333837) - [Ask HN: Why hasn't the cloud killed the mainframe?](https://news.ycombinator.com/item?id=37333837)
 * [2023-08-31, 07:18:26](https://news.ycombinator.com/item?id=37333596) - [Tell HN: UC Berkeley's CS61A/B/C are the best courses to learn CS and coding](https://news.ycombinator.com/item?id=37333596)

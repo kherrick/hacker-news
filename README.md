@@ -4,6 +4,7 @@
 * [2023-08-31, 09:57:16](https://news.ycombinator.com/item?id=37334737) - [It's not just you – no one is posting on social media anymore](https://www.businessinsider.com/social-media-dead-instagram-tiktok-bereal-replaced-group-chats-messaging-2023-8)
 * [2023-08-31, 09:51:21](https://news.ycombinator.com/item?id=37334695) - [Show HN: 99% cheaper international business transfers – fixed fee, real rate](https://atlantic.money/gb/en/business)
 * [2023-08-31, 09:19:45](https://news.ycombinator.com/item?id=37334486) - [HashiCorp silently amend Terraform Registry TOS](https://github.com/opentffoundation/roadmap/issues/24)
+* [2023-08-31, 07:59:07](https://news.ycombinator.com/item?id=37333882) - [Microsoft to unbundle Teams software in Europe to abate EU antitrust concerns](https://www.cnbc.com/2023/08/31/microsoft-to-unbundle-teams-software-in-europe-in-bid-to-abate-eu-concerns.html)
 * [2023-08-31, 07:54:08](https://news.ycombinator.com/item?id=37333848) - [*@gmail.com](https://xkcd.com/2822/)
 * [2023-08-31, 07:18:26](https://news.ycombinator.com/item?id=37333596) - [Tell HN: UC Berkeley's CS61A/B/C are the best courses to learn CS and coding](https://news.ycombinator.com/item?id=37333596)
 * [2023-08-31, 06:53:43](https://news.ycombinator.com/item?id=37333404) - [UTM – Virtual Machines for iOS and macOS](https://github.com/utmapp/UTM)
@@ -28,7 +29,6 @@
 * [2023-08-29, 11:59:59](https://news.ycombinator.com/item?id=37306431) - [Three Antiquities Traffickers and Their Fall from Grace](https://hyperallergic.com/830328/three-antiquities-traffickers-and-their-fall-from-grace/)
 * [2023-08-29, 11:57:43](https://news.ycombinator.com/item?id=37306401) - [Film Review: BlackBerry](https://anarchonomicon.substack.com/p/review-blackberry)
 * [2023-08-29, 11:54:58](https://news.ycombinator.com/item?id=37306376) - [Never Ending September Date](https://www.df7cb.de/projects/sdate/)
-* [2023-08-29, 07:59:26](https://news.ycombinator.com/item?id=37304666) - [Gallery – Making Molecules](https://www.makingmolecules.com/handouts)
 * [2023-08-29, 05:04:19](https://news.ycombinator.com/item?id=37303722) - [The open source saxophone project](https://www.stohrermusic.com/2017/10/the-open-source-saxophone-project/)
 
 ## [Archives](archives/index.md)
