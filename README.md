@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-31, 21:39:44](https://news.ycombinator.com/item?id=37344026) - [Types versus sets (and what about categories?)](https://lawrencecpaulson.github.io/2022/03/16/Types_vs_Sets.html)
 * [2023-08-31, 21:08:54](https://news.ycombinator.com/item?id=37343711) - [Human ancestors nearly went extinct 900k years ago](https://www.nature.com/articles/d41586-023-02712-4)
 * [2023-08-31, 21:00:19](https://news.ycombinator.com/item?id=37343611) - [Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)](https://etleap.com/careers/software-engineer/)
 * [2023-08-31, 20:29:03](https://news.ycombinator.com/item?id=37343274) - [Keep your files inside your VM](https://msimkunas.lt/2023/08/28/vm-file-sharing.html)
@@ -26,7 +27,6 @@
 * [2023-08-31, 06:53:43](https://news.ycombinator.com/item?id=37333404) - [UTM – Virtual Machines for iOS and macOS](https://github.com/utmapp/UTM)
 * [2023-08-31, 06:38:22](https://news.ycombinator.com/item?id=37333299) - [Library of Ashurbanipal](https://www.worldhistory.org/Library_of_Ashurbanipal/)
 * [2023-08-31, 05:12:39](https://news.ycombinator.com/item?id=37332729) - [The Decline and Rise of IBM (1996)](https://sloanreview.mit.edu/article/the-decline-and-rise-of-ibm/?switch_view=PDF)
-* [2023-08-31, 04:01:13](https://news.ycombinator.com/item?id=37332303) - [The Story of Carrene (1935)](https://pdfhost.io/v/oxZ.mlWg9_The_Story_of_Carrene)
 * [2023-08-30, 14:04:03](https://news.ycombinator.com/item?id=37322350) - [Show HN: dnum − A small TypeScript library to handle decimal numbers](https://github.com/bpierre/dnum)
 * [2023-08-29, 12:19:47](https://news.ycombinator.com/item?id=37306619) - [Lego Ideas: Insect Collection – Botanicals meets animals](https://www.brothers-brick.com/2023/08/28/lego-ideas-21342-the-insect-collection-botanicals-meets-animals-review/)
 * [2023-08-29, 05:04:19](https://news.ycombinator.com/item?id=37303722) - [The open source saxophone project (2017)](https://www.stohrermusic.com/2017/10/the-open-source-saxophone-project/)
