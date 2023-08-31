@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-31](index.md)
 
+* [2023-08-31, 15:24:55](https://news.ycombinator.com/item?id=37338672) - [South Korea extends natural population fall as fertility rate falls to 0.7](https://www.koreatimes.co.kr/www/nation/2023/08/113_358114.html)
+* [2023-08-31, 15:20:48](https://news.ycombinator.com/item?id=37338585) - [X wants permission to start collecting your bio data and employment history](https://www.theverge.com/2023/8/31/23853618/x-privacy-policy-update-biometrics-job-history)
 * [2023-08-31, 14:54:38](https://news.ycombinator.com/item?id=37338127) - [Supporting people’s right to accurate and safe political discourse on X](https://blog.twitter.com/en_us/topics/company/2023/supporting-peoples-right-to-accurate-and-safe-political-discourse-on-x)
 * [2023-08-31, 14:46:15](https://news.ycombinator.com/item?id=37337984) - [Designers Say Only Way to Fix Tesla Cybertruck Is to Start Over](https://jalopnik.com/only-way-to-fix-tesla-cybertruck-design-start-over-1850789341)
 * [2023-08-31, 14:35:23](https://news.ycombinator.com/item?id=37337771) - [IBM promised to back off facial recognition, then signed a $70M contract for it](https://www.theverge.com/2023/8/31/23852955/ibm-uk-government-contract-biometric-facial-recognition)
