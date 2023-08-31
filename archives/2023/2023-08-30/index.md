@@ -118,3 +118,4 @@
 * [2023-08-30, 02:12:31](https://news.ycombinator.com/item?id=37316831) - [Discovery of Spherules of Likely Extrasolar Composition in the Pacific Ocean [pdf]](https://lweb.cfa.harvard.edu/~loeb/Interstellar_Expedition.pdf)
 * [2023-08-30, 01:34:32](https://news.ycombinator.com/item?id=37316572) - [Putin’s Forever War](https://www.nytimes.com/2023/08/06/world/europe/putins-forever-war.html)
 * [2023-08-30, 01:00:52](https://news.ycombinator.com/item?id=37316309) - [Fomos: Experimental OS, built with Rust](https://github.com/Ruddle/Fomos)
+* [2023-08-30, 00:56:25](https://news.ycombinator.com/item?id=37316280) - [The Tera Computer System (1990)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=108b3a24274af0aab079bd94ab7c1ee6543563d4)

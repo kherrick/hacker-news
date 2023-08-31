@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-31, 02:03:19](https://news.ycombinator.com/item?id=37331614) - [Lockdowns and face masks ‘unequivocally’ cut spread of Covid, report finds](https://www.theguardian.com/world/2023/aug/24/lockdowns-face-masks-unequivocally-cut-spread-covid-study-finds)
-* [2023-08-31, 01:32:25](https://news.ycombinator.com/item?id=37331419) - [Tune PaLM 2 with your own RLHF training data](https://github.com/GoogleCloudPlatform/vertex-ai-samples/blob/main/notebooks/official/gen_ai/rlhf_tune_llm.ipynb)
+* [2023-08-31, 02:27:26](https://news.ycombinator.com/item?id=37331778) - [Absurd Success](https://www.marginalia.nu/log/87_absurd_success/)
 * [2023-08-30, 22:58:06](https://news.ycombinator.com/item?id=37330234) - [Australia will not force adult websites to bring in age verification](https://www.theguardian.com/australia-news/2023/aug/31/roadmap-for-age-verification-online-pornographic-material-adult-websites-australia-law)
 * [2023-08-30, 22:20:46](https://news.ycombinator.com/item?id=37329923) - [How to Install Lima(runs command line Ubuntu) on macOS Using 9 Easy Steps](https://www.cyberithub.com/how-to-install-lima-on-macos-using-9-easy-steps/)
 * [2023-08-30, 21:01:00](https://news.ycombinator.com/item?id=37329067) - [Mux (YC W16) is hiring a Sr Platform Engineer to work on video infra at scale](https://www.mux.com/jobs?j=srplatform)
@@ -26,6 +25,7 @@
 * [2023-08-30, 12:18:30](https://news.ycombinator.com/item?id=37320897) - [Fake town built exclusively for filming TV and movies](https://petapixel.com/2023/08/23/this-giant-fake-town-was-built-exclusively-for-filming-tv-and-movies/)
 * [2023-08-30, 11:40:48](https://news.ycombinator.com/item?id=37320516) - [N guilty men (1997)](https://www2.law.ucla.edu/volokh/guilty.htm)
 * [2023-08-30, 07:34:19](https://news.ycombinator.com/item?id=37318810) - [ChatLZMA – text generation from data compression](http://pepijndevos.nl/2023/07/15/chatlmza.html)
+* [2023-08-30, 00:56:25](https://news.ycombinator.com/item?id=37316280) - [The Tera Computer System (1990)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=108b3a24274af0aab079bd94ab7c1ee6543563d4)
 * [2023-08-29, 23:00:04](https://news.ycombinator.com/item?id=37315297) - [Inertial HSMs thwart advanced physical attacks](https://tches.iacr.org/index.php/TCHES/article/view/9290/8856)
 * [2023-08-29, 16:23:03](https://news.ycombinator.com/item?id=37310216) - [Lunik: The CIA’s plot to steal a Soviet satellite (2021)](https://www.technologyreview.com/2021/01/28/1016867/lunik-cia-heist-steal-russian-satellite-space-us-ussr/)
 * [2023-08-29, 11:54:58](https://news.ycombinator.com/item?id=37306376) - [Never Ending September Date](https://www.df7cb.de/projects/sdate/)
