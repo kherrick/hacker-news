@@ -79,6 +79,7 @@
 * [2023-08-29, 12:38:04](https://news.ycombinator.com/item?id=37306841) - [America Is Using Up Its Groundwater Like There’s No Tomorrow](https://www.nytimes.com/interactive/2023/08/28/climate/groundwater-drying-climate-change.html)
 * [2023-08-29, 12:35:25](https://news.ycombinator.com/item?id=37306810) - [Google’s Surveillance: The Shocking Truth – Simplified Privacy](https://simplifiedprivacy.com/googles-surveillance-the-shocking-truth/)
 * [2023-08-29, 12:31:27](https://news.ycombinator.com/item?id=37306769) - [I don’t buy “duplication is cheaper than the wrong abstraction” (2021)](https://www.codewithjason.com/duplication-cheaper-wrong-abstraction/)
+* [2023-08-29, 12:19:47](https://news.ycombinator.com/item?id=37306619) - [Lego Ideas: Insect Collection – Botanicals meets animals](https://www.brothers-brick.com/2023/08/28/lego-ideas-21342-the-insect-collection-botanicals-meets-animals-review/)
 * [2023-08-29, 12:17:25](https://news.ycombinator.com/item?id=37306596) - [Ask HN: Are there any fulfilling careers in tech anymore?](https://news.ycombinator.com/item?id=37306596)
 * [2023-08-29, 12:11:42](https://news.ycombinator.com/item?id=37306534) - [Simplifying GPU Application Development with HMM](https://developer.nvidia.com/blog/simplifying-gpu-application-development-with-heterogeneous-memory-management/)
 * [2023-08-29, 12:11:12](https://news.ycombinator.com/item?id=37306530) - [Duet AI for Google Workspace Now Available](https://workspace.google.com/blog/product-announcements/duet-ai-in-workspace-now-available)
