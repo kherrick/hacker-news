@@ -3,7 +3,7 @@
 * [2023-08-31, 04:33:40](https://news.ycombinator.com/item?id=37332493) - [RyujinX – Open Source Nintendo Switch Emulator](https://ryujinx.org/)
 * [2023-08-31, 04:26:40](https://news.ycombinator.com/item?id=37332459) - [Croner – Cron for JavaScript and TypeScript](https://github.com/Hexagon/croner)
 * [2023-08-31, 03:59:16](https://news.ycombinator.com/item?id=37332292) - [There have been several public library bomb threats this week](https://bookriot.com/there-have-been-several-public-library-bomb-threats-this-week/)
-* [2023-08-31, 03:36:48](https://news.ycombinator.com/item?id=37332172) - [Locals have been sounding the alarm for years about Lahaina wildfire risk](https://grist.org/wildfires/maui-fire-risk-drought-grass-sound-alarm-lahaina-hawaii/)
+* [2023-08-31, 03:20:01](https://news.ycombinator.com/item?id=37332068) - [The Case for Nushell](https://www.jntrnr.com/case-for-nushell/)
 * [2023-08-31, 03:10:55](https://news.ycombinator.com/item?id=37332018) - [Intuition for Probability and Likelihood](https://www.notion.so/aplaceofmind/Intuition-for-probability-and-likelihood-ab3a3ee3fe9d4013ac827a00ae144d83)
 * [2023-08-31, 02:27:26](https://news.ycombinator.com/item?id=37331778) - [Absurd Success](https://www.marginalia.nu/log/87_absurd_success/)
 * [2023-08-30, 21:01:00](https://news.ycombinator.com/item?id=37329067) - [Mux (YC W16) is hiring a Sr Platform Engineer to work on video infra at scale](https://www.mux.com/jobs?j=srplatform)
