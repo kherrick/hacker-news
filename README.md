@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-31, 11:24:49](https://news.ycombinator.com/item?id=37335492) - [Show HN: AI Judges Your Spotify](https://www.yourmusictastesucks.com/?ref=hn)
+* [2023-08-31, 11:12:45](https://news.ycombinator.com/item?id=37335404) - [Microsoft is unbundling Teams from Office in Europe to address regulator concern](https://www.theverge.com/2023/8/31/23853517/microsoft-teams-unbundling-europe)
 * [2023-08-31, 09:58:48](https://news.ycombinator.com/item?id=37334750) - [Managed to death: How Canada turned its forests into a carbon bomb](https://thebulletin.org/2023/08/managed-to-death-how-canada-turned-its-forests-into-a-carbon-bomb/#post-heading)
-* [2023-08-31, 09:57:16](https://news.ycombinator.com/item?id=37334737) - [It's not just you – no one is posting on social media anymore](https://www.businessinsider.com/social-media-dead-instagram-tiktok-bereal-replaced-group-chats-messaging-2023-8)
 * [2023-08-31, 09:51:21](https://news.ycombinator.com/item?id=37334695) - [Show HN: 99% cheaper international business transfers – fixed fee, real rate](https://atlantic.money/gb/en/business)
 * [2023-08-31, 09:19:45](https://news.ycombinator.com/item?id=37334486) - [HashiCorp silently amend Terraform Registry TOS](https://github.com/opentffoundation/roadmap/issues/24)
 * [2023-08-31, 07:59:07](https://news.ycombinator.com/item?id=37333882) - [Microsoft to unbundle Teams software in Europe to abate EU antitrust concerns](https://www.cnbc.com/2023/08/31/microsoft-to-unbundle-teams-software-in-europe-in-bid-to-abate-eu-concerns.html)
@@ -16,7 +16,6 @@
 * [2023-08-31, 02:27:26](https://news.ycombinator.com/item?id=37331778) - [Absurd Success](https://www.marginalia.nu/log/87_absurd_success/)
 * [2023-08-30, 23:09:34](https://news.ycombinator.com/item?id=37330318) - [Sourcegraph: Incident involving unauthorized admin access](https://about.sourcegraph.com/blog/security-update-august-2023)
 * [2023-08-30, 21:01:00](https://news.ycombinator.com/item?id=37329067) - [Mux (YC W16) is hiring a Sr Platform Engineer to work on video infra at scale](https://www.mux.com/jobs?j=srplatform)
-* [2023-08-30, 20:35:25](https://news.ycombinator.com/item?id=37328669) - [Keisan Casio is shutting down](https://keisan.casio.com/keisan/abolition.php)
 * [2023-08-30, 18:40:52](https://news.ycombinator.com/item?id=37326870) - [Show HN: I automated half of my typing](https://github.com/eschluntz/compress)
 * [2023-08-30, 17:25:55](https://news.ycombinator.com/item?id=37325622) - [Photogrammetry on commercial flights (2021)](https://leifgehrmann.com/2021/09/05/photogrammetry-on-a-plane/)
 * [2023-08-30, 16:29:27](https://news.ycombinator.com/item?id=37324518) - [When should you use the IN instead of the OR operator in Postgres?](https://ottertune.com/blog/query-best-practices-when-should-you-use-the-in-instead-of-the-or-operator)
@@ -29,6 +28,7 @@
 * [2023-08-29, 11:59:59](https://news.ycombinator.com/item?id=37306431) - [Three Antiquities Traffickers and Their Fall from Grace](https://hyperallergic.com/830328/three-antiquities-traffickers-and-their-fall-from-grace/)
 * [2023-08-29, 11:57:43](https://news.ycombinator.com/item?id=37306401) - [Film Review: BlackBerry](https://anarchonomicon.substack.com/p/review-blackberry)
 * [2023-08-29, 11:54:58](https://news.ycombinator.com/item?id=37306376) - [Never Ending September Date](https://www.df7cb.de/projects/sdate/)
+* [2023-08-29, 07:59:26](https://news.ycombinator.com/item?id=37304666) - [Gallery – Making Molecules](https://www.makingmolecules.com/handouts)
 * [2023-08-29, 05:04:19](https://news.ycombinator.com/item?id=37303722) - [The open source saxophone project](https://www.stohrermusic.com/2017/10/the-open-source-saxophone-project/)
 
 ## [Archives](archives/index.md)
