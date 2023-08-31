@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 23:47:44](https://news.ycombinator.com/item?id=37330642) - [Very, Very, Few People Are Falling Down the YouTube Rabbit Hole](https://www.theatlantic.com/technology/archive/2023/08/youtube-rabbit-holes-american-politics/675186/)
 * [2023-08-30, 23:10:09](https://news.ycombinator.com/item?id=37330327) - [Real-world ranges for Teslas 50-60% of EPA Range](https://www.recurrentauto.com/news/real-world-range-for-tesla)
 * [2023-08-30, 22:58:06](https://news.ycombinator.com/item?id=37330234) - [Australia will not force age verification due to privacy and security concerns](https://www.theguardian.com/australia-news/2023/aug/31/roadmap-for-age-verification-online-pornographic-material-adult-websites-australia-law)
 * [2023-08-30, 22:32:31](https://news.ycombinator.com/item?id=37330024) - [Full Speed Ahead: EV Study Reveals Impacts of Fast Charging](https://www.recurrentauto.com/research/impacts-of-fast-charging)
@@ -75,6 +76,7 @@
 * [2023-08-30, 12:32:05](https://news.ycombinator.com/item?id=37321028) - [A DIY ‘bionic pancreas’ is changing diabetes care – what's next?](https://www.nature.com/articles/d41586-023-02648-9)
 * [2023-08-30, 12:31:30](https://news.ycombinator.com/item?id=37321023) - [Farmers Insurance Laying Off 11% of Workforce, Citing Industry Challenges](https://www.insurancejournal.com/news/national/2023/08/28/738095.htm)
 * [2023-08-30, 12:29:09](https://news.ycombinator.com/item?id=37321002) - [Microsoft is using malware-like pop-ups in Win11 to get people to ditch Chrome](https://www.theverge.com/2023/8/30/23851902/microsoft-bing-popups-windows-11-malware)
+* [2023-08-30, 12:28:41](https://news.ycombinator.com/item?id=37320994) - [The Taiwanese Kitchen Appliance Icon That Made Its Way Stateside (2022)](https://www.foodnetwork.com/how-to/packages/shopping/what-is-tatung-electric-cookier)
 * [2023-08-30, 12:27:11](https://news.ycombinator.com/item?id=37320975) - [Hundreds of thousands trafficked to work as online scammers in SE Asia](https://www.ohchr.org/en/press-releases/2023/08/hundreds-thousands-trafficked-work-online-scammers-se-asia-says-un-report)
 * [2023-08-30, 12:18:30](https://news.ycombinator.com/item?id=37320897) - [Giant fake town was built exclusively for filming TV and movies](https://petapixel.com/2023/08/23/this-giant-fake-town-was-built-exclusively-for-filming-tv-and-movies/)
 * [2023-08-30, 12:13:54](https://news.ycombinator.com/item?id=37320841) - [Produce HTML from S-Expressions](https://github.com/lelanthran/l2h)
