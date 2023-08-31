@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-31, 14:54:38](https://news.ycombinator.com/item?id=37338127) - [Supporting people’s right to accurate and safe political discourse on X](https://blog.twitter.com/en_us/topics/company/2023/supporting-peoples-right-to-accurate-and-safe-political-discourse-on-x)
-* [2023-08-31, 14:46:15](https://news.ycombinator.com/item?id=37337984) - [Designers say only way to fix Tesla Cybertruck is to start over](https://jalopnik.com/only-way-to-fix-tesla-cybertruck-design-start-over-1850789341)
 * [2023-08-31, 14:35:23](https://news.ycombinator.com/item?id=37337771) - [IBM promised to back off facial recognition, then signed a $70M contract for it](https://www.theverge.com/2023/8/31/23852955/ibm-uk-government-contract-biometric-facial-recognition)
 * [2023-08-31, 14:15:39](https://news.ycombinator.com/item?id=37337482) - [Ghostfolio: Open-source wealth management software](https://ghostfol.io)
 * [2023-08-31, 13:24:05](https://news.ycombinator.com/item?id=37336782) - [New antifungal therapy for fungal meningitis](https://med.umn.edu/news/u-m-research-team-successfully-tests-new-antifungal-therapy-fungal-meningitis)
@@ -9,6 +8,7 @@
 * [2023-08-31, 13:09:46](https://news.ycombinator.com/item?id=37336606) - [Usenet, the OG social network, rises again like a text-only phoenix](https://www.theregister.com/2023/08/30/usenet_revival/)
 * [2023-08-31, 12:44:14](https://news.ycombinator.com/item?id=37336299) - [Shell abandons its plan to offset CO2 emissions](https://www.bloomberg.com/news/features/2023-08-31/shell-silently-abandoned-its-100-million-a-year-plan-to-offset-co2-emissions)
 * [2023-08-31, 12:17:38](https://news.ycombinator.com/item?id=37336013) - [Chandrayaan-3 Confirms Presence of Sulfur and Other Elements on Lunar South Pole](https://scienceswitch.com/2023/08/31/isros-chandrayaan-3-confirms-presence-of-sulfur-and-other-elements-on-lunar-south-pole/)
+* [2023-08-31, 12:11:47](https://news.ycombinator.com/item?id=37335945) - [Docker Is Four Things](https://matthiasportzel.com/docker/)
 * [2023-08-31, 12:01:16](https://news.ycombinator.com/item?id=37335833) - [Firezone (YC W22) is hiring Rust engineers to build secure networks](https://www.ycombinator.com/companies/firezone)
 * [2023-08-31, 11:51:19](https://news.ycombinator.com/item?id=37335751) - [NASA officials sound alarm over future of the Deep Space Network](https://arstechnica.com/space/2023/08/nasas-artemis-i-mission-nearly-broke-the-deep-space-network/)
 * [2023-08-31, 11:21:32](https://news.ycombinator.com/item?id=37335471) - [State Governments Can’t Resist the Siren Song of Censorship](https://www.techdirt.com/2023/08/30/state-governments-cant-resist-the-siren-song-of-censorship/)
