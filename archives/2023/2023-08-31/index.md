@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-31](index.md)
 
+* [2023-08-31, 07:52:42](https://news.ycombinator.com/item?id=37333837) - [Ask HN: Why hasn't the cloud killed the mainframe?](https://news.ycombinator.com/item?id=37333837)
 * [2023-08-31, 07:18:26](https://news.ycombinator.com/item?id=37333596) - [Tell HN: UC Berkeley's CS61A/B/C are the best courses to learn CS and coding](https://news.ycombinator.com/item?id=37333596)
 * [2023-08-31, 07:01:26](https://news.ycombinator.com/item?id=37333478) - [India Enable Government Surveillance, Creating ‘Backdoor’ for Surveillance](https://dovthelachman.com/indias-laws-enable-government-surveillance-creating-dangerous-backdoor-for-surveillance-companies/)
+* [2023-08-31, 06:53:43](https://news.ycombinator.com/item?id=37333404) - [UTM – Virtual Machines for iOS and macOS](https://github.com/utmapp/UTM)
 * [2023-08-31, 06:38:22](https://news.ycombinator.com/item?id=37333299) - [The 7th century Library of Ashurbanipal is the oldest known library in the world](https://www.worldhistory.org/Library_of_Ashurbanipal/)
 * [2023-08-31, 06:23:21](https://news.ycombinator.com/item?id=37333195) - [Youtube2Webpage: Create Websites with Text from Videos](https://github.com/obra/Youtube2Webpage)
 * [2023-08-31, 06:07:06](https://news.ycombinator.com/item?id=37333077) - [Cheetah: A Lightweight Virtual Machine Manager for macOS](https://macspot.net/)
