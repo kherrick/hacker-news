@@ -6,6 +6,7 @@
 
 * [2023-08-30, 23:47:44](https://news.ycombinator.com/item?id=37330642) - [Very, Very, Few People Are Falling Down the YouTube Rabbit Hole](https://www.theatlantic.com/technology/archive/2023/08/youtube-rabbit-holes-american-politics/675186/)
 * [2023-08-30, 23:10:09](https://news.ycombinator.com/item?id=37330327) - [Real-world ranges for Teslas 50-60% of EPA Range](https://www.recurrentauto.com/news/real-world-range-for-tesla)
+* [2023-08-30, 23:09:34](https://news.ycombinator.com/item?id=37330318) - [Sourcegraph: Incident involving unauthorized admin access](https://about.sourcegraph.com/blog/security-update-august-2023)
 * [2023-08-30, 22:58:06](https://news.ycombinator.com/item?id=37330234) - [Australia will not force age verification due to privacy and security concerns](https://www.theguardian.com/australia-news/2023/aug/31/roadmap-for-age-verification-online-pornographic-material-adult-websites-australia-law)
 * [2023-08-30, 22:32:31](https://news.ycombinator.com/item?id=37330024) - [Full Speed Ahead: EV Study Reveals Impacts of Fast Charging](https://www.recurrentauto.com/research/impacts-of-fast-charging)
 * [2023-08-30, 22:20:46](https://news.ycombinator.com/item?id=37329923) - [How to Install Lima(runs command line Ubuntu) on macOS Using 9 Easy Steps](https://www.cyberithub.com/how-to-install-lima-on-macos-using-9-easy-steps/)
