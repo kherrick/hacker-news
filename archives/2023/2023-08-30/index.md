@@ -67,6 +67,7 @@
 * [2023-08-30, 14:30:35](https://news.ycombinator.com/item?id=37322700) - [CA Supreme Court Concludes No Reason to Generate Precedent on Geofence Warrants](https://www.techdirt.com/2023/08/29/california-supreme-court-decides-theres-no-reason-to-generate-precedent-on-geofence-warrants/)
 * [2023-08-30, 14:25:39](https://news.ycombinator.com/item?id=37322619) - [Tracking Application-Level Consistency with LiteFS](https://fly.io/blog/tracking-consistency-with-litefs/)
 * [2023-08-30, 14:13:33](https://news.ycombinator.com/item?id=37322460) - [How to get transactions between almost any data stores](https://petereliaskraft.net/blog/epoxy)
+* [2023-08-30, 14:04:03](https://news.ycombinator.com/item?id=37322350) - [Show HN: dnum − A small TypeScript library to handle decimal numbers](https://github.com/bpierre/dnum)
 * [2023-08-30, 13:57:20](https://news.ycombinator.com/item?id=37322256) - [AntiX Linux 23 Released](https://antixlinux.com/antix-23-released/)
 * [2023-08-30, 13:55:10](https://news.ycombinator.com/item?id=37322214) - [Honda targeting 50% weight reduction with EV solid state batteries](https://www.thedrive.com/news/honda-solid-state-batteries-will-offer-same-energy-density-at-half-the-weight)
 * [2023-08-30, 13:50:57](https://news.ycombinator.com/item?id=37322152) - [Visa, Mastercard Prepare to Raise Credit-Card Fees](https://www.wsj.com/finance/visa-mastercard-prepare-to-raise-credit-card-fees-ed779be1)
