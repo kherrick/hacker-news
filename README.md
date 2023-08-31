@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-31, 07:54:08](https://news.ycombinator.com/item?id=37333848) - [*@gmail.com](https://xkcd.com/2822/)
 * [2023-08-31, 07:18:26](https://news.ycombinator.com/item?id=37333596) - [Tell HN: UC Berkeley's CS61A/B/C are the best courses to learn CS and coding](https://news.ycombinator.com/item?id=37333596)
-* [2023-08-31, 07:11:14](https://news.ycombinator.com/item?id=37333532) - [Veriff laying off 55 people in Estonia](https://estonianworld.com/business/veriff-laying-off-55-people-in-estonia/)
 * [2023-08-31, 06:53:43](https://news.ycombinator.com/item?id=37333404) - [UTM – Virtual Machines for iOS and macOS](https://github.com/utmapp/UTM)
 * [2023-08-31, 06:23:21](https://news.ycombinator.com/item?id=37333195) - [Youtube2Webpage: Create Websites with Text from Videos](https://github.com/obra/Youtube2Webpage)
 * [2023-08-31, 06:07:06](https://news.ycombinator.com/item?id=37333077) - [Cheetah: A Lightweight Virtual Machine Manager for macOS](https://macspot.net/)
