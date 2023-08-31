@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-31, 23:00:17",
+      "https://news.ycombinator.com/item?id=37344702"
+    ],
+    [
+      "Independent Guest Virtual Machine (IGVM) File Format",
+      "https://github.com/microsoft/igvm"
+    ]
+  ],
+  [
+    [
       "2023-08-31, 21:47:53",
       "https://news.ycombinator.com/item?id=37344096"
     ],
@@ -17,6 +27,16 @@
     [
       "Types versus sets (and what about categories?) (2022)",
       "https://lawrencecpaulson.github.io/2022/03/16/Types_vs_Sets.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-31, 21:18:16",
+      "https://news.ycombinator.com/item?id=37343814"
+    ],
+    [
+      "SvelteKit View Transitions",
+      "https://svelte.dev/blog/view-transitions"
     ]
   ],
   [
@@ -251,6 +271,16 @@
   ],
   [
     [
+      "2023-08-31, 12:00:49",
+      "https://news.ycombinator.com/item?id=37335828"
+    ],
+    [
+      "Dense Neptune-sized exoplanet discovered with TESS",
+      "https://phys.org/news/2023-08-dense-neptune-sized-exoplanet-tess.html"
+    ]
+  ],
+  [
+    [
       "2023-08-31, 06:38:22",
       "https://news.ycombinator.com/item?id=37333299"
     ],
@@ -267,36 +297,6 @@
     [
       "The Decline and Rise of IBM (1996)",
       "https://sloanreview.mit.edu/article/the-decline-and-rise-of-ibm/?switch_view=PDF"
-    ]
-  ],
-  [
-    [
-      "2023-08-30, 14:04:03",
-      "https://news.ycombinator.com/item?id=37322350"
-    ],
-    [
-      "Show HN: dnum − A small TypeScript library to handle decimal numbers",
-      "https://github.com/bpierre/dnum"
-    ]
-  ],
-  [
-    [
-      "2023-08-29, 12:19:47",
-      "https://news.ycombinator.com/item?id=37306619"
-    ],
-    [
-      "Lego Ideas: Insect Collection – Botanicals meets animals",
-      "https://www.brothers-brick.com/2023/08/28/lego-ideas-21342-the-insect-collection-botanicals-meets-animals-review/"
-    ]
-  ],
-  [
-    [
-      "2023-08-29, 05:04:19",
-      "https://news.ycombinator.com/item?id=37303722"
-    ],
-    [
-      "The open source saxophone project (2017)",
-      "https://www.stohrermusic.com/2017/10/the-open-source-saxophone-project/"
     ]
   ]
 ]
