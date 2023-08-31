@@ -2,7 +2,6 @@
 
 * [2023-08-31, 08:07:09](https://news.ycombinator.com/item?id=37333939) - [Sourcegraph Security Breach: Incident involving unauthorized admin access](https://about.sourcegraph.com/blog/security-update-august-2023)
 * [2023-08-31, 07:54:08](https://news.ycombinator.com/item?id=37333848) - [*@gmail.com](https://xkcd.com/2822/)
-* [2023-08-31, 07:52:42](https://news.ycombinator.com/item?id=37333837) - [Ask HN: Why hasn't the cloud killed the mainframe?](https://news.ycombinator.com/item?id=37333837)
 * [2023-08-31, 07:18:26](https://news.ycombinator.com/item?id=37333596) - [Tell HN: UC Berkeley's CS61A/B/C are the best courses to learn CS and coding](https://news.ycombinator.com/item?id=37333596)
 * [2023-08-31, 07:01:26](https://news.ycombinator.com/item?id=37333478) - [India Enable Government Surveillance, Creating ‘Backdoor’ for Surveillance](https://dovthelachman.com/indias-laws-enable-government-surveillance-creating-dangerous-backdoor-for-surveillance-companies/)
 * [2023-08-31, 06:53:43](https://news.ycombinator.com/item?id=37333404) - [UTM – Virtual Machines for iOS and macOS](https://github.com/utmapp/UTM)
@@ -16,13 +15,13 @@
 * [2023-08-31, 02:27:26](https://news.ycombinator.com/item?id=37331778) - [Absurd Success](https://www.marginalia.nu/log/87_absurd_success/)
 * [2023-08-30, 21:01:00](https://news.ycombinator.com/item?id=37329067) - [Mux (YC W16) is hiring a Sr Platform Engineer to work on video infra at scale](https://www.mux.com/jobs?j=srplatform)
 * [2023-08-30, 20:35:25](https://news.ycombinator.com/item?id=37328669) - [Keisan Casio is shutting down](https://keisan.casio.com/keisan/abolition.php)
-* [2023-08-30, 19:27:03](https://news.ycombinator.com/item?id=37327606) - [Making Amiga IFF Thumbnails Work in Linux](https://linuxjedi.co.uk/2023/08/24/making-amiga-iff-thumbnails-work-in-linux/)
 * [2023-08-30, 18:40:52](https://news.ycombinator.com/item?id=37326870) - [Show HN: I automated half of my typing](https://github.com/eschluntz/compress)
-* [2023-08-30, 17:25:55](https://news.ycombinator.com/item?id=37325622) - [Photogrammetry on commercial flights (2021)](https://leifgehrmann.com/2021/09/05/photogrammetry-on-a-plane/)
 * [2023-08-30, 14:55:13](https://news.ycombinator.com/item?id=37323092) - [Developing 120-year-old photos found in a time capsule [video]](https://www.youtube.com/watch?v=IoDj4mXdqmc)
+* [2023-08-30, 14:37:28](https://news.ycombinator.com/item?id=37322794) - [Multiplix, operating system kernel for RISC-V and AArch64 SBCs](https://github.com/zyedidia/multiplix)
 * [2023-08-30, 14:13:33](https://news.ycombinator.com/item?id=37322460) - [How to get transactions between almost any data stores](https://petereliaskraft.net/blog/epoxy)
 * [2023-08-30, 12:32:05](https://news.ycombinator.com/item?id=37321028) - [A DIY ‘bionic pancreas’ is changing diabetes care](https://www.nature.com/articles/d41586-023-02648-9)
 * [2023-08-30, 12:13:54](https://news.ycombinator.com/item?id=37320841) - [Produce HTML from S-Expressions](https://github.com/lelanthran/l2h)
+* [2023-08-30, 10:28:24](https://news.ycombinator.com/item?id=37319845) - [Rule of Three](https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming))
 * [2023-08-30, 07:34:19](https://news.ycombinator.com/item?id=37318810) - [ChatLZMA – text generation from data compression](http://pepijndevos.nl/2023/07/15/chatlmza.html)
 * [2023-08-30, 00:56:25](https://news.ycombinator.com/item?id=37316280) - [The Tera Computer System (1990)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=108b3a24274af0aab079bd94ab7c1ee6543563d4)
 * [2023-08-29, 16:23:03](https://news.ycombinator.com/item?id=37310216) - [Lunik: The CIA’s plot to steal a Soviet satellite (2021)](https://www.technologyreview.com/2021/01/28/1016867/lunik-cia-heist-steal-russian-satellite-space-us-ussr/)
@@ -30,6 +29,7 @@
 * [2023-08-29, 11:59:59](https://news.ycombinator.com/item?id=37306431) - [Three Antiquities Traffickers and Their Fall from Grace](https://hyperallergic.com/830328/three-antiquities-traffickers-and-their-fall-from-grace/)
 * [2023-08-29, 11:57:43](https://news.ycombinator.com/item?id=37306401) - [Film Review: BlackBerry](https://anarchonomicon.substack.com/p/review-blackberry)
 * [2023-08-29, 11:54:58](https://news.ycombinator.com/item?id=37306376) - [Never Ending September Date](https://www.df7cb.de/projects/sdate/)
+* [2023-08-29, 05:04:19](https://news.ycombinator.com/item?id=37303722) - [The open source saxophone project](https://www.stohrermusic.com/2017/10/the-open-source-saxophone-project/)
 
 ## [Archives](archives/index.md)
 
