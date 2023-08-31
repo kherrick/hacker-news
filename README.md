@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-31, 13:52:55](https://news.ycombinator.com/item?id=37337177) - [ChatGPT Is Down Again](https://status.openai.com/incidents/c9fzdr2cxnbq)
+* [2023-08-31, 14:35:23](https://news.ycombinator.com/item?id=37337771) - [IBM promised to back off facial recognition, then signed a $70M contract for it](https://www.theverge.com/2023/8/31/23852955/ibm-uk-government-contract-biometric-facial-recognition)
 * [2023-08-31, 13:26:00](https://news.ycombinator.com/item?id=37336814) - [Wireless carriers are messing with your autopay discount](https://www.theverge.com/2023/8/30/23852255/verizon-att-t-mobile-autopay-discount-debit-bank-credit-card)
 * [2023-08-31, 13:24:05](https://news.ycombinator.com/item?id=37336782) - [New antifungal therapy for fungal meningitis](https://med.umn.edu/news/u-m-research-team-successfully-tests-new-antifungal-therapy-fungal-meningitis)
 * [2023-08-31, 13:09:46](https://news.ycombinator.com/item?id=37336606) - [Usenet, the OG social network, rises again like a text-only phoenix](https://www.theregister.com/2023/08/30/usenet_revival/)
@@ -29,7 +29,7 @@
 * [2023-08-29, 11:57:43](https://news.ycombinator.com/item?id=37306401) - [Film Review: BlackBerry](https://anarchonomicon.substack.com/p/review-blackberry)
 * [2023-08-29, 09:13:14](https://news.ycombinator.com/item?id=37305113) - [Secure Boot on ESP32 Platforms](https://thistle.tech/blog/esp32-secure-boot-v2-enablement-2)
 * [2023-08-29, 07:28:14](https://news.ycombinator.com/item?id=37304476) - [Dolby Atmos will use your TV to expand living room speaker setups](https://www.engadget.com/dolby-atmos-will-use-your-tv-to-expand-living-room-speaker-setups-123021095.html)
-* [2023-08-29, 05:04:19](https://news.ycombinator.com/item?id=37303722) - [The open source saxophone project](https://www.stohrermusic.com/2017/10/the-open-source-saxophone-project/)
+* [2023-08-29, 05:04:19](https://news.ycombinator.com/item?id=37303722) - [The open source saxophone project (2017)](https://www.stohrermusic.com/2017/10/the-open-source-saxophone-project/)
 
 ## [Archives](archives/index.md)
 
