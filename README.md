@@ -9,6 +9,7 @@
 * [2023-08-31, 13:09:46](https://news.ycombinator.com/item?id=37336606) - [Usenet, the OG social network, rises again like a text-only phoenix](https://www.theregister.com/2023/08/30/usenet_revival/)
 * [2023-08-31, 12:44:14](https://news.ycombinator.com/item?id=37336299) - [Shell abandons its plan to offset CO2 emissions](https://www.bloomberg.com/news/features/2023-08-31/shell-silently-abandoned-its-100-million-a-year-plan-to-offset-co2-emissions)
 * [2023-08-31, 12:17:38](https://news.ycombinator.com/item?id=37336013) - [Chandrayaan-3 Confirms Presence of Sulfur and Other Elements on Lunar South Pole](https://scienceswitch.com/2023/08/31/isros-chandrayaan-3-confirms-presence-of-sulfur-and-other-elements-on-lunar-south-pole/)
+* [2023-08-31, 12:11:47](https://news.ycombinator.com/item?id=37335945) - [Docker Is Four Things](https://matthiasportzel.com/docker/)
 * [2023-08-31, 12:01:16](https://news.ycombinator.com/item?id=37335833) - [Firezone (YC W22) is hiring Rust engineers to build secure networks](https://www.ycombinator.com/companies/firezone)
 * [2023-08-31, 11:51:19](https://news.ycombinator.com/item?id=37335751) - [NASA officials sound alarm over future of the Deep Space Network](https://arstechnica.com/space/2023/08/nasas-artemis-i-mission-nearly-broke-the-deep-space-network/)
 * [2023-08-31, 11:21:32](https://news.ycombinator.com/item?id=37335471) - [State Governments Can’t Resist the Siren Song of Censorship](https://www.techdirt.com/2023/08/30/state-governments-cant-resist-the-siren-song-of-censorship/)
@@ -27,7 +28,6 @@
 * [2023-08-30, 18:40:52](https://news.ycombinator.com/item?id=37326870) - [Show HN: I automated half of my typing](https://github.com/eschluntz/compress)
 * [2023-08-30, 17:52:23](https://news.ycombinator.com/item?id=37326081) - [Butterflies (1948)](https://www.newyorker.com/magazine/1948/06/12/butterflies-vladimir-nabokov)
 * [2023-08-30, 15:16:28](https://news.ycombinator.com/item?id=37323473) - [Zadie Smith Makes 1860s London Feel Alive, and Recognizable](https://www.nytimes.com/2023/08/28/books/review/zadie-smith-the-fraud.html)
-* [2023-08-30, 10:51:00](https://news.ycombinator.com/item?id=37320071) - [A case for dynamic scoring of high-skilled immigration](https://www.slowboring.com/p/a-serious-case-for-dynamic-scoring)
 * [2023-08-29, 14:28:34](https://news.ycombinator.com/item?id=37308469) - [Random Load Balancing Is Unevenly Distributed](https://www.evanjones.ca/random-load-balancing-is-uneven.html)
 * [2023-08-29, 09:13:14](https://news.ycombinator.com/item?id=37305113) - [Secure Boot on ESP32 Platforms](https://thistle.tech/blog/esp32-secure-boot-v2-enablement-2)
 
