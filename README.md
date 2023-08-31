@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-31, 03:30:32](https://news.ycombinator.com/item?id=37332130) - [Colorado controversy raises questions over the meaning of the gadsden flag](https://jonathanturley.org/2023/08/30/colorado-controversy-raises-questions-over-the-meaning-of-the-gadsden-flag/)
+* [2023-08-31, 03:59:16](https://news.ycombinator.com/item?id=37332292) - [There have been several public library bomb threats this week](https://bookriot.com/there-have-been-several-public-library-bomb-threats-this-week/)
 * [2023-08-31, 03:30:01](https://news.ycombinator.com/item?id=37332126) - [Ask HN: How to handle Asian-style “Family name first” when designing interfaces](https://news.ycombinator.com/item?id=37332126)
+* [2023-08-31, 03:10:55](https://news.ycombinator.com/item?id=37332018) - [Intuition for Probability and Likelihood](https://www.notion.so/aplaceofmind/Intuition-for-probability-and-likelihood-ab3a3ee3fe9d4013ac827a00ae144d83)
 * [2023-08-31, 02:27:26](https://news.ycombinator.com/item?id=37331778) - [Absurd Success](https://www.marginalia.nu/log/87_absurd_success/)
 * [2023-08-30, 21:01:00](https://news.ycombinator.com/item?id=37329067) - [Mux (YC W16) is hiring a Sr Platform Engineer to work on video infra at scale](https://www.mux.com/jobs?j=srplatform)
 * [2023-08-30, 20:35:25](https://news.ycombinator.com/item?id=37328669) - [Keisan Casio is shutting down](https://keisan.casio.com/keisan/abolition.php)
@@ -9,7 +10,6 @@
 * [2023-08-30, 19:27:03](https://news.ycombinator.com/item?id=37327606) - [Making Amiga IFF Thumbnails Work in Linux](https://linuxjedi.co.uk/2023/08/24/making-amiga-iff-thumbnails-work-in-linux/)
 * [2023-08-30, 18:40:52](https://news.ycombinator.com/item?id=37326870) - [Show HN: I automated half of my typing](https://github.com/eschluntz/compress)
 * [2023-08-30, 17:25:55](https://news.ycombinator.com/item?id=37325622) - [Photogrammetry on commercial flights (2021)](https://leifgehrmann.com/2021/09/05/photogrammetry-on-a-plane/)
-* [2023-08-30, 16:55:19](https://news.ycombinator.com/item?id=37325080) - [Open Space Toolkit – collection of versatile libraries for aerospace engineering](https://github.com/open-space-collective/open-space-toolkit)
 * [2023-08-30, 16:29:02](https://news.ycombinator.com/item?id=37324509) - [How might life migrate through the universe?](https://thereader.mitpress.mit.edu/how-might-life-migrate-through-the-universe/)
 * [2023-08-30, 16:21:16](https://news.ycombinator.com/item?id=37324370) - [File Attachments: Databases can now store files and images](https://xata.io/blog/file-attachments)
 * [2023-08-30, 16:01:46](https://news.ycombinator.com/item?id=37324121) - [Keeping Figma Fast: perf-testing the WASM editor](https://www.figma.com/blog/keeping-figma-fast/)
