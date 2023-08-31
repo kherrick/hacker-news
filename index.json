@@ -1,42 +1,12 @@
 [
   [
     [
-      "2023-08-31, 08:07:09",
-      "https://news.ycombinator.com/item?id=37333939"
-    ],
-    [
-      "Sourcegraph Security Breach: Incident involving unauthorized admin access",
-      "https://about.sourcegraph.com/blog/security-update-august-2023"
-    ]
-  ],
-  [
-    [
-      "2023-08-31, 07:54:08",
-      "https://news.ycombinator.com/item?id=37333848"
-    ],
-    [
-      "*@gmail.com",
-      "https://xkcd.com/2822/"
-    ]
-  ],
-  [
-    [
       "2023-08-31, 07:18:26",
       "https://news.ycombinator.com/item?id=37333596"
     ],
     [
       "Tell HN: UC Berkeley's CS61A/B/C are the best courses to learn CS and coding",
       "https://news.ycombinator.com/item?id=37333596"
-    ]
-  ],
-  [
-    [
-      "2023-08-31, 07:01:26",
-      "https://news.ycombinator.com/item?id=37333478"
-    ],
-    [
-      "India Enable Government Surveillance, Creating ‘Backdoor’ for Surveillance",
-      "https://dovthelachman.com/indias-laws-enable-government-surveillance-creating-dangerous-backdoor-for-surveillance-companies/"
     ]
   ],
   [
@@ -71,16 +41,6 @@
   ],
   [
     [
-      "2023-08-31, 05:55:10",
-      "https://news.ycombinator.com/item?id=37332974"
-    ],
-    [
-      "Money is pouring into AI. Skeptics say it’s a ‘grift shift’",
-      "https://www.institutionalinvestor.com/article/2c4fad0w6irk838pca3gg/portfolio/money-is-pouring-into-ai-skeptics-say-its-a-grift-shift"
-    ]
-  ],
-  [
-    [
       "2023-08-31, 05:34:20",
       "https://news.ycombinator.com/item?id=37332860"
     ],
@@ -111,16 +71,6 @@
   ],
   [
     [
-      "2023-08-31, 03:20:01",
-      "https://news.ycombinator.com/item?id=37332068"
-    ],
-    [
-      "The Case for Nushell",
-      "https://www.jntrnr.com/case-for-nushell/"
-    ]
-  ],
-  [
-    [
       "2023-08-31, 02:52:33",
       "https://news.ycombinator.com/item?id=37331907"
     ],
@@ -137,6 +87,16 @@
     [
       "Absurd Success",
       "https://www.marginalia.nu/log/87_absurd_success/"
+    ]
+  ],
+  [
+    [
+      "2023-08-30, 23:09:34",
+      "https://news.ycombinator.com/item?id=37330318"
+    ],
+    [
+      "Sourcegraph: Incident involving unauthorized admin access",
+      "https://about.sourcegraph.com/blog/security-update-august-2023"
     ]
   ],
   [
@@ -161,12 +121,42 @@
   ],
   [
     [
+      "2023-08-30, 19:27:03",
+      "https://news.ycombinator.com/item?id=37327606"
+    ],
+    [
+      "Making Amiga IFF Thumbnails Work in Linux",
+      "https://linuxjedi.co.uk/2023/08/24/making-amiga-iff-thumbnails-work-in-linux/"
+    ]
+  ],
+  [
+    [
       "2023-08-30, 18:40:52",
       "https://news.ycombinator.com/item?id=37326870"
     ],
     [
       "Show HN: I automated half of my typing",
       "https://github.com/eschluntz/compress"
+    ]
+  ],
+  [
+    [
+      "2023-08-30, 15:40:06",
+      "https://news.ycombinator.com/item?id=37323834"
+    ],
+    [
+      "High-Speed AI Drone Overtakes World-Champion Drone Racers",
+      "https://www.news.uzh.ch/en/articles/media/2023/Drone-race.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-30, 15:24:08",
+      "https://news.ycombinator.com/item?id=37323604"
+    ],
+    [
+      "Hacking the LG Monitor's EDID",
+      "https://gist.github.com/kj800x/be3001c07c49fdb36970633b0bc6defb"
     ]
   ],
   [
@@ -201,16 +191,6 @@
   ],
   [
     [
-      "2023-08-30, 14:13:33",
-      "https://news.ycombinator.com/item?id=37322460"
-    ],
-    [
-      "How to get transactions between almost any data stores",
-      "https://petereliaskraft.net/blog/epoxy"
-    ]
-  ],
-  [
-    [
       "2023-08-30, 12:32:05",
       "https://news.ycombinator.com/item?id=37321028"
     ],
@@ -231,22 +211,22 @@
   ],
   [
     [
-      "2023-08-30, 07:34:19",
-      "https://news.ycombinator.com/item?id=37318810"
-    ],
-    [
-      "ChatLZMA – text generation from data compression",
-      "http://pepijndevos.nl/2023/07/15/chatlmza.html"
-    ]
-  ],
-  [
-    [
       "2023-08-30, 00:56:25",
       "https://news.ycombinator.com/item?id=37316280"
     ],
     [
       "The Tera Computer System (1990)",
       "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=108b3a24274af0aab079bd94ab7c1ee6543563d4"
+    ]
+  ],
+  [
+    [
+      "2023-08-29, 20:42:04",
+      "https://news.ycombinator.com/item?id=37313733"
+    ],
+    [
+      "The Case for Nushell",
+      "https://www.jntrnr.com/case-for-nushell/"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "Never Ending September Date",
       "https://www.df7cb.de/projects/sdate/"
+    ]
+  ],
+  [
+    [
+      "2023-08-29, 07:59:26",
+      "https://news.ycombinator.com/item?id=37304666"
+    ],
+    [
+      "Gallery – Making Molecules",
+      "https://www.makingmolecules.com/handouts"
+    ]
+  ],
+  [
+    [
+      "2023-08-29, 05:04:19",
+      "https://news.ycombinator.com/item?id=37303722"
+    ],
+    [
+      "The open source saxophone project",
+      "https://www.stohrermusic.com/2017/10/the-open-source-saxophone-project/"
     ]
   ]
 ]
