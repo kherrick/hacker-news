@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-08-31, 14:46:15](https://news.ycombinator.com/item?id=37337984) - [Designers Say Only Way to Fix Tesla Cybertruck Is to Start Over](https://jalopnik.com/only-way-to-fix-tesla-cybertruck-design-start-over-1850789341)
+* [2023-08-31, 14:54:38](https://news.ycombinator.com/item?id=37338127) - [Supporting people’s right to accurate and safe political discourse on X](https://blog.twitter.com/en_us/topics/company/2023/supporting-peoples-right-to-accurate-and-safe-political-discourse-on-x)
+* [2023-08-31, 14:46:15](https://news.ycombinator.com/item?id=37337984) - [Designers say only way to fix Tesla Cybertruck is to start over](https://jalopnik.com/only-way-to-fix-tesla-cybertruck-design-start-over-1850789341)
 * [2023-08-31, 14:35:23](https://news.ycombinator.com/item?id=37337771) - [IBM promised to back off facial recognition, then signed a $70M contract for it](https://www.theverge.com/2023/8/31/23852955/ibm-uk-government-contract-biometric-facial-recognition)
-* [2023-08-31, 14:15:39](https://news.ycombinator.com/item?id=37337482) - [Ghostfolio: Open-Source Wealth Management Software](https://ghostfol.io)
-* [2023-08-31, 13:26:00](https://news.ycombinator.com/item?id=37336814) - [Wireless carriers are messing with your autopay discount](https://www.theverge.com/2023/8/30/23852255/verizon-att-t-mobile-autopay-discount-debit-bank-credit-card)
+* [2023-08-31, 14:15:39](https://news.ycombinator.com/item?id=37337482) - [Ghostfolio: Open-source wealth management software](https://ghostfol.io)
 * [2023-08-31, 13:24:05](https://news.ycombinator.com/item?id=37336782) - [New antifungal therapy for fungal meningitis](https://med.umn.edu/news/u-m-research-team-successfully-tests-new-antifungal-therapy-fungal-meningitis)
 * [2023-08-31, 13:21:49](https://news.ycombinator.com/item?id=37336750) - [The great cancellation: why megabucks TV shows are vanishing without a trace](https://www.theguardian.com/tv-and-radio/2023/aug/29/the-great-cancellation-why-megabucks-tv-shows-are-vanishing-without-a-trace)
 * [2023-08-31, 13:09:46](https://news.ycombinator.com/item?id=37336606) - [Usenet, the OG social network, rises again like a text-only phoenix](https://www.theregister.com/2023/08/30/usenet_revival/)
