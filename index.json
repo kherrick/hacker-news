@@ -1,26 +1,6 @@
 [
   [
     [
-      "2023-08-31, 18:54:13",
-      "https://news.ycombinator.com/item?id=37342046"
-    ],
-    [
-      "AWS Icon Quiz",
-      "https://awsiconquiz.com/"
-    ]
-  ],
-  [
-    [
-      "2023-08-31, 18:51:23",
-      "https://news.ycombinator.com/item?id=37342013"
-    ],
-    [
-      "Ask HN: What's your favourite hobby and how did it start?",
-      "https://news.ycombinator.com/item?id=37342013"
-    ]
-  ],
-  [
-    [
       "2023-08-31, 18:38:08",
       "https://news.ycombinator.com/item?id=37341839"
     ],
@@ -67,6 +47,16 @@
     [
       "Fine-tuning GPT-3.5-turbo for natural language to SQL",
       "https://medium.com/dataherald/fine-tuning-gpt-3-5-turbo-for-natural-language-to-sql-4445c1d37f7c"
+    ]
+  ],
+  [
+    [
+      "2023-08-31, 18:23:54",
+      "https://news.ycombinator.com/item?id=37341620"
+    ],
+    [
+      "Stripe Shutdown Our Nonprofit's Account, Holding $12k in Donations Hostage",
+      "https://news.ycombinator.com/item?id=37341620"
     ]
   ],
   [
@@ -177,6 +167,16 @@
     [
       "Evennia a MUD/Mu* Creation System",
       "https://www.evennia.com/"
+    ]
+  ],
+  [
+    [
+      "2023-08-31, 15:35:48",
+      "https://news.ycombinator.com/item?id=37338857"
+    ],
+    [
+      "Show HN: Flake schemas – teaching Nix about your flake outputs",
+      "https://determinate.systems/posts/flake-schemas"
     ]
   ],
   [
