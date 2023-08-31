@@ -6,6 +6,7 @@
 
 * [2023-08-31, 18:54:13](https://news.ycombinator.com/item?id=37342046) - [AWS Icon Quiz](https://awsiconquiz.com/)
 * [2023-08-31, 18:51:23](https://news.ycombinator.com/item?id=37342013) - [Ask HN: What's your favourite hobby and how did it start?](https://news.ycombinator.com/item?id=37342013)
+* [2023-08-31, 18:46:42](https://news.ycombinator.com/item?id=37341951) - [Canada issues travel advisory for LGBTQ+ residents visiting US](https://www.theguardian.com/world/2023/aug/31/canada-travel-warning-lgbtq-residents-us)
 * [2023-08-31, 18:38:08](https://news.ycombinator.com/item?id=37341839) - [Bay Area 2023 Maker Faire](https://makerfaire.com/bay-area/)
 * [2023-08-31, 18:35:46](https://news.ycombinator.com/item?id=37341807) - [Methodus Toolz](https://www.methodus2000.com/methodus3/)
 * [2023-08-31, 18:35:10](https://news.ycombinator.com/item?id=37341799) - [X-ray CT scans of coffee equipment: Aeropress, Fellow kettle, Moka pot](https://www.scanofthemonth.com/scans/coffee)

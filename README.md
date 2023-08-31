@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-08-31, 18:46:42](https://news.ycombinator.com/item?id=37341951) - [Canada issues travel advisory for LGBTQ+ residents visiting US](https://www.theguardian.com/world/2023/aug/31/canada-travel-warning-lgbtq-residents-us)
 * [2023-08-31, 18:38:08](https://news.ycombinator.com/item?id=37341839) - [Bay Area 2023 Maker Faire](https://makerfaire.com/bay-area/)
 * [2023-08-31, 18:35:46](https://news.ycombinator.com/item?id=37341807) - [Methodus Toolz](https://www.methodus2000.com/methodus3/)
 * [2023-08-31, 18:35:10](https://news.ycombinator.com/item?id=37341799) - [X-ray CT scans of coffee equipment: Aeropress, Fellow kettle, Moka pot](https://www.scanofthemonth.com/scans/coffee)
 * [2023-08-31, 18:33:48](https://news.ycombinator.com/item?id=37341783) - [A boy who stole Half-Life 2](https://www.eurogamer.net/the-boy-who-stole-half-life-2-article)
 * [2023-08-31, 18:26:34](https://news.ycombinator.com/item?id=37341670) - [Fine-tuning GPT-3.5-turbo for natural language to SQL](https://medium.com/dataherald/fine-tuning-gpt-3-5-turbo-for-natural-language-to-sql-4445c1d37f7c)
-* [2023-08-31, 18:23:54](https://news.ycombinator.com/item?id=37341620) - [Stripe Shutdown Our Nonprofit's Account, Holding $12k in Donations Hostage](https://news.ycombinator.com/item?id=37341620)
 * [2023-08-31, 18:16:06](https://news.ycombinator.com/item?id=37341492) - [A historical record of foundational web development blog posts](https://esif.dev/)
 * [2023-08-31, 17:14:51](https://news.ycombinator.com/item?id=37340547) - [Rare oxygen isotope detected at last – and it defies expectations](https://www.nature.com/articles/d41586-023-02713-3)
 * [2023-08-31, 17:13:34](https://news.ycombinator.com/item?id=37340523) - [No Love for Negative Permissions – DAC/ACL Bypass on Linux](https://blog.sigma-star.at/post/2023/08/negative-permissions/)
@@ -26,10 +26,10 @@
 * [2023-08-31, 09:57:16](https://news.ycombinator.com/item?id=37334737) - [Social media decline: Users are shifting to messaging apps and group chats](https://www.businessinsider.com/social-media-dead-instagram-tiktok-bereal-replaced-group-chats-messaging-2023-8)
 * [2023-08-31, 06:53:43](https://news.ycombinator.com/item?id=37333404) - [UTM – Virtual Machines for iOS and macOS](https://github.com/utmapp/UTM)
 * [2023-08-31, 06:23:21](https://news.ycombinator.com/item?id=37333195) - [Youtube2Webpage: Create Websites with Text from Videos](https://github.com/obra/Youtube2Webpage)
-* [2023-08-31, 04:33:40](https://news.ycombinator.com/item?id=37332493) - [RyujinX – Open Source Nintendo Switch Emulator](https://ryujinx.org/)
 * [2023-08-30, 14:04:03](https://news.ycombinator.com/item?id=37322350) - [Show HN: dnum − A small TypeScript library to handle decimal numbers](https://github.com/bpierre/dnum)
 * [2023-08-30, 09:30:00](https://news.ycombinator.com/item?id=37319461) - [Mimicking natural selection in chemical systems](https://www.nature.com/articles/s41570-019-0155-6)
 * [2023-08-29, 12:19:47](https://news.ycombinator.com/item?id=37306619) - [Lego Ideas: Insect Collection – Botanicals meets animals](https://www.brothers-brick.com/2023/08/28/lego-ideas-21342-the-insect-collection-botanicals-meets-animals-review/)
+* [2023-08-29, 09:13:14](https://news.ycombinator.com/item?id=37305113) - [Secure Boot on ESP32 Platforms](https://thistle.tech/blog/esp32-secure-boot-v2-enablement-2)
 
 ## [Archives](archives/index.md)
 
