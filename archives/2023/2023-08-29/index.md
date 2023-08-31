@@ -111,6 +111,7 @@
 * [2023-08-29, 08:19:35](https://news.ycombinator.com/item?id=37304789) - [Abandoned and Little-Known Airfields](http://www.airfields-freeman.com/)
 * [2023-08-29, 07:59:26](https://news.ycombinator.com/item?id=37304666) - [Beautifully Designed College Chemistry Handouts](https://www.makingmolecules.com/handouts)
 * [2023-08-29, 07:53:25](https://news.ycombinator.com/item?id=37304626) - [Silicon Valley faces a crisis of nonsense](https://www.piratewires.com/p/choose-good-quests)
+* [2023-08-29, 07:28:14](https://news.ycombinator.com/item?id=37304476) - [Dolby Atmos will use your TV to expand living room speaker setups](https://www.engadget.com/dolby-atmos-will-use-your-tv-to-expand-living-room-speaker-setups-123021095.html)
 * [2023-08-29, 07:11:09](https://news.ycombinator.com/item?id=37304370) - [Unix sockets, Cygwin, SSH agents, and sadness](https://mjg59.dreamwidth.org/67402.html)
 * [2023-08-29, 07:10:39](https://news.ycombinator.com/item?id=37304367) - [Multics Simulator](https://multicians.org/simulator.html)
 * [2023-08-29, 07:01:44](https://news.ycombinator.com/item?id=37304306) - [Stringzilla: Fastest string sort, search, split, and shuffle using SIMD](https://github.com/ashvardanian/Stringzilla)

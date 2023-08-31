@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-31](index.md)
 
 * [2023-08-31, 12:44:14](https://news.ycombinator.com/item?id=37336299) - [Shell Quietly Shelves a Radical Plan to Shrink Its Carbon Footprint](https://www.bloomberg.com/news/features/2023-08-31/shell-silently-abandoned-its-100-million-a-year-plan-to-offset-co2-emissions)
+* [2023-08-31, 12:17:38](https://news.ycombinator.com/item?id=37336013) - [Chandrayaan-3 Confirms Presence of Sulfur and Other Elements on Lunar South Pole](https://scienceswitch.com/2023/08/31/isros-chandrayaan-3-confirms-presence-of-sulfur-and-other-elements-on-lunar-south-pole/)
 * [2023-08-31, 12:11:47](https://news.ycombinator.com/item?id=37335945) - [Docker Is Four Things](https://matthiasportzel.com/docker/)
 * [2023-08-31, 12:01:16](https://news.ycombinator.com/item?id=37335833) - [Firezone (YC W22) is hiring Rust engineers to build secure networks](https://www.ycombinator.com/companies/firezone)
 * [2023-08-31, 11:51:19](https://news.ycombinator.com/item?id=37335751) - [NASA officials sound alarm over future of the Deep Space Network](https://arstechnica.com/space/2023/08/nasas-artemis-i-mission-nearly-broke-the-deep-space-network/)
@@ -12,6 +13,7 @@
 * [2023-08-31, 11:36:49](https://news.ycombinator.com/item?id=37335607) - [Swedish cities hit by four residential explosions in an hour](https://www.theguardian.com/world/2023/aug/31/bomb-experts-called-in-after-swedish-cities-see-four-explosions-in-just-over-an-hour)
 * [2023-08-31, 11:24:49](https://news.ycombinator.com/item?id=37335492) - [Show HN: AI Judges Your Spotify](https://www.yourmusictastesucks.com/?ref=hn)
 * [2023-08-31, 11:12:45](https://news.ycombinator.com/item?id=37335404) - [Microsoft is unbundling Teams from Office in Europe to address regulator concern](https://www.theverge.com/2023/8/31/23853517/microsoft-teams-unbundling-europe)
+* [2023-08-31, 10:05:11](https://news.ycombinator.com/item?id=37334805) - [Goodreads Is Terrible for Books. Why Can’t We All Quit It?](https://thewalrus.ca/goodreads-is-terrible/)
 * [2023-08-31, 09:58:48](https://news.ycombinator.com/item?id=37334750) - [Managed to death: How Canada turned its forests into a carbon bomb](https://thebulletin.org/2023/08/managed-to-death-how-canada-turned-its-forests-into-a-carbon-bomb/#post-heading)
 * [2023-08-31, 09:57:16](https://news.ycombinator.com/item?id=37334737) - [It's not just you – no one is posting on social media anymore](https://www.businessinsider.com/social-media-dead-instagram-tiktok-bereal-replaced-group-chats-messaging-2023-8)
 * [2023-08-31, 09:51:21](https://news.ycombinator.com/item?id=37334695) - [Show HN: 99% cheaper international business transfers – fixed fee, real rate](https://atlantic.money/gb/en/business)
@@ -34,6 +36,7 @@
 * [2023-08-31, 06:07:06](https://news.ycombinator.com/item?id=37333077) - [Cheetah: A Lightweight Virtual Machine Manager for macOS](https://macspot.net/)
 * [2023-08-31, 05:55:10](https://news.ycombinator.com/item?id=37332974) - [Money Is Pouring into AI. Skeptics Say It’s a ‘Grift Shift.’](https://www.institutionalinvestor.com/article/2c4fad0w6irk838pca3gg/portfolio/money-is-pouring-into-ai-skeptics-say-its-a-grift-shift)
 * [2023-08-31, 05:34:20](https://news.ycombinator.com/item?id=37332860) - [Hidden 3D](https://hidden-3d.com/)
+* [2023-08-31, 05:08:50](https://news.ycombinator.com/item?id=37332705) - [Report on Reparations for Transatlantic Chattel Slavery](https://www.voice-online.co.uk/wp-content/uploads/2023/07/The-Brattle-Report_compressed.pdf)
 * [2023-08-31, 04:47:03](https://news.ycombinator.com/item?id=37332582) - [We Are Not Supporting OpenTF](https://medium.com/@hello_9187/why-we-are-not-supporting-opentf-a46855f52dc4)
 * [2023-08-31, 04:33:40](https://news.ycombinator.com/item?id=37332493) - [RyujinX – Open Source Nintendo Switch Emulator](https://ryujinx.org/)
 * [2023-08-31, 04:26:40](https://news.ycombinator.com/item?id=37332459) - [Croner – Cron for JavaScript and TypeScript](https://github.com/Hexagon/croner)
