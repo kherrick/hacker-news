@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-08-31](index.md)
 
+* [2023-08-31, 20:00:47](https://news.ycombinator.com/item?id=37342925) - [Why did old phone numbers start with letters? (2015)](https://www.mentalfloss.com/article/61116/why-did-old-phone-numbers-start-letters)
+* [2023-08-31, 20:00:02](https://news.ycombinator.com/item?id=37342914) - [LIBS confirms the presence of sulphur on the lunar surface](https://www.isro.gov.in/LIBSResults.html)
+* [2023-08-31, 19:45:19](https://news.ycombinator.com/item?id=37342718) - [Exploring and Debunking Lay Beliefs About Cynicism and Competence](https://journals.sagepub.com/doi/pdf/10.1177/0146167218783195)
+* [2023-08-31, 19:07:24](https://news.ycombinator.com/item?id=37342215) - [Nougat: Neural Optical Understanding for Academic Documents](https://facebookresearch.github.io/nougat/)
 * [2023-08-31, 18:54:13](https://news.ycombinator.com/item?id=37342046) - [AWS Icon Quiz](https://awsiconquiz.com/)
 * [2023-08-31, 18:51:23](https://news.ycombinator.com/item?id=37342013) - [Ask HN: What's your favourite hobby and how did it start?](https://news.ycombinator.com/item?id=37342013)
 * [2023-08-31, 18:46:42](https://news.ycombinator.com/item?id=37341951) - [Canada issues travel advisory for LGBTQ+ residents visiting US](https://www.theguardian.com/world/2023/aug/31/canada-travel-warning-lgbtq-residents-us)
@@ -83,6 +87,7 @@
 * [2023-08-31, 04:47:03](https://news.ycombinator.com/item?id=37332582) - [We Are Not Supporting OpenTF](https://medium.com/@hello_9187/why-we-are-not-supporting-opentf-a46855f52dc4)
 * [2023-08-31, 04:33:40](https://news.ycombinator.com/item?id=37332493) - [RyujinX – Open Source Nintendo Switch Emulator](https://ryujinx.org/)
 * [2023-08-31, 04:26:40](https://news.ycombinator.com/item?id=37332459) - [Croner – Cron for JavaScript and TypeScript](https://github.com/Hexagon/croner)
+* [2023-08-31, 04:01:13](https://news.ycombinator.com/item?id=37332303) - [The Story of Carrene (1935)](https://pdfhost.io/v/oxZ.mlWg9_The_Story_of_Carrene)
 * [2023-08-31, 03:59:16](https://news.ycombinator.com/item?id=37332292) - [There have been several public library bomb threats this week](https://bookriot.com/there-have-been-several-public-library-bomb-threats-this-week/)
 * [2023-08-31, 03:36:48](https://news.ycombinator.com/item?id=37332172) - [Locals have been sounding the alarm for years about Lahaina wildfire risk](https://grist.org/wildfires/maui-fire-risk-drought-grass-sound-alarm-lahaina-hawaii/)
 * [2023-08-31, 03:30:32](https://news.ycombinator.com/item?id=37332130) - [Colorado controversy raises questions over the meaning of the gadsden flag](https://jonathanturley.org/2023/08/30/colorado-controversy-raises-questions-over-the-meaning-of-the-gadsden-flag/)
