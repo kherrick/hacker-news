@@ -1,11 +1,31 @@
 [
   [
     [
+      "2023-08-31, 02:03:19",
+      "https://news.ycombinator.com/item?id=37331614"
+    ],
+    [
+      "Lockdowns and face masks ‘unequivocally’ cut spread of Covid, report finds",
+      "https://www.theguardian.com/world/2023/aug/24/lockdowns-face-masks-unequivocally-cut-spread-covid-study-finds"
+    ]
+  ],
+  [
+    [
+      "2023-08-31, 01:32:25",
+      "https://news.ycombinator.com/item?id=37331419"
+    ],
+    [
+      "Tune PaLM 2 with your own RLHF training data",
+      "https://github.com/GoogleCloudPlatform/vertex-ai-samples/blob/main/notebooks/official/gen_ai/rlhf_tune_llm.ipynb"
+    ]
+  ],
+  [
+    [
       "2023-08-30, 22:58:06",
       "https://news.ycombinator.com/item?id=37330234"
     ],
     [
-      "Australia will not force age verification due to privacy and security concerns",
+      "Australia will not force adult websites to bring in age verification",
       "https://www.theguardian.com/australia-news/2023/aug/31/roadmap-for-age-verification-online-pornographic-material-adult-websites-australia-law"
     ]
   ],
@@ -31,32 +51,12 @@
   ],
   [
     [
-      "2023-08-30, 20:42:49",
-      "https://news.ycombinator.com/item?id=37328786"
-    ],
-    [
-      "At Taser maker Axon, ex-staffers say loyalty meant being tased or tattooed",
-      "https://www.reuters.com/investigates/special-report/axon-taser-exposures/"
-    ]
-  ],
-  [
-    [
       "2023-08-30, 20:35:25",
       "https://news.ycombinator.com/item?id=37328669"
     ],
     [
       "Keisan Casio is shutting down",
       "https://keisan.casio.com/keisan/abolition.php"
-    ]
-  ],
-  [
-    [
-      "2023-08-30, 20:32:21",
-      "https://news.ycombinator.com/item?id=37328609"
-    ],
-    [
-      "Designing Deep Networks to Process Other Deep Networks",
-      "https://developer.nvidia.com/blog/designing-deep-networks-to-process-other-deep-networks/"
     ]
   ],
   [
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=37326870"
     ],
     [
-      "Show HN: I automated 1/2 of my typing",
+      "Show HN: I automated half of my typing",
       "https://github.com/eschluntz/compress"
     ]
   ],
@@ -111,12 +111,12 @@
   ],
   [
     [
-      "2023-08-30, 16:37:29",
-      "https://news.ycombinator.com/item?id=37324687"
+      "2023-08-30, 16:29:02",
+      "https://news.ycombinator.com/item?id=37324509"
     ],
     [
-      "STM32 Blue Pill as an Hid USB Keyboard",
-      "https://www.instructables.com/STM32-As-HID-USB-Keyboard-STM32-Tutorials/"
+      "How might life migrate through the universe?",
+      "https://thereader.mitpress.mit.edu/how-might-life-migrate-through-the-universe/"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2023-08-30, 15:35:16",
-      "https://news.ycombinator.com/item?id=37323760"
-    ],
-    [
-      "My Caste",
-      "https://www.cs.toronto.edu/~meel/opinions/caste.html"
-    ]
-  ],
-  [
-    [
       "2023-08-30, 15:33:20",
       "https://news.ycombinator.com/item?id=37323727"
     ],
@@ -185,8 +175,18 @@
       "https://news.ycombinator.com/item?id=37323092"
     ],
     [
-      "Developing 120-Year-Old Photos Found in a Time Capsule [video]",
+      "Developing 120-year-old photos found in a time capsule [video]",
       "https://www.youtube.com/watch?v=IoDj4mXdqmc"
+    ]
+  ],
+  [
+    [
+      "2023-08-30, 14:53:43",
+      "https://news.ycombinator.com/item?id=37323066"
+    ],
+    [
+      "The global trading system is starting to rearrange itself",
+      "https://www.noahpinion.blog/p/decoupling-isnt-phoney"
     ]
   ],
   [
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=37320994"
     ],
     [
-      "The Taiwanese Kitchen Appliance Icon That Made Its Way Stateside (2022)",
+      "Tatung Electric Cooker (2022)",
       "https://www.foodnetwork.com/how-to/packages/shopping/what-is-tatung-electric-cookier"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=37304666"
     ],
     [
-      "Beautifully Designed College Chemistry Handouts",
+      "Gallery – Making Molecules",
       "https://www.makingmolecules.com/handouts"
     ]
   ]
