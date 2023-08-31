@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-31](index.md)
 
+* [2023-08-31, 07:18:26](https://news.ycombinator.com/item?id=37333596) - [Tell HN: UC Berkeley's CS61A/B/C are the best courses to learn CS and coding](https://news.ycombinator.com/item?id=37333596)
 * [2023-08-31, 06:38:22](https://news.ycombinator.com/item?id=37333299) - [The 7th century Library of Ashurbanipal is the oldest known library in the world](https://www.worldhistory.org/Library_of_Ashurbanipal/)
 * [2023-08-31, 06:23:21](https://news.ycombinator.com/item?id=37333195) - [Youtube2Webpage: Create Websites with Text from Videos](https://github.com/obra/Youtube2Webpage)
 * [2023-08-31, 06:07:06](https://news.ycombinator.com/item?id=37333077) - [Cheetah: A Lightweight Virtual Machine Manager for macOS](https://macspot.net/)
