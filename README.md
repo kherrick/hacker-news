@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-08-31, 14:35:23](https://news.ycombinator.com/item?id=37337771) - [IBM promised to back off facial recognition, then signed a $70M contract for it](https://www.theverge.com/2023/8/31/23852955/ibm-uk-government-contract-biometric-facial-recognition)
+* [2023-08-31, 14:15:39](https://news.ycombinator.com/item?id=37337482) - [Ghostfolio: Open-Source Wealth Management Software](https://ghostfol.io)
 * [2023-08-31, 13:26:00](https://news.ycombinator.com/item?id=37336814) - [Wireless carriers are messing with your autopay discount](https://www.theverge.com/2023/8/30/23852255/verizon-att-t-mobile-autopay-discount-debit-bank-credit-card)
 * [2023-08-31, 13:24:05](https://news.ycombinator.com/item?id=37336782) - [New antifungal therapy for fungal meningitis](https://med.umn.edu/news/u-m-research-team-successfully-tests-new-antifungal-therapy-fungal-meningitis)
 * [2023-08-31, 13:09:46](https://news.ycombinator.com/item?id=37336606) - [Usenet, the OG social network, rises again like a text-only phoenix](https://www.theregister.com/2023/08/30/usenet_revival/)
@@ -12,6 +13,7 @@
 * [2023-08-31, 11:21:32](https://news.ycombinator.com/item?id=37335471) - [State Governments Can’t Resist the Siren Song of Censorship](https://www.techdirt.com/2023/08/30/state-governments-cant-resist-the-siren-song-of-censorship/)
 * [2023-08-31, 11:12:45](https://news.ycombinator.com/item?id=37335404) - [Microsoft is unbundling Teams from Office in Europe to address regulator concern](https://www.theverge.com/2023/8/31/23853517/microsoft-teams-unbundling-europe)
 * [2023-08-31, 10:05:11](https://news.ycombinator.com/item?id=37334805) - [Goodreads Is Terrible for Books. Why Can’t We All Quit It?](https://thewalrus.ca/goodreads-is-terrible/)
+* [2023-08-31, 09:57:16](https://news.ycombinator.com/item?id=37334737) - [It's not just you – no one is posting on social media anymore](https://www.businessinsider.com/social-media-dead-instagram-tiktok-bereal-replaced-group-chats-messaging-2023-8)
 * [2023-08-31, 09:19:45](https://news.ycombinator.com/item?id=37334486) - [HashiCorp silently amend Terraform Registry TOS](https://github.com/opentffoundation/roadmap/issues/24)
 * [2023-08-31, 07:18:26](https://news.ycombinator.com/item?id=37333596) - [Tell HN: UC Berkeley's CS61A/B/C are the best courses to learn CS and coding](https://news.ycombinator.com/item?id=37333596)
 * [2023-08-31, 06:53:43](https://news.ycombinator.com/item?id=37333404) - [UTM – Virtual Machines for iOS and macOS](https://github.com/utmapp/UTM)
@@ -25,11 +27,9 @@
 * [2023-08-30, 15:16:28](https://news.ycombinator.com/item?id=37323473) - [Zadie Smith Makes 1860s London Feel Alive, and Recognizable](https://www.nytimes.com/2023/08/28/books/review/zadie-smith-the-fraud.html)
 * [2023-08-30, 10:51:00](https://news.ycombinator.com/item?id=37320071) - [A case for dynamic scoring of high-skilled immigration](https://www.slowboring.com/p/a-serious-case-for-dynamic-scoring)
 * [2023-08-29, 14:28:34](https://news.ycombinator.com/item?id=37308469) - [Random Load Balancing Is Unevenly Distributed](https://www.evanjones.ca/random-load-balancing-is-uneven.html)
-* [2023-08-29, 11:59:59](https://news.ycombinator.com/item?id=37306431) - [Three Antiquities Traffickers and Their Fall from Grace](https://hyperallergic.com/830328/three-antiquities-traffickers-and-their-fall-from-grace/)
 * [2023-08-29, 11:57:43](https://news.ycombinator.com/item?id=37306401) - [Film Review: BlackBerry](https://anarchonomicon.substack.com/p/review-blackberry)
 * [2023-08-29, 09:13:14](https://news.ycombinator.com/item?id=37305113) - [Secure Boot on ESP32 Platforms](https://thistle.tech/blog/esp32-secure-boot-v2-enablement-2)
 * [2023-08-29, 07:28:14](https://news.ycombinator.com/item?id=37304476) - [Dolby Atmos will use your TV to expand living room speaker setups](https://www.engadget.com/dolby-atmos-will-use-your-tv-to-expand-living-room-speaker-setups-123021095.html)
-* [2023-08-29, 05:04:19](https://news.ycombinator.com/item?id=37303722) - [The open source saxophone project (2017)](https://www.stohrermusic.com/2017/10/the-open-source-saxophone-project/)
 
 ## [Archives](archives/index.md)
 

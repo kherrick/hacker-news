@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-31](index.md)
 
 * [2023-08-31, 14:35:23](https://news.ycombinator.com/item?id=37337771) - [IBM promised to back off facial recognition, then signed a $70M contract for it](https://www.theverge.com/2023/8/31/23852955/ibm-uk-government-contract-biometric-facial-recognition)
+* [2023-08-31, 14:15:39](https://news.ycombinator.com/item?id=37337482) - [Ghostfolio: Open-Source Wealth Management Software](https://ghostfol.io)
 * [2023-08-31, 13:53:40](https://news.ycombinator.com/item?id=37337189) - [Third of Japan's 18-year-olds women may never have children: study](https://www.japantimes.co.jp/news/2023/08/30/japan/society/teenagers-dont-want-children/)
 * [2023-08-31, 13:52:55](https://news.ycombinator.com/item?id=37337177) - [ChatGPT Is Down Again](https://status.openai.com/incidents/c9fzdr2cxnbq)
 * [2023-08-31, 13:26:00](https://news.ycombinator.com/item?id=37336814) - [Wireless carriers are messing with your autopay discount](https://www.theverge.com/2023/8/30/23852255/verizon-att-t-mobile-autopay-discount-debit-bank-credit-card)
