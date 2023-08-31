@@ -20,6 +20,7 @@
 * [2023-08-31, 15:57:46](https://news.ycombinator.com/item?id=37339259) - [Yes, a Pigeon Is Faster for Data Transfer Than Gigabit Fiber Internet](https://www.tomshardware.com/news/yes-a-pigeon-is-still-faster-than-gigabit-fiber-internet)
 * [2023-08-31, 15:49:24](https://news.ycombinator.com/item?id=37339098) - [Evennia a MUD/Mu* Creation System](https://www.evennia.com/)
 * [2023-08-31, 15:35:48](https://news.ycombinator.com/item?id=37338857) - [Show HN: Flake schemas – teaching Nix about your flake outputs](https://determinate.systems/posts/flake-schemas)
+* [2023-08-31, 15:29:02](https://news.ycombinator.com/item?id=37338753) - [Tearing down Klamath dams: The largest dam demolition](https://calmatters.org/environment/2023/08/klamath-river-dams-demolition/)
 * [2023-08-31, 15:24:55](https://news.ycombinator.com/item?id=37338672) - [South Korea extends natural population fall as fertility rate falls to 0.7](https://www.koreatimes.co.kr/www/nation/2023/08/113_358114.html)
 * [2023-08-31, 15:20:48](https://news.ycombinator.com/item?id=37338585) - [X wants permission to start collecting your bio data and employment history](https://www.theverge.com/2023/8/31/23853618/x-privacy-policy-update-biometrics-job-history)
 * [2023-08-31, 14:54:38](https://news.ycombinator.com/item?id=37338127) - [Supporting people’s right to accurate and safe political discourse on X](https://blog.twitter.com/en_us/topics/company/2023/supporting-peoples-right-to-accurate-and-safe-political-discourse-on-x)
