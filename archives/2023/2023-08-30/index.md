@@ -59,6 +59,7 @@
 * [2023-08-30, 15:24:08](https://news.ycombinator.com/item?id=37323604) - [Hacking the LG Monitor's EDID](https://gist.github.com/kj800x/be3001c07c49fdb36970633b0bc6defb)
 * [2023-08-30, 14:55:13](https://news.ycombinator.com/item?id=37323092) - [Developing 120-Year-Old Photos Found in a Time Capsule [video]](https://www.youtube.com/watch?v=IoDj4mXdqmc)
 * [2023-08-30, 14:53:43](https://news.ycombinator.com/item?id=37323066) - [Decoupling isn't phoney – The global trading system is starting to rearrange](https://www.noahpinion.blog/p/decoupling-isnt-phoney)
+* [2023-08-30, 14:42:50](https://news.ycombinator.com/item?id=37322881) - [Terry Pratchett’s hard drive steamrolled in 2017 had '10 unfinished novels'](https://www.thepopverse.com/neil-gaiman-terry-pratchett-unfinished-steamroller-will)
 * [2023-08-30, 14:37:28](https://news.ycombinator.com/item?id=37322794) - [Multiplix, operating system kernel for RISC-V and AArch64 SBCs](https://github.com/zyedidia/multiplix)
 * [2023-08-30, 14:30:35](https://news.ycombinator.com/item?id=37322700) - [CA Supreme Court Concludes No Reason to Generate Precedent on Geofence Warrants](https://www.techdirt.com/2023/08/29/california-supreme-court-decides-theres-no-reason-to-generate-precedent-on-geofence-warrants/)
 * [2023-08-30, 14:25:39](https://news.ycombinator.com/item?id=37322619) - [Tracking Application-Level Consistency with LiteFS](https://fly.io/blog/tracking-consistency-with-litefs/)
