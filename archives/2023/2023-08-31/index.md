@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-31](index.md)
 
 * [2023-08-31, 23:00:17](https://news.ycombinator.com/item?id=37344702) - [Independent Guest Virtual Machine (IGVM) File Format](https://github.com/microsoft/igvm)
+* [2023-08-31, 22:42:15](https://news.ycombinator.com/item?id=37344562) - [Cities are suing car manufacturers over auto theft. They have a case](https://www.economist.com/united-states/2023/08/31/cities-are-suing-car-manufacturers-over-auto-theft-they-have-a-case)
 * [2023-08-31, 21:47:53](https://news.ycombinator.com/item?id=37344096) - [Wii Architecture – A Practical Analysis](https://www.copetti.org/writings/consoles/wii/)
 * [2023-08-31, 21:39:44](https://news.ycombinator.com/item?id=37344026) - [Types versus sets (and what about categories?)](https://lawrencecpaulson.github.io/2022/03/16/Types_vs_Sets.html)
 * [2023-08-31, 21:18:16](https://news.ycombinator.com/item?id=37343814) - [SvelteKit View Transitions](https://svelte.dev/blog/view-transitions)
