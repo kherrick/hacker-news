@@ -23,12 +23,12 @@
 * [2023-08-30, 14:37:28](https://news.ycombinator.com/item?id=37322794) - [Multiplix, operating system kernel for RISC-V and AArch64 SBCs](https://github.com/zyedidia/multiplix)
 * [2023-08-30, 14:13:33](https://news.ycombinator.com/item?id=37322460) - [How to get transactions between almost any data stores](https://petereliaskraft.net/blog/epoxy)
 * [2023-08-30, 12:32:05](https://news.ycombinator.com/item?id=37321028) - [A DIY ‘bionic pancreas’ is changing diabetes care](https://www.nature.com/articles/d41586-023-02648-9)
+* [2023-08-30, 09:36:30](https://news.ycombinator.com/item?id=37319501) - [Plastic palm trees and inflatable pineapples](https://onthearts.com/p/plastic-palm-trees-and-inflatable)
 * [2023-08-30, 07:34:19](https://news.ycombinator.com/item?id=37318810) - [ChatLZMA – text generation from data compression](http://pepijndevos.nl/2023/07/15/chatlmza.html)
 * [2023-08-30, 00:56:25](https://news.ycombinator.com/item?id=37316280) - [The Tera Computer System (1990)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=108b3a24274af0aab079bd94ab7c1ee6543563d4)
 * [2023-08-29, 23:00:04](https://news.ycombinator.com/item?id=37315297) - [Inertial HSMs thwart advanced physical attacks](https://tches.iacr.org/index.php/TCHES/article/view/9290/8856)
 * [2023-08-29, 16:23:03](https://news.ycombinator.com/item?id=37310216) - [Lunik: The CIA’s plot to steal a Soviet satellite (2021)](https://www.technologyreview.com/2021/01/28/1016867/lunik-cia-heist-steal-russian-satellite-space-us-ussr/)
 * [2023-08-29, 14:28:34](https://news.ycombinator.com/item?id=37308469) - [Random Load Balancing Is Unevenly Distributed](https://www.evanjones.ca/random-load-balancing-is-uneven.html)
-* [2023-08-29, 11:54:58](https://news.ycombinator.com/item?id=37306376) - [Never Ending September Date](https://www.df7cb.de/projects/sdate/)
 * [2023-08-29, 07:59:26](https://news.ycombinator.com/item?id=37304666) - [Gallery – Making Molecules](https://www.makingmolecules.com/handouts)
 
 ## [Archives](archives/index.md)
