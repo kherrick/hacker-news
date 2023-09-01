@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 12:00:33](https://news.ycombinator.com/item?id=37349654) - [UpCodes is hiring SWEs, SDRs to make construction more productive](https://up.codes/careers)
+* [2023-09-01, 11:57:06](https://news.ycombinator.com/item?id=37349633) - [Farewell EC2-Classic, it’s been swell](https://www.allthingsdistributed.com/2023/09/farewell-ec2-classic.html)
+* [2023-09-01, 11:45:27](https://news.ycombinator.com/item?id=37349533) - [Are self-driving cars already safer than human drivers?](https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/)
+* [2023-09-01, 11:12:00](https://news.ycombinator.com/item?id=37349270) - [The technical merits of Wayland are mostly irrelevant](https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandTechnicalMeritsIrrelevant)
 * [2023-09-01, 10:23:50](https://news.ycombinator.com/item?id=37348914) - [Apple Clarifies Why It Abandoned Plan to Detect CSAM in iCloud Photos](https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/)
 * [2023-09-01, 08:38:50](https://news.ycombinator.com/item?id=37348240) - [Benjamin S. Bloom: Learning For Mastery (1968) [pdf]](http://www.researchforteachers.org.uk/sites/default/files/Docs/Bloom%20(1968)%20Learning%20for%20Mastery_0.pdf)
 * [2023-09-01, 08:27:21](https://news.ycombinator.com/item?id=37348162) - [Show HN: ChangeDetection, monitor any website change](https://github.com/dgtlmoon/changedetection.io)
