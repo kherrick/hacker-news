@@ -21,7 +21,7 @@
 * [2023-09-01, 02:03:57](https://news.ycombinator.com/item?id=37345938) - [BoTorch – Bayesian Optimization in PyTorch](https://botorch.org/)
 * [2023-09-01, 01:29:15](https://news.ycombinator.com/item?id=37345727) - [Things I wish I knew before moving 50K lines of code to React Server Components](https://www.mux.com/blog/what-are-react-server-components)
 * [2023-09-01, 00:51:56](https://news.ycombinator.com/item?id=37345456) - [Evolution of the Samsung Exynos CPU Microarchitecture [pdf]](https://people.engr.tamu.edu/djimenez/pdfs/exynos_isca2020.pdf)
-* [2023-08-31, 21:47:53](https://news.ycombinator.com/item?id=37344096) - [Wii Architecture – A Practical Analysis](https://www.copetti.org/writings/consoles/wii/)
+* [2023-08-31, 20:00:02](https://news.ycombinator.com/item?id=37342914) - [LIBS confirms the presence of sulphur on the lunar surface](https://www.isro.gov.in/LIBSResults.html)
 * [2023-08-31, 18:35:10](https://news.ycombinator.com/item?id=37341799) - [CT scans of coffee-making equipment](https://www.scanofthemonth.com/scans/coffee)
 * [2023-08-31, 16:17:28](https://news.ycombinator.com/item?id=37339619) - [VanMoof acquired by e-mobility company Lavoie](https://www.bicycleretailer.com/industry-news/2023/08/31/vanmoof-acquired-e-mobility-company-lavoie)
 * [2023-08-31, 10:07:14](https://news.ycombinator.com/item?id=37334819) - [The Last of the Fungus](https://nautil.us/the-last-of-the-fungus-370460/)
