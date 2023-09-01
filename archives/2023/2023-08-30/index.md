@@ -86,6 +86,7 @@
 * [2023-08-30, 12:18:30](https://news.ycombinator.com/item?id=37320897) - [Giant fake town was built exclusively for filming TV and movies](https://petapixel.com/2023/08/23/this-giant-fake-town-was-built-exclusively-for-filming-tv-and-movies/)
 * [2023-08-30, 12:13:54](https://news.ycombinator.com/item?id=37320841) - [Produce HTML from S-Expressions](https://github.com/lelanthran/l2h)
 * [2023-08-30, 12:07:39](https://news.ycombinator.com/item?id=37320786) - [Windows 11 will respect default browser for system apps in the European Union](https://blogs.windows.com/windows-insider/2023/08/25/announcing-windows-11-insider-preview-build-23531-dev-channel/)
+* [2023-08-30, 12:07:19](https://news.ycombinator.com/item?id=37320780) - [Electroculture Gardening](https://www.washingtonpost.com/home/2023/08/30/gardening-electroculture-explained/)
 * [2023-08-30, 12:00:37](https://news.ycombinator.com/item?id=37320729) - [Lago – Open-Source Stripe Billing Alternative Is Hiring a Content Lead](https://news.ycombinator.com/item?id=37320729)
 * [2023-08-30, 11:40:48](https://news.ycombinator.com/item?id=37320516) - [<N> Guilty Men](https://www2.law.ucla.edu/volokh/guilty.htm)
 * [2023-08-30, 11:35:40](https://news.ycombinator.com/item?id=37320476) - [Putin’s Cinema Fund Rejects Movie Piracy, Fuming Cinema Boss Demands Barbie](https://torrentfreak.com/putins-cinema-fund-rejects-movie-piracy-fuming-cinema-boss-demands-barbie-230830/)
