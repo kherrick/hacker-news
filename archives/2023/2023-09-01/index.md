@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 08:27:21](https://news.ycombinator.com/item?id=37348162) - [Show HN: ChangeDetection, monitor any website change](https://github.com/dgtlmoon/changedetection.io)
 * [2023-09-01, 06:38:33](https://news.ycombinator.com/item?id=37347564) - [Total Commander](https://www.ghisler.com/)
 * [2023-09-01, 06:31:39](https://news.ycombinator.com/item?id=37347528) - [Ask Microsoft: Are you using our personal data to train AI?](https://foundation.mozilla.org/en/campaigns/microsoft-ai/)
 * [2023-09-01, 06:16:55](https://news.ycombinator.com/item?id=37347447) - [Organic Maps](https://organicmaps.app/)

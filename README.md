@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-01, 08:27:21](https://news.ycombinator.com/item?id=37348162) - [Show HN: ChangeDetection, monitor any website change](https://github.com/dgtlmoon/changedetection.io)
 * [2023-09-01, 06:38:33](https://news.ycombinator.com/item?id=37347564) - [Total Commander](https://www.ghisler.com/)
 * [2023-09-01, 06:31:39](https://news.ycombinator.com/item?id=37347528) - [Ask Microsoft: Are you using our personal data to train AI?](https://foundation.mozilla.org/en/campaigns/microsoft-ai/)
 * [2023-09-01, 06:16:55](https://news.ycombinator.com/item?id=37347447) - [Organic Maps](https://organicmaps.app/)
@@ -18,7 +19,6 @@
 * [2023-08-31, 21:08:54](https://news.ycombinator.com/item?id=37343711) - [Modern genetic data suggests pre-humans were a group of only 1,280 individuals](https://www.nature.com/articles/d41586-023-02712-4)
 * [2023-08-31, 21:00:19](https://news.ycombinator.com/item?id=37343611) - [Etleap (YC W13) is hiring a software engineer in London or San Francisco](https://etleap.com/careers/software-engineer/)
 * [2023-08-31, 20:47:53](https://news.ycombinator.com/item?id=37343475) - [Elixir/Erlang Secure Coding and Deployment Hardening Guidelines](https://erlef.github.io/security-wg/secure_coding_and_deployment_hardening/)
-* [2023-08-31, 20:00:47](https://news.ycombinator.com/item?id=37342925) - [Why did old phone numbers start with letters? (2015)](https://www.mentalfloss.com/article/61116/why-did-old-phone-numbers-start-letters)
 * [2023-08-31, 20:00:02](https://news.ycombinator.com/item?id=37342914) - [LIBS confirms the presence of sulphur on the lunar surface](https://www.isro.gov.in/LIBSResults.html)
 * [2023-08-31, 19:34:13](https://news.ycombinator.com/item?id=37342548) - [The low, low cost of committing cybercrime](https://isc.sans.edu/diary/The+low+low+cost+of+committing+cybercrime/30176)
 * [2023-08-31, 18:35:10](https://news.ycombinator.com/item?id=37341799) - [CT scans of coffee-making equipment](https://www.scanofthemonth.com/scans/coffee)
