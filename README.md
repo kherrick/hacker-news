@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-01, 03:32:36](https://news.ycombinator.com/item?id=37346509) - [An introduction to the impact of native planting](https://marisamorby.com/native-planting-intro/)
-* [2023-09-01, 03:30:48](https://news.ycombinator.com/item?id=37346497) - [Ask HN: How would you raise $600k for a boring software co?](https://news.ycombinator.com/item?id=37346497)
 * [2023-09-01, 02:34:33](https://news.ycombinator.com/item?id=37346115) - [Animated Knots](https://www.animatedknots.com/)
 * [2023-09-01, 02:03:57](https://news.ycombinator.com/item?id=37345938) - [BoTorch – Bayesian Optimization in PyTorch](https://botorch.org/)
 * [2023-08-31, 23:43:18](https://news.ycombinator.com/item?id=37344993) - [Artificial Intelligence and Copyright: Request for comments](https://www.federalregister.gov/documents/2023/08/30/2023-18624/artificial-intelligence-and-copyright)
@@ -13,6 +12,7 @@
 * [2023-08-31, 20:29:03](https://news.ycombinator.com/item?id=37343274) - [Keep your files inside your VM](https://msimkunas.lt/2023/08/28/vm-file-sharing.html)
 * [2023-08-31, 20:00:47](https://news.ycombinator.com/item?id=37342925) - [Why did old phone numbers start with letters? (2015)](https://www.mentalfloss.com/article/61116/why-did-old-phone-numbers-start-letters)
 * [2023-08-31, 20:00:02](https://news.ycombinator.com/item?id=37342914) - [LIBS confirms the presence of sulphur on the lunar surface](https://www.isro.gov.in/LIBSResults.html)
+* [2023-08-31, 19:45:19](https://news.ycombinator.com/item?id=37342718) - [The Cynical Genius Illusion (2018)](https://journals.sagepub.com/doi/pdf/10.1177/0146167218783195)
 * [2023-08-31, 19:34:13](https://news.ycombinator.com/item?id=37342548) - [The low, low cost of committing cybercrime](https://isc.sans.edu/diary/0)
 * [2023-08-31, 18:54:13](https://news.ycombinator.com/item?id=37342046) - [AWS Icon Quiz](https://awsiconquiz.com/)
 * [2023-08-31, 18:35:10](https://news.ycombinator.com/item?id=37341799) - [CT scans of coffee-making equipment](https://www.scanofthemonth.com/scans/coffee)
