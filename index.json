@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2023-09-01, 15:01:30",
+      "https://news.ycombinator.com/item?id=37351685"
+    ],
+    [
+      "Mashing Enter to bypass full disk encryption with TPM, Clevis dracut and systemd",
+      "https://pulsesecurity.co.nz/advisories/tpm-luks-bypass"
+    ]
+  ],
+  [
+    [
+      "2023-09-01, 15:00:30",
+      "https://news.ycombinator.com/item?id=37351668"
+    ],
+    [
+      "Nostr: A Decentralized Messaging Protocol",
+      "https://hivemind.vc/nostr/"
+    ]
+  ],
+  [
+    [
       "2023-09-01, 14:59:45",
       "https://news.ycombinator.com/item?id=37351656"
     ],
@@ -31,12 +51,12 @@
   ],
   [
     [
-      "2023-09-01, 14:44:58",
-      "https://news.ycombinator.com/item?id=37351455"
+      "2023-09-01, 14:55:16",
+      "https://news.ycombinator.com/item?id=37351595"
     ],
     [
-      "Boaters deal with ‘modern-day pirates' in the East Bay",
-      "https://www.nbcbayarea.com/news/local/east-bay/pirates-oakland-estuary/3305821/"
+      "AntiX 23: Anarchic for sure, but design by committee isn't always best for Linux",
+      "https://www.theregister.com/2023/09/01/antix_23/"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "A deep dive into Single Pair Ethernet",
       "https://electricui.com/blog/spe-sensor-node"
-    ]
-  ],
-  [
-    [
-      "2023-09-01, 13:45:18",
-      "https://news.ycombinator.com/item?id=37350762"
-    ],
-    [
-      "Our Human Ancestors Nearly Went Extinct 900k Years Ago, Genetics Suggest",
-      "https://www.smithsonianmag.com/science-nature/genetics-suggest-our-human-ancestors-very-nearly-went-extinct-900000-years-ago-180982830/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Things I wish I knew before moving 50K lines of code to React Server Components",
       "https://www.mux.com/blog/what-are-react-server-components"
-    ]
-  ],
-  [
-    [
-      "2023-09-01, 00:51:56",
-      "https://news.ycombinator.com/item?id=37345456"
-    ],
-    [
-      "Evolution of the Samsung Exynos CPU Microarchitecture [pdf]",
-      "https://people.engr.tamu.edu/djimenez/pdfs/exynos_isca2020.pdf"
     ]
   ],
   [
