@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-01, 13:34:49](https://news.ycombinator.com/item?id=37350634) - [Factorio Friday Facts #374 – Smarter robots](https://factorio.com/blog/post/fff-374)
 * [2023-09-01, 13:25:51](https://news.ycombinator.com/item?id=37350520) - [Killed by Google](https://killedbygoogle.com)
+* [2023-09-01, 13:06:06](https://news.ycombinator.com/item?id=37350310) - [The Janus System: Multi-Paradigm Programming in Prolog and Python](https://arxiv.org/abs/2308.15893)
 * [2023-09-01, 12:45:17](https://news.ycombinator.com/item?id=37350123) - [AI Model Weight Providers Should Not Police Uses, No Matter How Awful They Are](http://marble.onl/posts/model_censorship.html)
 * [2023-09-01, 12:23:43](https://news.ycombinator.com/item?id=37349870) - [Vitamins, Supplements with Antioxidants Fuel Cancer](https://studyfinds.org/dietary-supplements-help-tumors/)
 * [2023-09-01, 12:09:30](https://news.ycombinator.com/item?id=37349732) - [FYI: The problem of creeping commercial surveillance](https://elnion.com/2022/02/07/the-problem-of-creeping-commercial-surveillance/)
@@ -21,9 +23,7 @@
 * [2023-09-01, 02:03:57](https://news.ycombinator.com/item?id=37345938) - [BoTorch – Bayesian Optimization in PyTorch](https://botorch.org/)
 * [2023-09-01, 01:29:15](https://news.ycombinator.com/item?id=37345727) - [Things I wish I knew before moving 50K lines of code to React Server Components](https://www.mux.com/blog/what-are-react-server-components)
 * [2023-09-01, 00:51:56](https://news.ycombinator.com/item?id=37345456) - [Evolution of the Samsung Exynos CPU Microarchitecture [pdf]](https://people.engr.tamu.edu/djimenez/pdfs/exynos_isca2020.pdf)
-* [2023-08-31, 20:00:02](https://news.ycombinator.com/item?id=37342914) - [LIBS confirms the presence of sulphur on the lunar surface](https://www.isro.gov.in/LIBSResults.html)
 * [2023-08-31, 18:35:10](https://news.ycombinator.com/item?id=37341799) - [CT scans of coffee-making equipment](https://www.scanofthemonth.com/scans/coffee)
-* [2023-08-31, 16:17:28](https://news.ycombinator.com/item?id=37339619) - [VanMoof acquired by e-mobility company Lavoie](https://www.bicycleretailer.com/industry-news/2023/08/31/vanmoof-acquired-e-mobility-company-lavoie)
 * [2023-08-31, 10:07:14](https://news.ycombinator.com/item?id=37334819) - [The Last of the Fungus](https://nautil.us/the-last-of-the-fungus-370460/)
 * [2023-08-31, 09:32:05](https://news.ycombinator.com/item?id=37334589) - [Sword swallowing and its side effects (2006) [pdf]](https://www.bmj.com/content/bmj/333/7582/1285.full.pdf)
 * [2023-08-31, 09:28:13](https://news.ycombinator.com/item?id=37334563) - [Cool Science Tricks (2005)](https://daveroot.neocities.org/sciencetricks/)
