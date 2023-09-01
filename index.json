@@ -1,22 +1,42 @@
 [
   [
     [
+      "2023-09-01, 00:09:55",
+      "https://news.ycombinator.com/item?id=37345195"
+    ],
+    [
+      "NYPD will use drones to monitor backyard parties this weekend",
+      "https://apnews.com/article/drones-labor-day-eric-adams-nypd-jouvert-c2787e87bcad8fa87aa8d34b454ee6cf"
+    ]
+  ],
+  [
+    [
+      "2023-09-01, 00:02:35",
+      "https://news.ycombinator.com/item?id=37345132"
+    ],
+    [
+      "Court Rules in Pornhub’s Favor: Age-Verification Law Violates First Amendment",
+      "https://variety.com/2023/digital/news/pornhubs-texas-age-verification-law-violates-first-amendment-ruling-1235709902/"
+    ]
+  ],
+  [
+    [
+      "2023-08-31, 23:43:18",
+      "https://news.ycombinator.com/item?id=37344993"
+    ],
+    [
+      "U.S. Copyright Office RFC: Artificial Intelligence and Copyright",
+      "https://www.federalregister.gov/documents/2023/08/30/2023-18624/artificial-intelligence-and-copyright"
+    ]
+  ],
+  [
+    [
       "2023-08-31, 23:00:17",
       "https://news.ycombinator.com/item?id=37344702"
     ],
     [
       "Independent Guest Virtual Machine (IGVM) File Format",
       "https://github.com/microsoft/igvm"
-    ]
-  ],
-  [
-    [
-      "2023-08-31, 22:42:15",
-      "https://news.ycombinator.com/item?id=37344562"
-    ],
-    [
-      "Cities are suing car manufacturers over auto theft. They have a case",
-      "https://www.economist.com/united-states/2023/08/31/cities-are-suing-car-manufacturers-over-auto-theft-they-have-a-case"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=37343814"
     ],
     [
-      "SvelteKit View Transitions",
+      "Unlocking view transitions in SvelteKit 1.24",
       "https://svelte.dev/blog/view-transitions"
     ]
   ],
@@ -67,6 +87,16 @@
     [
       "Etleap (YC W13) is hiring a software engineer in London or San Francisco",
       "https://etleap.com/careers/software-engineer/"
+    ]
+  ],
+  [
+    [
+      "2023-08-31, 20:29:03",
+      "https://news.ycombinator.com/item?id=37343274"
+    ],
+    [
+      "Keep your files inside your VM",
+      "https://msimkunas.lt/2023/08/28/vm-file-sharing.html"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2023-08-31, 16:43:32",
-      "https://news.ycombinator.com/item?id=37340010"
-    ],
-    [
-      "When your coworker does great work, tell their manager (2020)",
-      "https://jvns.ca/blog/2020/07/14/when-your-coworker-does-great-work-tell-their-manager/"
-    ]
-  ],
-  [
-    [
       "2023-08-31, 16:12:45",
       "https://news.ycombinator.com/item?id=37339535"
     ],
@@ -267,26 +287,6 @@
     [
       "Dense Neptune-sized exoplanet discovered with TESS",
       "https://phys.org/news/2023-08-dense-neptune-sized-exoplanet-tess.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-31, 09:19:45",
-      "https://news.ycombinator.com/item?id=37334486"
-    ],
-    [
-      "The Terraform Registry Terms of Service have been updated",
-      "https://github.com/opentffoundation/roadmap/issues/24#issuecomment-1699535216"
-    ]
-  ],
-  [
-    [
-      "2023-08-31, 06:38:22",
-      "https://news.ycombinator.com/item?id=37333299"
-    ],
-    [
-      "Library of Ashurbanipal",
-      "https://www.worldhistory.org/Library_of_Ashurbanipal/"
     ]
   ],
   [
