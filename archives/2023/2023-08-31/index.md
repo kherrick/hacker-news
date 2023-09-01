@@ -19,6 +19,7 @@
 * [2023-08-31, 20:00:47](https://news.ycombinator.com/item?id=37342925) - [Why did old phone numbers start with letters? (2015)](https://www.mentalfloss.com/article/61116/why-did-old-phone-numbers-start-letters)
 * [2023-08-31, 20:00:02](https://news.ycombinator.com/item?id=37342914) - [LIBS confirms the presence of sulphur on the lunar surface](https://www.isro.gov.in/LIBSResults.html)
 * [2023-08-31, 19:59:52](https://news.ycombinator.com/item?id=37342909) - [Ad-hoc polymorphism erodes type-safety](https://cs-syd.eu/posts/2023-08-25-ad-hoc-polymorphism-erodes-type-safety)
+* [2023-08-31, 19:54:29](https://news.ycombinator.com/item?id=37342828) - [Connections Museum: Driving across America for a DMS-10 [video]](https://www.youtube.com/watch?v=CrviyMrHLYw)
 * [2023-08-31, 19:45:19](https://news.ycombinator.com/item?id=37342718) - [Exploring and Debunking Lay Beliefs About Cynicism and Competence](https://journals.sagepub.com/doi/pdf/10.1177/0146167218783195)
 * [2023-08-31, 19:34:13](https://news.ycombinator.com/item?id=37342548) - [The low, low cost of committing cybercrime](https://isc.sans.edu/diary/The+low+low+cost+of+committing+cybercrime/30176)
 * [2023-08-31, 19:34:13](https://news.ycombinator.com/item?id=37342548) - [The low, low cost of committing cybercrime](https://isc.sans.edu/diary/0)

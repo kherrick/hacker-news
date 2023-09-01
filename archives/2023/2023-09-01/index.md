@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 15:03:11](https://news.ycombinator.com/item?id=37351716) - [Can Programming Languages Boost Each Other via Instruction Tuning? Yes](https://arxiv.org/abs/2308.16824)
+* [2023-09-01, 14:59:45](https://news.ycombinator.com/item?id=37351656) - [The algorithm that blew up Italy’s school system](https://algorithmwatch.org/en/algorithm-school-system-italy/)
+* [2023-09-01, 14:57:32](https://news.ycombinator.com/item?id=37351628) - [ARM wrestles assembly language guru's domains away, citing trademark issues](https://www.theregister.com/2023/08/31/a_star_star_domains/)
 * [2023-09-01, 14:44:58](https://news.ycombinator.com/item?id=37351455) - [Boaters deal with ‘modern-day pirates' in the East Bay](https://www.nbcbayarea.com/news/local/east-bay/pirates-oakland-estuary/3305821/)
 * [2023-09-01, 14:17:59](https://news.ycombinator.com/item?id=37351157) - [A deep dive into Single Pair Ethernet](https://electricui.com/blog/spe-sensor-node)
 * [2023-09-01, 14:15:48](https://news.ycombinator.com/item?id=37351135) - [Smoking cigarettes doubles the risk of developing depression, bipolar disorder](https://studyfinds.org/smoking-depression-bipolar-disorder/)
 * [2023-09-01, 13:59:20](https://news.ycombinator.com/item?id=37350943) - [Germany’s radioactive boars are a bristly reminder of nuclear fallout](https://www.science.org/content/article/germany-s-radioactive-boars-are-bristly-reminder-nuclear-fallout)
+* [2023-09-01, 13:45:18](https://news.ycombinator.com/item?id=37350762) - [Our Human Ancestors Nearly Went Extinct 900k Years Ago, Genetics Suggest](https://www.smithsonianmag.com/science-nature/genetics-suggest-our-human-ancestors-very-nearly-went-extinct-900000-years-ago-180982830/)
 * [2023-09-01, 13:34:49](https://news.ycombinator.com/item?id=37350634) - [Factorio Friday Facts #374 – Smarter robots](https://factorio.com/blog/post/fff-374)
 * [2023-09-01, 13:25:51](https://news.ycombinator.com/item?id=37350520) - [Killed by Google](https://killedbygoogle.com)
 * [2023-09-01, 13:21:33](https://news.ycombinator.com/item?id=37350465) - [Asus details its cable-free GC-HPWR connector for 600W gaming GPUs](https://videocardz.com/newz/asus-details-its-cable-free-gc-hpwr-connector-for-600w-gaming-gpus)
