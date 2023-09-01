@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 21:00:17](https://news.ycombinator.com/item?id=37356124) - [Bright (YC W15) Is Hiring](https://www.careersatbright.com/jobs-2/bright-frontend-engineer)
 * [2023-09-01, 19:55:19](https://news.ycombinator.com/item?id=37355487) - [Wikipedia search-by-vibes through millions of pages offline](https://www.leebutterman.com/2023/06/01/offline-realtime-embedding-search.html)
 * [2023-09-01, 19:44:10](https://news.ycombinator.com/item?id=37355360) - [Space travel via tether between asteroids](https://blog.cerowrt.org/post/toutatis/)
 * [2023-09-01, 19:20:10](https://news.ycombinator.com/item?id=37355084) - [AI Eng Recap: August 2023](https://www.latent.space/p/aug-2023)
