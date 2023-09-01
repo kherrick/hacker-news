@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-01, 04:11:57",
+      "https://news.ycombinator.com/item?id=37346710"
+    ],
+    [
+      "The Scourge of Airport Noise",
+      "https://askthepilot.com/airport-noise-scourge/"
+    ]
+  ],
+  [
+    [
+      "2023-09-01, 03:46:05",
+      "https://news.ycombinator.com/item?id=37346585"
+    ],
+    [
+      "The Making of EP Thompson",
+      "https://www.newstatesman.com/culture/history/2023/08/making-ep-thompson"
+    ]
+  ],
+  [
+    [
       "2023-09-01, 03:32:36",
       "https://news.ycombinator.com/item?id=37346509"
     ],
@@ -27,6 +47,16 @@
     [
       "BoTorch – Bayesian Optimization in PyTorch",
       "https://botorch.org/"
+    ]
+  ],
+  [
+    [
+      "2023-09-01, 01:29:15",
+      "https://news.ycombinator.com/item?id=37345727"
+    ],
+    [
+      "Things I wish I knew before moving 50K lines of code to React Server Components",
+      "https://www.mux.com/blog/what-are-react-server-components"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2023-08-31, 19:45:19",
-      "https://news.ycombinator.com/item?id=37342718"
-    ],
-    [
-      "The Cynical Genius Illusion (2018)",
-      "https://journals.sagepub.com/doi/pdf/10.1177/0146167218783195"
-    ]
-  ],
-  [
-    [
       "2023-08-31, 19:34:13",
       "https://news.ycombinator.com/item?id=37342548"
     ],
@@ -167,16 +187,6 @@
     [
       "Fine-tuning GPT-3.5-turbo for natural language to SQL",
       "https://medium.com/dataherald/fine-tuning-gpt-3-5-turbo-for-natural-language-to-sql-4445c1d37f7c"
-    ]
-  ],
-  [
-    [
-      "2023-08-31, 17:14:51",
-      "https://news.ycombinator.com/item?id=37340547"
-    ],
-    [
-      "Rare oxygen isotope detected",
-      "https://www.nature.com/articles/d41586-023-02713-3"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Docker Is Four Things",
       "https://matthiasportzel.com/docker/"
-    ]
-  ],
-  [
-    [
-      "2023-08-31, 05:12:39",
-      "https://news.ycombinator.com/item?id=37332729"
-    ],
-    [
-      "The Decline and Rise of IBM (1996)",
-      "https://sloanreview.mit.edu/article/the-decline-and-rise-of-ibm/?switch_view=PDF"
     ]
   ],
   [
