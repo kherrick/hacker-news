@@ -21,21 +21,11 @@
   ],
   [
     [
-      "2023-09-01, 19:20:10",
-      "https://news.ycombinator.com/item?id=37355084"
-    ],
-    [
-      "AI Eng Recap: August 2023",
-      "https://www.latent.space/p/aug-2023"
-    ]
-  ],
-  [
-    [
       "2023-09-01, 19:19:55",
       "https://news.ycombinator.com/item?id=37355081"
     ],
     [
-      "Hot Chips 2023: Ventana’s Unconventional Veyron V1",
+      "Ventana’s Unconventional Veyron V1",
       "https://chipsandcheese.com/2023/09/01/hot-chips-2023-ventanas-unconventional-veyron-v1/"
     ]
   ],
@@ -45,18 +35,8 @@
       "https://news.ycombinator.com/item?id=37355000"
     ],
     [
-      "U.S. Air Force Selects Fast Microreactor for Nuclear Power Pilot",
+      "U.S. Air Force selects fast microreactor for nuclear power pilot",
       "https://www.powermag.com/u-s-air-force-selects-fast-microreactor-for-nuclear-power-pilot/"
-    ]
-  ],
-  [
-    [
-      "2023-09-01, 18:34:38",
-      "https://news.ycombinator.com/item?id=37354577"
-    ],
-    [
-      "Mushroom pickers urged: Avoid Amazon foraging books, appear to be written by AI",
-      "https://www.theguardian.com/technology/2023/sep/01/mushroom-pickers-urged-to-avoid-foraging-books-on-amazon-that-appear-to-be-written-by-ai"
     ]
   ],
   [
@@ -65,7 +45,7 @@
       "https://news.ycombinator.com/item?id=37354409"
     ],
     [
-      "Without maintenance, most digital information will be lost in just a few decades",
+      "Shining a light on the digital dark age",
       "https://longnow.org/ideas/shining-a-light-on-the-digital-dark-age/"
     ]
   ],
@@ -105,7 +85,7 @@
       "https://news.ycombinator.com/item?id=37353436"
     ],
     [
-      "Pysentation – The Python Presentation",
+      "Pysentation: CLI for displaying Python presentations",
       "https://github.com/mimseyedi/pysentation"
     ]
   ],
@@ -117,6 +97,16 @@
     [
       "Optimizing Postgres's autovacuum for high-churn tables",
       "https://tembo.io/blog/optimizing-postgres-auto-vacuum/"
+    ]
+  ],
+  [
+    [
+      "2023-09-01, 15:45:30",
+      "https://news.ycombinator.com/item?id=37352282"
+    ],
+    [
+      "Why Is .US Being Used to Phish So Many of Us?",
+      "https://krebsonsecurity.com/2023/09/why-is-us-being-used-to-phish-so-many-of-us/"
     ]
   ],
   [
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=37351716"
     ],
     [
-      "Can Programming Languages Boost Each Other via Instruction Tuning? Yes",
+      "Can programming languages boost each other via instruction tuning?",
       "https://arxiv.org/abs/2308.16824"
     ]
   ],
@@ -157,6 +147,16 @@
     [
       "Mashing Enter to bypass full disk encryption with TPM, Clevis dracut and systemd",
       "https://pulsesecurity.co.nz/advisories/tpm-luks-bypass"
+    ]
+  ],
+  [
+    [
+      "2023-09-01, 15:00:30",
+      "https://news.ycombinator.com/item?id=37351668"
+    ],
+    [
+      "Nostr: A Decentralized Messaging Protocol",
+      "https://hivemind.vc/nostr/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2023-09-01, 13:16:17",
-      "https://news.ycombinator.com/item?id=37350422"
-    ],
-    [
-      "Patterns with Rust Types",
-      "https://www.shuttle.rs/blog/2022/07/28/patterns-with-rust-types"
-    ]
-  ],
-  [
-    [
       "2023-09-01, 13:06:06",
       "https://news.ycombinator.com/item?id=37350310"
     ],
@@ -235,7 +225,7 @@
       "https://news.ycombinator.com/item?id=37349654"
     ],
     [
-      "UpCodes is hiring SWEs, SDRs to make construction more productive",
+      "UpCodes (YC S17) is hiring SWEs, SDRs to make construction more productive",
       "https://up.codes/careers"
     ]
   ],
@@ -275,7 +265,7 @@
       "https://news.ycombinator.com/item?id=37348036"
     ],
     [
-      "Amateur Astronomers Spot New Impact On Jupiter",
+      "Amateur astronomers spot new impact on Jupiter",
       "https://www.space.com/amateur-astronomers-jupiter-cosmic-collision"
     ]
   ],
@@ -295,8 +285,18 @@
       "https://news.ycombinator.com/item?id=37342828"
     ],
     [
-      "Connections Museum: Driving across America for a DMS-10 [video]",
+      "Driving across America again for a DMS-10 [video]",
       "https://www.youtube.com/watch?v=CrviyMrHLYw"
+    ]
+  ],
+  [
+    [
+      "2023-08-31, 11:04:55",
+      "https://news.ycombinator.com/item?id=37335325"
+    ],
+    [
+      "Compile-time and short-circuit evaluation",
+      "https://c3.handmade.network/blog/p/8773-compile-time_and_short-circuit_evaluation"
     ]
   ]
 ]
