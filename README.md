@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-01, 04:53:31](https://news.ycombinator.com/item?id=37346927) - [A Journey Through Spain’s Islamic History](https://www.smithsonianmag.com/travel/fabled-palaces-ancient-medina-journey-through-spain-islamic-history-180982699/)
+* [2023-09-01, 04:47:55](https://news.ycombinator.com/item?id=37346899) - [From Art Nouveau to Bauhaus: How Home Interiors Looked in Popular Art Movements](https://www.archdaily.com/1005570/from-art-nouveau-to-the-bauhaus-how-home-interiors-looked-in-popular-art-movements)
 * [2023-09-01, 04:22:16](https://news.ycombinator.com/item?id=37346770) - [Zeno's Mice and the Logarithmic Spiral](https://mathpages.com/home/kmath492/kmath492.htm)
 * [2023-09-01, 04:21:45](https://news.ycombinator.com/item?id=37346767) - [Google Maps Testing New Apple Maps-Inspired Map Style](https://www.justinobeirne.com/google-maps-testing-new-apple-maps-inspired-map-style)
-* [2023-09-01, 04:21:42](https://news.ycombinator.com/item?id=37346766) - [MathPages: Geometry](https://mathpages.com/home/igeometr.htm)
+* [2023-09-01, 04:21:42](https://news.ycombinator.com/item?id=37346766) - [Geometry](https://mathpages.com/home/igeometr.htm)
 * [2023-09-01, 03:46:05](https://news.ycombinator.com/item?id=37346585) - [The Making of EP Thompson](https://www.newstatesman.com/culture/history/2023/08/making-ep-thompson)
 * [2023-09-01, 03:32:36](https://news.ycombinator.com/item?id=37346509) - [An introduction to the impact of native planting](https://marisamorby.com/native-planting-intro/)
 * [2023-09-01, 02:50:58](https://news.ycombinator.com/item?id=37346218) - [Writing a bare-metal RISC-V application in D](https://zyedidia.github.io/blog/posts/1-d-baremetal/)
@@ -26,10 +28,8 @@
 * [2023-08-31, 16:17:28](https://news.ycombinator.com/item?id=37339619) - [VanMoof acquired by e-mobility company Lavoie](https://www.bicycleretailer.com/industry-news/2023/08/31/vanmoof-acquired-e-mobility-company-lavoie)
 * [2023-08-31, 16:12:45](https://news.ycombinator.com/item?id=37339535) - [RFC 3339 vs. ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)
 * [2023-08-31, 16:04:38](https://news.ycombinator.com/item?id=37339372) - [Doom for 16-bit DOS computers](https://github.com/FrenkelS/Doom8088)
-* [2023-08-31, 15:49:24](https://news.ycombinator.com/item?id=37339098) - [Evennia: MUD/MU* creation system](https://www.evennia.com/)
 * [2023-08-31, 15:29:02](https://news.ycombinator.com/item?id=37338753) - [Tearing down Klamath dams: The largest dam demolition](https://calmatters.org/environment/2023/08/klamath-river-dams-demolition/)
 * [2023-08-31, 10:07:14](https://news.ycombinator.com/item?id=37334819) - [The Last of the Fungus](https://nautil.us/the-last-of-the-fungus-370460/)
-* [2023-08-29, 20:42:04](https://news.ycombinator.com/item?id=37313733) - [The case for Nushell](https://www.jntrnr.com/case-for-nushell/)
 
 ## [Archives](archives/index.md)
 

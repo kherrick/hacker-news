@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 04:53:31](https://news.ycombinator.com/item?id=37346927) - [A Journey Through Spain’s Islamic History](https://www.smithsonianmag.com/travel/fabled-palaces-ancient-medina-journey-through-spain-islamic-history-180982699/)
+* [2023-09-01, 04:47:55](https://news.ycombinator.com/item?id=37346899) - [From Art Nouveau to Bauhaus: How Home Interiors Looked in Popular Art Movements](https://www.archdaily.com/1005570/from-art-nouveau-to-the-bauhaus-how-home-interiors-looked-in-popular-art-movements)
 * [2023-09-01, 04:22:16](https://news.ycombinator.com/item?id=37346770) - [Zeno's Mice and the Logarithmic Spiral](https://mathpages.com/home/kmath492/kmath492.htm)
 * [2023-09-01, 04:21:45](https://news.ycombinator.com/item?id=37346767) - [Google Maps Testing New Apple Maps-Inspired Map Style](https://www.justinobeirne.com/google-maps-testing-new-apple-maps-inspired-map-style)
 * [2023-09-01, 04:21:42](https://news.ycombinator.com/item?id=37346766) - [MathPages: Geometry](https://mathpages.com/home/igeometr.htm)
