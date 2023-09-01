@@ -34,6 +34,7 @@
 * [2023-09-01, 15:04:51](https://news.ycombinator.com/item?id=37351740) - [‘Peanuts,’ Charles Schulz, and the state that started it all](https://www.csmonitor.com/The-Culture/2023/0829/Peanuts-Charles-Schulz-and-the-state-that-started-it-all)
 * [2023-09-01, 15:03:11](https://news.ycombinator.com/item?id=37351716) - [Can Programming Languages Boost Each Other via Instruction Tuning? Yes](https://arxiv.org/abs/2308.16824)
 * [2023-09-01, 15:01:30](https://news.ycombinator.com/item?id=37351685) - [Mashing Enter to bypass full disk encryption with TPM, Clevis dracut and systemd](https://pulsesecurity.co.nz/advisories/tpm-luks-bypass)
+* [2023-09-01, 15:00:55](https://news.ycombinator.com/item?id=37351676) - [Getting Started with Edge Computing](https://github.blog/2023-09-01-getting-started-with-edge-computing/)
 * [2023-09-01, 15:00:30](https://news.ycombinator.com/item?id=37351668) - [Nostr: A Decentralized Messaging Protocol](https://hivemind.vc/nostr/)
 * [2023-09-01, 15:00:25](https://news.ycombinator.com/item?id=37351667) - [Ask HN: Who is hiring? (September 2023)](https://news.ycombinator.com/item?id=37351667)
 * [2023-09-01, 15:00:24](https://news.ycombinator.com/item?id=37351666) - [Ask HN: Freelancer? Seeking freelancer? (September 2023)](https://news.ycombinator.com/item?id=37351666)
