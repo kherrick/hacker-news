@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 13:25:51](https://news.ycombinator.com/item?id=37350520) - [Killed by Google](https://killedbygoogle.com)
 * [2023-09-01, 12:45:17](https://news.ycombinator.com/item?id=37350123) - [AI Model Weight Providers Should Not Police Uses, No Matter How Awful They Are](http://marble.onl/posts/model_censorship.html)
 * [2023-09-01, 12:23:43](https://news.ycombinator.com/item?id=37349870) - [Vitamins, Supplements with Antioxidants Fuel Cancer](https://studyfinds.org/dietary-supplements-help-tumors/)
 * [2023-09-01, 12:09:30](https://news.ycombinator.com/item?id=37349732) - [FYI: The problem of creeping commercial surveillance](https://elnion.com/2022/02/07/the-problem-of-creeping-commercial-surveillance/)
