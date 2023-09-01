@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-01, 19:55:19",
+      "https://news.ycombinator.com/item?id=37355487"
+    ],
+    [
+      "Wikipedia search-by-vibes through millions of pages offline",
+      "https://www.leebutterman.com/2023/06/01/offline-realtime-embedding-search.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-01, 19:44:10",
+      "https://news.ycombinator.com/item?id=37355360"
+    ],
+    [
+      "Space travel via tether between asteroids",
+      "https://blog.cerowrt.org/post/toutatis/"
+    ]
+  ],
+  [
+    [
       "2023-09-01, 19:20:10",
       "https://news.ycombinator.com/item?id=37355084"
     ],
@@ -17,6 +37,16 @@
     [
       "Higher Intakes of Potassium and Magnesium, but Not Lower Sodium, Reduce CVD Risk",
       "https://pubmed.ncbi.nlm.nih.gov/33477824/"
+    ]
+  ],
+  [
+    [
+      "2023-09-01, 19:19:55",
+      "https://news.ycombinator.com/item?id=37355081"
+    ],
+    [
+      "Hot Chips 2023: Ventana’s Unconventional Veyron V1",
+      "https://chipsandcheese.com/2023/09/01/hot-chips-2023-ventanas-unconventional-veyron-v1/"
     ]
   ],
   [
@@ -91,12 +121,12 @@
   ],
   [
     [
-      "2023-09-01, 15:45:30",
-      "https://news.ycombinator.com/item?id=37352282"
+      "2023-09-01, 16:29:57",
+      "https://news.ycombinator.com/item?id=37352955"
     ],
     [
-      "Why Is .US Being Used to Phish So Many of Us?",
-      "https://krebsonsecurity.com/2023/09/why-is-us-being-used-to-phish-so-many-of-us/"
+      "Optimizing Postgres's autovacuum for high-churn tables",
+      "https://tembo.io/blog/optimizing-postgres-auto-vacuum/"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2023-09-01, 14:57:32",
-      "https://news.ycombinator.com/item?id=37351628"
-    ],
-    [
-      "ARM wrestles assembly language guru's domains away, citing trademark issues",
-      "https://www.theregister.com/2023/08/31/a_star_star_domains/"
-    ]
-  ],
-  [
-    [
       "2023-09-01, 14:17:59",
       "https://news.ycombinator.com/item?id=37351157"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2023-09-01, 12:09:20",
-      "https://news.ycombinator.com/item?id=37349730"
-    ],
-    [
-      "Show HN: Merge – Connect Google Wear OS to Apple iOS",
-      "https://www.merge.watch"
-    ]
-  ],
-  [
-    [
       "2023-09-01, 12:00:33",
       "https://news.ycombinator.com/item?id=37349654"
     ],
@@ -261,6 +271,16 @@
   ],
   [
     [
+      "2023-09-01, 08:11:09",
+      "https://news.ycombinator.com/item?id=37348052"
+    ],
+    [
+      "The Practical Effects Wizardry of Dungeons and Dragons: Honor Among Thieves",
+      "https://www.stanwinstonschool.com/blog/practical-effects-wizardry-of-dungeons-and-dragons-honor-among-thieves-legacy-effects-behind-the-scenes"
+    ]
+  ],
+  [
+    [
       "2023-09-01, 08:07:14",
       "https://news.ycombinator.com/item?id=37348036"
     ],
@@ -277,26 +297,6 @@
     [
       "Organic Maps",
       "https://organicmaps.app/"
-    ]
-  ],
-  [
-    [
-      "2023-08-31, 19:54:29",
-      "https://news.ycombinator.com/item?id=37342828"
-    ],
-    [
-      "Connections Museum: Driving across America for a DMS-10 [video]",
-      "https://www.youtube.com/watch?v=CrviyMrHLYw"
-    ]
-  ],
-  [
-    [
-      "2023-08-31, 11:04:55",
-      "https://news.ycombinator.com/item?id=37335325"
-    ],
-    [
-      "Compile-time and short-circuit evaluation",
-      "https://c3.handmade.network/blog/p/8773-compile-time_and_short-circuit_evaluation"
     ]
   ]
 ]
