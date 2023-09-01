@@ -56,6 +56,7 @@
 * [2023-09-01, 08:38:50](https://news.ycombinator.com/item?id=37348240) - [Benjamin S. Bloom: Learning For Mastery (1968) [pdf]](http://www.researchforteachers.org.uk/sites/default/files/Docs/Bloom%20(1968)%20Learning%20for%20Mastery_0.pdf)
 * [2023-09-01, 08:27:21](https://news.ycombinator.com/item?id=37348162) - [Show HN: ChangeDetection, monitor any website change](https://github.com/dgtlmoon/changedetection.io)
 * [2023-09-01, 08:07:14](https://news.ycombinator.com/item?id=37348036) - [Amateur Astronomers Spot New Impact On Jupiter](https://www.space.com/amateur-astronomers-jupiter-cosmic-collision)
+* [2023-09-01, 06:58:49](https://news.ycombinator.com/item?id=37347657) - [Ask HN: What is your policy regarding smartphones for your children?](https://news.ycombinator.com/item?id=37347657)
 * [2023-09-01, 06:38:33](https://news.ycombinator.com/item?id=37347564) - [Total Commander](https://www.ghisler.com/)
 * [2023-09-01, 06:31:39](https://news.ycombinator.com/item?id=37347528) - [Ask Microsoft: Are you using our personal data to train AI?](https://foundation.mozilla.org/en/campaigns/microsoft-ai/)
 * [2023-09-01, 06:16:55](https://news.ycombinator.com/item?id=37347447) - [Organic Maps](https://organicmaps.app/)
