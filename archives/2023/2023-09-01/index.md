@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 04:22:16](https://news.ycombinator.com/item?id=37346770) - [Zeno's Mice and the Logarithmic Spiral](https://mathpages.com/home/kmath492/kmath492.htm)
 * [2023-09-01, 04:21:45](https://news.ycombinator.com/item?id=37346767) - [Google Maps Testing New Apple Maps-Inspired Map Style](https://www.justinobeirne.com/google-maps-testing-new-apple-maps-inspired-map-style)
 * [2023-09-01, 04:21:42](https://news.ycombinator.com/item?id=37346766) - [MathPages: Geometry](https://mathpages.com/home/igeometr.htm)
 * [2023-09-01, 04:11:57](https://news.ycombinator.com/item?id=37346710) - [The Scourge of Airport Noise](https://askthepilot.com/airport-noise-scourge/)
