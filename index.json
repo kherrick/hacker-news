@@ -1,32 +1,22 @@
 [
   [
     [
-      "2023-09-01, 00:09:55",
-      "https://news.ycombinator.com/item?id=37345195"
-    ],
-    [
-      "NYPD will use drones to monitor backyard parties this weekend",
-      "https://apnews.com/article/drones-labor-day-eric-adams-nypd-jouvert-c2787e87bcad8fa87aa8d34b454ee6cf"
-    ]
-  ],
-  [
-    [
-      "2023-09-01, 00:02:35",
-      "https://news.ycombinator.com/item?id=37345132"
-    ],
-    [
-      "Court Rules in Pornhub’s Favor: Age-Verification Law Violates First Amendment",
-      "https://variety.com/2023/digital/news/pornhubs-texas-age-verification-law-violates-first-amendment-ruling-1235709902/"
-    ]
-  ],
-  [
-    [
       "2023-08-31, 23:43:18",
       "https://news.ycombinator.com/item?id=37344993"
     ],
     [
-      "U.S. Copyright Office RFC: Artificial Intelligence and Copyright",
+      "Artificial Intelligence and Copyright: Request for comments",
       "https://www.federalregister.gov/documents/2023/08/30/2023-18624/artificial-intelligence-and-copyright"
+    ]
+  ],
+  [
+    [
+      "2023-08-31, 23:34:04",
+      "https://news.ycombinator.com/item?id=37344940"
+    ],
+    [
+      "Kagi now accepts PayPal, EUR and Bitcoin payments",
+      "https://blog.kagi.com/accepting-paypal-bitcoin"
     ]
   ],
   [
@@ -61,16 +51,6 @@
   ],
   [
     [
-      "2023-08-31, 21:18:16",
-      "https://news.ycombinator.com/item?id=37343814"
-    ],
-    [
-      "Unlocking view transitions in SvelteKit 1.24",
-      "https://svelte.dev/blog/view-transitions"
-    ]
-  ],
-  [
-    [
       "2023-08-31, 21:08:54",
       "https://news.ycombinator.com/item?id=37343711"
     ],
@@ -97,6 +77,16 @@
     [
       "Keep your files inside your VM",
       "https://msimkunas.lt/2023/08/28/vm-file-sharing.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-31, 20:00:47",
+      "https://news.ycombinator.com/item?id=37342925"
+    ],
+    [
+      "Why did old phone numbers start with letters? (2015)",
+      "https://www.mentalfloss.com/article/61116/why-did-old-phone-numbers-start-letters"
     ]
   ],
   [
@@ -151,32 +141,12 @@
   ],
   [
     [
-      "2023-08-31, 18:35:46",
-      "https://news.ycombinator.com/item?id=37341807"
-    ],
-    [
-      "Methodus Toolz",
-      "https://www.methodus2000.com/methodus3/"
-    ]
-  ],
-  [
-    [
       "2023-08-31, 18:35:10",
       "https://news.ycombinator.com/item?id=37341799"
     ],
     [
       "CT scans of coffee-making equipment",
       "https://www.scanofthemonth.com/scans/coffee"
-    ]
-  ],
-  [
-    [
-      "2023-08-31, 18:33:48",
-      "https://news.ycombinator.com/item?id=37341783"
-    ],
-    [
-      "The boy who stole Half-Life 2 (2011)",
-      "https://www.eurogamer.net/the-boy-who-stole-half-life-2-article"
     ]
   ],
   [
@@ -217,6 +187,16 @@
     [
       "Mathematical proof is a social compact",
       "https://www.quantamagazine.org/why-mathematical-proof-is-a-social-compact-20230831/"
+    ]
+  ],
+  [
+    [
+      "2023-08-31, 16:17:28",
+      "https://news.ycombinator.com/item?id=37339619"
+    ],
+    [
+      "VanMoof acquired by e-mobility company Lavoie",
+      "https://www.bicycleretailer.com/industry-news/2023/08/31/vanmoof-acquired-e-mobility-company-lavoie"
     ]
   ],
   [
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2023-08-31, 12:11:47",
+      "https://news.ycombinator.com/item?id=37335945"
+    ],
+    [
+      "Docker Is Four Things",
+      "https://matthiasportzel.com/docker/"
+    ]
+  ],
+  [
+    [
       "2023-08-31, 12:00:49",
       "https://news.ycombinator.com/item?id=37335828"
     ],
@@ -297,6 +287,16 @@
     [
       "The Decline and Rise of IBM (1996)",
       "https://sloanreview.mit.edu/article/the-decline-and-rise-of-ibm/?switch_view=PDF"
+    ]
+  ],
+  [
+    [
+      "2023-08-29, 20:42:04",
+      "https://news.ycombinator.com/item?id=37313733"
+    ],
+    [
+      "The case for Nushell",
+      "https://www.jntrnr.com/case-for-nushell/"
     ]
   ]
 ]
