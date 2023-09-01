@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-09-01, 12:23:43",
+      "https://news.ycombinator.com/item?id=37349870"
+    ],
+    [
+      "Vitamins, Supplements with Antioxidants Fuel Cancer",
+      "https://studyfinds.org/dietary-supplements-help-tumors/"
+    ]
+  ],
+  [
+    [
+      "2023-09-01, 12:09:30",
+      "https://news.ycombinator.com/item?id=37349732"
+    ],
+    [
+      "FYI: The problem of creeping commercial surveillance",
+      "https://elnion.com/2022/02/07/the-problem-of-creeping-commercial-surveillance/"
+    ]
+  ],
+  [
+    [
+      "2023-09-01, 12:09:20",
+      "https://news.ycombinator.com/item?id=37349730"
+    ],
+    [
+      "Show HN: Merge – Connect Google Wear OS to Apple iOS",
+      "https://www.merge.watch"
+    ]
+  ],
+  [
+    [
       "2023-09-01, 12:00:33",
       "https://news.ycombinator.com/item?id=37349654"
     ],
@@ -27,6 +57,16 @@
     [
       "Are self-driving cars already safer than human drivers?",
       "https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/"
+    ]
+  ],
+  [
+    [
+      "2023-09-01, 11:40:34",
+      "https://news.ycombinator.com/item?id=37349487"
+    ],
+    [
+      "Gothub: Alternative front-end for GitHub written with Go",
+      "https://codeberg.org/gothub/gothub"
     ]
   ],
   [
@@ -171,26 +211,6 @@
   ],
   [
     [
-      "2023-08-31, 21:39:44",
-      "https://news.ycombinator.com/item?id=37344026"
-    ],
-    [
-      "Types versus sets (and what about categories?) (2022)",
-      "https://lawrencecpaulson.github.io/2022/03/16/Types_vs_Sets.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-31, 20:47:53",
-      "https://news.ycombinator.com/item?id=37343475"
-    ],
-    [
-      "Elixir/Erlang Secure Coding and Deployment Hardening Guidelines",
-      "https://erlef.github.io/security-wg/secure_coding_and_deployment_hardening/"
-    ]
-  ],
-  [
-    [
       "2023-08-31, 20:00:02",
       "https://news.ycombinator.com/item?id=37342914"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2023-08-31, 19:34:13",
-      "https://news.ycombinator.com/item?id=37342548"
-    ],
-    [
-      "The low, low cost of committing cybercrime",
-      "https://isc.sans.edu/diary/The+low+low+cost+of+committing+cybercrime/30176"
-    ]
-  ],
-  [
-    [
       "2023-08-31, 18:35:10",
       "https://news.ycombinator.com/item?id=37341799"
     ],
     [
       "CT scans of coffee-making equipment",
       "https://www.scanofthemonth.com/scans/coffee"
-    ]
-  ],
-  [
-    [
-      "2023-08-31, 18:26:34",
-      "https://news.ycombinator.com/item?id=37341670"
-    ],
-    [
-      "Fine-tuning GPT-3.5-turbo for natural language to SQL",
-      "https://medium.com/dataherald/fine-tuning-gpt-3-5-turbo-for-natural-language-to-sql-4445c1d37f7c"
     ]
   ],
   [
