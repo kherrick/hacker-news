@@ -20,6 +20,7 @@
 * [2023-09-01, 15:00:30](https://news.ycombinator.com/item?id=37351668) - [Nostr: A Decentralized Messaging Protocol](https://hivemind.vc/nostr/)
 * [2023-09-01, 15:00:25](https://news.ycombinator.com/item?id=37351667) - [Ask HN: Who is hiring? (September 2023)](https://news.ycombinator.com/item?id=37351667)
 * [2023-09-01, 15:00:24](https://news.ycombinator.com/item?id=37351666) - [Ask HN: Freelancer? Seeking freelancer? (September 2023)](https://news.ycombinator.com/item?id=37351666)
+* [2023-09-01, 15:00:24](https://news.ycombinator.com/item?id=37351665) - [Ask HN: Who wants to be hired? (September 2023)](https://news.ycombinator.com/item?id=37351665)
 * [2023-09-01, 14:59:45](https://news.ycombinator.com/item?id=37351656) - [The algorithm that blew up Italy’s school system](https://algorithmwatch.org/en/algorithm-school-system-italy/)
 * [2023-09-01, 14:57:32](https://news.ycombinator.com/item?id=37351628) - [ARM wrestles assembly language guru's domains away, citing trademark issues](https://www.theregister.com/2023/08/31/a_star_star_domains/)
 * [2023-09-01, 14:55:16](https://news.ycombinator.com/item?id=37351595) - [AntiX 23: Anarchic for sure, but design by committee isn't always best for Linux](https://www.theregister.com/2023/09/01/antix_23/)
