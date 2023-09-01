@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 15:51:20](https://news.ycombinator.com/item?id=37352356) - [X updates Terms to allow it to use data for AI training](https://stackdiary.com/x-can-now-use-posts-for-ai-training-as-per-terms-of-service/)
+* [2023-09-01, 15:45:30](https://news.ycombinator.com/item?id=37352282) - [Why Is .US Being Used to Phish So Many of Us?](https://krebsonsecurity.com/2023/09/why-is-us-being-used-to-phish-so-many-of-us/)
 * [2023-09-01, 15:34:50](https://news.ycombinator.com/item?id=37352148) - [U.S. Department of Defense Launches All-Domain Anomaly Resolution Office Website](https://www.defense.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/)
 * [2023-09-01, 15:08:23](https://news.ycombinator.com/item?id=37351802) - [How the FBI took down the Qakbot botnet](https://techcrunch.com/2023/09/01/fbi-qakbot-takedown-operation-duck-hunt/)
 * [2023-09-01, 15:03:11](https://news.ycombinator.com/item?id=37351716) - [Can Programming Languages Boost Each Other via Instruction Tuning? Yes](https://arxiv.org/abs/2308.16824)
@@ -19,6 +21,7 @@
 * [2023-09-01, 13:59:20](https://news.ycombinator.com/item?id=37350943) - [Germany’s radioactive boars are a bristly reminder of nuclear fallout](https://www.science.org/content/article/germany-s-radioactive-boars-are-bristly-reminder-nuclear-fallout)
 * [2023-09-01, 13:58:08](https://news.ycombinator.com/item?id=37350920) - [Subscriptions and external links help drive users to extremist YouTube channels](https://www.science.org/doi/10.1126/sciadv.add8080)
 * [2023-09-01, 13:45:18](https://news.ycombinator.com/item?id=37350762) - [Our Human Ancestors Nearly Went Extinct 900k Years Ago, Genetics Suggest](https://www.smithsonianmag.com/science-nature/genetics-suggest-our-human-ancestors-very-nearly-went-extinct-900000-years-ago-180982830/)
+* [2023-09-01, 13:36:05](https://news.ycombinator.com/item?id=37350648) - [Thousands of octopuses gather off California to brood eggs at a warm spot](https://www.npr.org/2023/08/23/1195028955/heres-why-6-000-octopuses-like-to-be-under-the-sea-at-an-octopus-garden)
 * [2023-09-01, 13:34:49](https://news.ycombinator.com/item?id=37350634) - [Factorio Friday Facts #374 – Smarter robots](https://factorio.com/blog/post/fff-374)
 * [2023-09-01, 13:25:51](https://news.ycombinator.com/item?id=37350520) - [Killed by Google](https://killedbygoogle.com)
 * [2023-09-01, 13:21:33](https://news.ycombinator.com/item?id=37350465) - [Asus details its cable-free GC-HPWR connector for 600W gaming GPUs](https://videocardz.com/newz/asus-details-its-cable-free-gc-hpwr-connector-for-600w-gaming-gpus)
