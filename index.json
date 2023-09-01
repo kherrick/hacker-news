@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-09-01, 12:00:33",
+      "https://news.ycombinator.com/item?id=37349654"
+    ],
+    [
+      "UpCodes is hiring SWEs, SDRs to make construction more productive",
+      "https://up.codes/careers"
+    ]
+  ],
+  [
+    [
+      "2023-09-01, 11:57:06",
+      "https://news.ycombinator.com/item?id=37349633"
+    ],
+    [
+      "Farewell EC2-Classic, it’s been swell",
+      "https://www.allthingsdistributed.com/2023/09/farewell-ec2-classic.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-01, 11:45:27",
+      "https://news.ycombinator.com/item?id=37349533"
+    ],
+    [
+      "Are self-driving cars already safer than human drivers?",
+      "https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/"
+    ]
+  ],
+  [
+    [
+      "2023-09-01, 11:12:00",
+      "https://news.ycombinator.com/item?id=37349270"
+    ],
+    [
+      "The technical merits of Wayland are mostly irrelevant",
+      "https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandTechnicalMeritsIrrelevant"
+    ]
+  ],
+  [
+    [
       "2023-09-01, 08:38:50",
       "https://news.ycombinator.com/item?id=37348240"
     ],
@@ -141,32 +181,12 @@
   ],
   [
     [
-      "2023-08-31, 21:00:19",
-      "https://news.ycombinator.com/item?id=37343611"
-    ],
-    [
-      "Etleap (YC W13) is hiring a software engineer in London or San Francisco",
-      "https://etleap.com/careers/software-engineer/"
-    ]
-  ],
-  [
-    [
       "2023-08-31, 20:47:53",
       "https://news.ycombinator.com/item?id=37343475"
     ],
     [
       "Elixir/Erlang Secure Coding and Deployment Hardening Guidelines",
       "https://erlef.github.io/security-wg/secure_coding_and_deployment_hardening/"
-    ]
-  ],
-  [
-    [
-      "2023-08-31, 20:00:47",
-      "https://news.ycombinator.com/item?id=37342925"
-    ],
-    [
-      "Why did old phone numbers start with letters? (2015)",
-      "https://www.mentalfloss.com/article/61116/why-did-old-phone-numbers-start-letters"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-08-31, 18:54:13",
-      "https://news.ycombinator.com/item?id=37342046"
-    ],
-    [
-      "AWS Icon Quiz",
-      "https://awsiconquiz.com/"
-    ]
-  ],
-  [
-    [
       "2023-08-31, 18:35:10",
       "https://news.ycombinator.com/item?id=37341799"
     ],
@@ -217,16 +227,6 @@
     [
       "Fine-tuning GPT-3.5-turbo for natural language to SQL",
       "https://medium.com/dataherald/fine-tuning-gpt-3-5-turbo-for-natural-language-to-sql-4445c1d37f7c"
-    ]
-  ],
-  [
-    [
-      "2023-08-31, 17:00:22",
-      "https://news.ycombinator.com/item?id=37340314"
-    ],
-    [
-      "Teaching with AI",
-      "https://openai.com/blog/teaching-with-ai"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2023-08-31, 14:15:39",
-      "https://news.ycombinator.com/item?id=37337482"
-    ],
-    [
-      "Ghostfolio: Open-source wealth management software",
-      "https://ghostfol.io"
-    ]
-  ],
-  [
-    [
       "2023-08-31, 10:07:14",
       "https://news.ycombinator.com/item?id=37334819"
     ],
     [
       "The Last of the Fungus",
       "https://nautil.us/the-last-of-the-fungus-370460/"
+    ]
+  ],
+  [
+    [
+      "2023-08-31, 09:32:05",
+      "https://news.ycombinator.com/item?id=37334589"
+    ],
+    [
+      "Sword swallowing and its side effects (2006) [pdf]",
+      "https://www.bmj.com/content/bmj/333/7582/1285.full.pdf"
     ]
   ],
   [
