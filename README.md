@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-01, 21:46:05](https://news.ycombinator.com/item?id=37356497) - [Wavacity – a FOSS port of Audacity to the web](https://wavacity.com/)
 * [2023-09-01, 21:00:17](https://news.ycombinator.com/item?id=37356124) - [Bright (YC W15) Is Hiring](https://www.careersatbright.com/jobs-2/bright-frontend-engineer)
 * [2023-09-01, 19:55:19](https://news.ycombinator.com/item?id=37355487) - [Wikipedia search-by-vibes through millions of pages offline](https://www.leebutterman.com/2023/06/01/offline-realtime-embedding-search.html)
 * [2023-09-01, 19:44:10](https://news.ycombinator.com/item?id=37355360) - [Space travel via tether between asteroids](https://blog.cerowrt.org/post/toutatis/)
@@ -20,7 +21,6 @@
 * [2023-09-01, 14:17:59](https://news.ycombinator.com/item?id=37351157) - [A deep dive into Single Pair Ethernet](https://electricui.com/blog/spe-sensor-node)
 * [2023-09-01, 13:36:05](https://news.ycombinator.com/item?id=37350648) - [Thousands of octopuses gather off California to brood eggs at a warm spot](https://www.npr.org/2023/08/23/1195028955/heres-why-6-000-octopuses-like-to-be-under-the-sea-at-an-octopus-garden)
 * [2023-09-01, 13:34:49](https://news.ycombinator.com/item?id=37350634) - [Some flying robot behavior improvements](https://factorio.com/blog/post/fff-374)
-* [2023-09-01, 13:06:06](https://news.ycombinator.com/item?id=37350310) - [The Janus System: Multi-Paradigm Programming in Prolog and Python](https://arxiv.org/abs/2308.15893)
 * [2023-09-01, 11:57:06](https://news.ycombinator.com/item?id=37349633) - [Farewell EC2-Classic, it’s been swell](https://www.allthingsdistributed.com/2023/09/farewell-ec2-classic.html)
 * [2023-09-01, 10:07:42](https://news.ycombinator.com/item?id=37348808) - [Lidl Product Recall [pdf]](https://www.lidl.co.uk/static/assets/Paw_Patrol_Public_Recall_poster-500790.pdf)
 * [2023-09-01, 09:24:11](https://news.ycombinator.com/item?id=37348539) - [Sparse Sets (2021)](https://manenko.com/2021/05/23/sparse-sets.html)
