@@ -8,6 +8,7 @@
 * [2023-09-01, 03:46:05](https://news.ycombinator.com/item?id=37346585) - [The Making of EP Thompson](https://www.newstatesman.com/culture/history/2023/08/making-ep-thompson)
 * [2023-09-01, 03:32:36](https://news.ycombinator.com/item?id=37346509) - [An introduction to the impact of native planting](https://marisamorby.com/native-planting-intro/)
 * [2023-09-01, 03:30:48](https://news.ycombinator.com/item?id=37346497) - [Ask HN: How would you raise $600k for a boring software co?](https://news.ycombinator.com/item?id=37346497)
+* [2023-09-01, 02:50:58](https://news.ycombinator.com/item?id=37346218) - [Writing a bare-metal RISC-V application in D](https://zyedidia.github.io/blog/posts/1-d-baremetal/)
 * [2023-09-01, 02:34:33](https://news.ycombinator.com/item?id=37346115) - [Animated Knots](https://www.animatedknots.com/)
 * [2023-09-01, 02:30:45](https://news.ycombinator.com/item?id=37346094) - [Apartment evicts tenant, throws belongings in dumpster. But it was the wrong apt](https://www.fox4news.com/news/dallas-apartment-evicts-tenant-throws-belongings-in-dumpster-but-it-was-the-wrong-unit)
 * [2023-09-01, 02:17:57](https://news.ycombinator.com/item?id=37346024) - [California Forever](https://californiaforever.com/)
