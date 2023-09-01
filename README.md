@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-01, 15:08:23](https://news.ycombinator.com/item?id=37351802) - [How the FBI took down the Qakbot botnet](https://techcrunch.com/2023/09/01/fbi-qakbot-takedown-operation-duck-hunt/)
 * [2023-09-01, 15:03:11](https://news.ycombinator.com/item?id=37351716) - [Can Programming Languages Boost Each Other via Instruction Tuning? Yes](https://arxiv.org/abs/2308.16824)
 * [2023-09-01, 15:01:30](https://news.ycombinator.com/item?id=37351685) - [Mashing Enter to bypass full disk encryption with TPM, Clevis dracut and systemd](https://pulsesecurity.co.nz/advisories/tpm-luks-bypass)
 * [2023-09-01, 15:00:30](https://news.ycombinator.com/item?id=37351668) - [Nostr: A Decentralized Messaging Protocol](https://hivemind.vc/nostr/)
+* [2023-09-01, 15:00:24](https://news.ycombinator.com/item?id=37351666) - [Ask HN: Freelancer? Seeking freelancer? (September 2023)](https://news.ycombinator.com/item?id=37351666)
 * [2023-09-01, 14:59:45](https://news.ycombinator.com/item?id=37351656) - [The algorithm that blew up Italy’s school system](https://algorithmwatch.org/en/algorithm-school-system-italy/)
 * [2023-09-01, 14:57:32](https://news.ycombinator.com/item?id=37351628) - [ARM wrestles assembly language guru's domains away, citing trademark issues](https://www.theregister.com/2023/08/31/a_star_star_domains/)
-* [2023-09-01, 14:55:16](https://news.ycombinator.com/item?id=37351595) - [AntiX 23: Anarchic for sure, but design by committee isn't always best for Linux](https://www.theregister.com/2023/09/01/antix_23/)
 * [2023-09-01, 14:17:59](https://news.ycombinator.com/item?id=37351157) - [A deep dive into Single Pair Ethernet](https://electricui.com/blog/spe-sensor-node)
 * [2023-09-01, 13:34:49](https://news.ycombinator.com/item?id=37350634) - [Smarter robots](https://factorio.com/blog/post/fff-374)
 * [2023-09-01, 13:21:33](https://news.ycombinator.com/item?id=37350465) - [Asus details its cable-free GC-HPWR connector for 600W gaming GPUs](https://videocardz.com/newz/asus-details-its-cable-free-gc-hpwr-connector-for-600w-gaming-gpus)
@@ -27,7 +28,6 @@
 * [2023-09-01, 01:29:15](https://news.ycombinator.com/item?id=37345727) - [Things I wish I knew before moving 50K lines of code to React Server Components](https://www.mux.com/blog/what-are-react-server-components)
 * [2023-08-31, 19:54:29](https://news.ycombinator.com/item?id=37342828) - [Connections Museum: Driving across America for a DMS-10 [video]](https://www.youtube.com/watch?v=CrviyMrHLYw)
 * [2023-08-31, 09:28:13](https://news.ycombinator.com/item?id=37334563) - [Cool Science Tricks (2005)](https://daveroot.neocities.org/sciencetricks/)
-* [2023-08-31, 08:31:41](https://news.ycombinator.com/item?id=37334126) - [Bike Lane Sweepers (2021)](https://www.worldsweeper.com/SweepingCoProfiles/BikeLaneSweeper/)
 * [2023-08-31, 04:09:49](https://news.ycombinator.com/item?id=37332354) - [Logical memory (2021)](https://www.ibm.com/docs/en/power8?topic=memory-logical)
 * [2023-08-30, 12:07:19](https://news.ycombinator.com/item?id=37320780) - [Electroculture Gardening](https://www.washingtonpost.com/home/2023/08/30/gardening-electroculture-explained/)
 

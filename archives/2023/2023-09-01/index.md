@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 15:08:23](https://news.ycombinator.com/item?id=37351802) - [How the FBI took down the Qakbot botnet](https://techcrunch.com/2023/09/01/fbi-qakbot-takedown-operation-duck-hunt/)
 * [2023-09-01, 15:03:11](https://news.ycombinator.com/item?id=37351716) - [Can Programming Languages Boost Each Other via Instruction Tuning? Yes](https://arxiv.org/abs/2308.16824)
 * [2023-09-01, 15:01:30](https://news.ycombinator.com/item?id=37351685) - [Mashing Enter to bypass full disk encryption with TPM, Clevis dracut and systemd](https://pulsesecurity.co.nz/advisories/tpm-luks-bypass)
 * [2023-09-01, 15:00:30](https://news.ycombinator.com/item?id=37351668) - [Nostr: A Decentralized Messaging Protocol](https://hivemind.vc/nostr/)
+* [2023-09-01, 15:00:24](https://news.ycombinator.com/item?id=37351666) - [Ask HN: Freelancer? Seeking freelancer? (September 2023)](https://news.ycombinator.com/item?id=37351666)
 * [2023-09-01, 14:59:45](https://news.ycombinator.com/item?id=37351656) - [The algorithm that blew up Italy’s school system](https://algorithmwatch.org/en/algorithm-school-system-italy/)
 * [2023-09-01, 14:57:32](https://news.ycombinator.com/item?id=37351628) - [ARM wrestles assembly language guru's domains away, citing trademark issues](https://www.theregister.com/2023/08/31/a_star_star_domains/)
 * [2023-09-01, 14:55:16](https://news.ycombinator.com/item?id=37351595) - [AntiX 23: Anarchic for sure, but design by committee isn't always best for Linux](https://www.theregister.com/2023/09/01/antix_23/)
