@@ -4,7 +4,7 @@
 * [2023-09-01, 06:31:39](https://news.ycombinator.com/item?id=37347528) - [Ask Microsoft: Are you using our personal data to train AI?](https://foundation.mozilla.org/en/campaigns/microsoft-ai/)
 * [2023-09-01, 06:16:55](https://news.ycombinator.com/item?id=37347447) - [Organic Maps](https://organicmaps.app/)
 * [2023-09-01, 04:47:55](https://news.ycombinator.com/item?id=37346899) - [From Art Nouveau to Bauhaus: How Home Interiors Looked in Popular Art Movements](https://www.archdaily.com/1005570/from-art-nouveau-to-the-bauhaus-how-home-interiors-looked-in-popular-art-movements)
-* [2023-09-01, 04:21:42](https://news.ycombinator.com/item?id=37346766) - [Geometry](https://mathpages.com/home/igeometr.htm)
+* [2023-09-01, 04:22:16](https://news.ycombinator.com/item?id=37346770) - [Zeno's Mice and the Logarithmic Spiral](https://mathpages.com/home/kmath492/kmath492.htm)
 * [2023-09-01, 03:46:05](https://news.ycombinator.com/item?id=37346585) - [The Making of EP Thompson](https://www.newstatesman.com/culture/history/2023/08/making-ep-thompson)
 * [2023-09-01, 03:32:36](https://news.ycombinator.com/item?id=37346509) - [An introduction to the impact of native planting](https://marisamorby.com/native-planting-intro/)
 * [2023-09-01, 02:50:58](https://news.ycombinator.com/item?id=37346218) - [Writing a bare-metal RISC-V application in D](https://zyedidia.github.io/blog/posts/1-d-baremetal/)
@@ -23,13 +23,13 @@
 * [2023-08-31, 19:34:13](https://news.ycombinator.com/item?id=37342548) - [The low, low cost of committing cybercrime](https://isc.sans.edu/diary/The+low+low+cost+of+committing+cybercrime/30176)
 * [2023-08-31, 18:35:10](https://news.ycombinator.com/item?id=37341799) - [CT scans of coffee-making equipment](https://www.scanofthemonth.com/scans/coffee)
 * [2023-08-31, 18:26:34](https://news.ycombinator.com/item?id=37341670) - [Fine-tuning GPT-3.5-turbo for natural language to SQL](https://medium.com/dataherald/fine-tuning-gpt-3-5-turbo-for-natural-language-to-sql-4445c1d37f7c)
-* [2023-08-31, 17:14:51](https://news.ycombinator.com/item?id=37340547) - [Rare oxygen isotope detected](https://www.nature.com/articles/d41586-023-02713-3)
 * [2023-08-31, 17:00:22](https://news.ycombinator.com/item?id=37340314) - [Teaching with AI](https://openai.com/blog/teaching-with-ai)
 * [2023-08-31, 16:58:58](https://news.ycombinator.com/item?id=37340290) - [Mathematical proof is a social compact](https://www.quantamagazine.org/why-mathematical-proof-is-a-social-compact-20230831/)
 * [2023-08-31, 16:17:28](https://news.ycombinator.com/item?id=37339619) - [VanMoof acquired by e-mobility company Lavoie](https://www.bicycleretailer.com/industry-news/2023/08/31/vanmoof-acquired-e-mobility-company-lavoie)
 * [2023-08-31, 16:12:45](https://news.ycombinator.com/item?id=37339535) - [RFC 3339 vs. ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)
 * [2023-08-31, 15:29:02](https://news.ycombinator.com/item?id=37338753) - [Tearing down Klamath dams: The largest dam demolition](https://calmatters.org/environment/2023/08/klamath-river-dams-demolition/)
 * [2023-08-31, 10:07:14](https://news.ycombinator.com/item?id=37334819) - [The Last of the Fungus](https://nautil.us/the-last-of-the-fungus-370460/)
+* [2023-08-31, 04:05:36](https://news.ycombinator.com/item?id=37332328) - [Zeitgeist 2001](https://archive.google/press/timeline.html)
 
 ## [Archives](archives/index.md)
 
