@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 13:59:20](https://news.ycombinator.com/item?id=37350943) - [Germany’s radioactive boars are a bristly reminder of nuclear fallout](https://www.science.org/content/article/germany-s-radioactive-boars-are-bristly-reminder-nuclear-fallout)
 * [2023-09-01, 13:34:49](https://news.ycombinator.com/item?id=37350634) - [Factorio Friday Facts #374 – Smarter robots](https://factorio.com/blog/post/fff-374)
 * [2023-09-01, 13:25:51](https://news.ycombinator.com/item?id=37350520) - [Killed by Google](https://killedbygoogle.com)
+* [2023-09-01, 13:21:33](https://news.ycombinator.com/item?id=37350465) - [Asus details its cable-free GC-HPWR connector for 600W gaming GPUs](https://videocardz.com/newz/asus-details-its-cable-free-gc-hpwr-connector-for-600w-gaming-gpus)
 * [2023-09-01, 13:06:06](https://news.ycombinator.com/item?id=37350310) - [The Janus System: Multi-Paradigm Programming in Prolog and Python](https://arxiv.org/abs/2308.15893)
 * [2023-09-01, 12:45:17](https://news.ycombinator.com/item?id=37350123) - [AI Model Weight Providers Should Not Police Uses, No Matter How Awful They Are](http://marble.onl/posts/model_censorship.html)
 * [2023-09-01, 12:23:43](https://news.ycombinator.com/item?id=37349870) - [Vitamins, Supplements with Antioxidants Fuel Cancer](https://studyfinds.org/dietary-supplements-help-tumors/)

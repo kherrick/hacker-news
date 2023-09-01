@@ -109,6 +109,7 @@
 * [2023-08-31, 04:47:03](https://news.ycombinator.com/item?id=37332582) - [We Are Not Supporting OpenTF](https://medium.com/@hello_9187/why-we-are-not-supporting-opentf-a46855f52dc4)
 * [2023-08-31, 04:33:40](https://news.ycombinator.com/item?id=37332493) - [RyujinX – Open Source Nintendo Switch Emulator](https://ryujinx.org/)
 * [2023-08-31, 04:26:40](https://news.ycombinator.com/item?id=37332459) - [Croner – Cron for JavaScript and TypeScript](https://github.com/Hexagon/croner)
+* [2023-08-31, 04:09:49](https://news.ycombinator.com/item?id=37332354) - [Logical Memory](https://www.ibm.com/docs/en/power8?topic=memory-logical)
 * [2023-08-31, 04:05:36](https://news.ycombinator.com/item?id=37332328) - [Zeitgeist 2001](https://archive.google/press/timeline.html)
 * [2023-08-31, 04:01:13](https://news.ycombinator.com/item?id=37332303) - [The Story of Carrene (1935)](https://pdfhost.io/v/oxZ.mlWg9_The_Story_of_Carrene)
 * [2023-08-31, 03:59:16](https://news.ycombinator.com/item?id=37332292) - [There have been several public library bomb threats this week](https://bookriot.com/there-have-been-several-public-library-bomb-threats-this-week/)
