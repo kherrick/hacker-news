@@ -28,8 +28,8 @@
 * [2023-08-31, 15:49:24](https://news.ycombinator.com/item?id=37339098) - [Evennia: MUD/MU* creation system](https://www.evennia.com/)
 * [2023-08-31, 15:29:02](https://news.ycombinator.com/item?id=37338753) - [Tearing down Klamath dams: The largest dam demolition](https://calmatters.org/environment/2023/08/klamath-river-dams-demolition/)
 * [2023-08-31, 14:15:39](https://news.ycombinator.com/item?id=37337482) - [Ghostfolio: Open-source wealth management software](https://ghostfol.io)
+* [2023-08-31, 10:07:14](https://news.ycombinator.com/item?id=37334819) - [The Last of the Fungus](https://nautil.us/the-last-of-the-fungus-370460/)
 * [2023-08-29, 20:42:04](https://news.ycombinator.com/item?id=37313733) - [The case for Nushell](https://www.jntrnr.com/case-for-nushell/)
-* [2023-08-29, 12:19:47](https://news.ycombinator.com/item?id=37306619) - [Lego Ideas: Insect Collection – Botanicals meets animals](https://www.brothers-brick.com/2023/08/28/lego-ideas-21342-the-insect-collection-botanicals-meets-animals-review/)
 
 ## [Archives](archives/index.md)
 
