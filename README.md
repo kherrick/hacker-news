@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-01, 10:23:50](https://news.ycombinator.com/item?id=37348914) - [Apple Clarifies Why It Abandoned Plan to Detect CSAM in iCloud Photos](https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/)
 * [2023-09-01, 08:38:50](https://news.ycombinator.com/item?id=37348240) - [Learning For Mastery (1968) [pdf]](http://www.researchforteachers.org.uk/sites/default/files/Docs/Bloom%20(1968)%20Learning%20for%20Mastery_0.pdf)
 * [2023-09-01, 08:27:21](https://news.ycombinator.com/item?id=37348162) - [ChangeDetection, monitor any website change](https://github.com/dgtlmoon/changedetection.io)
 * [2023-09-01, 06:31:39](https://news.ycombinator.com/item?id=37347528) - [Ask Microsoft: Are you using our personal data to train AI?](https://foundation.mozilla.org/en/campaigns/microsoft-ai/)
@@ -21,6 +20,7 @@
 * [2023-08-31, 20:00:47](https://news.ycombinator.com/item?id=37342925) - [Why did old phone numbers start with letters? (2015)](https://www.mentalfloss.com/article/61116/why-did-old-phone-numbers-start-letters)
 * [2023-08-31, 20:00:02](https://news.ycombinator.com/item?id=37342914) - [LIBS confirms the presence of sulphur on the lunar surface](https://www.isro.gov.in/LIBSResults.html)
 * [2023-08-31, 19:34:13](https://news.ycombinator.com/item?id=37342548) - [The low, low cost of committing cybercrime](https://isc.sans.edu/diary/The+low+low+cost+of+committing+cybercrime/30176)
+* [2023-08-31, 18:54:13](https://news.ycombinator.com/item?id=37342046) - [AWS Icon Quiz](https://awsiconquiz.com/)
 * [2023-08-31, 18:35:10](https://news.ycombinator.com/item?id=37341799) - [CT scans of coffee-making equipment](https://www.scanofthemonth.com/scans/coffee)
 * [2023-08-31, 18:26:34](https://news.ycombinator.com/item?id=37341670) - [Fine-tuning GPT-3.5-turbo for natural language to SQL](https://medium.com/dataherald/fine-tuning-gpt-3-5-turbo-for-natural-language-to-sql-4445c1d37f7c)
 * [2023-08-31, 17:00:22](https://news.ycombinator.com/item?id=37340314) - [Teaching with AI](https://openai.com/blog/teaching-with-ai)
