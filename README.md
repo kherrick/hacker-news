@@ -8,8 +8,9 @@
 * [2023-09-01, 14:59:45](https://news.ycombinator.com/item?id=37351656) - [The algorithm that blew up Italy’s school system](https://algorithmwatch.org/en/algorithm-school-system-italy/)
 * [2023-09-01, 14:57:32](https://news.ycombinator.com/item?id=37351628) - [ARM wrestles assembly language guru's domains away, citing trademark issues](https://www.theregister.com/2023/08/31/a_star_star_domains/)
 * [2023-09-01, 14:17:59](https://news.ycombinator.com/item?id=37351157) - [A deep dive into Single Pair Ethernet](https://electricui.com/blog/spe-sensor-node)
+* [2023-09-01, 13:58:08](https://news.ycombinator.com/item?id=37350920) - [Subscriptions and external links help drive users to extremist YouTube channels](https://www.science.org/doi/10.1126/sciadv.add8080)
 * [2023-09-01, 13:34:49](https://news.ycombinator.com/item?id=37350634) - [Smarter robots](https://factorio.com/blog/post/fff-374)
-* [2023-09-01, 13:21:33](https://news.ycombinator.com/item?id=37350465) - [Asus details its cable-free GC-HPWR connector for 600W gaming GPUs](https://videocardz.com/newz/asus-details-its-cable-free-gc-hpwr-connector-for-600w-gaming-gpus)
+* [2023-09-01, 13:16:17](https://news.ycombinator.com/item?id=37350422) - [Patterns with Rust Types](https://www.shuttle.rs/blog/2022/07/28/patterns-with-rust-types)
 * [2023-09-01, 13:06:06](https://news.ycombinator.com/item?id=37350310) - [The Janus System: Multi-Paradigm Programming in Prolog and Python](https://arxiv.org/abs/2308.15893)
 * [2023-09-01, 12:45:17](https://news.ycombinator.com/item?id=37350123) - [AI model weight providers should not police uses, no matter how awful they are](http://marble.onl/posts/model_censorship.html)
 * [2023-09-01, 12:09:30](https://news.ycombinator.com/item?id=37349732) - [The problem of creeping commercial surveillance (2022)](https://elnion.com/2022/02/07/the-problem-of-creeping-commercial-surveillance/)
@@ -29,7 +30,6 @@
 * [2023-08-31, 19:54:29](https://news.ycombinator.com/item?id=37342828) - [Connections Museum: Driving across America for a DMS-10 [video]](https://www.youtube.com/watch?v=CrviyMrHLYw)
 * [2023-08-31, 09:28:13](https://news.ycombinator.com/item?id=37334563) - [Cool Science Tricks (2005)](https://daveroot.neocities.org/sciencetricks/)
 * [2023-08-31, 04:09:49](https://news.ycombinator.com/item?id=37332354) - [Logical memory (2021)](https://www.ibm.com/docs/en/power8?topic=memory-logical)
-* [2023-08-30, 12:07:19](https://news.ycombinator.com/item?id=37320780) - [Electroculture Gardening](https://www.washingtonpost.com/home/2023/08/30/gardening-electroculture-explained/)
 
 ## [Archives](archives/index.md)
 
