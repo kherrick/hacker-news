@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 16:31:42](https://news.ycombinator.com/item?id=37352983) - [Ask HN: Any LAN alternatives other than PowerLine or MOCA?](https://news.ycombinator.com/item?id=37352983)
 * [2023-09-01, 16:20:33](https://news.ycombinator.com/item?id=37352803) - [Browser extensions spy on you, even if its developers don't](https://vitonsky.net/blog/2023/09/01/malware-in-browser-extensions/)
 * [2023-09-01, 15:59:41](https://news.ycombinator.com/item?id=37352486) - [Police Seized Innocent Peoples Property, Kept It for Years. What Will SCOTUS Do?](https://reason.com/2023/07/11/police-seized-innocent-peoples-property-and-kept-it-for-years-what-will-the-supreme-court-do/)
 * [2023-09-01, 15:51:20](https://news.ycombinator.com/item?id=37352356) - [X updates Terms to allow it to use data for AI training](https://stackdiary.com/x-can-now-use-posts-for-ai-training-as-per-terms-of-service/)
