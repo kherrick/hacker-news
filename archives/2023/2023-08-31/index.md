@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-31](index.md)
 
 * [2023-08-31, 23:43:18](https://news.ycombinator.com/item?id=37344993) - [U.S. Copyright Office RFC: Artificial Intelligence and Copyright](https://www.federalregister.gov/documents/2023/08/30/2023-18624/artificial-intelligence-and-copyright)
+* [2023-08-31, 23:43:06](https://news.ycombinator.com/item?id=37344991) - [Driverless cars may already be safer than human drivers](https://www.understandingai.org/p/driverless-cars-may-already-be-safer)
 * [2023-08-31, 23:34:04](https://news.ycombinator.com/item?id=37344940) - [Kagi now accepts PayPal, EUR and Bitcoin payments](https://blog.kagi.com/accepting-paypal-bitcoin)
 * [2023-08-31, 23:00:17](https://news.ycombinator.com/item?id=37344702) - [Independent Guest Virtual Machine (IGVM) File Format](https://github.com/microsoft/igvm)
 * [2023-08-31, 22:42:15](https://news.ycombinator.com/item?id=37344562) - [Cities are suing car manufacturers over auto theft. They have a case](https://www.economist.com/united-states/2023/08/31/cities-are-suing-car-manufacturers-over-auto-theft-they-have-a-case)
