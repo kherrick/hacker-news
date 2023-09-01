@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 19:20:04](https://news.ycombinator.com/item?id=37355083) - [Higher Intakes of Potassium and Magnesium, but Not Lower Sodium, Reduce CVD Risk](https://pubmed.ncbi.nlm.nih.gov/33477824/)
 * [2023-09-01, 18:18:39](https://news.ycombinator.com/item?id=37354409) - [Without maintenance, most digital information will be lost in just a few decades](https://longnow.org/ideas/shining-a-light-on-the-digital-dark-age/)
 * [2023-09-01, 18:17:15](https://news.ycombinator.com/item?id=37354401) - [Philosophy of Coroutines](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy/)
 * [2023-09-01, 18:14:15](https://news.ycombinator.com/item?id=37354371) - [Ten Sed Command Examples](https://4sysops.com/archives/ten-sed-command-examples/)
@@ -13,6 +14,7 @@
 * [2023-09-01, 17:26:44](https://news.ycombinator.com/item?id=37353770) - [Govt of Canada proposes a 4% Link Tax](https://www.michaelgeist.ca/2023/09/a-4-link-tax-why-the-governments-draft-bill-c-18-regulations-just-increased-the-chances-of-no-news-on-meta-and-google-in-canada/)
 * [2023-09-01, 17:02:58](https://news.ycombinator.com/item?id=37353436) - [Pysentation – The Python Presentation](https://github.com/mimseyedi/pysentation)
 * [2023-09-01, 16:31:42](https://news.ycombinator.com/item?id=37352983) - [Ask HN: Any LAN alternatives other than PowerLine or MOCA?](https://news.ycombinator.com/item?id=37352983)
+* [2023-09-01, 16:29:57](https://news.ycombinator.com/item?id=37352955) - [Optimizing Postgres's autovacuum for high-churn tables](https://tembo.io/blog/optimizing-postgres-auto-vacuum/)
 * [2023-09-01, 16:20:39](https://news.ycombinator.com/item?id=37352805) - [Robinhood to buy back Bankman-Fried’s stake for $605M from U.S. government](https://www.cnbc.com/2023/09/01/robinhood-to-buy-back-bankman-frieds-stake-for-605point7-mln-from-us-govt.html)
 * [2023-09-01, 16:20:33](https://news.ycombinator.com/item?id=37352803) - [Browser extensions spy on you, even if its developers don't](https://vitonsky.net/blog/2023/09/01/malware-in-browser-extensions/)
 * [2023-09-01, 15:59:41](https://news.ycombinator.com/item?id=37352486) - [Police Seized Innocent Peoples Property, Kept It for Years. What Will SCOTUS Do?](https://reason.com/2023/07/11/police-seized-innocent-peoples-property-and-kept-it-for-years-what-will-the-supreme-court-do/)
