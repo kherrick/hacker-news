@@ -72,6 +72,7 @@
 * [2023-09-01, 08:27:21](https://news.ycombinator.com/item?id=37348162) - [Show HN: ChangeDetection, monitor any website change](https://github.com/dgtlmoon/changedetection.io)
 * [2023-09-01, 08:11:09](https://news.ycombinator.com/item?id=37348052) - [The Practical Effects Wizardry of Dungeons and Dragons: Honor Among Thieves](https://www.stanwinstonschool.com/blog/practical-effects-wizardry-of-dungeons-and-dragons-honor-among-thieves-legacy-effects-behind-the-scenes)
 * [2023-09-01, 08:07:14](https://news.ycombinator.com/item?id=37348036) - [Amateur Astronomers Spot New Impact On Jupiter](https://www.space.com/amateur-astronomers-jupiter-cosmic-collision)
+* [2023-09-01, 07:21:26](https://news.ycombinator.com/item?id=37347757) - [EXPI by p01](http://www.p01.org/expi/)
 * [2023-09-01, 06:58:49](https://news.ycombinator.com/item?id=37347657) - [Ask HN: What is your policy regarding smartphones for your children?](https://news.ycombinator.com/item?id=37347657)
 * [2023-09-01, 06:38:33](https://news.ycombinator.com/item?id=37347564) - [Total Commander](https://www.ghisler.com/)
 * [2023-09-01, 06:31:39](https://news.ycombinator.com/item?id=37347528) - [Ask Microsoft: Are you using our personal data to train AI?](https://foundation.mozilla.org/en/campaigns/microsoft-ai/)
