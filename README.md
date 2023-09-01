@@ -2,7 +2,6 @@
 
 * [2023-08-31, 23:43:18](https://news.ycombinator.com/item?id=37344993) - [Artificial Intelligence and Copyright: Request for comments](https://www.federalregister.gov/documents/2023/08/30/2023-18624/artificial-intelligence-and-copyright)
 * [2023-08-31, 23:34:04](https://news.ycombinator.com/item?id=37344940) - [Kagi now accepts PayPal, EUR and Bitcoin payments](https://blog.kagi.com/accepting-paypal-bitcoin)
-* [2023-08-31, 23:00:17](https://news.ycombinator.com/item?id=37344702) - [Independent Guest Virtual Machine (IGVM) File Format](https://github.com/microsoft/igvm)
 * [2023-08-31, 21:47:53](https://news.ycombinator.com/item?id=37344096) - [Wii Architecture – A Practical Analysis](https://www.copetti.org/writings/consoles/wii/)
 * [2023-08-31, 21:39:44](https://news.ycombinator.com/item?id=37344026) - [Types versus sets (and what about categories?) (2022)](https://lawrencecpaulson.github.io/2022/03/16/Types_vs_Sets.html)
 * [2023-08-31, 21:08:54](https://news.ycombinator.com/item?id=37343711) - [Modern genetic data suggests pre-humans were a group of only 1,280 individuals](https://www.nature.com/articles/d41586-023-02712-4)
@@ -15,6 +14,7 @@
 * [2023-08-31, 19:07:24](https://news.ycombinator.com/item?id=37342215) - [Nougat: Neural Optical Understanding for Academic Documents](https://facebookresearch.github.io/nougat/)
 * [2023-08-31, 18:54:13](https://news.ycombinator.com/item?id=37342046) - [AWS Icon Quiz](https://awsiconquiz.com/)
 * [2023-08-31, 18:35:10](https://news.ycombinator.com/item?id=37341799) - [CT scans of coffee-making equipment](https://www.scanofthemonth.com/scans/coffee)
+* [2023-08-31, 18:33:48](https://news.ycombinator.com/item?id=37341783) - [The boy who stole Half-Life 2 (2011)](https://www.eurogamer.net/the-boy-who-stole-half-life-2-article)
 * [2023-08-31, 18:26:34](https://news.ycombinator.com/item?id=37341670) - [Fine-tuning GPT-3.5-turbo for natural language to SQL](https://medium.com/dataherald/fine-tuning-gpt-3-5-turbo-for-natural-language-to-sql-4445c1d37f7c)
 * [2023-08-31, 17:14:51](https://news.ycombinator.com/item?id=37340547) - [Rare oxygen isotope detected](https://www.nature.com/articles/d41586-023-02713-3)
 * [2023-08-31, 17:00:22](https://news.ycombinator.com/item?id=37340314) - [Teaching with AI](https://openai.com/blog/teaching-with-ai)
