@@ -23,11 +23,11 @@
 * [2023-08-31, 19:34:13](https://news.ycombinator.com/item?id=37342548) - [The low, low cost of committing cybercrime](https://isc.sans.edu/diary/The+low+low+cost+of+committing+cybercrime/30176)
 * [2023-08-31, 18:35:10](https://news.ycombinator.com/item?id=37341799) - [CT scans of coffee-making equipment](https://www.scanofthemonth.com/scans/coffee)
 * [2023-08-31, 18:26:34](https://news.ycombinator.com/item?id=37341670) - [Fine-tuning GPT-3.5-turbo for natural language to SQL](https://medium.com/dataherald/fine-tuning-gpt-3-5-turbo-for-natural-language-to-sql-4445c1d37f7c)
+* [2023-08-31, 17:14:51](https://news.ycombinator.com/item?id=37340547) - [Rare oxygen isotope detected](https://www.nature.com/articles/d41586-023-02713-3)
 * [2023-08-31, 17:00:22](https://news.ycombinator.com/item?id=37340314) - [Teaching with AI](https://openai.com/blog/teaching-with-ai)
 * [2023-08-31, 16:58:58](https://news.ycombinator.com/item?id=37340290) - [Mathematical proof is a social compact](https://www.quantamagazine.org/why-mathematical-proof-is-a-social-compact-20230831/)
 * [2023-08-31, 16:17:28](https://news.ycombinator.com/item?id=37339619) - [VanMoof acquired by e-mobility company Lavoie](https://www.bicycleretailer.com/industry-news/2023/08/31/vanmoof-acquired-e-mobility-company-lavoie)
 * [2023-08-31, 16:12:45](https://news.ycombinator.com/item?id=37339535) - [RFC 3339 vs. ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/)
-* [2023-08-31, 16:04:38](https://news.ycombinator.com/item?id=37339372) - [Doom for 16-bit DOS computers](https://github.com/FrenkelS/Doom8088)
 * [2023-08-31, 15:29:02](https://news.ycombinator.com/item?id=37338753) - [Tearing down Klamath dams: The largest dam demolition](https://calmatters.org/environment/2023/08/klamath-river-dams-demolition/)
 * [2023-08-31, 10:07:14](https://news.ycombinator.com/item?id=37334819) - [The Last of the Fungus](https://nautil.us/the-last-of-the-fungus-370460/)
 
