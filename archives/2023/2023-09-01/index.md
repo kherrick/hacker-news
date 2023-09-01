@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 06:31:39](https://news.ycombinator.com/item?id=37347528) - [Ask Microsoft: Are you using our personal data to train AI?](https://foundation.mozilla.org/en/campaigns/microsoft-ai/)
 * [2023-09-01, 06:16:55](https://news.ycombinator.com/item?id=37347447) - [Organic Maps](https://organicmaps.app/)
 * [2023-09-01, 04:53:31](https://news.ycombinator.com/item?id=37346927) - [A Journey Through Spain’s Islamic History](https://www.smithsonianmag.com/travel/fabled-palaces-ancient-medina-journey-through-spain-islamic-history-180982699/)
 * [2023-09-01, 04:47:55](https://news.ycombinator.com/item?id=37346899) - [From Art Nouveau to Bauhaus: How Home Interiors Looked in Popular Art Movements](https://www.archdaily.com/1005570/from-art-nouveau-to-the-bauhaus-how-home-interiors-looked-in-popular-art-movements)
