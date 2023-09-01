@@ -30,6 +30,7 @@
 * [2023-09-01, 15:51:20](https://news.ycombinator.com/item?id=37352356) - [X updates Terms to allow it to use data for AI training](https://stackdiary.com/x-can-now-use-posts-for-ai-training-as-per-terms-of-service/)
 * [2023-09-01, 15:45:30](https://news.ycombinator.com/item?id=37352282) - [Why Is .US Being Used to Phish So Many of Us?](https://krebsonsecurity.com/2023/09/why-is-us-being-used-to-phish-so-many-of-us/)
 * [2023-09-01, 15:34:50](https://news.ycombinator.com/item?id=37352148) - [U.S. Department of Defense Launches All-Domain Anomaly Resolution Office Website](https://www.defense.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/)
+* [2023-09-01, 15:10:08](https://news.ycombinator.com/item?id=37351831) - [A Duodecade of Numberphile](https://www.tandfonline.com/doi/full/10.1080/10724117.2023.2224682)
 * [2023-09-01, 15:08:23](https://news.ycombinator.com/item?id=37351802) - [How the FBI took down the Qakbot botnet](https://techcrunch.com/2023/09/01/fbi-qakbot-takedown-operation-duck-hunt/)
 * [2023-09-01, 15:04:51](https://news.ycombinator.com/item?id=37351740) - [‘Peanuts,’ Charles Schulz, and the state that started it all](https://www.csmonitor.com/The-Culture/2023/0829/Peanuts-Charles-Schulz-and-the-state-that-started-it-all)
 * [2023-09-01, 15:03:11](https://news.ycombinator.com/item?id=37351716) - [Can Programming Languages Boost Each Other via Instruction Tuning? Yes](https://arxiv.org/abs/2308.16824)
