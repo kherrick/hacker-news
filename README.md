@@ -6,7 +6,7 @@
 * [2023-09-01, 17:59:30](https://news.ycombinator.com/item?id=37354179) - [Linear Algebra for Programmers](https://coffeemug.github.io/spakhm.com/posts/01-lingalg-p1/linalg-p1.html)
 * [2023-09-01, 17:44:36](https://news.ycombinator.com/item?id=37354000) - [Doug Lenat has died](https://garymarcus.substack.com/p/doug-lenat-1950-2023)
 * [2023-09-01, 17:26:44](https://news.ycombinator.com/item?id=37353770) - [Govt of Canada proposes a 4% Link Tax](https://www.michaelgeist.ca/2023/09/a-4-link-tax-why-the-governments-draft-bill-c-18-regulations-just-increased-the-chances-of-no-news-on-meta-and-google-in-canada/)
-* [2023-09-01, 15:59:41](https://news.ycombinator.com/item?id=37352486) - [Police Seized Innocent Peoples Property, Kept It for Years. What Will SCOTUS Do?](https://reason.com/2023/07/11/police-seized-innocent-peoples-property-and-kept-it-for-years-what-will-the-supreme-court-do/)
+* [2023-09-01, 17:02:58](https://news.ycombinator.com/item?id=37353436) - [Pysentation – The Python Presentation](https://github.com/mimseyedi/pysentation)
 * [2023-09-01, 15:45:30](https://news.ycombinator.com/item?id=37352282) - [Why Is .US Being Used to Phish So Many of Us?](https://krebsonsecurity.com/2023/09/why-is-us-being-used-to-phish-so-many-of-us/)
 * [2023-09-01, 15:08:23](https://news.ycombinator.com/item?id=37351802) - [How the FBI took down the Qakbot botnet](https://techcrunch.com/2023/09/01/fbi-qakbot-takedown-operation-duck-hunt/)
 * [2023-09-01, 15:04:51](https://news.ycombinator.com/item?id=37351740) - [‘Peanuts,’ Charles Schulz, and the state that started it all](https://www.csmonitor.com/The-Culture/2023/0829/Peanuts-Charles-Schulz-and-the-state-that-started-it-all)
