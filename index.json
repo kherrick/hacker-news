@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-01, 15:51:20",
+      "https://news.ycombinator.com/item?id=37352356"
+    ],
+    [
+      "X updates Terms to allow it to use data for AI training",
+      "https://stackdiary.com/x-can-now-use-posts-for-ai-training-as-per-terms-of-service/"
+    ]
+  ],
+  [
+    [
+      "2023-09-01, 15:45:30",
+      "https://news.ycombinator.com/item?id=37352282"
+    ],
+    [
+      "Why Is .US Being Used to Phish So Many of Us?",
+      "https://krebsonsecurity.com/2023/09/why-is-us-being-used-to-phish-so-many-of-us/"
+    ]
+  ],
+  [
+    [
       "2023-09-01, 15:34:50",
       "https://news.ycombinator.com/item?id=37352148"
     ],
@@ -101,6 +121,16 @@
   ],
   [
     [
+      "2023-09-01, 13:36:05",
+      "https://news.ycombinator.com/item?id=37350648"
+    ],
+    [
+      "Thousands of octopuses gather off California to brood eggs at a warm spot",
+      "https://www.npr.org/2023/08/23/1195028955/heres-why-6-000-octopuses-like-to-be-under-the-sea-at-an-octopus-garden"
+    ]
+  ],
+  [
+    [
       "2023-09-01, 13:34:49",
       "https://news.ycombinator.com/item?id=37350634"
     ],
@@ -131,26 +161,6 @@
   ],
   [
     [
-      "2023-09-01, 12:45:17",
-      "https://news.ycombinator.com/item?id=37350123"
-    ],
-    [
-      "AI model weight providers should not police uses, no matter how awful they are",
-      "http://marble.onl/posts/model_censorship.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-01, 12:09:30",
-      "https://news.ycombinator.com/item?id=37349732"
-    ],
-    [
-      "The problem of creeping commercial surveillance (2022)",
-      "https://elnion.com/2022/02/07/the-problem-of-creeping-commercial-surveillance/"
-    ]
-  ],
-  [
-    [
       "2023-09-01, 12:09:20",
       "https://news.ycombinator.com/item?id=37349730"
     ],
@@ -177,16 +187,6 @@
     [
       "Farewell EC2-Classic, it’s been swell",
       "https://www.allthingsdistributed.com/2023/09/farewell-ec2-classic.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-01, 11:40:34",
-      "https://news.ycombinator.com/item?id=37349487"
-    ],
-    [
-      "Gothub: Alternative front-end for GitHub written with Go",
-      "https://codeberg.org/gothub/gothub"
     ]
   ],
   [
