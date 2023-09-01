@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-01, 19:20:04",
+      "https://news.ycombinator.com/item?id=37355083"
+    ],
+    [
+      "Higher Intakes of Potassium and Magnesium, but Not Lower Sodium, Reduce CVD Risk",
+      "https://pubmed.ncbi.nlm.nih.gov/33477824/"
+    ]
+  ],
+  [
+    [
       "2023-09-01, 18:18:39",
       "https://news.ycombinator.com/item?id=37354409"
     ],
@@ -51,22 +61,22 @@
   ],
   [
     [
-      "2023-09-01, 17:26:44",
-      "https://news.ycombinator.com/item?id=37353770"
-    ],
-    [
-      "Govt of Canada proposes a 4% Link Tax",
-      "https://www.michaelgeist.ca/2023/09/a-4-link-tax-why-the-governments-draft-bill-c-18-regulations-just-increased-the-chances-of-no-news-on-meta-and-google-in-canada/"
-    ]
-  ],
-  [
-    [
       "2023-09-01, 17:02:58",
       "https://news.ycombinator.com/item?id=37353436"
     ],
     [
       "Pysentation – The Python Presentation",
       "https://github.com/mimseyedi/pysentation"
+    ]
+  ],
+  [
+    [
+      "2023-09-01, 16:29:57",
+      "https://news.ycombinator.com/item?id=37352955"
+    ],
+    [
+      "Optimizing Postgres's autovacuum for high-churn tables",
+      "https://tembo.io/blog/optimizing-postgres-auto-vacuum/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "The Janus System: Multi-Paradigm Programming in Prolog and Python",
       "https://arxiv.org/abs/2308.15893"
-    ]
-  ],
-  [
-    [
-      "2023-09-01, 12:09:20",
-      "https://news.ycombinator.com/item?id=37349730"
-    ],
-    [
-      "Show HN: Merge – Connect Google Wear OS to Apple iOS",
-      "https://www.merge.watch"
     ]
   ],
   [
