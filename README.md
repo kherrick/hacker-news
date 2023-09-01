@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-01, 02:30:45](https://news.ycombinator.com/item?id=37346094) - [Apartment evicts tenant, throws belongings in dumpster. But it was the wrong apt](https://www.fox4news.com/news/dallas-apartment-evicts-tenant-throws-belongings-in-dumpster-but-it-was-the-wrong-unit)
 * [2023-09-01, 02:17:57](https://news.ycombinator.com/item?id=37346024) - [California Forever](https://californiaforever.com/)
 * [2023-08-31, 23:43:18](https://news.ycombinator.com/item?id=37344993) - [Artificial Intelligence and Copyright: Request for comments](https://www.federalregister.gov/documents/2023/08/30/2023-18624/artificial-intelligence-and-copyright)
 * [2023-08-31, 23:43:06](https://news.ycombinator.com/item?id=37344991) - [Driverless cars may already be safer than human drivers](https://www.understandingai.org/p/driverless-cars-may-already-be-safer)
@@ -12,7 +13,6 @@
 * [2023-08-31, 20:00:02](https://news.ycombinator.com/item?id=37342914) - [LIBS confirms the presence of sulphur on the lunar surface](https://www.isro.gov.in/LIBSResults.html)
 * [2023-08-31, 19:45:19](https://news.ycombinator.com/item?id=37342718) - [The Cynical Genius Illusion (2018)](https://journals.sagepub.com/doi/pdf/10.1177/0146167218783195)
 * [2023-08-31, 19:34:13](https://news.ycombinator.com/item?id=37342548) - [The low, low cost of committing cybercrime](https://isc.sans.edu/diary/0)
-* [2023-08-31, 19:07:24](https://news.ycombinator.com/item?id=37342215) - [Nougat: Neural Optical Understanding for Academic Documents](https://facebookresearch.github.io/nougat/)
 * [2023-08-31, 18:54:13](https://news.ycombinator.com/item?id=37342046) - [AWS Icon Quiz](https://awsiconquiz.com/)
 * [2023-08-31, 18:35:10](https://news.ycombinator.com/item?id=37341799) - [CT scans of coffee-making equipment](https://www.scanofthemonth.com/scans/coffee)
 * [2023-08-31, 18:26:34](https://news.ycombinator.com/item?id=37341670) - [Fine-tuning GPT-3.5-turbo for natural language to SQL](https://medium.com/dataherald/fine-tuning-gpt-3-5-turbo-for-natural-language-to-sql-4445c1d37f7c)
