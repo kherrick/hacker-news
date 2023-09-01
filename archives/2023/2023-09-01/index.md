@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 14:44:58](https://news.ycombinator.com/item?id=37351455) - [Boaters deal with ‘modern-day pirates' in the East Bay](https://www.nbcbayarea.com/news/local/east-bay/pirates-oakland-estuary/3305821/)
 * [2023-09-01, 14:17:59](https://news.ycombinator.com/item?id=37351157) - [A deep dive into Single Pair Ethernet](https://electricui.com/blog/spe-sensor-node)
+* [2023-09-01, 14:15:48](https://news.ycombinator.com/item?id=37351135) - [Smoking cigarettes doubles the risk of developing depression, bipolar disorder](https://studyfinds.org/smoking-depression-bipolar-disorder/)
 * [2023-09-01, 13:59:20](https://news.ycombinator.com/item?id=37350943) - [Germany’s radioactive boars are a bristly reminder of nuclear fallout](https://www.science.org/content/article/germany-s-radioactive-boars-are-bristly-reminder-nuclear-fallout)
 * [2023-09-01, 13:34:49](https://news.ycombinator.com/item?id=37350634) - [Factorio Friday Facts #374 – Smarter robots](https://factorio.com/blog/post/fff-374)
 * [2023-09-01, 13:25:51](https://news.ycombinator.com/item?id=37350520) - [Killed by Google](https://killedbygoogle.com)

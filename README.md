@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-01, 14:44:58](https://news.ycombinator.com/item?id=37351455) - [Boaters deal with ‘modern-day pirates' in the East Bay](https://www.nbcbayarea.com/news/local/east-bay/pirates-oakland-estuary/3305821/)
 * [2023-09-01, 14:17:59](https://news.ycombinator.com/item?id=37351157) - [A deep dive into Single Pair Ethernet](https://electricui.com/blog/spe-sensor-node)
+* [2023-09-01, 14:15:48](https://news.ycombinator.com/item?id=37351135) - [Smoking cigarettes doubles the risk of developing depression, bipolar disorder](https://studyfinds.org/smoking-depression-bipolar-disorder/)
 * [2023-09-01, 13:34:49](https://news.ycombinator.com/item?id=37350634) - [Factorio Friday Facts #374 – Smarter robots](https://factorio.com/blog/post/fff-374)
 * [2023-09-01, 13:25:51](https://news.ycombinator.com/item?id=37350520) - [Killed by Google](https://killedbygoogle.com)
 * [2023-09-01, 13:21:33](https://news.ycombinator.com/item?id=37350465) - [Asus details its cable-free GC-HPWR connector for 600W gaming GPUs](https://videocardz.com/newz/asus-details-its-cable-free-gc-hpwr-connector-for-600w-gaming-gpus)
@@ -24,8 +26,6 @@
 * [2023-09-01, 01:29:15](https://news.ycombinator.com/item?id=37345727) - [Things I wish I knew before moving 50K lines of code to React Server Components](https://www.mux.com/blog/what-are-react-server-components)
 * [2023-09-01, 00:51:56](https://news.ycombinator.com/item?id=37345456) - [Evolution of the Samsung Exynos CPU Microarchitecture [pdf]](https://people.engr.tamu.edu/djimenez/pdfs/exynos_isca2020.pdf)
 * [2023-08-31, 18:35:10](https://news.ycombinator.com/item?id=37341799) - [CT scans of coffee-making equipment](https://www.scanofthemonth.com/scans/coffee)
-* [2023-08-31, 10:07:14](https://news.ycombinator.com/item?id=37334819) - [The Last of the Fungus](https://nautil.us/the-last-of-the-fungus-370460/)
-* [2023-08-31, 09:32:05](https://news.ycombinator.com/item?id=37334589) - [Sword swallowing and its side effects (2006) [pdf]](https://www.bmj.com/content/bmj/333/7582/1285.full.pdf)
 * [2023-08-31, 09:28:13](https://news.ycombinator.com/item?id=37334563) - [Cool Science Tricks (2005)](https://daveroot.neocities.org/sciencetricks/)
 * [2023-08-31, 08:31:41](https://news.ycombinator.com/item?id=37334126) - [Bike Lane Sweepers (2021)](https://www.worldsweeper.com/SweepingCoProfiles/BikeLaneSweeper/)
 * [2023-08-31, 04:09:49](https://news.ycombinator.com/item?id=37332354) - [Logical Memory](https://www.ibm.com/docs/en/power8?topic=memory-logical)
