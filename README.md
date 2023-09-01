@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-01, 18:18:39](https://news.ycombinator.com/item?id=37354409) - [Without maintenance, most digital information will be lost in just a few decades](https://longnow.org/ideas/shining-a-light-on-the-digital-dark-age/)
 * [2023-09-01, 18:17:15](https://news.ycombinator.com/item?id=37354401) - [Philosophy of Coroutines](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy/)
 * [2023-09-01, 18:14:15](https://news.ycombinator.com/item?id=37354371) - [Ten Sed Command Examples](https://4sysops.com/archives/ten-sed-command-examples/)
 * [2023-09-01, 17:59:30](https://news.ycombinator.com/item?id=37354179) - [Linear Algebra for Programmers](https://coffeemug.github.io/spakhm.com/posts/01-lingalg-p1/linalg-p1.html)
 * [2023-09-01, 17:46:22](https://news.ycombinator.com/item?id=37354027) - [Pointless Sites](https://www.pointlesssites.com/)
 * [2023-09-01, 17:44:36](https://news.ycombinator.com/item?id=37354000) - [Doug Lenat has died](https://garymarcus.substack.com/p/doug-lenat-1950-2023)
+* [2023-09-01, 17:26:44](https://news.ycombinator.com/item?id=37353770) - [Govt of Canada proposes a 4% Link Tax](https://www.michaelgeist.ca/2023/09/a-4-link-tax-why-the-governments-draft-bill-c-18-regulations-just-increased-the-chances-of-no-news-on-meta-and-google-in-canada/)
 * [2023-09-01, 17:02:58](https://news.ycombinator.com/item?id=37353436) - [Pysentation – The Python Presentation](https://github.com/mimseyedi/pysentation)
-* [2023-09-01, 16:31:42](https://news.ycombinator.com/item?id=37352983) - [Ask HN: Any LAN alternatives other than PowerLine or MOCA?](https://news.ycombinator.com/item?id=37352983)
 * [2023-09-01, 16:20:33](https://news.ycombinator.com/item?id=37352803) - [Browser extensions spy on you, even if its developers don't](https://vitonsky.net/blog/2023/09/01/malware-in-browser-extensions/)
 * [2023-09-01, 15:59:41](https://news.ycombinator.com/item?id=37352486) - [Police Seized Innocent Peoples Property, Kept It for Years. What Will SCOTUS Do?](https://reason.com/2023/07/11/police-seized-innocent-peoples-property-and-kept-it-for-years-what-will-the-supreme-court-do/)
 * [2023-09-01, 15:45:30](https://news.ycombinator.com/item?id=37352282) - [Why Is .US Being Used to Phish So Many of Us?](https://krebsonsecurity.com/2023/09/why-is-us-being-used-to-phish-so-many-of-us/)
@@ -29,7 +30,6 @@
 * [2023-09-01, 06:16:55](https://news.ycombinator.com/item?id=37347447) - [Organic Maps](https://organicmaps.app/)
 * [2023-08-31, 19:54:29](https://news.ycombinator.com/item?id=37342828) - [Connections Museum: Driving across America for a DMS-10 [video]](https://www.youtube.com/watch?v=CrviyMrHLYw)
 * [2023-08-31, 11:04:55](https://news.ycombinator.com/item?id=37335325) - [Compile-time and short-circuit evaluation](https://c3.handmade.network/blog/p/8773-compile-time_and_short-circuit_evaluation)
-* [2023-08-31, 09:28:13](https://news.ycombinator.com/item?id=37334563) - [Cool Science Tricks (2005)](https://daveroot.neocities.org/sciencetricks/)
 
 ## [Archives](archives/index.md)
 

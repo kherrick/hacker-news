@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 18:18:39](https://news.ycombinator.com/item?id=37354409) - [Without maintenance, most digital information will be lost in just a few decades](https://longnow.org/ideas/shining-a-light-on-the-digital-dark-age/)
 * [2023-09-01, 18:17:15](https://news.ycombinator.com/item?id=37354401) - [Philosophy of Coroutines](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy/)
 * [2023-09-01, 18:14:15](https://news.ycombinator.com/item?id=37354371) - [Ten Sed Command Examples](https://4sysops.com/archives/ten-sed-command-examples/)
 * [2023-09-01, 17:59:30](https://news.ycombinator.com/item?id=37354179) - [Linear Algebra for Programmers](https://coffeemug.github.io/spakhm.com/posts/01-lingalg-p1/linalg-p1.html)
 * [2023-09-01, 17:46:22](https://news.ycombinator.com/item?id=37354027) - [Pointless Sites](https://www.pointlesssites.com/)
 * [2023-09-01, 17:44:36](https://news.ycombinator.com/item?id=37354000) - [Doug Lenat has died](https://garymarcus.substack.com/p/doug-lenat-1950-2023)
+* [2023-09-01, 17:26:44](https://news.ycombinator.com/item?id=37353770) - [Govt of Canada proposes a 4% Link Tax](https://www.michaelgeist.ca/2023/09/a-4-link-tax-why-the-governments-draft-bill-c-18-regulations-just-increased-the-chances-of-no-news-on-meta-and-google-in-canada/)
 * [2023-09-01, 17:02:58](https://news.ycombinator.com/item?id=37353436) - [Pysentation – The Python Presentation](https://github.com/mimseyedi/pysentation)
 * [2023-09-01, 16:31:42](https://news.ycombinator.com/item?id=37352983) - [Ask HN: Any LAN alternatives other than PowerLine or MOCA?](https://news.ycombinator.com/item?id=37352983)
 * [2023-09-01, 16:20:39](https://news.ycombinator.com/item?id=37352805) - [Robinhood to buy back Bankman-Fried’s stake for $605M from U.S. government](https://www.cnbc.com/2023/09/01/robinhood-to-buy-back-bankman-frieds-stake-for-605point7-mln-from-us-govt.html)
