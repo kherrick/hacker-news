@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 19:55:19](https://news.ycombinator.com/item?id=37355487) - [Wikipedia search-by-vibes through millions of pages offline](https://www.leebutterman.com/2023/06/01/offline-realtime-embedding-search.html)
+* [2023-09-01, 19:44:10](https://news.ycombinator.com/item?id=37355360) - [Space travel via tether between asteroids](https://blog.cerowrt.org/post/toutatis/)
 * [2023-09-01, 19:20:10](https://news.ycombinator.com/item?id=37355084) - [AI Eng Recap: August 2023](https://www.latent.space/p/aug-2023)
 * [2023-09-01, 19:20:04](https://news.ycombinator.com/item?id=37355083) - [Higher Intakes of Potassium and Magnesium, but Not Lower Sodium, Reduce CVD Risk](https://pubmed.ncbi.nlm.nih.gov/33477824/)
+* [2023-09-01, 19:19:55](https://news.ycombinator.com/item?id=37355081) - [Hot Chips 2023: Ventana’s Unconventional Veyron V1](https://chipsandcheese.com/2023/09/01/hot-chips-2023-ventanas-unconventional-veyron-v1/)
 * [2023-09-01, 19:12:56](https://news.ycombinator.com/item?id=37355000) - [U.S. Air Force Selects Fast Microreactor for Nuclear Power Pilot](https://www.powermag.com/u-s-air-force-selects-fast-microreactor-for-nuclear-power-pilot/)
 * [2023-09-01, 18:34:38](https://news.ycombinator.com/item?id=37354577) - [Mushroom pickers urged: Avoid Amazon foraging books, appear to be written by AI](https://www.theguardian.com/technology/2023/sep/01/mushroom-pickers-urged-to-avoid-foraging-books-on-amazon-that-appear-to-be-written-by-ai)
 * [2023-09-01, 18:18:39](https://news.ycombinator.com/item?id=37354409) - [Without maintenance, most digital information will be lost in just a few decades](https://longnow.org/ideas/shining-a-light-on-the-digital-dark-age/)
@@ -60,6 +63,7 @@
 * [2023-09-01, 10:07:42](https://news.ycombinator.com/item?id=37348808) - [Lidl Product Recall [pdf]](https://www.lidl.co.uk/static/assets/Paw_Patrol_Public_Recall_poster-500790.pdf)
 * [2023-09-01, 08:38:50](https://news.ycombinator.com/item?id=37348240) - [Benjamin S. Bloom: Learning For Mastery (1968) [pdf]](http://www.researchforteachers.org.uk/sites/default/files/Docs/Bloom%20(1968)%20Learning%20for%20Mastery_0.pdf)
 * [2023-09-01, 08:27:21](https://news.ycombinator.com/item?id=37348162) - [Show HN: ChangeDetection, monitor any website change](https://github.com/dgtlmoon/changedetection.io)
+* [2023-09-01, 08:11:09](https://news.ycombinator.com/item?id=37348052) - [The Practical Effects Wizardry of Dungeons and Dragons: Honor Among Thieves](https://www.stanwinstonschool.com/blog/practical-effects-wizardry-of-dungeons-and-dragons-honor-among-thieves-legacy-effects-behind-the-scenes)
 * [2023-09-01, 08:07:14](https://news.ycombinator.com/item?id=37348036) - [Amateur Astronomers Spot New Impact On Jupiter](https://www.space.com/amateur-astronomers-jupiter-cosmic-collision)
 * [2023-09-01, 06:58:49](https://news.ycombinator.com/item?id=37347657) - [Ask HN: What is your policy regarding smartphones for your children?](https://news.ycombinator.com/item?id=37347657)
 * [2023-09-01, 06:38:33](https://news.ycombinator.com/item?id=37347564) - [Total Commander](https://www.ghisler.com/)
