@@ -4,13 +4,17 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 17:44:36](https://news.ycombinator.com/item?id=37354000) - [Doug Lenat has died](https://garymarcus.substack.com/p/doug-lenat-1950-2023)
+* [2023-09-01, 17:02:58](https://news.ycombinator.com/item?id=37353436) - [Pysentation – The Python Presentation](https://github.com/mimseyedi/pysentation)
 * [2023-09-01, 16:31:42](https://news.ycombinator.com/item?id=37352983) - [Ask HN: Any LAN alternatives other than PowerLine or MOCA?](https://news.ycombinator.com/item?id=37352983)
+* [2023-09-01, 16:20:39](https://news.ycombinator.com/item?id=37352805) - [Robinhood to buy back Bankman-Fried’s stake for $605M from U.S. government](https://www.cnbc.com/2023/09/01/robinhood-to-buy-back-bankman-frieds-stake-for-605point7-mln-from-us-govt.html)
 * [2023-09-01, 16:20:33](https://news.ycombinator.com/item?id=37352803) - [Browser extensions spy on you, even if its developers don't](https://vitonsky.net/blog/2023/09/01/malware-in-browser-extensions/)
 * [2023-09-01, 15:59:41](https://news.ycombinator.com/item?id=37352486) - [Police Seized Innocent Peoples Property, Kept It for Years. What Will SCOTUS Do?](https://reason.com/2023/07/11/police-seized-innocent-peoples-property-and-kept-it-for-years-what-will-the-supreme-court-do/)
 * [2023-09-01, 15:51:20](https://news.ycombinator.com/item?id=37352356) - [X updates Terms to allow it to use data for AI training](https://stackdiary.com/x-can-now-use-posts-for-ai-training-as-per-terms-of-service/)
 * [2023-09-01, 15:45:30](https://news.ycombinator.com/item?id=37352282) - [Why Is .US Being Used to Phish So Many of Us?](https://krebsonsecurity.com/2023/09/why-is-us-being-used-to-phish-so-many-of-us/)
 * [2023-09-01, 15:34:50](https://news.ycombinator.com/item?id=37352148) - [U.S. Department of Defense Launches All-Domain Anomaly Resolution Office Website](https://www.defense.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/)
 * [2023-09-01, 15:08:23](https://news.ycombinator.com/item?id=37351802) - [How the FBI took down the Qakbot botnet](https://techcrunch.com/2023/09/01/fbi-qakbot-takedown-operation-duck-hunt/)
+* [2023-09-01, 15:04:51](https://news.ycombinator.com/item?id=37351740) - [‘Peanuts,’ Charles Schulz, and the state that started it all](https://www.csmonitor.com/The-Culture/2023/0829/Peanuts-Charles-Schulz-and-the-state-that-started-it-all)
 * [2023-09-01, 15:03:11](https://news.ycombinator.com/item?id=37351716) - [Can Programming Languages Boost Each Other via Instruction Tuning? Yes](https://arxiv.org/abs/2308.16824)
 * [2023-09-01, 15:01:30](https://news.ycombinator.com/item?id=37351685) - [Mashing Enter to bypass full disk encryption with TPM, Clevis dracut and systemd](https://pulsesecurity.co.nz/advisories/tpm-luks-bypass)
 * [2023-09-01, 15:00:30](https://news.ycombinator.com/item?id=37351668) - [Nostr: A Decentralized Messaging Protocol](https://hivemind.vc/nostr/)
