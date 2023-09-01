@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 06:38:33](https://news.ycombinator.com/item?id=37347564) - [Total Commander](https://www.ghisler.com/)
 * [2023-09-01, 06:31:39](https://news.ycombinator.com/item?id=37347528) - [Ask Microsoft: Are you using our personal data to train AI?](https://foundation.mozilla.org/en/campaigns/microsoft-ai/)
 * [2023-09-01, 06:16:55](https://news.ycombinator.com/item?id=37347447) - [Organic Maps](https://organicmaps.app/)
 * [2023-09-01, 04:53:31](https://news.ycombinator.com/item?id=37346927) - [A Journey Through Spain’s Islamic History](https://www.smithsonianmag.com/travel/fabled-palaces-ancient-medina-journey-through-spain-islamic-history-180982699/)
@@ -21,5 +22,6 @@
 * [2023-09-01, 02:17:57](https://news.ycombinator.com/item?id=37346024) - [California Forever](https://californiaforever.com/)
 * [2023-09-01, 02:03:57](https://news.ycombinator.com/item?id=37345938) - [BoTorch – Bayesian Optimization in PyTorch](https://botorch.org/)
 * [2023-09-01, 01:29:15](https://news.ycombinator.com/item?id=37345727) - [Things I wish I knew before moving 50K lines of code to React Server Components](https://www.mux.com/blog/what-are-react-server-components)
+* [2023-09-01, 00:51:56](https://news.ycombinator.com/item?id=37345456) - [Evolution of the Samsung Exynos CPU Microarchitecture [pdf]](https://people.engr.tamu.edu/djimenez/pdfs/exynos_isca2020.pdf)
 * [2023-09-01, 00:09:55](https://news.ycombinator.com/item?id=37345195) - [NYPD will use drones to monitor backyard parties this weekend](https://apnews.com/article/drones-labor-day-eric-adams-nypd-jouvert-c2787e87bcad8fa87aa8d34b454ee6cf)
 * [2023-09-01, 00:02:35](https://news.ycombinator.com/item?id=37345132) - [Court Rules in Pornhub’s Favor: Age-Verification Law Violates First Amendment](https://variety.com/2023/digital/news/pornhubs-texas-age-verification-law-violates-first-amendment-ruling-1235709902/)
