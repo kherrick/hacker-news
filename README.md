@@ -3,13 +3,11 @@
 * [2023-09-01, 04:22:16](https://news.ycombinator.com/item?id=37346770) - [Zeno's Mice and the Logarithmic Spiral](https://mathpages.com/home/kmath492/kmath492.htm)
 * [2023-09-01, 04:21:45](https://news.ycombinator.com/item?id=37346767) - [Google Maps Testing New Apple Maps-Inspired Map Style](https://www.justinobeirne.com/google-maps-testing-new-apple-maps-inspired-map-style)
 * [2023-09-01, 04:21:42](https://news.ycombinator.com/item?id=37346766) - [MathPages: Geometry](https://mathpages.com/home/igeometr.htm)
-* [2023-09-01, 04:11:57](https://news.ycombinator.com/item?id=37346710) - [The Scourge of Airport Noise](https://askthepilot.com/airport-noise-scourge/)
 * [2023-09-01, 03:46:05](https://news.ycombinator.com/item?id=37346585) - [The Making of EP Thompson](https://www.newstatesman.com/culture/history/2023/08/making-ep-thompson)
 * [2023-09-01, 03:32:36](https://news.ycombinator.com/item?id=37346509) - [An introduction to the impact of native planting](https://marisamorby.com/native-planting-intro/)
 * [2023-09-01, 02:50:58](https://news.ycombinator.com/item?id=37346218) - [Writing a bare-metal RISC-V application in D](https://zyedidia.github.io/blog/posts/1-d-baremetal/)
 * [2023-09-01, 02:34:33](https://news.ycombinator.com/item?id=37346115) - [Animated Knots](https://www.animatedknots.com/)
 * [2023-09-01, 02:03:57](https://news.ycombinator.com/item?id=37345938) - [BoTorch – Bayesian Optimization in PyTorch](https://botorch.org/)
-* [2023-09-01, 01:29:15](https://news.ycombinator.com/item?id=37345727) - [Things I wish I knew before moving 50K lines of code to React Server Components](https://www.mux.com/blog/what-are-react-server-components)
 * [2023-08-31, 23:43:18](https://news.ycombinator.com/item?id=37344993) - [Artificial Intelligence and Copyright: Request for comments](https://www.federalregister.gov/documents/2023/08/30/2023-18624/artificial-intelligence-and-copyright)
 * [2023-08-31, 21:47:53](https://news.ycombinator.com/item?id=37344096) - [Wii Architecture – A Practical Analysis](https://www.copetti.org/writings/consoles/wii/)
 * [2023-08-31, 21:39:44](https://news.ycombinator.com/item?id=37344026) - [Types versus sets (and what about categories?) (2022)](https://lawrencecpaulson.github.io/2022/03/16/Types_vs_Sets.html)
@@ -29,7 +27,9 @@
 * [2023-08-31, 16:04:38](https://news.ycombinator.com/item?id=37339372) - [Doom for 16-bit DOS computers](https://github.com/FrenkelS/Doom8088)
 * [2023-08-31, 15:49:24](https://news.ycombinator.com/item?id=37339098) - [Evennia: MUD/MU* creation system](https://www.evennia.com/)
 * [2023-08-31, 15:29:02](https://news.ycombinator.com/item?id=37338753) - [Tearing down Klamath dams: The largest dam demolition](https://calmatters.org/environment/2023/08/klamath-river-dams-demolition/)
+* [2023-08-31, 14:15:39](https://news.ycombinator.com/item?id=37337482) - [Ghostfolio: Open-source wealth management software](https://ghostfol.io)
 * [2023-08-29, 20:42:04](https://news.ycombinator.com/item?id=37313733) - [The case for Nushell](https://www.jntrnr.com/case-for-nushell/)
+* [2023-08-29, 12:19:47](https://news.ycombinator.com/item?id=37306619) - [Lego Ideas: Insect Collection – Botanicals meets animals](https://www.brothers-brick.com/2023/08/28/lego-ideas-21342-the-insect-collection-botanicals-meets-animals-review/)
 
 ## [Archives](archives/index.md)
 
