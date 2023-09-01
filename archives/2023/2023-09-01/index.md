@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
 * [2023-09-01, 16:20:33](https://news.ycombinator.com/item?id=37352803) - [Browser extensions spy on you, even if its developers don't](https://vitonsky.net/blog/2023/09/01/malware-in-browser-extensions/)
+* [2023-09-01, 15:59:41](https://news.ycombinator.com/item?id=37352486) - [Police Seized Innocent Peoples Property, Kept It for Years. What Will SCOTUS Do?](https://reason.com/2023/07/11/police-seized-innocent-peoples-property-and-kept-it-for-years-what-will-the-supreme-court-do/)
 * [2023-09-01, 15:51:20](https://news.ycombinator.com/item?id=37352356) - [X updates Terms to allow it to use data for AI training](https://stackdiary.com/x-can-now-use-posts-for-ai-training-as-per-terms-of-service/)
 * [2023-09-01, 15:45:30](https://news.ycombinator.com/item?id=37352282) - [Why Is .US Being Used to Phish So Many of Us?](https://krebsonsecurity.com/2023/09/why-is-us-being-used-to-phish-so-many-of-us/)
 * [2023-09-01, 15:34:50](https://news.ycombinator.com/item?id=37352148) - [U.S. Department of Defense Launches All-Domain Anomaly Resolution Office Website](https://www.defense.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-01, 16:20:33](https://news.ycombinator.com/item?id=37352803) - [Browser extensions spy on you, even if its developers don't](https://vitonsky.net/blog/2023/09/01/malware-in-browser-extensions/)
+* [2023-09-01, 15:59:41](https://news.ycombinator.com/item?id=37352486) - [Police Seized Innocent Peoples Property, Kept It for Years. What Will SCOTUS Do?](https://reason.com/2023/07/11/police-seized-innocent-peoples-property-and-kept-it-for-years-what-will-the-supreme-court-do/)
 * [2023-09-01, 15:51:20](https://news.ycombinator.com/item?id=37352356) - [X updates Terms to allow it to use data for AI training](https://stackdiary.com/x-can-now-use-posts-for-ai-training-as-per-terms-of-service/)
 * [2023-09-01, 15:45:30](https://news.ycombinator.com/item?id=37352282) - [Why Is .US Being Used to Phish So Many of Us?](https://krebsonsecurity.com/2023/09/why-is-us-being-used-to-phish-so-many-of-us/)
 * [2023-09-01, 15:34:50](https://news.ycombinator.com/item?id=37352148) - [U.S. Department of Defense Launches All-Domain Anomaly Resolution Office Website](https://www.defense.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/)
@@ -29,7 +30,6 @@
 * [2023-09-01, 01:29:15](https://news.ycombinator.com/item?id=37345727) - [Things I wish I knew before moving 50K lines of code to React Server Components](https://www.mux.com/blog/what-are-react-server-components)
 * [2023-08-31, 19:54:29](https://news.ycombinator.com/item?id=37342828) - [Connections Museum: Driving across America for a DMS-10 [video]](https://www.youtube.com/watch?v=CrviyMrHLYw)
 * [2023-08-31, 09:28:13](https://news.ycombinator.com/item?id=37334563) - [Cool Science Tricks (2005)](https://daveroot.neocities.org/sciencetricks/)
-* [2023-08-31, 04:09:49](https://news.ycombinator.com/item?id=37332354) - [Logical memory (2021)](https://www.ibm.com/docs/en/power8?topic=memory-logical)
 
 ## [Archives](archives/index.md)
 
