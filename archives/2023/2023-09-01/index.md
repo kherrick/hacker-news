@@ -70,6 +70,7 @@
 * [2023-09-01, 10:23:50](https://news.ycombinator.com/item?id=37348914) - [Apple Clarifies Why It Abandoned Plan to Detect CSAM in iCloud Photos](https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/)
 * [2023-09-01, 10:07:42](https://news.ycombinator.com/item?id=37348808) - [Lidl Product Recall [pdf]](https://www.lidl.co.uk/static/assets/Paw_Patrol_Public_Recall_poster-500790.pdf)
 * [2023-09-01, 09:24:11](https://news.ycombinator.com/item?id=37348539) - [Sparse Sets (2021)](https://manenko.com/2021/05/23/sparse-sets.html)
+* [2023-09-01, 08:42:31](https://news.ycombinator.com/item?id=37348267) - [NY Sales Tax Exemption for Computer Hardware Purchased for SW and Web Dev (2016)](https://wffacpa.com/ny-sales-tax-exemption-for-computer-hardware-purchased-for-software-web-design-development/)
 * [2023-09-01, 08:38:50](https://news.ycombinator.com/item?id=37348240) - [Learning For Mastery (1968) [pdf]](https://files.eric.ed.gov/fulltext/ED053419.pdf)
 * [2023-09-01, 08:38:50](https://news.ycombinator.com/item?id=37348240) - [Benjamin S. Bloom: Learning For Mastery (1968) [pdf]](http://www.researchforteachers.org.uk/sites/default/files/Docs/Bloom%20(1968)%20Learning%20for%20Mastery_0.pdf)
 * [2023-09-01, 08:27:21](https://news.ycombinator.com/item?id=37348162) - [Show HN: ChangeDetection, monitor any website change](https://github.com/dgtlmoon/changedetection.io)
