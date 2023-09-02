@@ -64,6 +64,7 @@
 * [2023-09-02, 07:42:05](https://news.ycombinator.com/item?id=37359298) - [Juice jacking: The urban legend about phone charging that just won’t die](https://www.vox.com/technology/2023/9/1/23850809/public-phone-charging-station-juice-jacking-airport-battery-fbi)
 * [2023-09-02, 07:40:12](https://news.ycombinator.com/item?id=37359287) - [Pooling and Sharing of wealth make everyone's wealth grow faster](https://ergodicityeconomics.com/2023/08/29/for-to-withhold-is-to-perish/)
 * [2023-09-02, 07:31:28](https://news.ycombinator.com/item?id=37359256) - [A Critical Analysis of the What3Words Geocoding Algorithm](https://arxiv.org/abs/2308.16025)
+* [2023-09-02, 07:29:48](https://news.ycombinator.com/item?id=37359250) - [The B Lane Swimmer](https://holly.witteman.ca/the-b-lane-swimmer/)
 * [2023-09-02, 07:26:31](https://news.ycombinator.com/item?id=37359238) - [Plan for 55,000-acre utopia dreamed by Silicon Valley elites unveiled](https://www.theguardian.com/technology/2023/sep/02/silicon-valley-elites-utopian-city-california)
 * [2023-09-02, 07:15:47](https://news.ycombinator.com/item?id=37359203) - [Become fundamentally strong in Data Science and AI](https://edu.machinelearningplus.com/s/pages/ds-career-path)
 * [2023-09-02, 07:12:34](https://news.ycombinator.com/item?id=37359193) - [The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
