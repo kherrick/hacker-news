@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-02](index.md)
 
+* [2023-09-02, 17:19:25](https://news.ycombinator.com/item?id=37363468) - [Sorry, Your Paper Coffee Cup Is a Toxic Nightmare](https://www.wired.com/story/paper-cups-toxic/)
 * [2023-09-02, 16:32:50](https://news.ycombinator.com/item?id=37363035) - [Top Russian rocket scientist dies from ‘mushroom poisoning’](https://ptv-news.com.pk/top-russian-rocket-scientist-dies-from-mushroom-poisoning/)
 * [2023-09-02, 15:18:04](https://news.ycombinator.com/item?id=37362273) - [Seek First to Understand](https://dannorth.net/2023/05/09/seek-first-to-understand/)
 * [2023-09-02, 15:13:06](https://news.ycombinator.com/item?id=37362227) - [Toml-bench – Which toml package to use in Python?](https://github.com/pwwang/toml-bench)

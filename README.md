@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-02, 17:19:25](https://news.ycombinator.com/item?id=37363468) - [Sorry, Your Paper Coffee Cup Is a Toxic Nightmare](https://www.wired.com/story/paper-cups-toxic/)
 * [2023-09-02, 16:32:50](https://news.ycombinator.com/item?id=37363035) - [Top Russian rocket scientist dies from ‘mushroom poisoning’](https://ptv-news.com.pk/top-russian-rocket-scientist-dies-from-mushroom-poisoning/)
 * [2023-09-02, 15:13:06](https://news.ycombinator.com/item?id=37362227) - [Toml-bench – Which toml package to use in Python?](https://github.com/pwwang/toml-bench)
 * [2023-09-02, 15:02:52](https://news.ycombinator.com/item?id=37362151) - [Show HN: XRss: An RSS Reader and web stack demo powered by Htmx](https://xrss.infogulch.com/)
 * [2023-09-02, 15:00:30](https://news.ycombinator.com/item?id=37362132) - [Can an Artificial Kidney Finally Free Patients from Dialysis?](https://www.ucsf.edu/news/2023/08/426056/can-artificial-kidney-finally-free-patients-dialysis)
 * [2023-09-02, 14:56:00](https://news.ycombinator.com/item?id=37362088) - [ForgeFed](https://forgefed.org/)
 * [2023-09-02, 14:41:45](https://news.ycombinator.com/item?id=37361947) - [The worst programmer I know](https://dannorth.net/2023/09/02/the-worst-programmer/)
-* [2023-09-02, 14:37:35](https://news.ycombinator.com/item?id=37361911) - [The myths we tell ourselves about American farming](https://www.vox.com/future-perfect/2023/8/31/23852325/farming-myths-agricultural-exceptionalism-pollution-labor-animal-welfare-laws)
 * [2023-09-02, 14:35:33](https://news.ycombinator.com/item?id=37361882) - [Spirituality of Science: Implications for Meaning, Well-Being, and Learning](https://journals.sagepub.com/doi/10.1177/01461672231191356)
 * [2023-09-02, 14:32:59](https://news.ycombinator.com/item?id=37361863) - [Groundwater depletion in India may triple due to climate warming, study finds](https://news.umich.edu/groundwater-depletion-rates-in-india-could-triple-in-coming-decades-as-climate-warms-study-shows/)
 * [2023-09-02, 13:41:54](https://news.ycombinator.com/item?id=37361462) - [Tesla, Rivian Put on Fake Show of Support for ‘Right to Repair’](https://www.techdirt.com/2023/09/01/tesla-rivian-put-on-fake-show-of-support-for-right-to-repair/)
