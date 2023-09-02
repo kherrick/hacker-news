@@ -2,7 +2,6 @@
 
 * [2023-09-02, 21:00:47](https://news.ycombinator.com/item?id=37365485) - [MindsDB (YC W20) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/mindsdb/jobs/wnUfBhO-senior-frontend-engineer)
 * [2023-09-02, 20:40:11](https://news.ycombinator.com/item?id=37365326) - [Burning Man attendees advised to shelter in place, conserve food/water](https://www.nbcnews.com/news/us-news/burning-man-attendees-advised-shelter-place-conserve-food-water-due-he-rcna103127)
-* [2023-09-02, 19:55:57](https://news.ycombinator.com/item?id=37364945) - [The game I've spent 3.5 years on has been rejected and retired by Steam today](https://sh.reddit.com/r/gamedev/comments/167iied/the_game_ive_spent_35_years_and_my_savings_on_has/)
 * [2023-09-02, 19:48:14](https://news.ycombinator.com/item?id=37364885) - [Calibre Replacement Considerations (2019)](https://anarc.at/software/desktop/calibre/)
 * [2023-09-02, 19:20:24](https://news.ycombinator.com/item?id=37364624) - [GameRoy: JIT Compilation in High-Accuracy Game Boy Emulation](https://rodrigodd.github.io/2023/09/02/gameroy-jit.html)
 * [2023-09-02, 19:19:21](https://news.ycombinator.com/item?id=37364611) - [DOS Game Club](https://www.dosgameclub.com/)
@@ -22,6 +21,7 @@
 * [2023-09-02, 12:55:11](https://news.ycombinator.com/item?id=37361094) - [On Craft](https://www.drcathicks.com/post/on-craft)
 * [2023-09-02, 12:50:09](https://news.ycombinator.com/item?id=37361050) - [Semantic Zoom](https://alexanderobenauer.com/labnotes/038/)
 * [2023-09-02, 10:40:26](https://news.ycombinator.com/item?id=37360251) - [A GPT-4 capability forecasting challenge](https://nicholas.carlini.com/writing/llm-forecast/question/Capital-of-Paris)
+* [2023-09-02, 10:39:50](https://news.ycombinator.com/item?id=37360249) - [Open-sourcing SQX, a way to build flexible database models in Go](https://stytch.com/blog/open-sourcing-sqx-a-way-to-build-flexible-database-models-in-go/)
 * [2023-09-02, 07:31:28](https://news.ycombinator.com/item?id=37359256) - [A Critical Analysis of the What3Words Geocoding Algorithm](https://arxiv.org/abs/2308.16025)
 * [2023-09-02, 07:29:48](https://news.ycombinator.com/item?id=37359250) - [The B Lane Swimmer](https://holly.witteman.ca/the-b-lane-swimmer/)
 * [2023-09-02, 07:12:34](https://news.ycombinator.com/item?id=37359193) - [The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
