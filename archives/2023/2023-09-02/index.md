@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-02](index.md)
 
+* [2023-09-02, 18:27:02](https://news.ycombinator.com/item?id=37364124) - [Show HN: Shaq, a CLI for Shazam](https://blog.yossarian.net/2023/07/27/Introducing-shaq-a-CLI-for-shazam)
 * [2023-09-02, 17:38:08](https://news.ycombinator.com/item?id=37363674) - [‘Conserve food and water’: No way in or out of Burning Man after storm](https://www.sfgate.com/travel/article/no-access-after-burning-man-rain-storm-18344393.php)
 * [2023-09-02, 17:33:15](https://news.ycombinator.com/item?id=37363623) - [In-memory vs. disk-based DB: Why do you need a larger than memory architecture?](https://memgraph.com/blog/in-memory-vs-disk-based-databases-larger-than-memory-architecture)
 * [2023-09-02, 17:32:55](https://news.ycombinator.com/item?id=37363616) - [Tax prep companies: $90M lobbying against free tax-filing](https://www.opensecrets.org/news/2023/09/tax-prep-companies-lobbying-against-free-file-face-scrutiny-from-lawmakers/)
