@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-02, 13:59:01](https://news.ycombinator.com/item?id=37361605) - [RIP, WordPad](https://www.thurrott.com/windows/windows-11/288088/rip-wordpad)
+* [2023-09-02, 13:51:30](https://news.ycombinator.com/item?id=37361532) - [Jimmy Buffett, Roguish Bard of Island Escapism, Is Dead at 76](https://www.nytimes.com/2023/09/02/arts/jimmy-buffett-dead.html)
 * [2023-09-02, 13:49:46](https://news.ycombinator.com/item?id=37361522) - [The US Military Is Getting Smaller, Cheaper and Smarter](https://www.bloomberg.com/opinion/articles/2023-09-01/pentagon-building-killer-drone-swarms-for-possible-war-against-china)
 * [2023-09-02, 13:41:54](https://news.ycombinator.com/item?id=37361462) - [Tesla, Rivian Put on Fake Show of Support for ‘Right to Repair’](https://www.techdirt.com/2023/09/01/tesla-rivian-put-on-fake-show-of-support-for-right-to-repair/)
 * [2023-09-02, 13:20:53](https://news.ycombinator.com/item?id=37361275) - [Windows NT 3.1](https://www.abortretry.fail/p/the-history-of-windows-nt-31)
@@ -8,7 +9,6 @@
 * [2023-09-02, 12:53:52](https://news.ycombinator.com/item?id=37361082) - [Samsung Unveils Industry's First 32Gbit DDR5 Memory Die: 1TB Modules Incoming](https://www.anandtech.com/show/20039/samsung-unveils-industrys-first-32gbit-ddr5-die-1tb-modules-incoming)
 * [2023-09-02, 12:50:09](https://news.ycombinator.com/item?id=37361050) - [Semantic Zoom](https://alexanderobenauer.com/labnotes/038/)
 * [2023-09-02, 12:08:25](https://news.ycombinator.com/item?id=37360762) - [Call of the Liar](https://nautil.us/call-of-the-liar-363420/)
-* [2023-09-02, 11:28:08](https://news.ycombinator.com/item?id=37360494) - [Rest in peace, neglected iTunes Movie Trailer app and website](https://arstechnica.com/gadgets/2023/09/rest-in-peace-neglected-itunes-movie-trailer-app-and-website/)
 * [2023-09-02, 10:40:26](https://news.ycombinator.com/item?id=37360251) - [A GPT-4 capability forecasting challenge](https://nicholas.carlini.com/writing/llm-forecast/question/Capital-of-Paris)
 * [2023-09-02, 10:39:50](https://news.ycombinator.com/item?id=37360249) - [Open-sourcing SQX, a way to build flexible database models in Go](https://stytch.com/blog/open-sourcing-sqx-a-way-to-build-flexible-database-models-in-go/)
 * [2023-09-02, 10:28:02](https://news.ycombinator.com/item?id=37360186) - [Recursive Racks [video]](https://www.youtube.com/watch?v=ckrrQTkTqIo)
