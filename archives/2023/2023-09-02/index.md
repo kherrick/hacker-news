@@ -6,6 +6,7 @@
 
 * [2023-09-02, 21:00:47](https://news.ycombinator.com/item?id=37365485) - [MindsDB (YC W20) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/mindsdb/jobs/wnUfBhO-senior-frontend-engineer)
 * [2023-09-02, 20:40:11](https://news.ycombinator.com/item?id=37365326) - [Burning Man attendees advised to shelter in place, conserve food/water](https://www.nbcnews.com/news/us-news/burning-man-attendees-advised-shelter-place-conserve-food-water-due-he-rcna103127)
+* [2023-09-02, 19:55:57](https://news.ycombinator.com/item?id=37364945) - [The game I've spent 3.5 years on has been rejected and retired by Steam today](https://sh.reddit.com/r/gamedev/comments/167iied/the_game_ive_spent_35_years_and_my_savings_on_has/)
 * [2023-09-02, 19:48:14](https://news.ycombinator.com/item?id=37364885) - [Calibre Replacement Considerations](https://anarc.at/software/desktop/calibre/)
 * [2023-09-02, 19:32:25](https://news.ycombinator.com/item?id=37364753) - [Insights into prostitution by former receptionist presents harrowing reality](https://www.adoptnordicwa.org/uncategorized/insights-into-prostitution-by-former-receptionist-presents-harrowing-reality/)
 * [2023-09-02, 19:20:24](https://news.ycombinator.com/item?id=37364624) - [GameRoy: JIT Compilation in High-Accuracy Game Boy Emulation](https://rodrigodd.github.io/2023/09/02/gameroy-jit.html)
