@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-02, 17:33:15](https://news.ycombinator.com/item?id=37363623) - [In-memory vs. disk-based DB: Why do you need a larger than memory architecture?](https://memgraph.com/blog/in-memory-vs-disk-based-databases-larger-than-memory-architecture)
+* [2023-09-02, 17:22:22](https://news.ycombinator.com/item?id=37363505) - [Renting vs. Owning a Home, by State](https://flowingdata.com/2023/08/25/renting-vs-owning-a-home-by-state/)
 * [2023-09-02, 17:19:25](https://news.ycombinator.com/item?id=37363468) - [Sorry, Your Paper Coffee Cup Is a Toxic Nightmare](https://www.wired.com/story/paper-cups-toxic/)
 * [2023-09-02, 17:08:46](https://news.ycombinator.com/item?id=37363362) - [Recursively Summarizing Enables Long-Term Dialogue Memory in LLMs](https://arxiv.org/abs/2308.15022)
 * [2023-09-02, 16:32:50](https://news.ycombinator.com/item?id=37363035) - [Top Russian rocket scientist dies from ‘mushroom poisoning’](https://ptv-news.com.pk/top-russian-rocket-scientist-dies-from-mushroom-poisoning/)
@@ -22,10 +24,8 @@
 * [2023-09-02, 07:01:07](https://news.ycombinator.com/item?id=37359146) - [PlayHT (YC W23) Is Hiring Senior ML Engineers (LLMs, Generative AI)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 * [2023-09-02, 04:30:35](https://news.ycombinator.com/item?id=37358577) - [The tensor product, demystified (2018)](https://www.math3ma.com/blog/the-tensor-product-demystified)
 * [2023-09-02, 03:41:42](https://news.ycombinator.com/item?id=37358400) - [How to edit your own lousy writing (2017)](https://stingingfly.org/2017/10/24/edit-lousy-writing/)
-* [2023-09-01, 21:46:05](https://news.ycombinator.com/item?id=37356497) - [Wavacity – a FOSS port of Audacity to the web](https://wavacity.com/)
 * [2023-09-01, 19:45:15](https://news.ycombinator.com/item?id=37355372) - [Qakbot takedown payload analysis](https://cyber.wtf/2023/09/01/qakbot-takedown-payload-analysis/)
 * [2023-09-01, 18:14:41](https://news.ycombinator.com/item?id=37354377) - [The Transformations of Science](https://www.palladiummag.com/2022/10/10/the-transformations-of-science/)
-* [2023-09-01, 16:31:03](https://news.ycombinator.com/item?id=37352970) - [Doing laundry on campus without a phone](https://naveenarun.wordpress.com/2023/08/31/doing-laundry-on-campus-without-a-phone/)
 * [2023-09-01, 14:37:11](https://news.ycombinator.com/item?id=37351373) - [Indian Influences on Rastafarianism](https://kb.osu.edu/handle/1811/28443)
 * [2023-09-01, 07:21:26](https://news.ycombinator.com/item?id=37347757) - [EXPI by p01](http://www.p01.org/expi/)
 * [2023-09-01, 03:46:05](https://news.ycombinator.com/item?id=37346585) - [The Making of EP Thompson](https://www.newstatesman.com/culture/history/2023/08/making-ep-thompson)

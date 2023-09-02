@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-02](index.md)
 
+* [2023-09-02, 17:33:15](https://news.ycombinator.com/item?id=37363623) - [In-memory vs. disk-based DB: Why do you need a larger than memory architecture?](https://memgraph.com/blog/in-memory-vs-disk-based-databases-larger-than-memory-architecture)
+* [2023-09-02, 17:22:22](https://news.ycombinator.com/item?id=37363505) - [Renting vs. Owning a Home, by State](https://flowingdata.com/2023/08/25/renting-vs-owning-a-home-by-state/)
 * [2023-09-02, 17:19:25](https://news.ycombinator.com/item?id=37363468) - [Sorry, Your Paper Coffee Cup Is a Toxic Nightmare](https://www.wired.com/story/paper-cups-toxic/)
 * [2023-09-02, 17:08:46](https://news.ycombinator.com/item?id=37363362) - [Recursively Summarizing Enables Long-Term Dialogue Memory in LLMs](https://arxiv.org/abs/2308.15022)
 * [2023-09-02, 16:32:50](https://news.ycombinator.com/item?id=37363035) - [Top Russian rocket scientist dies from ‘mushroom poisoning’](https://ptv-news.com.pk/top-russian-rocket-scientist-dies-from-mushroom-poisoning/)
