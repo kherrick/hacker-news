@@ -26,6 +26,7 @@
 * [2023-09-01, 17:26:44](https://news.ycombinator.com/item?id=37353770) - [Govt of Canada proposes a 4% Link Tax](https://www.michaelgeist.ca/2023/09/a-4-link-tax-why-the-governments-draft-bill-c-18-regulations-just-increased-the-chances-of-no-news-on-meta-and-google-in-canada/)
 * [2023-09-01, 17:02:58](https://news.ycombinator.com/item?id=37353436) - [Pysentation – The Python Presentation](https://github.com/mimseyedi/pysentation)
 * [2023-09-01, 16:31:42](https://news.ycombinator.com/item?id=37352983) - [Ask HN: Any LAN alternatives other than PowerLine or MOCA?](https://news.ycombinator.com/item?id=37352983)
+* [2023-09-01, 16:31:03](https://news.ycombinator.com/item?id=37352970) - [Doing laundry on campus without a phone](https://naveenarun.wordpress.com/2023/08/31/doing-laundry-on-campus-without-a-phone/)
 * [2023-09-01, 16:29:57](https://news.ycombinator.com/item?id=37352955) - [Optimizing Postgres's autovacuum for high-churn tables](https://tembo.io/blog/optimizing-postgres-auto-vacuum/)
 * [2023-09-01, 16:20:39](https://news.ycombinator.com/item?id=37352805) - [Robinhood to buy back Bankman-Fried’s stake for $605M from U.S. government](https://www.cnbc.com/2023/09/01/robinhood-to-buy-back-bankman-frieds-stake-for-605point7-mln-from-us-govt.html)
 * [2023-09-01, 16:20:33](https://news.ycombinator.com/item?id=37352803) - [Browser extensions spy on you, even if its developers don't](https://vitonsky.net/blog/2023/09/01/malware-in-browser-extensions/)
