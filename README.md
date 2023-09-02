@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-02, 07:42:05](https://news.ycombinator.com/item?id=37359298) - [Juice jacking: The urban legend about phone charging that just won’t die](https://www.vox.com/technology/2023/9/1/23850809/public-phone-charging-station-juice-jacking-airport-battery-fbi)
+* [2023-09-02, 07:58:17](https://news.ycombinator.com/item?id=37359395) - [Not a single emperor penguin chick survived spring in parts of Antarctica](https://www.smh.com.au/environment/climate-change/not-a-single-emperor-penguin-chick-survived-spring-in-parts-of-antarctica-20230822-p5dykw.html)
 * [2023-09-02, 07:40:12](https://news.ycombinator.com/item?id=37359287) - [Pooling and Sharing of wealth make everyone's wealth grow faster](https://ergodicityeconomics.com/2023/08/29/for-to-withhold-is-to-perish/)
 * [2023-09-02, 07:31:28](https://news.ycombinator.com/item?id=37359256) - [A Critical Analysis of the What3Words Geocoding Algorithm](https://arxiv.org/abs/2308.16025)
 * [2023-09-02, 07:12:34](https://news.ycombinator.com/item?id=37359193) - [The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
