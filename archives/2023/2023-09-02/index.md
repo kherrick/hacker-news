@@ -6,6 +6,7 @@
 
 * [2023-09-02, 15:18:04](https://news.ycombinator.com/item?id=37362273) - [Seek First to Understand](https://dannorth.net/2023/05/09/seek-first-to-understand/)
 * [2023-09-02, 15:13:06](https://news.ycombinator.com/item?id=37362227) - [Toml-bench – Which toml package to use in Python?](https://github.com/pwwang/toml-bench)
+* [2023-09-02, 15:09:35](https://news.ycombinator.com/item?id=37362200) - [Ask HN: How to Focus Again?](https://news.ycombinator.com/item?id=37362200)
 * [2023-09-02, 15:07:35](https://news.ycombinator.com/item?id=37362181) - [Why the Apple phone will fail, and fail badly (2006)](https://web.archive.org/web/20070117233154/https://www.theregister.com/2006/12/23/iphone_will_fail/)
 * [2023-09-02, 15:02:52](https://news.ycombinator.com/item?id=37362151) - [Show HN: XRss: An RSS Reader and web stack demo powered by Htmx](https://xrss.infogulch.com/)
 * [2023-09-02, 15:00:30](https://news.ycombinator.com/item?id=37362132) - [Can an Artificial Kidney Finally Free Patients from Dialysis?](https://www.ucsf.edu/news/2023/08/426056/can-artificial-kidney-finally-free-patients-dialysis)
