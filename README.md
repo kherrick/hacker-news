@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-02, 13:34:51](https://news.ycombinator.com/item?id=37361396) - [Cops drill into chat apps, sink plot to smuggle tons of coke into Europe](https://www.theregister.com/2023/09/02/europol_balkan_cartel/)
 * [2023-09-02, 13:20:53](https://news.ycombinator.com/item?id=37361275) - [Windows NT 3.1](https://www.abortretry.fail/p/the-history-of-windows-nt-31)
 * [2023-09-02, 13:04:01](https://news.ycombinator.com/item?id=37361139) - [Two years of Bitcoin in Bukele’s El Salvador](https://english.elpais.com/international/2023-09-02/two-years-of-bitcoin-in-bukeles-el-salvador-an-opaque-experiment-with-a-little-used-currency.html)
 * [2023-09-02, 12:55:11](https://news.ycombinator.com/item?id=37361094) - [On Craft](https://www.drcathicks.com/post/on-craft)
@@ -22,7 +23,6 @@
 * [2023-09-01, 17:44:36](https://news.ycombinator.com/item?id=37354000) - [Doug Lenat has died](https://garymarcus.substack.com/p/doug-lenat-1950-2023)
 * [2023-09-01, 16:31:03](https://news.ycombinator.com/item?id=37352970) - [Doing laundry on campus without a phone](https://naveenarun.wordpress.com/2023/08/31/doing-laundry-on-campus-without-a-phone/)
 * [2023-09-01, 16:29:57](https://news.ycombinator.com/item?id=37352955) - [Optimizing Postgres's autovacuum for high-churn tables](https://tembo.io/blog/optimizing-postgres-auto-vacuum/)
-* [2023-09-01, 15:10:08](https://news.ycombinator.com/item?id=37351831) - [A Duodecade of Numberphile](https://www.tandfonline.com/doi/full/10.1080/10724117.2023.2224682)
 * [2023-09-01, 15:00:25](https://news.ycombinator.com/item?id=37351667) - [Ask HN: Who is hiring? (September 2023)](https://news.ycombinator.com/item?id=37351667)
 * [2023-09-01, 14:37:11](https://news.ycombinator.com/item?id=37351373) - [Indian Influences on Rastafarianism](https://kb.osu.edu/handle/1811/28443)
 * [2023-09-01, 12:31:56](https://news.ycombinator.com/item?id=37349988) - [The Pitfalls of Familiarity](https://yohanestheda.medium.com/the-pitfalls-of-familiarity-14123c09f20a)
