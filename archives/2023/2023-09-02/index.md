@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-02](index.md)
 
+* [2023-09-02, 12:08:25](https://news.ycombinator.com/item?id=37360762) - [Call of the Liar](https://nautil.us/call-of-the-liar-363420/)
+* [2023-09-02, 12:08:11](https://news.ycombinator.com/item?id=37360760) - [Tesla breaks down mid-turn and causes more than nine hours of travel chaos](https://www.telegraph.co.uk/news/2023/09/01/tesla-model-3-breaks-down-salisbury-elon-musk-electric-cars/)
 * [2023-09-02, 11:28:08](https://news.ycombinator.com/item?id=37360494) - [Rest in peace, neglected iTunes Movie Trailer app and website](https://arstechnica.com/gadgets/2023/09/rest-in-peace-neglected-itunes-movie-trailer-app-and-website/)
 * [2023-09-02, 10:43:41](https://news.ycombinator.com/item?id=37360269) - [33% of Gamers Are Disabled](https://news.sky.com/story/why-gaming-is-not-just-a-hobby-but-a-lifeline-for-millions-of-gamers-12952807)
 * [2023-09-02, 10:40:26](https://news.ycombinator.com/item?id=37360251) - [A GPT-4 capability forecasting challenge](https://nicholas.carlini.com/writing/llm-forecast/question/Capital-of-Paris)

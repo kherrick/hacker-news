@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-02, 12:08:25](https://news.ycombinator.com/item?id=37360762) - [Call of the Liar](https://nautil.us/call-of-the-liar-363420/)
+* [2023-09-02, 12:08:11](https://news.ycombinator.com/item?id=37360760) - [Tesla breaks down mid-turn and causes more than nine hours of travel chaos](https://www.telegraph.co.uk/news/2023/09/01/tesla-model-3-breaks-down-salisbury-elon-musk-electric-cars/)
 * [2023-09-02, 11:28:08](https://news.ycombinator.com/item?id=37360494) - [Rest in peace, neglected iTunes Movie Trailer app and website](https://arstechnica.com/gadgets/2023/09/rest-in-peace-neglected-itunes-movie-trailer-app-and-website/)
 * [2023-09-02, 10:40:26](https://news.ycombinator.com/item?id=37360251) - [A GPT-4 capability forecasting challenge](https://nicholas.carlini.com/writing/llm-forecast/question/Capital-of-Paris)
-* [2023-09-02, 07:40:12](https://news.ycombinator.com/item?id=37359287) - [Pooling and Sharing of wealth makes everyone's wealth grow faster](https://ergodicityeconomics.com/2023/08/29/for-to-withhold-is-to-perish/)
 * [2023-09-02, 07:31:28](https://news.ycombinator.com/item?id=37359256) - [A Critical Analysis of the What3Words Geocoding Algorithm](https://arxiv.org/abs/2308.16025)
 * [2023-09-02, 07:12:34](https://news.ycombinator.com/item?id=37359193) - [The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
 * [2023-09-02, 07:01:07](https://news.ycombinator.com/item?id=37359146) - [PlayHT (YC W23) Is Hiring Senior ML Engineers (LLMs, Generative AI)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
@@ -24,7 +25,6 @@
 * [2023-09-01, 08:45:19](https://news.ycombinator.com/item?id=37348284) - [What is the origin of passwords submitted to honeypots?](https://isc.sans.edu/diary/What+is+the+origin+of+passwords+submitted+to+honeypots/30182)
 * [2023-09-01, 08:38:50](https://news.ycombinator.com/item?id=37348240) - [Learning For Mastery (1968) [pdf]](https://files.eric.ed.gov/fulltext/ED053419.pdf)
 * [2023-09-01, 08:14:25](https://news.ycombinator.com/item?id=37348079) - [Becoming a Contractor](https://ochagavia.nl/blog/becoming-a-contractor/)
-* [2023-09-01, 07:47:23](https://news.ycombinator.com/item?id=37347903) - [Homographies: Looking through a pinhole](https://www.maxwellrules.com/math/looking_through_a_pinhole.html)
 * [2023-09-01, 07:15:05](https://news.ycombinator.com/item?id=37347718) - [The Four Color Theorem [video]](https://www.youtube.com/watch?v=h7kqlYUV1l8)
 * [2023-09-01, 06:16:55](https://news.ycombinator.com/item?id=37347447) - [Organic Maps](https://organicmaps.app/)
 * [2023-09-01, 01:56:34](https://news.ycombinator.com/item?id=37345892) - [What are dreams for?](https://www.newyorker.com/science/elements/what-are-dreams-for)
