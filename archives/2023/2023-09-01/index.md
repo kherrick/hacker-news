@@ -80,6 +80,7 @@
 * [2023-09-01, 08:12:36](https://news.ycombinator.com/item?id=37348066) - [Emulating x86 on Apple’s AARCH64 X64 Emulator](https://hackaday.com/2023/08/31/emulating-x86-on-apples-aarch64-x64-emulator/)
 * [2023-09-01, 08:11:09](https://news.ycombinator.com/item?id=37348052) - [The Practical Effects Wizardry of Dungeons and Dragons: Honor Among Thieves](https://www.stanwinstonschool.com/blog/practical-effects-wizardry-of-dungeons-and-dragons-honor-among-thieves-legacy-effects-behind-the-scenes)
 * [2023-09-01, 08:07:14](https://news.ycombinator.com/item?id=37348036) - [Amateur Astronomers Spot New Impact On Jupiter](https://www.space.com/amateur-astronomers-jupiter-cosmic-collision)
+* [2023-09-01, 07:47:23](https://news.ycombinator.com/item?id=37347903) - [Homographies: Looking through a pinhole](https://www.maxwellrules.com/math/looking_through_a_pinhole.html)
 * [2023-09-01, 07:21:26](https://news.ycombinator.com/item?id=37347757) - [EXPI by p01](http://www.p01.org/expi/)
 * [2023-09-01, 07:15:05](https://news.ycombinator.com/item?id=37347718) - [The Four Color Theorem [video]](https://www.youtube.com/watch?v=h7kqlYUV1l8)
 * [2023-09-01, 06:58:49](https://news.ycombinator.com/item?id=37347657) - [Ask HN: What is your policy regarding smartphones for your children?](https://news.ycombinator.com/item?id=37347657)
