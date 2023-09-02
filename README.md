@@ -3,6 +3,7 @@
 * [2023-09-02, 07:58:17](https://news.ycombinator.com/item?id=37359395) - [Not a single emperor penguin chick survived spring in parts of Antarctica](https://www.smh.com.au/environment/climate-change/not-a-single-emperor-penguin-chick-survived-spring-in-parts-of-antarctica-20230822-p5dykw.html)
 * [2023-09-02, 07:40:12](https://news.ycombinator.com/item?id=37359287) - [Pooling and Sharing of wealth make everyone's wealth grow faster](https://ergodicityeconomics.com/2023/08/29/for-to-withhold-is-to-perish/)
 * [2023-09-02, 07:31:28](https://news.ycombinator.com/item?id=37359256) - [A Critical Analysis of the What3Words Geocoding Algorithm](https://arxiv.org/abs/2308.16025)
+* [2023-09-02, 07:26:31](https://news.ycombinator.com/item?id=37359238) - [Plan for 55,000-acre utopia dreamed by Silicon Valley elites unveiled](https://www.theguardian.com/technology/2023/sep/02/silicon-valley-elites-utopian-city-california)
 * [2023-09-02, 07:12:34](https://news.ycombinator.com/item?id=37359193) - [The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
 * [2023-09-02, 07:01:07](https://news.ycombinator.com/item?id=37359146) - [PlayHT (YC W23) Is Hiring Senior ML Engineers (LLMs, Generative AI)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 * [2023-09-02, 04:21:25](https://news.ycombinator.com/item?id=37358541) - [Invariants: A Better Debugger?](https://brooker.co.za/blog/2023/07/28/ds-testing.html)
@@ -27,7 +28,6 @@
 * [2023-09-01, 08:07:14](https://news.ycombinator.com/item?id=37348036) - [Amateur astronomers spot new impact on Jupiter](https://www.space.com/amateur-astronomers-jupiter-cosmic-collision)
 * [2023-09-01, 07:47:23](https://news.ycombinator.com/item?id=37347903) - [Homographies: Looking through a pinhole](https://www.maxwellrules.com/math/looking_through_a_pinhole.html)
 * [2023-09-01, 07:15:05](https://news.ycombinator.com/item?id=37347718) - [The Four Color Theorem [video]](https://www.youtube.com/watch?v=h7kqlYUV1l8)
-* [2023-09-01, 06:58:49](https://news.ycombinator.com/item?id=37347657) - [Ask HN: What is your policy regarding smartphones for your children?](https://news.ycombinator.com/item?id=37347657)
 * [2023-09-01, 06:16:55](https://news.ycombinator.com/item?id=37347447) - [Organic Maps](https://organicmaps.app/)
 * [2023-08-31, 07:07:12](https://news.ycombinator.com/item?id=37333508) - [Unicode 88 (1988) [pdf]](https://www.unicode.org/history/unicode88.pdf)
 
