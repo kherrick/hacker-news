@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-02, 19:12:36](https://news.ycombinator.com/item?id=37364544) - [Why There Is No Moral ‘Right to Strike’](https://fee.org/articles/why-there-is-no-moral-right-to-strike/)
 * [2023-09-02, 18:56:08](https://news.ycombinator.com/item?id=37364388) - [Found in a Library Book](https://oaklandlibrary.org/found-in-a-library-book/)
 * [2023-09-02, 18:27:02](https://news.ycombinator.com/item?id=37364124) - [Show HN: Shaq, a CLI for Shazam](https://blog.yossarian.net/2023/07/27/Introducing-shaq-a-CLI-for-shazam)
 * [2023-09-02, 17:38:08](https://news.ycombinator.com/item?id=37363674) - [‘Conserve food and water’: No way in or out of Burning Man after storm](https://www.sfgate.com/travel/article/no-access-after-burning-man-rain-storm-18344393.php)
@@ -25,6 +24,7 @@
 * [2023-09-02, 07:31:28](https://news.ycombinator.com/item?id=37359256) - [A Critical Analysis of the What3Words Geocoding Algorithm](https://arxiv.org/abs/2308.16025)
 * [2023-09-02, 07:12:34](https://news.ycombinator.com/item?id=37359193) - [The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
 * [2023-09-02, 07:01:07](https://news.ycombinator.com/item?id=37359146) - [PlayHT (YC W23) Is Hiring Senior ML Engineers (LLMs, Generative AI)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
+* [2023-09-02, 04:30:35](https://news.ycombinator.com/item?id=37358577) - [The tensor product, demystified (2018)](https://www.math3ma.com/blog/the-tensor-product-demystified)
 * [2023-09-01, 19:50:16](https://news.ycombinator.com/item?id=37355429) - [Restarting macOS apps automatically on crash](https://notes.alinpanaitiu.com/Restarting-macOS-apps-automatically-on-crash)
 * [2023-09-01, 19:45:15](https://news.ycombinator.com/item?id=37355372) - [Qakbot takedown payload analysis](https://cyber.wtf/2023/09/01/qakbot-takedown-payload-analysis/)
 * [2023-09-01, 18:14:41](https://news.ycombinator.com/item?id=37354377) - [The Transformations of Science](https://www.palladiummag.com/2022/10/10/the-transformations-of-science/)
