@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-02, 19:48:14",
+      "https://news.ycombinator.com/item?id=37364885"
+    ],
+    [
+      "Calibre Replacement Considerations",
+      "https://anarc.at/software/desktop/calibre/"
+    ]
+  ],
+  [
+    [
       "2023-09-02, 19:19:21",
       "https://news.ycombinator.com/item?id=37364611"
     ],
@@ -17,6 +27,16 @@
     [
       "Found in a Library Book",
       "https://oaklandlibrary.org/found-in-a-library-book/"
+    ]
+  ],
+  [
+    [
+      "2023-09-02, 18:45:07",
+      "https://news.ycombinator.com/item?id=37364290"
+    ],
+    [
+      "Show HN: I mirrored all the code from PyPI to GitHub and analysed it",
+      "https://py-code.org/stats"
     ]
   ],
   [
@@ -231,22 +251,22 @@
   ],
   [
     [
-      "2023-09-02, 07:01:07",
-      "https://news.ycombinator.com/item?id=37359146"
+      "2023-09-02, 03:58:45",
+      "https://news.ycombinator.com/item?id=37358468"
     ],
     [
-      "PlayHT (YC W23) Is Hiring Senior ML Engineers (LLMs, Generative AI)",
-      "https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models"
+      "The Craft of Experimental Physics (2015)",
+      "http://www.jameshedberg.com/writing/2015/02/01/the-craft-of-experimental-physics.html"
     ]
   ],
   [
     [
-      "2023-09-02, 04:30:35",
-      "https://news.ycombinator.com/item?id=37358577"
+      "2023-09-02, 02:19:39",
+      "https://news.ycombinator.com/item?id=37358063"
     ],
     [
-      "The tensor product, demystified (2018)",
-      "https://www.math3ma.com/blog/the-tensor-product-demystified"
+      "Build Your Own Flight Sim in C++ (1996)",
+      "https://archive.org/details/build-your-own-flight-sim-in-c-dos-game-dev-michael-radtke-chris-lampton"
     ]
   ],
   [
@@ -257,16 +277,6 @@
     [
       "Restarting macOS apps automatically on crash",
       "https://notes.alinpanaitiu.com/Restarting-macOS-apps-automatically-on-crash"
-    ]
-  ],
-  [
-    [
-      "2023-09-01, 19:45:15",
-      "https://news.ycombinator.com/item?id=37355372"
-    ],
-    [
-      "Qakbot takedown payload analysis",
-      "https://cyber.wtf/2023/09/01/qakbot-takedown-payload-analysis/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Intel shows off 8-core, 528-thread processor with 1TB/s of co-packaged optics",
       "https://www.theregister.com/2023/09/01/intel_graph_analytics_chip/"
-    ]
-  ],
-  [
-    [
-      "2023-09-01, 03:46:05",
-      "https://news.ycombinator.com/item?id=37346585"
-    ],
-    [
-      "The Making of EP Thompson",
-      "https://www.newstatesman.com/culture/history/2023/08/making-ep-thompson"
     ]
   ]
 ]
