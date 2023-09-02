@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-02, 01:48:41](https://news.ycombinator.com/item?id=37357928) - [Csound](https://csound.com/get-started.html#your-first-synthesiser)
+* [2023-09-02, 03:41:42](https://news.ycombinator.com/item?id=37358400) - [How to Edit Your Own Lousy Writing](https://stingingfly.org/2017/10/24/edit-lousy-writing/)
 * [2023-09-01, 22:43:55](https://news.ycombinator.com/item?id=37356925) - [Explaining the Postgres iceberg](https://avestura.dev/blog/explaining-the-postgres-meme)
 * [2023-09-01, 21:46:05](https://news.ycombinator.com/item?id=37356497) - [Wavacity – a FOSS port of Audacity to the web](https://wavacity.com/)
 * [2023-09-01, 21:00:17](https://news.ycombinator.com/item?id=37356124) - [Bright (YC W15) Is Hiring](https://www.careersatbright.com/jobs-2/bright-frontend-engineer)
