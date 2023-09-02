@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-02, 10:43:41](https://news.ycombinator.com/item?id=37360269) - [33% of Gamers Are Disabled](https://news.sky.com/story/why-gaming-is-not-just-a-hobby-but-a-lifeline-for-millions-of-gamers-12952807)
 * [2023-09-02, 07:58:17](https://news.ycombinator.com/item?id=37359395) - [Not a single emperor penguin chick survived spring in parts of Antarctica](https://www.smh.com.au/environment/climate-change/not-a-single-emperor-penguin-chick-survived-spring-in-parts-of-antarctica-20230822-p5dykw.html)
 * [2023-09-02, 07:40:12](https://news.ycombinator.com/item?id=37359287) - [Pooling and Sharing of wealth makes everyone's wealth grow faster](https://ergodicityeconomics.com/2023/08/29/for-to-withhold-is-to-perish/)
 * [2023-09-02, 07:31:28](https://news.ycombinator.com/item?id=37359256) - [A Critical Analysis of the What3Words Geocoding Algorithm](https://arxiv.org/abs/2308.16025)
@@ -23,7 +24,6 @@
 * [2023-09-01, 15:00:25](https://news.ycombinator.com/item?id=37351667) - [Ask HN: Who is hiring? (September 2023)](https://news.ycombinator.com/item?id=37351667)
 * [2023-09-01, 14:37:11](https://news.ycombinator.com/item?id=37351373) - [Indian Influences on Rastafarianism](https://kb.osu.edu/handle/1811/28443)
 * [2023-09-01, 08:45:19](https://news.ycombinator.com/item?id=37348284) - [What is the origin of passwords submitted to honeypots?](https://isc.sans.edu/diary/What+is+the+origin+of+passwords+submitted+to+honeypots/30182)
-* [2023-09-01, 08:38:50](https://news.ycombinator.com/item?id=37348240) - [Learning For Mastery (1968) [pdf]](https://files.eric.ed.gov/fulltext/ED053419.pdf)
 * [2023-09-01, 08:14:25](https://news.ycombinator.com/item?id=37348079) - [Becoming a Contractor](https://ochagavia.nl/blog/becoming-a-contractor/)
 * [2023-09-01, 08:07:14](https://news.ycombinator.com/item?id=37348036) - [Amateur astronomers spot new impact on Jupiter](https://www.space.com/amateur-astronomers-jupiter-cosmic-collision)
 * [2023-09-01, 06:16:55](https://news.ycombinator.com/item?id=37347447) - [Organic Maps](https://organicmaps.app/)
