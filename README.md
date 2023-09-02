@@ -2,7 +2,6 @@
 
 * [2023-09-02, 07:01:07](https://news.ycombinator.com/item?id=37359146) - [PlayHT (YC W23) Is Hiring Senior ML Engineers (LLMs, Generative AI)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 * [2023-09-02, 06:25:52](https://news.ycombinator.com/item?id=37359013) - [Is the ChatGPT and Bing AI boom already over?](https://www.vox.com/technology/2023/8/19/23837705/openai-chatgpt-microsoft-bing-google-generating-less-interest)
-* [2023-09-02, 04:21:25](https://news.ycombinator.com/item?id=37358541) - [Invariants: A Better Debugger?](https://brooker.co.za/blog/2023/07/28/ds-testing.html)
 * [2023-09-02, 04:10:24](https://news.ycombinator.com/item?id=37358508) - [WAPO: Fatal Force DB](https://github.com/washingtonpost/data-police-shootings)
 * [2023-09-02, 03:41:42](https://news.ycombinator.com/item?id=37358400) - [How to edit your own lousy writing (2017)](https://stingingfly.org/2017/10/24/edit-lousy-writing/)
 * [2023-09-02, 01:48:41](https://news.ycombinator.com/item?id=37357928) - [Csound](https://csound.com/get-started.html)
@@ -27,6 +26,7 @@
 * [2023-09-01, 08:14:25](https://news.ycombinator.com/item?id=37348079) - [Becoming a Contractor](https://ochagavia.nl/blog/becoming-a-contractor/)
 * [2023-09-01, 08:07:14](https://news.ycombinator.com/item?id=37348036) - [Amateur astronomers spot new impact on Jupiter](https://www.space.com/amateur-astronomers-jupiter-cosmic-collision)
 * [2023-09-01, 07:47:23](https://news.ycombinator.com/item?id=37347903) - [Homographies: Looking through a pinhole](https://www.maxwellrules.com/math/looking_through_a_pinhole.html)
+* [2023-09-01, 07:15:05](https://news.ycombinator.com/item?id=37347718) - [The Four Color Theorem [video]](https://www.youtube.com/watch?v=h7kqlYUV1l8)
 * [2023-09-01, 06:58:49](https://news.ycombinator.com/item?id=37347657) - [Ask HN: What is your policy regarding smartphones for your children?](https://news.ycombinator.com/item?id=37347657)
 * [2023-09-01, 06:16:55](https://news.ycombinator.com/item?id=37347447) - [Organic Maps](https://organicmaps.app/)
 * [2023-08-31, 07:07:12](https://news.ycombinator.com/item?id=37333508) - [Unicode 88 (1988) [pdf]](https://www.unicode.org/history/unicode88.pdf)
