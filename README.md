@@ -2,7 +2,6 @@
 
 * [2023-09-02, 19:48:14](https://news.ycombinator.com/item?id=37364885) - [Calibre Replacement Considerations](https://anarc.at/software/desktop/calibre/)
 * [2023-09-02, 19:19:21](https://news.ycombinator.com/item?id=37364611) - [DOS Game Club](https://www.dosgameclub.com/)
-* [2023-09-02, 19:18:55](https://news.ycombinator.com/item?id=37364605) - [PSA: Don't base your business around Discord.7yr account banned for posting ASNs](https://news.ycombinator.com/item?id=37364605)
 * [2023-09-02, 18:56:08](https://news.ycombinator.com/item?id=37364388) - [Found in a Library Book](https://oaklandlibrary.org/found-in-a-library-book/)
 * [2023-09-02, 18:45:07](https://news.ycombinator.com/item?id=37364290) - [Show HN: I mirrored all the code from PyPI to GitHub and analysed it](https://py-code.org/stats)
 * [2023-09-02, 18:27:02](https://news.ycombinator.com/item?id=37364124) - [Show HN: Shaq, a CLI for Shazam](https://blog.yossarian.net/2023/07/27/Introducing-shaq-a-CLI-for-shazam)
@@ -24,6 +23,7 @@
 * [2023-09-02, 10:39:50](https://news.ycombinator.com/item?id=37360249) - [Open-sourcing SQX, a way to build flexible database models in Go](https://stytch.com/blog/open-sourcing-sqx-a-way-to-build-flexible-database-models-in-go/)
 * [2023-09-02, 07:31:28](https://news.ycombinator.com/item?id=37359256) - [A Critical Analysis of the What3Words Geocoding Algorithm](https://arxiv.org/abs/2308.16025)
 * [2023-09-02, 07:12:34](https://news.ycombinator.com/item?id=37359193) - [The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
+* [2023-09-02, 04:30:35](https://news.ycombinator.com/item?id=37358577) - [The tensor product, demystified (2018)](https://www.math3ma.com/blog/the-tensor-product-demystified)
 * [2023-09-02, 03:58:45](https://news.ycombinator.com/item?id=37358468) - [The Craft of Experimental Physics (2015)](http://www.jameshedberg.com/writing/2015/02/01/the-craft-of-experimental-physics.html)
 * [2023-09-02, 02:19:39](https://news.ycombinator.com/item?id=37358063) - [Build Your Own Flight Sim in C++ (1996)](https://archive.org/details/build-your-own-flight-sim-in-c-dos-game-dev-michael-radtke-chris-lampton)
 * [2023-09-01, 19:50:16](https://news.ycombinator.com/item?id=37355429) - [Restarting macOS apps automatically on crash](https://notes.alinpanaitiu.com/Restarting-macOS-apps-automatically-on-crash)
