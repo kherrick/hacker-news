@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-02, 14:54:31",
+      "https://news.ycombinator.com/item?id=37362072"
+    ],
+    [
+      "SpaceX sending iPhone Emergency SOS satellites to space",
+      "https://9to5mac.com/2023/09/01/spacex-iphone-emergency-satellites-globalstar/"
+    ]
+  ],
+  [
+    [
       "2023-09-02, 14:41:45",
       "https://news.ycombinator.com/item?id=37361947"
     ],
@@ -77,16 +87,6 @@
     [
       "On Craft",
       "https://www.drcathicks.com/post/on-craft"
-    ]
-  ],
-  [
-    [
-      "2023-09-02, 12:53:52",
-      "https://news.ycombinator.com/item?id=37361082"
-    ],
-    [
-      "Samsung Unveils Industry's First 32Gbit DDR5 Memory Die: 1TB Modules Incoming",
-      "https://www.anandtech.com/show/20039/samsung-unveils-industrys-first-32gbit-ddr5-die-1tb-modules-incoming"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2023-09-01, 22:42:01",
-      "https://news.ycombinator.com/item?id=37356909"
-    ],
-    [
-      "Internals of async / await in JavaScript",
-      "https://akashhamirwasia.com/blog/internals-of-async-await-in-javascript/"
-    ]
-  ],
-  [
-    [
       "2023-09-01, 21:46:05",
       "https://news.ycombinator.com/item?id=37356497"
     ],
@@ -231,22 +221,22 @@
   ],
   [
     [
+      "2023-09-01, 17:44:36",
+      "https://news.ycombinator.com/item?id=37354000"
+    ],
+    [
+      "Doug Lenat has died",
+      "https://garymarcus.substack.com/p/doug-lenat-1950-2023"
+    ]
+  ],
+  [
+    [
       "2023-09-01, 16:31:03",
       "https://news.ycombinator.com/item?id=37352970"
     ],
     [
       "Doing laundry on campus without a phone",
       "https://naveenarun.wordpress.com/2023/08/31/doing-laundry-on-campus-without-a-phone/"
-    ]
-  ],
-  [
-    [
-      "2023-09-01, 16:29:57",
-      "https://news.ycombinator.com/item?id=37352955"
-    ],
-    [
-      "Optimizing Postgres's autovacuum for high-churn tables",
-      "https://tembo.io/blog/optimizing-postgres-auto-vacuum/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "EXPI by p01",
       "http://www.p01.org/expi/"
+    ]
+  ],
+  [
+    [
+      "2023-09-01, 06:16:55",
+      "https://news.ycombinator.com/item?id=37347447"
+    ],
+    [
+      "Organic Maps",
+      "https://organicmaps.app/"
     ]
   ],
   [
