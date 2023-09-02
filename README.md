@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-02, 08:35:03](https://news.ycombinator.com/item?id=37359561) - [Patients treated by female surgeons have better outcomes](https://jamanetwork.com/journals/jamasurgery/article-abstract/2808894)
 * [2023-09-02, 07:58:17](https://news.ycombinator.com/item?id=37359395) - [Not a single emperor penguin chick survived spring in parts of Antarctica](https://www.smh.com.au/environment/climate-change/not-a-single-emperor-penguin-chick-survived-spring-in-parts-of-antarctica-20230822-p5dykw.html)
 * [2023-09-02, 07:40:12](https://news.ycombinator.com/item?id=37359287) - [Pooling and Sharing of wealth makes everyone's wealth grow faster](https://ergodicityeconomics.com/2023/08/29/for-to-withhold-is-to-perish/)
 * [2023-09-02, 07:31:28](https://news.ycombinator.com/item?id=37359256) - [A Critical Analysis of the What3Words Geocoding Algorithm](https://arxiv.org/abs/2308.16025)
@@ -15,7 +16,6 @@
 * [2023-09-01, 19:44:10](https://news.ycombinator.com/item?id=37355360) - [Space travel via tether between asteroids](https://blog.cerowrt.org/post/toutatis/)
 * [2023-09-01, 18:18:39](https://news.ycombinator.com/item?id=37354409) - [Shining a light on the digital dark age](https://longnow.org/ideas/shining-a-light-on-the-digital-dark-age/)
 * [2023-09-01, 18:17:15](https://news.ycombinator.com/item?id=37354401) - [Philosophy of Coroutines](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy/)
-* [2023-09-01, 18:00:44](https://news.ycombinator.com/item?id=37354198) - [Singapore in Colour](https://www.straitstimes.com/multimedia/graphics/2023/08/singapore-in-colour/)
 * [2023-09-01, 17:44:36](https://news.ycombinator.com/item?id=37354000) - [Doug Lenat has died](https://garymarcus.substack.com/p/doug-lenat-1950-2023)
 * [2023-09-01, 16:31:03](https://news.ycombinator.com/item?id=37352970) - [Doing laundry on campus without a phone](https://naveenarun.wordpress.com/2023/08/31/doing-laundry-on-campus-without-a-phone/)
 * [2023-09-01, 16:29:57](https://news.ycombinator.com/item?id=37352955) - [Optimizing Postgres's autovacuum for high-churn tables](https://tembo.io/blog/optimizing-postgres-auto-vacuum/)
