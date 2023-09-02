@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=37358400"
     ],
     [
-      "How to Edit Your Own Lousy Writing (2017)",
+      "How to edit your own lousy writing (2017)",
       "https://stingingfly.org/2017/10/24/edit-lousy-writing/"
     ]
   ],
@@ -16,7 +16,7 @@
     ],
     [
       "Csound",
-      "https://csound.com/get-started.html#your-first-synthesiser"
+      "https://csound.com/get-started.html"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Explaining the Postgres iceberg",
       "https://avestura.dev/blog/explaining-the-postgres-meme"
+    ]
+  ],
+  [
+    [
+      "2023-09-01, 22:42:01",
+      "https://news.ycombinator.com/item?id=37356909"
+    ],
+    [
+      "Internals of async / await in JavaScript",
+      "https://akashhamirwasia.com/blog/internals-of-async-await-in-javascript/"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2023-09-01, 15:03:11",
-      "https://news.ycombinator.com/item?id=37351716"
-    ],
-    [
-      "Can programming languages boost each other via instruction tuning?",
-      "https://arxiv.org/abs/2308.16824"
-    ]
-  ],
-  [
-    [
       "2023-09-01, 15:01:30",
       "https://news.ycombinator.com/item?id=37351685"
     ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=37348284"
     ],
     [
-      "Potential Weaponizing of Honeypot Logs",
+      "What is the origin of passwords submitted to honeypots?",
       "https://isc.sans.edu/diary/0"
     ]
   ],
