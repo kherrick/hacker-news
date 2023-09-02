@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-09-01, 22:42:01",
-      "https://news.ycombinator.com/item?id=37356909"
-    ],
-    [
-      "Internals of Async / Await in JavaScript",
-      "https://akashhamirwasia.com/blog/internals-of-async-await-in-javascript/"
-    ]
-  ],
-  [
-    [
       "2023-09-01, 21:46:05",
       "https://news.ycombinator.com/item?id=37356497"
     ],
@@ -131,16 +121,6 @@
   ],
   [
     [
-      "2023-09-01, 16:31:42",
-      "https://news.ycombinator.com/item?id=37352983"
-    ],
-    [
-      "Ask HN: Any LAN alternatives other than PowerLine or MOCA?",
-      "https://news.ycombinator.com/item?id=37352983"
-    ]
-  ],
-  [
-    [
       "2023-09-01, 15:10:08",
       "https://news.ycombinator.com/item?id=37351831"
     ],
@@ -231,12 +211,32 @@
   ],
   [
     [
+      "2023-09-01, 11:57:06",
+      "https://news.ycombinator.com/item?id=37349633"
+    ],
+    [
+      "Farewell EC2-Classic, it’s been swell",
+      "https://www.allthingsdistributed.com/2023/09/farewell-ec2-classic.html"
+    ]
+  ],
+  [
+    [
       "2023-09-01, 08:38:50",
       "https://news.ycombinator.com/item?id=37348240"
     ],
     [
       "Learning For Mastery (1968) [pdf]",
       "https://files.eric.ed.gov/fulltext/ED053419.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-09-01, 08:12:36",
+      "https://news.ycombinator.com/item?id=37348066"
+    ],
+    [
+      "Emulating x86 on Apple’s AARCH64 X64 Emulator",
+      "https://hackaday.com/2023/08/31/emulating-x86-on-apples-aarch64-x64-emulator/"
     ]
   ],
   [
