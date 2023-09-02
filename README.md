@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-02, 06:25:52](https://news.ycombinator.com/item?id=37359013) - [Is the ChatGPT and Bing AI boom already over?](https://www.vox.com/technology/2023/8/19/23837705/openai-chatgpt-microsoft-bing-google-generating-less-interest)
 * [2023-09-02, 04:21:25](https://news.ycombinator.com/item?id=37358541) - [Invariants: A Better Debugger?](https://brooker.co.za/blog/2023/07/28/ds-testing.html)
 * [2023-09-02, 04:10:24](https://news.ycombinator.com/item?id=37358508) - [WAPO: Fatal Force DB](https://github.com/washingtonpost/data-police-shootings)
 * [2023-09-02, 03:41:42](https://news.ycombinator.com/item?id=37358400) - [How to edit your own lousy writing (2017)](https://stingingfly.org/2017/10/24/edit-lousy-writing/)
@@ -16,7 +17,6 @@
 * [2023-09-01, 17:44:36](https://news.ycombinator.com/item?id=37354000) - [Doug Lenat has died](https://garymarcus.substack.com/p/doug-lenat-1950-2023)
 * [2023-09-01, 16:31:03](https://news.ycombinator.com/item?id=37352970) - [Doing laundry on campus without a phone](https://naveenarun.wordpress.com/2023/08/31/doing-laundry-on-campus-without-a-phone/)
 * [2023-09-01, 15:10:08](https://news.ycombinator.com/item?id=37351831) - [A Duodecade of Numberphile](https://www.tandfonline.com/doi/full/10.1080/10724117.2023.2224682)
-* [2023-09-01, 15:03:11](https://news.ycombinator.com/item?id=37351716) - [Can programming languages boost each other via instruction tuning?](https://arxiv.org/abs/2308.16824)
 * [2023-09-01, 15:01:30](https://news.ycombinator.com/item?id=37351685) - [Mashing Enter to bypass full disk encryption with TPM, Clevis dracut and systemd](https://pulsesecurity.co.nz/advisories/tpm-luks-bypass)
 * [2023-09-01, 15:00:30](https://news.ycombinator.com/item?id=37351668) - [Why I’m betting on Nostr](https://hivemind.vc/nostr/)
 * [2023-09-01, 15:00:25](https://news.ycombinator.com/item?id=37351667) - [Ask HN: Who is hiring? (September 2023)](https://news.ycombinator.com/item?id=37351667)
