@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-02, 16:32:50](https://news.ycombinator.com/item?id=37363035) - [Top Russian rocket scientist dies from ‘mushroom poisoning’](https://ptv-news.com.pk/top-russian-rocket-scientist-dies-from-mushroom-poisoning/)
 * [2023-09-02, 15:13:06](https://news.ycombinator.com/item?id=37362227) - [Toml-bench – Which toml package to use in Python?](https://github.com/pwwang/toml-bench)
 * [2023-09-02, 15:09:35](https://news.ycombinator.com/item?id=37362200) - [Ask HN: How to Focus Again?](https://news.ycombinator.com/item?id=37362200)
 * [2023-09-02, 15:02:52](https://news.ycombinator.com/item?id=37362151) - [Show HN: XRss: An RSS Reader and web stack demo powered by Htmx](https://xrss.infogulch.com/)
 * [2023-09-02, 15:00:30](https://news.ycombinator.com/item?id=37362132) - [Can an Artificial Kidney Finally Free Patients from Dialysis?](https://www.ucsf.edu/news/2023/08/426056/can-artificial-kidney-finally-free-patients-dialysis)
 * [2023-09-02, 14:56:00](https://news.ycombinator.com/item?id=37362088) - [ForgeFed](https://forgefed.org/)
-* [2023-09-02, 14:54:31](https://news.ycombinator.com/item?id=37362072) - [SpaceX sending iPhone Emergency SOS satellites to space](https://9to5mac.com/2023/09/01/spacex-iphone-emergency-satellites-globalstar/)
 * [2023-09-02, 14:41:45](https://news.ycombinator.com/item?id=37361947) - [The worst programmer I know](https://dannorth.net/2023/09/02/the-worst-programmer/)
 * [2023-09-02, 14:37:35](https://news.ycombinator.com/item?id=37361911) - [The myths we tell ourselves about American farming](https://www.vox.com/future-perfect/2023/8/31/23852325/farming-myths-agricultural-exceptionalism-pollution-labor-animal-welfare-laws)
 * [2023-09-02, 14:35:33](https://news.ycombinator.com/item?id=37361882) - [Spirituality of Science: Implications for Meaning, Well-Being, and Learning](https://journals.sagepub.com/doi/10.1177/01461672231191356)
