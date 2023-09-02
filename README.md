@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-02, 13:59:01](https://news.ycombinator.com/item?id=37361605) - [RIP, WordPad](https://www.thurrott.com/windows/windows-11/288088/rip-wordpad)
+* [2023-09-02, 13:49:46](https://news.ycombinator.com/item?id=37361522) - [The US Military Is Getting Smaller, Cheaper and Smarter](https://www.bloomberg.com/opinion/articles/2023-09-01/pentagon-building-killer-drone-swarms-for-possible-war-against-china)
 * [2023-09-02, 13:41:54](https://news.ycombinator.com/item?id=37361462) - [Tesla, Rivian Put on Fake Show of Support for ‘Right to Repair’](https://www.techdirt.com/2023/09/01/tesla-rivian-put-on-fake-show-of-support-for-right-to-repair/)
 * [2023-09-02, 13:20:53](https://news.ycombinator.com/item?id=37361275) - [Windows NT 3.1](https://www.abortretry.fail/p/the-history-of-windows-nt-31)
 * [2023-09-02, 12:55:11](https://news.ycombinator.com/item?id=37361094) - [On Craft](https://www.drcathicks.com/post/on-craft)
@@ -28,7 +29,6 @@
 * [2023-09-01, 14:37:11](https://news.ycombinator.com/item?id=37351373) - [Indian Influences on Rastafarianism](https://kb.osu.edu/handle/1811/28443)
 * [2023-09-01, 12:31:56](https://news.ycombinator.com/item?id=37349988) - [The Pitfalls of Familiarity](https://yohanestheda.medium.com/the-pitfalls-of-familiarity-14123c09f20a)
 * [2023-09-01, 08:14:25](https://news.ycombinator.com/item?id=37348079) - [Becoming a contractor](https://ochagavia.nl/blog/becoming-a-contractor/)
-* [2023-09-01, 06:16:55](https://news.ycombinator.com/item?id=37347447) - [Organic Maps](https://organicmaps.app/)
 * [2023-08-31, 20:44:56](https://news.ycombinator.com/item?id=37343450) - [The physics of hand clapping](https://physicsworld.com/a/the-physics-of-hand-clapping-heres-how-to-do-it-best/)
 
 ## [Archives](archives/index.md)
