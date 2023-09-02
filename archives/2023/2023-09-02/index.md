@@ -19,6 +19,7 @@
 * [2023-09-02, 10:43:41](https://news.ycombinator.com/item?id=37360269) - [33% of Gamers Are Disabled](https://news.sky.com/story/why-gaming-is-not-just-a-hobby-but-a-lifeline-for-millions-of-gamers-12952807)
 * [2023-09-02, 10:40:26](https://news.ycombinator.com/item?id=37360251) - [A GPT-4 capability forecasting challenge](https://nicholas.carlini.com/writing/llm-forecast/question/Capital-of-Paris)
 * [2023-09-02, 10:39:50](https://news.ycombinator.com/item?id=37360249) - [Open-sourcing SQX, a way to build flexible database models in Go](https://stytch.com/blog/open-sourcing-sqx-a-way-to-build-flexible-database-models-in-go/)
+* [2023-09-02, 10:28:02](https://news.ycombinator.com/item?id=37360186) - [Recursive Racks [video]](https://www.youtube.com/watch?v=ckrrQTkTqIo)
 * [2023-09-02, 08:35:03](https://news.ycombinator.com/item?id=37359561) - [Patients treated by female surgeons have better outcomes](https://jamanetwork.com/journals/jamasurgery/article-abstract/2808894)
 * [2023-09-02, 07:58:39](https://news.ycombinator.com/item?id=37359397) - [Ohio cops release bodycam vid of officer shooting dead pregnant driver](https://www.cnn.com/2023/09/01/us/takiya-young-ohio-police-shooting/index.html)
 * [2023-09-02, 07:58:17](https://news.ycombinator.com/item?id=37359395) - [Not a single emperor penguin chick survived spring in parts of Antarctica](https://www.smh.com.au/environment/climate-change/not-a-single-emperor-penguin-chick-survived-spring-in-parts-of-antarctica-20230822-p5dykw.html)
