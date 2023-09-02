@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-09-02](index.md)
 
+* [2023-09-02, 19:48:14](https://news.ycombinator.com/item?id=37364885) - [Calibre Replacement Considerations](https://anarc.at/software/desktop/calibre/)
 * [2023-09-02, 19:32:25](https://news.ycombinator.com/item?id=37364753) - [Insights into prostitution by former receptionist presents harrowing reality](https://www.adoptnordicwa.org/uncategorized/insights-into-prostitution-by-former-receptionist-presents-harrowing-reality/)
 * [2023-09-02, 19:19:21](https://news.ycombinator.com/item?id=37364611) - [DOS Game Club](https://www.dosgameclub.com/)
 * [2023-09-02, 19:12:36](https://news.ycombinator.com/item?id=37364544) - [Why There Is No Moral ‘Right to Strike’](https://fee.org/articles/why-there-is-no-moral-right-to-strike/)
 * [2023-09-02, 18:56:08](https://news.ycombinator.com/item?id=37364388) - [Found in a Library Book](https://oaklandlibrary.org/found-in-a-library-book/)
+* [2023-09-02, 18:45:07](https://news.ycombinator.com/item?id=37364290) - [Show HN: I mirrored all the code from PyPI to GitHub and analysed it](https://py-code.org/stats)
 * [2023-09-02, 18:27:02](https://news.ycombinator.com/item?id=37364124) - [Show HN: Shaq, a CLI for Shazam](https://blog.yossarian.net/2023/07/27/Introducing-shaq-a-CLI-for-shazam)
 * [2023-09-02, 17:38:08](https://news.ycombinator.com/item?id=37363674) - [‘Conserve food and water’: No way in or out of Burning Man after storm](https://www.sfgate.com/travel/article/no-access-after-burning-man-rain-storm-18344393.php)
 * [2023-09-02, 17:33:15](https://news.ycombinator.com/item?id=37363623) - [In-memory vs. disk-based DB: Why do you need a larger than memory architecture?](https://memgraph.com/blog/in-memory-vs-disk-based-databases-larger-than-memory-architecture)
@@ -69,6 +71,7 @@
 * [2023-09-02, 03:58:45](https://news.ycombinator.com/item?id=37358468) - [The Craft of Experimental Physics (2015)](http://www.jameshedberg.com/writing/2015/02/01/the-craft-of-experimental-physics.html)
 * [2023-09-02, 03:41:42](https://news.ycombinator.com/item?id=37358400) - [How to Edit Your Own Lousy Writing](https://stingingfly.org/2017/10/24/edit-lousy-writing/)
 * [2023-09-02, 02:46:43](https://news.ycombinator.com/item?id=37358174) - [Injured person reportedly dies after Cruise cars block first responders](https://www.sfgate.com/bayarea/article/cruise-cars-reportedly-block-first-responders-18343475.php)
+* [2023-09-02, 02:19:39](https://news.ycombinator.com/item?id=37358063) - [Build Your Own Flight Sim in C++ (1996)](https://archive.org/details/build-your-own-flight-sim-in-c-dos-game-dev-michael-radtke-chris-lampton)
 * [2023-09-02, 01:56:50](https://news.ycombinator.com/item?id=37357966) - [Appearance of pirates in San Francisco bay leaves boaters and marinas on edge](https://www.boatblurb.com/post/appearance-of-pirates-in-san-francisco-bay-leaves-boaters-and-marinas-on-edge)
 * [2023-09-02, 01:48:41](https://news.ycombinator.com/item?id=37357928) - [Csound](https://csound.com/get-started.html)
 * [2023-09-02, 01:48:41](https://news.ycombinator.com/item?id=37357928) - [Csound](https://csound.com/get-started.html#your-first-synthesiser)
