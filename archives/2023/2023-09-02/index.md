@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-09-02](index.md)
 
+* [2023-09-02, 15:18:04](https://news.ycombinator.com/item?id=37362273) - [Seek First to Understand](https://dannorth.net/2023/05/09/seek-first-to-understand/)
 * [2023-09-02, 14:54:31](https://news.ycombinator.com/item?id=37362072) - [SpaceX sending iPhone Emergency SOS satellites to space](https://9to5mac.com/2023/09/01/spacex-iphone-emergency-satellites-globalstar/)
 * [2023-09-02, 14:41:45](https://news.ycombinator.com/item?id=37361947) - [The Worst Programmer](https://dannorth.net/2023/09/02/the-worst-programmer/)
+* [2023-09-02, 14:37:35](https://news.ycombinator.com/item?id=37361911) - [The myths we tell ourselves about American farming](https://www.vox.com/future-perfect/2023/8/31/23852325/farming-myths-agricultural-exceptionalism-pollution-labor-animal-welfare-laws)
 * [2023-09-02, 14:35:33](https://news.ycombinator.com/item?id=37361882) - [Spirituality of Science: Implications for Meaning, Well-Being, and Learning](https://journals.sagepub.com/doi/10.1177/01461672231191356)
 * [2023-09-02, 14:34:03](https://news.ycombinator.com/item?id=37361871) - [WonderOS](https://wonderos.org/)
+* [2023-09-02, 14:32:59](https://news.ycombinator.com/item?id=37361863) - [Groundwater depletion in India may triple due to climate warming, study finds](https://news.umich.edu/groundwater-depletion-rates-in-india-could-triple-in-coming-decades-as-climate-warms-study-shows/)
 * [2023-09-02, 13:59:01](https://news.ycombinator.com/item?id=37361605) - [RIP, WordPad](https://www.thurrott.com/windows/windows-11/288088/rip-wordpad)
 * [2023-09-02, 13:51:30](https://news.ycombinator.com/item?id=37361532) - [Jimmy Buffett, Roguish Bard of Island Escapism, Is Dead at 76](https://www.nytimes.com/2023/09/02/arts/jimmy-buffett-dead.html)
 * [2023-09-02, 13:49:46](https://news.ycombinator.com/item?id=37361522) - [The US Military Is Getting Smaller, Cheaper and Smarter](https://www.bloomberg.com/opinion/articles/2023-09-01/pentagon-building-killer-drone-swarms-for-possible-war-against-china)
