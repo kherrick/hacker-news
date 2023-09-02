@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-02](index.md)
 
+* [2023-09-02, 13:59:01](https://news.ycombinator.com/item?id=37361605) - [RIP, WordPad](https://www.thurrott.com/windows/windows-11/288088/rip-wordpad)
+* [2023-09-02, 13:41:54](https://news.ycombinator.com/item?id=37361462) - [Tesla, Rivian Put on Fake Show of Support for ‘Right to Repair’](https://www.techdirt.com/2023/09/01/tesla-rivian-put-on-fake-show-of-support-for-right-to-repair/)
 * [2023-09-02, 13:34:51](https://news.ycombinator.com/item?id=37361396) - [Cops drill into chat apps, sink plot to smuggle tons of coke into Europe](https://www.theregister.com/2023/09/02/europol_balkan_cartel/)
 * [2023-09-02, 13:20:53](https://news.ycombinator.com/item?id=37361275) - [Windows NT 3.1](https://www.abortretry.fail/p/the-history-of-windows-nt-31)
 * [2023-09-02, 13:04:01](https://news.ycombinator.com/item?id=37361139) - [Two years of Bitcoin in Bukele’s El Salvador](https://english.elpais.com/international/2023-09-02/two-years-of-bitcoin-in-bukeles-el-salvador-an-opaque-experiment-with-a-little-used-currency.html)

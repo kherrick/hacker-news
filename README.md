@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-02, 13:34:51](https://news.ycombinator.com/item?id=37361396) - [Cops drill into chat apps, sink plot to smuggle tons of coke into Europe](https://www.theregister.com/2023/09/02/europol_balkan_cartel/)
+* [2023-09-02, 13:59:01](https://news.ycombinator.com/item?id=37361605) - [RIP, WordPad](https://www.thurrott.com/windows/windows-11/288088/rip-wordpad)
+* [2023-09-02, 13:41:54](https://news.ycombinator.com/item?id=37361462) - [Tesla, Rivian Put on Fake Show of Support for ‘Right to Repair’](https://www.techdirt.com/2023/09/01/tesla-rivian-put-on-fake-show-of-support-for-right-to-repair/)
 * [2023-09-02, 13:20:53](https://news.ycombinator.com/item?id=37361275) - [Windows NT 3.1](https://www.abortretry.fail/p/the-history-of-windows-nt-31)
-* [2023-09-02, 13:04:01](https://news.ycombinator.com/item?id=37361139) - [Two years of Bitcoin in Bukele’s El Salvador](https://english.elpais.com/international/2023-09-02/two-years-of-bitcoin-in-bukeles-el-salvador-an-opaque-experiment-with-a-little-used-currency.html)
 * [2023-09-02, 12:55:11](https://news.ycombinator.com/item?id=37361094) - [On Craft](https://www.drcathicks.com/post/on-craft)
 * [2023-09-02, 12:53:52](https://news.ycombinator.com/item?id=37361082) - [Samsung Unveils Industry's First 32Gbit DDR5 Memory Die: 1TB Modules Incoming](https://www.anandtech.com/show/20039/samsung-unveils-industrys-first-32gbit-ddr5-die-1tb-modules-incoming)
 * [2023-09-02, 12:50:09](https://news.ycombinator.com/item?id=37361050) - [Semantic Zoom](https://alexanderobenauer.com/labnotes/038/)
@@ -27,8 +27,8 @@
 * [2023-09-01, 15:00:25](https://news.ycombinator.com/item?id=37351667) - [Ask HN: Who is hiring? (September 2023)](https://news.ycombinator.com/item?id=37351667)
 * [2023-09-01, 14:37:11](https://news.ycombinator.com/item?id=37351373) - [Indian Influences on Rastafarianism](https://kb.osu.edu/handle/1811/28443)
 * [2023-09-01, 12:31:56](https://news.ycombinator.com/item?id=37349988) - [The Pitfalls of Familiarity](https://yohanestheda.medium.com/the-pitfalls-of-familiarity-14123c09f20a)
-* [2023-09-01, 08:45:19](https://news.ycombinator.com/item?id=37348284) - [What is the origin of passwords submitted to honeypots?](https://isc.sans.edu/diary/What+is+the+origin+of+passwords+submitted+to+honeypots/30182)
-* [2023-09-01, 08:14:25](https://news.ycombinator.com/item?id=37348079) - [Becoming a Contractor](https://ochagavia.nl/blog/becoming-a-contractor/)
+* [2023-09-01, 08:14:25](https://news.ycombinator.com/item?id=37348079) - [Becoming a contractor](https://ochagavia.nl/blog/becoming-a-contractor/)
+* [2023-09-01, 06:16:55](https://news.ycombinator.com/item?id=37347447) - [Organic Maps](https://organicmaps.app/)
 * [2023-08-31, 20:44:56](https://news.ycombinator.com/item?id=37343450) - [The physics of hand clapping](https://physicsworld.com/a/the-physics-of-hand-clapping-heres-how-to-do-it-best/)
 
 ## [Archives](archives/index.md)
