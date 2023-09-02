@@ -11,22 +11,12 @@
   ],
   [
     [
-      "2023-09-02, 06:25:52",
-      "https://news.ycombinator.com/item?id=37359013"
+      "2023-09-02, 04:21:25",
+      "https://news.ycombinator.com/item?id=37358541"
     ],
     [
-      "Is the ChatGPT and Bing AI boom already over?",
-      "https://www.vox.com/technology/2023/8/19/23837705/openai-chatgpt-microsoft-bing-google-generating-less-interest"
-    ]
-  ],
-  [
-    [
-      "2023-09-02, 04:10:24",
-      "https://news.ycombinator.com/item?id=37358508"
-    ],
-    [
-      "WAPO: Fatal Force DB",
-      "https://github.com/washingtonpost/data-police-shootings"
+      "Invariants: A Better Debugger?",
+      "https://brooker.co.za/blog/2023/07/28/ds-testing.html"
     ]
   ],
   [
@@ -147,6 +137,16 @@
     [
       "Doing laundry on campus without a phone",
       "https://naveenarun.wordpress.com/2023/08/31/doing-laundry-on-campus-without-a-phone/"
+    ]
+  ],
+  [
+    [
+      "2023-09-01, 16:29:57",
+      "https://news.ycombinator.com/item?id=37352955"
+    ],
+    [
+      "Optimizing Postgres's autovacuum for high-churn tables",
+      "https://tembo.io/blog/optimizing-postgres-auto-vacuum/"
     ]
   ],
   [
