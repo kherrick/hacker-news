@@ -10,6 +10,7 @@
 * [2023-09-01, 21:46:05](https://news.ycombinator.com/item?id=37356497) - [Wavacity – a FOSS port of Audacity to the web](https://wavacity.com/)
 * [2023-09-01, 21:00:17](https://news.ycombinator.com/item?id=37356124) - [Bright (YC W15) Is Hiring](https://www.careersatbright.com/jobs-2/bright-frontend-engineer)
 * [2023-09-01, 19:55:19](https://news.ycombinator.com/item?id=37355487) - [Wikipedia search-by-vibes through millions of pages offline](https://www.leebutterman.com/2023/06/01/offline-realtime-embedding-search.html)
+* [2023-09-01, 19:45:15](https://news.ycombinator.com/item?id=37355372) - [Qakbot takedown payload analysis](https://cyber.wtf/2023/09/01/qakbot-takedown-payload-analysis/)
 * [2023-09-01, 19:44:10](https://news.ycombinator.com/item?id=37355360) - [Space travel via tether between asteroids](https://blog.cerowrt.org/post/toutatis/)
 * [2023-09-01, 19:20:10](https://news.ycombinator.com/item?id=37355084) - [AI Eng Recap: August 2023](https://www.latent.space/p/aug-2023)
 * [2023-09-01, 19:20:04](https://news.ycombinator.com/item?id=37355083) - [Higher Intakes of Potassium and Magnesium, but Not Lower Sodium, Reduce CVD Risk](https://pubmed.ncbi.nlm.nih.gov/33477824/)
