@@ -5,6 +5,10 @@
 ### [Archives](../../index.md) for [2023-09-02](index.md)
 
 * [2023-09-02, 15:18:04](https://news.ycombinator.com/item?id=37362273) - [Seek First to Understand](https://dannorth.net/2023/05/09/seek-first-to-understand/)
+* [2023-09-02, 15:13:06](https://news.ycombinator.com/item?id=37362227) - [Toml-bench – Which toml package to use in Python?](https://github.com/pwwang/toml-bench)
+* [2023-09-02, 15:07:35](https://news.ycombinator.com/item?id=37362181) - [Why the Apple phone will fail, and fail badly (2006)](https://web.archive.org/web/20070117233154/https://www.theregister.com/2006/12/23/iphone_will_fail/)
+* [2023-09-02, 15:02:52](https://news.ycombinator.com/item?id=37362151) - [Show HN: XRss: An RSS Reader and web stack demo powered by Htmx](https://xrss.infogulch.com/)
+* [2023-09-02, 14:56:00](https://news.ycombinator.com/item?id=37362088) - [ForgeFed](https://forgefed.org/)
 * [2023-09-02, 14:54:31](https://news.ycombinator.com/item?id=37362072) - [SpaceX sending iPhone Emergency SOS satellites to space](https://9to5mac.com/2023/09/01/spacex-iphone-emergency-satellites-globalstar/)
 * [2023-09-02, 14:41:45](https://news.ycombinator.com/item?id=37361947) - [The Worst Programmer](https://dannorth.net/2023/09/02/the-worst-programmer/)
 * [2023-09-02, 14:37:35](https://news.ycombinator.com/item?id=37361911) - [The myths we tell ourselves about American farming](https://www.vox.com/future-perfect/2023/8/31/23852325/farming-myths-agricultural-exceptionalism-pollution-labor-animal-welfare-laws)
