@@ -19,6 +19,7 @@
 * [2023-09-01, 18:34:38](https://news.ycombinator.com/item?id=37354577) - [Mushroom pickers urged: Avoid Amazon foraging books, appear to be written by AI](https://www.theguardian.com/technology/2023/sep/01/mushroom-pickers-urged-to-avoid-foraging-books-on-amazon-that-appear-to-be-written-by-ai)
 * [2023-09-01, 18:18:39](https://news.ycombinator.com/item?id=37354409) - [Without maintenance, most digital information will be lost in just a few decades](https://longnow.org/ideas/shining-a-light-on-the-digital-dark-age/)
 * [2023-09-01, 18:17:15](https://news.ycombinator.com/item?id=37354401) - [Philosophy of Coroutines](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy/)
+* [2023-09-01, 18:14:41](https://news.ycombinator.com/item?id=37354377) - [The Transformations of Science](https://www.palladiummag.com/2022/10/10/the-transformations-of-science/)
 * [2023-09-01, 18:14:15](https://news.ycombinator.com/item?id=37354371) - [Ten Sed Command Examples](https://4sysops.com/archives/ten-sed-command-examples/)
 * [2023-09-01, 18:00:44](https://news.ycombinator.com/item?id=37354198) - [Singapore in Colour](https://www.straitstimes.com/multimedia/graphics/2023/08/singapore-in-colour/)
 * [2023-09-01, 17:59:30](https://news.ycombinator.com/item?id=37354179) - [Linear Algebra for Programmers](https://coffeemug.github.io/spakhm.com/posts/01-lingalg-p1/linalg-p1.html)
