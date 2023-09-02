@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-01, 23:53:50](https://news.ycombinator.com/item?id=37357372) - [So You're an American?](https://www.state.gov/courses/answeringdifficultquestions/html/app.htm?p=module1_p1.htm)
+* [2023-09-01, 22:43:55](https://news.ycombinator.com/item?id=37356925) - [Explaining the Postgres Meme](https://avestura.dev/blog/explaining-the-postgres-meme)
 * [2023-09-01, 21:46:05](https://news.ycombinator.com/item?id=37356497) - [Wavacity – a FOSS port of Audacity to the web](https://wavacity.com/)
 * [2023-09-01, 21:00:17](https://news.ycombinator.com/item?id=37356124) - [Bright (YC W15) Is Hiring](https://www.careersatbright.com/jobs-2/bright-frontend-engineer)
 * [2023-09-01, 19:55:19](https://news.ycombinator.com/item?id=37355487) - [Wikipedia search-by-vibes through millions of pages offline](https://www.leebutterman.com/2023/06/01/offline-realtime-embedding-search.html)
@@ -24,12 +24,12 @@
 * [2023-09-01, 10:23:50](https://news.ycombinator.com/item?id=37348914) - [Apple clarifies why it abandoned plan to detect CSAM in iCloud photos](https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/)
 * [2023-09-01, 10:07:42](https://news.ycombinator.com/item?id=37348808) - [Lidl Product Recall [pdf]](https://www.lidl.co.uk/static/assets/Paw_Patrol_Public_Recall_poster-500790.pdf)
 * [2023-09-01, 08:38:50](https://news.ycombinator.com/item?id=37348240) - [Learning For Mastery (1968) [pdf]](https://files.eric.ed.gov/fulltext/ED053419.pdf)
-* [2023-09-01, 08:11:09](https://news.ycombinator.com/item?id=37348052) - [The Practical Effects Wizardry of Dungeons and Dragons: Honor Among Thieves](https://www.stanwinstonschool.com/blog/practical-effects-wizardry-of-dungeons-and-dragons-honor-among-thieves-legacy-effects-behind-the-scenes)
 * [2023-09-01, 08:07:14](https://news.ycombinator.com/item?id=37348036) - [Amateur astronomers spot new impact on Jupiter](https://www.space.com/amateur-astronomers-jupiter-cosmic-collision)
 * [2023-09-01, 07:15:05](https://news.ycombinator.com/item?id=37347718) - [The Four Color Theorem [video]](https://www.youtube.com/watch?v=h7kqlYUV1l8)
 * [2023-09-01, 06:58:49](https://news.ycombinator.com/item?id=37347657) - [Ask HN: What is your policy regarding smartphones for your children?](https://news.ycombinator.com/item?id=37347657)
 * [2023-09-01, 06:16:55](https://news.ycombinator.com/item?id=37347447) - [Organic Maps](https://organicmaps.app/)
 * [2023-08-31, 09:28:13](https://news.ycombinator.com/item?id=37334563) - [Cool Science Tricks (2005)](https://daveroot.neocities.org/sciencetricks/)
+* [2023-08-31, 07:07:12](https://news.ycombinator.com/item?id=37333508) - [Unicode 88 (1988) [pdf]](https://www.unicode.org/history/unicode88.pdf)
 
 ## [Archives](archives/index.md)
 
