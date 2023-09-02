@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-09-02, 02:46:43",
-      "https://news.ycombinator.com/item?id=37358174"
-    ],
-    [
-      "Injured person reportedly dies after Cruise cars block first responders",
-      "https://www.sfgate.com/bayarea/article/cruise-cars-reportedly-block-first-responders-18343475.php"
-    ]
-  ],
-  [
-    [
       "2023-09-01, 22:43:55",
       "https://news.ycombinator.com/item?id=37356925"
     ],
@@ -121,6 +111,16 @@
   ],
   [
     [
+      "2023-09-01, 17:02:58",
+      "https://news.ycombinator.com/item?id=37353436"
+    ],
+    [
+      "Pysentation: CLI for displaying Python presentations",
+      "https://github.com/mimseyedi/pysentation"
+    ]
+  ],
+  [
+    [
       "2023-09-01, 15:10:08",
       "https://news.ycombinator.com/item?id=37351831"
     ],
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2023-09-01, 11:57:06",
+      "https://news.ycombinator.com/item?id=37349633"
+    ],
+    [
+      "Farewell EC2-Classic, it’s been swell",
+      "https://www.allthingsdistributed.com/2023/09/farewell-ec2-classic.html"
+    ]
+  ],
+  [
+    [
       "2023-09-01, 08:42:31",
       "https://news.ycombinator.com/item?id=37348267"
     ],
@@ -227,16 +237,6 @@
     [
       "Learning For Mastery (1968) [pdf]",
       "https://files.eric.ed.gov/fulltext/ED053419.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-09-01, 08:12:36",
-      "https://news.ycombinator.com/item?id=37348066"
-    ],
-    [
-      "Emulating x86 on Apple’s AARCH64 X64 Emulator",
-      "https://hackaday.com/2023/08/31/emulating-x86-on-apples-aarch64-x64-emulator/"
     ]
   ],
   [
