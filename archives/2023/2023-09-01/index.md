@@ -68,6 +68,7 @@
 * [2023-09-01, 12:23:43](https://news.ycombinator.com/item?id=37349870) - [Vitamins, Supplements with Antioxidants Fuel Cancer](https://studyfinds.org/dietary-supplements-help-tumors/)
 * [2023-09-01, 12:09:30](https://news.ycombinator.com/item?id=37349732) - [FYI: The problem of creeping commercial surveillance](https://elnion.com/2022/02/07/the-problem-of-creeping-commercial-surveillance/)
 * [2023-09-01, 12:09:20](https://news.ycombinator.com/item?id=37349730) - [Show HN: Merge – Connect Google Wear OS to Apple iOS](https://www.merge.watch)
+* [2023-09-01, 12:05:15](https://news.ycombinator.com/item?id=37349696) - [Intel shows off 8-core, 528-thread processor with 1TB/s of co-packaged optics](https://www.theregister.com/2023/09/01/intel_graph_analytics_chip/)
 * [2023-09-01, 12:00:33](https://news.ycombinator.com/item?id=37349654) - [UpCodes is hiring SWEs, SDRs to make construction more productive](https://up.codes/careers)
 * [2023-09-01, 11:57:06](https://news.ycombinator.com/item?id=37349633) - [Farewell EC2-Classic, it’s been swell](https://www.allthingsdistributed.com/2023/09/farewell-ec2-classic.html)
 * [2023-09-01, 11:45:27](https://news.ycombinator.com/item?id=37349533) - [Are self-driving cars already safer than human drivers?](https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/)

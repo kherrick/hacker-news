@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-02, 19:32:25](https://news.ycombinator.com/item?id=37364753) - [Insights into prostitution by former receptionist presents harrowing reality](https://www.adoptnordicwa.org/uncategorized/insights-into-prostitution-by-former-receptionist-presents-harrowing-reality/)
 * [2023-09-02, 19:19:21](https://news.ycombinator.com/item?id=37364611) - [DOS Game Club](https://www.dosgameclub.com/)
 * [2023-09-02, 18:56:08](https://news.ycombinator.com/item?id=37364388) - [Found in a Library Book](https://oaklandlibrary.org/found-in-a-library-book/)
 * [2023-09-02, 18:27:02](https://news.ycombinator.com/item?id=37364124) - [Show HN: Shaq, a CLI for Shazam](https://blog.yossarian.net/2023/07/27/Introducing-shaq-a-CLI-for-shazam)
@@ -20,7 +21,6 @@
 * [2023-09-02, 12:08:25](https://news.ycombinator.com/item?id=37360762) - [Call of the Liar](https://nautil.us/call-of-the-liar-363420/)
 * [2023-09-02, 10:40:26](https://news.ycombinator.com/item?id=37360251) - [A GPT-4 capability forecasting challenge](https://nicholas.carlini.com/writing/llm-forecast/question/Capital-of-Paris)
 * [2023-09-02, 10:39:50](https://news.ycombinator.com/item?id=37360249) - [Open-sourcing SQX, a way to build flexible database models in Go](https://stytch.com/blog/open-sourcing-sqx-a-way-to-build-flexible-database-models-in-go/)
-* [2023-09-02, 10:28:02](https://news.ycombinator.com/item?id=37360186) - [Recursive Racks [video]](https://www.youtube.com/watch?v=ckrrQTkTqIo)
 * [2023-09-02, 07:31:28](https://news.ycombinator.com/item?id=37359256) - [A Critical Analysis of the What3Words Geocoding Algorithm](https://arxiv.org/abs/2308.16025)
 * [2023-09-02, 07:12:34](https://news.ycombinator.com/item?id=37359193) - [The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
 * [2023-09-02, 07:01:07](https://news.ycombinator.com/item?id=37359146) - [PlayHT (YC W23) Is Hiring Senior ML Engineers (LLMs, Generative AI)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
@@ -28,7 +28,7 @@
 * [2023-09-01, 19:50:16](https://news.ycombinator.com/item?id=37355429) - [Restarting macOS apps automatically on crash](https://notes.alinpanaitiu.com/Restarting-macOS-apps-automatically-on-crash)
 * [2023-09-01, 19:45:15](https://news.ycombinator.com/item?id=37355372) - [Qakbot takedown payload analysis](https://cyber.wtf/2023/09/01/qakbot-takedown-payload-analysis/)
 * [2023-09-01, 18:14:41](https://news.ycombinator.com/item?id=37354377) - [The Transformations of Science](https://www.palladiummag.com/2022/10/10/the-transformations-of-science/)
-* [2023-09-01, 07:21:26](https://news.ycombinator.com/item?id=37347757) - [EXPI by p01](http://www.p01.org/expi/)
+* [2023-09-01, 12:05:15](https://news.ycombinator.com/item?id=37349696) - [Intel shows off 8-core, 528-thread processor with 1TB/s of co-packaged optics](https://www.theregister.com/2023/09/01/intel_graph_analytics_chip/)
 * [2023-09-01, 03:46:05](https://news.ycombinator.com/item?id=37346585) - [The Making of EP Thompson](https://www.newstatesman.com/culture/history/2023/08/making-ep-thompson)
 
 ## [Archives](archives/index.md)
