@@ -22,7 +22,7 @@
 * [2023-09-01, 15:00:24](https://news.ycombinator.com/item?id=37351665) - [Ask HN: Who wants to be hired? (September 2023)](https://news.ycombinator.com/item?id=37351665)
 * [2023-09-01, 14:17:59](https://news.ycombinator.com/item?id=37351157) - [A deep dive into Single Pair Ethernet](https://electricui.com/blog/spe-sensor-node)
 * [2023-09-01, 13:34:49](https://news.ycombinator.com/item?id=37350634) - [Some flying robot behavior improvements](https://factorio.com/blog/post/fff-374)
-* [2023-09-01, 08:42:31](https://news.ycombinator.com/item?id=37348267) - [NY Sales Tax Exemption for Computer Hardware Purchased for SW and Web Dev (2016)](https://wffacpa.com/ny-sales-tax-exemption-for-computer-hardware-purchased-for-software-web-design-development/)
+* [2023-09-01, 13:06:06](https://news.ycombinator.com/item?id=37350310) - [The Janus System: Multi-Paradigm Programming in Prolog and Python](https://arxiv.org/abs/2308.15893)
 * [2023-09-01, 08:38:50](https://news.ycombinator.com/item?id=37348240) - [Learning For Mastery (1968) [pdf]](https://files.eric.ed.gov/fulltext/ED053419.pdf)
 * [2023-09-01, 08:14:25](https://news.ycombinator.com/item?id=37348079) - [Becoming a Contractor](https://ochagavia.nl/blog/becoming-a-contractor/)
 * [2023-09-01, 08:07:14](https://news.ycombinator.com/item?id=37348036) - [Amateur astronomers spot new impact on Jupiter](https://www.space.com/amateur-astronomers-jupiter-cosmic-collision)
