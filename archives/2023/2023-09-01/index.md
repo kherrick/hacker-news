@@ -74,6 +74,7 @@
 * [2023-09-01, 08:38:50](https://news.ycombinator.com/item?id=37348240) - [Learning For Mastery (1968) [pdf]](https://files.eric.ed.gov/fulltext/ED053419.pdf)
 * [2023-09-01, 08:38:50](https://news.ycombinator.com/item?id=37348240) - [Benjamin S. Bloom: Learning For Mastery (1968) [pdf]](http://www.researchforteachers.org.uk/sites/default/files/Docs/Bloom%20(1968)%20Learning%20for%20Mastery_0.pdf)
 * [2023-09-01, 08:27:21](https://news.ycombinator.com/item?id=37348162) - [Show HN: ChangeDetection, monitor any website change](https://github.com/dgtlmoon/changedetection.io)
+* [2023-09-01, 08:14:25](https://news.ycombinator.com/item?id=37348079) - [Becoming a Contractor](https://ochagavia.nl/blog/becoming-a-contractor/)
 * [2023-09-01, 08:12:36](https://news.ycombinator.com/item?id=37348066) - [Emulating x86 on Apple’s AARCH64 X64 Emulator](https://hackaday.com/2023/08/31/emulating-x86-on-apples-aarch64-x64-emulator/)
 * [2023-09-01, 08:11:09](https://news.ycombinator.com/item?id=37348052) - [The Practical Effects Wizardry of Dungeons and Dragons: Honor Among Thieves](https://www.stanwinstonschool.com/blog/practical-effects-wizardry-of-dungeons-and-dragons-honor-among-thieves-legacy-effects-behind-the-scenes)
 * [2023-09-01, 08:07:14](https://news.ycombinator.com/item?id=37348036) - [Amateur Astronomers Spot New Impact On Jupiter](https://www.space.com/amateur-astronomers-jupiter-cosmic-collision)
