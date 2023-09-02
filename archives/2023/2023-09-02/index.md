@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-02](index.md)
 
+* [2023-09-02, 12:56:08](https://news.ycombinator.com/item?id=37361101) - [Jimmy Buffett: Margaritaville singer dies aged 76](https://www.bbc.com/news/entertainment-arts-66694147)
+* [2023-09-02, 12:53:52](https://news.ycombinator.com/item?id=37361082) - [Samsung Unveils Industry's First 32Gbit DDR5 Memory Die: 1TB Modules Incoming](https://www.anandtech.com/show/20039/samsung-unveils-industrys-first-32gbit-ddr5-die-1tb-modules-incoming)
+* [2023-09-02, 12:50:09](https://news.ycombinator.com/item?id=37361050) - [Semantic Zoom](https://alexanderobenauer.com/labnotes/038/)
+* [2023-09-02, 12:13:13](https://news.ycombinator.com/item?id=37360801) - [Electoral College and Election Fraud](https://bfi.uchicago.edu/insight/research-summary/electoral-college-and-election-fraud/)
 * [2023-09-02, 12:08:25](https://news.ycombinator.com/item?id=37360762) - [Call of the Liar](https://nautil.us/call-of-the-liar-363420/)
 * [2023-09-02, 12:08:11](https://news.ycombinator.com/item?id=37360760) - [Tesla breaks down mid-turn and causes more than nine hours of travel chaos](https://www.telegraph.co.uk/news/2023/09/01/tesla-model-3-breaks-down-salisbury-elon-musk-electric-cars/)
 * [2023-09-02, 11:28:08](https://news.ycombinator.com/item?id=37360494) - [Rest in peace, neglected iTunes Movie Trailer app and website](https://arstechnica.com/gadgets/2023/09/rest-in-peace-neglected-itunes-movie-trailer-app-and-website/)
@@ -23,6 +27,7 @@
 * [2023-09-02, 04:30:35](https://news.ycombinator.com/item?id=37358577) - [The tensor product, demystified (2018)](https://www.math3ma.com/blog/the-tensor-product-demystified)
 * [2023-09-02, 04:21:25](https://news.ycombinator.com/item?id=37358541) - [Invariants: A Better Debugger?](https://brooker.co.za/blog/2023/07/28/ds-testing.html)
 * [2023-09-02, 04:10:24](https://news.ycombinator.com/item?id=37358508) - [WAPO: Fatal Force DB](https://github.com/washingtonpost/data-police-shootings)
+* [2023-09-02, 03:58:45](https://news.ycombinator.com/item?id=37358468) - [The Craft of Experimental Physics (2015)](http://www.jameshedberg.com/writing/2015/02/01/the-craft-of-experimental-physics.html)
 * [2023-09-02, 03:41:42](https://news.ycombinator.com/item?id=37358400) - [How to Edit Your Own Lousy Writing](https://stingingfly.org/2017/10/24/edit-lousy-writing/)
 * [2023-09-02, 02:46:43](https://news.ycombinator.com/item?id=37358174) - [Injured person reportedly dies after Cruise cars block first responders](https://www.sfgate.com/bayarea/article/cruise-cars-reportedly-block-first-responders-18343475.php)
 * [2023-09-02, 01:56:50](https://news.ycombinator.com/item?id=37357966) - [Appearance of pirates in San Francisco bay leaves boaters and marinas on edge](https://www.boatblurb.com/post/appearance-of-pirates-in-san-francisco-bay-leaves-boaters-and-marinas-on-edge)
