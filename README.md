@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-02, 08:35:03](https://news.ycombinator.com/item?id=37359561) - [Patients treated by female surgeons have better outcomes](https://jamanetwork.com/journals/jamasurgery/article-abstract/2808894)
 * [2023-09-02, 07:58:17](https://news.ycombinator.com/item?id=37359395) - [Not a single emperor penguin chick survived spring in parts of Antarctica](https://www.smh.com.au/environment/climate-change/not-a-single-emperor-penguin-chick-survived-spring-in-parts-of-antarctica-20230822-p5dykw.html)
 * [2023-09-02, 07:40:12](https://news.ycombinator.com/item?id=37359287) - [Pooling and Sharing of wealth makes everyone's wealth grow faster](https://ergodicityeconomics.com/2023/08/29/for-to-withhold-is-to-perish/)
 * [2023-09-02, 07:31:28](https://news.ycombinator.com/item?id=37359256) - [A Critical Analysis of the What3Words Geocoding Algorithm](https://arxiv.org/abs/2308.16025)
@@ -28,6 +27,7 @@
 * [2023-09-01, 08:07:14](https://news.ycombinator.com/item?id=37348036) - [Amateur astronomers spot new impact on Jupiter](https://www.space.com/amateur-astronomers-jupiter-cosmic-collision)
 * [2023-09-01, 07:15:05](https://news.ycombinator.com/item?id=37347718) - [The Four Color Theorem [video]](https://www.youtube.com/watch?v=h7kqlYUV1l8)
 * [2023-09-01, 06:16:55](https://news.ycombinator.com/item?id=37347447) - [Organic Maps](https://organicmaps.app/)
+* [2023-09-01, 01:56:34](https://news.ycombinator.com/item?id=37345892) - [What are dreams for?](https://www.newyorker.com/science/elements/what-are-dreams-for)
 * [2023-08-31, 20:44:56](https://news.ycombinator.com/item?id=37343450) - [The physics of hand clapping](https://physicsworld.com/a/the-physics-of-hand-clapping-heres-how-to-do-it-best/)
 * [2023-08-31, 07:07:12](https://news.ycombinator.com/item?id=37333508) - [Unicode 88 (1988) [pdf]](https://www.unicode.org/history/unicode88.pdf)
 

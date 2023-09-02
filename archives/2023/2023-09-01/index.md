@@ -104,6 +104,7 @@
 * [2023-09-01, 02:30:45](https://news.ycombinator.com/item?id=37346094) - [Apartment evicts tenant, throws belongings in dumpster. But it was the wrong apt](https://www.fox4news.com/news/dallas-apartment-evicts-tenant-throws-belongings-in-dumpster-but-it-was-the-wrong-unit)
 * [2023-09-01, 02:17:57](https://news.ycombinator.com/item?id=37346024) - [California Forever](https://californiaforever.com/)
 * [2023-09-01, 02:03:57](https://news.ycombinator.com/item?id=37345938) - [BoTorch – Bayesian Optimization in PyTorch](https://botorch.org/)
+* [2023-09-01, 01:56:34](https://news.ycombinator.com/item?id=37345892) - [What are dreams for?](https://www.newyorker.com/science/elements/what-are-dreams-for)
 * [2023-09-01, 01:29:15](https://news.ycombinator.com/item?id=37345727) - [Things I wish I knew before moving 50K lines of code to React Server Components](https://www.mux.com/blog/what-are-react-server-components)
 * [2023-09-01, 00:51:56](https://news.ycombinator.com/item?id=37345456) - [Evolution of the Samsung Exynos CPU Microarchitecture [pdf]](https://people.engr.tamu.edu/djimenez/pdfs/exynos_isca2020.pdf)
 * [2023-09-01, 00:09:55](https://news.ycombinator.com/item?id=37345195) - [NYPD will use drones to monitor backyard parties this weekend](https://apnews.com/article/drones-labor-day-eric-adams-nypd-jouvert-c2787e87bcad8fa87aa8d34b454ee6cf)
