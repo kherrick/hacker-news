@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-02, 21:00:47](https://news.ycombinator.com/item?id=37365485) - [MindsDB (YC W20) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/mindsdb/jobs/wnUfBhO-senior-frontend-engineer)
+* [2023-09-02, 20:57:44](https://news.ycombinator.com/item?id=37365468) - [Show HN: Menu Bar Calendar on macOS](https://sindresorhus.com/menu-bar-calendar)
 * [2023-09-02, 19:48:14](https://news.ycombinator.com/item?id=37364885) - [Calibre Replacement Considerations (2019)](https://anarc.at/software/desktop/calibre/)
 * [2023-09-02, 19:20:24](https://news.ycombinator.com/item?id=37364624) - [GameRoy: JIT Compilation in High-Accuracy Game Boy Emulation](https://rodrigodd.github.io/2023/09/02/gameroy-jit.html)
 * [2023-09-02, 19:19:21](https://news.ycombinator.com/item?id=37364611) - [DOS Game Club](https://www.dosgameclub.com/)
@@ -21,13 +22,12 @@
 * [2023-09-02, 12:55:11](https://news.ycombinator.com/item?id=37361094) - [On Craft](https://www.drcathicks.com/post/on-craft)
 * [2023-09-02, 12:50:09](https://news.ycombinator.com/item?id=37361050) - [Semantic Zoom](https://alexanderobenauer.com/labnotes/038/)
 * [2023-09-02, 10:40:26](https://news.ycombinator.com/item?id=37360251) - [A GPT-4 capability forecasting challenge](https://nicholas.carlini.com/writing/llm-forecast/question/Capital-of-Paris)
-* [2023-09-02, 10:39:50](https://news.ycombinator.com/item?id=37360249) - [Open-sourcing SQX, a way to build flexible database models in Go](https://stytch.com/blog/open-sourcing-sqx-a-way-to-build-flexible-database-models-in-go/)
 * [2023-09-02, 07:29:48](https://news.ycombinator.com/item?id=37359250) - [The B Lane Swimmer](https://holly.witteman.ca/the-b-lane-swimmer/)
 * [2023-09-02, 07:12:34](https://news.ycombinator.com/item?id=37359193) - [The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
 * [2023-09-02, 03:58:45](https://news.ycombinator.com/item?id=37358468) - [The Craft of Experimental Physics (2015)](http://www.jameshedberg.com/writing/2015/02/01/the-craft-of-experimental-physics.html)
 * [2023-09-02, 02:19:39](https://news.ycombinator.com/item?id=37358063) - [Build Your Own Flight Sim in C++ (1996)](https://archive.org/details/build-your-own-flight-sim-in-c-dos-game-dev-michael-radtke-chris-lampton)
 * [2023-09-01, 19:50:16](https://news.ycombinator.com/item?id=37355429) - [Restarting macOS apps automatically on crash](https://notes.alinpanaitiu.com/Restarting-macOS-apps-automatically-on-crash)
-* [2023-09-01, 18:14:41](https://news.ycombinator.com/item?id=37354377) - [The Transformations of Science](https://www.palladiummag.com/2022/10/10/the-transformations-of-science/)
+* [2023-09-01, 12:26:14](https://news.ycombinator.com/item?id=37349906) - [Currying in Kotlin](https://towardsdev.com/currying-in-kotlin-9be88bcc930d)
 * [2023-09-01, 12:05:15](https://news.ycombinator.com/item?id=37349696) - [Intel shows off 8-core, 528-thread processor with 1TB/s of co-packaged optics](https://www.theregister.com/2023/09/01/intel_graph_analytics_chip/)
 * [2023-08-31, 21:57:48](https://news.ycombinator.com/item?id=37344191) - [The Hunt for the Giant Squid (2004)](https://www.newyorker.com/magazine/2004/05/24/the-squid-hunter)
 

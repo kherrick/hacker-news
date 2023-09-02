@@ -65,6 +65,7 @@
 * [2023-09-01, 13:06:06](https://news.ycombinator.com/item?id=37350310) - [The Janus System: Multi-Paradigm Programming in Prolog and Python](https://arxiv.org/abs/2308.15893)
 * [2023-09-01, 12:45:17](https://news.ycombinator.com/item?id=37350123) - [AI Model Weight Providers Should Not Police Uses, No Matter How Awful They Are](http://marble.onl/posts/model_censorship.html)
 * [2023-09-01, 12:31:56](https://news.ycombinator.com/item?id=37349988) - [The Pitfalls of Familiarity](https://yohanestheda.medium.com/the-pitfalls-of-familiarity-14123c09f20a)
+* [2023-09-01, 12:26:14](https://news.ycombinator.com/item?id=37349906) - [Currying in Kotlin](https://towardsdev.com/currying-in-kotlin-9be88bcc930d)
 * [2023-09-01, 12:23:43](https://news.ycombinator.com/item?id=37349870) - [Vitamins, Supplements with Antioxidants Fuel Cancer](https://studyfinds.org/dietary-supplements-help-tumors/)
 * [2023-09-01, 12:09:30](https://news.ycombinator.com/item?id=37349732) - [FYI: The problem of creeping commercial surveillance](https://elnion.com/2022/02/07/the-problem-of-creeping-commercial-surveillance/)
 * [2023-09-01, 12:09:20](https://news.ycombinator.com/item?id=37349730) - [Show HN: Merge – Connect Google Wear OS to Apple iOS](https://www.merge.watch)
