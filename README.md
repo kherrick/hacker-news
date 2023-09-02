@@ -2,14 +2,13 @@
 
 * [2023-09-02, 19:48:14](https://news.ycombinator.com/item?id=37364885) - [Calibre Replacement Considerations](https://anarc.at/software/desktop/calibre/)
 * [2023-09-02, 19:19:21](https://news.ycombinator.com/item?id=37364611) - [DOS Game Club](https://www.dosgameclub.com/)
+* [2023-09-02, 19:18:55](https://news.ycombinator.com/item?id=37364605) - [PSA: Don't base your business around Discord.7yr account banned for posting ASNs](https://news.ycombinator.com/item?id=37364605)
 * [2023-09-02, 18:56:08](https://news.ycombinator.com/item?id=37364388) - [Found in a Library Book](https://oaklandlibrary.org/found-in-a-library-book/)
 * [2023-09-02, 18:45:07](https://news.ycombinator.com/item?id=37364290) - [Show HN: I mirrored all the code from PyPI to GitHub and analysed it](https://py-code.org/stats)
 * [2023-09-02, 18:27:02](https://news.ycombinator.com/item?id=37364124) - [Show HN: Shaq, a CLI for Shazam](https://blog.yossarian.net/2023/07/27/Introducing-shaq-a-CLI-for-shazam)
 * [2023-09-02, 17:33:15](https://news.ycombinator.com/item?id=37363623) - [In-memory vs. disk-based DB: Why do you need a larger than memory architecture?](https://memgraph.com/blog/in-memory-vs-disk-based-databases-larger-than-memory-architecture)
 * [2023-09-02, 17:32:55](https://news.ycombinator.com/item?id=37363616) - [Tax prep companies: $90M lobbying against free tax-filing](https://www.opensecrets.org/news/2023/09/tax-prep-companies-lobbying-against-free-file-face-scrutiny-from-lawmakers/)
-* [2023-09-02, 17:22:22](https://news.ycombinator.com/item?id=37363505) - [Renting vs. Owning a Home, by State](https://flowingdata.com/2023/08/25/renting-vs-owning-a-home-by-state/)
 * [2023-09-02, 17:08:46](https://news.ycombinator.com/item?id=37363362) - [Recursively Summarizing Enables Long-Term Dialogue Memory in LLMs](https://arxiv.org/abs/2308.15022)
-* [2023-09-02, 16:32:50](https://news.ycombinator.com/item?id=37363035) - [Top Russian rocket scientist dies from ‘mushroom poisoning’](https://ptv-news.com.pk/top-russian-rocket-scientist-dies-from-mushroom-poisoning/)
 * [2023-09-02, 15:02:52](https://news.ycombinator.com/item?id=37362151) - [Show HN: XRss: An RSS Reader and web stack demo powered by Htmx](https://xrss.infogulch.com/)
 * [2023-09-02, 15:00:30](https://news.ycombinator.com/item?id=37362132) - [Can an artificial kidney finally free patients from dialysis?](https://www.ucsf.edu/news/2023/08/426056/can-artificial-kidney-finally-free-patients-dialysis)
 * [2023-09-02, 14:56:00](https://news.ycombinator.com/item?id=37362088) - [ForgeFed](https://forgefed.org/)
@@ -30,6 +29,7 @@
 * [2023-09-01, 19:50:16](https://news.ycombinator.com/item?id=37355429) - [Restarting macOS apps automatically on crash](https://notes.alinpanaitiu.com/Restarting-macOS-apps-automatically-on-crash)
 * [2023-09-01, 18:14:41](https://news.ycombinator.com/item?id=37354377) - [The Transformations of Science](https://www.palladiummag.com/2022/10/10/the-transformations-of-science/)
 * [2023-09-01, 12:05:15](https://news.ycombinator.com/item?id=37349696) - [Intel shows off 8-core, 528-thread processor with 1TB/s of co-packaged optics](https://www.theregister.com/2023/09/01/intel_graph_analytics_chip/)
+* [2023-09-01, 03:46:05](https://news.ycombinator.com/item?id=37346585) - [The Making of EP Thompson](https://www.newstatesman.com/culture/history/2023/08/making-ep-thompson)
 
 ## [Archives](archives/index.md)
 

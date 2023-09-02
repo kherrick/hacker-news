@@ -7,6 +7,7 @@
 * [2023-09-02, 19:48:14](https://news.ycombinator.com/item?id=37364885) - [Calibre Replacement Considerations](https://anarc.at/software/desktop/calibre/)
 * [2023-09-02, 19:32:25](https://news.ycombinator.com/item?id=37364753) - [Insights into prostitution by former receptionist presents harrowing reality](https://www.adoptnordicwa.org/uncategorized/insights-into-prostitution-by-former-receptionist-presents-harrowing-reality/)
 * [2023-09-02, 19:19:21](https://news.ycombinator.com/item?id=37364611) - [DOS Game Club](https://www.dosgameclub.com/)
+* [2023-09-02, 19:18:55](https://news.ycombinator.com/item?id=37364605) - [PSA: Don't base your business around Discord.7yr account banned for posting ASNs](https://news.ycombinator.com/item?id=37364605)
 * [2023-09-02, 19:12:36](https://news.ycombinator.com/item?id=37364544) - [Why There Is No Moral ‘Right to Strike’](https://fee.org/articles/why-there-is-no-moral-right-to-strike/)
 * [2023-09-02, 18:56:08](https://news.ycombinator.com/item?id=37364388) - [Found in a Library Book](https://oaklandlibrary.org/found-in-a-library-book/)
 * [2023-09-02, 18:45:07](https://news.ycombinator.com/item?id=37364290) - [Show HN: I mirrored all the code from PyPI to GitHub and analysed it](https://py-code.org/stats)
