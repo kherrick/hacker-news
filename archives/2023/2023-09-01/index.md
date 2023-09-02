@@ -6,6 +6,7 @@
 
 * [2023-09-01, 23:53:50](https://news.ycombinator.com/item?id=37357372) - [So You're an American?](https://www.state.gov/courses/answeringdifficultquestions/html/app.htm?p=module1_p1.htm)
 * [2023-09-01, 22:43:55](https://news.ycombinator.com/item?id=37356925) - [Explaining the Postgres Meme](https://avestura.dev/blog/explaining-the-postgres-meme)
+* [2023-09-01, 22:42:01](https://news.ycombinator.com/item?id=37356909) - [Internals of Async / Await in JavaScript](https://akashhamirwasia.com/blog/internals-of-async-await-in-javascript/)
 * [2023-09-01, 21:46:05](https://news.ycombinator.com/item?id=37356497) - [Wavacity – a FOSS port of Audacity to the web](https://wavacity.com/)
 * [2023-09-01, 21:00:17](https://news.ycombinator.com/item?id=37356124) - [Bright (YC W15) Is Hiring](https://www.careersatbright.com/jobs-2/bright-frontend-engineer)
 * [2023-09-01, 19:55:19](https://news.ycombinator.com/item?id=37355487) - [Wikipedia search-by-vibes through millions of pages offline](https://www.leebutterman.com/2023/06/01/offline-realtime-embedding-search.html)
