@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-02](index.md)
 
+* [2023-09-02, 04:21:25](https://news.ycombinator.com/item?id=37358541) - [Invariants: A Better Debugger?](https://brooker.co.za/blog/2023/07/28/ds-testing.html)
 * [2023-09-02, 04:10:24](https://news.ycombinator.com/item?id=37358508) - [WAPO: Fatal Force DB](https://github.com/washingtonpost/data-police-shootings)
 * [2023-09-02, 03:41:42](https://news.ycombinator.com/item?id=37358400) - [How to Edit Your Own Lousy Writing](https://stingingfly.org/2017/10/24/edit-lousy-writing/)
 * [2023-09-02, 02:46:43](https://news.ycombinator.com/item?id=37358174) - [Injured person reportedly dies after Cruise cars block first responders](https://www.sfgate.com/bayarea/article/cruise-cars-reportedly-block-first-responders-18343475.php)
