@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-02](index.md)
 
+* [2023-09-02, 07:58:39](https://news.ycombinator.com/item?id=37359397) - [Ohio cops release bodycam vid of officer shooting dead pregnant driver](https://www.cnn.com/2023/09/01/us/takiya-young-ohio-police-shooting/index.html)
+* [2023-09-02, 07:40:12](https://news.ycombinator.com/item?id=37359287) - [Pooling and Sharing of wealth make everyone's wealth grow faster](https://ergodicityeconomics.com/2023/08/29/for-to-withhold-is-to-perish/)
+* [2023-09-02, 07:12:34](https://news.ycombinator.com/item?id=37359193) - [The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
 * [2023-09-02, 07:01:07](https://news.ycombinator.com/item?id=37359146) - [PlayHT (YC W23) Is Hiring Senior ML Engineers (LLMs, Generative AI)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 * [2023-09-02, 06:25:52](https://news.ycombinator.com/item?id=37359013) - [Is the ChatGPT and Bing AI boom already over?](https://www.vox.com/technology/2023/8/19/23837705/openai-chatgpt-microsoft-bing-google-generating-less-interest)
 * [2023-09-02, 04:21:25](https://news.ycombinator.com/item?id=37358541) - [Invariants: A Better Debugger?](https://brooker.co.za/blog/2023/07/28/ds-testing.html)
