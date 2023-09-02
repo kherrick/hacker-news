@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-02](index.md)
 
+* [2023-09-02, 14:54:31](https://news.ycombinator.com/item?id=37362072) - [SpaceX sending iPhone Emergency SOS satellites to space](https://9to5mac.com/2023/09/01/spacex-iphone-emergency-satellites-globalstar/)
 * [2023-09-02, 14:41:45](https://news.ycombinator.com/item?id=37361947) - [The Worst Programmer](https://dannorth.net/2023/09/02/the-worst-programmer/)
 * [2023-09-02, 14:35:33](https://news.ycombinator.com/item?id=37361882) - [Spirituality of Science: Implications for Meaning, Well-Being, and Learning](https://journals.sagepub.com/doi/10.1177/01461672231191356)
 * [2023-09-02, 14:34:03](https://news.ycombinator.com/item?id=37361871) - [WonderOS](https://wonderos.org/)
