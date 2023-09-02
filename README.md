@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-02, 07:58:39](https://news.ycombinator.com/item?id=37359397) - [Ohio cops release bodycam vid of officer shooting dead pregnant driver](https://www.cnn.com/2023/09/01/us/takiya-young-ohio-police-shooting/index.html)
+* [2023-09-02, 07:42:05](https://news.ycombinator.com/item?id=37359298) - [Juice jacking: The urban legend about phone charging that just won’t die](https://www.vox.com/technology/2023/9/1/23850809/public-phone-charging-station-juice-jacking-airport-battery-fbi)
 * [2023-09-02, 07:40:12](https://news.ycombinator.com/item?id=37359287) - [Pooling and Sharing of wealth make everyone's wealth grow faster](https://ergodicityeconomics.com/2023/08/29/for-to-withhold-is-to-perish/)
+* [2023-09-02, 07:31:28](https://news.ycombinator.com/item?id=37359256) - [A Critical Analysis of the What3Words Geocoding Algorithm](https://arxiv.org/abs/2308.16025)
 * [2023-09-02, 07:12:34](https://news.ycombinator.com/item?id=37359193) - [The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
 * [2023-09-02, 07:01:07](https://news.ycombinator.com/item?id=37359146) - [PlayHT (YC W23) Is Hiring Senior ML Engineers (LLMs, Generative AI)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 * [2023-09-02, 04:21:25](https://news.ycombinator.com/item?id=37358541) - [Invariants: A Better Debugger?](https://brooker.co.za/blog/2023/07/28/ds-testing.html)
@@ -11,7 +12,6 @@
 * [2023-09-01, 21:46:05](https://news.ycombinator.com/item?id=37356497) - [Wavacity – a FOSS port of Audacity to the web](https://wavacity.com/)
 * [2023-09-01, 19:55:19](https://news.ycombinator.com/item?id=37355487) - [Wikipedia search-by-vibes through millions of pages offline](https://www.leebutterman.com/2023/06/01/offline-realtime-embedding-search.html)
 * [2023-09-01, 19:44:10](https://news.ycombinator.com/item?id=37355360) - [Space travel via tether between asteroids](https://blog.cerowrt.org/post/toutatis/)
-* [2023-09-01, 19:19:55](https://news.ycombinator.com/item?id=37355081) - [Ventana’s Unconventional Veyron V1](https://chipsandcheese.com/2023/09/01/hot-chips-2023-ventanas-unconventional-veyron-v1/)
 * [2023-09-01, 18:18:39](https://news.ycombinator.com/item?id=37354409) - [Shining a light on the digital dark age](https://longnow.org/ideas/shining-a-light-on-the-digital-dark-age/)
 * [2023-09-01, 18:17:15](https://news.ycombinator.com/item?id=37354401) - [Philosophy of Coroutines](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy/)
 * [2023-09-01, 18:00:44](https://news.ycombinator.com/item?id=37354198) - [Singapore in Colour](https://www.straitstimes.com/multimedia/graphics/2023/08/singapore-in-colour/)
