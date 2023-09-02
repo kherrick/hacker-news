@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-09-02](index.md)
 
 * [2023-09-02, 14:41:45](https://news.ycombinator.com/item?id=37361947) - [The Worst Programmer](https://dannorth.net/2023/09/02/the-worst-programmer/)
+* [2023-09-02, 14:35:33](https://news.ycombinator.com/item?id=37361882) - [Spirituality of Science: Implications for Meaning, Well-Being, and Learning](https://journals.sagepub.com/doi/10.1177/01461672231191356)
+* [2023-09-02, 14:34:03](https://news.ycombinator.com/item?id=37361871) - [WonderOS](https://wonderos.org/)
 * [2023-09-02, 13:59:01](https://news.ycombinator.com/item?id=37361605) - [RIP, WordPad](https://www.thurrott.com/windows/windows-11/288088/rip-wordpad)
 * [2023-09-02, 13:51:30](https://news.ycombinator.com/item?id=37361532) - [Jimmy Buffett, Roguish Bard of Island Escapism, Is Dead at 76](https://www.nytimes.com/2023/09/02/arts/jimmy-buffett-dead.html)
 * [2023-09-02, 13:49:46](https://news.ycombinator.com/item?id=37361522) - [The US Military Is Getting Smaller, Cheaper and Smarter](https://www.bloomberg.com/opinion/articles/2023-09-01/pentagon-building-killer-drone-swarms-for-possible-war-against-china)
