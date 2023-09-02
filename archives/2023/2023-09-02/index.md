@@ -7,6 +7,7 @@
 * [2023-09-02, 13:04:01](https://news.ycombinator.com/item?id=37361139) - [Two years of Bitcoin in Bukele’s El Salvador](https://english.elpais.com/international/2023-09-02/two-years-of-bitcoin-in-bukeles-el-salvador-an-opaque-experiment-with-a-little-used-currency.html)
 * [2023-09-02, 12:56:08](https://news.ycombinator.com/item?id=37361101) - [Jimmy Buffett: Margaritaville singer dies aged 76](https://www.bbc.com/news/entertainment-arts-66694147)
 * [2023-09-02, 12:53:52](https://news.ycombinator.com/item?id=37361082) - [Samsung Unveils Industry's First 32Gbit DDR5 Memory Die: 1TB Modules Incoming](https://www.anandtech.com/show/20039/samsung-unveils-industrys-first-32gbit-ddr5-die-1tb-modules-incoming)
+* [2023-09-02, 12:52:09](https://news.ycombinator.com/item?id=37361070) - [America’s Surprising Regional Divide on Life Expectancy](https://www.politico.com/news/magazine/2023/09/01/america-life-expectancy-regions-00113369)
 * [2023-09-02, 12:50:09](https://news.ycombinator.com/item?id=37361050) - [Semantic Zoom](https://alexanderobenauer.com/labnotes/038/)
 * [2023-09-02, 12:13:13](https://news.ycombinator.com/item?id=37360801) - [Electoral College and Election Fraud](https://bfi.uchicago.edu/insight/research-summary/electoral-college-and-election-fraud/)
 * [2023-09-02, 12:08:25](https://news.ycombinator.com/item?id=37360762) - [Call of the Liar](https://nautil.us/call-of-the-liar-363420/)
