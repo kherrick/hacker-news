@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-02, 07:01:07](https://news.ycombinator.com/item?id=37359146) - [PlayHT (YC W23) Is Hiring Senior ML Engineers (LLMs, Generative AI)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 * [2023-09-02, 06:25:52](https://news.ycombinator.com/item?id=37359013) - [Is the ChatGPT and Bing AI boom already over?](https://www.vox.com/technology/2023/8/19/23837705/openai-chatgpt-microsoft-bing-google-generating-less-interest)
 * [2023-09-02, 04:21:25](https://news.ycombinator.com/item?id=37358541) - [Invariants: A Better Debugger?](https://brooker.co.za/blog/2023/07/28/ds-testing.html)
 * [2023-09-02, 04:10:24](https://news.ycombinator.com/item?id=37358508) - [WAPO: Fatal Force DB](https://github.com/washingtonpost/data-police-shootings)
@@ -7,7 +8,6 @@
 * [2023-09-02, 01:48:41](https://news.ycombinator.com/item?id=37357928) - [Csound](https://csound.com/get-started.html)
 * [2023-09-01, 22:42:01](https://news.ycombinator.com/item?id=37356909) - [Internals of async / await in JavaScript](https://akashhamirwasia.com/blog/internals-of-async-await-in-javascript/)
 * [2023-09-01, 21:46:05](https://news.ycombinator.com/item?id=37356497) - [Wavacity – a FOSS port of Audacity to the web](https://wavacity.com/)
-* [2023-09-01, 21:00:17](https://news.ycombinator.com/item?id=37356124) - [Bright (YC W15) Is Hiring](https://www.careersatbright.com/jobs-2/bright-frontend-engineer)
 * [2023-09-01, 19:55:19](https://news.ycombinator.com/item?id=37355487) - [Wikipedia search-by-vibes through millions of pages offline](https://www.leebutterman.com/2023/06/01/offline-realtime-embedding-search.html)
 * [2023-09-01, 19:44:10](https://news.ycombinator.com/item?id=37355360) - [Space travel via tether between asteroids](https://blog.cerowrt.org/post/toutatis/)
 * [2023-09-01, 18:18:39](https://news.ycombinator.com/item?id=37354409) - [Shining a light on the digital dark age](https://longnow.org/ideas/shining-a-light-on-the-digital-dark-age/)
@@ -22,7 +22,7 @@
 * [2023-09-01, 15:00:24](https://news.ycombinator.com/item?id=37351665) - [Ask HN: Who wants to be hired? (September 2023)](https://news.ycombinator.com/item?id=37351665)
 * [2023-09-01, 14:37:11](https://news.ycombinator.com/item?id=37351373) - [Indian Influences on Rastafarianism](https://kb.osu.edu/handle/1811/28443)
 * [2023-09-01, 14:17:59](https://news.ycombinator.com/item?id=37351157) - [A deep dive into Single Pair Ethernet](https://electricui.com/blog/spe-sensor-node)
-* [2023-09-01, 08:45:19](https://news.ycombinator.com/item?id=37348284) - [What is the origin of passwords submitted to honeypots?](https://isc.sans.edu/diary/0)
+* [2023-09-01, 08:45:19](https://news.ycombinator.com/item?id=37348284) - [What is the origin of passwords submitted to honeypots?](https://isc.sans.edu/diary/What+is+the+origin+of+passwords+submitted+to+honeypots/30182)
 * [2023-09-01, 08:38:50](https://news.ycombinator.com/item?id=37348240) - [Learning For Mastery (1968) [pdf]](https://files.eric.ed.gov/fulltext/ED053419.pdf)
 * [2023-09-01, 08:14:25](https://news.ycombinator.com/item?id=37348079) - [Becoming a Contractor](https://ochagavia.nl/blog/becoming-a-contractor/)
 * [2023-09-01, 08:07:14](https://news.ycombinator.com/item?id=37348036) - [Amateur astronomers spot new impact on Jupiter](https://www.space.com/amateur-astronomers-jupiter-cosmic-collision)
