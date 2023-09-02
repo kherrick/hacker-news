@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-02, 01:56:50](https://news.ycombinator.com/item?id=37357966) - [Appearance of pirates in San Francisco bay leaves boaters and marinas on edge](https://www.boatblurb.com/post/appearance-of-pirates-in-san-francisco-bay-leaves-boaters-and-marinas-on-edge)
 * [2023-09-01, 22:43:55](https://news.ycombinator.com/item?id=37356925) - [Explaining the Postgres iceberg](https://avestura.dev/blog/explaining-the-postgres-meme)
 * [2023-09-01, 21:46:05](https://news.ycombinator.com/item?id=37356497) - [Wavacity – a FOSS port of Audacity to the web](https://wavacity.com/)
 * [2023-09-01, 21:00:17](https://news.ycombinator.com/item?id=37356124) - [Bright (YC W15) Is Hiring](https://www.careersatbright.com/jobs-2/bright-frontend-engineer)
@@ -21,7 +22,6 @@
 * [2023-09-01, 15:00:24](https://news.ycombinator.com/item?id=37351665) - [Ask HN: Who wants to be hired? (September 2023)](https://news.ycombinator.com/item?id=37351665)
 * [2023-09-01, 14:17:59](https://news.ycombinator.com/item?id=37351157) - [A deep dive into Single Pair Ethernet](https://electricui.com/blog/spe-sensor-node)
 * [2023-09-01, 13:34:49](https://news.ycombinator.com/item?id=37350634) - [Some flying robot behavior improvements](https://factorio.com/blog/post/fff-374)
-* [2023-09-01, 11:57:06](https://news.ycombinator.com/item?id=37349633) - [Farewell EC2-Classic, it’s been swell](https://www.allthingsdistributed.com/2023/09/farewell-ec2-classic.html)
 * [2023-09-01, 08:38:50](https://news.ycombinator.com/item?id=37348240) - [Learning For Mastery (1968) [pdf]](https://files.eric.ed.gov/fulltext/ED053419.pdf)
 * [2023-09-01, 08:12:36](https://news.ycombinator.com/item?id=37348066) - [Emulating x86 on Apple’s AARCH64 X64 Emulator](https://hackaday.com/2023/08/31/emulating-x86-on-apples-aarch64-x64-emulator/)
 * [2023-09-01, 08:07:14](https://news.ycombinator.com/item?id=37348036) - [Amateur astronomers spot new impact on Jupiter](https://www.space.com/amateur-astronomers-jupiter-cosmic-collision)
