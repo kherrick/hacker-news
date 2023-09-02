@@ -11,6 +11,7 @@
 * [2023-09-02, 07:40:12](https://news.ycombinator.com/item?id=37359287) - [Pooling and Sharing of wealth make everyone's wealth grow faster](https://ergodicityeconomics.com/2023/08/29/for-to-withhold-is-to-perish/)
 * [2023-09-02, 07:31:28](https://news.ycombinator.com/item?id=37359256) - [A Critical Analysis of the What3Words Geocoding Algorithm](https://arxiv.org/abs/2308.16025)
 * [2023-09-02, 07:26:31](https://news.ycombinator.com/item?id=37359238) - [Plan for 55,000-acre utopia dreamed by Silicon Valley elites unveiled](https://www.theguardian.com/technology/2023/sep/02/silicon-valley-elites-utopian-city-california)
+* [2023-09-02, 07:15:47](https://news.ycombinator.com/item?id=37359203) - [Become fundamentally strong in Data Science and AI](https://edu.machinelearningplus.com/s/pages/ds-career-path)
 * [2023-09-02, 07:12:34](https://news.ycombinator.com/item?id=37359193) - [The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
 * [2023-09-02, 07:01:07](https://news.ycombinator.com/item?id=37359146) - [PlayHT (YC W23) Is Hiring Senior ML Engineers (LLMs, Generative AI)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 * [2023-09-02, 06:25:52](https://news.ycombinator.com/item?id=37359013) - [Is the ChatGPT and Bing AI boom already over?](https://www.vox.com/technology/2023/8/19/23837705/openai-chatgpt-microsoft-bing-google-generating-less-interest)
