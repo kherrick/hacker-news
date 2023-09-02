@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-02](index.md)
 
+* [2023-09-02, 21:00:47](https://news.ycombinator.com/item?id=37365485) - [MindsDB (YC W20) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/mindsdb/jobs/wnUfBhO-senior-frontend-engineer)
+* [2023-09-02, 20:40:11](https://news.ycombinator.com/item?id=37365326) - [Burning Man attendees advised to shelter in place, conserve food/water](https://www.nbcnews.com/news/us-news/burning-man-attendees-advised-shelter-place-conserve-food-water-due-he-rcna103127)
 * [2023-09-02, 19:48:14](https://news.ycombinator.com/item?id=37364885) - [Calibre Replacement Considerations](https://anarc.at/software/desktop/calibre/)
 * [2023-09-02, 19:32:25](https://news.ycombinator.com/item?id=37364753) - [Insights into prostitution by former receptionist presents harrowing reality](https://www.adoptnordicwa.org/uncategorized/insights-into-prostitution-by-former-receptionist-presents-harrowing-reality/)
 * [2023-09-02, 19:19:21](https://news.ycombinator.com/item?id=37364611) - [DOS Game Club](https://www.dosgameclub.com/)
@@ -23,6 +25,7 @@
 * [2023-09-02, 15:18:04](https://news.ycombinator.com/item?id=37362273) - [Seek First to Understand](https://dannorth.net/2023/05/09/seek-first-to-understand/)
 * [2023-09-02, 15:13:06](https://news.ycombinator.com/item?id=37362227) - [Toml-bench – Which toml package to use in Python?](https://github.com/pwwang/toml-bench)
 * [2023-09-02, 15:09:35](https://news.ycombinator.com/item?id=37362200) - [Ask HN: How to Focus Again?](https://news.ycombinator.com/item?id=37362200)
+* [2023-09-02, 15:09:12](https://news.ycombinator.com/item?id=37362196) - [The Para Method: The Simple System for Organizing Your Digital Life in Seconds](https://fortelabs.com/blog/para/)
 * [2023-09-02, 15:07:35](https://news.ycombinator.com/item?id=37362181) - [Why the Apple phone will fail, and fail badly (2006)](https://web.archive.org/web/20070117233154/https://www.theregister.com/2006/12/23/iphone_will_fail/)
 * [2023-09-02, 15:02:52](https://news.ycombinator.com/item?id=37362151) - [Show HN: XRss: An RSS Reader and web stack demo powered by Htmx](https://xrss.infogulch.com/)
 * [2023-09-02, 15:00:30](https://news.ycombinator.com/item?id=37362132) - [Can an Artificial Kidney Finally Free Patients from Dialysis?](https://www.ucsf.edu/news/2023/08/426056/can-artificial-kidney-finally-free-patients-dialysis)
