@@ -26,9 +26,9 @@
 * [2023-09-01, 08:38:50](https://news.ycombinator.com/item?id=37348240) - [Learning For Mastery (1968) [pdf]](https://files.eric.ed.gov/fulltext/ED053419.pdf)
 * [2023-09-01, 08:14:25](https://news.ycombinator.com/item?id=37348079) - [Becoming a Contractor](https://ochagavia.nl/blog/becoming-a-contractor/)
 * [2023-09-01, 08:07:14](https://news.ycombinator.com/item?id=37348036) - [Amateur astronomers spot new impact on Jupiter](https://www.space.com/amateur-astronomers-jupiter-cosmic-collision)
-* [2023-09-01, 07:47:23](https://news.ycombinator.com/item?id=37347903) - [Homographies: Looking through a pinhole](https://www.maxwellrules.com/math/looking_through_a_pinhole.html)
 * [2023-09-01, 07:15:05](https://news.ycombinator.com/item?id=37347718) - [The Four Color Theorem [video]](https://www.youtube.com/watch?v=h7kqlYUV1l8)
 * [2023-09-01, 06:16:55](https://news.ycombinator.com/item?id=37347447) - [Organic Maps](https://organicmaps.app/)
+* [2023-08-31, 20:44:56](https://news.ycombinator.com/item?id=37343450) - [The physics of hand clapping](https://physicsworld.com/a/the-physics-of-hand-clapping-heres-how-to-do-it-best/)
 * [2023-08-31, 07:07:12](https://news.ycombinator.com/item?id=37333508) - [Unicode 88 (1988) [pdf]](https://www.unicode.org/history/unicode88.pdf)
 
 ## [Archives](archives/index.md)
