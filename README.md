@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-03, 15:20:48](https://news.ycombinator.com/item?id=37371112) - [What are emerging/promising areas of tech to get into today?](https://news.ycombinator.com/item?id=37371112)
 * [2023-09-03, 15:16:54](https://news.ycombinator.com/item?id=37371084) - [I don’t want to grow my freelance design studio into an agency](https://neladunato.com/blog/why-wont-grow-freelance-studio-into-agency/)
 * [2023-09-03, 15:08:05](https://news.ycombinator.com/item?id=37371020) - [HTML Design Principles (2007)](https://www.w3.org/TR/html-design-principles/)
 * [2023-09-03, 14:53:21](https://news.ycombinator.com/item?id=37370900) - [Climate Change Tracker](https://climatechangetracker.org)
@@ -27,7 +28,6 @@
 * [2023-09-02, 23:35:49](https://news.ycombinator.com/item?id=37366391) - [The little-known shipwreck that inspired Bram Stoker’s ‘Dracula’](https://www.nationalgeographic.com/history/article/last-voyage-of-the-demeter-dracula-dmitry)
 * [2023-09-02, 14:41:45](https://news.ycombinator.com/item?id=37361947) - [The worst programmer I know](https://dannorth.net/2023/09/02/the-worst-programmer/)
 * [2023-09-02, 07:12:34](https://news.ycombinator.com/item?id=37359193) - [The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
-* [2023-09-01, 20:59:48](https://news.ycombinator.com/item?id=37356119) - [The Glitch Gallery](https://glitchgallery.org/)
 * [2023-09-01, 18:50:31](https://news.ycombinator.com/item?id=37354742) - [Phonies: J.D. Salinger and Wielding Copyright as Self-Protection](https://crimereads.com/j-d-salinger-copyright/)
 * [2023-09-01, 18:22:37](https://news.ycombinator.com/item?id=37354460) - [Radio Microsoft (1994)](https://www.wired.com/1994/04/radio-microsoft/)
 

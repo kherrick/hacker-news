@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-03](index.md)
 
+* [2023-09-03, 15:20:48](https://news.ycombinator.com/item?id=37371112) - [What are emerging/promising areas of tech to get into today?](https://news.ycombinator.com/item?id=37371112)
 * [2023-09-03, 15:16:54](https://news.ycombinator.com/item?id=37371084) - [I don’t want to grow my freelance design studio into an agency](https://neladunato.com/blog/why-wont-grow-freelance-studio-into-agency/)
 * [2023-09-03, 15:13:24](https://news.ycombinator.com/item?id=37371058) - [Burning Man festival-goers trapped in desert as rain turns site to mud](https://www.theguardian.com/culture/2023/sep/02/burning-man-festival-mud-trapped-shelter-in-place)
 * [2023-09-03, 15:08:05](https://news.ycombinator.com/item?id=37371020) - [HTML Design Principles (2007)](https://www.w3.org/TR/html-design-principles/)
