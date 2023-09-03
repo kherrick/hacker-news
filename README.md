@@ -7,7 +7,6 @@
 * [2023-09-03, 20:00:49](https://news.ycombinator.com/item?id=37373879) - [Low-latitude oceans have become greener in the past 20 years: study](https://phys.org/news/2023-08-deep-blue-seas-oceans-hue.html)
 * [2023-09-03, 19:59:48](https://news.ycombinator.com/item?id=37373865) - [Yenish people](https://en.wikipedia.org/wiki/Yenish_people)
 * [2023-09-03, 19:53:04](https://news.ycombinator.com/item?id=37373796) - [Cola: A text CRDT for real-time collaborative editing](https://nomad.foo/blog/cola)
-* [2023-09-03, 19:38:46](https://news.ycombinator.com/item?id=37373635) - [Vector Search with OpenAI Embeddings: Lucene Is All You Need](https://arxiv.org/abs/2308.14963)
 * [2023-09-03, 19:03:23](https://news.ycombinator.com/item?id=37373280) - [Google preemptively banned hundreds of millions of 'pirate' URLs last year](https://torrentfreak.com/google-preemptively-banned-hundreds-of-millions-of-pirate-urls-last-year-230903/)
 * [2023-09-03, 19:00:56](https://news.ycombinator.com/item?id=37373257) - [Historians have an increasingly strong incentive to tell dramatic stories](https://www.ian-leslie.com/p/stories-are-bad-for-your-intelligence)
 * [2023-09-03, 17:17:32](https://news.ycombinator.com/item?id=37372110) - [Coherer Effect [video]](https://www.youtube.com/watch?v=VMkdnj698-0)
@@ -28,6 +27,7 @@
 * [2023-09-02, 13:00:09](https://news.ycombinator.com/item?id=37361119) - [A History of the Amen Break: From the Winstons to Futurama and Om Unit](https://splice.com/blog/amen-break/)
 * [2023-09-02, 11:29:00](https://news.ycombinator.com/item?id=37360502) - [Index of Aesthetics](https://cari.institute/aesthetics)
 * [2023-09-02, 07:12:34](https://news.ycombinator.com/item?id=37359193) - [The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
+* [2023-09-02, 02:15:30](https://news.ycombinator.com/item?id=37358044) - [Curated cauldrons: feasting practices in the Caucasian steppe](https://www.cell.com/iscience/fulltext/S2589-0042(23)01559-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2589004223015596%3Fshowall%3Dtrue)
 * [2023-09-01, 20:14:30](https://news.ycombinator.com/item?id=37355690) - [Hasanlu Lovers](https://en.wikipedia.org/wiki/Hasanlu_Lovers)
 * [2023-09-01, 11:12:30](https://news.ycombinator.com/item?id=37349276) - [A Gentle Introduction to Liquid Types](https://goto.ucsd.edu/~ucsdpl-blog/liquidtypes/2015/09/19/liquid-types/)
 
