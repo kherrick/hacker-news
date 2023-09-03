@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-03](index.md)
 
+* [2023-09-03, 19:16:50](https://news.ycombinator.com/item?id=37373410) - [I'm Being Stalked and YouTube is Ignoring it [video]](https://www.youtube.com/watch?v=hixwIOd_C44)
 * [2023-09-03, 18:33:11](https://news.ycombinator.com/item?id=37372961) - [Microsoft Edge is starting to annoy me big time](https://www.dedoimedo.com/computers/microsoft-edge-personalized-web-got-it-annoyance.html)
 * [2023-09-03, 17:25:36](https://news.ycombinator.com/item?id=37372188) - [USPS Isn't Paying 45,000 Rural Postal Workers This Week](https://jalopnik.com/usps-isnt-paying-45-000-rural-postal-workers-this-week-1850797494)
 * [2023-09-03, 17:04:54](https://news.ycombinator.com/item?id=37372002) - [da Vinci robot surgeon removes inoperable tumor, saving patient’s life](https://bgr.com/science/da-vinci-robot-surgeon-removes-inoperable-tumor-saving-patients-life/)
