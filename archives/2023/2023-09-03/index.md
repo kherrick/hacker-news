@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-09-03](index.md)
 
+* [2023-09-03, 20:00:49](https://news.ycombinator.com/item?id=37373879) - [Are deep blue seas fading? Oceans turn to new hue across parts of Earth](https://phys.org/news/2023-08-deep-blue-seas-oceans-hue.html)
+* [2023-09-03, 19:38:46](https://news.ycombinator.com/item?id=37373635) - [Vector Search with OpenAI Embeddings: Lucene Is All You Need](https://arxiv.org/abs/2308.14963)
 * [2023-09-03, 19:16:50](https://news.ycombinator.com/item?id=37373410) - [I'm Being Stalked and YouTube is Ignoring it [video]](https://www.youtube.com/watch?v=hixwIOd_C44)
+* [2023-09-03, 19:03:23](https://news.ycombinator.com/item?id=37373280) - [Google Preemptively Banned Hundreds of Millions of 'Pirate' URLs Last Year](https://torrentfreak.com/google-preemptively-banned-hundreds-of-millions-of-pirate-urls-last-year-230903/)
 * [2023-09-03, 18:52:58](https://news.ycombinator.com/item?id=37373182) - [Tesla FSD Beta tried to kill me last night](https://electrek.co/2023/09/01/tesla-fsd-beta-tried-to-kill-me-last-night/)
 * [2023-09-03, 18:33:11](https://news.ycombinator.com/item?id=37372961) - [Microsoft Edge is starting to annoy me big time](https://www.dedoimedo.com/computers/microsoft-edge-personalized-web-got-it-annoyance.html)
+* [2023-09-03, 18:29:02](https://news.ycombinator.com/item?id=37372914) - [Negative impact of vegetarian and vegan labels](https://doi.org/10.1016/j.appet.2023.106767)
 * [2023-09-03, 18:15:36](https://news.ycombinator.com/item?id=37372754) - [Tesla (TSLA) tumbles on price cuts, “appreciating asset” dream going away](https://electrek.co/2023/09/01/tesla-tsla-tumbles-price-cuts-appreciating-asset-dream/)
 * [2023-09-03, 17:25:36](https://news.ycombinator.com/item?id=37372188) - [USPS Isn't Paying 45,000 Rural Postal Workers This Week](https://jalopnik.com/usps-isnt-paying-45-000-rural-postal-workers-this-week-1850797494)
 * [2023-09-03, 17:04:54](https://news.ycombinator.com/item?id=37372002) - [da Vinci robot surgeon removes inoperable tumor, saving patient’s life](https://bgr.com/science/da-vinci-robot-surgeon-removes-inoperable-tumor-saving-patients-life/)
