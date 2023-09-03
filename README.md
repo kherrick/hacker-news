@@ -28,7 +28,7 @@
 * [2023-09-02, 13:00:09](https://news.ycombinator.com/item?id=37361119) - [A History of the Amen Break: From the Winstons to Futurama and Om Unit](https://splice.com/blog/amen-break/)
 * [2023-09-02, 11:29:00](https://news.ycombinator.com/item?id=37360502) - [Index of Aesthetics](https://cari.institute/aesthetics)
 * [2023-09-02, 07:12:34](https://news.ycombinator.com/item?id=37359193) - [The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
-* [2023-09-02, 07:09:21](https://news.ycombinator.com/item?id=37359182) - [Thompson’s Group F (2004) [pdf]](https://pi.math.cornell.edu/~belk/Thesis.pdf)
+* [2023-09-02, 02:15:30](https://news.ycombinator.com/item?id=37358044) - [Curated cauldrons: feasting practices in the Caucasian steppe](https://www.cell.com/iscience/fulltext/S2589-0042(23)01559-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2589004223015596%3Fshowall%3Dtrue)
 * [2023-09-01, 20:14:30](https://news.ycombinator.com/item?id=37355690) - [Hasanlu Lovers](https://en.wikipedia.org/wiki/Hasanlu_Lovers)
 
 ## [Archives](archives/index.md)
