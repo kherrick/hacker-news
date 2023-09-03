@@ -85,6 +85,7 @@
 * [2023-09-02, 07:26:31](https://news.ycombinator.com/item?id=37359238) - [Plan for 55,000-acre utopia dreamed by Silicon Valley elites unveiled](https://www.theguardian.com/technology/2023/sep/02/silicon-valley-elites-utopian-city-california)
 * [2023-09-02, 07:15:47](https://news.ycombinator.com/item?id=37359203) - [Become fundamentally strong in Data Science and AI](https://edu.machinelearningplus.com/s/pages/ds-career-path)
 * [2023-09-02, 07:12:34](https://news.ycombinator.com/item?id=37359193) - [The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
+* [2023-09-02, 07:09:21](https://news.ycombinator.com/item?id=37359182) - [Thompson’s Group F [pdf]](https://pi.math.cornell.edu/~belk/Thesis.pdf)
 * [2023-09-02, 07:01:07](https://news.ycombinator.com/item?id=37359146) - [PlayHT (YC W23) Is Hiring Senior ML Engineers (LLMs, Generative AI)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 * [2023-09-02, 06:25:52](https://news.ycombinator.com/item?id=37359013) - [Is the ChatGPT and Bing AI boom already over?](https://www.vox.com/technology/2023/8/19/23837705/openai-chatgpt-microsoft-bing-google-generating-less-interest)
 * [2023-09-02, 04:30:35](https://news.ycombinator.com/item?id=37358577) - [The tensor product, demystified (2018)](https://www.math3ma.com/blog/the-tensor-product-demystified)
