@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-03, 15:16:54](https://news.ycombinator.com/item?id=37371084) - [I don’t want to grow my freelance design studio into an agency](https://neladunato.com/blog/why-wont-grow-freelance-studio-into-agency/)
-* [2023-09-03, 15:13:24](https://news.ycombinator.com/item?id=37371058) - [Burning Man festival-goers trapped in desert as rain turns site to mud](https://www.theguardian.com/culture/2023/sep/02/burning-man-festival-mud-trapped-shelter-in-place)
 * [2023-09-03, 15:08:05](https://news.ycombinator.com/item?id=37371020) - [HTML Design Principles (2007)](https://www.w3.org/TR/html-design-principles/)
 * [2023-09-03, 14:53:21](https://news.ycombinator.com/item?id=37370900) - [Climate Change Tracker](https://climatechangetracker.org)
 * [2023-09-03, 14:47:02](https://news.ycombinator.com/item?id=37370858) - [Harry Browne’s 17 Golden Rules of Financial Safety (2013)](https://thetaoofwealth.wordpress.com/2013/02/17/harry-brownes-17-golden-rules-of-financial-safety/)
@@ -25,6 +24,7 @@
 * [2023-09-03, 05:02:57](https://news.ycombinator.com/item?id=37367855) - [UPI Payments: 10B transactions a month done, next stop 100B](https://www.bqprime.com/business/upi-payments-10-billion-transactions-a-month-done-next-stop-100-billion)
 * [2023-09-03, 01:46:00](https://news.ycombinator.com/item?id=37367013) - [Baresip – An Open Source modular SIP User-Agent with audio and video support](https://github.com/baresip/baresip)
 * [2023-09-02, 23:42:52](https://news.ycombinator.com/item?id=37366423) - [Lorapaper: A connected e-paper device that runs on light](https://github.com/RobPo/lorapaper)
+* [2023-09-02, 23:35:49](https://news.ycombinator.com/item?id=37366391) - [The little-known shipwreck that inspired Bram Stoker’s ‘Dracula’](https://www.nationalgeographic.com/history/article/last-voyage-of-the-demeter-dracula-dmitry)
 * [2023-09-02, 14:41:45](https://news.ycombinator.com/item?id=37361947) - [The worst programmer I know](https://dannorth.net/2023/09/02/the-worst-programmer/)
 * [2023-09-02, 07:12:34](https://news.ycombinator.com/item?id=37359193) - [The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
 * [2023-09-01, 20:59:48](https://news.ycombinator.com/item?id=37356119) - [The Glitch Gallery](https://glitchgallery.org/)
