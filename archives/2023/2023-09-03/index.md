@@ -7,6 +7,7 @@
 * [2023-09-03, 07:00:22](https://news.ycombinator.com/item?id=37368298) - [Bitmovin (YC S15) Is Hiring Senior Software Engineers in Austria](https://bitmovin.com/careers/senior-software-engineer-java-6834404002/)
 * [2023-09-03, 06:32:22](https://news.ycombinator.com/item?id=37368191) - [The Musaicum EU-plus 10M resolution image of Europe](https://imagico.de/blog/en/announcing-the-musaicum-eu-plus-10m-resolution-image-of-europe/)
 * [2023-09-03, 06:29:02](https://news.ycombinator.com/item?id=37368166) - [Show HN: Online Timers](https://www.timerone.com)
+* [2023-09-03, 06:09:23](https://news.ycombinator.com/item?id=37368099) - [Hacking the Timex m851](https://lock.cmpxchg8b.com/timex.html)
 * [2023-09-03, 05:45:14](https://news.ycombinator.com/item?id=37368022) - [How did Stripe come up with its name? (2015)](https://www.quora.com/How-did-Stripe-come-up-with-its-name/answer/Greg-Brockman)
 * [2023-09-03, 05:45:14](https://news.ycombinator.com/item?id=37368022) - [How did Stripe come up with its name? (2015)](https://www.quora.com/How-did-Stripe-come-up-with-its-name)
 * [2023-09-03, 05:30:10](https://news.ycombinator.com/item?id=37367951) - [Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)
