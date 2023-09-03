@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-02](index.md)
 
+* [2023-09-02, 23:42:52](https://news.ycombinator.com/item?id=37366423) - [LoraPaper: A Connected EPaper Device That Runs on Light](https://github.com/RobPo/lorapaper)
 * [2023-09-02, 23:25:38](https://news.ycombinator.com/item?id=37366341) - [How to type “blimpy” in Emacs [video]](https://www.youtube.com/watch?v=2VOnKMJqIL0)
 * [2023-09-02, 22:36:03](https://news.ycombinator.com/item?id=37366099) - [Focus: A simple and fast text editor written in Jai](https://github.com/focus-editor/focus)
 * [2023-09-02, 22:12:16](https://news.ycombinator.com/item?id=37365968) - [Rescuing the lost code and stereo sound to Sinistar [video]](https://www.youtube.com/watch?v=ZRDdKZ7V54I)
