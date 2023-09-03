@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2023-09-03, 06:29:02",
-      "https://news.ycombinator.com/item?id=37368166"
+      "2023-09-03, 06:09:23",
+      "https://news.ycombinator.com/item?id=37368099"
     ],
     [
-      "Show HN: Online Timers",
-      "https://www.timerone.com"
+      "Hacking the Timex m851",
+      "https://lock.cmpxchg8b.com/timex.html"
     ]
   ],
   [
@@ -77,6 +77,16 @@
     [
       "Baresip – An Open Source modular SIP User-Agent with audio and video support",
       "https://github.com/baresip/baresip"
+    ]
+  ],
+  [
+    [
+      "2023-09-02, 23:42:52",
+      "https://news.ycombinator.com/item?id=37366423"
+    ],
+    [
+      "Lorapaper: A connected e-paper device that runs on light",
+      "https://github.com/RobPo/lorapaper"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "An intuition for logarithms",
       "https://thasso.xyz/2023/09/02/an-intuition-for-logarithms/"
-    ]
-  ],
-  [
-    [
-      "2023-09-02, 15:30:18",
-      "https://news.ycombinator.com/item?id=37362378"
-    ],
-    [
-      "Show HN: A .bit gateway for resolving ipfs:// to https://",
-      "https://bit.site/"
     ]
   ],
   [
