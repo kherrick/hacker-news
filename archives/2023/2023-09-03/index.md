@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-03](index.md)
 
+* [2023-09-03, 12:00:21](https://news.ycombinator.com/item?id=37369698) - [Replit (YC W18) Is Hiring Engineers in AI, Platform, and Product](https://replit.com/site/careers)
 * [2023-09-03, 09:18:43](https://news.ycombinator.com/item?id=37368929) - [The Curious Case of Hybrids in Watchmaking](https://monochrome-watches.com/a-technical-perspective-defining-and-understanding-hybrid-watches/)
 * [2023-09-03, 08:53:24](https://news.ycombinator.com/item?id=37368841) - [Why Do We Interface? (2020)](https://whydoweinterface.com)
 * [2023-09-03, 08:49:37](https://news.ycombinator.com/item?id=37368824) - [The boiling frog of digital freedom](https://gazoche.xyz/posts/boiling-frog/)
@@ -12,6 +13,7 @@
 * [2023-09-03, 07:44:00](https://news.ycombinator.com/item?id=37368505) - [Using the Wrong Dictionary (2014)](https://jsomers.net/blog/dictionary)
 * [2023-09-03, 07:00:22](https://news.ycombinator.com/item?id=37368298) - [Bitmovin (YC S15) Is Hiring Senior Software Engineers in Austria](https://bitmovin.com/careers/senior-software-engineer-java-6834404002/)
 * [2023-09-03, 06:53:51](https://news.ycombinator.com/item?id=37368264) - [The Eleuther AI Mafia](https://www.latent.space/p/rwkv#%C2%A7the-eleuther-mafia)
+* [2023-09-03, 06:49:07](https://news.ycombinator.com/item?id=37368245) - [MaraDNS: A small open-source DNS server](https://github.com/samboy/MaraDNS)
 * [2023-09-03, 06:32:22](https://news.ycombinator.com/item?id=37368191) - [The Musaicum EU-plus 10M resolution image of Europe](https://imagico.de/blog/en/announcing-the-musaicum-eu-plus-10m-resolution-image-of-europe/)
 * [2023-09-03, 06:29:02](https://news.ycombinator.com/item?id=37368166) - [Show HN: Online Timers](https://www.timerone.com)
 * [2023-09-03, 06:09:23](https://news.ycombinator.com/item?id=37368099) - [Hacking the Timex m851](https://lock.cmpxchg8b.com/timex.html)
