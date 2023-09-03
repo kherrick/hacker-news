@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-09-03](index.md)
 
 * [2023-09-03, 20:00:49](https://news.ycombinator.com/item?id=37373879) - [Are deep blue seas fading? Oceans turn to new hue across parts of Earth](https://phys.org/news/2023-08-deep-blue-seas-oceans-hue.html)
+* [2023-09-03, 19:53:04](https://news.ycombinator.com/item?id=37373796) - [Cola: A text CRDT for real-time collaborative editing](https://nomad.foo/blog/cola)
+* [2023-09-03, 19:45:23](https://news.ycombinator.com/item?id=37373710) - [Some veteran YouTube staff think Shorts might ruin YouTube](https://www.theverge.com/2023/9/3/23857451/youtube-shorts-tiktok-ads-short-video)
 * [2023-09-03, 19:38:46](https://news.ycombinator.com/item?id=37373635) - [Vector Search with OpenAI Embeddings: Lucene Is All You Need](https://arxiv.org/abs/2308.14963)
 * [2023-09-03, 19:16:50](https://news.ycombinator.com/item?id=37373410) - [I'm Being Stalked and YouTube is Ignoring it [video]](https://www.youtube.com/watch?v=hixwIOd_C44)
 * [2023-09-03, 19:03:23](https://news.ycombinator.com/item?id=37373280) - [Google Preemptively Banned Hundreds of Millions of 'Pirate' URLs Last Year](https://torrentfreak.com/google-preemptively-banned-hundreds-of-millions-of-pirate-urls-last-year-230903/)
