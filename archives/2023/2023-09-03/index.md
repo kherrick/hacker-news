@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-03](index.md)
 
+* [2023-09-03, 13:26:24](https://news.ycombinator.com/item?id=37370248) - [Interfaces for Prototyping Hardware](https://kevinlynagh.com/newsletter/2023_09_hardware_prototyping/)
 * [2023-09-03, 12:39:46](https://news.ycombinator.com/item?id=37369946) - [Jetbrains are offering 65% off Rider personal licenses for 65 hours](https://lp.jetbrains.com/rider-65-discount/)
 * [2023-09-03, 12:22:35](https://news.ycombinator.com/item?id=37369826) - [The Raft Consensus Algorithm](https://raft.github.io)
 * [2023-09-03, 12:00:21](https://news.ycombinator.com/item?id=37369698) - [Replit (YC W18) Is Hiring Engineers in AI, Platform, and Product](https://replit.com/site/careers)
@@ -24,6 +25,7 @@
 * [2023-09-03, 05:45:14](https://news.ycombinator.com/item?id=37368022) - [How did Stripe come up with its name? (2015)](https://www.quora.com/How-did-Stripe-come-up-with-its-name/answer/Greg-Brockman)
 * [2023-09-03, 05:45:14](https://news.ycombinator.com/item?id=37368022) - [How did Stripe come up with its name? (2015)](https://www.quora.com/How-did-Stripe-come-up-with-its-name)
 * [2023-09-03, 05:30:10](https://news.ycombinator.com/item?id=37367951) - [Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)
+* [2023-09-03, 05:08:53](https://news.ycombinator.com/item?id=37367882) - [‘Psychonauts’ by Mike Jay Review](https://www.historytoday.com/archive/review/psychonauts-mike-jay-review)
 * [2023-09-03, 05:02:57](https://news.ycombinator.com/item?id=37367855) - [UPI Payments: 10B Transactions a Month Done, Next Stop 100B](https://www.bqprime.com/business/upi-payments-10-billion-transactions-a-month-done-next-stop-100-billion)
 * [2023-09-03, 04:16:10](https://news.ycombinator.com/item?id=37367687) - [Niri: A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri)
 * [2023-09-03, 02:57:51](https://news.ycombinator.com/item?id=37367329) - [Residential School ‘Mass Grave’ was underground rocks, no bodies found](https://thecountersignal.com/breaking-residential-school-mass-grave-turned-out-be-be-underground-rocks-no-bodies-found/)
