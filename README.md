@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-03, 13:26:24](https://news.ycombinator.com/item?id=37370248) - [Interfaces for Prototyping Hardware](https://kevinlynagh.com/newsletter/2023_09_hardware_prototyping/)
+* [2023-09-03, 13:17:03](https://news.ycombinator.com/item?id=37370170) - [Sag-AFTRA votes unanimously to expand its strike to include the games industry](https://www.eurogamer.net/sag-aftra-votes-unanimously-to-expand-its-strike-to-include-the-games-industry)
 * [2023-09-03, 12:22:35](https://news.ycombinator.com/item?id=37369826) - [The Raft Consensus Algorithm](https://raft.github.io)
 * [2023-09-03, 12:00:21](https://news.ycombinator.com/item?id=37369698) - [Replit (YC W18) Is Hiring Engineers in AI, Platform, and Product](https://replit.com/site/careers)
 * [2023-09-03, 11:27:06](https://news.ycombinator.com/item?id=37369521) - [The pandemic your grandparents forgot about](https://nautil.us/the-pandemic-your-grandparents-forgot-359076/)
@@ -19,7 +20,6 @@
 * [2023-09-03, 05:08:53](https://news.ycombinator.com/item?id=37367882) - [‘Psychonauts’ by Mike Jay Review](https://www.historytoday.com/archive/review/psychonauts-mike-jay-review)
 * [2023-09-03, 05:02:57](https://news.ycombinator.com/item?id=37367855) - [UPI Payments: 10B transactions a month done, next stop 100B](https://www.bqprime.com/business/upi-payments-10-billion-transactions-a-month-done-next-stop-100-billion)
 * [2023-09-03, 01:46:00](https://news.ycombinator.com/item?id=37367013) - [Baresip – An Open Source modular SIP User-Agent with audio and video support](https://github.com/baresip/baresip)
-* [2023-09-03, 00:32:38](https://news.ycombinator.com/item?id=37366678) - [Vigil, the eternal morally vigilant programming language](https://github.com/munificent/vigil)
 * [2023-09-02, 23:42:52](https://news.ycombinator.com/item?id=37366423) - [Lorapaper: A connected e-paper device that runs on light](https://github.com/RobPo/lorapaper)
 * [2023-09-02, 23:25:38](https://news.ycombinator.com/item?id=37366341) - [How to type “blimpy” in Emacs [video]](https://www.youtube.com/watch?v=2VOnKMJqIL0)
 * [2023-09-02, 22:36:03](https://news.ycombinator.com/item?id=37366099) - [Focus: A simple and fast text editor written in Jai](https://github.com/focus-editor/focus)

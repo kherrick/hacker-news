@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-03](index.md)
 
 * [2023-09-03, 13:26:24](https://news.ycombinator.com/item?id=37370248) - [Interfaces for Prototyping Hardware](https://kevinlynagh.com/newsletter/2023_09_hardware_prototyping/)
+* [2023-09-03, 13:17:03](https://news.ycombinator.com/item?id=37370170) - [Sag-AFTRA votes unanimously to expand its strike to include the games industry](https://www.eurogamer.net/sag-aftra-votes-unanimously-to-expand-its-strike-to-include-the-games-industry)
 * [2023-09-03, 12:39:46](https://news.ycombinator.com/item?id=37369946) - [Jetbrains are offering 65% off Rider personal licenses for 65 hours](https://lp.jetbrains.com/rider-65-discount/)
 * [2023-09-03, 12:22:35](https://news.ycombinator.com/item?id=37369826) - [The Raft Consensus Algorithm](https://raft.github.io)
 * [2023-09-03, 12:00:21](https://news.ycombinator.com/item?id=37369698) - [Replit (YC W18) Is Hiring Engineers in AI, Platform, and Product](https://replit.com/site/careers)
