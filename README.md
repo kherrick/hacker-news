@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-03, 02:08:59](https://news.ycombinator.com/item?id=37367115) - [Why Did a Drug Gang Kill 43 Students? Text Messages Hold Clues](https://www.nytimes.com/2023/09/02/world/americas/mexico-iguala-students-kidnapping.html)
 * [2023-09-03, 01:46:00](https://news.ycombinator.com/item?id=37367013) - [Baresip – An Open Source modular SIP User-Agent with audio and video support](https://github.com/baresip/baresip)
 * [2023-09-03, 00:32:38](https://news.ycombinator.com/item?id=37366678) - [Vigil, the eternal morally vigilant programming language](https://github.com/munificent/vigil)
 * [2023-09-02, 23:25:38](https://news.ycombinator.com/item?id=37366341) - [How to type “blimpy” in Emacs [video]](https://www.youtube.com/watch?v=2VOnKMJqIL0)
@@ -18,7 +19,6 @@
 * [2023-09-02, 15:00:30](https://news.ycombinator.com/item?id=37362132) - [Can an artificial kidney finally free patients from dialysis?](https://www.ucsf.edu/news/2023/08/426056/can-artificial-kidney-finally-free-patients-dialysis)
 * [2023-09-02, 14:56:00](https://news.ycombinator.com/item?id=37362088) - [ForgeFed](https://forgefed.org/)
 * [2023-09-02, 14:41:45](https://news.ycombinator.com/item?id=37361947) - [The worst programmer I know](https://dannorth.net/2023/09/02/the-worst-programmer/)
-* [2023-09-02, 13:36:02](https://news.ycombinator.com/item?id=37361409) - [Can plastic recycling ever work?](https://www.nytimes.com/2023/09/01/headway/plastic-recycling-california-law.html)
 * [2023-09-02, 12:55:11](https://news.ycombinator.com/item?id=37361094) - [On Craft](https://www.drcathicks.com/post/on-craft)
 * [2023-09-02, 12:50:48](https://news.ycombinator.com/item?id=37361053) - [Bézier Curves and the logic behind them](https://blog.richardekwonye.com/bezier-curves)
 * [2023-09-02, 12:50:09](https://news.ycombinator.com/item?id=37361050) - [Semantic Zoom](https://alexanderobenauer.com/labnotes/038/)
