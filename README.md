@@ -21,7 +21,7 @@
 * [2023-09-02, 15:00:30](https://news.ycombinator.com/item?id=37362132) - [Can an artificial kidney finally free patients from dialysis?](https://www.ucsf.edu/news/2023/08/426056/can-artificial-kidney-finally-free-patients-dialysis)
 * [2023-09-02, 14:56:00](https://news.ycombinator.com/item?id=37362088) - [ForgeFed](https://forgefed.org/)
 * [2023-09-02, 14:41:45](https://news.ycombinator.com/item?id=37361947) - [The worst programmer I know](https://dannorth.net/2023/09/02/the-worst-programmer/)
-* [2023-09-02, 14:13:40](https://news.ycombinator.com/item?id=37361711) - [Making deep learning go brrrr from first principles](https://horace.io/brrr_intro.html)
+* [2023-09-02, 14:13:40](https://news.ycombinator.com/item?id=37361711) - [Making deep learning go brrrr from first principles (2022)](https://horace.io/brrr_intro.html)
 * [2023-09-02, 12:50:48](https://news.ycombinator.com/item?id=37361053) - [Bézier Curves and the logic behind them](https://blog.richardekwonye.com/bezier-curves)
 * [2023-09-02, 10:28:02](https://news.ycombinator.com/item?id=37360186) - [Recursive Racks [video]](https://www.youtube.com/watch?v=ckrrQTkTqIo)
 * [2023-09-02, 07:44:09](https://news.ycombinator.com/item?id=37359310) - [Microsoft is killing WordPad in Windows](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-killing-wordpad-in-windows-after-28-years/)
