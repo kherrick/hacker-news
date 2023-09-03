@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=37368561"
     ],
     [
-      "Quantum Groups and Adelic Representations",
+      "Adelic Quantum Group Representations",
       "https://chat.openai.com/share/1a9dc873-6e16-40d3-859c-6a56f5e5b6bb"
     ]
   ],
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2023-09-03, 00:32:38",
+      "https://news.ycombinator.com/item?id=37366678"
+    ],
+    [
+      "Vigil, the eternal morally vigilant programming language",
+      "https://github.com/munificent/vigil"
+    ]
+  ],
+  [
+    [
       "2023-09-02, 23:42:52",
       "https://news.ycombinator.com/item?id=37366423"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2023-09-02, 22:12:16",
-      "https://news.ycombinator.com/item?id=37365968"
-    ],
-    [
-      "Rescuing the lost code and stereo sound to Sinistar [video]",
-      "https://www.youtube.com/watch?v=ZRDdKZ7V54I"
-    ]
-  ],
-  [
-    [
       "2023-09-02, 18:33:13",
       "https://news.ycombinator.com/item?id=37364181"
     ],
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2023-09-02, 16:03:05",
-      "https://news.ycombinator.com/item?id=37362740"
+      "2023-09-02, 17:08:46",
+      "https://news.ycombinator.com/item?id=37363362"
     ],
     [
-      "An intuition for logarithms",
-      "https://thasso.xyz/2023/09/02/an-intuition-for-logarithms/"
+      "Recursively summarizing enables long-term dialogue memory in LLMs",
+      "https://arxiv.org/abs/2308.15022"
     ]
   ],
   [
