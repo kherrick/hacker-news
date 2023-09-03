@@ -31,6 +31,7 @@
 * [2023-09-02, 16:32:50](https://news.ycombinator.com/item?id=37363035) - [Top Russian rocket scientist dies from ‘mushroom poisoning’](https://ptv-news.com.pk/top-russian-rocket-scientist-dies-from-mushroom-poisoning/)
 * [2023-09-02, 16:03:05](https://news.ycombinator.com/item?id=37362740) - [An intuition for logarithms](https://thasso.xyz/2023/09/02/an-intuition-for-logarithms/)
 * [2023-09-02, 15:53:18](https://news.ycombinator.com/item?id=37362626) - [Ask HN: SICP is often recommended as mind opener, what did you learn from it?](https://news.ycombinator.com/item?id=37362626)
+* [2023-09-02, 15:30:18](https://news.ycombinator.com/item?id=37362378) - [Show HN: A .bit gateway for resolving ipfs:// to https://](https://bit.site/)
 * [2023-09-02, 15:18:04](https://news.ycombinator.com/item?id=37362273) - [Seek First to Understand](https://dannorth.net/2023/05/09/seek-first-to-understand/)
 * [2023-09-02, 15:13:06](https://news.ycombinator.com/item?id=37362227) - [Toml-bench – Which toml package to use in Python?](https://github.com/pwwang/toml-bench)
 * [2023-09-02, 15:09:35](https://news.ycombinator.com/item?id=37362200) - [Ask HN: How to Focus Again?](https://news.ycombinator.com/item?id=37362200)
