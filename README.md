@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-03, 02:48:40](https://news.ycombinator.com/item?id=37367288) - [Kermit Project books and articles online](https://www.kermitproject.org/booksonline.html)
-* [2023-09-03, 01:53:35](https://news.ycombinator.com/item?id=37367051) - [Ask HN: What do you carry in your backpack?](https://news.ycombinator.com/item?id=37367051)
 * [2023-09-03, 01:46:00](https://news.ycombinator.com/item?id=37367013) - [Baresip – An Open Source modular SIP User-Agent with audio and video support](https://github.com/baresip/baresip)
 * [2023-09-03, 00:32:38](https://news.ycombinator.com/item?id=37366678) - [Vigil, the eternal morally vigilant programming language](https://github.com/munificent/vigil)
 * [2023-09-02, 23:25:38](https://news.ycombinator.com/item?id=37366341) - [How to type “blimpy” in Emacs [video]](https://www.youtube.com/watch?v=2VOnKMJqIL0)
@@ -10,6 +9,7 @@
 * [2023-09-02, 20:57:44](https://news.ycombinator.com/item?id=37365468) - [Show HN: Menu Bar Calendar on macOS](https://sindresorhus.com/menu-bar-calendar)
 * [2023-09-02, 19:48:14](https://news.ycombinator.com/item?id=37364885) - [Calibre replacement considerations (2019)](https://anarc.at/software/desktop/calibre/)
 * [2023-09-02, 19:20:24](https://news.ycombinator.com/item?id=37364624) - [GameRoy: JIT Compilation in High-Accuracy Game Boy Emulation](https://rodrigodd.github.io/2023/09/02/gameroy-jit.html)
+* [2023-09-02, 19:18:55](https://news.ycombinator.com/item?id=37364605) - [PSA: Don't base your business around Discord.7yr account banned for posting ASNs](https://news.ycombinator.com/item?id=37364605)
 * [2023-09-02, 18:56:08](https://news.ycombinator.com/item?id=37364388) - [Found in a Library Book (2022)](https://oaklandlibrary.org/found-in-a-library-book/)
 * [2023-09-02, 18:45:07](https://news.ycombinator.com/item?id=37364290) - [I mirrored all the code from PyPI to GitHub and analysed it](https://py-code.org/stats)
 * [2023-09-02, 18:33:13](https://news.ycombinator.com/item?id=37364181) - [LensLeech: Touch a camera to control your devices](https://volzo.de/thing/lensleech/)
