@@ -14,7 +14,7 @@
 * [2023-09-03, 13:17:03](https://news.ycombinator.com/item?id=37370170) - [Sag-AFTRA votes unanimously to expand its strike to include the games industry](https://www.eurogamer.net/sag-aftra-votes-unanimously-to-expand-its-strike-to-include-the-games-industry)
 * [2023-09-03, 12:22:35](https://news.ycombinator.com/item?id=37369826) - [The Raft Consensus Algorithm](https://raft.github.io)
 * [2023-09-03, 12:00:21](https://news.ycombinator.com/item?id=37369698) - [Replit (YC W18) Is Hiring Engineers in AI, Platform, and Product](https://replit.com/site/careers)
-* [2023-09-03, 09:18:43](https://news.ycombinator.com/item?id=37368929) - [The Curious Case of Hybrids in Watchmaking](https://monochrome-watches.com/a-technical-perspective-defining-and-understanding-hybrid-watches/)
+* [2023-09-03, 09:18:43](https://news.ycombinator.com/item?id=37368929) - [The curious case of hybrids in watchmaking](https://monochrome-watches.com/a-technical-perspective-defining-and-understanding-hybrid-watches/)
 * [2023-09-03, 08:53:24](https://news.ycombinator.com/item?id=37368841) - [Why Do We Interface? (2020)](https://whydoweinterface.com)
 * [2023-09-03, 08:49:37](https://news.ycombinator.com/item?id=37368824) - [The boiling frog of digital freedom](https://gazoche.xyz/posts/boiling-frog/)
 * [2023-09-03, 07:44:00](https://news.ycombinator.com/item?id=37368505) - [Using the Wrong Dictionary (2014)](https://jsomers.net/blog/dictionary)
