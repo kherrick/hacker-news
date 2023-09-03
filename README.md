@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-03, 12:39:46](https://news.ycombinator.com/item?id=37369946) - [Jetbrains are offering 65% off Rider personal licenses for 65 hours](https://lp.jetbrains.com/rider-65-discount/)
+* [2023-09-03, 12:22:35](https://news.ycombinator.com/item?id=37369826) - [The Raft Consensus Algorithm](https://raft.github.io)
 * [2023-09-03, 12:00:21](https://news.ycombinator.com/item?id=37369698) - [Replit (YC W18) Is Hiring Engineers in AI, Platform, and Product](https://replit.com/site/careers)
 * [2023-09-03, 11:27:06](https://news.ycombinator.com/item?id=37369521) - [The pandemic your grandparents forgot about](https://nautil.us/the-pandemic-your-grandparents-forgot-359076/)
 * [2023-09-03, 09:29:56](https://news.ycombinator.com/item?id=37368977) - [Learner drivers forced to buy tests on black market as companies blockbook slots](https://www.theguardian.com/uk-news/2023/sep/03/an-absolute-mess-learner-drivers-forced-to-buy-tests-on-black-market-as-companies-block-book-slots)
@@ -19,7 +20,6 @@
 * [2023-09-03, 01:46:00](https://news.ycombinator.com/item?id=37367013) - [Baresip – An Open Source modular SIP User-Agent with audio and video support](https://github.com/baresip/baresip)
 * [2023-09-02, 23:42:52](https://news.ycombinator.com/item?id=37366423) - [Lorapaper: A connected e-paper device that runs on light](https://github.com/RobPo/lorapaper)
 * [2023-09-02, 23:25:38](https://news.ycombinator.com/item?id=37366341) - [How to type “blimpy” in Emacs [video]](https://www.youtube.com/watch?v=2VOnKMJqIL0)
-* [2023-09-02, 22:12:16](https://news.ycombinator.com/item?id=37365968) - [Rescuing the lost code and stereo sound to Sinistar [video]](https://www.youtube.com/watch?v=ZRDdKZ7V54I)
 * [2023-09-02, 18:33:13](https://news.ycombinator.com/item?id=37364181) - [LensLeech: Touch a camera to control your devices](https://volzo.de/thing/lensleech/)
 * [2023-09-02, 17:08:46](https://news.ycombinator.com/item?id=37363362) - [Recursively summarizing enables long-term dialogue memory in LLMs](https://arxiv.org/abs/2308.15022)
 * [2023-09-02, 16:03:05](https://news.ycombinator.com/item?id=37362740) - [An intuition for logarithms](https://thasso.xyz/2023/09/02/an-intuition-for-logarithms/)
