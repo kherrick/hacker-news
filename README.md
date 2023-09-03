@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-03, 02:08:59](https://news.ycombinator.com/item?id=37367115) - [Why Did a Drug Gang Kill 43 Students? Text Messages Hold Clues](https://www.nytimes.com/2023/09/02/world/americas/mexico-iguala-students-kidnapping.html)
+* [2023-09-03, 01:53:35](https://news.ycombinator.com/item?id=37367051) - [Ask HN: What do you carry in your backpack?](https://news.ycombinator.com/item?id=37367051)
 * [2023-09-03, 01:46:00](https://news.ycombinator.com/item?id=37367013) - [Baresip – An Open Source modular SIP User-Agent with audio and video support](https://github.com/baresip/baresip)
 * [2023-09-03, 00:32:38](https://news.ycombinator.com/item?id=37366678) - [Vigil, the eternal morally vigilant programming language](https://github.com/munificent/vigil)
 * [2023-09-02, 23:25:38](https://news.ycombinator.com/item?id=37366341) - [How to type “blimpy” in Emacs [video]](https://www.youtube.com/watch?v=2VOnKMJqIL0)
@@ -29,7 +30,6 @@
 * [2023-09-02, 02:19:39](https://news.ycombinator.com/item?id=37358063) - [Build Your Own Flight Sim in C++ (1996)](https://archive.org/details/build-your-own-flight-sim-in-c-dos-game-dev-michael-radtke-chris-lampton)
 * [2023-09-01, 20:59:48](https://news.ycombinator.com/item?id=37356119) - [The Glitch Gallery](https://glitchgallery.org/)
 * [2023-09-01, 12:26:14](https://news.ycombinator.com/item?id=37349906) - [Currying in Kotlin](https://towardsdev.com/currying-in-kotlin-9be88bcc930d)
-* [2023-09-01, 03:46:05](https://news.ycombinator.com/item?id=37346585) - [The making of EP Thompson](https://www.newstatesman.com/culture/history/2023/08/making-ep-thompson)
 
 ## [Archives](archives/index.md)
 
