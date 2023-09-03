@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-03](index.md)
 
+* [2023-09-03, 22:37:43](https://news.ycombinator.com/item?id=37375277) - [Invented Tradition](https://en.wikipedia.org/wiki/Invented_tradition)
 * [2023-09-03, 21:54:20](https://news.ycombinator.com/item?id=37374966) - [Foxconn's Promise to Invest $10B in Wisconsin Is Now a Distant Memory](https://www.engadget.com/foxconns-promise-to-invest-10-billion-in-wisconsin-is-now-a-distant-memory-090555405.html)
 * [2023-09-03, 21:10:15](https://news.ycombinator.com/item?id=37374623) - [One dead, 70k stranded at Burning Man after rains](https://www.npr.org/2023/09/02/1197441202/burning-man-festival-rains-floods-stranded-nevada)
 * [2023-09-03, 20:55:34](https://news.ycombinator.com/item?id=37374479) - [RadioShack’s new owner plots old comeback strategy](https://retailwire.com/discussion/radioshacks-new-owner-plots-old-comeback-strategy/)

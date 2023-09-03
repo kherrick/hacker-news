@@ -78,6 +78,7 @@
 * [2023-09-01, 11:57:06](https://news.ycombinator.com/item?id=37349633) - [Farewell EC2-Classic, it’s been swell](https://www.allthingsdistributed.com/2023/09/farewell-ec2-classic.html)
 * [2023-09-01, 11:45:27](https://news.ycombinator.com/item?id=37349533) - [Are self-driving cars already safer than human drivers?](https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/)
 * [2023-09-01, 11:40:34](https://news.ycombinator.com/item?id=37349487) - [Gothub: Alternative front-end for GitHub written with Go](https://codeberg.org/gothub/gothub)
+* [2023-09-01, 11:12:30](https://news.ycombinator.com/item?id=37349276) - [A Gentle Introduction to Liquid Types](https://goto.ucsd.edu/~ucsdpl-blog/liquidtypes/2015/09/19/liquid-types/)
 * [2023-09-01, 11:12:00](https://news.ycombinator.com/item?id=37349270) - [The technical merits of Wayland are mostly irrelevant](https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandTechnicalMeritsIrrelevant)
 * [2023-09-01, 10:23:50](https://news.ycombinator.com/item?id=37348914) - [Apple Clarifies Why It Abandoned Plan to Detect CSAM in iCloud Photos](https://www.wired.com/story/apple-csam-scanning-heat-initiative-letter/)
 * [2023-09-01, 10:07:42](https://news.ycombinator.com/item?id=37348808) - [Lidl Product Recall [pdf]](https://www.lidl.co.uk/static/assets/Paw_Patrol_Public_Recall_poster-500790.pdf)

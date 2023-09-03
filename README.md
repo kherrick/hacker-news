@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-03, 22:37:43](https://news.ycombinator.com/item?id=37375277) - [Invented Tradition](https://en.wikipedia.org/wiki/Invented_tradition)
 * [2023-09-03, 21:54:20](https://news.ycombinator.com/item?id=37374966) - [Foxconn's Promise to Invest $10B in Wisconsin Is Now a Distant Memory](https://www.engadget.com/foxconns-promise-to-invest-10-billion-in-wisconsin-is-now-a-distant-memory-090555405.html)
 * [2023-09-03, 20:13:06](https://news.ycombinator.com/item?id=37374013) - [The containment of George Kennan (2022)](https://claremontreviewofbooks.com/the-containment-of-george-kennan/)
 * [2023-09-03, 20:10:00](https://news.ycombinator.com/item?id=37373983) - [How to write correct code by construction using the Coq Proof Assistant](https://betterprogramming.pub/a-taste-of-coq-and-correct-code-by-construction-111bf74d3b98)
 * [2023-09-03, 20:00:49](https://news.ycombinator.com/item?id=37373879) - [Low-latitude oceans have become greener in the past 20 years: study](https://phys.org/news/2023-08-deep-blue-seas-oceans-hue.html)
 * [2023-09-03, 19:59:48](https://news.ycombinator.com/item?id=37373865) - [Yenish people](https://en.wikipedia.org/wiki/Yenish_people)
 * [2023-09-03, 19:53:04](https://news.ycombinator.com/item?id=37373796) - [Cola: A text CRDT for real-time collaborative editing](https://nomad.foo/blog/cola)
-* [2023-09-03, 19:43:05](https://news.ycombinator.com/item?id=37373679) - [Ask HN: Why is home property information so public?](https://news.ycombinator.com/item?id=37373679)
 * [2023-09-03, 19:38:46](https://news.ycombinator.com/item?id=37373635) - [Vector Search with OpenAI Embeddings: Lucene Is All You Need](https://arxiv.org/abs/2308.14963)
 * [2023-09-03, 19:03:23](https://news.ycombinator.com/item?id=37373280) - [Google preemptively banned hundreds of millions of 'pirate' URLs last year](https://torrentfreak.com/google-preemptively-banned-hundreds-of-millions-of-pirate-urls-last-year-230903/)
 * [2023-09-03, 19:00:56](https://news.ycombinator.com/item?id=37373257) - [Historians have an increasingly strong incentive to tell dramatic stories](https://www.ian-leslie.com/p/stories-are-bad-for-your-intelligence)
@@ -28,8 +28,8 @@
 * [2023-09-02, 13:00:09](https://news.ycombinator.com/item?id=37361119) - [A History of the Amen Break: From the Winstons to Futurama and Om Unit](https://splice.com/blog/amen-break/)
 * [2023-09-02, 11:29:00](https://news.ycombinator.com/item?id=37360502) - [Index of Aesthetics](https://cari.institute/aesthetics)
 * [2023-09-02, 07:12:34](https://news.ycombinator.com/item?id=37359193) - [The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
-* [2023-09-02, 02:15:30](https://news.ycombinator.com/item?id=37358044) - [Curated cauldrons: feasting practices in the Caucasian steppe](https://www.cell.com/iscience/fulltext/S2589-0042(23)01559-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2589004223015596%3Fshowall%3Dtrue)
 * [2023-09-01, 20:14:30](https://news.ycombinator.com/item?id=37355690) - [Hasanlu Lovers](https://en.wikipedia.org/wiki/Hasanlu_Lovers)
+* [2023-09-01, 11:12:30](https://news.ycombinator.com/item?id=37349276) - [A Gentle Introduction to Liquid Types](https://goto.ucsd.edu/~ucsdpl-blog/liquidtypes/2015/09/19/liquid-types/)
 
 ## [Archives](archives/index.md)
 
