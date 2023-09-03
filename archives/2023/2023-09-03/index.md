@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-09-03](index.md)
 
+* [2023-09-03, 20:13:06](https://news.ycombinator.com/item?id=37374013) - [The containment of George Kennan (2022)](https://claremontreviewofbooks.com/the-containment-of-george-kennan/)
+* [2023-09-03, 20:10:00](https://news.ycombinator.com/item?id=37373983) - [A taste of Coq and correct code by construction](https://betterprogramming.pub/a-taste-of-coq-and-correct-code-by-construction-111bf74d3b98)
 * [2023-09-03, 20:00:49](https://news.ycombinator.com/item?id=37373879) - [Are deep blue seas fading? Oceans turn to new hue across parts of Earth](https://phys.org/news/2023-08-deep-blue-seas-oceans-hue.html)
 * [2023-09-03, 19:53:04](https://news.ycombinator.com/item?id=37373796) - [Cola: A text CRDT for real-time collaborative editing](https://nomad.foo/blog/cola)
 * [2023-09-03, 19:45:23](https://news.ycombinator.com/item?id=37373710) - [Some veteran YouTube staff think Shorts might ruin YouTube](https://www.theverge.com/2023/9/3/23857451/youtube-shorts-tiktok-ads-short-video)
 * [2023-09-03, 19:38:46](https://news.ycombinator.com/item?id=37373635) - [Vector Search with OpenAI Embeddings: Lucene Is All You Need](https://arxiv.org/abs/2308.14963)
 * [2023-09-03, 19:16:50](https://news.ycombinator.com/item?id=37373410) - [I'm Being Stalked and YouTube is Ignoring it [video]](https://www.youtube.com/watch?v=hixwIOd_C44)
 * [2023-09-03, 19:03:23](https://news.ycombinator.com/item?id=37373280) - [Google Preemptively Banned Hundreds of Millions of 'Pirate' URLs Last Year](https://torrentfreak.com/google-preemptively-banned-hundreds-of-millions-of-pirate-urls-last-year-230903/)
+* [2023-09-03, 19:00:56](https://news.ycombinator.com/item?id=37373257) - [Stories are bad for your intelligence: How Historians Make Themselves Stupid](https://www.ian-leslie.com/p/stories-are-bad-for-your-intelligence)
 * [2023-09-03, 18:52:58](https://news.ycombinator.com/item?id=37373182) - [Tesla FSD Beta tried to kill me last night](https://electrek.co/2023/09/01/tesla-fsd-beta-tried-to-kill-me-last-night/)
 * [2023-09-03, 18:33:11](https://news.ycombinator.com/item?id=37372961) - [Microsoft Edge is starting to annoy me big time](https://www.dedoimedo.com/computers/microsoft-edge-personalized-web-got-it-annoyance.html)
 * [2023-09-03, 18:29:02](https://news.ycombinator.com/item?id=37372914) - [Negative impact of vegetarian and vegan labels](https://doi.org/10.1016/j.appet.2023.106767)
