@@ -31,12 +31,32 @@
   ],
   [
     [
+      "2023-09-02, 23:42:52",
+      "https://news.ycombinator.com/item?id=37366423"
+    ],
+    [
+      "LoraPaper: A Connected EPaper Device That Runs on Light",
+      "https://github.com/RobPo/lorapaper"
+    ]
+  ],
+  [
+    [
       "2023-09-02, 23:25:38",
       "https://news.ycombinator.com/item?id=37366341"
     ],
     [
       "How to type “blimpy” in Emacs [video]",
       "https://www.youtube.com/watch?v=2VOnKMJqIL0"
+    ]
+  ],
+  [
+    [
+      "2023-09-02, 22:36:03",
+      "https://news.ycombinator.com/item?id=37366099"
+    ],
+    [
+      "Focus: A simple and fast text editor written in Jai",
+      "https://github.com/focus-editor/focus"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "GameRoy: JIT Compilation in High-Accuracy Game Boy Emulation",
       "https://rodrigodd.github.io/2023/09/02/gameroy-jit.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-02, 19:18:55",
-      "https://news.ycombinator.com/item?id=37364605"
-    ],
-    [
-      "PSA: Don't base your business around Discord.7yr account banned for posting ASNs",
-      "https://news.ycombinator.com/item?id=37364605"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Currying in Kotlin",
       "https://towardsdev.com/currying-in-kotlin-9be88bcc930d"
-    ]
-  ],
-  [
-    [
-      "2023-09-01, 03:46:05",
-      "https://news.ycombinator.com/item?id=37346585"
-    ],
-    [
-      "The making of EP Thompson",
-      "https://www.newstatesman.com/culture/history/2023/08/making-ep-thompson"
     ]
   ]
 ]
