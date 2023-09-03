@@ -2,9 +2,9 @@
 
 * [2023-09-03, 17:04:54](https://news.ycombinator.com/item?id=37372002) - [Da Vinci robot surgeon removes inoperable tumor, saving patient’s life](https://bgr.com/science/da-vinci-robot-surgeon-removes-inoperable-tumor-saving-patients-life/)
 * [2023-09-03, 16:50:48](https://news.ycombinator.com/item?id=37371882) - [Tesla's dirty little secret on California's I-5](https://www.sfgate.com/centralcoast/article/tesla-interstate-5-supercharger-power-plant-18343119.php)
+* [2023-09-03, 16:50:11](https://news.ycombinator.com/item?id=37371876) - [Air quality double whammy from domestic firelighters](https://www.nature.com/articles/s41612-023-00427-x)
 * [2023-09-03, 16:37:29](https://news.ycombinator.com/item?id=37371767) - [Paris Becomes the First European Capital to Ban Rented Electric Scooters](https://www.nytimes.com/2023/09/01/world/europe/paris-escooter-ban.html)
 * [2023-09-03, 16:10:08](https://news.ycombinator.com/item?id=37371539) - [SF Fire Dept.: Person Dies After Cruise Robotaxi Blocked Ambulance](https://sfstandard.com/2023/09/01/person-dies-cruise-robotaxi-blocks-san-francisco-ambulance/)
-* [2023-09-03, 16:03:47](https://news.ycombinator.com/item?id=37371477) - [California tech transplants unhappy with exodus to Austin, report says](https://www.sfgate.com/local/article/california-transplants-unhappy-exodus-austin-18343754.php)
 * [2023-09-03, 15:58:18](https://news.ycombinator.com/item?id=37371426) - [Vale.sh – A Linter for Prose](https://vale.sh/)
 * [2023-09-03, 15:37:29](https://news.ycombinator.com/item?id=37371237) - [Show HN: Extract RSS feed from almost anything](https://rssfeedasap.com)
 * [2023-09-03, 15:20:48](https://news.ycombinator.com/item?id=37371112) - [What are emerging/promising areas of tech to get into today?](https://news.ycombinator.com/item?id=37371112)
