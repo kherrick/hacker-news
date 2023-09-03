@@ -6,6 +6,7 @@
 
 * [2023-09-03, 15:13:24](https://news.ycombinator.com/item?id=37371058) - [Burning Man festival-goers trapped in desert as rain turns site to mud](https://www.theguardian.com/culture/2023/sep/02/burning-man-festival-mud-trapped-shelter-in-place)
 * [2023-09-03, 15:08:05](https://news.ycombinator.com/item?id=37371020) - [HTML Design Principles (2007)](https://www.w3.org/TR/html-design-principles/)
+* [2023-09-03, 14:53:21](https://news.ycombinator.com/item?id=37370900) - [Climate Change Tracker](https://climatechangetracker.org)
 * [2023-09-03, 14:47:02](https://news.ycombinator.com/item?id=37370858) - [Harry Browne’s 17 Golden Rules of Financial Safety (2013)](https://thetaoofwealth.wordpress.com/2013/02/17/harry-brownes-17-golden-rules-of-financial-safety/)
 * [2023-09-03, 13:26:24](https://news.ycombinator.com/item?id=37370248) - [Interfaces for Prototyping Hardware](https://kevinlynagh.com/newsletter/2023_09_hardware_prototyping/)
 * [2023-09-03, 13:17:03](https://news.ycombinator.com/item?id=37370170) - [Sag-AFTRA votes unanimously to expand its strike to include the games industry](https://www.eurogamer.net/sag-aftra-votes-unanimously-to-expand-its-strike-to-include-the-games-industry)
