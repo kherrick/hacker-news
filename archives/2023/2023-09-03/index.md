@@ -7,6 +7,7 @@
 * [2023-09-03, 20:13:06](https://news.ycombinator.com/item?id=37374013) - [The containment of George Kennan (2022)](https://claremontreviewofbooks.com/the-containment-of-george-kennan/)
 * [2023-09-03, 20:10:00](https://news.ycombinator.com/item?id=37373983) - [A taste of Coq and correct code by construction](https://betterprogramming.pub/a-taste-of-coq-and-correct-code-by-construction-111bf74d3b98)
 * [2023-09-03, 20:00:49](https://news.ycombinator.com/item?id=37373879) - [Are deep blue seas fading? Oceans turn to new hue across parts of Earth](https://phys.org/news/2023-08-deep-blue-seas-oceans-hue.html)
+* [2023-09-03, 19:59:48](https://news.ycombinator.com/item?id=37373865) - [Yenish people](https://en.wikipedia.org/wiki/Yenish_people)
 * [2023-09-03, 19:53:04](https://news.ycombinator.com/item?id=37373796) - [Cola: A text CRDT for real-time collaborative editing](https://nomad.foo/blog/cola)
 * [2023-09-03, 19:45:23](https://news.ycombinator.com/item?id=37373710) - [Some veteran YouTube staff think Shorts might ruin YouTube](https://www.theverge.com/2023/9/3/23857451/youtube-shorts-tiktok-ads-short-video)
 * [2023-09-03, 19:38:46](https://news.ycombinator.com/item?id=37373635) - [Vector Search with OpenAI Embeddings: Lucene Is All You Need](https://arxiv.org/abs/2308.14963)
