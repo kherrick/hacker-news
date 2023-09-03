@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-03, 17:04:54](https://news.ycombinator.com/item?id=37372002) - [Da Vinci robot surgeon removes inoperable tumor, saving patient’s life](https://bgr.com/science/da-vinci-robot-surgeon-removes-inoperable-tumor-saving-patients-life/)
-* [2023-09-03, 16:50:48](https://news.ycombinator.com/item?id=37371882) - [Tesla's dirty little secret on California's I-5](https://www.sfgate.com/centralcoast/article/tesla-interstate-5-supercharger-power-plant-18343119.php)
 * [2023-09-03, 16:50:11](https://news.ycombinator.com/item?id=37371876) - [Air quality double whammy from domestic firelighters](https://www.nature.com/articles/s41612-023-00427-x)
-* [2023-09-03, 16:37:29](https://news.ycombinator.com/item?id=37371767) - [Paris Becomes the First European Capital to Ban Rented Electric Scooters](https://www.nytimes.com/2023/09/01/world/europe/paris-escooter-ban.html)
 * [2023-09-03, 16:10:08](https://news.ycombinator.com/item?id=37371539) - [SF Fire Dept.: Person Dies After Cruise Robotaxi Blocked Ambulance](https://sfstandard.com/2023/09/01/person-dies-cruise-robotaxi-blocks-san-francisco-ambulance/)
 * [2023-09-03, 15:58:18](https://news.ycombinator.com/item?id=37371426) - [Vale.sh – A Linter for Prose](https://vale.sh/)
 * [2023-09-03, 15:37:29](https://news.ycombinator.com/item?id=37371237) - [Show HN: Extract RSS feed from almost anything](https://rssfeedasap.com)
+* [2023-09-03, 15:20:48](https://news.ycombinator.com/item?id=37371112) - [What are emerging/promising areas of tech to get into today?](https://news.ycombinator.com/item?id=37371112)
 * [2023-09-03, 15:16:54](https://news.ycombinator.com/item?id=37371084) - [I don’t want to grow my freelance design studio into an agency](https://neladunato.com/blog/why-wont-grow-freelance-studio-into-agency/)
 * [2023-09-03, 15:08:05](https://news.ycombinator.com/item?id=37371020) - [HTML Design Principles (2007)](https://www.w3.org/TR/html-design-principles/)
 * [2023-09-03, 14:53:21](https://news.ycombinator.com/item?id=37370900) - [Climate Change Tracker](https://climatechangetracker.org)
@@ -28,6 +27,7 @@
 * [2023-09-03, 05:02:57](https://news.ycombinator.com/item?id=37367855) - [UPI Payments: 10B transactions a month done, next stop 100B](https://www.bqprime.com/business/upi-payments-10-billion-transactions-a-month-done-next-stop-100-billion)
 * [2023-09-02, 23:35:49](https://news.ycombinator.com/item?id=37366391) - [The little-known shipwreck that inspired Bram Stoker’s ‘Dracula’](https://www.nationalgeographic.com/history/article/last-voyage-of-the-demeter-dracula-dmitry)
 * [2023-09-02, 14:41:45](https://news.ycombinator.com/item?id=37361947) - [The worst programmer I know](https://dannorth.net/2023/09/02/the-worst-programmer/)
+* [2023-09-02, 13:00:09](https://news.ycombinator.com/item?id=37361119) - [A History of the Amen Break: From the Winstons to Futurama and Om Unit](https://splice.com/blog/amen-break/)
 * [2023-09-02, 11:29:00](https://news.ycombinator.com/item?id=37360502) - [Index of Aesthetics](https://cari.institute/aesthetics)
 * [2023-09-02, 07:12:34](https://news.ycombinator.com/item?id=37359193) - [The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
 

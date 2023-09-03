@@ -58,6 +58,7 @@
 * [2023-09-02, 13:34:51](https://news.ycombinator.com/item?id=37361396) - [Cops drill into chat apps, sink plot to smuggle tons of coke into Europe](https://www.theregister.com/2023/09/02/europol_balkan_cartel/)
 * [2023-09-02, 13:20:53](https://news.ycombinator.com/item?id=37361275) - [Windows NT 3.1](https://www.abortretry.fail/p/the-history-of-windows-nt-31)
 * [2023-09-02, 13:04:01](https://news.ycombinator.com/item?id=37361139) - [Two years of Bitcoin in Bukele’s El Salvador](https://english.elpais.com/international/2023-09-02/two-years-of-bitcoin-in-bukeles-el-salvador-an-opaque-experiment-with-a-little-used-currency.html)
+* [2023-09-02, 13:00:09](https://news.ycombinator.com/item?id=37361119) - [A History of the Amen Break: From the Winstons to Futurama and Om Unit](https://splice.com/blog/amen-break/)
 * [2023-09-02, 12:56:08](https://news.ycombinator.com/item?id=37361101) - [Jimmy Buffett: Margaritaville singer dies aged 76](https://www.bbc.com/news/entertainment-arts-66694147)
 * [2023-09-02, 12:55:11](https://news.ycombinator.com/item?id=37361094) - [On Craft](https://www.drcathicks.com/post/on-craft)
 * [2023-09-02, 12:53:52](https://news.ycombinator.com/item?id=37361082) - [Samsung Unveils Industry's First 32Gbit DDR5 Memory Die: 1TB Modules Incoming](https://www.anandtech.com/show/20039/samsung-unveils-industrys-first-32gbit-ddr5-die-1tb-modules-incoming)
