@@ -9,6 +9,7 @@
 * [2023-09-01, 22:42:01](https://news.ycombinator.com/item?id=37356909) - [Internals of Async / Await in JavaScript](https://akashhamirwasia.com/blog/internals-of-async-await-in-javascript/)
 * [2023-09-01, 21:46:05](https://news.ycombinator.com/item?id=37356497) - [Wavacity – a FOSS port of Audacity to the web](https://wavacity.com/)
 * [2023-09-01, 21:00:17](https://news.ycombinator.com/item?id=37356124) - [Bright (YC W15) Is Hiring](https://www.careersatbright.com/jobs-2/bright-frontend-engineer)
+* [2023-09-01, 20:59:48](https://news.ycombinator.com/item?id=37356119) - [The Glitch Gallery](https://glitchgallery.org/)
 * [2023-09-01, 19:55:19](https://news.ycombinator.com/item?id=37355487) - [Wikipedia search-by-vibes through millions of pages offline](https://www.leebutterman.com/2023/06/01/offline-realtime-embedding-search.html)
 * [2023-09-01, 19:50:16](https://news.ycombinator.com/item?id=37355429) - [Restarting macOS apps automatically on crash](https://notes.alinpanaitiu.com/Restarting-macOS-apps-automatically-on-crash)
 * [2023-09-01, 19:45:15](https://news.ycombinator.com/item?id=37355372) - [Qakbot takedown payload analysis](https://cyber.wtf/2023/09/01/qakbot-takedown-payload-analysis/)
