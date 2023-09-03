@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-03, 18:33:11](https://news.ycombinator.com/item?id=37372961) - [Microsoft Edge is starting to annoy me big time](https://www.dedoimedo.com/computers/microsoft-edge-personalized-web-got-it-annoyance.html)
-* [2023-09-03, 17:04:54](https://news.ycombinator.com/item?id=37372002) - [Da Vinci robot surgeon removes inoperable tumor, saving patient’s life](https://bgr.com/science/da-vinci-robot-surgeon-removes-inoperable-tumor-saving-patients-life/)
+* [2023-09-03, 17:25:36](https://news.ycombinator.com/item?id=37372188) - [USPS Isn't Paying 45,000 Rural Postal Workers This Week](https://jalopnik.com/usps-isnt-paying-45-000-rural-postal-workers-this-week-1850797494)
 * [2023-09-03, 16:50:11](https://news.ycombinator.com/item?id=37371876) - [Air quality double whammy from domestic firelighters](https://www.nature.com/articles/s41612-023-00427-x)
 * [2023-09-03, 15:58:18](https://news.ycombinator.com/item?id=37371426) - [Vale.sh – A Linter for Prose](https://vale.sh/)
 * [2023-09-03, 15:37:29](https://news.ycombinator.com/item?id=37371237) - [Show HN: Extract RSS feed from almost anything](https://rssfeedasap.com)
