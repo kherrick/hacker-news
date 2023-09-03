@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-03, 07:58:50](https://news.ycombinator.com/item?id=37368572) - [Tolkien, 50 Years On](https://thecritic.co.uk/tolkien-50-years-on/)
 * [2023-09-03, 07:00:22](https://news.ycombinator.com/item?id=37368298) - [Bitmovin (YC S15) Is Hiring Senior Software Engineers in Austria](https://bitmovin.com/careers/senior-software-engineer-java-6834404002/)
 * [2023-09-03, 06:32:22](https://news.ycombinator.com/item?id=37368191) - [The Musaicum EU-plus 10M resolution image of Europe](https://imagico.de/blog/en/announcing-the-musaicum-eu-plus-10m-resolution-image-of-europe/)
 * [2023-09-03, 06:09:23](https://news.ycombinator.com/item?id=37368099) - [Hacking the Timex m851](https://lock.cmpxchg8b.com/timex.html)
@@ -7,7 +8,6 @@
 * [2023-09-03, 05:30:10](https://news.ycombinator.com/item?id=37367951) - [Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)
 * [2023-09-03, 05:02:57](https://news.ycombinator.com/item?id=37367855) - [UPI Payments: 10B transactions a month done, next stop 100B](https://www.bqprime.com/business/upi-payments-10-billion-transactions-a-month-done-next-stop-100-billion)
 * [2023-09-03, 01:46:00](https://news.ycombinator.com/item?id=37367013) - [Baresip – An Open Source modular SIP User-Agent with audio and video support](https://github.com/baresip/baresip)
-* [2023-09-03, 00:32:38](https://news.ycombinator.com/item?id=37366678) - [Vigil, the eternal morally vigilant programming language](https://github.com/munificent/vigil)
 * [2023-09-02, 23:42:52](https://news.ycombinator.com/item?id=37366423) - [Lorapaper: A connected e-paper device that runs on light](https://github.com/RobPo/lorapaper)
 * [2023-09-02, 23:25:38](https://news.ycombinator.com/item?id=37366341) - [How to type “blimpy” in Emacs [video]](https://www.youtube.com/watch?v=2VOnKMJqIL0)
 * [2023-09-02, 22:36:03](https://news.ycombinator.com/item?id=37366099) - [Focus: A simple and fast text editor written in Jai](https://github.com/focus-editor/focus)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-03](index.md)
 
+* [2023-09-03, 07:58:50](https://news.ycombinator.com/item?id=37368572) - [Tolkien, 50 Years On](https://thecritic.co.uk/tolkien-50-years-on/)
 * [2023-09-03, 07:00:22](https://news.ycombinator.com/item?id=37368298) - [Bitmovin (YC S15) Is Hiring Senior Software Engineers in Austria](https://bitmovin.com/careers/senior-software-engineer-java-6834404002/)
 * [2023-09-03, 06:32:22](https://news.ycombinator.com/item?id=37368191) - [The Musaicum EU-plus 10M resolution image of Europe](https://imagico.de/blog/en/announcing-the-musaicum-eu-plus-10m-resolution-image-of-europe/)
 * [2023-09-03, 06:29:02](https://news.ycombinator.com/item?id=37368166) - [Show HN: Online Timers](https://www.timerone.com)
