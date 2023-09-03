@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-03, 01:46:00](https://news.ycombinator.com/item?id=37367013) - [Baresip – An Open Source modular SIP User-Agent with audio and video support](https://github.com/baresip/baresip)
 * [2023-09-03, 00:32:38](https://news.ycombinator.com/item?id=37366678) - [Vigil, the eternal morally vigilant programming language](https://github.com/munificent/vigil)
 * [2023-09-02, 23:25:38](https://news.ycombinator.com/item?id=37366341) - [How to type “blimpy” in Emacs [video]](https://www.youtube.com/watch?v=2VOnKMJqIL0)
 * [2023-09-02, 22:36:03](https://news.ycombinator.com/item?id=37366099) - [Focus: A simple and fast text editor written in Jai](https://github.com/focus-editor/focus)
@@ -22,7 +23,6 @@
 * [2023-09-02, 12:55:11](https://news.ycombinator.com/item?id=37361094) - [On Craft](https://www.drcathicks.com/post/on-craft)
 * [2023-09-02, 12:50:48](https://news.ycombinator.com/item?id=37361053) - [Bézier Curves and the logic behind them](https://blog.richardekwonye.com/bezier-curves)
 * [2023-09-02, 12:50:09](https://news.ycombinator.com/item?id=37361050) - [Semantic Zoom](https://alexanderobenauer.com/labnotes/038/)
-* [2023-09-02, 10:40:26](https://news.ycombinator.com/item?id=37360251) - [A GPT-4 capability forecasting challenge](https://nicholas.carlini.com/writing/llm-forecast/question/Capital-of-Paris)
 * [2023-09-02, 10:28:02](https://news.ycombinator.com/item?id=37360186) - [Recursive Racks [video]](https://www.youtube.com/watch?v=ckrrQTkTqIo)
 * [2023-09-02, 07:44:09](https://news.ycombinator.com/item?id=37359310) - [Microsoft is killing WordPad in Windows](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-killing-wordpad-in-windows-after-28-years/)
 * [2023-09-02, 07:29:48](https://news.ycombinator.com/item?id=37359250) - [The B Lane Swimmer (2009)](https://holly.witteman.ca/the-b-lane-swimmer/)
