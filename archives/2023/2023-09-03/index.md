@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-03](index.md)
 
+* [2023-09-03, 18:33:11](https://news.ycombinator.com/item?id=37372961) - [Microsoft Edge is starting to annoy me big time](https://www.dedoimedo.com/computers/microsoft-edge-personalized-web-got-it-annoyance.html)
 * [2023-09-03, 17:04:54](https://news.ycombinator.com/item?id=37372002) - [da Vinci robot surgeon removes inoperable tumor, saving patient’s life](https://bgr.com/science/da-vinci-robot-surgeon-removes-inoperable-tumor-saving-patients-life/)
 * [2023-09-03, 16:50:48](https://news.ycombinator.com/item?id=37371882) - [Tesla's dirty little secret on California's I-5](https://www.sfgate.com/centralcoast/article/tesla-interstate-5-supercharger-power-plant-18343119.php)
 * [2023-09-03, 16:50:11](https://news.ycombinator.com/item?id=37371876) - [Air quality double whammy from domestic firelighters](https://www.nature.com/articles/s41612-023-00427-x)

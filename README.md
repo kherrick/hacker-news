@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-03, 18:33:11](https://news.ycombinator.com/item?id=37372961) - [Microsoft Edge is starting to annoy me big time](https://www.dedoimedo.com/computers/microsoft-edge-personalized-web-got-it-annoyance.html)
 * [2023-09-03, 17:04:54](https://news.ycombinator.com/item?id=37372002) - [Da Vinci robot surgeon removes inoperable tumor, saving patient’s life](https://bgr.com/science/da-vinci-robot-surgeon-removes-inoperable-tumor-saving-patients-life/)
 * [2023-09-03, 16:50:11](https://news.ycombinator.com/item?id=37371876) - [Air quality double whammy from domestic firelighters](https://www.nature.com/articles/s41612-023-00427-x)
 * [2023-09-03, 16:10:08](https://news.ycombinator.com/item?id=37371539) - [SF Fire Dept.: Person Dies After Cruise Robotaxi Blocked Ambulance](https://sfstandard.com/2023/09/01/person-dies-cruise-robotaxi-blocks-san-francisco-ambulance/)
@@ -26,7 +27,6 @@
 * [2023-09-03, 05:08:53](https://news.ycombinator.com/item?id=37367882) - [‘Psychonauts’ by Mike Jay Review](https://www.historytoday.com/archive/review/psychonauts-mike-jay-review)
 * [2023-09-03, 05:02:57](https://news.ycombinator.com/item?id=37367855) - [UPI Payments: 10B transactions a month done, next stop 100B](https://www.bqprime.com/business/upi-payments-10-billion-transactions-a-month-done-next-stop-100-billion)
 * [2023-09-02, 23:35:49](https://news.ycombinator.com/item?id=37366391) - [The little-known shipwreck that inspired Bram Stoker’s ‘Dracula’](https://www.nationalgeographic.com/history/article/last-voyage-of-the-demeter-dracula-dmitry)
-* [2023-09-02, 14:41:45](https://news.ycombinator.com/item?id=37361947) - [The worst programmer I know](https://dannorth.net/2023/09/02/the-worst-programmer/)
 * [2023-09-02, 13:00:09](https://news.ycombinator.com/item?id=37361119) - [A History of the Amen Break: From the Winstons to Futurama and Om Unit](https://splice.com/blog/amen-break/)
 * [2023-09-02, 11:29:00](https://news.ycombinator.com/item?id=37360502) - [Index of Aesthetics](https://cari.institute/aesthetics)
 * [2023-09-02, 07:12:34](https://news.ycombinator.com/item?id=37359193) - [The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
