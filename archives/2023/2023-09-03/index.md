@@ -11,6 +11,7 @@
 * [2023-09-03, 07:57:07](https://news.ycombinator.com/item?id=37368561) - [Quantum Groups and Adelic Representations](https://chat.openai.com/share/1a9dc873-6e16-40d3-859c-6a56f5e5b6bb)
 * [2023-09-03, 07:44:00](https://news.ycombinator.com/item?id=37368505) - [Using the Wrong Dictionary (2014)](https://jsomers.net/blog/dictionary)
 * [2023-09-03, 07:00:22](https://news.ycombinator.com/item?id=37368298) - [Bitmovin (YC S15) Is Hiring Senior Software Engineers in Austria](https://bitmovin.com/careers/senior-software-engineer-java-6834404002/)
+* [2023-09-03, 06:53:51](https://news.ycombinator.com/item?id=37368264) - [The Eleuther AI Mafia](https://www.latent.space/p/rwkv#%C2%A7the-eleuther-mafia)
 * [2023-09-03, 06:32:22](https://news.ycombinator.com/item?id=37368191) - [The Musaicum EU-plus 10M resolution image of Europe](https://imagico.de/blog/en/announcing-the-musaicum-eu-plus-10m-resolution-image-of-europe/)
 * [2023-09-03, 06:29:02](https://news.ycombinator.com/item?id=37368166) - [Show HN: Online Timers](https://www.timerone.com)
 * [2023-09-03, 06:09:23](https://news.ycombinator.com/item?id=37368099) - [Hacking the Timex m851](https://lock.cmpxchg8b.com/timex.html)
