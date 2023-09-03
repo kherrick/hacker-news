@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-03, 17:04:54](https://news.ycombinator.com/item?id=37372002) - [da Vinci robot surgeon removes inoperable tumor, saving patient’s life](https://bgr.com/science/da-vinci-robot-surgeon-removes-inoperable-tumor-saving-patients-life/)
+* [2023-09-03, 16:37:29](https://news.ycombinator.com/item?id=37371767) - [Paris Becomes the First European Capital to Ban Rented Electric Scooters](https://www.nytimes.com/2023/09/01/world/europe/paris-escooter-ban.html)
 * [2023-09-03, 16:10:08](https://news.ycombinator.com/item?id=37371539) - [SF Fire Dept.: Person Dies After Cruise Robotaxi Blocked Ambulance](https://sfstandard.com/2023/09/01/person-dies-cruise-robotaxi-blocks-san-francisco-ambulance/)
 * [2023-09-03, 16:03:47](https://news.ycombinator.com/item?id=37371477) - [California tech transplants unhappy with exodus to Austin, report says](https://www.sfgate.com/local/article/california-transplants-unhappy-exodus-austin-18343754.php)
 * [2023-09-03, 15:58:18](https://news.ycombinator.com/item?id=37371426) - [Vale.sh – A Linter for Prose](https://vale.sh/)
@@ -12,7 +14,6 @@
 * [2023-09-03, 13:17:03](https://news.ycombinator.com/item?id=37370170) - [Sag-AFTRA votes unanimously to expand its strike to include the games industry](https://www.eurogamer.net/sag-aftra-votes-unanimously-to-expand-its-strike-to-include-the-games-industry)
 * [2023-09-03, 12:22:35](https://news.ycombinator.com/item?id=37369826) - [The Raft Consensus Algorithm](https://raft.github.io)
 * [2023-09-03, 12:00:21](https://news.ycombinator.com/item?id=37369698) - [Replit (YC W18) Is Hiring Engineers in AI, Platform, and Product](https://replit.com/site/careers)
-* [2023-09-03, 11:27:06](https://news.ycombinator.com/item?id=37369521) - [The pandemic your grandparents forgot about](https://nautil.us/the-pandemic-your-grandparents-forgot-359076/)
 * [2023-09-03, 09:18:43](https://news.ycombinator.com/item?id=37368929) - [The Curious Case of Hybrids in Watchmaking](https://monochrome-watches.com/a-technical-perspective-defining-and-understanding-hybrid-watches/)
 * [2023-09-03, 08:53:24](https://news.ycombinator.com/item?id=37368841) - [Why Do We Interface? (2020)](https://whydoweinterface.com)
 * [2023-09-03, 08:49:37](https://news.ycombinator.com/item?id=37368824) - [The boiling frog of digital freedom](https://gazoche.xyz/posts/boiling-frog/)
@@ -27,9 +28,8 @@
 * [2023-09-03, 05:02:57](https://news.ycombinator.com/item?id=37367855) - [UPI Payments: 10B transactions a month done, next stop 100B](https://www.bqprime.com/business/upi-payments-10-billion-transactions-a-month-done-next-stop-100-billion)
 * [2023-09-02, 23:35:49](https://news.ycombinator.com/item?id=37366391) - [The little-known shipwreck that inspired Bram Stoker’s ‘Dracula’](https://www.nationalgeographic.com/history/article/last-voyage-of-the-demeter-dracula-dmitry)
 * [2023-09-02, 14:41:45](https://news.ycombinator.com/item?id=37361947) - [The worst programmer I know](https://dannorth.net/2023/09/02/the-worst-programmer/)
+* [2023-09-02, 11:29:00](https://news.ycombinator.com/item?id=37360502) - [Index of Aesthetics](https://cari.institute/aesthetics)
 * [2023-09-02, 07:12:34](https://news.ycombinator.com/item?id=37359193) - [The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
-* [2023-09-01, 18:50:31](https://news.ycombinator.com/item?id=37354742) - [Phonies: J.D. Salinger and Wielding Copyright as Self-Protection](https://crimereads.com/j-d-salinger-copyright/)
-* [2023-09-01, 18:22:37](https://news.ycombinator.com/item?id=37354460) - [Radio Microsoft (1994)](https://www.wired.com/1994/04/radio-microsoft/)
 
 ## [Archives](archives/index.md)
 
