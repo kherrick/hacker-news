@@ -19,6 +19,7 @@
 * [2023-09-01, 19:19:55](https://news.ycombinator.com/item?id=37355081) - [Hot Chips 2023: Ventana’s Unconventional Veyron V1](https://chipsandcheese.com/2023/09/01/hot-chips-2023-ventanas-unconventional-veyron-v1/)
 * [2023-09-01, 19:12:56](https://news.ycombinator.com/item?id=37355000) - [U.S. Air Force Selects Fast Microreactor for Nuclear Power Pilot](https://www.powermag.com/u-s-air-force-selects-fast-microreactor-for-nuclear-power-pilot/)
 * [2023-09-01, 18:34:38](https://news.ycombinator.com/item?id=37354577) - [Mushroom pickers urged: Avoid Amazon foraging books, appear to be written by AI](https://www.theguardian.com/technology/2023/sep/01/mushroom-pickers-urged-to-avoid-foraging-books-on-amazon-that-appear-to-be-written-by-ai)
+* [2023-09-01, 18:22:37](https://news.ycombinator.com/item?id=37354460) - [Radio Microsoft (1994)](https://www.wired.com/1994/04/radio-microsoft/)
 * [2023-09-01, 18:18:39](https://news.ycombinator.com/item?id=37354409) - [Without maintenance, most digital information will be lost in just a few decades](https://longnow.org/ideas/shining-a-light-on-the-digital-dark-age/)
 * [2023-09-01, 18:17:15](https://news.ycombinator.com/item?id=37354401) - [Philosophy of Coroutines](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy/)
 * [2023-09-01, 18:14:41](https://news.ycombinator.com/item?id=37354377) - [The Transformations of Science](https://www.palladiummag.com/2022/10/10/the-transformations-of-science/)
