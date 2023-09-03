@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-03, 14:47:02](https://news.ycombinator.com/item?id=37370858) - [Harry Browne’s 17 Golden Rules of Financial Safety (2013)](https://thetaoofwealth.wordpress.com/2013/02/17/harry-brownes-17-golden-rules-of-financial-safety/)
 * [2023-09-03, 13:26:24](https://news.ycombinator.com/item?id=37370248) - [Interfaces for Prototyping Hardware](https://kevinlynagh.com/newsletter/2023_09_hardware_prototyping/)
 * [2023-09-03, 13:17:03](https://news.ycombinator.com/item?id=37370170) - [Sag-AFTRA votes unanimously to expand its strike to include the games industry](https://www.eurogamer.net/sag-aftra-votes-unanimously-to-expand-its-strike-to-include-the-games-industry)
 * [2023-09-03, 12:22:35](https://news.ycombinator.com/item?id=37369826) - [The Raft Consensus Algorithm](https://raft.github.io)
@@ -23,12 +24,11 @@
 * [2023-09-02, 23:42:52](https://news.ycombinator.com/item?id=37366423) - [Lorapaper: A connected e-paper device that runs on light](https://github.com/RobPo/lorapaper)
 * [2023-09-02, 23:25:38](https://news.ycombinator.com/item?id=37366341) - [How to type “blimpy” in Emacs [video]](https://www.youtube.com/watch?v=2VOnKMJqIL0)
 * [2023-09-02, 22:36:03](https://news.ycombinator.com/item?id=37366099) - [Focus: A simple and fast text editor written in Jai](https://github.com/focus-editor/focus)
-* [2023-09-02, 17:08:46](https://news.ycombinator.com/item?id=37363362) - [Recursively summarizing enables long-term dialogue memory in LLMs](https://arxiv.org/abs/2308.15022)
 * [2023-09-02, 14:41:45](https://news.ycombinator.com/item?id=37361947) - [The worst programmer I know](https://dannorth.net/2023/09/02/the-worst-programmer/)
-* [2023-09-02, 12:50:48](https://news.ycombinator.com/item?id=37361053) - [Bézier Curves and the logic behind them](https://blog.richardekwonye.com/bezier-curves)
 * [2023-09-02, 07:12:34](https://news.ycombinator.com/item?id=37359193) - [The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
 * [2023-09-02, 02:19:39](https://news.ycombinator.com/item?id=37358063) - [Build Your Own Flight Sim in C++ (1996)](https://archive.org/details/build-your-own-flight-sim-in-c-dos-game-dev-michael-radtke-chris-lampton)
 * [2023-09-01, 20:59:48](https://news.ycombinator.com/item?id=37356119) - [The Glitch Gallery](https://glitchgallery.org/)
+* [2023-09-01, 18:50:31](https://news.ycombinator.com/item?id=37354742) - [Phonies: J.D. Salinger and Wielding Copyright as Self-Protection](https://crimereads.com/j-d-salinger-copyright/)
 * [2023-09-01, 18:22:37](https://news.ycombinator.com/item?id=37354460) - [Radio Microsoft (1994)](https://www.wired.com/1994/04/radio-microsoft/)
 
 ## [Archives](archives/index.md)
