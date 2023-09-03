@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-03, 15:20:48](https://news.ycombinator.com/item?id=37371112) - [What are emerging/promising areas of tech to get into today?](https://news.ycombinator.com/item?id=37371112)
+* [2023-09-03, 15:16:56](https://news.ycombinator.com/item?id=37371085) - [A Whiff of Genius: Simple Fragrance Method Boosts Cognitive Capacity by 226%](https://scitechdaily.com/a-whiff-of-genius-simple-fragrance-method-boosts-cognitive-capacity-by-226/)
 * [2023-09-03, 15:16:54](https://news.ycombinator.com/item?id=37371084) - [I don’t want to grow my freelance design studio into an agency](https://neladunato.com/blog/why-wont-grow-freelance-studio-into-agency/)
 * [2023-09-03, 15:08:05](https://news.ycombinator.com/item?id=37371020) - [HTML Design Principles (2007)](https://www.w3.org/TR/html-design-principles/)
 * [2023-09-03, 14:53:21](https://news.ycombinator.com/item?id=37370900) - [Climate Change Tracker](https://climatechangetracker.org)
@@ -13,7 +14,6 @@
 * [2023-09-03, 09:18:43](https://news.ycombinator.com/item?id=37368929) - [The Curious Case of Hybrids in Watchmaking](https://monochrome-watches.com/a-technical-perspective-defining-and-understanding-hybrid-watches/)
 * [2023-09-03, 08:53:24](https://news.ycombinator.com/item?id=37368841) - [Why Do We Interface? (2020)](https://whydoweinterface.com)
 * [2023-09-03, 08:49:37](https://news.ycombinator.com/item?id=37368824) - [The boiling frog of digital freedom](https://gazoche.xyz/posts/boiling-frog/)
-* [2023-09-03, 07:57:07](https://news.ycombinator.com/item?id=37368561) - [Adelic Quantum Group Representations](https://chat.openai.com/share/1a9dc873-6e16-40d3-859c-6a56f5e5b6bb)
 * [2023-09-03, 07:44:00](https://news.ycombinator.com/item?id=37368505) - [Using the Wrong Dictionary (2014)](https://jsomers.net/blog/dictionary)
 * [2023-09-03, 06:53:51](https://news.ycombinator.com/item?id=37368264) - [The Eleuther AI Mafia](https://www.latent.space/p/rwkv#%C2%A7the-eleuther-mafia)
 * [2023-09-03, 06:49:07](https://news.ycombinator.com/item?id=37368245) - [MaraDNS: A small open-source DNS server](https://github.com/samboy/MaraDNS)
