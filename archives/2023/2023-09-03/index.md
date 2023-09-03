@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-03](index.md)
 
 * [2023-09-03, 23:27:48](https://news.ycombinator.com/item?id=37375631) - [Nearlyfreespeech.net Bigger, better, faster, more](https://blog.nearlyfreespeech.net/2023/08/22/bigger-better-faster-more/)
+* [2023-09-03, 23:16:18](https://news.ycombinator.com/item?id=37375553) - [Dihydrogen Monoxide Parody](https://en.wikipedia.org/wiki/Dihydrogen_monoxide_parody)
 * [2023-09-03, 22:41:02](https://news.ycombinator.com/item?id=37375303) - [A complete guide to fine-tuning Code Llama](https://ragntune.com/blog/guide-fine-tuning-code-llama)
 * [2023-09-03, 22:37:43](https://news.ycombinator.com/item?id=37375277) - [Invented Tradition](https://en.wikipedia.org/wiki/Invented_tradition)
 * [2023-09-03, 21:54:20](https://news.ycombinator.com/item?id=37374966) - [Foxconn's Promise to Invest $10B in Wisconsin Is Now a Distant Memory](https://www.engadget.com/foxconns-promise-to-invest-10-billion-in-wisconsin-is-now-a-distant-memory-090555405.html)

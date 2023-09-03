@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-03, 23:27:48](https://news.ycombinator.com/item?id=37375631) - [Nearlyfreespeech.net Bigger, better, faster, more](https://blog.nearlyfreespeech.net/2023/08/22/bigger-better-faster-more/)
+* [2023-09-03, 23:16:18](https://news.ycombinator.com/item?id=37375553) - [Dihydrogen Monoxide Parody](https://en.wikipedia.org/wiki/Dihydrogen_monoxide_parody)
 * [2023-09-03, 22:41:02](https://news.ycombinator.com/item?id=37375303) - [A complete guide to fine-tuning Code Llama](https://ragntune.com/blog/guide-fine-tuning-code-llama)
 * [2023-09-03, 22:37:43](https://news.ycombinator.com/item?id=37375277) - [Invented Tradition](https://en.wikipedia.org/wiki/Invented_tradition)
 * [2023-09-03, 21:54:20](https://news.ycombinator.com/item?id=37374966) - [Foxconn's Promise to Invest $10B in Wisconsin Is Now a Distant Memory](https://www.engadget.com/foxconns-promise-to-invest-10-billion-in-wisconsin-is-now-a-distant-memory-090555405.html)
@@ -28,7 +29,6 @@
 * [2023-09-02, 13:00:09](https://news.ycombinator.com/item?id=37361119) - [A History of the Amen Break: From the Winstons to Futurama and Om Unit](https://splice.com/blog/amen-break/)
 * [2023-09-02, 11:29:00](https://news.ycombinator.com/item?id=37360502) - [Index of Aesthetics](https://cari.institute/aesthetics)
 * [2023-09-02, 07:12:34](https://news.ycombinator.com/item?id=37359193) - [The Mystery of the Bloomfield Bridge](https://tylervigen.com/the-mystery-of-the-bloomfield-bridge)
-* [2023-09-01, 20:14:30](https://news.ycombinator.com/item?id=37355690) - [Hasanlu Lovers](https://en.wikipedia.org/wiki/Hasanlu_Lovers)
 * [2023-09-01, 11:12:30](https://news.ycombinator.com/item?id=37349276) - [A Gentle Introduction to Liquid Types](https://goto.ucsd.edu/~ucsdpl-blog/liquidtypes/2015/09/19/liquid-types/)
 
 ## [Archives](archives/index.md)
