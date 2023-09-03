@@ -3,7 +3,6 @@
 * [2023-09-03, 04:16:10](https://news.ycombinator.com/item?id=37367687) - [Niri: A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri)
 * [2023-09-03, 01:46:00](https://news.ycombinator.com/item?id=37367013) - [Baresip – An Open Source modular SIP User-Agent with audio and video support](https://github.com/baresip/baresip)
 * [2023-09-03, 00:32:38](https://news.ycombinator.com/item?id=37366678) - [Vigil, the eternal morally vigilant programming language](https://github.com/munificent/vigil)
-* [2023-09-02, 23:42:52](https://news.ycombinator.com/item?id=37366423) - [LoraPaper: A Connected EPaper Device That Runs on Light](https://github.com/RobPo/lorapaper)
 * [2023-09-02, 23:25:38](https://news.ycombinator.com/item?id=37366341) - [How to type “blimpy” in Emacs [video]](https://www.youtube.com/watch?v=2VOnKMJqIL0)
 * [2023-09-02, 22:36:03](https://news.ycombinator.com/item?id=37366099) - [Focus: A simple and fast text editor written in Jai](https://github.com/focus-editor/focus)
 * [2023-09-02, 22:12:16](https://news.ycombinator.com/item?id=37365968) - [Rescuing the lost code and stereo sound to Sinistar [video]](https://www.youtube.com/watch?v=ZRDdKZ7V54I)
@@ -30,6 +29,7 @@
 * [2023-09-02, 02:19:39](https://news.ycombinator.com/item?id=37358063) - [Build Your Own Flight Sim in C++ (1996)](https://archive.org/details/build-your-own-flight-sim-in-c-dos-game-dev-michael-radtke-chris-lampton)
 * [2023-09-01, 20:59:48](https://news.ycombinator.com/item?id=37356119) - [The Glitch Gallery](https://glitchgallery.org/)
 * [2023-09-01, 12:26:14](https://news.ycombinator.com/item?id=37349906) - [Currying in Kotlin](https://towardsdev.com/currying-in-kotlin-9be88bcc930d)
+* [2023-09-01, 03:46:05](https://news.ycombinator.com/item?id=37346585) - [The making of EP Thompson](https://www.newstatesman.com/culture/history/2023/08/making-ep-thompson)
 
 ## [Archives](archives/index.md)
 
