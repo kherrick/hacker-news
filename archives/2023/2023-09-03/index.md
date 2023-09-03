@@ -9,6 +9,7 @@
 * [2023-09-03, 16:10:08](https://news.ycombinator.com/item?id=37371539) - [SF Fire Dept.: Person Dies After Cruise Robotaxi Blocked Ambulance](https://sfstandard.com/2023/09/01/person-dies-cruise-robotaxi-blocks-san-francisco-ambulance/)
 * [2023-09-03, 16:03:47](https://news.ycombinator.com/item?id=37371477) - [California tech transplants unhappy with exodus to Austin, report says](https://www.sfgate.com/local/article/california-transplants-unhappy-exodus-austin-18343754.php)
 * [2023-09-03, 15:58:18](https://news.ycombinator.com/item?id=37371426) - [Vale.sh – A Linter for Prose](https://vale.sh/)
+* [2023-09-03, 15:37:29](https://news.ycombinator.com/item?id=37371237) - [Show HN: Extract RSS feed from almost anything](https://rssfeedasap.com)
 * [2023-09-03, 15:20:48](https://news.ycombinator.com/item?id=37371112) - [What are emerging/promising areas of tech to get into today?](https://news.ycombinator.com/item?id=37371112)
 * [2023-09-03, 15:16:56](https://news.ycombinator.com/item?id=37371085) - [A Whiff of Genius: Simple Fragrance Method Boosts Cognitive Capacity by 226%](https://scitechdaily.com/a-whiff-of-genius-simple-fragrance-method-boosts-cognitive-capacity-by-226/)
 * [2023-09-03, 15:16:54](https://news.ycombinator.com/item?id=37371084) - [I don’t want to grow my freelance design studio into an agency](https://neladunato.com/blog/why-wont-grow-freelance-studio-into-agency/)
