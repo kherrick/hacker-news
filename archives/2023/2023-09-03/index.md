@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-03](index.md)
 
+* [2023-09-03, 21:54:20](https://news.ycombinator.com/item?id=37374966) - [Foxconn's Promise to Invest $10B in Wisconsin Is Now a Distant Memory](https://www.engadget.com/foxconns-promise-to-invest-10-billion-in-wisconsin-is-now-a-distant-memory-090555405.html)
 * [2023-09-03, 21:10:15](https://news.ycombinator.com/item?id=37374623) - [One dead, 70k stranded at Burning Man after rains](https://www.npr.org/2023/09/02/1197441202/burning-man-festival-rains-floods-stranded-nevada)
 * [2023-09-03, 20:55:34](https://news.ycombinator.com/item?id=37374479) - [RadioShack’s new owner plots old comeback strategy](https://retailwire.com/discussion/radioshacks-new-owner-plots-old-comeback-strategy/)
 * [2023-09-03, 20:13:06](https://news.ycombinator.com/item?id=37374013) - [The containment of George Kennan (2022)](https://claremontreviewofbooks.com/the-containment-of-george-kennan/)
@@ -68,6 +69,7 @@
 * [2023-09-03, 04:16:10](https://news.ycombinator.com/item?id=37367687) - [Niri: A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri)
 * [2023-09-03, 02:57:51](https://news.ycombinator.com/item?id=37367329) - [Residential School ‘Mass Grave’ was underground rocks, no bodies found](https://thecountersignal.com/breaking-residential-school-mass-grave-turned-out-be-be-underground-rocks-no-bodies-found/)
 * [2023-09-03, 02:48:40](https://news.ycombinator.com/item?id=37367288) - [Kermit Project books and articles online](https://www.kermitproject.org/booksonline.html)
+* [2023-09-03, 02:40:58](https://news.ycombinator.com/item?id=37367267) - [Learn Something Old Every Day, Part IX: Aha-154xB and ASPI4DOS.SYS](https://www.os2museum.com/wp/learn-something-old-every-day-part-ix-aha-154xb-and-aspi4dos-sys/)
 * [2023-09-03, 02:08:59](https://news.ycombinator.com/item?id=37367115) - [Why Did a Drug Gang Kill 43 Students? Text Messages Hold Clues](https://www.nytimes.com/2023/09/02/world/americas/mexico-iguala-students-kidnapping.html)
 * [2023-09-03, 01:53:35](https://news.ycombinator.com/item?id=37367051) - [Ask HN: What do you carry in your backpack?](https://news.ycombinator.com/item?id=37367051)
 * [2023-09-03, 01:46:31](https://news.ycombinator.com/item?id=37367017) - [Silicon Valley’s elites can’t be trusted with the future of AI](https://fortune.com/2023/09/01/silicon-valley-elite-trust-future-ai-dominance-dangers-god-complex-wadhwa-gupta/)
