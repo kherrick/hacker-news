@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-04, 07:56:24](https://news.ycombinator.com/item?id=37378196) - [War games: Battlefield strategy and the game of chess](https://www.thearticle.com/war-games-battlefield-strategy-and-the-game-of-chess)
+* [2023-09-04, 07:33:53](https://news.ycombinator.com/item?id=37378069) - [Google was founded 25 years ago Today](https://en.wikipedia.org/wiki/History_of_Google)
 * [2023-09-04, 04:56:16](https://news.ycombinator.com/item?id=37377246) - [Haskell mini-patterns handbook (2020)](https://kowainik.github.io/posts/haskell-mini-patterns)
 * [2023-09-04, 03:58:41](https://news.ycombinator.com/item?id=37376998) - [Scientists use quantum device to slow chemical process by factor of 100B](https://www.sydney.edu.au/news-opinion/news/2023/08/29/conical-intersection-simulation-slowed-by-quantum-computer-100-billion-times.html)
-* [2023-09-04, 03:51:54](https://news.ycombinator.com/item?id=37376965) - [Show HN: MonoDevelop](https://www.monodevelop.com/)
 * [2023-09-04, 03:32:42](https://news.ycombinator.com/item?id=37376879) - [How we know languages like proto-Indo-European existed [video]](https://www.youtube.com/watch?v=jIgoBRbfkUA)
 * [2023-09-04, 03:13:01](https://news.ycombinator.com/item?id=37376786) - [A Proposal for an asynchronous Rust GUI framework](https://notgull.github.io/async-gui/)
 * [2023-09-04, 02:52:04](https://news.ycombinator.com/item?id=37376686) - [Glove80 Ergonomic Keyboard](https://danieldk.eu/Posts/2023-09-03-Glove80.html)
@@ -11,7 +12,6 @@
 * [2023-09-04, 01:40:40](https://news.ycombinator.com/item?id=37376377) - [Dennis Ritchie Home Page](http://cm.bell-labs.co/who/dmr/)
 * [2023-09-04, 01:39:36](https://news.ycombinator.com/item?id=37376369) - [Everything I know about floppy disks](https://thejpster.org.uk/blog/blog-2023-08-28/)
 * [2023-09-04, 01:21:33](https://news.ycombinator.com/item?id=37376254) - [WiiLink – Japanese Wii channels revived](https://www.wiilink24.com/)
-* [2023-09-03, 23:21:17](https://news.ycombinator.com/item?id=37375585) - [John le Carré's 'The Spy Who Came in from the Cold' is the ultimate spy novel](https://www.bbc.com/culture/article/20230831-why-john-le-carrs-the-spy-who-came-in-from-the-cold-is-the-ultimate-spy-novel)
 * [2023-09-03, 22:57:21](https://news.ycombinator.com/item?id=37375431) - [Copper Be Gone: The Chemistry Behind PCB Etching](https://hackaday.com/2023/08/31/copper-be-gone-the-chemistry-behind-pcb-etching/)
 * [2023-09-03, 22:35:03](https://news.ycombinator.com/item?id=37375254) - [Lego 3-axis styrofoam cutter [video]](https://www.youtube.com/watch?v=gR0SYhG76fw)
 * [2023-09-03, 21:23:22](https://news.ycombinator.com/item?id=37374753) - [Confessions of a Netflix DVD Dead-Ender](https://www.theatlantic.com/ideas/archive/2023/09/netflix-dvds-mail-ending/675204/)
