@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-04, 12:23:38",
+      "https://news.ycombinator.com/item?id=37379801"
+    ],
+    [
+      "I built a Plane Spotter in 120 secs with ChatGPT",
+      "https://louison.substack.com/p/i-built-a-plane-spotter-for-my-son"
+    ]
+  ],
+  [
+    [
       "2023-09-04, 11:02:11",
       "https://news.ycombinator.com/item?id=37379272"
     ],
@@ -51,6 +61,16 @@
   ],
   [
     [
+      "2023-09-04, 07:36:29",
+      "https://news.ycombinator.com/item?id=37378080"
+    ],
+    [
+      "Microsoft had three staff at Australian data centre campus when Azure went out",
+      "https://www.itnews.com.au/news/microsoft-had-three-staff-at-australian-data-centre-campus-when-azure-went-out-599849"
+    ]
+  ],
+  [
+    [
       "2023-09-04, 04:56:16",
       "https://news.ycombinator.com/item?id=37377246"
     ],
@@ -77,16 +97,6 @@
     [
       "Scientists use quantum device to slow chemical process by factor of 100B",
       "https://www.sydney.edu.au/news-opinion/news/2023/08/29/conical-intersection-simulation-slowed-by-quantum-computer-100-billion-times.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-04, 03:32:42",
-      "https://news.ycombinator.com/item?id=37376879"
-    ],
-    [
-      "How we know languages like proto-Indo-European existed [video]",
-      "https://www.youtube.com/watch?v=jIgoBRbfkUA"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Using uninitialized memory for fun and profit (2008)",
       "https://research.swtch.com/sparse"
-    ]
-  ],
-  [
-    [
-      "2023-09-01, 11:12:30",
-      "https://news.ycombinator.com/item?id=37349276"
-    ],
-    [
-      "A Gentle Introduction to Liquid Types",
-      "https://goto.ucsd.edu/~ucsdpl-blog/liquidtypes/2015/09/19/liquid-types/"
     ]
   ]
 ]
