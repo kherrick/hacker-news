@@ -91,3 +91,4 @@
 * [2023-09-03, 01:46:31](https://news.ycombinator.com/item?id=37367017) - [Silicon Valley’s elites can’t be trusted with the future of AI](https://fortune.com/2023/09/01/silicon-valley-elite-trust-future-ai-dominance-dangers-god-complex-wadhwa-gupta/)
 * [2023-09-03, 01:46:00](https://news.ycombinator.com/item?id=37367013) - [Baresip – An Open Source modular SIP User-Agent with audio and video support](https://github.com/baresip/baresip)
 * [2023-09-03, 00:32:38](https://news.ycombinator.com/item?id=37366678) - [Vigil, the eternal morally vigilant programming language](https://github.com/munificent/vigil)
+* [2023-09-03, 00:09:32](https://news.ycombinator.com/item?id=37366584) - [LAN-Party House (2011)](https://kentonshouse.com/)

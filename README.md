@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-04, 14:47:38](https://news.ycombinator.com/item?id=37380980) - [You Don't Need to “Learn” Svelte: Embracing the Simplicity of JavaScript](https://kaviisuri.com/you-dont-need-to-learn-svelte)
+* [2023-09-04, 14:35:50](https://news.ycombinator.com/item?id=37380863) - [Antioxidants such as Vitamin C found to spur cancer growth and metastasis](https://newatlas.com/medical/antioxidants-stimulate-blood-vessel-growth-cancer-tumors/)
 * [2023-09-04, 14:27:40](https://news.ycombinator.com/item?id=37380809) - [The mobile game funding a revolution in Myanmar](https://www.bbc.com/news/world-asia-65906961)
 * [2023-09-04, 13:34:49](https://news.ycombinator.com/item?id=37380314) - [Computing Power Used to Be Measured in 'Kilo-Girls'](https://www.theatlantic.com/technology/archive/2013/10/computing-power-used-to-be-measured-in-kilo-girls/280633/)
 * [2023-09-04, 13:29:17](https://news.ycombinator.com/item?id=37380270) - [Titanium spikes kill superbugs drug-free by ripping them apart](https://newatlas.com/medical/titanium-spikes-effective-drug-free-kill-antibiotic-resistant-superbugs/)
@@ -9,7 +10,6 @@
 * [2023-09-04, 11:09:56](https://news.ycombinator.com/item?id=37379323) - [The Usefulness of a Memory Guides Where the Brain Saves It](https://www.quantamagazine.org/the-usefulness-of-a-memory-guides-where-the-brain-saves-it-20230830/)
 * [2023-09-04, 11:04:51](https://news.ycombinator.com/item?id=37379297) - [The Battle over Books3 Could Change AI Forever](https://www.wired.com/story/battle-over-books3/)
 * [2023-09-04, 11:02:11](https://news.ycombinator.com/item?id=37379272) - [TV Museum will die in 48 hours unless Sony retracts YouTube copyright strikes](https://torrentfreak.com/tv-museum-will-die-in-48-hours-unless-sony-retracts-youtube-copyright-strikes-230904/)
-* [2023-09-04, 09:21:38](https://news.ycombinator.com/item?id=37378669) - [The curl-wget Venn diagram](https://daniel.haxx.se/blog/2023/09/04/the-curl-wget-venn-diagram/)
 * [2023-09-04, 08:38:52](https://news.ycombinator.com/item?id=37378450) - [Hardware Random Bit Generator](https://web.jfet.org/hw-rng.html)
 * [2023-09-04, 08:25:20](https://news.ycombinator.com/item?id=37378385) - [Cuber: Deploy your apps on Kubernetes easily](https://github.com/cuber-cloud/cuber-gem)
 * [2023-09-04, 07:54:16](https://news.ycombinator.com/item?id=37378179) - [Plastic Money](https://computer.rip/2023-09-03-plastic-money.html)
@@ -27,7 +27,7 @@
 * [2023-09-04, 01:21:33](https://news.ycombinator.com/item?id=37376254) - [WiiLink – Japanese Wii channels revived](https://www.wiilink24.com/)
 * [2023-09-03, 22:57:21](https://news.ycombinator.com/item?id=37375431) - [Copper Be Gone: The Chemistry Behind PCB Etching](https://hackaday.com/2023/08/31/copper-be-gone-the-chemistry-behind-pcb-etching/)
 * [2023-09-03, 22:35:10](https://news.ycombinator.com/item?id=37375257) - [Webb Mirror (2022)](https://neil.fraser.name/news/2022/11/15/)
-* [2023-09-03, 05:12:07](https://news.ycombinator.com/item?id=37367896) - [Fernando Pessoa’s Unselving](https://www.theparisreview.org/blog/2023/06/23/fernando-pessoas-many-personalities/)
+* [2023-09-03, 00:09:32](https://news.ycombinator.com/item?id=37366584) - [LAN-Party House (2011)](https://kentonshouse.com/)
 * [2023-09-02, 13:37:06](https://news.ycombinator.com/item?id=37361422) - [Landsat archive (since 1982) available in Living Atlas](https://livingatlas.arcgis.com/landsatexplorer/#mapCenter=110.947%2C30.862%2C12.000&mode=find+a+scene&mainScene=1997-08-17%7CAgriculture+with+DRA%7C3026341)
 * [2023-09-01, 18:50:31](https://news.ycombinator.com/item?id=37354742) - [Phonies: J.D. Salinger and Wielding Copyright as Self-Protection](https://crimereads.com/j-d-salinger-copyright/)
 
