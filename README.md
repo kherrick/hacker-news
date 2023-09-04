@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-04, 04:56:16](https://news.ycombinator.com/item?id=37377246) - [Haskell mini-patterns handbook (2020)](https://kowainik.github.io/posts/haskell-mini-patterns)
 * [2023-09-04, 03:58:41](https://news.ycombinator.com/item?id=37376998) - [Scientists use quantum device to slow chemical process by factor of 100B](https://www.sydney.edu.au/news-opinion/news/2023/08/29/conical-intersection-simulation-slowed-by-quantum-computer-100-billion-times.html)
 * [2023-09-04, 03:51:54](https://news.ycombinator.com/item?id=37376965) - [Show HN: MonoDevelop](https://www.monodevelop.com/)
 * [2023-09-04, 03:32:42](https://news.ycombinator.com/item?id=37376879) - [How we know languages like proto-Indo-European existed [video]](https://www.youtube.com/watch?v=jIgoBRbfkUA)
@@ -11,7 +12,6 @@
 * [2023-09-04, 01:21:33](https://news.ycombinator.com/item?id=37376254) - [WiiLink – Japanese Wii channels revived](https://www.wiilink24.com/)
 * [2023-09-03, 23:21:17](https://news.ycombinator.com/item?id=37375585) - [John le Carré's 'The Spy Who Came in from the Cold' is the ultimate spy novel](https://www.bbc.com/culture/article/20230831-why-john-le-carrs-the-spy-who-came-in-from-the-cold-is-the-ultimate-spy-novel)
 * [2023-09-03, 22:35:03](https://news.ycombinator.com/item?id=37375254) - [Lego 3-axis styrofoam cutter [video]](https://www.youtube.com/watch?v=gR0SYhG76fw)
-* [2023-09-03, 22:00:40](https://news.ycombinator.com/item?id=37375008) - [Scientists finally know why Germany’s wild boar are surprisingly radioactive](https://www.washingtonpost.com/climate-environment/2023/09/03/radioactive-wild-boar/)
 * [2023-09-03, 21:23:22](https://news.ycombinator.com/item?id=37374753) - [Confessions of a Netflix DVD Dead-Ender](https://www.theatlantic.com/ideas/archive/2023/09/netflix-dvds-mail-ending/675204/)
 * [2023-09-03, 20:56:25](https://news.ycombinator.com/item?id=37374489) - [He created the Katamari games, but they’re rolling on without him](https://www.nytimes.com/2023/07/28/arts/katamari-damacy-keita-takahashi.html)
 * [2023-09-03, 19:59:48](https://news.ycombinator.com/item?id=37373865) - [Yenish people](https://en.wikipedia.org/wiki/Yenish_people)
