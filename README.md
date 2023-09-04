@@ -24,10 +24,10 @@
 * [2023-09-04, 07:54:16](https://news.ycombinator.com/item?id=37378179) - [Plastic Money](https://computer.rip/2023-09-03-plastic-money.html)
 * [2023-09-04, 04:56:16](https://news.ycombinator.com/item?id=37377246) - [Haskell mini-patterns handbook (2020)](https://kowainik.github.io/posts/haskell-mini-patterns)
 * [2023-09-04, 04:20:21](https://news.ycombinator.com/item?id=37377078) - [Pretendo: A free and open source server replacement for the 3DS and Wii U](https://pretendo.network/)
-* [2023-09-04, 03:58:41](https://news.ycombinator.com/item?id=37376998) - [Scientists use quantum device to slow chemical process by factor of 100B](https://www.sydney.edu.au/news-opinion/news/2023/08/29/conical-intersection-simulation-slowed-by-quantum-computer-100-billion-times.html)
 * [2023-09-04, 03:47:13](https://news.ycombinator.com/item?id=37376943) - [SiFive’s P870 Takes RISC-V Further](https://chipsandcheese.com/2023/09/03/hot-chips-2023-sifives-p870-takes-risc-v-further/)
 * [2023-09-03, 11:12:33](https://news.ycombinator.com/item?id=37369446) - [The Hungry Caterpillar and the Ecosystem](https://worldsensorium.com/the-very-hungry-caterpillar-and-the-ecosystem/)
 * [2023-09-03, 08:03:32](https://news.ycombinator.com/item?id=37368597) - [Black Art of 3D Game Programming (1995)](https://archive.org/details/BlackArt3DEBook)
+* [2023-09-03, 06:24:13](https://news.ycombinator.com/item?id=37368148) - [So you want to modify the text of a PDF by hand](https://gist.github.com/senderle/8ad6aae251c4ddf9424f8a05dd0e8c18)
 * [2023-09-03, 00:09:32](https://news.ycombinator.com/item?id=37366584) - [LAN-Party House (2011)](https://kentonshouse.com/)
 * [2023-09-01, 18:50:31](https://news.ycombinator.com/item?id=37354742) - [Phonies: J.D. Salinger and Wielding Copyright as Self-Protection](https://crimereads.com/j-d-salinger-copyright/)
 
