@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-04](index.md)
 
+* [2023-09-04, 09:40:54](https://news.ycombinator.com/item?id=37378783) - [Chrome extensions can steal plaintext passwords from websites](https://www.bleepingcomputer.com/news/security/chrome-extensions-can-steal-plaintext-passwords-from-websites/)
 * [2023-09-04, 09:21:38](https://news.ycombinator.com/item?id=37378669) - [The curl-wget Venn diagram](https://daniel.haxx.se/blog/2023/09/04/the-curl-wget-venn-diagram/)
 * [2023-09-04, 08:38:52](https://news.ycombinator.com/item?id=37378450) - [Hardware Random Bit Generator](https://web.jfet.org/hw-rng.html)
 * [2023-09-04, 08:25:20](https://news.ycombinator.com/item?id=37378385) - [Cuber: Deploy your apps on Kubernetes easily](https://github.com/cuber-cloud/cuber-gem)

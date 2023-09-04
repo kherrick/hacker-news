@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-04, 09:40:54](https://news.ycombinator.com/item?id=37378783) - [Chrome extensions can steal plaintext passwords from websites](https://www.bleepingcomputer.com/news/security/chrome-extensions-can-steal-plaintext-passwords-from-websites/)
 * [2023-09-04, 09:21:38](https://news.ycombinator.com/item?id=37378669) - [The curl-wget Venn diagram](https://daniel.haxx.se/blog/2023/09/04/the-curl-wget-venn-diagram/)
 * [2023-09-04, 08:38:52](https://news.ycombinator.com/item?id=37378450) - [Hardware Random Bit Generator](https://web.jfet.org/hw-rng.html)
 * [2023-09-04, 08:25:20](https://news.ycombinator.com/item?id=37378385) - [Cuber: Deploy your apps on Kubernetes easily](https://github.com/cuber-cloud/cuber-gem)
@@ -20,7 +21,6 @@
 * [2023-09-03, 22:35:10](https://news.ycombinator.com/item?id=37375257) - [Webb Mirror (2022)](https://neil.fraser.name/news/2022/11/15/)
 * [2023-09-03, 22:35:03](https://news.ycombinator.com/item?id=37375254) - [Lego 3-axis styrofoam cutter [video]](https://www.youtube.com/watch?v=gR0SYhG76fw)
 * [2023-09-03, 21:23:22](https://news.ycombinator.com/item?id=37374753) - [Confessions of a Netflix DVD Dead-Ender](https://www.theatlantic.com/ideas/archive/2023/09/netflix-dvds-mail-ending/675204/)
-* [2023-09-03, 20:56:25](https://news.ycombinator.com/item?id=37374489) - [He created the Katamari games, but they’re rolling on without him](https://www.nytimes.com/2023/07/28/arts/katamari-damacy-keita-takahashi.html)
 * [2023-09-03, 20:10:00](https://news.ycombinator.com/item?id=37373983) - [How to write correct code by construction using the Coq Proof Assistant](https://betterprogramming.pub/a-taste-of-coq-and-correct-code-by-construction-111bf74d3b98)
 * [2023-09-03, 19:53:04](https://news.ycombinator.com/item?id=37373796) - [Cola: A text CRDT for real-time collaborative editing](https://nomad.foo/blog/cola)
 * [2023-09-03, 19:00:56](https://news.ycombinator.com/item?id=37373257) - [Historians have an increasingly strong incentive to tell dramatic stories](https://www.ian-leslie.com/p/stories-are-bad-for-your-intelligence)
