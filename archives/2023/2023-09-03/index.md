@@ -11,6 +11,7 @@
 * [2023-09-03, 22:35:03](https://news.ycombinator.com/item?id=37375254) - [Lego 3-axis styrofoam cutter [video]](https://www.youtube.com/watch?v=gR0SYhG76fw)
 * [2023-09-03, 21:54:20](https://news.ycombinator.com/item?id=37374966) - [Foxconn's Promise to Invest $10B in Wisconsin Is Now a Distant Memory](https://www.engadget.com/foxconns-promise-to-invest-10-billion-in-wisconsin-is-now-a-distant-memory-090555405.html)
 * [2023-09-03, 21:10:15](https://news.ycombinator.com/item?id=37374623) - [One dead, 70k stranded at Burning Man after rains](https://www.npr.org/2023/09/02/1197441202/burning-man-festival-rains-floods-stranded-nevada)
+* [2023-09-03, 20:56:25](https://news.ycombinator.com/item?id=37374489) - [He created the Katamari games, but they’re rolling on without him](https://www.nytimes.com/2023/07/28/arts/katamari-damacy-keita-takahashi.html)
 * [2023-09-03, 20:55:34](https://news.ycombinator.com/item?id=37374479) - [RadioShack’s new owner plots old comeback strategy](https://retailwire.com/discussion/radioshacks-new-owner-plots-old-comeback-strategy/)
 * [2023-09-03, 20:13:06](https://news.ycombinator.com/item?id=37374013) - [The containment of George Kennan (2022)](https://claremontreviewofbooks.com/the-containment-of-george-kennan/)
 * [2023-09-03, 20:10:00](https://news.ycombinator.com/item?id=37373983) - [A taste of Coq and correct code by construction](https://betterprogramming.pub/a-taste-of-coq-and-correct-code-by-construction-111bf74d3b98)

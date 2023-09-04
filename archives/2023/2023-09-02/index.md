@@ -70,6 +70,7 @@
 * [2023-09-02, 12:08:11](https://news.ycombinator.com/item?id=37360760) - [Tesla breaks down mid-turn and causes more than nine hours of travel chaos](https://www.telegraph.co.uk/news/2023/09/01/tesla-model-3-breaks-down-salisbury-elon-musk-electric-cars/)
 * [2023-09-02, 11:29:00](https://news.ycombinator.com/item?id=37360502) - [Index of Aesthetics](https://cari.institute/aesthetics)
 * [2023-09-02, 11:28:08](https://news.ycombinator.com/item?id=37360494) - [Rest in peace, neglected iTunes Movie Trailer app and website](https://arstechnica.com/gadgets/2023/09/rest-in-peace-neglected-itunes-movie-trailer-app-and-website/)
+* [2023-09-02, 10:55:07](https://news.ycombinator.com/item?id=37360314) - [Using Uninitialized Memory (2008)](https://research.swtch.com/sparse)
 * [2023-09-02, 10:43:41](https://news.ycombinator.com/item?id=37360269) - [33% of Gamers Are Disabled](https://news.sky.com/story/why-gaming-is-not-just-a-hobby-but-a-lifeline-for-millions-of-gamers-12952807)
 * [2023-09-02, 10:40:26](https://news.ycombinator.com/item?id=37360251) - [A GPT-4 capability forecasting challenge](https://nicholas.carlini.com/writing/llm-forecast/question/Capital-of-Paris)
 * [2023-09-02, 10:39:50](https://news.ycombinator.com/item?id=37360249) - [Open-sourcing SQX, a way to build flexible database models in Go](https://stytch.com/blog/open-sourcing-sqx-a-way-to-build-flexible-database-models-in-go/)
