@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-04, 01:39:36](https://news.ycombinator.com/item?id=37376369) - [Everything I know about floppy disks](https://thejpster.org.uk/blog/blog-2023-08-28/)
+* [2023-09-04, 01:21:33](https://news.ycombinator.com/item?id=37376254) - [WiiLink – Japanese Wii channels revived](https://www.wiilink24.com/)
 * [2023-09-03, 22:35:03](https://news.ycombinator.com/item?id=37375254) - [Lego 3-axis styrofoam cutter [video]](https://www.youtube.com/watch?v=gR0SYhG76fw)
 * [2023-09-03, 20:56:25](https://news.ycombinator.com/item?id=37374489) - [He created the Katamari games, but they’re rolling on without him](https://www.nytimes.com/2023/07/28/arts/katamari-damacy-keita-takahashi.html)
 * [2023-09-03, 20:13:06](https://news.ycombinator.com/item?id=37374013) - [The Containment of George Kennan (2022)](https://claremontreviewofbooks.com/the-containment-of-george-kennan/)
@@ -16,7 +17,6 @@
 * [2023-09-03, 15:16:56](https://news.ycombinator.com/item?id=37371085) - [Simple fragrance method boosts cognitive capacity: study](https://scitechdaily.com/a-whiff-of-genius-simple-fragrance-method-boosts-cognitive-capacity-by-226/)
 * [2023-09-03, 15:16:54](https://news.ycombinator.com/item?id=37371084) - [I don’t want to grow my freelance design studio into an agency](https://neladunato.com/blog/why-wont-grow-freelance-studio-into-agency/)
 * [2023-09-03, 15:08:05](https://news.ycombinator.com/item?id=37371020) - [HTML Design Principles (2007)](https://www.w3.org/TR/html-design-principles/)
-* [2023-09-03, 14:47:02](https://news.ycombinator.com/item?id=37370858) - [Harry Browne’s Rules of Financial Safety (1999)](https://thetaoofwealth.wordpress.com/2013/02/17/harry-brownes-17-golden-rules-of-financial-safety/)
 * [2023-09-03, 13:55:12](https://news.ycombinator.com/item?id=37370453) - [Pesticide safety limit for salmon farms watered down after industry lobbying](https://theferret.scot/pesticide-safety-limit-industry-lobbying/)
 * [2023-09-03, 13:26:24](https://news.ycombinator.com/item?id=37370248) - [Interfaces for prototyping hardware](https://kevinlynagh.com/newsletter/2023_09_hardware_prototyping/)
 * [2023-09-03, 12:22:35](https://news.ycombinator.com/item?id=37369826) - [The Raft Consensus Algorithm (2015)](https://raft.github.io)
