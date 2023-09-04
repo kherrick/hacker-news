@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-04, 18:17:21](https://news.ycombinator.com/item?id=37383283) - [Tidal Energy Is Not Renewable](https://cs.stanford.edu/people/zjl/tide.html)
 * [2023-09-04, 17:48:57](https://news.ycombinator.com/item?id=37382995) - [Extreme El Niño weather switched off South American's carbon sink](https://www.leeds.ac.uk/news-environment/news/article/5391/extreme-el-ni-o-weather-switched-off-south-american-s-carbon-sink)
 * [2023-09-04, 17:35:07](https://news.ycombinator.com/item?id=37382813) - [Mechanisms of scent-tracking in humans](https://www.nature.com/articles/nn1819)
 * [2023-09-04, 17:25:37](https://news.ycombinator.com/item?id=37382691) - [Red lights over the Pacific – August 2014 (2014)](https://jpcvanheijst.com/red-lights-over-the-pacific-ocean-august-2014)
@@ -9,7 +10,6 @@
 * [2023-09-04, 16:37:43](https://news.ycombinator.com/item?id=37382117) - [Can We Talk to Whales?](https://www.newyorker.com/magazine/2023/09/11/can-we-talk-to-whales)
 * [2023-09-04, 16:13:54](https://news.ycombinator.com/item?id=37381862) - [Refact LLM: New 1.6B code model reaches 32% HumanEval and is SOTA for the size](https://refact.ai/blog/2023/introducing-refact-code-llm/)
 * [2023-09-04, 16:11:30](https://news.ycombinator.com/item?id=37381834) - [What Is Residual Vector Quantization?](https://www.assemblyai.com/blog/what-is-residual-vector-quantization/)
-* [2023-09-04, 15:28:18](https://news.ycombinator.com/item?id=37381409) - [DSLs are a waste of time](https://leebriggs.co.uk/blog/2023/09/04/dsl)
 * [2023-09-04, 15:27:59](https://news.ycombinator.com/item?id=37381407) - [Portal 64 – A demake of Portal for the Nintendo 64](https://github.com/lambertjamesd/portal64)
 * [2023-09-04, 15:25:13](https://news.ycombinator.com/item?id=37381377) - [Ask HN: In person industry tours and site visits](https://news.ycombinator.com/item?id=37381377)
 * [2023-09-04, 15:20:45](https://news.ycombinator.com/item?id=37381335) - [VSCodium – Libre Open Source Software Binaries of VS Code](https://vscodium.com)
