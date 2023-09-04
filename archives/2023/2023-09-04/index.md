@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-04](index.md)
 
+* [2023-09-04, 18:44:59](https://news.ycombinator.com/item?id=37383548) - [Home insurers cut natural disasters from policies as climate risks grow](https://www.washingtonpost.com/business/2023/09/03/natural-disaster-climate-insurance/)
 * [2023-09-04, 18:17:21](https://news.ycombinator.com/item?id=37383283) - [Tidal Energy Is Not Renewable](https://cs.stanford.edu/people/zjl/tide.html)
+* [2023-09-04, 17:52:47](https://news.ycombinator.com/item?id=37383036) - [Secret Government Telephone Numbers](https://computer.rip/2023-02-07-secret-government-telephone-numbers.html)
 * [2023-09-04, 17:48:57](https://news.ycombinator.com/item?id=37382995) - [Extreme El Niño weather switched off South American's carbon sink](https://www.leeds.ac.uk/news-environment/news/article/5391/extreme-el-ni-o-weather-switched-off-south-american-s-carbon-sink)
 * [2023-09-04, 17:35:07](https://news.ycombinator.com/item?id=37382813) - [Humans may be just as capable as dogs at following a scent trail](https://www.nature.com/articles/nn1819)
 * [2023-09-04, 17:25:37](https://news.ycombinator.com/item?id=37382691) - [Red lights over the Pacific – August 2014 (2014)](https://jpcvanheijst.com/red-lights-over-the-pacific-ocean-august-2014)
@@ -13,6 +15,7 @@
 * [2023-09-04, 16:50:10](https://news.ycombinator.com/item?id=37382232) - [Medical-evidence giant Cochrane battles funding cuts and closures](https://www.nature.com/articles/d41586-023-02741-z)
 * [2023-09-04, 16:37:43](https://news.ycombinator.com/item?id=37382117) - [Can We Talk to Whales?](https://www.newyorker.com/magazine/2023/09/11/can-we-talk-to-whales)
 * [2023-09-04, 16:25:11](https://news.ycombinator.com/item?id=37381979) - [An effort to ban caste discrimination in California has touched a nerve](https://www.politico.com/news/2023/09/04/ban-caste-discrimination-california-bill-00113817)
+* [2023-09-04, 16:23:01](https://news.ycombinator.com/item?id=37381957) - [Go CLI to calculate total media duraton in directories](https://github.com/mdyssr/azmena-cli)
 * [2023-09-04, 16:13:54](https://news.ycombinator.com/item?id=37381862) - [Refact LLM: New 1.6B code model reaches 32% HumanEval and is SOTA for the size](https://refact.ai/blog/2023/introducing-refact-code-llm/)
 * [2023-09-04, 16:11:30](https://news.ycombinator.com/item?id=37381834) - [What Is Residual Vector Quantization?](https://www.assemblyai.com/blog/what-is-residual-vector-quantization/)
 * [2023-09-04, 15:36:12](https://news.ycombinator.com/item?id=37381508) - [Jitsi Meet Abandons Anonimity Promise](https://reclaimthenet.org/private-zoom-alternative-jitsi-meet-abandons-anonymity-promise)
