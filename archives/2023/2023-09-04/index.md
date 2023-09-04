@@ -28,6 +28,7 @@
 * [2023-09-04, 04:20:21](https://news.ycombinator.com/item?id=37377078) - [Pretendo: A free and open source server replacement for the 3DS and Wii U](https://pretendo.network/)
 * [2023-09-04, 03:58:41](https://news.ycombinator.com/item?id=37376998) - [Scientists use quantum device to slow chemical process by factor of 100B](https://www.sydney.edu.au/news-opinion/news/2023/08/29/conical-intersection-simulation-slowed-by-quantum-computer-100-billion-times.html)
 * [2023-09-04, 03:51:54](https://news.ycombinator.com/item?id=37376965) - [Show HN: MonoDevelop](https://www.monodevelop.com/)
+* [2023-09-04, 03:47:13](https://news.ycombinator.com/item?id=37376943) - [SiFive’s P870 Takes RISC-V Further](https://chipsandcheese.com/2023/09/03/hot-chips-2023-sifives-p870-takes-risc-v-further/)
 * [2023-09-04, 03:43:34](https://news.ycombinator.com/item?id=37376926) - [Are Cooking Videos Making Us Better Cooks?](https://www.nytimes.com/interactive/2023/08/07/dining/cooking-videos-tiktok.html)
 * [2023-09-04, 03:32:42](https://news.ycombinator.com/item?id=37376879) - [How we know languages like proto-Indo-European existed [video]](https://www.youtube.com/watch?v=jIgoBRbfkUA)
 * [2023-09-04, 03:13:01](https://news.ycombinator.com/item?id=37376786) - [A Proposal for an asynchronous Rust GUI framework](https://notgull.github.io/async-gui/)
