@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-04, 14:13:15](https://news.ycombinator.com/item?id=37380665) - [Battle of Hodów: When 400 Poles repelled 40,000 Tatars in 1694](https://tvpworld.com/60706855/battle-of-hodow-when-400-poles-repelled-40000-tatars-in-1694)
 * [2023-09-04, 13:34:49](https://news.ycombinator.com/item?id=37380314) - [Computing Power Used to Be Measured in 'Kilo-Girls'](https://www.theatlantic.com/technology/archive/2013/10/computing-power-used-to-be-measured-in-kilo-girls/280633/)
 * [2023-09-04, 13:29:17](https://news.ycombinator.com/item?id=37380270) - [Titanium spikes kill superbugs drug-free by ripping them apart](https://newatlas.com/medical/titanium-spikes-effective-drug-free-kill-antibiotic-resistant-superbugs/)
 * [2023-09-04, 13:04:48](https://news.ycombinator.com/item?id=37380104) - [Is macOS’s new XProtect behavioural security preparing to go live?](https://eclecticlight.co/2023/09/04/is-macoss-new-xprotect-behavioural-security-preparing-to-go-live/)
@@ -12,7 +13,6 @@
 * [2023-09-04, 08:38:52](https://news.ycombinator.com/item?id=37378450) - [Hardware Random Bit Generator](https://web.jfet.org/hw-rng.html)
 * [2023-09-04, 08:25:20](https://news.ycombinator.com/item?id=37378385) - [Cuber: Deploy your apps on Kubernetes easily](https://github.com/cuber-cloud/cuber-gem)
 * [2023-09-04, 07:54:16](https://news.ycombinator.com/item?id=37378179) - [Plastic Money](https://computer.rip/2023-09-03-plastic-money.html)
-* [2023-09-04, 07:36:29](https://news.ycombinator.com/item?id=37378080) - [Microsoft had three staff at Australian data centre campus when Azure went out](https://www.itnews.com.au/news/microsoft-had-three-staff-at-australian-data-centre-campus-when-azure-went-out-599849)
 * [2023-09-04, 04:56:16](https://news.ycombinator.com/item?id=37377246) - [Haskell mini-patterns handbook (2020)](https://kowainik.github.io/posts/haskell-mini-patterns)
 * [2023-09-04, 04:20:21](https://news.ycombinator.com/item?id=37377078) - [Pretendo: A free and open source server replacement for the 3DS and Wii U](https://pretendo.network/)
 * [2023-09-04, 03:58:41](https://news.ycombinator.com/item?id=37376998) - [Scientists use quantum device to slow chemical process by factor of 100B](https://www.sydney.edu.au/news-opinion/news/2023/08/29/conical-intersection-simulation-slowed-by-quantum-computer-100-billion-times.html)
