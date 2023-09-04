@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-04](index.md)
 
+* [2023-09-04, 19:17:37](https://news.ycombinator.com/item?id=37383913) - [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)
 * [2023-09-04, 18:44:59](https://news.ycombinator.com/item?id=37383548) - [Home insurers cut natural disasters from policies as climate risks grow](https://www.washingtonpost.com/business/2023/09/03/natural-disaster-climate-insurance/)
 * [2023-09-04, 18:17:21](https://news.ycombinator.com/item?id=37383283) - [Tidal Energy Is Not Renewable](https://cs.stanford.edu/people/zjl/tide.html)
 * [2023-09-04, 17:52:47](https://news.ycombinator.com/item?id=37383036) - [Secret Government Telephone Numbers](https://computer.rip/2023-02-07-secret-government-telephone-numbers.html)
