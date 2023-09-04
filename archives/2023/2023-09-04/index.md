@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-04](index.md)
 
+* [2023-09-04, 12:23:38](https://news.ycombinator.com/item?id=37379801) - [I built a Plane Spotter in 120 secs with ChatGPT](https://louison.substack.com/p/i-built-a-plane-spotter-for-my-son)
 * [2023-09-04, 11:41:30](https://news.ycombinator.com/item?id=37379534) - [Reddit faces content quality concerns after its Great Mod Purge](https://arstechnica.com/gadgets/2023/09/are-reddits-replacement-mods-fit-to-fight-misinformation/)
 * [2023-09-04, 11:02:11](https://news.ycombinator.com/item?id=37379272) - [TV Museum Will Die in 48 Hours Unless Sony Retracts YouTube Copyright Strikes](https://torrentfreak.com/tv-museum-will-die-in-48-hours-unless-sony-retracts-youtube-copyright-strikes-230904/)
 * [2023-09-04, 09:40:54](https://news.ycombinator.com/item?id=37378783) - [Chrome extensions can steal plaintext passwords from websites](https://www.bleepingcomputer.com/news/security/chrome-extensions-can-steal-plaintext-passwords-from-websites/)
@@ -13,6 +14,7 @@
 * [2023-09-04, 08:17:40](https://news.ycombinator.com/item?id=37378328) - [David Tolnay on the \"RustConf Keynote Fiasco\"](https://gist.github.com/dtolnay/7f5da4bf057b7c6d0d00c6bed3060b96)
 * [2023-09-04, 07:56:24](https://news.ycombinator.com/item?id=37378196) - [War games: Battlefield strategy and the game of chess](https://www.thearticle.com/war-games-battlefield-strategy-and-the-game-of-chess)
 * [2023-09-04, 07:54:16](https://news.ycombinator.com/item?id=37378179) - [Plastic Money](https://computer.rip/2023-09-03-plastic-money.html)
+* [2023-09-04, 07:36:29](https://news.ycombinator.com/item?id=37378080) - [Microsoft had three staff at Australian data centre campus when Azure went out](https://www.itnews.com.au/news/microsoft-had-three-staff-at-australian-data-centre-campus-when-azure-went-out-599849)
 * [2023-09-04, 07:33:53](https://news.ycombinator.com/item?id=37378069) - [Google was founded 25 years ago Today](https://en.wikipedia.org/wiki/History_of_Google)
 * [2023-09-04, 07:09:41](https://news.ycombinator.com/item?id=37377926) - [Huawei Teardown Shows Chip Breakthrough in Blow to US Sanctions](https://www.bloomberg.com/news/features/2023-09-04/look-inside-huawei-mate-60-pro-phone-powered-by-made-in-china-chip)
 * [2023-09-04, 04:56:16](https://news.ycombinator.com/item?id=37377246) - [Haskell mini-patterns handbook (2020)](https://kowainik.github.io/posts/haskell-mini-patterns)

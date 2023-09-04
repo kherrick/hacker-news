@@ -1,14 +1,15 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-04, 12:23:38](https://news.ycombinator.com/item?id=37379801) - [I built a Plane Spotter in 120 secs with ChatGPT](https://louison.substack.com/p/i-built-a-plane-spotter-for-my-son)
 * [2023-09-04, 11:02:11](https://news.ycombinator.com/item?id=37379272) - [TV Museum Will Die in 48 Hours Unless Sony Retracts YouTube Copyright Strikes](https://torrentfreak.com/tv-museum-will-die-in-48-hours-unless-sony-retracts-youtube-copyright-strikes-230904/)
 * [2023-09-04, 09:21:38](https://news.ycombinator.com/item?id=37378669) - [The curl-wget Venn diagram](https://daniel.haxx.se/blog/2023/09/04/the-curl-wget-venn-diagram/)
 * [2023-09-04, 08:38:52](https://news.ycombinator.com/item?id=37378450) - [Hardware Random Bit Generator](https://web.jfet.org/hw-rng.html)
 * [2023-09-04, 08:25:20](https://news.ycombinator.com/item?id=37378385) - [Cuber: Deploy your apps on Kubernetes easily](https://github.com/cuber-cloud/cuber-gem)
 * [2023-09-04, 07:54:16](https://news.ycombinator.com/item?id=37378179) - [Plastic Money](https://computer.rip/2023-09-03-plastic-money.html)
+* [2023-09-04, 07:36:29](https://news.ycombinator.com/item?id=37378080) - [Microsoft had three staff at Australian data centre campus when Azure went out](https://www.itnews.com.au/news/microsoft-had-three-staff-at-australian-data-centre-campus-when-azure-went-out-599849)
 * [2023-09-04, 04:56:16](https://news.ycombinator.com/item?id=37377246) - [Haskell mini-patterns handbook (2020)](https://kowainik.github.io/posts/haskell-mini-patterns)
 * [2023-09-04, 04:20:21](https://news.ycombinator.com/item?id=37377078) - [Pretendo: A free and open source server replacement for the 3DS and Wii U](https://pretendo.network/)
 * [2023-09-04, 03:58:41](https://news.ycombinator.com/item?id=37376998) - [Scientists use quantum device to slow chemical process by factor of 100B](https://www.sydney.edu.au/news-opinion/news/2023/08/29/conical-intersection-simulation-slowed-by-quantum-computer-100-billion-times.html)
-* [2023-09-04, 03:32:42](https://news.ycombinator.com/item?id=37376879) - [How we know languages like proto-Indo-European existed [video]](https://www.youtube.com/watch?v=jIgoBRbfkUA)
 * [2023-09-04, 02:52:04](https://news.ycombinator.com/item?id=37376686) - [Glove80 Ergonomic Keyboard](https://danieldk.eu/Posts/2023-09-03-Glove80.html)
 * [2023-09-04, 02:48:23](https://news.ycombinator.com/item?id=37376675) - [Amiga Samplers: Budget dance music in 1990](https://www.youtube.com/watch?v=i9MXYZh1jcs)
 * [2023-09-04, 02:36:14](https://news.ycombinator.com/item?id=37376609) - [The History of Windows 95](https://www.abortretry.fail/p/the-history-of-windows-95)
@@ -29,7 +30,6 @@
 * [2023-09-03, 02:26:29](https://news.ycombinator.com/item?id=37367199) - [Investigating intentional cranial modification in 3rd to 7th century CE Japan](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289219)
 * [2023-09-02, 13:37:06](https://news.ycombinator.com/item?id=37361422) - [Landsat archive (since 1982) available in Living Atlas](https://livingatlas.arcgis.com/landsatexplorer/#mapCenter=110.947%2C30.862%2C12.000&mode=find+a+scene&mainScene=1997-08-17%7CAgriculture+with+DRA%7C3026341)
 * [2023-09-02, 10:55:07](https://news.ycombinator.com/item?id=37360314) - [Using uninitialized memory for fun and profit (2008)](https://research.swtch.com/sparse)
-* [2023-09-01, 11:12:30](https://news.ycombinator.com/item?id=37349276) - [A Gentle Introduction to Liquid Types](https://goto.ucsd.edu/~ucsdpl-blog/liquidtypes/2015/09/19/liquid-types/)
 
 ## [Archives](archives/index.md)
 
