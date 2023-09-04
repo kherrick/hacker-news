@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-04](index.md)
 
+* [2023-09-04, 17:48:57](https://news.ycombinator.com/item?id=37382995) - [Extreme El Niño weather switched off South American's carbon sink](https://www.leeds.ac.uk/news-environment/news/article/5391/extreme-el-ni-o-weather-switched-off-south-american-s-carbon-sink)
 * [2023-09-04, 17:35:07](https://news.ycombinator.com/item?id=37382813) - [Humans may be just as capable as dogs at following a scent trail](https://www.nature.com/articles/nn1819)
+* [2023-09-04, 17:25:37](https://news.ycombinator.com/item?id=37382691) - [Red lights over the Pacific – August 2014 (2014)](https://jpcvanheijst.com/red-lights-over-the-pacific-ocean-august-2014)
 * [2023-09-04, 17:22:14](https://news.ycombinator.com/item?id=37382639) - [Nougat: Neural Optical Understanding for Academic Documents](https://arxiv.org/abs/2308.13418)
 * [2023-09-04, 17:00:30](https://news.ycombinator.com/item?id=37382357) - [Relationship Hero (YC S17) Is Hiring Couples Coaches](https://relationshiphero.com/careers?role=coach)
 * [2023-09-04, 16:50:10](https://news.ycombinator.com/item?id=37382232) - [Medical-evidence giant Cochrane battles funding cuts and closures](https://www.nature.com/articles/d41586-023-02741-z)
