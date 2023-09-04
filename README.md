@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-04, 03:32:42](https://news.ycombinator.com/item?id=37376879) - [How we know languages like proto-Indo-European existed [video]](https://www.youtube.com/watch?v=jIgoBRbfkUA)
 * [2023-09-04, 02:52:04](https://news.ycombinator.com/item?id=37376686) - [Glove80 Ergonomic Keyboard](https://danieldk.eu/Posts/2023-09-03-Glove80.html)
 * [2023-09-04, 02:48:23](https://news.ycombinator.com/item?id=37376675) - [Amiga Samplers: Budget dance music in 1990](https://www.youtube.com/watch?v=i9MXYZh1jcs)
 * [2023-09-04, 01:39:36](https://news.ycombinator.com/item?id=37376369) - [Everything I know about floppy disks](https://thejpster.org.uk/blog/blog-2023-08-28/)
@@ -20,7 +21,6 @@
 * [2023-09-03, 15:16:56](https://news.ycombinator.com/item?id=37371085) - [Simple fragrance method boosts cognitive capacity: study](https://scitechdaily.com/a-whiff-of-genius-simple-fragrance-method-boosts-cognitive-capacity-by-226/)
 * [2023-09-03, 15:16:54](https://news.ycombinator.com/item?id=37371084) - [I don’t want to grow my freelance design studio into an agency](https://neladunato.com/blog/why-wont-grow-freelance-studio-into-agency/)
 * [2023-09-03, 15:08:05](https://news.ycombinator.com/item?id=37371020) - [HTML Design Principles (2007)](https://www.w3.org/TR/html-design-principles/)
-* [2023-09-03, 12:22:35](https://news.ycombinator.com/item?id=37369826) - [The Raft Consensus Algorithm (2015)](https://raft.github.io)
 * [2023-09-03, 09:47:13](https://news.ycombinator.com/item?id=37369055) - [Why I Quit Bridge and Why I Came Back](https://bridgewinners.com/article/view/why-i-quit-bridge-at-23-and-why-i-came-back/)
 * [2023-09-03, 05:12:07](https://news.ycombinator.com/item?id=37367896) - [Fernando Pessoa’s Unselving](https://www.theparisreview.org/blog/2023/06/23/fernando-pessoas-many-personalities/)
 * [2023-09-03, 02:40:58](https://news.ycombinator.com/item?id=37367267) - [Learn Something Old Every Day, Part IX: Aha-154xB and ASPI4DOS.SYS](https://www.os2museum.com/wp/learn-something-old-every-day-part-ix-aha-154xb-and-aspi4dos-sys/)
