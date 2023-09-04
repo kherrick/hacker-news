@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-04, 14:47:38](https://news.ycombinator.com/item?id=37380980) - [You Don't Need to “Learn” Svelte: Embracing the Simplicity of JavaScript](https://kaviisuri.com/you-dont-need-to-learn-svelte)
-* [2023-09-04, 14:35:50](https://news.ycombinator.com/item?id=37380863) - [Antioxidants such as Vitamin C found to spur cancer growth and metastasis](https://newatlas.com/medical/antioxidants-stimulate-blood-vessel-growth-cancer-tumors/)
+* [2023-09-04, 14:27:40](https://news.ycombinator.com/item?id=37380809) - [The mobile game funding a revolution in Myanmar](https://www.bbc.com/news/world-asia-65906961)
 * [2023-09-04, 13:34:49](https://news.ycombinator.com/item?id=37380314) - [Computing Power Used to Be Measured in 'Kilo-Girls'](https://www.theatlantic.com/technology/archive/2013/10/computing-power-used-to-be-measured-in-kilo-girls/280633/)
 * [2023-09-04, 13:29:17](https://news.ycombinator.com/item?id=37380270) - [Titanium spikes kill superbugs drug-free by ripping them apart](https://newatlas.com/medical/titanium-spikes-effective-drug-free-kill-antibiotic-resistant-superbugs/)
 * [2023-09-04, 13:04:48](https://news.ycombinator.com/item?id=37380104) - [Is macOS’s new XProtect behavioural security preparing to go live?](https://eclecticlight.co/2023/09/04/is-macoss-new-xprotect-behavioural-security-preparing-to-go-live/)
@@ -21,8 +21,8 @@
 * [2023-09-04, 02:48:23](https://news.ycombinator.com/item?id=37376675) - [Amiga Samplers: Budget dance music in 1990](https://www.youtube.com/watch?v=i9MXYZh1jcs)
 * [2023-09-04, 02:36:14](https://news.ycombinator.com/item?id=37376609) - [The History of Windows 95](https://www.abortretry.fail/p/the-history-of-windows-95)
 * [2023-09-04, 02:24:20](https://news.ycombinator.com/item?id=37376559) - [A plot to steal the secret Coke can-liner formula](https://www.bloomberg.com/news/features/2023-05-11/the-plot-to-steal-the-secret-coke-can-liner-formula)
-* [2023-09-04, 01:40:40](https://news.ycombinator.com/item?id=37376377) - [Dennis Ritchie Home Page](http://cm.bell-labs.co/who/dmr/)
 * [2023-09-04, 01:39:36](https://news.ycombinator.com/item?id=37376369) - [Everything I know about floppy disks](https://thejpster.org.uk/blog/blog-2023-08-28/)
+* [2023-09-04, 01:21:33](https://news.ycombinator.com/item?id=37376254) - [WiiLink – Japanese Wii channels revived](https://www.wiilink24.com/)
 * [2023-09-03, 22:57:21](https://news.ycombinator.com/item?id=37375431) - [Copper Be Gone: The Chemistry Behind PCB Etching](https://hackaday.com/2023/08/31/copper-be-gone-the-chemistry-behind-pcb-etching/)
 * [2023-09-03, 22:35:10](https://news.ycombinator.com/item?id=37375257) - [Webb Mirror (2022)](https://neil.fraser.name/news/2022/11/15/)
 * [2023-09-03, 21:23:22](https://news.ycombinator.com/item?id=37374753) - [Confessions of a Netflix DVD Dead-Ender](https://www.theatlantic.com/ideas/archive/2023/09/netflix-dvds-mail-ending/675204/)
