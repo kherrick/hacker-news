@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-04, 17:35:07](https://news.ycombinator.com/item?id=37382813) - [Humans may be just as capable as dogs at following a scent trail](https://www.nature.com/articles/nn1819)
+* [2023-09-04, 17:22:14](https://news.ycombinator.com/item?id=37382639) - [Nougat: Neural Optical Understanding for Academic Documents](https://arxiv.org/abs/2308.13418)
 * [2023-09-04, 17:00:30](https://news.ycombinator.com/item?id=37382357) - [Relationship Hero (YC S17) Is Hiring Couples Coaches](https://relationshiphero.com/careers?role=coach)
 * [2023-09-04, 16:50:10](https://news.ycombinator.com/item?id=37382232) - [Medical-evidence giant Cochrane battles funding cuts and closures](https://www.nature.com/articles/d41586-023-02741-z)
 * [2023-09-04, 16:37:43](https://news.ycombinator.com/item?id=37382117) - [Can We Talk to Whales?](https://www.newyorker.com/magazine/2023/09/11/can-we-talk-to-whales)
@@ -12,7 +14,6 @@
 * [2023-09-04, 15:20:45](https://news.ycombinator.com/item?id=37381335) - [VSCodium – Libre Open Source Software Binaries of VS Code](https://vscodium.com)
 * [2023-09-04, 15:16:42](https://news.ycombinator.com/item?id=37381296) - [Show HN: finetune LLMs via the Finetuning Hub](https://github.com/georgian-io/LLM-Finetuning-Hub)
 * [2023-09-04, 14:47:38](https://news.ycombinator.com/item?id=37380980) - [Svelte is surprisingly easy to learn](https://kaviisuri.com/you-dont-need-to-learn-svelte)
-* [2023-09-04, 14:35:50](https://news.ycombinator.com/item?id=37380863) - [Antioxidants such as Vitamin C found to spur cancer growth and metastasis](https://newatlas.com/medical/antioxidants-stimulate-blood-vessel-growth-cancer-tumors/)
 * [2023-09-04, 13:04:48](https://news.ycombinator.com/item?id=37380104) - [Is macOS’s new XProtect behavioural security preparing to go live?](https://eclecticlight.co/2023/09/04/is-macoss-new-xprotect-behavioural-security-preparing-to-go-live/)
 * [2023-09-04, 12:47:48](https://news.ycombinator.com/item?id=37379984) - [TinyLlama project aims to pretrain a 1.1B Llama model on 3T tokens](https://github.com/jzhang38/TinyLlama)
 * [2023-09-04, 11:09:56](https://news.ycombinator.com/item?id=37379323) - [The Usefulness of a Memory Guides Where the Brain Saves It](https://www.quantamagazine.org/the-usefulness-of-a-memory-guides-where-the-brain-saves-it-20230830/)
@@ -20,7 +21,6 @@
 * [2023-09-04, 08:38:52](https://news.ycombinator.com/item?id=37378450) - [Hardware Random Bit Generator](https://web.jfet.org/hw-rng.html)
 * [2023-09-04, 08:25:20](https://news.ycombinator.com/item?id=37378385) - [Cuber: Deploy your apps on Kubernetes easily](https://github.com/cuber-cloud/cuber-gem)
 * [2023-09-04, 07:54:16](https://news.ycombinator.com/item?id=37378179) - [Plastic Money](https://computer.rip/2023-09-03-plastic-money.html)
-* [2023-09-04, 04:56:16](https://news.ycombinator.com/item?id=37377246) - [Haskell mini-patterns handbook (2020)](https://kowainik.github.io/posts/haskell-mini-patterns)
 * [2023-09-04, 04:20:21](https://news.ycombinator.com/item?id=37377078) - [Pretendo: A free and open source server replacement for the 3DS and Wii U](https://pretendo.network/)
 * [2023-09-04, 03:58:41](https://news.ycombinator.com/item?id=37376998) - [Scientists use quantum device to slow chemical process by factor of 100B](https://www.sydney.edu.au/news-opinion/news/2023/08/29/conical-intersection-simulation-slowed-by-quantum-computer-100-billion-times.html)
 * [2023-09-04, 03:47:13](https://news.ycombinator.com/item?id=37376943) - [SiFive’s P870 Takes RISC-V Further](https://chipsandcheese.com/2023/09/03/hot-chips-2023-sifives-p870-takes-risc-v-further/)
