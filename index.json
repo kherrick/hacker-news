@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-09-04, 21:43:38",
+      "https://news.ycombinator.com/item?id=37385401"
+    ],
+    [
+      "Designing a cursor for augmented reality",
+      "https://ameye.dev/notes/ar-cursor/"
+    ]
+  ],
+  [
+    [
       "2023-09-04, 21:28:40",
       "https://news.ycombinator.com/item?id=37385267"
     ],
@@ -37,16 +47,6 @@
     [
       "Geoff Chappell has died",
       "https://twitter.com/travisgoodspeed/status/1698715249593958560"
-    ]
-  ],
-  [
-    [
-      "2023-09-04, 20:37:49",
-      "https://news.ycombinator.com/item?id=37384797"
-    ],
-    [
-      "LLM now provides tools for working with embeddings",
-      "https://simonwillison.net/2023/Sep/4/llm-embeddings/"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=37369416"
     ],
     [
-      "Just build it",
+      "Just Build It...",
       "https://blog.stephaniestimac.com/posts/2023/09/just-build-it/"
     ]
   ],
