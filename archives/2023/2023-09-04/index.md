@@ -24,6 +24,7 @@
 * [2023-09-04, 03:13:01](https://news.ycombinator.com/item?id=37376786) - [A Proposal for an asynchronous Rust GUI framework](https://notgull.github.io/async-gui/)
 * [2023-09-04, 02:52:04](https://news.ycombinator.com/item?id=37376686) - [Glove80 Ergonomic Keyboard](https://danieldk.eu/Posts/2023-09-03-Glove80.html)
 * [2023-09-04, 02:48:23](https://news.ycombinator.com/item?id=37376675) - [Amiga Samplers: Budget dance music in 1990](https://www.youtube.com/watch?v=i9MXYZh1jcs)
+* [2023-09-04, 02:36:14](https://news.ycombinator.com/item?id=37376609) - [The History of Windows 95](https://www.abortretry.fail/p/the-history-of-windows-95)
 * [2023-09-04, 02:24:20](https://news.ycombinator.com/item?id=37376559) - [A plot to steal the secret Coke can-liner formula](https://www.bloomberg.com/news/features/2023-05-11/the-plot-to-steal-the-secret-coke-can-liner-formula)
 * [2023-09-04, 02:12:26](https://news.ycombinator.com/item?id=37376494) - [“X” Didn’t Pay Severance. Now It’s Facing 2,200 Cases – and Big Fees](https://www.motherjones.com/media/2023/09/x-twitter-severance-pay-arbitration-cases-fees/)
 * [2023-09-04, 01:40:40](https://news.ycombinator.com/item?id=37376377) - [Dennis Ritchie Home Page](http://cm.bell-labs.co/who/dmr/)
