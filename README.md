@@ -20,6 +20,7 @@
 * [2023-09-03, 13:55:12](https://news.ycombinator.com/item?id=37370453) - [Pesticide safety limit for salmon farms watered down after industry lobbying](https://theferret.scot/pesticide-safety-limit-industry-lobbying/)
 * [2023-09-03, 13:26:24](https://news.ycombinator.com/item?id=37370248) - [Interfaces for prototyping hardware](https://kevinlynagh.com/newsletter/2023_09_hardware_prototyping/)
 * [2023-09-03, 12:22:35](https://news.ycombinator.com/item?id=37369826) - [The Raft Consensus Algorithm (2015)](https://raft.github.io)
+* [2023-09-03, 09:47:13](https://news.ycombinator.com/item?id=37369055) - [Why I Quit Bridge and Why I Came Back](https://bridgewinners.com/article/view/why-i-quit-bridge-at-23-and-why-i-came-back/)
 * [2023-09-03, 05:08:53](https://news.ycombinator.com/item?id=37367882) - [‘Psychonauts’ by Mike Jay review](https://www.historytoday.com/archive/review/psychonauts-mike-jay-review)
 * [2023-09-03, 02:40:58](https://news.ycombinator.com/item?id=37367267) - [Learn Something Old Every Day, Part IX: Aha-154xB and ASPI4DOS.SYS](https://www.os2museum.com/wp/learn-something-old-every-day-part-ix-aha-154xb-and-aspi4dos-sys/)
 * [2023-09-03, 02:26:29](https://news.ycombinator.com/item?id=37367199) - [Investigating intentional cranial modification in 3rd to 7th century CE Japan](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289219)
@@ -27,7 +28,6 @@
 * [2023-09-02, 13:00:09](https://news.ycombinator.com/item?id=37361119) - [A History of the Amen Break: From the Winstons to Futurama and Om Unit](https://splice.com/blog/amen-break/)
 * [2023-09-02, 11:29:00](https://news.ycombinator.com/item?id=37360502) - [Index of Aesthetics](https://cari.institute/aesthetics)
 * [2023-09-02, 10:55:07](https://news.ycombinator.com/item?id=37360314) - [Using Uninitialized Memory (2008)](https://research.swtch.com/sparse)
-* [2023-09-02, 02:15:30](https://news.ycombinator.com/item?id=37358044) - [Curated cauldrons: feasting practices in the Caucasian steppe](https://www.cell.com/iscience/fulltext/S2589-0042(23)01559-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2589004223015596%3Fshowall%3Dtrue)
 * [2023-09-01, 20:14:30](https://news.ycombinator.com/item?id=37355690) - [Hasanlu Lovers](https://en.wikipedia.org/wiki/Hasanlu_Lovers)
 * [2023-09-01, 11:12:30](https://news.ycombinator.com/item?id=37349276) - [A Gentle Introduction to Liquid Types](https://goto.ucsd.edu/~ucsdpl-blog/liquidtypes/2015/09/19/liquid-types/)
 
