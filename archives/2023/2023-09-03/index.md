@@ -66,6 +66,7 @@
 * [2023-09-03, 09:18:43](https://news.ycombinator.com/item?id=37368929) - [The Curious Case of Hybrids in Watchmaking](https://monochrome-watches.com/a-technical-perspective-defining-and-understanding-hybrid-watches/)
 * [2023-09-03, 08:53:24](https://news.ycombinator.com/item?id=37368841) - [Why Do We Interface? (2020)](https://whydoweinterface.com)
 * [2023-09-03, 08:49:37](https://news.ycombinator.com/item?id=37368824) - [The boiling frog of digital freedom](https://gazoche.xyz/posts/boiling-frog/)
+* [2023-09-03, 08:03:32](https://news.ycombinator.com/item?id=37368597) - [Black Art of 3D Game Programming (1995)](https://archive.org/details/BlackArt3DEBook)
 * [2023-09-03, 07:58:50](https://news.ycombinator.com/item?id=37368572) - [Tolkien, 50 Years On](https://thecritic.co.uk/tolkien-50-years-on/)
 * [2023-09-03, 07:57:07](https://news.ycombinator.com/item?id=37368561) - [Quantum Groups and Adelic Representations](https://chat.openai.com/share/1a9dc873-6e16-40d3-859c-6a56f5e5b6bb)
 * [2023-09-03, 07:44:00](https://news.ycombinator.com/item?id=37368505) - [Using the Wrong Dictionary (2014)](https://jsomers.net/blog/dictionary)
