@@ -61,6 +61,7 @@
 * [2023-09-03, 12:22:35](https://news.ycombinator.com/item?id=37369826) - [The Raft Consensus Algorithm](https://raft.github.io)
 * [2023-09-03, 12:00:21](https://news.ycombinator.com/item?id=37369698) - [Replit (YC W18) Is Hiring Engineers in AI, Platform, and Product](https://replit.com/site/careers)
 * [2023-09-03, 11:27:06](https://news.ycombinator.com/item?id=37369521) - [The pandemic your grandparents forgot about](https://nautil.us/the-pandemic-your-grandparents-forgot-359076/)
+* [2023-09-03, 11:12:33](https://news.ycombinator.com/item?id=37369446) - [The Hungry Caterpillar and the Ecosystem](https://worldsensorium.com/the-very-hungry-caterpillar-and-the-ecosystem/)
 * [2023-09-03, 09:47:13](https://news.ycombinator.com/item?id=37369055) - [Why I Quit Bridge and Why I Came Back](https://bridgewinners.com/article/view/why-i-quit-bridge-at-23-and-why-i-came-back/)
 * [2023-09-03, 09:29:56](https://news.ycombinator.com/item?id=37368977) - [Learner drivers forced to buy tests on black market as companies blockbook slots](https://www.theguardian.com/uk-news/2023/sep/03/an-absolute-mess-learner-drivers-forced-to-buy-tests-on-black-market-as-companies-block-book-slots)
 * [2023-09-03, 09:18:43](https://news.ycombinator.com/item?id=37368929) - [The Curious Case of Hybrids in Watchmaking](https://monochrome-watches.com/a-technical-perspective-defining-and-understanding-hybrid-watches/)
