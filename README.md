@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-04, 19:17:37](https://news.ycombinator.com/item?id=37383913) - [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)
+* [2023-09-04, 19:00:47](https://news.ycombinator.com/item?id=37383749) - [Spectrolite – Mac app to make colorful risograph prints and zines more easily](https://spectrolite.app)
 * [2023-09-04, 18:58:36](https://news.ycombinator.com/item?id=37383717) - [Latch bio: “We work six days a week”](https://jobs.lever.co/latch/a82d61c7-63b9-481c-85ad-4ce80031a481)
 * [2023-09-04, 18:44:59](https://news.ycombinator.com/item?id=37383548) - [Home insurers cut natural disasters from policies as climate risks grow](https://www.washingtonpost.com/business/2023/09/03/natural-disaster-climate-insurance/)
 * [2023-09-04, 18:17:21](https://news.ycombinator.com/item?id=37383283) - [Tidal Energy Is Not Renewable](https://cs.stanford.edu/people/zjl/tide.html)
-* [2023-09-04, 18:01:11](https://news.ycombinator.com/item?id=37383136) - [Steve Harwell, Former Smash Mouth Lead Singer, Dies at 56](https://www.nytimes.com/2023/09/04/arts/music/steve-harwell-smash-mouth-all-star-dead.html)
 * [2023-09-04, 17:52:47](https://news.ycombinator.com/item?id=37383036) - [Secret Government Telephone Numbers](https://computer.rip/2023-02-07-secret-government-telephone-numbers.html)
 * [2023-09-04, 17:48:57](https://news.ycombinator.com/item?id=37382995) - [Extreme El Niño weather switched off South American's carbon sink](https://www.leeds.ac.uk/news-environment/news/article/5391/extreme-el-ni-o-weather-switched-off-south-american-s-carbon-sink)
 * [2023-09-04, 17:35:07](https://news.ycombinator.com/item?id=37382813) - [Mechanisms of scent-tracking in humans](https://www.nature.com/articles/nn1819)
