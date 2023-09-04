@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-04, 19:56:35](https://news.ycombinator.com/item?id=37384323) - [Chromebooks Were Once a Good Deal for Schools. Now They’re Becoming E-Waste](https://www.wsj.com/tech/chromebooks-were-once-a-good-deal-for-schools-now-theyre-becoming-e-waste-dc93833b)
 * [2023-09-04, 19:17:37](https://news.ycombinator.com/item?id=37383913) - [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)
 * [2023-09-04, 19:00:47](https://news.ycombinator.com/item?id=37383749) - [Spectrolite – Mac app to make colorful risograph prints and zines more easily](https://spectrolite.app)
 * [2023-09-04, 18:58:36](https://news.ycombinator.com/item?id=37383717) - [Latch bio: “We work six days a week”](https://jobs.lever.co/latch/a82d61c7-63b9-481c-85ad-4ce80031a481)
@@ -18,7 +19,6 @@
 * [2023-09-04, 15:27:59](https://news.ycombinator.com/item?id=37381407) - [Portal 64 – A demake of Portal for the Nintendo 64](https://github.com/lambertjamesd/portal64)
 * [2023-09-04, 15:20:45](https://news.ycombinator.com/item?id=37381335) - [VSCodium – Libre Open Source Software Binaries of VS Code](https://vscodium.com)
 * [2023-09-04, 15:16:42](https://news.ycombinator.com/item?id=37381296) - [Show HN: finetune LLMs via the Finetuning Hub](https://github.com/georgian-io/LLM-Finetuning-Hub)
-* [2023-09-04, 13:04:48](https://news.ycombinator.com/item?id=37380104) - [Is macOS’s new XProtect behavioural security preparing to go live?](https://eclecticlight.co/2023/09/04/is-macoss-new-xprotect-behavioural-security-preparing-to-go-live/)
 * [2023-09-04, 12:47:48](https://news.ycombinator.com/item?id=37379984) - [TinyLlama project aims to pretrain a 1.1B Llama model on 3T tokens](https://github.com/jzhang38/TinyLlama)
 * [2023-09-04, 11:09:56](https://news.ycombinator.com/item?id=37379323) - [The Usefulness of a Memory Guides Where the Brain Saves It](https://www.quantamagazine.org/the-usefulness-of-a-memory-guides-where-the-brain-saves-it-20230830/)
 * [2023-09-04, 11:04:51](https://news.ycombinator.com/item?id=37379297) - [The Battle over Books3](https://www.wired.com/story/battle-over-books3/)
