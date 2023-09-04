@@ -41,12 +41,12 @@
   ],
   [
     [
-      "2023-09-04, 20:48:27",
-      "https://news.ycombinator.com/item?id=37384911"
+      "2023-09-04, 20:37:49",
+      "https://news.ycombinator.com/item?id=37384797"
     ],
     [
-      "Geoff Chappell has died",
-      "https://twitter.com/travisgoodspeed/status/1698715249593958560"
+      "LLM Python library now provides tools for working with embeddings",
+      "https://simonwillison.net/2023/Sep/4/llm-embeddings/"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "Writing a C compiler in 500 lines of Python",
       "https://vgel.me/posts/c500/"
-    ]
-  ],
-  [
-    [
-      "2023-09-04, 19:14:43",
-      "https://news.ycombinator.com/item?id=37383894"
-    ],
-    [
-      ".KKRIEGER – Fully Functional Sci-Fi FPS into Just 96kb",
-      "https://www.youtube.com/watch?v=8fZBUsn5RYg"
     ]
   ],
   [
@@ -107,6 +97,16 @@
     [
       "Tidal energy is not renewable",
       "https://cs.stanford.edu/people/zjl/tide.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-04, 17:35:07",
+      "https://news.ycombinator.com/item?id=37382813"
+    ],
+    [
+      "Mechanisms of scent-tracking in humans",
+      "https://www.nature.com/articles/nn1819"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2023-09-04, 16:11:30",
-      "https://news.ycombinator.com/item?id=37381834"
-    ],
-    [
-      "What is residual vector quantization?",
-      "https://www.assemblyai.com/blog/what-is-residual-vector-quantization/"
-    ]
-  ],
-  [
-    [
       "2023-09-04, 15:27:59",
       "https://news.ycombinator.com/item?id=37381407"
     ],
@@ -177,6 +167,16 @@
     [
       "VSCodium – Open-source binaries of VSCode",
       "https://vscodium.com"
+    ]
+  ],
+  [
+    [
+      "2023-09-04, 13:29:17",
+      "https://news.ycombinator.com/item?id=37380270"
+    ],
+    [
+      "Researchers have found that micro-spikes etched into titanium rupture microbes",
+      "https://newatlas.com/medical/titanium-spikes-effective-drug-free-kill-antibiotic-resistant-superbugs/"
     ]
   ],
   [
@@ -211,22 +211,22 @@
   ],
   [
     [
-      "2023-09-04, 07:54:16",
-      "https://news.ycombinator.com/item?id=37378179"
-    ],
-    [
-      "Plastic Money",
-      "https://computer.rip/2023-09-03-plastic-money.html"
-    ]
-  ],
-  [
-    [
       "2023-09-04, 03:47:13",
       "https://news.ycombinator.com/item?id=37376943"
     ],
     [
       "SiFive’s P870 Takes RISC-V Further",
       "https://chipsandcheese.com/2023/09/03/hot-chips-2023-sifives-p870-takes-risc-v-further/"
+    ]
+  ],
+  [
+    [
+      "2023-09-04, 03:43:34",
+      "https://news.ycombinator.com/item?id=37376926"
+    ],
+    [
+      "Are cooking videos making us better cooks?",
+      "https://www.nytimes.com/interactive/2023/08/07/dining/cooking-videos-tiktok.html"
     ]
   ],
   [
