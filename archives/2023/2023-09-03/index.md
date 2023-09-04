@@ -11,6 +11,7 @@
 * [2023-09-03, 22:57:21](https://news.ycombinator.com/item?id=37375431) - [Copper Be Gone: The Chemistry Behind PCB Etching](https://hackaday.com/2023/08/31/copper-be-gone-the-chemistry-behind-pcb-etching/)
 * [2023-09-03, 22:41:02](https://news.ycombinator.com/item?id=37375303) - [A complete guide to fine-tuning Code Llama](https://ragntune.com/blog/guide-fine-tuning-code-llama)
 * [2023-09-03, 22:37:43](https://news.ycombinator.com/item?id=37375277) - [Invented Tradition](https://en.wikipedia.org/wiki/Invented_tradition)
+* [2023-09-03, 22:35:10](https://news.ycombinator.com/item?id=37375257) - [Webb Mirror (2022)](https://neil.fraser.name/news/2022/11/15/)
 * [2023-09-03, 22:35:03](https://news.ycombinator.com/item?id=37375254) - [Lego 3-axis styrofoam cutter [video]](https://www.youtube.com/watch?v=gR0SYhG76fw)
 * [2023-09-03, 22:00:40](https://news.ycombinator.com/item?id=37375008) - [Scientists finally know why Germany’s wild boar are surprisingly radioactive](https://www.washingtonpost.com/climate-environment/2023/09/03/radioactive-wild-boar/)
 * [2023-09-03, 21:54:20](https://news.ycombinator.com/item?id=37374966) - [Foxconn's Promise to Invest $10B in Wisconsin Is Now a Distant Memory](https://www.engadget.com/foxconns-promise-to-invest-10-billion-in-wisconsin-is-now-a-distant-memory-090555405.html)
