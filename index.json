@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-09-04, 21:43:38",
-      "https://news.ycombinator.com/item?id=37385401"
-    ],
-    [
-      "Designing a cursor for augmented reality",
-      "https://ameye.dev/notes/ar-cursor/"
-    ]
-  ],
-  [
-    [
       "2023-09-04, 21:28:40",
       "https://news.ycombinator.com/item?id=37385267"
     ],
@@ -57,6 +47,16 @@
     [
       "Writing a C compiler in 500 lines of Python",
       "https://vgel.me/posts/c500/"
+    ]
+  ],
+  [
+    [
+      "2023-09-04, 19:14:43",
+      "https://news.ycombinator.com/item?id=37383894"
+    ],
+    [
+      ".KKRIEGER – Fully Functional Sci-Fi FPS into Just 96kb",
+      "https://www.youtube.com/watch?v=8fZBUsn5RYg"
     ]
   ],
   [
@@ -131,12 +131,12 @@
   ],
   [
     [
-      "2023-09-04, 16:13:54",
-      "https://news.ycombinator.com/item?id=37381862"
+      "2023-09-04, 16:11:30",
+      "https://news.ycombinator.com/item?id=37381834"
     ],
     [
-      "Refact LLM: New 1.6B code model reaches 32% HumanEval and is SOTA for the size",
-      "https://refact.ai/blog/2023/introducing-refact-code-llm/"
+      "What is residual vector quantization?",
+      "https://www.assemblyai.com/blog/what-is-residual-vector-quantization/"
     ]
   ],
   [
@@ -151,22 +151,22 @@
   ],
   [
     [
-      "2023-09-04, 15:20:45",
-      "https://news.ycombinator.com/item?id=37381335"
-    ],
-    [
-      "VSCodium – Open-source binaries of VSCode",
-      "https://vscodium.com"
-    ]
-  ],
-  [
-    [
       "2023-09-04, 15:15:09",
       "https://news.ycombinator.com/item?id=37381268"
     ],
     [
       "Show HN: Keep – GitHub Actions for your monitoring tools",
       "https://github.com/keephq/keep"
+    ]
+  ],
+  [
+    [
+      "2023-09-04, 14:35:50",
+      "https://news.ycombinator.com/item?id=37380863"
+    ],
+    [
+      "Antioxidants found to spur cancer growth and metastasis in mice",
+      "https://news.ki.se/antioxidants-stimulate-blood-flow-in-tumours"
     ]
   ],
   [
