@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-04, 19:56:35](https://news.ycombinator.com/item?id=37384323) - [Chromebooks Were Once a Good Deal for Schools. Now They’re Becoming E-Waste](https://www.wsj.com/tech/chromebooks-were-once-a-good-deal-for-schools-now-theyre-becoming-e-waste-dc93833b)
+* [2023-09-04, 21:00:31](https://news.ycombinator.com/item?id=37385017) - [Aviator (YC S21) Is hiring senior eng for building the future of monorepos](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
+* [2023-09-04, 20:48:27](https://news.ycombinator.com/item?id=37384911) - [Geoff Chappell has passed away](https://twitter.com/travisgoodspeed/status/1698715249593958560)
 * [2023-09-04, 19:17:37](https://news.ycombinator.com/item?id=37383913) - [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)
 * [2023-09-04, 19:00:47](https://news.ycombinator.com/item?id=37383749) - [Spectrolite – Mac app to make colorful risograph prints and zines more easily](https://spectrolite.app)
 * [2023-09-04, 18:44:59](https://news.ycombinator.com/item?id=37383548) - [Home insurers cut natural disasters from policies as climate risks grow](https://www.washingtonpost.com/business/2023/09/03/natural-disaster-climate-insurance/)
@@ -9,7 +10,6 @@
 * [2023-09-04, 17:48:57](https://news.ycombinator.com/item?id=37382995) - [Extreme El Niño weather switched off South American's carbon sink](https://www.leeds.ac.uk/news-environment/news/article/5391/extreme-el-ni-o-weather-switched-off-south-american-s-carbon-sink)
 * [2023-09-04, 17:22:14](https://news.ycombinator.com/item?id=37382639) - [Nougat: Neural Optical Understanding for Academic Documents](https://arxiv.org/abs/2308.13418)
 * [2023-09-04, 17:14:02](https://news.ycombinator.com/item?id=37382534) - [The Airbnb Bubble Popping Will Pop the Housing Bubble](https://www.oftwominds.com/blogaug23/airbnb-bubble8-23.html)
-* [2023-09-04, 17:00:30](https://news.ycombinator.com/item?id=37382357) - [Relationship Hero (YC S17) Is Hiring Couples Coaches](https://relationshiphero.com/careers?role=coach)
 * [2023-09-04, 16:50:10](https://news.ycombinator.com/item?id=37382232) - [Medical-evidence giant Cochrane battles funding cuts and closures](https://www.nature.com/articles/d41586-023-02741-z)
 * [2023-09-04, 16:37:43](https://news.ycombinator.com/item?id=37382117) - [Can We Talk to Whales?](https://www.newyorker.com/magazine/2023/09/11/can-we-talk-to-whales)
 * [2023-09-04, 16:13:54](https://news.ycombinator.com/item?id=37381862) - [Refact LLM: New 1.6B code model reaches 32% HumanEval and is SOTA for the size](https://refact.ai/blog/2023/introducing-refact-code-llm/)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-04](index.md)
 
+* [2023-09-04, 21:00:31](https://news.ycombinator.com/item?id=37385017) - [Aviator (YC S21) Is hiring senior eng for building the future of monorepos](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
+* [2023-09-04, 20:48:27](https://news.ycombinator.com/item?id=37384911) - [Geoff Chappell has passed away](https://twitter.com/travisgoodspeed/status/1698715249593958560)
 * [2023-09-04, 19:56:35](https://news.ycombinator.com/item?id=37384323) - [Chromebooks Were Once a Good Deal for Schools. Now They’re Becoming E-Waste](https://www.wsj.com/tech/chromebooks-were-once-a-good-deal-for-schools-now-theyre-becoming-e-waste-dc93833b)
 * [2023-09-04, 19:17:37](https://news.ycombinator.com/item?id=37383913) - [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)
 * [2023-09-04, 19:00:47](https://news.ycombinator.com/item?id=37383749) - [Spectrolite – Mac app to make colorful risograph prints and zines more easily](https://spectrolite.app)
