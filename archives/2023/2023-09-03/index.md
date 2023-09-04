@@ -78,6 +78,7 @@
 * [2023-09-03, 06:53:51](https://news.ycombinator.com/item?id=37368264) - [The Eleuther AI Mafia](https://www.latent.space/p/rwkv#%C2%A7the-eleuther-mafia)
 * [2023-09-03, 06:49:07](https://news.ycombinator.com/item?id=37368245) - [MaraDNS: A small open-source DNS server](https://github.com/samboy/MaraDNS)
 * [2023-09-03, 06:32:22](https://news.ycombinator.com/item?id=37368191) - [The Musaicum EU-plus 10M resolution image of Europe](https://imagico.de/blog/en/announcing-the-musaicum-eu-plus-10m-resolution-image-of-europe/)
+* [2023-09-03, 06:29:11](https://news.ycombinator.com/item?id=37368168) - [Microsoft Works](https://en.wikipedia.org/wiki/Microsoft_Works)
 * [2023-09-03, 06:29:02](https://news.ycombinator.com/item?id=37368166) - [Show HN: Online Timers](https://www.timerone.com)
 * [2023-09-03, 06:24:13](https://news.ycombinator.com/item?id=37368148) - [So you want to modify the text of a PDF by hand](https://gist.github.com/senderle/8ad6aae251c4ddf9424f8a05dd0e8c18)
 * [2023-09-03, 06:09:23](https://news.ycombinator.com/item?id=37368099) - [Hacking the Timex m851](https://lock.cmpxchg8b.com/timex.html)
