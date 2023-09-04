@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-04, 11:41:30](https://news.ycombinator.com/item?id=37379534) - [Reddit faces content quality concerns after its Great Mod Purge](https://arstechnica.com/gadgets/2023/09/are-reddits-replacement-mods-fit-to-fight-misinformation/)
 * [2023-09-04, 11:02:11](https://news.ycombinator.com/item?id=37379272) - [TV Museum Will Die in 48 Hours Unless Sony Retracts YouTube Copyright Strikes](https://torrentfreak.com/tv-museum-will-die-in-48-hours-unless-sony-retracts-youtube-copyright-strikes-230904/)
 * [2023-09-04, 09:21:38](https://news.ycombinator.com/item?id=37378669) - [The curl-wget Venn diagram](https://daniel.haxx.se/blog/2023/09/04/the-curl-wget-venn-diagram/)
 * [2023-09-04, 08:38:52](https://news.ycombinator.com/item?id=37378450) - [Hardware Random Bit Generator](https://web.jfet.org/hw-rng.html)
@@ -9,7 +10,6 @@
 * [2023-09-04, 04:56:16](https://news.ycombinator.com/item?id=37377246) - [Haskell mini-patterns handbook (2020)](https://kowainik.github.io/posts/haskell-mini-patterns)
 * [2023-09-04, 04:20:21](https://news.ycombinator.com/item?id=37377078) - [Pretendo: A free and open source server replacement for the 3DS and Wii U](https://pretendo.network/)
 * [2023-09-04, 03:58:41](https://news.ycombinator.com/item?id=37376998) - [Scientists use quantum device to slow chemical process by factor of 100B](https://www.sydney.edu.au/news-opinion/news/2023/08/29/conical-intersection-simulation-slowed-by-quantum-computer-100-billion-times.html)
-* [2023-09-04, 03:32:42](https://news.ycombinator.com/item?id=37376879) - [How we know languages like proto-Indo-European existed [video]](https://www.youtube.com/watch?v=jIgoBRbfkUA)
 * [2023-09-04, 02:52:04](https://news.ycombinator.com/item?id=37376686) - [Glove80 Ergonomic Keyboard](https://danieldk.eu/Posts/2023-09-03-Glove80.html)
 * [2023-09-04, 02:48:23](https://news.ycombinator.com/item?id=37376675) - [Amiga Samplers: Budget dance music in 1990](https://www.youtube.com/watch?v=i9MXYZh1jcs)
 * [2023-09-04, 01:40:40](https://news.ycombinator.com/item?id=37376377) - [Dennis Ritchie Home Page](http://cm.bell-labs.co/who/dmr/)
