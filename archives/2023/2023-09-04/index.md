@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-09-04](index.md)
 
+* [2023-09-04, 13:34:49](https://news.ycombinator.com/item?id=37380314) - [Computing Power Used to Be Measured in 'Kilo-Girls'](https://www.theatlantic.com/technology/archive/2013/10/computing-power-used-to-be-measured-in-kilo-girls/280633/)
+* [2023-09-04, 13:29:17](https://news.ycombinator.com/item?id=37380270) - [Titanium spikes kill superbugs drug-free by ripping them apart](https://newatlas.com/medical/titanium-spikes-effective-drug-free-kill-antibiotic-resistant-superbugs/)
+* [2023-09-04, 13:04:48](https://news.ycombinator.com/item?id=37380104) - [Is macOS’s new XProtect behavioural security preparing to go live?](https://eclecticlight.co/2023/09/04/is-macoss-new-xprotect-behavioural-security-preparing-to-go-live/)
+* [2023-09-04, 12:26:12](https://news.ycombinator.com/item?id=37379823) - [How Accurate Were EPAs Predictions of climate change from 40 years ago?](https://themessenger.com/tech/forty-years-ago-scientists-warned-about-climate-change-how-accurate-were-their-predictions)
 * [2023-09-04, 12:23:38](https://news.ycombinator.com/item?id=37379801) - [I built a Plane Spotter in 120 secs with ChatGPT](https://louison.substack.com/p/i-built-a-plane-spotter-for-my-son)
 * [2023-09-04, 11:41:30](https://news.ycombinator.com/item?id=37379534) - [Reddit faces content quality concerns after its Great Mod Purge](https://arstechnica.com/gadgets/2023/09/are-reddits-replacement-mods-fit-to-fight-misinformation/)
+* [2023-09-04, 11:09:56](https://news.ycombinator.com/item?id=37379323) - [The Usefulness of a Memory Guides Where the Brain Saves It](https://www.quantamagazine.org/the-usefulness-of-a-memory-guides-where-the-brain-saves-it-20230830/)
+* [2023-09-04, 11:04:51](https://news.ycombinator.com/item?id=37379297) - [The Battle over Books3 Could Change AI Forever](https://www.wired.com/story/battle-over-books3/)
 * [2023-09-04, 11:02:11](https://news.ycombinator.com/item?id=37379272) - [TV Museum Will Die in 48 Hours Unless Sony Retracts YouTube Copyright Strikes](https://torrentfreak.com/tv-museum-will-die-in-48-hours-unless-sony-retracts-youtube-copyright-strikes-230904/)
 * [2023-09-04, 09:40:54](https://news.ycombinator.com/item?id=37378783) - [Chrome extensions can steal plaintext passwords from websites](https://www.bleepingcomputer.com/news/security/chrome-extensions-can-steal-plaintext-passwords-from-websites/)
 * [2023-09-04, 09:21:38](https://news.ycombinator.com/item?id=37378669) - [The curl-wget Venn diagram](https://daniel.haxx.se/blog/2023/09/04/the-curl-wget-venn-diagram/)
