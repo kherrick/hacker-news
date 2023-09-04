@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-04](index.md)
 
+* [2023-09-04, 17:00:30](https://news.ycombinator.com/item?id=37382357) - [Relationship Hero (YC S17) Is Hiring Couples Coaches](https://relationshiphero.com/careers?role=coach)
 * [2023-09-04, 16:50:10](https://news.ycombinator.com/item?id=37382232) - [Medical-evidence giant Cochrane battles funding cuts and closures](https://www.nature.com/articles/d41586-023-02741-z)
+* [2023-09-04, 16:37:43](https://news.ycombinator.com/item?id=37382117) - [Can We Talk to Whales?](https://www.newyorker.com/magazine/2023/09/11/can-we-talk-to-whales)
 * [2023-09-04, 16:25:11](https://news.ycombinator.com/item?id=37381979) - [An effort to ban caste discrimination in California has touched a nerve](https://www.politico.com/news/2023/09/04/ban-caste-discrimination-california-bill-00113817)
 * [2023-09-04, 16:13:54](https://news.ycombinator.com/item?id=37381862) - [Refact LLM: New 1.6B code model reaches 32% HumanEval and is SOTA for the size](https://refact.ai/blog/2023/introducing-refact-code-llm/)
 * [2023-09-04, 16:11:30](https://news.ycombinator.com/item?id=37381834) - [What Is Residual Vector Quantization?](https://www.assemblyai.com/blog/what-is-residual-vector-quantization/)
