@@ -6,6 +6,7 @@
 
 * [2023-09-04, 15:36:12](https://news.ycombinator.com/item?id=37381508) - [Jitsi Meet Abandons Anonimity Promise](https://reclaimthenet.org/private-zoom-alternative-jitsi-meet-abandons-anonymity-promise)
 * [2023-09-04, 15:25:13](https://news.ycombinator.com/item?id=37381377) - [Ask HN: In person industry tours and site visits](https://news.ycombinator.com/item?id=37381377)
+* [2023-09-04, 15:16:42](https://news.ycombinator.com/item?id=37381296) - [Show HN: finetune LLMs via the Finetuning Hub](https://github.com/georgian-io/LLM-Finetuning-Hub)
 * [2023-09-04, 14:47:38](https://news.ycombinator.com/item?id=37380980) - [You Don't Need to “Learn” Svelte: Embracing the Simplicity of JavaScript](https://kaviisuri.com/you-dont-need-to-learn-svelte)
 * [2023-09-04, 14:35:50](https://news.ycombinator.com/item?id=37380863) - [Antioxidants such as Vitamin C found to spur cancer growth and metastasis](https://newatlas.com/medical/antioxidants-stimulate-blood-vessel-growth-cancer-tumors/)
 * [2023-09-04, 14:27:40](https://news.ycombinator.com/item?id=37380809) - [The mobile game funding a revolution in Myanmar](https://www.bbc.com/news/world-asia-65906961)
@@ -13,6 +14,7 @@
 * [2023-09-04, 13:34:49](https://news.ycombinator.com/item?id=37380314) - [Computing Power Used to Be Measured in 'Kilo-Girls'](https://www.theatlantic.com/technology/archive/2013/10/computing-power-used-to-be-measured-in-kilo-girls/280633/)
 * [2023-09-04, 13:29:17](https://news.ycombinator.com/item?id=37380270) - [Titanium spikes kill superbugs drug-free by ripping them apart](https://newatlas.com/medical/titanium-spikes-effective-drug-free-kill-antibiotic-resistant-superbugs/)
 * [2023-09-04, 13:04:48](https://news.ycombinator.com/item?id=37380104) - [Is macOS’s new XProtect behavioural security preparing to go live?](https://eclecticlight.co/2023/09/04/is-macoss-new-xprotect-behavioural-security-preparing-to-go-live/)
+* [2023-09-04, 12:47:48](https://news.ycombinator.com/item?id=37379984) - [TinyLlama project aims to pretrain a 1.1B Llama model on 3T tokens](https://github.com/jzhang38/TinyLlama)
 * [2023-09-04, 12:26:12](https://news.ycombinator.com/item?id=37379823) - [How Accurate Were EPAs Predictions of climate change from 40 years ago?](https://themessenger.com/tech/forty-years-ago-scientists-warned-about-climate-change-how-accurate-were-their-predictions)
 * [2023-09-04, 12:23:38](https://news.ycombinator.com/item?id=37379801) - [I built a Plane Spotter in 120 secs with ChatGPT](https://louison.substack.com/p/i-built-a-plane-spotter-for-my-son)
 * [2023-09-04, 11:41:30](https://news.ycombinator.com/item?id=37379534) - [Reddit faces content quality concerns after its Great Mod Purge](https://arstechnica.com/gadgets/2023/09/are-reddits-replacement-mods-fit-to-fight-misinformation/)
