@@ -23,11 +23,11 @@
 * [2023-09-03, 17:32:28](https://news.ycombinator.com/item?id=37372249) - [Recreating the THX Deep Note (2009)](https://earslap.com/article/recreating-the-thx-deep-note.html)
 * [2023-09-03, 17:17:32](https://news.ycombinator.com/item?id=37372110) - [Coherer Effect [video]](https://www.youtube.com/watch?v=VMkdnj698-0)
 * [2023-09-03, 15:16:54](https://news.ycombinator.com/item?id=37371084) - [I don’t want to grow my freelance design studio into an agency](https://neladunato.com/blog/why-wont-grow-freelance-studio-into-agency/)
-* [2023-09-03, 12:22:35](https://news.ycombinator.com/item?id=37369826) - [The Raft Consensus Algorithm (2015)](https://raft.github.io)
 * [2023-09-03, 09:47:13](https://news.ycombinator.com/item?id=37369055) - [Why I Quit Bridge and Why I Came Back](https://bridgewinners.com/article/view/why-i-quit-bridge-at-23-and-why-i-came-back/)
 * [2023-09-03, 05:12:07](https://news.ycombinator.com/item?id=37367896) - [Fernando Pessoa’s Unselving](https://www.theparisreview.org/blog/2023/06/23/fernando-pessoas-many-personalities/)
 * [2023-09-03, 02:40:58](https://news.ycombinator.com/item?id=37367267) - [Learn Something Old Every Day, Part IX: Aha-154xB and ASPI4DOS.SYS](https://www.os2museum.com/wp/learn-something-old-every-day-part-ix-aha-154xb-and-aspi4dos-sys/)
 * [2023-09-03, 02:26:29](https://news.ycombinator.com/item?id=37367199) - [Investigating intentional cranial modification in 3rd to 7th century CE Japan](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289219)
+* [2023-09-02, 13:37:06](https://news.ycombinator.com/item?id=37361422) - [Landsat archive (since 1982) available in Living Atlas](https://livingatlas.arcgis.com/landsatexplorer/#mapCenter=110.947%2C30.862%2C12.000&mode=find+a+scene&mainScene=1997-08-17%7CAgriculture+with+DRA%7C3026341)
 * [2023-09-02, 10:55:07](https://news.ycombinator.com/item?id=37360314) - [Using uninitialized memory for fun and profit (2008)](https://research.swtch.com/sparse)
 * [2023-09-01, 11:12:30](https://news.ycombinator.com/item?id=37349276) - [A Gentle Introduction to Liquid Types](https://goto.ucsd.edu/~ucsdpl-blog/liquidtypes/2015/09/19/liquid-types/)
 

@@ -54,6 +54,7 @@
 * [2023-09-02, 13:51:30](https://news.ycombinator.com/item?id=37361532) - [Jimmy Buffett, Roguish Bard of Island Escapism, Is Dead at 76](https://www.nytimes.com/2023/09/02/arts/jimmy-buffett-dead.html)
 * [2023-09-02, 13:49:46](https://news.ycombinator.com/item?id=37361522) - [The US Military Is Getting Smaller, Cheaper and Smarter](https://www.bloomberg.com/opinion/articles/2023-09-01/pentagon-building-killer-drone-swarms-for-possible-war-against-china)
 * [2023-09-02, 13:41:54](https://news.ycombinator.com/item?id=37361462) - [Tesla, Rivian Put on Fake Show of Support for ‘Right to Repair’](https://www.techdirt.com/2023/09/01/tesla-rivian-put-on-fake-show-of-support-for-right-to-repair/)
+* [2023-09-02, 13:37:06](https://news.ycombinator.com/item?id=37361422) - [Landsat archive (since 1982) available in Living Atlas](https://livingatlas.arcgis.com/landsatexplorer/#mapCenter=110.947%2C30.862%2C12.000&mode=find+a+scene&mainScene=1997-08-17%7CAgriculture+with+DRA%7C3026341)
 * [2023-09-02, 13:36:02](https://news.ycombinator.com/item?id=37361409) - [Can plastic recycling ever work?](https://www.nytimes.com/2023/09/01/headway/plastic-recycling-california-law.html)
 * [2023-09-02, 13:34:51](https://news.ycombinator.com/item?id=37361396) - [Cops drill into chat apps, sink plot to smuggle tons of coke into Europe](https://www.theregister.com/2023/09/02/europol_balkan_cartel/)
 * [2023-09-02, 13:20:53](https://news.ycombinator.com/item?id=37361275) - [Windows NT 3.1](https://www.abortretry.fail/p/the-history-of-windows-nt-31)
