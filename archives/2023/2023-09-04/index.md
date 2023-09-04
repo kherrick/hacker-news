@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-04](index.md)
 
+* [2023-09-04, 16:25:11](https://news.ycombinator.com/item?id=37381979) - [An effort to ban caste discrimination in California has touched a nerve](https://www.politico.com/news/2023/09/04/ban-caste-discrimination-california-bill-00113817)
 * [2023-09-04, 15:36:12](https://news.ycombinator.com/item?id=37381508) - [Jitsi Meet Abandons Anonimity Promise](https://reclaimthenet.org/private-zoom-alternative-jitsi-meet-abandons-anonymity-promise)
 * [2023-09-04, 15:25:13](https://news.ycombinator.com/item?id=37381377) - [Ask HN: In person industry tours and site visits](https://news.ycombinator.com/item?id=37381377)
 * [2023-09-04, 15:16:42](https://news.ycombinator.com/item?id=37381296) - [Show HN: finetune LLMs via the Finetuning Hub](https://github.com/georgian-io/LLM-Finetuning-Hub)

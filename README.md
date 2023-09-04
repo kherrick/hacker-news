@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-04, 16:25:11](https://news.ycombinator.com/item?id=37381979) - [An effort to ban caste discrimination in California has touched a nerve](https://www.politico.com/news/2023/09/04/ban-caste-discrimination-california-bill-00113817)
 * [2023-09-04, 15:36:12](https://news.ycombinator.com/item?id=37381508) - [Jitsi Meet Abandons Anonimity Promise](https://reclaimthenet.org/private-zoom-alternative-jitsi-meet-abandons-anonymity-promise)
 * [2023-09-04, 15:25:13](https://news.ycombinator.com/item?id=37381377) - [Ask HN: In person industry tours and site visits](https://news.ycombinator.com/item?id=37381377)
 * [2023-09-04, 15:16:42](https://news.ycombinator.com/item?id=37381296) - [Show HN: finetune LLMs via the Finetuning Hub](https://github.com/georgian-io/LLM-Finetuning-Hub)
@@ -11,7 +12,6 @@
 * [2023-09-04, 13:04:48](https://news.ycombinator.com/item?id=37380104) - [Is macOS’s new XProtect behavioural security preparing to go live?](https://eclecticlight.co/2023/09/04/is-macoss-new-xprotect-behavioural-security-preparing-to-go-live/)
 * [2023-09-04, 12:47:48](https://news.ycombinator.com/item?id=37379984) - [TinyLlama project aims to pretrain a 1.1B Llama model on 3T tokens](https://github.com/jzhang38/TinyLlama)
 * [2023-09-04, 11:09:56](https://news.ycombinator.com/item?id=37379323) - [The Usefulness of a Memory Guides Where the Brain Saves It](https://www.quantamagazine.org/the-usefulness-of-a-memory-guides-where-the-brain-saves-it-20230830/)
-* [2023-09-04, 11:04:51](https://news.ycombinator.com/item?id=37379297) - [The Battle over Books3 Could Change AI Forever](https://www.wired.com/story/battle-over-books3/)
 * [2023-09-04, 11:02:11](https://news.ycombinator.com/item?id=37379272) - [TV Museum will die in 48 hours unless Sony retracts YouTube copyright strikes](https://torrentfreak.com/tv-museum-will-die-in-48-hours-unless-sony-retracts-youtube-copyright-strikes-230904/)
 * [2023-09-04, 08:38:52](https://news.ycombinator.com/item?id=37378450) - [Hardware Random Bit Generator](https://web.jfet.org/hw-rng.html)
 * [2023-09-04, 08:25:20](https://news.ycombinator.com/item?id=37378385) - [Cuber: Deploy your apps on Kubernetes easily](https://github.com/cuber-cloud/cuber-gem)
