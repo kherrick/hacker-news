@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-09-04, 09:21:38",
+      "https://news.ycombinator.com/item?id=37378669"
+    ],
+    [
+      "The curl-wget Venn diagram",
+      "https://daniel.haxx.se/blog/2023/09/04/the-curl-wget-venn-diagram/"
+    ]
+  ],
+  [
+    [
       "2023-09-04, 08:38:52",
       "https://news.ycombinator.com/item?id=37378450"
     ],
     [
       "Hardware Random Bit Generator",
       "https://web.jfet.org/hw-rng.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-04, 08:25:20",
+      "https://news.ycombinator.com/item?id=37378385"
+    ],
+    [
+      "Cuber: Deploy your apps on Kubernetes easily",
+      "https://github.com/cuber-cloud/cuber-gem"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-09-03, 20:56:25",
-      "https://news.ycombinator.com/item?id=37374489"
-    ],
-    [
-      "He created the Katamari games, but they’re rolling on without him",
-      "https://www.nytimes.com/2023/07/28/arts/katamari-damacy-keita-takahashi.html"
-    ]
-  ],
-  [
-    [
       "2023-09-03, 20:10:00",
       "https://news.ycombinator.com/item?id=37373983"
     ],
@@ -227,16 +237,6 @@
     [
       "I don’t want to grow my freelance design studio into an agency",
       "https://neladunato.com/blog/why-wont-grow-freelance-studio-into-agency/"
-    ]
-  ],
-  [
-    [
-      "2023-09-03, 12:22:35",
-      "https://news.ycombinator.com/item?id=37369826"
-    ],
-    [
-      "The Raft Consensus Algorithm (2015)",
-      "https://raft.github.io"
     ]
   ],
   [
