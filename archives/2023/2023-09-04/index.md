@@ -28,3 +28,4 @@
 * [2023-09-04, 01:40:40](https://news.ycombinator.com/item?id=37376377) - [Dennis Ritchie Home Page](http://cm.bell-labs.co/who/dmr/)
 * [2023-09-04, 01:39:36](https://news.ycombinator.com/item?id=37376369) - [Everything I know about floppy disks](https://thejpster.org.uk/blog/blog-2023-08-28/)
 * [2023-09-04, 01:21:33](https://news.ycombinator.com/item?id=37376254) - [WiiLink – Japanese Wii channels revived](https://www.wiilink24.com/)
+* [2023-09-04, 00:45:40](https://news.ycombinator.com/item?id=37376085) - [The one-handed backhand is on the way to extinction](https://www.nytimes.com/2023/09/01/sports/tennis/us-open-one-handed-backhand-wawrinka.html)
