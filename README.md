@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-04, 02:12:26](https://news.ycombinator.com/item?id=37376494) - [“X” Didn’t Pay Severance. Now It’s Facing 2,200 Cases – and Big Fees](https://www.motherjones.com/media/2023/09/x-twitter-severance-pay-arbitration-cases-fees/)
 * [2023-09-04, 01:39:36](https://news.ycombinator.com/item?id=37376369) - [Everything I know about floppy disks](https://thejpster.org.uk/blog/blog-2023-08-28/)
 * [2023-09-04, 01:21:33](https://news.ycombinator.com/item?id=37376254) - [WiiLink – Japanese Wii channels revived](https://www.wiilink24.com/)
 * [2023-09-03, 22:35:03](https://news.ycombinator.com/item?id=37375254) - [Lego 3-axis styrofoam cutter [video]](https://www.youtube.com/watch?v=gR0SYhG76fw)
 * [2023-09-03, 20:56:25](https://news.ycombinator.com/item?id=37374489) - [He created the Katamari games, but they’re rolling on without him](https://www.nytimes.com/2023/07/28/arts/katamari-damacy-keita-takahashi.html)
+* [2023-09-03, 20:13:06](https://news.ycombinator.com/item?id=37374013) - [The Containment of George Kennan (2022)](https://claremontreviewofbooks.com/the-containment-of-george-kennan/)
 * [2023-09-03, 20:10:00](https://news.ycombinator.com/item?id=37373983) - [How to write correct code by construction using the Coq Proof Assistant](https://betterprogramming.pub/a-taste-of-coq-and-correct-code-by-construction-111bf74d3b98)
 * [2023-09-03, 19:59:48](https://news.ycombinator.com/item?id=37373865) - [Yenish people](https://en.wikipedia.org/wiki/Yenish_people)
 * [2023-09-03, 19:53:04](https://news.ycombinator.com/item?id=37373796) - [Cola: A text CRDT for real-time collaborative editing](https://nomad.foo/blog/cola)
@@ -27,7 +27,7 @@
 * [2023-09-02, 23:35:49](https://news.ycombinator.com/item?id=37366391) - [A little-known shipwreck that inspired ‘Dracula’](https://www.nationalgeographic.com/history/article/last-voyage-of-the-demeter-dracula-dmitry)
 * [2023-09-02, 13:00:09](https://news.ycombinator.com/item?id=37361119) - [A History of the Amen Break: From the Winstons to Futurama and Om Unit](https://splice.com/blog/amen-break/)
 * [2023-09-02, 11:29:00](https://news.ycombinator.com/item?id=37360502) - [Index of Aesthetics](https://cari.institute/aesthetics)
-* [2023-09-02, 10:55:07](https://news.ycombinator.com/item?id=37360314) - [Using Uninitialized Memory (2008)](https://research.swtch.com/sparse)
+* [2023-09-02, 10:55:07](https://news.ycombinator.com/item?id=37360314) - [Using uninitialized memory for fun and profit (2008)](https://research.swtch.com/sparse)
 * [2023-09-01, 20:14:30](https://news.ycombinator.com/item?id=37355690) - [Hasanlu Lovers](https://en.wikipedia.org/wiki/Hasanlu_Lovers)
 * [2023-09-01, 11:12:30](https://news.ycombinator.com/item?id=37349276) - [A Gentle Introduction to Liquid Types](https://goto.ucsd.edu/~ucsdpl-blog/liquidtypes/2015/09/19/liquid-types/)
 
