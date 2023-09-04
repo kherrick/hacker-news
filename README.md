@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-04, 23:18:13](https://news.ycombinator.com/item?id=37386127) - [Ask HN: Best intro to programming book for 2nd graders?](https://news.ycombinator.com/item?id=37386127)
 * [2023-09-04, 21:49:06](https://news.ycombinator.com/item?id=37385440) - [The Gimmicks of Food Labeling](https://www.newyorker.com/magazine/2023/09/11/the-lies-in-your-grocery-store)
-* [2023-09-04, 21:28:40](https://news.ycombinator.com/item?id=37385267) - [The Apple $2T Economy](http://www.asymco.com/2023/09/04/the-2-trillion-economy/)
 * [2023-09-04, 21:00:31](https://news.ycombinator.com/item?id=37385017) - [Aviator (YC S21) is hiring a senior engineer to build the future of monorepos](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
 * [2023-09-04, 20:37:49](https://news.ycombinator.com/item?id=37384797) - [LLM Python library now provides tools for working with embeddings](https://simonwillison.net/2023/Sep/4/llm-embeddings/)
 * [2023-09-04, 19:17:37](https://news.ycombinator.com/item?id=37383913) - [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)

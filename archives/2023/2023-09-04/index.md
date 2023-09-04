@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-04](index.md)
 
+* [2023-09-04, 23:18:13](https://news.ycombinator.com/item?id=37386127) - [Ask HN: Best intro to programming book for 2nd graders?](https://news.ycombinator.com/item?id=37386127)
 * [2023-09-04, 21:49:06](https://news.ycombinator.com/item?id=37385440) - [The Lies in Your Grocery Store, and the Laywer Who Can't Stomach Them](https://www.newyorker.com/magazine/2023/09/11/the-lies-in-your-grocery-store)
 * [2023-09-04, 21:43:38](https://news.ycombinator.com/item?id=37385401) - [Designing a cursor for augmented reality](https://ameye.dev/notes/ar-cursor/)
 * [2023-09-04, 21:28:40](https://news.ycombinator.com/item?id=37385267) - [The Apple $2T Economy](http://www.asymco.com/2023/09/04/the-2-trillion-economy/)
