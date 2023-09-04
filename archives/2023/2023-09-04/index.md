@@ -15,6 +15,7 @@
 * [2023-09-04, 17:35:07](https://news.ycombinator.com/item?id=37382813) - [Humans may be just as capable as dogs at following a scent trail](https://www.nature.com/articles/nn1819)
 * [2023-09-04, 17:25:37](https://news.ycombinator.com/item?id=37382691) - [Red lights over the Pacific – August 2014 (2014)](https://jpcvanheijst.com/red-lights-over-the-pacific-ocean-august-2014)
 * [2023-09-04, 17:22:14](https://news.ycombinator.com/item?id=37382639) - [Nougat: Neural Optical Understanding for Academic Documents](https://arxiv.org/abs/2308.13418)
+* [2023-09-04, 17:14:02](https://news.ycombinator.com/item?id=37382534) - [The Airbnb Bubble Popping Will Pop the Housing Bubble](https://www.oftwominds.com/blogaug23/airbnb-bubble8-23.html)
 * [2023-09-04, 17:00:30](https://news.ycombinator.com/item?id=37382357) - [Relationship Hero (YC S17) Is Hiring Couples Coaches](https://relationshiphero.com/careers?role=coach)
 * [2023-09-04, 16:50:10](https://news.ycombinator.com/item?id=37382232) - [Medical-evidence giant Cochrane battles funding cuts and closures](https://www.nature.com/articles/d41586-023-02741-z)
 * [2023-09-04, 16:37:43](https://news.ycombinator.com/item?id=37382117) - [Can We Talk to Whales?](https://www.newyorker.com/magazine/2023/09/11/can-we-talk-to-whales)
