@@ -26,7 +26,7 @@
 * [2023-09-04, 03:47:13](https://news.ycombinator.com/item?id=37376943) - [SiFive’s P870 Takes RISC-V Further](https://chipsandcheese.com/2023/09/03/hot-chips-2023-sifives-p870-takes-risc-v-further/)
 * [2023-09-03, 11:08:04](https://news.ycombinator.com/item?id=37369416) - [Just build it](https://blog.stephaniestimac.com/posts/2023/09/just-build-it/)
 * [2023-09-03, 08:03:32](https://news.ycombinator.com/item?id=37368597) - [Black Art of 3D Game Programming (1995)](https://archive.org/details/BlackArt3DEBook)
-* [2023-09-03, 06:24:13](https://news.ycombinator.com/item?id=37368148) - [So you want to modify the text of a PDF by hand](https://gist.github.com/senderle/8ad6aae251c4ddf9424f8a05dd0e8c18)
+* [2023-09-03, 06:24:13](https://news.ycombinator.com/item?id=37368148) - [So you want to modify the text of a PDF by hand (2020)](https://gist.github.com/senderle/8ad6aae251c4ddf9424f8a05dd0e8c18)
 * [2023-09-03, 00:09:32](https://news.ycombinator.com/item?id=37366584) - [Kenton's House](https://kentonshouse.com/)
 * [2023-09-02, 21:38:13](https://news.ycombinator.com/item?id=37365752) - [A Company of One](https://rishad.substack.com/p/a-company-of-one)
 * [2023-09-01, 18:50:31](https://news.ycombinator.com/item?id=37354742) - [J.D. Salinger and wielding copyright as self-protection](https://crimereads.com/j-d-salinger-copyright/)
