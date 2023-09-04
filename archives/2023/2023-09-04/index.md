@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-04](index.md)
 
 * [2023-09-04, 03:58:41](https://news.ycombinator.com/item?id=37376998) - [Scientists use quantum device to slow chemical process by factor of 100B](https://www.sydney.edu.au/news-opinion/news/2023/08/29/conical-intersection-simulation-slowed-by-quantum-computer-100-billion-times.html)
+* [2023-09-04, 03:51:54](https://news.ycombinator.com/item?id=37376965) - [Show HN: MonoDevelop](https://www.monodevelop.com/)
 * [2023-09-04, 03:32:42](https://news.ycombinator.com/item?id=37376879) - [How we know languages like proto-Indo-European existed [video]](https://www.youtube.com/watch?v=jIgoBRbfkUA)
 * [2023-09-04, 03:13:01](https://news.ycombinator.com/item?id=37376786) - [A Proposal for an asynchronous Rust GUI framework](https://notgull.github.io/async-gui/)
 * [2023-09-04, 02:52:04](https://news.ycombinator.com/item?id=37376686) - [Glove80 Ergonomic Keyboard](https://danieldk.eu/Posts/2023-09-03-Glove80.html)

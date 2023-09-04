@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-04, 03:58:41](https://news.ycombinator.com/item?id=37376998) - [Scientists use quantum device to slow chemical process by factor of 100B](https://www.sydney.edu.au/news-opinion/news/2023/08/29/conical-intersection-simulation-slowed-by-quantum-computer-100-billion-times.html)
+* [2023-09-04, 03:51:54](https://news.ycombinator.com/item?id=37376965) - [Show HN: MonoDevelop](https://www.monodevelop.com/)
 * [2023-09-04, 03:32:42](https://news.ycombinator.com/item?id=37376879) - [How we know languages like proto-Indo-European existed [video]](https://www.youtube.com/watch?v=jIgoBRbfkUA)
 * [2023-09-04, 03:13:01](https://news.ycombinator.com/item?id=37376786) - [A Proposal for an asynchronous Rust GUI framework](https://notgull.github.io/async-gui/)
 * [2023-09-04, 02:52:04](https://news.ycombinator.com/item?id=37376686) - [Glove80 Ergonomic Keyboard](https://danieldk.eu/Posts/2023-09-03-Glove80.html)
@@ -21,7 +22,6 @@
 * [2023-09-03, 15:37:29](https://news.ycombinator.com/item?id=37371237) - [Show HN: Extract an RSS feed from almost anything](https://rssfeedasap.com)
 * [2023-09-03, 15:16:56](https://news.ycombinator.com/item?id=37371085) - [Simple fragrance method boosts cognitive capacity: study](https://scitechdaily.com/a-whiff-of-genius-simple-fragrance-method-boosts-cognitive-capacity-by-226/)
 * [2023-09-03, 15:16:54](https://news.ycombinator.com/item?id=37371084) - [I don’t want to grow my freelance design studio into an agency](https://neladunato.com/blog/why-wont-grow-freelance-studio-into-agency/)
-* [2023-09-03, 15:08:05](https://news.ycombinator.com/item?id=37371020) - [HTML Design Principles (2007)](https://www.w3.org/TR/html-design-principles/)
 * [2023-09-03, 09:47:13](https://news.ycombinator.com/item?id=37369055) - [Why I Quit Bridge and Why I Came Back](https://bridgewinners.com/article/view/why-i-quit-bridge-at-23-and-why-i-came-back/)
 * [2023-09-03, 05:12:07](https://news.ycombinator.com/item?id=37367896) - [Fernando Pessoa’s Unselving](https://www.theparisreview.org/blog/2023/06/23/fernando-pessoas-many-personalities/)
 * [2023-09-03, 02:40:58](https://news.ycombinator.com/item?id=37367267) - [Learn Something Old Every Day, Part IX: Aha-154xB and ASPI4DOS.SYS](https://www.os2museum.com/wp/learn-something-old-every-day-part-ix-aha-154xb-and-aspi4dos-sys/)
