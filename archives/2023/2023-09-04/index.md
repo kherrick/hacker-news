@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-04](index.md)
 
+* [2023-09-04, 14:47:38](https://news.ycombinator.com/item?id=37380980) - [You Don't Need to “Learn” Svelte: Embracing the Simplicity of JavaScript](https://kaviisuri.com/you-dont-need-to-learn-svelte)
 * [2023-09-04, 14:35:50](https://news.ycombinator.com/item?id=37380863) - [Antioxidants such as Vitamin C found to spur cancer growth and metastasis](https://newatlas.com/medical/antioxidants-stimulate-blood-vessel-growth-cancer-tumors/)
 * [2023-09-04, 14:13:15](https://news.ycombinator.com/item?id=37380665) - [Battle of Hodów: When 400 Poles repelled 40,000 Tatars in 1694](https://tvpworld.com/60706855/battle-of-hodow-when-400-poles-repelled-40000-tatars-in-1694)
 * [2023-09-04, 13:34:49](https://news.ycombinator.com/item?id=37380314) - [Computing Power Used to Be Measured in 'Kilo-Girls'](https://www.theatlantic.com/technology/archive/2013/10/computing-power-used-to-be-measured-in-kilo-girls/280633/)
