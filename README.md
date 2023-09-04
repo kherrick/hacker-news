@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-04, 07:56:24](https://news.ycombinator.com/item?id=37378196) - [War games: Battlefield strategy and the game of chess](https://www.thearticle.com/war-games-battlefield-strategy-and-the-game-of-chess)
+* [2023-09-04, 07:54:16](https://news.ycombinator.com/item?id=37378179) - [Plastic Money](https://computer.rip/2023-09-03-plastic-money.html)
 * [2023-09-04, 07:33:53](https://news.ycombinator.com/item?id=37378069) - [Google was founded 25 years ago Today](https://en.wikipedia.org/wiki/History_of_Google)
 * [2023-09-04, 04:56:16](https://news.ycombinator.com/item?id=37377246) - [Haskell mini-patterns handbook (2020)](https://kowainik.github.io/posts/haskell-mini-patterns)
 * [2023-09-04, 03:58:41](https://news.ycombinator.com/item?id=37376998) - [Scientists use quantum device to slow chemical process by factor of 100B](https://www.sydney.edu.au/news-opinion/news/2023/08/29/conical-intersection-simulation-slowed-by-quantum-computer-100-billion-times.html)
@@ -23,7 +24,6 @@
 * [2023-09-03, 17:17:32](https://news.ycombinator.com/item?id=37372110) - [Coherer Effect [video]](https://www.youtube.com/watch?v=VMkdnj698-0)
 * [2023-09-03, 15:16:54](https://news.ycombinator.com/item?id=37371084) - [I don’t want to grow my freelance design studio into an agency](https://neladunato.com/blog/why-wont-grow-freelance-studio-into-agency/)
 * [2023-09-03, 12:22:35](https://news.ycombinator.com/item?id=37369826) - [The Raft Consensus Algorithm (2015)](https://raft.github.io)
-* [2023-09-03, 09:47:13](https://news.ycombinator.com/item?id=37369055) - [Why I Quit Bridge and Why I Came Back](https://bridgewinners.com/article/view/why-i-quit-bridge-at-23-and-why-i-came-back/)
 * [2023-09-03, 05:12:07](https://news.ycombinator.com/item?id=37367896) - [Fernando Pessoa’s Unselving](https://www.theparisreview.org/blog/2023/06/23/fernando-pessoas-many-personalities/)
 * [2023-09-03, 02:40:58](https://news.ycombinator.com/item?id=37367267) - [Learn Something Old Every Day, Part IX: Aha-154xB and ASPI4DOS.SYS](https://www.os2museum.com/wp/learn-something-old-every-day-part-ix-aha-154xb-and-aspi4dos-sys/)
 * [2023-09-03, 02:26:29](https://news.ycombinator.com/item?id=37367199) - [Investigating intentional cranial modification in 3rd to 7th century CE Japan](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289219)

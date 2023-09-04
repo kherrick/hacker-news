@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-04](index.md)
 
 * [2023-09-04, 07:56:24](https://news.ycombinator.com/item?id=37378196) - [War games: Battlefield strategy and the game of chess](https://www.thearticle.com/war-games-battlefield-strategy-and-the-game-of-chess)
+* [2023-09-04, 07:54:16](https://news.ycombinator.com/item?id=37378179) - [Plastic Money](https://computer.rip/2023-09-03-plastic-money.html)
 * [2023-09-04, 07:33:53](https://news.ycombinator.com/item?id=37378069) - [Google was founded 25 years ago Today](https://en.wikipedia.org/wiki/History_of_Google)
 * [2023-09-04, 04:56:16](https://news.ycombinator.com/item?id=37377246) - [Haskell mini-patterns handbook (2020)](https://kowainik.github.io/posts/haskell-mini-patterns)
 * [2023-09-04, 03:58:41](https://news.ycombinator.com/item?id=37376998) - [Scientists use quantum device to slow chemical process by factor of 100B](https://www.sydney.edu.au/news-opinion/news/2023/08/29/conical-intersection-simulation-slowed-by-quantum-computer-100-billion-times.html)
