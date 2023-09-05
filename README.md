@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-05, 07:17:39](https://news.ycombinator.com/item?id=37388816) - [“Piercing the Unknown” (IBM)](https://www.youtube.com/watch?v=dAnbb8ZEkBk)
 * [2023-09-05, 06:47:56](https://news.ycombinator.com/item?id=37388639) - [Microsoft blames outage on small staff, automation failures](https://www.theregister.com/2023/09/04/microsoft_australia_outage_incident_report/)
 * [2023-09-05, 06:35:09](https://news.ycombinator.com/item?id=37388560) - [Learn COBOL in 1 Day](https://www.microfocus.com/en-us/cobol)
 * [2023-09-05, 05:18:58](https://news.ycombinator.com/item?id=37388146) - [All About USB-C: Example Circuits](https://hackaday.com/2023/08/07/all-about-usb-c-example-circuits/)
@@ -23,6 +22,7 @@
 * [2023-09-04, 15:27:59](https://news.ycombinator.com/item?id=37381407) - [Portal 64 – A demake of Portal for the Nintendo 64](https://github.com/lambertjamesd/portal64)
 * [2023-09-04, 15:15:09](https://news.ycombinator.com/item?id=37381268) - [Show HN: Keep – GitHub Actions for your monitoring tools](https://github.com/keephq/keep)
 * [2023-09-04, 02:16:40](https://news.ycombinator.com/item?id=37376519) - [Pad kaphrao contest seeks true taste of Thai dish](https://www.theguardian.com/world/2023/aug/27/competition-seeks-true-taste-of-thailands-national-dish)
+* [2023-09-03, 12:58:22](https://news.ycombinator.com/item?id=37370051) - [Ongoing Chialisp Development](https://bramcohen.com/p/ongoing-chialisp-development)
 * [2023-09-03, 11:13:32](https://news.ycombinator.com/item?id=37369450) - [19th-century shipwreck discovered in Lake Michigan](https://www.theguardian.com/us-news/2023/sep/02/shipwreck-trinidad-lake-michigan-wisconsin)
 * [2023-09-03, 11:11:55](https://news.ycombinator.com/item?id=37369440) - [The Social Life of Bats](https://nautil.us/the-social-life-of-bats-373018/)
 * [2023-09-03, 10:19:03](https://news.ycombinator.com/item?id=37369193) - [Open source screw counting machine](https://github.com/Indystrycc/OpenScrewCounter)
