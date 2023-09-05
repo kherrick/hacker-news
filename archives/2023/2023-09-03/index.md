@@ -58,6 +58,7 @@
 * [2023-09-03, 14:46:48](https://news.ycombinator.com/item?id=37370855) - [Harman How to Listen (2011)](http://harmanhowtolisten.blogspot.com/)
 * [2023-09-03, 14:44:13](https://news.ycombinator.com/item?id=37370835) - [Pentax K-3 III Monochrome: A DSLR Just for B&W Photo Lovers](https://petapixel.com/2023/05/24/pentax-k-3-iii-monochrome-review-a-dslr-just-for-bw-photo-lovers/)
 * [2023-09-03, 13:55:12](https://news.ycombinator.com/item?id=37370453) - [Pesticide safety limit for salmon farms watered down after industry lobbying](https://theferret.scot/pesticide-safety-limit-industry-lobbying/)
+* [2023-09-03, 13:41:44](https://news.ycombinator.com/item?id=37370359) - [The Amiga. It's More Than Just Games [video]](https://www.youtube.com/watch?v=fHi2d7OQH4Y)
 * [2023-09-03, 13:26:24](https://news.ycombinator.com/item?id=37370248) - [Interfaces for Prototyping Hardware](https://kevinlynagh.com/newsletter/2023_09_hardware_prototyping/)
 * [2023-09-03, 13:17:03](https://news.ycombinator.com/item?id=37370170) - [Sag-AFTRA votes unanimously to expand its strike to include the games industry](https://www.eurogamer.net/sag-aftra-votes-unanimously-to-expand-its-strike-to-include-the-games-industry)
 * [2023-09-03, 12:58:22](https://news.ycombinator.com/item?id=37370051) - [Ongoing Chialisp Development](https://bramcohen.com/p/ongoing-chialisp-development)
