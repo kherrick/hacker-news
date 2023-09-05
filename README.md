@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-05, 19:24:07](https://news.ycombinator.com/item?id=37396511) - [Searching for “Notepad” on DuckDuckGo yields zero results](https://duckduckgo.com/?t=ffab&q=notepad&ia=web)
+* [2023-09-05, 19:21:59](https://news.ycombinator.com/item?id=37396479) - [Forming an Edge](https://www.scopeofwork.net/forming-an-edge/)
 * [2023-09-05, 18:49:03](https://news.ycombinator.com/item?id=37396041) - [Googles hidden penalties against websites](http://onlineslangdictionary.com/pages/google-panda-penalty/)
 * [2023-09-05, 17:55:29](https://news.ycombinator.com/item?id=37395370) - [Klack – Satisfying sound with every keystroke](https://tryklack.com/)
 * [2023-09-05, 17:33:35](https://news.ycombinator.com/item?id=37395096) - [If you can use open source, you can build hardware](https://redeem-tomorrow.com/if-you-can-use-open-source-you-can-build-hardware)
@@ -18,7 +19,6 @@
 * [2023-09-05, 15:07:21](https://news.ycombinator.com/item?id=37392676) - [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
 * [2023-09-05, 15:00:30](https://news.ycombinator.com/item?id=37392581) - [OpenTF repository is now public](https://github.com/opentffoundation/opentf)
 * [2023-09-05, 14:30:18](https://news.ycombinator.com/item?id=37392184) - [“Porting Inferno OS to Raspberry Pi”](https://github.com/yshurik/inferno-rpi)
-* [2023-09-05, 14:22:20](https://news.ycombinator.com/item?id=37392040) - [Zv/9Problems: A Tiling Window Manager for Plan9](https://github.com/zv/9Problems)
 * [2023-09-05, 14:20:44](https://news.ycombinator.com/item?id=37392013) - [Show HN: Pgs.sh – A zero-dependency static site hosting service for hackers](https://pgs.sh)
 * [2023-09-05, 14:08:34](https://news.ycombinator.com/item?id=37391848) - [Show HN: An open source visual editor for React](https://github.com/measuredco/puck)
 * [2023-09-05, 13:47:57](https://news.ycombinator.com/item?id=37391584) - [The Federal Helium reserve is for sale](https://disposal.gsa.gov/s/property/a0Xt000000DPeSLEA1/federal-helium-system-and-800-million-cubic-ft-of-crude-helium)

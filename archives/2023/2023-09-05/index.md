@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-05](index.md)
 
 * [2023-09-05, 19:24:07](https://news.ycombinator.com/item?id=37396511) - [Searching for “Notepad” on DuckDuckGo yields zero results](https://duckduckgo.com/?t=ffab&q=notepad&ia=web)
+* [2023-09-05, 19:21:59](https://news.ycombinator.com/item?id=37396479) - [Forming an Edge](https://www.scopeofwork.net/forming-an-edge/)
 * [2023-09-05, 18:49:03](https://news.ycombinator.com/item?id=37396041) - [Googles hidden penalties against websites](http://onlineslangdictionary.com/pages/google-panda-penalty/)
 * [2023-09-05, 17:55:29](https://news.ycombinator.com/item?id=37395370) - [Klack – Satisfying sound with every keystroke](https://tryklack.com/)
 * [2023-09-05, 17:33:35](https://news.ycombinator.com/item?id=37395096) - [If you can use open source, you can build hardware](https://redeem-tomorrow.com/if-you-can-use-open-source-you-can-build-hardware)
