@@ -10,7 +10,6 @@
 * [2023-09-05, 16:21:20](https://news.ycombinator.com/item?id=37393971) - [Reading for Pleasure Helps Kids’ Brain Development](https://theconversation.com/poverty-is-linked-to-poorer-brain-development-but-reading-can-help-counteract-it-208966)
 * [2023-09-05, 16:13:09](https://news.ycombinator.com/item?id=37393820) - [Learn WebAssembly by writing small programs](https://github.com/EmNudge/watlings)
 * [2023-09-05, 16:03:13](https://news.ycombinator.com/item?id=37393652) - [Czech scientists confirm the existence of the π-hole in molecules](https://www.avcr.cz/en/news-archive/Czech-scientists-confirm-the-existence-of-the-hole-in-molecules-proving-a-decades-old-theory/)
-* [2023-09-05, 15:55:52](https://news.ycombinator.com/item?id=37393502) - [Disgraced Harvard professor sued them for millions. Their recourse: GoFundMe](https://www.vox.com/future-perfect/23841742/francesca-gino-data-colada-lawsuit-gofundme-science-culture-transparency-academic-fraud-dishonesty)
 * [2023-09-05, 15:52:14](https://news.ycombinator.com/item?id=37393452) - [Where Did the QWERTY Keyboard Come From?](https://www.smithsonianmag.com/innovation/origins-qwerty-keyboard-typewriter-180982726/)
 * [2023-09-05, 15:07:21](https://news.ycombinator.com/item?id=37392676) - [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
 * [2023-09-05, 15:00:30](https://news.ycombinator.com/item?id=37392581) - [OpenTF Repository is now Public](https://github.com/opentffoundation/opentf)
@@ -29,6 +28,7 @@
 * [2023-09-05, 08:53:13](https://news.ycombinator.com/item?id=37389376) - [Amiga Systems Programming in 2023](https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023/)
 * [2023-09-04, 14:08:55](https://news.ycombinator.com/item?id=37380621) - [André van Schaik Discusses New Neuromorphic Simulator](https://www.eetimes.com/podcasts/andre-van-schaik-discusses-new-neuromorphic-simulator/)
 * [2023-09-04, 12:36:43](https://news.ycombinator.com/item?id=37379911) - [Every billable hour is amateur hour](https://daedtech.com/every-billable-hour-is-amateur-hour/)
+* [2023-09-03, 21:44:14](https://news.ycombinator.com/item?id=37374908) - [Evidence for Hipparchus’ Star Catalogue revealed by multispectral imaging (2022)](https://journals.sagepub.com/doi/10.1177/00218286221128289)
 * [2023-09-03, 12:07:06](https://news.ycombinator.com/item?id=37369732) - [Do we think about vector storage completely wrong?](https://hachyderm.io/@softwaredoug/111000936722843110)
 
 ## [Archives](archives/index.md)
