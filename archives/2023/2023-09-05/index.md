@@ -8,6 +8,7 @@
 * [2023-09-05, 17:24:28](https://news.ycombinator.com/item?id=37394979) - [Browse Websites by Fonts](https://maxibestof.one/typefaces)
 * [2023-09-05, 17:01:23](https://news.ycombinator.com/item?id=37394665) - [Rockstar is selling cracked game copies on Steam](https://twitter.com/__silent_/status/1698345924840296801)
 * [2023-09-05, 17:01:15](https://news.ycombinator.com/item?id=37394664) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2023-09-05, 17:01:04](https://news.ycombinator.com/item?id=37394659) - [Developing on and for Chromebooks Is a Terrible Experience](https://medium.com/@icwillwrite/developing-for-chromeos-is-terrible-c9bc5ce8b34a)
 * [2023-09-05, 16:53:14](https://news.ycombinator.com/item?id=37394545) - [Steam-on-Ampere](https://github.com/AmpereComputing/Steam-on-Ampere)
 * [2023-09-05, 16:50:02](https://news.ycombinator.com/item?id=37394487) - [Britain’s statisticians fix a blunder and find a bigger economy](https://www.economist.com/britain/2023/09/04/britains-statisticians-fix-a-blunder-and-find-a-bigger-economy)
 * [2023-09-05, 16:37:55](https://news.ycombinator.com/item?id=37394275) - [GitHub Is Down](https://www.githubstatus.com/incidents/smdz34v7j8q0)
