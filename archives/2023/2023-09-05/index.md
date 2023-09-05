@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-05](index.md)
 
+* [2023-09-05, 21:02:28](https://news.ycombinator.com/item?id=37397704) - [My Presidential Platform](https://www.astralcodexten.com/p/my-presidential-platform)
 * [2023-09-05, 21:01:16](https://news.ycombinator.com/item?id=37397686) - [Emerge (YC W21) is hiring a lead front end engineer (remote, small team)](https://www.workatastartup.com/jobs/61922/)
 * [2023-09-05, 20:44:20](https://news.ycombinator.com/item?id=37397481) - [Hacking device Flipper Zero can spam nearby iPhones with Bluetooth pop-ups](https://techcrunch.com/2023/09/05/flipper-zero-hacking-iphone-flood-popups/)
 * [2023-09-05, 20:39:09](https://news.ycombinator.com/item?id=37397405) - [How Amazon uses chaos engineering to handle 80k requests per second](https://community.aws/posts/how-search-uses-chaos-engineering)
@@ -49,6 +50,7 @@
 * [2023-09-05, 14:17:05](https://news.ycombinator.com/item?id=37391963) - [Rolex Buys Bucherer](https://www.hodinkee.com/articles/rolex-acquires-storied-retailer-bucherer)
 * [2023-09-05, 14:15:07](https://news.ycombinator.com/item?id=37391934) - [ZSA Voyager: Low profile split keyboard](https://www.zsa.io/voyager/)
 * [2023-09-05, 14:08:34](https://news.ycombinator.com/item?id=37391848) - [Show HN: An open source visual editor for React](https://github.com/measuredco/puck)
+* [2023-09-05, 13:47:57](https://news.ycombinator.com/item?id=37391584) - [The Federal Helium reserve is for sale](https://www.gsa.gov/about-us/regions/region-7-greater-southwest/region-7-newsroom/greater-southwest-feature-stories-and-news-releases/gsa-announces-sale-of-federal-helium-system-assets-06222023)
 * [2023-09-05, 13:47:57](https://news.ycombinator.com/item?id=37391584) - [The Federal Helium reserve is for sale](https://disposal.gsa.gov/s/property/a0Xt000000DPeSLEA1/federal-helium-system-and-800-million-cubic-ft-of-crude-helium)
 * [2023-09-05, 13:46:48](https://news.ycombinator.com/item?id=37391573) - [France prepares to ban vegetarian products from using meaty language](https://www.theguardian.com/world/2023/sep/05/france-prepares-to-ban-vegetarian-products-from-using-meaty-language)
 * [2023-09-05, 13:42:57](https://news.ycombinator.com/item?id=37391521) - [Android 14 blocks all modification of system certificates, even as root](https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/)
