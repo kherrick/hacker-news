@@ -16,7 +16,7 @@
 * [2023-09-05, 16:03:13](https://news.ycombinator.com/item?id=37393652) - [Czech scientists confirm the existence of the π-hole in molecules](https://www.avcr.cz/en/news-archive/Czech-scientists-confirm-the-existence-of-the-hole-in-molecules-proving-a-decades-old-theory/)
 * [2023-09-05, 15:52:14](https://news.ycombinator.com/item?id=37393452) - [Where Did the QWERTY Keyboard Come From?](https://www.smithsonianmag.com/innovation/origins-qwerty-keyboard-typewriter-180982726/)
 * [2023-09-05, 15:07:21](https://news.ycombinator.com/item?id=37392676) - [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
-* [2023-09-05, 15:00:30](https://news.ycombinator.com/item?id=37392581) - [OpenTF Repository is now Public](https://github.com/opentffoundation/opentf)
+* [2023-09-05, 15:00:30](https://news.ycombinator.com/item?id=37392581) - [OpenTF repository is now public](https://github.com/opentffoundation/opentf)
 * [2023-09-05, 14:30:18](https://news.ycombinator.com/item?id=37392184) - [“Porting Inferno OS to Raspberry Pi”](https://github.com/yshurik/inferno-rpi)
 * [2023-09-05, 14:22:20](https://news.ycombinator.com/item?id=37392040) - [Zv/9Problems: A Tiling Window Manager for Plan9](https://github.com/zv/9Problems)
 * [2023-09-05, 14:20:44](https://news.ycombinator.com/item?id=37392013) - [Show HN: Pgs.sh – A zero-dependency static site hosting service for hackers](https://pgs.sh)
