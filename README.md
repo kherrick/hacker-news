@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-05, 15:01:27](https://news.ycombinator.com/item?id=37392598) - [Google Meet’s new AI will be able to go to meetings for you](https://www.theverge.com/2023/8/29/23849056/google-meet-ai-duet-attend-for-me)
+* [2023-09-05, 14:50:00](https://news.ycombinator.com/item?id=37392435) - [Apple to Launch 'Low-Cost' MacBook Series Next Year to Rival Chromebooks](https://www.macrumors.com/2023/09/05/apple-low-cost-macbook-rival-chromebook/)
+* [2023-09-05, 14:15:07](https://news.ycombinator.com/item?id=37391934) - [ZSA Voyager: Low profile split keyboard](https://www.zsa.io/voyager/)
 * [2023-09-05, 14:08:34](https://news.ycombinator.com/item?id=37391848) - [Show HN: An open source visual editor for React](https://github.com/measuredco/puck)
 * [2023-09-05, 13:42:57](https://news.ycombinator.com/item?id=37391521) - [Android 14 blocks all modification of system certificates, even as root](https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/)
 * [2023-09-05, 13:28:52](https://news.ycombinator.com/item?id=37391365) - [Australian MPs to lobby US to drop Julian Assange prosecution](https://www.theguardian.com/australia-news/2023/sep/05/australian-mps-to-lobby-us-to-drop-julian-assange-prosecution-or-risk-very-dangerous-precedent-for-russia-and-china)
 * [2023-09-05, 13:21:13](https://news.ycombinator.com/item?id=37391272) - [Launch HN: Nullstone (YC W22) – An easier way to deploy and manage cloud apps](https://news.ycombinator.com/item?id=37391272)
-* [2023-09-05, 13:19:32](https://news.ycombinator.com/item?id=37391244) - [The World’s First U2 Spy Plane Photo Shoot at the Edge of Space](https://petapixel.com/2023/09/05/at-70000-feet-in-a-u2-the-making-of-a-photo-shoot-at-the-edge-of-space/)
 * [2023-09-05, 12:49:10](https://news.ycombinator.com/item?id=37390941) - [Mastering curl: interactive text guide](https://antonz.org/mastering-curl/)
 * [2023-09-05, 11:45:51](https://news.ycombinator.com/item?id=37390430) - [Come downstairs or we’ll eat your order, delivery workers tell customers](https://restofworld.org/2023/delivery-driver-bikes-stolen-brazil/)
 * [2023-09-05, 11:04:51](https://news.ycombinator.com/item?id=37390184) - [A currently maintained fork of SSHFS](https://github.com/deadbeefsociety/sshfs)
@@ -17,7 +19,6 @@
 * [2023-09-05, 02:14:16](https://news.ycombinator.com/item?id=37387110) - [Economists typically rely on bogus population data](https://www.cambridge.org/core/journals/journal-of-economic-history/article/we-do-not-know-the-population-of-every-country-in-the-world-for-the-past-two-thousand-years/D747DDC6E499C799B0471DBE33FEB0BB)
 * [2023-09-05, 01:00:31](https://news.ycombinator.com/item?id=37386711) - [Videobug (YC S22) is hiring a founding engineer – automated snapshot testing](https://news.ycombinator.com/item?id=37386711)
 * [2023-09-05, 00:52:29](https://news.ycombinator.com/item?id=37386661) - [Farms that create habitat key to food security and biodiversity](https://news.stanford.edu/2023/09/04/farming-food-biodiversity/)
-* [2023-09-05, 00:02:51](https://news.ycombinator.com/item?id=37386397) - [Get a cable modem, go to jail (1999)](http://telecom.csail.mit.edu/judy-sammel.html)
 * [2023-09-04, 22:26:38](https://news.ycombinator.com/item?id=37385716) - [Emacs Bedrock: A minimal Emacs starter kit](https://sr.ht/~ashton314/emacs-bedrock/)
 * [2023-09-04, 19:17:37](https://news.ycombinator.com/item?id=37383913) - [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)
 * [2023-09-04, 02:16:40](https://news.ycombinator.com/item?id=37376519) - [Pad kaphrao contest seeks true taste of Thai dish](https://www.theguardian.com/world/2023/aug/27/competition-seeks-true-taste-of-thailands-national-dish)
@@ -29,7 +30,6 @@
 * [2023-09-03, 11:13:32](https://news.ycombinator.com/item?id=37369450) - [19th-century shipwreck discovered in Lake Michigan](https://www.theguardian.com/us-news/2023/sep/02/shipwreck-trinidad-lake-michigan-wisconsin)
 * [2023-09-03, 11:11:55](https://news.ycombinator.com/item?id=37369440) - [The Social Life of Bats](https://nautil.us/the-social-life-of-bats-373018/)
 * [2023-09-03, 01:54:27](https://news.ycombinator.com/item?id=37367056) - [Altmetrics: A Manifesto (2011)](http://altmetrics.org/manifesto/)
-* [2023-09-02, 21:39:39](https://news.ycombinator.com/item?id=37365764) - [Counterfeit Apple II computers (1985) [video]](https://www.youtube.com/watch?v=RFjGq55BglM)
 
 ## [Archives](archives/index.md)
 
