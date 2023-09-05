@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-05](index.md)
 
+* [2023-09-05, 17:01:15](https://news.ycombinator.com/item?id=37394664) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-09-05, 16:37:55](https://news.ycombinator.com/item?id=37394275) - [GitHub Is Down](https://www.githubstatus.com/incidents/smdz34v7j8q0)
 * [2023-09-05, 16:21:20](https://news.ycombinator.com/item?id=37393971) - [Reading for Pleasure Helps Kids’ Brain Development](https://theconversation.com/poverty-is-linked-to-poorer-brain-development-but-reading-can-help-counteract-it-208966)
 * [2023-09-05, 16:13:09](https://news.ycombinator.com/item?id=37393820) - [Learn WebAssembly by writing small programs](https://github.com/EmNudge/watlings)
