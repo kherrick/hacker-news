@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-05](index.md)
 
+* [2023-09-05, 21:01:16](https://news.ycombinator.com/item?id=37397686) - [Emerge (YC W21) is hiring a lead front end engineer (remote, small team)](https://www.workatastartup.com/jobs/61922/)
+* [2023-09-05, 20:44:20](https://news.ycombinator.com/item?id=37397481) - [Hacking device Flipper Zero can spam nearby iPhones with Bluetooth pop-ups](https://techcrunch.com/2023/09/05/flipper-zero-hacking-iphone-flood-popups/)
+* [2023-09-05, 20:39:09](https://news.ycombinator.com/item?id=37397405) - [How Amazon uses chaos engineering to handle 80k requests per second](https://community.aws/posts/how-search-uses-chaos-engineering)
 * [2023-09-05, 20:36:20](https://news.ycombinator.com/item?id=37397359) - [deVStudio – Runs VS Code on Android](https://play.google.com/store/apps/details?id=tech.ula.devstudio&hl=en_US)
 * [2023-09-05, 20:33:18](https://news.ycombinator.com/item?id=37397323) - [When deployments are easy, code becomes simpler](https://bitbytebit.substack.com/p/when-deployments-are-easy-code-becomes)
 * [2023-09-05, 19:24:07](https://news.ycombinator.com/item?id=37396511) - [Searching for “Notepad” on DuckDuckGo yields zero results](https://duckduckgo.com/?t=ffab&q=notepad&ia=web)

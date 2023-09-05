@@ -23,6 +23,7 @@
 * [2023-09-02, 19:12:36](https://news.ycombinator.com/item?id=37364544) - [Why There Is No Moral ‘Right to Strike’](https://fee.org/articles/why-there-is-no-moral-right-to-strike/)
 * [2023-09-02, 18:56:08](https://news.ycombinator.com/item?id=37364388) - [Found in a Library Book](https://oaklandlibrary.org/found-in-a-library-book/)
 * [2023-09-02, 18:45:07](https://news.ycombinator.com/item?id=37364290) - [Show HN: I mirrored all the code from PyPI to GitHub and analysed it](https://py-code.org/stats)
+* [2023-09-02, 18:38:13](https://news.ycombinator.com/item?id=37364230) - [Time to preserve those floppy disks](https://www.patreon.com/posts/78074244)
 * [2023-09-02, 18:33:13](https://news.ycombinator.com/item?id=37364181) - [LensLeech: Touch a camera to control your devices](https://volzo.de/thing/lensleech/)
 * [2023-09-02, 18:27:02](https://news.ycombinator.com/item?id=37364124) - [Show HN: Shaq, a CLI for Shazam](https://blog.yossarian.net/2023/07/27/Introducing-shaq-a-CLI-for-shazam)
 * [2023-09-02, 17:38:08](https://news.ycombinator.com/item?id=37363674) - [‘Conserve food and water’: No way in or out of Burning Man after storm](https://www.sfgate.com/travel/article/no-access-after-burning-man-rain-storm-18344393.php)
