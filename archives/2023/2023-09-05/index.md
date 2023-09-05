@@ -10,6 +10,7 @@
 * [2023-09-05, 13:28:52](https://news.ycombinator.com/item?id=37391365) - [Australian MPs to lobby US to drop Julian Assange prosecution](https://www.theguardian.com/australia-news/2023/sep/05/australian-mps-to-lobby-us-to-drop-julian-assange-prosecution-or-risk-very-dangerous-precedent-for-russia-and-china)
 * [2023-09-05, 13:21:13](https://news.ycombinator.com/item?id=37391272) - [Launch HN: Nullstone (YC W22) – An easier way to deploy and manage cloud apps](https://news.ycombinator.com/item?id=37391272)
 * [2023-09-05, 13:19:32](https://news.ycombinator.com/item?id=37391244) - [The World’s First U2 Spy Plane Photo Shoot at the Edge of Space](https://petapixel.com/2023/09/05/at-70000-feet-in-a-u2-the-making-of-a-photo-shoot-at-the-edge-of-space/)
+* [2023-09-05, 12:49:10](https://news.ycombinator.com/item?id=37390941) - [Mastering curl: interactive text guide](https://antonz.org/mastering-curl/)
 * [2023-09-05, 11:45:51](https://news.ycombinator.com/item?id=37390430) - [Come downstairs or we’ll eat your order, delivery workers tell customers](https://restofworld.org/2023/delivery-driver-bikes-stolen-brazil/)
 * [2023-09-05, 11:04:51](https://news.ycombinator.com/item?id=37390184) - [A currently maintained fork of SSHFS](https://github.com/deadbeefsociety/sshfs)
 * [2023-09-05, 10:51:25](https://news.ycombinator.com/item?id=37390108) - [HuggingFace Training Cluster as a Service](https://huggingface.co/training-cluster)
