@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-05](index.md)
 
+* [2023-09-05, 23:25:55](https://news.ycombinator.com/item?id=37399207) - [Wage transparency: Everyone’s happy except HR?](https://www.malaymail.com/news/opinion/2023/09/05/wage-transparency-everyones-happy-except-hr/89066)
 * [2023-09-05, 22:53:09](https://news.ycombinator.com/item?id=37398921) - [Engineer’s Guide to Career Growth: Advice from My Time at Stripe and Facebook](https://review.firstround.com/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook)
 * [2023-09-05, 22:13:41](https://news.ycombinator.com/item?id=37398504) - [The shrinking number of primary care physicians is reaching a tipping point](https://www.washingtonpost.com/opinions/2023/09/05/lack-primary-care-tipping-point/)
 * [2023-09-05, 21:50:54](https://news.ycombinator.com/item?id=37398254) - [HashiCorp Did It Backwards](https://galenmarchetti.substack.com/p/hashicorp-did-it-backwards)

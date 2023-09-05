@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-05, 23:25:55](https://news.ycombinator.com/item?id=37399207) - [Wage transparency: Everyone’s happy except HR?](https://www.malaymail.com/news/opinion/2023/09/05/wage-transparency-everyones-happy-except-hr/89066)
 * [2023-09-05, 22:53:09](https://news.ycombinator.com/item?id=37398921) - [Engineer’s Guide to Career Growth: Advice from My Time at Stripe and Facebook](https://review.firstround.com/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook)
 * [2023-09-05, 22:13:41](https://news.ycombinator.com/item?id=37398504) - [The shrinking number of primary care physicians is reaching a tipping point](https://www.washingtonpost.com/opinions/2023/09/05/lack-primary-care-tipping-point/)
 * [2023-09-05, 21:50:54](https://news.ycombinator.com/item?id=37398254) - [HashiCorp Did It Backwards](https://galenmarchetti.substack.com/p/hashicorp-did-it-backwards)
@@ -27,7 +28,6 @@
 * [2023-09-05, 04:07:46](https://news.ycombinator.com/item?id=37387731) - [Diamond prices are in free fall in one key corner of the market](https://www.bloomberg.com/news/articles/2023-09-03/lab-grown-gems-are-crashing-prices-for-one-key-type-of-diamond)
 * [2023-09-04, 21:49:58](https://news.ycombinator.com/item?id=37385447) - [A Test Suite for the Intel 8088](https://martypc.blogspot.com/2023/09/a-test-suite-for-intel-8088.html)
 * [2023-09-04, 21:03:34](https://news.ycombinator.com/item?id=37385038) - [The Ones We Sent Away](https://www.theatlantic.com/magazine/archive/2023/09/disabled-children-institutionalization-history/674763/)
-* [2023-09-03, 12:33:08](https://news.ycombinator.com/item?id=37369902) - [Richard Watkins Horological Books](http://watkinsr.id.au/)
 * [2023-09-03, 11:31:51](https://news.ycombinator.com/item?id=37369547) - [Proof Gallery](https://jeremykun.com/proof-gallery/)
 * [2023-09-02, 18:38:13](https://news.ycombinator.com/item?id=37364230) - [Time to preserve those floppy disks](https://www.patreon.com/posts/78074244)
 
