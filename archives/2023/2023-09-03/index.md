@@ -62,6 +62,7 @@
 * [2023-09-03, 12:22:35](https://news.ycombinator.com/item?id=37369826) - [The Raft Consensus Algorithm](https://raft.github.io)
 * [2023-09-03, 12:00:21](https://news.ycombinator.com/item?id=37369698) - [Replit (YC W18) Is Hiring Engineers in AI, Platform, and Product](https://replit.com/site/careers)
 * [2023-09-03, 11:27:06](https://news.ycombinator.com/item?id=37369521) - [The pandemic your grandparents forgot about](https://nautil.us/the-pandemic-your-grandparents-forgot-359076/)
+* [2023-09-03, 11:13:32](https://news.ycombinator.com/item?id=37369450) - [19th-century shipwreck discovered in Lake Michigan](https://www.theguardian.com/us-news/2023/sep/02/shipwreck-trinidad-lake-michigan-wisconsin)
 * [2023-09-03, 11:12:33](https://news.ycombinator.com/item?id=37369446) - [The Hungry Caterpillar and the Ecosystem](https://worldsensorium.com/the-very-hungry-caterpillar-and-the-ecosystem/)
 * [2023-09-03, 11:11:55](https://news.ycombinator.com/item?id=37369440) - [The Social Life of Bats](https://nautil.us/the-social-life-of-bats-373018/)
 * [2023-09-03, 11:08:04](https://news.ycombinator.com/item?id=37369416) - [Just build it](https://blog.stephaniestimac.com/posts/2023/09/just-build-it/)
