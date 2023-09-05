@@ -1,12 +1,32 @@
 [
   [
     [
-      "2023-09-04, 23:18:13",
-      "https://news.ycombinator.com/item?id=37386127"
+      "2023-09-05, 00:02:51",
+      "https://news.ycombinator.com/item?id=37386397"
     ],
     [
-      "Ask HN: Best intro to programming book for 2nd graders?",
-      "https://news.ycombinator.com/item?id=37386127"
+      "Get a cable modem, go to jail (1999)",
+      "http://telecom.csail.mit.edu/judy-sammel.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-04, 22:38:37",
+      "https://news.ycombinator.com/item?id=37385811"
+    ],
+    [
+      "Oscilloscope watch ships after 10 years on kickstarter",
+      "https://www.tomshardware.com/news/oscilloscope-watch-ships-after-10-years"
+    ]
+  ],
+  [
+    [
+      "2023-09-04, 22:26:38",
+      "https://news.ycombinator.com/item?id=37385716"
+    ],
+    [
+      "Emacs Bedrock: A minimal Emacs starter kit",
+      "https://sr.ht/~ashton314/emacs-bedrock/"
     ]
   ],
   [
@@ -17,6 +37,16 @@
     [
       "The Gimmicks of Food Labeling",
       "https://www.newyorker.com/magazine/2023/09/11/the-lies-in-your-grocery-store"
+    ]
+  ],
+  [
+    [
+      "2023-09-04, 21:21:24",
+      "https://news.ycombinator.com/item?id=37385197"
+    ],
+    [
+      "WASM: Big deal or little deal?",
+      "https://www.theregister.com/2023/09/01/web_assembly_wasm_column/"
     ]
   ],
   [
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=37384797"
     ],
     [
-      "LLM Python library now provides tools for working with embeddings",
+      "LLM Python/CLI tool adds support for embeddings",
       "https://simonwillison.net/2023/Sep/4/llm-embeddings/"
     ]
   ],
@@ -75,7 +105,7 @@
       "https://news.ycombinator.com/item?id=37383413"
     ],
     [
-      "Chinchilla’s Death",
+      "Chinchilla’s death",
       "https://espadrine.github.io/blog/posts/chinchilla-s-death.html"
     ]
   ],
@@ -87,6 +117,16 @@
     [
       "Tidal energy is not renewable",
       "https://cs.stanford.edu/people/zjl/tide.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-04, 18:13:14",
+      "https://news.ycombinator.com/item?id=37383245"
+    ],
+    [
+      "Geo Guesser identifies the location and seat number from an aerial shot",
+      "https://twitter.com/georainbolt/status/1698553197684777069"
     ]
   ],
   [
@@ -111,32 +151,12 @@
   ],
   [
     [
-      "2023-09-04, 16:50:10",
-      "https://news.ycombinator.com/item?id=37382232"
-    ],
-    [
-      "Medical-evidence giant Cochrane battles funding cuts and closures",
-      "https://www.nature.com/articles/d41586-023-02741-z"
-    ]
-  ],
-  [
-    [
       "2023-09-04, 16:37:43",
       "https://news.ycombinator.com/item?id=37382117"
     ],
     [
       "Can we talk to whales?",
       "https://www.newyorker.com/magazine/2023/09/11/can-we-talk-to-whales"
-    ]
-  ],
-  [
-    [
-      "2023-09-04, 16:11:30",
-      "https://news.ycombinator.com/item?id=37381834"
-    ],
-    [
-      "What is residual vector quantization?",
-      "https://www.assemblyai.com/blog/what-is-residual-vector-quantization/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-09-04, 12:47:48",
-      "https://news.ycombinator.com/item?id=37379984"
-    ],
-    [
-      "TinyLlama project aims to pretrain a 1.1B Llama model on 3T tokens",
-      "https://github.com/jzhang38/TinyLlama"
-    ]
-  ],
-  [
-    [
       "2023-09-04, 11:09:56",
       "https://news.ycombinator.com/item?id=37379323"
     ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2023-09-04, 03:43:34",
-      "https://news.ycombinator.com/item?id=37376926"
+      "2023-09-03, 12:58:22",
+      "https://news.ycombinator.com/item?id=37370051"
     ],
     [
-      "Are cooking videos making us better cooks?",
-      "https://www.nytimes.com/interactive/2023/08/07/dining/cooking-videos-tiktok.html"
+      "Ongoing Chialisp Development",
+      "https://bramcohen.com/p/ongoing-chialisp-development"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Black Art of 3D Game Programming (1995)",
       "https://archive.org/details/BlackArt3DEBook"
-    ]
-  ],
-  [
-    [
-      "2023-09-03, 06:29:11",
-      "https://news.ycombinator.com/item?id=37368168"
-    ],
-    [
-      "Microsoft Works",
-      "https://en.wikipedia.org/wiki/Microsoft_Works"
     ]
   ],
   [
