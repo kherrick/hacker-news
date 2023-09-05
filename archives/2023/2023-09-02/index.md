@@ -9,6 +9,7 @@
 * [2023-09-02, 23:25:38](https://news.ycombinator.com/item?id=37366341) - [How to type “blimpy” in Emacs [video]](https://www.youtube.com/watch?v=2VOnKMJqIL0)
 * [2023-09-02, 22:36:03](https://news.ycombinator.com/item?id=37366099) - [Focus: A simple and fast text editor written in Jai](https://github.com/focus-editor/focus)
 * [2023-09-02, 22:12:16](https://news.ycombinator.com/item?id=37365968) - [Rescuing the lost code and stereo sound to Sinistar [video]](https://www.youtube.com/watch?v=ZRDdKZ7V54I)
+* [2023-09-02, 21:39:39](https://news.ycombinator.com/item?id=37365764) - [1985 New Tech Times on counterfeit Apple II computers [video]](https://www.youtube.com/watch?v=RFjGq55BglM)
 * [2023-09-02, 21:38:13](https://news.ycombinator.com/item?id=37365752) - [A Company of One](https://rishad.substack.com/p/a-company-of-one)
 * [2023-09-02, 21:00:47](https://news.ycombinator.com/item?id=37365485) - [MindsDB (YC W20) Is Hiring a Senior Front End Engineer](https://www.ycombinator.com/companies/mindsdb/jobs/wnUfBhO-senior-frontend-engineer)
 * [2023-09-02, 20:57:44](https://news.ycombinator.com/item?id=37365468) - [Show HN: Menu Bar Calendar on macOS](https://sindresorhus.com/menu-bar-calendar)

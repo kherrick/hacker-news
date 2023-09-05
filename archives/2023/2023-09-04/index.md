@@ -87,6 +87,7 @@
 * [2023-09-04, 02:48:23](https://news.ycombinator.com/item?id=37376675) - [Amiga Samplers: Budget dance music in 1990](https://www.youtube.com/watch?v=i9MXYZh1jcs)
 * [2023-09-04, 02:36:14](https://news.ycombinator.com/item?id=37376609) - [The History of Windows 95](https://www.abortretry.fail/p/the-history-of-windows-95)
 * [2023-09-04, 02:24:20](https://news.ycombinator.com/item?id=37376559) - [A plot to steal the secret Coke can-liner formula](https://www.bloomberg.com/news/features/2023-05-11/the-plot-to-steal-the-secret-coke-can-liner-formula)
+* [2023-09-04, 02:16:40](https://news.ycombinator.com/item?id=37376519) - [Pad kaphrao contest seeks true taste of Thailand’s national dish](https://www.theguardian.com/world/2023/aug/27/competition-seeks-true-taste-of-thailands-national-dish)
 * [2023-09-04, 02:12:26](https://news.ycombinator.com/item?id=37376494) - [“X” Didn’t Pay Severance. Now It’s Facing 2,200 Cases – and Big Fees](https://www.motherjones.com/media/2023/09/x-twitter-severance-pay-arbitration-cases-fees/)
 * [2023-09-04, 01:40:40](https://news.ycombinator.com/item?id=37376377) - [Dennis Ritchie Home Page](http://cm.bell-labs.co/who/dmr/)
 * [2023-09-04, 01:39:36](https://news.ycombinator.com/item?id=37376369) - [Everything I know about floppy disks](https://thejpster.org.uk/blog/blog-2023-08-28/)
