@@ -18,6 +18,7 @@
 * [2023-09-05, 04:41:58](https://news.ycombinator.com/item?id=37387957) - [OpenAI CEO Sam Altman First Person to Get Indonesian Golden Visa](https://www.bloomberg.com/news/articles/2023-09-05/openai-ceo-sam-altman-first-person-to-get-indonesian-golden-visa)
 * [2023-09-05, 04:30:22](https://news.ycombinator.com/item?id=37387878) - [Locking up corpses to keep them from escaping](https://www.nytimes.com/2023/09/05/science/archaeology-burial-ampires-revenants.html)
 * [2023-09-05, 04:28:19](https://news.ycombinator.com/item?id=37387870) - [Tech workers flocked to Austin. Now they're desperate to get out](https://www.businessinsider.com/tech-workers-moved-to-austin-regrets-2023-8)
+* [2023-09-05, 03:48:39](https://news.ycombinator.com/item?id=37387637) - [Global population could peak below 9B in 2050s](https://earth4all.life/news/press-release-global-population-could-peak-below-9-billion-in-2050s/)
 * [2023-09-05, 03:43:57](https://news.ycombinator.com/item?id=37387613) - [Tech workers now doubting decision to move from California to Texas](https://www.chron.com/culture/article/california-texas-tech-workers-18346616.php)
 * [2023-09-05, 03:38:52](https://news.ycombinator.com/item?id=37387585) - [Show HN: Transform any website or eBook into a research paper (no LLM required)](https://github.com/jstrieb/paperify)
 * [2023-09-05, 03:07:17](https://news.ycombinator.com/item?id=37387392) - [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
