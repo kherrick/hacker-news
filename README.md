@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-05, 03:43:57](https://news.ycombinator.com/item?id=37387613) - [Tech workers now doubting decision to move from California to Texas](https://www.chron.com/culture/article/california-texas-tech-workers-18346616.php)
 * [2023-09-05, 02:56:33](https://news.ycombinator.com/item?id=37387341) - [You have thousands of ancestors from the 1600s](https://kayce.basqu.es/blog/ancestors/)
 * [2023-09-05, 01:00:31](https://news.ycombinator.com/item?id=37386711) - [Videobug (YC S22) is hiring a founding engineer – automated snapshot testing](https://news.ycombinator.com/item?id=37386711)
 * [2023-09-05, 00:52:29](https://news.ycombinator.com/item?id=37386661) - [Farms that create habitat key to food security and biodiversity](https://news.stanford.edu/2023/09/04/farming-food-biodiversity/)
@@ -17,7 +18,6 @@
 * [2023-09-04, 16:37:43](https://news.ycombinator.com/item?id=37382117) - [Can we talk to whales?](https://www.newyorker.com/magazine/2023/09/11/can-we-talk-to-whales)
 * [2023-09-04, 15:27:59](https://news.ycombinator.com/item?id=37381407) - [Portal 64 – A demake of Portal for the Nintendo 64](https://github.com/lambertjamesd/portal64)
 * [2023-09-04, 15:15:09](https://news.ycombinator.com/item?id=37381268) - [Show HN: Keep – GitHub Actions for your monitoring tools](https://github.com/keephq/keep)
-* [2023-09-04, 14:35:50](https://news.ycombinator.com/item?id=37380863) - [Antioxidants found to spur cancer growth and metastasis in mice](https://news.ki.se/antioxidants-stimulate-blood-flow-in-tumours)
 * [2023-09-04, 13:29:17](https://news.ycombinator.com/item?id=37380270) - [Researchers have found that micro-spikes etched into titanium rupture microbes](https://newatlas.com/medical/titanium-spikes-effective-drug-free-kill-antibiotic-resistant-superbugs/)
 * [2023-09-04, 11:09:56](https://news.ycombinator.com/item?id=37379323) - [The usefulness of a memory guides where the brain saves it?](https://www.quantamagazine.org/the-usefulness-of-a-memory-guides-where-the-brain-saves-it-20230830/)
 * [2023-09-04, 11:04:51](https://news.ycombinator.com/item?id=37379297) - [The Battle over Books3](https://www.wired.com/story/battle-over-books3/)
