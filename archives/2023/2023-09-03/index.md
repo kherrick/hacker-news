@@ -54,6 +54,7 @@
 * [2023-09-03, 15:08:05](https://news.ycombinator.com/item?id=37371020) - [HTML Design Principles (2007)](https://www.w3.org/TR/html-design-principles/)
 * [2023-09-03, 14:53:21](https://news.ycombinator.com/item?id=37370900) - [Climate Change Tracker](https://climatechangetracker.org)
 * [2023-09-03, 14:47:02](https://news.ycombinator.com/item?id=37370858) - [Harry Browne’s 17 Golden Rules of Financial Safety (2013)](https://thetaoofwealth.wordpress.com/2013/02/17/harry-brownes-17-golden-rules-of-financial-safety/)
+* [2023-09-03, 14:46:48](https://news.ycombinator.com/item?id=37370855) - [Harman How to Listen (2011)](http://harmanhowtolisten.blogspot.com/)
 * [2023-09-03, 14:44:13](https://news.ycombinator.com/item?id=37370835) - [Pentax K-3 III Monochrome: A DSLR Just for B&W Photo Lovers](https://petapixel.com/2023/05/24/pentax-k-3-iii-monochrome-review-a-dslr-just-for-bw-photo-lovers/)
 * [2023-09-03, 13:55:12](https://news.ycombinator.com/item?id=37370453) - [Pesticide safety limit for salmon farms watered down after industry lobbying](https://theferret.scot/pesticide-safety-limit-industry-lobbying/)
 * [2023-09-03, 13:26:24](https://news.ycombinator.com/item?id=37370248) - [Interfaces for Prototyping Hardware](https://kevinlynagh.com/newsletter/2023_09_hardware_prototyping/)
