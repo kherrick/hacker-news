@@ -21,7 +21,7 @@
 * [2023-09-05, 03:07:17](https://news.ycombinator.com/item?id=37387392) - [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
 * [2023-09-05, 01:00:31](https://news.ycombinator.com/item?id=37386711) - [Videobug (YC S22) is hiring a founding engineer – automated snapshot testing](https://news.ycombinator.com/item?id=37386711)
 * [2023-09-05, 00:52:29](https://news.ycombinator.com/item?id=37386661) - [Farms that create habitat key to food security and biodiversity](https://news.stanford.edu/2023/09/04/farming-food-biodiversity/)
-* [2023-09-04, 21:53:33](https://news.ycombinator.com/item?id=37385468) - [What I would copy from the Pivotal interview process](https://www.simplermachines.com/what-i-would-copy-from-the-pivotal-interview-process/)
+* [2023-09-04, 19:17:37](https://news.ycombinator.com/item?id=37383913) - [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)
 * [2023-09-04, 02:16:40](https://news.ycombinator.com/item?id=37376519) - [Pad kaphrao contest seeks true taste of Thai dish](https://www.theguardian.com/world/2023/aug/27/competition-seeks-true-taste-of-thailands-national-dish)
 * [2023-09-03, 21:44:14](https://news.ycombinator.com/item?id=37374908) - [Evidence for Hipparchus’ Star Catalogue revealed by multispectral imaging (2022)](https://journals.sagepub.com/doi/10.1177/00218286221128289)
 * [2023-09-03, 14:46:48](https://news.ycombinator.com/item?id=37370855) - [Harman How to Listen (2011)](http://harmanhowtolisten.blogspot.com/)
