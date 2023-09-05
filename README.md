@@ -12,7 +12,6 @@
 * [2023-09-05, 16:34:50](https://news.ycombinator.com/item?id=37394219) - [Deno KV Is in Open Beta](https://deno.com/blog/kv-open-beta)
 * [2023-09-05, 16:33:40](https://news.ycombinator.com/item?id=37394194) - [Show HN: Bedframe – open-source Browser Extension Development framework](https://github.com/nyaggah/bedframe)
 * [2023-09-05, 16:29:32](https://news.ycombinator.com/item?id=37394109) - [The perpetual truck driver shortage is not real](https://www.freightwaves.com/news/the-perpetual-truck-driver-shortage-is-not-real)
-* [2023-09-05, 16:26:35](https://news.ycombinator.com/item?id=37394044) - [Hackers selling hacked police emails to request user data from TikTok, Facebook](https://www.404media.co/buying-and-selling-hacked-government-emails-edrs-discord-snapchat-facebook-tiktok/)
 * [2023-09-05, 16:13:09](https://news.ycombinator.com/item?id=37393820) - [Learn WebAssembly by writing small programs](https://github.com/EmNudge/watlings)
 * [2023-09-05, 15:33:34](https://news.ycombinator.com/item?id=37393099) - [Show HN: Open-source Postman alternative with type safety](https://recipeui.com/)
 * [2023-09-05, 15:07:21](https://news.ycombinator.com/item?id=37392676) - [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
@@ -29,6 +28,7 @@
 * [2023-09-05, 03:09:57](https://news.ycombinator.com/item?id=37387403) - [Homo floresiensis: a fossil that changed our understanding of the human story](https://www.cnn.com/2023/09/02/asia/homo-floresiensis-hobbit-discovery-anniversary-scn/index.html)
 * [2023-09-04, 21:49:58](https://news.ycombinator.com/item?id=37385447) - [A Test Suite for the Intel 8088](https://martypc.blogspot.com/2023/09/a-test-suite-for-intel-8088.html)
 * [2023-09-04, 06:42:24](https://news.ycombinator.com/item?id=37377772) - [GUNHED – English dub version (1989) [video]](https://archive.org/details/video.guru20200327223921241)
+* [2023-09-03, 12:33:08](https://news.ycombinator.com/item?id=37369902) - [Richard Watkins Horological Books](http://watkinsr.id.au/)
 * [2023-09-03, 11:13:32](https://news.ycombinator.com/item?id=37369450) - [Discovery of the historic Great Lakes schooner Trinidad](https://www.shipwreckworld.com/articles/discovery-of-the-historic-great-lakes-schooner-trinidad)
 
 ## [Archives](archives/index.md)

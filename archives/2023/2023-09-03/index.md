@@ -63,6 +63,7 @@
 * [2023-09-03, 13:17:03](https://news.ycombinator.com/item?id=37370170) - [Sag-AFTRA votes unanimously to expand its strike to include the games industry](https://www.eurogamer.net/sag-aftra-votes-unanimously-to-expand-its-strike-to-include-the-games-industry)
 * [2023-09-03, 12:58:22](https://news.ycombinator.com/item?id=37370051) - [Ongoing Chialisp Development](https://bramcohen.com/p/ongoing-chialisp-development)
 * [2023-09-03, 12:39:46](https://news.ycombinator.com/item?id=37369946) - [Jetbrains are offering 65% off Rider personal licenses for 65 hours](https://lp.jetbrains.com/rider-65-discount/)
+* [2023-09-03, 12:33:08](https://news.ycombinator.com/item?id=37369902) - [Richard Watkins Horological Books](http://watkinsr.id.au/)
 * [2023-09-03, 12:22:35](https://news.ycombinator.com/item?id=37369826) - [The Raft Consensus Algorithm](https://raft.github.io)
 * [2023-09-03, 12:07:06](https://news.ycombinator.com/item?id=37369732) - [Do we think about vector storage completely wrong?](https://hachyderm.io/@softwaredoug/111000936722843110)
 * [2023-09-03, 12:00:21](https://news.ycombinator.com/item?id=37369698) - [Replit (YC W18) Is Hiring Engineers in AI, Platform, and Product](https://replit.com/site/careers)
