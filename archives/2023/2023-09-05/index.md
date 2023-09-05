@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-09-05](index.md)
 
+* [2023-09-05, 17:01:23](https://news.ycombinator.com/item?id=37394665) - [Rockstar is selling cracked game copies on Steam](https://twitter.com/__silent_/status/1698345924840296801)
 * [2023-09-05, 17:01:15](https://news.ycombinator.com/item?id=37394664) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-09-05, 16:37:55](https://news.ycombinator.com/item?id=37394275) - [GitHub Is Down](https://www.githubstatus.com/incidents/smdz34v7j8q0)
+* [2023-09-05, 16:33:40](https://news.ycombinator.com/item?id=37394194) - [Show HN: Bedframe – open-source Browser Extension Development framework](https://github.com/nyaggah/bedframe)
+* [2023-09-05, 16:26:35](https://news.ycombinator.com/item?id=37394044) - [Hackers Selling Hacked Police Emails to Request User Data from TikTok, Facebook](https://www.404media.co/buying-and-selling-hacked-government-emails-edrs-discord-snapchat-facebook-tiktok/)
 * [2023-09-05, 16:21:20](https://news.ycombinator.com/item?id=37393971) - [Reading for Pleasure Helps Kids’ Brain Development](https://theconversation.com/poverty-is-linked-to-poorer-brain-development-but-reading-can-help-counteract-it-208966)
 * [2023-09-05, 16:13:09](https://news.ycombinator.com/item?id=37393820) - [Learn WebAssembly by writing small programs](https://github.com/EmNudge/watlings)
 * [2023-09-05, 16:03:13](https://news.ycombinator.com/item?id=37393652) - [Czech scientists confirm the existence of the π-hole in molecules](https://www.avcr.cz/en/news-archive/Czech-scientists-confirm-the-existence-of-the-hole-in-molecules-proving-a-decades-old-theory/)
