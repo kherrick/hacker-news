@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-05, 20:36:20](https://news.ycombinator.com/item?id=37397359) - [deVStudio – Runs VS Code on Android](https://play.google.com/store/apps/details?id=tech.ula.devstudio&hl=en_US)
+* [2023-09-05, 20:33:18](https://news.ycombinator.com/item?id=37397323) - [When deployments are easy, code becomes simpler](https://bitbytebit.substack.com/p/when-deployments-are-easy-code-becomes)
 * [2023-09-05, 19:21:59](https://news.ycombinator.com/item?id=37396479) - [Forming an Edge](https://www.scopeofwork.net/forming-an-edge/)
 * [2023-09-05, 18:49:03](https://news.ycombinator.com/item?id=37396041) - [Google and The Online Slang Dictionary (2020)](http://onlineslangdictionary.com/pages/google-panda-penalty/)
 * [2023-09-05, 17:55:29](https://news.ycombinator.com/item?id=37395370) - [Klack – Satisfying sound with every keystroke](https://tryklack.com/)
@@ -16,7 +18,6 @@
 * [2023-09-05, 15:33:34](https://news.ycombinator.com/item?id=37393099) - [Show HN: Open-source Postman alternative with type safety](https://recipeui.com/)
 * [2023-09-05, 15:07:21](https://news.ycombinator.com/item?id=37392676) - [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
 * [2023-09-05, 15:00:30](https://news.ycombinator.com/item?id=37392581) - [OpenTF repository is now public](https://github.com/opentffoundation/opentf)
-* [2023-09-05, 14:22:20](https://news.ycombinator.com/item?id=37392040) - [Zv/9Problems: A Tiling Window Manager for Plan9](https://github.com/zv/9Problems)
 * [2023-09-05, 14:20:44](https://news.ycombinator.com/item?id=37392013) - [Show HN: Pgs.sh – A zero-dependency static site hosting service for hackers](https://pgs.sh)
 * [2023-09-05, 14:08:34](https://news.ycombinator.com/item?id=37391848) - [Show HN: Puck – Open-source visual editor for React](https://github.com/measuredco/puck)
 * [2023-09-05, 13:47:57](https://news.ycombinator.com/item?id=37391584) - [The Federal Helium reserve is for sale](https://disposal.gsa.gov/s/property/a0Xt000000DPeSLEA1/federal-helium-system-and-800-million-cubic-ft-of-crude-helium)
@@ -27,7 +28,6 @@
 * [2023-09-05, 04:07:46](https://news.ycombinator.com/item?id=37387731) - [Diamond prices are in free fall in one key corner of the market](https://www.bloomberg.com/news/articles/2023-09-03/lab-grown-gems-are-crashing-prices-for-one-key-type-of-diamond)
 * [2023-09-05, 03:09:57](https://news.ycombinator.com/item?id=37387403) - [Homo floresiensis: a fossil that changed our understanding of the human story](https://www.cnn.com/2023/09/02/asia/homo-floresiensis-hobbit-discovery-anniversary-scn/index.html)
 * [2023-09-04, 21:49:58](https://news.ycombinator.com/item?id=37385447) - [A Test Suite for the Intel 8088](https://martypc.blogspot.com/2023/09/a-test-suite-for-intel-8088.html)
-* [2023-09-04, 06:42:24](https://news.ycombinator.com/item?id=37377772) - [GUNHED – English dub version (1989) [video]](https://archive.org/details/video.guru20200327223921241)
 * [2023-09-03, 12:33:08](https://news.ycombinator.com/item?id=37369902) - [Richard Watkins Horological Books](http://watkinsr.id.au/)
 * [2023-09-03, 11:13:32](https://news.ycombinator.com/item?id=37369450) - [Discovery of the historic Great Lakes schooner Trinidad](https://www.shipwreckworld.com/articles/discovery-of-the-historic-great-lakes-schooner-trinidad)
 
