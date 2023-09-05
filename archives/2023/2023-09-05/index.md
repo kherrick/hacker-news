@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-05](index.md)
 
 * [2023-09-05, 17:55:29](https://news.ycombinator.com/item?id=37395370) - [Klack – Satisfying sound with every keystroke](https://tryklack.com/)
+* [2023-09-05, 17:33:35](https://news.ycombinator.com/item?id=37395096) - [If you can use open source, you can build hardware](https://redeem-tomorrow.com/if-you-can-use-open-source-you-can-build-hardware)
 * [2023-09-05, 17:24:28](https://news.ycombinator.com/item?id=37394979) - [Browse Websites by Fonts](https://maxibestof.one/typefaces)
 * [2023-09-05, 17:01:23](https://news.ycombinator.com/item?id=37394665) - [Rockstar is selling cracked game copies on Steam](https://twitter.com/__silent_/status/1698345924840296801)
 * [2023-09-05, 17:01:15](https://news.ycombinator.com/item?id=37394664) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
