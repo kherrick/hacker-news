@@ -24,10 +24,10 @@
 * [2023-09-05, 13:42:57](https://news.ycombinator.com/item?id=37391521) - [Android 14 blocks all modification of system certificates, even as root](https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/)
 * [2023-09-05, 13:21:13](https://news.ycombinator.com/item?id=37391272) - [Launch HN: Nullstone (YC W22) – An easier way to deploy and manage cloud apps](https://news.ycombinator.com/item?id=37391272)
 * [2023-09-05, 13:13:34](https://news.ycombinator.com/item?id=37391161) - [Learn Physics with Functional Programming](https://nostarch.com/learn-physics-functional-programming)
-* [2023-09-05, 12:49:10](https://news.ycombinator.com/item?id=37390941) - [Mastering curl: interactive text guide](https://antonz.org/mastering-curl/)
 * [2023-09-05, 11:04:51](https://news.ycombinator.com/item?id=37390184) - [A currently maintained fork of SSHFS](https://github.com/deadbeefsociety/sshfs)
 * [2023-09-05, 08:53:13](https://news.ycombinator.com/item?id=37389376) - [Amiga Systems Programming in 2023](https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023/)
 * [2023-09-04, 14:08:55](https://news.ycombinator.com/item?id=37380621) - [André van Schaik Discusses New Neuromorphic Simulator](https://www.eetimes.com/podcasts/andre-van-schaik-discusses-new-neuromorphic-simulator/)
+* [2023-09-04, 06:42:24](https://news.ycombinator.com/item?id=37377772) - [Gunhed – English dub version (1989) [video]](https://archive.org/details/video.guru20200327223921241)
 * [2023-09-03, 21:44:14](https://news.ycombinator.com/item?id=37374908) - [Evidence for Hipparchus’ Star Catalogue revealed by multispectral imaging (2022)](https://journals.sagepub.com/doi/10.1177/00218286221128289)
 * [2023-09-03, 12:07:06](https://news.ycombinator.com/item?id=37369732) - [Do we think about vector storage completely wrong?](https://hachyderm.io/@softwaredoug/111000936722843110)
 
