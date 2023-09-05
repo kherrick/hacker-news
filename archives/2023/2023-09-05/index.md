@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-05](index.md)
 
+* [2023-09-05, 07:17:39](https://news.ycombinator.com/item?id=37388816) - [“Piercing the Unknown” (IBM)](https://www.youtube.com/watch?v=dAnbb8ZEkBk)
 * [2023-09-05, 06:47:56](https://news.ycombinator.com/item?id=37388639) - [Microsoft blames outage on small staff, automation failures](https://www.theregister.com/2023/09/04/microsoft_australia_outage_incident_report/)
 * [2023-09-05, 06:35:09](https://news.ycombinator.com/item?id=37388560) - [Learn COBOL in 1 Day](https://www.microfocus.com/en-us/cobol)
 * [2023-09-05, 05:18:58](https://news.ycombinator.com/item?id=37388146) - [All About USB-C: Example Circuits](https://hackaday.com/2023/08/07/all-about-usb-c-example-circuits/)
