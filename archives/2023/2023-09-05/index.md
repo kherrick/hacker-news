@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-05](index.md)
 
+* [2023-09-05, 05:16:12](https://news.ycombinator.com/item?id=37388132) - [SolidUI AI-Generated Graphic Models v0.3.0 Proposal](https://github.com/CloudOrc/SolidUI/issues/46)
+* [2023-09-05, 04:28:19](https://news.ycombinator.com/item?id=37387870) - [Tech workers flocked to Austin. Now they're desperate to get out](https://www.businessinsider.com/tech-workers-moved-to-austin-regrets-2023-8)
 * [2023-09-05, 03:43:57](https://news.ycombinator.com/item?id=37387613) - [Tech workers now doubting decision to move from California to Texas](https://www.chron.com/culture/article/california-texas-tech-workers-18346616.php)
 * [2023-09-05, 03:07:17](https://news.ycombinator.com/item?id=37387392) - [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
 * [2023-09-05, 02:58:30](https://news.ycombinator.com/item?id=37387350) - [Non-gas giant has 73 times Earth’s mass, bewildering its discoverers](https://arstechnica.com/science/2023/08/we-dont-understand-how-a-freakishly-heavy-exoplanet-could-have-formed/)

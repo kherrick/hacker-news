@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-05, 05:16:12](https://news.ycombinator.com/item?id=37388132) - [SolidUI AI-Generated Graphic Models v0.3.0 Proposal](https://github.com/CloudOrc/SolidUI/issues/46)
+* [2023-09-05, 04:28:19](https://news.ycombinator.com/item?id=37387870) - [Tech workers flocked to Austin. Now they're desperate to get out](https://www.businessinsider.com/tech-workers-moved-to-austin-regrets-2023-8)
 * [2023-09-05, 03:07:17](https://news.ycombinator.com/item?id=37387392) - [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
 * [2023-09-05, 02:14:16](https://news.ycombinator.com/item?id=37387110) - [We Do Not Know the Population of Every Country for the Past 2k Years](https://www.cambridge.org/core/journals/journal-of-economic-history/article/we-do-not-know-the-population-of-every-country-in-the-world-for-the-past-two-thousand-years/D747DDC6E499C799B0471DBE33FEB0BB)
 * [2023-09-05, 01:00:31](https://news.ycombinator.com/item?id=37386711) - [Videobug (YC S22) is hiring a founding engineer – automated snapshot testing](https://news.ycombinator.com/item?id=37386711)
@@ -12,7 +14,6 @@
 * [2023-09-04, 19:17:37](https://news.ycombinator.com/item?id=37383913) - [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)
 * [2023-09-04, 19:00:47](https://news.ycombinator.com/item?id=37383749) - [Spectrolite – Mac app to make colorful risograph prints and zines more easily](https://spectrolite.app)
 * [2023-09-04, 18:31:56](https://news.ycombinator.com/item?id=37383413) - [Chinchilla’s death](https://espadrine.github.io/blog/posts/chinchilla-s-death.html)
-* [2023-09-04, 18:17:21](https://news.ycombinator.com/item?id=37383283) - [Tidal energy is not renewable](https://cs.stanford.edu/people/zjl/tide.html)
 * [2023-09-04, 18:13:14](https://news.ycombinator.com/item?id=37383245) - [Geo Guesser identifies the location and seat number from an aerial shot](https://twitter.com/georainbolt/status/1698553197684777069)
 * [2023-09-04, 17:35:07](https://news.ycombinator.com/item?id=37382813) - [Mechanisms of scent-tracking in humans (2006)](https://www.nature.com/articles/nn1819)
 * [2023-09-04, 16:37:43](https://news.ycombinator.com/item?id=37382117) - [Can we talk to whales?](https://www.newyorker.com/magazine/2023/09/11/can-we-talk-to-whales)
@@ -26,7 +27,6 @@
 * [2023-09-03, 08:03:32](https://news.ycombinator.com/item?id=37368597) - [Black Art of 3D Game Programming (1995)](https://archive.org/details/BlackArt3DEBook)
 * [2023-09-03, 06:51:50](https://news.ycombinator.com/item?id=37368254) - [Become an expert in something specific and boring](https://forum.effectivealtruism.org/posts/J7nmbqcWncPMZFhGC/want-to-make-a-difference-on-policy-and-governance-become-an)
 * [2023-09-03, 06:24:13](https://news.ycombinator.com/item?id=37368148) - [So you want to modify the text of a PDF by hand (2020)](https://gist.github.com/senderle/8ad6aae251c4ddf9424f8a05dd0e8c18)
-* [2023-09-03, 03:38:33](https://news.ycombinator.com/item?id=37367514) - [How the Mystical Poetry of Rumi Drew Me Away from Christianity](https://steemit.com/ecotrain/@mountainjewel/longing-how-the-mystical-poetry-of-rumi-drew-me-away-from-christianity)
 * [2023-09-03, 02:03:14](https://news.ycombinator.com/item?id=37367089) - [Refurb weekend: PowerBook Duo 2300c](http://oldvcr.blogspot.com/2023/09/refurb-weekend-powerbook-duo-2300c.html)
 * [2023-09-02, 21:39:39](https://news.ycombinator.com/item?id=37365764) - [1985 New Tech Times on counterfeit Apple II computers [video]](https://www.youtube.com/watch?v=RFjGq55BglM)
 * [2023-09-02, 21:38:13](https://news.ycombinator.com/item?id=37365752) - [A Company of One](https://rishad.substack.com/p/a-company-of-one)
