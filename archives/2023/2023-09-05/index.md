@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-05](index.md)
 
+* [2023-09-05, 16:37:55](https://news.ycombinator.com/item?id=37394275) - [GitHub Is Down](https://www.githubstatus.com/incidents/smdz34v7j8q0)
+* [2023-09-05, 16:13:09](https://news.ycombinator.com/item?id=37393820) - [Learn WebAssembly by writing small programs](https://github.com/EmNudge/watlings)
 * [2023-09-05, 16:03:13](https://news.ycombinator.com/item?id=37393652) - [Czech scientists confirm the existence of the π-hole in molecules](https://www.avcr.cz/en/news-archive/Czech-scientists-confirm-the-existence-of-the-hole-in-molecules-proving-a-decades-old-theory/)
+* [2023-09-05, 15:55:52](https://news.ycombinator.com/item?id=37393502) - [Disgraced Harvard professor sued them for millions. Their recourse: GoFundMe](https://www.vox.com/future-perfect/23841742/francesca-gino-data-colada-lawsuit-gofundme-science-culture-transparency-academic-fraud-dishonesty)
 * [2023-09-05, 15:52:14](https://news.ycombinator.com/item?id=37393452) - [Where Did the QWERTY Keyboard Come From?](https://www.smithsonianmag.com/innovation/origins-qwerty-keyboard-typewriter-180982726/)
 * [2023-09-05, 15:49:40](https://news.ycombinator.com/item?id=37393399) - [Why furniture got so bad](https://www.washingtonpost.com/home/2023/09/05/new-furniture-quality-doesnt-last/)
 * [2023-09-05, 15:32:07](https://news.ycombinator.com/item?id=37393073) - [Study shows over time, ChatGPT lost accuracy](https://fortune.com/2023/07/19/chatgpt-accuracy-stanford-study/)
@@ -50,6 +53,7 @@
 * [2023-09-05, 03:48:39](https://news.ycombinator.com/item?id=37387637) - [Global population could peak below 9B in 2050s](https://earth4all.life/news/press-release-global-population-could-peak-below-9-billion-in-2050s/)
 * [2023-09-05, 03:43:57](https://news.ycombinator.com/item?id=37387613) - [Tech workers now doubting decision to move from California to Texas](https://www.chron.com/culture/article/california-texas-tech-workers-18346616.php)
 * [2023-09-05, 03:38:52](https://news.ycombinator.com/item?id=37387585) - [Show HN: Transform any website or eBook into a research paper (no LLM required)](https://github.com/jstrieb/paperify)
+* [2023-09-05, 03:09:57](https://news.ycombinator.com/item?id=37387403) - [The remarkable fossil that changed our understanding of the human story](https://www.cnn.com/2023/09/02/asia/homo-floresiensis-hobbit-discovery-anniversary-scn/index.html)
 * [2023-09-05, 03:07:17](https://news.ycombinator.com/item?id=37387392) - [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
 * [2023-09-05, 02:58:30](https://news.ycombinator.com/item?id=37387350) - [Non-gas giant has 73 times Earth’s mass, bewildering its discoverers](https://arstechnica.com/science/2023/08/we-dont-understand-how-a-freakishly-heavy-exoplanet-could-have-formed/)
 * [2023-09-05, 02:56:33](https://news.ycombinator.com/item?id=37387341) - [You have thousands of ancestors from the 1600s](https://kayce.basqu.es/blog/ancestors/)
