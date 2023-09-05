@@ -25,6 +25,7 @@
 * [2023-09-05, 15:55:52](https://news.ycombinator.com/item?id=37393502) - [Disgraced Harvard professor sued them for millions. Their recourse: GoFundMe](https://www.vox.com/future-perfect/23841742/francesca-gino-data-colada-lawsuit-gofundme-science-culture-transparency-academic-fraud-dishonesty)
 * [2023-09-05, 15:52:14](https://news.ycombinator.com/item?id=37393452) - [Where Did the QWERTY Keyboard Come From?](https://www.smithsonianmag.com/innovation/origins-qwerty-keyboard-typewriter-180982726/)
 * [2023-09-05, 15:49:40](https://news.ycombinator.com/item?id=37393399) - [Why furniture got so bad](https://www.washingtonpost.com/home/2023/09/05/new-furniture-quality-doesnt-last/)
+* [2023-09-05, 15:33:34](https://news.ycombinator.com/item?id=37393099) - [Show HN: Open-source Postman alternative with type safety](https://recipeui.com/)
 * [2023-09-05, 15:32:07](https://news.ycombinator.com/item?id=37393073) - [Study shows over time, ChatGPT lost accuracy](https://fortune.com/2023/07/19/chatgpt-accuracy-stanford-study/)
 * [2023-09-05, 15:07:21](https://news.ycombinator.com/item?id=37392676) - [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
 * [2023-09-05, 15:02:27](https://news.ycombinator.com/item?id=37392612) - [California and Florida grew quickly on the promise of perfect climates](https://theconversation.com/california-and-florida-grew-quickly-on-the-promise-of-perfect-climates-in-the-1900s-today-they-lead-the-country-in-climate-change-risks-207470)
