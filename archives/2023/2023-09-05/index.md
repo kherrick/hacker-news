@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-09-05](index.md)
 
+* [2023-09-05, 15:32:07](https://news.ycombinator.com/item?id=37393073) - [Study shows over time, ChatGPT lost accuracy](https://fortune.com/2023/07/19/chatgpt-accuracy-stanford-study/)
 * [2023-09-05, 15:07:21](https://news.ycombinator.com/item?id=37392676) - [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
 * [2023-09-05, 15:02:27](https://news.ycombinator.com/item?id=37392612) - [California and Florida grew quickly on the promise of perfect climates](https://theconversation.com/california-and-florida-grew-quickly-on-the-promise-of-perfect-climates-in-the-1900s-today-they-lead-the-country-in-climate-change-risks-207470)
 * [2023-09-05, 15:01:27](https://news.ycombinator.com/item?id=37392598) - [Google Meet’s new AI will be able to go to meetings for you](https://www.theverge.com/2023/8/29/23849056/google-meet-ai-duet-attend-for-me)
+* [2023-09-05, 15:00:10](https://news.ycombinator.com/item?id=37392576) - [The Cyber Security Glossary](https://tryhackme.com/r/glossary)
 * [2023-09-05, 14:50:00](https://news.ycombinator.com/item?id=37392435) - [Apple to Launch 'Low-Cost' MacBook Series Next Year to Rival Chromebooks](https://www.macrumors.com/2023/09/05/apple-low-cost-macbook-rival-chromebook/)
 * [2023-09-05, 14:26:44](https://news.ycombinator.com/item?id=37392121) - [Revealed: US pro-birth conference’s links to far-right eugenicists](https://www.theguardian.com/us-news/2023/sep/04/natal-conference-austin-texas-eugenics)
 * [2023-09-05, 14:15:07](https://news.ycombinator.com/item?id=37391934) - [ZSA Voyager: Low profile split keyboard](https://www.zsa.io/voyager/)
 * [2023-09-05, 14:08:34](https://news.ycombinator.com/item?id=37391848) - [Show HN: An open source visual editor for React](https://github.com/measuredco/puck)
+* [2023-09-05, 13:47:57](https://news.ycombinator.com/item?id=37391584) - [The Federal Helium reserve is for sale](https://disposal.gsa.gov/s/property/a0Xt000000DPeSLEA1/federal-helium-system-and-800-million-cubic-ft-of-crude-helium)
 * [2023-09-05, 13:46:48](https://news.ycombinator.com/item?id=37391573) - [France prepares to ban vegetarian products from using meaty language](https://www.theguardian.com/world/2023/sep/05/france-prepares-to-ban-vegetarian-products-from-using-meaty-language)
 * [2023-09-05, 13:42:57](https://news.ycombinator.com/item?id=37391521) - [Android 14 blocks all modification of system certificates, even as root](https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/)
 * [2023-09-05, 13:28:52](https://news.ycombinator.com/item?id=37391365) - [Australian MPs to lobby US to drop Julian Assange prosecution](https://www.theguardian.com/australia-news/2023/sep/05/australian-mps-to-lobby-us-to-drop-julian-assange-prosecution-or-risk-very-dangerous-precedent-for-russia-and-china)
