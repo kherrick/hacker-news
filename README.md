@@ -2,8 +2,9 @@
 
 * [2023-09-05, 06:35:09](https://news.ycombinator.com/item?id=37388560) - [Learn COBOL in 1 Day](https://www.microfocus.com/en-us/cobol)
 * [2023-09-05, 05:18:58](https://news.ycombinator.com/item?id=37388146) - [All About USB-C: Example Circuits](https://hackaday.com/2023/08/07/all-about-usb-c-example-circuits/)
+* [2023-09-05, 04:56:59](https://news.ycombinator.com/item?id=37388042) - [Turning two lives into one, or, things that worry me about Bess, after I’m gone](https://jakeseliger.com/2023/08/30/turning-two-lives-into-one-or-things-that-worry-me-about-bess-after-im-gone/)
 * [2023-09-05, 04:30:22](https://news.ycombinator.com/item?id=37387878) - [Locking up corpses to keep them from escaping](https://www.nytimes.com/2023/09/05/science/archaeology-burial-ampires-revenants.html)
-* [2023-09-05, 04:28:19](https://news.ycombinator.com/item?id=37387870) - [Tech workers flocked to Austin. Now they're desperate to get out](https://www.businessinsider.com/tech-workers-moved-to-austin-regrets-2023-8)
+* [2023-09-05, 03:38:52](https://news.ycombinator.com/item?id=37387585) - [Show HN: Transform any website or eBook into a research paper (no LLM required)](https://github.com/jstrieb/paperify)
 * [2023-09-05, 03:07:17](https://news.ycombinator.com/item?id=37387392) - [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
 * [2023-09-05, 02:14:16](https://news.ycombinator.com/item?id=37387110) - [We Do Not Know the Population of Every Country for the Past 2k Years](https://www.cambridge.org/core/journals/journal-of-economic-history/article/we-do-not-know-the-population-of-every-country-in-the-world-for-the-past-two-thousand-years/D747DDC6E499C799B0471DBE33FEB0BB)
 * [2023-09-05, 01:00:31](https://news.ycombinator.com/item?id=37386711) - [Videobug (YC S22) is hiring a founding engineer – automated snapshot testing](https://news.ycombinator.com/item?id=37386711)
@@ -24,7 +25,6 @@
 * [2023-09-04, 02:16:40](https://news.ycombinator.com/item?id=37376519) - [Pad kaphrao contest seeks true taste of Thai dish](https://www.theguardian.com/world/2023/aug/27/competition-seeks-true-taste-of-thailands-national-dish)
 * [2023-09-03, 12:58:22](https://news.ycombinator.com/item?id=37370051) - [Ongoing Chialisp Development](https://bramcohen.com/p/ongoing-chialisp-development)
 * [2023-09-03, 11:11:55](https://news.ycombinator.com/item?id=37369440) - [The Social Life of Bats](https://nautil.us/the-social-life-of-bats-373018/)
-* [2023-09-03, 11:08:04](https://news.ycombinator.com/item?id=37369416) - [Just Build It...](https://blog.stephaniestimac.com/posts/2023/09/just-build-it/)
 * [2023-09-03, 10:19:03](https://news.ycombinator.com/item?id=37369193) - [Open source screw counting machine](https://github.com/Indystrycc/OpenScrewCounter)
 * [2023-09-03, 06:24:13](https://news.ycombinator.com/item?id=37368148) - [So you want to modify the text of a PDF by hand (2020)](https://gist.github.com/senderle/8ad6aae251c4ddf9424f8a05dd0e8c18)
 * [2023-09-03, 02:03:14](https://news.ycombinator.com/item?id=37367089) - [Refurb weekend: PowerBook Duo 2300c](http://oldvcr.blogspot.com/2023/09/refurb-weekend-powerbook-duo-2300c.html)
