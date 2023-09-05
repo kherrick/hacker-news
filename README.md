@@ -5,7 +5,7 @@
 * [2023-09-05, 11:04:51](https://news.ycombinator.com/item?id=37390184) - [A currently maintained fork of SSHFS](https://github.com/deadbeefsociety/sshfs)
 * [2023-09-05, 10:51:25](https://news.ycombinator.com/item?id=37390108) - [HuggingFace Training Cluster as a Service](https://huggingface.co/training-cluster)
 * [2023-09-05, 08:53:13](https://news.ycombinator.com/item?id=37389376) - [Amiga Systems Programming in 2023](https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023/)
-* [2023-09-05, 08:50:48](https://news.ycombinator.com/item?id=37389361) - [What Is a Flop?](https://nhigham.com/2023/09/05/what-is-a-flop/)
+* [2023-09-05, 08:50:48](https://news.ycombinator.com/item?id=37389361) - [What is a flop?](https://nhigham.com/2023/09/05/what-is-a-flop/)
 * [2023-09-05, 05:18:58](https://news.ycombinator.com/item?id=37388146) - [All About USB-C: Example Circuits](https://hackaday.com/2023/08/07/all-about-usb-c-example-circuits/)
 * [2023-09-05, 03:38:52](https://news.ycombinator.com/item?id=37387585) - [Show HN: Transform any website or eBook into a research paper (no LLM required)](https://github.com/jstrieb/paperify)
 * [2023-09-05, 03:07:17](https://news.ycombinator.com/item?id=37387392) - [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
@@ -29,7 +29,7 @@
 * [2023-09-03, 06:24:13](https://news.ycombinator.com/item?id=37368148) - [So you want to modify the text of a PDF by hand (2020)](https://gist.github.com/senderle/8ad6aae251c4ddf9424f8a05dd0e8c18)
 * [2023-09-03, 02:03:14](https://news.ycombinator.com/item?id=37367089) - [Refurb weekend: PowerBook Duo 2300c](http://oldvcr.blogspot.com/2023/09/refurb-weekend-powerbook-duo-2300c.html)
 * [2023-09-03, 01:54:27](https://news.ycombinator.com/item?id=37367056) - [Altmetrics: A Manifesto (2011)](http://altmetrics.org/manifesto/)
-* [2023-09-02, 21:39:39](https://news.ycombinator.com/item?id=37365764) - [1985 New Tech Times on counterfeit Apple II computers [video]](https://www.youtube.com/watch?v=RFjGq55BglM)
+* [2023-09-02, 21:39:39](https://news.ycombinator.com/item?id=37365764) - [Counterfeit Apple II computers (1985) [video]](https://www.youtube.com/watch?v=RFjGq55BglM)
 
 ## [Archives](archives/index.md)
 
