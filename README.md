@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-05, 14:08:34](https://news.ycombinator.com/item?id=37391848) - [Show HN: An open source visual editor for React](https://github.com/measuredco/puck)
-* [2023-09-05, 13:46:48](https://news.ycombinator.com/item?id=37391573) - [France prepares to ban vegetarian products from using meaty language](https://www.theguardian.com/world/2023/sep/05/france-prepares-to-ban-vegetarian-products-from-using-meaty-language)
 * [2023-09-05, 13:42:57](https://news.ycombinator.com/item?id=37391521) - [Android 14 blocks all modification of system certificates, even as root](https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/)
 * [2023-09-05, 13:28:52](https://news.ycombinator.com/item?id=37391365) - [Australian MPs to lobby US to drop Julian Assange prosecution](https://www.theguardian.com/australia-news/2023/sep/05/australian-mps-to-lobby-us-to-drop-julian-assange-prosecution-or-risk-very-dangerous-precedent-for-russia-and-china)
 * [2023-09-05, 13:21:13](https://news.ycombinator.com/item?id=37391272) - [Launch HN: Nullstone (YC W22) – An easier way to deploy and manage cloud apps](https://news.ycombinator.com/item?id=37391272)
@@ -26,6 +25,7 @@
 * [2023-09-03, 14:46:48](https://news.ycombinator.com/item?id=37370855) - [Harman How to Listen (2011)](http://harmanhowtolisten.blogspot.com/)
 * [2023-09-03, 14:44:13](https://news.ycombinator.com/item?id=37370835) - [Pentax K-3 III Monochrome: A DSLR Just for B&W Photo Lovers](https://petapixel.com/2023/05/24/pentax-k-3-iii-monochrome-review-a-dslr-just-for-bw-photo-lovers/)
 * [2023-09-03, 12:07:06](https://news.ycombinator.com/item?id=37369732) - [Do we think about vector storage completely wrong?](https://hachyderm.io/@softwaredoug/111000936722843110)
+* [2023-09-03, 11:20:11](https://news.ycombinator.com/item?id=37369490) - [How to Get into Film Photography (and Why You Should)](https://www.404media.co/how-and-why-to-get-into-film-photography/)
 * [2023-09-03, 11:13:32](https://news.ycombinator.com/item?id=37369450) - [19th-century shipwreck discovered in Lake Michigan](https://www.theguardian.com/us-news/2023/sep/02/shipwreck-trinidad-lake-michigan-wisconsin)
 * [2023-09-03, 11:11:55](https://news.ycombinator.com/item?id=37369440) - [The Social Life of Bats](https://nautil.us/the-social-life-of-bats-373018/)
 * [2023-09-03, 01:54:27](https://news.ycombinator.com/item?id=37367056) - [Altmetrics: A Manifesto (2011)](http://altmetrics.org/manifesto/)
