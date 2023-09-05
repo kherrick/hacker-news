@@ -2,7 +2,6 @@
 
 * [2023-09-05, 19:21:59](https://news.ycombinator.com/item?id=37396479) - [Forming an Edge](https://www.scopeofwork.net/forming-an-edge/)
 * [2023-09-05, 18:49:03](https://news.ycombinator.com/item?id=37396041) - [Google and The Online Slang Dictionary (2020)](http://onlineslangdictionary.com/pages/google-panda-penalty/)
-* [2023-09-05, 18:24:48](https://news.ycombinator.com/item?id=37395751) - [Therapy isn't fixing America's mental health crisis](https://time.com/6308096/therapy-mental-health-worse-us/)
 * [2023-09-05, 17:55:29](https://news.ycombinator.com/item?id=37395370) - [Klack – Satisfying sound with every keystroke](https://tryklack.com/)
 * [2023-09-05, 17:39:08](https://news.ycombinator.com/item?id=37395168) - [Mentra aims to match neurodivergent jobseekers with jobs](https://techcrunch.com/2023/09/05/sam-altman-backed-startup-aims-to-match-neurodivergent-jobseekers-with-ideal-jobs/)
 * [2023-09-05, 17:33:35](https://news.ycombinator.com/item?id=37395096) - [If you can use open source, you can build hardware](https://redeem-tomorrow.com/if-you-can-use-open-source-you-can-build-hardware)
@@ -13,6 +12,7 @@
 * [2023-09-05, 16:34:50](https://news.ycombinator.com/item?id=37394219) - [Deno KV Is in Open Beta](https://deno.com/blog/kv-open-beta)
 * [2023-09-05, 16:33:40](https://news.ycombinator.com/item?id=37394194) - [Show HN: Bedframe – open-source Browser Extension Development framework](https://github.com/nyaggah/bedframe)
 * [2023-09-05, 16:29:32](https://news.ycombinator.com/item?id=37394109) - [The perpetual truck driver shortage is not real](https://www.freightwaves.com/news/the-perpetual-truck-driver-shortage-is-not-real)
+* [2023-09-05, 16:26:35](https://news.ycombinator.com/item?id=37394044) - [Hackers selling hacked police emails to request user data from TikTok, Facebook](https://www.404media.co/buying-and-selling-hacked-government-emails-edrs-discord-snapchat-facebook-tiktok/)
 * [2023-09-05, 16:13:09](https://news.ycombinator.com/item?id=37393820) - [Learn WebAssembly by writing small programs](https://github.com/EmNudge/watlings)
 * [2023-09-05, 15:33:34](https://news.ycombinator.com/item?id=37393099) - [Show HN: Open-source Postman alternative with type safety](https://recipeui.com/)
 * [2023-09-05, 15:07:21](https://news.ycombinator.com/item?id=37392676) - [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
