@@ -9,6 +9,7 @@
 * [2023-09-05, 15:02:27](https://news.ycombinator.com/item?id=37392612) - [California and Florida grew quickly on the promise of perfect climates](https://theconversation.com/california-and-florida-grew-quickly-on-the-promise-of-perfect-climates-in-the-1900s-today-they-lead-the-country-in-climate-change-risks-207470)
 * [2023-09-05, 15:01:27](https://news.ycombinator.com/item?id=37392598) - [Google Meet’s new AI will be able to go to meetings for you](https://www.theverge.com/2023/8/29/23849056/google-meet-ai-duet-attend-for-me)
 * [2023-09-05, 15:00:10](https://news.ycombinator.com/item?id=37392576) - [The Cyber Security Glossary](https://tryhackme.com/r/glossary)
+* [2023-09-05, 14:55:43](https://news.ycombinator.com/item?id=37392517) - [Go to Chrome://settings/adPrivacy to turn off the spyware that in Chrome](https://twitter.com/paulg/status/1699021936573940154)
 * [2023-09-05, 14:50:00](https://news.ycombinator.com/item?id=37392435) - [Apple to Launch 'Low-Cost' MacBook Series Next Year to Rival Chromebooks](https://www.macrumors.com/2023/09/05/apple-low-cost-macbook-rival-chromebook/)
 * [2023-09-05, 14:26:44](https://news.ycombinator.com/item?id=37392121) - [Revealed: US pro-birth conference’s links to far-right eugenicists](https://www.theguardian.com/us-news/2023/sep/04/natal-conference-austin-texas-eugenics)
 * [2023-09-05, 14:15:07](https://news.ycombinator.com/item?id=37391934) - [ZSA Voyager: Low profile split keyboard](https://www.zsa.io/voyager/)
