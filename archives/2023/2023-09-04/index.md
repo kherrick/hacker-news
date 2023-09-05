@@ -10,6 +10,7 @@
 * [2023-09-04, 22:51:41](https://news.ycombinator.com/item?id=37385920) - [Multiple Notepad++ Flaws Let Attackers Execute Arbitrary Code](https://cybersecuritynews.com/multiple-notepad-flaw/)
 * [2023-09-04, 22:38:37](https://news.ycombinator.com/item?id=37385811) - [Oscilloscope watch ships after 10 years on kickstarter](https://www.tomshardware.com/news/oscilloscope-watch-ships-after-10-years)
 * [2023-09-04, 22:26:38](https://news.ycombinator.com/item?id=37385716) - [Emacs Bedrock: A minimal Emacs starter kit](https://sr.ht/~ashton314/emacs-bedrock/)
+* [2023-09-04, 21:58:33](https://news.ycombinator.com/item?id=37385518) - [Rust crate rg typosquatting/redirect to ripgrep](https://github.com/BurntSushi/rg-cratesio-typosquat)
 * [2023-09-04, 21:49:06](https://news.ycombinator.com/item?id=37385440) - [The Lies in Your Grocery Store, and the Laywer Who Can't Stomach Them](https://www.newyorker.com/magazine/2023/09/11/the-lies-in-your-grocery-store)
 * [2023-09-04, 21:43:38](https://news.ycombinator.com/item?id=37385401) - [Designing a cursor for augmented reality](https://ameye.dev/notes/ar-cursor/)
 * [2023-09-04, 21:28:40](https://news.ycombinator.com/item?id=37385267) - [The Apple $2T Economy](http://www.asymco.com/2023/09/04/the-2-trillion-economy/)
