@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-05](index.md)
 
+* [2023-09-05, 21:30:19](https://news.ycombinator.com/item?id=37398026) - [Poor people ‘surviving not living’ as UK social contract collapses, says report](https://www.theguardian.com/society/2023/sep/04/poor-people-surviving-not-living-as-uk-social-contract-collapses-says-report)
 * [2023-09-05, 21:02:28](https://news.ycombinator.com/item?id=37397704) - [My Presidential Platform](https://www.astralcodexten.com/p/my-presidential-platform)
 * [2023-09-05, 21:01:16](https://news.ycombinator.com/item?id=37397686) - [Emerge (YC W21) is hiring a lead front end engineer (remote, small team)](https://www.workatastartup.com/jobs/61922/)
 * [2023-09-05, 20:44:20](https://news.ycombinator.com/item?id=37397481) - [Hacking device Flipper Zero can spam nearby iPhones with Bluetooth pop-ups](https://techcrunch.com/2023/09/05/flipper-zero-hacking-iphone-flood-popups/)

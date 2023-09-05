@@ -17,6 +17,7 @@
 * [2023-09-04, 21:43:38](https://news.ycombinator.com/item?id=37385401) - [Designing a cursor for augmented reality](https://ameye.dev/notes/ar-cursor/)
 * [2023-09-04, 21:28:40](https://news.ycombinator.com/item?id=37385267) - [The Apple $2T Economy](http://www.asymco.com/2023/09/04/the-2-trillion-economy/)
 * [2023-09-04, 21:21:24](https://news.ycombinator.com/item?id=37385197) - [WASM: Big deal or little deal?](https://www.theregister.com/2023/09/01/web_assembly_wasm_column/)
+* [2023-09-04, 21:03:34](https://news.ycombinator.com/item?id=37385038) - [The Ones We Sent Away](https://www.theatlantic.com/magazine/archive/2023/09/disabled-children-institutionalization-history/674763/)
 * [2023-09-04, 21:00:31](https://news.ycombinator.com/item?id=37385017) - [Aviator (YC S21) Is hiring senior eng for building the future of monorepos](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
 * [2023-09-04, 20:48:27](https://news.ycombinator.com/item?id=37384911) - [Geoff Chappell has passed away](https://twitter.com/travisgoodspeed/status/1698715249593958560)
 * [2023-09-04, 20:44:00](https://news.ycombinator.com/item?id=37384864) - [Wine 8.15 (Dev) – Run Windows Applications on Linux, BSD, Solaris and macOS](https://www.winehq.org/announce/8.15)
