@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-05, 14:26:44](https://news.ycombinator.com/item?id=37392121) - [Revealed: US pro-birth conference’s links to far-right eugenicists](https://www.theguardian.com/us-news/2023/sep/04/natal-conference-austin-texas-eugenics)
 * [2023-09-05, 14:08:34](https://news.ycombinator.com/item?id=37391848) - [Show HN: An open source visual editor for React](https://github.com/measuredco/puck)
 * [2023-09-05, 13:42:57](https://news.ycombinator.com/item?id=37391521) - [Android 14 blocks all modification of system certificates, even as root](https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/)
 * [2023-09-05, 13:28:52](https://news.ycombinator.com/item?id=37391365) - [Australian MPs to lobby US to drop Julian Assange prosecution](https://www.theguardian.com/australia-news/2023/sep/05/australian-mps-to-lobby-us-to-drop-julian-assange-prosecution-or-risk-very-dangerous-precedent-for-russia-and-china)
@@ -29,7 +30,6 @@
 * [2023-09-03, 11:13:32](https://news.ycombinator.com/item?id=37369450) - [19th-century shipwreck discovered in Lake Michigan](https://www.theguardian.com/us-news/2023/sep/02/shipwreck-trinidad-lake-michigan-wisconsin)
 * [2023-09-03, 11:11:55](https://news.ycombinator.com/item?id=37369440) - [The Social Life of Bats](https://nautil.us/the-social-life-of-bats-373018/)
 * [2023-09-03, 01:54:27](https://news.ycombinator.com/item?id=37367056) - [Altmetrics: A Manifesto (2011)](http://altmetrics.org/manifesto/)
-* [2023-09-02, 21:39:39](https://news.ycombinator.com/item?id=37365764) - [Counterfeit Apple II computers (1985) [video]](https://www.youtube.com/watch?v=RFjGq55BglM)
 
 ## [Archives](archives/index.md)
 
