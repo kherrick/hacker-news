@@ -13,6 +13,7 @@
 * [2023-09-05, 16:53:14](https://news.ycombinator.com/item?id=37394545) - [Steam-on-Ampere](https://github.com/AmpereComputing/Steam-on-Ampere)
 * [2023-09-05, 16:50:02](https://news.ycombinator.com/item?id=37394487) - [Britain’s statisticians fix a blunder and find a bigger economy](https://www.economist.com/britain/2023/09/04/britains-statisticians-fix-a-blunder-and-find-a-bigger-economy)
 * [2023-09-05, 16:37:55](https://news.ycombinator.com/item?id=37394275) - [GitHub Is Down](https://www.githubstatus.com/incidents/smdz34v7j8q0)
+* [2023-09-05, 16:34:50](https://news.ycombinator.com/item?id=37394219) - [Deno KV Is in Open Beta](https://deno.com/blog/kv-open-beta)
 * [2023-09-05, 16:33:40](https://news.ycombinator.com/item?id=37394194) - [Show HN: Bedframe – open-source Browser Extension Development framework](https://github.com/nyaggah/bedframe)
 * [2023-09-05, 16:26:35](https://news.ycombinator.com/item?id=37394044) - [Hackers Selling Hacked Police Emails to Request User Data from TikTok, Facebook](https://www.404media.co/buying-and-selling-hacked-government-emails-edrs-discord-snapchat-facebook-tiktok/)
 * [2023-09-05, 16:21:20](https://news.ycombinator.com/item?id=37393971) - [Reading for Pleasure Helps Kids’ Brain Development](https://theconversation.com/poverty-is-linked-to-poorer-brain-development-but-reading-can-help-counteract-it-208966)
