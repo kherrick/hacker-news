@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-05, 06:35:09](https://news.ycombinator.com/item?id=37388560) - [Learn COBOL in 1 Day](https://www.microfocus.com/en-us/cobol)
 * [2023-09-05, 05:18:58](https://news.ycombinator.com/item?id=37388146) - [All About USB-C: Example Circuits](https://hackaday.com/2023/08/07/all-about-usb-c-example-circuits/)
 * [2023-09-05, 03:38:52](https://news.ycombinator.com/item?id=37387585) - [Show HN: Transform any website or eBook into a research paper (no LLM required)](https://github.com/jstrieb/paperify)
 * [2023-09-05, 03:07:17](https://news.ycombinator.com/item?id=37387392) - [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
@@ -21,6 +20,7 @@
 * [2023-09-04, 15:27:59](https://news.ycombinator.com/item?id=37381407) - [Portal 64 – A demake of Portal for the Nintendo 64](https://github.com/lambertjamesd/portal64)
 * [2023-09-04, 15:15:09](https://news.ycombinator.com/item?id=37381268) - [Show HN: Keep – GitHub Actions for your monitoring tools](https://github.com/keephq/keep)
 * [2023-09-03, 14:44:13](https://news.ycombinator.com/item?id=37370835) - [Pentax K-3 III Monochrome: A DSLR Just for B&W Photo Lovers](https://petapixel.com/2023/05/24/pentax-k-3-iii-monochrome-review-a-dslr-just-for-bw-photo-lovers/)
+* [2023-09-03, 12:58:22](https://news.ycombinator.com/item?id=37370051) - [Ongoing Chialisp Development](https://bramcohen.com/p/ongoing-chialisp-development)
 * [2023-09-03, 12:07:06](https://news.ycombinator.com/item?id=37369732) - [Do we think about vector storage completely wrong?](https://hachyderm.io/@softwaredoug/111000936722843110)
 * [2023-09-03, 11:13:32](https://news.ycombinator.com/item?id=37369450) - [19th-century shipwreck discovered in Lake Michigan](https://www.theguardian.com/us-news/2023/sep/02/shipwreck-trinidad-lake-michigan-wisconsin)
 * [2023-09-03, 11:11:55](https://news.ycombinator.com/item?id=37369440) - [The Social Life of Bats](https://nautil.us/the-social-life-of-bats-373018/)
