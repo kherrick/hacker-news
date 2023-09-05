@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-05](index.md)
 
+* [2023-09-05, 11:04:51](https://news.ycombinator.com/item?id=37390184) - [A currently maintained fork of SSHFS](https://github.com/deadbeefsociety/sshfs)
+* [2023-09-05, 10:51:25](https://news.ycombinator.com/item?id=37390108) - [HuggingFace Training Cluster as a Service](https://huggingface.co/training-cluster)
 * [2023-09-05, 08:53:13](https://news.ycombinator.com/item?id=37389376) - [Amiga Systems Programming in 2023](https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023/)
 * [2023-09-05, 07:17:39](https://news.ycombinator.com/item?id=37388816) - [“Piercing the Unknown” (IBM)](https://www.youtube.com/watch?v=dAnbb8ZEkBk)
 * [2023-09-05, 06:47:56](https://news.ycombinator.com/item?id=37388639) - [Microsoft blames outage on small staff, automation failures](https://www.theregister.com/2023/09/04/microsoft_australia_outage_incident_report/)
