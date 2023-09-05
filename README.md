@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-05, 03:07:17](https://news.ycombinator.com/item?id=37387392) - [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
+* [2023-09-05, 02:58:30](https://news.ycombinator.com/item?id=37387350) - [Non-gas giant has 73 times Earth’s mass, bewildering its discoverers](https://arstechnica.com/science/2023/08/we-dont-understand-how-a-freakishly-heavy-exoplanet-could-have-formed/)
 * [2023-09-05, 01:00:31](https://news.ycombinator.com/item?id=37386711) - [Videobug (YC S22) is hiring a founding engineer – automated snapshot testing](https://news.ycombinator.com/item?id=37386711)
 * [2023-09-05, 00:52:29](https://news.ycombinator.com/item?id=37386661) - [Farms that create habitat key to food security and biodiversity](https://news.stanford.edu/2023/09/04/farming-food-biodiversity/)
 * [2023-09-05, 00:02:51](https://news.ycombinator.com/item?id=37386397) - [Get a cable modem, go to jail (1999)](http://telecom.csail.mit.edu/judy-sammel.html)
@@ -18,7 +19,6 @@
 * [2023-09-04, 15:27:59](https://news.ycombinator.com/item?id=37381407) - [Portal 64 – A demake of Portal for the Nintendo 64](https://github.com/lambertjamesd/portal64)
 * [2023-09-04, 15:15:09](https://news.ycombinator.com/item?id=37381268) - [Show HN: Keep – GitHub Actions for your monitoring tools](https://github.com/keephq/keep)
 * [2023-09-04, 14:35:50](https://news.ycombinator.com/item?id=37380863) - [Antioxidants found to spur cancer growth and metastasis in mice](https://news.ki.se/antioxidants-stimulate-blood-flow-in-tumours)
-* [2023-09-04, 03:47:13](https://news.ycombinator.com/item?id=37376943) - [SiFive’s P870 Takes RISC-V Further](https://chipsandcheese.com/2023/09/03/hot-chips-2023-sifives-p870-takes-risc-v-further/)
 * [2023-09-04, 02:16:40](https://news.ycombinator.com/item?id=37376519) - [Pad kaphrao contest seeks true taste of Thailand’s national dish](https://www.theguardian.com/world/2023/aug/27/competition-seeks-true-taste-of-thailands-national-dish)
 * [2023-09-03, 12:58:22](https://news.ycombinator.com/item?id=37370051) - [Ongoing Chialisp Development](https://bramcohen.com/p/ongoing-chialisp-development)
 * [2023-09-03, 11:11:55](https://news.ycombinator.com/item?id=37369440) - [The Social Life of Bats](https://nautil.us/the-social-life-of-bats-373018/)
