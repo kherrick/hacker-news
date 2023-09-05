@@ -106,6 +106,7 @@
 * [2023-09-03, 02:26:29](https://news.ycombinator.com/item?id=37367199) - [Investigating intentional cranial modification in 3rd to 7th century CE Japan](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0289219)
 * [2023-09-03, 02:08:59](https://news.ycombinator.com/item?id=37367115) - [Why Did a Drug Gang Kill 43 Students? Text Messages Hold Clues](https://www.nytimes.com/2023/09/02/world/americas/mexico-iguala-students-kidnapping.html)
 * [2023-09-03, 02:03:14](https://news.ycombinator.com/item?id=37367089) - [Refurb weekend: PowerBook Duo 2300c](http://oldvcr.blogspot.com/2023/09/refurb-weekend-powerbook-duo-2300c.html)
+* [2023-09-03, 01:54:27](https://news.ycombinator.com/item?id=37367056) - [Altmetrics: A Manifesto (2011)](http://altmetrics.org/manifesto/)
 * [2023-09-03, 01:53:35](https://news.ycombinator.com/item?id=37367051) - [Ask HN: What do you carry in your backpack?](https://news.ycombinator.com/item?id=37367051)
 * [2023-09-03, 01:46:31](https://news.ycombinator.com/item?id=37367017) - [Silicon Valley’s elites can’t be trusted with the future of AI](https://fortune.com/2023/09/01/silicon-valley-elite-trust-future-ai-dominance-dangers-god-complex-wadhwa-gupta/)
 * [2023-09-03, 01:46:00](https://news.ycombinator.com/item?id=37367013) - [Baresip – An Open Source modular SIP User-Agent with audio and video support](https://github.com/baresip/baresip)
