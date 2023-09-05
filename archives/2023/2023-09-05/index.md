@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-05](index.md)
 
+* [2023-09-05, 16:03:13](https://news.ycombinator.com/item?id=37393652) - [Czech scientists confirm the existence of the π-hole in molecules](https://www.avcr.cz/en/news-archive/Czech-scientists-confirm-the-existence-of-the-hole-in-molecules-proving-a-decades-old-theory/)
+* [2023-09-05, 15:52:14](https://news.ycombinator.com/item?id=37393452) - [Where Did the QWERTY Keyboard Come From?](https://www.smithsonianmag.com/innovation/origins-qwerty-keyboard-typewriter-180982726/)
 * [2023-09-05, 15:49:40](https://news.ycombinator.com/item?id=37393399) - [Why furniture got so bad](https://www.washingtonpost.com/home/2023/09/05/new-furniture-quality-doesnt-last/)
 * [2023-09-05, 15:32:07](https://news.ycombinator.com/item?id=37393073) - [Study shows over time, ChatGPT lost accuracy](https://fortune.com/2023/07/19/chatgpt-accuracy-stanford-study/)
 * [2023-09-05, 15:07:21](https://news.ycombinator.com/item?id=37392676) - [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
@@ -25,6 +27,7 @@
 * [2023-09-05, 13:28:52](https://news.ycombinator.com/item?id=37391365) - [Australian MPs to lobby US to drop Julian Assange prosecution](https://www.theguardian.com/australia-news/2023/sep/05/australian-mps-to-lobby-us-to-drop-julian-assange-prosecution-or-risk-very-dangerous-precedent-for-russia-and-china)
 * [2023-09-05, 13:21:13](https://news.ycombinator.com/item?id=37391272) - [Launch HN: Nullstone (YC W22) – An easier way to deploy and manage cloud apps](https://news.ycombinator.com/item?id=37391272)
 * [2023-09-05, 13:19:32](https://news.ycombinator.com/item?id=37391244) - [The World’s First U2 Spy Plane Photo Shoot at the Edge of Space](https://petapixel.com/2023/09/05/at-70000-feet-in-a-u2-the-making-of-a-photo-shoot-at-the-edge-of-space/)
+* [2023-09-05, 13:13:34](https://news.ycombinator.com/item?id=37391161) - [Learn Physics with Functional Programming](https://nostarch.com/learn-physics-functional-programming)
 * [2023-09-05, 12:49:10](https://news.ycombinator.com/item?id=37390941) - [Mastering curl: interactive text guide](https://antonz.org/mastering-curl/)
 * [2023-09-05, 11:45:51](https://news.ycombinator.com/item?id=37390430) - [Come downstairs or we’ll eat your order, delivery workers tell customers](https://restofworld.org/2023/delivery-driver-bikes-stolen-brazil/)
 * [2023-09-05, 11:04:51](https://news.ycombinator.com/item?id=37390184) - [A currently maintained fork of SSHFS](https://github.com/deadbeefsociety/sshfs)

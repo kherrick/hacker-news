@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-05, 15:49:40](https://news.ycombinator.com/item?id=37393399) - [Why furniture got so bad](https://www.washingtonpost.com/home/2023/09/05/new-furniture-quality-doesnt-last/)
+* [2023-09-05, 16:03:13](https://news.ycombinator.com/item?id=37393652) - [Czech scientists confirm the existence of the π-hole in molecules](https://www.avcr.cz/en/news-archive/Czech-scientists-confirm-the-existence-of-the-hole-in-molecules-proving-a-decades-old-theory/)
+* [2023-09-05, 15:52:14](https://news.ycombinator.com/item?id=37393452) - [Where Did the QWERTY Keyboard Come From?](https://www.smithsonianmag.com/innovation/origins-qwerty-keyboard-typewriter-180982726/)
 * [2023-09-05, 15:32:07](https://news.ycombinator.com/item?id=37393073) - [Study shows over time, ChatGPT lost accuracy](https://fortune.com/2023/07/19/chatgpt-accuracy-stanford-study/)
 * [2023-09-05, 15:07:21](https://news.ycombinator.com/item?id=37392676) - [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
-* [2023-09-05, 15:01:27](https://news.ycombinator.com/item?id=37392598) - [Google Meet’s new AI will be able to go to meetings for you](https://www.theverge.com/2023/8/29/23849056/google-meet-ai-duet-attend-for-me)
 * [2023-09-05, 15:00:30](https://news.ycombinator.com/item?id=37392581) - [OpenTF Repository is now Public](https://github.com/opentffoundation/opentf)
 * [2023-09-05, 15:00:10](https://news.ycombinator.com/item?id=37392576) - [The Cyber Security Glossary](https://tryhackme.com/r/glossary)
 * [2023-09-05, 14:30:18](https://news.ycombinator.com/item?id=37392184) - [“Porting Inferno OS to Raspberry Pi”](https://github.com/yshurik/inferno-rpi)
@@ -14,6 +14,7 @@
 * [2023-09-05, 13:47:57](https://news.ycombinator.com/item?id=37391584) - [The Federal Helium reserve is for sale](https://disposal.gsa.gov/s/property/a0Xt000000DPeSLEA1/federal-helium-system-and-800-million-cubic-ft-of-crude-helium)
 * [2023-09-05, 13:42:57](https://news.ycombinator.com/item?id=37391521) - [Android 14 blocks all modification of system certificates, even as root](https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/)
 * [2023-09-05, 13:21:13](https://news.ycombinator.com/item?id=37391272) - [Launch HN: Nullstone (YC W22) – An easier way to deploy and manage cloud apps](https://news.ycombinator.com/item?id=37391272)
+* [2023-09-05, 13:13:34](https://news.ycombinator.com/item?id=37391161) - [Learn Physics with Functional Programming](https://nostarch.com/learn-physics-functional-programming)
 * [2023-09-05, 12:49:10](https://news.ycombinator.com/item?id=37390941) - [Mastering curl: interactive text guide](https://antonz.org/mastering-curl/)
 * [2023-09-05, 11:45:51](https://news.ycombinator.com/item?id=37390430) - [Come downstairs or we’ll eat your order, delivery workers tell customers](https://restofworld.org/2023/delivery-driver-bikes-stolen-brazil/)
 * [2023-09-05, 11:04:51](https://news.ycombinator.com/item?id=37390184) - [A currently maintained fork of SSHFS](https://github.com/deadbeefsociety/sshfs)
@@ -28,7 +29,6 @@
 * [2023-09-03, 14:46:48](https://news.ycombinator.com/item?id=37370855) - [Harman How to Listen (2011)](http://harmanhowtolisten.blogspot.com/)
 * [2023-09-03, 14:44:13](https://news.ycombinator.com/item?id=37370835) - [Pentax K-3 III Monochrome: A DSLR Just for B&W Photo Lovers](https://petapixel.com/2023/05/24/pentax-k-3-iii-monochrome-review-a-dslr-just-for-bw-photo-lovers/)
 * [2023-09-03, 12:07:06](https://news.ycombinator.com/item?id=37369732) - [Do we think about vector storage completely wrong?](https://hachyderm.io/@softwaredoug/111000936722843110)
-* [2023-09-03, 11:20:11](https://news.ycombinator.com/item?id=37369490) - [How to Get into Film Photography (and Why You Should)](https://www.404media.co/how-and-why-to-get-into-film-photography/)
 * [2023-09-03, 11:13:32](https://news.ycombinator.com/item?id=37369450) - [19th-century shipwreck discovered in Lake Michigan](https://www.theguardian.com/us-news/2023/sep/02/shipwreck-trinidad-lake-michigan-wisconsin)
 
 ## [Archives](archives/index.md)
