@@ -23,12 +23,12 @@
 * [2023-09-05, 13:21:13](https://news.ycombinator.com/item?id=37391272) - [Launch HN: Nullstone (YC W22) – An easier way to deploy and manage cloud apps](https://news.ycombinator.com/item?id=37391272)
 * [2023-09-05, 13:13:34](https://news.ycombinator.com/item?id=37391161) - [Learn Physics with Functional Programming](https://nostarch.com/learn-physics-functional-programming)
 * [2023-09-05, 11:04:51](https://news.ycombinator.com/item?id=37390184) - [A currently maintained fork of SSHFS](https://github.com/deadbeefsociety/sshfs)
-* [2023-09-05, 08:53:13](https://news.ycombinator.com/item?id=37389376) - [Amiga Systems Programming in 2023](https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023/)
 * [2023-09-05, 08:50:48](https://news.ycombinator.com/item?id=37389361) - [What is a flop?](https://nhigham.com/2023/09/05/what-is-a-flop/)
 * [2023-09-05, 04:07:46](https://news.ycombinator.com/item?id=37387731) - [Diamond prices are in free fall in one key corner of the market](https://www.bloomberg.com/news/articles/2023-09-03/lab-grown-gems-are-crashing-prices-for-one-key-type-of-diamond)
 * [2023-09-04, 21:49:58](https://news.ycombinator.com/item?id=37385447) - [A Test Suite for the Intel 8088](https://martypc.blogspot.com/2023/09/a-test-suite-for-intel-8088.html)
 * [2023-09-04, 21:03:34](https://news.ycombinator.com/item?id=37385038) - [The Ones We Sent Away](https://www.theatlantic.com/magazine/archive/2023/09/disabled-children-institutionalization-history/674763/)
 * [2023-09-03, 12:33:08](https://news.ycombinator.com/item?id=37369902) - [Richard Watkins Horological Books](http://watkinsr.id.au/)
+* [2023-09-03, 11:31:51](https://news.ycombinator.com/item?id=37369547) - [Proof Gallery](https://jeremykun.com/proof-gallery/)
 * [2023-09-02, 18:38:13](https://news.ycombinator.com/item?id=37364230) - [Time to preserve those floppy disks](https://www.patreon.com/posts/78074244)
 
 ## [Archives](archives/index.md)

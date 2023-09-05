@@ -67,6 +67,7 @@
 * [2023-09-03, 12:22:35](https://news.ycombinator.com/item?id=37369826) - [The Raft Consensus Algorithm](https://raft.github.io)
 * [2023-09-03, 12:07:06](https://news.ycombinator.com/item?id=37369732) - [Do we think about vector storage completely wrong?](https://hachyderm.io/@softwaredoug/111000936722843110)
 * [2023-09-03, 12:00:21](https://news.ycombinator.com/item?id=37369698) - [Replit (YC W18) Is Hiring Engineers in AI, Platform, and Product](https://replit.com/site/careers)
+* [2023-09-03, 11:31:51](https://news.ycombinator.com/item?id=37369547) - [Proof Gallery](https://jeremykun.com/proof-gallery/)
 * [2023-09-03, 11:27:06](https://news.ycombinator.com/item?id=37369521) - [The pandemic your grandparents forgot about](https://nautil.us/the-pandemic-your-grandparents-forgot-359076/)
 * [2023-09-03, 11:20:11](https://news.ycombinator.com/item?id=37369490) - [How to Get into Film Photography (and Why You Should)](https://www.404media.co/how-and-why-to-get-into-film-photography/)
 * [2023-09-03, 11:13:32](https://news.ycombinator.com/item?id=37369450) - [Discovery of the historic Great Lakes schooner Trinidad](https://www.shipwreckworld.com/articles/discovery-of-the-historic-great-lakes-schooner-trinidad)
