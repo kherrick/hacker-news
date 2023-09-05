@@ -92,6 +92,7 @@
 * [2023-09-03, 05:08:53](https://news.ycombinator.com/item?id=37367882) - [‘Psychonauts’ by Mike Jay Review](https://www.historytoday.com/archive/review/psychonauts-mike-jay-review)
 * [2023-09-03, 05:02:57](https://news.ycombinator.com/item?id=37367855) - [UPI Payments: 10B Transactions a Month Done, Next Stop 100B](https://www.bqprime.com/business/upi-payments-10-billion-transactions-a-month-done-next-stop-100-billion)
 * [2023-09-03, 04:16:10](https://news.ycombinator.com/item?id=37367687) - [Niri: A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri)
+* [2023-09-03, 03:38:33](https://news.ycombinator.com/item?id=37367514) - [How the Mystical Poetry of Rumi Drew Me Away from Christianity](https://steemit.com/ecotrain/@mountainjewel/longing-how-the-mystical-poetry-of-rumi-drew-me-away-from-christianity)
 * [2023-09-03, 02:57:51](https://news.ycombinator.com/item?id=37367329) - [Residential School ‘Mass Grave’ was underground rocks, no bodies found](https://thecountersignal.com/breaking-residential-school-mass-grave-turned-out-be-be-underground-rocks-no-bodies-found/)
 * [2023-09-03, 02:48:40](https://news.ycombinator.com/item?id=37367288) - [Kermit Project books and articles online](https://www.kermitproject.org/booksonline.html)
 * [2023-09-03, 02:40:58](https://news.ycombinator.com/item?id=37367267) - [Learn Something Old Every Day, Part IX: Aha-154xB and ASPI4DOS.SYS](https://www.os2museum.com/wp/learn-something-old-every-day-part-ix-aha-154xb-and-aspi4dos-sys/)

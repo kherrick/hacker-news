@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-05, 03:07:17](https://news.ycombinator.com/item?id=37387392) - [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
-* [2023-09-05, 02:58:30](https://news.ycombinator.com/item?id=37387350) - [Non-gas giant has 73 times Earth’s mass, bewildering its discoverers](https://arstechnica.com/science/2023/08/we-dont-understand-how-a-freakishly-heavy-exoplanet-could-have-formed/)
+* [2023-09-05, 02:14:16](https://news.ycombinator.com/item?id=37387110) - [We Do Not Know the Population of Every Country for the Past 2k Years](https://www.cambridge.org/core/journals/journal-of-economic-history/article/we-do-not-know-the-population-of-every-country-in-the-world-for-the-past-two-thousand-years/D747DDC6E499C799B0471DBE33FEB0BB)
 * [2023-09-05, 01:00:31](https://news.ycombinator.com/item?id=37386711) - [Videobug (YC S22) is hiring a founding engineer – automated snapshot testing](https://news.ycombinator.com/item?id=37386711)
 * [2023-09-05, 00:52:29](https://news.ycombinator.com/item?id=37386661) - [Farms that create habitat key to food security and biodiversity](https://news.stanford.edu/2023/09/04/farming-food-biodiversity/)
 * [2023-09-05, 00:02:51](https://news.ycombinator.com/item?id=37386397) - [Get a cable modem, go to jail (1999)](http://telecom.csail.mit.edu/judy-sammel.html)
@@ -26,8 +26,8 @@
 * [2023-09-03, 08:03:32](https://news.ycombinator.com/item?id=37368597) - [Black Art of 3D Game Programming (1995)](https://archive.org/details/BlackArt3DEBook)
 * [2023-09-03, 06:51:50](https://news.ycombinator.com/item?id=37368254) - [Become an expert in something specific and boring](https://forum.effectivealtruism.org/posts/J7nmbqcWncPMZFhGC/want-to-make-a-difference-on-policy-and-governance-become-an)
 * [2023-09-03, 06:24:13](https://news.ycombinator.com/item?id=37368148) - [So you want to modify the text of a PDF by hand (2020)](https://gist.github.com/senderle/8ad6aae251c4ddf9424f8a05dd0e8c18)
+* [2023-09-03, 03:38:33](https://news.ycombinator.com/item?id=37367514) - [How the Mystical Poetry of Rumi Drew Me Away from Christianity](https://steemit.com/ecotrain/@mountainjewel/longing-how-the-mystical-poetry-of-rumi-drew-me-away-from-christianity)
 * [2023-09-03, 02:03:14](https://news.ycombinator.com/item?id=37367089) - [Refurb weekend: PowerBook Duo 2300c](http://oldvcr.blogspot.com/2023/09/refurb-weekend-powerbook-duo-2300c.html)
-* [2023-09-03, 00:09:32](https://news.ycombinator.com/item?id=37366584) - [Kenton's House](https://kentonshouse.com/)
 * [2023-09-02, 21:39:39](https://news.ycombinator.com/item?id=37365764) - [1985 New Tech Times on counterfeit Apple II computers [video]](https://www.youtube.com/watch?v=RFjGq55BglM)
 * [2023-09-02, 21:38:13](https://news.ycombinator.com/item?id=37365752) - [A Company of One](https://rishad.substack.com/p/a-company-of-one)
 
