@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-05, 11:04:51",
+      "https://news.ycombinator.com/item?id=37390184"
+    ],
+    [
+      "A currently maintained fork of SSHFS",
+      "https://github.com/deadbeefsociety/sshfs"
+    ]
+  ],
+  [
+    [
+      "2023-09-05, 10:51:25",
+      "https://news.ycombinator.com/item?id=37390108"
+    ],
+    [
+      "HuggingFace Training Cluster as a Service",
+      "https://huggingface.co/training-cluster"
+    ]
+  ],
+  [
+    [
       "2023-09-05, 08:53:13",
       "https://news.ycombinator.com/item?id=37389376"
     ],
@@ -37,16 +57,6 @@
     [
       "ZFS for Dummies",
       "https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/"
-    ]
-  ],
-  [
-    [
-      "2023-09-05, 02:56:33",
-      "https://news.ycombinator.com/item?id=37387341"
-    ],
-    [
-      "You (maybe?) have thousands of ancestors from the 1600s",
-      "https://kayce.basqu.es/blog/ancestors/"
     ]
   ],
   [
@@ -171,26 +181,6 @@
   ],
   [
     [
-      "2023-09-04, 18:13:14",
-      "https://news.ycombinator.com/item?id=37383245"
-    ],
-    [
-      "Geo Guesser identifies the location and seat number from an aerial shot",
-      "https://twitter.com/georainbolt/status/1698553197684777069"
-    ]
-  ],
-  [
-    [
-      "2023-09-04, 16:37:43",
-      "https://news.ycombinator.com/item?id=37382117"
-    ],
-    [
-      "Can we talk to whales?",
-      "https://www.newyorker.com/magazine/2023/09/11/can-we-talk-to-whales"
-    ]
-  ],
-  [
-    [
       "2023-09-04, 15:27:59",
       "https://news.ycombinator.com/item?id=37381407"
     ],
@@ -207,6 +197,16 @@
     [
       "Show HN: Keep – GitHub Actions for your monitoring tools",
       "https://github.com/keephq/keep"
+    ]
+  ],
+  [
+    [
+      "2023-09-03, 21:44:14",
+      "https://news.ycombinator.com/item?id=37374908"
+    ],
+    [
+      "Evidence for Hipparchus’ Star Catalogue revealed by multispectral imaging (2022)",
+      "https://journals.sagepub.com/doi/10.1177/00218286221128289"
     ]
   ],
   [
