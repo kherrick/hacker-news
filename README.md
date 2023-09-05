@@ -2,6 +2,7 @@
 
 * [2023-09-05, 01:00:31](https://news.ycombinator.com/item?id=37386711) - [Videobug (YC S22, automated snapshot testing) Is Hiring its founding engineer](https://news.ycombinator.com/item?id=37386711)
 * [2023-09-05, 00:02:51](https://news.ycombinator.com/item?id=37386397) - [Get a cable modem, go to jail (1999)](http://telecom.csail.mit.edu/judy-sammel.html)
+* [2023-09-04, 23:56:03](https://news.ycombinator.com/item?id=37386349) - [Apple's Simple Strategy to Beat Burnout: Freedom](https://www.inc.com/kelly-main/apples-ridiculously-simple-strategy-to-beat-burnout-is-oddly-effective-and-employees-love-it.html)
 * [2023-09-04, 22:51:41](https://news.ycombinator.com/item?id=37385920) - [Multiple Notepad++ Flaws Let Attackers Execute Arbitrary Code](https://cybersecuritynews.com/multiple-notepad-flaw/)
 * [2023-09-04, 22:38:37](https://news.ycombinator.com/item?id=37385811) - [Oscilloscope watch ships after 10 years on kickstarter](https://www.tomshardware.com/news/oscilloscope-watch-ships-after-10-years)
 * [2023-09-04, 22:26:38](https://news.ycombinator.com/item?id=37385716) - [Emacs Bedrock: A minimal Emacs starter kit](https://sr.ht/~ashton314/emacs-bedrock/)
@@ -29,7 +30,6 @@
 * [2023-09-03, 02:03:14](https://news.ycombinator.com/item?id=37367089) - [Refurb weekend: PowerBook Duo 2300c](http://oldvcr.blogspot.com/2023/09/refurb-weekend-powerbook-duo-2300c.html)
 * [2023-09-03, 00:09:32](https://news.ycombinator.com/item?id=37366584) - [Kenton's House](https://kentonshouse.com/)
 * [2023-09-02, 21:38:13](https://news.ycombinator.com/item?id=37365752) - [A Company of One](https://rishad.substack.com/p/a-company-of-one)
-* [2023-09-01, 18:50:31](https://news.ycombinator.com/item?id=37354742) - [J.D. Salinger and wielding copyright as self-protection](https://crimereads.com/j-d-salinger-copyright/)
 
 ## [Archives](archives/index.md)
 
