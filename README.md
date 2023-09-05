@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-05, 17:55:29](https://news.ycombinator.com/item?id=37395370) - [Klack – Satisfying sound with every keystroke](https://tryklack.com/)
 * [2023-09-05, 17:24:28](https://news.ycombinator.com/item?id=37394979) - [Browse Websites by Fonts](https://maxibestof.one/typefaces)
 * [2023-09-05, 17:01:23](https://news.ycombinator.com/item?id=37394665) - [Rockstar is selling cracked game copies on Steam](https://twitter.com/__silent_/status/1698345924840296801)
 * [2023-09-05, 17:01:15](https://news.ycombinator.com/item?id=37394664) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
@@ -7,6 +8,7 @@
 * [2023-09-05, 16:50:02](https://news.ycombinator.com/item?id=37394487) - [Britain’s statisticians fix a blunder and find a bigger economy](https://www.economist.com/britain/2023/09/04/britains-statisticians-fix-a-blunder-and-find-a-bigger-economy)
 * [2023-09-05, 16:37:55](https://news.ycombinator.com/item?id=37394275) - [GitHub Is Down](https://www.githubstatus.com/incidents/smdz34v7j8q0)
 * [2023-09-05, 16:33:40](https://news.ycombinator.com/item?id=37394194) - [Show HN: Bedframe – open-source Browser Extension Development framework](https://github.com/nyaggah/bedframe)
+* [2023-09-05, 16:26:35](https://news.ycombinator.com/item?id=37394044) - [Hackers Selling Hacked Police Emails to Request User Data from TikTok, Facebook](https://www.404media.co/buying-and-selling-hacked-government-emails-edrs-discord-snapchat-facebook-tiktok/)
 * [2023-09-05, 16:21:20](https://news.ycombinator.com/item?id=37393971) - [Reading for Pleasure Helps Kids’ Brain Development](https://theconversation.com/poverty-is-linked-to-poorer-brain-development-but-reading-can-help-counteract-it-208966)
 * [2023-09-05, 16:13:09](https://news.ycombinator.com/item?id=37393820) - [Learn WebAssembly by writing small programs](https://github.com/EmNudge/watlings)
 * [2023-09-05, 16:03:13](https://news.ycombinator.com/item?id=37393652) - [Czech scientists confirm the existence of the π-hole in molecules](https://www.avcr.cz/en/news-archive/Czech-scientists-confirm-the-existence-of-the-hole-in-molecules-proving-a-decades-old-theory/)
@@ -23,11 +25,9 @@
 * [2023-09-05, 13:42:57](https://news.ycombinator.com/item?id=37391521) - [Android 14 blocks all modification of system certificates, even as root](https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/)
 * [2023-09-05, 13:21:13](https://news.ycombinator.com/item?id=37391272) - [Launch HN: Nullstone (YC W22) – An easier way to deploy and manage cloud apps](https://news.ycombinator.com/item?id=37391272)
 * [2023-09-05, 13:13:34](https://news.ycombinator.com/item?id=37391161) - [Learn Physics with Functional Programming](https://nostarch.com/learn-physics-functional-programming)
-* [2023-09-05, 12:49:10](https://news.ycombinator.com/item?id=37390941) - [Mastering curl: interactive text guide](https://antonz.org/mastering-curl/)
 * [2023-09-05, 11:04:51](https://news.ycombinator.com/item?id=37390184) - [A currently maintained fork of SSHFS](https://github.com/deadbeefsociety/sshfs)
 * [2023-09-05, 08:53:13](https://news.ycombinator.com/item?id=37389376) - [Amiga Systems Programming in 2023](https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023/)
 * [2023-09-04, 14:08:55](https://news.ycombinator.com/item?id=37380621) - [André van Schaik Discusses New Neuromorphic Simulator](https://www.eetimes.com/podcasts/andre-van-schaik-discusses-new-neuromorphic-simulator/)
-* [2023-09-04, 12:36:43](https://news.ycombinator.com/item?id=37379911) - [Every billable hour is amateur hour](https://daedtech.com/every-billable-hour-is-amateur-hour/)
 * [2023-09-03, 21:44:14](https://news.ycombinator.com/item?id=37374908) - [Evidence for Hipparchus’ Star Catalogue revealed by multispectral imaging (2022)](https://journals.sagepub.com/doi/10.1177/00218286221128289)
 * [2023-09-03, 12:07:06](https://news.ycombinator.com/item?id=37369732) - [Do we think about vector storage completely wrong?](https://hachyderm.io/@softwaredoug/111000936722843110)
 
