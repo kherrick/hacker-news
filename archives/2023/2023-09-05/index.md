@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-05](index.md)
 
+* [2023-09-05, 15:07:21](https://news.ycombinator.com/item?id=37392676) - [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
+* [2023-09-05, 15:02:27](https://news.ycombinator.com/item?id=37392612) - [California and Florida grew quickly on the promise of perfect climates](https://theconversation.com/california-and-florida-grew-quickly-on-the-promise-of-perfect-climates-in-the-1900s-today-they-lead-the-country-in-climate-change-risks-207470)
 * [2023-09-05, 15:01:27](https://news.ycombinator.com/item?id=37392598) - [Google Meet’s new AI will be able to go to meetings for you](https://www.theverge.com/2023/8/29/23849056/google-meet-ai-duet-attend-for-me)
 * [2023-09-05, 14:50:00](https://news.ycombinator.com/item?id=37392435) - [Apple to Launch 'Low-Cost' MacBook Series Next Year to Rival Chromebooks](https://www.macrumors.com/2023/09/05/apple-low-cost-macbook-rival-chromebook/)
 * [2023-09-05, 14:26:44](https://news.ycombinator.com/item?id=37392121) - [Revealed: US pro-birth conference’s links to far-right eugenicists](https://www.theguardian.com/us-news/2023/sep/04/natal-conference-austin-texas-eugenics)
