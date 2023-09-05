@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-05, 15:49:40",
+      "https://news.ycombinator.com/item?id=37393399"
+    ],
+    [
+      "Why furniture got so bad",
+      "https://www.washingtonpost.com/home/2023/09/05/new-furniture-quality-doesnt-last/"
+    ]
+  ],
+  [
+    [
       "2023-09-05, 15:32:07",
       "https://news.ycombinator.com/item?id=37393073"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
-      "2023-09-05, 15:02:27",
-      "https://news.ycombinator.com/item?id=37392612"
-    ],
-    [
-      "California and Florida now lead the country in climate change risks",
-      "https://theconversation.com/california-and-florida-grew-quickly-on-the-promise-of-perfect-climates-in-the-1900s-today-they-lead-the-country-in-climate-change-risks-207470"
-    ]
-  ],
-  [
-    [
       "2023-09-05, 15:01:27",
       "https://news.ycombinator.com/item?id=37392598"
     ],
     [
       "Google Meet’s new AI will be able to go to meetings for you",
       "https://www.theverge.com/2023/8/29/23849056/google-meet-ai-duet-attend-for-me"
+    ]
+  ],
+  [
+    [
+      "2023-09-05, 15:00:30",
+      "https://news.ycombinator.com/item?id=37392581"
+    ],
+    [
+      "OpenTF Repository is now Public",
+      "https://github.com/opentffoundation/opentf"
     ]
   ],
   [
@@ -51,12 +61,32 @@
   ],
   [
     [
-      "2023-09-05, 14:55:43",
-      "https://news.ycombinator.com/item?id=37392517"
+      "2023-09-05, 14:30:18",
+      "https://news.ycombinator.com/item?id=37392184"
     ],
     [
-      "Go to Chrome://settings/adPrivacy to turn off the spyware that in Chrome",
-      "https://twitter.com/paulg/status/1699021936573940154"
+      "“Porting Inferno OS to Raspberry Pi”",
+      "https://github.com/yshurik/inferno-rpi"
+    ]
+  ],
+  [
+    [
+      "2023-09-05, 14:22:20",
+      "https://news.ycombinator.com/item?id=37392040"
+    ],
+    [
+      "Zv/9Problems: A Tiling Window Manager for Plan9",
+      "https://github.com/zv/9Problems"
+    ]
+  ],
+  [
+    [
+      "2023-09-05, 14:20:44",
+      "https://news.ycombinator.com/item?id=37392013"
+    ],
+    [
+      "Show HN: Pgs.sh – A zero-dependency static site hosting service for hackers",
+      "https://pgs.sh"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "Android 14 blocks all modification of system certificates, even as root",
       "https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/"
-    ]
-  ],
-  [
-    [
-      "2023-09-05, 13:28:52",
-      "https://news.ycombinator.com/item?id=37391365"
-    ],
-    [
-      "Australian MPs to lobby US to drop Julian Assange prosecution",
-      "https://www.theguardian.com/australia-news/2023/sep/05/australian-mps-to-lobby-us-to-drop-julian-assange-prosecution-or-risk-very-dangerous-precedent-for-russia-and-china"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-09-05, 03:38:52",
-      "https://news.ycombinator.com/item?id=37387585"
-    ],
-    [
-      "Show HN: Transform any website or eBook into a research paper (no LLM required)",
-      "https://github.com/jstrieb/paperify"
-    ]
-  ],
-  [
-    [
       "2023-09-05, 03:07:17",
       "https://news.ycombinator.com/item?id=37387392"
     ],
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2023-09-05, 00:52:29",
-      "https://news.ycombinator.com/item?id=37386661"
+      "2023-09-04, 12:36:43",
+      "https://news.ycombinator.com/item?id=37379911"
     ],
     [
-      "Farms that create habitat key to food security and biodiversity",
-      "https://news.stanford.edu/2023/09/04/farming-food-biodiversity/"
+      "Every billable hour is amateur hour",
+      "https://daedtech.com/every-billable-hour-is-amateur-hour/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "19th-century shipwreck discovered in Lake Michigan",
       "https://www.theguardian.com/us-news/2023/sep/02/shipwreck-trinidad-lake-michigan-wisconsin"
-    ]
-  ],
-  [
-    [
-      "2023-09-03, 01:54:27",
-      "https://news.ycombinator.com/item?id=37367056"
-    ],
-    [
-      "Altmetrics: A Manifesto (2011)",
-      "http://altmetrics.org/manifesto/"
     ]
   ]
 ]
