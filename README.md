@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-05, 02:56:33](https://news.ycombinator.com/item?id=37387341) - [You have thousands of ancestors from the 1600s](https://kayce.basqu.es/blog/ancestors/)
 * [2023-09-05, 01:00:31](https://news.ycombinator.com/item?id=37386711) - [Videobug (YC S22, automated snapshot testing) Is Hiring its founding engineer](https://news.ycombinator.com/item?id=37386711)
 * [2023-09-05, 00:52:29](https://news.ycombinator.com/item?id=37386661) - [Farms that create habitat key to food security and biodiversity](https://news.stanford.edu/2023/09/04/farming-food-biodiversity/)
 * [2023-09-05, 00:02:51](https://news.ycombinator.com/item?id=37386397) - [Get a cable modem, go to jail (1999)](http://telecom.csail.mit.edu/judy-sammel.html)
-* [2023-09-04, 23:03:08](https://news.ycombinator.com/item?id=37386013) - [Measure Wind Speed and Direction with Ultrasonic Anemometer and Arduino](https://how2electronics.com/measure-wind-speed-direction-with-ultrasonic-anemometer-arduino/)
 * [2023-09-04, 22:51:41](https://news.ycombinator.com/item?id=37385920) - [Multiple Notepad++ Flaws Let Attackers Execute Arbitrary Code](https://cybersecuritynews.com/multiple-notepad-flaw/)
 * [2023-09-04, 22:38:37](https://news.ycombinator.com/item?id=37385811) - [Oscilloscope watch ships after 10 years on kickstarter](https://www.tomshardware.com/news/oscilloscope-watch-ships-after-10-years)
 * [2023-09-04, 22:26:38](https://news.ycombinator.com/item?id=37385716) - [Emacs Bedrock: A minimal Emacs starter kit](https://sr.ht/~ashton314/emacs-bedrock/)
