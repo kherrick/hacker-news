@@ -65,6 +65,7 @@
 * [2023-09-03, 11:12:33](https://news.ycombinator.com/item?id=37369446) - [The Hungry Caterpillar and the Ecosystem](https://worldsensorium.com/the-very-hungry-caterpillar-and-the-ecosystem/)
 * [2023-09-03, 11:11:55](https://news.ycombinator.com/item?id=37369440) - [The Social Life of Bats](https://nautil.us/the-social-life-of-bats-373018/)
 * [2023-09-03, 11:08:04](https://news.ycombinator.com/item?id=37369416) - [Just build it](https://blog.stephaniestimac.com/posts/2023/09/just-build-it/)
+* [2023-09-03, 10:19:03](https://news.ycombinator.com/item?id=37369193) - [Open source screw counting machine](https://github.com/Indystrycc/OpenScrewCounter)
 * [2023-09-03, 09:47:13](https://news.ycombinator.com/item?id=37369055) - [Why I Quit Bridge and Why I Came Back](https://bridgewinners.com/article/view/why-i-quit-bridge-at-23-and-why-i-came-back/)
 * [2023-09-03, 09:29:56](https://news.ycombinator.com/item?id=37368977) - [Learner drivers forced to buy tests on black market as companies blockbook slots](https://www.theguardian.com/uk-news/2023/sep/03/an-absolute-mess-learner-drivers-forced-to-buy-tests-on-black-market-as-companies-block-book-slots)
 * [2023-09-03, 09:18:43](https://news.ycombinator.com/item?id=37368929) - [The Curious Case of Hybrids in Watchmaking](https://monochrome-watches.com/a-technical-perspective-defining-and-understanding-hybrid-watches/)
