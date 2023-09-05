@@ -77,6 +77,7 @@
 * [2023-09-03, 07:44:00](https://news.ycombinator.com/item?id=37368505) - [Using the Wrong Dictionary (2014)](https://jsomers.net/blog/dictionary)
 * [2023-09-03, 07:00:22](https://news.ycombinator.com/item?id=37368298) - [Bitmovin (YC S15) Is Hiring Senior Software Engineers in Austria](https://bitmovin.com/careers/senior-software-engineer-java-6834404002/)
 * [2023-09-03, 06:53:51](https://news.ycombinator.com/item?id=37368264) - [The Eleuther AI Mafia](https://www.latent.space/p/rwkv#%C2%A7the-eleuther-mafia)
+* [2023-09-03, 06:51:50](https://news.ycombinator.com/item?id=37368254) - [Become an expert in something specific and boring](https://forum.effectivealtruism.org/posts/J7nmbqcWncPMZFhGC/want-to-make-a-difference-on-policy-and-governance-become-an)
 * [2023-09-03, 06:49:07](https://news.ycombinator.com/item?id=37368245) - [MaraDNS: A small open-source DNS server](https://github.com/samboy/MaraDNS)
 * [2023-09-03, 06:32:22](https://news.ycombinator.com/item?id=37368191) - [The Musaicum EU-plus 10M resolution image of Europe](https://imagico.de/blog/en/announcing-the-musaicum-eu-plus-10m-resolution-image-of-europe/)
 * [2023-09-03, 06:29:11](https://news.ycombinator.com/item?id=37368168) - [Microsoft Works](https://en.wikipedia.org/wiki/Microsoft_Works)

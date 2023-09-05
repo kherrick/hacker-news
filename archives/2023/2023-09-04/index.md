@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-04](index.md)
 
+* [2023-09-04, 23:56:03](https://news.ycombinator.com/item?id=37386349) - [Apple's Simple Strategy to Beat Burnout: Freedom](https://www.inc.com/kelly-main/apples-ridiculously-simple-strategy-to-beat-burnout-is-oddly-effective-and-employees-love-it.html)
 * [2023-09-04, 23:18:13](https://news.ycombinator.com/item?id=37386127) - [Ask HN: Best intro to programming book for 2nd graders?](https://news.ycombinator.com/item?id=37386127)
+* [2023-09-04, 22:51:41](https://news.ycombinator.com/item?id=37385920) - [Multiple Notepad++ Flaws Let Attackers Execute Arbitrary Code](https://cybersecuritynews.com/multiple-notepad-flaw/)
 * [2023-09-04, 22:38:37](https://news.ycombinator.com/item?id=37385811) - [Oscilloscope watch ships after 10 years on kickstarter](https://www.tomshardware.com/news/oscilloscope-watch-ships-after-10-years)
 * [2023-09-04, 22:26:38](https://news.ycombinator.com/item?id=37385716) - [Emacs Bedrock: A minimal Emacs starter kit](https://sr.ht/~ashton314/emacs-bedrock/)
 * [2023-09-04, 21:49:06](https://news.ycombinator.com/item?id=37385440) - [The Lies in Your Grocery Store, and the Laywer Who Can't Stomach Them](https://www.newyorker.com/magazine/2023/09/11/the-lies-in-your-grocery-store)
