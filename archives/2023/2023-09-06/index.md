@@ -6,6 +6,7 @@
 
 * [2023-09-06, 09:53:07](https://news.ycombinator.com/item?id=37403114) - [Air Canada kicks off passengers who refused vomit-smeared seats](https://www.bbc.co.uk/news/world-us-canada-66727103)
 * [2023-09-06, 09:48:50](https://news.ycombinator.com/item?id=37403074) - [Gcsfuse: A user-space file system for interacting with Google Cloud Storage](https://github.com/GoogleCloudPlatform/gcsfuse)
+* [2023-09-06, 09:23:08](https://news.ycombinator.com/item?id=37402925) - [Remembering Doug Lenat (1950–2023) and His Quest to Capture the World with Logic](https://writings.stephenwolfram.com/2023/09/remembering-doug-lenat-1950-2023-and-his-quest-to-capture-the-world-with-logic/)
 * [2023-09-06, 08:14:30](https://news.ycombinator.com/item?id=37402524) - [Jailer is a unique open-source database tool](https://wisser.github.io/Jailer/)
 * [2023-09-06, 07:29:57](https://news.ycombinator.com/item?id=37402260) - [Black Hole Electron](https://en.wikipedia.org/wiki/Black_hole_electron)
 * [2023-09-06, 06:31:21](https://news.ycombinator.com/item?id=37401909) - [Google Chrome pushes browser history-based ad targeting](https://www.theregister.com/2023/09/06/google_privacy_popup_chrome/)
