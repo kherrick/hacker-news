@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-06](index.md)
 
+* [2023-09-06, 17:30:59](https://news.ycombinator.com/item?id=37408234) - [Join us for OpenAI’s first developer conference on November 6 in San Francisco](https://openai.com/blog/announcing-openai-devday)
 * [2023-09-06, 16:57:52](https://news.ycombinator.com/item?id=37407802) - [Playing with Genetic Algorithms in Python](https://joseprupi.github.io/misc/2023/08/19/playing_with_genetic_algorithms_in_python.html)
 * [2023-09-06, 16:34:15](https://news.ycombinator.com/item?id=37407494) - [I replaced 50 lines of code with a single LLM prompt](https://www.haihai.ai/programming-with-llm/)
 * [2023-09-06, 16:27:03](https://news.ycombinator.com/item?id=37407409) - [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
@@ -12,6 +13,7 @@
 * [2023-09-06, 15:46:40](https://news.ycombinator.com/item?id=37406811) - [Connected cars are a “privacy nightmare,” Mozilla Foundation says](https://arstechnica.com/cars/2023/09/connected-cars-are-a-privacy-nightmare-mozilla-foundation-says/)
 * [2023-09-06, 15:41:55](https://news.ycombinator.com/item?id=37406746) - [All Librem 5 smartphones have shipped](https://puri.sm/posts/all-librem-5-smartphones-have-shipped/)
 * [2023-09-06, 15:39:50](https://news.ycombinator.com/item?id=37406719) - [I can tolerate anything except the outgroup (2014)](https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/)
+* [2023-09-06, 15:38:10](https://news.ycombinator.com/item?id=37406696) - [Neobanking: The Golden Opportunity](https://easilyamused.beehiiv.com/p/neobanks-vs-traditional-banks-different)
 * [2023-09-06, 15:20:04](https://news.ycombinator.com/item?id=37406442) - [From sex life to politics: car driver data grab presents ‘privacy nightmare'](https://www.theguardian.com/business/2023/sep/06/cars-collect-extensive-personal-data-on-drivers-study-warns)
 * [2023-09-06, 14:32:15](https://news.ycombinator.com/item?id=37405727) - [Effectiveness of physical activity for improving depression, anxiety, distress](https://bjsm.bmj.com/content/early/2023/07/11/bjsports-2022-106195)
 * [2023-09-06, 14:30:34](https://news.ycombinator.com/item?id=37405695) - [China Bans iPhone Use for Government Officials at Work](https://stocks.apple.com/A01gybx6UQReBj5eQUppe8g)
