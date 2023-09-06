@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-06, 09:53:07](https://news.ycombinator.com/item?id=37403114) - [Air Canada kicks off passengers who refused vomit-smeared seats](https://www.bbc.co.uk/news/world-us-canada-66727103)
 * [2023-09-06, 09:48:50](https://news.ycombinator.com/item?id=37403074) - [Gcsfuse: A user-space file system for interacting with Google Cloud Storage](https://github.com/GoogleCloudPlatform/gcsfuse)
 * [2023-09-06, 09:23:08](https://news.ycombinator.com/item?id=37402925) - [Remembering Doug Lenat (1950–2023) and His Quest to Capture the World with Logic](https://writings.stephenwolfram.com/2023/09/remembering-doug-lenat-1950-2023-and-his-quest-to-capture-the-world-with-logic/)
 * [2023-09-06, 07:29:57](https://news.ycombinator.com/item?id=37402260) - [Black Hole Electron](https://en.wikipedia.org/wiki/Black_hole_electron)
@@ -17,6 +16,7 @@
 * [2023-09-05, 20:36:20](https://news.ycombinator.com/item?id=37397359) - [deVStudio – Runs VS Code on Android](https://play.google.com/store/apps/details?id=tech.ula.devstudio&hl=en_US)
 * [2023-09-05, 20:33:18](https://news.ycombinator.com/item?id=37397323) - [When deployments are easy, code becomes simpler](https://bitbytebit.substack.com/p/when-deployments-are-easy-code-becomes)
 * [2023-09-05, 19:36:13](https://news.ycombinator.com/item?id=37396664) - [OWASP Top API Security Risks – 2023](https://owasp.org/API-Security/editions/2023/en/0x11-t10/)
+* [2023-09-05, 19:21:59](https://news.ycombinator.com/item?id=37396479) - [Forming an Edge](https://www.scopeofwork.net/forming-an-edge/)
 * [2023-09-05, 17:33:35](https://news.ycombinator.com/item?id=37395096) - [If you can use open source, you can build hardware](https://redeem-tomorrow.com/if-you-can-use-open-source-you-can-build-hardware)
 * [2023-09-05, 16:13:09](https://news.ycombinator.com/item?id=37393820) - [Learn WebAssembly by writing small programs](https://github.com/EmNudge/watlings)
 * [2023-09-05, 15:07:21](https://news.ycombinator.com/item?id=37392676) - [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
