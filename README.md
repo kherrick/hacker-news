@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-06, 01:40:12](https://news.ycombinator.com/item?id=37400398) - [Writing Small CLI Programs in Common Lisp (2021)](https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/)
 * [2023-09-06, 00:40:05](https://news.ycombinator.com/item?id=37399873) - [Can LLMs learn from a single example?](https://www.fast.ai/posts/2023-09-04-learning-jumps/)
 * [2023-09-06, 00:39:40](https://news.ycombinator.com/item?id=37399869) - [Researcher mimics spider webs and beetles to harvest fresh water from thin air](https://uwaterloo.ca/news/media/researcher-finds-inspiration-spider-webs-and-beetles-harvest)
 * [2023-09-06, 00:32:02](https://news.ycombinator.com/item?id=37399799) - [Cory Doctorow: Interoperability Can Save the Open Web](https://spectrum.ieee.org/doctorow-interoperability)
@@ -15,13 +16,13 @@
 * [2023-09-05, 17:55:29](https://news.ycombinator.com/item?id=37395370) - [Klack – Satisfying sound with every keystroke](https://tryklack.com/)
 * [2023-09-05, 17:39:08](https://news.ycombinator.com/item?id=37395168) - [Mentra aims to match neurodivergent jobseekers with jobs](https://techcrunch.com/2023/09/05/sam-altman-backed-startup-aims-to-match-neurodivergent-jobseekers-with-ideal-jobs/)
 * [2023-09-05, 17:33:35](https://news.ycombinator.com/item?id=37395096) - [If you can use open source, you can build hardware](https://redeem-tomorrow.com/if-you-can-use-open-source-you-can-build-hardware)
-* [2023-09-05, 16:53:14](https://news.ycombinator.com/item?id=37394545) - [Steam-on-Ampere](https://github.com/AmpereComputing/Steam-on-Ampere)
 * [2023-09-05, 16:33:40](https://news.ycombinator.com/item?id=37394194) - [Show HN: Bedframe – open-source Browser Extension Development framework](https://github.com/nyaggah/bedframe)
 * [2023-09-05, 16:13:09](https://news.ycombinator.com/item?id=37393820) - [Learn WebAssembly by writing small programs](https://github.com/EmNudge/watlings)
 * [2023-09-05, 15:33:34](https://news.ycombinator.com/item?id=37393099) - [Show HN: Open-source Postman alternative with type safety](https://recipeui.com/)
 * [2023-09-05, 15:07:21](https://news.ycombinator.com/item?id=37392676) - [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
 * [2023-09-05, 15:00:30](https://news.ycombinator.com/item?id=37392581) - [OpenTF repository is now public](https://github.com/opentffoundation/opentf)
 * [2023-09-05, 14:08:34](https://news.ycombinator.com/item?id=37391848) - [Show HN: Puck – Open-source visual editor for React](https://github.com/measuredco/puck)
+* [2023-09-05, 13:47:57](https://news.ycombinator.com/item?id=37391584) - [The Federal Helium reserve is for sale](https://www.gsa.gov/about-us/regions/region-7-greater-southwest/region-7-newsroom/greater-southwest-feature-stories-and-news-releases/gsa-announces-sale-of-federal-helium-system-assets-06222023)
 * [2023-09-05, 13:21:13](https://news.ycombinator.com/item?id=37391272) - [Launch HN: Nullstone (YC W22) – An easier way to deploy and manage cloud apps](https://news.ycombinator.com/item?id=37391272)
 * [2023-09-05, 13:13:34](https://news.ycombinator.com/item?id=37391161) - [Learn Physics with Functional Programming](https://nostarch.com/learn-physics-functional-programming)
 * [2023-09-05, 08:50:48](https://news.ycombinator.com/item?id=37389361) - [What is a flop?](https://nhigham.com/2023/09/05/what-is-a-flop/)
@@ -29,7 +30,6 @@
 * [2023-09-04, 21:03:34](https://news.ycombinator.com/item?id=37385038) - [The Ones We Sent Away](https://www.theatlantic.com/magazine/archive/2023/09/disabled-children-institutionalization-history/674763/)
 * [2023-09-04, 14:50:45](https://news.ycombinator.com/item?id=37381019) - [The last few polio survivors: Last of the iron lungs (2017) [video]](https://www.youtube.com/watch?v=gplA6pq9cOs)
 * [2023-09-04, 05:53:25](https://news.ycombinator.com/item?id=37377529) - [Bintracker: A chiptune audio workstation for the 21st century](https://bintracker.org/)
-* [2023-09-02, 18:38:13](https://news.ycombinator.com/item?id=37364230) - [Time to preserve those floppy disks](https://www.patreon.com/posts/78074244)
 
 ## [Archives](archives/index.md)
 
