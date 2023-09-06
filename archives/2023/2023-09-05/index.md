@@ -81,6 +81,7 @@
 * [2023-09-05, 07:17:39](https://news.ycombinator.com/item?id=37388816) - [“Piercing the Unknown” (IBM)](https://www.youtube.com/watch?v=dAnbb8ZEkBk)
 * [2023-09-05, 06:47:56](https://news.ycombinator.com/item?id=37388639) - [Microsoft blames outage on small staff, automation failures](https://www.theregister.com/2023/09/04/microsoft_australia_outage_incident_report/)
 * [2023-09-05, 06:35:09](https://news.ycombinator.com/item?id=37388560) - [Learn COBOL in 1 Day](https://www.microfocus.com/en-us/cobol)
+* [2023-09-05, 06:26:11](https://news.ycombinator.com/item?id=37388508) - [Antiskilled finfluencers have more influence on retail trading than skilled](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4428232)
 * [2023-09-05, 06:03:29](https://news.ycombinator.com/item?id=37388367) - [TDD Doesn't Force Good Design](https://www.aaronbruce.com/posts/tests-dont-force-good-desgin/)
 * [2023-09-05, 05:55:55](https://news.ycombinator.com/item?id=37388319) - [Unifix Drum Machine](http://www.philtulga.com/unifix_activity.html)
 * [2023-09-05, 05:18:58](https://news.ycombinator.com/item?id=37388146) - [All About USB-C: Example Circuits](https://hackaday.com/2023/08/07/all-about-usb-c-example-circuits/)
