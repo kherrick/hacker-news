@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-06](index.md)
 
+* [2023-09-06, 13:45:11](https://news.ycombinator.com/item?id=37405049) - [“Waterfall” doesn't mean what you think it means](https://changelog.com/posts/waterfall-doesnt-mean-what-you-think-it-means)
+* [2023-09-06, 13:21:17](https://news.ycombinator.com/item?id=37404740) - [Is this duplo train track under too much tension?](https://puzzling.stackexchange.com/questions/122232/is-this-duplo-train-track-under-too-much-tension)
 * [2023-09-06, 12:56:33](https://news.ycombinator.com/item?id=37404433) - [The world has just experienced the hottest summer on record – significant margin](https://www.cnn.com/2023/09/06/world/hottest-summer-record-climate-intl/index.html)
 * [2023-09-06, 12:55:56](https://news.ycombinator.com/item?id=37404428) - [Big effort needed on UK diet to fight ultra-processed food, say health experts](https://www.theguardian.com/society/2023/sep/02/big-effort-needed-on-uk-diet-to-fight-ultra-processed-food-say-health-experts)
 * [2023-09-06, 12:55:28](https://news.ycombinator.com/item?id=37404424) - [Falcon 180B Released](https://huggingface.co/blog/falcon-180b)
