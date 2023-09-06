@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-06, 01:40:12",
+      "https://news.ycombinator.com/item?id=37400398"
+    ],
+    [
+      "Writing Small CLI Programs in Common Lisp (2021)",
+      "https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/"
+    ]
+  ],
+  [
+    [
       "2023-09-06, 00:40:05",
       "https://news.ycombinator.com/item?id=37399873"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2023-09-05, 16:53:14",
-      "https://news.ycombinator.com/item?id=37394545"
-    ],
-    [
-      "Steam-on-Ampere",
-      "https://github.com/AmpereComputing/Steam-on-Ampere"
-    ]
-  ],
-  [
-    [
       "2023-09-05, 16:33:40",
       "https://news.ycombinator.com/item?id=37394194"
     ],
@@ -217,6 +217,16 @@
     [
       "Show HN: Puck – Open-source visual editor for React",
       "https://github.com/measuredco/puck"
+    ]
+  ],
+  [
+    [
+      "2023-09-05, 13:47:57",
+      "https://news.ycombinator.com/item?id=37391584"
+    ],
+    [
+      "The Federal Helium reserve is for sale",
+      "https://www.gsa.gov/about-us/regions/region-7-greater-southwest/region-7-newsroom/greater-southwest-feature-stories-and-news-releases/gsa-announces-sale-of-federal-helium-system-assets-06222023"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Bintracker: A chiptune audio workstation for the 21st century",
       "https://bintracker.org/"
-    ]
-  ],
-  [
-    [
-      "2023-09-02, 18:38:13",
-      "https://news.ycombinator.com/item?id=37364230"
-    ],
-    [
-      "Time to preserve those floppy disks",
-      "https://www.patreon.com/posts/78074244"
     ]
   ]
 ]
