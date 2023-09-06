@@ -54,6 +54,7 @@
 * [2023-09-04, 15:20:45](https://news.ycombinator.com/item?id=37381335) - [VSCodium – Libre Open Source Software Binaries of VS Code](https://vscodium.com)
 * [2023-09-04, 15:16:42](https://news.ycombinator.com/item?id=37381296) - [Show HN: finetune LLMs via the Finetuning Hub](https://github.com/georgian-io/LLM-Finetuning-Hub)
 * [2023-09-04, 15:15:09](https://news.ycombinator.com/item?id=37381268) - [Show HN: Keep – GitHub Actions for your monitoring tools](https://github.com/keephq/keep)
+* [2023-09-04, 14:50:45](https://news.ycombinator.com/item?id=37381019) - [The last few polio survivors: Last of the iron lungs (2017) [video]](https://www.youtube.com/watch?v=gplA6pq9cOs)
 * [2023-09-04, 14:47:38](https://news.ycombinator.com/item?id=37380980) - [You Don't Need to “Learn” Svelte: Embracing the Simplicity of JavaScript](https://kaviisuri.com/you-dont-need-to-learn-svelte)
 * [2023-09-04, 14:35:50](https://news.ycombinator.com/item?id=37380863) - [Antioxidants such as Vitamin C found to spur cancer growth and metastasis](https://newatlas.com/medical/antioxidants-stimulate-blood-vessel-growth-cancer-tumors/)
 * [2023-09-04, 14:35:50](https://news.ycombinator.com/item?id=37380863) - [Antioxidants found to spur cancer growth and metastasis in mice](https://news.ki.se/antioxidants-stimulate-blood-flow-in-tumours)
