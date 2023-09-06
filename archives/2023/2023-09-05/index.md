@@ -59,6 +59,7 @@
 * [2023-09-05, 14:22:20](https://news.ycombinator.com/item?id=37392040) - [Zv/9Problems: A Tiling Window Manager for Plan9](https://github.com/zv/9Problems)
 * [2023-09-05, 14:20:44](https://news.ycombinator.com/item?id=37392013) - [Show HN: Pgs.sh – A zero-dependency static site hosting service for hackers](https://pgs.sh)
 * [2023-09-05, 14:17:05](https://news.ycombinator.com/item?id=37391963) - [Rolex Buys Bucherer](https://www.hodinkee.com/articles/rolex-acquires-storied-retailer-bucherer)
+* [2023-09-05, 14:15:38](https://news.ycombinator.com/item?id=37391941) - [A Test Suite for the Intel 8088](https://martypc.blogspot.com/2023/09/a-test-suite-for-intel-8088.html)
 * [2023-09-05, 14:15:07](https://news.ycombinator.com/item?id=37391934) - [ZSA Voyager: Low profile split keyboard](https://www.zsa.io/voyager/)
 * [2023-09-05, 14:08:34](https://news.ycombinator.com/item?id=37391848) - [Show HN: An open source visual editor for React](https://github.com/measuredco/puck)
 * [2023-09-05, 13:47:57](https://news.ycombinator.com/item?id=37391584) - [The Federal Helium reserve is for sale](https://www.gsa.gov/about-us/regions/region-7-greater-southwest/region-7-newsroom/greater-southwest-feature-stories-and-news-releases/gsa-announces-sale-of-federal-helium-system-assets-06222023)

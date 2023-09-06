@@ -33,6 +33,7 @@
 * [2023-09-06, 17:23:21](https://news.ycombinator.com/item?id=37408139) - [Councils in England in crisis as Birmingham ‘declares itself bankrupt’](https://www.theguardian.com/society/2023/sep/05/councils-in-england-in-crisis-as-birmingham-declares-itself-bankrupt)
 * [2023-09-06, 16:57:52](https://news.ycombinator.com/item?id=37407802) - [Playing with Genetic Algorithms in Python](https://joseprupi.github.io/misc/2023/08/19/playing_with_genetic_algorithms_in_python.html)
 * [2023-09-06, 16:56:25](https://news.ycombinator.com/item?id=37407787) - [Device offers long-distance, low-power underwater communication](https://news.mit.edu/2023/devices-offers-battery-free-underwater-communication-0906)
+* [2023-09-06, 16:54:29](https://news.ycombinator.com/item?id=37407758) - [Show HN: Nix Snapshotter – Native understanding of Nix packages for containerd](https://github.com/pdtpartners/nix-snapshotter)
 * [2023-09-06, 16:34:15](https://news.ycombinator.com/item?id=37407494) - [I replaced 50 lines of code with a single LLM prompt](https://www.haihai.ai/programming-with-llm/)
 * [2023-09-06, 16:30:46](https://news.ycombinator.com/item?id=37407464) - [Ask HN: Does Instagram suspend accounts just to get their phone numbers?](https://news.ycombinator.com/item?id=37407464)
 * [2023-09-06, 16:27:03](https://news.ycombinator.com/item?id=37407409) - [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
