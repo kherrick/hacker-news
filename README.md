@@ -2,9 +2,9 @@
 
 * [2023-09-06, 01:57:58](https://news.ycombinator.com/item?id=37400526) - [On the 10th anniversary of the Snowden revelations](https://www.electrospaces.net/2023/06/on-10th-anniversary-of-snowden.html)
 * [2023-09-06, 01:40:12](https://news.ycombinator.com/item?id=37400398) - [Writing Small CLI Programs in Common Lisp (2021)](https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/)
+* [2023-09-06, 01:30:25](https://news.ycombinator.com/item?id=37400305) - [Apple signs new agreement with Arm that goes past 2040](https://www.theverge.com/2023/9/5/23860697/apple-arm-agreement-2040)
 * [2023-09-06, 00:40:05](https://news.ycombinator.com/item?id=37399873) - [Can LLMs learn from a single example?](https://www.fast.ai/posts/2023-09-04-learning-jumps/)
 * [2023-09-06, 00:32:02](https://news.ycombinator.com/item?id=37399799) - [Cory Doctorow: Interoperability Can Save the Open Web](https://spectrum.ieee.org/doctorow-interoperability)
-* [2023-09-06, 00:25:57](https://news.ycombinator.com/item?id=37399745) - [Experts fear crooks are cracking keys stolen in LastPass breach](https://krebsonsecurity.com/2023/09/experts-fear-crooks-are-cracking-keys-stolen-in-lastpass-breach/)
 * [2023-09-05, 22:49:28](https://news.ycombinator.com/item?id=37398891) - [Meta's Segment Anything written with C++ / GGML](https://github.com/YavorGIvanov/sam.cpp)
 * [2023-09-05, 22:42:39](https://news.ycombinator.com/item?id=37398812) - [Show HN: Fully client-side GPT2 prediction visualizer](https://perplexity.vercel.app/)
 * [2023-09-05, 21:56:40](https://news.ycombinator.com/item?id=37398317) - [Preserving trust in photojournalism through authentication technology](https://www.reutersagency.com/authenticity-poc/)

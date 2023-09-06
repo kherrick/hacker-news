@@ -6,6 +6,7 @@
 
 * [2023-09-06, 01:57:58](https://news.ycombinator.com/item?id=37400526) - [On the 10th anniversary of the Snowden revelations](https://www.electrospaces.net/2023/06/on-10th-anniversary-of-snowden.html)
 * [2023-09-06, 01:40:12](https://news.ycombinator.com/item?id=37400398) - [Writing Small CLI Programs in Common Lisp (2021)](https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/)
+* [2023-09-06, 01:30:25](https://news.ycombinator.com/item?id=37400305) - [Apple signs new agreement with Arm that goes past 2040](https://www.theverge.com/2023/9/5/23860697/apple-arm-agreement-2040)
 * [2023-09-06, 00:40:05](https://news.ycombinator.com/item?id=37399873) - [Can LLMs learn from a single example?](https://www.fast.ai/posts/2023-09-04-learning-jumps/)
 * [2023-09-06, 00:39:40](https://news.ycombinator.com/item?id=37399869) - [Researcher mimics spider webs and beetles to harvest fresh water from thin air](https://uwaterloo.ca/news/media/researcher-finds-inspiration-spider-webs-and-beetles-harvest)
 * [2023-09-06, 00:32:50](https://news.ycombinator.com/item?id=37399809) - [New York’s crackdown on Airbnb began Tuesday](https://www.amny.com/housing/new-york-crackdown-airbnb-begins/)
