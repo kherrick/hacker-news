@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-06, 04:47:27](https://news.ycombinator.com/item?id=37401433) - [Milk-V Goes After the Raspberry Pi Compute Module4 with RISC-V Alternative](https://www.hackster.io/news/milk-v-goes-after-the-raspberry-pi-compute-module-4-with-a-pin-compatible-risc-v-alternative-77cdb3e6c6f1)
 * [2023-09-06, 01:57:58](https://news.ycombinator.com/item?id=37400526) - [On the 10th anniversary of the Snowden revelations](https://www.electrospaces.net/2023/06/on-10th-anniversary-of-snowden.html)
 * [2023-09-06, 01:40:12](https://news.ycombinator.com/item?id=37400398) - [Writing Small CLI Programs in Common Lisp (2021)](https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/)
 * [2023-09-06, 00:58:30](https://news.ycombinator.com/item?id=37400018) - [Fighting API Bots with Cloudflare's Invisible Turnstile](https://www.troyhunt.com/fighting-api-bots-with-cloudflares-invisible-turnstile/)
@@ -21,7 +22,6 @@
 * [2023-09-05, 15:33:34](https://news.ycombinator.com/item?id=37393099) - [Show HN: Open-source Postman alternative with type safety](https://recipeui.com/)
 * [2023-09-05, 15:07:21](https://news.ycombinator.com/item?id=37392676) - [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
 * [2023-09-05, 15:00:30](https://news.ycombinator.com/item?id=37392581) - [OpenTF repository is now public](https://github.com/opentffoundation/opentf)
-* [2023-09-05, 14:08:34](https://news.ycombinator.com/item?id=37391848) - [Show HN: Puck – Open-source visual editor for React](https://github.com/measuredco/puck)
 * [2023-09-05, 13:21:13](https://news.ycombinator.com/item?id=37391272) - [Launch HN: Nullstone (YC W22) – An easier way to deploy and manage cloud apps](https://news.ycombinator.com/item?id=37391272)
 * [2023-09-05, 08:50:48](https://news.ycombinator.com/item?id=37389361) - [What is a flop?](https://nhigham.com/2023/09/05/what-is-a-flop/)
 * [2023-09-05, 05:55:55](https://news.ycombinator.com/item?id=37388319) - [Unifix Drum Machine](http://www.philtulga.com/unifix_activity.html)

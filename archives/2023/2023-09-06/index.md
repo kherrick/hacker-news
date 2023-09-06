@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-06](index.md)
 
+* [2023-09-06, 04:47:27](https://news.ycombinator.com/item?id=37401433) - [Milk-V Goes After the Raspberry Pi Compute Module4 with RISC-V Alternative](https://www.hackster.io/news/milk-v-goes-after-the-raspberry-pi-compute-module-4-with-a-pin-compatible-risc-v-alternative-77cdb3e6c6f1)
 * [2023-09-06, 02:23:19](https://news.ycombinator.com/item?id=37400694) - [Basilisk collection (2021)](https://suricrasia.online/unfiction/basilisk/)
 * [2023-09-06, 01:57:58](https://news.ycombinator.com/item?id=37400526) - [On the 10th anniversary of the Snowden revelations](https://www.electrospaces.net/2023/06/on-10th-anniversary-of-snowden.html)
 * [2023-09-06, 01:40:12](https://news.ycombinator.com/item?id=37400398) - [Writing Small CLI Programs in Common Lisp (2021)](https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/)
