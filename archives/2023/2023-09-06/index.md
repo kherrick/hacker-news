@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-06](index.md)
 
+* [2023-09-06, 16:21:02](https://news.ycombinator.com/item?id=37407331) - [“Why Socialism?” By Albert Einstein, 1949](https://monthlyreview.org/2009/05/01/why-socialism/)
+* [2023-09-06, 15:57:39](https://news.ycombinator.com/item?id=37406993) - [Personal Project Management for the Burgeoning Homesteader](https://writing.bobdoto.computer/doing-what-matters-most-how-a-task-focused-personal-project-management-system-helps-us-do-the-impossible/)
+* [2023-09-06, 15:41:55](https://news.ycombinator.com/item?id=37406746) - [All Librem 5 smartphones have shipped](https://puri.sm/posts/all-librem-5-smartphones-have-shipped/)
 * [2023-09-06, 15:20:04](https://news.ycombinator.com/item?id=37406442) - [From sex life to politics: car driver data grab presents ‘privacy nightmare'](https://www.theguardian.com/business/2023/sep/06/cars-collect-extensive-personal-data-on-drivers-study-warns)
 * [2023-09-06, 14:32:15](https://news.ycombinator.com/item?id=37405727) - [Effectiveness of physical activity for improving depression, anxiety, distress](https://bjsm.bmj.com/content/early/2023/07/11/bjsports-2022-106195)
 * [2023-09-06, 14:30:34](https://news.ycombinator.com/item?id=37405695) - [China Bans iPhone Use for Government Officials at Work](https://stocks.apple.com/A01gybx6UQReBj5eQUppe8g)
