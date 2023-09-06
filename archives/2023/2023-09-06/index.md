@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-06](index.md)
 
+* [2023-09-06, 22:55:52](https://news.ycombinator.com/item?id=37412555) - [Artificial Consciousness Remains Impossible (Part 2)](https://mindmatters.ai/2023/09/artificial-consciousness-remains-impossible-part-2/)
 * [2023-09-06, 21:25:04](https://news.ycombinator.com/item?id=37411547) - [Ten Million a Year Die from Air Pollution (2021)](https://www.lrb.co.uk/the-paper/v43/n23/david-wallace-wells/ten-million-a-year)
 * [2023-09-06, 21:03:16](https://news.ycombinator.com/item?id=37411292) - [Norway rolls back EV incentives while boosting walking and cycling](https://electrek.co/2022/05/17/norway-rolls-back-ev-incentives-while-boosting-walking-and-cycling/)
 * [2023-09-06, 21:02:33](https://news.ycombinator.com/item?id=37411279) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
@@ -18,6 +19,7 @@
 * [2023-09-06, 19:25:18](https://news.ycombinator.com/item?id=37409936) - [Britain Admits Defeat in Controversial Fight to Break Encryption](https://www.wired.com/story/britain-admits-defeat-online-safety-bill-encryption/)
 * [2023-09-06, 19:11:50](https://news.ycombinator.com/item?id=37409723) - [Disco Elysium and the need for collective action](https://jacobin.com/2023/09/disco-elysium-intellectual-property-video-game-industry-creative-workers-collective-action)
 * [2023-09-06, 18:59:10](https://news.ycombinator.com/item?id=37409524) - [Exploring EXIF](https://hturan.com/writing/exploring-exif)
+* [2023-09-06, 18:52:07](https://news.ycombinator.com/item?id=37409413) - [Show HN: Alaz: Open-Source, Self-Hosted, eBPF-Based K8s Monitoring](https://github.com/ddosify/alaz)
 * [2023-09-06, 18:47:45](https://news.ycombinator.com/item?id=37409348) - [Remove TypeScript](https://github.com/hotwired/turbo/pull/971)
 * [2023-09-06, 18:43:50](https://news.ycombinator.com/item?id=37409283) - ['Human Embryo Model' Without Sperm or Egg](https://wis-wander.weizmann.ac.il/life-sciences/human-embryo-models-grown-stem-cells)
 * [2023-09-06, 18:42:49](https://news.ycombinator.com/item?id=37409270) - [OpenAI DevDay](https://devday.openai.com/)
