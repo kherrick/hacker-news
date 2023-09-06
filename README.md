@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-06, 22:55:52](https://news.ycombinator.com/item?id=37412555) - [Artificial Consciousness Remains Impossible (Part 2)](https://mindmatters.ai/2023/09/artificial-consciousness-remains-impossible-part-2/)
-* [2023-09-06, 21:25:04](https://news.ycombinator.com/item?id=37411547) - [Ten million a year die from air pollution (2021)](https://www.lrb.co.uk/the-paper/v43/n23/david-wallace-wells/ten-million-a-year)
 * [2023-09-06, 21:03:16](https://news.ycombinator.com/item?id=37411292) - [Norway rolls back EV incentives while boosting walking and cycling](https://electrek.co/2022/05/17/norway-rolls-back-ev-incentives-while-boosting-walking-and-cycling/)
 * [2023-09-06, 20:26:45](https://news.ycombinator.com/item?id=37410812) - [Flexport CEO resigns a year after joining logistics company](https://www.geekwire.com/2023/former-amazon-exec-dave-clark-resigns-as-flexport-ceo-a-year-after-joining-logistics-company/)
 * [2023-09-06, 20:12:03](https://news.ycombinator.com/item?id=37410639) - [US broadband grant rules shut out small ISPs and municipalities, advocates say](https://arstechnica.com/tech-policy/2023/09/big-isps-will-dominate-42b-grant-fund-if-rules-arent-changed-advocates-say/)
@@ -17,6 +16,7 @@
 * [2023-09-06, 16:57:52](https://news.ycombinator.com/item?id=37407802) - [Playing with genetic algorithms in Python](https://joseprupi.github.io/misc/2023/08/19/playing_with_genetic_algorithms_in_python.html)
 * [2023-09-06, 16:56:25](https://news.ycombinator.com/item?id=37407787) - [Device offers long-distance, low-power underwater communication](https://news.mit.edu/2023/devices-offers-battery-free-underwater-communication-0906)
 * [2023-09-06, 16:54:29](https://news.ycombinator.com/item?id=37407758) - [Show HN: Nix Snapshotter – Native understanding of Nix packages for containerd](https://github.com/pdtpartners/nix-snapshotter)
+* [2023-09-06, 16:21:02](https://news.ycombinator.com/item?id=37407331) - [Why Socialism? (1949)](https://monthlyreview.org/2009/05/01/why-socialism/)
 * [2023-09-06, 13:21:17](https://news.ycombinator.com/item?id=37404740) - [Is this Duplo train track under too much tension?](https://puzzling.stackexchange.com/questions/122232/is-this-duplo-train-track-under-too-much-tension)
 * [2023-09-06, 11:56:35](https://news.ycombinator.com/item?id=37403799) - [Linux network performance parameters](https://github.com/leandromoreira/linux-network-performance-parameters)
 * [2023-09-06, 11:43:15](https://news.ycombinator.com/item?id=37403709) - [Chemists develop new way to split water](https://www.uni-muenster.de/news/view.php?cmdid=13436)
