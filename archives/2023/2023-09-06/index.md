@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-06](index.md)
 
 * [2023-09-06, 06:31:21](https://news.ycombinator.com/item?id=37401909) - [Google Chrome pushes browser history-based ad targeting](https://www.theregister.com/2023/09/06/google_privacy_popup_chrome/)
+* [2023-09-06, 05:43:07](https://news.ycombinator.com/item?id=37401676) - [Microsoft to stop forcing Windows 11 users into Edge in EU countries](https://www.theverge.com/2023/9/5/23859537/microsoft-windows-11-default-browser-links-eu-eea-changes)
 * [2023-09-06, 05:16:28](https://news.ycombinator.com/item?id=37401563) - [It’s Official: Cars Are the Worst Category We Have Ever Reviewed for Privacy](https://foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy/)
 * [2023-09-06, 04:47:27](https://news.ycombinator.com/item?id=37401433) - [Milk-V Goes After the Raspberry Pi Compute Module4 with RISC-V Alternative](https://www.hackster.io/news/milk-v-goes-after-the-raspberry-pi-compute-module-4-with-a-pin-compatible-risc-v-alternative-77cdb3e6c6f1)
 * [2023-09-06, 04:29:48](https://news.ycombinator.com/item?id=37401348) - [Molly Holzschlag has passes away](https://www.tucsonsentinel.com/local/report/090523_molly_holzschlag/tucsons-molly-holzschlag-known-as-the-fairy-godmother-web-dead-60/)
