@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-09-06](index.md)
 
+* [2023-09-06, 12:56:33](https://news.ycombinator.com/item?id=37404433) - [The world has just experienced the hottest summer on record – significant margin](https://www.cnn.com/2023/09/06/world/hottest-summer-record-climate-intl/index.html)
+* [2023-09-06, 12:55:56](https://news.ycombinator.com/item?id=37404428) - [Big effort needed on UK diet to fight ultra-processed food, say health experts](https://www.theguardian.com/society/2023/sep/02/big-effort-needed-on-uk-diet-to-fight-ultra-processed-food-say-health-experts)
+* [2023-09-06, 12:54:40](https://news.ycombinator.com/item?id=37404413) - [If You’ve Got a New Car, It’s a Data Privacy Nightmare](https://gizmodo.com/mozilla-new-cars-data-privacy-report-1850805416)
+* [2023-09-06, 12:46:17](https://news.ycombinator.com/item?id=37404319) - [EU unveils package of laws to curb power of big tech firms](https://www.theguardian.com/world/2023/sep/06/eu-unveils-package-laws-curb-power-big-tech-giants)
+* [2023-09-06, 12:29:33](https://news.ycombinator.com/item?id=37404109) - [‘She played it down’: Bletchley Park codebreaker dies at 99](https://www.theguardian.com/world/2023/sep/06/she-played-it-down-bletchley-park-codebreaker-dies-at-99)
 * [2023-09-06, 12:26:20](https://news.ycombinator.com/item?id=37404073) - [Björk has no time for your sexism bullshit 1994](https://www.youtube.com/watch?v=fzrhxAdC5K0)
 * [2023-09-06, 11:56:35](https://news.ycombinator.com/item?id=37403799) - [Linux Network Performance Parameters Explained](https://github.com/leandromoreira/linux-network-performance-parameters)
 * [2023-09-06, 11:53:37](https://news.ycombinator.com/item?id=37403773) - [Double Commander – Changes in version 1.1.0](https://github.com/doublecmd/doublecmd/wiki/Changes-in-version-1.1.0)
@@ -11,6 +16,7 @@
 * [2023-09-06, 11:25:43](https://news.ycombinator.com/item?id=37403592) - [Digital Markets Act: Commission designates six gatekeepers](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_4328)
 * [2023-09-06, 11:23:05](https://news.ycombinator.com/item?id=37403583) - [Norway court rules against Facebook owner Meta in privacy case](https://www.reuters.com/technology/norway-data-regulator-fine-meta-over-privacy-breaches-2023-08-07/)
 * [2023-09-06, 11:19:36](https://news.ycombinator.com/item?id=37403566) - [Toyota blames factory shutdown in Japan on ‘insufficient disk space’](https://www.theguardian.com/business/2023/sep/06/toyota-blames-factory-shutdown-in-japan-on-insufficient-disk-space)
+* [2023-09-06, 11:12:40](https://news.ycombinator.com/item?id=37403534) - [Show HN: A better way to read blogs](https://boredreading.com/)
 * [2023-09-06, 09:57:01](https://news.ycombinator.com/item?id=37403136) - [How would you say “She said goodbye too many times before.” in Latin?](https://latin.stackexchange.com/a/21492)
 * [2023-09-06, 09:55:34](https://news.ycombinator.com/item?id=37403127) - [Plans to cut speed limits ‘will significantly improve road safety' – minister](https://www.irishnews.com/news/republicofirelandnews/2023/09/06/news/plans_to_cut_speed_limits_will_significantly_improve_road_safety_minister-3588838/)
 * [2023-09-06, 09:53:07](https://news.ycombinator.com/item?id=37403114) - [Air Canada kicks off passengers who refused vomit-smeared seats](https://www.bbc.co.uk/news/world-us-canada-66727103)
