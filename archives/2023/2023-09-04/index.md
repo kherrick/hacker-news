@@ -11,6 +11,7 @@
 * [2023-09-04, 22:51:41](https://news.ycombinator.com/item?id=37385920) - [Multiple Notepad++ Flaws Let Attackers Execute Arbitrary Code](https://cybersecuritynews.com/multiple-notepad-flaw/)
 * [2023-09-04, 22:38:37](https://news.ycombinator.com/item?id=37385811) - [Oscilloscope watch ships after 10 years on kickstarter](https://www.tomshardware.com/news/oscilloscope-watch-ships-after-10-years)
 * [2023-09-04, 22:26:38](https://news.ycombinator.com/item?id=37385716) - [Emacs Bedrock: A minimal Emacs starter kit](https://sr.ht/~ashton314/emacs-bedrock/)
+* [2023-09-04, 22:04:41](https://news.ycombinator.com/item?id=37385575) - [Porter/Duff Compositing and Blend Modes (2013)](http://ssp.impulsetrain.com/porterduff.html)
 * [2023-09-04, 21:58:33](https://news.ycombinator.com/item?id=37385518) - [Rust crate rg typosquatting/redirect to ripgrep](https://github.com/BurntSushi/rg-cratesio-typosquat)
 * [2023-09-04, 21:53:33](https://news.ycombinator.com/item?id=37385468) - [What I would copy from the Pivotal interview process](https://www.simplermachines.com/what-i-would-copy-from-the-pivotal-interview-process/)
 * [2023-09-04, 21:49:58](https://news.ycombinator.com/item?id=37385447) - [A Test Suite for the Intel 8088](https://martypc.blogspot.com/2023/09/a-test-suite-for-intel-8088.html)

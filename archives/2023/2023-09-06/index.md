@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-06](index.md)
 
+* [2023-09-06, 08:14:30](https://news.ycombinator.com/item?id=37402524) - [Jailer is a unique open-source database tool](https://wisser.github.io/Jailer/)
+* [2023-09-06, 07:29:57](https://news.ycombinator.com/item?id=37402260) - [Black Hole Electron](https://en.wikipedia.org/wiki/Black_hole_electron)
 * [2023-09-06, 06:31:21](https://news.ycombinator.com/item?id=37401909) - [Google Chrome pushes browser history-based ad targeting](https://www.theregister.com/2023/09/06/google_privacy_popup_chrome/)
 * [2023-09-06, 05:43:07](https://news.ycombinator.com/item?id=37401676) - [Microsoft to stop forcing Windows 11 users into Edge in EU countries](https://www.theverge.com/2023/9/5/23859537/microsoft-windows-11-default-browser-links-eu-eea-changes)
 * [2023-09-06, 05:16:28](https://news.ycombinator.com/item?id=37401563) - [It’s Official: Cars Are the Worst Category We Have Ever Reviewed for Privacy](https://foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy/)
