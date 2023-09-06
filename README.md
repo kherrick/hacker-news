@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-06, 15:20:04](https://news.ycombinator.com/item?id=37406442) - [From sex life to politics: car driver data grab presents ‘privacy nightmare'](https://www.theguardian.com/business/2023/sep/06/cars-collect-extensive-personal-data-on-drivers-study-warns)
 * [2023-09-06, 14:32:15](https://news.ycombinator.com/item?id=37405727) - [Effectiveness of physical activity for improving depression, anxiety, distress](https://bjsm.bmj.com/content/early/2023/07/11/bjsports-2022-106195)
 * [2023-09-06, 14:30:34](https://news.ycombinator.com/item?id=37405695) - [China Bans iPhone Use for Government Officials at Work](https://stocks.apple.com/A01gybx6UQReBj5eQUppe8g)
 * [2023-09-06, 14:17:37](https://news.ycombinator.com/item?id=37405519) - [‘Modern cars are a privacy nightmare,’ the worst Mozilla’s seen](https://www.theverge.com/2023/9/6/23861047/car-user-privacy-report-mozilla-foundation-data-collection)
 * [2023-09-06, 13:37:53](https://news.ycombinator.com/item?id=37404936) - [Now it's PostgreSQL's turn to have a bogus CVE](https://opensourcewatch.beehiiv.com/p/now-postgresqls-turn-bogus-cve)
-* [2023-09-06, 13:29:13](https://news.ycombinator.com/item?id=37404828) - [The Pentagon and CIA have shaped thousands of movies into effective propaganda](https://worldbeyondwar.org/the-pentagon-and-cia-have-shaped-thousands-of-hollywood-movies-into-super-effective-propaganda/)
 * [2023-09-06, 13:21:17](https://news.ycombinator.com/item?id=37404740) - [Is this Duplo train track under too much tension?](https://puzzling.stackexchange.com/questions/122232/is-this-duplo-train-track-under-too-much-tension)
 * [2023-09-06, 12:55:28](https://news.ycombinator.com/item?id=37404424) - [Falcon 180B](https://huggingface.co/blog/falcon-180b)
 * [2023-09-06, 12:54:40](https://news.ycombinator.com/item?id=37404413) - [If You’ve Got a New Car, It’s a Data Privacy Nightmare](https://gizmodo.com/mozilla-new-cars-data-privacy-report-1850805416)
