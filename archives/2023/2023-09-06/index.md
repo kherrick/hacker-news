@@ -6,6 +6,7 @@
 
 * [2023-09-06, 11:25:43](https://news.ycombinator.com/item?id=37403592) - [Digital Markets Act: Commission designates six gatekeepers](https://ec.europa.eu/commission/presscorner/detail/en/ip_23_4328)
 * [2023-09-06, 11:23:05](https://news.ycombinator.com/item?id=37403583) - [Norway court rules against Facebook owner Meta in privacy case](https://www.reuters.com/technology/norway-data-regulator-fine-meta-over-privacy-breaches-2023-08-07/)
+* [2023-09-06, 11:19:36](https://news.ycombinator.com/item?id=37403566) - [Toyota blames factory shutdown in Japan on ‘insufficient disk space’](https://www.theguardian.com/business/2023/sep/06/toyota-blames-factory-shutdown-in-japan-on-insufficient-disk-space)
 * [2023-09-06, 09:57:01](https://news.ycombinator.com/item?id=37403136) - [How would you say “She said goodbye too many times before.” in Latin?](https://latin.stackexchange.com/a/21492)
 * [2023-09-06, 09:53:07](https://news.ycombinator.com/item?id=37403114) - [Air Canada kicks off passengers who refused vomit-smeared seats](https://www.bbc.co.uk/news/world-us-canada-66727103)
 * [2023-09-06, 09:48:50](https://news.ycombinator.com/item?id=37403074) - [Gcsfuse: A user-space file system for interacting with Google Cloud Storage](https://github.com/GoogleCloudPlatform/gcsfuse)
