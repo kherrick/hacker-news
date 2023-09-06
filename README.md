@@ -20,7 +20,6 @@
 * [2023-09-06, 09:48:50](https://news.ycombinator.com/item?id=37403074) - [Gcsfuse: A user-space file system for interacting with Google Cloud Storage](https://github.com/GoogleCloudPlatform/gcsfuse)
 * [2023-09-06, 09:23:08](https://news.ycombinator.com/item?id=37402925) - [Remembering Doug Lenat (1950–2023) and His Quest to Capture the World with Logic](https://writings.stephenwolfram.com/2023/09/remembering-doug-lenat-1950-2023-and-his-quest-to-capture-the-world-with-logic/)
 * [2023-09-06, 04:29:48](https://news.ycombinator.com/item?id=37401348) - [Molly Holzschlag has died](https://www.tucsonsentinel.com/local/report/090523_molly_holzschlag/tucsons-molly-holzschlag-known-as-the-fairy-godmother-web-dead-60/)
-* [2023-09-06, 01:40:12](https://news.ycombinator.com/item?id=37400398) - [Writing Small CLI Programs in Common Lisp (2021)](https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/)
 * [2023-09-06, 00:40:05](https://news.ycombinator.com/item?id=37399873) - [Can LLMs learn from a single example?](https://www.fast.ai/posts/2023-09-04-learning-jumps/)
 * [2023-09-05, 15:07:21](https://news.ycombinator.com/item?id=37392676) - [Ask HN: I’m an FCC Commissioner proposing regulation of IoT security updates](https://news.ycombinator.com/item?id=37392676)
 * [2023-09-05, 11:30:43](https://news.ycombinator.com/item?id=37390322) - [Ford 021C Concept Car (1999)](https://marc-newson.com/ford-021c-concept-car/)
@@ -28,6 +27,7 @@
 * [2023-09-04, 23:32:38](https://news.ycombinator.com/item?id=37386205) - [Man, Myth and Magic](https://www.johncoulthart.com/feuilleton/2023/09/04/the-most-unusual-magazine-ever-published-man-myth-and-magic/)
 * [2023-09-04, 21:39:19](https://news.ycombinator.com/item?id=37385362) - [Experimental archaeologist tested out Stone-Age living on the Thames](https://www.nationalgeographic.com/travel/article/dr-theresa-emmerich-kamper-ancient-skills-stone-age-living)
 * [2023-09-04, 20:48:55](https://news.ycombinator.com/item?id=37384916) - [Four Lectures on Standard ML (1989) [pdf]](https://www.cs.tufts.edu/~nr/cs257/archive/mads-tofte/four-lectures.pdf)
+* [2023-09-04, 13:04:26](https://news.ycombinator.com/item?id=37380100) - [History of Cartography: Volumes One, Two, Three, Four, and Six (1987)](https://press.uchicago.edu/books/HOC/index.html)
 * [2023-09-04, 11:00:11](https://news.ycombinator.com/item?id=37379261) - [Show HN: Comgra: A library for debugging and understanding neural networks](https://github.com/FlorianDietz/comgra)
 * [2023-09-04, 05:53:25](https://news.ycombinator.com/item?id=37377529) - [Bintracker: A chiptune audio workstation for the 21st century](https://bintracker.org/)
 

@@ -71,6 +71,7 @@
 * [2023-09-04, 13:34:49](https://news.ycombinator.com/item?id=37380314) - [Computing Power Used to Be Measured in 'Kilo-Girls'](https://www.theatlantic.com/technology/archive/2013/10/computing-power-used-to-be-measured-in-kilo-girls/280633/)
 * [2023-09-04, 13:29:17](https://news.ycombinator.com/item?id=37380270) - [Titanium spikes kill superbugs drug-free by ripping them apart](https://newatlas.com/medical/titanium-spikes-effective-drug-free-kill-antibiotic-resistant-superbugs/)
 * [2023-09-04, 13:04:48](https://news.ycombinator.com/item?id=37380104) - [Is macOS’s new XProtect behavioural security preparing to go live?](https://eclecticlight.co/2023/09/04/is-macoss-new-xprotect-behavioural-security-preparing-to-go-live/)
+* [2023-09-04, 13:04:26](https://news.ycombinator.com/item?id=37380100) - [History of Cartography: Volumes One, Two, Three, Four, and Six (1987)](https://press.uchicago.edu/books/HOC/index.html)
 * [2023-09-04, 12:47:48](https://news.ycombinator.com/item?id=37379984) - [TinyLlama project aims to pretrain a 1.1B Llama model on 3T tokens](https://github.com/jzhang38/TinyLlama)
 * [2023-09-04, 12:36:43](https://news.ycombinator.com/item?id=37379911) - [Every billable hour is amateur hour](https://daedtech.com/every-billable-hour-is-amateur-hour/)
 * [2023-09-04, 12:26:12](https://news.ycombinator.com/item?id=37379823) - [How Accurate Were EPAs Predictions of climate change from 40 years ago?](https://themessenger.com/tech/forty-years-ago-scientists-warned-about-climate-change-how-accurate-were-their-predictions)
