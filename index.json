@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-09-06, 12:55:28",
+      "https://news.ycombinator.com/item?id=37404424"
+    ],
+    [
+      "Falcon 180B Released",
+      "https://huggingface.co/blog/falcon-180b"
+    ]
+  ],
+  [
+    [
       "2023-09-06, 12:54:40",
       "https://news.ycombinator.com/item?id=37404413"
     ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=37404109"
     ],
     [
-      "‘She played it down’: Bletchley Park codebreaker dies at 99",
+      "Bletchley Park codebreaker Margaret Betts has died",
       "https://www.theguardian.com/world/2023/sep/06/she-played-it-down-bletchley-park-codebreaker-dies-at-99"
     ]
   ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2023-09-06, 00:32:02",
-      "https://news.ycombinator.com/item?id=37399799"
-    ],
-    [
-      "Interoperability can save the open web",
-      "https://spectrum.ieee.org/doctorow-interoperability"
-    ]
-  ],
-  [
-    [
       "2023-09-05, 22:49:28",
       "https://news.ycombinator.com/item?id=37398891"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2023-09-04, 22:04:41",
-      "https://news.ycombinator.com/item?id=37385575"
-    ],
-    [
-      "Porter/Duff Compositing and Blend Modes (2013)",
-      "http://ssp.impulsetrain.com/porterduff.html"
-    ]
-  ],
-  [
-    [
       "2023-09-04, 21:39:19",
       "https://news.ycombinator.com/item?id=37385362"
     ],
@@ -287,6 +277,16 @@
     [
       "How to level up beyond ETLs",
       "https://www.ezzeriesa.com/index/Writing%20efa7772a3ae64a8193c7ef981ac619fc/How%20to%20level%20up%20beyond%20ETLs%200987988358654751a8538a05bde18f96.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-04, 11:00:11",
+      "https://news.ycombinator.com/item?id=37379261"
+    ],
+    [
+      "Show HN: Comgra: A library for debugging and understanding neural networks",
+      "https://github.com/FlorianDietz/comgra"
     ]
   ],
   [
