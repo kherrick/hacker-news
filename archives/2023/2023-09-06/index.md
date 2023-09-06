@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-06](index.md)
 
+* [2023-09-06, 05:16:28](https://news.ycombinator.com/item?id=37401563) - [It’s Official: Cars Are the Worst Category We Have Ever Reviewed for Privacy](https://foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy/)
 * [2023-09-06, 04:47:27](https://news.ycombinator.com/item?id=37401433) - [Milk-V Goes After the Raspberry Pi Compute Module4 with RISC-V Alternative](https://www.hackster.io/news/milk-v-goes-after-the-raspberry-pi-compute-module-4-with-a-pin-compatible-risc-v-alternative-77cdb3e6c6f1)
 * [2023-09-06, 02:23:19](https://news.ycombinator.com/item?id=37400694) - [Basilisk collection (2021)](https://suricrasia.online/unfiction/basilisk/)
 * [2023-09-06, 01:57:58](https://news.ycombinator.com/item?id=37400526) - [On the 10th anniversary of the Snowden revelations](https://www.electrospaces.net/2023/06/on-10th-anniversary-of-snowden.html)
