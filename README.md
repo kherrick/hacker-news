@@ -2,7 +2,7 @@
 
 * [2023-09-06, 18:43:50](https://news.ycombinator.com/item?id=37409283) - ['Human Embryo Model' Without Sperm or Egg](https://wis-wander.weizmann.ac.il/life-sciences/human-embryo-models-grown-stem-cells)
 * [2023-09-06, 18:20:32](https://news.ycombinator.com/item?id=37408985) - [Amazon Andy Jassy shouldn’t make RTO decisions in echo chamber of CEOs feelings](https://fortune.com/2023/09/05/amazon-andy-jassy-return-to-office-decisions-echo-chamber-ceo-feelings-work-gleb-tsipursky/)
-* [2023-09-06, 18:17:15](https://news.ycombinator.com/item?id=37408929) - [37signals Introduces Once – One time payment software](https://once.com/)
+* [2023-09-06, 18:17:15](https://news.ycombinator.com/item?id=37408929) - [37signals Introduces \"Once\" - Buy software one time](https://once.com/)
 * [2023-09-06, 18:08:43](https://news.ycombinator.com/item?id=37408794) - [Ask HN: Is there a data loss bug lurking in MS365 backup solutions?](https://news.ycombinator.com/item?id=37408794)
 * [2023-09-06, 18:07:21](https://news.ycombinator.com/item?id=37408776) - [Results of technical investigations for Storm-0558 key acquisition](https://msrc.microsoft.com/blog/2023/09/results-of-major-technical-investigations-for-storm-0558-key-acquisition/)
 * [2023-09-06, 17:28:25](https://news.ycombinator.com/item?id=37408196) - [U.K. abandons, for now, legislation that would have banned end-to-end encryption](https://daringfireball.net/linked/2023/09/06/uk-encryption-win)
