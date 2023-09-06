@@ -16,6 +16,7 @@
 * [2023-09-04, 21:49:58](https://news.ycombinator.com/item?id=37385447) - [A Test Suite for the Intel 8088](https://martypc.blogspot.com/2023/09/a-test-suite-for-intel-8088.html)
 * [2023-09-04, 21:49:06](https://news.ycombinator.com/item?id=37385440) - [The Lies in Your Grocery Store, and the Laywer Who Can't Stomach Them](https://www.newyorker.com/magazine/2023/09/11/the-lies-in-your-grocery-store)
 * [2023-09-04, 21:43:38](https://news.ycombinator.com/item?id=37385401) - [Designing a cursor for augmented reality](https://ameye.dev/notes/ar-cursor/)
+* [2023-09-04, 21:39:19](https://news.ycombinator.com/item?id=37385362) - [Experimental archaeologist tested out Stone-Age living on the Thames](https://www.nationalgeographic.com/travel/article/dr-theresa-emmerich-kamper-ancient-skills-stone-age-living)
 * [2023-09-04, 21:28:40](https://news.ycombinator.com/item?id=37385267) - [The Apple $2T Economy](http://www.asymco.com/2023/09/04/the-2-trillion-economy/)
 * [2023-09-04, 21:21:24](https://news.ycombinator.com/item?id=37385197) - [WASM: Big deal or little deal?](https://www.theregister.com/2023/09/01/web_assembly_wasm_column/)
 * [2023-09-04, 21:03:34](https://news.ycombinator.com/item?id=37385038) - [The Ones We Sent Away](https://www.theatlantic.com/magazine/archive/2023/09/disabled-children-institutionalization-history/674763/)
