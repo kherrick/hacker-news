@@ -20,6 +20,7 @@
 * [2023-09-05, 20:39:09](https://news.ycombinator.com/item?id=37397405) - [How Amazon uses chaos engineering to handle 80k requests per second](https://community.aws/posts/how-search-uses-chaos-engineering)
 * [2023-09-05, 20:36:20](https://news.ycombinator.com/item?id=37397359) - [deVStudio – Runs VS Code on Android](https://play.google.com/store/apps/details?id=tech.ula.devstudio&hl=en_US)
 * [2023-09-05, 20:33:18](https://news.ycombinator.com/item?id=37397323) - [When deployments are easy, code becomes simpler](https://bitbytebit.substack.com/p/when-deployments-are-easy-code-becomes)
+* [2023-09-05, 19:36:13](https://news.ycombinator.com/item?id=37396664) - [OWASP Top API Security Risks – 2023](https://owasp.org/API-Security/editions/2023/en/0x11-t10/)
 * [2023-09-05, 19:24:07](https://news.ycombinator.com/item?id=37396511) - [Searching for “Notepad” on DuckDuckGo yields zero results](https://duckduckgo.com/?t=ffab&q=notepad&ia=web)
 * [2023-09-05, 19:21:59](https://news.ycombinator.com/item?id=37396479) - [Forming an Edge](https://www.scopeofwork.net/forming-an-edge/)
 * [2023-09-05, 18:49:03](https://news.ycombinator.com/item?id=37396041) - [Googles hidden penalties against websites](http://onlineslangdictionary.com/pages/google-panda-penalty/)
