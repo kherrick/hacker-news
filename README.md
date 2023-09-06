@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-06, 06:31:21](https://news.ycombinator.com/item?id=37401909) - [Google Chrome pushes browser history-based ad targeting](https://www.theregister.com/2023/09/06/google_privacy_popup_chrome/)
 * [2023-09-06, 01:57:58](https://news.ycombinator.com/item?id=37400526) - [On the 10th anniversary of the Snowden revelations](https://www.electrospaces.net/2023/06/on-10th-anniversary-of-snowden.html)
 * [2023-09-06, 01:40:12](https://news.ycombinator.com/item?id=37400398) - [Writing Small CLI Programs in Common Lisp (2021)](https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/)
 * [2023-09-06, 00:58:30](https://news.ycombinator.com/item?id=37400018) - [Fighting API bots with Cloudflare's invisible turnstile](https://www.troyhunt.com/fighting-api-bots-with-cloudflares-invisible-turnstile/)
@@ -8,7 +9,6 @@
 * [2023-09-05, 22:53:09](https://news.ycombinator.com/item?id=37398921) - [Engineer’s guide to career growth: Advice from my time at Stripe and Facebook](https://review.firstround.com/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook)
 * [2023-09-05, 22:49:28](https://news.ycombinator.com/item?id=37398891) - [Meta's Segment Anything written with C++ / GGML](https://github.com/YavorGIvanov/sam.cpp)
 * [2023-09-05, 22:42:39](https://news.ycombinator.com/item?id=37398812) - [Show HN: Fully client-side GPT2 prediction visualizer](https://perplexity.vercel.app/)
-* [2023-09-05, 21:56:40](https://news.ycombinator.com/item?id=37398317) - [Preserving trust in photojournalism through authentication technology](https://www.reutersagency.com/authenticity-poc/)
 * [2023-09-05, 21:01:16](https://news.ycombinator.com/item?id=37397686) - [Emerge (YC W21) is hiring a lead front end engineer (remote, small team)](https://www.workatastartup.com/jobs/61922/)
 * [2023-09-05, 20:36:20](https://news.ycombinator.com/item?id=37397359) - [deVStudio – Runs VS Code on Android](https://play.google.com/store/apps/details?id=tech.ula.devstudio&hl=en_US)
 * [2023-09-05, 20:33:18](https://news.ycombinator.com/item?id=37397323) - [When deployments are easy, code becomes simpler](https://bitbytebit.substack.com/p/when-deployments-are-easy-code-becomes)
