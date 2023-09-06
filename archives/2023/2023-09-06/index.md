@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-06](index.md)
 
+* [2023-09-06, 18:43:50](https://news.ycombinator.com/item?id=37409283) - ['Human Embryo Model' Without Sperm or Egg](https://wis-wander.weizmann.ac.il/life-sciences/human-embryo-models-grown-stem-cells)
 * [2023-09-06, 18:24:04](https://news.ycombinator.com/item?id=37409044) - [Starship is ready for its 2nd test flight](https://arstechnica.com/space/2023/09/starship-is-stacked-and-ready-to-make-its-second-launch-attempt/)
 * [2023-09-06, 18:20:32](https://news.ycombinator.com/item?id=37408985) - [Amazon Andy Jassy shouldn’t make RTO decisions in echo chamber of CEOs feelings](https://fortune.com/2023/09/05/amazon-andy-jassy-return-to-office-decisions-echo-chamber-ceo-feelings-work-gleb-tsipursky/)
 * [2023-09-06, 18:08:43](https://news.ycombinator.com/item?id=37408794) - [Ask HN: Is there a data loss bug lurking in MS365 backup solutions?](https://news.ycombinator.com/item?id=37408794)
@@ -56,6 +57,7 @@
 * [2023-09-06, 09:48:50](https://news.ycombinator.com/item?id=37403074) - [Gcsfuse: A user-space file system for interacting with Google Cloud Storage](https://github.com/GoogleCloudPlatform/gcsfuse)
 * [2023-09-06, 09:23:08](https://news.ycombinator.com/item?id=37402925) - [Remembering Doug Lenat (1950–2023) and His Quest to Capture the World with Logic](https://writings.stephenwolfram.com/2023/09/remembering-doug-lenat-1950-2023-and-his-quest-to-capture-the-world-with-logic/)
 * [2023-09-06, 08:14:30](https://news.ycombinator.com/item?id=37402524) - [Jailer is a unique open-source database tool](https://wisser.github.io/Jailer/)
+* [2023-09-06, 08:00:25](https://news.ycombinator.com/item?id=37402447) - [The Skiatron and Early Dark Trace CRTs](https://www.masswerk.at/nowgobang/2023/skiatron)
 * [2023-09-06, 07:29:57](https://news.ycombinator.com/item?id=37402260) - [Black Hole Electron](https://en.wikipedia.org/wiki/Black_hole_electron)
 * [2023-09-06, 06:31:21](https://news.ycombinator.com/item?id=37401909) - [Google Chrome pushes browser history-based ad targeting](https://www.theregister.com/2023/09/06/google_privacy_popup_chrome/)
 * [2023-09-06, 05:43:07](https://news.ycombinator.com/item?id=37401676) - [Microsoft to stop forcing Windows 11 users into Edge in EU countries](https://www.theverge.com/2023/9/5/23859537/microsoft-windows-11-default-browser-links-eu-eea-changes)
