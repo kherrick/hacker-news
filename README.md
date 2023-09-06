@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-06, 06:31:21](https://news.ycombinator.com/item?id=37401909) - [Google Chrome pushes browser history-based ad targeting](https://www.theregister.com/2023/09/06/google_privacy_popup_chrome/)
-* [2023-09-06, 04:29:48](https://news.ycombinator.com/item?id=37401348) - [Molly Holzschlag has passes away](https://www.tucsonsentinel.com/local/report/090523_molly_holzschlag/tucsons-molly-holzschlag-known-as-the-fairy-godmother-web-dead-60/)
+* [2023-09-06, 04:29:48](https://news.ycombinator.com/item?id=37401348) - [Molly Holzschlag has died](https://www.tucsonsentinel.com/local/report/090523_molly_holzschlag/tucsons-molly-holzschlag-known-as-the-fairy-godmother-web-dead-60/)
 * [2023-09-06, 01:57:58](https://news.ycombinator.com/item?id=37400526) - [On the 10th anniversary of the Snowden revelations](https://www.electrospaces.net/2023/06/on-10th-anniversary-of-snowden.html)
 * [2023-09-06, 01:40:12](https://news.ycombinator.com/item?id=37400398) - [Writing Small CLI Programs in Common Lisp (2021)](https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/)
 * [2023-09-06, 00:58:30](https://news.ycombinator.com/item?id=37400018) - [Fighting API bots with Cloudflare's invisible turnstile](https://www.troyhunt.com/fighting-api-bots-with-cloudflares-invisible-turnstile/)
