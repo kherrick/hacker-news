@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-06, 16:21:02](https://news.ycombinator.com/item?id=37407331) - [“Why Socialism?” By Albert Einstein, 1949](https://monthlyreview.org/2009/05/01/why-socialism/)
-* [2023-09-06, 15:57:39](https://news.ycombinator.com/item?id=37406993) - [Personal Project Management for the Burgeoning Homesteader](https://writing.bobdoto.computer/doing-what-matters-most-how-a-task-focused-personal-project-management-system-helps-us-do-the-impossible/)
+* [2023-09-06, 15:46:40](https://news.ycombinator.com/item?id=37406811) - [Connected cars are a “privacy nightmare,” Mozilla Foundation says](https://arstechnica.com/cars/2023/09/connected-cars-are-a-privacy-nightmare-mozilla-foundation-says/)
 * [2023-09-06, 15:41:55](https://news.ycombinator.com/item?id=37406746) - [All Librem 5 smartphones have shipped](https://puri.sm/posts/all-librem-5-smartphones-have-shipped/)
+* [2023-09-06, 15:39:50](https://news.ycombinator.com/item?id=37406719) - [I can tolerate anything except the outgroup (2014)](https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/)
 * [2023-09-06, 14:32:15](https://news.ycombinator.com/item?id=37405727) - [Effectiveness of physical activity for improving depression, anxiety, distress](https://bjsm.bmj.com/content/early/2023/07/11/bjsports-2022-106195)
 * [2023-09-06, 14:30:34](https://news.ycombinator.com/item?id=37405695) - [China Bans iPhone Use for Government Officials at Work](https://stocks.apple.com/A01gybx6UQReBj5eQUppe8g)
-* [2023-09-06, 14:17:37](https://news.ycombinator.com/item?id=37405519) - [‘Modern cars are a privacy nightmare,’ the worst Mozilla’s seen](https://www.theverge.com/2023/9/6/23861047/car-user-privacy-report-mozilla-foundation-data-collection)
 * [2023-09-06, 13:37:53](https://news.ycombinator.com/item?id=37404936) - [Now it's PostgreSQL's turn to have a bogus CVE](https://opensourcewatch.beehiiv.com/p/now-postgresqls-turn-bogus-cve)
 * [2023-09-06, 13:21:17](https://news.ycombinator.com/item?id=37404740) - [Is this Duplo train track under too much tension?](https://puzzling.stackexchange.com/questions/122232/is-this-duplo-train-track-under-too-much-tension)
 * [2023-09-06, 12:55:28](https://news.ycombinator.com/item?id=37404424) - [Falcon 180B](https://huggingface.co/blog/falcon-180b)
