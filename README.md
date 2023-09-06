@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-06, 06:31:21](https://news.ycombinator.com/item?id=37401909) - [Google Chrome pushes browser history-based ad targeting](https://www.theregister.com/2023/09/06/google_privacy_popup_chrome/)
+* [2023-09-06, 04:29:48](https://news.ycombinator.com/item?id=37401348) - [Molly Holzschlag has passes away](https://www.tucsonsentinel.com/local/report/090523_molly_holzschlag/tucsons-molly-holzschlag-known-as-the-fairy-godmother-web-dead-60/)
 * [2023-09-06, 01:57:58](https://news.ycombinator.com/item?id=37400526) - [On the 10th anniversary of the Snowden revelations](https://www.electrospaces.net/2023/06/on-10th-anniversary-of-snowden.html)
 * [2023-09-06, 01:40:12](https://news.ycombinator.com/item?id=37400398) - [Writing Small CLI Programs in Common Lisp (2021)](https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/)
 * [2023-09-06, 00:58:30](https://news.ycombinator.com/item?id=37400018) - [Fighting API bots with Cloudflare's invisible turnstile](https://www.troyhunt.com/fighting-api-bots-with-cloudflares-invisible-turnstile/)
@@ -15,7 +16,6 @@
 * [2023-09-05, 17:55:29](https://news.ycombinator.com/item?id=37395370) - [Klack – Satisfying sound with every keystroke](https://tryklack.com/)
 * [2023-09-05, 17:39:08](https://news.ycombinator.com/item?id=37395168) - [Mentra aims to match neurodivergent jobseekers with jobs](https://techcrunch.com/2023/09/05/sam-altman-backed-startup-aims-to-match-neurodivergent-jobseekers-with-ideal-jobs/)
 * [2023-09-05, 17:33:35](https://news.ycombinator.com/item?id=37395096) - [If you can use open source, you can build hardware](https://redeem-tomorrow.com/if-you-can-use-open-source-you-can-build-hardware)
-* [2023-09-05, 16:33:40](https://news.ycombinator.com/item?id=37394194) - [Show HN: Bedframe – open-source Browser Extension Development framework](https://github.com/nyaggah/bedframe)
 * [2023-09-05, 16:29:32](https://news.ycombinator.com/item?id=37394109) - [The perpetual truck driver shortage is not real](https://www.freightwaves.com/news/the-perpetual-truck-driver-shortage-is-not-real)
 * [2023-09-05, 16:13:09](https://news.ycombinator.com/item?id=37393820) - [Learn WebAssembly by writing small programs](https://github.com/EmNudge/watlings)
 * [2023-09-05, 15:33:34](https://news.ycombinator.com/item?id=37393099) - [Show HN: Open-source Postman alternative with type safety](https://recipeui.com/)
