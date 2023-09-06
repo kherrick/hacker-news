@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-06](index.md)
 
+* [2023-09-06, 18:24:04](https://news.ycombinator.com/item?id=37409044) - [Starship is ready for its 2nd test flight](https://arstechnica.com/space/2023/09/starship-is-stacked-and-ready-to-make-its-second-launch-attempt/)
 * [2023-09-06, 18:07:21](https://news.ycombinator.com/item?id=37408776) - [Results of technical investigations for Storm-0558 key acquisition](https://msrc.microsoft.com/blog/2023/09/results-of-major-technical-investigations-for-storm-0558-key-acquisition/)
 * [2023-09-06, 17:34:53](https://news.ycombinator.com/item?id=37408292) - [Early human ancestors turned stones into spheres on purpose, study suggests](https://www.theguardian.com/science/2023/sep/06/early-human-ancestors-turned-stones-into-spheres-on-purpose-study-suggests)
 * [2023-09-06, 17:30:59](https://news.ycombinator.com/item?id=37408234) - [Join us for OpenAI’s first developer conference on November 6 in San Francisco](https://openai.com/blog/announcing-openai-devday)
