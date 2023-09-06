@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-06](index.md)
 
+* [2023-09-06, 20:05:55](https://news.ycombinator.com/item?id=37410558) - [Constant Time Stateless Shuffling and Grouping](https://www.ea.com/seed/news/constant-time-stateless-shuffling)
+* [2023-09-06, 19:11:50](https://news.ycombinator.com/item?id=37409723) - [Disco Elysium and the need for collective action](https://jacobin.com/2023/09/disco-elysium-intellectual-property-video-game-industry-creative-workers-collective-action)
 * [2023-09-06, 18:43:50](https://news.ycombinator.com/item?id=37409283) - ['Human Embryo Model' Without Sperm or Egg](https://wis-wander.weizmann.ac.il/life-sciences/human-embryo-models-grown-stem-cells)
 * [2023-09-06, 18:24:04](https://news.ycombinator.com/item?id=37409044) - [Starship is ready for its 2nd test flight](https://arstechnica.com/space/2023/09/starship-is-stacked-and-ready-to-make-its-second-launch-attempt/)
 * [2023-09-06, 18:20:32](https://news.ycombinator.com/item?id=37408985) - [Amazon Andy Jassy shouldn’t make RTO decisions in echo chamber of CEOs feelings](https://fortune.com/2023/09/05/amazon-andy-jassy-return-to-office-decisions-echo-chamber-ceo-feelings-work-gleb-tsipursky/)
