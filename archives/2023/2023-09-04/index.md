@@ -53,6 +53,7 @@
 * [2023-09-04, 15:28:18](https://news.ycombinator.com/item?id=37381409) - [DSLs Are a Waste of Time](https://leebriggs.co.uk/blog/2023/09/04/dsl)
 * [2023-09-04, 15:27:59](https://news.ycombinator.com/item?id=37381407) - [Portal 64 – A demake of Portal for the Nintendo 64](https://github.com/lambertjamesd/portal64)
 * [2023-09-04, 15:25:13](https://news.ycombinator.com/item?id=37381377) - [Ask HN: In person industry tours and site visits](https://news.ycombinator.com/item?id=37381377)
+* [2023-09-04, 15:22:19](https://news.ycombinator.com/item?id=37381347) - [The Wit and Wisdom of a 109-Year-Old Man](https://www.thefp.com/p/wit-and-wisdom-of-109-year-man-book-of-charlie)
 * [2023-09-04, 15:20:45](https://news.ycombinator.com/item?id=37381335) - [VSCodium – Libre Open Source Software Binaries of VS Code](https://vscodium.com)
 * [2023-09-04, 15:16:42](https://news.ycombinator.com/item?id=37381296) - [Show HN: finetune LLMs via the Finetuning Hub](https://github.com/georgian-io/LLM-Finetuning-Hub)
 * [2023-09-04, 15:15:09](https://news.ycombinator.com/item?id=37381268) - [Show HN: Keep – GitHub Actions for your monitoring tools](https://github.com/keephq/keep)
