@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-06](index.md)
 
+* [2023-09-06, 16:57:52](https://news.ycombinator.com/item?id=37407802) - [Playing with Genetic Algorithms in Python](https://joseprupi.github.io/misc/2023/08/19/playing_with_genetic_algorithms_in_python.html)
+* [2023-09-06, 16:34:15](https://news.ycombinator.com/item?id=37407494) - [I replaced 50 lines of code with a single LLM prompt](https://www.haihai.ai/programming-with-llm/)
+* [2023-09-06, 16:27:03](https://news.ycombinator.com/item?id=37407409) - [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
 * [2023-09-06, 16:21:02](https://news.ycombinator.com/item?id=37407331) - [“Why Socialism?” By Albert Einstein, 1949](https://monthlyreview.org/2009/05/01/why-socialism/)
 * [2023-09-06, 15:57:39](https://news.ycombinator.com/item?id=37406993) - [Personal Project Management for the Burgeoning Homesteader](https://writing.bobdoto.computer/doing-what-matters-most-how-a-task-focused-personal-project-management-system-helps-us-do-the-impossible/)
 * [2023-09-06, 15:46:40](https://news.ycombinator.com/item?id=37406811) - [Connected cars are a “privacy nightmare,” Mozilla Foundation says](https://arstechnica.com/cars/2023/09/connected-cars-are-a-privacy-nightmare-mozilla-foundation-says/)
