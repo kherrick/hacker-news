@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-06](index.md)
 
+* [2023-09-06, 12:26:20](https://news.ycombinator.com/item?id=37404073) - [Björk has no time for your sexism bullshit 1994](https://www.youtube.com/watch?v=fzrhxAdC5K0)
 * [2023-09-06, 11:56:35](https://news.ycombinator.com/item?id=37403799) - [Linux Network Performance Parameters Explained](https://github.com/leandromoreira/linux-network-performance-parameters)
 * [2023-09-06, 11:53:37](https://news.ycombinator.com/item?id=37403773) - [Double Commander – Changes in version 1.1.0](https://github.com/doublecmd/doublecmd/wiki/Changes-in-version-1.1.0)
 * [2023-09-06, 11:33:04](https://news.ycombinator.com/item?id=37403633) - [Oslo district court rules Meta is violating the right to privacy (Norwegian)](https://nrkbeta.no/2023/09/06/datatilsynet-vant-frem-i-oslo-tingrett-mot-meta/)
