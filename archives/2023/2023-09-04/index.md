@@ -33,6 +33,7 @@
 * [2023-09-04, 18:31:56](https://news.ycombinator.com/item?id=37383413) - [Chinchilla’s Death](https://espadrine.github.io/blog/posts/chinchilla-s-death.html)
 * [2023-09-04, 18:17:21](https://news.ycombinator.com/item?id=37383283) - [Tidal Energy Is Not Renewable](https://cs.stanford.edu/people/zjl/tide.html)
 * [2023-09-04, 18:13:14](https://news.ycombinator.com/item?id=37383245) - [Geo Guesser identifies the location and seat number from an aerial shot](https://twitter.com/georainbolt/status/1698553197684777069)
+* [2023-09-04, 18:02:47](https://news.ycombinator.com/item?id=37383152) - [How to Level Up Beyond ETLs: From Query Optimization to Code Generation](https://www.ezzeriesa.com/index/Writing%20efa7772a3ae64a8193c7ef981ac619fc/How%20to%20level%20up%20beyond%20ETLs%200987988358654751a8538a05bde18f96.html)
 * [2023-09-04, 18:01:11](https://news.ycombinator.com/item?id=37383136) - [Steve Harwell, Former Smash Mouth Lead Singer, Dies at 56](https://www.nytimes.com/2023/09/04/arts/music/steve-harwell-smash-mouth-all-star-dead.html)
 * [2023-09-04, 17:52:47](https://news.ycombinator.com/item?id=37383036) - [Secret Government Telephone Numbers](https://computer.rip/2023-02-07-secret-government-telephone-numbers.html)
 * [2023-09-04, 17:48:57](https://news.ycombinator.com/item?id=37382995) - [Extreme El Niño weather switched off South American's carbon sink](https://www.leeds.ac.uk/news-environment/news/article/5391/extreme-el-ni-o-weather-switched-off-south-american-s-carbon-sink)

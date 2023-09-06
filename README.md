@@ -14,7 +14,6 @@
 * [2023-09-05, 20:33:18](https://news.ycombinator.com/item?id=37397323) - [When deployments are easy, code becomes simpler](https://bitbytebit.substack.com/p/when-deployments-are-easy-code-becomes)
 * [2023-09-05, 19:36:13](https://news.ycombinator.com/item?id=37396664) - [OWASP Top API Security Risks – 2023](https://owasp.org/API-Security/editions/2023/en/0x11-t10/)
 * [2023-09-05, 19:21:59](https://news.ycombinator.com/item?id=37396479) - [Forming an Edge](https://www.scopeofwork.net/forming-an-edge/)
-* [2023-09-05, 17:55:29](https://news.ycombinator.com/item?id=37395370) - [Klack – Satisfying sound with every keystroke](https://tryklack.com/)
 * [2023-09-05, 17:39:08](https://news.ycombinator.com/item?id=37395168) - [Mentra aims to match neurodivergent jobseekers with jobs](https://techcrunch.com/2023/09/05/sam-altman-backed-startup-aims-to-match-neurodivergent-jobseekers-with-ideal-jobs/)
 * [2023-09-05, 17:33:35](https://news.ycombinator.com/item?id=37395096) - [If you can use open source, you can build hardware](https://redeem-tomorrow.com/if-you-can-use-open-source-you-can-build-hardware)
 * [2023-09-05, 16:33:40](https://news.ycombinator.com/item?id=37394194) - [Show HN: Bedframe – open-source Browser Extension Development framework](https://github.com/nyaggah/bedframe)
@@ -28,6 +27,7 @@
 * [2023-09-04, 23:32:38](https://news.ycombinator.com/item?id=37386205) - [The most unusual magazine ever published: Man, Myth and Magic](https://www.johncoulthart.com/feuilleton/2023/09/04/the-most-unusual-magazine-ever-published-man-myth-and-magic/)
 * [2023-09-04, 21:49:58](https://news.ycombinator.com/item?id=37385447) - [A Test Suite for the Intel 8088](https://martypc.blogspot.com/2023/09/a-test-suite-for-intel-8088.html)
 * [2023-09-04, 21:03:34](https://news.ycombinator.com/item?id=37385038) - [The Ones We Sent Away](https://www.theatlantic.com/magazine/archive/2023/09/disabled-children-institutionalization-history/674763/)
+* [2023-09-04, 18:02:47](https://news.ycombinator.com/item?id=37383152) - [How to Level Up Beyond ETLs: From Query Optimization to Code Generation](https://www.ezzeriesa.com/index/Writing%20efa7772a3ae64a8193c7ef981ac619fc/How%20to%20level%20up%20beyond%20ETLs%200987988358654751a8538a05bde18f96.html)
 * [2023-09-04, 14:50:45](https://news.ycombinator.com/item?id=37381019) - [The last few polio survivors: Last of the iron lungs (2017) [video]](https://www.youtube.com/watch?v=gplA6pq9cOs)
 * [2023-09-04, 05:53:25](https://news.ycombinator.com/item?id=37377529) - [Bintracker: A chiptune audio workstation for the 21st century](https://bintracker.org/)
 
