@@ -5,7 +5,7 @@
 * [2023-09-06, 20:12:03](https://news.ycombinator.com/item?id=37410639) - [US broadband grant rules shut out small ISPs and municipalities, advocates say](https://arstechnica.com/tech-policy/2023/09/big-isps-will-dominate-42b-grant-fund-if-rules-arent-changed-advocates-say/)
 * [2023-09-06, 20:11:02](https://news.ycombinator.com/item?id=37410630) - [This page exists only if someone is looking at it](http://ephemeralp2p.durazo.us/2bbbf21959178ef2f935e90fc60e5b6e368d27514fe305ca7dcecc32c0134838)
 * [2023-09-06, 20:05:55](https://news.ycombinator.com/item?id=37410558) - [Constant Time Stateless Shuffling and Grouping](https://www.ea.com/seed/news/constant-time-stateless-shuffling)
-* [2023-09-06, 19:54:20](https://news.ycombinator.com/item?id=37410374) - [Singing synthesis as a new musical instrument](https://ieeexplore.ieee.org/document/6289138)
+* [2023-09-06, 19:54:20](https://news.ycombinator.com/item?id=37410374) - [Singing synthesis as a new musical instrument (2012)](https://ieeexplore.ieee.org/document/6289138)
 * [2023-09-06, 19:11:50](https://news.ycombinator.com/item?id=37409723) - [Disco Elysium and the need for collective action](https://jacobin.com/2023/09/disco-elysium-intellectual-property-video-game-industry-creative-workers-collective-action)
 * [2023-09-06, 18:47:45](https://news.ycombinator.com/item?id=37409348) - [Remove TypeScript](https://github.com/hotwired/turbo/pull/971)
 * [2023-09-06, 18:43:50](https://news.ycombinator.com/item?id=37409283) - ['Human Embryo Model' Without Sperm or Egg](https://wis-wander.weizmann.ac.il/life-sciences/human-embryo-models-grown-stem-cells)
