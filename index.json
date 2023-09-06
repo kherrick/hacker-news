@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-09-06, 05:16:28",
-      "https://news.ycombinator.com/item?id=37401563"
-    ],
-    [
-      "It’s Official: Cars Are the Worst Category We Have Ever Reviewed for Privacy",
-      "https://foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy/"
-    ]
-  ],
-  [
-    [
       "2023-09-06, 04:47:27",
       "https://news.ycombinator.com/item?id=37401433"
     ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=37400018"
     ],
     [
-      "Fighting API Bots with Cloudflare's Invisible Turnstile",
+      "Fighting API bots with Cloudflare's invisible turnstile",
       "https://www.troyhunt.com/fighting-api-bots-with-cloudflares-invisible-turnstile/"
     ]
   ],
@@ -65,8 +55,18 @@
       "https://news.ycombinator.com/item?id=37399799"
     ],
     [
-      "Interoperability Can Save the Open Web",
+      "Interoperability can save the open web",
       "https://spectrum.ieee.org/doctorow-interoperability"
+    ]
+  ],
+  [
+    [
+      "2023-09-05, 22:53:09",
+      "https://news.ycombinator.com/item?id=37398921"
+    ],
+    [
+      "Engineer’s guide to career growth: Advice from my time at Stripe and Facebook",
+      "https://review.firstround.com/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook"
     ]
   ],
   [
@@ -91,22 +91,22 @@
   ],
   [
     [
+      "2023-09-05, 21:50:54",
+      "https://news.ycombinator.com/item?id=37398254"
+    ],
+    [
+      "HashiCorp did it backwards",
+      "https://galenmarchetti.substack.com/p/hashicorp-did-it-backwards"
+    ]
+  ],
+  [
+    [
       "2023-09-05, 21:01:16",
       "https://news.ycombinator.com/item?id=37397686"
     ],
     [
       "Emerge (YC W21) is hiring a lead front end engineer (remote, small team)",
       "https://www.workatastartup.com/jobs/61922/"
-    ]
-  ],
-  [
-    [
-      "2023-09-05, 20:39:09",
-      "https://news.ycombinator.com/item?id=37397405"
-    ],
-    [
-      "How Amazon uses chaos engineering to handle 80k requests per second",
-      "https://community.aws/posts/how-search-uses-chaos-engineering"
     ]
   ],
   [
@@ -131,22 +131,12 @@
   ],
   [
     [
-      "2023-09-05, 19:36:13",
-      "https://news.ycombinator.com/item?id=37396664"
+      "2023-09-05, 17:55:29",
+      "https://news.ycombinator.com/item?id=37395370"
     ],
     [
-      "OWASP Top API Security Risks – 2023",
-      "https://owasp.org/API-Security/editions/2023/en/0x11-t10/"
-    ]
-  ],
-  [
-    [
-      "2023-09-05, 19:21:59",
-      "https://news.ycombinator.com/item?id=37396479"
-    ],
-    [
-      "Forming an Edge",
-      "https://www.scopeofwork.net/forming-an-edge/"
+      "Klack – Satisfying sound with every keystroke",
+      "https://tryklack.com/"
     ]
   ],
   [
@@ -171,12 +161,12 @@
   ],
   [
     [
-      "2023-09-05, 16:33:40",
-      "https://news.ycombinator.com/item?id=37394194"
+      "2023-09-05, 16:29:32",
+      "https://news.ycombinator.com/item?id=37394109"
     ],
     [
-      "Show HN: Bedframe – open-source Browser Extension Development framework",
-      "https://github.com/nyaggah/bedframe"
+      "The perpetual truck driver shortage is not real",
+      "https://www.freightwaves.com/news/the-perpetual-truck-driver-shortage-is-not-real"
     ]
   ],
   [
@@ -245,7 +235,7 @@
       "https://news.ycombinator.com/item?id=37386205"
     ],
     [
-      "The most unusual magazine ever published: Man, Myth and Magic",
+      "Man, Myth and Magic",
       "https://www.johncoulthart.com/feuilleton/2023/09/04/the-most-unusual-magazine-ever-published-man-myth-and-magic/"
     ]
   ],
@@ -277,6 +267,16 @@
     [
       "How to Level Up Beyond ETLs: From Query Optimization to Code Generation",
       "https://www.ezzeriesa.com/index/Writing%20efa7772a3ae64a8193c7ef981ac619fc/How%20to%20level%20up%20beyond%20ETLs%200987988358654751a8538a05bde18f96.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-04, 15:22:19",
+      "https://news.ycombinator.com/item?id=37381347"
+    ],
+    [
+      "The Wit and Wisdom of a 109-Year-Old Man",
+      "https://www.thefp.com/p/wit-and-wisdom-of-109-year-man-book-of-charlie"
     ]
   ],
   [
