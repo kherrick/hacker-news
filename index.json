@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-09-06, 00:40:05",
+      "https://news.ycombinator.com/item?id=37399873"
+    ],
+    [
+      "Can LLMs learn from a single example?",
+      "https://www.fast.ai/posts/2023-09-04-learning-jumps/"
+    ]
+  ],
+  [
+    [
+      "2023-09-06, 00:32:50",
+      "https://news.ycombinator.com/item?id=37399809"
+    ],
+    [
+      "New York’s crackdown on Airbnb began Tuesday",
+      "https://www.amny.com/housing/new-york-crackdown-airbnb-begins/"
+    ]
+  ],
+  [
+    [
+      "2023-09-06, 00:25:57",
+      "https://news.ycombinator.com/item?id=37399745"
+    ],
+    [
+      "Experts Fear Crooks Are Cracking Keys Stolen in LastPass Breach",
+      "https://krebsonsecurity.com/2023/09/experts-fear-crooks-are-cracking-keys-stolen-in-lastpass-breach/"
+    ]
+  ],
+  [
+    [
       "2023-09-05, 23:25:55",
       "https://news.ycombinator.com/item?id=37399207"
     ],
@@ -21,12 +51,22 @@
   ],
   [
     [
-      "2023-09-05, 22:13:41",
-      "https://news.ycombinator.com/item?id=37398504"
+      "2023-09-05, 22:49:28",
+      "https://news.ycombinator.com/item?id=37398891"
     ],
     [
-      "The shrinking number of primary care physicians is reaching a tipping point",
-      "https://www.washingtonpost.com/opinions/2023/09/05/lack-primary-care-tipping-point/"
+      "Meta's Segment Anything written with C++ / GGML",
+      "https://github.com/YavorGIvanov/sam.cpp"
+    ]
+  ],
+  [
+    [
+      "2023-09-05, 21:56:40",
+      "https://news.ycombinator.com/item?id=37398317"
+    ],
+    [
+      "Preserving trust in photojournalism through authentication technology",
+      "https://www.reutersagency.com/authenticity-poc/"
     ]
   ],
   [
@@ -101,6 +141,16 @@
   ],
   [
     [
+      "2023-09-05, 17:55:29",
+      "https://news.ycombinator.com/item?id=37395370"
+    ],
+    [
+      "Klack – Satisfying sound with every keystroke",
+      "https://tryklack.com/"
+    ]
+  ],
+  [
+    [
       "2023-09-05, 17:39:08",
       "https://news.ycombinator.com/item?id=37395168"
     ],
@@ -117,26 +167,6 @@
     [
       "If you can use open source, you can build hardware",
       "https://redeem-tomorrow.com/if-you-can-use-open-source-you-can-build-hardware"
-    ]
-  ],
-  [
-    [
-      "2023-09-05, 17:01:23",
-      "https://news.ycombinator.com/item?id=37394665"
-    ],
-    [
-      "Rockstar is selling cracked game copies on Steam",
-      "https://twitter.com/__silent_/status/1698345924840296801"
-    ]
-  ],
-  [
-    [
-      "2023-09-05, 16:53:14",
-      "https://news.ycombinator.com/item?id=37394545"
-    ],
-    [
-      "Steam-on-Ampere",
-      "https://github.com/AmpereComputing/Steam-on-Ampere"
     ]
   ],
   [
@@ -181,42 +211,12 @@
   ],
   [
     [
-      "2023-09-05, 15:00:30",
-      "https://news.ycombinator.com/item?id=37392581"
-    ],
-    [
-      "OpenTF repository is now public",
-      "https://github.com/opentffoundation/opentf"
-    ]
-  ],
-  [
-    [
       "2023-09-05, 14:08:34",
       "https://news.ycombinator.com/item?id=37391848"
     ],
     [
       "Show HN: Puck – Open-source visual editor for React",
       "https://github.com/measuredco/puck"
-    ]
-  ],
-  [
-    [
-      "2023-09-05, 13:47:57",
-      "https://news.ycombinator.com/item?id=37391584"
-    ],
-    [
-      "The Federal Helium reserve is for sale",
-      "https://www.gsa.gov/about-us/regions/region-7-greater-southwest/region-7-newsroom/greater-southwest-feature-stories-and-news-releases/gsa-announces-sale-of-federal-helium-system-assets-06222023"
-    ]
-  ],
-  [
-    [
-      "2023-09-05, 13:21:13",
-      "https://news.ycombinator.com/item?id=37391272"
-    ],
-    [
-      "Launch HN: Nullstone (YC W22) – An easier way to deploy and manage cloud apps",
-      "https://news.ycombinator.com/item?id=37391272"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2023-09-05, 04:07:46",
-      "https://news.ycombinator.com/item?id=37387731"
-    ],
-    [
-      "Diamond prices are in free fall in one key corner of the market",
-      "https://www.bloomberg.com/news/articles/2023-09-03/lab-grown-gems-are-crashing-prices-for-one-key-type-of-diamond"
-    ]
-  ],
-  [
-    [
       "2023-09-04, 21:49:58",
       "https://news.ycombinator.com/item?id=37385447"
     ],
@@ -277,6 +267,16 @@
     [
       "The Ones We Sent Away",
       "https://www.theatlantic.com/magazine/archive/2023/09/disabled-children-institutionalization-history/674763/"
+    ]
+  ],
+  [
+    [
+      "2023-09-04, 05:53:25",
+      "https://news.ycombinator.com/item?id=37377529"
+    ],
+    [
+      "Bintracker: A Chiptune Audio Workstation for the 21st Century",
+      "https://bintracker.org/"
     ]
   ],
   [
