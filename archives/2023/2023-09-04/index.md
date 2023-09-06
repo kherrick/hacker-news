@@ -95,6 +95,7 @@
 * [2023-09-04, 07:33:53](https://news.ycombinator.com/item?id=37378069) - [Google was founded 25 years ago Today](https://en.wikipedia.org/wiki/History_of_Google)
 * [2023-09-04, 07:09:41](https://news.ycombinator.com/item?id=37377926) - [Huawei Teardown Shows Chip Breakthrough in Blow to US Sanctions](https://www.bloomberg.com/news/features/2023-09-04/look-inside-huawei-mate-60-pro-phone-powered-by-made-in-china-chip)
 * [2023-09-04, 06:42:24](https://news.ycombinator.com/item?id=37377772) - [Gunhed – English dub version (1989) [video]](https://archive.org/details/video.guru20200327223921241)
+* [2023-09-04, 06:23:26](https://news.ycombinator.com/item?id=37377690) - [Build Latency, Predictability, and Developer Productivity](https://www.computer.org/csdl/magazine/so/2023/04/10176199/1OAJyfknInm)
 * [2023-09-04, 05:53:25](https://news.ycombinator.com/item?id=37377529) - [Bintracker: A Chiptune Audio Workstation for the 21st Century](https://bintracker.org/)
 * [2023-09-04, 04:56:16](https://news.ycombinator.com/item?id=37377246) - [Haskell mini-patterns handbook (2020)](https://kowainik.github.io/posts/haskell-mini-patterns)
 * [2023-09-04, 04:20:21](https://news.ycombinator.com/item?id=37377078) - [Pretendo: A free and open source server replacement for the 3DS and Wii U](https://pretendo.network/)
