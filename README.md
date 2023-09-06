@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-06, 21:25:04](https://news.ycombinator.com/item?id=37411547) - [Ten Million a Year Die from Air Pollution (2021)](https://www.lrb.co.uk/the-paper/v43/n23/david-wallace-wells/ten-million-a-year)
+* [2023-09-06, 21:25:04](https://news.ycombinator.com/item?id=37411547) - [Ten million a year die from air pollution (2021)](https://www.lrb.co.uk/the-paper/v43/n23/david-wallace-wells/ten-million-a-year)
 * [2023-09-06, 21:03:16](https://news.ycombinator.com/item?id=37411292) - [Norway rolls back EV incentives while boosting walking and cycling](https://electrek.co/2022/05/17/norway-rolls-back-ev-incentives-while-boosting-walking-and-cycling/)
 * [2023-09-06, 21:02:33](https://news.ycombinator.com/item?id=37411279) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-09-06, 20:58:59](https://news.ycombinator.com/item?id=37411220) - [Bit by bit microplastics from tyres are polluting our waterways](https://news.griffith.edu.au/2023/09/06/bit-by-bit-microplastics-from-tyres-are-polluting-our-waterways/)
