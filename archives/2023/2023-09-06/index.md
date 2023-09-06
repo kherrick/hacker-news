@@ -6,6 +6,7 @@
 
 * [2023-09-06, 12:56:33](https://news.ycombinator.com/item?id=37404433) - [The world has just experienced the hottest summer on record – significant margin](https://www.cnn.com/2023/09/06/world/hottest-summer-record-climate-intl/index.html)
 * [2023-09-06, 12:55:56](https://news.ycombinator.com/item?id=37404428) - [Big effort needed on UK diet to fight ultra-processed food, say health experts](https://www.theguardian.com/society/2023/sep/02/big-effort-needed-on-uk-diet-to-fight-ultra-processed-food-say-health-experts)
+* [2023-09-06, 12:55:28](https://news.ycombinator.com/item?id=37404424) - [Falcon 180B Released](https://huggingface.co/blog/falcon-180b)
 * [2023-09-06, 12:54:40](https://news.ycombinator.com/item?id=37404413) - [If You’ve Got a New Car, It’s a Data Privacy Nightmare](https://gizmodo.com/mozilla-new-cars-data-privacy-report-1850805416)
 * [2023-09-06, 12:46:17](https://news.ycombinator.com/item?id=37404319) - [EU unveils package of laws to curb power of big tech firms](https://www.theguardian.com/world/2023/sep/06/eu-unveils-package-laws-curb-power-big-tech-giants)
 * [2023-09-06, 12:29:33](https://news.ycombinator.com/item?id=37404109) - [‘She played it down’: Bletchley Park codebreaker dies at 99](https://www.theguardian.com/world/2023/sep/06/she-played-it-down-bletchley-park-codebreaker-dies-at-99)
