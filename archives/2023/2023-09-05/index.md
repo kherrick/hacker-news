@@ -6,7 +6,9 @@
 
 * [2023-09-05, 23:25:55](https://news.ycombinator.com/item?id=37399207) - [Wage transparency: Everyone’s happy except HR?](https://www.malaymail.com/news/opinion/2023/09/05/wage-transparency-everyones-happy-except-hr/89066)
 * [2023-09-05, 22:53:09](https://news.ycombinator.com/item?id=37398921) - [Engineer’s Guide to Career Growth: Advice from My Time at Stripe and Facebook](https://review.firstround.com/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook)
+* [2023-09-05, 22:49:28](https://news.ycombinator.com/item?id=37398891) - [Meta's Segment Anything written with C++ / GGML](https://github.com/YavorGIvanov/sam.cpp)
 * [2023-09-05, 22:13:41](https://news.ycombinator.com/item?id=37398504) - [The shrinking number of primary care physicians is reaching a tipping point](https://www.washingtonpost.com/opinions/2023/09/05/lack-primary-care-tipping-point/)
+* [2023-09-05, 21:56:40](https://news.ycombinator.com/item?id=37398317) - [Preserving trust in photojournalism through authentication technology](https://www.reutersagency.com/authenticity-poc/)
 * [2023-09-05, 21:50:54](https://news.ycombinator.com/item?id=37398254) - [HashiCorp Did It Backwards](https://galenmarchetti.substack.com/p/hashicorp-did-it-backwards)
 * [2023-09-05, 21:46:17](https://news.ycombinator.com/item?id=37398202) - [Google was incorporated 25 years ago on September 4 1998](https://about.google/intl/ALL_us/our-story/)
 * [2023-09-05, 21:30:19](https://news.ycombinator.com/item?id=37398026) - [Poor people ‘surviving not living’ as UK social contract collapses, says report](https://www.theguardian.com/society/2023/sep/04/poor-people-surviving-not-living-as-uk-social-contract-collapses-says-report)

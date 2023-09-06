@@ -82,6 +82,7 @@
 * [2023-09-04, 07:33:53](https://news.ycombinator.com/item?id=37378069) - [Google was founded 25 years ago Today](https://en.wikipedia.org/wiki/History_of_Google)
 * [2023-09-04, 07:09:41](https://news.ycombinator.com/item?id=37377926) - [Huawei Teardown Shows Chip Breakthrough in Blow to US Sanctions](https://www.bloomberg.com/news/features/2023-09-04/look-inside-huawei-mate-60-pro-phone-powered-by-made-in-china-chip)
 * [2023-09-04, 06:42:24](https://news.ycombinator.com/item?id=37377772) - [Gunhed – English dub version (1989) [video]](https://archive.org/details/video.guru20200327223921241)
+* [2023-09-04, 05:53:25](https://news.ycombinator.com/item?id=37377529) - [Bintracker: A Chiptune Audio Workstation for the 21st Century](https://bintracker.org/)
 * [2023-09-04, 04:56:16](https://news.ycombinator.com/item?id=37377246) - [Haskell mini-patterns handbook (2020)](https://kowainik.github.io/posts/haskell-mini-patterns)
 * [2023-09-04, 04:20:21](https://news.ycombinator.com/item?id=37377078) - [Pretendo: A free and open source server replacement for the 3DS and Wii U](https://pretendo.network/)
 * [2023-09-04, 03:58:41](https://news.ycombinator.com/item?id=37376998) - [Scientists use quantum device to slow chemical process by factor of 100B](https://www.sydney.edu.au/news-opinion/news/2023/08/29/conical-intersection-simulation-slowed-by-quantum-computer-100-billion-times.html)
