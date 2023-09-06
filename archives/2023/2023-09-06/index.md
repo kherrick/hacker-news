@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-09-06](index.md)
 
+* [2023-09-06, 20:25:50](https://news.ycombinator.com/item?id=37410803) - [MS-DOS v1.25 and v2.0 is now open-source](https://github.com/microsoft/MS-DOS)
+* [2023-09-06, 20:12:03](https://news.ycombinator.com/item?id=37410639) - [US broadband grant rules shut out small ISPs and municipalities, advocates say](https://arstechnica.com/tech-policy/2023/09/big-isps-will-dominate-42b-grant-fund-if-rules-arent-changed-advocates-say/)
+* [2023-09-06, 20:11:02](https://news.ycombinator.com/item?id=37410630) - [This page exists only if someone is looking at it](http://ephemeralp2p.durazo.us/2bbbf21959178ef2f935e90fc60e5b6e368d27514fe305ca7dcecc32c0134838)
 * [2023-09-06, 20:05:55](https://news.ycombinator.com/item?id=37410558) - [Constant Time Stateless Shuffling and Grouping](https://www.ea.com/seed/news/constant-time-stateless-shuffling)
+* [2023-09-06, 19:54:20](https://news.ycombinator.com/item?id=37410374) - [Singing synthesis as a new musical instrument](https://ieeexplore.ieee.org/document/6289138)
+* [2023-09-06, 19:25:18](https://news.ycombinator.com/item?id=37409936) - [Britain Admits Defeat in Controversial Fight to Break Encryption](https://www.wired.com/story/britain-admits-defeat-online-safety-bill-encryption/)
 * [2023-09-06, 19:11:50](https://news.ycombinator.com/item?id=37409723) - [Disco Elysium and the need for collective action](https://jacobin.com/2023/09/disco-elysium-intellectual-property-video-game-industry-creative-workers-collective-action)
 * [2023-09-06, 18:43:50](https://news.ycombinator.com/item?id=37409283) - ['Human Embryo Model' Without Sperm or Egg](https://wis-wander.weizmann.ac.il/life-sciences/human-embryo-models-grown-stem-cells)
 * [2023-09-06, 18:24:04](https://news.ycombinator.com/item?id=37409044) - [Starship is ready for its 2nd test flight](https://arstechnica.com/space/2023/09/starship-is-stacked-and-ready-to-make-its-second-launch-attempt/)
