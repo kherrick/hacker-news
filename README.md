@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-06, 23:43:00](https://news.ycombinator.com/item?id=37412915) - [Wikimedia DNS](https://meta.wikimedia.org/wiki/Wikimedia_DNS)
 * [2023-09-06, 22:55:52](https://news.ycombinator.com/item?id=37412555) - [Artificial Consciousness Remains Impossible (Part 2)](https://mindmatters.ai/2023/09/artificial-consciousness-remains-impossible-part-2/)
-* [2023-09-06, 21:25:04](https://news.ycombinator.com/item?id=37411547) - [Ten million a year die from air pollution (2021)](https://www.lrb.co.uk/the-paper/v43/n23/david-wallace-wells/ten-million-a-year)
 * [2023-09-06, 21:03:16](https://news.ycombinator.com/item?id=37411292) - [Norway rolls back EV incentives while boosting walking and cycling](https://electrek.co/2022/05/17/norway-rolls-back-ev-incentives-while-boosting-walking-and-cycling/)
 * [2023-09-06, 20:26:45](https://news.ycombinator.com/item?id=37410812) - [Flexport CEO resigns a year after joining logistics company](https://www.geekwire.com/2023/former-amazon-exec-dave-clark-resigns-as-flexport-ceo-a-year-after-joining-logistics-company/)
 * [2023-09-06, 20:12:03](https://news.ycombinator.com/item?id=37410639) - [US broadband grant rules shut out small ISPs and municipalities, advocates say](https://arstechnica.com/tech-policy/2023/09/big-isps-will-dominate-42b-grant-fund-if-rules-arent-changed-advocates-say/)
