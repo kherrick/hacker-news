@@ -9,7 +9,7 @@
 * [2023-09-06, 13:37:53](https://news.ycombinator.com/item?id=37404936) - [Now it's PostgreSQL's turn to have a bogus CVE](https://opensourcewatch.beehiiv.com/p/now-postgresqls-turn-bogus-cve)
 * [2023-09-06, 13:21:17](https://news.ycombinator.com/item?id=37404740) - [Is this Duplo train track under too much tension?](https://puzzling.stackexchange.com/questions/122232/is-this-duplo-train-track-under-too-much-tension)
 * [2023-09-06, 12:55:28](https://news.ycombinator.com/item?id=37404424) - [Falcon 180B](https://huggingface.co/blog/falcon-180b)
-* [2023-09-06, 12:54:40](https://news.ycombinator.com/item?id=37404413) - [If You’ve Got a New Car, It’s a Data Privacy Nightmare](https://gizmodo.com/mozilla-new-cars-data-privacy-report-1850805416)
+* [2023-09-06, 12:54:40](https://news.ycombinator.com/item?id=37404413) - [Internet-connected cars fail privacy and security tests conducted by Mozilla](https://gizmodo.com/mozilla-new-cars-data-privacy-report-1850805416)
 * [2023-09-06, 12:44:52](https://news.ycombinator.com/item?id=37404305) - [Global trends in incidence, death, burden and risk factors of early-onset cancer](https://bmjoncology.bmj.com/content/2/1/e000049)
 * [2023-09-06, 12:29:33](https://news.ycombinator.com/item?id=37404109) - [Bletchley Park codebreaker Margaret Betts has died](https://www.theguardian.com/world/2023/sep/06/she-played-it-down-bletchley-park-codebreaker-dies-at-99)
 * [2023-09-06, 11:56:35](https://news.ycombinator.com/item?id=37403799) - [Linux network performance parameters](https://github.com/leandromoreira/linux-network-performance-parameters)
@@ -27,7 +27,7 @@
 * [2023-09-04, 23:32:38](https://news.ycombinator.com/item?id=37386205) - [Man, Myth and Magic](https://www.johncoulthart.com/feuilleton/2023/09/04/the-most-unusual-magazine-ever-published-man-myth-and-magic/)
 * [2023-09-04, 21:39:19](https://news.ycombinator.com/item?id=37385362) - [Experimental archaeologist tested out Stone-Age living on the Thames](https://www.nationalgeographic.com/travel/article/dr-theresa-emmerich-kamper-ancient-skills-stone-age-living)
 * [2023-09-04, 20:48:55](https://news.ycombinator.com/item?id=37384916) - [Four Lectures on Standard ML (1989) [pdf]](https://www.cs.tufts.edu/~nr/cs257/archive/mads-tofte/four-lectures.pdf)
-* [2023-09-04, 17:40:37](https://news.ycombinator.com/item?id=37382893) - [A sea urchin: they are method actors performing The Waste Land](https://www.theguardian.com/environment/commentisfree/2023/sep/05/a-sea-urchin-they-are-method-actors-performing-the-waste-land)
+* [2023-09-04, 15:40:57](https://news.ycombinator.com/item?id=37381548) - [What Is a Jeffersonian Dinner Party?](https://medium.com/@impactcap/what-is-a-jeffersonian-dinner-party-40509a25ab9)
 * [2023-09-04, 13:04:26](https://news.ycombinator.com/item?id=37380100) - [History of Cartography: Volumes One, Two, Three, Four, and Six (1987)](https://press.uchicago.edu/books/HOC/index.html)
 * [2023-09-04, 11:00:11](https://news.ycombinator.com/item?id=37379261) - [Show HN: Comgra: A library for debugging and understanding neural networks](https://github.com/FlorianDietz/comgra)
 

@@ -53,6 +53,7 @@
 * [2023-09-04, 16:23:01](https://news.ycombinator.com/item?id=37381957) - [Go CLI to calculate total media duraton in directories](https://github.com/mdyssr/azmena-cli)
 * [2023-09-04, 16:13:54](https://news.ycombinator.com/item?id=37381862) - [Refact LLM: New 1.6B code model reaches 32% HumanEval and is SOTA for the size](https://refact.ai/blog/2023/introducing-refact-code-llm/)
 * [2023-09-04, 16:11:30](https://news.ycombinator.com/item?id=37381834) - [What Is Residual Vector Quantization?](https://www.assemblyai.com/blog/what-is-residual-vector-quantization/)
+* [2023-09-04, 15:40:57](https://news.ycombinator.com/item?id=37381548) - [What Is a Jeffersonian Dinner Party?](https://medium.com/@impactcap/what-is-a-jeffersonian-dinner-party-40509a25ab9)
 * [2023-09-04, 15:36:12](https://news.ycombinator.com/item?id=37381508) - [Jitsi Meet Abandons Anonimity Promise](https://reclaimthenet.org/private-zoom-alternative-jitsi-meet-abandons-anonymity-promise)
 * [2023-09-04, 15:32:28](https://news.ycombinator.com/item?id=37381466) - [Why is it so hard to measure productivity?](https://www.fractional.work/p/why-is-it-so-hard-to-measure-productivity)
 * [2023-09-04, 15:28:18](https://news.ycombinator.com/item?id=37381409) - [DSLs Are a Waste of Time](https://leebriggs.co.uk/blog/2023/09/04/dsl)
