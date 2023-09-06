@@ -81,6 +81,7 @@
 * [2023-09-05, 06:47:56](https://news.ycombinator.com/item?id=37388639) - [Microsoft blames outage on small staff, automation failures](https://www.theregister.com/2023/09/04/microsoft_australia_outage_incident_report/)
 * [2023-09-05, 06:35:09](https://news.ycombinator.com/item?id=37388560) - [Learn COBOL in 1 Day](https://www.microfocus.com/en-us/cobol)
 * [2023-09-05, 06:03:29](https://news.ycombinator.com/item?id=37388367) - [TDD Doesn't Force Good Design](https://www.aaronbruce.com/posts/tests-dont-force-good-desgin/)
+* [2023-09-05, 05:55:55](https://news.ycombinator.com/item?id=37388319) - [Unifix Drum Machine](http://www.philtulga.com/unifix_activity.html)
 * [2023-09-05, 05:18:58](https://news.ycombinator.com/item?id=37388146) - [All About USB-C: Example Circuits](https://hackaday.com/2023/08/07/all-about-usb-c-example-circuits/)
 * [2023-09-05, 05:16:12](https://news.ycombinator.com/item?id=37388132) - [SolidUI AI-Generated Graphic Models v0.3.0 Proposal](https://github.com/CloudOrc/SolidUI/issues/46)
 * [2023-09-05, 05:15:01](https://news.ycombinator.com/item?id=37388128) - [Login to any user account using other Facebook app access token](https://hackerone.com/reports/101977)

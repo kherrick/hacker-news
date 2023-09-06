@@ -24,11 +24,11 @@
 * [2023-09-05, 14:08:34](https://news.ycombinator.com/item?id=37391848) - [Show HN: Puck – Open-source visual editor for React](https://github.com/measuredco/puck)
 * [2023-09-05, 13:21:13](https://news.ycombinator.com/item?id=37391272) - [Launch HN: Nullstone (YC W22) – An easier way to deploy and manage cloud apps](https://news.ycombinator.com/item?id=37391272)
 * [2023-09-05, 08:50:48](https://news.ycombinator.com/item?id=37389361) - [What is a flop?](https://nhigham.com/2023/09/05/what-is-a-flop/)
+* [2023-09-05, 05:55:55](https://news.ycombinator.com/item?id=37388319) - [Unifix Drum Machine](http://www.philtulga.com/unifix_activity.html)
 * [2023-09-04, 23:32:38](https://news.ycombinator.com/item?id=37386205) - [The most unusual magazine ever published: Man, Myth and Magic](https://www.johncoulthart.com/feuilleton/2023/09/04/the-most-unusual-magazine-ever-published-man-myth-and-magic/)
 * [2023-09-04, 21:49:58](https://news.ycombinator.com/item?id=37385447) - [A Test Suite for the Intel 8088](https://martypc.blogspot.com/2023/09/a-test-suite-for-intel-8088.html)
 * [2023-09-04, 21:03:34](https://news.ycombinator.com/item?id=37385038) - [The Ones We Sent Away](https://www.theatlantic.com/magazine/archive/2023/09/disabled-children-institutionalization-history/674763/)
 * [2023-09-04, 14:50:45](https://news.ycombinator.com/item?id=37381019) - [The last few polio survivors: Last of the iron lungs (2017) [video]](https://www.youtube.com/watch?v=gplA6pq9cOs)
-* [2023-09-04, 09:55:31](https://news.ycombinator.com/item?id=37378880) - [Astro 3.0](https://astro.build/blog/astro-3/)
 * [2023-09-04, 05:53:25](https://news.ycombinator.com/item?id=37377529) - [Bintracker: A chiptune audio workstation for the 21st century](https://bintracker.org/)
 
 ## [Archives](archives/index.md)
