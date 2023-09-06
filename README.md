@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-06, 14:32:15](https://news.ycombinator.com/item?id=37405727) - [Effectiveness of physical activity for improving depression, anxiety, distress](https://bjsm.bmj.com/content/early/2023/07/11/bjsports-2022-106195)
+* [2023-09-06, 14:30:34](https://news.ycombinator.com/item?id=37405695) - [China Bans iPhone Use for Government Officials at Work](https://stocks.apple.com/A01gybx6UQReBj5eQUppe8g)
 * [2023-09-06, 14:17:37](https://news.ycombinator.com/item?id=37405519) - [‘Modern cars are a privacy nightmare,’ the worst Mozilla’s seen](https://www.theverge.com/2023/9/6/23861047/car-user-privacy-report-mozilla-foundation-data-collection)
-* [2023-09-06, 13:45:11](https://news.ycombinator.com/item?id=37405049) - [“Waterfall” doesn't mean what you think it means](https://changelog.com/posts/waterfall-doesnt-mean-what-you-think-it-means)
 * [2023-09-06, 13:37:53](https://news.ycombinator.com/item?id=37404936) - [Now it's PostgreSQL's turn to have a bogus CVE](https://opensourcewatch.beehiiv.com/p/now-postgresqls-turn-bogus-cve)
 * [2023-09-06, 13:29:13](https://news.ycombinator.com/item?id=37404828) - [The Pentagon and CIA have shaped thousands of movies into effective propaganda](https://worldbeyondwar.org/the-pentagon-and-cia-have-shaped-thousands-of-hollywood-movies-into-super-effective-propaganda/)
 * [2023-09-06, 13:21:17](https://news.ycombinator.com/item?id=37404740) - [Is this Duplo train track under too much tension?](https://puzzling.stackexchange.com/questions/122232/is-this-duplo-train-track-under-too-much-tension)
-* [2023-09-06, 12:56:33](https://news.ycombinator.com/item?id=37404433) - [Northern summer was hottest on record by a significant margin](https://www.cnn.com/2023/09/06/world/hottest-summer-record-climate-intl/index.html)
 * [2023-09-06, 12:55:28](https://news.ycombinator.com/item?id=37404424) - [Falcon 180B](https://huggingface.co/blog/falcon-180b)
 * [2023-09-06, 12:54:40](https://news.ycombinator.com/item?id=37404413) - [If You’ve Got a New Car, It’s a Data Privacy Nightmare](https://gizmodo.com/mozilla-new-cars-data-privacy-report-1850805416)
 * [2023-09-06, 12:44:52](https://news.ycombinator.com/item?id=37404305) - [Global trends in incidence, death, burden and risk factors of early-onset cancer](https://bmjoncology.bmj.com/content/2/1/e000049)
@@ -28,6 +27,7 @@
 * [2023-09-04, 23:32:38](https://news.ycombinator.com/item?id=37386205) - [Man, Myth and Magic](https://www.johncoulthart.com/feuilleton/2023/09/04/the-most-unusual-magazine-ever-published-man-myth-and-magic/)
 * [2023-09-04, 21:39:19](https://news.ycombinator.com/item?id=37385362) - [Experimental archaeologist tested out Stone-Age living on the Thames](https://www.nationalgeographic.com/travel/article/dr-theresa-emmerich-kamper-ancient-skills-stone-age-living)
 * [2023-09-04, 20:48:55](https://news.ycombinator.com/item?id=37384916) - [Four Lectures on Standard ML (1989) [pdf]](https://www.cs.tufts.edu/~nr/cs257/archive/mads-tofte/four-lectures.pdf)
+* [2023-09-04, 17:40:37](https://news.ycombinator.com/item?id=37382893) - [A sea urchin: they are method actors performing The Waste Land](https://www.theguardian.com/environment/commentisfree/2023/sep/05/a-sea-urchin-they-are-method-actors-performing-the-waste-land)
 * [2023-09-04, 13:04:26](https://news.ycombinator.com/item?id=37380100) - [History of Cartography: Volumes One, Two, Three, Four, and Six (1987)](https://press.uchicago.edu/books/HOC/index.html)
 * [2023-09-04, 11:00:11](https://news.ycombinator.com/item?id=37379261) - [Show HN: Comgra: A library for debugging and understanding neural networks](https://github.com/FlorianDietz/comgra)
 

@@ -40,6 +40,7 @@
 * [2023-09-04, 18:01:11](https://news.ycombinator.com/item?id=37383136) - [Steve Harwell, Former Smash Mouth Lead Singer, Dies at 56](https://www.nytimes.com/2023/09/04/arts/music/steve-harwell-smash-mouth-all-star-dead.html)
 * [2023-09-04, 17:52:47](https://news.ycombinator.com/item?id=37383036) - [Secret Government Telephone Numbers](https://computer.rip/2023-02-07-secret-government-telephone-numbers.html)
 * [2023-09-04, 17:48:57](https://news.ycombinator.com/item?id=37382995) - [Extreme El Niño weather switched off South American's carbon sink](https://www.leeds.ac.uk/news-environment/news/article/5391/extreme-el-ni-o-weather-switched-off-south-american-s-carbon-sink)
+* [2023-09-04, 17:40:37](https://news.ycombinator.com/item?id=37382893) - [A sea urchin: they are method actors performing The Waste Land](https://www.theguardian.com/environment/commentisfree/2023/sep/05/a-sea-urchin-they-are-method-actors-performing-the-waste-land)
 * [2023-09-04, 17:35:07](https://news.ycombinator.com/item?id=37382813) - [Humans may be just as capable as dogs at following a scent trail](https://www.nature.com/articles/nn1819)
 * [2023-09-04, 17:25:37](https://news.ycombinator.com/item?id=37382691) - [Red lights over the Pacific – August 2014 (2014)](https://jpcvanheijst.com/red-lights-over-the-pacific-ocean-august-2014)
 * [2023-09-04, 17:22:14](https://news.ycombinator.com/item?id=37382639) - [Nougat: Neural Optical Understanding for Academic Documents](https://facebookresearch.github.io/nougat/)
