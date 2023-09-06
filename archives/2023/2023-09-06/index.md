@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-09-06](index.md)
 
+* [2023-09-06, 21:25:04](https://news.ycombinator.com/item?id=37411547) - [Ten Million a Year Die from Air Pollution (2021)](https://www.lrb.co.uk/the-paper/v43/n23/david-wallace-wells/ten-million-a-year)
+* [2023-09-06, 21:03:16](https://news.ycombinator.com/item?id=37411292) - [Norway rolls back EV incentives while boosting walking and cycling](https://electrek.co/2022/05/17/norway-rolls-back-ev-incentives-while-boosting-walking-and-cycling/)
 * [2023-09-06, 21:02:33](https://news.ycombinator.com/item?id=37411279) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-09-06, 20:59:57](https://news.ycombinator.com/item?id=37411236) - [time.apple.com (17.253.14.253) is returning the wrong date and time](https://news.ycombinator.com/item?id=37411236)
+* [2023-09-06, 20:58:59](https://news.ycombinator.com/item?id=37411220) - [Bit by bit microplastics from tyres are polluting our waterways](https://news.griffith.edu.au/2023/09/06/bit-by-bit-microplastics-from-tyres-are-polluting-our-waterways/)
 * [2023-09-06, 20:25:50](https://news.ycombinator.com/item?id=37410803) - [MS-DOS v1.25 and v2.0 is now open-source](https://github.com/microsoft/MS-DOS)
 * [2023-09-06, 20:12:03](https://news.ycombinator.com/item?id=37410639) - [US broadband grant rules shut out small ISPs and municipalities, advocates say](https://arstechnica.com/tech-policy/2023/09/big-isps-will-dominate-42b-grant-fund-if-rules-arent-changed-advocates-say/)
 * [2023-09-06, 20:11:02](https://news.ycombinator.com/item?id=37410630) - [This page exists only if someone is looking at it](http://ephemeralp2p.durazo.us/2bbbf21959178ef2f935e90fc60e5b6e368d27514fe305ca7dcecc32c0134838)
@@ -15,6 +18,8 @@
 * [2023-09-06, 19:11:50](https://news.ycombinator.com/item?id=37409723) - [Disco Elysium and the need for collective action](https://jacobin.com/2023/09/disco-elysium-intellectual-property-video-game-industry-creative-workers-collective-action)
 * [2023-09-06, 18:47:45](https://news.ycombinator.com/item?id=37409348) - [Remove TypeScript](https://github.com/hotwired/turbo/pull/971)
 * [2023-09-06, 18:43:50](https://news.ycombinator.com/item?id=37409283) - ['Human Embryo Model' Without Sperm or Egg](https://wis-wander.weizmann.ac.il/life-sciences/human-embryo-models-grown-stem-cells)
+* [2023-09-06, 18:42:49](https://news.ycombinator.com/item?id=37409270) - [OpenAI DevDay](https://devday.openai.com/)
+* [2023-09-06, 18:39:42](https://news.ycombinator.com/item?id=37409225) - [Deep Learning Is Easy – Learn Something Harder](https://www.inference.vc/deep-learning-is-easy/)
 * [2023-09-06, 18:24:04](https://news.ycombinator.com/item?id=37409044) - [Starship is ready for its 2nd test flight](https://arstechnica.com/space/2023/09/starship-is-stacked-and-ready-to-make-its-second-launch-attempt/)
 * [2023-09-06, 18:20:32](https://news.ycombinator.com/item?id=37408985) - [Amazon Andy Jassy shouldn’t make RTO decisions in echo chamber of CEOs feelings](https://fortune.com/2023/09/05/amazon-andy-jassy-return-to-office-decisions-echo-chamber-ceo-feelings-work-gleb-tsipursky/)
 * [2023-09-06, 18:17:15](https://news.ycombinator.com/item?id=37408929) - [37signals Introduces Once – One time payment software](https://once.com/)
