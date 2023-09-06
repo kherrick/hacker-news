@@ -71,6 +71,7 @@
 * [2023-09-05, 13:13:34](https://news.ycombinator.com/item?id=37391161) - [Learn Physics with Functional Programming](https://nostarch.com/learn-physics-functional-programming)
 * [2023-09-05, 12:49:10](https://news.ycombinator.com/item?id=37390941) - [Mastering curl: interactive text guide](https://antonz.org/mastering-curl/)
 * [2023-09-05, 11:45:51](https://news.ycombinator.com/item?id=37390430) - [Come downstairs or we’ll eat your order, delivery workers tell customers](https://restofworld.org/2023/delivery-driver-bikes-stolen-brazil/)
+* [2023-09-05, 11:39:17](https://news.ycombinator.com/item?id=37390378) - [What OpenAI really wants](https://www.wired.com/story/what-openai-really-wants/)
 * [2023-09-05, 11:30:43](https://news.ycombinator.com/item?id=37390322) - [Ford 021C Concept Car (1999)](https://marc-newson.com/ford-021c-concept-car/)
 * [2023-09-05, 11:04:51](https://news.ycombinator.com/item?id=37390184) - [A currently maintained fork of SSHFS](https://github.com/deadbeefsociety/sshfs)
 * [2023-09-05, 10:51:25](https://news.ycombinator.com/item?id=37390108) - [HuggingFace Training Cluster as a Service](https://huggingface.co/training-cluster)
