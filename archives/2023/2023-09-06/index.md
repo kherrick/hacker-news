@@ -9,6 +9,7 @@
 * [2023-09-06, 12:55:28](https://news.ycombinator.com/item?id=37404424) - [Falcon 180B Released](https://huggingface.co/blog/falcon-180b)
 * [2023-09-06, 12:54:40](https://news.ycombinator.com/item?id=37404413) - [If You’ve Got a New Car, It’s a Data Privacy Nightmare](https://gizmodo.com/mozilla-new-cars-data-privacy-report-1850805416)
 * [2023-09-06, 12:46:17](https://news.ycombinator.com/item?id=37404319) - [EU unveils package of laws to curb power of big tech firms](https://www.theguardian.com/world/2023/sep/06/eu-unveils-package-laws-curb-power-big-tech-giants)
+* [2023-09-06, 12:44:52](https://news.ycombinator.com/item?id=37404305) - [Since 1990, the incidence and deaths of early onset cancers have increased](https://bmjoncology.bmj.com/content/2/1/e000049)
 * [2023-09-06, 12:29:33](https://news.ycombinator.com/item?id=37404109) - [‘She played it down’: Bletchley Park codebreaker dies at 99](https://www.theguardian.com/world/2023/sep/06/she-played-it-down-bletchley-park-codebreaker-dies-at-99)
 * [2023-09-06, 12:26:20](https://news.ycombinator.com/item?id=37404073) - [Björk has no time for your sexism bullshit 1994](https://www.youtube.com/watch?v=fzrhxAdC5K0)
 * [2023-09-06, 11:56:35](https://news.ycombinator.com/item?id=37403799) - [Linux Network Performance Parameters Explained](https://github.com/leandromoreira/linux-network-performance-parameters)
