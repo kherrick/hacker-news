@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-09-06, 04:47:27",
-      "https://news.ycombinator.com/item?id=37401433"
-    ],
-    [
-      "Milk-V Goes After the Raspberry Pi Compute Module4 with RISC-V Alternative",
-      "https://www.hackster.io/news/milk-v-goes-after-the-raspberry-pi-compute-module-4-with-a-pin-compatible-risc-v-alternative-77cdb3e6c6f1"
-    ]
-  ],
-  [
-    [
       "2023-09-06, 01:57:58",
       "https://news.ycombinator.com/item?id=37400526"
     ],
@@ -91,12 +81,12 @@
   ],
   [
     [
-      "2023-09-05, 21:50:54",
-      "https://news.ycombinator.com/item?id=37398254"
+      "2023-09-05, 21:56:40",
+      "https://news.ycombinator.com/item?id=37398317"
     ],
     [
-      "HashiCorp did it backwards",
-      "https://galenmarchetti.substack.com/p/hashicorp-did-it-backwards"
+      "Preserving trust in photojournalism through authentication technology",
+      "https://www.reutersagency.com/authenticity-poc/"
     ]
   ],
   [
@@ -157,6 +147,16 @@
     [
       "If you can use open source, you can build hardware",
       "https://redeem-tomorrow.com/if-you-can-use-open-source-you-can-build-hardware"
+    ]
+  ],
+  [
+    [
+      "2023-09-05, 16:33:40",
+      "https://news.ycombinator.com/item?id=37394194"
+    ],
+    [
+      "Show HN: Bedframe – open-source Browser Extension Development framework",
+      "https://github.com/nyaggah/bedframe"
     ]
   ],
   [
