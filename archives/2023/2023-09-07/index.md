@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
+* [2023-09-07, 22:04:10](https://news.ycombinator.com/item?id=37426223) - [Searx is no longer maintained](https://github.com/searx/searx/commit/276ffd3f01cdd823f75676c51231fad4040059d3)
 * [2023-09-07, 21:27:38](https://news.ycombinator.com/item?id=37425855) - [What it's Really Like to be an Alaskan Truck Driver](https://www.freightwaves.com/news/i-rode-with-an-ice-road-trucker-to-the-arctic-circle-heres-what-it-was-like)
 * [2023-09-07, 20:30:27](https://news.ycombinator.com/item?id=37425130) - [A BERT for laptops, from scratch](https://github.com/samvher/bert-for-laptops/blob/main/BERT_for_laptops.ipynb)
 * [2023-09-07, 20:25:50](https://news.ycombinator.com/item?id=37425060) - [Roadmap to Tauri 2.0](https://beta.tauri.app/blog/roadmap-to-tauri-2-0/)
@@ -32,6 +33,7 @@
 * [2023-09-07, 17:00:37](https://news.ycombinator.com/item?id=37421993) - [25 Gbit/s at home, part 1](https://boredengineer.medium.com/25-gbit-s-at-home-part-1-98ff1013e32d)
 * [2023-09-07, 16:43:40](https://news.ycombinator.com/item?id=37421730) - [BMW Drops Controversial Heated Seats Subscription, Refocus on Software Services](https://www.forbes.com/sites/alistaircharlton/2023/09/07/bmw-drops-controversial-heated-seats-subscription-to-refocus-on-software-services/)
 * [2023-09-07, 16:35:02](https://news.ycombinator.com/item?id=37421573) - [AtariAge and Atari](https://forums.atariage.com/topic/354609-atariage-atari/)
+* [2023-09-07, 16:33:43](https://news.ycombinator.com/item?id=37421554) - [Video codecs: Adding AV1 stateless video decoder support to Linux](https://www.collabora.com/news-and-blog/news-and-events/video-codecs-adding-av1-stateless-video-decoder-support-to-linux.html)
 * [2023-09-07, 16:32:15](https://news.ycombinator.com/item?id=37421529) - [Mojo: It’s Finally Here](https://www.modular.com/blog/mojo-its-finally-here)
 * [2023-09-07, 16:16:05](https://news.ycombinator.com/item?id=37421241) - [Grindr Loses Almost Half Its Staff on 2-Day RTO Requirement](https://www.bloomberg.com/news/articles/2023-09-07/grindr-loses-nearly-half-its-staff-to-strict-return-to-office-rule)
 * [2023-09-07, 16:13:02](https://news.ycombinator.com/item?id=37421184) - [The Social Organization of the Computer Underground – Criminology PhD Thesis](http://www.textfiles.com/100/hack_ths.txt)
