@@ -15,6 +15,7 @@
 * [2023-09-06, 21:02:33](https://news.ycombinator.com/item?id=37411279) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-09-06, 20:59:57](https://news.ycombinator.com/item?id=37411236) - [time.apple.com (17.253.14.253) is returning the wrong date and time](https://news.ycombinator.com/item?id=37411236)
 * [2023-09-06, 20:58:59](https://news.ycombinator.com/item?id=37411220) - [Bit by bit microplastics from tyres are polluting our waterways](https://news.griffith.edu.au/2023/09/06/bit-by-bit-microplastics-from-tyres-are-polluting-our-waterways/)
+* [2023-09-06, 20:34:54](https://news.ycombinator.com/item?id=37410919) - [Leader of the Martians](https://www.lrb.co.uk/the-paper/v45/n17/thomas-nagel/leader-of-the-martians)
 * [2023-09-06, 20:26:45](https://news.ycombinator.com/item?id=37410812) - [Flexport CEO resigns a year after joining logistics company](https://www.geekwire.com/2023/former-amazon-exec-dave-clark-resigns-as-flexport-ceo-a-year-after-joining-logistics-company/)
 * [2023-09-06, 20:25:50](https://news.ycombinator.com/item?id=37410803) - [MS-DOS v1.25 and v2.0 is now open-source](https://github.com/microsoft/MS-DOS)
 * [2023-09-06, 20:12:03](https://news.ycombinator.com/item?id=37410639) - [US broadband grant rules shut out small ISPs and municipalities, advocates say](https://arstechnica.com/tech-policy/2023/09/big-isps-will-dominate-42b-grant-fund-if-rules-arent-changed-advocates-say/)
