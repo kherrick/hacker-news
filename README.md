@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-07, 09:28:45](https://news.ycombinator.com/item?id=37416568) - [Apple buys 50-year-old record label to grow Apple Music Classical app](https://arstechnica.com/gadgets/2023/09/apple-fuels-classical-music-push-with-record-label-acquisition/)
 * [2023-09-07, 09:10:17](https://news.ycombinator.com/item?id=37416456) - [I brought down a scamming operation with 15 bytes of PHP](https://www.eliseomartelli.it/blog/2023-09-06-scammer)
 * [2023-09-07, 09:04:18](https://news.ycombinator.com/item?id=37416411) - [What kind of password reset scam is going on at Facebook?](https://old.reddit.com/r/facebook/comments/154goal/someone_keeps_trying_to_reset_my_facebook_password/)
 * [2023-09-07, 08:41:33](https://news.ycombinator.com/item?id=37416272) - [New LoRa RF distance record: 1336 km / 830 mi](https://www.thethingsnetwork.org/article/new-lora-world-record-1336-km-830-mi)
@@ -19,7 +20,6 @@
 * [2023-09-06, 15:41:22](https://news.ycombinator.com/item?id=37406742) - [Show HN: iNet – A programming language for interaction nets](https://inet.run)
 * [2023-09-06, 13:36:58](https://news.ycombinator.com/item?id=37404918) - [AOL pretends to be the internet](https://thehistoryoftheweb.com/postscript/aol-pretends-to-be-the-internet/)
 * [2023-09-06, 13:21:17](https://news.ycombinator.com/item?id=37404740) - [Is this Duplo train track under too much tension?](https://puzzling.stackexchange.com/questions/122232/is-this-duplo-train-track-under-too-much-tension)
-* [2023-09-06, 11:56:35](https://news.ycombinator.com/item?id=37403799) - [Linux network performance parameters](https://github.com/leandromoreira/linux-network-performance-parameters)
 * [2023-09-06, 04:05:33](https://news.ycombinator.com/item?id=37401228) - [Proofs based on diagonalization help reveal the limits of algorithms](https://www.quantamagazine.org/alan-turing-and-the-power-of-negative-thinking-20230905/)
 * [2023-09-06, 03:18:35](https://news.ycombinator.com/item?id=37400979) - [ZX Origins 8x8 bitmap fonts](https://damieng.com/typography/zx-origins/)
 * [2023-09-06, 02:32:11](https://news.ycombinator.com/item?id=37400738) - [IBM 3740 Data Entry System [pdf]](https://bitsavers.org/pdf/ibm/3740/GA21-9152-2_IBM_3740_DataEntrySystem_SystemSummary_and_InstallationManual_PhysicalPlanning_Jun74.pdf)

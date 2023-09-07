@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
+* [2023-09-07, 09:28:45](https://news.ycombinator.com/item?id=37416568) - [Apple buys 50-year-old record label to grow Apple Music Classical app](https://arstechnica.com/gadgets/2023/09/apple-fuels-classical-music-push-with-record-label-acquisition/)
 * [2023-09-07, 09:10:17](https://news.ycombinator.com/item?id=37416456) - [I brought down a scamming operation with 15 bytes of PHP](https://www.eliseomartelli.it/blog/2023-09-06-scammer)
 * [2023-09-07, 09:04:18](https://news.ycombinator.com/item?id=37416411) - [What kind of password reset scam is going on at Facebook?](https://old.reddit.com/r/facebook/comments/154goal/someone_keeps_trying_to_reset_my_facebook_password/)
 * [2023-09-07, 08:41:33](https://news.ycombinator.com/item?id=37416272) - [New LoRa RF distance record: 1336 km / 830 mi](https://www.thethingsnetwork.org/article/new-lora-world-record-1336-km-830-mi)
