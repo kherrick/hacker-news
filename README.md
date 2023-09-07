@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-07, 08:41:33](https://news.ycombinator.com/item?id=37416272) - [New LoRa RF distance record: 1336 km / 830 mi](https://www.thethingsnetwork.org/article/new-lora-world-record-1336-km-830-mi)
-* [2023-09-07, 07:36:37](https://news.ycombinator.com/item?id=37415828) - [Nobody's Driving](https://www.okdoomer.io/nobodys-driving/)
 * [2023-09-07, 06:37:14](https://news.ycombinator.com/item?id=37415478) - [Gaussian Splatting is pretty cool](https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/)
 * [2023-09-07, 04:04:00](https://news.ycombinator.com/item?id=37414624) - [God writes Haskell](https://hookrace.net/blog/god-writes-haskell/)
 * [2023-09-07, 02:13:42](https://news.ycombinator.com/item?id=37413908) - [My favorite Erlang program (2013)](https://joearms.github.io/#2013-11-21%20My%20favorite%20Erlang%20Program)
@@ -24,6 +23,7 @@
 * [2023-09-06, 03:18:35](https://news.ycombinator.com/item?id=37400979) - [ZX Origins 8x8 bitmap fonts](https://damieng.com/typography/zx-origins/)
 * [2023-09-06, 02:32:11](https://news.ycombinator.com/item?id=37400738) - [IBM 3740 Data Entry System [pdf]](https://bitsavers.org/pdf/ibm/3740/GA21-9152-2_IBM_3740_DataEntrySystem_SystemSummary_and_InstallationManual_PhysicalPlanning_Jun74.pdf)
 * [2023-09-06, 00:59:21](https://news.ycombinator.com/item?id=37400025) - [Bismarck’s War](https://www.historytoday.com/archive/review/bismarcks-war-rachel-chrastil-review)
+* [2023-09-05, 15:52:14](https://news.ycombinator.com/item?id=37393452) - [Where did the QWERTY keyboard come from?](https://www.smithsonianmag.com/innovation/origins-qwerty-keyboard-typewriter-180982726/)
 * [2023-09-05, 14:33:17](https://news.ycombinator.com/item?id=37392235) - [Every aspiring writer should read terrible books (2022) [video]](https://www.youtube.com/watch?v=rCOmkrwQdFc)
 * [2023-09-05, 13:06:35](https://news.ycombinator.com/item?id=37391097) - [Spored to death](https://www.nybooks.com/articles/2023/09/21/spored-to-death-blight-fungi-and-the-coming-pandemic/)
 * [2023-09-05, 02:12:28](https://news.ycombinator.com/item?id=37387100) - [Blacksmithing is alive and well in Kentucky](https://www.nytimes.com/2023/05/19/special-series/blacksmith-craig-kaviar-louisville.html)
