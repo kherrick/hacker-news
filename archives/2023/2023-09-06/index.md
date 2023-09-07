@@ -95,6 +95,7 @@
 * [2023-09-06, 04:29:48](https://news.ycombinator.com/item?id=37401348) - [Molly Holzschlag has passes away](https://www.tucsonsentinel.com/local/report/090523_molly_holzschlag/tucsons-molly-holzschlag-known-as-the-fairy-godmother-web-dead-60/)
 * [2023-09-06, 04:05:33](https://news.ycombinator.com/item?id=37401228) - [Proofs based on diagonalization help reveal the limits of algorithms](https://www.quantamagazine.org/alan-turing-and-the-power-of-negative-thinking-20230905/)
 * [2023-09-06, 03:18:35](https://news.ycombinator.com/item?id=37400979) - [ZX Origins 8x8 bitmap fonts](https://damieng.com/typography/zx-origins/)
+* [2023-09-06, 02:32:11](https://news.ycombinator.com/item?id=37400738) - [IBM 3740 Data Entry System [pdf]](https://bitsavers.org/pdf/ibm/3740/GA21-9152-2_IBM_3740_DataEntrySystem_SystemSummary_and_InstallationManual_PhysicalPlanning_Jun74.pdf)
 * [2023-09-06, 02:23:19](https://news.ycombinator.com/item?id=37400694) - [Basilisk collection (2021)](https://suricrasia.online/unfiction/basilisk/)
 * [2023-09-06, 01:57:58](https://news.ycombinator.com/item?id=37400526) - [On the 10th anniversary of the Snowden revelations](https://www.electrospaces.net/2023/06/on-10th-anniversary-of-snowden.html)
 * [2023-09-06, 01:40:12](https://news.ycombinator.com/item?id=37400398) - [Writing Small CLI Programs in Common Lisp (2021)](https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/)
