@@ -21,6 +21,7 @@
 * [2023-09-06, 15:41:22](https://news.ycombinator.com/item?id=37406742) - [Show HN: iNet – A programming language for interaction nets](https://inet.run)
 * [2023-09-06, 13:36:58](https://news.ycombinator.com/item?id=37404918) - [AOL pretends to be the internet](https://thehistoryoftheweb.com/postscript/aol-pretends-to-be-the-internet/)
 * [2023-09-06, 13:21:17](https://news.ycombinator.com/item?id=37404740) - [Is this Duplo train track under too much tension?](https://puzzling.stackexchange.com/questions/122232/is-this-duplo-train-track-under-too-much-tension)
+* [2023-09-06, 11:56:35](https://news.ycombinator.com/item?id=37403799) - [Linux network performance parameters](https://github.com/leandromoreira/linux-network-performance-parameters)
 * [2023-09-06, 09:50:44](https://news.ycombinator.com/item?id=37403087) - [Performing folk music found in the archives](https://blogs.bl.uk/living-knowledge/2023/08/performing-folk-music-found-in-the-archives-user-stories.html)
 * [2023-09-06, 04:05:33](https://news.ycombinator.com/item?id=37401228) - [Proofs based on diagonalization help reveal the limits of algorithms](https://www.quantamagazine.org/alan-turing-and-the-power-of-negative-thinking-20230905/)
 * [2023-09-06, 03:18:35](https://news.ycombinator.com/item?id=37400979) - [ZX Origins 8x8 bitmap fonts](https://damieng.com/typography/zx-origins/)
@@ -29,7 +30,6 @@
 * [2023-09-05, 14:33:17](https://news.ycombinator.com/item?id=37392235) - [Every aspiring writer should read terrible books (2022) [video]](https://www.youtube.com/watch?v=rCOmkrwQdFc)
 * [2023-09-05, 02:12:28](https://news.ycombinator.com/item?id=37387100) - [Blacksmithing is alive and well in Kentucky](https://www.nytimes.com/2023/05/19/special-series/blacksmith-craig-kaviar-louisville.html)
 * [2023-09-04, 22:14:16](https://news.ycombinator.com/item?id=37385633) - [Paul Buchheit interview (2018)](https://dev.to/triplebyte/gmail-creator-and-yc-partner-paul-buchheit-on-joining-google-how-to-become-a-great-engineer-and-happiness-599o)
-* [2023-09-04, 16:04:36](https://news.ycombinator.com/item?id=37381777) - [Show HN: uDSV.js – A faster CSV parser](https://github.com/leeoniya/uDSV)
 
 ## [Archives](archives/index.md)
 
