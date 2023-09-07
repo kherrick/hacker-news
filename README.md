@@ -1,15 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-07, 04:45:19](https://news.ycombinator.com/item?id=37414855) - [Rockstar is selling cracked game copies on Steam](https://twitter.com/realCrackWatch/status/1699122744384970861)
 * [2023-09-07, 04:15:58](https://news.ycombinator.com/item?id=37414699) - [Depression can play direct role in developing type 2 diabetes, says study](https://www.theguardian.com/society/2023/sep/07/depression-can-play-direct-role-in-developing-type-2-diabetes-says-study)
 * [2023-09-07, 03:01:57](https://news.ycombinator.com/item?id=37414259) - [Australian regulator sues PayPal over unfair term in small business contracts](https://www.reuters.com/business/finance/australian-regulator-sues-paypal-unit-over-unfair-term-small-business-contracts-2023-09-06/)
 * [2023-09-07, 02:38:25](https://news.ycombinator.com/item?id=37414080) - [Tell HN: JPMorgan Chase forcing arbitration agreement to log in](https://twitter.com/walid/status/1697611534074011700)
 * [2023-09-07, 02:25:20](https://news.ycombinator.com/item?id=37413991) - [Unreal Engine 5.3](https://www.unrealengine.com/en-US/blog/unreal-engine-5-3-is-now-available)
 * [2023-09-07, 02:13:42](https://news.ycombinator.com/item?id=37413908) - [My favorite Erlang program (2013)](https://joearms.github.io/#2013-11-21%20My%20favorite%20Erlang%20Program)
-* [2023-09-07, 01:52:22](https://news.ycombinator.com/item?id=37413767) - [AOL Pretends to Be the Internet](https://thehistoryoftheweb.com/postscript/aol-pretends-to-be-the-internet/)
 * [2023-09-07, 01:05:46](https://news.ycombinator.com/item?id=37413498) - [National Film Board of Canada](https://www.nfb.ca/)
 * [2023-09-06, 23:26:39](https://news.ycombinator.com/item?id=37412772) - [Beetle grows ‘termite’ on back to steal food](https://www.science.org/content/article/beetle-grows-termite-back-steal-food)
 * [2023-09-06, 23:16:05](https://news.ycombinator.com/item?id=37412698) - [jq 1.7](https://github.com/jqlang/jq/releases/tag/jq-1.7)
-* [2023-09-06, 19:54:20](https://news.ycombinator.com/item?id=37410374) - [Singing synthesis as a new musical instrument (2012)](https://ieeexplore.ieee.org/document/6289138)
 * [2023-09-06, 18:59:10](https://news.ycombinator.com/item?id=37409524) - [Exploring EXIF](https://hturan.com/writing/exploring-exif)
 * [2023-09-06, 18:52:07](https://news.ycombinator.com/item?id=37409413) - [Show HN: Alaz: Open-Source, Self-Hosted, eBPF-Based K8s Monitoring](https://github.com/ddosify/alaz)
 * [2023-09-06, 18:43:50](https://news.ycombinator.com/item?id=37409283) - [Human embryo models grown from stem cells](https://wis-wander.weizmann.ac.il/life-sciences/human-embryo-models-grown-stem-cells)
@@ -30,6 +29,7 @@
 * [2023-09-05, 14:33:17](https://news.ycombinator.com/item?id=37392235) - [Alan Moore: Every aspiring writer should read terrible books (2022) [video]](https://www.youtube.com/watch?v=rCOmkrwQdFc)
 * [2023-09-05, 02:12:28](https://news.ycombinator.com/item?id=37387100) - [Blacksmithing is alive and well in Kentucky](https://www.nytimes.com/2023/05/19/special-series/blacksmith-craig-kaviar-louisville.html)
 * [2023-09-04, 22:14:16](https://news.ycombinator.com/item?id=37385633) - [Paul Buchheit on joining Google, how to become a great engineer, and happiness](https://web.archive.org/web/20230105042801/https://triplebyte.com/blog/interview-with-gmail-creator-and-y-combinator-partner-paul-buchheit)
+* [2023-09-04, 16:04:36](https://news.ycombinator.com/item?id=37381777) - [Show HN: uDSV.js – A faster CSV parser](https://github.com/leeoniya/uDSV)
 
 ## [Archives](archives/index.md)
 
