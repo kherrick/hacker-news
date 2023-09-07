@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
+* [2023-09-07, 13:07:31](https://news.ycombinator.com/item?id=37418351) - [NixOS just dropped Anduril as a NixCon sponsor](https://twitter.com/nixos_org/status/1699054958858121282)
 * [2023-09-07, 12:04:02](https://news.ycombinator.com/item?id=37417698) - [Stanford DSPy: The framework for programming with foundation models](https://github.com/stanfordnlp/dspy)
 * [2023-09-07, 11:57:23](https://news.ycombinator.com/item?id=37417646) - [Snake-fury – a challenge for Haskell beginners](https://github.com/lsmor/snake-fury)
 * [2023-09-07, 11:52:33](https://news.ycombinator.com/item?id=37417600) - [Using disposable phone numbers for better security](https://shkspr.mobi/blog/2023/09/using-disposable-phone-numbers-for-better-security/)
