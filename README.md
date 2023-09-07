@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-07, 11:22:41](https://news.ycombinator.com/item?id=37417355) - [Toyota Shut Down 14 Factories Due to 'Insufficient Disk Space'](https://www.tomshardware.com/news/toyota-shut-down-14-factories-due-to-insufficient-disk-space)
 * [2023-09-07, 11:03:27](https://news.ycombinator.com/item?id=37417195) - [Move Over, Software Developers – In Cybersecurity, the Government Wants to Drive](https://www.techdirt.com/2023/09/06/move-over-software-developers-in-the-name-of-cybersecurity-the-government-wants-to-drive/)
 * [2023-09-07, 10:21:44](https://news.ycombinator.com/item?id=37416909) - [UK drops 'spy clause' for scanning encrypted messages, admits not 'feasible'](https://www.theregister.com/2023/09/07/uk_government_clause_online_safety_bill/)
 * [2023-09-07, 10:02:15](https://news.ycombinator.com/item?id=37416768) - [A look inside a Sharia Courtroom](https://www.newyorker.com/culture/the-new-yorker-documentary/swift-justice-looks-inside-a-sharia-courtroom)
@@ -11,7 +12,6 @@
 * [2023-09-07, 07:31:24](https://news.ycombinator.com/item?id=37415799) - [When URL parsers disagree (CVE-2023-38633, librsvg)](https://www.canva.dev/blog/engineering/when-url-parsers-disagree-cve-2023-38633/)
 * [2023-09-07, 06:37:14](https://news.ycombinator.com/item?id=37415478) - [Gaussian Splatting is pretty cool](https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/)
 * [2023-09-07, 02:13:42](https://news.ycombinator.com/item?id=37413908) - [My favorite Erlang program (2013)](https://joearms.github.io/#2013-11-21%20My%20favorite%20Erlang%20Program)
-* [2023-09-07, 01:05:46](https://news.ycombinator.com/item?id=37413498) - [National Film Board of Canada](https://www.nfb.ca/)
 * [2023-09-06, 23:26:39](https://news.ycombinator.com/item?id=37412772) - [Beetle grows ‘termite’ on back to steal food](https://www.science.org/content/article/beetle-grows-termite-back-steal-food)
 * [2023-09-06, 23:16:05](https://news.ycombinator.com/item?id=37412698) - [jq 1.7](https://github.com/jqlang/jq/releases/tag/jq-1.7)
 * [2023-09-06, 22:19:34](https://news.ycombinator.com/item?id=37412180) - [Hot Chips 2023: Characterizing Gaming Workloads on Zen 4](https://chipsandcheese.com/2023/09/06/hot-chips-2023-characterizing-gaming-workloads-on-zen-4/)
