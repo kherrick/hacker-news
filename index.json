@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-09-07, 09:10:17",
-      "https://news.ycombinator.com/item?id=37416456"
-    ],
-    [
-      "I brought down a scamming operation with 15 bytes of PHP",
-      "https://www.eliseomartelli.it/blog/2023-09-06-scammer"
-    ]
-  ],
-  [
-    [
       "2023-09-07, 09:08:31",
       "https://news.ycombinator.com/item?id=37416446"
     ],
@@ -71,16 +61,6 @@
   ],
   [
     [
-      "2023-09-07, 04:04:00",
-      "https://news.ycombinator.com/item?id=37414624"
-    ],
-    [
-      "God writes Haskell",
-      "https://hookrace.net/blog/god-writes-haskell/"
-    ]
-  ],
-  [
-    [
       "2023-09-07, 02:13:42",
       "https://news.ycombinator.com/item?id=37413908"
     ],
@@ -117,6 +97,16 @@
     [
       "jq 1.7",
       "https://github.com/jqlang/jq/releases/tag/jq-1.7"
+    ]
+  ],
+  [
+    [
+      "2023-09-06, 22:19:34",
+      "https://news.ycombinator.com/item?id=37412180"
+    ],
+    [
+      "Hot Chips 2023: Characterizing Gaming Workloads on Zen 4",
+      "https://chipsandcheese.com/2023/09/06/hot-chips-2023-characterizing-gaming-workloads-on-zen-4/"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "Linux network performance parameters",
       "https://github.com/leandromoreira/linux-network-performance-parameters"
+    ]
+  ],
+  [
+    [
+      "2023-09-06, 09:50:44",
+      "https://news.ycombinator.com/item?id=37403087"
+    ],
+    [
+      "Performing folk music found in the archives",
+      "https://blogs.bl.uk/living-knowledge/2023/08/performing-folk-music-found-in-the-archives-user-stories.html"
     ]
   ],
   [
