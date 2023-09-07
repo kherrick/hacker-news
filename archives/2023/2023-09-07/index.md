@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
 * [2023-09-07, 20:30:27](https://news.ycombinator.com/item?id=37425130) - [A BERT for laptops, from scratch](https://github.com/samvher/bert-for-laptops/blob/main/BERT_for_laptops.ipynb)
+* [2023-09-07, 20:25:50](https://news.ycombinator.com/item?id=37425060) - [Roadmap to Tauri 2.0](https://beta.tauri.app/blog/roadmap-to-tauri-2-0/)
 * [2023-09-07, 20:25:48](https://news.ycombinator.com/item?id=37425059) - [NASA finally admits what everyone already knows: SLS is unaffordable](https://arstechnica.com/space/2023/09/nasa-finally-admits-what-everyone-already-knows-sls-is-unaffordable/)
 * [2023-09-07, 20:21:53](https://news.ycombinator.com/item?id=37425018) - [40 Hours a Week of Intense Work Outside Your Job,You Too Can Make Passive Income](https://www.mcsweeneys.net/articles/for-just-forty-hours-a-week-of-intense-work-outside-your-full-time-job-you-too-can-make-passive-income)
 * [2023-09-07, 20:21:01](https://news.ycombinator.com/item?id=37425007) - [NSO Group iPhone Zero-Click, Zero-Day Exploit Captured in the Wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/)
@@ -83,6 +84,7 @@
 * [2023-09-07, 08:41:33](https://news.ycombinator.com/item?id=37416272) - [New LoRa RF distance record: 1336 km / 830 mi](https://www.thethingsnetwork.org/article/new-lora-world-record-1336-km-830-mi)
 * [2023-09-07, 07:36:37](https://news.ycombinator.com/item?id=37415828) - [Nobody's Driving](https://www.okdoomer.io/nobodys-driving/)
 * [2023-09-07, 07:31:24](https://news.ycombinator.com/item?id=37415799) - [When URL parsers disagree (CVE-2023-38633, librsvg)](https://www.canva.dev/blog/engineering/when-url-parsers-disagree-cve-2023-38633/)
+* [2023-09-07, 06:54:38](https://news.ycombinator.com/item?id=37415587) - [The fallacy that the next new feature will suddenly make people use your product](https://andrewchen.com/the-next-feature-fallacy-the-fallacy-that-the-next-new-feature-will-suddenly-make-people-use-your-product/)
 * [2023-09-07, 06:40:36](https://news.ycombinator.com/item?id=37415505) - [Cthulhu.jl – show type-inferred Julia code](https://github.com/JuliaDebug/Cthulhu.jl)
 * [2023-09-07, 06:37:59](https://news.ycombinator.com/item?id=37415485) - [Google faces multibillion-pound lawsuit from UK consumers](https://www.theguardian.com/technology/2023/sep/07/google-faces-multibillion-pound-lawsuit-uk-consumers)
 * [2023-09-07, 06:37:14](https://news.ycombinator.com/item?id=37415478) - [Gaussian Splatting is pretty cool](https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/)
