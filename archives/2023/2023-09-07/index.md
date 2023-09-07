@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
+* [2023-09-07, 17:38:12](https://news.ycombinator.com/item?id=37422624) - [Humanised kidneys grown inside pigs for the first time](https://www.theguardian.com/science/2023/sep/07/humanised-kidneys-grown-inside-pigs-for-the-first-time)
+* [2023-09-07, 17:37:47](https://news.ycombinator.com/item?id=37422615) - [Releasing Persimmon-8B](https://www.adept.ai/blog/persimmon-8b)
 * [2023-09-07, 17:28:39](https://news.ycombinator.com/item?id=37422460) - [Norway rejects Facebook owner Meta's appeal to defer ban](https://www.thelocal.no/20230906/norway-rejects-facebook-owner-metas-appeal-to-defer-ban)
 * [2023-09-07, 17:08:07](https://news.ycombinator.com/item?id=37422106) - [Bun 1.0 announcement [video]](https://www.youtube.com/watch?v=BsnCpESUEqM)
 * [2023-09-07, 17:06:39](https://news.ycombinator.com/item?id=37422088) - [Punjabi Mexican Americans](https://en.wikipedia.org/wiki/Punjabi_Mexican_Americans)
 * [2023-09-07, 17:00:37](https://news.ycombinator.com/item?id=37421993) - [25 Gbit/s at home, part 1](https://boredengineer.medium.com/25-gbit-s-at-home-part-1-98ff1013e32d)
+* [2023-09-07, 16:35:02](https://news.ycombinator.com/item?id=37421573) - [AtariAge and Atari](https://forums.atariage.com/topic/354609-atariage-atari/)
 * [2023-09-07, 16:32:15](https://news.ycombinator.com/item?id=37421529) - [Mojo: It’s Finally Here](https://www.modular.com/blog/mojo-its-finally-here)
 * [2023-09-07, 16:16:05](https://news.ycombinator.com/item?id=37421241) - [Grindr Loses Almost Half Its Staff on 2-Day RTO Requirement](https://www.bloomberg.com/news/articles/2023-09-07/grindr-loses-nearly-half-its-staff-to-strict-return-to-office-rule)
 * [2023-09-07, 16:10:34](https://news.ycombinator.com/item?id=37421132) - [Wayland Isn't Going to Save the Linux Desktop (2022)](https://dudemanguy.github.io/blog/posts/2022-06-10-wayland-xorg/wayland-xorg.html?r)
@@ -65,6 +68,7 @@
 * [2023-09-07, 04:51:27](https://news.ycombinator.com/item?id=37414889) - [US solar installations expected to be a record 32 GW in 2023](https://electrek.co/2023/09/06/us-solar-installations-expected-to-be-a-record-32-gw-in-2023/)
 * [2023-09-07, 04:45:19](https://news.ycombinator.com/item?id=37414855) - [Rockstar is selling cracked game copies on Steam](https://twitter.com/realCrackWatch/status/1699122744384970861)
 * [2023-09-07, 04:38:00](https://news.ycombinator.com/item?id=37414818) - [Anduril Fury: Automomous Stealth Drone](https://www.anduril.com/fury/)
+* [2023-09-07, 04:19:59](https://news.ycombinator.com/item?id=37414723) - [Gematria](https://en.wikipedia.org/wiki/Gematria)
 * [2023-09-07, 04:15:58](https://news.ycombinator.com/item?id=37414699) - [Depression can play direct role in developing type 2 diabetes, says study](https://www.theguardian.com/society/2023/sep/07/depression-can-play-direct-role-in-developing-type-2-diabetes-says-study)
 * [2023-09-07, 04:04:00](https://news.ycombinator.com/item?id=37414624) - [God writes Haskell](https://hookrace.net/blog/god-writes-haskell/)
 * [2023-09-07, 03:01:57](https://news.ycombinator.com/item?id=37414259) - [Australian regulator sues PayPal over unfair term in small business contracts](https://www.reuters.com/business/finance/australian-regulator-sues-paypal-unit-over-unfair-term-small-business-contracts-2023-09-06/)
