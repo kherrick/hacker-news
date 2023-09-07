@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
 * [2023-09-07, 17:00:37](https://news.ycombinator.com/item?id=37421993) - [25 Gbit/s at home, part 1](https://boredengineer.medium.com/25-gbit-s-at-home-part-1-98ff1013e32d)
+* [2023-09-07, 16:32:15](https://news.ycombinator.com/item?id=37421529) - [Mojo: It’s Finally Here](https://www.modular.com/blog/mojo-its-finally-here)
 * [2023-09-07, 16:16:05](https://news.ycombinator.com/item?id=37421241) - [Grindr Loses Almost Half Its Staff on 2-Day RTO Requirement](https://www.bloomberg.com/news/articles/2023-09-07/grindr-loses-nearly-half-its-staff-to-strict-return-to-office-rule)
 * [2023-09-07, 16:10:34](https://news.ycombinator.com/item?id=37421132) - [Wayland Isn't Going to Save the Linux Desktop (2022)](https://dudemanguy.github.io/blog/posts/2022-06-10-wayland-xorg/wayland-xorg.html?r)
 * [2023-09-07, 16:09:27](https://news.ycombinator.com/item?id=37421104) - [Turning a Keyboard into a Mouse with Libevdev](https://suricrasia.online/blog/turning-a-keyboard-into/)
@@ -20,6 +21,7 @@
 * [2023-09-07, 15:09:19](https://news.ycombinator.com/item?id=37420053) - [Mullvad on Tailscale: Privately browse the web](https://tailscale.com/blog/mullvad-integration/)
 * [2023-09-07, 15:09:00](https://news.ycombinator.com/item?id=37420045) - [California's plastic bag ban is failing](https://www.latimes.com/environment/story/2023-08-24/whats-the-deal-with-single-use-plastic-bag-bans)
 * [2023-09-07, 15:02:08](https://news.ycombinator.com/item?id=37419932) - [PgCompute: New PostgreSQL Client-Side Extension for Database Functions](https://www.yugabyte.com/blog/pgcompute-postgresql-extension-database-functions/)
+* [2023-09-07, 15:00:15](https://news.ycombinator.com/item?id=37419886) - [Show HN: Retool AI](https://retool.com/products/ai)
 * [2023-09-07, 14:58:59](https://news.ycombinator.com/item?id=37419864) - [Are Any Words the Same in All Languages?](https://blog.duolingo.com/words-shared-in-all-languages/)
 * [2023-09-07, 14:50:09](https://news.ycombinator.com/item?id=37419723) - [Mod kept failure of best tank quiet (2007)](https://www.telegraph.co.uk/news/uknews/1551418/MoD-kept-failure-of-best-tank-quiet.html)
 * [2023-09-07, 14:36:13](https://news.ycombinator.com/item?id=37419518) - [Running a 180B parameter LLM on a single Apple M2 Ultra](https://twitter.com/ggerganov/status/1699791226780975439)
@@ -67,6 +69,7 @@
 * [2023-09-07, 02:38:25](https://news.ycombinator.com/item?id=37414080) - [Tell HN: JPMorgan Chase forcing arbitration agreement to log in](https://twitter.com/walid/status/1697611534074011700)
 * [2023-09-07, 02:25:20](https://news.ycombinator.com/item?id=37413991) - [Unreal Engine 5.3](https://www.unrealengine.com/en-US/blog/unreal-engine-5-3-is-now-available)
 * [2023-09-07, 02:13:42](https://news.ycombinator.com/item?id=37413908) - [My favorite Erlang program (2013)](https://joearms.github.io/#2013-11-21%20My%20favorite%20Erlang%20Program)
+* [2023-09-07, 02:11:01](https://news.ycombinator.com/item?id=37413885) - [Are you an Asker or a Guesser? (2010)](https://www.theguardian.com/lifeandstyle/2010/may/08/change-life-asker-guesser)
 * [2023-09-07, 01:52:22](https://news.ycombinator.com/item?id=37413767) - [AOL Pretends to Be the Internet](https://thehistoryoftheweb.com/postscript/aol-pretends-to-be-the-internet/)
 * [2023-09-07, 01:35:26](https://news.ycombinator.com/item?id=37413681) - [Cal Newport: Overstimulation Is Ruining Your Life](https://mindmatters.ai/2023/09/cal-newport-over-stimulation-is-ruining-your-life/)
 * [2023-09-07, 01:05:46](https://news.ycombinator.com/item?id=37413498) - [National Film Board of Canada](https://www.nfb.ca/)
