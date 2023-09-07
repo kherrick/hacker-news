@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-07, 19:30:35](https://news.ycombinator.com/item?id=37424360) - [Substack Is Leaning into Politics](https://on.substack.com/p/in-the-2024-us-elections-vote-for)
+* [2023-09-07, 19:34:41](https://news.ycombinator.com/item?id=37424416) - [London Street Trees](https://apps.london.gov.uk/street-trees/)
 * [2023-09-07, 19:02:23](https://news.ycombinator.com/item?id=37423959) - [Gabor Melli’s Research Knowledge Base](https://www.gabormelli.com/RKB/HomePage)
+* [2023-09-07, 18:53:08](https://news.ycombinator.com/item?id=37423811) - [Ricochet Robots Solver](https://kevincox.ca/2023/09/02/ricochet-robots-solver/)
 * [2023-09-07, 18:05:42](https://news.ycombinator.com/item?id=37423080) - [The fight over California community solar: ‘It’s everyone vs. utilities’](https://www.canarymedia.com/articles/solar/the-fight-over-california-community-solar-everyone-vs-the-utilities)
 * [2023-09-07, 17:38:12](https://news.ycombinator.com/item?id=37422624) - [Humanised kidneys grown inside pigs for the first time](https://www.theguardian.com/science/2023/sep/07/humanised-kidneys-grown-inside-pigs-for-the-first-time)
 * [2023-09-07, 17:37:47](https://news.ycombinator.com/item?id=37422615) - [Persimmon-8B](https://www.adept.ai/blog/persimmon-8b)
-* [2023-09-07, 17:08:35](https://news.ycombinator.com/item?id=37422115) - [Project Mars by Wernher von Braun (1953)](https://archive.org/details/ProjectMars)
+* [2023-09-07, 17:08:35](https://news.ycombinator.com/item?id=37422115) - [Project Mars (1953)](https://archive.org/details/ProjectMars)
 * [2023-09-07, 16:35:02](https://news.ycombinator.com/item?id=37421573) - [AtariAge and Atari](https://forums.atariage.com/topic/354609-atariage-atari/)
 * [2023-09-07, 16:32:15](https://news.ycombinator.com/item?id=37421529) - [Mojo is available for local download](https://www.modular.com/blog/mojo-its-finally-here)
 * [2023-09-07, 16:13:02](https://news.ycombinator.com/item?id=37421184) - [The Social Organization of the Computer Underground (1989)](http://www.textfiles.com/100/hack_ths.txt)
@@ -27,7 +28,6 @@
 * [2023-09-07, 05:28:26](https://news.ycombinator.com/item?id=37415067) - [Chicago’s parking meter disaster](https://www.chicagotribune.com/opinion/editorials/ct-editorial-parking-meters-chicago-daley-20230430-fau3wymdevf7vknog5osrge5e4-story.html)
 * [2023-09-07, 04:19:59](https://news.ycombinator.com/item?id=37414723) - [Gematria](https://en.wikipedia.org/wiki/Gematria)
 * [2023-09-07, 02:11:01](https://news.ycombinator.com/item?id=37413885) - [Are you an Asker or a Guesser? (2010)](https://www.theguardian.com/lifeandstyle/2010/may/08/change-life-asker-guesser)
-* [2023-09-07, 00:47:34](https://news.ycombinator.com/item?id=37413383) - [Astronomers discover new quiescent galaxy](https://phys.org/news/2023-09-astronomers-massive-quiescent-galaxy.html)
 * [2023-09-06, 22:56:52](https://news.ycombinator.com/item?id=37412560) - [The Decomposition of Rotten Tomatoes](https://www.vulture.com/article/rotten-tomatoes-movie-rating.html)
 * [2023-09-05, 19:40:36](https://news.ycombinator.com/item?id=37396726) - [Postmarks – A single-user, fediverse-enabled bookmarking website](https://motd.co/2023/09/postmarks-launch/)
 
