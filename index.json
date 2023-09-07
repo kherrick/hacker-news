@@ -1,32 +1,22 @@
 [
   [
     [
-      "2023-09-07, 18:45:38",
-      "https://news.ycombinator.com/item?id=37423684"
-    ],
-    [
-      "BMW drops plan to charge a monthly fee for heated seats",
-      "https://www.theverge.com/2023/9/7/23863258/bmw-cancel-heated-seat-subscription-microtransaction"
-    ]
-  ],
-  [
-    [
-      "2023-09-07, 18:21:38",
-      "https://news.ycombinator.com/item?id=37423329"
-    ],
-    [
-      "More than half of dilapidated English schools were refused rebuilding money",
-      "https://www.theguardian.com/education/2023/sep/05/more-than-half-of-dilapidated-english-schools-were-refused-rebuilding-money"
-    ]
-  ],
-  [
-    [
       "2023-09-07, 18:05:42",
       "https://news.ycombinator.com/item?id=37423080"
     ],
     [
       "The fight over California community solar: ‘It’s everyone vs. utilities’",
       "https://www.canarymedia.com/articles/solar/the-fight-over-california-community-solar-everyone-vs-the-utilities"
+    ]
+  ],
+  [
+    [
+      "2023-09-07, 17:52:24",
+      "https://news.ycombinator.com/item?id=37422851"
+    ],
+    [
+      "Multiple Nation-State Threat Actors Exploit CVE-2022-47966 and CVE-2022-42475",
+      "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-250a"
     ]
   ],
   [
@@ -47,16 +37,6 @@
     [
       "Persimmon-8B",
       "https://www.adept.ai/blog/persimmon-8b"
-    ]
-  ],
-  [
-    [
-      "2023-09-07, 16:43:40",
-      "https://news.ycombinator.com/item?id=37421730"
-    ],
-    [
-      "BMW Drops Controversial Heated Seats Subscription, Refocus on Software Services",
-      "https://www.forbes.com/sites/alistaircharlton/2023/09/07/bmw-drops-controversial-heated-seats-subscription-to-refocus-on-software-services/"
     ]
   ],
   [
@@ -85,7 +65,7 @@
       "https://news.ycombinator.com/item?id=37421184"
     ],
     [
-      "The Social Organization of the Computer Underground – Criminology PhD Thesis",
+      "The Social Organization of the Computer Underground (1989)",
       "http://www.textfiles.com/100/hack_ths.txt"
     ]
   ],
@@ -195,7 +175,7 @@
       "https://news.ycombinator.com/item?id=37417698"
     ],
     [
-      "Stanford DSPy: The framework for programming with foundation models",
+      "DSPy: Framework for programming with foundation models",
       "https://github.com/stanfordnlp/dspy"
     ]
   ],
@@ -221,12 +201,12 @@
   ],
   [
     [
-      "2023-09-07, 10:21:44",
-      "https://news.ycombinator.com/item?id=37416909"
+      "2023-09-07, 09:06:20",
+      "https://news.ycombinator.com/item?id=37416430"
     ],
     [
-      "UK drops 'spy clause' for scanning encrypted messages, admits not 'feasible'",
-      "https://www.theregister.com/2023/09/07/uk_government_clause_online_safety_bill/"
+      "Exa Is Deprecated",
+      "https://github.com/ogham/exa"
     ]
   ],
   [
@@ -235,7 +215,7 @@
       "https://news.ycombinator.com/item?id=37415799"
     ],
     [
-      "When URL parsers disagree (CVE-2023-38633, librsvg)",
+      "When URL parsers disagree",
       "https://www.canva.dev/blog/engineering/when-url-parsers-disagree-cve-2023-38633/"
     ]
   ],
@@ -245,7 +225,7 @@
       "https://news.ycombinator.com/item?id=37415478"
     ],
     [
-      "Gaussian Splatting is pretty cool",
+      "Gaussian splatting is pretty cool",
       "https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/"
     ]
   ],
@@ -291,11 +271,31 @@
   ],
   [
     [
+      "2023-09-06, 13:36:58",
+      "https://news.ycombinator.com/item?id=37404918"
+    ],
+    [
+      "AOL pretends to be the internet",
+      "https://thehistoryoftheweb.com/postscript/aol-pretends-to-be-the-internet/"
+    ]
+  ],
+  [
+    [
+      "2023-09-06, 13:21:17",
+      "https://news.ycombinator.com/item?id=37404740"
+    ],
+    [
+      "Is this Duplo train track under too much tension?",
+      "https://puzzling.stackexchange.com/questions/122232/is-this-duplo-train-track-under-too-much-tension"
+    ]
+  ],
+  [
+    [
       "2023-09-05, 19:40:36",
       "https://news.ycombinator.com/item?id=37396726"
     ],
     [
-      "Postmarks – A single-user bookmarking website",
+      "Postmarks – A single-user, fediverse-enabled bookmarking website",
       "https://motd.co/2023/09/postmarks-launch/"
     ]
   ]
