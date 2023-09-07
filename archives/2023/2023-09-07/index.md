@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
+* [2023-09-07, 15:28:45](https://news.ycombinator.com/item?id=37420382) - [Tailscale Has Partnered with Mullvad](https://mullvad.net/en/blog/2023/9/7/tailscale-has-partnered-with-mullvad/)
 * [2023-09-07, 15:02:08](https://news.ycombinator.com/item?id=37419932) - [PgCompute: New PostgreSQL Client-Side Extension for Database Functions](https://www.yugabyte.com/blog/pgcompute-postgresql-extension-database-functions/)
 * [2023-09-07, 14:58:59](https://news.ycombinator.com/item?id=37419864) - [Are Any Words the Same in All Languages?](https://blog.duolingo.com/words-shared-in-all-languages/)
 * [2023-09-07, 14:50:09](https://news.ycombinator.com/item?id=37419723) - [Mod kept failure of best tank quiet (2007)](https://www.telegraph.co.uk/news/uknews/1551418/MoD-kept-failure-of-best-tank-quiet.html)
 * [2023-09-07, 14:36:13](https://news.ycombinator.com/item?id=37419518) - [Running a 180B parameter LLM on a single Apple M2 Ultra](https://twitter.com/ggerganov/status/1699791226780975439)
 * [2023-09-07, 14:34:41](https://news.ycombinator.com/item?id=37419493) - [Co-founder of DeepMind on how AI threatens to reshape life as we know it](https://www.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it)
 * [2023-09-07, 14:34:02](https://news.ycombinator.com/item?id=37419484) - [Apple Quietly Made a Big Change to Its Website. It Says a Lot About Its Future](https://www.inc.com/jason-aten/apple-quietly-made-a-big-change-to-its-website-it-says-a-lot-about-its-future.html)
+* [2023-09-07, 14:32:01](https://news.ycombinator.com/item?id=37419447) - [Ask HN: What are some well-designed websites?](https://news.ycombinator.com/item?id=37419447)
 * [2023-09-07, 14:30:50](https://news.ycombinator.com/item?id=37419427) - [Report: PR Firm Has Been Paying Rotten Tomatoes Critics for Positive Reviews](https://www.screengeek.net/2023/09/06/rotten-tomatoes-pr-firm-paying-critics-positive-reviews/)
 * [2023-09-07, 14:16:54](https://news.ycombinator.com/item?id=37419220) - [Texas just got closer to blackouts than it has since 2021. What happened?](https://www.kut.org/energy-environment/2023-09-07/texas-just-got-closer-to-blackouts-than-it-has-since-2021-what-happened)
 * [2023-09-07, 14:07:18](https://news.ycombinator.com/item?id=37419107) - [Arduino raises $22M Series B round](https://blog.arduino.cc/2023/09/06/what-will-we-do-with-an-additional-22m/)
@@ -26,6 +28,7 @@
 * [2023-09-07, 11:26:42](https://news.ycombinator.com/item?id=37417397) - [Tell HN: Reminder that your LinkedIn profile is fully visible to site members](https://news.ycombinator.com/item?id=37417397)
 * [2023-09-07, 11:22:41](https://news.ycombinator.com/item?id=37417355) - [Toyota Shut Down 14 Factories Due to 'Insufficient Disk Space'](https://www.tomshardware.com/news/toyota-shut-down-14-factories-due-to-insufficient-disk-space)
 * [2023-09-07, 11:03:27](https://news.ycombinator.com/item?id=37417195) - [Move Over, Software Developers – In Cybersecurity, the Government Wants to Drive](https://www.techdirt.com/2023/09/06/move-over-software-developers-in-the-name-of-cybersecurity-the-government-wants-to-drive/)
+* [2023-09-07, 10:41:56](https://news.ycombinator.com/item?id=37417055) - [Every software project is a startup that will probably fail](https://muldoon.cloud/2023/09/06/software-keeps-failing.html)
 * [2023-09-07, 10:21:44](https://news.ycombinator.com/item?id=37416909) - [UK drops 'spy clause' for scanning encrypted messages, admits not 'feasible'](https://www.theregister.com/2023/09/07/uk_government_clause_online_safety_bill/)
 * [2023-09-07, 10:02:15](https://news.ycombinator.com/item?id=37416768) - [A look inside a Sharia Courtroom](https://www.newyorker.com/culture/the-new-yorker-documentary/swift-justice-looks-inside-a-sharia-courtroom)
 * [2023-09-07, 09:28:45](https://news.ycombinator.com/item?id=37416568) - [Apple buys 50-year-old record label to grow Apple Music Classical app](https://arstechnica.com/gadgets/2023/09/apple-fuels-classical-music-push-with-record-label-acquisition/)

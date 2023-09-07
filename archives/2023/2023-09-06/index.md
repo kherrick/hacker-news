@@ -8,6 +8,7 @@
 * [2023-09-06, 23:28:39](https://news.ycombinator.com/item?id=37412793) - [Run ChatGPT-like LLMs on your laptop in 3 lines of code](https://github.com/amaiya/onprem)
 * [2023-09-06, 23:26:39](https://news.ycombinator.com/item?id=37412772) - [Beetle grows ‘termite’ on back to steal food](https://www.science.org/content/article/beetle-grows-termite-back-steal-food)
 * [2023-09-06, 23:16:05](https://news.ycombinator.com/item?id=37412698) - [jq 1.7 released](https://github.com/jqlang/jq/releases/tag/jq-1.7)
+* [2023-09-06, 23:04:44](https://news.ycombinator.com/item?id=37412619) - [Prosperity and Precarity in Imperial Russia's Long Nineteenth Century](https://www.cambridge.org/core/journals/historical-journal/article/prosperity-and-precarity-in-imperial-russias-long-nineteenth-century/07F378622C75FE5FE335FC244EBF0B9C)
 * [2023-09-06, 22:55:52](https://news.ycombinator.com/item?id=37412555) - [Artificial Consciousness Remains Impossible (Part 2)](https://mindmatters.ai/2023/09/artificial-consciousness-remains-impossible-part-2/)
 * [2023-09-06, 22:19:34](https://news.ycombinator.com/item?id=37412180) - [Hot Chips 2023: Characterizing Gaming Workloads on Zen 4](https://chipsandcheese.com/2023/09/06/hot-chips-2023-characterizing-gaming-workloads-on-zen-4/)
 * [2023-09-06, 21:25:04](https://news.ycombinator.com/item?id=37411547) - [Ten Million a Year Die from Air Pollution (2021)](https://www.lrb.co.uk/the-paper/v43/n23/david-wallace-wells/ten-million-a-year)
