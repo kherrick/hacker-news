@@ -2,7 +2,7 @@
 
 * [2023-09-07, 20:25:48](https://news.ycombinator.com/item?id=37425059) - [NASA finally admits what everyone already knows: SLS is unaffordable](https://arstechnica.com/space/2023/09/nasa-finally-admits-what-everyone-already-knows-sls-is-unaffordable/)
 * [2023-09-07, 20:21:01](https://news.ycombinator.com/item?id=37425007) - [NSO group iPhone zero-click, zero-day exploit captured in the wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/)
-* [2023-09-07, 19:56:49](https://news.ycombinator.com/item?id=37424724) - [Bun v1](https://bun.sh/blog/bun-v1.0)
+* [2023-09-07, 20:20:40](https://news.ycombinator.com/item?id=37425004) - [Apple Entrepreneur Camp](https://developer.apple.com/entrepreneur-camp/)
 * [2023-09-07, 19:34:41](https://news.ycombinator.com/item?id=37424416) - [London Street Trees](https://apps.london.gov.uk/street-trees/)
 * [2023-09-07, 19:02:23](https://news.ycombinator.com/item?id=37423959) - [Gabor Melli’s Research Knowledge Base](https://www.gabormelli.com/RKB/HomePage)
 * [2023-09-07, 18:53:08](https://news.ycombinator.com/item?id=37423811) - [Ricochet Robots Solver](https://kevincox.ca/2023/09/02/ricochet-robots-solver/)
@@ -21,7 +21,6 @@
 * [2023-09-07, 15:22:26](https://news.ycombinator.com/item?id=37420281) - [Kagi Small Web](https://blog.kagi.com/small-web)
 * [2023-09-07, 15:09:19](https://news.ycombinator.com/item?id=37420053) - [Mullvad on Tailscale: Privately browse the web](https://tailscale.com/blog/mullvad-integration/)
 * [2023-09-07, 15:00:15](https://news.ycombinator.com/item?id=37419886) - [Retool AI](https://retool.com/products/ai)
-* [2023-09-07, 13:13:15](https://news.ycombinator.com/item?id=37418424) - [Textual Web: TUIs for the Web](https://textual.textualize.io/blog/2023/09/06/what-is-textual-web/)
 * [2023-09-07, 12:04:02](https://news.ycombinator.com/item?id=37417698) - [DSPy: Framework for programming with foundation models](https://github.com/stanfordnlp/dspy)
 * [2023-09-07, 11:57:23](https://news.ycombinator.com/item?id=37417646) - [Snake-fury – a challenge for Haskell beginners](https://github.com/lsmor/snake-fury)
 * [2023-09-07, 10:41:56](https://news.ycombinator.com/item?id=37417055) - [Every software project is a startup that will probably fail](https://muldoon.cloud/2023/09/06/software-keeps-failing.html)
@@ -30,6 +29,7 @@
 * [2023-09-07, 06:37:14](https://news.ycombinator.com/item?id=37415478) - [Gaussian splatting is pretty cool](https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/)
 * [2023-09-07, 04:19:59](https://news.ycombinator.com/item?id=37414723) - [Gematria](https://en.wikipedia.org/wiki/Gematria)
 * [2023-09-06, 22:56:52](https://news.ycombinator.com/item?id=37412560) - [The Decomposition of Rotten Tomatoes](https://www.vulture.com/article/rotten-tomatoes-movie-rating.html)
+* [2023-09-05, 19:40:36](https://news.ycombinator.com/item?id=37396726) - [Postmarks – A single-user, fediverse-enabled bookmarking website](https://motd.co/2023/09/postmarks-launch/)
 
 ## [Archives](archives/index.md)
 
