@@ -20,7 +20,6 @@
 * [2023-09-07, 02:13:42](https://news.ycombinator.com/item?id=37413908) - [My favorite Erlang program (2013)](https://joearms.github.io/#2013-11-21%20My%20favorite%20Erlang%20Program)
 * [2023-09-07, 00:47:34](https://news.ycombinator.com/item?id=37413383) - [Astronomers discover new quiescent galaxy](https://phys.org/news/2023-09-astronomers-massive-quiescent-galaxy.html)
 * [2023-09-06, 23:26:39](https://news.ycombinator.com/item?id=37412772) - [Beetle grows ‘termite’ on back to steal food](https://www.science.org/content/article/beetle-grows-termite-back-steal-food)
-* [2023-09-06, 23:16:05](https://news.ycombinator.com/item?id=37412698) - [jq 1.7](https://github.com/jqlang/jq/releases/tag/jq-1.7)
 * [2023-09-06, 22:19:34](https://news.ycombinator.com/item?id=37412180) - [Characterizing gaming workloads on Zen 4](https://chipsandcheese.com/2023/09/06/hot-chips-2023-characterizing-gaming-workloads-on-zen-4/)
 * [2023-09-06, 19:13:53](https://news.ycombinator.com/item?id=37409749) - [Detective McDavitt and the Curious Case of the Clown Wedgefish](https://hakaimagazine.com/features/detective-mcdavitt-and-the-curious-case-of-the-clown-wedgefish/)
 * [2023-09-06, 18:11:10](https://news.ycombinator.com/item?id=37408822) - [Tamagotchi Connection](https://en.wikipedia.org/wiki/Tamagotchi_Connection)
@@ -28,6 +27,7 @@
 * [2023-09-06, 13:36:58](https://news.ycombinator.com/item?id=37404918) - [AOL pretends to be the internet](https://thehistoryoftheweb.com/postscript/aol-pretends-to-be-the-internet/)
 * [2023-09-06, 13:21:17](https://news.ycombinator.com/item?id=37404740) - [Is this Duplo train track under too much tension?](https://puzzling.stackexchange.com/questions/122232/is-this-duplo-train-track-under-too-much-tension)
 * [2023-09-05, 19:40:36](https://news.ycombinator.com/item?id=37396726) - [Postmarks – a single-user bookmarking website](https://motd.co/2023/09/postmarks-launch/)
+* [2023-09-05, 15:52:14](https://news.ycombinator.com/item?id=37393452) - [Where did the QWERTY keyboard come from?](https://www.smithsonianmag.com/innovation/origins-qwerty-keyboard-typewriter-180982726/)
 * [2023-09-05, 14:33:17](https://news.ycombinator.com/item?id=37392235) - [Every aspiring writer should read terrible books (2022) [video]](https://www.youtube.com/watch?v=rCOmkrwQdFc)
 * [2023-09-04, 22:14:16](https://news.ycombinator.com/item?id=37385633) - [Paul Buchheit interview (2018)](https://dev.to/triplebyte/gmail-creator-and-yc-partner-paul-buchheit-on-joining-google-how-to-become-a-great-engineer-and-happiness-599o)
 
