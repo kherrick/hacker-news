@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
 * [2023-09-07, 04:15:58](https://news.ycombinator.com/item?id=37414699) - [Depression can play direct role in developing type 2 diabetes, says study](https://www.theguardian.com/society/2023/sep/07/depression-can-play-direct-role-in-developing-type-2-diabetes-says-study)
+* [2023-09-07, 03:01:57](https://news.ycombinator.com/item?id=37414259) - [Australian regulator sues PayPal over unfair term in small business contracts](https://www.reuters.com/business/finance/australian-regulator-sues-paypal-unit-over-unfair-term-small-business-contracts-2023-09-06/)
 * [2023-09-07, 02:55:56](https://news.ycombinator.com/item?id=37414217) - [California judge halts policy requiring parents be told if kids change pronouns](https://apnews.com/article/chino-valley-parental-notification-transgender-students-california-cb4deaab3d29f26bc3705ee3815a5705)
 * [2023-09-07, 02:38:25](https://news.ycombinator.com/item?id=37414080) - [Tell HN: JPMorgan Chase forcing arbitration agreement to log in](https://twitter.com/walid/status/1697611534074011700)
 * [2023-09-07, 02:13:42](https://news.ycombinator.com/item?id=37413908) - [My favorite Erlang program (2013)](https://joearms.github.io/#2013-11-21%20My%20favorite%20Erlang%20Program)
