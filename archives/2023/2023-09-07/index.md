@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
+* [2023-09-07, 05:28:26](https://news.ycombinator.com/item?id=37415067) - [Chicago’s parking meter disaster](https://www.chicagotribune.com/opinion/editorials/ct-editorial-parking-meters-chicago-daley-20230430-fau3wymdevf7vknog5osrge5e4-story.html)
 * [2023-09-07, 04:45:19](https://news.ycombinator.com/item?id=37414855) - [Rockstar is selling cracked game copies on Steam](https://twitter.com/realCrackWatch/status/1699122744384970861)
 * [2023-09-07, 04:38:00](https://news.ycombinator.com/item?id=37414818) - [Anduril Fury: Automomous Stealth Drone](https://www.anduril.com/fury/)
 * [2023-09-07, 04:15:58](https://news.ycombinator.com/item?id=37414699) - [Depression can play direct role in developing type 2 diabetes, says study](https://www.theguardian.com/society/2023/sep/07/depression-can-play-direct-role-in-developing-type-2-diabetes-says-study)

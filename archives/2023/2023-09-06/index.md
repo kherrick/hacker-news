@@ -31,6 +31,7 @@
 * [2023-09-06, 18:24:04](https://news.ycombinator.com/item?id=37409044) - [Starship is ready for its 2nd test flight](https://arstechnica.com/space/2023/09/starship-is-stacked-and-ready-to-make-its-second-launch-attempt/)
 * [2023-09-06, 18:20:32](https://news.ycombinator.com/item?id=37408985) - [Amazon Andy Jassy shouldn’t make RTO decisions in echo chamber of CEOs feelings](https://fortune.com/2023/09/05/amazon-andy-jassy-return-to-office-decisions-echo-chamber-ceo-feelings-work-gleb-tsipursky/)
 * [2023-09-06, 18:17:15](https://news.ycombinator.com/item?id=37408929) - [37signals Introduces Once – One time payment software](https://once.com/)
+* [2023-09-06, 18:11:10](https://news.ycombinator.com/item?id=37408822) - [Tamagotchi Connection](https://en.wikipedia.org/wiki/Tamagotchi_Connection)
 * [2023-09-06, 18:08:43](https://news.ycombinator.com/item?id=37408794) - [Ask HN: Is there a data loss bug lurking in MS365 backup solutions?](https://news.ycombinator.com/item?id=37408794)
 * [2023-09-06, 18:07:21](https://news.ycombinator.com/item?id=37408776) - [Results of technical investigations for Storm-0558 key acquisition](https://msrc.microsoft.com/blog/2023/09/results-of-major-technical-investigations-for-storm-0558-key-acquisition/)
 * [2023-09-06, 17:36:54](https://news.ycombinator.com/item?id=37408317) - [“How About Never” (2014)](https://www.newyorker.com/cartoons/bob-mankoff/the-story-of-how-about-never)
