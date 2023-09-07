@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
+* [2023-09-07, 23:30:33](https://news.ycombinator.com/item?id=37427127) - [Show HN: HackYourNews – AI summaries of the top HN stories](https://hackyournews.com/)
+* [2023-09-07, 23:18:31](https://news.ycombinator.com/item?id=37427008) - [TEMU Is Cleverly Hidden Spyware That Poses an Urgent Security Threat to U.S.](https://grizzlyreports.com/we-believe-pdd-is-a-dying-fraudulent-company-and-its-shopping-app-temu-is-cleverly-hidden-spyware-that-poses-an-urgent-security-threat-to-u-s-national-interests/)
 * [2023-09-07, 22:04:10](https://news.ycombinator.com/item?id=37426223) - [Searx is no longer maintained](https://github.com/searx/searx/commit/276ffd3f01cdd823f75676c51231fad4040059d3)
 * [2023-09-07, 21:27:38](https://news.ycombinator.com/item?id=37425855) - [What it's Really Like to be an Alaskan Truck Driver](https://www.freightwaves.com/news/i-rode-with-an-ice-road-trucker-to-the-arctic-circle-heres-what-it-was-like)
 * [2023-09-07, 20:30:27](https://news.ycombinator.com/item?id=37425130) - [A BERT for laptops, from scratch](https://github.com/samvher/bert-for-laptops/blob/main/BERT_for_laptops.ipynb)
@@ -76,6 +78,7 @@
 * [2023-09-07, 11:22:41](https://news.ycombinator.com/item?id=37417355) - [Toyota Shut Down 14 Factories Due to 'Insufficient Disk Space'](https://www.tomshardware.com/news/toyota-shut-down-14-factories-due-to-insufficient-disk-space)
 * [2023-09-07, 11:03:27](https://news.ycombinator.com/item?id=37417195) - [Move Over, Software Developers – In Cybersecurity, the Government Wants to Drive](https://www.techdirt.com/2023/09/06/move-over-software-developers-in-the-name-of-cybersecurity-the-government-wants-to-drive/)
 * [2023-09-07, 10:41:56](https://news.ycombinator.com/item?id=37417055) - [Every software project is a startup that will probably fail](https://muldoon.cloud/2023/09/06/software-keeps-failing.html)
+* [2023-09-07, 10:38:07](https://news.ycombinator.com/item?id=37417027) - [Animations From First Principles (in 5 minutes)](https://mathspp.com/blog/animations-from-first-principles-in-5-minutes)
 * [2023-09-07, 10:21:44](https://news.ycombinator.com/item?id=37416909) - [UK drops 'spy clause' for scanning encrypted messages, admits not 'feasible'](https://www.theregister.com/2023/09/07/uk_government_clause_online_safety_bill/)
 * [2023-09-07, 10:02:15](https://news.ycombinator.com/item?id=37416768) - [A look inside a Sharia Courtroom](https://www.newyorker.com/culture/the-new-yorker-documentary/swift-justice-looks-inside-a-sharia-courtroom)
 * [2023-09-07, 09:28:45](https://news.ycombinator.com/item?id=37416568) - [Apple buys 50-year-old record label to grow Apple Music Classical app](https://arstechnica.com/gadgets/2023/09/apple-fuels-classical-music-push-with-record-label-acquisition/)
