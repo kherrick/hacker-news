@@ -6,6 +6,7 @@
 
 * [2023-09-07, 18:45:38](https://news.ycombinator.com/item?id=37423684) - [BMW drops plan to charge a monthly fee for heated seats](https://www.theverge.com/2023/9/7/23863258/bmw-cancel-heated-seat-subscription-microtransaction)
 * [2023-09-07, 18:21:38](https://news.ycombinator.com/item?id=37423329) - [More than half of dilapidated English schools were refused rebuilding money](https://www.theguardian.com/education/2023/sep/05/more-than-half-of-dilapidated-english-schools-were-refused-rebuilding-money)
+* [2023-09-07, 18:05:42](https://news.ycombinator.com/item?id=37423080) - [The fight over California community solar: ‘It’s everyone vs. utilities’](https://www.canarymedia.com/articles/solar/the-fight-over-california-community-solar-everyone-vs-the-utilities)
 * [2023-09-07, 17:38:12](https://news.ycombinator.com/item?id=37422624) - [Humanised kidneys grown inside pigs for the first time](https://www.theguardian.com/science/2023/sep/07/humanised-kidneys-grown-inside-pigs-for-the-first-time)
 * [2023-09-07, 17:37:47](https://news.ycombinator.com/item?id=37422615) - [Releasing Persimmon-8B](https://www.adept.ai/blog/persimmon-8b)
 * [2023-09-07, 17:28:39](https://news.ycombinator.com/item?id=37422460) - [Norway rejects Facebook owner Meta's appeal to defer ban](https://www.thelocal.no/20230906/norway-rejects-facebook-owner-metas-appeal-to-defer-ban)
@@ -16,6 +17,7 @@
 * [2023-09-07, 16:35:02](https://news.ycombinator.com/item?id=37421573) - [AtariAge and Atari](https://forums.atariage.com/topic/354609-atariage-atari/)
 * [2023-09-07, 16:32:15](https://news.ycombinator.com/item?id=37421529) - [Mojo: It’s Finally Here](https://www.modular.com/blog/mojo-its-finally-here)
 * [2023-09-07, 16:16:05](https://news.ycombinator.com/item?id=37421241) - [Grindr Loses Almost Half Its Staff on 2-Day RTO Requirement](https://www.bloomberg.com/news/articles/2023-09-07/grindr-loses-nearly-half-its-staff-to-strict-return-to-office-rule)
+* [2023-09-07, 16:13:02](https://news.ycombinator.com/item?id=37421184) - [The Social Organization of the Computer Underground – Criminology PhD Thesis](http://www.textfiles.com/100/hack_ths.txt)
 * [2023-09-07, 16:10:34](https://news.ycombinator.com/item?id=37421132) - [Wayland Isn't Going to Save the Linux Desktop (2022)](https://dudemanguy.github.io/blog/posts/2022-06-10-wayland-xorg/wayland-xorg.html?r)
 * [2023-09-07, 16:09:27](https://news.ycombinator.com/item?id=37421104) - [Turning a Keyboard into a Mouse with Libevdev](https://suricrasia.online/blog/turning-a-keyboard-into/)
 * [2023-09-07, 16:08:08](https://news.ycombinator.com/item?id=37421083) - [Study finds influence of smaller Jersey numbers on perception](https://www.espn.com/nfl/story/_/id/38343968/study-finds-influence-smaller-jersey-numbers-perception)
