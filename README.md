@@ -2,9 +2,7 @@
 
 * [2023-09-07, 05:28:26](https://news.ycombinator.com/item?id=37415067) - [Chicago’s parking meter disaster](https://www.chicagotribune.com/opinion/editorials/ct-editorial-parking-meters-chicago-daley-20230430-fau3wymdevf7vknog5osrge5e4-story.html)
 * [2023-09-07, 04:51:27](https://news.ycombinator.com/item?id=37414889) - [US solar installations expected to be a record 32 GW in 2023](https://electrek.co/2023/09/06/us-solar-installations-expected-to-be-a-record-32-gw-in-2023/)
-* [2023-09-07, 04:38:00](https://news.ycombinator.com/item?id=37414818) - [Anduril Fury: Automomous Stealth Drone](https://www.anduril.com/fury/)
 * [2023-09-07, 04:04:00](https://news.ycombinator.com/item?id=37414624) - [God writes Haskell](https://hookrace.net/blog/god-writes-haskell/)
-* [2023-09-07, 02:25:20](https://news.ycombinator.com/item?id=37413991) - [Unreal Engine 5.3](https://www.unrealengine.com/en-US/blog/unreal-engine-5-3-is-now-available)
 * [2023-09-07, 02:13:42](https://news.ycombinator.com/item?id=37413908) - [My favorite Erlang program (2013)](https://joearms.github.io/#2013-11-21%20My%20favorite%20Erlang%20Program)
 * [2023-09-07, 01:05:46](https://news.ycombinator.com/item?id=37413498) - [National Film Board of Canada](https://www.nfb.ca/)
 * [2023-09-06, 23:26:39](https://news.ycombinator.com/item?id=37412772) - [Beetle grows ‘termite’ on back to steal food](https://www.science.org/content/article/beetle-grows-termite-back-steal-food)
@@ -27,8 +25,10 @@
 * [2023-09-06, 02:32:11](https://news.ycombinator.com/item?id=37400738) - [IBM 3740 Data Entry System [pdf]](https://bitsavers.org/pdf/ibm/3740/GA21-9152-2_IBM_3740_DataEntrySystem_SystemSummary_and_InstallationManual_PhysicalPlanning_Jun74.pdf)
 * [2023-09-06, 00:59:21](https://news.ycombinator.com/item?id=37400025) - [Bismarck’s War](https://www.historytoday.com/archive/review/bismarcks-war-rachel-chrastil-review)
 * [2023-09-05, 14:33:17](https://news.ycombinator.com/item?id=37392235) - [Every aspiring writer should read terrible books (2022) [video]](https://www.youtube.com/watch?v=rCOmkrwQdFc)
-* [2023-09-05, 13:06:35](https://news.ycombinator.com/item?id=37391097) - [Spored to Death](https://www.nybooks.com/articles/2023/09/21/spored-to-death-blight-fungi-and-the-coming-pandemic/)
+* [2023-09-05, 13:06:35](https://news.ycombinator.com/item?id=37391097) - [Spored to death](https://www.nybooks.com/articles/2023/09/21/spored-to-death-blight-fungi-and-the-coming-pandemic/)
+* [2023-09-05, 11:39:17](https://news.ycombinator.com/item?id=37390378) - [What OpenAI really wants](https://www.wired.com/story/what-openai-really-wants/)
 * [2023-09-05, 02:12:28](https://news.ycombinator.com/item?id=37387100) - [Blacksmithing is alive and well in Kentucky](https://www.nytimes.com/2023/05/19/special-series/blacksmith-craig-kaviar-louisville.html)
+* [2023-09-04, 22:39:53](https://news.ycombinator.com/item?id=37385826) - [Rare Otis Pop-Out Elevators [video]](https://www.youtube.com/watch?v=zGx1doOSMMU)
 * [2023-09-04, 22:14:16](https://news.ycombinator.com/item?id=37385633) - [Paul Buchheit interview (2018)](https://dev.to/triplebyte/gmail-creator-and-yc-partner-paul-buchheit-on-joining-google-how-to-become-a-great-engineer-and-happiness-599o)
 
 ## [Archives](archives/index.md)
