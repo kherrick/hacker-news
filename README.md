@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-07, 20:30:27](https://news.ycombinator.com/item?id=37425130) - [A BERT for laptops, from scratch](https://github.com/samvher/bert-for-laptops/blob/main/BERT_for_laptops.ipynb)
-* [2023-09-07, 20:25:50](https://news.ycombinator.com/item?id=37425060) - [Roadmap to Tauri 2.0](https://beta.tauri.app/blog/roadmap-to-tauri-2-0/)
 * [2023-09-07, 20:25:48](https://news.ycombinator.com/item?id=37425059) - [NASA finally admits what everyone already knows: SLS is unaffordable](https://arstechnica.com/space/2023/09/nasa-finally-admits-what-everyone-already-knows-sls-is-unaffordable/)
 * [2023-09-07, 20:21:01](https://news.ycombinator.com/item?id=37425007) - [NSO group iPhone zero-click, zero-day exploit captured in the wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/)
 * [2023-09-07, 19:34:41](https://news.ycombinator.com/item?id=37424416) - [London Street Trees](https://apps.london.gov.uk/street-trees/)
@@ -22,14 +21,15 @@
 * [2023-09-07, 15:22:26](https://news.ycombinator.com/item?id=37420281) - [Kagi Small Web](https://blog.kagi.com/small-web)
 * [2023-09-07, 15:09:19](https://news.ycombinator.com/item?id=37420053) - [Mullvad on Tailscale: Privately browse the web](https://tailscale.com/blog/mullvad-integration/)
 * [2023-09-07, 15:00:15](https://news.ycombinator.com/item?id=37419886) - [Retool AI](https://retool.com/products/ai)
+* [2023-09-07, 14:58:59](https://news.ycombinator.com/item?id=37419864) - [Are any words the same in all languages?](https://blog.duolingo.com/words-shared-in-all-languages/)
 * [2023-09-07, 12:04:02](https://news.ycombinator.com/item?id=37417698) - [DSPy: Framework for programming with foundation models](https://github.com/stanfordnlp/dspy)
 * [2023-09-07, 11:57:23](https://news.ycombinator.com/item?id=37417646) - [Snake-fury – a challenge for Haskell beginners](https://github.com/lsmor/snake-fury)
 * [2023-09-07, 10:41:56](https://news.ycombinator.com/item?id=37417055) - [Every software project is a startup that will probably fail](https://muldoon.cloud/2023/09/06/software-keeps-failing.html)
 * [2023-09-07, 07:31:24](https://news.ycombinator.com/item?id=37415799) - [When URL parsers disagree](https://www.canva.dev/blog/engineering/when-url-parsers-disagree-cve-2023-38633/)
-* [2023-09-07, 06:54:38](https://news.ycombinator.com/item?id=37415587) - [The fallacy that the next new feature will suddenly make people use your product](https://andrewchen.com/the-next-feature-fallacy-the-fallacy-that-the-next-new-feature-will-suddenly-make-people-use-your-product/)
 * [2023-09-07, 06:40:36](https://news.ycombinator.com/item?id=37415505) - [Cthulhu.jl – show type-inferred Julia code](https://github.com/JuliaDebug/Cthulhu.jl)
 * [2023-09-07, 04:19:59](https://news.ycombinator.com/item?id=37414723) - [Gematria](https://en.wikipedia.org/wiki/Gematria)
 * [2023-09-06, 22:56:52](https://news.ycombinator.com/item?id=37412560) - [The Decomposition of Rotten Tomatoes](https://www.vulture.com/article/rotten-tomatoes-movie-rating.html)
+* [2023-09-05, 19:40:36](https://news.ycombinator.com/item?id=37396726) - [Postmarks – A single-user, fediverse-enabled bookmarking website](https://motd.co/2023/09/postmarks-launch/)
 
 ## [Archives](archives/index.md)
 
