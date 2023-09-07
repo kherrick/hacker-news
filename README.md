@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-07, 06:37:59](https://news.ycombinator.com/item?id=37415485) - [Google faces multibillion-pound lawsuit from UK consumers](https://www.theguardian.com/technology/2023/sep/07/google-faces-multibillion-pound-lawsuit-uk-consumers)
 * [2023-09-07, 04:51:27](https://news.ycombinator.com/item?id=37414889) - [US solar installations expected to be a record 32 GW in 2023](https://electrek.co/2023/09/06/us-solar-installations-expected-to-be-a-record-32-gw-in-2023/)
 * [2023-09-07, 04:04:00](https://news.ycombinator.com/item?id=37414624) - [God writes Haskell](https://hookrace.net/blog/god-writes-haskell/)
 * [2023-09-07, 02:25:20](https://news.ycombinator.com/item?id=37413991) - [Unreal Engine 5.3](https://www.unrealengine.com/en-US/blog/unreal-engine-5-3-is-now-available)
@@ -30,6 +29,7 @@
 * [2023-09-05, 02:12:28](https://news.ycombinator.com/item?id=37387100) - [Blacksmithing is alive and well in Kentucky](https://www.nytimes.com/2023/05/19/special-series/blacksmith-craig-kaviar-louisville.html)
 * [2023-09-04, 22:39:53](https://news.ycombinator.com/item?id=37385826) - [Rare Otis Pop-Out Elevators (2016) [video]](https://www.youtube.com/watch?v=zGx1doOSMMU)
 * [2023-09-04, 22:14:16](https://news.ycombinator.com/item?id=37385633) - [Paul Buchheit interview (2018)](https://dev.to/triplebyte/gmail-creator-and-yc-partner-paul-buchheit-on-joining-google-how-to-become-a-great-engineer-and-happiness-599o)
+* [2023-09-04, 20:10:36](https://news.ycombinator.com/item?id=37384478) - [The Case for Centralized IAM (2022)](https://www.permit.io/blog/the-case-for-centralized-iam)
 
 ## [Archives](archives/index.md)
 

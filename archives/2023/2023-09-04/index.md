@@ -30,6 +30,7 @@
 * [2023-09-04, 20:44:00](https://news.ycombinator.com/item?id=37384864) - [Wine 8.15 (Dev) – Run Windows Applications on Linux, BSD, Solaris and macOS](https://www.winehq.org/announce/8.15)
 * [2023-09-04, 20:37:49](https://news.ycombinator.com/item?id=37384797) - [LLM now provides tools for working with embeddings](https://simonwillison.net/2023/Sep/4/llm-embeddings/)
 * [2023-09-04, 20:14:08](https://news.ycombinator.com/item?id=37384517) - [When Tech Says ‘No’](https://www.ben-evans.com/benedictevans/2023/8/24/when-tech-says-no)
+* [2023-09-04, 20:10:36](https://news.ycombinator.com/item?id=37384478) - [The Case for Centralized IAM (2022)](https://www.permit.io/blog/the-case-for-centralized-iam)
 * [2023-09-04, 19:56:35](https://news.ycombinator.com/item?id=37384323) - [Chromebooks Were Once a Good Deal for Schools. Now They’re Becoming E-Waste](https://www.wsj.com/tech/chromebooks-were-once-a-good-deal-for-schools-now-theyre-becoming-e-waste-dc93833b)
 * [2023-09-04, 19:17:37](https://news.ycombinator.com/item?id=37383913) - [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)
 * [2023-09-04, 19:14:43](https://news.ycombinator.com/item?id=37383894) - [.KKRIEGER – Fully Functional Sci-Fi FPS into Just 96kb](https://www.youtube.com/watch?v=8fZBUsn5RYg)
