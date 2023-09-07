@@ -2,10 +2,10 @@
 
 * [2023-09-07, 14:16:54](https://news.ycombinator.com/item?id=37419220) - [Texas just got closer to blackouts than it has since 2021. What happened?](https://www.kut.org/energy-environment/2023-09-07/texas-just-got-closer-to-blackouts-than-it-has-since-2021-what-happened)
 * [2023-09-07, 14:07:18](https://news.ycombinator.com/item?id=37419107) - [Arduino raises $22M Series B round](https://blog.arduino.cc/2023/09/06/what-will-we-do-with-an-additional-22m/)
+* [2023-09-07, 14:01:50](https://news.ycombinator.com/item?id=37419049) - [Ernie, China's ChatGPT, Cracks Under Pressure](https://www.chinatalk.media/p/how-ernie-chinas-chatgpt-cracks-under)
 * [2023-09-07, 13:20:31](https://news.ycombinator.com/item?id=37418519) - [ASML to Ship First High-NA EUV Tool This Year: $300M per Scanner](https://www.tomshardware.com/news/asml-to-ship-first-high-na-euv-tool-this-year-dollar300-million-per-scanner)
 * [2023-09-07, 13:16:37](https://news.ycombinator.com/item?id=37418461) - [All You Need to Become a Servant Leader](https://effyai.substack.com/p/all-you-need-to-become-a-servant)
 * [2023-09-07, 13:13:15](https://news.ycombinator.com/item?id=37418424) - [Textual Web: TUIs for the Web](https://textual.textualize.io/blog/2023/09/06/what-is-textual-web/)
-* [2023-09-07, 12:45:08](https://news.ycombinator.com/item?id=37418107) - [Nintendo demoed Switch 2 to developers at Gamescom](https://www.eurogamer.net/nintendo-demoed-switch-2-to-developers-at-gamescom)
 * [2023-09-07, 12:04:02](https://news.ycombinator.com/item?id=37417698) - [Stanford DSPy: The framework for programming with foundation models](https://github.com/stanfordnlp/dspy)
 * [2023-09-07, 11:57:23](https://news.ycombinator.com/item?id=37417646) - [Snake-fury – a challenge for Haskell beginners](https://github.com/lsmor/snake-fury)
 * [2023-09-07, 10:21:44](https://news.ycombinator.com/item?id=37416909) - [UK drops 'spy clause' for scanning encrypted messages, admits not 'feasible'](https://www.theregister.com/2023/09/07/uk_government_clause_online_safety_bill/)
