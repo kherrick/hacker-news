@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
+* [2023-09-07, 20:30:27](https://news.ycombinator.com/item?id=37425130) - [A BERT for laptops, from scratch](https://github.com/samvher/bert-for-laptops/blob/main/BERT_for_laptops.ipynb)
 * [2023-09-07, 20:25:48](https://news.ycombinator.com/item?id=37425059) - [NASA finally admits what everyone already knows: SLS is unaffordable](https://arstechnica.com/space/2023/09/nasa-finally-admits-what-everyone-already-knows-sls-is-unaffordable/)
 * [2023-09-07, 20:21:53](https://news.ycombinator.com/item?id=37425018) - [40 Hours a Week of Intense Work Outside Your Job,You Too Can Make Passive Income](https://www.mcsweeneys.net/articles/for-just-forty-hours-a-week-of-intense-work-outside-your-full-time-job-you-too-can-make-passive-income)
 * [2023-09-07, 20:21:01](https://news.ycombinator.com/item?id=37425007) - [NSO Group iPhone Zero-Click, Zero-Day Exploit Captured in the Wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/)
