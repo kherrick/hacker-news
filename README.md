@@ -2,10 +2,10 @@
 
 * [2023-09-07, 13:20:31](https://news.ycombinator.com/item?id=37418519) - [ASML to Ship First High-NA EUV Tool This Year: $300M per Scanner](https://www.tomshardware.com/news/asml-to-ship-first-high-na-euv-tool-this-year-dollar300-million-per-scanner)
 * [2023-09-07, 13:07:31](https://news.ycombinator.com/item?id=37418351) - [NixOS just dropped Anduril as a NixCon sponsor](https://twitter.com/nixos_org/status/1699054958858121282)
+* [2023-09-07, 12:45:08](https://news.ycombinator.com/item?id=37418107) - [Nintendo demoed Switch 2 to developers at Gamescom](https://www.eurogamer.net/nintendo-demoed-switch-2-to-developers-at-gamescom)
 * [2023-09-07, 12:04:02](https://news.ycombinator.com/item?id=37417698) - [Stanford DSPy: The framework for programming with foundation models](https://github.com/stanfordnlp/dspy)
 * [2023-09-07, 11:57:23](https://news.ycombinator.com/item?id=37417646) - [Snake-fury – a challenge for Haskell beginners](https://github.com/lsmor/snake-fury)
 * [2023-09-07, 11:52:33](https://news.ycombinator.com/item?id=37417600) - [Using disposable phone numbers for better security](https://shkspr.mobi/blog/2023/09/using-disposable-phone-numbers-for-better-security/)
-* [2023-09-07, 11:47:19](https://news.ycombinator.com/item?id=37417555) - [Is Google's looming monopoly trial a watershed moment for Big Tech?](https://theweek.com/google/1026299/google-doj-monopoly-antitrust-trial)
 * [2023-09-07, 10:21:44](https://news.ycombinator.com/item?id=37416909) - [UK drops 'spy clause' for scanning encrypted messages, admits not 'feasible'](https://www.theregister.com/2023/09/07/uk_government_clause_online_safety_bill/)
 * [2023-09-07, 09:28:45](https://news.ycombinator.com/item?id=37416568) - [Apple buys 50-year-old record label to grow Apple Music Classical app](https://arstechnica.com/gadgets/2023/09/apple-fuels-classical-music-push-with-record-label-acquisition/)
 * [2023-09-07, 09:06:20](https://news.ycombinator.com/item?id=37416430) - [Exa Is Deprecated](https://github.com/ogham/exa)
