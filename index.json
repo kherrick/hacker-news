@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-09-07, 15:02:08",
-      "https://news.ycombinator.com/item?id=37419932"
+      "2023-09-07, 15:28:45",
+      "https://news.ycombinator.com/item?id=37420382"
     ],
     [
-      "PgCompute: New PostgreSQL Client-Side Extension for Database Functions",
-      "https://www.yugabyte.com/blog/pgcompute-postgresql-extension-database-functions/"
+      "Tailscale Has Partnered with Mullvad",
+      "https://mullvad.net/en/blog/2023/9/7/tailscale-has-partnered-with-mullvad/"
     ]
   ],
   [
@@ -41,22 +41,22 @@
   ],
   [
     [
+      "2023-09-07, 14:32:01",
+      "https://news.ycombinator.com/item?id=37419447"
+    ],
+    [
+      "Ask HN: What are some well-designed websites?",
+      "https://news.ycombinator.com/item?id=37419447"
+    ]
+  ],
+  [
+    [
       "2023-09-07, 14:30:50",
       "https://news.ycombinator.com/item?id=37419427"
     ],
     [
       "Report says PR firm has been paying Rotten Tomatoes critics for positive reviews",
       "https://www.screengeek.net/2023/09/06/rotten-tomatoes-pr-firm-paying-critics-positive-reviews/"
-    ]
-  ],
-  [
-    [
-      "2023-09-07, 14:16:54",
-      "https://news.ycombinator.com/item?id=37419220"
-    ],
-    [
-      "Texas just got closer to blackouts than it has since 2021. What happened?",
-      "https://www.kut.org/energy-environment/2023-09-07/texas-just-got-closer-to-blackouts-than-it-has-since-2021-what-happened"
     ]
   ],
   [
@@ -127,6 +127,16 @@
     [
       "Snake-fury – a challenge for Haskell beginners",
       "https://github.com/lsmor/snake-fury"
+    ]
+  ],
+  [
+    [
+      "2023-09-07, 10:41:56",
+      "https://news.ycombinator.com/item?id=37417055"
+    ],
+    [
+      "Every software project is a startup that will probably fail",
+      "https://muldoon.cloud/2023/09/06/software-keeps-failing.html"
     ]
   ],
   [
@@ -221,6 +231,16 @@
   ],
   [
     [
+      "2023-09-06, 23:04:44",
+      "https://news.ycombinator.com/item?id=37412619"
+    ],
+    [
+      "Prosperity and Precarity in Imperial Russia's Long Nineteenth Century",
+      "https://www.cambridge.org/core/journals/historical-journal/article/prosperity-and-precarity-in-imperial-russias-long-nineteenth-century/07F378622C75FE5FE335FC244EBF0B9C"
+    ]
+  ],
+  [
+    [
       "2023-09-06, 22:19:34",
       "https://news.ycombinator.com/item?id=37412180"
     ],
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2023-09-06, 15:41:22",
-      "https://news.ycombinator.com/item?id=37406742"
-    ],
-    [
-      "Show HN: iNet – A programming language for interaction nets",
-      "https://inet.run"
-    ]
-  ],
-  [
-    [
       "2023-09-06, 13:36:58",
       "https://news.ycombinator.com/item?id=37404918"
     ],
@@ -287,16 +297,6 @@
     [
       "Postmarks – A single-user bookmarking website",
       "https://motd.co/2023/09/postmarks-launch/"
-    ]
-  ],
-  [
-    [
-      "2023-09-04, 22:14:16",
-      "https://news.ycombinator.com/item?id=37385633"
-    ],
-    [
-      "Paul Buchheit interview (2018)",
-      "https://dev.to/triplebyte/gmail-creator-and-yc-partner-paul-buchheit-on-joining-google-how-to-become-a-great-engineer-and-happiness-599o"
     ]
   ]
 ]
