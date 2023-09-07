@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
+* [2023-09-07, 10:21:44](https://news.ycombinator.com/item?id=37416909) - [UK drops 'spy clause' for scanning encrypted messages, admits not 'feasible'](https://www.theregister.com/2023/09/07/uk_government_clause_online_safety_bill/)
 * [2023-09-07, 10:02:15](https://news.ycombinator.com/item?id=37416768) - [A look inside a Sharia Courtroom](https://www.newyorker.com/culture/the-new-yorker-documentary/swift-justice-looks-inside-a-sharia-courtroom)
 * [2023-09-07, 09:28:45](https://news.ycombinator.com/item?id=37416568) - [Apple buys 50-year-old record label to grow Apple Music Classical app](https://arstechnica.com/gadgets/2023/09/apple-fuels-classical-music-push-with-record-label-acquisition/)
 * [2023-09-07, 09:10:17](https://news.ycombinator.com/item?id=37416456) - [I brought down a scamming operation with 15 bytes of PHP](https://www.eliseomartelli.it/blog/2023-09-06-scammer)
