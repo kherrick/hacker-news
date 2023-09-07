@@ -82,6 +82,7 @@
 * [2023-09-06, 09:57:01](https://news.ycombinator.com/item?id=37403136) - [How would you say “She said goodbye too many times before.” in Latin?](https://latin.stackexchange.com/a/21492)
 * [2023-09-06, 09:55:34](https://news.ycombinator.com/item?id=37403127) - [Plans to cut speed limits ‘will significantly improve road safety' – minister](https://www.irishnews.com/news/republicofirelandnews/2023/09/06/news/plans_to_cut_speed_limits_will_significantly_improve_road_safety_minister-3588838/)
 * [2023-09-06, 09:53:07](https://news.ycombinator.com/item?id=37403114) - [Air Canada kicks off passengers who refused vomit-smeared seats](https://www.bbc.co.uk/news/world-us-canada-66727103)
+* [2023-09-06, 09:50:44](https://news.ycombinator.com/item?id=37403087) - [Performing Folk Music Found in the Archives](https://blogs.bl.uk/living-knowledge/2023/08/performing-folk-music-found-in-the-archives-user-stories.html)
 * [2023-09-06, 09:48:50](https://news.ycombinator.com/item?id=37403074) - [Gcsfuse: A user-space file system for interacting with Google Cloud Storage](https://github.com/GoogleCloudPlatform/gcsfuse)
 * [2023-09-06, 09:23:08](https://news.ycombinator.com/item?id=37402925) - [Remembering Doug Lenat (1950–2023) and His Quest to Capture the World with Logic](https://writings.stephenwolfram.com/2023/09/remembering-doug-lenat-1950-2023-and-his-quest-to-capture-the-world-with-logic/)
 * [2023-09-06, 08:14:30](https://news.ycombinator.com/item?id=37402524) - [Jailer is a unique open-source database tool](https://wisser.github.io/Jailer/)
