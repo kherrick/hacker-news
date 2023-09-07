@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
 * [2023-09-07, 16:16:05](https://news.ycombinator.com/item?id=37421241) - [Grindr Loses Almost Half Its Staff on 2-Day RTO Requirement](https://www.bloomberg.com/news/articles/2023-09-07/grindr-loses-nearly-half-its-staff-to-strict-return-to-office-rule)
+* [2023-09-07, 16:10:34](https://news.ycombinator.com/item?id=37421132) - [Wayland Isn't Going to Save the Linux Desktop (2022)](https://dudemanguy.github.io/blog/posts/2022-06-10-wayland-xorg/wayland-xorg.html?r)
 * [2023-09-07, 16:08:08](https://news.ycombinator.com/item?id=37421083) - [Study finds influence of smaller Jersey numbers on perception](https://www.espn.com/nfl/story/_/id/38343968/study-finds-influence-smaller-jersey-numbers-perception)
 * [2023-09-07, 15:53:23](https://news.ycombinator.com/item?id=37420831) - [Active North Korean campaign targeting security researchers](https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/)
 * [2023-09-07, 15:43:44](https://news.ycombinator.com/item?id=37420669) - [YC company copied our product, what can we do?](https://news.ycombinator.com/item?id=37420669)
