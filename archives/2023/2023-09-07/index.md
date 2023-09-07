@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
+* [2023-09-07, 20:25:48](https://news.ycombinator.com/item?id=37425059) - [NASA finally admits what everyone already knows: SLS is unaffordable](https://arstechnica.com/space/2023/09/nasa-finally-admits-what-everyone-already-knows-sls-is-unaffordable/)
 * [2023-09-07, 20:21:53](https://news.ycombinator.com/item?id=37425018) - [40 Hours a Week of Intense Work Outside Your Job,You Too Can Make Passive Income](https://www.mcsweeneys.net/articles/for-just-forty-hours-a-week-of-intense-work-outside-your-full-time-job-you-too-can-make-passive-income)
 * [2023-09-07, 20:21:01](https://news.ycombinator.com/item?id=37425007) - [NSO Group iPhone Zero-Click, Zero-Day Exploit Captured in the Wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/)
+* [2023-09-07, 19:56:49](https://news.ycombinator.com/item?id=37424724) - [Bun v1](https://bun.sh/blog/bun-v1.0)
 * [2023-09-07, 19:54:16](https://news.ycombinator.com/item?id=37424687) - [Proposed US Rule for Portable Generators Will Save Thousands of Lives and $1B/Yr](https://www.cpsc.gov/About-CPSC/Commissioner/Richard-Trumka/Statement/CPSCs-Groundbreaking-Proposed-Rule-for-Portable-Generators-will-Save-Thousands-of-Lives-and-will-Save-1B-a-Year-in-Costs)
 * [2023-09-07, 19:34:41](https://news.ycombinator.com/item?id=37424416) - [London Street Trees](https://apps.london.gov.uk/street-trees/)
 * [2023-09-07, 19:30:35](https://news.ycombinator.com/item?id=37424360) - [Substack Is Leaning into Politics](https://on.substack.com/p/in-the-2024-us-elections-vote-for)
