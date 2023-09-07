@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-07, 17:08:07](https://news.ycombinator.com/item?id=37422106) - [Bun 1.0 announcement [video]](https://www.youtube.com/watch?v=BsnCpESUEqM)
+* [2023-09-07, 17:06:39](https://news.ycombinator.com/item?id=37422088) - [Punjabi Mexican Americans](https://en.wikipedia.org/wiki/Punjabi_Mexican_Americans)
 * [2023-09-07, 17:00:37](https://news.ycombinator.com/item?id=37421993) - [25 Gbit/s at home, part 1](https://boredengineer.medium.com/25-gbit-s-at-home-part-1-98ff1013e32d)
 * [2023-09-07, 16:32:15](https://news.ycombinator.com/item?id=37421529) - [Mojo: It’s Finally Here](https://www.modular.com/blog/mojo-its-finally-here)
 * [2023-09-07, 16:16:05](https://news.ycombinator.com/item?id=37421241) - [Grindr Loses Almost Half Its Staff on 2-Day RTO Requirement](https://www.bloomberg.com/news/articles/2023-09-07/grindr-loses-nearly-half-its-staff-to-strict-return-to-office-rule)
@@ -8,7 +10,6 @@
 * [2023-09-07, 15:56:31](https://news.ycombinator.com/item?id=37420885) - [Microsoft will assume liability for legal copyright risks of Copilot](https://blogs.microsoft.com/on-the-issues/2023/09/07/copilot-copyright-commitment-ai-legal-concerns/)
 * [2023-09-07, 15:53:23](https://news.ycombinator.com/item?id=37420831) - [Active North Korean campaign targeting security researchers](https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/)
 * [2023-09-07, 15:52:09](https://news.ycombinator.com/item?id=37420812) - [John McCarthy’s collection of numerical facts for use in elisp programs](http://www-formal.stanford.edu/jmc/facts.txt)
-* [2023-09-07, 15:32:54](https://news.ycombinator.com/item?id=37420458) - [TPM-backed Full Disk Encryption is coming to Ubuntu](https://ubuntu.com/blog/tpm-backed-full-disk-encryption-is-coming-to-ubuntu)
 * [2023-09-07, 15:28:45](https://news.ycombinator.com/item?id=37420382) - [Tailscale Has Partnered with Mullvad](https://mullvad.net/en/blog/2023/9/7/tailscale-has-partnered-with-mullvad/)
 * [2023-09-07, 15:22:26](https://news.ycombinator.com/item?id=37420281) - [Kagi Small Web](https://blog.kagi.com/small-web)
 * [2023-09-07, 15:09:19](https://news.ycombinator.com/item?id=37420053) - [Mullvad on Tailscale: Privately browse the web](https://tailscale.com/blog/mullvad-integration/)
@@ -23,7 +24,6 @@
 * [2023-09-07, 11:57:23](https://news.ycombinator.com/item?id=37417646) - [Snake-fury – a challenge for Haskell beginners](https://github.com/lsmor/snake-fury)
 * [2023-09-07, 10:41:56](https://news.ycombinator.com/item?id=37417055) - [Every software project is a startup that will probably fail](https://muldoon.cloud/2023/09/06/software-keeps-failing.html)
 * [2023-09-07, 10:21:44](https://news.ycombinator.com/item?id=37416909) - [UK drops 'spy clause' for scanning encrypted messages, admits not 'feasible'](https://www.theregister.com/2023/09/07/uk_government_clause_online_safety_bill/)
-* [2023-09-07, 09:06:20](https://news.ycombinator.com/item?id=37416430) - [Exa Is Deprecated](https://github.com/ogham/exa)
 * [2023-09-07, 07:31:24](https://news.ycombinator.com/item?id=37415799) - [When URL parsers disagree (CVE-2023-38633, librsvg)](https://www.canva.dev/blog/engineering/when-url-parsers-disagree-cve-2023-38633/)
 * [2023-09-07, 06:37:14](https://news.ycombinator.com/item?id=37415478) - [Gaussian Splatting is pretty cool](https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/)
 * [2023-09-07, 05:28:26](https://news.ycombinator.com/item?id=37415067) - [Chicago’s parking meter disaster](https://www.chicagotribune.com/opinion/editorials/ct-editorial-parking-meters-chicago-daley-20230430-fau3wymdevf7vknog5osrge5e4-story.html)
