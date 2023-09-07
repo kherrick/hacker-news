@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-07, 15:28:45](https://news.ycombinator.com/item?id=37420382) - [Tailscale Has Partnered with Mullvad](https://mullvad.net/en/blog/2023/9/7/tailscale-has-partnered-with-mullvad/)
+* [2023-09-07, 15:22:26](https://news.ycombinator.com/item?id=37420281) - [Kagi Small Web](https://blog.kagi.com/small-web)
 * [2023-09-07, 15:09:19](https://news.ycombinator.com/item?id=37420053) - [Mullvad on Tailscale: Privately browse the web](https://tailscale.com/blog/mullvad-integration/)
-* [2023-09-07, 14:50:09](https://news.ycombinator.com/item?id=37419723) - [Mod kept failure of best tank quiet (2007)](https://www.telegraph.co.uk/news/uknews/1551418/MoD-kept-failure-of-best-tank-quiet.html)
+* [2023-09-07, 15:09:00](https://news.ycombinator.com/item?id=37420045) - [California's plastic bag ban is failing](https://www.latimes.com/environment/story/2023-08-24/whats-the-deal-with-single-use-plastic-bag-bans)
 * [2023-09-07, 14:36:13](https://news.ycombinator.com/item?id=37419518) - [Running a 180B parameter LLM on a single Apple M2 Ultra](https://twitter.com/ggerganov/status/1699791226780975439)
 * [2023-09-07, 14:34:41](https://news.ycombinator.com/item?id=37419493) - [Co-founder of DeepMind on how AI threatens to reshape life as we know it](https://www.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it)
 * [2023-09-07, 14:32:01](https://news.ycombinator.com/item?id=37419447) - [Ask HN: What are some well-designed websites?](https://news.ycombinator.com/item?id=37419447)
@@ -24,7 +25,6 @@
 * [2023-09-07, 02:13:42](https://news.ycombinator.com/item?id=37413908) - [My favorite Erlang program (2013)](https://joearms.github.io/#2013-11-21%20My%20favorite%20Erlang%20Program)
 * [2023-09-07, 00:47:34](https://news.ycombinator.com/item?id=37413383) - [Astronomers discover new quiescent galaxy](https://phys.org/news/2023-09-astronomers-massive-quiescent-galaxy.html)
 * [2023-09-06, 23:04:44](https://news.ycombinator.com/item?id=37412619) - [Prosperity and Precarity in Imperial Russia's Long Nineteenth Century](https://www.cambridge.org/core/journals/historical-journal/article/prosperity-and-precarity-in-imperial-russias-long-nineteenth-century/07F378622C75FE5FE335FC244EBF0B9C)
-* [2023-09-06, 22:19:34](https://news.ycombinator.com/item?id=37412180) - [Characterizing gaming workloads on Zen 4](https://chipsandcheese.com/2023/09/06/hot-chips-2023-characterizing-gaming-workloads-on-zen-4/)
 * [2023-09-06, 19:13:53](https://news.ycombinator.com/item?id=37409749) - [Detective McDavitt and the Curious Case of the Clown Wedgefish](https://hakaimagazine.com/features/detective-mcdavitt-and-the-curious-case-of-the-clown-wedgefish/)
 * [2023-09-06, 18:11:10](https://news.ycombinator.com/item?id=37408822) - [Tamagotchi Connection](https://en.wikipedia.org/wiki/Tamagotchi_Connection)
 * [2023-09-06, 13:36:58](https://news.ycombinator.com/item?id=37404918) - [AOL pretends to be the internet](https://thehistoryoftheweb.com/postscript/aol-pretends-to-be-the-internet/)

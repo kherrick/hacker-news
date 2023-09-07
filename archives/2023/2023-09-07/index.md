@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
 * [2023-09-07, 15:28:45](https://news.ycombinator.com/item?id=37420382) - [Tailscale Has Partnered with Mullvad](https://mullvad.net/en/blog/2023/9/7/tailscale-has-partnered-with-mullvad/)
+* [2023-09-07, 15:22:26](https://news.ycombinator.com/item?id=37420281) - [Kagi Small Web](https://blog.kagi.com/small-web)
 * [2023-09-07, 15:09:19](https://news.ycombinator.com/item?id=37420053) - [Mullvad on Tailscale: Privately browse the web](https://tailscale.com/blog/mullvad-integration/)
+* [2023-09-07, 15:09:00](https://news.ycombinator.com/item?id=37420045) - [California's plastic bag ban is failing](https://www.latimes.com/environment/story/2023-08-24/whats-the-deal-with-single-use-plastic-bag-bans)
 * [2023-09-07, 15:02:08](https://news.ycombinator.com/item?id=37419932) - [PgCompute: New PostgreSQL Client-Side Extension for Database Functions](https://www.yugabyte.com/blog/pgcompute-postgresql-extension-database-functions/)
 * [2023-09-07, 14:58:59](https://news.ycombinator.com/item?id=37419864) - [Are Any Words the Same in All Languages?](https://blog.duolingo.com/words-shared-in-all-languages/)
 * [2023-09-07, 14:50:09](https://news.ycombinator.com/item?id=37419723) - [Mod kept failure of best tank quiet (2007)](https://www.telegraph.co.uk/news/uknews/1551418/MoD-kept-failure-of-best-tank-quiet.html)
