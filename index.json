@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-09-07, 20:25:50",
+      "https://news.ycombinator.com/item?id=37425060"
+    ],
+    [
+      "Roadmap to Tauri 2.0",
+      "https://beta.tauri.app/blog/roadmap-to-tauri-2-0/"
+    ]
+  ],
+  [
+    [
       "2023-09-07, 20:25:48",
       "https://news.ycombinator.com/item?id=37425059"
     ],
@@ -251,22 +261,22 @@
   ],
   [
     [
+      "2023-09-07, 06:54:38",
+      "https://news.ycombinator.com/item?id=37415587"
+    ],
+    [
+      "The fallacy that the next new feature will suddenly make people use your product",
+      "https://andrewchen.com/the-next-feature-fallacy-the-fallacy-that-the-next-new-feature-will-suddenly-make-people-use-your-product/"
+    ]
+  ],
+  [
+    [
       "2023-09-07, 06:40:36",
       "https://news.ycombinator.com/item?id=37415505"
     ],
     [
       "Cthulhu.jl – show type-inferred Julia code",
       "https://github.com/JuliaDebug/Cthulhu.jl"
-    ]
-  ],
-  [
-    [
-      "2023-09-07, 06:37:14",
-      "https://news.ycombinator.com/item?id=37415478"
-    ],
-    [
-      "Gaussian splatting is pretty cool",
-      "https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Decomposition of Rotten Tomatoes",
       "https://www.vulture.com/article/rotten-tomatoes-movie-rating.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-05, 19:40:36",
-      "https://news.ycombinator.com/item?id=37396726"
-    ],
-    [
-      "Postmarks – A single-user, fediverse-enabled bookmarking website",
-      "https://motd.co/2023/09/postmarks-launch/"
     ]
   ]
 ]
