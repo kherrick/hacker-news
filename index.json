@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-09-07, 12:04:02",
+      "https://news.ycombinator.com/item?id=37417698"
+    ],
+    [
+      "Stanford DSPy: The framework for programming with foundation models",
+      "https://github.com/stanfordnlp/dspy"
+    ]
+  ],
+  [
+    [
       "2023-09-07, 11:57:23",
       "https://news.ycombinator.com/item?id=37417646"
     ],
     [
       "Snake-fury – a challenge for Haskell beginners",
       "https://github.com/lsmor/snake-fury"
+    ]
+  ],
+  [
+    [
+      "2023-09-07, 11:52:33",
+      "https://news.ycombinator.com/item?id=37417600"
+    ],
+    [
+      "Using disposable phone numbers for better security",
+      "https://shkspr.mobi/blog/2023/09/using-disposable-phone-numbers-for-better-security/"
     ]
   ],
   [
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2023-09-07, 09:08:31",
-      "https://news.ycombinator.com/item?id=37416446"
-    ],
-    [
-      "A philosophical theory where hard determinism and panpsychism are compatible",
-      "https://chat.openai.com/share/42cc3a70-fbbf-4e3a-ba2b-6b801a10ce66"
-    ]
-  ],
-  [
-    [
       "2023-09-07, 09:06:20",
       "https://news.ycombinator.com/item?id=37416430"
     ],
@@ -117,6 +127,16 @@
     [
       "Gaussian Splatting is pretty cool",
       "https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/"
+    ]
+  ],
+  [
+    [
+      "2023-09-07, 05:28:26",
+      "https://news.ycombinator.com/item?id=37415067"
+    ],
+    [
+      "Chicago’s parking meter disaster",
+      "https://www.chicagotribune.com/opinion/editorials/ct-editorial-parking-meters-chicago-daley-20230430-fau3wymdevf7vknog5osrge5e4-story.html"
     ]
   ],
   [
@@ -175,18 +195,8 @@
       "https://news.ycombinator.com/item?id=37412180"
     ],
     [
-      "Hot Chips 2023: Characterizing Gaming Workloads on Zen 4",
+      "Characterizing gaming workloads on Zen 4",
       "https://chipsandcheese.com/2023/09/06/hot-chips-2023-characterizing-gaming-workloads-on-zen-4/"
-    ]
-  ],
-  [
-    [
-      "2023-09-06, 20:34:54",
-      "https://news.ycombinator.com/item?id=37410919"
-    ],
-    [
-      "Leader of the Martians",
-      "https://www.lrb.co.uk/the-paper/v45/n17/thomas-nagel/leader-of-the-martians"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "ZX Origins 8x8 bitmap fonts",
       "https://damieng.com/typography/zx-origins/"
-    ]
-  ],
-  [
-    [
-      "2023-09-06, 02:32:11",
-      "https://news.ycombinator.com/item?id=37400738"
-    ],
-    [
-      "IBM 3740 Data Entry System [pdf]",
-      "https://bitsavers.org/pdf/ibm/3740/GA21-9152-2_IBM_3740_DataEntrySystem_SystemSummary_and_InstallationManual_PhysicalPlanning_Jun74.pdf"
     ]
   ],
   [
