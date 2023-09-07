@@ -10,6 +10,7 @@
 * [2023-09-07, 17:08:07](https://news.ycombinator.com/item?id=37422106) - [Bun 1.0 announcement [video]](https://www.youtube.com/watch?v=BsnCpESUEqM)
 * [2023-09-07, 17:06:39](https://news.ycombinator.com/item?id=37422088) - [Punjabi Mexican Americans](https://en.wikipedia.org/wiki/Punjabi_Mexican_Americans)
 * [2023-09-07, 17:00:37](https://news.ycombinator.com/item?id=37421993) - [25 Gbit/s at home, part 1](https://boredengineer.medium.com/25-gbit-s-at-home-part-1-98ff1013e32d)
+* [2023-09-07, 16:43:40](https://news.ycombinator.com/item?id=37421730) - [BMW Drops Controversial Heated Seats Subscription, Refocus on Software Services](https://www.forbes.com/sites/alistaircharlton/2023/09/07/bmw-drops-controversial-heated-seats-subscription-to-refocus-on-software-services/)
 * [2023-09-07, 16:35:02](https://news.ycombinator.com/item?id=37421573) - [AtariAge and Atari](https://forums.atariage.com/topic/354609-atariage-atari/)
 * [2023-09-07, 16:32:15](https://news.ycombinator.com/item?id=37421529) - [Mojo: It’s Finally Here](https://www.modular.com/blog/mojo-its-finally-here)
 * [2023-09-07, 16:16:05](https://news.ycombinator.com/item?id=37421241) - [Grindr Loses Almost Half Its Staff on 2-Day RTO Requirement](https://www.bloomberg.com/news/articles/2023-09-07/grindr-loses-nearly-half-its-staff-to-strict-return-to-office-rule)
