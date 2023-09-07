@@ -50,6 +50,7 @@
 * [2023-09-06, 15:57:39](https://news.ycombinator.com/item?id=37406993) - [Personal Project Management for the Burgeoning Homesteader](https://writing.bobdoto.computer/doing-what-matters-most-how-a-task-focused-personal-project-management-system-helps-us-do-the-impossible/)
 * [2023-09-06, 15:46:40](https://news.ycombinator.com/item?id=37406811) - [Connected cars are a “privacy nightmare,” Mozilla Foundation says](https://arstechnica.com/cars/2023/09/connected-cars-are-a-privacy-nightmare-mozilla-foundation-says/)
 * [2023-09-06, 15:41:55](https://news.ycombinator.com/item?id=37406746) - [All Librem 5 smartphones have shipped](https://puri.sm/posts/all-librem-5-smartphones-have-shipped/)
+* [2023-09-06, 15:41:22](https://news.ycombinator.com/item?id=37406742) - [Show HN: iNet – A programming language for interaction nets](https://inet.run)
 * [2023-09-06, 15:39:50](https://news.ycombinator.com/item?id=37406719) - [I can tolerate anything except the outgroup (2014)](https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/)
 * [2023-09-06, 15:38:10](https://news.ycombinator.com/item?id=37406696) - [Neobanking: The Golden Opportunity](https://easilyamused.beehiiv.com/p/neobanks-vs-traditional-banks-different)
 * [2023-09-06, 15:20:04](https://news.ycombinator.com/item?id=37406442) - [From sex life to politics: car driver data grab presents ‘privacy nightmare'](https://www.theguardian.com/business/2023/sep/06/cars-collect-extensive-personal-data-on-drivers-study-warns)
