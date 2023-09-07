@@ -71,6 +71,7 @@
 * [2023-09-05, 13:21:13](https://news.ycombinator.com/item?id=37391272) - [Launch HN: Nullstone (YC W22) – An easier way to deploy and manage cloud apps](https://news.ycombinator.com/item?id=37391272)
 * [2023-09-05, 13:19:32](https://news.ycombinator.com/item?id=37391244) - [The World’s First U2 Spy Plane Photo Shoot at the Edge of Space](https://petapixel.com/2023/09/05/at-70000-feet-in-a-u2-the-making-of-a-photo-shoot-at-the-edge-of-space/)
 * [2023-09-05, 13:13:34](https://news.ycombinator.com/item?id=37391161) - [Learn Physics with Functional Programming](https://nostarch.com/learn-physics-functional-programming)
+* [2023-09-05, 13:06:35](https://news.ycombinator.com/item?id=37391097) - [Spored to Death](https://www.nybooks.com/articles/2023/09/21/spored-to-death-blight-fungi-and-the-coming-pandemic/)
 * [2023-09-05, 12:49:10](https://news.ycombinator.com/item?id=37390941) - [Mastering curl: interactive text guide](https://antonz.org/mastering-curl/)
 * [2023-09-05, 11:45:51](https://news.ycombinator.com/item?id=37390430) - [Come downstairs or we’ll eat your order, delivery workers tell customers](https://restofworld.org/2023/delivery-driver-bikes-stolen-brazil/)
 * [2023-09-05, 11:39:17](https://news.ycombinator.com/item?id=37390378) - [What OpenAI really wants](https://www.wired.com/story/what-openai-really-wants/)
