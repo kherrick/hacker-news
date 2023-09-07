@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-07, 21:27:38](https://news.ycombinator.com/item?id=37425855) - [What it's Really Like to be an Alaskan Truck Driver](https://www.freightwaves.com/news/i-rode-with-an-ice-road-trucker-to-the-arctic-circle-heres-what-it-was-like)
 * [2023-09-07, 20:30:27](https://news.ycombinator.com/item?id=37425130) - [A BERT for laptops, from scratch](https://github.com/samvher/bert-for-laptops/blob/main/BERT_for_laptops.ipynb)
 * [2023-09-07, 20:25:48](https://news.ycombinator.com/item?id=37425059) - [NASA finally admits what everyone already knows: SLS is unaffordable](https://arstechnica.com/space/2023/09/nasa-finally-admits-what-everyone-already-knows-sls-is-unaffordable/)
 * [2023-09-07, 20:21:01](https://news.ycombinator.com/item?id=37425007) - [NSO group iPhone zero-click, zero-day exploit captured in the wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/)
@@ -29,7 +30,6 @@
 * [2023-09-07, 06:40:36](https://news.ycombinator.com/item?id=37415505) - [Cthulhu.jl – show type-inferred Julia code](https://github.com/JuliaDebug/Cthulhu.jl)
 * [2023-09-07, 04:19:59](https://news.ycombinator.com/item?id=37414723) - [Gematria](https://en.wikipedia.org/wiki/Gematria)
 * [2023-09-06, 22:56:52](https://news.ycombinator.com/item?id=37412560) - [The Decomposition of Rotten Tomatoes](https://www.vulture.com/article/rotten-tomatoes-movie-rating.html)
-* [2023-09-05, 19:40:36](https://news.ycombinator.com/item?id=37396726) - [Postmarks – A single-user, fediverse-enabled bookmarking website](https://motd.co/2023/09/postmarks-launch/)
 
 ## [Archives](archives/index.md)
 
