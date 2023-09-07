@@ -62,6 +62,7 @@
 * [2023-09-06, 13:51:54](https://news.ycombinator.com/item?id=37405139) - [Wikipedia is much deeper and nuanced than imagined](https://pallasblog.substack.com/p/wikipedia-isnt-what-you-think-it)
 * [2023-09-06, 13:45:11](https://news.ycombinator.com/item?id=37405049) - [“Waterfall” doesn't mean what you think it means](https://changelog.com/posts/waterfall-doesnt-mean-what-you-think-it-means)
 * [2023-09-06, 13:37:53](https://news.ycombinator.com/item?id=37404936) - [Now it's PostgreSQL's turn to have a bogus CVE](https://opensourcewatch.beehiiv.com/p/now-postgresqls-turn-bogus-cve)
+* [2023-09-06, 13:36:58](https://news.ycombinator.com/item?id=37404918) - [AOL pretends to be the internet](https://thehistoryoftheweb.com/postscript/aol-pretends-to-be-the-internet/)
 * [2023-09-06, 13:35:53](https://news.ycombinator.com/item?id=37404903) - [Falcon 180B](https://falconllm.tii.ae/falcon.html)
 * [2023-09-06, 13:29:13](https://news.ycombinator.com/item?id=37404828) - [Pentagon and CIA Shaped 1000s of Hollywood Films into Super Effective Propaganda](https://worldbeyondwar.org/the-pentagon-and-cia-have-shaped-thousands-of-hollywood-movies-into-super-effective-propaganda/)
 * [2023-09-06, 13:21:17](https://news.ycombinator.com/item?id=37404740) - [Is this duplo train track under too much tension?](https://puzzling.stackexchange.com/questions/122232/is-this-duplo-train-track-under-too-much-tension)
