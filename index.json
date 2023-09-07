@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-07, 22:04:10",
+      "https://news.ycombinator.com/item?id=37426223"
+    ],
+    [
+      "Searx is no longer maintained",
+      "https://github.com/searx/searx/commit/276ffd3f01cdd823f75676c51231fad4040059d3"
+    ]
+  ],
+  [
+    [
       "2023-09-07, 21:27:38",
       "https://news.ycombinator.com/item?id=37425855"
     ],
@@ -17,16 +27,6 @@
     [
       "A BERT for laptops, from scratch",
       "https://github.com/samvher/bert-for-laptops/blob/main/BERT_for_laptops.ipynb"
-    ]
-  ],
-  [
-    [
-      "2023-09-07, 20:25:48",
-      "https://news.ycombinator.com/item?id=37425059"
-    ],
-    [
-      "NASA finally admits what everyone already knows: SLS is unaffordable",
-      "https://arstechnica.com/space/2023/09/nasa-finally-admits-what-everyone-already-knows-sls-is-unaffordable/"
     ]
   ],
   [
@@ -107,6 +107,16 @@
     [
       "AtariAge and Atari",
       "https://forums.atariage.com/topic/354609-atariage-atari/"
+    ]
+  ],
+  [
+    [
+      "2023-09-07, 16:33:43",
+      "https://news.ycombinator.com/item?id=37421554"
+    ],
+    [
+      "Video codecs: Adding AV1 stateless video decoder support to Linux",
+      "https://www.collabora.com/news-and-blog/news-and-events/video-codecs-adding-av1-stateless-video-decoder-support-to-linux.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Decomposition of Rotten Tomatoes",
       "https://www.vulture.com/article/rotten-tomatoes-movie-rating.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-05, 19:40:36",
-      "https://news.ycombinator.com/item?id=37396726"
-    ],
-    [
-      "Postmarks – A single-user, fediverse-enabled bookmarking website",
-      "https://motd.co/2023/09/postmarks-launch/"
     ]
   ]
 ]
