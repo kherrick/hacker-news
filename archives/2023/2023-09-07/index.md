@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
+* [2023-09-07, 18:45:38](https://news.ycombinator.com/item?id=37423684) - [BMW drops plan to charge a monthly fee for heated seats](https://www.theverge.com/2023/9/7/23863258/bmw-cancel-heated-seat-subscription-microtransaction)
+* [2023-09-07, 18:21:38](https://news.ycombinator.com/item?id=37423329) - [More than half of dilapidated English schools were refused rebuilding money](https://www.theguardian.com/education/2023/sep/05/more-than-half-of-dilapidated-english-schools-were-refused-rebuilding-money)
 * [2023-09-07, 17:38:12](https://news.ycombinator.com/item?id=37422624) - [Humanised kidneys grown inside pigs for the first time](https://www.theguardian.com/science/2023/sep/07/humanised-kidneys-grown-inside-pigs-for-the-first-time)
 * [2023-09-07, 17:37:47](https://news.ycombinator.com/item?id=37422615) - [Releasing Persimmon-8B](https://www.adept.ai/blog/persimmon-8b)
 * [2023-09-07, 17:28:39](https://news.ycombinator.com/item?id=37422460) - [Norway rejects Facebook owner Meta's appeal to defer ban](https://www.thelocal.no/20230906/norway-rejects-facebook-owner-metas-appeal-to-defer-ban)
