@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
+* [2023-09-07, 20:21:53](https://news.ycombinator.com/item?id=37425018) - [40 Hours a Week of Intense Work Outside Your Job,You Too Can Make Passive Income](https://www.mcsweeneys.net/articles/for-just-forty-hours-a-week-of-intense-work-outside-your-full-time-job-you-too-can-make-passive-income)
 * [2023-09-07, 20:21:01](https://news.ycombinator.com/item?id=37425007) - [NSO Group iPhone Zero-Click, Zero-Day Exploit Captured in the Wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/)
+* [2023-09-07, 19:54:16](https://news.ycombinator.com/item?id=37424687) - [Proposed US Rule for Portable Generators Will Save Thousands of Lives and $1B/Yr](https://www.cpsc.gov/About-CPSC/Commissioner/Richard-Trumka/Statement/CPSCs-Groundbreaking-Proposed-Rule-for-Portable-Generators-will-Save-Thousands-of-Lives-and-will-Save-1B-a-Year-in-Costs)
 * [2023-09-07, 19:34:41](https://news.ycombinator.com/item?id=37424416) - [London Street Trees](https://apps.london.gov.uk/street-trees/)
 * [2023-09-07, 19:30:35](https://news.ycombinator.com/item?id=37424360) - [Substack Is Leaning into Politics](https://on.substack.com/p/in-the-2024-us-elections-vote-for)
 * [2023-09-07, 19:02:23](https://news.ycombinator.com/item?id=37423959) - [Gabor Melli’s Research Knowledge Base](https://www.gabormelli.com/RKB/HomePage)
 * [2023-09-07, 18:53:08](https://news.ycombinator.com/item?id=37423811) - [Ricochet Robots Solver](https://kevincox.ca/2023/09/02/ricochet-robots-solver/)
+* [2023-09-07, 18:48:56](https://news.ycombinator.com/item?id=37423741) - [Linux becoming a Windows / OS X clone](https://notes.volution.ro/v1/2023/09/remarks/64299f31/)
 * [2023-09-07, 18:45:38](https://news.ycombinator.com/item?id=37423684) - [BMW drops plan to charge a monthly fee for heated seats](https://www.theverge.com/2023/9/7/23863258/bmw-cancel-heated-seat-subscription-microtransaction)
 * [2023-09-07, 18:32:43](https://news.ycombinator.com/item?id=37423506) - [iOS 16.6.1 fixes two vulnerabilities known to be actively exploited in the wild](https://support.apple.com/en-us/HT213905)
 * [2023-09-07, 18:21:38](https://news.ycombinator.com/item?id=37423329) - [More than half of dilapidated English schools were refused rebuilding money](https://www.theguardian.com/education/2023/sep/05/more-than-half-of-dilapidated-english-schools-were-refused-rebuilding-money)
@@ -76,6 +79,7 @@
 * [2023-09-07, 08:41:33](https://news.ycombinator.com/item?id=37416272) - [New LoRa RF distance record: 1336 km / 830 mi](https://www.thethingsnetwork.org/article/new-lora-world-record-1336-km-830-mi)
 * [2023-09-07, 07:36:37](https://news.ycombinator.com/item?id=37415828) - [Nobody's Driving](https://www.okdoomer.io/nobodys-driving/)
 * [2023-09-07, 07:31:24](https://news.ycombinator.com/item?id=37415799) - [When URL parsers disagree (CVE-2023-38633, librsvg)](https://www.canva.dev/blog/engineering/when-url-parsers-disagree-cve-2023-38633/)
+* [2023-09-07, 06:40:36](https://news.ycombinator.com/item?id=37415505) - [Cthulhu.jl – show type-inferred Julia code](https://github.com/JuliaDebug/Cthulhu.jl)
 * [2023-09-07, 06:37:59](https://news.ycombinator.com/item?id=37415485) - [Google faces multibillion-pound lawsuit from UK consumers](https://www.theguardian.com/technology/2023/sep/07/google-faces-multibillion-pound-lawsuit-uk-consumers)
 * [2023-09-07, 06:37:14](https://news.ycombinator.com/item?id=37415478) - [Gaussian Splatting is pretty cool](https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/)
 * [2023-09-07, 05:28:26](https://news.ycombinator.com/item?id=37415067) - [Chicago’s parking meter disaster](https://www.chicagotribune.com/opinion/editorials/ct-editorial-parking-meters-chicago-daley-20230430-fau3wymdevf7vknog5osrge5e4-story.html)
