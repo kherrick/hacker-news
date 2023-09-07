@@ -23,6 +23,7 @@
 * [2023-09-06, 20:05:55](https://news.ycombinator.com/item?id=37410558) - [Constant Time Stateless Shuffling and Grouping](https://www.ea.com/seed/news/constant-time-stateless-shuffling)
 * [2023-09-06, 19:54:20](https://news.ycombinator.com/item?id=37410374) - [Singing synthesis as a new musical instrument](https://ieeexplore.ieee.org/document/6289138)
 * [2023-09-06, 19:25:18](https://news.ycombinator.com/item?id=37409936) - [Britain Admits Defeat in Controversial Fight to Break Encryption](https://www.wired.com/story/britain-admits-defeat-online-safety-bill-encryption/)
+* [2023-09-06, 19:13:53](https://news.ycombinator.com/item?id=37409749) - [Detective McDavitt and the Curious Case of the Clown Wedgefish](https://hakaimagazine.com/features/detective-mcdavitt-and-the-curious-case-of-the-clown-wedgefish/)
 * [2023-09-06, 19:11:50](https://news.ycombinator.com/item?id=37409723) - [Disco Elysium and the need for collective action](https://jacobin.com/2023/09/disco-elysium-intellectual-property-video-game-industry-creative-workers-collective-action)
 * [2023-09-06, 18:59:10](https://news.ycombinator.com/item?id=37409524) - [Exploring EXIF](https://hturan.com/writing/exploring-exif)
 * [2023-09-06, 18:52:07](https://news.ycombinator.com/item?id=37409413) - [Show HN: Alaz: Open-Source, Self-Hosted, eBPF-Based K8s Monitoring](https://github.com/ddosify/alaz)

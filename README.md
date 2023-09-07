@@ -20,6 +20,7 @@
 * [2023-09-06, 23:26:39](https://news.ycombinator.com/item?id=37412772) - [Beetle grows ‘termite’ on back to steal food](https://www.science.org/content/article/beetle-grows-termite-back-steal-food)
 * [2023-09-06, 23:16:05](https://news.ycombinator.com/item?id=37412698) - [jq 1.7](https://github.com/jqlang/jq/releases/tag/jq-1.7)
 * [2023-09-06, 22:19:34](https://news.ycombinator.com/item?id=37412180) - [Characterizing gaming workloads on Zen 4](https://chipsandcheese.com/2023/09/06/hot-chips-2023-characterizing-gaming-workloads-on-zen-4/)
+* [2023-09-06, 19:13:53](https://news.ycombinator.com/item?id=37409749) - [Detective McDavitt and the Curious Case of the Clown Wedgefish](https://hakaimagazine.com/features/detective-mcdavitt-and-the-curious-case-of-the-clown-wedgefish/)
 * [2023-09-06, 18:11:10](https://news.ycombinator.com/item?id=37408822) - [Tamagotchi Connection](https://en.wikipedia.org/wiki/Tamagotchi_Connection)
 * [2023-09-06, 18:07:21](https://news.ycombinator.com/item?id=37408776) - [Results of technical investigations for Storm-0558 key acquisition](https://msrc.microsoft.com/blog/2023/09/results-of-major-technical-investigations-for-storm-0558-key-acquisition/)
 * [2023-09-06, 15:41:22](https://news.ycombinator.com/item?id=37406742) - [Show HN: iNet – A programming language for interaction nets](https://inet.run)
@@ -28,7 +29,6 @@
 * [2023-09-06, 03:18:35](https://news.ycombinator.com/item?id=37400979) - [ZX Origins 8x8 bitmap fonts](https://damieng.com/typography/zx-origins/)
 * [2023-09-05, 15:52:14](https://news.ycombinator.com/item?id=37393452) - [Where did the QWERTY keyboard come from?](https://www.smithsonianmag.com/innovation/origins-qwerty-keyboard-typewriter-180982726/)
 * [2023-09-05, 14:33:17](https://news.ycombinator.com/item?id=37392235) - [Every aspiring writer should read terrible books (2022) [video]](https://www.youtube.com/watch?v=rCOmkrwQdFc)
-* [2023-09-04, 22:39:53](https://news.ycombinator.com/item?id=37385826) - [Rare Otis Pop-Out Elevators (2016) [video]](https://www.youtube.com/watch?v=zGx1doOSMMU)
 * [2023-09-04, 22:14:16](https://news.ycombinator.com/item?id=37385633) - [Paul Buchheit interview (2018)](https://dev.to/triplebyte/gmail-creator-and-yc-partner-paul-buchheit-on-joining-google-how-to-become-a-great-engineer-and-happiness-599o)
 
 ## [Archives](archives/index.md)
