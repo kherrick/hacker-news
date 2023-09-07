@@ -54,6 +54,7 @@
 * [2023-09-05, 15:00:10](https://news.ycombinator.com/item?id=37392576) - [The Cyber Security Glossary](https://tryhackme.com/r/glossary)
 * [2023-09-05, 14:55:43](https://news.ycombinator.com/item?id=37392517) - [Go to Chrome://settings/adPrivacy to turn off the spyware that in Chrome](https://twitter.com/paulg/status/1699021936573940154)
 * [2023-09-05, 14:50:00](https://news.ycombinator.com/item?id=37392435) - [Apple to Launch 'Low-Cost' MacBook Series Next Year to Rival Chromebooks](https://www.macrumors.com/2023/09/05/apple-low-cost-macbook-rival-chromebook/)
+* [2023-09-05, 14:33:17](https://news.ycombinator.com/item?id=37392235) - [Alan Moore: Every aspiring writer should read terrible books (2022) [video]](https://www.youtube.com/watch?v=rCOmkrwQdFc)
 * [2023-09-05, 14:30:18](https://news.ycombinator.com/item?id=37392184) - [“Porting Inferno OS to Raspberry Pi”](https://github.com/yshurik/inferno-rpi)
 * [2023-09-05, 14:26:44](https://news.ycombinator.com/item?id=37392121) - [Revealed: US pro-birth conference’s links to far-right eugenicists](https://www.theguardian.com/us-news/2023/sep/04/natal-conference-austin-texas-eugenics)
 * [2023-09-05, 14:22:20](https://news.ycombinator.com/item?id=37392040) - [Zv/9Problems: A Tiling Window Manager for Plan9](https://github.com/zv/9Problems)
