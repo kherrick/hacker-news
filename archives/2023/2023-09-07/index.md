@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
+* [2023-09-07, 19:30:35](https://news.ycombinator.com/item?id=37424360) - [Substack Is Leaning into Politics](https://on.substack.com/p/in-the-2024-us-elections-vote-for)
+* [2023-09-07, 19:02:23](https://news.ycombinator.com/item?id=37423959) - [Gabor Melli’s Research Knowledge Base](https://www.gabormelli.com/RKB/HomePage)
 * [2023-09-07, 18:45:38](https://news.ycombinator.com/item?id=37423684) - [BMW drops plan to charge a monthly fee for heated seats](https://www.theverge.com/2023/9/7/23863258/bmw-cancel-heated-seat-subscription-microtransaction)
 * [2023-09-07, 18:21:38](https://news.ycombinator.com/item?id=37423329) - [More than half of dilapidated English schools were refused rebuilding money](https://www.theguardian.com/education/2023/sep/05/more-than-half-of-dilapidated-english-schools-were-refused-rebuilding-money)
 * [2023-09-07, 18:05:42](https://news.ycombinator.com/item?id=37423080) - [The fight over California community solar: ‘It’s everyone vs. utilities’](https://www.canarymedia.com/articles/solar/the-fight-over-california-community-solar-everyone-vs-the-utilities)
@@ -11,6 +13,7 @@
 * [2023-09-07, 17:38:12](https://news.ycombinator.com/item?id=37422624) - [Humanised kidneys grown inside pigs for the first time](https://www.theguardian.com/science/2023/sep/07/humanised-kidneys-grown-inside-pigs-for-the-first-time)
 * [2023-09-07, 17:37:47](https://news.ycombinator.com/item?id=37422615) - [Releasing Persimmon-8B](https://www.adept.ai/blog/persimmon-8b)
 * [2023-09-07, 17:28:39](https://news.ycombinator.com/item?id=37422460) - [Norway rejects Facebook owner Meta's appeal to defer ban](https://www.thelocal.no/20230906/norway-rejects-facebook-owner-metas-appeal-to-defer-ban)
+* [2023-09-07, 17:08:35](https://news.ycombinator.com/item?id=37422115) - [Project Mars by Wernher von Braun (1953)](https://archive.org/details/ProjectMars)
 * [2023-09-07, 17:08:07](https://news.ycombinator.com/item?id=37422106) - [Bun 1.0 announcement [video]](https://www.youtube.com/watch?v=BsnCpESUEqM)
 * [2023-09-07, 17:06:39](https://news.ycombinator.com/item?id=37422088) - [Punjabi Mexican Americans](https://en.wikipedia.org/wiki/Punjabi_Mexican_Americans)
 * [2023-09-07, 17:00:37](https://news.ycombinator.com/item?id=37421993) - [25 Gbit/s at home, part 1](https://boredengineer.medium.com/25-gbit-s-at-home-part-1-98ff1013e32d)
