@@ -2,6 +2,7 @@
 
 * [2023-09-07, 16:16:05](https://news.ycombinator.com/item?id=37421241) - [Grindr Loses Almost Half Its Staff on 2-Day RTO Requirement](https://www.bloomberg.com/news/articles/2023-09-07/grindr-loses-nearly-half-its-staff-to-strict-return-to-office-rule)
 * [2023-09-07, 16:10:34](https://news.ycombinator.com/item?id=37421132) - [Wayland Isn't Going to Save the Linux Desktop (2022)](https://dudemanguy.github.io/blog/posts/2022-06-10-wayland-xorg/wayland-xorg.html?r)
+* [2023-09-07, 16:09:27](https://news.ycombinator.com/item?id=37421104) - [Turning a Keyboard into a Mouse with Libevdev](https://suricrasia.online/blog/turning-a-keyboard-into/)
 * [2023-09-07, 16:08:08](https://news.ycombinator.com/item?id=37421083) - [Study finds influence of smaller Jersey numbers on perception](https://www.espn.com/nfl/story/_/id/38343968/study-finds-influence-smaller-jersey-numbers-perception)
 * [2023-09-07, 15:53:23](https://news.ycombinator.com/item?id=37420831) - [Active North Korean campaign targeting security researchers](https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/)
 * [2023-09-07, 15:32:54](https://news.ycombinator.com/item?id=37420458) - [TPM-backed Full Disk Encryption is coming to Ubuntu](https://ubuntu.com/blog/tpm-backed-full-disk-encryption-is-coming-to-ubuntu)
@@ -28,7 +29,6 @@
 * [2023-09-07, 00:47:34](https://news.ycombinator.com/item?id=37413383) - [Astronomers discover new quiescent galaxy](https://phys.org/news/2023-09-astronomers-massive-quiescent-galaxy.html)
 * [2023-09-06, 23:08:55](https://news.ycombinator.com/item?id=37412649) - [Scent of the afterlife? Scientists recreate recipe for Egyptian mummy balm](https://arstechnica.com/science/2023/09/scent-of-the-afterlife-scientists-recreate-recipe-for-egyptian-mummification-balm/)
 * [2023-09-06, 13:36:58](https://news.ycombinator.com/item?id=37404918) - [AOL pretends to be the internet](https://thehistoryoftheweb.com/postscript/aol-pretends-to-be-the-internet/)
-* [2023-09-06, 13:21:17](https://news.ycombinator.com/item?id=37404740) - [Is this Duplo train track under too much tension?](https://puzzling.stackexchange.com/questions/122232/is-this-duplo-train-track-under-too-much-tension)
 * [2023-09-05, 19:40:36](https://news.ycombinator.com/item?id=37396726) - [Postmarks – A single-user bookmarking website](https://motd.co/2023/09/postmarks-launch/)
 
 ## [Archives](archives/index.md)
