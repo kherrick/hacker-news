@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-07, 15:28:45](https://news.ycombinator.com/item?id=37420382) - [Tailscale Has Partnered with Mullvad](https://mullvad.net/en/blog/2023/9/7/tailscale-has-partnered-with-mullvad/)
+* [2023-09-07, 15:09:19](https://news.ycombinator.com/item?id=37420053) - [Mullvad on Tailscale: Privately browse the web](https://tailscale.com/blog/mullvad-integration/)
 * [2023-09-07, 14:50:09](https://news.ycombinator.com/item?id=37419723) - [Mod kept failure of best tank quiet (2007)](https://www.telegraph.co.uk/news/uknews/1551418/MoD-kept-failure-of-best-tank-quiet.html)
 * [2023-09-07, 14:36:13](https://news.ycombinator.com/item?id=37419518) - [Running a 180B parameter LLM on a single Apple M2 Ultra](https://twitter.com/ggerganov/status/1699791226780975439)
 * [2023-09-07, 14:34:41](https://news.ycombinator.com/item?id=37419493) - [Co-founder of DeepMind on how AI threatens to reshape life as we know it](https://www.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it)
@@ -15,7 +16,6 @@
 * [2023-09-07, 11:57:23](https://news.ycombinator.com/item?id=37417646) - [Snake-fury – a challenge for Haskell beginners](https://github.com/lsmor/snake-fury)
 * [2023-09-07, 10:41:56](https://news.ycombinator.com/item?id=37417055) - [Every software project is a startup that will probably fail](https://muldoon.cloud/2023/09/06/software-keeps-failing.html)
 * [2023-09-07, 10:21:44](https://news.ycombinator.com/item?id=37416909) - [UK drops 'spy clause' for scanning encrypted messages, admits not 'feasible'](https://www.theregister.com/2023/09/07/uk_government_clause_online_safety_bill/)
-* [2023-09-07, 09:28:45](https://news.ycombinator.com/item?id=37416568) - [Apple buys 50-year-old record label to grow Apple Music Classical app](https://arstechnica.com/gadgets/2023/09/apple-fuels-classical-music-push-with-record-label-acquisition/)
 * [2023-09-07, 09:06:20](https://news.ycombinator.com/item?id=37416430) - [Exa Is Deprecated](https://github.com/ogham/exa)
 * [2023-09-07, 09:04:18](https://news.ycombinator.com/item?id=37416411) - [Someone keeps trying to reset my Facebook password](https://reddit.com/r/facebook/comments/154goal/someone_keeps_trying_to_reset_my_facebook_password/)
 * [2023-09-07, 07:31:24](https://news.ycombinator.com/item?id=37415799) - [When URL parsers disagree (CVE-2023-38633, librsvg)](https://www.canva.dev/blog/engineering/when-url-parsers-disagree-cve-2023-38633/)
