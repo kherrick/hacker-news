@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
+* [2023-09-07, 14:34:41](https://news.ycombinator.com/item?id=37419493) - [Co-founder of DeepMind on how AI threatens to reshape life as we know it](https://www.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it)
+* [2023-09-07, 14:34:02](https://news.ycombinator.com/item?id=37419484) - [Apple Quietly Made a Big Change to Its Website. It Says a Lot About Its Future](https://www.inc.com/jason-aten/apple-quietly-made-a-big-change-to-its-website-it-says-a-lot-about-its-future.html)
+* [2023-09-07, 14:30:50](https://news.ycombinator.com/item?id=37419427) - [Report: PR Firm Has Been Paying Rotten Tomatoes Critics for Positive Reviews](https://www.screengeek.net/2023/09/06/rotten-tomatoes-pr-firm-paying-critics-positive-reviews/)
 * [2023-09-07, 14:16:54](https://news.ycombinator.com/item?id=37419220) - [Texas just got closer to blackouts than it has since 2021. What happened?](https://www.kut.org/energy-environment/2023-09-07/texas-just-got-closer-to-blackouts-than-it-has-since-2021-what-happened)
 * [2023-09-07, 14:07:18](https://news.ycombinator.com/item?id=37419107) - [Arduino raises $22M Series B round](https://blog.arduino.cc/2023/09/06/what-will-we-do-with-an-additional-22m/)
 * [2023-09-07, 14:01:50](https://news.ycombinator.com/item?id=37419049) - [Ernie, China's ChatGPT, Cracks Under Pressure](https://www.chinatalk.media/p/how-ernie-chinas-chatgpt-cracks-under)
