@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-07, 04:45:19",
+      "https://news.ycombinator.com/item?id=37414855"
+    ],
+    [
+      "Rockstar is selling cracked game copies on Steam",
+      "https://twitter.com/realCrackWatch/status/1699122744384970861"
+    ]
+  ],
+  [
+    [
       "2023-09-07, 04:15:58",
       "https://news.ycombinator.com/item?id=37414699"
     ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2023-09-07, 01:52:22",
-      "https://news.ycombinator.com/item?id=37413767"
-    ],
-    [
-      "AOL Pretends to Be the Internet",
-      "https://thehistoryoftheweb.com/postscript/aol-pretends-to-be-the-internet/"
-    ]
-  ],
-  [
-    [
       "2023-09-07, 01:05:46",
       "https://news.ycombinator.com/item?id=37413498"
     ],
@@ -87,16 +87,6 @@
     [
       "jq 1.7",
       "https://github.com/jqlang/jq/releases/tag/jq-1.7"
-    ]
-  ],
-  [
-    [
-      "2023-09-06, 19:54:20",
-      "https://news.ycombinator.com/item?id=37410374"
-    ],
-    [
-      "Singing synthesis as a new musical instrument (2012)",
-      "https://ieeexplore.ieee.org/document/6289138"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Paul Buchheit on joining Google, how to become a great engineer, and happiness",
       "https://web.archive.org/web/20230105042801/https://triplebyte.com/blog/interview-with-gmail-creator-and-y-combinator-partner-paul-buchheit"
+    ]
+  ],
+  [
+    [
+      "2023-09-04, 16:04:36",
+      "https://news.ycombinator.com/item?id=37381777"
+    ],
+    [
+      "Show HN: uDSV.js – A faster CSV parser",
+      "https://github.com/leeoniya/uDSV"
     ]
   ]
 ]
