@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-09-07, 11:22:41",
-      "https://news.ycombinator.com/item?id=37417355"
+      "2023-09-07, 11:57:23",
+      "https://news.ycombinator.com/item?id=37417646"
     ],
     [
-      "Toyota Shut Down 14 Factories Due to 'Insufficient Disk Space'",
-      "https://www.tomshardware.com/news/toyota-shut-down-14-factories-due-to-insufficient-disk-space"
+      "Snake-fury – a challenge for Haskell beginners",
+      "https://github.com/lsmor/snake-fury"
     ]
   ],
   [
@@ -31,32 +31,12 @@
   ],
   [
     [
-      "2023-09-07, 10:02:15",
-      "https://news.ycombinator.com/item?id=37416768"
-    ],
-    [
-      "A look inside a Sharia Courtroom",
-      "https://www.newyorker.com/culture/the-new-yorker-documentary/swift-justice-looks-inside-a-sharia-courtroom"
-    ]
-  ],
-  [
-    [
       "2023-09-07, 09:28:45",
       "https://news.ycombinator.com/item?id=37416568"
     ],
     [
       "Apple buys 50-year-old record label to grow Apple Music Classical app",
       "https://arstechnica.com/gadgets/2023/09/apple-fuels-classical-music-push-with-record-label-acquisition/"
-    ]
-  ],
-  [
-    [
-      "2023-09-07, 09:08:31",
-      "https://news.ycombinator.com/item?id=37416446"
-    ],
-    [
-      "A philosophical theory where hard determinism and panpsychism are compatible",
-      "https://chat.openai.com/share/42cc3a70-fbbf-4e3a-ba2b-6b801a10ce66"
     ]
   ],
   [
@@ -85,7 +65,7 @@
       "https://news.ycombinator.com/item?id=37416272"
     ],
     [
-      "New LoRa RF distance record: 1336 km / 830 mi",
+      "New LoRa RF distance record",
       "https://www.thethingsnetwork.org/article/new-lora-world-record-1336-km-830-mi"
     ]
   ],
@@ -117,6 +97,16 @@
     [
       "My favorite Erlang program (2013)",
       "https://joearms.github.io/#2013-11-21%20My%20favorite%20Erlang%20Program"
+    ]
+  ],
+  [
+    [
+      "2023-09-07, 01:05:46",
+      "https://news.ycombinator.com/item?id=37413498"
+    ],
+    [
+      "National Film Board of Canada",
+      "https://www.nfb.ca/"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Is this Duplo train track under too much tension?",
       "https://puzzling.stackexchange.com/questions/122232/is-this-duplo-train-track-under-too-much-tension"
+    ]
+  ],
+  [
+    [
+      "2023-09-06, 11:56:35",
+      "https://news.ycombinator.com/item?id=37403799"
+    ],
+    [
+      "Linux network performance parameters",
+      "https://github.com/leandromoreira/linux-network-performance-parameters"
     ]
   ],
   [
