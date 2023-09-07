@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
+* [2023-09-07, 16:16:05](https://news.ycombinator.com/item?id=37421241) - [Grindr Loses Almost Half Its Staff on 2-Day RTO Requirement](https://www.bloomberg.com/news/articles/2023-09-07/grindr-loses-nearly-half-its-staff-to-strict-return-to-office-rule)
 * [2023-09-07, 16:08:08](https://news.ycombinator.com/item?id=37421083) - [Study finds influence of smaller Jersey numbers on perception](https://www.espn.com/nfl/story/_/id/38343968/study-finds-influence-smaller-jersey-numbers-perception)
+* [2023-09-07, 15:53:23](https://news.ycombinator.com/item?id=37420831) - [Active North Korean campaign targeting security researchers](https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/)
 * [2023-09-07, 15:43:44](https://news.ycombinator.com/item?id=37420669) - [YC company copied our product, what can we do?](https://news.ycombinator.com/item?id=37420669)
+* [2023-09-07, 15:32:54](https://news.ycombinator.com/item?id=37420458) - [TPM-backed Full Disk Encryption is coming to Ubuntu](https://ubuntu.com/blog/tpm-backed-full-disk-encryption-is-coming-to-ubuntu)
 * [2023-09-07, 15:28:45](https://news.ycombinator.com/item?id=37420382) - [Tailscale Has Partnered with Mullvad](https://mullvad.net/en/blog/2023/9/7/tailscale-has-partnered-with-mullvad/)
 * [2023-09-07, 15:22:26](https://news.ycombinator.com/item?id=37420281) - [Kagi Small Web](https://blog.kagi.com/small-web)
 * [2023-09-07, 15:09:19](https://news.ycombinator.com/item?id=37420053) - [Mullvad on Tailscale: Privately browse the web](https://tailscale.com/blog/mullvad-integration/)
