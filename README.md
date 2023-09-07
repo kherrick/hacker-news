@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-07, 15:02:08](https://news.ycombinator.com/item?id=37419932) - [PgCompute: New PostgreSQL Client-Side Extension for Database Functions](https://www.yugabyte.com/blog/pgcompute-postgresql-extension-database-functions/)
-* [2023-09-07, 14:58:59](https://news.ycombinator.com/item?id=37419864) - [Are Any Words the Same in All Languages?](https://blog.duolingo.com/words-shared-in-all-languages/)
 * [2023-09-07, 14:50:09](https://news.ycombinator.com/item?id=37419723) - [Mod kept failure of best tank quiet (2007)](https://www.telegraph.co.uk/news/uknews/1551418/MoD-kept-failure-of-best-tank-quiet.html)
 * [2023-09-07, 14:36:13](https://news.ycombinator.com/item?id=37419518) - [Running a 180B parameter LLM on a single Apple M2 Ultra](https://twitter.com/ggerganov/status/1699791226780975439)
 * [2023-09-07, 14:34:41](https://news.ycombinator.com/item?id=37419493) - [Co-founder of DeepMind on how AI threatens to reshape life as we know it](https://www.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it)
@@ -10,7 +9,7 @@
 * [2023-09-07, 14:07:18](https://news.ycombinator.com/item?id=37419107) - [Arduino raises $22M Series B round](https://blog.arduino.cc/2023/09/06/what-will-we-do-with-an-additional-22m/)
 * [2023-09-07, 14:01:50](https://news.ycombinator.com/item?id=37419049) - [Ernie, China's ChatGPT, Cracks Under Pressure](https://www.chinatalk.media/p/how-ernie-chinas-chatgpt-cracks-under)
 * [2023-09-07, 13:20:31](https://news.ycombinator.com/item?id=37418519) - [ASML to Ship First High-NA EUV Tool This Year: $300M per Scanner](https://www.tomshardware.com/news/asml-to-ship-first-high-na-euv-tool-this-year-dollar300-million-per-scanner)
-* [2023-09-07, 13:16:37](https://news.ycombinator.com/item?id=37418461) - [All You Need to Become a Servant Leader](https://effyai.substack.com/p/all-you-need-to-become-a-servant)
+* [2023-09-07, 13:16:37](https://news.ycombinator.com/item?id=37418461) - [Servant leadership](https://effyai.substack.com/p/all-you-need-to-become-a-servant)
 * [2023-09-07, 13:13:15](https://news.ycombinator.com/item?id=37418424) - [Textual Web: TUIs for the Web](https://textual.textualize.io/blog/2023/09/06/what-is-textual-web/)
 * [2023-09-07, 12:04:02](https://news.ycombinator.com/item?id=37417698) - [Stanford DSPy: The framework for programming with foundation models](https://github.com/stanfordnlp/dspy)
 * [2023-09-07, 11:57:23](https://news.ycombinator.com/item?id=37417646) - [Snake-fury – a challenge for Haskell beginners](https://github.com/lsmor/snake-fury)
@@ -26,9 +25,10 @@
 * [2023-09-06, 22:19:34](https://news.ycombinator.com/item?id=37412180) - [Characterizing gaming workloads on Zen 4](https://chipsandcheese.com/2023/09/06/hot-chips-2023-characterizing-gaming-workloads-on-zen-4/)
 * [2023-09-06, 19:13:53](https://news.ycombinator.com/item?id=37409749) - [Detective McDavitt and the Curious Case of the Clown Wedgefish](https://hakaimagazine.com/features/detective-mcdavitt-and-the-curious-case-of-the-clown-wedgefish/)
 * [2023-09-06, 18:11:10](https://news.ycombinator.com/item?id=37408822) - [Tamagotchi Connection](https://en.wikipedia.org/wiki/Tamagotchi_Connection)
+* [2023-09-06, 15:41:22](https://news.ycombinator.com/item?id=37406742) - [Show HN: iNet – A programming language for interaction nets](https://inet.run)
 * [2023-09-06, 13:36:58](https://news.ycombinator.com/item?id=37404918) - [AOL pretends to be the internet](https://thehistoryoftheweb.com/postscript/aol-pretends-to-be-the-internet/)
 * [2023-09-06, 13:21:17](https://news.ycombinator.com/item?id=37404740) - [Is this Duplo train track under too much tension?](https://puzzling.stackexchange.com/questions/122232/is-this-duplo-train-track-under-too-much-tension)
-* [2023-09-05, 19:40:36](https://news.ycombinator.com/item?id=37396726) - [Postmarks – a single-user bookmarking website](https://motd.co/2023/09/postmarks-launch/)
+* [2023-09-05, 19:40:36](https://news.ycombinator.com/item?id=37396726) - [Postmarks – A single-user bookmarking website](https://motd.co/2023/09/postmarks-launch/)
 * [2023-09-04, 22:14:16](https://news.ycombinator.com/item?id=37385633) - [Paul Buchheit interview (2018)](https://dev.to/triplebyte/gmail-creator-and-yc-partner-paul-buchheit-on-joining-google-how-to-become-a-great-engineer-and-happiness-599o)
 
 ## [Archives](archives/index.md)
