@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-07, 07:36:37](https://news.ycombinator.com/item?id=37415828) - [Nobody's Driving](https://www.okdoomer.io/nobodys-driving/)
 * [2023-09-07, 06:37:14](https://news.ycombinator.com/item?id=37415478) - [Gaussian Splatting is pretty cool](https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/)
-* [2023-09-07, 04:38:00](https://news.ycombinator.com/item?id=37414818) - [Anduril Fury: Automomous Stealth Drone](https://www.anduril.com/fury/)
 * [2023-09-07, 04:04:00](https://news.ycombinator.com/item?id=37414624) - [God writes Haskell](https://hookrace.net/blog/god-writes-haskell/)
 * [2023-09-07, 02:25:20](https://news.ycombinator.com/item?id=37413991) - [Unreal Engine 5.3](https://www.unrealengine.com/en-US/blog/unreal-engine-5-3-is-now-available)
 * [2023-09-07, 02:13:42](https://news.ycombinator.com/item?id=37413908) - [My favorite Erlang program (2013)](https://joearms.github.io/#2013-11-21%20My%20favorite%20Erlang%20Program)
