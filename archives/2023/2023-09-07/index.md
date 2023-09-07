@@ -31,6 +31,7 @@
 * [2023-09-07, 15:53:41](https://news.ycombinator.com/item?id=37420836) - [Is LangChain Pointless?](https://www.latent.space/p/langchain#details)
 * [2023-09-07, 15:53:23](https://news.ycombinator.com/item?id=37420831) - [Active North Korean campaign targeting security researchers](https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/)
 * [2023-09-07, 15:52:09](https://news.ycombinator.com/item?id=37420812) - [John McCarthy’s collection of numerical facts for use in elisp programs](http://www-formal.stanford.edu/jmc/facts.txt)
+* [2023-09-07, 15:45:04](https://news.ycombinator.com/item?id=37420690) - [Semver violations are common, better tooling is the answer](https://predr.ag/blog/semver-violations-are-common-better-tooling-is-the-answer/)
 * [2023-09-07, 15:43:44](https://news.ycombinator.com/item?id=37420669) - [YC company copied our product, what can we do?](https://news.ycombinator.com/item?id=37420669)
 * [2023-09-07, 15:32:54](https://news.ycombinator.com/item?id=37420458) - [TPM-backed Full Disk Encryption is coming to Ubuntu](https://ubuntu.com/blog/tpm-backed-full-disk-encryption-is-coming-to-ubuntu)
 * [2023-09-07, 15:28:45](https://news.ycombinator.com/item?id=37420382) - [Tailscale Has Partnered with Mullvad](https://mullvad.net/en/blog/2023/9/7/tailscale-has-partnered-with-mullvad/)
