@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
 * [2023-09-07, 11:57:23](https://news.ycombinator.com/item?id=37417646) - [Snake-fury – a challenge for Haskell beginners](https://github.com/lsmor/snake-fury)
+* [2023-09-07, 11:47:19](https://news.ycombinator.com/item?id=37417555) - [Is Google's looming monopoly trial a watershed moment for Big Tech?](https://theweek.com/google/1026299/google-doj-monopoly-antitrust-trial)
+* [2023-09-07, 11:26:42](https://news.ycombinator.com/item?id=37417397) - [Tell HN: Reminder that your LinkedIn profile is fully visible to site members](https://news.ycombinator.com/item?id=37417397)
 * [2023-09-07, 11:22:41](https://news.ycombinator.com/item?id=37417355) - [Toyota Shut Down 14 Factories Due to 'Insufficient Disk Space'](https://www.tomshardware.com/news/toyota-shut-down-14-factories-due-to-insufficient-disk-space)
 * [2023-09-07, 11:03:27](https://news.ycombinator.com/item?id=37417195) - [Move Over, Software Developers – In Cybersecurity, the Government Wants to Drive](https://www.techdirt.com/2023/09/06/move-over-software-developers-in-the-name-of-cybersecurity-the-government-wants-to-drive/)
 * [2023-09-07, 10:21:44](https://news.ycombinator.com/item?id=37416909) - [UK drops 'spy clause' for scanning encrypted messages, admits not 'feasible'](https://www.theregister.com/2023/09/07/uk_government_clause_online_safety_bill/)
@@ -14,6 +16,7 @@
 * [2023-09-07, 09:08:31](https://news.ycombinator.com/item?id=37416446) - [A philosophical theory where hard determinism and panpsychism are compatible](https://chat.openai.com/share/42cc3a70-fbbf-4e3a-ba2b-6b801a10ce66)
 * [2023-09-07, 09:06:20](https://news.ycombinator.com/item?id=37416430) - [Exa Is Deprecated](https://github.com/ogham/exa)
 * [2023-09-07, 09:04:18](https://news.ycombinator.com/item?id=37416411) - [What kind of password reset scam is going on at Facebook?](https://old.reddit.com/r/facebook/comments/154goal/someone_keeps_trying_to_reset_my_facebook_password/)
+* [2023-09-07, 09:04:18](https://news.ycombinator.com/item?id=37416411) - [Someone keeps trying to reset my Facebook password](https://reddit.com/r/facebook/comments/154goal/someone_keeps_trying_to_reset_my_facebook_password/)
 * [2023-09-07, 08:41:33](https://news.ycombinator.com/item?id=37416272) - [New LoRa RF distance record: 1336 km / 830 mi](https://www.thethingsnetwork.org/article/new-lora-world-record-1336-km-830-mi)
 * [2023-09-07, 07:36:37](https://news.ycombinator.com/item?id=37415828) - [Nobody's Driving](https://www.okdoomer.io/nobodys-driving/)
 * [2023-09-07, 07:31:24](https://news.ycombinator.com/item?id=37415799) - [When URL parsers disagree (CVE-2023-38633, librsvg)](https://www.canva.dev/blog/engineering/when-url-parsers-disagree-cve-2023-38633/)
@@ -33,3 +36,4 @@
 * [2023-09-07, 01:52:22](https://news.ycombinator.com/item?id=37413767) - [AOL Pretends to Be the Internet](https://thehistoryoftheweb.com/postscript/aol-pretends-to-be-the-internet/)
 * [2023-09-07, 01:35:26](https://news.ycombinator.com/item?id=37413681) - [Cal Newport: Overstimulation Is Ruining Your Life](https://mindmatters.ai/2023/09/cal-newport-over-stimulation-is-ruining-your-life/)
 * [2023-09-07, 01:05:46](https://news.ycombinator.com/item?id=37413498) - [National Film Board of Canada](https://www.nfb.ca/)
+* [2023-09-07, 00:47:34](https://news.ycombinator.com/item?id=37413383) - [Astronomers discover new quiescent galaxy](https://phys.org/news/2023-09-astronomers-massive-quiescent-galaxy.html)
