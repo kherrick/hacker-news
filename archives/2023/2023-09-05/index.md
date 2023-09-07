@@ -104,6 +104,7 @@
 * [2023-09-05, 02:56:33](https://news.ycombinator.com/item?id=37387341) - [You have thousands of ancestors from the 1600s](https://kayce.basqu.es/blog/ancestors/)
 * [2023-09-05, 02:14:16](https://news.ycombinator.com/item?id=37387110) - [We Do Not Know the Population of Every Country for the Past 2k Years](https://www.cambridge.org/core/journals/journal-of-economic-history/article/we-do-not-know-the-population-of-every-country-in-the-world-for-the-past-two-thousand-years/D747DDC6E499C799B0471DBE33FEB0BB)
 * [2023-09-05, 02:12:28](https://news.ycombinator.com/item?id=37387100) - [Blacksmithing Is Alive and Well in Kentucky](https://www.nytimes.com/2023/05/19/special-series/blacksmith-craig-kaviar-louisville.html)
+* [2023-09-05, 01:14:29](https://news.ycombinator.com/item?id=37386798) - [epoch.c](https://news.ycombinator.com/item?id=37386798)
 * [2023-09-05, 01:00:31](https://news.ycombinator.com/item?id=37386711) - [Videobug (YC S22, automated snapshot testing) Is Hiring its founding engineer](https://news.ycombinator.com/item?id=37386711)
 * [2023-09-05, 00:52:29](https://news.ycombinator.com/item?id=37386661) - [Farms that create habitat key to food security and biodiversity](https://news.stanford.edu/2023/09/04/farming-food-biodiversity/)
 * [2023-09-05, 00:43:05](https://news.ycombinator.com/item?id=37386612) - [4.6B billion-year-old meteorite increases understanding of early solar system](https://phys.org/news/2023-08-billion-year-old-meteorite-early-solar.html)
