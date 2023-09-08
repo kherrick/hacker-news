@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-08, 13:03:32](https://news.ycombinator.com/item?id=37432948) - [TSMC warns AI chip crunch will last another 18 months](https://www.theregister.com/2023/09/08/tsmc_ai_chip_crunch/)
-* [2023-09-08, 12:25:24](https://news.ycombinator.com/item?id=37432622) - [NASA's Oxygen-Generating Experiment Moxie Completes Mars Mission](https://mars.nasa.gov/news/9474/nasas-oxygen-generating-experiment-moxie-completes-mars-mission/)
 * [2023-09-08, 12:00:41](https://news.ycombinator.com/item?id=37432420) - [PolicyFly (YC W22) Is Hiring a Senior Solutions Engineer (Remote)](https://www.ycombinator.com/companies/policyfly/jobs/32uV7Bg-senior-solutions-engineer)
 * [2023-09-08, 11:57:59](https://news.ycombinator.com/item?id=37432399) - [Price shock: IBM to increase cloud costs by up to 26% in 2024 – CIO](https://www.cio.com/article/651215/price-shock-ibm-to-increase-cloud-costs-by-up-to-26-from-2024.html)
 * [2023-09-08, 10:45:13](https://news.ycombinator.com/item?id=37431962) - [NYPD spent millions to contract with firm banned by Meta for fake profiles](https://www.theguardian.com/us-news/2023/sep/08/new-york-police-tracking-voyager-labs-meta-contract)
 * [2023-09-08, 10:42:46](https://news.ycombinator.com/item?id=37431946) - [Scientific sleuths spot dishonest ChatGPT use in papers](https://www.nature.com/articles/d41586-023-02477-w)
+* [2023-09-08, 10:08:33](https://news.ycombinator.com/item?id=37431710) - [Linux on the Arm-Based ThinkPad X13S: Getting There](https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/)
 * [2023-09-08, 09:56:08](https://news.ycombinator.com/item?id=37431644) - [Touch Pianist](http://touchpianist.com/)
 * [2023-09-08, 09:43:22](https://news.ycombinator.com/item?id=37431560) - [PgBouncer is useful, important, and fraught with peril](https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html)
 * [2023-09-08, 09:29:59](https://news.ycombinator.com/item?id=37431474) - [LibreWolf – custom version of Firefox, focused on privacy, security and freedom](https://librewolf.net/)
