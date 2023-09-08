@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
+* [2023-09-08, 14:16:10](https://news.ycombinator.com/item?id=37433797) - [Labeling Beef ‘Low Carbon’ Could Open Premium Market for Wyoming Ranchers](https://cowboystatedaily.com/2023/09/07/labeling-beef-low-carbon-could-open-premium-market-for-wyoming-ranchers/)
+* [2023-09-08, 14:12:27](https://news.ycombinator.com/item?id=37433743) - [A Study of Malicious Code in PyPI Ecosystem](https://about.honywen.com/publication/2023ase/#)
 * [2023-09-08, 14:07:55](https://news.ycombinator.com/item?id=37433681) - [Flexport is rescinding a bunch of signed offer letters](https://twitter.com/typesfast/status/1700092765798048093)
 * [2023-09-08, 13:54:13](https://news.ycombinator.com/item?id=37433523) - [Emoji Generator with AI](https://emoji.fly.dev)
 * [2023-09-08, 13:52:36](https://news.ycombinator.com/item?id=37433495) - [Apple vs. Meta: The Illusion of Privacy](https://growth.design/case-studies/apple-privacy-policy)
@@ -22,6 +24,7 @@
 * [2023-09-08, 09:43:22](https://news.ycombinator.com/item?id=37431560) - [PgBouncer is useful, important, and fraught with peril](https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html)
 * [2023-09-08, 09:29:59](https://news.ycombinator.com/item?id=37431474) - [LibreWolf – custom version of Firefox, focused on privacy, security and freedom](https://librewolf.net/)
 * [2023-09-08, 08:47:44](https://news.ycombinator.com/item?id=37431159) - [Discovery shines light on Church's protection of Jews during Nazi persecution](https://www.vaticannews.va/en/vatican-city/news/2023-09/douments-pontifical-biblical-commission-nazi-persecution-church.html)
+* [2023-09-08, 07:50:49](https://news.ycombinator.com/item?id=37430759) - [Towards a New SymPy](https://oscarbenjamin.github.io/blog/czi/post1.html)
 * [2023-09-08, 07:27:12](https://news.ycombinator.com/item?id=37430595) - [Napi: Build compiled Node.js add-ons in Rust](https://napi.rs/)
 * [2023-09-08, 07:25:22](https://news.ycombinator.com/item?id=37430579) - [The Servo project is joining Linux Foundation Europe](https://www.igalia.com/2023/09/07/The-Servo-project-is-joining-Linux-Foundation-Europe.html)
 * [2023-09-08, 07:21:22](https://news.ycombinator.com/item?id=37430557) - [Slack AI](https://slack.com/ai?nojsmode=1)
