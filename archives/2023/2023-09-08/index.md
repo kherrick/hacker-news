@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
+* [2023-09-08, 18:49:21](https://news.ycombinator.com/item?id=37437739) - [Why we didn’t get a malaria vaccine sooner](https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner)
+* [2023-09-08, 18:37:24](https://news.ycombinator.com/item?id=37437583) - [God of the Gaps: How the Supernatural Explains What We Can’t](https://behavioralscientist.org/god-of-the-gaps-how-the-supernatural-explains-what-we-cant/)
+* [2023-09-08, 18:29:13](https://news.ycombinator.com/item?id=37437467) - [Weight-loss drugs seem like another bit of sci-fi becoming fact](https://fasterplease.substack.com/p/weight-loss-drugs-seem-like-another)
+* [2023-09-08, 18:19:19](https://news.ycombinator.com/item?id=37437311) - [FTC judge decides Intuit’s ‘free’ TurboTax ads did mislead consumers](https://www.theverge.com/2023/9/8/23864538/turbotax-intuit-ftc-deceptive-practices-free-tax-filing)
 * [2023-09-08, 17:58:46](https://news.ycombinator.com/item?id=37437066) - [AI girlfriend ads are flooding Instagram and TikTok](https://www.nbcnews.com/tech/social-media/ai-girlfriend-ads-instagram-tiktok-chat-pics-chatgpt-dose-rcna97547)
 * [2023-09-08, 17:20:14](https://news.ycombinator.com/item?id=37436498) - [Llama 2 on togetherAI is as bad of a privacy nightmare as OpenAI](https://together.ai/privacy)
 * [2023-09-08, 17:05:58](https://news.ycombinator.com/item?id=37436298) - [ChatGPT is losing some of its hype, traffic falls for the third month in a row](https://www.businessinsider.com/chatgpt-losing-hype-traffic-down-three-months-in-a-row-2023-9)
