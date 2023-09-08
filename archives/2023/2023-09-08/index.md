@@ -14,6 +14,7 @@
 * [2023-09-08, 14:12:27](https://news.ycombinator.com/item?id=37433743) - [A Study of Malicious Code in PyPI Ecosystem](https://about.honywen.com/publication/2023ase/#)
 * [2023-09-08, 14:07:55](https://news.ycombinator.com/item?id=37433681) - [Flexport is rescinding a bunch of signed offer letters](https://twitter.com/typesfast/status/1700092765798048093)
 * [2023-09-08, 13:54:13](https://news.ycombinator.com/item?id=37433523) - [Emoji Generator with AI](https://emoji.fly.dev)
+* [2023-09-08, 13:53:51](https://news.ycombinator.com/item?id=37433515) - [How to build your own living structures (1974, 2011)](https://www.we-find-wildness.com/2011/08/ken-isaacs-how-to-build-your-own-living-structures/)
 * [2023-09-08, 13:52:36](https://news.ycombinator.com/item?id=37433495) - [Apple vs. Meta: The Illusion of Privacy](https://growth.design/case-studies/apple-privacy-policy)
 * [2023-09-08, 13:42:42](https://news.ycombinator.com/item?id=37433380) - [H2Fly – Breaking the Hydrogen Barrier](https://www.h2fly.de/)
 * [2023-09-08, 13:36:06](https://news.ycombinator.com/item?id=37433307) - [China Offers Lesson in How to Cut Plastic Waste from Food Delivery](https://www.wsj.com/world/china/china-offers-lesson-in-how-to-cut-plastic-waste-from-food-delivery-f8a64cc4)
