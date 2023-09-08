@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
+* [2023-09-08, 15:32:57](https://news.ycombinator.com/item?id=37434918) - [Procreate Dreams](https://procreate.com/dreams)
+* [2023-09-08, 15:17:57](https://news.ycombinator.com/item?id=37434668) - [Scientists Discover Practical Use for Leftover Coffee Grounds](https://www.sciencealert.com/scientists-discover-amazing-practical-use-for-leftover-coffee-grounds)
 * [2023-09-08, 15:01:17](https://news.ycombinator.com/item?id=37434401) - [11,196 Years Jail Sentence for Faruk Özer, CEO of Turkish Crypto Exchange Thodex](https://www.coindesk.com/policy/2023/09/08/11196-years-in-prison-for-faruk-ozer-ceo-of-collapsed-turkish-crypto-exchange-thodex/)
 * [2023-09-08, 14:59:13](https://news.ycombinator.com/item?id=37434381) - [Bees struggle to find flowers because of air pollution](https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution)
 * [2023-09-08, 14:54:41](https://news.ycombinator.com/item?id=37434295) - [Did you know Git was originally created in 10 days?](https://community.appsmith.com/content/blog/evolution-git-dive-tech-history)

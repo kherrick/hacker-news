@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-08, 15:32:57](https://news.ycombinator.com/item?id=37434918) - [Procreate Dreams](https://procreate.com/dreams)
+* [2023-09-08, 15:17:57](https://news.ycombinator.com/item?id=37434668) - [Scientists Discover Practical Use for Leftover Coffee Grounds](https://www.sciencealert.com/scientists-discover-amazing-practical-use-for-leftover-coffee-grounds)
 * [2023-09-08, 15:01:17](https://news.ycombinator.com/item?id=37434401) - [11,196 Years Jail Sentence for Faruk Özer, CEO of Turkish Crypto Exchange Thodex](https://www.coindesk.com/policy/2023/09/08/11196-years-in-prison-for-faruk-ozer-ceo-of-collapsed-turkish-crypto-exchange-thodex/)
 * [2023-09-08, 14:59:13](https://news.ycombinator.com/item?id=37434381) - [Bees struggle to find flowers because of air pollution](https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution)
-* [2023-09-08, 14:54:41](https://news.ycombinator.com/item?id=37434295) - [Did you know Git was originally created in 10 days?](https://community.appsmith.com/content/blog/evolution-git-dive-tech-history)
 * [2023-09-08, 14:54:37](https://news.ycombinator.com/item?id=37434293) - [Dating app Grindr loses nearly half its staff after trying to force RTO](https://www.cnn.com/2023/09/08/business/grindr-return-to-office-union/index.html)
 * [2023-09-08, 14:41:03](https://news.ycombinator.com/item?id=37434117) - [Bun v1.0.0](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0)
 * [2023-09-08, 14:37:30](https://news.ycombinator.com/item?id=37434069) - [Large Language Models as Optimizers. +50% on Big Bench Hard](https://arxiv.org/abs/2309.03409)
@@ -12,7 +13,6 @@
 * [2023-09-08, 13:53:51](https://news.ycombinator.com/item?id=37433515) - [How to build your own living structures (1974, 2011)](https://www.we-find-wildness.com/2011/08/ken-isaacs-how-to-build-your-own-living-structures/)
 * [2023-09-08, 13:52:36](https://news.ycombinator.com/item?id=37433495) - [Apple vs. Meta: The Illusion of Privacy](https://growth.design/case-studies/apple-privacy-policy)
 * [2023-09-08, 13:42:42](https://news.ycombinator.com/item?id=37433380) - [H2Fly – Breaking the Hydrogen Barrier](https://www.h2fly.de/)
-* [2023-09-08, 13:36:06](https://news.ycombinator.com/item?id=37433307) - [China Offers Lesson in How to Cut Plastic Waste from Food Delivery](https://www.wsj.com/world/china/china-offers-lesson-in-how-to-cut-plastic-waste-from-food-delivery-f8a64cc4)
 * [2023-09-08, 13:29:05](https://news.ycombinator.com/item?id=37433218) - [Show HN: Rivet – open-source AI Agent dev env with real-world applications](https://rivet.ironcladapp.com/)
 * [2023-09-08, 13:26:45](https://news.ycombinator.com/item?id=37433186) - [Aardvark'd: The Fog Creek Documentary, 18 Years Later](https://mtlynch.io/aardvarkd/)
 * [2023-09-08, 13:13:07](https://news.ycombinator.com/item?id=37433036) - [FCC Proposes Voluntary Security Labels for IoT Most Companies Will Likely Ignore](https://www.techdirt.com/2023/09/08/fcc-proposes-voluntary-security-labels-for-internet-of-things-devices-most-companies-will-probably-ignore/)
