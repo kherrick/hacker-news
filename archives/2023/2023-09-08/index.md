@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
+* [2023-09-08, 12:00:41](https://news.ycombinator.com/item?id=37432420) - [PolicyFly (YC W22) Is Hiring a Senior Solutions Engineer (Remote)](https://www.ycombinator.com/companies/policyfly/jobs/32uV7Bg-senior-solutions-engineer)
 * [2023-09-08, 10:45:13](https://news.ycombinator.com/item?id=37431962) - [NYPD spent millions to contract with firm banned by Meta for fake profiles](https://www.theguardian.com/us-news/2023/sep/08/new-york-police-tracking-voyager-labs-meta-contract)
 * [2023-09-08, 10:08:33](https://news.ycombinator.com/item?id=37431710) - [Linux on the Arm-Based ThinkPad X13S: Getting There](https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/)
 * [2023-09-08, 09:56:08](https://news.ycombinator.com/item?id=37431644) - [Touch Pianist](http://touchpianist.com/)
+* [2023-09-08, 09:29:59](https://news.ycombinator.com/item?id=37431474) - [LibreWolf – custom version of Firefox, focused on privacy, security and freedom](https://librewolf.net/)
 * [2023-09-08, 08:47:44](https://news.ycombinator.com/item?id=37431159) - [Discovery shines light on Church's protection of Jews during Nazi persecution](https://www.vaticannews.va/en/vatican-city/news/2023-09/douments-pontifical-biblical-commission-nazi-persecution-church.html)
 * [2023-09-08, 07:27:12](https://news.ycombinator.com/item?id=37430595) - [Napi: Build compiled Node.js add-ons in Rust](https://napi.rs/)
 * [2023-09-08, 07:25:22](https://news.ycombinator.com/item?id=37430579) - [The Servo project is joining Linux Foundation Europe](https://www.igalia.com/2023/09/07/The-Servo-project-is-joining-Linux-Foundation-Europe.html)
