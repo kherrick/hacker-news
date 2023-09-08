@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-09-08, 17:58:46",
-      "https://news.ycombinator.com/item?id=37437066"
-    ],
-    [
-      "AI girlfriend ads are flooding Instagram and TikTok",
-      "https://www.nbcnews.com/tech/social-media/ai-girlfriend-ads-instagram-tiktok-chat-pics-chatgpt-dose-rcna97547"
-    ]
-  ],
-  [
-    [
       "2023-09-08, 17:20:14",
       "https://news.ycombinator.com/item?id=37436498"
     ],
@@ -85,7 +75,7 @@
       "https://news.ycombinator.com/item?id=37435656"
     ],
     [
-      "SpaceX can't launch its giant rocket again until fixes are made, FAA says",
+      "FAA closes SpaceX Starship mishap investigation",
       "https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d"
     ]
   ],
@@ -237,6 +227,16 @@
     [
       "ASMesh: Anonymous, Secure Messaging in Mesh Networks",
       "https://eprint.iacr.org/2023/1053"
+    ]
+  ],
+  [
+    [
+      "2023-09-08, 09:23:27",
+      "https://news.ycombinator.com/item?id=37431425"
+    ],
+    [
+      "Just how constexpr is C++20’s std:string?",
+      "https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/"
     ]
   ],
   [
