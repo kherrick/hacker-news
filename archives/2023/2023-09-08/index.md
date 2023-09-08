@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
 * [2023-09-08, 12:00:41](https://news.ycombinator.com/item?id=37432420) - [PolicyFly (YC W22) Is Hiring a Senior Solutions Engineer (Remote)](https://www.ycombinator.com/companies/policyfly/jobs/32uV7Bg-senior-solutions-engineer)
+* [2023-09-08, 11:57:59](https://news.ycombinator.com/item?id=37432399) - [Price shock: IBM to increase cloud costs by up to 26% in 2024 – CIO](https://www.cio.com/article/651215/price-shock-ibm-to-increase-cloud-costs-by-up-to-26-from-2024.html)
 * [2023-09-08, 11:39:07](https://news.ycombinator.com/item?id=37432247) - [Flexport Rescinding Job Offers](https://twitter.com/typesfast/status/1700092765798048093?s=46&t=8Tb0Q2Q5idtWP7ImXKJ0rw)
 * [2023-09-08, 10:45:13](https://news.ycombinator.com/item?id=37431962) - [NYPD spent millions to contract with firm banned by Meta for fake profiles](https://www.theguardian.com/us-news/2023/sep/08/new-york-police-tracking-voyager-labs-meta-contract)
 * [2023-09-08, 10:42:46](https://news.ycombinator.com/item?id=37431946) - [Scientific sleuths spot dishonest ChatGPT use in papers](https://www.nature.com/articles/d41586-023-02477-w)
