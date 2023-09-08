@@ -4,6 +4,7 @@
 * [2023-09-08, 05:59:40](https://news.ycombinator.com/item?id=37429938) - [Lean 4.0](https://github.com/leanprover/lean4/releases/tag/v4.0.0)
 * [2023-09-08, 05:57:27](https://news.ycombinator.com/item?id=37429922) - [Unpacking Elixir: Syntax](https://underjord.io/unpacking-elixir-syntax.html)
 * [2023-09-08, 02:28:36](https://news.ycombinator.com/item?id=37428505) - [Federated benchmarking of medical artificial intelligence with MedPerf](https://www.nature.com/articles/s42256-023-00652-2)
+* [2023-09-08, 02:16:48](https://news.ycombinator.com/item?id=37428447) - [Why isn't chess popular in Japan?](https://lichess.org/@/datajunkie/blog/27-why-isnt-chess-popular-in-japan/UoEDbXUU)
 * [2023-09-08, 00:53:34](https://news.ycombinator.com/item?id=37427854) - [We built an AI-powered Magic the Gathering card generator](https://txt.cohere.com/urzas-ai/)
 * [2023-09-07, 23:46:12](https://news.ycombinator.com/item?id=37427279) - [What's new in Emacs 29.1](https://www.masteringemacs.org/article/whats-new-in-emacs-29-1)
 * [2023-09-07, 23:41:24](https://news.ycombinator.com/item?id=37427227) - [Chrome now tracks users and shares a “topic” list with advertisers](https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/)
@@ -29,7 +30,6 @@
 * [2023-09-07, 06:40:36](https://news.ycombinator.com/item?id=37415505) - [Cthulhu.jl – show type-inferred Julia code](https://github.com/JuliaDebug/Cthulhu.jl)
 * [2023-09-07, 06:38:55](https://news.ycombinator.com/item?id=37415494) - [How Query Engines Work](https://howqueryengineswork.com/)
 * [2023-09-07, 06:17:13](https://news.ycombinator.com/item?id=37415356) - [Deciphering Mary Stuart’s lost letters from 1578-1584](https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2160677)
-* [2023-09-06, 22:56:52](https://news.ycombinator.com/item?id=37412560) - [The Decomposition of Rotten Tomatoes](https://www.vulture.com/article/rotten-tomatoes-movie-rating.html)
 
 ## [Archives](archives/index.md)
 
