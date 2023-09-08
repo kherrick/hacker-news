@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-08, 07:25:22](https://news.ycombinator.com/item?id=37430579) - [The Servo project is joining Linux Foundation Europe](https://www.igalia.com/2023/09/07/The-Servo-project-is-joining-Linux-Foundation-Europe.html)
+* [2023-09-08, 07:21:22](https://news.ycombinator.com/item?id=37430557) - [Slack AI](https://slack.com/ai?nojsmode=1)
 * [2023-09-08, 07:11:50](https://news.ycombinator.com/item?id=37430491) - [Do you struggle to find ethical work?](https://news.ycombinator.com/item?id=37430491)
 * [2023-09-08, 06:51:55](https://news.ycombinator.com/item?id=37430345) - [Keith Haring’s Never-Before-Seen Computer Drawings Are Hitting the Block](https://news.artnet.com/market/keith-haring-amiga-drawings-nfts-christies-2355175)
 * [2023-09-08, 05:59:40](https://news.ycombinator.com/item?id=37429938) - [Lean 4.0](https://github.com/leanprover/lean4/releases/tag/v4.0.0)
@@ -26,7 +27,6 @@
 * [2023-09-07, 10:38:07](https://news.ycombinator.com/item?id=37417027) - [Animations From First Principles (in 5 minutes)](https://mathspp.com/blog/animations-from-first-principles-in-5-minutes)
 * [2023-09-07, 10:33:33](https://news.ycombinator.com/item?id=37416999) - [My speed cubing page](http://www.ws.binghamton.edu/fridrich/cube.html)
 * [2023-09-07, 07:34:09](https://news.ycombinator.com/item?id=37415812) - [My Node.js is a bit Rusty](https://gal.hagever.com/posts/my-node-js-is-a-bit-rusty)
-* [2023-09-07, 07:12:50](https://news.ycombinator.com/item?id=37415677) - [A successful Git branching model (2010)](https://nvie.com/posts/a-successful-git-branching-model/)
 * [2023-09-07, 06:40:36](https://news.ycombinator.com/item?id=37415505) - [Cthulhu.jl – show type-inferred Julia code](https://github.com/JuliaDebug/Cthulhu.jl)
 * [2023-09-07, 06:38:55](https://news.ycombinator.com/item?id=37415494) - [How Query Engines Work](https://howqueryengineswork.com/)
 * [2023-09-07, 06:17:13](https://news.ycombinator.com/item?id=37415356) - [Deciphering Mary Stuart’s lost letters from 1578-1584](https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2160677)
