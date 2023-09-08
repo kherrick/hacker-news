@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
+* [2023-09-08, 21:17:24](https://news.ycombinator.com/item?id=37439553) - [The Absence of Data Privacy Law Is a National Security Threat](https://nationalinterest.org/blog/techland/absence-data-privacy-law-national-security-threat-206773)
 * [2023-09-08, 20:41:20](https://news.ycombinator.com/item?id=37439125) - [Using LD_PRELOAD to cheat, inject features and investigate programs](https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/)
+* [2023-09-08, 20:23:45](https://news.ycombinator.com/item?id=37438934) - [Consumers defrauded on Zelle are left high and dry by the banks that created it [pdf]](https://www.warren.senate.gov/imo/media/doc/ZELLE%20REPORT%20OCTOBER%202022.pdf)
 * [2023-09-08, 20:16:58](https://news.ycombinator.com/item?id=37438842) - [How to Learn Emacs (2012)](https://david.rothlis.net/emacs/howtolearn.html)
 * [2023-09-08, 19:48:36](https://news.ycombinator.com/item?id=37438514) - [Apple endorses bill that forces companies to disclose their carbon footprint](https://twitter.com/Scott_Wiener/status/1699891993105833985)
 * [2023-09-08, 19:45:08](https://news.ycombinator.com/item?id=37438478) - [Scammers Can Exploit Email Forwarding Flaws to Impersonate High-Profile Domains](https://today.ucsd.edu/story/forwarding_based_spoofing)
@@ -77,6 +79,7 @@
 * [2023-09-08, 06:51:55](https://news.ycombinator.com/item?id=37430345) - [Keith Haring’s Never-Before-Seen Computer Drawings Are Hitting the Block](https://news.artnet.com/market/keith-haring-amiga-drawings-nfts-christies-2355175)
 * [2023-09-08, 05:59:40](https://news.ycombinator.com/item?id=37429938) - [Lean 4.0](https://github.com/leanprover/lean4/releases/tag/v4.0.0)
 * [2023-09-08, 05:57:27](https://news.ycombinator.com/item?id=37429922) - [Unpacking Elixir: Syntax](https://underjord.io/unpacking-elixir-syntax.html)
+* [2023-09-08, 05:16:57](https://news.ycombinator.com/item?id=37429645) - [Artic Code Vault](https://archiveprogram.github.com/arctic-vault/)
 * [2023-09-08, 04:48:17](https://news.ycombinator.com/item?id=37429451) - [Harvard is named worst school for free speech](https://nypost.com/2023/09/06/harvard-is-named-worst-school-for-free-speech-scoring-zero-out-of-possible-100/)
 * [2023-09-08, 04:30:19](https://news.ycombinator.com/item?id=37429336) - [BMW Is Giving Up on Heated Seat Subscriptions Because People Hated Them](https://www.thedrive.com/news/bmw-is-giving-up-on-heated-seat-subscriptions-because-people-hated-them)
 * [2023-09-08, 03:42:30](https://news.ycombinator.com/item?id=37428975) - [The International Criminal Court Will Now Prosecute Cyberwar Crimes](https://www.wired.com/story/icc-cyberwar-crimes/)
