@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
+* [2023-09-08, 17:01:02](https://news.ycombinator.com/item?id=37436236) - [Artie (YC S23) is hiring a founding engineer](https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer)
 * [2023-09-08, 16:19:12](https://news.ycombinator.com/item?id=37435656) - [SpaceX can't launch its giant rocket again until fixes are made, FAA says](https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d)
 * [2023-09-08, 16:10:55](https://news.ycombinator.com/item?id=37435515) - [Async Rust Is A Bad Language](https://bitbashing.io/async-rust.html)
 * [2023-09-08, 16:06:37](https://news.ycombinator.com/item?id=37435454) - [Microsoft’s Remarkably Big Bet on Carbon-Absorbing Rocks](https://heatmap.news/economy/heirloom-carbon-microsoft-removal)
 * [2023-09-08, 15:49:56](https://news.ycombinator.com/item?id=37435215) - [Move over lithium-ion: Zinc-air batteries a cheaper and safer alternative](https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative)
+* [2023-09-08, 15:42:15](https://news.ycombinator.com/item?id=37435089) - [Housewives Are One Surprising Solution to “Millennial Burnout”](https://www.pamelajhobart.com/housewives-are-one-surprising-solution-to-millennial-burnout/)
 * [2023-09-08, 15:32:57](https://news.ycombinator.com/item?id=37434918) - [Procreate Dreams](https://procreate.com/dreams)
 * [2023-09-08, 15:17:57](https://news.ycombinator.com/item?id=37434668) - [Scientists Discover Practical Use for Leftover Coffee Grounds](https://www.sciencealert.com/scientists-discover-amazing-practical-use-for-leftover-coffee-grounds)
 * [2023-09-08, 15:01:17](https://news.ycombinator.com/item?id=37434401) - [11,196 Years Jail Sentence for Faruk Özer, CEO of Turkish Crypto Exchange Thodex](https://www.coindesk.com/policy/2023/09/08/11196-years-in-prison-for-faruk-ozer-ceo-of-collapsed-turkish-crypto-exchange-thodex/)
