@@ -43,6 +43,7 @@
 * [2023-09-08, 13:36:06](https://news.ycombinator.com/item?id=37433307) - [China Offers Lesson in How to Cut Plastic Waste from Food Delivery](https://www.wsj.com/world/china/china-offers-lesson-in-how-to-cut-plastic-waste-from-food-delivery-f8a64cc4)
 * [2023-09-08, 13:29:05](https://news.ycombinator.com/item?id=37433218) - [Show HN: Rivet – open-source AI Agent dev env with real-world applications](https://rivet.ironcladapp.com/)
 * [2023-09-08, 13:26:45](https://news.ycombinator.com/item?id=37433186) - [Aardvark'd: The Fog Creek Documentary, 18 Years Later](https://mtlynch.io/aardvarkd/)
+* [2023-09-08, 13:18:41](https://news.ycombinator.com/item?id=37433104) - [Why walking helps us think](https://www.newyorker.com/tech/annals-of-technology/walking-helps-us-think)
 * [2023-09-08, 13:13:07](https://news.ycombinator.com/item?id=37433036) - [FCC Proposes Voluntary Security Labels for IoT Most Companies Will Likely Ignore](https://www.techdirt.com/2023/09/08/fcc-proposes-voluntary-security-labels-for-internet-of-things-devices-most-companies-will-probably-ignore/)
 * [2023-09-08, 13:03:32](https://news.ycombinator.com/item?id=37432948) - [TSMC warns AI chip crunch will last another 18 months](https://www.theregister.com/2023/09/08/tsmc_ai_chip_crunch/)
 * [2023-09-08, 12:58:04](https://news.ycombinator.com/item?id=37432896) - [Show HN: Vanna AI – Open-Sourced Text-to-SQL in Python](https://vanna.ai/blog/vanna-open-source.html)
