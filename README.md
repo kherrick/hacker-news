@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-08, 01:18:00](https://news.ycombinator.com/item?id=37428064) - [Outage at Square prevents small businesses from accepting credit cards](https://www.sfchronicle.com/bayarea/article/outage-square-prevents-small-businesses-accepting-18353810.php)
 * [2023-09-08, 00:30:11](https://news.ycombinator.com/item?id=37427679) - [California moves to decriminalize use of magic mushrooms, other psychedelics](https://www.latimes.com/california/story/2023-09-07/california-magic-mushrooms-psychedelics-scott-wiener-psilocybin)
 * [2023-09-07, 23:46:12](https://news.ycombinator.com/item?id=37427279) - [What's new in Emacs 29.1](https://www.masteringemacs.org/article/whats-new-in-emacs-29-1)
 * [2023-09-07, 23:41:24](https://news.ycombinator.com/item?id=37427227) - [Google gets its way, bakes a user-tracking ad platform directly into Chrome](https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/)
@@ -11,7 +12,6 @@
 * [2023-09-07, 20:21:01](https://news.ycombinator.com/item?id=37425007) - [NSO group iPhone zero-click, zero-day exploit captured in the wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/)
 * [2023-09-07, 19:34:41](https://news.ycombinator.com/item?id=37424416) - [London Street Trees](https://apps.london.gov.uk/street-trees/)
 * [2023-09-07, 18:58:15](https://news.ycombinator.com/item?id=37423893) - [NaNofuzz: A Usable Tool for Automatic Test Generation [pdf]](https://cmumatt.github.io/assets/NaNofuzz_2023.pdf)
-* [2023-09-07, 18:53:08](https://news.ycombinator.com/item?id=37423811) - [Ricochet Robots Solver](https://kevincox.ca/2023/09/02/ricochet-robots-solver/)
 * [2023-09-07, 17:37:47](https://news.ycombinator.com/item?id=37422615) - [Persimmon-8B](https://www.adept.ai/blog/persimmon-8b)
 * [2023-09-07, 16:33:43](https://news.ycombinator.com/item?id=37421554) - [Video codecs: Adding AV1 stateless video decoder support to Linux](https://www.collabora.com/news-and-blog/news-and-events/video-codecs-adding-av1-stateless-video-decoder-support-to-linux.html)
 * [2023-09-07, 16:32:15](https://news.ycombinator.com/item?id=37421529) - [Mojo is available for local download](https://www.modular.com/blog/mojo-its-finally-here)
