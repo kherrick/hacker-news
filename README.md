@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-08, 22:26:51](https://news.ycombinator.com/item?id=37440104) - [Defcon talk shows cops are trackable, like AirTags](https://blog.dataparty.xyz/blog/snoop-unto-them/)
 * [2023-09-08, 21:53:57](https://news.ycombinator.com/item?id=37439860) - [McDonald's to retire self-service soda fountains by 2032](https://www.sj-r.com/story/entertainment/dining/2023/09/08/mcdonalds-ending-self-service-soda-fountain-drink-stations/70785168007/)
 * [2023-09-08, 21:17:24](https://news.ycombinator.com/item?id=37439553) - [The Absence of Data Privacy Law Is a National Security Threat](https://nationalinterest.org/blog/techland/absence-data-privacy-law-national-security-threat-206773)
 * [2023-09-08, 21:15:52](https://news.ycombinator.com/item?id=37439535) - [Decoded: GNU Coreutils](https://maizure.org/projects/decoded-gnu-coreutils/)
@@ -10,7 +11,6 @@
 * [2023-09-08, 20:16:58](https://news.ycombinator.com/item?id=37438842) - [How to Learn Emacs (2012)](https://david.rothlis.net/emacs/howtolearn.html)
 * [2023-09-08, 19:45:08](https://news.ycombinator.com/item?id=37438478) - [Scammers can exploit email forwarding flaws to impersonate high-profile domains](https://today.ucsd.edu/story/forwarding_based_spoofing)
 * [2023-09-08, 19:11:47](https://news.ycombinator.com/item?id=37438028) - [Show HN: Conway's Game of Life in TypeScript's type system](https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts)
-* [2023-09-08, 18:49:21](https://news.ycombinator.com/item?id=37437739) - [Why we didn’t get a malaria vaccine sooner](https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner)
 * [2023-09-08, 17:01:02](https://news.ycombinator.com/item?id=37436236) - [Artie (YC S23) is hiring a founding engineer](https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer)
 * [2023-09-08, 16:49:59](https://news.ycombinator.com/item?id=37436092) - [Cerabyte: ceramic storage poised to usher in 'yottabyte era'](https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era)
 * [2023-09-08, 16:10:55](https://news.ycombinator.com/item?id=37435515) - [Maybe Rust isn’t a good tool for massively concurrent, userspace software](https://bitbashing.io/async-rust.html)
