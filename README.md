@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-08, 22:26:51](https://news.ycombinator.com/item?id=37440104) - [Snoop unto them as they snoop unto you](https://blog.dataparty.xyz/blog/snoop-unto-them/)
+* [2023-09-08, 22:08:38](https://news.ycombinator.com/item?id=37439969) - [Differentiation is the only way to win in SaaS](https://ideahub.beehiiv.com/p/how-to-differentiate-your-saas-product)
 * [2023-09-08, 21:15:52](https://news.ycombinator.com/item?id=37439535) - [Decoded: GNU Coreutils (2018)](https://maizure.org/projects/decoded-gnu-coreutils/)
 * [2023-09-08, 21:03:19](https://news.ycombinator.com/item?id=37439391) - [The rxv64 Operating System: MIT's xv6, in Rust, for SMP x86_64 machines](https://github.com/dancrossnyc/rxv64)
 * [2023-09-08, 20:41:20](https://news.ycombinator.com/item?id=37439125) - [Using LD_PRELOAD to cheat, inject features and investigate programs](https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/)
@@ -16,7 +17,6 @@
 * [2023-09-08, 14:07:55](https://news.ycombinator.com/item?id=37433681) - [Flexport is rescinding a bunch of signed offer letters](https://twitter.com/typesfast/status/1700092765798048093)
 * [2023-09-08, 13:54:13](https://news.ycombinator.com/item?id=37433523) - [Emoji Generator with AI](https://emoji.fly.dev)
 * [2023-09-08, 13:42:42](https://news.ycombinator.com/item?id=37433380) - [H2Fly – Breaking the Hydrogen Barrier](https://www.h2fly.de/)
-* [2023-09-08, 13:29:05](https://news.ycombinator.com/item?id=37433218) - [Show HN: Rivet – open-source AI Agent dev env with real-world applications](https://rivet.ironcladapp.com/)
 * [2023-09-08, 13:26:45](https://news.ycombinator.com/item?id=37433186) - [Aardvark'd: The Fog Creek documentary, 18 years later](https://mtlynch.io/aardvarkd/)
 * [2023-09-08, 11:09:44](https://news.ycombinator.com/item?id=37432067) - [GitHubGuessr](https://github-guessr.vercel.app/)
 * [2023-09-08, 09:56:08](https://news.ycombinator.com/item?id=37431644) - [Touch Pianist](http://touchpianist.com/)
