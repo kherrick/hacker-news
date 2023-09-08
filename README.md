@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-08, 21:53:57](https://news.ycombinator.com/item?id=37439860) - [McDonald's to retire self-service soda fountains by 2032](https://www.sj-r.com/story/entertainment/dining/2023/09/08/mcdonalds-ending-self-service-soda-fountain-drink-stations/70785168007/)
 * [2023-09-08, 21:17:24](https://news.ycombinator.com/item?id=37439553) - [The Absence of Data Privacy Law Is a National Security Threat](https://nationalinterest.org/blog/techland/absence-data-privacy-law-national-security-threat-206773)
 * [2023-09-08, 21:15:52](https://news.ycombinator.com/item?id=37439535) - [Decoded: GNU Coreutils](https://maizure.org/projects/decoded-gnu-coreutils/)
 * [2023-09-08, 21:03:19](https://news.ycombinator.com/item?id=37439391) - [The rxv64 Operating System: MIT's xv6, in Rust, for SMP x86_64 machines](https://github.com/dancrossnyc/rxv64)
@@ -16,8 +17,6 @@
 * [2023-09-08, 15:49:56](https://news.ycombinator.com/item?id=37435215) - [Zinc-air batteries as an alternative to lithium-ion: study](https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative)
 * [2023-09-08, 14:41:03](https://news.ycombinator.com/item?id=37434117) - [Bun v1.0.0](https://bun.sh/blog/bun-v1.0)
 * [2023-09-08, 13:54:13](https://news.ycombinator.com/item?id=37433523) - [Emoji Generator with AI](https://emoji.fly.dev)
-* [2023-09-08, 13:42:42](https://news.ycombinator.com/item?id=37433380) - [H2Fly – Breaking the Hydrogen Barrier](https://www.h2fly.de/)
-* [2023-09-08, 13:29:05](https://news.ycombinator.com/item?id=37433218) - [Show HN: Rivet – open-source AI Agent dev env with real-world applications](https://rivet.ironcladapp.com/)
 * [2023-09-08, 13:26:45](https://news.ycombinator.com/item?id=37433186) - [Aardvark'd: The Fog Creek documentary, 18 years later](https://mtlynch.io/aardvarkd/)
 * [2023-09-08, 11:09:44](https://news.ycombinator.com/item?id=37432067) - [GitHubGuessr](https://github-guessr.vercel.app/)
 * [2023-09-08, 09:56:08](https://news.ycombinator.com/item?id=37431644) - [Touch Pianist](http://touchpianist.com/)
@@ -29,6 +28,7 @@
 * [2023-09-08, 03:36:11](https://news.ycombinator.com/item?id=37428937) - [Critical ignoring as a core competence for digital citizens (2022)](https://journals.sagepub.com/doi/epub/10.1177/09637214221121570)
 * [2023-09-07, 21:53:14](https://news.ycombinator.com/item?id=37426116) - [Digging through the New York Times morgue](https://buttondown.email/linotypebook/archive/lbp-issue-no-5-digging-through-a-morgue/)
 * [2023-09-07, 21:52:02](https://news.ycombinator.com/item?id=37426107) - [The thinking path](https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking)
+* [2023-09-07, 17:22:12](https://news.ycombinator.com/item?id=37422355) - [Debugging Catastrophic Backtracking for Regular Expressions in Python](https://krishnanchandra.com/posts/regex-catastrophic-backtracking/)
 * [2023-09-07, 08:54:00](https://news.ycombinator.com/item?id=37416342) - [Sieve: An Email Filtering Language (RFC 5228)](https://www.rfc-editor.org/info/rfc5228)
 
 ## [Archives](archives/index.md)

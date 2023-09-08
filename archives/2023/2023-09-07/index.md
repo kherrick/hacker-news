@@ -39,6 +39,7 @@
 * [2023-09-07, 17:38:12](https://news.ycombinator.com/item?id=37422624) - [Humanised kidneys grown inside pigs for the first time](https://www.theguardian.com/science/2023/sep/07/humanised-kidneys-grown-inside-pigs-for-the-first-time)
 * [2023-09-07, 17:37:47](https://news.ycombinator.com/item?id=37422615) - [Releasing Persimmon-8B](https://www.adept.ai/blog/persimmon-8b)
 * [2023-09-07, 17:28:39](https://news.ycombinator.com/item?id=37422460) - [Norway rejects Facebook owner Meta's appeal to defer ban](https://www.thelocal.no/20230906/norway-rejects-facebook-owner-metas-appeal-to-defer-ban)
+* [2023-09-07, 17:22:12](https://news.ycombinator.com/item?id=37422355) - [Debugging Catastrophic Backtracking for Regular Expressions in Python](https://krishnanchandra.com/posts/regex-catastrophic-backtracking/)
 * [2023-09-07, 17:08:35](https://news.ycombinator.com/item?id=37422115) - [Project Mars by Wernher von Braun (1953)](https://archive.org/details/ProjectMars)
 * [2023-09-07, 17:08:07](https://news.ycombinator.com/item?id=37422106) - [Bun 1.0 announcement [video]](https://www.youtube.com/watch?v=BsnCpESUEqM)
 * [2023-09-07, 17:06:39](https://news.ycombinator.com/item?id=37422088) - [Punjabi Mexican Americans](https://en.wikipedia.org/wiki/Punjabi_Mexican_Americans)
