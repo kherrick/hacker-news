@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2023-09-08, 18:25:57",
+      "https://news.ycombinator.com/item?id=37437405"
+    ],
+    [
+      "NIST/Sematech E-Handbook of Statistical Methods",
+      "https://www.itl.nist.gov/div898/handbook/"
+    ]
+  ],
+  [
+    [
       "2023-09-08, 18:19:19",
       "https://news.ycombinator.com/item?id=37437311"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2023-09-08, 16:06:37",
-      "https://news.ycombinator.com/item?id=37435454"
-    ],
-    [
-      "Heirloom Carbon: Absorbing CO2 from the air using crushed rocks",
-      "https://heatmap.news/economy/heirloom-carbon-microsoft-removal"
-    ]
-  ],
-  [
-    [
       "2023-09-08, 15:49:56",
       "https://news.ycombinator.com/item?id=37435215"
     ],
@@ -157,16 +157,6 @@
     [
       "Large Language Models as Optimizers. +50% on Big Bench Hard",
       "https://arxiv.org/abs/2309.03409"
-    ]
-  ],
-  [
-    [
-      "2023-09-08, 14:12:27",
-      "https://news.ycombinator.com/item?id=37433743"
-    ],
-    [
-      "A Study of Malicious Code in PyPI Ecosystem",
-      "https://about.honywen.com/publication/2023ase/#"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "NSO group iPhone zero-click, zero-day exploit captured in the wild",
       "https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/"
+    ]
+  ],
+  [
+    [
+      "2023-09-07, 08:54:00",
+      "https://news.ycombinator.com/item?id=37416342"
+    ],
+    [
+      "Sieve: An Email Filtering Language (RFC5228)",
+      "https://www.rfc-editor.org/info/rfc5228"
     ]
   ],
   [
