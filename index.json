@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-09-08, 03:42:30",
-      "https://news.ycombinator.com/item?id=37428975"
-    ],
-    [
-      "The International Criminal Court Will Now Prosecute Cyberwar Crimes",
-      "https://www.wired.com/story/icc-cyberwar-crimes/"
-    ]
-  ],
-  [
-    [
       "2023-09-08, 02:46:29",
       "https://news.ycombinator.com/item?id=37428605"
     ],
@@ -81,6 +71,16 @@
   ],
   [
     [
+      "2023-09-07, 22:04:10",
+      "https://news.ycombinator.com/item?id=37426223"
+    ],
+    [
+      "Searx is no longer maintained",
+      "https://github.com/searx/searx/commit/276ffd3f01cdd823f75676c51231fad4040059d3"
+    ]
+  ],
+  [
+    [
       "2023-09-07, 21:55:05",
       "https://news.ycombinator.com/item?id=37426132"
     ],
@@ -147,16 +147,6 @@
     [
       "NaNofuzz: A Usable Tool for Automatic Test Generation [pdf]",
       "https://cmumatt.github.io/assets/NaNofuzz_2023.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-09-07, 18:39:15",
-      "https://news.ycombinator.com/item?id=37423593"
-    ],
-    [
-      "Square is down",
-      "https://www.issquareup.com"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Animations From First Principles (in 5 minutes)",
       "https://mathspp.com/blog/animations-from-first-principles-in-5-minutes"
+    ]
+  ],
+  [
+    [
+      "2023-09-07, 07:34:09",
+      "https://news.ycombinator.com/item?id=37415812"
+    ],
+    [
+      "My Node.js is a bit Rusty",
+      "https://gal.hagever.com/posts/my-node-js-is-a-bit-rusty"
     ]
   ],
   [
