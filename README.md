@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-08, 14:37:30](https://news.ycombinator.com/item?id=37434069) - [Large Language Models as Optimizers. +50% on Big Bench Hard](https://arxiv.org/abs/2309.03409)
 * [2023-09-08, 14:13:12](https://news.ycombinator.com/item?id=37433759) - [X updates its Terms to prohibit crawling/scraping of its data](https://stackdiary.com/x-updates-its-terms-to-prohibit-crawling-scraping-of-its-data/)
 * [2023-09-08, 14:12:27](https://news.ycombinator.com/item?id=37433743) - [A Study of Malicious Code in PyPI Ecosystem](https://about.honywen.com/publication/2023ase/#)
 * [2023-09-08, 14:07:55](https://news.ycombinator.com/item?id=37433681) - [Flexport is rescinding a bunch of signed offer letters](https://twitter.com/typesfast/status/1700092765798048093)
@@ -22,7 +23,6 @@
 * [2023-09-08, 07:50:49](https://news.ycombinator.com/item?id=37430759) - [Towards a New SymPy](https://oscarbenjamin.github.io/blog/czi/post1.html)
 * [2023-09-08, 07:27:12](https://news.ycombinator.com/item?id=37430595) - [Napi: Build compiled Node.js add-ons in Rust](https://napi.rs/)
 * [2023-09-08, 03:36:11](https://news.ycombinator.com/item?id=37428937) - [Critical ignoring as a core competence for digital citizens (2022)](https://journals.sagepub.com/doi/epub/10.1177/09637214221121570)
-* [2023-09-07, 23:30:33](https://news.ycombinator.com/item?id=37427127) - [Show HN: HackYourNews – AI summaries of the top HN stories](https://hackyournews.com/)
 * [2023-09-07, 21:53:14](https://news.ycombinator.com/item?id=37426116) - [Digging through the New York Times morgue](https://buttondown.email/linotypebook/archive/lbp-issue-no-5-digging-through-a-morgue/)
 * [2023-09-07, 21:52:02](https://news.ycombinator.com/item?id=37426107) - [The thinking path](https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking)
 * [2023-09-07, 20:25:09](https://news.ycombinator.com/item?id=37425052) - [China's ancient water pipe networks show no evidence of a centralized authority](https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html)

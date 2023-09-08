@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
+* [2023-09-08, 14:37:30](https://news.ycombinator.com/item?id=37434069) - [Large Language Models as Optimizers. +50% on Big Bench Hard](https://arxiv.org/abs/2309.03409)
 * [2023-09-08, 14:16:10](https://news.ycombinator.com/item?id=37433797) - [Labeling Beef ‘Low Carbon’ Could Open Premium Market for Wyoming Ranchers](https://cowboystatedaily.com/2023/09/07/labeling-beef-low-carbon-could-open-premium-market-for-wyoming-ranchers/)
 * [2023-09-08, 14:13:12](https://news.ycombinator.com/item?id=37433759) - [X updates its Terms to prohibit crawling/scraping of its data](https://stackdiary.com/x-updates-its-terms-to-prohibit-crawling-scraping-of-its-data/)
 * [2023-09-08, 14:12:27](https://news.ycombinator.com/item?id=37433743) - [A Study of Malicious Code in PyPI Ecosystem](https://about.honywen.com/publication/2023ase/#)
