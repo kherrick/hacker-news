@@ -22,12 +22,12 @@
 * [2023-09-07, 15:53:23](https://news.ycombinator.com/item?id=37420831) - [North Korean campaign targeting security researchers](https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/)
 * [2023-09-07, 15:52:09](https://news.ycombinator.com/item?id=37420812) - [John McCarthy’s collection of numerical facts for use in elisp programs](http://www-formal.stanford.edu/jmc/facts.txt)
 * [2023-09-07, 15:41:38](https://news.ycombinator.com/item?id=37420628) - [LLMs, RAG, and the missing storage layer for AI](https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984)
-* [2023-09-07, 14:58:59](https://news.ycombinator.com/item?id=37419864) - [Are any words the same in all languages?](https://blog.duolingo.com/words-shared-in-all-languages/)
 * [2023-09-07, 11:16:55](https://news.ycombinator.com/item?id=37417306) - [The Silver Thief (2004)](https://www.newyorker.com/magazine/2004/05/17/the-silver-thief)
 * [2023-09-07, 10:38:07](https://news.ycombinator.com/item?id=37417027) - [Animations From First Principles (in 5 minutes)](https://mathspp.com/blog/animations-from-first-principles-in-5-minutes)
 * [2023-09-07, 10:33:33](https://news.ycombinator.com/item?id=37416999) - [My speed cubing page](http://www.ws.binghamton.edu/fridrich/cube.html)
 * [2023-09-07, 07:34:09](https://news.ycombinator.com/item?id=37415812) - [My Node.js is a bit Rusty](https://gal.hagever.com/posts/my-node-js-is-a-bit-rusty)
 * [2023-09-07, 06:40:36](https://news.ycombinator.com/item?id=37415505) - [Cthulhu.jl – show type-inferred Julia code](https://github.com/JuliaDebug/Cthulhu.jl)
+* [2023-09-07, 06:39:30](https://news.ycombinator.com/item?id=37415499) - [Understanding Request Latency with Profiling](https://richardstartin.github.io/posts/wallclock-profiler)
 * [2023-09-07, 06:38:55](https://news.ycombinator.com/item?id=37415494) - [How Query Engines Work](https://howqueryengineswork.com/)
 * [2023-09-07, 06:17:13](https://news.ycombinator.com/item?id=37415356) - [Deciphering Mary Stuart’s lost letters from 1578-1584](https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2160677)
 
