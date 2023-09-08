@@ -22,6 +22,7 @@
 * [2023-09-07, 19:34:41](https://news.ycombinator.com/item?id=37424416) - [London Street Trees](https://apps.london.gov.uk/street-trees/)
 * [2023-09-07, 19:30:35](https://news.ycombinator.com/item?id=37424360) - [Substack Is Leaning into Politics](https://on.substack.com/p/in-the-2024-us-elections-vote-for)
 * [2023-09-07, 19:02:23](https://news.ycombinator.com/item?id=37423959) - [Gabor Melli’s Research Knowledge Base](https://www.gabormelli.com/RKB/HomePage)
+* [2023-09-07, 18:58:15](https://news.ycombinator.com/item?id=37423893) - [NaNofuzz: A Usable Tool for Automatic Test Generation [pdf]](https://cmumatt.github.io/assets/NaNofuzz_2023.pdf)
 * [2023-09-07, 18:53:08](https://news.ycombinator.com/item?id=37423811) - [Ricochet Robots Solver](https://kevincox.ca/2023/09/02/ricochet-robots-solver/)
 * [2023-09-07, 18:48:56](https://news.ycombinator.com/item?id=37423741) - [Linux becoming a Windows / OS X clone](https://notes.volution.ro/v1/2023/09/remarks/64299f31/)
 * [2023-09-07, 18:45:38](https://news.ycombinator.com/item?id=37423684) - [BMW drops plan to charge a monthly fee for heated seats](https://www.theverge.com/2023/9/7/23863258/bmw-cancel-heated-seat-subscription-microtransaction)
