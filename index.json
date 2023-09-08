@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-08, 13:03:32",
+      "https://news.ycombinator.com/item?id=37432948"
+    ],
+    [
+      "TSMC warns AI chip crunch will last another 18 months",
+      "https://www.theregister.com/2023/09/08/tsmc_ai_chip_crunch/"
+    ]
+  ],
+  [
+    [
       "2023-09-08, 12:00:41",
       "https://news.ycombinator.com/item?id=37432420"
     ],
@@ -37,16 +47,6 @@
     [
       "Scientific sleuths spot dishonest ChatGPT use in papers",
       "https://www.nature.com/articles/d41586-023-02477-w"
-    ]
-  ],
-  [
-    [
-      "2023-09-08, 10:08:33",
-      "https://news.ycombinator.com/item?id=37431710"
-    ],
-    [
-      "Linux on the Arm-Based ThinkPad X13S: Getting There",
-      "https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/"
     ]
   ],
   [
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2023-09-07, 21:27:38",
+      "https://news.ycombinator.com/item?id=37425855"
+    ],
+    [
+      "I rode with an ice road trucker to the Arctic Circle",
+      "https://www.freightwaves.com/news/i-rode-with-an-ice-road-trucker-to-the-arctic-circle-heres-what-it-was-like"
+    ]
+  ],
+  [
+    [
       "2023-09-07, 20:25:09",
       "https://news.ycombinator.com/item?id=37425052"
     ],
@@ -217,16 +227,6 @@
     [
       "John McCarthy’s collection of numerical facts for use in elisp programs",
       "http://www-formal.stanford.edu/jmc/facts.txt"
-    ]
-  ],
-  [
-    [
-      "2023-09-07, 15:41:38",
-      "https://news.ycombinator.com/item?id=37420628"
-    ],
-    [
-      "LLMs, RAG, and the missing storage layer for AI",
-      "https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984"
     ]
   ],
   [
