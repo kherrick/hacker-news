@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-08, 13:03:32](https://news.ycombinator.com/item?id=37432948) - [TSMC warns AI chip crunch will last another 18 months](https://www.theregister.com/2023/09/08/tsmc_ai_chip_crunch/)
+* [2023-09-08, 12:25:24](https://news.ycombinator.com/item?id=37432622) - [NASA's Oxygen-Generating Experiment Moxie Completes Mars Mission](https://mars.nasa.gov/news/9474/nasas-oxygen-generating-experiment-moxie-completes-mars-mission/)
 * [2023-09-08, 12:00:41](https://news.ycombinator.com/item?id=37432420) - [PolicyFly (YC W22) Is Hiring a Senior Solutions Engineer (Remote)](https://www.ycombinator.com/companies/policyfly/jobs/32uV7Bg-senior-solutions-engineer)
 * [2023-09-08, 11:57:59](https://news.ycombinator.com/item?id=37432399) - [Price shock: IBM to increase cloud costs by up to 26% in 2024 – CIO](https://www.cio.com/article/651215/price-shock-ibm-to-increase-cloud-costs-by-up-to-26-from-2024.html)
 * [2023-09-08, 10:45:13](https://news.ycombinator.com/item?id=37431962) - [NYPD spent millions to contract with firm banned by Meta for fake profiles](https://www.theguardian.com/us-news/2023/sep/08/new-york-police-tracking-voyager-labs-meta-contract)
@@ -11,6 +12,7 @@
 * [2023-09-08, 07:27:12](https://news.ycombinator.com/item?id=37430595) - [Napi: Build compiled Node.js add-ons in Rust](https://napi.rs/)
 * [2023-09-08, 05:59:40](https://news.ycombinator.com/item?id=37429938) - [Lean 4.0](https://github.com/leanprover/lean4/releases/tag/v4.0.0)
 * [2023-09-08, 05:57:27](https://news.ycombinator.com/item?id=37429922) - [Unpacking Elixir: Syntax](https://underjord.io/unpacking-elixir-syntax.html)
+* [2023-09-08, 03:36:11](https://news.ycombinator.com/item?id=37428937) - [Critical ignoring as a core competence for digital citizens (2022)](https://journals.sagepub.com/doi/epub/10.1177/09637214221121570)
 * [2023-09-08, 02:28:36](https://news.ycombinator.com/item?id=37428505) - [Federated benchmarking of medical artificial intelligence with MedPerf](https://www.nature.com/articles/s42256-023-00652-2)
 * [2023-09-08, 00:53:34](https://news.ycombinator.com/item?id=37427854) - [We built an AI-powered Magic the Gathering card generator](https://txt.cohere.com/urzas-ai/)
 * [2023-09-07, 23:46:12](https://news.ycombinator.com/item?id=37427279) - [What's new in Emacs 29.1](https://www.masteringemacs.org/article/whats-new-in-emacs-29-1)
@@ -18,7 +20,6 @@
 * [2023-09-07, 21:55:05](https://news.ycombinator.com/item?id=37426132) - [Accidental Empires, Chapter 11 – Font Wars (1992)](https://www.cringely.com/2013/03/14/accidental-empires-chapter-11-font-wars/)
 * [2023-09-07, 21:53:14](https://news.ycombinator.com/item?id=37426116) - [Digging through the New York Times morgue](https://buttondown.email/linotypebook/archive/lbp-issue-no-5-digging-through-a-morgue/)
 * [2023-09-07, 21:52:02](https://news.ycombinator.com/item?id=37426107) - [The thinking path](https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking)
-* [2023-09-07, 21:27:38](https://news.ycombinator.com/item?id=37425855) - [I rode with an ice road trucker to the Arctic Circle](https://www.freightwaves.com/news/i-rode-with-an-ice-road-trucker-to-the-arctic-circle-heres-what-it-was-like)
 * [2023-09-07, 20:25:09](https://news.ycombinator.com/item?id=37425052) - [China's ancient water pipe networks show no evidence of a centralized authority](https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html)
 * [2023-09-07, 20:21:01](https://news.ycombinator.com/item?id=37425007) - [NSO group iPhone zero-click, zero-day exploit captured in the wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/)
 * [2023-09-07, 15:53:23](https://news.ycombinator.com/item?id=37420831) - [North Korean campaign targeting security researchers](https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/)
@@ -29,7 +30,6 @@
 * [2023-09-07, 07:34:09](https://news.ycombinator.com/item?id=37415812) - [My Node.js is a bit Rusty](https://gal.hagever.com/posts/my-node-js-is-a-bit-rusty)
 * [2023-09-07, 06:39:30](https://news.ycombinator.com/item?id=37415499) - [Understanding Request Latency with Profiling](https://richardstartin.github.io/posts/wallclock-profiler)
 * [2023-09-07, 06:38:55](https://news.ycombinator.com/item?id=37415494) - [How Query Engines Work](https://howqueryengineswork.com/)
-* [2023-09-07, 06:17:13](https://news.ycombinator.com/item?id=37415356) - [Deciphering Mary Stuart’s lost letters from 1578-1584](https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2160677)
 
 ## [Archives](archives/index.md)
 

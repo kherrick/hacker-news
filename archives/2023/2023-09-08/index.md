@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
 * [2023-09-08, 13:03:32](https://news.ycombinator.com/item?id=37432948) - [TSMC warns AI chip crunch will last another 18 months](https://www.theregister.com/2023/09/08/tsmc_ai_chip_crunch/)
+* [2023-09-08, 12:25:24](https://news.ycombinator.com/item?id=37432622) - [NASA's Oxygen-Generating Experiment Moxie Completes Mars Mission](https://mars.nasa.gov/news/9474/nasas-oxygen-generating-experiment-moxie-completes-mars-mission/)
 * [2023-09-08, 12:00:41](https://news.ycombinator.com/item?id=37432420) - [PolicyFly (YC W22) Is Hiring a Senior Solutions Engineer (Remote)](https://www.ycombinator.com/companies/policyfly/jobs/32uV7Bg-senior-solutions-engineer)
 * [2023-09-08, 11:57:59](https://news.ycombinator.com/item?id=37432399) - [Price shock: IBM to increase cloud costs by up to 26% in 2024 – CIO](https://www.cio.com/article/651215/price-shock-ibm-to-increase-cloud-costs-by-up-to-26-from-2024.html)
 * [2023-09-08, 11:39:07](https://news.ycombinator.com/item?id=37432247) - [Flexport Rescinding Job Offers](https://twitter.com/typesfast/status/1700092765798048093?s=46&t=8Tb0Q2Q5idtWP7ImXKJ0rw)
@@ -26,6 +27,7 @@
 * [2023-09-08, 04:48:17](https://news.ycombinator.com/item?id=37429451) - [Harvard is named worst school for free speech](https://nypost.com/2023/09/06/harvard-is-named-worst-school-for-free-speech-scoring-zero-out-of-possible-100/)
 * [2023-09-08, 04:30:19](https://news.ycombinator.com/item?id=37429336) - [BMW Is Giving Up on Heated Seat Subscriptions Because People Hated Them](https://www.thedrive.com/news/bmw-is-giving-up-on-heated-seat-subscriptions-because-people-hated-them)
 * [2023-09-08, 03:42:30](https://news.ycombinator.com/item?id=37428975) - [The International Criminal Court Will Now Prosecute Cyberwar Crimes](https://www.wired.com/story/icc-cyberwar-crimes/)
+* [2023-09-08, 03:36:11](https://news.ycombinator.com/item?id=37428937) - [Critical ignoring as a core competence for digital citizens (2022)](https://journals.sagepub.com/doi/epub/10.1177/09637214221121570)
 * [2023-09-08, 03:11:01](https://news.ycombinator.com/item?id=37428763) - [Leon Trotsky was an MI6 agent since 1918, American intelligence documents reveal](https://sovinform.net/Trotsky-MI6-agent.htm)
 * [2023-09-08, 02:46:29](https://news.ycombinator.com/item?id=37428605) - [Texas paid Bitcoin miner more than $31M to cut energy usage](https://www.cbsnews.com/news/bitcoin-mining-cryptocurrency-riot-texas-power-grid/)
 * [2023-09-08, 02:28:36](https://news.ycombinator.com/item?id=37428505) - [Nature Machine Intelligence: Federated Benchmarking of Medical AI](https://www.nature.com/articles/s42256-023-00652-2)
