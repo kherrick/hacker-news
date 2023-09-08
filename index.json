@@ -5,28 +5,8 @@
       "https://news.ycombinator.com/item?id=37440104"
     ],
     [
-      "Defcon talk shows cops are trackable, like AirTags",
+      "Snoop unto them as they snoop unto you",
       "https://blog.dataparty.xyz/blog/snoop-unto-them/"
-    ]
-  ],
-  [
-    [
-      "2023-09-08, 21:53:57",
-      "https://news.ycombinator.com/item?id=37439860"
-    ],
-    [
-      "McDonald's to retire self-service soda fountains by 2032",
-      "https://www.sj-r.com/story/entertainment/dining/2023/09/08/mcdonalds-ending-self-service-soda-fountain-drink-stations/70785168007/"
-    ]
-  ],
-  [
-    [
-      "2023-09-08, 21:17:24",
-      "https://news.ycombinator.com/item?id=37439553"
-    ],
-    [
-      "The Absence of Data Privacy Law Is a National Security Threat",
-      "https://nationalinterest.org/blog/techland/absence-data-privacy-law-national-security-threat-206773"
     ]
   ],
   [
@@ -35,7 +15,7 @@
       "https://news.ycombinator.com/item?id=37439535"
     ],
     [
-      "Decoded: GNU Coreutils",
+      "Decoded: GNU Coreutils (2018)",
       "https://maizure.org/projects/decoded-gnu-coreutils/"
     ]
   ],
@@ -47,16 +27,6 @@
     [
       "The rxv64 Operating System: MIT's xv6, in Rust, for SMP x86_64 machines",
       "https://github.com/dancrossnyc/rxv64"
-    ]
-  ],
-  [
-    [
-      "2023-09-08, 20:54:39",
-      "https://news.ycombinator.com/item?id=37439280"
-    ],
-    [
-      "NVIDIA introduces TensorRT-LLM for accelerating LLM inference on H100/A100 GPUs",
-      "https://developer.nvidia.com/blog/nvidia-tensorrt-llm-supercharges-large-language-model-inference-on-nvidia-h100-gpus/"
     ]
   ],
   [
@@ -161,12 +131,42 @@
   ],
   [
     [
+      "2023-09-08, 14:07:55",
+      "https://news.ycombinator.com/item?id=37433681"
+    ],
+    [
+      "Flexport is rescinding a bunch of signed offer letters",
+      "https://twitter.com/typesfast/status/1700092765798048093"
+    ]
+  ],
+  [
+    [
       "2023-09-08, 13:54:13",
       "https://news.ycombinator.com/item?id=37433523"
     ],
     [
       "Emoji Generator with AI",
       "https://emoji.fly.dev"
+    ]
+  ],
+  [
+    [
+      "2023-09-08, 13:42:42",
+      "https://news.ycombinator.com/item?id=37433380"
+    ],
+    [
+      "H2Fly – Breaking the Hydrogen Barrier",
+      "https://www.h2fly.de/"
+    ]
+  ],
+  [
+    [
+      "2023-09-08, 13:29:05",
+      "https://news.ycombinator.com/item?id=37433218"
+    ],
+    [
+      "Show HN: Rivet – open-source AI Agent dev env with real-world applications",
+      "https://rivet.ironcladapp.com/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=37422355"
     ],
     [
-      "Debugging Catastrophic Backtracking for Regular Expressions in Python",
+      "Debugging catastrophic backtracking for regular expressions in Python",
       "https://krishnanchandra.com/posts/regex-catastrophic-backtracking/"
     ]
   ],
