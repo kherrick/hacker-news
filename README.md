@@ -5,6 +5,7 @@
 * [2023-09-08, 18:49:21](https://news.ycombinator.com/item?id=37437739) - [Why we didn’t get a malaria vaccine sooner](https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner)
 * [2023-09-08, 18:33:21](https://news.ycombinator.com/item?id=37437530) - [CVE-2023-4809: FreeBSD pf bypass when using IPv6](https://www.enricobassetti.it/2023/09/cve-2023-4809-freebsd-pf-bypass-when-using-ipv6/)
 * [2023-09-08, 18:19:19](https://news.ycombinator.com/item?id=37437311) - [FTC judge decides Intuit’s ‘free’ TurboTax ads misled consumers](https://www.theverge.com/2023/9/8/23864538/turbotax-intuit-ftc-deceptive-practices-free-tax-filing)
+* [2023-09-08, 17:55:59](https://news.ycombinator.com/item?id=37437026) - [Apple is reportedly spending ‘millions of dollars a day’ training AI](https://www.theverge.com/2023/9/6/23861763/apple-ai-language-models-ajax-gpt-training-spending)
 * [2023-09-08, 17:20:14](https://news.ycombinator.com/item?id=37436498) - [Llama 2 on togetherAI is as bad of a privacy nightmare as OpenAI](https://together.ai/privacy)
 * [2023-09-08, 17:01:02](https://news.ycombinator.com/item?id=37436236) - [Artie (YC S23) is hiring a founding engineer](https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer)
 * [2023-09-08, 16:19:12](https://news.ycombinator.com/item?id=37435656) - [FAA closes SpaceX Starship mishap investigation](https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d)
@@ -27,7 +28,6 @@
 * [2023-09-08, 07:50:49](https://news.ycombinator.com/item?id=37430759) - [Towards a New SymPy](https://oscarbenjamin.github.io/blog/czi/post1.html)
 * [2023-09-08, 03:36:11](https://news.ycombinator.com/item?id=37428937) - [Critical ignoring as a core competence for digital citizens (2022)](https://journals.sagepub.com/doi/epub/10.1177/09637214221121570)
 * [2023-09-07, 21:52:02](https://news.ycombinator.com/item?id=37426107) - [The thinking path](https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking)
-* [2023-09-07, 20:25:09](https://news.ycombinator.com/item?id=37425052) - [China's ancient water pipe networks show no evidence of a centralized authority](https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html)
 * [2023-09-07, 20:21:01](https://news.ycombinator.com/item?id=37425007) - [NSO group iPhone zero-click, zero-day exploit captured in the wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/)
 * [2023-09-06, 23:33:09](https://news.ycombinator.com/item?id=37412834) - [Specialized astrocytes mediate glutamatergic gliotransmission in the CNS](https://www.nature.com/articles/s41586-023-06502-w)
 

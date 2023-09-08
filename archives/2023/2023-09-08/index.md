@@ -12,6 +12,7 @@
 * [2023-09-08, 18:29:13](https://news.ycombinator.com/item?id=37437467) - [Weight-loss drugs seem like another bit of sci-fi becoming fact](https://fasterplease.substack.com/p/weight-loss-drugs-seem-like-another)
 * [2023-09-08, 18:19:19](https://news.ycombinator.com/item?id=37437311) - [FTC judge decides Intuit’s ‘free’ TurboTax ads did mislead consumers](https://www.theverge.com/2023/9/8/23864538/turbotax-intuit-ftc-deceptive-practices-free-tax-filing)
 * [2023-09-08, 17:58:46](https://news.ycombinator.com/item?id=37437066) - [AI girlfriend ads are flooding Instagram and TikTok](https://www.nbcnews.com/tech/social-media/ai-girlfriend-ads-instagram-tiktok-chat-pics-chatgpt-dose-rcna97547)
+* [2023-09-08, 17:55:59](https://news.ycombinator.com/item?id=37437026) - [Apple is reportedly spending ‘millions of dollars a day’ training AI](https://www.theverge.com/2023/9/6/23861763/apple-ai-language-models-ajax-gpt-training-spending)
 * [2023-09-08, 17:20:14](https://news.ycombinator.com/item?id=37436498) - [Llama 2 on togetherAI is as bad of a privacy nightmare as OpenAI](https://together.ai/privacy)
 * [2023-09-08, 17:05:58](https://news.ycombinator.com/item?id=37436298) - [ChatGPT is losing some of its hype, traffic falls for the third month in a row](https://www.businessinsider.com/chatgpt-losing-hype-traffic-down-three-months-in-a-row-2023-9)
 * [2023-09-08, 17:01:02](https://news.ycombinator.com/item?id=37436236) - [Artie (YC S23) is hiring a founding engineer](https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer)
