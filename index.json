@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-08, 20:41:20",
+      "https://news.ycombinator.com/item?id=37439125"
+    ],
+    [
+      "Using LD_PRELOAD to cheat, inject features and investigate programs",
+      "https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/"
+    ]
+  ],
+  [
+    [
       "2023-09-08, 20:16:58",
       "https://news.ycombinator.com/item?id=37438842"
     ],
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2023-09-08, 17:55:59",
-      "https://news.ycombinator.com/item?id=37437026"
-    ],
-    [
-      "Apple is reportedly spending ‘millions of dollars a day’ training AI",
-      "https://www.theverge.com/2023/9/6/23861763/apple-ai-language-models-ajax-gpt-training-spending"
-    ]
-  ],
-  [
-    [
       "2023-09-08, 17:01:02",
       "https://news.ycombinator.com/item?id=37436236"
     ],
@@ -91,22 +91,22 @@
   ],
   [
     [
+      "2023-09-08, 16:19:12",
+      "https://news.ycombinator.com/item?id=37435656"
+    ],
+    [
+      "FAA closes SpaceX Starship mishap investigation",
+      "https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d"
+    ]
+  ],
+  [
+    [
       "2023-09-08, 16:10:55",
       "https://news.ycombinator.com/item?id=37435515"
     ],
     [
       "Maybe Rust isn’t a good tool for massively concurrent, userspace software",
       "https://bitbashing.io/async-rust.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-08, 16:06:37",
-      "https://news.ycombinator.com/item?id=37435454"
-    ],
-    [
-      "Heirloom Carbon: Absorbing CO2 from the air using crushed rocks",
-      "https://heatmap.news/economy/heirloom-carbon-microsoft-removal"
     ]
   ],
   [
@@ -141,21 +141,11 @@
   ],
   [
     [
-      "2023-09-08, 14:37:30",
-      "https://news.ycombinator.com/item?id=37434069"
-    ],
-    [
-      "Large Language Models as Optimizers. +50% on Big Bench Hard",
-      "https://arxiv.org/abs/2309.03409"
-    ]
-  ],
-  [
-    [
       "2023-09-08, 14:12:27",
       "https://news.ycombinator.com/item?id=37433743"
     ],
     [
-      "A Study of Malicious Code in PyPI Ecosystem",
+      "A study of malicious code in PyPI ecosystem",
       "https://about.honywen.com/publication/2023ase/#"
     ]
   ],
@@ -167,6 +157,16 @@
     [
       "Emoji Generator with AI",
       "https://emoji.fly.dev"
+    ]
+  ],
+  [
+    [
+      "2023-09-08, 13:53:51",
+      "https://news.ycombinator.com/item?id=37433515"
+    ],
+    [
+      "How to build your own living structures (1974, 2011)",
+      "https://www.we-find-wildness.com/2011/08/ken-isaacs-how-to-build-your-own-living-structures/"
     ]
   ],
   [
@@ -191,12 +191,12 @@
   ],
   [
     [
-      "2023-09-08, 13:18:41",
-      "https://news.ycombinator.com/item?id=37433104"
+      "2023-09-08, 11:09:44",
+      "https://news.ycombinator.com/item?id=37432067"
     ],
     [
-      "Why walking helps us think",
-      "https://www.newyorker.com/tech/annals-of-technology/walking-helps-us-think"
+      "GitHubGuessr",
+      "https://github-guessr.vercel.app/"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=37430759"
     ],
     [
-      "Towards a New SymPy",
+      "Towards a new SymPy",
       "https://oscarbenjamin.github.io/blog/czi/post1.html"
     ]
   ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2023-09-07, 21:53:14",
+      "https://news.ycombinator.com/item?id=37426116"
+    ],
+    [
+      "Digging through the New York Times morgue",
+      "https://buttondown.email/linotypebook/archive/lbp-issue-no-5-digging-through-a-morgue/"
+    ]
+  ],
+  [
+    [
       "2023-09-07, 21:52:02",
       "https://news.ycombinator.com/item?id=37426107"
     ],
@@ -271,21 +281,11 @@
   ],
   [
     [
-      "2023-09-07, 20:21:01",
-      "https://news.ycombinator.com/item?id=37425007"
-    ],
-    [
-      "NSO group iPhone zero-click, zero-day exploit captured in the wild",
-      "https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/"
-    ]
-  ],
-  [
-    [
       "2023-09-07, 08:54:00",
       "https://news.ycombinator.com/item?id=37416342"
     ],
     [
-      "Sieve: An Email Filtering Language (RFC5228)",
+      "Sieve: An Email Filtering Language (RFC 5228)",
       "https://www.rfc-editor.org/info/rfc5228"
     ]
   ],
