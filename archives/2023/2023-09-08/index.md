@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
 * [2023-09-08, 05:59:40](https://news.ycombinator.com/item?id=37429938) - [Lean 4.0](https://github.com/leanprover/lean4/releases/tag/v4.0.0)
+* [2023-09-08, 05:57:27](https://news.ycombinator.com/item?id=37429922) - [Unpacking Elixir: Syntax](https://underjord.io/unpacking-elixir-syntax.html)
 * [2023-09-08, 04:48:17](https://news.ycombinator.com/item?id=37429451) - [Harvard is named worst school for free speech](https://nypost.com/2023/09/06/harvard-is-named-worst-school-for-free-speech-scoring-zero-out-of-possible-100/)
 * [2023-09-08, 04:30:19](https://news.ycombinator.com/item?id=37429336) - [BMW Is Giving Up on Heated Seat Subscriptions Because People Hated Them](https://www.thedrive.com/news/bmw-is-giving-up-on-heated-seat-subscriptions-because-people-hated-them)
 * [2023-09-08, 03:42:30](https://news.ycombinator.com/item?id=37428975) - [The International Criminal Court Will Now Prosecute Cyberwar Crimes](https://www.wired.com/story/icc-cyberwar-crimes/)
