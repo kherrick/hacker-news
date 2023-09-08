@@ -15,7 +15,6 @@
 * [2023-09-08, 13:54:13](https://news.ycombinator.com/item?id=37433523) - [Emoji Generator with AI](https://emoji.fly.dev)
 * [2023-09-08, 13:53:51](https://news.ycombinator.com/item?id=37433515) - [How to build your own living structures (1974, 2011)](https://www.we-find-wildness.com/2011/08/ken-isaacs-how-to-build-your-own-living-structures/)
 * [2023-09-08, 13:52:36](https://news.ycombinator.com/item?id=37433495) - [Apple vs. Meta: The Illusion of Privacy](https://growth.design/case-studies/apple-privacy-policy)
-* [2023-09-08, 13:42:42](https://news.ycombinator.com/item?id=37433380) - [H2Fly – Breaking the Hydrogen Barrier](https://www.h2fly.de/)
 * [2023-09-08, 13:29:05](https://news.ycombinator.com/item?id=37433218) - [Show HN: Rivet – open-source AI Agent dev env with real-world applications](https://rivet.ironcladapp.com/)
 * [2023-09-08, 13:26:45](https://news.ycombinator.com/item?id=37433186) - [Aardvark'd: The Fog Creek Documentary, 18 Years Later](https://mtlynch.io/aardvarkd/)
 * [2023-09-08, 13:13:07](https://news.ycombinator.com/item?id=37433036) - [FCC Proposes Voluntary Security Labels for IoT Most Companies Will Likely Ignore](https://www.techdirt.com/2023/09/08/fcc-proposes-voluntary-security-labels-for-internet-of-things-devices-most-companies-will-probably-ignore/)
@@ -30,6 +29,7 @@
 * [2023-09-07, 10:33:33](https://news.ycombinator.com/item?id=37416999) - [My speed cubing page](http://www.ws.binghamton.edu/fridrich/cube.html)
 * [2023-09-07, 06:38:55](https://news.ycombinator.com/item?id=37415494) - [How Query Engines Work](https://howqueryengineswork.com/)
 * [2023-09-06, 23:33:09](https://news.ycombinator.com/item?id=37412834) - [Specialized astrocytes mediate glutamatergic gliotransmission in the CNS](https://www.nature.com/articles/s41586-023-06502-w)
+* [2023-09-06, 23:13:57](https://news.ycombinator.com/item?id=37412683) - [College football in the US is awash with money](https://www.bbc.co.uk/sport/american-football/66713731)
 
 ## [Archives](archives/index.md)
 

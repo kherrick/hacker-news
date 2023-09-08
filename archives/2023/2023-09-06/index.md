@@ -9,6 +9,7 @@
 * [2023-09-06, 23:28:39](https://news.ycombinator.com/item?id=37412793) - [Run ChatGPT-like LLMs on your laptop in 3 lines of code](https://github.com/amaiya/onprem)
 * [2023-09-06, 23:26:39](https://news.ycombinator.com/item?id=37412772) - [Beetle grows ‘termite’ on back to steal food](https://www.science.org/content/article/beetle-grows-termite-back-steal-food)
 * [2023-09-06, 23:16:05](https://news.ycombinator.com/item?id=37412698) - [jq 1.7 released](https://github.com/jqlang/jq/releases/tag/jq-1.7)
+* [2023-09-06, 23:13:57](https://news.ycombinator.com/item?id=37412683) - [College football in the US is awash with money](https://www.bbc.co.uk/sport/american-football/66713731)
 * [2023-09-06, 23:08:55](https://news.ycombinator.com/item?id=37412649) - [Scent of the afterlife? Scientists recreate recipe for Egyptian mummy balm](https://arstechnica.com/science/2023/09/scent-of-the-afterlife-scientists-recreate-recipe-for-egyptian-mummification-balm/)
 * [2023-09-06, 23:04:44](https://news.ycombinator.com/item?id=37412619) - [Prosperity and Precarity in Imperial Russia's Long Nineteenth Century](https://www.cambridge.org/core/journals/historical-journal/article/prosperity-and-precarity-in-imperial-russias-long-nineteenth-century/07F378622C75FE5FE335FC244EBF0B9C)
 * [2023-09-06, 22:56:52](https://news.ycombinator.com/item?id=37412560) - [The Decomposition of Rotten Tomatoes](https://www.vulture.com/article/rotten-tomatoes-movie-rating.html)
