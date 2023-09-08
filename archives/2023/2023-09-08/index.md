@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
+* [2023-09-08, 19:48:36](https://news.ycombinator.com/item?id=37438514) - [Apple endorses bill that forces companies to disclose their carbon footprint](https://twitter.com/Scott_Wiener/status/1699891993105833985)
+* [2023-09-08, 19:45:08](https://news.ycombinator.com/item?id=37438478) - [Scammers Can Exploit Email Forwarding Flaws to Impersonate High-Profile Domains](https://today.ucsd.edu/story/forwarding_based_spoofing)
 * [2023-09-08, 19:11:47](https://news.ycombinator.com/item?id=37438028) - [Show HN: Conway's Game of Life in TypeScript's type system](https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts)
 * [2023-09-08, 18:51:07](https://news.ycombinator.com/item?id=37437764) - [Safety Inspector Fired for Finding Too Many Defects Could Cost Railroad Millions](https://jalopnik.com/safety-inspector-fired-for-finding-too-many-defects-cou-1850817520)
 * [2023-09-08, 18:49:21](https://news.ycombinator.com/item?id=37437739) - [Why we didn’t get a malaria vaccine sooner](https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner)
