@@ -5,9 +5,12 @@
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
 * [2023-09-08, 12:00:41](https://news.ycombinator.com/item?id=37432420) - [PolicyFly (YC W22) Is Hiring a Senior Solutions Engineer (Remote)](https://www.ycombinator.com/companies/policyfly/jobs/32uV7Bg-senior-solutions-engineer)
+* [2023-09-08, 11:39:07](https://news.ycombinator.com/item?id=37432247) - [Flexport Rescinding Job Offers](https://twitter.com/typesfast/status/1700092765798048093?s=46&t=8Tb0Q2Q5idtWP7ImXKJ0rw)
 * [2023-09-08, 10:45:13](https://news.ycombinator.com/item?id=37431962) - [NYPD spent millions to contract with firm banned by Meta for fake profiles](https://www.theguardian.com/us-news/2023/sep/08/new-york-police-tracking-voyager-labs-meta-contract)
+* [2023-09-08, 10:42:46](https://news.ycombinator.com/item?id=37431946) - [Scientific sleuths spot dishonest ChatGPT use in papers](https://www.nature.com/articles/d41586-023-02477-w)
 * [2023-09-08, 10:08:33](https://news.ycombinator.com/item?id=37431710) - [Linux on the Arm-Based ThinkPad X13S: Getting There](https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/)
 * [2023-09-08, 09:56:08](https://news.ycombinator.com/item?id=37431644) - [Touch Pianist](http://touchpianist.com/)
+* [2023-09-08, 09:43:22](https://news.ycombinator.com/item?id=37431560) - [PgBouncer is useful, important, and fraught with peril](https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html)
 * [2023-09-08, 09:29:59](https://news.ycombinator.com/item?id=37431474) - [LibreWolf – custom version of Firefox, focused on privacy, security and freedom](https://librewolf.net/)
 * [2023-09-08, 08:47:44](https://news.ycombinator.com/item?id=37431159) - [Discovery shines light on Church's protection of Jews during Nazi persecution](https://www.vaticannews.va/en/vatican-city/news/2023-09/douments-pontifical-biblical-commission-nazi-persecution-church.html)
 * [2023-09-08, 07:27:12](https://news.ycombinator.com/item?id=37430595) - [Napi: Build compiled Node.js add-ons in Rust](https://napi.rs/)
