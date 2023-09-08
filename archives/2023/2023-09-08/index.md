@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
+* [2023-09-08, 13:03:32](https://news.ycombinator.com/item?id=37432948) - [TSMC warns AI chip crunch will last another 18 months](https://www.theregister.com/2023/09/08/tsmc_ai_chip_crunch/)
 * [2023-09-08, 12:00:41](https://news.ycombinator.com/item?id=37432420) - [PolicyFly (YC W22) Is Hiring a Senior Solutions Engineer (Remote)](https://www.ycombinator.com/companies/policyfly/jobs/32uV7Bg-senior-solutions-engineer)
 * [2023-09-08, 11:57:59](https://news.ycombinator.com/item?id=37432399) - [Price shock: IBM to increase cloud costs by up to 26% in 2024 – CIO](https://www.cio.com/article/651215/price-shock-ibm-to-increase-cloud-costs-by-up-to-26-from-2024.html)
 * [2023-09-08, 11:39:07](https://news.ycombinator.com/item?id=37432247) - [Flexport Rescinding Job Offers](https://twitter.com/typesfast/status/1700092765798048093?s=46&t=8Tb0Q2Q5idtWP7ImXKJ0rw)
