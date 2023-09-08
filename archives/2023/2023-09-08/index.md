@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
 * [2023-09-08, 17:58:46](https://news.ycombinator.com/item?id=37437066) - [AI girlfriend ads are flooding Instagram and TikTok](https://www.nbcnews.com/tech/social-media/ai-girlfriend-ads-instagram-tiktok-chat-pics-chatgpt-dose-rcna97547)
+* [2023-09-08, 17:20:14](https://news.ycombinator.com/item?id=37436498) - [Llama 2 on togetherAI is as bad of a privacy nightmare as OpenAI](https://together.ai/privacy)
 * [2023-09-08, 17:05:58](https://news.ycombinator.com/item?id=37436298) - [ChatGPT is losing some of its hype, traffic falls for the third month in a row](https://www.businessinsider.com/chatgpt-losing-hype-traffic-down-three-months-in-a-row-2023-9)
 * [2023-09-08, 17:01:02](https://news.ycombinator.com/item?id=37436236) - [Artie (YC S23) is hiring a founding engineer](https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer)
 * [2023-09-08, 16:19:12](https://news.ycombinator.com/item?id=37435656) - [SpaceX can't launch its giant rocket again until fixes are made, FAA says](https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d)
@@ -48,6 +49,7 @@
 * [2023-09-08, 09:56:08](https://news.ycombinator.com/item?id=37431644) - [Touch Pianist](http://touchpianist.com/)
 * [2023-09-08, 09:43:22](https://news.ycombinator.com/item?id=37431560) - [PgBouncer is useful, important, and fraught with peril](https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html)
 * [2023-09-08, 09:29:59](https://news.ycombinator.com/item?id=37431474) - [LibreWolf – custom version of Firefox, focused on privacy, security and freedom](https://librewolf.net/)
+* [2023-09-08, 09:24:25](https://news.ycombinator.com/item?id=37431433) - [ASMesh: Anonymous, Secure Messaging in Mesh Networks](https://eprint.iacr.org/2023/1053)
 * [2023-09-08, 08:47:44](https://news.ycombinator.com/item?id=37431159) - [Discovery shines light on Church's protection of Jews during Nazi persecution](https://www.vaticannews.va/en/vatican-city/news/2023-09/douments-pontifical-biblical-commission-nazi-persecution-church.html)
 * [2023-09-08, 07:50:49](https://news.ycombinator.com/item?id=37430759) - [Towards a New SymPy](https://oscarbenjamin.github.io/blog/czi/post1.html)
 * [2023-09-08, 07:27:12](https://news.ycombinator.com/item?id=37430595) - [Napi: Build compiled Node.js add-ons in Rust](https://napi.rs/)
