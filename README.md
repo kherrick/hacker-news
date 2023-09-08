@@ -2,6 +2,7 @@
 
 * [2023-09-08, 10:45:13](https://news.ycombinator.com/item?id=37431962) - [NYPD spent millions to contract with firm banned by Meta for fake profiles](https://www.theguardian.com/us-news/2023/sep/08/new-york-police-tracking-voyager-labs-meta-contract)
 * [2023-09-08, 10:08:33](https://news.ycombinator.com/item?id=37431710) - [Linux on the Arm-Based ThinkPad X13S: Getting There](https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/)
+* [2023-09-08, 09:56:08](https://news.ycombinator.com/item?id=37431644) - [Touch Pianist](http://touchpianist.com/)
 * [2023-09-08, 08:47:44](https://news.ycombinator.com/item?id=37431159) - [Discovery shines light on Church's protection of Jews during Nazi persecution](https://www.vaticannews.va/en/vatican-city/news/2023-09/douments-pontifical-biblical-commission-nazi-persecution-church.html)
 * [2023-09-08, 05:59:40](https://news.ycombinator.com/item?id=37429938) - [Lean 4.0](https://github.com/leanprover/lean4/releases/tag/v4.0.0)
 * [2023-09-08, 05:57:27](https://news.ycombinator.com/item?id=37429922) - [Unpacking Elixir: Syntax](https://underjord.io/unpacking-elixir-syntax.html)
@@ -23,7 +24,6 @@
 * [2023-09-07, 15:41:38](https://news.ycombinator.com/item?id=37420628) - [LLMs, RAG, and the missing storage layer for AI](https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984)
 * [2023-09-07, 14:58:59](https://news.ycombinator.com/item?id=37419864) - [Are any words the same in all languages?](https://blog.duolingo.com/words-shared-in-all-languages/)
 * [2023-09-07, 11:22:51](https://news.ycombinator.com/item?id=37417358) - [The Guardian's Typerighter](https://github.com/guardian/typerighter)
-* [2023-09-07, 11:16:55](https://news.ycombinator.com/item?id=37417306) - [The Silver Thief (2004)](https://www.newyorker.com/magazine/2004/05/17/the-silver-thief)
 * [2023-09-07, 10:38:07](https://news.ycombinator.com/item?id=37417027) - [Animations From First Principles (in 5 minutes)](https://mathspp.com/blog/animations-from-first-principles-in-5-minutes)
 * [2023-09-07, 10:33:33](https://news.ycombinator.com/item?id=37416999) - [My speed cubing page](http://www.ws.binghamton.edu/fridrich/cube.html)
 * [2023-09-07, 07:34:09](https://news.ycombinator.com/item?id=37415812) - [My Node.js is a bit Rusty](https://gal.hagever.com/posts/my-node-js-is-a-bit-rusty)
