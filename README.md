@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-07, 23:46:12](https://news.ycombinator.com/item?id=37427279) - [Mastering Emacs: What's new in Emacs 29.1](https://www.masteringemacs.org/article/whats-new-in-emacs-29-1)
+* [2023-09-08, 00:30:11](https://news.ycombinator.com/item?id=37427679) - [California moves to decriminalize use of magic mushrooms, other psychedelics](https://www.latimes.com/california/story/2023-09-07/california-magic-mushrooms-psychedelics-scott-wiener-psilocybin)
+* [2023-09-07, 23:46:12](https://news.ycombinator.com/item?id=37427279) - [What's new in Emacs 29.1](https://www.masteringemacs.org/article/whats-new-in-emacs-29-1)
 * [2023-09-07, 23:41:24](https://news.ycombinator.com/item?id=37427227) - [Google gets its way, bakes a user-tracking ad platform directly into Chrome](https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/)
 * [2023-09-07, 23:30:33](https://news.ycombinator.com/item?id=37427127) - [Show HN: HackYourNews – AI summaries of the top HN stories](https://hackyournews.com/)
 * [2023-09-07, 23:28:17](https://news.ycombinator.com/item?id=37427109) - [Opposites don't actually attract: meta-analysis study](https://www.colorado.edu/today/2023/08/31/news-flash-opposites-dont-actually-attract)
@@ -25,10 +26,9 @@
 * [2023-09-07, 15:00:15](https://news.ycombinator.com/item?id=37419886) - [Retool AI](https://retool.com/products/ai)
 * [2023-09-07, 14:58:59](https://news.ycombinator.com/item?id=37419864) - [Are any words the same in all languages?](https://blog.duolingo.com/words-shared-in-all-languages/)
 * [2023-09-07, 12:04:02](https://news.ycombinator.com/item?id=37417698) - [DSPy: Framework for programming with foundation models](https://github.com/stanfordnlp/dspy)
-* [2023-09-07, 10:41:56](https://news.ycombinator.com/item?id=37417055) - [Every software project is a startup that will probably fail](https://muldoon.cloud/2023/09/06/software-keeps-failing.html)
+* [2023-09-07, 11:57:23](https://news.ycombinator.com/item?id=37417646) - [Snake-fury – a challenge for Haskell beginners](https://github.com/lsmor/snake-fury)
 * [2023-09-07, 10:38:07](https://news.ycombinator.com/item?id=37417027) - [Animations From First Principles (in 5 minutes)](https://mathspp.com/blog/animations-from-first-principles-in-5-minutes)
 * [2023-09-07, 06:40:36](https://news.ycombinator.com/item?id=37415505) - [Cthulhu.jl – show type-inferred Julia code](https://github.com/JuliaDebug/Cthulhu.jl)
-* [2023-09-07, 06:17:13](https://news.ycombinator.com/item?id=37415356) - [Deciphering Mary Stuart’s lost letters from 1578-1584](https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2160677)
 * [2023-09-06, 22:56:52](https://news.ycombinator.com/item?id=37412560) - [The Decomposition of Rotten Tomatoes](https://www.vulture.com/article/rotten-tomatoes-movie-rating.html)
 
 ## [Archives](archives/index.md)
