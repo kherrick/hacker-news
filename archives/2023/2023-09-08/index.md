@@ -8,6 +8,7 @@
 * [2023-09-08, 10:08:33](https://news.ycombinator.com/item?id=37431710) - [Linux on the Arm-Based ThinkPad X13S: Getting There](https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/)
 * [2023-09-08, 09:56:08](https://news.ycombinator.com/item?id=37431644) - [Touch Pianist](http://touchpianist.com/)
 * [2023-09-08, 08:47:44](https://news.ycombinator.com/item?id=37431159) - [Discovery shines light on Church's protection of Jews during Nazi persecution](https://www.vaticannews.va/en/vatican-city/news/2023-09/douments-pontifical-biblical-commission-nazi-persecution-church.html)
+* [2023-09-08, 07:27:12](https://news.ycombinator.com/item?id=37430595) - [Napi: Build compiled Node.js add-ons in Rust](https://napi.rs/)
 * [2023-09-08, 07:25:22](https://news.ycombinator.com/item?id=37430579) - [The Servo project is joining Linux Foundation Europe](https://www.igalia.com/2023/09/07/The-Servo-project-is-joining-Linux-Foundation-Europe.html)
 * [2023-09-08, 07:21:22](https://news.ycombinator.com/item?id=37430557) - [Slack AI](https://slack.com/ai?nojsmode=1)
 * [2023-09-08, 07:11:50](https://news.ycombinator.com/item?id=37430491) - [Do you struggle to find ethical work?](https://news.ycombinator.com/item?id=37430491)
