@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-09-07, 14:58:59",
-      "https://news.ycombinator.com/item?id=37419864"
-    ],
-    [
-      "Are any words the same in all languages?",
-      "https://blog.duolingo.com/words-shared-in-all-languages/"
-    ]
-  ],
-  [
-    [
       "2023-09-07, 11:16:55",
       "https://news.ycombinator.com/item?id=37417306"
     ],
@@ -277,6 +267,16 @@
     [
       "Cthulhu.jl – show type-inferred Julia code",
       "https://github.com/JuliaDebug/Cthulhu.jl"
+    ]
+  ],
+  [
+    [
+      "2023-09-07, 06:39:30",
+      "https://news.ycombinator.com/item?id=37415499"
+    ],
+    [
+      "Understanding Request Latency with Profiling",
+      "https://richardstartin.github.io/posts/wallclock-profiler"
     ]
   ],
   [
