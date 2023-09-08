@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
+* [2023-09-08, 20:41:20](https://news.ycombinator.com/item?id=37439125) - [Using LD_PRELOAD to cheat, inject features and investigate programs](https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/)
 * [2023-09-08, 20:16:58](https://news.ycombinator.com/item?id=37438842) - [How to Learn Emacs (2012)](https://david.rothlis.net/emacs/howtolearn.html)
 * [2023-09-08, 19:48:36](https://news.ycombinator.com/item?id=37438514) - [Apple endorses bill that forces companies to disclose their carbon footprint](https://twitter.com/Scott_Wiener/status/1699891993105833985)
 * [2023-09-08, 19:45:08](https://news.ycombinator.com/item?id=37438478) - [Scammers Can Exploit Email Forwarding Flaws to Impersonate High-Profile Domains](https://today.ucsd.edu/story/forwarding_based_spoofing)
