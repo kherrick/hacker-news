@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-09-08, 21:17:24",
+      "https://news.ycombinator.com/item?id=37439553"
+    ],
+    [
+      "The Absence of Data Privacy Law Is a National Security Threat",
+      "https://nationalinterest.org/blog/techland/absence-data-privacy-law-national-security-threat-206773"
+    ]
+  ],
+  [
+    [
       "2023-09-08, 20:41:20",
       "https://news.ycombinator.com/item?id=37439125"
     ],
     [
       "Using LD_PRELOAD to cheat, inject features and investigate programs",
       "https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/"
+    ]
+  ],
+  [
+    [
+      "2023-09-08, 20:23:45",
+      "https://news.ycombinator.com/item?id=37438934"
+    ],
+    [
+      "Consumers defrauded on Zelle are left high and dry by the banks that created it [pdf]",
+      "https://www.warren.senate.gov/imo/media/doc/ZELLE%20REPORT%20OCTOBER%202022.pdf"
     ]
   ],
   [
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2023-09-08, 18:19:19",
-      "https://news.ycombinator.com/item?id=37437311"
-    ],
-    [
-      "FTC judge decides Intuit’s ‘free’ TurboTax ads misled consumers",
-      "https://www.theverge.com/2023/9/8/23864538/turbotax-intuit-ftc-deceptive-practices-free-tax-filing"
-    ]
-  ],
-  [
-    [
       "2023-09-08, 17:01:02",
       "https://news.ycombinator.com/item?id=37436236"
     ],
@@ -127,16 +137,6 @@
     [
       "Zinc-air batteries as an alternative to lithium-ion: study",
       "https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative"
-    ]
-  ],
-  [
-    [
-      "2023-09-08, 14:59:13",
-      "https://news.ycombinator.com/item?id=37434381"
-    ],
-    [
-      "Bees struggle to find flowers because of air pollution",
-      "https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution"
     ]
   ],
   [
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2023-09-08, 05:16:57",
+      "https://news.ycombinator.com/item?id=37429645"
+    ],
+    [
+      "Artic Code Vault",
+      "https://archiveprogram.github.com/arctic-vault/"
+    ]
+  ],
+  [
+    [
       "2023-09-08, 03:36:11",
       "https://news.ycombinator.com/item?id=37428937"
     ],
@@ -287,16 +297,6 @@
     [
       "Sieve: An Email Filtering Language (RFC 5228)",
       "https://www.rfc-editor.org/info/rfc5228"
-    ]
-  ],
-  [
-    [
-      "2023-09-06, 23:33:09",
-      "https://news.ycombinator.com/item?id=37412834"
-    ],
-    [
-      "Specialized astrocytes mediate glutamatergic gliotransmission in the CNS",
-      "https://www.nature.com/articles/s41586-023-06502-w"
     ]
   ]
 ]
