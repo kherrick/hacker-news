@@ -29,7 +29,7 @@
 * [2023-09-07, 20:21:01](https://news.ycombinator.com/item?id=37425007) - [NSO group iPhone zero-click, zero-day exploit captured in the wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/)
 * [2023-09-07, 10:33:33](https://news.ycombinator.com/item?id=37416999) - [My speed cubing page](http://www.ws.binghamton.edu/fridrich/cube.html)
 * [2023-09-07, 06:38:55](https://news.ycombinator.com/item?id=37415494) - [How Query Engines Work](https://howqueryengineswork.com/)
-* [2023-09-06, 23:08:55](https://news.ycombinator.com/item?id=37412649) - [Scent of the afterlife? Scientists recreate recipe for Egyptian mummy balm](https://arstechnica.com/science/2023/09/scent-of-the-afterlife-scientists-recreate-recipe-for-egyptian-mummification-balm/)
+* [2023-09-06, 23:33:09](https://news.ycombinator.com/item?id=37412834) - [Specialized astrocytes mediate glutamatergic gliotransmission in the CNS](https://www.nature.com/articles/s41586-023-06502-w)
 
 ## [Archives](archives/index.md)
 
