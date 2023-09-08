@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-08, 07:21:22](https://news.ycombinator.com/item?id=37430557) - [Slack AI](https://slack.com/ai?nojsmode=1)
+* [2023-09-08, 10:08:33](https://news.ycombinator.com/item?id=37431710) - [Linux on the Arm-Based ThinkPad X13S: Getting There](https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/)
 * [2023-09-08, 06:57:33](https://news.ycombinator.com/item?id=37430384) - [Coincidentally-identical waypoint names foxed UK air traffic control system](https://www.flightglobal.com/safety/coincidentally-identical-waypoint-names-foxed-uk-air-traffic-control-system/154824.article)
 * [2023-09-08, 05:59:40](https://news.ycombinator.com/item?id=37429938) - [Lean 4.0](https://github.com/leanprover/lean4/releases/tag/v4.0.0)
 * [2023-09-08, 05:57:27](https://news.ycombinator.com/item?id=37429922) - [Unpacking Elixir: Syntax](https://underjord.io/unpacking-elixir-syntax.html)
@@ -21,7 +21,7 @@
 * [2023-09-07, 15:53:23](https://news.ycombinator.com/item?id=37420831) - [North Korean campaign targeting security researchers](https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/)
 * [2023-09-07, 15:52:09](https://news.ycombinator.com/item?id=37420812) - [John McCarthy’s collection of numerical facts for use in elisp programs](http://www-formal.stanford.edu/jmc/facts.txt)
 * [2023-09-07, 15:41:38](https://news.ycombinator.com/item?id=37420628) - [LLMs, RAG, and the missing storage layer for AI](https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984)
-* [2023-09-07, 14:58:59](https://news.ycombinator.com/item?id=37419864) - [Are any words the same in all languages?](https://blog.duolingo.com/words-shared-in-all-languages/)
+* [2023-09-07, 11:22:51](https://news.ycombinator.com/item?id=37417358) - [The Guardian's Typerighter](https://github.com/guardian/typerighter)
 * [2023-09-07, 11:16:55](https://news.ycombinator.com/item?id=37417306) - [The Silver Thief (2004)](https://www.newyorker.com/magazine/2004/05/17/the-silver-thief)
 * [2023-09-07, 10:38:07](https://news.ycombinator.com/item?id=37417027) - [Animations From First Principles (in 5 minutes)](https://mathspp.com/blog/animations-from-first-principles-in-5-minutes)
 * [2023-09-07, 10:33:33](https://news.ycombinator.com/item?id=37416999) - [My speed cubing page](http://www.ws.binghamton.edu/fridrich/cube.html)

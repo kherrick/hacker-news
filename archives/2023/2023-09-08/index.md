@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
+* [2023-09-08, 10:08:33](https://news.ycombinator.com/item?id=37431710) - [Linux on the Arm-Based ThinkPad X13S: Getting There](https://www.theregister.com/2023/09/08/linux_on_the_thinkpad_x13s/)
 * [2023-09-08, 07:25:22](https://news.ycombinator.com/item?id=37430579) - [The Servo project is joining Linux Foundation Europe](https://www.igalia.com/2023/09/07/The-Servo-project-is-joining-Linux-Foundation-Europe.html)
 * [2023-09-08, 07:21:22](https://news.ycombinator.com/item?id=37430557) - [Slack AI](https://slack.com/ai?nojsmode=1)
 * [2023-09-08, 07:11:50](https://news.ycombinator.com/item?id=37430491) - [Do you struggle to find ethical work?](https://news.ycombinator.com/item?id=37430491)

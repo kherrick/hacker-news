@@ -84,6 +84,7 @@
 * [2023-09-07, 11:52:33](https://news.ycombinator.com/item?id=37417600) - [Using disposable phone numbers for better security](https://shkspr.mobi/blog/2023/09/using-disposable-phone-numbers-for-better-security/)
 * [2023-09-07, 11:47:19](https://news.ycombinator.com/item?id=37417555) - [Is Google's looming monopoly trial a watershed moment for Big Tech?](https://theweek.com/google/1026299/google-doj-monopoly-antitrust-trial)
 * [2023-09-07, 11:26:42](https://news.ycombinator.com/item?id=37417397) - [Tell HN: Reminder that your LinkedIn profile is fully visible to site members](https://news.ycombinator.com/item?id=37417397)
+* [2023-09-07, 11:22:51](https://news.ycombinator.com/item?id=37417358) - [The Guardian's Typerighter](https://github.com/guardian/typerighter)
 * [2023-09-07, 11:22:41](https://news.ycombinator.com/item?id=37417355) - [Toyota Shut Down 14 Factories Due to 'Insufficient Disk Space'](https://www.tomshardware.com/news/toyota-shut-down-14-factories-due-to-insufficient-disk-space)
 * [2023-09-07, 11:16:55](https://news.ycombinator.com/item?id=37417306) - [The Silver Thief](https://www.newyorker.com/magazine/2004/05/17/the-silver-thief)
 * [2023-09-07, 11:03:27](https://news.ycombinator.com/item?id=37417195) - [Move Over, Software Developers – In Cybersecurity, the Government Wants to Drive](https://www.techdirt.com/2023/09/06/move-over-software-developers-in-the-name-of-cybersecurity-the-government-wants-to-drive/)
