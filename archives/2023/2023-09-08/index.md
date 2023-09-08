@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
+* [2023-09-08, 19:11:47](https://news.ycombinator.com/item?id=37438028) - [Show HN: Conway's Game of Life in TypeScript's type system](https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts)
 * [2023-09-08, 18:51:07](https://news.ycombinator.com/item?id=37437764) - [Safety Inspector Fired for Finding Too Many Defects Could Cost Railroad Millions](https://jalopnik.com/safety-inspector-fired-for-finding-too-many-defects-cou-1850817520)
 * [2023-09-08, 18:49:21](https://news.ycombinator.com/item?id=37437739) - [Why we didn’t get a malaria vaccine sooner](https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner)
 * [2023-09-08, 18:37:24](https://news.ycombinator.com/item?id=37437583) - [God of the Gaps: How the Supernatural Explains What We Can’t](https://behavioralscientist.org/god-of-the-gaps-how-the-supernatural-explains-what-we-cant/)
