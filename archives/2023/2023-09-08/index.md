@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
+* [2023-09-08, 13:36:06](https://news.ycombinator.com/item?id=37433307) - [China Offers Lesson in How to Cut Plastic Waste from Food Delivery](https://www.wsj.com/world/china/china-offers-lesson-in-how-to-cut-plastic-waste-from-food-delivery-f8a64cc4)
+* [2023-09-08, 13:13:07](https://news.ycombinator.com/item?id=37433036) - [FCC Proposes Voluntary Security Labels for IoT Most Companies Will Likely Ignore](https://www.techdirt.com/2023/09/08/fcc-proposes-voluntary-security-labels-for-internet-of-things-devices-most-companies-will-probably-ignore/)
 * [2023-09-08, 13:03:32](https://news.ycombinator.com/item?id=37432948) - [TSMC warns AI chip crunch will last another 18 months](https://www.theregister.com/2023/09/08/tsmc_ai_chip_crunch/)
 * [2023-09-08, 12:25:24](https://news.ycombinator.com/item?id=37432622) - [NASA's Oxygen-Generating Experiment Moxie Completes Mars Mission](https://mars.nasa.gov/news/9474/nasas-oxygen-generating-experiment-moxie-completes-mars-mission/)
 * [2023-09-08, 12:00:41](https://news.ycombinator.com/item?id=37432420) - [PolicyFly (YC W22) Is Hiring a Senior Solutions Engineer (Remote)](https://www.ycombinator.com/companies/policyfly/jobs/32uV7Bg-senior-solutions-engineer)
