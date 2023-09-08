@@ -11,6 +11,7 @@
 * [2023-09-07, 23:18:31](https://news.ycombinator.com/item?id=37427008) - [TEMU Is Cleverly Hidden Spyware That Poses an Urgent Security Threat to U.S.](https://grizzlyreports.com/we-believe-pdd-is-a-dying-fraudulent-company-and-its-shopping-app-temu-is-cleverly-hidden-spyware-that-poses-an-urgent-security-threat-to-u-s-national-interests/)
 * [2023-09-07, 22:04:10](https://news.ycombinator.com/item?id=37426223) - [Searx is no longer maintained](https://github.com/searx/searx/commit/276ffd3f01cdd823f75676c51231fad4040059d3)
 * [2023-09-07, 21:55:05](https://news.ycombinator.com/item?id=37426132) - [Accidental Empires, Chapter 11 – Font Wars (1992)](https://www.cringely.com/2013/03/14/accidental-empires-chapter-11-font-wars/)
+* [2023-09-07, 21:52:02](https://news.ycombinator.com/item?id=37426107) - [The thinking path](https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking)
 * [2023-09-07, 21:27:38](https://news.ycombinator.com/item?id=37425855) - [What it's Really Like to be an Alaskan Truck Driver](https://www.freightwaves.com/news/i-rode-with-an-ice-road-trucker-to-the-arctic-circle-heres-what-it-was-like)
 * [2023-09-07, 21:26:33](https://news.ycombinator.com/item?id=37425842) - [Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo](https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo)
 * [2023-09-07, 20:30:27](https://news.ycombinator.com/item?id=37425130) - [A BERT for laptops, from scratch](https://github.com/samvher/bert-for-laptops/blob/main/BERT_for_laptops.ipynb)
