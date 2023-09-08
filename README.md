@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-08, 18:49:21](https://news.ycombinator.com/item?id=37437739) - [Why we didn’t get a malaria vaccine sooner](https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner)
-* [2023-09-08, 18:37:24](https://news.ycombinator.com/item?id=37437583) - [God of the Gaps: How the Supernatural Explains What We Can’t](https://behavioralscientist.org/god-of-the-gaps-how-the-supernatural-explains-what-we-cant/)
+* [2023-09-08, 18:33:21](https://news.ycombinator.com/item?id=37437530) - [CVE-2023-4809: FreeBSD pf bypass when using IPv6](https://www.enricobassetti.it/2023/09/cve-2023-4809-freebsd-pf-bypass-when-using-ipv6/)
 * [2023-09-08, 18:29:13](https://news.ycombinator.com/item?id=37437467) - [Weight-loss drugs seem like another bit of sci-fi becoming fact](https://fasterplease.substack.com/p/weight-loss-drugs-seem-like-another)
 * [2023-09-08, 18:19:19](https://news.ycombinator.com/item?id=37437311) - [FTC judge decides Intuit’s ‘free’ TurboTax ads did mislead consumers](https://www.theverge.com/2023/9/8/23864538/turbotax-intuit-ftc-deceptive-practices-free-tax-filing)
 * [2023-09-08, 17:58:46](https://news.ycombinator.com/item?id=37437066) - [AI girlfriend ads are flooding Instagram and TikTok](https://www.nbcnews.com/tech/social-media/ai-girlfriend-ads-instagram-tiktok-chat-pics-chatgpt-dose-rcna97547)
@@ -10,6 +10,7 @@
 * [2023-09-08, 16:19:12](https://news.ycombinator.com/item?id=37435656) - [SpaceX can't launch its giant rocket again until fixes are made, FAA says](https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d)
 * [2023-09-08, 16:10:55](https://news.ycombinator.com/item?id=37435515) - [Maybe Rust isn’t a good tool for massively concurrent, userspace software](https://bitbashing.io/async-rust.html)
 * [2023-09-08, 16:06:37](https://news.ycombinator.com/item?id=37435454) - [Heirloom Carbon: Absorbing CO2 from the air using crushed rocks](https://heatmap.news/economy/heirloom-carbon-microsoft-removal)
+* [2023-09-08, 16:02:08](https://news.ycombinator.com/item?id=37435387) - [Solar and batteries are going to win, and our thinking needs to adjust](https://www.noahpinion.blog/p/our-climate-change-debates-are-out)
 * [2023-09-08, 15:49:56](https://news.ycombinator.com/item?id=37435215) - [Zinc-air batteries as an alternative to lithium-ion: study](https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative)
 * [2023-09-08, 15:32:57](https://news.ycombinator.com/item?id=37434918) - [Procreate Dreams](https://procreate.com/dreams)
 * [2023-09-08, 14:59:13](https://news.ycombinator.com/item?id=37434381) - [Bees struggle to find flowers because of air pollution](https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution)
@@ -28,7 +29,6 @@
 * [2023-09-07, 21:52:02](https://news.ycombinator.com/item?id=37426107) - [The thinking path](https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking)
 * [2023-09-07, 20:25:09](https://news.ycombinator.com/item?id=37425052) - [China's ancient water pipe networks show no evidence of a centralized authority](https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html)
 * [2023-09-07, 20:21:01](https://news.ycombinator.com/item?id=37425007) - [NSO group iPhone zero-click, zero-day exploit captured in the wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/)
-* [2023-09-07, 06:38:55](https://news.ycombinator.com/item?id=37415494) - [How Query Engines Work](https://howqueryengineswork.com/)
 * [2023-09-06, 23:33:09](https://news.ycombinator.com/item?id=37412834) - [Specialized astrocytes mediate glutamatergic gliotransmission in the CNS](https://www.nature.com/articles/s41586-023-06502-w)
 
 ## [Archives](archives/index.md)
