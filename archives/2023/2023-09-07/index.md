@@ -16,6 +16,7 @@
 * [2023-09-07, 20:30:27](https://news.ycombinator.com/item?id=37425130) - [A BERT for laptops, from scratch](https://github.com/samvher/bert-for-laptops/blob/main/BERT_for_laptops.ipynb)
 * [2023-09-07, 20:25:50](https://news.ycombinator.com/item?id=37425060) - [Roadmap to Tauri 2.0](https://beta.tauri.app/blog/roadmap-to-tauri-2-0/)
 * [2023-09-07, 20:25:48](https://news.ycombinator.com/item?id=37425059) - [NASA finally admits what everyone already knows: SLS is unaffordable](https://arstechnica.com/space/2023/09/nasa-finally-admits-what-everyone-already-knows-sls-is-unaffordable/)
+* [2023-09-07, 20:25:09](https://news.ycombinator.com/item?id=37425052) - [China's ancient water pipe networks](https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html)
 * [2023-09-07, 20:21:53](https://news.ycombinator.com/item?id=37425018) - [40 Hours a Week of Intense Work Outside Your Job,You Too Can Make Passive Income](https://www.mcsweeneys.net/articles/for-just-forty-hours-a-week-of-intense-work-outside-your-full-time-job-you-too-can-make-passive-income)
 * [2023-09-07, 20:21:01](https://news.ycombinator.com/item?id=37425007) - [NSO Group iPhone Zero-Click, Zero-Day Exploit Captured in the Wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/)
 * [2023-09-07, 20:20:40](https://news.ycombinator.com/item?id=37425004) - [Apple Entrepreneur Camp](https://developer.apple.com/entrepreneur-camp/)
