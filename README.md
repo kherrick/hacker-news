@@ -1,15 +1,16 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-08, 17:58:46](https://news.ycombinator.com/item?id=37437066) - [AI girlfriend ads are flooding Instagram and TikTok](https://www.nbcnews.com/tech/social-media/ai-girlfriend-ads-instagram-tiktok-chat-pics-chatgpt-dose-rcna97547)
 * [2023-09-08, 17:01:02](https://news.ycombinator.com/item?id=37436236) - [Artie (YC S23) is hiring a founding engineer](https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer)
 * [2023-09-08, 16:19:12](https://news.ycombinator.com/item?id=37435656) - [SpaceX can't launch its giant rocket again until fixes are made, FAA says](https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d)
 * [2023-09-08, 16:10:55](https://news.ycombinator.com/item?id=37435515) - [Maybe Rust isn’t a good tool for massively concurrent, userspace software](https://bitbashing.io/async-rust.html)
 * [2023-09-08, 16:06:37](https://news.ycombinator.com/item?id=37435454) - [Heirloom Carbon: Absorbing CO2 from the air using crushed rocks](https://heatmap.news/economy/heirloom-carbon-microsoft-removal)
 * [2023-09-08, 16:06:24](https://news.ycombinator.com/item?id=37435450) - [TPM provides zero practical security](https://gist.github.com/osy/45e612345376a65c56d0678834535166)
 * [2023-09-08, 16:02:08](https://news.ycombinator.com/item?id=37435387) - [Solar and batteries are going to win, and our thinking needs to adjust](https://www.noahpinion.blog/p/our-climate-change-debates-are-out)
-* [2023-09-08, 15:49:56](https://news.ycombinator.com/item?id=37435215) - [Move over lithium-ion: Zinc-air batteries a cheaper and safer alternative](https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative)
+* [2023-09-08, 15:49:56](https://news.ycombinator.com/item?id=37435215) - [Zinc-air batteries as an alternative to lithium-ion: study](https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative)
 * [2023-09-08, 15:32:57](https://news.ycombinator.com/item?id=37434918) - [Procreate Dreams](https://procreate.com/dreams)
 * [2023-09-08, 14:59:13](https://news.ycombinator.com/item?id=37434381) - [Bees struggle to find flowers because of air pollution](https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution)
-* [2023-09-08, 14:41:03](https://news.ycombinator.com/item?id=37434117) - [Bun v1.0.0](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0)
+* [2023-09-08, 14:41:03](https://news.ycombinator.com/item?id=37434117) - [Bun v1.0.0](https://bun.sh/blog/bun-v1.0)
 * [2023-09-08, 14:37:30](https://news.ycombinator.com/item?id=37434069) - [Large Language Models as Optimizers. +50% on Big Bench Hard](https://arxiv.org/abs/2309.03409)
 * [2023-09-08, 14:12:27](https://news.ycombinator.com/item?id=37433743) - [A Study of Malicious Code in PyPI Ecosystem](https://about.honywen.com/publication/2023ase/#)
 * [2023-09-08, 13:54:13](https://news.ycombinator.com/item?id=37433523) - [Emoji Generator with AI](https://emoji.fly.dev)
@@ -29,7 +30,6 @@
 * [2023-09-07, 10:33:33](https://news.ycombinator.com/item?id=37416999) - [My speed cubing page](http://www.ws.binghamton.edu/fridrich/cube.html)
 * [2023-09-07, 06:38:55](https://news.ycombinator.com/item?id=37415494) - [How Query Engines Work](https://howqueryengineswork.com/)
 * [2023-09-06, 23:33:09](https://news.ycombinator.com/item?id=37412834) - [Specialized astrocytes mediate glutamatergic gliotransmission in the CNS](https://www.nature.com/articles/s41586-023-06502-w)
-* [2023-09-06, 23:13:57](https://news.ycombinator.com/item?id=37412683) - [College football in the US is awash with money](https://www.bbc.co.uk/sport/american-football/66713731)
 
 ## [Archives](archives/index.md)
 

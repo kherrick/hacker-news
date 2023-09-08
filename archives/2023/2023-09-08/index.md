@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
+* [2023-09-08, 17:58:46](https://news.ycombinator.com/item?id=37437066) - [AI girlfriend ads are flooding Instagram and TikTok](https://www.nbcnews.com/tech/social-media/ai-girlfriend-ads-instagram-tiktok-chat-pics-chatgpt-dose-rcna97547)
 * [2023-09-08, 17:05:58](https://news.ycombinator.com/item?id=37436298) - [ChatGPT is losing some of its hype, traffic falls for the third month in a row](https://www.businessinsider.com/chatgpt-losing-hype-traffic-down-three-months-in-a-row-2023-9)
 * [2023-09-08, 17:01:02](https://news.ycombinator.com/item?id=37436236) - [Artie (YC S23) is hiring a founding engineer](https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer)
 * [2023-09-08, 16:19:12](https://news.ycombinator.com/item?id=37435656) - [SpaceX can't launch its giant rocket again until fixes are made, FAA says](https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d)
@@ -20,6 +21,7 @@
 * [2023-09-08, 14:54:41](https://news.ycombinator.com/item?id=37434295) - [Did you know Git was originally created in 10 days?](https://community.appsmith.com/content/blog/evolution-git-dive-tech-history)
 * [2023-09-08, 14:54:37](https://news.ycombinator.com/item?id=37434293) - [Dating app Grindr loses nearly half its staff after trying to force RTO](https://www.cnn.com/2023/09/08/business/grindr-return-to-office-union/index.html)
 * [2023-09-08, 14:41:03](https://news.ycombinator.com/item?id=37434117) - [Bun v1.0.0](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0)
+* [2023-09-08, 14:41:03](https://news.ycombinator.com/item?id=37434117) - [Bun v1.0.0](https://bun.sh/blog/bun-v1.0)
 * [2023-09-08, 14:37:30](https://news.ycombinator.com/item?id=37434069) - [Large Language Models as Optimizers. +50% on Big Bench Hard](https://arxiv.org/abs/2309.03409)
 * [2023-09-08, 14:16:10](https://news.ycombinator.com/item?id=37433797) - [Labeling Beef ‘Low Carbon’ Could Open Premium Market for Wyoming Ranchers](https://cowboystatedaily.com/2023/09/07/labeling-beef-low-carbon-could-open-premium-market-for-wyoming-ranchers/)
 * [2023-09-08, 14:13:12](https://news.ycombinator.com/item?id=37433759) - [X updates its Terms to prohibit crawling/scraping of its data](https://stackdiary.com/x-updates-its-terms-to-prohibit-crawling-scraping-of-its-data/)
