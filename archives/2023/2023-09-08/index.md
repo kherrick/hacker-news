@@ -10,6 +10,7 @@
 * [2023-09-08, 16:10:55](https://news.ycombinator.com/item?id=37435515) - [Async Rust Is A Bad Language](https://bitbashing.io/async-rust.html)
 * [2023-09-08, 16:06:37](https://news.ycombinator.com/item?id=37435454) - [Microsoft’s Remarkably Big Bet on Carbon-Absorbing Rocks](https://heatmap.news/economy/heirloom-carbon-microsoft-removal)
 * [2023-09-08, 16:06:24](https://news.ycombinator.com/item?id=37435450) - [TPM provides zero practical security](https://gist.github.com/osy/45e612345376a65c56d0678834535166)
+* [2023-09-08, 16:02:08](https://news.ycombinator.com/item?id=37435387) - [Our climate change debates are out of date](https://www.noahpinion.blog/p/our-climate-change-debates-are-out)
 * [2023-09-08, 15:49:56](https://news.ycombinator.com/item?id=37435215) - [Move over lithium-ion: Zinc-air batteries a cheaper and safer alternative](https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative)
 * [2023-09-08, 15:42:15](https://news.ycombinator.com/item?id=37435089) - [Housewives Are One Surprising Solution to “Millennial Burnout”](https://www.pamelajhobart.com/housewives-are-one-surprising-solution-to-millennial-burnout/)
 * [2023-09-08, 15:32:57](https://news.ycombinator.com/item?id=37434918) - [Procreate Dreams](https://procreate.com/dreams)
