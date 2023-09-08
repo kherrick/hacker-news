@@ -22,6 +22,7 @@
 * [2023-09-08, 17:20:14](https://news.ycombinator.com/item?id=37436498) - [Llama 2 on togetherAI is as bad of a privacy nightmare as OpenAI](https://together.ai/privacy)
 * [2023-09-08, 17:05:58](https://news.ycombinator.com/item?id=37436298) - [ChatGPT is losing some of its hype, traffic falls for the third month in a row](https://www.businessinsider.com/chatgpt-losing-hype-traffic-down-three-months-in-a-row-2023-9)
 * [2023-09-08, 17:01:02](https://news.ycombinator.com/item?id=37436236) - [Artie (YC S23) is hiring a founding engineer](https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer)
+* [2023-09-08, 16:49:59](https://news.ycombinator.com/item?id=37436092) - [Cerabyte: ceramic storage poised to usher in 'yottabyte era'](https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era)
 * [2023-09-08, 16:19:12](https://news.ycombinator.com/item?id=37435656) - [SpaceX can't launch its giant rocket again until fixes are made, FAA says](https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d)
 * [2023-09-08, 16:10:55](https://news.ycombinator.com/item?id=37435515) - [Async Rust Is A Bad Language](https://bitbashing.io/async-rust.html)
 * [2023-09-08, 16:06:37](https://news.ycombinator.com/item?id=37435454) - [Microsoft’s Remarkably Big Bet on Carbon-Absorbing Rocks](https://heatmap.news/economy/heirloom-carbon-microsoft-removal)
