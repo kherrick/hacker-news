@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-08, 02:46:29](https://news.ycombinator.com/item?id=37428605) - [Texas paid Bitcoin miner more than $31M to cut energy usage](https://www.cbsnews.com/news/bitcoin-mining-cryptocurrency-riot-texas-power-grid/)
 * [2023-09-08, 02:28:36](https://news.ycombinator.com/item?id=37428505) - [Federated benchmarking of medical artificial intelligence with MedPerf](https://www.nature.com/articles/s42256-023-00652-2)
 * [2023-09-08, 02:16:48](https://news.ycombinator.com/item?id=37428447) - [Why isn't chess popular in Japan?](https://lichess.org/@/datajunkie/blog/27-why-isnt-chess-popular-in-japan/UoEDbXUU)
 * [2023-09-08, 00:53:34](https://news.ycombinator.com/item?id=37427854) - [We built an AI-powered Magic the Gathering card generator](https://txt.cohere.com/urzas-ai/)
@@ -15,6 +14,7 @@
 * [2023-09-07, 20:21:01](https://news.ycombinator.com/item?id=37425007) - [NSO group iPhone zero-click, zero-day exploit captured in the wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/)
 * [2023-09-07, 19:34:41](https://news.ycombinator.com/item?id=37424416) - [London Street Trees](https://apps.london.gov.uk/street-trees/)
 * [2023-09-07, 18:58:15](https://news.ycombinator.com/item?id=37423893) - [NaNofuzz: A Usable Tool for Automatic Test Generation [pdf]](https://cmumatt.github.io/assets/NaNofuzz_2023.pdf)
+* [2023-09-07, 17:37:47](https://news.ycombinator.com/item?id=37422615) - [Persimmon-8B](https://www.adept.ai/blog/persimmon-8b)
 * [2023-09-07, 16:33:43](https://news.ycombinator.com/item?id=37421554) - [Video codecs: Adding AV1 stateless video decoder support to Linux](https://www.collabora.com/news-and-blog/news-and-events/video-codecs-adding-av1-stateless-video-decoder-support-to-linux.html)
 * [2023-09-07, 15:56:31](https://news.ycombinator.com/item?id=37420885) - [Microsoft will assume liability for legal copyright risks of Copilot](https://blogs.microsoft.com/on-the-issues/2023/09/07/copilot-copyright-commitment-ai-legal-concerns/)
 * [2023-09-07, 15:53:23](https://news.ycombinator.com/item?id=37420831) - [North Korean campaign targeting security researchers](https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/)
