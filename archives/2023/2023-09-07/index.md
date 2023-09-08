@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
+* [2023-09-07, 23:46:12](https://news.ycombinator.com/item?id=37427279) - [Mastering Emacs: What's new in Emacs 29.1](https://www.masteringemacs.org/article/whats-new-in-emacs-29-1)
+* [2023-09-07, 23:41:24](https://news.ycombinator.com/item?id=37427227) - [Google gets its way, bakes a user-tracking ad platform directly into Chrome](https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/)
 * [2023-09-07, 23:30:33](https://news.ycombinator.com/item?id=37427127) - [Show HN: HackYourNews – AI summaries of the top HN stories](https://hackyournews.com/)
+* [2023-09-07, 23:28:17](https://news.ycombinator.com/item?id=37427109) - [Opposites don't actually attract: meta-analysis study](https://www.colorado.edu/today/2023/08/31/news-flash-opposites-dont-actually-attract)
 * [2023-09-07, 23:18:31](https://news.ycombinator.com/item?id=37427008) - [TEMU Is Cleverly Hidden Spyware That Poses an Urgent Security Threat to U.S.](https://grizzlyreports.com/we-believe-pdd-is-a-dying-fraudulent-company-and-its-shopping-app-temu-is-cleverly-hidden-spyware-that-poses-an-urgent-security-threat-to-u-s-national-interests/)
 * [2023-09-07, 22:04:10](https://news.ycombinator.com/item?id=37426223) - [Searx is no longer maintained](https://github.com/searx/searx/commit/276ffd3f01cdd823f75676c51231fad4040059d3)
 * [2023-09-07, 21:27:38](https://news.ycombinator.com/item?id=37425855) - [What it's Really Like to be an Alaskan Truck Driver](https://www.freightwaves.com/news/i-rode-with-an-ice-road-trucker-to-the-arctic-circle-heres-what-it-was-like)
