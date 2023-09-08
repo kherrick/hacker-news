@@ -7,6 +7,7 @@
 * [2023-09-08, 14:59:13](https://news.ycombinator.com/item?id=37434381) - [Bees struggle to find flowers because of air pollution](https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution)
 * [2023-09-08, 14:54:41](https://news.ycombinator.com/item?id=37434295) - [Did you know Git was originally created in 10 days?](https://community.appsmith.com/content/blog/evolution-git-dive-tech-history)
 * [2023-09-08, 14:54:37](https://news.ycombinator.com/item?id=37434293) - [Dating app Grindr loses nearly half its staff after trying to force RTO](https://www.cnn.com/2023/09/08/business/grindr-return-to-office-union/index.html)
+* [2023-09-08, 14:41:03](https://news.ycombinator.com/item?id=37434117) - [Bun v1.0.0](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0)
 * [2023-09-08, 14:37:30](https://news.ycombinator.com/item?id=37434069) - [Large Language Models as Optimizers. +50% on Big Bench Hard](https://arxiv.org/abs/2309.03409)
 * [2023-09-08, 14:16:10](https://news.ycombinator.com/item?id=37433797) - [Labeling Beef ‘Low Carbon’ Could Open Premium Market for Wyoming Ranchers](https://cowboystatedaily.com/2023/09/07/labeling-beef-low-carbon-could-open-premium-market-for-wyoming-ranchers/)
 * [2023-09-08, 14:13:12](https://news.ycombinator.com/item?id=37433759) - [X updates its Terms to prohibit crawling/scraping of its data](https://stackdiary.com/x-updates-its-terms-to-prohibit-crawling-scraping-of-its-data/)
