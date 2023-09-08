@@ -101,6 +101,7 @@
 * [2023-09-07, 09:06:20](https://news.ycombinator.com/item?id=37416430) - [Exa Is Deprecated](https://github.com/ogham/exa)
 * [2023-09-07, 09:04:18](https://news.ycombinator.com/item?id=37416411) - [What kind of password reset scam is going on at Facebook?](https://old.reddit.com/r/facebook/comments/154goal/someone_keeps_trying_to_reset_my_facebook_password/)
 * [2023-09-07, 09:04:18](https://news.ycombinator.com/item?id=37416411) - [Someone keeps trying to reset my Facebook password](https://reddit.com/r/facebook/comments/154goal/someone_keeps_trying_to_reset_my_facebook_password/)
+* [2023-09-07, 08:54:00](https://news.ycombinator.com/item?id=37416342) - [Sieve: An Email Filtering Language (RFC5228)](https://www.rfc-editor.org/info/rfc5228)
 * [2023-09-07, 08:41:33](https://news.ycombinator.com/item?id=37416272) - [New LoRa RF distance record: 1336 km / 830 mi](https://www.thethingsnetwork.org/article/new-lora-world-record-1336-km-830-mi)
 * [2023-09-07, 07:36:37](https://news.ycombinator.com/item?id=37415828) - [Nobody's Driving](https://www.okdoomer.io/nobodys-driving/)
 * [2023-09-07, 07:34:09](https://news.ycombinator.com/item?id=37415812) - [My Node.js is a bit Rusty](https://gal.hagever.com/posts/my-node-js-is-a-bit-rusty)
