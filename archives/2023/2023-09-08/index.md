@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
+* [2023-09-08, 13:54:13](https://news.ycombinator.com/item?id=37433523) - [Emoji Generator with AI](https://emoji.fly.dev)
+* [2023-09-08, 13:52:36](https://news.ycombinator.com/item?id=37433495) - [Apple vs. Meta: The Illusion of Privacy](https://growth.design/case-studies/apple-privacy-policy)
 * [2023-09-08, 13:36:06](https://news.ycombinator.com/item?id=37433307) - [China Offers Lesson in How to Cut Plastic Waste from Food Delivery](https://www.wsj.com/world/china/china-offers-lesson-in-how-to-cut-plastic-waste-from-food-delivery-f8a64cc4)
 * [2023-09-08, 13:13:07](https://news.ycombinator.com/item?id=37433036) - [FCC Proposes Voluntary Security Labels for IoT Most Companies Will Likely Ignore](https://www.techdirt.com/2023/09/08/fcc-proposes-voluntary-security-labels-for-internet-of-things-devices-most-companies-will-probably-ignore/)
 * [2023-09-08, 13:03:32](https://news.ycombinator.com/item?id=37432948) - [TSMC warns AI chip crunch will last another 18 months](https://www.theregister.com/2023/09/08/tsmc_ai_chip_crunch/)
