@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-08, 16:19:12](https://news.ycombinator.com/item?id=37435656) - [SpaceX can't launch its giant rocket again until fixes are made, FAA says](https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d)
 * [2023-09-08, 16:10:55](https://news.ycombinator.com/item?id=37435515) - [Async Rust Is A Bad Language](https://bitbashing.io/async-rust.html)
 * [2023-09-08, 16:06:37](https://news.ycombinator.com/item?id=37435454) - [Microsoft’s Remarkably Big Bet on Carbon-Absorbing Rocks](https://heatmap.news/economy/heirloom-carbon-microsoft-removal)
 * [2023-09-08, 15:49:56](https://news.ycombinator.com/item?id=37435215) - [Move over lithium-ion: Zinc-air batteries a cheaper and safer alternative](https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative)
@@ -23,7 +24,6 @@
 * [2023-09-08, 09:29:59](https://news.ycombinator.com/item?id=37431474) - [LibreWolf – Custom version of Firefox, focused on privacy, security and freedom](https://librewolf.net/)
 * [2023-09-08, 07:50:49](https://news.ycombinator.com/item?id=37430759) - [Towards a New SymPy](https://oscarbenjamin.github.io/blog/czi/post1.html)
 * [2023-09-08, 03:36:11](https://news.ycombinator.com/item?id=37428937) - [Critical ignoring as a core competence for digital citizens (2022)](https://journals.sagepub.com/doi/epub/10.1177/09637214221121570)
-* [2023-09-07, 21:53:14](https://news.ycombinator.com/item?id=37426116) - [Digging through the New York Times morgue](https://buttondown.email/linotypebook/archive/lbp-issue-no-5-digging-through-a-morgue/)
 * [2023-09-07, 21:52:02](https://news.ycombinator.com/item?id=37426107) - [The thinking path](https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking)
 * [2023-09-07, 20:25:09](https://news.ycombinator.com/item?id=37425052) - [China's ancient water pipe networks show no evidence of a centralized authority](https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html)
 * [2023-09-07, 20:21:01](https://news.ycombinator.com/item?id=37425007) - [NSO group iPhone zero-click, zero-day exploit captured in the wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/)

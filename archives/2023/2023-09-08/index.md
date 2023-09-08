@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
+* [2023-09-08, 16:19:12](https://news.ycombinator.com/item?id=37435656) - [SpaceX can't launch its giant rocket again until fixes are made, FAA says](https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d)
 * [2023-09-08, 16:10:55](https://news.ycombinator.com/item?id=37435515) - [Async Rust Is A Bad Language](https://bitbashing.io/async-rust.html)
 * [2023-09-08, 16:06:37](https://news.ycombinator.com/item?id=37435454) - [Microsoft’s Remarkably Big Bet on Carbon-Absorbing Rocks](https://heatmap.news/economy/heirloom-carbon-microsoft-removal)
 * [2023-09-08, 15:49:56](https://news.ycombinator.com/item?id=37435215) - [Move over lithium-ion: Zinc-air batteries a cheaper and safer alternative](https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative)
