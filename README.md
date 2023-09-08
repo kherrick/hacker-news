@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-08, 04:48:17](https://news.ycombinator.com/item?id=37429451) - [Harvard is named worst school for free speech](https://nypost.com/2023/09/06/harvard-is-named-worst-school-for-free-speech-scoring-zero-out-of-possible-100/)
-* [2023-09-08, 04:30:19](https://news.ycombinator.com/item?id=37429336) - [BMW Is Giving Up on Heated Seat Subscriptions Because People Hated Them](https://www.thedrive.com/news/bmw-is-giving-up-on-heated-seat-subscriptions-because-people-hated-them)
+* [2023-09-08, 04:30:19](https://news.ycombinator.com/item?id=37429336) - [BMW ends heated seat subscriptions because people hated them](https://www.thedrive.com/news/bmw-is-giving-up-on-heated-seat-subscriptions-because-people-hated-them)
 * [2023-09-08, 02:28:36](https://news.ycombinator.com/item?id=37428505) - [Federated benchmarking of medical artificial intelligence with MedPerf](https://www.nature.com/articles/s42256-023-00652-2)
 * [2023-09-08, 02:16:48](https://news.ycombinator.com/item?id=37428447) - [Why isn't chess popular in Japan?](https://lichess.org/@/datajunkie/blog/27-why-isnt-chess-popular-in-japan/UoEDbXUU)
 * [2023-09-08, 02:09:37](https://news.ycombinator.com/item?id=37428406) - [iOS 17 sideloading support is coming, and Apple can’t stop it](https://bgr.com/tech/ios-17-sideloading-support-is-coming-and-apple-cant-stop-it/)
@@ -28,6 +27,7 @@
 * [2023-09-07, 07:34:09](https://news.ycombinator.com/item?id=37415812) - [My Node.js is a bit Rusty](https://gal.hagever.com/posts/my-node-js-is-a-bit-rusty)
 * [2023-09-07, 07:12:50](https://news.ycombinator.com/item?id=37415677) - [A successful Git branching model (2010)](https://nvie.com/posts/a-successful-git-branching-model/)
 * [2023-09-07, 06:40:36](https://news.ycombinator.com/item?id=37415505) - [Cthulhu.jl – show type-inferred Julia code](https://github.com/JuliaDebug/Cthulhu.jl)
+* [2023-09-07, 06:38:55](https://news.ycombinator.com/item?id=37415494) - [How Query Engines Work](https://howqueryengineswork.com/)
 * [2023-09-07, 06:17:13](https://news.ycombinator.com/item?id=37415356) - [Deciphering Mary Stuart’s lost letters from 1578-1584](https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2160677)
 * [2023-09-06, 22:56:52](https://news.ycombinator.com/item?id=37412560) - [The Decomposition of Rotten Tomatoes](https://www.vulture.com/article/rotten-tomatoes-movie-rating.html)
 
