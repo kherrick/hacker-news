@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
+* [2023-09-08, 16:10:55](https://news.ycombinator.com/item?id=37435515) - [Async Rust Is A Bad Language](https://bitbashing.io/async-rust.html)
+* [2023-09-08, 16:06:37](https://news.ycombinator.com/item?id=37435454) - [Microsoft’s Remarkably Big Bet on Carbon-Absorbing Rocks](https://heatmap.news/economy/heirloom-carbon-microsoft-removal)
+* [2023-09-08, 15:49:56](https://news.ycombinator.com/item?id=37435215) - [Move over lithium-ion: Zinc-air batteries a cheaper and safer alternative](https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative)
 * [2023-09-08, 15:32:57](https://news.ycombinator.com/item?id=37434918) - [Procreate Dreams](https://procreate.com/dreams)
 * [2023-09-08, 15:17:57](https://news.ycombinator.com/item?id=37434668) - [Scientists Discover Practical Use for Leftover Coffee Grounds](https://www.sciencealert.com/scientists-discover-amazing-practical-use-for-leftover-coffee-grounds)
 * [2023-09-08, 15:01:17](https://news.ycombinator.com/item?id=37434401) - [11,196 Years Jail Sentence for Faruk Özer, CEO of Turkish Crypto Exchange Thodex](https://www.coindesk.com/policy/2023/09/08/11196-years-in-prison-for-faruk-ozer-ceo-of-collapsed-turkish-crypto-exchange-thodex/)
