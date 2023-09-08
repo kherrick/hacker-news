@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
+* [2023-09-08, 04:30:19](https://news.ycombinator.com/item?id=37429336) - [BMW Is Giving Up on Heated Seat Subscriptions Because People Hated Them](https://www.thedrive.com/news/bmw-is-giving-up-on-heated-seat-subscriptions-because-people-hated-them)
 * [2023-09-08, 03:42:30](https://news.ycombinator.com/item?id=37428975) - [The International Criminal Court Will Now Prosecute Cyberwar Crimes](https://www.wired.com/story/icc-cyberwar-crimes/)
 * [2023-09-08, 03:11:01](https://news.ycombinator.com/item?id=37428763) - [Leon Trotsky was an MI6 agent since 1918, American intelligence documents reveal](https://sovinform.net/Trotsky-MI6-agent.htm)
 * [2023-09-08, 02:46:29](https://news.ycombinator.com/item?id=37428605) - [Texas paid Bitcoin miner more than $31M to cut energy usage](https://www.cbsnews.com/news/bitcoin-mining-cryptocurrency-riot-texas-power-grid/)

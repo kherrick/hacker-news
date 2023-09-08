@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-08, 04:30:19](https://news.ycombinator.com/item?id=37429336) - [BMW Is Giving Up on Heated Seat Subscriptions Because People Hated Them](https://www.thedrive.com/news/bmw-is-giving-up-on-heated-seat-subscriptions-because-people-hated-them)
 * [2023-09-08, 02:28:36](https://news.ycombinator.com/item?id=37428505) - [Federated benchmarking of medical artificial intelligence with MedPerf](https://www.nature.com/articles/s42256-023-00652-2)
 * [2023-09-08, 02:16:48](https://news.ycombinator.com/item?id=37428447) - [Why isn't chess popular in Japan?](https://lichess.org/@/datajunkie/blog/27-why-isnt-chess-popular-in-japan/UoEDbXUU)
 * [2023-09-08, 00:53:34](https://news.ycombinator.com/item?id=37427854) - [We built an AI-powered Magic the Gathering card generator](https://txt.cohere.com/urzas-ai/)
 * [2023-09-08, 00:30:11](https://news.ycombinator.com/item?id=37427679) - [California moves to decriminalize use of magic mushrooms, other psychedelics](https://www.latimes.com/california/story/2023-09-07/california-magic-mushrooms-psychedelics-scott-wiener-psilocybin)
 * [2023-09-07, 23:46:12](https://news.ycombinator.com/item?id=37427279) - [What's new in Emacs 29.1](https://www.masteringemacs.org/article/whats-new-in-emacs-29-1)
 * [2023-09-07, 23:41:24](https://news.ycombinator.com/item?id=37427227) - [Chrome now tracks users and shares a \"topic\" list with advertisers](https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/)
-* [2023-09-07, 22:04:10](https://news.ycombinator.com/item?id=37426223) - [Searx is no longer maintained](https://github.com/searx/searx/commit/276ffd3f01cdd823f75676c51231fad4040059d3)
 * [2023-09-07, 21:55:05](https://news.ycombinator.com/item?id=37426132) - [Accidental Empires, Chapter 11 – Font Wars (1992)](https://www.cringely.com/2013/03/14/accidental-empires-chapter-11-font-wars/)
 * [2023-09-07, 21:27:38](https://news.ycombinator.com/item?id=37425855) - [I rode with an ice road trucker to the Arctic Circle](https://www.freightwaves.com/news/i-rode-with-an-ice-road-trucker-to-the-arctic-circle-heres-what-it-was-like)
 * [2023-09-07, 21:26:33](https://news.ycombinator.com/item?id=37425842) - [Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo](https://en.wikipedia.org/wiki/Buffalo_buffalo_Buffalo_buffalo_buffalo_buffalo_Buffalo_buffalo)
