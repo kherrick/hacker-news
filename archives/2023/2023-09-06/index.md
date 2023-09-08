@@ -8,6 +8,7 @@
 * [2023-09-06, 23:33:09](https://news.ycombinator.com/item?id=37412834) - [Specialized astrocytes mediate glutamatergic gliotransmission in the CNS](https://www.nature.com/articles/s41586-023-06502-w)
 * [2023-09-06, 23:28:39](https://news.ycombinator.com/item?id=37412793) - [Run ChatGPT-like LLMs on your laptop in 3 lines of code](https://github.com/amaiya/onprem)
 * [2023-09-06, 23:26:39](https://news.ycombinator.com/item?id=37412772) - [Beetle grows ‘termite’ on back to steal food](https://www.science.org/content/article/beetle-grows-termite-back-steal-food)
+* [2023-09-06, 23:21:52](https://news.ycombinator.com/item?id=37412738) - [Delivery of gene therapy through CSF conduit to rescue hearing in adult mice](https://www.science.org/doi/10.1126/scitranslmed.abq3916)
 * [2023-09-06, 23:16:05](https://news.ycombinator.com/item?id=37412698) - [jq 1.7 released](https://github.com/jqlang/jq/releases/tag/jq-1.7)
 * [2023-09-06, 23:13:57](https://news.ycombinator.com/item?id=37412683) - [College football in the US is awash with money](https://www.bbc.co.uk/sport/american-football/66713731)
 * [2023-09-06, 23:08:55](https://news.ycombinator.com/item?id=37412649) - [Scent of the afterlife? Scientists recreate recipe for Egyptian mummy balm](https://arstechnica.com/science/2023/09/scent-of-the-afterlife-scientists-recreate-recipe-for-egyptian-mummification-balm/)

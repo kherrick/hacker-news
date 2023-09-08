@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
+* [2023-09-08, 23:08:20](https://news.ycombinator.com/item?id=37440413) - [Remove my name from the [Rust] project](https://github.com/rust-lang/team/pull/1071)
 * [2023-09-08, 22:26:51](https://news.ycombinator.com/item?id=37440104) - [Defcon talk shows cops are trackable, like AirTags](https://blog.dataparty.xyz/blog/snoop-unto-them/)
 * [2023-09-08, 22:08:38](https://news.ycombinator.com/item?id=37439969) - [Differentiation is the only way to win in SaaS](https://ideahub.beehiiv.com/p/how-to-differentiate-your-saas-product)
 * [2023-09-08, 21:53:57](https://news.ycombinator.com/item?id=37439860) - [McDonald's to retire self-service soda fountains by 2032](https://www.sj-r.com/story/entertainment/dining/2023/09/08/mcdonalds-ending-self-service-soda-fountain-drink-stations/70785168007/)
