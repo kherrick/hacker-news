@@ -1,12 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-08, 23:08:20](https://news.ycombinator.com/item?id=37440413) - [Remove my name from the [Rust] project](https://github.com/rust-lang/team/pull/1071)
 * [2023-09-08, 22:26:51](https://news.ycombinator.com/item?id=37440104) - [Snoop unto them as they snoop unto you](https://blog.dataparty.xyz/blog/snoop-unto-them/)
 * [2023-09-08, 22:08:38](https://news.ycombinator.com/item?id=37439969) - [Differentiation is the only way to win in SaaS](https://ideahub.beehiiv.com/p/how-to-differentiate-your-saas-product)
 * [2023-09-08, 21:15:52](https://news.ycombinator.com/item?id=37439535) - [Decoded: GNU Coreutils (2018)](https://maizure.org/projects/decoded-gnu-coreutils/)
 * [2023-09-08, 21:03:19](https://news.ycombinator.com/item?id=37439391) - [The rxv64 Operating System: MIT's xv6, in Rust, for SMP x86_64 machines](https://github.com/dancrossnyc/rxv64)
 * [2023-09-08, 20:41:20](https://news.ycombinator.com/item?id=37439125) - [Using LD_PRELOAD to cheat, inject features and investigate programs](https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/)
-* [2023-09-08, 20:23:45](https://news.ycombinator.com/item?id=37438934) - [Consumers defrauded on Zelle are left high and dry by the banks that created it [pdf]](https://www.warren.senate.gov/imo/media/doc/ZELLE%20REPORT%20OCTOBER%202022.pdf)
 * [2023-09-08, 20:16:58](https://news.ycombinator.com/item?id=37438842) - [How to Learn Emacs (2012)](https://david.rothlis.net/emacs/howtolearn.html)
 * [2023-09-08, 19:45:08](https://news.ycombinator.com/item?id=37438478) - [Scammers can exploit email forwarding flaws to impersonate high-profile domains](https://today.ucsd.edu/story/forwarding_based_spoofing)
 * [2023-09-08, 19:11:47](https://news.ycombinator.com/item?id=37438028) - [Show HN: Conway's Game of Life in TypeScript's type system](https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts)
@@ -17,6 +15,7 @@
 * [2023-09-08, 14:41:03](https://news.ycombinator.com/item?id=37434117) - [Bun v1.0.0](https://bun.sh/blog/bun-v1.0)
 * [2023-09-08, 14:07:55](https://news.ycombinator.com/item?id=37433681) - [Flexport is rescinding a bunch of signed offer letters](https://twitter.com/typesfast/status/1700092765798048093)
 * [2023-09-08, 13:54:13](https://news.ycombinator.com/item?id=37433523) - [Emoji Generator with AI](https://emoji.fly.dev)
+* [2023-09-08, 13:42:42](https://news.ycombinator.com/item?id=37433380) - [H2Fly – Breaking the Hydrogen Barrier](https://www.h2fly.de/)
 * [2023-09-08, 13:26:45](https://news.ycombinator.com/item?id=37433186) - [Aardvark'd: The Fog Creek documentary, 18 years later](https://mtlynch.io/aardvarkd/)
 * [2023-09-08, 11:09:44](https://news.ycombinator.com/item?id=37432067) - [GitHubGuessr](https://github-guessr.vercel.app/)
 * [2023-09-08, 09:56:08](https://news.ycombinator.com/item?id=37431644) - [Touch Pianist](http://touchpianist.com/)
@@ -29,6 +28,7 @@
 * [2023-09-07, 21:53:14](https://news.ycombinator.com/item?id=37426116) - [Digging through the New York Times morgue](https://buttondown.email/linotypebook/archive/lbp-issue-no-5-digging-through-a-morgue/)
 * [2023-09-07, 21:52:02](https://news.ycombinator.com/item?id=37426107) - [The thinking path](https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking)
 * [2023-09-07, 17:22:12](https://news.ycombinator.com/item?id=37422355) - [Debugging catastrophic backtracking for regular expressions in Python](https://krishnanchandra.com/posts/regex-catastrophic-backtracking/)
+* [2023-09-07, 08:54:00](https://news.ycombinator.com/item?id=37416342) - [Sieve: An Email Filtering Language (RFC 5228)](https://www.rfc-editor.org/info/rfc5228)
 * [2023-09-06, 23:21:52](https://news.ycombinator.com/item?id=37412738) - [Delivery of gene therapy through CSF conduit to rescue hearing in adult mice](https://www.science.org/doi/10.1126/scitranslmed.abq3916)
 
 ## [Archives](archives/index.md)
