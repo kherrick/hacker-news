@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=37438478"
     ],
     [
-      "Scammers Can Exploit Email Forwarding Flaws to Impersonate High-Profile Domains",
+      "Scammers can exploit email forwarding flaws to impersonate high-profile domains",
       "https://today.ucsd.edu/story/forwarding_based_spoofing"
     ]
   ],
@@ -35,8 +35,8 @@
       "https://news.ycombinator.com/item?id=37437764"
     ],
     [
-      "Safety Inspector Fired for Finding Too Many Defects Could Cost Railroad Millions",
-      "https://jalopnik.com/safety-inspector-fired-for-finding-too-many-defects-cou-1850817520"
+      "Safety inspector fired for finding 'too many defects'",
+      "https://kstp.com/kstp-news/top-news/a-track-inspector-claimed-he-was-fired-for-reporting-too-many-defects-his-secret-recordings-may-cost-bnsf-millions/"
     ]
   ],
   [
@@ -55,18 +55,8 @@
       "https://news.ycombinator.com/item?id=37437530"
     ],
     [
-      "CVE-2023-4809: FreeBSD pf bypass when using IPv6",
+      "FreeBSD pf bypass when using IPv6",
       "https://www.enricobassetti.it/2023/09/cve-2023-4809-freebsd-pf-bypass-when-using-ipv6/"
-    ]
-  ],
-  [
-    [
-      "2023-09-08, 18:25:57",
-      "https://news.ycombinator.com/item?id=37437405"
-    ],
-    [
-      "NIST/Sematech E-Handbook of Statistical Methods",
-      "https://www.itl.nist.gov/div898/handbook/"
     ]
   ],
   [
@@ -91,16 +81,6 @@
   ],
   [
     [
-      "2023-09-08, 17:20:14",
-      "https://news.ycombinator.com/item?id=37436498"
-    ],
-    [
-      "Llama 2 on togetherAI is as bad of a privacy nightmare as OpenAI",
-      "https://together.ai/privacy"
-    ]
-  ],
-  [
-    [
       "2023-09-08, 17:01:02",
       "https://news.ycombinator.com/item?id=37436236"
     ],
@@ -117,6 +97,16 @@
     [
       "Maybe Rust isn’t a good tool for massively concurrent, userspace software",
       "https://bitbashing.io/async-rust.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-08, 16:06:37",
+      "https://news.ycombinator.com/item?id=37435454"
+    ],
+    [
+      "Heirloom Carbon: Absorbing CO2 from the air using crushed rocks",
+      "https://heatmap.news/economy/heirloom-carbon-microsoft-removal"
     ]
   ],
   [
@@ -157,6 +147,16 @@
     [
       "Large Language Models as Optimizers. +50% on Big Bench Hard",
       "https://arxiv.org/abs/2309.03409"
+    ]
+  ],
+  [
+    [
+      "2023-09-08, 14:12:27",
+      "https://news.ycombinator.com/item?id=37433743"
+    ],
+    [
+      "A Study of Malicious Code in PyPI Ecosystem",
+      "https://about.honywen.com/publication/2023ase/#"
     ]
   ],
   [
