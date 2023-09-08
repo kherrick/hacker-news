@@ -52,6 +52,7 @@
 * [2023-09-07, 15:52:09](https://news.ycombinator.com/item?id=37420812) - [John McCarthy’s collection of numerical facts for use in elisp programs](http://www-formal.stanford.edu/jmc/facts.txt)
 * [2023-09-07, 15:45:04](https://news.ycombinator.com/item?id=37420690) - [Semver violations are common, better tooling is the answer](https://predr.ag/blog/semver-violations-are-common-better-tooling-is-the-answer/)
 * [2023-09-07, 15:43:44](https://news.ycombinator.com/item?id=37420669) - [YC company copied our product, what can we do?](https://news.ycombinator.com/item?id=37420669)
+* [2023-09-07, 15:41:38](https://news.ycombinator.com/item?id=37420628) - [LLMs, RAG, and the missing storage layer for AI](https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984)
 * [2023-09-07, 15:32:54](https://news.ycombinator.com/item?id=37420458) - [TPM-backed Full Disk Encryption is coming to Ubuntu](https://ubuntu.com/blog/tpm-backed-full-disk-encryption-is-coming-to-ubuntu)
 * [2023-09-07, 15:28:45](https://news.ycombinator.com/item?id=37420382) - [Tailscale Has Partnered with Mullvad](https://mullvad.net/en/blog/2023/9/7/tailscale-has-partnered-with-mullvad/)
 * [2023-09-07, 15:22:26](https://news.ycombinator.com/item?id=37420281) - [Kagi Small Web](https://blog.kagi.com/small-web)
