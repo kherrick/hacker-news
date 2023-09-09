@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-09, 21:00:20](https://news.ycombinator.com/item?id=37450228) - [Freshpaint (YC S19) is hiring engineers to build a HIPAA compliant data platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+* [2023-09-09, 20:44:34](https://news.ycombinator.com/item?id=37450092) - ['God' is the mean opinion of your tribe](https://andersentobias.com/blog/god-is-the-mean-opinion-of-your-tribe)
 * [2023-09-09, 20:24:54](https://news.ycombinator.com/item?id=37449921) - [Alert: No Google Topics in Vivaldi](https://vivaldi.com/blog/news/alert-no-google-topics-in-vivaldi/)
 * [2023-09-09, 19:34:44](https://news.ycombinator.com/item?id=37449439) - [English cottage where John le Carré wrote Tinker Tailor Soldier Spy is for sale](https://lithub.com/look-inside-the-gorgeous-english-cottage-where-john-le-carre-wrote-tinker-tailor-soldier-spy/)
 * [2023-09-09, 18:47:54](https://news.ycombinator.com/item?id=37448914) - [Show HN: I built a Python web framework](https://github.com/ZeroIntensity/view.py)
@@ -21,7 +22,6 @@
 * [2023-09-09, 08:44:52](https://news.ycombinator.com/item?id=37443404) - [Bare-Metal Kubernetes, Part I: Talos on Hetzner](https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/)
 * [2023-09-09, 08:44:07](https://news.ycombinator.com/item?id=37443395) - [Eio 1.0 – Effects-based IO for OCaml 5](https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5)
 * [2023-09-09, 08:12:21](https://news.ycombinator.com/item?id=37443252) - [Making a newsletter backend](https://axleos.com/making-a-newsletter-backend/)
-* [2023-09-09, 06:33:32](https://news.ycombinator.com/item?id=37442810) - [The Development of the C Language (2003)](http://cm.bell-labs.co/who/dmr/chist.html)
 * [2023-09-08, 23:45:55](https://news.ycombinator.com/item?id=37440696) - [Dennis Austin, developer of PowerPoint, has died](https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/)
 * [2023-09-08, 14:15:01](https://news.ycombinator.com/item?id=37433784) - [A Teen Celebrity in 1804](https://daily.jstor.org/a-teen-celebrity-in-1804/)
 * [2023-09-08, 11:49:55](https://news.ycombinator.com/item?id=37432336) - [A small-town police officer took down a large match-fixing ring in tennis](https://www.washingtonpost.com/world/interactive/2023/tennis-match-fixing-gambling-investigation-belgium/)

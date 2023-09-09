@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-09](index.md)
 
 * [2023-09-09, 21:00:20](https://news.ycombinator.com/item?id=37450228) - [Freshpaint (YC S19) is hiring engineers to build a HIPAA compliant data platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+* [2023-09-09, 20:44:34](https://news.ycombinator.com/item?id=37450092) - ['God' is the mean opinion of your tribe](https://andersentobias.com/blog/god-is-the-mean-opinion-of-your-tribe)
 * [2023-09-09, 20:24:54](https://news.ycombinator.com/item?id=37449921) - [Alert: No Google Topics in Vivaldi](https://vivaldi.com/blog/news/alert-no-google-topics-in-vivaldi/)
 * [2023-09-09, 20:16:33](https://news.ycombinator.com/item?id=37449841) - [Tell HN: Chase online bank down due to expired SSL](https://news.ycombinator.com/item?id=37449841)
 * [2023-09-09, 19:53:38](https://news.ycombinator.com/item?id=37449620) - [Order of the Occult Hand](https://en.wikipedia.org/wiki/Order_of_the_Occult_Hand)
