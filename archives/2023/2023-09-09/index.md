@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-09](index.md)
 
+* [2023-09-09, 13:28:46](https://news.ycombinator.com/item?id=37445150) - [Why are your keyboards not wireless?](https://www.zsa.io/wireless/)
 * [2023-09-09, 12:38:00](https://news.ycombinator.com/item?id=37444631) - [Republicans just saved California’s magic mushroom bill](https://www.sfgate.com/cannabis/article/3-republicans-saved-california-magic-mushroom-bill-18354895.php)
 * [2023-09-09, 12:36:00](https://news.ycombinator.com/item?id=37444607) - [U.S. Government Is Monitoring All Global Entry Members Daily](https://www.newsweek.com/government-monitors-global-entry-travelers-daily-even-if-they-arent-traveling-1825445)
 * [2023-09-09, 12:20:20](https://news.ycombinator.com/item?id=37444477) - [CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab](https://www.livescience.com/health/cancer/crispr-used-to-reprogram-cancer-cells-into-healthy-muscle-in-the-lab)
