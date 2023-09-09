@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
+* [2023-09-08, 23:45:55](https://news.ycombinator.com/item?id=37440696) - [Dennis Austin, developer of PowerPoint, has died](https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/)
 * [2023-09-08, 23:38:39](https://news.ycombinator.com/item?id=37440631) - [LogoScale – A method for vectorizing small, crappy logos](https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0)
 * [2023-09-08, 23:17:21](https://news.ycombinator.com/item?id=37440482) - [Most bees live underground. X-ray images reveal how they build their nests](https://www.science.org/content/article/most-bees-live-underground-x-ray-images-reveal-how-they-build-their-nests)
 * [2023-09-08, 23:17:21](https://news.ycombinator.com/item?id=37440482) - [Morphology and temporal evolution of ground-nesting bee burrows](https://www.sciencedirect.com/science/article/pii/S0016706123003324)
@@ -104,6 +105,7 @@
 * [2023-09-08, 03:11:01](https://news.ycombinator.com/item?id=37428763) - [Leon Trotsky was an MI6 agent since 1918, American intelligence documents reveal](https://sovinform.net/Trotsky-MI6-agent.htm)
 * [2023-09-08, 02:46:29](https://news.ycombinator.com/item?id=37428605) - [Texas paid Bitcoin miner more than $31M to cut energy usage](https://www.cbsnews.com/news/bitcoin-mining-cryptocurrency-riot-texas-power-grid/)
 * [2023-09-08, 02:28:36](https://news.ycombinator.com/item?id=37428505) - [Nature Machine Intelligence: Federated Benchmarking of Medical AI](https://www.nature.com/articles/s42256-023-00652-2)
+* [2023-09-08, 02:26:44](https://news.ycombinator.com/item?id=37428491) - [I used a Game Boy camera for Facetime video calls in iPadOS 17](https://www.macstories.net/stories/i-used-a-game-boy-camera-for-facetime-video-calls-in-ipados-17-and-it-was-glorious/)
 * [2023-09-08, 02:16:48](https://news.ycombinator.com/item?id=37428447) - [“Why isn't chess popular in Japan?”](https://lichess.org/@/datajunkie/blog/27-why-isnt-chess-popular-in-japan/UoEDbXUU)
 * [2023-09-08, 02:09:37](https://news.ycombinator.com/item?id=37428406) - [iOS 17 sideloading support is coming, and Apple can’t stop it](https://bgr.com/tech/ios-17-sideloading-support-is-coming-and-apple-cant-stop-it/)
 * [2023-09-08, 01:58:12](https://news.ycombinator.com/item?id=37428340) - [More wild Atlantic salmon found in U.S. rivers than any time in the past decade](https://apnews.com/article/salmon-rivers-maine-recovering-endangered-fishing-174eb09c19652bcd54d4d9ee9dec2dae)
