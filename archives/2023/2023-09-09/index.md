@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-09](index.md)
 
+* [2023-09-09, 14:18:15](https://news.ycombinator.com/item?id=37445732) - [Investors account for 30 per cent of home buying in Canada, data show](https://www.theglobeandmail.com/business/article-investors-account-for-30-per-cent-of-home-buying-in-canada-data-show/)
 * [2023-09-09, 14:11:40](https://news.ycombinator.com/item?id=37445668) - [Ask HN: Will Google delete inactive gmail accounts that forward email?](https://news.ycombinator.com/item?id=37445668)
 * [2023-09-09, 14:04:37](https://news.ycombinator.com/item?id=37445582) - [Running over 20 top-notch cybersecurity tools with API](https://developer.penteston.com)
 * [2023-09-09, 13:57:41](https://news.ycombinator.com/item?id=37445484) - [Why doesn't Apple add cellular service to their laptops?](https://chat.openai.com/share/ebfa177c-5f97-4fe2-bfc0-0b593a3afeea)

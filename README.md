@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-09, 14:18:15](https://news.ycombinator.com/item?id=37445732) - [Investors account for 30 per cent of home buying in Canada, data show](https://www.theglobeandmail.com/business/article-investors-account-for-30-per-cent-of-home-buying-in-canada-data-show/)
 * [2023-09-09, 14:11:40](https://news.ycombinator.com/item?id=37445668) - [Ask HN: Will Google delete inactive gmail accounts that forward email?](https://news.ycombinator.com/item?id=37445668)
 * [2023-09-09, 14:04:37](https://news.ycombinator.com/item?id=37445582) - [Running over 20 top-notch cybersecurity tools with API](https://developer.penteston.com)
 * [2023-09-09, 13:51:33](https://news.ycombinator.com/item?id=37445401) - [Comparing 60 LLMs with a set of 20 prompts](https://benchmarks.llmonitor.com)
@@ -11,7 +12,6 @@
 * [2023-09-09, 11:42:16](https://news.ycombinator.com/item?id=37444257) - [Dennis Austin, developer of PowerPoint, has died](https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/)
 * [2023-09-09, 11:32:06](https://news.ycombinator.com/item?id=37444184) - [Ask HN: Looking for a resource on Linux kernel module development](https://news.ycombinator.com/item?id=37444184)
 * [2023-09-09, 11:27:54](https://news.ycombinator.com/item?id=37444159) - [Privacy Sandbox for the Web reaches general availability](https://privacysandbox.com/intl/en_us/news/privacy-sandbox-for-the-web-reaches-general-availability/)
-* [2023-09-09, 11:12:22](https://news.ycombinator.com/item?id=37444066) - [The Berkeley Hotel Hostage of Douglas Adams](https://www.thebookseller.com/features/berkeley-hotel-hostage)
 * [2023-09-09, 09:39:44](https://news.ycombinator.com/item?id=37443644) - [Privacy Nightmare on Wheels’: Every Car Brand Reviewed by Mozilla](https://foundation.mozilla.org/en/blog/privacy-nightmare-on-wheels-every-car-brand-reviewed-by-mozilla-including-ford-volkswagen-and-toyota-flunks-privacy-test/)
 * [2023-09-09, 09:36:58](https://news.ycombinator.com/item?id=37443634) - [Google's Statement on the UK Online Safety Bill](https://bills.parliament.uk/publications/46675/documents/1885)
 * [2023-09-09, 08:44:52](https://news.ycombinator.com/item?id=37443404) - [Bare-Metal Kubernetes, Part I: Talos on Hetzner](https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/)
