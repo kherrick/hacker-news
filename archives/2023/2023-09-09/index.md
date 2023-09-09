@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-09](index.md)
 
+* [2023-09-09, 17:58:22](https://news.ycombinator.com/item?id=37448202) - [Sam Bankman-Fried's jail conditions offer a glimpse at systemic failure](https://newsletter.mollywhite.net/p/sam-bankman-frieds-jail-conditions)
+* [2023-09-09, 17:41:46](https://news.ycombinator.com/item?id=37447980) - [Ask HN: What cool desk ideas do you have for a home office?](https://news.ycombinator.com/item?id=37447980)
 * [2023-09-09, 17:36:41](https://news.ycombinator.com/item?id=37447915) - [The End of the Subscription Era Is Coming](https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a)
 * [2023-09-09, 17:35:08](https://news.ycombinator.com/item?id=37447892) - [Block the Blue – Twitter Verified Blocker](https://chrome.google.com/webstore/detail/block-the-blue-twitter-ve/ppoilcngmmnmdhgnejcnpohiabajclgn)
 * [2023-09-09, 17:30:23](https://news.ycombinator.com/item?id=37447833) - [Smart people first in line for Covid-19 vaccines, study suggests](https://www.cidrap.umn.edu/covid-19/smart-people-first-line-covid-19-vaccines-study-suggests)
