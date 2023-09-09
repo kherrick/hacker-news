@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-09, 16:43:12](https://news.ycombinator.com/item?id=37447315) - [A History of Carrying Capacity](https://www.wsj.com/arts-culture/books/pockets-review-carrying-capacity-2245357a)
 * [2023-09-09, 16:32:12](https://news.ycombinator.com/item?id=37447195) - [Fifth Circuit: Some Federal Officials Violated 1A via Social Media Censorship [pdf]](https://www.ca5.uscourts.gov/opinions/pub/23/23-30445-CV0.pdf)
 * [2023-09-09, 16:21:10](https://news.ycombinator.com/item?id=37447080) - [A small-town police officer took down the largest matchfixing ring in tennis](https://www.msn.com/en-us/sports/tennis/the-unraveling-how-a-small-town-police-officer-took-down-the-largest-match-fixing-ring-in-tennis/ar-AA1gmhhx)
-* [2023-09-09, 15:54:15](https://news.ycombinator.com/item?id=37446790) - [The U.S. housing market vs. the Canadian housing market](https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/)
 * [2023-09-09, 15:40:14](https://news.ycombinator.com/item?id=37446644) - [Ask HN: Who here is working on DARPA AICC challenge?](https://news.ycombinator.com/item?id=37446644)
 * [2023-09-09, 15:28:44](https://news.ycombinator.com/item?id=37446502) - [Learning Zig](https://www.openmymind.net/learning_zig/)
 * [2023-09-09, 14:52:20](https://news.ycombinator.com/item?id=37446083) - [Public restrooms are hard to find in America](https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/)
@@ -27,9 +27,9 @@
 * [2023-09-07, 22:39:13](https://news.ycombinator.com/item?id=37426598) - [What happens when you shift a register by more than the register size?](https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704)
 * [2023-09-07, 13:00:40](https://news.ycombinator.com/item?id=37418278) - [Real-time Trumpet Simulation C++/Vulkan [video]](https://www.youtube.com/watch?v=rGNUHigqUBM)
 * [2023-09-07, 07:32:48](https://news.ycombinator.com/item?id=37415804) - [Intel Announces Arm Investment, Talks Up RISC-V](https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are)
+* [2023-09-07, 04:08:50](https://news.ycombinator.com/item?id=37414659) - [The Mind-Bending Math Behind Spot It (2018)](https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/)
 * [2023-09-07, 02:16:49](https://news.ycombinator.com/item?id=37413926) - [Common Pitfalls in Database Performance Testing (2018) [pdf]](https://mytherin.github.io/papers/2018-dbtest.pdf)
 * [2023-09-07, 01:15:10](https://news.ycombinator.com/item?id=37413566) - [The Power of Food for People with Dementia](https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia)
-* [2023-09-07, 00:48:16](https://news.ycombinator.com/item?id=37413387) - [Newly discovered comet Nishimura could be visible to naked eye this weekend](https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend)
 
 ## [Archives](archives/index.md)
 
