@@ -2,6 +2,7 @@
 
 * [2023-09-09, 03:42:53](https://news.ycombinator.com/item?id=37442064) - [Julia and Mojo (Modular) Mandelbrot Benchmark](https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638)
 * [2023-09-09, 03:26:37](https://news.ycombinator.com/item?id=37441982) - [FTC judge rules Intuit broke law, must stop advertising TurboTax as “free”](https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/)
+* [2023-09-09, 03:01:29](https://news.ycombinator.com/item?id=37441829) - [Teaching old C code new tricks with Nim](https://peterme.net/teaching-old-c-code-new-tricks-with-nim.html)
 * [2023-09-09, 02:38:22](https://news.ycombinator.com/item?id=37441683) - [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign)
 * [2023-09-09, 01:02:29](https://news.ycombinator.com/item?id=37441168) - [Generally Intelligent (YC S17) is hiring technical interviewers](https://news.ycombinator.com/item?id=37441168)
 * [2023-09-08, 23:38:39](https://news.ycombinator.com/item?id=37440631) - [LogoScale – A method for vectorizing small, crappy logos](https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0)
@@ -11,7 +12,6 @@
 * [2023-09-08, 21:15:52](https://news.ycombinator.com/item?id=37439535) - [Decoded: GNU Coreutils (2018)](https://maizure.org/projects/decoded-gnu-coreutils/)
 * [2023-09-08, 21:03:19](https://news.ycombinator.com/item?id=37439391) - [The rxv64 Operating System: MIT's xv6, in Rust, for SMP x86_64 machines](https://github.com/dancrossnyc/rxv64)
 * [2023-09-08, 20:41:20](https://news.ycombinator.com/item?id=37439125) - [Using LD_PRELOAD to cheat, inject features and investigate programs](https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/)
-* [2023-09-08, 20:16:58](https://news.ycombinator.com/item?id=37438842) - [How to Learn Emacs (2012)](https://david.rothlis.net/emacs/howtolearn.html)
 * [2023-09-08, 19:45:08](https://news.ycombinator.com/item?id=37438478) - [Scammers can exploit email forwarding flaws to impersonate high-profile domains](https://today.ucsd.edu/story/forwarding_based_spoofing)
 * [2023-09-08, 19:11:47](https://news.ycombinator.com/item?id=37438028) - [Show HN: Conway's Game of Life in TypeScript's type system](https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts)
 * [2023-09-08, 16:49:59](https://news.ycombinator.com/item?id=37436092) - [Cerabyte: ceramic storage poised to usher in 'yottabyte era'](https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era)
