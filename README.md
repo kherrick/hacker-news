@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-09, 21:00:20](https://news.ycombinator.com/item?id=37450228) - [Freshpaint (YC S19) is hiring engineers to build a HIPAA compliant data platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-* [2023-09-09, 20:44:34](https://news.ycombinator.com/item?id=37450092) - ['God' is the mean opinion of your tribe](https://andersentobias.com/blog/god-is-the-mean-opinion-of-your-tribe)
 * [2023-09-09, 20:24:54](https://news.ycombinator.com/item?id=37449921) - [Alert: No Google Topics in Vivaldi](https://vivaldi.com/blog/news/alert-no-google-topics-in-vivaldi/)
 * [2023-09-09, 19:34:44](https://news.ycombinator.com/item?id=37449439) - [English cottage where John le Carré wrote Tinker Tailor Soldier Spy is for sale](https://lithub.com/look-inside-the-gorgeous-english-cottage-where-john-le-carre-wrote-tinker-tailor-soldier-spy/)
 * [2023-09-09, 18:47:54](https://news.ycombinator.com/item?id=37448914) - [Show HN: I built a Python web framework](https://github.com/ZeroIntensity/view.py)
@@ -27,6 +26,7 @@
 * [2023-09-08, 11:49:55](https://news.ycombinator.com/item?id=37432336) - [A small-town police officer took down a large match-fixing ring in tennis](https://www.washingtonpost.com/world/interactive/2023/tennis-match-fixing-gambling-investigation-belgium/)
 * [2023-09-08, 04:34:38](https://news.ycombinator.com/item?id=37429362) - [Telescript (programming language)](https://en.wikipedia.org/wiki/Telescript_(programming_language))
 * [2023-09-08, 02:26:44](https://news.ycombinator.com/item?id=37428491) - [I used a Game Boy camera for Facetime video calls in iPadOS 17](https://www.macstories.net/stories/i-used-a-game-boy-camera-for-facetime-video-calls-in-ipados-17-and-it-was-glorious/)
+* [2023-09-07, 22:39:13](https://news.ycombinator.com/item?id=37426598) - [What happens when you shift a register by more than the register size?](https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704)
 * [2023-09-07, 14:50:54](https://news.ycombinator.com/item?id=37419739) - [Sequential Memory Is a Unique Human Trait](https://neurosciencenews.com/sequential-memory-human-trait-23888/)
 * [2023-09-07, 07:32:48](https://news.ycombinator.com/item?id=37415804) - [Intel announces Arm investment, talks up RISC-V](https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are)
 * [2023-09-06, 23:55:59](https://news.ycombinator.com/item?id=37413027) - [The era-defining aesthetic of “In the Mood for Love”](https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love)
