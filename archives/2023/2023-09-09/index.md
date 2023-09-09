@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-09](index.md)
 
+* [2023-09-09, 03:42:53](https://news.ycombinator.com/item?id=37442064) - [Julia and Mojo (Modular) Mandelbrot Benchmark](https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638)
 * [2023-09-09, 03:26:37](https://news.ycombinator.com/item?id=37441982) - [FTC judge rules Intuit broke law, must stop advertising TurboTax as “free”](https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/)
+* [2023-09-09, 02:38:22](https://news.ycombinator.com/item?id=37441683) - [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign)
 * [2023-09-09, 02:31:35](https://news.ycombinator.com/item?id=37441639) - [First female welder joins exclusive club](https://maysville-online.com/news/208895/first-female-welder-joins-exclusive-club)
 * [2023-09-09, 01:02:29](https://news.ycombinator.com/item?id=37441168) - [Generally Intelligent (YC S17) Is Hiring Technical Interviewers](https://news.ycombinator.com/item?id=37441168)
 * [2023-09-09, 00:55:01](https://news.ycombinator.com/item?id=37441125) - [Uber CEO’s time moonlighting as a driver sparked all-hands called 'Why we suck.'](https://www.businessinsider.com/uber-ceo-dara-khosrowshahi-company-should-have-paid-attention-drivers-2023-9)
