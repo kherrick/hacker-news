@@ -4,12 +4,17 @@
 
 ### [Archives](../../index.md) for [2023-09-09](index.md)
 
+* [2023-09-09, 17:36:41](https://news.ycombinator.com/item?id=37447915) - [The End of the Subscription Era Is Coming](https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a)
+* [2023-09-09, 17:35:08](https://news.ycombinator.com/item?id=37447892) - [Block the Blue – Twitter Verified Blocker](https://chrome.google.com/webstore/detail/block-the-blue-twitter-ve/ppoilcngmmnmdhgnejcnpohiabajclgn)
+* [2023-09-09, 17:30:23](https://news.ycombinator.com/item?id=37447833) - [Smart people first in line for Covid-19 vaccines, study suggests](https://www.cidrap.umn.edu/covid-19/smart-people-first-line-covid-19-vaccines-study-suggests)
+* [2023-09-09, 17:21:14](https://news.ycombinator.com/item?id=37447740) - [Heat pumps show how hard decarbonisation will be](https://www.economist.com/leaders/2023/09/06/heat-pumps-show-how-hard-decarbonisation-will-be)
 * [2023-09-09, 16:43:12](https://news.ycombinator.com/item?id=37447315) - [A History of Carrying Capacity](https://www.wsj.com/arts-culture/books/pockets-review-carrying-capacity-2245357a)
 * [2023-09-09, 16:32:12](https://news.ycombinator.com/item?id=37447195) - [Fifth Circuit: Some Federal Officials Violated 1A via Social Media Censorship [pdf]](https://www.ca5.uscourts.gov/opinions/pub/23/23-30445-CV0.pdf)
 * [2023-09-09, 16:21:10](https://news.ycombinator.com/item?id=37447080) - [A small-town police officer took down the largest matchfixing ring in tennis](https://www.msn.com/en-us/sports/tennis/the-unraveling-how-a-small-town-police-officer-took-down-the-largest-match-fixing-ring-in-tennis/ar-AA1gmhhx)
 * [2023-09-09, 15:54:15](https://news.ycombinator.com/item?id=37446790) - [The U.S. Housing Market vs. the Canadian Housing Market](https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/)
 * [2023-09-09, 15:40:14](https://news.ycombinator.com/item?id=37446644) - [Ask HN: Who here is working on DARPA AICC challenge?](https://news.ycombinator.com/item?id=37446644)
 * [2023-09-09, 15:34:19](https://news.ycombinator.com/item?id=37446572) - [Is there enough oxygen for a growing population?](https://www.greenlineprint.com/blog/is-there-enough-oxygen-for-a-growing-population)
+* [2023-09-09, 15:29:14](https://news.ycombinator.com/item?id=37446509) - [Birth of the Gentoo Linux Distribution](https://www.funtoo.org/Making_the_Distribution,_Part_1)
 * [2023-09-09, 15:28:44](https://news.ycombinator.com/item?id=37446502) - [Learning Zig](https://www.openmymind.net/learning_zig/)
 * [2023-09-09, 14:52:20](https://news.ycombinator.com/item?id=37446083) - [Public restrooms are hard to find in America. That’s a problem](https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/)
 * [2023-09-09, 14:38:53](https://news.ycombinator.com/item?id=37445963) - [DJI Virtual Flight (iOS) has been broken for five months](https://forum.dji.com/thread-293546-1-1.html)
