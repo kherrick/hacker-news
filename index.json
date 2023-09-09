@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-09-09, 03:42:53",
+      "https://news.ycombinator.com/item?id=37442064"
+    ],
+    [
+      "Julia and Mojo (Modular) Mandelbrot Benchmark",
+      "https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638"
+    ]
+  ],
+  [
+    [
       "2023-09-09, 03:26:37",
       "https://news.ycombinator.com/item?id=37441982"
     ],
     [
       "FTC judge rules Intuit broke law, must stop advertising TurboTax as “free”",
       "https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/"
+    ]
+  ],
+  [
+    [
+      "2023-09-09, 02:38:22",
+      "https://news.ycombinator.com/item?id=37441683"
+    ],
+    [
+      "The new Google Fonts: find what you’re looking for",
+      "https://material.io/blog/2023-google-fonts-redesign"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-09-08, 14:59:13",
-      "https://news.ycombinator.com/item?id=37434381"
-    ],
-    [
-      "Bees struggle to find flowers because of air pollution",
-      "https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution"
-    ]
-  ],
-  [
-    [
       "2023-09-08, 14:41:03",
       "https://news.ycombinator.com/item?id=37434117"
     ],
@@ -217,16 +227,6 @@
     [
       "Just how constexpr is C++20’s std:string?",
       "https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/"
-    ]
-  ],
-  [
-    [
-      "2023-09-08, 07:50:49",
-      "https://news.ycombinator.com/item?id=37430759"
-    ],
-    [
-      "Towards a new SymPy",
-      "https://oscarbenjamin.github.io/blog/czi/post1.html"
     ]
   ],
   [
