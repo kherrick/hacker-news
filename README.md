@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-09, 12:38:00](https://news.ycombinator.com/item?id=37444631) - [Republicans just saved California’s magic mushroom bill](https://www.sfgate.com/cannabis/article/3-republicans-saved-california-magic-mushroom-bill-18354895.php)
 * [2023-09-09, 12:36:00](https://news.ycombinator.com/item?id=37444607) - [U.S. Government Is Monitoring All Global Entry Members Daily](https://www.newsweek.com/government-monitors-global-entry-travelers-daily-even-if-they-arent-traveling-1825445)
 * [2023-09-09, 12:20:20](https://news.ycombinator.com/item?id=37444477) - [CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab](https://www.livescience.com/health/cancer/crispr-used-to-reprogram-cancer-cells-into-healthy-muscle-in-the-lab)
 * [2023-09-09, 12:06:48](https://news.ycombinator.com/item?id=37444386) - [Google, Meta, Amazon hiring low-paid H1B workers after US layoffs](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/trends/layoffs-google-microsoft-meta-amazon-hiring-low-paid-h1b-workers-after-us-layoffs-report-10605301.html)
@@ -28,6 +27,7 @@
 * [2023-09-07, 07:23:33](https://news.ycombinator.com/item?id=37415747) - [An Internet of PHP](https://timotijhof.net/posts/2023/an-internet-of-php/)
 * [2023-09-07, 04:09:45](https://news.ycombinator.com/item?id=37414664) - [Burakumin - \"Hamlet people\" of Japan](https://en.wikipedia.org/wiki/Burakumin)
 * [2023-09-07, 04:08:50](https://news.ycombinator.com/item?id=37414659) - [The Mind-Bending Math Behind Spot It (2018)](https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/)
+* [2023-09-07, 02:16:49](https://news.ycombinator.com/item?id=37413926) - [Common Pitfalls in Database Performance Testing (2018) [pdf]](https://mytherin.github.io/papers/2018-dbtest.pdf)
 * [2023-09-07, 01:15:10](https://news.ycombinator.com/item?id=37413566) - [The Power of Food for People with Dementia](https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia)
 * [2023-09-07, 00:48:16](https://news.ycombinator.com/item?id=37413387) - [Newly discovered comet Nishimura could be visible to naked eye this weekend](https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend)
 

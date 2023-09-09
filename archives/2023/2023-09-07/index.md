@@ -135,6 +135,7 @@
 * [2023-09-07, 02:55:56](https://news.ycombinator.com/item?id=37414217) - [California judge halts policy requiring parents be told if kids change pronouns](https://apnews.com/article/chino-valley-parental-notification-transgender-students-california-cb4deaab3d29f26bc3705ee3815a5705)
 * [2023-09-07, 02:38:25](https://news.ycombinator.com/item?id=37414080) - [Tell HN: JPMorgan Chase forcing arbitration agreement to log in](https://twitter.com/walid/status/1697611534074011700)
 * [2023-09-07, 02:25:20](https://news.ycombinator.com/item?id=37413991) - [Unreal Engine 5.3](https://www.unrealengine.com/en-US/blog/unreal-engine-5-3-is-now-available)
+* [2023-09-07, 02:16:49](https://news.ycombinator.com/item?id=37413926) - [Common Pitfalls in Database Performance Testing (2018) [pdf]](https://mytherin.github.io/papers/2018-dbtest.pdf)
 * [2023-09-07, 02:13:42](https://news.ycombinator.com/item?id=37413908) - [My favorite Erlang program (2013)](https://joearms.github.io/#2013-11-21%20My%20favorite%20Erlang%20Program)
 * [2023-09-07, 02:11:01](https://news.ycombinator.com/item?id=37413885) - [Are you an Asker or a Guesser? (2010)](https://www.theguardian.com/lifeandstyle/2010/may/08/change-life-asker-guesser)
 * [2023-09-07, 01:52:22](https://news.ycombinator.com/item?id=37413767) - [AOL Pretends to Be the Internet](https://thehistoryoftheweb.com/postscript/aol-pretends-to-be-the-internet/)
