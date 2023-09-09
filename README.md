@@ -8,6 +8,7 @@
 * [2023-09-09, 14:52:20](https://news.ycombinator.com/item?id=37446083) - [Public restrooms are hard to find in America](https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/)
 * [2023-09-09, 14:38:53](https://news.ycombinator.com/item?id=37445963) - [DJI Virtual Flight (iOS) has been broken for five months](https://forum.dji.com/thread-293546-1-1.html)
 * [2023-09-09, 14:37:45](https://news.ycombinator.com/item?id=37445951) - [PAROL6 Desktop Robot Arm](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm)
+* [2023-09-09, 14:33:19](https://news.ycombinator.com/item?id=37445905) - [Show HN: It's Like HN, but for Science](https://synthical.com/feed/simple)
 * [2023-09-09, 13:51:33](https://news.ycombinator.com/item?id=37445401) - [Comparing 60 LLMs with a set of 20 prompts](https://benchmarks.llmonitor.com)
 * [2023-09-09, 13:40:15](https://news.ycombinator.com/item?id=37445284) - [Morocco earthquake kills more than 1,000](https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208)
 * [2023-09-09, 12:20:20](https://news.ycombinator.com/item?id=37444477) - [CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab](https://www.livescience.com/health/cancer/crispr-used-to-reprogram-cancer-cells-into-healthy-muscle-in-the-lab)
@@ -27,7 +28,6 @@
 * [2023-09-07, 22:39:13](https://news.ycombinator.com/item?id=37426598) - [What happens when you shift a register by more than the register size?](https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704)
 * [2023-09-07, 13:00:40](https://news.ycombinator.com/item?id=37418278) - [Real-time Trumpet Simulation C++/Vulkan [video]](https://www.youtube.com/watch?v=rGNUHigqUBM)
 * [2023-09-07, 07:32:48](https://news.ycombinator.com/item?id=37415804) - [Intel Announces Arm Investment, Talks Up RISC-V](https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are)
-* [2023-09-07, 04:08:50](https://news.ycombinator.com/item?id=37414659) - [The Mind-Bending Math Behind Spot It (2018)](https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/)
 * [2023-09-07, 02:16:49](https://news.ycombinator.com/item?id=37413926) - [Common Pitfalls in Database Performance Testing (2018) [pdf]](https://mytherin.github.io/papers/2018-dbtest.pdf)
 * [2023-09-07, 01:15:10](https://news.ycombinator.com/item?id=37413566) - [The Power of Food for People with Dementia](https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia)
 
