@@ -2,7 +2,6 @@
 
 * [2023-09-09, 18:21:46](https://news.ycombinator.com/item?id=37448526) - [Zinc batteries that offer an alternative to lithium just got a big boost](https://www.technologyreview.com/2023/09/06/1079123/zinc-batteries-boost-eos/)
 * [2023-09-09, 18:19:00](https://news.ycombinator.com/item?id=37448476) - [Lab-grown Meat is not a Climate Change Solution](https://www.climatedrift.com/p/lab-grown-meat-is-not-a-climate-solution)
-* [2023-09-09, 17:58:22](https://news.ycombinator.com/item?id=37448202) - [Sam Bankman-Fried's jail conditions offer a glimpse at systemic failure](https://newsletter.mollywhite.net/p/sam-bankman-frieds-jail-conditions)
 * [2023-09-09, 17:41:46](https://news.ycombinator.com/item?id=37447980) - [Ask HN: What cool desk ideas do you have for a home office?](https://news.ycombinator.com/item?id=37447980)
 * [2023-09-09, 17:36:41](https://news.ycombinator.com/item?id=37447915) - [The End of the Subscription Era Is Coming](https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a)
 * [2023-09-09, 17:35:08](https://news.ycombinator.com/item?id=37447892) - [Block the Blue – Twitter Verified Blocker](https://chrome.google.com/webstore/detail/block-the-blue-twitter-ve/ppoilcngmmnmdhgnejcnpohiabajclgn)
@@ -14,7 +13,6 @@
 * [2023-09-09, 14:52:20](https://news.ycombinator.com/item?id=37446083) - [Public restrooms are hard to find in America](https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/)
 * [2023-09-09, 14:38:53](https://news.ycombinator.com/item?id=37445963) - [DJI Virtual Flight (iOS) has been broken for five months](https://forum.dji.com/thread-293546-1-1.html)
 * [2023-09-09, 14:37:45](https://news.ycombinator.com/item?id=37445951) - [PAROL6 Desktop Robot Arm](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm)
-* [2023-09-09, 14:33:19](https://news.ycombinator.com/item?id=37445905) - [Show HN: It's Like HN, but for Science](https://synthical.com/feed/simple)
 * [2023-09-09, 13:51:33](https://news.ycombinator.com/item?id=37445401) - [Asking 60 LLMs a set of 20 questions](https://benchmarks.llmonitor.com)
 * [2023-09-09, 13:40:15](https://news.ycombinator.com/item?id=37445284) - [Morocco earthquake kills more than 1,000](https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208)
 * [2023-09-09, 12:20:20](https://news.ycombinator.com/item?id=37444477) - [CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab](https://www.livescience.com/health/cancer/crispr-used-to-reprogram-cancer-cells-into-healthy-muscle-in-the-lab)
@@ -22,6 +20,7 @@
 * [2023-09-09, 11:43:59](https://news.ycombinator.com/item?id=37444268) - [Every type of plastic used by Lego (2022)](https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22)
 * [2023-09-09, 11:42:16](https://news.ycombinator.com/item?id=37444257) - [Dennis Austin, developer of PowerPoint, has died](https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/)
 * [2023-09-09, 11:12:22](https://news.ycombinator.com/item?id=37444066) - [The Berkeley Hotel Hostage of Douglas Adams](https://www.thebookseller.com/features/berkeley-hotel-hostage)
+* [2023-09-09, 09:36:58](https://news.ycombinator.com/item?id=37443634) - [Google's Statement on the UK Online Safety Bill [pdf]](https://bills.parliament.uk/publications/46675/documents/1885)
 * [2023-09-09, 08:44:52](https://news.ycombinator.com/item?id=37443404) - [Bare-Metal Kubernetes, Part I: Talos on Hetzner](https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/)
 * [2023-09-09, 08:44:07](https://news.ycombinator.com/item?id=37443395) - [Eio 1.0 – Effects-based IO for OCaml 5](https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5)
 * [2023-09-09, 06:33:32](https://news.ycombinator.com/item?id=37442810) - [The Development of the C Language (2003)](http://cm.bell-labs.co/who/dmr/chist.html)
@@ -30,6 +29,7 @@
 * [2023-09-08, 04:34:38](https://news.ycombinator.com/item?id=37429362) - [Telescript (programming language)](https://en.wikipedia.org/wiki/Telescript_(programming_language))
 * [2023-09-07, 22:39:13](https://news.ycombinator.com/item?id=37426598) - [What happens when you shift a register by more than the register size?](https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704)
 * [2023-09-07, 07:32:48](https://news.ycombinator.com/item?id=37415804) - [Intel Announces Arm Investment, Talks Up RISC-V](https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are)
+* [2023-09-07, 02:16:49](https://news.ycombinator.com/item?id=37413926) - [Common Pitfalls in Database Performance Testing (2018) [pdf]](https://mytherin.github.io/papers/2018-dbtest.pdf)
 
 ## [Archives](archives/index.md)
 
