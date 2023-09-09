@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-09-09, 13:57:41",
+      "https://news.ycombinator.com/item?id=37445484"
+    ],
+    [
+      "Why doesn't Apple add cellular service to their laptops?",
+      "https://chat.openai.com/share/ebfa177c-5f97-4fe2-bfc0-0b593a3afeea"
+    ]
+  ],
+  [
+    [
       "2023-09-09, 13:28:46",
       "https://news.ycombinator.com/item?id=37445150"
     ],
     [
       "Why are your keyboards not wireless?",
       "https://www.zsa.io/wireless/"
-    ]
-  ],
-  [
-    [
-      "2023-09-09, 12:38:00",
-      "https://news.ycombinator.com/item?id=37444631"
-    ],
-    [
-      "3 Republicans just saved California’s magic mushroom bill",
-      "https://www.sfgate.com/cannabis/article/3-republicans-saved-california-magic-mushroom-bill-18354895.php"
     ]
   ],
   [
@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-09-09, 11:58:48",
-      "https://news.ycombinator.com/item?id=37444340"
-    ],
-    [
-      "Appeals Court Rules White House Overstepped First Amendment on Social Media",
-      "https://www.nytimes.com/2023/09/08/business/appeals-court-first-amendment-social-media.html"
-    ]
-  ],
-  [
-    [
       "2023-09-09, 11:43:59",
       "https://news.ycombinator.com/item?id=37444268"
     ],
@@ -87,16 +77,6 @@
     [
       "Ask HN: Looking for a resource on Linux kernel module development",
       "https://news.ycombinator.com/item?id=37444184"
-    ]
-  ],
-  [
-    [
-      "2023-09-09, 11:20:24",
-      "https://news.ycombinator.com/item?id=37444113"
-    ],
-    [
-      "‘Stop Making Sense’ Is Back, and Talking Heads Have More to Say",
-      "https://www.nytimes.com/2023/09/09/arts/music/talking-heads-stop-making-sense.html"
     ]
   ],
   [
@@ -231,12 +211,32 @@
   ],
   [
     [
+      "2023-09-08, 04:34:38",
+      "https://news.ycombinator.com/item?id=37429362"
+    ],
+    [
+      "The Telescript Programming Language",
+      "https://en.wikipedia.org/wiki/Telescript_(programming_language)"
+    ]
+  ],
+  [
+    [
       "2023-09-07, 22:39:13",
       "https://news.ycombinator.com/item?id=37426598"
     ],
     [
       "What happens when you shift a register by more than the register size?",
       "https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704"
+    ]
+  ],
+  [
+    [
+      "2023-09-07, 17:43:12",
+      "https://news.ycombinator.com/item?id=37422705"
+    ],
+    [
+      "JIT-optimized Ruby can outperform a C extension",
+      "https://railsatscale.com/2023-08-29-ruby-outperforms-c/"
     ]
   ],
   [
