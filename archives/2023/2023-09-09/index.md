@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-09](index.md)
 
+* [2023-09-09, 15:40:14](https://news.ycombinator.com/item?id=37446644) - [Ask HN: Who here is working on DARPA AICC challenge?](https://news.ycombinator.com/item?id=37446644)
 * [2023-09-09, 14:52:20](https://news.ycombinator.com/item?id=37446083) - [Public restrooms are hard to find in America. That’s a problem](https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/)
 * [2023-09-09, 14:38:53](https://news.ycombinator.com/item?id=37445963) - [DJI Virtual Flight (iOS) has been broken for five months](https://forum.dji.com/thread-293546-1-1.html)
 * [2023-09-09, 14:37:45](https://news.ycombinator.com/item?id=37445951) - [PAROL6 Desktop Robot Arm](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm)

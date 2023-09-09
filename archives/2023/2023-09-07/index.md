@@ -84,6 +84,7 @@
 * [2023-09-07, 13:16:37](https://news.ycombinator.com/item?id=37418461) - [All You Need to Become a Servant Leader](https://effyai.substack.com/p/all-you-need-to-become-a-servant)
 * [2023-09-07, 13:13:15](https://news.ycombinator.com/item?id=37418424) - [Textual Web: TUIs for the Web](https://textual.textualize.io/blog/2023/09/06/what-is-textual-web/)
 * [2023-09-07, 13:07:31](https://news.ycombinator.com/item?id=37418351) - [NixOS just dropped Anduril as a NixCon sponsor](https://twitter.com/nixos_org/status/1699054958858121282)
+* [2023-09-07, 13:00:40](https://news.ycombinator.com/item?id=37418278) - [Real-time Trumpet Simulation C++/Vulkan [video]](https://www.youtube.com/watch?v=rGNUHigqUBM)
 * [2023-09-07, 12:45:08](https://news.ycombinator.com/item?id=37418107) - [Nintendo demoed Switch 2 to developers at Gamescom](https://www.eurogamer.net/nintendo-demoed-switch-2-to-developers-at-gamescom)
 * [2023-09-07, 12:04:02](https://news.ycombinator.com/item?id=37417698) - [Stanford DSPy: The framework for programming with foundation models](https://github.com/stanfordnlp/dspy)
 * [2023-09-07, 11:57:23](https://news.ycombinator.com/item?id=37417646) - [Snake-fury – a challenge for Haskell beginners](https://github.com/lsmor/snake-fury)
