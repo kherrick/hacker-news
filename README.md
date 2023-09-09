@@ -2,7 +2,6 @@
 
 * [2023-09-09, 03:42:53](https://news.ycombinator.com/item?id=37442064) - [Julia and Mojo (Modular) Mandelbrot Benchmark](https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638)
 * [2023-09-09, 03:26:37](https://news.ycombinator.com/item?id=37441982) - [FTC judge rules Intuit broke law, must stop advertising TurboTax as “free”](https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/)
-* [2023-09-09, 03:01:29](https://news.ycombinator.com/item?id=37441829) - [Teaching old C code new tricks with Nim](https://peterme.net/teaching-old-c-code-new-tricks-with-nim.html)
 * [2023-09-09, 02:38:22](https://news.ycombinator.com/item?id=37441683) - [The new Google Fonts: find what you’re looking for](https://material.io/blog/2023-google-fonts-redesign)
 * [2023-09-09, 01:02:29](https://news.ycombinator.com/item?id=37441168) - [Generally Intelligent (YC S17) is hiring technical interviewers](https://news.ycombinator.com/item?id=37441168)
 * [2023-09-08, 23:38:39](https://news.ycombinator.com/item?id=37440631) - [LogoScale – A method for vectorizing small, crappy logos](https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0)
@@ -23,6 +22,7 @@
 * [2023-09-08, 09:24:25](https://news.ycombinator.com/item?id=37431433) - [ASMesh: Anonymous, Secure Messaging in Mesh Networks](https://eprint.iacr.org/2023/1053)
 * [2023-09-08, 09:23:27](https://news.ycombinator.com/item?id=37431425) - [Just how constexpr is C++20’s std:string?](https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/)
 * [2023-09-08, 05:16:57](https://news.ycombinator.com/item?id=37429645) - [Arctic Code Vault](https://archiveprogram.github.com/arctic-vault/)
+* [2023-09-07, 21:53:14](https://news.ycombinator.com/item?id=37426116) - [Digging through the New York Times morgue](https://buttondown.email/linotypebook/archive/lbp-issue-no-5-digging-through-a-morgue/)
 * [2023-09-07, 21:52:02](https://news.ycombinator.com/item?id=37426107) - [The thinking path](https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking)
 * [2023-09-07, 17:43:12](https://news.ycombinator.com/item?id=37422705) - [Ruby Outperforms C: Breaking the Catch-22](https://railsatscale.com/2023-08-29-ruby-outperforms-c/)
 * [2023-09-07, 13:21:17](https://news.ycombinator.com/item?id=37418528) - [TurboGP: A flexible and advanced Python based GP library](https://arxiv.org/abs/2309.00149)
