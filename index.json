@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=37442810"
     ],
     [
-      "The Development of the C Language",
+      "The Development of the C Language (2003)",
       "http://cm.bell-labs.co/who/dmr/chist.html"
     ]
   ],
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=37442064"
     ],
     [
-      "Julia and Mojo (Modular) Mandelbrot Benchmark",
+      "Julia and Mojo Mandelbrot Benchmark",
       "https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638"
     ]
   ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=37441683"
     ],
     [
-      "The new Google Fonts: find what you’re looking for",
+      "Redesigned Google Fonts website",
       "https://material.io/blog/2023-google-fonts-redesign"
     ]
   ],
@@ -106,7 +106,7 @@
     ],
     [
       "Morphology and temporal evolution of ground-nesting bee burrows",
-      "https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040"
+      "https://www.sciencedirect.com/science/article/pii/S0016706123003324"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=37422705"
     ],
     [
-      "Ruby Outperforms C: Breaking the Catch-22",
+      "JIT-optimized Ruby code can outperform a C extension",
       "https://railsatscale.com/2023-08-29-ruby-outperforms-c/"
     ]
   ],
