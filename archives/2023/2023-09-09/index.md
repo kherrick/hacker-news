@@ -6,6 +6,8 @@
 
 * [2023-09-09, 12:06:48](https://news.ycombinator.com/item?id=37444386) - [Google, Meta, Amazon hiring low-paid H1B workers after US layoffs](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/trends/layoffs-google-microsoft-meta-amazon-hiring-low-paid-h1b-workers-after-us-layoffs-report-10605301.html)
 * [2023-09-09, 12:01:05](https://news.ycombinator.com/item?id=37444354) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+* [2023-09-09, 11:58:48](https://news.ycombinator.com/item?id=37444340) - [Appeals Court Rules White House Overstepped First Amendment on Social Media](https://www.nytimes.com/2023/09/08/business/appeals-court-first-amendment-social-media.html)
+* [2023-09-09, 11:43:59](https://news.ycombinator.com/item?id=37444268) - [Every Type of Plastic Used by Lego](https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22)
 * [2023-09-09, 11:42:16](https://news.ycombinator.com/item?id=37444257) - [Dennis Austin, the software developer of PowerPoint, dies at 76](https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/)
 * [2023-09-09, 11:32:06](https://news.ycombinator.com/item?id=37444184) - [Ask HN: Looking for a resource on Linux kernel module development](https://news.ycombinator.com/item?id=37444184)
 * [2023-09-09, 11:20:24](https://news.ycombinator.com/item?id=37444113) - [‘Stop Making Sense’ Is Back, and Talking Heads Have More to Say](https://www.nytimes.com/2023/09/09/arts/music/talking-heads-stop-making-sense.html)
