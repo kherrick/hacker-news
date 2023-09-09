@@ -24,10 +24,10 @@
 * [2023-09-08, 09:24:25](https://news.ycombinator.com/item?id=37431433) - [ASMesh: Anonymous, Secure Messaging in Mesh Networks](https://eprint.iacr.org/2023/1053)
 * [2023-09-08, 09:23:27](https://news.ycombinator.com/item?id=37431425) - [Just how constexpr is C++20’s std:string?](https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/)
 * [2023-09-08, 05:16:57](https://news.ycombinator.com/item?id=37429645) - [Arctic Code Vault](https://archiveprogram.github.com/arctic-vault/)
-* [2023-09-07, 21:53:14](https://news.ycombinator.com/item?id=37426116) - [Digging through the New York Times morgue](https://buttondown.email/linotypebook/archive/lbp-issue-no-5-digging-through-a-morgue/)
 * [2023-09-07, 21:52:02](https://news.ycombinator.com/item?id=37426107) - [The thinking path](https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking)
 * [2023-09-07, 13:21:17](https://news.ycombinator.com/item?id=37418528) - [TurboGP: A flexible and advanced Python based GP library](https://arxiv.org/abs/2309.00149)
 * [2023-09-07, 06:34:22](https://news.ycombinator.com/item?id=37415456) - [Cisco Systems and Financialization](https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization)
+* [2023-09-07, 01:15:10](https://news.ycombinator.com/item?id=37413566) - [The Power of Food for People with Dementia](https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia)
 * [2023-09-07, 00:48:16](https://news.ycombinator.com/item?id=37413387) - [Newly discovered comet Nishimura could be visible to naked eye this weekend](https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend)
 * [2023-09-06, 23:21:52](https://news.ycombinator.com/item?id=37412738) - [Delivery of gene therapy through CSF conduit to rescue hearing in adult mice](https://www.science.org/doi/10.1126/scitranslmed.abq3916)
 

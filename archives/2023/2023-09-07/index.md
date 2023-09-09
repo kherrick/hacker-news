@@ -133,6 +133,7 @@
 * [2023-09-07, 02:11:01](https://news.ycombinator.com/item?id=37413885) - [Are you an Asker or a Guesser? (2010)](https://www.theguardian.com/lifeandstyle/2010/may/08/change-life-asker-guesser)
 * [2023-09-07, 01:52:22](https://news.ycombinator.com/item?id=37413767) - [AOL Pretends to Be the Internet](https://thehistoryoftheweb.com/postscript/aol-pretends-to-be-the-internet/)
 * [2023-09-07, 01:35:26](https://news.ycombinator.com/item?id=37413681) - [Cal Newport: Overstimulation Is Ruining Your Life](https://mindmatters.ai/2023/09/cal-newport-over-stimulation-is-ruining-your-life/)
+* [2023-09-07, 01:15:10](https://news.ycombinator.com/item?id=37413566) - [The Power of Food for People with Dementia](https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia)
 * [2023-09-07, 01:05:46](https://news.ycombinator.com/item?id=37413498) - [National Film Board of Canada](https://www.nfb.ca/)
 * [2023-09-07, 00:48:16](https://news.ycombinator.com/item?id=37413387) - [Newly discovered comet Nishimura could be visible to naked eye this weekend](https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend)
 * [2023-09-07, 00:47:34](https://news.ycombinator.com/item?id=37413383) - [Astronomers discover new quiescent galaxy](https://phys.org/news/2023-09-astronomers-massive-quiescent-galaxy.html)
