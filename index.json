@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-09-09, 05:36:22",
+      "https://news.ycombinator.com/item?id=37442574"
+    ],
+    [
+      "Advanced NLP with SpaCy",
+      "https://course.spacy.io/en/"
+    ]
+  ],
+  [
+    [
       "2023-09-09, 03:42:53",
       "https://news.ycombinator.com/item?id=37442064"
     ],
@@ -27,16 +37,6 @@
     [
       "FTC judge rules Intuit broke law, must stop advertising TurboTax as “free”",
       "https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/"
-    ]
-  ],
-  [
-    [
-      "2023-09-09, 03:01:29",
-      "https://news.ycombinator.com/item?id=37441829"
-    ],
-    [
-      "Teaching old C code new tricks with Nim",
-      "https://peterme.net/teaching-old-c-code-new-tricks-with-nim.html"
     ]
   ],
   [
@@ -127,16 +127,6 @@
     [
       "Using LD_PRELOAD to cheat, inject features and investigate programs",
       "https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/"
-    ]
-  ],
-  [
-    [
-      "2023-09-08, 20:16:58",
-      "https://news.ycombinator.com/item?id=37438842"
-    ],
-    [
-      "How to Learn Emacs (2012)",
-      "https://david.rothlis.net/emacs/howtolearn.html"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "TurboGP: A flexible and advanced Python based GP library",
       "https://arxiv.org/abs/2309.00149"
+    ]
+  ],
+  [
+    [
+      "2023-09-07, 07:23:33",
+      "https://news.ycombinator.com/item?id=37415747"
+    ],
+    [
+      "An Internet of PHP",
+      "https://timotijhof.net/posts/2023/an-internet-of-php/"
     ]
   ],
   [
