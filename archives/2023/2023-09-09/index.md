@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-09](index.md)
 
+* [2023-09-09, 21:00:20](https://news.ycombinator.com/item?id=37450228) - [Freshpaint (YC S19) is hiring engineers to build a HIPAA compliant data platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+* [2023-09-09, 20:24:54](https://news.ycombinator.com/item?id=37449921) - [Alert: No Google Topics in Vivaldi](https://vivaldi.com/blog/news/alert-no-google-topics-in-vivaldi/)
 * [2023-09-09, 19:53:38](https://news.ycombinator.com/item?id=37449620) - [Order of the Occult Hand](https://en.wikipedia.org/wiki/Order_of_the_Occult_Hand)
 * [2023-09-09, 19:37:12](https://news.ycombinator.com/item?id=37449462) - [Show HN: Flexport still has 50 open positions](https://www.flexport.com/careers/jobs/)
 * [2023-09-09, 19:34:44](https://news.ycombinator.com/item?id=37449439) - [English cottage where John le Carré wrote Tinker Tailor Soldier Spy is for sale](https://lithub.com/look-inside-the-gorgeous-english-cottage-where-john-le-carre-wrote-tinker-tailor-soldier-spy/)
