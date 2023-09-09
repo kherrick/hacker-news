@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-09](index.md)
 
+* [2023-09-09, 12:38:00](https://news.ycombinator.com/item?id=37444631) - [Republicans just saved California’s magic mushroom bill](https://www.sfgate.com/cannabis/article/3-republicans-saved-california-magic-mushroom-bill-18354895.php)
+* [2023-09-09, 12:36:00](https://news.ycombinator.com/item?id=37444607) - [U.S. Government Is Monitoring All Global Entry Members Daily](https://www.newsweek.com/government-monitors-global-entry-travelers-daily-even-if-they-arent-traveling-1825445)
+* [2023-09-09, 12:20:20](https://news.ycombinator.com/item?id=37444477) - [CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab](https://www.livescience.com/health/cancer/crispr-used-to-reprogram-cancer-cells-into-healthy-muscle-in-the-lab)
 * [2023-09-09, 12:06:48](https://news.ycombinator.com/item?id=37444386) - [Google, Meta, Amazon hiring low-paid H1B workers after US layoffs](https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/trends/layoffs-google-microsoft-meta-amazon-hiring-low-paid-h1b-workers-after-us-layoffs-report-10605301.html)
 * [2023-09-09, 12:01:05](https://news.ycombinator.com/item?id=37444354) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-09-09, 11:58:48](https://news.ycombinator.com/item?id=37444340) - [Appeals Court Rules White House Overstepped First Amendment on Social Media](https://www.nytimes.com/2023/09/08/business/appeals-court-first-amendment-social-media.html)
