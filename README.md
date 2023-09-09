@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-09, 03:26:37](https://news.ycombinator.com/item?id=37441982) - [FTC judge rules Intuit broke law, must stop advertising TurboTax as “free”](https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/)
 * [2023-09-09, 01:02:29](https://news.ycombinator.com/item?id=37441168) - [Generally Intelligent (YC S17) is hiring technical interviewers](https://news.ycombinator.com/item?id=37441168)
-* [2023-09-09, 00:55:01](https://news.ycombinator.com/item?id=37441125) - [Dara Khosrowshahi had a stint driving for Uber and delivering for Uber Eats](https://www.businessinsider.com/uber-ceo-dara-khosrowshahi-company-should-have-paid-attention-drivers-2023-9)
 * [2023-09-08, 23:38:39](https://news.ycombinator.com/item?id=37440631) - [LogoScale – A method for vectorizing small, crappy logos](https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0)
 * [2023-09-08, 23:17:21](https://news.ycombinator.com/item?id=37440482) - [Morphology and temporal evolution of ground-nesting bee burrows](https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040)
 * [2023-09-08, 22:26:51](https://news.ycombinator.com/item?id=37440104) - [Snoop unto them as they snoop unto you](https://blog.dataparty.xyz/blog/snoop-unto-them/)
@@ -26,9 +26,9 @@
 * [2023-09-08, 05:16:57](https://news.ycombinator.com/item?id=37429645) - [Arctic Code Vault](https://archiveprogram.github.com/arctic-vault/)
 * [2023-09-07, 21:53:14](https://news.ycombinator.com/item?id=37426116) - [Digging through the New York Times morgue](https://buttondown.email/linotypebook/archive/lbp-issue-no-5-digging-through-a-morgue/)
 * [2023-09-07, 21:52:02](https://news.ycombinator.com/item?id=37426107) - [The thinking path](https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking)
-* [2023-09-07, 06:34:22](https://news.ycombinator.com/item?id=37415456) - [Losing Out in Critical Technologies: Cisco Systems and Financialization](https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization)
+* [2023-09-07, 13:21:17](https://news.ycombinator.com/item?id=37418528) - [TurboGP: A flexible and advanced Python based GP library](https://arxiv.org/abs/2309.00149)
+* [2023-09-07, 06:34:22](https://news.ycombinator.com/item?id=37415456) - [Cisco Systems and Financialization](https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization)
 * [2023-09-07, 00:48:16](https://news.ycombinator.com/item?id=37413387) - [Newly discovered comet Nishimura could be visible to naked eye this weekend](https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend)
-* [2023-09-06, 23:39:18](https://news.ycombinator.com/item?id=37412887) - ['How do you know when your art is good?'](https://www.ask-polly.com/p/how-do-you-know-when-your-art-is)
 * [2023-09-06, 23:21:52](https://news.ycombinator.com/item?id=37412738) - [Delivery of gene therapy through CSF conduit to rescue hearing in adult mice](https://www.science.org/doi/10.1126/scitranslmed.abq3916)
 
 ## [Archives](archives/index.md)

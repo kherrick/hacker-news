@@ -77,6 +77,7 @@
 * [2023-09-07, 14:16:54](https://news.ycombinator.com/item?id=37419220) - [Texas just got closer to blackouts than it has since 2021. What happened?](https://www.kut.org/energy-environment/2023-09-07/texas-just-got-closer-to-blackouts-than-it-has-since-2021-what-happened)
 * [2023-09-07, 14:07:18](https://news.ycombinator.com/item?id=37419107) - [Arduino raises $22M Series B round](https://blog.arduino.cc/2023/09/06/what-will-we-do-with-an-additional-22m/)
 * [2023-09-07, 14:01:50](https://news.ycombinator.com/item?id=37419049) - [Ernie, China's ChatGPT, Cracks Under Pressure](https://www.chinatalk.media/p/how-ernie-chinas-chatgpt-cracks-under)
+* [2023-09-07, 13:21:17](https://news.ycombinator.com/item?id=37418528) - [TurboGP: A flexible and advanced Python based GP library](https://arxiv.org/abs/2309.00149)
 * [2023-09-07, 13:20:31](https://news.ycombinator.com/item?id=37418519) - [ASML to Ship First High-NA EUV Tool This Year: $300M per Scanner](https://www.tomshardware.com/news/asml-to-ship-first-high-na-euv-tool-this-year-dollar300-million-per-scanner)
 * [2023-09-07, 13:16:37](https://news.ycombinator.com/item?id=37418461) - [All You Need to Become a Servant Leader](https://effyai.substack.com/p/all-you-need-to-become-a-servant)
 * [2023-09-07, 13:13:15](https://news.ycombinator.com/item?id=37418424) - [Textual Web: TUIs for the Web](https://textual.textualize.io/blog/2023/09/06/what-is-textual-web/)
