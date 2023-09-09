@@ -70,6 +70,7 @@
 * [2023-09-07, 15:02:08](https://news.ycombinator.com/item?id=37419932) - [PgCompute: New PostgreSQL Client-Side Extension for Database Functions](https://www.yugabyte.com/blog/pgcompute-postgresql-extension-database-functions/)
 * [2023-09-07, 15:00:15](https://news.ycombinator.com/item?id=37419886) - [Show HN: Retool AI](https://retool.com/products/ai)
 * [2023-09-07, 14:58:59](https://news.ycombinator.com/item?id=37419864) - [Are Any Words the Same in All Languages?](https://blog.duolingo.com/words-shared-in-all-languages/)
+* [2023-09-07, 14:50:54](https://news.ycombinator.com/item?id=37419739) - [Sequential Memory Is a Unique Human Trait](https://neurosciencenews.com/sequential-memory-human-trait-23888/)
 * [2023-09-07, 14:50:09](https://news.ycombinator.com/item?id=37419723) - [Mod kept failure of best tank quiet (2007)](https://www.telegraph.co.uk/news/uknews/1551418/MoD-kept-failure-of-best-tank-quiet.html)
 * [2023-09-07, 14:36:13](https://news.ycombinator.com/item?id=37419518) - [Running a 180B parameter LLM on a single Apple M2 Ultra](https://twitter.com/ggerganov/status/1699791226780975439)
 * [2023-09-07, 14:34:41](https://news.ycombinator.com/item?id=37419493) - [Co-founder of DeepMind on how AI threatens to reshape life as we know it](https://www.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it)

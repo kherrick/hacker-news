@@ -68,6 +68,7 @@
 * [2023-09-09, 08:44:52](https://news.ycombinator.com/item?id=37443404) - [Bare-Metal Kubernetes, Part I: Talos on Hetzner](https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/)
 * [2023-09-09, 08:44:07](https://news.ycombinator.com/item?id=37443395) - [Eio 1.0 – Effects-based IO for OCaml 5](https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5)
 * [2023-09-09, 08:17:33](https://news.ycombinator.com/item?id=37443280) - [Bitwarden has been disabled in Chrome [img]](https://imgur.com/XPmU2FX)
+* [2023-09-09, 08:12:21](https://news.ycombinator.com/item?id=37443252) - [Making a newsletter backend](https://axleos.com/making-a-newsletter-backend/)
 * [2023-09-09, 07:17:06](https://news.ycombinator.com/item?id=37442998) - [X challenges California’s new transparency law as unconstitutional](https://techcrunch.com/2023/09/08/twitter-x-elon-musk-california-moderation-transparency-law-as-unconstitutional-ab-587/)
 * [2023-09-09, 07:04:40](https://news.ycombinator.com/item?id=37442927) - [Experts fear crooks are cracking keys stolen in LastPass breach](https://krebsonsecurity.com/)
 * [2023-09-09, 07:02:21](https://news.ycombinator.com/item?id=37442922) - [Library of Short Stories – An online library of public domain short stories](https://www.libraryofshortstories.com/)
