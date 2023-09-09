@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-09, 16:32:12](https://news.ycombinator.com/item?id=37447195) - [Fifth Circuit: Some Federal Officials Violated 1A via Social Media Censorship [pdf]](https://www.ca5.uscourts.gov/opinions/pub/23/23-30445-CV0.pdf)
 * [2023-09-09, 15:54:15](https://news.ycombinator.com/item?id=37446790) - [The U.S. Housing Market vs. the Canadian Housing Market](https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/)
 * [2023-09-09, 15:40:14](https://news.ycombinator.com/item?id=37446644) - [Ask HN: Who here is working on DARPA AICC challenge?](https://news.ycombinator.com/item?id=37446644)
 * [2023-09-09, 15:34:19](https://news.ycombinator.com/item?id=37446572) - [Is there enough oxygen for a growing population?](https://www.greenlineprint.com/blog/is-there-enough-oxygen-for-a-growing-population)
@@ -22,7 +23,6 @@
 * [2023-09-09, 06:33:32](https://news.ycombinator.com/item?id=37442810) - [The Development of the C Language (2003)](http://cm.bell-labs.co/who/dmr/chist.html)
 * [2023-09-09, 05:56:03](https://news.ycombinator.com/item?id=37442649) - [Embeddable Common Lisp 23.9.9](https://ecl.common-lisp.dev/posts/ECL-2399-release.html)
 * [2023-09-09, 05:36:22](https://news.ycombinator.com/item?id=37442574) - [Advanced NLP with SpaCy](https://course.spacy.io/en/)
-* [2023-09-09, 03:42:53](https://news.ycombinator.com/item?id=37442064) - [Julia and Mojo Mandelbrot Benchmark](https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638)
 * [2023-09-08, 08:01:09](https://news.ycombinator.com/item?id=37430842) - [Michael Taylor on the Development of the M1 Garand and Its Implications](https://acoup.blog/2023/09/08/michael-taylor-on-the-development-of-the-m1-garand-and-its-implications/)
 * [2023-09-08, 04:34:38](https://news.ycombinator.com/item?id=37429362) - [The Telescript Programming Language](https://en.wikipedia.org/wiki/Telescript_(programming_language))
 * [2023-09-07, 22:39:13](https://news.ycombinator.com/item?id=37426598) - [What happens when you shift a register by more than the register size?](https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704)

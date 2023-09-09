@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-09](index.md)
 
+* [2023-09-09, 16:32:12](https://news.ycombinator.com/item?id=37447195) - [Fifth Circuit: Some Federal Officials Violated 1A via Social Media Censorship [pdf]](https://www.ca5.uscourts.gov/opinions/pub/23/23-30445-CV0.pdf)
 * [2023-09-09, 15:54:15](https://news.ycombinator.com/item?id=37446790) - [The U.S. Housing Market vs. the Canadian Housing Market](https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/)
 * [2023-09-09, 15:40:14](https://news.ycombinator.com/item?id=37446644) - [Ask HN: Who here is working on DARPA AICC challenge?](https://news.ycombinator.com/item?id=37446644)
 * [2023-09-09, 15:34:19](https://news.ycombinator.com/item?id=37446572) - [Is there enough oxygen for a growing population?](https://www.greenlineprint.com/blog/is-there-enough-oxygen-for-a-growing-population)
