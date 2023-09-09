@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-09, 21:15:44](https://news.ycombinator.com/item?id=37450356) - [Our Self-Driving Cars Will Save Lives, but They Will Kill Some of You First](https://www.mcsweeneys.net/articles/our-self-driving-cars-will-save-countless-lives-but-they-will-kill-some-of-you-first)
 * [2023-09-09, 21:00:20](https://news.ycombinator.com/item?id=37450228) - [Freshpaint (YC S19) is hiring engineers to build a HIPAA compliant data platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-09-09, 20:24:54](https://news.ycombinator.com/item?id=37449921) - [No Google Topics in Vivaldi](https://vivaldi.com/blog/news/alert-no-google-topics-in-vivaldi/)
-* [2023-09-09, 19:34:44](https://news.ycombinator.com/item?id=37449439) - [English cottage where John le Carré wrote Tinker Tailor Soldier Spy is for sale](https://lithub.com/look-inside-the-gorgeous-english-cottage-where-john-le-carre-wrote-tinker-tailor-soldier-spy/)
 * [2023-09-09, 18:47:54](https://news.ycombinator.com/item?id=37448914) - [Show HN: I built a Python web framework](https://github.com/ZeroIntensity/view.py)
 * [2023-09-09, 18:30:39](https://news.ycombinator.com/item?id=37448659) - [SmartKnob – Haptic input knob with software-defined endstops and virtual detents](https://github.com/scottbez1/smartknob)
 * [2023-09-09, 18:23:18](https://news.ycombinator.com/item?id=37448554) - [On Desktop GUI Minimalism](https://mycophobia.org/desktop_gui_minimalism.html)

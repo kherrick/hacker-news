@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-09](index.md)
 
+* [2023-09-09, 21:15:44](https://news.ycombinator.com/item?id=37450356) - [Our Self-Driving Cars Will Save Lives, but They Will Kill Some of You First](https://www.mcsweeneys.net/articles/our-self-driving-cars-will-save-countless-lives-but-they-will-kill-some-of-you-first)
 * [2023-09-09, 21:00:20](https://news.ycombinator.com/item?id=37450228) - [Freshpaint (YC S19) is hiring engineers to build a HIPAA compliant data platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-09-09, 20:44:34](https://news.ycombinator.com/item?id=37450092) - ['God' is the mean opinion of your tribe](https://andersentobias.com/blog/god-is-the-mean-opinion-of-your-tribe)
 * [2023-09-09, 20:24:54](https://news.ycombinator.com/item?id=37449921) - [Alert: No Google Topics in Vivaldi](https://vivaldi.com/blog/news/alert-no-google-topics-in-vivaldi/)
