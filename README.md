@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-09, 14:52:20](https://news.ycombinator.com/item?id=37446083) - [Public restrooms are hard to find in America. That’s a problem](https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/)
 * [2023-09-09, 14:38:53](https://news.ycombinator.com/item?id=37445963) - [DJI Virtual Flight (iOS) has been broken for five months](https://forum.dji.com/thread-293546-1-1.html)
 * [2023-09-09, 14:37:45](https://news.ycombinator.com/item?id=37445951) - [PAROL6 Desktop Robot Arm](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm)
 * [2023-09-09, 14:37:39](https://news.ycombinator.com/item?id=37445947) - [Binance is facing liquidity issues on certain blockchains](https://twitter.com/coinfabrik/status/1700495960151912518)
@@ -20,6 +19,7 @@
 * [2023-09-09, 09:36:58](https://news.ycombinator.com/item?id=37443634) - [Google's Statement on the UK Online Safety Bill](https://bills.parliament.uk/publications/46675/documents/1885)
 * [2023-09-09, 08:44:52](https://news.ycombinator.com/item?id=37443404) - [Bare-Metal Kubernetes, Part I: Talos on Hetzner](https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/)
 * [2023-09-09, 08:44:07](https://news.ycombinator.com/item?id=37443395) - [Eio 1.0 – Effects-based IO for OCaml 5](https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5)
+* [2023-09-09, 07:02:21](https://news.ycombinator.com/item?id=37442922) - [Library of Short Stories – An online library of public domain short stories](https://www.libraryofshortstories.com/)
 * [2023-09-09, 06:33:32](https://news.ycombinator.com/item?id=37442810) - [The Development of the C Language (2003)](http://cm.bell-labs.co/who/dmr/chist.html)
 * [2023-09-09, 05:56:03](https://news.ycombinator.com/item?id=37442649) - [Embeddable Common Lisp 23.9.9](https://ecl.common-lisp.dev/posts/ECL-2399-release.html)
 * [2023-09-09, 05:36:22](https://news.ycombinator.com/item?id=37442574) - [Advanced NLP with SpaCy](https://course.spacy.io/en/)
