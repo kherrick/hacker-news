@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-09-09](index.md)
 
+* [2023-09-09, 18:21:46](https://news.ycombinator.com/item?id=37448526) - [Zinc batteries that offer an alternative to lithium just got a big boost](https://www.technologyreview.com/2023/09/06/1079123/zinc-batteries-boost-eos/)
+* [2023-09-09, 18:19:00](https://news.ycombinator.com/item?id=37448476) - [Lab-grown Meat is not a Climate Change Solution](https://www.climatedrift.com/p/lab-grown-meat-is-not-a-climate-solution)
 * [2023-09-09, 17:58:22](https://news.ycombinator.com/item?id=37448202) - [Sam Bankman-Fried's jail conditions offer a glimpse at systemic failure](https://newsletter.mollywhite.net/p/sam-bankman-frieds-jail-conditions)
 * [2023-09-09, 17:41:46](https://news.ycombinator.com/item?id=37447980) - [Ask HN: What cool desk ideas do you have for a home office?](https://news.ycombinator.com/item?id=37447980)
 * [2023-09-09, 17:36:41](https://news.ycombinator.com/item?id=37447915) - [The End of the Subscription Era Is Coming](https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a)
 * [2023-09-09, 17:35:08](https://news.ycombinator.com/item?id=37447892) - [Block the Blue – Twitter Verified Blocker](https://chrome.google.com/webstore/detail/block-the-blue-twitter-ve/ppoilcngmmnmdhgnejcnpohiabajclgn)
 * [2023-09-09, 17:30:23](https://news.ycombinator.com/item?id=37447833) - [Smart people first in line for Covid-19 vaccines, study suggests](https://www.cidrap.umn.edu/covid-19/smart-people-first-line-covid-19-vaccines-study-suggests)
+* [2023-09-09, 17:27:52](https://news.ycombinator.com/item?id=37447810) - [Existing in an Un-Simulated Reality](https://iahwrites.substack.com/p/existing-in-an-un-simulated-reality)
 * [2023-09-09, 17:21:14](https://news.ycombinator.com/item?id=37447740) - [Heat pumps show how hard decarbonisation will be](https://www.economist.com/leaders/2023/09/06/heat-pumps-show-how-hard-decarbonisation-will-be)
 * [2023-09-09, 16:56:08](https://news.ycombinator.com/item?id=37447445) - [Show HN: Productonboarding.com – Mobbin for SaaS product onboarding](https://productonboarding.com)
 * [2023-09-09, 16:43:12](https://news.ycombinator.com/item?id=37447315) - [A History of Carrying Capacity](https://www.wsj.com/arts-culture/books/pockets-review-carrying-capacity-2245357a)
