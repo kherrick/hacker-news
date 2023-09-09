@@ -6,6 +6,8 @@
 
 * [2023-09-09, 14:52:20](https://news.ycombinator.com/item?id=37446083) - [Public restrooms are hard to find in America. That’s a problem](https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/)
 * [2023-09-09, 14:38:53](https://news.ycombinator.com/item?id=37445963) - [DJI Virtual Flight (iOS) has been broken for five months](https://forum.dji.com/thread-293546-1-1.html)
+* [2023-09-09, 14:37:45](https://news.ycombinator.com/item?id=37445951) - [PAROL6 Desktop Robot Arm](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm)
+* [2023-09-09, 14:37:39](https://news.ycombinator.com/item?id=37445947) - [Binance is facing liquidity issues on certain blockchains](https://twitter.com/coinfabrik/status/1700495960151912518)
 * [2023-09-09, 14:18:15](https://news.ycombinator.com/item?id=37445732) - [Investors account for 30 per cent of home buying in Canada, data show](https://www.theglobeandmail.com/business/article-investors-account-for-30-per-cent-of-home-buying-in-canada-data-show/)
 * [2023-09-09, 14:11:40](https://news.ycombinator.com/item?id=37445668) - [Ask HN: Will Google delete inactive gmail accounts that forward email?](https://news.ycombinator.com/item?id=37445668)
 * [2023-09-09, 14:04:37](https://news.ycombinator.com/item?id=37445582) - [Running over 20 top-notch cybersecurity tools with API](https://developer.penteston.com)
