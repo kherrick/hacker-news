@@ -10,6 +10,7 @@
 * [2023-09-09, 18:21:46](https://news.ycombinator.com/item?id=37448526) - [Zinc batteries that offer an alternative to lithium just got a big boost](https://www.technologyreview.com/2023/09/06/1079123/zinc-batteries-boost-eos/)
 * [2023-09-09, 18:19:00](https://news.ycombinator.com/item?id=37448476) - [Lab-grown Meat is not a Climate Change Solution](https://www.climatedrift.com/p/lab-grown-meat-is-not-a-climate-solution)
 * [2023-09-09, 18:17:56](https://news.ycombinator.com/item?id=37448460) - [You might want async in your project](https://notgull.net/why-you-want-async/)
+* [2023-09-09, 18:00:45](https://news.ycombinator.com/item?id=37448231) - [Fifth Circuit Rules White House, CDC Violated First Amendment [pdf]](https://www.ca5.uscourts.gov/opinions/pub/23/23-30445-CV0.pdf)
 * [2023-09-09, 17:58:22](https://news.ycombinator.com/item?id=37448202) - [Sam Bankman-Fried's jail conditions offer a glimpse at systemic failure](https://newsletter.mollywhite.net/p/sam-bankman-frieds-jail-conditions)
 * [2023-09-09, 17:43:11](https://news.ycombinator.com/item?id=37448005) - [Show HN: WhatsApp-Llama: A clone of yourself from your WhatsApp conversations](https://github.com/Ads-cmu/WhatsApp-Llama)
 * [2023-09-09, 17:41:46](https://news.ycombinator.com/item?id=37447980) - [Ask HN: What cool desk ideas do you have for a home office?](https://news.ycombinator.com/item?id=37447980)

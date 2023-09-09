@@ -4,6 +4,7 @@
 * [2023-09-09, 18:53:07](https://news.ycombinator.com/item?id=37449001) - [Australia to give cats a curfew because they are murdering so many other animals](https://www.insider.com/australia-considers-cat-curfews-household-limits-to-protect-biodiversity-2023-9)
 * [2023-09-09, 18:47:54](https://news.ycombinator.com/item?id=37448914) - [Show HN: I built a Python web framework from scratch](https://github.com/ZeroIntensity/view.py)
 * [2023-09-09, 18:17:56](https://news.ycombinator.com/item?id=37448460) - [You might want async in your project](https://notgull.net/why-you-want-async/)
+* [2023-09-09, 18:00:45](https://news.ycombinator.com/item?id=37448231) - [Fifth Circuit Rules White House, CDC Violated First Amendment [pdf]](https://www.ca5.uscourts.gov/opinions/pub/23/23-30445-CV0.pdf)
 * [2023-09-09, 17:43:11](https://news.ycombinator.com/item?id=37448005) - [Show HN: WhatsApp-Llama: A clone of yourself from your WhatsApp conversations](https://github.com/Ads-cmu/WhatsApp-Llama)
 * [2023-09-09, 17:36:41](https://news.ycombinator.com/item?id=37447915) - [The end of the subscription era is coming](https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a)
 * [2023-09-09, 17:27:52](https://news.ycombinator.com/item?id=37447810) - [Existing in an Un-Simulated Reality](https://iahwrites.substack.com/p/existing-in-an-un-simulated-reality)
@@ -29,7 +30,6 @@
 * [2023-09-08, 02:26:44](https://news.ycombinator.com/item?id=37428491) - [I used a Game Boy camera for Facetime video calls in iPadOS 17](https://www.macstories.net/stories/i-used-a-game-boy-camera-for-facetime-video-calls-in-ipados-17-and-it-was-glorious/)
 * [2023-09-07, 22:39:13](https://news.ycombinator.com/item?id=37426598) - [What happens when you shift a register by more than the register size?](https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704)
 * [2023-09-07, 07:32:48](https://news.ycombinator.com/item?id=37415804) - [Intel announces Arm investment, talks up RISC-V](https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are)
-* [2023-09-07, 02:16:49](https://news.ycombinator.com/item?id=37413926) - [Common Pitfalls in Database Performance Testing (2018) [pdf]](https://mytherin.github.io/papers/2018-dbtest.pdf)
 
 ## [Archives](archives/index.md)
 
