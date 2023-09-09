@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-09](index.md)
 
+* [2023-09-09, 19:37:12](https://news.ycombinator.com/item?id=37449462) - [Show HN: Flexport still has 50 open positions](https://www.flexport.com/careers/jobs/)
 * [2023-09-09, 19:31:50](https://news.ycombinator.com/item?id=37449413) - [Half of Glaciers Vanish with 1.5 Degrees of Warming](https://www.nasa.gov/feature/esnt/2023/nasa-funded-study-half-of-glaciers-vanish-with-1-point-5-degrees-of-warming/)
 * [2023-09-09, 18:53:07](https://news.ycombinator.com/item?id=37449001) - [Australia to give cats a curfew because they are murdering so many other animals](https://www.insider.com/australia-considers-cat-curfews-household-limits-to-protect-biodiversity-2023-9)
 * [2023-09-09, 18:47:54](https://news.ycombinator.com/item?id=37448914) - [Show HN: I built a Python web framework from scratch](https://github.com/ZeroIntensity/view.py)
@@ -19,6 +20,7 @@
 * [2023-09-09, 17:30:23](https://news.ycombinator.com/item?id=37447833) - [Smart people first in line for Covid-19 vaccines, study suggests](https://www.cidrap.umn.edu/covid-19/smart-people-first-line-covid-19-vaccines-study-suggests)
 * [2023-09-09, 17:27:52](https://news.ycombinator.com/item?id=37447810) - [Existing in an Un-Simulated Reality](https://iahwrites.substack.com/p/existing-in-an-un-simulated-reality)
 * [2023-09-09, 17:21:14](https://news.ycombinator.com/item?id=37447740) - [Heat pumps show how hard decarbonisation will be](https://www.economist.com/leaders/2023/09/06/heat-pumps-show-how-hard-decarbonisation-will-be)
+* [2023-09-09, 17:00:33](https://news.ycombinator.com/item?id=37447505) - [YIMBYs Keep Winning](https://www.slowboring.com/p/yimbys-keep-winning)
 * [2023-09-09, 16:56:08](https://news.ycombinator.com/item?id=37447445) - [Show HN: Productonboarding.com – Mobbin for SaaS product onboarding](https://productonboarding.com)
 * [2023-09-09, 16:43:12](https://news.ycombinator.com/item?id=37447315) - [A History of Carrying Capacity](https://www.wsj.com/arts-culture/books/pockets-review-carrying-capacity-2245357a)
 * [2023-09-09, 16:32:12](https://news.ycombinator.com/item?id=37447195) - [Fifth Circuit: Some Federal Officials Violated 1A via Social Media Censorship [pdf]](https://www.ca5.uscourts.gov/opinions/pub/23/23-30445-CV0.pdf)
