@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-09-09](index.md)
 
+* [2023-09-09, 11:42:16](https://news.ycombinator.com/item?id=37444257) - [Dennis Austin, the software developer of PowerPoint, dies at 76](https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/)
 * [2023-09-09, 11:32:06](https://news.ycombinator.com/item?id=37444184) - [Ask HN: Looking for a resource on Linux kernel module development](https://news.ycombinator.com/item?id=37444184)
+* [2023-09-09, 11:20:24](https://news.ycombinator.com/item?id=37444113) - [‘Stop Making Sense’ Is Back, and Talking Heads Have More to Say](https://www.nytimes.com/2023/09/09/arts/music/talking-heads-stop-making-sense.html)
 * [2023-09-09, 09:39:44](https://news.ycombinator.com/item?id=37443644) - [Privacy Nightmare on Wheels’: Every Car Brand Reviewed by Mozilla](https://foundation.mozilla.org/en/blog/privacy-nightmare-on-wheels-every-car-brand-reviewed-by-mozilla-including-ford-volkswagen-and-toyota-flunks-privacy-test/)
+* [2023-09-09, 08:44:52](https://news.ycombinator.com/item?id=37443404) - [Bare-Metal Kubernetes, Part I: Talos on Hetzner](https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/)
 * [2023-09-09, 08:44:07](https://news.ycombinator.com/item?id=37443395) - [Eio 1.0 – Effects-based IO for OCaml 5](https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5)
 * [2023-09-09, 08:17:33](https://news.ycombinator.com/item?id=37443280) - [Bitwarden has been disabled in Chrome [img]](https://imgur.com/XPmU2FX)
 * [2023-09-09, 07:17:06](https://news.ycombinator.com/item?id=37442998) - [X challenges California’s new transparency law as unconstitutional](https://techcrunch.com/2023/09/08/twitter-x-elon-musk-california-moderation-transparency-law-as-unconstitutional-ab-587/)

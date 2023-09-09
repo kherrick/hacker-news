@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-09, 11:42:16](https://news.ycombinator.com/item?id=37444257) - [Dennis Austin, the software developer of PowerPoint, dies at 76](https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/)
 * [2023-09-09, 11:32:06](https://news.ycombinator.com/item?id=37444184) - [Ask HN: Looking for a resource on Linux kernel module development](https://news.ycombinator.com/item?id=37444184)
+* [2023-09-09, 11:20:24](https://news.ycombinator.com/item?id=37444113) - [‘Stop Making Sense’ Is Back, and Talking Heads Have More to Say](https://www.nytimes.com/2023/09/09/arts/music/talking-heads-stop-making-sense.html)
 * [2023-09-09, 09:39:44](https://news.ycombinator.com/item?id=37443644) - [Privacy Nightmare on Wheels’: Every Car Brand Reviewed by Mozilla](https://foundation.mozilla.org/en/blog/privacy-nightmare-on-wheels-every-car-brand-reviewed-by-mozilla-including-ford-volkswagen-and-toyota-flunks-privacy-test/)
+* [2023-09-09, 08:44:52](https://news.ycombinator.com/item?id=37443404) - [Bare-Metal Kubernetes, Part I: Talos on Hetzner](https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/)
 * [2023-09-09, 08:44:07](https://news.ycombinator.com/item?id=37443395) - [Eio 1.0 – Effects-based IO for OCaml 5](https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5)
 * [2023-09-09, 07:04:40](https://news.ycombinator.com/item?id=37442927) - [Experts fear crooks are cracking keys stolen in LastPass breach](https://krebsonsecurity.com/)
 * [2023-09-09, 07:02:21](https://news.ycombinator.com/item?id=37442922) - [Library of Short Stories – An online library of public domain short stories](https://www.libraryofshortstories.com/)
@@ -17,10 +20,6 @@
 * [2023-09-08, 22:26:51](https://news.ycombinator.com/item?id=37440104) - [Snoop unto them as they snoop unto you](https://blog.dataparty.xyz/blog/snoop-unto-them/)
 * [2023-09-08, 21:15:52](https://news.ycombinator.com/item?id=37439535) - [Decoded: GNU Coreutils (2018)](https://maizure.org/projects/decoded-gnu-coreutils/)
 * [2023-09-08, 21:03:19](https://news.ycombinator.com/item?id=37439391) - [The rxv64 Operating System: MIT's xv6, in Rust, for SMP x86_64 machines](https://github.com/dancrossnyc/rxv64)
-* [2023-09-08, 20:41:20](https://news.ycombinator.com/item?id=37439125) - [Using LD_PRELOAD to cheat, inject features and investigate programs](https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/)
-* [2023-09-08, 19:45:08](https://news.ycombinator.com/item?id=37438478) - [Scammers can exploit email forwarding flaws to impersonate high-profile domains](https://today.ucsd.edu/story/forwarding_based_spoofing)
-* [2023-09-08, 19:11:47](https://news.ycombinator.com/item?id=37438028) - [Show HN: Conway's Game of Life in TypeScript's type system](https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts)
-* [2023-09-08, 09:23:27](https://news.ycombinator.com/item?id=37431425) - [Just how constexpr is C++20’s std:string?](https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/)
 * [2023-09-08, 06:57:52](https://news.ycombinator.com/item?id=37430388) - [Deltic – King of Diesels [video]](https://www.youtube.com/watch?v=KvaVc_xbUss)
 * [2023-09-07, 22:39:13](https://news.ycombinator.com/item?id=37426598) - [What happens when you shift a register by more than the register size?](https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704)
 * [2023-09-07, 17:43:12](https://news.ycombinator.com/item?id=37422705) - [JIT-optimized Ruby can outperform a C extension](https://railsatscale.com/2023-08-29-ruby-outperforms-c/)
@@ -30,6 +29,7 @@
 * [2023-09-07, 04:08:50](https://news.ycombinator.com/item?id=37414659) - [The Mind-Bending Math Behind Spot It (2018)](https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/)
 * [2023-09-07, 01:15:10](https://news.ycombinator.com/item?id=37413566) - [The Power of Food for People with Dementia](https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia)
 * [2023-09-07, 00:48:16](https://news.ycombinator.com/item?id=37413387) - [Newly discovered comet Nishimura could be visible to naked eye this weekend](https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend)
+* [2023-09-06, 23:21:52](https://news.ycombinator.com/item?id=37412738) - [Delivery of gene therapy through CSF conduit to rescue hearing in adult mice](https://www.science.org/doi/10.1126/scitranslmed.abq3916)
 
 ## [Archives](archives/index.md)
 
