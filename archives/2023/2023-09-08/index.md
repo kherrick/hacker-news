@@ -71,6 +71,7 @@
 * [2023-09-08, 12:25:24](https://news.ycombinator.com/item?id=37432622) - [NASA's Oxygen-Generating Experiment Moxie Completes Mars Mission](https://mars.nasa.gov/news/9474/nasas-oxygen-generating-experiment-moxie-completes-mars-mission/)
 * [2023-09-08, 12:00:41](https://news.ycombinator.com/item?id=37432420) - [PolicyFly (YC W22) Is Hiring a Senior Solutions Engineer (Remote)](https://www.ycombinator.com/companies/policyfly/jobs/32uV7Bg-senior-solutions-engineer)
 * [2023-09-08, 11:57:59](https://news.ycombinator.com/item?id=37432399) - [Price shock: IBM to increase cloud costs by up to 26% in 2024 – CIO](https://www.cio.com/article/651215/price-shock-ibm-to-increase-cloud-costs-by-up-to-26-from-2024.html)
+* [2023-09-08, 11:49:55](https://news.ycombinator.com/item?id=37432336) - [A small-town police officer took down a large match-fixing ring in tennis](https://www.washingtonpost.com/world/interactive/2023/tennis-match-fixing-gambling-investigation-belgium/)
 * [2023-09-08, 11:39:07](https://news.ycombinator.com/item?id=37432247) - [Flexport Rescinding Job Offers](https://twitter.com/typesfast/status/1700092765798048093?s=46&t=8Tb0Q2Q5idtWP7ImXKJ0rw)
 * [2023-09-08, 11:09:44](https://news.ycombinator.com/item?id=37432067) - [GitHubGuessr](https://github-guessr.vercel.app/)
 * [2023-09-08, 10:45:13](https://news.ycombinator.com/item?id=37431962) - [NYPD spent millions to contract with firm banned by Meta for fake profiles](https://www.theguardian.com/us-news/2023/sep/08/new-york-police-tracking-voyager-labs-meta-contract)
