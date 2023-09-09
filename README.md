@@ -19,7 +19,7 @@
 * [2023-09-08, 20:41:20](https://news.ycombinator.com/item?id=37439125) - [Using LD_PRELOAD to cheat, inject features and investigate programs](https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/)
 * [2023-09-08, 19:45:08](https://news.ycombinator.com/item?id=37438478) - [Scammers can exploit email forwarding flaws to impersonate high-profile domains](https://today.ucsd.edu/story/forwarding_based_spoofing)
 * [2023-09-08, 19:11:47](https://news.ycombinator.com/item?id=37438028) - [Show HN: Conway's Game of Life in TypeScript's type system](https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts)
-* [2023-09-08, 16:10:55](https://news.ycombinator.com/item?id=37435515) - [Maybe Rust isn’t a good tool for massively concurrent, userspace software](https://bitbashing.io/async-rust.html)
+* [2023-09-08, 13:26:45](https://news.ycombinator.com/item?id=37433186) - [Aardvark'd: The Fog Creek documentary, 18 years later](https://mtlynch.io/aardvarkd/)
 * [2023-09-08, 09:56:08](https://news.ycombinator.com/item?id=37431644) - [Touch Pianist](http://touchpianist.com/)
 * [2023-09-08, 09:23:27](https://news.ycombinator.com/item?id=37431425) - [Just how constexpr is C++20’s std:string?](https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/)
 * [2023-09-08, 06:57:52](https://news.ycombinator.com/item?id=37430388) - [Deltic – King of Diesels [video]](https://www.youtube.com/watch?v=KvaVc_xbUss)
