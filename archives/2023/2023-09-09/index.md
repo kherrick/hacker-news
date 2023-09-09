@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-09](index.md)
 
+* [2023-09-09, 06:33:32](https://news.ycombinator.com/item?id=37442810) - [The Development of the C Language](http://cm.bell-labs.co/who/dmr/chist.html)
 * [2023-09-09, 06:00:57](https://news.ycombinator.com/item?id=37442671) - [As wildfires burn across the world, what is the role of Australia's eucalyptus?](https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264)
+* [2023-09-09, 05:56:03](https://news.ycombinator.com/item?id=37442649) - [Embeddable Common Lisp 23.9.9](https://ecl.common-lisp.dev/posts/ECL-2399-release.html)
 * [2023-09-09, 05:36:22](https://news.ycombinator.com/item?id=37442574) - [Advanced NLP with SpaCy](https://course.spacy.io/en/)
 * [2023-09-09, 03:42:53](https://news.ycombinator.com/item?id=37442064) - [Julia and Mojo (Modular) Mandelbrot Benchmark](https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638)
 * [2023-09-09, 03:26:37](https://news.ycombinator.com/item?id=37441982) - [FTC judge rules Intuit broke law, must stop advertising TurboTax as “free”](https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/)
