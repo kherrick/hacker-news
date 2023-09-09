@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-09-09](index.md)
 
+* [2023-09-09, 18:53:07](https://news.ycombinator.com/item?id=37449001) - [Australia to give cats a curfew because they are murdering so many other animals](https://www.insider.com/australia-considers-cat-curfews-household-limits-to-protect-biodiversity-2023-9)
 * [2023-09-09, 18:47:54](https://news.ycombinator.com/item?id=37448914) - [Show HN: I built a Python web framework from scratch](https://github.com/ZeroIntensity/view.py)
 * [2023-09-09, 18:21:46](https://news.ycombinator.com/item?id=37448526) - [Zinc batteries that offer an alternative to lithium just got a big boost](https://www.technologyreview.com/2023/09/06/1079123/zinc-batteries-boost-eos/)
 * [2023-09-09, 18:19:00](https://news.ycombinator.com/item?id=37448476) - [Lab-grown Meat is not a Climate Change Solution](https://www.climatedrift.com/p/lab-grown-meat-is-not-a-climate-solution)
 * [2023-09-09, 18:17:56](https://news.ycombinator.com/item?id=37448460) - [You might want async in your project](https://notgull.net/why-you-want-async/)
 * [2023-09-09, 17:58:22](https://news.ycombinator.com/item?id=37448202) - [Sam Bankman-Fried's jail conditions offer a glimpse at systemic failure](https://newsletter.mollywhite.net/p/sam-bankman-frieds-jail-conditions)
+* [2023-09-09, 17:43:11](https://news.ycombinator.com/item?id=37448005) - [Show HN: WhatsApp-Llama: A clone of yourself from your WhatsApp conversations](https://github.com/Ads-cmu/WhatsApp-Llama)
 * [2023-09-09, 17:41:46](https://news.ycombinator.com/item?id=37447980) - [Ask HN: What cool desk ideas do you have for a home office?](https://news.ycombinator.com/item?id=37447980)
 * [2023-09-09, 17:36:41](https://news.ycombinator.com/item?id=37447915) - [The End of the Subscription Era Is Coming](https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a)
 * [2023-09-09, 17:35:08](https://news.ycombinator.com/item?id=37447892) - [Block the Blue – Twitter Verified Blocker](https://chrome.google.com/webstore/detail/block-the-blue-twitter-ve/ppoilcngmmnmdhgnejcnpohiabajclgn)
