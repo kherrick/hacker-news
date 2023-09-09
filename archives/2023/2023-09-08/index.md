@@ -87,6 +87,7 @@
 * [2023-09-08, 07:25:22](https://news.ycombinator.com/item?id=37430579) - [The Servo project is joining Linux Foundation Europe](https://www.igalia.com/2023/09/07/The-Servo-project-is-joining-Linux-Foundation-Europe.html)
 * [2023-09-08, 07:21:22](https://news.ycombinator.com/item?id=37430557) - [Slack AI](https://slack.com/ai?nojsmode=1)
 * [2023-09-08, 07:11:50](https://news.ycombinator.com/item?id=37430491) - [Do you struggle to find ethical work?](https://news.ycombinator.com/item?id=37430491)
+* [2023-09-08, 06:57:52](https://news.ycombinator.com/item?id=37430388) - [Deltic – King of Diesels [video]](https://www.youtube.com/watch?v=KvaVc_xbUss)
 * [2023-09-08, 06:57:33](https://news.ycombinator.com/item?id=37430384) - [Coincidentally-identical waypoint names foxed UK air traffic control system](https://www.flightglobal.com/safety/coincidentally-identical-waypoint-names-foxed-uk-air-traffic-control-system/154824.article)
 * [2023-09-08, 06:51:55](https://news.ycombinator.com/item?id=37430345) - [Keith Haring’s Never-Before-Seen Computer Drawings Are Hitting the Block](https://news.artnet.com/market/keith-haring-amiga-drawings-nfts-christies-2355175)
 * [2023-09-08, 05:59:40](https://news.ycombinator.com/item?id=37429938) - [Lean 4.0](https://github.com/leanprover/lean4/releases/tag/v4.0.0)
