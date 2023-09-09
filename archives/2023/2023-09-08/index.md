@@ -94,6 +94,7 @@
 * [2023-09-08, 05:57:27](https://news.ycombinator.com/item?id=37429922) - [Unpacking Elixir: Syntax](https://underjord.io/unpacking-elixir-syntax.html)
 * [2023-09-08, 05:16:57](https://news.ycombinator.com/item?id=37429645) - [Artic Code Vault](https://archiveprogram.github.com/arctic-vault/)
 * [2023-09-08, 04:48:17](https://news.ycombinator.com/item?id=37429451) - [Harvard is named worst school for free speech](https://nypost.com/2023/09/06/harvard-is-named-worst-school-for-free-speech-scoring-zero-out-of-possible-100/)
+* [2023-09-08, 04:34:38](https://news.ycombinator.com/item?id=37429362) - [The Telescript Programming Language](https://en.wikipedia.org/wiki/Telescript_(programming_language))
 * [2023-09-08, 04:30:19](https://news.ycombinator.com/item?id=37429336) - [BMW Is Giving Up on Heated Seat Subscriptions Because People Hated Them](https://www.thedrive.com/news/bmw-is-giving-up-on-heated-seat-subscriptions-because-people-hated-them)
 * [2023-09-08, 03:42:30](https://news.ycombinator.com/item?id=37428975) - [The International Criminal Court Will Now Prosecute Cyberwar Crimes](https://www.wired.com/story/icc-cyberwar-crimes/)
 * [2023-09-08, 03:36:11](https://news.ycombinator.com/item?id=37428937) - [Critical ignoring as a core competence for digital citizens (2022)](https://journals.sagepub.com/doi/epub/10.1177/09637214221121570)
