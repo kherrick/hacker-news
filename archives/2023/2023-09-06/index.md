@@ -7,6 +7,7 @@
 * [2023-09-06, 23:55:59](https://news.ycombinator.com/item?id=37413027) - [The Era-Defining Aesthetic of “In the Mood for Love”](https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love)
 * [2023-09-06, 23:43:00](https://news.ycombinator.com/item?id=37412915) - [Wikimedia DNS](https://meta.wikimedia.org/wiki/Wikimedia_DNS)
 * [2023-09-06, 23:39:18](https://news.ycombinator.com/item?id=37412887) - ['How Do You Know When Your Art Is Good?'](https://www.ask-polly.com/p/how-do-you-know-when-your-art-is)
+* [2023-09-06, 23:35:23](https://news.ycombinator.com/item?id=37412845) - [Researchers use AI to find new magnetic materials without critical elements](https://phys.org/news/2023-09-ai-magnetic-materials-critical-elements.html)
 * [2023-09-06, 23:33:09](https://news.ycombinator.com/item?id=37412834) - [Specialized astrocytes mediate glutamatergic gliotransmission in the CNS](https://www.nature.com/articles/s41586-023-06502-w)
 * [2023-09-06, 23:28:39](https://news.ycombinator.com/item?id=37412793) - [Run ChatGPT-like LLMs on your laptop in 3 lines of code](https://github.com/amaiya/onprem)
 * [2023-09-06, 23:26:39](https://news.ycombinator.com/item?id=37412772) - [Beetle grows ‘termite’ on back to steal food](https://www.science.org/content/article/beetle-grows-termite-back-steal-food)

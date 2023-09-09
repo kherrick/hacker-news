@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-09, 21:00:20](https://news.ycombinator.com/item?id=37450228) - [Freshpaint (YC S19) is hiring engineers to build a HIPAA compliant data platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-* [2023-09-09, 20:24:54](https://news.ycombinator.com/item?id=37449921) - [Alert: No Google Topics in Vivaldi](https://vivaldi.com/blog/news/alert-no-google-topics-in-vivaldi/)
+* [2023-09-09, 20:24:54](https://news.ycombinator.com/item?id=37449921) - [No Google Topics in Vivaldi](https://vivaldi.com/blog/news/alert-no-google-topics-in-vivaldi/)
 * [2023-09-09, 19:34:44](https://news.ycombinator.com/item?id=37449439) - [English cottage where John le Carré wrote Tinker Tailor Soldier Spy is for sale](https://lithub.com/look-inside-the-gorgeous-english-cottage-where-john-le-carre-wrote-tinker-tailor-soldier-spy/)
 * [2023-09-09, 18:47:54](https://news.ycombinator.com/item?id=37448914) - [Show HN: I built a Python web framework](https://github.com/ZeroIntensity/view.py)
 * [2023-09-09, 18:30:39](https://news.ycombinator.com/item?id=37448659) - [SmartKnob – Haptic input knob with software-defined endstops and virtual detents](https://github.com/scottbez1/smartknob)
+* [2023-09-09, 18:23:18](https://news.ycombinator.com/item?id=37448554) - [On Desktop GUI Minimalism](https://mycophobia.org/desktop_gui_minimalism.html)
 * [2023-09-09, 18:17:56](https://news.ycombinator.com/item?id=37448460) - [Why you might want async in your project](https://notgull.net/why-you-want-async/)
 * [2023-09-09, 17:43:11](https://news.ycombinator.com/item?id=37448005) - [Show HN: WhatsApp-Llama: A clone of yourself from your WhatsApp conversations](https://github.com/Ads-cmu/WhatsApp-Llama)
 * [2023-09-09, 17:27:52](https://news.ycombinator.com/item?id=37447810) - [Existing in an Un-Simulated Reality](https://iahwrites.substack.com/p/existing-in-an-un-simulated-reality)
@@ -17,7 +18,6 @@
 * [2023-09-09, 13:51:33](https://news.ycombinator.com/item?id=37445401) - [Asking 60 LLMs a set of 20 questions](https://benchmarks.llmonitor.com)
 * [2023-09-09, 11:43:59](https://news.ycombinator.com/item?id=37444268) - [Every type of plastic used by LEGO (2022)](https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22)
 * [2023-09-09, 11:12:22](https://news.ycombinator.com/item?id=37444066) - [The Berkeley Hotel Hostage of Douglas Adams](https://www.thebookseller.com/features/berkeley-hotel-hostage)
-* [2023-09-09, 09:36:58](https://news.ycombinator.com/item?id=37443634) - [Google's Statement on the UK Online Safety Bill [pdf]](https://bills.parliament.uk/publications/46675/documents/1885)
 * [2023-09-09, 08:44:52](https://news.ycombinator.com/item?id=37443404) - [Bare-Metal Kubernetes, Part I: Talos on Hetzner](https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/)
 * [2023-09-09, 08:44:07](https://news.ycombinator.com/item?id=37443395) - [Eio 1.0 – Effects-based IO for OCaml 5](https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5)
 * [2023-09-09, 08:12:21](https://news.ycombinator.com/item?id=37443252) - [Making a newsletter backend](https://axleos.com/making-a-newsletter-backend/)
@@ -26,10 +26,10 @@
 * [2023-09-08, 11:49:55](https://news.ycombinator.com/item?id=37432336) - [A small-town police officer took down a large match-fixing ring in tennis](https://www.washingtonpost.com/world/interactive/2023/tennis-match-fixing-gambling-investigation-belgium/)
 * [2023-09-08, 04:34:38](https://news.ycombinator.com/item?id=37429362) - [Telescript (programming language)](https://en.wikipedia.org/wiki/Telescript_(programming_language))
 * [2023-09-08, 02:26:44](https://news.ycombinator.com/item?id=37428491) - [I used a Game Boy camera for Facetime video calls in iPadOS 17](https://www.macstories.net/stories/i-used-a-game-boy-camera-for-facetime-video-calls-in-ipados-17-and-it-was-glorious/)
-* [2023-09-07, 22:39:13](https://news.ycombinator.com/item?id=37426598) - [What happens when you shift a register by more than the register size?](https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704)
 * [2023-09-07, 14:50:54](https://news.ycombinator.com/item?id=37419739) - [Sequential Memory Is a Unique Human Trait](https://neurosciencenews.com/sequential-memory-human-trait-23888/)
 * [2023-09-07, 07:32:48](https://news.ycombinator.com/item?id=37415804) - [Intel announces Arm investment, talks up RISC-V](https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are)
 * [2023-09-06, 23:55:59](https://news.ycombinator.com/item?id=37413027) - [The era-defining aesthetic of “In the Mood for Love”](https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love)
+* [2023-09-06, 23:35:23](https://news.ycombinator.com/item?id=37412845) - [Researchers use AI to find new magnetic materials without critical elements](https://phys.org/news/2023-09-ai-magnetic-materials-critical-elements.html)
 
 ## [Archives](archives/index.md)
 
