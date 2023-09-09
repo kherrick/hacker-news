@@ -22,6 +22,7 @@
 * [2023-09-08, 19:11:47](https://news.ycombinator.com/item?id=37438028) - [Show HN: Conway's Game of Life in TypeScript's type system](https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts)
 * [2023-09-08, 09:23:27](https://news.ycombinator.com/item?id=37431425) - [Just how constexpr is C++20’s std:string?](https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/)
 * [2023-09-08, 06:57:52](https://news.ycombinator.com/item?id=37430388) - [Deltic – King of Diesels [video]](https://www.youtube.com/watch?v=KvaVc_xbUss)
+* [2023-09-07, 22:39:13](https://news.ycombinator.com/item?id=37426598) - [What happens when you shift a register by more than the register size?](https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704)
 * [2023-09-07, 17:43:12](https://news.ycombinator.com/item?id=37422705) - [JIT-optimized Ruby can outperform a C extension](https://railsatscale.com/2023-08-29-ruby-outperforms-c/)
 * [2023-09-07, 10:18:43](https://news.ycombinator.com/item?id=37416882) - [Creative Money Aesthetics](https://andjelicaaa.substack.com/p/creative-money-aesthetics)
 * [2023-09-07, 07:23:33](https://news.ycombinator.com/item?id=37415747) - [An Internet of PHP](https://timotijhof.net/posts/2023/an-internet-of-php/)
@@ -29,7 +30,6 @@
 * [2023-09-07, 04:08:50](https://news.ycombinator.com/item?id=37414659) - [The Mind-Bending Math Behind Spot It (2018)](https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/)
 * [2023-09-07, 01:15:10](https://news.ycombinator.com/item?id=37413566) - [The Power of Food for People with Dementia](https://www.newyorker.com/culture/personal-history/the-power-of-food-for-people-with-dementia)
 * [2023-09-07, 00:48:16](https://news.ycombinator.com/item?id=37413387) - [Newly discovered comet Nishimura could be visible to naked eye this weekend](https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend)
-* [2023-09-06, 23:21:52](https://news.ycombinator.com/item?id=37412738) - [Delivery of gene therapy through CSF conduit to rescue hearing in adult mice](https://www.science.org/doi/10.1126/scitranslmed.abq3916)
 
 ## [Archives](archives/index.md)
 

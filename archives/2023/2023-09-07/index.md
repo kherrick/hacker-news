@@ -9,6 +9,7 @@
 * [2023-09-07, 23:30:33](https://news.ycombinator.com/item?id=37427127) - [Show HN: HackYourNews – AI summaries of the top HN stories](https://hackyournews.com/)
 * [2023-09-07, 23:28:17](https://news.ycombinator.com/item?id=37427109) - [Opposites don't actually attract: meta-analysis study](https://www.colorado.edu/today/2023/08/31/news-flash-opposites-dont-actually-attract)
 * [2023-09-07, 23:18:31](https://news.ycombinator.com/item?id=37427008) - [TEMU Is Cleverly Hidden Spyware That Poses an Urgent Security Threat to U.S.](https://grizzlyreports.com/we-believe-pdd-is-a-dying-fraudulent-company-and-its-shopping-app-temu-is-cleverly-hidden-spyware-that-poses-an-urgent-security-threat-to-u-s-national-interests/)
+* [2023-09-07, 22:39:13](https://news.ycombinator.com/item?id=37426598) - [What happens when you shift a register by more than the register size?](https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704)
 * [2023-09-07, 22:04:10](https://news.ycombinator.com/item?id=37426223) - [Searx is no longer maintained](https://github.com/searx/searx/commit/276ffd3f01cdd823f75676c51231fad4040059d3)
 * [2023-09-07, 21:55:05](https://news.ycombinator.com/item?id=37426132) - [Accidental Empires, Chapter 11 – Font Wars (1992)](https://www.cringely.com/2013/03/14/accidental-empires-chapter-11-font-wars/)
 * [2023-09-07, 21:53:14](https://news.ycombinator.com/item?id=37426116) - [Digging through the New York Times morgue](https://buttondown.email/linotypebook/archive/lbp-issue-no-5-digging-through-a-morgue/)
