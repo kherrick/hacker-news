@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-09, 02:31:35](https://news.ycombinator.com/item?id=37441639) - [First female welder joins exclusive club](https://maysville-online.com/news/208895/first-female-welder-joins-exclusive-club)
-* [2023-09-09, 01:02:29](https://news.ycombinator.com/item?id=37441168) - [Generally Intelligent (YC S17) Is Hiring Technical Interviewers](https://news.ycombinator.com/item?id=37441168)
-* [2023-09-09, 00:55:01](https://news.ycombinator.com/item?id=37441125) - [Uber CEO’s time moonlighting as a driver sparked all-hands called 'Why we suck.'](https://www.businessinsider.com/uber-ceo-dara-khosrowshahi-company-should-have-paid-attention-drivers-2023-9)
+* [2023-09-09, 01:02:29](https://news.ycombinator.com/item?id=37441168) - [Generally Intelligent (YC S17) is hiring technical interviewers](https://news.ycombinator.com/item?id=37441168)
+* [2023-09-09, 00:55:01](https://news.ycombinator.com/item?id=37441125) - [Dara Khosrowshahi had a stint driving for Uber and delivering for Uber Eats](https://www.businessinsider.com/uber-ceo-dara-khosrowshahi-company-should-have-paid-attention-drivers-2023-9)
 * [2023-09-08, 23:38:39](https://news.ycombinator.com/item?id=37440631) - [LogoScale – A method for vectorizing small, crappy logos](https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0)
 * [2023-09-08, 23:17:21](https://news.ycombinator.com/item?id=37440482) - [Morphology and temporal evolution of ground-nesting bee burrows](https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040)
 * [2023-09-08, 22:26:51](https://news.ycombinator.com/item?id=37440104) - [Snoop unto them as they snoop unto you](https://blog.dataparty.xyz/blog/snoop-unto-them/)
@@ -14,6 +13,7 @@
 * [2023-09-08, 19:11:47](https://news.ycombinator.com/item?id=37438028) - [Show HN: Conway's Game of Life in TypeScript's type system](https://github.com/RuyiLi/cursed-typescript/blob/master/random/game-of-life.ts)
 * [2023-09-08, 16:49:59](https://news.ycombinator.com/item?id=37436092) - [Cerabyte: ceramic storage poised to usher in 'yottabyte era'](https://www.tomshardware.com/news/cerabyte-ceramic-storage-poised-to-usher-in-yottabyte-era)
 * [2023-09-08, 16:10:55](https://news.ycombinator.com/item?id=37435515) - [Maybe Rust isn’t a good tool for massively concurrent, userspace software](https://bitbashing.io/async-rust.html)
+* [2023-09-08, 14:59:13](https://news.ycombinator.com/item?id=37434381) - [Bees struggle to find flowers because of air pollution](https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution)
 * [2023-09-08, 14:41:03](https://news.ycombinator.com/item?id=37434117) - [Bun v1.0.0](https://bun.sh/blog/bun-v1.0)
 * [2023-09-08, 14:07:55](https://news.ycombinator.com/item?id=37433681) - [Flexport is rescinding a bunch of signed offer letters](https://twitter.com/typesfast/status/1700092765798048093)
 * [2023-09-08, 13:54:13](https://news.ycombinator.com/item?id=37433523) - [Emoji Generator with AI](https://emoji.fly.dev)
@@ -28,7 +28,7 @@
 * [2023-09-07, 21:52:02](https://news.ycombinator.com/item?id=37426107) - [The thinking path](https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking)
 * [2023-09-07, 06:34:22](https://news.ycombinator.com/item?id=37415456) - [Losing Out in Critical Technologies: Cisco Systems and Financialization](https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization)
 * [2023-09-07, 00:48:16](https://news.ycombinator.com/item?id=37413387) - [Newly discovered comet Nishimura could be visible to naked eye this weekend](https://www.theguardian.com/science/2023/sep/07/nishimura-comet-could-be-visible-to-naked-eye-this-weekend)
-* [2023-09-06, 23:39:18](https://news.ycombinator.com/item?id=37412887) - ['How Do You Know When Your Art Is Good?'](https://www.ask-polly.com/p/how-do-you-know-when-your-art-is)
+* [2023-09-06, 23:39:18](https://news.ycombinator.com/item?id=37412887) - ['How do you know when your art is good?'](https://www.ask-polly.com/p/how-do-you-know-when-your-art-is)
 * [2023-09-06, 23:21:52](https://news.ycombinator.com/item?id=37412738) - [Delivery of gene therapy through CSF conduit to rescue hearing in adult mice](https://www.science.org/doi/10.1126/scitranslmed.abq3916)
 
 ## [Archives](archives/index.md)
