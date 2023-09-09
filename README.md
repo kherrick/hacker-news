@@ -22,7 +22,7 @@
 * [2023-09-08, 09:24:25](https://news.ycombinator.com/item?id=37431433) - [ASMesh: Anonymous, Secure Messaging in Mesh Networks](https://eprint.iacr.org/2023/1053)
 * [2023-09-08, 09:23:27](https://news.ycombinator.com/item?id=37431425) - [Just how constexpr is C++20’s std:string?](https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/)
 * [2023-09-08, 07:50:49](https://news.ycombinator.com/item?id=37430759) - [Towards a new SymPy](https://oscarbenjamin.github.io/blog/czi/post1.html)
-* [2023-09-08, 05:16:57](https://news.ycombinator.com/item?id=37429645) - [Artic Code Vault](https://archiveprogram.github.com/arctic-vault/)
+* [2023-09-08, 05:16:57](https://news.ycombinator.com/item?id=37429645) - [Arctic Code Vault](https://archiveprogram.github.com/arctic-vault/)
 * [2023-09-08, 03:36:11](https://news.ycombinator.com/item?id=37428937) - [Critical ignoring as a core competence for digital citizens (2022)](https://journals.sagepub.com/doi/epub/10.1177/09637214221121570)
 * [2023-09-07, 21:53:14](https://news.ycombinator.com/item?id=37426116) - [Digging through the New York Times morgue](https://buttondown.email/linotypebook/archive/lbp-issue-no-5-digging-through-a-morgue/)
 * [2023-09-07, 21:52:02](https://news.ycombinator.com/item?id=37426107) - [The thinking path](https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking)
