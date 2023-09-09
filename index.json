@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-09-09, 03:01:29",
+      "https://news.ycombinator.com/item?id=37441829"
+    ],
+    [
+      "Teaching old C code new tricks with Nim",
+      "https://peterme.net/teaching-old-c-code-new-tricks-with-nim.html"
+    ]
+  ],
+  [
+    [
       "2023-09-09, 02:38:22",
       "https://news.ycombinator.com/item?id=37441683"
     ],
@@ -107,16 +117,6 @@
     [
       "Using LD_PRELOAD to cheat, inject features and investigate programs",
       "https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/"
-    ]
-  ],
-  [
-    [
-      "2023-09-08, 20:16:58",
-      "https://news.ycombinator.com/item?id=37438842"
-    ],
-    [
-      "How to Learn Emacs (2012)",
-      "https://david.rothlis.net/emacs/howtolearn.html"
     ]
   ],
   [
