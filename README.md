@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-09, 07:17:06](https://news.ycombinator.com/item?id=37442998) - [X challenges California’s new transparency law as unconstitutional](https://techcrunch.com/2023/09/08/twitter-x-elon-musk-california-moderation-transparency-law-as-unconstitutional-ab-587/)
 * [2023-09-09, 06:33:32](https://news.ycombinator.com/item?id=37442810) - [The Development of the C Language](http://cm.bell-labs.co/who/dmr/chist.html)
 * [2023-09-09, 06:00:57](https://news.ycombinator.com/item?id=37442671) - [As wildfires burn across the world, what is the role of Australia's eucalyptus?](https://www.abc.net.au/news/2023-09-09/wildfires-portugal-greece-california-hawaii-euclyptus-trees/102760264)
 * [2023-09-09, 05:56:03](https://news.ycombinator.com/item?id=37442649) - [Embeddable Common Lisp 23.9.9](https://ecl.common-lisp.dev/posts/ECL-2399-release.html)
@@ -22,7 +23,6 @@
 * [2023-09-08, 13:26:45](https://news.ycombinator.com/item?id=37433186) - [Aardvark'd: The Fog Creek documentary, 18 years later](https://mtlynch.io/aardvarkd/)
 * [2023-09-08, 09:56:08](https://news.ycombinator.com/item?id=37431644) - [Touch Pianist](http://touchpianist.com/)
 * [2023-09-08, 09:23:27](https://news.ycombinator.com/item?id=37431425) - [Just how constexpr is C++20’s std:string?](https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/)
-* [2023-09-08, 05:16:57](https://news.ycombinator.com/item?id=37429645) - [Arctic Code Vault](https://archiveprogram.github.com/arctic-vault/)
 * [2023-09-07, 17:43:12](https://news.ycombinator.com/item?id=37422705) - [Ruby Outperforms C: Breaking the Catch-22](https://railsatscale.com/2023-08-29-ruby-outperforms-c/)
 * [2023-09-07, 07:23:33](https://news.ycombinator.com/item?id=37415747) - [An Internet of PHP](https://timotijhof.net/posts/2023/an-internet-of-php/)
 * [2023-09-07, 06:34:22](https://news.ycombinator.com/item?id=37415456) - [Cisco Systems and Financialization](https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization)
