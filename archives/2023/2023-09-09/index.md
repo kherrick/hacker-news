@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-09](index.md)
 
+* [2023-09-09, 14:11:40](https://news.ycombinator.com/item?id=37445668) - [Ask HN: Will Google delete inactive gmail accounts that forward email?](https://news.ycombinator.com/item?id=37445668)
 * [2023-09-09, 14:04:37](https://news.ycombinator.com/item?id=37445582) - [Running over 20 top-notch cybersecurity tools with API](https://developer.penteston.com)
 * [2023-09-09, 13:57:41](https://news.ycombinator.com/item?id=37445484) - [Why doesn't Apple add cellular service to their laptops?](https://chat.openai.com/share/ebfa177c-5f97-4fe2-bfc0-0b593a3afeea)
 * [2023-09-09, 13:51:33](https://news.ycombinator.com/item?id=37445401) - [Comparing 60 LLMs with a set of 20 prompts](https://benchmarks.llmonitor.com)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-09, 14:11:40](https://news.ycombinator.com/item?id=37445668) - [Ask HN: Will Google delete inactive gmail accounts that forward email?](https://news.ycombinator.com/item?id=37445668)
 * [2023-09-09, 14:04:37](https://news.ycombinator.com/item?id=37445582) - [Running over 20 top-notch cybersecurity tools with API](https://developer.penteston.com)
 * [2023-09-09, 13:51:33](https://news.ycombinator.com/item?id=37445401) - [Comparing 60 LLMs with a set of 20 prompts](https://benchmarks.llmonitor.com)
 * [2023-09-09, 13:40:15](https://news.ycombinator.com/item?id=37445284) - [Morocco earthquake kills more than 1,000](https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208)
@@ -19,7 +20,6 @@
 * [2023-09-09, 05:56:03](https://news.ycombinator.com/item?id=37442649) - [Embeddable Common Lisp 23.9.9](https://ecl.common-lisp.dev/posts/ECL-2399-release.html)
 * [2023-09-09, 05:36:22](https://news.ycombinator.com/item?id=37442574) - [Advanced NLP with SpaCy](https://course.spacy.io/en/)
 * [2023-09-09, 03:42:53](https://news.ycombinator.com/item?id=37442064) - [Julia and Mojo Mandelbrot Benchmark](https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638)
-* [2023-09-09, 03:26:37](https://news.ycombinator.com/item?id=37441982) - [FTC judge rules Intuit broke law, must stop advertising TurboTax as “free”](https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/)
 * [2023-09-08, 23:38:39](https://news.ycombinator.com/item?id=37440631) - [LogoScale – A method for vectorizing small, crappy logos](https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0)
 * [2023-09-08, 23:17:21](https://news.ycombinator.com/item?id=37440482) - [Morphology and temporal evolution of ground-nesting bee burrows](https://www.sciencedirect.com/science/article/pii/S0016706123003324)
 * [2023-09-08, 04:34:38](https://news.ycombinator.com/item?id=37429362) - [The Telescript Programming Language](https://en.wikipedia.org/wiki/Telescript_(programming_language))
