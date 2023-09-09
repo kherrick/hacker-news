@@ -10,6 +10,7 @@
 * [2023-09-09, 17:35:08](https://news.ycombinator.com/item?id=37447892) - [Block the Blue – Twitter Verified Blocker](https://chrome.google.com/webstore/detail/block-the-blue-twitter-ve/ppoilcngmmnmdhgnejcnpohiabajclgn)
 * [2023-09-09, 17:30:23](https://news.ycombinator.com/item?id=37447833) - [Smart people first in line for Covid-19 vaccines, study suggests](https://www.cidrap.umn.edu/covid-19/smart-people-first-line-covid-19-vaccines-study-suggests)
 * [2023-09-09, 17:21:14](https://news.ycombinator.com/item?id=37447740) - [Heat pumps show how hard decarbonisation will be](https://www.economist.com/leaders/2023/09/06/heat-pumps-show-how-hard-decarbonisation-will-be)
+* [2023-09-09, 16:56:08](https://news.ycombinator.com/item?id=37447445) - [Show HN: Productonboarding.com – Mobbin for SaaS product onboarding](https://productonboarding.com)
 * [2023-09-09, 16:43:12](https://news.ycombinator.com/item?id=37447315) - [A History of Carrying Capacity](https://www.wsj.com/arts-culture/books/pockets-review-carrying-capacity-2245357a)
 * [2023-09-09, 16:32:12](https://news.ycombinator.com/item?id=37447195) - [Fifth Circuit: Some Federal Officials Violated 1A via Social Media Censorship [pdf]](https://www.ca5.uscourts.gov/opinions/pub/23/23-30445-CV0.pdf)
 * [2023-09-09, 16:21:10](https://news.ycombinator.com/item?id=37447080) - [A small-town police officer took down the largest matchfixing ring in tennis](https://www.msn.com/en-us/sports/tennis/the-unraveling-how-a-small-town-police-officer-took-down-the-largest-match-fixing-ring-in-tennis/ar-AA1gmhhx)

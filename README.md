@@ -4,9 +4,8 @@
 * [2023-09-09, 17:41:46](https://news.ycombinator.com/item?id=37447980) - [Ask HN: What cool desk ideas do you have for a home office?](https://news.ycombinator.com/item?id=37447980)
 * [2023-09-09, 17:36:41](https://news.ycombinator.com/item?id=37447915) - [The End of the Subscription Era Is Coming](https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a)
 * [2023-09-09, 17:35:08](https://news.ycombinator.com/item?id=37447892) - [Block the Blue – Twitter Verified Blocker](https://chrome.google.com/webstore/detail/block-the-blue-twitter-ve/ppoilcngmmnmdhgnejcnpohiabajclgn)
-* [2023-09-09, 17:21:14](https://news.ycombinator.com/item?id=37447740) - [Heat pumps show how hard decarbonisation will be](https://www.economist.com/leaders/2023/09/06/heat-pumps-show-how-hard-decarbonisation-will-be)
+* [2023-09-09, 16:56:08](https://news.ycombinator.com/item?id=37447445) - [Show HN: Productonboarding.com – Mobbin for SaaS product onboarding](https://productonboarding.com)
 * [2023-09-09, 16:43:12](https://news.ycombinator.com/item?id=37447315) - [A History of Carrying Capacity](https://www.wsj.com/arts-culture/books/pockets-review-carrying-capacity-2245357a)
-* [2023-09-09, 16:21:10](https://news.ycombinator.com/item?id=37447080) - [A small-town police officer took down the largest matchfixing ring in tennis](https://www.msn.com/en-us/sports/tennis/the-unraveling-how-a-small-town-police-officer-took-down-the-largest-match-fixing-ring-in-tennis/ar-AA1gmhhx)
 * [2023-09-09, 15:54:15](https://news.ycombinator.com/item?id=37446790) - [The U.S. housing market vs. the Canadian housing market](https://awealthofcommonsense.com/2023/09/the-u-s-housing-market-vs-the-canadian-housing-market/)
 * [2023-09-09, 15:29:14](https://news.ycombinator.com/item?id=37446509) - [Birth of the Gentoo Linux Distribution](https://www.funtoo.org/Making_the_Distribution,_Part_1)
 * [2023-09-09, 14:52:20](https://news.ycombinator.com/item?id=37446083) - [Public restrooms are hard to find in America](https://www.washingtonpost.com/wellness/2023/09/08/public-restrooms-hard-find-comic/)
@@ -30,6 +29,7 @@
 * [2023-09-08, 04:34:38](https://news.ycombinator.com/item?id=37429362) - [Telescript (programming language)](https://en.wikipedia.org/wiki/Telescript_(programming_language))
 * [2023-09-07, 22:39:13](https://news.ycombinator.com/item?id=37426598) - [What happens when you shift a register by more than the register size?](https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704)
 * [2023-09-07, 07:32:48](https://news.ycombinator.com/item?id=37415804) - [Intel Announces Arm Investment, Talks Up RISC-V](https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are)
+* [2023-09-07, 02:16:49](https://news.ycombinator.com/item?id=37413926) - [Common Pitfalls in Database Performance Testing (2018) [pdf]](https://mytherin.github.io/papers/2018-dbtest.pdf)
 
 ## [Archives](archives/index.md)
 
