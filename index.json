@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-09-09, 18:00:45",
+      "https://news.ycombinator.com/item?id=37448231"
+    ],
+    [
+      "Fifth Circuit Rules White House, CDC Violated First Amendment [pdf]",
+      "https://www.ca5.uscourts.gov/opinions/pub/23/23-30445-CV0.pdf"
+    ]
+  ],
+  [
+    [
       "2023-09-09, 17:43:11",
       "https://news.ycombinator.com/item?id=37448005"
     ],
@@ -287,16 +297,6 @@
     [
       "Intel announces Arm investment, talks up RISC-V",
       "https://www.tomshardware.com/news/intel-confirms-arm-investment-arm-and-risc-v-is-where-the-volumes-are"
-    ]
-  ],
-  [
-    [
-      "2023-09-07, 02:16:49",
-      "https://news.ycombinator.com/item?id=37413926"
-    ],
-    [
-      "Common Pitfalls in Database Performance Testing (2018) [pdf]",
-      "https://mytherin.github.io/papers/2018-dbtest.pdf"
     ]
   ]
 ]
