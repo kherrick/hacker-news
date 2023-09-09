@@ -114,6 +114,7 @@
 * [2023-09-07, 06:38:55](https://news.ycombinator.com/item?id=37415494) - [How Query Engines Work](https://howqueryengineswork.com/)
 * [2023-09-07, 06:37:59](https://news.ycombinator.com/item?id=37415485) - [Google faces multibillion-pound lawsuit from UK consumers](https://www.theguardian.com/technology/2023/sep/07/google-faces-multibillion-pound-lawsuit-uk-consumers)
 * [2023-09-07, 06:37:14](https://news.ycombinator.com/item?id=37415478) - [Gaussian Splatting is pretty cool](https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/)
+* [2023-09-07, 06:34:22](https://news.ycombinator.com/item?id=37415456) - [Losing Out in Critical Technologies: Cisco Systems and Financialization](https://www.ineteconomics.org/perspectives/blog/losing-out-in-critical-technologies-cisco-systems-and-financialization)
 * [2023-09-07, 06:29:38](https://news.ycombinator.com/item?id=37415424) - [Show HN: Yggdrasil 1.0 – Native executables for Shen](https://news.ycombinator.com/item?id=37415424)
 * [2023-09-07, 06:17:13](https://news.ycombinator.com/item?id=37415356) - [Deciphering Mary Stuart’s lost letters from 1578-1584](https://www.tandfonline.com/doi/full/10.1080/01611194.2022.2160677)
 * [2023-09-07, 05:28:26](https://news.ycombinator.com/item?id=37415067) - [Chicago’s parking meter disaster](https://www.chicagotribune.com/opinion/editorials/ct-editorial-parking-meters-chicago-daley-20230430-fau3wymdevf7vknog5osrge5e4-story.html)
