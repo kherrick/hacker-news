@@ -6,6 +6,7 @@
 
 * [2023-09-09, 19:53:38](https://news.ycombinator.com/item?id=37449620) - [Order of the Occult Hand](https://en.wikipedia.org/wiki/Order_of_the_Occult_Hand)
 * [2023-09-09, 19:37:12](https://news.ycombinator.com/item?id=37449462) - [Show HN: Flexport still has 50 open positions](https://www.flexport.com/careers/jobs/)
+* [2023-09-09, 19:34:44](https://news.ycombinator.com/item?id=37449439) - [English cottage where John le Carré wrote Tinker Tailor Soldier Spy is for sale](https://lithub.com/look-inside-the-gorgeous-english-cottage-where-john-le-carre-wrote-tinker-tailor-soldier-spy/)
 * [2023-09-09, 19:31:50](https://news.ycombinator.com/item?id=37449413) - [Half of Glaciers Vanish with 1.5 Degrees of Warming](https://www.nasa.gov/feature/esnt/2023/nasa-funded-study-half-of-glaciers-vanish-with-1-point-5-degrees-of-warming/)
 * [2023-09-09, 19:26:48](https://news.ycombinator.com/item?id=37449362) - [Climate change boosts risk of explosive wildfire growth in California by 25%](https://www.latimes.com/california/story/2023-09-04/climate-change-boosts-california-wildfire-risk-by-25)
 * [2023-09-09, 18:53:07](https://news.ycombinator.com/item?id=37449001) - [Australia to give cats a curfew because they are murdering so many other animals](https://www.insider.com/australia-considers-cat-curfews-household-limits-to-protect-biodiversity-2023-9)
