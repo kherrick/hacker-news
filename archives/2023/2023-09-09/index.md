@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-09](index.md)
 
+* [2023-09-09, 23:13:04](https://news.ycombinator.com/item?id=37451230) - [Jakob Nielsen: The Top Web Design Mistakes of 1999 (1999)](https://www.nngroup.com/articles/the-top-ten-web-design-mistakes-of-1999/)
 * [2023-09-09, 22:48:00](https://news.ycombinator.com/item?id=37451080) - [Sucking carbon dioxide out of the sky is moving from science fiction to reality](https://www.npr.org/2023/09/08/1198373683/sucking-carbon-dioxide-out-of-the-sky-is-moving-from-science-fiction-to-reality)
 * [2023-09-09, 22:27:16](https://news.ycombinator.com/item?id=37450915) - [Lithium discovery in US volcano could be biggest deposit ever found](https://www.chemistryworld.com/news/lithium-discovery-in-us-volcano-could-be-biggest-deposit-ever-found/4018032.article)
 * [2023-09-09, 21:37:28](https://news.ycombinator.com/item?id=37450536) - [Microsoft announces purchase of 315k tonnes of CO2 removal](https://www.heirloomcarbon.com/news/heirloom-and-microsoft-sign-permanent-co2-removal-deal)

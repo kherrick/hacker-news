@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-09, 23:13:04](https://news.ycombinator.com/item?id=37451230) - [Jakob Nielsen: The Top Web Design Mistakes of 1999 (1999)](https://www.nngroup.com/articles/the-top-ten-web-design-mistakes-of-1999/)
 * [2023-09-09, 22:48:00](https://news.ycombinator.com/item?id=37451080) - [Sucking carbon dioxide out of the sky is moving from science fiction to reality](https://www.npr.org/2023/09/08/1198373683/sucking-carbon-dioxide-out-of-the-sky-is-moving-from-science-fiction-to-reality)
 * [2023-09-09, 22:27:16](https://news.ycombinator.com/item?id=37450915) - [Lithium discovery in US volcano could be biggest deposit ever found](https://www.chemistryworld.com/news/lithium-discovery-in-us-volcano-could-be-biggest-deposit-ever-found/4018032.article)
 * [2023-09-09, 21:37:28](https://news.ycombinator.com/item?id=37450536) - [Microsoft announces purchase of 315k tonnes of CO2 removal](https://www.heirloomcarbon.com/news/heirloom-and-microsoft-sign-permanent-co2-removal-deal)
 * [2023-09-09, 21:15:44](https://news.ycombinator.com/item?id=37450356) - [Our Self-Driving Cars Will Save Lives, but They Will Kill Some of You First](https://www.mcsweeneys.net/articles/our-self-driving-cars-will-save-countless-lives-but-they-will-kill-some-of-you-first)
 * [2023-09-09, 21:00:20](https://news.ycombinator.com/item?id=37450228) - [Freshpaint (YC S19) is hiring engineers to build a HIPAA compliant data platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-09-09, 20:24:54](https://news.ycombinator.com/item?id=37449921) - [No Google Topics in Vivaldi](https://vivaldi.com/blog/news/alert-no-google-topics-in-vivaldi/)
-* [2023-09-09, 19:25:40](https://news.ycombinator.com/item?id=37449353) - [Replacing OpenSUSE Leap](https://lwn.net/SubscriberLink/943591/75f5e23c709e44fa/)
 * [2023-09-09, 18:47:54](https://news.ycombinator.com/item?id=37448914) - [Show HN: I built a Python web framework](https://github.com/ZeroIntensity/view.py)
 * [2023-09-09, 18:30:39](https://news.ycombinator.com/item?id=37448659) - [SmartKnob – Haptic input knob with software-defined endstops and virtual detents](https://github.com/scottbez1/smartknob)
 * [2023-09-09, 18:23:18](https://news.ycombinator.com/item?id=37448554) - [On Desktop GUI Minimalism](https://mycophobia.org/desktop_gui_minimalism.html)
