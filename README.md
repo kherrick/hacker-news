@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-09, 14:04:37](https://news.ycombinator.com/item?id=37445582) - [Running over 20 top-notch cybersecurity tools with API](https://developer.penteston.com)
 * [2023-09-09, 13:51:33](https://news.ycombinator.com/item?id=37445401) - [Comparing 60 LLMs with a set of 20 prompts](https://benchmarks.llmonitor.com)
 * [2023-09-09, 13:40:15](https://news.ycombinator.com/item?id=37445284) - [Morocco earthquake kills more than 1,000](https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208)
-* [2023-09-09, 13:29:58](https://news.ycombinator.com/item?id=37445165) - [What are we calling what used to be called FAANG these days?](https://news.ycombinator.com/item?id=37445165)
 * [2023-09-09, 13:00:12](https://news.ycombinator.com/item?id=37444841) - [Google redraws the borders on maps depending on who’s looking (2020)](https://www.washingtonpost.com/technology/2020/02/14/google-maps-political-borders/)
 * [2023-09-09, 12:20:20](https://news.ycombinator.com/item?id=37444477) - [CRISPR used to 'reprogram' cancer cells into healthy muscle in the lab](https://www.livescience.com/health/cancer/crispr-used-to-reprogram-cancer-cells-into-healthy-muscle-in-the-lab)
 * [2023-09-09, 12:01:05](https://news.ycombinator.com/item?id=37444354) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)

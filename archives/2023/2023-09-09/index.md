@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-09](index.md)
 
+* [2023-09-09, 14:04:37](https://news.ycombinator.com/item?id=37445582) - [Running over 20 top-notch cybersecurity tools with API](https://developer.penteston.com)
 * [2023-09-09, 13:57:41](https://news.ycombinator.com/item?id=37445484) - [Why doesn't Apple add cellular service to their laptops?](https://chat.openai.com/share/ebfa177c-5f97-4fe2-bfc0-0b593a3afeea)
 * [2023-09-09, 13:51:33](https://news.ycombinator.com/item?id=37445401) - [Comparing 60 LLMs with a set of 20 prompts](https://benchmarks.llmonitor.com)
 * [2023-09-09, 13:40:15](https://news.ycombinator.com/item?id=37445284) - [Morocco earthquake kills more than 1,000](https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208)
