@@ -128,6 +128,7 @@
 * [2023-09-07, 04:38:00](https://news.ycombinator.com/item?id=37414818) - [Anduril Fury: Automomous Stealth Drone](https://www.anduril.com/fury/)
 * [2023-09-07, 04:19:59](https://news.ycombinator.com/item?id=37414723) - [Gematria](https://en.wikipedia.org/wiki/Gematria)
 * [2023-09-07, 04:15:58](https://news.ycombinator.com/item?id=37414699) - [Depression can play direct role in developing type 2 diabetes, says study](https://www.theguardian.com/society/2023/sep/07/depression-can-play-direct-role-in-developing-type-2-diabetes-says-study)
+* [2023-09-07, 04:09:45](https://news.ycombinator.com/item?id=37414664) - [Burakumin - \"Hamlet people\" of Japan](https://en.wikipedia.org/wiki/Burakumin)
 * [2023-09-07, 04:08:50](https://news.ycombinator.com/item?id=37414659) - [The Mind-Bending Math Behind Spot It (2018)](https://www.smithsonianmag.com/science-nature/math-card-game-spot-it-180970873/)
 * [2023-09-07, 04:04:00](https://news.ycombinator.com/item?id=37414624) - [God writes Haskell](https://hookrace.net/blog/god-writes-haskell/)
 * [2023-09-07, 03:01:57](https://news.ycombinator.com/item?id=37414259) - [Australian regulator sues PayPal over unfair term in small business contracts](https://www.reuters.com/business/finance/australian-regulator-sues-paypal-unit-over-unfair-term-small-business-contracts-2023-09-06/)
