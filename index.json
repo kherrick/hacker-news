@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-09-09, 18:47:54",
+      "https://news.ycombinator.com/item?id=37448914"
+    ],
+    [
+      "Show HN: I built a Python web framework from scratch",
+      "https://github.com/ZeroIntensity/view.py"
+    ]
+  ],
+  [
+    [
       "2023-09-09, 18:21:46",
       "https://news.ycombinator.com/item?id=37448526"
     ],
     [
       "Zinc batteries that offer an alternative to lithium just got a big boost",
       "https://www.technologyreview.com/2023/09/06/1079123/zinc-batteries-boost-eos/"
+    ]
+  ],
+  [
+    [
+      "2023-09-09, 18:17:56",
+      "https://news.ycombinator.com/item?id=37448460"
+    ],
+    [
+      "You might want async in your project",
+      "https://notgull.net/why-you-want-async/"
     ]
   ],
   [
@@ -145,7 +165,7 @@
       "https://news.ycombinator.com/item?id=37444354"
     ],
     [
-      "Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring",
+      "Skio (YC S20) Is Hiring – Subscriptions for Shopify, ReCharge migrations",
       "https://skio.com/careers/"
     ]
   ],
@@ -157,16 +177,6 @@
     [
       "Every type of plastic used by LEGO (2022)",
       "https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22"
-    ]
-  ],
-  [
-    [
-      "2023-09-09, 11:42:16",
-      "https://news.ycombinator.com/item?id=37444257"
-    ],
-    [
-      "Dennis Austin, developer of PowerPoint, has died",
-      "https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/"
     ]
   ],
   [
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2023-09-09, 05:56:03",
-      "https://news.ycombinator.com/item?id=37442649"
+      "2023-09-08, 23:45:55",
+      "https://news.ycombinator.com/item?id=37440696"
     ],
     [
-      "Embeddable Common Lisp 23.9.9",
-      "https://ecl.common-lisp.dev/posts/ECL-2399-release.html"
+      "Dennis Austin, developer of PowerPoint, has died",
+      "https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/"
     ]
   ],
   [
@@ -241,32 +251,22 @@
   ],
   [
     [
-      "2023-09-08, 08:01:09",
-      "https://news.ycombinator.com/item?id=37430842"
-    ],
-    [
-      "The Development of the M1 Garand and Its Implications",
-      "https://acoup.blog/2023/09/08/michael-taylor-on-the-development-of-the-m1-garand-and-its-implications/"
-    ]
-  ],
-  [
-    [
-      "2023-09-08, 07:55:57",
-      "https://news.ycombinator.com/item?id=37430798"
-    ],
-    [
-      "Michael Frayn at 90: a miscellany of the satirical columnist’s finest moments",
-      "https://www.theguardian.com/culture/2023/sep/08/michael-frayn-at-90"
-    ]
-  ],
-  [
-    [
       "2023-09-08, 04:34:38",
       "https://news.ycombinator.com/item?id=37429362"
     ],
     [
       "Telescript (programming language)",
       "https://en.wikipedia.org/wiki/Telescript_(programming_language)"
+    ]
+  ],
+  [
+    [
+      "2023-09-08, 02:26:44",
+      "https://news.ycombinator.com/item?id=37428491"
+    ],
+    [
+      "I used a Game Boy camera for Facetime video calls in iPadOS 17",
+      "https://www.macstories.net/stories/i-used-a-game-boy-camera-for-facetime-video-calls-in-ipados-17-and-it-was-glorious/"
     ]
   ],
   [
