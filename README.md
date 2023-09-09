@@ -2,9 +2,9 @@
 
 * [2023-09-09, 21:00:20](https://news.ycombinator.com/item?id=37450228) - [Freshpaint (YC S19) is hiring engineers to build a HIPAA compliant data platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-09-09, 20:24:54](https://news.ycombinator.com/item?id=37449921) - [Alert: No Google Topics in Vivaldi](https://vivaldi.com/blog/news/alert-no-google-topics-in-vivaldi/)
-* [2023-09-09, 20:16:33](https://news.ycombinator.com/item?id=37449841) - [Tell HN: Chase online bank down due to expired SSL](https://news.ycombinator.com/item?id=37449841)
 * [2023-09-09, 19:34:44](https://news.ycombinator.com/item?id=37449439) - [English cottage where John le Carré wrote Tinker Tailor Soldier Spy is for sale](https://lithub.com/look-inside-the-gorgeous-english-cottage-where-john-le-carre-wrote-tinker-tailor-soldier-spy/)
 * [2023-09-09, 18:47:54](https://news.ycombinator.com/item?id=37448914) - [Show HN: I built a Python web framework](https://github.com/ZeroIntensity/view.py)
+* [2023-09-09, 18:30:39](https://news.ycombinator.com/item?id=37448659) - [SmartKnob – Haptic input knob with software-defined endstops and virtual detents](https://github.com/scottbez1/smartknob)
 * [2023-09-09, 18:17:56](https://news.ycombinator.com/item?id=37448460) - [Why you might want async in your project](https://notgull.net/why-you-want-async/)
 * [2023-09-09, 17:43:11](https://news.ycombinator.com/item?id=37448005) - [Show HN: WhatsApp-Llama: A clone of yourself from your WhatsApp conversations](https://github.com/Ads-cmu/WhatsApp-Llama)
 * [2023-09-09, 17:27:52](https://news.ycombinator.com/item?id=37447810) - [Existing in an Un-Simulated Reality](https://iahwrites.substack.com/p/existing-in-an-un-simulated-reality)

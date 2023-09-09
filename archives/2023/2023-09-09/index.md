@@ -14,6 +14,7 @@
 * [2023-09-09, 19:26:48](https://news.ycombinator.com/item?id=37449362) - [Climate change boosts risk of explosive wildfire growth in California by 25%](https://www.latimes.com/california/story/2023-09-04/climate-change-boosts-california-wildfire-risk-by-25)
 * [2023-09-09, 18:53:07](https://news.ycombinator.com/item?id=37449001) - [Australia to give cats a curfew because they are murdering so many other animals](https://www.insider.com/australia-considers-cat-curfews-household-limits-to-protect-biodiversity-2023-9)
 * [2023-09-09, 18:47:54](https://news.ycombinator.com/item?id=37448914) - [Show HN: I built a Python web framework from scratch](https://github.com/ZeroIntensity/view.py)
+* [2023-09-09, 18:30:39](https://news.ycombinator.com/item?id=37448659) - [SmartKnob – Haptic input knob with software-defined endstops and virtual detents](https://github.com/scottbez1/smartknob)
 * [2023-09-09, 18:21:46](https://news.ycombinator.com/item?id=37448526) - [Zinc batteries that offer an alternative to lithium just got a big boost](https://www.technologyreview.com/2023/09/06/1079123/zinc-batteries-boost-eos/)
 * [2023-09-09, 18:19:00](https://news.ycombinator.com/item?id=37448476) - [Lab-grown Meat is not a Climate Change Solution](https://www.climatedrift.com/p/lab-grown-meat-is-not-a-climate-solution)
 * [2023-09-09, 18:17:56](https://news.ycombinator.com/item?id=37448460) - [You might want async in your project](https://notgull.net/why-you-want-async/)
