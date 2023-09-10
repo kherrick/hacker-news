@@ -112,6 +112,7 @@
 * [2023-09-08, 03:42:30](https://news.ycombinator.com/item?id=37428975) - [The International Criminal Court Will Now Prosecute Cyberwar Crimes](https://www.wired.com/story/icc-cyberwar-crimes/)
 * [2023-09-08, 03:36:11](https://news.ycombinator.com/item?id=37428937) - [Critical ignoring as a core competence for digital citizens (2022)](https://journals.sagepub.com/doi/epub/10.1177/09637214221121570)
 * [2023-09-08, 03:11:01](https://news.ycombinator.com/item?id=37428763) - [Leon Trotsky was an MI6 agent since 1918, American intelligence documents reveal](https://sovinform.net/Trotsky-MI6-agent.htm)
+* [2023-09-08, 03:01:19](https://news.ycombinator.com/item?id=37428700) - [Signs of the Zodiac: The Dendera Dating Controversy](https://www.historytoday.com/archive/great-debates/signs-zodiac-dendera-dating-controversy)
 * [2023-09-08, 02:46:29](https://news.ycombinator.com/item?id=37428605) - [Texas paid Bitcoin miner more than $31M to cut energy usage](https://www.cbsnews.com/news/bitcoin-mining-cryptocurrency-riot-texas-power-grid/)
 * [2023-09-08, 02:28:36](https://news.ycombinator.com/item?id=37428505) - [Nature Machine Intelligence: Federated Benchmarking of Medical AI](https://www.nature.com/articles/s42256-023-00652-2)
 * [2023-09-08, 02:26:44](https://news.ycombinator.com/item?id=37428491) - [I used a Game Boy camera for Facetime video calls in iPadOS 17](https://www.macstories.net/stories/i-used-a-game-boy-camera-for-facetime-video-calls-in-ipados-17-and-it-was-glorious/)

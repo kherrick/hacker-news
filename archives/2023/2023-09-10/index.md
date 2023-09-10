@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-10](index.md)
 
+* [2023-09-10, 17:08:24](https://news.ycombinator.com/item?id=37457796) - [Goodbye to Thien-Thi Nguyen](https://lists.gnu.org/archive/html/emacs-devel/2023-09/msg00713.html)
+* [2023-09-10, 17:05:21](https://news.ycombinator.com/item?id=37457766) - [How Big Tech Got So Damn Big](https://www.wired.com/story/the-internet-con-cory-doctorow-book-excerpt/)
+* [2023-09-10, 17:03:18](https://news.ycombinator.com/item?id=37457745) - [Why do so many people hate EU bureaucracy?](https://blogs.lse.ac.uk/europpblog/2023/09/04/why-do-so-many-people-hate-eu-bureaucracy/)
+* [2023-09-10, 15:56:07](https://news.ycombinator.com/item?id=37457051) - [Show HN: New Bézier curves for vector graphics](https://ad8e.pages.dev/curve)
 * [2023-09-10, 15:50:48](https://news.ycombinator.com/item?id=37456989) - [Alaska Air Force Base Home to Mini-Nuclear Reactor Pilot Project](https://oilprice.com/Alternative-Energy/Nuclear-Power/Alaska-Air-Force-Base-Home-To-Mini-Nuclear-Reactor-Pilot-Project.html)
 * [2023-09-10, 15:03:53](https://news.ycombinator.com/item?id=37456471) - [Peredvizhnikov Engine is a fully lock-free game engine written in C++20](https://github.com/eduard-permyakov/peredvizhnikov-engine)
 * [2023-09-10, 14:57:25](https://news.ycombinator.com/item?id=37456399) - [The fear of a nuclear fire that would consume Earth](https://www.bbc.com/future/article/20230907-the-fear-of-a-nuclear-fire-that-would-consume-earth)
