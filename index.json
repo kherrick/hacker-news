@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-10, 01:42:26",
+      "https://news.ycombinator.com/item?id=37452106"
+    ],
+    [
+      "Starfield’s missing Nvidia DLSS support has been added by a free mod",
+      "https://arstechnica.com/gaming/2023/09/starfields-missing-nvidia-dlss-support-has-been-added-by-a-free-mod/"
+    ]
+  ],
+  [
+    [
+      "2023-09-10, 01:33:14",
+      "https://news.ycombinator.com/item?id=37452051"
+    ],
+    [
+      "GitHub – GSA/code-gov: An informative repo for all Code.gov repos",
+      "https://github.com/GSA/code-gov"
+    ]
+  ],
+  [
+    [
       "2023-09-10, 00:30:20",
       "https://news.ycombinator.com/item?id=37451728"
     ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=37451230"
     ],
     [
-      "Jakob Nielsen: The Top Web Design Mistakes of 1999 (1999)",
+      "Web Design Mistakes of 1999 (1999)",
       "https://www.nngroup.com/articles/the-top-ten-web-design-mistakes-of-1999/"
     ]
   ],
@@ -107,26 +127,6 @@
     [
       "On Desktop GUI Minimalism",
       "https://mycophobia.org/desktop_gui_minimalism.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-09, 18:17:56",
-      "https://news.ycombinator.com/item?id=37448460"
-    ],
-    [
-      "Why you might want async in your project",
-      "https://notgull.net/why-you-want-async/"
-    ]
-  ],
-  [
-    [
-      "2023-09-09, 17:43:11",
-      "https://news.ycombinator.com/item?id=37448005"
-    ],
-    [
-      "Show HN: WhatsApp-Llama: A clone of yourself from your WhatsApp conversations",
-      "https://github.com/Ads-cmu/WhatsApp-Llama"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=37412845"
     ],
     [
-      "Researchers use AI to find new magnetic materials without critical elements",
+      "Researchers use AI to find new magnetic materials",
       "https://phys.org/news/2023-09-ai-magnetic-materials-critical-elements.html"
     ]
   ]
