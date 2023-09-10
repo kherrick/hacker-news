@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-10, 09:40:19](https://news.ycombinator.com/item?id=37454301) - [Breathing Life Back into a Minitel 1B with the Minimit](https://blog.jgc.org/2023/09/breathing-life-back-into-minitel-1b.html)
 * [2023-09-10, 08:10:06](https://news.ycombinator.com/item?id=37453854) - [Nginx Unit – Universal web app server](https://github.com/nginx/unit)
 * [2023-09-10, 07:51:11](https://news.ycombinator.com/item?id=37453755) - [Show HN: Papersnap – Claude 2-Powered Mind Maps from Research](https://poe.com/universal_link_page?handle=PAPERSNAP)
 * [2023-09-10, 06:41:20](https://news.ycombinator.com/item?id=37453465) - [ZF makes magnet-free electric motor uniquely compact and competitive](https://press.zf.com/press/en/releases/release_60480.html)
@@ -14,7 +15,7 @@
 * [2023-09-09, 22:48:00](https://news.ycombinator.com/item?id=37451080) - [Sucking carbon dioxide out of the sky is moving from science fiction to reality](https://www.npr.org/2023/09/08/1198373683/sucking-carbon-dioxide-out-of-the-sky-is-moving-from-science-fiction-to-reality)
 * [2023-09-09, 22:27:16](https://news.ycombinator.com/item?id=37450915) - [Lithium discovery in US volcano could be biggest deposit ever found](https://www.chemistryworld.com/news/lithium-discovery-in-us-volcano-could-be-biggest-deposit-ever-found/4018032.article)
 * [2023-09-09, 21:00:20](https://news.ycombinator.com/item?id=37450228) - [Freshpaint (YC S19) is hiring engineers to build a HIPAA compliant data platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-* [2023-09-09, 19:34:44](https://news.ycombinator.com/item?id=37449439) - [The English cottage where John le Carré wrote Tinker Tailor Soldier Spy](https://lithub.com/look-inside-the-gorgeous-english-cottage-where-john-le-carre-wrote-tinker-tailor-soldier-spy/)
+* [2023-09-09, 18:30:39](https://news.ycombinator.com/item?id=37448659) - [SmartKnob – Haptic input knob with software-defined endstops and virtual detents](https://github.com/scottbez1/smartknob)
 * [2023-09-09, 13:51:33](https://news.ycombinator.com/item?id=37445401) - [Asking 60 LLMs a set of 20 questions](https://benchmarks.llmonitor.com)
 * [2023-09-09, 10:52:37](https://news.ycombinator.com/item?id=37443959) - [It's my Monitor](https://popey.com/blog/2023/09/its-my-monitor/)
 * [2023-09-09, 08:25:03](https://news.ycombinator.com/item?id=37443316) - [A guy preserving the new history of PC games, one Linux port at a time](https://www.404media.co/meet-the-guy-preserving-the-new-history-of-pc-games-one-linux-port-at-a-time/)
@@ -28,7 +29,6 @@
 * [2023-09-08, 08:02:30](https://news.ycombinator.com/item?id=37430857) - [The Le Guin Precepts](https://seths.blog/2023/09/the-leguin-precepts/)
 * [2023-09-08, 03:51:55](https://news.ycombinator.com/item?id=37429046) - [How to Make a Synthetic Diamond](https://www.instructables.com/How-to-Make-a-Synthetic-Diamond/)
 * [2023-09-08, 02:26:44](https://news.ycombinator.com/item?id=37428491) - [I used a Game Boy camera for Facetime video calls in iPadOS 17](https://www.macstories.net/stories/i-used-a-game-boy-camera-for-facetime-video-calls-in-ipados-17-and-it-was-glorious/)
-* [2023-09-07, 14:50:54](https://news.ycombinator.com/item?id=37419739) - [A test of memory for stimulus sequences in great apes](https://neurosciencenews.com/sequential-memory-human-trait-23888/)
 * [2023-09-07, 13:53:46](https://news.ycombinator.com/item?id=37418944) - [The new Polaroid I-2 instant camera](https://i2-camera.polaroid.com)
 
 ## [Archives](archives/index.md)

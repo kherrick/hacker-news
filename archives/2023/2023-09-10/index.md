@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-10](index.md)
 
 * [2023-09-10, 09:47:36](https://news.ycombinator.com/item?id=37454349) - [Ask HN: Can you end up on the “No Fly” list for putting AirTags in your luggage?](https://news.ycombinator.com/item?id=37454349)
+* [2023-09-10, 09:40:19](https://news.ycombinator.com/item?id=37454301) - [Breathing Life Back into a Minitel 1B with the Minimit](https://blog.jgc.org/2023/09/breathing-life-back-into-minitel-1b.html)
 * [2023-09-10, 08:10:06](https://news.ycombinator.com/item?id=37453854) - [Nginx Unit – Universal web app server](https://github.com/nginx/unit)
 * [2023-09-10, 07:51:11](https://news.ycombinator.com/item?id=37453755) - [Show HN: Papersnap – Claude 2-Powered Mind Maps from Research](https://poe.com/universal_link_page?handle=PAPERSNAP)
 * [2023-09-10, 06:41:20](https://news.ycombinator.com/item?id=37453465) - [ZF makes magnet-free electric motor uniquely compact and competitive](https://press.zf.com/press/en/releases/release_60480.html)
