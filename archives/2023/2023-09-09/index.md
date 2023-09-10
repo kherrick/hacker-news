@@ -74,6 +74,7 @@
 * [2023-09-09, 11:27:54](https://news.ycombinator.com/item?id=37444159) - [Privacy Sandbox for the Web reaches general availability](https://privacysandbox.com/intl/en_us/news/privacy-sandbox-for-the-web-reaches-general-availability/)
 * [2023-09-09, 11:20:24](https://news.ycombinator.com/item?id=37444113) - [‘Stop Making Sense’ Is Back, and Talking Heads Have More to Say](https://www.nytimes.com/2023/09/09/arts/music/talking-heads-stop-making-sense.html)
 * [2023-09-09, 11:12:22](https://news.ycombinator.com/item?id=37444066) - [The Berkeley Hotel Hostage of Douglas Adams](https://www.thebookseller.com/features/berkeley-hotel-hostage)
+* [2023-09-09, 10:52:37](https://news.ycombinator.com/item?id=37443959) - [It's my Monitor](https://popey.com/blog/2023/09/its-my-monitor/)
 * [2023-09-09, 09:39:44](https://news.ycombinator.com/item?id=37443644) - [Privacy Nightmare on Wheels’: Every Car Brand Reviewed by Mozilla](https://foundation.mozilla.org/en/blog/privacy-nightmare-on-wheels-every-car-brand-reviewed-by-mozilla-including-ford-volkswagen-and-toyota-flunks-privacy-test/)
 * [2023-09-09, 09:36:58](https://news.ycombinator.com/item?id=37443634) - [Google's Statement on the UK Online Safety Bill](https://bills.parliament.uk/publications/46675/documents/1885)
 * [2023-09-09, 08:44:52](https://news.ycombinator.com/item?id=37443404) - [Bare-Metal Kubernetes, Part I: Talos on Hetzner](https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/)
