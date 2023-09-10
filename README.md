@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-10, 03:02:38](https://news.ycombinator.com/item?id=37452528) - [Magic and Loss, Part 1: Magic in the Cards](https://www.filfre.net/2023/09/magic-and-loss-part-1-magic-in-the-cards/)
 * [2023-09-10, 01:33:14](https://news.ycombinator.com/item?id=37452051) - [GitHub – GSA/code-gov: An informative repo for all Code.gov repos](https://github.com/GSA/code-gov)
 * [2023-09-10, 01:03:04](https://news.ycombinator.com/item?id=37451913) - [I Wrote a String Type](https://mcyoung.xyz/2023/08/09/yarns/)
 * [2023-09-10, 00:30:20](https://news.ycombinator.com/item?id=37451728) - [Coffee in a Can](https://one-from-nippon.ghost.io/coffee-in-a-can/)
@@ -19,7 +20,6 @@
 * [2023-09-09, 13:51:33](https://news.ycombinator.com/item?id=37445401) - [Asking 60 LLMs a set of 20 questions](https://benchmarks.llmonitor.com)
 * [2023-09-09, 08:25:03](https://news.ycombinator.com/item?id=37443316) - [A guy preserving the new history of PC games, one Linux port at a time](https://www.404media.co/meet-the-guy-preserving-the-new-history-of-pc-games-one-linux-port-at-a-time/)
 * [2023-09-08, 23:45:55](https://news.ycombinator.com/item?id=37440696) - [Dennis Austin, developer of PowerPoint, has died](https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/)
-* [2023-09-08, 14:15:01](https://news.ycombinator.com/item?id=37433784) - [A Teen Celebrity in 1804](https://daily.jstor.org/a-teen-celebrity-in-1804/)
 * [2023-09-08, 11:49:55](https://news.ycombinator.com/item?id=37432336) - [A small-town police officer took down a large match-fixing ring in tennis](https://www.washingtonpost.com/world/interactive/2023/tennis-match-fixing-gambling-investigation-belgium/)
 * [2023-09-08, 09:47:29](https://news.ycombinator.com/item?id=37431588) - [Unpacking Elixir: Real-Time and Latency](https://underjord.io/unpacking-elixir-realtime-latency.html)
 * [2023-09-08, 09:33:07](https://news.ycombinator.com/item?id=37431496) - [Chromostereopsis](https://www.smartermarx.com/t/chromostereopsis/650)
