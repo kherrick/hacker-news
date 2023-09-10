@@ -8,6 +8,7 @@
 * [2023-09-10, 14:57:25](https://news.ycombinator.com/item?id=37456399) - [The fear of a nuclear fire that would consume Earth](https://www.bbc.com/future/article/20230907-the-fear-of-a-nuclear-fire-that-would-consume-earth)
 * [2023-09-10, 14:36:51](https://news.ycombinator.com/item?id=37456189) - [Do UK ISPs Have Permission to Monitor IPTV Pirates and Share Their Data?](https://torrentfreak.com/do-uk-isps-have-permission-to-monitor-iptv-pirates-share-their-data-230910/)
 * [2023-09-10, 14:15:22](https://news.ycombinator.com/item?id=37455952) - [Heat Waves and Climate Change: Understanding the Link](https://mercurialtrends.com/heat-waves-and-climate-change-understanding-the-link/)
+* [2023-09-10, 14:04:34](https://news.ycombinator.com/item?id=37455859) - [Training and Aligning LLMs with RLHF and RLHF Alternatives](https://magazine.sebastianraschka.com/p/llm-training-rlhf-and-its-alternatives)
 * [2023-09-10, 14:00:45](https://news.ycombinator.com/item?id=37455817) - [Phoenix has set another heat record by hitting 110 degrees on 54 days this year](https://www.npr.org/2023/09/10/1198669796/phoenix-sets-another-heat-record)
 * [2023-09-10, 13:50:11](https://news.ycombinator.com/item?id=37455743) - [It’s way past time to stop police ‘testilying’](https://knowablemagazine.org/article/society/2023/time-to-end-police-deception)
 * [2023-09-10, 13:28:25](https://news.ycombinator.com/item?id=37455621) - [How does Linux NAT a ping?](https://devnonsense.com/posts/how-does-linux-nat-a-ping/)
