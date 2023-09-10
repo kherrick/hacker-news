@@ -58,6 +58,7 @@
 * [2023-09-07, 16:08:08](https://news.ycombinator.com/item?id=37421083) - [Study finds influence of smaller Jersey numbers on perception](https://www.espn.com/nfl/story/_/id/38343968/study-finds-influence-smaller-jersey-numbers-perception)
 * [2023-09-07, 15:56:31](https://news.ycombinator.com/item?id=37420885) - [Microsoft will assume liability for legal copyright risks of Copilot](https://blogs.microsoft.com/on-the-issues/2023/09/07/copilot-copyright-commitment-ai-legal-concerns/)
 * [2023-09-07, 15:53:41](https://news.ycombinator.com/item?id=37420836) - [Is LangChain Pointless?](https://www.latent.space/p/langchain#details)
+* [2023-09-07, 15:53:34](https://news.ycombinator.com/item?id=37420834) - [The Dendera Dating Controversy](https://www.historytoday.com/archive/great-debates/signs-zodiac-dendera-dating-controversy)
 * [2023-09-07, 15:53:23](https://news.ycombinator.com/item?id=37420831) - [Active North Korean campaign targeting security researchers](https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/)
 * [2023-09-07, 15:52:09](https://news.ycombinator.com/item?id=37420812) - [John McCarthy’s collection of numerical facts for use in elisp programs](http://www-formal.stanford.edu/jmc/facts.txt)
 * [2023-09-07, 15:45:04](https://news.ycombinator.com/item?id=37420690) - [Semver violations are common, better tooling is the answer](https://predr.ag/blog/semver-violations-are-common-better-tooling-is-the-answer/)
