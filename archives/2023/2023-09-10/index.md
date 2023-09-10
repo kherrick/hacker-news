@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-10](index.md)
 
+* [2023-09-10, 14:15:22](https://news.ycombinator.com/item?id=37455952) - [Heat Waves and Climate Change: Understanding the Link](https://mercurialtrends.com/heat-waves-and-climate-change-understanding-the-link/)
 * [2023-09-10, 14:00:45](https://news.ycombinator.com/item?id=37455817) - [Phoenix has set another heat record by hitting 110 degrees on 54 days this year](https://www.npr.org/2023/09/10/1198669796/phoenix-sets-another-heat-record)
+* [2023-09-10, 13:50:11](https://news.ycombinator.com/item?id=37455743) - [It’s way past time to stop police ‘testilying’](https://knowablemagazine.org/article/society/2023/time-to-end-police-deception)
 * [2023-09-10, 13:28:25](https://news.ycombinator.com/item?id=37455621) - [How does Linux NAT a ping?](https://devnonsense.com/posts/how-does-linux-nat-a-ping/)
 * [2023-09-10, 13:20:13](https://news.ycombinator.com/item?id=37455574) - [Google no longer offers new domain registrations](https://domains.google/)
 * [2023-09-10, 13:14:45](https://news.ycombinator.com/item?id=37455534) - [Earth had hottest 3-months on record; unprecedented sea temps & extreme weather](https://public.wmo.int/en/media/press-release/earth-had-hottest-three-month-period-record-unprecedented-sea-surface)
