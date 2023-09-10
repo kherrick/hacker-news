@@ -11,6 +11,36 @@
   ],
   [
     [
+      "2023-09-10, 21:54:41",
+      "https://news.ycombinator.com/item?id=37460479"
+    ],
+    [
+      "Rushed exodus frm rain soaked BurningMan could have adverse environmental impact",
+      "https://thenevadaindependent.com/article/scars-on-the-playa-rushed-exodus-from-rain-soaked-burning-man-could-have-adverse-environmental-impacts"
+    ]
+  ],
+  [
+    [
+      "2023-09-10, 21:53:15",
+      "https://news.ycombinator.com/item?id=37460465"
+    ],
+    [
+      "Improving NeRF quality by progressive camera placement",
+      "https://arxiv.org/abs/2309.00014"
+    ]
+  ],
+  [
+    [
+      "2023-09-10, 21:33:30",
+      "https://news.ycombinator.com/item?id=37460288"
+    ],
+    [
+      "Government debt needs to be repaid, and other myths about the federal deficit",
+      "https://www.barrons.com/articles/federal-deficit-debt-trillions-fed-investors-c8df4121"
+    ]
+  ],
+  [
+    [
       "2023-09-10, 21:30:07",
       "https://news.ycombinator.com/item?id=37460267"
     ],
@@ -41,16 +71,6 @@
   ],
   [
     [
-      "2023-09-10, 20:38:34",
-      "https://news.ycombinator.com/item?id=37459829"
-    ],
-    [
-      "Static Hermes: Compile JavaScript to speed it up 300x (in microbenchmarks)",
-      "https://tmikov.blogspot.com/2023/09/how-to-speed-up-micro-benchmark-300x.html"
-    ]
-  ],
-  [
-    [
       "2023-09-10, 20:07:12",
       "https://news.ycombinator.com/item?id=37459495"
     ],
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=37459371"
     ],
     [
-      "Why is the ocean salty?",
+      "Why is the ocean salty? (2022)",
       "https://www.usgs.gov/faqs/why-ocean-salty"
     ]
   ],
@@ -75,18 +95,8 @@
       "https://news.ycombinator.com/item?id=37458753"
     ],
     [
-      "Battery-Electric Fishing Vessel Marks a Sea Change for Small Commercial Fishers",
+      "Battery-electric fishing vessel marks a sea change for small commercial fishers",
       "https://www.nrel.gov/news/program/2023/battery-electric-fishing-vessel-marks-a-sea-change-for-small-commercial-fishers.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-10, 18:39:15",
-      "https://news.ycombinator.com/item?id=37458671"
-    ],
-    [
-      "Why SaaS prices are still going up when companies are spending less",
-      "https://www.vendr.com/blog/price-hikes-continue"
     ]
   ],
   [
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=37457208"
     ],
     [
-      "What I Have Changed My Mind About in Software Development",
+      "What I have changed my mind about in software development",
       "https://henrikwarne.com/2023/09/10/what-i-have-changed-my-mind-about-in-software-development/"
     ]
   ],
@@ -155,7 +165,7 @@
       "https://news.ycombinator.com/item?id=37455859"
     ],
     [
-      "Training and Aligning LLMs with RLHF and RLHF Alternatives",
+      "Training and aligning LLMs with RLHF and RLHF alternatives",
       "https://magazine.sebastianraschka.com/p/llm-training-rlhf-and-its-alternatives"
     ]
   ],
@@ -195,7 +205,7 @@
       "https://news.ycombinator.com/item?id=37454853"
     ],
     [
-      "“Make” as a Static Site Generator (2022)",
+      "“Make” as a static site generator (2022)",
       "https://www.karl.berlin/static-site.html"
     ]
   ],
@@ -221,22 +231,22 @@
   ],
   [
     [
+      "2023-09-10, 09:40:19",
+      "https://news.ycombinator.com/item?id=37454301"
+    ],
+    [
+      "Breathing life back into a Minitel 1B with the Minimit",
+      "https://blog.jgc.org/2023/09/breathing-life-back-into-minitel-1b.html"
+    ]
+  ],
+  [
+    [
       "2023-09-10, 08:10:06",
       "https://news.ycombinator.com/item?id=37453854"
     ],
     [
       "Nginx Unit – Universal web app server",
       "https://github.com/nginx/unit"
-    ]
-  ],
-  [
-    [
-      "2023-09-10, 07:22:18",
-      "https://news.ycombinator.com/item?id=37453616"
-    ],
-    [
-      "The Decline of Usability (2020)",
-      "https://datagubbe.se/decusab/"
     ]
   ],
   [
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=37443089"
     ],
     [
-      "Delightfully strange: Mystery 'golden egg' found on ocean floor",
+      "Mystery 'golden egg' found on ocean floor",
       "https://phys.org/news/2023-09-strange-mystery-golden-egg-ocean.html"
     ]
   ],
@@ -275,7 +285,7 @@
       "https://news.ycombinator.com/item?id=37442417"
     ],
     [
-      "The Holy Heresies of George Eliot",
+      "The holy heresies of George Eliot",
       "https://www.newyorker.com/magazine/2023/09/11/the-marriage-question-george-eliots-double-life-clare-carlisle-book-review"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Profound Beliefs",
       "https://steveblank.com/2023/09/05/profound-beliefs/"
-    ]
-  ],
-  [
-    [
-      "2023-09-08, 23:31:59",
-      "https://news.ycombinator.com/item?id=37440572"
-    ],
-    [
-      "DBSP: Automatic Incremental View Maintenance for Rich Query Languages [pdf]",
-      "https://www.feldera.com/assets/files/vldb23-1bfe30b29f95168c8e1f427fccfc6da2.pdf"
     ]
   ]
 ]
