@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-10, 02:14:40](https://news.ycombinator.com/item?id=37452279) - [Sci-Fi Short Film “Slaughterbots” [video] (2017)](https://www.youtube.com/watch?v=O-2tpwW0kmU)
-* [2023-09-10, 01:42:26](https://news.ycombinator.com/item?id=37452106) - [Starfield’s missing Nvidia DLSS support has been added by a free mod](https://arstechnica.com/gaming/2023/09/starfields-missing-nvidia-dlss-support-has-been-added-by-a-free-mod/)
 * [2023-09-10, 01:33:14](https://news.ycombinator.com/item?id=37452051) - [GitHub – GSA/code-gov: An informative repo for all Code.gov repos](https://github.com/GSA/code-gov)
 * [2023-09-10, 01:03:04](https://news.ycombinator.com/item?id=37451913) - [I Wrote a String Type](https://mcyoung.xyz/2023/08/09/yarns/)
 * [2023-09-10, 00:30:20](https://news.ycombinator.com/item?id=37451728) - [Coffee in a Can](https://one-from-nippon.ghost.io/coffee-in-a-can/)
@@ -28,6 +27,7 @@
 * [2023-09-07, 17:21:49](https://news.ycombinator.com/item?id=37422349) - [The Rise and Fall of ESPN’s Leverage](https://stratechery.com/2023/the-rise-and-fall-of-espns-leverage/)
 * [2023-09-07, 14:50:54](https://news.ycombinator.com/item?id=37419739) - [A test of memory for stimulus sequences in great apes](https://neurosciencenews.com/sequential-memory-human-trait-23888/)
 * [2023-09-07, 13:53:46](https://news.ycombinator.com/item?id=37418944) - [The new Polaroid I-2 instant camera](https://i2-camera.polaroid.com)
+* [2023-09-07, 06:54:38](https://news.ycombinator.com/item?id=37415587) - [The Next Feature Fallacy (2015)](https://andrewchen.com/the-next-feature-fallacy-the-fallacy-that-the-next-new-feature-will-suddenly-make-people-use-your-product/)
 * [2023-09-06, 23:55:59](https://news.ycombinator.com/item?id=37413027) - [The era-defining aesthetic of “In the Mood for Love”](https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love)
 * [2023-09-06, 23:35:23](https://news.ycombinator.com/item?id=37412845) - [Researchers use AI to find new magnetic materials](https://phys.org/news/2023-09-ai-magnetic-materials-critical-elements.html)
 
