@@ -23,7 +23,7 @@
 * [2023-09-09, 22:27:16](https://news.ycombinator.com/item?id=37450915) - [Lithium discovery in US volcano could be biggest deposit ever found](https://www.chemistryworld.com/news/lithium-discovery-in-us-volcano-could-be-biggest-deposit-ever-found/4018032.article)
 * [2023-09-09, 13:10:05](https://news.ycombinator.com/item?id=37444946) - [My mental model of Clojure transducers](https://blog.danieljanus.pl/2023/09/09/transducers/)
 * [2023-09-09, 10:52:37](https://news.ycombinator.com/item?id=37443959) - [It's My Monitor](https://popey.com/blog/2023/09/its-my-monitor/)
-* [2023-09-09, 08:25:03](https://news.ycombinator.com/item?id=37443316) - [A guy preserving the new history of PC games, one Linux port at a time](https://www.404media.co/meet-the-guy-preserving-the-new-history-of-pc-games-one-linux-port-at-a-time/)
+* [2023-09-09, 09:35:30](https://news.ycombinator.com/item?id=37443629) - [The Printing Press Under an X-Ray Microscope](https://physics.aps.org/articles/v16/154)
 * [2023-09-09, 07:32:52](https://news.ycombinator.com/item?id=37443089) - [Delightfully strange: Mystery 'golden egg' found on ocean floor](https://phys.org/news/2023-09-strange-mystery-golden-egg-ocean.html)
 * [2023-09-09, 04:16:23](https://news.ycombinator.com/item?id=37442235) - [The Works of Mars (1671)](https://publicdomainreview.org/collection/arbeid-van-mars/)
 * [2023-09-09, 00:04:01](https://news.ycombinator.com/item?id=37440842) - [Profound Beliefs](https://steveblank.com/2023/09/05/profound-beliefs/)
