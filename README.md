@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-10, 06:24:30](https://news.ycombinator.com/item?id=37453412) - [New solar energy storage tech opened in Australia](https://reneweconomy.com.au/the-australian-solar-tech-that-may-have-found-a-low-cost-solution-to-deep-storage/)
+* [2023-09-10, 04:07:19](https://news.ycombinator.com/item?id=37452801) - [Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2757236)
 * [2023-09-10, 03:02:38](https://news.ycombinator.com/item?id=37452528) - [Magic and Loss, Part 1: Magic in the Cards](https://www.filfre.net/2023/09/magic-and-loss-part-1-magic-in-the-cards/)
 * [2023-09-10, 01:33:14](https://news.ycombinator.com/item?id=37452051) - [GitHub – GSA/code-gov: An informative repo for all Code.gov repos](https://github.com/GSA/code-gov)
 * [2023-09-10, 01:03:04](https://news.ycombinator.com/item?id=37451913) - [I Wrote a String Type](https://mcyoung.xyz/2023/08/09/yarns/)
