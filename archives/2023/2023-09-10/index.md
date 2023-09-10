@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-10](index.md)
 
+* [2023-09-10, 22:36:24](https://news.ycombinator.com/item?id=37460815) - [The Awk book’s 60-line version of Make](https://benhoyt.com/writings/awk-make/)
 * [2023-09-10, 22:10:09](https://news.ycombinator.com/item?id=37460614) - [RISC-V SBI and the full boot process](https://popovicu.com/posts/risc-v-sbi-and-full-boot-process/)
 * [2023-09-10, 21:54:41](https://news.ycombinator.com/item?id=37460479) - [Rushed exodus frm rain soaked BurningMan could have adverse environmental impact](https://thenevadaindependent.com/article/scars-on-the-playa-rushed-exodus-from-rain-soaked-burning-man-could-have-adverse-environmental-impacts)
 * [2023-09-10, 21:53:15](https://news.ycombinator.com/item?id=37460465) - [Improving NeRF quality by progressive camera placement](https://arxiv.org/abs/2309.00014)
