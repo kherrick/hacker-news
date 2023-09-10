@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-09-10, 22:10:09",
+      "https://news.ycombinator.com/item?id=37460614"
+    ],
+    [
+      "RISC-V SBI and the full boot process",
+      "https://popovicu.com/posts/risc-v-sbi-and-full-boot-process/"
+    ]
+  ],
+  [
+    [
       "2023-09-10, 21:51:42",
       "https://news.ycombinator.com/item?id=37460450"
     ],
     [
       "Lockheed Martin, world's largest arms dealer, getting into streetwear business",
       "https://www.nytimes.com/2023/09/08/style/lockheed-martin-fashion.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-10, 21:30:07",
+      "https://news.ycombinator.com/item?id=37460267"
+    ],
+    [
+      "Small prey compelled prehistoric humans to produce appropriate hunting weapons",
+      "https://phys.org/news/2023-09-small-prey-compelled-prehistoric-humans.html"
     ]
   ],
   [
@@ -21,21 +41,11 @@
   ],
   [
     [
-      "2023-09-10, 20:46:52",
-      "https://news.ycombinator.com/item?id=37459911"
-    ],
-    [
-      "How to pass the interview for software engineering roles in Big Tech",
-      "https://www.lambrospetrou.com/articles/big-tech-software-interviews/"
-    ]
-  ],
-  [
-    [
       "2023-09-10, 20:07:12",
       "https://news.ycombinator.com/item?id=37459495"
     ],
     [
-      "$400M in assets to bankrupt in 45-minutes because of a failed deployment (2014)",
+      "Knightmare: A DevOps Cautionary Tale (2014)",
       "https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/"
     ]
   ],
@@ -45,18 +55,8 @@
       "https://news.ycombinator.com/item?id=37459371"
     ],
     [
-      "Why Is the Ocean Salty?",
+      "Why is the ocean salty?",
       "https://www.usgs.gov/faqs/why-ocean-salty"
-    ]
-  ],
-  [
-    [
-      "2023-09-10, 19:30:09",
-      "https://news.ycombinator.com/item?id=37459121"
-    ],
-    [
-      "The Linux Information Project",
-      "https://www.linfo.org/"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2023-09-10, 09:40:19",
+      "https://news.ycombinator.com/item?id=37454301"
+    ],
+    [
+      "Breathing Life Back into a Minitel 1B with the Minimit",
+      "https://blog.jgc.org/2023/09/breathing-life-back-into-minitel-1b.html"
+    ]
+  ],
+  [
+    [
       "2023-09-10, 08:10:06",
       "https://news.ycombinator.com/item?id=37453854"
     ],
@@ -257,16 +267,6 @@
     [
       "It's My Monitor",
       "https://popey.com/blog/2023/09/its-my-monitor/"
-    ]
-  ],
-  [
-    [
-      "2023-09-09, 08:12:21",
-      "https://news.ycombinator.com/item?id=37443252"
-    ],
-    [
-      "Making a newsletter backend",
-      "https://axleos.com/making-a-newsletter-backend/"
     ]
   ],
   [
