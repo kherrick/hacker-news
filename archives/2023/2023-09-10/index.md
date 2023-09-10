@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-09-10](index.md)
 
+* [2023-09-10, 20:07:12](https://news.ycombinator.com/item?id=37459495) - [$400M in assets to bankrupt in 45-minutes because of a failed deployment (2014)](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
 * [2023-09-10, 19:56:32](https://news.ycombinator.com/item?id=37459371) - [Why Is the Ocean Salty?](https://www.usgs.gov/faqs/why-ocean-salty)
 * [2023-09-10, 19:00:08](https://news.ycombinator.com/item?id=37458861) - [Five billion people will face extreme heat at least a month each year by 2050](https://www.washingtonpost.com/climate-environment/interactive/2023/extreme-heat-wet-bulb-globe-temperature/)
 * [2023-09-10, 18:48:07](https://news.ycombinator.com/item?id=37458753) - [Battery-Electric Fishing Vessel Marks a Sea Change for Small Commercial Fishers](https://www.nrel.gov/news/program/2023/battery-electric-fishing-vessel-marks-a-sea-change-for-small-commercial-fishers.html)
 * [2023-09-10, 18:41:48](https://news.ycombinator.com/item?id=37458696) - [Mistakes You Should Never Make](https://web.archive.org/web/20140803073308/http://sethbannon.com/mistakes-you-should-never-make)
+* [2023-09-10, 18:41:48](https://news.ycombinator.com/item?id=37458696) - [Mistakes You Should Never Make (2014)](https://www.sethbannon.com/p/mistakes-you-should-never-make)
 * [2023-09-10, 18:39:15](https://news.ycombinator.com/item?id=37458671) - [Why SaaS prices are still going up when companies are spending less](https://www.vendr.com/blog/price-hikes-continue)
 * [2023-09-10, 18:00:54](https://news.ycombinator.com/item?id=37458315) - [The Decomposition of Rotten Tomatoes](https://longreads.com/2023/09/07/the-decomposition-of-rotten-tomatoes/)
 * [2023-09-10, 17:57:42](https://news.ycombinator.com/item?id=37458283) - [A Senior Engineer's Check-List](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/)
