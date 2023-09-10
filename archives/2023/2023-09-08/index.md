@@ -85,6 +85,7 @@
 * [2023-09-08, 09:29:59](https://news.ycombinator.com/item?id=37431474) - [LibreWolf – custom version of Firefox, focused on privacy, security and freedom](https://librewolf.net/)
 * [2023-09-08, 09:24:25](https://news.ycombinator.com/item?id=37431433) - [ASMesh: Anonymous, Secure Messaging in Mesh Networks](https://eprint.iacr.org/2023/1053)
 * [2023-09-08, 09:23:27](https://news.ycombinator.com/item?id=37431425) - [Just how constexpr is C++20’s std:string?](https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/)
+* [2023-09-08, 08:47:49](https://news.ycombinator.com/item?id=37431160) - [The Nine Most Important Types of Pizza in America](https://www.bloomberg.com/news/articles/2023-09-07/the-nine-most-important-types-of-pizza-in-america)
 * [2023-09-08, 08:47:44](https://news.ycombinator.com/item?id=37431159) - [Discovery shines light on Church's protection of Jews during Nazi persecution](https://www.vaticannews.va/en/vatican-city/news/2023-09/douments-pontifical-biblical-commission-nazi-persecution-church.html)
 * [2023-09-08, 08:02:30](https://news.ycombinator.com/item?id=37430857) - [The Le Guin Precepts](https://seths.blog/2023/09/the-leguin-precepts/)
 * [2023-09-08, 08:01:09](https://news.ycombinator.com/item?id=37430842) - [Michael Taylor on the Development of the M1 Garand and Its Implications](https://acoup.blog/2023/09/08/michael-taylor-on-the-development-of-the-m1-garand-and-its-implications/)
