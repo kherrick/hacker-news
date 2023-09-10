@@ -82,6 +82,7 @@
 * [2023-09-09, 08:17:33](https://news.ycombinator.com/item?id=37443280) - [Bitwarden has been disabled in Chrome [img]](https://imgur.com/XPmU2FX)
 * [2023-09-09, 08:12:21](https://news.ycombinator.com/item?id=37443252) - [Making a newsletter backend](https://axleos.com/making-a-newsletter-backend/)
 * [2023-09-09, 07:17:06](https://news.ycombinator.com/item?id=37442998) - [X challenges California’s new transparency law as unconstitutional](https://techcrunch.com/2023/09/08/twitter-x-elon-musk-california-moderation-transparency-law-as-unconstitutional-ab-587/)
+* [2023-09-09, 07:14:07](https://news.ycombinator.com/item?id=37442986) - [Common garden weeds in Southern California](https://gregalder.com/yardposts/common-garden-weeds-in-southern-california/)
 * [2023-09-09, 07:04:40](https://news.ycombinator.com/item?id=37442927) - [Experts fear crooks are cracking keys stolen in LastPass breach](https://krebsonsecurity.com/)
 * [2023-09-09, 07:02:21](https://news.ycombinator.com/item?id=37442922) - [Library of Short Stories – An online library of public domain short stories](https://www.libraryofshortstories.com/)
 * [2023-09-09, 06:33:32](https://news.ycombinator.com/item?id=37442810) - [The Development of the C Language](http://cm.bell-labs.co/who/dmr/chist.html)
