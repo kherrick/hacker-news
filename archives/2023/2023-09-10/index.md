@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-10](index.md)
 
+* [2023-09-10, 23:02:53](https://news.ycombinator.com/item?id=37460974) - [The New Clubhouse](https://blog.clubhouse.com/the-new-clubhouse/)
+* [2023-09-10, 22:36:27](https://news.ycombinator.com/item?id=37460817) - [Superbatteries will transform the performance of EVs](https://www.economist.com/science-and-technology/2023/08/23/superbatteries-will-transform-the-performance-of-evs)
 * [2023-09-10, 22:36:24](https://news.ycombinator.com/item?id=37460815) - [The Awk book’s 60-line version of Make](https://benhoyt.com/writings/awk-make/)
 * [2023-09-10, 22:10:09](https://news.ycombinator.com/item?id=37460614) - [RISC-V SBI and the full boot process](https://popovicu.com/posts/risc-v-sbi-and-full-boot-process/)
 * [2023-09-10, 21:54:41](https://news.ycombinator.com/item?id=37460479) - [Rushed exodus frm rain soaked BurningMan could have adverse environmental impact](https://thenevadaindependent.com/article/scars-on-the-playa-rushed-exodus-from-rain-soaked-burning-man-could-have-adverse-environmental-impacts)
@@ -68,6 +70,7 @@
 * [2023-09-10, 04:25:15](https://news.ycombinator.com/item?id=37452895) - [How Skeletal Muscle Mass Impacts Cognitive Health](https://gethealthspan.com/blog/articles/skeletal-muscle-impact-on-cognitive-health/5d43mmao0pjucjmjqsjsol/)
 * [2023-09-10, 04:07:19](https://news.ycombinator.com/item?id=37452801) - [Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2757236)
 * [2023-09-10, 03:02:38](https://news.ycombinator.com/item?id=37452528) - [Magic and Loss, Part 1: Magic in the Cards](https://www.filfre.net/2023/09/magic-and-loss-part-1-magic-in-the-cards/)
+* [2023-09-10, 02:23:55](https://news.ycombinator.com/item?id=37452330) - [The Wachowskis and the Hacker as a progressive archetype](https://www.datagubbe.se/proghack/)
 * [2023-09-10, 02:14:40](https://news.ycombinator.com/item?id=37452279) - [Sci-Fi Short Film “Slaughterbots” [video]](https://www.youtube.com/watch?v=O-2tpwW0kmU)
 * [2023-09-10, 01:42:26](https://news.ycombinator.com/item?id=37452106) - [Starfield’s missing Nvidia DLSS support has been added by a free mod](https://arstechnica.com/gaming/2023/09/starfields-missing-nvidia-dlss-support-has-been-added-by-a-free-mod/)
 * [2023-09-10, 01:33:14](https://news.ycombinator.com/item?id=37452051) - [GitHub – GSA/code-gov: An informative repo for all Code.gov repos](https://github.com/GSA/code-gov)
