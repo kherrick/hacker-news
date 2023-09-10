@@ -2,6 +2,7 @@
 
 * [2023-09-10, 15:03:53](https://news.ycombinator.com/item?id=37456471) - [Peredvizhnikov Engine is a fully lock-free game engine written in C++20](https://github.com/eduard-permyakov/peredvizhnikov-engine)
 * [2023-09-10, 14:57:25](https://news.ycombinator.com/item?id=37456399) - [The fear of a nuclear fire that would consume Earth](https://www.bbc.com/future/article/20230907-the-fear-of-a-nuclear-fire-that-would-consume-earth)
+* [2023-09-10, 14:29:15](https://news.ycombinator.com/item?id=37456115) - [Textual-web: Run TUIs and terminals in the browser](https://github.com/Textualize/textual-web)
 * [2023-09-10, 14:04:34](https://news.ycombinator.com/item?id=37455859) - [Training and Aligning LLMs with RLHF and RLHF Alternatives](https://magazine.sebastianraschka.com/p/llm-training-rlhf-and-its-alternatives)
 * [2023-09-10, 13:50:11](https://news.ycombinator.com/item?id=37455743) - [It’s way past time to stop police ‘testilying’](https://knowablemagazine.org/article/society/2023/time-to-end-police-deception)
 * [2023-09-10, 13:28:25](https://news.ycombinator.com/item?id=37455621) - [How does Linux NAT a ping?](https://devnonsense.com/posts/how-does-linux-nat-a-ping/)
@@ -16,7 +17,6 @@
 * [2023-09-10, 08:10:06](https://news.ycombinator.com/item?id=37453854) - [Nginx Unit – Universal web app server](https://github.com/nginx/unit)
 * [2023-09-10, 07:22:18](https://news.ycombinator.com/item?id=37453616) - [The Decline of Usability (2020)](https://datagubbe.se/decusab/)
 * [2023-09-10, 06:41:20](https://news.ycombinator.com/item?id=37453465) - [ZF makes magnet-free electric motor uniquely compact and competitive](https://press.zf.com/press/en/releases/release_60480.html)
-* [2023-09-10, 00:30:20](https://news.ycombinator.com/item?id=37451728) - [Coffee in a Can](https://one-from-nippon.ghost.io/coffee-in-a-can/)
 * [2023-09-09, 23:54:29](https://news.ycombinator.com/item?id=37451518) - [Memories from old LAN parties](https://thomask.sdf.org/blog/2023/09/09/memories-from-old-lan-parties.html)
 * [2023-09-09, 22:27:16](https://news.ycombinator.com/item?id=37450915) - [Lithium discovery in US volcano could be biggest deposit ever found](https://www.chemistryworld.com/news/lithium-discovery-in-us-volcano-could-be-biggest-deposit-ever-found/4018032.article)
 * [2023-09-09, 13:10:05](https://news.ycombinator.com/item?id=37444946) - [My mental model of Clojure transducers](https://blog.danieljanus.pl/2023/09/09/transducers/)
