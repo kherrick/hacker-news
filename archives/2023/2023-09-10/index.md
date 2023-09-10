@@ -7,6 +7,7 @@
 * [2023-09-10, 19:00:08](https://news.ycombinator.com/item?id=37458861) - [Five billion people will face extreme heat at least a month each year by 2050](https://www.washingtonpost.com/climate-environment/interactive/2023/extreme-heat-wet-bulb-globe-temperature/)
 * [2023-09-10, 18:41:48](https://news.ycombinator.com/item?id=37458696) - [Mistakes You Should Never Make](https://web.archive.org/web/20140803073308/http://sethbannon.com/mistakes-you-should-never-make)
 * [2023-09-10, 18:39:15](https://news.ycombinator.com/item?id=37458671) - [Why SaaS prices are still going up when companies are spending less](https://www.vendr.com/blog/price-hikes-continue)
+* [2023-09-10, 18:00:54](https://news.ycombinator.com/item?id=37458315) - [The Decomposition of Rotten Tomatoes](https://longreads.com/2023/09/07/the-decomposition-of-rotten-tomatoes/)
 * [2023-09-10, 17:57:42](https://news.ycombinator.com/item?id=37458283) - [A Senior Engineer's Check-List](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/)
 * [2023-09-10, 17:53:10](https://news.ycombinator.com/item?id=37458236) - [KSMBD Declared Stable – No Longer “Experimental” – In Linux 6.6](https://www.phoronix.com/news/KSMBD-Stable-Linux-6.6)
 * [2023-09-10, 17:51:59](https://news.ycombinator.com/item?id=37458221) - [Linux 6.6 WQ Change May Help AMD CPUs and Other Systems with Multiple L3 Caches](https://www.phoronix.com/news/Linux-6.6-Workqueue)
