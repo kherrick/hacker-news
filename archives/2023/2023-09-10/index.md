@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-10](index.md)
 
+* [2023-09-10, 12:51:24](https://news.ycombinator.com/item?id=37455382) - [Is air conditioning making cities hotter?](https://www.euronews.com/green/2023/08/30/fact-check-is-air-conditioning-making-cities-hotter)
 * [2023-09-10, 11:30:29](https://news.ycombinator.com/item?id=37454853) - [“Make” as a Static Site Generator](https://www.karl.berlin/static-site.html)
 * [2023-09-10, 11:12:13](https://news.ycombinator.com/item?id=37454766) - [I wired up my bike's GPS to order me pizza during a gravel race](https://steele.blue/geofence-pizza-ordering/)
 * [2023-09-10, 10:59:49](https://news.ycombinator.com/item?id=37454707) - [New JFK Assassination Revelation Could Upend the Long-Held “Lone Gunman” Theory](https://www.vanityfair.com/news/2023/09/new-jfk-assassination-revelation-upend-lone-gunman)
@@ -14,6 +15,7 @@
 * [2023-09-10, 07:22:18](https://news.ycombinator.com/item?id=37453616) - [The Decline of Usability (2020)](https://datagubbe.se/decusab/)
 * [2023-09-10, 06:41:20](https://news.ycombinator.com/item?id=37453465) - [ZF makes magnet-free electric motor uniquely compact and competitive](https://press.zf.com/press/en/releases/release_60480.html)
 * [2023-09-10, 06:24:30](https://news.ycombinator.com/item?id=37453412) - [New solar energy storage tech opened in Australia](https://reneweconomy.com.au/the-australian-solar-tech-that-may-have-found-a-low-cost-solution-to-deep-storage/)
+* [2023-09-10, 04:25:15](https://news.ycombinator.com/item?id=37452895) - [How Skeletal Muscle Mass Impacts Cognitive Health](https://gethealthspan.com/blog/articles/skeletal-muscle-impact-on-cognitive-health/5d43mmao0pjucjmjqsjsol/)
 * [2023-09-10, 04:07:19](https://news.ycombinator.com/item?id=37452801) - [Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2757236)
 * [2023-09-10, 03:02:38](https://news.ycombinator.com/item?id=37452528) - [Magic and Loss, Part 1: Magic in the Cards](https://www.filfre.net/2023/09/magic-and-loss-part-1-magic-in-the-cards/)
 * [2023-09-10, 02:14:40](https://news.ycombinator.com/item?id=37452279) - [Sci-Fi Short Film “Slaughterbots” [video]](https://www.youtube.com/watch?v=O-2tpwW0kmU)
