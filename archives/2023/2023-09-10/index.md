@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-10](index.md)
 
+* [2023-09-10, 17:53:10](https://news.ycombinator.com/item?id=37458236) - [KSMBD Declared Stable – No Longer “Experimental” – In Linux 6.6](https://www.phoronix.com/news/KSMBD-Stable-Linux-6.6)
+* [2023-09-10, 17:51:59](https://news.ycombinator.com/item?id=37458221) - [Linux 6.6 WQ Change May Help AMD CPUs and Other Systems with Multiple L3 Caches](https://www.phoronix.com/news/Linux-6.6-Workqueue)
 * [2023-09-10, 17:08:24](https://news.ycombinator.com/item?id=37457796) - [Goodbye to Thien-Thi Nguyen](https://lists.gnu.org/archive/html/emacs-devel/2023-09/msg00713.html)
 * [2023-09-10, 17:05:21](https://news.ycombinator.com/item?id=37457766) - [How Big Tech Got So Damn Big](https://www.wired.com/story/the-internet-con-cory-doctorow-book-excerpt/)
 * [2023-09-10, 17:03:18](https://news.ycombinator.com/item?id=37457745) - [Why do so many people hate EU bureaucracy?](https://blogs.lse.ac.uk/europpblog/2023/09/04/why-do-so-many-people-hate-eu-bureaucracy/)
@@ -30,6 +32,7 @@
 * [2023-09-10, 11:30:29](https://news.ycombinator.com/item?id=37454853) - [“Make” as a Static Site Generator](https://www.karl.berlin/static-site.html)
 * [2023-09-10, 11:12:13](https://news.ycombinator.com/item?id=37454766) - [I wired up my bike's GPS to order me pizza during a gravel race](https://steele.blue/geofence-pizza-ordering/)
 * [2023-09-10, 10:59:49](https://news.ycombinator.com/item?id=37454707) - [New JFK Assassination Revelation Could Upend the Long-Held “Lone Gunman” Theory](https://www.vanityfair.com/news/2023/09/new-jfk-assassination-revelation-upend-lone-gunman)
+* [2023-09-10, 10:03:49](https://news.ycombinator.com/item?id=37454416) - [All-AMD Ryzen Notebooks for Linux Gamers: USB4, AMD GPU? and PCIe-Gen-4.0](https://opengears.medium.com/amd-ryzen-notebooks-for-influencers-creators-and-linux-enthusiasts-usb4-bluetooth-5-4-630a71ef8438)
 * [2023-09-10, 09:54:02](https://news.ycombinator.com/item?id=37454378) - [A Texas Semiconductor Boom on the Horizon](https://news.utexas.edu/2023/09/08/a-texas-semiconductor-boom-on-the-horizon/)
 * [2023-09-10, 09:47:36](https://news.ycombinator.com/item?id=37454349) - [Ask HN: Can you end up on the “No Fly” list for putting AirTags in your luggage?](https://news.ycombinator.com/item?id=37454349)
 * [2023-09-10, 09:40:19](https://news.ycombinator.com/item?id=37454301) - [Breathing Life Back into a Minitel 1B with the Minimit](https://blog.jgc.org/2023/09/breathing-life-back-into-minitel-1b.html)
