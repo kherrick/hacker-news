@@ -108,6 +108,7 @@
 * [2023-09-08, 04:48:17](https://news.ycombinator.com/item?id=37429451) - [Harvard is named worst school for free speech](https://nypost.com/2023/09/06/harvard-is-named-worst-school-for-free-speech-scoring-zero-out-of-possible-100/)
 * [2023-09-08, 04:34:38](https://news.ycombinator.com/item?id=37429362) - [The Telescript Programming Language](https://en.wikipedia.org/wiki/Telescript_(programming_language))
 * [2023-09-08, 04:30:19](https://news.ycombinator.com/item?id=37429336) - [BMW Is Giving Up on Heated Seat Subscriptions Because People Hated Them](https://www.thedrive.com/news/bmw-is-giving-up-on-heated-seat-subscriptions-because-people-hated-them)
+* [2023-09-08, 03:51:55](https://news.ycombinator.com/item?id=37429046) - [How to Make a Synthetic Diamond](https://www.instructables.com/How-to-Make-a-Synthetic-Diamond/)
 * [2023-09-08, 03:42:30](https://news.ycombinator.com/item?id=37428975) - [The International Criminal Court Will Now Prosecute Cyberwar Crimes](https://www.wired.com/story/icc-cyberwar-crimes/)
 * [2023-09-08, 03:36:11](https://news.ycombinator.com/item?id=37428937) - [Critical ignoring as a core competence for digital citizens (2022)](https://journals.sagepub.com/doi/epub/10.1177/09637214221121570)
 * [2023-09-08, 03:11:01](https://news.ycombinator.com/item?id=37428763) - [Leon Trotsky was an MI6 agent since 1918, American intelligence documents reveal](https://sovinform.net/Trotsky-MI6-agent.htm)
