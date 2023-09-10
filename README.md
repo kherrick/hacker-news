@@ -14,9 +14,12 @@
 * [2023-09-09, 18:47:54](https://news.ycombinator.com/item?id=37448914) - [Show HN: I built a Python web framework](https://github.com/ZeroIntensity/view.py)
 * [2023-09-09, 18:30:39](https://news.ycombinator.com/item?id=37448659) - [SmartKnob – Haptic input knob with software-defined endstops and virtual detents](https://github.com/scottbez1/smartknob)
 * [2023-09-09, 18:23:18](https://news.ycombinator.com/item?id=37448554) - [On Desktop GUI Minimalism](https://mycophobia.org/desktop_gui_minimalism.html)
+* [2023-09-09, 16:56:08](https://news.ycombinator.com/item?id=37447445) - [Show HN: Productonboarding.com – Mobbin for SaaS product onboarding](https://productonboarding.com)
+* [2023-09-09, 15:23:10](https://news.ycombinator.com/item?id=37446430) - [FFmpeg Patches for a 20% speedup of Apple ProRes decoding](https://ffmpeg.org/pipermail/ffmpeg-devel/2023-September/314167.html)
 * [2023-09-09, 13:51:33](https://news.ycombinator.com/item?id=37445401) - [Asking 60 LLMs a set of 20 questions](https://benchmarks.llmonitor.com)
 * [2023-09-09, 11:43:59](https://news.ycombinator.com/item?id=37444268) - [Every type of plastic used by LEGO (2022)](https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22)
 * [2023-09-09, 08:25:03](https://news.ycombinator.com/item?id=37443316) - [A guy preserving the new history of PC games, one Linux port at a time](https://www.404media.co/meet-the-guy-preserving-the-new-history-of-pc-games-one-linux-port-at-a-time/)
+* [2023-09-09, 08:12:21](https://news.ycombinator.com/item?id=37443252) - [Making a newsletter backend](https://axleos.com/making-a-newsletter-backend/)
 * [2023-09-09, 07:14:07](https://news.ycombinator.com/item?id=37442986) - [Common garden weeds in Southern California](https://gregalder.com/yardposts/common-garden-weeds-in-southern-california/)
 * [2023-09-08, 23:45:55](https://news.ycombinator.com/item?id=37440696) - [Dennis Austin, developer of PowerPoint, has died](https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/)
 * [2023-09-08, 14:15:01](https://news.ycombinator.com/item?id=37433784) - [A Teen Celebrity in 1804](https://daily.jstor.org/a-teen-celebrity-in-1804/)
@@ -27,9 +30,6 @@
 * [2023-09-08, 02:26:44](https://news.ycombinator.com/item?id=37428491) - [I used a Game Boy camera for Facetime video calls in iPadOS 17](https://www.macstories.net/stories/i-used-a-game-boy-camera-for-facetime-video-calls-in-ipados-17-and-it-was-glorious/)
 * [2023-09-07, 14:50:54](https://news.ycombinator.com/item?id=37419739) - [A test of memory for stimulus sequences in great apes](https://neurosciencenews.com/sequential-memory-human-trait-23888/)
 * [2023-09-07, 13:53:46](https://news.ycombinator.com/item?id=37418944) - [The new Polaroid I-2 instant camera](https://i2-camera.polaroid.com)
-* [2023-09-07, 06:54:38](https://news.ycombinator.com/item?id=37415587) - [The Next Feature Fallacy (2015)](https://andrewchen.com/the-next-feature-fallacy-the-fallacy-that-the-next-new-feature-will-suddenly-make-people-use-your-product/)
-* [2023-09-06, 23:55:59](https://news.ycombinator.com/item?id=37413027) - [The era-defining aesthetic of “In the Mood for Love”](https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love)
-* [2023-09-06, 23:35:23](https://news.ycombinator.com/item?id=37412845) - [Researchers use AI to find new magnetic materials](https://phys.org/news/2023-09-ai-magnetic-materials-critical-elements.html)
 
 ## [Archives](archives/index.md)
 
