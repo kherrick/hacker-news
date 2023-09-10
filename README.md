@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-10, 19:00:08](https://news.ycombinator.com/item?id=37458861) - [Five billion people will face extreme heat at least a month each year by 2050](https://www.washingtonpost.com/climate-environment/interactive/2023/extreme-heat-wet-bulb-globe-temperature/)
+* [2023-09-10, 19:56:32](https://news.ycombinator.com/item?id=37459371) - [Why Is the Ocean Salty?](https://www.usgs.gov/faqs/why-ocean-salty)
+* [2023-09-10, 18:48:07](https://news.ycombinator.com/item?id=37458753) - [Battery-Electric Fishing Vessel Marks a Sea Change for Small Commercial Fishers](https://www.nrel.gov/news/program/2023/battery-electric-fishing-vessel-marks-a-sea-change-for-small-commercial-fishers.html)
 * [2023-09-10, 18:41:48](https://news.ycombinator.com/item?id=37458696) - [Mistakes You Should Never Make (2014)](https://web.archive.org/web/20140803073308/http://sethbannon.com/mistakes-you-should-never-make)
 * [2023-09-10, 18:39:15](https://news.ycombinator.com/item?id=37458671) - [Why SaaS prices are still going up when companies are spending less](https://www.vendr.com/blog/price-hikes-continue)
 * [2023-09-10, 18:00:54](https://news.ycombinator.com/item?id=37458315) - [The Decomposition of Rotten Tomatoes](https://longreads.com/2023/09/07/the-decomposition-of-rotten-tomatoes/)
@@ -23,7 +24,6 @@
 * [2023-09-10, 09:40:19](https://news.ycombinator.com/item?id=37454301) - [Breathing Life Back into a Minitel 1B with the Minimit](https://blog.jgc.org/2023/09/breathing-life-back-into-minitel-1b.html)
 * [2023-09-10, 08:10:06](https://news.ycombinator.com/item?id=37453854) - [Nginx Unit – Universal web app server](https://github.com/nginx/unit)
 * [2023-09-10, 06:41:20](https://news.ycombinator.com/item?id=37453465) - [ZF makes magnet-free electric motor uniquely compact and competitive](https://press.zf.com/press/en/releases/release_60480.html)
-* [2023-09-09, 22:27:16](https://news.ycombinator.com/item?id=37450915) - [Lithium discovery in US volcano could be biggest deposit ever found](https://www.chemistryworld.com/news/lithium-discovery-in-us-volcano-could-be-biggest-deposit-ever-found/4018032.article)
 * [2023-09-09, 13:10:05](https://news.ycombinator.com/item?id=37444946) - [My mental model of Clojure transducers](https://blog.danieljanus.pl/2023/09/09/transducers/)
 * [2023-09-09, 10:52:37](https://news.ycombinator.com/item?id=37443959) - [It's My Monitor](https://popey.com/blog/2023/09/its-my-monitor/)
 * [2023-09-09, 07:32:52](https://news.ycombinator.com/item?id=37443089) - [Delightfully strange: Mystery 'golden egg' found on ocean floor](https://phys.org/news/2023-09-strange-mystery-golden-egg-ocean.html)
