@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-10](index.md)
 
+* [2023-09-10, 21:00:05](https://news.ycombinator.com/item?id=37460025) - [Fathom AI Notetaker (YC W21) is hiring a principal SRE (remote)](https://www.ycombinator.com/companies/fathom/jobs/L0pyU04Gs-principal-site-reliability-engineer-remote)
 * [2023-09-10, 20:07:12](https://news.ycombinator.com/item?id=37459495) - [$400M in assets to bankrupt in 45-minutes because of a failed deployment (2014)](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
 * [2023-09-10, 19:56:32](https://news.ycombinator.com/item?id=37459371) - [Why Is the Ocean Salty?](https://www.usgs.gov/faqs/why-ocean-salty)
 * [2023-09-10, 19:30:09](https://news.ycombinator.com/item?id=37459121) - [The Linux Information Project](https://www.linfo.org/)
