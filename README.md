@@ -2,7 +2,6 @@
 
 * [2023-09-10, 17:57:42](https://news.ycombinator.com/item?id=37458283) - [A Senior Engineer's Check-List](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/)
 * [2023-09-10, 17:53:10](https://news.ycombinator.com/item?id=37458236) - [KSMBD Declared Stable – No Longer “Experimental” – In Linux 6.6](https://www.phoronix.com/news/KSMBD-Stable-Linux-6.6)
-* [2023-09-10, 17:51:59](https://news.ycombinator.com/item?id=37458221) - [Linux 6.6 WQ Change May Help AMD CPUs and Other Systems with Multiple L3 Caches](https://www.phoronix.com/news/Linux-6.6-Workqueue)
 * [2023-09-10, 17:08:24](https://news.ycombinator.com/item?id=37457796) - [Goodbye to Thien-Thi Nguyen](https://lists.gnu.org/archive/html/emacs-devel/2023-09/msg00713.html)
 * [2023-09-10, 17:05:21](https://news.ycombinator.com/item?id=37457766) - [How Big Tech Got So Damn Big](https://www.wired.com/story/the-internet-con-cory-doctorow-book-excerpt/)
 * [2023-09-10, 16:42:49](https://news.ycombinator.com/item?id=37457571) - [Homeland Security using “Babel X” to link SSNs to social media posts](https://news.ycombinator.com/item?id=37457571)
@@ -28,6 +27,7 @@
 * [2023-09-09, 07:32:52](https://news.ycombinator.com/item?id=37443089) - [Delightfully strange: Mystery 'golden egg' found on ocean floor](https://phys.org/news/2023-09-strange-mystery-golden-egg-ocean.html)
 * [2023-09-09, 04:16:23](https://news.ycombinator.com/item?id=37442235) - [The Works of Mars (1671)](https://publicdomainreview.org/collection/arbeid-van-mars/)
 * [2023-09-09, 00:04:01](https://news.ycombinator.com/item?id=37440842) - [Profound Beliefs](https://steveblank.com/2023/09/05/profound-beliefs/)
+* [2023-09-08, 13:21:17](https://news.ycombinator.com/item?id=37433126) - [What is an emotion? William James’s theory of how our bodies affect our feelings](https://www.themarginalian.org/2016/01/11/what-is-an-emotion-william-james/)
 * [2023-09-08, 03:01:19](https://news.ycombinator.com/item?id=37428700) - [Signs of the Zodiac: The Dendera Dating Controversy](https://www.historytoday.com/archive/great-debates/signs-zodiac-dendera-dating-controversy)
 * [2023-09-07, 13:20:08](https://news.ycombinator.com/item?id=37418514) - [Magnetism may have given life its molecular asymmetry](https://www.quantamagazine.org/magnetism-may-have-given-life-its-molecular-asymmetry-20230906/)
 
