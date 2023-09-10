@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-10, 06:24:30](https://news.ycombinator.com/item?id=37453412) - [New solar energy storage tech opened in Australia](https://reneweconomy.com.au/the-australian-solar-tech-that-may-have-found-a-low-cost-solution-to-deep-storage/)
 * [2023-09-10, 03:02:38](https://news.ycombinator.com/item?id=37452528) - [Magic and Loss, Part 1: Magic in the Cards](https://www.filfre.net/2023/09/magic-and-loss-part-1-magic-in-the-cards/)
 * [2023-09-10, 01:33:14](https://news.ycombinator.com/item?id=37452051) - [GitHub – GSA/code-gov: An informative repo for all Code.gov repos](https://github.com/GSA/code-gov)
 * [2023-09-10, 01:03:04](https://news.ycombinator.com/item?id=37451913) - [I Wrote a String Type](https://mcyoung.xyz/2023/08/09/yarns/)
@@ -14,7 +15,6 @@
 * [2023-09-09, 18:47:54](https://news.ycombinator.com/item?id=37448914) - [Show HN: I built a Python web framework](https://github.com/ZeroIntensity/view.py)
 * [2023-09-09, 18:30:39](https://news.ycombinator.com/item?id=37448659) - [SmartKnob – Haptic input knob with software-defined endstops and virtual detents](https://github.com/scottbez1/smartknob)
 * [2023-09-09, 18:23:18](https://news.ycombinator.com/item?id=37448554) - [On Desktop GUI Minimalism](https://mycophobia.org/desktop_gui_minimalism.html)
-* [2023-09-09, 16:56:08](https://news.ycombinator.com/item?id=37447445) - [Show HN: Productonboarding.com – Mobbin for SaaS product onboarding](https://productonboarding.com)
 * [2023-09-09, 15:23:10](https://news.ycombinator.com/item?id=37446430) - [FFmpeg Patches for a 20% speedup of Apple ProRes decoding](https://ffmpeg.org/pipermail/ffmpeg-devel/2023-September/314167.html)
 * [2023-09-09, 13:51:33](https://news.ycombinator.com/item?id=37445401) - [Asking 60 LLMs a set of 20 questions](https://benchmarks.llmonitor.com)
 * [2023-09-09, 11:43:59](https://news.ycombinator.com/item?id=37444268) - [Every type of plastic used by LEGO (2022)](https://bricknerd.com/home/every-type-of-plastic-used-by-lego-5-20-22)

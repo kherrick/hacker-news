@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-10](index.md)
 
+* [2023-09-10, 06:24:30](https://news.ycombinator.com/item?id=37453412) - [New solar energy storage tech opened in Australia](https://reneweconomy.com.au/the-australian-solar-tech-that-may-have-found-a-low-cost-solution-to-deep-storage/)
 * [2023-09-10, 03:02:38](https://news.ycombinator.com/item?id=37452528) - [Magic and Loss, Part 1: Magic in the Cards](https://www.filfre.net/2023/09/magic-and-loss-part-1-magic-in-the-cards/)
 * [2023-09-10, 02:14:40](https://news.ycombinator.com/item?id=37452279) - [Sci-Fi Short Film “Slaughterbots” [video]](https://www.youtube.com/watch?v=O-2tpwW0kmU)
 * [2023-09-10, 01:42:26](https://news.ycombinator.com/item?id=37452106) - [Starfield’s missing Nvidia DLSS support has been added by a free mod](https://arstechnica.com/gaming/2023/09/starfields-missing-nvidia-dlss-support-has-been-added-by-a-free-mod/)
