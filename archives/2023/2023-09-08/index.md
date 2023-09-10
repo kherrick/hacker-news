@@ -83,6 +83,7 @@
 * [2023-09-08, 09:56:08](https://news.ycombinator.com/item?id=37431644) - [Touch Pianist](http://touchpianist.com/)
 * [2023-09-08, 09:47:29](https://news.ycombinator.com/item?id=37431588) - [Unpacking Elixir: Real-Time and Latency](https://underjord.io/unpacking-elixir-realtime-latency.html)
 * [2023-09-08, 09:43:22](https://news.ycombinator.com/item?id=37431560) - [PgBouncer is useful, important, and fraught with peril](https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html)
+* [2023-09-08, 09:39:47](https://news.ycombinator.com/item?id=37431541) - [Digital Strategy at Radio New Zealand, 2005-2016, Part Four](https://richard.hulse.nz/2023/09/08/digital-strategy-at-rnz-2005-2016-part-four/)
 * [2023-09-08, 09:33:07](https://news.ycombinator.com/item?id=37431496) - [Chromostereopsis](https://www.smartermarx.com/t/chromostereopsis/650)
 * [2023-09-08, 09:29:59](https://news.ycombinator.com/item?id=37431474) - [LibreWolf – custom version of Firefox, focused on privacy, security and freedom](https://librewolf.net/)
 * [2023-09-08, 09:24:25](https://news.ycombinator.com/item?id=37431433) - [ASMesh: Anonymous, Secure Messaging in Mesh Networks](https://eprint.iacr.org/2023/1053)
