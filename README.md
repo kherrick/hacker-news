@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-10, 21:51:42](https://news.ycombinator.com/item?id=37460450) - [Lockheed Martin, world's largest arms dealer, getting into streetwear business](https://www.nytimes.com/2023/09/08/style/lockheed-martin-fashion.html)
 * [2023-09-10, 21:00:05](https://news.ycombinator.com/item?id=37460025) - [Fathom AI Notetaker (YC W21) is hiring a principal SRE (remote)](https://www.ycombinator.com/companies/fathom/jobs/L0pyU04Gs-principal-site-reliability-engineer-remote)
 * [2023-09-10, 20:46:52](https://news.ycombinator.com/item?id=37459911) - [How to pass the interview for software engineering roles in Big Tech](https://www.lambrospetrou.com/articles/big-tech-software-interviews/)
 * [2023-09-10, 20:07:12](https://news.ycombinator.com/item?id=37459495) - [$400M in assets to bankrupt in 45-minutes because of a failed deployment (2014)](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
@@ -22,7 +23,6 @@
 * [2023-09-10, 11:12:13](https://news.ycombinator.com/item?id=37454766) - [I wired up my bike's GPS to order me pizza during a gravel race](https://steele.blue/geofence-pizza-ordering/)
 * [2023-09-10, 10:59:49](https://news.ycombinator.com/item?id=37454707) - [New JFK assassination revelation could upend the lone gunman theory](https://www.vanityfair.com/news/2023/09/new-jfk-assassination-revelation-upend-lone-gunman)
 * [2023-09-10, 08:10:06](https://news.ycombinator.com/item?id=37453854) - [Nginx Unit – Universal web app server](https://github.com/nginx/unit)
-* [2023-09-10, 06:41:20](https://news.ycombinator.com/item?id=37453465) - [ZF makes magnet-free electric motor uniquely compact and competitive](https://press.zf.com/press/en/releases/release_60480.html)
 * [2023-09-09, 16:29:02](https://news.ycombinator.com/item?id=37447163) - [Effectiveness of wearable activity trackers to increase physical activity](https://www.thelancet.com/journals/landig/article/PIIS2589-75002200111-X/fulltext)
 * [2023-09-09, 13:10:05](https://news.ycombinator.com/item?id=37444946) - [My mental model of Clojure transducers](https://blog.danieljanus.pl/2023/09/09/transducers/)
 * [2023-09-09, 10:52:37](https://news.ycombinator.com/item?id=37443959) - [It's My Monitor](https://popey.com/blog/2023/09/its-my-monitor/)
