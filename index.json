@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-10, 17:53:10",
+      "https://news.ycombinator.com/item?id=37458236"
+    ],
+    [
+      "KSMBD Declared Stable – No Longer “Experimental” – In Linux 6.6",
+      "https://www.phoronix.com/news/KSMBD-Stable-Linux-6.6"
+    ]
+  ],
+  [
+    [
+      "2023-09-10, 17:51:59",
+      "https://news.ycombinator.com/item?id=37458221"
+    ],
+    [
+      "Linux 6.6 WQ Change May Help AMD CPUs and Other Systems with Multiple L3 Caches",
+      "https://www.phoronix.com/news/Linux-6.6-Workqueue"
+    ]
+  ],
+  [
+    [
       "2023-09-10, 17:08:24",
       "https://news.ycombinator.com/item?id=37457796"
     ],
@@ -17,16 +37,6 @@
     [
       "How Big Tech Got So Damn Big",
       "https://www.wired.com/story/the-internet-con-cory-doctorow-book-excerpt/"
-    ]
-  ],
-  [
-    [
-      "2023-09-10, 17:03:18",
-      "https://news.ycombinator.com/item?id=37457745"
-    ],
-    [
-      "Why do so many people hate EU bureaucracy?",
-      "https://blogs.lse.ac.uk/europpblog/2023/09/04/why-do-so-many-people-hate-eu-bureaucracy/"
     ]
   ],
   [
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2023-09-10, 14:29:15",
-      "https://news.ycombinator.com/item?id=37456115"
-    ],
-    [
-      "Textual-web: Run TUIs and terminals in the browser",
-      "https://github.com/Textualize/textual-web"
-    ]
-  ],
-  [
-    [
       "2023-09-10, 14:04:34",
       "https://news.ycombinator.com/item?id=37455859"
     ],
@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2023-09-10, 12:11:48",
-      "https://news.ycombinator.com/item?id=37455106"
-    ],
-    [
-      "Scientists Discover Natural Molecule That Eradicates Plaques and Cavities",
-      "https://scitechdaily.com/90-reduction-scientists-discover-natural-molecule-that-eradicates-plaques-and-cavities/"
-    ]
-  ],
-  [
-    [
       "2023-09-10, 11:30:29",
       "https://news.ycombinator.com/item?id=37454853"
     ],
@@ -147,6 +137,16 @@
     [
       "I wired up my bike's GPS to order me pizza during a gravel race",
       "https://steele.blue/geofence-pizza-ordering/"
+    ]
+  ],
+  [
+    [
+      "2023-09-10, 10:03:49",
+      "https://news.ycombinator.com/item?id=37454416"
+    ],
+    [
+      "All-AMD Ryzen Notebooks for Linux Gamers: USB4, AMD GPU? and PCIe-Gen-4.0",
+      "https://opengears.medium.com/amd-ryzen-notebooks-for-influencers-creators-and-linux-enthusiasts-usb4-bluetooth-5-4-630a71ef8438"
     ]
   ],
   [
