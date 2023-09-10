@@ -28,7 +28,7 @@
 * [2023-09-09, 10:52:37](https://news.ycombinator.com/item?id=37443959) - [It's My Monitor](https://popey.com/blog/2023/09/its-my-monitor/)
 * [2023-09-09, 07:32:52](https://news.ycombinator.com/item?id=37443089) - [Delightfully strange: Mystery 'golden egg' found on ocean floor](https://phys.org/news/2023-09-strange-mystery-golden-egg-ocean.html)
 * [2023-09-09, 00:04:01](https://news.ycombinator.com/item?id=37440842) - [Profound Beliefs](https://steveblank.com/2023/09/05/profound-beliefs/)
-* [2023-09-08, 03:01:19](https://news.ycombinator.com/item?id=37428700) - [Signs of the Zodiac: The Dendera Dating Controversy](https://www.historytoday.com/archive/great-debates/signs-zodiac-dendera-dating-controversy)
+* [2023-09-08, 23:31:59](https://news.ycombinator.com/item?id=37440572) - [DBSP: Automatic Incremental View Maintenance for Rich Query Languages [pdf]](https://www.feldera.com/assets/files/vldb23-1bfe30b29f95168c8e1f427fccfc6da2.pdf)
 * [2023-09-07, 13:20:08](https://news.ycombinator.com/item?id=37418514) - [Magnetism may have given life its molecular asymmetry](https://www.quantamagazine.org/magnetism-may-have-given-life-its-molecular-asymmetry-20230906/)
 
 ## [Archives](archives/index.md)

@@ -6,6 +6,7 @@
 
 * [2023-09-08, 23:45:55](https://news.ycombinator.com/item?id=37440696) - [Dennis Austin, developer of PowerPoint, has died](https://www.washingtonpost.com/obituaries/2023/09/08/dennis-austin-software-developer-powerpoint-dies/)
 * [2023-09-08, 23:38:39](https://news.ycombinator.com/item?id=37440631) - [LogoScale – A method for vectorizing small, crappy logos](https://msprout.notion.site/LogoScale-A-Method-for-Vectorizing-Small-Crappy-Logos-dc0035b7473c44f8b94ffc4026d286c0)
+* [2023-09-08, 23:31:59](https://news.ycombinator.com/item?id=37440572) - [DBSP: Automatic Incremental View Maintenance for Rich Query Languages [pdf]](https://www.feldera.com/assets/files/vldb23-1bfe30b29f95168c8e1f427fccfc6da2.pdf)
 * [2023-09-08, 23:17:21](https://news.ycombinator.com/item?id=37440482) - [Most bees live underground. X-ray images reveal how they build their nests](https://www.science.org/content/article/most-bees-live-underground-x-ray-images-reveal-how-they-build-their-nests)
 * [2023-09-08, 23:17:21](https://news.ycombinator.com/item?id=37440482) - [Morphology and temporal evolution of ground-nesting bee burrows](https://www.sciencedirect.com/science/article/pii/S0016706123003324)
 * [2023-09-08, 23:17:21](https://news.ycombinator.com/item?id=37440482) - [Morphology and temporal evolution of ground-nesting bee burrows](https://www.sciencedirect.com/science/article/pii/S0016706123003324#s0040)
