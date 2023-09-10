@@ -84,6 +84,7 @@
 * [2023-09-07, 13:53:46](https://news.ycombinator.com/item?id=37418944) - [The new Polaroid I-2 instant camera](https://i2-camera.polaroid.com)
 * [2023-09-07, 13:21:17](https://news.ycombinator.com/item?id=37418528) - [TurboGP: A flexible and advanced Python based GP library](https://arxiv.org/abs/2309.00149)
 * [2023-09-07, 13:20:31](https://news.ycombinator.com/item?id=37418519) - [ASML to Ship First High-NA EUV Tool This Year: $300M per Scanner](https://www.tomshardware.com/news/asml-to-ship-first-high-na-euv-tool-this-year-dollar300-million-per-scanner)
+* [2023-09-07, 13:20:08](https://news.ycombinator.com/item?id=37418514) - [Magnetism May Have Given Life Its Molecular Asymmetry](https://www.quantamagazine.org/magnetism-may-have-given-life-its-molecular-asymmetry-20230906/)
 * [2023-09-07, 13:16:37](https://news.ycombinator.com/item?id=37418461) - [All You Need to Become a Servant Leader](https://effyai.substack.com/p/all-you-need-to-become-a-servant)
 * [2023-09-07, 13:13:15](https://news.ycombinator.com/item?id=37418424) - [Textual Web: TUIs for the Web](https://textual.textualize.io/blog/2023/09/06/what-is-textual-web/)
 * [2023-09-07, 13:07:31](https://news.ycombinator.com/item?id=37418351) - [NixOS just dropped Anduril as a NixCon sponsor](https://twitter.com/nixos_org/status/1699054958858121282)
