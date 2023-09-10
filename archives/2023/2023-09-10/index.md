@@ -5,7 +5,10 @@
 ### [Archives](../../index.md) for [2023-09-10](index.md)
 
 * [2023-09-10, 22:10:09](https://news.ycombinator.com/item?id=37460614) - [RISC-V SBI and the full boot process](https://popovicu.com/posts/risc-v-sbi-and-full-boot-process/)
+* [2023-09-10, 21:54:41](https://news.ycombinator.com/item?id=37460479) - [Rushed exodus frm rain soaked BurningMan could have adverse environmental impact](https://thenevadaindependent.com/article/scars-on-the-playa-rushed-exodus-from-rain-soaked-burning-man-could-have-adverse-environmental-impacts)
+* [2023-09-10, 21:53:15](https://news.ycombinator.com/item?id=37460465) - [Improving NeRF quality by progressive camera placement](https://arxiv.org/abs/2309.00014)
 * [2023-09-10, 21:51:42](https://news.ycombinator.com/item?id=37460450) - [Lockheed Martin, world's largest arms dealer, getting into streetwear business](https://www.nytimes.com/2023/09/08/style/lockheed-martin-fashion.html)
+* [2023-09-10, 21:33:30](https://news.ycombinator.com/item?id=37460288) - [Government debt needs to be repaid, and other myths about the federal deficit](https://www.barrons.com/articles/federal-deficit-debt-trillions-fed-investors-c8df4121)
 * [2023-09-10, 21:30:07](https://news.ycombinator.com/item?id=37460267) - [Small prey compelled prehistoric humans to produce appropriate hunting weapons](https://phys.org/news/2023-09-small-prey-compelled-prehistoric-humans.html)
 * [2023-09-10, 21:26:06](https://news.ycombinator.com/item?id=37460236) - [Historical Objects: The Bees of Childeric I](https://justhistoryposts.com/2023/09/05/historical-objects-the-bees-of-childeric-i/)
 * [2023-09-10, 21:00:05](https://news.ycombinator.com/item?id=37460025) - [Fathom AI Notetaker (YC W21) is hiring a principal SRE (remote)](https://www.ycombinator.com/companies/fathom/jobs/L0pyU04Gs-principal-site-reliability-engineer-remote)
