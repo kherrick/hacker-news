@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-10, 17:57:42](https://news.ycombinator.com/item?id=37458283) - [A Senior Engineer's Check-List](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/)
 * [2023-09-10, 17:53:10](https://news.ycombinator.com/item?id=37458236) - [KSMBD Declared Stable – No Longer “Experimental” – In Linux 6.6](https://www.phoronix.com/news/KSMBD-Stable-Linux-6.6)
 * [2023-09-10, 17:51:59](https://news.ycombinator.com/item?id=37458221) - [Linux 6.6 WQ Change May Help AMD CPUs and Other Systems with Multiple L3 Caches](https://www.phoronix.com/news/Linux-6.6-Workqueue)
 * [2023-09-10, 17:08:24](https://news.ycombinator.com/item?id=37457796) - [Goodbye to Thien-Thi Nguyen](https://lists.gnu.org/archive/html/emacs-devel/2023-09/msg00713.html)
@@ -11,10 +12,9 @@
 * [2023-09-10, 14:04:34](https://news.ycombinator.com/item?id=37455859) - [Training and Aligning LLMs with RLHF and RLHF Alternatives](https://magazine.sebastianraschka.com/p/llm-training-rlhf-and-its-alternatives)
 * [2023-09-10, 13:28:25](https://news.ycombinator.com/item?id=37455621) - [How does Linux NAT a ping?](https://devnonsense.com/posts/how-does-linux-nat-a-ping/)
 * [2023-09-10, 12:30:46](https://news.ycombinator.com/item?id=37455239) - [Reviewing a Dell Linux PC 23 years ago (by me in PCW magazine, Sep 2000)](https://liam-on-linux.dreamwidth.org/89116.html)
-* [2023-09-10, 12:27:46](https://news.ycombinator.com/item?id=37455217) - [Sama-Bajau “sea nomads” people gene mutations allow them to free-dive 13 minutes](https://www.nationalgeographic.com/science/article/bajau-sea-nomads-free-diving-spleen-science)
 * [2023-09-10, 11:30:29](https://news.ycombinator.com/item?id=37454853) - [“Make” as a Static Site Generator (2022)](https://www.karl.berlin/static-site.html)
 * [2023-09-10, 11:12:13](https://news.ycombinator.com/item?id=37454766) - [I wired up my bike's GPS to order me pizza during a gravel race](https://steele.blue/geofence-pizza-ordering/)
-* [2023-09-10, 10:03:49](https://news.ycombinator.com/item?id=37454416) - [All-AMD Ryzen Notebooks for Linux Gamers: USB4, AMD GPU? and PCIe-Gen-4.0](https://opengears.medium.com/amd-ryzen-notebooks-for-influencers-creators-and-linux-enthusiasts-usb4-bluetooth-5-4-630a71ef8438)
+* [2023-09-10, 10:59:49](https://news.ycombinator.com/item?id=37454707) - [New JFK assassination revelation could upend the lone gunman theory](https://www.vanityfair.com/news/2023/09/new-jfk-assassination-revelation-upend-lone-gunman)
 * [2023-09-10, 09:54:02](https://news.ycombinator.com/item?id=37454378) - [A Texas Semiconductor Boom on the Horizon](https://news.utexas.edu/2023/09/08/a-texas-semiconductor-boom-on-the-horizon/)
 * [2023-09-10, 09:40:19](https://news.ycombinator.com/item?id=37454301) - [Breathing Life Back into a Minitel 1B with the Minimit](https://blog.jgc.org/2023/09/breathing-life-back-into-minitel-1b.html)
 * [2023-09-10, 08:10:06](https://news.ycombinator.com/item?id=37453854) - [Nginx Unit – Universal web app server](https://github.com/nginx/unit)

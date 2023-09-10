@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-10](index.md)
 
+* [2023-09-10, 17:57:42](https://news.ycombinator.com/item?id=37458283) - [A Senior Engineer's Check-List](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/)
 * [2023-09-10, 17:53:10](https://news.ycombinator.com/item?id=37458236) - [KSMBD Declared Stable – No Longer “Experimental” – In Linux 6.6](https://www.phoronix.com/news/KSMBD-Stable-Linux-6.6)
 * [2023-09-10, 17:51:59](https://news.ycombinator.com/item?id=37458221) - [Linux 6.6 WQ Change May Help AMD CPUs and Other Systems with Multiple L3 Caches](https://www.phoronix.com/news/Linux-6.6-Workqueue)
 * [2023-09-10, 17:08:24](https://news.ycombinator.com/item?id=37457796) - [Goodbye to Thien-Thi Nguyen](https://lists.gnu.org/archive/html/emacs-devel/2023-09/msg00713.html)
