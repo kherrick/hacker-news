@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-10](index.md)
 
+* [2023-09-10, 19:00:08](https://news.ycombinator.com/item?id=37458861) - [Five billion people will face extreme heat at least a month each year by 2050](https://www.washingtonpost.com/climate-environment/interactive/2023/extreme-heat-wet-bulb-globe-temperature/)
 * [2023-09-10, 18:41:48](https://news.ycombinator.com/item?id=37458696) - [Mistakes You Should Never Make](https://web.archive.org/web/20140803073308/http://sethbannon.com/mistakes-you-should-never-make)
 * [2023-09-10, 18:39:15](https://news.ycombinator.com/item?id=37458671) - [Why SaaS prices are still going up when companies are spending less](https://www.vendr.com/blog/price-hikes-continue)
 * [2023-09-10, 17:57:42](https://news.ycombinator.com/item?id=37458283) - [A Senior Engineer's Check-List](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/)
@@ -12,6 +13,7 @@
 * [2023-09-10, 17:08:24](https://news.ycombinator.com/item?id=37457796) - [Goodbye to Thien-Thi Nguyen](https://lists.gnu.org/archive/html/emacs-devel/2023-09/msg00713.html)
 * [2023-09-10, 17:05:21](https://news.ycombinator.com/item?id=37457766) - [How Big Tech Got So Damn Big](https://www.wired.com/story/the-internet-con-cory-doctorow-book-excerpt/)
 * [2023-09-10, 17:03:18](https://news.ycombinator.com/item?id=37457745) - [Why do so many people hate EU bureaucracy?](https://blogs.lse.ac.uk/europpblog/2023/09/04/why-do-so-many-people-hate-eu-bureaucracy/)
+* [2023-09-10, 16:46:23](https://news.ycombinator.com/item?id=37457609) - [Show HN: Erlmacs – a script to update your .emacs file for Erlang development](https://github.com/dlachausse/erlmacs)
 * [2023-09-10, 16:42:49](https://news.ycombinator.com/item?id=37457571) - [Homeland Security using “Babel X” to link SSNs to social media posts](https://news.ycombinator.com/item?id=37457571)
 * [2023-09-10, 15:56:07](https://news.ycombinator.com/item?id=37457051) - [Show HN: New Bézier curves for vector graphics](https://ad8e.pages.dev/curve)
 * [2023-09-10, 15:50:48](https://news.ycombinator.com/item?id=37456989) - [Alaska Air Force Base Home to Mini-Nuclear Reactor Pilot Project](https://oilprice.com/Alternative-Energy/Nuclear-Power/Alaska-Air-Force-Base-Home-To-Mini-Nuclear-Reactor-Pilot-Project.html)
