@@ -61,6 +61,7 @@
 * [2023-09-09, 13:40:15](https://news.ycombinator.com/item?id=37445284) - [Morocco earthquake kills more than 1,000](https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208)
 * [2023-09-09, 13:29:58](https://news.ycombinator.com/item?id=37445165) - [What are we calling what used to be called FAANG these days?](https://news.ycombinator.com/item?id=37445165)
 * [2023-09-09, 13:28:46](https://news.ycombinator.com/item?id=37445150) - [Why are your keyboards not wireless?](https://www.zsa.io/wireless/)
+* [2023-09-09, 13:10:05](https://news.ycombinator.com/item?id=37444946) - [My mental model of Clojure transducers](https://blog.danieljanus.pl/2023/09/09/transducers/)
 * [2023-09-09, 13:00:12](https://news.ycombinator.com/item?id=37444841) - [Google redraws the borders on maps depending on who’s looking (2020)](https://www.washingtonpost.com/technology/2020/02/14/google-maps-political-borders/)
 * [2023-09-09, 12:38:00](https://news.ycombinator.com/item?id=37444631) - [Republicans just saved California’s magic mushroom bill](https://www.sfgate.com/cannabis/article/3-republicans-saved-california-magic-mushroom-bill-18354895.php)
 * [2023-09-09, 12:36:00](https://news.ycombinator.com/item?id=37444607) - [U.S. Government Is Monitoring All Global Entry Members Daily](https://www.newsweek.com/government-monitors-global-entry-travelers-daily-even-if-they-arent-traveling-1825445)
