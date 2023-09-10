@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-10, 15:50:48](https://news.ycombinator.com/item?id=37456989) - [Alaska Air Force Base Home to Mini-Nuclear Reactor Pilot Project](https://oilprice.com/Alternative-Energy/Nuclear-Power/Alaska-Air-Force-Base-Home-To-Mini-Nuclear-Reactor-Pilot-Project.html)
 * [2023-09-10, 15:03:53](https://news.ycombinator.com/item?id=37456471) - [Peredvizhnikov Engine is a fully lock-free game engine written in C++20](https://github.com/eduard-permyakov/peredvizhnikov-engine)
 * [2023-09-10, 14:57:25](https://news.ycombinator.com/item?id=37456399) - [The fear of a nuclear fire that would consume Earth](https://www.bbc.com/future/article/20230907-the-fear-of-a-nuclear-fire-that-would-consume-earth)
 * [2023-09-10, 14:29:15](https://news.ycombinator.com/item?id=37456115) - [Textual-web: Run TUIs and terminals in the browser](https://github.com/Textualize/textual-web)
@@ -28,7 +29,6 @@
 * [2023-09-09, 04:16:23](https://news.ycombinator.com/item?id=37442235) - [The Works of Mars (1671)](https://publicdomainreview.org/collection/arbeid-van-mars/)
 * [2023-09-09, 00:04:01](https://news.ycombinator.com/item?id=37440842) - [Profound Beliefs](https://steveblank.com/2023/09/05/profound-beliefs/)
 * [2023-09-08, 13:21:17](https://news.ycombinator.com/item?id=37433126) - [What is an emotion? William James’s theory of how our bodies affect our feelings](https://www.themarginalian.org/2016/01/11/what-is-an-emotion-william-james/)
-* [2023-09-07, 13:53:46](https://news.ycombinator.com/item?id=37418944) - [The new Polaroid I-2 instant camera](https://i2-camera.polaroid.com)
 * [2023-09-07, 13:20:08](https://news.ycombinator.com/item?id=37418514) - [Magnetism may have given life its molecular asymmetry](https://www.quantamagazine.org/magnetism-may-have-given-life-its-molecular-asymmetry-20230906/)
 
 ## [Archives](archives/index.md)
