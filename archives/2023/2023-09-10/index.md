@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-10](index.md)
 
 * [2023-09-10, 21:00:05](https://news.ycombinator.com/item?id=37460025) - [Fathom AI Notetaker (YC W21) is hiring a principal SRE (remote)](https://www.ycombinator.com/companies/fathom/jobs/L0pyU04Gs-principal-site-reliability-engineer-remote)
+* [2023-09-10, 20:46:52](https://news.ycombinator.com/item?id=37459911) - [How to pass the interview for software engineering roles in Big Tech](https://www.lambrospetrou.com/articles/big-tech-software-interviews/)
 * [2023-09-10, 20:07:12](https://news.ycombinator.com/item?id=37459495) - [$400M in assets to bankrupt in 45-minutes because of a failed deployment (2014)](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
 * [2023-09-10, 19:56:32](https://news.ycombinator.com/item?id=37459371) - [Why Is the Ocean Salty?](https://www.usgs.gov/faqs/why-ocean-salty)
 * [2023-09-10, 19:30:09](https://news.ycombinator.com/item?id=37459121) - [The Linux Information Project](https://www.linfo.org/)
@@ -22,6 +23,7 @@
 * [2023-09-10, 17:03:18](https://news.ycombinator.com/item?id=37457745) - [Why do so many people hate EU bureaucracy?](https://blogs.lse.ac.uk/europpblog/2023/09/04/why-do-so-many-people-hate-eu-bureaucracy/)
 * [2023-09-10, 16:46:23](https://news.ycombinator.com/item?id=37457609) - [Show HN: Erlmacs – a script to update your .emacs file for Erlang development](https://github.com/dlachausse/erlmacs)
 * [2023-09-10, 16:42:49](https://news.ycombinator.com/item?id=37457571) - [Homeland Security using “Babel X” to link SSNs to social media posts](https://news.ycombinator.com/item?id=37457571)
+* [2023-09-10, 16:12:11](https://news.ycombinator.com/item?id=37457208) - [What I Have Changed My Mind About in Software Development](https://henrikwarne.com/2023/09/10/what-i-have-changed-my-mind-about-in-software-development/)
 * [2023-09-10, 15:56:07](https://news.ycombinator.com/item?id=37457051) - [Show HN: New Bézier curves for vector graphics](https://ad8e.pages.dev/curve)
 * [2023-09-10, 15:50:48](https://news.ycombinator.com/item?id=37456989) - [Alaska Air Force Base Home to Mini-Nuclear Reactor Pilot Project](https://oilprice.com/Alternative-Energy/Nuclear-Power/Alaska-Air-Force-Base-Home-To-Mini-Nuclear-Reactor-Pilot-Project.html)
 * [2023-09-10, 15:03:53](https://news.ycombinator.com/item?id=37456471) - [Peredvizhnikov Engine is a fully lock-free game engine written in C++20](https://github.com/eduard-permyakov/peredvizhnikov-engine)
