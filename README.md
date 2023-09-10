@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-10, 09:47:36](https://news.ycombinator.com/item?id=37454349) - [Ask HN: Can you end up on the “No Fly” list for putting AirTags in your luggage?](https://news.ycombinator.com/item?id=37454349)
 * [2023-09-10, 08:10:06](https://news.ycombinator.com/item?id=37453854) - [Nginx Unit – Universal web app server](https://github.com/nginx/unit)
 * [2023-09-10, 07:51:11](https://news.ycombinator.com/item?id=37453755) - [Show HN: Papersnap – Claude 2-Powered Mind Maps from Research](https://poe.com/universal_link_page?handle=PAPERSNAP)
 * [2023-09-10, 06:41:20](https://news.ycombinator.com/item?id=37453465) - [ZF makes magnet-free electric motor uniquely compact and competitive](https://press.zf.com/press/en/releases/release_60480.html)
@@ -20,6 +19,7 @@
 * [2023-09-09, 10:52:37](https://news.ycombinator.com/item?id=37443959) - [It's my Monitor](https://popey.com/blog/2023/09/its-my-monitor/)
 * [2023-09-09, 08:25:03](https://news.ycombinator.com/item?id=37443316) - [A guy preserving the new history of PC games, one Linux port at a time](https://www.404media.co/meet-the-guy-preserving-the-new-history-of-pc-games-one-linux-port-at-a-time/)
 * [2023-09-09, 07:14:07](https://news.ycombinator.com/item?id=37442986) - [Common garden weeds in Southern California](https://gregalder.com/yardposts/common-garden-weeds-in-southern-california/)
+* [2023-09-08, 20:03:31](https://news.ycombinator.com/item?id=37438703) - [Math.Round opens the browser print dialog (2019)](https://github.com/dotnet/try/issues/290)
 * [2023-09-08, 14:15:01](https://news.ycombinator.com/item?id=37433784) - [A Teen Celebrity in 1804](https://daily.jstor.org/a-teen-celebrity-in-1804/)
 * [2023-09-08, 13:21:17](https://news.ycombinator.com/item?id=37433126) - [What is an emotion? William James’s theory of how our bodies affect our feelings](https://www.themarginalian.org/2016/01/11/what-is-an-emotion-william-james/)
 * [2023-09-08, 09:47:29](https://news.ycombinator.com/item?id=37431588) - [Unpacking Elixir: Real-Time and Latency](https://underjord.io/unpacking-elixir-realtime-latency.html)
