@@ -4,6 +4,7 @@
 * [2023-09-10, 01:03:04](https://news.ycombinator.com/item?id=37451913) - [I Wrote a String Type](https://mcyoung.xyz/2023/08/09/yarns/)
 * [2023-09-10, 00:30:20](https://news.ycombinator.com/item?id=37451728) - [Coffee in a Can](https://one-from-nippon.ghost.io/coffee-in-a-can/)
 * [2023-09-10, 00:27:25](https://news.ycombinator.com/item?id=37451715) - [School of SRE: Curriculum for onboarding non-traditional hires and new grads](https://github.com/linkedin/school-of-sre)
+* [2023-09-10, 00:00:17](https://news.ycombinator.com/item?id=37451551) - [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
 * [2023-09-09, 23:54:29](https://news.ycombinator.com/item?id=37451518) - [Memories from old LAN parties](https://thomask.sdf.org/blog/2023/09/09/memories-from-old-lan-parties.html)
 * [2023-09-09, 23:13:04](https://news.ycombinator.com/item?id=37451230) - [Web Design Mistakes of 1999 (1999)](https://www.nngroup.com/articles/the-top-ten-web-design-mistakes-of-1999/)
 * [2023-09-09, 22:48:00](https://news.ycombinator.com/item?id=37451080) - [Sucking carbon dioxide out of the sky is moving from science fiction to reality](https://www.npr.org/2023/09/08/1198373683/sucking-carbon-dioxide-out-of-the-sky-is-moving-from-science-fiction-to-reality)
@@ -28,7 +29,6 @@
 * [2023-09-07, 14:50:54](https://news.ycombinator.com/item?id=37419739) - [A test of memory for stimulus sequences in great apes](https://neurosciencenews.com/sequential-memory-human-trait-23888/)
 * [2023-09-07, 13:53:46](https://news.ycombinator.com/item?id=37418944) - [The new Polaroid I-2 instant camera](https://i2-camera.polaroid.com)
 * [2023-09-07, 06:54:38](https://news.ycombinator.com/item?id=37415587) - [The Next Feature Fallacy (2015)](https://andrewchen.com/the-next-feature-fallacy-the-fallacy-that-the-next-new-feature-will-suddenly-make-people-use-your-product/)
-* [2023-09-06, 23:55:59](https://news.ycombinator.com/item?id=37413027) - [The era-defining aesthetic of “In the Mood for Love”](https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love)
 * [2023-09-06, 23:35:23](https://news.ycombinator.com/item?id=37412845) - [Researchers use AI to find new magnetic materials](https://phys.org/news/2023-09-ai-magnetic-materials-critical-elements.html)
 
 ## [Archives](archives/index.md)

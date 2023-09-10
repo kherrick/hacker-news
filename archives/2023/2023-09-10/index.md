@@ -11,3 +11,4 @@
 * [2023-09-10, 00:30:20](https://news.ycombinator.com/item?id=37451728) - [Coffee in a Can](https://one-from-nippon.ghost.io/coffee-in-a-can/)
 * [2023-09-10, 00:27:25](https://news.ycombinator.com/item?id=37451715) - [School of SRE: Curriculum for onboarding non-traditional hires and new grads](https://github.com/linkedin/school-of-sre)
 * [2023-09-10, 00:05:58](https://news.ycombinator.com/item?id=37451579) - [Florida’s “Nub City,” Where Residents Cut Off Their Own Appendages for Insurance](https://allthatsinteresting.com/nub-city-vernon-florida)
+* [2023-09-10, 00:00:17](https://news.ycombinator.com/item?id=37451551) - [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
