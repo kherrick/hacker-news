@@ -78,6 +78,7 @@
 * [2023-09-09, 09:36:58](https://news.ycombinator.com/item?id=37443634) - [Google's Statement on the UK Online Safety Bill](https://bills.parliament.uk/publications/46675/documents/1885)
 * [2023-09-09, 08:44:52](https://news.ycombinator.com/item?id=37443404) - [Bare-Metal Kubernetes, Part I: Talos on Hetzner](https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/)
 * [2023-09-09, 08:44:07](https://news.ycombinator.com/item?id=37443395) - [Eio 1.0 – Effects-based IO for OCaml 5](https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5)
+* [2023-09-09, 08:25:03](https://news.ycombinator.com/item?id=37443316) - [A guy preserving the new history of PC games, one Linux port at a time](https://www.404media.co/meet-the-guy-preserving-the-new-history-of-pc-games-one-linux-port-at-a-time/)
 * [2023-09-09, 08:17:33](https://news.ycombinator.com/item?id=37443280) - [Bitwarden has been disabled in Chrome [img]](https://imgur.com/XPmU2FX)
 * [2023-09-09, 08:12:21](https://news.ycombinator.com/item?id=37443252) - [Making a newsletter backend](https://axleos.com/making-a-newsletter-backend/)
 * [2023-09-09, 07:17:06](https://news.ycombinator.com/item?id=37442998) - [X challenges California’s new transparency law as unconstitutional](https://techcrunch.com/2023/09/08/twitter-x-elon-musk-california-moderation-transparency-law-as-unconstitutional-ab-587/)
