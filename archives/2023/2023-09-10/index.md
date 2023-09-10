@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-10](index.md)
 
+* [2023-09-10, 13:14:45](https://news.ycombinator.com/item?id=37455534) - [Earth had hottest 3-months on record; unprecedented sea temps & extreme weather](https://public.wmo.int/en/media/press-release/earth-had-hottest-three-month-period-record-unprecedented-sea-surface)
 * [2023-09-10, 12:51:24](https://news.ycombinator.com/item?id=37455382) - [Is air conditioning making cities hotter?](https://www.euronews.com/green/2023/08/30/fact-check-is-air-conditioning-making-cities-hotter)
 * [2023-09-10, 12:30:46](https://news.ycombinator.com/item?id=37455239) - [Reviewing a Dell Linux PC 23 years ago (by me in PCW magazine, Sep 2000)](https://liam-on-linux.dreamwidth.org/89116.html)
 * [2023-09-10, 12:22:30](https://news.ycombinator.com/item?id=37455176) - [Leaked Google pay data shows how much employees report making](https://www.businessinsider.com/google-salaries-levels-locations-races-gender-leaked-data-2023-9)
