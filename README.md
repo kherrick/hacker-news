@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-10, 10:59:49](https://news.ycombinator.com/item?id=37454707) - [New JFK Assassination Revelation Could Upend the Long-Held “Lone Gunman” Theory](https://www.vanityfair.com/news/2023/09/new-jfk-assassination-revelation-upend-lone-gunman)
 * [2023-09-10, 09:40:19](https://news.ycombinator.com/item?id=37454301) - [Breathing Life Back into a Minitel 1B with the Minimit](https://blog.jgc.org/2023/09/breathing-life-back-into-minitel-1b.html)
 * [2023-09-10, 08:10:06](https://news.ycombinator.com/item?id=37453854) - [Nginx Unit – Universal web app server](https://github.com/nginx/unit)
 * [2023-09-10, 07:51:11](https://news.ycombinator.com/item?id=37453755) - [Show HN: Papersnap – Claude 2-Powered Mind Maps from Research](https://poe.com/universal_link_page?handle=PAPERSNAP)
@@ -15,7 +16,6 @@
 * [2023-09-09, 22:48:00](https://news.ycombinator.com/item?id=37451080) - [Sucking carbon dioxide out of the sky is moving from science fiction to reality](https://www.npr.org/2023/09/08/1198373683/sucking-carbon-dioxide-out-of-the-sky-is-moving-from-science-fiction-to-reality)
 * [2023-09-09, 22:27:16](https://news.ycombinator.com/item?id=37450915) - [Lithium discovery in US volcano could be biggest deposit ever found](https://www.chemistryworld.com/news/lithium-discovery-in-us-volcano-could-be-biggest-deposit-ever-found/4018032.article)
 * [2023-09-09, 21:00:20](https://news.ycombinator.com/item?id=37450228) - [Freshpaint (YC S19) is hiring engineers to build a HIPAA compliant data platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-* [2023-09-09, 18:30:39](https://news.ycombinator.com/item?id=37448659) - [SmartKnob – Haptic input knob with software-defined endstops and virtual detents](https://github.com/scottbez1/smartknob)
 * [2023-09-09, 13:51:33](https://news.ycombinator.com/item?id=37445401) - [Asking 60 LLMs a set of 20 questions](https://benchmarks.llmonitor.com)
 * [2023-09-09, 10:52:37](https://news.ycombinator.com/item?id=37443959) - [It's my Monitor](https://popey.com/blog/2023/09/its-my-monitor/)
 * [2023-09-09, 08:25:03](https://news.ycombinator.com/item?id=37443316) - [A guy preserving the new history of PC games, one Linux port at a time](https://www.404media.co/meet-the-guy-preserving-the-new-history-of-pc-games-one-linux-port-at-a-time/)

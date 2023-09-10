@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-10](index.md)
 
+* [2023-09-10, 10:59:49](https://news.ycombinator.com/item?id=37454707) - [New JFK Assassination Revelation Could Upend the Long-Held “Lone Gunman” Theory](https://www.vanityfair.com/news/2023/09/new-jfk-assassination-revelation-upend-lone-gunman)
 * [2023-09-10, 09:47:36](https://news.ycombinator.com/item?id=37454349) - [Ask HN: Can you end up on the “No Fly” list for putting AirTags in your luggage?](https://news.ycombinator.com/item?id=37454349)
 * [2023-09-10, 09:40:19](https://news.ycombinator.com/item?id=37454301) - [Breathing Life Back into a Minitel 1B with the Minimit](https://blog.jgc.org/2023/09/breathing-life-back-into-minitel-1b.html)
 * [2023-09-10, 08:10:06](https://news.ycombinator.com/item?id=37453854) - [Nginx Unit – Universal web app server](https://github.com/nginx/unit)
