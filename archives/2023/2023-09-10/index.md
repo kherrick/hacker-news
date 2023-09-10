@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-09-10](index.md)
 
 * [2023-09-10, 12:51:24](https://news.ycombinator.com/item?id=37455382) - [Is air conditioning making cities hotter?](https://www.euronews.com/green/2023/08/30/fact-check-is-air-conditioning-making-cities-hotter)
+* [2023-09-10, 12:30:46](https://news.ycombinator.com/item?id=37455239) - [Reviewing a Dell Linux PC 23 years ago (by me in PCW magazine, Sep 2000)](https://liam-on-linux.dreamwidth.org/89116.html)
+* [2023-09-10, 12:22:30](https://news.ycombinator.com/item?id=37455176) - [Leaked Google pay data shows how much employees report making](https://www.businessinsider.com/google-salaries-levels-locations-races-gender-leaked-data-2023-9)
 * [2023-09-10, 11:30:29](https://news.ycombinator.com/item?id=37454853) - [“Make” as a Static Site Generator](https://www.karl.berlin/static-site.html)
 * [2023-09-10, 11:12:13](https://news.ycombinator.com/item?id=37454766) - [I wired up my bike's GPS to order me pizza during a gravel race](https://steele.blue/geofence-pizza-ordering/)
 * [2023-09-10, 10:59:49](https://news.ycombinator.com/item?id=37454707) - [New JFK Assassination Revelation Could Upend the Long-Held “Lone Gunman” Theory](https://www.vanityfair.com/news/2023/09/new-jfk-assassination-revelation-upend-lone-gunman)

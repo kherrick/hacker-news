@@ -77,6 +77,7 @@
 * [2023-09-09, 10:52:37](https://news.ycombinator.com/item?id=37443959) - [It's my Monitor](https://popey.com/blog/2023/09/its-my-monitor/)
 * [2023-09-09, 09:39:44](https://news.ycombinator.com/item?id=37443644) - [Privacy Nightmare on Wheels’: Every Car Brand Reviewed by Mozilla](https://foundation.mozilla.org/en/blog/privacy-nightmare-on-wheels-every-car-brand-reviewed-by-mozilla-including-ford-volkswagen-and-toyota-flunks-privacy-test/)
 * [2023-09-09, 09:36:58](https://news.ycombinator.com/item?id=37443634) - [Google's Statement on the UK Online Safety Bill](https://bills.parliament.uk/publications/46675/documents/1885)
+* [2023-09-09, 09:35:30](https://news.ycombinator.com/item?id=37443629) - [The Printing Press Under an X-Ray Microscope](https://physics.aps.org/articles/v16/154)
 * [2023-09-09, 08:44:52](https://news.ycombinator.com/item?id=37443404) - [Bare-Metal Kubernetes, Part I: Talos on Hetzner](https://datavirke.dk/posts/bare-metal-kubernetes-part-1-talos-on-hetzner/)
 * [2023-09-09, 08:44:07](https://news.ycombinator.com/item?id=37443395) - [Eio 1.0 – Effects-based IO for OCaml 5](https://icfp23.sigplan.org/details/ocaml-2023-papers/5/Eio-1-0-Effects-based-IO-for-OCaml-5)
 * [2023-09-09, 08:25:03](https://news.ycombinator.com/item?id=37443316) - [A guy preserving the new history of PC games, one Linux port at a time](https://www.404media.co/meet-the-guy-preserving-the-new-history-of-pc-games-one-linux-port-at-a-time/)
