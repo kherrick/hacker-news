@@ -21,7 +21,7 @@
 * [2023-09-08, 14:15:01](https://news.ycombinator.com/item?id=37433784) - [A Teen Celebrity in 1804](https://daily.jstor.org/a-teen-celebrity-in-1804/)
 * [2023-09-08, 11:49:55](https://news.ycombinator.com/item?id=37432336) - [A small-town police officer took down a large match-fixing ring in tennis](https://www.washingtonpost.com/world/interactive/2023/tennis-match-fixing-gambling-investigation-belgium/)
 * [2023-09-08, 09:47:29](https://news.ycombinator.com/item?id=37431588) - [Unpacking Elixir: Real-Time and Latency](https://underjord.io/unpacking-elixir-realtime-latency.html)
-* [2023-09-08, 08:47:49](https://news.ycombinator.com/item?id=37431160) - [The Nine Most Important Types of Pizza in America](https://www.bloomberg.com/news/articles/2023-09-07/the-nine-most-important-types-of-pizza-in-america)
+* [2023-09-08, 09:33:07](https://news.ycombinator.com/item?id=37431496) - [Chromostereopsis](https://www.smartermarx.com/t/chromostereopsis/650)
 * [2023-09-08, 08:02:30](https://news.ycombinator.com/item?id=37430857) - [The Le Guin Precepts](https://seths.blog/2023/09/the-leguin-precepts/)
 * [2023-09-08, 02:26:44](https://news.ycombinator.com/item?id=37428491) - [I used a Game Boy camera for Facetime video calls in iPadOS 17](https://www.macstories.net/stories/i-used-a-game-boy-camera-for-facetime-video-calls-in-ipados-17-and-it-was-glorious/)
 * [2023-09-07, 17:21:49](https://news.ycombinator.com/item?id=37422349) - [The Rise and Fall of ESPN’s Leverage](https://stratechery.com/2023/the-rise-and-fall-of-espns-leverage/)
