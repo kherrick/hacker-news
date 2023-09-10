@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-10, 22:10:09](https://news.ycombinator.com/item?id=37460614) - [RISC-V SBI and the full boot process](https://popovicu.com/posts/risc-v-sbi-and-full-boot-process/)
+* [2023-09-10, 21:54:41](https://news.ycombinator.com/item?id=37460479) - [Rushed exodus frm rain soaked BurningMan could have adverse environmental impact](https://thenevadaindependent.com/article/scars-on-the-playa-rushed-exodus-from-rain-soaked-burning-man-could-have-adverse-environmental-impacts)
 * [2023-09-10, 21:53:15](https://news.ycombinator.com/item?id=37460465) - [Improving NeRF quality by progressive camera placement](https://arxiv.org/abs/2309.00014)
 * [2023-09-10, 21:30:07](https://news.ycombinator.com/item?id=37460267) - [Small prey compelled prehistoric humans to produce appropriate hunting weapons](https://phys.org/news/2023-09-small-prey-compelled-prehistoric-humans.html)
 * [2023-09-10, 21:26:06](https://news.ycombinator.com/item?id=37460236) - [Historical Objects: The Bees of Childeric I](https://justhistoryposts.com/2023/09/05/historical-objects-the-bees-of-childeric-i/)
@@ -11,7 +12,6 @@
 * [2023-09-10, 18:48:07](https://news.ycombinator.com/item?id=37458753) - [Battery-electric fishing vessel marks a sea change for small commercial fishers](https://www.nrel.gov/news/program/2023/battery-electric-fishing-vessel-marks-a-sea-change-for-small-commercial-fishers.html)
 * [2023-09-10, 17:08:24](https://news.ycombinator.com/item?id=37457796) - [Goodbye to Thien-Thi Nguyen](https://lists.gnu.org/archive/html/emacs-devel/2023-09/msg00713.html)
 * [2023-09-10, 16:46:23](https://news.ycombinator.com/item?id=37457609) - [Show HN: Erlmacs – a script to update your .emacs file for Erlang development](https://github.com/dlachausse/erlmacs)
-* [2023-09-10, 16:12:11](https://news.ycombinator.com/item?id=37457208) - [What I have changed my mind about in software development](https://henrikwarne.com/2023/09/10/what-i-have-changed-my-mind-about-in-software-development/)
 * [2023-09-10, 15:56:07](https://news.ycombinator.com/item?id=37457051) - [New Bézier curves for vector graphics](https://ad8e.pages.dev/curve)
 * [2023-09-10, 15:03:53](https://news.ycombinator.com/item?id=37456471) - [Peredvizhnikov Engine: Lock-free game engine written in C++20](https://github.com/eduard-permyakov/peredvizhnikov-engine)
 * [2023-09-10, 14:58:29](https://news.ycombinator.com/item?id=37456409) - [SoDaCam: Software-Defined Cameras via Single-Photon Imaging](https://arxiv.org/abs/2309.00066)
