@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-10](index.md)
 
+* [2023-09-10, 14:00:45](https://news.ycombinator.com/item?id=37455817) - [Phoenix has set another heat record by hitting 110 degrees on 54 days this year](https://www.npr.org/2023/09/10/1198669796/phoenix-sets-another-heat-record)
+* [2023-09-10, 13:20:13](https://news.ycombinator.com/item?id=37455574) - [Google no longer offers new domain registrations](https://domains.google/)
 * [2023-09-10, 13:14:45](https://news.ycombinator.com/item?id=37455534) - [Earth had hottest 3-months on record; unprecedented sea temps & extreme weather](https://public.wmo.int/en/media/press-release/earth-had-hottest-three-month-period-record-unprecedented-sea-surface)
 * [2023-09-10, 12:51:24](https://news.ycombinator.com/item?id=37455382) - [Is air conditioning making cities hotter?](https://www.euronews.com/green/2023/08/30/fact-check-is-air-conditioning-making-cities-hotter)
 * [2023-09-10, 12:30:46](https://news.ycombinator.com/item?id=37455239) - [Reviewing a Dell Linux PC 23 years ago (by me in PCW magazine, Sep 2000)](https://liam-on-linux.dreamwidth.org/89116.html)

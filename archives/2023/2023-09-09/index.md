@@ -83,6 +83,7 @@
 * [2023-09-09, 08:25:03](https://news.ycombinator.com/item?id=37443316) - [A guy preserving the new history of PC games, one Linux port at a time](https://www.404media.co/meet-the-guy-preserving-the-new-history-of-pc-games-one-linux-port-at-a-time/)
 * [2023-09-09, 08:17:33](https://news.ycombinator.com/item?id=37443280) - [Bitwarden has been disabled in Chrome [img]](https://imgur.com/XPmU2FX)
 * [2023-09-09, 08:12:21](https://news.ycombinator.com/item?id=37443252) - [Making a newsletter backend](https://axleos.com/making-a-newsletter-backend/)
+* [2023-09-09, 07:32:52](https://news.ycombinator.com/item?id=37443089) - [Delightfully strange: Mystery 'golden egg' found on ocean floor](https://phys.org/news/2023-09-strange-mystery-golden-egg-ocean.html)
 * [2023-09-09, 07:17:06](https://news.ycombinator.com/item?id=37442998) - [X challenges California’s new transparency law as unconstitutional](https://techcrunch.com/2023/09/08/twitter-x-elon-musk-california-moderation-transparency-law-as-unconstitutional-ab-587/)
 * [2023-09-09, 07:14:07](https://news.ycombinator.com/item?id=37442986) - [Common garden weeds in Southern California](https://gregalder.com/yardposts/common-garden-weeds-in-southern-california/)
 * [2023-09-09, 07:04:40](https://news.ycombinator.com/item?id=37442927) - [Experts fear crooks are cracking keys stolen in LastPass breach](https://krebsonsecurity.com/)
