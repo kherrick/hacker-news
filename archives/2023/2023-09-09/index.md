@@ -102,3 +102,4 @@
 * [2023-09-09, 01:02:29](https://news.ycombinator.com/item?id=37441168) - [Generally Intelligent (YC S17) Is Hiring Technical Interviewers](https://news.ycombinator.com/item?id=37441168)
 * [2023-09-09, 00:55:01](https://news.ycombinator.com/item?id=37441125) - [Uber CEO’s time moonlighting as a driver sparked all-hands called 'Why we suck.'](https://www.businessinsider.com/uber-ceo-dara-khosrowshahi-company-should-have-paid-attention-drivers-2023-9)
 * [2023-09-09, 00:20:36](https://news.ycombinator.com/item?id=37440943) - [Atari pulls nostalgia power move and buys homebrew community forum](https://www.theregister.com/2023/09/08/atari_snaps_up_atariage/)
+* [2023-09-09, 00:04:01](https://news.ycombinator.com/item?id=37440842) - [Profound Beliefs](https://steveblank.com/2023/09/05/profound-beliefs/)
