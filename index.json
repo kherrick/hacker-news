@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-10, 22:36:24",
+      "https://news.ycombinator.com/item?id=37460815"
+    ],
+    [
+      "The Awk book’s 60-line version of Make",
+      "https://benhoyt.com/writings/awk-make/"
+    ]
+  ],
+  [
+    [
       "2023-09-10, 22:10:09",
       "https://news.ycombinator.com/item?id=37460614"
     ],
@@ -41,22 +51,22 @@
   ],
   [
     [
-      "2023-09-10, 21:26:06",
-      "https://news.ycombinator.com/item?id=37460236"
-    ],
-    [
-      "Historical Objects: The Bees of Childeric I",
-      "https://justhistoryposts.com/2023/09/05/historical-objects-the-bees-of-childeric-i/"
-    ]
-  ],
-  [
-    [
       "2023-09-10, 21:00:05",
       "https://news.ycombinator.com/item?id=37460025"
     ],
     [
       "Fathom AI Notetaker (YC W21) is hiring a principal SRE (remote)",
       "https://www.ycombinator.com/companies/fathom/jobs/L0pyU04Gs-principal-site-reliability-engineer-remote"
+    ]
+  ],
+  [
+    [
+      "2023-09-10, 20:38:34",
+      "https://news.ycombinator.com/item?id=37459829"
+    ],
+    [
+      "Static Hermes: Compile JavaScript to speed it up 300x (in microbenchmarks)",
+      "https://tmikov.blogspot.com/2023/09/how-to-speed-up-micro-benchmark-300x.html"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Peredvizhnikov Engine: Lock-free game engine written in C++20",
       "https://github.com/eduard-permyakov/peredvizhnikov-engine"
-    ]
-  ],
-  [
-    [
-      "2023-09-10, 14:58:29",
-      "https://news.ycombinator.com/item?id=37456409"
-    ],
-    [
-      "SoDaCam: Software-Defined Cameras via Single-Photon Imaging",
-      "https://arxiv.org/abs/2309.00066"
     ]
   ],
   [
