@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-10, 02:14:40](https://news.ycombinator.com/item?id=37452279) - [Sci-Fi Short Film “Slaughterbots” [video] (2017)](https://www.youtube.com/watch?v=O-2tpwW0kmU)
 * [2023-09-10, 01:33:14](https://news.ycombinator.com/item?id=37452051) - [GitHub – GSA/code-gov: An informative repo for all Code.gov repos](https://github.com/GSA/code-gov)
 * [2023-09-10, 01:03:04](https://news.ycombinator.com/item?id=37451913) - [I Wrote a String Type](https://mcyoung.xyz/2023/08/09/yarns/)
 * [2023-09-10, 00:30:20](https://news.ycombinator.com/item?id=37451728) - [Coffee in a Can](https://one-from-nippon.ghost.io/coffee-in-a-can/)
@@ -11,6 +10,7 @@
 * [2023-09-09, 22:27:16](https://news.ycombinator.com/item?id=37450915) - [Lithium discovery in US volcano could be biggest deposit ever found](https://www.chemistryworld.com/news/lithium-discovery-in-us-volcano-could-be-biggest-deposit-ever-found/4018032.article)
 * [2023-09-09, 21:37:28](https://news.ycombinator.com/item?id=37450536) - [Microsoft announces purchase of 315k tonnes of CO2 removal](https://www.heirloomcarbon.com/news/heirloom-and-microsoft-sign-permanent-co2-removal-deal)
 * [2023-09-09, 21:00:20](https://news.ycombinator.com/item?id=37450228) - [Freshpaint (YC S19) is hiring engineers to build a HIPAA compliant data platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+* [2023-09-09, 19:34:44](https://news.ycombinator.com/item?id=37449439) - [The English cottage where John le Carré wrote Tinker Tailor Soldier Spy](https://lithub.com/look-inside-the-gorgeous-english-cottage-where-john-le-carre-wrote-tinker-tailor-soldier-spy/)
 * [2023-09-09, 18:47:54](https://news.ycombinator.com/item?id=37448914) - [Show HN: I built a Python web framework](https://github.com/ZeroIntensity/view.py)
 * [2023-09-09, 18:30:39](https://news.ycombinator.com/item?id=37448659) - [SmartKnob – Haptic input knob with software-defined endstops and virtual detents](https://github.com/scottbez1/smartknob)
 * [2023-09-09, 15:23:10](https://news.ycombinator.com/item?id=37446430) - [FFmpeg Patches for a 20% speedup of Apple ProRes decoding](https://ffmpeg.org/pipermail/ffmpeg-devel/2023-September/314167.html)
