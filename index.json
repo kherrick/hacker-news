@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-10, 14:00:45",
+      "https://news.ycombinator.com/item?id=37455817"
+    ],
+    [
+      "Phoenix has set another heat record by hitting 110 degrees on 54 days this year",
+      "https://www.npr.org/2023/09/10/1198669796/phoenix-sets-another-heat-record"
+    ]
+  ],
+  [
+    [
+      "2023-09-10, 13:20:13",
+      "https://news.ycombinator.com/item?id=37455574"
+    ],
+    [
+      "Google no longer offers new domain registrations",
+      "https://domains.google/"
+    ]
+  ],
+  [
+    [
       "2023-09-10, 13:14:45",
       "https://news.ycombinator.com/item?id=37455534"
     ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2023-09-09, 22:48:00",
-      "https://news.ycombinator.com/item?id=37451080"
-    ],
-    [
-      "Sucking carbon dioxide out of the sky is moving from science fiction to reality",
-      "https://www.npr.org/2023/09/08/1198373683/sucking-carbon-dioxide-out-of-the-sky-is-moving-from-science-fiction-to-reality"
-    ]
-  ],
-  [
-    [
       "2023-09-09, 22:27:16",
       "https://news.ycombinator.com/item?id=37450915"
     ],
     [
       "Lithium discovery in US volcano could be biggest deposit ever found",
       "https://www.chemistryworld.com/news/lithium-discovery-in-us-volcano-could-be-biggest-deposit-ever-found/4018032.article"
-    ]
-  ],
-  [
-    [
-      "2023-09-09, 13:51:33",
-      "https://news.ycombinator.com/item?id=37445401"
-    ],
-    [
-      "Asking 60 LLMs a set of 20 questions",
-      "https://benchmarks.llmonitor.com"
     ]
   ],
   [
@@ -227,6 +227,16 @@
     [
       "A guy preserving the new history of PC games, one Linux port at a time",
       "https://www.404media.co/meet-the-guy-preserving-the-new-history-of-pc-games-one-linux-port-at-a-time/"
+    ]
+  ],
+  [
+    [
+      "2023-09-09, 07:32:52",
+      "https://news.ycombinator.com/item?id=37443089"
+    ],
+    [
+      "Delightfully strange: Mystery 'golden egg' found on ocean floor",
+      "https://phys.org/news/2023-09-strange-mystery-golden-egg-ocean.html"
     ]
   ],
   [
@@ -275,18 +285,8 @@
       "https://news.ycombinator.com/item?id=37429046"
     ],
     [
-      "How to Make a Synthetic Diamond",
+      "How to make a synthetic diamond",
       "https://www.instructables.com/How-to-Make-a-Synthetic-Diamond/"
-    ]
-  ],
-  [
-    [
-      "2023-09-08, 02:26:44",
-      "https://news.ycombinator.com/item?id=37428491"
-    ],
-    [
-      "I used a Game Boy camera for Facetime video calls in iPadOS 17",
-      "https://www.macstories.net/stories/i-used-a-game-boy-camera-for-facetime-video-calls-in-ipados-17-and-it-was-glorious/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=37418514"
     ],
     [
-      "Magnetism May Have Given Life Its Molecular Asymmetry",
+      "Magnetism may have given life its molecular asymmetry",
       "https://www.quantamagazine.org/magnetism-may-have-given-life-its-molecular-asymmetry-20230906/"
     ]
   ]
