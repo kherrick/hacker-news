@@ -21,6 +21,7 @@
 * [2023-09-10, 11:30:29](https://news.ycombinator.com/item?id=37454853) - [“Make” as a Static Site Generator](https://www.karl.berlin/static-site.html)
 * [2023-09-10, 11:12:13](https://news.ycombinator.com/item?id=37454766) - [I wired up my bike's GPS to order me pizza during a gravel race](https://steele.blue/geofence-pizza-ordering/)
 * [2023-09-10, 10:59:49](https://news.ycombinator.com/item?id=37454707) - [New JFK Assassination Revelation Could Upend the Long-Held “Lone Gunman” Theory](https://www.vanityfair.com/news/2023/09/new-jfk-assassination-revelation-upend-lone-gunman)
+* [2023-09-10, 09:54:02](https://news.ycombinator.com/item?id=37454378) - [A Texas Semiconductor Boom on the Horizon](https://news.utexas.edu/2023/09/08/a-texas-semiconductor-boom-on-the-horizon/)
 * [2023-09-10, 09:47:36](https://news.ycombinator.com/item?id=37454349) - [Ask HN: Can you end up on the “No Fly” list for putting AirTags in your luggage?](https://news.ycombinator.com/item?id=37454349)
 * [2023-09-10, 09:40:19](https://news.ycombinator.com/item?id=37454301) - [Breathing Life Back into a Minitel 1B with the Minimit](https://blog.jgc.org/2023/09/breathing-life-back-into-minitel-1b.html)
 * [2023-09-10, 08:10:06](https://news.ycombinator.com/item?id=37453854) - [Nginx Unit – Universal web app server](https://github.com/nginx/unit)

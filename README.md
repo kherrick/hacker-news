@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-10, 15:03:53](https://news.ycombinator.com/item?id=37456471) - [Peredvizhnikov Engine is a fully lock-free game engine written in C++20](https://github.com/eduard-permyakov/peredvizhnikov-engine)
-* [2023-09-10, 14:57:25](https://news.ycombinator.com/item?id=37456399) - [The fear of a nuclear fire that would consume Earth](https://www.bbc.com/future/article/20230907-the-fear-of-a-nuclear-fire-that-would-consume-earth)
-* [2023-09-10, 14:36:51](https://news.ycombinator.com/item?id=37456189) - [Do UK ISPs Have Permission to Monitor IPTV Pirates and Share Their Data?](https://torrentfreak.com/do-uk-isps-have-permission-to-monitor-iptv-pirates-share-their-data-230910/)
+* [2023-09-10, 13:50:11](https://news.ycombinator.com/item?id=37455743) - [It’s way past time to stop police ‘testilying’](https://knowablemagazine.org/article/society/2023/time-to-end-police-deception)
 * [2023-09-10, 13:28:25](https://news.ycombinator.com/item?id=37455621) - [How does Linux NAT a ping?](https://devnonsense.com/posts/how-does-linux-nat-a-ping/)
 * [2023-09-10, 13:20:13](https://news.ycombinator.com/item?id=37455574) - [Google no longer offers new domain registrations](https://domains.google/)
 * [2023-09-10, 13:14:45](https://news.ycombinator.com/item?id=37455534) - [Earth had hottest 3-months on record; unprecedented sea temps & extreme weather](https://public.wmo.int/en/media/press-release/earth-had-hottest-three-month-period-record-unprecedented-sea-surface)
@@ -12,6 +11,7 @@
 * [2023-09-10, 12:11:48](https://news.ycombinator.com/item?id=37455106) - [Scientists Discover Natural Molecule That Eradicates Plaques and Cavities](https://scitechdaily.com/90-reduction-scientists-discover-natural-molecule-that-eradicates-plaques-and-cavities/)
 * [2023-09-10, 11:30:29](https://news.ycombinator.com/item?id=37454853) - [“Make” as a Static Site Generator (2022)](https://www.karl.berlin/static-site.html)
 * [2023-09-10, 11:12:13](https://news.ycombinator.com/item?id=37454766) - [I wired up my bike's GPS to order me pizza during a gravel race](https://steele.blue/geofence-pizza-ordering/)
+* [2023-09-10, 09:54:02](https://news.ycombinator.com/item?id=37454378) - [A Texas Semiconductor Boom on the Horizon](https://news.utexas.edu/2023/09/08/a-texas-semiconductor-boom-on-the-horizon/)
 * [2023-09-10, 09:40:19](https://news.ycombinator.com/item?id=37454301) - [Breathing Life Back into a Minitel 1B with the Minimit](https://blog.jgc.org/2023/09/breathing-life-back-into-minitel-1b.html)
 * [2023-09-10, 08:10:06](https://news.ycombinator.com/item?id=37453854) - [Nginx Unit – Universal web app server](https://github.com/nginx/unit)
 * [2023-09-10, 07:22:18](https://news.ycombinator.com/item?id=37453616) - [The Decline of Usability (2020)](https://datagubbe.se/decusab/)
