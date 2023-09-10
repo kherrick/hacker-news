@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-10, 18:41:48](https://news.ycombinator.com/item?id=37458696) - [Mistakes You Should Never Make](https://web.archive.org/web/20140803073308/http://sethbannon.com/mistakes-you-should-never-make)
+* [2023-09-10, 18:39:15](https://news.ycombinator.com/item?id=37458671) - [Why SaaS prices are still going up when companies are spending less](https://www.vendr.com/blog/price-hikes-continue)
 * [2023-09-10, 17:57:42](https://news.ycombinator.com/item?id=37458283) - [A Senior Engineer's Check-List (2019)](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/)
 * [2023-09-10, 17:53:10](https://news.ycombinator.com/item?id=37458236) - [KSMBD Declared Stable – No Longer “Experimental” – In Linux 6.6](https://www.phoronix.com/news/KSMBD-Stable-Linux-6.6)
 * [2023-09-10, 17:51:59](https://news.ycombinator.com/item?id=37458221) - [Linux 6.6 WQ Change May Help AMD CPUs and Other Systems with Multiple L3 Caches](https://www.phoronix.com/news/Linux-6.6-Workqueue)
@@ -17,7 +19,6 @@
 * [2023-09-10, 11:30:29](https://news.ycombinator.com/item?id=37454853) - [“Make” as a Static Site Generator (2022)](https://www.karl.berlin/static-site.html)
 * [2023-09-10, 11:12:13](https://news.ycombinator.com/item?id=37454766) - [I wired up my bike's GPS to order me pizza during a gravel race](https://steele.blue/geofence-pizza-ordering/)
 * [2023-09-10, 10:59:49](https://news.ycombinator.com/item?id=37454707) - [New JFK assassination revelation could upend the lone gunman theory](https://www.vanityfair.com/news/2023/09/new-jfk-assassination-revelation-upend-lone-gunman)
-* [2023-09-10, 09:54:02](https://news.ycombinator.com/item?id=37454378) - [A Texas Semiconductor Boom on the Horizon](https://news.utexas.edu/2023/09/08/a-texas-semiconductor-boom-on-the-horizon/)
 * [2023-09-10, 09:40:19](https://news.ycombinator.com/item?id=37454301) - [Breathing Life Back into a Minitel 1B with the Minimit](https://blog.jgc.org/2023/09/breathing-life-back-into-minitel-1b.html)
 * [2023-09-10, 08:10:06](https://news.ycombinator.com/item?id=37453854) - [Nginx Unit – Universal web app server](https://github.com/nginx/unit)
 * [2023-09-10, 07:22:18](https://news.ycombinator.com/item?id=37453616) - [The Decline of Usability (2020)](https://datagubbe.se/decusab/)
@@ -27,7 +28,6 @@
 * [2023-09-09, 10:52:37](https://news.ycombinator.com/item?id=37443959) - [It's My Monitor](https://popey.com/blog/2023/09/its-my-monitor/)
 * [2023-09-09, 07:32:52](https://news.ycombinator.com/item?id=37443089) - [Delightfully strange: Mystery 'golden egg' found on ocean floor](https://phys.org/news/2023-09-strange-mystery-golden-egg-ocean.html)
 * [2023-09-09, 00:04:01](https://news.ycombinator.com/item?id=37440842) - [Profound Beliefs](https://steveblank.com/2023/09/05/profound-beliefs/)
-* [2023-09-08, 13:21:17](https://news.ycombinator.com/item?id=37433126) - [What is an emotion? William James’s theory of how our bodies affect our feelings](https://www.themarginalian.org/2016/01/11/what-is-an-emotion-william-james/)
 * [2023-09-08, 03:01:19](https://news.ycombinator.com/item?id=37428700) - [Signs of the Zodiac: The Dendera Dating Controversy](https://www.historytoday.com/archive/great-debates/signs-zodiac-dendera-dating-controversy)
 * [2023-09-07, 13:20:08](https://news.ycombinator.com/item?id=37418514) - [Magnetism may have given life its molecular asymmetry](https://www.quantamagazine.org/magnetism-may-have-given-life-its-molecular-asymmetry-20230906/)
 
