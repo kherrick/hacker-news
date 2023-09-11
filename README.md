@@ -2,6 +2,7 @@
 
 * [2023-09-11, 11:06:53](https://news.ycombinator.com/item?id=37465480) - [Cancer cases in young adults rise by 80% globally](https://indianexpress.com/article/lifestyle/health/rising-cancer-under-50s-causes-mystery-8931614/)
 * [2023-09-11, 10:23:04](https://news.ycombinator.com/item?id=37465185) - [Removing Garbage Collection from the Rust Language (2013)](http://pcwalton.github.io/_posts/2013-06-02-removing-garbage-collection-from-the-rust-language.html)
+* [2023-09-11, 10:04:49](https://news.ycombinator.com/item?id=37465052) - [The Top Programming Languages 2023](https://spectrum.ieee.org/the-top-programming-languages-2023)
 * [2023-09-11, 08:50:20](https://news.ycombinator.com/item?id=37464574) - [Google Chrome just rolled out a new way to track you and serve ads](https://theconversation.com/google-chrome-just-rolled-out-a-new-way-to-track-you-and-serve-ads-heres-what-you-need-to-know-213150)
 * [2023-09-11, 08:35:42](https://news.ycombinator.com/item?id=37464481) - [The End of Cheap Europe Flights? France Proposes EU-Wide Minimum Price](https://www.forbes.com/sites/alexledsom/2023/09/07/the-end-of-cheap-europe-flights-france-proposes-eu-wide-minimum-price/)
 * [2023-09-11, 08:32:18](https://news.ycombinator.com/item?id=37464466) - [Spain’s Lessons for American Decline](https://compactmag.com/article/spain-s-lessons-for-american-decline)
@@ -24,7 +25,6 @@
 * [2023-09-10, 16:31:04](https://news.ycombinator.com/item?id=37457426) - [CityDreamer: Compositional Generative Model of Unbounded 3D Cities](https://arxiv.org/abs/2309.00610)
 * [2023-09-10, 15:03:53](https://news.ycombinator.com/item?id=37456471) - [Peredvizhnikov Engine: Lock-free game engine written in C++20](https://github.com/eduard-permyakov/peredvizhnikov-engine)
 * [2023-09-10, 08:52:14](https://news.ycombinator.com/item?id=37454098) - [Ray and Tom Magliozzi, MIT 1999 Commencement Address [video]](https://www.youtube.com/watch?v=KWG1Yxoa_Os)
-* [2023-09-10, 08:10:06](https://news.ycombinator.com/item?id=37453854) - [Nginx Unit – Universal web app server](https://github.com/nginx/unit)
 * [2023-09-10, 04:18:36](https://news.ycombinator.com/item?id=37452868) - [The “Madame B Album” (ca. 1870s)](https://publicdomainreview.org/collection/madame-b-album/)
 * [2023-09-10, 01:57:59](https://news.ycombinator.com/item?id=37452210) - [TextViewBenchmark: A suite of performance tests for macOS text views](https://github.com/ChimeHQ/TextViewBenchmark)
 * [2023-09-09, 12:11:08](https://news.ycombinator.com/item?id=37444411) - [Show HN: Code Indexer Loop](https://github.com/definitive-io/code-indexer-loop)

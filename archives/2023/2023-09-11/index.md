@@ -7,6 +7,7 @@
 * [2023-09-11, 11:06:53](https://news.ycombinator.com/item?id=37465480) - [Cancer cases in young adults rise by 80% globally](https://indianexpress.com/article/lifestyle/health/rising-cancer-under-50s-causes-mystery-8931614/)
 * [2023-09-11, 10:23:04](https://news.ycombinator.com/item?id=37465185) - [Removing Garbage Collection from the Rust Language (2013)](http://pcwalton.github.io/_posts/2013-06-02-removing-garbage-collection-from-the-rust-language.html)
 * [2023-09-11, 10:21:36](https://news.ycombinator.com/item?id=37465176) - [1973 Chilean Coup D'état](https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27%C3%A9tat)
+* [2023-09-11, 10:04:49](https://news.ycombinator.com/item?id=37465052) - [The Top Programming Languages 2023](https://spectrum.ieee.org/the-top-programming-languages-2023)
 * [2023-09-11, 09:50:29](https://news.ycombinator.com/item?id=37464948) - [Everything You Need to Know about the Raspberry Pi 4](https://picockpit.com/raspberry-pi/everything-you-need-to-know-about-the-raspberry-pi-4/)
 * [2023-09-11, 09:45:48](https://news.ycombinator.com/item?id=37464907) - [Personalization in ECommerce: 5 Instant Ways to Boost Customer Engagement](https://golpolikhi.com/personalization-in-ecommerce-5-instant-ways-to-boost-customer-engagement/)
 * [2023-09-11, 08:50:20](https://news.ycombinator.com/item?id=37464574) - [Google Chrome just rolled out a new way to track you and serve ads](https://theconversation.com/google-chrome-just-rolled-out-a-new-way-to-track-you-and-serve-ads-heres-what-you-need-to-know-213150)
