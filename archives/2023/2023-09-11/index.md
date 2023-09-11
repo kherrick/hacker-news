@@ -33,6 +33,7 @@
 * [2023-09-11, 16:45:09](https://news.ycombinator.com/item?id=37469920) - [WiFi can read through walls](https://news.ucsb.edu/2023/021198/wifi-can-read-through-walls)
 * [2023-09-11, 16:41:06](https://news.ycombinator.com/item?id=37469857) - [You Don't Need UUID](https://henvic.dev/posts/uuid/)
 * [2023-09-11, 16:40:24](https://news.ycombinator.com/item?id=37469849) - [The Meeting of the Minds That Launched AI](https://spectrum.ieee.org/dartmouth-ai-workshop)
+* [2023-09-11, 16:38:30](https://news.ycombinator.com/item?id=37469819) - [The History Of The Nic(k) Collins Cup (2010)](http://www.nicolascollins.com/collinscup.htm)
 * [2023-09-11, 16:06:17](https://news.ycombinator.com/item?id=37469321) - [Show HN: Firefox addon to quarantine a tab to use offline with private data](https://news.ycombinator.com/item?id=37469321)
 * [2023-09-11, 16:03:26](https://news.ycombinator.com/item?id=37469281) - [Open source code doesn’t mean community managed](https://twitter.com/softwaredoug/status/1701250134321795349)
 * [2023-09-11, 15:44:40](https://news.ycombinator.com/item?id=37468983) - [US rejects AI copyright for famous state fair-winning Midjourney art](https://arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/)
