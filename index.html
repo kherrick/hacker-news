@@ -129,6 +129,73 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="37469321">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=37469321"
+              >Show HN: Firefox addon to quarantine a tab to use offline with
+              private data</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-09-11 @ 16:06:17</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37469321"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I find myself wanting to use online format parsers to quickly
+                decode that production JWT or decode a base64 Authorization
+                header but cannot trust these websites to not leak my
+                information. I thought to myself if only I could cut-off network
+                access to this site, use it offline, and then throw away all
+                browsing data. So I created an extension just for that.
+              </p>
+              <p>
+                It uses Firefox contextual identities API (Containers) to
+                isolate browsing data and inter-tab communication. Once the site
+                is fully loaded, I then inject bogus proxy settings for any
+                requests leaving that container to effectively cut-off network
+                access. And once I'm done, I simply delete the Container.
+              </p>
+              <p>Use Cases:</p>
+              <p>* Parse a live JWT token</p>
+              <p>* Convert a Base64 Authorization header</p>
+              <p>* Hash a password</p>
+              <p>* Parse a Protobuf message</p>
+              <p>* Submit my name and birthdate to estimate my date of death</p>
+              <p>
+                Check out the MIT source code on GitHub [1] and install
+                QuaranTab from the Firefox store [2]. If anyone is interested in
+                a discussion, I'd love to chat about:
+              </p>
+              <p>
+                1. Any ideas on how we could implement this in Chromium? Using
+                private window as a "Container"?
+              </p>
+              <p>
+                2. Can you come up with an exploit? I posted a 100usd bug bounty
+                [3] if you find one!
+              </p>
+              <p>
+                3. Is there any way to prove an extension in the store was built
+                from source in GitHub? I am imagining some kind of third-party
+                escrow service managing the Firefox store account and building
+                from specific public git repository.
+              </p>
+              <p>1. https://github.com/matusfaro/quarantab</p>
+              <p>
+                2. https://addons.mozilla.org/en-US/firefox/addon/quarantab/
+              </p>
+              <p>3. https://github.com/matusfaro/quarantab#bug-bounty</p>
+            </div>
+          </section>
+        </section>
         <section id="37468983">
           <h3>
             <a
@@ -142,11 +209,11 @@
             <h4>
               <span>2023-09-11 @ 15:44:40</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37468983"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -161,7 +228,7 @@
             <h4>
               <span>2023-09-11 @ 15:19:50</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37468600"
                   >Comments</a
@@ -180,11 +247,11 @@
             <h4>
               <span>2023-09-11 @ 15:15:40</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37468522"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -201,11 +268,11 @@
             <h4>
               <span>2023-09-11 @ 15:04:02</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37468342"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -221,11 +288,11 @@
             <h4>
               <span>2023-09-11 @ 14:44:08</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37468031"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -242,11 +309,11 @@
             <h4>
               <span>2023-09-11 @ 14:19:00</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37467666"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -268,7 +335,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37467607"
                   >Comments</a
-                ><span class="descendants">: 222</span></span
+                ><span class="descendants">: 229</span></span
               >
             </h4>
           </section>
@@ -285,32 +352,11 @@
             <h4>
               <span>2023-09-11 @ 14:13:21</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37467585"
                   >Comments</a
-                ><span class="descendants">: 75</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="37467340">
-          <h3>
-            <a
-              class="item"
-              href="https://www.axios.com/2023/09/11/google-pledge-responsible-ai-fund"
-              >Google pledges $20M for responsible AI fund</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-09-11 @ 13:57:32</span
-              ><span class="points-container"
-                >Points: <span class="points">22</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37467340"
-                  >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
           </section>
@@ -327,11 +373,11 @@
             <h4>
               <span>2023-09-11 @ 12:51:53</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37466475"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -346,7 +392,7 @@
             <h4>
               <span>2023-09-11 @ 12:35:54</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37466302"
                   >Comments</a
@@ -386,11 +432,11 @@
             <h4>
               <span>2023-09-11 @ 12:23:28</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37466182"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -407,11 +453,11 @@
             <h4>
               <span>2023-09-11 @ 12:06:28</span
               ><span class="points-container"
-                >Points: <span class="points">176</span></span
+                >Points: <span class="points">181</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37466027"
                   >Comments</a
-                ><span class="descendants">: 78</span></span
+                ><span class="descendants">: 79</span></span
               >
             </h4>
           </section>
@@ -429,11 +475,11 @@
             <h4>
               <span>2023-09-11 @ 12:02:08</span
               ><span class="points-container"
-                >Points: <span class="points">141</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37465972"
                   >Comments</a
-                ><span class="descendants">: 93</span></span
+                ><span class="descendants">: 95</span></span
               >
             </h4>
           </section>
@@ -448,11 +494,11 @@
             <h4>
               <span>2023-09-11 @ 11:24:28</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37465636"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -473,7 +519,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37465185"
                   >Comments</a
-                ><span class="descendants">: 142</span></span
+                ><span class="descendants">: 143</span></span
               >
             </h4>
           </section>
@@ -491,11 +537,11 @@
             <h4>
               <span>2023-09-11 @ 10:08:50</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37465086"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -512,7 +558,7 @@
             <h4>
               <span>2023-09-11 @ 08:27:31</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37464437"
                   >Comments</a
@@ -660,7 +706,7 @@
             <h4>
               <span>2023-09-11 @ 06:33:15</span
               ><span class="points-container"
-                >Points: <span class="points">302</span></span
+                >Points: <span class="points">306</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37463662"
                   >Comments</a
@@ -682,11 +728,11 @@
             <h4>
               <span>2023-09-11 @ 04:38:28</span
               ><span class="points-container"
-                >Points: <span class="points">219</span></span
+                >Points: <span class="points">220</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37462947"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
           </section>
@@ -707,7 +753,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37462806"
                   >Comments</a
-                ><span class="descendants">: 93</span></span
+                ><span class="descendants">: 97</span></span
               >
             </h4>
           </section>
@@ -725,11 +771,11 @@
             <h4>
               <span>2023-09-11 @ 03:00:24</span
               ><span class="points-container"
-                >Points: <span class="points">206</span></span
+                >Points: <span class="points">208</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37462351"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
           </section>
@@ -747,11 +793,11 @@
             <h4>
               <span>2023-09-11 @ 02:38:25</span
               ><span class="points-container"
-                >Points: <span class="points">129</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37462208"
                   >Comments</a
-                ><span class="descendants">: 153</span></span
+                ><span class="descendants">: 162</span></span
               >
             </h4>
           </section>
@@ -767,7 +813,7 @@
             <h4>
               <span>2023-09-10 @ 16:31:04</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37457426"
                   >Comments</a
@@ -786,11 +832,11 @@
             <h4>
               <span>2023-09-10 @ 08:52:14</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37454098"
                   >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -807,11 +853,11 @@
             <h4>
               <span>2023-09-09 @ 21:35:27</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">26</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37450524"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -828,11 +874,11 @@
             <h4>
               <span>2023-09-09 @ 18:11:38</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37448381"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -849,7 +895,7 @@
             <h4>
               <span>2023-09-09 @ 12:42:31</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37444683"
                   >Comments</a
