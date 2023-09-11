@@ -5,9 +5,12 @@
 ### [Archives](../../index.md) for [2023-09-11](index.md)
 
 * [2023-09-11, 03:57:50](https://news.ycombinator.com/item?id=37462694) - [Upcoming LK-99 paper will reportedly verify the superconductor](https://technology.inquirer.net/127825/lk-99-paper)
+* [2023-09-11, 03:34:14](https://news.ycombinator.com/item?id=37462564) - [A Student-Debt Bubble Fueled a Housing Bubble](https://www.wsj.com/articles/the-student-debt-bubble-fueled-a-housing-bubble-debt-income-obama-fannie-freddie-bd29b05c)
 * [2023-09-11, 03:29:32](https://news.ycombinator.com/item?id=37462541) - [Silicon Valley's quest to live forever now includes $2,500 full-body MRIs](https://www.washingtonpost.com/technology/2023/09/10/full-body-mri-cancer-prenuvo/)
 * [2023-09-11, 03:06:14](https://news.ycombinator.com/item?id=37462405) - [Localhost Will Inevitably Die](https://ergomake.dev/blog/death-of-localhost/)
+* [2023-09-11, 03:00:24](https://news.ycombinator.com/item?id=37462351) - [Japan launches rocket carrying lunar lander and X-ray telescope](https://phys.org/news/2023-09-japan-rocket-lunar-lander-x-ray.html)
 * [2023-09-11, 02:53:09](https://news.ycombinator.com/item?id=37462315) - [Pure WASM Life 2: Optimizing WebAssembly and Canvas](https://ashen.earth/wasm-game-of-life-2)
+* [2023-09-11, 02:38:25](https://news.ycombinator.com/item?id=37462208) - [Chronic fatigue syndrome may have a post-viral infection origin](https://medicalxpress.com/news/2023-09-chronic-fatigue-syndrome-post-viral-infection.html)
 * [2023-09-11, 02:22:45](https://news.ycombinator.com/item?id=37462125) - [RestGPT](https://github.com/Yifan-Song793/RestGPT)
 * [2023-09-11, 01:26:39](https://news.ycombinator.com/item?id=37461782) - [The old have come to dominate American politics](https://www.economist.com/graphic-detail/2023/09/08/the-old-have-come-to-dominate-american-politics)
 * [2023-09-11, 00:33:17](https://news.ycombinator.com/item?id=37461489) - [A more dynamic software I/O TLB](https://lwn.net/Articles/940973/)
