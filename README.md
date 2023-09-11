@@ -4,6 +4,7 @@
 * [2023-09-11, 15:19:50](https://news.ycombinator.com/item?id=37468600) - [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)
 * [2023-09-11, 15:15:40](https://news.ycombinator.com/item?id=37468522) - [MAC Address Vendor Lookup](https://maclookup.app/home2)
 * [2023-09-11, 15:04:02](https://news.ycombinator.com/item?id=37468342) - [Webb Discovers Methane, Carbon Dioxide in Atmosphere of K2-18B](https://www.nasa.gov/goddard/2023/webb-discovers-methane-carbon-dioxide-in-atmosphere-of-k2-18b/)
+* [2023-09-11, 14:19:00](https://news.ycombinator.com/item?id=37467666) - [Domain Registrars Which Developers Recommend](https://blog.pragmaticengineer.com/domain-registrars-which-developers-recommend/)
 * [2023-09-11, 14:15:04](https://news.ycombinator.com/item?id=37467607) - [X sues Calif. to avoid revealing how it makes “controversial” content decisions](https://arstechnica.com/tech-policy/2023/09/x-sues-calif-to-avoid-revealing-how-it-makes-controversial-content-decisions/)
 * [2023-09-11, 14:13:21](https://news.ycombinator.com/item?id=37467585) - [Nvidia’s AI supremacy is only temporary](https://petewarden.com/2023/09/10/why-nvidias-ai-supremacy-is-only-temporary/)
 * [2023-09-11, 13:57:32](https://news.ycombinator.com/item?id=37467340) - [Google pledges $20M for responsible AI fund](https://www.axios.com/2023/09/11/google-pledge-responsible-ai-fund)
@@ -28,7 +29,6 @@
 * [2023-09-11, 02:38:25](https://news.ycombinator.com/item?id=37462208) - [Chronic fatigue syndrome may have a post-viral infection origin](https://medicalxpress.com/news/2023-09-chronic-fatigue-syndrome-post-viral-infection.html)
 * [2023-09-10, 16:31:04](https://news.ycombinator.com/item?id=37457426) - [CityDreamer: Compositional Generative Model of Unbounded 3D Cities](https://arxiv.org/abs/2309.00610)
 * [2023-09-10, 08:52:14](https://news.ycombinator.com/item?id=37454098) - [Ray and Tom Magliozzi, MIT 1999 Commencement Address [video]](https://www.youtube.com/watch?v=KWG1Yxoa_Os)
-* [2023-09-10, 04:18:36](https://news.ycombinator.com/item?id=37452868) - [The “Madame B Album” (ca. 1870s)](https://publicdomainreview.org/collection/madame-b-album/)
 * [2023-09-09, 21:35:27](https://news.ycombinator.com/item?id=37450524) - [My Mental Model of Transducers](https://blog.danieljanus.pl/2023/09/09/transducers/)
 
 ## [Archives](archives/index.md)
