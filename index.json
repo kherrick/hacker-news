@@ -11,12 +11,22 @@
   ],
   [
     [
-      "2023-09-11, 20:13:43",
-      "https://news.ycombinator.com/item?id=37472994"
+      "2023-09-11, 21:37:28",
+      "https://news.ycombinator.com/item?id=37474066"
     ],
     [
-      "uBlock-Origin – 1.52.0",
-      "https://github.com/gorhill/uBlock/releases/tag/1.52.0"
+      "YouTube-dl fork with additional features and fixes",
+      "https://github.com/yt-dlp/yt-dlp"
+    ]
+  ],
+  [
+    [
+      "2023-09-11, 21:00:20",
+      "https://news.ycombinator.com/item?id=37473628"
+    ],
+    [
+      "Microsoft to kill off third-party printer drivers in Windows",
+      "https://www.theregister.com/2023/09/11/go_native_or_go_home/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "A LLM+OLAP Solution",
       "https://doris.apache.org/zh-CN/blog/Tencent-LLM/"
-    ]
-  ],
-  [
-    [
-      "2023-09-11, 12:08:45",
-      "https://news.ycombinator.com/item?id=37466045"
-    ],
-    [
-      "Show HN: Loopy – share and find and music you love",
-      "https://www.loopy.fm/"
     ]
   ],
   [
