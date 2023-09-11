@@ -6,7 +6,7 @@
 * [2023-09-11, 17:48:14](https://news.ycombinator.com/item?id=37470863) - [Germany Will Force 80% of Gas Stations to Install EV Charging, Too](https://www.thedrive.com/news/germany-will-force-80-percent-of-gas-stations-to-install-ev-charging)
 * [2023-09-11, 17:12:56](https://news.ycombinator.com/item?id=37470318) - [Ask HN: Why did Visual Basic die?](https://news.ycombinator.com/item?id=37470318)
 * [2023-09-11, 17:10:06](https://news.ycombinator.com/item?id=37470285) - [Calculate the difference and intersection of any two regexes](http://phylactery.org/antimirov/)
-* [2023-09-11, 17:08:23](https://news.ycombinator.com/item?id=37470259) - [GitHub Discussion about the recent feed changes becomes 3rd most upvoted ever](https://news.ycombinator.com/item?id=37470259)
+* [2023-09-11, 17:01:03](https://news.ycombinator.com/item?id=37470158) - [DEA Filing Defends Firing ‘Outstanding’ Special Agent for Using CBD](https://www.documentcloud.org/documents/23945248-dea-employment-lawsuit-cbd)
 * [2023-09-11, 16:59:15](https://news.ycombinator.com/item?id=37470132) - [A Multi-Level View of LLM Intentionality](http://disagreeableme.blogspot.com/2023/05/a-multi-level-view-of-llm-intentionality.html)
 * [2023-09-11, 16:45:09](https://news.ycombinator.com/item?id=37469920) - [WiFi can read through walls](https://news.ucsb.edu/2023/021198/wifi-can-read-through-walls)
 * [2023-09-11, 16:40:24](https://news.ycombinator.com/item?id=37469849) - [The Meeting of the Minds That Launched AI](https://spectrum.ieee.org/dartmouth-ai-workshop)
