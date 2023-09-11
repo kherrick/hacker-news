@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2023-09-10, 16:46:23",
-      "https://news.ycombinator.com/item?id=37457609"
-    ],
-    [
-      "Show HN: Erlmacs – a script to update your .emacs file for Erlang development",
-      "https://github.com/dlachausse/erlmacs"
-    ]
-  ],
-  [
-    [
       "2023-09-10, 16:31:04",
       "https://news.ycombinator.com/item?id=37457426"
     ],
@@ -217,6 +207,16 @@
     [
       "Peredvizhnikov Engine: Lock-free game engine written in C++20",
       "https://github.com/eduard-permyakov/peredvizhnikov-engine"
+    ]
+  ],
+  [
+    [
+      "2023-09-10, 13:28:25",
+      "https://news.ycombinator.com/item?id=37455621"
+    ],
+    [
+      "How does Linux NAT a ping?",
+      "https://devnonsense.com/posts/how-does-linux-nat-a-ping/"
     ]
   ],
   [
