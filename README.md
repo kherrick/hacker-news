@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-11, 19:30:57](https://news.ycombinator.com/item?id=37472506) - [Why we Burnout, the “Two Health Bar” Theory](https://jdwyah.substack.com/p/the-two-healthbar-theory-of-burnout)
+* [2023-09-11, 18:32:33](https://news.ycombinator.com/item?id=37471536) - [Starfield Review](https://xander.ai/starfield-review)
 * [2023-09-11, 18:25:02](https://news.ycombinator.com/item?id=37471417) - [Roll your own QEMU for fun](https://niccs.cisa.gov/education-training/catalog/opensecuritytraininginfo/advanced-x86-virtualization-intel-vt-x)
 * [2023-09-11, 18:20:58](https://news.ycombinator.com/item?id=37471354) - [Blood pressure should be measured lying down: study](https://newsroom.heart.org/news/high-blood-pressure-while-lying-down-linked-to-higher-risk-of-heart-health-complications)
 * [2023-09-11, 18:18:37](https://news.ycombinator.com/item?id=37471321) - [Mac ROM-Inator II Restock and Partnerships](https://www.bigmessowires.com/2023/09/09/mac-rom-inator-ii-restock-and-partnerships/)
@@ -22,14 +24,12 @@
 * [2023-09-11, 11:24:28](https://news.ycombinator.com/item?id=37465636) - [Connecting two dial-up modems using a VoIP ATA](https://gekk.info/articles/ata-config.html)
 * [2023-09-11, 10:08:50](https://news.ycombinator.com/item?id=37465086) - [The SHA256 for this sentence begins with: one, eight, two, a, seven, c and nine.](https://twitter.com/lauriewired/status/1700982575291142594)
 * [2023-09-11, 07:01:04](https://news.ycombinator.com/item?id=37463864) - [Meticulous (YC S21) is hiring engineer #3 to build AI for testing](https://news.ycombinator.com/item?id=37463864)
-* [2023-09-11, 04:38:28](https://news.ycombinator.com/item?id=37462947) - [HDMI ISA graphics card for vintage PCs by improving the Graphics Gremlin](https://yeokhengmeng.com/2023/09/hdmi-isa-graphics-card-for-vintage-pcs/)
 * [2023-09-11, 01:08:16](https://news.ycombinator.com/item?id=37461695) - [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)
 * [2023-09-11, 00:58:51](https://news.ycombinator.com/item?id=37461632) - [Non-Standard Errors [pdf]](https://statmodeling.stat.columbia.edu/wp-content/uploads/2022/12/HonestHypothesisTestingNonStandardErrors.pdf)
 * [2023-09-10, 08:52:14](https://news.ycombinator.com/item?id=37454098) - [Ray and Tom Magliozzi, MIT 1999 Commencement Address [video]](https://www.youtube.com/watch?v=KWG1Yxoa_Os)
 * [2023-09-10, 06:58:55](https://news.ycombinator.com/item?id=37453536) - [IBM's World of Numbers (1958)](https://www.computerhistory.org/collections/catalog/102707549)
 * [2023-09-10, 02:22:44](https://news.ycombinator.com/item?id=37452322) - [Flake8-Logging](https://adamj.eu/tech/2023/09/07/introducing-flake8-logging/)
 * [2023-09-09, 12:42:31](https://news.ycombinator.com/item?id=37444683) - [Show HN: Ghidra Plays Mario](https://github.com/nevesnunes/ghidra-plays-mario)
-* [2023-09-08, 21:35:46](https://news.ycombinator.com/item?id=37439732) - [The Carrington Event of 1859 disrupted telegraph lines](https://daily.jstor.org/the-carrington-event-of-1859-disrupted-telegraph-lines/)
 
 ## [Archives](archives/index.md)
 
