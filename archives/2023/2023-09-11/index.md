@@ -7,6 +7,7 @@
 * [2023-09-11, 07:01:04](https://news.ycombinator.com/item?id=37463864) - [Meticulous (YC S21) Is Hiring #3 engineer to build AI for testing](https://news.ycombinator.com/item?id=37463864)
 * [2023-09-11, 06:35:09](https://news.ycombinator.com/item?id=37463676) - [Gen Z is giving up on college](https://www.businessinsider.nl/gen-z-is-giving-up-on-college/)
 * [2023-09-11, 06:33:15](https://news.ycombinator.com/item?id=37463662) - [A group of open source Android apps without ads and unnecessary permissions](https://www.simplemobiletools.com)
+* [2023-09-11, 05:40:36](https://news.ycombinator.com/item?id=37463310) - [GitHub education pack requesting real name on public profile](https://github.com/orgs/community/discussions/57851)
 * [2023-09-11, 04:38:28](https://news.ycombinator.com/item?id=37462947) - [HDMI ISA graphics card for vintage PCs by improving the Graphics Gremlin](https://yeokhengmeng.com/2023/09/hdmi-isa-graphics-card-for-vintage-pcs/)
 * [2023-09-11, 04:14:53](https://news.ycombinator.com/item?id=37462806) - [How could the early Unix OS comprise so few lines of code?](https://retrocomputing.stackexchange.com/questions/26083/how-could-early-unix-os-comprise-so-few-lines-of-code)
 * [2023-09-11, 03:57:50](https://news.ycombinator.com/item?id=37462694) - [Upcoming LK-99 paper will reportedly verify the superconductor](https://technology.inquirer.net/127825/lk-99-paper)
