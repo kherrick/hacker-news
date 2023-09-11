@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-11, 21:50:15](https://news.ycombinator.com/item?id=37474189) - [Onboarding Floating-Point](https://www.altdevarts.com/p/onboarding-floating-point)
-* [2023-09-11, 20:13:43](https://news.ycombinator.com/item?id=37472994) - [uBlock-Origin – 1.52.0](https://github.com/gorhill/uBlock/releases/tag/1.52.0)
+* [2023-09-11, 21:37:28](https://news.ycombinator.com/item?id=37474066) - [YouTube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)
+* [2023-09-11, 21:00:20](https://news.ycombinator.com/item?id=37473628) - [Microsoft to kill off third-party printer drivers in Windows](https://www.theregister.com/2023/09/11/go_native_or_go_home/)
 * [2023-09-11, 18:25:02](https://news.ycombinator.com/item?id=37471417) - [Advanced x86: Virtualization with  Intel VT-x](https://opensecuritytraining.info/AdvancedX86-VTX.html)
 * [2023-09-11, 18:20:58](https://news.ycombinator.com/item?id=37471354) - [Blood pressure should be measured lying down: study](https://newsroom.heart.org/news/high-blood-pressure-while-lying-down-linked-to-higher-risk-of-heart-health-complications)
 * [2023-09-11, 18:18:37](https://news.ycombinator.com/item?id=37471321) - [Mac ROM-Inator II Restock and Partnerships](https://www.bigmessowires.com/2023/09/09/mac-rom-inator-ii-restock-and-partnerships/)
@@ -19,7 +20,6 @@
 * [2023-09-11, 12:35:54](https://news.ycombinator.com/item?id=37466302) - [Intuitively Understanding Harris Corner Detector](https://comsci.blog/posts/intuitive-harris)
 * [2023-09-11, 12:26:14](https://news.ycombinator.com/item?id=37466207) - [Beyond OpenAPI](https://antonz.org/interactive-api-tutorials/)
 * [2023-09-11, 12:23:28](https://news.ycombinator.com/item?id=37466182) - [A LLM+OLAP Solution](https://doris.apache.org/zh-CN/blog/Tencent-LLM/)
-* [2023-09-11, 12:08:45](https://news.ycombinator.com/item?id=37466045) - [Show HN: Loopy – share and find and music you love](https://www.loopy.fm/)
 * [2023-09-11, 12:06:28](https://news.ycombinator.com/item?id=37466027) - [The Project Gutenberg Open Audiobook Collection](https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html)
 * [2023-09-11, 11:24:28](https://news.ycombinator.com/item?id=37465636) - [Connecting two dial-up modems using a VoIP ATA](https://gekk.info/articles/ata-config.html)
 * [2023-09-11, 10:58:37](https://news.ycombinator.com/item?id=37465427) - [A systematic approach to debugging](https://ntietz.com/blog/how-i-debug-2023/)

@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-09-11](index.md)
 
 * [2023-09-11, 21:50:15](https://news.ycombinator.com/item?id=37474189) - [Onboarding Floating-Point](https://www.altdevarts.com/p/onboarding-floating-point)
+* [2023-09-11, 21:37:28](https://news.ycombinator.com/item?id=37474066) - [YouTube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)
+* [2023-09-11, 21:00:20](https://news.ycombinator.com/item?id=37473628) - [Microsoft to kill off third-party printer drivers in Windows](https://www.theregister.com/2023/09/11/go_native_or_go_home/)
 * [2023-09-11, 20:49:18](https://news.ycombinator.com/item?id=37473501) - [Let’s put a stake in the ‘great man’ biography – starting with Isaacson’s ‘Musk’](https://www.latimes.com/entertainment-arts/books/story/2023-09-11/lets-put-a-stake-in-the-great-man-biography-starting-with-isaacsons-elon-musk)
 * [2023-09-11, 20:43:58](https://news.ycombinator.com/item?id=37473446) - [Barstool Built an Empire by Swiping Sports Highlights](https://www.thedailybeast.com/how-dave-portnoys-barstool-built-an-empire-by-swiping-sports-highlights)
 * [2023-09-11, 20:13:43](https://news.ycombinator.com/item?id=37472994) - [uBlock-Origin – 1.52.0](https://github.com/gorhill/uBlock/releases/tag/1.52.0)
