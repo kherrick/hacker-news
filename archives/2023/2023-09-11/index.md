@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-11](index.md)
 
 * [2023-09-11, 20:13:43](https://news.ycombinator.com/item?id=37472994) - [uBlock-Origin – 1.52.0](https://github.com/gorhill/uBlock/releases/tag/1.52.0)
+* [2023-09-11, 20:12:57](https://news.ycombinator.com/item?id=37472984) - [The IKEA-powered homelab on a wall](https://ounapuu.ee/posts/2023/09/07/ikea-powered-homelab/)
 * [2023-09-11, 20:03:06](https://news.ycombinator.com/item?id=37472857) - [Ask HN: What web frameworks do you use?](https://news.ycombinator.com/item?id=37472857)
 * [2023-09-11, 19:30:57](https://news.ycombinator.com/item?id=37472506) - [Why we Burnout, the “Two Health Bar” Theory](https://jdwyah.substack.com/p/the-two-healthbar-theory-of-burnout)
 * [2023-09-11, 19:19:52](https://news.ycombinator.com/item?id=37472346) - [Roblox Event Canceled After Developer Allegedly Shows Up with High Capacity Mag](https://www.404media.co/roblox-event-canceled-after-developer-shows-up-with-high-capacity-magazine/)
