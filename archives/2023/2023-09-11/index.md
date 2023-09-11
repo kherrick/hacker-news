@@ -60,6 +60,7 @@
 * [2023-09-11, 11:24:28](https://news.ycombinator.com/item?id=37465636) - [Connecting two dial-up modems using a VoIP ATA](https://gekk.info/articles/ata-config.html)
 * [2023-09-11, 11:14:34](https://news.ycombinator.com/item?id=37465533) - [Show HN: Free High-quality TailwindCSS Components. No attribution required](https://tailspark.co/)
 * [2023-09-11, 11:06:53](https://news.ycombinator.com/item?id=37465480) - [Cancer cases in young adults rise by 80% globally](https://indianexpress.com/article/lifestyle/health/rising-cancer-under-50s-causes-mystery-8931614/)
+* [2023-09-11, 10:58:37](https://news.ycombinator.com/item?id=37465427) - [A systematic approach to debugging](https://ntietz.com/blog/how-i-debug-2023/)
 * [2023-09-11, 10:23:04](https://news.ycombinator.com/item?id=37465185) - [Removing Garbage Collection from the Rust Language (2013)](http://pcwalton.github.io/_posts/2013-06-02-removing-garbage-collection-from-the-rust-language.html)
 * [2023-09-11, 10:21:36](https://news.ycombinator.com/item?id=37465176) - [1973 Chilean Coup D'état](https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27%C3%A9tat)
 * [2023-09-11, 10:08:50](https://news.ycombinator.com/item?id=37465086) - [The SHA256 for this sentence begins with: one, eight, two, a, seven, c and nine.](https://twitter.com/lauriewired/status/1700982575291142594)
