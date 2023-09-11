@@ -8,6 +8,7 @@
 * [2023-09-11, 18:05:53](https://news.ycombinator.com/item?id=37471118) - [Justice Department Sues Google for Monopolizing Digital Advertising Technologies](https://www.justice.gov/opa/pr/justice-department-sues-google-monopolizing-digital-advertising-technologies)
 * [2023-09-11, 18:00:59](https://news.ycombinator.com/item?id=37471048) - [In Germany, 27 are in 'preventive detention' b/c they might do climate protests](https://mastodon.energy/@Sustainable2050/111039159882536261)
 * [2023-09-11, 17:48:14](https://news.ycombinator.com/item?id=37470863) - [Germany Will Force 80% of Gas Stations to Install EV Charging, Too](https://www.thedrive.com/news/germany-will-force-80-percent-of-gas-stations-to-install-ev-charging)
+* [2023-09-11, 17:44:17](https://news.ycombinator.com/item?id=37470801) - [MGM is down, cybersecurity attack ongoing](https://www.casino.org/news/mgm-resorts-suffers-cybersecurity-attack-system-outage-reported/)
 * [2023-09-11, 17:12:56](https://news.ycombinator.com/item?id=37470318) - [Ask HN: Why did Visual Basic die?](https://news.ycombinator.com/item?id=37470318)
 * [2023-09-11, 17:10:06](https://news.ycombinator.com/item?id=37470285) - [Calculate the difference and intersection of any two regexes](http://phylactery.org/antimirov/)
 * [2023-09-11, 17:08:23](https://news.ycombinator.com/item?id=37470259) - [GitHub Discussion about the recent feed changes becomes 3rd most upvoted ever](https://news.ycombinator.com/item?id=37470259)
