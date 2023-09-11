@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-11](index.md)
 
+* [2023-09-11, 08:50:20](https://news.ycombinator.com/item?id=37464574) - [Google Chrome just rolled out a new way to track you and serve ads](https://theconversation.com/google-chrome-just-rolled-out-a-new-way-to-track-you-and-serve-ads-heres-what-you-need-to-know-213150)
 * [2023-09-11, 08:36:05](https://news.ycombinator.com/item?id=37464482) - [Meta deletes Al Jazeera presenter’s profile after show criticising Israel](https://www.aljazeera.com/news/2023/9/10/meta-deletes-al-jazeera-presenters-profile-after-show-criticising-israel)
 * [2023-09-11, 07:01:04](https://news.ycombinator.com/item?id=37463864) - [Meticulous (YC S21) Is Hiring #3 engineer to build AI for testing](https://news.ycombinator.com/item?id=37463864)
 * [2023-09-11, 06:35:09](https://news.ycombinator.com/item?id=37463676) - [Gen Z is giving up on college](https://www.businessinsider.nl/gen-z-is-giving-up-on-college/)

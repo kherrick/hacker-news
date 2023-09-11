@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-11, 08:50:20](https://news.ycombinator.com/item?id=37464574) - [Google Chrome just rolled out a new way to track you and serve ads](https://theconversation.com/google-chrome-just-rolled-out-a-new-way-to-track-you-and-serve-ads-heres-what-you-need-to-know-213150)
 * [2023-09-11, 08:36:05](https://news.ycombinator.com/item?id=37464482) - [Meta deletes Al Jazeera presenter’s profile after show criticising Israel](https://www.aljazeera.com/news/2023/9/10/meta-deletes-al-jazeera-presenters-profile-after-show-criticising-israel)
 * [2023-09-11, 07:01:04](https://news.ycombinator.com/item?id=37463864) - [Meticulous (YC S21) Is Hiring #3 engineer to build AI for testing](https://news.ycombinator.com/item?id=37463864)
 * [2023-09-11, 06:33:15](https://news.ycombinator.com/item?id=37463662) - [A group of open source Android apps without ads and unnecessary permissions](https://www.simplemobiletools.com)
@@ -25,7 +26,6 @@
 * [2023-09-10, 04:18:36](https://news.ycombinator.com/item?id=37452868) - [The “Madame B Album” (ca. 1870s)](https://publicdomainreview.org/collection/madame-b-album/)
 * [2023-09-10, 01:57:59](https://news.ycombinator.com/item?id=37452210) - [TextViewBenchmark: A suite of performance tests for macOS text views](https://github.com/ChimeHQ/TextViewBenchmark)
 * [2023-09-09, 16:29:02](https://news.ycombinator.com/item?id=37447163) - [Effectiveness of wearable activity trackers to increase physical activity](https://www.thelancet.com/journals/landig/article/PIIS2589-75002200111-X/fulltext)
-* [2023-09-09, 12:11:08](https://news.ycombinator.com/item?id=37444411) - [Show HN: Code Indexer Loop](https://github.com/definitive-io/code-indexer-loop)
 * [2023-09-09, 11:17:36](https://news.ycombinator.com/item?id=37444095) - [Ham Imports](https://hamimports.com/)
 * [2023-09-08, 21:35:46](https://news.ycombinator.com/item?id=37439732) - [The Carrington Event of 1859 and the Potential for a “Miyake Event”](https://daily.jstor.org/the-carrington-event-of-1859-disrupted-telegraph-lines/)
 * [2023-09-07, 22:39:18](https://news.ycombinator.com/item?id=37426601) - [The computational power of the human brain](https://www.frontiersin.org/articles/10.3389/fncel.2023.1220030/full)
