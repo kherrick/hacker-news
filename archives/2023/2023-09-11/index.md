@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-11](index.md)
 
+* [2023-09-11, 16:06:17](https://news.ycombinator.com/item?id=37469321) - [Show HN: Firefox addon to quarantine a tab to use offline with private data](https://news.ycombinator.com/item?id=37469321)
 * [2023-09-11, 15:44:40](https://news.ycombinator.com/item?id=37468983) - [US rejects AI copyright for famous state fair-winning Midjourney art](https://arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/)
 * [2023-09-11, 15:30:05](https://news.ycombinator.com/item?id=37468762) - [Intercom is a terrible Mailchimp. So is Mailchimp](https://github.com/stickfigure/blog/wiki/Intercom-is-a-terrible-Mailchimp.-So-is-Mailchimp.)
 * [2023-09-11, 15:19:50](https://news.ycombinator.com/item?id=37468600) - [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)

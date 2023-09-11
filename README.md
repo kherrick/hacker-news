@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-11, 16:06:17](https://news.ycombinator.com/item?id=37469321) - [Show HN: Firefox addon to quarantine a tab to use offline with private data](https://news.ycombinator.com/item?id=37469321)
 * [2023-09-11, 15:44:40](https://news.ycombinator.com/item?id=37468983) - [US rejects AI copyright for famous state fair-winning Midjourney art](https://arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/)
 * [2023-09-11, 15:19:50](https://news.ycombinator.com/item?id=37468600) - [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)
 * [2023-09-11, 15:15:40](https://news.ycombinator.com/item?id=37468522) - [MAC Address Vendor Lookup](https://maclookup.app/home2)
@@ -8,7 +9,6 @@
 * [2023-09-11, 14:19:00](https://news.ycombinator.com/item?id=37467666) - [Domain Registrars Which Developers Recommend](https://blog.pragmaticengineer.com/domain-registrars-which-developers-recommend/)
 * [2023-09-11, 14:15:04](https://news.ycombinator.com/item?id=37467607) - [X sues Calif. to avoid revealing how it makes “controversial” content decisions](https://arstechnica.com/tech-policy/2023/09/x-sues-calif-to-avoid-revealing-how-it-makes-controversial-content-decisions/)
 * [2023-09-11, 14:13:21](https://news.ycombinator.com/item?id=37467585) - [Nvidia’s AI supremacy is only temporary](https://petewarden.com/2023/09/10/why-nvidias-ai-supremacy-is-only-temporary/)
-* [2023-09-11, 13:57:32](https://news.ycombinator.com/item?id=37467340) - [Google pledges $20M for responsible AI fund](https://www.axios.com/2023/09/11/google-pledge-responsible-ai-fund)
 * [2023-09-11, 12:51:53](https://news.ycombinator.com/item?id=37466475) - [Unix Domain Sockets vs Loopback TCP Sockets (2014)](https://nicisdigital.wordpress.com/2014/03/03/unix-domain-sockets-vs-loopback-tcp-sockets/)
 * [2023-09-11, 12:35:54](https://news.ycombinator.com/item?id=37466302) - [Intuitively Understanding Harris Corner Detector](https://comsci.blog/posts/intuitive-harris)
 * [2023-09-11, 12:26:14](https://news.ycombinator.com/item?id=37466207) - [Beyond OpenAPI](https://antonz.org/interactive-api-tutorials/)
