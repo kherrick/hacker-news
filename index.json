@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-11, 14:00:00",
+      "https://news.ycombinator.com/item?id=37467382"
+    ],
+    [
+      "X updates its terms to ban crawling and scraping",
+      "https://techcrunch.com/2023/09/08/x-updates-its-terms-to-ban-crawling-and-scraping/"
+    ]
+  ],
+  [
+    [
       "2023-09-11, 13:38:05",
       "https://news.ycombinator.com/item?id=37467077"
     ],
@@ -25,8 +35,18 @@
       "https://news.ycombinator.com/item?id=37466302"
     ],
     [
-      "Intuituvely Understanding Harris Corner Detector",
+      "Intuitively Understanding Harris Corner Detector",
       "https://comsci.blog/posts/intuitive-harris"
+    ]
+  ],
+  [
+    [
+      "2023-09-11, 12:26:23",
+      "https://news.ycombinator.com/item?id=37466208"
+    ],
+    [
+      "Graphics card generation is over and it was mostly trash",
+      "https://www.techradar.com/computing/gpu/this-graphics-card-generation-is-over-and-it-was-mostly-trash"
     ]
   ],
   [
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=37465874"
     ],
     [
-      "You Need to Know What You Are Betting On",
+      "You need to know what you are betting on",
       "https://every.to/napkin-math/you-need-to-know-what-you-are-betting-on"
     ]
   ],
@@ -127,16 +147,6 @@
     [
       "30 years of The X-Files",
       "https://arstechnica.com/culture/2023/09/the-truth-is-out-there-celebrate-30-years-of-the-x-files-with-our-30-favorite-episodes/"
-    ]
-  ],
-  [
-    [
-      "2023-09-11, 08:50:20",
-      "https://news.ycombinator.com/item?id=37464574"
-    ],
-    [
-      "Google Chrome just rolled out a new way to track you and serve ads",
-      "https://theconversation.com/google-chrome-just-rolled-out-a-new-way-to-track-you-and-serve-ads-heres-what-you-need-to-know-213150"
     ]
   ],
   [
@@ -201,6 +211,16 @@
   ],
   [
     [
+      "2023-09-11, 02:38:25",
+      "https://news.ycombinator.com/item?id=37462208"
+    ],
+    [
+      "Chronic fatigue syndrome may have a post-viral infection origin",
+      "https://medicalxpress.com/news/2023-09-chronic-fatigue-syndrome-post-viral-infection.html"
+    ]
+  ],
+  [
+    [
       "2023-09-11, 02:22:45",
       "https://news.ycombinator.com/item?id=37462125"
     ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2023-09-10, 20:07:12",
-      "https://news.ycombinator.com/item?id=37459495"
-    ],
-    [
-      "Knightmare: A DevOps Cautionary Tale (2014)",
-      "https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/"
-    ]
-  ],
-  [
-    [
       "2023-09-10, 16:31:04",
       "https://news.ycombinator.com/item?id=37457426"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2023-09-10, 01:57:59",
-      "https://news.ycombinator.com/item?id=37452210"
+      "2023-09-08, 21:35:46",
+      "https://news.ycombinator.com/item?id=37439732"
     ],
     [
-      "TextViewBenchmark: A suite of performance tests for macOS text views",
-      "https://github.com/ChimeHQ/TextViewBenchmark"
-    ]
-  ],
-  [
-    [
-      "2023-09-09, 11:17:36",
-      "https://news.ycombinator.com/item?id=37444095"
-    ],
-    [
-      "Ham Imports",
-      "https://hamimports.com/"
+      "The Carrington Event of 1859 and the Potential for a “Miyake Event”",
+      "https://daily.jstor.org/the-carrington-event-of-1859-disrupted-telegraph-lines/"
     ]
   ]
 ]
