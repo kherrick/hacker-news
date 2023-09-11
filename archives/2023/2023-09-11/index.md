@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-11](index.md)
 
+* [2023-09-11, 14:19:00](https://news.ycombinator.com/item?id=37467666) - [Domain Registrars Which Developers Recommend](https://blog.pragmaticengineer.com/domain-registrars-which-developers-recommend/)
 * [2023-09-11, 14:15:04](https://news.ycombinator.com/item?id=37467607) - [X sues Calif. to avoid revealing how it makes “controversial” content decisions](https://arstechnica.com/tech-policy/2023/09/x-sues-calif-to-avoid-revealing-how-it-makes-controversial-content-decisions/)
 * [2023-09-11, 14:13:21](https://news.ycombinator.com/item?id=37467585) - [Nvidia’s AI supremacy is only temporary](https://petewarden.com/2023/09/10/why-nvidias-ai-supremacy-is-only-temporary/)
 * [2023-09-11, 14:10:46](https://news.ycombinator.com/item?id=37467538) - [Big Tobacco’s Legacy: Pushing Hyperpalatable Foods in America](https://neurosciencenews.com/hyperpalatable-foods-big-tobacco-23906/)
@@ -26,6 +27,7 @@
 * [2023-09-11, 11:06:53](https://news.ycombinator.com/item?id=37465480) - [Cancer cases in young adults rise by 80% globally](https://indianexpress.com/article/lifestyle/health/rising-cancer-under-50s-causes-mystery-8931614/)
 * [2023-09-11, 10:23:04](https://news.ycombinator.com/item?id=37465185) - [Removing Garbage Collection from the Rust Language (2013)](http://pcwalton.github.io/_posts/2013-06-02-removing-garbage-collection-from-the-rust-language.html)
 * [2023-09-11, 10:21:36](https://news.ycombinator.com/item?id=37465176) - [1973 Chilean Coup D'état](https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27%C3%A9tat)
+* [2023-09-11, 10:08:50](https://news.ycombinator.com/item?id=37465086) - [The SHA256 for this sentence begins with: one, eight, two, a, seven, c and nine.](https://twitter.com/lauriewired/status/1700982575291142594)
 * [2023-09-11, 10:04:49](https://news.ycombinator.com/item?id=37465052) - [The Top Programming Languages 2023](https://spectrum.ieee.org/the-top-programming-languages-2023)
 * [2023-09-11, 09:50:29](https://news.ycombinator.com/item?id=37464948) - [Everything You Need to Know about the Raspberry Pi 4](https://picockpit.com/raspberry-pi/everything-you-need-to-know-about-the-raspberry-pi-4/)
 * [2023-09-11, 09:45:48](https://news.ycombinator.com/item?id=37464907) - [Personalization in ECommerce: 5 Instant Ways to Boost Customer Engagement](https://golpolikhi.com/personalization-in-ecommerce-5-instant-ways-to-boost-customer-engagement/)
