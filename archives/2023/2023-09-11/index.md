@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-11](index.md)
 
+* [2023-09-11, 09:50:29](https://news.ycombinator.com/item?id=37464948) - [Everything You Need to Know about the Raspberry Pi 4](https://picockpit.com/raspberry-pi/everything-you-need-to-know-about-the-raspberry-pi-4/)
 * [2023-09-11, 09:45:48](https://news.ycombinator.com/item?id=37464907) - [Personalization in ECommerce: 5 Instant Ways to Boost Customer Engagement](https://golpolikhi.com/personalization-in-ecommerce-5-instant-ways-to-boost-customer-engagement/)
 * [2023-09-11, 08:50:20](https://news.ycombinator.com/item?id=37464574) - [Google Chrome just rolled out a new way to track you and serve ads](https://theconversation.com/google-chrome-just-rolled-out-a-new-way-to-track-you-and-serve-ads-heres-what-you-need-to-know-213150)
 * [2023-09-11, 08:36:05](https://news.ycombinator.com/item?id=37464482) - [Meta deletes Al Jazeera presenter’s profile after show criticising Israel](https://www.aljazeera.com/news/2023/9/10/meta-deletes-al-jazeera-presenters-profile-after-show-criticising-israel)
