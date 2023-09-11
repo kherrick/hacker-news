@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-09-11, 17:10:06",
+      "https://news.ycombinator.com/item?id=37470285"
+    ],
+    [
+      "Calculate the difference and intersection of any two regexes",
+      "http://phylactery.org/antimirov/"
+    ]
+  ],
+  [
+    [
+      "2023-09-11, 16:45:09",
+      "https://news.ycombinator.com/item?id=37469920"
+    ],
+    [
+      "WiFi can read through walls",
+      "https://news.ucsb.edu/2023/021198/wifi-can-read-through-walls"
+    ]
+  ],
+  [
+    [
+      "2023-09-11, 16:41:06",
+      "https://news.ycombinator.com/item?id=37469857"
+    ],
+    [
+      "You Don't Need UUID",
+      "https://henvic.dev/posts/uuid/"
+    ]
+  ],
+  [
+    [
       "2023-09-11, 16:40:24",
       "https://news.ycombinator.com/item?id=37469849"
     ],
@@ -21,26 +51,6 @@
   ],
   [
     [
-      "2023-09-11, 16:03:26",
-      "https://news.ycombinator.com/item?id=37469281"
-    ],
-    [
-      "Open source code doesn’t mean community managed",
-      "https://twitter.com/softwaredoug/status/1701250134321795349"
-    ]
-  ],
-  [
-    [
-      "2023-09-11, 15:15:40",
-      "https://news.ycombinator.com/item?id=37468522"
-    ],
-    [
-      "MAC Address Vendor Lookup",
-      "https://maclookup.app/home2"
-    ]
-  ],
-  [
-    [
       "2023-09-11, 15:04:02",
       "https://news.ycombinator.com/item?id=37468342"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=37468031"
     ],
     [
-      "Develop with Cocoa for Apple Devices without using Objective-C",
+      "Develop with Cocoa for Apple devices without using Objective-C",
       "https://felixk15.github.io/posts/c_ocoa/"
     ]
   ],
@@ -67,16 +77,6 @@
     [
       "Nvidia’s AI supremacy is only temporary",
       "https://petewarden.com/2023/09/10/why-nvidias-ai-supremacy-is-only-temporary/"
-    ]
-  ],
-  [
-    [
-      "2023-09-11, 13:12:24",
-      "https://news.ycombinator.com/item?id=37466742"
-    ],
-    [
-      "Linux 6.6 Enables Tracking Per-CPU Cgroup CPU Usage Stats",
-      "https://www.phoronix.com/news/Linux-6.6-cgroup"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2023-09-10, 04:18:36",
-      "https://news.ycombinator.com/item?id=37452868"
+      "2023-09-10, 02:22:44",
+      "https://news.ycombinator.com/item?id=37452322"
     ],
     [
-      "The “Madame B Album” (ca. 1870s)",
-      "https://publicdomainreview.org/collection/madame-b-album/"
+      "Flake8-Logging",
+      "https://adamj.eu/tech/2023/09/07/introducing-flake8-logging/"
     ]
   ],
   [
