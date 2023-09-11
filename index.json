@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2023-09-10, 15:56:07",
+      "https://news.ycombinator.com/item?id=37457051"
+    ],
+    [
+      "New Bézier curves for vector graphics",
+      "https://ad8e.pages.dev/curve"
+    ]
+  ],
+  [
+    [
       "2023-09-10, 15:03:53",
       "https://news.ycombinator.com/item?id=37456471"
     ],
@@ -201,42 +211,22 @@
   ],
   [
     [
-      "2023-09-10, 11:30:29",
-      "https://news.ycombinator.com/item?id=37454853"
-    ],
-    [
-      "“Make” as a static site generator (2022)",
-      "https://www.karl.berlin/static-site.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-10, 11:12:13",
-      "https://news.ycombinator.com/item?id=37454766"
-    ],
-    [
-      "I wired up my bike's GPS to order me pizza during a gravel race",
-      "https://steele.blue/geofence-pizza-ordering/"
-    ]
-  ],
-  [
-    [
-      "2023-09-10, 10:59:49",
-      "https://news.ycombinator.com/item?id=37454707"
-    ],
-    [
-      "New JFK assassination revelation could upend the lone gunman theory",
-      "https://www.vanityfair.com/news/2023/09/new-jfk-assassination-revelation-upend-lone-gunman"
-    ]
-  ],
-  [
-    [
       "2023-09-10, 09:40:19",
       "https://news.ycombinator.com/item?id=37454301"
     ],
     [
       "Breathing life back into a Minitel 1B with the Minimit",
       "https://blog.jgc.org/2023/09/breathing-life-back-into-minitel-1b.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-10, 08:10:06",
+      "https://news.ycombinator.com/item?id=37453854"
+    ],
+    [
+      "Nginx Unit – Universal web app server",
+      "https://github.com/nginx/unit"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "My mental model of Clojure transducers",
       "https://blog.danieljanus.pl/2023/09/09/transducers/"
+    ]
+  ],
+  [
+    [
+      "2023-09-09, 11:17:36",
+      "https://news.ycombinator.com/item?id=37444095"
+    ],
+    [
+      "Ham Imports",
+      "https://hamimports.com/"
     ]
   ],
   [
