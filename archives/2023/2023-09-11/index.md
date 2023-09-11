@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-09-11](index.md)
 
+* [2023-09-11, 19:19:52](https://news.ycombinator.com/item?id=37472346) - [Roblox Event Canceled After Developer Allegedly Shows Up with High Capacity Mag](https://www.404media.co/roblox-event-canceled-after-developer-shows-up-with-high-capacity-magazine/)
+* [2023-09-11, 18:52:13](https://news.ycombinator.com/item?id=37471909) - [It's robbery': Salvadorans slow to adopt Bitcoin](https://news.yahoo.com/robbery-salvadorans-slow-adopt-bitcoin-191002188.html)
 * [2023-09-11, 18:20:58](https://news.ycombinator.com/item?id=37471354) - [Doctors Have Been Measuring Blood Pressure All Wrong, Study Finds](https://studyfinds.org/measuring-blood-pressure-wrong/)
 * [2023-09-11, 18:20:58](https://news.ycombinator.com/item?id=37471354) - [Blood pressure should be measured lying down: study](https://newsroom.heart.org/news/high-blood-pressure-while-lying-down-linked-to-higher-risk-of-heart-health-complications)
+* [2023-09-11, 18:18:37](https://news.ycombinator.com/item?id=37471321) - [Mac ROM-Inator II Restock and Partnerships](https://www.bigmessowires.com/2023/09/09/mac-rom-inator-ii-restock-and-partnerships/)
 * [2023-09-11, 18:05:53](https://news.ycombinator.com/item?id=37471118) - [Justice Department Sues Google for Monopolizing Digital Advertising Technologies](https://www.justice.gov/opa/pr/justice-department-sues-google-monopolizing-digital-advertising-technologies)
 * [2023-09-11, 18:00:59](https://news.ycombinator.com/item?id=37471048) - [In Germany, 27 are in 'preventive detention' b/c they might do climate protests](https://mastodon.energy/@Sustainable2050/111039159882536261)
 * [2023-09-11, 17:48:14](https://news.ycombinator.com/item?id=37470863) - [Germany Will Force 80% of Gas Stations to Install EV Charging, Too](https://www.thedrive.com/news/germany-will-force-80-percent-of-gas-stations-to-install-ev-charging)
 * [2023-09-11, 17:44:17](https://news.ycombinator.com/item?id=37470801) - [MGM is down, cybersecurity attack ongoing](https://www.casino.org/news/mgm-resorts-suffers-cybersecurity-attack-system-outage-reported/)
+* [2023-09-11, 17:31:50](https://news.ycombinator.com/item?id=37470611) - [Show HN: Real-Time 3D Gaussian Splatting in WebGL](https://antimatter15.com/splat/)
 * [2023-09-11, 17:12:56](https://news.ycombinator.com/item?id=37470318) - [Ask HN: Why did Visual Basic die?](https://news.ycombinator.com/item?id=37470318)
 * [2023-09-11, 17:10:06](https://news.ycombinator.com/item?id=37470285) - [Calculate the difference and intersection of any two regexes](http://phylactery.org/antimirov/)
 * [2023-09-11, 17:08:23](https://news.ycombinator.com/item?id=37470259) - [GitHub Discussion about the recent feed changes becomes 3rd most upvoted ever](https://news.ycombinator.com/item?id=37470259)
