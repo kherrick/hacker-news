@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-09-11, 13:12:24",
+      "https://news.ycombinator.com/item?id=37466742"
+    ],
+    [
+      "Linux 6.6 Enables Tracking Per-CPU Cgroup CPU Usage Stats",
+      "https://www.phoronix.com/news/Linux-6.6-cgroup"
+    ]
+  ],
+  [
+    [
       "2023-09-11, 12:51:53",
       "https://news.ycombinator.com/item?id=37466475"
     ],
     [
-      "Unix Domain Sockets vs. Loopback TCP Sockets(2014)",
+      "Unix Domain Sockets vs Loopback TCP Sockets (2014)",
       "https://nicisdigital.wordpress.com/2014/03/03/unix-domain-sockets-vs-loopback-tcp-sockets/"
     ]
   ],
@@ -17,16 +27,6 @@
     [
       "Intuituvely Understanding Harris Corner Detector",
       "https://comsci.blog/posts/intuitive-harris"
-    ]
-  ],
-  [
-    [
-      "2023-09-11, 12:26:23",
-      "https://news.ycombinator.com/item?id=37466208"
-    ],
-    [
-      "Graphics card generation is over and it was mostly trash",
-      "https://www.techradar.com/computing/gpu/this-graphics-card-generation-is-over-and-it-was-mostly-trash"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "A LLM+OLAP Solution",
       "https://doris.apache.org/zh-CN/blog/Tencent-LLM/"
+    ]
+  ],
+  [
+    [
+      "2023-09-11, 12:23:09",
+      "https://news.ycombinator.com/item?id=37466177"
+    ],
+    [
+      "Saving for retirement",
+      "https://how-f-cked-are-you-98ab6cdc8944.herokuapp.com/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "The Awk book’s 60-line version of Make",
       "https://benhoyt.com/writings/awk-make/"
-    ]
-  ],
-  [
-    [
-      "2023-09-10, 22:10:09",
-      "https://news.ycombinator.com/item?id=37460614"
-    ],
-    [
-      "RISC-V SBI and the full boot process",
-      "https://popovicu.com/posts/risc-v-sbi-and-full-boot-process/"
     ]
   ],
   [
