@@ -68,6 +68,7 @@
 * [2023-09-10, 08:10:06](https://news.ycombinator.com/item?id=37453854) - [Nginx Unit – Universal web app server](https://github.com/nginx/unit)
 * [2023-09-10, 07:51:11](https://news.ycombinator.com/item?id=37453755) - [Show HN: Papersnap – Claude 2-Powered Mind Maps from Research](https://poe.com/universal_link_page?handle=PAPERSNAP)
 * [2023-09-10, 07:22:18](https://news.ycombinator.com/item?id=37453616) - [The Decline of Usability (2020)](https://datagubbe.se/decusab/)
+* [2023-09-10, 06:58:55](https://news.ycombinator.com/item?id=37453536) - [IBM's World of Numbers (1958)](https://www.computerhistory.org/collections/catalog/102707549)
 * [2023-09-10, 06:41:20](https://news.ycombinator.com/item?id=37453465) - [ZF makes magnet-free electric motor uniquely compact and competitive](https://press.zf.com/press/en/releases/release_60480.html)
 * [2023-09-10, 06:24:30](https://news.ycombinator.com/item?id=37453412) - [New solar energy storage tech opened in Australia](https://reneweconomy.com.au/the-australian-solar-tech-that-may-have-found-a-low-cost-solution-to-deep-storage/)
 * [2023-09-10, 04:25:15](https://news.ycombinator.com/item?id=37452895) - [How Skeletal Muscle Mass Impacts Cognitive Health](https://gethealthspan.com/blog/articles/skeletal-muscle-impact-on-cognitive-health/5d43mmao0pjucjmjqsjsol/)
