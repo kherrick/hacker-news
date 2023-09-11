@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-11](index.md)
 
 * [2023-09-11, 14:15:04](https://news.ycombinator.com/item?id=37467607) - [X sues Calif. to avoid revealing how it makes “controversial” content decisions](https://arstechnica.com/tech-policy/2023/09/x-sues-calif-to-avoid-revealing-how-it-makes-controversial-content-decisions/)
+* [2023-09-11, 14:13:21](https://news.ycombinator.com/item?id=37467585) - [Nvidia’s AI supremacy is only temporary](https://petewarden.com/2023/09/10/why-nvidias-ai-supremacy-is-only-temporary/)
 * [2023-09-11, 14:10:46](https://news.ycombinator.com/item?id=37467538) - [Big Tobacco’s Legacy: Pushing Hyperpalatable Foods in America](https://neurosciencenews.com/hyperpalatable-foods-big-tobacco-23906/)
 * [2023-09-11, 14:00:00](https://news.ycombinator.com/item?id=37467382) - [X updates its terms to ban crawling and scraping](https://techcrunch.com/2023/09/08/x-updates-its-terms-to-ban-crawling-and-scraping/)
 * [2023-09-11, 13:38:05](https://news.ycombinator.com/item?id=37467077) - [9/11 in Realtime](https://911realtime.org:443/)
