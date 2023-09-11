@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-11, 03:57:50",
+      "https://news.ycombinator.com/item?id=37462694"
+    ],
+    [
+      "Upcoming LK-99 paper will reportedly verify the superconductor",
+      "https://technology.inquirer.net/127825/lk-99-paper"
+    ]
+  ],
+  [
+    [
       "2023-09-11, 03:29:32",
       "https://news.ycombinator.com/item?id=37462541"
     ],
@@ -201,22 +211,22 @@
   ],
   [
     [
-      "2023-09-10, 14:04:34",
-      "https://news.ycombinator.com/item?id=37455859"
-    ],
-    [
-      "Training and aligning LLMs with RLHF and RLHF alternatives",
-      "https://magazine.sebastianraschka.com/p/llm-training-rlhf-and-its-alternatives"
-    ]
-  ],
-  [
-    [
       "2023-09-10, 09:40:19",
       "https://news.ycombinator.com/item?id=37454301"
     ],
     [
       "Breathing life back into a Minitel 1B with the Minimit",
       "https://blog.jgc.org/2023/09/breathing-life-back-into-minitel-1b.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-10, 08:10:06",
+      "https://news.ycombinator.com/item?id=37453854"
+    ],
+    [
+      "Nginx Unit – Universal web app server",
+      "https://github.com/nginx/unit"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Effectiveness of wearable activity trackers to increase physical activity",
       "https://www.thelancet.com/journals/landig/article/PIIS2589-75002200111-X/fulltext"
-    ]
-  ],
-  [
-    [
-      "2023-09-09, 13:10:05",
-      "https://news.ycombinator.com/item?id=37444946"
-    ],
-    [
-      "My mental model of Clojure transducers",
-      "https://blog.danieljanus.pl/2023/09/09/transducers/"
     ]
   ],
   [
