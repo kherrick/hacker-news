@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-11, 03:06:14](https://news.ycombinator.com/item?id=37462405) - [Localhost Will Inevitably Die](https://ergomake.dev/blog/death-of-localhost/)
 * [2023-09-11, 02:22:45](https://news.ycombinator.com/item?id=37462125) - [RestGPT](https://github.com/Yifan-Song793/RestGPT)
 * [2023-09-11, 00:33:17](https://news.ycombinator.com/item?id=37461489) - [A more dynamic software I/O TLB](https://lwn.net/Articles/940973/)
 * [2023-09-11, 00:25:04](https://news.ycombinator.com/item?id=37461449) - [Microsoft has not stopped forcing Edge on Windows 11 users](https://www.ctrl.blog/entry/windows-system-components-default-edge.html)
@@ -21,7 +22,6 @@
 * [2023-09-10, 15:03:53](https://news.ycombinator.com/item?id=37456471) - [Peredvizhnikov Engine: Lock-free game engine written in C++20](https://github.com/eduard-permyakov/peredvizhnikov-engine)
 * [2023-09-10, 14:04:34](https://news.ycombinator.com/item?id=37455859) - [Training and aligning LLMs with RLHF and RLHF alternatives](https://magazine.sebastianraschka.com/p/llm-training-rlhf-and-its-alternatives)
 * [2023-09-10, 13:28:25](https://news.ycombinator.com/item?id=37455621) - [How does Linux NAT a ping?](https://devnonsense.com/posts/how-does-linux-nat-a-ping/)
-* [2023-09-10, 12:51:24](https://news.ycombinator.com/item?id=37455382) - [Is air conditioning making cities hotter?](https://www.euronews.com/green/2023/08/30/fact-check-is-air-conditioning-making-cities-hotter)
 * [2023-09-10, 09:40:19](https://news.ycombinator.com/item?id=37454301) - [Breathing life back into a Minitel 1B with the Minimit](https://blog.jgc.org/2023/09/breathing-life-back-into-minitel-1b.html)
 * [2023-09-10, 01:57:59](https://news.ycombinator.com/item?id=37452210) - [TextViewBenchmark: A suite of performance tests for macOS text views](https://github.com/ChimeHQ/TextViewBenchmark)
 * [2023-09-09, 16:29:02](https://news.ycombinator.com/item?id=37447163) - [Effectiveness of wearable activity trackers to increase physical activity](https://www.thelancet.com/journals/landig/article/PIIS2589-75002200111-X/fulltext)
