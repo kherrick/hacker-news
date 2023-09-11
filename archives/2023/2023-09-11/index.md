@@ -8,6 +8,7 @@
 * [2023-09-11, 09:45:48](https://news.ycombinator.com/item?id=37464907) - [Personalization in ECommerce: 5 Instant Ways to Boost Customer Engagement](https://golpolikhi.com/personalization-in-ecommerce-5-instant-ways-to-boost-customer-engagement/)
 * [2023-09-11, 08:50:20](https://news.ycombinator.com/item?id=37464574) - [Google Chrome just rolled out a new way to track you and serve ads](https://theconversation.com/google-chrome-just-rolled-out-a-new-way-to-track-you-and-serve-ads-heres-what-you-need-to-know-213150)
 * [2023-09-11, 08:36:05](https://news.ycombinator.com/item?id=37464482) - [Meta deletes Al Jazeera presenter’s profile after show criticising Israel](https://www.aljazeera.com/news/2023/9/10/meta-deletes-al-jazeera-presenters-profile-after-show-criticising-israel)
+* [2023-09-11, 08:32:18](https://news.ycombinator.com/item?id=37464466) - [Spain’s Lessons for American Decline](https://compactmag.com/article/spain-s-lessons-for-american-decline)
 * [2023-09-11, 07:01:04](https://news.ycombinator.com/item?id=37463864) - [Meticulous (YC S21) Is Hiring #3 engineer to build AI for testing](https://news.ycombinator.com/item?id=37463864)
 * [2023-09-11, 06:35:09](https://news.ycombinator.com/item?id=37463676) - [Gen Z is giving up on college](https://www.businessinsider.nl/gen-z-is-giving-up-on-college/)
 * [2023-09-11, 06:33:15](https://news.ycombinator.com/item?id=37463662) - [A group of open source Android apps without ads and unnecessary permissions](https://www.simplemobiletools.com)
