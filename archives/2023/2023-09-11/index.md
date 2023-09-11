@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-11](index.md)
 
+* [2023-09-11, 17:10:06](https://news.ycombinator.com/item?id=37470285) - [Calculate the difference and intersection of any two regexes](http://phylactery.org/antimirov/)
+* [2023-09-11, 16:45:09](https://news.ycombinator.com/item?id=37469920) - [WiFi can read through walls](https://news.ucsb.edu/2023/021198/wifi-can-read-through-walls)
+* [2023-09-11, 16:41:06](https://news.ycombinator.com/item?id=37469857) - [You Don't Need UUID](https://henvic.dev/posts/uuid/)
 * [2023-09-11, 16:40:24](https://news.ycombinator.com/item?id=37469849) - [The Meeting of the Minds That Launched AI](https://spectrum.ieee.org/dartmouth-ai-workshop)
 * [2023-09-11, 16:06:17](https://news.ycombinator.com/item?id=37469321) - [Show HN: Firefox addon to quarantine a tab to use offline with private data](https://news.ycombinator.com/item?id=37469321)
 * [2023-09-11, 16:03:26](https://news.ycombinator.com/item?id=37469281) - [Open source code doesn’t mean community managed](https://twitter.com/softwaredoug/status/1701250134321795349)

@@ -75,6 +75,7 @@
 * [2023-09-10, 04:07:19](https://news.ycombinator.com/item?id=37452801) - [Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2757236)
 * [2023-09-10, 03:02:38](https://news.ycombinator.com/item?id=37452528) - [Magic and Loss, Part 1: Magic in the Cards](https://www.filfre.net/2023/09/magic-and-loss-part-1-magic-in-the-cards/)
 * [2023-09-10, 02:23:55](https://news.ycombinator.com/item?id=37452330) - [The Wachowskis and the Hacker as a progressive archetype](https://www.datagubbe.se/proghack/)
+* [2023-09-10, 02:22:44](https://news.ycombinator.com/item?id=37452322) - [Flake8-Logging](https://adamj.eu/tech/2023/09/07/introducing-flake8-logging/)
 * [2023-09-10, 02:14:40](https://news.ycombinator.com/item?id=37452279) - [Sci-Fi Short Film “Slaughterbots” [video]](https://www.youtube.com/watch?v=O-2tpwW0kmU)
 * [2023-09-10, 01:57:59](https://news.ycombinator.com/item?id=37452210) - [TextViewBenchmark: A suite of performance tests for macOS text views](https://github.com/ChimeHQ/TextViewBenchmark)
 * [2023-09-10, 01:42:26](https://news.ycombinator.com/item?id=37452106) - [Starfield’s missing Nvidia DLSS support has been added by a free mod](https://arstechnica.com/gaming/2023/09/starfields-missing-nvidia-dlss-support-has-been-added-by-a-free-mod/)
