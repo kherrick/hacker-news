@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-11, 12:51:53",
+      "https://news.ycombinator.com/item?id=37466475"
+    ],
+    [
+      "Unix Domain Sockets vs. Loopback TCP Sockets(2014)",
+      "https://nicisdigital.wordpress.com/2014/03/03/unix-domain-sockets-vs-loopback-tcp-sockets/"
+    ]
+  ],
+  [
+    [
       "2023-09-11, 12:35:54",
       "https://news.ycombinator.com/item?id=37466302"
     ],
@@ -11,22 +21,32 @@
   ],
   [
     [
+      "2023-09-11, 12:26:23",
+      "https://news.ycombinator.com/item?id=37466208"
+    ],
+    [
+      "Graphics card generation is over and it was mostly trash",
+      "https://www.techradar.com/computing/gpu/this-graphics-card-generation-is-over-and-it-was-mostly-trash"
+    ]
+  ],
+  [
+    [
+      "2023-09-11, 12:26:14",
+      "https://news.ycombinator.com/item?id=37466207"
+    ],
+    [
+      "Beyond OpenAPI",
+      "https://antonz.org/interactive-api-tutorials/"
+    ]
+  ],
+  [
+    [
       "2023-09-11, 12:23:28",
       "https://news.ycombinator.com/item?id=37466182"
     ],
     [
       "A LLM+OLAP Solution",
       "https://doris.apache.org/zh-CN/blog/Tencent-LLM/"
-    ]
-  ],
-  [
-    [
-      "2023-09-11, 12:23:09",
-      "https://news.ycombinator.com/item?id=37466177"
-    ],
-    [
-      "Retirement: How Fucked Are You?",
-      "https://how-f-cked-are-you-98ab6cdc8944.herokuapp.com/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-09-10, 22:57:00",
-      "https://news.ycombinator.com/item?id=37460941"
-    ],
-    [
-      "To make dishwashers great again? (2020)",
-      "https://www.greenbuildinglawupdate.com/2020/11/articles/environmental/to-make-dishwashers-great-again/"
-    ]
-  ],
-  [
-    [
       "2023-09-10, 22:36:24",
       "https://news.ycombinator.com/item?id=37460815"
     ],
@@ -247,16 +257,6 @@
     [
       "CityDreamer: Compositional Generative Model of Unbounded 3D Cities",
       "https://arxiv.org/abs/2309.00610"
-    ]
-  ],
-  [
-    [
-      "2023-09-10, 15:03:53",
-      "https://news.ycombinator.com/item?id=37456471"
-    ],
-    [
-      "Peredvizhnikov Engine: Lock-free game engine written in C++20",
-      "https://github.com/eduard-permyakov/peredvizhnikov-engine"
     ]
   ],
   [
