@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-11, 07:01:04",
+      "https://news.ycombinator.com/item?id=37463864"
+    ],
+    [
+      "Meticulous (YC S21) Is Hiring #3 engineer to build AI for testing",
+      "https://news.ycombinator.com/item?id=37463864"
+    ]
+  ],
+  [
+    [
       "2023-09-11, 06:35:09",
       "https://news.ycombinator.com/item?id=37463676"
     ],
@@ -17,6 +27,16 @@
     [
       "A group of open source Android apps without ads and unnecessary permissions",
       "https://www.simplemobiletools.com"
+    ]
+  ],
+  [
+    [
+      "2023-09-11, 04:38:28",
+      "https://news.ycombinator.com/item?id=37462947"
+    ],
+    [
+      "HDMI ISA graphics card for vintage PCs by improving the Graphics Gremlin",
+      "https://yeokhengmeng.com/2023/09/hdmi-isa-graphics-card-for-vintage-pcs/"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-09-10, 21:00:05",
-      "https://news.ycombinator.com/item?id=37460025"
-    ],
-    [
-      "Fathom AI Notetaker (YC W21) is hiring a principal SRE (remote)",
-      "https://www.ycombinator.com/companies/fathom/jobs/L0pyU04Gs-principal-site-reliability-engineer-remote"
-    ]
-  ],
-  [
-    [
       "2023-09-10, 20:38:34",
       "https://news.ycombinator.com/item?id=37459829"
     ],
@@ -207,16 +217,6 @@
     [
       "Peredvizhnikov Engine: Lock-free game engine written in C++20",
       "https://github.com/eduard-permyakov/peredvizhnikov-engine"
-    ]
-  ],
-  [
-    [
-      "2023-09-10, 08:10:06",
-      "https://news.ycombinator.com/item?id=37453854"
-    ],
-    [
-      "Nginx Unit – Universal web app server",
-      "https://github.com/nginx/unit"
     ]
   ],
   [
