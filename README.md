@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-11, 20:49:18](https://news.ycombinator.com/item?id=37473501) - [Let’s put a stake in the ‘great man’ biography – starting with Isaacson’s ‘Musk’](https://www.latimes.com/entertainment-arts/books/story/2023-09-11/lets-put-a-stake-in-the-great-man-biography-starting-with-isaacsons-elon-musk)
-* [2023-09-11, 20:43:58](https://news.ycombinator.com/item?id=37473446) - [Barstool Built an Empire by Swiping Sports Highlights](https://www.thedailybeast.com/how-dave-portnoys-barstool-built-an-empire-by-swiping-sports-highlights)
 * [2023-09-11, 20:13:43](https://news.ycombinator.com/item?id=37472994) - [uBlock-Origin – 1.52.0](https://github.com/gorhill/uBlock/releases/tag/1.52.0)
 * [2023-09-11, 20:12:57](https://news.ycombinator.com/item?id=37472984) - [The IKEA-powered homelab on a wall](https://ounapuu.ee/posts/2023/09/07/ikea-powered-homelab/)
 * [2023-09-11, 18:51:35](https://news.ycombinator.com/item?id=37471901) - [Apple should re-release Safari for Windows](https://twitter.com/cassiozen/status/1701306988611653720)
@@ -21,6 +20,7 @@
 * [2023-09-11, 12:35:54](https://news.ycombinator.com/item?id=37466302) - [Intuitively Understanding Harris Corner Detector](https://comsci.blog/posts/intuitive-harris)
 * [2023-09-11, 12:26:14](https://news.ycombinator.com/item?id=37466207) - [Beyond OpenAPI](https://antonz.org/interactive-api-tutorials/)
 * [2023-09-11, 12:23:28](https://news.ycombinator.com/item?id=37466182) - [A LLM+OLAP Solution](https://doris.apache.org/zh-CN/blog/Tencent-LLM/)
+* [2023-09-11, 12:08:45](https://news.ycombinator.com/item?id=37466045) - [Show HN: Loopy – share and find and music you love](https://www.loopy.fm/)
 * [2023-09-11, 12:06:28](https://news.ycombinator.com/item?id=37466027) - [The Project Gutenberg Open Audiobook Collection](https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html)
 * [2023-09-11, 11:24:28](https://news.ycombinator.com/item?id=37465636) - [Connecting two dial-up modems using a VoIP ATA](https://gekk.info/articles/ata-config.html)
 * [2023-09-11, 10:58:37](https://news.ycombinator.com/item?id=37465427) - [A systematic approach to debugging](https://ntietz.com/blog/how-i-debug-2023/)
