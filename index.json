@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-09-11, 14:19:00",
-      "https://news.ycombinator.com/item?id=37467666"
-    ],
-    [
-      "Domain Registrars Which Developers Recommend",
-      "https://blog.pragmaticengineer.com/domain-registrars-which-developers-recommend/"
-    ]
-  ],
-  [
-    [
       "2023-09-11, 14:15:04",
       "https://news.ycombinator.com/item?id=37467607"
     ],
@@ -41,6 +31,16 @@
   ],
   [
     [
+      "2023-09-11, 13:57:32",
+      "https://news.ycombinator.com/item?id=37467340"
+    ],
+    [
+      "Google pledges $20M for responsible AI fund",
+      "https://www.axios.com/2023/09/11/google-pledge-responsible-ai-fund"
+    ]
+  ],
+  [
+    [
       "2023-09-11, 13:38:05",
       "https://news.ycombinator.com/item?id=37467077"
     ],
@@ -67,16 +67,6 @@
     [
       "Intuitively Understanding Harris Corner Detector",
       "https://comsci.blog/posts/intuitive-harris"
-    ]
-  ],
-  [
-    [
-      "2023-09-11, 12:26:23",
-      "https://news.ycombinator.com/item?id=37466208"
-    ],
-    [
-      "Graphics card generation is over and it was mostly trash",
-      "https://www.techradar.com/computing/gpu/this-graphics-card-generation-is-over-and-it-was-mostly-trash"
     ]
   ],
   [
@@ -171,16 +161,6 @@
   ],
   [
     [
-      "2023-09-11, 08:51:22",
-      "https://news.ycombinator.com/item?id=37464576"
-    ],
-    [
-      "30 years of The X-Files",
-      "https://arstechnica.com/culture/2023/09/the-truth-is-out-there-celebrate-30-years-of-the-x-files-with-our-30-favorite-episodes/"
-    ]
-  ],
-  [
-    [
       "2023-09-11, 08:27:31",
       "https://news.ycombinator.com/item?id=37464437"
     ],
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2023-09-11, 02:22:45",
+      "https://news.ycombinator.com/item?id=37462125"
+    ],
+    [
+      "RestGPT",
+      "https://github.com/Yifan-Song793/RestGPT"
+    ]
+  ],
+  [
+    [
       "2023-09-11, 00:33:17",
       "https://news.ycombinator.com/item?id=37461489"
     ],
@@ -297,6 +287,16 @@
     [
       "The “Madame B Album” (ca. 1870s)",
       "https://publicdomainreview.org/collection/madame-b-album/"
+    ]
+  ],
+  [
+    [
+      "2023-09-09, 21:35:27",
+      "https://news.ycombinator.com/item?id=37450524"
+    ],
+    [
+      "My Mental Model of Transducers",
+      "https://blog.danieljanus.pl/2023/09/09/transducers/"
     ]
   ]
 ]
