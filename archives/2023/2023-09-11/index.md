@@ -77,6 +77,7 @@
 * [2023-09-11, 10:04:49](https://news.ycombinator.com/item?id=37465052) - [The Top Programming Languages 2023](https://spectrum.ieee.org/the-top-programming-languages-2023)
 * [2023-09-11, 09:50:29](https://news.ycombinator.com/item?id=37464948) - [Everything You Need to Know about the Raspberry Pi 4](https://picockpit.com/raspberry-pi/everything-you-need-to-know-about-the-raspberry-pi-4/)
 * [2023-09-11, 09:45:48](https://news.ycombinator.com/item?id=37464907) - [Personalization in ECommerce: 5 Instant Ways to Boost Customer Engagement](https://golpolikhi.com/personalization-in-ecommerce-5-instant-ways-to-boost-customer-engagement/)
+* [2023-09-11, 09:05:37](https://news.ycombinator.com/item?id=37464668) - [The roots of an obscure Bourne shell error message](https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellObscureErrorRoots)
 * [2023-09-11, 08:56:12](https://news.ycombinator.com/item?id=37464610) - [Ask HN: Turning off the programming mind during non-work hours](https://news.ycombinator.com/item?id=37464610)
 * [2023-09-11, 08:51:22](https://news.ycombinator.com/item?id=37464576) - [Celebrate 30 years of The X-Files with our 30 favorite episodes](https://arstechnica.com/culture/2023/09/the-truth-is-out-there-celebrate-30-years-of-the-x-files-with-our-30-favorite-episodes/)
 * [2023-09-11, 08:50:20](https://news.ycombinator.com/item?id=37464574) - [Google Chrome just rolled out a new way to track you and serve ads](https://theconversation.com/google-chrome-just-rolled-out-a-new-way-to-track-you-and-serve-ads-heres-what-you-need-to-know-213150)
