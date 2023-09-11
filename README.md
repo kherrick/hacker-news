@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-11, 02:22:45](https://news.ycombinator.com/item?id=37462125) - [RestGPT](https://github.com/Yifan-Song793/RestGPT)
-* [2023-09-11, 01:26:39](https://news.ycombinator.com/item?id=37461782) - [The old have come to dominate American politics](https://www.economist.com/graphic-detail/2023/09/08/the-old-have-come-to-dominate-american-politics)
 * [2023-09-11, 00:33:17](https://news.ycombinator.com/item?id=37461489) - [A more dynamic software I/O TLB](https://lwn.net/Articles/940973/)
 * [2023-09-11, 00:25:04](https://news.ycombinator.com/item?id=37461449) - [Microsoft has not stopped forcing Edge on Windows 11 users](https://www.ctrl.blog/entry/windows-system-components-default-edge.html)
 * [2023-09-10, 22:57:00](https://news.ycombinator.com/item?id=37460941) - [To make dishwashers great again? (2020)](https://www.greenbuildinglawupdate.com/2020/11/articles/environmental/to-make-dishwashers-great-again/)
@@ -18,6 +17,7 @@
 * [2023-09-10, 19:53:14](https://news.ycombinator.com/item?id=37459341) - [A design system for the federal government](https://designsystem.digital.gov/)
 * [2023-09-10, 18:48:07](https://news.ycombinator.com/item?id=37458753) - [Battery-electric fishing vessel marks a sea change for small commercial fishers](https://www.nrel.gov/news/program/2023/battery-electric-fishing-vessel-marks-a-sea-change-for-small-commercial-fishers.html)
 * [2023-09-10, 16:46:23](https://news.ycombinator.com/item?id=37457609) - [Show HN: Erlmacs – a script to update your .emacs file for Erlang development](https://github.com/dlachausse/erlmacs)
+* [2023-09-10, 15:56:07](https://news.ycombinator.com/item?id=37457051) - [New Bézier curves for vector graphics](https://ad8e.pages.dev/curve)
 * [2023-09-10, 15:03:53](https://news.ycombinator.com/item?id=37456471) - [Peredvizhnikov Engine: Lock-free game engine written in C++20](https://github.com/eduard-permyakov/peredvizhnikov-engine)
 * [2023-09-10, 14:04:34](https://news.ycombinator.com/item?id=37455859) - [Training and aligning LLMs with RLHF and RLHF alternatives](https://magazine.sebastianraschka.com/p/llm-training-rlhf-and-its-alternatives)
 * [2023-09-10, 13:28:25](https://news.ycombinator.com/item?id=37455621) - [How does Linux NAT a ping?](https://devnonsense.com/posts/how-does-linux-nat-a-ping/)
@@ -27,8 +27,8 @@
 * [2023-09-09, 16:29:02](https://news.ycombinator.com/item?id=37447163) - [Effectiveness of wearable activity trackers to increase physical activity](https://www.thelancet.com/journals/landig/article/PIIS2589-75002200111-X/fulltext)
 * [2023-09-09, 13:10:05](https://news.ycombinator.com/item?id=37444946) - [My mental model of Clojure transducers](https://blog.danieljanus.pl/2023/09/09/transducers/)
 * [2023-09-09, 11:17:36](https://news.ycombinator.com/item?id=37444095) - [Ham Imports](https://hamimports.com/)
-* [2023-09-09, 07:32:52](https://news.ycombinator.com/item?id=37443089) - [Mystery 'golden egg' found on ocean floor](https://phys.org/news/2023-09-strange-mystery-golden-egg-ocean.html)
 * [2023-09-09, 00:04:01](https://news.ycombinator.com/item?id=37440842) - [Profound Beliefs](https://steveblank.com/2023/09/05/profound-beliefs/)
+* [2023-09-07, 22:39:18](https://news.ycombinator.com/item?id=37426601) - [The computational power of the human brain](https://www.frontiersin.org/articles/10.3389/fncel.2023.1220030/full)
 * [2023-09-07, 15:53:34](https://news.ycombinator.com/item?id=37420834) - [The Dendera Dating Controversy](https://www.historytoday.com/archive/great-debates/signs-zodiac-dendera-dating-controversy)
 
 ## [Archives](archives/index.md)
