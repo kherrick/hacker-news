@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-11](index.md)
 
+* [2023-09-11, 11:06:53](https://news.ycombinator.com/item?id=37465480) - [Cancer cases in young adults rise by 80% globally](https://indianexpress.com/article/lifestyle/health/rising-cancer-under-50s-causes-mystery-8931614/)
 * [2023-09-11, 10:23:04](https://news.ycombinator.com/item?id=37465185) - [Removing Garbage Collection from the Rust Language (2013)](http://pcwalton.github.io/_posts/2013-06-02-removing-garbage-collection-from-the-rust-language.html)
 * [2023-09-11, 10:21:36](https://news.ycombinator.com/item?id=37465176) - [1973 Chilean Coup D'état](https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27%C3%A9tat)
 * [2023-09-11, 09:50:29](https://news.ycombinator.com/item?id=37464948) - [Everything You Need to Know about the Raspberry Pi 4](https://picockpit.com/raspberry-pi/everything-you-need-to-know-about-the-raspberry-pi-4/)
