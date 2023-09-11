@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-09-11, 09:50:29",
-      "https://news.ycombinator.com/item?id=37464948"
+      "2023-09-11, 10:23:04",
+      "https://news.ycombinator.com/item?id=37465185"
     ],
     [
-      "Everything You Need to Know about the Raspberry Pi 4",
-      "https://picockpit.com/raspberry-pi/everything-you-need-to-know-about-the-raspberry-pi-4/"
+      "Removing Garbage Collection from the Rust Language (2013)",
+      "http://pcwalton.github.io/_posts/2013-06-02-removing-garbage-collection-from-the-rust-language.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-11, 10:21:36",
+      "https://news.ycombinator.com/item?id=37465176"
+    ],
+    [
+      "1973 Chilean Coup D'état",
+      "https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27%C3%A9tat"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "Google Chrome just rolled out a new way to track you and serve ads",
       "https://theconversation.com/google-chrome-just-rolled-out-a-new-way-to-track-you-and-serve-ads-heres-what-you-need-to-know-213150"
+    ]
+  ],
+  [
+    [
+      "2023-09-11, 08:35:42",
+      "https://news.ycombinator.com/item?id=37464481"
+    ],
+    [
+      "The End of Cheap Europe Flights? France Proposes EU-Wide Minimum Price",
+      "https://www.forbes.com/sites/alexledsom/2023/09/07/the-end-of-cheap-europe-flights-france-proposes-eu-wide-minimum-price/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-09-10, 19:53:14",
-      "https://news.ycombinator.com/item?id=37459341"
-    ],
-    [
-      "A design system for the federal government",
-      "https://designsystem.digital.gov/"
-    ]
-  ],
-  [
-    [
       "2023-09-10, 16:31:04",
       "https://news.ycombinator.com/item?id=37457426"
     ],
@@ -257,16 +267,6 @@
     [
       "TextViewBenchmark: A suite of performance tests for macOS text views",
       "https://github.com/ChimeHQ/TextViewBenchmark"
-    ]
-  ],
-  [
-    [
-      "2023-09-09, 16:29:02",
-      "https://news.ycombinator.com/item?id=37447163"
-    ],
-    [
-      "Effectiveness of wearable activity trackers to increase physical activity",
-      "https://www.thelancet.com/journals/landig/article/PIIS2589-75002200111-X/fulltext"
     ]
   ],
   [
