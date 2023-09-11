@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-09-11](index.md)
 
+* [2023-09-11, 12:20:43](https://news.ycombinator.com/item?id=37466147) - [Networking for Introverts: A How-To Guide](https://www.economist.com/business/2023/09/07/networking-for-introverts-a-how-to-guide)
+* [2023-09-11, 12:06:28](https://news.ycombinator.com/item?id=37466027) - [The Project Gutenberg Open Audiobook Collection](https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html)
+* [2023-09-11, 12:02:08](https://news.ycombinator.com/item?id=37465972) - [The right to data ownership is the only way to take on Big Tech](https://www.telegraph.co.uk/business/2023/09/11/right-data-ownership-big-tech-google-meta-competition/)
+* [2023-09-11, 11:59:55](https://news.ycombinator.com/item?id=37465946) - [Pentagon’s shameful effort to draft mentally disabled men to fight in Vietnam](https://taskandpurpose.com/history/project-100000-vietnam/)
+* [2023-09-11, 11:14:34](https://news.ycombinator.com/item?id=37465533) - [Show HN: Free High-quality TailwindCSS Components. No attribution required](https://tailspark.co/)
 * [2023-09-11, 11:06:53](https://news.ycombinator.com/item?id=37465480) - [Cancer cases in young adults rise by 80% globally](https://indianexpress.com/article/lifestyle/health/rising-cancer-under-50s-causes-mystery-8931614/)
 * [2023-09-11, 10:23:04](https://news.ycombinator.com/item?id=37465185) - [Removing Garbage Collection from the Rust Language (2013)](http://pcwalton.github.io/_posts/2013-06-02-removing-garbage-collection-from-the-rust-language.html)
 * [2023-09-11, 10:21:36](https://news.ycombinator.com/item?id=37465176) - [1973 Chilean Coup D'état](https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27%C3%A9tat)
