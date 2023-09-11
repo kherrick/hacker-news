@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2023-09-11, 02:38:25",
-      "https://news.ycombinator.com/item?id=37462208"
-    ],
-    [
-      "Chronic fatigue syndrome may have a post-viral infection origin",
-      "https://medicalxpress.com/news/2023-09-chronic-fatigue-syndrome-post-viral-infection.html"
-    ]
-  ],
-  [
-    [
       "2023-09-11, 02:22:45",
       "https://news.ycombinator.com/item?id=37462125"
     ],
@@ -201,12 +191,22 @@
   ],
   [
     [
-      "2023-09-10, 16:12:11",
-      "https://news.ycombinator.com/item?id=37457208"
+      "2023-09-10, 16:46:23",
+      "https://news.ycombinator.com/item?id=37457609"
     ],
     [
-      "What I have changed my mind about in software development",
-      "https://henrikwarne.com/2023/09/10/what-i-have-changed-my-mind-about-in-software-development/"
+      "Show HN: Erlmacs – a script to update your .emacs file for Erlang development",
+      "https://github.com/dlachausse/erlmacs"
+    ]
+  ],
+  [
+    [
+      "2023-09-10, 16:31:04",
+      "https://news.ycombinator.com/item?id=37457426"
+    ],
+    [
+      "CityDreamer: Compositional Generative Model of Unbounded 3D Cities",
+      "https://arxiv.org/abs/2309.00610"
     ]
   ],
   [
