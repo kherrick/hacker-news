@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-11, 18:20:58](https://news.ycombinator.com/item?id=37471354) - [Doctors Have Been Measuring Blood Pressure All Wrong, Study Finds](https://studyfinds.org/measuring-blood-pressure-wrong/)
 * [2023-09-11, 18:05:53](https://news.ycombinator.com/item?id=37471118) - [Justice Department Sues Google for Monopolizing Digital Advertising Technologies](https://www.justice.gov/opa/pr/justice-department-sues-google-monopolizing-digital-advertising-technologies)
 * [2023-09-11, 18:00:59](https://news.ycombinator.com/item?id=37471048) - [In Germany, 27 are in 'preventive detention' b/c they might do climate protests](https://mastodon.energy/@Sustainable2050/111039159882536261)
 * [2023-09-11, 17:48:14](https://news.ycombinator.com/item?id=37470863) - [Germany Will Force 80% of Gas Stations to Install EV Charging, Too](https://www.thedrive.com/news/germany-will-force-80-percent-of-gas-stations-to-install-ev-charging)
@@ -8,7 +9,6 @@
 * [2023-09-11, 17:08:23](https://news.ycombinator.com/item?id=37470259) - [GitHub Discussion about the recent feed changes becomes 3rd most upvoted ever](https://news.ycombinator.com/item?id=37470259)
 * [2023-09-11, 16:59:15](https://news.ycombinator.com/item?id=37470132) - [A Multi-Level View of LLM Intentionality](http://disagreeableme.blogspot.com/2023/05/a-multi-level-view-of-llm-intentionality.html)
 * [2023-09-11, 16:45:09](https://news.ycombinator.com/item?id=37469920) - [WiFi can read through walls](https://news.ucsb.edu/2023/021198/wifi-can-read-through-walls)
-* [2023-09-11, 16:41:06](https://news.ycombinator.com/item?id=37469857) - [You Don't Need UUID](https://henvic.dev/posts/uuid/)
 * [2023-09-11, 16:40:24](https://news.ycombinator.com/item?id=37469849) - [The Meeting of the Minds That Launched AI](https://spectrum.ieee.org/dartmouth-ai-workshop)
 * [2023-09-11, 16:06:17](https://news.ycombinator.com/item?id=37469321) - [Show HN: Firefox addon to quarantine a tab to use offline with private data](https://news.ycombinator.com/item?id=37469321)
 * [2023-09-11, 15:04:02](https://news.ycombinator.com/item?id=37468342) - [Webb Discovers Methane, Carbon Dioxide in Atmosphere of K2-18B](https://www.nasa.gov/goddard/2023/webb-discovers-methane-carbon-dioxide-in-atmosphere-of-k2-18b/)

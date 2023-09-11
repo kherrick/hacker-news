@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-11](index.md)
 
+* [2023-09-11, 18:20:58](https://news.ycombinator.com/item?id=37471354) - [Doctors Have Been Measuring Blood Pressure All Wrong, Study Finds](https://studyfinds.org/measuring-blood-pressure-wrong/)
 * [2023-09-11, 18:05:53](https://news.ycombinator.com/item?id=37471118) - [Justice Department Sues Google for Monopolizing Digital Advertising Technologies](https://www.justice.gov/opa/pr/justice-department-sues-google-monopolizing-digital-advertising-technologies)
 * [2023-09-11, 18:00:59](https://news.ycombinator.com/item?id=37471048) - [In Germany, 27 are in 'preventive detention' b/c they might do climate protests](https://mastodon.energy/@Sustainable2050/111039159882536261)
 * [2023-09-11, 17:48:14](https://news.ycombinator.com/item?id=37470863) - [Germany Will Force 80% of Gas Stations to Install EV Charging, Too](https://www.thedrive.com/news/germany-will-force-80-percent-of-gas-stations-to-install-ev-charging)
