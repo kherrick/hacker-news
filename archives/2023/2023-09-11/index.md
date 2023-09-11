@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-09-11](index.md)
 
+* [2023-09-11, 15:44:40](https://news.ycombinator.com/item?id=37468983) - [US rejects AI copyright for famous state fair-winning Midjourney art](https://arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/)
 * [2023-09-11, 15:30:05](https://news.ycombinator.com/item?id=37468762) - [Intercom is a terrible Mailchimp. So is Mailchimp](https://github.com/stickfigure/blog/wiki/Intercom-is-a-terrible-Mailchimp.-So-is-Mailchimp.)
 * [2023-09-11, 15:19:50](https://news.ycombinator.com/item?id=37468600) - [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)
 * [2023-09-11, 15:15:40](https://news.ycombinator.com/item?id=37468522) - [MAC Address Vendor Lookup](https://maclookup.app/home2)
 * [2023-09-11, 15:04:02](https://news.ycombinator.com/item?id=37468342) - [Webb Discovers Methane, Carbon Dioxide in Atmosphere of K2-18B](https://www.nasa.gov/goddard/2023/webb-discovers-methane-carbon-dioxide-in-atmosphere-of-k2-18b/)
+* [2023-09-11, 14:44:08](https://news.ycombinator.com/item?id=37468031) - [Show HN: C-ocoa, Write iOS/macOS apps in any language, with a generated C API](https://felixk15.github.io/posts/c_ocoa/)
 * [2023-09-11, 14:19:00](https://news.ycombinator.com/item?id=37467666) - [Domain Registrars Which Developers Recommend](https://blog.pragmaticengineer.com/domain-registrars-which-developers-recommend/)
 * [2023-09-11, 14:15:04](https://news.ycombinator.com/item?id=37467607) - [X sues Calif. to avoid revealing how it makes “controversial” content decisions](https://arstechnica.com/tech-policy/2023/09/x-sues-calif-to-avoid-revealing-how-it-makes-controversial-content-decisions/)
 * [2023-09-11, 14:13:21](https://news.ycombinator.com/item?id=37467585) - [Nvidia’s AI supremacy is only temporary](https://petewarden.com/2023/09/10/why-nvidias-ai-supremacy-is-only-temporary/)
