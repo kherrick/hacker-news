@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-11, 06:35:09](https://news.ycombinator.com/item?id=37463676) - [Gen Z is giving up on college](https://www.businessinsider.nl/gen-z-is-giving-up-on-college/)
 * [2023-09-11, 06:33:15](https://news.ycombinator.com/item?id=37463662) - [A group of open source Android apps without ads and unnecessary permissions](https://www.simplemobiletools.com)
 * [2023-09-11, 03:34:14](https://news.ycombinator.com/item?id=37462564) - [A Student-Debt Bubble Fueled a Housing Bubble](https://www.wsj.com/articles/the-student-debt-bubble-fueled-a-housing-bubble-debt-income-obama-fannie-freddie-bd29b05c)
 * [2023-09-11, 03:00:24](https://news.ycombinator.com/item?id=37462351) - [Japan launches rocket carrying lunar lander and X-ray telescope](https://phys.org/news/2023-09-japan-rocket-lunar-lander-x-ray.html)
@@ -18,7 +19,6 @@
 * [2023-09-10, 19:56:32](https://news.ycombinator.com/item?id=37459371) - [Why is the ocean salty? (2022)](https://www.usgs.gov/faqs/why-ocean-salty)
 * [2023-09-10, 19:53:14](https://news.ycombinator.com/item?id=37459341) - [A design system for the federal government](https://designsystem.digital.gov/)
 * [2023-09-10, 18:48:07](https://news.ycombinator.com/item?id=37458753) - [Battery-electric fishing vessel marks a sea change for small commercial fishers](https://www.nrel.gov/news/program/2023/battery-electric-fishing-vessel-marks-a-sea-change-for-small-commercial-fishers.html)
-* [2023-09-10, 16:46:23](https://news.ycombinator.com/item?id=37457609) - [Show HN: Erlmacs – a script to update your .emacs file for Erlang development](https://github.com/dlachausse/erlmacs)
 * [2023-09-10, 16:12:11](https://news.ycombinator.com/item?id=37457208) - [What I have changed my mind about in software development](https://henrikwarne.com/2023/09/10/what-i-have-changed-my-mind-about-in-software-development/)
 * [2023-09-10, 15:03:53](https://news.ycombinator.com/item?id=37456471) - [Peredvizhnikov Engine: Lock-free game engine written in C++20](https://github.com/eduard-permyakov/peredvizhnikov-engine)
 * [2023-09-10, 08:10:06](https://news.ycombinator.com/item?id=37453854) - [Nginx Unit – Universal web app server](https://github.com/nginx/unit)
