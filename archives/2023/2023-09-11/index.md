@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-11](index.md)
 
+* [2023-09-11, 20:03:06](https://news.ycombinator.com/item?id=37472857) - [Ask HN: What web frameworks do you use?](https://news.ycombinator.com/item?id=37472857)
 * [2023-09-11, 19:30:57](https://news.ycombinator.com/item?id=37472506) - [Why we Burnout, the “Two Health Bar” Theory](https://jdwyah.substack.com/p/the-two-healthbar-theory-of-burnout)
 * [2023-09-11, 19:19:52](https://news.ycombinator.com/item?id=37472346) - [Roblox Event Canceled After Developer Allegedly Shows Up with High Capacity Mag](https://www.404media.co/roblox-event-canceled-after-developer-shows-up-with-high-capacity-magazine/)
+* [2023-09-11, 19:18:19](https://news.ycombinator.com/item?id=37472323) - [The Private Jet Collection of Google Founders Larry Page and Sergei Brin](https://simpleflying.com/google-founders-private-jet-collection/)
 * [2023-09-11, 18:52:13](https://news.ycombinator.com/item?id=37471909) - [It's robbery': Salvadorans slow to adopt Bitcoin](https://news.yahoo.com/robbery-salvadorans-slow-adopt-bitcoin-191002188.html)
 * [2023-09-11, 18:32:33](https://news.ycombinator.com/item?id=37471536) - [Starfield Review](https://xander.ai/starfield-review)
 * [2023-09-11, 18:25:02](https://news.ycombinator.com/item?id=37471417) - [Roll your own QEMU for fun](https://niccs.cisa.gov/education-training/catalog/opensecuritytraininginfo/advanced-x86-virtualization-intel-vt-x)

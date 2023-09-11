@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-11, 19:30:57](https://news.ycombinator.com/item?id=37472506) - [Why we Burnout, the “Two Health Bar” Theory](https://jdwyah.substack.com/p/the-two-healthbar-theory-of-burnout)
-* [2023-09-11, 18:32:33](https://news.ycombinator.com/item?id=37471536) - [Starfield Review](https://xander.ai/starfield-review)
+* [2023-09-11, 20:03:06](https://news.ycombinator.com/item?id=37472857) - [Ask HN: What web frameworks do you use?](https://news.ycombinator.com/item?id=37472857)
+* [2023-09-11, 19:30:57](https://news.ycombinator.com/item?id=37472506) - [The two healthbar theory of burnout](https://jdwyah.substack.com/p/the-two-healthbar-theory-of-burnout)
+* [2023-09-11, 19:18:19](https://news.ycombinator.com/item?id=37472323) - [The Private Jet Collection of Google Founders Larry Page and Sergei Brin](https://simpleflying.com/google-founders-private-jet-collection/)
 * [2023-09-11, 18:25:02](https://news.ycombinator.com/item?id=37471417) - [Roll your own QEMU for fun](https://niccs.cisa.gov/education-training/catalog/opensecuritytraininginfo/advanced-x86-virtualization-intel-vt-x)
 * [2023-09-11, 18:20:58](https://news.ycombinator.com/item?id=37471354) - [Blood pressure should be measured lying down: study](https://newsroom.heart.org/news/high-blood-pressure-while-lying-down-linked-to-higher-risk-of-heart-health-complications)
 * [2023-09-11, 18:18:37](https://news.ycombinator.com/item?id=37471321) - [Mac ROM-Inator II Restock and Partnerships](https://www.bigmessowires.com/2023/09/09/mac-rom-inator-ii-restock-and-partnerships/)
@@ -12,7 +13,6 @@
 * [2023-09-11, 16:59:15](https://news.ycombinator.com/item?id=37470132) - [A Multi-Level View of LLM Intentionality](http://disagreeableme.blogspot.com/2023/05/a-multi-level-view-of-llm-intentionality.html)
 * [2023-09-11, 16:45:09](https://news.ycombinator.com/item?id=37469920) - [WiFi can read through walls](https://news.ucsb.edu/2023/021198/wifi-can-read-through-walls)
 * [2023-09-11, 16:40:24](https://news.ycombinator.com/item?id=37469849) - [The meeting of the minds that launched AI](https://spectrum.ieee.org/dartmouth-ai-workshop)
-* [2023-09-11, 16:06:17](https://news.ycombinator.com/item?id=37469321) - [Show HN: Firefox addon to quarantine a tab to use offline with private data](https://news.ycombinator.com/item?id=37469321)
 * [2023-09-11, 15:04:02](https://news.ycombinator.com/item?id=37468342) - [Webb Discovers Methane, Carbon Dioxide in Atmosphere of K2-18B](https://www.nasa.gov/goddard/2023/webb-discovers-methane-carbon-dioxide-in-atmosphere-of-k2-18b/)
 * [2023-09-11, 14:44:08](https://news.ycombinator.com/item?id=37468031) - [Develop with Cocoa for Apple devices without using Objective-C](https://felixk15.github.io/posts/c_ocoa/)
 * [2023-09-11, 12:51:53](https://news.ycombinator.com/item?id=37466475) - [Unix Domain Sockets vs Loopback TCP Sockets (2014)](https://nicisdigital.wordpress.com/2014/03/03/unix-domain-sockets-vs-loopback-tcp-sockets/)
