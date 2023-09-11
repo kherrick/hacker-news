@@ -60,5 +60,6 @@
 * [2023-09-11, 02:38:25](https://news.ycombinator.com/item?id=37462208) - [Chronic fatigue syndrome may have a post-viral infection origin](https://medicalxpress.com/news/2023-09-chronic-fatigue-syndrome-post-viral-infection.html)
 * [2023-09-11, 02:22:45](https://news.ycombinator.com/item?id=37462125) - [RestGPT](https://github.com/Yifan-Song793/RestGPT)
 * [2023-09-11, 01:26:39](https://news.ycombinator.com/item?id=37461782) - [The old have come to dominate American politics](https://www.economist.com/graphic-detail/2023/09/08/the-old-have-come-to-dominate-american-politics)
+* [2023-09-11, 01:08:16](https://news.ycombinator.com/item?id=37461695) - [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)
 * [2023-09-11, 00:33:17](https://news.ycombinator.com/item?id=37461489) - [A more dynamic software I/O TLB](https://lwn.net/Articles/940973/)
 * [2023-09-11, 00:25:04](https://news.ycombinator.com/item?id=37461449) - [Microsoft has not stopped forcing Edge on Windows 11 users](https://www.ctrl.blog/entry/windows-system-components-default-edge.html)
