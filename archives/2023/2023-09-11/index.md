@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-09-11](index.md)
 
+* [2023-09-11, 10:23:04](https://news.ycombinator.com/item?id=37465185) - [Removing Garbage Collection from the Rust Language (2013)](http://pcwalton.github.io/_posts/2013-06-02-removing-garbage-collection-from-the-rust-language.html)
+* [2023-09-11, 10:21:36](https://news.ycombinator.com/item?id=37465176) - [1973 Chilean Coup D'état](https://en.wikipedia.org/wiki/1973_Chilean_coup_d%27%C3%A9tat)
 * [2023-09-11, 09:50:29](https://news.ycombinator.com/item?id=37464948) - [Everything You Need to Know about the Raspberry Pi 4](https://picockpit.com/raspberry-pi/everything-you-need-to-know-about-the-raspberry-pi-4/)
 * [2023-09-11, 09:45:48](https://news.ycombinator.com/item?id=37464907) - [Personalization in ECommerce: 5 Instant Ways to Boost Customer Engagement](https://golpolikhi.com/personalization-in-ecommerce-5-instant-ways-to-boost-customer-engagement/)
 * [2023-09-11, 08:50:20](https://news.ycombinator.com/item?id=37464574) - [Google Chrome just rolled out a new way to track you and serve ads](https://theconversation.com/google-chrome-just-rolled-out-a-new-way-to-track-you-and-serve-ads-heres-what-you-need-to-know-213150)
 * [2023-09-11, 08:36:05](https://news.ycombinator.com/item?id=37464482) - [Meta deletes Al Jazeera presenter’s profile after show criticising Israel](https://www.aljazeera.com/news/2023/9/10/meta-deletes-al-jazeera-presenters-profile-after-show-criticising-israel)
+* [2023-09-11, 08:35:42](https://news.ycombinator.com/item?id=37464481) - [The End of Cheap Europe Flights? France Proposes EU-Wide Minimum Price](https://www.forbes.com/sites/alexledsom/2023/09/07/the-end-of-cheap-europe-flights-france-proposes-eu-wide-minimum-price/)
 * [2023-09-11, 08:32:18](https://news.ycombinator.com/item?id=37464466) - [Spain’s Lessons for American Decline](https://compactmag.com/article/spain-s-lessons-for-american-decline)
 * [2023-09-11, 07:01:04](https://news.ycombinator.com/item?id=37463864) - [Meticulous (YC S21) Is Hiring #3 engineer to build AI for testing](https://news.ycombinator.com/item?id=37463864)
 * [2023-09-11, 06:35:09](https://news.ycombinator.com/item?id=37463676) - [Gen Z is giving up on college](https://www.businessinsider.nl/gen-z-is-giving-up-on-college/)
