@@ -6,6 +6,7 @@
 
 * [2023-09-11, 19:19:52](https://news.ycombinator.com/item?id=37472346) - [Roblox Event Canceled After Developer Allegedly Shows Up with High Capacity Mag](https://www.404media.co/roblox-event-canceled-after-developer-shows-up-with-high-capacity-magazine/)
 * [2023-09-11, 18:52:13](https://news.ycombinator.com/item?id=37471909) - [It's robbery': Salvadorans slow to adopt Bitcoin](https://news.yahoo.com/robbery-salvadorans-slow-adopt-bitcoin-191002188.html)
+* [2023-09-11, 18:25:02](https://news.ycombinator.com/item?id=37471417) - [Roll your own QEMU for fun](https://niccs.cisa.gov/education-training/catalog/opensecuritytraininginfo/advanced-x86-virtualization-intel-vt-x)
 * [2023-09-11, 18:20:58](https://news.ycombinator.com/item?id=37471354) - [Doctors Have Been Measuring Blood Pressure All Wrong, Study Finds](https://studyfinds.org/measuring-blood-pressure-wrong/)
 * [2023-09-11, 18:20:58](https://news.ycombinator.com/item?id=37471354) - [Blood pressure should be measured lying down: study](https://newsroom.heart.org/news/high-blood-pressure-while-lying-down-linked-to-higher-risk-of-heart-health-complications)
 * [2023-09-11, 18:18:37](https://news.ycombinator.com/item?id=37471321) - [Mac ROM-Inator II Restock and Partnerships](https://www.bigmessowires.com/2023/09/09/mac-rom-inator-ii-restock-and-partnerships/)
@@ -82,5 +83,6 @@
 * [2023-09-11, 02:22:45](https://news.ycombinator.com/item?id=37462125) - [RestGPT](https://github.com/Yifan-Song793/RestGPT)
 * [2023-09-11, 01:26:39](https://news.ycombinator.com/item?id=37461782) - [The old have come to dominate American politics](https://www.economist.com/graphic-detail/2023/09/08/the-old-have-come-to-dominate-american-politics)
 * [2023-09-11, 01:08:16](https://news.ycombinator.com/item?id=37461695) - [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)
+* [2023-09-11, 00:58:51](https://news.ycombinator.com/item?id=37461632) - [Non-Standard Errors [pdf]](https://statmodeling.stat.columbia.edu/wp-content/uploads/2022/12/HonestHypothesisTestingNonStandardErrors.pdf)
 * [2023-09-11, 00:33:17](https://news.ycombinator.com/item?id=37461489) - [A more dynamic software I/O TLB](https://lwn.net/Articles/940973/)
 * [2023-09-11, 00:25:04](https://news.ycombinator.com/item?id=37461449) - [Microsoft has not stopped forcing Edge on Windows 11 users](https://www.ctrl.blog/entry/windows-system-components-default-edge.html)
