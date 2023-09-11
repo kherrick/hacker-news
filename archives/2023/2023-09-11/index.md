@@ -11,6 +11,7 @@
 * [2023-09-11, 19:19:52](https://news.ycombinator.com/item?id=37472346) - [Roblox Event Canceled After Developer Allegedly Shows Up with High Capacity Mag](https://www.404media.co/roblox-event-canceled-after-developer-shows-up-with-high-capacity-magazine/)
 * [2023-09-11, 19:18:19](https://news.ycombinator.com/item?id=37472323) - [The Private Jet Collection of Google Founders Larry Page and Sergei Brin](https://simpleflying.com/google-founders-private-jet-collection/)
 * [2023-09-11, 18:52:13](https://news.ycombinator.com/item?id=37471909) - [It's robbery': Salvadorans slow to adopt Bitcoin](https://news.yahoo.com/robbery-salvadorans-slow-adopt-bitcoin-191002188.html)
+* [2023-09-11, 18:51:35](https://news.ycombinator.com/item?id=37471901) - [Apple should re-release Safari for Windows](https://twitter.com/cassiozen/status/1701306988611653720)
 * [2023-09-11, 18:32:33](https://news.ycombinator.com/item?id=37471536) - [Starfield Review](https://xander.ai/starfield-review)
 * [2023-09-11, 18:25:02](https://news.ycombinator.com/item?id=37471417) - [Roll your own QEMU for fun](https://niccs.cisa.gov/education-training/catalog/opensecuritytraininginfo/advanced-x86-virtualization-intel-vt-x)
 * [2023-09-11, 18:25:02](https://news.ycombinator.com/item?id=37471417) - [Advanced x86: Virtualization with  Intel VT-x](https://opensecuritytraining.info/AdvancedX86-VTX.html)
