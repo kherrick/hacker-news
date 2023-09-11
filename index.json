@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-09-11, 11:06:53",
-      "https://news.ycombinator.com/item?id=37465480"
-    ],
-    [
-      "Cancer cases in young adults rise by 80% globally",
-      "https://indianexpress.com/article/lifestyle/health/rising-cancer-under-50s-causes-mystery-8931614/"
-    ]
-  ],
-  [
-    [
       "2023-09-11, 10:23:04",
       "https://news.ycombinator.com/item?id=37465185"
     ],
@@ -31,6 +21,16 @@
   ],
   [
     [
+      "2023-09-11, 08:51:22",
+      "https://news.ycombinator.com/item?id=37464576"
+    ],
+    [
+      "Celebrate 30 years of The X-Files with our 30 favorite episodes",
+      "https://arstechnica.com/culture/2023/09/the-truth-is-out-there-celebrate-30-years-of-the-x-files-with-our-30-favorite-episodes/"
+    ]
+  ],
+  [
+    [
       "2023-09-11, 08:50:20",
       "https://news.ycombinator.com/item?id=37464574"
     ],
@@ -41,22 +41,22 @@
   ],
   [
     [
-      "2023-09-11, 08:35:42",
-      "https://news.ycombinator.com/item?id=37464481"
-    ],
-    [
-      "The End of Cheap Europe Flights? France Proposes EU-Wide Minimum Price",
-      "https://www.forbes.com/sites/alexledsom/2023/09/07/the-end-of-cheap-europe-flights-france-proposes-eu-wide-minimum-price/"
-    ]
-  ],
-  [
-    [
       "2023-09-11, 08:32:18",
       "https://news.ycombinator.com/item?id=37464466"
     ],
     [
       "Spain’s Lessons for American Decline",
       "https://compactmag.com/article/spain-s-lessons-for-american-decline"
+    ]
+  ],
+  [
+    [
+      "2023-09-11, 08:27:31",
+      "https://news.ycombinator.com/item?id=37464437"
+    ],
+    [
+      "Altering Python attribute handling for modules",
+      "https://lwn.net/SubscriberLink/943619/eaa8a4496fcba1fd/"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2023-09-10, 20:38:34",
-      "https://news.ycombinator.com/item?id=37459829"
-    ],
-    [
-      "Static Hermes: Compile JavaScript to speed it up 300x (in microbenchmarks)",
-      "https://tmikov.blogspot.com/2023/09/how-to-speed-up-micro-benchmark-300x.html"
-    ]
-  ],
-  [
-    [
       "2023-09-10, 20:07:12",
       "https://news.ycombinator.com/item?id=37459495"
     ],
@@ -247,6 +237,16 @@
     [
       "Ray and Tom Magliozzi, MIT 1999 Commencement Address [video]",
       "https://www.youtube.com/watch?v=KWG1Yxoa_Os"
+    ]
+  ],
+  [
+    [
+      "2023-09-10, 08:10:06",
+      "https://news.ycombinator.com/item?id=37453854"
+    ],
+    [
+      "Nginx Unit – Universal web app server",
+      "https://github.com/nginx/unit"
     ]
   ],
   [
