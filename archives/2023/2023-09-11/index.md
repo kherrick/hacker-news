@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-11](index.md)
 
+* [2023-09-11, 14:00:00](https://news.ycombinator.com/item?id=37467382) - [X updates its terms to ban crawling and scraping](https://techcrunch.com/2023/09/08/x-updates-its-terms-to-ban-crawling-and-scraping/)
 * [2023-09-11, 13:38:05](https://news.ycombinator.com/item?id=37467077) - [9/11 in Realtime](https://911realtime.org:443/)
 * [2023-09-11, 13:12:24](https://news.ycombinator.com/item?id=37466742) - [Linux 6.6 Enables Tracking Per-CPU Cgroup CPU Usage Stats](https://www.phoronix.com/news/Linux-6.6-cgroup)
 * [2023-09-11, 12:51:53](https://news.ycombinator.com/item?id=37466475) - [Unix Domain Sockets vs. Loopback TCP Sockets(2014)](https://nicisdigital.wordpress.com/2014/03/03/unix-domain-sockets-vs-loopback-tcp-sockets/)
