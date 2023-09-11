@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-11, 17:12:56](https://news.ycombinator.com/item?id=37470318) - [Ask HN: Why did Visual Basic die?](https://news.ycombinator.com/item?id=37470318)
 * [2023-09-11, 17:10:06](https://news.ycombinator.com/item?id=37470285) - [Calculate the difference and intersection of any two regexes](http://phylactery.org/antimirov/)
 * [2023-09-11, 16:45:09](https://news.ycombinator.com/item?id=37469920) - [WiFi can read through walls](https://news.ucsb.edu/2023/021198/wifi-can-read-through-walls)
 * [2023-09-11, 16:41:06](https://news.ycombinator.com/item?id=37469857) - [You Don't Need UUID](https://henvic.dev/posts/uuid/)
@@ -25,7 +26,6 @@
 * [2023-09-11, 03:00:24](https://news.ycombinator.com/item?id=37462351) - [Japan launches rocket carrying lunar lander and X-ray telescope](https://phys.org/news/2023-09-japan-rocket-lunar-lander-x-ray.html)
 * [2023-09-11, 02:38:25](https://news.ycombinator.com/item?id=37462208) - [Chronic fatigue syndrome may have a post-viral infection origin](https://medicalxpress.com/news/2023-09-chronic-fatigue-syndrome-post-viral-infection.html)
 * [2023-09-11, 01:08:16](https://news.ycombinator.com/item?id=37461695) - [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)
-* [2023-09-10, 16:31:04](https://news.ycombinator.com/item?id=37457426) - [CityDreamer: Compositional Generative Model of Unbounded 3D Cities](https://arxiv.org/abs/2309.00610)
 * [2023-09-10, 08:52:14](https://news.ycombinator.com/item?id=37454098) - [Ray and Tom Magliozzi, MIT 1999 Commencement Address [video]](https://www.youtube.com/watch?v=KWG1Yxoa_Os)
 * [2023-09-10, 02:22:44](https://news.ycombinator.com/item?id=37452322) - [Flake8-Logging](https://adamj.eu/tech/2023/09/07/introducing-flake8-logging/)
 * [2023-09-09, 18:11:38](https://news.ycombinator.com/item?id=37448381) - [The Rise and (Eventual) Fall of the SIM Card](https://hackaday.com/2023/03/20/the-rise-and-eventual-fall-of-the-sim-card/)
