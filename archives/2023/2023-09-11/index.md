@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-11](index.md)
 
+* [2023-09-11, 12:51:53](https://news.ycombinator.com/item?id=37466475) - [Unix Domain Sockets vs. Loopback TCP Sockets(2014)](https://nicisdigital.wordpress.com/2014/03/03/unix-domain-sockets-vs-loopback-tcp-sockets/)
 * [2023-09-11, 12:35:54](https://news.ycombinator.com/item?id=37466302) - [Intuituvely Understanding Harris Corner Detector](https://comsci.blog/posts/intuitive-harris)
 * [2023-09-11, 12:26:23](https://news.ycombinator.com/item?id=37466208) - [Graphics card generation is over and it was mostly trash](https://www.techradar.com/computing/gpu/this-graphics-card-generation-is-over-and-it-was-mostly-trash)
+* [2023-09-11, 12:26:14](https://news.ycombinator.com/item?id=37466207) - [Beyond OpenAPI](https://antonz.org/interactive-api-tutorials/)
 * [2023-09-11, 12:23:28](https://news.ycombinator.com/item?id=37466182) - [A LLM+OLAP Solution](https://doris.apache.org/zh-CN/blog/Tencent-LLM/)
 * [2023-09-11, 12:23:09](https://news.ycombinator.com/item?id=37466177) - [Retirement: How Fucked Are You?](https://how-f-cked-are-you-98ab6cdc8944.herokuapp.com/)
 * [2023-09-11, 12:20:43](https://news.ycombinator.com/item?id=37466147) - [Networking for Introverts: A How-To Guide](https://www.economist.com/business/2023/09/07/networking-for-introverts-a-how-to-guide)
