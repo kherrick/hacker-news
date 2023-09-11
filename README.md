@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-10, 23:02:53](https://news.ycombinator.com/item?id=37460974) - [The New Clubhouse](https://blog.clubhouse.com/the-new-clubhouse/)
+* [2023-09-10, 22:57:00](https://news.ycombinator.com/item?id=37460941) - [To Make Dishwashers Great Again? (2020)](https://www.greenbuildinglawupdate.com/2020/11/articles/environmental/to-make-dishwashers-great-again/)
 * [2023-09-10, 22:36:27](https://news.ycombinator.com/item?id=37460817) - [Superbatteries will transform the performance of EVs](https://www.economist.com/science-and-technology/2023/08/23/superbatteries-will-transform-the-performance-of-evs)
 * [2023-09-10, 22:36:24](https://news.ycombinator.com/item?id=37460815) - [The Awk book’s 60-line version of Make](https://benhoyt.com/writings/awk-make/)
 * [2023-09-10, 22:10:09](https://news.ycombinator.com/item?id=37460614) - [RISC-V SBI and the full boot process](https://popovicu.com/posts/risc-v-sbi-and-full-boot-process/)
@@ -21,7 +22,6 @@
 * [2023-09-10, 12:51:24](https://news.ycombinator.com/item?id=37455382) - [Is air conditioning making cities hotter?](https://www.euronews.com/green/2023/08/30/fact-check-is-air-conditioning-making-cities-hotter)
 * [2023-09-10, 11:30:29](https://news.ycombinator.com/item?id=37454853) - [“Make” as a static site generator (2022)](https://www.karl.berlin/static-site.html)
 * [2023-09-10, 11:12:13](https://news.ycombinator.com/item?id=37454766) - [I wired up my bike's GPS to order me pizza during a gravel race](https://steele.blue/geofence-pizza-ordering/)
-* [2023-09-10, 10:59:49](https://news.ycombinator.com/item?id=37454707) - [New JFK assassination revelation could upend the lone gunman theory](https://www.vanityfair.com/news/2023/09/new-jfk-assassination-revelation-upend-lone-gunman)
 * [2023-09-10, 09:40:19](https://news.ycombinator.com/item?id=37454301) - [Breathing life back into a Minitel 1B with the Minimit](https://blog.jgc.org/2023/09/breathing-life-back-into-minitel-1b.html)
 * [2023-09-10, 02:23:55](https://news.ycombinator.com/item?id=37452330) - [The Wachowskis and the Hacker as a progressive archetype](https://www.datagubbe.se/proghack/)
 * [2023-09-09, 16:29:02](https://news.ycombinator.com/item?id=37447163) - [Effectiveness of wearable activity trackers to increase physical activity](https://www.thelancet.com/journals/landig/article/PIIS2589-75002200111-X/fulltext)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-10](index.md)
 
 * [2023-09-10, 23:02:53](https://news.ycombinator.com/item?id=37460974) - [The New Clubhouse](https://blog.clubhouse.com/the-new-clubhouse/)
+* [2023-09-10, 22:57:00](https://news.ycombinator.com/item?id=37460941) - [To Make Dishwashers Great Again? (2020)](https://www.greenbuildinglawupdate.com/2020/11/articles/environmental/to-make-dishwashers-great-again/)
 * [2023-09-10, 22:36:27](https://news.ycombinator.com/item?id=37460817) - [Superbatteries will transform the performance of EVs](https://www.economist.com/science-and-technology/2023/08/23/superbatteries-will-transform-the-performance-of-evs)
 * [2023-09-10, 22:36:24](https://news.ycombinator.com/item?id=37460815) - [The Awk book’s 60-line version of Make](https://benhoyt.com/writings/awk-make/)
 * [2023-09-10, 22:10:09](https://news.ycombinator.com/item?id=37460614) - [RISC-V SBI and the full boot process](https://popovicu.com/posts/risc-v-sbi-and-full-boot-process/)
