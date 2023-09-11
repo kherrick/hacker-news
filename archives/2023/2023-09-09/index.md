@@ -97,6 +97,7 @@
 * [2023-09-09, 05:56:03](https://news.ycombinator.com/item?id=37442649) - [Embeddable Common Lisp 23.9.9](https://ecl.common-lisp.dev/posts/ECL-2399-release.html)
 * [2023-09-09, 05:36:22](https://news.ycombinator.com/item?id=37442574) - [Advanced NLP with SpaCy](https://course.spacy.io/en/)
 * [2023-09-09, 04:55:23](https://news.ycombinator.com/item?id=37442417) - [The Holy Heresies of George Eliot](https://www.newyorker.com/magazine/2023/09/11/the-marriage-question-george-eliots-double-life-clare-carlisle-book-review)
+* [2023-09-09, 04:27:40](https://news.ycombinator.com/item?id=37442290) - [What Happened at an Ancient Roman Funeral?](https://www.getty.edu/news/what-happened-at-an-ancient-roman-funeral/)
 * [2023-09-09, 04:16:23](https://news.ycombinator.com/item?id=37442235) - [The Works of Mars (1671)](https://publicdomainreview.org/collection/arbeid-van-mars/)
 * [2023-09-09, 03:42:53](https://news.ycombinator.com/item?id=37442064) - [Julia and Mojo (Modular) Mandelbrot Benchmark](https://discourse.julialang.org/t/julia-mojo-mandelbrot-benchmark/103638)
 * [2023-09-09, 03:26:37](https://news.ycombinator.com/item?id=37441982) - [FTC judge rules Intuit broke law, must stop advertising TurboTax as “free”](https://arstechnica.com/tech-policy/2023/09/ftc-judge-rules-intuit-broke-law-must-stop-advertising-turbotax-as-free/)
