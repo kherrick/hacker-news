@@ -70,6 +70,7 @@
 * [2023-09-10, 06:41:20](https://news.ycombinator.com/item?id=37453465) - [ZF makes magnet-free electric motor uniquely compact and competitive](https://press.zf.com/press/en/releases/release_60480.html)
 * [2023-09-10, 06:24:30](https://news.ycombinator.com/item?id=37453412) - [New solar energy storage tech opened in Australia](https://reneweconomy.com.au/the-australian-solar-tech-that-may-have-found-a-low-cost-solution-to-deep-storage/)
 * [2023-09-10, 04:25:15](https://news.ycombinator.com/item?id=37452895) - [How Skeletal Muscle Mass Impacts Cognitive Health](https://gethealthspan.com/blog/articles/skeletal-muscle-impact-on-cognitive-health/5d43mmao0pjucjmjqsjsol/)
+* [2023-09-10, 04:18:36](https://news.ycombinator.com/item?id=37452868) - [The “Madame B Album” (ca. 1870s)](https://publicdomainreview.org/collection/madame-b-album/)
 * [2023-09-10, 04:07:19](https://news.ycombinator.com/item?id=37452801) - [Moral Crumple Zones: Cautionary Tales in Human-Robot Interaction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2757236)
 * [2023-09-10, 03:02:38](https://news.ycombinator.com/item?id=37452528) - [Magic and Loss, Part 1: Magic in the Cards](https://www.filfre.net/2023/09/magic-and-loss-part-1-magic-in-the-cards/)
 * [2023-09-10, 02:23:55](https://news.ycombinator.com/item?id=37452330) - [The Wachowskis and the Hacker as a progressive archetype](https://www.datagubbe.se/proghack/)
