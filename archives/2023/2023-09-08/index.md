@@ -15,6 +15,7 @@
 * [2023-09-08, 22:26:51](https://news.ycombinator.com/item?id=37440104) - [Defcon talk shows cops are trackable, like AirTags](https://blog.dataparty.xyz/blog/snoop-unto-them/)
 * [2023-09-08, 22:08:38](https://news.ycombinator.com/item?id=37439969) - [Differentiation is the only way to win in SaaS](https://ideahub.beehiiv.com/p/how-to-differentiate-your-saas-product)
 * [2023-09-08, 21:53:57](https://news.ycombinator.com/item?id=37439860) - [McDonald's to retire self-service soda fountains by 2032](https://www.sj-r.com/story/entertainment/dining/2023/09/08/mcdonalds-ending-self-service-soda-fountain-drink-stations/70785168007/)
+* [2023-09-08, 21:35:46](https://news.ycombinator.com/item?id=37439732) - [The Carrington Event of 1859 and the Potential for a “Miyake Event”](https://daily.jstor.org/the-carrington-event-of-1859-disrupted-telegraph-lines/)
 * [2023-09-08, 21:17:24](https://news.ycombinator.com/item?id=37439553) - [The Absence of Data Privacy Law Is a National Security Threat](https://nationalinterest.org/blog/techland/absence-data-privacy-law-national-security-threat-206773)
 * [2023-09-08, 21:15:52](https://news.ycombinator.com/item?id=37439535) - [Decoded: GNU Coreutils](https://maizure.org/projects/decoded-gnu-coreutils/)
 * [2023-09-08, 21:03:19](https://news.ycombinator.com/item?id=37439391) - [The rxv64 Operating System: MIT's xv6, in Rust, for SMP x86_64 machines](https://github.com/dancrossnyc/rxv64)

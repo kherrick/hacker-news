@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-11, 06:33:15](https://news.ycombinator.com/item?id=37463662) - [A group of open source Android apps without ads and unnecessary permissions](https://www.simplemobiletools.com)
 * [2023-09-11, 03:34:14](https://news.ycombinator.com/item?id=37462564) - [A Student-Debt Bubble Fueled a Housing Bubble](https://www.wsj.com/articles/the-student-debt-bubble-fueled-a-housing-bubble-debt-income-obama-fannie-freddie-bd29b05c)
 * [2023-09-11, 03:00:24](https://news.ycombinator.com/item?id=37462351) - [Japan launches rocket carrying lunar lander and X-ray telescope](https://phys.org/news/2023-09-japan-rocket-lunar-lander-x-ray.html)
 * [2023-09-11, 02:53:09](https://news.ycombinator.com/item?id=37462315) - [Pure WASM Life 2: Optimizing WebAssembly and Canvas](https://ashen.earth/wasm-game-of-life-2)
@@ -20,14 +21,13 @@
 * [2023-09-10, 16:46:23](https://news.ycombinator.com/item?id=37457609) - [Show HN: Erlmacs – a script to update your .emacs file for Erlang development](https://github.com/dlachausse/erlmacs)
 * [2023-09-10, 16:12:11](https://news.ycombinator.com/item?id=37457208) - [What I have changed my mind about in software development](https://henrikwarne.com/2023/09/10/what-i-have-changed-my-mind-about-in-software-development/)
 * [2023-09-10, 15:03:53](https://news.ycombinator.com/item?id=37456471) - [Peredvizhnikov Engine: Lock-free game engine written in C++20](https://github.com/eduard-permyakov/peredvizhnikov-engine)
-* [2023-09-10, 13:28:25](https://news.ycombinator.com/item?id=37455621) - [How does Linux NAT a ping?](https://devnonsense.com/posts/how-does-linux-nat-a-ping/)
 * [2023-09-10, 08:10:06](https://news.ycombinator.com/item?id=37453854) - [Nginx Unit – Universal web app server](https://github.com/nginx/unit)
 * [2023-09-10, 01:57:59](https://news.ycombinator.com/item?id=37452210) - [TextViewBenchmark: A suite of performance tests for macOS text views](https://github.com/ChimeHQ/TextViewBenchmark)
-* [2023-09-09, 22:27:16](https://news.ycombinator.com/item?id=37450915) - [Lithium discovery in US volcano could be biggest deposit ever found](https://www.chemistryworld.com/news/lithium-discovery-in-us-volcano-could-be-biggest-deposit-ever-found/4018032.article)
 * [2023-09-09, 16:29:02](https://news.ycombinator.com/item?id=37447163) - [Effectiveness of wearable activity trackers to increase physical activity](https://www.thelancet.com/journals/landig/article/PIIS2589-75002200111-X/fulltext)
 * [2023-09-09, 12:11:08](https://news.ycombinator.com/item?id=37444411) - [Show HN: Code Indexer Loop](https://github.com/definitive-io/code-indexer-loop)
 * [2023-09-09, 11:17:36](https://news.ycombinator.com/item?id=37444095) - [Ham Imports](https://hamimports.com/)
 * [2023-09-09, 04:27:40](https://news.ycombinator.com/item?id=37442290) - [What Happened at an Ancient Roman Funeral?](https://www.getty.edu/news/what-happened-at-an-ancient-roman-funeral/)
+* [2023-09-08, 21:35:46](https://news.ycombinator.com/item?id=37439732) - [The Carrington Event of 1859 and the Potential for a “Miyake Event”](https://daily.jstor.org/the-carrington-event-of-1859-disrupted-telegraph-lines/)
 * [2023-09-07, 22:39:18](https://news.ycombinator.com/item?id=37426601) - [The computational power of the human brain](https://www.frontiersin.org/articles/10.3389/fncel.2023.1220030/full)
 * [2023-09-07, 15:53:34](https://news.ycombinator.com/item?id=37420834) - [The Dendera Dating Controversy](https://www.historytoday.com/archive/great-debates/signs-zodiac-dendera-dating-controversy)
 
