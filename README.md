@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-11, 03:57:50](https://news.ycombinator.com/item?id=37462694) - [Upcoming LK-99 paper will reportedly verify the superconductor](https://technology.inquirer.net/127825/lk-99-paper)
 * [2023-09-11, 03:34:14](https://news.ycombinator.com/item?id=37462564) - [A Student-Debt Bubble Fueled a Housing Bubble](https://www.wsj.com/articles/the-student-debt-bubble-fueled-a-housing-bubble-debt-income-obama-fannie-freddie-bd29b05c)
 * [2023-09-11, 03:00:24](https://news.ycombinator.com/item?id=37462351) - [Japan launches rocket carrying lunar lander and X-ray telescope](https://phys.org/news/2023-09-japan-rocket-lunar-lander-x-ray.html)
 * [2023-09-11, 02:53:09](https://news.ycombinator.com/item?id=37462315) - [Pure WASM Life 2: Optimizing WebAssembly and Canvas](https://ashen.earth/wasm-game-of-life-2)
@@ -20,6 +19,7 @@
 * [2023-09-10, 18:48:07](https://news.ycombinator.com/item?id=37458753) - [Battery-electric fishing vessel marks a sea change for small commercial fishers](https://www.nrel.gov/news/program/2023/battery-electric-fishing-vessel-marks-a-sea-change-for-small-commercial-fishers.html)
 * [2023-09-10, 16:46:23](https://news.ycombinator.com/item?id=37457609) - [Show HN: Erlmacs – a script to update your .emacs file for Erlang development](https://github.com/dlachausse/erlmacs)
 * [2023-09-10, 16:12:11](https://news.ycombinator.com/item?id=37457208) - [What I have changed my mind about in software development](https://henrikwarne.com/2023/09/10/what-i-have-changed-my-mind-about-in-software-development/)
+* [2023-09-10, 15:56:07](https://news.ycombinator.com/item?id=37457051) - [New Bézier curves for vector graphics](https://ad8e.pages.dev/curve)
 * [2023-09-10, 15:03:53](https://news.ycombinator.com/item?id=37456471) - [Peredvizhnikov Engine: Lock-free game engine written in C++20](https://github.com/eduard-permyakov/peredvizhnikov-engine)
 * [2023-09-10, 13:28:25](https://news.ycombinator.com/item?id=37455621) - [How does Linux NAT a ping?](https://devnonsense.com/posts/how-does-linux-nat-a-ping/)
 * [2023-09-10, 08:10:06](https://news.ycombinator.com/item?id=37453854) - [Nginx Unit – Universal web app server](https://github.com/nginx/unit)
