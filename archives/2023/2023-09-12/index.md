@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
 * [2023-09-12, 18:23:09](https://news.ycombinator.com/item?id=37485290) - [Apple debuts iPhone 15 and iPhone 15 Plus](https://www.apple.com/newsroom/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/)
+* [2023-09-12, 18:21:42](https://news.ycombinator.com/item?id=37485271) - [Apple iPhone 15 Pro and iPhone 15 Pro Max](https://www.apple.com/newsroom/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/)
 * [2023-09-12, 17:51:50](https://news.ycombinator.com/item?id=37484897) - [Apple ditches the Lightning connector in favor of USB-C after 11 years](https://techcrunch.com/2023/09/12/bye-lightning-hello-usb-c/)
 * [2023-09-12, 17:08:29](https://news.ycombinator.com/item?id=37484352) - [Mystery ‘blue lights’ flash in sky moments before Morocco earthquake](https://www.thesun.co.uk/news/23911027/mystery-blue-lights-morocco-earthquake/)
 * [2023-09-12, 17:01:20](https://news.ycombinator.com/item?id=37484260) - [Covid patients breathe out large amounts of virus early on](https://news.northwestern.edu/stories/2023/09/covid-patients-exhale-up-to-1000-copies-of-virus-per-minute-during-first-eight-days-of-symptoms/)
