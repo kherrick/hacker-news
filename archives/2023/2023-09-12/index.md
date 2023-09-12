@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
+* [2023-09-12, 07:14:28](https://news.ycombinator.com/item?id=37477739) - [Jwz: The only planet where 100% of Linux systems have working audio is Mars](https://mastodon.social/@jwz/111048777391239744)
 * [2023-09-12, 07:03:49](https://news.ycombinator.com/item?id=37477683) - [NASA says distant exoplanet could have rare water ocean, possible hint of life](https://www.theguardian.com/science/2023/sep/11/nasa-planet-ocean-life-james-webb-telescope)
 * [2023-09-12, 06:37:39](https://news.ycombinator.com/item?id=37477558) - [Reasons to not use your own domain for email](https://www.bautista.dev/reasons-to-not-use-your-own-domain-for-email)
 * [2023-09-12, 06:32:47](https://news.ycombinator.com/item?id=37477526) - [What’s the Smallest Variety of CHERI? (2022)](https://msrc.microsoft.com/blog/2022/09/whats-the-smallest-variety-of-cheri/)
