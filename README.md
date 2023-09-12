@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-12, 22:06:14](https://news.ycombinator.com/item?id=37489200) - [Greatest Films of All Time](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time)
+* [2023-09-12, 22:06:14](https://news.ycombinator.com/item?id=37489200) - [The Sight and Sound “Greatest Films of All Time“ poll](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time)
 * [2023-09-12, 21:33:13](https://news.ycombinator.com/item?id=37488762) - [What the interns have wrought, 2023 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2023/)
 * [2023-09-12, 21:00:00](https://news.ycombinator.com/item?id=37488252) - [JustPaid.io (YC W23) is hiring a senior full stack engineer](https://www.justpaid.io/careers)
-* [2023-09-12, 20:40:42](https://news.ycombinator.com/item?id=37487926) - [Gmail and Instagram are training AI, and there’s little you can do about it](https://www.washingtonpost.com/technology/2023/09/08/gmail-instagram-facebook-trains-ai/)
 * [2023-09-12, 20:03:44](https://news.ycombinator.com/item?id=37487306) - [Electric cooling could shrink quantum computers](https://spectrum.ieee.org/cryogenics)
 * [2023-09-12, 19:46:07](https://news.ycombinator.com/item?id=37486946) - [Free Download Manager backdoored – a possible supply chain attack on Linux](https://securelist.com/backdoored-free-download-manager-linux-malware/110465/)
 * [2023-09-12, 19:42:57](https://news.ycombinator.com/item?id=37486882) - [The way that Jensen Huang runs Nvidia: 40 direct reports, no 1:1s](https://twitter.com/danhockenmaier/status/1701608618087571787)
@@ -25,11 +24,12 @@
 * [2023-09-12, 06:55:56](https://news.ycombinator.com/item?id=37477643) - [Black currants were banned in the USA (2017)](https://foodtolive.com/healthy-blog/black-currants-banned-usa/)
 * [2023-09-12, 06:32:47](https://news.ycombinator.com/item?id=37477526) - [What’s the Smallest Variety of CHERI? (2022)](https://msrc.microsoft.com/blog/2022/09/whats-the-smallest-variety-of-cheri/)
 * [2023-09-11, 19:19:28](https://news.ycombinator.com/item?id=37472340) - [RetroAchievements: Adding achievements to retro games](https://retroachievements.org)
-* [2023-09-11, 18:01:38](https://news.ycombinator.com/item?id=37471055) - [Integrating C++ header units into Office using MSVC (2/n)](https://devblogs.microsoft.com/cppblog/integrating-c-header-units-into-office-using-msvc-2-n/)
+* [2023-09-11, 18:03:10](https://news.ycombinator.com/item?id=37471077) - [Protohackers Learnings](https://geekingfrog.com/blog/post/protohackers-learnings)
 * [2023-09-11, 16:23:47](https://news.ycombinator.com/item?id=37469590) - [Homemade Sriracha](https://www.seriouseats.com/sriracha-recipe-from-scratch)
 * [2023-09-11, 15:11:20](https://news.ycombinator.com/item?id=37468454) - [Effect of breathwork on stress and mental health: A meta-analysis of RCTs](https://www.nature.com/articles/s41598-022-27247-y)
 * [2023-09-11, 11:18:42](https://news.ycombinator.com/item?id=37465586) - [CHART: Completely Hackable Amateur Radio Telescope](https://astrochart.github.io/)
 * [2023-09-11, 09:50:36](https://news.ycombinator.com/item?id=37464950) - [Visualizing the CPython Release Process](https://sethmlarson.dev/security-developer-in-residence-weekly-report-9?date=2023-09-05)
+* [2023-09-11, 06:15:59](https://news.ycombinator.com/item?id=37463534) - [Drying Fruits (2003)](https://nchfp.uga.edu/how/dry/csu_dry_fruits.pdf)
 
 ## [Archives](archives/index.md)
 
