@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
 * [2023-09-12, 14:07:08](https://news.ycombinator.com/item?id=37481513) - [We built the fastest CI in the world. It failed](https://earthly.dev/blog/shutting-down-earthly-ci/)
+* [2023-09-12, 14:01:01](https://news.ycombinator.com/item?id=37481424) - [How to run a competitive AI startup fundraise in 2023](https://context.ai/post/how-to-run-a-competitive-ai-startup-fundraise-in-2023)
 * [2023-09-12, 13:55:54](https://news.ycombinator.com/item?id=37481344) - [Unity plan pricing and packaging updates](https://blog.unity.com/news/plan-pricing-and-packaging-updates)
 * [2023-09-12, 13:45:31](https://news.ycombinator.com/item?id=37481166) - [The Relativity of Wrong by Isaac Asimov](https://hermiene.net/essays-trans/relativity_of_wrong.html)
 * [2023-09-12, 13:20:00](https://news.ycombinator.com/item?id=37480763) - [A phone cleaning app makes $2M/mo on the App Store – The reviews show how](https://www.undefinedapps.com/post/analyze-app-store-reviews-app-storage-cleanup)
