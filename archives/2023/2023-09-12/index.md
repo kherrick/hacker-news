@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
+* [2023-09-12, 17:08:29](https://news.ycombinator.com/item?id=37484352) - [Mystery ‘blue lights’ flash in sky moments before Morocco earthquake](https://www.thesun.co.uk/news/23911027/mystery-blue-lights-morocco-earthquake/)
 * [2023-09-12, 17:01:17](https://news.ycombinator.com/item?id=37484259) - [Finley (YC W21) Is Hiring for Customer Success Managers in Software (US Remote)](https://jobs.lever.co/FinleyTechnologies/0a143938-ef2a-47f3-a4c0-861ac68fb1b0)
 * [2023-09-12, 16:53:51](https://news.ycombinator.com/item?id=37484135) - [Show HN: Fine-tune your own Llama 2 to replace GPT-3.5/4](https://news.ycombinator.com/item?id=37484135)
+* [2023-09-12, 16:23:36](https://news.ycombinator.com/item?id=37483652) - [Happy 65th Birthday, Integrated Circuit](https://thechipletter.substack.com/p/happy-65th-birthday-integrated-circuit)
 * [2023-09-12, 16:04:31](https://news.ycombinator.com/item?id=37483348) - [Dementia risk is highest if you sit for longer than 10 hours each day](https://www.dailymail.co.uk/health/article-12508827/Dementia-warning-10-hours-sitting-spikes-risk.html)
 * [2023-09-12, 16:00:57](https://news.ycombinator.com/item?id=37483288) - [Obsidian 1.4.10 Desktop (Public)](https://obsidian.md/changelog/2023-09-11-desktop-v1.4.10/)
 * [2023-09-12, 15:57:16](https://news.ycombinator.com/item?id=37483226) - [Brain hemorrhage transmissible via blood transfusion](https://jamanetwork.com/journals/jama/article-abstract/2809443)
