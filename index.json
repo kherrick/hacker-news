@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-12, 15:57:16",
+      "https://news.ycombinator.com/item?id=37483226"
+    ],
+    [
+      "Brain hemorrhage transmissible via blood transfusion",
+      "https://jamanetwork.com/journals/jama/article-abstract/2809443"
+    ]
+  ],
+  [
+    [
       "2023-09-12, 15:21:47",
       "https://news.ycombinator.com/item?id=37482646"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2023-09-12, 15:10:04",
+      "https://news.ycombinator.com/item?id=37482455"
+    ],
+    [
+      "Specter of AI-Generated 'Leaked Songs' Is Tearing the Harry Styles Fandom Apart",
+      "https://www.404media.co/harry-styles-one-direction-ai-leaked-songs/"
+    ]
+  ],
+  [
+    [
       "2023-09-12, 14:53:36",
       "https://news.ycombinator.com/item?id=37482220"
     ],
@@ -51,12 +71,12 @@
   ],
   [
     [
-      "2023-09-12, 14:28:34",
-      "https://news.ycombinator.com/item?id=37481867"
+      "2023-09-12, 14:28:47",
+      "https://news.ycombinator.com/item?id=37481872"
     ],
     [
-      "AI Tool Directory – Curated AI Product Review Site",
-      "https://tooldirectory.ai"
+      "The New Godot Development Fund",
+      "https://godotengine.org/article/godot-developer-fund/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-09-12, 12:03:34",
-      "https://news.ycombinator.com/item?id=37479774"
-    ],
-    [
-      "Vitalik Buterin reveals X account hack was caused by SIM-swap attack",
-      "https://cointelegraph.com/news/vitalik-buterin-reveals-x-account-hack-was-caused-by-sim-swap-attack"
-    ]
-  ],
-  [
-    [
       "2023-09-12, 12:00:57",
       "https://news.ycombinator.com/item?id=37479749"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2023-09-12, 09:48:33",
-      "https://news.ycombinator.com/item?id=37478755"
-    ],
-    [
-      "OpenBSD p2k23 Hackathon landry on chasing memory corruptions",
-      "https://undeadly.org/cgi?action=article;sid=20230912094727"
-    ]
-  ],
-  [
-    [
       "2023-09-12, 08:58:42",
       "https://news.ycombinator.com/item?id=37478403"
     ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=37477512"
     ],
     [
-      "Open source P2P alternative to Slack and Discord built on Tor and IPFS",
+      "Quiet – Encrypted P2P team chat with no servers, just Tor",
       "https://github.com/TryQuiet/quiet"
     ]
   ],
