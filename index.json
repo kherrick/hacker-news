@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-12, 14:07:08",
+      "https://news.ycombinator.com/item?id=37481513"
+    ],
+    [
+      "We built the fastest CI in the world. It failed",
+      "https://earthly.dev/blog/shutting-down-earthly-ci/"
+    ]
+  ],
+  [
+    [
       "2023-09-12, 13:55:54",
       "https://news.ycombinator.com/item?id=37481344"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=37481166"
     ],
     [
-      "The Relativity of Wrong by Isaac Asimov",
+      "The Relativity of Wrong (1989)",
       "https://hermiene.net/essays-trans/relativity_of_wrong.html"
     ]
   ],
@@ -51,6 +61,16 @@
   ],
   [
     [
+      "2023-09-12, 12:59:45",
+      "https://news.ycombinator.com/item?id=37480475"
+    ],
+    [
+      "TradingGPT: LLM multi-agent framework for enhanced financial trading performance",
+      "https://arxiv.org/abs/2309.03736"
+    ]
+  ],
+  [
+    [
       "2023-09-12, 12:49:46",
       "https://news.ycombinator.com/item?id=37480359"
     ],
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=37480313"
     ],
     [
-      "Physicists Create Elusive Particles That Remember Their Pasts",
+      "Physicists create elusive particles that remember their pasts",
       "https://www.quantamagazine.org/physicists-create-elusive-particles-that-remember-their-pasts-20230509/"
     ]
   ],
@@ -87,26 +107,6 @@
     [
       "TikTok Shop",
       "https://newsroom.tiktok.com/en-us/introducing-tiktok-shop"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 12:42:48",
-      "https://news.ycombinator.com/item?id=37480271"
-    ],
-    [
-      "U.S. v. Google",
-      "https://www.wsj.com/tech/google-antitrust-trial-doj-search-91d32f8f"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 12:42:02",
-      "https://news.ycombinator.com/item?id=37480260"
-    ],
-    [
-      "Painting Wind Turbine Blades Black Help Birds Avoid Deadly Collisions",
-      "https://www.smithsonianmag.com/smart-news/black-wind-turbine-blades-help-birds-avoid-deadly-collisions-180975668/"
     ]
   ],
   [
@@ -145,18 +145,8 @@
       "https://news.ycombinator.com/item?id=37479641"
     ],
     [
-      "You're Barely Managing",
+      "You're barely managing",
       "https://barely-managing.bearblog.dev/youre-barely-managing/"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 11:36:24",
-      "https://news.ycombinator.com/item?id=37479515"
-    ],
-    [
-      "Dutch groups sue Google over alleged privacy violations",
-      "https://www.reuters.com/technology/dutch-groups-sue-google-over-alleged-privacy-violations-2023-09-12/"
     ]
   ],
   [
@@ -187,6 +177,16 @@
     [
       "UK Energy Bill 2023 and the Fusion of Technology and Law",
       "https://newsfromuncibal.substack.com/p/the-energy-bill-2023-and-the-fusion"
+    ]
+  ],
+  [
+    [
+      "2023-09-12, 09:48:33",
+      "https://news.ycombinator.com/item?id=37478755"
+    ],
+    [
+      "OpenBSD p2k23 Hackathon landry on chasing memory corruptions",
+      "https://undeadly.org/cgi?action=article;sid=20230912094727"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2023-09-10, 07:41:24",
-      "https://news.ycombinator.com/item?id=37453705"
+      "2023-09-11, 03:28:23",
+      "https://news.ycombinator.com/item?id=37462539"
     ],
     [
-      "10th Rule of Programming (2003)",
-      "https://philip.greenspun.com/bboard/q-and-a-fetch-msg?msg_id=000tgU"
+      "Undying Dread: A 400-Year-Old Corpse, Locked to Its Grave",
+      "https://www.nytimes.com/2023/09/05/science/archaeology-burial-vampires-revenants.html"
     ]
   ],
   [
