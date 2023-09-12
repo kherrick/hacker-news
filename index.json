@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-09-11, 23:10:53",
-      "https://news.ycombinator.com/item?id=37474935"
+      "2023-09-12, 00:40:04",
+      "https://news.ycombinator.com/item?id=37475604"
     ],
     [
-      "Corporate Capture in California",
-      "https://prospect.org/infrastructure/transportation/2023-09-11-corporate-capture-california-waymo-robotaxies/"
+      "A boy saw 17 doctors over 3 years for pain. ChatGPT found the right diagnosis",
+      "https://www.today.com/health/mom-chatgpt-diagnosis-pain-rcna101843"
+    ]
+  ],
+  [
+    [
+      "2023-09-11, 22:58:38",
+      "https://news.ycombinator.com/item?id=37474837"
+    ],
+    [
+      "Deno vs. Bun vs. Node.js: A feature comparison",
+      "https://dev.hexagon.56k.guru/posts/deno-vs-bun-vs-node/"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=37474780"
     ],
     [
-      "I Can't Believe Neopets Is Still Around",
+      "Neopets is still around",
       "https://www.dualshockers.com/neopets-is-still-active-2023/"
     ]
   ],
@@ -27,16 +37,6 @@
     [
       "Onboarding Floating-Point",
       "https://www.altdevarts.com/p/onboarding-floating-point"
-    ]
-  ],
-  [
-    [
-      "2023-09-11, 21:00:20",
-      "https://news.ycombinator.com/item?id=37473628"
-    ],
-    [
-      "Microsoft to kill off third-party printer drivers in Windows",
-      "https://www.theregister.com/2023/09/11/go_native_or_go_home/"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2023-09-11, 12:23:28",
-      "https://news.ycombinator.com/item?id=37466182"
-    ],
-    [
-      "A LLM+OLAP Solution",
-      "https://doris.apache.org/zh-CN/blog/Tencent-LLM/"
-    ]
-  ],
-  [
-    [
       "2023-09-11, 12:06:28",
       "https://news.ycombinator.com/item?id=37466027"
     ],
@@ -277,6 +267,16 @@
     [
       "Non-Standard Errors [pdf]",
       "https://statmodeling.stat.columbia.edu/wp-content/uploads/2022/12/HonestHypothesisTestingNonStandardErrors.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-09-10, 05:50:56",
+      "https://news.ycombinator.com/item?id=37453264"
+    ],
+    [
+      "How to Beat the Cap Theorem",
+      "http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html"
     ]
   ],
   [
