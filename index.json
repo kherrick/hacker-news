@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-09-12, 14:53:36",
+      "https://news.ycombinator.com/item?id=37482220"
+    ],
+    [
+      "Building a Blog in Django",
+      "https://til.simonwillison.net/django/building-a-blog-in-django"
+    ]
+  ],
+  [
+    [
       "2023-09-12, 14:42:26",
       "https://news.ycombinator.com/item?id=37482058"
     ],
@@ -197,16 +207,6 @@
     [
       "OpenBSD p2k23 Hackathon landry on chasing memory corruptions",
       "https://undeadly.org/cgi?action=article;sid=20230912094727"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 09:47:17",
-      "https://news.ycombinator.com/item?id=37478748"
-    ],
-    [
-      "How to Improve Rails Caching with Brotli Compression",
-      "https://pawelurbanek.com/rails-brotli-cache"
     ]
   ],
   [
