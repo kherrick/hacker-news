@@ -4,7 +4,6 @@
 * [2023-09-12, 19:29:39](https://news.ycombinator.com/item?id=37486651) - [PeerReview4All: Fair and Accurate Reviewer Assignment in Peer Review](https://arxiv.org/abs/1806.06237)
 * [2023-09-12, 19:18:34](https://news.ycombinator.com/item?id=37486431) - [The Death of Unity](https://www.gamedeveloper.com/business/the-death-of-unity)
 * [2023-09-12, 19:12:13](https://news.ycombinator.com/item?id=37486307) - [A small Universe](https://arxiv.org/abs/2309.03272)
-* [2023-09-12, 18:50:14](https://news.ycombinator.com/item?id=37485890) - [OpenAI Aquires the Domain Chatgpt.com](https://twitter.com/RickLatona/status/1701369124314665350)
 * [2023-09-12, 18:29:04](https://news.ycombinator.com/item?id=37485387) - [The Rules of Margin Collapse](https://www.joshwcomeau.com/css/rules-of-margin-collapse/)
 * [2023-09-12, 18:23:09](https://news.ycombinator.com/item?id=37485290) - [iPhone 15 and iPhone 15 Plus](https://www.apple.com/newsroom/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/)
 * [2023-09-12, 18:21:42](https://news.ycombinator.com/item?id=37485271) - [Apple iPhone 15 Pro and iPhone 15 Pro Max](https://www.apple.com/newsroom/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/)
@@ -29,6 +28,7 @@
 * [2023-09-11, 19:19:28](https://news.ycombinator.com/item?id=37472340) - [RetroAchievements: Adding Achievements to Retro Games](https://retroachievements.org)
 * [2023-09-11, 16:23:47](https://news.ycombinator.com/item?id=37469590) - [Homemade Sriracha](https://www.seriouseats.com/sriracha-recipe-from-scratch)
 * [2023-09-11, 11:18:42](https://news.ycombinator.com/item?id=37465586) - [Chart – Completely Hackable Amateur Radio Telescope](https://astrochart.github.io/)
+* [2023-09-11, 09:55:18](https://news.ycombinator.com/item?id=37464988) - [Falling for Oklch: A Love Story of Color Spaces, Gamuts, and CSS](https://www.smashingmagazine.com/2023/08/oklch-color-spaces-gamuts-css/)
 * [2023-09-11, 09:50:36](https://news.ycombinator.com/item?id=37464950) - [Visualizing the CPython Release Process](https://sethmlarson.dev/security-developer-in-residence-weekly-report-9?date=2023-09-05)
 
 ## [Archives](archives/index.md)
