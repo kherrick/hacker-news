@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-12, 14:07:08](https://news.ycombinator.com/item?id=37481513) - [We built the fastest CI in the world. It failed](https://earthly.dev/blog/shutting-down-earthly-ci/)
+* [2023-09-12, 14:07:08](https://news.ycombinator.com/item?id=37481513) - [We built the fastest CI in the world and it failed](https://earthly.dev/blog/shutting-down-earthly-ci/)
 * [2023-09-12, 13:55:54](https://news.ycombinator.com/item?id=37481344) - [Unity plan pricing and packaging updates](https://blog.unity.com/news/plan-pricing-and-packaging-updates)
 * [2023-09-12, 13:45:31](https://news.ycombinator.com/item?id=37481166) - [The Relativity of Wrong (1989)](https://hermiene.net/essays-trans/relativity_of_wrong.html)
 * [2023-09-12, 13:06:51](https://news.ycombinator.com/item?id=37480564) - [My time with Rails is up (2016)](https://solnic.codes/2016/05/22/my-time-with-rails-is-up/)
@@ -10,7 +10,6 @@
 * [2023-09-12, 12:49:46](https://news.ycombinator.com/item?id=37480359) - [Trinary Decision Trees for missing value handling](https://arxiv.org/abs/2309.03561)
 * [2023-09-12, 12:47:15](https://news.ycombinator.com/item?id=37480331) - [QtWayland 6.6 Brings Robustness Through Compositor Handoffs](http://blog.davidedmundson.co.uk/blog/qt6_wayland_robustness/)
 * [2023-09-12, 12:46:01](https://news.ycombinator.com/item?id=37480313) - [Physicists create elusive particles that remember their pasts](https://www.quantamagazine.org/physicists-create-elusive-particles-that-remember-their-pasts-20230509/)
-* [2023-09-12, 12:44:46](https://news.ycombinator.com/item?id=37480294) - [TikTok Shop](https://newsroom.tiktok.com/en-us/introducing-tiktok-shop)
 * [2023-09-12, 12:34:40](https://news.ycombinator.com/item?id=37480155) - [Simulating History with ChatGPT](https://resobscura.substack.com/p/simulating-history-with-chatgpt)
 * [2023-09-12, 12:03:34](https://news.ycombinator.com/item?id=37479774) - [Vitalik Buterin reveals X account hack was caused by SIM-swap attack](https://cointelegraph.com/news/vitalik-buterin-reveals-x-account-hack-was-caused-by-sim-swap-attack)
 * [2023-09-12, 12:00:57](https://news.ycombinator.com/item?id=37479749) - [Treble.ai (YC S19) Is Hiring Spanish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
@@ -29,6 +28,7 @@
 * [2023-09-11, 11:18:42](https://news.ycombinator.com/item?id=37465586) - [Chart – Completely Hackable Amateur Radio Telescope](https://astrochart.github.io/)
 * [2023-09-11, 06:15:59](https://news.ycombinator.com/item?id=37463534) - [Drying Fruits (2003)](https://nchfp.uga.edu/how/dry/csu_dry_fruits.pdf)
 * [2023-09-11, 03:28:23](https://news.ycombinator.com/item?id=37462539) - [Undying Dread: A 400-Year-Old Corpse, Locked to Its Grave](https://www.nytimes.com/2023/09/05/science/archaeology-burial-vampires-revenants.html)
+* [2023-09-10, 07:41:24](https://news.ycombinator.com/item?id=37453705) - [10th Rule of Programming (2003)](https://philip.greenspun.com/bboard/q-and-a-fetch-msg?msg_id=000tgU)
 * [2023-09-10, 07:34:28](https://news.ycombinator.com/item?id=37453678) - [Amiga C Tutorial (2022)](http://www.pjhutchison.org/tutorial/amiga_c.html)
 
 ## [Archives](archives/index.md)
