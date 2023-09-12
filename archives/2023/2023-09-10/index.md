@@ -66,6 +66,7 @@
 * [2023-09-10, 09:40:19](https://news.ycombinator.com/item?id=37454301) - [Breathing Life Back into a Minitel 1B with the Minimit](https://blog.jgc.org/2023/09/breathing-life-back-into-minitel-1b.html)
 * [2023-09-10, 08:52:14](https://news.ycombinator.com/item?id=37454098) - [Ray and Tom Magliozzi, MIT 1999 Commencement Address [video]](https://www.youtube.com/watch?v=KWG1Yxoa_Os)
 * [2023-09-10, 08:10:06](https://news.ycombinator.com/item?id=37453854) - [Nginx Unit – Universal web app server](https://github.com/nginx/unit)
+* [2023-09-10, 08:01:52](https://news.ycombinator.com/item?id=37453810) - [Threading with Style](https://stuartsierra.com/2018/07/06/threading-with-style)
 * [2023-09-10, 07:51:11](https://news.ycombinator.com/item?id=37453755) - [Show HN: Papersnap – Claude 2-Powered Mind Maps from Research](https://poe.com/universal_link_page?handle=PAPERSNAP)
 * [2023-09-10, 07:22:18](https://news.ycombinator.com/item?id=37453616) - [The Decline of Usability (2020)](https://datagubbe.se/decusab/)
 * [2023-09-10, 06:58:55](https://news.ycombinator.com/item?id=37453536) - [IBM's World of Numbers (1958)](https://www.computerhistory.org/collections/catalog/102707549)

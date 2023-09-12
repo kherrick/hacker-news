@@ -10,7 +10,6 @@
 * [2023-09-12, 05:05:20](https://news.ycombinator.com/item?id=37477095) - [Death by a Thousand Microservices](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html)
 * [2023-09-12, 03:05:04](https://news.ycombinator.com/item?id=37476588) - [Hacking the Book8088 for better accuracy](https://martypc.blogspot.com/2023/09/hacking-book8088-for-better-accuracy.html)
 * [2023-09-12, 02:53:38](https://news.ycombinator.com/item?id=37476531) - [Physicists Observe ‘Unobservable’ Quantum Phase Transition](https://www.quantamagazine.org/physicists-observe-unobservable-quantum-phase-transition-20230911/)
-* [2023-09-12, 02:12:31](https://news.ycombinator.com/item?id=37476281) - [Arxiv.org is experiencing a DDoS attack](https://blog.arxiv.org/2023/09/11/arxiv-org-is-experiencing-a-ddos-attack/)
 * [2023-09-12, 02:02:31](https://news.ycombinator.com/item?id=37476218) - [Caddy is the first and only web server to use HTTPS automatically and by default](https://caddyserver.com/docs/automatic-https)
 * [2023-09-12, 01:01:17](https://news.ycombinator.com/item?id=37475737) - [Padlet (YC W13) is hiring in Singapore and San Francisco](https://padlet.jobs)
 * [2023-09-11, 23:06:33](https://news.ycombinator.com/item?id=37474904) - [Arm’s Neoverse V2](https://chipsandcheese.com/2023/09/11/hot-chips-2023-arms-neoverse-v2/)
@@ -30,6 +29,7 @@
 * [2023-09-11, 06:14:35](https://news.ycombinator.com/item?id=37463523) - [The Pinouts Book: Pinout functions for 130 commonly used components](https://pinouts.org/)
 * [2023-09-11, 01:08:16](https://news.ycombinator.com/item?id=37461695) - [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)
 * [2023-09-11, 00:58:51](https://news.ycombinator.com/item?id=37461632) - [Non-Standard Errors [pdf]](https://statmodeling.stat.columbia.edu/wp-content/uploads/2022/12/HonestHypothesisTestingNonStandardErrors.pdf)
+* [2023-09-10, 08:01:52](https://news.ycombinator.com/item?id=37453810) - [Threading with Style](https://stuartsierra.com/2018/07/06/threading-with-style)
 
 ## [Archives](archives/index.md)
 
