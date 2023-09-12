@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-09-11](index.md)
 
+* [2023-09-11, 23:54:48](https://news.ycombinator.com/item?id=37475257) - [Have I Been Pwned? [video]](https://www.youtube.com/watch?v=pxPEdUFdayA)
 * [2023-09-11, 23:10:53](https://news.ycombinator.com/item?id=37474935) - [Corporate Capture in California](https://prospect.org/infrastructure/transportation/2023-09-11-corporate-capture-california-waymo-robotaxies/)
+* [2023-09-11, 23:06:33](https://news.ycombinator.com/item?id=37474904) - [Arm’s Neoverse V2](https://chipsandcheese.com/2023/09/11/hot-chips-2023-arms-neoverse-v2/)
 * [2023-09-11, 22:58:38](https://news.ycombinator.com/item?id=37474837) - [Deno vs. Bun vs. Node.js: A feature comparison](https://dev.hexagon.56k.guru/posts/deno-vs-bun-vs-node/)
 * [2023-09-11, 22:52:49](https://news.ycombinator.com/item?id=37474780) - [I Can't Believe Neopets Is Still Around](https://www.dualshockers.com/neopets-is-still-active-2023/)
 * [2023-09-11, 21:50:15](https://news.ycombinator.com/item?id=37474189) - [Onboarding Floating-Point](https://www.altdevarts.com/p/onboarding-floating-point)
 * [2023-09-11, 21:37:28](https://news.ycombinator.com/item?id=37474066) - [YouTube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)
+* [2023-09-11, 21:14:17](https://news.ycombinator.com/item?id=37473795) - [Ask HN: Tech that seems to have vanished?](https://news.ycombinator.com/item?id=37473795)
 * [2023-09-11, 21:00:20](https://news.ycombinator.com/item?id=37473628) - [Microsoft to kill off third-party printer drivers in Windows](https://www.theregister.com/2023/09/11/go_native_or_go_home/)
 * [2023-09-11, 20:49:18](https://news.ycombinator.com/item?id=37473501) - [Let’s put a stake in the ‘great man’ biography – starting with Isaacson’s ‘Musk’](https://www.latimes.com/entertainment-arts/books/story/2023-09-11/lets-put-a-stake-in-the-great-man-biography-starting-with-isaacsons-elon-musk)
 * [2023-09-11, 20:43:58](https://news.ycombinator.com/item?id=37473446) - [Barstool Built an Empire by Swiping Sports Highlights](https://www.thedailybeast.com/how-dave-portnoys-barstool-built-an-empire-by-swiping-sports-highlights)
