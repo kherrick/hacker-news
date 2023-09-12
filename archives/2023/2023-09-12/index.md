@@ -7,6 +7,7 @@
 * [2023-09-12, 15:21:47](https://news.ycombinator.com/item?id=37482646) - [WTF Happened in 1971?](https://wtfhappenedin1971.com/)
 * [2023-09-12, 15:16:01](https://news.ycombinator.com/item?id=37482549) - [Vulnerability found in Dutch voting software](https://www.zerocopter.com/blog-en/the-importance-of-post-build-audits-do-you-know-what-you-ship?id=12)
 * [2023-09-12, 15:14:05](https://news.ycombinator.com/item?id=37482517) - [New world record with an electric racing car: From 0 to 100 in 0.956 seconds](https://ethz.ch/en/news-and-events/eth-news/news/2023/09/from-zero-to-one-hundred-in-0-956-seconds.html)
+* [2023-09-12, 14:53:36](https://news.ycombinator.com/item?id=37482220) - [Building a Blog in Django](https://til.simonwillison.net/django/building-a-blog-in-django)
 * [2023-09-12, 14:53:16](https://news.ycombinator.com/item?id=37482216) - [Ask HN: Why does Google rank the real Python documentation below content farms?](https://news.ycombinator.com/item?id=37482216)
 * [2023-09-12, 14:42:26](https://news.ycombinator.com/item?id=37482058) - [Super-Earths in Need for Extremly Big Rockets (2018)](https://arxiv.org/abs/1803.11384)
 * [2023-09-12, 14:28:34](https://news.ycombinator.com/item?id=37481867) - [AI Tool Directory – Curated AI Product Review Site](https://tooldirectory.ai)
