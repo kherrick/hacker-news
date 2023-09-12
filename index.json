@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-12, 12:44:46",
+      "https://news.ycombinator.com/item?id=37480294"
+    ],
+    [
+      "TikTok Shop",
+      "https://newsroom.tiktok.com/en-us/introducing-tiktok-shop"
+    ]
+  ],
+  [
+    [
+      "2023-09-12, 12:42:48",
+      "https://news.ycombinator.com/item?id=37480271"
+    ],
+    [
+      "Google's antitrust trial is set to begin today",
+      "https://www.wsj.com/tech/google-antitrust-trial-doj-search-91d32f8f"
+    ]
+  ],
+  [
+    [
       "2023-09-12, 12:17:37",
       "https://news.ycombinator.com/item?id=37479933"
     ],
@@ -81,6 +101,26 @@
   ],
   [
     [
+      "2023-09-12, 10:28:24",
+      "https://news.ycombinator.com/item?id=37479001"
+    ],
+    [
+      "UK Energy Bill 2023 and the Fusion of Technology and Law",
+      "https://newsfromuncibal.substack.com/p/the-energy-bill-2023-and-the-fusion"
+    ]
+  ],
+  [
+    [
+      "2023-09-12, 09:48:33",
+      "https://news.ycombinator.com/item?id=37478755"
+    ],
+    [
+      "OpenBSD p2k23 Hackathon landry on chasing memory corruptions",
+      "https://undeadly.org/cgi?action=article;sid=20230912094727"
+    ]
+  ],
+  [
+    [
       "2023-09-12, 09:47:17",
       "https://news.ycombinator.com/item?id=37478748"
     ],
@@ -97,16 +137,6 @@
     [
       "Chrome: Heap buffer overflow in WebP",
       "https://chromereleases.googleblog.com/2023/09/stable-channel-update-for-desktop_11.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 06:55:56",
-      "https://news.ycombinator.com/item?id=37477643"
-    ],
-    [
-      "Why Are Black Currants Banned in the USA",
-      "https://foodtolive.com/healthy-blog/black-currants-banned-usa/"
     ]
   ],
   [
@@ -191,26 +221,6 @@
   ],
   [
     [
-      "2023-09-12, 02:02:31",
-      "https://news.ycombinator.com/item?id=37476218"
-    ],
-    [
-      "Caddy is the first and only web server to use HTTPS automatically and by default",
-      "https://caddyserver.com/docs/automatic-https"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 00:36:09",
-      "https://news.ycombinator.com/item?id=37475577"
-    ],
-    [
-      "JEP 454: Foreign Function and Memory API",
-      "https://openjdk.org/jeps/454"
-    ]
-  ],
-  [
-    [
       "2023-09-11, 23:06:33",
       "https://news.ycombinator.com/item?id=37474904"
     ],
@@ -237,16 +247,6 @@
     [
       "The Power of Prolog",
       "https://www.metalevel.at/prolog/facets"
-    ]
-  ],
-  [
-    [
-      "2023-09-11, 17:10:06",
-      "https://news.ycombinator.com/item?id=37470285"
-    ],
-    [
-      "Calculate the difference and intersection of any two regexes",
-      "http://phylactery.org/antimirov/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=37453678"
     ],
     [
-      "Amiga C Tutorial",
+      "Amiga C Tutorial (2022)",
       "http://www.pjhutchison.org/tutorial/amiga_c.html"
     ]
   ]
