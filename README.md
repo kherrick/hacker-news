@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-12, 13:20:00](https://news.ycombinator.com/item?id=37480763) - [A phone cleaning app makes $2M/mo on the App Store – The reviews show how](https://www.undefinedapps.com/post/analyze-app-store-reviews-app-storage-cleanup)
 * [2023-09-12, 13:02:31](https://news.ycombinator.com/item?id=37480508) - [iPhone 15’s shift to USB-C has hidden potential to streamline computing](https://techcrunch.com/2023/09/11/iphone-15-desktop-mode/)
 * [2023-09-12, 13:00:06](https://news.ycombinator.com/item?id=37480478) - [Why isn’t dotnet core popular among startups?](https://old.reddit.com/r/dotnet/login/)
 * [2023-09-12, 12:46:01](https://news.ycombinator.com/item?id=37480313) - [Physicists Create Elusive Particles That Remember Their Pasts](https://www.quantamagazine.org/physicists-create-elusive-particles-that-remember-their-pasts-20230509/)
@@ -28,6 +27,7 @@
 * [2023-09-11, 21:25:21](https://news.ycombinator.com/item?id=37473933) - [The Power of Prolog](https://www.metalevel.at/prolog/facets)
 * [2023-09-11, 11:18:42](https://news.ycombinator.com/item?id=37465586) - [Chart – Completely Hackable Amateur Radio Telescope](https://astrochart.github.io/)
 * [2023-09-11, 06:15:59](https://news.ycombinator.com/item?id=37463534) - [Drying Fruits (2003)](https://nchfp.uga.edu/how/dry/csu_dry_fruits.pdf)
+* [2023-09-11, 01:08:16](https://news.ycombinator.com/item?id=37461695) - [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)
 * [2023-09-10, 07:41:24](https://news.ycombinator.com/item?id=37453705) - [10th Rule of Programming (2003)](https://philip.greenspun.com/bboard/q-and-a-fetch-msg?msg_id=000tgU)
 * [2023-09-10, 07:34:28](https://news.ycombinator.com/item?id=37453678) - [Amiga C Tutorial (2022)](http://www.pjhutchison.org/tutorial/amiga_c.html)
 
