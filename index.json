@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-09-12, 03:15:53",
-      "https://news.ycombinator.com/item?id=37476635"
-    ],
-    [
-      "Visual Studio Code adds port forwarding",
-      "https://www.infoworld.com/article/3706511/visual-studio-code-adds-port-forwarding.html"
-    ]
-  ],
-  [
-    [
       "2023-09-12, 03:05:04",
       "https://news.ycombinator.com/item?id=37476588"
     ],
@@ -105,7 +95,7 @@
       "https://news.ycombinator.com/item?id=37471149"
     ],
     [
-      "How to Read Bug Reports (2016)",
+      "How to read bug reports (2016)",
       "https://www.massicotte.org/reading-bug-reports"
     ]
   ],
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2023-09-11, 12:35:54",
+      "https://news.ycombinator.com/item?id=37466302"
+    ],
+    [
+      "Intuitively Understanding Harris Corner Detector",
+      "https://comsci.blog/posts/intuitive-harris"
+    ]
+  ],
+  [
+    [
       "2023-09-11, 12:06:28",
       "https://news.ycombinator.com/item?id=37466027"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
+      "2023-09-11, 10:08:50",
+      "https://news.ycombinator.com/item?id=37465086"
+    ],
+    [
+      "The SHA256 for this sentence begins with: one, eight, two, a, seven, c and nine.",
+      "https://twitter.com/lauriewired/status/1700982575291142594"
+    ]
+  ],
+  [
+    [
       "2023-09-11, 09:05:37",
       "https://news.ycombinator.com/item?id=37464668"
     ],
     [
       "The roots of an obscure Bourne shell error message",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellObscureErrorRoots"
-    ]
-  ],
-  [
-    [
-      "2023-09-11, 07:56:47",
-      "https://news.ycombinator.com/item?id=37464250"
-    ],
-    [
-      "Atari doubles down on retro, buys beloved Atari homebrew maker",
-      "https://arstechnica.com/gaming/2023/09/zap-atari-acquires-beloved-retro-homebrew-vendor-atariage/"
     ]
   ],
   [
