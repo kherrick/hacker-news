@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-09-12, 02:12:31",
-      "https://news.ycombinator.com/item?id=37476281"
-    ],
-    [
-      "Arxiv.org is experiencing a DDoS attack",
-      "https://blog.arxiv.org/2023/09/11/arxiv-org-is-experiencing-a-ddos-attack/"
-    ]
-  ],
-  [
-    [
       "2023-09-12, 02:02:31",
       "https://news.ycombinator.com/item?id=37476218"
     ],
@@ -297,6 +287,16 @@
     [
       "Non-Standard Errors [pdf]",
       "https://statmodeling.stat.columbia.edu/wp-content/uploads/2022/12/HonestHypothesisTestingNonStandardErrors.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-09-10, 08:01:52",
+      "https://news.ycombinator.com/item?id=37453810"
+    ],
+    [
+      "Threading with Style",
+      "https://stuartsierra.com/2018/07/06/threading-with-style"
     ]
   ]
 ]
