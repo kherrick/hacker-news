@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-12, 17:51:50](https://news.ycombinator.com/item?id=37484897) - [Apple ditches the Lightning connector in favor of USB-C after 11 years](https://techcrunch.com/2023/09/12/bye-lightning-hello-usb-c/)
 * [2023-09-12, 17:08:29](https://news.ycombinator.com/item?id=37484352) - [Mystery ‘blue lights’ flash in sky moments before Morocco earthquake](https://www.thesun.co.uk/news/23911027/mystery-blue-lights-morocco-earthquake/)
 * [2023-09-12, 17:01:20](https://news.ycombinator.com/item?id=37484260) - [Covid patients breathe out large amounts of virus early on](https://news.northwestern.edu/stories/2023/09/covid-patients-exhale-up-to-1000-copies-of-virus-per-minute-during-first-eight-days-of-symptoms/)
 * [2023-09-12, 17:01:17](https://news.ycombinator.com/item?id=37484259) - [Finley (YC W21) Is Hiring for Customer Success Managers in Software (US Remote)](https://jobs.lever.co/FinleyTechnologies/0a143938-ef2a-47f3-a4c0-861ac68fb1b0)
@@ -18,7 +19,6 @@
 * [2023-09-12, 13:06:33](https://news.ycombinator.com/item?id=37480561) - [How large that number in the Law of Large Numbers is?](https://thepalindrome.org/p/how-large-that-number-in-the-law)
 * [2023-09-12, 13:02:47](https://news.ycombinator.com/item?id=37480512) - [Sony develops energy harvesting module from electromagnetic wave noise](https://www.sony-semicon.com/en/news/2023/2023090701.html)
 * [2023-09-12, 12:49:46](https://news.ycombinator.com/item?id=37480359) - [Trinary Decision Trees for missing value handling](https://arxiv.org/abs/2309.03561)
-* [2023-09-12, 12:47:15](https://news.ycombinator.com/item?id=37480331) - [QtWayland 6.6 Brings Robustness Through Compositor Handoffs](http://blog.davidedmundson.co.uk/blog/qt6_wayland_robustness/)
 * [2023-09-12, 12:46:01](https://news.ycombinator.com/item?id=37480313) - [Physicists create elusive particles that remember their pasts](https://www.quantamagazine.org/physicists-create-elusive-particles-that-remember-their-pasts-20230509/)
 * [2023-09-12, 12:34:40](https://news.ycombinator.com/item?id=37480155) - [Simulating History with ChatGPT](https://resobscura.substack.com/p/simulating-history-with-chatgpt)
 * [2023-09-12, 08:58:42](https://news.ycombinator.com/item?id=37478403) - [Chrome: Heap buffer overflow in WebP](https://chromereleases.googleblog.com/2023/09/stable-channel-update-for-desktop_11.html)

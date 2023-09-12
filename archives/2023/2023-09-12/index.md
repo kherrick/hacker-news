@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
+* [2023-09-12, 17:51:50](https://news.ycombinator.com/item?id=37484897) - [Apple ditches the Lightning connector in favor of USB-C after 11 years](https://techcrunch.com/2023/09/12/bye-lightning-hello-usb-c/)
 * [2023-09-12, 17:08:29](https://news.ycombinator.com/item?id=37484352) - [Mystery ‘blue lights’ flash in sky moments before Morocco earthquake](https://www.thesun.co.uk/news/23911027/mystery-blue-lights-morocco-earthquake/)
 * [2023-09-12, 17:01:20](https://news.ycombinator.com/item?id=37484260) - [Covid patients breathe out large amounts of virus early on](https://news.northwestern.edu/stories/2023/09/covid-patients-exhale-up-to-1000-copies-of-virus-per-minute-during-first-eight-days-of-symptoms/)
 * [2023-09-12, 17:01:17](https://news.ycombinator.com/item?id=37484259) - [Finley (YC W21) Is Hiring for Customer Success Managers in Software (US Remote)](https://jobs.lever.co/FinleyTechnologies/0a143938-ef2a-47f3-a4c0-861ac68fb1b0)
