@@ -8,6 +8,7 @@
 * [2023-09-12, 14:01:01](https://news.ycombinator.com/item?id=37481424) - [How to run a competitive AI startup fundraise in 2023](https://context.ai/post/how-to-run-a-competitive-ai-startup-fundraise-in-2023)
 * [2023-09-12, 13:55:54](https://news.ycombinator.com/item?id=37481344) - [Unity plan pricing and packaging updates](https://blog.unity.com/news/plan-pricing-and-packaging-updates)
 * [2023-09-12, 13:45:31](https://news.ycombinator.com/item?id=37481166) - [The Relativity of Wrong by Isaac Asimov](https://hermiene.net/essays-trans/relativity_of_wrong.html)
+* [2023-09-12, 13:32:58](https://news.ycombinator.com/item?id=37480937) - [Intel Introduces Thunderbolt 5 Connectivity Standard](https://www.intel.com/content/www/us/en/newsroom/news/intel-introduces-thunderbolt-5-standard.html)
 * [2023-09-12, 13:20:00](https://news.ycombinator.com/item?id=37480763) - [A phone cleaning app makes $2M/mo on the App Store – The reviews show how](https://www.undefinedapps.com/post/analyze-app-store-reviews-app-storage-cleanup)
 * [2023-09-12, 13:06:51](https://news.ycombinator.com/item?id=37480564) - [My time with Rails is up (2016)](https://solnic.codes/2016/05/22/my-time-with-rails-is-up/)
 * [2023-09-12, 13:06:33](https://news.ycombinator.com/item?id=37480561) - [How large that number in the Law of Large Numbers is?](https://thepalindrome.org/p/how-large-that-number-in-the-law)

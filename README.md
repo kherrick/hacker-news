@@ -4,6 +4,7 @@
 * [2023-09-12, 14:01:01](https://news.ycombinator.com/item?id=37481424) - [How to run a competitive AI startup fundraise in 2023](https://context.ai/post/how-to-run-a-competitive-ai-startup-fundraise-in-2023)
 * [2023-09-12, 13:55:54](https://news.ycombinator.com/item?id=37481344) - [Unity plan pricing and packaging updates](https://blog.unity.com/news/plan-pricing-and-packaging-updates)
 * [2023-09-12, 13:45:31](https://news.ycombinator.com/item?id=37481166) - [The Relativity of Wrong (1989)](https://hermiene.net/essays-trans/relativity_of_wrong.html)
+* [2023-09-12, 13:32:58](https://news.ycombinator.com/item?id=37480937) - [Intel Introduces Thunderbolt 5 Connectivity Standard](https://www.intel.com/content/www/us/en/newsroom/news/intel-introduces-thunderbolt-5-standard.html)
 * [2023-09-12, 13:06:51](https://news.ycombinator.com/item?id=37480564) - [My time with Rails is up (2016)](https://solnic.codes/2016/05/22/my-time-with-rails-is-up/)
 * [2023-09-12, 13:06:33](https://news.ycombinator.com/item?id=37480561) - [How large that number in the Law of Large Numbers is?](https://thepalindrome.org/p/how-large-that-number-in-the-law)
 * [2023-09-12, 13:02:47](https://news.ycombinator.com/item?id=37480512) - [Sony develops energy harvesting module from electromagnetic wave noise](https://www.sony-semicon.com/en/news/2023/2023090701.html)
@@ -28,7 +29,6 @@
 * [2023-09-11, 11:18:42](https://news.ycombinator.com/item?id=37465586) - [Chart – Completely Hackable Amateur Radio Telescope](https://astrochart.github.io/)
 * [2023-09-11, 06:15:59](https://news.ycombinator.com/item?id=37463534) - [Drying Fruits (2003)](https://nchfp.uga.edu/how/dry/csu_dry_fruits.pdf)
 * [2023-09-11, 03:28:23](https://news.ycombinator.com/item?id=37462539) - [Undying Dread: A 400-Year-Old Corpse, Locked to Its Grave](https://www.nytimes.com/2023/09/05/science/archaeology-burial-vampires-revenants.html)
-* [2023-09-10, 07:41:24](https://news.ycombinator.com/item?id=37453705) - [10th Rule of Programming (2003)](https://philip.greenspun.com/bboard/q-and-a-fetch-msg?msg_id=000tgU)
 * [2023-09-10, 07:34:28](https://news.ycombinator.com/item?id=37453678) - [Amiga C Tutorial (2022)](http://www.pjhutchison.org/tutorial/amiga_c.html)
 
 ## [Archives](archives/index.md)
