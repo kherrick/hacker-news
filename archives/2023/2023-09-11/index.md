@@ -71,6 +71,7 @@
 * [2023-09-11, 12:02:08](https://news.ycombinator.com/item?id=37465972) - [The right to data ownership is the only way to take on Big Tech](https://www.telegraph.co.uk/business/2023/09/11/right-data-ownership-big-tech-google-meta-competition/)
 * [2023-09-11, 11:59:55](https://news.ycombinator.com/item?id=37465946) - [Pentagon’s shameful effort to draft mentally disabled men to fight in Vietnam](https://taskandpurpose.com/history/project-100000-vietnam/)
 * [2023-09-11, 11:51:56](https://news.ycombinator.com/item?id=37465874) - [You Need to Know What You Are Betting On](https://every.to/napkin-math/you-need-to-know-what-you-are-betting-on)
+* [2023-09-11, 11:49:09](https://news.ycombinator.com/item?id=37465852) - [New upper bound found for the Heilbronn triangle problem](https://www.quantamagazine.org/the-biggest-smallest-triangle-just-got-smaller-20230908/)
 * [2023-09-11, 11:24:28](https://news.ycombinator.com/item?id=37465636) - [Connecting two dial-up modems using a VoIP ATA](https://gekk.info/articles/ata-config.html)
 * [2023-09-11, 11:14:34](https://news.ycombinator.com/item?id=37465533) - [Show HN: Free High-quality TailwindCSS Components. No attribution required](https://tailspark.co/)
 * [2023-09-11, 11:06:53](https://news.ycombinator.com/item?id=37465480) - [Cancer cases in young adults rise by 80% globally](https://indianexpress.com/article/lifestyle/health/rising-cancer-under-50s-causes-mystery-8931614/)
