@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
+* [2023-09-12, 03:15:53](https://news.ycombinator.com/item?id=37476635) - [Visual Studio Code adds port forwarding](https://www.infoworld.com/article/3706511/visual-studio-code-adds-port-forwarding.html)
 * [2023-09-12, 03:05:04](https://news.ycombinator.com/item?id=37476588) - [Hacking the Book8088 for better accuracy](https://martypc.blogspot.com/2023/09/hacking-book8088-for-better-accuracy.html)
 * [2023-09-12, 02:49:43](https://news.ycombinator.com/item?id=37476504) - [Truist plans 'sizable' job cuts to save $300M in costs](https://finance.yahoo.com/news/1-truist-financial-plans-sizable-113626353.html)
 * [2023-09-12, 02:29:22](https://news.ycombinator.com/item?id=37476399) - [Don't \"Find\" Your Niche, \"Develop\" It](https://www.scottscheper.com/niche-dev)
