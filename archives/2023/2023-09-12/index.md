@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
+* [2023-09-12, 20:03:44](https://news.ycombinator.com/item?id=37487306) - [Electric Cooling Could Shrink Quantum Computers](https://spectrum.ieee.org/cryogenics)
 * [2023-09-12, 19:46:36](https://news.ycombinator.com/item?id=37486958) - [Apple’s first ‘carbon neutral’ products are a red herring](https://www.theverge.com/23870317/apples-watch-series-9-carbon-neutral-climate-goal)
 * [2023-09-12, 19:29:39](https://news.ycombinator.com/item?id=37486651) - [PeerReview4All: Fair and Accurate Reviewer Assignment in Peer Review](https://arxiv.org/abs/1806.06237)
 * [2023-09-12, 19:18:34](https://news.ycombinator.com/item?id=37486431) - [The Death of Unity](https://www.gamedeveloper.com/business/the-death-of-unity)
