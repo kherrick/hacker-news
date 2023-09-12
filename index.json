@@ -1,32 +1,32 @@
 [
   [
     [
+      "2023-09-12, 16:04:31",
+      "https://news.ycombinator.com/item?id=37483348"
+    ],
+    [
+      "Dementia risk is highest if you sit for longer than 10 hours each day",
+      "https://www.dailymail.co.uk/health/article-12508827/Dementia-warning-10-hours-sitting-spikes-risk.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-12, 16:00:57",
+      "https://news.ycombinator.com/item?id=37483288"
+    ],
+    [
+      "Obsidian 1.4.10 Desktop (Public)",
+      "https://obsidian.md/changelog/2023-09-11-desktop-v1.4.10/"
+    ]
+  ],
+  [
+    [
       "2023-09-12, 15:57:16",
       "https://news.ycombinator.com/item?id=37483226"
     ],
     [
-      "Brain hemorrhage transmissible via blood transfusion",
+      "Blood Transfusion and Brain Amyloidosis",
       "https://jamanetwork.com/journals/jama/article-abstract/2809443"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 15:21:47",
-      "https://news.ycombinator.com/item?id=37482646"
-    ],
-    [
-      "WTF Happened in 1971?",
-      "https://wtfhappenedin1971.com/"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 15:16:01",
-      "https://news.ycombinator.com/item?id=37482549"
-    ],
-    [
-      "Vulnerability found in Dutch voting software",
-      "https://www.zerocopter.com/blog-en/the-importance-of-post-build-audits-do-you-know-what-you-ship?id=12"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "We built the fastest CI in the world and it failed",
       "https://earthly.dev/blog/shutting-down-earthly-ci/"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 14:01:01",
-      "https://news.ycombinator.com/item?id=37481424"
-    ],
-    [
-      "How to run a competitive AI startup fundraise in 2023",
-      "https://context.ai/post/how-to-run-a-competitive-ai-startup-fundraise-in-2023"
     ]
   ],
   [
@@ -191,22 +181,22 @@
   ],
   [
     [
-      "2023-09-12, 11:51:24",
-      "https://news.ycombinator.com/item?id=37479641"
+      "2023-09-12, 09:48:33",
+      "https://news.ycombinator.com/item?id=37478755"
     ],
     [
-      "You're barely managing",
-      "https://barely-managing.bearblog.dev/youre-barely-managing/"
+      "OpenBSD p2k23 Hackathon landry on chasing memory corruptions",
+      "https://undeadly.org/cgi?action=article;sid=20230912094727"
     ]
   ],
   [
     [
-      "2023-09-12, 11:24:21",
-      "https://news.ycombinator.com/item?id=37479434"
+      "2023-09-12, 09:47:17",
+      "https://news.ycombinator.com/item?id=37478748"
     ],
     [
-      "Navigational Instruments (2020)",
-      "https://exple.tive.org/blarg/2020/10/25/navigational-instruments/"
+      "How to Improve Rails Caching with Brotli Compression",
+      "https://pawelurbanek.com/rails-brotli-cache"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "The Power of Prolog",
       "https://www.metalevel.at/prolog/facets"
+    ]
+  ],
+  [
+    [
+      "2023-09-11, 19:19:28",
+      "https://news.ycombinator.com/item?id=37472340"
+    ],
+    [
+      "RetroAchievements: Adding Achievements to Retro Games",
+      "https://retroachievements.org"
     ]
   ],
   [
