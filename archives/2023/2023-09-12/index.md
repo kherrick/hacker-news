@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
+* [2023-09-12, 12:03:34](https://news.ycombinator.com/item?id=37479774) - [Vitalik Buterin reveals X account hack was caused by SIM-swap attack](https://cointelegraph.com/news/vitalik-buterin-reveals-x-account-hack-was-caused-by-sim-swap-attack)
+* [2023-09-12, 12:00:57](https://news.ycombinator.com/item?id=37479749) - [Treble.ai (YC S19) Is Hiring Spanish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
+* [2023-09-12, 11:50:09](https://news.ycombinator.com/item?id=37479630) - [Ask HN: What benefits are important to you when choosing a job?](https://news.ycombinator.com/item?id=37479630)
+* [2023-09-12, 11:36:24](https://news.ycombinator.com/item?id=37479515) - [Dutch groups sue Google over alleged privacy violations](https://www.reuters.com/technology/dutch-groups-sue-google-over-alleged-privacy-violations-2023-09-12/)
+* [2023-09-12, 11:31:39](https://news.ycombinator.com/item?id=37479476) - [On Robots Killing People](https://www.schneier.com/blog/archives/2023/09/on-robots-killing-people.html)
 * [2023-09-12, 11:30:57](https://news.ycombinator.com/item?id=37479472) - [Sweden brings more books and handwriting practice back to its tech-heavy schools](https://apnews.com/article/sweden-digital-education-backlash-reading-writing-1dd964c628f76361c43dbf3964f7dbf4)
 * [2023-09-12, 11:24:21](https://news.ycombinator.com/item?id=37479434) - [Navigational Instruments: Hidden Features in Firefox [2020]](https://exple.tive.org/blarg/2020/10/25/navigational-instruments/)
 * [2023-09-12, 11:12:41](https://news.ycombinator.com/item?id=37479323) - [Phoenix 1.7 for Elixir: Edit a Form in a Modal](https://blog.appsignal.com/2023/09/12/phoenix-1-7-for-elixir-edit-a-form-in-a-modal.html)
