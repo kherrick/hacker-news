@@ -6,6 +6,7 @@
 
 * [2023-09-12, 21:33:13](https://news.ycombinator.com/item?id=37488762) - [What the interns have wrought, 2023 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2023/)
 * [2023-09-12, 21:00:00](https://news.ycombinator.com/item?id=37488252) - [Justpaid.io (YC W23) Is Hiring for a Senior Full Stack Engineer](https://www.justpaid.io/careers)
+* [2023-09-12, 20:40:42](https://news.ycombinator.com/item?id=37487926) - [Gmail and Instagram are training AI, and there’s little you can do about it](https://www.washingtonpost.com/technology/2023/09/08/gmail-instagram-facebook-trains-ai/)
 * [2023-09-12, 20:34:03](https://news.ycombinator.com/item?id=37487820) - [“Dear Discord, how on Earth is ”GTK“ a bad word? GTK is a GUI toolkit ”](https://twitter.com/awesomekling/status/1701614289566720216)
 * [2023-09-12, 20:03:44](https://news.ycombinator.com/item?id=37487306) - [Electric Cooling Could Shrink Quantum Computers](https://spectrum.ieee.org/cryogenics)
 * [2023-09-12, 19:55:13](https://news.ycombinator.com/item?id=37487133) - [Judge in US/Google trial didn’t know if Firefox is a browser or search engine](https://arstechnica.com/tech-policy/2023/09/judge-in-us-v-google-trial-didnt-know-if-firefox-is-a-browser-or-search-engine/)
