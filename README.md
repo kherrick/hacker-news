@@ -24,12 +24,12 @@
 * [2023-09-12, 08:58:42](https://news.ycombinator.com/item?id=37478403) - [Chrome: Heap buffer overflow in WebP](https://chromereleases.googleblog.com/2023/09/stable-channel-update-for-desktop_11.html)
 * [2023-09-12, 06:29:08](https://news.ycombinator.com/item?id=37477512) - [Quiet – Encrypted P2P team chat with no servers, just Tor](https://github.com/TryQuiet/quiet)
 * [2023-09-11, 19:19:28](https://news.ycombinator.com/item?id=37472340) - [RetroAchievements: Adding Achievements to Retro Games](https://retroachievements.org)
+* [2023-09-11, 16:38:11](https://news.ycombinator.com/item?id=37469811) - [Parmesan makers add microchips to cheese wheels to foil counterfeiters](https://www.tomshardware.com/news/parmesan-makers-add-microchips-to-cheese-wheels-to-foil-counterfeiters)
 * [2023-09-11, 11:18:42](https://news.ycombinator.com/item?id=37465586) - [Chart – Completely Hackable Amateur Radio Telescope](https://astrochart.github.io/)
 * [2023-09-11, 09:55:18](https://news.ycombinator.com/item?id=37464988) - [Falling for Oklch: A Love Story of Color Spaces, Gamuts, and CSS](https://www.smashingmagazine.com/2023/08/oklch-color-spaces-gamuts-css/)
 * [2023-09-11, 09:50:36](https://news.ycombinator.com/item?id=37464950) - [Visualizing the CPython Release Process](https://sethmlarson.dev/security-developer-in-residence-weekly-report-9?date=2023-09-05)
 * [2023-09-11, 06:15:59](https://news.ycombinator.com/item?id=37463534) - [Drying Fruits (2003)](https://nchfp.uga.edu/how/dry/csu_dry_fruits.pdf)
 * [2023-09-11, 03:28:23](https://news.ycombinator.com/item?id=37462539) - [Undying dread: A 400-year-old corpse, locked to its grave](https://www.nytimes.com/2023/09/05/science/archaeology-burial-vampires-revenants.html)
-* [2023-09-10, 05:51:58](https://news.ycombinator.com/item?id=37453266) - [John Adams to Abigail Adams (1780)](https://founders.archives.gov/documents/Adams/04-03-02-0258)
 
 ## [Archives](archives/index.md)
 
