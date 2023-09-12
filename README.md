@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-12, 08:25:43](https://news.ycombinator.com/item?id=37478191) - [Electric vehicle battery causes fire at Sydney Airport, destroys five cars](https://www.abc.net.au/news/2023-09-12/sydney-airport-lithium-ion-battery-causes-fire/102846146)
 * [2023-09-12, 07:03:49](https://news.ycombinator.com/item?id=37477683) - [NASA says distant exoplanet could have rare water ocean, possible hint of life](https://www.theguardian.com/science/2023/sep/11/nasa-planet-ocean-life-james-webb-telescope)
 * [2023-09-12, 06:37:39](https://news.ycombinator.com/item?id=37477558) - [Reasons to not use your own domain for email](https://www.bautista.dev/reasons-to-not-use-your-own-domain-for-email)
 * [2023-09-12, 06:32:47](https://news.ycombinator.com/item?id=37477526) - [What’s the Smallest Variety of CHERI? (2022)](https://msrc.microsoft.com/blog/2022/09/whats-the-smallest-variety-of-cheri/)
@@ -18,18 +19,17 @@
 * [2023-09-11, 22:33:37](https://news.ycombinator.com/item?id=37474601) - [OpenSSL 1.1.1 End of Life](https://www.openssl.org/blog/blog/2023/09/11/eol-111/)
 * [2023-09-11, 21:25:21](https://news.ycombinator.com/item?id=37473933) - [The Power of Prolog](https://www.metalevel.at/prolog/facets)
 * [2023-09-11, 18:25:02](https://news.ycombinator.com/item?id=37471417) - [Advanced x86: Virtualization with  Intel VT-x](https://opensecuritytraining.info/AdvancedX86-VTX.html)
-* [2023-09-11, 18:20:58](https://news.ycombinator.com/item?id=37471354) - [Blood pressure should be measured lying down: study](https://newsroom.heart.org/news/high-blood-pressure-while-lying-down-linked-to-higher-risk-of-heart-health-complications)
 * [2023-09-11, 18:18:37](https://news.ycombinator.com/item?id=37471321) - [Mac ROM-Inator II Restock and Partnerships](https://www.bigmessowires.com/2023/09/09/mac-rom-inator-ii-restock-and-partnerships/)
 * [2023-09-11, 18:08:06](https://news.ycombinator.com/item?id=37471149) - [How to read bug reports (2016)](https://www.massicotte.org/reading-bug-reports)
 * [2023-09-11, 17:31:50](https://news.ycombinator.com/item?id=37470611) - [Show HN: Real-Time 3D Gaussian Splatting in WebGL](https://antimatter15.com/splat/)
 * [2023-09-11, 17:10:06](https://news.ycombinator.com/item?id=37470285) - [Calculate the difference and intersection of any two regexes](http://phylactery.org/antimirov/)
 * [2023-09-11, 12:06:28](https://news.ycombinator.com/item?id=37466027) - [The Project Gutenberg Open Audiobook Collection](https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html)
-* [2023-09-11, 11:49:09](https://news.ycombinator.com/item?id=37465852) - [New upper bound found for the Heilbronn triangle problem](https://www.quantamagazine.org/the-biggest-smallest-triangle-just-got-smaller-20230908/)
 * [2023-09-11, 09:05:37](https://news.ycombinator.com/item?id=37464668) - [The roots of an obscure Bourne shell error message](https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellObscureErrorRoots)
 * [2023-09-11, 06:14:35](https://news.ycombinator.com/item?id=37463523) - [The Pinouts Book: Pinout functions for 130 commonly used components](https://pinouts.org/)
 * [2023-09-11, 01:08:16](https://news.ycombinator.com/item?id=37461695) - [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)
 * [2023-09-11, 00:58:51](https://news.ycombinator.com/item?id=37461632) - [Non-Standard Errors [pdf]](https://statmodeling.stat.columbia.edu/wp-content/uploads/2022/12/HonestHypothesisTestingNonStandardErrors.pdf)
 * [2023-09-10, 08:01:52](https://news.ycombinator.com/item?id=37453810) - [Threading with Style (2018)](https://stuartsierra.com/2018/07/06/threading-with-style)
+* [2023-09-10, 07:41:24](https://news.ycombinator.com/item?id=37453705) - [10th Rule of Programming (2003)](https://philip.greenspun.com/bboard/q-and-a-fetch-msg?msg_id=000tgU)
 
 ## [Archives](archives/index.md)
 
