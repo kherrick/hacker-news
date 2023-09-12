@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-12, 19:46:36](https://news.ycombinator.com/item?id=37486958) - [Apple’s first ‘carbon neutral’ products are a red herring](https://www.theverge.com/23870317/apples-watch-series-9-carbon-neutral-climate-goal)
 * [2023-09-12, 19:16:42](https://news.ycombinator.com/item?id=37486400) - [Steam is 20 Years Old](https://store.steampowered.com/sale/steam20)
 * [2023-09-12, 19:12:13](https://news.ycombinator.com/item?id=37486307) - [A small Universe](https://arxiv.org/abs/2309.03272)
 * [2023-09-12, 18:29:04](https://news.ycombinator.com/item?id=37485387) - [The Rules of Margin Collapse](https://www.joshwcomeau.com/css/rules-of-margin-collapse/)
@@ -12,7 +13,6 @@
 * [2023-09-12, 15:57:16](https://news.ycombinator.com/item?id=37483226) - [Blood Transfusion and Brain Amyloidosis](https://jamanetwork.com/journals/jama/article-abstract/2809443)
 * [2023-09-12, 15:53:25](https://news.ycombinator.com/item?id=37483142) - [Oxford study proves heat pumps triumph over fossil fuels in the cold](https://www.nationalobserver.com/2023/09/11/news/oxford-study-proves-heat-pumps-triumph-over-fossil-fuels-cold)
 * [2023-09-12, 15:38:18](https://news.ycombinator.com/item?id=37482896) - [Show HN: Rental data supplied by tenants in Ireland, searchable by all](https://www.howmuchrent.com/)
-* [2023-09-12, 15:14:05](https://news.ycombinator.com/item?id=37482517) - [New world record with an electric racing car: From 0 to 100 in 0.956 seconds](https://ethz.ch/en/news-and-events/eth-news/news/2023/09/from-zero-to-one-hundred-in-0-956-seconds.html)
 * [2023-09-12, 14:53:36](https://news.ycombinator.com/item?id=37482220) - [Notes from building a blog in Django](https://til.simonwillison.net/django/building-a-blog-in-django)
 * [2023-09-12, 14:42:26](https://news.ycombinator.com/item?id=37482058) - [Super-Earths in Need for Extremly Big Rockets (2018)](https://arxiv.org/abs/1803.11384)
 * [2023-09-12, 14:07:08](https://news.ycombinator.com/item?id=37481513) - [We built the fastest CI and it failed](https://earthly.dev/blog/shutting-down-earthly-ci/)

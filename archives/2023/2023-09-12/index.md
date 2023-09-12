@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
+* [2023-09-12, 19:46:36](https://news.ycombinator.com/item?id=37486958) - [Apple’s first ‘carbon neutral’ products are a red herring](https://www.theverge.com/23870317/apples-watch-series-9-carbon-neutral-climate-goal)
 * [2023-09-12, 19:16:42](https://news.ycombinator.com/item?id=37486400) - [Steam is 20 Years Old](https://store.steampowered.com/sale/steam20)
 * [2023-09-12, 19:15:13](https://news.ycombinator.com/item?id=37486374) - [Unity Introduces Runtime Fee](https://twitter.com/unity/status/1701650081403842851)
 * [2023-09-12, 19:12:13](https://news.ycombinator.com/item?id=37486307) - [A small Universe](https://arxiv.org/abs/2309.03272)
