@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-09-12, 05:50:40",
+      "https://news.ycombinator.com/item?id=37477294"
+    ],
+    [
+      "I2c-USB-hub: An i2C Controllable USB 2.0 Hub",
+      "https://github.com/JimHeaney/i2c-usb-hub"
+    ]
+  ],
+  [
+    [
+      "2023-09-12, 05:31:45",
+      "https://news.ycombinator.com/item?id=37477205"
+    ],
+    [
+      "Ask HN: How is Rust used in the Linux kernel today?",
+      "https://news.ycombinator.com/item?id=37477205"
+    ]
+  ],
+  [
+    [
+      "2023-09-12, 05:27:27",
+      "https://news.ycombinator.com/item?id=37477188"
+    ],
+    [
+      "A16Z sued for discrimination after RTW collapse",
+      "https://www.axios.com/2023/09/11/andreessen-horowitz-run-the-word-discrimination-venture-capital"
+    ]
+  ],
+  [
+    [
       "2023-09-12, 05:05:20",
       "https://news.ycombinator.com/item?id=37477095"
     ],
@@ -17,6 +47,26 @@
     [
       "Hacking the Book8088 for better accuracy",
       "https://martypc.blogspot.com/2023/09/hacking-book8088-for-better-accuracy.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-12, 02:53:38",
+      "https://news.ycombinator.com/item?id=37476531"
+    ],
+    [
+      "Physicists Observe ‘Unobservable’ Quantum Phase Transition",
+      "https://www.quantamagazine.org/physicists-observe-unobservable-quantum-phase-transition-20230911/"
+    ]
+  ],
+  [
+    [
+      "2023-09-12, 02:12:31",
+      "https://news.ycombinator.com/item?id=37476281"
+    ],
+    [
+      "Arxiv.org is experiencing a DDoS attack",
+      "https://blog.arxiv.org/2023/09/11/arxiv-org-is-experiencing-a-ddos-attack/"
     ]
   ],
   [
@@ -181,36 +231,6 @@
   ],
   [
     [
-      "2023-09-11, 15:04:02",
-      "https://news.ycombinator.com/item?id=37468342"
-    ],
-    [
-      "Webb Discovers Methane, Carbon Dioxide in Atmosphere of K2-18B",
-      "https://www.nasa.gov/goddard/2023/webb-discovers-methane-carbon-dioxide-in-atmosphere-of-k2-18b/"
-    ]
-  ],
-  [
-    [
-      "2023-09-11, 12:35:54",
-      "https://news.ycombinator.com/item?id=37466302"
-    ],
-    [
-      "Intuitively Understanding Harris Corner Detector",
-      "https://comsci.blog/posts/intuitive-harris"
-    ]
-  ],
-  [
-    [
-      "2023-09-11, 12:08:45",
-      "https://news.ycombinator.com/item?id=37466045"
-    ],
-    [
-      "Show HN: Loopy – share and find and music you love",
-      "https://www.loopy.fm/"
-    ]
-  ],
-  [
-    [
       "2023-09-11, 12:06:28",
       "https://news.ycombinator.com/item?id=37466027"
     ],
@@ -237,16 +257,6 @@
     [
       "A systematic approach to debugging",
       "https://ntietz.com/blog/how-i-debug-2023/"
-    ]
-  ],
-  [
-    [
-      "2023-09-11, 10:08:50",
-      "https://news.ycombinator.com/item?id=37465086"
-    ],
-    [
-      "The SHA256 for this sentence begins with: one, eight, two, a, seven, c and nine.",
-      "https://twitter.com/lauriewired/status/1700982575291142594"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Non-Standard Errors [pdf]",
       "https://statmodeling.stat.columbia.edu/wp-content/uploads/2022/12/HonestHypothesisTestingNonStandardErrors.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-09-09, 12:42:31",
-      "https://news.ycombinator.com/item?id=37444683"
-    ],
-    [
-      "Show HN: Ghidra Plays Mario",
-      "https://github.com/nevesnunes/ghidra-plays-mario"
     ]
   ]
 ]
