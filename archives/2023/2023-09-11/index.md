@@ -99,6 +99,7 @@
 * [2023-09-11, 07:01:04](https://news.ycombinator.com/item?id=37463864) - [Meticulous (YC S21) Is Hiring #3 engineer to build AI for testing](https://news.ycombinator.com/item?id=37463864)
 * [2023-09-11, 06:35:09](https://news.ycombinator.com/item?id=37463676) - [Gen Z is giving up on college](https://www.businessinsider.nl/gen-z-is-giving-up-on-college/)
 * [2023-09-11, 06:33:15](https://news.ycombinator.com/item?id=37463662) - [A group of open source Android apps without ads and unnecessary permissions](https://www.simplemobiletools.com)
+* [2023-09-11, 06:15:59](https://news.ycombinator.com/item?id=37463534) - [Drying Fruits (2003)](https://nchfp.uga.edu/how/dry/csu_dry_fruits.pdf)
 * [2023-09-11, 06:14:35](https://news.ycombinator.com/item?id=37463523) - [The Pinouts Book: Pinout functions for 130 commonly used components](https://pinouts.org/)
 * [2023-09-11, 05:40:36](https://news.ycombinator.com/item?id=37463310) - [GitHub education pack requesting real name on public profile](https://github.com/orgs/community/discussions/57851)
 * [2023-09-11, 04:38:28](https://news.ycombinator.com/item?id=37462947) - [HDMI ISA graphics card for vintage PCs by improving the Graphics Gremlin](https://yeokhengmeng.com/2023/09/hdmi-isa-graphics-card-for-vintage-pcs/)

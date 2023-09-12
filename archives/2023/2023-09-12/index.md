@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
+* [2023-09-12, 13:02:31](https://news.ycombinator.com/item?id=37480508) - [iPhone 15’s shift to USB-C has hidden potential to streamline computing](https://techcrunch.com/2023/09/11/iphone-15-desktop-mode/)
+* [2023-09-12, 13:00:06](https://news.ycombinator.com/item?id=37480478) - [Why isn’t dotnet core popular among startups?](https://old.reddit.com/r/dotnet/login/)
+* [2023-09-12, 12:46:01](https://news.ycombinator.com/item?id=37480313) - [Physicists Create Elusive Particles That Remember Their Pasts](https://www.quantamagazine.org/physicists-create-elusive-particles-that-remember-their-pasts-20230509/)
 * [2023-09-12, 12:44:46](https://news.ycombinator.com/item?id=37480294) - [TikTok Shop](https://newsroom.tiktok.com/en-us/introducing-tiktok-shop)
 * [2023-09-12, 12:42:48](https://news.ycombinator.com/item?id=37480271) - [Google's antitrust trial is set to begin today](https://www.wsj.com/tech/google-antitrust-trial-doj-search-91d32f8f)
+* [2023-09-12, 12:42:02](https://news.ycombinator.com/item?id=37480260) - [Painting Wind Turbine Blades Black Help Birds Avoid Deadly Collisions](https://www.smithsonianmag.com/smart-news/black-wind-turbine-blades-help-birds-avoid-deadly-collisions-180975668/)
 * [2023-09-12, 12:17:37](https://news.ycombinator.com/item?id=37479933) - [Ask HN: Has anyone here learned COBOL for fun? How did it go?](https://news.ycombinator.com/item?id=37479933)
 * [2023-09-12, 12:03:34](https://news.ycombinator.com/item?id=37479774) - [Vitalik Buterin reveals X account hack was caused by SIM-swap attack](https://cointelegraph.com/news/vitalik-buterin-reveals-x-account-hack-was-caused-by-sim-swap-attack)
 * [2023-09-12, 12:00:57](https://news.ycombinator.com/item?id=37479749) - [Treble.ai (YC S19) Is Hiring Spanish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
