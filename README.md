@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-11, 23:10:53](https://news.ycombinator.com/item?id=37474935) - [Corporate Capture in California](https://prospect.org/infrastructure/transportation/2023-09-11-corporate-capture-california-waymo-robotaxies/)
-* [2023-09-11, 22:52:49](https://news.ycombinator.com/item?id=37474780) - [I Can't Believe Neopets Is Still Around](https://www.dualshockers.com/neopets-is-still-active-2023/)
+* [2023-09-12, 00:40:04](https://news.ycombinator.com/item?id=37475604) - [A boy saw 17 doctors over 3 years for pain. ChatGPT found the right diagnosis](https://www.today.com/health/mom-chatgpt-diagnosis-pain-rcna101843)
+* [2023-09-11, 22:58:38](https://news.ycombinator.com/item?id=37474837) - [Deno vs. Bun vs. Node.js: A feature comparison](https://dev.hexagon.56k.guru/posts/deno-vs-bun-vs-node/)
+* [2023-09-11, 22:52:49](https://news.ycombinator.com/item?id=37474780) - [Neopets is still around](https://www.dualshockers.com/neopets-is-still-active-2023/)
 * [2023-09-11, 21:50:15](https://news.ycombinator.com/item?id=37474189) - [Onboarding Floating-Point](https://www.altdevarts.com/p/onboarding-floating-point)
-* [2023-09-11, 21:00:20](https://news.ycombinator.com/item?id=37473628) - [Microsoft to kill off third-party printer drivers in Windows](https://www.theregister.com/2023/09/11/go_native_or_go_home/)
 * [2023-09-11, 18:25:02](https://news.ycombinator.com/item?id=37471417) - [Advanced x86: Virtualization with  Intel VT-x](https://opensecuritytraining.info/AdvancedX86-VTX.html)
 * [2023-09-11, 18:20:58](https://news.ycombinator.com/item?id=37471354) - [Blood pressure should be measured lying down: study](https://newsroom.heart.org/news/high-blood-pressure-while-lying-down-linked-to-higher-risk-of-heart-health-complications)
 * [2023-09-11, 18:18:37](https://news.ycombinator.com/item?id=37471321) - [Mac ROM-Inator II Restock and Partnerships](https://www.bigmessowires.com/2023/09/09/mac-rom-inator-ii-restock-and-partnerships/)
@@ -19,7 +19,6 @@
 * [2023-09-11, 12:51:53](https://news.ycombinator.com/item?id=37466475) - [Unix Domain Sockets vs Loopback TCP Sockets (2014)](https://nicisdigital.wordpress.com/2014/03/03/unix-domain-sockets-vs-loopback-tcp-sockets/)
 * [2023-09-11, 12:35:54](https://news.ycombinator.com/item?id=37466302) - [Intuitively Understanding Harris Corner Detector](https://comsci.blog/posts/intuitive-harris)
 * [2023-09-11, 12:26:14](https://news.ycombinator.com/item?id=37466207) - [Beyond OpenAPI](https://antonz.org/interactive-api-tutorials/)
-* [2023-09-11, 12:23:28](https://news.ycombinator.com/item?id=37466182) - [A LLM+OLAP Solution](https://doris.apache.org/zh-CN/blog/Tencent-LLM/)
 * [2023-09-11, 12:06:28](https://news.ycombinator.com/item?id=37466027) - [The Project Gutenberg Open Audiobook Collection](https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html)
 * [2023-09-11, 11:24:28](https://news.ycombinator.com/item?id=37465636) - [Connecting two dial-up modems using a VoIP ATA](https://gekk.info/articles/ata-config.html)
 * [2023-09-11, 10:58:37](https://news.ycombinator.com/item?id=37465427) - [A systematic approach to debugging](https://ntietz.com/blog/how-i-debug-2023/)
@@ -28,6 +27,7 @@
 * [2023-09-11, 06:14:35](https://news.ycombinator.com/item?id=37463523) - [The Pinouts Book: Pinout functions for 130 commonly used components](https://pinouts.org/)
 * [2023-09-11, 01:08:16](https://news.ycombinator.com/item?id=37461695) - [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)
 * [2023-09-11, 00:58:51](https://news.ycombinator.com/item?id=37461632) - [Non-Standard Errors [pdf]](https://statmodeling.stat.columbia.edu/wp-content/uploads/2022/12/HonestHypothesisTestingNonStandardErrors.pdf)
+* [2023-09-10, 05:50:56](https://news.ycombinator.com/item?id=37453264) - [How to Beat the Cap Theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html)
 * [2023-09-10, 02:22:44](https://news.ycombinator.com/item?id=37452322) - [Flake8-Logging](https://adamj.eu/tech/2023/09/07/introducing-flake8-logging/)
 * [2023-09-09, 12:42:31](https://news.ycombinator.com/item?id=37444683) - [Show HN: Ghidra Plays Mario](https://github.com/nevesnunes/ghidra-plays-mario)
 

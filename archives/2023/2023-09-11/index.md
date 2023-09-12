@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-11](index.md)
 
 * [2023-09-11, 23:10:53](https://news.ycombinator.com/item?id=37474935) - [Corporate Capture in California](https://prospect.org/infrastructure/transportation/2023-09-11-corporate-capture-california-waymo-robotaxies/)
+* [2023-09-11, 22:58:38](https://news.ycombinator.com/item?id=37474837) - [Deno vs. Bun vs. Node.js: A feature comparison](https://dev.hexagon.56k.guru/posts/deno-vs-bun-vs-node/)
 * [2023-09-11, 22:52:49](https://news.ycombinator.com/item?id=37474780) - [I Can't Believe Neopets Is Still Around](https://www.dualshockers.com/neopets-is-still-active-2023/)
 * [2023-09-11, 21:50:15](https://news.ycombinator.com/item?id=37474189) - [Onboarding Floating-Point](https://www.altdevarts.com/p/onboarding-floating-point)
 * [2023-09-11, 21:37:28](https://news.ycombinator.com/item?id=37474066) - [YouTube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)
