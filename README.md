@@ -2,8 +2,9 @@
 
 * [2023-09-12, 16:00:57](https://news.ycombinator.com/item?id=37483288) - [Obsidian 1.4.10 Desktop (Public)](https://obsidian.md/changelog/2023-09-11-desktop-v1.4.10/)
 * [2023-09-12, 15:57:16](https://news.ycombinator.com/item?id=37483226) - [Blood Transfusion and Brain Amyloidosis](https://jamanetwork.com/journals/jama/article-abstract/2809443)
+* [2023-09-12, 15:53:25](https://news.ycombinator.com/item?id=37483142) - [Oxford study proves heat pumps triumph over fossil fuels in the cold](https://www.nationalobserver.com/2023/09/11/news/oxford-study-proves-heat-pumps-triumph-over-fossil-fuels-cold)
+* [2023-09-12, 15:28:42](https://news.ycombinator.com/item?id=37482746) - [Ask HN: Favorite Game Engine?](https://news.ycombinator.com/item?id=37482746)
 * [2023-09-12, 15:14:05](https://news.ycombinator.com/item?id=37482517) - [New world record with an electric racing car: From 0 to 100 in 0.956 seconds](https://ethz.ch/en/news-and-events/eth-news/news/2023/09/from-zero-to-one-hundred-in-0-956-seconds.html)
-* [2023-09-12, 15:10:04](https://news.ycombinator.com/item?id=37482455) - [Specter of AI-Generated 'Leaked Songs' Is Tearing the Harry Styles Fandom Apart](https://www.404media.co/harry-styles-one-direction-ai-leaked-songs/)
 * [2023-09-12, 14:53:36](https://news.ycombinator.com/item?id=37482220) - [Building a Blog in Django](https://til.simonwillison.net/django/building-a-blog-in-django)
 * [2023-09-12, 14:42:26](https://news.ycombinator.com/item?id=37482058) - [Super-Earths in Need for Extremly Big Rockets (2018)](https://arxiv.org/abs/1803.11384)
 * [2023-09-12, 14:28:47](https://news.ycombinator.com/item?id=37481872) - [The New Godot Development Fund](https://godotengine.org/article/godot-developer-fund/)
@@ -28,7 +29,6 @@
 * [2023-09-11, 11:18:42](https://news.ycombinator.com/item?id=37465586) - [Chart – Completely Hackable Amateur Radio Telescope](https://astrochart.github.io/)
 * [2023-09-11, 09:55:18](https://news.ycombinator.com/item?id=37464988) - [Falling for Oklch: A Love Story of Color Spaces, Gamuts, and CSS](https://www.smashingmagazine.com/2023/08/oklch-color-spaces-gamuts-css/)
 * [2023-09-11, 06:15:59](https://news.ycombinator.com/item?id=37463534) - [Drying Fruits (2003)](https://nchfp.uga.edu/how/dry/csu_dry_fruits.pdf)
-* [2023-09-11, 03:28:23](https://news.ycombinator.com/item?id=37462539) - [Undying Dread: A 400-Year-Old Corpse, Locked to Its Grave](https://www.nytimes.com/2023/09/05/science/archaeology-burial-vampires-revenants.html)
 * [2023-09-10, 07:34:28](https://news.ycombinator.com/item?id=37453678) - [Amiga C Tutorial (2022)](http://www.pjhutchison.org/tutorial/amiga_c.html)
 
 ## [Archives](archives/index.md)

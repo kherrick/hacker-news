@@ -7,6 +7,8 @@
 * [2023-09-12, 16:04:31](https://news.ycombinator.com/item?id=37483348) - [Dementia risk is highest if you sit for longer than 10 hours each day](https://www.dailymail.co.uk/health/article-12508827/Dementia-warning-10-hours-sitting-spikes-risk.html)
 * [2023-09-12, 16:00:57](https://news.ycombinator.com/item?id=37483288) - [Obsidian 1.4.10 Desktop (Public)](https://obsidian.md/changelog/2023-09-11-desktop-v1.4.10/)
 * [2023-09-12, 15:57:16](https://news.ycombinator.com/item?id=37483226) - [Brain hemorrhage transmissible via blood transfusion](https://jamanetwork.com/journals/jama/article-abstract/2809443)
+* [2023-09-12, 15:53:25](https://news.ycombinator.com/item?id=37483142) - [Oxford study proves heat pumps triumph over fossil fuels in the cold](https://www.nationalobserver.com/2023/09/11/news/oxford-study-proves-heat-pumps-triumph-over-fossil-fuels-cold)
+* [2023-09-12, 15:28:42](https://news.ycombinator.com/item?id=37482746) - [Ask HN: Favorite Game Engine?](https://news.ycombinator.com/item?id=37482746)
 * [2023-09-12, 15:21:47](https://news.ycombinator.com/item?id=37482646) - [WTF Happened in 1971?](https://wtfhappenedin1971.com/)
 * [2023-09-12, 15:16:01](https://news.ycombinator.com/item?id=37482549) - [Vulnerability found in Dutch voting software](https://www.zerocopter.com/blog-en/the-importance-of-post-build-audits-do-you-know-what-you-ship?id=12)
 * [2023-09-12, 15:14:05](https://news.ycombinator.com/item?id=37482517) - [New world record with an electric racing car: From 0 to 100 in 0.956 seconds](https://ethz.ch/en/news-and-events/eth-news/news/2023/09/from-zero-to-one-hundred-in-0-956-seconds.html)
