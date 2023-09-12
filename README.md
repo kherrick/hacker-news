@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-12, 02:49:43](https://news.ycombinator.com/item?id=37476504) - [Truist plans 'sizable' job cuts to save $300M in costs](https://finance.yahoo.com/news/1-truist-financial-plans-sizable-113626353.html)
-* [2023-09-12, 02:29:22](https://news.ycombinator.com/item?id=37476399) - [Don't \"Find\" Your Niche, \"Develop\" It](https://www.scottscheper.com/niche-dev)
+* [2023-09-12, 03:05:04](https://news.ycombinator.com/item?id=37476588) - [Hacking the Book8088 for better accuracy](https://martypc.blogspot.com/2023/09/hacking-book8088-for-better-accuracy.html)
 * [2023-09-12, 01:01:17](https://news.ycombinator.com/item?id=37475737) - [Padlet (YC W13) is hiring in Singapore and San Francisco](https://padlet.jobs)
 * [2023-09-11, 23:54:48](https://news.ycombinator.com/item?id=37475257) - [Have I Been Pwned? [video]](https://www.youtube.com/watch?v=pxPEdUFdayA)
 * [2023-09-11, 23:06:33](https://news.ycombinator.com/item?id=37474904) - [Arm’s Neoverse V2](https://chipsandcheese.com/2023/09/11/hot-chips-2023-arms-neoverse-v2/)
@@ -14,6 +13,7 @@
 * [2023-09-11, 17:31:50](https://news.ycombinator.com/item?id=37470611) - [Show HN: Real-Time 3D Gaussian Splatting in WebGL](https://antimatter15.com/splat/)
 * [2023-09-11, 17:10:06](https://news.ycombinator.com/item?id=37470285) - [Calculate the difference and intersection of any two regexes](http://phylactery.org/antimirov/)
 * [2023-09-11, 16:59:15](https://news.ycombinator.com/item?id=37470132) - [A Multi-Level View of LLM Intentionality](http://disagreeableme.blogspot.com/2023/05/a-multi-level-view-of-llm-intentionality.html)
+* [2023-09-11, 16:54:22](https://news.ycombinator.com/item?id=37470058) - [Undocumented Features of GitHub](https://buttondown.email/hillelwayne/archive/github-has-too-many-hidden-features/)
 * [2023-09-11, 16:45:09](https://news.ycombinator.com/item?id=37469920) - [WiFi can read through walls](https://news.ucsb.edu/2023/021198/wifi-can-read-through-walls)
 * [2023-09-11, 16:40:24](https://news.ycombinator.com/item?id=37469849) - [The meeting of the minds that launched AI](https://spectrum.ieee.org/dartmouth-ai-workshop)
 * [2023-09-11, 14:44:08](https://news.ycombinator.com/item?id=37468031) - [Develop with Cocoa for Apple devices without using Objective-C](https://felixk15.github.io/posts/c_ocoa/)

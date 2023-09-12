@@ -40,6 +40,7 @@
 * [2023-09-11, 17:08:23](https://news.ycombinator.com/item?id=37470259) - [GitHub Discussion about the recent feed changes becomes 3rd most upvoted ever](https://news.ycombinator.com/item?id=37470259)
 * [2023-09-11, 17:01:03](https://news.ycombinator.com/item?id=37470158) - [DEA Filing Defends Firing ‘Outstanding’ Special Agent for Using CBD](https://www.documentcloud.org/documents/23945248-dea-employment-lawsuit-cbd)
 * [2023-09-11, 16:59:15](https://news.ycombinator.com/item?id=37470132) - [A Multi-Level View of LLM Intentionality](http://disagreeableme.blogspot.com/2023/05/a-multi-level-view-of-llm-intentionality.html)
+* [2023-09-11, 16:54:22](https://news.ycombinator.com/item?id=37470058) - [Undocumented Features of GitHub](https://buttondown.email/hillelwayne/archive/github-has-too-many-hidden-features/)
 * [2023-09-11, 16:45:09](https://news.ycombinator.com/item?id=37469920) - [WiFi can read through walls](https://news.ucsb.edu/2023/021198/wifi-can-read-through-walls)
 * [2023-09-11, 16:41:06](https://news.ycombinator.com/item?id=37469857) - [You Don't Need UUID](https://henvic.dev/posts/uuid/)
 * [2023-09-11, 16:40:24](https://news.ycombinator.com/item?id=37469849) - [The Meeting of the Minds That Launched AI](https://spectrum.ieee.org/dartmouth-ai-workshop)
