@@ -129,6 +129,109 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="37484259">
+          <h3>
+            <a
+              class="item"
+              href="https://jobs.lever.co/FinleyTechnologies/0a143938-ef2a-47f3-a4c0-861ac68fb1b0"
+              >Finley (YC W21) Is Hiring for Customer Success Managers in
+              Software (US Remote)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-09-12 @ 17:01:17</span
+              ><span class="points-container"
+                >Points: <span class="points">1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="37484135">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=37484135"
+              >Show HN: Fine-tune your own Llama 2 to replace GPT-3.5/4</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-09-12 @ 16:53:51</span
+              ><span class="points-container"
+                >Points: <span class="points">16</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37484135"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://news.ycombinator.com/item?id=37090632"
+                >https://news.ycombinator.com/item?id=37090632</a
+              >). I've been playing around with fine-tuning models for a couple
+              of years, and wanted to share some insights and practical code.
+              I’ve condensed what I’ve learned into a small set of notebooks at
+              <a
+                href="https://github.com/OpenPipe/OpenPipe/tree/main/examples/classify-recipes"
+                >https://github.com/OpenPipe/OpenPipe/tree/main/examples/clas...</a
+              >, covering labeling data, fine-tuning, running efficient
+              inference, and evaluating costs/performance. The 7B model we train
+              here matches GPT-4’s labels 95% of the time on the test set, and
+              for the 5% of cases where they disagree it’s often because the
+              correct answer is genuinely ambiguous.
+              <p>
+                What is fine-tuning? You can think of it as a more-powerful form
+                of prompting, where instead of writing your instructions in text
+                you actually encode them in the weights of the model itself. You
+                do this by training an existing model on example input/output
+                pairs that demonstrate the task you want your fine-tuned model
+                to learn. Fine-tuning can work with as few as 50 examples but I
+                usually try to get 1000+ if possible.
+              </p>
+              <p>
+                Prompting still has some big advantages over fine-tuning. It's
+                way easier/faster to iterate on your instructions than label
+                data and re-train a model. And operationally it's easier to
+                deploy one big model and just adjust its behavior as necessary
+                vs deploying many small fine-tuned models that will likely each
+                get lower utilization.
+              </p>
+              <p>
+                Fine-tuning has one huge advantage though: it is far more
+                effective at guiding a model's behavior than prompting, so you
+                can often get away with a <i>much</i> smaller model. That gets
+                you faster responses and lower inference costs. A fine-tuned
+                Llama 7B model is 50x cheaper than GPT-3.5 on a per-token basis,
+                and for many use cases can produce results that are as good or
+                better!
+              </p>
+              <p>
+                For example, classifying the 2M recipes at
+                <a href="https://huggingface.co/datasets/corbt/all-recipes"
+                  >https://huggingface.co/datasets/corbt/all-recipes</a
+                >
+                with GPT-4 would cost $23k. Even with GPT-3.5 it would cost over
+                $1k. The model we fine-tuned performs similarly to GPT-4 and
+                costs just $19 to run over the entire dataset.
+              </p>
+              <p>
+                Disclaimer: My brother David and I are working on an open-source
+                product called OpenPipe to help engineers adopt fine-tuning as
+                simply as possible. But none of the information above depends on
+                our startup. The current post is just about sharing information
+                that we’ve learned about fine-tuning. I hope it’s useful!
+              </p>
+              <p>
+                If you're interested in finding out more you can watch our repo
+                at
+                <a href="https://github.com/openpipe/openpipe"
+                  >https://github.com/openpipe/openpipe</a
+                >, and if you'd just like to chat about a fine-tuning project
+                you're thinking about you can also just email me at
+                kyle@openpipe.ai!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="37483288">
           <h3>
             <a
@@ -141,11 +244,11 @@
             <h4>
               <span>2023-09-12 @ 16:00:57</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37483288"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -162,7 +265,7 @@
             <h4>
               <span>2023-09-12 @ 15:57:16</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37483226"
                   >Comments</a
@@ -184,43 +287,13 @@
             <h4>
               <span>2023-09-12 @ 15:53:25</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37483142"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="37482746">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=37482746"
-              >Ask HN: Favorite Game Engine?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-09-12 @ 15:28:42</span
-              ><span class="points-container"
-                >Points: <span class="points">21</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37482746"
-                  >Comments</a
-                ><span class="descendants">: 16</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                My favorite is Panda3D [0] because I can use it from Python and
-                C++ and that it lets you code your game how you want while being
-                batteries included at the same time. It was used for some of
-                Disney's MMOs and themepark rides too so it's production ready.
-                Overall it's a lot of fun to work in and I'm also always
-                discovering cool new features like the very good async support
-                it has.
-              </p>
-            </div>
           </section>
         </section>
         <section id="37482517">
@@ -236,11 +309,11 @@
             <h4>
               <span>2023-09-12 @ 15:14:05</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37482517"
                   >Comments</a
-                ><span class="descendants">: 114</span></span
+                ><span class="descendants">: 118</span></span
               >
             </h4>
           </section>
@@ -257,11 +330,11 @@
             <h4>
               <span>2023-09-12 @ 14:53:36</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37482220"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -276,11 +349,11 @@
             <h4>
               <span>2023-09-12 @ 14:42:26</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37482058"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -297,7 +370,7 @@
             <h4>
               <span>2023-09-12 @ 14:28:47</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37481872"
                   >Comments</a
@@ -318,11 +391,11 @@
             <h4>
               <span>2023-09-12 @ 14:07:08</span
               ><span class="points-container"
-                >Points: <span class="points">193</span></span
+                >Points: <span class="points">201</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37481513"
                   >Comments</a
-                ><span class="descendants">: 102</span></span
+                ><span class="descendants">: 108</span></span
               >
             </h4>
           </section>
@@ -339,11 +412,11 @@
             <h4>
               <span>2023-09-12 @ 14:01:01</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37481424"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -360,11 +433,11 @@
             <h4>
               <span>2023-09-12 @ 13:55:54</span
               ><span class="points-container"
-                >Points: <span class="points">178</span></span
+                >Points: <span class="points">184</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37481344"
                   >Comments</a
-                ><span class="descendants">: 260</span></span
+                ><span class="descendants">: 272</span></span
               >
             </h4>
           </section>
@@ -381,11 +454,11 @@
             <h4>
               <span>2023-09-12 @ 13:45:31</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37481166"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 67</span></span
               >
             </h4>
           </section>
@@ -402,11 +475,11 @@
             <h4>
               <span>2023-09-12 @ 13:06:33</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37480561"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -424,11 +497,11 @@
             <h4>
               <span>2023-09-12 @ 13:02:47</span
               ><span class="points-container"
-                >Points: <span class="points">97</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37480512"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -443,7 +516,7 @@
             <h4>
               <span>2023-09-12 @ 12:49:46</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37480359"
                   >Comments</a
@@ -464,11 +537,11 @@
             <h4>
               <span>2023-09-12 @ 12:47:15</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37480331"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -485,7 +558,7 @@
             <h4>
               <span>2023-09-12 @ 12:46:01</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37480313"
                   >Comments</a
@@ -494,19 +567,23 @@
             </h4>
           </section>
         </section>
-        <section id="37479749">
+        <section id="37480155">
           <h3>
             <a
               class="item"
-              href="https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer"
-              >Treble.ai (YC S19) Is Hiring Spanish Speaking Engineers in NYC</a
+              href="https://resobscura.substack.com/p/simulating-history-with-chatgpt"
+              >Simulating History with ChatGPT</a
             >
           </h3>
           <section>
             <h4>
-              <span>2023-09-12 @ 12:00:57</span
+              <span>2023-09-12 @ 12:34:40</span
               ><span class="points-container"
-                >Points: <span class="points">1</span></span
+                >Points: <span class="points">67</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37480155"
+                  >Comments</a
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -544,30 +621,11 @@
             <h4>
               <span>2023-09-12 @ 09:48:33</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37478755"
                   >Comments</a
                 ><span class="descendants">: 3</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="37478748">
-          <h3>
-            <a class="item" href="https://pawelurbanek.com/rails-brotli-cache"
-              >How to Improve Rails Caching with Brotli Compression</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-09-12 @ 09:47:17</span
-              ><span class="points-container"
-                >Points: <span class="points">46</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37478748"
-                  >Comments</a
-                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -584,11 +642,11 @@
             <h4>
               <span>2023-09-12 @ 08:58:42</span
               ><span class="points-container"
-                >Points: <span class="points">251</span></span
+                >Points: <span class="points">252</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37478403"
                   >Comments</a
-                ><span class="descendants">: 206</span></span
+                ><span class="descendants">: 210</span></span
               >
             </h4>
           </section>
@@ -603,32 +661,11 @@
             <h4>
               <span>2023-09-12 @ 06:29:08</span
               ><span class="points-container"
-                >Points: <span class="points">345</span></span
+                >Points: <span class="points">350</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37477512"
                   >Comments</a
-                ><span class="descendants">: 178</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="37474743">
-          <h3>
-            <a
-              class="item"
-              href="https://hackaday.com/2023/03/10/making-dry-ice-at-home-is-just-as-hard-as-it-sounds/"
-              >Making Dry Ice at home is just as hard as it sounds</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-09-11 @ 22:49:39</span
-              ><span class="points-container"
-                >Points: <span class="points">38</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37474743"
-                  >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 181</span></span
               >
             </h4>
           </section>
@@ -643,11 +680,11 @@
             <h4>
               <span>2023-09-11 @ 21:25:21</span
               ><span class="points-container"
-                >Points: <span class="points">248</span></span
+                >Points: <span class="points">249</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37473933"
                   >Comments</a
-                ><span class="descendants">: 93</span></span
+                ><span class="descendants">: 94</span></span
               >
             </h4>
           </section>
@@ -662,11 +699,11 @@
             <h4>
               <span>2023-09-11 @ 19:19:28</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37472340"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -685,7 +722,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37465586"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -703,11 +740,32 @@
             <h4>
               <span>2023-09-11 @ 09:55:18</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37464988"
                   >Comments</a
                 ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="37464950">
+          <h3>
+            <a
+              class="item"
+              href="https://sethmlarson.dev/security-developer-in-residence-weekly-report-9?date=2023-09-05"
+              >Visualizing the CPython Release Process</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-09-11 @ 09:50:36</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37464950"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -724,11 +782,11 @@
             <h4>
               <span>2023-09-11 @ 06:15:59</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37463534"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
