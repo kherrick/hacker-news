@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-12, 03:05:04](https://news.ycombinator.com/item?id=37476588) - [Hacking the Book8088 for better accuracy](https://martypc.blogspot.com/2023/09/hacking-book8088-for-better-accuracy.html)
+* [2023-09-12, 02:29:22](https://news.ycombinator.com/item?id=37476399) - [Don't \"find\" your niche, \"develop\" it](https://www.scottscheper.com/niche-dev)
 * [2023-09-12, 01:01:17](https://news.ycombinator.com/item?id=37475737) - [Padlet (YC W13) is hiring in Singapore and San Francisco](https://padlet.jobs)
 * [2023-09-12, 00:38:51](https://news.ycombinator.com/item?id=37475596) - [How I CEO: On taking advice as a leader](https://mercury.com/blog/inside-mercury/how-i-ceo-taking-advice-as-leader)
 * [2023-09-11, 23:54:48](https://news.ycombinator.com/item?id=37475257) - [Have I Been Pwned? [video]](https://www.youtube.com/watch?v=pxPEdUFdayA)
@@ -17,7 +18,6 @@
 * [2023-09-11, 16:59:15](https://news.ycombinator.com/item?id=37470132) - [A Multi-Level View of LLM Intentionality](http://disagreeableme.blogspot.com/2023/05/a-multi-level-view-of-llm-intentionality.html)
 * [2023-09-11, 16:45:09](https://news.ycombinator.com/item?id=37469920) - [WiFi can read through walls](https://news.ucsb.edu/2023/021198/wifi-can-read-through-walls)
 * [2023-09-11, 16:40:24](https://news.ycombinator.com/item?id=37469849) - [The meeting of the minds that launched AI](https://spectrum.ieee.org/dartmouth-ai-workshop)
-* [2023-09-11, 15:04:02](https://news.ycombinator.com/item?id=37468342) - [Webb Discovers Methane, Carbon Dioxide in Atmosphere of K2-18B](https://www.nasa.gov/goddard/2023/webb-discovers-methane-carbon-dioxide-in-atmosphere-of-k2-18b/)
 * [2023-09-11, 14:44:08](https://news.ycombinator.com/item?id=37468031) - [Develop with Cocoa for Apple devices without using Objective-C](https://felixk15.github.io/posts/c_ocoa/)
 * [2023-09-11, 12:51:53](https://news.ycombinator.com/item?id=37466475) - [Unix Domain Sockets vs Loopback TCP Sockets (2014)](https://nicisdigital.wordpress.com/2014/03/03/unix-domain-sockets-vs-loopback-tcp-sockets/)
 * [2023-09-11, 12:06:28](https://news.ycombinator.com/item?id=37466027) - [The Project Gutenberg Open Audiobook Collection](https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html)
