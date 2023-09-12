@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-12, 13:02:31](https://news.ycombinator.com/item?id=37480508) - [iPhone 15’s shift to USB-C has hidden potential to streamline computing](https://techcrunch.com/2023/09/11/iphone-15-desktop-mode/)
-* [2023-09-12, 13:00:06](https://news.ycombinator.com/item?id=37480478) - [Why isn’t dotnet core popular among startups?](https://old.reddit.com/r/dotnet/login/)
+* [2023-09-12, 12:49:46](https://news.ycombinator.com/item?id=37480359) - [Trinary Decision Trees for missing value handling](https://arxiv.org/abs/2309.03561)
+* [2023-09-12, 12:47:15](https://news.ycombinator.com/item?id=37480331) - [QtWayland 6.6 Brings Robustness Through Compositor Handoffs](http://blog.davidedmundson.co.uk/blog/qt6_wayland_robustness/)
 * [2023-09-12, 12:46:01](https://news.ycombinator.com/item?id=37480313) - [Physicists Create Elusive Particles That Remember Their Pasts](https://www.quantamagazine.org/physicists-create-elusive-particles-that-remember-their-pasts-20230509/)
 * [2023-09-12, 12:44:46](https://news.ycombinator.com/item?id=37480294) - [TikTok Shop](https://newsroom.tiktok.com/en-us/introducing-tiktok-shop)
 * [2023-09-12, 12:42:48](https://news.ycombinator.com/item?id=37480271) - [U.S. v. Google](https://www.wsj.com/tech/google-antitrust-trial-doj-search-91d32f8f)
@@ -23,7 +24,6 @@
 * [2023-09-12, 06:05:13](https://news.ycombinator.com/item?id=37477366) - [How to raise a child with taste in eighteenth-century Britain](https://www.laphamsquarterly.org/roundtable/do-not-suffer-him-become-bigot)
 * [2023-09-12, 05:50:40](https://news.ycombinator.com/item?id=37477294) - [I2c-USB-hub: An i2C Controllable USB 2.0 Hub](https://github.com/JimHeaney/i2c-usb-hub)
 * [2023-09-12, 03:05:04](https://news.ycombinator.com/item?id=37476588) - [Hacking the Book8088 for better accuracy](https://martypc.blogspot.com/2023/09/hacking-book8088-for-better-accuracy.html)
-* [2023-09-11, 22:33:37](https://news.ycombinator.com/item?id=37474601) - [OpenSSL 1.1.1 End of Life](https://www.openssl.org/blog/blog/2023/09/11/eol-111/)
 * [2023-09-11, 21:25:21](https://news.ycombinator.com/item?id=37473933) - [The Power of Prolog](https://www.metalevel.at/prolog/facets)
 * [2023-09-11, 11:18:42](https://news.ycombinator.com/item?id=37465586) - [Chart – Completely Hackable Amateur Radio Telescope](https://astrochart.github.io/)
 * [2023-09-11, 06:15:59](https://news.ycombinator.com/item?id=37463534) - [Drying Fruits (2003)](https://nchfp.uga.edu/how/dry/csu_dry_fruits.pdf)

@@ -7,6 +7,8 @@
 * [2023-09-12, 13:20:00](https://news.ycombinator.com/item?id=37480763) - [A phone cleaning app makes $2M/mo on the App Store – The reviews show how](https://www.undefinedapps.com/post/analyze-app-store-reviews-app-storage-cleanup)
 * [2023-09-12, 13:02:31](https://news.ycombinator.com/item?id=37480508) - [iPhone 15’s shift to USB-C has hidden potential to streamline computing](https://techcrunch.com/2023/09/11/iphone-15-desktop-mode/)
 * [2023-09-12, 13:00:06](https://news.ycombinator.com/item?id=37480478) - [Why isn’t dotnet core popular among startups?](https://old.reddit.com/r/dotnet/login/)
+* [2023-09-12, 12:49:46](https://news.ycombinator.com/item?id=37480359) - [Trinary Decision Trees for missing value handling](https://arxiv.org/abs/2309.03561)
+* [2023-09-12, 12:47:15](https://news.ycombinator.com/item?id=37480331) - [QtWayland 6.6 Brings Robustness Through Compositor Handoffs](http://blog.davidedmundson.co.uk/blog/qt6_wayland_robustness/)
 * [2023-09-12, 12:46:01](https://news.ycombinator.com/item?id=37480313) - [Physicists Create Elusive Particles That Remember Their Pasts](https://www.quantamagazine.org/physicists-create-elusive-particles-that-remember-their-pasts-20230509/)
 * [2023-09-12, 12:44:46](https://news.ycombinator.com/item?id=37480294) - [TikTok Shop](https://newsroom.tiktok.com/en-us/introducing-tiktok-shop)
 * [2023-09-12, 12:42:48](https://news.ycombinator.com/item?id=37480271) - [Google's antitrust trial is set to begin today](https://www.wsj.com/tech/google-antitrust-trial-doj-search-91d32f8f)
