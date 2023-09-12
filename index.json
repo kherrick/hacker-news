@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-12, 22:25:00",
+      "https://news.ycombinator.com/item?id=37489414"
+    ],
+    [
+      "Embracing the Surge of Remote Software Developers",
+      "https://remotebase.com/blog/tech-talent-without-borders-embracing-the-surge-of-remote-software-developers"
+    ]
+  ],
+  [
+    [
+      "2023-09-12, 22:06:14",
+      "https://news.ycombinator.com/item?id=37489200"
+    ],
+    [
+      "Greatest Films of All Time",
+      "https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time"
+    ]
+  ],
+  [
+    [
       "2023-09-12, 21:33:13",
       "https://news.ycombinator.com/item?id=37488762"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=37488252"
     ],
     [
-      "Justpaid.io (YC W23) is hiring a senior full stack engineer",
+      "JustPaid.io (YC W23) is hiring a senior full stack engineer",
       "https://www.justpaid.io/careers"
     ]
   ],
@@ -67,16 +87,6 @@
     [
       "PeerReview4All: Fair and accurate reviewer assignment in peer review",
       "https://arxiv.org/abs/1806.06237"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 19:12:13",
-      "https://news.ycombinator.com/item?id=37486307"
-    ],
-    [
-      "A small Universe",
-      "https://arxiv.org/abs/2309.03272"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2023-09-12, 12:46:01",
-      "https://news.ycombinator.com/item?id=37480313"
-    ],
-    [
-      "Physicists create elusive particles that remember their pasts",
-      "https://www.quantamagazine.org/physicists-create-elusive-particles-that-remember-their-pasts-20230509/"
-    ]
-  ],
-  [
-    [
       "2023-09-12, 12:34:40",
       "https://news.ycombinator.com/item?id=37480155"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2023-09-11, 18:01:38",
+      "https://news.ycombinator.com/item?id=37471055"
+    ],
+    [
+      "Integrating C++ header units into Office using MSVC (2/n)",
+      "https://devblogs.microsoft.com/cppblog/integrating-c-header-units-into-office-using-msvc-2-n/"
+    ]
+  ],
+  [
+    [
       "2023-09-11, 16:23:47",
       "https://news.ycombinator.com/item?id=37469590"
     ],
@@ -287,16 +297,6 @@
     [
       "Visualizing the CPython Release Process",
       "https://sethmlarson.dev/security-developer-in-residence-weekly-report-9?date=2023-09-05"
-    ]
-  ],
-  [
-    [
-      "2023-09-11, 06:15:59",
-      "https://news.ycombinator.com/item?id=37463534"
-    ],
-    [
-      "Drying Fruits (2003)",
-      "https://nchfp.uga.edu/how/dry/csu_dry_fruits.pdf"
     ]
   ]
 ]
