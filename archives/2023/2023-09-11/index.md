@@ -91,6 +91,7 @@
 * [2023-09-11, 08:35:42](https://news.ycombinator.com/item?id=37464481) - [The End of Cheap Europe Flights? France Proposes EU-Wide Minimum Price](https://www.forbes.com/sites/alexledsom/2023/09/07/the-end-of-cheap-europe-flights-france-proposes-eu-wide-minimum-price/)
 * [2023-09-11, 08:32:18](https://news.ycombinator.com/item?id=37464466) - [Spain’s Lessons for American Decline](https://compactmag.com/article/spain-s-lessons-for-american-decline)
 * [2023-09-11, 08:27:31](https://news.ycombinator.com/item?id=37464437) - [Altering Python attribute handling for modules](https://lwn.net/SubscriberLink/943619/eaa8a4496fcba1fd/)
+* [2023-09-11, 07:56:47](https://news.ycombinator.com/item?id=37464250) - [Atari doubles down on retro, buys beloved Atari homebrew maker](https://arstechnica.com/gaming/2023/09/zap-atari-acquires-beloved-retro-homebrew-vendor-atariage/)
 * [2023-09-11, 07:01:04](https://news.ycombinator.com/item?id=37463864) - [Meticulous (YC S21) Is Hiring #3 engineer to build AI for testing](https://news.ycombinator.com/item?id=37463864)
 * [2023-09-11, 06:35:09](https://news.ycombinator.com/item?id=37463676) - [Gen Z is giving up on college](https://www.businessinsider.nl/gen-z-is-giving-up-on-college/)
 * [2023-09-11, 06:33:15](https://news.ycombinator.com/item?id=37463662) - [A group of open source Android apps without ads and unnecessary permissions](https://www.simplemobiletools.com)
