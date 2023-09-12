@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-12, 19:16:42](https://news.ycombinator.com/item?id=37486400) - [Steam is 20 Years Old](https://store.steampowered.com/sale/steam20)
-* [2023-09-12, 19:15:13](https://news.ycombinator.com/item?id=37486374) - [Unity Introduces Runtime Fee](https://twitter.com/unity/status/1701650081403842851)
+* [2023-09-12, 19:12:13](https://news.ycombinator.com/item?id=37486307) - [A small Universe](https://arxiv.org/abs/2309.03272)
 * [2023-09-12, 18:29:04](https://news.ycombinator.com/item?id=37485387) - [The Rules of Margin Collapse](https://www.joshwcomeau.com/css/rules-of-margin-collapse/)
 * [2023-09-12, 18:23:09](https://news.ycombinator.com/item?id=37485290) - [iPhone 15 and iPhone 15 Plus](https://www.apple.com/newsroom/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/)
 * [2023-09-12, 18:21:42](https://news.ycombinator.com/item?id=37485271) - [Apple iPhone 15 Pro and iPhone 15 Pro Max](https://www.apple.com/newsroom/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/)
@@ -17,7 +17,6 @@
 * [2023-09-12, 14:42:26](https://news.ycombinator.com/item?id=37482058) - [Super-Earths in Need for Extremly Big Rockets (2018)](https://arxiv.org/abs/1803.11384)
 * [2023-09-12, 14:07:08](https://news.ycombinator.com/item?id=37481513) - [We built the fastest CI and it failed](https://earthly.dev/blog/shutting-down-earthly-ci/)
 * [2023-09-12, 13:55:54](https://news.ycombinator.com/item?id=37481344) - [Unity plan pricing and packaging updates](https://blog.unity.com/news/plan-pricing-and-packaging-updates)
-* [2023-09-12, 13:45:31](https://news.ycombinator.com/item?id=37481166) - [The Relativity of Wrong (1989)](https://hermiene.net/essays-trans/relativity_of_wrong.html)
 * [2023-09-12, 13:06:33](https://news.ycombinator.com/item?id=37480561) - [How large that number in the Law of Large Numbers is?](https://thepalindrome.org/p/how-large-that-number-in-the-law)
 * [2023-09-12, 13:02:47](https://news.ycombinator.com/item?id=37480512) - [Sony develops energy harvesting module from electromagnetic wave noise](https://www.sony-semicon.com/en/news/2023/2023090701.html)
 * [2023-09-12, 12:49:46](https://news.ycombinator.com/item?id=37480359) - [Trinary Decision Trees for missing value handling](https://arxiv.org/abs/2309.03561)
@@ -28,6 +27,7 @@
 * [2023-09-11, 19:19:28](https://news.ycombinator.com/item?id=37472340) - [RetroAchievements: Adding Achievements to Retro Games](https://retroachievements.org)
 * [2023-09-11, 16:38:11](https://news.ycombinator.com/item?id=37469811) - [Parmesan makers add microchips to cheese wheels to foil counterfeiters](https://www.tomshardware.com/news/parmesan-makers-add-microchips-to-cheese-wheels-to-foil-counterfeiters)
 * [2023-09-11, 11:18:42](https://news.ycombinator.com/item?id=37465586) - [Chart – Completely Hackable Amateur Radio Telescope](https://astrochart.github.io/)
+* [2023-09-11, 09:55:18](https://news.ycombinator.com/item?id=37464988) - [Falling for Oklch: A Love Story of Color Spaces, Gamuts, and CSS](https://www.smashingmagazine.com/2023/08/oklch-color-spaces-gamuts-css/)
 * [2023-09-11, 09:50:36](https://news.ycombinator.com/item?id=37464950) - [Visualizing the CPython Release Process](https://sethmlarson.dev/security-developer-in-residence-weekly-report-9?date=2023-09-05)
 * [2023-09-11, 03:28:23](https://news.ycombinator.com/item?id=37462539) - [Undying dread: A 400-year-old corpse, locked to its grave](https://www.nytimes.com/2023/09/05/science/archaeology-burial-vampires-revenants.html)
 
