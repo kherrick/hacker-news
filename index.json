@@ -1,6 +1,56 @@
 [
   [
     [
+      "2023-09-12, 12:03:34",
+      "https://news.ycombinator.com/item?id=37479774"
+    ],
+    [
+      "Vitalik Buterin reveals X account hack was caused by SIM-swap attack",
+      "https://cointelegraph.com/news/vitalik-buterin-reveals-x-account-hack-was-caused-by-sim-swap-attack"
+    ]
+  ],
+  [
+    [
+      "2023-09-12, 12:00:57",
+      "https://news.ycombinator.com/item?id=37479749"
+    ],
+    [
+      "Treble.ai (YC S19) Is Hiring Spanish Speaking Engineers in NYC",
+      "https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer"
+    ]
+  ],
+  [
+    [
+      "2023-09-12, 11:50:09",
+      "https://news.ycombinator.com/item?id=37479630"
+    ],
+    [
+      "Ask HN: What benefits are important to you when choosing a job?",
+      "https://news.ycombinator.com/item?id=37479630"
+    ]
+  ],
+  [
+    [
+      "2023-09-12, 11:36:24",
+      "https://news.ycombinator.com/item?id=37479515"
+    ],
+    [
+      "Dutch groups sue Google over alleged privacy violations",
+      "https://www.reuters.com/technology/dutch-groups-sue-google-over-alleged-privacy-violations-2023-09-12/"
+    ]
+  ],
+  [
+    [
+      "2023-09-12, 11:31:39",
+      "https://news.ycombinator.com/item?id=37479476"
+    ],
+    [
+      "On Robots Killing People",
+      "https://www.schneier.com/blog/archives/2023/09/on-robots-killing-people.html"
+    ]
+  ],
+  [
+    [
       "2023-09-12, 11:30:57",
       "https://news.ycombinator.com/item?id=37479472"
     ],
@@ -31,16 +81,6 @@
   ],
   [
     [
-      "2023-09-12, 11:09:01",
-      "https://news.ycombinator.com/item?id=37479295"
-    ],
-    [
-      "Ask HN: What's your seniority, location and notice period?",
-      "https://news.ycombinator.com/item?id=37479295"
-    ]
-  ],
-  [
-    [
       "2023-09-12, 09:47:17",
       "https://news.ycombinator.com/item?id=37478748"
     ],
@@ -67,26 +107,6 @@
     [
       "NASA says distant exoplanet could have rare water ocean, possible hint of life",
       "https://www.theguardian.com/science/2023/sep/11/nasa-planet-ocean-life-james-webb-telescope"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 06:55:56",
-      "https://news.ycombinator.com/item?id=37477643"
-    ],
-    [
-      "Why Are Black Currants Banned in the USA",
-      "https://foodtolive.com/healthy-blog/black-currants-banned-usa/"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 06:37:39",
-      "https://news.ycombinator.com/item?id=37477558"
-    ],
-    [
-      "Reasons to not use your own domain for email",
-      "https://www.bautista.dev/reasons-to-not-use-your-own-domain-for-email"
     ]
   ],
   [
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2023-09-12, 02:12:31",
-      "https://news.ycombinator.com/item?id=37476281"
-    ],
-    [
-      "Arxiv.org is experiencing a DDoS attack",
-      "https://blog.arxiv.org/2023/09/11/arxiv-org-is-experiencing-a-ddos-attack/"
-    ]
-  ],
-  [
-    [
       "2023-09-12, 02:02:31",
       "https://news.ycombinator.com/item?id=37476218"
     ],
     [
       "Caddy is the first and only web server to use HTTPS automatically and by default",
       "https://caddyserver.com/docs/automatic-https"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 01:01:17",
-      "https://news.ycombinator.com/item?id=37475737"
-    ],
-    [
-      "Padlet (YC W13) is hiring in Singapore and San Francisco",
-      "https://padlet.jobs"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2023-09-11, 17:31:50",
-      "https://news.ycombinator.com/item?id=37470611"
-    ],
-    [
-      "Show HN: Real-Time 3D Gaussian Splatting in WebGL",
-      "https://antimatter15.com/splat/"
-    ]
-  ],
-  [
-    [
       "2023-09-11, 17:10:06",
       "https://news.ycombinator.com/item?id=37470285"
     ],
     [
       "Calculate the difference and intersection of any two regexes",
       "http://phylactery.org/antimirov/"
+    ]
+  ],
+  [
+    [
+      "2023-09-11, 11:18:42",
+      "https://news.ycombinator.com/item?id=37465586"
+    ],
+    [
+      "Chart – Completely Hackable Amateur Radio Telescope",
+      "https://astrochart.github.io/"
     ]
   ],
   [
