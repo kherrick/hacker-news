@@ -11,6 +11,7 @@
 * [2023-09-12, 06:37:39](https://news.ycombinator.com/item?id=37477558) - [Reasons to not use your own domain for email](https://www.bautista.dev/reasons-to-not-use-your-own-domain-for-email)
 * [2023-09-12, 06:32:47](https://news.ycombinator.com/item?id=37477526) - [What’s the Smallest Variety of CHERI? (2022)](https://msrc.microsoft.com/blog/2022/09/whats-the-smallest-variety-of-cheri/)
 * [2023-09-12, 06:29:08](https://news.ycombinator.com/item?id=37477512) - [Open source P2P alternative to Slack and Discord built on Tor and IPFS](https://github.com/TryQuiet/quiet)
+* [2023-09-12, 06:05:13](https://news.ycombinator.com/item?id=37477366) - [How to raise a child with taste in eighteenth-century Britain](https://www.laphamsquarterly.org/roundtable/do-not-suffer-him-become-bigot)
 * [2023-09-12, 05:50:40](https://news.ycombinator.com/item?id=37477294) - [I2c-USB-hub: An i2C Controllable USB 2.0 Hub](https://github.com/JimHeaney/i2c-usb-hub)
 * [2023-09-12, 05:31:45](https://news.ycombinator.com/item?id=37477205) - [Ask HN: How is Rust used in the Linux kernel today?](https://news.ycombinator.com/item?id=37477205)
 * [2023-09-12, 05:27:27](https://news.ycombinator.com/item?id=37477188) - [A16Z sued for discrimination after RTW collapse](https://www.axios.com/2023/09/11/andreessen-horowitz-run-the-word-discrimination-venture-capital)
