@@ -2,6 +2,7 @@
 
 * [2023-09-12, 03:05:04](https://news.ycombinator.com/item?id=37476588) - [Hacking the Book8088 for better accuracy](https://martypc.blogspot.com/2023/09/hacking-book8088-for-better-accuracy.html)
 * [2023-09-12, 01:01:17](https://news.ycombinator.com/item?id=37475737) - [Padlet (YC W13) is hiring in Singapore and San Francisco](https://padlet.jobs)
+* [2023-09-12, 00:38:51](https://news.ycombinator.com/item?id=37475596) - [How I CEO: On taking advice as a leader](https://mercury.com/blog/inside-mercury/how-i-ceo-taking-advice-as-leader)
 * [2023-09-11, 23:54:48](https://news.ycombinator.com/item?id=37475257) - [Have I Been Pwned? [video]](https://www.youtube.com/watch?v=pxPEdUFdayA)
 * [2023-09-11, 23:06:33](https://news.ycombinator.com/item?id=37474904) - [Arm’s Neoverse V2](https://chipsandcheese.com/2023/09/11/hot-chips-2023-arms-neoverse-v2/)
 * [2023-09-11, 22:52:49](https://news.ycombinator.com/item?id=37474780) - [Neopets is still around](https://www.dualshockers.com/neopets-is-still-active-2023/)
@@ -9,7 +10,6 @@
 * [2023-09-11, 21:50:15](https://news.ycombinator.com/item?id=37474189) - [Onboarding floating-point](https://www.altdevarts.com/p/onboarding-floating-point)
 * [2023-09-11, 18:25:02](https://news.ycombinator.com/item?id=37471417) - [Advanced x86: Virtualization with  Intel VT-x](https://opensecuritytraining.info/AdvancedX86-VTX.html)
 * [2023-09-11, 18:18:37](https://news.ycombinator.com/item?id=37471321) - [Mac ROM-Inator II Restock and Partnerships](https://www.bigmessowires.com/2023/09/09/mac-rom-inator-ii-restock-and-partnerships/)
-* [2023-09-11, 17:44:17](https://news.ycombinator.com/item?id=37470801) - [MGM is down, cybersecurity attack ongoing](https://www.casino.org/news/mgm-resorts-suffers-cybersecurity-attack-system-outage-reported/)
 * [2023-09-11, 17:31:50](https://news.ycombinator.com/item?id=37470611) - [Show HN: Real-Time 3D Gaussian Splatting in WebGL](https://antimatter15.com/splat/)
 * [2023-09-11, 17:10:06](https://news.ycombinator.com/item?id=37470285) - [Calculate the difference and intersection of any two regexes](http://phylactery.org/antimirov/)
 * [2023-09-11, 16:59:15](https://news.ycombinator.com/item?id=37470132) - [A Multi-Level View of LLM Intentionality](http://disagreeableme.blogspot.com/2023/05/a-multi-level-view-of-llm-intentionality.html)
