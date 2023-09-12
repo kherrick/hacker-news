@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-12, 01:45:20](https://news.ycombinator.com/item?id=37476107) - [For the first time in years, I’m excited by my computer purchase](https://changelog.complete.org/archives/10564-for-the-first-time-in-years-im-excited-by-my-computer-purchase)
 * [2023-09-12, 01:01:17](https://news.ycombinator.com/item?id=37475737) - [Padlet (YC W13) is hiring in Singapore and San Francisco](https://padlet.jobs)
 * [2023-09-11, 23:54:48](https://news.ycombinator.com/item?id=37475257) - [Have I Been Pwned? [video]](https://www.youtube.com/watch?v=pxPEdUFdayA)
 * [2023-09-11, 23:06:33](https://news.ycombinator.com/item?id=37474904) - [Arm’s Neoverse V2](https://chipsandcheese.com/2023/09/11/hot-chips-2023-arms-neoverse-v2/)
@@ -19,6 +18,7 @@
 * [2023-09-11, 12:51:53](https://news.ycombinator.com/item?id=37466475) - [Unix Domain Sockets vs Loopback TCP Sockets (2014)](https://nicisdigital.wordpress.com/2014/03/03/unix-domain-sockets-vs-loopback-tcp-sockets/)
 * [2023-09-11, 12:35:54](https://news.ycombinator.com/item?id=37466302) - [Intuitively Understanding Harris Corner Detector](https://comsci.blog/posts/intuitive-harris)
 * [2023-09-11, 12:26:14](https://news.ycombinator.com/item?id=37466207) - [Beyond OpenAPI](https://antonz.org/interactive-api-tutorials/)
+* [2023-09-11, 12:23:28](https://news.ycombinator.com/item?id=37466182) - [A LLM+OLAP Solution](https://doris.apache.org/zh-CN/blog/Tencent-LLM/)
 * [2023-09-11, 12:06:28](https://news.ycombinator.com/item?id=37466027) - [The Project Gutenberg Open Audiobook Collection](https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html)
 * [2023-09-11, 11:49:09](https://news.ycombinator.com/item?id=37465852) - [New upper bound found for the Heilbronn triangle problem](https://www.quantamagazine.org/the-biggest-smallest-triangle-just-got-smaller-20230908/)
 * [2023-09-11, 10:58:37](https://news.ycombinator.com/item?id=37465427) - [A systematic approach to debugging](https://ntietz.com/blog/how-i-debug-2023/)
