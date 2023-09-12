@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-12, 11:30:57](https://news.ycombinator.com/item?id=37479472) - [Sweden brings more books and handwriting practice back to its tech-heavy schools](https://apnews.com/article/sweden-digital-education-backlash-reading-writing-1dd964c628f76361c43dbf3964f7dbf4)
 * [2023-09-12, 11:24:21](https://news.ycombinator.com/item?id=37479434) - [Navigational Instruments: Hidden Features in Firefox [2020]](https://exple.tive.org/blarg/2020/10/25/navigational-instruments/)
 * [2023-09-12, 11:12:41](https://news.ycombinator.com/item?id=37479323) - [Phoenix 1.7 for Elixir: Edit a Form in a Modal](https://blog.appsignal.com/2023/09/12/phoenix-1-7-for-elixir-edit-a-form-in-a-modal.html)
 * [2023-09-12, 09:47:17](https://news.ycombinator.com/item?id=37478748) - [How to Improve Rails Caching with Brotli Compression](https://pawelurbanek.com/rails-brotli-cache)
@@ -22,7 +23,6 @@
 * [2023-09-11, 23:06:33](https://news.ycombinator.com/item?id=37474904) - [Arm’s Neoverse V2](https://chipsandcheese.com/2023/09/11/hot-chips-2023-arms-neoverse-v2/)
 * [2023-09-11, 22:33:37](https://news.ycombinator.com/item?id=37474601) - [OpenSSL 1.1.1 End of Life](https://www.openssl.org/blog/blog/2023/09/11/eol-111/)
 * [2023-09-11, 21:25:21](https://news.ycombinator.com/item?id=37473933) - [The Power of Prolog](https://www.metalevel.at/prolog/facets)
-* [2023-09-11, 18:08:06](https://news.ycombinator.com/item?id=37471149) - [How to read bug reports (2016)](https://www.massicotte.org/reading-bug-reports)
 * [2023-09-11, 17:31:50](https://news.ycombinator.com/item?id=37470611) - [Show HN: Real-Time 3D Gaussian Splatting in WebGL](https://antimatter15.com/splat/)
 * [2023-09-11, 17:10:06](https://news.ycombinator.com/item?id=37470285) - [Calculate the difference and intersection of any two regexes](http://phylactery.org/antimirov/)
 * [2023-09-11, 12:06:28](https://news.ycombinator.com/item?id=37466027) - [The Project Gutenberg Open Audiobook Collection](https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
+* [2023-09-12, 11:30:57](https://news.ycombinator.com/item?id=37479472) - [Sweden brings more books and handwriting practice back to its tech-heavy schools](https://apnews.com/article/sweden-digital-education-backlash-reading-writing-1dd964c628f76361c43dbf3964f7dbf4)
 * [2023-09-12, 11:24:21](https://news.ycombinator.com/item?id=37479434) - [Navigational Instruments: Hidden Features in Firefox [2020]](https://exple.tive.org/blarg/2020/10/25/navigational-instruments/)
 * [2023-09-12, 11:12:41](https://news.ycombinator.com/item?id=37479323) - [Phoenix 1.7 for Elixir: Edit a Form in a Modal](https://blog.appsignal.com/2023/09/12/phoenix-1-7-for-elixir-edit-a-form-in-a-modal.html)
 * [2023-09-12, 09:47:17](https://news.ycombinator.com/item?id=37478748) - [How to Improve Rails Caching with Brotli Compression](https://pawelurbanek.com/rails-brotli-cache)
