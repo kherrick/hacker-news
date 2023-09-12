@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-09-12, 18:29:04",
+      "https://news.ycombinator.com/item?id=37485387"
+    ],
+    [
+      "The Rules of Margin Collapse",
+      "https://www.joshwcomeau.com/css/rules-of-margin-collapse/"
+    ]
+  ],
+  [
+    [
       "2023-09-12, 18:23:09",
       "https://news.ycombinator.com/item?id=37485290"
     ],
     [
       "iPhone 15 and iPhone 15 Plus",
       "https://www.apple.com/newsroom/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 18:21:42",
-      "https://news.ycombinator.com/item?id=37485271"
-    ],
-    [
-      "Apple iPhone 15 Pro and iPhone 15 Pro Max",
-      "https://www.apple.com/newsroom/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/"
     ]
   ],
   [
@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-09-12, 16:00:57",
-      "https://news.ycombinator.com/item?id=37483288"
-    ],
-    [
-      "Obsidian 1.4.10 Desktop (Public)",
-      "https://obsidian.md/changelog/2023-09-11-desktop-v1.4.10/"
-    ]
-  ],
-  [
-    [
       "2023-09-12, 15:57:16",
       "https://news.ycombinator.com/item?id=37483226"
     ],
@@ -107,6 +97,16 @@
     [
       "New world record with an electric racing car: From 0 to 100 in 0.956 seconds",
       "https://ethz.ch/en/news-and-events/eth-news/news/2023/09/from-zero-to-one-hundred-in-0-956-seconds.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-12, 14:53:36",
+      "https://news.ycombinator.com/item?id=37482220"
+    ],
+    [
+      "Notes from building a blog in Django",
+      "https://til.simonwillison.net/django/building-a-blog-in-django"
     ]
   ],
   [
