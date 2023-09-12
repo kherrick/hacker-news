@@ -21,7 +21,6 @@
 * [2023-09-11, 12:26:14](https://news.ycombinator.com/item?id=37466207) - [Beyond OpenAPI](https://antonz.org/interactive-api-tutorials/)
 * [2023-09-11, 12:06:28](https://news.ycombinator.com/item?id=37466027) - [The Project Gutenberg Open Audiobook Collection](https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html)
 * [2023-09-11, 11:49:09](https://news.ycombinator.com/item?id=37465852) - [New upper bound found for the Heilbronn triangle problem](https://www.quantamagazine.org/the-biggest-smallest-triangle-just-got-smaller-20230908/)
-* [2023-09-11, 11:24:28](https://news.ycombinator.com/item?id=37465636) - [Connecting two dial-up modems using a VoIP ATA](https://gekk.info/articles/ata-config.html)
 * [2023-09-11, 10:58:37](https://news.ycombinator.com/item?id=37465427) - [A systematic approach to debugging](https://ntietz.com/blog/how-i-debug-2023/)
 * [2023-09-11, 09:05:37](https://news.ycombinator.com/item?id=37464668) - [The roots of an obscure Bourne shell error message](https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellObscureErrorRoots)
 * [2023-09-11, 06:14:35](https://news.ycombinator.com/item?id=37463523) - [The Pinouts Book: Pinout functions for 130 commonly used components](https://pinouts.org/)
@@ -30,6 +29,7 @@
 * [2023-09-10, 05:50:56](https://news.ycombinator.com/item?id=37453264) - [How to beat the CAP theorem (2011)](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html)
 * [2023-09-10, 02:22:44](https://news.ycombinator.com/item?id=37452322) - [Flake8-Logging](https://adamj.eu/tech/2023/09/07/introducing-flake8-logging/)
 * [2023-09-09, 12:42:31](https://news.ycombinator.com/item?id=37444683) - [Show HN: Ghidra Plays Mario](https://github.com/nevesnunes/ghidra-plays-mario)
+* [2023-09-08, 21:35:46](https://news.ycombinator.com/item?id=37439732) - [The Carrington Event of 1859 disrupted telegraph lines](https://daily.jstor.org/the-carrington-event-of-1859-disrupted-telegraph-lines/)
 
 ## [Archives](archives/index.md)
 
