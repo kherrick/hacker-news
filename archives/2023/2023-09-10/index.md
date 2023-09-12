@@ -69,6 +69,7 @@
 * [2023-09-10, 08:01:52](https://news.ycombinator.com/item?id=37453810) - [Threading with Style](https://stuartsierra.com/2018/07/06/threading-with-style)
 * [2023-09-10, 07:51:11](https://news.ycombinator.com/item?id=37453755) - [Show HN: Papersnap – Claude 2-Powered Mind Maps from Research](https://poe.com/universal_link_page?handle=PAPERSNAP)
 * [2023-09-10, 07:41:24](https://news.ycombinator.com/item?id=37453705) - [10th Rule of Programming (2003)](https://philip.greenspun.com/bboard/q-and-a-fetch-msg?msg_id=000tgU)
+* [2023-09-10, 07:34:28](https://news.ycombinator.com/item?id=37453678) - [Amiga C Tutorial](http://www.pjhutchison.org/tutorial/amiga_c.html)
 * [2023-09-10, 07:22:18](https://news.ycombinator.com/item?id=37453616) - [The Decline of Usability (2020)](https://datagubbe.se/decusab/)
 * [2023-09-10, 06:58:55](https://news.ycombinator.com/item?id=37453536) - [IBM's World of Numbers (1958)](https://www.computerhistory.org/collections/catalog/102707549)
 * [2023-09-10, 06:41:20](https://news.ycombinator.com/item?id=37453465) - [ZF makes magnet-free electric motor uniquely compact and competitive](https://press.zf.com/press/en/releases/release_60480.html)

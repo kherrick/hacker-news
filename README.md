@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-12, 11:12:41](https://news.ycombinator.com/item?id=37479323) - [Phoenix 1.7 for Elixir: Edit a Form in a Modal](https://blog.appsignal.com/2023/09/12/phoenix-1-7-for-elixir-edit-a-form-in-a-modal.html)
 * [2023-09-12, 08:58:42](https://news.ycombinator.com/item?id=37478403) - [CVE-2023-4863: Heap buffer overflow in WebP (Chrome)](https://chromereleases.googleblog.com/2023/09/stable-channel-update-for-desktop_11.html)
-* [2023-09-12, 08:25:43](https://news.ycombinator.com/item?id=37478191) - [Electric vehicle battery causes fire at Sydney Airport, destroys five cars](https://www.abc.net.au/news/2023-09-12/sydney-airport-lithium-ion-battery-causes-fire/102846146)
 * [2023-09-12, 07:03:49](https://news.ycombinator.com/item?id=37477683) - [NASA says distant exoplanet could have rare water ocean, possible hint of life](https://www.theguardian.com/science/2023/sep/11/nasa-planet-ocean-life-james-webb-telescope)
 * [2023-09-12, 06:55:56](https://news.ycombinator.com/item?id=37477643) - [Why Are Black Currants Banned in the USA](https://foodtolive.com/healthy-blog/black-currants-banned-usa/)
 * [2023-09-12, 06:37:39](https://news.ycombinator.com/item?id=37477558) - [Reasons to not use your own domain for email](https://www.bautista.dev/reasons-to-not-use-your-own-domain-for-email)
@@ -18,7 +18,6 @@
 * [2023-09-12, 01:01:17](https://news.ycombinator.com/item?id=37475737) - [Padlet (YC W13) is hiring in Singapore and San Francisco](https://padlet.jobs)
 * [2023-09-12, 00:36:09](https://news.ycombinator.com/item?id=37475577) - [JEP 454: Foreign Function and Memory API](https://openjdk.org/jeps/454)
 * [2023-09-11, 23:06:33](https://news.ycombinator.com/item?id=37474904) - [Arm’s Neoverse V2](https://chipsandcheese.com/2023/09/11/hot-chips-2023-arms-neoverse-v2/)
-* [2023-09-11, 22:52:49](https://news.ycombinator.com/item?id=37474780) - [Neopets is still around](https://www.dualshockers.com/neopets-is-still-active-2023/)
 * [2023-09-11, 22:33:37](https://news.ycombinator.com/item?id=37474601) - [OpenSSL 1.1.1 End of Life](https://www.openssl.org/blog/blog/2023/09/11/eol-111/)
 * [2023-09-11, 21:25:21](https://news.ycombinator.com/item?id=37473933) - [The Power of Prolog](https://www.metalevel.at/prolog/facets)
 * [2023-09-11, 18:08:06](https://news.ycombinator.com/item?id=37471149) - [How to read bug reports (2016)](https://www.massicotte.org/reading-bug-reports)
@@ -30,6 +29,7 @@
 * [2023-09-11, 01:08:16](https://news.ycombinator.com/item?id=37461695) - [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)
 * [2023-09-10, 08:01:52](https://news.ycombinator.com/item?id=37453810) - [Threading with Style (2018)](https://stuartsierra.com/2018/07/06/threading-with-style)
 * [2023-09-10, 07:41:24](https://news.ycombinator.com/item?id=37453705) - [10th Rule of Programming (2003)](https://philip.greenspun.com/bboard/q-and-a-fetch-msg?msg_id=000tgU)
+* [2023-09-10, 07:34:28](https://news.ycombinator.com/item?id=37453678) - [Amiga C Tutorial](http://www.pjhutchison.org/tutorial/amiga_c.html)
 
 ## [Archives](archives/index.md)
 
