@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
 * [2023-09-12, 17:08:29](https://news.ycombinator.com/item?id=37484352) - [Mystery ‘blue lights’ flash in sky moments before Morocco earthquake](https://www.thesun.co.uk/news/23911027/mystery-blue-lights-morocco-earthquake/)
+* [2023-09-12, 17:01:20](https://news.ycombinator.com/item?id=37484260) - [Covid patients breathe out large amounts of virus early on](https://news.northwestern.edu/stories/2023/09/covid-patients-exhale-up-to-1000-copies-of-virus-per-minute-during-first-eight-days-of-symptoms/)
 * [2023-09-12, 17:01:17](https://news.ycombinator.com/item?id=37484259) - [Finley (YC W21) Is Hiring for Customer Success Managers in Software (US Remote)](https://jobs.lever.co/FinleyTechnologies/0a143938-ef2a-47f3-a4c0-861ac68fb1b0)
 * [2023-09-12, 16:53:51](https://news.ycombinator.com/item?id=37484135) - [Show HN: Fine-tune your own Llama 2 to replace GPT-3.5/4](https://news.ycombinator.com/item?id=37484135)
 * [2023-09-12, 16:23:36](https://news.ycombinator.com/item?id=37483652) - [Happy 65th Birthday, Integrated Circuit](https://thechipletter.substack.com/p/happy-65th-birthday-integrated-circuit)
@@ -12,6 +13,7 @@
 * [2023-09-12, 16:00:57](https://news.ycombinator.com/item?id=37483288) - [Obsidian 1.4.10 Desktop (Public)](https://obsidian.md/changelog/2023-09-11-desktop-v1.4.10/)
 * [2023-09-12, 15:57:16](https://news.ycombinator.com/item?id=37483226) - [Brain hemorrhage transmissible via blood transfusion](https://jamanetwork.com/journals/jama/article-abstract/2809443)
 * [2023-09-12, 15:53:25](https://news.ycombinator.com/item?id=37483142) - [Oxford study proves heat pumps triumph over fossil fuels in the cold](https://www.nationalobserver.com/2023/09/11/news/oxford-study-proves-heat-pumps-triumph-over-fossil-fuels-cold)
+* [2023-09-12, 15:38:18](https://news.ycombinator.com/item?id=37482896) - [Why is the Irish Government so afraid of transparency for renters?](https://labour.ie/news/2023/06/28/why-is-the-government-so-afraid-of-transparency-for-renters/)
 * [2023-09-12, 15:28:42](https://news.ycombinator.com/item?id=37482746) - [Ask HN: Favorite Game Engine?](https://news.ycombinator.com/item?id=37482746)
 * [2023-09-12, 15:21:47](https://news.ycombinator.com/item?id=37482646) - [WTF Happened in 1971?](https://wtfhappenedin1971.com/)
 * [2023-09-12, 15:16:01](https://news.ycombinator.com/item?id=37482549) - [Vulnerability found in Dutch voting software](https://www.zerocopter.com/blog-en/the-importance-of-post-build-audits-do-you-know-what-you-ship?id=12)
