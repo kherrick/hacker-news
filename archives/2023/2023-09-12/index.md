@@ -7,6 +7,7 @@
 * [2023-09-12, 11:30:57](https://news.ycombinator.com/item?id=37479472) - [Sweden brings more books and handwriting practice back to its tech-heavy schools](https://apnews.com/article/sweden-digital-education-backlash-reading-writing-1dd964c628f76361c43dbf3964f7dbf4)
 * [2023-09-12, 11:24:21](https://news.ycombinator.com/item?id=37479434) - [Navigational Instruments: Hidden Features in Firefox [2020]](https://exple.tive.org/blarg/2020/10/25/navigational-instruments/)
 * [2023-09-12, 11:12:41](https://news.ycombinator.com/item?id=37479323) - [Phoenix 1.7 for Elixir: Edit a Form in a Modal](https://blog.appsignal.com/2023/09/12/phoenix-1-7-for-elixir-edit-a-form-in-a-modal.html)
+* [2023-09-12, 11:09:01](https://news.ycombinator.com/item?id=37479295) - [Ask HN: What's your seniority, location and notice period?](https://news.ycombinator.com/item?id=37479295)
 * [2023-09-12, 09:47:17](https://news.ycombinator.com/item?id=37478748) - [How to Improve Rails Caching with Brotli Compression](https://pawelurbanek.com/rails-brotli-cache)
 * [2023-09-12, 08:58:42](https://news.ycombinator.com/item?id=37478403) - [CVE-2023-4863: Heap buffer overflow in WebP (Chrome)](https://chromereleases.googleblog.com/2023/09/stable-channel-update-for-desktop_11.html)
 * [2023-09-12, 08:25:43](https://news.ycombinator.com/item?id=37478191) - [Electric vehicle battery causes fire at Sydney Airport, destroys five cars](https://www.abc.net.au/news/2023-09-12/sydney-airport-lithium-ion-battery-causes-fire/102846146)
