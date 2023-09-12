@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-12, 22:06:14](https://news.ycombinator.com/item?id=37489200) - [The Sight and Sound “Greatest Films of All Time“ poll](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time)
 * [2023-09-12, 21:33:13](https://news.ycombinator.com/item?id=37488762) - [What the interns have wrought, 2023 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2023/)
 * [2023-09-12, 21:00:00](https://news.ycombinator.com/item?id=37488252) - [JustPaid.io (YC W23) is hiring a senior full stack engineer](https://www.justpaid.io/careers)
 * [2023-09-12, 20:03:44](https://news.ycombinator.com/item?id=37487306) - [Electric cooling could shrink quantum computers](https://spectrum.ieee.org/cryogenics)
@@ -18,6 +17,7 @@
 * [2023-09-12, 14:07:08](https://news.ycombinator.com/item?id=37481513) - [We built the fastest CI and it failed](https://earthly.dev/blog/shutting-down-earthly-ci/)
 * [2023-09-12, 13:06:33](https://news.ycombinator.com/item?id=37480561) - [How large is that number in the Law of Large Numbers?](https://thepalindrome.org/p/how-large-that-number-in-the-law)
 * [2023-09-12, 13:02:47](https://news.ycombinator.com/item?id=37480512) - [Sony develops energy harvesting module from electromagnetic wave noise](https://www.sony-semicon.com/en/news/2023/2023090701.html)
+* [2023-09-12, 12:46:01](https://news.ycombinator.com/item?id=37480313) - [Physicists create elusive particles that remember their pasts](https://www.quantamagazine.org/physicists-create-elusive-particles-that-remember-their-pasts-20230509/)
 * [2023-09-12, 12:34:40](https://news.ycombinator.com/item?id=37480155) - [Simulating History with ChatGPT](https://resobscura.substack.com/p/simulating-history-with-chatgpt)
 * [2023-09-12, 11:30:57](https://news.ycombinator.com/item?id=37479472) - [Sweden brings more books and handwriting practice back to its tech-heavy schools](https://apnews.com/article/sweden-digital-education-backlash-reading-writing-1dd964c628f76361c43dbf3964f7dbf4)
 * [2023-09-12, 11:24:21](https://news.ycombinator.com/item?id=37479434) - [Navigational Instruments (2020)](https://exple.tive.org/blarg/2020/10/25/navigational-instruments/)
