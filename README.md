@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-12, 22:25:00](https://news.ycombinator.com/item?id=37489414) - [Embracing the Surge of Remote Software Developers](https://remotebase.com/blog/tech-talent-without-borders-embracing-the-surge-of-remote-software-developers)
 * [2023-09-12, 22:06:14](https://news.ycombinator.com/item?id=37489200) - [Greatest Films of All Time](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time)
 * [2023-09-12, 21:33:13](https://news.ycombinator.com/item?id=37488762) - [What the interns have wrought, 2023 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2023/)
 * [2023-09-12, 21:00:00](https://news.ycombinator.com/item?id=37488252) - [JustPaid.io (YC W23) is hiring a senior full stack engineer](https://www.justpaid.io/careers)
@@ -9,6 +8,7 @@
 * [2023-09-12, 19:46:07](https://news.ycombinator.com/item?id=37486946) - [Free Download Manager backdoored – a possible supply chain attack on Linux](https://securelist.com/backdoored-free-download-manager-linux-malware/110465/)
 * [2023-09-12, 19:42:57](https://news.ycombinator.com/item?id=37486882) - [The way that Jensen Huang runs Nvidia: 40 direct reports, no 1:1s](https://twitter.com/danhockenmaier/status/1701608618087571787)
 * [2023-09-12, 19:29:39](https://news.ycombinator.com/item?id=37486651) - [PeerReview4All: Fair and accurate reviewer assignment in peer review](https://arxiv.org/abs/1806.06237)
+* [2023-09-12, 19:12:13](https://news.ycombinator.com/item?id=37486307) - [A Small Universe](https://arxiv.org/abs/2309.03272)
 * [2023-09-12, 18:29:04](https://news.ycombinator.com/item?id=37485387) - [The Rules of Margin Collapse](https://www.joshwcomeau.com/css/rules-of-margin-collapse/)
 * [2023-09-12, 18:23:09](https://news.ycombinator.com/item?id=37485290) - [iPhone 15 and iPhone 15 Plus](https://www.apple.com/newsroom/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/)
 * [2023-09-12, 17:08:29](https://news.ycombinator.com/item?id=37484352) - [‘Blue lights’ flash in sky moments before Morocco earthquake](https://www.thesun.co.uk/news/23911027/mystery-blue-lights-morocco-earthquake/)
