@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
+* [2023-09-12, 18:29:04](https://news.ycombinator.com/item?id=37485387) - [The Rules of Margin Collapse](https://www.joshwcomeau.com/css/rules-of-margin-collapse/)
 * [2023-09-12, 18:23:09](https://news.ycombinator.com/item?id=37485290) - [Apple debuts iPhone 15 and iPhone 15 Plus](https://www.apple.com/newsroom/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/)
 * [2023-09-12, 18:21:42](https://news.ycombinator.com/item?id=37485271) - [Apple iPhone 15 Pro and iPhone 15 Pro Max](https://www.apple.com/newsroom/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/)
 * [2023-09-12, 17:51:50](https://news.ycombinator.com/item?id=37484897) - [Apple ditches the Lightning connector in favor of USB-C after 11 years](https://techcrunch.com/2023/09/12/bye-lightning-hello-usb-c/)
