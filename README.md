@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-12, 01:45:20](https://news.ycombinator.com/item?id=37476107) - [For the First Time in Years, I’m Excited by My Computer Purchase](https://changelog.complete.org/archives/10564-for-the-first-time-in-years-im-excited-by-my-computer-purchase)
-* [2023-09-12, 01:44:37](https://news.ycombinator.com/item?id=37476096) - [Today's Large Language Models Are Essentially BS Machines](https://quandyfactory.com/blog/263/todays_large_language_models_are_essentially_bs_machines)
+* [2023-09-12, 01:45:20](https://news.ycombinator.com/item?id=37476107) - [For the first time in years, I’m excited by my computer purchase](https://changelog.complete.org/archives/10564-for-the-first-time-in-years-im-excited-by-my-computer-purchase)
 * [2023-09-12, 01:01:17](https://news.ycombinator.com/item?id=37475737) - [Padlet (YC W13) is hiring in Singapore and San Francisco](https://padlet.jobs)
 * [2023-09-11, 23:54:48](https://news.ycombinator.com/item?id=37475257) - [Have I Been Pwned? [video]](https://www.youtube.com/watch?v=pxPEdUFdayA)
 * [2023-09-11, 23:06:33](https://news.ycombinator.com/item?id=37474904) - [Arm’s Neoverse V2](https://chipsandcheese.com/2023/09/11/hot-chips-2023-arms-neoverse-v2/)
 * [2023-09-11, 22:52:49](https://news.ycombinator.com/item?id=37474780) - [Neopets is still around](https://www.dualshockers.com/neopets-is-still-active-2023/)
+* [2023-09-11, 22:33:37](https://news.ycombinator.com/item?id=37474601) - [OpenSSL 1.1.1 End of Life](https://www.openssl.org/blog/blog/2023/09/11/eol-111/)
 * [2023-09-11, 21:50:15](https://news.ycombinator.com/item?id=37474189) - [Onboarding floating-point](https://www.altdevarts.com/p/onboarding-floating-point)
 * [2023-09-11, 18:25:02](https://news.ycombinator.com/item?id=37471417) - [Advanced x86: Virtualization with  Intel VT-x](https://opensecuritytraining.info/AdvancedX86-VTX.html)
 * [2023-09-11, 18:18:37](https://news.ycombinator.com/item?id=37471321) - [Mac ROM-Inator II Restock and Partnerships](https://www.bigmessowires.com/2023/09/09/mac-rom-inator-ii-restock-and-partnerships/)
