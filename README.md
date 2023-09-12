@@ -16,7 +16,6 @@
 * [2023-09-12, 12:00:57](https://news.ycombinator.com/item?id=37479749) - [Treble.ai (YC S19) Is Hiring Spanish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
 * [2023-09-12, 11:51:24](https://news.ycombinator.com/item?id=37479641) - [You're barely managing](https://barely-managing.bearblog.dev/youre-barely-managing/)
 * [2023-09-12, 11:24:21](https://news.ycombinator.com/item?id=37479434) - [Navigational Instruments (2020)](https://exple.tive.org/blarg/2020/10/25/navigational-instruments/)
-* [2023-09-12, 11:12:41](https://news.ycombinator.com/item?id=37479323) - [Phoenix 1.7 for Elixir: Edit a Form in a Modal](https://blog.appsignal.com/2023/09/12/phoenix-1-7-for-elixir-edit-a-form-in-a-modal.html)
 * [2023-09-12, 10:28:24](https://news.ycombinator.com/item?id=37479001) - [UK Energy Bill 2023 and the Fusion of Technology and Law](https://newsfromuncibal.substack.com/p/the-energy-bill-2023-and-the-fusion)
 * [2023-09-12, 09:48:33](https://news.ycombinator.com/item?id=37478755) - [OpenBSD p2k23 Hackathon landry on chasing memory corruptions](https://undeadly.org/cgi?action=article;sid=20230912094727)
 * [2023-09-12, 09:47:17](https://news.ycombinator.com/item?id=37478748) - [How to Improve Rails Caching with Brotli Compression](https://pawelurbanek.com/rails-brotli-cache)
@@ -29,6 +28,7 @@
 * [2023-09-11, 11:18:42](https://news.ycombinator.com/item?id=37465586) - [Chart – Completely Hackable Amateur Radio Telescope](https://astrochart.github.io/)
 * [2023-09-11, 06:15:59](https://news.ycombinator.com/item?id=37463534) - [Drying Fruits (2003)](https://nchfp.uga.edu/how/dry/csu_dry_fruits.pdf)
 * [2023-09-11, 03:28:23](https://news.ycombinator.com/item?id=37462539) - [Undying Dread: A 400-Year-Old Corpse, Locked to Its Grave](https://www.nytimes.com/2023/09/05/science/archaeology-burial-vampires-revenants.html)
+* [2023-09-10, 07:41:24](https://news.ycombinator.com/item?id=37453705) - [10th Rule of Programming (2003)](https://philip.greenspun.com/bboard/q-and-a-fetch-msg?msg_id=000tgU)
 * [2023-09-10, 07:34:28](https://news.ycombinator.com/item?id=37453678) - [Amiga C Tutorial (2022)](http://www.pjhutchison.org/tutorial/amiga_c.html)
 
 ## [Archives](archives/index.md)
