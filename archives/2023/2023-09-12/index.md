@@ -15,6 +15,7 @@
 * [2023-09-12, 15:57:16](https://news.ycombinator.com/item?id=37483226) - [Brain hemorrhage transmissible via blood transfusion](https://jamanetwork.com/journals/jama/article-abstract/2809443)
 * [2023-09-12, 15:53:25](https://news.ycombinator.com/item?id=37483142) - [Oxford study proves heat pumps triumph over fossil fuels in the cold](https://www.nationalobserver.com/2023/09/11/news/oxford-study-proves-heat-pumps-triumph-over-fossil-fuels-cold)
 * [2023-09-12, 15:38:18](https://news.ycombinator.com/item?id=37482896) - [Why is the Irish Government so afraid of transparency for renters?](https://labour.ie/news/2023/06/28/why-is-the-government-so-afraid-of-transparency-for-renters/)
+* [2023-09-12, 15:38:18](https://news.ycombinator.com/item?id=37482896) - [Show HN: Rental data supplied by tenants in Ireland, searchable by all](https://www.howmuchrent.com/)
 * [2023-09-12, 15:28:42](https://news.ycombinator.com/item?id=37482746) - [Ask HN: Favorite Game Engine?](https://news.ycombinator.com/item?id=37482746)
 * [2023-09-12, 15:21:47](https://news.ycombinator.com/item?id=37482646) - [WTF Happened in 1971?](https://wtfhappenedin1971.com/)
 * [2023-09-12, 15:16:01](https://news.ycombinator.com/item?id=37482549) - [Vulnerability found in Dutch voting software](https://www.zerocopter.com/blog-en/the-importance-of-post-build-audits-do-you-know-what-you-ship?id=12)

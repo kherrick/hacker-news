@@ -74,6 +74,7 @@
 * [2023-09-10, 06:58:55](https://news.ycombinator.com/item?id=37453536) - [IBM's World of Numbers (1958)](https://www.computerhistory.org/collections/catalog/102707549)
 * [2023-09-10, 06:41:20](https://news.ycombinator.com/item?id=37453465) - [ZF makes magnet-free electric motor uniquely compact and competitive](https://press.zf.com/press/en/releases/release_60480.html)
 * [2023-09-10, 06:24:30](https://news.ycombinator.com/item?id=37453412) - [New solar energy storage tech opened in Australia](https://reneweconomy.com.au/the-australian-solar-tech-that-may-have-found-a-low-cost-solution-to-deep-storage/)
+* [2023-09-10, 05:51:58](https://news.ycombinator.com/item?id=37453266) - [John Adams to Abigail Adams (1780)](https://founders.archives.gov/documents/Adams/04-03-02-0258)
 * [2023-09-10, 05:50:56](https://news.ycombinator.com/item?id=37453264) - [How to Beat the Cap Theorem](http://nathanmarz.com/blog/how-to-beat-the-cap-theorem.html)
 * [2023-09-10, 04:25:15](https://news.ycombinator.com/item?id=37452895) - [How Skeletal Muscle Mass Impacts Cognitive Health](https://gethealthspan.com/blog/articles/skeletal-muscle-impact-on-cognitive-health/5d43mmao0pjucjmjqsjsol/)
 * [2023-09-10, 04:18:36](https://news.ycombinator.com/item?id=37452868) - [The “Madame B Album” (ca. 1870s)](https://publicdomainreview.org/collection/madame-b-album/)
