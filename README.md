@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-12, 07:03:49](https://news.ycombinator.com/item?id=37477683) - [NASA says distant exoplanet could have rare water ocean, possible hint of life](https://www.theguardian.com/science/2023/sep/11/nasa-planet-ocean-life-james-webb-telescope)
 * [2023-09-12, 06:37:39](https://news.ycombinator.com/item?id=37477558) - [Reasons to not use your own domain for email](https://www.bautista.dev/reasons-to-not-use-your-own-domain-for-email)
 * [2023-09-12, 06:32:47](https://news.ycombinator.com/item?id=37477526) - [What’s the Smallest Variety of CHERI? (2022)](https://msrc.microsoft.com/blog/2022/09/whats-the-smallest-variety-of-cheri/)
 * [2023-09-12, 06:29:08](https://news.ycombinator.com/item?id=37477512) - [Open source P2P alternative to Slack and Discord built on Tor and IPFS](https://github.com/TryQuiet/quiet)
@@ -21,7 +22,6 @@
 * [2023-09-11, 17:31:50](https://news.ycombinator.com/item?id=37470611) - [Show HN: Real-Time 3D Gaussian Splatting in WebGL](https://antimatter15.com/splat/)
 * [2023-09-11, 17:10:06](https://news.ycombinator.com/item?id=37470285) - [Calculate the difference and intersection of any two regexes](http://phylactery.org/antimirov/)
 * [2023-09-11, 16:59:15](https://news.ycombinator.com/item?id=37470132) - [A Multi-Level View of LLM Intentionality](http://disagreeableme.blogspot.com/2023/05/a-multi-level-view-of-llm-intentionality.html)
-* [2023-09-11, 16:45:09](https://news.ycombinator.com/item?id=37469920) - [WiFi can read through walls](https://news.ucsb.edu/2023/021198/wifi-can-read-through-walls)
 * [2023-09-11, 16:40:24](https://news.ycombinator.com/item?id=37469849) - [The meeting of the minds that launched AI](https://spectrum.ieee.org/dartmouth-ai-workshop)
 * [2023-09-11, 12:06:28](https://news.ycombinator.com/item?id=37466027) - [The Project Gutenberg Open Audiobook Collection](https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html)
 * [2023-09-11, 11:49:09](https://news.ycombinator.com/item?id=37465852) - [New upper bound found for the Heilbronn triangle problem](https://www.quantamagazine.org/the-biggest-smallest-triangle-just-got-smaller-20230908/)
