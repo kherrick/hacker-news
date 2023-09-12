@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-12, 20:03:44](https://news.ycombinator.com/item?id=37487306) - [Electric Cooling Could Shrink Quantum Computers](https://spectrum.ieee.org/cryogenics)
+* [2023-09-12, 19:55:13](https://news.ycombinator.com/item?id=37487133) - [Judge in US/Google trial didn’t know if Firefox is a browser or search engine](https://arstechnica.com/tech-policy/2023/09/judge-in-us-v-google-trial-didnt-know-if-firefox-is-a-browser-or-search-engine/)
 * [2023-09-12, 19:29:39](https://news.ycombinator.com/item?id=37486651) - [PeerReview4All: Fair and Accurate Reviewer Assignment in Peer Review](https://arxiv.org/abs/1806.06237)
 * [2023-09-12, 19:18:34](https://news.ycombinator.com/item?id=37486431) - [The Death of Unity](https://www.gamedeveloper.com/business/the-death-of-unity)
 * [2023-09-12, 19:12:13](https://news.ycombinator.com/item?id=37486307) - [A small Universe](https://arxiv.org/abs/2309.03272)
@@ -13,7 +14,6 @@
 * [2023-09-12, 15:57:16](https://news.ycombinator.com/item?id=37483226) - [Blood Transfusion and Brain Amyloidosis](https://jamanetwork.com/journals/jama/article-abstract/2809443)
 * [2023-09-12, 15:38:18](https://news.ycombinator.com/item?id=37482896) - [Show HN: Rental data supplied by tenants in Ireland, searchable by all](https://www.howmuchrent.com/)
 * [2023-09-12, 15:14:05](https://news.ycombinator.com/item?id=37482517) - [New world record with an electric racing car: From 0 to 100 in 0.956 seconds](https://ethz.ch/en/news-and-events/eth-news/news/2023/09/from-zero-to-one-hundred-in-0-956-seconds.html)
-* [2023-09-12, 15:10:04](https://news.ycombinator.com/item?id=37482455) - [Fandom can't decide if leaked songs are real or AI-generated](https://www.404media.co/harry-styles-one-direction-ai-leaked-songs/)
 * [2023-09-12, 14:53:36](https://news.ycombinator.com/item?id=37482220) - [Notes from building a blog in Django](https://til.simonwillison.net/django/building-a-blog-in-django)
 * [2023-09-12, 14:42:26](https://news.ycombinator.com/item?id=37482058) - [Super-Earths in Need for Extremly Big Rockets (2018)](https://arxiv.org/abs/1803.11384)
 * [2023-09-12, 14:07:08](https://news.ycombinator.com/item?id=37481513) - [We built the fastest CI and it failed](https://earthly.dev/blog/shutting-down-earthly-ci/)
@@ -28,8 +28,8 @@
 * [2023-09-11, 19:19:28](https://news.ycombinator.com/item?id=37472340) - [RetroAchievements: Adding Achievements to Retro Games](https://retroachievements.org)
 * [2023-09-11, 16:23:47](https://news.ycombinator.com/item?id=37469590) - [Homemade Sriracha](https://www.seriouseats.com/sriracha-recipe-from-scratch)
 * [2023-09-11, 11:18:42](https://news.ycombinator.com/item?id=37465586) - [Chart – Completely Hackable Amateur Radio Telescope](https://astrochart.github.io/)
-* [2023-09-11, 09:55:18](https://news.ycombinator.com/item?id=37464988) - [Falling for Oklch: A Love Story of Color Spaces, Gamuts, and CSS](https://www.smashingmagazine.com/2023/08/oklch-color-spaces-gamuts-css/)
 * [2023-09-11, 09:50:36](https://news.ycombinator.com/item?id=37464950) - [Visualizing the CPython Release Process](https://sethmlarson.dev/security-developer-in-residence-weekly-report-9?date=2023-09-05)
+* [2023-09-11, 03:28:23](https://news.ycombinator.com/item?id=37462539) - [Undying dread: A 400-year-old corpse, locked to its grave](https://www.nytimes.com/2023/09/05/science/archaeology-burial-vampires-revenants.html)
 
 ## [Archives](archives/index.md)
 
