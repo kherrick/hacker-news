@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
+* [2023-09-12, 21:33:13](https://news.ycombinator.com/item?id=37488762) - [What the interns have wrought, 2023 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2023/)
 * [2023-09-12, 21:00:00](https://news.ycombinator.com/item?id=37488252) - [Justpaid.io (YC W23) Is Hiring for a Senior Full Stack Engineer](https://www.justpaid.io/careers)
 * [2023-09-12, 20:34:03](https://news.ycombinator.com/item?id=37487820) - [“Dear Discord, how on Earth is ”GTK“ a bad word? GTK is a GUI toolkit ”](https://twitter.com/awesomekling/status/1701614289566720216)
 * [2023-09-12, 20:03:44](https://news.ycombinator.com/item?id=37487306) - [Electric Cooling Could Shrink Quantum Computers](https://spectrum.ieee.org/cryogenics)

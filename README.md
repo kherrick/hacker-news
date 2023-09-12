@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-12, 21:33:13](https://news.ycombinator.com/item?id=37488762) - [What the interns have wrought, 2023 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2023/)
 * [2023-09-12, 21:00:00](https://news.ycombinator.com/item?id=37488252) - [Justpaid.io (YC W23) is hiring a senior full stack engineer](https://www.justpaid.io/careers)
 * [2023-09-12, 20:03:44](https://news.ycombinator.com/item?id=37487306) - [Electric cooling could shrink quantum computers](https://spectrum.ieee.org/cryogenics)
 * [2023-09-12, 19:46:07](https://news.ycombinator.com/item?id=37486946) - [Free Download Manager backdoored – a possible supply chain attack on Linux](https://securelist.com/backdoored-free-download-manager-linux-malware/110465/)
@@ -22,7 +23,6 @@
 * [2023-09-12, 11:30:57](https://news.ycombinator.com/item?id=37479472) - [Sweden brings more books and handwriting practice back to its tech-heavy schools](https://apnews.com/article/sweden-digital-education-backlash-reading-writing-1dd964c628f76361c43dbf3964f7dbf4)
 * [2023-09-12, 11:24:21](https://news.ycombinator.com/item?id=37479434) - [Navigational Instruments (2020)](https://exple.tive.org/blarg/2020/10/25/navigational-instruments/)
 * [2023-09-12, 06:55:56](https://news.ycombinator.com/item?id=37477643) - [Black currants were banned in the USA (2017)](https://foodtolive.com/healthy-blog/black-currants-banned-usa/)
-* [2023-09-12, 06:29:08](https://news.ycombinator.com/item?id=37477512) - [Quiet – Encrypted P2P team chat with no servers, just Tor](https://github.com/TryQuiet/quiet)
 * [2023-09-12, 06:05:13](https://news.ycombinator.com/item?id=37477366) - [How to raise a child with taste in eighteenth-century Britain](https://www.laphamsquarterly.org/roundtable/do-not-suffer-him-become-bigot)
 * [2023-09-11, 19:19:28](https://news.ycombinator.com/item?id=37472340) - [RetroAchievements: Adding achievements to retro games](https://retroachievements.org)
 * [2023-09-11, 18:01:38](https://news.ycombinator.com/item?id=37471055) - [Integrating C++ header units into Office using MSVC (2/n)](https://devblogs.microsoft.com/cppblog/integrating-c-header-units-into-office-using-msvc-2-n/)
