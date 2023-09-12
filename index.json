@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=37477739"
     ],
     [
-      "Jwz: The only planet where 100% of Linux systems have working audio is Mars",
+      "The only planet where 100% of Linux systems have working audio is Mars",
       "https://mastodon.social/@jwz/111048777391239744"
     ]
   ],
@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2023-09-12, 02:12:31",
+      "https://news.ycombinator.com/item?id=37476281"
+    ],
+    [
+      "Arxiv.org is experiencing a DDoS attack",
+      "https://blog.arxiv.org/2023/09/11/arxiv-org-is-experiencing-a-ddos-attack/"
+    ]
+  ],
+  [
+    [
       "2023-09-12, 02:02:31",
       "https://news.ycombinator.com/item?id=37476218"
     ],
@@ -117,6 +127,16 @@
     [
       "Padlet (YC W13) is hiring in Singapore and San Francisco",
       "https://padlet.jobs"
+    ]
+  ],
+  [
+    [
+      "2023-09-12, 00:36:09",
+      "https://news.ycombinator.com/item?id=37475577"
+    ],
+    [
+      "JEP 454: Foreign Function and Memory API",
+      "https://openjdk.org/jeps/454"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2023-09-11, 16:59:15",
-      "https://news.ycombinator.com/item?id=37470132"
-    ],
-    [
-      "A Multi-Level View of LLM Intentionality",
-      "http://disagreeableme.blogspot.com/2023/05/a-multi-level-view-of-llm-intentionality.html"
-    ]
-  ],
-  [
-    [
       "2023-09-11, 12:06:28",
       "https://news.ycombinator.com/item?id=37466027"
     ],
     [
       "The Project Gutenberg Open Audiobook Collection",
       "https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-11, 11:49:09",
-      "https://news.ycombinator.com/item?id=37465852"
-    ],
-    [
-      "New upper bound found for the Heilbronn triangle problem",
-      "https://www.quantamagazine.org/the-biggest-smallest-triangle-just-got-smaller-20230908/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=37453810"
     ],
     [
-      "Threading with Style",
+      "Threading with Style (2018)",
       "https://stuartsierra.com/2018/07/06/threading-with-style"
     ]
   ]
