@@ -9,6 +9,8 @@
 * [2023-09-12, 20:03:44](https://news.ycombinator.com/item?id=37487306) - [Electric Cooling Could Shrink Quantum Computers](https://spectrum.ieee.org/cryogenics)
 * [2023-09-12, 19:55:13](https://news.ycombinator.com/item?id=37487133) - [Judge in US/Google trial didn’t know if Firefox is a browser or search engine](https://arstechnica.com/tech-policy/2023/09/judge-in-us-v-google-trial-didnt-know-if-firefox-is-a-browser-or-search-engine/)
 * [2023-09-12, 19:46:36](https://news.ycombinator.com/item?id=37486958) - [Apple’s first ‘carbon neutral’ products are a red herring](https://www.theverge.com/23870317/apples-watch-series-9-carbon-neutral-climate-goal)
+* [2023-09-12, 19:46:07](https://news.ycombinator.com/item?id=37486946) - [Free Download Manager backdoored – a possible supply chain attack on Linux](https://securelist.com/backdoored-free-download-manager-linux-malware/110465/)
+* [2023-09-12, 19:42:57](https://news.ycombinator.com/item?id=37486882) - [The way that Jensen Huang runs Nvidia: 40 direct reports, no 1:1s](https://twitter.com/danhockenmaier/status/1701608618087571787)
 * [2023-09-12, 19:29:39](https://news.ycombinator.com/item?id=37486651) - [PeerReview4All: Fair and Accurate Reviewer Assignment in Peer Review](https://arxiv.org/abs/1806.06237)
 * [2023-09-12, 19:18:34](https://news.ycombinator.com/item?id=37486431) - [The Death of Unity](https://www.gamedeveloper.com/business/the-death-of-unity)
 * [2023-09-12, 19:16:42](https://news.ycombinator.com/item?id=37486400) - [Steam is 20 Years Old](https://store.steampowered.com/sale/steam20)
