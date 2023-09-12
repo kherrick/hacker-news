@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
+* [2023-09-12, 15:14:05](https://news.ycombinator.com/item?id=37482517) - [New world record with an electric racing car: From 0 to 100 in 0.956 seconds](https://ethz.ch/en/news-and-events/eth-news/news/2023/09/from-zero-to-one-hundred-in-0-956-seconds.html)
+* [2023-09-12, 14:53:16](https://news.ycombinator.com/item?id=37482216) - [Ask HN: Why does Google rank the real Python documentation below content farms?](https://news.ycombinator.com/item?id=37482216)
 * [2023-09-12, 14:07:08](https://news.ycombinator.com/item?id=37481513) - [We built the fastest CI in the world. It failed](https://earthly.dev/blog/shutting-down-earthly-ci/)
 * [2023-09-12, 14:01:01](https://news.ycombinator.com/item?id=37481424) - [How to run a competitive AI startup fundraise in 2023](https://context.ai/post/how-to-run-a-competitive-ai-startup-fundraise-in-2023)
 * [2023-09-12, 13:55:54](https://news.ycombinator.com/item?id=37481344) - [Unity plan pricing and packaging updates](https://blog.unity.com/news/plan-pricing-and-packaging-updates)
