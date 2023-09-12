@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-12, 08:58:42](https://news.ycombinator.com/item?id=37478403) - [CVE-2023-4863: Heap buffer overflow in WebP (Chrome)](https://chromereleases.googleblog.com/2023/09/stable-channel-update-for-desktop_11.html)
 * [2023-09-12, 08:25:43](https://news.ycombinator.com/item?id=37478191) - [Electric vehicle battery causes fire at Sydney Airport, destroys five cars](https://www.abc.net.au/news/2023-09-12/sydney-airport-lithium-ion-battery-causes-fire/102846146)
 * [2023-09-12, 07:03:49](https://news.ycombinator.com/item?id=37477683) - [NASA says distant exoplanet could have rare water ocean, possible hint of life](https://www.theguardian.com/science/2023/sep/11/nasa-planet-ocean-life-james-webb-telescope)
 * [2023-09-12, 06:37:39](https://news.ycombinator.com/item?id=37477558) - [Reasons to not use your own domain for email](https://www.bautista.dev/reasons-to-not-use-your-own-domain-for-email)
@@ -15,7 +16,6 @@
 * [2023-09-12, 01:01:17](https://news.ycombinator.com/item?id=37475737) - [Padlet (YC W13) is hiring in Singapore and San Francisco](https://padlet.jobs)
 * [2023-09-12, 00:36:09](https://news.ycombinator.com/item?id=37475577) - [JEP 454: Foreign Function and Memory API](https://openjdk.org/jeps/454)
 * [2023-09-11, 23:06:33](https://news.ycombinator.com/item?id=37474904) - [Arm’s Neoverse V2](https://chipsandcheese.com/2023/09/11/hot-chips-2023-arms-neoverse-v2/)
-* [2023-09-11, 22:52:49](https://news.ycombinator.com/item?id=37474780) - [Neopets is still around](https://www.dualshockers.com/neopets-is-still-active-2023/)
 * [2023-09-11, 22:33:37](https://news.ycombinator.com/item?id=37474601) - [OpenSSL 1.1.1 End of Life](https://www.openssl.org/blog/blog/2023/09/11/eol-111/)
 * [2023-09-11, 21:25:21](https://news.ycombinator.com/item?id=37473933) - [The Power of Prolog](https://www.metalevel.at/prolog/facets)
 * [2023-09-11, 18:25:02](https://news.ycombinator.com/item?id=37471417) - [Advanced x86: Virtualization with  Intel VT-x](https://opensecuritytraining.info/AdvancedX86-VTX.html)
