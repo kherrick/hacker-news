@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
+* [2023-09-12, 21:00:00](https://news.ycombinator.com/item?id=37488252) - [Justpaid.io (YC W23) Is Hiring for a Senior Full Stack Engineer](https://www.justpaid.io/careers)
+* [2023-09-12, 20:34:03](https://news.ycombinator.com/item?id=37487820) - [“Dear Discord, how on Earth is ”GTK“ a bad word? GTK is a GUI toolkit ”](https://twitter.com/awesomekling/status/1701614289566720216)
 * [2023-09-12, 20:03:44](https://news.ycombinator.com/item?id=37487306) - [Electric Cooling Could Shrink Quantum Computers](https://spectrum.ieee.org/cryogenics)
 * [2023-09-12, 19:55:13](https://news.ycombinator.com/item?id=37487133) - [Judge in US/Google trial didn’t know if Firefox is a browser or search engine](https://arstechnica.com/tech-policy/2023/09/judge-in-us-v-google-trial-didnt-know-if-firefox-is-a-browser-or-search-engine/)
 * [2023-09-12, 19:46:36](https://news.ycombinator.com/item?id=37486958) - [Apple’s first ‘carbon neutral’ products are a red herring](https://www.theverge.com/23870317/apples-watch-series-9-carbon-neutral-climate-goal)
@@ -24,6 +26,7 @@
 * [2023-09-12, 16:23:36](https://news.ycombinator.com/item?id=37483652) - [Happy 65th Birthday, Integrated Circuit](https://thechipletter.substack.com/p/happy-65th-birthday-integrated-circuit)
 * [2023-09-12, 16:04:31](https://news.ycombinator.com/item?id=37483348) - [Dementia risk is highest if you sit for longer than 10 hours each day](https://www.dailymail.co.uk/health/article-12508827/Dementia-warning-10-hours-sitting-spikes-risk.html)
 * [2023-09-12, 16:00:57](https://news.ycombinator.com/item?id=37483288) - [Obsidian 1.4.10 Desktop (Public)](https://obsidian.md/changelog/2023-09-11-desktop-v1.4.10/)
+* [2023-09-12, 15:57:16](https://news.ycombinator.com/item?id=37483226) - [Intracerebral Hemorrhage Among Blood Donors and Their Transfusion Recipients](https://jamanetwork.com/journals/jama/article-abstract/2809417)
 * [2023-09-12, 15:57:16](https://news.ycombinator.com/item?id=37483226) - [Brain hemorrhage transmissible via blood transfusion](https://jamanetwork.com/journals/jama/article-abstract/2809443)
 * [2023-09-12, 15:53:25](https://news.ycombinator.com/item?id=37483142) - [Oxford study proves heat pumps triumph over fossil fuels in the cold](https://www.nationalobserver.com/2023/09/11/news/oxford-study-proves-heat-pumps-triumph-over-fossil-fuels-cold)
 * [2023-09-12, 15:38:18](https://news.ycombinator.com/item?id=37482896) - [Why is the Irish Government so afraid of transparency for renters?](https://labour.ie/news/2023/06/28/why-is-the-government-so-afraid-of-transparency-for-renters/)
