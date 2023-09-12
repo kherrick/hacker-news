@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-12, 03:15:53",
+      "https://news.ycombinator.com/item?id=37476635"
+    ],
+    [
+      "Visual Studio Code adds port forwarding",
+      "https://www.infoworld.com/article/3706511/visual-studio-code-adds-port-forwarding.html"
+    ]
+  ],
+  [
+    [
       "2023-09-12, 03:05:04",
       "https://news.ycombinator.com/item?id=37476588"
     ],
@@ -27,16 +37,6 @@
     [
       "Padlet (YC W13) is hiring in Singapore and San Francisco",
       "https://padlet.jobs"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 00:38:51",
-      "https://news.ycombinator.com/item?id=37475596"
-    ],
-    [
-      "How I CEO: On taking advice as a leader",
-      "https://mercury.com/blog/inside-mercury/how-i-ceo-taking-advice-as-leader"
     ]
   ],
   [
@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2023-09-11, 21:50:15",
-      "https://news.ycombinator.com/item?id=37474189"
-    ],
-    [
-      "Onboarding floating-point",
-      "https://www.altdevarts.com/p/onboarding-floating-point"
-    ]
-  ],
-  [
-    [
       "2023-09-11, 18:25:02",
       "https://news.ycombinator.com/item?id=37471417"
     ],
@@ -107,6 +97,16 @@
     [
       "Mac ROM-Inator II Restock and Partnerships",
       "https://www.bigmessowires.com/2023/09/09/mac-rom-inator-ii-restock-and-partnerships/"
+    ]
+  ],
+  [
+    [
+      "2023-09-11, 18:08:06",
+      "https://news.ycombinator.com/item?id=37471149"
+    ],
+    [
+      "How to Read Bug Reports (2016)",
+      "https://www.massicotte.org/reading-bug-reports"
     ]
   ],
   [
@@ -181,22 +181,22 @@
   ],
   [
     [
+      "2023-09-11, 15:04:02",
+      "https://news.ycombinator.com/item?id=37468342"
+    ],
+    [
+      "Webb Discovers Methane, Carbon Dioxide in Atmosphere of K2-18B",
+      "https://www.nasa.gov/goddard/2023/webb-discovers-methane-carbon-dioxide-in-atmosphere-of-k2-18b/"
+    ]
+  ],
+  [
+    [
       "2023-09-11, 14:44:08",
       "https://news.ycombinator.com/item?id=37468031"
     ],
     [
       "Develop with Cocoa for Apple devices without using Objective-C",
       "https://felixk15.github.io/posts/c_ocoa/"
-    ]
-  ],
-  [
-    [
-      "2023-09-11, 12:51:53",
-      "https://news.ycombinator.com/item?id=37466475"
-    ],
-    [
-      "Unix Domain Sockets vs Loopback TCP Sockets (2014)",
-      "https://nicisdigital.wordpress.com/2014/03/03/unix-domain-sockets-vs-loopback-tcp-sockets/"
     ]
   ],
   [
