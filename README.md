@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-12, 19:16:42](https://news.ycombinator.com/item?id=37486400) - [Steam is 20 Years Old](https://store.steampowered.com/sale/steam20)
+* [2023-09-12, 19:15:13](https://news.ycombinator.com/item?id=37486374) - [Unity Introduces Runtime Fee](https://twitter.com/unity/status/1701650081403842851)
 * [2023-09-12, 18:29:04](https://news.ycombinator.com/item?id=37485387) - [The Rules of Margin Collapse](https://www.joshwcomeau.com/css/rules-of-margin-collapse/)
 * [2023-09-12, 18:23:09](https://news.ycombinator.com/item?id=37485290) - [iPhone 15 and iPhone 15 Plus](https://www.apple.com/newsroom/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/)
 * [2023-09-12, 18:21:42](https://news.ycombinator.com/item?id=37485271) - [Apple iPhone 15 Pro and iPhone 15 Pro Max](https://www.apple.com/newsroom/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/)
@@ -26,9 +28,7 @@
 * [2023-09-11, 19:19:28](https://news.ycombinator.com/item?id=37472340) - [RetroAchievements: Adding Achievements to Retro Games](https://retroachievements.org)
 * [2023-09-11, 16:38:11](https://news.ycombinator.com/item?id=37469811) - [Parmesan makers add microchips to cheese wheels to foil counterfeiters](https://www.tomshardware.com/news/parmesan-makers-add-microchips-to-cheese-wheels-to-foil-counterfeiters)
 * [2023-09-11, 11:18:42](https://news.ycombinator.com/item?id=37465586) - [Chart – Completely Hackable Amateur Radio Telescope](https://astrochart.github.io/)
-* [2023-09-11, 09:55:18](https://news.ycombinator.com/item?id=37464988) - [Falling for Oklch: A Love Story of Color Spaces, Gamuts, and CSS](https://www.smashingmagazine.com/2023/08/oklch-color-spaces-gamuts-css/)
 * [2023-09-11, 09:50:36](https://news.ycombinator.com/item?id=37464950) - [Visualizing the CPython Release Process](https://sethmlarson.dev/security-developer-in-residence-weekly-report-9?date=2023-09-05)
-* [2023-09-11, 06:15:59](https://news.ycombinator.com/item?id=37463534) - [Drying Fruits (2003)](https://nchfp.uga.edu/how/dry/csu_dry_fruits.pdf)
 * [2023-09-11, 03:28:23](https://news.ycombinator.com/item?id=37462539) - [Undying dread: A 400-year-old corpse, locked to its grave](https://www.nytimes.com/2023/09/05/science/archaeology-burial-vampires-revenants.html)
 
 ## [Archives](archives/index.md)
