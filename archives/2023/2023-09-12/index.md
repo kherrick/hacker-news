@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
+* [2023-09-12, 14:07:08](https://news.ycombinator.com/item?id=37481513) - [We built the fastest CI in the world. It failed](https://earthly.dev/blog/shutting-down-earthly-ci/)
 * [2023-09-12, 13:55:54](https://news.ycombinator.com/item?id=37481344) - [Unity plan pricing and packaging updates](https://blog.unity.com/news/plan-pricing-and-packaging-updates)
 * [2023-09-12, 13:45:31](https://news.ycombinator.com/item?id=37481166) - [The Relativity of Wrong by Isaac Asimov](https://hermiene.net/essays-trans/relativity_of_wrong.html)
 * [2023-09-12, 13:20:00](https://news.ycombinator.com/item?id=37480763) - [A phone cleaning app makes $2M/mo on the App Store – The reviews show how](https://www.undefinedapps.com/post/analyze-app-store-reviews-app-storage-cleanup)
@@ -12,6 +13,7 @@
 * [2023-09-12, 13:02:47](https://news.ycombinator.com/item?id=37480512) - [Sony develops energy harvesting module from electromagnetic wave noise](https://www.sony-semicon.com/en/news/2023/2023090701.html)
 * [2023-09-12, 13:02:31](https://news.ycombinator.com/item?id=37480508) - [iPhone 15’s shift to USB-C has hidden potential to streamline computing](https://techcrunch.com/2023/09/11/iphone-15-desktop-mode/)
 * [2023-09-12, 13:00:06](https://news.ycombinator.com/item?id=37480478) - [Why isn’t dotnet core popular among startups?](https://old.reddit.com/r/dotnet/login/)
+* [2023-09-12, 12:59:45](https://news.ycombinator.com/item?id=37480475) - [TradingGPT: LLM multi-agent framework for enhanced financial trading performance](https://arxiv.org/abs/2309.03736)
 * [2023-09-12, 12:49:46](https://news.ycombinator.com/item?id=37480359) - [Trinary Decision Trees for missing value handling](https://arxiv.org/abs/2309.03561)
 * [2023-09-12, 12:47:15](https://news.ycombinator.com/item?id=37480331) - [QtWayland 6.6 Brings Robustness Through Compositor Handoffs](http://blog.davidedmundson.co.uk/blog/qt6_wayland_robustness/)
 * [2023-09-12, 12:46:01](https://news.ycombinator.com/item?id=37480313) - [Physicists Create Elusive Particles That Remember Their Pasts](https://www.quantamagazine.org/physicists-create-elusive-particles-that-remember-their-pasts-20230509/)

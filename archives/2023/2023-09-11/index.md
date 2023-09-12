@@ -107,6 +107,7 @@
 * [2023-09-11, 03:57:50](https://news.ycombinator.com/item?id=37462694) - [Upcoming LK-99 paper will reportedly verify the superconductor](https://technology.inquirer.net/127825/lk-99-paper)
 * [2023-09-11, 03:34:14](https://news.ycombinator.com/item?id=37462564) - [A Student-Debt Bubble Fueled a Housing Bubble](https://www.wsj.com/articles/the-student-debt-bubble-fueled-a-housing-bubble-debt-income-obama-fannie-freddie-bd29b05c)
 * [2023-09-11, 03:29:32](https://news.ycombinator.com/item?id=37462541) - [Silicon Valley's quest to live forever now includes $2,500 full-body MRIs](https://www.washingtonpost.com/technology/2023/09/10/full-body-mri-cancer-prenuvo/)
+* [2023-09-11, 03:28:23](https://news.ycombinator.com/item?id=37462539) - [Undying Dread: A 400-Year-Old Corpse, Locked to Its Grave](https://www.nytimes.com/2023/09/05/science/archaeology-burial-vampires-revenants.html)
 * [2023-09-11, 03:06:14](https://news.ycombinator.com/item?id=37462405) - [Localhost Will Inevitably Die](https://ergomake.dev/blog/death-of-localhost/)
 * [2023-09-11, 03:00:24](https://news.ycombinator.com/item?id=37462351) - [Japan launches rocket carrying lunar lander and X-ray telescope](https://phys.org/news/2023-09-japan-rocket-lunar-lander-x-ray.html)
 * [2023-09-11, 02:53:09](https://news.ycombinator.com/item?id=37462315) - [Pure WASM Life 2: Optimizing WebAssembly and Canvas](https://ashen.earth/wasm-game-of-life-2)
