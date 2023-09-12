@@ -17,7 +17,6 @@
 * [2023-09-12, 14:07:08](https://news.ycombinator.com/item?id=37481513) - [We built the fastest CI and it failed](https://earthly.dev/blog/shutting-down-earthly-ci/)
 * [2023-09-12, 13:06:33](https://news.ycombinator.com/item?id=37480561) - [How large is that number in the Law of Large Numbers?](https://thepalindrome.org/p/how-large-that-number-in-the-law)
 * [2023-09-12, 13:02:47](https://news.ycombinator.com/item?id=37480512) - [Sony develops energy harvesting module from electromagnetic wave noise](https://www.sony-semicon.com/en/news/2023/2023090701.html)
-* [2023-09-12, 12:46:01](https://news.ycombinator.com/item?id=37480313) - [Physicists create elusive particles that remember their pasts](https://www.quantamagazine.org/physicists-create-elusive-particles-that-remember-their-pasts-20230509/)
 * [2023-09-12, 12:34:40](https://news.ycombinator.com/item?id=37480155) - [Simulating History with ChatGPT](https://resobscura.substack.com/p/simulating-history-with-chatgpt)
 * [2023-09-12, 11:30:57](https://news.ycombinator.com/item?id=37479472) - [Sweden brings more books and handwriting practice back to its tech-heavy schools](https://apnews.com/article/sweden-digital-education-backlash-reading-writing-1dd964c628f76361c43dbf3964f7dbf4)
 * [2023-09-12, 11:24:21](https://news.ycombinator.com/item?id=37479434) - [Navigational Instruments (2020)](https://exple.tive.org/blarg/2020/10/25/navigational-instruments/)
@@ -30,6 +29,7 @@
 * [2023-09-11, 11:18:42](https://news.ycombinator.com/item?id=37465586) - [CHART: Completely Hackable Amateur Radio Telescope](https://astrochart.github.io/)
 * [2023-09-11, 09:50:36](https://news.ycombinator.com/item?id=37464950) - [Visualizing the CPython Release Process](https://sethmlarson.dev/security-developer-in-residence-weekly-report-9?date=2023-09-05)
 * [2023-09-11, 06:15:59](https://news.ycombinator.com/item?id=37463534) - [Drying Fruits (2003)](https://nchfp.uga.edu/how/dry/csu_dry_fruits.pdf)
+* [2023-09-09, 13:37:44](https://news.ycombinator.com/item?id=37445256) - [Building copyright: an absurdist work in progress](https://blog.oup.com/2023/09/building-copyright-an-absurdist-work-in-progress/)
 
 ## [Archives](archives/index.md)
 

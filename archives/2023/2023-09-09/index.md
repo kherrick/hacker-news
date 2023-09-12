@@ -62,6 +62,7 @@
 * [2023-09-09, 13:57:41](https://news.ycombinator.com/item?id=37445484) - [Why doesn't Apple add cellular service to their laptops?](https://chat.openai.com/share/ebfa177c-5f97-4fe2-bfc0-0b593a3afeea)
 * [2023-09-09, 13:51:33](https://news.ycombinator.com/item?id=37445401) - [Comparing 60 LLMs with a set of 20 prompts](https://benchmarks.llmonitor.com)
 * [2023-09-09, 13:40:15](https://news.ycombinator.com/item?id=37445284) - [Morocco earthquake kills more than 1,000](https://www.nbcnews.com/news/world/live-blog/morocco-earthquake-kills-600-devastates-historic-sites-live-updates-rcna104208)
+* [2023-09-09, 13:37:44](https://news.ycombinator.com/item?id=37445256) - [Building copyright: an absurdist work in progress](https://blog.oup.com/2023/09/building-copyright-an-absurdist-work-in-progress/)
 * [2023-09-09, 13:29:58](https://news.ycombinator.com/item?id=37445165) - [What are we calling what used to be called FAANG these days?](https://news.ycombinator.com/item?id=37445165)
 * [2023-09-09, 13:28:46](https://news.ycombinator.com/item?id=37445150) - [Why are your keyboards not wireless?](https://www.zsa.io/wireless/)
 * [2023-09-09, 13:10:05](https://news.ycombinator.com/item?id=37444946) - [My mental model of Clojure transducers](https://blog.danieljanus.pl/2023/09/09/transducers/)
