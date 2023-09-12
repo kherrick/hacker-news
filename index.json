@@ -5,18 +5,8 @@
       "https://news.ycombinator.com/item?id=37488252"
     ],
     [
-      "Justpaid.io (YC W23) Is Hiring for a Senior Full Stack Engineer",
+      "Justpaid.io (YC W23) is hiring a senior full stack engineer",
       "https://www.justpaid.io/careers"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 20:34:03",
-      "https://news.ycombinator.com/item?id=37487820"
-    ],
-    [
-      "“Dear Discord, how on Earth is ”GTK“ a bad word? GTK is a GUI toolkit ”",
-      "https://twitter.com/awesomekling/status/1701614289566720216"
     ]
   ],
   [
@@ -31,11 +21,31 @@
   ],
   [
     [
+      "2023-09-12, 19:46:07",
+      "https://news.ycombinator.com/item?id=37486946"
+    ],
+    [
+      "Free Download Manager backdoored – a possible supply chain attack on Linux",
+      "https://securelist.com/backdoored-free-download-manager-linux-malware/110465/"
+    ]
+  ],
+  [
+    [
+      "2023-09-12, 19:42:57",
+      "https://news.ycombinator.com/item?id=37486882"
+    ],
+    [
+      "The way that Jensen Huang runs Nvidia: 40 direct reports, no 1:1s",
+      "https://twitter.com/danhockenmaier/status/1701608618087571787"
+    ]
+  ],
+  [
+    [
       "2023-09-12, 19:29:39",
       "https://news.ycombinator.com/item?id=37486651"
     ],
     [
-      "PeerReview4All: Fair and Accurate Reviewer Assignment in Peer Review",
+      "PeerReview4All: Fair and accurate reviewer assignment in peer review",
       "https://arxiv.org/abs/1806.06237"
     ]
   ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2023-09-12, 15:57:16",
-      "https://news.ycombinator.com/item?id=37483226"
-    ],
-    [
-      "Intracerebral Hemorrhage Among Blood Donors and Their Transfusion Recipients",
-      "https://jamanetwork.com/journals/jama/article-abstract/2809417"
-    ]
-  ],
-  [
-    [
       "2023-09-12, 15:38:18",
       "https://news.ycombinator.com/item?id=37482896"
     ],
@@ -127,16 +127,6 @@
     [
       "New world record with an electric racing car: From 0 to 100 in 0.956 seconds",
       "https://ethz.ch/en/news-and-events/eth-news/news/2023/09/from-zero-to-one-hundred-in-0-956-seconds.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 15:10:04",
-      "https://news.ycombinator.com/item?id=37482455"
-    ],
-    [
-      "Fandom can't decide if leaked songs are real or AI-generated",
-      "https://www.404media.co/harry-styles-one-direction-ai-leaked-songs/"
     ]
   ],
   [
@@ -167,16 +157,6 @@
     [
       "We built the fastest CI and it failed",
       "https://earthly.dev/blog/shutting-down-earthly-ci/"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 13:55:54",
-      "https://news.ycombinator.com/item?id=37481344"
-    ],
-    [
-      "Unity plan pricing and packaging updates",
-      "https://blog.unity.com/news/plan-pricing-and-packaging-updates"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2023-09-12, 11:24:21",
+      "https://news.ycombinator.com/item?id=37479434"
+    ],
+    [
+      "Navigational Instruments (2020)",
+      "https://exple.tive.org/blarg/2020/10/25/navigational-instruments/"
+    ]
+  ],
+  [
+    [
       "2023-09-12, 08:58:42",
       "https://news.ycombinator.com/item?id=37478403"
     ],
@@ -247,6 +237,16 @@
     [
       "Quiet – Encrypted P2P team chat with no servers, just Tor",
       "https://github.com/TryQuiet/quiet"
+    ]
+  ],
+  [
+    [
+      "2023-09-12, 06:05:13",
+      "https://news.ycombinator.com/item?id=37477366"
+    ],
+    [
+      "How to raise a child with taste in eighteenth-century Britain",
+      "https://www.laphamsquarterly.org/roundtable/do-not-suffer-him-become-bigot"
     ]
   ],
   [
@@ -275,18 +275,8 @@
       "https://news.ycombinator.com/item?id=37465586"
     ],
     [
-      "Chart – Completely Hackable Amateur Radio Telescope",
+      "CHART: Completely Hackable Amateur Radio Telescope",
       "https://astrochart.github.io/"
-    ]
-  ],
-  [
-    [
-      "2023-09-11, 09:55:18",
-      "https://news.ycombinator.com/item?id=37464988"
-    ],
-    [
-      "Falling for Oklch: A Love Story of Color Spaces, Gamuts, and CSS",
-      "https://www.smashingmagazine.com/2023/08/oklch-color-spaces-gamuts-css/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Visualizing the CPython Release Process",
       "https://sethmlarson.dev/security-developer-in-residence-weekly-report-9?date=2023-09-05"
+    ]
+  ],
+  [
+    [
+      "2023-09-11, 06:15:59",
+      "https://news.ycombinator.com/item?id=37463534"
+    ],
+    [
+      "Drying Fruits (2003)",
+      "https://nchfp.uga.edu/how/dry/csu_dry_fruits.pdf"
     ]
   ]
 ]
