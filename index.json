@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-09-12, 01:45:20",
-      "https://news.ycombinator.com/item?id=37476107"
-    ],
-    [
-      "For the first time in years, I’m excited by my computer purchase",
-      "https://changelog.complete.org/archives/10564-for-the-first-time-in-years-im-excited-by-my-computer-purchase"
-    ]
-  ],
-  [
-    [
       "2023-09-12, 01:01:17",
       "https://news.ycombinator.com/item?id=37475737"
     ],
@@ -187,6 +177,16 @@
     [
       "Beyond OpenAPI",
       "https://antonz.org/interactive-api-tutorials/"
+    ]
+  ],
+  [
+    [
+      "2023-09-11, 12:23:28",
+      "https://news.ycombinator.com/item?id=37466182"
+    ],
+    [
+      "A LLM+OLAP Solution",
+      "https://doris.apache.org/zh-CN/blog/Tencent-LLM/"
     ]
   ],
   [
