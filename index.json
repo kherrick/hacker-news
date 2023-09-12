@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-09-12, 17:51:50",
-      "https://news.ycombinator.com/item?id=37484897"
-    ],
-    [
-      "Apple ditches the Lightning connector in favor of USB-C after 11 years",
-      "https://techcrunch.com/2023/09/12/bye-lightning-hello-usb-c/"
-    ]
-  ],
-  [
-    [
       "2023-09-12, 17:08:29",
       "https://news.ycombinator.com/item?id=37484352"
     ],
@@ -51,16 +41,6 @@
   ],
   [
     [
-      "2023-09-12, 16:00:57",
-      "https://news.ycombinator.com/item?id=37483288"
-    ],
-    [
-      "Obsidian 1.4.10 Desktop (Public)",
-      "https://obsidian.md/changelog/2023-09-11-desktop-v1.4.10/"
-    ]
-  ],
-  [
-    [
       "2023-09-12, 15:57:16",
       "https://news.ycombinator.com/item?id=37483226"
     ],
@@ -85,8 +65,8 @@
       "https://news.ycombinator.com/item?id=37482896"
     ],
     [
-      "Why is the Irish Government so afraid of transparency for renters?",
-      "https://labour.ie/news/2023/06/28/why-is-the-government-so-afraid-of-transparency-for-renters/"
+      "Show HN: Rental data supplied by tenants in Ireland, searchable by all",
+      "https://www.howmuchrent.com/"
     ]
   ],
   [
@@ -135,7 +115,7 @@
       "https://news.ycombinator.com/item?id=37481513"
     ],
     [
-      "We built the fastest CI in the world and it failed",
+      "We built the fastest CI and it failed",
       "https://earthly.dev/blog/shutting-down-earthly-ci/"
     ]
   ],
@@ -187,6 +167,16 @@
     [
       "Trinary Decision Trees for missing value handling",
       "https://arxiv.org/abs/2309.03561"
+    ]
+  ],
+  [
+    [
+      "2023-09-12, 12:47:15",
+      "https://news.ycombinator.com/item?id=37480331"
+    ],
+    [
+      "QtWayland 6.6 Brings Robustness Through Compositor Handoffs",
+      "http://blog.davidedmundson.co.uk/blog/qt6_wayland_robustness/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Amiga C Tutorial (2022)",
       "http://www.pjhutchison.org/tutorial/amiga_c.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-10, 05:51:58",
+      "https://news.ycombinator.com/item?id=37453266"
+    ],
+    [
+      "John Adams to Abigail Adams (1780)",
+      "https://founders.archives.gov/documents/Adams/04-03-02-0258"
     ]
   ]
 ]
