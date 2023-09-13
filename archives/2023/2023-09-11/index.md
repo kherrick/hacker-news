@@ -9,6 +9,7 @@
 * [2023-09-11, 23:06:33](https://news.ycombinator.com/item?id=37474904) - [Arm’s Neoverse V2](https://chipsandcheese.com/2023/09/11/hot-chips-2023-arms-neoverse-v2/)
 * [2023-09-11, 22:58:38](https://news.ycombinator.com/item?id=37474837) - [Deno vs. Bun vs. Node.js: A feature comparison](https://dev.hexagon.56k.guru/posts/deno-vs-bun-vs-node/)
 * [2023-09-11, 22:52:49](https://news.ycombinator.com/item?id=37474780) - [I Can't Believe Neopets Is Still Around](https://www.dualshockers.com/neopets-is-still-active-2023/)
+* [2023-09-11, 22:50:42](https://news.ycombinator.com/item?id=37474760) - [Physicists solve mysteries of microtubule movers](https://phys.org/news/2023-09-physicists-mysteries-microtubule-movers.html)
 * [2023-09-11, 22:49:39](https://news.ycombinator.com/item?id=37474743) - [Making Dry Ice at home is just as hard as it sounds](https://hackaday.com/2023/03/10/making-dry-ice-at-home-is-just-as-hard-as-it-sounds/)
 * [2023-09-11, 22:35:51](https://news.ycombinator.com/item?id=37474623) - [Recyclable Thin-Film Soft Electronics for Smart Packaging and E-Skins](https://onlinelibrary.wiley.com/doi/10.1002/advs.202301673)
 * [2023-09-11, 22:33:37](https://news.ycombinator.com/item?id=37474601) - [OpenSSL 1.1.1 End of Life](https://www.openssl.org/blog/blog/2023/09/11/eol-111/)
