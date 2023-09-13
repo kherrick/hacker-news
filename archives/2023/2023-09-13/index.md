@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-13](index.md)
 
+* [2023-09-13, 22:45:04](https://news.ycombinator.com/item?id=37502677) - [The Golden Rules of Presentation Design](https://blog.thenounproject.com/the-golden-rules-of-presentation-design/)
 * [2023-09-13, 22:43:17](https://news.ycombinator.com/item?id=37502665) - [Patrick Collison on solar](https://patrickcollison.com/solar)
 * [2023-09-13, 22:03:56](https://news.ycombinator.com/item?id=37502329) - [500'000€ Prize for Compressing Human Knowledge](http://prize.hutter1.net/)
 * [2023-09-13, 21:09:06](https://news.ycombinator.com/item?id=37501756) - [Deforestation in the Amazon rainforest continues to plunge](https://news.mongabay.com/2023/09/deforestation-in-the-amazon-rainforest-continues-to-plunge/)

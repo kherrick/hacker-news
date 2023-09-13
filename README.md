@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-13, 22:45:04](https://news.ycombinator.com/item?id=37502677) - [The Golden Rules of Presentation Design](https://blog.thenounproject.com/the-golden-rules-of-presentation-design/)
 * [2023-09-13, 22:43:17](https://news.ycombinator.com/item?id=37502665) - [Patrick Collison on solar](https://patrickcollison.com/solar)
 * [2023-09-13, 22:03:56](https://news.ycombinator.com/item?id=37502329) - [Hutter Prize for compressing human knowledge](http://prize.hutter1.net/)
 * [2023-09-13, 21:09:06](https://news.ycombinator.com/item?id=37501756) - [Deforestation in the Amazon rainforest continues to decline](https://news.mongabay.com/2023/09/deforestation-in-the-amazon-rainforest-continues-to-plunge/)
@@ -22,13 +23,12 @@
 * [2023-09-13, 10:00:00](https://news.ycombinator.com/item?id=37494620) - [Stable Audio: Fast Timing-Conditioned Latent Audio Diffusion](https://stability.ai/research/stable-audio-efficient-timing-latent-diffusion)
 * [2023-09-13, 08:50:29](https://news.ycombinator.com/item?id=37494015) - [Openmoji](https://github.com/hfg-gmuend/openmoji)
 * [2023-09-13, 04:40:04](https://news.ycombinator.com/item?id=37492266) - [BOOLR – A digital logic simulator](http://boolr.me/)
-* [2023-09-13, 00:34:34](https://news.ycombinator.com/item?id=37490644) - [The Greatest Counterfeiter (2021)](https://www.guo.io/the-greatest-counterfeiter-in-the-world/)
 * [2023-09-12, 16:23:07](https://news.ycombinator.com/item?id=37483647) - [Lawrence Wright on Larry McMurtry](https://themillions.com/2023/09/lawrence-wright-on-larry-mcmurtry.html)
 * [2023-09-12, 12:14:23](https://news.ycombinator.com/item?id=37479901) - [Control USB power on a port by port basis on some USB hubs](https://github.com/codazoda/hub-ctrl.c)
-* [2023-09-12, 11:43:52](https://news.ycombinator.com/item?id=37479580) - [To Audio and Back Again](https://unascribed.com/junk/imgaudio/)
 * [2023-09-12, 08:49:57](https://news.ycombinator.com/item?id=37478341) - [86Box v4.0](https://86box.net/2023/08/26/86box-v4-0.html)
 * [2023-09-12, 08:13:12](https://news.ycombinator.com/item?id=37478111) - [Category Theory Illustrated – Sets](https://abuseofnotation.github.io/category-theory-illustrated/01_set/)
 * [2023-09-12, 08:10:07](https://news.ycombinator.com/item?id=37478097) - [Greatest “Classic” Mac Laptop: Powerbook G3 Pismo (2021)](https://www.amigalove.com/viewtopic.php?t=1796)
+* [2023-09-12, 07:23:28](https://news.ycombinator.com/item?id=37477797) - [Engraving](https://www.metmuseum.org/about-the-met/collection-areas/drawings-and-prints/materials-and-techniques/printmaking/engraving)
 * [2023-09-12, 07:16:27](https://news.ycombinator.com/item?id=37477751) - [An aroma picker for the Le Nez du Vin game](https://blog.jgc.org/2023/09/weekend-bricolage-aroma-picker-for-le.html)
 
 ## [Archives](archives/index.md)
