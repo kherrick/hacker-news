@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-13, 20:21:30](https://news.ycombinator.com/item?id=37501231) - [Don’t Mess with a Genius](https://shreevatsa.wordpress.com/2010/06/04/dont-mess-with-a-genius/)
 * [2023-09-13, 19:54:25](https://news.ycombinator.com/item?id=37500938) - [The stack monoid revisited](https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html)
 * [2023-09-13, 19:48:32](https://news.ycombinator.com/item?id=37500895) - [When MFA isn't MFA, or how we got phished](https://retool.com/blog/mfa-isnt-mfa/)
 * [2023-09-13, 19:38:21](https://news.ycombinator.com/item?id=37500781) - [Show HN: Kr8s – a Python client library for Kubernetes](https://github.com/kr8s-org/kr8s)
@@ -12,7 +13,6 @@
 * [2023-09-13, 16:27:10](https://news.ycombinator.com/item?id=37498820) - [WASI Support in Go](https://go.dev/blog/wasi)
 * [2023-09-13, 15:33:28](https://news.ycombinator.com/item?id=37498142) - [A DIY near-IR spectrometer](https://caoyuan.scripts.mit.edu/ir_spec.html)
 * [2023-09-13, 15:20:01](https://news.ycombinator.com/item?id=37497956) - [Bitty Engine: An itty bitty game engine](https://paladin-t.github.io/bitty/)
-* [2023-09-13, 14:28:39](https://news.ycombinator.com/item?id=37497233) - [PureBoot 28 – Upstreaming and Upscaling](https://puri.sm/posts/pureboot-28-upstreaming-and-upscaling/)
 * [2023-09-13, 14:21:45](https://news.ycombinator.com/item?id=37497131) - [Why Fennel?](https://fennel-lang.org/rationale)
 * [2023-09-13, 13:39:17](https://news.ycombinator.com/item?id=37496589) - [Meduza co-founder's phone infected with Pegasus](https://meduza.io/en/feature/2023/09/13/the-million-dollar-reporter)
 * [2023-09-13, 12:32:22](https://news.ycombinator.com/item?id=37495873) - [Against LLM Maximalism](https://explosion.ai/blog/against-llm-maximalism/)
