@@ -112,6 +112,7 @@
 * [2023-09-11, 06:15:59](https://news.ycombinator.com/item?id=37463534) - [Drying Fruits (2003)](https://nchfp.uga.edu/how/dry/csu_dry_fruits.pdf)
 * [2023-09-11, 06:14:35](https://news.ycombinator.com/item?id=37463523) - [The Pinouts Book: Pinout functions for 130 commonly used components](https://pinouts.org/)
 * [2023-09-11, 05:40:36](https://news.ycombinator.com/item?id=37463310) - [GitHub education pack requesting real name on public profile](https://github.com/orgs/community/discussions/57851)
+* [2023-09-11, 04:59:54](https://news.ycombinator.com/item?id=37463059) - [The Pirate Preservationists](https://reason.com/2023/09/10/the-pirate-preservationists/)
 * [2023-09-11, 04:38:28](https://news.ycombinator.com/item?id=37462947) - [HDMI ISA graphics card for vintage PCs by improving the Graphics Gremlin](https://yeokhengmeng.com/2023/09/hdmi-isa-graphics-card-for-vintage-pcs/)
 * [2023-09-11, 04:14:53](https://news.ycombinator.com/item?id=37462806) - [How could the early Unix OS comprise so few lines of code?](https://retrocomputing.stackexchange.com/questions/26083/how-could-early-unix-os-comprise-so-few-lines-of-code)
 * [2023-09-11, 03:57:50](https://news.ycombinator.com/item?id=37462694) - [Upcoming LK-99 paper will reportedly verify the superconductor](https://technology.inquirer.net/127825/lk-99-paper)
