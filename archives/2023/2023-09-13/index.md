@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-13](index.md)
 
+* [2023-09-13, 14:43:41](https://news.ycombinator.com/item?id=37497420) - [Nango.dev (YC W23) is hiring a founding back end engineer (remote)](https://nango.dev/jobs)
 * [2023-09-13, 13:48:04](https://news.ycombinator.com/item?id=37496696) - [Why people care about PostGIS and Postgres](https://pathtocituscon.transistor.fm/episodes/why-people-care-about-postgis-and-postgres-with-paul-ramsey-regina-obe/transcript)
 * [2023-09-13, 13:39:17](https://news.ycombinator.com/item?id=37496589) - [Meduza co-founder's phone infected with Pegasus](https://meduza.io/en/feature/2023/09/13/the-million-dollar-reporter)
 * [2023-09-13, 12:37:28](https://news.ycombinator.com/item?id=37495926) - [Swedish criminal gangs using fake Spotify streams to launder money](https://www.theguardian.com/technology/2023/sep/05/swedish-criminal-gangs-using-fake-spotify-streams-to-launder-money)
