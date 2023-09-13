@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-13](index.md)
 
+* [2023-09-13, 02:48:43](https://news.ycombinator.com/item?id=37491625) - [Samsung unveils monobloc heat pump for residential applications](https://www.pv-magazine.com/2023/09/12/samsung-unveils-monobloc-heat-pump-for-residential-applications/)
 * [2023-09-13, 02:13:33](https://news.ycombinator.com/item?id=37491369) - [Madlad-400: A Multilingual and Document-Level Large Audited Dataset](https://github.com/google-research/google-research/tree/master/madlad_400)
 * [2023-09-13, 01:52:57](https://news.ycombinator.com/item?id=37491233) - [Onion Futures Act – US law banning trading futures on onions](https://en.wikipedia.org/wiki/Onion_Futures_Act)
 * [2023-09-13, 01:39:44](https://news.ycombinator.com/item?id=37491146) - [Einstein to Habicht, 1905](https://ecologicallyoriented.wordpress.com/2014/05/24/einstein-to-habicht-1905/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-13, 02:48:43](https://news.ycombinator.com/item?id=37491625) - [Samsung unveils monobloc heat pump for residential applications](https://www.pv-magazine.com/2023/09/12/samsung-unveils-monobloc-heat-pump-for-residential-applications/)
 * [2023-09-13, 02:13:33](https://news.ycombinator.com/item?id=37491369) - [Madlad-400: A Multilingual and Document-Level Large Audited Dataset](https://github.com/google-research/google-research/tree/master/madlad_400)
 * [2023-09-13, 01:12:46](https://news.ycombinator.com/item?id=37490924) - [Lessons from YC AI Startups](https://www.ignorance.ai/p/5-lessons-from-139-yc-ai-startups)
 * [2023-09-13, 00:31:56](https://news.ycombinator.com/item?id=37490623) - [Interactive Map of Linux Kernel](https://makelinux.github.io/kernel/map/)
@@ -7,7 +8,6 @@
 * [2023-09-12, 23:46:47](https://news.ycombinator.com/item?id=37490260) - [The spawn of AtariLab and the Universal Laboratory Interface](http://oldvcr.blogspot.com/2023/09/the-spawn-of-atarilab-and-universal.html)
 * [2023-09-12, 23:46:22](https://news.ycombinator.com/item?id=37490256) - [Fixing Penn Station](https://commonedge.org/whats-to-become-of-the-mess-that-is-penn-station/)
 * [2023-09-12, 23:45:06](https://news.ycombinator.com/item?id=37490241) - [Credit card debt collection](https://www.bitsaboutmoney.com/archive/the-waste-stream-of-consumer-finance/)
-* [2023-09-12, 21:33:13](https://news.ycombinator.com/item?id=37488762) - [What the interns have wrought, 2023 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2023/)
 * [2023-09-12, 21:00:00](https://news.ycombinator.com/item?id=37488252) - [JustPaid.io (YC W23) is hiring a senior full stack engineer](https://www.justpaid.io/careers)
 * [2023-09-12, 20:46:55](https://news.ycombinator.com/item?id=37488034) - [Some notes on local-first development](https://bricolage.io/some-notes-on-local-first-development/)
 * [2023-09-12, 20:03:44](https://news.ycombinator.com/item?id=37487306) - [Electric cooling could shrink quantum computers](https://spectrum.ieee.org/cryogenics)
