@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-09-13](index.md)
 
+* [2023-09-13, 13:39:17](https://news.ycombinator.com/item?id=37496589) - [Meduza co-founder's phone infected with Pegasus](https://meduza.io/en/feature/2023/09/13/the-million-dollar-reporter)
 * [2023-09-13, 12:37:28](https://news.ycombinator.com/item?id=37495926) - [Swedish criminal gangs using fake Spotify streams to launder money](https://www.theguardian.com/technology/2023/sep/05/swedish-criminal-gangs-using-fake-spotify-streams-to-launder-money)
+* [2023-09-13, 12:32:22](https://news.ycombinator.com/item?id=37495873) - [Against LLM Maximalism](https://explosion.ai/blog/against-llm-maximalism/)
+* [2023-09-13, 12:18:23](https://news.ycombinator.com/item?id=37495731) - [VoCore – Coin-sized Linux Computer. Is there a Bluetooth varient?](https://vocore.io/#store)
+* [2023-09-13, 12:08:47](https://news.ycombinator.com/item?id=37495640) - [Defold: Open-source Lua game engine with console support](https://defold.com/)
 * [2023-09-13, 12:00:40](https://news.ycombinator.com/item?id=37495559) - [Trigger.dev (YC W23) Is Hiring a Senior Full Stack Engineer](https://trigger.dev/hiring)
 * [2023-09-13, 11:51:54](https://news.ycombinator.com/item?id=37495496) - [Here ends the story of 10K Riders Publishing](https://tumenko.com/)
 * [2023-09-13, 11:16:56](https://news.ycombinator.com/item?id=37495206) - [TSMC Arizona chip plant will be a paperweight](https://9to5mac.com/2023/09/11/tsmc-arizona-chip-plant/)
