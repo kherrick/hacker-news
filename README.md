@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-13, 17:05:44](https://news.ycombinator.com/item?id=37498979) - [PF bug in macOS Sonoma release candidate](https://mullvad.net/en/blog/2023/9/13/bug-in-macos-14-sonoma-prevents-our-app-from-working/)
 * [2023-09-13, 17:01:36](https://news.ycombinator.com/item?id=37498935) - [SigNoz – Open-source alternative to Datadog is hiring product designers (remote)](https://signoz.io/careers/product-designer-in/)
 * [2023-09-13, 16:48:47](https://news.ycombinator.com/item?id=37498830) - [SpaceX no longer taking losses to produce Starlink satellite antennas](https://www.cnbc.com/2023/09/13/spacex-no-longer-taking-losses-to-produce-starlink-satellite-antennas.html)
 * [2023-09-13, 16:19:36](https://news.ycombinator.com/item?id=37498725) - [Why the Eddie Murphy Rule Is About More Than Orange Juice (2019)](https://econlife.com/2019/12/the-eddie-murphy-rule/)
@@ -21,7 +22,6 @@
 * [2023-09-13, 08:44:58](https://news.ycombinator.com/item?id=37493964) - [What Is Wrong with TOML?](https://hitchdev.com/strictyaml/why-not/toml/)
 * [2023-09-13, 08:26:16](https://news.ycombinator.com/item?id=37493797) - [A CD Spectrometer](https://www.cs.cmu.edu/~zhuxj/astro/html/spectrometer.html)
 * [2023-09-13, 06:37:46](https://news.ycombinator.com/item?id=37492986) - [70B Llama 2 at 35tokens/second on 4090](https://github.com/turboderp/exllamav2)
-* [2023-09-13, 06:01:00](https://news.ycombinator.com/item?id=37492752) - [iPhone 12 withdrawn from French market for non-compliance with EU regulation](https://www.anfr.fr/liste-actualites/actualite/temporary-withdrawal-from-the-market-of-the-iphone-12-for-non-compliance-with-eu-regulation)
 * [2023-09-13, 04:57:41](https://news.ycombinator.com/item?id=37492371) - [S32 Unix Clock](https://www.da.vidbuchanan.co.uk/blog/unix-clock.html)
 * [2023-09-13, 03:31:07](https://news.ycombinator.com/item?id=37491862) - [Any sufficiently advanced uninstaller is indistinguishable from malware](https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749)
 * [2023-09-13, 00:34:34](https://news.ycombinator.com/item?id=37490644) - [The Greatest Counterfeiter (2021)](https://www.guo.io/the-greatest-counterfeiter-in-the-world/)
