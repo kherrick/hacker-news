@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-13, 04:57:41](https://news.ycombinator.com/item?id=37492371) - [S32 Unix Clock](https://www.da.vidbuchanan.co.uk/blog/unix-clock.html)
 * [2023-09-13, 03:31:07](https://news.ycombinator.com/item?id=37491862) - [Any sufficiently advanced uninstaller is indistinguishable from malware](https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749)
 * [2023-09-13, 02:13:33](https://news.ycombinator.com/item?id=37491369) - [Madlad-400: A Multilingual and Document-Level Large Audited Dataset](https://github.com/google-research/google-research/tree/master/madlad_400)
 * [2023-09-13, 01:12:46](https://news.ycombinator.com/item?id=37490924) - [Lessons from YC AI Startups](https://www.ignorance.ai/p/5-lessons-from-139-yc-ai-startups)
@@ -26,7 +27,6 @@
 * [2023-09-11, 19:19:28](https://news.ycombinator.com/item?id=37472340) - [RetroAchievements: Adding achievements to retro games](https://retroachievements.org)
 * [2023-09-11, 18:03:10](https://news.ycombinator.com/item?id=37471077) - [Protohackers Learnings](https://geekingfrog.com/blog/post/protohackers-learnings)
 * [2023-09-11, 16:47:21](https://news.ycombinator.com/item?id=37469954) - [Scientists decipher the fingertip's 'memory'](https://medicalxpress.com/news/2023-09-scientists-decipher-fingertip-memory.html)
-* [2023-09-11, 16:23:47](https://news.ycombinator.com/item?id=37469590) - [Homemade Sriracha](https://www.seriouseats.com/sriracha-recipe-from-scratch)
 * [2023-09-11, 11:18:42](https://news.ycombinator.com/item?id=37465586) - [CHART: Completely Hackable Amateur Radio Telescope](https://astrochart.github.io/)
 * [2023-09-11, 09:50:36](https://news.ycombinator.com/item?id=37464950) - [Visualizing the CPython release process](https://sethmlarson.dev/security-developer-in-residence-weekly-report-9?date=2023-09-05)
 * [2023-09-11, 04:59:54](https://news.ycombinator.com/item?id=37463059) - [The Pirate Preservationists](https://reason.com/2023/09/10/the-pirate-preservationists/)
