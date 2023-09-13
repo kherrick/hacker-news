@@ -22,12 +22,12 @@
 * [2023-09-12, 16:28:59](https://news.ycombinator.com/item?id=37483734) - [Throbol – The Robot Oriented Language](https://throbol.com/)
 * [2023-09-12, 13:06:33](https://news.ycombinator.com/item?id=37480561) - [How large is that number in the Law of Large Numbers?](https://thepalindrome.org/p/how-large-that-number-in-the-law)
 * [2023-09-12, 11:30:57](https://news.ycombinator.com/item?id=37479472) - [Sweden brings more books and handwriting practice back to its tech-heavy schools](https://apnews.com/article/sweden-digital-education-backlash-reading-writing-1dd964c628f76361c43dbf3964f7dbf4)
-* [2023-09-12, 07:04:49](https://news.ycombinator.com/item?id=37477685) - [Statistical significance on a shoestring budget](https://alexeymk.com/2023/09/11/statistical-significance-on-a-shoestring-budget.html)
 * [2023-09-12, 06:07:02](https://news.ycombinator.com/item?id=37477380) - [Robinson Crusoe Walks Into a Bar: A literary scholar and an improbable lawsuit](https://www.chronicle.com/article/robinson-crusoe-walks-into-a-bar)
 * [2023-09-11, 22:35:51](https://news.ycombinator.com/item?id=37474623) - [Recyclable thin-film soft electronics for smart packaging and e-skins](https://onlinelibrary.wiley.com/doi/10.1002/advs.202301673)
 * [2023-09-11, 18:03:10](https://news.ycombinator.com/item?id=37471077) - [Protohackers Learnings](https://geekingfrog.com/blog/post/protohackers-learnings)
 * [2023-09-11, 16:47:21](https://news.ycombinator.com/item?id=37469954) - [Scientists decipher the fingertip's 'memory'](https://medicalxpress.com/news/2023-09-scientists-decipher-fingertip-memory.html)
 * [2023-09-11, 16:41:31](https://news.ycombinator.com/item?id=37469864) - [How to Ensure the Last Gas-Lamp Theater in the World Doesn’t Blow Up](https://www.atlasobscura.com/articles/last-gas-lamp-theater-england)
+* [2023-09-11, 16:23:47](https://news.ycombinator.com/item?id=37469590) - [Homemade Sriracha](https://www.seriouseats.com/sriracha-recipe-from-scratch)
 * [2023-09-11, 11:18:42](https://news.ycombinator.com/item?id=37465586) - [CHART: Completely Hackable Amateur Radio Telescope](https://astrochart.github.io/)
 * [2023-09-11, 04:59:54](https://news.ycombinator.com/item?id=37463059) - [The Pirate Preservationists](https://reason.com/2023/09/10/the-pirate-preservationists/)
 
