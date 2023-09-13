@@ -7,6 +7,7 @@
 * [2023-09-12, 23:52:29](https://news.ycombinator.com/item?id=37490314) - [$2.70 supermarket wine wins gold medal at international wine contest](https://www.odditycentral.com/news/2-70-supermarket-wine-wins-gold-medal-at-international-wine-contest.html)
 * [2023-09-12, 23:51:10](https://news.ycombinator.com/item?id=37490301) - [Breaking Through Depression](https://www.theguardian.com/books/2023/sep/10/breaking-through-depression-new-treatments-discoveries-for-healing-the-balanced-brain-science-of-mental-health-philip-gold-camilla-nord-reviews)
 * [2023-09-12, 23:51:05](https://news.ycombinator.com/item?id=37490300) - [How long it took different companies to find product-market fit](https://www.lennysnewsletter.com/p/finding-product-market-fit)
+* [2023-09-12, 23:48:11](https://news.ycombinator.com/item?id=37490277) - [Pablo Fanque's Fair (2011)](https://www.smithsonianmag.com/history/pablo-fanques-fair-71575787/)
 * [2023-09-12, 23:46:47](https://news.ycombinator.com/item?id=37490260) - [The spawn of AtariLab and the Universal Laboratory Interface](http://oldvcr.blogspot.com/2023/09/the-spawn-of-atarilab-and-universal.html)
 * [2023-09-12, 23:46:22](https://news.ycombinator.com/item?id=37490256) - [Fixing Penn Station](https://commonedge.org/whats-to-become-of-the-mess-that-is-penn-station/)
 * [2023-09-12, 23:45:28](https://news.ycombinator.com/item?id=37490244) - [Game, Set, Sell](https://racquetmag.com/2023/09/06/game-set-sell/)
