@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-13, 17:01:36](https://news.ycombinator.com/item?id=37498935) - [SigNoz – Open-source alternative to Datadog is hiring product designers (remote)](https://signoz.io/careers/product-designer-in/)
 * [2023-09-13, 16:48:47](https://news.ycombinator.com/item?id=37498830) - [SpaceX no longer taking losses to produce Starlink satellite antennas](https://www.cnbc.com/2023/09/13/spacex-no-longer-taking-losses-to-produce-starlink-satellite-antennas.html)
 * [2023-09-13, 16:19:36](https://news.ycombinator.com/item?id=37498725) - [Why the Eddie Murphy Rule Is About More Than Orange Juice (2019)](https://econlife.com/2019/12/the-eddie-murphy-rule/)
 * [2023-09-13, 16:05:37](https://news.ycombinator.com/item?id=37498558) - [Transcoding Unicode strings at crazy speeds with AVX-512](https://lemire.me/blog/2023/09/13/transcoding-unicode-strings-at-crazy-speeds-with-avx-512/)
@@ -7,7 +8,6 @@
 * [2023-09-13, 15:33:28](https://news.ycombinator.com/item?id=37498142) - [A DIY near-IR spectrometer](https://caoyuan.scripts.mit.edu/ir_spec.html)
 * [2023-09-13, 15:20:01](https://news.ycombinator.com/item?id=37497956) - [Bitty Engine: A tiny powerful game engine](https://paladin-t.github.io/bitty/)
 * [2023-09-13, 15:19:42](https://news.ycombinator.com/item?id=37497948) - [OpenBSD Webzine #14](https://webzine.puffy.cafe/issue-14.html)
-* [2023-09-13, 14:43:41](https://news.ycombinator.com/item?id=37497420) - [Nango.dev (YC W23) is hiring a founding back end engineer (remote)](https://nango.dev/jobs)
 * [2023-09-13, 14:28:39](https://news.ycombinator.com/item?id=37497233) - [PureBoot 28 – Upstreaming and Upscaling](https://puri.sm/posts/pureboot-28-upstreaming-and-upscaling/)
 * [2023-09-13, 14:21:45](https://news.ycombinator.com/item?id=37497131) - [Why Fennel?](https://fennel-lang.org/rationale)
 * [2023-09-13, 13:39:17](https://news.ycombinator.com/item?id=37496589) - [Meduza co-founder's phone infected with Pegasus](https://meduza.io/en/feature/2023/09/13/the-million-dollar-reporter)
@@ -28,7 +28,7 @@
 * [2023-09-13, 00:31:56](https://news.ycombinator.com/item?id=37490623) - [Interactive Map of Linux Kernel](https://makelinux.github.io/kernel/map/)
 * [2023-09-12, 23:46:47](https://news.ycombinator.com/item?id=37490260) - [The spawn of AtariLab and the Universal Laboratory Interface](http://oldvcr.blogspot.com/2023/09/the-spawn-of-atarilab-and-universal.html)
 * [2023-09-12, 15:10:37](https://news.ycombinator.com/item?id=37482465) - [Digital Compact Cassette in 2023 [video]](https://www.youtube.com/watch?v=GJSlkNbpPsM)
-* [2023-09-11, 22:50:42](https://news.ycombinator.com/item?id=37474760) - [Physicists solve mysteries of microtubule movers](https://phys.org/news/2023-09-physicists-mysteries-microtubule-movers.html)
+* [2023-09-12, 08:13:12](https://news.ycombinator.com/item?id=37478111) - [Category Theory Illustrated – Sets](https://abuseofnotation.github.io/category-theory-illustrated/01_set/)
 * [2023-09-11, 22:11:58](https://news.ycombinator.com/item?id=37474394) - [Analyzing ELF symbols using SQL](https://fzakaria.com/2023/09/11/quick-insights-using-sqlelf.html)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-13](index.md)
 
+* [2023-09-13, 17:01:36](https://news.ycombinator.com/item?id=37498935) - [SigNoz – Open-source alternative to Datadog is hiring product designers (remote)](https://signoz.io/careers/product-designer-in/)
 * [2023-09-13, 16:48:47](https://news.ycombinator.com/item?id=37498830) - [SpaceX no longer taking losses to produce Starlink satellite antennas](https://www.cnbc.com/2023/09/13/spacex-no-longer-taking-losses-to-produce-starlink-satellite-antennas.html)
 * [2023-09-13, 16:19:36](https://news.ycombinator.com/item?id=37498725) - [Why the Eddie Murphy Rule Is About More Than Orange Juice (2019)](https://econlife.com/2019/12/the-eddie-murphy-rule/)
 * [2023-09-13, 16:05:37](https://news.ycombinator.com/item?id=37498558) - [Transcoding Unicode strings at crazy speeds with AVX-512](https://lemire.me/blog/2023/09/13/transcoding-unicode-strings-at-crazy-speeds-with-avx-512/)
