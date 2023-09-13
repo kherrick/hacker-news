@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-13](index.md)
 
+* [2023-09-13, 16:05:37](https://news.ycombinator.com/item?id=37498558) - [Transcoding Unicode strings at crazy speeds with AVX-512](https://lemire.me/blog/2023/09/13/transcoding-unicode-strings-at-crazy-speeds-with-avx-512/)
 * [2023-09-13, 15:54:30](https://news.ycombinator.com/item?id=37498390) - [MUNI Bus Killed San Francisco Man at Center of Robotaxi, Firefighter Dispute](https://sfstandard.com/2023/09/12/muni-bus-killed-san-francisco-man-at-center-of-robotaxi-firefighter-dispute/)
 * [2023-09-13, 15:52:04](https://news.ycombinator.com/item?id=37498358) - [Facebook Messenger now limits WebP file attachments](https://news.ycombinator.com/item?id=37498358)
 * [2023-09-13, 15:33:28](https://news.ycombinator.com/item?id=37498142) - [A $500 DIY near-IR spectrometer that would sell for $10k](https://caoyuan.scripts.mit.edu/ir_spec.html)
@@ -11,7 +12,9 @@
 * [2023-09-13, 15:19:42](https://news.ycombinator.com/item?id=37497948) - [OpenBSD Webzine #14](https://webzine.puffy.cafe/issue-14.html)
 * [2023-09-13, 15:08:25](https://news.ycombinator.com/item?id=37497783) - [A Zettelkasten Explodes Thought: Rhizomes, Intertextuality, & Ideative Pillaging](https://writing.bobdoto.computer/inspired-destruction-how-a-zettelkasten-explodes-thoughts-so-you-can-have-newish-ones/)
 * [2023-09-13, 14:43:41](https://news.ycombinator.com/item?id=37497420) - [Nango.dev (YC W23) is hiring a founding back end engineer (remote)](https://nango.dev/jobs)
+* [2023-09-13, 14:28:39](https://news.ycombinator.com/item?id=37497233) - [PureBoot 28 – Upstreaming and Upscaling](https://puri.sm/posts/pureboot-28-upstreaming-and-upscaling/)
 * [2023-09-13, 14:26:04](https://news.ycombinator.com/item?id=37497199) - [Apple finally put USB-C in new iPhone, but limited to 23-year-old USB 2.0 speeds](https://www.pcgamer.com/apple-finally-put-usb-c-in-the-new-iphone-but-its-inexplicably-limited-to-23-year-old-usb-20-speeds/)
+* [2023-09-13, 14:21:45](https://news.ycombinator.com/item?id=37497131) - [Why Fennel?](https://fennel-lang.org/rationale)
 * [2023-09-13, 13:48:04](https://news.ycombinator.com/item?id=37496696) - [Why people care about PostGIS and Postgres](https://pathtocituscon.transistor.fm/episodes/why-people-care-about-postgis-and-postgres-with-paul-ramsey-regina-obe/transcript)
 * [2023-09-13, 13:39:17](https://news.ycombinator.com/item?id=37496589) - [Meduza co-founder's phone infected with Pegasus](https://meduza.io/en/feature/2023/09/13/the-million-dollar-reporter)
 * [2023-09-13, 12:37:28](https://news.ycombinator.com/item?id=37495926) - [Swedish criminal gangs using fake Spotify streams to launder money](https://www.theguardian.com/technology/2023/sep/05/swedish-criminal-gangs-using-fake-spotify-streams-to-launder-money)
