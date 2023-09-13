@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-13](index.md)
 
+* [2023-09-13, 15:54:30](https://news.ycombinator.com/item?id=37498390) - [MUNI Bus Killed San Francisco Man at Center of Robotaxi, Firefighter Dispute](https://sfstandard.com/2023/09/12/muni-bus-killed-san-francisco-man-at-center-of-robotaxi-firefighter-dispute/)
+* [2023-09-13, 15:52:04](https://news.ycombinator.com/item?id=37498358) - [Facebook Messenger now limits WebP file attachments](https://news.ycombinator.com/item?id=37498358)
 * [2023-09-13, 15:33:28](https://news.ycombinator.com/item?id=37498142) - [A $500 DIY near-IR spectrometer that would sell for $10k](https://caoyuan.scripts.mit.edu/ir_spec.html)
 * [2023-09-13, 15:20:01](https://news.ycombinator.com/item?id=37497956) - [Bitty Engine: A tiny powerful game engine](https://paladin-t.github.io/bitty/)
 * [2023-09-13, 15:19:42](https://news.ycombinator.com/item?id=37497948) - [OpenBSD Webzine #14](https://webzine.puffy.cafe/issue-14.html)

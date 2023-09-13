@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-13, 15:54:30](https://news.ycombinator.com/item?id=37498390) - [MUNI Bus Killed San Francisco Man at Center of Robotaxi, Firefighter Dispute](https://sfstandard.com/2023/09/12/muni-bus-killed-san-francisco-man-at-center-of-robotaxi-firefighter-dispute/)
+* [2023-09-13, 15:52:04](https://news.ycombinator.com/item?id=37498358) - [Facebook Messenger now limits WebP file attachments](https://news.ycombinator.com/item?id=37498358)
 * [2023-09-13, 15:33:28](https://news.ycombinator.com/item?id=37498142) - [A $500 DIY near-IR spectrometer that would sell for $10k](https://caoyuan.scripts.mit.edu/ir_spec.html)
 * [2023-09-13, 15:20:01](https://news.ycombinator.com/item?id=37497956) - [Bitty Engine: A tiny powerful game engine](https://paladin-t.github.io/bitty/)
 * [2023-09-13, 15:19:42](https://news.ycombinator.com/item?id=37497948) - [OpenBSD Webzine #14](https://webzine.puffy.cafe/issue-14.html)
@@ -26,10 +28,8 @@
 * [2023-09-12, 15:10:37](https://news.ycombinator.com/item?id=37482465) - [Digital Compact Cassette in 2023 [video]](https://www.youtube.com/watch?v=GJSlkNbpPsM)
 * [2023-09-11, 22:50:42](https://news.ycombinator.com/item?id=37474760) - [Physicists solve mysteries of microtubule movers](https://phys.org/news/2023-09-physicists-mysteries-microtubule-movers.html)
 * [2023-09-11, 22:43:34](https://news.ycombinator.com/item?id=37474689) - [The trouble with supermarket self checkouts](https://www.spectator.co.uk/article/the-trouble-with-supermarket-self-checkouts/)
-* [2023-09-11, 20:22:06](https://news.ycombinator.com/item?id=37473120) - [Perturbation analysis of spatial single cell RNA-seq (2021)](https://www.michaelchimenti.com/2021/11/perturbation-analysis-of-spatial-single-cell-rna-seq-with-augur/)
 * [2023-09-11, 19:20:00](https://news.ycombinator.com/item?id=37472347) - [Rubber hose animation](https://en.wikipedia.org/wiki/Rubber_hose_animation)
 * [2023-09-11, 18:19:34](https://news.ycombinator.com/item?id=37471332) - [FC8 – Faster 68K Decompression (2016)](https://www.bigmessowires.com/2016/05/06/fc8-faster-68k-decompression/)
-* [2023-09-11, 12:27:19](https://news.ycombinator.com/item?id=37466217) - [Typing on Any Surface: A Deep Learning Method for Keystroke Detection in AR](https://arxiv.org/abs/2309.00174)
 
 ## [Archives](archives/index.md)
 
