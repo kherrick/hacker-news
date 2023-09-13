@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-09-13](index.md)
 
+* [2023-09-13, 08:21:10](https://news.ycombinator.com/item?id=37493748) - [Password-stealing Linux malware served for 3 years and no one noticed](https://arstechnica.com/security/2023/09/password-stealing-linux-malware-served-for-3-years-and-no-one-noticed/)
 * [2023-09-13, 07:56:32](https://news.ycombinator.com/item?id=37493566) - [French regulators order Apple to halt sales of the iPhone 12](https://www.france24.com/en/europe/20230912-france-orders-apple-to-halt-iphone-12-sales-due-to-high-radiation-levels)
 * [2023-09-13, 06:42:27](https://news.ycombinator.com/item?id=37493028) - [“This Is a Disaster:” Game Developers Scramble to Deal with Unity’s New Fees](https://www.404media.co/unity-new-fees-prices/)
 * [2023-09-13, 06:37:46](https://news.ycombinator.com/item?id=37492986) - [70B Llama 2 at 35tokens/second on 4090](https://github.com/turboderp/exllamav2)
 * [2023-09-13, 06:17:35](https://news.ycombinator.com/item?id=37492852) - [There are now two types of PayPal dollars, and one is better than the other](http://jpkoning.blogspot.com/2023/09/there-are-now-two-types-of-paypal.html)
+* [2023-09-13, 06:01:00](https://news.ycombinator.com/item?id=37492752) - [iPhone 12 withdrawn from French market for non-compliance with EU regulation](https://www.anfr.fr/liste-actualites/actualite/temporary-withdrawal-from-the-market-of-the-iphone-12-for-non-compliance-with-eu-regulation)
 * [2023-09-13, 04:57:41](https://news.ycombinator.com/item?id=37492371) - [S32 Unix Clock](https://www.da.vidbuchanan.co.uk/blog/unix-clock.html)
 * [2023-09-13, 03:31:07](https://news.ycombinator.com/item?id=37491862) - [Any sufficiently advanced uninstaller is indistinguishable from malware](https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749)
 * [2023-09-13, 02:48:43](https://news.ycombinator.com/item?id=37491625) - [Samsung unveils monobloc heat pump for residential applications](https://www.pv-magazine.com/2023/09/12/samsung-unveils-monobloc-heat-pump-for-residential-applications/)
