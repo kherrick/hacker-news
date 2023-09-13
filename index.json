@@ -1,32 +1,12 @@
 [
   [
     [
-      "2023-09-13, 18:09:43",
-      "https://news.ycombinator.com/item?id=37499731"
-    ],
-    [
-      "Unity silently removed clause that let you use TOS from version you shipped with",
-      "https://old.reddit.com/r/gamedev/comments/16hnibp/unity_silently_removed_their_github_repo_to_track/"
-    ]
-  ],
-  [
-    [
       "2023-09-13, 18:08:37",
       "https://news.ycombinator.com/item?id=37499720"
     ],
     [
       "Marvel Visual Effects Workers Vote to Unionize",
       "https://www.rollingstone.com/tv-movies/tv-movie-news/marvel-visual-effects-workers-vote-unionize-1234824215/"
-    ]
-  ],
-  [
-    [
-      "2023-09-13, 18:07:47",
-      "https://news.ycombinator.com/item?id=37499708"
-    ],
-    [
-      "Unity to Godot Docs",
-      "https://docs.godotengine.org/en/3.1/getting_started/editor/unity_to_godot.html"
     ]
   ],
   [
@@ -91,6 +71,16 @@
   ],
   [
     [
+      "2023-09-13, 16:53:11",
+      "https://news.ycombinator.com/item?id=37498854"
+    ],
+    [
+      "Show HN: Victor, a browser-optimized vector database written in Rust",
+      "https://github.com/not-pizza/victor"
+    ]
+  ],
+  [
+    [
       "2023-09-13, 16:48:47",
       "https://news.ycombinator.com/item?id=37498830"
     ],
@@ -147,6 +137,16 @@
     [
       "Bitty Engine: An itty bitty game engine",
       "https://paladin-t.github.io/bitty/"
+    ]
+  ],
+  [
+    [
+      "2023-09-13, 15:19:42",
+      "https://news.ycombinator.com/item?id=37497948"
+    ],
+    [
+      "OpenBSD Webzine #14",
+      "https://webzine.puffy.cafe/issue-14.html"
     ]
   ],
   [
@@ -211,22 +211,22 @@
   ],
   [
     [
+      "2023-09-13, 08:44:58",
+      "https://news.ycombinator.com/item?id=37493964"
+    ],
+    [
+      "What Is Wrong with TOML?",
+      "https://hitchdev.com/strictyaml/why-not/toml/"
+    ]
+  ],
+  [
+    [
       "2023-09-13, 08:26:16",
       "https://news.ycombinator.com/item?id=37493797"
     ],
     [
       "A CD Spectrometer",
       "https://www.cs.cmu.edu/~zhuxj/astro/html/spectrometer.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-13, 06:37:46",
-      "https://news.ycombinator.com/item?id=37492986"
-    ],
-    [
-      "70B Llama 2 at 35tokens/second on 4090",
-      "https://github.com/turboderp/exllamav2"
     ]
   ],
   [
