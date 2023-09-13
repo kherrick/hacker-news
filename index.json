@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-09-13, 18:08:37",
-      "https://news.ycombinator.com/item?id=37499720"
-    ],
-    [
-      "Marvel Visual Effects Workers Vote to Unionize",
-      "https://www.rollingstone.com/tv-movies/tv-movie-news/marvel-visual-effects-workers-vote-unionize-1234824215/"
-    ]
-  ],
-  [
-    [
       "2023-09-13, 17:49:57",
       "https://news.ycombinator.com/item?id=37499479"
     ],
@@ -21,22 +11,22 @@
   ],
   [
     [
-      "2023-09-13, 17:44:55",
-      "https://news.ycombinator.com/item?id=37499414"
-    ],
-    [
-      "Google lays off hundreds on recruiting team",
-      "https://www.semafor.com/article/09/13/2023/google-lays-off-hundreds-on-recruiting-team"
-    ]
-  ],
-  [
-    [
       "2023-09-13, 17:41:58",
       "https://news.ycombinator.com/item?id=37499375"
     ],
     [
       "Show HN: Lantern – a PostgreSQL vector database for building AI applications",
       "https://docs.lantern.dev/blog/2023/09/13/hello-world"
+    ]
+  ],
+  [
+    [
+      "2023-09-13, 17:17:27",
+      "https://news.ycombinator.com/item?id=37499106"
+    ],
+    [
+      "The Uselessness of Phenylephrine (2022)",
+      "https://www.science.org/content/blog-post/uselessness-phenylephrine"
     ]
   ],
   [
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=37498935"
     ],
     [
-      "SigNoz – Open-source alternative to Datadog is hiring product designers (remote)",
+      "SigNoz (YC W21), open-source Datadog, is hiring product designers (remote)",
       "https://signoz.io/careers/product-designer-in/"
     ]
   ],
@@ -95,18 +85,8 @@
       "https://news.ycombinator.com/item?id=37498725"
     ],
     [
-      "Why the Eddie Murphy Rule Is About More Than Orange Juice (2019)",
+      "The Eddie Murphy rule and information embargoes",
       "https://econlife.com/2019/12/the-eddie-murphy-rule/"
-    ]
-  ],
-  [
-    [
-      "2023-09-13, 15:59:58",
-      "https://news.ycombinator.com/item?id=37498473"
-    ],
-    [
-      "Appeals Court Upholds Public.Resource.Org’s Right to Post Public Laws Online",
-      "https://www.eff.org/press/releases/appeals-court-upholds-publicresourceorgs-right-post-public-laws-and-regulations"
     ]
   ],
   [
@@ -127,6 +107,16 @@
     [
       "Bitty Engine: An itty bitty game engine",
       "https://paladin-t.github.io/bitty/"
+    ]
+  ],
+  [
+    [
+      "2023-09-13, 15:19:42",
+      "https://news.ycombinator.com/item?id=37497948"
+    ],
+    [
+      "OpenBSD Webzine #14",
+      "https://webzine.puffy.cafe/issue-14.html"
     ]
   ],
   [
@@ -165,8 +155,8 @@
       "https://news.ycombinator.com/item?id=37495731"
     ],
     [
-      "VoCore – Coin-sized Linux Computer. Is there a Bluetooth varient?",
-      "https://vocore.io/#store"
+      "VoCore – Coin-sized Linux Computer",
+      "https://vocore.io/"
     ]
   ],
   [
@@ -195,7 +185,7 @@
       "https://news.ycombinator.com/item?id=37493964"
     ],
     [
-      "What Is Wrong with TOML?",
+      "What is wrong with TOML? (2019)",
       "https://hitchdev.com/strictyaml/why-not/toml/"
     ]
   ],
@@ -205,7 +195,7 @@
       "https://news.ycombinator.com/item?id=37493797"
     ],
     [
-      "A CD Spectrometer",
+      "A CD Spectrometer (2006)",
       "https://www.cs.cmu.edu/~zhuxj/astro/html/spectrometer.html"
     ]
   ],
@@ -255,8 +245,18 @@
       "https://news.ycombinator.com/item?id=37488793"
     ],
     [
-      "Le Sphinx Pocket Cipher Device (1930)",
+      "Le Sphinx – Pocket cipher device (1930)",
       "https://www.cryptomuseum.com/crypto/lugagne/sphinx/index.htm"
+    ]
+  ],
+  [
+    [
+      "2023-09-12, 15:10:37",
+      "https://news.ycombinator.com/item?id=37482465"
+    ],
+    [
+      "Digital Compact Cassette in 2023 [video]",
+      "https://www.youtube.com/watch?v=GJSlkNbpPsM"
     ]
   ],
   [
