@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-13, 22:03:56",
+      "https://news.ycombinator.com/item?id=37502329"
+    ],
+    [
+      "500'000€ Prize for Compressing Human Knowledge",
+      "http://prize.hutter1.net/"
+    ]
+  ],
+  [
+    [
       "2023-09-13, 21:09:06",
       "https://news.ycombinator.com/item?id=37501756"
     ],
@@ -181,6 +191,16 @@
   ],
   [
     [
+      "2023-09-13, 08:50:29",
+      "https://news.ycombinator.com/item?id=37494015"
+    ],
+    [
+      "Openmoji",
+      "https://github.com/hfg-gmuend/openmoji"
+    ]
+  ],
+  [
+    [
       "2023-09-13, 08:26:16",
       "https://news.ycombinator.com/item?id=37493797"
     ],
@@ -207,16 +227,6 @@
     [
       "The Greatest Counterfeiter (2021)",
       "https://www.guo.io/the-greatest-counterfeiter-in-the-world/"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 21:35:35",
-      "https://news.ycombinator.com/item?id=37488793"
-    ],
-    [
-      "Le Sphinx – Pocket cipher device (1930)",
-      "https://www.cryptomuseum.com/crypto/lugagne/sphinx/index.htm"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "An aroma picker for the Le Nez du Vin game",
       "https://blog.jgc.org/2023/09/weekend-bricolage-aroma-picker-for-le.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-11, 22:11:58",
-      "https://news.ycombinator.com/item?id=37474394"
-    ],
-    [
-      "Analyzing ELF symbols using SQL",
-      "https://fzakaria.com/2023/09/11/quick-insights-using-sqlelf.html"
     ]
   ]
 ]
