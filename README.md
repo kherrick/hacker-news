@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-13, 02:48:43](https://news.ycombinator.com/item?id=37491625) - [Samsung unveils monobloc heat pump for residential applications](https://www.pv-magazine.com/2023/09/12/samsung-unveils-monobloc-heat-pump-for-residential-applications/)
 * [2023-09-13, 02:13:33](https://news.ycombinator.com/item?id=37491369) - [Madlad-400: A Multilingual and Document-Level Large Audited Dataset](https://github.com/google-research/google-research/tree/master/madlad_400)
 * [2023-09-13, 01:12:46](https://news.ycombinator.com/item?id=37490924) - [Lessons from YC AI Startups](https://www.ignorance.ai/p/5-lessons-from-139-yc-ai-startups)
 * [2023-09-13, 00:31:56](https://news.ycombinator.com/item?id=37490623) - [Interactive Map of Linux Kernel](https://makelinux.github.io/kernel/map/)
@@ -22,6 +21,7 @@
 * [2023-09-12, 13:06:33](https://news.ycombinator.com/item?id=37480561) - [How large is that number in the Law of Large Numbers?](https://thepalindrome.org/p/how-large-that-number-in-the-law)
 * [2023-09-12, 11:30:57](https://news.ycombinator.com/item?id=37479472) - [Sweden brings more books and handwriting practice back to its tech-heavy schools](https://apnews.com/article/sweden-digital-education-backlash-reading-writing-1dd964c628f76361c43dbf3964f7dbf4)
 * [2023-09-12, 07:04:49](https://news.ycombinator.com/item?id=37477685) - [Statistical significance on a shoestring budget](https://alexeymk.com/2023/09/11/statistical-significance-on-a-shoestring-budget.html)
+* [2023-09-12, 06:32:47](https://news.ycombinator.com/item?id=37477526) - [What’s the Smallest Variety of CHERI? (2022)](https://msrc.microsoft.com/blog/2022/09/whats-the-smallest-variety-of-cheri/)
 * [2023-09-11, 22:35:51](https://news.ycombinator.com/item?id=37474623) - [Recyclable thin-film soft electronics for smart packaging and e-skins](https://onlinelibrary.wiley.com/doi/10.1002/advs.202301673)
 * [2023-09-11, 19:19:28](https://news.ycombinator.com/item?id=37472340) - [RetroAchievements: Adding achievements to retro games](https://retroachievements.org)
 * [2023-09-11, 18:03:10](https://news.ycombinator.com/item?id=37471077) - [Protohackers Learnings](https://geekingfrog.com/blog/post/protohackers-learnings)
