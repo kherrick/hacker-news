@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-13](index.md)
 
+* [2023-09-13, 12:37:28](https://news.ycombinator.com/item?id=37495926) - [Swedish criminal gangs using fake Spotify streams to launder money](https://www.theguardian.com/technology/2023/sep/05/swedish-criminal-gangs-using-fake-spotify-streams-to-launder-money)
 * [2023-09-13, 12:00:40](https://news.ycombinator.com/item?id=37495559) - [Trigger.dev (YC W23) Is Hiring a Senior Full Stack Engineer](https://trigger.dev/hiring)
+* [2023-09-13, 11:51:54](https://news.ycombinator.com/item?id=37495496) - [Here ends the story of 10K Riders Publishing](https://tumenko.com/)
+* [2023-09-13, 11:16:56](https://news.ycombinator.com/item?id=37495206) - [TSMC Arizona chip plant will be a paperweight](https://9to5mac.com/2023/09/11/tsmc-arizona-chip-plant/)
 * [2023-09-13, 11:14:38](https://news.ycombinator.com/item?id=37495187) - [Show HN: Deploying subdomain-based routing like github.io](https://github.com/xieyuheng/x-server)
 * [2023-09-13, 10:00:00](https://news.ycombinator.com/item?id=37494620) - [Stable Audio: Fast Timing-Conditioned Latent Audio Diffusion](https://stability.ai/research/stable-audio-efficient-timing-latent-diffusion)
 * [2023-09-13, 09:50:10](https://news.ycombinator.com/item?id=37494543) - [Road to NumPy 2.0](https://hackmd.io/@seberg/Bk5P9wJuj)

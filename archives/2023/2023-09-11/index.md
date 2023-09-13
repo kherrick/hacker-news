@@ -20,6 +20,7 @@
 * [2023-09-11, 21:00:20](https://news.ycombinator.com/item?id=37473628) - [Microsoft to kill off third-party printer drivers in Windows](https://www.theregister.com/2023/09/11/go_native_or_go_home/)
 * [2023-09-11, 20:49:18](https://news.ycombinator.com/item?id=37473501) - [Let’s put a stake in the ‘great man’ biography – starting with Isaacson’s ‘Musk’](https://www.latimes.com/entertainment-arts/books/story/2023-09-11/lets-put-a-stake-in-the-great-man-biography-starting-with-isaacsons-elon-musk)
 * [2023-09-11, 20:43:58](https://news.ycombinator.com/item?id=37473446) - [Barstool Built an Empire by Swiping Sports Highlights](https://www.thedailybeast.com/how-dave-portnoys-barstool-built-an-empire-by-swiping-sports-highlights)
+* [2023-09-11, 20:22:06](https://news.ycombinator.com/item?id=37473120) - [Perturbation analysis of spatial single cell RNA-seq (2021)](https://www.michaelchimenti.com/2021/11/perturbation-analysis-of-spatial-single-cell-rna-seq-with-augur/)
 * [2023-09-11, 20:13:43](https://news.ycombinator.com/item?id=37472994) - [uBlock-Origin – 1.52.0](https://github.com/gorhill/uBlock/releases/tag/1.52.0)
 * [2023-09-11, 20:12:57](https://news.ycombinator.com/item?id=37472984) - [The IKEA-powered homelab on a wall](https://ounapuu.ee/posts/2023/09/07/ikea-powered-homelab/)
 * [2023-09-11, 20:03:06](https://news.ycombinator.com/item?id=37472857) - [Ask HN: What web frameworks do you use?](https://news.ycombinator.com/item?id=37472857)
