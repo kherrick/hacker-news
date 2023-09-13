@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-13, 02:13:33](https://news.ycombinator.com/item?id=37491369) - [Madlad-400: A Multilingual and Document-Level Large Audited Dataset](https://github.com/google-research/google-research/tree/master/madlad_400)
-* [2023-09-13, 01:39:44](https://news.ycombinator.com/item?id=37491146) - [Einstein to Habicht, 1905](https://ecologicallyoriented.wordpress.com/2014/05/24/einstein-to-habicht-1905/)
-* [2023-09-13, 01:22:30](https://news.ycombinator.com/item?id=37491002) - [Unity rushes to clarify price increase plan, as game developers fume](https://www.axios.com/2023/09/13/unity-runtime-fee-policy-marc-whitten)
+* [2023-09-13, 01:52:57](https://news.ycombinator.com/item?id=37491233) - [Onion Futures Act – US law banning trading futures on onions](https://en.wikipedia.org/wiki/Onion_Futures_Act)
 * [2023-09-13, 01:12:46](https://news.ycombinator.com/item?id=37490924) - [Lessons from 139 YC AI Startups (YC S23)](https://www.ignorance.ai/p/5-lessons-from-139-yc-ai-startups)
 * [2023-09-13, 00:31:56](https://news.ycombinator.com/item?id=37490623) - [Interactive Map of Linux Kernel](https://makelinux.github.io/kernel/map/)
 * [2023-09-13, 00:13:32](https://news.ycombinator.com/item?id=37490474) - [‘We Put in Air Conditionin’, Stayed Year-Round, and Ruined America’](https://www.politico.com/news/magazine/2023/09/12/air-conditioning-government-shutdown-00114530)
@@ -19,6 +18,7 @@
 * [2023-09-12, 15:38:18](https://news.ycombinator.com/item?id=37482896) - [Show HN: Rental data supplied by tenants in Ireland, searchable by all](https://www.howmuchrent.com/)
 * [2023-09-12, 15:14:05](https://news.ycombinator.com/item?id=37482517) - [New world record with an electric racing car: From 0 to 100 in 0.956 seconds](https://ethz.ch/en/news-and-events/eth-news/news/2023/09/from-zero-to-one-hundred-in-0-956-seconds.html)
 * [2023-09-12, 14:53:36](https://news.ycombinator.com/item?id=37482220) - [Notes from building a blog in Django](https://til.simonwillison.net/django/building-a-blog-in-django)
+* [2023-09-12, 14:07:08](https://news.ycombinator.com/item?id=37481513) - [We built the fastest CI and it failed](https://earthly.dev/blog/shutting-down-earthly-ci/)
 * [2023-09-12, 13:06:33](https://news.ycombinator.com/item?id=37480561) - [How large is that number in the Law of Large Numbers?](https://thepalindrome.org/p/how-large-that-number-in-the-law)
 * [2023-09-12, 13:02:47](https://news.ycombinator.com/item?id=37480512) - [Sony develops energy harvesting module from electromagnetic wave noise](https://www.sony-semicon.com/en/news/2023/2023090701.html)
 * [2023-09-12, 12:34:40](https://news.ycombinator.com/item?id=37480155) - [Simulating History with ChatGPT](https://resobscura.substack.com/p/simulating-history-with-chatgpt)
