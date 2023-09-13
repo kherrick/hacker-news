@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-13](index.md)
 
+* [2023-09-13, 12:00:40](https://news.ycombinator.com/item?id=37495559) - [Trigger.dev (YC W23) Is Hiring a Senior Full Stack Engineer](https://trigger.dev/hiring)
+* [2023-09-13, 11:14:38](https://news.ycombinator.com/item?id=37495187) - [Show HN: Deploying subdomain-based routing like github.io](https://github.com/xieyuheng/x-server)
 * [2023-09-13, 10:00:00](https://news.ycombinator.com/item?id=37494620) - [Stable Audio: Fast Timing-Conditioned Latent Audio Diffusion](https://stability.ai/research/stable-audio-efficient-timing-latent-diffusion)
 * [2023-09-13, 09:50:10](https://news.ycombinator.com/item?id=37494543) - [Road to NumPy 2.0](https://hackmd.io/@seberg/Bk5P9wJuj)
 * [2023-09-13, 09:21:16](https://news.ycombinator.com/item?id=37494275) - [LÖVE: a framework to make 2D games in Lua](https://love2d.org/)
