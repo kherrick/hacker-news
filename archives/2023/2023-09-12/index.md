@@ -83,6 +83,7 @@
 * [2023-09-12, 12:34:40](https://news.ycombinator.com/item?id=37480155) - [Simulating History with ChatGPT](https://resobscura.substack.com/p/simulating-history-with-chatgpt)
 * [2023-09-12, 12:29:26](https://news.ycombinator.com/item?id=37480091) - [Why People Leave, Stay, or Try to Burn It All Down](https://www.artofmanliness.com/character/behavior/exit-voice-loyalty-neglect-why-people-leave-stay-or-try-to-burn-it-all-down/)
 * [2023-09-12, 12:17:37](https://news.ycombinator.com/item?id=37479933) - [Ask HN: Has anyone here learned COBOL for fun? How did it go?](https://news.ycombinator.com/item?id=37479933)
+* [2023-09-12, 12:14:23](https://news.ycombinator.com/item?id=37479901) - [Software control USB power on some USB hubs](https://github.com/codazoda/hub-ctrl.c)
 * [2023-09-12, 12:03:34](https://news.ycombinator.com/item?id=37479774) - [Vitalik Buterin reveals X account hack was caused by SIM-swap attack](https://cointelegraph.com/news/vitalik-buterin-reveals-x-account-hack-was-caused-by-sim-swap-attack)
 * [2023-09-12, 12:00:57](https://news.ycombinator.com/item?id=37479749) - [Treble.ai (YC S19) Is Hiring Spanish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
 * [2023-09-12, 11:51:24](https://news.ycombinator.com/item?id=37479641) - [You're Barely Managing](https://barely-managing.bearblog.dev/youre-barely-managing/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-13, 18:11:00](https://news.ycombinator.com/item?id=37499743) - [Unity Engine to Godot Engine Exporter](https://github.com/Zylann/unity_to_godot_converter)
 * [2023-09-13, 17:49:57](https://news.ycombinator.com/item?id=37499479) - [Hackers claim it only took a 10-minute phone call to shut down MGM Resorts](https://www.engadget.com/hackers-claim-it-only-took-a-10-minute-phone-call-to-shutdown-mgm-resorts-143147493.html)
 * [2023-09-13, 17:41:58](https://news.ycombinator.com/item?id=37499375) - [Show HN: Lantern – a PostgreSQL vector database for building AI applications](https://docs.lantern.dev/blog/2023/09/13/hello-world)
 * [2023-09-13, 17:17:27](https://news.ycombinator.com/item?id=37499106) - [The Uselessness of Phenylephrine (2022)](https://www.science.org/content/blog-post/uselessness-phenylephrine)
@@ -11,7 +12,6 @@
 * [2023-09-13, 16:19:36](https://news.ycombinator.com/item?id=37498725) - [The Eddie Murphy rule and information embargoes](https://econlife.com/2019/12/the-eddie-murphy-rule/)
 * [2023-09-13, 15:33:28](https://news.ycombinator.com/item?id=37498142) - [A DIY near-IR spectrometer](https://caoyuan.scripts.mit.edu/ir_spec.html)
 * [2023-09-13, 15:20:01](https://news.ycombinator.com/item?id=37497956) - [Bitty Engine: An itty bitty game engine](https://paladin-t.github.io/bitty/)
-* [2023-09-13, 15:19:42](https://news.ycombinator.com/item?id=37497948) - [OpenBSD Webzine #14](https://webzine.puffy.cafe/issue-14.html)
 * [2023-09-13, 14:28:39](https://news.ycombinator.com/item?id=37497233) - [PureBoot 28 – Upstreaming and Upscaling](https://puri.sm/posts/pureboot-28-upstreaming-and-upscaling/)
 * [2023-09-13, 14:21:45](https://news.ycombinator.com/item?id=37497131) - [Why Fennel?](https://fennel-lang.org/rationale)
 * [2023-09-13, 13:39:17](https://news.ycombinator.com/item?id=37496589) - [Meduza co-founder's phone infected with Pegasus](https://meduza.io/en/feature/2023/09/13/the-million-dollar-reporter)
@@ -25,7 +25,7 @@
 * [2023-09-13, 00:34:34](https://news.ycombinator.com/item?id=37490644) - [The Greatest Counterfeiter (2021)](https://www.guo.io/the-greatest-counterfeiter-in-the-world/)
 * [2023-09-12, 23:46:47](https://news.ycombinator.com/item?id=37490260) - [The spawn of AtariLab and the Universal Laboratory Interface](http://oldvcr.blogspot.com/2023/09/the-spawn-of-atarilab-and-universal.html)
 * [2023-09-12, 21:35:35](https://news.ycombinator.com/item?id=37488793) - [Le Sphinx – Pocket cipher device (1930)](https://www.cryptomuseum.com/crypto/lugagne/sphinx/index.htm)
-* [2023-09-12, 15:10:37](https://news.ycombinator.com/item?id=37482465) - [Digital Compact Cassette in 2023 [video]](https://www.youtube.com/watch?v=GJSlkNbpPsM)
+* [2023-09-12, 12:14:23](https://news.ycombinator.com/item?id=37479901) - [Software control USB power on some USB hubs](https://github.com/codazoda/hub-ctrl.c)
 * [2023-09-12, 08:13:12](https://news.ycombinator.com/item?id=37478111) - [Category Theory Illustrated – Sets](https://abuseofnotation.github.io/category-theory-illustrated/01_set/)
 * [2023-09-12, 08:10:07](https://news.ycombinator.com/item?id=37478097) - [Greatest “Classic” Mac Laptop: Powerbook G3 Pismo (2021)](https://www.amigalove.com/viewtopic.php?t=1796)
 * [2023-09-12, 07:23:28](https://news.ycombinator.com/item?id=37477797) - [Engraving](https://www.metmuseum.org/about-the-met/collection-areas/drawings-and-prints/materials-and-techniques/printmaking/engraving)
