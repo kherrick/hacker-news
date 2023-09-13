@@ -41,6 +41,7 @@
 * [2023-09-13, 15:19:42](https://news.ycombinator.com/item?id=37497948) - [OpenBSD Webzine #14](https://webzine.puffy.cafe/issue-14.html)
 * [2023-09-13, 15:08:25](https://news.ycombinator.com/item?id=37497783) - [A Zettelkasten Explodes Thought: Rhizomes, Intertextuality, & Ideative Pillaging](https://writing.bobdoto.computer/inspired-destruction-how-a-zettelkasten-explodes-thoughts-so-you-can-have-newish-ones/)
 * [2023-09-13, 14:43:41](https://news.ycombinator.com/item?id=37497420) - [Nango.dev (YC W23) is hiring a founding back end engineer (remote)](https://nango.dev/jobs)
+* [2023-09-13, 14:37:55](https://news.ycombinator.com/item?id=37497345) - [Skip the API, ship your database](https://fly.io/blog/skip-the-api/)
 * [2023-09-13, 14:28:39](https://news.ycombinator.com/item?id=37497233) - [PureBoot 28 – Upstreaming and Upscaling](https://puri.sm/posts/pureboot-28-upstreaming-and-upscaling/)
 * [2023-09-13, 14:26:04](https://news.ycombinator.com/item?id=37497199) - [Apple finally put USB-C in new iPhone, but limited to 23-year-old USB 2.0 speeds](https://www.pcgamer.com/apple-finally-put-usb-c-in-the-new-iphone-but-its-inexplicably-limited-to-23-year-old-usb-20-speeds/)
 * [2023-09-13, 14:21:45](https://news.ycombinator.com/item?id=37497131) - [Why Fennel?](https://fennel-lang.org/rationale)
