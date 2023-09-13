@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-13, 17:32:01](https://news.ycombinator.com/item?id=37499259) - [Unity’s new “per-install” pricing enrages the game development community](https://arstechnica.com/gaming/2023/09/game-developers-unite-against-unitys-new-per-install-pricing-structure/)
 * [2023-09-13, 17:17:27](https://news.ycombinator.com/item?id=37499106) - [The Uselessness of Phenylephrine (2022)](https://www.science.org/content/blog-post/uselessness-phenylephrine)
 * [2023-09-13, 17:05:44](https://news.ycombinator.com/item?id=37498979) - [PF bug in macOS Sonoma release candidate](https://mullvad.net/en/blog/2023/9/13/bug-in-macos-14-sonoma-prevents-our-app-from-working/)
 * [2023-09-13, 17:01:36](https://news.ycombinator.com/item?id=37498935) - [SigNoz – Open-source alternative to Datadog is hiring product designers (remote)](https://signoz.io/careers/product-designer-in/)
@@ -15,7 +16,6 @@
 * [2023-09-13, 12:18:23](https://news.ycombinator.com/item?id=37495731) - [VoCore – Coin-sized Linux Computer. Is there a Bluetooth varient?](https://vocore.io/#store)
 * [2023-09-13, 12:08:47](https://news.ycombinator.com/item?id=37495640) - [Defold: Open-source Lua game engine with console support](https://defold.com/)
 * [2023-09-13, 11:51:54](https://news.ycombinator.com/item?id=37495496) - [Here ends the story of 10K Riders Publishing](https://tumenko.com/)
-* [2023-09-13, 11:14:38](https://news.ycombinator.com/item?id=37495187) - [Show HN: Deploying subdomain-based routing like github.io](https://github.com/xieyuheng/x-server)
 * [2023-09-13, 10:00:00](https://news.ycombinator.com/item?id=37494620) - [Stable Audio: Fast Timing-Conditioned Latent Audio Diffusion](https://stability.ai/research/stable-audio-efficient-timing-latent-diffusion)
 * [2023-09-13, 09:21:16](https://news.ycombinator.com/item?id=37494275) - [LÖVE: a framework to make 2D games in Lua](https://love2d.org/)
 * [2023-09-13, 08:50:29](https://news.ycombinator.com/item?id=37494015) - [Openmoji](https://github.com/hfg-gmuend/openmoji)
