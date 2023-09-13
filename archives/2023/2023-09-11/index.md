@@ -14,6 +14,7 @@
 * [2023-09-11, 22:43:34](https://news.ycombinator.com/item?id=37474689) - [The trouble with supermarket self checkouts](https://www.spectator.co.uk/article/the-trouble-with-supermarket-self-checkouts/)
 * [2023-09-11, 22:35:51](https://news.ycombinator.com/item?id=37474623) - [Recyclable Thin-Film Soft Electronics for Smart Packaging and E-Skins](https://onlinelibrary.wiley.com/doi/10.1002/advs.202301673)
 * [2023-09-11, 22:33:37](https://news.ycombinator.com/item?id=37474601) - [OpenSSL 1.1.1 End of Life](https://www.openssl.org/blog/blog/2023/09/11/eol-111/)
+* [2023-09-11, 22:11:58](https://news.ycombinator.com/item?id=37474394) - [Analyzing ELF symbols using SQL](https://fzakaria.com/2023/09/11/quick-insights-using-sqlelf.html)
 * [2023-09-11, 21:50:15](https://news.ycombinator.com/item?id=37474189) - [Onboarding Floating-Point](https://www.altdevarts.com/p/onboarding-floating-point)
 * [2023-09-11, 21:37:28](https://news.ycombinator.com/item?id=37474066) - [YouTube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)
 * [2023-09-11, 21:25:21](https://news.ycombinator.com/item?id=37473933) - [The Power of Prolog](https://www.metalevel.at/prolog/facets)
