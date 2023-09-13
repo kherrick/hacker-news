@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-13](index.md)
 
+* [2023-09-13, 19:54:25](https://news.ycombinator.com/item?id=37500938) - [The Stack Monoid Revisited](https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html)
+* [2023-09-13, 19:38:21](https://news.ycombinator.com/item?id=37500781) - [Show HN: Kr8s a batteries-included Python client library for Kubernetes](https://github.com/kr8s-org/kr8s)
+* [2023-09-13, 19:36:05](https://news.ycombinator.com/item?id=37500752) - [Earth beyond six of nine planetary boundaries](https://www.science.org/doi/10.1126/sciadv.adh2458)
 * [2023-09-13, 18:11:00](https://news.ycombinator.com/item?id=37499743) - [Unity Engine to Godot Engine Exporter](https://github.com/Zylann/unity_to_godot_converter)
 * [2023-09-13, 18:09:43](https://news.ycombinator.com/item?id=37499731) - [Unity silently removed clause that let you use TOS from version you shipped with](https://old.reddit.com/r/gamedev/comments/16hnibp/unity_silently_removed_their_github_repo_to_track/)
 * [2023-09-13, 18:08:37](https://news.ycombinator.com/item?id=37499720) - [Marvel Visual Effects Workers Vote to Unionize](https://www.rollingstone.com/tv-movies/tv-movie-news/marvel-visual-effects-workers-vote-unionize-1234824215/)
