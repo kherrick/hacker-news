@@ -8,7 +8,7 @@
 * [2023-09-12, 23:46:47](https://news.ycombinator.com/item?id=37490260) - [The spawn of AtariLab and the Universal Laboratory Interface](http://oldvcr.blogspot.com/2023/09/the-spawn-of-atarilab-and-universal.html)
 * [2023-09-12, 23:46:22](https://news.ycombinator.com/item?id=37490256) - [Fixing Penn Station](https://commonedge.org/whats-to-become-of-the-mess-that-is-penn-station/)
 * [2023-09-12, 23:45:06](https://news.ycombinator.com/item?id=37490241) - [Credit card debt collection](https://www.bitsaboutmoney.com/archive/the-waste-stream-of-consumer-finance/)
-* [2023-09-12, 21:33:13](https://news.ycombinator.com/item?id=37488762) - [What the interns have wrought, 2023 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2023/)
+* [2023-09-12, 23:36:59](https://news.ycombinator.com/item?id=37490165) - [UpdateWhere is a handy function](https://twitter.com/adriaanwm/status/1701422149691691283)
 * [2023-09-12, 21:00:00](https://news.ycombinator.com/item?id=37488252) - [JustPaid.io (YC W23) is hiring a senior full stack engineer](https://www.justpaid.io/careers)
 * [2023-09-12, 20:46:55](https://news.ycombinator.com/item?id=37488034) - [Some notes on local-first development](https://bricolage.io/some-notes-on-local-first-development/)
 * [2023-09-12, 20:03:44](https://news.ycombinator.com/item?id=37487306) - [Electric cooling could shrink quantum computers](https://spectrum.ieee.org/cryogenics)
