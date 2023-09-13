@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-13, 09:21:16](https://news.ycombinator.com/item?id=37494275) - [LÖVE: a framework to make 2D games in Lua](https://love2d.org/)
 * [2023-09-13, 09:08:09](https://news.ycombinator.com/item?id=37494173) - [Germany Will Force 80% of Gas Stations to Install EV Chargers](https://www.thedrive.com/news/germany-will-force-80-percent-of-gas-stations-to-install-ev-charging)
 * [2023-09-13, 08:50:29](https://news.ycombinator.com/item?id=37494015) - [Openmoji](https://github.com/hfg-gmuend/openmoji)
 * [2023-09-13, 08:41:21](https://news.ycombinator.com/item?id=37493928) - [Google has been rolling out Chrome's “Enhanced Ad Privacy” via a popup](https://twitter.com/glenngabe/status/1699389973361738146)
@@ -23,7 +24,6 @@
 * [2023-09-12, 16:53:51](https://news.ycombinator.com/item?id=37484135) - [Fine-tune your own Llama 2 to replace GPT-3.5/4](https://news.ycombinator.com/item?id=37484135)
 * [2023-09-12, 16:28:59](https://news.ycombinator.com/item?id=37483734) - [Throbol – The Robot Oriented Language](https://throbol.com/)
 * [2023-09-12, 13:06:33](https://news.ycombinator.com/item?id=37480561) - [How large is that number in the Law of Large Numbers?](https://thepalindrome.org/p/how-large-that-number-in-the-law)
-* [2023-09-12, 11:30:57](https://news.ycombinator.com/item?id=37479472) - [Sweden brings more books and handwriting practice back to its tech-heavy schools](https://apnews.com/article/sweden-digital-education-backlash-reading-writing-1dd964c628f76361c43dbf3964f7dbf4)
 * [2023-09-12, 06:07:02](https://news.ycombinator.com/item?id=37477380) - [Robinson Crusoe Walks Into a Bar: A literary scholar and an improbable lawsuit](https://www.chronicle.com/article/robinson-crusoe-walks-into-a-bar)
 * [2023-09-11, 19:20:00](https://news.ycombinator.com/item?id=37472347) - [Rubber hose animation](https://en.wikipedia.org/wiki/Rubber_hose_animation)
 * [2023-09-11, 16:41:31](https://news.ycombinator.com/item?id=37469864) - [How to Ensure the Last Gas-Lamp Theater in the World Doesn’t Blow Up](https://www.atlasobscura.com/articles/last-gas-lamp-theater-england)
