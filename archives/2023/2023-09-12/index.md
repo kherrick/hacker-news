@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
+* [2023-09-12, 23:51:10](https://news.ycombinator.com/item?id=37490301) - [Breaking Through Depression](https://www.theguardian.com/books/2023/sep/10/breaking-through-depression-new-treatments-discoveries-for-healing-the-balanced-brain-science-of-mental-health-philip-gold-camilla-nord-reviews)
+* [2023-09-12, 23:46:22](https://news.ycombinator.com/item?id=37490256) - [Fixing Penn Station](https://commonedge.org/whats-to-become-of-the-mess-that-is-penn-station/)
+* [2023-09-12, 23:45:06](https://news.ycombinator.com/item?id=37490241) - [Credit Card Debt Collection](https://www.bitsaboutmoney.com/archive/the-waste-stream-of-consumer-finance/)
+* [2023-09-12, 23:43:55](https://news.ycombinator.com/item?id=37490234) - [Why not punish families? A challenge for consequentialists](https://betonit.substack.com/p/why-not-punish-families)
 * [2023-09-12, 22:25:00](https://news.ycombinator.com/item?id=37489414) - [Embracing the Surge of Remote Software Developers](https://remotebase.com/blog/tech-talent-without-borders-embracing-the-surge-of-remote-software-developers)
 * [2023-09-12, 22:06:14](https://news.ycombinator.com/item?id=37489200) - [Greatest Films of All Time](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time)
 * [2023-09-12, 21:33:13](https://news.ycombinator.com/item?id=37488762) - [What the interns have wrought, 2023 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2023/)
 * [2023-09-12, 21:00:00](https://news.ycombinator.com/item?id=37488252) - [Justpaid.io (YC W23) Is Hiring for a Senior Full Stack Engineer](https://www.justpaid.io/careers)
+* [2023-09-12, 20:46:55](https://news.ycombinator.com/item?id=37488034) - [Some notes on local-first development](https://bricolage.io/some-notes-on-local-first-development/)
 * [2023-09-12, 20:40:42](https://news.ycombinator.com/item?id=37487926) - [Gmail and Instagram are training AI, and there’s little you can do about it](https://www.washingtonpost.com/technology/2023/09/08/gmail-instagram-facebook-trains-ai/)
 * [2023-09-12, 20:34:03](https://news.ycombinator.com/item?id=37487820) - [“Dear Discord, how on Earth is ”GTK“ a bad word? GTK is a GUI toolkit ”](https://twitter.com/awesomekling/status/1701614289566720216)
 * [2023-09-12, 20:03:44](https://news.ycombinator.com/item?id=37487306) - [Electric Cooling Could Shrink Quantum Computers](https://spectrum.ieee.org/cryogenics)
