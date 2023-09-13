@@ -14,6 +14,7 @@
 * [2023-09-13, 17:11:06](https://news.ycombinator.com/item?id=37499037) - [Amazon Ion Specification](https://amazon-ion.github.io/ion-docs/docs/spec.html)
 * [2023-09-13, 17:05:44](https://news.ycombinator.com/item?id=37498979) - [PF bug in macOS Sonoma release candidate](https://mullvad.net/en/blog/2023/9/13/bug-in-macos-14-sonoma-prevents-our-app-from-working/)
 * [2023-09-13, 17:01:36](https://news.ycombinator.com/item?id=37498935) - [SigNoz – Open-source alternative to Datadog is hiring product designers (remote)](https://signoz.io/careers/product-designer-in/)
+* [2023-09-13, 16:53:11](https://news.ycombinator.com/item?id=37498854) - [Show HN: Victor, a browser-optimized vector database written in Rust](https://github.com/not-pizza/victor)
 * [2023-09-13, 16:48:47](https://news.ycombinator.com/item?id=37498830) - [SpaceX no longer taking losses to produce Starlink satellite antennas](https://www.cnbc.com/2023/09/13/spacex-no-longer-taking-losses-to-produce-starlink-satellite-antennas.html)
 * [2023-09-13, 16:27:10](https://news.ycombinator.com/item?id=37498820) - [WASI Support in Go](https://go.dev/blog/wasi)
 * [2023-09-13, 16:19:36](https://news.ycombinator.com/item?id=37498725) - [Why the Eddie Murphy Rule Is About More Than Orange Juice (2019)](https://econlife.com/2019/12/the-eddie-murphy-rule/)
