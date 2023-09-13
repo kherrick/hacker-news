@@ -22,6 +22,7 @@
 * [2023-09-11, 20:12:57](https://news.ycombinator.com/item?id=37472984) - [The IKEA-powered homelab on a wall](https://ounapuu.ee/posts/2023/09/07/ikea-powered-homelab/)
 * [2023-09-11, 20:03:06](https://news.ycombinator.com/item?id=37472857) - [Ask HN: What web frameworks do you use?](https://news.ycombinator.com/item?id=37472857)
 * [2023-09-11, 19:30:57](https://news.ycombinator.com/item?id=37472506) - [Why we Burnout, the “Two Health Bar” Theory](https://jdwyah.substack.com/p/the-two-healthbar-theory-of-burnout)
+* [2023-09-11, 19:24:38](https://news.ycombinator.com/item?id=37472422) - [Counterfactual Thinking, Rules, and the Knight Capital Accident (2013)](https://www.kitchensoap.com/2013/10/29/counterfactuals-knight-capital/)
 * [2023-09-11, 19:19:52](https://news.ycombinator.com/item?id=37472346) - [Roblox Event Canceled After Developer Allegedly Shows Up with High Capacity Mag](https://www.404media.co/roblox-event-canceled-after-developer-shows-up-with-high-capacity-magazine/)
 * [2023-09-11, 19:19:28](https://news.ycombinator.com/item?id=37472340) - [RetroAchievements: Adding Achievements to Retro Games](https://retroachievements.org)
 * [2023-09-11, 19:18:19](https://news.ycombinator.com/item?id=37472323) - [The Private Jet Collection of Google Founders Larry Page and Sergei Brin](https://simpleflying.com/google-founders-private-jet-collection/)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
 * [2023-09-12, 23:51:10](https://news.ycombinator.com/item?id=37490301) - [Breaking Through Depression](https://www.theguardian.com/books/2023/sep/10/breaking-through-depression-new-treatments-discoveries-for-healing-the-balanced-brain-science-of-mental-health-philip-gold-camilla-nord-reviews)
+* [2023-09-12, 23:51:05](https://news.ycombinator.com/item?id=37490300) - [How long it took different companies to find product-market fit](https://www.lennysnewsletter.com/p/finding-product-market-fit)
 * [2023-09-12, 23:46:22](https://news.ycombinator.com/item?id=37490256) - [Fixing Penn Station](https://commonedge.org/whats-to-become-of-the-mess-that-is-penn-station/)
 * [2023-09-12, 23:45:06](https://news.ycombinator.com/item?id=37490241) - [Credit Card Debt Collection](https://www.bitsaboutmoney.com/archive/the-waste-stream-of-consumer-finance/)
 * [2023-09-12, 23:43:55](https://news.ycombinator.com/item?id=37490234) - [Why not punish families? A challenge for consequentialists](https://betonit.substack.com/p/why-not-punish-families)
