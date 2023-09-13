@@ -11,22 +11,12 @@
   ],
   [
     [
-      "2023-09-13, 01:39:44",
-      "https://news.ycombinator.com/item?id=37491146"
+      "2023-09-13, 01:52:57",
+      "https://news.ycombinator.com/item?id=37491233"
     ],
     [
-      "Einstein to Habicht, 1905",
-      "https://ecologicallyoriented.wordpress.com/2014/05/24/einstein-to-habicht-1905/"
-    ]
-  ],
-  [
-    [
-      "2023-09-13, 01:22:30",
-      "https://news.ycombinator.com/item?id=37491002"
-    ],
-    [
-      "Unity rushes to clarify price increase plan, as game developers fume",
-      "https://www.axios.com/2023/09/13/unity-runtime-fee-policy-marc-whitten"
+      "Onion Futures Act – US law banning trading futures on onions",
+      "https://en.wikipedia.org/wiki/Onion_Futures_Act"
     ]
   ],
   [
@@ -187,6 +177,16 @@
     [
       "Notes from building a blog in Django",
       "https://til.simonwillison.net/django/building-a-blog-in-django"
+    ]
+  ],
+  [
+    [
+      "2023-09-12, 14:07:08",
+      "https://news.ycombinator.com/item?id=37481513"
+    ],
+    [
+      "We built the fastest CI and it failed",
+      "https://earthly.dev/blog/shutting-down-earthly-ci/"
     ]
   ],
   [
