@@ -51,6 +51,7 @@
 * [2023-09-11, 16:54:22](https://news.ycombinator.com/item?id=37470058) - [Undocumented Features of GitHub](https://buttondown.email/hillelwayne/archive/github-has-too-many-hidden-features/)
 * [2023-09-11, 16:47:21](https://news.ycombinator.com/item?id=37469954) - [Scientists Decipher the Fingertip's 'Memory'](https://medicalxpress.com/news/2023-09-scientists-decipher-fingertip-memory.html)
 * [2023-09-11, 16:45:09](https://news.ycombinator.com/item?id=37469920) - [WiFi can read through walls](https://news.ucsb.edu/2023/021198/wifi-can-read-through-walls)
+* [2023-09-11, 16:41:31](https://news.ycombinator.com/item?id=37469864) - [How to Ensure the Last Gas-Lamp Theater in the World Doesn’t Blow Up](https://www.atlasobscura.com/articles/last-gas-lamp-theater-england)
 * [2023-09-11, 16:41:06](https://news.ycombinator.com/item?id=37469857) - [You Don't Need UUID](https://henvic.dev/posts/uuid/)
 * [2023-09-11, 16:40:24](https://news.ycombinator.com/item?id=37469849) - [The Meeting of the Minds That Launched AI](https://spectrum.ieee.org/dartmouth-ai-workshop)
 * [2023-09-11, 16:38:30](https://news.ycombinator.com/item?id=37469819) - [The History Of The Nic(k) Collins Cup (2010)](http://www.nicolascollins.com/collinscup.htm)

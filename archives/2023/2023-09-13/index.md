@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-13](index.md)
 
 * [2023-09-13, 06:42:27](https://news.ycombinator.com/item?id=37493028) - [“This Is a Disaster:” Game Developers Scramble to Deal with Unity’s New Fees](https://www.404media.co/unity-new-fees-prices/)
+* [2023-09-13, 06:37:46](https://news.ycombinator.com/item?id=37492986) - [70B Llama 2 at 35tokens/second on 4090](https://github.com/turboderp/exllamav2)
 * [2023-09-13, 06:17:35](https://news.ycombinator.com/item?id=37492852) - [There are now two types of PayPal dollars, and one is better than the other](http://jpkoning.blogspot.com/2023/09/there-are-now-two-types-of-paypal.html)
 * [2023-09-13, 04:57:41](https://news.ycombinator.com/item?id=37492371) - [S32 Unix Clock](https://www.da.vidbuchanan.co.uk/blog/unix-clock.html)
 * [2023-09-13, 03:31:07](https://news.ycombinator.com/item?id=37491862) - [Any sufficiently advanced uninstaller is indistinguishable from malware](https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749)
