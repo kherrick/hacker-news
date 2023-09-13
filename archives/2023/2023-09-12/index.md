@@ -105,6 +105,7 @@
 * [2023-09-12, 08:13:12](https://news.ycombinator.com/item?id=37478111) - [Category Theory Illustrated – Sets](https://abuseofnotation.github.io/category-theory-illustrated/01_set/)
 * [2023-09-12, 08:10:07](https://news.ycombinator.com/item?id=37478097) - [Greatest “Classic” Mac Laptop: Powerbook G3 Pismo (2021)](https://www.amigalove.com/viewtopic.php?t=1796)
 * [2023-09-12, 07:23:28](https://news.ycombinator.com/item?id=37477797) - [Engraving](https://www.metmuseum.org/about-the-met/collection-areas/drawings-and-prints/materials-and-techniques/printmaking/engraving)
+* [2023-09-12, 07:16:27](https://news.ycombinator.com/item?id=37477751) - [An aroma picker for the Le Nez du Vin game](https://blog.jgc.org/2023/09/weekend-bricolage-aroma-picker-for-le.html)
 * [2023-09-12, 07:14:28](https://news.ycombinator.com/item?id=37477739) - [Jwz: The only planet where 100% of Linux systems have working audio is Mars](https://mastodon.social/@jwz/111048777391239744)
 * [2023-09-12, 07:04:49](https://news.ycombinator.com/item?id=37477685) - [Statistical significance on a shoestring budget](https://alexeymk.com/2023/09/11/statistical-significance-on-a-shoestring-budget.html)
 * [2023-09-12, 07:03:49](https://news.ycombinator.com/item?id=37477683) - [NASA says distant exoplanet could have rare water ocean, possible hint of life](https://www.theguardian.com/science/2023/sep/11/nasa-planet-ocean-life-james-webb-telescope)
