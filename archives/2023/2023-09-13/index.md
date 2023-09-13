@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-13](index.md)
 
+* [2023-09-13, 15:20:01](https://news.ycombinator.com/item?id=37497956) - [Bitty Engine: A tiny powerful game engine](https://paladin-t.github.io/bitty/)
+* [2023-09-13, 15:19:42](https://news.ycombinator.com/item?id=37497948) - [OpenBSD Webzine #14](https://webzine.puffy.cafe/issue-14.html)
 * [2023-09-13, 15:08:25](https://news.ycombinator.com/item?id=37497783) - [A Zettelkasten Explodes Thought: Rhizomes, Intertextuality, & Ideative Pillaging](https://writing.bobdoto.computer/inspired-destruction-how-a-zettelkasten-explodes-thoughts-so-you-can-have-newish-ones/)
 * [2023-09-13, 14:43:41](https://news.ycombinator.com/item?id=37497420) - [Nango.dev (YC W23) is hiring a founding back end engineer (remote)](https://nango.dev/jobs)
 * [2023-09-13, 14:26:04](https://news.ycombinator.com/item?id=37497199) - [Apple finally put USB-C in new iPhone, but limited to 23-year-old USB 2.0 speeds](https://www.pcgamer.com/apple-finally-put-usb-c-in-the-new-iphone-but-its-inexplicably-limited-to-23-year-old-usb-20-speeds/)
@@ -42,5 +44,6 @@
 * [2023-09-13, 01:39:44](https://news.ycombinator.com/item?id=37491146) - [Einstein to Habicht, 1905](https://ecologicallyoriented.wordpress.com/2014/05/24/einstein-to-habicht-1905/)
 * [2023-09-13, 01:22:30](https://news.ycombinator.com/item?id=37491002) - [Unity rushes to clarify price increase plan, as game developers fume](https://www.axios.com/2023/09/13/unity-runtime-fee-policy-marc-whitten)
 * [2023-09-13, 01:12:46](https://news.ycombinator.com/item?id=37490924) - [Lessons from 139 YC AI Startups (YC S23)](https://www.ignorance.ai/p/5-lessons-from-139-yc-ai-startups)
+* [2023-09-13, 00:34:34](https://news.ycombinator.com/item?id=37490644) - [The Greatest Counterfeiter (2021)](https://www.guo.io/the-greatest-counterfeiter-in-the-world/)
 * [2023-09-13, 00:31:56](https://news.ycombinator.com/item?id=37490623) - [Interactive Map of Linux Kernel](https://makelinux.github.io/kernel/map/)
 * [2023-09-13, 00:13:32](https://news.ycombinator.com/item?id=37490474) - [‘We Put in Air Conditionin’, Stayed Year-Round, and Ruined America’](https://www.politico.com/news/magazine/2023/09/12/air-conditioning-government-shutdown-00114530)
