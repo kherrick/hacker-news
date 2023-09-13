@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-13, 18:11:00",
+      "https://news.ycombinator.com/item?id=37499743"
+    ],
+    [
+      "Unity Engine to Godot Engine Exporter",
+      "https://github.com/Zylann/unity_to_godot_converter"
+    ]
+  ],
+  [
+    [
       "2023-09-13, 17:49:57",
       "https://news.ycombinator.com/item?id=37499479"
     ],
@@ -107,16 +117,6 @@
     [
       "Bitty Engine: An itty bitty game engine",
       "https://paladin-t.github.io/bitty/"
-    ]
-  ],
-  [
-    [
-      "2023-09-13, 15:19:42",
-      "https://news.ycombinator.com/item?id=37497948"
-    ],
-    [
-      "OpenBSD Webzine #14",
-      "https://webzine.puffy.cafe/issue-14.html"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2023-09-12, 15:10:37",
-      "https://news.ycombinator.com/item?id=37482465"
+      "2023-09-12, 12:14:23",
+      "https://news.ycombinator.com/item?id=37479901"
     ],
     [
-      "Digital Compact Cassette in 2023 [video]",
-      "https://www.youtube.com/watch?v=GJSlkNbpPsM"
+      "Software control USB power on some USB hubs",
+      "https://github.com/codazoda/hub-ctrl.c"
     ]
   ],
   [
