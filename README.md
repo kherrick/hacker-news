@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-13, 20:21:30](https://news.ycombinator.com/item?id=37501231) - [Don’t Mess with a Genius](https://shreevatsa.wordpress.com/2010/06/04/dont-mess-with-a-genius/)
+* [2023-09-13, 20:21:30](https://news.ycombinator.com/item?id=37501231) - [Don’t Mess with a Genius (2010)](https://shreevatsa.wordpress.com/2010/06/04/dont-mess-with-a-genius/)
 * [2023-09-13, 19:54:25](https://news.ycombinator.com/item?id=37500938) - [The stack monoid revisited](https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html)
 * [2023-09-13, 19:48:32](https://news.ycombinator.com/item?id=37500895) - [When MFA isn't MFA, or how we got phished](https://retool.com/blog/mfa-isnt-mfa/)
 * [2023-09-13, 19:38:21](https://news.ycombinator.com/item?id=37500781) - [Show HN: Kr8s – a Python client library for Kubernetes](https://github.com/kr8s-org/kr8s)
