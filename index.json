@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-09-13, 06:37:46",
+      "https://news.ycombinator.com/item?id=37492986"
+    ],
+    [
+      "70B Llama 2 at 35tokens/second on 4090",
+      "https://github.com/turboderp/exllamav2"
+    ]
+  ],
+  [
+    [
       "2023-09-13, 06:17:35",
       "https://news.ycombinator.com/item?id=37492852"
     ],
@@ -37,6 +47,16 @@
     [
       "Any sufficiently advanced uninstaller is indistinguishable from malware",
       "https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749"
+    ]
+  ],
+  [
+    [
+      "2023-09-13, 02:13:33",
+      "https://news.ycombinator.com/item?id=37491369"
+    ],
+    [
+      "Madlad-400: A Multilingual and Document-Level Large Audited Dataset",
+      "https://github.com/google-research/google-research/tree/master/madlad_400"
     ]
   ],
   [
@@ -181,26 +201,6 @@
   ],
   [
     [
-      "2023-09-12, 15:14:05",
-      "https://news.ycombinator.com/item?id=37482517"
-    ],
-    [
-      "New world record with an electric racing car: From 0 to 100 in 0.956 seconds",
-      "https://ethz.ch/en/news-and-events/eth-news/news/2023/09/from-zero-to-one-hundred-in-0-956-seconds.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 14:53:36",
-      "https://news.ycombinator.com/item?id=37482220"
-    ],
-    [
-      "Notes from building a blog in Django",
-      "https://til.simonwillison.net/django/building-a-blog-in-django"
-    ]
-  ],
-  [
-    [
       "2023-09-12, 13:06:33",
       "https://news.ycombinator.com/item?id=37480561"
     ],
@@ -217,6 +217,16 @@
     [
       "Sweden brings more books and handwriting practice back to its tech-heavy schools",
       "https://apnews.com/article/sweden-digital-education-backlash-reading-writing-1dd964c628f76361c43dbf3964f7dbf4"
+    ]
+  ],
+  [
+    [
+      "2023-09-12, 07:04:49",
+      "https://news.ycombinator.com/item?id=37477685"
+    ],
+    [
+      "Statistical significance on a shoestring budget",
+      "https://alexeymk.com/2023/09/11/statistical-significance-on-a-shoestring-budget.html"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2023-09-11, 19:19:28",
-      "https://news.ycombinator.com/item?id=37472340"
-    ],
-    [
-      "RetroAchievements: Adding achievements to retro games",
-      "https://retroachievements.org"
-    ]
-  ],
-  [
-    [
       "2023-09-11, 18:03:10",
       "https://news.ycombinator.com/item?id=37471077"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2023-09-11, 16:41:31",
+      "https://news.ycombinator.com/item?id=37469864"
+    ],
+    [
+      "How to Ensure the Last Gas-Lamp Theater in the World Doesn’t Blow Up",
+      "https://www.atlasobscura.com/articles/last-gas-lamp-theater-england"
+    ]
+  ],
+  [
+    [
       "2023-09-11, 11:18:42",
       "https://news.ycombinator.com/item?id=37465586"
     ],
     [
       "CHART: Completely Hackable Amateur Radio Telescope",
       "https://astrochart.github.io/"
-    ]
-  ],
-  [
-    [
-      "2023-09-11, 09:50:36",
-      "https://news.ycombinator.com/item?id=37464950"
-    ],
-    [
-      "Visualizing the CPython release process",
-      "https://sethmlarson.dev/security-developer-in-residence-weekly-report-9?date=2023-09-05"
     ]
   ],
   [
