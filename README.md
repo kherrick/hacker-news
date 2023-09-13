@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-13, 13:48:04](https://news.ycombinator.com/item?id=37496696) - [Why people care about PostGIS and Postgres](https://pathtocituscon.transistor.fm/episodes/why-people-care-about-postgis-and-postgres-with-paul-ramsey-regina-obe/transcript)
 * [2023-09-13, 13:39:17](https://news.ycombinator.com/item?id=37496589) - [Meduza co-founder's phone infected with Pegasus](https://meduza.io/en/feature/2023/09/13/the-million-dollar-reporter)
 * [2023-09-13, 12:37:28](https://news.ycombinator.com/item?id=37495926) - [Swedish criminal gangs using fake Spotify streams to launder money](https://www.theguardian.com/technology/2023/sep/05/swedish-criminal-gangs-using-fake-spotify-streams-to-launder-money)
 * [2023-09-13, 12:32:22](https://news.ycombinator.com/item?id=37495873) - [Against LLM Maximalism](https://explosion.ai/blog/against-llm-maximalism/)
@@ -23,7 +24,6 @@
 * [2023-09-12, 23:51:05](https://news.ycombinator.com/item?id=37490300) - [How long it took different companies to find product-market fit](https://www.lennysnewsletter.com/p/finding-product-market-fit)
 * [2023-09-12, 23:45:06](https://news.ycombinator.com/item?id=37490241) - [Credit card debt collection](https://www.bitsaboutmoney.com/archive/the-waste-stream-of-consumer-finance/)
 * [2023-09-12, 18:23:09](https://news.ycombinator.com/item?id=37485290) - [iPhone 15 and iPhone 15 Plus](https://www.apple.com/newsroom/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/)
-* [2023-09-12, 16:53:51](https://news.ycombinator.com/item?id=37484135) - [Fine-tune your own Llama 2 to replace GPT-3.5/4](https://news.ycombinator.com/item?id=37484135)
 * [2023-09-11, 22:50:42](https://news.ycombinator.com/item?id=37474760) - [Physicists solve mysteries of microtubule movers](https://phys.org/news/2023-09-physicists-mysteries-microtubule-movers.html)
 * [2023-09-11, 20:22:06](https://news.ycombinator.com/item?id=37473120) - [Perturbation analysis of spatial single cell RNA-seq (2021)](https://www.michaelchimenti.com/2021/11/perturbation-analysis-of-spatial-single-cell-rna-seq-with-augur/)
 * [2023-09-11, 19:20:00](https://news.ycombinator.com/item?id=37472347) - [Rubber hose animation](https://en.wikipedia.org/wiki/Rubber_hose_animation)
