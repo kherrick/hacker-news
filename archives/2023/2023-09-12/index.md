@@ -16,6 +16,7 @@
 * [2023-09-12, 23:36:59](https://news.ycombinator.com/item?id=37490165) - [UpdateWhere is a handy function](https://twitter.com/adriaanwm/status/1701422149691691283)
 * [2023-09-12, 22:25:00](https://news.ycombinator.com/item?id=37489414) - [Embracing the Surge of Remote Software Developers](https://remotebase.com/blog/tech-talent-without-borders-embracing-the-surge-of-remote-software-developers)
 * [2023-09-12, 22:06:14](https://news.ycombinator.com/item?id=37489200) - [Greatest Films of All Time](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time)
+* [2023-09-12, 21:35:35](https://news.ycombinator.com/item?id=37488793) - [Le Sphinx Pocket Cipher Device (1930)](https://www.cryptomuseum.com/crypto/lugagne/sphinx/index.htm)
 * [2023-09-12, 21:33:13](https://news.ycombinator.com/item?id=37488762) - [What the interns have wrought, 2023 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2023/)
 * [2023-09-12, 21:00:00](https://news.ycombinator.com/item?id=37488252) - [Justpaid.io (YC W23) Is Hiring for a Senior Full Stack Engineer](https://www.justpaid.io/careers)
 * [2023-09-12, 20:46:55](https://news.ycombinator.com/item?id=37488034) - [Some notes on local-first development](https://bricolage.io/some-notes-on-local-first-development/)

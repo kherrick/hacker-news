@@ -25,7 +25,7 @@
 * [2023-09-13, 03:31:07](https://news.ycombinator.com/item?id=37491862) - [Any sufficiently advanced uninstaller is indistinguishable from malware](https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749)
 * [2023-09-13, 00:34:34](https://news.ycombinator.com/item?id=37490644) - [The Greatest Counterfeiter (2021)](https://www.guo.io/the-greatest-counterfeiter-in-the-world/)
 * [2023-09-12, 23:46:47](https://news.ycombinator.com/item?id=37490260) - [The spawn of AtariLab and the Universal Laboratory Interface](http://oldvcr.blogspot.com/2023/09/the-spawn-of-atarilab-and-universal.html)
-* [2023-09-12, 15:10:37](https://news.ycombinator.com/item?id=37482465) - [Digital Compact Cassette in 2023 [video]](https://www.youtube.com/watch?v=GJSlkNbpPsM)
+* [2023-09-12, 21:35:35](https://news.ycombinator.com/item?id=37488793) - [Le Sphinx Pocket Cipher Device (1930)](https://www.cryptomuseum.com/crypto/lugagne/sphinx/index.htm)
 * [2023-09-12, 08:13:12](https://news.ycombinator.com/item?id=37478111) - [Category Theory Illustrated – Sets](https://abuseofnotation.github.io/category-theory-illustrated/01_set/)
 * [2023-09-12, 08:10:07](https://news.ycombinator.com/item?id=37478097) - [Greatest “Classic” Mac Laptop: Powerbook G3 Pismo (2021)](https://www.amigalove.com/viewtopic.php?t=1796)
 * [2023-09-12, 07:23:28](https://news.ycombinator.com/item?id=37477797) - [Engraving](https://www.metmuseum.org/about-the-met/collection-areas/drawings-and-prints/materials-and-techniques/printmaking/engraving)
