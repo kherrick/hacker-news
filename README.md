@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-13, 17:17:27](https://news.ycombinator.com/item?id=37499106) - [The Uselessness of Phenylephrine (2022)](https://www.science.org/content/blog-post/uselessness-phenylephrine)
 * [2023-09-13, 17:05:44](https://news.ycombinator.com/item?id=37498979) - [PF bug in macOS Sonoma release candidate](https://mullvad.net/en/blog/2023/9/13/bug-in-macos-14-sonoma-prevents-our-app-from-working/)
 * [2023-09-13, 17:01:36](https://news.ycombinator.com/item?id=37498935) - [SigNoz – Open-source alternative to Datadog is hiring product designers (remote)](https://signoz.io/careers/product-designer-in/)
 * [2023-09-13, 16:48:47](https://news.ycombinator.com/item?id=37498830) - [SpaceX no longer taking losses to produce Starlink satellite antennas](https://www.cnbc.com/2023/09/13/spacex-no-longer-taking-losses-to-produce-starlink-satellite-antennas.html)
 * [2023-09-13, 16:19:36](https://news.ycombinator.com/item?id=37498725) - [Why the Eddie Murphy Rule Is About More Than Orange Juice (2019)](https://econlife.com/2019/12/the-eddie-murphy-rule/)
-* [2023-09-13, 16:05:37](https://news.ycombinator.com/item?id=37498558) - [Transcoding Unicode strings at crazy speeds with AVX-512](https://lemire.me/blog/2023/09/13/transcoding-unicode-strings-at-crazy-speeds-with-avx-512/)
 * [2023-09-13, 15:59:58](https://news.ycombinator.com/item?id=37498473) - [Appeals Court Upholds Public.Resource.Org’s Right to Post Public Laws Online](https://www.eff.org/press/releases/appeals-court-upholds-publicresourceorgs-right-post-public-laws-and-regulations)
 * [2023-09-13, 15:33:28](https://news.ycombinator.com/item?id=37498142) - [A DIY near-IR spectrometer](https://caoyuan.scripts.mit.edu/ir_spec.html)
 * [2023-09-13, 15:20:01](https://news.ycombinator.com/item?id=37497956) - [Bitty Engine: A tiny powerful game engine](https://paladin-t.github.io/bitty/)
@@ -25,10 +25,10 @@
 * [2023-09-13, 04:57:41](https://news.ycombinator.com/item?id=37492371) - [S32 Unix Clock](https://www.da.vidbuchanan.co.uk/blog/unix-clock.html)
 * [2023-09-13, 03:31:07](https://news.ycombinator.com/item?id=37491862) - [Any sufficiently advanced uninstaller is indistinguishable from malware](https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749)
 * [2023-09-13, 00:34:34](https://news.ycombinator.com/item?id=37490644) - [The Greatest Counterfeiter (2021)](https://www.guo.io/the-greatest-counterfeiter-in-the-world/)
-* [2023-09-13, 00:31:56](https://news.ycombinator.com/item?id=37490623) - [Interactive Map of Linux Kernel](https://makelinux.github.io/kernel/map/)
 * [2023-09-12, 23:46:47](https://news.ycombinator.com/item?id=37490260) - [The spawn of AtariLab and the Universal Laboratory Interface](http://oldvcr.blogspot.com/2023/09/the-spawn-of-atarilab-and-universal.html)
 * [2023-09-12, 15:10:37](https://news.ycombinator.com/item?id=37482465) - [Digital Compact Cassette in 2023 [video]](https://www.youtube.com/watch?v=GJSlkNbpPsM)
 * [2023-09-12, 08:13:12](https://news.ycombinator.com/item?id=37478111) - [Category Theory Illustrated – Sets](https://abuseofnotation.github.io/category-theory-illustrated/01_set/)
+* [2023-09-11, 22:50:42](https://news.ycombinator.com/item?id=37474760) - [Physicists solve mysteries of microtubule movers](https://phys.org/news/2023-09-physicists-mysteries-microtubule-movers.html)
 * [2023-09-11, 22:11:58](https://news.ycombinator.com/item?id=37474394) - [Analyzing ELF symbols using SQL](https://fzakaria.com/2023/09/11/quick-insights-using-sqlelf.html)
 
 ## [Archives](archives/index.md)
