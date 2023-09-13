@@ -43,6 +43,7 @@
 * [2023-09-12, 16:53:51](https://news.ycombinator.com/item?id=37484135) - [Show HN: Fine-tune your own Llama 2 to replace GPT-3.5/4](https://news.ycombinator.com/item?id=37484135)
 * [2023-09-12, 16:28:59](https://news.ycombinator.com/item?id=37483734) - [Throbol – The Robot Oriented Language](https://throbol.com/)
 * [2023-09-12, 16:23:36](https://news.ycombinator.com/item?id=37483652) - [Happy 65th Birthday, Integrated Circuit](https://thechipletter.substack.com/p/happy-65th-birthday-integrated-circuit)
+* [2023-09-12, 16:23:07](https://news.ycombinator.com/item?id=37483647) - [Lawrence Wright on Larry McMurtry](https://themillions.com/2023/09/lawrence-wright-on-larry-mcmurtry.html)
 * [2023-09-12, 16:04:31](https://news.ycombinator.com/item?id=37483348) - [Dementia risk is highest if you sit for longer than 10 hours each day](https://www.dailymail.co.uk/health/article-12508827/Dementia-warning-10-hours-sitting-spikes-risk.html)
 * [2023-09-12, 16:00:57](https://news.ycombinator.com/item?id=37483288) - [Obsidian 1.4.10 Desktop (Public)](https://obsidian.md/changelog/2023-09-11-desktop-v1.4.10/)
 * [2023-09-12, 15:57:16](https://news.ycombinator.com/item?id=37483226) - [Intracerebral Hemorrhage Among Blood Donors and Their Transfusion Recipients](https://jamanetwork.com/journals/jama/article-abstract/2809417)

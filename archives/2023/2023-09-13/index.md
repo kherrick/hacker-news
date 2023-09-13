@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-13](index.md)
 
+* [2023-09-13, 21:09:06](https://news.ycombinator.com/item?id=37501756) - [Deforestation in the Amazon rainforest continues to plunge](https://news.mongabay.com/2023/09/deforestation-in-the-amazon-rainforest-continues-to-plunge/)
 * [2023-09-13, 20:21:30](https://news.ycombinator.com/item?id=37501231) - [Don’t Mess with a Genius](https://shreevatsa.wordpress.com/2010/06/04/dont-mess-with-a-genius/)
 * [2023-09-13, 20:11:20](https://news.ycombinator.com/item?id=37501125) - [Google Sheds Hundreds of Recruiters in Another Round of Layoffs](https://www.nytimes.com/2023/09/13/technology/google-layoffs-recruiters.html)
 * [2023-09-13, 20:06:33](https://news.ycombinator.com/item?id=37501069) - [Tesla Secures Over €148M to Build 7,200 Chargers in EU](https://teslanorth.com/2023/09/13/tesla-148-million-eu-chargers/)
