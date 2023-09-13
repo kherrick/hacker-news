@@ -70,6 +70,7 @@
 * [2023-09-13, 06:01:00](https://news.ycombinator.com/item?id=37492752) - [iPhone 12 withdrawn from French market for non-compliance with EU regulation](https://www.anfr.fr/liste-actualites/actualite/temporary-withdrawal-from-the-market-of-the-iphone-12-for-non-compliance-with-eu-regulation)
 * [2023-09-13, 05:57:47](https://news.ycombinator.com/item?id=37492730) - [Non-human“ alien corpses displayed at Mexico's Congress, believed to be 1k year](https://www.marca.com/en/lifestyle/world-news/2023/09/13/65011a37ca4741e5678b4580.html)
 * [2023-09-13, 04:57:41](https://news.ycombinator.com/item?id=37492371) - [S32 Unix Clock](https://www.da.vidbuchanan.co.uk/blog/unix-clock.html)
+* [2023-09-13, 04:40:04](https://news.ycombinator.com/item?id=37492266) - [Boolr – A Digital Logic Simulator](http://boolr.me/)
 * [2023-09-13, 03:31:07](https://news.ycombinator.com/item?id=37491862) - [Any sufficiently advanced uninstaller is indistinguishable from malware](https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749)
 * [2023-09-13, 02:48:43](https://news.ycombinator.com/item?id=37491625) - [Samsung unveils monobloc heat pump for residential applications](https://www.pv-magazine.com/2023/09/12/samsung-unveils-monobloc-heat-pump-for-residential-applications/)
 * [2023-09-13, 02:13:33](https://news.ycombinator.com/item?id=37491369) - [Madlad-400: A Multilingual and Document-Level Large Audited Dataset](https://github.com/google-research/google-research/tree/master/madlad_400)
