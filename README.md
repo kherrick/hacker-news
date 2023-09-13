@@ -10,7 +10,6 @@
 * [2023-09-13, 09:21:16](https://news.ycombinator.com/item?id=37494275) - [LÖVE: a framework to make 2D games in Lua](https://love2d.org/)
 * [2023-09-13, 08:50:29](https://news.ycombinator.com/item?id=37494015) - [Openmoji](https://github.com/hfg-gmuend/openmoji)
 * [2023-09-13, 08:44:58](https://news.ycombinator.com/item?id=37493964) - [What Is Wrong with TOML?](https://hitchdev.com/strictyaml/why-not/toml/)
-* [2023-09-13, 08:41:21](https://news.ycombinator.com/item?id=37493928) - [Google has been rolling out Chrome's “Enhanced Ad Privacy” via a popup](https://twitter.com/glenngabe/status/1699389973361738146)
 * [2023-09-13, 08:26:16](https://news.ycombinator.com/item?id=37493797) - [A CD Spectrometer](https://www.cs.cmu.edu/~zhuxj/astro/html/spectrometer.html)
 * [2023-09-13, 07:56:32](https://news.ycombinator.com/item?id=37493566) - [French regulators order Apple to halt sales of the iPhone 12](https://www.france24.com/en/europe/20230912-france-orders-apple-to-halt-iphone-12-sales-due-to-high-radiation-levels)
 * [2023-09-13, 06:37:46](https://news.ycombinator.com/item?id=37492986) - [70B Llama 2 at 35tokens/second on 4090](https://github.com/turboderp/exllamav2)
@@ -28,6 +27,7 @@
 * [2023-09-11, 22:50:42](https://news.ycombinator.com/item?id=37474760) - [Physicists solve mysteries of microtubule movers](https://phys.org/news/2023-09-physicists-mysteries-microtubule-movers.html)
 * [2023-09-11, 20:22:06](https://news.ycombinator.com/item?id=37473120) - [Perturbation analysis of spatial single cell RNA-seq (2021)](https://www.michaelchimenti.com/2021/11/perturbation-analysis-of-spatial-single-cell-rna-seq-with-augur/)
 * [2023-09-11, 19:20:00](https://news.ycombinator.com/item?id=37472347) - [Rubber hose animation](https://en.wikipedia.org/wiki/Rubber_hose_animation)
+* [2023-09-11, 18:19:34](https://news.ycombinator.com/item?id=37471332) - [FC8 – Faster 68K Decompression (2016)](https://www.bigmessowires.com/2016/05/06/fc8-faster-68k-decompression/)
 * [2023-09-11, 12:27:19](https://news.ycombinator.com/item?id=37466217) - [Typing on Any Surface: A Deep Learning Method for Keystroke Detection in AR](https://arxiv.org/abs/2309.00174)
 * [2023-09-11, 04:59:54](https://news.ycombinator.com/item?id=37463059) - [The Pirate Preservationists](https://reason.com/2023/09/10/the-pirate-preservationists/)
 

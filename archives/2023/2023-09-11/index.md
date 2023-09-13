@@ -37,6 +37,7 @@
 * [2023-09-11, 18:25:02](https://news.ycombinator.com/item?id=37471417) - [Advanced x86: Virtualization with  Intel VT-x](https://opensecuritytraining.info/AdvancedX86-VTX.html)
 * [2023-09-11, 18:20:58](https://news.ycombinator.com/item?id=37471354) - [Doctors Have Been Measuring Blood Pressure All Wrong, Study Finds](https://studyfinds.org/measuring-blood-pressure-wrong/)
 * [2023-09-11, 18:20:58](https://news.ycombinator.com/item?id=37471354) - [Blood pressure should be measured lying down: study](https://newsroom.heart.org/news/high-blood-pressure-while-lying-down-linked-to-higher-risk-of-heart-health-complications)
+* [2023-09-11, 18:19:34](https://news.ycombinator.com/item?id=37471332) - [FC8 – Faster 68K Decompression (2016)](https://www.bigmessowires.com/2016/05/06/fc8-faster-68k-decompression/)
 * [2023-09-11, 18:18:37](https://news.ycombinator.com/item?id=37471321) - [Mac ROM-Inator II Restock and Partnerships](https://www.bigmessowires.com/2023/09/09/mac-rom-inator-ii-restock-and-partnerships/)
 * [2023-09-11, 18:08:06](https://news.ycombinator.com/item?id=37471149) - [How to Read Bug Reports (2016)](https://www.massicotte.org/reading-bug-reports)
 * [2023-09-11, 18:05:53](https://news.ycombinator.com/item?id=37471118) - [Justice Department Sues Google for Monopolizing Digital Advertising Technologies](https://www.justice.gov/opa/pr/justice-department-sues-google-monopolizing-digital-advertising-technologies)
