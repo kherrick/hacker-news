@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-13](index.md)
 
+* [2023-09-13, 08:50:29](https://news.ycombinator.com/item?id=37494015) - [Openmoji](https://github.com/hfg-gmuend/openmoji)
+* [2023-09-13, 08:41:21](https://news.ycombinator.com/item?id=37493928) - [Google has been rolling out Chrome's “Enhanced Ad Privacy” via a popup](https://twitter.com/glenngabe/status/1699389973361738146)
+* [2023-09-13, 08:30:43](https://news.ycombinator.com/item?id=37493845) - [Amazon's Union-Busting Training Video](https://www.youtube.com/watch?v=AQeGBHxIyHw)
 * [2023-09-13, 08:21:10](https://news.ycombinator.com/item?id=37493748) - [Password-stealing Linux malware served for 3 years and no one noticed](https://arstechnica.com/security/2023/09/password-stealing-linux-malware-served-for-3-years-and-no-one-noticed/)
 * [2023-09-13, 08:12:02](https://news.ycombinator.com/item?id=37493675) - [Britain's roads can't keep up with our cars](https://www.telegraph.co.uk/cars/features/why-cars-continue-get-bigger/)
 * [2023-09-13, 07:56:32](https://news.ycombinator.com/item?id=37493566) - [French regulators order Apple to halt sales of the iPhone 12](https://www.france24.com/en/europe/20230912-france-orders-apple-to-halt-iphone-12-sales-due-to-high-radiation-levels)
