@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-13, 15:33:28](https://news.ycombinator.com/item?id=37498142) - [A $500 DIY near-IR spectrometer that would sell for $10k](https://caoyuan.scripts.mit.edu/ir_spec.html)
 * [2023-09-13, 15:20:01](https://news.ycombinator.com/item?id=37497956) - [Bitty Engine: A tiny powerful game engine](https://paladin-t.github.io/bitty/)
 * [2023-09-13, 15:19:42](https://news.ycombinator.com/item?id=37497948) - [OpenBSD Webzine #14](https://webzine.puffy.cafe/issue-14.html)
 * [2023-09-13, 14:43:41](https://news.ycombinator.com/item?id=37497420) - [Nango.dev (YC W23) is hiring a founding back end engineer (remote)](https://nango.dev/jobs)
-* [2023-09-13, 14:26:04](https://news.ycombinator.com/item?id=37497199) - [Apple finally put USB-C in new iPhone, but limited to 23-year-old USB 2.0 speeds](https://www.pcgamer.com/apple-finally-put-usb-c-in-the-new-iphone-but-its-inexplicably-limited-to-23-year-old-usb-20-speeds/)
 * [2023-09-13, 13:48:04](https://news.ycombinator.com/item?id=37496696) - [Why people care about PostGIS and Postgres](https://pathtocituscon.transistor.fm/episodes/why-people-care-about-postgis-and-postgres-with-paul-ramsey-regina-obe/transcript)
 * [2023-09-13, 13:39:17](https://news.ycombinator.com/item?id=37496589) - [Meduza co-founder's phone infected with Pegasus](https://meduza.io/en/feature/2023/09/13/the-million-dollar-reporter)
 * [2023-09-13, 12:32:22](https://news.ycombinator.com/item?id=37495873) - [Against LLM Maximalism](https://explosion.ai/blog/against-llm-maximalism/)
@@ -25,11 +25,11 @@
 * [2023-09-12, 23:45:06](https://news.ycombinator.com/item?id=37490241) - [Credit card debt collection](https://www.bitsaboutmoney.com/archive/the-waste-stream-of-consumer-finance/)
 * [2023-09-12, 15:10:37](https://news.ycombinator.com/item?id=37482465) - [Digital Compact Cassette in 2023 [video]](https://www.youtube.com/watch?v=GJSlkNbpPsM)
 * [2023-09-11, 22:50:42](https://news.ycombinator.com/item?id=37474760) - [Physicists solve mysteries of microtubule movers](https://phys.org/news/2023-09-physicists-mysteries-microtubule-movers.html)
+* [2023-09-11, 22:43:34](https://news.ycombinator.com/item?id=37474689) - [The trouble with supermarket self checkouts](https://www.spectator.co.uk/article/the-trouble-with-supermarket-self-checkouts/)
 * [2023-09-11, 20:22:06](https://news.ycombinator.com/item?id=37473120) - [Perturbation analysis of spatial single cell RNA-seq (2021)](https://www.michaelchimenti.com/2021/11/perturbation-analysis-of-spatial-single-cell-rna-seq-with-augur/)
 * [2023-09-11, 19:20:00](https://news.ycombinator.com/item?id=37472347) - [Rubber hose animation](https://en.wikipedia.org/wiki/Rubber_hose_animation)
 * [2023-09-11, 18:19:34](https://news.ycombinator.com/item?id=37471332) - [FC8 – Faster 68K Decompression (2016)](https://www.bigmessowires.com/2016/05/06/fc8-faster-68k-decompression/)
 * [2023-09-11, 12:27:19](https://news.ycombinator.com/item?id=37466217) - [Typing on Any Surface: A Deep Learning Method for Keystroke Detection in AR](https://arxiv.org/abs/2309.00174)
-* [2023-09-11, 04:59:54](https://news.ycombinator.com/item?id=37463059) - [The Pirate Preservationists](https://reason.com/2023/09/10/the-pirate-preservationists/)
 
 ## [Archives](archives/index.md)
 

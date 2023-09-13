@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-13](index.md)
 
+* [2023-09-13, 15:33:28](https://news.ycombinator.com/item?id=37498142) - [A $500 DIY near-IR spectrometer that would sell for $10k](https://caoyuan.scripts.mit.edu/ir_spec.html)
 * [2023-09-13, 15:20:01](https://news.ycombinator.com/item?id=37497956) - [Bitty Engine: A tiny powerful game engine](https://paladin-t.github.io/bitty/)
 * [2023-09-13, 15:19:42](https://news.ycombinator.com/item?id=37497948) - [OpenBSD Webzine #14](https://webzine.puffy.cafe/issue-14.html)
 * [2023-09-13, 15:08:25](https://news.ycombinator.com/item?id=37497783) - [A Zettelkasten Explodes Thought: Rhizomes, Intertextuality, & Ideative Pillaging](https://writing.bobdoto.computer/inspired-destruction-how-a-zettelkasten-explodes-thoughts-so-you-can-have-newish-ones/)
