@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-13, 09:08:09](https://news.ycombinator.com/item?id=37494173) - [Germany Will Force 80% of Gas Stations to Install EV Chargers](https://www.thedrive.com/news/germany-will-force-80-percent-of-gas-stations-to-install-ev-charging)
 * [2023-09-13, 08:50:29](https://news.ycombinator.com/item?id=37494015) - [Openmoji](https://github.com/hfg-gmuend/openmoji)
 * [2023-09-13, 08:41:21](https://news.ycombinator.com/item?id=37493928) - [Google has been rolling out Chrome's “Enhanced Ad Privacy” via a popup](https://twitter.com/glenngabe/status/1699389973361738146)
 * [2023-09-13, 08:30:43](https://news.ycombinator.com/item?id=37493845) - [Amazon's Union-Busting Training Video](https://www.youtube.com/watch?v=AQeGBHxIyHw)
@@ -24,7 +25,6 @@
 * [2023-09-12, 18:23:09](https://news.ycombinator.com/item?id=37485290) - [iPhone 15 and iPhone 15 Plus](https://www.apple.com/newsroom/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/)
 * [2023-09-12, 16:53:51](https://news.ycombinator.com/item?id=37484135) - [Fine-tune your own Llama 2 to replace GPT-3.5/4](https://news.ycombinator.com/item?id=37484135)
 * [2023-09-12, 16:28:59](https://news.ycombinator.com/item?id=37483734) - [Throbol – The Robot Oriented Language](https://throbol.com/)
-* [2023-09-12, 13:06:33](https://news.ycombinator.com/item?id=37480561) - [How large is that number in the Law of Large Numbers?](https://thepalindrome.org/p/how-large-that-number-in-the-law)
 * [2023-09-12, 06:07:02](https://news.ycombinator.com/item?id=37477380) - [Robinson Crusoe Walks Into a Bar: A literary scholar and an improbable lawsuit](https://www.chronicle.com/article/robinson-crusoe-walks-into-a-bar)
 * [2023-09-11, 19:20:00](https://news.ycombinator.com/item?id=37472347) - [Rubber hose animation](https://en.wikipedia.org/wiki/Rubber_hose_animation)
 * [2023-09-11, 16:41:31](https://news.ycombinator.com/item?id=37469864) - [How to Ensure the Last Gas-Lamp Theater in the World Doesn’t Blow Up](https://www.atlasobscura.com/articles/last-gas-lamp-theater-england)
