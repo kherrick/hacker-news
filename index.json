@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-13, 02:13:33",
+      "https://news.ycombinator.com/item?id=37491369"
+    ],
+    [
+      "Madlad-400: A Multilingual and Document-Level Large Audited Dataset",
+      "https://github.com/google-research/google-research/tree/master/madlad_400"
+    ]
+  ],
+  [
+    [
       "2023-09-13, 01:39:44",
       "https://news.ycombinator.com/item?id=37491146"
     ],
@@ -37,6 +47,16 @@
     [
       "Interactive Map of Linux Kernel",
       "https://makelinux.github.io/kernel/map/"
+    ]
+  ],
+  [
+    [
+      "2023-09-13, 00:13:32",
+      "https://news.ycombinator.com/item?id=37490474"
+    ],
+    [
+      "‘We Put in Air Conditionin’, Stayed Year-Round, and Ruined America’",
+      "https://www.politico.com/news/magazine/2023/09/12/air-conditioning-government-shutdown-00114530"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2023-09-12, 19:46:07",
-      "https://news.ycombinator.com/item?id=37486946"
-    ],
-    [
-      "Free Download Manager backdoored – a possible supply chain attack on Linux",
-      "https://securelist.com/backdoored-free-download-manager-linux-malware/110465/"
-    ]
-  ],
-  [
-    [
       "2023-09-12, 19:29:39",
       "https://news.ycombinator.com/item?id=37486651"
     ],
@@ -177,16 +187,6 @@
     [
       "Notes from building a blog in Django",
       "https://til.simonwillison.net/django/building-a-blog-in-django"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 14:07:08",
-      "https://news.ycombinator.com/item?id=37481513"
-    ],
-    [
-      "We built the fastest CI and it failed",
-      "https://earthly.dev/blog/shutting-down-earthly-ci/"
     ]
   ],
   [
