@@ -6,7 +6,10 @@
 
 * [2023-09-13, 18:09:43](https://news.ycombinator.com/item?id=37499731) - [Unity silently removed clause that let you use TOS from version you shipped with](https://old.reddit.com/r/gamedev/comments/16hnibp/unity_silently_removed_their_github_repo_to_track/)
 * [2023-09-13, 18:08:37](https://news.ycombinator.com/item?id=37499720) - [Marvel Visual Effects Workers Vote to Unionize](https://www.rollingstone.com/tv-movies/tv-movie-news/marvel-visual-effects-workers-vote-unionize-1234824215/)
+* [2023-09-13, 18:07:47](https://news.ycombinator.com/item?id=37499708) - [Unity to Godot Docs](https://docs.godotengine.org/en/3.1/getting_started/editor/unity_to_godot.html)
+* [2023-09-13, 17:41:58](https://news.ycombinator.com/item?id=37499375) - [Show HN: Lantern – a PostgreSQL vector database for building AI applications](https://docs.lantern.dev/blog/2023/09/13/hello-world)
 * [2023-09-13, 17:32:01](https://news.ycombinator.com/item?id=37499259) - [Unity’s new “per-install” pricing enrages the game development community](https://arstechnica.com/gaming/2023/09/game-developers-unite-against-unitys-new-per-install-pricing-structure/)
+* [2023-09-13, 17:23:10](https://news.ycombinator.com/item?id=37499163) - [Phaser: A fast, fun and free open source HTML5 game framework](https://phaser.io/)
 * [2023-09-13, 17:17:27](https://news.ycombinator.com/item?id=37499106) - [The Uselessness of Phenylephrine (2022)](https://www.science.org/content/blog-post/uselessness-phenylephrine)
 * [2023-09-13, 17:11:06](https://news.ycombinator.com/item?id=37499037) - [Amazon Ion Specification](https://amazon-ion.github.io/ion-docs/docs/spec.html)
 * [2023-09-13, 17:05:44](https://news.ycombinator.com/item?id=37498979) - [PF bug in macOS Sonoma release candidate](https://mullvad.net/en/blog/2023/9/13/bug-in-macos-14-sonoma-prevents-our-app-from-working/)
