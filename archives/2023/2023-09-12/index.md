@@ -99,6 +99,8 @@
 * [2023-09-12, 08:58:42](https://news.ycombinator.com/item?id=37478403) - [CVE-2023-4863: Heap buffer overflow in WebP (Chrome)](https://chromereleases.googleblog.com/2023/09/stable-channel-update-for-desktop_11.html)
 * [2023-09-12, 08:25:43](https://news.ycombinator.com/item?id=37478191) - [Electric vehicle battery causes fire at Sydney Airport, destroys five cars](https://www.abc.net.au/news/2023-09-12/sydney-airport-lithium-ion-battery-causes-fire/102846146)
 * [2023-09-12, 08:13:12](https://news.ycombinator.com/item?id=37478111) - [Category Theory Illustrated – Sets](https://abuseofnotation.github.io/category-theory-illustrated/01_set/)
+* [2023-09-12, 08:10:07](https://news.ycombinator.com/item?id=37478097) - [Greatest “Classic” Mac Laptop: Powerbook G3 Pismo (2021)](https://www.amigalove.com/viewtopic.php?t=1796)
+* [2023-09-12, 07:23:28](https://news.ycombinator.com/item?id=37477797) - [Engraving](https://www.metmuseum.org/about-the-met/collection-areas/drawings-and-prints/materials-and-techniques/printmaking/engraving)
 * [2023-09-12, 07:14:28](https://news.ycombinator.com/item?id=37477739) - [Jwz: The only planet where 100% of Linux systems have working audio is Mars](https://mastodon.social/@jwz/111048777391239744)
 * [2023-09-12, 07:04:49](https://news.ycombinator.com/item?id=37477685) - [Statistical significance on a shoestring budget](https://alexeymk.com/2023/09/11/statistical-significance-on-a-shoestring-budget.html)
 * [2023-09-12, 07:03:49](https://news.ycombinator.com/item?id=37477683) - [NASA says distant exoplanet could have rare water ocean, possible hint of life](https://www.theguardian.com/science/2023/sep/11/nasa-planet-ocean-life-james-webb-telescope)

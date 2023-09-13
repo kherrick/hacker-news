@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-09-13](index.md)
 
+* [2023-09-13, 18:09:43](https://news.ycombinator.com/item?id=37499731) - [Unity silently removed clause that let you use TOS from version you shipped with](https://old.reddit.com/r/gamedev/comments/16hnibp/unity_silently_removed_their_github_repo_to_track/)
+* [2023-09-13, 18:08:37](https://news.ycombinator.com/item?id=37499720) - [Marvel Visual Effects Workers Vote to Unionize](https://www.rollingstone.com/tv-movies/tv-movie-news/marvel-visual-effects-workers-vote-unionize-1234824215/)
 * [2023-09-13, 17:32:01](https://news.ycombinator.com/item?id=37499259) - [Unity’s new “per-install” pricing enrages the game development community](https://arstechnica.com/gaming/2023/09/game-developers-unite-against-unitys-new-per-install-pricing-structure/)
 * [2023-09-13, 17:17:27](https://news.ycombinator.com/item?id=37499106) - [The Uselessness of Phenylephrine (2022)](https://www.science.org/content/blog-post/uselessness-phenylephrine)
+* [2023-09-13, 17:11:06](https://news.ycombinator.com/item?id=37499037) - [Amazon Ion Specification](https://amazon-ion.github.io/ion-docs/docs/spec.html)
 * [2023-09-13, 17:05:44](https://news.ycombinator.com/item?id=37498979) - [PF bug in macOS Sonoma release candidate](https://mullvad.net/en/blog/2023/9/13/bug-in-macos-14-sonoma-prevents-our-app-from-working/)
 * [2023-09-13, 17:01:36](https://news.ycombinator.com/item?id=37498935) - [SigNoz – Open-source alternative to Datadog is hiring product designers (remote)](https://signoz.io/careers/product-designer-in/)
 * [2023-09-13, 16:48:47](https://news.ycombinator.com/item?id=37498830) - [SpaceX no longer taking losses to produce Starlink satellite antennas](https://www.cnbc.com/2023/09/13/spacex-no-longer-taking-losses-to-produce-starlink-satellite-antennas.html)
+* [2023-09-13, 16:27:10](https://news.ycombinator.com/item?id=37498820) - [WASI Support in Go](https://go.dev/blog/wasi)
 * [2023-09-13, 16:19:36](https://news.ycombinator.com/item?id=37498725) - [Why the Eddie Murphy Rule Is About More Than Orange Juice (2019)](https://econlife.com/2019/12/the-eddie-murphy-rule/)
 * [2023-09-13, 16:05:37](https://news.ycombinator.com/item?id=37498558) - [Transcoding Unicode strings at crazy speeds with AVX-512](https://lemire.me/blog/2023/09/13/transcoding-unicode-strings-at-crazy-speeds-with-avx-512/)
 * [2023-09-13, 15:59:58](https://news.ycombinator.com/item?id=37498473) - [Appeals Court Upholds Public.Resource.Org’s Right to Post Public Laws Online](https://www.eff.org/press/releases/appeals-court-upholds-publicresourceorgs-right-post-public-laws-and-regulations)
