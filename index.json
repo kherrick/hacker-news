@@ -1,22 +1,12 @@
 [
   [
     [
-      "2023-09-13, 15:54:30",
-      "https://news.ycombinator.com/item?id=37498390"
+      "2023-09-13, 16:05:37",
+      "https://news.ycombinator.com/item?id=37498558"
     ],
     [
-      "MUNI Bus Killed San Francisco Man at Center of Robotaxi, Firefighter Dispute",
-      "https://sfstandard.com/2023/09/12/muni-bus-killed-san-francisco-man-at-center-of-robotaxi-firefighter-dispute/"
-    ]
-  ],
-  [
-    [
-      "2023-09-13, 15:52:04",
-      "https://news.ycombinator.com/item?id=37498358"
-    ],
-    [
-      "Facebook Messenger now limits WebP file attachments",
-      "https://news.ycombinator.com/item?id=37498358"
+      "Transcoding Unicode strings at crazy speeds with AVX-512",
+      "https://lemire.me/blog/2023/09/13/transcoding-unicode-strings-at-crazy-speeds-with-avx-512/"
     ]
   ],
   [
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=37498142"
     ],
     [
-      "A $500 DIY near-IR spectrometer that would sell for $10k",
+      "A DIY near-IR spectrometer",
       "https://caoyuan.scripts.mit.edu/ir_spec.html"
     ]
   ],
@@ -61,12 +51,22 @@
   ],
   [
     [
-      "2023-09-13, 13:48:04",
-      "https://news.ycombinator.com/item?id=37496696"
+      "2023-09-13, 14:28:39",
+      "https://news.ycombinator.com/item?id=37497233"
     ],
     [
-      "Why people care about PostGIS and Postgres",
-      "https://pathtocituscon.transistor.fm/episodes/why-people-care-about-postgis-and-postgres-with-paul-ramsey-regina-obe/transcript"
+      "PureBoot 28 – Upstreaming and Upscaling",
+      "https://puri.sm/posts/pureboot-28-upstreaming-and-upscaling/"
+    ]
+  ],
+  [
+    [
+      "2023-09-13, 14:21:45",
+      "https://news.ycombinator.com/item?id=37497131"
+    ],
+    [
+      "Why Fennel?",
+      "https://fennel-lang.org/rationale"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "Meduza co-founder's phone infected with Pegasus",
       "https://meduza.io/en/feature/2023/09/13/the-million-dollar-reporter"
-    ]
-  ],
-  [
-    [
-      "2023-09-13, 12:32:22",
-      "https://news.ycombinator.com/item?id=37495873"
-    ],
-    [
-      "Against LLM Maximalism",
-      "https://explosion.ai/blog/against-llm-maximalism/"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2023-09-12, 23:46:47",
+      "https://news.ycombinator.com/item?id=37490260"
+    ],
+    [
+      "The spawn of AtariLab and the Universal Laboratory Interface",
+      "http://oldvcr.blogspot.com/2023/09/the-spawn-of-atarilab-and-universal.html"
+    ]
+  ],
+  [
+    [
       "2023-09-12, 23:45:06",
       "https://news.ycombinator.com/item?id=37490241"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-09-11, 18:19:34",
-      "https://news.ycombinator.com/item?id=37471332"
+      "2023-09-11, 12:27:19",
+      "https://news.ycombinator.com/item?id=37466217"
     ],
     [
-      "FC8 – Faster 68K Decompression (2016)",
-      "https://www.bigmessowires.com/2016/05/06/fc8-faster-68k-decompression/"
+      "Typing on Any Surface: A Deep Learning Method for Keystroke Detection in AR",
+      "https://arxiv.org/abs/2309.00174"
     ]
   ]
 ]
