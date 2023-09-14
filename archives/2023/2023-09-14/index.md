@@ -8,6 +8,7 @@
 * [2023-09-14, 18:44:02](https://news.ycombinator.com/item?id=37513030) - [“perpetual motion” device is clever [video]](https://www.youtube.com/watch?v=r_LG8FDt51U)
 * [2023-09-14, 18:37:53](https://news.ycombinator.com/item?id=37512934) - [Google hid evidence by training workers to avoid words monopolists use, DOJ says](https://arstechnica.com/tech-policy/2023/09/google-hid-evidence-by-training-workers-to-avoid-words-monopolists-use-doj-says/)
 * [2023-09-14, 18:26:58](https://news.ycombinator.com/item?id=37512795) - [‘Credible’ Death Threat Causes Unity to Close Two Offices](https://kotaku.com/unity-death-threat-texas-sf-offices-town-hall-canceled-1850838902)
+* [2023-09-14, 18:25:52](https://news.ycombinator.com/item?id=37512779) - [High-Tech Cars Might Be More Trouble Than They’re Worth](https://www.scientificamerican.com/article/high-tech-cars-might-be-more-trouble-than-theyre-worth/)
 * [2023-09-14, 18:03:25](https://news.ycombinator.com/item?id=37512512) - [Unity cancels town hall over reported death threats](https://www.theverge.com/2023/9/14/23873628/unity-death-threats-john-riccitiello)
 * [2023-09-14, 17:41:40](https://news.ycombinator.com/item?id=37512216) - [Can I take ducks home from the park?](https://dynomight.net/ducks/)
 * [2023-09-14, 17:00:39](https://news.ycombinator.com/item?id=37511584) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37511584)
