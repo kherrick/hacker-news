@@ -90,6 +90,7 @@
 * [2023-09-12, 12:00:57](https://news.ycombinator.com/item?id=37479749) - [Treble.ai (YC S19) Is Hiring Spanish Speaking Engineers in NYC](https://www.ycombinator.com/companies/treble-ai/jobs/tL8GeWc-full-stack-software-engineer)
 * [2023-09-12, 11:51:24](https://news.ycombinator.com/item?id=37479641) - [You're Barely Managing](https://barely-managing.bearblog.dev/youre-barely-managing/)
 * [2023-09-12, 11:50:09](https://news.ycombinator.com/item?id=37479630) - [Ask HN: What benefits are important to you when choosing a job?](https://news.ycombinator.com/item?id=37479630)
+* [2023-09-12, 11:45:46](https://news.ycombinator.com/item?id=37479596) - [I think I kind of hate lazy loading](https://shkspr.mobi/blog/2023/09/i-think-i-kind-of-hate-lazy-loading/)
 * [2023-09-12, 11:43:52](https://news.ycombinator.com/item?id=37479580) - [To Audio and Back Again](https://unascribed.com/junk/imgaudio/)
 * [2023-09-12, 11:41:22](https://news.ycombinator.com/item?id=37479552) - [Steam turns 20 today: “We had to try a lot of different things over the years”](https://www.rockpapershotgun.com/steam-turns-20-today-weve-had-to-try-a-lot-of-different-things-over-the-years)
 * [2023-09-12, 11:36:24](https://news.ycombinator.com/item?id=37479515) - [Dutch groups sue Google over alleged privacy violations](https://www.reuters.com/technology/dutch-groups-sue-google-over-alleged-privacy-violations-2023-09-12/)
