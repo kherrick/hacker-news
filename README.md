@@ -2,6 +2,8 @@
 
 * [2023-09-14, 20:45:06](https://news.ycombinator.com/item?id=37514601) - [MenuetOS](https://menuetos.net)
 * [2023-09-14, 19:59:35](https://news.ycombinator.com/item?id=37514051) - [Rivers are rapidly warming, losing oxygen; aquatic life at risk, study finds](https://www.eurekalert.org/news-releases/1001268)
+* [2023-09-14, 19:38:28](https://news.ycombinator.com/item?id=37513791) - [Toyota’s advanced battery technology roadmap](https://newsroom.toyota.eu/toyotas-advanced-battery-technology-roadmap/)
+* [2023-09-14, 19:25:20](https://news.ycombinator.com/item?id=37513619) - [Arm jumps 18% in market debut to notch $60B valuation](https://www.reuters.com/markets/deals/softbanks-arm-set-debut-nasdaq-after-blockbuster-ipo-2023-09-14/)
 * [2023-09-14, 19:05:34](https://news.ycombinator.com/item?id=37513324) - [Unity is offering a runtime fee waiver if you switch to LevelPlay](https://mobilegamer.biz/unity-is-offering-a-runtime-fee-waiver-if-you-switch-to-levelplay-as-it-tries-to-kill-applovin/)
 * [2023-09-14, 18:44:35](https://news.ycombinator.com/item?id=37513037) - [On Writing (or not): Bad habits and why the voice in my head needs to shut up](https://bessstillman.substack.com/p/on-writing-or-not)
 * [2023-09-14, 18:44:02](https://news.ycombinator.com/item?id=37513030) - [A clever “perpetual motion” device [video]](https://www.youtube.com/watch?v=r_LG8FDt51U)
@@ -23,8 +25,6 @@
 * [2023-09-14, 06:33:10](https://news.ycombinator.com/item?id=37505687) - [A Comprehensive Guide for Building Rag-Based LLM Applications](https://github.com/ray-project/llm-applications/blob/main/notebooks/rag.ipynb)
 * [2023-09-14, 00:51:35](https://news.ycombinator.com/item?id=37503565) - [Ancient fashion: 3,200-year-old pants on Chinese mummy](https://bigthink.com/the-past/chinese-mummy-worlds-oldest-pants-ancient-fashion/)
 * [2023-09-14, 00:43:29](https://news.ycombinator.com/item?id=37503506) - [Who and What Was a Knocker-Upper?](https://daily.jstor.org/who-and-what-was-a-knocker-upper/)
-* [2023-09-13, 22:57:44](https://news.ycombinator.com/item?id=37502773) - [The Meaning of Lore](https://www.historytoday.com/archive/out-margins/meaning-lore)
-* [2023-09-13, 22:43:17](https://news.ycombinator.com/item?id=37502665) - [Solar](https://patrickcollison.com/solar)
 * [2023-09-13, 20:21:30](https://news.ycombinator.com/item?id=37501231) - [Don’t mess with a genius (2010)](https://shreevatsa.wordpress.com/2010/06/04/dont-mess-with-a-genius/)
 * [2023-09-13, 20:09:21](https://news.ycombinator.com/item?id=37501114) - [Playing Around with Machine Translation](https://davidabell.substack.com/p/playing-around-with-machine-translation)
 * [2023-09-13, 08:03:42](https://news.ycombinator.com/item?id=37493611) - [A Tower of Conjectures That Rests Upon a Needle](https://www.quantamagazine.org/a-tower-of-conjectures-that-rests-upon-a-needle-20230912/)

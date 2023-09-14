@@ -6,6 +6,8 @@
 
 * [2023-09-14, 20:45:06](https://news.ycombinator.com/item?id=37514601) - [MenuetOS](https://menuetos.net)
 * [2023-09-14, 19:59:35](https://news.ycombinator.com/item?id=37514051) - [Rivers are rapidly warming, losing oxygen; aquatic life at risk, study finds](https://www.eurekalert.org/news-releases/1001268)
+* [2023-09-14, 19:38:28](https://news.ycombinator.com/item?id=37513791) - [Toyota’s advanced battery technology roadmap](https://newsroom.toyota.eu/toyotas-advanced-battery-technology-roadmap/)
+* [2023-09-14, 19:25:20](https://news.ycombinator.com/item?id=37513619) - [Arm jumps 18% in market debut to notch $60B valuation](https://www.reuters.com/markets/deals/softbanks-arm-set-debut-nasdaq-after-blockbuster-ipo-2023-09-14/)
 * [2023-09-14, 19:20:27](https://news.ycombinator.com/item?id=37513539) - [Tesla’s new car-building process could be an industrial breakthrough](https://www.theverge.com/2023/9/14/23873345/tesla-gigapress-gigacasting-manufacturing-breakthrough)
 * [2023-09-14, 19:08:15](https://news.ycombinator.com/item?id=37513364) - [Unity will quietly waive fees if developers switch to its ad monetisation](https://www.eurogamer.net/unity-will-quietly-waive-controversial-fees-if-developers-switch-to-its-ad-monetisation-service-report)
 * [2023-09-14, 19:05:34](https://news.ycombinator.com/item?id=37513324) - [Unity is offering a runtime fee waiver if you switch to LevelPlay](https://mobilegamer.biz/unity-is-offering-a-runtime-fee-waiver-if-you-switch-to-levelplay-as-it-tries-to-kill-applovin/)
