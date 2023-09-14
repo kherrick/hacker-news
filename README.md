@@ -14,7 +14,6 @@
 * [2023-09-13, 17:17:27](https://news.ycombinator.com/item?id=37499106) - [The Uselessness of Phenylephrine (2022)](https://www.science.org/content/blog-post/uselessness-phenylephrine)
 * [2023-09-13, 17:05:44](https://news.ycombinator.com/item?id=37498979) - [Bug in macOS 14 Sonoma prevents our app from working](https://mullvad.net/en/blog/2023/9/13/bug-in-macos-14-sonoma-prevents-our-app-from-working/)
 * [2023-09-13, 17:01:36](https://news.ycombinator.com/item?id=37498935) - [SigNoz (YC W21), open-source Datadog, is hiring product designers (remote)](https://signoz.io/careers/product-designer-in/)
-* [2023-09-13, 16:27:10](https://news.ycombinator.com/item?id=37498820) - [WASI Support in Go](https://go.dev/blog/wasi)
 * [2023-09-13, 15:33:28](https://news.ycombinator.com/item?id=37498142) - [A DIY near-IR spectrometer](https://caoyuan.scripts.mit.edu/ir_spec.html)
 * [2023-09-13, 15:20:01](https://news.ycombinator.com/item?id=37497956) - [Bitty Engine: An itty bitty game engine](https://paladin-t.github.io/bitty/)
 * [2023-09-13, 14:37:55](https://news.ycombinator.com/item?id=37497345) - [Skip the API, ship your database](https://fly.io/blog/skip-the-api/)
@@ -23,13 +22,14 @@
 * [2023-09-13, 12:18:23](https://news.ycombinator.com/item?id=37495731) - [VoCore – Coin-sized Linux Computer](https://vocore.io/)
 * [2023-09-13, 09:58:14](https://news.ycombinator.com/item?id=37494605) - [RustRover – A standalone Rust IDE](https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/)
 * [2023-09-13, 00:34:34](https://news.ycombinator.com/item?id=37490644) - [The Greatest Counterfeiter (2021)](https://www.guo.io/the-greatest-counterfeiter-in-the-world/)
+* [2023-09-12, 23:49:12](https://news.ycombinator.com/item?id=37490286) - [The Lindy Effect](https://arxiv.org/abs/2308.09045)
 * [2023-09-12, 18:18:47](https://news.ycombinator.com/item?id=37485234) - [FM Radio Wave Based Early Earthquake Detection](https://www.semanticscholar.org/paper/FM-Radio-Wave-Based-Early-Earthquake-Detection-S.-A./9c16db904623d7aa794ea90ae7d0067d6ea71d96)
+* [2023-09-12, 16:23:07](https://news.ycombinator.com/item?id=37483647) - [Lawrence Wright on Larry McMurtry](https://themillions.com/2023/09/lawrence-wright-on-larry-mcmurtry.html)
 * [2023-09-12, 12:26:21](https://news.ycombinator.com/item?id=37480039) - [Scientists figured out how to write in water](https://arstechnica.com/science/2023/09/scientists-figured-out-how-to-write-in-water/)
 * [2023-09-12, 12:14:23](https://news.ycombinator.com/item?id=37479901) - [Control USB power on a port by port basis on some USB hubs](https://github.com/codazoda/hub-ctrl.c)
 * [2023-09-12, 11:45:46](https://news.ycombinator.com/item?id=37479596) - [I think I kind of hate lazy loading](https://shkspr.mobi/blog/2023/09/i-think-i-kind-of-hate-lazy-loading/)
 * [2023-09-12, 08:50:37](https://news.ycombinator.com/item?id=37478347) - [Birb: Programming with bird emojis](https://esolangs.org/wiki/Birb)
 * [2023-09-12, 08:13:12](https://news.ycombinator.com/item?id=37478111) - [Category Theory Illustrated – Sets](https://abuseofnotation.github.io/category-theory-illustrated/01_set/)
-* [2023-09-12, 07:16:27](https://news.ycombinator.com/item?id=37477751) - [An aroma picker for the Le Nez du Vin game](https://blog.jgc.org/2023/09/weekend-bricolage-aroma-picker-for-le.html)
 
 ## [Archives](archives/index.md)
 
