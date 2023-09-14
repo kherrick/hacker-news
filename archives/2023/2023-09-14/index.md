@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-09-14](index.md)
 
+* [2023-09-14, 12:02:32](https://news.ycombinator.com/item?id=37507776) - [Firezone (YC W22) is hiring rust engineers to build secure networks](https://www.ycombinator.com/companies/firezone/jobs)
+* [2023-09-14, 11:50:25](https://news.ycombinator.com/item?id=37507676) - [Ask HN: A network device that doesn't exist?](https://news.ycombinator.com/item?id=37507676)
+* [2023-09-14, 11:19:39](https://news.ycombinator.com/item?id=37507458) - [Tech Workers Deserve a Union: An Interview with Ethan Marcotte](https://workerorganizing.org/tech-workers-deserve-a-union-6904/)
 * [2023-09-14, 11:10:23](https://news.ycombinator.com/item?id=37507414) - [Linux Phones (2022)](https://madaidans-insecurities.github.io/linux-phones.html)
 * [2023-09-14, 11:02:16](https://news.ycombinator.com/item?id=37507372) - [Millionaire CEO wants unemployment to jump to 50% because workers are ‘arrogant’](https://www.independent.co.uk/news/world/americas/tim-gurner-property-developer-australia-b2411161.html)
+* [2023-09-14, 11:00:46](https://news.ycombinator.com/item?id=37507355) - [How to Build a IP Geolocation Database from Scratch?](https://ipapi.is/geolocation.html)
 * [2023-09-14, 10:42:24](https://news.ycombinator.com/item?id=37507226) - [Calif. passes strongest right-to-repair bill yet, requiring 7 years of parts](https://arstechnica.com/gadgets/2023/09/calif-passes-strongest-right-to-repair-bill-yet-requiring-7-years-of-parts/)
 * [2023-09-14, 09:16:51](https://news.ycombinator.com/item?id=37506654) - [XFCE Wayland Development Roadmap](https://wiki.xfce.org/releng/wayland_roadmap)
 * [2023-09-14, 09:14:54](https://news.ycombinator.com/item?id=37506640) - [Johnny Decimal: A System to Organize Projects](https://johnnydecimal.com)
