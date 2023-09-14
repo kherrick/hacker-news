@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-09-14, 06:54:22",
+      "https://news.ycombinator.com/item?id=37505798"
+    ],
+    [
+      "How Far Back in Time Can I Take My Website's Design?",
+      "https://ajxs.me/blog/How_Far_Back_in_Time_Can_I_Take_My_Websites_Design.html"
+    ]
+  ],
+  [
+    [
       "2023-09-14, 06:33:10",
       "https://news.ycombinator.com/item?id=37505687"
     ],
@@ -57,6 +67,16 @@
     [
       "The easy way to concurrency and parallelism with Python stdlib",
       "https://www.bitecode.dev/p/the-easy-way-to-concurrency-and-parallelism"
+    ]
+  ],
+  [
+    [
+      "2023-09-14, 05:47:20",
+      "https://news.ycombinator.com/item?id=37505422"
+    ],
+    [
+      "Electric Hydrogen reveals first firm order for its unique 100MW electrolyser",
+      "https://www.hydrogeninsight.com/innovation/secretive-bill-gates-backed-start-up-electric-hydrogen-reveals-first-firm-order-for-its-unique-100mw-electrolyser/2-1-1517514?zephr_sso_ott=JVoRmi"
     ]
   ],
   [
@@ -127,36 +147,6 @@
     [
       "Don’t mess with a genius (2010)",
       "https://shreevatsa.wordpress.com/2010/06/04/dont-mess-with-a-genius/"
-    ]
-  ],
-  [
-    [
-      "2023-09-13, 19:54:25",
-      "https://news.ycombinator.com/item?id=37500938"
-    ],
-    [
-      "The stack monoid revisited",
-      "https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-13, 19:48:32",
-      "https://news.ycombinator.com/item?id=37500895"
-    ],
-    [
-      "When MFA isn't MFA, or how we got phished",
-      "https://retool.com/blog/mfa-isnt-mfa/"
-    ]
-  ],
-  [
-    [
-      "2023-09-13, 19:38:21",
-      "https://news.ycombinator.com/item?id=37500781"
-    ],
-    [
-      "Show HN: Kr8s – a Python client library for Kubernetes",
-      "https://github.com/kr8s-org/kr8s"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Metastable Failures in the Wild",
       "http://muratbuffalo.blogspot.com/2023/09/metastable-failures-in-wild.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-13, 03:31:07",
+      "https://news.ycombinator.com/item?id=37491862"
+    ],
+    [
+      "Any sufficiently advanced uninstaller is indistinguishable from malware",
+      "https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749"
     ]
   ],
   [
