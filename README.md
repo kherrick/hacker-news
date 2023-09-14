@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-14, 11:10:23](https://news.ycombinator.com/item?id=37507414) - [Linux Phones (2022)](https://madaidans-insecurities.github.io/linux-phones.html)
-* [2023-09-14, 11:02:16](https://news.ycombinator.com/item?id=37507372) - [Millionaire CEO wants unemployment to jump to 50% because workers are ‘arrogant’](https://www.independent.co.uk/news/world/americas/tim-gurner-property-developer-australia-b2411161.html)
 * [2023-09-14, 10:42:24](https://news.ycombinator.com/item?id=37507226) - [Calif. passes strongest right-to-repair bill yet, requiring 7 years of parts](https://arstechnica.com/gadgets/2023/09/calif-passes-strongest-right-to-repair-bill-yet-requiring-7-years-of-parts/)
 * [2023-09-14, 09:16:51](https://news.ycombinator.com/item?id=37506654) - [XFCE Wayland Development Roadmap](https://wiki.xfce.org/releng/wayland_roadmap)
 * [2023-09-14, 09:14:54](https://news.ycombinator.com/item?id=37506640) - [Johnny Decimal: A System to Organize Projects](https://johnnydecimal.com)
@@ -10,6 +9,7 @@
 * [2023-09-14, 06:54:22](https://news.ycombinator.com/item?id=37505798) - [How Far Back in Time Can I Take My Website's Design?](https://ajxs.me/blog/How_Far_Back_in_Time_Can_I_Take_My_Websites_Design.html)
 * [2023-09-14, 06:33:10](https://news.ycombinator.com/item?id=37505687) - [A Comprehensive Guide for Building Rag-Based LLM Applications](https://github.com/ray-project/llm-applications/blob/main/notebooks/rag.ipynb)
 * [2023-09-14, 06:14:10](https://news.ycombinator.com/item?id=37505553) - [The easy way to concurrency and parallelism with Python stdlib](https://www.bitecode.dev/p/the-easy-way-to-concurrency-and-parallelism)
+* [2023-09-14, 05:47:20](https://news.ycombinator.com/item?id=37505422) - [Electric Hydrogen reveals first firm order for its unique 100MW electrolyser](https://www.hydrogeninsight.com/innovation/secretive-bill-gates-backed-start-up-electric-hydrogen-reveals-first-firm-order-for-its-unique-100mw-electrolyser/2-1-1517514?zephr_sso_ott=JVoRmi)
 * [2023-09-14, 03:16:47](https://news.ycombinator.com/item?id=37504559) - [Mathematics of Hurricane Modeling and Forecasting (2008, ppt) [pdf]](https://www.mdc.edu/north/math/pdf/hurricanes-math.pdf)
 * [2023-09-14, 01:16:31](https://news.ycombinator.com/item?id=37503731) - [Detecting SSH Tunnels (2017)](https://www.trisul.org/blog/detecting-ssh-tunnels/)
 * [2023-09-13, 23:15:07](https://news.ycombinator.com/item?id=37502903) - [Restoration of an IMSAI 8080](https://retrocmp.de/imsai/imsai_p01_restoration.htm)
