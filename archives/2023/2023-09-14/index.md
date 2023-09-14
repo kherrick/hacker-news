@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-14](index.md)
 
 * [2023-09-14, 09:16:51](https://news.ycombinator.com/item?id=37506654) - [XFCE Wayland Development Roadmap](https://wiki.xfce.org/releng/wayland_roadmap)
+* [2023-09-14, 09:14:54](https://news.ycombinator.com/item?id=37506640) - [Johnny Decimal: A System to Organize Projects](https://johnnydecimal.com)
 * [2023-09-14, 08:59:12](https://news.ycombinator.com/item?id=37506542) - [Ask HN: Do you use food as a performance enhancing drug when coding?](https://news.ycombinator.com/item?id=37506542)
 * [2023-09-14, 08:50:07](https://news.ycombinator.com/item?id=37506482) - [Fiji Mermaid](https://en.wikipedia.org/wiki/Fiji_mermaid)
 * [2023-09-14, 08:32:31](https://news.ycombinator.com/item?id=37506386) - [How mobile apps illegally share your personal data](https://noyb.eu/en/how-mobile-apps-illegally-share-your-personal-data)
@@ -12,6 +13,7 @@
 * [2023-09-14, 07:55:18](https://news.ycombinator.com/item?id=37506190) - [3D printing on OpenBSD? Yes, that’s a thing](https://undeadly.org/cgi?action=article;sid=20230914075444)
 * [2023-09-14, 06:33:10](https://news.ycombinator.com/item?id=37505687) - [A Comprehensive Guide for Building Rag-Based LLM Applications](https://github.com/ray-project/llm-applications/blob/main/notebooks/rag.ipynb)
 * [2023-09-14, 06:22:40](https://news.ycombinator.com/item?id=37505606) - [What to expect from upvotes on Hacker News](https://antonz.org/hn-upvotes/)
+* [2023-09-14, 06:14:10](https://news.ycombinator.com/item?id=37505553) - [The easy way to concurrency and parallelism with Python stdlib](https://www.bitecode.dev/p/the-easy-way-to-concurrency-and-parallelism)
 * [2023-09-14, 05:03:31](https://news.ycombinator.com/item?id=37505168) - [SpaceX projected 20M Starlink users by 2022–it ended up with 1M](https://arstechnica.com/tech-policy/2023/09/spacex-projected-20-million-starlink-users-by-2022-it-ended-up-with-1-million/)
 * [2023-09-14, 03:41:55](https://news.ycombinator.com/item?id=37504720) - [Early response to false claims in Wikipedia, 15 years later](https://firstmonday.org/ojs/index.php/fm/article/view/12912/11332)
 * [2023-09-14, 03:18:27](https://news.ycombinator.com/item?id=37504569) - [The great American eye-exam scam (2019)](https://www.theatlantic.com/ideas/archive/2019/11/great-american-eye-exam-scam/602482/)
