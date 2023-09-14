@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-14](index.md)
 
+* [2023-09-14, 18:44:35](https://news.ycombinator.com/item?id=37513037) - [On Writing (or not): Bad habits and why the voice in my head needs to shut up](https://bessstillman.substack.com/p/on-writing-or-not)
+* [2023-09-14, 18:44:02](https://news.ycombinator.com/item?id=37513030) - [“perpetual motion” device is clever [video]](https://www.youtube.com/watch?v=r_LG8FDt51U)
 * [2023-09-14, 18:26:58](https://news.ycombinator.com/item?id=37512795) - [‘Credible’ Death Threat Causes Unity to Close Two Offices](https://kotaku.com/unity-death-threat-texas-sf-offices-town-hall-canceled-1850838902)
 * [2023-09-14, 18:03:25](https://news.ycombinator.com/item?id=37512512) - [Unity cancels town hall over reported death threats](https://www.theverge.com/2023/9/14/23873628/unity-death-threats-john-riccitiello)
 * [2023-09-14, 17:41:40](https://news.ycombinator.com/item?id=37512216) - [Can I take ducks home from the park?](https://dynomight.net/ducks/)

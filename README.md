@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-14, 18:44:35](https://news.ycombinator.com/item?id=37513037) - [On Writing (or not): Bad habits and why the voice in my head needs to shut up](https://bessstillman.substack.com/p/on-writing-or-not)
+* [2023-09-14, 18:44:02](https://news.ycombinator.com/item?id=37513030) - [“perpetual motion” device is clever [video]](https://www.youtube.com/watch?v=r_LG8FDt51U)
 * [2023-09-14, 18:03:25](https://news.ycombinator.com/item?id=37512512) - [Unity cancels town hall over reported death threats](https://www.theverge.com/2023/9/14/23873628/unity-death-threats-john-riccitiello)
 * [2023-09-14, 17:41:40](https://news.ycombinator.com/item?id=37512216) - [Can I take ducks home from the park?](https://dynomight.net/ducks/)
 * [2023-09-14, 17:00:39](https://news.ycombinator.com/item?id=37511584) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37511584)
@@ -18,8 +20,6 @@
 * [2023-09-14, 11:57:56](https://news.ycombinator.com/item?id=37507734) - [Show HN: Improved freemusicdemixer – AI music demixing in the browser](https://freemusicdemixer.com/)
 * [2023-09-14, 11:00:46](https://news.ycombinator.com/item?id=37507355) - [How to build a IP geolocation database from scratch?](https://ipapi.is/geolocation.html)
 * [2023-09-14, 10:42:24](https://news.ycombinator.com/item?id=37507226) - [Calif. passes strongest right-to-repair bill yet, requiring 7 years of parts](https://arstechnica.com/gadgets/2023/09/calif-passes-strongest-right-to-repair-bill-yet-requiring-7-years-of-parts/)
-* [2023-09-14, 08:32:31](https://news.ycombinator.com/item?id=37506386) - [How mobile apps illegally share personal data](https://noyb.eu/en/how-mobile-apps-illegally-share-your-personal-data)
-* [2023-09-14, 07:55:18](https://news.ycombinator.com/item?id=37506190) - [3D printing on OpenBSD? Yes, that’s a thing](https://undeadly.org/cgi?action=article;sid=20230914075444)
 * [2023-09-14, 06:33:10](https://news.ycombinator.com/item?id=37505687) - [A Comprehensive Guide for Building Rag-Based LLM Applications](https://github.com/ray-project/llm-applications/blob/main/notebooks/rag.ipynb)
 * [2023-09-14, 06:14:10](https://news.ycombinator.com/item?id=37505553) - [An easy way to concurrency and parallelism with Python stdlib](https://www.bitecode.dev/p/the-easy-way-to-concurrency-and-parallelism)
 * [2023-09-13, 22:57:44](https://news.ycombinator.com/item?id=37502773) - [The Meaning of Lore](https://www.historytoday.com/archive/out-margins/meaning-lore)
