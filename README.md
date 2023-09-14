@@ -23,11 +23,11 @@
 * [2023-09-14, 12:18:16](https://news.ycombinator.com/item?id=37507916) - [Bacteria generate electricity from wastewater](https://actu.epfl.ch/news/bacteria-generate-electricity-from-wastewater/)
 * [2023-09-14, 11:57:56](https://news.ycombinator.com/item?id=37507734) - [Show HN: Improved freemusicdemixer – AI music demixing in the browser](https://freemusicdemixer.com/)
 * [2023-09-14, 11:00:46](https://news.ycombinator.com/item?id=37507355) - [How to build a IP geolocation database from scratch?](https://ipapi.is/geolocation.html)
-* [2023-09-14, 06:33:10](https://news.ycombinator.com/item?id=37505687) - [A Comprehensive Guide for Building Rag-Based LLM Applications](https://github.com/ray-project/llm-applications/blob/main/notebooks/rag.ipynb)
 * [2023-09-14, 00:51:35](https://news.ycombinator.com/item?id=37503565) - [Ancient fashion: 3,200-year-old pants on Chinese mummy](https://bigthink.com/the-past/chinese-mummy-worlds-oldest-pants-ancient-fashion/)
 * [2023-09-14, 00:43:29](https://news.ycombinator.com/item?id=37503506) - [Who and What Was a Knocker-Upper?](https://daily.jstor.org/who-and-what-was-a-knocker-upper/)
 * [2023-09-13, 20:21:30](https://news.ycombinator.com/item?id=37501231) - [Don’t mess with a genius (2010)](https://shreevatsa.wordpress.com/2010/06/04/dont-mess-with-a-genius/)
 * [2023-09-13, 20:09:21](https://news.ycombinator.com/item?id=37501114) - [Playing Around with Machine Translation](https://davidabell.substack.com/p/playing-around-with-machine-translation)
+* [2023-09-13, 08:03:42](https://news.ycombinator.com/item?id=37493611) - [A Tower of Conjectures That Rests Upon a Needle](https://www.quantamagazine.org/a-tower-of-conjectures-that-rests-upon-a-needle-20230912/)
 * [2023-09-13, 06:22:04](https://news.ycombinator.com/item?id=37492877) - [Hypervisor from Scratch (2022)](https://rayanfam.com/tutorials/)
 * [2023-09-12, 23:00:41](https://news.ycombinator.com/item?id=37489801) - [Compile time regular expression in C++](https://github.com/hanickadot/compile-time-regular-expressions)
 
