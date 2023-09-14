@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-14, 17:00:39](https://news.ycombinator.com/item?id=37511584) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37511584)
-* [2023-09-14, 16:36:27](https://news.ycombinator.com/item?id=37511217) - [Earth beyond six of nine planetary boundaries](https://www.science.org/doi/10.1126/sciadv.adh2458#sec-2)
 * [2023-09-14, 16:24:52](https://news.ycombinator.com/item?id=37511036) - [Intermediate sci knowledge associated with overconfidence and negative attitudes](https://www.nature.com/articles/s41562-023-01677-8)
 * [2023-09-14, 16:19:42](https://news.ycombinator.com/item?id=37510958) - [Video-Game Company Unity Closes Offices Following Death Threat](https://www.bloomberg.com/news/articles/2023-09-14/video-game-company-unity-closes-offices-following-death-threat)
 * [2023-09-14, 16:17:20](https://news.ycombinator.com/item?id=37510920) - [Unity’s pricing is a symptom, not the cause of tougher times for the industry](https://www.gamesindustry.biz/unitys-pricing-is-a-symptom-not-the-cause-of-tougher-times-ahead-for-the-games-industry-opinion)
@@ -21,6 +20,7 @@
 * [2023-09-14, 11:00:46](https://news.ycombinator.com/item?id=37507355) - [How to build a IP geolocation database from scratch?](https://ipapi.is/geolocation.html)
 * [2023-09-14, 10:42:24](https://news.ycombinator.com/item?id=37507226) - [Calif. passes strongest right-to-repair bill yet, requiring 7 years of parts](https://arstechnica.com/gadgets/2023/09/calif-passes-strongest-right-to-repair-bill-yet-requiring-7-years-of-parts/)
 * [2023-09-14, 08:32:31](https://news.ycombinator.com/item?id=37506386) - [How mobile apps illegally share personal data](https://noyb.eu/en/how-mobile-apps-illegally-share-your-personal-data)
+* [2023-09-14, 07:55:18](https://news.ycombinator.com/item?id=37506190) - [3D printing on OpenBSD? Yes, that’s a thing](https://undeadly.org/cgi?action=article;sid=20230914075444)
 * [2023-09-14, 06:54:22](https://news.ycombinator.com/item?id=37505798) - [How far back in time can I take my website's design?](https://ajxs.me/blog/How_Far_Back_in_Time_Can_I_Take_My_Websites_Design.html)
 * [2023-09-14, 06:33:10](https://news.ycombinator.com/item?id=37505687) - [A Comprehensive Guide for Building Rag-Based LLM Applications](https://github.com/ray-project/llm-applications/blob/main/notebooks/rag.ipynb)
 * [2023-09-14, 06:14:10](https://news.ycombinator.com/item?id=37505553) - [An easy way to concurrency and parallelism with Python stdlib](https://www.bitecode.dev/p/the-easy-way-to-concurrency-and-parallelism)
