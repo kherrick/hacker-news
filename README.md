@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-14, 13:34:01](https://news.ycombinator.com/item?id=37508829) - [NASA Release Unidentified Anomalous Phenomena Final Report [pdf]](https://science.nasa.gov/science-pink/s3fs-public/atoms/files/UAP%20Independent%20Study%20Team%20-%20Final%20Report_0.pdf)
+* [2023-09-14, 14:17:56](https://news.ycombinator.com/item?id=37509427) - [Arm IPO to kick off today with company valued at $54.5B](https://www.theregister.com/2023/09/14/arm_ipo/)
+* [2023-09-14, 13:34:01](https://news.ycombinator.com/item?id=37508829) - [Unidentified anomalous phenomena – Independent study team report [pdf]](https://science.nasa.gov/science-pink/s3fs-public/atoms/files/UAP%20Independent%20Study%20Team%20-%20Final%20Report_0.pdf)
 * [2023-09-14, 13:18:38](https://news.ycombinator.com/item?id=37508623) - [Utah officials sued over failure to save Great Salt Lake](https://www.theguardian.com/us-news/2023/sep/06/utah-great-salt-lake-lawsuit-collapse-environment)
 * [2023-09-14, 13:06:26](https://news.ycombinator.com/item?id=37508471) - [PostgreSQL 16](https://www.postgresql.org/about/news/postgresql-16-released-2715/)
 * [2023-09-14, 13:05:33](https://news.ycombinator.com/item?id=37508456) - [Public exposure to BPA exceeds acceptable health safety levels](https://www.eea.europa.eu/en/newsroom/news/public-exposure-to-bisphenol-a)
 * [2023-09-14, 12:36:46](https://news.ycombinator.com/item?id=37508094) - [Client harassed by The Type founders for using Proxima Nova font on website](https://community.adobe.com/t5/type-typography-discussions/client-being-harassed-by-the-type-founders-for-using-proxima-nova-font-on-website/td-p/13992446)
-* [2023-09-14, 12:33:00](https://news.ycombinator.com/item?id=37508058) - [Diamonds are losing their allure](https://www.economist.com/finance-and-economics/2023/09/13/why-diamonds-are-losing-their-allure)
 * [2023-09-14, 12:18:16](https://news.ycombinator.com/item?id=37507916) - [Bacteria Generate Electricity from Wastewater](https://actu.epfl.ch/news/bacteria-generate-electricity-from-wastewater/)
 * [2023-09-14, 12:04:31](https://news.ycombinator.com/item?id=37507802) - [HTTP Status Dogs. Hypertext Transfer Protocol Response Status Codes. and Dogs](https://httpstatusdogs.com/)
 * [2023-09-14, 12:02:32](https://news.ycombinator.com/item?id=37507776) - [Firezone (YC W22) is hiring Rust engineers to build secure networks](https://www.ycombinator.com/companies/firezone/jobs)
