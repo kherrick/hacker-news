@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-14, 01:30:55](https://news.ycombinator.com/item?id=37503837) - [Unity introduces per-install fee for game developers](https://unity.com/runtime-fee)
-* [2023-09-14, 00:27:25](https://news.ycombinator.com/item?id=37503403) - [FBI Hacker Dropped Stolen Airbus Data on 9/11](https://krebsonsecurity.com/2023/09/fbi-hacker-dropped-stolen-airbus-data-on-9-11/)
+* [2023-09-14, 02:30:21](https://news.ycombinator.com/item?id=37504223) - [RustRover – A Standalone Rust IDE by JetBrains](https://old.reddit.com/r/rust/comments/16hiw6o/introducing_rustrover_a_standalone_rust_ide_by/)
 * [2023-09-14, 00:19:07](https://news.ycombinator.com/item?id=37503351) - [Game Development Post-Unity](https://www.computerenhance.com/p/game-development-post-unity)
 * [2023-09-13, 23:33:08](https://news.ycombinator.com/item?id=37503044) - [Cache AnyThing filesystem written in Rust](https://github.com/kahing/catfs)
 * [2023-09-13, 23:14:03](https://news.ycombinator.com/item?id=37502892) - [Marvel visual effects artists unanimously vote to unionize](https://www.cnbc.com/2023/09/13/marvel-vfx-artists-unanimously-vote-to-unionize.html)
@@ -13,6 +12,7 @@
 * [2023-09-13, 19:48:32](https://news.ycombinator.com/item?id=37500895) - [When MFA isn't MFA, or how we got phished](https://retool.com/blog/mfa-isnt-mfa/)
 * [2023-09-13, 19:38:21](https://news.ycombinator.com/item?id=37500781) - [Show HN: Kr8s – a Python client library for Kubernetes](https://github.com/kr8s-org/kr8s)
 * [2023-09-13, 17:41:58](https://news.ycombinator.com/item?id=37499375) - [Show HN: Lantern – a PostgreSQL vector database for building AI applications](https://docs.lantern.dev/blog/2023/09/13/hello-world)
+* [2023-09-13, 17:17:27](https://news.ycombinator.com/item?id=37499106) - [The Uselessness of Phenylephrine (2022)](https://www.science.org/content/blog-post/uselessness-phenylephrine)
 * [2023-09-13, 17:05:44](https://news.ycombinator.com/item?id=37498979) - [Bug in macOS 14 Sonoma prevents our app from working](https://mullvad.net/en/blog/2023/9/13/bug-in-macos-14-sonoma-prevents-our-app-from-working/)
 * [2023-09-13, 17:01:36](https://news.ycombinator.com/item?id=37498935) - [SigNoz (YC W21), open-source Datadog, is hiring product designers (remote)](https://signoz.io/careers/product-designer-in/)
 * [2023-09-13, 15:33:28](https://news.ycombinator.com/item?id=37498142) - [A DIY near-IR spectrometer](https://caoyuan.scripts.mit.edu/ir_spec.html)
