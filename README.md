@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-14, 06:22:40](https://news.ycombinator.com/item?id=37505606) - [What to expect from upvotes on Hacker News](https://antonz.org/hn-upvotes/)
 * [2023-09-14, 03:18:27](https://news.ycombinator.com/item?id=37504569) - [The great American eye-exam scam (2019)](https://www.theatlantic.com/ideas/archive/2019/11/great-american-eye-exam-scam/602482/)
 * [2023-09-14, 03:16:47](https://news.ycombinator.com/item?id=37504559) - [Mathematics of Hurricane Modeling and Forecasting (2008, ppt) [pdf]](https://www.mdc.edu/north/math/pdf/hurricanes-math.pdf)
 * [2023-09-14, 01:16:31](https://news.ycombinator.com/item?id=37503731) - [Detecting SSH Tunnels (2017)](https://www.trisul.org/blog/detecting-ssh-tunnels/)
@@ -21,7 +22,6 @@
 * [2023-09-13, 09:56:55](https://news.ycombinator.com/item?id=37494595) - [Let's write a treesitter major mode for Emacs](https://www.masteringemacs.org/article/lets-write-a-treesitter-major-mode)
 * [2023-09-13, 08:06:52](https://news.ycombinator.com/item?id=37493633) - [Psycho and the end of the continuously showing movie](https://kottke.org/23/09/psycho-and-the-end-of-the-continuously-showing-movie)
 * [2023-09-13, 07:04:53](https://news.ycombinator.com/item?id=37493160) - [M5, the largest single-masted sailing yacht in the world](https://www.boatinternational.com/yachts/editorial-features/sailing-yacht-m5)
-* [2023-09-13, 03:31:07](https://news.ycombinator.com/item?id=37491862) - [Any sufficiently advanced uninstaller is indistinguishable from malware](https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749)
 * [2023-09-12, 23:49:12](https://news.ycombinator.com/item?id=37490286) - [The Lindy Effect](https://arxiv.org/abs/2308.09045)
 * [2023-09-12, 18:18:47](https://news.ycombinator.com/item?id=37485234) - [FM radio wave-based early earthquake detection](https://www.semanticscholar.org/paper/FM-Radio-Wave-Based-Early-Earthquake-Detection-S.-A./9c16db904623d7aa794ea90ae7d0067d6ea71d96)
 * [2023-09-12, 12:26:21](https://news.ycombinator.com/item?id=37480039) - [Scientists figured out how to write in water](https://arstechnica.com/science/2023/09/scientists-figured-out-how-to-write-in-water/)
