@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-09-14](index.md)
 
+* [2023-09-14, 17:00:39](https://news.ycombinator.com/item?id=37511584) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37511584)
+* [2023-09-14, 16:36:27](https://news.ycombinator.com/item?id=37511217) - [Earth beyond six of nine planetary boundaries](https://www.science.org/doi/10.1126/sciadv.adh2458#sec-2)
+* [2023-09-14, 16:24:52](https://news.ycombinator.com/item?id=37511036) - [Intermediate sci knowledge associated with overconfidence and negative attitudes](https://www.nature.com/articles/s41562-023-01677-8)
 * [2023-09-14, 16:19:42](https://news.ycombinator.com/item?id=37510958) - [Video-Game Company Unity Closes Offices Following Death Threat](https://www.bloomberg.com/news/articles/2023-09-14/video-game-company-unity-closes-offices-following-death-threat)
 * [2023-09-14, 16:17:20](https://news.ycombinator.com/item?id=37510920) - [Unity’s pricing is a symptom, not the cause of tougher times for the industry](https://www.gamesindustry.biz/unitys-pricing-is-a-symptom-not-the-cause-of-tougher-times-ahead-for-the-games-industry-opinion)
+* [2023-09-14, 16:15:40](https://news.ycombinator.com/item?id=37510885) - [Stolen van Gogh Painting Worth Millions Returned in an IKEA Bag](https://www.smithsonianmag.com/smart-news/dutch-art-detective-recovers-a-van-gogh-stolen-in-2020-180982896/)
 * [2023-09-14, 16:10:22](https://news.ycombinator.com/item?id=37510816) - [When the Homeowners Association Comes for Your Home](https://www.bloomberg.com/news/features/2023-09-14/hoa-foreclosures-continue-in-colorado-despite-reform)
 * [2023-09-14, 16:00:27](https://news.ycombinator.com/item?id=37510699) - [v0: Generate UI with simple text prompts](https://v0.dev)
 * [2023-09-14, 15:45:18](https://news.ycombinator.com/item?id=37510517) - [How I stay reasonably anonymous online](https://tmp.bearblog.dev/how-i-stay-reasonably-anonymous-online/)
