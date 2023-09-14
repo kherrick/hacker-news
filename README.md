@@ -2,8 +2,8 @@
 
 * [2023-09-14, 17:00:39](https://news.ycombinator.com/item?id=37511584) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37511584)
 * [2023-09-14, 16:24:52](https://news.ycombinator.com/item?id=37511036) - [Intermediate sci knowledge associated with overconfidence and negative attitudes](https://www.nature.com/articles/s41562-023-01677-8)
-* [2023-09-14, 16:17:20](https://news.ycombinator.com/item?id=37510920) - [Unity’s pricing is a symptom, not the cause of tougher times for the industry](https://www.gamesindustry.biz/unitys-pricing-is-a-symptom-not-the-cause-of-tougher-times-ahead-for-the-games-industry-opinion)
 * [2023-09-14, 16:15:40](https://news.ycombinator.com/item?id=37510885) - [Stolen van Gogh painting returned in an IKEA bag](https://www.smithsonianmag.com/smart-news/dutch-art-detective-recovers-a-van-gogh-stolen-in-2020-180982896/)
+* [2023-09-14, 16:14:26](https://news.ycombinator.com/item?id=37510867) - [Exposition of a New Theory on the Measurement of Risk (1738) [pdf]](https://psych.fullerton.edu/mbirnbaum/psych466/articles/bernoulli_econometrica.pdf)
 * [2023-09-14, 16:14:17](https://news.ycombinator.com/item?id=37510865) - [Chromebooks will get 10 years of automatic updates](https://blog.google/outreach-initiatives/education/automatic-update-extension-chromebook/)
 * [2023-09-14, 15:45:18](https://news.ycombinator.com/item?id=37510517) - [How I stay reasonably anonymous online (2022)](https://tmp.bearblog.dev/how-i-stay-reasonably-anonymous-online/)
 * [2023-09-14, 15:28:18](https://news.ycombinator.com/item?id=37510279) - [This post will not go viral](https://www.houseofstrauss.com/p/this-post-will-not-go-viral)
