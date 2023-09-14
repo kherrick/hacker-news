@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-14, 00:55:34](https://news.ycombinator.com/item?id=37503587) - [I shamefully paid for Sublime Text](https://github.com/kapitanluffy/i-shamefully-paid-for-sublime-text)
 * [2023-09-14, 00:27:25](https://news.ycombinator.com/item?id=37503403) - [FBI Hacker Dropped Stolen Airbus Data on 9/11](https://krebsonsecurity.com/2023/09/fbi-hacker-dropped-stolen-airbus-data-on-9-11/)
 * [2023-09-14, 00:19:07](https://news.ycombinator.com/item?id=37503351) - [Game Development Post-Unity](https://www.computerenhance.com/p/game-development-post-unity)
 * [2023-09-13, 23:14:03](https://news.ycombinator.com/item?id=37502892) - [Marvel visual effects artists unanimously vote to unionize](https://www.cnbc.com/2023/09/13/marvel-vfx-artists-unanimously-vote-to-unionize.html)
@@ -26,6 +25,7 @@
 * [2023-09-12, 12:26:21](https://news.ycombinator.com/item?id=37480039) - [Scientists figured out how to write in water](https://arstechnica.com/science/2023/09/scientists-figured-out-how-to-write-in-water/)
 * [2023-09-12, 12:14:23](https://news.ycombinator.com/item?id=37479901) - [Control USB power on a port by port basis on some USB hubs](https://github.com/codazoda/hub-ctrl.c)
 * [2023-09-12, 08:50:37](https://news.ycombinator.com/item?id=37478347) - [Birb: Programming with Bird Emojis](https://esolangs.org/wiki/Birb)
+* [2023-09-12, 08:49:57](https://news.ycombinator.com/item?id=37478341) - [86Box v4.0](https://86box.net/2023/08/26/86box-v4-0.html)
 * [2023-09-12, 08:13:12](https://news.ycombinator.com/item?id=37478111) - [Category Theory Illustrated – Sets](https://abuseofnotation.github.io/category-theory-illustrated/01_set/)
 * [2023-09-12, 08:10:07](https://news.ycombinator.com/item?id=37478097) - [Greatest “Classic” Mac Laptop: Powerbook G3 Pismo (2021)](https://www.amigalove.com/viewtopic.php?t=1796)
 * [2023-09-12, 07:23:28](https://news.ycombinator.com/item?id=37477797) - [Engraving](https://www.metmuseum.org/about-the-met/collection-areas/drawings-and-prints/materials-and-techniques/printmaking/engraving)
