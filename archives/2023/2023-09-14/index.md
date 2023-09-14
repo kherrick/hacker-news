@@ -76,6 +76,7 @@
 * [2023-09-14, 01:30:55](https://news.ycombinator.com/item?id=37503837) - [Unity introduces per-install fee for game developers](https://unity.com/runtime-fee)
 * [2023-09-14, 01:16:31](https://news.ycombinator.com/item?id=37503731) - [Detecting SSH Tunnels (2017)](https://www.trisul.org/blog/detecting-ssh-tunnels/)
 * [2023-09-14, 00:55:34](https://news.ycombinator.com/item?id=37503587) - [I shamefully paid for Sublime Text](https://github.com/kapitanluffy/i-shamefully-paid-for-sublime-text)
+* [2023-09-14, 00:51:35](https://news.ycombinator.com/item?id=37503565) - [Ancient fashion: 3,200-year-old pants on Chinese mummy](https://bigthink.com/the-past/chinese-mummy-worlds-oldest-pants-ancient-fashion/)
 * [2023-09-14, 00:43:29](https://news.ycombinator.com/item?id=37503506) - [Who and What Was a Knocker-Upper?](https://daily.jstor.org/who-and-what-was-a-knocker-upper/)
 * [2023-09-14, 00:27:25](https://news.ycombinator.com/item?id=37503403) - [FBI Hacker Dropped Stolen Airbus Data on 9/11](https://krebsonsecurity.com/2023/09/fbi-hacker-dropped-stolen-airbus-data-on-9-11/)
 * [2023-09-14, 00:19:07](https://news.ycombinator.com/item?id=37503351) - [Game Development Post-Unity](https://www.computerenhance.com/p/game-development-post-unity)
