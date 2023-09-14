@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-14](index.md)
 
+* [2023-09-14, 05:03:31](https://news.ycombinator.com/item?id=37505168) - [SpaceX projected 20M Starlink users by 2022–it ended up with 1M](https://arstechnica.com/tech-policy/2023/09/spacex-projected-20-million-starlink-users-by-2022-it-ended-up-with-1-million/)
 * [2023-09-14, 03:41:55](https://news.ycombinator.com/item?id=37504720) - [Early response to false claims in Wikipedia, 15 years later](https://firstmonday.org/ojs/index.php/fm/article/view/12912/11332)
 * [2023-09-14, 03:16:47](https://news.ycombinator.com/item?id=37504559) - [Mathematics of Hurricane Modeling and Forecasting (2008, ppt) [pdf]](https://www.mdc.edu/north/math/pdf/hurricanes-math.pdf)
 * [2023-09-14, 02:30:21](https://news.ycombinator.com/item?id=37504223) - [RustRover – A Standalone Rust IDE by JetBrains](https://old.reddit.com/r/rust/comments/16hiw6o/introducing_rustrover_a_standalone_rust_ide_by/)

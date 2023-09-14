@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-14, 05:03:31](https://news.ycombinator.com/item?id=37505168) - [SpaceX projected 20M Starlink users by 2022–it ended up with 1M](https://arstechnica.com/tech-policy/2023/09/spacex-projected-20-million-starlink-users-by-2022-it-ended-up-with-1-million/)
 * [2023-09-14, 03:41:55](https://news.ycombinator.com/item?id=37504720) - [Early response to false claims in Wikipedia, 15 years later](https://firstmonday.org/ojs/index.php/fm/article/view/12912/11332)
 * [2023-09-14, 03:16:47](https://news.ycombinator.com/item?id=37504559) - [Mathematics of Hurricane Modeling and Forecasting (2008, ppt) [pdf]](https://www.mdc.edu/north/math/pdf/hurricanes-math.pdf)
 * [2023-09-14, 01:16:31](https://news.ycombinator.com/item?id=37503731) - [Detecting SSH Tunnels (2017)](https://www.trisul.org/blog/detecting-ssh-tunnels/)
@@ -17,7 +18,6 @@
 * [2023-09-13, 15:33:28](https://news.ycombinator.com/item?id=37498142) - [A DIY near-IR spectrometer](https://caoyuan.scripts.mit.edu/ir_spec.html)
 * [2023-09-13, 15:20:01](https://news.ycombinator.com/item?id=37497956) - [Bitty Engine: An itty bitty game engine](https://paladin-t.github.io/bitty/)
 * [2023-09-13, 14:37:55](https://news.ycombinator.com/item?id=37497345) - [Skip the API, ship your database](https://fly.io/blog/skip-the-api/)
-* [2023-09-13, 14:21:45](https://news.ycombinator.com/item?id=37497131) - [Why Fennel?](https://fennel-lang.org/rationale)
 * [2023-09-13, 13:39:17](https://news.ycombinator.com/item?id=37496589) - [Meduza co-founder's phone infected with Pegasus](https://meduza.io/en/feature/2023/09/13/the-million-dollar-reporter)
 * [2023-09-13, 09:58:14](https://news.ycombinator.com/item?id=37494605) - [RustRover – A standalone Rust IDE](https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/)
 * [2023-09-13, 07:04:53](https://news.ycombinator.com/item?id=37493160) - [On board M5, the largest single-masted sailing yacht in the world](https://www.boatinternational.com/yachts/editorial-features/sailing-yacht-m5)
