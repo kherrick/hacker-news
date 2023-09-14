@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-14](index.md)
 
+* [2023-09-14, 19:08:15](https://news.ycombinator.com/item?id=37513364) - [Unity will quietly waive fees if developers switch to its ad monetisation](https://www.eurogamer.net/unity-will-quietly-waive-controversial-fees-if-developers-switch-to-its-ad-monetisation-service-report)
 * [2023-09-14, 18:44:35](https://news.ycombinator.com/item?id=37513037) - [On Writing (or not): Bad habits and why the voice in my head needs to shut up](https://bessstillman.substack.com/p/on-writing-or-not)
 * [2023-09-14, 18:44:02](https://news.ycombinator.com/item?id=37513030) - [“perpetual motion” device is clever [video]](https://www.youtube.com/watch?v=r_LG8FDt51U)
 * [2023-09-14, 18:37:53](https://news.ycombinator.com/item?id=37512934) - [Google hid evidence by training workers to avoid words monopolists use, DOJ says](https://arstechnica.com/tech-policy/2023/09/google-hid-evidence-by-training-workers-to-avoid-words-monopolists-use-doj-says/)

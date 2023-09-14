@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-14, 19:08:15](https://news.ycombinator.com/item?id=37513364) - [Unity will quietly waive fees if developers switch to its ad monetisation](https://www.eurogamer.net/unity-will-quietly-waive-controversial-fees-if-developers-switch-to-its-ad-monetisation-service-report)
 * [2023-09-14, 18:44:35](https://news.ycombinator.com/item?id=37513037) - [On Writing (or not): Bad habits and why the voice in my head needs to shut up](https://bessstillman.substack.com/p/on-writing-or-not)
 * [2023-09-14, 18:44:02](https://news.ycombinator.com/item?id=37513030) - [“perpetual motion” device is clever [video]](https://www.youtube.com/watch?v=r_LG8FDt51U)
 * [2023-09-14, 18:37:53](https://news.ycombinator.com/item?id=37512934) - [Google hid evidence by training workers to avoid words monopolists use, DOJ says](https://arstechnica.com/tech-policy/2023/09/google-hid-evidence-by-training-workers-to-avoid-words-monopolists-use-doj-says/)
@@ -23,7 +24,6 @@
 * [2023-09-14, 06:33:10](https://news.ycombinator.com/item?id=37505687) - [A Comprehensive Guide for Building Rag-Based LLM Applications](https://github.com/ray-project/llm-applications/blob/main/notebooks/rag.ipynb)
 * [2023-09-14, 06:14:10](https://news.ycombinator.com/item?id=37505553) - [An easy way to concurrency and parallelism with Python stdlib](https://www.bitecode.dev/p/the-easy-way-to-concurrency-and-parallelism)
 * [2023-09-13, 22:57:44](https://news.ycombinator.com/item?id=37502773) - [The Meaning of Lore](https://www.historytoday.com/archive/out-margins/meaning-lore)
-* [2023-09-13, 22:43:17](https://news.ycombinator.com/item?id=37502665) - [Solar](https://patrickcollison.com/solar)
 * [2023-09-13, 20:21:30](https://news.ycombinator.com/item?id=37501231) - [Don’t mess with a genius (2010)](https://shreevatsa.wordpress.com/2010/06/04/dont-mess-with-a-genius/)
 * [2023-09-13, 20:09:21](https://news.ycombinator.com/item?id=37501114) - [Playing Around with Machine Translation](https://davidabell.substack.com/p/playing-around-with-machine-translation)
 * [2023-09-13, 17:11:15](https://news.ycombinator.com/item?id=37499042) - [My Little MillionDollarHomepage Garden](https://matthieu.io/blog/2023/09/13/million-dollar-homepage-garden/)
