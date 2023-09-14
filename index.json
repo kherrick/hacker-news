@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-14, 13:25:55",
+      "https://news.ycombinator.com/item?id=37508718"
+    ],
+    [
+      "Why has a useless cold medication been allowed on shelves for years?",
+      "https://www.theatlantic.com/health/archive/2023/09/cold-medicine-decongestant-phenylephrine-ineffective/675303/"
+    ]
+  ],
+  [
+    [
       "2023-09-14, 13:18:38",
       "https://news.ycombinator.com/item?id=37508623"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=37508471"
     ],
     [
-      "PostgreSQL 16 Released",
+      "PostgreSQL 16",
       "https://www.postgresql.org/about/news/postgresql-16-released-2715/"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=37508094"
     ],
     [
-      "Using popular font Proxima Nova could get you sued",
+      "Client harassed by The Type founders for using Proxima Nova font on website",
       "https://community.adobe.com/t5/type-typography-discussions/client-being-harassed-by-the-type-founders-for-using-proxima-nova-font-on-website/td-p/13992446"
     ]
   ],
@@ -55,8 +65,18 @@
       "https://news.ycombinator.com/item?id=37508058"
     ],
     [
-      "Why diamonds are losing their allure",
+      "Diamonds are losing their allure",
       "https://www.economist.com/finance-and-economics/2023/09/13/why-diamonds-are-losing-their-allure"
+    ]
+  ],
+  [
+    [
+      "2023-09-14, 12:18:16",
+      "https://news.ycombinator.com/item?id=37507916"
+    ],
+    [
+      "Bacteria Generate Electricity from Wastewater",
+      "https://actu.epfl.ch/news/bacteria-generate-electricity-from-wastewater/"
     ]
   ],
   [
@@ -71,31 +91,11 @@
   ],
   [
     [
-      "2023-09-14, 11:50:25",
-      "https://news.ycombinator.com/item?id=37507676"
-    ],
-    [
-      "Ask HN: A network device that doesn't exist?",
-      "https://news.ycombinator.com/item?id=37507676"
-    ]
-  ],
-  [
-    [
-      "2023-09-14, 11:10:23",
-      "https://news.ycombinator.com/item?id=37507414"
-    ],
-    [
-      "Linux Phones (2022)",
-      "https://madaidans-insecurities.github.io/linux-phones.html"
-    ]
-  ],
-  [
-    [
       "2023-09-14, 11:00:46",
       "https://news.ycombinator.com/item?id=37507355"
     ],
     [
-      "How to Build a IP Geolocation Database from Scratch?",
+      "How to build a IP geolocation database from scratch?",
       "https://ipapi.is/geolocation.html"
     ]
   ],
