@@ -1,12 +1,52 @@
 [
   [
     [
+      "2023-09-14, 12:02:32",
+      "https://news.ycombinator.com/item?id=37507776"
+    ],
+    [
+      "Firezone (YC W22) is hiring rust engineers to build secure networks",
+      "https://www.ycombinator.com/companies/firezone/jobs"
+    ]
+  ],
+  [
+    [
+      "2023-09-14, 11:50:25",
+      "https://news.ycombinator.com/item?id=37507676"
+    ],
+    [
+      "Ask HN: A network device that doesn't exist?",
+      "https://news.ycombinator.com/item?id=37507676"
+    ]
+  ],
+  [
+    [
+      "2023-09-14, 11:19:39",
+      "https://news.ycombinator.com/item?id=37507458"
+    ],
+    [
+      "Tech Workers Deserve a Union: An Interview with Ethan Marcotte",
+      "https://workerorganizing.org/tech-workers-deserve-a-union-6904/"
+    ]
+  ],
+  [
+    [
       "2023-09-14, 11:10:23",
       "https://news.ycombinator.com/item?id=37507414"
     ],
     [
       "Linux Phones (2022)",
       "https://madaidans-insecurities.github.io/linux-phones.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-14, 11:00:46",
+      "https://news.ycombinator.com/item?id=37507355"
+    ],
+    [
+      "How to Build a IP Geolocation Database from Scratch?",
+      "https://ipapi.is/geolocation.html"
     ]
   ],
   [
@@ -101,32 +141,12 @@
   ],
   [
     [
-      "2023-09-14, 01:16:31",
-      "https://news.ycombinator.com/item?id=37503731"
-    ],
-    [
-      "Detecting SSH Tunnels (2017)",
-      "https://www.trisul.org/blog/detecting-ssh-tunnels/"
-    ]
-  ],
-  [
-    [
       "2023-09-13, 23:15:07",
       "https://news.ycombinator.com/item?id=37502903"
     ],
     [
       "Restoration of an IMSAI 8080",
       "https://retrocmp.de/imsai/imsai_p01_restoration.htm"
-    ]
-  ],
-  [
-    [
-      "2023-09-13, 22:03:56",
-      "https://news.ycombinator.com/item?id=37502329"
-    ],
-    [
-      "Hutter Prize for compressing human knowledge",
-      "http://prize.hutter1.net/"
     ]
   ],
   [
@@ -177,26 +197,6 @@
     [
       "Bug in macOS 14 Sonoma prevents our app from working",
       "https://mullvad.net/en/blog/2023/9/13/bug-in-macos-14-sonoma-prevents-our-app-from-working/"
-    ]
-  ],
-  [
-    [
-      "2023-09-13, 15:33:28",
-      "https://news.ycombinator.com/item?id=37498142"
-    ],
-    [
-      "A DIY near-IR spectrometer",
-      "https://caoyuan.scripts.mit.edu/ir_spec.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-13, 14:37:55",
-      "https://news.ycombinator.com/item?id=37497345"
-    ],
-    [
-      "Skip the API, ship your database",
-      "https://fly.io/blog/skip-the-api/"
     ]
   ],
   [
