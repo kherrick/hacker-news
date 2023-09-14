@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-14](index.md)
 
+* [2023-09-14, 20:45:06](https://news.ycombinator.com/item?id=37514601) - [MenuetOS](https://menuetos.net)
 * [2023-09-14, 19:59:35](https://news.ycombinator.com/item?id=37514051) - [Rivers are rapidly warming, losing oxygen; aquatic life at risk, study finds](https://www.eurekalert.org/news-releases/1001268)
 * [2023-09-14, 19:20:27](https://news.ycombinator.com/item?id=37513539) - [Tesla’s new car-building process could be an industrial breakthrough](https://www.theverge.com/2023/9/14/23873345/tesla-gigapress-gigacasting-manufacturing-breakthrough)
 * [2023-09-14, 19:08:15](https://news.ycombinator.com/item?id=37513364) - [Unity will quietly waive fees if developers switch to its ad monetisation](https://www.eurogamer.net/unity-will-quietly-waive-controversial-fees-if-developers-switch-to-its-ad-monetisation-service-report)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-14, 20:45:06](https://news.ycombinator.com/item?id=37514601) - [MenuetOS](https://menuetos.net)
 * [2023-09-14, 19:59:35](https://news.ycombinator.com/item?id=37514051) - [Rivers are rapidly warming, losing oxygen; aquatic life at risk, study finds](https://www.eurekalert.org/news-releases/1001268)
 * [2023-09-14, 19:05:34](https://news.ycombinator.com/item?id=37513324) - [Unity is offering a runtime fee waiver if you switch to LevelPlay](https://mobilegamer.biz/unity-is-offering-a-runtime-fee-waiver-if-you-switch-to-levelplay-as-it-tries-to-kill-applovin/)
 * [2023-09-14, 18:44:35](https://news.ycombinator.com/item?id=37513037) - [On Writing (or not): Bad habits and why the voice in my head needs to shut up](https://bessstillman.substack.com/p/on-writing-or-not)
@@ -20,7 +21,6 @@
 * [2023-09-14, 11:57:56](https://news.ycombinator.com/item?id=37507734) - [Show HN: Improved freemusicdemixer – AI music demixing in the browser](https://freemusicdemixer.com/)
 * [2023-09-14, 11:00:46](https://news.ycombinator.com/item?id=37507355) - [How to build a IP geolocation database from scratch?](https://ipapi.is/geolocation.html)
 * [2023-09-14, 06:33:10](https://news.ycombinator.com/item?id=37505687) - [A Comprehensive Guide for Building Rag-Based LLM Applications](https://github.com/ray-project/llm-applications/blob/main/notebooks/rag.ipynb)
-* [2023-09-14, 06:14:10](https://news.ycombinator.com/item?id=37505553) - [An easy way to concurrency and parallelism with Python stdlib](https://www.bitecode.dev/p/the-easy-way-to-concurrency-and-parallelism)
 * [2023-09-14, 00:51:35](https://news.ycombinator.com/item?id=37503565) - [Ancient fashion: 3,200-year-old pants on Chinese mummy](https://bigthink.com/the-past/chinese-mummy-worlds-oldest-pants-ancient-fashion/)
 * [2023-09-14, 00:43:29](https://news.ycombinator.com/item?id=37503506) - [Who and What Was a Knocker-Upper?](https://daily.jstor.org/who-and-what-was-a-knocker-upper/)
 * [2023-09-13, 22:57:44](https://news.ycombinator.com/item?id=37502773) - [The Meaning of Lore](https://www.historytoday.com/archive/out-margins/meaning-lore)
