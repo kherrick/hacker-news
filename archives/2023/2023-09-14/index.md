@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-14](index.md)
 
+* [2023-09-14, 09:16:51](https://news.ycombinator.com/item?id=37506654) - [XFCE Wayland Development Roadmap](https://wiki.xfce.org/releng/wayland_roadmap)
+* [2023-09-14, 08:50:07](https://news.ycombinator.com/item?id=37506482) - [Fiji Mermaid](https://en.wikipedia.org/wiki/Fiji_mermaid)
 * [2023-09-14, 08:32:31](https://news.ycombinator.com/item?id=37506386) - [How mobile apps illegally share your personal data](https://noyb.eu/en/how-mobile-apps-illegally-share-your-personal-data)
 * [2023-09-14, 08:23:50](https://news.ycombinator.com/item?id=37506333) - [Open Source Windows, ReactOS, Running on a Steam Deck](https://twitter.com/reactos/status/1702071085825450052)
 * [2023-09-14, 06:33:10](https://news.ycombinator.com/item?id=37505687) - [A Comprehensive Guide for Building Rag-Based LLM Applications](https://github.com/ray-project/llm-applications/blob/main/notebooks/rag.ipynb)
