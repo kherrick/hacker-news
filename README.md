@@ -1,13 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-14, 18:26:58](https://news.ycombinator.com/item?id=37512795) - [‘Credible’ Death Threat Causes Unity to Close Two Offices](https://kotaku.com/unity-death-threat-texas-sf-offices-town-hall-canceled-1850838902)
 * [2023-09-14, 18:03:25](https://news.ycombinator.com/item?id=37512512) - [Unity cancels town hall over reported death threats](https://www.theverge.com/2023/9/14/23873628/unity-death-threats-john-riccitiello)
 * [2023-09-14, 17:41:40](https://news.ycombinator.com/item?id=37512216) - [Can I take ducks home from the park?](https://dynomight.net/ducks/)
 * [2023-09-14, 17:00:39](https://news.ycombinator.com/item?id=37511584) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37511584)
 * [2023-09-14, 16:24:52](https://news.ycombinator.com/item?id=37511036) - [Intermediate sci knowledge associated with overconfidence and negative attitudes](https://www.nature.com/articles/s41562-023-01677-8)
 * [2023-09-14, 16:15:40](https://news.ycombinator.com/item?id=37510885) - [Stolen van Gogh painting returned in an IKEA bag](https://www.smithsonianmag.com/smart-news/dutch-art-detective-recovers-a-van-gogh-stolen-in-2020-180982896/)
 * [2023-09-14, 16:14:17](https://news.ycombinator.com/item?id=37510865) - [Chromebooks will get 10 years of automatic updates](https://blog.google/outreach-initiatives/education/automatic-update-extension-chromebook/)
-* [2023-09-14, 15:28:18](https://news.ycombinator.com/item?id=37510279) - [This post will not go viral](https://www.houseofstrauss.com/p/this-post-will-not-go-viral)
+* [2023-09-14, 15:28:18](https://news.ycombinator.com/item?id=37510279) - [The end of tweeted articles](https://www.houseofstrauss.com/p/this-post-will-not-go-viral)
 * [2023-09-14, 15:28:05](https://news.ycombinator.com/item?id=37510274) - [Whonix – an OS focused on anonymity, privacy and security](https://www.whonix.org)
 * [2023-09-14, 14:42:03](https://news.ycombinator.com/item?id=37509659) - [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180)
 * [2023-09-14, 14:33:14](https://news.ycombinator.com/item?id=37509560) - [Tails is a portable OS that protects against surveillance and censorship](https://tails.net/)
@@ -30,6 +29,7 @@
 * [2023-09-13, 17:11:15](https://news.ycombinator.com/item?id=37499042) - [My Little MillionDollarHomepage Garden](https://matthieu.io/blog/2023/09/13/million-dollar-homepage-garden/)
 * [2023-09-13, 08:03:42](https://news.ycombinator.com/item?id=37493611) - [A Tower of Conjectures That Rests Upon a Needle](https://www.quantamagazine.org/a-tower-of-conjectures-that-rests-upon-a-needle-20230912/)
 * [2023-09-13, 06:22:04](https://news.ycombinator.com/item?id=37492877) - [Hypervisor from Scratch (2022)](https://rayanfam.com/tutorials/)
+* [2023-09-12, 23:00:41](https://news.ycombinator.com/item?id=37489801) - [Compile time regular expression in C++](https://github.com/hanickadot/compile-time-regular-expressions)
 
 ## [Archives](archives/index.md)
 

@@ -15,6 +15,7 @@
 * [2023-09-12, 23:45:06](https://news.ycombinator.com/item?id=37490241) - [Credit Card Debt Collection](https://www.bitsaboutmoney.com/archive/the-waste-stream-of-consumer-finance/)
 * [2023-09-12, 23:43:55](https://news.ycombinator.com/item?id=37490234) - [Why not punish families? A challenge for consequentialists](https://betonit.substack.com/p/why-not-punish-families)
 * [2023-09-12, 23:36:59](https://news.ycombinator.com/item?id=37490165) - [UpdateWhere is a handy function](https://twitter.com/adriaanwm/status/1701422149691691283)
+* [2023-09-12, 23:00:41](https://news.ycombinator.com/item?id=37489801) - [Compile time regular expression in C++](https://github.com/hanickadot/compile-time-regular-expressions)
 * [2023-09-12, 22:25:00](https://news.ycombinator.com/item?id=37489414) - [Embracing the Surge of Remote Software Developers](https://remotebase.com/blog/tech-talent-without-borders-embracing-the-surge-of-remote-software-developers)
 * [2023-09-12, 22:06:14](https://news.ycombinator.com/item?id=37489200) - [Greatest Films of All Time](https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time)
 * [2023-09-12, 21:35:35](https://news.ycombinator.com/item?id=37488793) - [Le Sphinx Pocket Cipher Device (1930)](https://www.cryptomuseum.com/crypto/lugagne/sphinx/index.htm)
