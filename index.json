@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2023-09-14, 08:50:07",
-      "https://news.ycombinator.com/item?id=37506482"
+      "2023-09-14, 09:14:54",
+      "https://news.ycombinator.com/item?id=37506640"
     ],
     [
-      "Fiji Mermaid",
-      "https://en.wikipedia.org/wiki/Fiji_mermaid"
+      "Johnny Decimal: A System to Organize Projects",
+      "https://johnnydecimal.com"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "A Comprehensive Guide for Building Rag-Based LLM Applications",
       "https://github.com/ray-project/llm-applications/blob/main/notebooks/rag.ipynb"
+    ]
+  ],
+  [
+    [
+      "2023-09-14, 06:14:10",
+      "https://news.ycombinator.com/item?id=37505553"
+    ],
+    [
+      "The easy way to concurrency and parallelism with Python stdlib",
+      "https://www.bitecode.dev/p/the-easy-way-to-concurrency-and-parallelism"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Scientists figured out how to write in water",
       "https://arstechnica.com/science/2023/09/scientists-figured-out-how-to-write-in-water/"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 12:14:23",
-      "https://news.ycombinator.com/item?id=37479901"
-    ],
-    [
-      "Control USB power on a port by port basis on some USB hubs",
-      "https://github.com/codazoda/hub-ctrl.c"
     ]
   ],
   [
