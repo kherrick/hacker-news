@@ -83,6 +83,7 @@
 * [2023-09-13, 07:04:53](https://news.ycombinator.com/item?id=37493160) - [On board M5, the largest single-masted sailing yacht in the world](https://www.boatinternational.com/yachts/editorial-features/sailing-yacht-m5)
 * [2023-09-13, 06:42:27](https://news.ycombinator.com/item?id=37493028) - [“This Is a Disaster:” Game Developers Scramble to Deal with Unity’s New Fees](https://www.404media.co/unity-new-fees-prices/)
 * [2023-09-13, 06:37:46](https://news.ycombinator.com/item?id=37492986) - [70B Llama 2 at 35tokens/second on 4090](https://github.com/turboderp/exllamav2)
+* [2023-09-13, 06:22:04](https://news.ycombinator.com/item?id=37492877) - [Hypervisor from Scratch (2022)](https://rayanfam.com/tutorials/)
 * [2023-09-13, 06:17:35](https://news.ycombinator.com/item?id=37492852) - [There are now two types of PayPal dollars, and one is better than the other](http://jpkoning.blogspot.com/2023/09/there-are-now-two-types-of-paypal.html)
 * [2023-09-13, 06:01:00](https://news.ycombinator.com/item?id=37492752) - [iPhone 12 withdrawn from French market for non-compliance with EU regulation](https://www.anfr.fr/liste-actualites/actualite/temporary-withdrawal-from-the-market-of-the-iphone-12-for-non-compliance-with-eu-regulation)
 * [2023-09-13, 05:57:47](https://news.ycombinator.com/item?id=37492730) - [Non-human“ alien corpses displayed at Mexico's Congress, believed to be 1k year](https://www.marca.com/en/lifestyle/world-news/2023/09/13/65011a37ca4741e5678b4580.html)
