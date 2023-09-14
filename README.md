@@ -21,7 +21,7 @@
 * [2023-09-13, 14:37:55](https://news.ycombinator.com/item?id=37497345) - [Skip the API, ship your database](https://fly.io/blog/skip-the-api/)
 * [2023-09-13, 14:21:45](https://news.ycombinator.com/item?id=37497131) - [Why Fennel?](https://fennel-lang.org/rationale)
 * [2023-09-13, 09:58:14](https://news.ycombinator.com/item?id=37494605) - [RustRover – A standalone Rust IDE](https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/)
-* [2023-09-13, 00:34:34](https://news.ycombinator.com/item?id=37490644) - [The Greatest Counterfeiter (2021)](https://www.guo.io/the-greatest-counterfeiter-in-the-world/)
+* [2023-09-13, 03:31:07](https://news.ycombinator.com/item?id=37491862) - [Any sufficiently advanced uninstaller is indistinguishable from malware](https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749)
 * [2023-09-12, 23:49:12](https://news.ycombinator.com/item?id=37490286) - [The Lindy Effect](https://arxiv.org/abs/2308.09045)
 * [2023-09-12, 18:18:47](https://news.ycombinator.com/item?id=37485234) - [FM Radio Wave Based Early Earthquake Detection](https://www.semanticscholar.org/paper/FM-Radio-Wave-Based-Early-Earthquake-Detection-S.-A./9c16db904623d7aa794ea90ae7d0067d6ea71d96)
 * [2023-09-12, 12:26:21](https://news.ycombinator.com/item?id=37480039) - [Scientists figured out how to write in water](https://arstechnica.com/science/2023/09/scientists-figured-out-how-to-write-in-water/)
