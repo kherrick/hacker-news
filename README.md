@@ -14,7 +14,6 @@
 * [2023-09-13, 17:41:58](https://news.ycombinator.com/item?id=37499375) - [Show HN: Lantern – a PostgreSQL vector database for building AI applications](https://docs.lantern.dev/blog/2023/09/13/hello-world)
 * [2023-09-13, 17:17:27](https://news.ycombinator.com/item?id=37499106) - [The Uselessness of Phenylephrine (2022)](https://www.science.org/content/blog-post/uselessness-phenylephrine)
 * [2023-09-13, 17:05:44](https://news.ycombinator.com/item?id=37498979) - [Bug in macOS 14 Sonoma prevents our app from working](https://mullvad.net/en/blog/2023/9/13/bug-in-macos-14-sonoma-prevents-our-app-from-working/)
-* [2023-09-13, 17:01:36](https://news.ycombinator.com/item?id=37498935) - [SigNoz (YC W21), open-source Datadog, is hiring product designers (remote)](https://signoz.io/careers/product-designer-in/)
 * [2023-09-13, 15:33:28](https://news.ycombinator.com/item?id=37498142) - [A DIY near-IR spectrometer](https://caoyuan.scripts.mit.edu/ir_spec.html)
 * [2023-09-13, 14:37:55](https://news.ycombinator.com/item?id=37497345) - [Skip the API, ship your database](https://fly.io/blog/skip-the-api/)
 * [2023-09-13, 13:39:17](https://news.ycombinator.com/item?id=37496589) - [Meduza co-founder's phone infected with Pegasus](https://meduza.io/en/feature/2023/09/13/the-million-dollar-reporter)
@@ -29,6 +28,7 @@
 * [2023-09-12, 12:14:23](https://news.ycombinator.com/item?id=37479901) - [Control USB power on a port by port basis on some USB hubs](https://github.com/codazoda/hub-ctrl.c)
 * [2023-09-12, 11:45:46](https://news.ycombinator.com/item?id=37479596) - [I think I kind of hate lazy loading](https://shkspr.mobi/blog/2023/09/i-think-i-kind-of-hate-lazy-loading/)
 * [2023-09-12, 08:50:37](https://news.ycombinator.com/item?id=37478347) - [Birb: Programming with bird emojis](https://esolangs.org/wiki/Birb)
+* [2023-09-12, 07:04:49](https://news.ycombinator.com/item?id=37477685) - [Statistical significance on a shoestring budget](https://alexeymk.com/2023/09/11/statistical-significance-on-a-shoestring-budget.html)
 * [2023-09-12, 06:18:43](https://news.ycombinator.com/item?id=37477446) - [On the criteria to be used in decomposing systems into modules (1971) [pdf]](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf)
 
 ## [Archives](archives/index.md)
