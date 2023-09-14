@@ -6,6 +6,7 @@
 * [2023-09-13, 23:33:08](https://news.ycombinator.com/item?id=37503044) - [Cache AnyThing filesystem written in Rust](https://github.com/kahing/catfs)
 * [2023-09-13, 23:14:03](https://news.ycombinator.com/item?id=37502892) - [Marvel visual effects artists unanimously vote to unionize](https://www.cnbc.com/2023/09/13/marvel-vfx-artists-unanimously-vote-to-unionize.html)
 * [2023-09-13, 22:03:56](https://news.ycombinator.com/item?id=37502329) - [Hutter Prize for compressing human knowledge](http://prize.hutter1.net/)
+* [2023-09-13, 21:54:49](https://news.ycombinator.com/item?id=37502258) - [Don't Use Discord as a Forum](https://kraktoos.com/posts/dont-use-discord-as-forum/)
 * [2023-09-13, 21:51:34](https://news.ycombinator.com/item?id=37502218) - [RPG in a Box: A grid-based, voxel-style game engine built on Godot](https://www.rpginabox.com/)
 * [2023-09-13, 20:21:30](https://news.ycombinator.com/item?id=37501231) - [Don’t mess with a genius (2010)](https://shreevatsa.wordpress.com/2010/06/04/dont-mess-with-a-genius/)
 * [2023-09-13, 19:54:25](https://news.ycombinator.com/item?id=37500938) - [The stack monoid revisited](https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html)
@@ -27,7 +28,6 @@
 * [2023-09-12, 11:45:46](https://news.ycombinator.com/item?id=37479596) - [I think I kind of hate lazy loading](https://shkspr.mobi/blog/2023/09/i-think-i-kind-of-hate-lazy-loading/)
 * [2023-09-12, 08:50:37](https://news.ycombinator.com/item?id=37478347) - [Birb: Programming with Bird Emojis](https://esolangs.org/wiki/Birb)
 * [2023-09-12, 08:13:12](https://news.ycombinator.com/item?id=37478111) - [Category Theory Illustrated – Sets](https://abuseofnotation.github.io/category-theory-illustrated/01_set/)
-* [2023-09-12, 08:10:07](https://news.ycombinator.com/item?id=37478097) - [Greatest “Classic” Mac Laptop: Powerbook G3 Pismo (2021)](https://www.amigalove.com/viewtopic.php?t=1796)
 * [2023-09-12, 07:23:28](https://news.ycombinator.com/item?id=37477797) - [Engraving](https://www.metmuseum.org/about-the-met/collection-areas/drawings-and-prints/materials-and-techniques/printmaking/engraving)
 * [2023-09-12, 07:16:27](https://news.ycombinator.com/item?id=37477751) - [An aroma picker for the Le Nez du Vin game](https://blog.jgc.org/2023/09/weekend-bricolage-aroma-picker-for-le.html)
 
