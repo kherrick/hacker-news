@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-14](index.md)
 
+* [2023-09-14, 13:34:01](https://news.ycombinator.com/item?id=37508829) - [NASA Release Unidentified Anomalous Phenomena Final Report [pdf]](https://science.nasa.gov/science-pink/s3fs-public/atoms/files/UAP%20Independent%20Study%20Team%20-%20Final%20Report_0.pdf)
 * [2023-09-14, 13:25:55](https://news.ycombinator.com/item?id=37508718) - [Why has a useless cold medication been allowed on shelves for years?](https://www.theatlantic.com/health/archive/2023/09/cold-medicine-decongestant-phenylephrine-ineffective/675303/)
 * [2023-09-14, 13:18:38](https://news.ycombinator.com/item?id=37508623) - [Utah officials sued over failure to save Great Salt Lake](https://www.theguardian.com/us-news/2023/sep/06/utah-great-salt-lake-lawsuit-collapse-environment)
 * [2023-09-14, 13:11:48](https://news.ycombinator.com/item?id=37508531) - [Ask HN: Should I get a stand-up desk?](https://news.ycombinator.com/item?id=37508531)
