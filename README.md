@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-14, 13:34:01](https://news.ycombinator.com/item?id=37508829) - [NASA Release Unidentified Anomalous Phenomena Final Report [pdf]](https://science.nasa.gov/science-pink/s3fs-public/atoms/files/UAP%20Independent%20Study%20Team%20-%20Final%20Report_0.pdf)
-* [2023-09-14, 13:25:55](https://news.ycombinator.com/item?id=37508718) - [Why has a useless cold medication been allowed on shelves for years?](https://www.theatlantic.com/health/archive/2023/09/cold-medicine-decongestant-phenylephrine-ineffective/675303/)
 * [2023-09-14, 13:18:38](https://news.ycombinator.com/item?id=37508623) - [Utah officials sued over failure to save Great Salt Lake](https://www.theguardian.com/us-news/2023/sep/06/utah-great-salt-lake-lawsuit-collapse-environment)
 * [2023-09-14, 13:06:26](https://news.ycombinator.com/item?id=37508471) - [PostgreSQL 16](https://www.postgresql.org/about/news/postgresql-16-released-2715/)
+* [2023-09-14, 13:05:33](https://news.ycombinator.com/item?id=37508456) - [Public exposure to BPA exceeds acceptable health safety levels](https://www.eea.europa.eu/en/newsroom/news/public-exposure-to-bisphenol-a)
 * [2023-09-14, 12:36:46](https://news.ycombinator.com/item?id=37508094) - [Client harassed by The Type founders for using Proxima Nova font on website](https://community.adobe.com/t5/type-typography-discussions/client-being-harassed-by-the-type-founders-for-using-proxima-nova-font-on-website/td-p/13992446)
 * [2023-09-14, 12:33:00](https://news.ycombinator.com/item?id=37508058) - [Diamonds are losing their allure](https://www.economist.com/finance-and-economics/2023/09/13/why-diamonds-are-losing-their-allure)
 * [2023-09-14, 12:18:16](https://news.ycombinator.com/item?id=37507916) - [Bacteria Generate Electricity from Wastewater](https://actu.epfl.ch/news/bacteria-generate-electricity-from-wastewater/)
+* [2023-09-14, 12:04:31](https://news.ycombinator.com/item?id=37507802) - [HTTP Status Dogs. Hypertext Transfer Protocol Response Status Codes. and Dogs](https://httpstatusdogs.com/)
 * [2023-09-14, 12:02:32](https://news.ycombinator.com/item?id=37507776) - [Firezone (YC W22) is hiring Rust engineers to build secure networks](https://www.ycombinator.com/companies/firezone/jobs)
 * [2023-09-14, 11:00:46](https://news.ycombinator.com/item?id=37507355) - [How to build a IP geolocation database from scratch?](https://ipapi.is/geolocation.html)
 * [2023-09-14, 10:42:24](https://news.ycombinator.com/item?id=37507226) - [Calif. passes strongest right-to-repair bill yet, requiring 7 years of parts](https://arstechnica.com/gadgets/2023/09/calif-passes-strongest-right-to-repair-bill-yet-requiring-7-years-of-parts/)
@@ -29,7 +30,6 @@
 * [2023-09-13, 05:31:35](https://news.ycombinator.com/item?id=37492576) - [Metastable Failures in the Wild](http://muratbuffalo.blogspot.com/2023/09/metastable-failures-in-wild.html)
 * [2023-09-12, 18:18:47](https://news.ycombinator.com/item?id=37485234) - [FM radio wave-based early earthquake detection (2021)](https://www.semanticscholar.org/paper/FM-Radio-Wave-Based-Early-Earthquake-Detection-S.-A./9c16db904623d7aa794ea90ae7d0067d6ea71d96)
 * [2023-09-12, 08:50:37](https://news.ycombinator.com/item?id=37478347) - [Birb: Programming with bird emojis](https://esolangs.org/wiki/Birb)
-* [2023-09-12, 06:18:43](https://news.ycombinator.com/item?id=37477446) - [On the criteria to be used in decomposing systems into modules (1971) [pdf]](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf)
 
 ## [Archives](archives/index.md)
 

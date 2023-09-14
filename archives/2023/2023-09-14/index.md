@@ -13,6 +13,7 @@
 * [2023-09-14, 12:36:46](https://news.ycombinator.com/item?id=37508094) - [Using popular font Proxima Nova could get you sued](https://community.adobe.com/t5/type-typography-discussions/client-being-harassed-by-the-type-founders-for-using-proxima-nova-font-on-website/td-p/13992446)
 * [2023-09-14, 12:33:00](https://news.ycombinator.com/item?id=37508058) - [Why diamonds are losing their allure](https://www.economist.com/finance-and-economics/2023/09/13/why-diamonds-are-losing-their-allure)
 * [2023-09-14, 12:18:16](https://news.ycombinator.com/item?id=37507916) - [Bacteria Generate Electricity from Wastewater](https://actu.epfl.ch/news/bacteria-generate-electricity-from-wastewater/)
+* [2023-09-14, 12:04:31](https://news.ycombinator.com/item?id=37507802) - [HTTP Status Dogs. Hypertext Transfer Protocol Response Status Codes. and Dogs](https://httpstatusdogs.com/)
 * [2023-09-14, 12:02:32](https://news.ycombinator.com/item?id=37507776) - [Firezone (YC W22) is hiring rust engineers to build secure networks](https://www.ycombinator.com/companies/firezone/jobs)
 * [2023-09-14, 11:50:25](https://news.ycombinator.com/item?id=37507676) - [Ask HN: A network device that doesn't exist?](https://news.ycombinator.com/item?id=37507676)
 * [2023-09-14, 11:19:39](https://news.ycombinator.com/item?id=37507458) - [Tech Workers Deserve a Union: An Interview with Ethan Marcotte](https://workerorganizing.org/tech-workers-deserve-a-union-6904/)
