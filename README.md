@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-14, 21:14:30](https://news.ycombinator.com/item?id=37514940) - [Instead of collaborating or supporting me, Google stole my idea](https://github.com/google/project-gameface/issues/1)
 * [2023-09-14, 20:45:06](https://news.ycombinator.com/item?id=37514601) - [MenuetOS](https://menuetos.net)
 * [2023-09-14, 19:59:35](https://news.ycombinator.com/item?id=37514051) - [Rivers are rapidly warming, losing oxygen; aquatic life at risk, study finds](https://www.eurekalert.org/news-releases/1001268)
 * [2023-09-14, 19:38:28](https://news.ycombinator.com/item?id=37513791) - [Toyota’s advanced battery technology roadmap](https://newsroom.toyota.eu/toyotas-advanced-battery-technology-roadmap/)
@@ -27,7 +28,6 @@
 * [2023-09-14, 00:43:29](https://news.ycombinator.com/item?id=37503506) - [Who and What Was a Knocker-Upper?](https://daily.jstor.org/who-and-what-was-a-knocker-upper/)
 * [2023-09-13, 20:21:30](https://news.ycombinator.com/item?id=37501231) - [Don’t mess with a genius (2010)](https://shreevatsa.wordpress.com/2010/06/04/dont-mess-with-a-genius/)
 * [2023-09-13, 20:09:21](https://news.ycombinator.com/item?id=37501114) - [Playing Around with Machine Translation](https://davidabell.substack.com/p/playing-around-with-machine-translation)
-* [2023-09-13, 08:03:42](https://news.ycombinator.com/item?id=37493611) - [A Tower of Conjectures That Rests Upon a Needle](https://www.quantamagazine.org/a-tower-of-conjectures-that-rests-upon-a-needle-20230912/)
 * [2023-09-13, 06:22:04](https://news.ycombinator.com/item?id=37492877) - [Hypervisor from Scratch (2022)](https://rayanfam.com/tutorials/)
 * [2023-09-12, 23:00:41](https://news.ycombinator.com/item?id=37489801) - [Compile time regular expression in C++](https://github.com/hanickadot/compile-time-regular-expressions)
 
