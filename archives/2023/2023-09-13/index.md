@@ -63,6 +63,7 @@
 * [2023-09-13, 11:16:56](https://news.ycombinator.com/item?id=37495206) - [TSMC Arizona chip plant will be a paperweight](https://9to5mac.com/2023/09/11/tsmc-arizona-chip-plant/)
 * [2023-09-13, 11:14:38](https://news.ycombinator.com/item?id=37495187) - [Show HN: Deploying subdomain-based routing like github.io](https://github.com/xieyuheng/x-server)
 * [2023-09-13, 10:00:00](https://news.ycombinator.com/item?id=37494620) - [Stable Audio: Fast Timing-Conditioned Latent Audio Diffusion](https://stability.ai/research/stable-audio-efficient-timing-latent-diffusion)
+* [2023-09-13, 09:58:14](https://news.ycombinator.com/item?id=37494605) - [RustRover – A standalone Rust IDE](https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/)
 * [2023-09-13, 09:50:10](https://news.ycombinator.com/item?id=37494543) - [Road to NumPy 2.0](https://hackmd.io/@seberg/Bk5P9wJuj)
 * [2023-09-13, 09:21:16](https://news.ycombinator.com/item?id=37494275) - [LÖVE: a framework to make 2D games in Lua](https://love2d.org/)
 * [2023-09-13, 09:08:09](https://news.ycombinator.com/item?id=37494173) - [Germany Will Force 80% of Gas Stations to Install EV Chargers](https://www.thedrive.com/news/germany-will-force-80-percent-of-gas-stations-to-install-ev-charging)
