@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-09-14, 13:25:55",
-      "https://news.ycombinator.com/item?id=37508718"
-    ],
-    [
-      "Why has a useless cold medication been allowed on shelves for years?",
-      "https://www.theatlantic.com/health/archive/2023/09/cold-medicine-decongestant-phenylephrine-ineffective/675303/"
-    ]
-  ],
-  [
-    [
       "2023-09-14, 13:18:38",
       "https://news.ycombinator.com/item?id=37508623"
     ],
@@ -37,6 +27,16 @@
     [
       "PostgreSQL 16",
       "https://www.postgresql.org/about/news/postgresql-16-released-2715/"
+    ]
+  ],
+  [
+    [
+      "2023-09-14, 13:05:33",
+      "https://news.ycombinator.com/item?id=37508456"
+    ],
+    [
+      "Public exposure to BPA exceeds acceptable health safety levels",
+      "https://www.eea.europa.eu/en/newsroom/news/public-exposure-to-bisphenol-a"
     ]
   ],
   [
@@ -67,6 +67,16 @@
     [
       "Bacteria Generate Electricity from Wastewater",
       "https://actu.epfl.ch/news/bacteria-generate-electricity-from-wastewater/"
+    ]
+  ],
+  [
+    [
+      "2023-09-14, 12:04:31",
+      "https://news.ycombinator.com/item?id=37507802"
+    ],
+    [
+      "HTTP Status Dogs. Hypertext Transfer Protocol Response Status Codes. and Dogs",
+      "https://httpstatusdogs.com/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Birb: Programming with bird emojis",
       "https://esolangs.org/wiki/Birb"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 06:18:43",
-      "https://news.ycombinator.com/item?id=37477446"
-    ],
-    [
-      "On the criteria to be used in decomposing systems into modules (1971) [pdf]",
-      "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
     ]
   ]
 ]
