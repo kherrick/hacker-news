@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-09-14, 03:18:27",
-      "https://news.ycombinator.com/item?id=37504569"
+      "2023-09-14, 08:32:31",
+      "https://news.ycombinator.com/item?id=37506386"
     ],
     [
-      "The great American eye-exam scam (2019)",
-      "https://www.theatlantic.com/ideas/archive/2019/11/great-american-eye-exam-scam/602482/"
+      "How mobile apps illegally share your personal data",
+      "https://noyb.eu/en/how-mobile-apps-illegally-share-your-personal-data"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "Show HN: Lantern – a PostgreSQL vector database for building AI applications",
       "https://docs.lantern.dev/blog/2023/09/13/hello-world"
-    ]
-  ],
-  [
-    [
-      "2023-09-13, 17:17:27",
-      "https://news.ycombinator.com/item?id=37499106"
-    ],
-    [
-      "The Uselessness of Phenylephrine (2022)",
-      "https://www.science.org/content/blog-post/uselessness-phenylephrine"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "On the criteria to be used in decomposing systems into modules (1971) [pdf]",
       "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-09-12, 05:18:36",
+      "https://news.ycombinator.com/item?id=37477147"
+    ],
+    [
+      "Exploring concurrent rate limiters, mutexes, semaphores",
+      "https://blog.shalvah.me/posts/diving-into-concurrent-rate-limiters-mutexes-semaphores"
     ]
   ]
 ]
