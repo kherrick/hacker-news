@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-14, 23:07:16](https://news.ycombinator.com/item?id=37515996) - [iNaturalist receives $10M Grant, becomes independent 501c3](https://baynature.org/2023/09/12/inaturalist-strikes-out-on-its-own/)
 * [2023-09-14, 22:28:08](https://news.ycombinator.com/item?id=37515645) - [Programming Language Inventor or Serial Killer?](https://vole.wtf/coder-serial-killer-quiz/)
 * [2023-09-14, 22:26:09](https://news.ycombinator.com/item?id=37515625) - [Apple's A17 Pro Within 10% of i9-13900K, 7950X in Single-Core Performance](https://www.tomshardware.com/news/apples-a17-pro-challenges-core-i9-13900k-ryzen-7950x-in-single-core-performance)
 * [2023-09-14, 21:14:32](https://news.ycombinator.com/item?id=37514941) - [Utilu Standalone Internet Explorer Collection](https://utilu.com/IECollection/)
 * [2023-09-14, 20:45:06](https://news.ycombinator.com/item?id=37514601) - [MenuetOS](https://menuetos.net)
 * [2023-09-14, 19:59:35](https://news.ycombinator.com/item?id=37514051) - [Rivers are rapidly warming, losing oxygen; aquatic life at risk, study finds](https://www.eurekalert.org/news-releases/1001268)
-* [2023-09-14, 19:25:20](https://news.ycombinator.com/item?id=37513619) - [Arm jumps 18% in market debut to notch $60B valuation](https://www.reuters.com/markets/deals/softbanks-arm-set-debut-nasdaq-after-blockbuster-ipo-2023-09-14/)
 * [2023-09-14, 19:21:10](https://news.ycombinator.com/item?id=37513550) - [An Opinionated Yubikey Set-Up Guide](https://www.procustodibus.com/blog/2023/04/how-to-set-up-a-yubikey/)
 * [2023-09-14, 19:05:34](https://news.ycombinator.com/item?id=37513324) - [Unity is offering a runtime fee waiver if you switch to LevelPlay](https://mobilegamer.biz/unity-is-offering-a-runtime-fee-waiver-if-you-switch-to-levelplay-as-it-tries-to-kill-applovin/)
 * [2023-09-14, 18:44:35](https://news.ycombinator.com/item?id=37513037) - [On writing (or not)](https://bessstillman.substack.com/p/on-writing-or-not)

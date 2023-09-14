@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-14](index.md)
 
+* [2023-09-14, 23:07:16](https://news.ycombinator.com/item?id=37515996) - [iNaturalist receives $10M Grant, becomes independent 501c3](https://baynature.org/2023/09/12/inaturalist-strikes-out-on-its-own/)
 * [2023-09-14, 22:28:08](https://news.ycombinator.com/item?id=37515645) - [Programming Language Inventor or Serial Killer?](https://vole.wtf/coder-serial-killer-quiz/)
 * [2023-09-14, 22:26:09](https://news.ycombinator.com/item?id=37515625) - [Apple's A17 Pro Within 10% of i9-13900K, 7950X in Single-Core Performance](https://www.tomshardware.com/news/apples-a17-pro-challenges-core-i9-13900k-ryzen-7950x-in-single-core-performance)
 * [2023-09-14, 21:14:32](https://news.ycombinator.com/item?id=37514941) - [Utilu Standalone Internet Explorer Collection](https://utilu.com/IECollection/)
