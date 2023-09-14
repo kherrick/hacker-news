@@ -28,7 +28,7 @@
 * [2023-09-12, 11:45:46](https://news.ycombinator.com/item?id=37479596) - [I think I kind of hate lazy loading](https://shkspr.mobi/blog/2023/09/i-think-i-kind-of-hate-lazy-loading/)
 * [2023-09-12, 08:50:37](https://news.ycombinator.com/item?id=37478347) - [Birb: Programming with Bird Emojis](https://esolangs.org/wiki/Birb)
 * [2023-09-12, 08:13:12](https://news.ycombinator.com/item?id=37478111) - [Category Theory Illustrated – Sets](https://abuseofnotation.github.io/category-theory-illustrated/01_set/)
-* [2023-09-12, 07:23:28](https://news.ycombinator.com/item?id=37477797) - [Engraving](https://www.metmuseum.org/about-the-met/collection-areas/drawings-and-prints/materials-and-techniques/printmaking/engraving)
+* [2023-09-12, 08:10:07](https://news.ycombinator.com/item?id=37478097) - [Greatest “Classic” Mac Laptop: Powerbook G3 Pismo (2021)](https://www.amigalove.com/viewtopic.php?t=1796)
 * [2023-09-12, 07:16:27](https://news.ycombinator.com/item?id=37477751) - [An aroma picker for the Le Nez du Vin game](https://blog.jgc.org/2023/09/weekend-bricolage-aroma-picker-for-le.html)
 
 ## [Archives](archives/index.md)
