@@ -85,6 +85,7 @@
 * [2023-09-13, 06:17:35](https://news.ycombinator.com/item?id=37492852) - [There are now two types of PayPal dollars, and one is better than the other](http://jpkoning.blogspot.com/2023/09/there-are-now-two-types-of-paypal.html)
 * [2023-09-13, 06:01:00](https://news.ycombinator.com/item?id=37492752) - [iPhone 12 withdrawn from French market for non-compliance with EU regulation](https://www.anfr.fr/liste-actualites/actualite/temporary-withdrawal-from-the-market-of-the-iphone-12-for-non-compliance-with-eu-regulation)
 * [2023-09-13, 05:57:47](https://news.ycombinator.com/item?id=37492730) - [Non-human“ alien corpses displayed at Mexico's Congress, believed to be 1k year](https://www.marca.com/en/lifestyle/world-news/2023/09/13/65011a37ca4741e5678b4580.html)
+* [2023-09-13, 05:46:35](https://news.ycombinator.com/item?id=37492663) - [I got paid to live in Antarctica](https://wandereatwrite.com/how-i-got-paid-to-live-in-antarctica/)
 * [2023-09-13, 05:31:35](https://news.ycombinator.com/item?id=37492576) - [Metastable Failures in the Wild](http://muratbuffalo.blogspot.com/2023/09/metastable-failures-in-wild.html)
 * [2023-09-13, 04:57:41](https://news.ycombinator.com/item?id=37492371) - [S32 Unix Clock](https://www.da.vidbuchanan.co.uk/blog/unix-clock.html)
 * [2023-09-13, 04:40:04](https://news.ycombinator.com/item?id=37492266) - [Boolr – A Digital Logic Simulator](http://boolr.me/)
