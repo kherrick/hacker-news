@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-14, 14:42:03",
+      "https://news.ycombinator.com/item?id=37509659"
+    ],
+    [
+      "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+      "https://arxiv.org/abs/2309.06180"
+    ]
+  ],
+  [
+    [
+      "2023-09-14, 14:33:14",
+      "https://news.ycombinator.com/item?id=37509560"
+    ],
+    [
+      "Tails is a portable OS that protects against surveillance and censorship",
+      "https://tails.net/"
+    ]
+  ],
+  [
+    [
       "2023-09-14, 14:17:56",
       "https://news.ycombinator.com/item?id=37509427"
     ],
@@ -47,16 +67,6 @@
     [
       "Public exposure to BPA exceeds acceptable health safety levels",
       "https://www.eea.europa.eu/en/newsroom/news/public-exposure-to-bisphenol-a"
-    ]
-  ],
-  [
-    [
-      "2023-09-14, 12:36:46",
-      "https://news.ycombinator.com/item?id=37508094"
-    ],
-    [
-      "Client harassed by The Type founders for using Proxima Nova font on website",
-      "https://community.adobe.com/t5/type-typography-discussions/client-being-harassed-by-the-type-founders-for-using-proxima-nova-font-on-website/td-p/13992446"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "FM radio wave-based early earthquake detection (2021)",
       "https://www.semanticscholar.org/paper/FM-Radio-Wave-Based-Early-Earthquake-Detection-S.-A./9c16db904623d7aa794ea90ae7d0067d6ea71d96"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 08:50:37",
-      "https://news.ycombinator.com/item?id=37478347"
-    ],
-    [
-      "Birb: Programming with bird emojis",
-      "https://esolangs.org/wiki/Birb"
     ]
   ]
 ]
