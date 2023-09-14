@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-14, 03:41:55](https://news.ycombinator.com/item?id=37504720) - [Early response to false claims in Wikipedia, 15 years later](https://firstmonday.org/ojs/index.php/fm/article/view/12912/11332)
+* [2023-09-14, 03:16:47](https://news.ycombinator.com/item?id=37504559) - [Mathematics of Hurricane Modeling and Forecasting (2008, ppt) [pdf]](https://www.mdc.edu/north/math/pdf/hurricanes-math.pdf)
 * [2023-09-14, 01:16:31](https://news.ycombinator.com/item?id=37503731) - [Detecting SSH Tunnels (2017)](https://www.trisul.org/blog/detecting-ssh-tunnels/)
 * [2023-09-14, 00:55:34](https://news.ycombinator.com/item?id=37503587) - [I paid for Sublime Text](https://github.com/kapitanluffy/i-shamefully-paid-for-sublime-text)
 * [2023-09-14, 00:19:07](https://news.ycombinator.com/item?id=37503351) - [Game Development Post-Unity](https://www.computerenhance.com/p/game-development-post-unity)
@@ -24,7 +25,6 @@
 * [2023-09-13, 00:34:34](https://news.ycombinator.com/item?id=37490644) - [The Greatest Counterfeiter (2021)](https://www.guo.io/the-greatest-counterfeiter-in-the-world/)
 * [2023-09-12, 23:49:12](https://news.ycombinator.com/item?id=37490286) - [The Lindy Effect](https://arxiv.org/abs/2308.09045)
 * [2023-09-12, 18:18:47](https://news.ycombinator.com/item?id=37485234) - [FM Radio Wave Based Early Earthquake Detection](https://www.semanticscholar.org/paper/FM-Radio-Wave-Based-Early-Earthquake-Detection-S.-A./9c16db904623d7aa794ea90ae7d0067d6ea71d96)
-* [2023-09-12, 16:23:07](https://news.ycombinator.com/item?id=37483647) - [Lawrence Wright on Larry McMurtry](https://themillions.com/2023/09/lawrence-wright-on-larry-mcmurtry.html)
 * [2023-09-12, 12:26:21](https://news.ycombinator.com/item?id=37480039) - [Scientists figured out how to write in water](https://arstechnica.com/science/2023/09/scientists-figured-out-how-to-write-in-water/)
 * [2023-09-12, 12:14:23](https://news.ycombinator.com/item?id=37479901) - [Control USB power on a port by port basis on some USB hubs](https://github.com/codazoda/hub-ctrl.c)
 * [2023-09-12, 11:45:46](https://news.ycombinator.com/item?id=37479596) - [I think I kind of hate lazy loading](https://shkspr.mobi/blog/2023/09/i-think-i-kind-of-hate-lazy-loading/)
