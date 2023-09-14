@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-14, 20:45:06",
+      "https://news.ycombinator.com/item?id=37514601"
+    ],
+    [
+      "MenuetOS",
+      "https://menuetos.net"
+    ]
+  ],
+  [
+    [
       "2023-09-14, 19:59:35",
       "https://news.ycombinator.com/item?id=37514051"
     ],
@@ -197,16 +207,6 @@
     [
       "A Comprehensive Guide for Building Rag-Based LLM Applications",
       "https://github.com/ray-project/llm-applications/blob/main/notebooks/rag.ipynb"
-    ]
-  ],
-  [
-    [
-      "2023-09-14, 06:14:10",
-      "https://news.ycombinator.com/item?id=37505553"
-    ],
-    [
-      "An easy way to concurrency and parallelism with Python stdlib",
-      "https://www.bitecode.dev/p/the-easy-way-to-concurrency-and-parallelism"
     ]
   ],
   [
