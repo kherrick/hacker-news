@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-09-14, 18:26:58",
-      "https://news.ycombinator.com/item?id=37512795"
-    ],
-    [
-      "‘Credible’ Death Threat Causes Unity to Close Two Offices",
-      "https://kotaku.com/unity-death-threat-texas-sf-offices-town-hall-canceled-1850838902"
-    ]
-  ],
-  [
-    [
       "2023-09-14, 18:03:25",
       "https://news.ycombinator.com/item?id=37512512"
     ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=37510279"
     ],
     [
-      "This post will not go viral",
+      "The end of tweeted articles",
       "https://www.houseofstrauss.com/p/this-post-will-not-go-viral"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Hypervisor from Scratch (2022)",
       "https://rayanfam.com/tutorials/"
+    ]
+  ],
+  [
+    [
+      "2023-09-12, 23:00:41",
+      "https://news.ycombinator.com/item?id=37489801"
+    ],
+    [
+      "Compile time regular expression in C++",
+      "https://github.com/hanickadot/compile-time-regular-expressions"
     ]
   ]
 ]
