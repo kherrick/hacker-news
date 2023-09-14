@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-14](index.md)
 
+* [2023-09-14, 19:59:35](https://news.ycombinator.com/item?id=37514051) - [Rivers are rapidly warming, losing oxygen; aquatic life at risk, study finds](https://www.eurekalert.org/news-releases/1001268)
 * [2023-09-14, 19:08:15](https://news.ycombinator.com/item?id=37513364) - [Unity will quietly waive fees if developers switch to its ad monetisation](https://www.eurogamer.net/unity-will-quietly-waive-controversial-fees-if-developers-switch-to-its-ad-monetisation-service-report)
+* [2023-09-14, 19:05:34](https://news.ycombinator.com/item?id=37513324) - [Unity is offering a runtime fee waiver if you switch to LevelPlay](https://mobilegamer.biz/unity-is-offering-a-runtime-fee-waiver-if-you-switch-to-levelplay-as-it-tries-to-kill-applovin/)
 * [2023-09-14, 18:44:35](https://news.ycombinator.com/item?id=37513037) - [On Writing (or not): Bad habits and why the voice in my head needs to shut up](https://bessstillman.substack.com/p/on-writing-or-not)
 * [2023-09-14, 18:44:02](https://news.ycombinator.com/item?id=37513030) - [“perpetual motion” device is clever [video]](https://www.youtube.com/watch?v=r_LG8FDt51U)
 * [2023-09-14, 18:37:53](https://news.ycombinator.com/item?id=37512934) - [Google hid evidence by training workers to avoid words monopolists use, DOJ says](https://arstechnica.com/tech-policy/2023/09/google-hid-evidence-by-training-workers-to-avoid-words-monopolists-use-doj-says/)
@@ -30,6 +32,7 @@
 * [2023-09-14, 15:18:12](https://news.ycombinator.com/item?id=37510165) - [Buy Cult of the Lamb now, cause we're deleting it on Jan first](https://twitter.com/cultofthelamb/status/1701715971663425897)
 * [2023-09-14, 15:17:01](https://news.ycombinator.com/item?id=37510154) - [Threads: Meta’s Newest Social App](https://engineering.fb.com/2023/09/07/culture/threads-inside-story-metas-newest-social-app/)
 * [2023-09-14, 14:42:03](https://news.ycombinator.com/item?id=37509659) - [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180)
+* [2023-09-14, 14:38:24](https://news.ycombinator.com/item?id=37509624) - [Googlers told to avoid words like ‘share’ and ‘bundle,’ US says](https://www.bloomberg.com/news/newsletters/2023-09-14/googlers-told-to-avoid-words-like-share-and-bundle-us-says-lmj27bhl)
 * [2023-09-14, 14:33:14](https://news.ycombinator.com/item?id=37509560) - [Tails is a portable OS that protects against surveillance and censorship](https://tails.net/)
 * [2023-09-14, 14:30:40](https://news.ycombinator.com/item?id=37509533) - [So You've Decided to Move from Unity to Unreal Engine](https://impromptugames.com/movingtounreal.html)
 * [2023-09-14, 14:28:06](https://news.ycombinator.com/item?id=37509507) - [Tyranny of the Marginal User: why software gets worse, not better, over time](https://nothinghuman.substack.com/p/the-tyranny-of-the-marginal-user)
