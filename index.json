@@ -1,22 +1,32 @@
 [
   [
     [
+      "2023-09-14, 01:16:31",
+      "https://news.ycombinator.com/item?id=37503731"
+    ],
+    [
+      "Detecting SSH Tunnels (2017)",
+      "https://www.trisul.org/blog/detecting-ssh-tunnels/"
+    ]
+  ],
+  [
+    [
+      "2023-09-14, 00:55:34",
+      "https://news.ycombinator.com/item?id=37503587"
+    ],
+    [
+      "I paid for Sublime Text",
+      "https://github.com/kapitanluffy/i-shamefully-paid-for-sublime-text"
+    ]
+  ],
+  [
+    [
       "2023-09-14, 00:19:07",
       "https://news.ycombinator.com/item?id=37503351"
     ],
     [
       "Game Development Post-Unity",
       "https://www.computerenhance.com/p/game-development-post-unity"
-    ]
-  ],
-  [
-    [
-      "2023-09-13, 23:14:03",
-      "https://news.ycombinator.com/item?id=37502892"
-    ],
-    [
-      "Marvel visual effects artists unanimously vote to unionize",
-      "https://www.cnbc.com/2023/09/13/marvel-vfx-artists-unanimously-vote-to-unionize.html"
     ]
   ],
   [
@@ -211,26 +221,6 @@
   ],
   [
     [
-      "2023-09-13, 04:40:04",
-      "https://news.ycombinator.com/item?id=37492266"
-    ],
-    [
-      "BOOLR – A digital logic simulator",
-      "http://boolr.me/"
-    ]
-  ],
-  [
-    [
-      "2023-09-13, 03:31:07",
-      "https://news.ycombinator.com/item?id=37491862"
-    ],
-    [
-      "Any sufficiently advanced uninstaller is indistinguishable from malware",
-      "https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749"
-    ]
-  ],
-  [
-    [
       "2023-09-13, 00:34:34",
       "https://news.ycombinator.com/item?id=37490644"
     ],
@@ -241,12 +231,12 @@
   ],
   [
     [
-      "2023-09-12, 16:23:07",
-      "https://news.ycombinator.com/item?id=37483647"
+      "2023-09-12, 18:18:47",
+      "https://news.ycombinator.com/item?id=37485234"
     ],
     [
-      "Lawrence Wright on Larry McMurtry",
-      "https://themillions.com/2023/09/lawrence-wright-on-larry-mcmurtry.html"
+      "FM Radio Wave Based Early Earthquake Detection",
+      "https://www.semanticscholar.org/paper/FM-Radio-Wave-Based-Early-Earthquake-Detection-S.-A./9c16db904623d7aa794ea90ae7d0067d6ea71d96"
     ]
   ],
   [
@@ -271,11 +261,21 @@
   ],
   [
     [
+      "2023-09-12, 11:45:46",
+      "https://news.ycombinator.com/item?id=37479596"
+    ],
+    [
+      "I think I kind of hate lazy loading",
+      "https://shkspr.mobi/blog/2023/09/i-think-i-kind-of-hate-lazy-loading/"
+    ]
+  ],
+  [
+    [
       "2023-09-12, 08:50:37",
       "https://news.ycombinator.com/item?id=37478347"
     ],
     [
-      "Birb: Programming with Bird Emojis",
+      "Birb: Programming with bird emojis",
       "https://esolangs.org/wiki/Birb"
     ]
   ],
