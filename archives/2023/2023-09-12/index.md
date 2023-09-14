@@ -102,6 +102,7 @@
 * [2023-09-12, 09:48:33](https://news.ycombinator.com/item?id=37478755) - [OpenBSD p2k23 Hackathon landry on chasing memory corruptions](https://undeadly.org/cgi?action=article;sid=20230912094727)
 * [2023-09-12, 09:47:17](https://news.ycombinator.com/item?id=37478748) - [How to Improve Rails Caching with Brotli Compression](https://pawelurbanek.com/rails-brotli-cache)
 * [2023-09-12, 08:58:42](https://news.ycombinator.com/item?id=37478403) - [CVE-2023-4863: Heap buffer overflow in WebP (Chrome)](https://chromereleases.googleblog.com/2023/09/stable-channel-update-for-desktop_11.html)
+* [2023-09-12, 08:50:37](https://news.ycombinator.com/item?id=37478347) - [Birb: Programming with Bird Emojis](https://esolangs.org/wiki/Birb)
 * [2023-09-12, 08:49:57](https://news.ycombinator.com/item?id=37478341) - [86Box v4.0](https://86box.net/2023/08/26/86box-v4-0.html)
 * [2023-09-12, 08:25:43](https://news.ycombinator.com/item?id=37478191) - [Electric vehicle battery causes fire at Sydney Airport, destroys five cars](https://www.abc.net.au/news/2023-09-12/sydney-airport-lithium-ion-battery-causes-fire/102846146)
 * [2023-09-12, 08:13:12](https://news.ycombinator.com/item?id=37478111) - [Category Theory Illustrated – Sets](https://abuseofnotation.github.io/category-theory-illustrated/01_set/)
