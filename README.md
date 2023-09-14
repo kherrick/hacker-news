@@ -1,8 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-14, 13:18:38](https://news.ycombinator.com/item?id=37508623) - [Utah officials sued over failure to save Great Salt Lake](https://www.theguardian.com/us-news/2023/sep/06/utah-great-salt-lake-lawsuit-collapse-environment)
+* [2023-09-14, 13:11:48](https://news.ycombinator.com/item?id=37508531) - [Ask HN: Should I get a stand-up desk?](https://news.ycombinator.com/item?id=37508531)
 * [2023-09-14, 13:06:26](https://news.ycombinator.com/item?id=37508471) - [PostgreSQL 16 Released](https://www.postgresql.org/about/news/postgresql-16-released-2715/)
 * [2023-09-14, 13:05:33](https://news.ycombinator.com/item?id=37508456) - [Public exposure to BPA exceeds acceptable health safety levels](https://www.eea.europa.eu/en/newsroom/news/public-exposure-to-bisphenol-a)
 * [2023-09-14, 12:36:46](https://news.ycombinator.com/item?id=37508094) - [Using popular font Proxima Nova could get you sued](https://community.adobe.com/t5/type-typography-discussions/client-being-harassed-by-the-type-founders-for-using-proxima-nova-font-on-website/td-p/13992446)
+* [2023-09-14, 12:33:00](https://news.ycombinator.com/item?id=37508058) - [Why diamonds are losing their allure](https://www.economist.com/finance-and-economics/2023/09/13/why-diamonds-are-losing-their-allure)
 * [2023-09-14, 12:02:32](https://news.ycombinator.com/item?id=37507776) - [Firezone (YC W22) is hiring Rust engineers to build secure networks](https://www.ycombinator.com/companies/firezone/jobs)
 * [2023-09-14, 11:50:25](https://news.ycombinator.com/item?id=37507676) - [Ask HN: A network device that doesn't exist?](https://news.ycombinator.com/item?id=37507676)
 * [2023-09-14, 11:10:23](https://news.ycombinator.com/item?id=37507414) - [Linux Phones (2022)](https://madaidans-insecurities.github.io/linux-phones.html)
@@ -21,15 +24,12 @@
 * [2023-09-13, 17:05:44](https://news.ycombinator.com/item?id=37498979) - [Bug in macOS 14 Sonoma prevents our app from working](https://mullvad.net/en/blog/2023/9/13/bug-in-macos-14-sonoma-prevents-our-app-from-working/)
 * [2023-09-13, 13:39:17](https://news.ycombinator.com/item?id=37496589) - [Meduza co-founder's phone infected with Pegasus](https://meduza.io/en/feature/2023/09/13/the-million-dollar-reporter)
 * [2023-09-13, 09:56:55](https://news.ycombinator.com/item?id=37494595) - [Let's write a treesitter major mode for Emacs](https://www.masteringemacs.org/article/lets-write-a-treesitter-major-mode)
-* [2023-09-13, 08:06:52](https://news.ycombinator.com/item?id=37493633) - [Psycho and the end of the continuously showing movie](https://kottke.org/23/09/psycho-and-the-end-of-the-continuously-showing-movie)
 * [2023-09-13, 06:22:04](https://news.ycombinator.com/item?id=37492877) - [Hypervisor from Scratch (2022)](https://rayanfam.com/tutorials/)
 * [2023-09-13, 05:46:35](https://news.ycombinator.com/item?id=37492663) - [I got paid to live in Antarctica](https://wandereatwrite.com/how-i-got-paid-to-live-in-antarctica/)
 * [2023-09-13, 05:31:35](https://news.ycombinator.com/item?id=37492576) - [Metastable Failures in the Wild](http://muratbuffalo.blogspot.com/2023/09/metastable-failures-in-wild.html)
-* [2023-09-12, 18:18:47](https://news.ycombinator.com/item?id=37485234) - [FM radio wave-based early earthquake detection](https://www.semanticscholar.org/paper/FM-Radio-Wave-Based-Early-Earthquake-Detection-S.-A./9c16db904623d7aa794ea90ae7d0067d6ea71d96)
+* [2023-09-12, 18:18:47](https://news.ycombinator.com/item?id=37485234) - [FM radio wave-based early earthquake detection (2021)](https://www.semanticscholar.org/paper/FM-Radio-Wave-Based-Early-Earthquake-Detection-S.-A./9c16db904623d7aa794ea90ae7d0067d6ea71d96)
 * [2023-09-12, 08:50:37](https://news.ycombinator.com/item?id=37478347) - [Birb: Programming with bird emojis](https://esolangs.org/wiki/Birb)
-* [2023-09-12, 07:04:49](https://news.ycombinator.com/item?id=37477685) - [Statistical significance on a shoestring budget](https://alexeymk.com/2023/09/11/statistical-significance-on-a-shoestring-budget.html)
 * [2023-09-12, 06:18:43](https://news.ycombinator.com/item?id=37477446) - [On the criteria to be used in decomposing systems into modules (1971) [pdf]](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf)
-* [2023-09-12, 05:18:36](https://news.ycombinator.com/item?id=37477147) - [Exploring concurrent rate limiters, mutexes, semaphores](https://blog.shalvah.me/posts/diving-into-concurrent-rate-limiters-mutexes-semaphores)
 
 ## [Archives](archives/index.md)
 

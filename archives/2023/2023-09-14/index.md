@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-09-14](index.md)
 
+* [2023-09-14, 13:18:38](https://news.ycombinator.com/item?id=37508623) - [Utah officials sued over failure to save Great Salt Lake](https://www.theguardian.com/us-news/2023/sep/06/utah-great-salt-lake-lawsuit-collapse-environment)
+* [2023-09-14, 13:11:48](https://news.ycombinator.com/item?id=37508531) - [Ask HN: Should I get a stand-up desk?](https://news.ycombinator.com/item?id=37508531)
 * [2023-09-14, 13:06:26](https://news.ycombinator.com/item?id=37508471) - [PostgreSQL 16 Released](https://www.postgresql.org/about/news/postgresql-16-released-2715/)
 * [2023-09-14, 13:05:33](https://news.ycombinator.com/item?id=37508456) - [Public exposure to BPA exceeds acceptable health safety levels](https://www.eea.europa.eu/en/newsroom/news/public-exposure-to-bisphenol-a)
 * [2023-09-14, 12:36:46](https://news.ycombinator.com/item?id=37508094) - [Using popular font Proxima Nova could get you sued](https://community.adobe.com/t5/type-typography-discussions/client-being-harassed-by-the-type-founders-for-using-proxima-nova-font-on-website/td-p/13992446)
+* [2023-09-14, 12:33:00](https://news.ycombinator.com/item?id=37508058) - [Why diamonds are losing their allure](https://www.economist.com/finance-and-economics/2023/09/13/why-diamonds-are-losing-their-allure)
 * [2023-09-14, 12:02:32](https://news.ycombinator.com/item?id=37507776) - [Firezone (YC W22) is hiring rust engineers to build secure networks](https://www.ycombinator.com/companies/firezone/jobs)
 * [2023-09-14, 11:50:25](https://news.ycombinator.com/item?id=37507676) - [Ask HN: A network device that doesn't exist?](https://news.ycombinator.com/item?id=37507676)
 * [2023-09-14, 11:19:39](https://news.ycombinator.com/item?id=37507458) - [Tech Workers Deserve a Union: An Interview with Ethan Marcotte](https://workerorganizing.org/tech-workers-deserve-a-union-6904/)
