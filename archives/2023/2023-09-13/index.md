@@ -79,6 +79,7 @@
 * [2023-09-13, 08:41:21](https://news.ycombinator.com/item?id=37493928) - [Google has been rolling out Chrome's “Enhanced Ad Privacy” via a popup](https://twitter.com/glenngabe/status/1699389973361738146)
 * [2023-09-13, 08:30:43](https://news.ycombinator.com/item?id=37493845) - [Amazon's Union-Busting Training Video](https://www.youtube.com/watch?v=AQeGBHxIyHw)
 * [2023-09-13, 08:26:16](https://news.ycombinator.com/item?id=37493797) - [A CD Spectrometer](https://www.cs.cmu.edu/~zhuxj/astro/html/spectrometer.html)
+* [2023-09-13, 08:25:42](https://news.ycombinator.com/item?id=37493792) - [The washing machine in my ear, and an empty boat](https://blog.klungo.no/2023/09/12/the-washing-machine-in-my-ear-and-an-empty-boat/)
 * [2023-09-13, 08:21:10](https://news.ycombinator.com/item?id=37493748) - [Password-stealing Linux malware served for 3 years and no one noticed](https://arstechnica.com/security/2023/09/password-stealing-linux-malware-served-for-3-years-and-no-one-noticed/)
 * [2023-09-13, 08:12:02](https://news.ycombinator.com/item?id=37493675) - [Britain's roads can't keep up with our cars](https://www.telegraph.co.uk/cars/features/why-cars-continue-get-bigger/)
 * [2023-09-13, 08:06:52](https://news.ycombinator.com/item?id=37493633) - [Psycho and the End of the Continuously Showing Movie](https://kottke.org/23/09/psycho-and-the-end-of-the-continuously-showing-movie)
