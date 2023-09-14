@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-14, 13:18:38",
+      "https://news.ycombinator.com/item?id=37508623"
+    ],
+    [
+      "Utah officials sued over failure to save Great Salt Lake",
+      "https://www.theguardian.com/us-news/2023/sep/06/utah-great-salt-lake-lawsuit-collapse-environment"
+    ]
+  ],
+  [
+    [
+      "2023-09-14, 13:11:48",
+      "https://news.ycombinator.com/item?id=37508531"
+    ],
+    [
+      "Ask HN: Should I get a stand-up desk?",
+      "https://news.ycombinator.com/item?id=37508531"
+    ]
+  ],
+  [
+    [
       "2023-09-14, 13:06:26",
       "https://news.ycombinator.com/item?id=37508471"
     ],
@@ -27,6 +47,16 @@
     [
       "Using popular font Proxima Nova could get you sued",
       "https://community.adobe.com/t5/type-typography-discussions/client-being-harassed-by-the-type-founders-for-using-proxima-nova-font-on-website/td-p/13992446"
+    ]
+  ],
+  [
+    [
+      "2023-09-14, 12:33:00",
+      "https://news.ycombinator.com/item?id=37508058"
+    ],
+    [
+      "Why diamonds are losing their allure",
+      "https://www.economist.com/finance-and-economics/2023/09/13/why-diamonds-are-losing-their-allure"
     ]
   ],
   [
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2023-09-13, 08:06:52",
-      "https://news.ycombinator.com/item?id=37493633"
-    ],
-    [
-      "Psycho and the end of the continuously showing movie",
-      "https://kottke.org/23/09/psycho-and-the-end-of-the-continuously-showing-movie"
-    ]
-  ],
-  [
-    [
       "2023-09-13, 06:22:04",
       "https://news.ycombinator.com/item?id=37492877"
     ],
@@ -255,7 +275,7 @@
       "https://news.ycombinator.com/item?id=37485234"
     ],
     [
-      "FM radio wave-based early earthquake detection",
+      "FM radio wave-based early earthquake detection (2021)",
       "https://www.semanticscholar.org/paper/FM-Radio-Wave-Based-Early-Earthquake-Detection-S.-A./9c16db904623d7aa794ea90ae7d0067d6ea71d96"
     ]
   ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-09-12, 07:04:49",
-      "https://news.ycombinator.com/item?id=37477685"
-    ],
-    [
-      "Statistical significance on a shoestring budget",
-      "https://alexeymk.com/2023/09/11/statistical-significance-on-a-shoestring-budget.html"
-    ]
-  ],
-  [
-    [
       "2023-09-12, 06:18:43",
       "https://news.ycombinator.com/item?id=37477446"
     ],
     [
       "On the criteria to be used in decomposing systems into modules (1971) [pdf]",
       "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 05:18:36",
-      "https://news.ycombinator.com/item?id=37477147"
-    ],
-    [
-      "Exploring concurrent rate limiters, mutexes, semaphores",
-      "https://blog.shalvah.me/posts/diving-into-concurrent-rate-limiters-mutexes-semaphores"
     ]
   ]
 ]
