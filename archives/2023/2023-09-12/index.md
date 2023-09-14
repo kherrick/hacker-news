@@ -125,6 +125,7 @@
 * [2023-09-12, 05:50:40](https://news.ycombinator.com/item?id=37477294) - [I2c-USB-hub: An i2C Controllable USB 2.0 Hub](https://github.com/JimHeaney/i2c-usb-hub)
 * [2023-09-12, 05:31:45](https://news.ycombinator.com/item?id=37477205) - [Ask HN: How is Rust used in the Linux kernel today?](https://news.ycombinator.com/item?id=37477205)
 * [2023-09-12, 05:27:27](https://news.ycombinator.com/item?id=37477188) - [A16Z sued for discrimination after RTW collapse](https://www.axios.com/2023/09/11/andreessen-horowitz-run-the-word-discrimination-venture-capital)
+* [2023-09-12, 05:18:36](https://news.ycombinator.com/item?id=37477147) - [Exploring concurrent rate limiters, mutexes, semaphores](https://blog.shalvah.me/posts/diving-into-concurrent-rate-limiters-mutexes-semaphores)
 * [2023-09-12, 05:05:20](https://news.ycombinator.com/item?id=37477095) - [Death by a Thousand Microservices](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html)
 * [2023-09-12, 03:15:53](https://news.ycombinator.com/item?id=37476635) - [Visual Studio Code adds port forwarding](https://www.infoworld.com/article/3706511/visual-studio-code-adds-port-forwarding.html)
 * [2023-09-12, 03:05:04](https://news.ycombinator.com/item?id=37476588) - [Hacking the Book8088 for better accuracy](https://martypc.blogspot.com/2023/09/hacking-book8088-for-better-accuracy.html)

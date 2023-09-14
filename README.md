@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-14, 03:18:27](https://news.ycombinator.com/item?id=37504569) - [The great American eye-exam scam (2019)](https://www.theatlantic.com/ideas/archive/2019/11/great-american-eye-exam-scam/602482/)
+* [2023-09-14, 08:32:31](https://news.ycombinator.com/item?id=37506386) - [How mobile apps illegally share your personal data](https://noyb.eu/en/how-mobile-apps-illegally-share-your-personal-data)
 * [2023-09-14, 03:16:47](https://news.ycombinator.com/item?id=37504559) - [Mathematics of Hurricane Modeling and Forecasting (2008, ppt) [pdf]](https://www.mdc.edu/north/math/pdf/hurricanes-math.pdf)
 * [2023-09-14, 01:16:31](https://news.ycombinator.com/item?id=37503731) - [Detecting SSH Tunnels (2017)](https://www.trisul.org/blog/detecting-ssh-tunnels/)
 * [2023-09-13, 23:15:07](https://news.ycombinator.com/item?id=37502903) - [Restoration of an IMSAI 8080](https://retrocmp.de/imsai/imsai_p01_restoration.htm)
@@ -12,7 +12,6 @@
 * [2023-09-13, 19:48:32](https://news.ycombinator.com/item?id=37500895) - [When MFA isn't MFA, or how we got phished](https://retool.com/blog/mfa-isnt-mfa/)
 * [2023-09-13, 19:38:21](https://news.ycombinator.com/item?id=37500781) - [Show HN: Kr8s – a Python client library for Kubernetes](https://github.com/kr8s-org/kr8s)
 * [2023-09-13, 17:41:58](https://news.ycombinator.com/item?id=37499375) - [Show HN: Lantern – a PostgreSQL vector database for building AI applications](https://docs.lantern.dev/blog/2023/09/13/hello-world)
-* [2023-09-13, 17:17:27](https://news.ycombinator.com/item?id=37499106) - [The Uselessness of Phenylephrine (2022)](https://www.science.org/content/blog-post/uselessness-phenylephrine)
 * [2023-09-13, 17:05:44](https://news.ycombinator.com/item?id=37498979) - [Bug in macOS 14 Sonoma prevents our app from working](https://mullvad.net/en/blog/2023/9/13/bug-in-macos-14-sonoma-prevents-our-app-from-working/)
 * [2023-09-13, 15:33:28](https://news.ycombinator.com/item?id=37498142) - [A DIY near-IR spectrometer](https://caoyuan.scripts.mit.edu/ir_spec.html)
 * [2023-09-13, 14:37:55](https://news.ycombinator.com/item?id=37497345) - [Skip the API, ship your database](https://fly.io/blog/skip-the-api/)
@@ -30,6 +29,7 @@
 * [2023-09-12, 08:50:37](https://news.ycombinator.com/item?id=37478347) - [Birb: Programming with bird emojis](https://esolangs.org/wiki/Birb)
 * [2023-09-12, 07:04:49](https://news.ycombinator.com/item?id=37477685) - [Statistical significance on a shoestring budget](https://alexeymk.com/2023/09/11/statistical-significance-on-a-shoestring-budget.html)
 * [2023-09-12, 06:18:43](https://news.ycombinator.com/item?id=37477446) - [On the criteria to be used in decomposing systems into modules (1971) [pdf]](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf)
+* [2023-09-12, 05:18:36](https://news.ycombinator.com/item?id=37477147) - [Exploring concurrent rate limiters, mutexes, semaphores](https://blog.shalvah.me/posts/diving-into-concurrent-rate-limiters-mutexes-semaphores)
 
 ## [Archives](archives/index.md)
 
