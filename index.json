@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-09-14, 03:41:55",
-      "https://news.ycombinator.com/item?id=37504720"
+      "2023-09-14, 03:18:27",
+      "https://news.ycombinator.com/item?id=37504569"
     ],
     [
-      "Early response to false claims in Wikipedia, 15 years later",
-      "https://firstmonday.org/ojs/index.php/fm/article/view/12912/11332"
+      "The great American eye-exam scam (2019)",
+      "https://www.theatlantic.com/ideas/archive/2019/11/great-american-eye-exam-scam/602482/"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Detecting SSH Tunnels (2017)",
       "https://www.trisul.org/blog/detecting-ssh-tunnels/"
+    ]
+  ],
+  [
+    [
+      "2023-09-13, 23:15:07",
+      "https://news.ycombinator.com/item?id=37502903"
+    ],
+    [
+      "Restoration of an IMSAI 8080",
+      "https://retrocmp.de/imsai/imsai_p01_restoration.htm"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "RPG in a Box: A grid-based, voxel-style game engine built on Godot",
       "https://www.rpginabox.com/"
-    ]
-  ],
-  [
-    [
-      "2023-09-13, 21:44:40",
-      "https://news.ycombinator.com/item?id=37502153"
-    ],
-    [
-      "RustRover Is a New Standalone IDE for Rust from JetBrains",
-      "https://www.infoq.com/news/2023/09/rustrover-ide-early-access/"
     ]
   ],
   [
@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=37493633"
     ],
     [
-      "Psycho and the End of the Continuously Showing Movie",
+      "Psycho and the end of the continuously showing movie",
       "https://kottke.org/23/09/psycho-and-the-end-of-the-continuously-showing-movie"
     ]
   ],
@@ -205,7 +205,7 @@
       "https://news.ycombinator.com/item?id=37493160"
     ],
     [
-      "On board M5, the largest single-masted sailing yacht in the world",
+      "M5, the largest single-masted sailing yacht in the world",
       "https://www.boatinternational.com/yachts/editorial-features/sailing-yacht-m5"
     ]
   ],
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=37485234"
     ],
     [
-      "FM Radio Wave Based Early Earthquake Detection",
+      "FM radio wave-based early earthquake detection",
       "https://www.semanticscholar.org/paper/FM-Radio-Wave-Based-Early-Earthquake-Detection-S.-A./9c16db904623d7aa794ea90ae7d0067d6ea71d96"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=37477446"
     ],
     [
-      "On the Criteria to Be Used in Decomposing Systems into Modules (1971) [pdf]",
+      "On the criteria to be used in decomposing systems into modules (1971) [pdf]",
       "https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf"
     ]
   ]
