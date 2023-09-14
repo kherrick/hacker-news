@@ -20,7 +20,7 @@
 * [2023-09-13, 09:58:14](https://news.ycombinator.com/item?id=37494605) - [RustRover – A standalone Rust IDE](https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/)
 * [2023-09-13, 09:56:55](https://news.ycombinator.com/item?id=37494595) - [Let's write a treesitter major mode for Emacs](https://www.masteringemacs.org/article/lets-write-a-treesitter-major-mode)
 * [2023-09-13, 08:06:52](https://news.ycombinator.com/item?id=37493633) - [Psycho and the end of the continuously showing movie](https://kottke.org/23/09/psycho-and-the-end-of-the-continuously-showing-movie)
-* [2023-09-13, 07:04:53](https://news.ycombinator.com/item?id=37493160) - [M5, the largest single-masted sailing yacht in the world](https://www.boatinternational.com/yachts/editorial-features/sailing-yacht-m5)
+* [2023-09-13, 04:40:04](https://news.ycombinator.com/item?id=37492266) - [BOOLR – A digital logic simulator](http://boolr.me/)
 * [2023-09-13, 03:31:07](https://news.ycombinator.com/item?id=37491862) - [Any sufficiently advanced uninstaller is indistinguishable from malware](https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749)
 * [2023-09-12, 23:49:12](https://news.ycombinator.com/item?id=37490286) - [The Lindy Effect](https://arxiv.org/abs/2308.09045)
 * [2023-09-12, 18:18:47](https://news.ycombinator.com/item?id=37485234) - [FM radio wave-based early earthquake detection](https://www.semanticscholar.org/paper/FM-Radio-Wave-Based-Early-Earthquake-Detection-S.-A./9c16db904623d7aa794ea90ae7d0067d6ea71d96)
