@@ -6,6 +6,7 @@
 
 * [2023-09-14, 15:45:18](https://news.ycombinator.com/item?id=37510517) - [How I stay reasonably anonymous online](https://tmp.bearblog.dev/how-i-stay-reasonably-anonymous-online/)
 * [2023-09-14, 15:28:18](https://news.ycombinator.com/item?id=37510279) - [This Post Will Not Go Viral](https://www.houseofstrauss.com/p/this-post-will-not-go-viral)
+* [2023-09-14, 15:28:05](https://news.ycombinator.com/item?id=37510274) - [Whonix – an OS focused on anonymity, privacy and security](https://www.whonix.org)
 * [2023-09-14, 15:18:12](https://news.ycombinator.com/item?id=37510165) - [Buy Cult of the Lamb now, cause we're deleting it on Jan first](https://twitter.com/cultofthelamb/status/1701715971663425897)
 * [2023-09-14, 15:17:01](https://news.ycombinator.com/item?id=37510154) - [Threads: Meta’s Newest Social App](https://engineering.fb.com/2023/09/07/culture/threads-inside-story-metas-newest-social-app/)
 * [2023-09-14, 14:42:03](https://news.ycombinator.com/item?id=37509659) - [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180)
