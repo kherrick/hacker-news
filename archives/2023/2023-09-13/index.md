@@ -80,6 +80,7 @@
 * [2023-09-13, 08:21:10](https://news.ycombinator.com/item?id=37493748) - [Password-stealing Linux malware served for 3 years and no one noticed](https://arstechnica.com/security/2023/09/password-stealing-linux-malware-served-for-3-years-and-no-one-noticed/)
 * [2023-09-13, 08:12:02](https://news.ycombinator.com/item?id=37493675) - [Britain's roads can't keep up with our cars](https://www.telegraph.co.uk/cars/features/why-cars-continue-get-bigger/)
 * [2023-09-13, 08:06:52](https://news.ycombinator.com/item?id=37493633) - [Psycho and the End of the Continuously Showing Movie](https://kottke.org/23/09/psycho-and-the-end-of-the-continuously-showing-movie)
+* [2023-09-13, 08:03:42](https://news.ycombinator.com/item?id=37493611) - [A Tower of Conjectures That Rests Upon a Needle](https://www.quantamagazine.org/a-tower-of-conjectures-that-rests-upon-a-needle-20230912/)
 * [2023-09-13, 07:56:32](https://news.ycombinator.com/item?id=37493566) - [French regulators order Apple to halt sales of the iPhone 12](https://www.france24.com/en/europe/20230912-france-orders-apple-to-halt-iphone-12-sales-due-to-high-radiation-levels)
 * [2023-09-13, 07:04:53](https://news.ycombinator.com/item?id=37493160) - [On board M5, the largest single-masted sailing yacht in the world](https://www.boatinternational.com/yachts/editorial-features/sailing-yacht-m5)
 * [2023-09-13, 06:42:27](https://news.ycombinator.com/item?id=37493028) - [“This Is a Disaster:” Game Developers Scramble to Deal with Unity’s New Fees](https://www.404media.co/unity-new-fees-prices/)
