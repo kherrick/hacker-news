@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-14, 05:03:31](https://news.ycombinator.com/item?id=37505168) - [SpaceX projected 20M Starlink users by 2022–it ended up with 1M](https://arstechnica.com/tech-policy/2023/09/spacex-projected-20-million-starlink-users-by-2022-it-ended-up-with-1-million/)
 * [2023-09-14, 03:41:55](https://news.ycombinator.com/item?id=37504720) - [Early response to false claims in Wikipedia, 15 years later](https://firstmonday.org/ojs/index.php/fm/article/view/12912/11332)
 * [2023-09-14, 03:16:47](https://news.ycombinator.com/item?id=37504559) - [Mathematics of Hurricane Modeling and Forecasting (2008, ppt) [pdf]](https://www.mdc.edu/north/math/pdf/hurricanes-math.pdf)
 * [2023-09-14, 01:16:31](https://news.ycombinator.com/item?id=37503731) - [Detecting SSH Tunnels (2017)](https://www.trisul.org/blog/detecting-ssh-tunnels/)
 * [2023-09-13, 22:03:56](https://news.ycombinator.com/item?id=37502329) - [Hutter Prize for compressing human knowledge](http://prize.hutter1.net/)
 * [2023-09-13, 21:54:49](https://news.ycombinator.com/item?id=37502258) - [Don't use Discord as your Q&A forum](https://kraktoos.com/posts/dont-use-discord-as-forum/)
 * [2023-09-13, 21:51:34](https://news.ycombinator.com/item?id=37502218) - [RPG in a Box: A grid-based, voxel-style game engine built on Godot](https://www.rpginabox.com/)
+* [2023-09-13, 21:44:40](https://news.ycombinator.com/item?id=37502153) - [RustRover Is a New Standalone IDE for Rust from JetBrains](https://www.infoq.com/news/2023/09/rustrover-ide-early-access/)
 * [2023-09-13, 20:21:30](https://news.ycombinator.com/item?id=37501231) - [Don’t mess with a genius (2010)](https://shreevatsa.wordpress.com/2010/06/04/dont-mess-with-a-genius/)
 * [2023-09-13, 19:54:25](https://news.ycombinator.com/item?id=37500938) - [The stack monoid revisited](https://raphlinus.github.io/gpu/2021/05/13/stack-monoid-revisited.html)
 * [2023-09-13, 19:48:32](https://news.ycombinator.com/item?id=37500895) - [When MFA isn't MFA, or how we got phished](https://retool.com/blog/mfa-isnt-mfa/)

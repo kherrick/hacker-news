@@ -11,6 +11,7 @@
 * [2023-09-13, 22:03:56](https://news.ycombinator.com/item?id=37502329) - [500'000€ Prize for Compressing Human Knowledge](http://prize.hutter1.net/)
 * [2023-09-13, 21:54:49](https://news.ycombinator.com/item?id=37502258) - [Don't Use Discord as a Forum](https://kraktoos.com/posts/dont-use-discord-as-forum/)
 * [2023-09-13, 21:51:34](https://news.ycombinator.com/item?id=37502218) - [RPG in a Box: A grid-based, voxel-style game engine built on Godot](https://www.rpginabox.com/)
+* [2023-09-13, 21:44:40](https://news.ycombinator.com/item?id=37502153) - [RustRover Is a New Standalone IDE for Rust from JetBrains](https://www.infoq.com/news/2023/09/rustrover-ide-early-access/)
 * [2023-09-13, 21:09:06](https://news.ycombinator.com/item?id=37501756) - [Deforestation in the Amazon rainforest continues to plunge](https://news.mongabay.com/2023/09/deforestation-in-the-amazon-rainforest-continues-to-plunge/)
 * [2023-09-13, 20:21:30](https://news.ycombinator.com/item?id=37501231) - [Don’t Mess with a Genius](https://shreevatsa.wordpress.com/2010/06/04/dont-mess-with-a-genius/)
 * [2023-09-13, 20:11:20](https://news.ycombinator.com/item?id=37501125) - [Google Sheds Hundreds of Recruiters in Another Round of Layoffs](https://www.nytimes.com/2023/09/13/technology/google-layoffs-recruiters.html)
