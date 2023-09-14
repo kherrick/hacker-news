@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-14, 22:28:08](https://news.ycombinator.com/item?id=37515645) - [Programming Language Inventor or Serial Killer?](https://vole.wtf/coder-serial-killer-quiz/)
+* [2023-09-14, 22:26:09](https://news.ycombinator.com/item?id=37515625) - [Apple's A17 Pro Within 10% of i9-13900K, 7950X in Single-Core Performance](https://www.tomshardware.com/news/apples-a17-pro-challenges-core-i9-13900k-ryzen-7950x-in-single-core-performance)
 * [2023-09-14, 21:14:32](https://news.ycombinator.com/item?id=37514941) - [Utilu Standalone Internet Explorer Collection](https://utilu.com/IECollection/)
 * [2023-09-14, 20:45:06](https://news.ycombinator.com/item?id=37514601) - [MenuetOS](https://menuetos.net)
 * [2023-09-14, 19:59:35](https://news.ycombinator.com/item?id=37514051) - [Rivers are rapidly warming, losing oxygen; aquatic life at risk, study finds](https://www.eurekalert.org/news-releases/1001268)
@@ -20,7 +21,6 @@
 * [2023-09-14, 14:38:24](https://news.ycombinator.com/item?id=37509624) - [Googlers told to avoid words like ‘share’ and ‘bundle,’ US says](https://www.bloomberg.com/news/newsletters/2023-09-14/googlers-told-to-avoid-words-like-share-and-bundle-us-says-lmj27bhl)
 * [2023-09-14, 14:33:14](https://news.ycombinator.com/item?id=37509560) - [Tails is a portable OS that protects against surveillance and censorship](https://tails.net/)
 * [2023-09-14, 14:28:06](https://news.ycombinator.com/item?id=37509507) - [The Tyranny of the Marginal User](https://nothinghuman.substack.com/p/the-tyranny-of-the-marginal-user)
-* [2023-09-14, 14:17:56](https://news.ycombinator.com/item?id=37509427) - [Arm IPO to kick off today](https://www.theregister.com/2023/09/14/arm_ipo/)
 * [2023-09-14, 12:18:16](https://news.ycombinator.com/item?id=37507916) - [Bacteria generate electricity from wastewater](https://actu.epfl.ch/news/bacteria-generate-electricity-from-wastewater/)
 * [2023-09-14, 11:57:56](https://news.ycombinator.com/item?id=37507734) - [Show HN: Improved freemusicdemixer – AI music demixing in the browser](https://freemusicdemixer.com/)
 * [2023-09-14, 11:00:46](https://news.ycombinator.com/item?id=37507355) - [How to build a IP geolocation database from scratch?](https://ipapi.is/geolocation.html)
