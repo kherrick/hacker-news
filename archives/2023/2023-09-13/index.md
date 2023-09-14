@@ -75,6 +75,7 @@
 * [2023-09-13, 08:21:10](https://news.ycombinator.com/item?id=37493748) - [Password-stealing Linux malware served for 3 years and no one noticed](https://arstechnica.com/security/2023/09/password-stealing-linux-malware-served-for-3-years-and-no-one-noticed/)
 * [2023-09-13, 08:12:02](https://news.ycombinator.com/item?id=37493675) - [Britain's roads can't keep up with our cars](https://www.telegraph.co.uk/cars/features/why-cars-continue-get-bigger/)
 * [2023-09-13, 07:56:32](https://news.ycombinator.com/item?id=37493566) - [French regulators order Apple to halt sales of the iPhone 12](https://www.france24.com/en/europe/20230912-france-orders-apple-to-halt-iphone-12-sales-due-to-high-radiation-levels)
+* [2023-09-13, 07:04:53](https://news.ycombinator.com/item?id=37493160) - [On board M5, the largest single-masted sailing yacht in the world](https://www.boatinternational.com/yachts/editorial-features/sailing-yacht-m5)
 * [2023-09-13, 06:42:27](https://news.ycombinator.com/item?id=37493028) - [“This Is a Disaster:” Game Developers Scramble to Deal with Unity’s New Fees](https://www.404media.co/unity-new-fees-prices/)
 * [2023-09-13, 06:37:46](https://news.ycombinator.com/item?id=37492986) - [70B Llama 2 at 35tokens/second on 4090](https://github.com/turboderp/exllamav2)
 * [2023-09-13, 06:17:35](https://news.ycombinator.com/item?id=37492852) - [There are now two types of PayPal dollars, and one is better than the other](http://jpkoning.blogspot.com/2023/09/there-are-now-two-types-of-paypal.html)
