@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-13](index.md)
 
 * [2023-09-13, 23:33:08](https://news.ycombinator.com/item?id=37503044) - [Cache AnyThing filesystem written in Rust](https://github.com/kahing/catfs)
+* [2023-09-13, 23:15:07](https://news.ycombinator.com/item?id=37502903) - [Restoration of an IMSAI 8080](https://retrocmp.de/imsai/imsai_p01_restoration.htm)
 * [2023-09-13, 23:14:03](https://news.ycombinator.com/item?id=37502892) - [Marvel visual effects artists unanimously vote to unionize](https://www.cnbc.com/2023/09/13/marvel-vfx-artists-unanimously-vote-to-unionize.html)
 * [2023-09-13, 22:45:04](https://news.ycombinator.com/item?id=37502677) - [The Golden Rules of Presentation Design](https://blog.thenounproject.com/the-golden-rules-of-presentation-design/)
 * [2023-09-13, 22:43:17](https://news.ycombinator.com/item?id=37502665) - [Patrick Collison on solar](https://patrickcollison.com/solar)
