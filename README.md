@@ -2,6 +2,7 @@
 
 * [2023-09-14, 18:44:35](https://news.ycombinator.com/item?id=37513037) - [On Writing (or not): Bad habits and why the voice in my head needs to shut up](https://bessstillman.substack.com/p/on-writing-or-not)
 * [2023-09-14, 18:44:02](https://news.ycombinator.com/item?id=37513030) - [“perpetual motion” device is clever [video]](https://www.youtube.com/watch?v=r_LG8FDt51U)
+* [2023-09-14, 18:37:53](https://news.ycombinator.com/item?id=37512934) - [Google hid evidence by training workers to avoid words monopolists use, DOJ says](https://arstechnica.com/tech-policy/2023/09/google-hid-evidence-by-training-workers-to-avoid-words-monopolists-use-doj-says/)
 * [2023-09-14, 18:03:25](https://news.ycombinator.com/item?id=37512512) - [Unity cancels town hall over reported death threats](https://www.theverge.com/2023/9/14/23873628/unity-death-threats-john-riccitiello)
 * [2023-09-14, 17:41:40](https://news.ycombinator.com/item?id=37512216) - [Can I take ducks home from the park?](https://dynomight.net/ducks/)
 * [2023-09-14, 17:00:39](https://news.ycombinator.com/item?id=37511584) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37511584)
@@ -15,7 +16,6 @@
 * [2023-09-14, 14:30:40](https://news.ycombinator.com/item?id=37509533) - [So You've Decided to Move from Unity to Unreal Engine](https://impromptugames.com/movingtounreal.html)
 * [2023-09-14, 14:28:06](https://news.ycombinator.com/item?id=37509507) - [Tyranny of the Marginal User: why software gets worse, not better, over time](https://nothinghuman.substack.com/p/the-tyranny-of-the-marginal-user)
 * [2023-09-14, 14:17:56](https://news.ycombinator.com/item?id=37509427) - [Arm IPO to kick off today](https://www.theregister.com/2023/09/14/arm_ipo/)
-* [2023-09-14, 13:06:26](https://news.ycombinator.com/item?id=37508471) - [PostgreSQL 16](https://www.postgresql.org/about/news/postgresql-16-released-2715/)
 * [2023-09-14, 12:18:16](https://news.ycombinator.com/item?id=37507916) - [Bacteria generate electricity from wastewater](https://actu.epfl.ch/news/bacteria-generate-electricity-from-wastewater/)
 * [2023-09-14, 11:57:56](https://news.ycombinator.com/item?id=37507734) - [Show HN: Improved freemusicdemixer – AI music demixing in the browser](https://freemusicdemixer.com/)
 * [2023-09-14, 11:00:46](https://news.ycombinator.com/item?id=37507355) - [How to build a IP geolocation database from scratch?](https://ipapi.is/geolocation.html)
