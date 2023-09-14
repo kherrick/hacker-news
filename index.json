@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2023-09-13, 16:27:10",
-      "https://news.ycombinator.com/item?id=37498820"
-    ],
-    [
-      "WASI Support in Go",
-      "https://go.dev/blog/wasi"
-    ]
-  ],
-  [
-    [
       "2023-09-13, 15:33:28",
       "https://news.ycombinator.com/item?id=37498142"
     ],
@@ -231,12 +221,32 @@
   ],
   [
     [
+      "2023-09-12, 23:49:12",
+      "https://news.ycombinator.com/item?id=37490286"
+    ],
+    [
+      "The Lindy Effect",
+      "https://arxiv.org/abs/2308.09045"
+    ]
+  ],
+  [
+    [
       "2023-09-12, 18:18:47",
       "https://news.ycombinator.com/item?id=37485234"
     ],
     [
       "FM Radio Wave Based Early Earthquake Detection",
       "https://www.semanticscholar.org/paper/FM-Radio-Wave-Based-Early-Earthquake-Detection-S.-A./9c16db904623d7aa794ea90ae7d0067d6ea71d96"
+    ]
+  ],
+  [
+    [
+      "2023-09-12, 16:23:07",
+      "https://news.ycombinator.com/item?id=37483647"
+    ],
+    [
+      "Lawrence Wright on Larry McMurtry",
+      "https://themillions.com/2023/09/lawrence-wright-on-larry-mcmurtry.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Category Theory Illustrated – Sets",
       "https://abuseofnotation.github.io/category-theory-illustrated/01_set/"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 07:16:27",
-      "https://news.ycombinator.com/item?id=37477751"
-    ],
-    [
-      "An aroma picker for the Le Nez du Vin game",
-      "https://blog.jgc.org/2023/09/weekend-bricolage-aroma-picker-for-le.html"
     ]
   ]
 ]
