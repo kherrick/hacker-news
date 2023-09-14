@@ -83,6 +83,7 @@
 * [2023-09-12, 12:42:02](https://news.ycombinator.com/item?id=37480260) - [Painting Wind Turbine Blades Black Help Birds Avoid Deadly Collisions](https://www.smithsonianmag.com/smart-news/black-wind-turbine-blades-help-birds-avoid-deadly-collisions-180975668/)
 * [2023-09-12, 12:34:40](https://news.ycombinator.com/item?id=37480155) - [Simulating History with ChatGPT](https://resobscura.substack.com/p/simulating-history-with-chatgpt)
 * [2023-09-12, 12:29:26](https://news.ycombinator.com/item?id=37480091) - [Why People Leave, Stay, or Try to Burn It All Down](https://www.artofmanliness.com/character/behavior/exit-voice-loyalty-neglect-why-people-leave-stay-or-try-to-burn-it-all-down/)
+* [2023-09-12, 12:26:21](https://news.ycombinator.com/item?id=37480039) - [Scientists figured out how to write in water](https://arstechnica.com/science/2023/09/scientists-figured-out-how-to-write-in-water/)
 * [2023-09-12, 12:17:37](https://news.ycombinator.com/item?id=37479933) - [Ask HN: Has anyone here learned COBOL for fun? How did it go?](https://news.ycombinator.com/item?id=37479933)
 * [2023-09-12, 12:14:23](https://news.ycombinator.com/item?id=37479901) - [Software control USB power on some USB hubs](https://github.com/codazoda/hub-ctrl.c)
 * [2023-09-12, 12:03:34](https://news.ycombinator.com/item?id=37479774) - [Vitalik Buterin reveals X account hack was caused by SIM-swap attack](https://cointelegraph.com/news/vitalik-buterin-reveals-x-account-hack-was-caused-by-sim-swap-attack)
