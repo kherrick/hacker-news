@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-14, 03:41:55](https://news.ycombinator.com/item?id=37504720) - [Early response to false claims in Wikipedia, 15 years later](https://firstmonday.org/ojs/index.php/fm/article/view/12912/11332)
 * [2023-09-14, 01:16:31](https://news.ycombinator.com/item?id=37503731) - [Detecting SSH Tunnels (2017)](https://www.trisul.org/blog/detecting-ssh-tunnels/)
 * [2023-09-14, 00:55:34](https://news.ycombinator.com/item?id=37503587) - [I paid for Sublime Text](https://github.com/kapitanluffy/i-shamefully-paid-for-sublime-text)
 * [2023-09-14, 00:19:07](https://news.ycombinator.com/item?id=37503351) - [Game Development Post-Unity](https://www.computerenhance.com/p/game-development-post-unity)
@@ -18,9 +19,8 @@
 * [2023-09-13, 15:20:01](https://news.ycombinator.com/item?id=37497956) - [Bitty Engine: An itty bitty game engine](https://paladin-t.github.io/bitty/)
 * [2023-09-13, 14:37:55](https://news.ycombinator.com/item?id=37497345) - [Skip the API, ship your database](https://fly.io/blog/skip-the-api/)
 * [2023-09-13, 14:21:45](https://news.ycombinator.com/item?id=37497131) - [Why Fennel?](https://fennel-lang.org/rationale)
-* [2023-09-13, 12:32:22](https://news.ycombinator.com/item?id=37495873) - [Against LLM Maximalism](https://explosion.ai/blog/against-llm-maximalism/)
-* [2023-09-13, 12:18:23](https://news.ycombinator.com/item?id=37495731) - [VoCore – Coin-sized Linux Computer](https://vocore.io/)
 * [2023-09-13, 09:58:14](https://news.ycombinator.com/item?id=37494605) - [RustRover – A standalone Rust IDE](https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/)
+* [2023-09-13, 03:31:07](https://news.ycombinator.com/item?id=37491862) - [Any sufficiently advanced uninstaller is indistinguishable from malware](https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749)
 * [2023-09-13, 00:34:34](https://news.ycombinator.com/item?id=37490644) - [The Greatest Counterfeiter (2021)](https://www.guo.io/the-greatest-counterfeiter-in-the-world/)
 * [2023-09-12, 23:49:12](https://news.ycombinator.com/item?id=37490286) - [The Lindy Effect](https://arxiv.org/abs/2308.09045)
 * [2023-09-12, 18:18:47](https://news.ycombinator.com/item?id=37485234) - [FM Radio Wave Based Early Earthquake Detection](https://www.semanticscholar.org/paper/FM-Radio-Wave-Based-Early-Earthquake-Detection-S.-A./9c16db904623d7aa794ea90ae7d0067d6ea71d96)
