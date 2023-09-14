@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-14](index.md)
 
 * [2023-09-14, 19:59:35](https://news.ycombinator.com/item?id=37514051) - [Rivers are rapidly warming, losing oxygen; aquatic life at risk, study finds](https://www.eurekalert.org/news-releases/1001268)
+* [2023-09-14, 19:20:27](https://news.ycombinator.com/item?id=37513539) - [Tesla’s new car-building process could be an industrial breakthrough](https://www.theverge.com/2023/9/14/23873345/tesla-gigapress-gigacasting-manufacturing-breakthrough)
 * [2023-09-14, 19:08:15](https://news.ycombinator.com/item?id=37513364) - [Unity will quietly waive fees if developers switch to its ad monetisation](https://www.eurogamer.net/unity-will-quietly-waive-controversial-fees-if-developers-switch-to-its-ad-monetisation-service-report)
 * [2023-09-14, 19:05:34](https://news.ycombinator.com/item?id=37513324) - [Unity is offering a runtime fee waiver if you switch to LevelPlay](https://mobilegamer.biz/unity-is-offering-a-runtime-fee-waiver-if-you-switch-to-levelplay-as-it-tries-to-kill-applovin/)
 * [2023-09-14, 18:44:35](https://news.ycombinator.com/item?id=37513037) - [On Writing (or not): Bad habits and why the voice in my head needs to shut up](https://bessstillman.substack.com/p/on-writing-or-not)
