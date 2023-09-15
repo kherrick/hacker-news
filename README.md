@@ -4,6 +4,7 @@
 * [2023-09-15, 22:05:55](https://news.ycombinator.com/item?id=37529666) - [“Most notorious” illegal shadow library (LibGen) sued by textbook publishers](https://arstechnica.com/tech-policy/2023/09/most-notorious-illegal-shadow-library-sued-by-textbook-publishers/)
 * [2023-09-15, 21:42:23](https://news.ycombinator.com/item?id=37529459) - [MDMA-assisted therapy for PTSD: A randomized, placebo-controlled phase 3 trial](https://www.nature.com/articles/s41591-023-02565-4)
 * [2023-09-15, 20:39:11](https://news.ycombinator.com/item?id=37528816) - [“Inverse vaccine” shows potential to treat MS and other autoimmune diseases](https://pme.uchicago.edu/news/inverse-vaccine-shows-potential-treat-multiple-sclerosis-and-other-autoimmune-diseases)
+* [2023-09-15, 20:05:05](https://news.ycombinator.com/item?id=37528472) - [Everyday uses for PVC water pipe](https://tomtilley.net/projects/pvc/)
 * [2023-09-15, 20:03:41](https://news.ycombinator.com/item?id=37528453) - [The first week of US v. Google – Defaults are everything and nobody likes Bing](https://www.theverge.com/2023/9/15/23875342/justice-department-google-antitrust-search-trial-week-one-recap)
 * [2023-09-15, 19:58:03](https://news.ycombinator.com/item?id=37528394) - [Zero Effort Private Key Compromise: Abusing SSH-Agent for Lateral Movement](https://grahamhelton.com/blog/ssh_agent/)
 * [2023-09-15, 19:53:24](https://news.ycombinator.com/item?id=37528338) - [We have two separate salt-taste systems](https://nautil.us/salt-taste-is-surprisingly-mysterious-382855/)
@@ -28,7 +29,6 @@
 * [2023-09-15, 06:44:15](https://news.ycombinator.com/item?id=37519368) - [VÉgA – Vocabulary of Ancient Egyptian](https://vega-vocabulaire-egyptien-ancien.fr/en/welcome-page/)
 * [2023-09-15, 02:08:05](https://news.ycombinator.com/item?id=37517368) - [95 bits per second](https://popey.com/blog/2023/09/95-bits-per-second/)
 * [2023-09-14, 21:02:47](https://news.ycombinator.com/item?id=37514801) - [Webhook Failure Scenarios](https://hermanradtke.com/webhook-failure-scenarios/)
-* [2023-09-14, 20:01:47](https://news.ycombinator.com/item?id=37514079) - [Archaeologists discover ancient drawings in a Spanish cave](https://www.smithsonianmag.com/smart-news/archaeologists-discover-more-than-100-ancient-drawings-in-spanish-cave-180982898/)
 * [2023-09-14, 07:28:57](https://news.ycombinator.com/item?id=37506028) - [Painting with math: A gentle study of raymarching](https://blog.maximeheckel.com/posts/painting-with-math-a-gentle-study-of-raymarching/)
 
 ## [Archives](archives/index.md)
