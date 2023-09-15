@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 21:32:57](https://news.ycombinator.com/item?id=37529381) - [We use TypeScript not based on preference, but because we want to make money](https://paularmstrong.dev/blog/2023/09/14/we-use-type-safety-not-on-preference-but-because-we-want-to-make-money/)
+* [2023-09-15, 21:13:21](https://news.ycombinator.com/item?id=37529197) - [Unicorn Startup Airtable Lays Off 27% of Firm, Shifts Focus to Big Clients](https://www.forbes.com/sites/stevenbertoni/2023/09/14/unicorn-startup-airtable-lays-off-27-of-firm-shifts-focus-to-big-clients/)
 * [2023-09-15, 20:39:11](https://news.ycombinator.com/item?id=37528816) - [“Inverse vaccine” shows potential to treat MS and other autoimmune diseases](https://pme.uchicago.edu/news/inverse-vaccine-shows-potential-treat-multiple-sclerosis-and-other-autoimmune-diseases)
 * [2023-09-15, 20:21:18](https://news.ycombinator.com/item?id=37528652) - [Birds with more complex vocal skills are better problem-solvers](https://www.sciencenews.org/article/birds-complex-vocal-skills-problem-solvers)
 * [2023-09-15, 20:01:46](https://news.ycombinator.com/item?id=37528432) - [Tech workers demand high salaries despite hiring slowdown](https://www2.staffingindustry.com/Editorial/Daily-News/Tech-workers-demand-high-salaries-despite-hiring-slowdown-Lorien-66817)
+* [2023-09-15, 19:58:03](https://news.ycombinator.com/item?id=37528394) - [Zero Effort Private Key Compromise: Abusing SSH-Agent for Lateral Movement](https://grahamhelton.com/blog/ssh_agent/)
 * [2023-09-15, 19:53:24](https://news.ycombinator.com/item?id=37528338) - [Salt Taste Is Surprisingly Mysterious](https://nautil.us/salt-taste-is-surprisingly-mysterious-382855/)
 * [2023-09-15, 19:32:38](https://news.ycombinator.com/item?id=37528098) - [Show HN: IncarnaMind-Chat with your multiple docs using LLMs](https://github.com/junruxiong/IncarnaMind)
 * [2023-09-15, 19:28:23](https://news.ycombinator.com/item?id=37528048) - [Musk’s X revokes paid blue check from United Auto Workers after strike called](https://arstechnica.com/tech-policy/2023/09/musks-x-revokes-paid-blue-check-from-united-auto-workers-after-strike-called/)
