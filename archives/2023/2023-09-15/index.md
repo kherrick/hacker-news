@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 15:03:32](https://news.ycombinator.com/item?id=37524158) - [California lawmakers pass bill to make it easier to delete online personal data](https://www.latimes.com/politics/story/2023-09-14/california-bill-delete-online-personal-data)
+* [2023-09-15, 14:53:56](https://news.ycombinator.com/item?id=37523992) - [Google to pay $93M in settlement over deceptive location tracking](https://www.theguardian.com/technology/2023/sep/14/google-location-tracking-data-settlement)
+* [2023-09-15, 14:47:22](https://news.ycombinator.com/item?id=37523873) - [We forced our company to allow work from home again](https://old.reddit.com/r/sysadmin/comments/16j8kw4/we_forced_our_company_to_allow_work_from_home/)
+* [2023-09-15, 14:09:09](https://news.ycombinator.com/item?id=37523188) - [Ask HN: Why Don't Developers Support Open Source Maintainers?](https://news.ycombinator.com/item?id=37523188)
 * [2023-09-15, 14:03:18](https://news.ycombinator.com/item?id=37523114) - [Bike tire made from NASA’s shape-shifting metal are now available to buy](https://www.theverge.com/2023/9/14/23873153/nasa-bike-tire-shape-memory-price-smart-specs)
 * [2023-09-15, 13:59:29](https://news.ycombinator.com/item?id=37523060) - [Can Affluence and Affordable Housing Coexist in Colorado’s Rockies?](https://www.nytimes.com/2023/08/17/business/economy/colorado-rocky-mountain-housing.html)
 * [2023-09-15, 13:53:21](https://news.ycombinator.com/item?id=37522979) - [Salesforce is hiring over 3k people, despite axing 10% of staff](https://www.businessinsider.com/salesforce-hire-3-000-people-brutal-job-cuts-this-year-2023-9)
@@ -11,6 +15,7 @@
 * [2023-09-15, 13:44:47](https://news.ycombinator.com/item?id=37522858) - [Carrefour puts ‘shrinkflation’ price warnings on food to shame brands](https://www.theguardian.com/business/2023/sep/14/carrefour-puts-shrinkflation-price-warnings-on-food-to-shame-brands)
 * [2023-09-15, 13:41:23](https://news.ycombinator.com/item?id=37522799) - [Johnson and Johnson is getting rid of its script logo after more than 130 years](https://www.cnbc.com/2023/09/14/johnson-johnson-has-a-new-logo-after-more-than-130-years.html)
 * [2023-09-15, 13:40:35](https://news.ycombinator.com/item?id=37522789) - [We Think That Product Hunt Is Still a Thing – Here's Why](https://www.permit.io/blog/producthunt-howto)
+* [2023-09-15, 13:34:14](https://news.ycombinator.com/item?id=37522700) - [Understanding the Origins and the Evolution of Vi and Vim](https://pikuma.com/blog/origins-of-vim-text-editor)
 * [2023-09-15, 13:28:59](https://news.ycombinator.com/item?id=37522644) - [GlassFish Embedded – a simple way to run Jakarta EE apps](https://omnifish.ee/2023/09/15/glassfish-embedded-a-simple-way-to-run-jakarta-ee-apps/)
 * [2023-09-15, 12:43:52](https://news.ycombinator.com/item?id=37522106) - [Akiyoshi’s Illusion Pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)
 * [2023-09-15, 12:43:41](https://news.ycombinator.com/item?id=37522105) - [How Have Women Evolved to Attract Men?](https://unchartedterritories.tomaspueyo.com/p/how-have-women-evolved-to-attract)
@@ -18,6 +23,7 @@
 * [2023-09-15, 12:13:59](https://news.ycombinator.com/item?id=37521804) - [The Pixel Tablet is just a few spare parts in a half-empty body](https://arstechnica.com/gadgets/2023/09/the-pixel-tablet-is-actually-just-a-few-spare-parts-in-a-half-empty-body/)
 * [2023-09-15, 12:02:27](https://news.ycombinator.com/item?id=37521710) - [TikTok fined €345M for breaking EU data law on children’s accounts](https://www.theguardian.com/technology/2023/sep/15/tiktok-fined-345m-for-breaking-eu-data-law-on-childrens-accounts)
 * [2023-09-15, 12:00:44](https://news.ycombinator.com/item?id=37521690) - [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers)
+* [2023-09-15, 11:41:26](https://news.ycombinator.com/item?id=37521508) - [Project: ICE cube thruster](https://www.imperial.ac.uk/aeronautics/research/facilities/space-lab/ice-cube-thruster/)
 * [2023-09-15, 11:24:31](https://news.ycombinator.com/item?id=37521375) - [Show HN: I built a dataset of 25k+ Gumroad products to spot market opportunities](https://gumtrends.com)
 * [2023-09-15, 11:21:09](https://news.ycombinator.com/item?id=37521340) - [Inflation-adjusted iPhone 15 most affordable base model since 2007 original](https://www.perfectrec.com/posts/iPhone15-price)
 * [2023-09-15, 11:08:06](https://news.ycombinator.com/item?id=37521240) - [How does Linux start a process](https://iq.thc.org/how-does-linux-start-a-process)
