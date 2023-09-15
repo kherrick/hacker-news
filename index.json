@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-09-15, 02:20:58",
-      "https://news.ycombinator.com/item?id=37517473"
-    ],
-    [
-      "TSA officers accused of stealing from passengers",
-      "https://www.nbcmiami.com/news/local/new-surveillance-footage-shows-miami-tsa-officers-accused-of-stealing-from-passengers/3109762/"
-    ]
-  ],
-  [
-    [
       "2023-09-15, 02:03:04",
       "https://news.ycombinator.com/item?id=37517329"
     ],
@@ -105,7 +95,7 @@
       "https://news.ycombinator.com/item?id=37515996"
     ],
     [
-      "Inaturalist strikes out on its own",
+      "iNaturalist strikes out on its own",
       "https://baynature.org/2023/09/12/inaturalist-strikes-out-on-its-own/"
     ]
   ],
@@ -207,6 +197,16 @@
     [
       "Whonix – an OS focused on anonymity, privacy and security",
       "https://www.whonix.org"
+    ]
+  ],
+  [
+    [
+      "2023-09-14, 14:42:03",
+      "https://news.ycombinator.com/item?id=37509659"
+    ],
+    [
+      "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+      "https://arxiv.org/abs/2309.06180"
     ]
   ],
   [
