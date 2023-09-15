@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-15, 17:38:28](https://news.ycombinator.com/item?id=37526556) - [The Gap in the Armor of Baldur’s Gate and 5e](https://acoup.blog/2023/09/15/collections-the-gap-in-the-armor-of-baldurs-gate-and-5e/)
 * [2023-09-15, 17:34:52](https://news.ycombinator.com/item?id=37526512) - [Plex announced to block instances on German hosting provider Hetzner](https://forums.plex.tv/t/not-allowed-to-use-hetzner/853570)
 * [2023-09-15, 17:32:25](https://news.ycombinator.com/item?id=37526477) - [Kopia: Open-Source, Fast and Secure Open-Source Backup Software](https://kopia.io/)
 * [2023-09-15, 17:26:26](https://news.ycombinator.com/item?id=37526399) - [Bitcoin and the dangerous fantasy of ‘apolitical’ money (2013)](https://www.yanisvaroufakis.eu/2013/04/22/bitcoin-and-the-dangerous-fantasy-of-apolitical-money/)
@@ -8,7 +9,6 @@
 * [2023-09-15, 16:59:15](https://news.ycombinator.com/item?id=37526047) - [Why my favourite API is a zipfile on the European Central Bank's website](https://csvbase.com/blog/5)
 * [2023-09-15, 16:22:52](https://news.ycombinator.com/item?id=37525484) - [The Most Underrated Application of LLMs](https://blog.kasperjunge.com/text-classifiers-are-an-underrated-use-case-of-llms)
 * [2023-09-15, 16:15:54](https://news.ycombinator.com/item?id=37525348) - [How to Store a Chess Game in 26 Bytes Using Bit-Level Magic (2022)](https://www.ezzeriesa.com/index/Writing%20efa7772a3ae64a8193c7ef981ac619fc/Compressing%20chess%20positions%20for%20fun%20and%20profit%20df1fdb5364eb42fdac11eb23b25e9605.html)
-* [2023-09-15, 15:59:40](https://news.ycombinator.com/item?id=37525069) - [Should I Rust or should I Go](https://kerkour.com/should-i-rust-or-should-i-go)
 * [2023-09-15, 15:49:09](https://news.ycombinator.com/item?id=37524890) - [Optimizing LLMs from a Dataset Perspective](https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html)
 * [2023-09-15, 15:37:59](https://news.ycombinator.com/item?id=37524686) - [Artificial intelligence can revolutionise science](https://www.economist.com/leaders/2023/09/14/how-artificial-intelligence-can-revolutionise-science)
 * [2023-09-15, 15:06:42](https://news.ycombinator.com/item?id=37524202) - [Show HN: Shrinkflation Tracker](https://www.shrinkflation.io/)

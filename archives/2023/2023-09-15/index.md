@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 17:38:28](https://news.ycombinator.com/item?id=37526556) - [The Gap in the Armor of Baldur’s Gate and 5e](https://acoup.blog/2023/09/15/collections-the-gap-in-the-armor-of-baldurs-gate-and-5e/)
 * [2023-09-15, 17:34:52](https://news.ycombinator.com/item?id=37526512) - [Plex announced to block instances on German hosting provider Hetzner](https://forums.plex.tv/t/not-allowed-to-use-hetzner/853570)
 * [2023-09-15, 17:32:25](https://news.ycombinator.com/item?id=37526477) - [Kopia: Open-Source, Fast and Secure Open-Source Backup Software](https://kopia.io/)
 * [2023-09-15, 17:26:26](https://news.ycombinator.com/item?id=37526399) - [Bitcoin and the dangerous fantasy of ‘apolitical’ money (2013)](https://www.yanisvaroufakis.eu/2013/04/22/bitcoin-and-the-dangerous-fantasy-of-apolitical-money/)
