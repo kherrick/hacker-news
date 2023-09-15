@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=37516835"
     ],
     [
-      "Cannabis use raises the risk of major depression, bipolar disorder and psychosis",
+      "Cannabis use disorder and subsequent risk of depression and bipolar disorder",
       "https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2804862"
     ]
   ],
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2023-09-14, 14:42:03",
+      "https://news.ycombinator.com/item?id=37509659"
+    ],
+    [
+      "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+      "https://arxiv.org/abs/2309.06180"
+    ]
+  ],
+  [
+    [
       "2023-09-14, 14:38:24",
       "https://news.ycombinator.com/item?id=37509624"
     ],
@@ -227,16 +237,6 @@
     [
       "Show HN: Nue – A React/Vue/Vite/Astro Alternative",
       "https://nuejs.org"
-    ]
-  ],
-  [
-    [
-      "2023-09-14, 11:00:46",
-      "https://news.ycombinator.com/item?id=37507355"
-    ],
-    [
-      "How to build a IP geolocation database from scratch?",
-      "https://ipapi.is/geolocation.html"
     ]
   ],
   [
