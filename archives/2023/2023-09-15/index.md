@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 15:15:41](https://news.ycombinator.com/item?id=37524331) - [Repeat after me: building any new homes reduces housing costs for all](https://www.ft.com/content/86836af4-6b52-49e8-a8f0-8aec6181dbc5)
+* [2023-09-15, 15:11:04](https://news.ycombinator.com/item?id=37524275) - [United flight descends 28,000 feet in 8 minutes for ‘pressurization issue’](https://www.cnn.com/travel/article/united-airlines-flight-drops-pressurization/index.html)
 * [2023-09-15, 15:03:32](https://news.ycombinator.com/item?id=37524158) - [California lawmakers pass bill to make it easier to delete online personal data](https://www.latimes.com/politics/story/2023-09-14/california-bill-delete-online-personal-data)
 * [2023-09-15, 14:53:56](https://news.ycombinator.com/item?id=37523992) - [Google to pay $93M in settlement over deceptive location tracking](https://www.theguardian.com/technology/2023/sep/14/google-location-tracking-data-settlement)
 * [2023-09-15, 14:47:22](https://news.ycombinator.com/item?id=37523873) - [We forced our company to allow work from home again](https://old.reddit.com/r/sysadmin/comments/16j8kw4/we_forced_our_company_to_allow_work_from_home/)
@@ -16,6 +18,7 @@
 * [2023-09-15, 13:41:23](https://news.ycombinator.com/item?id=37522799) - [Johnson and Johnson is getting rid of its script logo after more than 130 years](https://www.cnbc.com/2023/09/14/johnson-johnson-has-a-new-logo-after-more-than-130-years.html)
 * [2023-09-15, 13:40:35](https://news.ycombinator.com/item?id=37522789) - [We Think That Product Hunt Is Still a Thing – Here's Why](https://www.permit.io/blog/producthunt-howto)
 * [2023-09-15, 13:34:14](https://news.ycombinator.com/item?id=37522700) - [Understanding the Origins and the Evolution of Vi and Vim](https://pikuma.com/blog/origins-of-vim-text-editor)
+* [2023-09-15, 13:32:37](https://news.ycombinator.com/item?id=37522679) - [Show HN: React widget for open source AI assistant](https://www.npmjs.com/package/docsgpt)
 * [2023-09-15, 13:28:59](https://news.ycombinator.com/item?id=37522644) - [GlassFish Embedded – a simple way to run Jakarta EE apps](https://omnifish.ee/2023/09/15/glassfish-embedded-a-simple-way-to-run-jakarta-ee-apps/)
 * [2023-09-15, 12:43:52](https://news.ycombinator.com/item?id=37522106) - [Akiyoshi’s Illusion Pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)
 * [2023-09-15, 12:43:41](https://news.ycombinator.com/item?id=37522105) - [How Have Women Evolved to Attract Men?](https://unchartedterritories.tomaspueyo.com/p/how-have-women-evolved-to-attract)
