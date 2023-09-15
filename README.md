@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-15, 04:00:15](https://news.ycombinator.com/item?id=37518209) - [Show HN: I built an app that lets you create and chat with 3D AI characters](https://www.heyastrocyte.com/)
+* [2023-09-15, 02:49:48](https://news.ycombinator.com/item?id=37517674) - [Claude and LLaMa get basic human anatomy wrong](https://hermitian.substack.com/p/claude-and-llama-get-basic-human)
 * [2023-09-15, 02:33:03](https://news.ycombinator.com/item?id=37517567) - [B612 Font Family](https://b612-font.com/)
 * [2023-09-15, 02:20:58](https://news.ycombinator.com/item?id=37517473) - [TSA officers accused of stealing from passengers](https://www.nbcmiami.com/news/local/new-surveillance-footage-shows-miami-tsa-officers-accused-of-stealing-from-passengers/3109762/)
 * [2023-09-15, 02:03:04](https://news.ycombinator.com/item?id=37517329) - [Linear code is more readable](https://blog.separateconcerns.com/2023-09-11-linear-code.html)
@@ -11,7 +13,6 @@
 * [2023-09-15, 00:10:07](https://news.ycombinator.com/item?id=37516523) - [Unity has seemingly silently removed its GitHub repo that tracks ToS changes](https://www.gamerbraves.com/unity-silently-deletes-github-repo-that-tracks-terms-of-service-changes-and-updated-its-license/)
 * [2023-09-14, 23:15:00](https://news.ycombinator.com/item?id=37516061) - [Analyzing Starfield’s Performance on Nvidia’s 4090 and AMD’s 7900 XTX](https://chipsandcheese.com/2023/09/14/analyzing-starfields-performance-on-nvidias-4090-and-amds-7900-xtx/)
 * [2023-09-14, 23:07:16](https://news.ycombinator.com/item?id=37515996) - [iNaturalist receives $10M Grant, becomes independent 501c3](https://baynature.org/2023/09/12/inaturalist-strikes-out-on-its-own/)
-* [2023-09-14, 22:54:44](https://news.ycombinator.com/item?id=37515894) - [Unity's Licensing Changes: Discover Stride a Community-Driven Open-Source Engine](https://www.stride3d.net/blog/embracing-open-source-stride-as-an-alternative-to-unity/)
 * [2023-09-14, 22:28:08](https://news.ycombinator.com/item?id=37515645) - [Programming Language Inventor or Serial Killer?](https://vole.wtf/coder-serial-killer-quiz/)
 * [2023-09-14, 20:45:06](https://news.ycombinator.com/item?id=37514601) - [MenuetOS](https://menuetos.net)
 * [2023-09-14, 19:21:10](https://news.ycombinator.com/item?id=37513550) - [An Opinionated Yubikey Set-Up Guide](https://www.procustodibus.com/blog/2023/04/how-to-set-up-a-yubikey/)
@@ -22,7 +23,6 @@
 * [2023-09-14, 16:14:17](https://news.ycombinator.com/item?id=37510865) - [Chromebooks will get 10 years of automatic updates](https://blog.google/outreach-initiatives/education/automatic-update-extension-chromebook/)
 * [2023-09-14, 15:45:24](https://news.ycombinator.com/item?id=37510521) - [Reconstructing an invalid TPM event log](https://mjg59.dreamwidth.org/67602.html)
 * [2023-09-14, 15:28:05](https://news.ycombinator.com/item?id=37510274) - [Whonix – an OS focused on anonymity, privacy and security](https://www.whonix.org)
-* [2023-09-14, 14:38:24](https://news.ycombinator.com/item?id=37509624) - [Googlers told to avoid words like ‘share’ and ‘bundle,’ US says](https://www.bloomberg.com/news/newsletters/2023-09-14/googlers-told-to-avoid-words-like-share-and-bundle-us-says-lmj27bhl)
 * [2023-09-14, 14:28:06](https://news.ycombinator.com/item?id=37509507) - [The Tyranny of the Marginal User](https://nothinghuman.substack.com/p/the-tyranny-of-the-marginal-user)
 * [2023-09-14, 11:11:17](https://news.ycombinator.com/item?id=37507419) - [Show HN: Nue – A React/Vue/Vite/Astro Alternative](https://nuejs.org)
 * [2023-09-14, 08:05:19](https://news.ycombinator.com/item?id=37506248) - [Pyobd - a free and open source program for car diagnostics](https://github.com/barracuda-fsh/pyobd)
