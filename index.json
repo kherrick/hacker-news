@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-09-15, 20:01:46",
-      "https://news.ycombinator.com/item?id=37528432"
-    ],
-    [
-      "Tech workers demand high salaries despite hiring slowdown",
-      "https://www2.staffingindustry.com/Editorial/Daily-News/Tech-workers-demand-high-salaries-despite-hiring-slowdown-Lorien-66817"
-    ]
-  ],
-  [
-    [
       "2023-09-15, 19:32:38",
       "https://news.ycombinator.com/item?id=37528098"
     ],
@@ -237,6 +227,16 @@
     [
       "Find my cat: open-source Cat Tracker",
       "https://www.findmycat.io/"
+    ]
+  ],
+  [
+    [
+      "2023-09-15, 08:00:15",
+      "https://news.ycombinator.com/item?id=37519928"
+    ],
+    [
+      "MaplePad – RP2040 Dreamcast controller, VMU, and Purupuru (rumble pack) emulator",
+      "https://github.com/mackieks/MaplePad"
     ]
   ],
   [
