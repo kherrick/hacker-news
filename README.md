@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-15, 12:13:59](https://news.ycombinator.com/item?id=37521804) - [The Pixel Tablet is just a few spare parts in a half-empty body](https://arstechnica.com/gadgets/2023/09/the-pixel-tablet-is-actually-just-a-few-spare-parts-in-a-half-empty-body/)
 * [2023-09-15, 12:02:27](https://news.ycombinator.com/item?id=37521710) - [TikTok fined €345M for breaking EU data law on children’s accounts](https://www.theguardian.com/technology/2023/sep/15/tiktok-fined-345m-for-breaking-eu-data-law-on-childrens-accounts)
 * [2023-09-15, 12:00:44](https://news.ycombinator.com/item?id=37521690) - [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers)
 * [2023-09-15, 11:24:31](https://news.ycombinator.com/item?id=37521375) - [Show HN: I built a dataset of 25k+ Gumroad products to spot market opportunities](https://gumtrends.com)
@@ -7,7 +8,6 @@
 * [2023-09-15, 09:37:04](https://news.ycombinator.com/item?id=37520528) - [‘Sea is constantly dumping bodies’: fears Libya flood death toll may hit 20k](https://www.theguardian.com/world/2023/sep/13/libya-flood-death-toll)
 * [2023-09-15, 09:34:40](https://news.ycombinator.com/item?id=37520509) - [C++Builder 11 Community Edition](https://www.embarcadero.com/products/cbuilder/starter)
 * [2023-09-15, 09:23:50](https://news.ycombinator.com/item?id=37520441) - [BotOrNot (2021)](https://incolumitas.com/pages/BotOrNot/)
-* [2023-09-15, 09:15:23](https://news.ycombinator.com/item?id=37520374) - [Ask HN: How do you manage your “family data warehouse”?](https://news.ycombinator.com/item?id=37520374)
 * [2023-09-15, 08:24:59](https://news.ycombinator.com/item?id=37520079) - [Unity’s New Pricing: A Wake-Up Call on the Importance of Open Source in Gaming](https://ramatak.com/2023/09/15/unitys-new-pricing-a-wake-up-call-on-the-importance-of-open-source-in-gaming/)
 * [2023-09-15, 08:23:23](https://news.ycombinator.com/item?id=37520065) - [On the Impending Crypto Monoculture (2016)](https://www.metzdowd.com/pipermail/cryptography/2016-March/028824.html)
 * [2023-09-15, 08:18:19](https://news.ycombinator.com/item?id=37520039) - [Find my cat: open-source Cat Tracker](https://www.findmycat.io/)
