@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-09-15, 01:34:36",
+      "https://news.ycombinator.com/item?id=37517118"
+    ],
+    [
+      "A mathematical formalization of dimensional analysis",
+      "https://terrytao.wordpress.com/2012/12/29/a-mathematical-formalisation-of-dimensional-analysis/"
+    ]
+  ],
+  [
+    [
       "2023-09-15, 00:56:55",
       "https://news.ycombinator.com/item?id=37516835"
     ],
     [
       "Cannabis use raises the risk of major depression, bipolar disorder and psychosis",
       "https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2804862"
+    ]
+  ],
+  [
+    [
+      "2023-09-15, 00:47:12",
+      "https://news.ycombinator.com/item?id=37516769"
+    ],
+    [
+      "Bluesky Exploits",
+      "https://github.com/qwell/bsky-exploits"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2023-09-14, 19:05:34",
-      "https://news.ycombinator.com/item?id=37513324"
-    ],
-    [
-      "Unity is offering a runtime fee waiver if you switch to LevelPlay",
-      "https://mobilegamer.biz/unity-is-offering-a-runtime-fee-waiver-if-you-switch-to-levelplay-as-it-tries-to-kill-applovin/"
-    ]
-  ],
-  [
-    [
       "2023-09-14, 18:44:35",
       "https://news.ycombinator.com/item?id=37513037"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2023-09-14, 16:24:52",
-      "https://news.ycombinator.com/item?id=37511036"
-    ],
-    [
-      "Intermediate sci knowledge associated with overconfidence and negative attitudes",
-      "https://www.nature.com/articles/s41562-023-01677-8"
-    ]
-  ],
-  [
-    [
       "2023-09-14, 16:15:40",
       "https://news.ycombinator.com/item?id=37510885"
     ],
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2023-09-14, 14:42:03",
-      "https://news.ycombinator.com/item?id=37509659"
-    ],
-    [
-      "Efficient Memory Management for Large Language Model Serving with PagedAttention",
-      "https://arxiv.org/abs/2309.06180"
-    ]
-  ],
-  [
-    [
       "2023-09-14, 14:38:24",
       "https://news.ycombinator.com/item?id=37509624"
     ],
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2023-09-14, 12:18:16",
-      "https://news.ycombinator.com/item?id=37507916"
+      "2023-09-14, 11:11:17",
+      "https://news.ycombinator.com/item?id=37507419"
     ],
     [
-      "Bacteria generate electricity from wastewater",
-      "https://actu.epfl.ch/news/bacteria-generate-electricity-from-wastewater/"
+      "Show HN: Nue – A React/Vue/Vite/Astro Alternative",
+      "https://nuejs.org"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Looking for Virginia Woolf’s Diaries",
       "https://www.theparisreview.org/blog/2023/09/12/looking-for-virginia-woolfs-diaries/"
+    ]
+  ],
+  [
+    [
+      "2023-09-13, 11:12:02",
+      "https://news.ycombinator.com/item?id=37495166"
+    ],
+    [
+      "EndBASIC",
+      "https://www.endbasic.dev/"
     ]
   ],
   [
