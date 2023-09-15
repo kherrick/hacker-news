@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 09:04:22](https://news.ycombinator.com/item?id=37520310) - [Scientists discover how brain cells die in Alzheimer’s](https://www.bbc.com/news/health-66816268)
 * [2023-09-15, 08:47:29](https://news.ycombinator.com/item?id=37520212) - [Delphi 11 Community Edition](https://www.embarcadero.com/products/delphi/starter)
+* [2023-09-15, 08:24:59](https://news.ycombinator.com/item?id=37520079) - [Unity’s New Pricing: A Wake-Up Call on the Importance of Open Source in Gaming](https://ramatak.com/2023/09/15/unitys-new-pricing-a-wake-up-call-on-the-importance-of-open-source-in-gaming/)
+* [2023-09-15, 08:23:23](https://news.ycombinator.com/item?id=37520065) - [On the Impending Crypto Monoculture (2016)](https://www.metzdowd.com/pipermail/cryptography/2016-March/028824.html)
 * [2023-09-15, 08:18:19](https://news.ycombinator.com/item?id=37520039) - [Find my cat: open-source Cat Tracker](https://www.findmycat.io/)
 * [2023-09-15, 08:08:00](https://news.ycombinator.com/item?id=37519982) - [Marginalia Search Receives FUTO Grant](https://www.marginalia.nu/log/88-futo-grant/)
 * [2023-09-15, 08:04:49](https://news.ycombinator.com/item?id=37519961) - [Stripe Forbids Sex Work, but Profits from Non-Consensual Porn](https://www.404media.co/stripe-forbids-sex-work-but-profits-from-non-consensual-porn/)
