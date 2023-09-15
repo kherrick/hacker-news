@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-15, 15:49:09",
+      "https://news.ycombinator.com/item?id=37524890"
+    ],
+    [
+      "Optimizing LLMs from a Dataset Perspective",
+      "https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html"
+    ]
+  ],
+  [
+    [
       "2023-09-15, 15:37:59",
       "https://news.ycombinator.com/item?id=37524686"
     ],
@@ -17,6 +27,16 @@
     [
       "Repeat after me: building any new homes reduces housing costs for all",
       "https://www.ft.com/content/86836af4-6b52-49e8-a8f0-8aec6181dbc5"
+    ]
+  ],
+  [
+    [
+      "2023-09-15, 15:04:22",
+      "https://news.ycombinator.com/item?id=37524169"
+    ],
+    [
+      "Introduction to Hilbert Space [pdf]",
+      "https://www.cphysics.org/article/90771.pdf"
     ]
   ],
   [
@@ -41,22 +61,22 @@
   ],
   [
     [
-      "2023-09-15, 14:43:23",
-      "https://news.ycombinator.com/item?id=37523796"
-    ],
-    [
-      "Harnad: The Symbol Grounding Problem (1990) [pdf]",
-      "https://www.cs.ox.ac.uk/activities/ieg/e-library/sources/harnad90_sgproblem.pdf"
-    ]
-  ],
-  [
-    [
       "2023-09-15, 14:22:23",
       "https://news.ycombinator.com/item?id=37523409"
     ],
     [
       "iPhone 15 USB-C port is 100% standard; MFi certification rumors wrong",
       "https://9to5mac.com/2023/09/15/iphone-15-usb-c-port-compatibility/"
+    ]
+  ],
+  [
+    [
+      "2023-09-15, 14:12:49",
+      "https://news.ycombinator.com/item?id=37523248"
+    ],
+    [
+      "That travel deal you found online may be a one-way ticket to misery",
+      "https://www.wsj.com/lifestyle/travel/vacation-hotels-flights-online-booking-fees-29262506"
     ]
   ],
   [
@@ -91,6 +111,16 @@
   ],
   [
     [
+      "2023-09-15, 13:04:05",
+      "https://news.ycombinator.com/item?id=37522290"
+    ],
+    [
+      "Truthiness in C",
+      "https://dxuuu.xyz/casts.html"
+    ]
+  ],
+  [
+    [
       "2023-09-15, 12:43:52",
       "https://news.ycombinator.com/item?id=37522106"
     ],
@@ -117,16 +147,6 @@
     [
       "UpCodes (YC S17) is hiring remote engineers across the Americas",
       "https://up.codes/careers"
-    ]
-  ],
-  [
-    [
-      "2023-09-15, 11:41:26",
-      "https://news.ycombinator.com/item?id=37521508"
-    ],
-    [
-      "Project: ICE cube thruster",
-      "https://www.imperial.ac.uk/aeronautics/research/facilities/space-lab/ice-cube-thruster/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-09-15, 07:49:22",
-      "https://news.ycombinator.com/item?id=37519852"
-    ],
-    [
-      "The Ashrae Ventilation Recommendations Are Too Low",
-      "https://cerereanscratchpad.blogspot.com/2022/08/the-ashrae-ventilation-recommendations.html"
-    ]
-  ],
-  [
-    [
       "2023-09-15, 06:51:54",
       "https://news.ycombinator.com/item?id=37519418"
     ],
@@ -211,12 +221,22 @@
   ],
   [
     [
-      "2023-09-15, 05:35:45",
-      "https://news.ycombinator.com/item?id=37518874"
+      "2023-09-15, 05:40:54",
+      "https://news.ycombinator.com/item?id=37518920"
     ],
     [
-      "Custom Minecraft Classic client written from scratch in C",
-      "https://github.com/UnknownShadow200/ClassiCube"
+      "Positive Geometries and Amplitudes [pdf]",
+      "https://dept.math.lsa.umich.edu/~tfylam/posgeom/intro.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-09-15, 05:36:32",
+      "https://news.ycombinator.com/item?id=37518882"
+    ],
+    [
+      "Exposing a Podcast Scam [video]",
+      "https://www.youtube.com/watch?v=N3ftBeP16TA"
     ]
   ],
   [
@@ -257,26 +277,6 @@
     [
       "Archaeologists Discover More Than 100 Ancient Drawings in a Spanish Cave",
       "https://www.smithsonianmag.com/smart-news/archaeologists-discover-more-than-100-ancient-drawings-in-spanish-cave-180982898/"
-    ]
-  ],
-  [
-    [
-      "2023-09-14, 14:28:06",
-      "https://news.ycombinator.com/item?id=37509507"
-    ],
-    [
-      "The Tyranny of the Marginal User",
-      "https://nothinghuman.substack.com/p/the-tyranny-of-the-marginal-user"
-    ]
-  ],
-  [
-    [
-      "2023-09-14, 11:11:17",
-      "https://news.ycombinator.com/item?id=37507419"
-    ],
-    [
-      "Show HN: Nue – A React/Vue/Vite/Astro Alternative",
-      "https://nuejs.org"
     ]
   ],
   [
