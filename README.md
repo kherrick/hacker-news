@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-15, 03:10:42](https://news.ycombinator.com/item?id=37517844) - [5:01 And Done: No One Wants to Schmooze After Work](https://www.wsj.com/lifestyle/careers/work-happy-hours-office-culture-4c901cfb)
-* [2023-09-15, 02:49:48](https://news.ycombinator.com/item?id=37517674) - [Claude and LLaMa get basic human anatomy wrong](https://hermitian.substack.com/p/claude-and-llama-get-basic-human)
 * [2023-09-15, 02:33:03](https://news.ycombinator.com/item?id=37517567) - [B612 Font Family](https://b612-font.com/)
 * [2023-09-15, 02:20:58](https://news.ycombinator.com/item?id=37517473) - [TSA officers accused of stealing from passengers](https://www.nbcmiami.com/news/local/new-surveillance-footage-shows-miami-tsa-officers-accused-of-stealing-from-passengers/3109762/)
 * [2023-09-15, 02:03:04](https://news.ycombinator.com/item?id=37517329) - [Linear code is more readable](https://blog.separateconcerns.com/2023-09-11-linear-code.html)
@@ -9,7 +7,7 @@
 * [2023-09-15, 00:47:12](https://news.ycombinator.com/item?id=37516769) - [Bluesky Exploits](https://github.com/qwell/bsky-exploits)
 * [2023-09-15, 00:32:01](https://news.ycombinator.com/item?id=37516665) - [Blogscroll – an open-source directory of personal blogs and digital gardens](https://blogscroll.com/)
 * [2023-09-15, 00:12:24](https://news.ycombinator.com/item?id=37516542) - [Godot Development Fund](https://fund.godotengine.org/)
-* [2023-09-15, 00:10:07](https://news.ycombinator.com/item?id=37516523) - [Unity Silently Deletes GitHub Repo That Tracks Terms of Service Changes](https://www.gamerbraves.com/unity-silently-deletes-github-repo-that-tracks-terms-of-service-changes-and-updated-its-license/)
+* [2023-09-15, 00:10:07](https://news.ycombinator.com/item?id=37516523) - [Unity has seemingly silently removed its GitHub repo that tracks ToS changes](https://www.gamerbraves.com/unity-silently-deletes-github-repo-that-tracks-terms-of-service-changes-and-updated-its-license/)
 * [2023-09-14, 23:15:00](https://news.ycombinator.com/item?id=37516061) - [Analyzing Starfield’s Performance on Nvidia’s 4090 and AMD’s 7900 XTX](https://chipsandcheese.com/2023/09/14/analyzing-starfields-performance-on-nvidias-4090-and-amds-7900-xtx/)
 * [2023-09-14, 23:07:16](https://news.ycombinator.com/item?id=37515996) - [iNaturalist receives $10M Grant, becomes independent 501c3](https://baynature.org/2023/09/12/inaturalist-strikes-out-on-its-own/)
 * [2023-09-14, 22:54:44](https://news.ycombinator.com/item?id=37515894) - [Unity's Licensing Changes: Discover Stride a Community-Driven Open-Source Engine](https://www.stride3d.net/blog/embracing-open-source-stride-as-an-alternative-to-unity/)
@@ -22,6 +20,7 @@
 * [2023-09-14, 16:15:40](https://news.ycombinator.com/item?id=37510885) - [Stolen van Gogh painting returned in an IKEA bag](https://www.smithsonianmag.com/smart-news/dutch-art-detective-recovers-a-van-gogh-stolen-in-2020-180982896/)
 * [2023-09-14, 16:14:17](https://news.ycombinator.com/item?id=37510865) - [Chromebooks will get 10 years of automatic updates](https://blog.google/outreach-initiatives/education/automatic-update-extension-chromebook/)
 * [2023-09-14, 15:28:05](https://news.ycombinator.com/item?id=37510274) - [Whonix – an OS focused on anonymity, privacy and security](https://www.whonix.org)
+* [2023-09-14, 14:38:24](https://news.ycombinator.com/item?id=37509624) - [Googlers told to avoid words like ‘share’ and ‘bundle,’ US says](https://www.bloomberg.com/news/newsletters/2023-09-14/googlers-told-to-avoid-words-like-share-and-bundle-us-says-lmj27bhl)
 * [2023-09-14, 14:28:06](https://news.ycombinator.com/item?id=37509507) - [The Tyranny of the Marginal User](https://nothinghuman.substack.com/p/the-tyranny-of-the-marginal-user)
 * [2023-09-14, 11:11:17](https://news.ycombinator.com/item?id=37507419) - [Show HN: Nue – A React/Vue/Vite/Astro Alternative](https://nuejs.org)
 * [2023-09-14, 08:05:19](https://news.ycombinator.com/item?id=37506248) - [Pyobd - a free and open source program for car diagnostics](https://github.com/barracuda-fsh/pyobd)
@@ -30,6 +29,7 @@
 * [2023-09-13, 08:49:11](https://news.ycombinator.com/item?id=37494001) - [The mathematical reason why agencies get stuck at $50k MRR](http://jakobgreenfeld.com/agency-model)
 * [2023-09-13, 08:44:19](https://news.ycombinator.com/item?id=37493955) - [What Is Dimensional Analysis?](https://cgad.ski/blog/what-is-dimensional-analysis.html)
 * [2023-09-13, 08:25:42](https://news.ycombinator.com/item?id=37493792) - [The washing machine in my ear, and an empty boat](https://blog.klungo.no/2023/09/12/the-washing-machine-in-my-ear-and-an-empty-boat/)
+* [2023-09-12, 23:00:41](https://news.ycombinator.com/item?id=37489801) - [Compile time regular expression in C++](https://github.com/hanickadot/compile-time-regular-expressions)
 
 ## [Archives](archives/index.md)
 
