@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 18:38:52](https://news.ycombinator.com/item?id=37527412) - [Google nears release of Gemini AI](https://www.reuters.com/technology/google-nears-release-ai-software-gemini-information-2023-09-15/)
 * [2023-09-15, 18:14:28](https://news.ycombinator.com/item?id=37527060) - [Is Unity allowed to just change its fee structure like that?](https://arstechnica.com/gaming/2023/09/wait-is-unity-allowed-to-just-change-its-fee-structure-like-that/)
 * [2023-09-15, 17:38:28](https://news.ycombinator.com/item?id=37526556) - [The Gap in the Armor of Baldur’s Gate and 5e](https://acoup.blog/2023/09/15/collections-the-gap-in-the-armor-of-baldurs-gate-and-5e/)
 * [2023-09-15, 17:34:52](https://news.ycombinator.com/item?id=37526512) - [Plex announced to block instances on German hosting provider Hetzner](https://forums.plex.tv/t/not-allowed-to-use-hetzner/853570)
