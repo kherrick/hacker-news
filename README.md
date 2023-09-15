@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-14, 23:15:00](https://news.ycombinator.com/item?id=37516061) - [Analyzing Starfield’s Performance on Nvidia’s 4090 and AMD’s 7900 XTX](https://chipsandcheese.com/2023/09/14/analyzing-starfields-performance-on-nvidias-4090-and-amds-7900-xtx/)
 * [2023-09-14, 23:07:16](https://news.ycombinator.com/item?id=37515996) - [iNaturalist receives $10M Grant, becomes independent 501c3](https://baynature.org/2023/09/12/inaturalist-strikes-out-on-its-own/)
 * [2023-09-14, 22:28:08](https://news.ycombinator.com/item?id=37515645) - [Programming Language Inventor or Serial Killer?](https://vole.wtf/coder-serial-killer-quiz/)
-* [2023-09-14, 22:26:09](https://news.ycombinator.com/item?id=37515625) - [Apple's A17 Pro Within 10% of i9-13900K, 7950X in Single-Core Performance](https://www.tomshardware.com/news/apples-a17-pro-challenges-core-i9-13900k-ryzen-7950x-in-single-core-performance)
-* [2023-09-14, 21:14:32](https://news.ycombinator.com/item?id=37514941) - [Utilu Standalone Internet Explorer Collection](https://utilu.com/IECollection/)
 * [2023-09-14, 20:45:06](https://news.ycombinator.com/item?id=37514601) - [MenuetOS](https://menuetos.net)
 * [2023-09-14, 19:59:35](https://news.ycombinator.com/item?id=37514051) - [Rivers are rapidly warming, losing oxygen; aquatic life at risk, study finds](https://www.eurekalert.org/news-releases/1001268)
 * [2023-09-14, 19:21:10](https://news.ycombinator.com/item?id=37513550) - [An Opinionated Yubikey Set-Up Guide](https://www.procustodibus.com/blog/2023/04/how-to-set-up-a-yubikey/)
@@ -26,6 +25,7 @@
 * [2023-09-14, 11:00:46](https://news.ycombinator.com/item?id=37507355) - [How to build a IP geolocation database from scratch?](https://ipapi.is/geolocation.html)
 * [2023-09-14, 00:43:29](https://news.ycombinator.com/item?id=37503506) - [Who and What Was a Knocker-Upper?](https://daily.jstor.org/who-and-what-was-a-knocker-upper/)
 * [2023-09-13, 20:21:30](https://news.ycombinator.com/item?id=37501231) - [Don’t mess with a genius (2010)](https://shreevatsa.wordpress.com/2010/06/04/dont-mess-with-a-genius/)
+* [2023-09-13, 19:57:57](https://news.ycombinator.com/item?id=37500979) - [Looking for Virginia Woolf’s Diaries](https://www.theparisreview.org/blog/2023/09/12/looking-for-virginia-woolfs-diaries/)
 * [2023-09-13, 08:44:19](https://news.ycombinator.com/item?id=37493955) - [What Is Dimensional Analysis?](https://cgad.ski/blog/what-is-dimensional-analysis.html)
 * [2023-09-13, 08:25:42](https://news.ycombinator.com/item?id=37493792) - [The washing machine in my ear, and an empty boat](https://blog.klungo.no/2023/09/12/the-washing-machine-in-my-ear-and-an-empty-boat/)
 * [2023-09-13, 06:22:04](https://news.ycombinator.com/item?id=37492877) - [Hypervisor from Scratch (2022)](https://rayanfam.com/tutorials/)
