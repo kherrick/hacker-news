@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 12:02:27](https://news.ycombinator.com/item?id=37521710) - [TikTok fined €345M for breaking EU data law on children’s accounts](https://www.theguardian.com/technology/2023/sep/15/tiktok-fined-345m-for-breaking-eu-data-law-on-childrens-accounts)
+* [2023-09-15, 12:00:44](https://news.ycombinator.com/item?id=37521690) - [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers)
 * [2023-09-15, 11:24:31](https://news.ycombinator.com/item?id=37521375) - [Show HN: I built a dataset of 25k+ Gumroad products to spot market opportunities](https://gumtrends.com)
+* [2023-09-15, 11:08:06](https://news.ycombinator.com/item?id=37521240) - [How does Linux start a process](https://iq.thc.org/how-does-linux-start-a-process)
 * [2023-09-15, 10:59:15](https://news.ycombinator.com/item?id=37521167) - [Ukraine: Europe clearly overtakes US, with total commitments now twice as large](https://www.ifw-kiel.de/publications/news/ukraine-support-tracker-europe-clearly-overtakes-us-with-total-commitments-now-twice-as-large/)
 * [2023-09-15, 09:38:03](https://news.ycombinator.com/item?id=37520536) - [Norway Fining Meta $98,500 per Day for User Privacy Breach](https://www.twipla.com/en/blog/norway-fining-meta-98500-per-day-for-user-privacy-breach)
 * [2023-09-15, 09:37:04](https://news.ycombinator.com/item?id=37520528) - [‘Sea is constantly dumping bodies’: fears Libya flood death toll may hit 20k](https://www.theguardian.com/world/2023/sep/13/libya-flood-death-toll)
@@ -19,6 +22,7 @@
 * [2023-09-15, 08:08:00](https://news.ycombinator.com/item?id=37519982) - [Marginalia Search Receives FUTO Grant](https://www.marginalia.nu/log/88-futo-grant/)
 * [2023-09-15, 08:04:49](https://news.ycombinator.com/item?id=37519961) - [Stripe Forbids Sex Work, but Profits from Non-Consensual Porn](https://www.404media.co/stripe-forbids-sex-work-but-profits-from-non-consensual-porn/)
 * [2023-09-15, 08:00:15](https://news.ycombinator.com/item?id=37519928) - [MaplePad – RP2040 Dreamcast controller, VMU, and Purupuru (rumble pack) emulator](https://github.com/mackieks/MaplePad)
+* [2023-09-15, 07:49:22](https://news.ycombinator.com/item?id=37519852) - [The Ashrae Ventilation Recommendations Are Too Low](https://cerereanscratchpad.blogspot.com/2022/08/the-ashrae-ventilation-recommendations.html)
 * [2023-09-15, 07:00:24](https://news.ycombinator.com/item?id=37519487) - [Eqtble (YC W21) Is Hiring a Data Analyst](https://www.ycombinator.com/companies/eqtble/jobs/bOX2JJp-junior-data-scientist)
 * [2023-09-15, 06:51:54](https://news.ycombinator.com/item?id=37519418) - [Willingham Sends Fables into the Public Domain](https://billwillingham.substack.com/p/willingham-sends-fables-into-the)
 * [2023-09-15, 06:01:45](https://news.ycombinator.com/item?id=37519066) - [Libsodium: A modern, portable, easy to use crypto library](https://github.com/jedisct1/libsodium)
