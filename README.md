@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-15, 17:03:10](https://news.ycombinator.com/item?id=37526099) - [EU confirms six (mostly US) tech giants are subject to Digital Markets Act](https://techcrunch.com/2023/09/06/dma-gatekeepers-named/)
 * [2023-09-15, 17:01:09](https://news.ycombinator.com/item?id=37526070) - [Loops (YC W22) Is Hiring a Remote Front-End Engineer](https://www.ycombinator.com/companies/loops/jobs/R5lUQcn-front-end-engineer)
 * [2023-09-15, 16:59:15](https://news.ycombinator.com/item?id=37526047) - [Why my favourite API is a zipfile on the European Central Bank's website](https://csvbase.com/blog/5)
 * [2023-09-15, 16:51:12](https://news.ycombinator.com/item?id=37525921) - [Google says it can’t fix Pixel Watches, please just buy a new one](https://arstechnica.com/gadgets/2023/09/11-months-after-launch-googles-pixel-watch-still-has-no-path-to-repair/)
@@ -12,7 +13,6 @@
 * [2023-09-15, 14:53:56](https://news.ycombinator.com/item?id=37523992) - [Google to pay $93M in settlement over deceptive location tracking](https://www.theguardian.com/technology/2023/sep/14/google-location-tracking-data-settlement)
 * [2023-09-15, 14:43:23](https://news.ycombinator.com/item?id=37523796) - [Harnad: The Symbol Grounding Problem (1990) [pdf]](https://www.cs.ox.ac.uk/activities/ieg/e-library/sources/harnad90_sgproblem.pdf)
 * [2023-09-15, 13:34:14](https://news.ycombinator.com/item?id=37522700) - [Understanding the Origins and the Evolution of Vi and Vim](https://pikuma.com/blog/origins-of-vim-text-editor)
-* [2023-09-15, 13:28:59](https://news.ycombinator.com/item?id=37522644) - [GlassFish Embedded – a simple way to run Jakarta EE apps](https://omnifish.ee/2023/09/15/glassfish-embedded-a-simple-way-to-run-jakarta-ee-apps/)
 * [2023-09-15, 13:04:05](https://news.ycombinator.com/item?id=37522290) - [Truthiness in C](https://dxuuu.xyz/casts.html)
 * [2023-09-15, 12:43:52](https://news.ycombinator.com/item?id=37522106) - [Akiyoshi’s Illusion Pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)
 * [2023-09-15, 12:02:27](https://news.ycombinator.com/item?id=37521710) - [TikTok fined €345M for breaking EU data law on children’s accounts](https://www.theguardian.com/technology/2023/sep/15/tiktok-fined-345m-for-breaking-eu-data-law-on-childrens-accounts)

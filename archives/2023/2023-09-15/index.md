@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 17:03:10](https://news.ycombinator.com/item?id=37526099) - [EU confirms six (mostly US) tech giants are subject to Digital Markets Act](https://techcrunch.com/2023/09/06/dma-gatekeepers-named/)
 * [2023-09-15, 17:01:09](https://news.ycombinator.com/item?id=37526070) - [Loops (YC W22) Is Hiring a Remote Front-End Engineer](https://www.ycombinator.com/companies/loops/jobs/R5lUQcn-front-end-engineer)
 * [2023-09-15, 16:59:15](https://news.ycombinator.com/item?id=37526047) - [Why my favourite API is a zipfile on the European Central Bank's website](https://csvbase.com/blog/5)
 * [2023-09-15, 16:51:12](https://news.ycombinator.com/item?id=37525921) - [Google says it can’t fix Pixel Watches, please just buy a new one](https://arstechnica.com/gadgets/2023/09/11-months-after-launch-googles-pixel-watch-still-has-no-path-to-repair/)
