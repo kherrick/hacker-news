@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 15:37:59](https://news.ycombinator.com/item?id=37524686) - [Artificial intelligence can revolutionise science](https://www.economist.com/leaders/2023/09/14/how-artificial-intelligence-can-revolutionise-science)
 * [2023-09-15, 15:15:41](https://news.ycombinator.com/item?id=37524331) - [Repeat after me: building any new homes reduces housing costs for all](https://www.ft.com/content/86836af4-6b52-49e8-a8f0-8aec6181dbc5)
 * [2023-09-15, 15:11:04](https://news.ycombinator.com/item?id=37524275) - [United flight descends 28,000 feet in 8 minutes for ‘pressurization issue’](https://www.cnn.com/travel/article/united-airlines-flight-drops-pressurization/index.html)
 * [2023-09-15, 15:03:32](https://news.ycombinator.com/item?id=37524158) - [California lawmakers pass bill to make it easier to delete online personal data](https://www.latimes.com/politics/story/2023-09-14/california-bill-delete-online-personal-data)
 * [2023-09-15, 14:53:56](https://news.ycombinator.com/item?id=37523992) - [Google to pay $93M in settlement over deceptive location tracking](https://www.theguardian.com/technology/2023/sep/14/google-location-tracking-data-settlement)
 * [2023-09-15, 14:47:22](https://news.ycombinator.com/item?id=37523873) - [We forced our company to allow work from home again](https://old.reddit.com/r/sysadmin/comments/16j8kw4/we_forced_our_company_to_allow_work_from_home/)
+* [2023-09-15, 14:22:23](https://news.ycombinator.com/item?id=37523409) - [iPhone 15 USB-C port is 100% standard; MFi certification rumors wrong](https://9to5mac.com/2023/09/15/iphone-15-usb-c-port-compatibility/)
 * [2023-09-15, 14:09:09](https://news.ycombinator.com/item?id=37523188) - [Ask HN: Why Don't Developers Support Open Source Maintainers?](https://news.ycombinator.com/item?id=37523188)
 * [2023-09-15, 14:03:18](https://news.ycombinator.com/item?id=37523114) - [Bike tire made from NASA’s shape-shifting metal are now available to buy](https://www.theverge.com/2023/9/14/23873153/nasa-bike-tire-shape-memory-price-smart-specs)
 * [2023-09-15, 13:59:29](https://news.ycombinator.com/item?id=37523060) - [Can Affluence and Affordable Housing Coexist in Colorado’s Rockies?](https://www.nytimes.com/2023/08/17/business/economy/colorado-rocky-mountain-housing.html)
