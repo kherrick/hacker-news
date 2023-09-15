@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 17:01:09](https://news.ycombinator.com/item?id=37526070) - [Loops (YC W22) Is Hiring a Remote Front-End Engineer](https://www.ycombinator.com/companies/loops/jobs/R5lUQcn-front-end-engineer)
+* [2023-09-15, 16:51:12](https://news.ycombinator.com/item?id=37525921) - [Google says it can’t fix Pixel Watches, please just buy a new one](https://arstechnica.com/gadgets/2023/09/11-months-after-launch-googles-pixel-watch-still-has-no-path-to-repair/)
 * [2023-09-15, 16:15:54](https://news.ycombinator.com/item?id=37525348) - [How to Store a Chess Game in 26 Bytes Using Bit-Level Magic (2022)](https://www.ezzeriesa.com/index/Writing%20efa7772a3ae64a8193c7ef981ac619fc/Compressing%20chess%20positions%20for%20fun%20and%20profit%20df1fdb5364eb42fdac11eb23b25e9605.html)
 * [2023-09-15, 15:49:09](https://news.ycombinator.com/item?id=37524890) - [Optimizing LLMs from a Dataset Perspective](https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html)
 * [2023-09-15, 15:37:59](https://news.ycombinator.com/item?id=37524686) - [Artificial intelligence can revolutionise science](https://www.economist.com/leaders/2023/09/14/how-artificial-intelligence-can-revolutionise-science)
 * [2023-09-15, 15:15:41](https://news.ycombinator.com/item?id=37524331) - [Repeat after me: building any new homes reduces housing costs for all](https://www.ft.com/content/86836af4-6b52-49e8-a8f0-8aec6181dbc5)
 * [2023-09-15, 15:11:04](https://news.ycombinator.com/item?id=37524275) - [United flight descends 28,000 feet in 8 minutes for ‘pressurization issue’](https://www.cnn.com/travel/article/united-airlines-flight-drops-pressurization/index.html)
+* [2023-09-15, 15:06:42](https://news.ycombinator.com/item?id=37524202) - [Show HN: Shrinkflation Tracker](https://www.shrinkflation.io/)
 * [2023-09-15, 15:04:22](https://news.ycombinator.com/item?id=37524169) - [Introduction to Hilbert Space [pdf]](https://www.cphysics.org/article/90771.pdf)
 * [2023-09-15, 15:03:32](https://news.ycombinator.com/item?id=37524158) - [California lawmakers pass bill to make it easier to delete online personal data](https://www.latimes.com/politics/story/2023-09-14/california-bill-delete-online-personal-data)
 * [2023-09-15, 14:53:56](https://news.ycombinator.com/item?id=37523992) - [Google to pay $93M in settlement over deceptive location tracking](https://www.theguardian.com/technology/2023/sep/14/google-location-tracking-data-settlement)
@@ -64,6 +67,7 @@
 * [2023-09-15, 04:13:09](https://news.ycombinator.com/item?id=37518322) - [Breakthrough Prize Announces 2024 Laureates in Life Sciences, Physics, and Math](https://breakthroughprize.org/News/83)
 * [2023-09-15, 04:00:15](https://news.ycombinator.com/item?id=37518209) - [Show HN: I built an app that lets you create and chat with 3D AI characters](https://www.heyastrocyte.com/)
 * [2023-09-15, 03:38:54](https://news.ycombinator.com/item?id=37518030) - [Human trials of artificial wombs could start soon. Here’s what you need to know](https://www.nature.com/articles/d41586-023-02901-1)
+* [2023-09-15, 03:12:59](https://news.ycombinator.com/item?id=37517861) - [Find That Obscure Function with This Interactive Map of the Linux Kernel](https://hackaday.com/2023/09/14/find-that-obscure-function-with-this-interactive-map-of-the-linux-kernel/)
 * [2023-09-15, 03:10:42](https://news.ycombinator.com/item?id=37517844) - [5:01 And Done: No One Wants to Schmooze After Work](https://www.wsj.com/lifestyle/careers/work-happy-hours-office-culture-4c901cfb)
 * [2023-09-15, 02:49:48](https://news.ycombinator.com/item?id=37517674) - [Claude and LLaMa get basic human anatomy wrong](https://hermitian.substack.com/p/claude-and-llama-get-basic-human)
 * [2023-09-15, 02:33:03](https://news.ycombinator.com/item?id=37517567) - [B612 Font Family](https://b612-font.com/)
