@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-15, 02:49:48](https://news.ycombinator.com/item?id=37517674) - [Claude and LLaMa get basic human anatomy wrong](https://hermitian.substack.com/p/claude-and-llama-get-basic-human)
 * [2023-09-15, 02:33:03](https://news.ycombinator.com/item?id=37517567) - [B612 Font Family](https://b612-font.com/)
 * [2023-09-15, 02:20:58](https://news.ycombinator.com/item?id=37517473) - [TSA officers accused of stealing from passengers](https://www.nbcmiami.com/news/local/new-surveillance-footage-shows-miami-tsa-officers-accused-of-stealing-from-passengers/3109762/)
 * [2023-09-15, 02:03:04](https://news.ycombinator.com/item?id=37517329) - [Linear code is more readable](https://blog.separateconcerns.com/2023-09-11-linear-code.html)
+* [2023-09-15, 01:48:13](https://news.ycombinator.com/item?id=37517216) - [Plex to block all servers hosted at Hetzner](https://links.plex.tv/e/evib?_t=3bef3c50f13f4320a9e31b8be79c6ad2&_m=df59a9eb59db44d2a0dbdbd0ebb61ee5&_e=xDXT7pYRisN-4z7uioydETDUiISVYQQUM0Y_a8MKNPZP6DN9yUpJaWCmlnGMyQQb)
 * [2023-09-15, 01:34:36](https://news.ycombinator.com/item?id=37517118) - [A mathematical formalization of dimensional analysis](https://terrytao.wordpress.com/2012/12/29/a-mathematical-formalisation-of-dimensional-analysis/)
 * [2023-09-15, 00:47:12](https://news.ycombinator.com/item?id=37516769) - [Bluesky Exploits](https://github.com/qwell/bsky-exploits)
 * [2023-09-15, 00:32:01](https://news.ycombinator.com/item?id=37516665) - [Blogscroll – an open-source directory of personal blogs and digital gardens](https://blogscroll.com/)
@@ -20,6 +20,7 @@
 * [2023-09-14, 17:00:39](https://news.ycombinator.com/item?id=37511584) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37511584)
 * [2023-09-14, 16:15:40](https://news.ycombinator.com/item?id=37510885) - [Stolen van Gogh painting returned in an IKEA bag](https://www.smithsonianmag.com/smart-news/dutch-art-detective-recovers-a-van-gogh-stolen-in-2020-180982896/)
 * [2023-09-14, 16:14:17](https://news.ycombinator.com/item?id=37510865) - [Chromebooks will get 10 years of automatic updates](https://blog.google/outreach-initiatives/education/automatic-update-extension-chromebook/)
+* [2023-09-14, 15:45:24](https://news.ycombinator.com/item?id=37510521) - [Reconstructing an invalid TPM event log](https://mjg59.dreamwidth.org/67602.html)
 * [2023-09-14, 15:28:05](https://news.ycombinator.com/item?id=37510274) - [Whonix – an OS focused on anonymity, privacy and security](https://www.whonix.org)
 * [2023-09-14, 14:38:24](https://news.ycombinator.com/item?id=37509624) - [Googlers told to avoid words like ‘share’ and ‘bundle,’ US says](https://www.bloomberg.com/news/newsletters/2023-09-14/googlers-told-to-avoid-words-like-share-and-bundle-us-says-lmj27bhl)
 * [2023-09-14, 14:28:06](https://news.ycombinator.com/item?id=37509507) - [The Tyranny of the Marginal User](https://nothinghuman.substack.com/p/the-tyranny-of-the-marginal-user)
@@ -29,7 +30,6 @@
 * [2023-09-13, 11:12:02](https://news.ycombinator.com/item?id=37495166) - [EndBASIC](https://www.endbasic.dev/)
 * [2023-09-13, 08:49:11](https://news.ycombinator.com/item?id=37494001) - [The mathematical reason why agencies get stuck at $50k MRR](http://jakobgreenfeld.com/agency-model)
 * [2023-09-13, 08:44:19](https://news.ycombinator.com/item?id=37493955) - [What Is Dimensional Analysis?](https://cgad.ski/blog/what-is-dimensional-analysis.html)
-* [2023-09-13, 08:25:42](https://news.ycombinator.com/item?id=37493792) - [The washing machine in my ear, and an empty boat](https://blog.klungo.no/2023/09/12/the-washing-machine-in-my-ear-and-an-empty-boat/)
 
 ## [Archives](archives/index.md)
 
