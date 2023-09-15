@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-15, 16:15:54",
+      "https://news.ycombinator.com/item?id=37525348"
+    ],
+    [
+      "How to Store a Chess Game in 26 Bytes Using Bit-Level Magic (2022)",
+      "https://www.ezzeriesa.com/index/Writing%20efa7772a3ae64a8193c7ef981ac619fc/Compressing%20chess%20positions%20for%20fun%20and%20profit%20df1fdb5364eb42fdac11eb23b25e9605.html"
+    ]
+  ],
+  [
+    [
       "2023-09-15, 15:49:09",
       "https://news.ycombinator.com/item?id=37524890"
     ],
@@ -21,21 +31,11 @@
   ],
   [
     [
-      "2023-09-15, 15:15:41",
-      "https://news.ycombinator.com/item?id=37524331"
-    ],
-    [
-      "Repeat after me: building any new homes reduces housing costs for all",
-      "https://www.ft.com/content/86836af4-6b52-49e8-a8f0-8aec6181dbc5"
-    ]
-  ],
-  [
-    [
       "2023-09-15, 15:04:22",
       "https://news.ycombinator.com/item?id=37524169"
     ],
     [
-      "Introduction to Hilbert Space [pdf]",
+      "Introduction to Hilbert Space (2022) [pdf]",
       "https://www.cphysics.org/article/90771.pdf"
     ]
   ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2023-09-15, 05:35:45",
+      "https://news.ycombinator.com/item?id=37518874"
+    ],
+    [
+      "Custom Minecraft Classic client written from scratch in C",
+      "https://github.com/UnknownShadow200/ClassiCube"
+    ]
+  ],
+  [
+    [
       "2023-09-15, 02:33:03",
       "https://news.ycombinator.com/item?id=37517567"
     ],
@@ -257,16 +267,6 @@
     [
       "A mathematical formalization of dimensional analysis (2012)",
       "https://terrytao.wordpress.com/2012/12/29/a-mathematical-formalisation-of-dimensional-analysis/"
-    ]
-  ],
-  [
-    [
-      "2023-09-14, 21:02:47",
-      "https://news.ycombinator.com/item?id=37514801"
-    ],
-    [
-      "Webhook Failure Scenarios",
-      "https://hermanradtke.com/webhook-failure-scenarios/"
     ]
   ],
   [
