@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 10:59:15](https://news.ycombinator.com/item?id=37521167) - [Ukraine: Europe clearly overtakes US, with total commitments now twice as large](https://www.ifw-kiel.de/publications/news/ukraine-support-tracker-europe-clearly-overtakes-us-with-total-commitments-now-twice-as-large/)
 * [2023-09-15, 09:38:03](https://news.ycombinator.com/item?id=37520536) - [Norway Fining Meta $98,500 per Day for User Privacy Breach](https://www.twipla.com/en/blog/norway-fining-meta-98500-per-day-for-user-privacy-breach)
 * [2023-09-15, 09:37:04](https://news.ycombinator.com/item?id=37520528) - [‘Sea is constantly dumping bodies’: fears Libya flood death toll may hit 20k](https://www.theguardian.com/world/2023/sep/13/libya-flood-death-toll)
 * [2023-09-15, 09:34:40](https://news.ycombinator.com/item?id=37520509) - [C++Builder 11 Community Edition](https://www.embarcadero.com/products/cbuilder/starter)
