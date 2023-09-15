@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-15, 08:08:00](https://news.ycombinator.com/item?id=37519982) - [Marginalia Search Receives FUTO Grant](https://www.marginalia.nu/log/88-futo-grant/)
-* [2023-09-15, 08:04:49](https://news.ycombinator.com/item?id=37519961) - [Stripe Forbids Sex Work, but Profits from Non-Consensual Porn](https://www.404media.co/stripe-forbids-sex-work-but-profits-from-non-consensual-porn/)
 * [2023-09-15, 07:00:24](https://news.ycombinator.com/item?id=37519487) - [Eqtble (YC W21) Is Hiring a Data Analyst](https://www.ycombinator.com/companies/eqtble/jobs/bOX2JJp-junior-data-scientist)
 * [2023-09-15, 06:51:54](https://news.ycombinator.com/item?id=37519418) - [Willingham sends Fables into the public domain](https://billwillingham.substack.com/p/willingham-sends-fables-into-the)
 * [2023-09-15, 06:01:45](https://news.ycombinator.com/item?id=37519066) - [Libsodium: A modern, portable, easy to use crypto library](https://github.com/jedisct1/libsodium)
+* [2023-09-15, 06:00:26](https://news.ycombinator.com/item?id=37519053) - [Global Google Kubernetes Engine Outage](https://status.cloud.google.com/incidents/EBxyHQgEPnbM3Syag5yL)
 * [2023-09-15, 04:00:15](https://news.ycombinator.com/item?id=37518209) - [Show HN: I built an app that lets you create and chat with 3D AI characters](https://www.heyastrocyte.com/)
 * [2023-09-15, 02:33:03](https://news.ycombinator.com/item?id=37517567) - [B612 Font Family](https://b612-font.com/)
 * [2023-09-15, 02:03:04](https://news.ycombinator.com/item?id=37517329) - [Linear code is more readable](https://blog.separateconcerns.com/2023-09-11-linear-code.html)

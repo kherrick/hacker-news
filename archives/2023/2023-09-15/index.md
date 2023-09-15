@@ -9,6 +9,7 @@
 * [2023-09-15, 07:00:24](https://news.ycombinator.com/item?id=37519487) - [Eqtble (YC W21) Is Hiring a Data Analyst](https://www.ycombinator.com/companies/eqtble/jobs/bOX2JJp-junior-data-scientist)
 * [2023-09-15, 06:51:54](https://news.ycombinator.com/item?id=37519418) - [Willingham Sends Fables into the Public Domain](https://billwillingham.substack.com/p/willingham-sends-fables-into-the)
 * [2023-09-15, 06:01:45](https://news.ycombinator.com/item?id=37519066) - [Libsodium: A modern, portable, easy to use crypto library](https://github.com/jedisct1/libsodium)
+* [2023-09-15, 06:00:26](https://news.ycombinator.com/item?id=37519053) - [Global Google Kubernetes Engine Outage](https://status.cloud.google.com/incidents/EBxyHQgEPnbM3Syag5yL)
 * [2023-09-15, 05:09:53](https://news.ycombinator.com/item?id=37518709) - [United Auto Workers launches a historic strike against all Big 3 automakers](https://www.npr.org/2023/09/15/1199673197/uaw-strike-big-3-automakers)
 * [2023-09-15, 04:13:09](https://news.ycombinator.com/item?id=37518322) - [Breakthrough Prize Announces 2024 Laureates in Life Sciences, Physics, and Math](https://breakthroughprize.org/News/83)
 * [2023-09-15, 04:00:15](https://news.ycombinator.com/item?id=37518209) - [Show HN: I built an app that lets you create and chat with 3D AI characters](https://www.heyastrocyte.com/)
