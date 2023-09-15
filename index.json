@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-09-15, 15:11:04",
-      "https://news.ycombinator.com/item?id=37524275"
-    ],
-    [
-      "United flight descends 28,000 feet in 8 minutes for ‘pressurization issue’",
-      "https://www.cnn.com/travel/article/united-airlines-flight-drops-pressurization/index.html"
-    ]
-  ],
-  [
-    [
       "2023-09-15, 15:03:32",
       "https://news.ycombinator.com/item?id=37524158"
     ],
@@ -51,12 +41,12 @@
   ],
   [
     [
-      "2023-09-15, 14:47:22",
-      "https://news.ycombinator.com/item?id=37523873"
+      "2023-09-15, 14:43:23",
+      "https://news.ycombinator.com/item?id=37523796"
     ],
     [
-      "We forced our company to allow work from home again",
-      "https://old.reddit.com/r/sysadmin/comments/16j8kw4/we_forced_our_company_to_allow_work_from_home/"
+      "Harnad: The Symbol Grounding Problem (1990) [pdf]",
+      "https://www.cs.ox.ac.uk/activities/ieg/e-library/sources/harnad90_sgproblem.pdf"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Pyobd - a free and open source program for car diagnostics",
       "https://github.com/barracuda-fsh/pyobd"
+    ]
+  ],
+  [
+    [
+      "2023-09-14, 07:28:57",
+      "https://news.ycombinator.com/item?id=37506028"
+    ],
+    [
+      "Painting with Math: A Gentle Study of Raymarching",
+      "https://blog.maximeheckel.com/posts/painting-with-math-a-gentle-study-of-raymarching/"
     ]
   ]
 ]
