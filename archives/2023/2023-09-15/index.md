@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
 * [2023-09-15, 14:03:18](https://news.ycombinator.com/item?id=37523114) - [Bike tire made from NASA’s shape-shifting metal are now available to buy](https://www.theverge.com/2023/9/14/23873153/nasa-bike-tire-shape-memory-price-smart-specs)
+* [2023-09-15, 13:59:29](https://news.ycombinator.com/item?id=37523060) - [Can Affluence and Affordable Housing Coexist in Colorado’s Rockies?](https://www.nytimes.com/2023/08/17/business/economy/colorado-rocky-mountain-housing.html)
 * [2023-09-15, 13:53:21](https://news.ycombinator.com/item?id=37522979) - [Salesforce is hiring over 3k people, despite axing 10% of staff](https://www.businessinsider.com/salesforce-hire-3-000-people-brutal-job-cuts-this-year-2023-9)
 * [2023-09-15, 13:45:58](https://news.ycombinator.com/item?id=37522872) - [Tell HN: Google randomly deleting Chromebook configs](https://news.ycombinator.com/item?id=37522872)
 * [2023-09-15, 13:44:47](https://news.ycombinator.com/item?id=37522858) - [Carrefour puts ‘shrinkflation’ price warnings on food to shame brands](https://www.theguardian.com/business/2023/sep/14/carrefour-puts-shrinkflation-price-warnings-on-food-to-shame-brands)
+* [2023-09-15, 13:41:23](https://news.ycombinator.com/item?id=37522799) - [Johnson and Johnson is getting rid of its script logo after more than 130 years](https://www.cnbc.com/2023/09/14/johnson-johnson-has-a-new-logo-after-more-than-130-years.html)
 * [2023-09-15, 13:40:35](https://news.ycombinator.com/item?id=37522789) - [We Think That Product Hunt Is Still a Thing – Here's Why](https://www.permit.io/blog/producthunt-howto)
 * [2023-09-15, 13:28:59](https://news.ycombinator.com/item?id=37522644) - [GlassFish Embedded – a simple way to run Jakarta EE apps](https://omnifish.ee/2023/09/15/glassfish-embedded-a-simple-way-to-run-jakarta-ee-apps/)
 * [2023-09-15, 12:43:52](https://news.ycombinator.com/item?id=37522106) - [Akiyoshi’s Illusion Pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)

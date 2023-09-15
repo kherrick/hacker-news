@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-15, 14:03:18](https://news.ycombinator.com/item?id=37523114) - [Bike tire made from NASA’s shape-shifting metal are now available to buy](https://www.theverge.com/2023/9/14/23873153/nasa-bike-tire-shape-memory-price-smart-specs)
+* [2023-09-15, 13:59:29](https://news.ycombinator.com/item?id=37523060) - [Can Affluence and Affordable Housing Coexist in Colorado’s Rockies?](https://www.nytimes.com/2023/08/17/business/economy/colorado-rocky-mountain-housing.html)
 * [2023-09-15, 13:45:58](https://news.ycombinator.com/item?id=37522872) - [Tell HN: Google randomly deleting Chromebook configs](https://news.ycombinator.com/item?id=37522872)
 * [2023-09-15, 13:44:47](https://news.ycombinator.com/item?id=37522858) - [Carrefour puts ‘shrinkflation’ price warnings on food to shame brands](https://www.theguardian.com/business/2023/sep/14/carrefour-puts-shrinkflation-price-warnings-on-food-to-shame-brands)
+* [2023-09-15, 13:41:23](https://news.ycombinator.com/item?id=37522799) - [Johnson and Johnson is getting rid of its script logo after more than 130 years](https://www.cnbc.com/2023/09/14/johnson-johnson-has-a-new-logo-after-more-than-130-years.html)
 * [2023-09-15, 13:28:59](https://news.ycombinator.com/item?id=37522644) - [GlassFish Embedded – a simple way to run Jakarta EE apps](https://omnifish.ee/2023/09/15/glassfish-embedded-a-simple-way-to-run-jakarta-ee-apps/)
 * [2023-09-15, 12:43:52](https://news.ycombinator.com/item?id=37522106) - [Akiyoshi’s Illusion Pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)
 * [2023-09-15, 12:02:27](https://news.ycombinator.com/item?id=37521710) - [TikTok fined €345M for breaking EU data law on children’s accounts](https://www.theguardian.com/technology/2023/sep/15/tiktok-fined-345m-for-breaking-eu-data-law-on-childrens-accounts)
@@ -23,13 +25,11 @@
 * [2023-09-15, 01:34:36](https://news.ycombinator.com/item?id=37517118) - [A mathematical formalization of dimensional analysis (2012)](https://terrytao.wordpress.com/2012/12/29/a-mathematical-formalisation-of-dimensional-analysis/)
 * [2023-09-14, 21:02:47](https://news.ycombinator.com/item?id=37514801) - [Webhook Failure Scenarios](https://hermanradtke.com/webhook-failure-scenarios/)
 * [2023-09-14, 20:01:47](https://news.ycombinator.com/item?id=37514079) - [Archaeologists Discover More Than 100 Ancient Drawings in a Spanish Cave](https://www.smithsonianmag.com/smart-news/archaeologists-discover-more-than-100-ancient-drawings-in-spanish-cave-180982898/)
-* [2023-09-14, 16:14:26](https://news.ycombinator.com/item?id=37510867) - [Exposition of a New Theory on the Measurement of Risk (1738) [pdf]](https://psych.fullerton.edu/mbirnbaum/psych466/articles/bernoulli_econometrica.pdf)
 * [2023-09-14, 16:14:17](https://news.ycombinator.com/item?id=37510865) - [Chromebooks will get 10 years of automatic updates](https://blog.google/outreach-initiatives/education/automatic-update-extension-chromebook/)
 * [2023-09-14, 14:28:06](https://news.ycombinator.com/item?id=37509507) - [The Tyranny of the Marginal User](https://nothinghuman.substack.com/p/the-tyranny-of-the-marginal-user)
 * [2023-09-14, 11:11:17](https://news.ycombinator.com/item?id=37507419) - [Show HN: Nue – A React/Vue/Vite/Astro Alternative](https://nuejs.org)
 * [2023-09-14, 08:05:19](https://news.ycombinator.com/item?id=37506248) - [Pyobd - a free and open source program for car diagnostics](https://github.com/barracuda-fsh/pyobd)
 * [2023-09-13, 11:12:02](https://news.ycombinator.com/item?id=37495166) - [EndBASIC](https://www.endbasic.dev/)
-* [2023-09-13, 08:49:11](https://news.ycombinator.com/item?id=37494001) - [Why agencies get stuck at $50k MRR](http://jakobgreenfeld.com/agency-model)
 
 ## [Archives](archives/index.md)
 
