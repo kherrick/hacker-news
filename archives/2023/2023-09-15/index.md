@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
 * [2023-09-15, 17:01:09](https://news.ycombinator.com/item?id=37526070) - [Loops (YC W22) Is Hiring a Remote Front-End Engineer](https://www.ycombinator.com/companies/loops/jobs/R5lUQcn-front-end-engineer)
+* [2023-09-15, 16:59:15](https://news.ycombinator.com/item?id=37526047) - [Why my favourite API is a zipfile on the European Central Bank's website](https://csvbase.com/blog/5)
 * [2023-09-15, 16:51:12](https://news.ycombinator.com/item?id=37525921) - [Google says it can’t fix Pixel Watches, please just buy a new one](https://arstechnica.com/gadgets/2023/09/11-months-after-launch-googles-pixel-watch-still-has-no-path-to-repair/)
 * [2023-09-15, 16:15:54](https://news.ycombinator.com/item?id=37525348) - [How to Store a Chess Game in 26 Bytes Using Bit-Level Magic (2022)](https://www.ezzeriesa.com/index/Writing%20efa7772a3ae64a8193c7ef981ac619fc/Compressing%20chess%20positions%20for%20fun%20and%20profit%20df1fdb5364eb42fdac11eb23b25e9605.html)
 * [2023-09-15, 15:49:09](https://news.ycombinator.com/item?id=37524890) - [Optimizing LLMs from a Dataset Perspective](https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html)

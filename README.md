@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-15, 17:01:09](https://news.ycombinator.com/item?id=37526070) - [Loops (YC W22) Is Hiring a Remote Front-End Engineer](https://www.ycombinator.com/companies/loops/jobs/R5lUQcn-front-end-engineer)
+* [2023-09-15, 16:59:15](https://news.ycombinator.com/item?id=37526047) - [Why my favourite API is a zipfile on the European Central Bank's website](https://csvbase.com/blog/5)
 * [2023-09-15, 16:51:12](https://news.ycombinator.com/item?id=37525921) - [Google says it can’t fix Pixel Watches, please just buy a new one](https://arstechnica.com/gadgets/2023/09/11-months-after-launch-googles-pixel-watch-still-has-no-path-to-repair/)
 * [2023-09-15, 16:15:54](https://news.ycombinator.com/item?id=37525348) - [How to Store a Chess Game in 26 Bytes Using Bit-Level Magic (2022)](https://www.ezzeriesa.com/index/Writing%20efa7772a3ae64a8193c7ef981ac619fc/Compressing%20chess%20positions%20for%20fun%20and%20profit%20df1fdb5364eb42fdac11eb23b25e9605.html)
 * [2023-09-15, 15:49:09](https://news.ycombinator.com/item?id=37524890) - [Optimizing LLMs from a Dataset Perspective](https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html)
@@ -10,7 +11,6 @@
 * [2023-09-15, 15:03:32](https://news.ycombinator.com/item?id=37524158) - [California lawmakers pass bill to make it easier to delete online personal data](https://www.latimes.com/politics/story/2023-09-14/california-bill-delete-online-personal-data)
 * [2023-09-15, 14:53:56](https://news.ycombinator.com/item?id=37523992) - [Google to pay $93M in settlement over deceptive location tracking](https://www.theguardian.com/technology/2023/sep/14/google-location-tracking-data-settlement)
 * [2023-09-15, 14:43:23](https://news.ycombinator.com/item?id=37523796) - [Harnad: The Symbol Grounding Problem (1990) [pdf]](https://www.cs.ox.ac.uk/activities/ieg/e-library/sources/harnad90_sgproblem.pdf)
-* [2023-09-15, 13:44:47](https://news.ycombinator.com/item?id=37522858) - [Carrefour puts ‘shrinkflation’ price warnings on food to shame brands](https://www.theguardian.com/business/2023/sep/14/carrefour-puts-shrinkflation-price-warnings-on-food-to-shame-brands)
 * [2023-09-15, 13:34:14](https://news.ycombinator.com/item?id=37522700) - [Understanding the Origins and the Evolution of Vi and Vim](https://pikuma.com/blog/origins-of-vim-text-editor)
 * [2023-09-15, 13:28:59](https://news.ycombinator.com/item?id=37522644) - [GlassFish Embedded – a simple way to run Jakarta EE apps](https://omnifish.ee/2023/09/15/glassfish-embedded-a-simple-way-to-run-jakarta-ee-apps/)
 * [2023-09-15, 13:04:05](https://news.ycombinator.com/item?id=37522290) - [Truthiness in C](https://dxuuu.xyz/casts.html)
