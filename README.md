@@ -2,11 +2,9 @@
 
 * [2023-09-15, 08:08:00](https://news.ycombinator.com/item?id=37519982) - [Marginalia Search Receives FUTO Grant](https://www.marginalia.nu/log/88-futo-grant/)
 * [2023-09-15, 07:00:24](https://news.ycombinator.com/item?id=37519487) - [Eqtble (YC W21) Is Hiring a Data Analyst](https://www.ycombinator.com/companies/eqtble/jobs/bOX2JJp-junior-data-scientist)
-* [2023-09-15, 06:51:54](https://news.ycombinator.com/item?id=37519418) - [Willingham Sends Fables into the Public Domain](https://billwillingham.substack.com/p/willingham-sends-fables-into-the)
+* [2023-09-15, 06:51:54](https://news.ycombinator.com/item?id=37519418) - [Willingham sends Fables into the public domain](https://billwillingham.substack.com/p/willingham-sends-fables-into-the)
 * [2023-09-15, 06:01:45](https://news.ycombinator.com/item?id=37519066) - [Libsodium: A modern, portable, easy to use crypto library](https://github.com/jedisct1/libsodium)
-* [2023-09-15, 05:09:53](https://news.ycombinator.com/item?id=37518709) - [United Auto Workers launches a historic strike against all Big 3 automakers](https://www.npr.org/2023/09/15/1199673197/uaw-strike-big-3-automakers)
 * [2023-09-15, 04:00:15](https://news.ycombinator.com/item?id=37518209) - [Show HN: I built an app that lets you create and chat with 3D AI characters](https://www.heyastrocyte.com/)
-* [2023-09-15, 03:38:54](https://news.ycombinator.com/item?id=37518030) - [Human trials of artificial wombs could start soon. Here’s what you need to know](https://www.nature.com/articles/d41586-023-02901-1)
 * [2023-09-15, 02:33:03](https://news.ycombinator.com/item?id=37517567) - [B612 Font Family](https://b612-font.com/)
 * [2023-09-15, 02:03:04](https://news.ycombinator.com/item?id=37517329) - [Linear code is more readable](https://blog.separateconcerns.com/2023-09-11-linear-code.html)
 * [2023-09-15, 01:48:13](https://news.ycombinator.com/item?id=37517216) - [Plex to block all servers hosted at Hetzner](https://links.plex.tv/e/evib?_t=3bef3c50f13f4320a9e31b8be79c6ad2&_m=df59a9eb59db44d2a0dbdbd0ebb61ee5&_e=xDXT7pYRisN-4z7uioydETDUiISVYQQUM0Y_a8MKNPZP6DN9yUpJaWCmlnGMyQQb)
@@ -21,6 +19,7 @@
 * [2023-09-14, 16:14:26](https://news.ycombinator.com/item?id=37510867) - [Exposition of a New Theory on the Measurement of Risk (1738) [pdf]](https://psych.fullerton.edu/mbirnbaum/psych466/articles/bernoulli_econometrica.pdf)
 * [2023-09-14, 16:14:17](https://news.ycombinator.com/item?id=37510865) - [Chromebooks will get 10 years of automatic updates](https://blog.google/outreach-initiatives/education/automatic-update-extension-chromebook/)
 * [2023-09-14, 15:45:24](https://news.ycombinator.com/item?id=37510521) - [Reconstructing an invalid TPM event log](https://mjg59.dreamwidth.org/67602.html)
+* [2023-09-14, 14:38:24](https://news.ycombinator.com/item?id=37509624) - [Googlers told to avoid words like ‘share’ and ‘bundle,’ US says](https://www.bloomberg.com/news/newsletters/2023-09-14/googlers-told-to-avoid-words-like-share-and-bundle-us-says-lmj27bhl)
 * [2023-09-14, 14:28:06](https://news.ycombinator.com/item?id=37509507) - [The Tyranny of the Marginal User](https://nothinghuman.substack.com/p/the-tyranny-of-the-marginal-user)
 * [2023-09-14, 11:11:17](https://news.ycombinator.com/item?id=37507419) - [Show HN: Nue – A React/Vue/Vite/Astro Alternative](https://nuejs.org)
 * [2023-09-14, 10:20:13](https://news.ycombinator.com/item?id=37507079) - [Microbe Computers (2013)](https://bioengineer.org/microbe-computers/)
@@ -28,8 +27,9 @@
 * [2023-09-13, 23:31:18](https://news.ycombinator.com/item?id=37503037) - [Liquid Bewitchment: Gin Drinking in England, 1700–1850](https://publicdomainreview.org/essay/liquid-bewitchment/)
 * [2023-09-13, 11:12:02](https://news.ycombinator.com/item?id=37495166) - [EndBASIC](https://www.endbasic.dev/)
 * [2023-09-13, 10:23:07](https://news.ycombinator.com/item?id=37494806) - [Comparative Analysis](https://matklad.github.io/2023/09/13/comparative-analysis.html)
-* [2023-09-13, 08:49:11](https://news.ycombinator.com/item?id=37494001) - [The mathematical reason why agencies get stuck at $50k MRR](http://jakobgreenfeld.com/agency-model)
+* [2023-09-13, 08:49:11](https://news.ycombinator.com/item?id=37494001) - [Why agencies get stuck at $50k MRR](http://jakobgreenfeld.com/agency-model)
 * [2023-09-13, 08:44:19](https://news.ycombinator.com/item?id=37493955) - [What Is Dimensional Analysis?](https://cgad.ski/blog/what-is-dimensional-analysis.html)
+* [2023-09-13, 08:25:42](https://news.ycombinator.com/item?id=37493792) - [The washing machine in my ear, and an empty boat](https://blog.klungo.no/2023/09/12/the-washing-machine-in-my-ear-and-an-empty-boat/)
 
 ## [Archives](archives/index.md)
 
