@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-15, 05:09:53](https://news.ycombinator.com/item?id=37518709) - [United Auto Workers launches a historic strike against all Big 3 automakers](https://www.npr.org/2023/09/15/1199673197/uaw-strike-big-3-automakers)
-* [2023-09-15, 04:00:15](https://news.ycombinator.com/item?id=37518209) - [Show HN: I built an app that lets you create and chat with 3D AI characters](https://www.heyastrocyte.com/)
+* [2023-09-15, 04:13:09](https://news.ycombinator.com/item?id=37518322) - [Breakthrough Prize Announces 2024 Laureates in Life Sciences, Physics, and Math](https://breakthroughprize.org/News/83)
 * [2023-09-15, 03:38:54](https://news.ycombinator.com/item?id=37518030) - [Human trials of artificial wombs could start soon. Here’s what you need to know](https://www.nature.com/articles/d41586-023-02901-1)
 * [2023-09-15, 02:33:03](https://news.ycombinator.com/item?id=37517567) - [B612 Font Family](https://b612-font.com/)
 * [2023-09-15, 02:03:04](https://news.ycombinator.com/item?id=37517329) - [Linear code is more readable](https://blog.separateconcerns.com/2023-09-11-linear-code.html)
