@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-15, 09:38:03](https://news.ycombinator.com/item?id=37520536) - [Norway Fining Meta $98,500 per Day for User Privacy Breach](https://www.twipla.com/en/blog/norway-fining-meta-98500-per-day-for-user-privacy-breach)
+* [2023-09-15, 09:37:04](https://news.ycombinator.com/item?id=37520528) - [‘Sea is constantly dumping bodies’: fears Libya flood death toll may hit 20k](https://www.theguardian.com/world/2023/sep/13/libya-flood-death-toll)
+* [2023-09-15, 09:23:50](https://news.ycombinator.com/item?id=37520441) - [BotOrNot (2021)](https://incolumitas.com/pages/BotOrNot/)
+* [2023-09-15, 09:15:23](https://news.ycombinator.com/item?id=37520374) - [Ask HN: How do you manage your “family data warehouse”?](https://news.ycombinator.com/item?id=37520374)
 * [2023-09-15, 08:47:29](https://news.ycombinator.com/item?id=37520212) - [Delphi 11 Community Edition](https://www.embarcadero.com/products/delphi/starter)
 * [2023-09-15, 08:24:59](https://news.ycombinator.com/item?id=37520079) - [Unity’s New Pricing: A Wake-Up Call on the Importance of Open Source in Gaming](https://ramatak.com/2023/09/15/unitys-new-pricing-a-wake-up-call-on-the-importance-of-open-source-in-gaming/)
 * [2023-09-15, 08:23:23](https://news.ycombinator.com/item?id=37520065) - [On the Impending Crypto Monoculture (2016)](https://www.metzdowd.com/pipermail/cryptography/2016-March/028824.html)
@@ -20,8 +23,6 @@
 * [2023-09-14, 22:28:08](https://news.ycombinator.com/item?id=37515645) - [Programming Language Inventor or Serial Killer? (2003)](https://vole.wtf/coder-serial-killer-quiz/)
 * [2023-09-14, 20:45:06](https://news.ycombinator.com/item?id=37514601) - [MenuetOS](https://menuetos.net)
 * [2023-09-14, 19:21:10](https://news.ycombinator.com/item?id=37513550) - [An Opinionated Yubikey Set-Up Guide](https://www.procustodibus.com/blog/2023/04/how-to-set-up-a-yubikey/)
-* [2023-09-14, 18:44:02](https://news.ycombinator.com/item?id=37513030) - [A clever “perpetual motion” device [video]](https://www.youtube.com/watch?v=r_LG8FDt51U)
-* [2023-09-14, 18:34:14](https://news.ycombinator.com/item?id=37512888) - [In a Git repository, where do your files live?](https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/)
 * [2023-09-14, 16:14:17](https://news.ycombinator.com/item?id=37510865) - [Chromebooks will get 10 years of automatic updates](https://blog.google/outreach-initiatives/education/automatic-update-extension-chromebook/)
 * [2023-09-14, 14:28:06](https://news.ycombinator.com/item?id=37509507) - [The Tyranny of the Marginal User](https://nothinghuman.substack.com/p/the-tyranny-of-the-marginal-user)
 * [2023-09-14, 11:11:17](https://news.ycombinator.com/item?id=37507419) - [Show HN: Nue – A React/Vue/Vite/Astro Alternative](https://nuejs.org)
@@ -29,7 +30,6 @@
 * [2023-09-13, 23:31:18](https://news.ycombinator.com/item?id=37503037) - [Liquid Bewitchment: Gin Drinking in England, 1700–1850](https://publicdomainreview.org/essay/liquid-bewitchment/)
 * [2023-09-13, 11:12:02](https://news.ycombinator.com/item?id=37495166) - [EndBASIC](https://www.endbasic.dev/)
 * [2023-09-13, 08:49:11](https://news.ycombinator.com/item?id=37494001) - [Why agencies get stuck at $50k MRR](http://jakobgreenfeld.com/agency-model)
-* [2023-09-13, 08:44:19](https://news.ycombinator.com/item?id=37493955) - [What Is Dimensional Analysis?](https://cgad.ski/blog/what-is-dimensional-analysis.html)
 
 ## [Archives](archives/index.md)
 
