@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-15, 22:05:55",
+      "https://news.ycombinator.com/item?id=37529666"
+    ],
+    [
+      "“Most notorious” illegal shadow library (LibGen) sued by textbook publishers",
+      "https://arstechnica.com/tech-policy/2023/09/most-notorious-illegal-shadow-library-sued-by-textbook-publishers/"
+    ]
+  ],
+  [
+    [
       "2023-09-15, 21:47:08",
       "https://news.ycombinator.com/item?id=37529497"
     ],
@@ -17,16 +27,6 @@
     [
       "MDMA-assisted therapy for PTSD: A randomized, placebo-controlled phase 3 trial",
       "https://www.nature.com/articles/s41591-023-02565-4"
-    ]
-  ],
-  [
-    [
-      "2023-09-15, 21:32:57",
-      "https://news.ycombinator.com/item?id=37529381"
-    ],
-    [
-      "We use TypeScript not based on preference, but because we want to make money",
-      "https://paularmstrong.dev/blog/2023/09/14/we-use-type-safety-not-on-preference-but-because-we-want-to-make-money/"
     ]
   ],
   [
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=37527720"
     ],
     [
-      "No Sacred Masterpieces, that time I built Excel for Uber and they ditched it",
+      "I built Excel for Uber and they ditched it",
       "https://basta.substack.com/p/no-sacred-masterpieces"
     ]
   ],
