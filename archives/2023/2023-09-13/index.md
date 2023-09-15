@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-13](index.md)
 
 * [2023-09-13, 23:33:08](https://news.ycombinator.com/item?id=37503044) - [Cache AnyThing filesystem written in Rust](https://github.com/kahing/catfs)
+* [2023-09-13, 23:31:18](https://news.ycombinator.com/item?id=37503037) - [Liquid Bewitchment: Gin Drinking in England, 1700–1850](https://publicdomainreview.org/essay/liquid-bewitchment/)
 * [2023-09-13, 23:15:07](https://news.ycombinator.com/item?id=37502903) - [Restoration of an IMSAI 8080](https://retrocmp.de/imsai/imsai_p01_restoration.htm)
 * [2023-09-13, 23:14:03](https://news.ycombinator.com/item?id=37502892) - [Marvel visual effects artists unanimously vote to unionize](https://www.cnbc.com/2023/09/13/marvel-vfx-artists-unanimously-vote-to-unionize.html)
 * [2023-09-13, 22:57:44](https://news.ycombinator.com/item?id=37502773) - [The Meaning of Lore](https://www.historytoday.com/archive/out-margins/meaning-lore)
