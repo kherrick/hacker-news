@@ -45,6 +45,7 @@
 * [2023-09-15, 13:04:05](https://news.ycombinator.com/item?id=37522290) - [Truthiness in C](https://dxuuu.xyz/casts.html)
 * [2023-09-15, 12:43:52](https://news.ycombinator.com/item?id=37522106) - [Akiyoshi’s Illusion Pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)
 * [2023-09-15, 12:43:41](https://news.ycombinator.com/item?id=37522105) - [How Have Women Evolved to Attract Men?](https://unchartedterritories.tomaspueyo.com/p/how-have-women-evolved-to-attract)
+* [2023-09-15, 12:27:03](https://news.ycombinator.com/item?id=37521931) - [Yes, Android 14 still allows modification of system certificates](https://www.g1a55er.net/Android-14-Still-Allows-Modification-of-System-Certificates)
 * [2023-09-15, 12:20:31](https://news.ycombinator.com/item?id=37521861) - [NASA says more science and less stigma are needed to understand UFOs](https://apnews.com/article/nasa-ufos-inidentified-flying-objects-8b477a5ed6a42f99bb13a4518368ce9a)
 * [2023-09-15, 12:13:59](https://news.ycombinator.com/item?id=37521804) - [The Pixel Tablet is just a few spare parts in a half-empty body](https://arstechnica.com/gadgets/2023/09/the-pixel-tablet-is-actually-just-a-few-spare-parts-in-a-half-empty-body/)
 * [2023-09-15, 12:02:27](https://news.ycombinator.com/item?id=37521710) - [TikTok fined €345M for breaking EU data law on children’s accounts](https://www.theguardian.com/technology/2023/sep/15/tiktok-fined-345m-for-breaking-eu-data-law-on-childrens-accounts)
