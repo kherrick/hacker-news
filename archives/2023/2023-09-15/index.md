@@ -9,6 +9,7 @@
 * [2023-09-15, 17:32:25](https://news.ycombinator.com/item?id=37526477) - [Kopia: Open-Source, Fast and Secure Open-Source Backup Software](https://kopia.io/)
 * [2023-09-15, 17:26:26](https://news.ycombinator.com/item?id=37526399) - [Bitcoin and the dangerous fantasy of ‘apolitical’ money (2013)](https://www.yanisvaroufakis.eu/2013/04/22/bitcoin-and-the-dangerous-fantasy-of-apolitical-money/)
 * [2023-09-15, 17:19:19](https://news.ycombinator.com/item?id=37526306) - [Warner Bros. CFO Thinks You Deadbeats Have Been on a Free Ride for Way Too Long](https://gizmodo.com/warner-bros-cfo-thinks-streaming-prices-need-to-go-up-1850839302)
+* [2023-09-15, 17:08:41](https://news.ycombinator.com/item?id=37526165) - [CharacterAI but NSFW and Free](https://www.unhinged.ai/)
 * [2023-09-15, 17:03:10](https://news.ycombinator.com/item?id=37526099) - [EU confirms six (mostly US) tech giants are subject to Digital Markets Act](https://techcrunch.com/2023/09/06/dma-gatekeepers-named/)
 * [2023-09-15, 17:01:09](https://news.ycombinator.com/item?id=37526070) - [Loops (YC W22) Is Hiring a Remote Front-End Engineer](https://www.ycombinator.com/companies/loops/jobs/R5lUQcn-front-end-engineer)
 * [2023-09-15, 16:59:15](https://news.ycombinator.com/item?id=37526047) - [Why my favourite API is a zipfile on the European Central Bank's website](https://csvbase.com/blog/5)

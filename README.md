@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-15, 17:38:28](https://news.ycombinator.com/item?id=37526556) - [The Gap in the Armor of Baldur’s Gate and 5e](https://acoup.blog/2023/09/15/collections-the-gap-in-the-armor-of-baldurs-gate-and-5e/)
-* [2023-09-15, 17:34:52](https://news.ycombinator.com/item?id=37526512) - [Plex announced to block instances on German hosting provider Hetzner](https://forums.plex.tv/t/not-allowed-to-use-hetzner/853570)
 * [2023-09-15, 17:32:25](https://news.ycombinator.com/item?id=37526477) - [Kopia: Open-Source, Fast and Secure Open-Source Backup Software](https://kopia.io/)
 * [2023-09-15, 17:26:26](https://news.ycombinator.com/item?id=37526399) - [Bitcoin and the dangerous fantasy of ‘apolitical’ money (2013)](https://www.yanisvaroufakis.eu/2013/04/22/bitcoin-and-the-dangerous-fantasy-of-apolitical-money/)
 * [2023-09-15, 17:19:19](https://news.ycombinator.com/item?id=37526306) - [Warner Bros. CFO Thinks You Deadbeats Have Been on a Free Ride for Way Too Long](https://gizmodo.com/warner-bros-cfo-thinks-streaming-prices-need-to-go-up-1850839302)
+* [2023-09-15, 17:08:41](https://news.ycombinator.com/item?id=37526165) - [CharacterAI but NSFW and Free](https://www.unhinged.ai/)
 * [2023-09-15, 17:01:09](https://news.ycombinator.com/item?id=37526070) - [Loops (YC W22) Is Hiring a Remote Front-End Engineer](https://www.ycombinator.com/companies/loops/jobs/R5lUQcn-front-end-engineer)
 * [2023-09-15, 16:59:15](https://news.ycombinator.com/item?id=37526047) - [Why my favourite API is a zipfile on the European Central Bank's website](https://csvbase.com/blog/5)
 * [2023-09-15, 16:22:52](https://news.ycombinator.com/item?id=37525484) - [The Most Underrated Application of LLMs](https://blog.kasperjunge.com/text-classifiers-are-an-underrated-use-case-of-llms)
