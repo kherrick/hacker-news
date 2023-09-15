@@ -21,7 +21,6 @@
 * [2023-09-15, 15:49:09](https://news.ycombinator.com/item?id=37524890) - [Optimizing LLMs from a Dataset Perspective](https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html)
 * [2023-09-15, 15:06:42](https://news.ycombinator.com/item?id=37524202) - [Shrinkflation Tracker](https://www.shrinkflation.io/)
 * [2023-09-15, 14:43:23](https://news.ycombinator.com/item?id=37523796) - [The Symbol Grounding Problem (1990) [pdf]](https://www.cs.ox.ac.uk/activities/ieg/e-library/sources/harnad90_sgproblem.pdf)
-* [2023-09-15, 13:06:02](https://news.ycombinator.com/item?id=37522321) - [The patterns of Venus’s movement across the sky](https://www.timeanddate.com/news/astronomy/venus-morning-star-2023)
 * [2023-09-15, 12:43:52](https://news.ycombinator.com/item?id=37522106) - [Akiyoshi’s Illusion Pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)
 * [2023-09-15, 12:27:03](https://news.ycombinator.com/item?id=37521931) - [Yes, Android 14 still allows modification of system certificates](https://www.g1a55er.net/Android-14-Still-Allows-Modification-of-System-Certificates)
 * [2023-09-15, 10:21:57](https://news.ycombinator.com/item?id=37520890) - [A Primer on Logic Programming](https://www.juxt.pro/blog/logic-primer/)
@@ -29,6 +28,7 @@
 * [2023-09-15, 06:44:15](https://news.ycombinator.com/item?id=37519368) - [VÉgA – Vocabulary of Ancient Egyptian](https://vega-vocabulaire-egyptien-ancien.fr/en/welcome-page/)
 * [2023-09-15, 02:08:05](https://news.ycombinator.com/item?id=37517368) - [95 bits per second](https://popey.com/blog/2023/09/95-bits-per-second/)
 * [2023-09-14, 21:02:47](https://news.ycombinator.com/item?id=37514801) - [Webhook Failure Scenarios](https://hermanradtke.com/webhook-failure-scenarios/)
+* [2023-09-14, 20:01:47](https://news.ycombinator.com/item?id=37514079) - [Archaeologists discover ancient drawings in a Spanish cave](https://www.smithsonianmag.com/smart-news/archaeologists-discover-more-than-100-ancient-drawings-in-spanish-cave-180982898/)
 * [2023-09-14, 07:28:57](https://news.ycombinator.com/item?id=37506028) - [Painting with math: A gentle study of raymarching](https://blog.maximeheckel.com/posts/painting-with-math-a-gentle-study-of-raymarching/)
 
 ## [Archives](archives/index.md)
