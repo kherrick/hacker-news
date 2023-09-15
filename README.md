@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-15, 20:21:18](https://news.ycombinator.com/item?id=37528652) - [Birds with more complex vocal skills are better problem-solvers](https://www.sciencenews.org/article/birds-complex-vocal-skills-problem-solvers)
 * [2023-09-15, 19:53:24](https://news.ycombinator.com/item?id=37528338) - [Salt Taste Is Surprisingly Mysterious](https://nautil.us/salt-taste-is-surprisingly-mysterious-382855/)
 * [2023-09-15, 19:32:38](https://news.ycombinator.com/item?id=37528098) - [Show HN: IncarnaMind-Chat with your multiple docs using LLMs](https://github.com/junruxiong/IncarnaMind)
 * [2023-09-15, 19:18:38](https://news.ycombinator.com/item?id=37527928) - [Books for Game Developers](https://mrelusive.com/books/books.html)
@@ -20,7 +21,6 @@
 * [2023-09-15, 13:04:05](https://news.ycombinator.com/item?id=37522290) - [Truthiness in C](https://dxuuu.xyz/casts.html)
 * [2023-09-15, 12:43:52](https://news.ycombinator.com/item?id=37522106) - [Akiyoshi’s Illusion Pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)
 * [2023-09-15, 12:27:03](https://news.ycombinator.com/item?id=37521931) - [Yes, Android 14 still allows modification of system certificates](https://www.g1a55er.net/Android-14-Still-Allows-Modification-of-System-Certificates)
-* [2023-09-15, 12:02:27](https://news.ycombinator.com/item?id=37521710) - [TikTok fined €345M for breaking EU data law on children’s accounts](https://www.theguardian.com/technology/2023/sep/15/tiktok-fined-345m-for-breaking-eu-data-law-on-childrens-accounts)
 * [2023-09-15, 09:23:50](https://news.ycombinator.com/item?id=37520441) - [BotOrNot (2021)](https://incolumitas.com/pages/BotOrNot/)
 * [2023-09-15, 08:18:19](https://news.ycombinator.com/item?id=37520039) - [Find my cat: open-source Cat Tracker](https://www.findmycat.io/)
 * [2023-09-15, 06:51:54](https://news.ycombinator.com/item?id=37519418) - [Willingham sends Fables into the public domain](https://billwillingham.substack.com/p/willingham-sends-fables-into-the)

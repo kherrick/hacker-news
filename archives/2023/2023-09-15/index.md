@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 20:21:18](https://news.ycombinator.com/item?id=37528652) - [Birds with more complex vocal skills are better problem-solvers](https://www.sciencenews.org/article/birds-complex-vocal-skills-problem-solvers)
 * [2023-09-15, 20:01:46](https://news.ycombinator.com/item?id=37528432) - [Tech workers demand high salaries despite hiring slowdown](https://www2.staffingindustry.com/Editorial/Daily-News/Tech-workers-demand-high-salaries-despite-hiring-slowdown-Lorien-66817)
 * [2023-09-15, 19:53:24](https://news.ycombinator.com/item?id=37528338) - [Salt Taste Is Surprisingly Mysterious](https://nautil.us/salt-taste-is-surprisingly-mysterious-382855/)
 * [2023-09-15, 19:32:38](https://news.ycombinator.com/item?id=37528098) - [Show HN: IncarnaMind-Chat with your multiple docs using LLMs](https://github.com/junruxiong/IncarnaMind)
