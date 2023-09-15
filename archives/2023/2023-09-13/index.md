@@ -75,6 +75,7 @@
 * [2023-09-13, 09:21:16](https://news.ycombinator.com/item?id=37494275) - [LÖVE: a framework to make 2D games in Lua](https://love2d.org/)
 * [2023-09-13, 09:08:09](https://news.ycombinator.com/item?id=37494173) - [Germany Will Force 80% of Gas Stations to Install EV Chargers](https://www.thedrive.com/news/germany-will-force-80-percent-of-gas-stations-to-install-ev-charging)
 * [2023-09-13, 08:50:29](https://news.ycombinator.com/item?id=37494015) - [Openmoji](https://github.com/hfg-gmuend/openmoji)
+* [2023-09-13, 08:49:11](https://news.ycombinator.com/item?id=37494001) - [The mathematical reason why agencies get stuck at $50k MRR](http://jakobgreenfeld.com/agency-model)
 * [2023-09-13, 08:44:58](https://news.ycombinator.com/item?id=37493964) - [What Is Wrong with TOML?](https://hitchdev.com/strictyaml/why-not/toml/)
 * [2023-09-13, 08:44:19](https://news.ycombinator.com/item?id=37493955) - [What Is Dimensional Analysis?](https://cgad.ski/blog/what-is-dimensional-analysis.html)
 * [2023-09-13, 08:41:21](https://news.ycombinator.com/item?id=37493928) - [Google has been rolling out Chrome's “Enhanced Ad Privacy” via a popup](https://twitter.com/glenngabe/status/1699389973361738146)
