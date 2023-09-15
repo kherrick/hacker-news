@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 22:08:37](https://news.ycombinator.com/item?id=37529694) - [Scientists Uncover COVID’s Weakness](https://news.ucr.edu/articles/2023/09/13/scientists-uncover-covids-weakness)
 * [2023-09-15, 22:05:55](https://news.ycombinator.com/item?id=37529666) - [“Most notorious” illegal shadow library (LibGen) sued by textbook publishers](https://arstechnica.com/tech-policy/2023/09/most-notorious-illegal-shadow-library-sued-by-textbook-publishers/)
 * [2023-09-15, 21:47:08](https://news.ycombinator.com/item?id=37529497) - [MIT Makes Low-Power Underwater Communication Practical](https://spectrum.ieee.org/underwater-communication-low-power)
 * [2023-09-15, 21:42:23](https://news.ycombinator.com/item?id=37529459) - [MDMA-Assisted Therapy for PTSD: A Randomized, Placebo-Controlled Phase 3 Trial](https://www.nature.com/articles/s41591-023-02565-4)
