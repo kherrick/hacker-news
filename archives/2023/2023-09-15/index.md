@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 07:00:24](https://news.ycombinator.com/item?id=37519487) - [Eqtble (YC W21) Is Hiring a Data Analyst](https://www.ycombinator.com/companies/eqtble/jobs/bOX2JJp-junior-data-scientist)
 * [2023-09-15, 06:01:45](https://news.ycombinator.com/item?id=37519066) - [Libsodium: A modern, portable, easy to use crypto library](https://github.com/jedisct1/libsodium)
 * [2023-09-15, 05:09:53](https://news.ycombinator.com/item?id=37518709) - [United Auto Workers launches a historic strike against all Big 3 automakers](https://www.npr.org/2023/09/15/1199673197/uaw-strike-big-3-automakers)
 * [2023-09-15, 04:13:09](https://news.ycombinator.com/item?id=37518322) - [Breakthrough Prize Announces 2024 Laureates in Life Sciences, Physics, and Math](https://breakthroughprize.org/News/83)
@@ -15,6 +16,7 @@
 * [2023-09-15, 02:20:58](https://news.ycombinator.com/item?id=37517473) - [TSA officers accused of stealing from passengers](https://www.nbcmiami.com/news/local/new-surveillance-footage-shows-miami-tsa-officers-accused-of-stealing-from-passengers/3109762/)
 * [2023-09-15, 02:07:21](https://news.ycombinator.com/item?id=37517361) - [How can we have a proper debate when we no longer speak the same language?](https://richarddawkins.substack.com/p/how-can-we-have-a-proper-debate-when)
 * [2023-09-15, 02:03:04](https://news.ycombinator.com/item?id=37517329) - [Linear code is more readable](https://blog.separateconcerns.com/2023-09-11-linear-code.html)
+* [2023-09-15, 01:52:51](https://news.ycombinator.com/item?id=37517246) - [Why Does America Provide More Space for Storing Cars Than Housing People?](https://commonedge.org/why-does-america-provide-more-space-for-storing-cars-than-housing-people/)
 * [2023-09-15, 01:48:13](https://news.ycombinator.com/item?id=37517216) - [Plex to block all servers hosted at Hetzner](https://links.plex.tv/e/evib?_t=3bef3c50f13f4320a9e31b8be79c6ad2&_m=df59a9eb59db44d2a0dbdbd0ebb61ee5&_e=xDXT7pYRisN-4z7uioydETDUiISVYQQUM0Y_a8MKNPZP6DN9yUpJaWCmlnGMyQQb)
 * [2023-09-15, 01:34:36](https://news.ycombinator.com/item?id=37517118) - [A mathematical formalization of dimensional analysis](https://terrytao.wordpress.com/2012/12/29/a-mathematical-formalisation-of-dimensional-analysis/)
 * [2023-09-15, 00:56:55](https://news.ycombinator.com/item?id=37516835) - [Cannabis use raises the risk of major depression, bipolar disorder and psychosis](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2804862)
