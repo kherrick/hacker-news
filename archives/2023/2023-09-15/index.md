@@ -10,6 +10,7 @@
 * [2023-09-15, 15:03:32](https://news.ycombinator.com/item?id=37524158) - [California lawmakers pass bill to make it easier to delete online personal data](https://www.latimes.com/politics/story/2023-09-14/california-bill-delete-online-personal-data)
 * [2023-09-15, 14:53:56](https://news.ycombinator.com/item?id=37523992) - [Google to pay $93M in settlement over deceptive location tracking](https://www.theguardian.com/technology/2023/sep/14/google-location-tracking-data-settlement)
 * [2023-09-15, 14:47:22](https://news.ycombinator.com/item?id=37523873) - [We forced our company to allow work from home again](https://old.reddit.com/r/sysadmin/comments/16j8kw4/we_forced_our_company_to_allow_work_from_home/)
+* [2023-09-15, 14:43:23](https://news.ycombinator.com/item?id=37523796) - [Harnad: The Symbol Grounding Problem (1990) [pdf]](https://www.cs.ox.ac.uk/activities/ieg/e-library/sources/harnad90_sgproblem.pdf)
 * [2023-09-15, 14:22:23](https://news.ycombinator.com/item?id=37523409) - [iPhone 15 USB-C port is 100% standard; MFi certification rumors wrong](https://9to5mac.com/2023/09/15/iphone-15-usb-c-port-compatibility/)
 * [2023-09-15, 14:09:09](https://news.ycombinator.com/item?id=37523188) - [Ask HN: Why Don't Developers Support Open Source Maintainers?](https://news.ycombinator.com/item?id=37523188)
 * [2023-09-15, 14:03:18](https://news.ycombinator.com/item?id=37523114) - [Bike tire made from NASA’s shape-shifting metal are now available to buy](https://www.theverge.com/2023/9/14/23873153/nasa-bike-tire-shape-memory-price-smart-specs)

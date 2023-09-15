@@ -2,10 +2,9 @@
 
 * [2023-09-15, 15:37:59](https://news.ycombinator.com/item?id=37524686) - [Artificial intelligence can revolutionise science](https://www.economist.com/leaders/2023/09/14/how-artificial-intelligence-can-revolutionise-science)
 * [2023-09-15, 15:15:41](https://news.ycombinator.com/item?id=37524331) - [Repeat after me: building any new homes reduces housing costs for all](https://www.ft.com/content/86836af4-6b52-49e8-a8f0-8aec6181dbc5)
-* [2023-09-15, 15:11:04](https://news.ycombinator.com/item?id=37524275) - [United flight descends 28,000 feet in 8 minutes for ‘pressurization issue’](https://www.cnn.com/travel/article/united-airlines-flight-drops-pressurization/index.html)
 * [2023-09-15, 15:03:32](https://news.ycombinator.com/item?id=37524158) - [California lawmakers pass bill to make it easier to delete online personal data](https://www.latimes.com/politics/story/2023-09-14/california-bill-delete-online-personal-data)
 * [2023-09-15, 14:53:56](https://news.ycombinator.com/item?id=37523992) - [Google to pay $93M in settlement over deceptive location tracking](https://www.theguardian.com/technology/2023/sep/14/google-location-tracking-data-settlement)
-* [2023-09-15, 14:47:22](https://news.ycombinator.com/item?id=37523873) - [We forced our company to allow work from home again](https://old.reddit.com/r/sysadmin/comments/16j8kw4/we_forced_our_company_to_allow_work_from_home/)
+* [2023-09-15, 14:43:23](https://news.ycombinator.com/item?id=37523796) - [Harnad: The Symbol Grounding Problem (1990) [pdf]](https://www.cs.ox.ac.uk/activities/ieg/e-library/sources/harnad90_sgproblem.pdf)
 * [2023-09-15, 14:22:23](https://news.ycombinator.com/item?id=37523409) - [iPhone 15 USB-C port is 100% standard; MFi certification rumors wrong](https://9to5mac.com/2023/09/15/iphone-15-usb-c-port-compatibility/)
 * [2023-09-15, 13:44:47](https://news.ycombinator.com/item?id=37522858) - [Carrefour puts ‘shrinkflation’ price warnings on food to shame brands](https://www.theguardian.com/business/2023/sep/14/carrefour-puts-shrinkflation-price-warnings-on-food-to-shame-brands)
 * [2023-09-15, 13:34:14](https://news.ycombinator.com/item?id=37522700) - [Understanding the Origins and the Evolution of Vi and Vim](https://pikuma.com/blog/origins-of-vim-text-editor)
@@ -30,6 +29,7 @@
 * [2023-09-14, 14:28:06](https://news.ycombinator.com/item?id=37509507) - [The Tyranny of the Marginal User](https://nothinghuman.substack.com/p/the-tyranny-of-the-marginal-user)
 * [2023-09-14, 11:11:17](https://news.ycombinator.com/item?id=37507419) - [Show HN: Nue – A React/Vue/Vite/Astro Alternative](https://nuejs.org)
 * [2023-09-14, 08:05:19](https://news.ycombinator.com/item?id=37506248) - [Pyobd - a free and open source program for car diagnostics](https://github.com/barracuda-fsh/pyobd)
+* [2023-09-14, 07:28:57](https://news.ycombinator.com/item?id=37506028) - [Painting with Math: A Gentle Study of Raymarching](https://blog.maximeheckel.com/posts/painting-with-math-a-gentle-study-of-raymarching/)
 
 ## [Archives](archives/index.md)
 
