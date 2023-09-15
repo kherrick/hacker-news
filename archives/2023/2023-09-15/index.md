@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 21:47:08](https://news.ycombinator.com/item?id=37529497) - [MIT Makes Low-Power Underwater Communication Practical](https://spectrum.ieee.org/underwater-communication-low-power)
+* [2023-09-15, 21:42:23](https://news.ycombinator.com/item?id=37529459) - [MDMA-Assisted Therapy for PTSD: A Randomized, Placebo-Controlled Phase 3 Trial](https://www.nature.com/articles/s41591-023-02565-4)
 * [2023-09-15, 21:32:57](https://news.ycombinator.com/item?id=37529381) - [We use TypeScript not based on preference, but because we want to make money](https://paularmstrong.dev/blog/2023/09/14/we-use-type-safety-not-on-preference-but-because-we-want-to-make-money/)
 * [2023-09-15, 21:13:21](https://news.ycombinator.com/item?id=37529197) - [Unicorn Startup Airtable Lays Off 27% of Firm, Shifts Focus to Big Clients](https://www.forbes.com/sites/stevenbertoni/2023/09/14/unicorn-startup-airtable-lays-off-27-of-firm-shifts-focus-to-big-clients/)
 * [2023-09-15, 20:39:11](https://news.ycombinator.com/item?id=37528816) - [“Inverse vaccine” shows potential to treat MS and other autoimmune diseases](https://pme.uchicago.edu/news/inverse-vaccine-shows-potential-treat-multiple-sclerosis-and-other-autoimmune-diseases)
