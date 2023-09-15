@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-15, 03:10:42",
+      "https://news.ycombinator.com/item?id=37517844"
+    ],
+    [
+      "5:01 And Done: No One Wants to Schmooze After Work",
+      "https://www.wsj.com/lifestyle/careers/work-happy-hours-office-culture-4c901cfb"
+    ]
+  ],
+  [
+    [
       "2023-09-15, 02:49:48",
       "https://news.ycombinator.com/item?id=37517674"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2023-09-14, 14:42:03",
-      "https://news.ycombinator.com/item?id=37509659"
-    ],
-    [
-      "Efficient Memory Management for Large Language Model Serving with PagedAttention",
-      "https://arxiv.org/abs/2309.06180"
-    ]
-  ],
-  [
-    [
       "2023-09-14, 14:38:24",
       "https://news.ycombinator.com/item?id=37509624"
     ],
@@ -237,6 +237,16 @@
     [
       "Show HN: Nue – A React/Vue/Vite/Astro Alternative",
       "https://nuejs.org"
+    ]
+  ],
+  [
+    [
+      "2023-09-14, 08:05:19",
+      "https://news.ycombinator.com/item?id=37506248"
+    ],
+    [
+      "Pyobd - a free and open source program for car diagnostics",
+      "https://github.com/barracuda-fsh/pyobd"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The washing machine in my ear, and an empty boat",
       "https://blog.klungo.no/2023/09/12/the-washing-machine-in-my-ear-and-an-empty-boat/"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 23:00:41",
-      "https://news.ycombinator.com/item?id=37489801"
-    ],
-    [
-      "Compile time regular expression in C++",
-      "https://github.com/hanickadot/compile-time-regular-expressions"
     ]
   ]
 ]
