@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 08:47:29](https://news.ycombinator.com/item?id=37520212) - [Delphi 11 Community Edition](https://www.embarcadero.com/products/delphi/starter)
+* [2023-09-15, 08:18:19](https://news.ycombinator.com/item?id=37520039) - [Find my cat: open-source Cat Tracker](https://www.findmycat.io/)
 * [2023-09-15, 08:08:00](https://news.ycombinator.com/item?id=37519982) - [Marginalia Search Receives FUTO Grant](https://www.marginalia.nu/log/88-futo-grant/)
 * [2023-09-15, 08:04:49](https://news.ycombinator.com/item?id=37519961) - [Stripe Forbids Sex Work, but Profits from Non-Consensual Porn](https://www.404media.co/stripe-forbids-sex-work-but-profits-from-non-consensual-porn/)
+* [2023-09-15, 08:00:15](https://news.ycombinator.com/item?id=37519928) - [MaplePad – RP2040 Dreamcast controller, VMU, and Purupuru (rumble pack) emulator](https://github.com/mackieks/MaplePad)
 * [2023-09-15, 07:00:24](https://news.ycombinator.com/item?id=37519487) - [Eqtble (YC W21) Is Hiring a Data Analyst](https://www.ycombinator.com/companies/eqtble/jobs/bOX2JJp-junior-data-scientist)
 * [2023-09-15, 06:51:54](https://news.ycombinator.com/item?id=37519418) - [Willingham Sends Fables into the Public Domain](https://billwillingham.substack.com/p/willingham-sends-fables-into-the)
 * [2023-09-15, 06:01:45](https://news.ycombinator.com/item?id=37519066) - [Libsodium: A modern, portable, easy to use crypto library](https://github.com/jedisct1/libsodium)
