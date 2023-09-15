@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-15, 02:49:48](https://news.ycombinator.com/item?id=37517674) - [Claude and LLaMa get basic human anatomy wrong](https://hermitian.substack.com/p/claude-and-llama-get-basic-human)
 * [2023-09-15, 02:33:03](https://news.ycombinator.com/item?id=37517567) - [B612 Font Family](https://b612-font.com/)
 * [2023-09-15, 02:20:58](https://news.ycombinator.com/item?id=37517473) - [TSA officers accused of stealing from passengers](https://www.nbcmiami.com/news/local/new-surveillance-footage-shows-miami-tsa-officers-accused-of-stealing-from-passengers/3109762/)
 * [2023-09-15, 02:03:04](https://news.ycombinator.com/item?id=37517329) - [Linear code is more readable](https://blog.separateconcerns.com/2023-09-11-linear-code.html)
@@ -29,7 +30,6 @@
 * [2023-09-13, 08:49:11](https://news.ycombinator.com/item?id=37494001) - [The mathematical reason why agencies get stuck at $50k MRR](http://jakobgreenfeld.com/agency-model)
 * [2023-09-13, 08:44:19](https://news.ycombinator.com/item?id=37493955) - [What Is Dimensional Analysis?](https://cgad.ski/blog/what-is-dimensional-analysis.html)
 * [2023-09-13, 08:25:42](https://news.ycombinator.com/item?id=37493792) - [The washing machine in my ear, and an empty boat](https://blog.klungo.no/2023/09/12/the-washing-machine-in-my-ear-and-an-empty-boat/)
-* [2023-09-12, 23:00:41](https://news.ycombinator.com/item?id=37489801) - [Compile time regular expression in C++](https://github.com/hanickadot/compile-time-regular-expressions)
 
 ## [Archives](archives/index.md)
 
