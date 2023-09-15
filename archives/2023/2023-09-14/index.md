@@ -70,6 +70,7 @@
 * [2023-09-14, 11:02:16](https://news.ycombinator.com/item?id=37507372) - [Millionaire CEO wants unemployment to jump to 50% because workers are ‘arrogant’](https://www.independent.co.uk/news/world/americas/tim-gurner-property-developer-australia-b2411161.html)
 * [2023-09-14, 11:00:46](https://news.ycombinator.com/item?id=37507355) - [How to Build a IP Geolocation Database from Scratch?](https://ipapi.is/geolocation.html)
 * [2023-09-14, 10:42:24](https://news.ycombinator.com/item?id=37507226) - [Calif. passes strongest right-to-repair bill yet, requiring 7 years of parts](https://arstechnica.com/gadgets/2023/09/calif-passes-strongest-right-to-repair-bill-yet-requiring-7-years-of-parts/)
+* [2023-09-14, 10:20:13](https://news.ycombinator.com/item?id=37507079) - [Microbe Computers (2013)](https://bioengineer.org/microbe-computers/)
 * [2023-09-14, 09:16:51](https://news.ycombinator.com/item?id=37506654) - [XFCE Wayland Development Roadmap](https://wiki.xfce.org/releng/wayland_roadmap)
 * [2023-09-14, 09:14:54](https://news.ycombinator.com/item?id=37506640) - [Johnny Decimal: A System to Organize Projects](https://johnnydecimal.com)
 * [2023-09-14, 08:59:12](https://news.ycombinator.com/item?id=37506542) - [Ask HN: Do you use food as a performance enhancing drug when coding?](https://news.ycombinator.com/item?id=37506542)
