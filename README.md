@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-15, 12:20:31](https://news.ycombinator.com/item?id=37521861) - [NASA says more science and less stigma are needed to understand UFOs](https://apnews.com/article/nasa-ufos-inidentified-flying-objects-8b477a5ed6a42f99bb13a4518368ce9a)
 * [2023-09-15, 12:13:59](https://news.ycombinator.com/item?id=37521804) - [The Pixel Tablet is just a few spare parts in a half-empty body](https://arstechnica.com/gadgets/2023/09/the-pixel-tablet-is-actually-just-a-few-spare-parts-in-a-half-empty-body/)
 * [2023-09-15, 12:02:27](https://news.ycombinator.com/item?id=37521710) - [TikTok fined €345M for breaking EU data law on children’s accounts](https://www.theguardian.com/technology/2023/sep/15/tiktok-fined-345m-for-breaking-eu-data-law-on-childrens-accounts)
 * [2023-09-15, 12:00:44](https://news.ycombinator.com/item?id=37521690) - [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers)
@@ -29,7 +30,6 @@
 * [2023-09-13, 23:31:18](https://news.ycombinator.com/item?id=37503037) - [Liquid Bewitchment: Gin Drinking in England, 1700–1850](https://publicdomainreview.org/essay/liquid-bewitchment/)
 * [2023-09-13, 11:12:02](https://news.ycombinator.com/item?id=37495166) - [EndBASIC](https://www.endbasic.dev/)
 * [2023-09-13, 08:49:11](https://news.ycombinator.com/item?id=37494001) - [Why agencies get stuck at $50k MRR](http://jakobgreenfeld.com/agency-model)
-* [2023-09-13, 08:25:42](https://news.ycombinator.com/item?id=37493792) - [The washing machine in my ear, and an empty boat](https://blog.klungo.no/2023/09/12/the-washing-machine-in-my-ear-and-an-empty-boat/)
 
 ## [Archives](archives/index.md)
 
