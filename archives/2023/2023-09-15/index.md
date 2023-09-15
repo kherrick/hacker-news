@@ -10,6 +10,7 @@
 * [2023-09-15, 12:02:27](https://news.ycombinator.com/item?id=37521710) - [TikTok fined €345M for breaking EU data law on children’s accounts](https://www.theguardian.com/technology/2023/sep/15/tiktok-fined-345m-for-breaking-eu-data-law-on-childrens-accounts)
 * [2023-09-15, 12:00:44](https://news.ycombinator.com/item?id=37521690) - [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers)
 * [2023-09-15, 11:24:31](https://news.ycombinator.com/item?id=37521375) - [Show HN: I built a dataset of 25k+ Gumroad products to spot market opportunities](https://gumtrends.com)
+* [2023-09-15, 11:21:09](https://news.ycombinator.com/item?id=37521340) - [Inflation-adjusted iPhone 15 most affordable base model since 2007 original](https://www.perfectrec.com/posts/iPhone15-price)
 * [2023-09-15, 11:08:06](https://news.ycombinator.com/item?id=37521240) - [How does Linux start a process](https://iq.thc.org/how-does-linux-start-a-process)
 * [2023-09-15, 10:59:15](https://news.ycombinator.com/item?id=37521167) - [Ukraine: Europe clearly overtakes US, with total commitments now twice as large](https://www.ifw-kiel.de/publications/news/ukraine-support-tracker-europe-clearly-overtakes-us-with-total-commitments-now-twice-as-large/)
 * [2023-09-15, 09:38:03](https://news.ycombinator.com/item?id=37520536) - [Norway Fining Meta $98,500 per Day for User Privacy Breach](https://www.twipla.com/en/blog/norway-fining-meta-98500-per-day-for-user-privacy-breach)
