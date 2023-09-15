@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 18:14:28](https://news.ycombinator.com/item?id=37527060) - [Is Unity allowed to just change its fee structure like that?](https://arstechnica.com/gaming/2023/09/wait-is-unity-allowed-to-just-change-its-fee-structure-like-that/)
 * [2023-09-15, 17:38:28](https://news.ycombinator.com/item?id=37526556) - [The Gap in the Armor of Baldur’s Gate and 5e](https://acoup.blog/2023/09/15/collections-the-gap-in-the-armor-of-baldurs-gate-and-5e/)
 * [2023-09-15, 17:34:52](https://news.ycombinator.com/item?id=37526512) - [Plex announced to block instances on German hosting provider Hetzner](https://forums.plex.tv/t/not-allowed-to-use-hetzner/853570)
 * [2023-09-15, 17:32:25](https://news.ycombinator.com/item?id=37526477) - [Kopia: Open-Source, Fast and Secure Open-Source Backup Software](https://kopia.io/)
@@ -68,6 +69,7 @@
 * [2023-09-15, 07:49:22](https://news.ycombinator.com/item?id=37519852) - [The Ashrae Ventilation Recommendations Are Too Low](https://cerereanscratchpad.blogspot.com/2022/08/the-ashrae-ventilation-recommendations.html)
 * [2023-09-15, 07:00:24](https://news.ycombinator.com/item?id=37519487) - [Eqtble (YC W21) Is Hiring a Data Analyst](https://www.ycombinator.com/companies/eqtble/jobs/bOX2JJp-junior-data-scientist)
 * [2023-09-15, 06:51:54](https://news.ycombinator.com/item?id=37519418) - [Willingham Sends Fables into the Public Domain](https://billwillingham.substack.com/p/willingham-sends-fables-into-the)
+* [2023-09-15, 06:44:15](https://news.ycombinator.com/item?id=37519368) - [Ancient Egyptian Vocabulary](https://vega-vocabulaire-egyptien-ancien.fr/en/welcome-page/)
 * [2023-09-15, 06:01:45](https://news.ycombinator.com/item?id=37519066) - [Libsodium: A modern, portable, easy to use crypto library](https://github.com/jedisct1/libsodium)
 * [2023-09-15, 06:00:26](https://news.ycombinator.com/item?id=37519053) - [Global Google Kubernetes Engine Outage](https://status.cloud.google.com/incidents/EBxyHQgEPnbM3Syag5yL)
 * [2023-09-15, 05:40:54](https://news.ycombinator.com/item?id=37518920) - [Positive Geometries and Amplitudes [pdf]](https://dept.math.lsa.umich.edu/~tfylam/posgeom/intro.pdf)
