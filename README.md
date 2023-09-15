@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-15, 02:20:58](https://news.ycombinator.com/item?id=37517473) - [TSA officers accused of stealing from passengers](https://www.nbcmiami.com/news/local/new-surveillance-footage-shows-miami-tsa-officers-accused-of-stealing-from-passengers/3109762/)
-* [2023-09-15, 02:07:21](https://news.ycombinator.com/item?id=37517361) - [How can we have a proper debate when we no longer speak the same language?](https://richarddawkins.substack.com/p/how-can-we-have-a-proper-debate-when)
 * [2023-09-15, 02:03:04](https://news.ycombinator.com/item?id=37517329) - [Linear code is more readable](https://blog.separateconcerns.com/2023-09-11-linear-code.html)
 * [2023-09-15, 01:34:36](https://news.ycombinator.com/item?id=37517118) - [A mathematical formalization of dimensional analysis](https://terrytao.wordpress.com/2012/12/29/a-mathematical-formalisation-of-dimensional-analysis/)
 * [2023-09-15, 00:56:55](https://news.ycombinator.com/item?id=37516835) - [Cannabis use disorder and subsequent risk of depression and bipolar disorder](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2804862)
@@ -12,6 +10,7 @@
 * [2023-09-15, 00:07:21](https://news.ycombinator.com/item?id=37516498) - [Cryptocurrency Mining in Texas](https://earthjustice.org/feature/cryptocurrency-mining-texas)
 * [2023-09-14, 23:15:00](https://news.ycombinator.com/item?id=37516061) - [Analyzing Starfield’s Performance on Nvidia’s 4090 and AMD’s 7900 XTX](https://chipsandcheese.com/2023/09/14/analyzing-starfields-performance-on-nvidias-4090-and-amds-7900-xtx/)
 * [2023-09-14, 23:07:16](https://news.ycombinator.com/item?id=37515996) - [iNaturalist receives $10M Grant, becomes independent 501c3](https://baynature.org/2023/09/12/inaturalist-strikes-out-on-its-own/)
+* [2023-09-14, 22:54:44](https://news.ycombinator.com/item?id=37515894) - [Unity's Licensing Changes: Discover Stride a Community-Driven Open-Source Engine](https://www.stride3d.net/blog/embracing-open-source-stride-as-an-alternative-to-unity/)
 * [2023-09-14, 22:28:08](https://news.ycombinator.com/item?id=37515645) - [Programming Language Inventor or Serial Killer?](https://vole.wtf/coder-serial-killer-quiz/)
 * [2023-09-14, 20:45:06](https://news.ycombinator.com/item?id=37514601) - [MenuetOS](https://menuetos.net)
 * [2023-09-14, 19:21:10](https://news.ycombinator.com/item?id=37513550) - [An Opinionated Yubikey Set-Up Guide](https://www.procustodibus.com/blog/2023/04/how-to-set-up-a-yubikey/)
@@ -19,6 +18,7 @@
 * [2023-09-14, 18:44:02](https://news.ycombinator.com/item?id=37513030) - [A clever “perpetual motion” device [video]](https://www.youtube.com/watch?v=r_LG8FDt51U)
 * [2023-09-14, 18:34:14](https://news.ycombinator.com/item?id=37512888) - [In a Git repository, where do your files live?](https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/)
 * [2023-09-14, 17:00:39](https://news.ycombinator.com/item?id=37511584) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37511584)
+* [2023-09-14, 16:36:57](https://news.ycombinator.com/item?id=37511223) - [Project Oberon (New Edition 2013)](https://people.inf.ethz.ch/wirth/ProjectOberon/)
 * [2023-09-14, 16:15:40](https://news.ycombinator.com/item?id=37510885) - [Stolen van Gogh painting returned in an IKEA bag](https://www.smithsonianmag.com/smart-news/dutch-art-detective-recovers-a-van-gogh-stolen-in-2020-180982896/)
 * [2023-09-14, 16:14:17](https://news.ycombinator.com/item?id=37510865) - [Chromebooks will get 10 years of automatic updates](https://blog.google/outreach-initiatives/education/automatic-update-extension-chromebook/)
 * [2023-09-14, 15:28:05](https://news.ycombinator.com/item?id=37510274) - [Whonix – an OS focused on anonymity, privacy and security](https://www.whonix.org)
