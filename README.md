@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-15, 22:05:55](https://news.ycombinator.com/item?id=37529666) - [“Most notorious” illegal shadow library (LibGen) sued by textbook publishers](https://arstechnica.com/tech-policy/2023/09/most-notorious-illegal-shadow-library-sued-by-textbook-publishers/)
 * [2023-09-15, 21:47:08](https://news.ycombinator.com/item?id=37529497) - [MIT Makes Low-Power Underwater Communication Practical](https://spectrum.ieee.org/underwater-communication-low-power)
 * [2023-09-15, 21:42:23](https://news.ycombinator.com/item?id=37529459) - [MDMA-assisted therapy for PTSD: A randomized, placebo-controlled phase 3 trial](https://www.nature.com/articles/s41591-023-02565-4)
-* [2023-09-15, 21:32:57](https://news.ycombinator.com/item?id=37529381) - [We use TypeScript not based on preference, but because we want to make money](https://paularmstrong.dev/blog/2023/09/14/we-use-type-safety-not-on-preference-but-because-we-want-to-make-money/)
 * [2023-09-15, 20:39:11](https://news.ycombinator.com/item?id=37528816) - [“Inverse vaccine” shows potential to treat MS and other autoimmune diseases](https://pme.uchicago.edu/news/inverse-vaccine-shows-potential-treat-multiple-sclerosis-and-other-autoimmune-diseases)
 * [2023-09-15, 20:21:18](https://news.ycombinator.com/item?id=37528652) - [Birds with more complex vocal skills are better problem-solvers](https://www.sciencenews.org/article/birds-complex-vocal-skills-problem-solvers)
 * [2023-09-15, 19:58:03](https://news.ycombinator.com/item?id=37528394) - [Zero Effort Private Key Compromise: Abusing SSH-Agent for Lateral Movement](https://grahamhelton.com/blog/ssh_agent/)
@@ -10,7 +10,7 @@
 * [2023-09-15, 19:32:38](https://news.ycombinator.com/item?id=37528098) - [Show HN: IncarnaMind-Chat with your multiple docs using LLMs](https://github.com/junruxiong/IncarnaMind)
 * [2023-09-15, 19:18:38](https://news.ycombinator.com/item?id=37527928) - [Books for Game Developers](https://mrelusive.com/books/books.html)
 * [2023-09-15, 19:06:12](https://news.ycombinator.com/item?id=37527773) - [Building an economy simulator from scratch](https://thomassimon.dev/ps/4)
-* [2023-09-15, 19:01:49](https://news.ycombinator.com/item?id=37527720) - [No Sacred Masterpieces, that time I built Excel for Uber and they ditched it](https://basta.substack.com/p/no-sacred-masterpieces)
+* [2023-09-15, 19:01:49](https://news.ycombinator.com/item?id=37527720) - [I built Excel for Uber and they ditched it](https://basta.substack.com/p/no-sacred-masterpieces)
 * [2023-09-15, 18:53:06](https://news.ycombinator.com/item?id=37527599) - [Pixel Sea: Search 88x31 badges and 32x32 icons](https://pixelsea.neocities.org/)
 * [2023-09-15, 18:27:57](https://news.ycombinator.com/item?id=37527259) - [Ex-Finance developers mock McKinsey's dev productivity metrics](https://www.efinancialcareers.com/news/2023/09/mckinsey-how-to-measure-software-developer-productivity)
 * [2023-09-15, 17:32:25](https://news.ycombinator.com/item?id=37526477) - [Kopia: Fast and secure open-source backup software](https://kopia.io/)
