@@ -6,7 +6,6 @@
 * [2023-09-15, 17:32:25](https://news.ycombinator.com/item?id=37526477) - [Kopia: Open-Source, Fast and Secure Open-Source Backup Software](https://kopia.io/)
 * [2023-09-15, 17:01:09](https://news.ycombinator.com/item?id=37526070) - [Loops (YC W22) Is Hiring a Remote Front-End Engineer](https://www.ycombinator.com/companies/loops/jobs/R5lUQcn-front-end-engineer)
 * [2023-09-15, 16:59:15](https://news.ycombinator.com/item?id=37526047) - [Why my favourite API is a zipfile on the European Central Bank's website](https://csvbase.com/blog/5)
-* [2023-09-15, 16:15:54](https://news.ycombinator.com/item?id=37525348) - [How to Store a Chess Game in 26 Bytes Using Bit-Level Magic (2022)](https://www.ezzeriesa.com/index/Writing%20efa7772a3ae64a8193c7ef981ac619fc/Compressing%20chess%20positions%20for%20fun%20and%20profit%20df1fdb5364eb42fdac11eb23b25e9605.html)
 * [2023-09-15, 15:49:09](https://news.ycombinator.com/item?id=37524890) - [Optimizing LLMs from a Dataset Perspective](https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html)
 * [2023-09-15, 15:37:59](https://news.ycombinator.com/item?id=37524686) - [Artificial intelligence can revolutionise science](https://www.economist.com/leaders/2023/09/14/how-artificial-intelligence-can-revolutionise-science)
 * [2023-09-15, 15:06:42](https://news.ycombinator.com/item?id=37524202) - [Show HN: Shrinkflation Tracker](https://www.shrinkflation.io/)
@@ -28,6 +27,7 @@
 * [2023-09-15, 05:40:54](https://news.ycombinator.com/item?id=37518920) - [Positive Geometries and Amplitudes [pdf]](https://dept.math.lsa.umich.edu/~tfylam/posgeom/intro.pdf)
 * [2023-09-15, 05:35:45](https://news.ycombinator.com/item?id=37518874) - [Custom Minecraft Classic client written from scratch in C](https://github.com/UnknownShadow200/ClassiCube)
 * [2023-09-15, 03:12:59](https://news.ycombinator.com/item?id=37517861) - [Find That Obscure Function with This Interactive Map of the Linux Kernel](https://hackaday.com/2023/09/14/find-that-obscure-function-with-this-interactive-map-of-the-linux-kernel/)
+* [2023-09-14, 21:02:47](https://news.ycombinator.com/item?id=37514801) - [Webhook Failure Scenarios](https://hermanradtke.com/webhook-failure-scenarios/)
 * [2023-09-14, 20:01:47](https://news.ycombinator.com/item?id=37514079) - [Archaeologists Discover More Than 100 Ancient Drawings in a Spanish Cave](https://www.smithsonianmag.com/smart-news/archaeologists-discover-more-than-100-ancient-drawings-in-spanish-cave-180982898/)
 * [2023-09-14, 07:28:57](https://news.ycombinator.com/item?id=37506028) - [Painting with Math: A Gentle Study of Raymarching](https://blog.maximeheckel.com/posts/painting-with-math-a-gentle-study-of-raymarching/)
 
