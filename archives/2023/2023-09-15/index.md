@@ -6,6 +6,7 @@
 
 * [2023-09-15, 20:01:46](https://news.ycombinator.com/item?id=37528432) - [Tech workers demand high salaries despite hiring slowdown](https://www2.staffingindustry.com/Editorial/Daily-News/Tech-workers-demand-high-salaries-despite-hiring-slowdown-Lorien-66817)
 * [2023-09-15, 19:32:38](https://news.ycombinator.com/item?id=37528098) - [Show HN: IncarnaMind-Chat with your multiple docs using LLMs](https://github.com/junruxiong/IncarnaMind)
+* [2023-09-15, 19:28:23](https://news.ycombinator.com/item?id=37528048) - [Musk’s X revokes paid blue check from United Auto Workers after strike called](https://arstechnica.com/tech-policy/2023/09/musks-x-revokes-paid-blue-check-from-united-auto-workers-after-strike-called/)
 * [2023-09-15, 19:18:38](https://news.ycombinator.com/item?id=37527928) - [Books for Game Developers](https://mrelusive.com/books/books.html)
 * [2023-09-15, 19:06:12](https://news.ycombinator.com/item?id=37527773) - [Building an Economy Simulator from Scratch](https://thomassimon.dev/ps/4)
 * [2023-09-15, 19:01:49](https://news.ycombinator.com/item?id=37527720) - [No Sacred Masterpieces, that time I built Excel for Uber and they ditched it](https://basta.substack.com/p/no-sacred-masterpieces)
