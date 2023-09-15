@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-09-15, 12:20:31",
-      "https://news.ycombinator.com/item?id=37521861"
-    ],
-    [
-      "NASA says more science and less stigma are needed to understand UFOs",
-      "https://apnews.com/article/nasa-ufos-inidentified-flying-objects-8b477a5ed6a42f99bb13a4518368ce9a"
-    ]
-  ],
-  [
-    [
       "2023-09-15, 12:13:59",
       "https://news.ycombinator.com/item?id=37521804"
     ],
@@ -77,6 +67,16 @@
     [
       "How does Linux start a process",
       "https://iq.thc.org/how-does-linux-start-a-process"
+    ]
+  ],
+  [
+    [
+      "2023-09-15, 09:37:04",
+      "https://news.ycombinator.com/item?id=37520528"
+    ],
+    [
+      "‘Sea is constantly dumping bodies’: fears Libya flood death toll may hit 20k",
+      "https://www.theguardian.com/world/2023/sep/13/libya-flood-death-toll"
     ]
   ],
   [
@@ -177,6 +177,16 @@
     [
       "Global Google Kubernetes Engine Outage",
       "https://status.cloud.google.com/incidents/EBxyHQgEPnbM3Syag5yL"
+    ]
+  ],
+  [
+    [
+      "2023-09-15, 05:35:45",
+      "https://news.ycombinator.com/item?id=37518874"
+    ],
+    [
+      "Custom Minecraft Classic client written from scratch in C",
+      "https://github.com/UnknownShadow200/ClassiCube"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "EndBASIC",
       "https://www.endbasic.dev/"
-    ]
-  ],
-  [
-    [
-      "2023-09-13, 08:49:11",
-      "https://news.ycombinator.com/item?id=37494001"
-    ],
-    [
-      "Why agencies get stuck at $50k MRR",
-      "http://jakobgreenfeld.com/agency-model"
     ]
   ]
 ]
