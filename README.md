@@ -2,6 +2,7 @@
 
 * [2023-09-15, 09:38:03](https://news.ycombinator.com/item?id=37520536) - [Norway Fining Meta $98,500 per Day for User Privacy Breach](https://www.twipla.com/en/blog/norway-fining-meta-98500-per-day-for-user-privacy-breach)
 * [2023-09-15, 09:37:04](https://news.ycombinator.com/item?id=37520528) - [‘Sea is constantly dumping bodies’: fears Libya flood death toll may hit 20k](https://www.theguardian.com/world/2023/sep/13/libya-flood-death-toll)
+* [2023-09-15, 09:34:40](https://news.ycombinator.com/item?id=37520509) - [C++Builder 11 Community Edition](https://www.embarcadero.com/products/cbuilder/starter)
 * [2023-09-15, 09:23:50](https://news.ycombinator.com/item?id=37520441) - [BotOrNot (2021)](https://incolumitas.com/pages/BotOrNot/)
 * [2023-09-15, 09:15:23](https://news.ycombinator.com/item?id=37520374) - [Ask HN: How do you manage your “family data warehouse”?](https://news.ycombinator.com/item?id=37520374)
 * [2023-09-15, 08:47:29](https://news.ycombinator.com/item?id=37520212) - [Delphi 11 Community Edition](https://www.embarcadero.com/products/delphi/starter)
@@ -20,7 +21,6 @@
 * [2023-09-14, 23:07:16](https://news.ycombinator.com/item?id=37515996) - [iNaturalist strikes out on its own](https://baynature.org/2023/09/12/inaturalist-strikes-out-on-its-own/)
 * [2023-09-14, 22:28:08](https://news.ycombinator.com/item?id=37515645) - [Programming Language Inventor or Serial Killer? (2003)](https://vole.wtf/coder-serial-killer-quiz/)
 * [2023-09-14, 20:45:06](https://news.ycombinator.com/item?id=37514601) - [MenuetOS](https://menuetos.net)
-* [2023-09-14, 16:14:26](https://news.ycombinator.com/item?id=37510867) - [Exposition of a New Theory on the Measurement of Risk (1738) [pdf]](https://psych.fullerton.edu/mbirnbaum/psych466/articles/bernoulli_econometrica.pdf)
 * [2023-09-14, 16:14:17](https://news.ycombinator.com/item?id=37510865) - [Chromebooks will get 10 years of automatic updates](https://blog.google/outreach-initiatives/education/automatic-update-extension-chromebook/)
 * [2023-09-14, 14:28:06](https://news.ycombinator.com/item?id=37509507) - [The Tyranny of the Marginal User](https://nothinghuman.substack.com/p/the-tyranny-of-the-marginal-user)
 * [2023-09-14, 11:11:17](https://news.ycombinator.com/item?id=37507419) - [Show HN: Nue – A React/Vue/Vite/Astro Alternative](https://nuejs.org)

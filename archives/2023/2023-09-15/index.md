@@ -6,6 +6,7 @@
 
 * [2023-09-15, 09:38:03](https://news.ycombinator.com/item?id=37520536) - [Norway Fining Meta $98,500 per Day for User Privacy Breach](https://www.twipla.com/en/blog/norway-fining-meta-98500-per-day-for-user-privacy-breach)
 * [2023-09-15, 09:37:04](https://news.ycombinator.com/item?id=37520528) - [‘Sea is constantly dumping bodies’: fears Libya flood death toll may hit 20k](https://www.theguardian.com/world/2023/sep/13/libya-flood-death-toll)
+* [2023-09-15, 09:34:40](https://news.ycombinator.com/item?id=37520509) - [C++Builder 11 Community Edition](https://www.embarcadero.com/products/cbuilder/starter)
 * [2023-09-15, 09:23:50](https://news.ycombinator.com/item?id=37520441) - [BotOrNot (2021)](https://incolumitas.com/pages/BotOrNot/)
 * [2023-09-15, 09:15:23](https://news.ycombinator.com/item?id=37520374) - [Ask HN: How do you manage your “family data warehouse”?](https://news.ycombinator.com/item?id=37520374)
 * [2023-09-15, 09:04:22](https://news.ycombinator.com/item?id=37520310) - [Scientists discover how brain cells die in Alzheimer’s](https://www.bbc.com/news/health-66816268)
