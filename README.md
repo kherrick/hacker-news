@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-15, 09:04:22](https://news.ycombinator.com/item?id=37520310) - [Scientists discover how brain cells die in Alzheimer’s](https://www.bbc.com/news/health-66816268)
+* [2023-09-15, 09:38:03](https://news.ycombinator.com/item?id=37520536) - [Norway Fining Meta $98,500 per Day for User Privacy Breach](https://www.twipla.com/en/blog/norway-fining-meta-98500-per-day-for-user-privacy-breach)
 * [2023-09-15, 08:47:29](https://news.ycombinator.com/item?id=37520212) - [Delphi 11 Community Edition](https://www.embarcadero.com/products/delphi/starter)
 * [2023-09-15, 08:24:59](https://news.ycombinator.com/item?id=37520079) - [Unity’s New Pricing: A Wake-Up Call on the Importance of Open Source in Gaming](https://ramatak.com/2023/09/15/unitys-new-pricing-a-wake-up-call-on-the-importance-of-open-source-in-gaming/)
 * [2023-09-15, 08:23:23](https://news.ycombinator.com/item?id=37520065) - [On the Impending Crypto Monoculture (2016)](https://www.metzdowd.com/pipermail/cryptography/2016-March/028824.html)
