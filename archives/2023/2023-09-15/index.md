@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 03:10:42](https://news.ycombinator.com/item?id=37517844) - [5:01 And Done: No One Wants to Schmooze After Work](https://www.wsj.com/lifestyle/careers/work-happy-hours-office-culture-4c901cfb)
 * [2023-09-15, 02:49:48](https://news.ycombinator.com/item?id=37517674) - [Claude and LLaMa get basic human anatomy wrong](https://hermitian.substack.com/p/claude-and-llama-get-basic-human)
 * [2023-09-15, 02:20:58](https://news.ycombinator.com/item?id=37517473) - [TSA officers accused of stealing from passengers](https://www.nbcmiami.com/news/local/new-surveillance-footage-shows-miami-tsa-officers-accused-of-stealing-from-passengers/3109762/)
 * [2023-09-15, 02:07:21](https://news.ycombinator.com/item?id=37517361) - [How can we have a proper debate when we no longer speak the same language?](https://richarddawkins.substack.com/p/how-can-we-have-a-proper-debate-when)

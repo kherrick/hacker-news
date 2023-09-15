@@ -74,6 +74,7 @@
 * [2023-09-14, 08:50:07](https://news.ycombinator.com/item?id=37506482) - [Fiji Mermaid](https://en.wikipedia.org/wiki/Fiji_mermaid)
 * [2023-09-14, 08:32:31](https://news.ycombinator.com/item?id=37506386) - [How mobile apps illegally share your personal data](https://noyb.eu/en/how-mobile-apps-illegally-share-your-personal-data)
 * [2023-09-14, 08:23:50](https://news.ycombinator.com/item?id=37506333) - [Open Source Windows, ReactOS, Running on a Steam Deck](https://twitter.com/reactos/status/1702071085825450052)
+* [2023-09-14, 08:05:19](https://news.ycombinator.com/item?id=37506248) - [Pyobd - a free and open source program for car diagnostics](https://github.com/barracuda-fsh/pyobd)
 * [2023-09-14, 07:55:18](https://news.ycombinator.com/item?id=37506190) - [3D printing on OpenBSD? Yes, that’s a thing](https://undeadly.org/cgi?action=article;sid=20230914075444)
 * [2023-09-14, 06:54:22](https://news.ycombinator.com/item?id=37505798) - [How Far Back in Time Can I Take My Website's Design?](https://ajxs.me/blog/How_Far_Back_in_Time_Can_I_Take_My_Websites_Design.html)
 * [2023-09-14, 06:33:10](https://news.ycombinator.com/item?id=37505687) - [A Comprehensive Guide for Building Rag-Based LLM Applications](https://github.com/ray-project/llm-applications/blob/main/notebooks/rag.ipynb)
