@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 13:53:21](https://news.ycombinator.com/item?id=37522979) - [Salesforce is hiring over 3k people, despite axing 10% of staff](https://www.businessinsider.com/salesforce-hire-3-000-people-brutal-job-cuts-this-year-2023-9)
+* [2023-09-15, 13:44:47](https://news.ycombinator.com/item?id=37522858) - [Carrefour puts ‘shrinkflation’ price warnings on food to shame brands](https://www.theguardian.com/business/2023/sep/14/carrefour-puts-shrinkflation-price-warnings-on-food-to-shame-brands)
 * [2023-09-15, 12:43:52](https://news.ycombinator.com/item?id=37522106) - [Akiyoshi’s Illusion Pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)
 * [2023-09-15, 12:20:31](https://news.ycombinator.com/item?id=37521861) - [NASA says more science and less stigma are needed to understand UFOs](https://apnews.com/article/nasa-ufos-inidentified-flying-objects-8b477a5ed6a42f99bb13a4518368ce9a)
 * [2023-09-15, 12:13:59](https://news.ycombinator.com/item?id=37521804) - [The Pixel Tablet is just a few spare parts in a half-empty body](https://arstechnica.com/gadgets/2023/09/the-pixel-tablet-is-actually-just-a-few-spare-parts-in-a-half-empty-body/)
