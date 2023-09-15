@@ -1,26 +1,6 @@
 [
   [
     [
-      "2023-09-15, 03:10:42",
-      "https://news.ycombinator.com/item?id=37517844"
-    ],
-    [
-      "5:01 And Done: No One Wants to Schmooze After Work",
-      "https://www.wsj.com/lifestyle/careers/work-happy-hours-office-culture-4c901cfb"
-    ]
-  ],
-  [
-    [
-      "2023-09-15, 02:49:48",
-      "https://news.ycombinator.com/item?id=37517674"
-    ],
-    [
-      "Claude and LLaMa get basic human anatomy wrong",
-      "https://hermitian.substack.com/p/claude-and-llama-get-basic-human"
-    ]
-  ],
-  [
-    [
       "2023-09-15, 02:33:03",
       "https://news.ycombinator.com/item?id=37517567"
     ],
@@ -95,7 +75,7 @@
       "https://news.ycombinator.com/item?id=37516523"
     ],
     [
-      "Unity Silently Deletes GitHub Repo That Tracks Terms of Service Changes",
+      "Unity has seemingly silently removed its GitHub repo that tracks ToS changes",
       "https://www.gamerbraves.com/unity-silently-deletes-github-repo-that-tracks-terms-of-service-changes-and-updated-its-license/"
     ]
   ],
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2023-09-14, 14:38:24",
+      "https://news.ycombinator.com/item?id=37509624"
+    ],
+    [
+      "Googlers told to avoid words like ‘share’ and ‘bundle,’ US says",
+      "https://www.bloomberg.com/news/newsletters/2023-09-14/googlers-told-to-avoid-words-like-share-and-bundle-us-says-lmj27bhl"
+    ]
+  ],
+  [
+    [
       "2023-09-14, 14:28:06",
       "https://news.ycombinator.com/item?id=37509507"
     ],
@@ -297,6 +287,16 @@
     [
       "The washing machine in my ear, and an empty boat",
       "https://blog.klungo.no/2023/09/12/the-washing-machine-in-my-ear-and-an-empty-boat/"
+    ]
+  ],
+  [
+    [
+      "2023-09-12, 23:00:41",
+      "https://news.ycombinator.com/item?id=37489801"
+    ],
+    [
+      "Compile time regular expression in C++",
+      "https://github.com/hanickadot/compile-time-regular-expressions"
     ]
   ]
 ]
