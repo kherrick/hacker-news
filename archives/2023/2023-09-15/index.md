@@ -6,6 +6,8 @@
 
 * [2023-09-15, 17:34:52](https://news.ycombinator.com/item?id=37526512) - [Plex announced to block instances on German hosting provider Hetzner](https://forums.plex.tv/t/not-allowed-to-use-hetzner/853570)
 * [2023-09-15, 17:32:25](https://news.ycombinator.com/item?id=37526477) - [Kopia: Open-Source, Fast and Secure Open-Source Backup Software](https://kopia.io/)
+* [2023-09-15, 17:26:26](https://news.ycombinator.com/item?id=37526399) - [Bitcoin and the dangerous fantasy of ‘apolitical’ money (2013)](https://www.yanisvaroufakis.eu/2013/04/22/bitcoin-and-the-dangerous-fantasy-of-apolitical-money/)
+* [2023-09-15, 17:19:19](https://news.ycombinator.com/item?id=37526306) - [Warner Bros. CFO Thinks You Deadbeats Have Been on a Free Ride for Way Too Long](https://gizmodo.com/warner-bros-cfo-thinks-streaming-prices-need-to-go-up-1850839302)
 * [2023-09-15, 17:03:10](https://news.ycombinator.com/item?id=37526099) - [EU confirms six (mostly US) tech giants are subject to Digital Markets Act](https://techcrunch.com/2023/09/06/dma-gatekeepers-named/)
 * [2023-09-15, 17:01:09](https://news.ycombinator.com/item?id=37526070) - [Loops (YC W22) Is Hiring a Remote Front-End Engineer](https://www.ycombinator.com/companies/loops/jobs/R5lUQcn-front-end-engineer)
 * [2023-09-15, 16:59:15](https://news.ycombinator.com/item?id=37526047) - [Why my favourite API is a zipfile on the European Central Bank's website](https://csvbase.com/blog/5)
@@ -70,6 +72,7 @@
 * [2023-09-15, 05:36:32](https://news.ycombinator.com/item?id=37518882) - [Exposing a Podcast Scam [video]](https://www.youtube.com/watch?v=N3ftBeP16TA)
 * [2023-09-15, 05:35:45](https://news.ycombinator.com/item?id=37518874) - [Custom Minecraft Classic client written from scratch in C](https://github.com/UnknownShadow200/ClassiCube)
 * [2023-09-15, 05:09:53](https://news.ycombinator.com/item?id=37518709) - [United Auto Workers launches a historic strike against all Big 3 automakers](https://www.npr.org/2023/09/15/1199673197/uaw-strike-big-3-automakers)
+* [2023-09-15, 04:24:08](https://news.ycombinator.com/item?id=37518401) - [Gaussian Splatting: The next big thing in 3D [video]](https://www.youtube.com/watch?v=w43KV79LsFw)
 * [2023-09-15, 04:13:09](https://news.ycombinator.com/item?id=37518322) - [Breakthrough Prize Announces 2024 Laureates in Life Sciences, Physics, and Math](https://breakthroughprize.org/News/83)
 * [2023-09-15, 04:00:15](https://news.ycombinator.com/item?id=37518209) - [Show HN: I built an app that lets you create and chat with 3D AI characters](https://www.heyastrocyte.com/)
 * [2023-09-15, 03:38:54](https://news.ycombinator.com/item?id=37518030) - [Human trials of artificial wombs could start soon. Here’s what you need to know](https://www.nature.com/articles/d41586-023-02901-1)
