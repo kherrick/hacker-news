@@ -70,6 +70,7 @@
 * [2023-09-13, 11:16:56](https://news.ycombinator.com/item?id=37495206) - [TSMC Arizona chip plant will be a paperweight](https://9to5mac.com/2023/09/11/tsmc-arizona-chip-plant/)
 * [2023-09-13, 11:14:38](https://news.ycombinator.com/item?id=37495187) - [Show HN: Deploying subdomain-based routing like github.io](https://github.com/xieyuheng/x-server)
 * [2023-09-13, 11:12:02](https://news.ycombinator.com/item?id=37495166) - [EndBASIC](https://www.endbasic.dev/)
+* [2023-09-13, 10:23:07](https://news.ycombinator.com/item?id=37494806) - [Comparative Analysis](https://matklad.github.io/2023/09/13/comparative-analysis.html)
 * [2023-09-13, 10:00:00](https://news.ycombinator.com/item?id=37494620) - [Stable Audio: Fast Timing-Conditioned Latent Audio Diffusion](https://stability.ai/research/stable-audio-efficient-timing-latent-diffusion)
 * [2023-09-13, 09:58:14](https://news.ycombinator.com/item?id=37494605) - [RustRover – A standalone Rust IDE](https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/)
 * [2023-09-13, 09:56:55](https://news.ycombinator.com/item?id=37494595) - [Let's write a treesitter major mode for Emacs](https://www.masteringemacs.org/article/lets-write-a-treesitter-major-mode)
