@@ -9,6 +9,7 @@
 * [2023-09-14, 22:54:44](https://news.ycombinator.com/item?id=37515894) - [Unity's Licensing Changes: Discover Stride a Community-Driven Open-Source Engine](https://www.stride3d.net/blog/embracing-open-source-stride-as-an-alternative-to-unity/)
 * [2023-09-14, 22:28:08](https://news.ycombinator.com/item?id=37515645) - [Programming Language Inventor or Serial Killer?](https://vole.wtf/coder-serial-killer-quiz/)
 * [2023-09-14, 22:26:09](https://news.ycombinator.com/item?id=37515625) - [Apple's A17 Pro Within 10% of i9-13900K, 7950X in Single-Core Performance](https://www.tomshardware.com/news/apples-a17-pro-challenges-core-i9-13900k-ryzen-7950x-in-single-core-performance)
+* [2023-09-14, 21:15:32](https://news.ycombinator.com/item?id=37514952) - [XTTS: Open-source Foundation TTS model](https://coqui.ai/blog/tts/open_xtts/)
 * [2023-09-14, 21:14:32](https://news.ycombinator.com/item?id=37514941) - [Utilu Standalone Internet Explorer Collection](https://utilu.com/IECollection/)
 * [2023-09-14, 21:14:30](https://news.ycombinator.com/item?id=37514940) - [Instead of collaborating or supporting me, Google stole my idea](https://github.com/google/project-gameface/issues/1)
 * [2023-09-14, 20:45:06](https://news.ycombinator.com/item?id=37514601) - [MenuetOS](https://menuetos.net)
