@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-15, 18:38:52",
+      "https://news.ycombinator.com/item?id=37527412"
+    ],
+    [
+      "Google nears release of Gemini AI",
+      "https://www.reuters.com/technology/google-nears-release-ai-software-gemini-information-2023-09-15/"
+    ]
+  ],
+  [
+    [
       "2023-09-15, 18:14:28",
       "https://news.ycombinator.com/item?id=37527060"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2023-09-15, 17:19:19",
-      "https://news.ycombinator.com/item?id=37526306"
-    ],
-    [
-      "Warner Bros. CFO Thinks You Deadbeats Have Been on a Free Ride for Way Too Long",
-      "https://gizmodo.com/warner-bros-cfo-thinks-streaming-prices-need-to-go-up-1850839302"
-    ]
-  ],
-  [
-    [
       "2023-09-15, 17:01:09",
       "https://news.ycombinator.com/item?id=37526070"
     ],
@@ -71,12 +71,12 @@
   ],
   [
     [
-      "2023-09-15, 16:22:52",
-      "https://news.ycombinator.com/item?id=37525484"
+      "2023-09-15, 16:15:54",
+      "https://news.ycombinator.com/item?id=37525348"
     ],
     [
-      "The Most Underrated Application of LLMs",
-      "https://blog.kasperjunge.com/text-classifiers-are-an-underrated-use-case-of-llms"
+      "How to Store a Chess Game in 26 Bytes Using Bit-Level Magic (2022)",
+      "https://www.ezzeriesa.com/index/Writing%20efa7772a3ae64a8193c7ef981ac619fc/Compressing%20chess%20positions%20for%20fun%20and%20profit%20df1fdb5364eb42fdac11eb23b25e9605.html"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "Google to pay $93M in settlement over deceptive location tracking",
       "https://www.theguardian.com/technology/2023/sep/14/google-location-tracking-data-settlement"
-    ]
-  ],
-  [
-    [
-      "2023-09-15, 13:34:14",
-      "https://news.ycombinator.com/item?id=37522700"
-    ],
-    [
-      "Understanding the Origins and the Evolution of Vi and Vim",
-      "https://pikuma.com/blog/origins-of-vim-text-editor"
     ]
   ],
   [
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2023-09-15, 04:24:08",
-      "https://news.ycombinator.com/item?id=37518401"
+      "2023-09-15, 05:35:45",
+      "https://news.ycombinator.com/item?id=37518874"
     ],
     [
-      "Gaussian Splatting: The next big thing in 3D [video]",
-      "https://www.youtube.com/watch?v=w43KV79LsFw"
+      "Custom Minecraft Classic client written from scratch in C",
+      "https://github.com/UnknownShadow200/ClassiCube"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Find That Obscure Function with This Interactive Map of the Linux Kernel",
       "https://hackaday.com/2023/09/14/find-that-obscure-function-with-this-interactive-map-of-the-linux-kernel/"
+    ]
+  ],
+  [
+    [
+      "2023-09-14, 21:02:47",
+      "https://news.ycombinator.com/item?id=37514801"
+    ],
+    [
+      "Webhook Failure Scenarios",
+      "https://hermanradtke.com/webhook-failure-scenarios/"
     ]
   ],
   [
