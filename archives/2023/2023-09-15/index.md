@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 20:39:11](https://news.ycombinator.com/item?id=37528816) - [“Inverse vaccine” shows potential to treat MS and other autoimmune diseases](https://pme.uchicago.edu/news/inverse-vaccine-shows-potential-treat-multiple-sclerosis-and-other-autoimmune-diseases)
 * [2023-09-15, 20:21:18](https://news.ycombinator.com/item?id=37528652) - [Birds with more complex vocal skills are better problem-solvers](https://www.sciencenews.org/article/birds-complex-vocal-skills-problem-solvers)
 * [2023-09-15, 20:01:46](https://news.ycombinator.com/item?id=37528432) - [Tech workers demand high salaries despite hiring slowdown](https://www2.staffingindustry.com/Editorial/Daily-News/Tech-workers-demand-high-salaries-despite-hiring-slowdown-Lorien-66817)
 * [2023-09-15, 19:53:24](https://news.ycombinator.com/item?id=37528338) - [Salt Taste Is Surprisingly Mysterious](https://nautil.us/salt-taste-is-surprisingly-mysterious-382855/)
@@ -63,6 +64,7 @@
 * [2023-09-15, 12:13:59](https://news.ycombinator.com/item?id=37521804) - [The Pixel Tablet is just a few spare parts in a half-empty body](https://arstechnica.com/gadgets/2023/09/the-pixel-tablet-is-actually-just-a-few-spare-parts-in-a-half-empty-body/)
 * [2023-09-15, 12:02:27](https://news.ycombinator.com/item?id=37521710) - [TikTok fined €345M for breaking EU data law on children’s accounts](https://www.theguardian.com/technology/2023/sep/15/tiktok-fined-345m-for-breaking-eu-data-law-on-childrens-accounts)
 * [2023-09-15, 12:00:44](https://news.ycombinator.com/item?id=37521690) - [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers)
+* [2023-09-15, 11:51:51](https://news.ycombinator.com/item?id=37521594) - [Linux on a Commodore 64](https://hackaday.com/2023/08/27/linux-on-a-commodore-64/)
 * [2023-09-15, 11:41:26](https://news.ycombinator.com/item?id=37521508) - [Project: ICE cube thruster](https://www.imperial.ac.uk/aeronautics/research/facilities/space-lab/ice-cube-thruster/)
 * [2023-09-15, 11:24:31](https://news.ycombinator.com/item?id=37521375) - [Show HN: I built a dataset of 25k+ Gumroad products to spot market opportunities](https://gumtrends.com)
 * [2023-09-15, 11:21:09](https://news.ycombinator.com/item?id=37521340) - [Inflation-adjusted iPhone 15 most affordable base model since 2007 original](https://www.perfectrec.com/posts/iPhone15-price)
