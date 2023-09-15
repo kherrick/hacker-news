@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 16:15:54](https://news.ycombinator.com/item?id=37525348) - [How to Store a Chess Game in 26 Bytes Using Bit-Level Magic (2022)](https://www.ezzeriesa.com/index/Writing%20efa7772a3ae64a8193c7ef981ac619fc/Compressing%20chess%20positions%20for%20fun%20and%20profit%20df1fdb5364eb42fdac11eb23b25e9605.html)
 * [2023-09-15, 15:49:09](https://news.ycombinator.com/item?id=37524890) - [Optimizing LLMs from a Dataset Perspective](https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html)
 * [2023-09-15, 15:37:59](https://news.ycombinator.com/item?id=37524686) - [Artificial intelligence can revolutionise science](https://www.economist.com/leaders/2023/09/14/how-artificial-intelligence-can-revolutionise-science)
 * [2023-09-15, 15:15:41](https://news.ycombinator.com/item?id=37524331) - [Repeat after me: building any new homes reduces housing costs for all](https://www.ft.com/content/86836af4-6b52-49e8-a8f0-8aec6181dbc5)
