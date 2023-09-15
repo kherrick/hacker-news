@@ -14,6 +14,7 @@
 * [2023-09-14, 21:14:30](https://news.ycombinator.com/item?id=37514940) - [Instead of collaborating or supporting me, Google stole my idea](https://github.com/google/project-gameface/issues/1)
 * [2023-09-14, 21:02:47](https://news.ycombinator.com/item?id=37514801) - [Webhook Failure Scenarios](https://hermanradtke.com/webhook-failure-scenarios/)
 * [2023-09-14, 20:45:06](https://news.ycombinator.com/item?id=37514601) - [MenuetOS](https://menuetos.net)
+* [2023-09-14, 20:01:47](https://news.ycombinator.com/item?id=37514079) - [Archaeologists Discover More Than 100 Ancient Drawings in a Spanish Cave](https://www.smithsonianmag.com/smart-news/archaeologists-discover-more-than-100-ancient-drawings-in-spanish-cave-180982898/)
 * [2023-09-14, 19:59:35](https://news.ycombinator.com/item?id=37514051) - [Rivers are rapidly warming, losing oxygen; aquatic life at risk, study finds](https://www.eurekalert.org/news-releases/1001268)
 * [2023-09-14, 19:38:28](https://news.ycombinator.com/item?id=37513791) - [Toyota’s advanced battery technology roadmap](https://newsroom.toyota.eu/toyotas-advanced-battery-technology-roadmap/)
 * [2023-09-14, 19:25:20](https://news.ycombinator.com/item?id=37513619) - [Arm jumps 18% in market debut to notch $60B valuation](https://www.reuters.com/markets/deals/softbanks-arm-set-debut-nasdaq-after-blockbuster-ipo-2023-09-14/)
