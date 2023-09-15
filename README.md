@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-15, 20:01:46](https://news.ycombinator.com/item?id=37528432) - [Tech workers demand high salaries despite hiring slowdown](https://www2.staffingindustry.com/Editorial/Daily-News/Tech-workers-demand-high-salaries-despite-hiring-slowdown-Lorien-66817)
 * [2023-09-15, 19:32:38](https://news.ycombinator.com/item?id=37528098) - [Show HN: IncarnaMind-Chat with your multiple docs using LLMs](https://github.com/junruxiong/IncarnaMind)
 * [2023-09-15, 19:28:23](https://news.ycombinator.com/item?id=37528048) - [Musk’s X revokes paid blue check from United Auto Workers after strike called](https://arstechnica.com/tech-policy/2023/09/musks-x-revokes-paid-blue-check-from-united-auto-workers-after-strike-called/)
 * [2023-09-15, 19:18:38](https://news.ycombinator.com/item?id=37527928) - [Books for Game Developers](https://mrelusive.com/books/books.html)
@@ -24,6 +23,7 @@
 * [2023-09-15, 12:02:27](https://news.ycombinator.com/item?id=37521710) - [TikTok fined €345M for breaking EU data law on children’s accounts](https://www.theguardian.com/technology/2023/sep/15/tiktok-fined-345m-for-breaking-eu-data-law-on-childrens-accounts)
 * [2023-09-15, 09:23:50](https://news.ycombinator.com/item?id=37520441) - [BotOrNot (2021)](https://incolumitas.com/pages/BotOrNot/)
 * [2023-09-15, 08:18:19](https://news.ycombinator.com/item?id=37520039) - [Find my cat: open-source Cat Tracker](https://www.findmycat.io/)
+* [2023-09-15, 08:00:15](https://news.ycombinator.com/item?id=37519928) - [MaplePad – RP2040 Dreamcast controller, VMU, and Purupuru (rumble pack) emulator](https://github.com/mackieks/MaplePad)
 * [2023-09-15, 06:51:54](https://news.ycombinator.com/item?id=37519418) - [Willingham sends Fables into the public domain](https://billwillingham.substack.com/p/willingham-sends-fables-into-the)
 * [2023-09-15, 06:44:15](https://news.ycombinator.com/item?id=37519368) - [Ancient Egyptian Vocabulary](https://vega-vocabulaire-egyptien-ancien.fr/en/welcome-page/)
 * [2023-09-15, 05:40:54](https://news.ycombinator.com/item?id=37518920) - [Positive Geometries and Amplitudes [pdf]](https://dept.math.lsa.umich.edu/~tfylam/posgeom/intro.pdf)
