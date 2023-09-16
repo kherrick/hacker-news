@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-16, 11:08:29",
+      "https://news.ycombinator.com/item?id=37533747"
+    ],
+    [
+      "BtrBlocks: Efficient Columnar Compression for Data Lakes [pdf]",
+      "https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrblocks.pdf"
+    ]
+  ],
+  [
+    [
       "2023-09-16, 10:10:37",
       "https://news.ycombinator.com/item?id=37533487"
     ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=37532522"
     ],
     [
-      "GPT-4 is not getting worse (tests and a long rant)",
+      "GPT-4 is not getting worse",
       "https://coagulopath.com/gpt-4-is-not-getting-worse/"
     ]
   ],
@@ -165,7 +175,7 @@
       "https://news.ycombinator.com/item?id=37531339"
     ],
     [
-      "enron :: discover the power of WHY (2001)",
+      "Enron :: discover the power of WHY (2001)",
       "https://enroncorp.com/corp/index.html"
     ]
   ],
@@ -277,16 +287,6 @@
     [
       "My favourite API is a zipfile on the European Central Bank's website",
       "https://csvbase.com/blog/5"
-    ]
-  ],
-  [
-    [
-      "2023-09-15, 06:51:54",
-      "https://news.ycombinator.com/item?id=37519418"
-    ],
-    [
-      "Willingham sends Fables into the public domain",
-      "https://billwillingham.substack.com/p/willingham-sends-fables-into-the"
     ]
   ],
   [
