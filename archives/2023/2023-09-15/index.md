@@ -71,6 +71,7 @@
 * [2023-09-15, 13:28:59](https://news.ycombinator.com/item?id=37522644) - [GlassFish Embedded – a simple way to run Jakarta EE apps](https://omnifish.ee/2023/09/15/glassfish-embedded-a-simple-way-to-run-jakarta-ee-apps/)
 * [2023-09-15, 13:06:02](https://news.ycombinator.com/item?id=37522321) - [The Patterns of Venus’s Movement Across the Sky](https://www.timeanddate.com/news/astronomy/venus-morning-star-2023)
 * [2023-09-15, 13:04:05](https://news.ycombinator.com/item?id=37522290) - [Truthiness in C](https://dxuuu.xyz/casts.html)
+* [2023-09-15, 12:45:15](https://news.ycombinator.com/item?id=37522121) - [Show HN: Oyie – A micro social app to stay in sync with your friends](https://oyie.io)
 * [2023-09-15, 12:43:52](https://news.ycombinator.com/item?id=37522106) - [Akiyoshi’s Illusion Pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)
 * [2023-09-15, 12:43:41](https://news.ycombinator.com/item?id=37522105) - [How Have Women Evolved to Attract Men?](https://unchartedterritories.tomaspueyo.com/p/how-have-women-evolved-to-attract)
 * [2023-09-15, 12:27:03](https://news.ycombinator.com/item?id=37521931) - [Yes, Android 14 still allows modification of system certificates](https://www.g1a55er.net/Android-14-Still-Allows-Modification-of-System-Certificates)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-16, 00:54:21](https://news.ycombinator.com/item?id=37530915) - [Fifteen Times Faster Than Llama 2: Introducing DeciLM LLM with Variable GQA](https://deci.ai/blog/decilm-15-times-faster-than-llama2-nas-generated-llm-with-variable-gqa/)
+* [2023-09-16, 00:54:00](https://news.ycombinator.com/item?id=37530913) - [Texas pays Bitcoin miner to not mine](https://www.texasmonthly.com/news-politics/texas-bitcoin-miner-riot-31-million-energy-credits/)
 * [2023-09-15, 23:21:09](https://news.ycombinator.com/item?id=37530261) - [Rule for Beneficial Ownership Reporting (2022)](https://www.fincen.gov/news/news-releases/fincen-issues-final-rule-beneficial-ownership-reporting-support-law-enforcement)
 * [2023-09-15, 23:16:00](https://news.ycombinator.com/item?id=37530218) - [Record low Antarctic sea ice coverage indicates a new sea ice state](https://www.nature.com/articles/s43247-023-00961-9)
 * [2023-09-15, 22:07:22](https://news.ycombinator.com/item?id=37529683) - [Where did the Carter White House's solar panels go? (2010)](https://www.scientificamerican.com/article/carter-white-house-solar-panel-array/)
@@ -21,9 +22,8 @@
 * [2023-09-15, 16:59:15](https://news.ycombinator.com/item?id=37526047) - [My favourite API is a zipfile on the European Central Bank's website](https://csvbase.com/blog/5)
 * [2023-09-15, 16:15:54](https://news.ycombinator.com/item?id=37525348) - [How to store a chess position in 26 bytes using bit-level magic (2022)](https://www.ezzeriesa.com/index/Writing%20efa7772a3ae64a8193c7ef981ac619fc/Compressing%20chess%20positions%20for%20fun%20and%20profit%20df1fdb5364eb42fdac11eb23b25e9605.html)
 * [2023-09-15, 15:49:09](https://news.ycombinator.com/item?id=37524890) - [Optimizing LLMs from a Dataset Perspective](https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html)
-* [2023-09-15, 14:41:49](https://news.ycombinator.com/item?id=37523762) - [Who is behind the latest wave of UK ransomware attacks?](https://www.theguardian.com/technology/2023/sep/14/who-is-behind-latest-wave-of-ransomware-attacks)
+* [2023-09-15, 12:45:15](https://news.ycombinator.com/item?id=37522121) - [Show HN: Oyie – A micro social app to stay in sync with your friends](https://oyie.io)
 * [2023-09-15, 12:43:52](https://news.ycombinator.com/item?id=37522106) - [Akiyoshi’s Illusion Pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)
-* [2023-09-15, 12:27:03](https://news.ycombinator.com/item?id=37521931) - [Yes, Android 14 still allows modification of system certificates](https://www.g1a55er.net/Android-14-Still-Allows-Modification-of-System-Certificates)
 * [2023-09-15, 10:21:57](https://news.ycombinator.com/item?id=37520890) - [A Primer on Logic Programming](https://www.juxt.pro/blog/logic-primer/)
 * [2023-09-15, 06:44:15](https://news.ycombinator.com/item?id=37519368) - [VÉgA – Vocabulary of Ancient Egyptian](https://vega-vocabulaire-egyptien-ancien.fr/en/welcome-page/)
 * [2023-09-15, 02:08:05](https://news.ycombinator.com/item?id=37517368) - [95 bits per second](https://popey.com/blog/2023/09/95-bits-per-second/)
