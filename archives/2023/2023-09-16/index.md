@@ -38,6 +38,7 @@
 * [2023-09-16, 15:35:38](https://news.ycombinator.com/item?id=37535702) - [How to Escape the Startup Trough of Sorrow](https://www.briefmix.com/startup/positioning)
 * [2023-09-16, 15:26:55](https://news.ycombinator.com/item?id=37535620) - [Mark Cuban loses $870K in hot wallet hack](https://cointelegraph.com/news/mark-cuban-hot-wallet-hacked)
 * [2023-09-16, 15:23:07](https://news.ycombinator.com/item?id=37535575) - [French supermarket using ‘shrinkflation’ stickers to pressure PepsiCo and others](https://www.cnn.com/2023/09/15/business-food/carrefour-shrinkflation-stickers/index.html)
+* [2023-09-16, 15:18:46](https://news.ycombinator.com/item?id=37535537) - [Life-changing cystic fibrosis treatment wins US$3M Breakthrough Prize](https://www.nature.com/articles/d41586-023-02890-1)
 * [2023-09-16, 15:06:41](https://news.ycombinator.com/item?id=37535431) - [Wireless electrical–molecular quantum signalling for cancer cell apoptosis](https://www.nature.com/articles/s41565-023-01496-y)
 * [2023-09-16, 14:59:10](https://news.ycombinator.com/item?id=37535350) - [A Different Type of SQL Recursion with PostgreSQL](https://github.com/vb-consulting/blog/discussions/1)
 * [2023-09-16, 14:44:37](https://news.ycombinator.com/item?id=37535223) - [Bear rescued from theme park 'didn't understand trees,' relocated to sanctuary](https://www.cbc.ca/news/canada/hamilton/bear-rescue-marineland-1.6967959)
