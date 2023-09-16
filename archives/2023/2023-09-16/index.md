@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-16](index.md)
 
 * [2023-09-16, 19:10:26](https://news.ycombinator.com/item?id=37537716) - [Jason Cohen: Stop saying “fail”](https://longform.asmartbear.com/fail/)
+* [2023-09-16, 18:59:57](https://news.ycombinator.com/item?id=37537584) - [Cache Line Alignment in C++ – How It Makes Your Program Faster](https://ryonaldteofilo.medium.com/cache-line-alignment-in-c-1aac85e4482f)
 * [2023-09-16, 18:44:26](https://news.ycombinator.com/item?id=37537443) - [Don't be afraid to be wrong](https://nlopes.dev/writing/dont-be-afraid-to-be-wrong)
 * [2023-09-16, 18:42:00](https://news.ycombinator.com/item?id=37537417) - [Ask HN: WordPress vs. Django/Flask?](https://news.ycombinator.com/item?id=37537417)
 * [2023-09-16, 18:07:00](https://news.ycombinator.com/item?id=37537111) - [Masked 'Boot Girls' Are Freeing Booted Cars All over Atlanta](https://www.roadandtrack.com/news/a45123358/masked-boot-girls-are-freeing-booted-cars-all-over-atlanta/)
