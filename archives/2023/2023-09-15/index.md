@@ -13,6 +13,7 @@
 * [2023-09-15, 22:05:55](https://news.ycombinator.com/item?id=37529666) - [“Most notorious” illegal shadow library (LibGen) sued by textbook publishers](https://arstechnica.com/tech-policy/2023/09/most-notorious-illegal-shadow-library-sued-by-textbook-publishers/)
 * [2023-09-15, 21:47:08](https://news.ycombinator.com/item?id=37529497) - [MIT Makes Low-Power Underwater Communication Practical](https://spectrum.ieee.org/underwater-communication-low-power)
 * [2023-09-15, 21:42:23](https://news.ycombinator.com/item?id=37529459) - [MDMA-Assisted Therapy for PTSD: A Randomized, Placebo-Controlled Phase 3 Trial](https://www.nature.com/articles/s41591-023-02565-4)
+* [2023-09-15, 21:34:00](https://news.ycombinator.com/item?id=37529392) - [Artificial Inroads: Science gets down to business (1986) [pdf]](https://lock.cmpxchg8b.com/files/unix_ai_article.pdf)
 * [2023-09-15, 21:32:57](https://news.ycombinator.com/item?id=37529381) - [We use TypeScript not based on preference, but because we want to make money](https://paularmstrong.dev/blog/2023/09/14/we-use-type-safety-not-on-preference-but-because-we-want-to-make-money/)
 * [2023-09-15, 21:30:09](https://news.ycombinator.com/item?id=37529359) - [Johnny Cash Has Been Everywhere (Man)](http://www.johnnycashhasbeeneverywhere.com/)
 * [2023-09-15, 21:21:44](https://news.ycombinator.com/item?id=37529284) - [The Early Days of American English](https://www.laphamsquarterly.org/roundtable/early-days-american-english)

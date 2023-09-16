@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-16](index.md)
 
+* [2023-09-16, 21:00:56](https://news.ycombinator.com/item?id=37538654) - [Lantern (YC W24) – Hiring Engineers to Build PostgreSQL Vector Database for AI](https://lantern-db.notion.site/lantern-db/Lantern-is-hiring-Core-Database-Engineers-396a612dcfdb4c9eb274670680c8d8b5)
+* [2023-09-16, 20:40:28](https://news.ycombinator.com/item?id=37538482) - [Linux on a MacBook Pro (M1 Pro): How Good Is Asahi Now?](https://www.youtube.com/watch?v=ZFx6R26aRHw)
+* [2023-09-16, 20:32:09](https://news.ycombinator.com/item?id=37538426) - [Lodash just declared issue bankruptcy and closed every issue and open PR](https://twitter.com/danielcroe/status/1703127430523703432)
 * [2023-09-16, 20:28:23](https://news.ycombinator.com/item?id=37538400) - [Layoffs.fyi](https://layoffs.fyi/)
 * [2023-09-16, 20:21:56](https://news.ycombinator.com/item?id=37538350) - [Guidance: A guidance language for controlling large language models](https://github.com/guidance-ai/guidance)
 * [2023-09-16, 20:17:19](https://news.ycombinator.com/item?id=37538305) - [Why do software nowadays take so much more memory and processing power](https://dietpi.com/forum/t/why-do-software-nowadays-take-so-much-more-memory-and-processing-power/4514)
