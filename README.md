@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-16, 18:07:00](https://news.ycombinator.com/item?id=37537111) - [Masked 'Boot Girls' Are Freeing Booted Cars All over Atlanta](https://www.roadandtrack.com/news/a45123358/masked-boot-girls-are-freeing-booted-cars-all-over-atlanta/)
+* [2023-09-16, 17:00:43](https://news.ycombinator.com/item?id=37536519) - [French supermarket Carrefour puts up 'shrinkflation' warning signs](https://www.bbc.co.uk/news/business-66809188)
 * [2023-09-16, 16:42:49](https://news.ycombinator.com/item?id=37536361) - [Is this fraud? And if so, to what extent am I responsible?](https://workplace.stackexchange.com/questions/193234/is-this-fraud-and-if-so-to-what-extent-am-i-responsible)
 * [2023-09-16, 16:31:09](https://news.ycombinator.com/item?id=37536263) - [Vegas casinos are still reeling from a massive cyberattack](https://www.fastcompany.com/90954120/vegas-casinos-are-still-reeling-from-a-massive-cyberattack)
 * [2023-09-16, 16:24:30](https://news.ycombinator.com/item?id=37536190) - [Single-bladed floating wind turbine promises half the cost, more power](https://newatlas.com/energy/touchwind-floating-wind-turbine/)
@@ -11,8 +13,6 @@
 * [2023-09-16, 15:26:55](https://news.ycombinator.com/item?id=37535620) - [Mark Cuban loses $870K in hot wallet hack](https://cointelegraph.com/news/mark-cuban-hot-wallet-hacked)
 * [2023-09-16, 15:06:41](https://news.ycombinator.com/item?id=37535431) - [Wireless electrical–molecular quantum signalling for cancer cell apoptosis](https://www.nature.com/articles/s41565-023-01496-y)
 * [2023-09-16, 14:59:10](https://news.ycombinator.com/item?id=37535350) - [A Different Type of SQL Recursion with PostgreSQL](https://github.com/vb-consulting/blog/discussions/1)
-* [2023-09-16, 14:44:22](https://news.ycombinator.com/item?id=37535219) - [Threat from Climate Change to Some of India’s Sacred Sites Is Reshaping Beliefs](https://worldsensorium.com/threat-from-climate-change-to-some-of-indias-sacred-pilgrimage-sites-is-reshaping-religious-beliefs/)
-* [2023-09-16, 14:40:25](https://news.ycombinator.com/item?id=37535187) - [Game developers turning off all IronSource and Unity Ads monetization](https://docs.google.com/document/d/16PzpX6qIwJu57jCB2fhxqKtmxA6A6QmZWifsWZBqI2w/view)
 * [2023-09-16, 14:33:43](https://news.ycombinator.com/item?id=37535114) - [Comp.sys.sinclair crap games competition (2021)](https://www.rickdangerous.co.uk/csscgc2021/entries.html)
 * [2023-09-16, 13:54:23](https://news.ycombinator.com/item?id=37534781) - [Textual Adds a Command Palette](https://textual.textualize.io/blog/2023/09/15/textual-0370-adds-a-command-palette/)
 * [2023-09-16, 13:41:16](https://news.ycombinator.com/item?id=37534666) - [static-server: an HTTP server in Go for static content](https://eli.thegreenplace.net/2023/static-server-an-http-server-in-go-for-static-content/)
