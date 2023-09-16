@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-16, 16:42:49](https://news.ycombinator.com/item?id=37536361) - [Is this fraud? And if so, to what extent am I responsible?](https://workplace.stackexchange.com/questions/193234/is-this-fraud-and-if-so-to-what-extent-am-i-responsible)
 * [2023-09-16, 16:31:09](https://news.ycombinator.com/item?id=37536263) - [Vegas casinos are still reeling from a massive cyberattack](https://www.fastcompany.com/90954120/vegas-casinos-are-still-reeling-from-a-massive-cyberattack)
 * [2023-09-16, 15:46:39](https://news.ycombinator.com/item?id=37535814) - [Peter Higgs: I wouldn't be productive enough for today's academic system](https://www.theguardian.com/science/2013/dec/06/peter-higgs-boson-academic-system)
 * [2023-09-16, 15:35:38](https://news.ycombinator.com/item?id=37535702) - [How to Escape the Startup Trough of Sorrow](https://www.briefmix.com/startup/positioning)
@@ -29,7 +30,6 @@
 * [2023-09-15, 21:21:44](https://news.ycombinator.com/item?id=37529284) - [The Early Days of American English](https://www.laphamsquarterly.org/roundtable/early-days-american-english)
 * [2023-09-15, 20:05:05](https://news.ycombinator.com/item?id=37528472) - [Everyday uses for PVC water pipe](https://tomtilley.net/projects/pvc/)
 * [2023-09-15, 16:59:15](https://news.ycombinator.com/item?id=37526047) - [My favourite API is a zipfile on the European Central Bank's website](https://csvbase.com/blog/5)
-* [2023-09-14, 21:31:59](https://news.ycombinator.com/item?id=37515134) - [The industrial quasi-revolution of Song dynasty China](https://etiennefd.substack.com/p/a-song-of-proto-industrialization)
 
 ## [Archives](archives/index.md)
 
