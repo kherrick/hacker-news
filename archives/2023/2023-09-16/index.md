@@ -6,6 +6,7 @@
 
 * [2023-09-16, 18:07:00](https://news.ycombinator.com/item?id=37537111) - [Masked 'Boot Girls' Are Freeing Booted Cars All over Atlanta](https://www.roadandtrack.com/news/a45123358/masked-boot-girls-are-freeing-booted-cars-all-over-atlanta/)
 * [2023-09-16, 17:00:43](https://news.ycombinator.com/item?id=37536519) - [French supermarket Carrefour puts up 'shrinkflation' warning signs](https://www.bbc.co.uk/news/business-66809188)
+* [2023-09-16, 16:59:30](https://news.ycombinator.com/item?id=37536503) - [Epistemological problem of emergence in complex systems (2018) [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6207336/pdf/pone.0206489.pdf)
 * [2023-09-16, 16:42:49](https://news.ycombinator.com/item?id=37536361) - [Is this fraud? And if so, to what extent am I responsible?](https://workplace.stackexchange.com/questions/193234/is-this-fraud-and-if-so-to-what-extent-am-i-responsible)
 * [2023-09-16, 16:31:09](https://news.ycombinator.com/item?id=37536263) - [Vegas casinos are still reeling from a massive cyberattack](https://www.fastcompany.com/90954120/vegas-casinos-are-still-reeling-from-a-massive-cyberattack)
 * [2023-09-16, 16:24:30](https://news.ycombinator.com/item?id=37536190) - [Single-bladed floating wind turbine promises half the cost, more power](https://newatlas.com/energy/touchwind-floating-wind-turbine/)

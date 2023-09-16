@@ -7,6 +7,7 @@
 * [2023-09-15, 23:28:13](https://news.ycombinator.com/item?id=37530314) - [Inflation in Austria](https://mastodon.gamedev.place/@badlogic/111071396799790275)
 * [2023-09-15, 23:21:09](https://news.ycombinator.com/item?id=37530261) - [Rule for Beneficial Ownership Reporting (2022)](https://www.fincen.gov/news/news-releases/fincen-issues-final-rule-beneficial-ownership-reporting-support-law-enforcement)
 * [2023-09-15, 23:16:00](https://news.ycombinator.com/item?id=37530218) - [Record low Antarctic sea ice coverage indicates a new sea ice state](https://www.nature.com/articles/s43247-023-00961-9)
+* [2023-09-15, 23:07:56](https://news.ycombinator.com/item?id=37530158) - [Formatting Text in C++: The Old and the New Ways](https://mariusbancila.ro/blog/2023/09/12/formatting-text-in-c-the-old-and-the-new-ways/)
 * [2023-09-15, 22:08:37](https://news.ycombinator.com/item?id=37529694) - [Scientists Uncover COVID’s Weakness](https://news.ucr.edu/articles/2023/09/13/scientists-uncover-covids-weakness)
 * [2023-09-15, 22:07:22](https://news.ycombinator.com/item?id=37529683) - [Where did the Carter White House's solar panels go? (2010)](https://www.scientificamerican.com/article/carter-white-house-solar-panel-array/)
 * [2023-09-15, 22:05:55](https://news.ycombinator.com/item?id=37529666) - [“Most notorious” illegal shadow library (LibGen) sued by textbook publishers](https://arstechnica.com/tech-policy/2023/09/most-notorious-illegal-shadow-library-sued-by-textbook-publishers/)
