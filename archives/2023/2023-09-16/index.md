@@ -83,6 +83,7 @@
 * [2023-09-16, 03:37:11](https://news.ycombinator.com/item?id=37531824) - [Solving the Expression Problem in Go](https://www.tzcl.me/posts/expression-problem/)
 * [2023-09-16, 03:35:25](https://news.ycombinator.com/item?id=37531815) - [Mesa-optimization algorithms in Transformers[pdf]](https://arxiv.org/abs/2309.05858)
 * [2023-09-16, 03:32:27](https://news.ycombinator.com/item?id=37531801) - [Subdomain.center – discover all subdomains for a domain](https://www.subdomain.center/)
+* [2023-09-16, 02:55:14](https://news.ycombinator.com/item?id=37531602) - [Streaming Is Changing the Sound of Music](https://www.wsj.com/arts-culture/music/streaming-is-changing-the-sound-of-music-182dc907)
 * [2023-09-16, 02:54:06](https://news.ycombinator.com/item?id=37531598) - [The Suspicion Machine](https://www.wired.com/story/welfare-state-algorithms/)
 * [2023-09-16, 02:25:24](https://news.ycombinator.com/item?id=37531434) - [Yazi: Fast terminal file manager based on async I/O](https://github.com/sxyazi/yazi)
 * [2023-09-16, 02:23:47](https://news.ycombinator.com/item?id=37531423) - [Ask HN: What Happened to TJ Holowaychuk?](https://news.ycombinator.com/item?id=37531423)
