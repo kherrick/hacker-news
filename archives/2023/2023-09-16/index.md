@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-09-16](index.md)
 
+* [2023-09-16, 20:21:56](https://news.ycombinator.com/item?id=37538350) - [Guidance: A guidance language for controlling large language models](https://github.com/guidance-ai/guidance)
+* [2023-09-16, 20:17:19](https://news.ycombinator.com/item?id=37538305) - [Why do software nowadays take so much more memory and processing power](https://dietpi.com/forum/t/why-do-software-nowadays-take-so-much-more-memory-and-processing-power/4514)
 * [2023-09-16, 20:04:31](https://news.ycombinator.com/item?id=37538170) - [Russell Brand accused of rape, sexual assaults and abuse](https://www.thetimes.co.uk/article/russell-brand-rape-sexual-assault-abuse-allegations-investigation-v5hxdlmb6)
 * [2023-09-16, 19:56:05](https://news.ycombinator.com/item?id=37538106) - [Why everything you buy is worse now [video]](https://www.youtube.com/watch?v=DHXBacEH0qo)
+* [2023-09-16, 19:48:15](https://news.ycombinator.com/item?id=37538028) - [Show HN: Every Breath You Take – Heart Rate Variability Training](https://github.com/kbre93/every-breath-you-take)
 * [2023-09-16, 19:42:31](https://news.ycombinator.com/item?id=37537986) - [Apple patches “clickless” 0-day image processing vulnerability in iOS, macOS](https://arstechnica.com/gadgets/2023/09/apple-patches-clickless-0-day-image-processing-vulnerability-in-ios-macos/)
+* [2023-09-16, 19:40:07](https://news.ycombinator.com/item?id=37537969) - [Why can't America teach writing?](https://www.simonberens.com/p/why-cant-america-teach-writing)
 * [2023-09-16, 19:10:26](https://news.ycombinator.com/item?id=37537716) - [Jason Cohen: Stop saying “fail”](https://longform.asmartbear.com/fail/)
 * [2023-09-16, 19:07:55](https://news.ycombinator.com/item?id=37537689) - [Running one’s own root Certificate Authority in 2023](https://wejn.org/2023/09/running-ones-own-root-certificate-authority-in-2023/)
 * [2023-09-16, 18:59:57](https://news.ycombinator.com/item?id=37537584) - [Cache Line Alignment in C++ – How It Makes Your Program Faster](https://ryonaldteofilo.medium.com/cache-line-alignment-in-c-1aac85e4482f)
