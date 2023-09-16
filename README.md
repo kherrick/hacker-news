@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-16, 14:40:25](https://news.ycombinator.com/item?id=37535187) - [Game developers turning off all IronSource and Unity Ads monetization](https://docs.google.com/document/d/16PzpX6qIwJu57jCB2fhxqKtmxA6A6QmZWifsWZBqI2w/view)
 * [2023-09-16, 13:56:45](https://news.ycombinator.com/item?id=37534800) - [Dire Warnings About Libya Dams Went Unheeded](https://www.nytimes.com/2023/09/16/world/middleeast/libya-dams-warnings.html)
 * [2023-09-16, 13:54:23](https://news.ycombinator.com/item?id=37534781) - [Textual Adds a Command Palette](https://textual.textualize.io/blog/2023/09/15/textual-0370-adds-a-command-palette/)
 * [2023-09-16, 13:54:08](https://news.ycombinator.com/item?id=37534779) - [Homemade RC excavator from PVC [video]](https://www.youtube.com/watch?v=qam0DmWq_No)
-* [2023-09-16, 13:32:04](https://news.ycombinator.com/item?id=37534618) - [Activists Have One Simple Goal: Abolish the Cruise Industry](https://www.thenation.com/article/world/cruise-ships-marseille-stop-croisieres/)
 * [2023-09-16, 13:27:36](https://news.ycombinator.com/item?id=37534595) - [The Triassic-Jurassic Extinction](https://johncarlosbaez.wordpress.com/2023/09/16/the-triassic-jurassic-extinction-event/)
 * [2023-09-16, 13:17:47](https://news.ycombinator.com/item?id=37534517) - [NASA clears the air: No evidence that UFOs are aliens](https://theconversation.com/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial-213528)
 * [2023-09-16, 13:05:47](https://news.ycombinator.com/item?id=37534451) - [Observations on Credit and Lending Practices in Ur III Mesopotamia (2004) [pdf]](https://www.sfu.ca/~poitras/jesho_UR_14.pdf)

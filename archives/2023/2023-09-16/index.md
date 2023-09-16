@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-16](index.md)
 
+* [2023-09-16, 14:40:25](https://news.ycombinator.com/item?id=37535187) - [Game developers turning off all IronSource and Unity Ads monetization](https://docs.google.com/document/d/16PzpX6qIwJu57jCB2fhxqKtmxA6A6QmZWifsWZBqI2w/view)
 * [2023-09-16, 13:56:45](https://news.ycombinator.com/item?id=37534800) - [Dire Warnings About Libya Dams Went Unheeded](https://www.nytimes.com/2023/09/16/world/middleeast/libya-dams-warnings.html)
 * [2023-09-16, 13:54:23](https://news.ycombinator.com/item?id=37534781) - [Textual Adds a Command Palette](https://textual.textualize.io/blog/2023/09/15/textual-0370-adds-a-command-palette/)
 * [2023-09-16, 13:54:08](https://news.ycombinator.com/item?id=37534779) - [Homemade RC excavator from PVC [video]](https://www.youtube.com/watch?v=qam0DmWq_No)
