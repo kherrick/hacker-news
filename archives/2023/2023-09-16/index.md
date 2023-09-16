@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-16](index.md)
 
+* [2023-09-16, 13:27:36](https://news.ycombinator.com/item?id=37534595) - [The Triassic-Jurassic Extinction](https://johncarlosbaez.wordpress.com/2023/09/16/the-triassic-jurassic-extinction-event/)
+* [2023-09-16, 13:17:47](https://news.ycombinator.com/item?id=37534517) - [NASA clears the air: No evidence that UFOs are aliens](https://theconversation.com/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial-213528)
 * [2023-09-16, 12:46:32](https://news.ycombinator.com/item?id=37534330) - [Fixing the housing crisis is not rocket science. “Minneapolis has been build](https://twitter.com/scienceisstrat1/status/1702663125613301785)
 * [2023-09-16, 12:17:29](https://news.ycombinator.com/item?id=37534166) - [Boring Crypto, from Daniel J. Bernstein (2012) [pdf]](https://cr.yp.to/talks/2015.10.05/slides-djb-20151005-a4.pdf)
 * [2023-09-16, 12:00:30](https://news.ycombinator.com/item?id=37534050) - [Ploomber (YC W22) Is Hiring Software Engineers](https://www.ycombinator.com/companies/ploomber/jobs)
