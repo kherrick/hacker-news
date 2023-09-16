@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-16](index.md)
 
 * [2023-09-16, 05:17:34](https://news.ycombinator.com/item?id=37532245) - [Relational is more than SQL](https://fauna.com/blog/relational-is-more-than-sql)
+* [2023-09-16, 04:06:54](https://news.ycombinator.com/item?id=37531965) - [Salesforce CEO goes back to being remote](https://fortune.com/2023/09/15/marc-benioff-salesforce-says-hes-remote-worker-office-return/)
 * [2023-09-16, 03:37:55](https://news.ycombinator.com/item?id=37531828) - [A Virus for the BBC Micro](https://popey.com/blog/2023/09/a-virus-for-the-bbc-micro/)
 * [2023-09-16, 03:37:11](https://news.ycombinator.com/item?id=37531824) - [Solving the Expression Problem in Go](https://www.tzcl.me/posts/expression-problem/)
 * [2023-09-16, 03:35:25](https://news.ycombinator.com/item?id=37531815) - [Mesa-optimization algorithms in Transformers[pdf]](https://arxiv.org/abs/2309.05858)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-16, 05:17:34](https://news.ycombinator.com/item?id=37532245) - [Relational is more than SQL](https://fauna.com/blog/relational-is-more-than-sql)
+* [2023-09-16, 04:06:54](https://news.ycombinator.com/item?id=37531965) - [Salesforce CEO goes back to being remote](https://fortune.com/2023/09/15/marc-benioff-salesforce-says-hes-remote-worker-office-return/)
 * [2023-09-16, 03:37:55](https://news.ycombinator.com/item?id=37531828) - [A Virus for the BBC Micro](https://popey.com/blog/2023/09/a-virus-for-the-bbc-micro/)
 * [2023-09-16, 03:37:11](https://news.ycombinator.com/item?id=37531824) - [Solving the Expression Problem in Go](https://www.tzcl.me/posts/expression-problem/)
 * [2023-09-16, 03:35:25](https://news.ycombinator.com/item?id=37531815) - [Mesa-optimization algorithms in Transformers[pdf]](https://arxiv.org/abs/2309.05858)
@@ -27,7 +28,6 @@
 * [2023-09-15, 15:49:09](https://news.ycombinator.com/item?id=37524890) - [Optimizing LLMs from a Dataset Perspective](https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html)
 * [2023-09-15, 12:45:15](https://news.ycombinator.com/item?id=37522121) - [Show HN: Oyie – A micro social app to stay in sync with your friends](https://oyie.io)
 * [2023-09-15, 10:21:57](https://news.ycombinator.com/item?id=37520890) - [A Primer on Logic Programming](https://www.juxt.pro/blog/logic-primer/)
-* [2023-09-15, 06:44:15](https://news.ycombinator.com/item?id=37519368) - [VÉgA – Vocabulary of Ancient Egyptian](https://vega-vocabulaire-egyptien-ancien.fr/en/welcome-page/)
 * [2023-09-15, 02:08:05](https://news.ycombinator.com/item?id=37517368) - [95 bits per second](https://popey.com/blog/2023/09/95-bits-per-second/)
 * [2023-09-14, 07:28:57](https://news.ycombinator.com/item?id=37506028) - [Painting with math: A gentle study of raymarching](https://blog.maximeheckel.com/posts/painting-with-math-a-gentle-study-of-raymarching/)
 
