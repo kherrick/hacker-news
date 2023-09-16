@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-16](index.md)
 
+* [2023-09-16, 16:31:09](https://news.ycombinator.com/item?id=37536263) - [Vegas casinos are still reeling from a massive cyberattack](https://www.fastcompany.com/90954120/vegas-casinos-are-still-reeling-from-a-massive-cyberattack)
 * [2023-09-16, 15:46:39](https://news.ycombinator.com/item?id=37535814) - [Peter Higgs: I wouldn't be productive enough for today's academic system](https://www.theguardian.com/science/2013/dec/06/peter-higgs-boson-academic-system)
 * [2023-09-16, 15:35:38](https://news.ycombinator.com/item?id=37535702) - [How to Escape the Startup Trough of Sorrow](https://www.briefmix.com/startup/positioning)
 * [2023-09-16, 15:23:07](https://news.ycombinator.com/item?id=37535575) - [French supermarket using ‘shrinkflation’ stickers to pressure PepsiCo and others](https://www.cnn.com/2023/09/15/business-food/carrefour-shrinkflation-stickers/index.html)
