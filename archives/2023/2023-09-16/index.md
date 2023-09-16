@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-16](index.md)
 
+* [2023-09-16, 20:28:23](https://news.ycombinator.com/item?id=37538400) - [Layoffs.fyi](https://layoffs.fyi/)
 * [2023-09-16, 20:21:56](https://news.ycombinator.com/item?id=37538350) - [Guidance: A guidance language for controlling large language models](https://github.com/guidance-ai/guidance)
 * [2023-09-16, 20:17:19](https://news.ycombinator.com/item?id=37538305) - [Why do software nowadays take so much more memory and processing power](https://dietpi.com/forum/t/why-do-software-nowadays-take-so-much-more-memory-and-processing-power/4514)
 * [2023-09-16, 20:04:31](https://news.ycombinator.com/item?id=37538170) - [Russell Brand accused of rape, sexual assaults and abuse](https://www.thetimes.co.uk/article/russell-brand-rape-sexual-assault-abuse-allegations-investigation-v5hxdlmb6)

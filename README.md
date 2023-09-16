@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-16, 20:28:23](https://news.ycombinator.com/item?id=37538400) - [Layoffs.fyi](https://layoffs.fyi/)
 * [2023-09-16, 20:21:56](https://news.ycombinator.com/item?id=37538350) - [Guidance: A guidance language for controlling large language models](https://github.com/guidance-ai/guidance)
 * [2023-09-16, 20:17:19](https://news.ycombinator.com/item?id=37538305) - [Why do software nowadays take so much more memory and processing power](https://dietpi.com/forum/t/why-do-software-nowadays-take-so-much-more-memory-and-processing-power/4514)
-* [2023-09-16, 19:56:05](https://news.ycombinator.com/item?id=37538106) - [Why everything you buy is worse now [video]](https://www.youtube.com/watch?v=DHXBacEH0qo)
 * [2023-09-16, 19:48:15](https://news.ycombinator.com/item?id=37538028) - [Show HN: Every Breath You Take – Heart Rate Variability Training](https://github.com/kbre93/every-breath-you-take)
 * [2023-09-16, 19:40:07](https://news.ycombinator.com/item?id=37537969) - [Why can't America teach writing?](https://www.simonberens.com/p/why-cant-america-teach-writing)
 * [2023-09-16, 19:07:55](https://news.ycombinator.com/item?id=37537689) - [Running one’s own root Certificate Authority in 2023](https://wejn.org/2023/09/running-ones-own-root-certificate-authority-in-2023/)
@@ -20,6 +20,7 @@
 * [2023-09-16, 14:33:43](https://news.ycombinator.com/item?id=37535114) - [Comp.sys.sinclair crap games competition (2021)](https://www.rickdangerous.co.uk/csscgc2021/entries.html)
 * [2023-09-16, 13:41:16](https://news.ycombinator.com/item?id=37534666) - [static-server: an HTTP server in Go for static content](https://eli.thegreenplace.net/2023/static-server-an-http-server-in-go-for-static-content/)
 * [2023-09-16, 13:31:48](https://news.ycombinator.com/item?id=37534615) - [Horcrux: Split your file into encrypted fragments](https://github.com/jesseduffield/horcrux)
+* [2023-09-16, 13:27:36](https://news.ycombinator.com/item?id=37534595) - [The Triassic-Jurassic Extinction](https://johncarlosbaez.wordpress.com/2023/09/16/the-triassic-jurassic-extinction-event/)
 * [2023-09-16, 13:05:47](https://news.ycombinator.com/item?id=37534451) - [Observations on Credit and Lending Practices in Ur III Mesopotamia (2004) [pdf]](https://www.sfu.ca/~poitras/jesho_UR_14.pdf)
 * [2023-09-16, 12:00:30](https://news.ycombinator.com/item?id=37534050) - [Ploomber (YC W22) Is Hiring Software Engineers](https://www.ycombinator.com/companies/ploomber/jobs)
 * [2023-09-16, 11:08:29](https://news.ycombinator.com/item?id=37533747) - [BtrBlocks: Efficient Columnar Compression for Data Lakes [pdf]](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrblocks.pdf)
@@ -28,7 +29,6 @@
 * [2023-09-16, 08:16:54](https://news.ycombinator.com/item?id=37532973) - [Tracking Austrian grocery prices by scraping store sites](https://mastodon.gamedev.place/@badlogic/111071396799790275)
 * [2023-09-15, 23:07:56](https://news.ycombinator.com/item?id=37530158) - [Formatting text in C++: Old and new ways](https://mariusbancila.ro/blog/2023/09/12/formatting-text-in-c-the-old-and-the-new-ways/)
 * [2023-09-15, 21:21:44](https://news.ycombinator.com/item?id=37529284) - [The Early Days of American English](https://www.laphamsquarterly.org/roundtable/early-days-american-english)
-* [2023-09-15, 19:09:28](https://news.ycombinator.com/item?id=37527806) - [The Hot Water Rectangle (2022)](https://www.greenbuildingadvisor.com/article/the-hot-water-rectangle)
 * [2023-09-15, 14:16:54](https://news.ycombinator.com/item?id=37523314) - [New camera offers ultrafast imaging at a fraction of the normal cost](https://phys.org/news/2023-09-camera-ultrafast-imaging-fraction.html)
 
 ## [Archives](archives/index.md)
