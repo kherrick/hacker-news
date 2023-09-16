@@ -6,7 +6,9 @@
 
 * [2023-09-16, 13:27:36](https://news.ycombinator.com/item?id=37534595) - [The Triassic-Jurassic Extinction](https://johncarlosbaez.wordpress.com/2023/09/16/the-triassic-jurassic-extinction-event/)
 * [2023-09-16, 13:17:47](https://news.ycombinator.com/item?id=37534517) - [NASA clears the air: No evidence that UFOs are aliens](https://theconversation.com/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial-213528)
+* [2023-09-16, 13:02:39](https://news.ycombinator.com/item?id=37534430) - [Bitwarden login down due to Azure outage](https://status.bitwarden.com/)
 * [2023-09-16, 12:46:32](https://news.ycombinator.com/item?id=37534330) - [Fixing the housing crisis is not rocket science. “Minneapolis has been build](https://twitter.com/scienceisstrat1/status/1702663125613301785)
+* [2023-09-16, 12:24:42](https://news.ycombinator.com/item?id=37534204) - [Ask HN: How do you make time for side projects and Leetcode grinding](https://news.ycombinator.com/item?id=37534204)
 * [2023-09-16, 12:17:29](https://news.ycombinator.com/item?id=37534166) - [Boring Crypto, from Daniel J. Bernstein (2012) [pdf]](https://cr.yp.to/talks/2015.10.05/slides-djb-20151005-a4.pdf)
 * [2023-09-16, 12:00:30](https://news.ycombinator.com/item?id=37534050) - [Ploomber (YC W22) Is Hiring Software Engineers](https://www.ycombinator.com/companies/ploomber/jobs)
 * [2023-09-16, 11:16:14](https://news.ycombinator.com/item?id=37533795) - [7 simple habits of the top 1% of engineers](https://engineercodex.substack.com/p/7-simple-habits-of-the-top-1-of-engineers)
@@ -17,6 +19,7 @@
 * [2023-09-16, 09:56:49](https://news.ycombinator.com/item?id=37533438) - [People Are Streaming Pirated Movies on TikTok, One Short Clip at a Time](https://www.wsj.com/tech/tiktok-pirated-movies-free-2cd9389a)
 * [2023-09-16, 09:10:05](https://news.ycombinator.com/item?id=37533225) - [Show HN: Android Hacker News Widget and App](https://play.google.com/store/apps/details?id=com.thirdgate.hackernews&hl=en_US)
 * [2023-09-16, 08:56:47](https://news.ycombinator.com/item?id=37533146) - [The Economic Cost of Populism](https://www.aeaweb.org/articles?id=10.1257/aer.20202045&from=f)
+* [2023-09-16, 08:52:37](https://news.ycombinator.com/item?id=37533130) - [A Pre-Release Version of IBM PC-DOS from June 1981, Also Called DOS 0.90 (2021)](https://thestarman.pcministry.com/DOS/ibm090/)
 * [2023-09-16, 08:16:54](https://news.ycombinator.com/item?id=37532973) - [Tracking Austrian grocery prices by scraping store sites](https://mastodon.gamedev.place/@badlogic/111071396799790275)
 * [2023-09-16, 07:00:11](https://news.ycombinator.com/item?id=37532618) - [Converge (YC S23) is hiring a founding product engineer](https://www.ycombinator.com/companies/converge/jobs/vc4Nbeh-founding-product-engineer)
 * [2023-09-16, 06:49:54](https://news.ycombinator.com/item?id=37532584) - [Pongs](https://pippinbarr.com/pongs/info/)
