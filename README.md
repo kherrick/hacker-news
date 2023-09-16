@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-16, 14:44:22](https://news.ycombinator.com/item?id=37535219) - [Threat from Climate Change to Some of India’s Sacred Sites Is Reshaping Beliefs](https://worldsensorium.com/threat-from-climate-change-to-some-of-indias-sacred-pilgrimage-sites-is-reshaping-religious-beliefs/)
 * [2023-09-16, 14:40:25](https://news.ycombinator.com/item?id=37535187) - [Game developers turning off all IronSource and Unity Ads monetization](https://docs.google.com/document/d/16PzpX6qIwJu57jCB2fhxqKtmxA6A6QmZWifsWZBqI2w/view)
 * [2023-09-16, 13:56:45](https://news.ycombinator.com/item?id=37534800) - [Dire Warnings About Libya Dams Went Unheeded](https://www.nytimes.com/2023/09/16/world/middleeast/libya-dams-warnings.html)
 * [2023-09-16, 13:54:23](https://news.ycombinator.com/item?id=37534781) - [Textual Adds a Command Palette](https://textual.textualize.io/blog/2023/09/15/textual-0370-adds-a-command-palette/)
@@ -26,7 +27,6 @@
 * [2023-09-16, 03:32:27](https://news.ycombinator.com/item?id=37531801) - [Subdomain.center – discover all subdomains for a domain](https://www.subdomain.center/)
 * [2023-09-16, 02:25:24](https://news.ycombinator.com/item?id=37531434) - [Yazi: Fast terminal file manager based on async I/O](https://github.com/sxyazi/yazi)
 * [2023-09-16, 02:09:08](https://news.ycombinator.com/item?id=37531339) - [enron :: discover the power of WHY (2001)](https://enroncorp.com/corp/index.html)
-* [2023-09-16, 00:05:29](https://news.ycombinator.com/item?id=37530567) - [Deno by Example](https://examples.deno.land/)
 * [2023-09-15, 20:05:05](https://news.ycombinator.com/item?id=37528472) - [Everyday uses for PVC water pipe](https://tomtilley.net/projects/pvc/)
 * [2023-09-15, 19:06:12](https://news.ycombinator.com/item?id=37527773) - [Building an economy simulator from scratch](https://thomassimon.dev/ps/4)
 * [2023-09-15, 16:59:15](https://news.ycombinator.com/item?id=37526047) - [My favourite API is a zipfile on the European Central Bank's website](https://csvbase.com/blog/5)
