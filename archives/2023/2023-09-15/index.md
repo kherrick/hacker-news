@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 23:21:09](https://news.ycombinator.com/item?id=37530261) - [Rule for Beneficial Ownership Reporting (2022)](https://www.fincen.gov/news/news-releases/fincen-issues-final-rule-beneficial-ownership-reporting-support-law-enforcement)
 * [2023-09-15, 22:08:37](https://news.ycombinator.com/item?id=37529694) - [Scientists Uncover COVID’s Weakness](https://news.ucr.edu/articles/2023/09/13/scientists-uncover-covids-weakness)
 * [2023-09-15, 22:07:22](https://news.ycombinator.com/item?id=37529683) - [Where did the Carter White House's solar panels go? (2010)](https://www.scientificamerican.com/article/carter-white-house-solar-panel-array/)
 * [2023-09-15, 22:05:55](https://news.ycombinator.com/item?id=37529666) - [“Most notorious” illegal shadow library (LibGen) sued by textbook publishers](https://arstechnica.com/tech-policy/2023/09/most-notorious-illegal-shadow-library-sued-by-textbook-publishers/)
 * [2023-09-15, 21:47:08](https://news.ycombinator.com/item?id=37529497) - [MIT Makes Low-Power Underwater Communication Practical](https://spectrum.ieee.org/underwater-communication-low-power)
 * [2023-09-15, 21:42:23](https://news.ycombinator.com/item?id=37529459) - [MDMA-Assisted Therapy for PTSD: A Randomized, Placebo-Controlled Phase 3 Trial](https://www.nature.com/articles/s41591-023-02565-4)
 * [2023-09-15, 21:32:57](https://news.ycombinator.com/item?id=37529381) - [We use TypeScript not based on preference, but because we want to make money](https://paularmstrong.dev/blog/2023/09/14/we-use-type-safety-not-on-preference-but-because-we-want-to-make-money/)
+* [2023-09-15, 21:30:09](https://news.ycombinator.com/item?id=37529359) - [Johnny Cash Has Been Everywhere (Man)](http://www.johnnycashhasbeeneverywhere.com/)
 * [2023-09-15, 21:13:21](https://news.ycombinator.com/item?id=37529197) - [Unicorn Startup Airtable Lays Off 27% of Firm, Shifts Focus to Big Clients](https://www.forbes.com/sites/stevenbertoni/2023/09/14/unicorn-startup-airtable-lays-off-27-of-firm-shifts-focus-to-big-clients/)
 * [2023-09-15, 20:39:11](https://news.ycombinator.com/item?id=37528816) - [“Inverse vaccine” shows potential to treat MS and other autoimmune diseases](https://pme.uchicago.edu/news/inverse-vaccine-shows-potential-treat-multiple-sclerosis-and-other-autoimmune-diseases)
 * [2023-09-15, 20:21:18](https://news.ycombinator.com/item?id=37528652) - [Birds with more complex vocal skills are better problem-solvers](https://www.sciencenews.org/article/birds-complex-vocal-skills-problem-solvers)
@@ -52,6 +54,7 @@
 * [2023-09-15, 14:53:56](https://news.ycombinator.com/item?id=37523992) - [Google to pay $93M in settlement over deceptive location tracking](https://www.theguardian.com/technology/2023/sep/14/google-location-tracking-data-settlement)
 * [2023-09-15, 14:47:22](https://news.ycombinator.com/item?id=37523873) - [We forced our company to allow work from home again](https://old.reddit.com/r/sysadmin/comments/16j8kw4/we_forced_our_company_to_allow_work_from_home/)
 * [2023-09-15, 14:43:23](https://news.ycombinator.com/item?id=37523796) - [Harnad: The Symbol Grounding Problem (1990) [pdf]](https://www.cs.ox.ac.uk/activities/ieg/e-library/sources/harnad90_sgproblem.pdf)
+* [2023-09-15, 14:41:49](https://news.ycombinator.com/item?id=37523762) - [Who is behind the latest wave of UK ransomware attacks?](https://www.theguardian.com/technology/2023/sep/14/who-is-behind-latest-wave-of-ransomware-attacks)
 * [2023-09-15, 14:22:23](https://news.ycombinator.com/item?id=37523409) - [iPhone 15 USB-C port is 100% standard; MFi certification rumors wrong](https://9to5mac.com/2023/09/15/iphone-15-usb-c-port-compatibility/)
 * [2023-09-15, 14:12:49](https://news.ycombinator.com/item?id=37523248) - [That travel deal you found online may be a one-way ticket to misery](https://www.wsj.com/lifestyle/travel/vacation-hotels-flights-online-booking-fees-29262506)
 * [2023-09-15, 14:09:09](https://news.ycombinator.com/item?id=37523188) - [Ask HN: Why Don't Developers Support Open Source Maintainers?](https://news.ycombinator.com/item?id=37523188)
