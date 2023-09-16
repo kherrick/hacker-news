@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-15, 23:21:09",
+      "https://news.ycombinator.com/item?id=37530261"
+    ],
+    [
+      "Rule for Beneficial Ownership Reporting (2022)",
+      "https://www.fincen.gov/news/news-releases/fincen-issues-final-rule-beneficial-ownership-reporting-support-law-enforcement"
+    ]
+  ],
+  [
+    [
       "2023-09-15, 22:07:22",
       "https://news.ycombinator.com/item?id=37529683"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2023-09-15, 21:42:23",
-      "https://news.ycombinator.com/item?id=37529459"
+      "2023-09-15, 21:30:09",
+      "https://news.ycombinator.com/item?id=37529359"
     ],
     [
-      "MDMA-assisted therapy for PTSD: A randomized, placebo-controlled phase 3 trial",
-      "https://www.nature.com/articles/s41591-023-02565-4"
+      "Johnny Cash Has Been Everywhere (Man)",
+      "http://www.johnnycashhasbeeneverywhere.com/"
     ]
   ],
   [
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2023-09-15, 18:27:57",
-      "https://news.ycombinator.com/item?id=37527259"
-    ],
-    [
-      "Ex-Finance developers mock McKinsey's monitoring metrics",
-      "https://www.efinancialcareers.com/news/2023/09/mckinsey-how-to-measure-software-developer-productivity"
-    ]
-  ],
-  [
-    [
       "2023-09-15, 18:09:26",
       "https://news.ycombinator.com/item?id=37526994"
     ],
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2023-09-15, 16:15:54",
+      "https://news.ycombinator.com/item?id=37525348"
+    ],
+    [
+      "How to store a chess position in 26 bytes using bit-level magic (2022)",
+      "https://www.ezzeriesa.com/index/Writing%20efa7772a3ae64a8193c7ef981ac619fc/Compressing%20chess%20positions%20for%20fun%20and%20profit%20df1fdb5364eb42fdac11eb23b25e9605.html"
+    ]
+  ],
+  [
+    [
       "2023-09-15, 15:49:09",
       "https://news.ycombinator.com/item?id=37524890"
     ],
@@ -191,22 +201,22 @@
   ],
   [
     [
-      "2023-09-15, 15:06:42",
-      "https://news.ycombinator.com/item?id=37524202"
-    ],
-    [
-      "Shrinkflation Tracker",
-      "https://www.shrinkflation.io/"
-    ]
-  ],
-  [
-    [
       "2023-09-15, 14:43:23",
       "https://news.ycombinator.com/item?id=37523796"
     ],
     [
       "The Symbol Grounding Problem (1990) [pdf]",
       "https://www.cs.ox.ac.uk/activities/ieg/e-library/sources/harnad90_sgproblem.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-09-15, 14:41:49",
+      "https://news.ycombinator.com/item?id=37523762"
+    ],
+    [
+      "Who is behind the latest wave of UK ransomware attacks?",
+      "https://www.theguardian.com/technology/2023/sep/14/who-is-behind-latest-wave-of-ransomware-attacks"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2023-09-15, 08:23:23",
-      "https://news.ycombinator.com/item?id=37520065"
-    ],
-    [
-      "On the Impending Crypto Monoculture (2016)",
-      "https://www.metzdowd.com/pipermail/cryptography/2016-March/028824.html"
-    ]
-  ],
-  [
-    [
       "2023-09-15, 06:44:15",
       "https://news.ycombinator.com/item?id=37519368"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2023-09-14, 20:01:47",
-      "https://news.ycombinator.com/item?id=37514079"
-    ],
-    [
-      "Archaeologists discover ancient drawings in a Spanish cave",
-      "https://www.smithsonianmag.com/smart-news/archaeologists-discover-more-than-100-ancient-drawings-in-spanish-cave-180982898/"
-    ]
-  ],
-  [
-    [
       "2023-09-14, 07:28:57",
       "https://news.ycombinator.com/item?id=37506028"
     ],
     [
       "Painting with math: A gentle study of raymarching",
       "https://blog.maximeheckel.com/posts/painting-with-math-a-gentle-study-of-raymarching/"
+    ]
+  ],
+  [
+    [
+      "2023-09-13, 03:16:13",
+      "https://news.ycombinator.com/item?id=37491789"
+    ],
+    [
+      "River is a visual connection engine",
+      "https://river.maxbittker.com/"
     ]
   ]
 ]
