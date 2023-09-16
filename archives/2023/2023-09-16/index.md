@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-16](index.md)
 
+* [2023-09-16, 19:10:26](https://news.ycombinator.com/item?id=37537716) - [Jason Cohen: Stop saying “fail”](https://longform.asmartbear.com/fail/)
+* [2023-09-16, 18:44:26](https://news.ycombinator.com/item?id=37537443) - [Don't be afraid to be wrong](https://nlopes.dev/writing/dont-be-afraid-to-be-wrong)
+* [2023-09-16, 18:42:00](https://news.ycombinator.com/item?id=37537417) - [Ask HN: WordPress vs. Django/Flask?](https://news.ycombinator.com/item?id=37537417)
 * [2023-09-16, 18:07:00](https://news.ycombinator.com/item?id=37537111) - [Masked 'Boot Girls' Are Freeing Booted Cars All over Atlanta](https://www.roadandtrack.com/news/a45123358/masked-boot-girls-are-freeing-booted-cars-all-over-atlanta/)
 * [2023-09-16, 17:00:43](https://news.ycombinator.com/item?id=37536519) - [French supermarket Carrefour puts up 'shrinkflation' warning signs](https://www.bbc.co.uk/news/business-66809188)
 * [2023-09-16, 16:59:30](https://news.ycombinator.com/item?id=37536503) - [Epistemological problem of emergence in complex systems (2018) [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6207336/pdf/pone.0206489.pdf)
