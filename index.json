@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-09-16, 00:54:21",
+      "https://news.ycombinator.com/item?id=37530915"
+    ],
+    [
+      "Fifteen Times Faster Than Llama 2: Introducing DeciLM LLM with Variable GQA",
+      "https://deci.ai/blog/decilm-15-times-faster-than-llama2-nas-generated-llm-with-variable-gqa/"
+    ]
+  ],
+  [
+    [
       "2023-09-15, 23:21:09",
       "https://news.ycombinator.com/item?id=37530261"
     ],
     [
       "Rule for Beneficial Ownership Reporting (2022)",
       "https://www.fincen.gov/news/news-releases/fincen-issues-final-rule-beneficial-ownership-reporting-support-law-enforcement"
+    ]
+  ],
+  [
+    [
+      "2023-09-15, 23:16:00",
+      "https://news.ycombinator.com/item?id=37530218"
+    ],
+    [
+      "Record low Antarctic sea ice coverage indicates a new sea ice state",
+      "https://www.nature.com/articles/s43247-023-00961-9"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2023-09-15, 19:18:38",
-      "https://news.ycombinator.com/item?id=37527928"
-    ],
-    [
-      "Books for Game Developers",
-      "https://mrelusive.com/books/books.html"
-    ]
-  ],
-  [
-    [
       "2023-09-15, 19:06:12",
       "https://news.ycombinator.com/item?id=37527773"
     ],
@@ -197,16 +207,6 @@
     [
       "Optimizing LLMs from a Dataset Perspective",
       "https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-15, 14:43:23",
-      "https://news.ycombinator.com/item?id=37523796"
-    ],
-    [
-      "The Symbol Grounding Problem (1990) [pdf]",
-      "https://www.cs.ox.ac.uk/activities/ieg/e-library/sources/harnad90_sgproblem.pdf"
     ]
   ],
   [
