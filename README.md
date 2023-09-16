@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-16, 11:16:14](https://news.ycombinator.com/item?id=37533795) - [7 simple habits of the top 1% of engineers](https://engineercodex.substack.com/p/7-simple-habits-of-the-top-1-of-engineers)
 * [2023-09-16, 11:08:29](https://news.ycombinator.com/item?id=37533747) - [BtrBlocks: Efficient Columnar Compression for Data Lakes [pdf]](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrblocks.pdf)
 * [2023-09-16, 10:11:34](https://news.ycombinator.com/item?id=37533493) - [Show HN: exaequOS - a new OS running in a web browser](https://www.exaequos.com)
 * [2023-09-16, 10:10:37](https://news.ycombinator.com/item?id=37533487) - [Percy Ludgate](https://en.wikipedia.org/wiki/Percy_Ludgate)
@@ -28,7 +29,6 @@
 * [2023-09-15, 19:01:49](https://news.ycombinator.com/item?id=37527720) - [I built Excel for Uber and they ditched it](https://basta.substack.com/p/no-sacred-masterpieces)
 * [2023-09-15, 17:32:25](https://news.ycombinator.com/item?id=37526477) - [Kopia: Fast and secure open-source backup software](https://kopia.io/)
 * [2023-09-15, 16:59:15](https://news.ycombinator.com/item?id=37526047) - [My favourite API is a zipfile on the European Central Bank's website](https://csvbase.com/blog/5)
-* [2023-09-15, 06:51:54](https://news.ycombinator.com/item?id=37519418) - [Willingham sends Fables into the public domain](https://billwillingham.substack.com/p/willingham-sends-fables-into-the)
 * [2023-09-15, 06:44:15](https://news.ycombinator.com/item?id=37519368) - [VÉgA – Vocabulary of Ancient Egyptian](https://vega-vocabulaire-egyptien-ancien.fr/en/welcome-page/)
 
 ## [Archives](archives/index.md)
