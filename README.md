@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-16, 07:00:11](https://news.ycombinator.com/item?id=37532618) - [Converge (YC S23) is hiring a founding product engineer](https://www.ycombinator.com/companies/converge/jobs/vc4Nbeh-founding-product-engineer)
 * [2023-09-16, 05:51:24](https://news.ycombinator.com/item?id=37532355) - [How Instagram scaled to 14 million users with only 3 engineers](https://engineercodex.substack.com/p/how-instagram-scaled-to-14-million)
 * [2023-09-16, 05:17:34](https://news.ycombinator.com/item?id=37532245) - [Relational is more than SQL](https://fauna.com/blog/relational-is-more-than-sql)
 * [2023-09-16, 04:36:31](https://news.ycombinator.com/item?id=37532080) - [The Meaning of Liberalism (1938)](https://www.roberthjackson.org/speech-and-writing/the-meaning-of-liberalism/)
@@ -18,7 +19,6 @@
 * [2023-09-15, 20:39:11](https://news.ycombinator.com/item?id=37528816) - [“Inverse vaccine” shows potential to treat MS and other autoimmune diseases](https://pme.uchicago.edu/news/inverse-vaccine-shows-potential-treat-multiple-sclerosis-and-other-autoimmune-diseases)
 * [2023-09-15, 20:05:05](https://news.ycombinator.com/item?id=37528472) - [Everyday uses for PVC water pipe](https://tomtilley.net/projects/pvc/)
 * [2023-09-15, 20:03:41](https://news.ycombinator.com/item?id=37528453) - [The first week of US v. Google – Defaults are everything and nobody likes Bing](https://www.theverge.com/2023/9/15/23875342/justice-department-google-antitrust-search-trial-week-one-recap)
-* [2023-09-15, 19:18:38](https://news.ycombinator.com/item?id=37527928) - [Books for Game Developers](https://mrelusive.com/books/books.html)
 * [2023-09-15, 19:06:12](https://news.ycombinator.com/item?id=37527773) - [Building an economy simulator from scratch](https://thomassimon.dev/ps/4)
 * [2023-09-15, 19:01:49](https://news.ycombinator.com/item?id=37527720) - [I built Excel for Uber and they ditched it](https://basta.substack.com/p/no-sacred-masterpieces)
 * [2023-09-15, 18:53:06](https://news.ycombinator.com/item?id=37527599) - [Pixel Sea: Search 88x31 badges and 32x32 icons](https://pixelsea.neocities.org/)
