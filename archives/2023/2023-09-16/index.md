@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-16](index.md)
 
+* [2023-09-16, 12:00:30](https://news.ycombinator.com/item?id=37534050) - [Ploomber (YC W22) Is Hiring Software Engineers](https://www.ycombinator.com/companies/ploomber/jobs)
 * [2023-09-16, 11:16:14](https://news.ycombinator.com/item?id=37533795) - [7 simple habits of the top 1% of engineers](https://engineercodex.substack.com/p/7-simple-habits-of-the-top-1-of-engineers)
 * [2023-09-16, 11:08:29](https://news.ycombinator.com/item?id=37533747) - [BtrBlocks: Efficient Columnar Compression for Data Lakes [pdf]](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrblocks.pdf)
 * [2023-09-16, 10:11:34](https://news.ycombinator.com/item?id=37533493) - [Show HN: exaequOS - a new OS running in a web browser](https://www.exaequos.com)
