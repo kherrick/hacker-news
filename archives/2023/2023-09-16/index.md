@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-16](index.md)
 
 * [2023-09-16, 15:23:07](https://news.ycombinator.com/item?id=37535575) - [French supermarket using ‘shrinkflation’ stickers to pressure PepsiCo and others](https://www.cnn.com/2023/09/15/business-food/carrefour-shrinkflation-stickers/index.html)
+* [2023-09-16, 15:06:41](https://news.ycombinator.com/item?id=37535431) - [Wireless electrical–molecular quantum signalling for cancer cell apoptosis](https://www.nature.com/articles/s41565-023-01496-y)
 * [2023-09-16, 14:44:37](https://news.ycombinator.com/item?id=37535223) - [Bear rescued from theme park 'didn't understand trees,' relocated to sanctuary](https://www.cbc.ca/news/canada/hamilton/bear-rescue-marineland-1.6967959)
 * [2023-09-16, 14:44:22](https://news.ycombinator.com/item?id=37535219) - [Threat from Climate Change to Some of India’s Sacred Sites Is Reshaping Beliefs](https://worldsensorium.com/threat-from-climate-change-to-some-of-indias-sacred-pilgrimage-sites-is-reshaping-religious-beliefs/)
 * [2023-09-16, 14:40:25](https://news.ycombinator.com/item?id=37535187) - [Game developers turning off all IronSource and Unity Ads monetization](https://docs.google.com/document/d/16PzpX6qIwJu57jCB2fhxqKtmxA6A6QmZWifsWZBqI2w/view)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-16, 15:23:07](https://news.ycombinator.com/item?id=37535575) - [French supermarket using ‘shrinkflation’ stickers to pressure PepsiCo and others](https://www.cnn.com/2023/09/15/business-food/carrefour-shrinkflation-stickers/index.html)
+* [2023-09-16, 15:06:41](https://news.ycombinator.com/item?id=37535431) - [Wireless electrical–molecular quantum signalling for cancer cell apoptosis](https://www.nature.com/articles/s41565-023-01496-y)
 * [2023-09-16, 14:44:37](https://news.ycombinator.com/item?id=37535223) - [Bear rescued from theme park 'didn't understand trees,' relocated to sanctuary](https://www.cbc.ca/news/canada/hamilton/bear-rescue-marineland-1.6967959)
 * [2023-09-16, 14:44:22](https://news.ycombinator.com/item?id=37535219) - [Threat from Climate Change to Some of India’s Sacred Sites Is Reshaping Beliefs](https://worldsensorium.com/threat-from-climate-change-to-some-of-indias-sacred-pilgrimage-sites-is-reshaping-religious-beliefs/)
 * [2023-09-16, 14:40:25](https://news.ycombinator.com/item?id=37535187) - [Game developers turning off all IronSource and Unity Ads monetization](https://docs.google.com/document/d/16PzpX6qIwJu57jCB2fhxqKtmxA6A6QmZWifsWZBqI2w/view)
@@ -21,15 +22,14 @@
 * [2023-09-16, 08:47:23](https://news.ycombinator.com/item?id=37533103) - [Why Ugly Architecture Is Bad for Your Health](https://www.architecturaluprising.com/studies/why-ugly-architecture-is-bad-for-your-health/)
 * [2023-09-16, 08:16:54](https://news.ycombinator.com/item?id=37532973) - [Tracking Austrian grocery prices by scraping store sites](https://mastodon.gamedev.place/@badlogic/111071396799790275)
 * [2023-09-16, 06:49:54](https://news.ycombinator.com/item?id=37532584) - [Pongs](https://pippinbarr.com/pongs/info/)
-* [2023-09-16, 06:33:31](https://news.ycombinator.com/item?id=37532522) - [GPT-4 is not getting worse](https://coagulopath.com/gpt-4-is-not-getting-worse/)
 * [2023-09-16, 05:32:57](https://news.ycombinator.com/item?id=37532290) - [The Destroyed Libraries of Louvain (2012)](https://www.libraryhistorybuff.com/louvain.htm)
 * [2023-09-16, 05:17:34](https://news.ycombinator.com/item?id=37532245) - [Relational is more than SQL](https://fauna.com/blog/relational-is-more-than-sql)
 * [2023-09-16, 03:32:27](https://news.ycombinator.com/item?id=37531801) - [Subdomain.center – discover all subdomains for a domain](https://www.subdomain.center/)
 * [2023-09-16, 02:25:24](https://news.ycombinator.com/item?id=37531434) - [Yazi: Fast terminal file manager based on async I/O](https://github.com/sxyazi/yazi)
 * [2023-09-16, 02:09:08](https://news.ycombinator.com/item?id=37531339) - [enron :: discover the power of WHY (2001)](https://enroncorp.com/corp/index.html)
 * [2023-09-15, 20:05:05](https://news.ycombinator.com/item?id=37528472) - [Everyday uses for PVC water pipe](https://tomtilley.net/projects/pvc/)
-* [2023-09-15, 19:06:12](https://news.ycombinator.com/item?id=37527773) - [Building an economy simulator from scratch](https://thomassimon.dev/ps/4)
 * [2023-09-15, 16:59:15](https://news.ycombinator.com/item?id=37526047) - [My favourite API is a zipfile on the European Central Bank's website](https://csvbase.com/blog/5)
+* [2023-09-14, 21:31:59](https://news.ycombinator.com/item?id=37515134) - [The industrial quasi-revolution of Song dynasty China](https://etiennefd.substack.com/p/a-song-of-proto-industrialization)
 
 ## [Archives](archives/index.md)
 
