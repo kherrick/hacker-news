@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 23:28:13](https://news.ycombinator.com/item?id=37530314) - [Inflation in Austria](https://mastodon.gamedev.place/@badlogic/111071396799790275)
 * [2023-09-15, 23:21:09](https://news.ycombinator.com/item?id=37530261) - [Rule for Beneficial Ownership Reporting (2022)](https://www.fincen.gov/news/news-releases/fincen-issues-final-rule-beneficial-ownership-reporting-support-law-enforcement)
 * [2023-09-15, 23:16:00](https://news.ycombinator.com/item?id=37530218) - [Record low Antarctic sea ice coverage indicates a new sea ice state](https://www.nature.com/articles/s43247-023-00961-9)
 * [2023-09-15, 22:08:37](https://news.ycombinator.com/item?id=37529694) - [Scientists Uncover COVID’s Weakness](https://news.ucr.edu/articles/2023/09/13/scientists-uncover-covids-weakness)
