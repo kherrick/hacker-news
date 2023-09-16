@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-16, 21:32:40](https://news.ycombinator.com/item?id=37538914) - [America's advanced manufacturing problem and how to fix it](https://americanaffairsjournal.org/2023/08/americas-advanced-manufacturing-problem-and-how-to-fix-it/)
 * [2023-09-16, 21:28:33](https://news.ycombinator.com/item?id=37538878) - [Adobe will charge “credits” for generative AI](https://helpx.adobe.com/firefly/using/generative-credits-faq.html)
 * [2023-09-16, 21:00:56](https://news.ycombinator.com/item?id=37538654) - [Lantern (YC W24) – Hiring Engineers to Build PostgreSQL Vector Database for AI](https://lantern-db.notion.site/lantern-db/Lantern-is-hiring-Core-Database-Engineers-396a612dcfdb4c9eb274670680c8d8b5)
 * [2023-09-16, 20:40:28](https://news.ycombinator.com/item?id=37538482) - [Linux on a MacBook Pro (M1 Pro): How Good Is Asahi Now?](https://www.youtube.com/watch?v=ZFx6R26aRHw)
@@ -14,7 +15,6 @@
 * [2023-09-16, 16:59:30](https://news.ycombinator.com/item?id=37536503) - [Epistemological problem of emergence in complex systems (2018) [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6207336/pdf/pone.0206489.pdf)
 * [2023-09-16, 16:16:23](https://news.ycombinator.com/item?id=37536103) - [The database servers powering Let's Encrypt (2021)](https://letsencrypt.org/2021/01/21/next-gen-database-servers.html)
 * [2023-09-16, 16:08:05](https://news.ycombinator.com/item?id=37536016) - [Generative Image Dynamics](https://generative-dynamics.github.io/)
-* [2023-09-16, 15:46:39](https://news.ycombinator.com/item?id=37535814) - [I wouldn't be productive enough for today's academic system (2013)](https://www.theguardian.com/science/2013/dec/06/peter-higgs-boson-academic-system)
 * [2023-09-16, 15:35:38](https://news.ycombinator.com/item?id=37535702) - [How to Escape the Startup Trough of Sorrow](https://www.briefmix.com/startup/positioning)
 * [2023-09-16, 15:06:41](https://news.ycombinator.com/item?id=37535431) - [Wireless electrical–molecular quantum signalling for cancer cell apoptosis](https://www.nature.com/articles/s41565-023-01496-y)
 * [2023-09-16, 14:59:10](https://news.ycombinator.com/item?id=37535350) - [A Different Type of SQL Recursion with PostgreSQL](https://github.com/vb-consulting/blog/discussions/1)
