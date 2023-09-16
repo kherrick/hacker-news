@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-16, 13:56:45](https://news.ycombinator.com/item?id=37534800) - [Dire Warnings About Libya Dams Went Unheeded](https://www.nytimes.com/2023/09/16/world/middleeast/libya-dams-warnings.html)
-* [2023-09-16, 13:54:08](https://news.ycombinator.com/item?id=37534779) - [Homemade RC excavator from PVC [video]](https://www.youtube.com/watch?v=qam0DmWq_No)
 * [2023-09-16, 13:32:04](https://news.ycombinator.com/item?id=37534618) - [Activists Have One Simple Goal: Abolish the Cruise Industry](https://www.thenation.com/article/world/cruise-ships-marseille-stop-croisieres/)
 * [2023-09-16, 13:27:36](https://news.ycombinator.com/item?id=37534595) - [The Triassic-Jurassic Extinction](https://johncarlosbaez.wordpress.com/2023/09/16/the-triassic-jurassic-extinction-event/)
 * [2023-09-16, 13:17:47](https://news.ycombinator.com/item?id=37534517) - [NASA clears the air: No evidence that UFOs are aliens](https://theconversation.com/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial-213528)
@@ -27,6 +26,7 @@
 * [2023-09-16, 02:09:08](https://news.ycombinator.com/item?id=37531339) - [enron :: discover the power of WHY (2001)](https://enroncorp.com/corp/index.html)
 * [2023-09-16, 00:05:29](https://news.ycombinator.com/item?id=37530567) - [Deno by Example](https://examples.deno.land/)
 * [2023-09-15, 23:28:13](https://news.ycombinator.com/item?id=37530314) - [Inflation in Austria](https://mastodon.gamedev.place/@badlogic/111071396799790275)
+* [2023-09-15, 21:30:09](https://news.ycombinator.com/item?id=37529359) - [Johnny Cash Has Been Everywhere (Man)](http://www.johnnycashhasbeeneverywhere.com/)
 * [2023-09-15, 20:05:05](https://news.ycombinator.com/item?id=37528472) - [Everyday uses for PVC water pipe](https://tomtilley.net/projects/pvc/)
 * [2023-09-15, 19:06:12](https://news.ycombinator.com/item?id=37527773) - [Building an economy simulator from scratch](https://thomassimon.dev/ps/4)
 * [2023-09-15, 16:59:15](https://news.ycombinator.com/item?id=37526047) - [My favourite API is a zipfile on the European Central Bank's website](https://csvbase.com/blog/5)
