@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-09-16](index.md)
 
+* [2023-09-16, 10:10:37](https://news.ycombinator.com/item?id=37533487) - [Percy Ludgate](https://en.wikipedia.org/wiki/Percy_Ludgate)
 * [2023-09-16, 09:56:49](https://news.ycombinator.com/item?id=37533438) - [People Are Streaming Pirated Movies on TikTok, One Short Clip at a Time](https://www.wsj.com/tech/tiktok-pirated-movies-free-2cd9389a)
+* [2023-09-16, 09:10:05](https://news.ycombinator.com/item?id=37533225) - [Show HN: Android Hacker News Widget and App](https://play.google.com/store/apps/details?id=com.thirdgate.hackernews&hl=en_US)
 * [2023-09-16, 08:56:47](https://news.ycombinator.com/item?id=37533146) - [The Economic Cost of Populism](https://www.aeaweb.org/articles?id=10.1257/aer.20202045&from=f)
 * [2023-09-16, 07:00:11](https://news.ycombinator.com/item?id=37532618) - [Converge (YC S23) is hiring a founding product engineer](https://www.ycombinator.com/companies/converge/jobs/vc4Nbeh-founding-product-engineer)
 * [2023-09-16, 06:49:54](https://news.ycombinator.com/item?id=37532584) - [Pongs](https://pippinbarr.com/pongs/info/)
 * [2023-09-16, 06:33:31](https://news.ycombinator.com/item?id=37532522) - [GPT-4 is not getting worse (tests and a long rant)](https://coagulopath.com/gpt-4-is-not-getting-worse/)
 * [2023-09-16, 05:51:24](https://news.ycombinator.com/item?id=37532355) - [How Instagram scaled to 14 million users with only 3 engineers](https://engineercodex.substack.com/p/how-instagram-scaled-to-14-million)
 * [2023-09-16, 05:17:34](https://news.ycombinator.com/item?id=37532245) - [Relational is more than SQL](https://fauna.com/blog/relational-is-more-than-sql)
+* [2023-09-16, 05:15:53](https://news.ycombinator.com/item?id=37532234) - [Jefferson and America's Lost Idea: Natural Aristocracy](https://blog.joelonsdale.com/p/jefferson-and-americas-lost-idea)
 * [2023-09-16, 04:36:31](https://news.ycombinator.com/item?id=37532080) - [The Meaning of Liberalism (1938)](https://www.roberthjackson.org/speech-and-writing/the-meaning-of-liberalism/)
 * [2023-09-16, 04:18:21](https://news.ycombinator.com/item?id=37532015) - [Radiohead Public Library](https://radiohead.com/)
 * [2023-09-16, 04:06:54](https://news.ycombinator.com/item?id=37531965) - [Salesforce CEO goes back to being remote](https://fortune.com/2023/09/15/marc-benioff-salesforce-says-hes-remote-worker-office-return/)
