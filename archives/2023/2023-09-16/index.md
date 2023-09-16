@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-16](index.md)
 
+* [2023-09-16, 13:56:45](https://news.ycombinator.com/item?id=37534800) - [Dire Warnings About Libya Dams Went Unheeded](https://www.nytimes.com/2023/09/16/world/middleeast/libya-dams-warnings.html)
 * [2023-09-16, 13:32:04](https://news.ycombinator.com/item?id=37534618) - [Activists Have One Simple Goal: Abolish the Cruise Industry](https://www.thenation.com/article/world/cruise-ships-marseille-stop-croisieres/)
 * [2023-09-16, 13:27:36](https://news.ycombinator.com/item?id=37534595) - [The Triassic-Jurassic Extinction](https://johncarlosbaez.wordpress.com/2023/09/16/the-triassic-jurassic-extinction-event/)
 * [2023-09-16, 13:17:47](https://news.ycombinator.com/item?id=37534517) - [NASA clears the air: No evidence that UFOs are aliens](https://theconversation.com/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial-213528)
@@ -22,6 +23,7 @@
 * [2023-09-16, 09:10:05](https://news.ycombinator.com/item?id=37533225) - [Show HN: Android Hacker News Widget and App](https://play.google.com/store/apps/details?id=com.thirdgate.hackernews&hl=en_US)
 * [2023-09-16, 08:56:47](https://news.ycombinator.com/item?id=37533146) - [The Economic Cost of Populism](https://www.aeaweb.org/articles?id=10.1257/aer.20202045&from=f)
 * [2023-09-16, 08:52:37](https://news.ycombinator.com/item?id=37533130) - [A Pre-Release Version of IBM PC-DOS from June 1981, Also Called DOS 0.90 (2021)](https://thestarman.pcministry.com/DOS/ibm090/)
+* [2023-09-16, 08:47:23](https://news.ycombinator.com/item?id=37533103) - [Why Ugly Architecture Is Bad for Your Health](https://www.architecturaluprising.com/studies/why-ugly-architecture-is-bad-for-your-health/)
 * [2023-09-16, 08:16:54](https://news.ycombinator.com/item?id=37532973) - [Tracking Austrian grocery prices by scraping store sites](https://mastodon.gamedev.place/@badlogic/111071396799790275)
 * [2023-09-16, 07:00:11](https://news.ycombinator.com/item?id=37532618) - [Converge (YC S23) is hiring a founding product engineer](https://www.ycombinator.com/companies/converge/jobs/vc4Nbeh-founding-product-engineer)
 * [2023-09-16, 06:49:54](https://news.ycombinator.com/item?id=37532584) - [Pongs](https://pippinbarr.com/pongs/info/)

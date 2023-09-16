@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-16, 13:56:45](https://news.ycombinator.com/item?id=37534800) - [Dire Warnings About Libya Dams Went Unheeded](https://www.nytimes.com/2023/09/16/world/middleeast/libya-dams-warnings.html)
 * [2023-09-16, 13:32:04](https://news.ycombinator.com/item?id=37534618) - [Activists Have One Simple Goal: Abolish the Cruise Industry](https://www.thenation.com/article/world/cruise-ships-marseille-stop-croisieres/)
 * [2023-09-16, 13:27:36](https://news.ycombinator.com/item?id=37534595) - [The Triassic-Jurassic Extinction](https://johncarlosbaez.wordpress.com/2023/09/16/the-triassic-jurassic-extinction-event/)
 * [2023-09-16, 13:17:47](https://news.ycombinator.com/item?id=37534517) - [NASA clears the air: No evidence that UFOs are aliens](https://theconversation.com/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial-213528)
@@ -14,6 +15,7 @@
 * [2023-09-16, 10:08:56](https://news.ycombinator.com/item?id=37533479) - [The “Do Something About It” Club](https://chavanniclass.com/2023/09/16/48-the-do-something-about-it-club/)
 * [2023-09-16, 09:10:05](https://news.ycombinator.com/item?id=37533225) - [Show HN: Android Hacker News Widget and App](https://play.google.com/store/apps/details?id=com.thirdgate.hackernews&hl=en_US)
 * [2023-09-16, 08:52:37](https://news.ycombinator.com/item?id=37533130) - [A Pre-Release Version of IBM PC-DOS from June 1981, Also Called DOS 0.90 (2021)](https://thestarman.pcministry.com/DOS/ibm090/)
+* [2023-09-16, 08:47:23](https://news.ycombinator.com/item?id=37533103) - [Why Ugly Architecture Is Bad for Your Health](https://www.architecturaluprising.com/studies/why-ugly-architecture-is-bad-for-your-health/)
 * [2023-09-16, 08:16:54](https://news.ycombinator.com/item?id=37532973) - [Tracking Austrian grocery prices by scraping store sites](https://mastodon.gamedev.place/@badlogic/111071396799790275)
 * [2023-09-16, 06:49:54](https://news.ycombinator.com/item?id=37532584) - [Pongs](https://pippinbarr.com/pongs/info/)
 * [2023-09-16, 06:33:31](https://news.ycombinator.com/item?id=37532522) - [GPT-4 is not getting worse](https://coagulopath.com/gpt-4-is-not-getting-worse/)
@@ -24,11 +26,9 @@
 * [2023-09-16, 02:09:08](https://news.ycombinator.com/item?id=37531339) - [enron :: discover the power of WHY (2001)](https://enroncorp.com/corp/index.html)
 * [2023-09-16, 00:05:29](https://news.ycombinator.com/item?id=37530567) - [Deno by Example](https://examples.deno.land/)
 * [2023-09-15, 23:28:13](https://news.ycombinator.com/item?id=37530314) - [Inflation in Austria](https://mastodon.gamedev.place/@badlogic/111071396799790275)
-* [2023-09-15, 23:21:09](https://news.ycombinator.com/item?id=37530261) - [Rule for Beneficial Ownership Reporting (2022)](https://www.fincen.gov/news/news-releases/fincen-issues-final-rule-beneficial-ownership-reporting-support-law-enforcement)
 * [2023-09-15, 21:30:09](https://news.ycombinator.com/item?id=37529359) - [Johnny Cash Has Been Everywhere (Man)](http://www.johnnycashhasbeeneverywhere.com/)
 * [2023-09-15, 20:05:05](https://news.ycombinator.com/item?id=37528472) - [Everyday uses for PVC water pipe](https://tomtilley.net/projects/pvc/)
 * [2023-09-15, 19:06:12](https://news.ycombinator.com/item?id=37527773) - [Building an economy simulator from scratch](https://thomassimon.dev/ps/4)
-* [2023-09-15, 19:01:49](https://news.ycombinator.com/item?id=37527720) - [I built Excel for Uber and they ditched it](https://basta.substack.com/p/no-sacred-masterpieces)
 * [2023-09-15, 16:59:15](https://news.ycombinator.com/item?id=37526047) - [My favourite API is a zipfile on the European Central Bank's website](https://csvbase.com/blog/5)
 
 ## [Archives](archives/index.md)
