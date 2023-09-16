@@ -6,6 +6,8 @@
 
 * [2023-09-16, 16:42:49](https://news.ycombinator.com/item?id=37536361) - [Is this fraud? And if so, to what extent am I responsible?](https://workplace.stackexchange.com/questions/193234/is-this-fraud-and-if-so-to-what-extent-am-i-responsible)
 * [2023-09-16, 16:31:09](https://news.ycombinator.com/item?id=37536263) - [Vegas casinos are still reeling from a massive cyberattack](https://www.fastcompany.com/90954120/vegas-casinos-are-still-reeling-from-a-massive-cyberattack)
+* [2023-09-16, 16:16:23](https://news.ycombinator.com/item?id=37536103) - [The Next Gen Database Servers Powering Let's Encrypt(2021)](https://letsencrypt.org/2021/01/21/next-gen-database-servers.html)
+* [2023-09-16, 15:57:12](https://news.ycombinator.com/item?id=37535910) - [Unity's Self-Combustion Engine](https://www.gamesindustry.biz/unitys-self-combustion-engine-this-week-in-business)
 * [2023-09-16, 15:46:39](https://news.ycombinator.com/item?id=37535814) - [Peter Higgs: I wouldn't be productive enough for today's academic system](https://www.theguardian.com/science/2013/dec/06/peter-higgs-boson-academic-system)
 * [2023-09-16, 15:35:38](https://news.ycombinator.com/item?id=37535702) - [How to Escape the Startup Trough of Sorrow](https://www.briefmix.com/startup/positioning)
 * [2023-09-16, 15:23:07](https://news.ycombinator.com/item?id=37535575) - [French supermarket using ‘shrinkflation’ stickers to pressure PepsiCo and others](https://www.cnn.com/2023/09/15/business-food/carrefour-shrinkflation-stickers/index.html)
