@@ -23,12 +23,12 @@
 * [2023-09-15, 18:53:06](https://news.ycombinator.com/item?id=37527599) - [Pixel Sea: Search 88x31 badges and 32x32 icons](https://pixelsea.neocities.org/)
 * [2023-09-15, 18:09:26](https://news.ycombinator.com/item?id=37526994) - [ChessMonitor – Analytics for Lichess and Chess.com](https://www.chessmonitor.com/)
 * [2023-09-15, 17:32:25](https://news.ycombinator.com/item?id=37526477) - [Kopia: Fast and secure open-source backup software](https://kopia.io/)
-* [2023-09-15, 17:01:09](https://news.ycombinator.com/item?id=37526070) - [Loops (YC W22) is hiring a remote front-end engineer](https://www.ycombinator.com/companies/loops/jobs/R5lUQcn-front-end-engineer)
 * [2023-09-15, 16:59:15](https://news.ycombinator.com/item?id=37526047) - [My favourite API is a zipfile on the European Central Bank's website](https://csvbase.com/blog/5)
 * [2023-09-15, 16:15:54](https://news.ycombinator.com/item?id=37525348) - [How to store a chess position in 26 bytes using bit-level magic (2022)](https://www.ezzeriesa.com/index/Writing%20efa7772a3ae64a8193c7ef981ac619fc/Compressing%20chess%20positions%20for%20fun%20and%20profit%20df1fdb5364eb42fdac11eb23b25e9605.html)
 * [2023-09-15, 15:49:09](https://news.ycombinator.com/item?id=37524890) - [Optimizing LLMs from a Dataset Perspective](https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html)
 * [2023-09-15, 12:45:15](https://news.ycombinator.com/item?id=37522121) - [Show HN: Oyie – A micro social app to stay in sync with your friends](https://oyie.io)
 * [2023-09-15, 10:21:57](https://news.ycombinator.com/item?id=37520890) - [A Primer on Logic Programming](https://www.juxt.pro/blog/logic-primer/)
+* [2023-09-15, 06:44:15](https://news.ycombinator.com/item?id=37519368) - [VÉgA – Vocabulary of Ancient Egyptian](https://vega-vocabulaire-egyptien-ancien.fr/en/welcome-page/)
 * [2023-09-15, 02:08:05](https://news.ycombinator.com/item?id=37517368) - [95 bits per second](https://popey.com/blog/2023/09/95-bits-per-second/)
 
 ## [Archives](archives/index.md)
