@@ -3,9 +3,11 @@
 * [2023-09-16, 16:42:49](https://news.ycombinator.com/item?id=37536361) - [Is this fraud? And if so, to what extent am I responsible?](https://workplace.stackexchange.com/questions/193234/is-this-fraud-and-if-so-to-what-extent-am-i-responsible)
 * [2023-09-16, 16:31:09](https://news.ycombinator.com/item?id=37536263) - [Vegas casinos are still reeling from a massive cyberattack](https://www.fastcompany.com/90954120/vegas-casinos-are-still-reeling-from-a-massive-cyberattack)
 * [2023-09-16, 16:16:23](https://news.ycombinator.com/item?id=37536103) - [The Next Gen Database Servers Powering Let's Encrypt(2021)](https://letsencrypt.org/2021/01/21/next-gen-database-servers.html)
+* [2023-09-16, 16:08:05](https://news.ycombinator.com/item?id=37536016) - [Generative Image Dynamics](https://generative-dynamics.github.io/)
 * [2023-09-16, 15:57:12](https://news.ycombinator.com/item?id=37535910) - [Unity's Self-Combustion Engine](https://www.gamesindustry.biz/unitys-self-combustion-engine-this-week-in-business)
 * [2023-09-16, 15:46:39](https://news.ycombinator.com/item?id=37535814) - [Peter Higgs: I wouldn't be productive enough for today's academic system (2013)](https://www.theguardian.com/science/2013/dec/06/peter-higgs-boson-academic-system)
 * [2023-09-16, 15:35:38](https://news.ycombinator.com/item?id=37535702) - [How to Escape the Startup Trough of Sorrow](https://www.briefmix.com/startup/positioning)
+* [2023-09-16, 15:26:55](https://news.ycombinator.com/item?id=37535620) - [Mark Cuban loses $870K in hot wallet hack](https://cointelegraph.com/news/mark-cuban-hot-wallet-hacked)
 * [2023-09-16, 15:06:41](https://news.ycombinator.com/item?id=37535431) - [Wireless electrical–molecular quantum signalling for cancer cell apoptosis](https://www.nature.com/articles/s41565-023-01496-y)
 * [2023-09-16, 14:59:10](https://news.ycombinator.com/item?id=37535350) - [A Different Type of SQL Recursion with PostgreSQL](https://github.com/vb-consulting/blog/discussions/1)
 * [2023-09-16, 14:44:22](https://news.ycombinator.com/item?id=37535219) - [Threat from Climate Change to Some of India’s Sacred Sites Is Reshaping Beliefs](https://worldsensorium.com/threat-from-climate-change-to-some-of-indias-sacred-pilgrimage-sites-is-reshaping-religious-beliefs/)
@@ -26,10 +28,8 @@
 * [2023-09-16, 05:17:34](https://news.ycombinator.com/item?id=37532245) - [Relational is more than SQL](https://fauna.com/blog/relational-is-more-than-sql)
 * [2023-09-16, 03:32:27](https://news.ycombinator.com/item?id=37531801) - [Subdomain.center – discover all subdomains for a domain](https://www.subdomain.center/)
 * [2023-09-16, 02:25:24](https://news.ycombinator.com/item?id=37531434) - [Yazi: Fast terminal file manager based on async I/O](https://github.com/sxyazi/yazi)
-* [2023-09-16, 02:09:08](https://news.ycombinator.com/item?id=37531339) - [enron :: discover the power of WHY (2001)](https://enroncorp.com/corp/index.html)
 * [2023-09-15, 21:21:44](https://news.ycombinator.com/item?id=37529284) - [The Early Days of American English](https://www.laphamsquarterly.org/roundtable/early-days-american-english)
-* [2023-09-15, 20:05:05](https://news.ycombinator.com/item?id=37528472) - [Everyday uses for PVC water pipe](https://tomtilley.net/projects/pvc/)
-* [2023-09-15, 16:59:15](https://news.ycombinator.com/item?id=37526047) - [My favourite API is a zipfile on the European Central Bank's website](https://csvbase.com/blog/5)
+* [2023-09-14, 21:31:59](https://news.ycombinator.com/item?id=37515134) - [The industrial quasi-revolution of Song dynasty China](https://etiennefd.substack.com/p/a-song-of-proto-industrialization)
 
 ## [Archives](archives/index.md)
 
