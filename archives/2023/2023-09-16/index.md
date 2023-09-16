@@ -17,6 +17,7 @@
 * [2023-09-16, 19:48:15](https://news.ycombinator.com/item?id=37538028) - [Show HN: Every Breath You Take – Heart Rate Variability Training](https://github.com/kbre93/every-breath-you-take)
 * [2023-09-16, 19:42:31](https://news.ycombinator.com/item?id=37537986) - [Apple patches “clickless” 0-day image processing vulnerability in iOS, macOS](https://arstechnica.com/gadgets/2023/09/apple-patches-clickless-0-day-image-processing-vulnerability-in-ios-macos/)
 * [2023-09-16, 19:40:07](https://news.ycombinator.com/item?id=37537969) - [Why can't America teach writing?](https://www.simonberens.com/p/why-cant-america-teach-writing)
+* [2023-09-16, 19:26:02](https://news.ycombinator.com/item?id=37537870) - [Dlarc Amateur Radio Library Tops 90k Items](https://blog.archive.org/2023/09/12/dlarc-90000/)
 * [2023-09-16, 19:10:26](https://news.ycombinator.com/item?id=37537716) - [Jason Cohen: Stop saying “fail”](https://longform.asmartbear.com/fail/)
 * [2023-09-16, 19:07:55](https://news.ycombinator.com/item?id=37537689) - [Running one’s own root Certificate Authority in 2023](https://wejn.org/2023/09/running-ones-own-root-certificate-authority-in-2023/)
 * [2023-09-16, 18:59:57](https://news.ycombinator.com/item?id=37537584) - [Cache Line Alignment in C++ – How It Makes Your Program Faster](https://ryonaldteofilo.medium.com/cache-line-alignment-in-c-1aac85e4482f)
