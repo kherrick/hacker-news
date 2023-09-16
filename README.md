@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-16, 21:28:33](https://news.ycombinator.com/item?id=37538878) - [Adobe will charge “credits” for generative AI](https://helpx.adobe.com/firefly/using/generative-credits-faq.html)
 * [2023-09-16, 21:00:56](https://news.ycombinator.com/item?id=37538654) - [Lantern (YC W24) – Hiring Engineers to Build PostgreSQL Vector Database for AI](https://lantern-db.notion.site/lantern-db/Lantern-is-hiring-Core-Database-Engineers-396a612dcfdb4c9eb274670680c8d8b5)
 * [2023-09-16, 20:40:28](https://news.ycombinator.com/item?id=37538482) - [Linux on a MacBook Pro (M1 Pro): How Good Is Asahi Now?](https://www.youtube.com/watch?v=ZFx6R26aRHw)
 * [2023-09-16, 20:32:09](https://news.ycombinator.com/item?id=37538426) - [Lodash just declared issue bankruptcy and closed every issue and open PR](https://twitter.com/danielcroe/status/1703127430523703432)
@@ -9,7 +10,6 @@
 * [2023-09-16, 19:48:15](https://news.ycombinator.com/item?id=37538028) - [Show HN: Every Breath You Take – Heart Rate Variability Training](https://github.com/kbre93/every-breath-you-take)
 * [2023-09-16, 19:40:07](https://news.ycombinator.com/item?id=37537969) - [Why can't America teach writing?](https://www.simonberens.com/p/why-cant-america-teach-writing)
 * [2023-09-16, 19:07:55](https://news.ycombinator.com/item?id=37537689) - [Running one’s own root Certificate Authority in 2023](https://wejn.org/2023/09/running-ones-own-root-certificate-authority-in-2023/)
-* [2023-09-16, 18:59:57](https://news.ycombinator.com/item?id=37537584) - [Cache line alignment in C++ – How it makes your program faster](https://ryonaldteofilo.medium.com/cache-line-alignment-in-c-1aac85e4482f)
 * [2023-09-16, 16:59:30](https://news.ycombinator.com/item?id=37536503) - [Epistemological problem of emergence in complex systems (2018) [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6207336/pdf/pone.0206489.pdf)
 * [2023-09-16, 16:16:23](https://news.ycombinator.com/item?id=37536103) - [The database servers powering Let's Encrypt (2021)](https://letsencrypt.org/2021/01/21/next-gen-database-servers.html)
 * [2023-09-16, 16:08:05](https://news.ycombinator.com/item?id=37536016) - [Generative Image Dynamics](https://generative-dynamics.github.io/)
