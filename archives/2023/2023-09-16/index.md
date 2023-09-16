@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-16](index.md)
 
+* [2023-09-16, 23:03:09](https://news.ycombinator.com/item?id=37539686) - [Hot Chips 2023: AMD’s Phoenix SoC](https://chipsandcheese.com/2023/09/16/hot-chips-2023-amds-phoenix-soc/)
 * [2023-09-16, 22:27:08](https://news.ycombinator.com/item?id=37539410) - [Satya Nadella: “I want to use this tactically vs. GOOG/AAPL” (2022)](https://twitter.com/TechEmails/status/1703172745893404913)
 * [2023-09-16, 21:32:40](https://news.ycombinator.com/item?id=37538914) - [America's advanced manufacturing problem and how to fix it](https://americanaffairsjournal.org/2023/08/americas-advanced-manufacturing-problem-and-how-to-fix-it/)
 * [2023-09-16, 21:28:33](https://news.ycombinator.com/item?id=37538878) - [Adobe will charge “credits” for generative AI](https://helpx.adobe.com/firefly/using/generative-credits-faq.html)

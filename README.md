@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-16, 23:03:09](https://news.ycombinator.com/item?id=37539686) - [Hot Chips 2023: AMD’s Phoenix SoC](https://chipsandcheese.com/2023/09/16/hot-chips-2023-amds-phoenix-soc/)
 * [2023-09-16, 22:27:08](https://news.ycombinator.com/item?id=37539410) - [Satya Nadella: “I want to use this tactically vs. GOOG/AAPL” (2022)](https://twitter.com/TechEmails/status/1703172745893404913)
 * [2023-09-16, 21:32:40](https://news.ycombinator.com/item?id=37538914) - [America's advanced manufacturing problem and how to fix it](https://americanaffairsjournal.org/2023/08/americas-advanced-manufacturing-problem-and-how-to-fix-it/)
 * [2023-09-16, 21:28:33](https://news.ycombinator.com/item?id=37538878) - [Adobe will charge “credits” for generative AI](https://helpx.adobe.com/firefly/using/generative-credits-faq.html)
@@ -8,7 +9,6 @@
 * [2023-09-16, 20:32:09](https://news.ycombinator.com/item?id=37538426) - [Lodash just declared issue bankruptcy and closed every issue and open PR](https://twitter.com/danielcroe/status/1703127430523703432)
 * [2023-09-16, 20:28:23](https://news.ycombinator.com/item?id=37538400) - [Layoffs.fyi](https://layoffs.fyi/)
 * [2023-09-16, 20:21:56](https://news.ycombinator.com/item?id=37538350) - [Guidance: A guidance language for controlling large language models](https://github.com/guidance-ai/guidance)
-* [2023-09-16, 20:20:15](https://news.ycombinator.com/item?id=37538333) - [Java 21 makes me like Java again](https://wscp.dev/posts/tech/java-pattern-matching/)
 * [2023-09-16, 19:48:15](https://news.ycombinator.com/item?id=37538028) - [Show HN: Every Breath You Take – Heart Rate Variability Training](https://github.com/kbre93/every-breath-you-take)
 * [2023-09-16, 19:26:02](https://news.ycombinator.com/item?id=37537870) - [Dlarc Amateur Radio Library Tops 90k Items](https://blog.archive.org/2023/09/12/dlarc-90000/)
 * [2023-09-16, 19:07:55](https://news.ycombinator.com/item?id=37537689) - [Running one’s own root Certificate Authority in 2023](https://wejn.org/2023/09/running-ones-own-root-certificate-authority-in-2023/)
