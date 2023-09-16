@@ -9,6 +9,7 @@
 * [2023-09-16, 20:32:09](https://news.ycombinator.com/item?id=37538426) - [Lodash just declared issue bankruptcy and closed every issue and open PR](https://twitter.com/danielcroe/status/1703127430523703432)
 * [2023-09-16, 20:28:23](https://news.ycombinator.com/item?id=37538400) - [Layoffs.fyi](https://layoffs.fyi/)
 * [2023-09-16, 20:21:56](https://news.ycombinator.com/item?id=37538350) - [Guidance: A guidance language for controlling large language models](https://github.com/guidance-ai/guidance)
+* [2023-09-16, 20:20:15](https://news.ycombinator.com/item?id=37538333) - [Java 21 makes me like Java again](https://wscp.dev/posts/tech/java-pattern-matching/)
 * [2023-09-16, 20:17:19](https://news.ycombinator.com/item?id=37538305) - [Why do software nowadays take so much more memory and processing power](https://dietpi.com/forum/t/why-do-software-nowadays-take-so-much-more-memory-and-processing-power/4514)
 * [2023-09-16, 20:04:31](https://news.ycombinator.com/item?id=37538170) - [Russell Brand accused of rape, sexual assaults and abuse](https://www.thetimes.co.uk/article/russell-brand-rape-sexual-assault-abuse-allegations-investigation-v5hxdlmb6)
 * [2023-09-16, 19:56:05](https://news.ycombinator.com/item?id=37538106) - [Why everything you buy is worse now [video]](https://www.youtube.com/watch?v=DHXBacEH0qo)
