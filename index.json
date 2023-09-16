@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2023-09-16, 03:35:25",
-      "https://news.ycombinator.com/item?id=37531815"
-    ],
-    [
-      "Mesa-optimization algorithms in Transformers[pdf]",
-      "https://arxiv.org/abs/2309.05858"
-    ]
-  ],
-  [
-    [
       "2023-09-16, 03:32:27",
       "https://news.ycombinator.com/item?id=37531801"
     ],
@@ -107,6 +97,16 @@
     [
       "The Suspicion Machine",
       "https://www.wired.com/story/welfare-state-algorithms/"
+    ]
+  ],
+  [
+    [
+      "2023-09-16, 02:25:24",
+      "https://news.ycombinator.com/item?id=37531434"
+    ],
+    [
+      "Yazi: Fast terminal file manager based on async I/O",
+      "https://github.com/sxyazi/yazi"
     ]
   ],
   [
