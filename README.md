@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-16, 12:46:32](https://news.ycombinator.com/item?id=37534330) - [Fixing the housing crisis is not rocket science. “Minneapolis has been build](https://twitter.com/scienceisstrat1/status/1702663125613301785)
 * [2023-09-16, 12:17:29](https://news.ycombinator.com/item?id=37534166) - [Boring Crypto, from Daniel J. Bernstein (2012) [pdf]](https://cr.yp.to/talks/2015.10.05/slides-djb-20151005-a4.pdf)
 * [2023-09-16, 12:00:30](https://news.ycombinator.com/item?id=37534050) - [Ploomber (YC W22) Is Hiring Software Engineers](https://www.ycombinator.com/companies/ploomber/jobs)
 * [2023-09-16, 11:08:29](https://news.ycombinator.com/item?id=37533747) - [BtrBlocks: Efficient Columnar Compression for Data Lakes [pdf]](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrblocks.pdf)
@@ -20,7 +21,6 @@
 * [2023-09-16, 02:25:24](https://news.ycombinator.com/item?id=37531434) - [Yazi: Fast terminal file manager based on async I/O](https://github.com/sxyazi/yazi)
 * [2023-09-16, 02:09:08](https://news.ycombinator.com/item?id=37531339) - [enron :: discover the power of WHY (2001)](https://enroncorp.com/corp/index.html)
 * [2023-09-16, 00:05:29](https://news.ycombinator.com/item?id=37530567) - [Deno by Example](https://examples.deno.land/)
-* [2023-09-15, 23:28:13](https://news.ycombinator.com/item?id=37530314) - [Inflation in Austria](https://mastodon.gamedev.place/@badlogic/111071396799790275)
 * [2023-09-15, 21:30:09](https://news.ycombinator.com/item?id=37529359) - [Johnny Cash Has Been Everywhere (Man)](http://www.johnnycashhasbeeneverywhere.com/)
 * [2023-09-15, 20:05:05](https://news.ycombinator.com/item?id=37528472) - [Everyday uses for PVC water pipe](https://tomtilley.net/projects/pvc/)
 * [2023-09-15, 20:03:41](https://news.ycombinator.com/item?id=37528453) - [The first week of US v. Google – Defaults are everything and nobody likes Bing](https://www.theverge.com/2023/9/15/23875342/justice-department-google-antitrust-search-trial-week-one-recap)
