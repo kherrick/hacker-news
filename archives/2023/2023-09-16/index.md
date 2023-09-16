@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-09-16](index.md)
 
 * [2023-09-16, 05:17:34](https://news.ycombinator.com/item?id=37532245) - [Relational is more than SQL](https://fauna.com/blog/relational-is-more-than-sql)
+* [2023-09-16, 04:36:31](https://news.ycombinator.com/item?id=37532080) - [The Meaning of Liberalism (1938)](https://www.roberthjackson.org/speech-and-writing/the-meaning-of-liberalism/)
+* [2023-09-16, 04:18:21](https://news.ycombinator.com/item?id=37532015) - [Radiohead Public Library](https://radiohead.com/)
 * [2023-09-16, 04:06:54](https://news.ycombinator.com/item?id=37531965) - [Salesforce CEO goes back to being remote](https://fortune.com/2023/09/15/marc-benioff-salesforce-says-hes-remote-worker-office-return/)
 * [2023-09-16, 03:37:55](https://news.ycombinator.com/item?id=37531828) - [A Virus for the BBC Micro](https://popey.com/blog/2023/09/a-virus-for-the-bbc-micro/)
 * [2023-09-16, 03:37:11](https://news.ycombinator.com/item?id=37531824) - [Solving the Expression Problem in Go](https://www.tzcl.me/posts/expression-problem/)
@@ -14,6 +16,7 @@
 * [2023-09-16, 02:23:47](https://news.ycombinator.com/item?id=37531423) - [Ask HN: What Happened to TJ Holowaychuk?](https://news.ycombinator.com/item?id=37531423)
 * [2023-09-16, 02:20:53](https://news.ycombinator.com/item?id=37531404) - [Could Dementia in the National Security Workforce Create a Security Threat?](https://www.rand.org/pubs/perspectives/PEA1779-1.html)
 * [2023-09-16, 02:09:08](https://news.ycombinator.com/item?id=37531339) - [enron :: discover the power of WHY](https://enroncorp.com/corp/index.html)
+* [2023-09-16, 02:07:38](https://news.ycombinator.com/item?id=37531328) - [You're online all day. Why not use the browser to remind you of things?](https://www.bestreminderapp.com)
 * [2023-09-16, 01:18:52](https://news.ycombinator.com/item?id=37531048) - [Show HN: Hello Inbox – Free email deliverability checklist for marketers](https://www.helloinbox.net)
 * [2023-09-16, 00:54:21](https://news.ycombinator.com/item?id=37530915) - [Fifteen Times Faster Than Llama 2: Introducing DeciLM LLM with Variable GQA](https://deci.ai/blog/decilm-15-times-faster-than-llama2-nas-generated-llm-with-variable-gqa/)
 * [2023-09-16, 00:54:00](https://news.ycombinator.com/item?id=37530913) - [Texas pays Bitcoin miner to not mine](https://www.texasmonthly.com/news-politics/texas-bitcoin-miner-riot-31-million-energy-credits/)
