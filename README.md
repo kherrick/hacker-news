@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-16, 20:04:31](https://news.ycombinator.com/item?id=37538170) - [Russell Brand accused of rape, sexual assaults and abuse](https://www.thetimes.co.uk/article/russell-brand-rape-sexual-assault-abuse-allegations-investigation-v5hxdlmb6)
 * [2023-09-16, 19:56:05](https://news.ycombinator.com/item?id=37538106) - [Why everything you buy is worse now [video]](https://www.youtube.com/watch?v=DHXBacEH0qo)
+* [2023-09-16, 19:42:31](https://news.ycombinator.com/item?id=37537986) - [Apple patches “clickless” 0-day image processing vulnerability in iOS, macOS](https://arstechnica.com/gadgets/2023/09/apple-patches-clickless-0-day-image-processing-vulnerability-in-ios-macos/)
 * [2023-09-16, 19:07:55](https://news.ycombinator.com/item?id=37537689) - [Running one’s own root Certificate Authority in 2023](https://wejn.org/2023/09/running-ones-own-root-certificate-authority-in-2023/)
 * [2023-09-16, 18:59:57](https://news.ycombinator.com/item?id=37537584) - [Cache line alignment in C++ – How it makes your program faster](https://ryonaldteofilo.medium.com/cache-line-alignment-in-c-1aac85e4482f)
 * [2023-09-16, 18:44:26](https://news.ycombinator.com/item?id=37537443) - [Don't be afraid to be wrong](https://nlopes.dev/writing/dont-be-afraid-to-be-wrong)
