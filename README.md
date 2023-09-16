@@ -26,8 +26,8 @@
 * [2023-09-15, 18:09:26](https://news.ycombinator.com/item?id=37526994) - [ChessMonitor – Analytics for Lichess and Chess.com](https://www.chessmonitor.com/)
 * [2023-09-15, 17:32:25](https://news.ycombinator.com/item?id=37526477) - [Kopia: Fast and secure open-source backup software](https://kopia.io/)
 * [2023-09-15, 16:59:15](https://news.ycombinator.com/item?id=37526047) - [My favourite API is a zipfile on the European Central Bank's website](https://csvbase.com/blog/5)
-* [2023-09-15, 12:43:52](https://news.ycombinator.com/item?id=37522106) - [Akiyoshi’s Illusion Pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)
 * [2023-09-15, 10:21:57](https://news.ycombinator.com/item?id=37520890) - [A Primer on Logic Programming](https://www.juxt.pro/blog/logic-primer/)
+* [2023-09-15, 06:51:54](https://news.ycombinator.com/item?id=37519418) - [Willingham sends Fables into the public domain](https://billwillingham.substack.com/p/willingham-sends-fables-into-the)
 * [2023-09-15, 06:44:15](https://news.ycombinator.com/item?id=37519368) - [VÉgA – Vocabulary of Ancient Egyptian](https://vega-vocabulaire-egyptien-ancien.fr/en/welcome-page/)
 * [2023-09-15, 02:08:05](https://news.ycombinator.com/item?id=37517368) - [95 bits per second](https://popey.com/blog/2023/09/95-bits-per-second/)
 
