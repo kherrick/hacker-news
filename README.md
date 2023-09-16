@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-16, 10:10:37](https://news.ycombinator.com/item?id=37533487) - [Percy Ludgate](https://en.wikipedia.org/wiki/Percy_Ludgate)
+* [2023-09-16, 10:08:56](https://news.ycombinator.com/item?id=37533479) - [The “Do Something About It” Club](https://chavanniclass.com/2023/09/16/48-the-do-something-about-it-club/)
 * [2023-09-16, 09:56:49](https://news.ycombinator.com/item?id=37533438) - [People Are Streaming Pirated Movies on TikTok, One Short Clip at a Time](https://www.wsj.com/tech/tiktok-pirated-movies-free-2cd9389a)
 * [2023-09-16, 09:10:05](https://news.ycombinator.com/item?id=37533225) - [Show HN: Android Hacker News Widget and App](https://play.google.com/store/apps/details?id=com.thirdgate.hackernews&hl=en_US)
 * [2023-09-16, 08:56:47](https://news.ycombinator.com/item?id=37533146) - [The Economic Cost of Populism](https://www.aeaweb.org/articles?id=10.1257/aer.20202045&from=f)
@@ -22,14 +23,13 @@
 * [2023-09-15, 20:39:11](https://news.ycombinator.com/item?id=37528816) - [“Inverse vaccine” shows potential to treat MS and other autoimmune diseases](https://pme.uchicago.edu/news/inverse-vaccine-shows-potential-treat-multiple-sclerosis-and-other-autoimmune-diseases)
 * [2023-09-15, 20:05:05](https://news.ycombinator.com/item?id=37528472) - [Everyday uses for PVC water pipe](https://tomtilley.net/projects/pvc/)
 * [2023-09-15, 20:03:41](https://news.ycombinator.com/item?id=37528453) - [The first week of US v. Google – Defaults are everything and nobody likes Bing](https://www.theverge.com/2023/9/15/23875342/justice-department-google-antitrust-search-trial-week-one-recap)
-* [2023-09-15, 19:32:38](https://news.ycombinator.com/item?id=37528098) - [Show HN: IncarnaMind-Chat with your multiple docs using LLMs](https://github.com/junruxiong/IncarnaMind)
 * [2023-09-15, 19:06:12](https://news.ycombinator.com/item?id=37527773) - [Building an economy simulator from scratch](https://thomassimon.dev/ps/4)
 * [2023-09-15, 19:01:49](https://news.ycombinator.com/item?id=37527720) - [I built Excel for Uber and they ditched it](https://basta.substack.com/p/no-sacred-masterpieces)
 * [2023-09-15, 17:32:25](https://news.ycombinator.com/item?id=37526477) - [Kopia: Fast and secure open-source backup software](https://kopia.io/)
 * [2023-09-15, 16:59:15](https://news.ycombinator.com/item?id=37526047) - [My favourite API is a zipfile on the European Central Bank's website](https://csvbase.com/blog/5)
+* [2023-09-15, 12:43:52](https://news.ycombinator.com/item?id=37522106) - [Akiyoshi’s Illusion Pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)
 * [2023-09-15, 06:51:54](https://news.ycombinator.com/item?id=37519418) - [Willingham sends Fables into the public domain](https://billwillingham.substack.com/p/willingham-sends-fables-into-the)
 * [2023-09-15, 06:44:15](https://news.ycombinator.com/item?id=37519368) - [VÉgA – Vocabulary of Ancient Egyptian](https://vega-vocabulaire-egyptien-ancien.fr/en/welcome-page/)
-* [2023-09-15, 02:08:05](https://news.ycombinator.com/item?id=37517368) - [95 bits per second](https://popey.com/blog/2023/09/95-bits-per-second/)
 
 ## [Archives](archives/index.md)
 

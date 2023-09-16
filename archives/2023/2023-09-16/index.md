@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-16](index.md)
 
 * [2023-09-16, 10:10:37](https://news.ycombinator.com/item?id=37533487) - [Percy Ludgate](https://en.wikipedia.org/wiki/Percy_Ludgate)
+* [2023-09-16, 10:08:56](https://news.ycombinator.com/item?id=37533479) - [The “Do Something About It” Club](https://chavanniclass.com/2023/09/16/48-the-do-something-about-it-club/)
 * [2023-09-16, 09:56:49](https://news.ycombinator.com/item?id=37533438) - [People Are Streaming Pirated Movies on TikTok, One Short Clip at a Time](https://www.wsj.com/tech/tiktok-pirated-movies-free-2cd9389a)
 * [2023-09-16, 09:10:05](https://news.ycombinator.com/item?id=37533225) - [Show HN: Android Hacker News Widget and App](https://play.google.com/store/apps/details?id=com.thirdgate.hackernews&hl=en_US)
 * [2023-09-16, 08:56:47](https://news.ycombinator.com/item?id=37533146) - [The Economic Cost of Populism](https://www.aeaweb.org/articles?id=10.1257/aer.20202045&from=f)
