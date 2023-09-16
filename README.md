@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-16, 03:32:27](https://news.ycombinator.com/item?id=37531801) - [Subdomain.center – discover all subdomains for a domain](https://www.subdomain.center/)
+* [2023-09-16, 02:54:06](https://news.ycombinator.com/item?id=37531598) - [The Suspicion Machine](https://www.wired.com/story/welfare-state-algorithms/)
 * [2023-09-16, 02:09:08](https://news.ycombinator.com/item?id=37531339) - [enron :: discover the power of WHY (2001)](https://enroncorp.com/corp/index.html)
 * [2023-09-16, 00:54:21](https://news.ycombinator.com/item?id=37530915) - [Faster Than Llama 2: DeciLM LLM with Variable GQA](https://deci.ai/blog/decilm-15-times-faster-than-llama2-nas-generated-llm-with-variable-gqa/)
 * [2023-09-15, 23:21:09](https://news.ycombinator.com/item?id=37530261) - [Rule for Beneficial Ownership Reporting (2022)](https://www.fincen.gov/news/news-releases/fincen-issues-final-rule-beneficial-ownership-reporting-support-law-enforcement)
@@ -20,7 +21,6 @@
 * [2023-09-15, 16:15:54](https://news.ycombinator.com/item?id=37525348) - [How to store a chess position in 26 bytes using bit-level magic (2022)](https://www.ezzeriesa.com/index/Writing%20efa7772a3ae64a8193c7ef981ac619fc/Compressing%20chess%20positions%20for%20fun%20and%20profit%20df1fdb5364eb42fdac11eb23b25e9605.html)
 * [2023-09-15, 15:49:09](https://news.ycombinator.com/item?id=37524890) - [Optimizing LLMs from a Dataset Perspective](https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html)
 * [2023-09-15, 15:06:42](https://news.ycombinator.com/item?id=37524202) - [Shrinkflation Tracker](https://www.shrinkflation.io/)
-* [2023-09-15, 14:43:23](https://news.ycombinator.com/item?id=37523796) - [The Symbol Grounding Problem (1990) [pdf]](https://www.cs.ox.ac.uk/activities/ieg/e-library/sources/harnad90_sgproblem.pdf)
 * [2023-09-15, 13:04:05](https://news.ycombinator.com/item?id=37522290) - [Truthiness in C](https://dxuuu.xyz/casts.html)
 * [2023-09-15, 12:45:15](https://news.ycombinator.com/item?id=37522121) - [Show HN: Oyie – A micro social app to stay in sync with your friends](https://oyie.io)
 * [2023-09-15, 12:43:52](https://news.ycombinator.com/item?id=37522106) - [Akiyoshi’s Illusion Pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)
