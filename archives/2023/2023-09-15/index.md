@@ -27,6 +27,7 @@
 * [2023-09-15, 19:32:38](https://news.ycombinator.com/item?id=37528098) - [Show HN: IncarnaMind-Chat with your multiple docs using LLMs](https://github.com/junruxiong/IncarnaMind)
 * [2023-09-15, 19:28:23](https://news.ycombinator.com/item?id=37528048) - [Musk’s X revokes paid blue check from United Auto Workers after strike called](https://arstechnica.com/tech-policy/2023/09/musks-x-revokes-paid-blue-check-from-united-auto-workers-after-strike-called/)
 * [2023-09-15, 19:18:38](https://news.ycombinator.com/item?id=37527928) - [Books for Game Developers](https://mrelusive.com/books/books.html)
+* [2023-09-15, 19:09:28](https://news.ycombinator.com/item?id=37527806) - [The Hot Water Rectangle (2022)](https://www.greenbuildingadvisor.com/article/the-hot-water-rectangle)
 * [2023-09-15, 19:06:12](https://news.ycombinator.com/item?id=37527773) - [Building an Economy Simulator from Scratch](https://thomassimon.dev/ps/4)
 * [2023-09-15, 19:01:49](https://news.ycombinator.com/item?id=37527720) - [No Sacred Masterpieces, that time I built Excel for Uber and they ditched it](https://basta.substack.com/p/no-sacred-masterpieces)
 * [2023-09-15, 18:53:06](https://news.ycombinator.com/item?id=37527599) - [Pixel Sea: Search 88x31 badges and 32x32 icons](https://pixelsea.neocities.org/)
