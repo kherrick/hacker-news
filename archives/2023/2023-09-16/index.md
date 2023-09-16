@@ -6,6 +6,7 @@
 
 * [2023-09-16, 07:00:11](https://news.ycombinator.com/item?id=37532618) - [Converge (YC S23) is hiring a founding product engineer](https://www.ycombinator.com/companies/converge/jobs/vc4Nbeh-founding-product-engineer)
 * [2023-09-16, 06:49:54](https://news.ycombinator.com/item?id=37532584) - [Pongs](https://pippinbarr.com/pongs/info/)
+* [2023-09-16, 06:33:31](https://news.ycombinator.com/item?id=37532522) - [GPT-4 is not getting worse (tests and a long rant)](https://coagulopath.com/gpt-4-is-not-getting-worse/)
 * [2023-09-16, 05:51:24](https://news.ycombinator.com/item?id=37532355) - [How Instagram scaled to 14 million users with only 3 engineers](https://engineercodex.substack.com/p/how-instagram-scaled-to-14-million)
 * [2023-09-16, 05:17:34](https://news.ycombinator.com/item?id=37532245) - [Relational is more than SQL](https://fauna.com/blog/relational-is-more-than-sql)
 * [2023-09-16, 04:36:31](https://news.ycombinator.com/item?id=37532080) - [The Meaning of Liberalism (1938)](https://www.roberthjackson.org/speech-and-writing/the-meaning-of-liberalism/)

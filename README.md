@@ -2,6 +2,7 @@
 
 * [2023-09-16, 07:00:11](https://news.ycombinator.com/item?id=37532618) - [Converge (YC S23) is hiring a founding product engineer](https://www.ycombinator.com/companies/converge/jobs/vc4Nbeh-founding-product-engineer)
 * [2023-09-16, 06:49:54](https://news.ycombinator.com/item?id=37532584) - [Pongs](https://pippinbarr.com/pongs/info/)
+* [2023-09-16, 06:33:31](https://news.ycombinator.com/item?id=37532522) - [GPT-4 is not getting worse (tests and a long rant)](https://coagulopath.com/gpt-4-is-not-getting-worse/)
 * [2023-09-16, 05:51:24](https://news.ycombinator.com/item?id=37532355) - [How Instagram scaled to 14 million users with only 3 engineers](https://engineercodex.substack.com/p/how-instagram-scaled-to-14-million)
 * [2023-09-16, 05:17:34](https://news.ycombinator.com/item?id=37532245) - [Relational is more than SQL](https://fauna.com/blog/relational-is-more-than-sql)
 * [2023-09-16, 04:36:31](https://news.ycombinator.com/item?id=37532080) - [The Meaning of Liberalism (1938)](https://www.roberthjackson.org/speech-and-writing/the-meaning-of-liberalism/)
@@ -12,7 +13,6 @@
 * [2023-09-16, 02:54:06](https://news.ycombinator.com/item?id=37531598) - [The Suspicion Machine](https://www.wired.com/story/welfare-state-algorithms/)
 * [2023-09-16, 02:25:24](https://news.ycombinator.com/item?id=37531434) - [Yazi: Fast terminal file manager based on async I/O](https://github.com/sxyazi/yazi)
 * [2023-09-16, 02:09:08](https://news.ycombinator.com/item?id=37531339) - [enron :: discover the power of WHY (2001)](https://enroncorp.com/corp/index.html)
-* [2023-09-16, 00:54:21](https://news.ycombinator.com/item?id=37530915) - [Faster Than Llama 2: DeciLM LLM with Variable GQA](https://deci.ai/blog/decilm-15-times-faster-than-llama2-nas-generated-llm-with-variable-gqa/)
 * [2023-09-16, 00:05:29](https://news.ycombinator.com/item?id=37530567) - [Deno by Example](https://examples.deno.land/)
 * [2023-09-15, 23:21:09](https://news.ycombinator.com/item?id=37530261) - [Rule for Beneficial Ownership Reporting (2022)](https://www.fincen.gov/news/news-releases/fincen-issues-final-rule-beneficial-ownership-reporting-support-law-enforcement)
 * [2023-09-15, 21:30:09](https://news.ycombinator.com/item?id=37529359) - [Johnny Cash Has Been Everywhere (Man)](http://www.johnnycashhasbeeneverywhere.com/)
