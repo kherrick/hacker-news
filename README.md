@@ -2,6 +2,7 @@
 
 * [2023-09-16, 16:42:49](https://news.ycombinator.com/item?id=37536361) - [Is this fraud? And if so, to what extent am I responsible?](https://workplace.stackexchange.com/questions/193234/is-this-fraud-and-if-so-to-what-extent-am-i-responsible)
 * [2023-09-16, 16:31:09](https://news.ycombinator.com/item?id=37536263) - [Vegas casinos are still reeling from a massive cyberattack](https://www.fastcompany.com/90954120/vegas-casinos-are-still-reeling-from-a-massive-cyberattack)
+* [2023-09-16, 16:24:30](https://news.ycombinator.com/item?id=37536190) - [Single-bladed floating wind turbine promises half the cost, more power](https://newatlas.com/energy/touchwind-floating-wind-turbine/)
 * [2023-09-16, 16:16:23](https://news.ycombinator.com/item?id=37536103) - [The Next Gen Database Servers Powering Let's Encrypt(2021)](https://letsencrypt.org/2021/01/21/next-gen-database-servers.html)
 * [2023-09-16, 16:08:05](https://news.ycombinator.com/item?id=37536016) - [Generative Image Dynamics](https://generative-dynamics.github.io/)
 * [2023-09-16, 15:57:12](https://news.ycombinator.com/item?id=37535910) - [Unity's Self-Combustion Engine](https://www.gamesindustry.biz/unitys-self-combustion-engine-this-week-in-business)
@@ -25,11 +26,10 @@
 * [2023-09-16, 10:10:37](https://news.ycombinator.com/item?id=37533487) - [Percy Ludgate](https://en.wikipedia.org/wiki/Percy_Ludgate)
 * [2023-09-16, 08:16:54](https://news.ycombinator.com/item?id=37532973) - [Tracking Austrian grocery prices by scraping store sites](https://mastodon.gamedev.place/@badlogic/111071396799790275)
 * [2023-09-16, 06:49:54](https://news.ycombinator.com/item?id=37532584) - [Pongs](https://pippinbarr.com/pongs/info/)
-* [2023-09-16, 05:32:57](https://news.ycombinator.com/item?id=37532290) - [The Destroyed Libraries of Louvain (2012)](https://www.libraryhistorybuff.com/louvain.htm)
 * [2023-09-16, 05:17:34](https://news.ycombinator.com/item?id=37532245) - [Relational is more than SQL](https://fauna.com/blog/relational-is-more-than-sql)
 * [2023-09-16, 03:32:27](https://news.ycombinator.com/item?id=37531801) - [Subdomain.center – discover all subdomains for a domain](https://www.subdomain.center/)
-* [2023-09-16, 02:25:24](https://news.ycombinator.com/item?id=37531434) - [Yazi: Fast terminal file manager based on async I/O](https://github.com/sxyazi/yazi)
 * [2023-09-15, 21:21:44](https://news.ycombinator.com/item?id=37529284) - [The Early Days of American English](https://www.laphamsquarterly.org/roundtable/early-days-american-english)
+* [2023-09-15, 14:16:54](https://news.ycombinator.com/item?id=37523314) - [New camera offers ultrafast imaging at a fraction of the normal cost](https://phys.org/news/2023-09-camera-ultrafast-imaging-fraction.html)
 
 ## [Archives](archives/index.md)
 
