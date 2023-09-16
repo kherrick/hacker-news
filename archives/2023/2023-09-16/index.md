@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-16](index.md)
 
 * [2023-09-16, 11:08:29](https://news.ycombinator.com/item?id=37533747) - [BtrBlocks: Efficient Columnar Compression for Data Lakes [pdf]](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrblocks.pdf)
+* [2023-09-16, 10:11:34](https://news.ycombinator.com/item?id=37533493) - [Show HN: exaequOS - a new OS running in a web browser](https://www.exaequos.com)
 * [2023-09-16, 10:10:37](https://news.ycombinator.com/item?id=37533487) - [Percy Ludgate](https://en.wikipedia.org/wiki/Percy_Ludgate)
 * [2023-09-16, 10:08:56](https://news.ycombinator.com/item?id=37533479) - [The “Do Something About It” Club](https://chavanniclass.com/2023/09/16/48-the-do-something-about-it-club/)
 * [2023-09-16, 09:56:49](https://news.ycombinator.com/item?id=37533438) - [People Are Streaming Pirated Movies on TikTok, One Short Clip at a Time](https://www.wsj.com/tech/tiktok-pirated-movies-free-2cd9389a)
