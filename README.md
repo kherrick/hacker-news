@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-16, 22:27:08](https://news.ycombinator.com/item?id=37539410) - [Satya Nadella: “I want to use this tactically vs. GOOG/AAPL” (2022)](https://twitter.com/TechEmails/status/1703172745893404913)
 * [2023-09-16, 21:32:40](https://news.ycombinator.com/item?id=37538914) - [America's advanced manufacturing problem and how to fix it](https://americanaffairsjournal.org/2023/08/americas-advanced-manufacturing-problem-and-how-to-fix-it/)
 * [2023-09-16, 21:28:33](https://news.ycombinator.com/item?id=37538878) - [Adobe will charge “credits” for generative AI](https://helpx.adobe.com/firefly/using/generative-credits-faq.html)
 * [2023-09-16, 21:00:56](https://news.ycombinator.com/item?id=37538654) - [Lantern (YC W24) – Hiring Engineers to Build PostgreSQL Vector Database for AI](https://lantern-db.notion.site/lantern-db/Lantern-is-hiring-Core-Database-Engineers-396a612dcfdb4c9eb274670680c8d8b5)
@@ -21,7 +22,6 @@
 * [2023-09-16, 14:33:43](https://news.ycombinator.com/item?id=37535114) - [Comp.sys.sinclair crap games competition (2021)](https://www.rickdangerous.co.uk/csscgc2021/entries.html)
 * [2023-09-16, 13:41:16](https://news.ycombinator.com/item?id=37534666) - [static-server: an HTTP server in Go for static content](https://eli.thegreenplace.net/2023/static-server-an-http-server-in-go-for-static-content/)
 * [2023-09-16, 13:31:48](https://news.ycombinator.com/item?id=37534615) - [Horcrux: Split your file into encrypted fragments](https://github.com/jesseduffield/horcrux)
-* [2023-09-16, 13:05:47](https://news.ycombinator.com/item?id=37534451) - [Observations on Credit and Lending Practices in Ur III Mesopotamia (2004) [pdf]](https://www.sfu.ca/~poitras/jesho_UR_14.pdf)
 * [2023-09-16, 11:08:29](https://news.ycombinator.com/item?id=37533747) - [BtrBlocks: Efficient Columnar Compression for Data Lakes [pdf]](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrblocks.pdf)
 * [2023-09-16, 10:11:34](https://news.ycombinator.com/item?id=37533493) - [Show HN: exaequOS - a new OS running in a web browser](https://www.exaequos.com)
 * [2023-09-16, 10:10:37](https://news.ycombinator.com/item?id=37533487) - [Percy Ludgate](https://en.wikipedia.org/wiki/Percy_Ludgate)
