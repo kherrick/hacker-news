@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-16, 09:56:49](https://news.ycombinator.com/item?id=37533438) - [People Are Streaming Pirated Movies on TikTok, One Short Clip at a Time](https://www.wsj.com/tech/tiktok-pirated-movies-free-2cd9389a)
+* [2023-09-16, 08:56:47](https://news.ycombinator.com/item?id=37533146) - [The Economic Cost of Populism](https://www.aeaweb.org/articles?id=10.1257/aer.20202045&from=f)
 * [2023-09-16, 07:00:11](https://news.ycombinator.com/item?id=37532618) - [Converge (YC S23) is hiring a founding product engineer](https://www.ycombinator.com/companies/converge/jobs/vc4Nbeh-founding-product-engineer)
 * [2023-09-16, 06:49:54](https://news.ycombinator.com/item?id=37532584) - [Pongs](https://pippinbarr.com/pongs/info/)
 * [2023-09-16, 06:33:31](https://news.ycombinator.com/item?id=37532522) - [GPT-4 is not getting worse (tests and a long rant)](https://coagulopath.com/gpt-4-is-not-getting-worse/)
@@ -22,8 +24,6 @@
 * [2023-09-15, 19:18:38](https://news.ycombinator.com/item?id=37527928) - [Books for Game Developers](https://mrelusive.com/books/books.html)
 * [2023-09-15, 19:06:12](https://news.ycombinator.com/item?id=37527773) - [Building an economy simulator from scratch](https://thomassimon.dev/ps/4)
 * [2023-09-15, 19:01:49](https://news.ycombinator.com/item?id=37527720) - [I built Excel for Uber and they ditched it](https://basta.substack.com/p/no-sacred-masterpieces)
-* [2023-09-15, 18:53:06](https://news.ycombinator.com/item?id=37527599) - [Pixel Sea: Search 88x31 badges and 32x32 icons](https://pixelsea.neocities.org/)
-* [2023-09-15, 18:09:26](https://news.ycombinator.com/item?id=37526994) - [ChessMonitor – Analytics for Lichess and Chess.com](https://www.chessmonitor.com/)
 * [2023-09-15, 17:32:25](https://news.ycombinator.com/item?id=37526477) - [Kopia: Fast and secure open-source backup software](https://kopia.io/)
 * [2023-09-15, 16:59:15](https://news.ycombinator.com/item?id=37526047) - [My favourite API is a zipfile on the European Central Bank's website](https://csvbase.com/blog/5)
 * [2023-09-15, 12:43:52](https://news.ycombinator.com/item?id=37522106) - [Akiyoshi’s Illusion Pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html)

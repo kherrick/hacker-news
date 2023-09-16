@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-16](index.md)
 
+* [2023-09-16, 09:56:49](https://news.ycombinator.com/item?id=37533438) - [People Are Streaming Pirated Movies on TikTok, One Short Clip at a Time](https://www.wsj.com/tech/tiktok-pirated-movies-free-2cd9389a)
+* [2023-09-16, 08:56:47](https://news.ycombinator.com/item?id=37533146) - [The Economic Cost of Populism](https://www.aeaweb.org/articles?id=10.1257/aer.20202045&from=f)
 * [2023-09-16, 07:00:11](https://news.ycombinator.com/item?id=37532618) - [Converge (YC S23) is hiring a founding product engineer](https://www.ycombinator.com/companies/converge/jobs/vc4Nbeh-founding-product-engineer)
 * [2023-09-16, 06:49:54](https://news.ycombinator.com/item?id=37532584) - [Pongs](https://pippinbarr.com/pongs/info/)
 * [2023-09-16, 06:33:31](https://news.ycombinator.com/item?id=37532522) - [GPT-4 is not getting worse (tests and a long rant)](https://coagulopath.com/gpt-4-is-not-getting-worse/)
