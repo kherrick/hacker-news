@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-09-17](index.md)
 
+* [2023-09-17, 20:25:54](https://news.ycombinator.com/item?id=37548975) - [Homebrew Website Club](https://indieweb.org/Homebrew_Website_Club)
 * [2023-09-17, 20:17:21](https://news.ycombinator.com/item?id=37548903) - [The Data Science Manifesto](http://datasciencemanifesto.org/)
 * [2023-09-17, 20:17:07](https://news.ycombinator.com/item?id=37548900) - [Modder Turns Framework Laptop PCB into a Handheld Gaming PC](https://www.tomshardware.com/news/modder-turns-framework-laptop-pcb-into-a-handheld-gaming-pc)
 * [2023-09-17, 20:14:39](https://news.ycombinator.com/item?id=37548884) - [The Home Assistant Green is here](https://www.theverge.com/23875557/home-assistant-green-announcement-price-specs-ten-year-anniversary)
 * [2023-09-17, 19:55:01](https://news.ycombinator.com/item?id=37548732) - [Vintage Apple](https://vintageapple.org/)
+* [2023-09-17, 19:53:58](https://news.ycombinator.com/item?id=37548720) - [Brian Bucklew Porting Caves of Qud from Unity to Godot](https://twitter.com/unormal/status/1703163364229161236)
 * [2023-09-17, 19:44:50](https://news.ycombinator.com/item?id=37548639) - [Infrastructure Manager: Provision Google Cloud Resources with Terraform](https://cloud.google.com/blog/products/management-tools/introducing-infrastructure-manager-powered-by-terraform/)
 * [2023-09-17, 19:32:33](https://news.ycombinator.com/item?id=37548551) - [Will Cyber Security Be Replaced by AI?](https://blog.edned.net/will-ai-replace-cyber-security/)
 * [2023-09-17, 19:26:53](https://news.ycombinator.com/item?id=37548482) - [USA built 151 Aircraft carriers in WWII](https://en.wikipedia.org/wiki/Escort_carrier)
