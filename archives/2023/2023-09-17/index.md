@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2023-09-17](index.md)
 
 * [2023-09-17, 14:17:52](https://news.ycombinator.com/item?id=37545313) - [Close to 2k Environmental Activists Killed over Last Decade](https://e360.yale.edu/digest/environmental-defenders-murdered-2022)
+* [2023-09-17, 14:13:05](https://news.ycombinator.com/item?id=37545269) - [So you think Linux is safe from NSA backdoors? You couldn't be more wrong](https://www.pangulab.cn/en/post/the_bvp47_a_top-tier_backdoor_of_us_nsa_equation_group/)
 * [2023-09-17, 13:52:52](https://news.ycombinator.com/item?id=37545071) - [Comp.lang.c is now full of spam from Google Groups](https://groups.google.com/g/comp.lang.c)
 * [2023-09-17, 13:49:11](https://news.ycombinator.com/item?id=37545040) - [Changing the Rules of Rust](https://without.boats/blog/changing-the-rules-of-rust/)
+* [2023-09-17, 13:31:38](https://news.ycombinator.com/item?id=37544881) - [Whistleblower CISO says PennState lied about IT security to win $2B from US gov](https://www.centredaily.com/news/local/education/penn-state/article278868069.html)
 * [2023-09-17, 13:03:12](https://news.ycombinator.com/item?id=37544628) - [Linear Book Scanner – The open-source automatic book scanner](https://linearbookscanner.org/)
 * [2023-09-17, 11:57:42](https://news.ycombinator.com/item?id=37544097) - [Qualcomm: What is RISC-V, and why we're unlocking its potential](https://www.qualcomm.com/news/onq/2023/09/what-is-risc-v-and-why-were-unlocking-its-potential)
 * [2023-09-17, 11:48:36](https://news.ycombinator.com/item?id=37544019) - [Thinking in a foreign language improves decision-making](https://www.theguardian.com/science/2023/sep/17/how-learning-thinking-in-a-foreign-language-improves-decision-making)
