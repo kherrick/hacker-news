@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-17, 16:34:29](https://news.ycombinator.com/item?id=37546874) - [CatalaLang/catala: Programming language for law specification](https://github.com/CatalaLang/catala)
 * [2023-09-17, 16:26:48](https://news.ycombinator.com/item?id=37546766) - [Things that do not exist in Dimension Apple](https://maxread.substack.com/p/a-literary-history-of-fake-texts)
 * [2023-09-17, 16:20:08](https://news.ycombinator.com/item?id=37546689) - [Browsing like it's 1994: Integrating a Mac SE, ImageWriter II into a modern LAN](https://connor.zip/posts/2023-08-04-localtalk-ethernet)
 * [2023-09-17, 15:52:08](https://news.ycombinator.com/item?id=37546381) - [The Eunuch Admiral (2011)](https://alumni.berkeley.edu/california-magazine/fall-2011-the-good-fight/eunuch-admiral/)
@@ -15,7 +16,6 @@
 * [2023-09-17, 10:58:26](https://news.ycombinator.com/item?id=37543664) - [I hacked macOS](https://asahilina.net/agx-exploit/)
 * [2023-09-17, 08:19:58](https://news.ycombinator.com/item?id=37542733) - [Fireball over Iceland](https://apod.nasa.gov/apod/ap230916.html)
 * [2023-09-17, 06:30:37](https://news.ycombinator.com/item?id=37542117) - [A High Throughput B+tree for SIMD Architectures (2020) [pdf]](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf)
-* [2023-09-17, 06:06:34](https://news.ycombinator.com/item?id=37541994) - [Bounties Damage Open Source Projects](https://ziglang.org/news/bounties-damage-open-source-projects/)
 * [2023-09-17, 05:03:16](https://news.ycombinator.com/item?id=37541685) - [So You Think You Know C? (2020) [pdf]](https://wordsandbuttons.online/SYTYKC.pdf)
 * [2023-09-17, 04:29:27](https://news.ycombinator.com/item?id=37541531) - [Tcherepnin: Basic Elements of My Musical Language](http://www.tcherepnin.com/alex/basic_elem3.htm)
 * [2023-09-17, 03:00:23](https://news.ycombinator.com/item?id=37541093) - [Apple’s new Transformer-powered predictive text model](https://jackcook.com/2023/09/08/predictive-text.html)
