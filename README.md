@@ -2,7 +2,6 @@
 
 * [2023-09-17, 11:48:36](https://news.ycombinator.com/item?id=37544019) - [Thinking in a foreign language improves decision-making](https://www.theguardian.com/science/2023/sep/17/how-learning-thinking-in-a-foreign-language-improves-decision-making)
 * [2023-09-17, 11:33:19](https://news.ycombinator.com/item?id=37543904) - [A trip to the dried-up Kakhovka Reservoir](https://www.spiegel.de/international/world/russia-s-scorched-earth-policy-in-ukraine-a-trip-to-the-dried-up-kakhovka-reservoir-a-992aef1d-f4a7-4fbf-84a2-74c5d93b6566)
-* [2023-09-17, 11:26:40](https://news.ycombinator.com/item?id=37543855) - [Unity's Trap](https://www.pentadact.com/2023-09-16-unitys-trap/)
 * [2023-09-17, 10:58:26](https://news.ycombinator.com/item?id=37543664) - [CVE-2022-32947: I hacked macOS](https://asahilina.net/agx-exploit/)
 * [2023-09-17, 08:19:58](https://news.ycombinator.com/item?id=37542733) - [Fireball over Iceland](https://apod.nasa.gov/apod/ap230916.html)
 * [2023-09-17, 06:30:37](https://news.ycombinator.com/item?id=37542117) - [A High Throughput B+tree for SIMD Architectures (2020) [pdf]](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf)
@@ -29,6 +28,7 @@
 * [2023-09-16, 07:40:27](https://news.ycombinator.com/item?id=37532794) - [How Valve built soundproof booths](https://www.dota2.com/newsentry/3675555405719286536)
 * [2023-09-16, 07:28:48](https://news.ycombinator.com/item?id=37532736) - [How HTTPS Works](https://howhttps.works)
 * [2023-09-15, 23:07:56](https://news.ycombinator.com/item?id=37530158) - [Formatting text in C++: Old and new ways](https://mariusbancila.ro/blog/2023/09/12/formatting-text-in-c-the-old-and-the-new-ways/)
+* [2023-09-15, 14:16:54](https://news.ycombinator.com/item?id=37523314) - [New camera offers ultrafast imaging at a fraction of the normal cost](https://phys.org/news/2023-09-camera-ultrafast-imaging-fraction.html)
 * [2023-09-14, 06:11:48](https://news.ycombinator.com/item?id=37505539) - [Stanford is a platform](https://miles.land/posts/stanford-is-a-platform/)
 
 ## [Archives](archives/index.md)
