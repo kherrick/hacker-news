@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-17, 02:08:48](https://news.ycombinator.com/item?id=37540790) - [Ask HN: Do I need AWS? Or am I thinking this wrong?](https://news.ycombinator.com/item?id=37540790)
 * [2023-09-17, 02:05:19](https://news.ycombinator.com/item?id=37540770) - [Breakfast cereal is in long-term decline](https://www.wsj.com/finance/investing/cereal-decline-breakfast-trend-6dd591e8)
 * [2023-09-17, 01:19:46](https://news.ycombinator.com/item?id=37540529) - [Pirates of the Caribbean (Metric Edition) (2017)](https://www.nist.gov/blogs/taking-measure/pirates-caribbean-metric-edition)
 * [2023-09-17, 01:00:57](https://news.ycombinator.com/item?id=37540445) - [Gym Class VR (YC W22) Is Hiring a Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer)
@@ -18,7 +19,6 @@
 * [2023-09-16, 16:59:30](https://news.ycombinator.com/item?id=37536503) - [Epistemological problem of emergence in complex systems (2018) [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6207336/pdf/pone.0206489.pdf)
 * [2023-09-16, 16:16:23](https://news.ycombinator.com/item?id=37536103) - [The database servers powering Let's Encrypt (2021)](https://letsencrypt.org/2021/01/21/next-gen-database-servers.html)
 * [2023-09-16, 16:08:05](https://news.ycombinator.com/item?id=37536016) - [Generative Image Dynamics](https://generative-dynamics.github.io/)
-* [2023-09-16, 15:35:38](https://news.ycombinator.com/item?id=37535702) - [How to Escape the Startup Trough of Sorrow](https://www.briefmix.com/startup/positioning)
 * [2023-09-16, 15:18:46](https://news.ycombinator.com/item?id=37535537) - [Cystic fibrosis treatment wins Breakthrough Prize](https://www.nature.com/articles/d41586-023-02890-1)
 * [2023-09-16, 15:06:41](https://news.ycombinator.com/item?id=37535431) - [Wireless electrical–molecular quantum signalling for cancer cell apoptosis](https://www.nature.com/articles/s41565-023-01496-y)
 * [2023-09-16, 14:59:10](https://news.ycombinator.com/item?id=37535350) - [A Different Type of SQL Recursion with PostgreSQL](https://github.com/vb-consulting/blog/discussions/1)
