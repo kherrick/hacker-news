@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-17](index.md)
 
 * [2023-09-17, 16:56:04](https://news.ycombinator.com/item?id=37547099) - [LaTeX for publishing tabletop role-playing games](https://vladar.bearblog.dev/latex-for-tabletop/)
+* [2023-09-17, 16:50:16](https://news.ycombinator.com/item?id=37547046) - [New Study Identifies United States as 'Planet-Wrecker-in-Chief'](https://www.commondreams.org/news/united-states-planet-wrecker)
 * [2023-09-17, 16:34:29](https://news.ycombinator.com/item?id=37546874) - [CatalaLang/catala: Programming language for law specification](https://github.com/CatalaLang/catala)
 * [2023-09-17, 16:26:48](https://news.ycombinator.com/item?id=37546766) - [Things that do not exist in Dimension Apple](https://maxread.substack.com/p/a-literary-history-of-fake-texts)
 * [2023-09-17, 16:20:08](https://news.ycombinator.com/item?id=37546689) - [Browsing like it's 1994: Integrating a Mac SE, ImageWriter II into a modern LAN](https://connor.zip/posts/2023-08-04-localtalk-ethernet)
