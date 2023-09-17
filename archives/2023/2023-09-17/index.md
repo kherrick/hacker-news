@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-17](index.md)
 
+* [2023-09-17, 07:41:25](https://news.ycombinator.com/item?id=37542499) - [Antarctic sea-ice at 'mind-blowing' low alarms experts](https://www.bbc.co.uk/news/science-environment-66724246)
 * [2023-09-17, 06:56:08](https://news.ycombinator.com/item?id=37542236) - [What Silicon Valley “Gets” about Software Engineers](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/)
 * [2023-09-17, 06:30:37](https://news.ycombinator.com/item?id=37542117) - [A High Throughput B+tree for SIMD Architectures [pdf]](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf)
 * [2023-09-17, 06:00:34](https://news.ycombinator.com/item?id=37541963) - [Developers fight back against Unity’s new pricing model](https://www.theverge.com/2023/9/15/23875396/unity-mobile-developers-ad-monetization-tos-changes)
