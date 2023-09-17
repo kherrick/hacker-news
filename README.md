@@ -2,7 +2,6 @@
 
 * [2023-09-17, 03:00:23](https://news.ycombinator.com/item?id=37541093) - [A look at Apple’s new Transformer-powered predictive text model](https://jackcook.com/2023/09/08/predictive-text.html)
 * [2023-09-17, 02:21:45](https://news.ycombinator.com/item?id=37540856) - [The Fossil Wrist PDA becomes a tiny Gopher client](http://oldvcr.blogspot.com/2023/09/the-fossil-wrist-pda-becomes-tiny.html)
-* [2023-09-17, 02:08:48](https://news.ycombinator.com/item?id=37540790) - [Ask HN: Do I need AWS? Or am I thinking this wrong?](https://news.ycombinator.com/item?id=37540790)
 * [2023-09-17, 01:19:46](https://news.ycombinator.com/item?id=37540529) - [Pirates of the Caribbean (Metric Edition) (2017)](https://www.nist.gov/blogs/taking-measure/pirates-caribbean-metric-edition)
 * [2023-09-17, 01:00:57](https://news.ycombinator.com/item?id=37540445) - [Gym Class VR (YC W22) Is Hiring a Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer)
 * [2023-09-17, 00:03:00](https://news.ycombinator.com/item?id=37540109) - [Spellburst: LLM–Powered Interactive Canvas](https://arxiv.org/abs/2308.03921)
@@ -24,6 +23,7 @@
 * [2023-09-16, 14:59:10](https://news.ycombinator.com/item?id=37535350) - [A Different Type of SQL Recursion with PostgreSQL](https://github.com/vb-consulting/blog/discussions/1)
 * [2023-09-16, 14:33:43](https://news.ycombinator.com/item?id=37535114) - [Comp.sys.sinclair crap games competition (2021)](https://www.rickdangerous.co.uk/csscgc2021/entries.html)
 * [2023-09-16, 13:31:48](https://news.ycombinator.com/item?id=37534615) - [Horcrux: Split your file into encrypted fragments](https://github.com/jesseduffield/horcrux)
+* [2023-09-16, 12:31:52](https://news.ycombinator.com/item?id=37534251) - [Stellar-mass black holes in the Hyades star cluster?](https://academic.oup.com/mnras/article/524/2/1965/7210551)
 * [2023-09-16, 10:10:37](https://news.ycombinator.com/item?id=37533487) - [Percy Ludgate](https://en.wikipedia.org/wiki/Percy_Ludgate)
 * [2023-09-16, 08:16:54](https://news.ycombinator.com/item?id=37532973) - [Tracking Austrian grocery prices by scraping store sites](https://mastodon.gamedev.place/@badlogic/111071396799790275)
 * [2023-09-16, 02:55:14](https://news.ycombinator.com/item?id=37531602) - [Streaming is changing the sound of music](https://www.wsj.com/arts-culture/music/streaming-is-changing-the-sound-of-music-182dc907)
