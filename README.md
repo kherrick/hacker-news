@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-17, 14:29:55](https://news.ycombinator.com/item?id=37545412) - [Brazil will hit 49c in September this year](https://news.ycombinator.com/item?id=37545412)
+* [2023-09-17, 14:26:57](https://news.ycombinator.com/item?id=37545384) - [More writers sue OpenAI for copyright infringement over AI training](https://www.reuters.com/technology/more-writers-sue-openai-copyright-infringement-over-ai-training-2023-09-11/)
 * [2023-09-17, 14:20:17](https://news.ycombinator.com/item?id=37545328) - [Unity's Just Not into You, Indie Developer](https://www.gamedeveloper.com/blogs/unity-s-just-not-into-you-indie-developer)
 * [2023-09-17, 14:17:52](https://news.ycombinator.com/item?id=37545313) - [Close to 2k Environmental Activists Killed over Last Decade](https://e360.yale.edu/digest/environmental-defenders-murdered-2022)
-* [2023-09-17, 14:13:05](https://news.ycombinator.com/item?id=37545269) - [So you think Linux is safe from NSA backdoors? You couldn't be more wrong](https://www.pangulab.cn/en/post/the_bvp47_a_top-tier_backdoor_of_us_nsa_equation_group/)
 * [2023-09-17, 13:52:52](https://news.ycombinator.com/item?id=37545071) - [Comp.lang.c is now full of spam from Google Groups](https://groups.google.com/g/comp.lang.c)
 * [2023-09-17, 13:49:11](https://news.ycombinator.com/item?id=37545040) - [Changing the Rules of Rust](https://without.boats/blog/changing-the-rules-of-rust/)
-* [2023-09-17, 13:47:32](https://news.ycombinator.com/item?id=37545023) - [Brein Tracks Down and Settles with Usenet Uploaders](https://torrentfreak.com/brein-tracks-down-and-settles-with-usenet-uploaders-230916/)
 * [2023-09-17, 13:31:38](https://news.ycombinator.com/item?id=37544881) - [Whistleblower CISO says PennState lied about IT security to win $2B from US gov](https://www.centredaily.com/news/local/education/penn-state/article278868069.html)
 * [2023-09-17, 13:03:12](https://news.ycombinator.com/item?id=37544628) - [Linear Book Scanner – The open-source automatic book scanner](https://linearbookscanner.org/)
 * [2023-09-17, 11:57:42](https://news.ycombinator.com/item?id=37544097) - [Qualcomm: What is RISC-V, and why we're unlocking its potential](https://www.qualcomm.com/news/onq/2023/09/what-is-risc-v-and-why-were-unlocking-its-potential)

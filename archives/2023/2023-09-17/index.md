@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-17](index.md)
 
+* [2023-09-17, 14:29:55](https://news.ycombinator.com/item?id=37545412) - [Brazil will hit 49c in September this year](https://news.ycombinator.com/item?id=37545412)
+* [2023-09-17, 14:26:57](https://news.ycombinator.com/item?id=37545384) - [More writers sue OpenAI for copyright infringement over AI training](https://www.reuters.com/technology/more-writers-sue-openai-copyright-infringement-over-ai-training-2023-09-11/)
 * [2023-09-17, 14:20:17](https://news.ycombinator.com/item?id=37545328) - [Unity's Just Not into You, Indie Developer](https://www.gamedeveloper.com/blogs/unity-s-just-not-into-you-indie-developer)
 * [2023-09-17, 14:17:52](https://news.ycombinator.com/item?id=37545313) - [Close to 2k Environmental Activists Killed over Last Decade](https://e360.yale.edu/digest/environmental-defenders-murdered-2022)
 * [2023-09-17, 14:13:05](https://news.ycombinator.com/item?id=37545269) - [So you think Linux is safe from NSA backdoors? You couldn't be more wrong](https://www.pangulab.cn/en/post/the_bvp47_a_top-tier_backdoor_of_us_nsa_equation_group/)
