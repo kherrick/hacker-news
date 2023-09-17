@@ -53,6 +53,7 @@
 * [2023-09-15, 15:49:09](https://news.ycombinator.com/item?id=37524890) - [Optimizing LLMs from a Dataset Perspective](https://sebastianraschka.com/blog/2023/optimizing-LLMs-dataset-perspective.html)
 * [2023-09-15, 15:37:59](https://news.ycombinator.com/item?id=37524686) - [Artificial intelligence can revolutionise science](https://www.economist.com/leaders/2023/09/14/how-artificial-intelligence-can-revolutionise-science)
 * [2023-09-15, 15:15:41](https://news.ycombinator.com/item?id=37524331) - [Repeat after me: building any new homes reduces housing costs for all](https://www.ft.com/content/86836af4-6b52-49e8-a8f0-8aec6181dbc5)
+* [2023-09-15, 15:11:56](https://news.ycombinator.com/item?id=37524285) - [Apocalypse Proof: 33 Thomas Street in New York City](https://placesjournal.org/article/33-thomas-street-and-conspiracy-thrillers/)
 * [2023-09-15, 15:11:04](https://news.ycombinator.com/item?id=37524275) - [United flight descends 28,000 feet in 8 minutes for ‘pressurization issue’](https://www.cnn.com/travel/article/united-airlines-flight-drops-pressurization/index.html)
 * [2023-09-15, 15:06:42](https://news.ycombinator.com/item?id=37524202) - [Show HN: Shrinkflation Tracker](https://www.shrinkflation.io/)
 * [2023-09-15, 15:04:22](https://news.ycombinator.com/item?id=37524169) - [Introduction to Hilbert Space [pdf]](https://www.cphysics.org/article/90771.pdf)

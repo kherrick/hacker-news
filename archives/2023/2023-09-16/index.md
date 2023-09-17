@@ -34,6 +34,7 @@
 * [2023-09-16, 16:31:09](https://news.ycombinator.com/item?id=37536263) - [Vegas casinos are still reeling from a massive cyberattack](https://www.fastcompany.com/90954120/vegas-casinos-are-still-reeling-from-a-massive-cyberattack)
 * [2023-09-16, 16:24:30](https://news.ycombinator.com/item?id=37536190) - [Single-bladed floating wind turbine promises half the cost, more power](https://newatlas.com/energy/touchwind-floating-wind-turbine/)
 * [2023-09-16, 16:16:23](https://news.ycombinator.com/item?id=37536103) - [The Next Gen Database Servers Powering Let's Encrypt(2021)](https://letsencrypt.org/2021/01/21/next-gen-database-servers.html)
+* [2023-09-16, 16:09:34](https://news.ycombinator.com/item?id=37536031) - [A New Age of Magic](https://vineeth.io/posts/2023/new-age-of-magic/)
 * [2023-09-16, 16:08:05](https://news.ycombinator.com/item?id=37536016) - [Generative Image Dynamics](https://generative-dynamics.github.io/)
 * [2023-09-16, 15:57:12](https://news.ycombinator.com/item?id=37535910) - [Unity's Self-Combustion Engine](https://www.gamesindustry.biz/unitys-self-combustion-engine-this-week-in-business)
 * [2023-09-16, 15:46:39](https://news.ycombinator.com/item?id=37535814) - [Peter Higgs: I wouldn't be productive enough for today's academic system](https://www.theguardian.com/science/2013/dec/06/peter-higgs-boson-academic-system)
