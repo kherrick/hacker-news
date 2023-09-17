@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-17, 10:58:26](https://news.ycombinator.com/item?id=37543664) - [I hacked macOS CVE-2022-32947](https://asahilina.net/agx-exploit/)
 * [2023-09-17, 09:53:33](https://news.ycombinator.com/item?id=37543267) - [How the fentanyl crisis' fourth wave has hit every corner of the US](https://www.bbc.com/news/world-us-canada-66826895)
 * [2023-09-17, 08:19:58](https://news.ycombinator.com/item?id=37542733) - [Fireball over Iceland](https://apod.nasa.gov/apod/ap230916.html)
 * [2023-09-17, 06:30:37](https://news.ycombinator.com/item?id=37542117) - [A High Throughput B+tree for SIMD Architectures (2020) [pdf]](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf)
 * [2023-09-17, 06:06:34](https://news.ycombinator.com/item?id=37541994) - [Bounties Damage Open Source Projects](https://ziglang.org/news/bounties-damage-open-source-projects/)
 * [2023-09-17, 05:09:22](https://news.ycombinator.com/item?id=37541721) - [Are the Longevity Benefits of Acarbose Rooted in Its Role on the Gut Microbiota?](https://gethealthspan.com/blog/articles/acarbose-longevity-benefits-gut-microbiota/n3jokanbseg1f1apq7wt3/)
-* [2023-09-17, 05:03:16](https://news.ycombinator.com/item?id=37541685) - [So You Think You Know C? [pdf]](https://wordsandbuttons.online/SYTYKC.pdf)
 * [2023-09-17, 04:29:27](https://news.ycombinator.com/item?id=37541531) - [Tcherepnin: Basic Elements of My Musical Language](http://www.tcherepnin.com/alex/basic_elem3.htm)
 * [2023-09-17, 03:00:23](https://news.ycombinator.com/item?id=37541093) - [A look at Apple’s new Transformer-powered predictive text model](https://jackcook.com/2023/09/08/predictive-text.html)
 * [2023-09-17, 02:21:45](https://news.ycombinator.com/item?id=37540856) - [The Fossil Wrist PDA becomes a tiny Gopher client](http://oldvcr.blogspot.com/2023/09/the-fossil-wrist-pda-becomes-tiny.html)
