@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-17](index.md)
 
+* [2023-09-17, 11:57:42](https://news.ycombinator.com/item?id=37544097) - [Qualcomm: What is RISC-V, and why we're unlocking its potential](https://www.qualcomm.com/news/onq/2023/09/what-is-risc-v-and-why-were-unlocking-its-potential)
 * [2023-09-17, 11:48:36](https://news.ycombinator.com/item?id=37544019) - [Thinking in a foreign language improves decision-making](https://www.theguardian.com/science/2023/sep/17/how-learning-thinking-in-a-foreign-language-improves-decision-making)
 * [2023-09-17, 11:33:19](https://news.ycombinator.com/item?id=37543904) - [A trip to Dried-up Kakhovka Reservoir](https://www.spiegel.de/international/world/russia-s-scorched-earth-policy-in-ukraine-a-trip-to-the-dried-up-kakhovka-reservoir-a-992aef1d-f4a7-4fbf-84a2-74c5d93b6566)
 * [2023-09-17, 11:26:40](https://news.ycombinator.com/item?id=37543855) - [Unity's Trap](https://www.pentadact.com/2023-09-16-unitys-trap/)
