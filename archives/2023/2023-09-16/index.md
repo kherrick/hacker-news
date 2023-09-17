@@ -58,6 +58,7 @@
 * [2023-09-16, 13:05:47](https://news.ycombinator.com/item?id=37534451) - [Observations on Credit and Lending Practices in Ur III Mesopotamia (2004) [pdf]](https://www.sfu.ca/~poitras/jesho_UR_14.pdf)
 * [2023-09-16, 13:02:39](https://news.ycombinator.com/item?id=37534430) - [Bitwarden login down due to Azure outage](https://status.bitwarden.com/)
 * [2023-09-16, 12:46:32](https://news.ycombinator.com/item?id=37534330) - [Fixing the housing crisis is not rocket science. “Minneapolis has been build](https://twitter.com/scienceisstrat1/status/1702663125613301785)
+* [2023-09-16, 12:31:52](https://news.ycombinator.com/item?id=37534251) - [Stellar-mass black holes in the Hyades star cluster?](https://academic.oup.com/mnras/article/524/2/1965/7210551)
 * [2023-09-16, 12:24:42](https://news.ycombinator.com/item?id=37534204) - [Ask HN: How do you make time for side projects and Leetcode grinding](https://news.ycombinator.com/item?id=37534204)
 * [2023-09-16, 12:17:29](https://news.ycombinator.com/item?id=37534166) - [Boring Crypto, from Daniel J. Bernstein (2012) [pdf]](https://cr.yp.to/talks/2015.10.05/slides-djb-20151005-a4.pdf)
 * [2023-09-16, 12:00:30](https://news.ycombinator.com/item?id=37534050) - [Ploomber (YC W22) Is Hiring Software Engineers](https://www.ycombinator.com/companies/ploomber/jobs)
