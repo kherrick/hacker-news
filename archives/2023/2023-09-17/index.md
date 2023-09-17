@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-17](index.md)
 
+* [2023-09-17, 20:55:20](https://news.ycombinator.com/item?id=37549216) - [Large Language Models for Compiler Optimization](https://arxiv.org/abs/2309.07062)
 * [2023-09-17, 20:25:54](https://news.ycombinator.com/item?id=37548975) - [Homebrew Website Club](https://indieweb.org/Homebrew_Website_Club)
 * [2023-09-17, 20:17:21](https://news.ycombinator.com/item?id=37548903) - [The Data Science Manifesto](http://datasciencemanifesto.org/)
 * [2023-09-17, 20:17:07](https://news.ycombinator.com/item?id=37548900) - [Modder Turns Framework Laptop PCB into a Handheld Gaming PC](https://www.tomshardware.com/news/modder-turns-framework-laptop-pcb-into-a-handheld-gaming-pc)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-17, 20:55:20](https://news.ycombinator.com/item?id=37549216) - [Large Language Models for Compiler Optimization](https://arxiv.org/abs/2309.07062)
 * [2023-09-17, 20:25:54](https://news.ycombinator.com/item?id=37548975) - [Homebrew Website Club](https://indieweb.org/Homebrew_Website_Club)
 * [2023-09-17, 20:17:21](https://news.ycombinator.com/item?id=37548903) - [The Data Science Manifesto (2020)](http://datasciencemanifesto.org/)
 * [2023-09-17, 20:17:07](https://news.ycombinator.com/item?id=37548900) - [Modder Turns Framework Laptop PCB into a Handheld Gaming PC](https://www.tomshardware.com/news/modder-turns-framework-laptop-pcb-into-a-handheld-gaming-pc)
@@ -21,7 +22,6 @@
 * [2023-09-17, 13:03:12](https://news.ycombinator.com/item?id=37544628) - [Linear Book Scanner – Open-source automatic book scanner (2014)](https://linearbookscanner.org/)
 * [2023-09-17, 06:30:37](https://news.ycombinator.com/item?id=37542117) - [A High Throughput B+tree for SIMD Architectures (2020) [pdf]](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf)
 * [2023-09-16, 23:58:11](https://news.ycombinator.com/item?id=37540067) - [Insiders reveal problems at Upside Foods](https://www.wired.com/story/upside-foods-lab-grown-chicken/)
-* [2023-09-16, 16:09:34](https://news.ycombinator.com/item?id=37536031) - [A New Age of Magic](https://vineeth.io/posts/2023/new-age-of-magic/)
 * [2023-09-16, 11:23:40](https://news.ycombinator.com/item?id=37533832) - [Vaxbarn](https://vaxbarn.com/)
 * [2023-09-16, 10:31:36](https://news.ycombinator.com/item?id=37533597) - [Show HN: My demo for vector embeddings for the Earth's surface](https://www.louisquissetlabs.com/index.html)
 * [2023-09-16, 08:08:05](https://news.ycombinator.com/item?id=37532929) - [Nonograms - Japanese Crosswords](https://www.nonograms.org/)
