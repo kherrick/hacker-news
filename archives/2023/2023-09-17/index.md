@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-17](index.md)
 
+* [2023-09-17, 15:02:48](https://news.ycombinator.com/item?id=37545747) - [Inside the Trillion-Dollar Climate Solutions Industry](https://www.bloomberg.com/news/articles/2023-09-17/inside-the-trillion-dollar-climate-solutions-industry)
 * [2023-09-17, 14:37:37](https://news.ycombinator.com/item?id=37545474) - [Fewer workers, higher pay, robots: aerospace suppliers push automation](https://www.seattletimes.com/business/boeing-aerospace/fewer-workers-higher-pay-robots-aerospace-suppliers-push-automation/)
 * [2023-09-17, 14:32:34](https://news.ycombinator.com/item?id=37545430) - [DeepMind cofounder: Generative AI is just a phase. What’s next is interactive AI](https://www.technologyreview.com/2023/09/15/1079624/deepmind-inflection-generative-ai-whats-next-mustafa-suleyman/)
 * [2023-09-17, 14:29:55](https://news.ycombinator.com/item?id=37545412) - [Brazil will hit 49c in September this year](https://news.ycombinator.com/item?id=37545412)
