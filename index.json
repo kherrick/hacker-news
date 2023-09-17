@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2023-09-16, 16:16:23",
+      "https://news.ycombinator.com/item?id=37536103"
+    ],
+    [
+      "The database servers powering Let's Encrypt (2021)",
+      "https://letsencrypt.org/2021/01/21/next-gen-database-servers.html"
+    ]
+  ],
+  [
+    [
       "2023-09-16, 16:08:05",
       "https://news.ycombinator.com/item?id=37536016"
     ],
@@ -217,16 +227,6 @@
     [
       "Comp.sys.sinclair crap games competition (2021)",
       "https://www.rickdangerous.co.uk/csscgc2021/entries.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-16, 13:41:16",
-      "https://news.ycombinator.com/item?id=37534666"
-    ],
-    [
-      "static-server: an HTTP server in Go for static content",
-      "https://eli.thegreenplace.net/2023/static-server-an-http-server-in-go-for-static-content/"
     ]
   ],
   [
