@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-17, 18:00:08](https://news.ycombinator.com/item?id=37547717) - [Why Resumes Are Dead and How Indeed.com Keeps Killing the Job Market](https://paulfuhr.medium.com/how-indeed-com-keeps-killing-the-job-market-why-resumes-are-dead-a76ab2f5af)
 * [2023-09-17, 17:55:20](https://news.ycombinator.com/item?id=37547680) - [Turkish man arrested over posting photo to Reddit with alcohol in mosque](https://www.duvarenglish.com/turkish-man-arrested-over-posting-photo-with-alcoholic-beverage-in-mosque-news-63000)
 * [2023-09-17, 17:24:30](https://news.ycombinator.com/item?id=37547386) - [NASA's OSIRIS-REx asteroid sample return to Earth: Live updates](https://www.space.com/news/live/nasa-osiris-rex-asteroid-bennu-sample-return-updates)
 * [2023-09-17, 16:56:04](https://news.ycombinator.com/item?id=37547099) - [LaTeX for publishing tabletop role-playing games](https://vladar.bearblog.dev/latex-for-tabletop/)
@@ -18,7 +19,6 @@
 * [2023-09-17, 08:19:58](https://news.ycombinator.com/item?id=37542733) - [Fireball over Iceland](https://apod.nasa.gov/apod/ap230916.html)
 * [2023-09-17, 06:30:37](https://news.ycombinator.com/item?id=37542117) - [A High Throughput B+tree for SIMD Architectures (2020) [pdf]](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf)
 * [2023-09-17, 05:03:16](https://news.ycombinator.com/item?id=37541685) - [So You Think You Know C? (2020) [pdf]](https://wordsandbuttons.online/SYTYKC.pdf)
-* [2023-09-17, 04:29:27](https://news.ycombinator.com/item?id=37541531) - [Tcherepnin: Basic Elements of My Musical Language](http://www.tcherepnin.com/alex/basic_elem3.htm)
 * [2023-09-17, 03:00:23](https://news.ycombinator.com/item?id=37541093) - [Apple’s new Transformer-powered predictive text model](https://jackcook.com/2023/09/08/predictive-text.html)
 * [2023-09-17, 02:21:45](https://news.ycombinator.com/item?id=37540856) - [The Fossil Wrist PDA becomes a tiny Gopher client](http://oldvcr.blogspot.com/2023/09/the-fossil-wrist-pda-becomes-tiny.html)
 * [2023-09-16, 16:09:34](https://news.ycombinator.com/item?id=37536031) - [A New Age of Magic](https://vineeth.io/posts/2023/new-age-of-magic/)

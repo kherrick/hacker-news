@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-17](index.md)
 
+* [2023-09-17, 18:00:08](https://news.ycombinator.com/item?id=37547717) - [Why Resumes Are Dead and How Indeed.com Keeps Killing the Job Market](https://paulfuhr.medium.com/how-indeed-com-keeps-killing-the-job-market-why-resumes-are-dead-a76ab2f5af)
 * [2023-09-17, 17:55:20](https://news.ycombinator.com/item?id=37547680) - [Turkish man arrested over posting photo to Reddit with alcohol in mosque](https://www.duvarenglish.com/turkish-man-arrested-over-posting-photo-with-alcoholic-beverage-in-mosque-news-63000)
 * [2023-09-17, 17:24:30](https://news.ycombinator.com/item?id=37547386) - [NASA's OSIRIS-REx asteroid sample return to Earth: Live updates](https://www.space.com/news/live/nasa-osiris-rex-asteroid-bennu-sample-return-updates)
 * [2023-09-17, 16:56:04](https://news.ycombinator.com/item?id=37547099) - [LaTeX for publishing tabletop role-playing games](https://vladar.bearblog.dev/latex-for-tabletop/)
