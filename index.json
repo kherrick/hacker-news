@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-09-17, 20:17:07",
+      "https://news.ycombinator.com/item?id=37548900"
+    ],
+    [
+      "Modder Turns Framework Laptop PCB into a Handheld Gaming PC",
+      "https://www.tomshardware.com/news/modder-turns-framework-laptop-pcb-into-a-handheld-gaming-pc"
+    ]
+  ],
+  [
+    [
+      "2023-09-17, 19:44:50",
+      "https://news.ycombinator.com/item?id=37548639"
+    ],
+    [
+      "Infrastructure Manager: Provision Google Cloud Resources with Terraform",
+      "https://cloud.google.com/blog/products/management-tools/introducing-infrastructure-manager-powered-by-terraform/"
+    ]
+  ],
+  [
+    [
+      "2023-09-17, 19:32:33",
+      "https://news.ycombinator.com/item?id=37548551"
+    ],
+    [
+      "Will Cyber Security Be Replaced by AI?",
+      "https://blog.edned.net/will-ai-replace-cyber-security/"
+    ]
+  ],
+  [
+    [
       "2023-09-17, 19:26:53",
       "https://news.ycombinator.com/item?id=37548482"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2023-09-17, 15:52:58",
-      "https://news.ycombinator.com/item?id=37546397"
-    ],
-    [
-      "Get a Rabbit: Book reviews about statistics",
-      "https://www.lrb.co.uk/the-paper/v45/n18/john-lanchester/get-a-rabbit"
-    ]
-  ],
-  [
-    [
       "2023-09-17, 15:49:14",
       "https://news.ycombinator.com/item?id=37546350"
     ],
@@ -141,32 +161,12 @@
   ],
   [
     [
-      "2023-09-17, 13:49:11",
-      "https://news.ycombinator.com/item?id=37545040"
-    ],
-    [
-      "Changing the Rules of Rust",
-      "https://without.boats/blog/changing-the-rules-of-rust/"
-    ]
-  ],
-  [
-    [
       "2023-09-17, 13:03:12",
       "https://news.ycombinator.com/item?id=37544628"
     ],
     [
       "Linear Book Scanner – Open-source automatic book scanner (2014)",
       "https://linearbookscanner.org/"
-    ]
-  ],
-  [
-    [
-      "2023-09-17, 11:29:30",
-      "https://news.ycombinator.com/item?id=37543883"
-    ],
-    [
-      "Eating Fossils",
-      "https://www.palass.org/publications/newsletter/eating-fossils"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2023-09-17, 02:21:45",
-      "https://news.ycombinator.com/item?id=37540856"
-    ],
-    [
-      "The Fossil Wrist PDA becomes a tiny Gopher client",
-      "http://oldvcr.blogspot.com/2023/09/the-fossil-wrist-pda-becomes-tiny.html"
-    ]
-  ],
-  [
-    [
       "2023-09-16, 23:58:11",
       "https://news.ycombinator.com/item?id=37540067"
     ],
@@ -217,6 +207,16 @@
     [
       "A New Age of Magic",
       "https://vineeth.io/posts/2023/new-age-of-magic/"
+    ]
+  ],
+  [
+    [
+      "2023-09-16, 11:23:40",
+      "https://news.ycombinator.com/item?id=37533832"
+    ],
+    [
+      "Vaxbarn",
+      "https://vaxbarn.com/"
     ]
   ],
   [
