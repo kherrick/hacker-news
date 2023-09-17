@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-17, 05:09:22](https://news.ycombinator.com/item?id=37541721) - [Are the Longevity Benefits of Acarbose Rooted in Its Role on the Gut Microbiota?](https://gethealthspan.com/blog/articles/acarbose-longevity-benefits-gut-microbiota/n3jokanbseg1f1apq7wt3/)
+* [2023-09-17, 04:59:55](https://news.ycombinator.com/item?id=37541668) - [We’re in a productivity crisis, according to 52 years of data](https://medium.com/accelerated-intelligence/were-in-a-productivity-crisis-according-to-52-years-of-data-things-could-get-really-bad-5c7e53242a0)
 * [2023-09-17, 03:44:21](https://news.ycombinator.com/item?id=37541315) - [California woman loses limbs after battling bacterial infection from tilapia](https://www.kron4.com/news/bay-area/san-jose-woman-loses-limbs-battling-bacterial-infection-from-tilapia/)
 * [2023-09-17, 03:00:23](https://news.ycombinator.com/item?id=37541093) - [A look at Apple’s new Transformer-powered predictive text model](https://jackcook.com/2023/09/08/predictive-text.html)
 * [2023-09-17, 02:21:45](https://news.ycombinator.com/item?id=37540856) - [The Fossil Wrist PDA becomes a tiny Gopher client](http://oldvcr.blogspot.com/2023/09/the-fossil-wrist-pda-becomes-tiny.html)
@@ -20,8 +22,6 @@
 * [2023-09-16, 16:08:05](https://news.ycombinator.com/item?id=37536016) - [Generative Image Dynamics](https://generative-dynamics.github.io/)
 * [2023-09-16, 15:35:38](https://news.ycombinator.com/item?id=37535702) - [How to Escape the Startup Trough of Sorrow](https://www.briefmix.com/startup/positioning)
 * [2023-09-16, 15:18:46](https://news.ycombinator.com/item?id=37535537) - [Cystic fibrosis treatment wins Breakthrough Prize](https://www.nature.com/articles/d41586-023-02890-1)
-* [2023-09-16, 15:06:41](https://news.ycombinator.com/item?id=37535431) - [Wireless electrical–molecular quantum signalling for cancer cell apoptosis](https://www.nature.com/articles/s41565-023-01496-y)
-* [2023-09-16, 14:59:10](https://news.ycombinator.com/item?id=37535350) - [A Different Type of SQL Recursion with PostgreSQL](https://github.com/vb-consulting/blog/discussions/1)
 * [2023-09-16, 13:31:48](https://news.ycombinator.com/item?id=37534615) - [Horcrux: Split your file into encrypted fragments](https://github.com/jesseduffield/horcrux)
 * [2023-09-16, 12:31:52](https://news.ycombinator.com/item?id=37534251) - [Stellar-mass black holes in the Hyades star cluster?](https://academic.oup.com/mnras/article/524/2/1965/7210551)
 * [2023-09-16, 10:10:37](https://news.ycombinator.com/item?id=37533487) - [Percy Ludgate](https://en.wikipedia.org/wiki/Percy_Ludgate)

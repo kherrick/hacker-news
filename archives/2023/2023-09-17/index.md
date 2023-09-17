@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-17](index.md)
 
+* [2023-09-17, 05:09:22](https://news.ycombinator.com/item?id=37541721) - [Are the Longevity Benefits of Acarbose Rooted in Its Role on the Gut Microbiota?](https://gethealthspan.com/blog/articles/acarbose-longevity-benefits-gut-microbiota/n3jokanbseg1f1apq7wt3/)
+* [2023-09-17, 04:59:55](https://news.ycombinator.com/item?id=37541668) - [We’re in a productivity crisis, according to 52 years of data](https://medium.com/accelerated-intelligence/were-in-a-productivity-crisis-according-to-52-years-of-data-things-could-get-really-bad-5c7e53242a0)
 * [2023-09-17, 03:44:21](https://news.ycombinator.com/item?id=37541315) - [California woman loses limbs after battling bacterial infection from tilapia](https://www.kron4.com/news/bay-area/san-jose-woman-loses-limbs-battling-bacterial-infection-from-tilapia/)
 * [2023-09-17, 03:00:23](https://news.ycombinator.com/item?id=37541093) - [A look at Apple’s new Transformer-powered predictive text model](https://jackcook.com/2023/09/08/predictive-text.html)
 * [2023-09-17, 02:21:45](https://news.ycombinator.com/item?id=37540856) - [The Fossil Wrist PDA becomes a tiny Gopher client](http://oldvcr.blogspot.com/2023/09/the-fossil-wrist-pda-becomes-tiny.html)
