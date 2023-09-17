@@ -85,6 +85,7 @@
 * [2023-09-14, 07:28:57](https://news.ycombinator.com/item?id=37506028) - [Painting with Math: A Gentle Study of Raymarching](https://blog.maximeheckel.com/posts/painting-with-math-a-gentle-study-of-raymarching/)
 * [2023-09-14, 06:54:22](https://news.ycombinator.com/item?id=37505798) - [How Far Back in Time Can I Take My Website's Design?](https://ajxs.me/blog/How_Far_Back_in_Time_Can_I_Take_My_Websites_Design.html)
 * [2023-09-14, 06:33:10](https://news.ycombinator.com/item?id=37505687) - [A Comprehensive Guide for Building Rag-Based LLM Applications](https://github.com/ray-project/llm-applications/blob/main/notebooks/rag.ipynb)
+* [2023-09-14, 06:27:29](https://news.ycombinator.com/item?id=37505646) - [The Gods of the Copybook Headings](https://en.wikipedia.org/wiki/The_Gods_of_the_Copybook_Headings)
 * [2023-09-14, 06:22:40](https://news.ycombinator.com/item?id=37505606) - [What to expect from upvotes on Hacker News](https://antonz.org/hn-upvotes/)
 * [2023-09-14, 06:14:10](https://news.ycombinator.com/item?id=37505553) - [The easy way to concurrency and parallelism with Python stdlib](https://www.bitecode.dev/p/the-easy-way-to-concurrency-and-parallelism)
 * [2023-09-14, 06:11:48](https://news.ycombinator.com/item?id=37505539) - [Stanford is a platform](https://miles.land/posts/stanford-is-a-platform/)
