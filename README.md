@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-17, 06:30:37](https://news.ycombinator.com/item?id=37542117) - [A High Throughput B+tree for SIMD Architectures [pdf]](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf)
+* [2023-09-17, 06:56:08](https://news.ycombinator.com/item?id=37542236) - [What Silicon Valley “Gets” about Software Engineers](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/)
+* [2023-09-17, 06:30:37](https://news.ycombinator.com/item?id=37542117) - [A High Throughput B+tree for SIMD Architectures (2020) [pdf]](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf)
 * [2023-09-17, 05:09:22](https://news.ycombinator.com/item?id=37541721) - [Are the Longevity Benefits of Acarbose Rooted in Its Role on the Gut Microbiota?](https://gethealthspan.com/blog/articles/acarbose-longevity-benefits-gut-microbiota/n3jokanbseg1f1apq7wt3/)
-* [2023-09-17, 04:59:55](https://news.ycombinator.com/item?id=37541668) - [We’re in a productivity crisis, according to 52 years of data](https://medium.com/accelerated-intelligence/were-in-a-productivity-crisis-according-to-52-years-of-data-things-could-get-really-bad-5c7e53242a0)
 * [2023-09-17, 03:31:10](https://news.ycombinator.com/item?id=37541243) - [Americas richest 10% is responsible for 40% of its planet heating pollution](https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000190)
 * [2023-09-17, 03:00:23](https://news.ycombinator.com/item?id=37541093) - [A look at Apple’s new Transformer-powered predictive text model](https://jackcook.com/2023/09/08/predictive-text.html)
 * [2023-09-17, 02:21:45](https://news.ycombinator.com/item?id=37540856) - [The Fossil Wrist PDA becomes a tiny Gopher client](http://oldvcr.blogspot.com/2023/09/the-fossil-wrist-pda-becomes-tiny.html)
