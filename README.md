@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-17, 16:56:04](https://news.ycombinator.com/item?id=37547099) - [LaTeX for publishing tabletop role-playing games](https://vladar.bearblog.dev/latex-for-tabletop/)
 * [2023-09-17, 16:34:29](https://news.ycombinator.com/item?id=37546874) - [CatalaLang/catala: Programming language for law specification](https://github.com/CatalaLang/catala)
 * [2023-09-17, 16:26:48](https://news.ycombinator.com/item?id=37546766) - [Things that do not exist in Dimension Apple](https://maxread.substack.com/p/a-literary-history-of-fake-texts)
 * [2023-09-17, 16:20:08](https://news.ycombinator.com/item?id=37546689) - [Browsing like it's 1994: Integrating a Mac SE, ImageWriter II into a modern LAN](https://connor.zip/posts/2023-08-04-localtalk-ethernet)
@@ -7,11 +8,9 @@
 * [2023-09-17, 15:49:14](https://news.ycombinator.com/item?id=37546350) - [Grabbing Dinner](https://gardenandgun.com/feature/grabbing-dinner/)
 * [2023-09-17, 15:41:26](https://news.ycombinator.com/item?id=37546255) - [Tech Independence](https://sive.rs/ti)
 * [2023-09-17, 15:40:42](https://news.ycombinator.com/item?id=37546241) - [How the Mac didn’t bring programming to the people](https://eclecticlight.co/2023/09/16/how-the-mac-didnt-bring-programming-to-the-people/)
-* [2023-09-17, 14:32:34](https://news.ycombinator.com/item?id=37545430) - [DeepMind cofounder: Generative AI is just a phase. What’s next is interactive AI](https://www.technologyreview.com/2023/09/15/1079624/deepmind-inflection-generative-ai-whats-next-mustafa-suleyman/)
-* [2023-09-17, 14:17:52](https://news.ycombinator.com/item?id=37545313) - [Close to 2k environmental activists killed over last decade](https://e360.yale.edu/digest/environmental-defenders-murdered-2022)
 * [2023-09-17, 13:52:52](https://news.ycombinator.com/item?id=37545071) - [Comp.lang.c is now full of spam](https://groups.google.com/g/comp.lang.c)
 * [2023-09-17, 13:49:11](https://news.ycombinator.com/item?id=37545040) - [Changing the Rules of Rust](https://without.boats/blog/changing-the-rules-of-rust/)
-* [2023-09-17, 13:03:12](https://news.ycombinator.com/item?id=37544628) - [Linear Book Scanner – Open-source automatic book scanner](https://linearbookscanner.org/)
+* [2023-09-17, 13:03:12](https://news.ycombinator.com/item?id=37544628) - [Linear Book Scanner – Open-source automatic book scanner (2014)](https://linearbookscanner.org/)
 * [2023-09-17, 11:48:36](https://news.ycombinator.com/item?id=37544019) - [Thinking in a foreign language improves decision-making](https://www.theguardian.com/science/2023/sep/17/how-learning-thinking-in-a-foreign-language-improves-decision-making)
 * [2023-09-17, 11:29:30](https://news.ycombinator.com/item?id=37543883) - [Eating Fossils](https://www.palass.org/publications/newsletter/eating-fossils)
 * [2023-09-17, 10:58:26](https://news.ycombinator.com/item?id=37543664) - [I hacked macOS](https://asahilina.net/agx-exploit/)
@@ -28,6 +27,7 @@
 * [2023-09-16, 08:08:05](https://news.ycombinator.com/item?id=37532929) - [Nonograms - Japanese Crosswords](https://www.nonograms.org/)
 * [2023-09-16, 07:40:27](https://news.ycombinator.com/item?id=37532794) - [The Sound Proof Booths of Silence](https://www.dota2.com/newsentry/3675555405719286536)
 * [2023-09-16, 07:28:48](https://news.ycombinator.com/item?id=37532736) - [How HTTPS Works (2018)](https://howhttps.works)
+* [2023-09-16, 06:45:15](https://news.ycombinator.com/item?id=37532560) - [Simple Drawings with Mathematica](https://leancrew.com/all-this/2023/09/simple-drawings-with-mathematica/)
 * [2023-09-15, 15:11:56](https://news.ycombinator.com/item?id=37524285) - [Apocalypse Proof: 33 Thomas Street in New York City](https://placesjournal.org/article/33-thomas-street-and-conspiracy-thrillers/)
 * [2023-09-14, 06:27:29](https://news.ycombinator.com/item?id=37505646) - [The Gods of the Copybook Headings](https://en.wikipedia.org/wiki/The_Gods_of_the_Copybook_Headings)
 

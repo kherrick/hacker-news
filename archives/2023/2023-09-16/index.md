@@ -81,6 +81,7 @@
 * [2023-09-16, 07:28:48](https://news.ycombinator.com/item?id=37532736) - [How HTTPS Works](https://howhttps.works)
 * [2023-09-16, 07:00:11](https://news.ycombinator.com/item?id=37532618) - [Converge (YC S23) is hiring a founding product engineer](https://www.ycombinator.com/companies/converge/jobs/vc4Nbeh-founding-product-engineer)
 * [2023-09-16, 06:49:54](https://news.ycombinator.com/item?id=37532584) - [Pongs](https://pippinbarr.com/pongs/info/)
+* [2023-09-16, 06:45:15](https://news.ycombinator.com/item?id=37532560) - [Simple Drawings with Mathematica](https://leancrew.com/all-this/2023/09/simple-drawings-with-mathematica/)
 * [2023-09-16, 06:33:31](https://news.ycombinator.com/item?id=37532522) - [GPT-4 is not getting worse (tests and a long rant)](https://coagulopath.com/gpt-4-is-not-getting-worse/)
 * [2023-09-16, 05:51:24](https://news.ycombinator.com/item?id=37532355) - [How Instagram scaled to 14 million users with only 3 engineers](https://engineercodex.substack.com/p/how-instagram-scaled-to-14-million)
 * [2023-09-16, 05:35:32](https://news.ycombinator.com/item?id=37532299) - [Birth Order (1999) [pdf]](http://www.sulloway.org/BirthOrder-Sulloway-1999a.pdf)
