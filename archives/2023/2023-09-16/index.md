@@ -64,6 +64,7 @@
 * [2023-09-16, 12:24:42](https://news.ycombinator.com/item?id=37534204) - [Ask HN: How do you make time for side projects and Leetcode grinding](https://news.ycombinator.com/item?id=37534204)
 * [2023-09-16, 12:17:29](https://news.ycombinator.com/item?id=37534166) - [Boring Crypto, from Daniel J. Bernstein (2012) [pdf]](https://cr.yp.to/talks/2015.10.05/slides-djb-20151005-a4.pdf)
 * [2023-09-16, 12:00:30](https://news.ycombinator.com/item?id=37534050) - [Ploomber (YC W22) Is Hiring Software Engineers](https://www.ycombinator.com/companies/ploomber/jobs)
+* [2023-09-16, 11:23:40](https://news.ycombinator.com/item?id=37533832) - [Vaxbarn](https://vaxbarn.com/)
 * [2023-09-16, 11:16:14](https://news.ycombinator.com/item?id=37533795) - [7 simple habits of the top 1% of engineers](https://engineercodex.substack.com/p/7-simple-habits-of-the-top-1-of-engineers)
 * [2023-09-16, 11:08:29](https://news.ycombinator.com/item?id=37533747) - [BtrBlocks: Efficient Columnar Compression for Data Lakes [pdf]](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrblocks.pdf)
 * [2023-09-16, 10:31:36](https://news.ycombinator.com/item?id=37533597) - [Show HN: My demo for vector embeddings for the Earth's surface](https://www.louisquissetlabs.com/index.html)
