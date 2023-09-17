@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-17, 08:46:08](https://news.ycombinator.com/item?id=37542895) - [Stay Away from Politics](https://www.lrb.co.uk/the-paper/v45/n18/william-davies/stay-away-from-politics)
 * [2023-09-17, 07:41:25](https://news.ycombinator.com/item?id=37542499) - [Antarctic sea-ice at 'mind-blowing' low alarms experts](https://www.bbc.co.uk/news/science-environment-66724246)
 * [2023-09-17, 06:56:08](https://news.ycombinator.com/item?id=37542236) - [What Silicon Valley “Gets” about Software Engineers](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/)
 * [2023-09-17, 06:30:37](https://news.ycombinator.com/item?id=37542117) - [A High Throughput B+tree for SIMD Architectures (2020) [pdf]](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf)
@@ -13,7 +14,6 @@
 * [2023-09-17, 01:00:57](https://news.ycombinator.com/item?id=37540445) - [Gym Class VR (YC W22) Is Hiring a Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer)
 * [2023-09-17, 00:03:00](https://news.ycombinator.com/item?id=37540109) - [Spellburst: LLM–Powered Interactive Canvas](https://arxiv.org/abs/2308.03921)
 * [2023-09-16, 23:03:09](https://news.ycombinator.com/item?id=37539686) - [AMD’s Phoenix SoC](https://chipsandcheese.com/2023/09/16/hot-chips-2023-amds-phoenix-soc/)
-* [2023-09-16, 22:27:08](https://news.ycombinator.com/item?id=37539410) - [“I want to use this tactically vs. GOOG/AAPL” (2022)](https://twitter.com/TechEmails/status/1703172745893404913)
 * [2023-09-16, 21:32:40](https://news.ycombinator.com/item?id=37538914) - [America's advanced manufacturing problem and how to fix it](https://americanaffairsjournal.org/2023/08/americas-advanced-manufacturing-problem-and-how-to-fix-it/)
 * [2023-09-16, 20:21:56](https://news.ycombinator.com/item?id=37538350) - [Guidance: A guidance language for controlling large language models](https://github.com/guidance-ai/guidance)
 * [2023-09-16, 19:48:15](https://news.ycombinator.com/item?id=37538028) - [Show HN: Every Breath You Take – Heart Rate Variability Training](https://github.com/kbre93/every-breath-you-take)
