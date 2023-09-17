@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=37543726"
     ],
     [
-      "New York Times Doesn’t Want Its Stories Archived",
+      "New York Times doesn’t want its stories archived",
       "https://theintercept.com/2023/09/17/new-york-times-website-internet-archive/"
     ]
   ],
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-09-16, 22:27:08",
+      "https://news.ycombinator.com/item?id=37539410"
+    ],
+    [
+      "“I want to use this tactically vs. GOOG/AAPL” (2022)",
+      "https://twitter.com/TechEmails/status/1703172745893404913"
+    ]
+  ],
+  [
+    [
       "2023-09-16, 21:32:40",
       "https://news.ycombinator.com/item?id=37538914"
     ],
@@ -187,6 +197,16 @@
     [
       "Guidance: A guidance language for controlling large language models",
       "https://github.com/guidance-ai/guidance"
+    ]
+  ],
+  [
+    [
+      "2023-09-16, 20:20:15",
+      "https://news.ycombinator.com/item?id=37538333"
+    ],
+    [
+      "Java 21 makes me like Java again",
+      "https://wscp.dev/posts/tech/java-pattern-matching/"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2023-09-16, 16:59:30",
-      "https://news.ycombinator.com/item?id=37536503"
-    ],
-    [
-      "Epistemological problem of emergence in complex systems (2018) [pdf]",
-      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6207336/pdf/pone.0206489.pdf"
-    ]
-  ],
-  [
-    [
       "2023-09-16, 16:08:05",
       "https://news.ycombinator.com/item?id=37536016"
     ],
@@ -251,22 +261,12 @@
   ],
   [
     [
-      "2023-09-16, 13:31:48",
-      "https://news.ycombinator.com/item?id=37534615"
+      "2023-09-16, 07:40:27",
+      "https://news.ycombinator.com/item?id=37532794"
     ],
     [
-      "Horcrux: Split your file into encrypted fragments",
-      "https://github.com/jesseduffield/horcrux"
-    ]
-  ],
-  [
-    [
-      "2023-09-16, 10:10:37",
-      "https://news.ycombinator.com/item?id=37533487"
-    ],
-    [
-      "Percy Ludgate",
-      "https://en.wikipedia.org/wiki/Percy_Ludgate"
+      "How Valve built soundproof booths",
+      "https://www.dota2.com/newsentry/3675555405719286536"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2023-09-15, 21:21:44",
-      "https://news.ycombinator.com/item?id=37529284"
-    ],
-    [
-      "The Early Days of American English",
-      "https://www.laphamsquarterly.org/roundtable/early-days-american-english"
-    ]
-  ],
-  [
-    [
       "2023-09-15, 14:16:54",
       "https://news.ycombinator.com/item?id=37523314"
     ],
     [
       "New camera offers ultrafast imaging at a fraction of the normal cost",
       "https://phys.org/news/2023-09-camera-ultrafast-imaging-fraction.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-14, 06:11:48",
+      "https://news.ycombinator.com/item?id=37505539"
+    ],
+    [
+      "Stanford is a platform",
+      "https://miles.land/posts/stanford-is-a-platform/"
     ]
   ]
 ]
