@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-17, 16:00:03](https://news.ycombinator.com/item?id=37546468) - [Show HN: Stripe Destroyed Our Business after 7 months of building our product](https://news.ycombinator.com/item?id=37546468)
-* [2023-09-17, 15:02:48](https://news.ycombinator.com/item?id=37545747) - [Inside the Trillion-Dollar Climate Solutions Industry](https://www.bloomberg.com/news/articles/2023-09-17/inside-the-trillion-dollar-climate-solutions-industry)
+* [2023-09-17, 16:26:48](https://news.ycombinator.com/item?id=37546766) - [Things that do not exist in Dimension Apple](https://maxread.substack.com/p/a-literary-history-of-fake-texts)
+* [2023-09-17, 16:20:08](https://news.ycombinator.com/item?id=37546689) - [Browsing like it's 1994: Integrating a Mac SE, ImageWriter II into a modern LAN](https://connor.zip/posts/2023-08-04-localtalk-ethernet)
+* [2023-09-17, 15:52:08](https://news.ycombinator.com/item?id=37546381) - [The Eunuch Admiral (2011)](https://alumni.berkeley.edu/california-magazine/fall-2011-the-good-fight/eunuch-admiral/)
 * [2023-09-17, 14:32:34](https://news.ycombinator.com/item?id=37545430) - [DeepMind cofounder: Generative AI is just a phase. What’s next is interactive AI](https://www.technologyreview.com/2023/09/15/1079624/deepmind-inflection-generative-ai-whats-next-mustafa-suleyman/)
 * [2023-09-17, 14:26:57](https://news.ycombinator.com/item?id=37545384) - [More writers sue OpenAI for copyright infringement over AI training](https://www.reuters.com/technology/more-writers-sue-openai-copyright-infringement-over-ai-training-2023-09-11/)
 * [2023-09-17, 14:17:52](https://news.ycombinator.com/item?id=37545313) - [Close to 2k environmental activists killed over last decade](https://e360.yale.edu/digest/environmental-defenders-murdered-2022)
@@ -22,7 +23,6 @@
 * [2023-09-17, 02:05:19](https://news.ycombinator.com/item?id=37540770) - [Breakfast cereal is in long-term decline](https://www.wsj.com/finance/investing/cereal-decline-breakfast-trend-6dd591e8)
 * [2023-09-17, 01:00:57](https://news.ycombinator.com/item?id=37540445) - [Gym Class VR (YC W22) Is Hiring a Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer)
 * [2023-09-16, 16:09:34](https://news.ycombinator.com/item?id=37536031) - [A New Age of Magic](https://vineeth.io/posts/2023/new-age-of-magic/)
-* [2023-09-16, 16:08:05](https://news.ycombinator.com/item?id=37536016) - [Generative Image Dynamics](https://generative-dynamics.github.io/)
 * [2023-09-16, 10:31:36](https://news.ycombinator.com/item?id=37533597) - [Show HN: My demo for vector embeddings for the Earth's surface](https://www.louisquissetlabs.com/index.html)
 * [2023-09-16, 08:08:05](https://news.ycombinator.com/item?id=37532929) - [Nonograms - Japanese Crosswords](https://www.nonograms.org/)
 * [2023-09-16, 07:40:27](https://news.ycombinator.com/item?id=37532794) - [The Sound Proof Booths of Silence](https://www.dota2.com/newsentry/3675555405719286536)
