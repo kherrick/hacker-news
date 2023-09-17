@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-17, 19:26:53](https://news.ycombinator.com/item?id=37548482) - [USA built 151 Aircraft carriers in WWII](https://en.wikipedia.org/wiki/Escort_carrier)
 * [2023-09-17, 19:16:34](https://news.ycombinator.com/item?id=37548402) - [Running Linux on Xilinx / AMD FPGA Softcore Example Design](https://www.hackster.io/adam-taylor/embedded-linux-on-microblaze-1a7573)
 * [2023-09-17, 19:06:13](https://news.ycombinator.com/item?id=37548319) - [Lead Toxicity from Ayurvedic Medicines](https://www.cmaj.ca/content/195/30/E1010)
 * [2023-09-17, 17:24:30](https://news.ycombinator.com/item?id=37547386) - [NASA's OSIRIS-REx asteroid sample return to Earth: Live updates](https://www.space.com/news/live/nasa-osiris-rex-asteroid-bennu-sample-return-updates)
@@ -10,7 +11,6 @@
 * [2023-09-17, 16:20:08](https://news.ycombinator.com/item?id=37546689) - [Browsing like it's 1994: Integrating a Mac SE, ImageWriter II into a modern LAN](https://connor.zip/posts/2023-08-04-localtalk-ethernet)
 * [2023-09-17, 16:00:06](https://news.ycombinator.com/item?id=37546469) - [Chili Oil Notes](https://uptointerpretation.com/posts/chili-oil-notes/)
 * [2023-09-17, 15:52:58](https://news.ycombinator.com/item?id=37546397) - [Get a Rabbit: Book reviews about statistics](https://www.lrb.co.uk/the-paper/v45/n18/john-lanchester/get-a-rabbit)
-* [2023-09-17, 15:52:08](https://news.ycombinator.com/item?id=37546381) - [The Eunuch Admiral (2011)](https://alumni.berkeley.edu/california-magazine/fall-2011-the-good-fight/eunuch-admiral/)
 * [2023-09-17, 15:49:14](https://news.ycombinator.com/item?id=37546350) - [Grabbing Dinner](https://gardenandgun.com/feature/grabbing-dinner/)
 * [2023-09-17, 15:41:26](https://news.ycombinator.com/item?id=37546255) - [Tech Independence](https://sive.rs/ti)
 * [2023-09-17, 15:40:42](https://news.ycombinator.com/item?id=37546241) - [How the Mac didn’t bring programming to the people](https://eclecticlight.co/2023/09/16/how-the-mac-didnt-bring-programming-to-the-people/)

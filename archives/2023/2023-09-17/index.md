@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-17](index.md)
 
+* [2023-09-17, 19:26:53](https://news.ycombinator.com/item?id=37548482) - [USA built 151 Aircraft carriers in WWII](https://en.wikipedia.org/wiki/Escort_carrier)
 * [2023-09-17, 19:16:34](https://news.ycombinator.com/item?id=37548402) - [Running Linux on Xilinx / AMD FPGA Softcore Example Design](https://www.hackster.io/adam-taylor/embedded-linux-on-microblaze-1a7573)
 * [2023-09-17, 19:06:13](https://news.ycombinator.com/item?id=37548319) - [Lead Toxicity from Ayurvedic Medicines](https://www.cmaj.ca/content/195/30/E1010)
 * [2023-09-17, 18:50:05](https://news.ycombinator.com/item?id=37548176) - [What do we do with the Twitter-shaped hole in the internet?](https://chelseatroy.com/2023/09/15/what-do-we-do-with-the-twitter-shaped-hole-in-the-internet/)
