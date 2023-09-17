@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-17](index.md)
 
 * [2023-09-17, 03:00:23](https://news.ycombinator.com/item?id=37541093) - [A look at Apple’s new Transformer-powered predictive text model](https://jackcook.com/2023/09/08/predictive-text.html)
+* [2023-09-17, 02:21:45](https://news.ycombinator.com/item?id=37540856) - [The Fossil Wrist PDA becomes a tiny Gopher client](http://oldvcr.blogspot.com/2023/09/the-fossil-wrist-pda-becomes-tiny.html)
 * [2023-09-17, 02:08:48](https://news.ycombinator.com/item?id=37540790) - [Ask HN: Do I need AWS? Or am I thinking this wrong?](https://news.ycombinator.com/item?id=37540790)
 * [2023-09-17, 02:05:19](https://news.ycombinator.com/item?id=37540770) - [It’s the Breakfast of Champions No More: Cereal Is in Long-Term Decline](https://www.wsj.com/finance/investing/cereal-decline-breakfast-trend-6dd591e8)
 * [2023-09-17, 01:19:46](https://news.ycombinator.com/item?id=37540529) - [Pirates of the Caribbean (Metric Edition)](https://www.nist.gov/blogs/taking-measure/pirates-caribbean-metric-edition)
