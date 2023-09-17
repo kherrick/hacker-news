@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-17, 11:33:19](https://news.ycombinator.com/item?id=37543904) - [A trip to Dried-up Kakhovka Reservoir](https://www.spiegel.de/international/world/russia-s-scorched-earth-policy-in-ukraine-a-trip-to-the-dried-up-kakhovka-reservoir-a-992aef1d-f4a7-4fbf-84a2-74c5d93b6566)
+* [2023-09-17, 11:26:40](https://news.ycombinator.com/item?id=37543855) - [Unity's Trap](https://www.pentadact.com/2023-09-16-unitys-trap/)
 * [2023-09-17, 10:58:26](https://news.ycombinator.com/item?id=37543664) - [I hacked macOS CVE-2022-32947](https://asahilina.net/agx-exploit/)
 * [2023-09-17, 09:53:33](https://news.ycombinator.com/item?id=37543267) - [How the fentanyl crisis' fourth wave has hit every corner of the US](https://www.bbc.com/news/world-us-canada-66826895)
 * [2023-09-17, 08:19:58](https://news.ycombinator.com/item?id=37542733) - [Fireball over Iceland](https://apod.nasa.gov/apod/ap230916.html)
@@ -17,7 +19,6 @@
 * [2023-09-16, 21:32:40](https://news.ycombinator.com/item?id=37538914) - [America's advanced manufacturing problem and how to fix it](https://americanaffairsjournal.org/2023/08/americas-advanced-manufacturing-problem-and-how-to-fix-it/)
 * [2023-09-16, 20:21:56](https://news.ycombinator.com/item?id=37538350) - [Guidance: A guidance language for controlling large language models](https://github.com/guidance-ai/guidance)
 * [2023-09-16, 19:48:15](https://news.ycombinator.com/item?id=37538028) - [Show HN: Every Breath You Take – Heart Rate Variability Training](https://github.com/kbre93/every-breath-you-take)
-* [2023-09-16, 19:26:02](https://news.ycombinator.com/item?id=37537870) - [Dlarc Amateur Radio Library Tops 90k Items](https://blog.archive.org/2023/09/12/dlarc-90000/)
 * [2023-09-16, 19:07:55](https://news.ycombinator.com/item?id=37537689) - [Running one’s own root Certificate Authority in 2023](https://wejn.org/2023/09/running-ones-own-root-certificate-authority-in-2023/)
 * [2023-09-16, 18:44:26](https://news.ycombinator.com/item?id=37537443) - [Don't be afraid to be wrong](https://nlopes.dev/writing/dont-be-afraid-to-be-wrong)
 * [2023-09-16, 16:59:30](https://news.ycombinator.com/item?id=37536503) - [Epistemological problem of emergence in complex systems (2018) [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6207336/pdf/pone.0206489.pdf)
@@ -26,7 +27,6 @@
 * [2023-09-16, 13:31:48](https://news.ycombinator.com/item?id=37534615) - [Horcrux: Split your file into encrypted fragments](https://github.com/jesseduffield/horcrux)
 * [2023-09-16, 10:10:37](https://news.ycombinator.com/item?id=37533487) - [Percy Ludgate](https://en.wikipedia.org/wiki/Percy_Ludgate)
 * [2023-09-16, 08:16:54](https://news.ycombinator.com/item?id=37532973) - [Tracking Austrian grocery prices by scraping store sites](https://mastodon.gamedev.place/@badlogic/111071396799790275)
-* [2023-09-16, 02:55:14](https://news.ycombinator.com/item?id=37531602) - [Streaming is changing the sound of music](https://www.wsj.com/arts-culture/music/streaming-is-changing-the-sound-of-music-182dc907)
 * [2023-09-15, 23:07:56](https://news.ycombinator.com/item?id=37530158) - [Formatting text in C++: Old and new ways](https://mariusbancila.ro/blog/2023/09/12/formatting-text-in-c-the-old-and-the-new-ways/)
 * [2023-09-15, 21:21:44](https://news.ycombinator.com/item?id=37529284) - [The Early Days of American English](https://www.laphamsquarterly.org/roundtable/early-days-american-english)
 * [2023-09-15, 14:16:54](https://news.ycombinator.com/item?id=37523314) - [New camera offers ultrafast imaging at a fraction of the normal cost](https://phys.org/news/2023-09-camera-ultrafast-imaging-fraction.html)
