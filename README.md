@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-17, 06:56:08](https://news.ycombinator.com/item?id=37542236) - [What Silicon Valley “Gets” about Software Engineers](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/)
 * [2023-09-17, 06:30:37](https://news.ycombinator.com/item?id=37542117) - [A High Throughput B+tree for SIMD Architectures [pdf]](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf)
 * [2023-09-17, 05:09:22](https://news.ycombinator.com/item?id=37541721) - [Are the Longevity Benefits of Acarbose Rooted in Its Role on the Gut Microbiota?](https://gethealthspan.com/blog/articles/acarbose-longevity-benefits-gut-microbiota/n3jokanbseg1f1apq7wt3/)
 * [2023-09-17, 04:59:55](https://news.ycombinator.com/item?id=37541668) - [We’re in a productivity crisis, according to 52 years of data](https://medium.com/accelerated-intelligence/were-in-a-productivity-crisis-according-to-52-years-of-data-things-could-get-really-bad-5c7e53242a0)
@@ -18,7 +19,6 @@
 * [2023-09-16, 19:07:55](https://news.ycombinator.com/item?id=37537689) - [Running one’s own root Certificate Authority in 2023](https://wejn.org/2023/09/running-ones-own-root-certificate-authority-in-2023/)
 * [2023-09-16, 18:44:26](https://news.ycombinator.com/item?id=37537443) - [Don't be afraid to be wrong](https://nlopes.dev/writing/dont-be-afraid-to-be-wrong)
 * [2023-09-16, 16:59:30](https://news.ycombinator.com/item?id=37536503) - [Epistemological problem of emergence in complex systems (2018) [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6207336/pdf/pone.0206489.pdf)
-* [2023-09-16, 16:16:23](https://news.ycombinator.com/item?id=37536103) - [The database servers powering Let's Encrypt (2021)](https://letsencrypt.org/2021/01/21/next-gen-database-servers.html)
 * [2023-09-16, 16:08:05](https://news.ycombinator.com/item?id=37536016) - [Generative Image Dynamics](https://generative-dynamics.github.io/)
 * [2023-09-16, 15:35:38](https://news.ycombinator.com/item?id=37535702) - [How to Escape the Startup Trough of Sorrow](https://www.briefmix.com/startup/positioning)
 * [2023-09-16, 15:18:46](https://news.ycombinator.com/item?id=37535537) - [Cystic fibrosis treatment wins Breakthrough Prize](https://www.nature.com/articles/d41586-023-02890-1)
