@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-17](index.md)
 
+* [2023-09-17, 18:50:05](https://news.ycombinator.com/item?id=37548176) - [What do we do with the Twitter-shaped hole in the internet?](https://chelseatroy.com/2023/09/15/what-do-we-do-with-the-twitter-shaped-hole-in-the-internet/)
 * [2023-09-17, 18:12:40](https://news.ycombinator.com/item?id=37547830) - [UK’s largest steelworks given £500M to decarbonise](https://eandt.theiet.org/content/articles/2023/09/uk-s-largest-steelworks-given-500m-to-decarbonise-but-3000-jobs-could-be-lost/)
 * [2023-09-17, 18:00:08](https://news.ycombinator.com/item?id=37547717) - [Why Resumes Are Dead and How Indeed.com Keeps Killing the Job Market](https://paulfuhr.medium.com/how-indeed-com-keeps-killing-the-job-market-why-resumes-are-dead-a76ab2f5af)
 * [2023-09-17, 17:55:20](https://news.ycombinator.com/item?id=37547680) - [Turkish man arrested over posting photo to Reddit with alcohol in mosque](https://www.duvarenglish.com/turkish-man-arrested-over-posting-photo-with-alcoholic-beverage-in-mosque-news-63000)

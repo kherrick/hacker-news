@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-17, 18:50:05](https://news.ycombinator.com/item?id=37548176) - [What do we do with the Twitter-shaped hole in the internet?](https://chelseatroy.com/2023/09/15/what-do-we-do-with-the-twitter-shaped-hole-in-the-internet/)
 * [2023-09-17, 18:12:40](https://news.ycombinator.com/item?id=37547830) - [UK’s largest steelworks given £500M to decarbonise](https://eandt.theiet.org/content/articles/2023/09/uk-s-largest-steelworks-given-500m-to-decarbonise-but-3000-jobs-could-be-lost/)
 * [2023-09-17, 18:00:08](https://news.ycombinator.com/item?id=37547717) - [Why Resumes Are Dead and How Indeed.com Keeps Killing the Job Market](https://paulfuhr.medium.com/how-indeed-com-keeps-killing-the-job-market-why-resumes-are-dead-a76ab2f5af)
 * [2023-09-17, 17:24:30](https://news.ycombinator.com/item?id=37547386) - [NASA's OSIRIS-REx asteroid sample return to Earth: Live updates](https://www.space.com/news/live/nasa-osiris-rex-asteroid-bennu-sample-return-updates)
@@ -16,7 +17,6 @@
 * [2023-09-17, 13:49:11](https://news.ycombinator.com/item?id=37545040) - [Changing the Rules of Rust](https://without.boats/blog/changing-the-rules-of-rust/)
 * [2023-09-17, 13:03:12](https://news.ycombinator.com/item?id=37544628) - [Linear Book Scanner – Open-source automatic book scanner (2014)](https://linearbookscanner.org/)
 * [2023-09-17, 11:48:36](https://news.ycombinator.com/item?id=37544019) - [Thinking in a foreign language improves decision-making](https://www.theguardian.com/science/2023/sep/17/how-learning-thinking-in-a-foreign-language-improves-decision-making)
-* [2023-09-17, 11:29:30](https://news.ycombinator.com/item?id=37543883) - [Eating Fossils](https://www.palass.org/publications/newsletter/eating-fossils)
 * [2023-09-17, 10:58:26](https://news.ycombinator.com/item?id=37543664) - [I hacked macOS](https://asahilina.net/agx-exploit/)
 * [2023-09-17, 06:30:37](https://news.ycombinator.com/item?id=37542117) - [A High Throughput B+tree for SIMD Architectures (2020) [pdf]](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf)
 * [2023-09-17, 05:03:16](https://news.ycombinator.com/item?id=37541685) - [So You Think You Know C? (2020) [pdf]](https://wordsandbuttons.online/SYTYKC.pdf)
