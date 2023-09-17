@@ -87,6 +87,7 @@
 * [2023-09-14, 06:33:10](https://news.ycombinator.com/item?id=37505687) - [A Comprehensive Guide for Building Rag-Based LLM Applications](https://github.com/ray-project/llm-applications/blob/main/notebooks/rag.ipynb)
 * [2023-09-14, 06:22:40](https://news.ycombinator.com/item?id=37505606) - [What to expect from upvotes on Hacker News](https://antonz.org/hn-upvotes/)
 * [2023-09-14, 06:14:10](https://news.ycombinator.com/item?id=37505553) - [The easy way to concurrency and parallelism with Python stdlib](https://www.bitecode.dev/p/the-easy-way-to-concurrency-and-parallelism)
+* [2023-09-14, 06:11:48](https://news.ycombinator.com/item?id=37505539) - [Stanford is a platform](https://miles.land/posts/stanford-is-a-platform/)
 * [2023-09-14, 05:47:20](https://news.ycombinator.com/item?id=37505422) - [Electric Hydrogen reveals first firm order for its unique 100MW electrolyser](https://www.hydrogeninsight.com/innovation/secretive-bill-gates-backed-start-up-electric-hydrogen-reveals-first-firm-order-for-its-unique-100mw-electrolyser/2-1-1517514?zephr_sso_ott=JVoRmi)
 * [2023-09-14, 05:03:31](https://news.ycombinator.com/item?id=37505168) - [SpaceX projected 20M Starlink users by 2022–it ended up with 1M](https://arstechnica.com/tech-policy/2023/09/spacex-projected-20-million-starlink-users-by-2022-it-ended-up-with-1-million/)
 * [2023-09-14, 03:41:55](https://news.ycombinator.com/item?id=37504720) - [Early response to false claims in Wikipedia, 15 years later](https://firstmonday.org/ojs/index.php/fm/article/view/12912/11332)
