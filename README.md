@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-17, 14:17:52](https://news.ycombinator.com/item?id=37545313) - [Close to 2k Environmental Activists Killed over Last Decade](https://e360.yale.edu/digest/environmental-defenders-murdered-2022)
 * [2023-09-17, 13:52:52](https://news.ycombinator.com/item?id=37545071) - [Comp.lang.c is now full of spam from Google Groups](https://groups.google.com/g/comp.lang.c)
 * [2023-09-17, 13:49:11](https://news.ycombinator.com/item?id=37545040) - [Changing the Rules of Rust](https://without.boats/blog/changing-the-rules-of-rust/)
 * [2023-09-17, 13:03:12](https://news.ycombinator.com/item?id=37544628) - [Linear Book Scanner – The open-source automatic book scanner](https://linearbookscanner.org/)
@@ -15,7 +16,6 @@
 * [2023-09-17, 04:29:27](https://news.ycombinator.com/item?id=37541531) - [Tcherepnin: Basic Elements of My Musical Language](http://www.tcherepnin.com/alex/basic_elem3.htm)
 * [2023-09-17, 03:00:23](https://news.ycombinator.com/item?id=37541093) - [A look at Apple’s new Transformer-powered predictive text model](https://jackcook.com/2023/09/08/predictive-text.html)
 * [2023-09-17, 02:05:19](https://news.ycombinator.com/item?id=37540770) - [Breakfast cereal is in long-term decline](https://www.wsj.com/finance/investing/cereal-decline-breakfast-trend-6dd591e8)
-* [2023-09-17, 01:19:46](https://news.ycombinator.com/item?id=37540529) - [Pirates of the Caribbean (Metric Edition) (2017)](https://www.nist.gov/blogs/taking-measure/pirates-caribbean-metric-edition)
 * [2023-09-17, 01:00:57](https://news.ycombinator.com/item?id=37540445) - [Gym Class VR (YC W22) Is Hiring a Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer)
 * [2023-09-16, 23:03:09](https://news.ycombinator.com/item?id=37539686) - [AMD’s Phoenix SoC](https://chipsandcheese.com/2023/09/16/hot-chips-2023-amds-phoenix-soc/)
 * [2023-09-16, 21:32:40](https://news.ycombinator.com/item?id=37538914) - [America's advanced manufacturing problem and how to fix it](https://americanaffairsjournal.org/2023/08/americas-advanced-manufacturing-problem-and-how-to-fix-it/)

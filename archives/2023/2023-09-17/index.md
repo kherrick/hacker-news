@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-17](index.md)
 
+* [2023-09-17, 14:17:52](https://news.ycombinator.com/item?id=37545313) - [Close to 2k Environmental Activists Killed over Last Decade](https://e360.yale.edu/digest/environmental-defenders-murdered-2022)
 * [2023-09-17, 13:52:52](https://news.ycombinator.com/item?id=37545071) - [Comp.lang.c is now full of spam from Google Groups](https://groups.google.com/g/comp.lang.c)
 * [2023-09-17, 13:49:11](https://news.ycombinator.com/item?id=37545040) - [Changing the Rules of Rust](https://without.boats/blog/changing-the-rules-of-rust/)
 * [2023-09-17, 13:03:12](https://news.ycombinator.com/item?id=37544628) - [Linear Book Scanner – The open-source automatic book scanner](https://linearbookscanner.org/)
