@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-17, 10:22:06](https://news.ycombinator.com/item?id=37543468) - [Hyprland Is a Toxic Community](https://drewdevault.com/2023/09/17/Hyprland-toxicity.html)
 * [2023-09-17, 08:19:58](https://news.ycombinator.com/item?id=37542733) - [Fireball over Iceland](https://apod.nasa.gov/apod/ap230916.html)
-* [2023-09-17, 07:41:25](https://news.ycombinator.com/item?id=37542499) - [Antarctic sea-ice at 'mind-blowing' low alarms experts](https://www.bbc.co.uk/news/science-environment-66724246)
 * [2023-09-17, 06:30:37](https://news.ycombinator.com/item?id=37542117) - [A High Throughput B+tree for SIMD Architectures (2020) [pdf]](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf)
 * [2023-09-17, 06:06:34](https://news.ycombinator.com/item?id=37541994) - [Bounties Damage Open Source Projects](https://ziglang.org/news/bounties-damage-open-source-projects/)
 * [2023-09-17, 05:09:22](https://news.ycombinator.com/item?id=37541721) - [Are the Longevity Benefits of Acarbose Rooted in Its Role on the Gut Microbiota?](https://gethealthspan.com/blog/articles/acarbose-longevity-benefits-gut-microbiota/n3jokanbseg1f1apq7wt3/)
@@ -21,7 +19,9 @@
 * [2023-09-16, 19:07:55](https://news.ycombinator.com/item?id=37537689) - [Running one’s own root Certificate Authority in 2023](https://wejn.org/2023/09/running-ones-own-root-certificate-authority-in-2023/)
 * [2023-09-16, 18:44:26](https://news.ycombinator.com/item?id=37537443) - [Don't be afraid to be wrong](https://nlopes.dev/writing/dont-be-afraid-to-be-wrong)
 * [2023-09-16, 16:59:30](https://news.ycombinator.com/item?id=37536503) - [Epistemological problem of emergence in complex systems (2018) [pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6207336/pdf/pone.0206489.pdf)
+* [2023-09-16, 16:16:23](https://news.ycombinator.com/item?id=37536103) - [The database servers powering Let's Encrypt (2021)](https://letsencrypt.org/2021/01/21/next-gen-database-servers.html)
 * [2023-09-16, 16:08:05](https://news.ycombinator.com/item?id=37536016) - [Generative Image Dynamics](https://generative-dynamics.github.io/)
+* [2023-09-16, 15:35:38](https://news.ycombinator.com/item?id=37535702) - [How to Escape the Startup Trough of Sorrow](https://www.briefmix.com/startup/positioning)
 * [2023-09-16, 15:18:46](https://news.ycombinator.com/item?id=37535537) - [Cystic fibrosis treatment wins Breakthrough Prize](https://www.nature.com/articles/d41586-023-02890-1)
 * [2023-09-16, 13:31:48](https://news.ycombinator.com/item?id=37534615) - [Horcrux: Split your file into encrypted fragments](https://github.com/jesseduffield/horcrux)
 * [2023-09-16, 10:10:37](https://news.ycombinator.com/item?id=37533487) - [Percy Ludgate](https://en.wikipedia.org/wiki/Percy_Ludgate)
