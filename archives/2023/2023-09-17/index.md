@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-17](index.md)
 
+* [2023-09-17, 06:30:37](https://news.ycombinator.com/item?id=37542117) - [A High Throughput B+tree for SIMD Architectures [pdf]](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf)
 * [2023-09-17, 06:00:34](https://news.ycombinator.com/item?id=37541963) - [Developers fight back against Unity’s new pricing model](https://www.theverge.com/2023/9/15/23875396/unity-mobile-developers-ad-monetization-tos-changes)
 * [2023-09-17, 05:09:22](https://news.ycombinator.com/item?id=37541721) - [Are the Longevity Benefits of Acarbose Rooted in Its Role on the Gut Microbiota?](https://gethealthspan.com/blog/articles/acarbose-longevity-benefits-gut-microbiota/n3jokanbseg1f1apq7wt3/)
 * [2023-09-17, 04:59:55](https://news.ycombinator.com/item?id=37541668) - [We’re in a productivity crisis, according to 52 years of data](https://medium.com/accelerated-intelligence/were-in-a-productivity-crisis-according-to-52-years-of-data-things-could-get-really-bad-5c7e53242a0)
