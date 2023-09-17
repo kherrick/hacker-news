@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-17, 18:12:40](https://news.ycombinator.com/item?id=37547830) - [UK’s largest steelworks given £500M to decarbonise](https://eandt.theiet.org/content/articles/2023/09/uk-s-largest-steelworks-given-500m-to-decarbonise-but-3000-jobs-could-be-lost/)
 * [2023-09-17, 18:00:08](https://news.ycombinator.com/item?id=37547717) - [Why Resumes Are Dead and How Indeed.com Keeps Killing the Job Market](https://paulfuhr.medium.com/how-indeed-com-keeps-killing-the-job-market-why-resumes-are-dead-a76ab2f5af)
 * [2023-09-17, 17:55:20](https://news.ycombinator.com/item?id=37547680) - [Turkish man arrested over posting photo to Reddit with alcohol in mosque](https://www.duvarenglish.com/turkish-man-arrested-over-posting-photo-with-alcoholic-beverage-in-mosque-news-63000)
 * [2023-09-17, 17:24:30](https://news.ycombinator.com/item?id=37547386) - [NASA's OSIRIS-REx asteroid sample return to Earth: Live updates](https://www.space.com/news/live/nasa-osiris-rex-asteroid-bennu-sample-return-updates)
@@ -29,7 +30,6 @@
 * [2023-09-16, 06:45:15](https://news.ycombinator.com/item?id=37532560) - [Simple Drawings with Mathematica](https://leancrew.com/all-this/2023/09/simple-drawings-with-mathematica/)
 * [2023-09-16, 06:14:33](https://news.ycombinator.com/item?id=37532426) - [Hexadecimal clock counting down to 2038 problem](https://retr0.id/stuff/2038/)
 * [2023-09-15, 15:11:56](https://news.ycombinator.com/item?id=37524285) - [Apocalypse Proof: 33 Thomas Street in New York City](https://placesjournal.org/article/33-thomas-street-and-conspiracy-thrillers/)
-* [2023-09-14, 06:27:29](https://news.ycombinator.com/item?id=37505646) - [The Gods of the Copybook Headings](https://en.wikipedia.org/wiki/The_Gods_of_the_Copybook_Headings)
 
 ## [Archives](archives/index.md)
 
