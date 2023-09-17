@@ -2,10 +2,10 @@
 
 * [2023-09-17, 23:22:08](https://news.ycombinator.com/item?id=37550353) - [Unity: We Have Heard You](https://twitter.com/unity/status/1703547752205218265?s=46&t=7KCNnmJt82xcCKEkZnoUTQ)
 * [2023-09-17, 22:00:59](https://news.ycombinator.com/item?id=37549745) - [AWS IPv4 Estate Now Worth $4.5B](https://toonk.io/index.html)
-* [2023-09-17, 21:23:26](https://news.ycombinator.com/item?id=37549480) - [Geographic ‘hot spots’ for cigarette and firearm deaths in the U.S.](https://www.fau.edu/newsdesk/articles/geographic-hot-spots-firearms-smoking.php)
 * [2023-09-17, 21:00:55](https://news.ycombinator.com/item?id=37549259) - [Hush – Noiseless Browsing for Safari](https://oblador.github.io/hush/)
 * [2023-09-17, 20:55:20](https://news.ycombinator.com/item?id=37549216) - [Large Language Models for Compiler Optimization](https://arxiv.org/abs/2309.07062)
 * [2023-09-17, 20:25:54](https://news.ycombinator.com/item?id=37548975) - [Homebrew Website Club](https://indieweb.org/Homebrew_Website_Club)
+* [2023-09-17, 20:25:12](https://news.ycombinator.com/item?id=37548970) - [Wasmer – Run, Publish and Deploy any code, anywhere](https://wasmer.io/)
 * [2023-09-17, 20:17:21](https://news.ycombinator.com/item?id=37548903) - [The Data Science Manifesto (2020)](http://datasciencemanifesto.org/)
 * [2023-09-17, 20:17:07](https://news.ycombinator.com/item?id=37548900) - [Modder Turns Framework Laptop PCB into a Handheld Gaming PC](https://www.tomshardware.com/news/modder-turns-framework-laptop-pcb-into-a-handheld-gaming-pc)
 * [2023-09-17, 19:55:01](https://news.ycombinator.com/item?id=37548732) - [Vintage Apple](https://vintageapple.org/)
