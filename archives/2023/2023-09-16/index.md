@@ -74,6 +74,7 @@
 * [2023-09-16, 08:52:37](https://news.ycombinator.com/item?id=37533130) - [A Pre-Release Version of IBM PC-DOS from June 1981, Also Called DOS 0.90 (2021)](https://thestarman.pcministry.com/DOS/ibm090/)
 * [2023-09-16, 08:47:23](https://news.ycombinator.com/item?id=37533103) - [Why Ugly Architecture Is Bad for Your Health](https://www.architecturaluprising.com/studies/why-ugly-architecture-is-bad-for-your-health/)
 * [2023-09-16, 08:16:54](https://news.ycombinator.com/item?id=37532973) - [Tracking Austrian grocery prices by scraping store sites](https://mastodon.gamedev.place/@badlogic/111071396799790275)
+* [2023-09-16, 08:08:05](https://news.ycombinator.com/item?id=37532929) - [Nonograms - Japanese Crosswords](https://www.nonograms.org/)
 * [2023-09-16, 07:40:27](https://news.ycombinator.com/item?id=37532794) - [How Valve built soundproof booths](https://www.dota2.com/newsentry/3675555405719286536)
 * [2023-09-16, 07:28:48](https://news.ycombinator.com/item?id=37532736) - [How HTTPS Works](https://howhttps.works)
 * [2023-09-16, 07:00:11](https://news.ycombinator.com/item?id=37532618) - [Converge (YC S23) is hiring a founding product engineer](https://www.ycombinator.com/companies/converge/jobs/vc4Nbeh-founding-product-engineer)

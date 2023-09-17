@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-17](index.md)
 
+* [2023-09-17, 14:37:37](https://news.ycombinator.com/item?id=37545474) - [Fewer workers, higher pay, robots: aerospace suppliers push automation](https://www.seattletimes.com/business/boeing-aerospace/fewer-workers-higher-pay-robots-aerospace-suppliers-push-automation/)
+* [2023-09-17, 14:32:34](https://news.ycombinator.com/item?id=37545430) - [DeepMind cofounder: Generative AI is just a phase. What’s next is interactive AI](https://www.technologyreview.com/2023/09/15/1079624/deepmind-inflection-generative-ai-whats-next-mustafa-suleyman/)
 * [2023-09-17, 14:29:55](https://news.ycombinator.com/item?id=37545412) - [Brazil will hit 49c in September this year](https://news.ycombinator.com/item?id=37545412)
 * [2023-09-17, 14:26:57](https://news.ycombinator.com/item?id=37545384) - [More writers sue OpenAI for copyright infringement over AI training](https://www.reuters.com/technology/more-writers-sue-openai-copyright-infringement-over-ai-training-2023-09-11/)
 * [2023-09-17, 14:20:17](https://news.ycombinator.com/item?id=37545328) - [Unity's Just Not into You, Indie Developer](https://www.gamedeveloper.com/blogs/unity-s-just-not-into-you-indie-developer)
