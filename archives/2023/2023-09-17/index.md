@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-17](index.md)
 
+* [2023-09-17, 22:00:59](https://news.ycombinator.com/item?id=37549745) - [AWS IPv4 Estate Now Worth $4.5B](https://toonk.io/index.html)
 * [2023-09-17, 21:35:24](https://news.ycombinator.com/item?id=37549578) - [Illinois to become first US state to abolish cash bail](https://www.ft.com/content/b76a7787-fd9c-44de-b411-3bd67473df54)
 * [2023-09-17, 21:23:26](https://news.ycombinator.com/item?id=37549480) - [Geographic ‘hot spots’ for cigarette and firearm deaths in the U.S.](https://www.fau.edu/newsdesk/articles/geographic-hot-spots-firearms-smoking.php)
 * [2023-09-17, 21:00:55](https://news.ycombinator.com/item?id=37549259) - [Hush – Noiseless Browsing for Safari](https://oblador.github.io/hush/)
