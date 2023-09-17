@@ -10,7 +10,6 @@
 * [2023-09-17, 19:55:01](https://news.ycombinator.com/item?id=37548732) - [Vintage Apple](https://vintageapple.org/)
 * [2023-09-17, 19:53:58](https://news.ycombinator.com/item?id=37548720) - [Brian Bucklew Porting Caves of Qud from Unity to Godot](https://twitter.com/unormal/status/1703163364229161236)
 * [2023-09-17, 19:44:50](https://news.ycombinator.com/item?id=37548639) - [Infrastructure Manager: Provision Google Cloud Resources with Terraform](https://cloud.google.com/blog/products/management-tools/introducing-infrastructure-manager-powered-by-terraform/)
-* [2023-09-17, 19:32:33](https://news.ycombinator.com/item?id=37548551) - [Will Cyber Security Be Replaced by AI?](https://blog.edned.net/will-ai-replace-cyber-security/)
 * [2023-09-17, 19:16:34](https://news.ycombinator.com/item?id=37548402) - [Running Linux on Xilinx / AMD FPGA Softcore Example Design](https://www.hackster.io/adam-taylor/embedded-linux-on-microblaze-1a7573)
 * [2023-09-17, 16:56:04](https://news.ycombinator.com/item?id=37547099) - [LaTeX for tabletop](https://vladar.bearblog.dev/latex-for-tabletop/)
 * [2023-09-17, 16:34:29](https://news.ycombinator.com/item?id=37546874) - [CatalaLang/catala: Programming language for law specification](https://github.com/CatalaLang/catala)
@@ -20,6 +19,8 @@
 * [2023-09-17, 15:49:14](https://news.ycombinator.com/item?id=37546350) - [Grabbing Dinner](https://gardenandgun.com/feature/grabbing-dinner/)
 * [2023-09-17, 15:40:42](https://news.ycombinator.com/item?id=37546241) - [How the Mac didn’t bring programming to the people](https://eclecticlight.co/2023/09/16/how-the-mac-didnt-bring-programming-to-the-people/)
 * [2023-09-17, 13:03:12](https://news.ycombinator.com/item?id=37544628) - [Linear Book Scanner – Open-source automatic book scanner (2014)](https://linearbookscanner.org/)
+* [2023-09-16, 23:58:11](https://news.ycombinator.com/item?id=37540067) - [Insiders reveal problems at Upside Foods](https://www.wired.com/story/upside-foods-lab-grown-chicken/)
+* [2023-09-16, 16:09:34](https://news.ycombinator.com/item?id=37536031) - [A New Age of Magic](https://vineeth.io/posts/2023/new-age-of-magic/)
 * [2023-09-16, 11:23:40](https://news.ycombinator.com/item?id=37533832) - [Vaxbarn](https://vaxbarn.com/)
 * [2023-09-16, 10:31:36](https://news.ycombinator.com/item?id=37533597) - [Show HN: My demo for vector embeddings for the Earth's surface](https://www.louisquissetlabs.com/index.html)
 * [2023-09-16, 09:53:46](https://news.ycombinator.com/item?id=37533424) - [We've underrated what these birds can do: the secret life of Skomer’s guillemots](https://www.theguardian.com/environment/2023/sep/16/we-have-underrated-what-these-birds-can-do-the-secret-life-of-skomers-guillemots-tim-birkhead)
@@ -29,7 +30,6 @@
 * [2023-09-16, 06:14:33](https://news.ycombinator.com/item?id=37532426) - [Hexadecimal clock counting down to 2038 problem](https://retr0.id/stuff/2038/)
 * [2023-09-16, 06:04:13](https://news.ycombinator.com/item?id=37532397) - [Pineapple ONE: open-source 32 bit RISC-V CPU that you can make at home](https://pineapple-one.github.io/)
 * [2023-09-15, 15:11:56](https://news.ycombinator.com/item?id=37524285) - [Apocalypse Proof: 33 Thomas Street in New York City](https://placesjournal.org/article/33-thomas-street-and-conspiracy-thrillers/)
-* [2023-09-15, 12:46:54](https://news.ycombinator.com/item?id=37522132) - [Cardboard tents](https://www.cnn.com/ukmusicfestival-waste-cardboard-tents-sustainable-hnk-c2e-spc-intl/index.html)
 
 ## [Archives](archives/index.md)
 
