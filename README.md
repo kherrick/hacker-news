@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-17, 03:44:21](https://news.ycombinator.com/item?id=37541315) - [California woman loses limbs after battling bacterial infection from tilapia](https://www.kron4.com/news/bay-area/san-jose-woman-loses-limbs-battling-bacterial-infection-from-tilapia/)
 * [2023-09-17, 03:00:23](https://news.ycombinator.com/item?id=37541093) - [A look at Apple’s new Transformer-powered predictive text model](https://jackcook.com/2023/09/08/predictive-text.html)
 * [2023-09-17, 02:21:45](https://news.ycombinator.com/item?id=37540856) - [The Fossil Wrist PDA becomes a tiny Gopher client](http://oldvcr.blogspot.com/2023/09/the-fossil-wrist-pda-becomes-tiny.html)
-* [2023-09-17, 02:08:48](https://news.ycombinator.com/item?id=37540790) - [Ask HN: Do I need AWS? Or am I thinking this wrong?](https://news.ycombinator.com/item?id=37540790)
 * [2023-09-17, 01:19:46](https://news.ycombinator.com/item?id=37540529) - [Pirates of the Caribbean (Metric Edition) (2017)](https://www.nist.gov/blogs/taking-measure/pirates-caribbean-metric-edition)
 * [2023-09-17, 01:00:57](https://news.ycombinator.com/item?id=37540445) - [Gym Class VR (YC W22) Is Hiring a Lead Back End Engineer](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer)
 * [2023-09-17, 00:03:00](https://news.ycombinator.com/item?id=37540109) - [Spellburst: LLM–Powered Interactive Canvas](https://arxiv.org/abs/2308.03921)
