@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-17, 21:35:24](https://news.ycombinator.com/item?id=37549578) - [Illinois to become first US state to abolish cash bail](https://www.ft.com/content/b76a7787-fd9c-44de-b411-3bd67473df54)
 * [2023-09-17, 21:23:26](https://news.ycombinator.com/item?id=37549480) - [Geographic ‘hot spots’ for cigarette and firearm deaths in the U.S.](https://www.fau.edu/newsdesk/articles/geographic-hot-spots-firearms-smoking.php)
 * [2023-09-17, 21:00:55](https://news.ycombinator.com/item?id=37549259) - [Hush – Noiseless Browsing for Safari](https://oblador.github.io/hush/)
 * [2023-09-17, 20:55:20](https://news.ycombinator.com/item?id=37549216) - [Large Language Models for Compiler Optimization](https://arxiv.org/abs/2309.07062)
@@ -14,6 +13,7 @@
 * [2023-09-17, 16:56:04](https://news.ycombinator.com/item?id=37547099) - [LaTeX for tabletop](https://vladar.bearblog.dev/latex-for-tabletop/)
 * [2023-09-17, 16:34:29](https://news.ycombinator.com/item?id=37546874) - [CatalaLang/catala: Programming language for law specification](https://github.com/CatalaLang/catala)
 * [2023-09-17, 16:30:03](https://news.ycombinator.com/item?id=37546810) - [Run LLMs at home, BitTorrent‑style](https://petals.dev/)
+* [2023-09-17, 16:26:48](https://news.ycombinator.com/item?id=37546766) - [Things that do not exist in Dimension Apple](https://maxread.substack.com/p/a-literary-history-of-fake-texts)
 * [2023-09-17, 16:20:08](https://news.ycombinator.com/item?id=37546689) - [Browsing like it's 1994: Integrating a Mac SE, ImageWriter II into a modern LAN](https://connor.zip/posts/2023-08-04-localtalk-ethernet)
 * [2023-09-17, 16:00:06](https://news.ycombinator.com/item?id=37546469) - [Chili Oil Notes](https://uptointerpretation.com/posts/chili-oil-notes/)
 * [2023-09-17, 15:49:14](https://news.ycombinator.com/item?id=37546350) - [Grabbing Dinner](https://gardenandgun.com/feature/grabbing-dinner/)
