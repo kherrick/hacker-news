@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-09-17](index.md)
 
+* [2023-09-17, 17:55:20](https://news.ycombinator.com/item?id=37547680) - [Turkish man arrested over posting photo to Reddit with alcohol in mosque](https://www.duvarenglish.com/turkish-man-arrested-over-posting-photo-with-alcoholic-beverage-in-mosque-news-63000)
 * [2023-09-17, 17:24:30](https://news.ycombinator.com/item?id=37547386) - [NASA's OSIRIS-REx asteroid sample return to Earth: Live updates](https://www.space.com/news/live/nasa-osiris-rex-asteroid-bennu-sample-return-updates)
 * [2023-09-17, 16:56:04](https://news.ycombinator.com/item?id=37547099) - [LaTeX for publishing tabletop role-playing games](https://vladar.bearblog.dev/latex-for-tabletop/)
 * [2023-09-17, 16:50:16](https://news.ycombinator.com/item?id=37547046) - [New Study Identifies United States as 'Planet-Wrecker-in-Chief'](https://www.commondreams.org/news/united-states-planet-wrecker)
 * [2023-09-17, 16:34:29](https://news.ycombinator.com/item?id=37546874) - [CatalaLang/catala: Programming language for law specification](https://github.com/CatalaLang/catala)
 * [2023-09-17, 16:26:48](https://news.ycombinator.com/item?id=37546766) - [Things that do not exist in Dimension Apple](https://maxread.substack.com/p/a-literary-history-of-fake-texts)
 * [2023-09-17, 16:20:08](https://news.ycombinator.com/item?id=37546689) - [Browsing like it's 1994: Integrating a Mac SE, ImageWriter II into a modern LAN](https://connor.zip/posts/2023-08-04-localtalk-ethernet)
+* [2023-09-17, 16:00:06](https://news.ycombinator.com/item?id=37546469) - [Chili Oil Notes](https://uptointerpretation.com/posts/chili-oil-notes/)
 * [2023-09-17, 16:00:03](https://news.ycombinator.com/item?id=37546468) - [Show HN: Stripe Destroyed Our Business after 7 months of building our product](https://news.ycombinator.com/item?id=37546468)
 * [2023-09-17, 15:52:08](https://news.ycombinator.com/item?id=37546381) - [The Eunuch Admiral (2011)](https://alumni.berkeley.edu/california-magazine/fall-2011-the-good-fight/eunuch-admiral/)
 * [2023-09-17, 15:49:14](https://news.ycombinator.com/item?id=37546350) - [Grabbing Dinner](https://gardenandgun.com/feature/grabbing-dinner/)
