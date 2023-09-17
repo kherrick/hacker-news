@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-17, 23:22:08](https://news.ycombinator.com/item?id=37550353) - [Unity: We Have Heard You](https://twitter.com/unity/status/1703547752205218265?s=46&t=7KCNnmJt82xcCKEkZnoUTQ)
 * [2023-09-17, 22:00:59](https://news.ycombinator.com/item?id=37549745) - [AWS IPv4 Estate Now Worth $4.5B](https://toonk.io/index.html)
 * [2023-09-17, 21:23:26](https://news.ycombinator.com/item?id=37549480) - [Geographic ‘hot spots’ for cigarette and firearm deaths in the U.S.](https://www.fau.edu/newsdesk/articles/geographic-hot-spots-firearms-smoking.php)
 * [2023-09-17, 21:00:55](https://news.ycombinator.com/item?id=37549259) - [Hush – Noiseless Browsing for Safari](https://oblador.github.io/hush/)
@@ -10,7 +11,6 @@
 * [2023-09-17, 19:55:01](https://news.ycombinator.com/item?id=37548732) - [Vintage Apple](https://vintageapple.org/)
 * [2023-09-17, 19:53:58](https://news.ycombinator.com/item?id=37548720) - [Brian Bucklew Porting Caves of Qud from Unity to Godot](https://twitter.com/unormal/status/1703163364229161236)
 * [2023-09-17, 19:44:50](https://news.ycombinator.com/item?id=37548639) - [Infrastructure Manager: Provision Google Cloud Resources with Terraform](https://cloud.google.com/blog/products/management-tools/introducing-infrastructure-manager-powered-by-terraform/)
-* [2023-09-17, 19:16:34](https://news.ycombinator.com/item?id=37548402) - [Running Linux on Xilinx / AMD FPGA Softcore Example Design](https://www.hackster.io/adam-taylor/embedded-linux-on-microblaze-1a7573)
 * [2023-09-17, 16:56:04](https://news.ycombinator.com/item?id=37547099) - [LaTeX for tabletop](https://vladar.bearblog.dev/latex-for-tabletop/)
 * [2023-09-17, 16:34:29](https://news.ycombinator.com/item?id=37546874) - [CatalaLang/catala: Programming language for law specification](https://github.com/CatalaLang/catala)
 * [2023-09-17, 16:30:03](https://news.ycombinator.com/item?id=37546810) - [Run LLMs at home, BitTorrent‑style](https://petals.dev/)
