@@ -75,6 +75,7 @@
 * [2023-09-16, 08:47:23](https://news.ycombinator.com/item?id=37533103) - [Why Ugly Architecture Is Bad for Your Health](https://www.architecturaluprising.com/studies/why-ugly-architecture-is-bad-for-your-health/)
 * [2023-09-16, 08:16:54](https://news.ycombinator.com/item?id=37532973) - [Tracking Austrian grocery prices by scraping store sites](https://mastodon.gamedev.place/@badlogic/111071396799790275)
 * [2023-09-16, 07:40:27](https://news.ycombinator.com/item?id=37532794) - [How Valve built soundproof booths](https://www.dota2.com/newsentry/3675555405719286536)
+* [2023-09-16, 07:28:48](https://news.ycombinator.com/item?id=37532736) - [How HTTPS Works](https://howhttps.works)
 * [2023-09-16, 07:00:11](https://news.ycombinator.com/item?id=37532618) - [Converge (YC S23) is hiring a founding product engineer](https://www.ycombinator.com/companies/converge/jobs/vc4Nbeh-founding-product-engineer)
 * [2023-09-16, 06:49:54](https://news.ycombinator.com/item?id=37532584) - [Pongs](https://pippinbarr.com/pongs/info/)
 * [2023-09-16, 06:33:31](https://news.ycombinator.com/item?id=37532522) - [GPT-4 is not getting worse (tests and a long rant)](https://coagulopath.com/gpt-4-is-not-getting-worse/)

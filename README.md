@@ -27,8 +27,8 @@
 * [2023-09-16, 16:08:05](https://news.ycombinator.com/item?id=37536016) - [Generative Image Dynamics](https://generative-dynamics.github.io/)
 * [2023-09-16, 15:18:46](https://news.ycombinator.com/item?id=37535537) - [Cystic fibrosis treatment wins Breakthrough Prize](https://www.nature.com/articles/d41586-023-02890-1)
 * [2023-09-16, 07:40:27](https://news.ycombinator.com/item?id=37532794) - [How Valve built soundproof booths](https://www.dota2.com/newsentry/3675555405719286536)
+* [2023-09-16, 07:28:48](https://news.ycombinator.com/item?id=37532736) - [How HTTPS Works](https://howhttps.works)
 * [2023-09-15, 23:07:56](https://news.ycombinator.com/item?id=37530158) - [Formatting text in C++: Old and new ways](https://mariusbancila.ro/blog/2023/09/12/formatting-text-in-c-the-old-and-the-new-ways/)
-* [2023-09-15, 14:16:54](https://news.ycombinator.com/item?id=37523314) - [New camera offers ultrafast imaging at a fraction of the normal cost](https://phys.org/news/2023-09-camera-ultrafast-imaging-fraction.html)
 * [2023-09-14, 06:11:48](https://news.ycombinator.com/item?id=37505539) - [Stanford is a platform](https://miles.land/posts/stanford-is-a-platform/)
 
 ## [Archives](archives/index.md)
