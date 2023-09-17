@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-17](index.md)
 
+* [2023-09-17, 10:22:06](https://news.ycombinator.com/item?id=37543468) - [Hyprland Is a Toxic Community](https://drewdevault.com/2023/09/17/Hyprland-toxicity.html)
 * [2023-09-17, 09:53:33](https://news.ycombinator.com/item?id=37543267) - [How the fentanyl crisis' fourth wave has hit every corner of the US](https://www.bbc.com/news/world-us-canada-66826895)
 * [2023-09-17, 08:46:08](https://news.ycombinator.com/item?id=37542895) - [Stay Away from Politics](https://www.lrb.co.uk/the-paper/v45/n18/william-davies/stay-away-from-politics)
 * [2023-09-17, 08:19:58](https://news.ycombinator.com/item?id=37542733) - [Fireball over Iceland](https://apod.nasa.gov/apod/ap230916.html)

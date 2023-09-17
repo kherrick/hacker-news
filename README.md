@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-17, 09:53:33](https://news.ycombinator.com/item?id=37543267) - [How the fentanyl crisis' fourth wave has hit every corner of the US](https://www.bbc.com/news/world-us-canada-66826895)
+* [2023-09-17, 10:22:06](https://news.ycombinator.com/item?id=37543468) - [Hyprland Is a Toxic Community](https://drewdevault.com/2023/09/17/Hyprland-toxicity.html)
 * [2023-09-17, 08:19:58](https://news.ycombinator.com/item?id=37542733) - [Fireball over Iceland](https://apod.nasa.gov/apod/ap230916.html)
 * [2023-09-17, 07:41:25](https://news.ycombinator.com/item?id=37542499) - [Antarctic sea-ice at 'mind-blowing' low alarms experts](https://www.bbc.co.uk/news/science-environment-66724246)
 * [2023-09-17, 06:30:37](https://news.ycombinator.com/item?id=37542117) - [A High Throughput B+tree for SIMD Architectures (2020) [pdf]](https://www.ece.lsu.edu/lpeng/papers/tpds-20-1.pdf)
