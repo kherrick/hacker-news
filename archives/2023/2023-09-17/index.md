@@ -10,6 +10,7 @@
 * [2023-09-17, 16:00:03](https://news.ycombinator.com/item?id=37546468) - [Show HN: Stripe Destroyed Our Business after 7 months of building our product](https://news.ycombinator.com/item?id=37546468)
 * [2023-09-17, 15:52:08](https://news.ycombinator.com/item?id=37546381) - [The Eunuch Admiral (2011)](https://alumni.berkeley.edu/california-magazine/fall-2011-the-good-fight/eunuch-admiral/)
 * [2023-09-17, 15:49:14](https://news.ycombinator.com/item?id=37546350) - [Grabbing Dinner](https://gardenandgun.com/feature/grabbing-dinner/)
+* [2023-09-17, 15:41:26](https://news.ycombinator.com/item?id=37546255) - [Tech Independence](https://sive.rs/ti)
 * [2023-09-17, 15:40:42](https://news.ycombinator.com/item?id=37546241) - [How the Mac didn’t bring programming to the people](https://eclecticlight.co/2023/09/16/how-the-mac-didnt-bring-programming-to-the-people/)
 * [2023-09-17, 15:02:48](https://news.ycombinator.com/item?id=37545747) - [Inside the Trillion-Dollar Climate Solutions Industry](https://www.bloomberg.com/news/articles/2023-09-17/inside-the-trillion-dollar-climate-solutions-industry)
 * [2023-09-17, 14:37:37](https://news.ycombinator.com/item?id=37545474) - [Fewer workers, higher pay, robots: aerospace suppliers push automation](https://www.seattletimes.com/business/boeing-aerospace/fewer-workers-higher-pay-robots-aerospace-suppliers-push-automation/)

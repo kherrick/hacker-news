@@ -5,6 +5,7 @@
 * [2023-09-17, 16:20:08](https://news.ycombinator.com/item?id=37546689) - [Browsing like it's 1994: Integrating a Mac SE, ImageWriter II into a modern LAN](https://connor.zip/posts/2023-08-04-localtalk-ethernet)
 * [2023-09-17, 15:52:08](https://news.ycombinator.com/item?id=37546381) - [The Eunuch Admiral (2011)](https://alumni.berkeley.edu/california-magazine/fall-2011-the-good-fight/eunuch-admiral/)
 * [2023-09-17, 15:49:14](https://news.ycombinator.com/item?id=37546350) - [Grabbing Dinner](https://gardenandgun.com/feature/grabbing-dinner/)
+* [2023-09-17, 15:41:26](https://news.ycombinator.com/item?id=37546255) - [Tech Independence](https://sive.rs/ti)
 * [2023-09-17, 15:40:42](https://news.ycombinator.com/item?id=37546241) - [How the Mac didn’t bring programming to the people](https://eclecticlight.co/2023/09/16/how-the-mac-didnt-bring-programming-to-the-people/)
 * [2023-09-17, 14:32:34](https://news.ycombinator.com/item?id=37545430) - [DeepMind cofounder: Generative AI is just a phase. What’s next is interactive AI](https://www.technologyreview.com/2023/09/15/1079624/deepmind-inflection-generative-ai-whats-next-mustafa-suleyman/)
 * [2023-09-17, 14:17:52](https://news.ycombinator.com/item?id=37545313) - [Close to 2k environmental activists killed over last decade](https://e360.yale.edu/digest/environmental-defenders-murdered-2022)
@@ -29,7 +30,6 @@
 * [2023-09-16, 07:28:48](https://news.ycombinator.com/item?id=37532736) - [How HTTPS Works (2018)](https://howhttps.works)
 * [2023-09-15, 15:11:56](https://news.ycombinator.com/item?id=37524285) - [Apocalypse Proof: 33 Thomas Street in New York City](https://placesjournal.org/article/33-thomas-street-and-conspiracy-thrillers/)
 * [2023-09-14, 06:27:29](https://news.ycombinator.com/item?id=37505646) - [The Gods of the Copybook Headings](https://en.wikipedia.org/wiki/The_Gods_of_the_Copybook_Headings)
-* [2023-09-14, 06:11:48](https://news.ycombinator.com/item?id=37505539) - [Stanford is a platform](https://miles.land/posts/stanford-is-a-platform/)
 
 ## [Archives](archives/index.md)
 
