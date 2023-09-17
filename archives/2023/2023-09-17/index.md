@@ -6,6 +6,7 @@
 
 * [2023-09-17, 20:17:21](https://news.ycombinator.com/item?id=37548903) - [The Data Science Manifesto](http://datasciencemanifesto.org/)
 * [2023-09-17, 20:17:07](https://news.ycombinator.com/item?id=37548900) - [Modder Turns Framework Laptop PCB into a Handheld Gaming PC](https://www.tomshardware.com/news/modder-turns-framework-laptop-pcb-into-a-handheld-gaming-pc)
+* [2023-09-17, 20:14:39](https://news.ycombinator.com/item?id=37548884) - [The Home Assistant Green is here](https://www.theverge.com/23875557/home-assistant-green-announcement-price-specs-ten-year-anniversary)
 * [2023-09-17, 19:55:01](https://news.ycombinator.com/item?id=37548732) - [Vintage Apple](https://vintageapple.org/)
 * [2023-09-17, 19:44:50](https://news.ycombinator.com/item?id=37548639) - [Infrastructure Manager: Provision Google Cloud Resources with Terraform](https://cloud.google.com/blog/products/management-tools/introducing-infrastructure-manager-powered-by-terraform/)
 * [2023-09-17, 19:32:33](https://news.ycombinator.com/item?id=37548551) - [Will Cyber Security Be Replaced by AI?](https://blog.edned.net/will-ai-replace-cyber-security/)
