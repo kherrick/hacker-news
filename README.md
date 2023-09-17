@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-17, 17:24:30](https://news.ycombinator.com/item?id=37547386) - [NASA's OSIRIS-REx asteroid sample return to Earth: Live updates](https://www.space.com/news/live/nasa-osiris-rex-asteroid-bennu-sample-return-updates)
 * [2023-09-17, 16:56:04](https://news.ycombinator.com/item?id=37547099) - [LaTeX for publishing tabletop role-playing games](https://vladar.bearblog.dev/latex-for-tabletop/)
 * [2023-09-17, 16:34:29](https://news.ycombinator.com/item?id=37546874) - [CatalaLang/catala: Programming language for law specification](https://github.com/CatalaLang/catala)
 * [2023-09-17, 16:26:48](https://news.ycombinator.com/item?id=37546766) - [Things that do not exist in Dimension Apple](https://maxread.substack.com/p/a-literary-history-of-fake-texts)
@@ -7,7 +8,6 @@
 * [2023-09-17, 15:52:08](https://news.ycombinator.com/item?id=37546381) - [The Eunuch Admiral (2011)](https://alumni.berkeley.edu/california-magazine/fall-2011-the-good-fight/eunuch-admiral/)
 * [2023-09-17, 15:49:14](https://news.ycombinator.com/item?id=37546350) - [Grabbing Dinner](https://gardenandgun.com/feature/grabbing-dinner/)
 * [2023-09-17, 15:41:26](https://news.ycombinator.com/item?id=37546255) - [Tech Independence](https://sive.rs/ti)
-* [2023-09-17, 15:40:42](https://news.ycombinator.com/item?id=37546241) - [How the Mac didn’t bring programming to the people](https://eclecticlight.co/2023/09/16/how-the-mac-didnt-bring-programming-to-the-people/)
 * [2023-09-17, 13:52:52](https://news.ycombinator.com/item?id=37545071) - [Comp.lang.c is now full of spam](https://groups.google.com/g/comp.lang.c)
 * [2023-09-17, 13:49:11](https://news.ycombinator.com/item?id=37545040) - [Changing the Rules of Rust](https://without.boats/blog/changing-the-rules-of-rust/)
 * [2023-09-17, 13:03:12](https://news.ycombinator.com/item?id=37544628) - [Linear Book Scanner – Open-source automatic book scanner (2014)](https://linearbookscanner.org/)

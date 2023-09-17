@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-17](index.md)
 
+* [2023-09-17, 17:24:30](https://news.ycombinator.com/item?id=37547386) - [NASA's OSIRIS-REx asteroid sample return to Earth: Live updates](https://www.space.com/news/live/nasa-osiris-rex-asteroid-bennu-sample-return-updates)
 * [2023-09-17, 16:56:04](https://news.ycombinator.com/item?id=37547099) - [LaTeX for publishing tabletop role-playing games](https://vladar.bearblog.dev/latex-for-tabletop/)
 * [2023-09-17, 16:50:16](https://news.ycombinator.com/item?id=37547046) - [New Study Identifies United States as 'Planet-Wrecker-in-Chief'](https://www.commondreams.org/news/united-states-planet-wrecker)
 * [2023-09-17, 16:34:29](https://news.ycombinator.com/item?id=37546874) - [CatalaLang/catala: Programming language for law specification](https://github.com/CatalaLang/catala)
