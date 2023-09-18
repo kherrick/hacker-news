@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-18, 12:20:40](https://news.ycombinator.com/item?id=37555172) - [US Military Asks for Help Locating Missing F-35 Fighter Jet](https://time.com/6315261/missing-military-f35-jet/)
 * [2023-09-18, 12:16:49](https://news.ycombinator.com/item?id=37555149) - [Colorado peak linked to 1864 atrocity has been renamed Mount Blue Sky](https://www.cnn.com/2023/09/16/us/mount-blue-sky-renamed-evans-cheyenne-arapaho/index.html)
 * [2023-09-18, 12:15:41](https://news.ycombinator.com/item?id=37555139) - [“Let's build a homemade billing system”, now you have four problems](https://www.getlago.com/blog/the-4-biggest-problems-with-homemade-billing-systems)
 * [2023-09-18, 12:00:39](https://news.ycombinator.com/item?id=37555031) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=37555031)
@@ -11,7 +10,6 @@
 * [2023-09-18, 10:47:17](https://news.ycombinator.com/item?id=37554504) - [NSA’s Backdoor Key (2002)](http://www.cypherspace.org/adam/hacks/lotus-nsa-key.html)
 * [2023-09-18, 10:33:42](https://news.ycombinator.com/item?id=37554406) - [Unix shells are generally not viable access control mechanisms any more](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/UnixShellsNoMoreAccessControl)
 * [2023-09-18, 08:11:21](https://news.ycombinator.com/item?id=37553574) - [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
-* [2023-09-18, 07:58:00](https://news.ycombinator.com/item?id=37553496) - [How Jeff Geerling almost broke MrBeast's 1-100 video [video]](https://www.youtube.com/watch?v=wsV_C9cMf8A)
 * [2023-09-18, 07:07:47](https://news.ycombinator.com/item?id=37553193) - [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
 * [2023-09-18, 06:58:13](https://news.ycombinator.com/item?id=37553125) - [Pollution in 1/8 (2010)](https://labs.ripe.net/author/franz/pollution-in-18/)
 * [2023-09-18, 04:00:56](https://news.ycombinator.com/item?id=37552085) - [How FoundationDB works and why it works (2021)](https://blog.the-pans.com/notes-on-the-foundationdb-paper/)
@@ -25,6 +23,8 @@
 * [2023-09-17, 16:30:03](https://news.ycombinator.com/item?id=37546810) - [Run LLMs at home, BitTorrent‑style](https://petals.dev/)
 * [2023-09-17, 16:05:28](https://news.ycombinator.com/item?id=37546530) - [Making Architecture Easy](https://worksinprogress.co/issue/making-architecture-easy)
 * [2023-09-17, 15:53:21](https://news.ycombinator.com/item?id=37546403) - [Conserving a Burmese offering vessel](https://www.britishmuseum.org/blog/conserving-burmese-offering-vessel)
+* [2023-09-17, 15:52:08](https://news.ycombinator.com/item?id=37546381) - [The Eunuch Admiral (2011)](https://alumni.berkeley.edu/california-magazine/fall-2011-the-good-fight/eunuch-admiral/)
+* [2023-09-17, 13:03:12](https://news.ycombinator.com/item?id=37544628) - [Linear Book Scanner – Open-source automatic book scanner (2014)](https://linearbookscanner.org/)
 * [2023-09-16, 21:39:23](https://news.ycombinator.com/item?id=37538971) - [On Being the Right Size (1926) [pdf]](http://www.phys.ufl.edu/courses/phy3221/spring10/HaldaneRightSize.pdf)
 * [2023-09-16, 13:06:30](https://news.ycombinator.com/item?id=37534453) - [National Motorcycle Museum Closing Its Doors](https://nationalmcmuseum.org/)
 * [2023-09-16, 09:19:29](https://news.ycombinator.com/item?id=37533259) - [10 years with Hayao Miyazaki [video]](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/3004569/)
