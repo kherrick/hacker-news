@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-18, 14:30:09](https://news.ycombinator.com/item?id=37556605) - [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
 * [2023-09-18, 14:02:19](https://news.ycombinator.com/item?id=37556260) - [Paul McEnroe’s role in developing the UPC barcode hasn’t been fully acknowledged](https://www.entrepreneur.com/science-technology/the-barcode-inventor-didnt-get-credit-now-hes/458787)
-* [2023-09-18, 13:48:12](https://news.ycombinator.com/item?id=37556077) - [No evidence for angiosperm mass extinction at the Cretaceous–Palaeogene boundary](https://royalsocietypublishing.org/doi/10.1098/rsbl.2023.0314)
+* [2023-09-18, 13:55:08](https://news.ycombinator.com/item?id=37556160) - [Two-parent households should be a policy goal](https://www.theatlantic.com/ideas/archive/2023/09/marriage-two-parent-households-socioeconomic-consequences/675333/)
 * [2023-09-18, 13:46:12](https://news.ycombinator.com/item?id=37556047) - [Slums in Delhi were flattened before the G20 summit](https://www.reuters.com/graphics/G20-SUMMIT/SLUM/zdpxrxoaypx/)
 * [2023-09-18, 13:44:46](https://news.ycombinator.com/item?id=37556030) - [Study: U.S. dietary recommendations for protein intake are too low](https://bigthink.com/health/us-dietary-protein-recommendations-too-low/)
 * [2023-09-18, 13:44:29](https://news.ycombinator.com/item?id=37556025) - [Replanting Logged Forests with Diverse Seedlings Accelerates Restoration](https://www.technologynetworks.com/applied-sciences/news/replanting-logged-forests-with-diverse-mixtures-of-seedlings-accelerates-restoration-378916)
@@ -26,7 +27,6 @@
 * [2023-09-18, 02:19:30](https://news.ycombinator.com/item?id=37551474) - [Introduction to Immutable Linux Systems](https://dataswamp.org/~solene/2023-07-12-intro-to-immutable-os.html)
 * [2023-09-18, 01:29:46](https://news.ycombinator.com/item?id=37551175) - [Plants can detect sound](https://www.economist.com/science-and-technology/2023/09/06/plants-dont-have-ears-but-they-can-still-detect-sound)
 * [2023-09-17, 16:05:28](https://news.ycombinator.com/item?id=37546530) - [Making Architecture Easy](https://worksinprogress.co/issue/making-architecture-easy)
-* [2023-09-16, 21:39:23](https://news.ycombinator.com/item?id=37538971) - [On Being the Right Size (1926) [pdf]](http://www.phys.ufl.edu/courses/phy3221/spring10/HaldaneRightSize.pdf)
 * [2023-09-16, 13:06:30](https://news.ycombinator.com/item?id=37534453) - [National Motorcycle Museum Closing Its Doors](https://nationalmcmuseum.org/)
 * [2023-09-16, 09:19:29](https://news.ycombinator.com/item?id=37533259) - [10 years with Hayao Miyazaki [video]](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/3004569/)
 * [2023-09-16, 06:16:47](https://news.ycombinator.com/item?id=37532439) - [Queueing Theory: An introduction for software development](https://github.com/joelparkerhenderson/queueing-theory)
