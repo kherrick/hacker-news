@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-18, 15:31:50](https://news.ycombinator.com/item?id=37557595) - [Y Combinator Podcast #4: Sam Altman Interviews Elon Musk](https://www.ycombinator.com/blog/elon-musk-on-how-to-build-the-future/)
 * [2023-09-18, 14:43:30](https://news.ycombinator.com/item?id=37556802) - [California's Delete Act will make erasing consumers' data easier](https://www.techspot.com/news/100180-california-delete-act-make-erasing-consumers-data-easier.html)
 * [2023-09-18, 14:38:03](https://news.ycombinator.com/item?id=37556719) - [Creators of Argo CD Release New OSS Project Kargo for Next Gen Gitops](https://akuity.io/blog/introducing-kargo/)
 * [2023-09-18, 14:30:09](https://news.ycombinator.com/item?id=37556605) - [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
@@ -30,6 +29,7 @@
 * [2023-09-17, 16:05:28](https://news.ycombinator.com/item?id=37546530) - [Making Architecture Easy](https://worksinprogress.co/issue/making-architecture-easy)
 * [2023-09-16, 09:19:29](https://news.ycombinator.com/item?id=37533259) - [10 years with Hayao Miyazaki [video]](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/3004569/)
 * [2023-09-16, 06:16:47](https://news.ycombinator.com/item?id=37532439) - [Queueing Theory: An introduction for software development](https://github.com/joelparkerhenderson/queueing-theory)
+* [2023-09-15, 11:12:03](https://news.ycombinator.com/item?id=37521273) - [Backup the caravan](https://popey.com/blog/2023/09/backup-the-caravan/)
 
 ## [Archives](archives/index.md)
 

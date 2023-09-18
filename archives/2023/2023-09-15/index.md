@@ -92,6 +92,7 @@
 * [2023-09-15, 11:25:31](https://news.ycombinator.com/item?id=37521383) - [Glazes induced degradation of tea catechins](https://www.nature.com/articles/s41598-023-37480-8)
 * [2023-09-15, 11:24:31](https://news.ycombinator.com/item?id=37521375) - [Show HN: I built a dataset of 25k+ Gumroad products to spot market opportunities](https://gumtrends.com)
 * [2023-09-15, 11:21:09](https://news.ycombinator.com/item?id=37521340) - [Inflation-adjusted iPhone 15 most affordable base model since 2007 original](https://www.perfectrec.com/posts/iPhone15-price)
+* [2023-09-15, 11:12:03](https://news.ycombinator.com/item?id=37521273) - [Backup the caravan](https://popey.com/blog/2023/09/backup-the-caravan/)
 * [2023-09-15, 11:08:06](https://news.ycombinator.com/item?id=37521240) - [How does Linux start a process](https://iq.thc.org/how-does-linux-start-a-process)
 * [2023-09-15, 10:59:15](https://news.ycombinator.com/item?id=37521167) - [Ukraine: Europe clearly overtakes US, with total commitments now twice as large](https://www.ifw-kiel.de/publications/news/ukraine-support-tracker-europe-clearly-overtakes-us-with-total-commitments-now-twice-as-large/)
 * [2023-09-15, 10:21:57](https://news.ycombinator.com/item?id=37520890) - [A Primer on Logic Programming](https://www.juxt.pro/blog/logic-primer/)
