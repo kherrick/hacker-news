@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-18](index.md)
 
+* [2023-09-18, 09:55:16](https://news.ycombinator.com/item?id=37554184) - [I asked Bard to roast my landing page. And roast it did](https://pasteboard.co/xUYfUtN6lHzZ.png)
 * [2023-09-18, 08:11:21](https://news.ycombinator.com/item?id=37553574) - [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
 * [2023-09-18, 07:58:00](https://news.ycombinator.com/item?id=37553496) - [How Jeff Geerling almost broke MrBeast's 1-100 video [video]](https://www.youtube.com/watch?v=wsV_C9cMf8A)
 * [2023-09-18, 07:37:44](https://news.ycombinator.com/item?id=37553381) - [Apple CEO Tim Cook on creating a clean energy future](https://www.cbsnews.com/news/apple-ceo-tim-cook-on-creating-a-clean-energy-future/)
