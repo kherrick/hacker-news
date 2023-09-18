@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-09-18, 18:04:34",
-      "https://news.ycombinator.com/item?id=37559664"
-    ],
-    [
-      "A Bus Driver Killed a Man, the City Blamed Tech",
-      "https://www.theindustry.pw/p/cruise-sf-fire-chief"
-    ]
-  ],
-  [
-    [
       "2023-09-18, 17:53:49",
       "https://news.ycombinator.com/item?id=37559506"
     ],
@@ -197,6 +187,16 @@
     [
       "NSA Backdoor Key from Lotus-Notes (2002)",
       "http://www.cypherspace.org/adam/hacks/lotus-nsa-key.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-18, 10:33:42",
+      "https://news.ycombinator.com/item?id=37554406"
+    ],
+    [
+      "Unix shells are generally not viable access control mechanisms any more",
+      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/UnixShellsNoMoreAccessControl"
     ]
   ],
   [
