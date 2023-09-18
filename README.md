@@ -21,7 +21,7 @@
 * [2023-09-18, 10:47:17](https://news.ycombinator.com/item?id=37554504) - [NSA Backdoor Key from Lotus-Notes (2002)](http://www.cypherspace.org/adam/hacks/lotus-nsa-key.html)
 * [2023-09-18, 10:33:42](https://news.ycombinator.com/item?id=37554406) - [Unix shells are generally not viable access control mechanisms any more](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/UnixShellsNoMoreAccessControl)
 * [2023-09-18, 09:54:19](https://news.ycombinator.com/item?id=37554176) - [How hard is it to adapt a memory allocator to CHERI?](https://tratt.net/laurie/blog/2023/how_hard_is_it_to_adapt_a_memory_allocator_to_cheri.html)
-* [2023-09-18, 05:27:17](https://news.ycombinator.com/item?id=37552537) - [Interpretation and analysis of songs written or performed by Pet Shop Boys](http://www.geowayne.com/psbhtml.htm)
+* [2023-09-18, 07:07:47](https://news.ycombinator.com/item?id=37553193) - [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
 * [2023-09-18, 04:13:57](https://news.ycombinator.com/item?id=37552161) - [Van Gogh’s Self-Portraits](https://www.vangoghmuseum.nl/en/art-and-stories/stories/all-stories/5-things-you-need-to-know-about-van-goghs-self-portraits)
 * [2023-09-18, 04:12:19](https://news.ycombinator.com/item?id=37552151) - [Ron Cobb – Filmography](https://roncobb.net/film.html)
 * [2023-09-18, 04:00:56](https://news.ycombinator.com/item?id=37552085) - [How FoundationDB works and why it works (2021)](https://blog.the-pans.com/notes-on-the-foundationdb-paper/)
