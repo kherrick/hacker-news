@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-18, 10:33:42](https://news.ycombinator.com/item?id=37554406) - [Unix shells are generally not viable access control mechanisms any more](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/UnixShellsNoMoreAccessControl)
 * [2023-09-18, 09:55:16](https://news.ycombinator.com/item?id=37554184) - [I asked Bard to roast my landing page. And roast it did](https://pasteboard.co/xUYfUtN6lHzZ.png)
 * [2023-09-18, 08:11:21](https://news.ycombinator.com/item?id=37553574) - [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
 * [2023-09-18, 07:58:00](https://news.ycombinator.com/item?id=37553496) - [How Jeff Geerling almost broke MrBeast's 1-100 video [video]](https://www.youtube.com/watch?v=wsV_C9cMf8A)
@@ -14,7 +15,6 @@
 * [2023-09-17, 20:25:54](https://news.ycombinator.com/item?id=37548975) - [Homebrew Website Club](https://indieweb.org/Homebrew_Website_Club)
 * [2023-09-17, 20:25:12](https://news.ycombinator.com/item?id=37548970) - [Wasmer – Run, Publish and Deploy any code, anywhere](https://wasmer.io/)
 * [2023-09-17, 19:53:58](https://news.ycombinator.com/item?id=37548720) - [Brian Bucklew Porting Caves of Qud from Unity to Godot](https://twitter.com/unormal/status/1703163364229161236)
-* [2023-09-17, 19:44:50](https://news.ycombinator.com/item?id=37548639) - [Infrastructure Manager: Provision Google Cloud Resources with Terraform](https://cloud.google.com/blog/products/management-tools/introducing-infrastructure-manager-powered-by-terraform/)
 * [2023-09-17, 19:38:40](https://news.ycombinator.com/item?id=37548599) - [Donut math: how donut.c works](https://www.a1k0n.net/2011/07/20/donut-math.html)
 * [2023-09-17, 18:22:01](https://news.ycombinator.com/item?id=37547913) - [Show HN: Conway's Game of Chess](https://gist.github.com/elesiuta/a17d93feb3d29971c3b5abbde69d53f3)
 * [2023-09-17, 16:34:29](https://news.ycombinator.com/item?id=37546874) - [CatalaLang/catala: Programming language for law specification](https://github.com/CatalaLang/catala)
