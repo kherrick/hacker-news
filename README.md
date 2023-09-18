@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-18, 02:50:21](https://news.ycombinator.com/item?id=37551657) - [The system is rigged and hard work is no predictor of success](https://fortune.com/2023/09/15/how-racism-meritocracy-broke-economy-book-excerpt-myth-jeff-fuhrer/)
 * [2023-09-18, 02:19:30](https://news.ycombinator.com/item?id=37551474) - [Introduction to Immutable Linux Systems](https://dataswamp.org/~solene/2023-07-12-intro-to-immutable-os.html)
-* [2023-09-18, 02:17:45](https://news.ycombinator.com/item?id=37551462) - [LAUSD to purchase 180 electric school buses](https://www.dailynews.com/2023/05/02/lausd-to-purchase-180-electric-school-buses/)
 * [2023-09-18, 01:29:46](https://news.ycombinator.com/item?id=37551175) - [Plants don’t have ears. But they can still detect sound](https://www.economist.com/science-and-technology/2023/09/06/plants-dont-have-ears-but-they-can-still-detect-sound)
 * [2023-09-17, 22:00:59](https://news.ycombinator.com/item?id=37549745) - [AWS IPv4 Estate Now Worth $4.5B](https://toonk.io/aws-ipv4-estate-now-worth-4-5-billion/index.html)
 * [2023-09-17, 21:28:37](https://news.ycombinator.com/item?id=37549529) - [A.I. and the Next Generation of Drone Warfare](https://www.newyorker.com/news/news-desk/ai-and-the-next-generation-of-drone-warfare)
