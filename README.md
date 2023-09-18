@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-18, 02:19:30](https://news.ycombinator.com/item?id=37551474) - [Introduction to Immutable Linux Systems](https://dataswamp.org/~solene/2023-07-12-intro-to-immutable-os.html)
-* [2023-09-18, 02:17:45](https://news.ycombinator.com/item?id=37551462) - [LAUSD to purchase 180 electric school buses](https://www.dailynews.com/2023/05/02/lausd-to-purchase-180-electric-school-buses/)
 * [2023-09-18, 01:52:22](https://news.ycombinator.com/item?id=37551293) - [How much garden you would need to survive on](https://lifehacker.com/how-much-garden-you-would-need-to-100-survive-on-1848829190)
 * [2023-09-18, 01:29:46](https://news.ycombinator.com/item?id=37551175) - [Plants don’t have ears. But they can still detect sound](https://www.economist.com/science-and-technology/2023/09/06/plants-dont-have-ears-but-they-can-still-detect-sound)
 * [2023-09-17, 22:00:59](https://news.ycombinator.com/item?id=37549745) - [AWS IPv4 Estate Now Worth $4.5B](https://toonk.io/aws-ipv4-estate-now-worth-4-5-billion/index.html)
@@ -9,6 +8,8 @@
 * [2023-09-17, 21:00:55](https://news.ycombinator.com/item?id=37549259) - [Hush – Noiseless Browsing for Safari](https://oblador.github.io/hush/)
 * [2023-09-17, 20:55:20](https://news.ycombinator.com/item?id=37549216) - [Large Language Models for Compiler Optimization](https://arxiv.org/abs/2309.07062)
 * [2023-09-17, 20:25:54](https://news.ycombinator.com/item?id=37548975) - [Homebrew Website Club](https://indieweb.org/Homebrew_Website_Club)
+* [2023-09-17, 20:25:12](https://news.ycombinator.com/item?id=37548970) - [Wasmer – Run, Publish and Deploy any code, anywhere](https://wasmer.io/)
+* [2023-09-17, 20:17:21](https://news.ycombinator.com/item?id=37548903) - [The Data Science Manifesto (2020)](http://datasciencemanifesto.org/)
 * [2023-09-17, 19:44:50](https://news.ycombinator.com/item?id=37548639) - [Infrastructure Manager: Provision Google Cloud Resources with Terraform](https://cloud.google.com/blog/products/management-tools/introducing-infrastructure-manager-powered-by-terraform/)
 * [2023-09-17, 19:38:40](https://news.ycombinator.com/item?id=37548599) - [Donut math: how donut.c works](https://www.a1k0n.net/2011/07/20/donut-math.html)
 * [2023-09-17, 18:22:01](https://news.ycombinator.com/item?id=37547913) - [Show HN: Conway's Game of Chess](https://gist.github.com/elesiuta/a17d93feb3d29971c3b5abbde69d53f3)
@@ -27,7 +28,6 @@
 * [2023-09-16, 10:31:36](https://news.ycombinator.com/item?id=37533597) - [Show HN: My demo for vector embeddings for the Earth's surface](https://www.louisquissetlabs.com/index.html)
 * [2023-09-16, 09:53:46](https://news.ycombinator.com/item?id=37533424) - [We've underrated what these birds can do: the secret life of Skomer’s guillemots](https://www.theguardian.com/environment/2023/sep/16/we-have-underrated-what-these-birds-can-do-the-secret-life-of-skomers-guillemots-tim-birkhead)
 * [2023-09-16, 08:08:05](https://news.ycombinator.com/item?id=37532929) - [Nonograms - Japanese Crosswords](https://www.nonograms.org/)
-* [2023-09-16, 06:14:33](https://news.ycombinator.com/item?id=37532426) - [Hexadecimal clock counting down to 2038 problem](https://retr0.id/stuff/2038/)
 * [2023-09-16, 06:04:13](https://news.ycombinator.com/item?id=37532397) - [Pineapple ONE: open-source 32 bit RISC-V CPU that you can make at home](https://pineapple-one.github.io/)
 * [2023-09-15, 15:11:56](https://news.ycombinator.com/item?id=37524285) - [Apocalypse Proof: 33 Thomas Street in New York City](https://placesjournal.org/article/33-thomas-street-and-conspiracy-thrillers/)
 
