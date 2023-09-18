@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-18, 02:19:30](https://news.ycombinator.com/item?id=37551474) - [Introduction to Immutable Linux Systems](https://dataswamp.org/~solene/2023-07-12-intro-to-immutable-os.html)
-* [2023-09-18, 01:52:22](https://news.ycombinator.com/item?id=37551293) - [How much garden you would need to survive on](https://lifehacker.com/how-much-garden-you-would-need-to-100-survive-on-1848829190)
+* [2023-09-18, 02:17:45](https://news.ycombinator.com/item?id=37551462) - [LAUSD to purchase 180 electric school buses](https://www.dailynews.com/2023/05/02/lausd-to-purchase-180-electric-school-buses/)
 * [2023-09-18, 01:29:46](https://news.ycombinator.com/item?id=37551175) - [Plants don’t have ears. But they can still detect sound](https://www.economist.com/science-and-technology/2023/09/06/plants-dont-have-ears-but-they-can-still-detect-sound)
 * [2023-09-17, 22:00:59](https://news.ycombinator.com/item?id=37549745) - [AWS IPv4 Estate Now Worth $4.5B](https://toonk.io/aws-ipv4-estate-now-worth-4-5-billion/index.html)
 * [2023-09-17, 21:28:37](https://news.ycombinator.com/item?id=37549529) - [A.I. and the Next Generation of Drone Warfare](https://www.newyorker.com/news/news-desk/ai-and-the-next-generation-of-drone-warfare)
@@ -27,7 +27,7 @@
 * [2023-09-16, 11:23:40](https://news.ycombinator.com/item?id=37533832) - [Vaxbarn](https://vaxbarn.com/)
 * [2023-09-16, 10:31:36](https://news.ycombinator.com/item?id=37533597) - [Show HN: My demo for vector embeddings for the Earth's surface](https://www.louisquissetlabs.com/index.html)
 * [2023-09-16, 09:53:46](https://news.ycombinator.com/item?id=37533424) - [We've underrated what these birds can do: the secret life of Skomer’s guillemots](https://www.theguardian.com/environment/2023/sep/16/we-have-underrated-what-these-birds-can-do-the-secret-life-of-skomers-guillemots-tim-birkhead)
-* [2023-09-16, 08:08:05](https://news.ycombinator.com/item?id=37532929) - [Nonograms - Japanese Crosswords](https://www.nonograms.org/)
+* [2023-09-16, 06:14:33](https://news.ycombinator.com/item?id=37532426) - [Hexadecimal clock counting down to 2038 problem](https://retr0.id/stuff/2038/)
 * [2023-09-16, 06:04:13](https://news.ycombinator.com/item?id=37532397) - [Pineapple ONE: open-source 32 bit RISC-V CPU that you can make at home](https://pineapple-one.github.io/)
 * [2023-09-15, 15:11:56](https://news.ycombinator.com/item?id=37524285) - [Apocalypse Proof: 33 Thomas Street in New York City](https://placesjournal.org/article/33-thomas-street-and-conspiracy-thrillers/)
 
