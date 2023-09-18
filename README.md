@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-18, 14:08:38](https://news.ycombinator.com/item?id=37556324) - [WinRAR sold 5,449 licenses in a day](https://twitter.com/WinRAR_RARLAB/status/1703723906945691890)
 * [2023-09-18, 14:02:19](https://news.ycombinator.com/item?id=37556260) - [Paul McEnroe’s role in developing the UPC barcode hasn’t been fully acknowledged](https://www.entrepreneur.com/science-technology/the-barcode-inventor-didnt-get-credit-now-hes/458787)
 * [2023-09-18, 13:48:12](https://news.ycombinator.com/item?id=37556077) - [No evidence for angiosperm mass extinction at the Cretaceous–Palaeogene boundary](https://royalsocietypublishing.org/doi/10.1098/rsbl.2023.0314)
 * [2023-09-18, 13:46:12](https://news.ycombinator.com/item?id=37556047) - [Slums in Delhi were flattened before the G20 summit](https://www.reuters.com/graphics/G20-SUMMIT/SLUM/zdpxrxoaypx/)
@@ -12,7 +11,7 @@
 * [2023-09-18, 12:41:01](https://news.ycombinator.com/item?id=37555353) - ['Atomic Energy' Book Signed by Einstein, Oppenheimer, Bohr, Enola Gay Crew](https://www.rrauction.com/auctions/lot-detail/347934706696090-manhattan-project-atomic-bomb-signed-book-with-einstein-oppenheimer-bohr-enola-gay-crew-nobel-prize-winners-and-nuclear-researchers)
 * [2023-09-18, 12:20:40](https://news.ycombinator.com/item?id=37555172) - [US Military Asks for Help Locating Missing F-35 Fighter Jet](https://time.com/6315261/missing-military-f35-jet/)
 * [2023-09-18, 12:15:41](https://news.ycombinator.com/item?id=37555139) - [Problems with homemade billing systems](https://www.getlago.com/blog/the-4-biggest-problems-with-homemade-billing-systems)
-* [2023-09-18, 12:12:30](https://news.ycombinator.com/item?id=37555118) - [Your Brain Is Not An Onion With A Tiny Reptile Inside (2020)](https://journals.sagepub.com/doi/10.1177/0963721420917687)
+* [2023-09-18, 12:12:30](https://news.ycombinator.com/item?id=37555118) - [The brain is not an onion with a tiny reptile inside (2020)](https://journals.sagepub.com/doi/10.1177/0963721420917687)
 * [2023-09-18, 12:00:39](https://news.ycombinator.com/item?id=37555031) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=37555031)
 * [2023-09-18, 12:00:31](https://news.ycombinator.com/item?id=37555028) - [When Zig Outshines Rust – Memory Efficient Enum Arrays](https://alic.dev/blog/dense-enums)
 * [2023-09-18, 11:57:07](https://news.ycombinator.com/item?id=37555004) - [Japan's Hometown Tax](https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/)
@@ -27,6 +26,7 @@
 * [2023-09-18, 02:19:30](https://news.ycombinator.com/item?id=37551474) - [Introduction to Immutable Linux Systems](https://dataswamp.org/~solene/2023-07-12-intro-to-immutable-os.html)
 * [2023-09-18, 01:29:46](https://news.ycombinator.com/item?id=37551175) - [Plants can detect sound](https://www.economist.com/science-and-technology/2023/09/06/plants-dont-have-ears-but-they-can-still-detect-sound)
 * [2023-09-17, 16:05:28](https://news.ycombinator.com/item?id=37546530) - [Making Architecture Easy](https://worksinprogress.co/issue/making-architecture-easy)
+* [2023-09-16, 21:39:23](https://news.ycombinator.com/item?id=37538971) - [On Being the Right Size (1926) [pdf]](http://www.phys.ufl.edu/courses/phy3221/spring10/HaldaneRightSize.pdf)
 * [2023-09-16, 13:06:30](https://news.ycombinator.com/item?id=37534453) - [National Motorcycle Museum Closing Its Doors](https://nationalmcmuseum.org/)
 * [2023-09-16, 09:19:29](https://news.ycombinator.com/item?id=37533259) - [10 years with Hayao Miyazaki [video]](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/3004569/)
 * [2023-09-16, 06:16:47](https://news.ycombinator.com/item?id=37532439) - [Queueing Theory: An introduction for software development](https://github.com/joelparkerhenderson/queueing-theory)
