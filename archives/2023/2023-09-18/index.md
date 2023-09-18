@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-09-18](index.md)
 
+* [2023-09-18, 10:47:17](https://news.ycombinator.com/item?id=37554504) - [NSA’s Backdoor Key](http://www.cypherspace.org/adam/hacks/lotus-nsa-key.html)
+* [2023-09-18, 10:39:25](https://news.ycombinator.com/item?id=37554457) - [US military asks for help to find missing F-35 fighter jet after ‘mishap’](https://www.theguardian.com/us-news/2023/sep/18/missing-f-35b-lighting-ii-fighter-jet-us-military-help-marine-corps-pilot-ejects)
 * [2023-09-18, 10:33:42](https://news.ycombinator.com/item?id=37554406) - [Unix shells are generally not viable access control mechanisms any more](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/UnixShellsNoMoreAccessControl)
 * [2023-09-18, 09:55:16](https://news.ycombinator.com/item?id=37554184) - [I asked Bard to roast my landing page. And roast it did](https://pasteboard.co/xUYfUtN6lHzZ.png)
+* [2023-09-18, 09:54:19](https://news.ycombinator.com/item?id=37554176) - [How Hard Is It to Adapt a Memory Allocator to CHERI?](https://tratt.net/laurie/blog/2023/how_hard_is_it_to_adapt_a_memory_allocator_to_cheri.html)
 * [2023-09-18, 08:11:21](https://news.ycombinator.com/item?id=37553574) - [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
 * [2023-09-18, 07:58:00](https://news.ycombinator.com/item?id=37553496) - [How Jeff Geerling almost broke MrBeast's 1-100 video [video]](https://www.youtube.com/watch?v=wsV_C9cMf8A)
 * [2023-09-18, 07:37:44](https://news.ycombinator.com/item?id=37553381) - [Apple CEO Tim Cook on creating a clean energy future](https://www.cbsnews.com/news/apple-ceo-tim-cook-on-creating-a-clean-energy-future/)
