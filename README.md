@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-18, 12:20:40](https://news.ycombinator.com/item?id=37555172) - [US Military Asks for Help Locating Missing F-35 Fighter Jet](https://time.com/6315261/missing-military-f35-jet/)
+* [2023-09-18, 12:16:49](https://news.ycombinator.com/item?id=37555149) - [Colorado peak linked to 1864 atrocity has been renamed Mount Blue Sky](https://www.cnn.com/2023/09/16/us/mount-blue-sky-renamed-evans-cheyenne-arapaho/index.html)
 * [2023-09-18, 12:15:41](https://news.ycombinator.com/item?id=37555139) - [“Let's build a homemade billing system”, now you have four problems](https://www.getlago.com/blog/the-4-biggest-problems-with-homemade-billing-systems)
 * [2023-09-18, 12:00:39](https://news.ycombinator.com/item?id=37555031) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=37555031)
 * [2023-09-18, 12:00:31](https://news.ycombinator.com/item?id=37555028) - [When Zig Outshines Rust – Memory Efficient Enum Arrays](https://alic.dev/blog/dense-enums)
@@ -9,7 +10,6 @@
 * [2023-09-18, 11:17:41](https://news.ycombinator.com/item?id=37554727) - [Humans can feel empathic embarrassment towards robots, finds VR study](https://techxplore.com/news/2023-09-humans-empathic-robots-virtual-reality.html)
 * [2023-09-18, 10:47:17](https://news.ycombinator.com/item?id=37554504) - [NSA’s Backdoor Key (2002)](http://www.cypherspace.org/adam/hacks/lotus-nsa-key.html)
 * [2023-09-18, 10:33:42](https://news.ycombinator.com/item?id=37554406) - [Unix shells are generally not viable access control mechanisms any more](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/UnixShellsNoMoreAccessControl)
-* [2023-09-18, 09:54:19](https://news.ycombinator.com/item?id=37554176) - [How Hard Is It to Adapt a Memory Allocator to CHERI?](https://tratt.net/laurie/blog/2023/how_hard_is_it_to_adapt_a_memory_allocator_to_cheri.html)
 * [2023-09-18, 08:11:21](https://news.ycombinator.com/item?id=37553574) - [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
 * [2023-09-18, 07:58:00](https://news.ycombinator.com/item?id=37553496) - [How Jeff Geerling almost broke MrBeast's 1-100 video [video]](https://www.youtube.com/watch?v=wsV_C9cMf8A)
 * [2023-09-18, 07:07:47](https://news.ycombinator.com/item?id=37553193) - [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
