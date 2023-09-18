@@ -16,7 +16,7 @@
 * [2023-09-17, 16:30:03](https://news.ycombinator.com/item?id=37546810) - [Run LLMs at home, BitTorrent‑style](https://petals.dev/)
 * [2023-09-17, 16:20:08](https://news.ycombinator.com/item?id=37546689) - [Browsing like it's 1994: Integrating a Mac SE, ImageWriter II into a modern LAN](https://connor.zip/posts/2023-08-04-localtalk-ethernet)
 * [2023-09-17, 16:00:06](https://news.ycombinator.com/item?id=37546469) - [Chili Oil Notes](https://uptointerpretation.com/posts/chili-oil-notes/)
-* [2023-09-17, 15:49:14](https://news.ycombinator.com/item?id=37546350) - [Grabbing Dinner](https://gardenandgun.com/feature/grabbing-dinner/)
+* [2023-09-17, 15:52:58](https://news.ycombinator.com/item?id=37546397) - [Get a Rabbit: Book reviews about statistics](https://www.lrb.co.uk/the-paper/v45/n18/john-lanchester/get-a-rabbit)
 * [2023-09-17, 15:40:42](https://news.ycombinator.com/item?id=37546241) - [How the Mac didn’t bring programming to the people](https://eclecticlight.co/2023/09/16/how-the-mac-didnt-bring-programming-to-the-people/)
 * [2023-09-17, 13:03:12](https://news.ycombinator.com/item?id=37544628) - [Linear Book Scanner – Open-source automatic book scanner (2014)](https://linearbookscanner.org/)
 * [2023-09-16, 23:58:11](https://news.ycombinator.com/item?id=37540067) - [Insiders reveal problems at Upside Foods](https://www.wired.com/story/upside-foods-lab-grown-chicken/)
