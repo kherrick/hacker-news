@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-18, 01:22:50](https://news.ycombinator.com/item?id=37551134) - [Ask HN: How do you deal with never ending noise and distraction WFH?](https://news.ycombinator.com/item?id=37551134)
 * [2023-09-17, 21:33:56](https://news.ycombinator.com/item?id=37549569) - [Why Is Booz Allen Renting Us Back Our Own National Parks?](https://www.thebignewsletter.com/p/why-is-booz-allen-renting-us-back)
 * [2023-09-17, 21:00:55](https://news.ycombinator.com/item?id=37549259) - [Hush – Noiseless Browsing for Safari](https://oblador.github.io/hush/)
 * [2023-09-17, 20:55:20](https://news.ycombinator.com/item?id=37549216) - [Large Language Models for Compiler Optimization](https://arxiv.org/abs/2309.07062)
 * [2023-09-17, 20:25:54](https://news.ycombinator.com/item?id=37548975) - [Homebrew Website Club](https://indieweb.org/Homebrew_Website_Club)
-* [2023-09-17, 20:25:12](https://news.ycombinator.com/item?id=37548970) - [Wasmer – Run, Publish and Deploy any code, anywhere](https://wasmer.io/)
 * [2023-09-17, 20:25:11](https://news.ycombinator.com/item?id=37548969) - [The International SAT Competition Web Page](http://www.satcompetition.org/)
 * [2023-09-17, 20:17:21](https://news.ycombinator.com/item?id=37548903) - [The Data Science Manifesto (2020)](http://datasciencemanifesto.org/)
 * [2023-09-17, 20:17:07](https://news.ycombinator.com/item?id=37548900) - [Modder Turns Framework Laptop PCB into a Handheld Gaming PC](https://www.tomshardware.com/news/modder-turns-framework-laptop-pcb-into-a-handheld-gaming-pc)
