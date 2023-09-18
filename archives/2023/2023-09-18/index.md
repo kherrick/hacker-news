@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-18](index.md)
 
+* [2023-09-18, 06:13:15](https://news.ycombinator.com/item?id=37552808) - [Starlink quietly lost over $250M in burned satellites this summer](https://tiblur.com/post/462038779695576304265368)
 * [2023-09-18, 05:39:07](https://news.ycombinator.com/item?id=37552605) - [iPhone 15 Pro 10% lighter but 15% lower rotational inertia because of edge mass](https://leancrew.com/all-this/2023/09/iphone-15-pro-facts-and-estimates/)
 * [2023-09-18, 04:00:56](https://news.ycombinator.com/item?id=37552085) - [How FoundationDB works and why it works](https://blog.the-pans.com/notes-on-the-foundationdb-paper/)
 * [2023-09-18, 02:50:21](https://news.ycombinator.com/item?id=37551657) - [The system is rigged and hard work is no predictor of success](https://fortune.com/2023/09/15/how-racism-meritocracy-broke-economy-book-excerpt-myth-jeff-fuhrer/)
