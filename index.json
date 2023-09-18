@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-09-18, 18:34:08",
-      "https://news.ycombinator.com/item?id=37560125"
+      "2023-09-18, 19:24:32",
+      "https://news.ycombinator.com/item?id=37560787"
     ],
     [
-      "GPT 3.5 vs. Llama 2 fine-tuning: A Comprehensive Comparison",
-      "https://ragntune.com/blog/gpt3.5-vs-llama2-finetuning"
+      "Apple TV, now with more Tailscale",
+      "https://tailscale.com/blog/apple-tv/"
     ]
   ],
   [
@@ -17,6 +17,26 @@
     [
       "Nushell and Uutils",
       "https://www.nushell.sh/blog/2023-09-05-why-uu.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-18, 18:16:50",
+      "https://news.ycombinator.com/item?id=37559862"
+    ],
+    [
+      "Trunk-based development vs. long-lived feature branches",
+      "https://ardalis.com/trunk-based-development-vs-long-lived-feature-branches/"
+    ]
+  ],
+  [
+    [
+      "2023-09-18, 18:04:34",
+      "https://news.ycombinator.com/item?id=37559664"
+    ],
+    [
+      "A Bus Driver Killed a Man, the City Blamed Tech",
+      "https://www.theindustry.pw/p/cruise-sf-fire-chief"
     ]
   ],
   [
@@ -41,6 +61,16 @@
   ],
   [
     [
+      "2023-09-18, 17:29:46",
+      "https://news.ycombinator.com/item?id=37559192"
+    ],
+    [
+      "To build ships that break ice, U.S. must relearn to cut steel",
+      "https://www.wsj.com/politics/national-security/to-build-ships-that-break-ice-u-s-must-relearn-to-cut-steel-da8c797f"
+    ]
+  ],
+  [
+    [
       "2023-09-18, 17:17:25",
       "https://news.ycombinator.com/item?id=37559005"
     ],
@@ -57,6 +87,26 @@
     [
       "Self-supervised learning: The dark matter of intelligence (2021)",
       "https://ai.meta.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/"
+    ]
+  ],
+  [
+    [
+      "2023-09-18, 16:54:13",
+      "https://news.ycombinator.com/item?id=37558718"
+    ],
+    [
+      "Why and when the Sahara Desert was green: new research",
+      "https://phys.org/news/2023-09-reveals-sahara-green.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-18, 16:26:56",
+      "https://news.ycombinator.com/item?id=37558382"
+    ],
+    [
+      "The male loneliness epidemic and how it affects fathers",
+      "https://www.cnn.com/2023/09/18/health/male-loneliness-epidemic-wellness/index.html"
     ]
   ],
   [
@@ -101,32 +151,12 @@
   ],
   [
     [
-      "2023-09-18, 14:13:51",
-      "https://news.ycombinator.com/item?id=37556388"
-    ],
-    [
-      "TSMC tells vendors to delay chip equipment deliveries",
-      "https://www.reuters.com/technology/tsmc-tells-vendors-delay-chip-equipment-deliveries-sources-2023-09-15/"
-    ]
-  ],
-  [
-    [
       "2023-09-18, 13:44:29",
       "https://news.ycombinator.com/item?id=37556025"
     ],
     [
       "Replanting logged forests with diverse seedlings accelerates restoration",
       "https://www.technologynetworks.com/applied-sciences/news/replanting-logged-forests-with-diverse-mixtures-of-seedlings-accelerates-restoration-378916"
-    ]
-  ],
-  [
-    [
-      "2023-09-18, 12:20:40",
-      "https://news.ycombinator.com/item?id=37555172"
-    ],
-    [
-      "US Military asks for help locating missing F-35",
-      "https://time.com/6315261/missing-military-f35-jet/"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2023-09-18, 11:57:07",
-      "https://news.ycombinator.com/item?id=37555004"
-    ],
-    [
-      "Japan's Hometown Tax (2018)",
-      "https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/"
-    ]
-  ],
-  [
-    [
       "2023-09-18, 10:47:17",
       "https://news.ycombinator.com/item?id=37554504"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2023-09-18, 08:11:21",
-      "https://news.ycombinator.com/item?id=37553574"
-    ],
-    [
-      "What if OpenDocument used SQLite? (2014)",
-      "https://www.sqlite.org/affcase1.html"
-    ]
-  ],
-  [
-    [
       "2023-09-18, 07:07:47",
       "https://news.ycombinator.com/item?id=37553193"
     ],
     [
       "OpenRA – Classic strategy games rebuilt for the modern era",
       "https://www.openra.net/"
-    ]
-  ],
-  [
-    [
-      "2023-09-18, 06:58:13",
-      "https://news.ycombinator.com/item?id=37553125"
-    ],
-    [
-      "Pollution in 1/8 (2010)",
-      "https://labs.ripe.net/author/franz/pollution-in-18/"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2023-09-18, 04:00:56",
-      "https://news.ycombinator.com/item?id=37552085"
+      "2023-09-18, 03:07:24",
+      "https://news.ycombinator.com/item?id=37551761"
     ],
     [
-      "How FoundationDB works and why it works (2021)",
-      "https://blog.the-pans.com/notes-on-the-foundationdb-paper/"
+      "The daguerreotype is famous – why not the calotype?",
+      "https://daily.jstor.org/the-daguerreotypes-famous-why-not-the-calotype/"
     ]
   ],
   [
@@ -267,6 +267,16 @@
     [
       "Mysteries of the Court of Miracles",
       "https://reynolds-news.com/2023/09/14/court-of-miracles-underworld-stephen-basdeo/"
+    ]
+  ],
+  [
+    [
+      "2023-09-17, 19:39:51",
+      "https://news.ycombinator.com/item?id=37548605"
+    ],
+    [
+      "The collaborative spirit behind Brian Eno’s record sleeve designs (2022)",
+      "https://eyeondesign.aiga.org/the-collaborative-spirit-behind-brian-enos-record-sleeve-designs/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Pentominoku for Layla",
       "https://logic-masters.de/Raetselportal/Raetsel/zeigen.php?id=000F6A"
-    ]
-  ],
-  [
-    [
-      "2023-09-16, 06:16:47",
-      "https://news.ycombinator.com/item?id=37532439"
-    ],
-    [
-      "Queueing Theory: An introduction for software development",
-      "https://github.com/joelparkerhenderson/queueing-theory"
     ]
   ]
 ]
