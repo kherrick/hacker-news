@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-18, 15:30:47](https://news.ycombinator.com/item?id=37557580) - [The truth about nitro-meats: my seven-year search for better bacon](https://www.theguardian.com/food/2023/sep/18/the-truth-about-nitro-meats-my-seven-year-search-for-better-bacon~)
 * [2023-09-18, 14:43:30](https://news.ycombinator.com/item?id=37556802) - [California's Delete Act will make erasing consumers' data easier](https://www.techspot.com/news/100180-california-delete-act-make-erasing-consumers-data-easier.html)
 * [2023-09-18, 14:38:03](https://news.ycombinator.com/item?id=37556719) - [Creators of Argo CD Release New OSS Project Kargo for Next Gen Gitops](https://akuity.io/blog/introducing-kargo/)
 * [2023-09-18, 14:30:09](https://news.ycombinator.com/item?id=37556605) - [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
 * [2023-09-18, 14:20:29](https://news.ycombinator.com/item?id=37556461) - [US gov seeking comments on DCAT-US Schema v3.0](https://github.com/DOI-DO/dcat-us)
 * [2023-09-18, 14:13:51](https://news.ycombinator.com/item?id=37556388) - [TSMC tells vendors to delay chip equipment deliveries](https://www.reuters.com/technology/tsmc-tells-vendors-delay-chip-equipment-deliveries-sources-2023-09-15/)
-* [2023-09-18, 14:02:19](https://news.ycombinator.com/item?id=37556260) - [Paul McEnroe’s role in developing the UPC barcode hasn’t been fully acknowledged](https://www.entrepreneur.com/science-technology/the-barcode-inventor-didnt-get-credit-now-hes/458787)
 * [2023-09-18, 13:44:29](https://news.ycombinator.com/item?id=37556025) - [Replanting Logged Forests with Diverse Seedlings Accelerates Restoration](https://www.technologynetworks.com/applied-sciences/news/replanting-logged-forests-with-diverse-mixtures-of-seedlings-accelerates-restoration-378916)
 * [2023-09-18, 13:04:50](https://news.ycombinator.com/item?id=37555556) - [Follow up to “Changing the rules of Rust”](https://without.boats/blog/follow-up-to-changing-the-rules-of-rust/)
 * [2023-09-18, 12:43:06](https://news.ycombinator.com/item?id=37555364) - [A Conversation with Renaissance Technologies CEO Peter Brown](https://www.goldmansachs.com/intelligence/podcasts/episodes/09-11-2023-peter-brown.html)
