@@ -6,6 +6,7 @@
 
 * [2023-09-18, 21:20:18](https://news.ycombinator.com/item?id=37562225) - [Some new snippets from the Snowden documents](https://www.electrospaces.net/2023/09/some-new-snippets-from-snowden-documents.html)
 * [2023-09-18, 21:05:19](https://news.ycombinator.com/item?id=37562039) - [Ask HN: YouTube keeps suggesting vids I marked “not interested”. What can I do?](https://news.ycombinator.com/item?id=37562039)
+* [2023-09-18, 21:02:45](https://news.ycombinator.com/item?id=37562007) - [Demands for Tips Are Up. Actual Tipping, Not So Much](https://www.wsj.com/personal-finance/demands-for-tips-are-up-actual-tipping-not-so-much-2ee1908b)
 * [2023-09-18, 20:43:30](https://news.ycombinator.com/item?id=37561762) - [Godot is not the new Unity – The anatomy of a Godot API call](https://sampruden.github.io/posts/godot-is-not-the-new-unity/)
 * [2023-09-18, 20:38:45](https://news.ycombinator.com/item?id=37561696) - [FTC Warns Pharma: May Go After Them for Sham Patents Designed to Delay Generics](https://www.techdirt.com/2023/09/18/ftc-warns-pharma-companies-that-it-may-go-after-them-for-sham-patent-listings-designed-to-delay-generic-competitors/)
 * [2023-09-18, 20:37:00](https://news.ycombinator.com/item?id=37561668) - [Citing “rapid evolution of generative AI,” Amazon limits new Kindle books](https://www.kdpcommunity.com/s/article/Update-on-KDP-Title-Creation-Limits?language=en_US&forum=KDP%20Forum)
