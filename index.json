@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-18, 18:34:08",
+      "https://news.ycombinator.com/item?id=37560125"
+    ],
+    [
+      "GPT 3.5 vs. Llama 2 fine-tuning: A Comprehensive Comparison",
+      "https://ragntune.com/blog/gpt3.5-vs-llama2-finetuning"
+    ]
+  ],
+  [
+    [
       "2023-09-18, 18:34:05",
       "https://news.ycombinator.com/item?id=37560121"
     ],
@@ -87,16 +97,6 @@
     [
       "California's Delete Act will make erasing consumers' data easier",
       "https://www.techspot.com/news/100180-california-delete-act-make-erasing-consumers-data-easier.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-18, 14:38:03",
-      "https://news.ycombinator.com/item?id=37556719"
-    ],
-    [
-      "Creators of Argo CD Release New OSS Project Kargo for Next Gen Gitops",
-      "https://akuity.io/blog/introducing-kargo/"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2023-09-18, 09:54:19",
+      "https://news.ycombinator.com/item?id=37554176"
+    ],
+    [
+      "How Hard Is It to Adapt a Memory Allocator to CHERI?",
+      "https://tratt.net/laurie/blog/2023/how_hard_is_it_to_adapt_a_memory_allocator_to_cheri.html"
+    ]
+  ],
+  [
+    [
       "2023-09-18, 08:11:21",
       "https://news.ycombinator.com/item?id=37553574"
     ],
@@ -251,22 +261,22 @@
   ],
   [
     [
-      "2023-09-18, 04:00:56",
-      "https://news.ycombinator.com/item?id=37552085"
-    ],
-    [
-      "How FoundationDB works and why it works (2021)",
-      "https://blog.the-pans.com/notes-on-the-foundationdb-paper/"
-    ]
-  ],
-  [
-    [
       "2023-09-18, 02:33:45",
       "https://news.ycombinator.com/item?id=37551566"
     ],
     [
       "Mysteries of the Court of Miracles",
       "https://reynolds-news.com/2023/09/14/court-of-miracles-underworld-stephen-basdeo/"
+    ]
+  ],
+  [
+    [
+      "2023-09-17, 11:05:04",
+      "https://news.ycombinator.com/item?id=37543717"
+    ],
+    [
+      "Pentominoku for Layla",
+      "https://logic-masters.de/Raetselportal/Raetsel/zeigen.php?id=000F6A"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Queueing Theory: An introduction for software development",
       "https://github.com/joelparkerhenderson/queueing-theory"
-    ]
-  ],
-  [
-    [
-      "2023-09-15, 11:12:03",
-      "https://news.ycombinator.com/item?id=37521273"
-    ],
-    [
-      "Backup the caravan",
-      "https://popey.com/blog/2023/09/backup-the-caravan/"
     ]
   ]
 ]
