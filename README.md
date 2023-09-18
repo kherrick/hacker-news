@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-18, 23:06:40](https://news.ycombinator.com/item?id=37563335) - [U.S. National Debt Tops $33T for First Time](https://www.nytimes.com/2023/09/18/us/politics/us-national-debt.html)
+* [2023-09-18, 22:58:14](https://news.ycombinator.com/item?id=37563276) - [Tests find many popular omega 3 supplements are rancid](https://medicalxpress.com/news/2023-09-popular-omega-supplements-rancid.html)
 * [2023-09-18, 22:52:51](https://news.ycombinator.com/item?id=37563231) - [Striking auto workers want a 40% pay increase–the same rate their CEOs’ pay grew](https://www.cnbc.com/2023/09/15/striking-uaw-auto-workers-want-a-40percent-pay-increase-how-much-they-make-now.html)
 * [2023-09-18, 21:20:18](https://news.ycombinator.com/item?id=37562225) - [Some new snippets from the Snowden documents](https://www.electrospaces.net/2023/09/some-new-snippets-from-snowden-documents.html)
 * [2023-09-18, 20:38:45](https://news.ycombinator.com/item?id=37561696) - [FTC warns pharma companies about sham patent listings designed to delay generics](https://www.techdirt.com/2023/09/18/ftc-warns-pharma-companies-that-it-may-go-after-them-for-sham-patent-listings-designed-to-delay-generic-competitors/)
 * [2023-09-18, 20:37:00](https://news.ycombinator.com/item?id=37561668) - [Update on KDP Title Creation Limits](https://www.kdpcommunity.com/s/article/Update-on-KDP-Title-Creation-Limits?language=en_US&forum=KDP%20Forum)
-* [2023-09-18, 20:16:52](https://news.ycombinator.com/item?id=37561428) - [UK Post Office: 700 Horizon software scandal victims to receive £600k each](https://www.theguardian.com/business/2023/sep/18/post-office-horizon-scandal-victims-compensation)
 * [2023-09-18, 19:24:32](https://news.ycombinator.com/item?id=37560787) - [Apple TV, now with more Tailscale](https://tailscale.com/blog/apple-tv/)
 * [2023-09-18, 18:57:53](https://news.ycombinator.com/item?id=37560428) - [Making IIIF Official at the Internet Archive](https://blog.archive.org/2023/09/18/making-iiif-official-at-the-internet-archive/)
 * [2023-09-18, 17:17:25](https://news.ycombinator.com/item?id=37559005) - [The joys of maintenance programming (2011)](https://typicalprogrammer.com/the-joys-of-maintenance-programming)
