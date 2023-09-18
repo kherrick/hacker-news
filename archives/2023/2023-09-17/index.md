@@ -69,6 +69,7 @@
 * [2023-09-17, 11:29:30](https://news.ycombinator.com/item?id=37543883) - [Eating Fossils](https://www.palass.org/publications/newsletter/eating-fossils)
 * [2023-09-17, 11:26:40](https://news.ycombinator.com/item?id=37543855) - [Unity's Trap](https://www.pentadact.com/2023-09-16-unitys-trap/)
 * [2023-09-17, 11:05:45](https://news.ycombinator.com/item?id=37543726) - [New York Times Doesn’t Want Its Stories Archived](https://theintercept.com/2023/09/17/new-york-times-website-internet-archive/)
+* [2023-09-17, 11:05:04](https://news.ycombinator.com/item?id=37543717) - [Pentominoku for Layla](https://logic-masters.de/Raetselportal/Raetsel/zeigen.php?id=000F6A)
 * [2023-09-17, 10:58:26](https://news.ycombinator.com/item?id=37543664) - [I hacked macOS CVE-2022-32947](https://asahilina.net/agx-exploit/)
 * [2023-09-17, 10:22:06](https://news.ycombinator.com/item?id=37543468) - [Hyprland Is a Toxic Community](https://drewdevault.com/2023/09/17/Hyprland-toxicity.html)
 * [2023-09-17, 09:53:33](https://news.ycombinator.com/item?id=37543267) - [How the fentanyl crisis' fourth wave has hit every corner of the US](https://www.bbc.com/news/world-us-canada-66826895)
