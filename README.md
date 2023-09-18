@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-18, 08:11:21](https://news.ycombinator.com/item?id=37553574) - [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
 * [2023-09-18, 07:37:44](https://news.ycombinator.com/item?id=37553381) - [Apple CEO Tim Cook on creating a clean energy future](https://www.cbsnews.com/news/apple-ceo-tim-cook-on-creating-a-clean-energy-future/)
 * [2023-09-18, 06:58:13](https://news.ycombinator.com/item?id=37553125) - [Pollution in 1/8 (2010)](https://labs.ripe.net/author/franz/pollution-in-18/)
-* [2023-09-18, 05:39:07](https://news.ycombinator.com/item?id=37552605) - [iPhone 15 Pro facts and estimates](https://leancrew.com/all-this/2023/09/iphone-15-pro-facts-and-estimates/)
 * [2023-09-18, 04:00:56](https://news.ycombinator.com/item?id=37552085) - [How FoundationDB works and why it works (2021)](https://blog.the-pans.com/notes-on-the-foundationdb-paper/)
 * [2023-09-18, 02:19:30](https://news.ycombinator.com/item?id=37551474) - [Introduction to Immutable Linux Systems](https://dataswamp.org/~solene/2023-07-12-intro-to-immutable-os.html)
 * [2023-09-18, 01:29:46](https://news.ycombinator.com/item?id=37551175) - [Plants can detect sound](https://www.economist.com/science-and-technology/2023/09/06/plants-dont-have-ears-but-they-can-still-detect-sound)
