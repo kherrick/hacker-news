@@ -6,6 +6,7 @@
 
 * [2023-09-18, 18:34:08](https://news.ycombinator.com/item?id=37560125) - [GPT 3.5 vs. Llama 2 fine-tuning: A Comprehensive Comparison](https://ragntune.com/blog/gpt3.5-vs-llama2-finetuning)
 * [2023-09-18, 18:34:05](https://news.ycombinator.com/item?id=37560121) - [Nushell and Uutils](https://www.nushell.sh/blog/2023-09-05-why-uu.html)
+* [2023-09-18, 18:18:07](https://news.ycombinator.com/item?id=37559879) - [Tell HN: AWS outage in us-west-2 AND us-east-1](https://news.ycombinator.com/item?id=37559879)
 * [2023-09-18, 18:02:47](https://news.ycombinator.com/item?id=37559642) - [Americans Can Barely Afford Homes](https://www.bloomberg.com/news/articles/2023-09-18/biden-2024-campaign-faces-risk-in-swing-states-with-dwindling-home-affordability)
 * [2023-09-18, 18:00:21](https://news.ycombinator.com/item?id=37559599) - [Astronomy Photographer of the Year 2023 winners](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/overall-winners-2023)
 * [2023-09-18, 17:53:49](https://news.ycombinator.com/item?id=37559506) - [Is OpenTelemetry a first-class citizen? A comparison of Datadog and New Relic](https://signoz.io/blog/is-opentelemetry-a-first-class-citizen-in-your-dashboard-a-datadog-and-newrelic-comparison/)
