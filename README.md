@@ -20,7 +20,6 @@
 * [2023-09-18, 12:12:30](https://news.ycombinator.com/item?id=37555118) - [The brain is not an onion with a tiny reptile inside (2020)](https://journals.sagepub.com/doi/10.1177/0963721420917687)
 * [2023-09-18, 12:00:39](https://news.ycombinator.com/item?id=37555031) - [MixRank (YC S11) is hiring global remote software engineers](https://news.ycombinator.com/item?id=37555031)
 * [2023-09-18, 10:47:17](https://news.ycombinator.com/item?id=37554504) - [NSA Backdoor Key from Lotus-Notes (2002)](http://www.cypherspace.org/adam/hacks/lotus-nsa-key.html)
-* [2023-09-18, 10:33:42](https://news.ycombinator.com/item?id=37554406) - [Unix shells are generally not viable access control mechanisms any more](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/UnixShellsNoMoreAccessControl)
 * [2023-09-18, 09:54:19](https://news.ycombinator.com/item?id=37554176) - [How hard is it to adapt a memory allocator to CHERI?](https://tratt.net/laurie/blog/2023/how_hard_is_it_to_adapt_a_memory_allocator_to_cheri.html)
 * [2023-09-18, 07:07:47](https://news.ycombinator.com/item?id=37553193) - [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
 * [2023-09-18, 05:27:17](https://news.ycombinator.com/item?id=37552537) - [Interpretation and analysis of songs written or performed by Pet Shop Boys](http://www.geowayne.com/psbhtml.htm)
@@ -29,6 +28,7 @@
 * [2023-09-18, 03:07:24](https://news.ycombinator.com/item?id=37551761) - [The daguerreotype is famous – why not the calotype?](https://daily.jstor.org/the-daguerreotypes-famous-why-not-the-calotype/)
 * [2023-09-18, 02:33:45](https://news.ycombinator.com/item?id=37551566) - [Mysteries of the Court of Miracles](https://reynolds-news.com/2023/09/14/court-of-miracles-underworld-stephen-basdeo/)
 * [2023-09-17, 19:39:51](https://news.ycombinator.com/item?id=37548605) - [The collaborative spirit behind Brian Eno’s record sleeve designs (2022)](https://eyeondesign.aiga.org/the-collaborative-spirit-behind-brian-enos-record-sleeve-designs/)
+* [2023-09-17, 16:05:28](https://news.ycombinator.com/item?id=37546530) - [Making architecture easy](https://worksinprogress.co/issue/making-architecture-easy)
 * [2023-09-17, 11:05:04](https://news.ycombinator.com/item?id=37543717) - [Pentominoku for Layla](https://logic-masters.de/Raetselportal/Raetsel/zeigen.php?id=000F6A)
 
 ## [Archives](archives/index.md)
