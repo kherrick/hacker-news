@@ -25,11 +25,11 @@
 * [2023-09-16, 21:39:23](https://news.ycombinator.com/item?id=37538971) - [On Being the Right Size (1926) [pdf]](http://www.phys.ufl.edu/courses/phy3221/spring10/HaldaneRightSize.pdf)
 * [2023-09-16, 13:06:30](https://news.ycombinator.com/item?id=37534453) - [National Motorcycle Museum Closing Its Doors](https://nationalmcmuseum.org/)
 * [2023-09-16, 11:23:40](https://news.ycombinator.com/item?id=37533832) - [Vaxbarn](https://vaxbarn.com/)
-* [2023-09-16, 09:53:46](https://news.ycombinator.com/item?id=37533424) - [We've underrated what these birds can do: the secret life of Skomer’s guillemots](https://www.theguardian.com/environment/2023/sep/16/we-have-underrated-what-these-birds-can-do-the-secret-life-of-skomers-guillemots-tim-birkhead)
 * [2023-09-16, 06:45:15](https://news.ycombinator.com/item?id=37532560) - [Simple Drawings with Mathematica](https://leancrew.com/all-this/2023/09/simple-drawings-with-mathematica/)
 * [2023-09-16, 06:14:33](https://news.ycombinator.com/item?id=37532426) - [Hexadecimal clock counting down to 2038 problem](https://retr0.id/stuff/2038/)
 * [2023-09-16, 06:04:13](https://news.ycombinator.com/item?id=37532397) - [Pineapple ONE: open-source 32 bit RISC-V CPU that you can make at home](https://pineapple-one.github.io/)
 * [2023-09-15, 15:11:56](https://news.ycombinator.com/item?id=37524285) - [Apocalypse Proof: 33 Thomas Street in New York City](https://placesjournal.org/article/33-thomas-street-and-conspiracy-thrillers/)
+* [2023-09-15, 11:25:31](https://news.ycombinator.com/item?id=37521383) - [Glazes induced degradation of tea catechins](https://www.nature.com/articles/s41598-023-37480-8)
 
 ## [Archives](archives/index.md)
 
