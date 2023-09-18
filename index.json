@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-18, 18:34:08",
+      "https://news.ycombinator.com/item?id=37560125"
+    ],
+    [
+      "GPT 3.5 vs. Llama 2 fine-tuning: A Comprehensive Comparison",
+      "https://ragntune.com/blog/gpt3.5-vs-llama2-finetuning"
+    ]
+  ],
+  [
+    [
       "2023-09-18, 18:34:05",
       "https://news.ycombinator.com/item?id=37560121"
     ],
@@ -11,11 +21,21 @@
   ],
   [
     [
+      "2023-09-18, 18:18:07",
+      "https://news.ycombinator.com/item?id=37559879"
+    ],
+    [
+      "Tell HN: AWS outage in us-west-2 AND us-east-1",
+      "https://news.ycombinator.com/item?id=37559879"
+    ]
+  ],
+  [
+    [
       "2023-09-18, 17:53:49",
       "https://news.ycombinator.com/item?id=37559506"
     ],
     [
-      "Is OpenTelemetry a first-class citizen? A comparison of Datadog and New Relic",
+      "Comparing Datadog and New Relic's support for OpenTelemetry data",
       "https://signoz.io/blog/is-opentelemetry-a-first-class-citizen-in-your-dashboard-a-datadog-and-newrelic-comparison/"
     ]
   ],
@@ -27,16 +47,6 @@
     [
       "Paint on Windows is getting layers and transparency support",
       "https://blogs.windows.com/windows-insider/2023/09/18/paint-app-update-adding-support-for-layers-and-transparency-begins-rolling-out-to-windows-insiders/"
-    ]
-  ],
-  [
-    [
-      "2023-09-18, 17:25:20",
-      "https://news.ycombinator.com/item?id=37559133"
-    ],
-    [
-      "SteamOS 3.5 Delivering Some Decent Performance Gains for the Steam Deck",
-      "https://www.phoronix.com/review/steamos-35-benchmarks"
     ]
   ],
   [
@@ -81,6 +91,16 @@
   ],
   [
     [
+      "2023-09-18, 14:38:03",
+      "https://news.ycombinator.com/item?id=37556719"
+    ],
+    [
+      "Creators of Argo CD Release New OSS Project Kargo for Next Gen Gitops",
+      "https://akuity.io/blog/introducing-kargo/"
+    ]
+  ],
+  [
+    [
       "2023-09-18, 14:30:09",
       "https://news.ycombinator.com/item?id=37556605"
     ],
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=37556461"
     ],
     [
-      "Seeking comments on DCAT-US Schema v3.0",
+      "Seeking comments on the Data Catalog (DCAT) standard v3.0",
       "https://github.com/DOI-DO/dcat-us"
     ]
   ],
@@ -145,7 +165,7 @@
       "https://news.ycombinator.com/item?id=37555031"
     ],
     [
-      "MixRank (YC S11) Is Hiring Global Remote Software Engineers",
+      "MixRank (YC S11) is hiring global remote software engineers",
       "https://news.ycombinator.com/item?id=37555031"
     ]
   ],
@@ -155,7 +175,7 @@
       "https://news.ycombinator.com/item?id=37555028"
     ],
     [
-      "Memory Efficient Enum Arrays in Zig",
+      "Memory-efficient enum arrays in Zig",
       "https://alic.dev/blog/dense-enums"
     ]
   ],
@@ -165,7 +185,7 @@
       "https://news.ycombinator.com/item?id=37555004"
     ],
     [
-      "Japan's Hometown Tax",
+      "Japan's Hometown Tax (2018)",
       "https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/"
     ]
   ],
@@ -175,7 +195,7 @@
       "https://news.ycombinator.com/item?id=37554504"
     ],
     [
-      "NSA’s Backdoor Key (2002)",
+      "NSA Backdoor Key from Lotus-Notes (2002)",
       "http://www.cypherspace.org/adam/hacks/lotus-nsa-key.html"
     ]
   ],
@@ -195,7 +215,7 @@
       "https://news.ycombinator.com/item?id=37554176"
     ],
     [
-      "How Hard Is It to Adapt a Memory Allocator to CHERI?",
+      "How hard is it to adapt a memory allocator to CHERI?",
       "https://tratt.net/laurie/blog/2023/how_hard_is_it_to_adapt_a_memory_allocator_to_cheri.html"
     ]
   ],
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2023-09-17, 16:05:28",
-      "https://news.ycombinator.com/item?id=37546530"
-    ],
-    [
-      "Making Architecture Easy",
-      "https://worksinprogress.co/issue/making-architecture-easy"
-    ]
-  ],
-  [
-    [
       "2023-09-17, 11:05:04",
       "https://news.ycombinator.com/item?id=37543717"
     ],
     [
       "Pentominoku for Layla",
       "https://logic-masters.de/Raetselportal/Raetsel/zeigen.php?id=000F6A"
-    ]
-  ],
-  [
-    [
-      "2023-09-16, 09:19:29",
-      "https://news.ycombinator.com/item?id=37533259"
-    ],
-    [
-      "10 years with Hayao Miyazaki [video]",
-      "https://www3.nhk.or.jp/nhkworld/en/ondemand/video/3004569/"
     ]
   ],
   [
