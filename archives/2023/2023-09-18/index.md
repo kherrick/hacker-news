@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-18](index.md)
 
+* [2023-09-18, 19:51:16](https://news.ycombinator.com/item?id=37561085) - [Show HN: macOS GUI for running LLMs locally](https://www.avapls.com/)
 * [2023-09-18, 19:33:50](https://news.ycombinator.com/item?id=37560886) - [Create non-game apps with Godot Engine](https://simondalvai.org/blog/godot-apps/)
 * [2023-09-18, 19:24:32](https://news.ycombinator.com/item?id=37560787) - [Apple TV, now with more Tailscale](https://tailscale.com/blog/apple-tv/)
 * [2023-09-18, 18:34:08](https://news.ycombinator.com/item?id=37560125) - [GPT 3.5 vs. Llama 2 fine-tuning: A Comprehensive Comparison](https://ragntune.com/blog/gpt3.5-vs-llama2-finetuning)
@@ -69,6 +70,7 @@
 * [2023-09-18, 06:13:15](https://news.ycombinator.com/item?id=37552808) - [Starlink quietly lost over $250M in burned satellites this summer](https://tiblur.com/post/462038779695576304265368)
 * [2023-09-18, 05:39:07](https://news.ycombinator.com/item?id=37552605) - [iPhone 15 Pro 10% lighter but 15% lower rotational inertia because of edge mass](https://leancrew.com/all-this/2023/09/iphone-15-pro-facts-and-estimates/)
 * [2023-09-18, 05:27:17](https://news.ycombinator.com/item?id=37552537) - [Interpretation and analysis of songs written or performed by Pet Shop Boys](http://www.geowayne.com/psbhtml.htm)
+* [2023-09-18, 04:13:57](https://news.ycombinator.com/item?id=37552161) - [Van Gogh’s Self-Portraits](https://www.vangoghmuseum.nl/en/art-and-stories/stories/all-stories/5-things-you-need-to-know-about-van-goghs-self-portraits)
 * [2023-09-18, 04:12:19](https://news.ycombinator.com/item?id=37552151) - [Ron Cobb – Filmography](https://roncobb.net/film.html)
 * [2023-09-18, 04:00:56](https://news.ycombinator.com/item?id=37552085) - [How FoundationDB works and why it works](https://blog.the-pans.com/notes-on-the-foundationdb-paper/)
 * [2023-09-18, 03:07:24](https://news.ycombinator.com/item?id=37551761) - [The Daguerreotype’s Famous. Why Not the Calotype?](https://daily.jstor.org/the-daguerreotypes-famous-why-not-the-calotype/)
