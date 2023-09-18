@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-18, 18:34:05](https://news.ycombinator.com/item?id=37560121) - [Nushell and Uutils](https://www.nushell.sh/blog/2023-09-05-why-uu.html)
 * [2023-09-18, 18:02:47](https://news.ycombinator.com/item?id=37559642) - [Americans Can Barely Afford Homes](https://www.bloomberg.com/news/articles/2023-09-18/biden-2024-campaign-faces-risk-in-swing-states-with-dwindling-home-affordability)
 * [2023-09-18, 18:00:21](https://news.ycombinator.com/item?id=37559599) - [Astronomy Photographer of the Year 2023 winners](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/overall-winners-2023)
 * [2023-09-18, 17:34:37](https://news.ycombinator.com/item?id=37559256) - [Paint on Windows is getting layers and transparency support](https://blogs.windows.com/windows-insider/2023/09/18/paint-app-update-adding-support-for-layers-and-transparency-begins-rolling-out-to-windows-insiders/)
@@ -26,7 +27,6 @@
 * [2023-09-18, 04:12:19](https://news.ycombinator.com/item?id=37552151) - [Ron Cobb – Filmography](https://roncobb.net/film.html)
 * [2023-09-18, 04:00:56](https://news.ycombinator.com/item?id=37552085) - [How FoundationDB works and why it works (2021)](https://blog.the-pans.com/notes-on-the-foundationdb-paper/)
 * [2023-09-18, 02:33:45](https://news.ycombinator.com/item?id=37551566) - [Mysteries of the Court of Miracles](https://reynolds-news.com/2023/09/14/court-of-miracles-underworld-stephen-basdeo/)
-* [2023-09-17, 16:05:28](https://news.ycombinator.com/item?id=37546530) - [Making Architecture Easy](https://worksinprogress.co/issue/making-architecture-easy)
 * [2023-09-16, 09:19:29](https://news.ycombinator.com/item?id=37533259) - [10 years with Hayao Miyazaki [video]](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/3004569/)
 * [2023-09-16, 06:16:47](https://news.ycombinator.com/item?id=37532439) - [Queueing Theory: An introduction for software development](https://github.com/joelparkerhenderson/queueing-theory)
 * [2023-09-15, 11:12:03](https://news.ycombinator.com/item?id=37521273) - [Backup the caravan](https://popey.com/blog/2023/09/backup-the-caravan/)
