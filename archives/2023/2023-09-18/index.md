@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-09-18](index.md)
 
+* [2023-09-18, 18:02:47](https://news.ycombinator.com/item?id=37559642) - [Americans Can Barely Afford Homes](https://www.bloomberg.com/news/articles/2023-09-18/biden-2024-campaign-faces-risk-in-swing-states-with-dwindling-home-affordability)
 * [2023-09-18, 18:00:21](https://news.ycombinator.com/item?id=37559599) - [Astronomy Photographer of the Year 2023 winners](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/overall-winners-2023)
 * [2023-09-18, 17:44:47](https://news.ycombinator.com/item?id=37559386) - [GPT-3.5-Turbo-Instruct](https://openai.com/research/instruction-following)
 * [2023-09-18, 17:34:37](https://news.ycombinator.com/item?id=37559256) - [Paint on Windows is getting layers and transparency support](https://blogs.windows.com/windows-insider/2023/09/18/paint-app-update-adding-support-for-layers-and-transparency-begins-rolling-out-to-windows-insiders/)
 * [2023-09-18, 17:27:36](https://news.ycombinator.com/item?id=37559161) - [iOS 17 is available today](https://www.apple.com/newsroom/2023/09/ios-17-is-available-today/)
+* [2023-09-18, 17:25:20](https://news.ycombinator.com/item?id=37559133) - [SteamOS 3.5 Delivering Some Decent Performance Gains for the Steam Deck](https://www.phoronix.com/review/steamos-35-benchmarks)
 * [2023-09-18, 17:17:25](https://news.ycombinator.com/item?id=37559005) - [The joys of maintenance programming (2011)](https://typicalprogrammer.com/the-joys-of-maintenance-programming)
 * [2023-09-18, 17:01:48](https://news.ycombinator.com/item?id=37558813) - [Self-supervised learning: The dark matter of intelligence](https://ai.meta.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
 * [2023-09-18, 16:58:54](https://news.ycombinator.com/item?id=37558780) - [Ozempic Can Cause Major Loss of Muscle Mass and Reduce Bone Density](https://www.healthline.com/health-news/ozempic-muscle-mass-loss)
