@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-18, 19:33:50](https://news.ycombinator.com/item?id=37560886) - [Create non-game apps with Godot Engine](https://simondalvai.org/blog/godot-apps/)
 * [2023-09-18, 19:24:32](https://news.ycombinator.com/item?id=37560787) - [Apple TV, now with more Tailscale](https://tailscale.com/blog/apple-tv/)
-* [2023-09-18, 18:34:05](https://news.ycombinator.com/item?id=37560121) - [Nushell and Uutils](https://www.nushell.sh/blog/2023-09-05-why-uu.html)
 * [2023-09-18, 18:16:50](https://news.ycombinator.com/item?id=37559862) - [Trunk-based development vs. long-lived feature branches](https://ardalis.com/trunk-based-development-vs-long-lived-feature-branches/)
 * [2023-09-18, 18:04:34](https://news.ycombinator.com/item?id=37559664) - [A Bus Driver Killed a Man, the City Blamed Tech](https://www.theindustry.pw/p/cruise-sf-fire-chief)
 * [2023-09-18, 17:53:49](https://news.ycombinator.com/item?id=37559506) - [Comparing Datadog and New Relic's support for OpenTelemetry data](https://signoz.io/blog/is-opentelemetry-a-first-class-citizen-in-your-dashboard-a-datadog-and-newrelic-comparison/)
@@ -11,6 +11,7 @@
 * [2023-09-18, 17:01:48](https://news.ycombinator.com/item?id=37558813) - [Self-supervised learning: The dark matter of intelligence (2021)](https://ai.meta.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
 * [2023-09-18, 16:54:13](https://news.ycombinator.com/item?id=37558718) - [Why and when the Sahara Desert was green: new research](https://phys.org/news/2023-09-reveals-sahara-green.html)
 * [2023-09-18, 16:26:56](https://news.ycombinator.com/item?id=37558382) - [The male loneliness epidemic and how it affects fathers](https://www.cnn.com/2023/09/18/health/male-loneliness-epidemic-wellness/index.html)
+* [2023-09-18, 16:26:28](https://news.ycombinator.com/item?id=37558372) - [Tell HN: Goodbye HTML Gmail](https://news.ycombinator.com/item?id=37558372)
 * [2023-09-18, 16:25:10](https://news.ycombinator.com/item?id=37558357) - [Show HN: HyperDX – open-source dev-friendly Datadog alternative](https://github.com/hyperdxio/hyperdx)
 * [2023-09-18, 14:38:03](https://news.ycombinator.com/item?id=37556719) - [Kargo, a multi-stage application lifecycle orchestrator](https://akuity.io/blog/introducing-kargo/)
 * [2023-09-18, 14:30:09](https://news.ycombinator.com/item?id=37556605) - [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
@@ -28,7 +29,6 @@
 * [2023-09-18, 03:07:24](https://news.ycombinator.com/item?id=37551761) - [The daguerreotype is famous – why not the calotype?](https://daily.jstor.org/the-daguerreotypes-famous-why-not-the-calotype/)
 * [2023-09-18, 02:33:45](https://news.ycombinator.com/item?id=37551566) - [Mysteries of the Court of Miracles](https://reynolds-news.com/2023/09/14/court-of-miracles-underworld-stephen-basdeo/)
 * [2023-09-17, 19:39:51](https://news.ycombinator.com/item?id=37548605) - [The collaborative spirit behind Brian Eno’s record sleeve designs (2022)](https://eyeondesign.aiga.org/the-collaborative-spirit-behind-brian-enos-record-sleeve-designs/)
-* [2023-09-17, 16:05:28](https://news.ycombinator.com/item?id=37546530) - [Making architecture easy](https://worksinprogress.co/issue/making-architecture-easy)
 * [2023-09-17, 11:05:04](https://news.ycombinator.com/item?id=37543717) - [Pentominoku for Layla](https://logic-masters.de/Raetselportal/Raetsel/zeigen.php?id=000F6A)
 
 ## [Archives](archives/index.md)

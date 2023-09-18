@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-18](index.md)
 
+* [2023-09-18, 19:33:50](https://news.ycombinator.com/item?id=37560886) - [Create non-game apps with Godot Engine](https://simondalvai.org/blog/godot-apps/)
 * [2023-09-18, 19:24:32](https://news.ycombinator.com/item?id=37560787) - [Apple TV, now with more Tailscale](https://tailscale.com/blog/apple-tv/)
 * [2023-09-18, 18:34:08](https://news.ycombinator.com/item?id=37560125) - [GPT 3.5 vs. Llama 2 fine-tuning: A Comprehensive Comparison](https://ragntune.com/blog/gpt3.5-vs-llama2-finetuning)
 * [2023-09-18, 18:34:05](https://news.ycombinator.com/item?id=37560121) - [Nushell and Uutils](https://www.nushell.sh/blog/2023-09-05-why-uu.html)
@@ -24,6 +25,7 @@
 * [2023-09-18, 16:54:13](https://news.ycombinator.com/item?id=37558718) - [Why and when the Sahara Desert was green: new research](https://phys.org/news/2023-09-reveals-sahara-green.html)
 * [2023-09-18, 16:40:11](https://news.ycombinator.com/item?id=37558535) - [Linux is a nightmare – only 0.8% of sales – over 50% of reported tech issues](https://sh.reddit.com/r/gamedev/comments/e2ww5s/mike_rose_linux_is_a_nightmare_only_08_of_sales/)
 * [2023-09-18, 16:26:56](https://news.ycombinator.com/item?id=37558382) - [The male loneliness epidemic and how it affects fathers](https://www.cnn.com/2023/09/18/health/male-loneliness-epidemic-wellness/index.html)
+* [2023-09-18, 16:26:28](https://news.ycombinator.com/item?id=37558372) - [Tell HN: Goodbye HTML Gmail](https://news.ycombinator.com/item?id=37558372)
 * [2023-09-18, 16:26:05](https://news.ycombinator.com/item?id=37558366) - [Holding Apple Accountable: The Future of the Internet Economy Depends on It](https://newsroom.spotify.com/2023-09-18/dustee-jenkins-holding-apple-accountable-internet-economy-fairness-digital-markets-act/)
 * [2023-09-18, 16:25:10](https://news.ycombinator.com/item?id=37558357) - [Show HN: HyperDX – open-source dev-friendly Datadog alternative](https://github.com/hyperdxio/hyperdx)
 * [2023-09-18, 15:31:50](https://news.ycombinator.com/item?id=37557595) - [Y Combinator Podcast #4: Sam Altman Interviews Elon Musk](https://www.ycombinator.com/blog/elon-musk-on-how-to-build-the-future/)
