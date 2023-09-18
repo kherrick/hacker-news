@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-18, 04:00:56](https://news.ycombinator.com/item?id=37552085) - [How FoundationDB works and why it works](https://blog.the-pans.com/notes-on-the-foundationdb-paper/)
+* [2023-09-18, 05:39:07](https://news.ycombinator.com/item?id=37552605) - [iPhone 15 Pro 10% lighter but 15% lower rotational inertia because of edge mass](https://leancrew.com/all-this/2023/09/iphone-15-pro-facts-and-estimates/)
+* [2023-09-18, 04:00:56](https://news.ycombinator.com/item?id=37552085) - [How FoundationDB works and why it works (2021)](https://blog.the-pans.com/notes-on-the-foundationdb-paper/)
 * [2023-09-18, 02:19:30](https://news.ycombinator.com/item?id=37551474) - [Introduction to Immutable Linux Systems](https://dataswamp.org/~solene/2023-07-12-intro-to-immutable-os.html)
 * [2023-09-18, 01:29:46](https://news.ycombinator.com/item?id=37551175) - [Plants don’t have ears. But they can still detect sound](https://www.economist.com/science-and-technology/2023/09/06/plants-dont-have-ears-but-they-can-still-detect-sound)
 * [2023-09-17, 22:00:59](https://news.ycombinator.com/item?id=37549745) - [AWS IPv4 Estate Now Worth $4.5B](https://toonk.io/aws-ipv4-estate-now-worth-4-5-billion/index.html)
@@ -10,7 +11,6 @@
 * [2023-09-17, 20:25:54](https://news.ycombinator.com/item?id=37548975) - [Homebrew Website Club](https://indieweb.org/Homebrew_Website_Club)
 * [2023-09-17, 20:25:12](https://news.ycombinator.com/item?id=37548970) - [Wasmer – Run, Publish and Deploy any code, anywhere](https://wasmer.io/)
 * [2023-09-17, 20:25:11](https://news.ycombinator.com/item?id=37548969) - [The International SAT Competition Web Page](http://www.satcompetition.org/)
-* [2023-09-17, 20:17:21](https://news.ycombinator.com/item?id=37548903) - [The Data Science Manifesto (2020)](http://datasciencemanifesto.org/)
 * [2023-09-17, 19:53:58](https://news.ycombinator.com/item?id=37548720) - [Brian Bucklew Porting Caves of Qud from Unity to Godot](https://twitter.com/unormal/status/1703163364229161236)
 * [2023-09-17, 19:44:50](https://news.ycombinator.com/item?id=37548639) - [Infrastructure Manager: Provision Google Cloud Resources with Terraform](https://cloud.google.com/blog/products/management-tools/introducing-infrastructure-manager-powered-by-terraform/)
 * [2023-09-17, 19:38:40](https://news.ycombinator.com/item?id=37548599) - [Donut math: how donut.c works](https://www.a1k0n.net/2011/07/20/donut-math.html)
