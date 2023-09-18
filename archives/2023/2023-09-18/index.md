@@ -24,6 +24,7 @@
 * [2023-09-18, 13:46:12](https://news.ycombinator.com/item?id=37556047) - [Slums in Delhi were flattened before the G20 summit](https://www.reuters.com/graphics/G20-SUMMIT/SLUM/zdpxrxoaypx/)
 * [2023-09-18, 13:44:46](https://news.ycombinator.com/item?id=37556030) - [Study: U.S. dietary recommendations for protein intake are too low](https://bigthink.com/health/us-dietary-protein-recommendations-too-low/)
 * [2023-09-18, 13:44:29](https://news.ycombinator.com/item?id=37556025) - [Replanting Logged Forests with Diverse Seedlings Accelerates Restoration](https://www.technologynetworks.com/applied-sciences/news/replanting-logged-forests-with-diverse-mixtures-of-seedlings-accelerates-restoration-378916)
+* [2023-09-18, 13:34:34](https://news.ycombinator.com/item?id=37555891) - [PyPI Reports on Inbound Malware Notices](https://blog.pypi.org/posts/2023-09-18-inbound-malware-reporting/)
 * [2023-09-18, 13:04:50](https://news.ycombinator.com/item?id=37555556) - [Follow up to “Changing the rules of Rust”](https://without.boats/blog/follow-up-to-changing-the-rules-of-rust/)
 * [2023-09-18, 12:59:02](https://news.ycombinator.com/item?id=37555505) - [Unity says “listening” on fee change, will “update in a couple of days”](https://twitter.com/unity/status/1703547752205218265?s=20)
 * [2023-09-18, 12:43:06](https://news.ycombinator.com/item?id=37555364) - [A Conversation with Renaissance Technologies CEO Peter Brown](https://www.goldmansachs.com/intelligence/podcasts/episodes/09-11-2023-peter-brown.html)
