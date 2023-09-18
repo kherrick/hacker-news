@@ -8,6 +8,7 @@
 * [2023-09-16, 23:14:51](https://news.ycombinator.com/item?id=37539781) - [Demo of megatextures running on n64 hardware](https://github.com/lambertjamesd/n64brew2023)
 * [2023-09-16, 23:03:09](https://news.ycombinator.com/item?id=37539686) - [Hot Chips 2023: AMD’s Phoenix SoC](https://chipsandcheese.com/2023/09/16/hot-chips-2023-amds-phoenix-soc/)
 * [2023-09-16, 22:27:08](https://news.ycombinator.com/item?id=37539410) - [Satya Nadella: “I want to use this tactically vs. GOOG/AAPL” (2022)](https://twitter.com/TechEmails/status/1703172745893404913)
+* [2023-09-16, 21:39:23](https://news.ycombinator.com/item?id=37538971) - [On Being the Right Size (1926) [pdf]](http://www.phys.ufl.edu/courses/phy3221/spring10/HaldaneRightSize.pdf)
 * [2023-09-16, 21:32:40](https://news.ycombinator.com/item?id=37538914) - [America's advanced manufacturing problem and how to fix it](https://americanaffairsjournal.org/2023/08/americas-advanced-manufacturing-problem-and-how-to-fix-it/)
 * [2023-09-16, 21:28:33](https://news.ycombinator.com/item?id=37538878) - [Adobe will charge “credits” for generative AI](https://helpx.adobe.com/firefly/using/generative-credits-faq.html)
 * [2023-09-16, 21:00:56](https://news.ycombinator.com/item?id=37538654) - [Lantern (YC W24) – Hiring Engineers to Build PostgreSQL Vector Database for AI](https://lantern-db.notion.site/lantern-db/Lantern-is-hiring-Core-Database-Engineers-396a612dcfdb4c9eb274670680c8d8b5)
