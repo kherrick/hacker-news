@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-18](index.md)
 
+* [2023-09-18, 12:59:02](https://news.ycombinator.com/item?id=37555505) - [Unity says “listening” on fee change, will “update in a couple of days”](https://twitter.com/unity/status/1703547752205218265?s=20)
+* [2023-09-18, 12:43:06](https://news.ycombinator.com/item?id=37555364) - [A Conversation with Renaissance Technologies CEO Peter Brown](https://www.goldmansachs.com/intelligence/podcasts/episodes/09-11-2023-peter-brown.html)
 * [2023-09-18, 12:20:40](https://news.ycombinator.com/item?id=37555172) - [US Military Asks for Help Locating Missing F-35 Fighter Jet](https://time.com/6315261/missing-military-f35-jet/)
 * [2023-09-18, 12:16:49](https://news.ycombinator.com/item?id=37555149) - [Colorado peak linked to 1864 atrocity has been renamed Mount Blue Sky](https://www.cnn.com/2023/09/16/us/mount-blue-sky-renamed-evans-cheyenne-arapaho/index.html)
 * [2023-09-18, 12:15:41](https://news.ycombinator.com/item?id=37555139) - [“Let's build a homemade billing system”, now you have four problems](https://www.getlago.com/blog/the-4-biggest-problems-with-homemade-billing-systems)
