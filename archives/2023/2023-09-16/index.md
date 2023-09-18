@@ -58,6 +58,7 @@
 * [2023-09-16, 13:31:48](https://news.ycombinator.com/item?id=37534615) - [Horcrux: Split your file into encrypted fragments](https://github.com/jesseduffield/horcrux)
 * [2023-09-16, 13:27:36](https://news.ycombinator.com/item?id=37534595) - [The Triassic-Jurassic Extinction](https://johncarlosbaez.wordpress.com/2023/09/16/the-triassic-jurassic-extinction-event/)
 * [2023-09-16, 13:17:47](https://news.ycombinator.com/item?id=37534517) - [NASA clears the air: No evidence that UFOs are aliens](https://theconversation.com/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial-213528)
+* [2023-09-16, 13:06:30](https://news.ycombinator.com/item?id=37534453) - [National Motorcycle Museum Closing Its Doors](https://nationalmcmuseum.org/)
 * [2023-09-16, 13:05:47](https://news.ycombinator.com/item?id=37534451) - [Observations on Credit and Lending Practices in Ur III Mesopotamia (2004) [pdf]](https://www.sfu.ca/~poitras/jesho_UR_14.pdf)
 * [2023-09-16, 13:02:39](https://news.ycombinator.com/item?id=37534430) - [Bitwarden login down due to Azure outage](https://status.bitwarden.com/)
 * [2023-09-16, 12:46:32](https://news.ycombinator.com/item?id=37534330) - [Fixing the housing crisis is not rocket science. “Minneapolis has been build](https://twitter.com/scienceisstrat1/status/1702663125613301785)
