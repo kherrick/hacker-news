@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-18](index.md)
 
+* [2023-09-18, 04:00:56](https://news.ycombinator.com/item?id=37552085) - [How FoundationDB works and why it works](https://blog.the-pans.com/notes-on-the-foundationdb-paper/)
 * [2023-09-18, 02:50:21](https://news.ycombinator.com/item?id=37551657) - [The system is rigged and hard work is no predictor of success](https://fortune.com/2023/09/15/how-racism-meritocracy-broke-economy-book-excerpt-myth-jeff-fuhrer/)
 * [2023-09-18, 02:30:30](https://news.ycombinator.com/item?id=37551542) - [Chrome Feature: IP Protection](https://chromestatus.com/feature/5111460239245312)
 * [2023-09-18, 02:19:30](https://news.ycombinator.com/item?id=37551474) - [Introduction to Immutable Linux Systems](https://dataswamp.org/~solene/2023-07-12-intro-to-immutable-os.html)
