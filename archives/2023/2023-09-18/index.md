@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-18](index.md)
 
+* [2023-09-18, 20:43:30](https://news.ycombinator.com/item?id=37561762) - [Godot is not the new Unity – The anatomy of a Godot API call](https://sampruden.github.io/posts/godot-is-not-the-new-unity/)
 * [2023-09-18, 20:37:00](https://news.ycombinator.com/item?id=37561668) - [Citing “rapid evolution of generative AI,” Amazon limits new Kindle books](https://www.kdpcommunity.com/s/article/Update-on-KDP-Title-Creation-Limits?language=en_US&forum=KDP%20Forum)
 * [2023-09-18, 19:51:16](https://news.ycombinator.com/item?id=37561085) - [Show HN: macOS GUI for running LLMs locally](https://www.avapls.com/)
 * [2023-09-18, 19:33:50](https://news.ycombinator.com/item?id=37560886) - [Create non-game apps with Godot Engine](https://simondalvai.org/blog/godot-apps/)
