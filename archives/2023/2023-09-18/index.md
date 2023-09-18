@@ -6,6 +6,7 @@
 
 * [2023-09-18, 16:40:11](https://news.ycombinator.com/item?id=37558535) - [Linux is a nightmare – only 0.8% of sales – over 50% of reported tech issues](https://sh.reddit.com/r/gamedev/comments/e2ww5s/mike_rose_linux_is_a_nightmare_only_08_of_sales/)
 * [2023-09-18, 16:26:05](https://news.ycombinator.com/item?id=37558366) - [Holding Apple Accountable: The Future of the Internet Economy Depends on It](https://newsroom.spotify.com/2023-09-18/dustee-jenkins-holding-apple-accountable-internet-economy-fairness-digital-markets-act/)
+* [2023-09-18, 16:25:10](https://news.ycombinator.com/item?id=37558357) - [Show HN: HyperDX – open-source dev-friendly Datadog alternative](https://github.com/hyperdxio/hyperdx)
 * [2023-09-18, 15:31:50](https://news.ycombinator.com/item?id=37557595) - [Y Combinator Podcast #4: Sam Altman Interviews Elon Musk](https://www.ycombinator.com/blog/elon-musk-on-how-to-build-the-future/)
 * [2023-09-18, 15:30:47](https://news.ycombinator.com/item?id=37557580) - [The truth about nitro-meats: my seven-year search for better bacon](https://www.theguardian.com/food/2023/sep/18/the-truth-about-nitro-meats-my-seven-year-search-for-better-bacon~)
 * [2023-09-18, 14:43:30](https://news.ycombinator.com/item?id=37556802) - [California's Delete Act will make erasing consumers' data easier](https://www.techspot.com/news/100180-california-delete-act-make-erasing-consumers-data-easier.html)

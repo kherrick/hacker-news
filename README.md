@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-18, 16:40:11](https://news.ycombinator.com/item?id=37558535) - [Linux is a nightmare – only 0.8% of sales – over 50% of reported tech issues (2019)](https://sh.reddit.com/r/gamedev/comments/e2ww5s/mike_rose_linux_is_a_nightmare_only_08_of_sales/)
 * [2023-09-18, 16:26:05](https://news.ycombinator.com/item?id=37558366) - [Holding Apple Accountable: The Future of the Internet Economy Depends on It](https://newsroom.spotify.com/2023-09-18/dustee-jenkins-holding-apple-accountable-internet-economy-fairness-digital-markets-act/)
+* [2023-09-18, 16:25:10](https://news.ycombinator.com/item?id=37558357) - [Show HN: HyperDX – open-source dev-friendly Datadog alternative](https://github.com/hyperdxio/hyperdx)
 * [2023-09-18, 14:43:30](https://news.ycombinator.com/item?id=37556802) - [California's Delete Act will make erasing consumers' data easier](https://www.techspot.com/news/100180-california-delete-act-make-erasing-consumers-data-easier.html)
 * [2023-09-18, 14:38:03](https://news.ycombinator.com/item?id=37556719) - [Creators of Argo CD Release New OSS Project Kargo for Next Gen Gitops](https://akuity.io/blog/introducing-kargo/)
 * [2023-09-18, 14:30:09](https://news.ycombinator.com/item?id=37556605) - [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
