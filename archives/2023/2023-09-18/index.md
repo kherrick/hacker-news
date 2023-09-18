@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-18](index.md)
 
+* [2023-09-18, 17:34:37](https://news.ycombinator.com/item?id=37559256) - [Paint on Windows is getting layers and transparency support](https://blogs.windows.com/windows-insider/2023/09/18/paint-app-update-adding-support-for-layers-and-transparency-begins-rolling-out-to-windows-insiders/)
 * [2023-09-18, 17:27:36](https://news.ycombinator.com/item?id=37559161) - [iOS 17 is available today](https://www.apple.com/newsroom/2023/09/ios-17-is-available-today/)
 * [2023-09-18, 17:17:25](https://news.ycombinator.com/item?id=37559005) - [The joys of maintenance programming (2011)](https://typicalprogrammer.com/the-joys-of-maintenance-programming)
+* [2023-09-18, 17:01:48](https://news.ycombinator.com/item?id=37558813) - [Self-supervised learning: The dark matter of intelligence](https://ai.meta.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
 * [2023-09-18, 16:58:54](https://news.ycombinator.com/item?id=37558780) - [Ozempic Can Cause Major Loss of Muscle Mass and Reduce Bone Density](https://www.healthline.com/health-news/ozempic-muscle-mass-loss)
 * [2023-09-18, 16:40:11](https://news.ycombinator.com/item?id=37558535) - [Linux is a nightmare – only 0.8% of sales – over 50% of reported tech issues](https://sh.reddit.com/r/gamedev/comments/e2ww5s/mike_rose_linux_is_a_nightmare_only_08_of_sales/)
 * [2023-09-18, 16:26:05](https://news.ycombinator.com/item?id=37558366) - [Holding Apple Accountable: The Future of the Internet Economy Depends on It](https://newsroom.spotify.com/2023-09-18/dustee-jenkins-holding-apple-accountable-internet-economy-fairness-digital-markets-act/)
@@ -55,6 +57,7 @@
 * [2023-09-18, 04:00:56](https://news.ycombinator.com/item?id=37552085) - [How FoundationDB works and why it works](https://blog.the-pans.com/notes-on-the-foundationdb-paper/)
 * [2023-09-18, 03:07:24](https://news.ycombinator.com/item?id=37551761) - [The Daguerreotype’s Famous. Why Not the Calotype?](https://daily.jstor.org/the-daguerreotypes-famous-why-not-the-calotype/)
 * [2023-09-18, 02:50:21](https://news.ycombinator.com/item?id=37551657) - [The system is rigged and hard work is no predictor of success](https://fortune.com/2023/09/15/how-racism-meritocracy-broke-economy-book-excerpt-myth-jeff-fuhrer/)
+* [2023-09-18, 02:33:45](https://news.ycombinator.com/item?id=37551566) - [Mysteries of the Court of Miracles](https://reynolds-news.com/2023/09/14/court-of-miracles-underworld-stephen-basdeo/)
 * [2023-09-18, 02:30:30](https://news.ycombinator.com/item?id=37551542) - [Chrome Feature: IP Protection](https://chromestatus.com/feature/5111460239245312)
 * [2023-09-18, 02:19:30](https://news.ycombinator.com/item?id=37551474) - [Introduction to Immutable Linux Systems](https://dataswamp.org/~solene/2023-07-12-intro-to-immutable-os.html)
 * [2023-09-18, 02:17:45](https://news.ycombinator.com/item?id=37551462) - [Lausd to purchase 180 electric school buses](https://www.dailynews.com/2023/05/02/lausd-to-purchase-180-electric-school-buses/)
