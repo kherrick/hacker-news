@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-18](index.md)
 
+* [2023-09-18, 14:38:03](https://news.ycombinator.com/item?id=37556719) - [Creators of Argo CD Release New OSS Project Kargo for Next Gen Gitops](https://akuity.io/blog/introducing-kargo/)
 * [2023-09-18, 14:30:09](https://news.ycombinator.com/item?id=37556605) - [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
+* [2023-09-18, 14:13:51](https://news.ycombinator.com/item?id=37556388) - [TSMC tells vendors to delay chip equipment deliveries](https://www.reuters.com/technology/tsmc-tells-vendors-delay-chip-equipment-deliveries-sources-2023-09-15/)
 * [2023-09-18, 14:08:38](https://news.ycombinator.com/item?id=37556324) - [WinRAR sold 5,449 licenses in a day](https://twitter.com/WinRAR_RARLAB/status/1703723906945691890)
 * [2023-09-18, 14:02:19](https://news.ycombinator.com/item?id=37556260) - [Man who invented a tech used billions of times a day doesn't get credit for it](https://www.entrepreneur.com/science-technology/the-barcode-inventor-didnt-get-credit-now-hes/458787)
 * [2023-09-18, 13:55:08](https://news.ycombinator.com/item?id=37556160) - [Two-parent households should be a policy goal](https://www.theatlantic.com/ideas/archive/2023/09/marriage-two-parent-households-socioeconomic-consequences/675333/)
