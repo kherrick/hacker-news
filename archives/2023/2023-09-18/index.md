@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-09-18](index.md)
 
+* [2023-09-18, 20:37:00](https://news.ycombinator.com/item?id=37561668) - [Citing “rapid evolution of generative AI,” Amazon limits new Kindle books](https://www.kdpcommunity.com/s/article/Update-on-KDP-Title-Creation-Limits?language=en_US&forum=KDP%20Forum)
 * [2023-09-18, 19:51:16](https://news.ycombinator.com/item?id=37561085) - [Show HN: macOS GUI for running LLMs locally](https://www.avapls.com/)
 * [2023-09-18, 19:33:50](https://news.ycombinator.com/item?id=37560886) - [Create non-game apps with Godot Engine](https://simondalvai.org/blog/godot-apps/)
 * [2023-09-18, 19:24:32](https://news.ycombinator.com/item?id=37560787) - [Apple TV, now with more Tailscale](https://tailscale.com/blog/apple-tv/)
+* [2023-09-18, 18:57:53](https://news.ycombinator.com/item?id=37560428) - [Making IIIF Official at the Internet Archive](https://blog.archive.org/2023/09/18/making-iiif-official-at-the-internet-archive/)
 * [2023-09-18, 18:34:08](https://news.ycombinator.com/item?id=37560125) - [GPT 3.5 vs. Llama 2 fine-tuning: A Comprehensive Comparison](https://ragntune.com/blog/gpt3.5-vs-llama2-finetuning)
 * [2023-09-18, 18:34:05](https://news.ycombinator.com/item?id=37560121) - [Nushell and Uutils](https://www.nushell.sh/blog/2023-09-05-why-uu.html)
 * [2023-09-18, 18:18:07](https://news.ycombinator.com/item?id=37559879) - [Tell HN: AWS outage in us-west-2 AND us-east-1](https://news.ycombinator.com/item?id=37559879)
@@ -68,6 +70,7 @@
 * [2023-09-18, 07:07:47](https://news.ycombinator.com/item?id=37553193) - [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
 * [2023-09-18, 06:58:13](https://news.ycombinator.com/item?id=37553125) - [Pollution in 1/8](https://labs.ripe.net/author/franz/pollution-in-18/)
 * [2023-09-18, 06:13:15](https://news.ycombinator.com/item?id=37552808) - [Starlink quietly lost over $250M in burned satellites this summer](https://tiblur.com/post/462038779695576304265368)
+* [2023-09-18, 06:01:40](https://news.ycombinator.com/item?id=37552740) - [F-35 can’t be found after pilot ejected](https://www.thedrive.com/the-war-zone/f-35-cant-be-found-after-pilot-ejected)
 * [2023-09-18, 05:39:07](https://news.ycombinator.com/item?id=37552605) - [iPhone 15 Pro 10% lighter but 15% lower rotational inertia because of edge mass](https://leancrew.com/all-this/2023/09/iphone-15-pro-facts-and-estimates/)
 * [2023-09-18, 05:27:17](https://news.ycombinator.com/item?id=37552537) - [Interpretation and analysis of songs written or performed by Pet Shop Boys](http://www.geowayne.com/psbhtml.htm)
 * [2023-09-18, 04:13:57](https://news.ycombinator.com/item?id=37552161) - [Van Gogh’s Self-Portraits](https://www.vangoghmuseum.nl/en/art-and-stories/stories/all-stories/5-things-you-need-to-know-about-van-goghs-self-portraits)
