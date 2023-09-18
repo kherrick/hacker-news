@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-18](index.md)
 
+* [2023-09-18, 12:20:40](https://news.ycombinator.com/item?id=37555172) - [US Military Asks for Help Locating Missing F-35 Fighter Jet](https://time.com/6315261/missing-military-f35-jet/)
 * [2023-09-18, 12:00:39](https://news.ycombinator.com/item?id=37555031) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=37555031)
+* [2023-09-18, 12:00:31](https://news.ycombinator.com/item?id=37555028) - [When Zig Outshines Rust – Memory Efficient Enum Arrays](https://alic.dev/blog/dense-enums)
+* [2023-09-18, 11:18:52](https://news.ycombinator.com/item?id=37554736) - [Ask HN: How to do literal web searches after Google destroyed the “ ” feature?](https://news.ycombinator.com/item?id=37554736)
 * [2023-09-18, 11:17:41](https://news.ycombinator.com/item?id=37554727) - [Humans can feel empathic embarrassment towards robots, finds VR study](https://techxplore.com/news/2023-09-humans-empathic-robots-virtual-reality.html)
 * [2023-09-18, 10:47:17](https://news.ycombinator.com/item?id=37554504) - [NSA’s Backdoor Key](http://www.cypherspace.org/adam/hacks/lotus-nsa-key.html)
 * [2023-09-18, 10:39:25](https://news.ycombinator.com/item?id=37554457) - [US military asks for help to find missing F-35 fighter jet after ‘mishap’](https://www.theguardian.com/us-news/2023/sep/18/missing-f-35b-lighting-ii-fighter-jet-us-military-help-marine-corps-pilot-ejects)
