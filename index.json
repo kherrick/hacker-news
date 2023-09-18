@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-09-18, 12:20:40",
+      "https://news.ycombinator.com/item?id=37555172"
+    ],
+    [
+      "US Military Asks for Help Locating Missing F-35 Fighter Jet",
+      "https://time.com/6315261/missing-military-f35-jet/"
+    ]
+  ],
+  [
+    [
       "2023-09-18, 12:00:39",
       "https://news.ycombinator.com/item?id=37555031"
     ],
     [
       "MixRank (YC S11) Is Hiring Global Remote Software Engineers",
       "https://news.ycombinator.com/item?id=37555031"
+    ]
+  ],
+  [
+    [
+      "2023-09-18, 12:00:31",
+      "https://news.ycombinator.com/item?id=37555028"
+    ],
+    [
+      "When Zig Outshines Rust – Memory Efficient Enum Arrays",
+      "https://alic.dev/blog/dense-enums"
+    ]
+  ],
+  [
+    [
+      "2023-09-18, 11:18:52",
+      "https://news.ycombinator.com/item?id=37554736"
+    ],
+    [
+      "Ask HN: How to do literal web searches after Google destroyed the “ ” feature?",
+      "https://news.ycombinator.com/item?id=37554736"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2023-09-17, 21:00:55",
-      "https://news.ycombinator.com/item?id=37549259"
-    ],
-    [
-      "Hush – Noiseless Browsing for Safari",
-      "https://oblador.github.io/hush/"
-    ]
-  ],
-  [
-    [
       "2023-09-17, 20:55:20",
       "https://news.ycombinator.com/item?id=37549216"
     ],
@@ -157,16 +177,6 @@
     [
       "Homebrew Website Club",
       "https://indieweb.org/Homebrew_Website_Club"
-    ]
-  ],
-  [
-    [
-      "2023-09-17, 19:38:40",
-      "https://news.ycombinator.com/item?id=37548599"
-    ],
-    [
-      "Donut math: how donut.c works",
-      "https://www.a1k0n.net/2011/07/20/donut-math.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Linear Book Scanner – Open-source automatic book scanner (2014)",
       "https://linearbookscanner.org/"
-    ]
-  ],
-  [
-    [
-      "2023-09-16, 23:14:51",
-      "https://news.ycombinator.com/item?id=37539781"
-    ],
-    [
-      "Demo of megatextures running on n64 hardware",
-      "https://github.com/lambertjamesd/n64brew2023"
     ]
   ],
   [
