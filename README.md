@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-18, 02:30:30](https://news.ycombinator.com/item?id=37551542) - [Chrome Feature: IP Protection](https://chromestatus.com/feature/5111460239245312)
 * [2023-09-18, 02:17:45](https://news.ycombinator.com/item?id=37551462) - [Lausd to purchase 180 electric school buses](https://www.dailynews.com/2023/05/02/lausd-to-purchase-180-electric-school-buses/)
 * [2023-09-18, 01:46:46](https://news.ycombinator.com/item?id=37551264) - [So let’s talk about this Wayland thing](https://pointieststick.com/2023/09/17/so-lets-talk-about-this-wayland-thing/)
 * [2023-09-17, 22:00:59](https://news.ycombinator.com/item?id=37549745) - [AWS IPv4 Estate Now Worth $4.5B](https://toonk.io/aws-ipv4-estate-now-worth-4-5-billion/index.html)
@@ -9,7 +10,6 @@
 * [2023-09-17, 20:25:54](https://news.ycombinator.com/item?id=37548975) - [Homebrew Website Club](https://indieweb.org/Homebrew_Website_Club)
 * [2023-09-17, 20:25:11](https://news.ycombinator.com/item?id=37548969) - [The International SAT Competition Web Page](http://www.satcompetition.org/)
 * [2023-09-17, 20:17:21](https://news.ycombinator.com/item?id=37548903) - [The Data Science Manifesto (2020)](http://datasciencemanifesto.org/)
-* [2023-09-17, 19:53:58](https://news.ycombinator.com/item?id=37548720) - [Brian Bucklew Porting Caves of Qud from Unity to Godot](https://twitter.com/unormal/status/1703163364229161236)
 * [2023-09-17, 19:44:50](https://news.ycombinator.com/item?id=37548639) - [Infrastructure Manager: Provision Google Cloud Resources with Terraform](https://cloud.google.com/blog/products/management-tools/introducing-infrastructure-manager-powered-by-terraform/)
 * [2023-09-17, 19:38:40](https://news.ycombinator.com/item?id=37548599) - [Donut math: how donut.c works](https://www.a1k0n.net/2011/07/20/donut-math.html)
 * [2023-09-17, 18:22:01](https://news.ycombinator.com/item?id=37547913) - [Show HN: Conway's Game of Chess](https://gist.github.com/elesiuta/a17d93feb3d29971c3b5abbde69d53f3)
