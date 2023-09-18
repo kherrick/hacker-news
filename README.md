@@ -20,6 +20,7 @@
 * [2023-09-17, 16:34:29](https://news.ycombinator.com/item?id=37546874) - [CatalaLang/catala: Programming language for law specification](https://github.com/CatalaLang/catala)
 * [2023-09-17, 16:30:03](https://news.ycombinator.com/item?id=37546810) - [Run LLMs at home, BitTorrent‑style](https://petals.dev/)
 * [2023-09-17, 16:05:28](https://news.ycombinator.com/item?id=37546530) - [Making Architecture Easy](https://worksinprogress.co/issue/making-architecture-easy)
+* [2023-09-17, 16:00:06](https://news.ycombinator.com/item?id=37546469) - [Chili Oil Notes](https://uptointerpretation.com/posts/chili-oil-notes/)
 * [2023-09-17, 15:53:21](https://news.ycombinator.com/item?id=37546403) - [Conserving a Burmese offering vessel](https://www.britishmuseum.org/blog/conserving-burmese-offering-vessel)
 * [2023-09-17, 15:52:08](https://news.ycombinator.com/item?id=37546381) - [The Eunuch Admiral (2011)](https://alumni.berkeley.edu/california-magazine/fall-2011-the-good-fight/eunuch-admiral/)
 * [2023-09-17, 13:03:12](https://news.ycombinator.com/item?id=37544628) - [Linear Book Scanner – Open-source automatic book scanner (2014)](https://linearbookscanner.org/)
@@ -29,7 +30,6 @@
 * [2023-09-16, 09:19:29](https://news.ycombinator.com/item?id=37533259) - [10 years with Hayao Miyazaki [video]](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/3004569/)
 * [2023-09-16, 06:16:47](https://news.ycombinator.com/item?id=37532439) - [Queueing Theory: An introduction for software development](https://github.com/joelparkerhenderson/queueing-theory)
 * [2023-09-16, 06:04:13](https://news.ycombinator.com/item?id=37532397) - [Pineapple ONE: open-source 32 bit RISC-V CPU that you can make at home](https://pineapple-one.github.io/)
-* [2023-09-15, 11:25:31](https://news.ycombinator.com/item?id=37521383) - [Glazes induced degradation of tea catechins](https://www.nature.com/articles/s41598-023-37480-8)
 
 ## [Archives](archives/index.md)
 
