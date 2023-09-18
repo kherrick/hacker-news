@@ -10,6 +10,7 @@
 * [2023-09-18, 20:43:30](https://news.ycombinator.com/item?id=37561762) - [Godot is not the new Unity – The anatomy of a Godot API call](https://sampruden.github.io/posts/godot-is-not-the-new-unity/)
 * [2023-09-18, 20:38:45](https://news.ycombinator.com/item?id=37561696) - [FTC Warns Pharma: May Go After Them for Sham Patents Designed to Delay Generics](https://www.techdirt.com/2023/09/18/ftc-warns-pharma-companies-that-it-may-go-after-them-for-sham-patent-listings-designed-to-delay-generic-competitors/)
 * [2023-09-18, 20:37:00](https://news.ycombinator.com/item?id=37561668) - [Citing “rapid evolution of generative AI,” Amazon limits new Kindle books](https://www.kdpcommunity.com/s/article/Update-on-KDP-Title-Creation-Limits?language=en_US&forum=KDP%20Forum)
+* [2023-09-18, 20:16:52](https://news.ycombinator.com/item?id=37561428) - [UK Post Office: 700 Horizon software scandal victims to receive £600k each](https://www.theguardian.com/business/2023/sep/18/post-office-horizon-scandal-victims-compensation)
 * [2023-09-18, 19:51:16](https://news.ycombinator.com/item?id=37561085) - [Show HN: macOS GUI for running LLMs locally](https://www.avapls.com/)
 * [2023-09-18, 19:33:50](https://news.ycombinator.com/item?id=37560886) - [Create non-game apps with Godot Engine](https://simondalvai.org/blog/godot-apps/)
 * [2023-09-18, 19:24:32](https://news.ycombinator.com/item?id=37560787) - [Apple TV, now with more Tailscale](https://tailscale.com/blog/apple-tv/)
