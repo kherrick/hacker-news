@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-18](index.md)
 
 * [2023-09-18, 17:27:36](https://news.ycombinator.com/item?id=37559161) - [iOS 17 is available today](https://www.apple.com/newsroom/2023/09/ios-17-is-available-today/)
+* [2023-09-18, 17:17:25](https://news.ycombinator.com/item?id=37559005) - [The joys of maintenance programming (2011)](https://typicalprogrammer.com/the-joys-of-maintenance-programming)
 * [2023-09-18, 16:58:54](https://news.ycombinator.com/item?id=37558780) - [Ozempic Can Cause Major Loss of Muscle Mass and Reduce Bone Density](https://www.healthline.com/health-news/ozempic-muscle-mass-loss)
 * [2023-09-18, 16:40:11](https://news.ycombinator.com/item?id=37558535) - [Linux is a nightmare – only 0.8% of sales – over 50% of reported tech issues](https://sh.reddit.com/r/gamedev/comments/e2ww5s/mike_rose_linux_is_a_nightmare_only_08_of_sales/)
 * [2023-09-18, 16:26:05](https://news.ycombinator.com/item?id=37558366) - [Holding Apple Accountable: The Future of the Internet Economy Depends on It](https://newsroom.spotify.com/2023-09-18/dustee-jenkins-holding-apple-accountable-internet-economy-fairness-digital-markets-act/)
