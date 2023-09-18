@@ -2,7 +2,6 @@
 
 * [2023-09-18, 08:11:21](https://news.ycombinator.com/item?id=37553574) - [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
 * [2023-09-18, 07:58:00](https://news.ycombinator.com/item?id=37553496) - [How Jeff Geerling almost broke MrBeast's 1-100 video [video]](https://www.youtube.com/watch?v=wsV_C9cMf8A)
-* [2023-09-18, 07:37:44](https://news.ycombinator.com/item?id=37553381) - [Apple CEO Tim Cook on creating a clean energy future](https://www.cbsnews.com/news/apple-ceo-tim-cook-on-creating-a-clean-energy-future/)
 * [2023-09-18, 06:58:13](https://news.ycombinator.com/item?id=37553125) - [Pollution in 1/8 (2010)](https://labs.ripe.net/author/franz/pollution-in-18/)
 * [2023-09-18, 04:00:56](https://news.ycombinator.com/item?id=37552085) - [How FoundationDB works and why it works (2021)](https://blog.the-pans.com/notes-on-the-foundationdb-paper/)
 * [2023-09-18, 02:19:30](https://news.ycombinator.com/item?id=37551474) - [Introduction to Immutable Linux Systems](https://dataswamp.org/~solene/2023-07-12-intro-to-immutable-os.html)
@@ -19,6 +18,7 @@
 * [2023-09-17, 18:22:01](https://news.ycombinator.com/item?id=37547913) - [Show HN: Conway's Game of Chess](https://gist.github.com/elesiuta/a17d93feb3d29971c3b5abbde69d53f3)
 * [2023-09-17, 16:34:29](https://news.ycombinator.com/item?id=37546874) - [CatalaLang/catala: Programming language for law specification](https://github.com/CatalaLang/catala)
 * [2023-09-17, 16:30:03](https://news.ycombinator.com/item?id=37546810) - [Run LLMs at home, BitTorrent‑style](https://petals.dev/)
+* [2023-09-17, 16:05:28](https://news.ycombinator.com/item?id=37546530) - [Making Architecture Easy](https://worksinprogress.co/issue/making-architecture-easy)
 * [2023-09-17, 15:53:21](https://news.ycombinator.com/item?id=37546403) - [Conserving a Burmese offering vessel](https://www.britishmuseum.org/blog/conserving-burmese-offering-vessel)
 * [2023-09-17, 15:52:08](https://news.ycombinator.com/item?id=37546381) - [The Eunuch Admiral (2011)](https://alumni.berkeley.edu/california-magazine/fall-2011-the-good-fight/eunuch-admiral/)
 * [2023-09-17, 13:03:12](https://news.ycombinator.com/item?id=37544628) - [Linear Book Scanner – Open-source automatic book scanner (2014)](https://linearbookscanner.org/)
