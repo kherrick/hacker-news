@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-18](index.md)
 
+* [2023-09-18, 14:08:38](https://news.ycombinator.com/item?id=37556324) - [WinRAR sold 5,449 licenses in a day](https://twitter.com/WinRAR_RARLAB/status/1703723906945691890)
 * [2023-09-18, 14:02:19](https://news.ycombinator.com/item?id=37556260) - [Man who invented a tech used billions of times a day doesn't get credit for it](https://www.entrepreneur.com/science-technology/the-barcode-inventor-didnt-get-credit-now-hes/458787)
+* [2023-09-18, 13:48:12](https://news.ycombinator.com/item?id=37556077) - [No evidence for angiosperm mass extinction at the Cretaceous–Palaeogene boundary](https://royalsocietypublishing.org/doi/10.1098/rsbl.2023.0314)
 * [2023-09-18, 13:46:12](https://news.ycombinator.com/item?id=37556047) - [Slums in Delhi were flattened before the G20 summit](https://www.reuters.com/graphics/G20-SUMMIT/SLUM/zdpxrxoaypx/)
 * [2023-09-18, 13:44:46](https://news.ycombinator.com/item?id=37556030) - [Study: U.S. dietary recommendations for protein intake are too low](https://bigthink.com/health/us-dietary-protein-recommendations-too-low/)
 * [2023-09-18, 13:44:29](https://news.ycombinator.com/item?id=37556025) - [Replanting Logged Forests with Diverse Seedlings Accelerates Restoration](https://www.technologynetworks.com/applied-sciences/news/replanting-logged-forests-with-diverse-mixtures-of-seedlings-accelerates-restoration-378916)
