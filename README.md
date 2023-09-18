@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-18, 16:26:05](https://news.ycombinator.com/item?id=37558366) - [Holding Apple Accountable: The Future of the Internet Economy Depends on It](https://newsroom.spotify.com/2023-09-18/dustee-jenkins-holding-apple-accountable-internet-economy-fairness-digital-markets-act/)
+* [2023-09-18, 17:27:36](https://news.ycombinator.com/item?id=37559161) - [iOS 17 is available today](https://www.apple.com/newsroom/2023/09/ios-17-is-available-today/)
+* [2023-09-18, 16:58:54](https://news.ycombinator.com/item?id=37558780) - [Ozempic Can Cause Major Loss of Muscle Mass and Reduce Bone Density](https://www.healthline.com/health-news/ozempic-muscle-mass-loss)
 * [2023-09-18, 16:25:10](https://news.ycombinator.com/item?id=37558357) - [Show HN: HyperDX – open-source dev-friendly Datadog alternative](https://github.com/hyperdxio/hyperdx)
 * [2023-09-18, 14:43:30](https://news.ycombinator.com/item?id=37556802) - [California's Delete Act will make erasing consumers' data easier](https://www.techspot.com/news/100180-california-delete-act-make-erasing-consumers-data-easier.html)
 * [2023-09-18, 14:38:03](https://news.ycombinator.com/item?id=37556719) - [Creators of Argo CD Release New OSS Project Kargo for Next Gen Gitops](https://akuity.io/blog/introducing-kargo/)
@@ -11,7 +12,6 @@
 * [2023-09-18, 13:04:50](https://news.ycombinator.com/item?id=37555556) - [Follow up to “Changing the rules of Rust”](https://without.boats/blog/follow-up-to-changing-the-rules-of-rust/)
 * [2023-09-18, 12:41:01](https://news.ycombinator.com/item?id=37555353) - ['Atomic Energy' Book Signed by Einstein, Oppenheimer, Bohr, Enola Gay Crew](https://www.rrauction.com/auctions/lot-detail/347934706696090-manhattan-project-atomic-bomb-signed-book-with-einstein-oppenheimer-bohr-enola-gay-crew-nobel-prize-winners-and-nuclear-researchers)
 * [2023-09-18, 12:20:40](https://news.ycombinator.com/item?id=37555172) - [US Military Asks for Help Locating Missing F-35 Fighter Jet](https://time.com/6315261/missing-military-f35-jet/)
-* [2023-09-18, 12:15:41](https://news.ycombinator.com/item?id=37555139) - [Problems with homemade billing systems](https://www.getlago.com/blog/the-4-biggest-problems-with-homemade-billing-systems)
 * [2023-09-18, 12:12:30](https://news.ycombinator.com/item?id=37555118) - [The brain is not an onion with a tiny reptile inside (2020)](https://journals.sagepub.com/doi/10.1177/0963721420917687)
 * [2023-09-18, 12:00:39](https://news.ycombinator.com/item?id=37555031) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=37555031)
 * [2023-09-18, 12:00:31](https://news.ycombinator.com/item?id=37555028) - [Memory Efficient Enum Arrays in Zig](https://alic.dev/blog/dense-enums)
