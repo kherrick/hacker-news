@@ -2,6 +2,7 @@
 
 * [2023-09-18, 08:11:21](https://news.ycombinator.com/item?id=37553574) - [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
 * [2023-09-18, 07:58:00](https://news.ycombinator.com/item?id=37553496) - [How Jeff Geerling almost broke MrBeast's 1-100 video [video]](https://www.youtube.com/watch?v=wsV_C9cMf8A)
+* [2023-09-18, 07:07:47](https://news.ycombinator.com/item?id=37553193) - [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
 * [2023-09-18, 06:58:13](https://news.ycombinator.com/item?id=37553125) - [Pollution in 1/8 (2010)](https://labs.ripe.net/author/franz/pollution-in-18/)
 * [2023-09-18, 04:00:56](https://news.ycombinator.com/item?id=37552085) - [How FoundationDB works and why it works (2021)](https://blog.the-pans.com/notes-on-the-foundationdb-paper/)
 * [2023-09-18, 02:19:30](https://news.ycombinator.com/item?id=37551474) - [Introduction to Immutable Linux Systems](https://dataswamp.org/~solene/2023-07-12-intro-to-immutable-os.html)
@@ -25,7 +26,6 @@
 * [2023-09-16, 23:14:51](https://news.ycombinator.com/item?id=37539781) - [Demo of megatextures running on n64 hardware](https://github.com/lambertjamesd/n64brew2023)
 * [2023-09-16, 21:39:23](https://news.ycombinator.com/item?id=37538971) - [On Being the Right Size (1926) [pdf]](http://www.phys.ufl.edu/courses/phy3221/spring10/HaldaneRightSize.pdf)
 * [2023-09-16, 13:06:30](https://news.ycombinator.com/item?id=37534453) - [National Motorcycle Museum Closing Its Doors](https://nationalmcmuseum.org/)
-* [2023-09-16, 11:23:40](https://news.ycombinator.com/item?id=37533832) - [Vaxbarn](https://vaxbarn.com/)
 * [2023-09-16, 09:19:29](https://news.ycombinator.com/item?id=37533259) - [10 years with Hayao Miyazaki [video]](https://www3.nhk.or.jp/nhkworld/en/ondemand/video/3004569/)
 * [2023-09-16, 06:16:47](https://news.ycombinator.com/item?id=37532439) - [Queueing Theory: An introduction for software development](https://github.com/joelparkerhenderson/queueing-theory)
 * [2023-09-16, 06:04:13](https://news.ycombinator.com/item?id=37532397) - [Pineapple ONE: open-source 32 bit RISC-V CPU that you can make at home](https://pineapple-one.github.io/)
