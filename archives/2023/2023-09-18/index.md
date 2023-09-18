@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-09-18](index.md)
 
+* [2023-09-18, 15:31:50](https://news.ycombinator.com/item?id=37557595) - [Y Combinator Podcast #4: Sam Altman Interviews Elon Musk](https://www.ycombinator.com/blog/elon-musk-on-how-to-build-the-future/)
 * [2023-09-18, 14:43:30](https://news.ycombinator.com/item?id=37556802) - [California's Delete Act will make erasing consumers' data easier](https://www.techspot.com/news/100180-california-delete-act-make-erasing-consumers-data-easier.html)
 * [2023-09-18, 14:38:03](https://news.ycombinator.com/item?id=37556719) - [Creators of Argo CD Release New OSS Project Kargo for Next Gen Gitops](https://akuity.io/blog/introducing-kargo/)
 * [2023-09-18, 14:30:09](https://news.ycombinator.com/item?id=37556605) - [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
+* [2023-09-18, 14:20:29](https://news.ycombinator.com/item?id=37556461) - [US gov seeking comments on DCAT-US Schema v3.0](https://github.com/DOI-DO/dcat-us)
 * [2023-09-18, 14:13:51](https://news.ycombinator.com/item?id=37556388) - [TSMC tells vendors to delay chip equipment deliveries](https://www.reuters.com/technology/tsmc-tells-vendors-delay-chip-equipment-deliveries-sources-2023-09-15/)
 * [2023-09-18, 14:08:38](https://news.ycombinator.com/item?id=37556324) - [WinRAR sold 5,449 licenses in a day](https://twitter.com/WinRAR_RARLAB/status/1703723906945691890)
 * [2023-09-18, 14:02:19](https://news.ycombinator.com/item?id=37556260) - [Man who invented a tech used billions of times a day doesn't get credit for it](https://www.entrepreneur.com/science-technology/the-barcode-inventor-didnt-get-credit-now-hes/458787)
