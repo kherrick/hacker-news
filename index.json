@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-09-18, 18:34:08",
-      "https://news.ycombinator.com/item?id=37560125"
-    ],
-    [
-      "GPT 3.5 vs. Llama 2 fine-tuning: A Comprehensive Comparison",
-      "https://ragntune.com/blog/gpt3.5-vs-llama2-finetuning"
-    ]
-  ],
-  [
-    [
       "2023-09-18, 18:34:05",
       "https://news.ycombinator.com/item?id=37560121"
     ],
@@ -21,22 +11,12 @@
   ],
   [
     [
-      "2023-09-18, 18:02:47",
-      "https://news.ycombinator.com/item?id=37559642"
+      "2023-09-18, 17:53:49",
+      "https://news.ycombinator.com/item?id=37559506"
     ],
     [
-      "Americans Can Barely Afford Homes",
-      "https://www.bloomberg.com/news/articles/2023-09-18/biden-2024-campaign-faces-risk-in-swing-states-with-dwindling-home-affordability"
-    ]
-  ],
-  [
-    [
-      "2023-09-18, 18:00:21",
-      "https://news.ycombinator.com/item?id=37559599"
-    ],
-    [
-      "Astronomy Photographer of the Year 2023 winners",
-      "https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/overall-winners-2023"
+      "Is OpenTelemetry a first-class citizen? A comparison of Datadog and New Relic",
+      "https://signoz.io/blog/is-opentelemetry-a-first-class-citizen-in-your-dashboard-a-datadog-and-newrelic-comparison/"
     ]
   ],
   [
@@ -115,7 +95,7 @@
       "https://news.ycombinator.com/item?id=37556461"
     ],
     [
-      "US gov seeking comments on DCAT-US Schema v3.0",
+      "Seeking comments on DCAT-US Schema v3.0",
       "https://github.com/DOI-DO/dcat-us"
     ]
   ],
@@ -125,7 +105,7 @@
       "https://news.ycombinator.com/item?id=37556025"
     ],
     [
-      "Replanting Logged Forests with Diverse Seedlings Accelerates Restoration",
+      "Replanting logged forests with diverse seedlings accelerates restoration",
       "https://www.technologynetworks.com/applied-sciences/news/replanting-logged-forests-with-diverse-mixtures-of-seedlings-accelerates-restoration-378916"
     ]
   ],
@@ -225,7 +205,7 @@
       "https://news.ycombinator.com/item?id=37553574"
     ],
     [
-      "What If OpenDocument Used SQLite?",
+      "What if OpenDocument used SQLite? (2014)",
       "https://www.sqlite.org/affcase1.html"
     ]
   ],
@@ -261,12 +241,32 @@
   ],
   [
     [
+      "2023-09-18, 04:00:56",
+      "https://news.ycombinator.com/item?id=37552085"
+    ],
+    [
+      "How FoundationDB works and why it works (2021)",
+      "https://blog.the-pans.com/notes-on-the-foundationdb-paper/"
+    ]
+  ],
+  [
+    [
       "2023-09-18, 02:33:45",
       "https://news.ycombinator.com/item?id=37551566"
     ],
     [
       "Mysteries of the Court of Miracles",
       "https://reynolds-news.com/2023/09/14/court-of-miracles-underworld-stephen-basdeo/"
+    ]
+  ],
+  [
+    [
+      "2023-09-17, 16:05:28",
+      "https://news.ycombinator.com/item?id=37546530"
+    ],
+    [
+      "Making Architecture Easy",
+      "https://worksinprogress.co/issue/making-architecture-easy"
     ]
   ],
   [
