@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-18](index.md)
 
 * [2023-09-18, 08:11:21](https://news.ycombinator.com/item?id=37553574) - [What If OpenDocument Used SQLite?](https://www.sqlite.org/affcase1.html)
+* [2023-09-18, 07:58:00](https://news.ycombinator.com/item?id=37553496) - [How Jeff Geerling almost broke MrBeast's 1-100 video [video]](https://www.youtube.com/watch?v=wsV_C9cMf8A)
 * [2023-09-18, 07:37:44](https://news.ycombinator.com/item?id=37553381) - [Apple CEO Tim Cook on creating a clean energy future](https://www.cbsnews.com/news/apple-ceo-tim-cook-on-creating-a-clean-energy-future/)
 * [2023-09-18, 06:58:13](https://news.ycombinator.com/item?id=37553125) - [Pollution in 1/8](https://labs.ripe.net/author/franz/pollution-in-18/)
 * [2023-09-18, 06:13:15](https://news.ycombinator.com/item?id=37552808) - [Starlink quietly lost over $250M in burned satellites this summer](https://tiblur.com/post/462038779695576304265368)
