@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-18, 21:20:18](https://news.ycombinator.com/item?id=37562225) - [Some new snippets from the Snowden documents](https://www.electrospaces.net/2023/09/some-new-snippets-from-snowden-documents.html)
-* [2023-09-18, 21:02:45](https://news.ycombinator.com/item?id=37562007) - [Demands for Tips Are Up. Actual Tipping, Not So Much](https://www.wsj.com/personal-finance/demands-for-tips-are-up-actual-tipping-not-so-much-2ee1908b)
 * [2023-09-18, 20:43:30](https://news.ycombinator.com/item?id=37561762) - [Godot is not the new Unity – The anatomy of a Godot API call](https://sampruden.github.io/posts/godot-is-not-the-new-unity/)
 * [2023-09-18, 20:38:45](https://news.ycombinator.com/item?id=37561696) - [FTC Warns Pharma: May Go After Them for Sham Patents Designed to Delay Generics](https://www.techdirt.com/2023/09/18/ftc-warns-pharma-companies-that-it-may-go-after-them-for-sham-patent-listings-designed-to-delay-generic-competitors/)
 * [2023-09-18, 20:37:00](https://news.ycombinator.com/item?id=37561668) - [Citing “rapid evolution of generative AI,” Amazon limits new Kindle books](https://www.kdpcommunity.com/s/article/Update-on-KDP-Title-Creation-Limits?language=en_US&forum=KDP%20Forum)
@@ -27,6 +26,7 @@
 * [2023-09-18, 04:13:57](https://news.ycombinator.com/item?id=37552161) - [Van Gogh’s Self-Portraits](https://www.vangoghmuseum.nl/en/art-and-stories/stories/all-stories/5-things-you-need-to-know-about-van-goghs-self-portraits)
 * [2023-09-18, 04:12:19](https://news.ycombinator.com/item?id=37552151) - [Ron Cobb – Filmography](https://roncobb.net/film.html)
 * [2023-09-18, 03:07:24](https://news.ycombinator.com/item?id=37551761) - [The daguerreotype is famous – why not the calotype?](https://daily.jstor.org/the-daguerreotypes-famous-why-not-the-calotype/)
+* [2023-09-18, 03:06:39](https://news.ycombinator.com/item?id=37551758) - [Playing cards that taught 17th-century cooks to carve meat like a pro (2019)](https://www.atlasobscura.com/articles/carving-meat-playing-cards)
 * [2023-09-18, 02:33:45](https://news.ycombinator.com/item?id=37551566) - [Mysteries of the Court of Miracles](https://reynolds-news.com/2023/09/14/court-of-miracles-underworld-stephen-basdeo/)
 * [2023-09-17, 19:39:51](https://news.ycombinator.com/item?id=37548605) - [The collaborative spirit behind Brian Eno’s record sleeve designs (2022)](https://eyeondesign.aiga.org/the-collaborative-spirit-behind-brian-enos-record-sleeve-designs/)
 * [2023-09-17, 11:05:04](https://news.ycombinator.com/item?id=37543717) - [Pentominoku for Layla](https://logic-masters.de/Raetselportal/Raetsel/zeigen.php?id=000F6A)

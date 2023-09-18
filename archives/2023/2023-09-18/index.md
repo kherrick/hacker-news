@@ -83,6 +83,7 @@
 * [2023-09-18, 04:12:19](https://news.ycombinator.com/item?id=37552151) - [Ron Cobb – Filmography](https://roncobb.net/film.html)
 * [2023-09-18, 04:00:56](https://news.ycombinator.com/item?id=37552085) - [How FoundationDB works and why it works](https://blog.the-pans.com/notes-on-the-foundationdb-paper/)
 * [2023-09-18, 03:07:24](https://news.ycombinator.com/item?id=37551761) - [The Daguerreotype’s Famous. Why Not the Calotype?](https://daily.jstor.org/the-daguerreotypes-famous-why-not-the-calotype/)
+* [2023-09-18, 03:06:39](https://news.ycombinator.com/item?id=37551758) - [Playing cards that taught 17th-century cooks to carve meat like a pro (2019)](https://www.atlasobscura.com/articles/carving-meat-playing-cards)
 * [2023-09-18, 02:50:21](https://news.ycombinator.com/item?id=37551657) - [The system is rigged and hard work is no predictor of success](https://fortune.com/2023/09/15/how-racism-meritocracy-broke-economy-book-excerpt-myth-jeff-fuhrer/)
 * [2023-09-18, 02:33:45](https://news.ycombinator.com/item?id=37551566) - [Mysteries of the Court of Miracles](https://reynolds-news.com/2023/09/14/court-of-miracles-underworld-stephen-basdeo/)
 * [2023-09-18, 02:30:30](https://news.ycombinator.com/item?id=37551542) - [Chrome Feature: IP Protection](https://chromestatus.com/feature/5111460239245312)
