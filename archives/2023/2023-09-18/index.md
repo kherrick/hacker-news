@@ -8,6 +8,7 @@
 * [2023-09-18, 18:34:05](https://news.ycombinator.com/item?id=37560121) - [Nushell and Uutils](https://www.nushell.sh/blog/2023-09-05-why-uu.html)
 * [2023-09-18, 18:02:47](https://news.ycombinator.com/item?id=37559642) - [Americans Can Barely Afford Homes](https://www.bloomberg.com/news/articles/2023-09-18/biden-2024-campaign-faces-risk-in-swing-states-with-dwindling-home-affordability)
 * [2023-09-18, 18:00:21](https://news.ycombinator.com/item?id=37559599) - [Astronomy Photographer of the Year 2023 winners](https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/overall-winners-2023)
+* [2023-09-18, 17:53:49](https://news.ycombinator.com/item?id=37559506) - [Is OpenTelemetry a first-class citizen? A comparison of Datadog and New Relic](https://signoz.io/blog/is-opentelemetry-a-first-class-citizen-in-your-dashboard-a-datadog-and-newrelic-comparison/)
 * [2023-09-18, 17:44:47](https://news.ycombinator.com/item?id=37559386) - [GPT-3.5-Turbo-Instruct](https://openai.com/research/instruction-following)
 * [2023-09-18, 17:34:37](https://news.ycombinator.com/item?id=37559256) - [Paint on Windows is getting layers and transparency support](https://blogs.windows.com/windows-insider/2023/09/18/paint-app-update-adding-support-for-layers-and-transparency-begins-rolling-out-to-windows-insiders/)
 * [2023-09-18, 17:27:36](https://news.ycombinator.com/item?id=37559161) - [iOS 17 is available today](https://www.apple.com/newsroom/2023/09/ios-17-is-available-today/)
