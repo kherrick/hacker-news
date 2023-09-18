@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-18](index.md)
 
+* [2023-09-18, 23:06:40](https://news.ycombinator.com/item?id=37563335) - [U.S. National Debt Tops $33T for First Time](https://www.nytimes.com/2023/09/18/us/politics/us-national-debt.html)
+* [2023-09-18, 22:52:51](https://news.ycombinator.com/item?id=37563231) - [Striking auto workers want a 40% pay increase–the same rate their CEOs’ pay grew](https://www.cnbc.com/2023/09/15/striking-uaw-auto-workers-want-a-40percent-pay-increase-how-much-they-make-now.html)
 * [2023-09-18, 21:20:18](https://news.ycombinator.com/item?id=37562225) - [Some new snippets from the Snowden documents](https://www.electrospaces.net/2023/09/some-new-snippets-from-snowden-documents.html)
 * [2023-09-18, 21:05:19](https://news.ycombinator.com/item?id=37562039) - [Ask HN: YouTube keeps suggesting vids I marked “not interested”. What can I do?](https://news.ycombinator.com/item?id=37562039)
 * [2023-09-18, 21:02:45](https://news.ycombinator.com/item?id=37562007) - [Demands for Tips Are Up. Actual Tipping, Not So Much](https://www.wsj.com/personal-finance/demands-for-tips-are-up-actual-tipping-not-so-much-2ee1908b)
