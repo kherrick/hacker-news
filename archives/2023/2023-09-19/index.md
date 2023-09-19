@@ -6,6 +6,7 @@
 
 * [2023-09-19, 14:24:27](https://news.ycombinator.com/item?id=37570407) - [Snowden leak: Cavium networking hardware may contain NSA backdoor](https://twitter.com/matthew_d_green/status/1703959863796158678)
 * [2023-09-19, 14:20:42](https://news.ycombinator.com/item?id=37570349) - [BMW's Ultimate Driving Machine, for Driving Through Gunfire and Grenades](https://www.core77.com/posts/125788/BMWs-Ultimate-Driving-Machine-for-Driving-Through-Gunfire-and-Grenades)
+* [2023-09-19, 14:19:26](https://news.ycombinator.com/item?id=37570331) - [Musk Wanted to Spy on Drivers to Defend Tesla from Lawsuits](https://cleanenergyrevolution.co/2023/09/18/musk-wanted-to-spy-on-drivers-to-defend-tesla-from-lawsuits/)
 * [2023-09-19, 14:15:08](https://news.ycombinator.com/item?id=37570249) - [Microsoft leaks 38TB of private data via unsecured Azure storage](https://www.bleepingcomputer.com/news/microsoft/microsoft-leaks-38tb-of-private-data-via-unsecured-azure-storage/)
 * [2023-09-19, 14:00:06](https://news.ycombinator.com/item?id=37570037) - [JDK 21 Release Notes](https://jdk.java.net/21/release-notes)
 * [2023-09-19, 13:50:01](https://news.ycombinator.com/item?id=37569911) - [Nvidia's 900 tons of GPU muscle bulks up server market, slims down wallets](https://www.theregister.com/2023/09/19/900_tons_nvidia_servers/)
