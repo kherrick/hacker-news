@@ -129,6 +129,25 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="37571919">
+          <h3>
+            <a class="item" href="https://signal.org/blog/pqxdh/"
+              >Quantum Resistance and the Signal Protocol</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-09-19 @ 16:02:11</span
+              ><span class="points-container"
+                >Points: <span class="points">19</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37571919"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="37571535">
           <h3>
             <a class="item" href="https://arxiv.org/abs/2309.04332"
@@ -139,11 +158,11 @@
             <h4>
               <span>2023-09-19 @ 15:40:38</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37571535"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -160,13 +179,123 @@
             <h4>
               <span>2023-09-19 @ 15:04:49</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37570947"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="37570929">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=37570929"
+              >Show HN: Graphite – Stacked Diffs on GitHub</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-09-19 @ 15:03:24</span
+              ><span class="points-container"
+                >Points: <span class="points">86</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37570929"
+                  >Comments</a
+                ><span class="descendants">: 28</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>Hi HN!</p>
+              <p>
+                I’m Tomas, co-founder of graphite.dev, and today we’re launching
+                Graphite after almost two years of development in closed beta.
+                [1] Graphite started as an internal solution to our own problem.
+                When we (engineers from Meta, Google and Airbnb) left our
+                previous roles, we lost access to the internal code review tools
+                we loved. So we built our own.
+              </p>
+              <p>https://graphite.dev</p>
+              <p>---</p>
+              <p>
+                Graphite is how the fastest developers ship code - it’s a
+                developer tool that allows you to create smaller pull requests,
+                stay unblocked, and ship faster with “stacking” (creating a set
+                of dependent pull requests). Stacking [2] allows developers to
+                break up large pull requests (PRs) into smaller ones that can be
+                reviewed &amp; merged independently, while keeping ongoing
+                development unblocked. Engineering best practices at Google
+                advise that a “reasonable” PR be around 100 lines, and recommend
+                splitting PRs in order to achieve this through stacking or other
+                methods. [3]
+              </p>
+              <p>
+                Unlike other tools like Phabricator, Gerrit, or Sapling,
+                Graphite syncs seamlessly with your GitHub repositories, so that
+                you don’t have to manage any extra infrastructure. This also
+                means that even if your teammates don’t use Graphite yet, you
+                still can.
+              </p>
+              <p>
+                Here’s what you can expect when you sign in to Graphite with
+                your GitHub account:
+              </p>
+              <p>
+                (1) First class support for stacking: At its core, Graphite
+                enables “stacking”—a workflow used by engineers at top companies
+                like Meta and Google to create small, dependent sets of pull
+                requests. The Graphite CLI, web app, and VS Code extension all
+                come together to empower engineers to start stacking.
+              </p>
+              <p>
+                (2) Pull request inbox: You can think of this as your home page
+                on Graphite, where you have full visibility into the status of
+                all your PRs and know what still needs to be done across every
+                repo, author, and stage of review. You can also create custom
+                inboxes that filter PRs on reviewers, authors, labels, CI
+                status, and more.
+              </p>
+              <p>
+                (3) Streamlined code review interface: Graphite’s pull request
+                page removes tabs and minimizes distractions, with the aim of
+                putting your code front and center. You can use keyboard
+                shortcuts to navigate between files and comments or to move
+                between PRs in your stack. You can also import custom memes and
+                gifs to add some to your reviews too!
+              </p>
+              <p>
+                (4) AI-powered pull requests: Auto-generate a detailed
+                description for every PR with our OpenAI integration. You can
+                even turn your comments into suggested code changes (coming
+                soon!).
+              </p>
+              <p>
+                (5) Real-time notifications: Connect Graphite to your Slack
+                workspace to stay up-to-date on review requests, comments
+                threads, merge status, and other activity on your PRs. For
+                smaller PRs, you can leave a review (and even merge) directly
+                from Slack.
+              </p>
+              <p>
+                (6) Stack-aware merges: Since Graphite is built to support a
+                stacking workflow, it automates the manual work of rebasing PRs
+                when it’s time to merge. You can merge your stacks with one
+                click from the web app, or in a single command from the CLI.
+              </p>
+              <p>
+                Feel free to take a look at our getting started guide [4] or
+                product tour video [5] for a tutorial on how to get started, and
+                drop your comments to us below!
+              </p>
+              <p>[1] http://graphite.dev/blog/launch</p>
+              <p>[2] http://stacking.dev</p>
+              <p>
+                [3]
+                https://google.github.io/eng-practices/review/developer/small-cls.html
+              </p>
+              <p>[4] https://graphite.dev/docs/getting-started-with-graphite</p>
+              <p>[5] https://www.youtube.com/watch?v=sBcd9uopLOY</p>
+            </div>
           </section>
         </section>
         <section id="37570785">
@@ -179,11 +308,11 @@
             <h4>
               <span>2023-09-19 @ 14:53:01</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37570785"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -200,7 +329,7 @@
             <h4>
               <span>2023-09-19 @ 14:50:23</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37570743"
                   >Comments</a
@@ -214,18 +343,18 @@
             <a
               class="item"
               href="https://medium.com/graalvm/graalvm-for-jdk-21-is-here-ee01177dd12d"
-              >GraalVM for JDK 21 is here</a
+              >GraalVM for JDK 21</a
             >
           </h3>
           <section>
             <h4>
               <span>2023-09-19 @ 14:48:03</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37570719"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -243,33 +372,11 @@
             <h4>
               <span>2023-09-19 @ 14:24:27</span
               ><span class="points-container"
-                >Points: <span class="points">348</span></span
+                >Points: <span class="points">367</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37570407"
                   >Comments</a
-                ><span class="descendants">: 201</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="37570349">
-          <h3>
-            <a
-              class="item"
-              href="https://www.core77.com/posts/125788/BMWs-Ultimate-Driving-Machine-for-Driving-Through-Gunfire-and-Grenades"
-              >BMW's Ultimate Driving Machine, for Driving Through Gunfire and
-              Grenades</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-09-19 @ 14:20:42</span
-              ><span class="points-container"
-                >Points: <span class="points">56</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37570349"
-                  >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 215</span></span
               >
             </h4>
           </section>
@@ -286,11 +393,11 @@
             <h4>
               <span>2023-09-19 @ 14:19:26</span
               ><span class="points-container"
-                >Points: <span class="points">115</span></span
+                >Points: <span class="points">124</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37570331"
                   >Comments</a
-                ><span class="descendants">: 92</span></span
+                ><span class="descendants">: 109</span></span
               >
             </h4>
           </section>
@@ -305,11 +412,11 @@
             <h4>
               <span>2023-09-19 @ 14:00:06</span
               ><span class="points-container"
-                >Points: <span class="points">169</span></span
+                >Points: <span class="points">175</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37570037"
                   >Comments</a
-                ><span class="descendants">: 187</span></span
+                ><span class="descendants">: 196</span></span
               >
             </h4>
           </section>
@@ -327,30 +434,11 @@
             <h4>
               <span>2023-09-19 @ 13:50:01</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37569911"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="37569665">
-          <h3>
-            <a class="item" href="https://jdk.java.net/21/"
-              >OpenJDK JDK 21 General-Availability Release</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-09-19 @ 13:27:10</span
-              ><span class="points-container"
-                >Points: <span class="points">44</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37569665"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -367,32 +455,11 @@
             <h4>
               <span>2023-09-19 @ 13:24:02</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37569622"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="37569573">
-          <h3>
-            <a
-              class="item"
-              href="https://mail.openjdk.org/pipermail/jdk-dev/2023-September/008267.html"
-              >Java 21 Released</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-09-19 @ 13:20:18</span
-              ><span class="points-container"
-                >Points: <span class="points">184</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37569573"
-                  >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -407,7 +474,7 @@
             <h4>
               <span>2023-09-19 @ 12:54:09</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37569258"
                   >Comments</a
@@ -428,11 +495,11 @@
             <h4>
               <span>2023-09-19 @ 12:14:18</span
               ><span class="points-container"
-                >Points: <span class="points">150</span></span
+                >Points: <span class="points">154</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37568856"
                   >Comments</a
-                ><span class="descendants">: 228</span></span
+                ><span class="descendants">: 230</span></span
               >
             </h4>
           </section>
@@ -449,11 +516,30 @@
             <h4>
               <span>2023-09-19 @ 12:00:57</span
               ><span class="points-container"
-                >Points: <span class="points">242</span></span
+                >Points: <span class="points">246</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37568732"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 82</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="37568554">
+          <h3>
+            <a class="item" href="https://simulavr.com/blog/headsets-delayed/"
+              >SimulaVR $1.2M short of the project's total cost</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-09-19 @ 11:41:47</span
+              ><span class="points-container"
+                >Points: <span class="points">15</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37568554"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -469,11 +555,11 @@
             <h4>
               <span>2023-09-19 @ 11:41:18</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37568549"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -490,7 +576,7 @@
             <h4>
               <span>2023-09-19 @ 11:19:10</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37568350"
                   >Comments</a
@@ -509,11 +595,11 @@
             <h4>
               <span>2023-09-19 @ 11:12:06</span
               ><span class="points-container"
-                >Points: <span class="points">170</span></span
+                >Points: <span class="points">176</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37568278"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -528,11 +614,11 @@
             <h4>
               <span>2023-09-19 @ 10:39:51</span
               ><span class="points-container"
-                >Points: <span class="points">96</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37567972"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -549,11 +635,11 @@
             <h4>
               <span>2023-09-19 @ 10:10:06</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37567700"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 66</span></span
               >
             </h4>
           </section>
@@ -570,7 +656,7 @@
             <h4>
               <span>2023-09-19 @ 08:44:13</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37567115"
                   >Comments</a
@@ -587,11 +673,11 @@
             <h4>
               <span>2023-09-19 @ 08:26:55</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37567009"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -608,11 +694,11 @@
             <h4>
               <span>2023-09-19 @ 08:24:19</span
               ><span class="points-container"
-                >Points: <span class="points">453</span></span
+                >Points: <span class="points">458</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37566992"
                   >Comments</a
-                ><span class="descendants">: 260</span></span
+                ><span class="descendants">: 264</span></span
               >
             </h4>
           </section>
@@ -629,7 +715,7 @@
             <h4>
               <span>2023-09-19 @ 08:16:42</span
               ><span class="points-container"
-                >Points: <span class="points">163</span></span
+                >Points: <span class="points">165</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37566929"
                   >Comments</a
@@ -650,11 +736,11 @@
             <h4>
               <span>2023-09-19 @ 06:52:08</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37566458"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -671,11 +757,11 @@
             <h4>
               <span>2023-09-19 @ 04:59:41</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">87</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37565761"
                   >Comments</a
-                ><span class="descendants">: 96</span></span
+                ><span class="descendants">: 104</span></span
               >
             </h4>
           </section>
@@ -690,11 +776,11 @@
             <h4>
               <span>2023-09-19 @ 01:38:48</span
               ><span class="points-container"
-                >Points: <span class="points">280</span></span
+                >Points: <span class="points">283</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37564686"
                   >Comments</a
-                ><span class="descendants">: 174</span></span
+                ><span class="descendants">: 178</span></span
               >
             </h4>
             <div class="text">
@@ -735,7 +821,7 @@
             <h4>
               <span>2023-09-18 @ 15:21:52</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37557438"
                   >Comments</a
