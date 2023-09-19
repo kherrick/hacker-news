@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-09-19, 20:02:55",
-      "https://news.ycombinator.com/item?id=37575694"
-    ],
-    [
-      "Microsoft Exec on Acquiring Nintendo",
-      "https://twitter.com/TechEmails/status/1704205212595146810"
-    ]
-  ],
-  [
-    [
       "2023-09-19, 19:44:52",
       "https://news.ycombinator.com/item?id=37575377"
     ],
@@ -71,16 +61,6 @@
   ],
   [
     [
-      "2023-09-19, 19:30:20",
-      "https://news.ycombinator.com/item?id=37575139"
-    ],
-    [
-      "Contrastive Decoding Improves Reasoning in Large Language Models",
-      "https://arxiv.org/abs/2309.09117"
-    ]
-  ],
-  [
-    [
       "2023-09-19, 18:59:50",
       "https://news.ycombinator.com/item?id=37574644"
     ],
@@ -117,16 +97,6 @@
     [
       "X-ray laser will ‘film’ chemical reactions in unprecedented detail",
       "https://www.nature.com/articles/d41586-023-02874-1"
-    ]
-  ],
-  [
-    [
-      "2023-09-19, 18:33:05",
-      "https://news.ycombinator.com/item?id=37574150"
-    ],
-    [
-      "Show HN: My first interactive article – breakdown of a complex menu UI",
-      "https://www.nathanmanousos.com/posts/chonky-menu"
     ]
   ],
   [
@@ -177,6 +147,16 @@
     [
       "Show HN: Hydra - Open-Source Columnar Postgres",
       "https://www.hydra.so/blog-posts/hydra-1-generally-available"
+    ]
+  ],
+  [
+    [
+      "2023-09-19, 16:03:18",
+      "https://news.ycombinator.com/item?id=37571935"
+    ],
+    [
+      "Why does water change the speed of electricity? [video]",
+      "https://www.youtube.com/watch?v=rQIg5XeIgQ0"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2023-09-19, 11:19:10",
+      "https://news.ycombinator.com/item?id=37568350"
+    ],
+    [
+      "Lies my calculator and computer told me (1987) [pdf]",
+      "https://www.stewartcalculus.com/data/default/upfiles/LiesCalcAndCompTold.pdf"
+    ]
+  ],
+  [
+    [
       "2023-09-19, 11:12:06",
       "https://news.ycombinator.com/item?id=37568278"
     ],
     [
       "VCMI: Open-Source Engine for Heroes of Might and Magic III",
       "https://vcmi.eu"
+    ]
+  ],
+  [
+    [
+      "2023-09-17, 18:16:04",
+      "https://news.ycombinator.com/item?id=37547851"
+    ],
+    [
+      "Chonky Menu Re-Creation",
+      "https://www.nathanmanousos.com/posts/chonky-menu"
     ]
   ]
 ]
