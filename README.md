@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-19, 01:50:46](https://news.ycombinator.com/item?id=37564768) - [Ask HN: 6 months later. How is Bard doing?](https://news.ycombinator.com/item?id=37564768)
 * [2023-09-19, 01:09:59](https://news.ycombinator.com/item?id=37564503) - [Marine Corps orders safety stand-down of all aircraft after F-35 disappearance](https://www.nbcnews.com/news/us-news/marine-leader-orders-safety-stand-aircraft-f-35-disappearance-rcna105602)
 * [2023-09-19, 00:30:02](https://news.ycombinator.com/item?id=37564217) - [Mythbusters: Wing Commander I Edition](https://www.wcnews.com/news/update/16279)
 * [2023-09-18, 21:20:18](https://news.ycombinator.com/item?id=37562225) - [Some new snippets from the Snowden documents](https://www.electrospaces.net/2023/09/some-new-snippets-from-snowden-documents.html)
@@ -19,9 +20,8 @@
 * [2023-09-18, 13:44:29](https://news.ycombinator.com/item?id=37556025) - [Replanting logged forests with diverse seedlings accelerates restoration](https://www.technologynetworks.com/applied-sciences/news/replanting-logged-forests-with-diverse-mixtures-of-seedlings-accelerates-restoration-378916)
 * [2023-09-18, 12:12:30](https://news.ycombinator.com/item?id=37555118) - [The brain is not an onion with a tiny reptile inside (2020)](https://journals.sagepub.com/doi/10.1177/0963721420917687)
 * [2023-09-18, 12:00:39](https://news.ycombinator.com/item?id=37555031) - [MixRank (YC S11) is hiring global remote software engineers](https://news.ycombinator.com/item?id=37555031)
-* [2023-09-18, 10:47:17](https://news.ycombinator.com/item?id=37554504) - [NSA Backdoor Key from Lotus-Notes (2002)](http://www.cypherspace.org/adam/hacks/lotus-nsa-key.html)
 * [2023-09-18, 09:54:19](https://news.ycombinator.com/item?id=37554176) - [How hard is it to adapt a memory allocator to CHERI?](https://tratt.net/laurie/blog/2023/how_hard_is_it_to_adapt_a_memory_allocator_to_cheri.html)
-* [2023-09-18, 07:09:08](https://news.ycombinator.com/item?id=37553205) - [The Fidonet Rules (2014)](https://wiki.c2.com/?FidonetRules)
+* [2023-09-18, 07:09:08](https://news.ycombinator.com/item?id=37553205) - [Fidonet Rules (2014)](https://wiki.c2.com/?FidonetRules)
 * [2023-09-18, 07:07:47](https://news.ycombinator.com/item?id=37553193) - [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
 * [2023-09-18, 04:13:57](https://news.ycombinator.com/item?id=37552161) - [Van Gogh’s Self-Portraits](https://www.vangoghmuseum.nl/en/art-and-stories/stories/all-stories/5-things-you-need-to-know-about-van-goghs-self-portraits)
 * [2023-09-18, 04:12:19](https://news.ycombinator.com/item?id=37552151) - [Ron Cobb – Filmography](https://roncobb.net/film.html)
