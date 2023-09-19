@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 09:43:31](https://news.ycombinator.com/item?id=37567497) - [Web Apps Are Better Than No Apps](https://molodtsov.me/2023/08/web-apps-are-better-than-no-apps/)
 * [2023-09-19, 09:11:20](https://news.ycombinator.com/item?id=37567302) - [Safety Gate: the EU rapid alert system for dangerous non-food products](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10009444)
 * [2023-09-19, 09:10:51](https://news.ycombinator.com/item?id=37567298) - [Ask HN: What low code platforms are worth using?](https://news.ycombinator.com/item?id=37567298)
 * [2023-09-19, 08:59:49](https://news.ycombinator.com/item?id=37567214) - [1k Met Police officers suspended or on restricted duties](https://www.bbc.co.uk/news/uk-england-london-66842521)
