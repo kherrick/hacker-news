@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 12:14:18](https://news.ycombinator.com/item?id=37568856) - [64-Bit Bank Balances ‘Ought to Be Enough for Anybody’?](https://tigerbeetle.com/blog/2023-09-19-64-bit-bank-balances-ought-to-be-enough-for-anybody/)
+* [2023-09-19, 12:00:57](https://news.ycombinator.com/item?id=37568732) - [The Pirate Bay Celebrates Its 20th Anniversary](https://torrentfreak.com/the-pirate-bay-celebrates-its-20th-anniversary-230919/)
+* [2023-09-19, 11:41:18](https://news.ycombinator.com/item?id=37568549) - [The path to detecting extraterrestrial life with astrophotonics](https://arxiv.org/abs/2309.08732)
+* [2023-09-19, 11:19:10](https://news.ycombinator.com/item?id=37568350) - [Lies My Calculator and Computer Told Me [pdf]](https://www.stewartcalculus.com/data/default/upfiles/LiesCalcAndCompTold.pdf)
 * [2023-09-19, 11:12:06](https://news.ycombinator.com/item?id=37568278) - [VCMI: Open-Source Engine for Heroes of Might and Magic III](https://vcmi.eu)
+* [2023-09-19, 10:10:06](https://news.ycombinator.com/item?id=37567700) - [Bard can now connect to your Google Apps and services](https://blog.google/products/bard/google-bard-new-features-update-sept-2023/)
 * [2023-09-19, 09:43:31](https://news.ycombinator.com/item?id=37567497) - [Web Apps Are Better Than No Apps](https://molodtsov.me/2023/08/web-apps-are-better-than-no-apps/)
 * [2023-09-19, 09:11:20](https://news.ycombinator.com/item?id=37567302) - [Safety Gate: the EU rapid alert system for dangerous non-food products](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10009444)
 * [2023-09-19, 09:10:51](https://news.ycombinator.com/item?id=37567298) - [Ask HN: What low code platforms are worth using?](https://news.ycombinator.com/item?id=37567298)
@@ -12,6 +17,7 @@
 * [2023-09-19, 08:44:13](https://news.ycombinator.com/item?id=37567115) - [Gitlab Critical Security Release: 16.3.4 and 16.2.7](https://about.gitlab.com/releases/2023/09/18/security-release-gitlab-16-3-4-released/)
 * [2023-09-19, 08:37:46](https://news.ycombinator.com/item?id=37567070) - [Microsoft Nintendo acquisition hopes revealed by leaked Xbox exec email](https://www.rockpapershotgun.com/microsoft-nintendo-acquisition-hopes-revealed-by-leaked-xbox-exec-email)
 * [2023-09-19, 08:36:33](https://news.ycombinator.com/item?id=37567066) - [YouTube suspends Russell Brand from making money off the streaming site](https://apnews.com/article/russell-brand-youtube-sex-assault-ecf7aeecb3b66a02a4f3eb74282dc1c8)
+* [2023-09-19, 08:26:55](https://news.ycombinator.com/item?id=37567009) - [Fx – Terminal JSON Viewer](https://fx.wtf/)
 * [2023-09-19, 08:24:19](https://news.ycombinator.com/item?id=37566992) - [I digitalized Berlin's registration form](https://nicolasbouliane.com/projects/anmeldung-form-filler)
 * [2023-09-19, 08:16:42](https://news.ycombinator.com/item?id=37566929) - [U.K. finally rejoins Horizon Europe research funding scheme](https://www.science.org/content/article/uk-finally-rejoins-horizon-europe-research-funding-scheme)
 * [2023-09-19, 08:10:20](https://news.ycombinator.com/item?id=37566891) - [Opera's browser is now available with chess baked in](https://blogs.opera.com/news/2023/09/opera-launches-custom-chess-browser/)
