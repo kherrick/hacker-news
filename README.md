@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-19, 19:26:18](https://news.ycombinator.com/item?id=37575085) - [Google ad exec: “it is a worse user experience to not have ads on the page”](https://twitter.com/BigTechOnTrial/status/1704149922554016116)
 * [2023-09-19, 18:35:14](https://news.ycombinator.com/item?id=37574192) - [World’s most powerful X-ray laser will ‘film’ chemical reactions](https://www.nature.com/articles/d41586-023-02874-1)
 * [2023-09-19, 18:21:07](https://news.ycombinator.com/item?id=37573999) - [MariaDB to be acquired by Runa Cap?](https://investors.mariadb.com/news/news-details/2023/Announcement-Regarding-Possible-Offer/default.aspx)
 * [2023-09-19, 18:16:59](https://news.ycombinator.com/item?id=37573948) - [Agentscript: Agent Based Modeling in the Browser](https://agentscript.org/)
@@ -19,7 +20,6 @@
 * [2023-09-19, 15:04:49](https://news.ycombinator.com/item?id=37570947) - [Always Bump Downwards (2019)](https://fitzgeraldnick.com/2019/11/01/always-bump-downwards.html)
 * [2023-09-19, 14:50:23](https://news.ycombinator.com/item?id=37570743) - [The Physical Process That Powers a New Type of Generative AI](https://www.quantamagazine.org/new-physics-inspired-generative-ai-exceeds-expectations-20230919/)
 * [2023-09-19, 14:48:03](https://news.ycombinator.com/item?id=37570719) - [GraalVM for JDK 21](https://medium.com/graalvm/graalvm-for-jdk-21-is-here-ee01177dd12d)
-* [2023-09-19, 14:40:03](https://news.ycombinator.com/item?id=37570633) - [Is the end of AIDS in sight?](https://www.economist.com/middle-east-and-africa/2023/09/17/is-the-end-of-aids-in-sight)
 * [2023-09-19, 14:24:27](https://news.ycombinator.com/item?id=37570407) - [Snowden leak: Cavium networking hardware may contain NSA backdoor](https://twitter.com/matthew_d_green/status/1703959863796158678)
 * [2023-09-19, 13:59:08](https://news.ycombinator.com/item?id=37570022) - [Facebook is blocking Canadians’ posts about the assassination of a Sikh leader](https://pressprogress.ca/facebook-is-blocking-canadians-posts-about-the-assassination-of-a-bc-sikh-leader-their-posts-were-targeted-by-indias-government/)
 * [2023-09-19, 13:24:02](https://news.ycombinator.com/item?id=37569622) - [Historical maps probably helped cause World War I](https://resobscura.substack.com/p/historical-maps-probably-helped-cause)
