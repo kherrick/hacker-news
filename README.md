@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-19, 21:05:20](https://news.ycombinator.com/item?id=37576633) - [Can’t send email more than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
 * [2023-09-19, 21:02:11](https://news.ycombinator.com/item?id=37576580) - [Emerge (YC W21) is hiring a lead front end engineer (remote, small team)](https://www.workatastartup.com/jobs/61922/)
 * [2023-09-19, 19:44:52](https://news.ycombinator.com/item?id=37575377) - [Circles do not exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
 * [2023-09-19, 19:44:11](https://news.ycombinator.com/item?id=37575365) - [Apache Pinot 1.0](https://pinot.apache.org/blog/2023/09/19/Annoucing-Apache-Pinot-1-0/)
@@ -15,7 +16,6 @@
 * [2023-09-19, 16:31:31](https://news.ycombinator.com/item?id=37572394) - [How many medical studies are faked or flawed?](https://web.archive.org/web/20230718112821/https://www.nature.com/articles/d41586-023-02299-w)
 * [2023-09-19, 16:19:44](https://news.ycombinator.com/item?id=37572222) - [UK Parliament passes Online Safety Bill](https://www.bbc.co.uk/news/technology-66854618)
 * [2023-09-19, 16:05:07](https://news.ycombinator.com/item?id=37571974) - [Show HN: Hydra - Open-Source Columnar Postgres](https://www.hydra.so/blog-posts/hydra-1-generally-available)
-* [2023-09-19, 16:03:18](https://news.ycombinator.com/item?id=37571935) - [Why does water change the speed of electricity? [video]](https://www.youtube.com/watch?v=rQIg5XeIgQ0)
 * [2023-09-19, 16:02:11](https://news.ycombinator.com/item?id=37571919) - [Quantum Resistance and the Signal Protocol](https://signal.org/blog/pqxdh/)
 * [2023-09-19, 15:40:38](https://news.ycombinator.com/item?id=37571535) - [Graph Neural Networks use graphs when they shouldn't](https://arxiv.org/abs/2309.04332)
 * [2023-09-19, 15:28:06](https://news.ycombinator.com/item?id=37571328) - [Yash: Yet another short hand](https://opsahl.github.io/yash/)

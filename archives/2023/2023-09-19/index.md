@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 21:05:20](https://news.ycombinator.com/item?id=37576633) - [Can’t send email more than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
 * [2023-09-19, 21:02:11](https://news.ycombinator.com/item?id=37576580) - [Emerge (YC W21) is hiring a lead front end engineer (remote, small team)](https://www.workatastartup.com/jobs/61922/)
 * [2023-09-19, 20:02:55](https://news.ycombinator.com/item?id=37575694) - [Microsoft Exec on Acquiring Nintendo](https://twitter.com/TechEmails/status/1704205212595146810)
 * [2023-09-19, 19:44:52](https://news.ycombinator.com/item?id=37575377) - [Circles Do Not Exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
