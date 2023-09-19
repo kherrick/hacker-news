@@ -1,12 +1,62 @@
 [
   [
     [
+      "2023-09-19, 19:44:52",
+      "https://news.ycombinator.com/item?id=37575377"
+    ],
+    [
+      "Circles Do Not Exist",
+      "https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-19, 19:38:13",
+      "https://news.ycombinator.com/item?id=37575256"
+    ],
+    [
+      "Show HN: I'm building a tool to practice numbers in Arabic",
+      "https://arabic-numbers.koljapluemer.com/"
+    ]
+  ],
+  [
+    [
+      "2023-09-19, 19:34:09",
+      "https://news.ycombinator.com/item?id=37575204"
+    ],
+    [
+      "Fixing for Loops in Go 1.22",
+      "https://go.dev/blog/loopvar-preview"
+    ]
+  ],
+  [
+    [
       "2023-09-19, 19:26:18",
       "https://news.ycombinator.com/item?id=37575085"
     ],
     [
       "Google ad exec: “it is a worse user experience to not have ads on the page”",
       "https://twitter.com/BigTechOnTrial/status/1704149922554016116"
+    ]
+  ],
+  [
+    [
+      "2023-09-19, 18:59:50",
+      "https://news.ycombinator.com/item?id=37574644"
+    ],
+    [
+      "Faster Sorting Beyond DeepMind’s AlphaDev",
+      "https://www.mimicry.ai/faster-sorting-beyond-deepminds-alphadev"
+    ]
+  ],
+  [
+    [
+      "2023-09-19, 18:54:43",
+      "https://news.ycombinator.com/item?id=37574552"
+    ],
+    [
+      "RabbitMQ vs. Kafka – An Architect’s Dilemma (Part 1)",
+      "https://eranstiller.com/rabbitmq-vs-kafka-an-architects-dilemma-part-1"
     ]
   ],
   [
@@ -91,16 +141,6 @@
   ],
   [
     [
-      "2023-09-19, 16:39:21",
-      "https://news.ycombinator.com/item?id=37572518"
-    ],
-    [
-      "MGM losing up to $8.4M a day due to cyberattack, analyist says",
-      "https://www.reviewjournal.com/business/casinos-gaming/analyst-mgm-losing-4-2m-8-4m-a-day-because-of-cyberattack-2906379/"
-    ]
-  ],
-  [
-    [
       "2023-09-19, 16:31:31",
       "https://news.ycombinator.com/item?id=37572394"
     ],
@@ -137,16 +177,6 @@
     [
       "Quantum Resistance and the Signal Protocol",
       "https://signal.org/blog/pqxdh/"
-    ]
-  ],
-  [
-    [
-      "2023-09-19, 15:42:28",
-      "https://news.ycombinator.com/item?id=37571571"
-    ],
-    [
-      "Influence of dietary lipid upon ultraviolet light-carcinogenesis",
-      "https://pubmed.ncbi.nlm.nih.gov/6520731/"
     ]
   ],
   [
@@ -241,26 +271,6 @@
   ],
   [
     [
-      "2023-09-19, 12:14:18",
-      "https://news.ycombinator.com/item?id=37568856"
-    ],
-    [
-      "64-bit bank balances ‘ought to be enough for anybody’?",
-      "https://tigerbeetle.com/blog/2023-09-19-64-bit-bank-balances-ought-to-be-enough-for-anybody/"
-    ]
-  ],
-  [
-    [
-      "2023-09-19, 11:19:10",
-      "https://news.ycombinator.com/item?id=37568350"
-    ],
-    [
-      "Lies my calculator and computer told me [pdf]",
-      "https://www.stewartcalculus.com/data/default/upfiles/LiesCalcAndCompTold.pdf"
-    ]
-  ],
-  [
-    [
       "2023-09-19, 11:12:06",
       "https://news.ycombinator.com/item?id=37568278"
     ],
@@ -287,16 +297,6 @@
     [
       "Fx – Terminal JSON Viewer",
       "https://fx.wtf/"
-    ]
-  ],
-  [
-    [
-      "2023-09-19, 06:52:08",
-      "https://news.ycombinator.com/item?id=37566458"
-    ],
-    [
-      "A Line at a Time: The Atari 2600, Now with S-Video",
-      "https://nicole.express/2023/have-you-read-atari-today.html"
     ]
   ]
 ]
