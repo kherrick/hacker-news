@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
 * [2023-09-19, 13:08:52](https://news.ycombinator.com/item?id=37569424) - [For migrants under 24/7 surveillance, the UK feels like ‘an outside prison’](https://www.codastory.com/authoritarian-tech/gps-ankle-tags-uk-migrants-home-office/)
+* [2023-09-19, 12:25:00](https://news.ycombinator.com/item?id=37568950) - [YouTube Blocks Russell Brand from Making Money Through Its Platform](https://www.nytimes.com/2023/09/19/arts/russell-brand-youtube.html)
 * [2023-09-19, 12:14:18](https://news.ycombinator.com/item?id=37568856) - [64-Bit Bank Balances ‘Ought to Be Enough for Anybody’?](https://tigerbeetle.com/blog/2023-09-19-64-bit-bank-balances-ought-to-be-enough-for-anybody/)
 * [2023-09-19, 12:00:57](https://news.ycombinator.com/item?id=37568732) - [The Pirate Bay Celebrates Its 20th Anniversary](https://torrentfreak.com/the-pirate-bay-celebrates-its-20th-anniversary-230919/)
 * [2023-09-19, 11:42:41](https://news.ycombinator.com/item?id=37568564) - [Danish artist told to repay museum €67,000 after turning in blank canvasses](https://www.bbc.com/news/world-europe-66847139)

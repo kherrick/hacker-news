@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-19, 12:25:00](https://news.ycombinator.com/item?id=37568950) - [YouTube Blocks Russell Brand from Making Money Through Its Platform](https://www.nytimes.com/2023/09/19/arts/russell-brand-youtube.html)
 * [2023-09-19, 12:14:18](https://news.ycombinator.com/item?id=37568856) - [64-bit bank balances ‘ought to be enough for anybody’?](https://tigerbeetle.com/blog/2023-09-19-64-bit-bank-balances-ought-to-be-enough-for-anybody/)
 * [2023-09-19, 12:00:57](https://news.ycombinator.com/item?id=37568732) - [The Pirate Bay's 20th Anniversary](https://torrentfreak.com/the-pirate-bay-celebrates-its-20th-anniversary-230919/)
 * [2023-09-19, 11:42:41](https://news.ycombinator.com/item?id=37568564) - [Danish artist told to repay museum €67,000 after turning in blank canvasses](https://www.bbc.com/news/world-europe-66847139)
@@ -7,6 +8,7 @@
 * [2023-09-19, 11:19:10](https://news.ycombinator.com/item?id=37568350) - [Lies my calculator and computer told me [pdf]](https://www.stewartcalculus.com/data/default/upfiles/LiesCalcAndCompTold.pdf)
 * [2023-09-19, 11:12:06](https://news.ycombinator.com/item?id=37568278) - [VCMI: Open-Source Engine for Heroes of Might and Magic III](https://vcmi.eu)
 * [2023-09-19, 10:10:06](https://news.ycombinator.com/item?id=37567700) - [Bard can now connect to your Google Apps and services](https://blog.google/products/bard/google-bard-new-features-update-sept-2023/)
+* [2023-09-19, 09:43:31](https://news.ycombinator.com/item?id=37567497) - [Web apps are better than no apps](https://molodtsov.me/2023/08/web-apps-are-better-than-no-apps/)
 * [2023-09-19, 09:11:20](https://news.ycombinator.com/item?id=37567302) - [Safety Gate: the EU rapid alert system for dangerous non-food products](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10009444)
 * [2023-09-19, 08:44:13](https://news.ycombinator.com/item?id=37567115) - [Gitlab Critical Security Release: 16.3.4 and 16.2.7](https://about.gitlab.com/releases/2023/09/18/security-release-gitlab-16-3-4-released/)
 * [2023-09-19, 08:26:55](https://news.ycombinator.com/item?id=37567009) - [Fx – Terminal JSON Viewer](https://fx.wtf/)
@@ -27,8 +29,6 @@
 * [2023-09-18, 13:44:29](https://news.ycombinator.com/item?id=37556025) - [Replanting logged forests with diverse seedlings accelerates restoration](https://www.technologynetworks.com/applied-sciences/news/replanting-logged-forests-with-diverse-mixtures-of-seedlings-accelerates-restoration-378916)
 * [2023-09-18, 12:12:30](https://news.ycombinator.com/item?id=37555118) - [The brain is not an onion with a tiny reptile inside (2020)](https://journals.sagepub.com/doi/10.1177/0963721420917687)
 * [2023-09-18, 07:09:08](https://news.ycombinator.com/item?id=37553205) - [Fidonet Rules (2014)](https://wiki.c2.com/?FidonetRules)
-* [2023-09-18, 07:07:47](https://news.ycombinator.com/item?id=37553193) - [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
-* [2023-09-18, 06:01:40](https://news.ycombinator.com/item?id=37552740) - [F-35 can’t be found after pilot ejected](https://www.thedrive.com/the-war-zone/f-35-cant-be-found-after-pilot-ejected)
 * [2023-09-18, 04:00:56](https://news.ycombinator.com/item?id=37552085) - [How FoundationDB works and why it works (2021)](https://blog.the-pans.com/notes-on-the-foundationdb-paper/)
 
 ## [Archives](archives/index.md)
