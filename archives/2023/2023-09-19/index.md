@@ -26,6 +26,7 @@
 * [2023-09-19, 08:10:20](https://news.ycombinator.com/item?id=37566891) - [Opera's browser is now available with chess baked in](https://blogs.opera.com/news/2023/09/opera-launches-custom-chess-browser/)
 * [2023-09-19, 07:59:20](https://news.ycombinator.com/item?id=37566829) - [Windows Subsystem for Linux gets new 'mirrored' network mode](https://www.bleepingcomputer.com/news/microsoft/windows-subsystem-for-linux-gets-new-mirrored-network-mode/)
 * [2023-09-19, 07:48:59](https://news.ycombinator.com/item?id=37566776) - [GCC Preparing to Introduce “-Fhardened” Security Hardening Option](https://www.phoronix.com/news/GCC-fhardened-Hardening-Option)
+* [2023-09-19, 06:52:08](https://news.ycombinator.com/item?id=37566458) - [A Line at a Time: The Atari 2600, Now with S-Video](https://nicole.express/2023/have-you-read-atari-today.html)
 * [2023-09-19, 06:47:26](https://news.ycombinator.com/item?id=37566424) - [Forty years of GNU and the free software movement](https://www.fsf.org/news/forty-years-of-gnu-and-the-free-software-movement)
 * [2023-09-19, 06:31:59](https://news.ycombinator.com/item?id=37566316) - [OSS Game Engines are increasing their stars on GitHub due to Unity's missteps](https://twitter.com/OSSInsight/status/1703087927763542305)
 * [2023-09-19, 05:18:31](https://news.ycombinator.com/item?id=37565852) - [iOS 17](https://www.apple.com/ios/ios-17/)
