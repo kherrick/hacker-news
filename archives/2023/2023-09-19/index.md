@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 21:02:11](https://news.ycombinator.com/item?id=37576580) - [Emerge (YC W21) is hiring a lead front end engineer (remote, small team)](https://www.workatastartup.com/jobs/61922/)
+* [2023-09-19, 20:02:55](https://news.ycombinator.com/item?id=37575694) - [Microsoft Exec on Acquiring Nintendo](https://twitter.com/TechEmails/status/1704205212595146810)
 * [2023-09-19, 19:44:52](https://news.ycombinator.com/item?id=37575377) - [Circles Do Not Exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
 * [2023-09-19, 19:44:11](https://news.ycombinator.com/item?id=37575365) - [Apache Pinot 1.0](https://pinot.apache.org/blog/2023/09/19/Annoucing-Apache-Pinot-1-0/)
 * [2023-09-19, 19:38:13](https://news.ycombinator.com/item?id=37575256) - [Show HN: I'm building a tool to practice numbers in Arabic](https://arabic-numbers.koljapluemer.com/)
@@ -15,6 +17,7 @@
 * [2023-09-19, 18:57:43](https://news.ycombinator.com/item?id=37574610) - [Notes on Existential Risk from Artificial Superintelligence](https://michaelnotebook.com/xrisk/index.html)
 * [2023-09-19, 18:54:43](https://news.ycombinator.com/item?id=37574552) - [RabbitMQ vs. Kafka – An Architect’s Dilemma (Part 1)](https://eranstiller.com/rabbitmq-vs-kafka-an-architects-dilemma-part-1)
 * [2023-09-19, 18:35:14](https://news.ycombinator.com/item?id=37574192) - [World’s most powerful X-ray laser will ‘film’ chemical reactions](https://www.nature.com/articles/d41586-023-02874-1)
+* [2023-09-19, 18:33:05](https://news.ycombinator.com/item?id=37574150) - [Show HN: My first interactive article – breakdown of a complex menu UI](https://www.nathanmanousos.com/posts/chonky-menu)
 * [2023-09-19, 18:21:07](https://news.ycombinator.com/item?id=37573999) - [MariaDB to be acquired by Runa Cap?](https://investors.mariadb.com/news/news-details/2023/Announcement-Regarding-Possible-Offer/default.aspx)
 * [2023-09-19, 18:16:59](https://news.ycombinator.com/item?id=37573948) - [Agentscript: Agent Based Modeling in the Browser](https://agentscript.org/)
 * [2023-09-19, 18:07:00](https://news.ycombinator.com/item?id=37573808) - [We Can't Compete with AI Girlfriends](https://www.freyaindia.co.uk/p/we-cant-compete-with-ai-girlfriends)
