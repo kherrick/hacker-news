@@ -6,6 +6,7 @@
 
 * [2023-09-19, 12:14:18](https://news.ycombinator.com/item?id=37568856) - [64-Bit Bank Balances ‘Ought to Be Enough for Anybody’?](https://tigerbeetle.com/blog/2023-09-19-64-bit-bank-balances-ought-to-be-enough-for-anybody/)
 * [2023-09-19, 12:00:57](https://news.ycombinator.com/item?id=37568732) - [The Pirate Bay Celebrates Its 20th Anniversary](https://torrentfreak.com/the-pirate-bay-celebrates-its-20th-anniversary-230919/)
+* [2023-09-19, 11:42:41](https://news.ycombinator.com/item?id=37568564) - [Danish artist told to repay museum €67,000 after turning in blank canvasses](https://www.bbc.com/news/world-europe-66847139)
 * [2023-09-19, 11:41:18](https://news.ycombinator.com/item?id=37568549) - [The path to detecting extraterrestrial life with astrophotonics](https://arxiv.org/abs/2309.08732)
 * [2023-09-19, 11:19:10](https://news.ycombinator.com/item?id=37568350) - [Lies My Calculator and Computer Told Me [pdf]](https://www.stewartcalculus.com/data/default/upfiles/LiesCalcAndCompTold.pdf)
 * [2023-09-19, 11:12:06](https://news.ycombinator.com/item?id=37568278) - [VCMI: Open-Source Engine for Heroes of Might and Magic III](https://vcmi.eu)
@@ -18,6 +19,7 @@
 * [2023-09-19, 08:37:46](https://news.ycombinator.com/item?id=37567070) - [Microsoft Nintendo acquisition hopes revealed by leaked Xbox exec email](https://www.rockpapershotgun.com/microsoft-nintendo-acquisition-hopes-revealed-by-leaked-xbox-exec-email)
 * [2023-09-19, 08:36:33](https://news.ycombinator.com/item?id=37567066) - [YouTube suspends Russell Brand from making money off the streaming site](https://apnews.com/article/russell-brand-youtube-sex-assault-ecf7aeecb3b66a02a4f3eb74282dc1c8)
 * [2023-09-19, 08:26:55](https://news.ycombinator.com/item?id=37567009) - [Fx – Terminal JSON Viewer](https://fx.wtf/)
+* [2023-09-19, 08:25:47](https://news.ycombinator.com/item?id=37567002) - [Show HN: Whiz – A copilot for your terminal](https://github.com/searchableguy/whiz)
 * [2023-09-19, 08:24:19](https://news.ycombinator.com/item?id=37566992) - [I digitalized Berlin's registration form](https://nicolasbouliane.com/projects/anmeldung-form-filler)
 * [2023-09-19, 08:16:42](https://news.ycombinator.com/item?id=37566929) - [U.K. finally rejoins Horizon Europe research funding scheme](https://www.science.org/content/article/uk-finally-rejoins-horizon-europe-research-funding-scheme)
 * [2023-09-19, 08:10:20](https://news.ycombinator.com/item?id=37566891) - [Opera's browser is now available with chess baked in](https://blogs.opera.com/news/2023/09/opera-launches-custom-chess-browser/)
