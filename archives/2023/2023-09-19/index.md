@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 14:00:06](https://news.ycombinator.com/item?id=37570037) - [JDK 21 Release Notes](https://jdk.java.net/21/release-notes)
 * [2023-09-19, 13:50:01](https://news.ycombinator.com/item?id=37569911) - [Nvidia's 900 tons of GPU muscle bulks up server market, slims down wallets](https://www.theregister.com/2023/09/19/900_tons_nvidia_servers/)
 * [2023-09-19, 13:24:02](https://news.ycombinator.com/item?id=37569622) - [Historical maps probably helped cause World War I](https://resobscura.substack.com/p/historical-maps-probably-helped-cause)
+* [2023-09-19, 13:20:18](https://news.ycombinator.com/item?id=37569573) - [Java 21 Released](https://mail.openjdk.org/pipermail/jdk-dev/2023-September/008267.html)
 * [2023-09-19, 13:18:44](https://news.ycombinator.com/item?id=37569554) - [Larry Lessig's theory: our society is governed by four forces](https://cs.stanford.edu/people/eroberts/cs181/projects/2010-11/CodeAndRegulation/about.html)
 * [2023-09-19, 13:18:19](https://news.ycombinator.com/item?id=37569550) - [I call it the Homeless Industrial Complex](https://truthonthestreets.substack.com/p/this-is-why-i-call-it-the-homeless)
 * [2023-09-19, 13:08:52](https://news.ycombinator.com/item?id=37569424) - [For migrants under 24/7 surveillance, the UK feels like ‘an outside prison’](https://www.codastory.com/authoritarian-tech/gps-ankle-tags-uk-migrants-home-office/)
+* [2023-09-19, 12:54:09](https://news.ycombinator.com/item?id=37569258) - [Improving your online privacy: An update](https://blog.ovalerio.net/archives/2615)
 * [2023-09-19, 12:25:00](https://news.ycombinator.com/item?id=37568950) - [YouTube Blocks Russell Brand from Making Money Through Its Platform](https://www.nytimes.com/2023/09/19/arts/russell-brand-youtube.html)
 * [2023-09-19, 12:14:18](https://news.ycombinator.com/item?id=37568856) - [64-Bit Bank Balances ‘Ought to Be Enough for Anybody’?](https://tigerbeetle.com/blog/2023-09-19-64-bit-bank-balances-ought-to-be-enough-for-anybody/)
 * [2023-09-19, 12:00:57](https://news.ycombinator.com/item?id=37568732) - [The Pirate Bay Celebrates Its 20th Anniversary](https://torrentfreak.com/the-pirate-bay-celebrates-its-20th-anniversary-230919/)
