@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
 * [2023-09-19, 19:44:52](https://news.ycombinator.com/item?id=37575377) - [Circles Do Not Exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
+* [2023-09-19, 19:44:11](https://news.ycombinator.com/item?id=37575365) - [Apache Pinot 1.0](https://pinot.apache.org/blog/2023/09/19/Annoucing-Apache-Pinot-1-0/)
 * [2023-09-19, 19:38:13](https://news.ycombinator.com/item?id=37575256) - [Show HN: I'm building a tool to practice numbers in Arabic](https://arabic-numbers.koljapluemer.com/)
+* [2023-09-19, 19:36:22](https://news.ycombinator.com/item?id=37575227) - [Simple Open-Source Java Virtual Machine in C](https://github.com/phillbush/jvm)
 * [2023-09-19, 19:34:09](https://news.ycombinator.com/item?id=37575204) - [Fixing for Loops in Go 1.22](https://go.dev/blog/loopvar-preview)
 * [2023-09-19, 19:26:18](https://news.ycombinator.com/item?id=37575085) - [Google ad exec: “it is a worse user experience to not have ads on the page”](https://twitter.com/BigTechOnTrial/status/1704149922554016116)
 * [2023-09-19, 18:59:50](https://news.ycombinator.com/item?id=37574644) - [Faster Sorting Beyond DeepMind’s AlphaDev](https://www.mimicry.ai/faster-sorting-beyond-deepminds-alphadev)
@@ -14,6 +16,7 @@
 * [2023-09-19, 18:21:07](https://news.ycombinator.com/item?id=37573999) - [MariaDB to be acquired by Runa Cap?](https://investors.mariadb.com/news/news-details/2023/Announcement-Regarding-Possible-Offer/default.aspx)
 * [2023-09-19, 18:16:59](https://news.ycombinator.com/item?id=37573948) - [Agentscript: Agent Based Modeling in the Browser](https://agentscript.org/)
 * [2023-09-19, 18:07:00](https://news.ycombinator.com/item?id=37573808) - [We Can't Compete with AI Girlfriends](https://www.freyaindia.co.uk/p/we-cant-compete-with-ai-girlfriends)
+* [2023-09-19, 18:02:52](https://news.ycombinator.com/item?id=37573742) - [Show HN: Dialoqbase – open-source chatbot creation platform (LangChain wrapper)](https://news.ycombinator.com/item?id=37573742)
 * [2023-09-19, 17:58:04](https://news.ycombinator.com/item?id=37573679) - [NFS > FUSE: Why We Built Our Own NFS Server in Rust](https://about.xethub.com/blog/nfs-fuse-why-we-built-nfs-server-rust)
 * [2023-09-19, 17:34:06](https://news.ycombinator.com/item?id=37573332) - [iFixit – We Are Retroactively Dropping the iPhone’s Repairability Score](https://www.ifixit.com/News/82493/we-are-retroactively-dropping-the-iphones-repairability-score-en)
 * [2023-09-19, 17:06:52](https://news.ycombinator.com/item?id=37572960) - [One in 10 Japanese Now Aged over 80, Population Report Shows](https://www.bloomberg.com/news/articles/2023-09-18/one-in-10-japanese-aged-over-80-population-report-shows-on-respect-for-aged-day)
