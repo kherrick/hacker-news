@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
 * [2023-09-19, 05:18:31](https://news.ycombinator.com/item?id=37565852) - [iOS 17](https://www.apple.com/ios/ios-17/)
+* [2023-09-19, 04:44:04](https://news.ycombinator.com/item?id=37565682) - [Georgism](https://en.wikipedia.org/wiki/Georgism)
 * [2023-09-19, 04:20:12](https://news.ycombinator.com/item?id=37565559) - [I rewired my brain in six weeks](https://www.bbc.com/future/article/20230912-how-i-hacked-my-brain)
 * [2023-09-19, 04:10:22](https://news.ycombinator.com/item?id=37565515) - [How The iPhone 15 Pro camera works and why you’ll want to shoot 24MP photos](https://petapixel.com/2023/09/18/apple-explains-what-the-iphone-can-and-cant-do-and-why/)
 * [2023-09-19, 03:53:02](https://news.ycombinator.com/item?id=37565424) - [Windows Subsystem for Linux 2.0 release](https://github.com/microsoft/WSL/releases/tag/2.0.0)
