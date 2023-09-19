@@ -2,6 +2,7 @@
 
 * [2023-09-19, 09:11:20](https://news.ycombinator.com/item?id=37567302) - [Safety Gate: the EU rapid alert system for dangerous non-food products](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10009444)
 * [2023-09-19, 09:10:51](https://news.ycombinator.com/item?id=37567298) - [Ask HN: What low code platforms are worth using?](https://news.ycombinator.com/item?id=37567298)
+* [2023-09-19, 08:59:49](https://news.ycombinator.com/item?id=37567214) - [1k Met Police officers suspended or on restricted duties](https://www.bbc.co.uk/news/uk-england-london-66842521)
 * [2023-09-19, 08:37:46](https://news.ycombinator.com/item?id=37567070) - [Microsoft Nintendo acquisition hopes revealed by leaked Xbox exec email](https://www.rockpapershotgun.com/microsoft-nintendo-acquisition-hopes-revealed-by-leaked-xbox-exec-email)
 * [2023-09-19, 08:24:19](https://news.ycombinator.com/item?id=37566992) - [I digitalized Berlin's registration form](https://nicolasbouliane.com/projects/anmeldung-form-filler)
 * [2023-09-19, 08:16:42](https://news.ycombinator.com/item?id=37566929) - [U.K. finally rejoins Horizon Europe research funding scheme](https://www.science.org/content/article/uk-finally-rejoins-horizon-europe-research-funding-scheme)
@@ -29,7 +30,6 @@
 * [2023-09-18, 04:00:56](https://news.ycombinator.com/item?id=37552085) - [How FoundationDB works and why it works (2021)](https://blog.the-pans.com/notes-on-the-foundationdb-paper/)
 * [2023-09-18, 03:07:24](https://news.ycombinator.com/item?id=37551761) - [The daguerreotype is famous – why not the calotype?](https://daily.jstor.org/the-daguerreotypes-famous-why-not-the-calotype/)
 * [2023-09-18, 03:06:39](https://news.ycombinator.com/item?id=37551758) - [Playing cards that taught 17th-century cooks to carve meat (2019)](https://www.atlasobscura.com/articles/carving-meat-playing-cards)
-* [2023-09-17, 11:05:04](https://news.ycombinator.com/item?id=37543717) - [Pentominoku for Layla](https://logic-masters.de/Raetselportal/Raetsel/zeigen.php?id=000F6A)
 
 ## [Archives](archives/index.md)
 
