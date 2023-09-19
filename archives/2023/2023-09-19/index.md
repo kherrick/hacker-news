@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 06:47:26](https://news.ycombinator.com/item?id=37566424) - [Forty years of GNU and the free software movement](https://www.fsf.org/news/forty-years-of-gnu-and-the-free-software-movement)
 * [2023-09-19, 05:18:31](https://news.ycombinator.com/item?id=37565852) - [iOS 17](https://www.apple.com/ios/ios-17/)
 * [2023-09-19, 04:44:04](https://news.ycombinator.com/item?id=37565682) - [Georgism](https://en.wikipedia.org/wiki/Georgism)
 * [2023-09-19, 04:24:40](https://news.ycombinator.com/item?id=37565588) - [Seeking Help to Preserve Rare WWII Database on Windows 98](https://twitter.com/mtruslowstorey/status/1703781076689121556?s=46&t=E3U2EI7EXIhlBQmxg6oZ2g)
@@ -17,5 +18,6 @@
 * [2023-09-19, 02:06:32](https://news.ycombinator.com/item?id=37564851) - [George Orwell Complete Works](http://www.george-orwell.org/)
 * [2023-09-19, 02:04:30](https://news.ycombinator.com/item?id=37564839) - [The High Cost of Free Parking](https://en.wikipedia.org/wiki/The_High_Cost_of_Free_Parking)
 * [2023-09-19, 01:50:46](https://news.ycombinator.com/item?id=37564768) - [Ask HN: 6 months later. How is Bard doing?](https://news.ycombinator.com/item?id=37564768)
+* [2023-09-19, 01:38:48](https://news.ycombinator.com/item?id=37564686) - [Tell HN: ChatGPT cut off date now Jan 2022](https://news.ycombinator.com/item?id=37564686)
 * [2023-09-19, 01:09:59](https://news.ycombinator.com/item?id=37564503) - [Marine Corps orders safety stand-down of all aircraft after F-35 disappearance](https://www.nbcnews.com/news/us-news/marine-leader-orders-safety-stand-aircraft-f-35-disappearance-rcna105602)
 * [2023-09-19, 00:30:02](https://news.ycombinator.com/item?id=37564217) - [Mythbusters: Wing Commander I Edition](https://www.wcnews.com/news/update/16279)
