@@ -3,7 +3,6 @@
 * [2023-09-19, 18:16:59](https://news.ycombinator.com/item?id=37573948) - [Agentscript: Agent Based Modeling in the Browser](https://agentscript.org/)
 * [2023-09-19, 18:07:00](https://news.ycombinator.com/item?id=37573808) - [We Can't Compete with AI Girlfriends](https://www.freyaindia.co.uk/p/we-cant-compete-with-ai-girlfriends)
 * [2023-09-19, 17:34:06](https://news.ycombinator.com/item?id=37573332) - [iFixit – We Are Retroactively Dropping the iPhone’s Repairability Score](https://www.ifixit.com/News/82493/we-are-retroactively-dropping-the-iphones-repairability-score-en)
-* [2023-09-19, 17:06:52](https://news.ycombinator.com/item?id=37572960) - [One in 10 Japanese Now Aged over 80, Population Report Shows](https://www.bloomberg.com/news/articles/2023-09-18/one-in-10-japanese-aged-over-80-population-report-shows-on-respect-for-aged-day)
 * [2023-09-19, 17:00:53](https://news.ycombinator.com/item?id=37572868) - [Ivy (YC W23) Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 * [2023-09-19, 16:53:19](https://news.ycombinator.com/item?id=37572743) - [Show HN: Dittofeed – 1-Click deploy, self-host Mailchimp alternative](https://github.com/dittofeed/dittofeed)
 * [2023-09-19, 16:50:30](https://news.ycombinator.com/item?id=37572692) - [Google quietly raised ad prices to boost search revenue](https://www.theverge.com/2023/9/19/23880275/google-search-ads-competition-auction-prices-doj-trial-antitrust)
@@ -28,6 +27,7 @@
 * [2023-09-19, 11:12:06](https://news.ycombinator.com/item?id=37568278) - [VCMI: Open-Source Engine for Heroes of Might and Magic III](https://vcmi.eu)
 * [2023-09-19, 10:39:51](https://news.ycombinator.com/item?id=37567972) - [Lichess: Block Ads and Trackers](https://lichess.org/ads)
 * [2023-09-19, 08:26:55](https://news.ycombinator.com/item?id=37567009) - [Fx – Terminal JSON Viewer](https://fx.wtf/)
+* [2023-09-19, 08:24:19](https://news.ycombinator.com/item?id=37566992) - [I digitalized Berlin's registration form](https://nicolasbouliane.com/projects/anmeldung-form-filler)
 * [2023-09-19, 06:52:08](https://news.ycombinator.com/item?id=37566458) - [A Line at a Time: The Atari 2600, Now with S-Video](https://nicole.express/2023/have-you-read-atari-today.html)
 * [2023-09-18, 21:47:55](https://news.ycombinator.com/item?id=37562541) - [AIST Steel Wheel](https://apps.aist.org/steelwheel/index.html)
 
