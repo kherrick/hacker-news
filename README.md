@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-19, 04:20:12](https://news.ycombinator.com/item?id=37565559) - [I rewired my brain in six weeks](https://www.bbc.com/future/article/20230912-how-i-hacked-my-brain)
+* [2023-09-19, 04:10:22](https://news.ycombinator.com/item?id=37565515) - [How The iPhone 15 Pro camera works and why you’ll want to shoot 24MP photos](https://petapixel.com/2023/09/18/apple-explains-what-the-iphone-can-and-cant-do-and-why/)
 * [2023-09-19, 03:53:02](https://news.ycombinator.com/item?id=37565424) - [Windows Subsystem for Linux 2.0 release](https://github.com/microsoft/WSL/releases/tag/2.0.0)
 * [2023-09-19, 03:46:11](https://news.ycombinator.com/item?id=37565385) - [Tonga is running out of space for more than 30k abandoned cars](https://www.abc.net.au/news/science/2023-09-19/how-tonga-plans-to-recycle-its-mountain-of-scrap-cars/102614772)
 * [2023-09-19, 03:19:13](https://news.ycombinator.com/item?id=37565252) - [The Maintainer of the Nvidia Open-Source “Nouveau” Linux Kernel Driver Resigns](https://www.phoronix.com/news/Nouveau-Maintainer-Resigns)
@@ -22,13 +24,11 @@
 * [2023-09-18, 12:12:30](https://news.ycombinator.com/item?id=37555118) - [The brain is not an onion with a tiny reptile inside (2020)](https://journals.sagepub.com/doi/10.1177/0963721420917687)
 * [2023-09-18, 09:54:19](https://news.ycombinator.com/item?id=37554176) - [How hard is it to adapt a memory allocator to CHERI?](https://tratt.net/laurie/blog/2023/how_hard_is_it_to_adapt_a_memory_allocator_to_cheri.html)
 * [2023-09-18, 07:09:08](https://news.ycombinator.com/item?id=37553205) - [Fidonet Rules (2014)](https://wiki.c2.com/?FidonetRules)
-* [2023-09-18, 07:07:47](https://news.ycombinator.com/item?id=37553193) - [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
 * [2023-09-18, 04:13:57](https://news.ycombinator.com/item?id=37552161) - [Van Gogh’s Self-Portraits](https://www.vangoghmuseum.nl/en/art-and-stories/stories/all-stories/5-things-you-need-to-know-about-van-goghs-self-portraits)
 * [2023-09-18, 04:00:56](https://news.ycombinator.com/item?id=37552085) - [How FoundationDB works and why it works (2021)](https://blog.the-pans.com/notes-on-the-foundationdb-paper/)
 * [2023-09-18, 03:07:24](https://news.ycombinator.com/item?id=37551761) - [The daguerreotype is famous – why not the calotype?](https://daily.jstor.org/the-daguerreotypes-famous-why-not-the-calotype/)
 * [2023-09-18, 03:06:39](https://news.ycombinator.com/item?id=37551758) - [Playing cards that taught 17th-century cooks to carve meat (2019)](https://www.atlasobscura.com/articles/carving-meat-playing-cards)
 * [2023-09-18, 02:33:45](https://news.ycombinator.com/item?id=37551566) - [Mysteries of the Court of Miracles](https://reynolds-news.com/2023/09/14/court-of-miracles-underworld-stephen-basdeo/)
-* [2023-09-17, 19:39:51](https://news.ycombinator.com/item?id=37548605) - [The collaborative spirit behind Brian Eno’s record sleeve designs (2022)](https://eyeondesign.aiga.org/the-collaborative-spirit-behind-brian-enos-record-sleeve-designs/)
 * [2023-09-17, 11:05:04](https://news.ycombinator.com/item?id=37543717) - [Pentominoku for Layla](https://logic-masters.de/Raetselportal/Raetsel/zeigen.php?id=000F6A)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 04:20:12](https://news.ycombinator.com/item?id=37565559) - [I rewired my brain in six weeks](https://www.bbc.com/future/article/20230912-how-i-hacked-my-brain)
 * [2023-09-19, 04:10:22](https://news.ycombinator.com/item?id=37565515) - [How The iPhone 15 Pro camera works and why you’ll want to shoot 24MP photos](https://petapixel.com/2023/09/18/apple-explains-what-the-iphone-can-and-cant-do-and-why/)
 * [2023-09-19, 03:53:02](https://news.ycombinator.com/item?id=37565424) - [Windows Subsystem for Linux 2.0 release](https://github.com/microsoft/WSL/releases/tag/2.0.0)
 * [2023-09-19, 03:46:11](https://news.ycombinator.com/item?id=37565385) - [Tonga is running out of space for more than 30k abandoned cars](https://www.abc.net.au/news/science/2023-09-19/how-tonga-plans-to-recycle-its-mountain-of-scrap-cars/102614772)
