@@ -6,6 +6,8 @@
 
 * [2023-09-19, 21:05:20](https://news.ycombinator.com/item?id=37576633) - [Can’t send email more than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
 * [2023-09-19, 21:02:11](https://news.ycombinator.com/item?id=37576580) - [Emerge (YC W21) is hiring a lead front end engineer (remote, small team)](https://www.workatastartup.com/jobs/61922/)
+* [2023-09-19, 20:47:03](https://news.ycombinator.com/item?id=37576303) - [Nushell 0.85](https://www.nushell.sh/blog/2023-09-19-nushell_0_85_0.html)
+* [2023-09-19, 20:44:46](https://news.ycombinator.com/item?id=37576259) - [The Princeton researchers calling out ‘AI snake oil’](https://www.semafor.com/article/09/15/2023/the-princeton-researchers-calling-out-ai-snake-oil)
 * [2023-09-19, 20:02:55](https://news.ycombinator.com/item?id=37575694) - [Microsoft Exec on Acquiring Nintendo](https://twitter.com/TechEmails/status/1704205212595146810)
 * [2023-09-19, 19:44:52](https://news.ycombinator.com/item?id=37575377) - [Circles Do Not Exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
 * [2023-09-19, 19:44:11](https://news.ycombinator.com/item?id=37575365) - [Apache Pinot 1.0](https://pinot.apache.org/blog/2023/09/19/Annoucing-Apache-Pinot-1-0/)
@@ -60,6 +62,7 @@
 * [2023-09-19, 13:18:19](https://news.ycombinator.com/item?id=37569550) - [I call it the Homeless Industrial Complex](https://truthonthestreets.substack.com/p/this-is-why-i-call-it-the-homeless)
 * [2023-09-19, 13:08:52](https://news.ycombinator.com/item?id=37569424) - [For migrants under 24/7 surveillance, the UK feels like ‘an outside prison’](https://www.codastory.com/authoritarian-tech/gps-ankle-tags-uk-migrants-home-office/)
 * [2023-09-19, 12:54:09](https://news.ycombinator.com/item?id=37569258) - [Improving your online privacy: An update](https://blog.ovalerio.net/archives/2615)
+* [2023-09-19, 12:43:47](https://news.ycombinator.com/item?id=37569137) - [Evidence mounts on toxic pollution from tires](https://e360.yale.edu/features/tire-pollution-toxic-chemicals)
 * [2023-09-19, 12:25:00](https://news.ycombinator.com/item?id=37568950) - [YouTube Blocks Russell Brand from Making Money Through Its Platform](https://www.nytimes.com/2023/09/19/arts/russell-brand-youtube.html)
 * [2023-09-19, 12:14:18](https://news.ycombinator.com/item?id=37568856) - [64-Bit Bank Balances ‘Ought to Be Enough for Anybody’?](https://tigerbeetle.com/blog/2023-09-19-64-bit-bank-balances-ought-to-be-enough-for-anybody/)
 * [2023-09-19, 12:00:57](https://news.ycombinator.com/item?id=37568732) - [The Pirate Bay Celebrates Its 20th Anniversary](https://torrentfreak.com/the-pirate-bay-celebrates-its-20th-anniversary-230919/)
