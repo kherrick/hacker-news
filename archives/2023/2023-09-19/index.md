@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 11:12:06](https://news.ycombinator.com/item?id=37568278) - [VCMI: Open-Source Engine for Heroes of Might and Magic III](https://vcmi.eu)
 * [2023-09-19, 09:43:31](https://news.ycombinator.com/item?id=37567497) - [Web Apps Are Better Than No Apps](https://molodtsov.me/2023/08/web-apps-are-better-than-no-apps/)
 * [2023-09-19, 09:11:20](https://news.ycombinator.com/item?id=37567302) - [Safety Gate: the EU rapid alert system for dangerous non-food products](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10009444)
 * [2023-09-19, 09:10:51](https://news.ycombinator.com/item?id=37567298) - [Ask HN: What low code platforms are worth using?](https://news.ycombinator.com/item?id=37567298)
