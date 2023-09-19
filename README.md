@@ -8,6 +8,7 @@
 * [2023-09-19, 18:59:50](https://news.ycombinator.com/item?id=37574644) - [Faster Sorting Beyond DeepMind’s AlphaDev](https://www.mimicry.ai/faster-sorting-beyond-deepminds-alphadev)
 * [2023-09-19, 18:54:43](https://news.ycombinator.com/item?id=37574552) - [RabbitMQ vs. Kafka – An Architect’s Dilemma (Part 1)](https://eranstiller.com/rabbitmq-vs-kafka-an-architects-dilemma-part-1)
 * [2023-09-19, 18:35:14](https://news.ycombinator.com/item?id=37574192) - [World’s most powerful X-ray laser will ‘film’ chemical reactions](https://www.nature.com/articles/d41586-023-02874-1)
+* [2023-09-19, 18:21:07](https://news.ycombinator.com/item?id=37573999) - [MariaDB to be acquired by Runa Cap?](https://investors.mariadb.com/news/news-details/2023/Announcement-Regarding-Possible-Offer/default.aspx)
 * [2023-09-19, 18:16:59](https://news.ycombinator.com/item?id=37573948) - [Agentscript: Agent Based Modeling in the Browser](https://agentscript.org/)
 * [2023-09-19, 18:02:52](https://news.ycombinator.com/item?id=37573742) - [Show HN: Dialoqbase – open-source chatbot creation platform (LangChain wrapper)](https://news.ycombinator.com/item?id=37573742)
 * [2023-09-19, 17:58:04](https://news.ycombinator.com/item?id=37573679) - [NFS > FUSE: Why We Built Our Own NFS Server in Rust](https://about.xethub.com/blog/nfs-fuse-why-we-built-nfs-server-rust)
@@ -29,7 +30,6 @@
 * [2023-09-19, 12:54:09](https://news.ycombinator.com/item?id=37569258) - [Improving your online privacy: An update](https://blog.ovalerio.net/archives/2615)
 * [2023-09-19, 11:12:06](https://news.ycombinator.com/item?id=37568278) - [VCMI: Open-Source Engine for Heroes of Might and Magic III](https://vcmi.eu)
 * [2023-09-19, 10:39:51](https://news.ycombinator.com/item?id=37567972) - [Lichess: Block Ads and Trackers](https://lichess.org/ads)
-* [2023-09-19, 08:26:55](https://news.ycombinator.com/item?id=37567009) - [Fx – Terminal JSON Viewer](https://fx.wtf/)
 
 ## [Archives](archives/index.md)
 
