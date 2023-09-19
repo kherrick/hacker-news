@@ -15,6 +15,7 @@
 * [2023-09-19, 16:02:11](https://news.ycombinator.com/item?id=37571919) - [Quantum Resistance and the Signal Protocol](https://signal.org/blog/pqxdh/)
 * [2023-09-19, 15:42:28](https://news.ycombinator.com/item?id=37571571) - [Influence of dietary lipid upon ultraviolet light-carcinogenesis](https://pubmed.ncbi.nlm.nih.gov/6520731/)
 * [2023-09-19, 15:40:38](https://news.ycombinator.com/item?id=37571535) - [Graph Neural Networks Use Graphs When They Shouldn't](https://arxiv.org/abs/2309.04332)
+* [2023-09-19, 15:28:06](https://news.ycombinator.com/item?id=37571328) - [Yash Shorthand System](https://opsahl.github.io/yash/)
 * [2023-09-19, 15:04:49](https://news.ycombinator.com/item?id=37570947) - [Always Bump Downwards (2019)](https://fitzgeraldnick.com/2019/11/01/always-bump-downwards.html)
 * [2023-09-19, 15:03:24](https://news.ycombinator.com/item?id=37570929) - [Show HN: Graphite – Stacked Diffs on GitHub](https://news.ycombinator.com/item?id=37570929)
 * [2023-09-19, 14:56:43](https://news.ycombinator.com/item?id=37570829) - [Plug and socket types around the world](https://www.worldstandards.eu/electricity/plugs-and-sockets/)
