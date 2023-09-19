@@ -25,10 +25,10 @@
 * [2023-09-19, 08:24:19](https://news.ycombinator.com/item?id=37566992) - [I digitalized Berlin's registration form](https://nicolasbouliane.com/projects/anmeldung-form-filler)
 * [2023-09-19, 08:16:42](https://news.ycombinator.com/item?id=37566929) - [U.K. rejoins Horizon Europe research funding scheme](https://www.science.org/content/article/uk-finally-rejoins-horizon-europe-research-funding-scheme)
 * [2023-09-19, 06:52:08](https://news.ycombinator.com/item?id=37566458) - [A Line at a Time: The Atari 2600, Now with S-Video](https://nicole.express/2023/have-you-read-atari-today.html)
-* [2023-09-19, 06:31:59](https://news.ycombinator.com/item?id=37566316) - [OSS Game Engines are increasing their stars on GitHub due to Unity's missteps](https://twitter.com/OSSInsight/status/1703087927763542305)
 * [2023-09-19, 04:59:41](https://news.ycombinator.com/item?id=37565761) - [A basic guide to using Asian names](https://www.asiamediacentre.org.nz/features/a-guide-to-using-asian-names/)
 * [2023-09-19, 01:38:48](https://news.ycombinator.com/item?id=37564686) - [Tell HN: ChatGPT cut off date now Jan 2022](https://news.ycombinator.com/item?id=37564686)
 * [2023-09-19, 00:30:02](https://news.ycombinator.com/item?id=37564217) - [Mythbusters: Wing Commander I Edition](https://www.wcnews.com/news/update/16279)
+* [2023-09-18, 21:47:55](https://news.ycombinator.com/item?id=37562541) - [AIST Steel Wheel](https://apps.aist.org/steelwheel/index.html)
 * [2023-09-18, 15:21:52](https://news.ycombinator.com/item?id=37557438) - [The Astrologer of the Nineteenth Century (1825)](https://publicdomainreview.org/collection/the-astrologer-of-the-nineteenth-century-1825)
 
 ## [Archives](archives/index.md)

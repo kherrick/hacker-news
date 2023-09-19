@@ -7,6 +7,7 @@
 * [2023-09-18, 23:06:40](https://news.ycombinator.com/item?id=37563335) - [U.S. National Debt Tops $33T for First Time](https://www.nytimes.com/2023/09/18/us/politics/us-national-debt.html)
 * [2023-09-18, 22:58:14](https://news.ycombinator.com/item?id=37563276) - [Tests find many popular omega 3 supplements are rancid](https://medicalxpress.com/news/2023-09-popular-omega-supplements-rancid.html)
 * [2023-09-18, 22:52:51](https://news.ycombinator.com/item?id=37563231) - [Striking auto workers want a 40% pay increase–the same rate their CEOs’ pay grew](https://www.cnbc.com/2023/09/15/striking-uaw-auto-workers-want-a-40percent-pay-increase-how-much-they-make-now.html)
+* [2023-09-18, 21:47:55](https://news.ycombinator.com/item?id=37562541) - [AIST Steel Wheel](https://apps.aist.org/steelwheel/index.html)
 * [2023-09-18, 21:20:18](https://news.ycombinator.com/item?id=37562225) - [Some new snippets from the Snowden documents](https://www.electrospaces.net/2023/09/some-new-snippets-from-snowden-documents.html)
 * [2023-09-18, 21:05:19](https://news.ycombinator.com/item?id=37562039) - [Ask HN: YouTube keeps suggesting vids I marked “not interested”. What can I do?](https://news.ycombinator.com/item?id=37562039)
 * [2023-09-18, 21:02:45](https://news.ycombinator.com/item?id=37562007) - [Demands for Tips Are Up. Actual Tipping, Not So Much](https://www.wsj.com/personal-finance/demands-for-tips-are-up-actual-tipping-not-so-much-2ee1908b)
