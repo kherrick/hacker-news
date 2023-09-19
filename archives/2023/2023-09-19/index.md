@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 23:08:04](https://news.ycombinator.com/item?id=37578326) - [AI emits less CO2 when writing and illustrating than humans](https://arxiv.org/abs/2303.06219)
 * [2023-09-19, 22:28:19](https://news.ycombinator.com/item?id=37577861) - [Webring Technology](https://brisray.com/web/webring-tech.htm)
 * [2023-09-19, 22:09:37](https://news.ycombinator.com/item?id=37577609) - [Humans Have Exceeded Six of the Nine Boundaries Keeping Earth Habitable](https://www.smithsonianmag.com/smart-news/humans-have-exceeded-six-of-the-nine-boundaries-keeping-earth-habitable-180982909/)
 * [2023-09-19, 22:07:33](https://news.ycombinator.com/item?id=37577589) - [Show HN: Spirals – Generate beautiful AI spiral art with one click](https://spirals.vercel.app/)
