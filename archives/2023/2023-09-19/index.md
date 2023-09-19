@@ -6,6 +6,7 @@
 
 * [2023-09-19, 02:24:13](https://news.ycombinator.com/item?id=37564952) - [Your WiFi Can See You](https://mrereports.substack.com/p/your-wifi-can-see-you)
 * [2023-09-19, 02:06:32](https://news.ycombinator.com/item?id=37564851) - [George Orwell Complete Works](http://www.george-orwell.org/)
+* [2023-09-19, 02:04:30](https://news.ycombinator.com/item?id=37564839) - [The High Cost of Free Parking](https://en.wikipedia.org/wiki/The_High_Cost_of_Free_Parking)
 * [2023-09-19, 01:50:46](https://news.ycombinator.com/item?id=37564768) - [Ask HN: 6 months later. How is Bard doing?](https://news.ycombinator.com/item?id=37564768)
 * [2023-09-19, 01:09:59](https://news.ycombinator.com/item?id=37564503) - [Marine Corps orders safety stand-down of all aircraft after F-35 disappearance](https://www.nbcnews.com/news/us-news/marine-leader-orders-safety-stand-aircraft-f-35-disappearance-rcna105602)
 * [2023-09-19, 00:30:02](https://news.ycombinator.com/item?id=37564217) - [Mythbusters: Wing Commander I Edition](https://www.wcnews.com/news/update/16279)
