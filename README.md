@@ -2,7 +2,6 @@
 
 * [2023-09-19, 02:24:13](https://news.ycombinator.com/item?id=37564952) - [Your WiFi Can See You](https://mrereports.substack.com/p/your-wifi-can-see-you)
 * [2023-09-19, 02:06:32](https://news.ycombinator.com/item?id=37564851) - [George Orwell Complete Works](http://www.george-orwell.org/)
-* [2023-09-19, 01:50:46](https://news.ycombinator.com/item?id=37564768) - [Ask HN: 6 months later. How is Bard doing?](https://news.ycombinator.com/item?id=37564768)
 * [2023-09-19, 00:30:02](https://news.ycombinator.com/item?id=37564217) - [Mythbusters: Wing Commander I Edition](https://www.wcnews.com/news/update/16279)
 * [2023-09-18, 21:20:18](https://news.ycombinator.com/item?id=37562225) - [Some new snippets from the Snowden documents](https://www.electrospaces.net/2023/09/some-new-snippets-from-snowden-documents.html)
 * [2023-09-18, 20:38:45](https://news.ycombinator.com/item?id=37561696) - [FTC warns pharma companies about sham patent listings designed to delay generics](https://www.techdirt.com/2023/09/18/ftc-warns-pharma-companies-that-it-may-go-after-them-for-sham-patent-listings-designed-to-delay-generic-competitors/)
@@ -22,6 +21,7 @@
 * [2023-09-18, 12:12:30](https://news.ycombinator.com/item?id=37555118) - [The brain is not an onion with a tiny reptile inside (2020)](https://journals.sagepub.com/doi/10.1177/0963721420917687)
 * [2023-09-18, 09:54:19](https://news.ycombinator.com/item?id=37554176) - [How hard is it to adapt a memory allocator to CHERI?](https://tratt.net/laurie/blog/2023/how_hard_is_it_to_adapt_a_memory_allocator_to_cheri.html)
 * [2023-09-18, 07:09:08](https://news.ycombinator.com/item?id=37553205) - [Fidonet Rules (2014)](https://wiki.c2.com/?FidonetRules)
+* [2023-09-18, 07:07:47](https://news.ycombinator.com/item?id=37553193) - [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
 * [2023-09-18, 04:13:57](https://news.ycombinator.com/item?id=37552161) - [Van Gogh’s Self-Portraits](https://www.vangoghmuseum.nl/en/art-and-stories/stories/all-stories/5-things-you-need-to-know-about-van-goghs-self-portraits)
 * [2023-09-18, 04:12:19](https://news.ycombinator.com/item?id=37552151) - [Ron Cobb – Filmography](https://roncobb.net/film.html)
 * [2023-09-18, 04:00:56](https://news.ycombinator.com/item?id=37552085) - [How FoundationDB works and why it works (2021)](https://blog.the-pans.com/notes-on-the-foundationdb-paper/)
