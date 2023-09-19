@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-19, 05:18:31](https://news.ycombinator.com/item?id=37565852) - [iOS 17](https://www.apple.com/ios/ios-17/)
 * [2023-09-19, 04:44:04](https://news.ycombinator.com/item?id=37565682) - [Georgism](https://en.wikipedia.org/wiki/Georgism)
 * [2023-09-19, 04:24:40](https://news.ycombinator.com/item?id=37565588) - [Seeking Help to Preserve Rare WWII Database on Windows 98](https://twitter.com/mtruslowstorey/status/1703781076689121556?s=46&t=E3U2EI7EXIhlBQmxg6oZ2g)
 * [2023-09-19, 04:20:12](https://news.ycombinator.com/item?id=37565559) - [I rewired my brain in six weeks](https://www.bbc.com/future/article/20230912-how-i-hacked-my-brain)
@@ -12,6 +11,7 @@
 * [2023-09-18, 20:38:45](https://news.ycombinator.com/item?id=37561696) - [FTC warns pharma companies about sham patent listings designed to delay generics](https://www.techdirt.com/2023/09/18/ftc-warns-pharma-companies-that-it-may-go-after-them-for-sham-patent-listings-designed-to-delay-generic-competitors/)
 * [2023-09-18, 20:06:28](https://news.ycombinator.com/item?id=37561283) - [Early performance results from the prototype CHERI ARM Morello microarchitecture](https://ctsrd-cheri.github.io/morello-early-performance-results/)
 * [2023-09-18, 19:57:06](https://news.ycombinator.com/item?id=37561155) - [Mwmbl: Free, open-source and non-profit search engine](https://mwmbl.org/)
+* [2023-09-18, 19:24:32](https://news.ycombinator.com/item?id=37560787) - [Apple TV, now with more Tailscale](https://tailscale.com/blog/apple-tv/)
 * [2023-09-18, 18:57:53](https://news.ycombinator.com/item?id=37560428) - [Making IIIF Official at the Internet Archive](https://blog.archive.org/2023/09/18/making-iiif-official-at-the-internet-archive/)
 * [2023-09-18, 17:17:25](https://news.ycombinator.com/item?id=37559005) - [The joys of maintenance programming (2011)](https://typicalprogrammer.com/the-joys-of-maintenance-programming)
 * [2023-09-18, 17:01:48](https://news.ycombinator.com/item?id=37558813) - [Self-supervised learning: The dark matter of intelligence (2021)](https://ai.meta.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
