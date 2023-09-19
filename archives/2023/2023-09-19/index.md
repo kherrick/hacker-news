@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 16:02:11](https://news.ycombinator.com/item?id=37571919) - [Quantum Resistance and the Signal Protocol](https://signal.org/blog/pqxdh/)
 * [2023-09-19, 15:40:38](https://news.ycombinator.com/item?id=37571535) - [Graph Neural Networks Use Graphs When They Shouldn't](https://arxiv.org/abs/2309.04332)
 * [2023-09-19, 15:04:49](https://news.ycombinator.com/item?id=37570947) - [Always Bump Downwards (2019)](https://fitzgeraldnick.com/2019/11/01/always-bump-downwards.html)
+* [2023-09-19, 15:03:24](https://news.ycombinator.com/item?id=37570929) - [Show HN: Graphite – Stacked Diffs on GitHub](https://news.ycombinator.com/item?id=37570929)
 * [2023-09-19, 14:53:01](https://news.ycombinator.com/item?id=37570785) - [Counting Ghosts: A case for abandoning web analytics](https://pcmaffey.com/counting-ghosts)
 * [2023-09-19, 14:50:23](https://news.ycombinator.com/item?id=37570743) - [The Physical Process That Powers a New Type of Generative AI](https://www.quantamagazine.org/new-physics-inspired-generative-ai-exceeds-expectations-20230919/)
 * [2023-09-19, 14:48:03](https://news.ycombinator.com/item?id=37570719) - [GraalVM for JDK 21 is here](https://medium.com/graalvm/graalvm-for-jdk-21-is-here-ee01177dd12d)
@@ -26,6 +28,7 @@
 * [2023-09-19, 12:14:18](https://news.ycombinator.com/item?id=37568856) - [64-Bit Bank Balances ‘Ought to Be Enough for Anybody’?](https://tigerbeetle.com/blog/2023-09-19-64-bit-bank-balances-ought-to-be-enough-for-anybody/)
 * [2023-09-19, 12:00:57](https://news.ycombinator.com/item?id=37568732) - [The Pirate Bay Celebrates Its 20th Anniversary](https://torrentfreak.com/the-pirate-bay-celebrates-its-20th-anniversary-230919/)
 * [2023-09-19, 11:42:41](https://news.ycombinator.com/item?id=37568564) - [Danish artist told to repay museum €67,000 after turning in blank canvasses](https://www.bbc.com/news/world-europe-66847139)
+* [2023-09-19, 11:41:47](https://news.ycombinator.com/item?id=37568554) - [SimulaVR $1.2M short of the project's total cost](https://simulavr.com/blog/headsets-delayed/)
 * [2023-09-19, 11:41:18](https://news.ycombinator.com/item?id=37568549) - [The path to detecting extraterrestrial life with astrophotonics](https://arxiv.org/abs/2309.08732)
 * [2023-09-19, 11:19:10](https://news.ycombinator.com/item?id=37568350) - [Lies My Calculator and Computer Told Me [pdf]](https://www.stewartcalculus.com/data/default/upfiles/LiesCalcAndCompTold.pdf)
 * [2023-09-19, 11:12:06](https://news.ycombinator.com/item?id=37568278) - [VCMI: Open-Source Engine for Heroes of Might and Magic III](https://vcmi.eu)
