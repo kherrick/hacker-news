@@ -13,6 +13,7 @@
 * [2023-09-19, 20:02:55](https://news.ycombinator.com/item?id=37575694) - [Microsoft Exec on Acquiring Nintendo](https://twitter.com/TechEmails/status/1704205212595146810)
 * [2023-09-19, 19:44:52](https://news.ycombinator.com/item?id=37575377) - [Circles Do Not Exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
 * [2023-09-19, 19:44:11](https://news.ycombinator.com/item?id=37575365) - [Apache Pinot 1.0](https://pinot.apache.org/blog/2023/09/19/Annoucing-Apache-Pinot-1-0/)
+* [2023-09-19, 19:41:17](https://news.ycombinator.com/item?id=37575318) - [Migrating from Unity to Other Game Engines](https://www.applovin.com/blog/migrating-from-unity-to-other-game-engines/)
 * [2023-09-19, 19:38:13](https://news.ycombinator.com/item?id=37575256) - [Show HN: I'm building a tool to practice numbers in Arabic](https://arabic-numbers.koljapluemer.com/)
 * [2023-09-19, 19:36:22](https://news.ycombinator.com/item?id=37575227) - [Simple Open-Source Java Virtual Machine in C](https://github.com/phillbush/jvm)
 * [2023-09-19, 19:34:09](https://news.ycombinator.com/item?id=37575204) - [Fixing for Loops in Go 1.22](https://go.dev/blog/loopvar-preview)
