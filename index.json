@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-09-19, 19:44:11",
+      "https://news.ycombinator.com/item?id=37575365"
+    ],
+    [
+      "Apache Pinot 1.0",
+      "https://pinot.apache.org/blog/2023/09/19/Annoucing-Apache-Pinot-1-0/"
+    ]
+  ],
+  [
+    [
       "2023-09-19, 19:38:13",
       "https://news.ycombinator.com/item?id=37575256"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
+      "2023-09-19, 19:36:22",
+      "https://news.ycombinator.com/item?id=37575227"
+    ],
+    [
+      "Simple Open-Source Java Virtual Machine in C",
+      "https://github.com/phillbush/jvm"
+    ]
+  ],
+  [
+    [
       "2023-09-19, 19:34:09",
       "https://news.ycombinator.com/item?id=37575204"
     ],
     [
       "Fixing for Loops in Go 1.22",
       "https://go.dev/blog/loopvar-preview"
-    ]
-  ],
-  [
-    [
-      "2023-09-19, 19:26:18",
-      "https://news.ycombinator.com/item?id=37575085"
-    ],
-    [
-      "Google ad exec: “it is a worse user experience to not have ads on the page”",
-      "https://twitter.com/BigTechOnTrial/status/1704149922554016116"
     ]
   ],
   [
@@ -71,22 +81,22 @@
   ],
   [
     [
-      "2023-09-19, 18:21:07",
-      "https://news.ycombinator.com/item?id=37573999"
-    ],
-    [
-      "MariaDB to be acquired by Runa Cap?",
-      "https://investors.mariadb.com/news/news-details/2023/Announcement-Regarding-Possible-Offer/default.aspx"
-    ]
-  ],
-  [
-    [
       "2023-09-19, 18:16:59",
       "https://news.ycombinator.com/item?id=37573948"
     ],
     [
       "Agentscript: Agent Based Modeling in the Browser",
       "https://agentscript.org/"
+    ]
+  ],
+  [
+    [
+      "2023-09-19, 18:02:52",
+      "https://news.ycombinator.com/item?id=37573742"
+    ],
+    [
+      "Show HN: Dialoqbase – open-source chatbot creation platform (LangChain wrapper)",
+      "https://news.ycombinator.com/item?id=37573742"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Graph Neural Networks Use Graphs When They Shouldn't",
       "https://arxiv.org/abs/2309.04332"
-    ]
-  ],
-  [
-    [
-      "2023-09-19, 15:28:06",
-      "https://news.ycombinator.com/item?id=37571328"
-    ],
-    [
-      "Yash Shorthand System",
-      "https://opsahl.github.io/yash/"
     ]
   ],
   [
