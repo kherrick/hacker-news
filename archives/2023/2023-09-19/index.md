@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 18:35:14](https://news.ycombinator.com/item?id=37574192) - [World’s most powerful X-ray laser will ‘film’ chemical reactions](https://www.nature.com/articles/d41586-023-02874-1)
 * [2023-09-19, 18:21:07](https://news.ycombinator.com/item?id=37573999) - [MariaDB to be acquired by Runa Cap?](https://investors.mariadb.com/news/news-details/2023/Announcement-Regarding-Possible-Offer/default.aspx)
 * [2023-09-19, 18:16:59](https://news.ycombinator.com/item?id=37573948) - [Agentscript: Agent Based Modeling in the Browser](https://agentscript.org/)
 * [2023-09-19, 18:07:00](https://news.ycombinator.com/item?id=37573808) - [We Can't Compete with AI Girlfriends](https://www.freyaindia.co.uk/p/we-cant-compete-with-ai-girlfriends)
+* [2023-09-19, 17:58:04](https://news.ycombinator.com/item?id=37573679) - [NFS > FUSE: Why We Built Our Own NFS Server in Rust](https://about.xethub.com/blog/nfs-fuse-why-we-built-nfs-server-rust)
 * [2023-09-19, 17:34:06](https://news.ycombinator.com/item?id=37573332) - [iFixit – We Are Retroactively Dropping the iPhone’s Repairability Score](https://www.ifixit.com/News/82493/we-are-retroactively-dropping-the-iphones-repairability-score-en)
 * [2023-09-19, 17:06:52](https://news.ycombinator.com/item?id=37572960) - [One in 10 Japanese Now Aged over 80, Population Report Shows](https://www.bloomberg.com/news/articles/2023-09-18/one-in-10-japanese-aged-over-80-population-report-shows-on-respect-for-aged-day)
 * [2023-09-19, 17:00:53](https://news.ycombinator.com/item?id=37572868) - [Ivy (YC W23) Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)

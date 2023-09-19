@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-19, 18:35:14](https://news.ycombinator.com/item?id=37574192) - [World’s most powerful X-ray laser will ‘film’ chemical reactions](https://www.nature.com/articles/d41586-023-02874-1)
 * [2023-09-19, 18:21:07](https://news.ycombinator.com/item?id=37573999) - [MariaDB to be acquired by Runa Cap?](https://investors.mariadb.com/news/news-details/2023/Announcement-Regarding-Possible-Offer/default.aspx)
 * [2023-09-19, 18:16:59](https://news.ycombinator.com/item?id=37573948) - [Agentscript: Agent Based Modeling in the Browser](https://agentscript.org/)
+* [2023-09-19, 17:58:04](https://news.ycombinator.com/item?id=37573679) - [NFS > FUSE: Why We Built Our Own NFS Server in Rust](https://about.xethub.com/blog/nfs-fuse-why-we-built-nfs-server-rust)
 * [2023-09-19, 17:34:06](https://news.ycombinator.com/item?id=37573332) - [iFixit – We Are Retroactively Dropping the iPhone’s Repairability Score](https://www.ifixit.com/News/82493/we-are-retroactively-dropping-the-iphones-repairability-score-en)
 * [2023-09-19, 17:00:53](https://news.ycombinator.com/item?id=37572868) - [Ivy (YC W23) Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
 * [2023-09-19, 16:53:19](https://news.ycombinator.com/item?id=37572743) - [Show HN: Dittofeed – 1-Click deploy, self-host Mailchimp alternative](https://github.com/dittofeed/dittofeed)
@@ -23,11 +25,9 @@
 * [2023-09-19, 13:24:02](https://news.ycombinator.com/item?id=37569622) - [Historical maps probably helped cause World War I](https://resobscura.substack.com/p/historical-maps-probably-helped-cause)
 * [2023-09-19, 12:54:09](https://news.ycombinator.com/item?id=37569258) - [Improving your online privacy: An update](https://blog.ovalerio.net/archives/2615)
 * [2023-09-19, 12:14:18](https://news.ycombinator.com/item?id=37568856) - [64-bit bank balances ‘ought to be enough for anybody’?](https://tigerbeetle.com/blog/2023-09-19-64-bit-bank-balances-ought-to-be-enough-for-anybody/)
-* [2023-09-19, 11:19:10](https://news.ycombinator.com/item?id=37568350) - [Lies my calculator and computer told me [pdf]](https://www.stewartcalculus.com/data/default/upfiles/LiesCalcAndCompTold.pdf)
 * [2023-09-19, 11:12:06](https://news.ycombinator.com/item?id=37568278) - [VCMI: Open-Source Engine for Heroes of Might and Magic III](https://vcmi.eu)
 * [2023-09-19, 10:39:51](https://news.ycombinator.com/item?id=37567972) - [Lichess: Block Ads and Trackers](https://lichess.org/ads)
 * [2023-09-19, 08:26:55](https://news.ycombinator.com/item?id=37567009) - [Fx – Terminal JSON Viewer](https://fx.wtf/)
-* [2023-09-19, 08:24:19](https://news.ycombinator.com/item?id=37566992) - [I digitalized Berlin's registration form](https://nicolasbouliane.com/projects/anmeldung-form-filler)
 * [2023-09-19, 06:52:08](https://news.ycombinator.com/item?id=37566458) - [A Line at a Time: The Atari 2600, Now with S-Video](https://nicole.express/2023/have-you-read-atari-today.html)
 * [2023-09-18, 21:47:55](https://news.ycombinator.com/item?id=37562541) - [AIST Steel Wheel](https://apps.aist.org/steelwheel/index.html)
 
