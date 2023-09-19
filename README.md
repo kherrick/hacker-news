@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-19, 07:48:59](https://news.ycombinator.com/item?id=37566776) - [GCC Preparing to Introduce “-Fhardened” Security Hardening Option](https://www.phoronix.com/news/GCC-fhardened-Hardening-Option)
 * [2023-09-19, 06:47:26](https://news.ycombinator.com/item?id=37566424) - [Forty years of GNU and the free software movement](https://www.fsf.org/news/forty-years-of-gnu-and-the-free-software-movement)
 * [2023-09-19, 06:31:59](https://news.ycombinator.com/item?id=37566316) - [OSS Game Engines are increasing their stars on GitHub due to Unity's missteps](https://twitter.com/OSSInsight/status/1703087927763542305)
-* [2023-09-19, 04:44:04](https://news.ycombinator.com/item?id=37565682) - [Georgism](https://en.wikipedia.org/wiki/Georgism)
 * [2023-09-19, 04:24:40](https://news.ycombinator.com/item?id=37565588) - [Seeking help to preserve WWII database on Windows 98](https://twitter.com/mtruslowstorey/status/1703781076689121556?s=46&t=E3U2EI7EXIhlBQmxg6oZ2g)
 * [2023-09-19, 02:57:23](https://news.ycombinator.com/item?id=37565140) - [Tackling the curse of dimensionality with physics-informed neural networks](https://arxiv.org/abs/2307.12306)
 * [2023-09-19, 01:50:46](https://news.ycombinator.com/item?id=37564768) - [Ask HN: 6 months later. How is Bard doing?](https://news.ycombinator.com/item?id=37564768)
