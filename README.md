@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-19, 22:09:37](https://news.ycombinator.com/item?id=37577609) - [Humans Have Exceeded Six of the Nine Boundaries Keeping Earth Habitable](https://www.smithsonianmag.com/smart-news/humans-have-exceeded-six-of-the-nine-boundaries-keeping-earth-habitable-180982909/)
 * [2023-09-19, 21:13:54](https://news.ycombinator.com/item?id=37576781) - [UniFree: Migrate Unity projects to other engines](https://gamefromscratch.com/applovin-launch-project-unifree/)
 * [2023-09-19, 21:05:20](https://news.ycombinator.com/item?id=37576633) - [Can’t send email more than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
 * [2023-09-19, 21:02:11](https://news.ycombinator.com/item?id=37576580) - [Emerge (YC W21) is hiring a lead front end engineer (remote, small team)](https://www.workatastartup.com/jobs/61922/)
@@ -10,7 +11,6 @@
 * [2023-09-19, 19:38:13](https://news.ycombinator.com/item?id=37575256) - [Show HN: I'm building a tool to practice numbers in Arabic](https://arabic-numbers.koljapluemer.com/)
 * [2023-09-19, 19:36:22](https://news.ycombinator.com/item?id=37575227) - [Simple Open-Source Java Virtual Machine in C](https://github.com/phillbush/jvm)
 * [2023-09-19, 19:34:09](https://news.ycombinator.com/item?id=37575204) - [Fixing for loops in Go 1.22](https://go.dev/blog/loopvar-preview)
-* [2023-09-19, 18:57:43](https://news.ycombinator.com/item?id=37574610) - [Notes on existential risk from artificial superintelligence](https://michaelnotebook.com/xrisk/index.html)
 * [2023-09-19, 18:54:43](https://news.ycombinator.com/item?id=37574552) - [RabbitMQ vs. Kafka – An Architect’s Dilemma (Part 1)](https://eranstiller.com/rabbitmq-vs-kafka-an-architects-dilemma-part-1)
 * [2023-09-19, 18:35:14](https://news.ycombinator.com/item?id=37574192) - [X-ray laser will ‘film’ chemical reactions in unprecedented detail](https://www.nature.com/articles/d41586-023-02874-1)
 * [2023-09-19, 18:21:07](https://news.ycombinator.com/item?id=37573999) - [Announcement regarding possible offer](https://investors.mariadb.com/news/news-details/2023/Announcement-Regarding-Possible-Offer/default.aspx)
