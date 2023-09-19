@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-19, 23:08:04](https://news.ycombinator.com/item?id=37578326) - [AI emits less CO2 when writing and illustrating than humans](https://arxiv.org/abs/2303.06219)
 * [2023-09-19, 22:28:19](https://news.ycombinator.com/item?id=37577861) - [Webring Technology](https://brisray.com/web/webring-tech.htm)
 * [2023-09-19, 22:07:33](https://news.ycombinator.com/item?id=37577589) - [Show HN: Spirals – Generate beautiful AI spiral art with one click](https://spirals.vercel.app/)
 * [2023-09-19, 21:05:20](https://news.ycombinator.com/item?id=37576633) - [Can’t send email more than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
@@ -29,6 +28,7 @@
 * [2023-09-19, 11:41:47](https://news.ycombinator.com/item?id=37568554) - [Headsets Delayed into 2024](https://simulavr.com/blog/headsets-delayed/)
 * [2023-09-19, 11:19:10](https://news.ycombinator.com/item?id=37568350) - [Lies my calculator and computer told me (1987) [pdf]](https://www.stewartcalculus.com/data/default/upfiles/LiesCalcAndCompTold.pdf)
 * [2023-09-19, 11:12:06](https://news.ycombinator.com/item?id=37568278) - [VCMI: Open-Source Engine for Heroes of Might and Magic III](https://vcmi.eu)
+* [2023-09-18, 21:47:55](https://news.ycombinator.com/item?id=37562541) - [AIST Steel Wheel](https://apps.aist.org/steelwheel/index.html)
 * [2023-09-17, 18:16:04](https://news.ycombinator.com/item?id=37547851) - [Chonky Menu Re-Creation](https://www.nathanmanousos.com/posts/chonky-menu)
 
 ## [Archives](archives/index.md)
