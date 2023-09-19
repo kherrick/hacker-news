@@ -6,6 +6,7 @@
 
 * [2023-09-19, 17:06:52](https://news.ycombinator.com/item?id=37572960) - [One in 10 Japanese Now Aged over 80, Population Report Shows](https://www.bloomberg.com/news/articles/2023-09-18/one-in-10-japanese-aged-over-80-population-report-shows-on-respect-for-aged-day)
 * [2023-09-19, 17:00:53](https://news.ycombinator.com/item?id=37572868) - [Ivy (YC W23) Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
+* [2023-09-19, 16:50:30](https://news.ycombinator.com/item?id=37572692) - [Google quietly raised ad prices to boost search revenue](https://www.theverge.com/2023/9/19/23880275/google-search-ads-competition-auction-prices-doj-trial-antitrust)
 * [2023-09-19, 16:39:21](https://news.ycombinator.com/item?id=37572518) - [MGM losing up to $8.4M a day due to cyberattack, analyist says](https://www.reviewjournal.com/business/casinos-gaming/analyst-mgm-losing-4-2m-8-4m-a-day-because-of-cyberattack-2906379/)
 * [2023-09-19, 16:31:31](https://news.ycombinator.com/item?id=37572394) - [How many medical studies are faked or flawed?](https://web.archive.org/web/20230718112821/https://www.nature.com/articles/d41586-023-02299-w)
 * [2023-09-19, 16:03:18](https://news.ycombinator.com/item?id=37571935) - [Why does water change the speed of electricity? [video]](https://www.youtube.com/watch?v=rQIg5XeIgQ0)
@@ -18,6 +19,7 @@
 * [2023-09-19, 14:53:01](https://news.ycombinator.com/item?id=37570785) - [Counting Ghosts: A case for abandoning web analytics](https://pcmaffey.com/counting-ghosts)
 * [2023-09-19, 14:50:23](https://news.ycombinator.com/item?id=37570743) - [The Physical Process That Powers a New Type of Generative AI](https://www.quantamagazine.org/new-physics-inspired-generative-ai-exceeds-expectations-20230919/)
 * [2023-09-19, 14:48:03](https://news.ycombinator.com/item?id=37570719) - [GraalVM for JDK 21 is here](https://medium.com/graalvm/graalvm-for-jdk-21-is-here-ee01177dd12d)
+* [2023-09-19, 14:40:03](https://news.ycombinator.com/item?id=37570633) - [Is the End of Aids in Sight?](https://www.economist.com/middle-east-and-africa/2023/09/17/is-the-end-of-aids-in-sight)
 * [2023-09-19, 14:24:27](https://news.ycombinator.com/item?id=37570407) - [Snowden leak: Cavium networking hardware may contain NSA backdoor](https://twitter.com/matthew_d_green/status/1703959863796158678)
 * [2023-09-19, 14:20:42](https://news.ycombinator.com/item?id=37570349) - [BMW's Ultimate Driving Machine, for Driving Through Gunfire and Grenades](https://www.core77.com/posts/125788/BMWs-Ultimate-Driving-Machine-for-Driving-Through-Gunfire-and-Grenades)
 * [2023-09-19, 14:19:26](https://news.ycombinator.com/item?id=37570331) - [Musk Wanted to Spy on Drivers to Defend Tesla from Lawsuits](https://cleanenergyrevolution.co/2023/09/18/musk-wanted-to-spy-on-drivers-to-defend-tesla-from-lawsuits/)
