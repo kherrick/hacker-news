@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 09:11:20](https://news.ycombinator.com/item?id=37567302) - [Safety Gate: the EU rapid alert system for dangerous non-food products](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10009444)
+* [2023-09-19, 09:10:51](https://news.ycombinator.com/item?id=37567298) - [Ask HN: What low code platforms are worth using?](https://news.ycombinator.com/item?id=37567298)
 * [2023-09-19, 08:24:19](https://news.ycombinator.com/item?id=37566992) - [I digitalized Berlin's registration form](https://nicolasbouliane.com/projects/anmeldung-form-filler)
 * [2023-09-19, 08:10:20](https://news.ycombinator.com/item?id=37566891) - [Opera's browser is now available with chess baked in](https://blogs.opera.com/news/2023/09/opera-launches-custom-chess-browser/)
 * [2023-09-19, 07:59:20](https://news.ycombinator.com/item?id=37566829) - [Windows Subsystem for Linux gets new 'mirrored' network mode](https://www.bleepingcomputer.com/news/microsoft/windows-subsystem-for-linux-gets-new-mirrored-network-mode/)

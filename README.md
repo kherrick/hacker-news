@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-19, 09:11:20](https://news.ycombinator.com/item?id=37567302) - [Safety Gate: the EU rapid alert system for dangerous non-food products](https://ec.europa.eu/safety-gate-alerts/screen/webReport/alertDetail/10009444)
+* [2023-09-19, 09:10:51](https://news.ycombinator.com/item?id=37567298) - [Ask HN: What low code platforms are worth using?](https://news.ycombinator.com/item?id=37567298)
 * [2023-09-19, 08:24:19](https://news.ycombinator.com/item?id=37566992) - [I digitalized Berlin's registration form](https://nicolasbouliane.com/projects/anmeldung-form-filler)
 * [2023-09-19, 08:10:20](https://news.ycombinator.com/item?id=37566891) - [Opera's browser is now available with chess baked in](https://blogs.opera.com/news/2023/09/opera-launches-custom-chess-browser/)
 * [2023-09-19, 07:59:20](https://news.ycombinator.com/item?id=37566829) - [Windows Subsystem for Linux gets new 'mirrored' network mode](https://www.bleepingcomputer.com/news/microsoft/windows-subsystem-for-linux-gets-new-mirrored-network-mode/)
@@ -23,12 +25,10 @@
 * [2023-09-18, 09:54:19](https://news.ycombinator.com/item?id=37554176) - [How hard is it to adapt a memory allocator to CHERI?](https://tratt.net/laurie/blog/2023/how_hard_is_it_to_adapt_a_memory_allocator_to_cheri.html)
 * [2023-09-18, 07:09:08](https://news.ycombinator.com/item?id=37553205) - [Fidonet Rules (2014)](https://wiki.c2.com/?FidonetRules)
 * [2023-09-18, 07:07:47](https://news.ycombinator.com/item?id=37553193) - [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
-* [2023-09-18, 06:01:40](https://news.ycombinator.com/item?id=37552740) - [F-35 can’t be found after pilot ejected](https://www.thedrive.com/the-war-zone/f-35-cant-be-found-after-pilot-ejected)
 * [2023-09-18, 04:13:57](https://news.ycombinator.com/item?id=37552161) - [Van Gogh’s Self-Portraits](https://www.vangoghmuseum.nl/en/art-and-stories/stories/all-stories/5-things-you-need-to-know-about-van-goghs-self-portraits)
 * [2023-09-18, 04:00:56](https://news.ycombinator.com/item?id=37552085) - [How FoundationDB works and why it works (2021)](https://blog.the-pans.com/notes-on-the-foundationdb-paper/)
 * [2023-09-18, 03:07:24](https://news.ycombinator.com/item?id=37551761) - [The daguerreotype is famous – why not the calotype?](https://daily.jstor.org/the-daguerreotypes-famous-why-not-the-calotype/)
 * [2023-09-18, 03:06:39](https://news.ycombinator.com/item?id=37551758) - [Playing cards that taught 17th-century cooks to carve meat (2019)](https://www.atlasobscura.com/articles/carving-meat-playing-cards)
-* [2023-09-18, 02:33:45](https://news.ycombinator.com/item?id=37551566) - [Mysteries of the Court of Miracles](https://reynolds-news.com/2023/09/14/court-of-miracles-underworld-stephen-basdeo/)
 * [2023-09-17, 11:05:04](https://news.ycombinator.com/item?id=37543717) - [Pentominoku for Layla](https://logic-masters.de/Raetselportal/Raetsel/zeigen.php?id=000F6A)
 
 ## [Archives](archives/index.md)
