@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 16:31:31](https://news.ycombinator.com/item?id=37572394) - [How many medical studies are faked or flawed?](https://web.archive.org/web/20230718112821/https://www.nature.com/articles/d41586-023-02299-w)
 * [2023-09-19, 16:02:11](https://news.ycombinator.com/item?id=37571919) - [Quantum Resistance and the Signal Protocol](https://signal.org/blog/pqxdh/)
 * [2023-09-19, 15:40:38](https://news.ycombinator.com/item?id=37571535) - [Graph Neural Networks Use Graphs When They Shouldn't](https://arxiv.org/abs/2309.04332)
 * [2023-09-19, 15:04:49](https://news.ycombinator.com/item?id=37570947) - [Always Bump Downwards (2019)](https://fitzgeraldnick.com/2019/11/01/always-bump-downwards.html)

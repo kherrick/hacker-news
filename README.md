@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-19, 16:31:31](https://news.ycombinator.com/item?id=37572394) - [How many medical studies are faked or flawed?](https://web.archive.org/web/20230718112821/https://www.nature.com/articles/d41586-023-02299-w)
 * [2023-09-19, 16:02:11](https://news.ycombinator.com/item?id=37571919) - [Quantum Resistance and the Signal Protocol](https://signal.org/blog/pqxdh/)
 * [2023-09-19, 15:40:38](https://news.ycombinator.com/item?id=37571535) - [Graph Neural Networks Use Graphs When They Shouldn't](https://arxiv.org/abs/2309.04332)
 * [2023-09-19, 15:04:49](https://news.ycombinator.com/item?id=37570947) - [Always Bump Downwards (2019)](https://fitzgeraldnick.com/2019/11/01/always-bump-downwards.html)
@@ -27,7 +28,6 @@
 * [2023-09-19, 08:16:42](https://news.ycombinator.com/item?id=37566929) - [U.K. rejoins Horizon Europe research funding scheme](https://www.science.org/content/article/uk-finally-rejoins-horizon-europe-research-funding-scheme)
 * [2023-09-19, 06:52:08](https://news.ycombinator.com/item?id=37566458) - [A Line at a Time: The Atari 2600, Now with S-Video](https://nicole.express/2023/have-you-read-atari-today.html)
 * [2023-09-19, 04:59:41](https://news.ycombinator.com/item?id=37565761) - [A basic guide to using Asian names](https://www.asiamediacentre.org.nz/features/a-guide-to-using-asian-names/)
-* [2023-09-19, 01:38:48](https://news.ycombinator.com/item?id=37564686) - [Tell HN: ChatGPT cut off date now Jan 2022](https://news.ycombinator.com/item?id=37564686)
 * [2023-09-18, 21:47:55](https://news.ycombinator.com/item?id=37562541) - [AIST Steel Wheel](https://apps.aist.org/steelwheel/index.html)
 * [2023-09-18, 15:21:52](https://news.ycombinator.com/item?id=37557438) - [The Astrologer of the Nineteenth Century (1825)](https://publicdomainreview.org/collection/the-astrologer-of-the-nineteenth-century-1825)
 
