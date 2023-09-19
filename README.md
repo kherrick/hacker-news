@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-19, 02:24:13](https://news.ycombinator.com/item?id=37564952) - [Your WiFi Can See You](https://mrereports.substack.com/p/your-wifi-can-see-you)
 * [2023-09-19, 02:06:32](https://news.ycombinator.com/item?id=37564851) - [George Orwell Complete Works](http://www.george-orwell.org/)
 * [2023-09-19, 01:50:46](https://news.ycombinator.com/item?id=37564768) - [Ask HN: 6 months later. How is Bard doing?](https://news.ycombinator.com/item?id=37564768)
-* [2023-09-19, 01:09:59](https://news.ycombinator.com/item?id=37564503) - [Marine Corps orders safety stand-down of all aircraft after F-35 disappearance](https://www.nbcnews.com/news/us-news/marine-leader-orders-safety-stand-aircraft-f-35-disappearance-rcna105602)
 * [2023-09-19, 00:30:02](https://news.ycombinator.com/item?id=37564217) - [Mythbusters: Wing Commander I Edition](https://www.wcnews.com/news/update/16279)
 * [2023-09-18, 21:20:18](https://news.ycombinator.com/item?id=37562225) - [Some new snippets from the Snowden documents](https://www.electrospaces.net/2023/09/some-new-snippets-from-snowden-documents.html)
 * [2023-09-18, 20:38:45](https://news.ycombinator.com/item?id=37561696) - [FTC warns pharma companies about sham patent listings designed to delay generics](https://www.techdirt.com/2023/09/18/ftc-warns-pharma-companies-that-it-may-go-after-them-for-sham-patent-listings-designed-to-delay-generic-competitors/)
