@@ -20,6 +20,7 @@
 * [2023-09-19, 15:40:38](https://news.ycombinator.com/item?id=37571535) - [Graph Neural Networks use graphs when they shouldn't](https://arxiv.org/abs/2309.04332)
 * [2023-09-19, 15:28:06](https://news.ycombinator.com/item?id=37571328) - [Yash: Yet another short hand](https://opsahl.github.io/yash/)
 * [2023-09-19, 15:04:49](https://news.ycombinator.com/item?id=37570947) - [Always Bump Downwards (2019)](https://fitzgeraldnick.com/2019/11/01/always-bump-downwards.html)
+* [2023-09-19, 14:50:23](https://news.ycombinator.com/item?id=37570743) - [The physical process that powers a new type of generative AI](https://www.quantamagazine.org/new-physics-inspired-generative-ai-exceeds-expectations-20230919/)
 * [2023-09-19, 14:48:03](https://news.ycombinator.com/item?id=37570719) - [GraalVM for JDK 21](https://medium.com/graalvm/graalvm-for-jdk-21-is-here-ee01177dd12d)
 * [2023-09-19, 14:24:27](https://news.ycombinator.com/item?id=37570407) - [Snowden leak: Cavium networking hardware may contain NSA backdoor](https://twitter.com/matthew_d_green/status/1703959863796158678)
 * [2023-09-19, 13:24:02](https://news.ycombinator.com/item?id=37569622) - [Historical maps probably helped cause World War I](https://resobscura.substack.com/p/historical-maps-probably-helped-cause)
@@ -28,7 +29,6 @@
 * [2023-09-19, 11:41:47](https://news.ycombinator.com/item?id=37568554) - [Headsets Delayed into 2024](https://simulavr.com/blog/headsets-delayed/)
 * [2023-09-19, 11:19:10](https://news.ycombinator.com/item?id=37568350) - [Lies my calculator and computer told me (1987) [pdf]](https://www.stewartcalculus.com/data/default/upfiles/LiesCalcAndCompTold.pdf)
 * [2023-09-19, 11:12:06](https://news.ycombinator.com/item?id=37568278) - [VCMI: Open-Source Engine for Heroes of Might and Magic III](https://vcmi.eu)
-* [2023-09-18, 21:47:55](https://news.ycombinator.com/item?id=37562541) - [AIST Steel Wheel](https://apps.aist.org/steelwheel/index.html)
 * [2023-09-17, 18:16:04](https://news.ycombinator.com/item?id=37547851) - [Chonky Menu Re-Creation](https://www.nathanmanousos.com/posts/chonky-menu)
 
 ## [Archives](archives/index.md)
