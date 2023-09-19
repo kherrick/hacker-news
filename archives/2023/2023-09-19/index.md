@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 18:16:59](https://news.ycombinator.com/item?id=37573948) - [Agentscript: Agent Based Modeling in the Browser](https://agentscript.org/)
+* [2023-09-19, 18:07:00](https://news.ycombinator.com/item?id=37573808) - [We Can't Compete with AI Girlfriends](https://www.freyaindia.co.uk/p/we-cant-compete-with-ai-girlfriends)
 * [2023-09-19, 17:34:06](https://news.ycombinator.com/item?id=37573332) - [iFixit – We Are Retroactively Dropping the iPhone’s Repairability Score](https://www.ifixit.com/News/82493/we-are-retroactively-dropping-the-iphones-repairability-score-en)
 * [2023-09-19, 17:06:52](https://news.ycombinator.com/item?id=37572960) - [One in 10 Japanese Now Aged over 80, Population Report Shows](https://www.bloomberg.com/news/articles/2023-09-18/one-in-10-japanese-aged-over-80-population-report-shows-on-respect-for-aged-day)
 * [2023-09-19, 17:00:53](https://news.ycombinator.com/item?id=37572868) - [Ivy (YC W23) Is Hiring Engineers to Unify ML](https://www.ycombinator.com/companies/ivy/jobs)
@@ -28,6 +30,7 @@
 * [2023-09-19, 14:19:26](https://news.ycombinator.com/item?id=37570331) - [Musk Wanted to Spy on Drivers to Defend Tesla from Lawsuits](https://cleanenergyrevolution.co/2023/09/18/musk-wanted-to-spy-on-drivers-to-defend-tesla-from-lawsuits/)
 * [2023-09-19, 14:15:08](https://news.ycombinator.com/item?id=37570249) - [Microsoft leaks 38TB of private data via unsecured Azure storage](https://www.bleepingcomputer.com/news/microsoft/microsoft-leaks-38tb-of-private-data-via-unsecured-azure-storage/)
 * [2023-09-19, 14:00:06](https://news.ycombinator.com/item?id=37570037) - [JDK 21 Release Notes](https://jdk.java.net/21/release-notes)
+* [2023-09-19, 13:59:08](https://news.ycombinator.com/item?id=37570022) - [Facebook is blocking Canadians’ posts about the assassination of a Sikh leader](https://pressprogress.ca/facebook-is-blocking-canadians-posts-about-the-assassination-of-a-bc-sikh-leader-their-posts-were-targeted-by-indias-government/)
 * [2023-09-19, 13:50:01](https://news.ycombinator.com/item?id=37569911) - [Nvidia's 900 tons of GPU muscle bulks up server market, slims down wallets](https://www.theregister.com/2023/09/19/900_tons_nvidia_servers/)
 * [2023-09-19, 13:27:10](https://news.ycombinator.com/item?id=37569665) - [OpenJDK JDK 21 General-Availability Release](https://jdk.java.net/21/)
 * [2023-09-19, 13:24:02](https://news.ycombinator.com/item?id=37569622) - [Historical maps probably helped cause World War I](https://resobscura.substack.com/p/historical-maps-probably-helped-cause)
