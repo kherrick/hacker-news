@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 13:50:01](https://news.ycombinator.com/item?id=37569911) - [Nvidia's 900 tons of GPU muscle bulks up server market, slims down wallets](https://www.theregister.com/2023/09/19/900_tons_nvidia_servers/)
 * [2023-09-19, 13:24:02](https://news.ycombinator.com/item?id=37569622) - [Historical maps probably helped cause World War I](https://resobscura.substack.com/p/historical-maps-probably-helped-cause)
 * [2023-09-19, 13:18:44](https://news.ycombinator.com/item?id=37569554) - [Larry Lessig's theory: our society is governed by four forces](https://cs.stanford.edu/people/eroberts/cs181/projects/2010-11/CodeAndRegulation/about.html)
 * [2023-09-19, 13:18:19](https://news.ycombinator.com/item?id=37569550) - [I call it the Homeless Industrial Complex](https://truthonthestreets.substack.com/p/this-is-why-i-call-it-the-homeless)
