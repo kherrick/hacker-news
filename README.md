@@ -5,6 +5,7 @@
 * [2023-09-19, 08:59:49](https://news.ycombinator.com/item?id=37567214) - [1k Met Police officers suspended or on restricted duties](https://www.bbc.co.uk/news/uk-england-london-66842521)
 * [2023-09-19, 08:44:13](https://news.ycombinator.com/item?id=37567115) - [Gitlab Critical Security Release: 16.3.4 and 16.2.7](https://about.gitlab.com/releases/2023/09/18/security-release-gitlab-16-3-4-released/)
 * [2023-09-19, 08:37:46](https://news.ycombinator.com/item?id=37567070) - [Microsoft Nintendo acquisition hopes revealed by leaked Xbox exec email](https://www.rockpapershotgun.com/microsoft-nintendo-acquisition-hopes-revealed-by-leaked-xbox-exec-email)
+* [2023-09-19, 08:36:33](https://news.ycombinator.com/item?id=37567066) - [YouTube suspends Russell Brand from making money off the streaming site](https://apnews.com/article/russell-brand-youtube-sex-assault-ecf7aeecb3b66a02a4f3eb74282dc1c8)
 * [2023-09-19, 08:24:19](https://news.ycombinator.com/item?id=37566992) - [I digitalized Berlin's registration form](https://nicolasbouliane.com/projects/anmeldung-form-filler)
 * [2023-09-19, 08:16:42](https://news.ycombinator.com/item?id=37566929) - [U.K. finally rejoins Horizon Europe research funding scheme](https://www.science.org/content/article/uk-finally-rejoins-horizon-europe-research-funding-scheme)
 * [2023-09-19, 08:10:20](https://news.ycombinator.com/item?id=37566891) - [Opera's browser is now available with chess baked in](https://blogs.opera.com/news/2023/09/opera-launches-custom-chess-browser/)
@@ -27,7 +28,6 @@
 * [2023-09-18, 12:12:30](https://news.ycombinator.com/item?id=37555118) - [The brain is not an onion with a tiny reptile inside (2020)](https://journals.sagepub.com/doi/10.1177/0963721420917687)
 * [2023-09-18, 07:09:08](https://news.ycombinator.com/item?id=37553205) - [Fidonet Rules (2014)](https://wiki.c2.com/?FidonetRules)
 * [2023-09-18, 07:07:47](https://news.ycombinator.com/item?id=37553193) - [OpenRA – Classic strategy games rebuilt for the modern era](https://www.openra.net/)
-* [2023-09-18, 04:13:57](https://news.ycombinator.com/item?id=37552161) - [Van Gogh’s Self-Portraits](https://www.vangoghmuseum.nl/en/art-and-stories/stories/all-stories/5-things-you-need-to-know-about-van-goghs-self-portraits)
 * [2023-09-18, 04:00:56](https://news.ycombinator.com/item?id=37552085) - [How FoundationDB works and why it works (2021)](https://blog.the-pans.com/notes-on-the-foundationdb-paper/)
 * [2023-09-18, 03:06:39](https://news.ycombinator.com/item?id=37551758) - [Playing cards that taught 17th-century cooks to carve meat (2019)](https://www.atlasobscura.com/articles/carving-meat-playing-cards)
 
