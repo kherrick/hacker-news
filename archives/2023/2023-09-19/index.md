@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
 * [2023-09-19, 08:24:19](https://news.ycombinator.com/item?id=37566992) - [I digitalized Berlin's registration form](https://nicolasbouliane.com/projects/anmeldung-form-filler)
+* [2023-09-19, 08:10:20](https://news.ycombinator.com/item?id=37566891) - [Opera's browser is now available with chess baked in](https://blogs.opera.com/news/2023/09/opera-launches-custom-chess-browser/)
 * [2023-09-19, 07:59:20](https://news.ycombinator.com/item?id=37566829) - [Windows Subsystem for Linux gets new 'mirrored' network mode](https://www.bleepingcomputer.com/news/microsoft/windows-subsystem-for-linux-gets-new-mirrored-network-mode/)
 * [2023-09-19, 07:48:59](https://news.ycombinator.com/item?id=37566776) - [GCC Preparing to Introduce “-Fhardened” Security Hardening Option](https://www.phoronix.com/news/GCC-fhardened-Hardening-Option)
 * [2023-09-19, 06:47:26](https://news.ycombinator.com/item?id=37566424) - [Forty years of GNU and the free software movement](https://www.fsf.org/news/forty-years-of-gnu-and-the-free-software-movement)
 * [2023-09-19, 06:31:59](https://news.ycombinator.com/item?id=37566316) - [OSS Game Engines are increasing their stars on GitHub due to Unity's missteps](https://twitter.com/OSSInsight/status/1703087927763542305)
 * [2023-09-19, 05:18:31](https://news.ycombinator.com/item?id=37565852) - [iOS 17](https://www.apple.com/ios/ios-17/)
+* [2023-09-19, 04:59:41](https://news.ycombinator.com/item?id=37565761) - [A basic guide to using Asian names](https://www.asiamediacentre.org.nz/features/a-guide-to-using-asian-names/)
 * [2023-09-19, 04:44:04](https://news.ycombinator.com/item?id=37565682) - [Georgism](https://en.wikipedia.org/wiki/Georgism)
 * [2023-09-19, 04:24:40](https://news.ycombinator.com/item?id=37565588) - [Seeking Help to Preserve Rare WWII Database on Windows 98](https://twitter.com/mtruslowstorey/status/1703781076689121556?s=46&t=E3U2EI7EXIhlBQmxg6oZ2g)
 * [2023-09-19, 04:20:12](https://news.ycombinator.com/item?id=37565559) - [I rewired my brain in six weeks](https://www.bbc.com/future/article/20230912-how-i-hacked-my-brain)
