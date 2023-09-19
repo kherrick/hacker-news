@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-19, 21:02:11",
+      "https://news.ycombinator.com/item?id=37576580"
+    ],
+    [
+      "Emerge (YC W21) is hiring a lead front end engineer (remote, small team)",
+      "https://www.workatastartup.com/jobs/61922/"
+    ]
+  ],
+  [
+    [
+      "2023-09-19, 20:02:55",
+      "https://news.ycombinator.com/item?id=37575694"
+    ],
+    [
+      "Microsoft Exec on Acquiring Nintendo",
+      "https://twitter.com/TechEmails/status/1704205212595146810"
+    ]
+  ],
+  [
+    [
       "2023-09-19, 19:44:52",
       "https://news.ycombinator.com/item?id=37575377"
     ],
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=37574610"
     ],
     [
-      "Notes on Existential Risk from Artificial Superintelligence",
+      "Notes on existential risk from artificial superintelligence",
       "https://michaelnotebook.com/xrisk/index.html"
     ]
   ],
@@ -101,42 +121,32 @@
   ],
   [
     [
+      "2023-09-19, 18:33:05",
+      "https://news.ycombinator.com/item?id=37574150"
+    ],
+    [
+      "Show HN: My first interactive article – breakdown of a complex menu UI",
+      "https://www.nathanmanousos.com/posts/chonky-menu"
+    ]
+  ],
+  [
+    [
+      "2023-09-19, 18:21:07",
+      "https://news.ycombinator.com/item?id=37573999"
+    ],
+    [
+      "Announcement regarding possible offer",
+      "https://investors.mariadb.com/news/news-details/2023/Announcement-Regarding-Possible-Offer/default.aspx"
+    ]
+  ],
+  [
+    [
       "2023-09-19, 18:16:59",
       "https://news.ycombinator.com/item?id=37573948"
     ],
     [
       "Agentscript: Agent Based Modeling in the Browser",
       "https://agentscript.org/"
-    ]
-  ],
-  [
-    [
-      "2023-09-19, 17:58:04",
-      "https://news.ycombinator.com/item?id=37573679"
-    ],
-    [
-      "NFS > FUSE: Why We Built Our Own NFS Server in Rust",
-      "https://about.xethub.com/blog/nfs-fuse-why-we-built-nfs-server-rust"
-    ]
-  ],
-  [
-    [
-      "2023-09-19, 17:34:06",
-      "https://news.ycombinator.com/item?id=37573332"
-    ],
-    [
-      "We are retroactively dropping the iPhone’s repairability score",
-      "https://www.ifixit.com/News/82493/we-are-retroactively-dropping-the-iphones-repairability-score-en"
-    ]
-  ],
-  [
-    [
-      "2023-09-19, 17:00:53",
-      "https://news.ycombinator.com/item?id=37572868"
-    ],
-    [
-      "Ivy (YC W23) Is Hiring Engineers to Unify ML",
-      "https://www.ycombinator.com/companies/ivy/jobs"
     ]
   ],
   [
@@ -185,8 +195,18 @@
       "https://news.ycombinator.com/item?id=37571535"
     ],
     [
-      "Graph Neural Networks Use Graphs When They Shouldn't",
+      "Graph Neural Networks use graphs when they shouldn't",
       "https://arxiv.org/abs/2309.04332"
+    ]
+  ],
+  [
+    [
+      "2023-09-19, 15:28:06",
+      "https://news.ycombinator.com/item?id=37571328"
+    ],
+    [
+      "Yash: Yet another short hand",
+      "https://opsahl.github.io/yash/"
     ]
   ],
   [
@@ -197,16 +217,6 @@
     [
       "Always Bump Downwards (2019)",
       "https://fitzgeraldnick.com/2019/11/01/always-bump-downwards.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-19, 14:56:43",
-      "https://news.ycombinator.com/item?id=37570829"
-    ],
-    [
-      "Plug and socket types around the world",
-      "https://www.worldstandards.eu/electricity/plugs-and-sockets/"
     ]
   ],
   [
@@ -225,7 +235,7 @@
       "https://news.ycombinator.com/item?id=37570743"
     ],
     [
-      "The Physical Process That Powers a New Type of Generative AI",
+      "The physical process that powers a new type of generative AI",
       "https://www.quantamagazine.org/new-physics-inspired-generative-ai-exceeds-expectations-20230919/"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "Historical maps probably helped cause World War I",
       "https://resobscura.substack.com/p/historical-maps-probably-helped-cause"
-    ]
-  ],
-  [
-    [
-      "2023-09-19, 12:54:09",
-      "https://news.ycombinator.com/item?id=37569258"
-    ],
-    [
-      "Improving your online privacy: An update",
-      "https://blog.ovalerio.net/archives/2615"
     ]
   ],
   [
