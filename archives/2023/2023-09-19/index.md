@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 15:40:38](https://news.ycombinator.com/item?id=37571535) - [Graph Neural Networks Use Graphs When They Shouldn't](https://arxiv.org/abs/2309.04332)
 * [2023-09-19, 15:04:49](https://news.ycombinator.com/item?id=37570947) - [Always Bump Downwards (2019)](https://fitzgeraldnick.com/2019/11/01/always-bump-downwards.html)
 * [2023-09-19, 14:53:01](https://news.ycombinator.com/item?id=37570785) - [Counting Ghosts: A case for abandoning web analytics](https://pcmaffey.com/counting-ghosts)
 * [2023-09-19, 14:48:03](https://news.ycombinator.com/item?id=37570719) - [GraalVM for JDK 21 is here](https://medium.com/graalvm/graalvm-for-jdk-21-is-here-ee01177dd12d)

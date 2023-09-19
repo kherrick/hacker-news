@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-19, 15:40:38](https://news.ycombinator.com/item?id=37571535) - [Graph Neural Networks Use Graphs When They Shouldn't](https://arxiv.org/abs/2309.04332)
 * [2023-09-19, 15:04:49](https://news.ycombinator.com/item?id=37570947) - [Always Bump Downwards (2019)](https://fitzgeraldnick.com/2019/11/01/always-bump-downwards.html)
 * [2023-09-19, 14:53:01](https://news.ycombinator.com/item?id=37570785) - [Counting Ghosts: A case for abandoning web analytics](https://pcmaffey.com/counting-ghosts)
 * [2023-09-19, 14:48:03](https://news.ycombinator.com/item?id=37570719) - [GraalVM for JDK 21 is here](https://medium.com/graalvm/graalvm-for-jdk-21-is-here-ee01177dd12d)
@@ -19,7 +20,6 @@
 * [2023-09-19, 11:12:06](https://news.ycombinator.com/item?id=37568278) - [VCMI: Open-Source Engine for Heroes of Might and Magic III](https://vcmi.eu)
 * [2023-09-19, 10:39:51](https://news.ycombinator.com/item?id=37567972) - [Lichess: Block Ads and Trackers](https://lichess.org/ads)
 * [2023-09-19, 10:10:06](https://news.ycombinator.com/item?id=37567700) - [Bard can now connect to your Google Apps and services](https://blog.google/products/bard/google-bard-new-features-update-sept-2023/)
-* [2023-09-19, 08:44:13](https://news.ycombinator.com/item?id=37567115) - [Gitlab Critical Security Release: 16.3.4 and 16.2.7](https://about.gitlab.com/releases/2023/09/18/security-release-gitlab-16-3-4-released/)
 * [2023-09-19, 08:26:55](https://news.ycombinator.com/item?id=37567009) - [Fx – Terminal JSON Viewer](https://fx.wtf/)
 * [2023-09-19, 08:25:47](https://news.ycombinator.com/item?id=37567002) - [Show HN: Whiz – A copilot for your terminal](https://github.com/searchableguy/whiz)
 * [2023-09-19, 08:24:19](https://news.ycombinator.com/item?id=37566992) - [I digitalized Berlin's registration form](https://nicolasbouliane.com/projects/anmeldung-form-filler)
