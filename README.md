@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-19, 16:39:21](https://news.ycombinator.com/item?id=37572518) - [MGM losing up to $8.4M a day due to cyberattack, analyist says](https://www.reviewjournal.com/business/casinos-gaming/analyst-mgm-losing-4-2m-8-4m-a-day-because-of-cyberattack-2906379/)
 * [2023-09-19, 16:31:31](https://news.ycombinator.com/item?id=37572394) - [How many medical studies are faked or flawed?](https://web.archive.org/web/20230718112821/https://www.nature.com/articles/d41586-023-02299-w)
 * [2023-09-19, 16:02:11](https://news.ycombinator.com/item?id=37571919) - [Quantum Resistance and the Signal Protocol](https://signal.org/blog/pqxdh/)
 * [2023-09-19, 15:40:38](https://news.ycombinator.com/item?id=37571535) - [Graph Neural Networks Use Graphs When They Shouldn't](https://arxiv.org/abs/2309.04332)
@@ -9,7 +10,6 @@
 * [2023-09-19, 14:50:23](https://news.ycombinator.com/item?id=37570743) - [The Physical Process That Powers a New Type of Generative AI](https://www.quantamagazine.org/new-physics-inspired-generative-ai-exceeds-expectations-20230919/)
 * [2023-09-19, 14:48:03](https://news.ycombinator.com/item?id=37570719) - [GraalVM for JDK 21](https://medium.com/graalvm/graalvm-for-jdk-21-is-here-ee01177dd12d)
 * [2023-09-19, 14:24:27](https://news.ycombinator.com/item?id=37570407) - [Snowden leak: Cavium networking hardware may contain NSA backdoor](https://twitter.com/matthew_d_green/status/1703959863796158678)
-* [2023-09-19, 14:19:26](https://news.ycombinator.com/item?id=37570331) - [Musk Wanted to Spy on Drivers to Defend Tesla from Lawsuits](https://cleanenergyrevolution.co/2023/09/18/musk-wanted-to-spy-on-drivers-to-defend-tesla-from-lawsuits/)
 * [2023-09-19, 14:00:06](https://news.ycombinator.com/item?id=37570037) - [JDK 21 Release Notes](https://jdk.java.net/21/release-notes)
 * [2023-09-19, 13:50:01](https://news.ycombinator.com/item?id=37569911) - [Nvidia's 900 tons of GPU muscle bulks up server market, slims down wallets](https://www.theregister.com/2023/09/19/900_tons_nvidia_servers/)
 * [2023-09-19, 13:24:02](https://news.ycombinator.com/item?id=37569622) - [Historical maps probably helped cause World War I](https://resobscura.substack.com/p/historical-maps-probably-helped-cause)
