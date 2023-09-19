@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 19:44:52](https://news.ycombinator.com/item?id=37575377) - [Circles Do Not Exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
+* [2023-09-19, 19:38:13](https://news.ycombinator.com/item?id=37575256) - [Show HN: I'm building a tool to practice numbers in Arabic](https://arabic-numbers.koljapluemer.com/)
+* [2023-09-19, 19:34:09](https://news.ycombinator.com/item?id=37575204) - [Fixing for Loops in Go 1.22](https://go.dev/blog/loopvar-preview)
 * [2023-09-19, 19:26:18](https://news.ycombinator.com/item?id=37575085) - [Google ad exec: “it is a worse user experience to not have ads on the page”](https://twitter.com/BigTechOnTrial/status/1704149922554016116)
+* [2023-09-19, 18:59:50](https://news.ycombinator.com/item?id=37574644) - [Faster Sorting Beyond DeepMind’s AlphaDev](https://www.mimicry.ai/faster-sorting-beyond-deepminds-alphadev)
+* [2023-09-19, 18:54:43](https://news.ycombinator.com/item?id=37574552) - [RabbitMQ vs. Kafka – An Architect’s Dilemma (Part 1)](https://eranstiller.com/rabbitmq-vs-kafka-an-architects-dilemma-part-1)
 * [2023-09-19, 18:35:14](https://news.ycombinator.com/item?id=37574192) - [World’s most powerful X-ray laser will ‘film’ chemical reactions](https://www.nature.com/articles/d41586-023-02874-1)
 * [2023-09-19, 18:21:07](https://news.ycombinator.com/item?id=37573999) - [MariaDB to be acquired by Runa Cap?](https://investors.mariadb.com/news/news-details/2023/Announcement-Regarding-Possible-Offer/default.aspx)
 * [2023-09-19, 18:16:59](https://news.ycombinator.com/item?id=37573948) - [Agentscript: Agent Based Modeling in the Browser](https://agentscript.org/)
