@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 18:21:07](https://news.ycombinator.com/item?id=37573999) - [MariaDB to be acquired by Runa Cap?](https://investors.mariadb.com/news/news-details/2023/Announcement-Regarding-Possible-Offer/default.aspx)
 * [2023-09-19, 18:16:59](https://news.ycombinator.com/item?id=37573948) - [Agentscript: Agent Based Modeling in the Browser](https://agentscript.org/)
 * [2023-09-19, 18:07:00](https://news.ycombinator.com/item?id=37573808) - [We Can't Compete with AI Girlfriends](https://www.freyaindia.co.uk/p/we-cant-compete-with-ai-girlfriends)
 * [2023-09-19, 17:34:06](https://news.ycombinator.com/item?id=37573332) - [iFixit – We Are Retroactively Dropping the iPhone’s Repairability Score](https://www.ifixit.com/News/82493/we-are-retroactively-dropping-the-iphones-repairability-score-en)
