@@ -19,7 +19,6 @@
 * [2023-09-19, 21:05:20](https://news.ycombinator.com/item?id=37576633) - [Can’t send email more than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
 * [2023-09-19, 19:31:39](https://news.ycombinator.com/item?id=37575167) - [Pink diamonds erupted to Earth’s surface after early supercontinent’s breakup](https://www.scientificamerican.com/article/pink-diamonds-erupted-to-earths-surface-after-early-supercontinents-breakup/)
 * [2023-09-19, 15:51:02](https://news.ycombinator.com/item?id=37571732) - [Show HN: Symphony – Use GPT-4 to call functions in sequence](https://www.symphony.run/)
-* [2023-09-19, 14:25:36](https://news.ycombinator.com/item?id=37570422) - [Getting into Pinball](https://tynan.com/pinball/)
 * [2023-09-19, 14:24:27](https://news.ycombinator.com/item?id=37570407) - [Snowden leak: Cavium networking hardware may contain NSA backdoor](https://twitter.com/matthew_d_green/status/1703959863796158678)
 * [2023-09-19, 12:13:17](https://news.ycombinator.com/item?id=37568847) - [A closer look at BookCorpus, a key dataset in machine learning](https://towardsdatascience.com/dirty-secrets-of-bookcorpus-a-key-dataset-in-machine-learning-6ee2927e8650)
 * [2023-09-19, 09:44:26](https://news.ycombinator.com/item?id=37567504) - [Permazen: a different persistence layer for Java](https://github.com/permazen/permazen)
@@ -30,6 +29,7 @@
 * [2023-09-18, 15:50:39](https://news.ycombinator.com/item?id=37557880) - [Leveraging Rust in our Java database](https://questdb.io/blog/leveraging-rust-in-our-high-performance-java-database/)
 * [2023-09-17, 23:41:29](https://news.ycombinator.com/item?id=37550493) - [Boundaries of Predictability](https://azeemba.com/posts/boundaries-of-predictability.html)
 * [2023-09-17, 18:42:09](https://news.ycombinator.com/item?id=37548095) - [Show HN: A reference implementation of Turing's paper “On Computable Numbers”](https://github.com/planetlambert/turing)
+* [2023-09-17, 16:26:48](https://news.ycombinator.com/item?id=37546766) - [A literary history of fake texts in Apple's marketing materials](https://maxread.substack.com/p/a-literary-history-of-fake-texts)
 
 ## [Archives](archives/index.md)
 
