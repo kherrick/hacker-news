@@ -20,6 +20,7 @@
 * [2023-09-19, 20:44:46](https://news.ycombinator.com/item?id=37576259) - [The Princeton researchers calling out ‘AI snake oil’](https://www.semafor.com/article/09/15/2023/the-princeton-researchers-calling-out-ai-snake-oil)
 * [2023-09-19, 20:24:08](https://news.ycombinator.com/item?id=37575997) - [Special-Use Domain Names](https://www.iana.org/assignments/special-use-domain-names/special-use-domain-names.xml)
 * [2023-09-19, 20:02:55](https://news.ycombinator.com/item?id=37575694) - [Microsoft Exec on Acquiring Nintendo](https://twitter.com/TechEmails/status/1704205212595146810)
+* [2023-09-19, 19:49:26](https://news.ycombinator.com/item?id=37575467) - [Programming Is Hard](https://myme.no/posts/2023-09-19-programming-is-hard.html)
 * [2023-09-19, 19:47:49](https://news.ycombinator.com/item?id=37575438) - [ReinetteII+.py, an Apple II plus emulator in Python](https://github.com/ArthurFerreira2/reinette-II-plus-dot-py)
 * [2023-09-19, 19:44:52](https://news.ycombinator.com/item?id=37575377) - [Circles Do Not Exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
 * [2023-09-19, 19:44:11](https://news.ycombinator.com/item?id=37575365) - [Apache Pinot 1.0](https://pinot.apache.org/blog/2023/09/19/Annoucing-Apache-Pinot-1-0/)

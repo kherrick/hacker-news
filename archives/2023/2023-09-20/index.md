@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
+* [2023-09-20, 04:00:27](https://news.ycombinator.com/item?id=37580224) - [Q-Transformer: Scalable Reinforcement Learning via Autoregressive Q-Functions](https://q-transformer.github.io/)
 * [2023-09-20, 03:38:49](https://news.ycombinator.com/item?id=37580123) - [Add extra stuff to a “standard” encoding? Sure, why not](https://rachelbythebay.com/w/2023/09/19/badlib/)
 * [2023-09-20, 03:35:13](https://news.ycombinator.com/item?id=37580113) - [100 Parking Tickets (2004)](https://100parkingtickets.com/)
 * [2023-09-20, 02:57:08](https://news.ycombinator.com/item?id=37579926) - [Ruby 3.3's YJIT Runs Shopify's Production Code 15% Faster](https://railsatscale.com/2023-09-18-ruby-3-3-s-yjit-runs-shopify-s-production-code-15-faster/)
