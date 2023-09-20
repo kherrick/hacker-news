@@ -17,7 +17,7 @@
 * [2023-09-20, 08:39:02](https://news.ycombinator.com/item?id=37581889) - [Algorithm-assisted discovery of an intrinsic order among mathematical constants](https://fermatslibrary.com/s/algorithm-assisted-discovery-of-an-intrinsic-order-among-mathematical-constants)
 * [2023-09-20, 07:38:01](https://news.ycombinator.com/item?id=37581485) - [We have successfully completed our migration to RAM-only VPN infrastructure](https://mullvad.net/en/blog/2023/9/20/we-have-successfully-completed-our-migration-to-ram-only-vpn-infrastructure/)
 * [2023-09-20, 07:15:10](https://news.ycombinator.com/item?id=37581316) - [‘Less than half’ fresh produce sold globally makes any profit](https://www.fruitnet.com/main-navigation/less-than-half-fresh-produce-sold-globally-makes-any-profit/256025.article)
-* [2023-09-20, 06:44:42](https://news.ycombinator.com/item?id=37581132) - [OpenTofu](https://github.com/opentofu)
+* [2023-09-20, 06:44:42](https://news.ycombinator.com/item?id=37581132) - [OpenTF is now OpenTofu](https://github.com/opentofu/opentofu/issues/296#issuecomment-1727171446)
 * [2023-09-20, 05:14:47](https://news.ycombinator.com/item?id=37580593) - [Aldous Huxley's Deep Reflection](https://thereader.mitpress.mit.edu/aldous-huxleys-deep-reflection/)
 * [2023-09-20, 03:42:23](https://news.ycombinator.com/item?id=37580141) - [FAA authorizes Zipline to deliver commercial packages using drones](https://www.faa.gov/newsroom/faa-authorizes-zipline-deliver-commercial-packages-beyond-line-sight)
 * [2023-09-20, 03:38:49](https://news.ycombinator.com/item?id=37580123) - [Add extra stuff to a “standard” encoding? Sure, why not](https://rachelbythebay.com/w/2023/09/19/badlib/)
