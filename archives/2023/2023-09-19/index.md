@@ -13,6 +13,7 @@
 * [2023-09-19, 22:07:33](https://news.ycombinator.com/item?id=37577589) - [Show HN: Spirals – Generate beautiful AI spiral art with one click](https://spirals.vercel.app/)
 * [2023-09-19, 21:52:12](https://news.ycombinator.com/item?id=37577354) - [The Genius Bar in a country where iPhones can’t legally be sold](https://restofworld.org/2023/underground-apple-techs-cuba/)
 * [2023-09-19, 21:15:56](https://news.ycombinator.com/item?id=37576816) - [Smashing the state machine: the true potential of web race conditions](https://portswigger.net/research/smashing-the-state-machine)
+* [2023-09-19, 21:14:50](https://news.ycombinator.com/item?id=37576794) - [Secretions (1992)](https://lists.cpunks.org/pipermail/cypherpunks-legacy/1992-September/000375.html)
 * [2023-09-19, 21:14:30](https://news.ycombinator.com/item?id=37576790) - [It’s Not About the Technology – Game Engines Are Art Tools [video]](https://www.youtube.com/watch?v=89bLKVvF85M)
 * [2023-09-19, 21:13:54](https://news.ycombinator.com/item?id=37576781) - [UniFree: Migrate Unity projects to other engines](https://gamefromscratch.com/applovin-launch-project-unifree/)
 * [2023-09-19, 21:05:20](https://news.ycombinator.com/item?id=37576633) - [Can’t send email more than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
