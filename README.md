@@ -4,7 +4,7 @@
 * [2023-09-20, 16:38:12](https://news.ycombinator.com/item?id=37586372) - [Charlie Munger: Turning $2M Into $2T](https://fs.blog/turning-2-million-into-2-trillion/)
 * [2023-09-20, 16:26:30](https://news.ycombinator.com/item?id=37586209) - [JEP draft: Prepare to restrict the use of JNI](https://openjdk.org/jeps/8307341)
 * [2023-09-20, 16:13:28](https://news.ycombinator.com/item?id=37586019) - [Bard Can Now Connect to Your Google Apps](https://artificialcorner.substack.com/p/bard-can-now-connect-to-your-google)
-* [2023-09-20, 14:27:03](https://news.ycombinator.com/item?id=37584578) - [Cancer expert gets experimental treatment for incurable tumour,phenomenal result](https://www.abc.net.au/news/2023-09-20/melanoma-richard-scolyer-georgina-long-early-results/102879818)
+* [2023-09-20, 14:27:03](https://news.ycombinator.com/item?id=37584578) - [Cancer expert given experimental treatments for incurable brain tumour](https://www.abc.net.au/news/2023-09-20/melanoma-richard-scolyer-georgina-long-early-results/102879818)
 * [2023-09-20, 14:14:12](https://news.ycombinator.com/item?id=37584399) - [Car allergic to vanilla ice cream (2000)](http://www.cs.cmu.edu/~wkw/humour/carproblems.txt)
 * [2023-09-20, 13:59:32](https://news.ycombinator.com/item?id=37584224) - [Svelte 5: Runes](https://svelte.dev/blog/runes)
 * [2023-09-20, 13:57:27](https://news.ycombinator.com/item?id=37584184) - [Generic trait methods and new auto traits](https://without.boats/blog/generic-trait-methods-and-new-auto-traits/)
@@ -16,6 +16,7 @@
 * [2023-09-20, 12:13:09](https://news.ycombinator.com/item?id=37583219) - [Show HN: SeaGOAT – local, “AI-based” grep for semantic code search](https://github.com/kantord/SeaGOAT)
 * [2023-09-20, 12:03:42](https://news.ycombinator.com/item?id=37583136) - [Neurons in Large Language Models: Dead, N-Gram, Positional](https://arxiv.org/abs/2309.04827)
 * [2023-09-20, 12:00:53](https://news.ycombinator.com/item?id=37583116) - [Stellar Sleep (YC S23) Is Hiring a Senior/ Staff SWE in San Francisco](https://www.ycombinator.com/companies/stellar-sleep/jobs/Ubd4rCS-senior-staff-software-engineer)
+* [2023-09-20, 10:38:17](https://news.ycombinator.com/item?id=37582565) - [Google settles account settings lawsuit less than one week after being filed [pdf]](https://oag.ca.gov/system/files/attachments/press-docs/Filed%20stamped%20Google%20Complaint.pdf)
 * [2023-09-20, 08:39:02](https://news.ycombinator.com/item?id=37581889) - [Algorithm-assisted discovery of an intrinsic order among mathematical constants](https://fermatslibrary.com/s/algorithm-assisted-discovery-of-an-intrinsic-order-among-mathematical-constants)
 * [2023-09-20, 07:15:10](https://news.ycombinator.com/item?id=37581316) - [‘Less than half’ fresh produce sold globally makes any profit](https://www.fruitnet.com/main-navigation/less-than-half-fresh-produce-sold-globally-makes-any-profit/256025.article)
 * [2023-09-20, 03:42:23](https://news.ycombinator.com/item?id=37580141) - [FAA authorizes Zipline to deliver commercial packages using drones](https://www.faa.gov/newsroom/faa-authorizes-zipline-deliver-commercial-packages-beyond-line-sight)
@@ -29,7 +30,6 @@
 * [2023-09-18, 18:25:52](https://news.ycombinator.com/item?id=37559996) - [What will LLM-powered software look like in the medium-term future?](https://vishnumenon.com/lightrail/2023/09/17/AI-Interfaces.html)
 * [2023-09-18, 17:53:05](https://news.ycombinator.com/item?id=37559499) - [Exploring the Halo 1 System Link Protocol](https://hllmn.net/blog/2023-09-18_h1x-net/)
 * [2023-09-18, 15:50:39](https://news.ycombinator.com/item?id=37557880) - [Leveraging Rust in our Java database](https://questdb.io/blog/leveraging-rust-in-our-high-performance-java-database/)
-* [2023-09-17, 23:41:29](https://news.ycombinator.com/item?id=37550493) - [Boundaries of Predictability](https://azeemba.com/posts/boundaries-of-predictability.html)
 
 ## [Archives](archives/index.md)
 
