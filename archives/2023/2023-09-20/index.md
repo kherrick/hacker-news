@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
+* [2023-09-20, 14:27:03](https://news.ycombinator.com/item?id=37584578) - [Cancer expert gets experimental treatment for incurable tumour,phenomenal result](https://www.abc.net.au/news/2023-09-20/melanoma-richard-scolyer-georgina-long-early-results/102879818)
+* [2023-09-20, 14:14:12](https://news.ycombinator.com/item?id=37584399) - [Car allergic to vanilla ice cream](http://www.cs.cmu.edu/~wkw/humour/carproblems.txt)
 * [2023-09-20, 13:59:32](https://news.ycombinator.com/item?id=37584224) - [Svelte 5: Runes](https://svelte.dev/blog/runes)
 * [2023-09-20, 13:53:31](https://news.ycombinator.com/item?id=37584134) - [Show HN: uBlock Origin filters to remove distractions](https://github.com/mig4ng/ublock-origin-filters)
 * [2023-09-20, 13:46:55](https://news.ycombinator.com/item?id=37584049) - [Show HN: ElectricSQL, Postgres to SQLite active-active sync for local-first apps](https://electric-sql.com/)
@@ -12,6 +14,7 @@
 * [2023-09-20, 13:30:04](https://news.ycombinator.com/item?id=37583875) - [Fed-up consumers are going after food companies for misleading claims](https://www.npr.org/2023/09/20/1200417169/food-company-starbucks-misleading-claims-lawsuits)
 * [2023-09-20, 13:26:05](https://news.ycombinator.com/item?id=37583832) - [BlackRock Conquered the World – The Corbett Report](https://www.corbettreport.com/blackrock/)
 * [2023-09-20, 13:00:35](https://news.ycombinator.com/item?id=37583593) - [Show HN: 78% MNIST accuracy using GZIP in under 10 lines of code](https://jakobs.dev/solving-mnist-with-gzip/)
+* [2023-09-20, 12:14:43](https://news.ycombinator.com/item?id=37583234) - [Gokrazy Is Cool](https://xeiaso.net/blog/gokrazy)
 * [2023-09-20, 12:13:09](https://news.ycombinator.com/item?id=37583219) - [Show HN: SeaGOAT – local, “AI-based” grep for semantic code search](https://github.com/kantord/SeaGOAT)
 * [2023-09-20, 12:03:42](https://news.ycombinator.com/item?id=37583136) - [Neurons in Large Language Models: Dead, N-Gram, Positional](https://arxiv.org/abs/2309.04827)
 * [2023-09-20, 12:00:53](https://news.ycombinator.com/item?id=37583116) - [Stellar Sleep (YC S23) Is Hiring a Senior/ Staff SWE in San Francisco](https://www.ycombinator.com/companies/stellar-sleep/jobs/Ubd4rCS-senior-staff-software-engineer)
