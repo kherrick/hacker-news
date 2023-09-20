@@ -23,6 +23,7 @@
 * [2023-09-18, 18:57:53](https://news.ycombinator.com/item?id=37560428) - [Making IIIF Official at the Internet Archive](https://blog.archive.org/2023/09/18/making-iiif-official-at-the-internet-archive/)
 * [2023-09-18, 18:34:08](https://news.ycombinator.com/item?id=37560125) - [GPT 3.5 vs. Llama 2 fine-tuning: A Comprehensive Comparison](https://ragntune.com/blog/gpt3.5-vs-llama2-finetuning)
 * [2023-09-18, 18:34:05](https://news.ycombinator.com/item?id=37560121) - [Nushell and Uutils](https://www.nushell.sh/blog/2023-09-05-why-uu.html)
+* [2023-09-18, 18:25:52](https://news.ycombinator.com/item?id=37559996) - [What will LLM-powered software look like in the medium-term future?](https://vishnumenon.com/lightrail/2023/09/17/AI-Interfaces.html)
 * [2023-09-18, 18:18:07](https://news.ycombinator.com/item?id=37559879) - [Tell HN: AWS outage in us-west-2 AND us-east-1](https://news.ycombinator.com/item?id=37559879)
 * [2023-09-18, 18:16:50](https://news.ycombinator.com/item?id=37559862) - [Trunk-based development vs. long-lived feature branches](https://ardalis.com/trunk-based-development-vs-long-lived-feature-branches/)
 * [2023-09-18, 18:04:34](https://news.ycombinator.com/item?id=37559664) - [A Bus Driver Killed a Man, the City Blamed Tech](https://www.theindustry.pw/p/cruise-sf-fire-chief)
