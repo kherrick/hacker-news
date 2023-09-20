@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-20, 23:04:28](https://news.ycombinator.com/item?id=37591242) - [Baldurs Gate 3 comes out on Mac tomorrow. I will not play it](https://kianpak.com/i-will-not-play-baldurs-gate-3/)
 * [2023-09-20, 22:14:37](https://news.ycombinator.com/item?id=37590881) - [Meticulous: An FPGA-Based Main Memory Emulator for System Software Studies](https://arxiv.org/abs/2309.06565)
 * [2023-09-20, 21:35:40](https://news.ycombinator.com/item?id=37590544) - [Alameda lost tens of millions because of a fat fingering mistake](https://www.adityabaradwaj.com/part-2-the-fat-finger/)
 * [2023-09-20, 19:02:43](https://news.ycombinator.com/item?id=37588526) - [Harlequin: DuckDB IDE for the terminal](https://harlequin.sh/)
@@ -28,6 +27,7 @@
 * [2023-09-20, 00:26:36](https://news.ycombinator.com/item?id=37578948) - [The unknowable presents, secretly encoded](https://denniscooperblog.com/the-unknowable-presents-secretly-encoded/)
 * [2023-09-20, 00:24:10](https://news.ycombinator.com/item?id=37578935) - [Marin Mersenne on the Consolation of Sad Music](https://jhiblog.org/2023/09/06/marin-mersenne-on-the-consolation-of-sad-music/)
 * [2023-09-19, 20:30:16](https://news.ycombinator.com/item?id=37576079) - [How-To Evaluate a Product Roadmap, for Engineers](https://stephen.fm/how-to-evaluate-a-product-roadmap/)
+* [2023-09-19, 16:15:36](https://news.ycombinator.com/item?id=37572145) - [Application-specific terminals](https://www.cweagans.net/2023/09/application-specific-terminals/)
 * [2023-09-18, 21:52:28](https://news.ycombinator.com/item?id=37562593) - [Tracing: Structured logging, but better](https://andydote.co.uk/2023/09/19/tracing-is-better/)
 * [2023-09-18, 17:53:05](https://news.ycombinator.com/item?id=37559499) - [Exploring the Halo 1 System Link Protocol](https://hllmn.net/blog/2023-09-18_h1x-net/)
 
