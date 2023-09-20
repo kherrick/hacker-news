@@ -7,6 +7,7 @@
 * [2023-09-20, 14:27:03](https://news.ycombinator.com/item?id=37584578) - [Cancer expert gets experimental treatment for incurable tumour,phenomenal result](https://www.abc.net.au/news/2023-09-20/melanoma-richard-scolyer-georgina-long-early-results/102879818)
 * [2023-09-20, 14:14:12](https://news.ycombinator.com/item?id=37584399) - [Car allergic to vanilla ice cream](http://www.cs.cmu.edu/~wkw/humour/carproblems.txt)
 * [2023-09-20, 13:59:32](https://news.ycombinator.com/item?id=37584224) - [Svelte 5: Runes](https://svelte.dev/blog/runes)
+* [2023-09-20, 13:57:27](https://news.ycombinator.com/item?id=37584184) - [Generic trait methods and new auto traits](https://without.boats/blog/generic-trait-methods-and-new-auto-traits/)
 * [2023-09-20, 13:53:31](https://news.ycombinator.com/item?id=37584134) - [Show HN: uBlock Origin filters to remove distractions](https://github.com/mig4ng/ublock-origin-filters)
 * [2023-09-20, 13:46:55](https://news.ycombinator.com/item?id=37584049) - [Show HN: ElectricSQL, Postgres to SQLite active-active sync for local-first apps](https://electric-sql.com/)
 * [2023-09-20, 13:46:06](https://news.ycombinator.com/item?id=37584038) - [British journalist held by police at Luton airport for five hours without arrest](https://www.theguardian.com/media/2023/sep/20/british-journalist-held-by-police-at-luton-airport-for-five-hours-without-arrest)
