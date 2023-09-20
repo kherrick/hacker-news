@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
 * [2023-09-20, 17:29:20](https://news.ycombinator.com/item?id=37587043) - [Monitor bandwidth usage with bandwhich (and build a snap package of it)](https://popey.com/blog/2023/09/monitor-bandwidth-usage-with-bandwhich/)
+* [2023-09-20, 17:22:04](https://news.ycombinator.com/item?id=37586942) - [Boys and Men in the United States Are Struggling. The Left Should Talk About It](https://jacobin.com/2023/09/boys-men-work-despair-struggling-wages-education/)
 * [2023-09-20, 17:18:13](https://news.ycombinator.com/item?id=37586900) - [DALL·E 3](https://openai.com/dall-e-3)
 * [2023-09-20, 17:16:03](https://news.ycombinator.com/item?id=37586877) - [The AI Content Flippening](https://www.latent.space/p/wondercraft#details)
 * [2023-09-20, 16:48:01](https://news.ycombinator.com/item?id=37586518) - [Expand function invocations into current scope](https://github.com/goldsborough/clang-expand)
