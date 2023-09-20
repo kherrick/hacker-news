@@ -12,7 +12,6 @@
 * [2023-09-20, 03:38:49](https://news.ycombinator.com/item?id=37580123) - [Add extra stuff to a “standard” encoding? Sure, why not](https://rachelbythebay.com/w/2023/09/19/badlib/)
 * [2023-09-20, 03:35:13](https://news.ycombinator.com/item?id=37580113) - [100 Parking Tickets (2004)](https://100parkingtickets.com/)
 * [2023-09-20, 02:02:31](https://news.ycombinator.com/item?id=37579595) - [A simple web server written in Awk](https://github.com/crossbowerbt/awk-webserver)
-* [2023-09-20, 01:44:08](https://news.ycombinator.com/item?id=37579474) - [Writing HTML by hand](https://simblob.blogspot.com/2023/09/writing-html-by-hand.html)
 * [2023-09-19, 22:28:19](https://news.ycombinator.com/item?id=37577861) - [Webring Technology](https://brisray.com/web/webring-tech.htm)
 * [2023-09-19, 21:52:12](https://news.ycombinator.com/item?id=37577354) - [A small community of unofficial Apple technicians in Cuba](https://restofworld.org/2023/underground-apple-techs-cuba/)
 * [2023-09-19, 21:15:56](https://news.ycombinator.com/item?id=37576816) - [Smashing the state machine: the true potential of web race conditions](https://portswigger.net/research/smashing-the-state-machine)
@@ -28,6 +27,7 @@
 * [2023-09-18, 18:25:52](https://news.ycombinator.com/item?id=37559996) - [What will LLM-powered software look like in the medium-term future?](https://vishnumenon.com/lightrail/2023/09/17/AI-Interfaces.html)
 * [2023-09-18, 17:22:52](https://news.ycombinator.com/item?id=37559095) - [Show HN: Liz – Collaborative Lisp coding on Discord](https://github.com/d4ckard/liz)
 * [2023-09-18, 15:50:39](https://news.ycombinator.com/item?id=37557880) - [Leveraging Rust in our Java database](https://questdb.io/blog/leveraging-rust-in-our-high-performance-java-database/)
+* [2023-09-17, 23:41:29](https://news.ycombinator.com/item?id=37550493) - [Boundaries of Predictability](https://azeemba.com/posts/boundaries-of-predictability.html)
 * [2023-09-17, 18:42:09](https://news.ycombinator.com/item?id=37548095) - [Show HN: A reference implementation of Turing's paper “On Computable Numbers”](https://github.com/planetlambert/turing)
 * [2023-09-17, 16:26:48](https://news.ycombinator.com/item?id=37546766) - [A literary history of fake texts in Apple's marketing materials](https://maxread.substack.com/p/a-literary-history-of-fake-texts)
 

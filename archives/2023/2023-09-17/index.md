@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-17](index.md)
 
+* [2023-09-17, 23:41:29](https://news.ycombinator.com/item?id=37550493) - [Boundaries of Predictability](https://azeemba.com/posts/boundaries-of-predictability.html)
 * [2023-09-17, 23:22:08](https://news.ycombinator.com/item?id=37550353) - [Unity: We Have Heard You](https://twitter.com/unity/status/1703547752205218265?s=46&t=7KCNnmJt82xcCKEkZnoUTQ)
 * [2023-09-17, 22:00:59](https://news.ycombinator.com/item?id=37549745) - [AWS IPv4 Estate Now Worth $4.5B](https://toonk.io/index.html)
 * [2023-09-17, 22:00:59](https://news.ycombinator.com/item?id=37549745) - [AWS IPv4 Estate Now Worth $4.5B](https://toonk.io/aws-ipv4-estate-now-worth-4-5-billion/index.html)
