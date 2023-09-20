@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-09-19, 21:14:30",
-      "https://news.ycombinator.com/item?id=37576790"
-    ],
-    [
-      "It’s Not About the Technology – Game Engines Are Art Tools [video]",
-      "https://www.youtube.com/watch?v=89bLKVvF85M"
-    ]
-  ],
-  [
-    [
       "2023-09-19, 21:05:20",
       "https://news.ycombinator.com/item?id=37576633"
     ],
@@ -87,6 +77,16 @@
     [
       "ReinetteII+.py, an Apple II plus emulator in Python",
       "https://github.com/ArthurFerreira2/reinette-II-plus-dot-py"
+    ]
+  ],
+  [
+    [
+      "2023-09-19, 19:44:52",
+      "https://news.ycombinator.com/item?id=37575377"
+    ],
+    [
+      "Circles do not exist",
+      "https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=37567504"
     ],
     [
-      "Permazen: Language-natural persistence to KV stores",
+      "Permazen: a different persistence layer for Java",
       "https://github.com/permazen/permazen"
     ]
   ],
