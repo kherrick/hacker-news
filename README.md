@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-20, 05:14:47](https://news.ycombinator.com/item?id=37580593) - [Aldous Huxley's Deep Reflection](https://thereader.mitpress.mit.edu/aldous-huxleys-deep-reflection/)
 * [2023-09-20, 04:50:38](https://news.ycombinator.com/item?id=37580490) - [First automatic JPEG-XL cloud service](https://www.gumlet.com/blog/jpeg-xl/)
 * [2023-09-20, 04:00:27](https://news.ycombinator.com/item?id=37580224) - [Q-Transformer: Scalable Reinforcement Learning via Autoregressive Q-Functions](https://q-transformer.github.io/)
 * [2023-09-20, 03:42:23](https://news.ycombinator.com/item?id=37580141) - [FAA authorizes Zipline to deliver commercial packages using drones](https://www.faa.gov/newsroom/faa-authorizes-zipline-deliver-commercial-packages-beyond-line-sight)
@@ -15,7 +16,6 @@
 * [2023-09-19, 20:14:24](https://news.ycombinator.com/item?id=37575869) - [The Paradox of Control](https://every.to/no-small-plans/the-paradox-of-control)
 * [2023-09-19, 19:49:26](https://news.ycombinator.com/item?id=37575467) - [Programming is hard](https://myme.no/posts/2023-09-19-programming-is-hard.html)
 * [2023-09-19, 19:47:49](https://news.ycombinator.com/item?id=37575438) - [ReinetteII+.py, an Apple II plus emulator in Python](https://github.com/ArthurFerreira2/reinette-II-plus-dot-py)
-* [2023-09-19, 19:36:22](https://news.ycombinator.com/item?id=37575227) - [Simple Open-Source Java Virtual Machine in C](https://github.com/phillbush/jvm)
 * [2023-09-19, 19:34:09](https://news.ycombinator.com/item?id=37575204) - [Fixing for loops in Go 1.22](https://go.dev/blog/loopvar-preview)
 * [2023-09-19, 19:31:39](https://news.ycombinator.com/item?id=37575167) - [Pink diamonds erupted to Earth’s surface after early supercontinent’s breakup](https://www.scientificamerican.com/article/pink-diamonds-erupted-to-earths-surface-after-early-supercontinents-breakup/)
 * [2023-09-19, 18:54:43](https://news.ycombinator.com/item?id=37574552) - [RabbitMQ vs. Kafka – An Architect’s Dilemma (Part 1)](https://eranstiller.com/rabbitmq-vs-kafka-an-architects-dilemma-part-1)

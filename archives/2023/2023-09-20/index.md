@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
+* [2023-09-20, 05:14:47](https://news.ycombinator.com/item?id=37580593) - [Aldous Huxley's Deep Reflection](https://thereader.mitpress.mit.edu/aldous-huxleys-deep-reflection/)
 * [2023-09-20, 04:50:38](https://news.ycombinator.com/item?id=37580490) - [First automatic JPEG-XL cloud service](https://www.gumlet.com/blog/jpeg-xl/)
 * [2023-09-20, 04:00:27](https://news.ycombinator.com/item?id=37580224) - [Q-Transformer: Scalable Reinforcement Learning via Autoregressive Q-Functions](https://q-transformer.github.io/)
 * [2023-09-20, 03:42:23](https://news.ycombinator.com/item?id=37580141) - [FAA Authorizes Zipline to Deliver Commercial Packages Using Drones](https://www.faa.gov/newsroom/faa-authorizes-zipline-deliver-commercial-packages-beyond-line-sight)
