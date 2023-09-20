@@ -96,6 +96,7 @@
 * [2023-09-19, 11:19:10](https://news.ycombinator.com/item?id=37568350) - [Lies My Calculator and Computer Told Me [pdf]](https://www.stewartcalculus.com/data/default/upfiles/LiesCalcAndCompTold.pdf)
 * [2023-09-19, 11:12:06](https://news.ycombinator.com/item?id=37568278) - [VCMI: Open-Source Engine for Heroes of Might and Magic III](https://vcmi.eu)
 * [2023-09-19, 10:39:51](https://news.ycombinator.com/item?id=37567972) - [Lichess: Block Ads and Trackers](https://lichess.org/ads)
+* [2023-09-19, 10:28:33](https://news.ycombinator.com/item?id=37567869) - [Stability without stressing out](https://smallcultfollowing.com/babysteps/blog/2023/09/18/stability-without-stressing-the-out/)
 * [2023-09-19, 10:10:06](https://news.ycombinator.com/item?id=37567700) - [Bard can now connect to your Google Apps and services](https://blog.google/products/bard/google-bard-new-features-update-sept-2023/)
 * [2023-09-19, 09:44:26](https://news.ycombinator.com/item?id=37567504) - [Permazen: Language-natural persistence to KV stores](https://permazen.io/)
 * [2023-09-19, 09:44:26](https://news.ycombinator.com/item?id=37567504) - [Permazen: Language-natural persistence to KV stores](https://github.com/permazen/permazen)

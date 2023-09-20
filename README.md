@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-20, 07:15:10](https://news.ycombinator.com/item?id=37581316) - [‘Less than half’ fresh produce sold globally makes any profit](https://www.fruitnet.com/main-navigation/less-than-half-fresh-produce-sold-globally-makes-any-profit/256025.article)
 * [2023-09-20, 06:44:42](https://news.ycombinator.com/item?id=37581132) - [OpenTF renames itself to OpenTofu](https://github.com/opentofu)
 * [2023-09-20, 05:43:24](https://news.ycombinator.com/item?id=37580757) - [SillycoValley: Write Code, Build Your Startup](https://sillycovalley.com/?myscore)
 * [2023-09-20, 05:14:47](https://news.ycombinator.com/item?id=37580593) - [Aldous Huxley's Deep Reflection](https://thereader.mitpress.mit.edu/aldous-huxleys-deep-reflection/)
@@ -25,6 +24,7 @@
 * [2023-09-19, 14:24:27](https://news.ycombinator.com/item?id=37570407) - [Snowden leak: Cavium networking hardware may contain NSA backdoor](https://twitter.com/matthew_d_green/status/1703959863796158678)
 * [2023-09-19, 12:13:17](https://news.ycombinator.com/item?id=37568847) - [A closer look at BookCorpus, a key dataset in machine learning](https://towardsdatascience.com/dirty-secrets-of-bookcorpus-a-key-dataset-in-machine-learning-6ee2927e8650)
 * [2023-09-19, 12:02:32](https://news.ycombinator.com/item?id=37568746) - [Show HN: Cheq UPI – India's first UPI payments app for foreigners](https://www.chequpi.com/)
+* [2023-09-19, 10:28:33](https://news.ycombinator.com/item?id=37567869) - [Stability without stressing out](https://smallcultfollowing.com/babysteps/blog/2023/09/18/stability-without-stressing-the-out/)
 * [2023-09-19, 04:46:06](https://news.ycombinator.com/item?id=37565688) - [My trip to the Communication and Laptop Museum in Estonia](https://ounapuu.ee/posts/2023/09/19/trip-to-communication-laptop-museum/)
 * [2023-09-18, 18:25:52](https://news.ycombinator.com/item?id=37559996) - [What will LLM-powered software look like in the medium-term future?](https://vishnumenon.com/lightrail/2023/09/17/AI-Interfaces.html)
 * [2023-09-18, 17:22:52](https://news.ycombinator.com/item?id=37559095) - [Show HN: Liz – Collaborative Lisp coding on Discord](https://github.com/d4ckard/liz)
