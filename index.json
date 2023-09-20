@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-20, 04:00:27",
+      "https://news.ycombinator.com/item?id=37580224"
+    ],
+    [
+      "Q-Transformer: Scalable Reinforcement Learning via Autoregressive Q-Functions",
+      "https://q-transformer.github.io/"
+    ]
+  ],
+  [
+    [
       "2023-09-20, 03:38:49",
       "https://news.ycombinator.com/item?id=37580123"
     ],
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2023-09-19, 19:49:26",
+      "https://news.ycombinator.com/item?id=37575467"
+    ],
+    [
+      "Programming Is Hard",
+      "https://myme.no/posts/2023-09-19-programming-is-hard.html"
+    ]
+  ],
+  [
+    [
       "2023-09-19, 19:47:49",
       "https://news.ycombinator.com/item?id=37575438"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-09-19, 16:31:31",
-      "https://news.ycombinator.com/item?id=37572394"
-    ],
-    [
-      "How many medical studies are faked or flawed?",
-      "https://web.archive.org/web/20230718112821/https://www.nature.com/articles/d41586-023-02299-w"
-    ]
-  ],
-  [
-    [
       "2023-09-19, 16:02:11",
       "https://news.ycombinator.com/item?id=37571919"
     ],
@@ -197,16 +207,6 @@
     [
       "Graph Neural Networks use graphs when they shouldn't",
       "https://arxiv.org/abs/2309.04332"
-    ]
-  ],
-  [
-    [
-      "2023-09-19, 15:04:49",
-      "https://news.ycombinator.com/item?id=37570947"
-    ],
-    [
-      "Always Bump Downwards (2019)",
-      "https://fitzgeraldnick.com/2019/11/01/always-bump-downwards.html"
     ]
   ],
   [
