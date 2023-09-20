@@ -86,6 +86,7 @@
 * [2023-09-19, 12:54:09](https://news.ycombinator.com/item?id=37569258) - [Improving your online privacy: An update](https://blog.ovalerio.net/archives/2615)
 * [2023-09-19, 12:43:47](https://news.ycombinator.com/item?id=37569137) - [Evidence mounts on toxic pollution from tires](https://e360.yale.edu/features/tire-pollution-toxic-chemicals)
 * [2023-09-19, 12:25:00](https://news.ycombinator.com/item?id=37568950) - [YouTube Blocks Russell Brand from Making Money Through Its Platform](https://www.nytimes.com/2023/09/19/arts/russell-brand-youtube.html)
+* [2023-09-19, 12:21:39](https://news.ycombinator.com/item?id=37568925) - [How I limit social media](https://bille.dev/blog/how-i-limit-social-media)
 * [2023-09-19, 12:14:18](https://news.ycombinator.com/item?id=37568856) - [64-Bit Bank Balances ‘Ought to Be Enough for Anybody’?](https://tigerbeetle.com/blog/2023-09-19-64-bit-bank-balances-ought-to-be-enough-for-anybody/)
 * [2023-09-19, 12:13:17](https://news.ycombinator.com/item?id=37568847) - [A closer look at BookCorpus, a key dataset in machine learning](https://towardsdatascience.com/dirty-secrets-of-bookcorpus-a-key-dataset-in-machine-learning-6ee2927e8650)
 * [2023-09-19, 12:02:32](https://news.ycombinator.com/item?id=37568746) - [Show HN: Cheq UPI (YC S23) – India's first UPI payments app for foreigners](https://www.chequpi.com/)
