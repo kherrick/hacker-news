@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
+* [2023-09-20, 22:25:22](https://news.ycombinator.com/item?id=37590985) - [Show HN: I built a Stable Diffusion directory of 100 best AI workflows](https://www.stableworkflows.com/)
 * [2023-09-20, 21:40:25](https://news.ycombinator.com/item?id=37590601) - [Gnome 45 – The Gnome Foundation](https://foundation.gnome.org/2023/09/20/introducing-gnome-45/)
+* [2023-09-20, 21:35:40](https://news.ycombinator.com/item?id=37590544) - [Alameda lost tens of millions because of a fat fingering mistake](https://www.adityabaradwaj.com/part-2-the-fat-finger/)
 * [2023-09-20, 21:02:37](https://news.ycombinator.com/item?id=37590137) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-09-20, 20:52:04](https://news.ycombinator.com/item?id=37590016) - [Meat, milk alternatives could slash food system emissions a third: study](https://phys.org/news/2023-09-meat-alternatives-slash-food-emissions.html)
 * [2023-09-20, 19:59:08](https://news.ycombinator.com/item?id=37589308) - [A Future for iPhone App Stores](https://appfair.org/blog/a-future-for-app-stores.html)
