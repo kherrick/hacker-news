@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 23:29:16](https://news.ycombinator.com/item?id=37578496) - [Writing Is Objectively Superior to Speaking as a Communication Method (2020)](https://koshka.love/babel/writing-superior-to-speaking.html)
 * [2023-09-19, 23:08:04](https://news.ycombinator.com/item?id=37578326) - [AI emits less CO2 when writing and illustrating than humans](https://arxiv.org/abs/2303.06219)
 * [2023-09-19, 22:28:19](https://news.ycombinator.com/item?id=37577861) - [Webring Technology](https://brisray.com/web/webring-tech.htm)
 * [2023-09-19, 22:09:37](https://news.ycombinator.com/item?id=37577609) - [Humans Have Exceeded Six of the Nine Boundaries Keeping Earth Habitable](https://www.smithsonianmag.com/smart-news/humans-have-exceeded-six-of-the-nine-boundaries-keeping-earth-habitable-180982909/)
 * [2023-09-19, 22:07:33](https://news.ycombinator.com/item?id=37577589) - [Show HN: Spirals – Generate beautiful AI spiral art with one click](https://spirals.vercel.app/)
+* [2023-09-19, 21:52:12](https://news.ycombinator.com/item?id=37577354) - [The Genius Bar in a country where iPhones can’t legally be sold](https://restofworld.org/2023/underground-apple-techs-cuba/)
 * [2023-09-19, 21:13:54](https://news.ycombinator.com/item?id=37576781) - [UniFree: Migrate Unity projects to other engines](https://gamefromscratch.com/applovin-launch-project-unifree/)
 * [2023-09-19, 21:05:20](https://news.ycombinator.com/item?id=37576633) - [Can’t send email more than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
 * [2023-09-19, 21:02:11](https://news.ycombinator.com/item?id=37576580) - [Emerge (YC W21) is hiring a lead front end engineer (remote, small team)](https://www.workatastartup.com/jobs/61922/)
@@ -22,6 +24,7 @@
 * [2023-09-19, 19:36:22](https://news.ycombinator.com/item?id=37575227) - [Simple Open-Source Java Virtual Machine in C](https://github.com/phillbush/jvm)
 * [2023-09-19, 19:34:09](https://news.ycombinator.com/item?id=37575204) - [Fixing for Loops in Go 1.22](https://go.dev/blog/loopvar-preview)
 * [2023-09-19, 19:30:20](https://news.ycombinator.com/item?id=37575139) - [Contrastive Decoding Improves Reasoning in Large Language Models](https://arxiv.org/abs/2309.09117)
+* [2023-09-19, 19:30:00](https://news.ycombinator.com/item?id=37575137) - [A Hands-On Introduction to Machine Learning for non-Computer Science Majors](https://www.cambridge.org/highereducation/books/a-hands-on-introduction-to-machine-learning/3E57313A963BF7AF5C6330EB88ADAB2E)
 * [2023-09-19, 19:26:18](https://news.ycombinator.com/item?id=37575085) - [Google ad exec: “it is a worse user experience to not have ads on the page”](https://twitter.com/BigTechOnTrial/status/1704149922554016116)
 * [2023-09-19, 18:59:50](https://news.ycombinator.com/item?id=37574644) - [Faster Sorting Beyond DeepMind’s AlphaDev](https://www.mimicry.ai/faster-sorting-beyond-deepminds-alphadev)
 * [2023-09-19, 18:57:43](https://news.ycombinator.com/item?id=37574610) - [Notes on Existential Risk from Artificial Superintelligence](https://michaelnotebook.com/xrisk/index.html)
