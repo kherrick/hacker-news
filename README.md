@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-20, 16:26:30](https://news.ycombinator.com/item?id=37586209) - [JEP Draft: Prepare to Restrict the Use of JNI](https://openjdk.org/jeps/8307341)
 * [2023-09-20, 15:45:07](https://news.ycombinator.com/item?id=37585654) - [Why We're Pulling Our Recommendation of Wyze Security Cameras](https://www.nytimes.com/wirecutter/blog/wyze-security-breach/)
 * [2023-09-20, 15:20:27](https://news.ycombinator.com/item?id=37585333) - [Streaming Databases: Everything You Wanted to Know](https://www.risingwave.com/blog/streaming-databases-everything-you-wanted-to-know/)
 * [2023-09-20, 14:27:03](https://news.ycombinator.com/item?id=37584578) - [Cancer expert gets experimental treatment for incurable tumour,phenomenal result](https://www.abc.net.au/news/2023-09-20/melanoma-richard-scolyer-georgina-long-early-results/102879818)
@@ -17,7 +18,6 @@
 * [2023-09-20, 08:39:02](https://news.ycombinator.com/item?id=37581889) - [Algorithm-assisted discovery of an intrinsic order among mathematical constants](https://fermatslibrary.com/s/algorithm-assisted-discovery-of-an-intrinsic-order-among-mathematical-constants)
 * [2023-09-20, 07:38:01](https://news.ycombinator.com/item?id=37581485) - [We have successfully completed our migration to RAM-only VPN infrastructure](https://mullvad.net/en/blog/2023/9/20/we-have-successfully-completed-our-migration-to-ram-only-vpn-infrastructure/)
 * [2023-09-20, 07:15:10](https://news.ycombinator.com/item?id=37581316) - [‘Less than half’ fresh produce sold globally makes any profit](https://www.fruitnet.com/main-navigation/less-than-half-fresh-produce-sold-globally-makes-any-profit/256025.article)
-* [2023-09-20, 06:44:42](https://news.ycombinator.com/item?id=37581132) - [OpenTF is now OpenTofu](https://github.com/opentofu/opentofu/issues/296#issuecomment-1727171446)
 * [2023-09-20, 03:42:23](https://news.ycombinator.com/item?id=37580141) - [FAA authorizes Zipline to deliver commercial packages using drones](https://www.faa.gov/newsroom/faa-authorizes-zipline-deliver-commercial-packages-beyond-line-sight)
 * [2023-09-20, 03:38:49](https://news.ycombinator.com/item?id=37580123) - [Add extra stuff to a “standard” encoding? Sure, why not](https://rachelbythebay.com/w/2023/09/19/badlib/)
 * [2023-09-20, 02:02:31](https://news.ycombinator.com/item?id=37579595) - [A simple web server written in Awk](https://github.com/crossbowerbt/awk-webserver)
