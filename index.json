@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-09-20, 03:42:23",
+      "https://news.ycombinator.com/item?id=37580141"
+    ],
+    [
+      "FAA Authorizes Zipline to Deliver Commercial Packages Using Drones",
+      "https://www.faa.gov/newsroom/faa-authorizes-zipline-deliver-commercial-packages-beyond-line-sight"
+    ]
+  ],
+  [
+    [
       "2023-09-20, 03:38:49",
       "https://news.ycombinator.com/item?id=37580123"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2023-09-19, 18:16:59",
-      "https://news.ycombinator.com/item?id=37573948"
-    ],
-    [
-      "Agentscript: Agent Based Modeling in the Browser",
-      "https://agentscript.org/"
-    ]
-  ],
-  [
-    [
       "2023-09-19, 16:02:11",
       "https://news.ycombinator.com/item?id=37571919"
     ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2023-09-19, 13:24:02",
-      "https://news.ycombinator.com/item?id=37569622"
-    ],
-    [
-      "Historical maps probably helped cause World War I",
-      "https://resobscura.substack.com/p/historical-maps-probably-helped-cause"
-    ]
-  ],
-  [
-    [
       "2023-09-19, 12:25:00",
       "https://news.ycombinator.com/item?id=37568950"
     ],
@@ -287,6 +277,16 @@
     [
       "Permazen: a different persistence layer for Java",
       "https://github.com/permazen/permazen"
+    ]
+  ],
+  [
+    [
+      "2023-09-17, 18:42:09",
+      "https://news.ycombinator.com/item?id=37548095"
+    ],
+    [
+      "Show HN: A reference implementation of Turing's paper “On Computable Numbers”",
+      "https://github.com/planetlambert/turing"
     ]
   ],
   [
