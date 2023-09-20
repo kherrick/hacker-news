@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
 * [2023-09-20, 18:23:30](https://news.ycombinator.com/item?id=37587871) - [Ex-congressman convicted of insider trading before T-Mobile merger with Sprint](https://www.nbcnews.com/politics/politics-news/ex-lawmaker-convicted-insider-trading-t-mobile-merger-rcna74463)
+* [2023-09-20, 18:18:14](https://news.ycombinator.com/item?id=37587791) - [Archaeologists discover world’s oldest wooden structure](https://news.liverpool.ac.uk/2023/09/20/archaeologists-discover-worlds-oldest-wooden-structure/)
 * [2023-09-20, 17:29:20](https://news.ycombinator.com/item?id=37587043) - [Monitor bandwidth usage with bandwhich (and build a snap package of it)](https://popey.com/blog/2023/09/monitor-bandwidth-usage-with-bandwhich/)
 * [2023-09-20, 17:22:04](https://news.ycombinator.com/item?id=37586942) - [Boys and Men in the United States Are Struggling. The Left Should Talk About It](https://jacobin.com/2023/09/boys-men-work-despair-struggling-wages-education/)
 * [2023-09-20, 17:18:13](https://news.ycombinator.com/item?id=37586900) - [DALL·E 3](https://openai.com/dall-e-3)
