@@ -115,6 +115,7 @@
 * [2023-09-19, 06:31:59](https://news.ycombinator.com/item?id=37566316) - [OSS Game Engines are increasing their stars on GitHub due to Unity's missteps](https://twitter.com/OSSInsight/status/1703087927763542305)
 * [2023-09-19, 05:18:31](https://news.ycombinator.com/item?id=37565852) - [iOS 17](https://www.apple.com/ios/ios-17/)
 * [2023-09-19, 04:59:41](https://news.ycombinator.com/item?id=37565761) - [A basic guide to using Asian names](https://www.asiamediacentre.org.nz/features/a-guide-to-using-asian-names/)
+* [2023-09-19, 04:46:06](https://news.ycombinator.com/item?id=37565688) - [My trip to the Communication and Laptop Museum in Estonia](https://ounapuu.ee/posts/2023/09/19/trip-to-communication-laptop-museum/)
 * [2023-09-19, 04:44:04](https://news.ycombinator.com/item?id=37565682) - [Georgism](https://en.wikipedia.org/wiki/Georgism)
 * [2023-09-19, 04:24:40](https://news.ycombinator.com/item?id=37565588) - [Seeking Help to Preserve Rare WWII Database on Windows 98](https://twitter.com/mtruslowstorey/status/1703781076689121556?s=46&t=E3U2EI7EXIhlBQmxg6oZ2g)
 * [2023-09-19, 04:20:12](https://news.ycombinator.com/item?id=37565559) - [I rewired my brain in six weeks](https://www.bbc.com/future/article/20230912-how-i-hacked-my-brain)
