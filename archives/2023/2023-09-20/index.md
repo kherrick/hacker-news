@@ -54,6 +54,7 @@
 * [2023-09-20, 06:44:42](https://news.ycombinator.com/item?id=37581132) - [OpenTF is now OpenTofu](https://github.com/opentofu/opentofu/issues/296#issuecomment-1727171446)
 * [2023-09-20, 05:43:24](https://news.ycombinator.com/item?id=37580757) - [SillycoValley: Write Code, Build Your Startup](https://sillycovalley.com/?myscore)
 * [2023-09-20, 05:14:47](https://news.ycombinator.com/item?id=37580593) - [Aldous Huxley's Deep Reflection](https://thereader.mitpress.mit.edu/aldous-huxleys-deep-reflection/)
+* [2023-09-20, 05:06:38](https://news.ycombinator.com/item?id=37580556) - [How the IAEA uses nuclear technology to control insect pests](https://www.karlsnotes.com/how-the-iaea-uses-nuclear-technology-to-control-insect-pests/)
 * [2023-09-20, 04:53:20](https://news.ycombinator.com/item?id=37580498) - [The Health Risks of Travel in Early-Modern Britain](https://dralun.wordpress.com/2023/02/17/the-health-risks-of-travel-in-early-modern-britain/)
 * [2023-09-20, 04:50:38](https://news.ycombinator.com/item?id=37580490) - [First automatic JPEG-XL cloud service](https://www.gumlet.com/blog/jpeg-xl/)
 * [2023-09-20, 04:00:27](https://news.ycombinator.com/item?id=37580224) - [Q-Transformer: Scalable Reinforcement Learning via Autoregressive Q-Functions](https://q-transformer.github.io/)
