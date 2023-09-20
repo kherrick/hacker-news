@@ -12,6 +12,7 @@
 * [2023-09-19, 22:09:37](https://news.ycombinator.com/item?id=37577609) - [Humans Have Exceeded Six of the Nine Boundaries Keeping Earth Habitable](https://www.smithsonianmag.com/smart-news/humans-have-exceeded-six-of-the-nine-boundaries-keeping-earth-habitable-180982909/)
 * [2023-09-19, 22:07:33](https://news.ycombinator.com/item?id=37577589) - [Show HN: Spirals – Generate beautiful AI spiral art with one click](https://spirals.vercel.app/)
 * [2023-09-19, 21:52:12](https://news.ycombinator.com/item?id=37577354) - [The Genius Bar in a country where iPhones can’t legally be sold](https://restofworld.org/2023/underground-apple-techs-cuba/)
+* [2023-09-19, 21:14:30](https://news.ycombinator.com/item?id=37576790) - [It’s Not About the Technology – Game Engines Are Art Tools [video]](https://www.youtube.com/watch?v=89bLKVvF85M)
 * [2023-09-19, 21:13:54](https://news.ycombinator.com/item?id=37576781) - [UniFree: Migrate Unity projects to other engines](https://gamefromscratch.com/applovin-launch-project-unifree/)
 * [2023-09-19, 21:05:20](https://news.ycombinator.com/item?id=37576633) - [Can’t send email more than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
 * [2023-09-19, 21:02:11](https://news.ycombinator.com/item?id=37576580) - [Emerge (YC W21) is hiring a lead front end engineer (remote, small team)](https://www.workatastartup.com/jobs/61922/)
