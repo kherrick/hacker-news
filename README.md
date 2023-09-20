@@ -19,6 +19,7 @@
 * [2023-09-19, 17:12:36](https://news.ycombinator.com/item?id=37573045) - [How do shared library collisions break? (2022)](https://trofi.github.io/posts/248-how-do-shared-library-collisions-break.html)
 * [2023-09-19, 16:31:31](https://news.ycombinator.com/item?id=37572394) - [How many medical studies are faked or flawed?](https://web.archive.org/web/20230718112821/https://www.nature.com/articles/d41586-023-02299-w)
 * [2023-09-19, 16:02:11](https://news.ycombinator.com/item?id=37571919) - [Quantum Resistance and the Signal Protocol](https://signal.org/blog/pqxdh/)
+* [2023-09-19, 15:51:02](https://news.ycombinator.com/item?id=37571732) - [Show HN: Symphony – Use GPT-4 to call functions in sequence](https://www.symphony.run/)
 * [2023-09-19, 15:40:38](https://news.ycombinator.com/item?id=37571535) - [Graph Neural Networks use graphs when they shouldn't](https://arxiv.org/abs/2309.04332)
 * [2023-09-19, 14:48:03](https://news.ycombinator.com/item?id=37570719) - [GraalVM for JDK 21](https://medium.com/graalvm/graalvm-for-jdk-21-is-here-ee01177dd12d)
 * [2023-09-19, 14:24:27](https://news.ycombinator.com/item?id=37570407) - [Snowden leak: Cavium networking hardware may contain NSA backdoor](https://twitter.com/matthew_d_green/status/1703959863796158678)
@@ -27,7 +28,6 @@
 * [2023-09-19, 12:02:32](https://news.ycombinator.com/item?id=37568746) - [Show HN: Cheq UPI – India's first UPI payments app for foreigners](https://www.chequpi.com/)
 * [2023-09-19, 11:41:47](https://news.ycombinator.com/item?id=37568554) - [Headsets Delayed into 2024](https://simulavr.com/blog/headsets-delayed/)
 * [2023-09-19, 11:19:10](https://news.ycombinator.com/item?id=37568350) - [Lies my calculator and computer told me (1987) [pdf]](https://www.stewartcalculus.com/data/default/upfiles/LiesCalcAndCompTold.pdf)
-* [2023-09-19, 11:12:06](https://news.ycombinator.com/item?id=37568278) - [VCMI: Open-Source Engine for Heroes of Might and Magic III](https://vcmi.eu)
 * [2023-09-19, 09:44:26](https://news.ycombinator.com/item?id=37567504) - [Permazen: Language-natural persistence to KV stores](https://permazen.io/)
 * [2023-09-17, 18:16:04](https://news.ycombinator.com/item?id=37547851) - [Chonky Menu Re-Creation](https://www.nathanmanousos.com/posts/chonky-menu)
 

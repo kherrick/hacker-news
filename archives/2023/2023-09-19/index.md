@@ -52,6 +52,7 @@
 * [2023-09-19, 16:05:07](https://news.ycombinator.com/item?id=37571974) - [Show HN: Hydra - Open-Source Columnar Postgres](https://www.hydra.so/blog-posts/hydra-1-generally-available)
 * [2023-09-19, 16:03:18](https://news.ycombinator.com/item?id=37571935) - [Why does water change the speed of electricity? [video]](https://www.youtube.com/watch?v=rQIg5XeIgQ0)
 * [2023-09-19, 16:02:11](https://news.ycombinator.com/item?id=37571919) - [Quantum Resistance and the Signal Protocol](https://signal.org/blog/pqxdh/)
+* [2023-09-19, 15:51:02](https://news.ycombinator.com/item?id=37571732) - [Show HN: Symphony – Use GPT-4 to call functions in sequence](https://www.symphony.run/)
 * [2023-09-19, 15:42:28](https://news.ycombinator.com/item?id=37571571) - [Influence of dietary lipid upon ultraviolet light-carcinogenesis](https://pubmed.ncbi.nlm.nih.gov/6520731/)
 * [2023-09-19, 15:40:38](https://news.ycombinator.com/item?id=37571535) - [Graph Neural Networks Use Graphs When They Shouldn't](https://arxiv.org/abs/2309.04332)
 * [2023-09-19, 15:28:06](https://news.ycombinator.com/item?id=37571328) - [Yash Shorthand System](https://opsahl.github.io/yash/)
