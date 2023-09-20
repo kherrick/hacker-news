@@ -47,6 +47,7 @@
 * [2023-09-18, 16:26:28](https://news.ycombinator.com/item?id=37558372) - [Tell HN: Goodbye HTML Gmail](https://news.ycombinator.com/item?id=37558372)
 * [2023-09-18, 16:26:05](https://news.ycombinator.com/item?id=37558366) - [Holding Apple Accountable: The Future of the Internet Economy Depends on It](https://newsroom.spotify.com/2023-09-18/dustee-jenkins-holding-apple-accountable-internet-economy-fairness-digital-markets-act/)
 * [2023-09-18, 16:25:10](https://news.ycombinator.com/item?id=37558357) - [Show HN: HyperDX – open-source dev-friendly Datadog alternative](https://github.com/hyperdxio/hyperdx)
+* [2023-09-18, 15:50:39](https://news.ycombinator.com/item?id=37557880) - [Leveraging Rust in our Java database](https://questdb.io/blog/leveraging-rust-in-our-high-performance-java-database/)
 * [2023-09-18, 15:31:50](https://news.ycombinator.com/item?id=37557595) - [Y Combinator Podcast #4: Sam Altman Interviews Elon Musk](https://www.ycombinator.com/blog/elon-musk-on-how-to-build-the-future/)
 * [2023-09-18, 15:30:47](https://news.ycombinator.com/item?id=37557580) - [The truth about nitro-meats: my seven-year search for better bacon](https://www.theguardian.com/food/2023/sep/18/the-truth-about-nitro-meats-my-seven-year-search-for-better-bacon~)
 * [2023-09-18, 15:21:52](https://news.ycombinator.com/item?id=37557438) - [The Astrologer of the Nineteenth Century (1825)](https://publicdomainreview.org/collection/the-astrologer-of-the-nineteenth-century-1825)

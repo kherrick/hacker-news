@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
+* [2023-09-20, 12:00:53](https://news.ycombinator.com/item?id=37583116) - [Stellar Sleep (YC S23) Is Hiring a Senior/ Staff SWE in San Francisco](https://www.ycombinator.com/companies/stellar-sleep/jobs/Ubd4rCS-senior-staff-software-engineer)
 * [2023-09-20, 10:38:17](https://news.ycombinator.com/item?id=37582565) - [Google Settles Account Settings Lawsuit Less Than One Week After Being Filed [pdf]](https://oag.ca.gov/system/files/attachments/press-docs/Filed%20stamped%20Google%20Complaint.pdf)
 * [2023-09-20, 08:39:02](https://news.ycombinator.com/item?id=37581889) - [Algorithm-assisted discovery of an intrinsic order among mathematical constants](https://fermatslibrary.com/s/algorithm-assisted-discovery-of-an-intrinsic-order-among-mathematical-constants)
 * [2023-09-20, 08:17:21](https://news.ycombinator.com/item?id=37581738) - [Mull Browser Includes Trackers](https://forum.cktn.de/t/mull-browser-includes-trackers/3880)
