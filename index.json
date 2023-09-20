@@ -61,22 +61,22 @@
   ],
   [
     [
+      "2023-09-20, 01:44:08",
+      "https://news.ycombinator.com/item?id=37579474"
+    ],
+    [
+      "Writing HTML by hand",
+      "https://simblob.blogspot.com/2023/09/writing-html-by-hand.html"
+    ]
+  ],
+  [
+    [
       "2023-09-20, 01:00:54",
       "https://news.ycombinator.com/item?id=37579183"
     ],
     [
       "Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)",
       "https://etleap.com/careers/software-engineer/"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 00:13:46",
-      "https://news.ycombinator.com/item?id=37578850"
-    ],
-    [
-      "Shaving 40% Off Google’s B-Tree Implementation with Go Generics (2022)",
-      "https://www.scylladb.com/2022/04/27/shaving-40-off-googles-b-tree-implementation-with-go-generics/"
     ]
   ],
   [
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=37575467"
     ],
     [
-      "Programming Is Hard",
+      "Programming is hard",
       "https://myme.no/posts/2023-09-19-programming-is-hard.html"
     ]
   ],
@@ -137,16 +137,6 @@
     [
       "ReinetteII+.py, an Apple II plus emulator in Python",
       "https://github.com/ArthurFerreira2/reinette-II-plus-dot-py"
-    ]
-  ],
-  [
-    [
-      "2023-09-19, 19:44:11",
-      "https://news.ycombinator.com/item?id=37575365"
-    ],
-    [
-      "Apache Pinot 1.0",
-      "https://pinot.apache.org/blog/2023/09/19/Annoucing-Apache-Pinot-1-0/"
     ]
   ],
   [
@@ -211,12 +201,12 @@
   ],
   [
     [
-      "2023-09-19, 14:48:03",
-      "https://news.ycombinator.com/item?id=37570719"
+      "2023-09-19, 14:25:36",
+      "https://news.ycombinator.com/item?id=37570422"
     ],
     [
-      "GraalVM for JDK 21",
-      "https://medium.com/graalvm/graalvm-for-jdk-21-is-here-ee01177dd12d"
+      "Getting into Pinball",
+      "https://tynan.com/pinball/"
     ]
   ],
   [
@@ -261,22 +251,32 @@
   ],
   [
     [
-      "2023-09-19, 11:19:10",
-      "https://news.ycombinator.com/item?id=37568350"
-    ],
-    [
-      "Lies my calculator and computer told me (1987) [pdf]",
-      "https://www.stewartcalculus.com/data/default/upfiles/LiesCalcAndCompTold.pdf"
-    ]
-  ],
-  [
-    [
       "2023-09-19, 09:44:26",
       "https://news.ycombinator.com/item?id=37567504"
     ],
     [
       "Permazen: a different persistence layer for Java",
       "https://github.com/permazen/permazen"
+    ]
+  ],
+  [
+    [
+      "2023-09-18, 17:53:05",
+      "https://news.ycombinator.com/item?id=37559499"
+    ],
+    [
+      "Exploring the Halo 1 System Link Protocol",
+      "https://hllmn.net/blog/2023-09-18_h1x-net/"
+    ]
+  ],
+  [
+    [
+      "2023-09-18, 17:22:52",
+      "https://news.ycombinator.com/item?id=37559095"
+    ],
+    [
+      "Show HN: Liz – Collaborative Lisp coding on Discord",
+      "https://github.com/d4ckard/liz"
     ]
   ],
   [
