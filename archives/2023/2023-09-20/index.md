@@ -7,6 +7,7 @@
 * [2023-09-20, 17:18:13](https://news.ycombinator.com/item?id=37586900) - [DALL·E 3](https://openai.com/dall-e-3)
 * [2023-09-20, 16:38:12](https://news.ycombinator.com/item?id=37586372) - [Charlie Munger: Turning $2M Into $2T](https://fs.blog/turning-2-million-into-2-trillion/)
 * [2023-09-20, 16:26:30](https://news.ycombinator.com/item?id=37586209) - [JEP Draft: Prepare to Restrict the Use of JNI](https://openjdk.org/jeps/8307341)
+* [2023-09-20, 16:13:28](https://news.ycombinator.com/item?id=37586019) - [Bard Can Now Connect to Your Google Apps](https://artificialcorner.substack.com/p/bard-can-now-connect-to-your-google)
 * [2023-09-20, 15:45:07](https://news.ycombinator.com/item?id=37585654) - [Why We're Pulling Our Recommendation of Wyze Security Cameras](https://www.nytimes.com/wirecutter/blog/wyze-security-breach/)
 * [2023-09-20, 15:20:27](https://news.ycombinator.com/item?id=37585333) - [Streaming Databases: Everything You Wanted to Know](https://www.risingwave.com/blog/streaming-databases-everything-you-wanted-to-know/)
 * [2023-09-20, 14:27:03](https://news.ycombinator.com/item?id=37584578) - [Cancer expert gets experimental treatment for incurable tumour,phenomenal result](https://www.abc.net.au/news/2023-09-20/melanoma-richard-scolyer-georgina-long-early-results/102879818)
