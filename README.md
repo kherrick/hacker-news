@@ -28,7 +28,7 @@
 * [2023-09-19, 12:02:32](https://news.ycombinator.com/item?id=37568746) - [Show HN: Cheq UPI – India's first UPI payments app for foreigners](https://www.chequpi.com/)
 * [2023-09-19, 11:41:47](https://news.ycombinator.com/item?id=37568554) - [Headsets Delayed into 2024](https://simulavr.com/blog/headsets-delayed/)
 * [2023-09-19, 11:19:10](https://news.ycombinator.com/item?id=37568350) - [Lies my calculator and computer told me (1987) [pdf]](https://www.stewartcalculus.com/data/default/upfiles/LiesCalcAndCompTold.pdf)
-* [2023-09-19, 09:44:26](https://news.ycombinator.com/item?id=37567504) - [Permazen: Language-natural persistence to KV stores](https://permazen.io/)
+* [2023-09-19, 09:44:26](https://news.ycombinator.com/item?id=37567504) - [Permazen: Language-natural persistence to KV stores](https://github.com/permazen/permazen)
 * [2023-09-17, 18:16:04](https://news.ycombinator.com/item?id=37547851) - [Chonky Menu Re-Creation](https://www.nathanmanousos.com/posts/chonky-menu)
 
 ## [Archives](archives/index.md)
