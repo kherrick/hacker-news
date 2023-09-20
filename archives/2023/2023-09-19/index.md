@@ -45,6 +45,7 @@
 * [2023-09-19, 18:07:00](https://news.ycombinator.com/item?id=37573808) - [We Can't Compete with AI Girlfriends](https://www.freyaindia.co.uk/p/we-cant-compete-with-ai-girlfriends)
 * [2023-09-19, 18:02:52](https://news.ycombinator.com/item?id=37573742) - [Show HN: Dialoqbase – open-source chatbot creation platform (LangChain wrapper)](https://news.ycombinator.com/item?id=37573742)
 * [2023-09-19, 17:58:04](https://news.ycombinator.com/item?id=37573679) - [NFS > FUSE: Why We Built Our Own NFS Server in Rust](https://about.xethub.com/blog/nfs-fuse-why-we-built-nfs-server-rust)
+* [2023-09-19, 17:50:28](https://news.ycombinator.com/item?id=37573559) - [Networking explained with a horse and carriage](https://asksiri.us/blog/2023-09-18.md)
 * [2023-09-19, 17:34:06](https://news.ycombinator.com/item?id=37573332) - [iFixit – We Are Retroactively Dropping the iPhone’s Repairability Score](https://www.ifixit.com/News/82493/we-are-retroactively-dropping-the-iphones-repairability-score-en)
 * [2023-09-19, 17:12:36](https://news.ycombinator.com/item?id=37573045) - [How do shared library collisions break? (2022)](https://trofi.github.io/posts/248-how-do-shared-library-collisions-break.html)
 * [2023-09-19, 17:06:52](https://news.ycombinator.com/item?id=37572960) - [One in 10 Japanese Now Aged over 80, Population Report Shows](https://www.bloomberg.com/news/articles/2023-09-18/one-in-10-japanese-aged-over-80-population-report-shows-on-respect-for-aged-day)
