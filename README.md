@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-20, 06:44:42](https://news.ycombinator.com/item?id=37581132) - [OpenTF renames itself to OpenTofu](https://github.com/opentofu)
 * [2023-09-20, 05:43:24](https://news.ycombinator.com/item?id=37580757) - [SillycoValley: Write Code, Build Your Startup](https://sillycovalley.com/?myscore)
 * [2023-09-20, 05:14:47](https://news.ycombinator.com/item?id=37580593) - [Aldous Huxley's Deep Reflection](https://thereader.mitpress.mit.edu/aldous-huxleys-deep-reflection/)
 * [2023-09-20, 04:50:38](https://news.ycombinator.com/item?id=37580490) - [First automatic JPEG-XL cloud service](https://www.gumlet.com/blog/jpeg-xl/)
@@ -14,7 +15,6 @@
 * [2023-09-19, 21:52:12](https://news.ycombinator.com/item?id=37577354) - [A small community of unofficial Apple technicians in Cuba](https://restofworld.org/2023/underground-apple-techs-cuba/)
 * [2023-09-19, 21:15:56](https://news.ycombinator.com/item?id=37576816) - [Smashing the state machine: the true potential of web race conditions](https://portswigger.net/research/smashing-the-state-machine)
 * [2023-09-19, 21:05:20](https://news.ycombinator.com/item?id=37576633) - [Can’t send email more than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
-* [2023-09-19, 20:14:24](https://news.ycombinator.com/item?id=37575869) - [The Paradox of Control](https://every.to/no-small-plans/the-paradox-of-control)
 * [2023-09-19, 19:49:26](https://news.ycombinator.com/item?id=37575467) - [Programming is hard](https://myme.no/posts/2023-09-19-programming-is-hard.html)
 * [2023-09-19, 19:34:09](https://news.ycombinator.com/item?id=37575204) - [Fixing for loops in Go 1.22](https://go.dev/blog/loopvar-preview)
 * [2023-09-19, 19:31:39](https://news.ycombinator.com/item?id=37575167) - [Pink diamonds erupted to Earth’s surface after early supercontinent’s breakup](https://www.scientificamerican.com/article/pink-diamonds-erupted-to-earths-surface-after-early-supercontinents-breakup/)
