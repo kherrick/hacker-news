@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-20, 04:50:38](https://news.ycombinator.com/item?id=37580490) - [First automatic JPEG-XL cloud service](https://www.gumlet.com/blog/jpeg-xl/)
 * [2023-09-20, 04:00:27](https://news.ycombinator.com/item?id=37580224) - [Q-Transformer: Scalable Reinforcement Learning via Autoregressive Q-Functions](https://q-transformer.github.io/)
 * [2023-09-20, 03:42:23](https://news.ycombinator.com/item?id=37580141) - [FAA authorizes Zipline to deliver commercial packages using drones](https://www.faa.gov/newsroom/faa-authorizes-zipline-deliver-commercial-packages-beyond-line-sight)
 * [2023-09-20, 03:38:49](https://news.ycombinator.com/item?id=37580123) - [Add extra stuff to a “standard” encoding? Sure, why not](https://rachelbythebay.com/w/2023/09/19/badlib/)
@@ -22,7 +23,6 @@
 * [2023-09-19, 15:51:02](https://news.ycombinator.com/item?id=37571732) - [Show HN: Symphony – Use GPT-4 to call functions in sequence](https://www.symphony.run/)
 * [2023-09-19, 14:25:36](https://news.ycombinator.com/item?id=37570422) - [Getting into Pinball](https://tynan.com/pinball/)
 * [2023-09-19, 14:24:27](https://news.ycombinator.com/item?id=37570407) - [Snowden leak: Cavium networking hardware may contain NSA backdoor](https://twitter.com/matthew_d_green/status/1703959863796158678)
-* [2023-09-19, 12:25:00](https://news.ycombinator.com/item?id=37568950) - [YouTube blocks Russell Brand from making money through its platform](https://www.nytimes.com/2023/09/19/arts/russell-brand-youtube.html)
 * [2023-09-19, 12:02:32](https://news.ycombinator.com/item?id=37568746) - [Show HN: Cheq UPI – India's first UPI payments app for foreigners](https://www.chequpi.com/)
 * [2023-09-19, 11:41:47](https://news.ycombinator.com/item?id=37568554) - [Headsets Delayed into 2024](https://simulavr.com/blog/headsets-delayed/)
 * [2023-09-19, 09:44:26](https://news.ycombinator.com/item?id=37567504) - [Permazen: a different persistence layer for Java](https://github.com/permazen/permazen)
