@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-20, 17:18:13](https://news.ycombinator.com/item?id=37586900) - [DALL·E 3](https://openai.com/dall-e-3)
+* [2023-09-20, 16:38:12](https://news.ycombinator.com/item?id=37586372) - [Charlie Munger: Turning $2M Into $2T](https://fs.blog/turning-2-million-into-2-trillion/)
 * [2023-09-20, 16:26:30](https://news.ycombinator.com/item?id=37586209) - [JEP Draft: Prepare to Restrict the Use of JNI](https://openjdk.org/jeps/8307341)
 * [2023-09-20, 15:45:07](https://news.ycombinator.com/item?id=37585654) - [Why We're Pulling Our Recommendation of Wyze Security Cameras](https://www.nytimes.com/wirecutter/blog/wyze-security-breach/)
 * [2023-09-20, 15:20:27](https://news.ycombinator.com/item?id=37585333) - [Streaming Databases: Everything You Wanted to Know](https://www.risingwave.com/blog/streaming-databases-everything-you-wanted-to-know/)
@@ -20,16 +22,14 @@
 * [2023-09-20, 07:15:10](https://news.ycombinator.com/item?id=37581316) - [‘Less than half’ fresh produce sold globally makes any profit](https://www.fruitnet.com/main-navigation/less-than-half-fresh-produce-sold-globally-makes-any-profit/256025.article)
 * [2023-09-20, 03:42:23](https://news.ycombinator.com/item?id=37580141) - [FAA authorizes Zipline to deliver commercial packages using drones](https://www.faa.gov/newsroom/faa-authorizes-zipline-deliver-commercial-packages-beyond-line-sight)
 * [2023-09-20, 03:38:49](https://news.ycombinator.com/item?id=37580123) - [Add extra stuff to a “standard” encoding? Sure, why not](https://rachelbythebay.com/w/2023/09/19/badlib/)
-* [2023-09-20, 02:02:31](https://news.ycombinator.com/item?id=37579595) - [A simple web server written in Awk](https://github.com/crossbowerbt/awk-webserver)
+* [2023-09-20, 00:24:10](https://news.ycombinator.com/item?id=37578935) - [Marin Mersenne on the Consolation of Sad Music](https://jhiblog.org/2023/09/06/marin-mersenne-on-the-consolation-of-sad-music/)
 * [2023-09-19, 16:15:36](https://news.ycombinator.com/item?id=37572145) - [Application-specific terminals](https://www.cweagans.net/2023/09/application-specific-terminals/)
 * [2023-09-19, 12:47:03](https://news.ycombinator.com/item?id=37569174) - [Toolship: A more secure workstation](https://yann.pt/posts/a-more-secure-workstation/)
 * [2023-09-19, 12:13:17](https://news.ycombinator.com/item?id=37568847) - [A closer look at BookCorpus, a key dataset in machine learning](https://towardsdatascience.com/dirty-secrets-of-bookcorpus-a-key-dataset-in-machine-learning-6ee2927e8650)
-* [2023-09-19, 04:46:06](https://news.ycombinator.com/item?id=37565688) - [My trip to the Communication and Laptop Museum in Estonia](https://ounapuu.ee/posts/2023/09/19/trip-to-communication-laptop-museum/)
 * [2023-09-18, 21:52:28](https://news.ycombinator.com/item?id=37562593) - [Tracing: Structured logging, but better](https://andydote.co.uk/2023/09/19/tracing-is-better/)
 * [2023-09-18, 18:25:52](https://news.ycombinator.com/item?id=37559996) - [What will LLM-powered software look like in the medium-term future?](https://vishnumenon.com/lightrail/2023/09/17/AI-Interfaces.html)
 * [2023-09-18, 17:53:05](https://news.ycombinator.com/item?id=37559499) - [Exploring the Halo 1 System Link Protocol](https://hllmn.net/blog/2023-09-18_h1x-net/)
 * [2023-09-18, 15:50:39](https://news.ycombinator.com/item?id=37557880) - [Leveraging Rust in our Java database](https://questdb.io/blog/leveraging-rust-in-our-high-performance-java-database/)
-* [2023-09-17, 23:41:29](https://news.ycombinator.com/item?id=37550493) - [Boundaries of Predictability](https://azeemba.com/posts/boundaries-of-predictability.html)
 
 ## [Archives](archives/index.md)
 
