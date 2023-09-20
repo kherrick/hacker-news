@@ -7,6 +7,7 @@
 * [2023-09-19, 23:41:19](https://news.ycombinator.com/item?id=37578616) - [Google DeepMind's AI successor predicts how 71M mutations cause disease](https://endpts.com/google-deepminds-alphafold-successor-predicts-how-71m-mutations-cause-disease/)
 * [2023-09-19, 23:29:16](https://news.ycombinator.com/item?id=37578496) - [Writing Is Objectively Superior to Speaking as a Communication Method (2020)](https://koshka.love/babel/writing-superior-to-speaking.html)
 * [2023-09-19, 23:08:04](https://news.ycombinator.com/item?id=37578326) - [AI emits less CO2 when writing and illustrating than humans](https://arxiv.org/abs/2303.06219)
+* [2023-09-19, 22:29:01](https://news.ycombinator.com/item?id=37577866) - [The AI Explosion Might Never Happen](https://amistrongeryet.substack.com/p/recursive-self-improvement-foom)
 * [2023-09-19, 22:28:19](https://news.ycombinator.com/item?id=37577861) - [Webring Technology](https://brisray.com/web/webring-tech.htm)
 * [2023-09-19, 22:09:37](https://news.ycombinator.com/item?id=37577609) - [Humans Have Exceeded Six of the Nine Boundaries Keeping Earth Habitable](https://www.smithsonianmag.com/smart-news/humans-have-exceeded-six-of-the-nine-boundaries-keeping-earth-habitable-180982909/)
 * [2023-09-19, 22:07:33](https://news.ycombinator.com/item?id=37577589) - [Show HN: Spirals – Generate beautiful AI spiral art with one click](https://spirals.vercel.app/)
