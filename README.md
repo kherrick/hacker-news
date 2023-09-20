@@ -22,6 +22,7 @@
 * [2023-09-20, 07:15:10](https://news.ycombinator.com/item?id=37581316) - [‘Less than half’ fresh produce sold globally makes any profit](https://www.fruitnet.com/main-navigation/less-than-half-fresh-produce-sold-globally-makes-any-profit/256025.article)
 * [2023-09-20, 05:06:38](https://news.ycombinator.com/item?id=37580556) - [How the IAEA uses nuclear technology to control insect pests](https://www.karlsnotes.com/how-the-iaea-uses-nuclear-technology-to-control-insect-pests/)
 * [2023-09-20, 04:53:20](https://news.ycombinator.com/item?id=37580498) - [Health risks of travel in early-modern Britain](https://dralun.wordpress.com/2023/02/17/the-health-risks-of-travel-in-early-modern-britain/)
+* [2023-09-20, 01:23:52](https://news.ycombinator.com/item?id=37579337) - [New study disproves Leonardo da Vinci's 'rule of trees'](https://phys.org/news/2023-09-leonardo-da-vinci-trees.html)
 * [2023-09-20, 00:26:36](https://news.ycombinator.com/item?id=37578948) - [The unknowable presents, secretly encoded](https://denniscooperblog.com/the-unknowable-presents-secretly-encoded/)
 * [2023-09-20, 00:24:10](https://news.ycombinator.com/item?id=37578935) - [Marin Mersenne on the Consolation of Sad Music](https://jhiblog.org/2023/09/06/marin-mersenne-on-the-consolation-of-sad-music/)
 * [2023-09-19, 17:50:28](https://news.ycombinator.com/item?id=37573559) - [Networking explained with a horse and carriage](https://asksiri.us/blog/2023-09-18.md)
@@ -29,7 +30,6 @@
 * [2023-09-19, 12:13:17](https://news.ycombinator.com/item?id=37568847) - [A closer look at BookCorpus, a key dataset in machine learning](https://towardsdatascience.com/dirty-secrets-of-bookcorpus-a-key-dataset-in-machine-learning-6ee2927e8650)
 * [2023-09-18, 21:52:28](https://news.ycombinator.com/item?id=37562593) - [Tracing: Structured logging, but better](https://andydote.co.uk/2023/09/19/tracing-is-better/)
 * [2023-09-18, 17:53:05](https://news.ycombinator.com/item?id=37559499) - [Exploring the Halo 1 System Link Protocol](https://hllmn.net/blog/2023-09-18_h1x-net/)
-* [2023-09-18, 15:50:39](https://news.ycombinator.com/item?id=37557880) - [Leveraging Rust in our Java database](https://questdb.io/blog/leveraging-rust-in-our-high-performance-java-database/)
 
 ## [Archives](archives/index.md)
 
