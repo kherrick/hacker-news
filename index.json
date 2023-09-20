@@ -1,22 +1,42 @@
 [
   [
     [
-      "2023-09-20, 13:34:28",
-      "https://news.ycombinator.com/item?id=37583924"
+      "2023-09-20, 13:59:32",
+      "https://news.ycombinator.com/item?id=37584224"
     ],
     [
-      "UK’s Rishi Sunak considers weakening key green policies",
-      "https://www.bbc.com/news/uk-politics-66857551"
+      "Svelte 5: Runes",
+      "https://svelte.dev/blog/runes"
     ]
   ],
   [
     [
-      "2023-09-20, 13:30:04",
-      "https://news.ycombinator.com/item?id=37583875"
+      "2023-09-20, 13:53:31",
+      "https://news.ycombinator.com/item?id=37584134"
     ],
     [
-      "Fed-up consumers are going after food companies for misleading claims",
-      "https://www.npr.org/2023/09/20/1200417169/food-company-starbucks-misleading-claims-lawsuits"
+      "Show HN: uBlock Origin filters to remove distractions",
+      "https://github.com/mig4ng/ublock-origin-filters"
+    ]
+  ],
+  [
+    [
+      "2023-09-20, 13:46:55",
+      "https://news.ycombinator.com/item?id=37584049"
+    ],
+    [
+      "Show HN: ElectricSQL, Postgres to SQLite active-active sync for local-first apps",
+      "https://electric-sql.com/"
+    ]
+  ],
+  [
+    [
+      "2023-09-20, 13:46:06",
+      "https://news.ycombinator.com/item?id=37584038"
+    ],
+    [
+      "British journalist held by police at Luton airport for five hours without arrest",
+      "https://www.theguardian.com/media/2023/sep/20/british-journalist-held-by-police-at-luton-airport-for-five-hours-without-arrest"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "Show HN: SeaGOAT – local, “AI-based” grep for semantic code search",
       "https://github.com/kantord/SeaGOAT"
+    ]
+  ],
+  [
+    [
+      "2023-09-20, 12:03:42",
+      "https://news.ycombinator.com/item?id=37583136"
+    ],
+    [
+      "Neurons in Large Language Models: Dead, N-Gram, Positional",
+      "https://arxiv.org/abs/2309.04827"
     ]
   ],
   [
@@ -55,7 +85,7 @@
       "https://news.ycombinator.com/item?id=37582565"
     ],
     [
-      "Google Settles Account Settings Lawsuit Less Than One Week After Being Filed [pdf]",
+      "Google settles account settings lawsuit less than one week after being filed [pdf]",
       "https://oag.ca.gov/system/files/attachments/press-docs/Filed%20stamped%20Google%20Complaint.pdf"
     ]
   ],
@@ -81,22 +111,22 @@
   ],
   [
     [
+      "2023-09-20, 07:15:10",
+      "https://news.ycombinator.com/item?id=37581316"
+    ],
+    [
+      "‘Less than half’ fresh produce sold globally makes any profit",
+      "https://www.fruitnet.com/main-navigation/less-than-half-fresh-produce-sold-globally-makes-any-profit/256025.article"
+    ]
+  ],
+  [
+    [
       "2023-09-20, 06:44:42",
       "https://news.ycombinator.com/item?id=37581132"
     ],
     [
       "OpenTofu",
       "https://github.com/opentofu"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 05:43:24",
-      "https://news.ycombinator.com/item?id=37580757"
-    ],
-    [
-      "SillycoValley: Write Code, Build Your Startup",
-      "https://sillycovalley.com/?myscore"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2023-09-20, 03:35:13",
-      "https://news.ycombinator.com/item?id=37580113"
-    ],
-    [
-      "100 Parking Tickets (2004)",
-      "https://100parkingtickets.com/"
-    ]
-  ],
-  [
-    [
       "2023-09-20, 02:02:31",
       "https://news.ycombinator.com/item?id=37579595"
     ],
@@ -181,32 +201,22 @@
   ],
   [
     [
-      "2023-09-19, 19:34:09",
-      "https://news.ycombinator.com/item?id=37575204"
+      "2023-09-19, 19:49:26",
+      "https://news.ycombinator.com/item?id=37575467"
     ],
     [
-      "Fixing for loops in Go 1.22",
-      "https://go.dev/blog/loopvar-preview"
+      "Programming is hard",
+      "https://myme.no/posts/2023-09-19-programming-is-hard.html"
     ]
   ],
   [
     [
-      "2023-09-19, 19:31:39",
-      "https://news.ycombinator.com/item?id=37575167"
+      "2023-09-19, 14:25:36",
+      "https://news.ycombinator.com/item?id=37570422"
     ],
     [
-      "Pink diamonds erupted to Earth’s surface after early supercontinent’s breakup",
-      "https://www.scientificamerican.com/article/pink-diamonds-erupted-to-earths-surface-after-early-supercontinents-breakup/"
-    ]
-  ],
-  [
-    [
-      "2023-09-19, 15:51:02",
-      "https://news.ycombinator.com/item?id=37571732"
-    ],
-    [
-      "Show HN: Symphony – Use GPT-4 to call functions in sequence",
-      "https://www.symphony.run/"
+      "Getting into Pinball",
+      "https://tynan.com/pinball/"
     ]
   ],
   [
@@ -221,22 +231,22 @@
   ],
   [
     [
+      "2023-09-19, 12:47:03",
+      "https://news.ycombinator.com/item?id=37569174"
+    ],
+    [
+      "Toolship: A more secure workstation",
+      "https://yann.pt/posts/a-more-secure-workstation/"
+    ]
+  ],
+  [
+    [
       "2023-09-19, 12:13:17",
       "https://news.ycombinator.com/item?id=37568847"
     ],
     [
       "A closer look at BookCorpus, a key dataset in machine learning",
       "https://towardsdatascience.com/dirty-secrets-of-bookcorpus-a-key-dataset-in-machine-learning-6ee2927e8650"
-    ]
-  ],
-  [
-    [
-      "2023-09-19, 09:44:26",
-      "https://news.ycombinator.com/item?id=37567504"
-    ],
-    [
-      "Permazen: a different persistence layer for Java",
-      "https://github.com/permazen/permazen"
     ]
   ],
   [
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2023-09-18, 17:22:52",
-      "https://news.ycombinator.com/item?id=37559095"
+      "2023-09-18, 18:25:52",
+      "https://news.ycombinator.com/item?id=37559996"
     ],
     [
-      "Show HN: Liz – Collaborative Lisp coding on Discord",
-      "https://github.com/d4ckard/liz"
+      "What will LLM-powered software look like in the medium-term future?",
+      "https://vishnumenon.com/lightrail/2023/09/17/AI-Interfaces.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Boundaries of Predictability",
       "https://azeemba.com/posts/boundaries-of-predictability.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-17, 18:42:09",
-      "https://news.ycombinator.com/item?id=37548095"
-    ],
-    [
-      "Show HN: A reference implementation of Turing's paper “On Computable Numbers”",
-      "https://github.com/planetlambert/turing"
     ]
   ]
 ]
