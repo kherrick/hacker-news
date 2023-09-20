@@ -66,6 +66,7 @@
 * [2023-09-19, 14:50:23](https://news.ycombinator.com/item?id=37570743) - [The Physical Process That Powers a New Type of Generative AI](https://www.quantamagazine.org/new-physics-inspired-generative-ai-exceeds-expectations-20230919/)
 * [2023-09-19, 14:48:03](https://news.ycombinator.com/item?id=37570719) - [GraalVM for JDK 21 is here](https://medium.com/graalvm/graalvm-for-jdk-21-is-here-ee01177dd12d)
 * [2023-09-19, 14:40:03](https://news.ycombinator.com/item?id=37570633) - [Is the End of Aids in Sight?](https://www.economist.com/middle-east-and-africa/2023/09/17/is-the-end-of-aids-in-sight)
+* [2023-09-19, 14:25:36](https://news.ycombinator.com/item?id=37570422) - [Getting into Pinball](https://tynan.com/pinball/)
 * [2023-09-19, 14:25:17](https://news.ycombinator.com/item?id=37570418) - [There's an Alternative to the Infinite Scroll](https://www.wired.com/story/lexicon-scroll-doomscrolling-mindfulness-linguistics/)
 * [2023-09-19, 14:24:27](https://news.ycombinator.com/item?id=37570407) - [Snowden leak: Cavium networking hardware may contain NSA backdoor](https://twitter.com/matthew_d_green/status/1703959863796158678)
 * [2023-09-19, 14:20:42](https://news.ycombinator.com/item?id=37570349) - [BMW's Ultimate Driving Machine, for Driving Through Gunfire and Grenades](https://www.core77.com/posts/125788/BMWs-Ultimate-Driving-Machine-for-Driving-Through-Gunfire-and-Grenades)
