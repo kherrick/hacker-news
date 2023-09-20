@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-09-20, 17:29:20",
+      "https://news.ycombinator.com/item?id=37587043"
+    ],
+    [
+      "Monitor bandwidth usage with bandwhich (and build a snap package of it)",
+      "https://popey.com/blog/2023/09/monitor-bandwidth-usage-with-bandwhich/"
+    ]
+  ],
+  [
+    [
       "2023-09-20, 17:18:13",
       "https://news.ycombinator.com/item?id=37586900"
     ],
     [
       "DALL·E 3",
       "https://openai.com/dall-e-3"
+    ]
+  ],
+  [
+    [
+      "2023-09-20, 17:16:03",
+      "https://news.ycombinator.com/item?id=37586877"
+    ],
+    [
+      "The AI Content Flippening",
+      "https://www.latent.space/p/wondercraft#details"
+    ]
+  ],
+  [
+    [
+      "2023-09-20, 16:48:01",
+      "https://news.ycombinator.com/item?id=37586518"
+    ],
+    [
+      "Expand function invocations into current scope",
+      "https://github.com/goldsborough/clang-expand"
     ]
   ],
   [
@@ -41,12 +71,12 @@
   ],
   [
     [
-      "2023-09-20, 14:27:03",
-      "https://news.ycombinator.com/item?id=37584578"
+      "2023-09-20, 16:02:28",
+      "https://news.ycombinator.com/item?id=37585869"
     ],
     [
-      "Cancer expert given experimental treatments for incurable brain tumour",
-      "https://www.abc.net.au/news/2023-09-20/melanoma-richard-scolyer-georgina-long-early-results/102879818"
+      "Show HN: Booklet – Async forums as an alternative to chat",
+      "https://www.booklet.group/"
     ]
   ],
   [
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2023-09-20, 08:39:02",
-      "https://news.ycombinator.com/item?id=37581889"
-    ],
-    [
-      "Algorithm-assisted discovery of an intrinsic order among mathematical constants",
-      "https://fermatslibrary.com/s/algorithm-assisted-discovery-of-an-intrinsic-order-among-mathematical-constants"
-    ]
-  ],
-  [
-    [
       "2023-09-20, 07:15:10",
       "https://news.ycombinator.com/item?id=37581316"
     ],
     [
       "‘Less than half’ fresh produce sold globally makes any profit",
       "https://www.fruitnet.com/main-navigation/less-than-half-fresh-produce-sold-globally-makes-any-profit/256025.article"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 03:42:23",
-      "https://news.ycombinator.com/item?id=37580141"
-    ],
-    [
-      "FAA authorizes Zipline to deliver commercial packages using drones",
-      "https://www.faa.gov/newsroom/faa-authorizes-zipline-deliver-commercial-packages-beyond-line-sight"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "A closer look at BookCorpus, a key dataset in machine learning",
       "https://towardsdatascience.com/dirty-secrets-of-bookcorpus-a-key-dataset-in-machine-learning-6ee2927e8650"
-    ]
-  ],
-  [
-    [
-      "2023-09-19, 04:46:06",
-      "https://news.ycombinator.com/item?id=37565688"
-    ],
-    [
-      "My trip to the Communication and Laptop Museum in Estonia",
-      "https://ounapuu.ee/posts/2023/09/19/trip-to-communication-laptop-museum/"
     ]
   ],
   [
