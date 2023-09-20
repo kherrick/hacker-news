@@ -84,6 +84,7 @@
 * [2023-09-19, 13:18:19](https://news.ycombinator.com/item?id=37569550) - [I call it the Homeless Industrial Complex](https://truthonthestreets.substack.com/p/this-is-why-i-call-it-the-homeless)
 * [2023-09-19, 13:08:52](https://news.ycombinator.com/item?id=37569424) - [For migrants under 24/7 surveillance, the UK feels like ‘an outside prison’](https://www.codastory.com/authoritarian-tech/gps-ankle-tags-uk-migrants-home-office/)
 * [2023-09-19, 12:54:09](https://news.ycombinator.com/item?id=37569258) - [Improving your online privacy: An update](https://blog.ovalerio.net/archives/2615)
+* [2023-09-19, 12:47:03](https://news.ycombinator.com/item?id=37569174) - [Toolship: A more secure workstation](https://yann.pt/posts/a-more-secure-workstation/)
 * [2023-09-19, 12:43:47](https://news.ycombinator.com/item?id=37569137) - [Evidence mounts on toxic pollution from tires](https://e360.yale.edu/features/tire-pollution-toxic-chemicals)
 * [2023-09-19, 12:25:00](https://news.ycombinator.com/item?id=37568950) - [YouTube Blocks Russell Brand from Making Money Through Its Platform](https://www.nytimes.com/2023/09/19/arts/russell-brand-youtube.html)
 * [2023-09-19, 12:21:39](https://news.ycombinator.com/item?id=37568925) - [How I limit social media](https://bille.dev/blog/how-i-limit-social-media)

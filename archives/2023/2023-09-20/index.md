@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
+* [2023-09-20, 13:59:32](https://news.ycombinator.com/item?id=37584224) - [Svelte 5: Runes](https://svelte.dev/blog/runes)
+* [2023-09-20, 13:53:31](https://news.ycombinator.com/item?id=37584134) - [Show HN: uBlock Origin filters to remove distractions](https://github.com/mig4ng/ublock-origin-filters)
+* [2023-09-20, 13:46:55](https://news.ycombinator.com/item?id=37584049) - [Show HN: ElectricSQL, Postgres to SQLite active-active sync for local-first apps](https://electric-sql.com/)
+* [2023-09-20, 13:46:06](https://news.ycombinator.com/item?id=37584038) - [British journalist held by police at Luton airport for five hours without arrest](https://www.theguardian.com/media/2023/sep/20/british-journalist-held-by-police-at-luton-airport-for-five-hours-without-arrest)
 * [2023-09-20, 13:34:28](https://news.ycombinator.com/item?id=37583924) - [UK’s Rishi Sunak considers weakening key green policies](https://www.bbc.com/news/uk-politics-66857551)
 * [2023-09-20, 13:30:04](https://news.ycombinator.com/item?id=37583875) - [Fed-up consumers are going after food companies for misleading claims](https://www.npr.org/2023/09/20/1200417169/food-company-starbucks-misleading-claims-lawsuits)
 * [2023-09-20, 12:13:09](https://news.ycombinator.com/item?id=37583219) - [Show HN: SeaGOAT – local, “AI-based” grep for semantic code search](https://github.com/kantord/SeaGOAT)
+* [2023-09-20, 12:03:42](https://news.ycombinator.com/item?id=37583136) - [Neurons in Large Language Models: Dead, N-Gram, Positional](https://arxiv.org/abs/2309.04827)
 * [2023-09-20, 12:00:53](https://news.ycombinator.com/item?id=37583116) - [Stellar Sleep (YC S23) Is Hiring a Senior/ Staff SWE in San Francisco](https://www.ycombinator.com/companies/stellar-sleep/jobs/Ubd4rCS-senior-staff-software-engineer)
 * [2023-09-20, 11:37:43](https://news.ycombinator.com/item?id=37582940) - [Rp2040 runs unmodified PalmOS 5.2.8](https://twitter.com/dmitrygr/status/1704350983877198013)
 * [2023-09-20, 10:38:17](https://news.ycombinator.com/item?id=37582565) - [Google Settles Account Settings Lawsuit Less Than One Week After Being Filed [pdf]](https://oag.ca.gov/system/files/attachments/press-docs/Filed%20stamped%20Google%20Complaint.pdf)
