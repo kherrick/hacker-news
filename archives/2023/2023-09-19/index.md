@@ -20,6 +20,7 @@
 * [2023-09-19, 21:02:11](https://news.ycombinator.com/item?id=37576580) - [Emerge (YC W21) is hiring a lead front end engineer (remote, small team)](https://www.workatastartup.com/jobs/61922/)
 * [2023-09-19, 20:47:03](https://news.ycombinator.com/item?id=37576303) - [Nushell 0.85](https://www.nushell.sh/blog/2023-09-19-nushell_0_85_0.html)
 * [2023-09-19, 20:44:46](https://news.ycombinator.com/item?id=37576259) - [The Princeton researchers calling out ‘AI snake oil’](https://www.semafor.com/article/09/15/2023/the-princeton-researchers-calling-out-ai-snake-oil)
+* [2023-09-19, 20:30:16](https://news.ycombinator.com/item?id=37576079) - [How-To Evaluate a Product Roadmap, for Engineers](https://stephen.fm/how-to-evaluate-a-product-roadmap/)
 * [2023-09-19, 20:24:08](https://news.ycombinator.com/item?id=37575997) - [Special-Use Domain Names](https://www.iana.org/assignments/special-use-domain-names/special-use-domain-names.xml)
 * [2023-09-19, 20:14:24](https://news.ycombinator.com/item?id=37575869) - [The Paradox of Control](https://every.to/no-small-plans/the-paradox-of-control)
 * [2023-09-19, 20:02:55](https://news.ycombinator.com/item?id=37575694) - [Microsoft Exec on Acquiring Nintendo](https://twitter.com/TechEmails/status/1704205212595146810)

@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
+* [2023-09-20, 23:04:28](https://news.ycombinator.com/item?id=37591242) - [Baldurs Gate 3 comes out on Mac tomorrow. I will not play it](https://kianpak.com/i-will-not-play-baldurs-gate-3/)
 * [2023-09-20, 22:25:22](https://news.ycombinator.com/item?id=37590985) - [Show HN: I built a Stable Diffusion directory of 100 best AI workflows](https://www.stableworkflows.com/)
+* [2023-09-20, 22:14:37](https://news.ycombinator.com/item?id=37590881) - [Meticulous: An FPGA-Based Main Memory Emulator for System Software Studies](https://arxiv.org/abs/2309.06565)
 * [2023-09-20, 21:40:25](https://news.ycombinator.com/item?id=37590601) - [Gnome 45 – The Gnome Foundation](https://foundation.gnome.org/2023/09/20/introducing-gnome-45/)
 * [2023-09-20, 21:35:40](https://news.ycombinator.com/item?id=37590544) - [Alameda lost tens of millions because of a fat fingering mistake](https://www.adityabaradwaj.com/part-2-the-fat-finger/)
 * [2023-09-20, 21:02:37](https://news.ycombinator.com/item?id=37590137) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
