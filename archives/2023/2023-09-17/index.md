@@ -29,6 +29,7 @@
 * [2023-09-17, 19:16:34](https://news.ycombinator.com/item?id=37548402) - [Running Linux on Xilinx / AMD FPGA Softcore Example Design](https://www.hackster.io/adam-taylor/embedded-linux-on-microblaze-1a7573)
 * [2023-09-17, 19:06:13](https://news.ycombinator.com/item?id=37548319) - [Lead Toxicity from Ayurvedic Medicines](https://www.cmaj.ca/content/195/30/E1010)
 * [2023-09-17, 18:50:05](https://news.ycombinator.com/item?id=37548176) - [What do we do with the Twitter-shaped hole in the internet?](https://chelseatroy.com/2023/09/15/what-do-we-do-with-the-twitter-shaped-hole-in-the-internet/)
+* [2023-09-17, 18:42:09](https://news.ycombinator.com/item?id=37548095) - [Show HN: A reference implementation of Turing's paper “On Computable Numbers”](https://github.com/planetlambert/turing)
 * [2023-09-17, 18:22:01](https://news.ycombinator.com/item?id=37547913) - [Show HN: Conway's Game of Chess](https://gist.github.com/elesiuta/a17d93feb3d29971c3b5abbde69d53f3)
 * [2023-09-17, 18:16:04](https://news.ycombinator.com/item?id=37547851) - [Chonky Menu Re-Creation](https://www.nathanmanousos.com/posts/chonky-menu)
 * [2023-09-17, 18:12:40](https://news.ycombinator.com/item?id=37547830) - [UK’s largest steelworks given £500M to decarbonise](https://eandt.theiet.org/content/articles/2023/09/uk-s-largest-steelworks-given-500m-to-decarbonise-but-3000-jobs-could-be-lost/)
