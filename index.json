@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-20, 14:27:03",
+      "https://news.ycombinator.com/item?id=37584578"
+    ],
+    [
+      "Cancer expert gets experimental treatment for incurable tumour,phenomenal result",
+      "https://www.abc.net.au/news/2023-09-20/melanoma-richard-scolyer-georgina-long-early-results/102879818"
+    ]
+  ],
+  [
+    [
+      "2023-09-20, 14:14:12",
+      "https://news.ycombinator.com/item?id=37584399"
+    ],
+    [
+      "Car allergic to vanilla ice cream",
+      "http://www.cs.cmu.edu/~wkw/humour/carproblems.txt"
+    ]
+  ],
+  [
+    [
       "2023-09-20, 13:59:32",
       "https://news.ycombinator.com/item?id=37584224"
     ],
@@ -47,6 +67,16 @@
     [
       "Show HN: 78% MNIST accuracy using GZIP in under 10 lines of code",
       "https://jakobs.dev/solving-mnist-with-gzip/"
+    ]
+  ],
+  [
+    [
+      "2023-09-20, 12:14:43",
+      "https://news.ycombinator.com/item?id=37583234"
+    ],
+    [
+      "Gokrazy Is Cool",
+      "https://xeiaso.net/blog/gokrazy"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2023-09-19, 21:15:56",
-      "https://news.ycombinator.com/item?id=37576816"
-    ],
-    [
-      "Smashing the state machine: the true potential of web race conditions",
-      "https://portswigger.net/research/smashing-the-state-machine"
-    ]
-  ],
-  [
-    [
       "2023-09-19, 21:05:20",
       "https://news.ycombinator.com/item?id=37576633"
     ],
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2023-09-19, 14:24:27",
-      "https://news.ycombinator.com/item?id=37570407"
-    ],
-    [
-      "Snowden leak: Cavium networking hardware may contain NSA backdoor",
-      "https://twitter.com/matthew_d_green/status/1703959863796158678"
-    ]
-  ],
-  [
-    [
       "2023-09-19, 12:47:03",
       "https://news.ycombinator.com/item?id=37569174"
     ],
     [
       "Toolship: A more secure workstation",
       "https://yann.pt/posts/a-more-secure-workstation/"
-    ]
-  ],
-  [
-    [
-      "2023-09-19, 12:13:17",
-      "https://news.ycombinator.com/item?id=37568847"
-    ],
-    [
-      "A closer look at BookCorpus, a key dataset in machine learning",
-      "https://towardsdatascience.com/dirty-secrets-of-bookcorpus-a-key-dataset-in-machine-learning-6ee2927e8650"
     ]
   ],
   [
