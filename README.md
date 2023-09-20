@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-20, 23:35:36](https://news.ycombinator.com/item?id=37591478) - [Median Household Income After Taxes Fell 8.8% in 2022](https://www.census.gov/library/stories/2023/09/median-household-income.html)
 * [2023-09-20, 22:14:37](https://news.ycombinator.com/item?id=37590881) - [Meticulous: An FPGA-Based Main Memory Emulator for System Software Studies](https://arxiv.org/abs/2309.06565)
 * [2023-09-20, 21:35:40](https://news.ycombinator.com/item?id=37590544) - [Alameda lost tens of millions because of a fat fingering mistake](https://www.adityabaradwaj.com/part-2-the-fat-finger/)
 * [2023-09-20, 19:02:43](https://news.ycombinator.com/item?id=37588526) - [Harlequin: DuckDB IDE for the terminal](https://harlequin.sh/)
@@ -25,7 +26,6 @@
 * [2023-09-20, 04:53:20](https://news.ycombinator.com/item?id=37580498) - [Health risks of travel in early-modern Britain](https://dralun.wordpress.com/2023/02/17/the-health-risks-of-travel-in-early-modern-britain/)
 * [2023-09-20, 01:23:52](https://news.ycombinator.com/item?id=37579337) - [New study disproves Leonardo da Vinci's 'rule of trees'](https://phys.org/news/2023-09-leonardo-da-vinci-trees.html)
 * [2023-09-20, 00:26:36](https://news.ycombinator.com/item?id=37578948) - [The unknowable presents, secretly encoded](https://denniscooperblog.com/the-unknowable-presents-secretly-encoded/)
-* [2023-09-20, 00:24:10](https://news.ycombinator.com/item?id=37578935) - [Marin Mersenne on the Consolation of Sad Music](https://jhiblog.org/2023/09/06/marin-mersenne-on-the-consolation-of-sad-music/)
 * [2023-09-19, 20:30:16](https://news.ycombinator.com/item?id=37576079) - [How-To Evaluate a Product Roadmap, for Engineers](https://stephen.fm/how-to-evaluate-a-product-roadmap/)
 * [2023-09-19, 16:15:36](https://news.ycombinator.com/item?id=37572145) - [Application-specific terminals](https://www.cweagans.net/2023/09/application-specific-terminals/)
 * [2023-09-18, 21:52:28](https://news.ycombinator.com/item?id=37562593) - [Tracing: Structured logging, but better](https://andydote.co.uk/2023/09/19/tracing-is-better/)

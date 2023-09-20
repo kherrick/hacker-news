@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
+* [2023-09-20, 23:35:36](https://news.ycombinator.com/item?id=37591478) - [Median Household Income After Taxes Fell 8.8% in 2022](https://www.census.gov/library/stories/2023/09/median-household-income.html)
 * [2023-09-20, 23:04:28](https://news.ycombinator.com/item?id=37591242) - [Baldurs Gate 3 comes out on Mac tomorrow. I will not play it](https://kianpak.com/i-will-not-play-baldurs-gate-3/)
 * [2023-09-20, 22:25:22](https://news.ycombinator.com/item?id=37590985) - [Show HN: I built a Stable Diffusion directory of 100 best AI workflows](https://www.stableworkflows.com/)
 * [2023-09-20, 22:14:37](https://news.ycombinator.com/item?id=37590881) - [Meticulous: An FPGA-Based Main Memory Emulator for System Software Studies](https://arxiv.org/abs/2309.06565)
