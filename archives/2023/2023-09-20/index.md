@@ -11,6 +11,7 @@
 * [2023-09-20, 16:52:18](https://news.ycombinator.com/item?id=37586580) - [XML is better than YAML](https://changelog.com/posts/xml-better-than-yaml)
 * [2023-09-20, 16:48:01](https://news.ycombinator.com/item?id=37586518) - [Expand function invocations into current scope](https://github.com/goldsborough/clang-expand)
 * [2023-09-20, 16:38:12](https://news.ycombinator.com/item?id=37586372) - [Charlie Munger: Turning $2M Into $2T](https://fs.blog/turning-2-million-into-2-trillion/)
+* [2023-09-20, 16:30:14](https://news.ycombinator.com/item?id=37586264) - [Toyota Unveils Breakthrough in Teaching Robots New Behaviors](https://www.tri.global/news/toyota-research-institute-unveils-breakthrough-teaching-robots-new-behaviors)
 * [2023-09-20, 16:26:30](https://news.ycombinator.com/item?id=37586209) - [JEP Draft: Prepare to Restrict the Use of JNI](https://openjdk.org/jeps/8307341)
 * [2023-09-20, 16:13:28](https://news.ycombinator.com/item?id=37586019) - [Bard Can Now Connect to Your Google Apps](https://artificialcorner.substack.com/p/bard-can-now-connect-to-your-google)
 * [2023-09-20, 16:02:28](https://news.ycombinator.com/item?id=37585869) - [Show HN: Booklet – Async forums as an alternative to chat](https://www.booklet.group/)
