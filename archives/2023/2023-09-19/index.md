@@ -26,6 +26,7 @@
 * [2023-09-19, 19:38:13](https://news.ycombinator.com/item?id=37575256) - [Show HN: I'm building a tool to practice numbers in Arabic](https://arabic-numbers.koljapluemer.com/)
 * [2023-09-19, 19:36:22](https://news.ycombinator.com/item?id=37575227) - [Simple Open-Source Java Virtual Machine in C](https://github.com/phillbush/jvm)
 * [2023-09-19, 19:34:09](https://news.ycombinator.com/item?id=37575204) - [Fixing for Loops in Go 1.22](https://go.dev/blog/loopvar-preview)
+* [2023-09-19, 19:31:39](https://news.ycombinator.com/item?id=37575167) - [Pink diamonds erupted to Earth’s surface after early supercontinent’s breakup](https://www.scientificamerican.com/article/pink-diamonds-erupted-to-earths-surface-after-early-supercontinents-breakup/)
 * [2023-09-19, 19:30:20](https://news.ycombinator.com/item?id=37575139) - [Contrastive Decoding Improves Reasoning in Large Language Models](https://arxiv.org/abs/2309.09117)
 * [2023-09-19, 19:30:00](https://news.ycombinator.com/item?id=37575137) - [A Hands-On Introduction to Machine Learning for non-Computer Science Majors](https://www.cambridge.org/highereducation/books/a-hands-on-introduction-to-machine-learning/3E57313A963BF7AF5C6330EB88ADAB2E)
 * [2023-09-19, 19:26:18](https://news.ycombinator.com/item?id=37575085) - [Google ad exec: “it is a worse user experience to not have ads on the page”](https://twitter.com/BigTechOnTrial/status/1704149922554016116)

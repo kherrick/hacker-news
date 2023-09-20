@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
+* [2023-09-20, 02:02:31](https://news.ycombinator.com/item?id=37579595) - [A simple web server written in Awk](https://github.com/crossbowerbt/awk-webserver)
 * [2023-09-20, 01:00:54](https://news.ycombinator.com/item?id=37579183) - [Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)](https://etleap.com/careers/software-engineer/)
 * [2023-09-20, 00:56:35](https://news.ycombinator.com/item?id=37579156) - [Which programming language is fastest? (Benchmarks Game)](https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html)
 * [2023-09-20, 00:51:11](https://news.ycombinator.com/item?id=37579118) - [Amazon Limits Authors to 3 Books a Day to Combat AI-Generated Material](https://themessenger.com/news/amazon-limits-authors-to-self-publish-3-books-a-day-to-combat-ai-generated-material)
