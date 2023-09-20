@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-09-20, 01:00:54",
+      "https://news.ycombinator.com/item?id=37579183"
+    ],
+    [
+      "Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)",
+      "https://etleap.com/careers/software-engineer/"
+    ]
+  ],
+  [
+    [
+      "2023-09-20, 00:56:35",
+      "https://news.ycombinator.com/item?id=37579156"
+    ],
+    [
+      "Which programming language is fastest? (Benchmarks Game)",
+      "https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-20, 00:13:46",
+      "https://news.ycombinator.com/item?id=37578850"
+    ],
+    [
+      "Shaving 40% Off Google’s B-Tree Implementation with Go Generics",
+      "https://www.scylladb.com/2022/04/27/shaving-40-off-googles-b-tree-implementation-with-go-generics/"
+    ]
+  ],
+  [
+    [
+      "2023-09-19, 23:41:19",
+      "https://news.ycombinator.com/item?id=37578616"
+    ],
+    [
+      "Google DeepMind's AI successor predicts how 71M mutations cause disease",
+      "https://endpts.com/google-deepminds-alphafold-successor-predicts-how-71m-mutations-cause-disease/"
+    ]
+  ],
+  [
+    [
       "2023-09-19, 23:29:16",
       "https://news.ycombinator.com/item?id=37578496"
     ],
@@ -41,16 +81,6 @@
   ],
   [
     [
-      "2023-09-19, 21:02:11",
-      "https://news.ycombinator.com/item?id=37576580"
-    ],
-    [
-      "Emerge (YC W21) is hiring a lead front end engineer (remote, small team)",
-      "https://www.workatastartup.com/jobs/61922/"
-    ]
-  ],
-  [
-    [
       "2023-09-19, 20:24:08",
       "https://news.ycombinator.com/item?id=37575997"
     ],
@@ -61,12 +91,12 @@
   ],
   [
     [
-      "2023-09-19, 19:44:52",
-      "https://news.ycombinator.com/item?id=37575377"
+      "2023-09-19, 19:47:49",
+      "https://news.ycombinator.com/item?id=37575438"
     ],
     [
-      "Circles do not exist",
-      "https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html"
+      "ReinetteII+.py, an Apple II plus emulator in Python",
+      "https://github.com/ArthurFerreira2/reinette-II-plus-dot-py"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "Apache Pinot 1.0",
       "https://pinot.apache.org/blog/2023/09/19/Annoucing-Apache-Pinot-1-0/"
-    ]
-  ],
-  [
-    [
-      "2023-09-19, 19:38:13",
-      "https://news.ycombinator.com/item?id=37575256"
-    ],
-    [
-      "Show HN: I'm building a tool to practice numbers in Arabic",
-      "https://arabic-numbers.koljapluemer.com/"
     ]
   ],
   [
@@ -121,32 +141,12 @@
   ],
   [
     [
-      "2023-09-19, 18:59:50",
-      "https://news.ycombinator.com/item?id=37574644"
-    ],
-    [
-      "Faster Sorting Beyond DeepMind’s AlphaDev",
-      "https://www.mimicry.ai/faster-sorting-beyond-deepminds-alphadev"
-    ]
-  ],
-  [
-    [
       "2023-09-19, 18:54:43",
       "https://news.ycombinator.com/item?id=37574552"
     ],
     [
       "RabbitMQ vs. Kafka – An Architect’s Dilemma (Part 1)",
       "https://eranstiller.com/rabbitmq-vs-kafka-an-architects-dilemma-part-1"
-    ]
-  ],
-  [
-    [
-      "2023-09-19, 18:35:14",
-      "https://news.ycombinator.com/item?id=37574192"
-    ],
-    [
-      "X-ray laser will ‘film’ chemical reactions in unprecedented detail",
-      "https://www.nature.com/articles/d41586-023-02874-1"
     ]
   ],
   [
