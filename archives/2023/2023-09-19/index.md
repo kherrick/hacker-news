@@ -54,6 +54,7 @@
 * [2023-09-19, 16:39:21](https://news.ycombinator.com/item?id=37572518) - [MGM losing up to $8.4M a day due to cyberattack, analyist says](https://www.reviewjournal.com/business/casinos-gaming/analyst-mgm-losing-4-2m-8-4m-a-day-because-of-cyberattack-2906379/)
 * [2023-09-19, 16:31:31](https://news.ycombinator.com/item?id=37572394) - [How many medical studies are faked or flawed?](https://web.archive.org/web/20230718112821/https://www.nature.com/articles/d41586-023-02299-w)
 * [2023-09-19, 16:19:44](https://news.ycombinator.com/item?id=37572222) - [UK Parliament passes Online Safety Bill](https://www.bbc.co.uk/news/technology-66854618)
+* [2023-09-19, 16:15:36](https://news.ycombinator.com/item?id=37572145) - [Application-specific terminals](https://www.cweagans.net/2023/09/application-specific-terminals/)
 * [2023-09-19, 16:05:07](https://news.ycombinator.com/item?id=37571974) - [Show HN: Hydra - Open-Source Columnar Postgres](https://www.hydra.so/blog-posts/hydra-1-generally-available)
 * [2023-09-19, 16:03:18](https://news.ycombinator.com/item?id=37571935) - [Why does water change the speed of electricity? [video]](https://www.youtube.com/watch?v=rQIg5XeIgQ0)
 * [2023-09-19, 16:02:11](https://news.ycombinator.com/item?id=37571919) - [Quantum Resistance and the Signal Protocol](https://signal.org/blog/pqxdh/)
