@@ -7,6 +7,7 @@
 * [2023-09-20, 19:02:43](https://news.ycombinator.com/item?id=37588526) - [Harlequin.sh DuckDB IDE for your terminal](https://harlequin.sh/)
 * [2023-09-20, 19:02:24](https://news.ycombinator.com/item?id=37588520) - [Generative AI's Act Two](https://www.sequoiacap.com/article/generative-ai-act-two/)
 * [2023-09-20, 19:00:17](https://news.ycombinator.com/item?id=37588480) - [Tesla Semi does 822 miles (1322km) in a day during runonless day 9](https://results-2023.runonless.com/truck/?day=9&depot=pepsico&truck=pepsi_tesla3&units=imperial)
+* [2023-09-20, 18:58:49](https://news.ycombinator.com/item?id=37588463) - [Meta-provided FB chats led a woman to plead guilty to abortion-related charges](https://www.theverge.com/2023/7/11/23790923/facebook-meta-woman-daughter-guilty-abortion-nebraska-messenger-encryption-privacy)
 * [2023-09-20, 18:47:36](https://news.ycombinator.com/item?id=37588286) - [Show HN: Sheet Music Management App](https://github.com/Airsequel/Airsequel-Sheet-Music)
 * [2023-09-20, 18:23:30](https://news.ycombinator.com/item?id=37587871) - [Ex-congressman convicted of insider trading before T-Mobile merger with Sprint](https://www.nbcnews.com/politics/politics-news/ex-lawmaker-convicted-insider-trading-t-mobile-merger-rcna74463)
 * [2023-09-20, 18:18:14](https://news.ycombinator.com/item?id=37587791) - [Archaeologists discover world’s oldest wooden structure](https://news.liverpool.ac.uk/2023/09/20/archaeologists-discover-worlds-oldest-wooden-structure/)
