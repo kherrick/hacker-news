@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
+* [2023-09-20, 19:59:08](https://news.ycombinator.com/item?id=37589308) - [A Future for iPhone App Stores](https://appfair.org/blog/a-future-for-app-stores.html)
 * [2023-09-20, 19:02:43](https://news.ycombinator.com/item?id=37588526) - [Harlequin.sh DuckDB IDE for your terminal](https://harlequin.sh/)
 * [2023-09-20, 19:02:24](https://news.ycombinator.com/item?id=37588520) - [Generative AI's Act Two](https://www.sequoiacap.com/article/generative-ai-act-two/)
 * [2023-09-20, 19:00:17](https://news.ycombinator.com/item?id=37588480) - [Tesla Semi does 822 miles (1322km) in a day during runonless day 9](https://results-2023.runonless.com/truck/?day=9&depot=pepsico&truck=pepsi_tesla3&units=imperial)

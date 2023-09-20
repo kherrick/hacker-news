@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-20, 19:59:08](https://news.ycombinator.com/item?id=37589308) - [A Future for iPhone App Stores](https://appfair.org/blog/a-future-for-app-stores.html)
 * [2023-09-20, 19:02:43](https://news.ycombinator.com/item?id=37588526) - [Harlequin.sh DuckDB IDE for your terminal](https://harlequin.sh/)
 * [2023-09-20, 19:02:24](https://news.ycombinator.com/item?id=37588520) - [Generative AI's Act Two](https://www.sequoiacap.com/article/generative-ai-act-two/)
 * [2023-09-20, 18:47:36](https://news.ycombinator.com/item?id=37588286) - [Show HN: Sheet Music Management App](https://github.com/Airsequel/Airsequel-Sheet-Music)
@@ -12,7 +13,6 @@
 * [2023-09-20, 16:30:14](https://news.ycombinator.com/item?id=37586264) - [Toyota Research claims breakthrough in teaching robots new behaviors](https://www.tri.global/news/toyota-research-institute-unveils-breakthrough-teaching-robots-new-behaviors)
 * [2023-09-20, 16:02:28](https://news.ycombinator.com/item?id=37585869) - [Show HN: Booklet – Async forums as an alternative to chat](https://www.booklet.group/)
 * [2023-09-20, 14:14:12](https://news.ycombinator.com/item?id=37584399) - [Car allergic to vanilla ice cream (2000)](http://www.cs.cmu.edu/~wkw/humour/carproblems.txt)
-* [2023-09-20, 13:57:27](https://news.ycombinator.com/item?id=37584184) - [Generic trait methods and new auto traits](https://without.boats/blog/generic-trait-methods-and-new-auto-traits/)
 * [2023-09-20, 13:53:31](https://news.ycombinator.com/item?id=37584134) - [My uBlock Origin filters to remove distractions](https://github.com/mig4ng/ublock-origin-filters)
 * [2023-09-20, 13:46:55](https://news.ycombinator.com/item?id=37584049) - [Show HN: ElectricSQL, Postgres to SQLite active-active sync for local-first apps](https://electric-sql.com/)
 * [2023-09-20, 13:00:35](https://news.ycombinator.com/item?id=37583593) - [78% MNIST accuracy using GZIP in under 10 lines of code](https://jakobs.dev/solving-mnist-with-gzip/)
