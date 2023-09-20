@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-18](index.md)
 
+* [2023-09-18, 23:45:24](https://news.ycombinator.com/item?id=37563785) - [Comments on Comments](https://noncombatant.org/2023/08/27/comments/)
 * [2023-09-18, 23:06:40](https://news.ycombinator.com/item?id=37563335) - [U.S. National Debt Tops $33T for First Time](https://www.nytimes.com/2023/09/18/us/politics/us-national-debt.html)
 * [2023-09-18, 22:58:14](https://news.ycombinator.com/item?id=37563276) - [Tests find many popular omega 3 supplements are rancid](https://medicalxpress.com/news/2023-09-popular-omega-supplements-rancid.html)
 * [2023-09-18, 22:52:51](https://news.ycombinator.com/item?id=37563231) - [Striking auto workers want a 40% pay increase–the same rate their CEOs’ pay grew](https://www.cnbc.com/2023/09/15/striking-uaw-auto-workers-want-a-40percent-pay-increase-how-much-they-make-now.html)
