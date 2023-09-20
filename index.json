@@ -25,28 +25,18 @@
       "https://news.ycombinator.com/item?id=37586209"
     ],
     [
-      "JEP Draft: Prepare to Restrict the Use of JNI",
+      "JEP draft: Prepare to restrict the use of JNI",
       "https://openjdk.org/jeps/8307341"
     ]
   ],
   [
     [
-      "2023-09-20, 15:45:07",
-      "https://news.ycombinator.com/item?id=37585654"
+      "2023-09-20, 16:13:28",
+      "https://news.ycombinator.com/item?id=37586019"
     ],
     [
-      "Why We're Pulling Our Recommendation of Wyze Security Cameras",
-      "https://www.nytimes.com/wirecutter/blog/wyze-security-breach/"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 15:20:27",
-      "https://news.ycombinator.com/item?id=37585333"
-    ],
-    [
-      "Streaming Databases: Everything You Wanted to Know",
-      "https://www.risingwave.com/blog/streaming-databases-everything-you-wanted-to-know/"
+      "Bard Can Now Connect to Your Google Apps",
+      "https://artificialcorner.substack.com/p/bard-can-now-connect-to-your-google"
     ]
   ],
   [
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=37584134"
     ],
     [
-      "Show HN: uBlock Origin filters to remove distractions",
+      "My uBlock Origin filters to remove distractions",
       "https://github.com/mig4ng/ublock-origin-filters"
     ]
   ],
@@ -125,7 +115,7 @@
       "https://news.ycombinator.com/item?id=37583593"
     ],
     [
-      "Show HN: 78% MNIST accuracy using GZIP in under 10 lines of code",
+      "78% MNIST accuracy using GZIP in under 10 lines of code",
       "https://jakobs.dev/solving-mnist-with-gzip/"
     ]
   ],
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=37583234"
     ],
     [
-      "Gokrazy Is Cool",
+      "Gokrazy is cool",
       "https://xeiaso.net/blog/gokrazy"
     ]
   ],
@@ -177,16 +167,6 @@
     [
       "Algorithm-assisted discovery of an intrinsic order among mathematical constants",
       "https://fermatslibrary.com/s/algorithm-assisted-discovery-of-an-intrinsic-order-among-mathematical-constants"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 07:38:01",
-      "https://news.ycombinator.com/item?id=37581485"
-    ],
-    [
-      "We have successfully completed our migration to RAM-only VPN infrastructure",
-      "https://mullvad.net/en/blog/2023/9/20/we-have-successfully-completed-our-migration-to-ram-only-vpn-infrastructure/"
     ]
   ],
   [
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2023-09-19, 04:46:06",
+      "https://news.ycombinator.com/item?id=37565688"
+    ],
+    [
+      "My trip to the Communication and Laptop Museum in Estonia",
+      "https://ounapuu.ee/posts/2023/09/19/trip-to-communication-laptop-museum/"
+    ]
+  ],
+  [
+    [
       "2023-09-18, 21:52:28",
       "https://news.ycombinator.com/item?id=37562593"
     ],
@@ -297,6 +287,16 @@
     [
       "Leveraging Rust in our Java database",
       "https://questdb.io/blog/leveraging-rust-in-our-high-performance-java-database/"
+    ]
+  ],
+  [
+    [
+      "2023-09-17, 23:41:29",
+      "https://news.ycombinator.com/item?id=37550493"
+    ],
+    [
+      "Boundaries of Predictability",
+      "https://azeemba.com/posts/boundaries-of-predictability.html"
     ]
   ]
 ]
