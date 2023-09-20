@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2023-09-20, 01:23:52",
+      "https://news.ycombinator.com/item?id=37579337"
+    ],
+    [
+      "New study disproves Leonardo da Vinci's 'rule of trees'",
+      "https://phys.org/news/2023-09-leonardo-da-vinci-trees.html"
+    ]
+  ],
+  [
+    [
       "2023-09-20, 00:26:36",
       "https://news.ycombinator.com/item?id=37578948"
     ],
@@ -287,16 +297,6 @@
     [
       "Exploring the Halo 1 System Link Protocol",
       "https://hllmn.net/blog/2023-09-18_h1x-net/"
-    ]
-  ],
-  [
-    [
-      "2023-09-18, 15:50:39",
-      "https://news.ycombinator.com/item?id=37557880"
-    ],
-    [
-      "Leveraging Rust in our Java database",
-      "https://questdb.io/blog/leveraging-rust-in-our-high-performance-java-database/"
     ]
   ]
 ]
