@@ -2,9 +2,9 @@
 
 * [2023-09-20, 02:02:31](https://news.ycombinator.com/item?id=37579595) - [A simple web server written in Awk](https://github.com/crossbowerbt/awk-webserver)
 * [2023-09-20, 01:00:54](https://news.ycombinator.com/item?id=37579183) - [Etleap (YC W13) Is Hiring a Software Engineer (London – OR – San Francisco)](https://etleap.com/careers/software-engineer/)
+* [2023-09-20, 00:51:11](https://news.ycombinator.com/item?id=37579118) - [Amazon limits authors to 3 books a day to combat AI-generated material](https://themessenger.com/news/amazon-limits-authors-to-self-publish-3-books-a-day-to-combat-ai-generated-material)
 * [2023-09-20, 00:13:46](https://news.ycombinator.com/item?id=37578850) - [Shaving 40% Off Google’s B-Tree Implementation with Go Generics (2022)](https://www.scylladb.com/2022/04/27/shaving-40-off-googles-b-tree-implementation-with-go-generics/)
-* [2023-09-19, 23:41:19](https://news.ycombinator.com/item?id=37578616) - [Google DeepMind's AI successor predicts how 71M mutations cause disease](https://endpts.com/google-deepminds-alphafold-successor-predicts-how-71m-mutations-cause-disease/)
-* [2023-09-19, 22:29:01](https://news.ycombinator.com/item?id=37577866) - [The AI Explosion Might Never Happen](https://amistrongeryet.substack.com/p/recursive-self-improvement-foom)
+* [2023-09-19, 22:29:01](https://news.ycombinator.com/item?id=37577866) - [The AI explosion might never happen](https://amistrongeryet.substack.com/p/recursive-self-improvement-foom)
 * [2023-09-19, 22:28:19](https://news.ycombinator.com/item?id=37577861) - [Webring Technology](https://brisray.com/web/webring-tech.htm)
 * [2023-09-19, 21:52:12](https://news.ycombinator.com/item?id=37577354) - [A small community of unofficial Apple technicians in Cuba](https://restofworld.org/2023/underground-apple-techs-cuba/)
 * [2023-09-19, 21:05:20](https://news.ycombinator.com/item?id=37576633) - [Can’t send email more than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
@@ -14,7 +14,6 @@
 * [2023-09-19, 19:36:22](https://news.ycombinator.com/item?id=37575227) - [Simple Open-Source Java Virtual Machine in C](https://github.com/phillbush/jvm)
 * [2023-09-19, 19:34:09](https://news.ycombinator.com/item?id=37575204) - [Fixing for loops in Go 1.22](https://go.dev/blog/loopvar-preview)
 * [2023-09-19, 19:31:39](https://news.ycombinator.com/item?id=37575167) - [Pink diamonds erupted to Earth’s surface after early supercontinent’s breakup](https://www.scientificamerican.com/article/pink-diamonds-erupted-to-earths-surface-after-early-supercontinents-breakup/)
-* [2023-09-19, 19:30:00](https://news.ycombinator.com/item?id=37575137) - [A Hands-On Introduction to Machine Learning for non-Computer Science Majors](https://www.cambridge.org/highereducation/books/a-hands-on-introduction-to-machine-learning/3E57313A963BF7AF5C6330EB88ADAB2E)
 * [2023-09-19, 18:54:43](https://news.ycombinator.com/item?id=37574552) - [RabbitMQ vs. Kafka – An Architect’s Dilemma (Part 1)](https://eranstiller.com/rabbitmq-vs-kafka-an-architects-dilemma-part-1)
 * [2023-09-19, 18:16:59](https://news.ycombinator.com/item?id=37573948) - [Agentscript: Agent Based Modeling in the Browser](https://agentscript.org/)
 * [2023-09-19, 17:12:36](https://news.ycombinator.com/item?id=37573045) - [How do shared library collisions break? (2022)](https://trofi.github.io/posts/248-how-do-shared-library-collisions-break.html)
@@ -29,6 +28,7 @@
 * [2023-09-19, 11:41:47](https://news.ycombinator.com/item?id=37568554) - [Headsets Delayed into 2024](https://simulavr.com/blog/headsets-delayed/)
 * [2023-09-19, 11:19:10](https://news.ycombinator.com/item?id=37568350) - [Lies my calculator and computer told me (1987) [pdf]](https://www.stewartcalculus.com/data/default/upfiles/LiesCalcAndCompTold.pdf)
 * [2023-09-19, 11:12:06](https://news.ycombinator.com/item?id=37568278) - [VCMI: Open-Source Engine for Heroes of Might and Magic III](https://vcmi.eu)
+* [2023-09-19, 09:44:26](https://news.ycombinator.com/item?id=37567504) - [Permazen: Language-natural persistence to KV stores](https://permazen.io/)
 * [2023-09-17, 18:16:04](https://news.ycombinator.com/item?id=37547851) - [Chonky Menu Re-Creation](https://www.nathanmanousos.com/posts/chonky-menu)
 
 ## [Archives](archives/index.md)
