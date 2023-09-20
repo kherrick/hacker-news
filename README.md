@@ -13,6 +13,7 @@
 * [2023-09-20, 16:30:14](https://news.ycombinator.com/item?id=37586264) - [Toyota Research claims breakthrough in teaching robots new behaviors](https://www.tri.global/news/toyota-research-institute-unveils-breakthrough-teaching-robots-new-behaviors)
 * [2023-09-20, 16:02:28](https://news.ycombinator.com/item?id=37585869) - [Show HN: Booklet – Async forums as an alternative to chat](https://www.booklet.group/)
 * [2023-09-20, 14:14:12](https://news.ycombinator.com/item?id=37584399) - [Car allergic to vanilla ice cream (2000)](http://www.cs.cmu.edu/~wkw/humour/carproblems.txt)
+* [2023-09-20, 13:57:27](https://news.ycombinator.com/item?id=37584184) - [Generic trait methods and new auto traits](https://without.boats/blog/generic-trait-methods-and-new-auto-traits/)
 * [2023-09-20, 13:53:31](https://news.ycombinator.com/item?id=37584134) - [My uBlock Origin filters to remove distractions](https://github.com/mig4ng/ublock-origin-filters)
 * [2023-09-20, 13:46:55](https://news.ycombinator.com/item?id=37584049) - [Show HN: ElectricSQL, Postgres to SQLite active-active sync for local-first apps](https://electric-sql.com/)
 * [2023-09-20, 13:00:35](https://news.ycombinator.com/item?id=37583593) - [78% MNIST accuracy using GZIP in under 10 lines of code](https://jakobs.dev/solving-mnist-with-gzip/)
@@ -27,7 +28,6 @@
 * [2023-09-19, 16:15:36](https://news.ycombinator.com/item?id=37572145) - [Application-specific terminals](https://www.cweagans.net/2023/09/application-specific-terminals/)
 * [2023-09-19, 12:13:17](https://news.ycombinator.com/item?id=37568847) - [A closer look at BookCorpus, a key dataset in machine learning](https://towardsdatascience.com/dirty-secrets-of-bookcorpus-a-key-dataset-in-machine-learning-6ee2927e8650)
 * [2023-09-18, 21:52:28](https://news.ycombinator.com/item?id=37562593) - [Tracing: Structured logging, but better](https://andydote.co.uk/2023/09/19/tracing-is-better/)
-* [2023-09-18, 18:25:52](https://news.ycombinator.com/item?id=37559996) - [What will LLM-powered software look like in the medium-term future?](https://vishnumenon.com/lightrail/2023/09/17/AI-Interfaces.html)
 * [2023-09-18, 17:53:05](https://news.ycombinator.com/item?id=37559499) - [Exploring the Halo 1 System Link Protocol](https://hllmn.net/blog/2023-09-18_h1x-net/)
 * [2023-09-18, 15:50:39](https://news.ycombinator.com/item?id=37557880) - [Leveraging Rust in our Java database](https://questdb.io/blog/leveraging-rust-in-our-high-performance-java-database/)
 
