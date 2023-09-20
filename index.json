@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2023-09-19, 19:49:26",
-      "https://news.ycombinator.com/item?id=37575467"
-    ],
-    [
-      "Programming is hard",
-      "https://myme.no/posts/2023-09-19-programming-is-hard.html"
-    ]
-  ],
-  [
-    [
       "2023-09-19, 19:34:09",
       "https://news.ycombinator.com/item?id=37575204"
     ],
@@ -247,6 +237,16 @@
     [
       "Stability without stressing out",
       "https://smallcultfollowing.com/babysteps/blog/2023/09/18/stability-without-stressing-the-out/"
+    ]
+  ],
+  [
+    [
+      "2023-09-19, 09:44:26",
+      "https://news.ycombinator.com/item?id=37567504"
+    ],
+    [
+      "Permazen: a different persistence layer for Java",
+      "https://github.com/permazen/permazen"
     ]
   ],
   [
