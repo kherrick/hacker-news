@@ -10,6 +10,8 @@
 * [2023-09-20, 13:46:06](https://news.ycombinator.com/item?id=37584038) - [British journalist held by police at Luton airport for five hours without arrest](https://www.theguardian.com/media/2023/sep/20/british-journalist-held-by-police-at-luton-airport-for-five-hours-without-arrest)
 * [2023-09-20, 13:34:28](https://news.ycombinator.com/item?id=37583924) - [UK’s Rishi Sunak considers weakening key green policies](https://www.bbc.com/news/uk-politics-66857551)
 * [2023-09-20, 13:30:04](https://news.ycombinator.com/item?id=37583875) - [Fed-up consumers are going after food companies for misleading claims](https://www.npr.org/2023/09/20/1200417169/food-company-starbucks-misleading-claims-lawsuits)
+* [2023-09-20, 13:26:05](https://news.ycombinator.com/item?id=37583832) - [BlackRock Conquered the World – The Corbett Report](https://www.corbettreport.com/blackrock/)
+* [2023-09-20, 13:00:35](https://news.ycombinator.com/item?id=37583593) - [Show HN: 78% MNIST accuracy using GZIP in under 10 lines of code](https://jakobs.dev/solving-mnist-with-gzip/)
 * [2023-09-20, 12:13:09](https://news.ycombinator.com/item?id=37583219) - [Show HN: SeaGOAT – local, “AI-based” grep for semantic code search](https://github.com/kantord/SeaGOAT)
 * [2023-09-20, 12:03:42](https://news.ycombinator.com/item?id=37583136) - [Neurons in Large Language Models: Dead, N-Gram, Positional](https://arxiv.org/abs/2309.04827)
 * [2023-09-20, 12:00:53](https://news.ycombinator.com/item?id=37583116) - [Stellar Sleep (YC S23) Is Hiring a Senior/ Staff SWE in San Francisco](https://www.ycombinator.com/companies/stellar-sleep/jobs/Ubd4rCS-senior-staff-software-engineer)
