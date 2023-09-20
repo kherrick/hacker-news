@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 23:41:19](https://news.ycombinator.com/item?id=37578616) - [Google DeepMind's AI successor predicts how 71M mutations cause disease](https://endpts.com/google-deepminds-alphafold-successor-predicts-how-71m-mutations-cause-disease/)
 * [2023-09-19, 23:29:16](https://news.ycombinator.com/item?id=37578496) - [Writing Is Objectively Superior to Speaking as a Communication Method (2020)](https://koshka.love/babel/writing-superior-to-speaking.html)
 * [2023-09-19, 23:08:04](https://news.ycombinator.com/item?id=37578326) - [AI emits less CO2 when writing and illustrating than humans](https://arxiv.org/abs/2303.06219)
 * [2023-09-19, 22:28:19](https://news.ycombinator.com/item?id=37577861) - [Webring Technology](https://brisray.com/web/webring-tech.htm)
@@ -17,6 +18,7 @@
 * [2023-09-19, 20:44:46](https://news.ycombinator.com/item?id=37576259) - [The Princeton researchers calling out ‘AI snake oil’](https://www.semafor.com/article/09/15/2023/the-princeton-researchers-calling-out-ai-snake-oil)
 * [2023-09-19, 20:24:08](https://news.ycombinator.com/item?id=37575997) - [Special-Use Domain Names](https://www.iana.org/assignments/special-use-domain-names/special-use-domain-names.xml)
 * [2023-09-19, 20:02:55](https://news.ycombinator.com/item?id=37575694) - [Microsoft Exec on Acquiring Nintendo](https://twitter.com/TechEmails/status/1704205212595146810)
+* [2023-09-19, 19:47:49](https://news.ycombinator.com/item?id=37575438) - [ReinetteII+.py, an Apple II plus emulator in Python](https://github.com/ArthurFerreira2/reinette-II-plus-dot-py)
 * [2023-09-19, 19:44:52](https://news.ycombinator.com/item?id=37575377) - [Circles Do Not Exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
 * [2023-09-19, 19:44:11](https://news.ycombinator.com/item?id=37575365) - [Apache Pinot 1.0](https://pinot.apache.org/blog/2023/09/19/Annoucing-Apache-Pinot-1-0/)
 * [2023-09-19, 19:41:17](https://news.ycombinator.com/item?id=37575318) - [Migrating from Unity to Other Game Engines](https://www.applovin.com/blog/migrating-from-unity-to-other-game-engines/)
