@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-20, 02:02:31",
+      "https://news.ycombinator.com/item?id=37579595"
+    ],
+    [
+      "A simple web server written in Awk",
+      "https://github.com/crossbowerbt/awk-webserver"
+    ]
+  ],
+  [
+    [
       "2023-09-20, 01:00:54",
       "https://news.ycombinator.com/item?id=37579183"
     ],
@@ -11,21 +21,11 @@
   ],
   [
     [
-      "2023-09-20, 00:51:11",
-      "https://news.ycombinator.com/item?id=37579118"
-    ],
-    [
-      "Amazon Limits Authors to 3 Books a Day to Combat AI-Generated Material",
-      "https://themessenger.com/news/amazon-limits-authors-to-self-publish-3-books-a-day-to-combat-ai-generated-material"
-    ]
-  ],
-  [
-    [
       "2023-09-20, 00:13:46",
       "https://news.ycombinator.com/item?id=37578850"
     ],
     [
-      "Shaving 40% Off Google’s B-Tree Implementation with Go Generics",
+      "Shaving 40% Off Google’s B-Tree Implementation with Go Generics (2022)",
       "https://www.scylladb.com/2022/04/27/shaving-40-off-googles-b-tree-implementation-with-go-generics/"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=37577354"
     ],
     [
-      "The Genius Bar in a country where iPhones can’t legally be sold",
+      "A small community of unofficial Apple technicians in Cuba",
       "https://restofworld.org/2023/underground-apple-techs-cuba/"
     ]
   ],
@@ -127,6 +127,16 @@
     [
       "Fixing for loops in Go 1.22",
       "https://go.dev/blog/loopvar-preview"
+    ]
+  ],
+  [
+    [
+      "2023-09-19, 19:31:39",
+      "https://news.ycombinator.com/item?id=37575167"
+    ],
+    [
+      "Pink diamonds erupted to Earth’s surface after early supercontinent’s breakup",
+      "https://www.scientificamerican.com/article/pink-diamonds-erupted-to-earths-surface-after-early-supercontinents-breakup/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Graph Neural Networks use graphs when they shouldn't",
       "https://arxiv.org/abs/2309.04332"
-    ]
-  ],
-  [
-    [
-      "2023-09-19, 15:04:49",
-      "https://news.ycombinator.com/item?id=37570947"
-    ],
-    [
-      "Always Bump Downwards (2019)",
-      "https://fitzgeraldnick.com/2019/11/01/always-bump-downwards.html"
     ]
   ],
   [
