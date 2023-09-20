@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
+* [2023-09-20, 08:17:21](https://news.ycombinator.com/item?id=37581738) - [Mull Browser Includes Trackers](https://forum.cktn.de/t/mull-browser-includes-trackers/3880)
 * [2023-09-20, 07:15:10](https://news.ycombinator.com/item?id=37581316) - [‘Less than half’ fresh produce sold globally makes any profit](https://www.fruitnet.com/main-navigation/less-than-half-fresh-produce-sold-globally-makes-any-profit/256025.article)
 * [2023-09-20, 06:44:42](https://news.ycombinator.com/item?id=37581132) - [OpenTF renames itself to OpenTofu](https://github.com/opentofu)
 * [2023-09-20, 05:43:24](https://news.ycombinator.com/item?id=37580757) - [SillycoValley: Write Code, Build Your Startup](https://sillycovalley.com/?myscore)
