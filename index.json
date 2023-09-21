@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-09-21, 07:07:14",
-      "https://news.ycombinator.com/item?id=37594143"
-    ],
-    [
-      "Spider silk spun by silkworms for first time, alternative to synthetic fibers",
-      "https://phys.org/news/2023-09-spider-silk-spun-silkworms-green.html"
-    ]
-  ],
-  [
-    [
       "2023-09-21, 06:37:03",
       "https://news.ycombinator.com/item?id=37593950"
     ],
@@ -31,26 +21,6 @@
   ],
   [
     [
-      "2023-09-21, 04:13:29",
-      "https://news.ycombinator.com/item?id=37593143"
-    ],
-    [
-      "GNU Turns 40",
-      "https://www.theregister.com/2023/09/20/gnu_turns_40/"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 04:11:49",
-      "https://news.ycombinator.com/item?id=37593133"
-    ],
-    [
-      "Terraria developer bashes Unity, donates $200k to open source alternatives",
-      "https://lemm.ee/post/8670706"
-    ]
-  ],
-  [
-    [
       "2023-09-21, 03:35:43",
       "https://news.ycombinator.com/item?id=37592934"
     ],
@@ -65,7 +35,7 @@
       "https://news.ycombinator.com/item?id=37592801"
     ],
     [
-      "NASA’s New Shortcut to Fusion Power",
+      "NASA’s New Shortcut to Fusion Power (2022)",
       "https://spectrum.ieee.org/lattice-confinement-fusion"
     ]
   ],
@@ -241,6 +211,16 @@
   ],
   [
     [
+      "2023-09-20, 13:00:35",
+      "https://news.ycombinator.com/item?id=37583593"
+    ],
+    [
+      "78% MNIST accuracy using GZIP in under 10 lines of code",
+      "https://jakobs.dev/solving-mnist-with-gzip/"
+    ]
+  ],
+  [
+    [
       "2023-09-20, 10:48:36",
       "https://news.ycombinator.com/item?id=37582632"
     ],
@@ -255,7 +235,7 @@
       "https://news.ycombinator.com/item?id=37581646"
     ],
     [
-      "Your cache headers could probably be more aggressive",
+      "Cache headers could probably be more aggressive",
       "https://www.macarthur.me/posts/more-aggressive-cache-headers"
     ]
   ],
@@ -265,8 +245,18 @@
       "https://news.ycombinator.com/item?id=37580981"
     ],
     [
-      "Grouping Digits in SQL",
+      "Grouping digits in SQL",
       "http://peter.eisentraut.org/blog/2023/09/20/grouping-digits-in-sql"
+    ]
+  ],
+  [
+    [
+      "2023-09-20, 05:06:38",
+      "https://news.ycombinator.com/item?id=37580556"
+    ],
+    [
+      "Insect pests and radiation: SIT, inherited sterility, biological control",
+      "https://www.iaea.org/newscenter/news/how-to-control-insect-pests-using-radiation"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Health risks of travel in early-modern Britain",
       "https://dralun.wordpress.com/2023/02/17/the-health-risks-of-travel-in-early-modern-britain/"
+    ]
+  ],
+  [
+    [
+      "2023-09-20, 01:23:52",
+      "https://news.ycombinator.com/item?id=37579337"
+    ],
+    [
+      "New study disproves Leonardo da Vinci's 'rule of trees'",
+      "https://phys.org/news/2023-09-leonardo-da-vinci-trees.html"
     ]
   ],
   [
