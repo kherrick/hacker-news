@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-09-21, 07:56:14",
+      "https://news.ycombinator.com/item?id=37594525"
+    ],
+    [
+      "Erlang/OTP 26.1 Released",
+      "https://erlangforums.com/t/erlang-otp-26-1-released/2886"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 07:48:23",
       "https://news.ycombinator.com/item?id=37594461"
     ],
     [
       "Ask HN: I'm a SWE without a CS degree. Will online certs help me get into FAANG?",
       "https://news.ycombinator.com/item?id=37594461"
+    ]
+  ],
+  [
+    [
+      "2023-09-21, 07:36:31",
+      "https://news.ycombinator.com/item?id=37594365"
+    ],
+    [
+      "OpenBSD/ARM64 on Hetzner Cloud",
+      "https://www.undeadly.org/cgi?action=article;sid=20230921073556"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-09-20, 16:52:18",
-      "https://news.ycombinator.com/item?id=37586580"
-    ],
-    [
-      "XML is better than YAML – Hear me out",
-      "https://changelog.com/posts/xml-better-than-yaml"
-    ]
-  ],
-  [
-    [
       "2023-09-20, 16:48:01",
       "https://news.ycombinator.com/item?id=37586518"
     ],
@@ -207,16 +217,6 @@
     [
       "Show HN: ElectricSQL, Postgres to SQLite active-active sync for local-first apps",
       "https://electric-sql.com/"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 13:00:35",
-      "https://news.ycombinator.com/item?id=37583593"
-    ],
-    [
-      "78% MNIST accuracy using GZIP in under 10 lines of code",
-      "https://jakobs.dev/solving-mnist-with-gzip/"
     ]
   ],
   [
