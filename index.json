@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-21, 06:37:03",
+      "https://news.ycombinator.com/item?id=37593950"
+    ],
+    [
+      "Tesla buys German railway line, now hosting passenger trains",
+      "https://www.trains.com/trn/news-reviews/news-wire/tesla-buys-german-railway-line-plans-passenger-trains-2/"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 05:15:25",
       "https://news.ycombinator.com/item?id=37593459"
     ],
@@ -217,16 +227,6 @@
     [
       "Show HN: ElectricSQL, Postgres to SQLite active-active sync for local-first apps",
       "https://electric-sql.com/"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 13:00:35",
-      "https://news.ycombinator.com/item?id=37583593"
-    ],
-    [
-      "78% MNIST accuracy using GZIP in under 10 lines of code",
-      "https://jakobs.dev/solving-mnist-with-gzip/"
     ]
   ],
   [
