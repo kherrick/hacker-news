@@ -1,32 +1,22 @@
 [
   [
     [
+      "2023-09-21, 01:37:50",
+      "https://news.ycombinator.com/item?id=37592292"
+    ],
+    [
+      "ChatGPT and DALL-E 3 [video]",
+      "https://twitter.com/sama/status/1704561613070893428"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 00:00:28",
       "https://news.ycombinator.com/item?id=37591652"
     ],
     [
       "Terry Tao's generals",
       "https://web.math.princeton.edu/generals/tao_terence"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 23:47:01",
-      "https://news.ycombinator.com/item?id=37591567"
-    ],
-    [
-      "Show HN: A website that gives voice to unfulfilled customer needs",
-      "https://www.iwantthisstartup.com"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 23:35:36",
-      "https://news.ycombinator.com/item?id=37591478"
-    ],
-    [
-      "Median Household Income After Taxes Fell 8.8% in 2022",
-      "https://www.census.gov/library/stories/2023/09/median-household-income.html"
     ]
   ],
   [
@@ -47,16 +37,6 @@
     [
       "Meticulous: An FPGA-Based Main Memory Emulator for System Software Studies",
       "https://arxiv.org/abs/2309.06565"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 22:02:04",
-      "https://news.ycombinator.com/item?id=37590790"
-    ],
-    [
-      "OpenTofu",
-      "https://opentofu.org/"
     ]
   ],
   [
@@ -131,6 +111,16 @@
   ],
   [
     [
+      "2023-09-20, 17:29:20",
+      "https://news.ycombinator.com/item?id=37587043"
+    ],
+    [
+      "Monitor bandwidth usage with bandwhich (and build a snap package of it)",
+      "https://popey.com/blog/2023/09/monitor-bandwidth-usage-with-bandwhich/"
+    ]
+  ],
+  [
+    [
       "2023-09-20, 17:01:14",
       "https://news.ycombinator.com/item?id=37586681"
     ],
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=37586580"
     ],
     [
-      "XML is better than YAML",
+      "XML is better than YAML – Hear me out",
       "https://changelog.com/posts/xml-better-than-yaml"
     ]
   ],
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2023-09-20, 12:03:42",
+      "https://news.ycombinator.com/item?id=37583136"
+    ],
+    [
+      "Neurons in Large Language Models: Dead, N-Gram, Positional",
+      "https://arxiv.org/abs/2309.04827"
+    ]
+  ],
+  [
+    [
       "2023-09-20, 05:06:38",
       "https://news.ycombinator.com/item?id=37580556"
     ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=37576079"
     ],
     [
-      "How-To Evaluate a Product Roadmap, for Engineers",
+      "How to evaluate a product roadmap, for engineers",
       "https://stephen.fm/how-to-evaluate-a-product-roadmap/"
     ]
   ],
