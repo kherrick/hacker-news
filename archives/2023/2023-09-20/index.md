@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
+* [2023-09-20, 23:47:01](https://news.ycombinator.com/item?id=37591567) - [Show HN: A website that gives voice to unfulfilled customer needs](https://www.iwantthisstartup.com)
 * [2023-09-20, 23:35:36](https://news.ycombinator.com/item?id=37591478) - [Median Household Income After Taxes Fell 8.8% in 2022](https://www.census.gov/library/stories/2023/09/median-household-income.html)
 * [2023-09-20, 23:04:28](https://news.ycombinator.com/item?id=37591242) - [Baldurs Gate 3 comes out on Mac tomorrow. I will not play it](https://kianpak.com/i-will-not-play-baldurs-gate-3/)
+* [2023-09-20, 22:36:20](https://news.ycombinator.com/item?id=37591050) - [Linux gives up on 6-year LTS kernels, says they’re too much work](https://arstechnica.com/gadgets/2023/09/linux-gives-up-on-6-year-lts-thats-fine-for-pcs-bad-for-android/)
 * [2023-09-20, 22:25:22](https://news.ycombinator.com/item?id=37590985) - [Show HN: I built a Stable Diffusion directory of 100 best AI workflows](https://www.stableworkflows.com/)
 * [2023-09-20, 22:14:37](https://news.ycombinator.com/item?id=37590881) - [Meticulous: An FPGA-Based Main Memory Emulator for System Software Studies](https://arxiv.org/abs/2309.06565)
 * [2023-09-20, 22:02:04](https://news.ycombinator.com/item?id=37590790) - [OpenTofu](https://opentofu.org/)
@@ -24,6 +26,7 @@
 * [2023-09-20, 18:18:14](https://news.ycombinator.com/item?id=37587791) - [Archaeologists discover world’s oldest wooden structure](https://news.liverpool.ac.uk/2023/09/20/archaeologists-discover-worlds-oldest-wooden-structure/)
 * [2023-09-20, 18:00:48](https://news.ycombinator.com/item?id=37587510) - [Car showed pop-up while driving](https://glitterkitten.co.uk/@ellavescent/111091652921668380)
 * [2023-09-20, 18:00:26](https://news.ycombinator.com/item?id=37587506) - [Strada - Create fully native controls, driven by your web app.](https://strada.hotwired.dev/)
+* [2023-09-20, 17:42:24](https://news.ycombinator.com/item?id=37587233) - [Fine-grained caching strategies of dynamic queries](https://jensrantil.github.io/posts/fast-aggregate-queries-on-dynamic-data/)
 * [2023-09-20, 17:29:20](https://news.ycombinator.com/item?id=37587043) - [Monitor bandwidth usage with bandwhich (and build a snap package of it)](https://popey.com/blog/2023/09/monitor-bandwidth-usage-with-bandwhich/)
 * [2023-09-20, 17:22:04](https://news.ycombinator.com/item?id=37586942) - [Boys and Men in the United States Are Struggling. The Left Should Talk About It](https://jacobin.com/2023/09/boys-men-work-despair-struggling-wages-education/)
 * [2023-09-20, 17:18:13](https://news.ycombinator.com/item?id=37586900) - [DALL·E 3](https://openai.com/dall-e-3)
