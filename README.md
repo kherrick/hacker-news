@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-21, 03:35:43](https://news.ycombinator.com/item?id=37592934) - [How Equifax Was Breached in 2017](https://blog.0x7d0.dev/history/how-equifax-was-breached-in-2017/)
 * [2023-09-21, 02:54:09](https://news.ycombinator.com/item?id=37592712) - [Organic Maps: An Open-Source Maps App That Doesn't Suck](https://hardfault.life/p/organic-maps-review)
 * [2023-09-21, 02:51:08](https://news.ycombinator.com/item?id=37592699) - [The UK Parliament Undermined the Privacy, Security, and Freedom of All Internet](https://www.eff.org/deeplinks/2023/09/today-uk-parliament-undermined-privacy-security-and-freedom-all-internet-users)
 * [2023-09-21, 02:28:05](https://news.ycombinator.com/item?id=37592590) - [My fast JSON library in Go is now even faster and safer](https://github.com/sugawarayuuta/sonnet)
@@ -24,7 +25,6 @@
 * [2023-09-20, 13:00:35](https://news.ycombinator.com/item?id=37583593) - [78% MNIST accuracy using GZIP in under 10 lines of code](https://jakobs.dev/solving-mnist-with-gzip/)
 * [2023-09-20, 10:48:36](https://news.ycombinator.com/item?id=37582632) - [Introduction to Linux interfaces for virtual networking (2018)](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking)
 * [2023-09-20, 05:15:42](https://news.ycombinator.com/item?id=37580599) - [Creating a fake Indian cricket league](https://www.si.com/betting/2023/09/15/fake-indian-cricket-league-daily-cover)
-* [2023-09-20, 05:06:38](https://news.ycombinator.com/item?id=37580556) - [Insect pests and radiation: SIT, inherited sterility, biological control](https://www.iaea.org/newscenter/news/how-to-control-insect-pests-using-radiation)
 * [2023-09-20, 04:53:20](https://news.ycombinator.com/item?id=37580498) - [Health risks of travel in early-modern Britain](https://dralun.wordpress.com/2023/02/17/the-health-risks-of-travel-in-early-modern-britain/)
 * [2023-09-20, 01:23:52](https://news.ycombinator.com/item?id=37579337) - [New study disproves Leonardo da Vinci's 'rule of trees'](https://phys.org/news/2023-09-leonardo-da-vinci-trees.html)
 * [2023-09-19, 20:30:16](https://news.ycombinator.com/item?id=37576079) - [How to evaluate a product roadmap, for engineers](https://stephen.fm/how-to-evaluate-a-product-roadmap/)
