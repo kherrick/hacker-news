@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-21, 20:09:31](https://news.ycombinator.com/item?id=37603554) - [The customer stuck due to a hurricane who needed SSH](https://rachelbythebay.com/w/2023/09/21/hurricane/)
+* [2023-09-21, 20:09:31](https://news.ycombinator.com/item?id=37603554) - [A customer stuck due to a hurricane who needed SSH](https://rachelbythebay.com/w/2023/09/21/hurricane/)
 * [2023-09-21, 19:56:21](https://news.ycombinator.com/item?id=37603331) - [LabelContactRelationYoungerCousinMothersSiblingsDaughterOrFathersSistersDaughter](https://developer.apple.com/documentation/contacts/cnlabelcontactrelationyoungercousinmotherssiblingsdaughterorfatherssistersdaughter)
 * [2023-09-21, 19:31:24](https://news.ycombinator.com/item?id=37602923) - [Speeding up the JavaScript ecosystem – Polyfills gone rogue](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-6/)
+* [2023-09-21, 19:24:14](https://news.ycombinator.com/item?id=37602798) - [How do databases execute expressions?](https://notes.eatonphil.com/2023-09-21-how-do-databases-execute-expressions.html)
 * [2023-09-21, 18:52:54](https://news.ycombinator.com/item?id=37602239) - [NASA’s Webb finds carbon source on surface of Jupiter’s moon Europa](https://webbtelescope.org/contents/news-releases/2023/news-2023-113)
 * [2023-09-21, 18:28:52](https://news.ycombinator.com/item?id=37601865) - [React Server Components made our site a lot faster](https://frigade.com/blog/bundle-size-reduction-with-rsc-and-frigade)
 * [2023-09-21, 18:06:27](https://news.ycombinator.com/item?id=37601526) - [Developmental costs associated with early maternal withdrawal (2022)](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdep.12442)
@@ -29,7 +30,6 @@
 * [2023-09-20, 16:32:06](https://news.ycombinator.com/item?id=37586285) - [Guide to searching and annotating text on maps](https://machines-reading-maps.github.io/rumsey/)
 * [2023-09-20, 12:04:56](https://news.ycombinator.com/item?id=37583147) - [MongoDB’s new query engine](https://laplab.me/posts/inside-new-query-engine-of-mongodb/)
 * [2023-09-20, 06:46:48](https://news.ycombinator.com/item?id=37581145) - [CERN swaps out databases to feed its petabyte-a-day habit](https://www.theregister.com/2023/09/18/lhc_infrastructure_monitoring/)
-* [2023-09-19, 15:00:40](https://news.ycombinator.com/item?id=37570889) - [Intel Xeon Max 9480 Deep-Dive 64GB HBM2e Onboard Like a GPU or AI Accelerator](https://www.servethehome.com/intel-xeon-max-9480-deep-dive-intel-has-64gb-hbm2e-onboard-like-a-gpu-or-ai-accelerator/)
 
 ## [Archives](archives/index.md)
 
