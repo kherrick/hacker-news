@@ -2,6 +2,7 @@
 
 * [2023-09-21, 05:15:25](https://news.ycombinator.com/item?id=37593459) - [Install Windows the Arch Linux Way](https://christitus.com/install-windows-the-arch-linux-way/)
 * [2023-09-21, 04:13:29](https://news.ycombinator.com/item?id=37593143) - [GNU Turns 40](https://www.theregister.com/2023/09/20/gnu_turns_40/)
+* [2023-09-21, 04:11:49](https://news.ycombinator.com/item?id=37593133) - [Terraria developer bashes Unity, donates $200k to open source alternatives](https://lemm.ee/post/8670706)
 * [2023-09-21, 03:35:43](https://news.ycombinator.com/item?id=37592934) - [How Equifax Was Breached in 2017](https://blog.0x7d0.dev/history/how-equifax-was-breached-in-2017/)
 * [2023-09-21, 02:54:09](https://news.ycombinator.com/item?id=37592712) - [Organic Maps: An open-source maps app that doesn't suck](https://hardfault.life/p/organic-maps-review)
 * [2023-09-21, 02:51:08](https://news.ycombinator.com/item?id=37592699) - [UK Parliament undermined the privacy, security, freedom of all internet users](https://www.eff.org/deeplinks/2023/09/today-uk-parliament-undermined-privacy-security-and-freedom-all-internet-users)
@@ -29,7 +30,6 @@
 * [2023-09-20, 04:53:20](https://news.ycombinator.com/item?id=37580498) - [Health risks of travel in early-modern Britain](https://dralun.wordpress.com/2023/02/17/the-health-risks-of-travel-in-early-modern-britain/)
 * [2023-09-20, 01:23:52](https://news.ycombinator.com/item?id=37579337) - [New study disproves Leonardo da Vinci's 'rule of trees'](https://phys.org/news/2023-09-leonardo-da-vinci-trees.html)
 * [2023-09-19, 20:30:16](https://news.ycombinator.com/item?id=37576079) - [How to evaluate a product roadmap, for engineers](https://stephen.fm/how-to-evaluate-a-product-roadmap/)
-* [2023-09-18, 21:52:28](https://news.ycombinator.com/item?id=37562593) - [Tracing: Structured logging, but better](https://andydote.co.uk/2023/09/19/tracing-is-better/)
 
 ## [Archives](archives/index.md)
 
