@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-21, 04:13:29",
+      "https://news.ycombinator.com/item?id=37593143"
+    ],
+    [
+      "GNU Turns 40",
+      "https://www.theregister.com/2023/09/20/gnu_turns_40/"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 03:35:43",
       "https://news.ycombinator.com/item?id=37592934"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=37592699"
     ],
     [
-      "The UK Parliament Undermined the Privacy, Security, and Freedom of All Internet",
+      "UK Parliament undermined the privacy, security, freedom of all internet users",
       "https://www.eff.org/deeplinks/2023/09/today-uk-parliament-undermined-privacy-security-and-freedom-all-internet-users"
     ]
   ],
@@ -35,18 +45,8 @@
       "https://news.ycombinator.com/item?id=37592590"
     ],
     [
-      "My fast JSON library in Go is now even faster and safer",
+      "Sonnet: High performance JSON decoder in Go",
       "https://github.com/sugawarayuuta/sonnet"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 01:41:41",
-      "https://news.ycombinator.com/item?id=37592310"
-    ],
-    [
-      "FTC has named Amazon staffers accused of approving tactics designed to confuse",
-      "https://www.theregister.com/2023/09/21/ftc_amazon_prime_amended_complaint/"
     ]
   ],
   [
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=37591652"
     ],
     [
-      "Terry Tao's generals",
+      "Terry Tao's generals (2012)",
       "https://web.math.princeton.edu/generals/tao_terence"
     ]
   ],
