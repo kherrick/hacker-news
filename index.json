@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-09-21, 13:24:39",
-      "https://news.ycombinator.com/item?id=37597264"
-    ],
-    [
-      "Rupert Murdoch steps down as Fox and News Corp chairman",
-      "https://www.bbc.co.uk/news/business-66881306"
-    ]
-  ],
-  [
-    [
       "2023-09-21, 13:19:26",
       "https://news.ycombinator.com/item?id=37597207"
     ],
@@ -101,16 +91,6 @@
   ],
   [
     [
-      "2023-09-21, 12:08:53",
-      "https://news.ycombinator.com/item?id=37596439"
-    ],
-    [
-      "Community Growth At: HashiCorp",
-      "https://community.inc/deep-dives/community-growth-hashicorp"
-    ]
-  ],
-  [
-    [
       "2023-09-21, 11:48:51",
       "https://news.ycombinator.com/item?id=37596253"
     ],
@@ -127,6 +107,16 @@
     [
       "BWXT and Crowley Developing Nuclear Power Generation Ships",
       "https://maritime-executive.com/article/crowley-partners-with-bwxt-to-develop-nuclear-power-generation-vessels"
+    ]
+  ],
+  [
+    [
+      "2023-09-21, 11:00:19",
+      "https://news.ycombinator.com/item?id=37595898"
+    ],
+    [
+      "Atlassian cripples’ Jira automation for all but enterprise customers",
+      "https://community.atlassian.com/t5/Automation-articles/Introducing-our-new-packaging-model-for-Jira-Cloud-Automation/ba-p/2446099"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Terry Tao's generals (2012)",
       "https://web.math.princeton.edu/generals/tao_terence"
+    ]
+  ],
+  [
+    [
+      "2023-09-20, 17:42:24",
+      "https://news.ycombinator.com/item?id=37587233"
+    ],
+    [
+      "Fine-grained caching strategies of dynamic queries",
+      "https://jensrantil.github.io/posts/fast-aggregate-queries-on-dynamic-data/"
     ]
   ],
   [
