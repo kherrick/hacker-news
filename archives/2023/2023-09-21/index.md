@@ -8,6 +8,7 @@
 * [2023-09-21, 17:53:15](https://news.ycombinator.com/item?id=37601363) - [A Young Architect’s Designs for the Climate Apocalypse](https://www.newyorker.com/magazine/2023/09/25/a-young-architects-designs-for-the-climate-apocalypse)
 * [2023-09-21, 17:34:11](https://news.ycombinator.com/item?id=37601064) - [Most UI Applications Are Broken Real-Time Applications](https://thelig.ht/ui-apps-are-broken/)
 * [2023-09-21, 17:26:58](https://news.ycombinator.com/item?id=37600937) - [US Cybersecurity: The Urgent Need for Memory Safety in Software Products](https://www.cisa.gov/news-events/news/urgent-need-memory-safety-software-products)
+* [2023-09-21, 17:21:39](https://news.ycombinator.com/item?id=37600852) - [The WebP 0day](https://blog.isosceles.com/the-webp-0day/)
 * [2023-09-21, 17:11:29](https://news.ycombinator.com/item?id=37600693) - [India stops issuing visas to Canadians as row escalates](https://www.cnbctv18.com/india/india-suspends-visa-service-operations-in-canada-until-further-notice-bls-international-17850171.htm)
 * [2023-09-21, 17:06:08](https://news.ycombinator.com/item?id=37600618) - [USPS In-Person Identity Proofing](https://faq.usps.com/s/article/USPS-In-Person-Identity-Proofing)
 * [2023-09-21, 17:00:48](https://news.ycombinator.com/item?id=37600542) - [OneSignal (YC S11), email and push notification platform, is hiring engineers](https://onesignal.com/careers/4264311006)
