@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
+* [2023-09-21, 23:18:27](https://news.ycombinator.com/item?id=37605773) - [Second-Guessing the Modern Web](https://macwright.com/2020/05/10/spa-fatigue)
 * [2023-09-21, 20:32:53](https://news.ycombinator.com/item?id=37603905) - [Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10)
 * [2023-09-21, 20:24:24](https://news.ycombinator.com/item?id=37603769) - [Volvo to cease production of diesel cars in a few months](https://www.reuters.com/business/autos-transportation/volvo-end-diesel-car-production-by-early-2024-2023-09-19/)
 * [2023-09-21, 20:23:23](https://news.ycombinator.com/item?id=37603748) - [Rust SDR Amateur Radio Network Interface](https://github.com/hexagonal-sun/ampkt)
@@ -74,6 +75,7 @@
 * [2023-09-21, 08:12:44](https://news.ycombinator.com/item?id=37594658) - [Requiem for Dark Sky's Interface](https://interactions.acm.org/archive/view/september-october-2023/requiem-for-an-interface)
 * [2023-09-21, 07:56:14](https://news.ycombinator.com/item?id=37594525) - [Erlang/OTP 26.1 Released](https://erlangforums.com/t/erlang-otp-26-1-released/2886)
 * [2023-09-21, 07:48:23](https://news.ycombinator.com/item?id=37594461) - [Ask HN: I'm a SWE without a CS degree. Will online certs help me get into FAANG?](https://news.ycombinator.com/item?id=37594461)
+* [2023-09-21, 07:42:46](https://news.ycombinator.com/item?id=37594415) - [Memories of a goofy phone from the late 80s](http://rachelbythebay.com/w/2023/09/20/fv1000/)
 * [2023-09-21, 07:38:19](https://news.ycombinator.com/item?id=37594377) - [Philips Hue will soon force users to create an account](https://defcon.social/@mysk/111097362983335713)
 * [2023-09-21, 07:36:31](https://news.ycombinator.com/item?id=37594365) - [OpenBSD/ARM64 on Hetzner Cloud](https://www.undeadly.org/cgi?action=article;sid=20230921073556)
 * [2023-09-21, 07:28:04](https://news.ycombinator.com/item?id=37594302) - [Designing content for people who struggle with numbers](https://service-manual.nhs.uk/content/numbers-measurements-dates-time)
