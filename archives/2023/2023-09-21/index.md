@@ -4,10 +4,17 @@
 
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
+* [2023-09-21, 12:19:16](https://news.ycombinator.com/item?id=37596530) - [Uber Eats will start accepting food stamps for grocery delivery in 2024](https://www.theverge.com/2023/9/20/23880403/uber-eats-food-stamps-snap-ebt-fsa-flex-ai-assistant)
+* [2023-09-21, 12:15:19](https://news.ycombinator.com/item?id=37596498) - [BrainTree has been down for more than 6 hours now](https://www.paypal-status.com/incident/production)
+* [2023-09-21, 12:15:19](https://news.ycombinator.com/item?id=37596497) - [Cisco Acquires Splunk](https://www.splunk.com/en_us/blog/leadership/splunk-and-cisco-unite-to-accelerate-digital-resilience-as-one-of-the-leading-global-software-companies.html)
+* [2023-09-21, 11:48:51](https://news.ycombinator.com/item?id=37596253) - [Launch HN: Loops (YC W22) – Email for SaaS Companies](https://news.ycombinator.com/item?id=37596253)
+* [2023-09-21, 11:27:56](https://news.ycombinator.com/item?id=37596068) - [BWXT and Crowley Developing Nuclear Power Generation Ships](https://maritime-executive.com/article/crowley-partners-with-bwxt-to-develop-nuclear-power-generation-vessels)
 * [2023-09-21, 11:03:36](https://news.ycombinator.com/item?id=37595919) - [Is Encryption at Rest a Scam?](https://evervault.com/blog/is-encryption-at-rest-a-scam)
 * [2023-09-21, 11:00:19](https://news.ycombinator.com/item?id=37595898) - [Atlassian cripples’ Jira automation for all but enterprise customers](https://community.atlassian.com/t5/Automation-articles/Introducing-our-new-packaging-model-for-Jira-Cloud-Automation/ba-p/2446099)
+* [2023-09-21, 10:41:02](https://news.ycombinator.com/item?id=37595766) - [An INI Critique of TOML](https://github.com/madmurphy/libconfini/wiki/An-INI-critique-of-TOML)
 * [2023-09-21, 10:34:06](https://news.ycombinator.com/item?id=37595717) - [Rumble rejects MP's 'disturbing' letter over income](https://www.bbc.co.uk/news/entertainment-arts-66875128)
 * [2023-09-21, 10:03:06](https://news.ycombinator.com/item?id=37595519) - [PSA: Storybook sends telemetry data, opt-in by default](https://storybook.js.org/docs/react/configure/telemetry/)
+* [2023-09-21, 09:36:21](https://news.ycombinator.com/item?id=37595322) - [Ship of Fools](https://successfulsoftware.net/2023/09/19/ship-of-fools/)
 * [2023-09-21, 09:26:46](https://news.ycombinator.com/item?id=37595240) - [Is Fortran easier to optimize than C for heavy calculations?](https://stackoverflow.com/questions/146159/is-fortran-easier-to-optimize-than-c-for-heavy-calculations)
 * [2023-09-21, 08:39:30](https://news.ycombinator.com/item?id=37594855) - [India's biggest tech centers named as cyber crime hotspots](https://www.theregister.com/2023/09/21/india_cybercrime_trends_report/)
 * [2023-09-21, 07:56:14](https://news.ycombinator.com/item?id=37594525) - [Erlang/OTP 26.1 Released](https://erlangforums.com/t/erlang-otp-26-1-released/2886)
