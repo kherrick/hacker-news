@@ -67,6 +67,7 @@
 * [2023-09-20, 06:44:42](https://news.ycombinator.com/item?id=37581132) - [OpenTF renames itself to OpenTofu](https://github.com/opentofu)
 * [2023-09-20, 06:44:42](https://news.ycombinator.com/item?id=37581132) - [OpenTF is now OpenTofu](https://github.com/opentofu/opentofu/issues/296#issuecomment-1727171446)
 * [2023-09-20, 05:43:24](https://news.ycombinator.com/item?id=37580757) - [SillycoValley: Write Code, Build Your Startup](https://sillycovalley.com/?myscore)
+* [2023-09-20, 05:15:42](https://news.ycombinator.com/item?id=37580599) - [Creating a fake Indian cricket league](https://www.si.com/betting/2023/09/15/fake-indian-cricket-league-daily-cover)
 * [2023-09-20, 05:14:47](https://news.ycombinator.com/item?id=37580593) - [Aldous Huxley's Deep Reflection](https://thereader.mitpress.mit.edu/aldous-huxleys-deep-reflection/)
 * [2023-09-20, 05:06:38](https://news.ycombinator.com/item?id=37580556) - [Insect pests and radiation: SIT, inherited sterility, biological control](https://www.iaea.org/newscenter/news/how-to-control-insect-pests-using-radiation)
 * [2023-09-20, 05:06:38](https://news.ycombinator.com/item?id=37580556) - [How the IAEA uses nuclear technology to control insect pests](https://www.karlsnotes.com/how-the-iaea-uses-nuclear-technology-to-control-insect-pests/)
