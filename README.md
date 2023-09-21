@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-21, 02:54:09](https://news.ycombinator.com/item?id=37592712) - [Finally, an open source maps app that doesn't suck](https://hardfault.life/p/organic-maps-review)
 * [2023-09-21, 00:00:28](https://news.ycombinator.com/item?id=37591652) - [Terry Tao's generals](https://web.math.princeton.edu/generals/tao_terence)
 * [2023-09-20, 23:39:06](https://news.ycombinator.com/item?id=37591505) - [Confessions of a McKinsey Whistleblower](https://www.thenation.com/article/society/mckinsey-whistleblower-confessions/)
 * [2023-09-20, 22:36:20](https://news.ycombinator.com/item?id=37591050) - [Linux gives up on 6-year LTS kernels, says they’re too much work](https://arstechnica.com/gadgets/2023/09/linux-gives-up-on-6-year-lts-thats-fine-for-pcs-bad-for-android/)
 * [2023-09-20, 22:14:37](https://news.ycombinator.com/item?id=37590881) - [Meticulous: An FPGA-Based Main Memory Emulator for System Software Studies](https://arxiv.org/abs/2309.06565)
 * [2023-09-20, 21:35:40](https://news.ycombinator.com/item?id=37590544) - [Alameda lost tens of millions because of a fat fingering mistake](https://www.adityabaradwaj.com/part-2-the-fat-finger/)
 * [2023-09-20, 19:02:43](https://news.ycombinator.com/item?id=37588526) - [Harlequin: DuckDB IDE for the terminal](https://harlequin.sh/)
-* [2023-09-20, 18:52:42](https://news.ycombinator.com/item?id=37588374) - [We Are Not Sustainable](https://frame.work/nl/en/blog/we-are-not-sustainable)
 * [2023-09-20, 18:47:36](https://news.ycombinator.com/item?id=37588286) - [Show HN: Sheet Music Management App](https://github.com/Airsequel/Airsequel-Sheet-Music)
 * [2023-09-20, 18:18:14](https://news.ycombinator.com/item?id=37587791) - [Archaeologists discover oldest wooden structure](https://news.liverpool.ac.uk/2023/09/20/archaeologists-discover-worlds-oldest-wooden-structure/)
 * [2023-09-20, 18:00:26](https://news.ycombinator.com/item?id=37587506) - [Strada – Create fully native controls, driven by your web app](https://strada.hotwired.dev/)
