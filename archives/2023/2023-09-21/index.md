@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
+* [2023-09-21, 11:03:36](https://news.ycombinator.com/item?id=37595919) - [Is Encryption at Rest a Scam?](https://evervault.com/blog/is-encryption-at-rest-a-scam)
 * [2023-09-21, 10:34:06](https://news.ycombinator.com/item?id=37595717) - [Rumble rejects MP's 'disturbing' letter over income](https://www.bbc.co.uk/news/entertainment-arts-66875128)
 * [2023-09-21, 10:03:06](https://news.ycombinator.com/item?id=37595519) - [PSA: Storybook sends telemetry data, opt-in by default](https://storybook.js.org/docs/react/configure/telemetry/)
 * [2023-09-21, 09:26:46](https://news.ycombinator.com/item?id=37595240) - [Is Fortran easier to optimize than C for heavy calculations?](https://stackoverflow.com/questions/146159/is-fortran-easier-to-optimize-than-c-for-heavy-calculations)
