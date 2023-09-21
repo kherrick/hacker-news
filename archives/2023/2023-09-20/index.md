@@ -55,6 +55,7 @@
 * [2023-09-20, 13:00:35](https://news.ycombinator.com/item?id=37583593) - [Show HN: 78% MNIST accuracy using GZIP in under 10 lines of code](https://jakobs.dev/solving-mnist-with-gzip/)
 * [2023-09-20, 12:14:43](https://news.ycombinator.com/item?id=37583234) - [Gokrazy Is Cool](https://xeiaso.net/blog/gokrazy)
 * [2023-09-20, 12:13:09](https://news.ycombinator.com/item?id=37583219) - [Show HN: SeaGOAT – local, “AI-based” grep for semantic code search](https://github.com/kantord/SeaGOAT)
+* [2023-09-20, 12:04:56](https://news.ycombinator.com/item?id=37583147) - [MongoDB’s New Query Engine](https://laplab.me/posts/inside-new-query-engine-of-mongodb/)
 * [2023-09-20, 12:03:42](https://news.ycombinator.com/item?id=37583136) - [Neurons in Large Language Models: Dead, N-Gram, Positional](https://arxiv.org/abs/2309.04827)
 * [2023-09-20, 12:00:53](https://news.ycombinator.com/item?id=37583116) - [Stellar Sleep (YC S23) Is Hiring a Senior/ Staff SWE in San Francisco](https://www.ycombinator.com/companies/stellar-sleep/jobs/Ubd4rCS-senior-staff-software-engineer)
 * [2023-09-20, 11:37:43](https://news.ycombinator.com/item?id=37582940) - [Rp2040 runs unmodified PalmOS 5.2.8](https://twitter.com/dmitrygr/status/1704350983877198013)

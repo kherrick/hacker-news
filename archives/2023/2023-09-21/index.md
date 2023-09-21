@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
+* [2023-09-21, 08:39:30](https://news.ycombinator.com/item?id=37594855) - [India's biggest tech centers named as cyber crime hotspots](https://www.theregister.com/2023/09/21/india_cybercrime_trends_report/)
 * [2023-09-21, 07:56:14](https://news.ycombinator.com/item?id=37594525) - [Erlang/OTP 26.1 Released](https://erlangforums.com/t/erlang-otp-26-1-released/2886)
 * [2023-09-21, 07:48:23](https://news.ycombinator.com/item?id=37594461) - [Ask HN: I'm a SWE without a CS degree. Will online certs help me get into FAANG?](https://news.ycombinator.com/item?id=37594461)
 * [2023-09-21, 07:38:19](https://news.ycombinator.com/item?id=37594377) - [Philips Hue will soon force users to create an account](https://defcon.social/@mysk/111097362983335713)
