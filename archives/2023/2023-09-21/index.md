@@ -6,6 +6,7 @@
 
 * [2023-09-21, 07:07:14](https://news.ycombinator.com/item?id=37594143) - [Spider silk spun by silkworms for first time, alternative to synthetic fibers](https://phys.org/news/2023-09-spider-silk-spun-silkworms-green.html)
 * [2023-09-21, 06:37:03](https://news.ycombinator.com/item?id=37593950) - [Tesla buys German railway line, now hosting passenger trains](https://www.trains.com/trn/news-reviews/news-wire/tesla-buys-german-railway-line-plans-passenger-trains-2/)
+* [2023-09-21, 05:23:42](https://news.ycombinator.com/item?id=37593497) - [Total cholesterol and mortality by sex and age:study of 12.8M adults](https://www.nature.com/articles/s41598-018-38461-y)
 * [2023-09-21, 05:15:25](https://news.ycombinator.com/item?id=37593459) - [Install Windows the Arch Linux Way](https://christitus.com/install-windows-the-arch-linux-way/)
 * [2023-09-21, 04:13:29](https://news.ycombinator.com/item?id=37593143) - [GNU Turns 40](https://www.theregister.com/2023/09/20/gnu_turns_40/)
 * [2023-09-21, 04:11:49](https://news.ycombinator.com/item?id=37593133) - [Terraria developer bashes Unity, donates $200k to open source alternatives](https://lemm.ee/post/8670706)
