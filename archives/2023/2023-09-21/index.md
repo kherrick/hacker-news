@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
+* [2023-09-21, 17:26:58](https://news.ycombinator.com/item?id=37600937) - [US Cybersecurity: The Urgent Need for Memory Safety in Software Products](https://www.cisa.gov/news-events/news/urgent-need-memory-safety-software-products)
 * [2023-09-21, 17:11:29](https://news.ycombinator.com/item?id=37600693) - [India stops issuing visas to Canadians as row escalates](https://www.cnbctv18.com/india/india-suspends-visa-service-operations-in-canada-until-further-notice-bls-international-17850171.htm)
 * [2023-09-21, 17:06:08](https://news.ycombinator.com/item?id=37600618) - [USPS In-Person Identity Proofing](https://faq.usps.com/s/article/USPS-In-Person-Identity-Proofing)
 * [2023-09-21, 17:00:48](https://news.ycombinator.com/item?id=37600542) - [OneSignal (YC S11), email and push notification platform, is hiring engineers](https://onesignal.com/careers/4264311006)
+* [2023-09-21, 16:57:46](https://news.ycombinator.com/item?id=37600484) - [Bloomberg Is Throwing $500M at Efforts to Shut Down All U.S. Coal Plants](https://gizmodo.com/michael-bloomberg-500-million-shut-down-coal-plants-1850861082)
 * [2023-09-21, 16:29:57](https://news.ycombinator.com/item?id=37600072) - [Medical gaslighting: when conditions turn out not to be 'all in the mind'](https://theconversation.com/medical-gaslighting-when-conditions-turn-out-not-to-be-all-in-the-mind-209611)
 * [2023-09-21, 16:26:44](https://news.ycombinator.com/item?id=37600019) - [Show HN: My Single-File Python Script I Used to Replace Splunk in My Startup](https://github.com/Dicklesworthstone/automatic_log_collector_and_analyzer)
 * [2023-09-21, 16:19:32](https://news.ycombinator.com/item?id=37599891) - [Show HN: Storiaboard – Faster and cheaper video previsualization with Gen AI](https://app.storia.ai/)
