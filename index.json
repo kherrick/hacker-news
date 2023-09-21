@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-21, 20:32:53",
+      "https://news.ycombinator.com/item?id=37603905"
+    ],
+    [
+      "Unlimited Kagi searches for $10 per month",
+      "https://blog.kagi.com/unlimited-searches-for-10"
+    ]
+  ],
+  [
+    [
+      "2023-09-21, 20:23:23",
+      "https://news.ycombinator.com/item?id=37603748"
+    ],
+    [
+      "Rust SDR Amateur Radio Network Interface",
+      "https://github.com/hexagonal-sun/ampkt"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 20:09:31",
       "https://news.ycombinator.com/item?id=37603554"
     ],
@@ -67,16 +87,6 @@
     [
       "Developmental costs associated with early maternal withdrawal (2022)",
       "https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdep.12442"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 17:34:11",
-      "https://news.ycombinator.com/item?id=37601064"
-    ],
-    [
-      "Most UI applications are broken real-time applications",
-      "https://thelig.ht/ui-apps-are-broken/"
     ]
   ],
   [
@@ -181,26 +191,6 @@
   ],
   [
     [
-      "2023-09-21, 12:44:11",
-      "https://news.ycombinator.com/item?id=37596788"
-    ],
-    [
-      "Studio Ghibli set to become subsidiary of Nippon TV",
-      "https://www.japantimes.co.jp/business/2023/09/21/companies/nippon-tv-ghibli-acquisition/"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 12:42:44",
-      "https://news.ycombinator.com/item?id=37596776"
-    ],
-    [
-      "Why Kakoune",
-      "https://andreyor.st/posts/2023-09-20-why-kakoune/"
-    ]
-  ],
-  [
-    [
       "2023-09-21, 12:40:58",
       "https://news.ycombinator.com/item?id=37596755"
     ],
@@ -227,16 +217,6 @@
     [
       "Launch HN: Loops (YC W22) – Email for SaaS Companies",
       "https://news.ycombinator.com/item?id=37596253"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 10:41:02",
-      "https://news.ycombinator.com/item?id=37595766"
-    ],
-    [
-      "An INI Critique of TOML (2021)",
-      "https://github.com/madmurphy/libconfini/wiki/An-INI-critique-of-TOML"
     ]
   ],
   [
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2023-09-20, 12:09:49",
+      "https://news.ycombinator.com/item?id=37583197"
+    ],
+    [
+      "SQL Join Flavors",
+      "https://antonz.org/sql-join/"
+    ]
+  ],
+  [
+    [
       "2023-09-20, 12:04:56",
       "https://news.ycombinator.com/item?id=37583147"
     ],
     [
       "MongoDB’s new query engine",
       "https://laplab.me/posts/inside-new-query-engine-of-mongodb/"
+    ]
+  ],
+  [
+    [
+      "2023-09-20, 11:48:19",
+      "https://news.ycombinator.com/item?id=37583022"
+    ],
+    [
+      "Lean, Coq and Other Proof Assistants: Visualising Proofs as Trees",
+      "https://lakesare.brick.do/lean-coq-isabel-and-their-proof-trees-yjnd2O2RgxwV"
     ]
   ],
   [
