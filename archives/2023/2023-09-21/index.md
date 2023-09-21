@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
+* [2023-09-21, 07:48:23](https://news.ycombinator.com/item?id=37594461) - [Ask HN: I'm a SWE without a CS degree. Will online certs help me get into FAANG?](https://news.ycombinator.com/item?id=37594461)
 * [2023-09-21, 07:07:14](https://news.ycombinator.com/item?id=37594143) - [Spider silk spun by silkworms for first time, alternative to synthetic fibers](https://phys.org/news/2023-09-spider-silk-spun-silkworms-green.html)
 * [2023-09-21, 06:37:03](https://news.ycombinator.com/item?id=37593950) - [Tesla buys German railway line, now hosting passenger trains](https://www.trains.com/trn/news-reviews/news-wire/tesla-buys-german-railway-line-plans-passenger-trains-2/)
 * [2023-09-21, 05:23:42](https://news.ycombinator.com/item?id=37593497) - [Total cholesterol and mortality by sex and age:study of 12.8M adults](https://www.nature.com/articles/s41598-018-38461-y)
