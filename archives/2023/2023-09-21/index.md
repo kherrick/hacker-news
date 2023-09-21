@@ -49,6 +49,7 @@
 * [2023-09-21, 11:48:51](https://news.ycombinator.com/item?id=37596253) - [Launch HN: Loops (YC W22) – Email for SaaS Companies](https://news.ycombinator.com/item?id=37596253)
 * [2023-09-21, 11:27:56](https://news.ycombinator.com/item?id=37596068) - [BWXT and Crowley Developing Nuclear Power Generation Ships](https://maritime-executive.com/article/crowley-partners-with-bwxt-to-develop-nuclear-power-generation-vessels)
 * [2023-09-21, 11:03:36](https://news.ycombinator.com/item?id=37595919) - [Is Encryption at Rest a Scam?](https://evervault.com/blog/is-encryption-at-rest-a-scam)
+* [2023-09-21, 11:02:03](https://news.ycombinator.com/item?id=37595906) - [India suspends visas for Canadians as row escalates](https://www.bbc.com/news/world-asia-india-66851964)
 * [2023-09-21, 11:00:19](https://news.ycombinator.com/item?id=37595898) - [Atlassian cripples’ Jira automation for all but enterprise customers](https://community.atlassian.com/t5/Automation-articles/Introducing-our-new-packaging-model-for-Jira-Cloud-Automation/ba-p/2446099)
 * [2023-09-21, 10:41:02](https://news.ycombinator.com/item?id=37595766) - [An INI Critique of TOML](https://github.com/madmurphy/libconfini/wiki/An-INI-critique-of-TOML)
 * [2023-09-21, 10:34:06](https://news.ycombinator.com/item?id=37595717) - [Rumble rejects MP's 'disturbing' letter over income](https://www.bbc.co.uk/news/entertainment-arts-66875128)
