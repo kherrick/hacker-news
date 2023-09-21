@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-09-21, 03:09:57",
+      "https://news.ycombinator.com/item?id=37592801"
+    ],
+    [
+      "NASA’s New Shortcut to Fusion Power",
+      "https://spectrum.ieee.org/lattice-confinement-fusion"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 02:54:09",
       "https://news.ycombinator.com/item?id=37592712"
     ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2023-09-20, 18:52:42",
-      "https://news.ycombinator.com/item?id=37588374"
-    ],
-    [
-      "We are not sustainable",
-      "https://frame.work/nl/en/blog/we-are-not-sustainable"
-    ]
-  ],
-  [
-    [
       "2023-09-20, 18:47:36",
       "https://news.ycombinator.com/item?id=37588286"
     ],
@@ -147,16 +147,6 @@
     [
       "Fine-grained caching strategies of dynamic queries",
       "https://jensrantil.github.io/posts/fast-aggregate-queries-on-dynamic-data/"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 17:29:20",
-      "https://news.ycombinator.com/item?id=37587043"
-    ],
-    [
-      "Monitor bandwidth usage with bandwhich (and build a snap package of it)",
-      "https://popey.com/blog/2023/09/monitor-bandwidth-usage-with-bandwhich/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Introduction to Linux interfaces for virtual networking (2018)",
       "https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking"
+    ]
+  ],
+  [
+    [
+      "2023-09-20, 08:01:44",
+      "https://news.ycombinator.com/item?id=37581646"
+    ],
+    [
+      "Your cache headers could probably be more aggressive",
+      "https://www.macarthur.me/posts/more-aggressive-cache-headers"
     ]
   ],
   [
