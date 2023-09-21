@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2023-09-20, 22:36:20",
-      "https://news.ycombinator.com/item?id=37591050"
-    ],
-    [
-      "Linux gives up on 6-year LTS kernels, says they’re too much work",
-      "https://arstechnica.com/gadgets/2023/09/linux-gives-up-on-6-year-lts-thats-fine-for-pcs-bad-for-android/"
-    ]
-  ],
-  [
-    [
       "2023-09-20, 22:14:37",
       "https://news.ycombinator.com/item?id=37590881"
     ],
@@ -177,6 +167,16 @@
     [
       "Fine-grained caching strategies of dynamic queries",
       "https://jensrantil.github.io/posts/fast-aggregate-queries-on-dynamic-data/"
+    ]
+  ],
+  [
+    [
+      "2023-09-20, 16:52:18",
+      "https://news.ycombinator.com/item?id=37586580"
+    ],
+    [
+      "XML is better than YAML – Hear me out",
+      "https://changelog.com/posts/xml-better-than-yaml"
     ]
   ],
   [
