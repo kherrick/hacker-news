@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=37592310"
     ],
     [
-      "Uncle Sam names 3 Amazon execs as Prime suspects in subscription ripoff case",
+      "FTC has named Amazon staffers accused of approving tactics designed to confuse",
       "https://www.theregister.com/2023/09/21/ftc_amazon_prime_amended_complaint/"
     ]
   ],
@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2023-09-20, 17:29:20",
+      "https://news.ycombinator.com/item?id=37587043"
+    ],
+    [
+      "Monitor bandwidth usage with bandwhich (and build a snap package of it)",
+      "https://popey.com/blog/2023/09/monitor-bandwidth-usage-with-bandwhich/"
+    ]
+  ],
+  [
+    [
       "2023-09-20, 17:01:14",
       "https://news.ycombinator.com/item?id=37586681"
     ],
@@ -191,6 +201,16 @@
   ],
   [
     [
+      "2023-09-20, 13:53:31",
+      "https://news.ycombinator.com/item?id=37584134"
+    ],
+    [
+      "My uBlock Origin filters to remove distractions",
+      "https://github.com/mig4ng/ublock-origin-filters"
+    ]
+  ],
+  [
+    [
       "2023-09-20, 13:46:55",
       "https://news.ycombinator.com/item?id=37584049"
     ],
@@ -207,26 +227,6 @@
     [
       "78% MNIST accuracy using GZIP in under 10 lines of code",
       "https://jakobs.dev/solving-mnist-with-gzip/"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 12:14:43",
-      "https://news.ycombinator.com/item?id=37583234"
-    ],
-    [
-      "Gokrazy is cool",
-      "https://xeiaso.net/blog/gokrazy"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 12:13:09",
-      "https://news.ycombinator.com/item?id=37583219"
-    ],
-    [
-      "Show HN: SeaGOAT – local, “AI-based” grep for semantic code search",
-      "https://github.com/kantord/SeaGOAT"
     ]
   ],
   [
