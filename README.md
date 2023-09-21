@@ -4,7 +4,7 @@
 * [2023-09-21, 03:35:43](https://news.ycombinator.com/item?id=37592934) - [How Equifax Was Breached in 2017](https://blog.0x7d0.dev/history/how-equifax-was-breached-in-2017/)
 * [2023-09-21, 02:54:09](https://news.ycombinator.com/item?id=37592712) - [Organic Maps: An Open-Source Maps App That Doesn't Suck](https://hardfault.life/p/organic-maps-review)
 * [2023-09-21, 02:51:08](https://news.ycombinator.com/item?id=37592699) - [UK Parliament undermined the privacy, security, freedom of all internet users](https://www.eff.org/deeplinks/2023/09/today-uk-parliament-undermined-privacy-security-and-freedom-all-internet-users)
-* [2023-09-21, 02:28:05](https://news.ycombinator.com/item?id=37592590) - [Sonnet: High performance JSON decoder in Go](https://github.com/sugawarayuuta/sonnet)
+* [2023-09-21, 01:50:03](https://news.ycombinator.com/item?id=37592361) - [Terry Tao: How a Near Failure Propelled Me to Succeed (2020) [pdf]](https://www.ams.org/notices/202007/rnoti-p1007.pdf)
 * [2023-09-21, 00:00:28](https://news.ycombinator.com/item?id=37591652) - [Terry Tao's generals (2012)](https://web.math.princeton.edu/generals/tao_terence)
 * [2023-09-20, 22:36:20](https://news.ycombinator.com/item?id=37591050) - [Linux gives up on 6-year LTS kernels, says they’re too much work](https://arstechnica.com/gadgets/2023/09/linux-gives-up-on-6-year-lts-thats-fine-for-pcs-bad-for-android/)
 * [2023-09-20, 22:14:37](https://news.ycombinator.com/item?id=37590881) - [Meticulous: An FPGA-Based Main Memory Emulator for System Software Studies](https://arxiv.org/abs/2309.06565)
@@ -24,12 +24,12 @@
 * [2023-09-20, 13:46:55](https://news.ycombinator.com/item?id=37584049) - [Show HN: ElectricSQL, Postgres to SQLite active-active sync for local-first apps](https://electric-sql.com/)
 * [2023-09-20, 13:00:35](https://news.ycombinator.com/item?id=37583593) - [78% MNIST accuracy using GZIP in under 10 lines of code](https://jakobs.dev/solving-mnist-with-gzip/)
 * [2023-09-20, 10:48:36](https://news.ycombinator.com/item?id=37582632) - [Introduction to Linux interfaces for virtual networking (2018)](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking)
-* [2023-09-20, 05:15:42](https://news.ycombinator.com/item?id=37580599) - [Creating a fake Indian cricket league](https://www.si.com/betting/2023/09/15/fake-indian-cricket-league-daily-cover)
+* [2023-09-20, 06:20:11](https://news.ycombinator.com/item?id=37580981) - [Grouping Digits in SQL](http://peter.eisentraut.org/blog/2023/09/20/grouping-digits-in-sql)
+* [2023-09-20, 05:06:38](https://news.ycombinator.com/item?id=37580556) - [Insect pests and radiation: SIT, inherited sterility, biological control](https://www.iaea.org/newscenter/news/how-to-control-insect-pests-using-radiation)
 * [2023-09-20, 04:53:20](https://news.ycombinator.com/item?id=37580498) - [Health risks of travel in early-modern Britain](https://dralun.wordpress.com/2023/02/17/the-health-risks-of-travel-in-early-modern-britain/)
 * [2023-09-20, 01:23:52](https://news.ycombinator.com/item?id=37579337) - [New study disproves Leonardo da Vinci's 'rule of trees'](https://phys.org/news/2023-09-leonardo-da-vinci-trees.html)
 * [2023-09-19, 20:30:16](https://news.ycombinator.com/item?id=37576079) - [How to evaluate a product roadmap, for engineers](https://stephen.fm/how-to-evaluate-a-product-roadmap/)
 * [2023-09-18, 21:52:28](https://news.ycombinator.com/item?id=37562593) - [Tracing: Structured logging, but better](https://andydote.co.uk/2023/09/19/tracing-is-better/)
-* [2023-09-18, 17:53:05](https://news.ycombinator.com/item?id=37559499) - [Exploring the Halo 1 System Link Protocol](https://hllmn.net/blog/2023-09-18_h1x-net/)
 
 ## [Archives](archives/index.md)
 

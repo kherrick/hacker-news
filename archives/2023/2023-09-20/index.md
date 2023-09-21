@@ -66,6 +66,7 @@
 * [2023-09-20, 07:15:10](https://news.ycombinator.com/item?id=37581316) - [‘Less than half’ fresh produce sold globally makes any profit](https://www.fruitnet.com/main-navigation/less-than-half-fresh-produce-sold-globally-makes-any-profit/256025.article)
 * [2023-09-20, 06:44:42](https://news.ycombinator.com/item?id=37581132) - [OpenTF renames itself to OpenTofu](https://github.com/opentofu)
 * [2023-09-20, 06:44:42](https://news.ycombinator.com/item?id=37581132) - [OpenTF is now OpenTofu](https://github.com/opentofu/opentofu/issues/296#issuecomment-1727171446)
+* [2023-09-20, 06:20:11](https://news.ycombinator.com/item?id=37580981) - [Grouping Digits in SQL](http://peter.eisentraut.org/blog/2023/09/20/grouping-digits-in-sql)
 * [2023-09-20, 05:43:24](https://news.ycombinator.com/item?id=37580757) - [SillycoValley: Write Code, Build Your Startup](https://sillycovalley.com/?myscore)
 * [2023-09-20, 05:15:42](https://news.ycombinator.com/item?id=37580599) - [Creating a fake Indian cricket league](https://www.si.com/betting/2023/09/15/fake-indian-cricket-league-daily-cover)
 * [2023-09-20, 05:14:47](https://news.ycombinator.com/item?id=37580593) - [Aldous Huxley's Deep Reflection](https://thereader.mitpress.mit.edu/aldous-huxleys-deep-reflection/)
