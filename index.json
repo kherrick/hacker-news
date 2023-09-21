@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-09-21, 16:19:32",
-      "https://news.ycombinator.com/item?id=37599891"
+      "2023-09-21, 16:18:02",
+      "https://news.ycombinator.com/item?id=37599873"
     ],
     [
-      "Show HN: Storiaboard – Faster and cheaper video previsualization with Gen AI",
-      "https://app.storia.ai/"
+      "Rag is more than just embedding search",
+      "https://jxnl.github.io/instructor/blog/2023/09/17/rag-is-more-than-just-embedding-search/"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "AMA: We're the Researchers who looked into the privacy of the 25 top car brands",
       "https://old.reddit.com/r/IAmA/comments/16oi17v/were_the_researchers_who_looked_into_the_privacy/"
+    ]
+  ],
+  [
+    [
+      "2023-09-21, 14:59:51",
+      "https://news.ycombinator.com/item?id=37598644"
+    ],
+    [
+      "How can treating one patient help another?",
+      "https://randomactsofmedicine.substack.com/p/how-can-treating-one-patient-help"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "An INI Critique of TOML (2021)",
       "https://github.com/madmurphy/libconfini/wiki/An-INI-critique-of-TOML"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 09:26:46",
-      "https://news.ycombinator.com/item?id=37595240"
-    ],
-    [
-      "Is Fortran easier to optimize than C for heavy calculations?",
-      "https://stackoverflow.com/questions/146159/is-fortran-easier-to-optimize-than-c-for-heavy-calculations"
     ]
   ],
   [
