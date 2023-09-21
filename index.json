@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=37592712"
     ],
     [
-      "Organic Maps: An Open-Source Maps App That Doesn't Suck",
+      "Organic Maps: An open-source maps app that doesn't suck",
       "https://hardfault.life/p/organic-maps-review"
     ]
   ],
@@ -37,16 +37,6 @@
     [
       "UK Parliament undermined the privacy, security, freedom of all internet users",
       "https://www.eff.org/deeplinks/2023/09/today-uk-parliament-undermined-privacy-security-and-freedom-all-internet-users"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 01:50:03",
-      "https://news.ycombinator.com/item?id=37592361"
-    ],
-    [
-      "Terry Tao: How a Near Failure Propelled Me to Succeed (2020) [pdf]",
-      "https://www.ams.org/notices/202007/rnoti-p1007.pdf"
     ]
   ],
   [
@@ -81,22 +71,22 @@
   ],
   [
     [
-      "2023-09-20, 21:35:40",
-      "https://news.ycombinator.com/item?id=37590544"
-    ],
-    [
-      "Alameda lost tens of millions because of a fat fingering mistake",
-      "https://www.adityabaradwaj.com/part-2-the-fat-finger/"
-    ]
-  ],
-  [
-    [
       "2023-09-20, 19:02:43",
       "https://news.ycombinator.com/item?id=37588526"
     ],
     [
       "Harlequin: DuckDB IDE for the terminal",
       "https://harlequin.sh/"
+    ]
+  ],
+  [
+    [
+      "2023-09-20, 18:52:42",
+      "https://news.ycombinator.com/item?id=37588374"
+    ],
+    [
+      "We Are Not Sustainable",
+      "https://frame.work/nl/en/blog/we-are-not-sustainable"
     ]
   ],
   [
@@ -137,6 +127,16 @@
     [
       "Fine-grained caching strategies of dynamic queries",
       "https://jensrantil.github.io/posts/fast-aggregate-queries-on-dynamic-data/"
+    ]
+  ],
+  [
+    [
+      "2023-09-20, 17:29:20",
+      "https://news.ycombinator.com/item?id=37587043"
+    ],
+    [
+      "Monitor bandwidth usage with bandwhich (and build a snap package of it)",
+      "https://popey.com/blog/2023/09/monitor-bandwidth-usage-with-bandwhich/"
     ]
   ],
   [
