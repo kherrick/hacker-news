@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
+* [2023-09-21, 18:06:27](https://news.ycombinator.com/item?id=37601526) - [Developmental costs associated with early maternal withdrawal (2022)](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdep.12442)
+* [2023-09-21, 17:34:11](https://news.ycombinator.com/item?id=37601064) - [Most UI Applications Are Broken Real-Time Applications](https://thelig.ht/ui-apps-are-broken/)
 * [2023-09-21, 17:26:58](https://news.ycombinator.com/item?id=37600937) - [US Cybersecurity: The Urgent Need for Memory Safety in Software Products](https://www.cisa.gov/news-events/news/urgent-need-memory-safety-software-products)
 * [2023-09-21, 17:11:29](https://news.ycombinator.com/item?id=37600693) - [India stops issuing visas to Canadians as row escalates](https://www.cnbctv18.com/india/india-suspends-visa-service-operations-in-canada-until-further-notice-bls-international-17850171.htm)
 * [2023-09-21, 17:06:08](https://news.ycombinator.com/item?id=37600618) - [USPS In-Person Identity Proofing](https://faq.usps.com/s/article/USPS-In-Person-Identity-Proofing)

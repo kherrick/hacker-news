@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-21, 18:06:27](https://news.ycombinator.com/item?id=37601526) - [Developmental costs associated with early maternal withdrawal (2022)](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdep.12442)
+* [2023-09-21, 17:34:11](https://news.ycombinator.com/item?id=37601064) - [Most UI Applications Are Broken Real-Time Applications](https://thelig.ht/ui-apps-are-broken/)
 * [2023-09-21, 17:26:58](https://news.ycombinator.com/item?id=37600937) - [US Cybersecurity: The Urgent Need for Memory Safety in Software Products](https://www.cisa.gov/news-events/news/urgent-need-memory-safety-software-products)
 * [2023-09-21, 17:11:29](https://news.ycombinator.com/item?id=37600693) - [India stops issuing visas to Canadians as row escalates](https://www.cnbctv18.com/india/india-suspends-visa-service-operations-in-canada-until-further-notice-bls-international-17850171.htm)
 * [2023-09-21, 17:06:08](https://news.ycombinator.com/item?id=37600618) - [USPS In-Person Identity Proofing](https://faq.usps.com/s/article/USPS-In-Person-Identity-Proofing)
@@ -22,12 +24,10 @@
 * [2023-09-21, 12:40:58](https://news.ycombinator.com/item?id=37596755) - [Airlines Are Just Banks Now](https://www.theatlantic.com/ideas/archive/2023/09/airlines-banks-mileage-programs/675374/)
 * [2023-09-21, 12:15:19](https://news.ycombinator.com/item?id=37596497) - [Cisco Acquires Splunk](https://www.splunk.com/en_us/blog/leadership/splunk-and-cisco-unite-to-accelerate-digital-resilience-as-one-of-the-leading-global-software-companies.html)
 * [2023-09-21, 11:48:51](https://news.ycombinator.com/item?id=37596253) - [Launch HN: Loops (YC W22) – Email for SaaS Companies](https://news.ycombinator.com/item?id=37596253)
-* [2023-09-21, 11:27:56](https://news.ycombinator.com/item?id=37596068) - [BWXT and Crowley Developing Nuclear Power Generation Ships](https://maritime-executive.com/article/crowley-partners-with-bwxt-to-develop-nuclear-power-generation-vessels)
 * [2023-09-21, 10:41:02](https://news.ycombinator.com/item?id=37595766) - [An INI Critique of TOML (2021)](https://github.com/madmurphy/libconfini/wiki/An-INI-critique-of-TOML)
 * [2023-09-21, 07:38:19](https://news.ycombinator.com/item?id=37594377) - [Philips Hue will soon force users to create an account](https://defcon.social/@mysk/111097362983335713)
 * [2023-09-21, 07:36:31](https://news.ycombinator.com/item?id=37594365) - [OpenBSD/ARM64 on Hetzner Cloud](https://www.undeadly.org/cgi?action=article;sid=20230921073556)
 * [2023-09-21, 06:39:03](https://news.ycombinator.com/item?id=37593967) - [Strong arrows: a new approach to gradual typing](https://elixir-lang.org/blog/2023/09/20/strong-arrows-gradual-typing/)
-* [2023-09-21, 01:11:31](https://news.ycombinator.com/item?id=37592107) - [Apple’s failure to build a key part for its new iPhones](https://www.wsj.com/tech/apple-iphone-modem-chip-failure-6fe33d19)
 * [2023-09-20, 06:46:48](https://news.ycombinator.com/item?id=37581145) - [CERN swaps out databases to feed its petabyte-a-day habit](https://www.theregister.com/2023/09/18/lhc_infrastructure_monitoring/)
 * [2023-09-19, 15:00:40](https://news.ycombinator.com/item?id=37570889) - [Intel Xeon Max 9480 Deep-Dive 64GB HBM2e Onboard Like a GPU or AI Accelerator](https://www.servethehome.com/intel-xeon-max-9480-deep-dive-intel-has-64gb-hbm2e-onboard-like-a-gpu-or-ai-accelerator/)
 
