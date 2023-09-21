@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
+* [2023-09-21, 19:31:24](https://news.ycombinator.com/item?id=37602923) - [Speeding up the JavaScript ecosystem – Polyfills gone rogue](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-6/)
 * [2023-09-21, 18:52:54](https://news.ycombinator.com/item?id=37602239) - [NASA’s Webb Finds Carbon Source on Surface of Jupiter’s Moon Europa](https://webbtelescope.org/contents/news-releases/2023/news-2023-113)
 * [2023-09-21, 18:28:52](https://news.ycombinator.com/item?id=37601865) - [React Server Components made our site a lot faster](https://frigade.com/blog/bundle-size-reduction-with-rsc-and-frigade)
 * [2023-09-21, 18:06:27](https://news.ycombinator.com/item?id=37601526) - [Developmental costs associated with early maternal withdrawal (2022)](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdep.12442)
@@ -63,6 +64,7 @@
 * [2023-09-21, 07:48:23](https://news.ycombinator.com/item?id=37594461) - [Ask HN: I'm a SWE without a CS degree. Will online certs help me get into FAANG?](https://news.ycombinator.com/item?id=37594461)
 * [2023-09-21, 07:38:19](https://news.ycombinator.com/item?id=37594377) - [Philips Hue will soon force users to create an account](https://defcon.social/@mysk/111097362983335713)
 * [2023-09-21, 07:36:31](https://news.ycombinator.com/item?id=37594365) - [OpenBSD/ARM64 on Hetzner Cloud](https://www.undeadly.org/cgi?action=article;sid=20230921073556)
+* [2023-09-21, 07:28:04](https://news.ycombinator.com/item?id=37594302) - [Designing content for people who struggle with numbers](https://service-manual.nhs.uk/content/numbers-measurements-dates-time)
 * [2023-09-21, 07:07:14](https://news.ycombinator.com/item?id=37594143) - [Spider silk spun by silkworms for first time, alternative to synthetic fibers](https://phys.org/news/2023-09-spider-silk-spun-silkworms-green.html)
 * [2023-09-21, 06:39:03](https://news.ycombinator.com/item?id=37593967) - [Strong arrows: a new approach to gradual typing](https://elixir-lang.org/blog/2023/09/20/strong-arrows-gradual-typing/)
 * [2023-09-21, 06:37:03](https://news.ycombinator.com/item?id=37593950) - [Tesla buys German railway line, now hosting passenger trains](https://www.trains.com/trn/news-reviews/news-wire/tesla-buys-german-railway-line-plans-passenger-trains-2/)
