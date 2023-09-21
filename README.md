@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-21, 07:07:14](https://news.ycombinator.com/item?id=37594143) - [Spider silk spun by silkworms for first time, alternative to synthetic fibers](https://phys.org/news/2023-09-spider-silk-spun-silkworms-green.html)
 * [2023-09-21, 06:37:03](https://news.ycombinator.com/item?id=37593950) - [Tesla buys German railway line, now hosting passenger trains](https://www.trains.com/trn/news-reviews/news-wire/tesla-buys-german-railway-line-plans-passenger-trains-2/)
 * [2023-09-21, 05:15:25](https://news.ycombinator.com/item?id=37593459) - [Install Windows the Arch Linux Way](https://christitus.com/install-windows-the-arch-linux-way/)
 * [2023-09-21, 04:13:29](https://news.ycombinator.com/item?id=37593143) - [GNU Turns 40](https://www.theregister.com/2023/09/20/gnu_turns_40/)
@@ -27,7 +28,6 @@
 * [2023-09-20, 08:01:44](https://news.ycombinator.com/item?id=37581646) - [Your cache headers could probably be more aggressive](https://www.macarthur.me/posts/more-aggressive-cache-headers)
 * [2023-09-20, 06:20:11](https://news.ycombinator.com/item?id=37580981) - [Grouping Digits in SQL](http://peter.eisentraut.org/blog/2023/09/20/grouping-digits-in-sql)
 * [2023-09-20, 04:53:20](https://news.ycombinator.com/item?id=37580498) - [Health risks of travel in early-modern Britain](https://dralun.wordpress.com/2023/02/17/the-health-risks-of-travel-in-early-modern-britain/)
-* [2023-09-20, 01:23:52](https://news.ycombinator.com/item?id=37579337) - [New study disproves Leonardo da Vinci's 'rule of trees'](https://phys.org/news/2023-09-leonardo-da-vinci-trees.html)
 * [2023-09-19, 21:47:58](https://news.ycombinator.com/item?id=37577284) - [One change could take India to the football World Cup](https://www.theguardian.com/football/2023/sep/12/india-can-aid-attempt-to-reach-world-cup-picking-overseas-born-players)
 * [2023-09-19, 20:30:16](https://news.ycombinator.com/item?id=37576079) - [How to evaluate a product roadmap, for engineers](https://stephen.fm/how-to-evaluate-a-product-roadmap/)
 
