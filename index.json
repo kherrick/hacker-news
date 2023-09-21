@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-09-20, 16:32:06",
+      "https://news.ycombinator.com/item?id=37586285"
+    ],
+    [
+      "Guide to Searching and Annotating Text on Maps",
+      "https://machines-reading-maps.github.io/rumsey/"
+    ]
+  ],
+  [
+    [
       "2023-09-20, 16:30:14",
       "https://news.ycombinator.com/item?id=37586264"
     ],
@@ -197,16 +207,6 @@
     [
       "Show HN: ElectricSQL, Postgres to SQLite active-active sync for local-first apps",
       "https://electric-sql.com/"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 13:00:35",
-      "https://news.ycombinator.com/item?id=37583593"
-    ],
-    [
-      "78% MNIST accuracy using GZIP in under 10 lines of code",
-      "https://jakobs.dev/solving-mnist-with-gzip/"
     ]
   ],
   [
