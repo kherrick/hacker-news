@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-21, 17:11:29](https://news.ycombinator.com/item?id=37600693) - [India stops issuing visas to Canadians as row escalates](https://www.cnbctv18.com/india/india-suspends-visa-service-operations-in-canada-until-further-notice-bls-international-17850171.htm)
 * [2023-09-21, 17:06:08](https://news.ycombinator.com/item?id=37600618) - [USPS In-Person Identity Proofing](https://faq.usps.com/s/article/USPS-In-Person-Identity-Proofing)
 * [2023-09-21, 17:00:48](https://news.ycombinator.com/item?id=37600542) - [OneSignal (YC S11), email and push notification platform, is hiring engineers](https://onesignal.com/careers/4264311006)
 * [2023-09-21, 16:26:44](https://news.ycombinator.com/item?id=37600019) - [Show HN: My Single-File Python Script I Used to Replace Splunk in My Startup](https://github.com/Dicklesworthstone/automatic_log_collector_and_analyzer)
@@ -16,7 +17,6 @@
 * [2023-09-21, 14:14:25](https://news.ycombinator.com/item?id=37597931) - [They have genetic ALS. What should clinicians do?](https://www.statnews.com/2023/09/21/als-gene-carrier-riluzole-toferson/)
 * [2023-09-21, 13:19:26](https://news.ycombinator.com/item?id=37597207) - [Google sued for negligence after man died following map directions](https://apnews.com/article/google-maps-lawsuit-north-carolina-death-f4707247ee3295bf51bbcb37bd0eb6c8)
 * [2023-09-21, 13:18:58](https://news.ycombinator.com/item?id=37597201) - [Show HN: Odin – the integration of LLMs with Obsidian note taking](https://github.com/memgraph/odin)
-* [2023-09-21, 13:16:09](https://news.ycombinator.com/item?id=37597165) - [Call to shut down Bristol schools’ use of app to ‘monitor’ pupils and families](https://www.theguardian.com/education/2023/sep/21/calls-to-shut-down-bristol-schools-use-of-think-family-education-app-pupils-and-families)
 * [2023-09-21, 12:44:11](https://news.ycombinator.com/item?id=37596788) - [Nippon Television has just acquired Studio Ghibli](https://www.catsuka.com/breves/2023-09-21/nippon-television-rachete-le-studio-ghibli)
 * [2023-09-21, 12:42:44](https://news.ycombinator.com/item?id=37596776) - [Why Kakoune](https://andreyor.st/posts/2023-09-20-why-kakoune/)
 * [2023-09-21, 12:40:58](https://news.ycombinator.com/item?id=37596755) - [Airlines Are Just Banks Now](https://www.theatlantic.com/ideas/archive/2023/09/airlines-banks-mileage-programs/675374/)
@@ -24,11 +24,11 @@
 * [2023-09-21, 11:48:51](https://news.ycombinator.com/item?id=37596253) - [Launch HN: Loops (YC W22) – Email for SaaS Companies](https://news.ycombinator.com/item?id=37596253)
 * [2023-09-21, 11:27:56](https://news.ycombinator.com/item?id=37596068) - [BWXT and Crowley Developing Nuclear Power Generation Ships](https://maritime-executive.com/article/crowley-partners-with-bwxt-to-develop-nuclear-power-generation-vessels)
 * [2023-09-21, 10:41:02](https://news.ycombinator.com/item?id=37595766) - [An INI Critique of TOML (2021)](https://github.com/madmurphy/libconfini/wiki/An-INI-critique-of-TOML)
+* [2023-09-21, 07:38:19](https://news.ycombinator.com/item?id=37594377) - [Philips Hue will soon force users to create an account](https://defcon.social/@mysk/111097362983335713)
 * [2023-09-21, 07:36:31](https://news.ycombinator.com/item?id=37594365) - [OpenBSD/ARM64 on Hetzner Cloud](https://www.undeadly.org/cgi?action=article;sid=20230921073556)
 * [2023-09-21, 06:39:03](https://news.ycombinator.com/item?id=37593967) - [Strong arrows: a new approach to gradual typing](https://elixir-lang.org/blog/2023/09/20/strong-arrows-gradual-typing/)
 * [2023-09-21, 01:11:31](https://news.ycombinator.com/item?id=37592107) - [Apple’s failure to build a key part for its new iPhones](https://www.wsj.com/tech/apple-iphone-modem-chip-failure-6fe33d19)
-* [2023-09-20, 23:56:42](https://news.ycombinator.com/item?id=37591629) - [The Bloomsbury Group is back in Vogue](https://www.newyorker.com/magazine/2023/09/25/the-bloomsbury-group-is-back-in-vogue)
-* [2023-09-20, 10:42:46](https://news.ycombinator.com/item?id=37582599) - [How Container Networking Works: Practical Explanation](https://iximiuz.com/en/posts/container-networking-is-simple/)
+* [2023-09-20, 06:46:48](https://news.ycombinator.com/item?id=37581145) - [CERN swaps out databases to feed its petabyte-a-day habit](https://www.theregister.com/2023/09/18/lhc_infrastructure_monitoring/)
 * [2023-09-19, 15:00:40](https://news.ycombinator.com/item?id=37570889) - [Intel Xeon Max 9480 Deep-Dive 64GB HBM2e Onboard Like a GPU or AI Accelerator](https://www.servethehome.com/intel-xeon-max-9480-deep-dive-intel-has-64gb-hbm2e-onboard-like-a-gpu-or-ai-accelerator/)
 
 ## [Archives](archives/index.md)

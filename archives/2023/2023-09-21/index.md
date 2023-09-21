@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
+* [2023-09-21, 17:11:29](https://news.ycombinator.com/item?id=37600693) - [India stops issuing visas to Canadians as row escalates](https://www.cnbctv18.com/india/india-suspends-visa-service-operations-in-canada-until-further-notice-bls-international-17850171.htm)
 * [2023-09-21, 17:06:08](https://news.ycombinator.com/item?id=37600618) - [USPS In-Person Identity Proofing](https://faq.usps.com/s/article/USPS-In-Person-Identity-Proofing)
 * [2023-09-21, 17:00:48](https://news.ycombinator.com/item?id=37600542) - [OneSignal (YC S11), email and push notification platform, is hiring engineers](https://onesignal.com/careers/4264311006)
 * [2023-09-21, 16:29:57](https://news.ycombinator.com/item?id=37600072) - [Medical gaslighting: when conditions turn out not to be 'all in the mind'](https://theconversation.com/medical-gaslighting-when-conditions-turn-out-not-to-be-all-in-the-mind-209611)
