@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-21, 20:32:53](https://news.ycombinator.com/item?id=37603905) - [Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10)
-* [2023-09-21, 20:24:24](https://news.ycombinator.com/item?id=37603769) - [Volvo to cease production of diesel cars in a few months](https://www.reuters.com/business/autos-transportation/volvo-end-diesel-car-production-by-early-2024-2023-09-19/)
 * [2023-09-21, 20:23:23](https://news.ycombinator.com/item?id=37603748) - [AMPKT – Amateur radio packet explorer](https://github.com/hexagonal-sun/ampkt)
 * [2023-09-21, 20:09:31](https://news.ycombinator.com/item?id=37603554) - [A customer stuck due to a hurricane who needed SSH](https://rachelbythebay.com/w/2023/09/21/hurricane/)
 * [2023-09-21, 20:04:31](https://news.ycombinator.com/item?id=37603467) - [Android 14 adds support for using your smartphone as a webcam](https://www.esper.io/blog/android-14-adds-support-for-using-your-smartphone-as-a-webcam)
@@ -9,6 +8,7 @@
 * [2023-09-21, 19:31:24](https://news.ycombinator.com/item?id=37602923) - [Speeding up the JavaScript ecosystem – Polyfills gone rogue](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-6/)
 * [2023-09-21, 19:24:14](https://news.ycombinator.com/item?id=37602798) - [How do databases execute expressions?](https://notes.eatonphil.com/2023-09-21-how-do-databases-execute-expressions.html)
 * [2023-09-21, 19:21:47](https://news.ycombinator.com/item?id=37602759) - [Ancient tools thought to be made by humans were made by monkeys: archaeologists](https://news.artnet.com/art-world/ancient-tools-monkeys-2237820)
+* [2023-09-21, 19:17:24](https://news.ycombinator.com/item?id=37602674) - [Why Open Source AI Will Win](https://varunshenoy.substack.com/p/why-open-source-ai-will-win)
 * [2023-09-21, 18:52:54](https://news.ycombinator.com/item?id=37602239) - [NASA’s Webb finds carbon source on surface of Jupiter’s moon Europa](https://webbtelescope.org/contents/news-releases/2023/news-2023-113)
 * [2023-09-21, 18:06:27](https://news.ycombinator.com/item?id=37601526) - [Developmental costs associated with early maternal withdrawal (2022)](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdep.12442)
 * [2023-09-21, 17:21:39](https://news.ycombinator.com/item?id=37600852) - [The WebP 0day](https://blog.isosceles.com/the-webp-0day/)
