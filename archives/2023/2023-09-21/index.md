@@ -8,6 +8,7 @@
 * [2023-09-21, 20:24:24](https://news.ycombinator.com/item?id=37603769) - [Volvo to cease production of diesel cars in a few months](https://www.reuters.com/business/autos-transportation/volvo-end-diesel-car-production-by-early-2024-2023-09-19/)
 * [2023-09-21, 20:23:23](https://news.ycombinator.com/item?id=37603748) - [Rust SDR Amateur Radio Network Interface](https://github.com/hexagonal-sun/ampkt)
 * [2023-09-21, 20:09:31](https://news.ycombinator.com/item?id=37603554) - [The customer stuck due to a hurricane who needed SSH](https://rachelbythebay.com/w/2023/09/21/hurricane/)
+* [2023-09-21, 20:04:31](https://news.ycombinator.com/item?id=37603467) - [Android 14 adds support for using your smartphone as a webcam](https://www.esper.io/blog/android-14-adds-support-for-using-your-smartphone-as-a-webcam)
 * [2023-09-21, 19:56:21](https://news.ycombinator.com/item?id=37603331) - [LabelContactRelationYoungerCousinMothersSiblingsDaughterOrFathersSistersDaughter](https://developer.apple.com/documentation/contacts/cnlabelcontactrelationyoungercousinmotherssiblingsdaughterorfatherssistersdaughter)
 * [2023-09-21, 19:36:23](https://news.ycombinator.com/item?id=37602989) - [7 year old Kafka Java client bug (2016)](https://issues.apache.org/jira/browse/KAFKA-4090)
 * [2023-09-21, 19:31:24](https://news.ycombinator.com/item?id=37602923) - [Speeding up the JavaScript ecosystem – Polyfills gone rogue](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-6/)
