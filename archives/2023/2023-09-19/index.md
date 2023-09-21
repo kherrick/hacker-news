@@ -18,6 +18,7 @@
 * [2023-09-19, 21:13:54](https://news.ycombinator.com/item?id=37576781) - [UniFree: Migrate Unity projects to other engines](https://gamefromscratch.com/applovin-launch-project-unifree/)
 * [2023-09-19, 21:05:20](https://news.ycombinator.com/item?id=37576633) - [Can’t send email more than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
 * [2023-09-19, 21:02:11](https://news.ycombinator.com/item?id=37576580) - [Emerge (YC W21) is hiring a lead front end engineer (remote, small team)](https://www.workatastartup.com/jobs/61922/)
+* [2023-09-19, 20:48:17](https://news.ycombinator.com/item?id=37576321) - [The South’s Jewish Proust](https://www.tabletmag.com/sections/arts-letters/articles/shelby-foote-proust)
 * [2023-09-19, 20:47:03](https://news.ycombinator.com/item?id=37576303) - [Nushell 0.85](https://www.nushell.sh/blog/2023-09-19-nushell_0_85_0.html)
 * [2023-09-19, 20:44:46](https://news.ycombinator.com/item?id=37576259) - [The Princeton researchers calling out ‘AI snake oil’](https://www.semafor.com/article/09/15/2023/the-princeton-researchers-calling-out-ai-snake-oil)
 * [2023-09-19, 20:30:16](https://news.ycombinator.com/item?id=37576079) - [How-To Evaluate a Product Roadmap, for Engineers](https://stephen.fm/how-to-evaluate-a-product-roadmap/)
