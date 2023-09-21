@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
+* [2023-09-21, 17:00:48](https://news.ycombinator.com/item?id=37600542) - [OneSignal (YC S11), email and push notification platform, is hiring engineers](https://onesignal.com/careers/4264311006)
 * [2023-09-21, 16:29:57](https://news.ycombinator.com/item?id=37600072) - [Medical gaslighting: when conditions turn out not to be 'all in the mind'](https://theconversation.com/medical-gaslighting-when-conditions-turn-out-not-to-be-all-in-the-mind-209611)
 * [2023-09-21, 16:26:44](https://news.ycombinator.com/item?id=37600019) - [Show HN: My Single-File Python Script I Used to Replace Splunk in My Startup](https://github.com/Dicklesworthstone/automatic_log_collector_and_analyzer)
 * [2023-09-21, 16:19:32](https://news.ycombinator.com/item?id=37599891) - [Show HN: Storiaboard – Faster and cheaper video previsualization with Gen AI](https://app.storia.ai/)

@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-21, 16:29:57](https://news.ycombinator.com/item?id=37600072) - [Medical gaslighting: when conditions turn out not to be 'all in the mind'](https://theconversation.com/medical-gaslighting-when-conditions-turn-out-not-to-be-all-in-the-mind-209611)
+* [2023-09-21, 17:00:48](https://news.ycombinator.com/item?id=37600542) - [OneSignal (YC S11), email and push notification platform, is hiring engineers](https://onesignal.com/careers/4264311006)
 * [2023-09-21, 16:26:44](https://news.ycombinator.com/item?id=37600019) - [Show HN: My Single-File Python Script I Used to Replace Splunk in My Startup](https://github.com/Dicklesworthstone/automatic_log_collector_and_analyzer)
 * [2023-09-21, 16:18:02](https://news.ycombinator.com/item?id=37599873) - [Rag is more than just embedding search](https://jxnl.github.io/instructor/blog/2023/09/17/rag-is-more-than-just-embedding-search/)
 * [2023-09-21, 15:58:25](https://news.ycombinator.com/item?id=37599587) - [Insider trade on Splunk acquisition for 45,650% return](https://twitter.com/unusual_whales/status/1704870849831125446)
@@ -19,7 +19,6 @@
 * [2023-09-21, 12:44:11](https://news.ycombinator.com/item?id=37596788) - [Nippon Television has just acquired Studio Ghibli](https://www.catsuka.com/breves/2023-09-21/nippon-television-rachete-le-studio-ghibli)
 * [2023-09-21, 12:42:44](https://news.ycombinator.com/item?id=37596776) - [Why Kakoune](https://andreyor.st/posts/2023-09-20-why-kakoune/)
 * [2023-09-21, 12:40:58](https://news.ycombinator.com/item?id=37596755) - [Airlines Are Just Banks Now](https://www.theatlantic.com/ideas/archive/2023/09/airlines-banks-mileage-programs/675374/)
-* [2023-09-21, 12:15:19](https://news.ycombinator.com/item?id=37596498) - [Issue affecting the Gateway API on the Braintree platform](https://www.paypal-status.com/incident/production)
 * [2023-09-21, 12:15:19](https://news.ycombinator.com/item?id=37596497) - [Cisco Acquires Splunk](https://www.splunk.com/en_us/blog/leadership/splunk-and-cisco-unite-to-accelerate-digital-resilience-as-one-of-the-leading-global-software-companies.html)
 * [2023-09-21, 11:48:51](https://news.ycombinator.com/item?id=37596253) - [Launch HN: Loops (YC W22) – Email for SaaS Companies](https://news.ycombinator.com/item?id=37596253)
 * [2023-09-21, 11:27:56](https://news.ycombinator.com/item?id=37596068) - [BWXT and Crowley Developing Nuclear Power Generation Ships](https://maritime-executive.com/article/crowley-partners-with-bwxt-to-develop-nuclear-power-generation-vessels)
@@ -29,6 +28,7 @@
 * [2023-09-21, 01:11:31](https://news.ycombinator.com/item?id=37592107) - [Apple’s failure to build a key part for its new iPhones](https://www.wsj.com/tech/apple-iphone-modem-chip-failure-6fe33d19)
 * [2023-09-20, 23:56:42](https://news.ycombinator.com/item?id=37591629) - [The Bloomsbury Group is back in Vogue](https://www.newyorker.com/magazine/2023/09/25/the-bloomsbury-group-is-back-in-vogue)
 * [2023-09-20, 10:48:36](https://news.ycombinator.com/item?id=37582632) - [Introduction to Linux interfaces for virtual networking (2018)](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking)
+* [2023-09-20, 10:42:46](https://news.ycombinator.com/item?id=37582599) - [How Container Networking Works: Practical Explanation](https://iximiuz.com/en/posts/container-networking-is-simple/)
 * [2023-09-19, 15:00:40](https://news.ycombinator.com/item?id=37570889) - [Intel Xeon Max 9480 Deep-Dive 64GB HBM2e Onboard Like a GPU or AI Accelerator](https://www.servethehome.com/intel-xeon-max-9480-deep-dive-intel-has-64gb-hbm2e-onboard-like-a-gpu-or-ai-accelerator/)
 
 ## [Archives](archives/index.md)
