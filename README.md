@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-21, 06:37:03](https://news.ycombinator.com/item?id=37593950) - [Tesla buys German railway line, now hosting passenger trains](https://www.trains.com/trn/news-reviews/news-wire/tesla-buys-german-railway-line-plans-passenger-trains-2/)
 * [2023-09-21, 05:15:25](https://news.ycombinator.com/item?id=37593459) - [Install Windows the Arch Linux Way](https://christitus.com/install-windows-the-arch-linux-way/)
 * [2023-09-21, 04:13:29](https://news.ycombinator.com/item?id=37593143) - [GNU Turns 40](https://www.theregister.com/2023/09/20/gnu_turns_40/)
 * [2023-09-21, 04:11:49](https://news.ycombinator.com/item?id=37593133) - [Terraria developer bashes Unity, donates $200k to open source alternatives](https://lemm.ee/post/8670706)
@@ -22,7 +23,6 @@
 * [2023-09-20, 16:02:28](https://news.ycombinator.com/item?id=37585869) - [Show HN: Booklet – Async forums as an alternative to chat](https://www.booklet.group/)
 * [2023-09-20, 14:14:12](https://news.ycombinator.com/item?id=37584399) - [Car allergic to vanilla ice cream (2000)](http://www.cs.cmu.edu/~wkw/humour/carproblems.txt)
 * [2023-09-20, 13:46:55](https://news.ycombinator.com/item?id=37584049) - [Show HN: ElectricSQL, Postgres to SQLite active-active sync for local-first apps](https://electric-sql.com/)
-* [2023-09-20, 13:00:35](https://news.ycombinator.com/item?id=37583593) - [78% MNIST accuracy using GZIP in under 10 lines of code](https://jakobs.dev/solving-mnist-with-gzip/)
 * [2023-09-20, 10:48:36](https://news.ycombinator.com/item?id=37582632) - [Introduction to Linux interfaces for virtual networking (2018)](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking)
 * [2023-09-20, 08:01:44](https://news.ycombinator.com/item?id=37581646) - [Your cache headers could probably be more aggressive](https://www.macarthur.me/posts/more-aggressive-cache-headers)
 * [2023-09-20, 06:20:11](https://news.ycombinator.com/item?id=37580981) - [Grouping Digits in SQL](http://peter.eisentraut.org/blog/2023/09/20/grouping-digits-in-sql)
