@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
 * [2023-09-21, 18:06:27](https://news.ycombinator.com/item?id=37601526) - [Developmental costs associated with early maternal withdrawal (2022)](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdep.12442)
+* [2023-09-21, 17:53:15](https://news.ycombinator.com/item?id=37601363) - [A Young Architect’s Designs for the Climate Apocalypse](https://www.newyorker.com/magazine/2023/09/25/a-young-architects-designs-for-the-climate-apocalypse)
 * [2023-09-21, 17:34:11](https://news.ycombinator.com/item?id=37601064) - [Most UI Applications Are Broken Real-Time Applications](https://thelig.ht/ui-apps-are-broken/)
 * [2023-09-21, 17:26:58](https://news.ycombinator.com/item?id=37600937) - [US Cybersecurity: The Urgent Need for Memory Safety in Software Products](https://www.cisa.gov/news-events/news/urgent-need-memory-safety-software-products)
 * [2023-09-21, 17:11:29](https://news.ycombinator.com/item?id=37600693) - [India stops issuing visas to Canadians as row escalates](https://www.cnbctv18.com/india/india-suspends-visa-service-operations-in-canada-until-further-notice-bls-international-17850171.htm)
@@ -16,6 +17,7 @@
 * [2023-09-21, 16:19:32](https://news.ycombinator.com/item?id=37599891) - [Show HN: Storiaboard – Faster and cheaper video previsualization with Gen AI](https://app.storia.ai/)
 * [2023-09-21, 16:18:02](https://news.ycombinator.com/item?id=37599873) - [Rag is more than just embedding search](https://jxnl.github.io/instructor/blog/2023/09/17/rag-is-more-than-just-embedding-search/)
 * [2023-09-21, 15:58:25](https://news.ycombinator.com/item?id=37599587) - [Insider trade on Splunk acquisition for 45,650% return](https://twitter.com/unusual_whales/status/1704870849831125446)
+* [2023-09-21, 15:55:20](https://news.ycombinator.com/item?id=37599542) - [Lead poisoning causes far more death, IQ loss than thought: study](https://medicalxpress.com/news/2023-09-poisoning-death-iq-loss-thought.html)
 * [2023-09-21, 15:53:24](https://news.ycombinator.com/item?id=37599510) - [Matrix 2.0: The Future of Matrix](https://matrix.org/blog/2023/09/matrix-2-0/)
 * [2023-09-21, 15:40:28](https://news.ycombinator.com/item?id=37599312) - [Sunken temple and sanctuary from ancient Egypt found](https://www.livescience.com/archaeology/ancient-egyptians/sunken-temple-and-sanctuary-from-ancient-egypt-found-brimming-with-treasures-and-secrets)
 * [2023-09-21, 15:33:06](https://news.ycombinator.com/item?id=37599194) - [The NSA Invented Bitcoin?](https://twitter.com/danroberts0101/status/1702440110002729356)
