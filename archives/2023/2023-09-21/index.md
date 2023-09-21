@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
+* [2023-09-21, 12:44:11](https://news.ycombinator.com/item?id=37596788) - [Nippon Television has just acquired Studio Ghibli](https://www.catsuka.com/breves/2023-09-21/nippon-television-rachete-le-studio-ghibli)
 * [2023-09-21, 12:19:16](https://news.ycombinator.com/item?id=37596530) - [Uber Eats will start accepting food stamps for grocery delivery in 2024](https://www.theverge.com/2023/9/20/23880403/uber-eats-food-stamps-snap-ebt-fsa-flex-ai-assistant)
 * [2023-09-21, 12:15:19](https://news.ycombinator.com/item?id=37596498) - [BrainTree has been down for more than 6 hours now](https://www.paypal-status.com/incident/production)
 * [2023-09-21, 12:15:19](https://news.ycombinator.com/item?id=37596497) - [Cisco Acquires Splunk](https://www.splunk.com/en_us/blog/leadership/splunk-and-cisco-unite-to-accelerate-digital-resilience-as-one-of-the-leading-global-software-companies.html)
+* [2023-09-21, 12:08:53](https://news.ycombinator.com/item?id=37596439) - [Community Growth At: HashiCorp](https://community.inc/deep-dives/community-growth-hashicorp)
 * [2023-09-21, 11:48:51](https://news.ycombinator.com/item?id=37596253) - [Launch HN: Loops (YC W22) – Email for SaaS Companies](https://news.ycombinator.com/item?id=37596253)
 * [2023-09-21, 11:27:56](https://news.ycombinator.com/item?id=37596068) - [BWXT and Crowley Developing Nuclear Power Generation Ships](https://maritime-executive.com/article/crowley-partners-with-bwxt-to-develop-nuclear-power-generation-vessels)
 * [2023-09-21, 11:03:36](https://news.ycombinator.com/item?id=37595919) - [Is Encryption at Rest a Scam?](https://evervault.com/blog/is-encryption-at-rest-a-scam)
