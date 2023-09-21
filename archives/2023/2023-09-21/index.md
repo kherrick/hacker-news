@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
+* [2023-09-21, 16:29:57](https://news.ycombinator.com/item?id=37600072) - [Medical gaslighting: when conditions turn out not to be 'all in the mind'](https://theconversation.com/medical-gaslighting-when-conditions-turn-out-not-to-be-all-in-the-mind-209611)
+* [2023-09-21, 16:26:44](https://news.ycombinator.com/item?id=37600019) - [Show HN: My Single-File Python Script I Used to Replace Splunk in My Startup](https://github.com/Dicklesworthstone/automatic_log_collector_and_analyzer)
 * [2023-09-21, 16:19:32](https://news.ycombinator.com/item?id=37599891) - [Show HN: Storiaboard – Faster and cheaper video previsualization with Gen AI](https://app.storia.ai/)
 * [2023-09-21, 16:18:02](https://news.ycombinator.com/item?id=37599873) - [Rag is more than just embedding search](https://jxnl.github.io/instructor/blog/2023/09/17/rag-is-more-than-just-embedding-search/)
 * [2023-09-21, 15:58:25](https://news.ycombinator.com/item?id=37599587) - [Insider trade on Splunk acquisition for 45,650% return](https://twitter.com/unusual_whales/status/1704870849831125446)
+* [2023-09-21, 15:53:24](https://news.ycombinator.com/item?id=37599510) - [Matrix 2.0: The Future of Matrix](https://matrix.org/blog/2023/09/matrix-2-0/)
 * [2023-09-21, 15:40:28](https://news.ycombinator.com/item?id=37599312) - [Sunken temple and sanctuary from ancient Egypt found](https://www.livescience.com/archaeology/ancient-egyptians/sunken-temple-and-sanctuary-from-ancient-egypt-found-brimming-with-treasures-and-secrets)
 * [2023-09-21, 15:33:06](https://news.ycombinator.com/item?id=37599194) - [The NSA Invented Bitcoin?](https://twitter.com/danroberts0101/status/1702440110002729356)
 * [2023-09-21, 15:21:02](https://news.ycombinator.com/item?id=37598985) - [Article reply “Godot is not the new Unity” from Juan Linietsky (BDFL of Godot)](https://gist.github.com/reduz/cb05fe96079e46785f08a79ec3b0ef21)
@@ -61,4 +64,5 @@
 * [2023-09-21, 01:50:03](https://news.ycombinator.com/item?id=37592361) - [Terry Tao: How a Near Failure Propelled Me to Succeed (2020) [pdf]](https://www.ams.org/notices/202007/rnoti-p1007.pdf)
 * [2023-09-21, 01:41:41](https://news.ycombinator.com/item?id=37592310) - [Uncle Sam names 3 Amazon execs as Prime suspects in subscription ripoff case](https://www.theregister.com/2023/09/21/ftc_amazon_prime_amended_complaint/)
 * [2023-09-21, 01:37:50](https://news.ycombinator.com/item?id=37592292) - [ChatGPT and DALL-E 3 [video]](https://twitter.com/sama/status/1704561613070893428)
+* [2023-09-21, 01:11:31](https://news.ycombinator.com/item?id=37592107) - [Apple’s failure to build a key part for its new iPhones](https://www.wsj.com/tech/apple-iphone-modem-chip-failure-6fe33d19)
 * [2023-09-21, 00:00:28](https://news.ycombinator.com/item?id=37591652) - [Terry Tao's generals](https://web.math.princeton.edu/generals/tao_terence)
