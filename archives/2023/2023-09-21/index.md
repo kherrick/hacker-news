@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
+* [2023-09-21, 20:32:53](https://news.ycombinator.com/item?id=37603905) - [Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10)
+* [2023-09-21, 20:23:23](https://news.ycombinator.com/item?id=37603748) - [Rust SDR Amateur Radio Network Interface](https://github.com/hexagonal-sun/ampkt)
 * [2023-09-21, 20:09:31](https://news.ycombinator.com/item?id=37603554) - [The customer stuck due to a hurricane who needed SSH](https://rachelbythebay.com/w/2023/09/21/hurricane/)
 * [2023-09-21, 19:56:21](https://news.ycombinator.com/item?id=37603331) - [LabelContactRelationYoungerCousinMothersSiblingsDaughterOrFathersSistersDaughter](https://developer.apple.com/documentation/contacts/cnlabelcontactrelationyoungercousinmotherssiblingsdaughterorfatherssistersdaughter)
 * [2023-09-21, 19:36:23](https://news.ycombinator.com/item?id=37602989) - [7 year old Kafka Java client bug (2016)](https://issues.apache.org/jira/browse/KAFKA-4090)
