@@ -68,6 +68,7 @@
 * [2023-09-19, 15:28:06](https://news.ycombinator.com/item?id=37571328) - [Yash Shorthand System](https://opsahl.github.io/yash/)
 * [2023-09-19, 15:04:49](https://news.ycombinator.com/item?id=37570947) - [Always Bump Downwards (2019)](https://fitzgeraldnick.com/2019/11/01/always-bump-downwards.html)
 * [2023-09-19, 15:03:24](https://news.ycombinator.com/item?id=37570929) - [Show HN: Graphite – Stacked Diffs on GitHub](https://news.ycombinator.com/item?id=37570929)
+* [2023-09-19, 15:00:40](https://news.ycombinator.com/item?id=37570889) - [Intel Xeon Max 9480 Deep-Dive 64GB HBM2e Onboard Like a GPU or AI Accelerator](https://www.servethehome.com/intel-xeon-max-9480-deep-dive-intel-has-64gb-hbm2e-onboard-like-a-gpu-or-ai-accelerator/)
 * [2023-09-19, 14:56:43](https://news.ycombinator.com/item?id=37570829) - [Plug and socket types around the world](https://www.worldstandards.eu/electricity/plugs-and-sockets/)
 * [2023-09-19, 14:53:01](https://news.ycombinator.com/item?id=37570785) - [Counting Ghosts: A case for abandoning web analytics](https://pcmaffey.com/counting-ghosts)
 * [2023-09-19, 14:50:23](https://news.ycombinator.com/item?id=37570743) - [The Physical Process That Powers a New Type of Generative AI](https://www.quantamagazine.org/new-physics-inspired-generative-ai-exceeds-expectations-20230919/)

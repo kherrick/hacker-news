@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-21, 10:34:06](https://news.ycombinator.com/item?id=37595717) - [Rumble rejects MP's 'disturbing' letter over income](https://www.bbc.co.uk/news/entertainment-arts-66875128)
 * [2023-09-21, 10:03:06](https://news.ycombinator.com/item?id=37595519) - [PSA: Storybook sends telemetry data, opt-in by default](https://storybook.js.org/docs/react/configure/telemetry/)
 * [2023-09-21, 09:26:46](https://news.ycombinator.com/item?id=37595240) - [Is Fortran easier to optimize than C for heavy calculations?](https://stackoverflow.com/questions/146159/is-fortran-easier-to-optimize-than-c-for-heavy-calculations)
 * [2023-09-21, 08:39:30](https://news.ycombinator.com/item?id=37594855) - [India's biggest tech centers named as cyber crime hotspots](https://www.theregister.com/2023/09/21/india_cybercrime_trends_report/)
@@ -10,7 +11,6 @@
 * [2023-09-21, 05:15:25](https://news.ycombinator.com/item?id=37593459) - [Install Windows the Arch Linux Way](https://christitus.com/install-windows-the-arch-linux-way/)
 * [2023-09-21, 03:35:43](https://news.ycombinator.com/item?id=37592934) - [How Equifax Was Breached in 2017](https://blog.0x7d0.dev/history/how-equifax-was-breached-in-2017/)
 * [2023-09-21, 03:09:57](https://news.ycombinator.com/item?id=37592801) - [NASA’s New Shortcut to Fusion Power (2022)](https://spectrum.ieee.org/lattice-confinement-fusion)
-* [2023-09-21, 02:54:09](https://news.ycombinator.com/item?id=37592712) - [Organic Maps: An open-source maps app that doesn't suck](https://hardfault.life/p/organic-maps-review)
 * [2023-09-21, 02:51:08](https://news.ycombinator.com/item?id=37592699) - [UK Parliament undermined the privacy, security, freedom of all internet users](https://www.eff.org/deeplinks/2023/09/today-uk-parliament-undermined-privacy-security-and-freedom-all-internet-users)
 * [2023-09-21, 00:00:28](https://news.ycombinator.com/item?id=37591652) - [Terry Tao's generals (2012)](https://web.math.princeton.edu/generals/tao_terence)
 * [2023-09-20, 23:37:45](https://news.ycombinator.com/item?id=37591492) - [Codeberg scaling issue mostly caused by software architecture](https://social.anoxinon.de/@Codeberg/111080340627453702)
@@ -18,7 +18,6 @@
 * [2023-09-20, 22:14:37](https://news.ycombinator.com/item?id=37590881) - [Meticulous: An FPGA-Based Main Memory Emulator for System Software Studies](https://arxiv.org/abs/2309.06565)
 * [2023-09-20, 19:02:43](https://news.ycombinator.com/item?id=37588526) - [Harlequin: DuckDB IDE for the terminal](https://harlequin.sh/)
 * [2023-09-20, 17:42:24](https://news.ycombinator.com/item?id=37587233) - [Fine-grained caching strategies of dynamic queries](https://jensrantil.github.io/posts/fast-aggregate-queries-on-dynamic-data/)
-* [2023-09-20, 16:52:18](https://news.ycombinator.com/item?id=37586580) - [XML is better than YAML – Hear me out](https://changelog.com/posts/xml-better-than-yaml)
 * [2023-09-20, 16:32:06](https://news.ycombinator.com/item?id=37586285) - [Guide to Searching and Annotating Text on Maps](https://machines-reading-maps.github.io/rumsey/)
 * [2023-09-20, 16:30:14](https://news.ycombinator.com/item?id=37586264) - [Toyota Research claims breakthrough in teaching robots new behaviors](https://www.tri.global/news/toyota-research-institute-unveils-breakthrough-teaching-robots-new-behaviors)
 * [2023-09-20, 14:14:12](https://news.ycombinator.com/item?id=37584399) - [Car allergic to vanilla ice cream (2000)](http://www.cs.cmu.edu/~wkw/humour/carproblems.txt)
@@ -30,6 +29,7 @@
 * [2023-09-20, 06:20:11](https://news.ycombinator.com/item?id=37580981) - [Grouping digits in SQL](http://peter.eisentraut.org/blog/2023/09/20/grouping-digits-in-sql)
 * [2023-09-20, 01:23:52](https://news.ycombinator.com/item?id=37579337) - [New study disproves Leonardo da Vinci's 'rule of trees'](https://phys.org/news/2023-09-leonardo-da-vinci-trees.html)
 * [2023-09-19, 20:30:16](https://news.ycombinator.com/item?id=37576079) - [How to evaluate a product roadmap, for engineers](https://stephen.fm/how-to-evaluate-a-product-roadmap/)
+* [2023-09-19, 15:00:40](https://news.ycombinator.com/item?id=37570889) - [Intel Xeon Max 9480 Deep-Dive 64GB HBM2e Onboard Like a GPU or AI Accelerator](https://www.servethehome.com/intel-xeon-max-9480-deep-dive-intel-has-64gb-hbm2e-onboard-like-a-gpu-or-ai-accelerator/)
 
 ## [Archives](archives/index.md)
 
