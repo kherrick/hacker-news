@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-21, 10:34:06",
+      "https://news.ycombinator.com/item?id=37595717"
+    ],
+    [
+      "Rumble rejects MP's 'disturbing' letter over income",
+      "https://www.bbc.co.uk/news/entertainment-arts-66875128"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 10:03:06",
       "https://news.ycombinator.com/item?id=37595519"
     ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2023-09-21, 02:54:09",
-      "https://news.ycombinator.com/item?id=37592712"
-    ],
-    [
-      "Organic Maps: An open-source maps app that doesn't suck",
-      "https://hardfault.life/p/organic-maps-review"
-    ]
-  ],
-  [
-    [
       "2023-09-21, 02:51:08",
       "https://news.ycombinator.com/item?id=37592699"
     ],
@@ -177,16 +177,6 @@
     [
       "Fine-grained caching strategies of dynamic queries",
       "https://jensrantil.github.io/posts/fast-aggregate-queries-on-dynamic-data/"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 16:52:18",
-      "https://news.ycombinator.com/item?id=37586580"
-    ],
-    [
-      "XML is better than YAML – Hear me out",
-      "https://changelog.com/posts/xml-better-than-yaml"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "How to evaluate a product roadmap, for engineers",
       "https://stephen.fm/how-to-evaluate-a-product-roadmap/"
+    ]
+  ],
+  [
+    [
+      "2023-09-19, 15:00:40",
+      "https://news.ycombinator.com/item?id=37570889"
+    ],
+    [
+      "Intel Xeon Max 9480 Deep-Dive 64GB HBM2e Onboard Like a GPU or AI Accelerator",
+      "https://www.servethehome.com/intel-xeon-max-9480-deep-dive-intel-has-64gb-hbm2e-onboard-like-a-gpu-or-ai-accelerator/"
     ]
   ]
 ]
