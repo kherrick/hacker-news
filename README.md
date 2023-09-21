@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-21, 13:24:39](https://news.ycombinator.com/item?id=37597264) - [Rupert Murdoch steps down as Fox and News Corp chairman](https://www.bbc.co.uk/news/business-66881306)
+* [2023-09-21, 13:19:26](https://news.ycombinator.com/item?id=37597207) - [Google sued for negligence after man died following map directions](https://apnews.com/article/google-maps-lawsuit-north-carolina-death-f4707247ee3295bf51bbcb37bd0eb6c8)
 * [2023-09-21, 13:18:58](https://news.ycombinator.com/item?id=37597201) - [Show HN: Odin – the integration of LLMs with Obsidian note taking](https://github.com/memgraph/odin)
 * [2023-09-21, 13:16:09](https://news.ycombinator.com/item?id=37597165) - [Call to shut down Bristol schools’ use of app to ‘monitor’ pupils and families](https://www.theguardian.com/education/2023/sep/21/calls-to-shut-down-bristol-schools-use-of-think-family-education-app-pupils-and-families)
 * [2023-09-21, 12:44:11](https://news.ycombinator.com/item?id=37596788) - [Nippon Television has just acquired Studio Ghibli](https://www.catsuka.com/breves/2023-09-21/nippon-television-rachete-le-studio-ghibli)
@@ -12,7 +13,6 @@
 * [2023-09-21, 12:08:53](https://news.ycombinator.com/item?id=37596439) - [Community Growth At: HashiCorp](https://community.inc/deep-dives/community-growth-hashicorp)
 * [2023-09-21, 11:48:51](https://news.ycombinator.com/item?id=37596253) - [Launch HN: Loops (YC W22) – Email for SaaS Companies](https://news.ycombinator.com/item?id=37596253)
 * [2023-09-21, 11:27:56](https://news.ycombinator.com/item?id=37596068) - [BWXT and Crowley Developing Nuclear Power Generation Ships](https://maritime-executive.com/article/crowley-partners-with-bwxt-to-develop-nuclear-power-generation-vessels)
-* [2023-09-21, 11:00:19](https://news.ycombinator.com/item?id=37595898) - [Atlassian cripples’ Jira automation for all but enterprise customers](https://community.atlassian.com/t5/Automation-articles/Introducing-our-new-packaging-model-for-Jira-Cloud-Automation/ba-p/2446099)
 * [2023-09-21, 10:41:02](https://news.ycombinator.com/item?id=37595766) - [An INI Critique of TOML](https://github.com/madmurphy/libconfini/wiki/An-INI-critique-of-TOML)
 * [2023-09-21, 09:36:21](https://news.ycombinator.com/item?id=37595322) - [Ship of Fools](https://successfulsoftware.net/2023/09/19/ship-of-fools/)
 * [2023-09-21, 08:39:30](https://news.ycombinator.com/item?id=37594855) - [India's biggest tech centers named as cyber crime hotspots](https://www.theregister.com/2023/09/21/india_cybercrime_trends_report/)

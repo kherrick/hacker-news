@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
 * [2023-09-21, 13:24:39](https://news.ycombinator.com/item?id=37597264) - [Rupert Murdoch steps down as Fox and News Corp chairman](https://www.bbc.co.uk/news/business-66881306)
+* [2023-09-21, 13:19:26](https://news.ycombinator.com/item?id=37597207) - [Google sued for negligence after man died following map directions](https://apnews.com/article/google-maps-lawsuit-north-carolina-death-f4707247ee3295bf51bbcb37bd0eb6c8)
 * [2023-09-21, 13:18:58](https://news.ycombinator.com/item?id=37597201) - [Show HN: Odin – the integration of LLMs with Obsidian note taking](https://github.com/memgraph/odin)
 * [2023-09-21, 13:16:09](https://news.ycombinator.com/item?id=37597165) - [Call to shut down Bristol schools’ use of app to ‘monitor’ pupils and families](https://www.theguardian.com/education/2023/sep/21/calls-to-shut-down-bristol-schools-use-of-think-family-education-app-pupils-and-families)
 * [2023-09-21, 12:44:11](https://news.ycombinator.com/item?id=37596788) - [Nippon Television has just acquired Studio Ghibli](https://www.catsuka.com/breves/2023-09-21/nippon-television-rachete-le-studio-ghibli)
