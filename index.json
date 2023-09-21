@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-21, 00:00:28",
+      "https://news.ycombinator.com/item?id=37591652"
+    ],
+    [
+      "Terry Tao's generals",
+      "https://web.math.princeton.edu/generals/tao_terence"
+    ]
+  ],
+  [
+    [
       "2023-09-20, 23:35:36",
       "https://news.ycombinator.com/item?id=37591478"
     ],
@@ -17,6 +27,16 @@
     [
       "Meticulous: An FPGA-Based Main Memory Emulator for System Software Studies",
       "https://arxiv.org/abs/2309.06565"
+    ]
+  ],
+  [
+    [
+      "2023-09-20, 22:02:04",
+      "https://news.ycombinator.com/item?id=37590790"
+    ],
+    [
+      "OpenTofu",
+      "https://opentofu.org/"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "Strada – Create fully native controls, driven by your web app",
       "https://strada.hotwired.dev/"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 17:29:20",
-      "https://news.ycombinator.com/item?id=37587043"
-    ],
-    [
-      "Monitor bandwidth usage with bandwhich (and build a snap package of it)",
-      "https://popey.com/blog/2023/09/monitor-bandwidth-usage-with-bandwhich/"
     ]
   ],
   [
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2023-09-20, 00:26:36",
-      "https://news.ycombinator.com/item?id=37578948"
+      "2023-09-19, 20:48:17",
+      "https://news.ycombinator.com/item?id=37576321"
     ],
     [
-      "The unknowable presents, secretly encoded",
-      "https://denniscooperblog.com/the-unknowable-presents-secretly-encoded/"
+      "The South’s Jewish Proust",
+      "https://www.tabletmag.com/sections/arts-letters/articles/shelby-foote-proust"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "How-To Evaluate a Product Roadmap, for Engineers",
       "https://stephen.fm/how-to-evaluate-a-product-roadmap/"
-    ]
-  ],
-  [
-    [
-      "2023-09-19, 16:15:36",
-      "https://news.ycombinator.com/item?id=37572145"
-    ],
-    [
-      "Application-specific terminals",
-      "https://www.cweagans.net/2023/09/application-specific-terminals/"
     ]
   ],
   [
