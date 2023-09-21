@@ -2,6 +2,7 @@
 
 * [2023-09-21, 01:37:50](https://news.ycombinator.com/item?id=37592292) - [ChatGPT and DALL-E 3 [video]](https://twitter.com/sama/status/1704561613070893428)
 * [2023-09-21, 00:00:28](https://news.ycombinator.com/item?id=37591652) - [Terry Tao's generals](https://web.math.princeton.edu/generals/tao_terence)
+* [2023-09-20, 23:39:06](https://news.ycombinator.com/item?id=37591505) - [Confessions of a McKinsey Whistleblower](https://www.thenation.com/article/society/mckinsey-whistleblower-confessions/)
 * [2023-09-20, 22:36:20](https://news.ycombinator.com/item?id=37591050) - [Linux gives up on 6-year LTS kernels, says they’re too much work](https://arstechnica.com/gadgets/2023/09/linux-gives-up-on-6-year-lts-thats-fine-for-pcs-bad-for-android/)
 * [2023-09-20, 22:14:37](https://news.ycombinator.com/item?id=37590881) - [Meticulous: An FPGA-Based Main Memory Emulator for System Software Studies](https://arxiv.org/abs/2309.06565)
 * [2023-09-20, 21:35:40](https://news.ycombinator.com/item?id=37590544) - [Alameda lost tens of millions because of a fat fingering mistake](https://www.adityabaradwaj.com/part-2-the-fat-finger/)
@@ -11,7 +12,6 @@
 * [2023-09-20, 18:18:14](https://news.ycombinator.com/item?id=37587791) - [Archaeologists discover oldest wooden structure](https://news.liverpool.ac.uk/2023/09/20/archaeologists-discover-worlds-oldest-wooden-structure/)
 * [2023-09-20, 18:00:26](https://news.ycombinator.com/item?id=37587506) - [Strada – Create fully native controls, driven by your web app](https://strada.hotwired.dev/)
 * [2023-09-20, 17:42:24](https://news.ycombinator.com/item?id=37587233) - [Fine-grained caching strategies of dynamic queries](https://jensrantil.github.io/posts/fast-aggregate-queries-on-dynamic-data/)
-* [2023-09-20, 17:29:20](https://news.ycombinator.com/item?id=37587043) - [Monitor bandwidth usage with bandwhich (and build a snap package of it)](https://popey.com/blog/2023/09/monitor-bandwidth-usage-with-bandwhich/)
 * [2023-09-20, 17:01:14](https://news.ycombinator.com/item?id=37586681) - [Show HN: Mana Pool – Market for Magic Cards](https://manapool.com/)
 * [2023-09-20, 16:52:18](https://news.ycombinator.com/item?id=37586580) - [XML is better than YAML – Hear me out](https://changelog.com/posts/xml-better-than-yaml)
 * [2023-09-20, 16:48:01](https://news.ycombinator.com/item?id=37586518) - [Clang-expand: Expand function invocations into current scope](https://github.com/goldsborough/clang-expand)
