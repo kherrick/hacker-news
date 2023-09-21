@@ -129,6 +129,98 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="37600072">
+          <h3>
+            <a
+              class="item"
+              href="https://theconversation.com/medical-gaslighting-when-conditions-turn-out-not-to-be-all-in-the-mind-209611"
+              >Medical gaslighting: when conditions turn out not to be 'all in
+              the mind'</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-09-21 @ 16:29:57</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37600072"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="37600019">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/Dicklesworthstone/automatic_log_collector_and_analyzer"
+              >Show HN: My Single-File Python Script I Used to Replace Splunk in
+              My Startup</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-09-21 @ 16:26:44</span
+              ><span class="points-container"
+                >Points: <span class="points">42</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37600019"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                "I hated Splunk so much that I spent a couple days a few months
+                ago writing a single 1200 line python script that does
+                absolutely everything I need in terms of automatic log
+                collection, ingestion, and analysis from a fleet of cloud
+                instances. It pulls in all the log lines, enriches them with
+                useful metadata like the IP address of the instance, the machine
+                name, the log source, the datetime, etc. and stores it all in
+                SQlite, which it then exposes to a very convenient web interface
+                using Datasette.
+              </p>
+              <p>
+                I put it in a cronjob and it's infinitely better (at least for
+                my purposes) than Splunk, which is just a total nightmare to
+                use, and can be customized super easily and quickly. My
+                coworkers all prefer it to Splunk as well. And oh yeah, it's
+                totally free instead of costing my company thousands of dollars
+                a year! If I owned CSCO stock I would sell it-- this deal shows
+                incredibly bad judgment."
+              </p>
+              <p>
+                I had been meaning to clean it up a bit and open-source it but
+                never got around to it. However, someone asked today in response
+                to my comment if I had released it, so I figured now would be a
+                good time to go through it and clean it up, move the constants
+                to an .env file, and create a README.
+              </p>
+              <p>
+                This code is obviously tailored to my own requirements for my
+                project, but if you know Python, it's extremely straightforward
+                to customize it for your own logs (plus, some of the logs are
+                generic, like systemd logs). And I included the actual sample
+                log files from my project that correspond to the parsing
+                functions in the code, so you can easily reason by analogy to
+                adapt it to your own log files.
+              </p>
+              <p>
+                As many people pointed out in responses to my comment, this is
+                obviously not a real replacement for Splunk for enterprise users
+                who are ingesting terabytes a day from thousands of machines and
+                hundreds of sources. If it were, hopefully someone would be
+                paying me $28 billion for it instead of me giving it away for
+                free! But if you don't have a huge number of machines and really
+                hate using Splunk while wasting thousands of dollars, this might
+                be for you.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="37599873">
           <h3>
             <a
@@ -141,11 +233,11 @@
             <h4>
               <span>2023-09-21 @ 16:18:02</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37599873"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -162,11 +254,30 @@
             <h4>
               <span>2023-09-21 @ 15:58:25</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37599587"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 28</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="37599510">
+          <h3>
+            <a class="item" href="https://matrix.org/blog/2023/09/matrix-2-0/"
+              >Matrix 2.0: The Future of Matrix</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-09-21 @ 15:53:24</span
+              ><span class="points-container"
+                >Points: <span class="points">32</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37599510"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -183,11 +294,11 @@
             <h4>
               <span>2023-09-21 @ 15:40:28</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37599312"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -205,11 +316,11 @@
             <h4>
               <span>2023-09-21 @ 15:21:02</span
               ><span class="points-container"
-                >Points: <span class="points">114</span></span
+                >Points: <span class="points">129</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37598985"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -227,11 +338,11 @@
             <h4>
               <span>2023-09-21 @ 15:13:00</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37598845"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -252,7 +363,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37598644"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -269,7 +380,7 @@
             <h4>
               <span>2023-09-21 @ 14:57:49</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37598604"
                   >Comments</a
@@ -290,11 +401,11 @@
             <h4>
               <span>2023-09-21 @ 14:40:56</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37598329"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -312,11 +423,11 @@
             <h4>
               <span>2023-09-21 @ 14:38:45</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37598299"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -333,11 +444,11 @@
             <h4>
               <span>2023-09-21 @ 14:14:25</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37597931"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -355,11 +466,11 @@
             <h4>
               <span>2023-09-21 @ 13:19:26</span
               ><span class="points-container"
-                >Points: <span class="points">71</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37597207"
                   >Comments</a
-                ><span class="descendants">: 149</span></span
+                ><span class="descendants">: 160</span></span
               >
             </h4>
           </section>
@@ -375,11 +486,11 @@
             <h4>
               <span>2023-09-21 @ 13:18:58</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37597201"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -397,11 +508,11 @@
             <h4>
               <span>2023-09-21 @ 13:16:09</span
               ><span class="points-container"
-                >Points: <span class="points">132</span></span
+                >Points: <span class="points">137</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37597165"
                   >Comments</a
-                ><span class="descendants">: 118</span></span
+                ><span class="descendants">: 124</span></span
               >
             </h4>
           </section>
@@ -418,11 +529,11 @@
             <h4>
               <span>2023-09-21 @ 12:44:11</span
               ><span class="points-container"
-                >Points: <span class="points">370</span></span
+                >Points: <span class="points">382</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37596788"
                   >Comments</a
-                ><span class="descendants">: 88</span></span
+                ><span class="descendants">: 93</span></span
               >
             </h4>
           </section>
@@ -439,7 +550,7 @@
             <h4>
               <span>2023-09-21 @ 12:42:44</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37596776"
                   >Comments</a
@@ -460,32 +571,11 @@
             <h4>
               <span>2023-09-21 @ 12:40:58</span
               ><span class="points-container"
-                >Points: <span class="points">174</span></span
+                >Points: <span class="points">177</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37596755"
                   >Comments</a
-                ><span class="descendants">: 190</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="37596738">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theregister.com/2023/09/19/intel_pcs_nvidia/"
-              >Intel slaps forehead, says I got it: AI PCs. Sell them AI PCs</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-09-21 @ 12:39:47</span
-              ><span class="points-container"
-                >Points: <span class="points">78</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37596738"
-                  >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 195</span></span
               >
             </h4>
           </section>
@@ -502,7 +592,7 @@
             <h4>
               <span>2023-09-21 @ 12:15:19</span
               ><span class="points-container"
-                >Points: <span class="points">129</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37596498"
                   >Comments</a
@@ -523,11 +613,11 @@
             <h4>
               <span>2023-09-21 @ 12:15:19</span
               ><span class="points-container"
-                >Points: <span class="points">477</span></span
+                >Points: <span class="points">497</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37596497"
                   >Comments</a
-                ><span class="descendants">: 250</span></span
+                ><span class="descendants">: 260</span></span
               >
             </h4>
           </section>
@@ -542,11 +632,11 @@
             <h4>
               <span>2023-09-21 @ 11:48:51</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37596253"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
             <div class="text">
@@ -618,11 +708,11 @@
             <h4>
               <span>2023-09-21 @ 11:27:56</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37596068"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -639,32 +729,11 @@
             <h4>
               <span>2023-09-21 @ 10:41:02</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37595766"
                   >Comments</a
-                ><span class="descendants">: 86</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="37594525">
-          <h3>
-            <a
-              class="item"
-              href="https://erlangforums.com/t/erlang-otp-26-1-released/2886"
-              >Erlang/OTP 26.1 Released</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-09-21 @ 07:56:14</span
-              ><span class="points-container"
-                >Points: <span class="points">194</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37594525"
-                  >Comments</a
-                ><span class="descendants">: 60</span></span
+                ><span class="descendants">: 89</span></span
               >
             </h4>
           </section>
@@ -681,11 +750,11 @@
             <h4>
               <span>2023-09-21 @ 07:36:31</span
               ><span class="points-container"
-                >Points: <span class="points">183</span></span
+                >Points: <span class="points">186</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37594365"
                   >Comments</a
-                ><span class="descendants">: 109</span></span
+                ><span class="descendants">: 110</span></span
               >
             </h4>
           </section>
@@ -702,11 +771,32 @@
             <h4>
               <span>2023-09-21 @ 06:39:03</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37593967"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
+                ><span class="descendants">: 50</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="37592107">
+          <h3>
+            <a
+              class="item"
+              href="https://www.wsj.com/tech/apple-iphone-modem-chip-failure-6fe33d19"
+              >Apple’s failure to build a key part for its new iPhones</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-09-21 @ 01:11:31</span
+              ><span class="points-container"
+                >Points: <span class="points">67</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37592107"
+                  >Comments</a
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
@@ -727,28 +817,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37591629"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="37586285">
-          <h3>
-            <a
-              class="item"
-              href="https://machines-reading-maps.github.io/rumsey/"
-              >Guide to Searching and Annotating Text on Maps</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-09-20 @ 16:32:06</span
-              ><span class="points-container"
-                >Points: <span class="points">50</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37586285"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -765,30 +834,9 @@
             <h4>
               <span>2023-09-20 @ 10:48:36</span
               ><span class="points-container"
-                >Points: <span class="points">165</span></span
+                >Points: <span class="points">167</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37582632"
-                  >Comments</a
-                ><span class="descendants">: 12</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="37582599">
-          <h3>
-            <a
-              class="item"
-              href="https://iximiuz.com/en/posts/container-networking-is-simple/"
-              >How Container Networking Works: Practical Explanation</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-09-20 @ 10:42:46</span
-              ><span class="points-container"
-                >Points: <span class="points">147</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37582599"
                   >Comments</a
                 ><span class="descendants">: 12</span></span
               >
@@ -808,11 +856,11 @@
             <h4>
               <span>2023-09-19 @ 15:00:40</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37570889"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
