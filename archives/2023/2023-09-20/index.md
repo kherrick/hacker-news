@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
+* [2023-09-20, 23:56:42](https://news.ycombinator.com/item?id=37591629) - [The Bloomsbury Group is back in Vogue](https://www.newyorker.com/magazine/2023/09/25/the-bloomsbury-group-is-back-in-vogue)
 * [2023-09-20, 23:47:01](https://news.ycombinator.com/item?id=37591567) - [Show HN: A website that gives voice to unfulfilled customer needs](https://www.iwantthisstartup.com)
 * [2023-09-20, 23:39:06](https://news.ycombinator.com/item?id=37591505) - [Confessions of a McKinsey Whistleblower](https://www.thenation.com/article/society/mckinsey-whistleblower-confessions/)
 * [2023-09-20, 23:37:45](https://news.ycombinator.com/item?id=37591492) - [Codeberg scaling issue mostly caused by software architecture](https://social.anoxinon.de/@Codeberg/111080340627453702)
