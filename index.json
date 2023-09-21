@@ -1,6 +1,56 @@
 [
   [
     [
+      "2023-09-21, 12:19:16",
+      "https://news.ycombinator.com/item?id=37596530"
+    ],
+    [
+      "Uber Eats will start accepting food stamps for grocery delivery in 2024",
+      "https://www.theverge.com/2023/9/20/23880403/uber-eats-food-stamps-snap-ebt-fsa-flex-ai-assistant"
+    ]
+  ],
+  [
+    [
+      "2023-09-21, 12:15:19",
+      "https://news.ycombinator.com/item?id=37596498"
+    ],
+    [
+      "BrainTree has been down for more than 6 hours now",
+      "https://www.paypal-status.com/incident/production"
+    ]
+  ],
+  [
+    [
+      "2023-09-21, 12:15:19",
+      "https://news.ycombinator.com/item?id=37596497"
+    ],
+    [
+      "Cisco Acquires Splunk",
+      "https://www.splunk.com/en_us/blog/leadership/splunk-and-cisco-unite-to-accelerate-digital-resilience-as-one-of-the-leading-global-software-companies.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-21, 11:48:51",
+      "https://news.ycombinator.com/item?id=37596253"
+    ],
+    [
+      "Launch HN: Loops (YC W22) – Email for SaaS Companies",
+      "https://news.ycombinator.com/item?id=37596253"
+    ]
+  ],
+  [
+    [
+      "2023-09-21, 11:27:56",
+      "https://news.ycombinator.com/item?id=37596068"
+    ],
+    [
+      "BWXT and Crowley Developing Nuclear Power Generation Ships",
+      "https://maritime-executive.com/article/crowley-partners-with-bwxt-to-develop-nuclear-power-generation-vessels"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 11:00:19",
       "https://news.ycombinator.com/item?id=37595898"
     ],
@@ -11,12 +61,32 @@
   ],
   [
     [
+      "2023-09-21, 10:41:02",
+      "https://news.ycombinator.com/item?id=37595766"
+    ],
+    [
+      "An INI Critique of TOML",
+      "https://github.com/madmurphy/libconfini/wiki/An-INI-critique-of-TOML"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 10:03:06",
       "https://news.ycombinator.com/item?id=37595519"
     ],
     [
       "Telemetry",
       "https://storybook.js.org/docs/react/configure/telemetry/"
+    ]
+  ],
+  [
+    [
+      "2023-09-21, 09:36:21",
+      "https://news.ycombinator.com/item?id=37595322"
+    ],
+    [
+      "Ship of Fools",
+      "https://successfulsoftware.net/2023/09/19/ship-of-fools/"
     ]
   ],
   [
@@ -141,16 +211,6 @@
   ],
   [
     [
-      "2023-09-20, 19:02:43",
-      "https://news.ycombinator.com/item?id=37588526"
-    ],
-    [
-      "Harlequin: DuckDB IDE for the terminal",
-      "https://harlequin.sh/"
-    ]
-  ],
-  [
-    [
       "2023-09-20, 17:42:24",
       "https://news.ycombinator.com/item?id=37587233"
     ],
@@ -171,52 +231,12 @@
   ],
   [
     [
-      "2023-09-20, 16:30:14",
-      "https://news.ycombinator.com/item?id=37586264"
-    ],
-    [
-      "Toyota Research claims breakthrough in teaching robots new behaviors",
-      "https://www.tri.global/news/toyota-research-institute-unveils-breakthrough-teaching-robots-new-behaviors"
-    ]
-  ],
-  [
-    [
       "2023-09-20, 14:14:12",
       "https://news.ycombinator.com/item?id=37584399"
     ],
     [
       "Car allergic to vanilla ice cream (2000)",
       "http://www.cs.cmu.edu/~wkw/humour/carproblems.txt"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 13:46:55",
-      "https://news.ycombinator.com/item?id=37584049"
-    ],
-    [
-      "Show HN: ElectricSQL, Postgres to SQLite active-active sync for local-first apps",
-      "https://electric-sql.com/"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 13:00:35",
-      "https://news.ycombinator.com/item?id=37583593"
-    ],
-    [
-      "78% MNIST accuracy using GZIP in under 10 lines of code",
-      "https://jakobs.dev/solving-mnist-with-gzip/"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 12:04:56",
-      "https://news.ycombinator.com/item?id=37583147"
-    ],
-    [
-      "MongoDB’s New Query Engine",
-      "https://laplab.me/posts/inside-new-query-engine-of-mongodb/"
     ]
   ],
   [
@@ -257,26 +277,6 @@
     [
       "Grouping digits in SQL",
       "http://peter.eisentraut.org/blog/2023/09/20/grouping-digits-in-sql"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 05:15:42",
-      "https://news.ycombinator.com/item?id=37580599"
-    ],
-    [
-      "Creating a fake Indian cricket league",
-      "https://www.si.com/betting/2023/09/15/fake-indian-cricket-league-daily-cover"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 01:23:52",
-      "https://news.ycombinator.com/item?id=37579337"
-    ],
-    [
-      "New study disproves Leonardo da Vinci's 'rule of trees'",
-      "https://phys.org/news/2023-09-leonardo-da-vinci-trees.html"
     ]
   ],
   [
