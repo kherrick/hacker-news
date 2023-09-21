@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-09-21, 11:00:19",
+      "https://news.ycombinator.com/item?id=37595898"
+    ],
+    [
+      "Atlassian cripples’ Jira automation for all but enterprise customers",
+      "https://community.atlassian.com/t5/Automation-articles/Introducing-our-new-packaging-model-for-Jira-Cloud-Automation/ba-p/2446099"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 10:03:06",
       "https://news.ycombinator.com/item?id=37595519"
     ],
     [
-      "PSA: Storybook sends telemetry data, opt-in by default",
+      "Telemetry",
       "https://storybook.js.org/docs/react/configure/telemetry/"
     ]
   ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2023-09-21, 02:54:09",
-      "https://news.ycombinator.com/item?id=37592712"
-    ],
-    [
-      "Organic Maps: An open-source maps app that doesn't suck",
-      "https://hardfault.life/p/organic-maps-review"
-    ]
-  ],
-  [
-    [
       "2023-09-21, 02:51:08",
       "https://news.ycombinator.com/item?id=37592699"
     ],
@@ -157,16 +157,6 @@
     [
       "Fine-grained caching strategies of dynamic queries",
       "https://jensrantil.github.io/posts/fast-aggregate-queries-on-dynamic-data/"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 16:52:18",
-      "https://news.ycombinator.com/item?id=37586580"
-    ],
-    [
-      "XML is better than YAML – Hear me out",
-      "https://changelog.com/posts/xml-better-than-yaml"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Grouping digits in SQL",
       "http://peter.eisentraut.org/blog/2023/09/20/grouping-digits-in-sql"
+    ]
+  ],
+  [
+    [
+      "2023-09-20, 05:15:42",
+      "https://news.ycombinator.com/item?id=37580599"
+    ],
+    [
+      "Creating a fake Indian cricket league",
+      "https://www.si.com/betting/2023/09/15/fake-indian-cricket-league-daily-cover"
     ]
   ],
   [
