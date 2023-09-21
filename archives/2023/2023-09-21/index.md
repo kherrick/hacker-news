@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
 * [2023-09-21, 16:19:32](https://news.ycombinator.com/item?id=37599891) - [Show HN: Storiaboard – Faster and cheaper video previsualization with Gen AI](https://app.storia.ai/)
+* [2023-09-21, 16:18:02](https://news.ycombinator.com/item?id=37599873) - [Rag is more than just embedding search](https://jxnl.github.io/instructor/blog/2023/09/17/rag-is-more-than-just-embedding-search/)
 * [2023-09-21, 15:58:25](https://news.ycombinator.com/item?id=37599587) - [Insider trade on Splunk acquisition for 45,650% return](https://twitter.com/unusual_whales/status/1704870849831125446)
 * [2023-09-21, 15:40:28](https://news.ycombinator.com/item?id=37599312) - [Sunken temple and sanctuary from ancient Egypt found](https://www.livescience.com/archaeology/ancient-egyptians/sunken-temple-and-sanctuary-from-ancient-egypt-found-brimming-with-treasures-and-secrets)
 * [2023-09-21, 15:33:06](https://news.ycombinator.com/item?id=37599194) - [The NSA Invented Bitcoin?](https://twitter.com/danroberts0101/status/1702440110002729356)
 * [2023-09-21, 15:21:02](https://news.ycombinator.com/item?id=37598985) - [Article reply “Godot is not the new Unity” from Juan Linietsky (BDFL of Godot)](https://gist.github.com/reduz/cb05fe96079e46785f08a79ec3b0ef21)
 * [2023-09-21, 15:13:00](https://news.ycombinator.com/item?id=37598845) - [AMA: We're the Researchers who looked into the privacy of the 25 top car brands](https://old.reddit.com/r/IAmA/comments/16oi17v/were_the_researchers_who_looked_into_the_privacy/)
+* [2023-09-21, 14:59:51](https://news.ycombinator.com/item?id=37598644) - [How can treating one patient help another?](https://randomactsofmedicine.substack.com/p/how-can-treating-one-patient-help)
 * [2023-09-21, 14:57:49](https://news.ycombinator.com/item?id=37598604) - [Wine’s origins](https://www.scientificamerican.com/article/wines-true-origins-are-finally-revealed/)
 * [2023-09-21, 14:40:56](https://news.ycombinator.com/item?id=37598329) - [The SEC cracks down on greenwashing](https://www.semafor.com/article/09/21/2023/the-sec-cracks-down-on-greenwashing)
 * [2023-09-21, 14:38:45](https://news.ycombinator.com/item?id=37598299) - [Cisco pulled out of SentinelOne acquisition after due diligence](https://www.calcalistech.com/ctechnews/article/b18wjfk1a)
