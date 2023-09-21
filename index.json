@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-21, 12:44:11",
+      "https://news.ycombinator.com/item?id=37596788"
+    ],
+    [
+      "Nippon Television has just acquired Studio Ghibli",
+      "https://www.catsuka.com/breves/2023-09-21/nippon-television-rachete-le-studio-ghibli"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 12:19:16",
       "https://news.ycombinator.com/item?id=37596530"
     ],
@@ -27,6 +37,16 @@
     [
       "Cisco Acquires Splunk",
       "https://www.splunk.com/en_us/blog/leadership/splunk-and-cisco-unite-to-accelerate-digital-resilience-as-one-of-the-leading-global-software-companies.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-21, 12:08:53",
+      "https://news.ycombinator.com/item?id=37596439"
+    ],
+    [
+      "Community Growth At: HashiCorp",
+      "https://community.inc/deep-dives/community-growth-hashicorp"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Ship of Fools",
       "https://successfulsoftware.net/2023/09/19/ship-of-fools/"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 09:26:46",
-      "https://news.ycombinator.com/item?id=37595240"
-    ],
-    [
-      "Is Fortran easier to optimize than C for heavy calculations?",
-      "https://stackoverflow.com/questions/146159/is-fortran-easier-to-optimize-than-c-for-heavy-calculations"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Codeberg scaling issue mostly caused by software architecture",
       "https://social.anoxinon.de/@Codeberg/111080340627453702"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 22:14:37",
-      "https://news.ycombinator.com/item?id=37590881"
-    ],
-    [
-      "Meticulous: An FPGA-Based Main Memory Emulator for System Software Studies",
-      "https://arxiv.org/abs/2309.06565"
     ]
   ],
   [
