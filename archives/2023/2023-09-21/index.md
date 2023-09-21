@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
+* [2023-09-21, 18:28:52](https://news.ycombinator.com/item?id=37601865) - [React Server Components made our site a lot faster](https://frigade.com/blog/bundle-size-reduction-with-rsc-and-frigade)
 * [2023-09-21, 18:06:27](https://news.ycombinator.com/item?id=37601526) - [Developmental costs associated with early maternal withdrawal (2022)](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdep.12442)
 * [2023-09-21, 17:53:15](https://news.ycombinator.com/item?id=37601363) - [A Young Architect’s Designs for the Climate Apocalypse](https://www.newyorker.com/magazine/2023/09/25/a-young-architects-designs-for-the-climate-apocalypse)
 * [2023-09-21, 17:34:11](https://news.ycombinator.com/item?id=37601064) - [Most UI Applications Are Broken Real-Time Applications](https://thelig.ht/ui-apps-are-broken/)

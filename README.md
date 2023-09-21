@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-21, 18:28:52](https://news.ycombinator.com/item?id=37601865) - [React Server Components made our site a lot faster](https://frigade.com/blog/bundle-size-reduction-with-rsc-and-frigade)
 * [2023-09-21, 18:06:27](https://news.ycombinator.com/item?id=37601526) - [Developmental costs associated with early maternal withdrawal (2022)](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdep.12442)
 * [2023-09-21, 17:53:15](https://news.ycombinator.com/item?id=37601363) - [A Young Architect’s Designs for the Climate Apocalypse](https://www.newyorker.com/magazine/2023/09/25/a-young-architects-designs-for-the-climate-apocalypse)
 * [2023-09-21, 17:34:11](https://news.ycombinator.com/item?id=37601064) - [Most UI Applications Are Broken Real-Time Applications](https://thelig.ht/ui-apps-are-broken/)
@@ -14,7 +15,6 @@
 * [2023-09-21, 15:55:20](https://news.ycombinator.com/item?id=37599542) - [Lead poisoning causes far more death, IQ loss than thought: study](https://medicalxpress.com/news/2023-09-poisoning-death-iq-loss-thought.html)
 * [2023-09-21, 15:53:24](https://news.ycombinator.com/item?id=37599510) - [Matrix 2.0: The Future of Matrix](https://matrix.org/blog/2023/09/matrix-2-0/)
 * [2023-09-21, 15:40:28](https://news.ycombinator.com/item?id=37599312) - [Sunken temple and sanctuary from ancient Egypt found](https://www.livescience.com/archaeology/ancient-egyptians/sunken-temple-and-sanctuary-from-ancient-egypt-found-brimming-with-treasures-and-secrets)
-* [2023-09-21, 15:21:02](https://news.ycombinator.com/item?id=37598985) - [Article reply “Godot is not the new Unity” from Juan Linietsky (BDFL of Godot)](https://gist.github.com/reduz/cb05fe96079e46785f08a79ec3b0ef21)
 * [2023-09-21, 14:57:49](https://news.ycombinator.com/item?id=37598604) - [Wine’s origins](https://www.scientificamerican.com/article/wines-true-origins-are-finally-revealed/)
 * [2023-09-21, 14:40:56](https://news.ycombinator.com/item?id=37598329) - [The SEC cracks down on greenwashing](https://www.semafor.com/article/09/21/2023/the-sec-cracks-down-on-greenwashing)
 * [2023-09-21, 14:14:25](https://news.ycombinator.com/item?id=37597931) - [They have genetic ALS. What should clinicians do?](https://www.statnews.com/2023/09/21/als-gene-carrier-riluzole-toferson/)
