@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-21, 19:36:23",
+      "https://news.ycombinator.com/item?id=37602989"
+    ],
+    [
+      "7 year old Kafka Java client bug (2016)",
+      "https://issues.apache.org/jira/browse/KAFKA-4090"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 19:31:24",
       "https://news.ycombinator.com/item?id=37602923"
     ],
@@ -51,32 +61,12 @@
   ],
   [
     [
-      "2023-09-21, 17:26:58",
-      "https://news.ycombinator.com/item?id=37600937"
-    ],
-    [
-      "The urgent need for memory safety in software products",
-      "https://www.cisa.gov/news-events/news/urgent-need-memory-safety-software-products"
-    ]
-  ],
-  [
-    [
       "2023-09-21, 17:21:39",
       "https://news.ycombinator.com/item?id=37600852"
     ],
     [
       "The WebP 0day",
       "https://blog.isosceles.com/the-webp-0day/"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 17:06:08",
-      "https://news.ycombinator.com/item?id=37600618"
-    ],
-    [
-      "USPS In-Person Identity Proofing",
-      "https://faq.usps.com/s/article/USPS-In-Person-Identity-Proofing"
     ]
   ],
   [
@@ -97,16 +87,6 @@
     [
       "RAG is more than just embedding search",
       "https://jxnl.github.io/instructor/blog/2023/09/17/rag-is-more-than-just-embedding-search/"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 15:58:25",
-      "https://news.ycombinator.com/item?id=37599587"
-    ],
-    [
-      "Insider trade on Splunk acquisition?",
-      "https://twitter.com/unusual_whales/status/1704870849831125446"
     ]
   ],
   [
@@ -141,6 +121,16 @@
   ],
   [
     [
+      "2023-09-21, 14:59:51",
+      "https://news.ycombinator.com/item?id=37598644"
+    ],
+    [
+      "New treatments give an example of how treating one patient can benefit others",
+      "https://randomactsofmedicine.substack.com/p/how-can-treating-one-patient-help"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 14:57:49",
       "https://news.ycombinator.com/item?id=37598604"
     ],
@@ -151,12 +141,12 @@
   ],
   [
     [
-      "2023-09-21, 14:40:56",
-      "https://news.ycombinator.com/item?id=37598329"
+      "2023-09-21, 14:14:25",
+      "https://news.ycombinator.com/item?id=37597931"
     ],
     [
-      "The SEC cracks down on greenwashing",
-      "https://www.semafor.com/article/09/21/2023/the-sec-cracks-down-on-greenwashing"
+      "What can medicine do for people with genes for ALS?",
+      "https://www.statnews.com/2023/09/21/als-gene-carrier-riluzole-toferson/"
     ]
   ],
   [
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2023-09-21, 12:40:58",
+      "https://news.ycombinator.com/item?id=37596755"
+    ],
+    [
+      "Airlines make more money from mileage programs than from flying planes",
+      "https://www.theatlantic.com/ideas/archive/2023/09/airlines-banks-mileage-programs/675374/"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 12:15:19",
       "https://news.ycombinator.com/item?id=37596497"
     ],
@@ -211,22 +211,22 @@
   ],
   [
     [
-      "2023-09-21, 11:02:03",
-      "https://news.ycombinator.com/item?id=37595906"
-    ],
-    [
-      "India suspends visas for Canadians as row escalates",
-      "https://www.bbc.com/news/world-asia-india-66851964"
-    ]
-  ],
-  [
-    [
       "2023-09-21, 10:41:02",
       "https://news.ycombinator.com/item?id=37595766"
     ],
     [
       "An INI Critique of TOML (2021)",
       "https://github.com/madmurphy/libconfini/wiki/An-INI-critique-of-TOML"
+    ]
+  ],
+  [
+    [
+      "2023-09-21, 09:26:46",
+      "https://news.ycombinator.com/item?id=37595240"
+    ],
+    [
+      "Is Fortran easier to optimize than C for heavy calculations?",
+      "https://stackoverflow.com/questions/146159/is-fortran-easier-to-optimize-than-c-for-heavy-calculations"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2023-09-21, 06:39:03",
-      "https://news.ycombinator.com/item?id=37593967"
+      "2023-09-20, 16:32:06",
+      "https://news.ycombinator.com/item?id=37586285"
     ],
     [
-      "Strong arrows: a new approach to gradual typing",
-      "https://elixir-lang.org/blog/2023/09/20/strong-arrows-gradual-typing/"
+      "Guide to searching and annotating text on maps",
+      "https://machines-reading-maps.github.io/rumsey/"
     ]
   ],
   [
     [
-      "2023-09-20, 21:38:24",
-      "https://news.ycombinator.com/item?id=37590580"
+      "2023-09-20, 12:04:56",
+      "https://news.ycombinator.com/item?id=37583147"
     ],
     [
-      "Two large cold fronts detected in the galaxy cluster Abell 3558",
-      "https://phys.org/news/2023-09-large-cold-fronts-galaxy-cluster.html"
+      "MongoDB’s new query engine",
+      "https://laplab.me/posts/inside-new-query-engine-of-mongodb/"
     ]
   ],
   [
