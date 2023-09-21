@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
+* [2023-09-21, 13:18:58](https://news.ycombinator.com/item?id=37597201) - [Show HN: Odin – the integration of LLMs with Obsidian note taking](https://github.com/memgraph/odin)
 * [2023-09-21, 13:16:09](https://news.ycombinator.com/item?id=37597165) - [Call to shut down Bristol schools’ use of app to ‘monitor’ pupils and families](https://www.theguardian.com/education/2023/sep/21/calls-to-shut-down-bristol-schools-use-of-think-family-education-app-pupils-and-families)
 * [2023-09-21, 12:44:11](https://news.ycombinator.com/item?id=37596788) - [Nippon Television has just acquired Studio Ghibli](https://www.catsuka.com/breves/2023-09-21/nippon-television-rachete-le-studio-ghibli)
+* [2023-09-21, 12:42:44](https://news.ycombinator.com/item?id=37596776) - [Why Kakoune](https://andreyor.st/posts/2023-09-20-why-kakoune/)
 * [2023-09-21, 12:40:58](https://news.ycombinator.com/item?id=37596755) - [Airlines Are Just Banks Now](https://www.theatlantic.com/ideas/archive/2023/09/airlines-banks-mileage-programs/675374/)
 * [2023-09-21, 12:39:47](https://news.ycombinator.com/item?id=37596738) - [Intel slaps forehead, says I got it: AI PCs. Sell them AI PCs](https://www.theregister.com/2023/09/19/intel_pcs_nvidia/)
 * [2023-09-21, 12:19:16](https://news.ycombinator.com/item?id=37596530) - [Uber Eats will start accepting food stamps for grocery delivery in 2024](https://www.theverge.com/2023/9/20/23880403/uber-eats-food-stamps-snap-ebt-fsa-flex-ai-assistant)
