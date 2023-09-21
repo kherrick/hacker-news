@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
+* [2023-09-21, 18:52:54](https://news.ycombinator.com/item?id=37602239) - [NASA’s Webb Finds Carbon Source on Surface of Jupiter’s Moon Europa](https://webbtelescope.org/contents/news-releases/2023/news-2023-113)
 * [2023-09-21, 18:28:52](https://news.ycombinator.com/item?id=37601865) - [React Server Components made our site a lot faster](https://frigade.com/blog/bundle-size-reduction-with-rsc-and-frigade)
 * [2023-09-21, 18:06:27](https://news.ycombinator.com/item?id=37601526) - [Developmental costs associated with early maternal withdrawal (2022)](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdep.12442)
 * [2023-09-21, 17:53:15](https://news.ycombinator.com/item?id=37601363) - [A Young Architect’s Designs for the Climate Apocalypse](https://www.newyorker.com/magazine/2023/09/25/a-young-architects-designs-for-the-climate-apocalypse)
@@ -38,6 +39,7 @@
 * [2023-09-21, 13:19:26](https://news.ycombinator.com/item?id=37597207) - [Google sued for negligence after man died following map directions](https://apnews.com/article/google-maps-lawsuit-north-carolina-death-f4707247ee3295bf51bbcb37bd0eb6c8)
 * [2023-09-21, 13:18:58](https://news.ycombinator.com/item?id=37597201) - [Show HN: Odin – the integration of LLMs with Obsidian note taking](https://github.com/memgraph/odin)
 * [2023-09-21, 13:16:09](https://news.ycombinator.com/item?id=37597165) - [Call to shut down Bristol schools’ use of app to ‘monitor’ pupils and families](https://www.theguardian.com/education/2023/sep/21/calls-to-shut-down-bristol-schools-use-of-think-family-education-app-pupils-and-families)
+* [2023-09-21, 12:44:11](https://news.ycombinator.com/item?id=37596788) - [Studio Ghibli set to become subsidiary of Nippon TV](https://www.japantimes.co.jp/business/2023/09/21/companies/nippon-tv-ghibli-acquisition/)
 * [2023-09-21, 12:44:11](https://news.ycombinator.com/item?id=37596788) - [Nippon Television has just acquired Studio Ghibli](https://www.catsuka.com/breves/2023-09-21/nippon-television-rachete-le-studio-ghibli)
 * [2023-09-21, 12:42:44](https://news.ycombinator.com/item?id=37596776) - [Why Kakoune](https://andreyor.st/posts/2023-09-20-why-kakoune/)
 * [2023-09-21, 12:40:58](https://news.ycombinator.com/item?id=37596755) - [Airlines Are Just Banks Now](https://www.theatlantic.com/ideas/archive/2023/09/airlines-banks-mileage-programs/675374/)
