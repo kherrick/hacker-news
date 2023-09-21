@@ -1,22 +1,42 @@
 [
   [
     [
+      "2023-09-21, 15:13:00",
+      "https://news.ycombinator.com/item?id=37598845"
+    ],
+    [
+      "AMA: We're the Researchers who looked into the privacy of the 25 top car brands",
+      "https://old.reddit.com/r/IAmA/comments/16oi17v/were_the_researchers_who_looked_into_the_privacy/"
+    ]
+  ],
+  [
+    [
+      "2023-09-21, 14:40:56",
+      "https://news.ycombinator.com/item?id=37598329"
+    ],
+    [
+      "The SEC cracks down on greenwashing",
+      "https://www.semafor.com/article/09/21/2023/the-sec-cracks-down-on-greenwashing"
+    ]
+  ],
+  [
+    [
+      "2023-09-21, 14:38:45",
+      "https://news.ycombinator.com/item?id=37598299"
+    ],
+    [
+      "Cisco pulled out of SentinelOne acquisition after due diligence",
+      "https://www.calcalistech.com/ctechnews/article/b18wjfk1a"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 14:36:29",
       "https://news.ycombinator.com/item?id=37598253"
     ],
     [
       "Fosstodon is now invite only",
       "https://hub.fosstodon.org/were-invite-only"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 14:28:16",
-      "https://news.ycombinator.com/item?id=37598134"
-    ],
-    [
-      "Rupert Murdoch: Why I’m stepping down",
-      "https://www.spectator.co.uk/article/why-im-stepping-down/"
     ]
   ],
   [
@@ -37,6 +57,16 @@
     [
       "Introducing Proton CAPTCHA, the world’s first censorship-resistant CAPTCHA",
       "https://proton.me/blog/proton-captcha"
+    ]
+  ],
+  [
+    [
+      "2023-09-21, 14:00:15",
+      "https://news.ycombinator.com/item?id=37597740"
+    ],
+    [
+      "Germany went from envy of the world to worst-performing major developed economy",
+      "https://apnews.com/article/germany-economy-energy-crisis-russia-8a00eebbfab3f20c5c66b1cd85ae84ed"
     ]
   ],
   [
@@ -95,7 +125,7 @@
       "https://news.ycombinator.com/item?id=37596498"
     ],
     [
-      "BrainTree has been down for more than 7 hours now",
+      "Issue affecting the Gateway API on the Braintree platform",
       "https://www.paypal-status.com/incident/production"
     ]
   ],
@@ -191,26 +221,6 @@
   ],
   [
     [
-      "2023-09-21, 05:15:25",
-      "https://news.ycombinator.com/item?id=37593459"
-    ],
-    [
-      "Install Windows the Arch Linux Way",
-      "https://christitus.com/install-windows-the-arch-linux-way/"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 03:35:43",
-      "https://news.ycombinator.com/item?id=37592934"
-    ],
-    [
-      "How Equifax Was Breached in 2017",
-      "https://blog.0x7d0.dev/history/how-equifax-was-breached-in-2017/"
-    ]
-  ],
-  [
-    [
       "2023-09-21, 02:51:08",
       "https://news.ycombinator.com/item?id=37592699"
     ],
@@ -251,6 +261,16 @@
   ],
   [
     [
+      "2023-09-20, 12:04:56",
+      "https://news.ycombinator.com/item?id=37583147"
+    ],
+    [
+      "MongoDB’s New Query Engine",
+      "https://laplab.me/posts/inside-new-query-engine-of-mongodb/"
+    ]
+  ],
+  [
+    [
       "2023-09-20, 10:48:36",
       "https://news.ycombinator.com/item?id=37582632"
     ],
@@ -267,26 +287,6 @@
     [
       "How Container Networking Works: Practical Explanation",
       "https://iximiuz.com/en/posts/container-networking-is-simple/"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 08:01:44",
-      "https://news.ycombinator.com/item?id=37581646"
-    ],
-    [
-      "Cache headers could probably be more aggressive",
-      "https://www.macarthur.me/posts/more-aggressive-cache-headers"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 06:20:11",
-      "https://news.ycombinator.com/item?id=37580981"
-    ],
-    [
-      "Grouping digits in SQL",
-      "http://peter.eisentraut.org/blog/2023/09/20/grouping-digits-in-sql"
     ]
   ],
   [
