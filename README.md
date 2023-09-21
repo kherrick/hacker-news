@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-21, 20:09:31](https://news.ycombinator.com/item?id=37603554) - [The customer stuck due to a hurricane who needed SSH](https://rachelbythebay.com/w/2023/09/21/hurricane/)
 * [2023-09-21, 19:56:21](https://news.ycombinator.com/item?id=37603331) - [LabelContactRelationYoungerCousinMothersSiblingsDaughterOrFathersSistersDaughter](https://developer.apple.com/documentation/contacts/cnlabelcontactrelationyoungercousinmotherssiblingsdaughterorfatherssistersdaughter)
 * [2023-09-21, 19:31:24](https://news.ycombinator.com/item?id=37602923) - [Speeding up the JavaScript ecosystem – Polyfills gone rogue](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-6/)
 * [2023-09-21, 18:52:54](https://news.ycombinator.com/item?id=37602239) - [NASA’s Webb finds carbon source on surface of Jupiter’s moon Europa](https://webbtelescope.org/contents/news-releases/2023/news-2023-113)
@@ -23,7 +24,6 @@
 * [2023-09-21, 11:48:51](https://news.ycombinator.com/item?id=37596253) - [Launch HN: Loops (YC W22) – Email for SaaS Companies](https://news.ycombinator.com/item?id=37596253)
 * [2023-09-21, 10:41:02](https://news.ycombinator.com/item?id=37595766) - [An INI Critique of TOML (2021)](https://github.com/madmurphy/libconfini/wiki/An-INI-critique-of-TOML)
 * [2023-09-21, 09:26:46](https://news.ycombinator.com/item?id=37595240) - [Is Fortran easier to optimize than C for heavy calculations?](https://stackoverflow.com/questions/146159/is-fortran-easier-to-optimize-than-c-for-heavy-calculations)
-* [2023-09-21, 07:38:19](https://news.ycombinator.com/item?id=37594377) - [Philips Hue will soon force users to create an account](https://defcon.social/@mysk/111097362983335713)
 * [2023-09-21, 07:36:31](https://news.ycombinator.com/item?id=37594365) - [OpenBSD/ARM64 on Hetzner Cloud](https://www.undeadly.org/cgi?action=article;sid=20230921073556)
 * [2023-09-21, 07:28:04](https://news.ycombinator.com/item?id=37594302) - [Designing content for people who struggle with numbers](https://service-manual.nhs.uk/content/numbers-measurements-dates-time)
 * [2023-09-20, 16:32:06](https://news.ycombinator.com/item?id=37586285) - [Guide to searching and annotating text on maps](https://machines-reading-maps.github.io/rumsey/)
