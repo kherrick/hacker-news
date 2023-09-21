@@ -41,12 +41,12 @@
   ],
   [
     [
-      "2023-09-21, 02:28:05",
-      "https://news.ycombinator.com/item?id=37592590"
+      "2023-09-21, 01:50:03",
+      "https://news.ycombinator.com/item?id=37592361"
     ],
     [
-      "Sonnet: High performance JSON decoder in Go",
-      "https://github.com/sugawarayuuta/sonnet"
+      "Terry Tao: How a Near Failure Propelled Me to Succeed (2020) [pdf]",
+      "https://www.ams.org/notices/202007/rnoti-p1007.pdf"
     ]
   ],
   [
@@ -241,12 +241,22 @@
   ],
   [
     [
-      "2023-09-20, 05:15:42",
-      "https://news.ycombinator.com/item?id=37580599"
+      "2023-09-20, 06:20:11",
+      "https://news.ycombinator.com/item?id=37580981"
     ],
     [
-      "Creating a fake Indian cricket league",
-      "https://www.si.com/betting/2023/09/15/fake-indian-cricket-league-daily-cover"
+      "Grouping Digits in SQL",
+      "http://peter.eisentraut.org/blog/2023/09/20/grouping-digits-in-sql"
+    ]
+  ],
+  [
+    [
+      "2023-09-20, 05:06:38",
+      "https://news.ycombinator.com/item?id=37580556"
+    ],
+    [
+      "Insect pests and radiation: SIT, inherited sterility, biological control",
+      "https://www.iaea.org/newscenter/news/how-to-control-insect-pests-using-radiation"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Tracing: Structured logging, but better",
       "https://andydote.co.uk/2023/09/19/tracing-is-better/"
-    ]
-  ],
-  [
-    [
-      "2023-09-18, 17:53:05",
-      "https://news.ycombinator.com/item?id=37559499"
-    ],
-    [
-      "Exploring the Halo 1 System Link Protocol",
-      "https://hllmn.net/blog/2023-09-18_h1x-net/"
     ]
   ]
 ]
