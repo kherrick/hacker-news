@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-21, 10:03:06](https://news.ycombinator.com/item?id=37595519) - [PSA: Storybook sends telemetry data, opt-in by default](https://storybook.js.org/docs/react/configure/telemetry/)
 * [2023-09-21, 09:26:46](https://news.ycombinator.com/item?id=37595240) - [Is Fortran easier to optimize than C for heavy calculations?](https://stackoverflow.com/questions/146159/is-fortran-easier-to-optimize-than-c-for-heavy-calculations)
 * [2023-09-21, 08:39:30](https://news.ycombinator.com/item?id=37594855) - [India's biggest tech centers named as cyber crime hotspots](https://www.theregister.com/2023/09/21/india_cybercrime_trends_report/)
 * [2023-09-21, 07:56:14](https://news.ycombinator.com/item?id=37594525) - [Erlang/OTP 26.1 Released](https://erlangforums.com/t/erlang-otp-26-1-released/2886)
@@ -12,6 +13,7 @@
 * [2023-09-21, 02:54:09](https://news.ycombinator.com/item?id=37592712) - [Organic Maps: An open-source maps app that doesn't suck](https://hardfault.life/p/organic-maps-review)
 * [2023-09-21, 02:51:08](https://news.ycombinator.com/item?id=37592699) - [UK Parliament undermined the privacy, security, freedom of all internet users](https://www.eff.org/deeplinks/2023/09/today-uk-parliament-undermined-privacy-security-and-freedom-all-internet-users)
 * [2023-09-21, 00:00:28](https://news.ycombinator.com/item?id=37591652) - [Terry Tao's generals (2012)](https://web.math.princeton.edu/generals/tao_terence)
+* [2023-09-20, 23:37:45](https://news.ycombinator.com/item?id=37591492) - [Codeberg scaling issue mostly caused by software architecture](https://social.anoxinon.de/@Codeberg/111080340627453702)
 * [2023-09-20, 22:36:20](https://news.ycombinator.com/item?id=37591050) - [Linux gives up on 6-year LTS kernels, says they’re too much work](https://arstechnica.com/gadgets/2023/09/linux-gives-up-on-6-year-lts-thats-fine-for-pcs-bad-for-android/)
 * [2023-09-20, 22:14:37](https://news.ycombinator.com/item?id=37590881) - [Meticulous: An FPGA-Based Main Memory Emulator for System Software Studies](https://arxiv.org/abs/2309.06565)
 * [2023-09-20, 19:02:43](https://news.ycombinator.com/item?id=37588526) - [Harlequin: DuckDB IDE for the terminal](https://harlequin.sh/)
@@ -21,13 +23,11 @@
 * [2023-09-20, 16:30:14](https://news.ycombinator.com/item?id=37586264) - [Toyota Research claims breakthrough in teaching robots new behaviors](https://www.tri.global/news/toyota-research-institute-unveils-breakthrough-teaching-robots-new-behaviors)
 * [2023-09-20, 14:14:12](https://news.ycombinator.com/item?id=37584399) - [Car allergic to vanilla ice cream (2000)](http://www.cs.cmu.edu/~wkw/humour/carproblems.txt)
 * [2023-09-20, 13:46:55](https://news.ycombinator.com/item?id=37584049) - [Show HN: ElectricSQL, Postgres to SQLite active-active sync for local-first apps](https://electric-sql.com/)
-* [2023-09-20, 13:00:35](https://news.ycombinator.com/item?id=37583593) - [78% MNIST accuracy using GZIP in under 10 lines of code](https://jakobs.dev/solving-mnist-with-gzip/)
 * [2023-09-20, 12:04:56](https://news.ycombinator.com/item?id=37583147) - [MongoDB’s New Query Engine](https://laplab.me/posts/inside-new-query-engine-of-mongodb/)
 * [2023-09-20, 10:48:36](https://news.ycombinator.com/item?id=37582632) - [Introduction to Linux interfaces for virtual networking (2018)](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking)
 * [2023-09-20, 10:42:46](https://news.ycombinator.com/item?id=37582599) - [How Container Networking Works: Practical Explanation](https://iximiuz.com/en/posts/container-networking-is-simple/)
 * [2023-09-20, 08:01:44](https://news.ycombinator.com/item?id=37581646) - [Cache headers could probably be more aggressive](https://www.macarthur.me/posts/more-aggressive-cache-headers)
 * [2023-09-20, 06:20:11](https://news.ycombinator.com/item?id=37580981) - [Grouping digits in SQL](http://peter.eisentraut.org/blog/2023/09/20/grouping-digits-in-sql)
-* [2023-09-20, 05:15:42](https://news.ycombinator.com/item?id=37580599) - [Creating a fake Indian cricket league](https://www.si.com/betting/2023/09/15/fake-indian-cricket-league-daily-cover)
 * [2023-09-20, 01:23:52](https://news.ycombinator.com/item?id=37579337) - [New study disproves Leonardo da Vinci's 'rule of trees'](https://phys.org/news/2023-09-leonardo-da-vinci-trees.html)
 * [2023-09-19, 20:30:16](https://news.ycombinator.com/item?id=37576079) - [How to evaluate a product roadmap, for engineers](https://stephen.fm/how-to-evaluate-a-product-roadmap/)
 

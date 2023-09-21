@@ -6,6 +6,7 @@
 
 * [2023-09-20, 23:47:01](https://news.ycombinator.com/item?id=37591567) - [Show HN: A website that gives voice to unfulfilled customer needs](https://www.iwantthisstartup.com)
 * [2023-09-20, 23:39:06](https://news.ycombinator.com/item?id=37591505) - [Confessions of a McKinsey Whistleblower](https://www.thenation.com/article/society/mckinsey-whistleblower-confessions/)
+* [2023-09-20, 23:37:45](https://news.ycombinator.com/item?id=37591492) - [Codeberg scaling issue mostly caused by software architecture](https://social.anoxinon.de/@Codeberg/111080340627453702)
 * [2023-09-20, 23:35:36](https://news.ycombinator.com/item?id=37591478) - [Median Household Income After Taxes Fell 8.8% in 2022](https://www.census.gov/library/stories/2023/09/median-household-income.html)
 * [2023-09-20, 23:04:28](https://news.ycombinator.com/item?id=37591242) - [Baldurs Gate 3 comes out on Mac tomorrow. I will not play it](https://kianpak.com/i-will-not-play-baldurs-gate-3/)
 * [2023-09-20, 22:36:20](https://news.ycombinator.com/item?id=37591050) - [Linux gives up on 6-year LTS kernels, says they’re too much work](https://arstechnica.com/gadgets/2023/09/linux-gives-up-on-6-year-lts-thats-fine-for-pcs-bad-for-android/)
