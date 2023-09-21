@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-21, 13:16:09](https://news.ycombinator.com/item?id=37597165) - [Call to shut down Bristol schools’ use of app to ‘monitor’ pupils and families](https://www.theguardian.com/education/2023/sep/21/calls-to-shut-down-bristol-schools-use-of-think-family-education-app-pupils-and-families)
 * [2023-09-21, 12:44:11](https://news.ycombinator.com/item?id=37596788) - [Nippon Television has just acquired Studio Ghibli](https://www.catsuka.com/breves/2023-09-21/nippon-television-rachete-le-studio-ghibli)
-* [2023-09-21, 12:19:16](https://news.ycombinator.com/item?id=37596530) - [Uber Eats will start accepting food stamps for grocery delivery in 2024](https://www.theverge.com/2023/9/20/23880403/uber-eats-food-stamps-snap-ebt-fsa-flex-ai-assistant)
-* [2023-09-21, 12:15:19](https://news.ycombinator.com/item?id=37596498) - [BrainTree has been down for more than 6 hours now](https://www.paypal-status.com/incident/production)
+* [2023-09-21, 12:40:58](https://news.ycombinator.com/item?id=37596755) - [Airlines Are Just Banks Now](https://www.theatlantic.com/ideas/archive/2023/09/airlines-banks-mileage-programs/675374/)
+* [2023-09-21, 12:39:47](https://news.ycombinator.com/item?id=37596738) - [Intel slaps forehead, says I got it: AI PCs. Sell them AI PCs](https://www.theregister.com/2023/09/19/intel_pcs_nvidia/)
+* [2023-09-21, 12:15:19](https://news.ycombinator.com/item?id=37596498) - [BrainTree has been down for more than 7 hours now](https://www.paypal-status.com/incident/production)
 * [2023-09-21, 12:15:19](https://news.ycombinator.com/item?id=37596497) - [Cisco Acquires Splunk](https://www.splunk.com/en_us/blog/leadership/splunk-and-cisco-unite-to-accelerate-digital-resilience-as-one-of-the-leading-global-software-companies.html)
 * [2023-09-21, 12:08:53](https://news.ycombinator.com/item?id=37596439) - [Community Growth At: HashiCorp](https://community.inc/deep-dives/community-growth-hashicorp)
 * [2023-09-21, 11:48:51](https://news.ycombinator.com/item?id=37596253) - [Launch HN: Loops (YC W22) – Email for SaaS Companies](https://news.ycombinator.com/item?id=37596253)
@@ -20,7 +22,6 @@
 * [2023-09-21, 03:09:57](https://news.ycombinator.com/item?id=37592801) - [NASA’s New Shortcut to Fusion Power (2022)](https://spectrum.ieee.org/lattice-confinement-fusion)
 * [2023-09-21, 02:51:08](https://news.ycombinator.com/item?id=37592699) - [UK Parliament undermined the privacy, security, freedom of all internet users](https://www.eff.org/deeplinks/2023/09/today-uk-parliament-undermined-privacy-security-and-freedom-all-internet-users)
 * [2023-09-21, 00:00:28](https://news.ycombinator.com/item?id=37591652) - [Terry Tao's generals (2012)](https://web.math.princeton.edu/generals/tao_terence)
-* [2023-09-20, 23:37:45](https://news.ycombinator.com/item?id=37591492) - [Codeberg scaling issue mostly caused by software architecture](https://social.anoxinon.de/@Codeberg/111080340627453702)
 * [2023-09-20, 17:42:24](https://news.ycombinator.com/item?id=37587233) - [Fine-grained caching strategies of dynamic queries](https://jensrantil.github.io/posts/fast-aggregate-queries-on-dynamic-data/)
 * [2023-09-20, 16:32:06](https://news.ycombinator.com/item?id=37586285) - [Guide to Searching and Annotating Text on Maps](https://machines-reading-maps.github.io/rumsey/)
 * [2023-09-20, 14:14:12](https://news.ycombinator.com/item?id=37584399) - [Car allergic to vanilla ice cream (2000)](http://www.cs.cmu.edu/~wkw/humour/carproblems.txt)
@@ -28,7 +29,6 @@
 * [2023-09-20, 10:42:46](https://news.ycombinator.com/item?id=37582599) - [How Container Networking Works: Practical Explanation](https://iximiuz.com/en/posts/container-networking-is-simple/)
 * [2023-09-20, 08:01:44](https://news.ycombinator.com/item?id=37581646) - [Cache headers could probably be more aggressive](https://www.macarthur.me/posts/more-aggressive-cache-headers)
 * [2023-09-20, 06:20:11](https://news.ycombinator.com/item?id=37580981) - [Grouping digits in SQL](http://peter.eisentraut.org/blog/2023/09/20/grouping-digits-in-sql)
-* [2023-09-19, 20:30:16](https://news.ycombinator.com/item?id=37576079) - [How to evaluate a product roadmap, for engineers](https://stephen.fm/how-to-evaluate-a-product-roadmap/)
 * [2023-09-19, 15:00:40](https://news.ycombinator.com/item?id=37570889) - [Intel Xeon Max 9480 Deep-Dive 64GB HBM2e Onboard Like a GPU or AI Accelerator](https://www.servethehome.com/intel-xeon-max-9480-deep-dive-intel-has-64gb-hbm2e-onboard-like-a-gpu-or-ai-accelerator/)
 
 ## [Archives](archives/index.md)
