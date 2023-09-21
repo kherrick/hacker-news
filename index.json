@@ -5,8 +5,38 @@
       "https://news.ycombinator.com/item?id=37592712"
     ],
     [
-      "Finally, an open source maps app that doesn't suck",
+      "Organic Maps: An Open-Source Maps App That Doesn't Suck",
       "https://hardfault.life/p/organic-maps-review"
+    ]
+  ],
+  [
+    [
+      "2023-09-21, 02:51:08",
+      "https://news.ycombinator.com/item?id=37592699"
+    ],
+    [
+      "The UK Parliament Undermined the Privacy, Security, and Freedom of All Internet",
+      "https://www.eff.org/deeplinks/2023/09/today-uk-parliament-undermined-privacy-security-and-freedom-all-internet-users"
+    ]
+  ],
+  [
+    [
+      "2023-09-21, 02:28:05",
+      "https://news.ycombinator.com/item?id=37592590"
+    ],
+    [
+      "My fast JSON library in Go is now even faster and safer",
+      "https://github.com/sugawarayuuta/sonnet"
+    ]
+  ],
+  [
+    [
+      "2023-09-21, 01:41:41",
+      "https://news.ycombinator.com/item?id=37592310"
+    ],
+    [
+      "Uncle Sam names 3 Amazon execs as Prime suspects in subscription ripoff case",
+      "https://www.theregister.com/2023/09/21/ftc_amazon_prime_amended_complaint/"
     ]
   ],
   [
@@ -17,16 +47,6 @@
     [
       "Terry Tao's generals",
       "https://web.math.princeton.edu/generals/tao_terence"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 23:39:06",
-      "https://news.ycombinator.com/item?id=37591505"
-    ],
-    [
-      "Confessions of a McKinsey Whistleblower",
-      "https://www.thenation.com/article/society/mckinsey-whistleblower-confessions/"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2023-09-20, 17:29:20",
-      "https://news.ycombinator.com/item?id=37587043"
-    ],
-    [
-      "Monitor bandwidth usage with bandwhich (and build a snap package of it)",
-      "https://popey.com/blog/2023/09/monitor-bandwidth-usage-with-bandwhich/"
-    ]
-  ],
-  [
-    [
       "2023-09-20, 17:01:14",
       "https://news.ycombinator.com/item?id=37586681"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2023-09-20, 13:53:31",
-      "https://news.ycombinator.com/item?id=37584134"
-    ],
-    [
-      "My uBlock Origin filters to remove distractions",
-      "https://github.com/mig4ng/ublock-origin-filters"
-    ]
-  ],
-  [
-    [
       "2023-09-20, 13:46:55",
       "https://news.ycombinator.com/item?id=37584049"
     ],
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2023-09-20, 12:03:42",
-      "https://news.ycombinator.com/item?id=37583136"
+      "2023-09-20, 10:48:36",
+      "https://news.ycombinator.com/item?id=37582632"
     ],
     [
-      "Neurons in Large Language Models: Dead, N-Gram, Positional",
-      "https://arxiv.org/abs/2309.04827"
+      "Introduction to Linux interfaces for virtual networking (2018)",
+      "https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking"
     ]
   ],
   [
