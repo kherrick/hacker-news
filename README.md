@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-21, 15:33:06](https://news.ycombinator.com/item?id=37599194) - [The NSA Invented Bitcoin?](https://twitter.com/danroberts0101/status/1702440110002729356)
 * [2023-09-21, 14:40:56](https://news.ycombinator.com/item?id=37598329) - [The SEC cracks down on greenwashing](https://www.semafor.com/article/09/21/2023/the-sec-cracks-down-on-greenwashing)
 * [2023-09-21, 14:38:45](https://news.ycombinator.com/item?id=37598299) - [Cisco pulled out of SentinelOne acquisition after due diligence](https://www.calcalistech.com/ctechnews/article/b18wjfk1a)
-* [2023-09-21, 14:36:29](https://news.ycombinator.com/item?id=37598253) - [Fosstodon is now invite only](https://hub.fosstodon.org/were-invite-only)
 * [2023-09-21, 14:28:16](https://news.ycombinator.com/item?id=37598134) - [Why I’m stepping down](https://www.spectator.co.uk/article/why-im-stepping-down/)
 * [2023-09-21, 14:14:25](https://news.ycombinator.com/item?id=37597931) - [They have genetic ALS. What should clinicians do?](https://www.statnews.com/2023/09/21/als-gene-carrier-riluzole-toferson/)
 * [2023-09-21, 14:00:15](https://news.ycombinator.com/item?id=37597740) - [Germany went from envy of the world to worst-performing major developed economy](https://apnews.com/article/germany-economy-energy-crisis-russia-8a00eebbfab3f20c5c66b1cd85ae84ed)

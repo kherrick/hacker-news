@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
+* [2023-09-21, 15:33:06](https://news.ycombinator.com/item?id=37599194) - [The NSA Invented Bitcoin?](https://twitter.com/danroberts0101/status/1702440110002729356)
 * [2023-09-21, 15:13:00](https://news.ycombinator.com/item?id=37598845) - [AMA: We're the Researchers who looked into the privacy of the 25 top car brands](https://old.reddit.com/r/IAmA/comments/16oi17v/were_the_researchers_who_looked_into_the_privacy/)
 * [2023-09-21, 14:40:56](https://news.ycombinator.com/item?id=37598329) - [The SEC cracks down on greenwashing](https://www.semafor.com/article/09/21/2023/the-sec-cracks-down-on-greenwashing)
 * [2023-09-21, 14:38:45](https://news.ycombinator.com/item?id=37598299) - [Cisco pulled out of SentinelOne acquisition after due diligence](https://www.calcalistech.com/ctechnews/article/b18wjfk1a)
