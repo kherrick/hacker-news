@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-09-21, 19:31:24",
+      "https://news.ycombinator.com/item?id=37602923"
+    ],
+    [
+      "Speeding up the JavaScript ecosystem – Polyfills gone rogue",
+      "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-6/"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 18:52:54",
       "https://news.ycombinator.com/item?id=37602239"
     ],
     [
-      "NASA’s Webb Finds Carbon Source on Surface of Jupiter’s Moon Europa",
+      "NASA’s Webb finds carbon source on surface of Jupiter’s moon europa",
       "https://webbtelescope.org/contents/news-releases/2023/news-2023-113"
     ]
   ],
@@ -101,32 +111,12 @@
   ],
   [
     [
-      "2023-09-21, 16:26:44",
-      "https://news.ycombinator.com/item?id=37600019"
-    ],
-    [
-      "Show HN: My Single-File Python Script I Used to Replace Splunk in My Startup",
-      "https://github.com/Dicklesworthstone/automatic_log_collector_and_analyzer"
-    ]
-  ],
-  [
-    [
       "2023-09-21, 16:18:02",
       "https://news.ycombinator.com/item?id=37599873"
     ],
     [
       "Rag is more than just embedding search",
       "https://jxnl.github.io/instructor/blog/2023/09/17/rag-is-more-than-just-embedding-search/"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 15:58:25",
-      "https://news.ycombinator.com/item?id=37599587"
-    ],
-    [
-      "Insider trade on Splunk acquisition for 45,650% return",
-      "https://twitter.com/unusual_whales/status/1704870849831125446"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "OpenBSD/ARM64 on Hetzner Cloud",
       "https://www.undeadly.org/cgi?action=article;sid=20230921073556"
+    ]
+  ],
+  [
+    [
+      "2023-09-21, 07:28:04",
+      "https://news.ycombinator.com/item?id=37594302"
+    ],
+    [
+      "Designing content for people who struggle with numbers",
+      "https://service-manual.nhs.uk/content/numbers-measurements-dates-time"
     ]
   ],
   [
