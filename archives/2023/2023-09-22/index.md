@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
+* [2023-09-22, 21:31:37](https://news.ycombinator.com/item?id=37618055) - [The Radio Station That Bridge Built](https://www.nutsvolts.com/magazine/article/the-radio-station-that-bridge-built)
 * [2023-09-22, 21:29:39](https://news.ycombinator.com/item?id=37618037) - [Can Govt Debt Solve Fertility?](https://www.overcomingbias.com/p/can-govt-debt-solve-fertility)
 * [2023-09-22, 21:12:51](https://news.ycombinator.com/item?id=37617864) - [iOS 17 Is a Prude](https://old.reddit.com/r/iphone/comments/16nqk30/ios_17_is_a_prude/)
 * [2023-09-22, 21:12:51](https://news.ycombinator.com/item?id=37617863) - [Elegant and powerful new result that seriously undermines large language models](https://garymarcus.substack.com/p/elegant-and-powerful-new-result-that)
 * [2023-09-22, 20:48:21](https://news.ycombinator.com/item?id=37617572) - [Reasons Windows Is Going in the Wrong Direction](https://www.pcmag.com/opinions/windows-is-going-in-the-wrong-direction)
 * [2023-09-22, 20:36:07](https://news.ycombinator.com/item?id=37617422) - [Philips Hue will force users to upload their data to Hue cloud](https://www.home-assistant.io/blog/2023/09/22/philips-hue-force-users-upload-data-to-cloud/)
+* [2023-09-22, 20:27:07](https://news.ycombinator.com/item?id=37617322) - [Ask HN: Where Are All the Jobs At?](https://news.ycombinator.com/item?id=37617322)
 * [2023-09-22, 20:24:21](https://news.ycombinator.com/item?id=37617288) - [Show HN: Summary Cat, a YouTube Video Summary Generator](https://www.summarycat.com)
 * [2023-09-22, 20:13:00](https://news.ycombinator.com/item?id=37617144) - [Earth’s average 2023 temperature is now likely to reach 1.5 °C of warming](https://www.nature.com/articles/d41586-023-02995-7)
 * [2023-09-22, 20:12:25](https://news.ycombinator.com/item?id=37617133) - [Three NorCal Tribes Announce Nation’s First Indigenous Ocean Protection Area](https://lostcoastoutpost.com/2023/sep/22/three-norcal-tribes-announce-first-us-indigenous-m/)
@@ -21,6 +23,7 @@
 * [2023-09-22, 18:28:57](https://news.ycombinator.com/item?id=37615783) - [Not only Clojure – Chez Scheme: Lisp with native code speed](https://yakihonne.com/article/naddr1qq2nw7n9va68s56dxf2x27z889v524z40f38wq3qu6qhg5ucu3xza4nlz94q90y720tr6l09avnq8y3yfp5qrv9v8susxpqqqp65wvyuq5c)
 * [2023-09-22, 18:22:44](https://news.ycombinator.com/item?id=37615695) - [UK Government Extends Petrol and Diesel Car Sales Until 2035](https://www.motaclarity.co.uk/news/uk-government-extends-petrol-and-diesel-car-sales-until-2035)
 * [2023-09-22, 18:17:57](https://news.ycombinator.com/item?id=37615638) - [When half a million Americans died and nobody noticed (2012)](https://theweek.com/us/46535/when-half-million-americans-died-and-nobody-noticed)
+* [2023-09-22, 18:08:00](https://news.ycombinator.com/item?id=37615480) - [Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://golang50shad.es)
 * [2023-09-22, 17:52:26](https://news.ycombinator.com/item?id=37615272) - [Makefile Tutorial](https://makefiletutorial.com/)
 * [2023-09-22, 17:23:29](https://news.ycombinator.com/item?id=37614851) - [I'm writing a new CLI text editor, because I can](https://github.com/boutell/tome/blob/main/README.md)
 * [2023-09-22, 17:21:22](https://news.ycombinator.com/item?id=37614816) - [0-days exploited by commercial surveillance vendor in Egypt](https://blog.google/threat-analysis-group/0-days-exploited-by-commercial-surveillance-vendor-in-egypt/)
