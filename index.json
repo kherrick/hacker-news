@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-22, 00:33:30",
+      "https://news.ycombinator.com/item?id=37606396"
+    ],
+    [
+      "All 8,291 license plates available in the U.S.",
+      "https://github.com/jonkeegan/us-license-plates"
+    ]
+  ],
+  [
+    [
       "2023-09-22, 00:31:55",
       "https://news.ycombinator.com/item?id=37606380"
     ],
@@ -21,21 +31,11 @@
   ],
   [
     [
-      "2023-09-22, 00:24:50",
-      "https://news.ycombinator.com/item?id=37606321"
-    ],
-    [
-      "MGM Seeks Contractors to Repair Infra in 3 Weeks",
-      "https://www.snagajob.com/jobs/870614703"
-    ]
-  ],
-  [
-    [
       "2023-09-21, 23:18:27",
       "https://news.ycombinator.com/item?id=37605773"
     ],
     [
-      "Second-Guessing the Modern Web",
+      "Second-Guessing the Modern Web (2020)",
       "https://macwright.com/2020/05/10/spa-fatigue"
     ]
   ],
@@ -47,6 +47,16 @@
     [
       "Haskell WebAssembly in the Browser",
       "http://joeyh.name/blog/entry/Haskell_webassembly_in_the_browser/"
+    ]
+  ],
+  [
+    [
+      "2023-09-21, 22:30:59",
+      "https://news.ycombinator.com/item?id=37605334"
+    ],
+    [
+      "OpenAI and ChatGPT Lawsuit List",
+      "https://originality.ai/blog/openai-chatgpt-lawsuit-list"
     ]
   ],
   [
@@ -101,6 +111,16 @@
   ],
   [
     [
+      "2023-09-21, 19:17:24",
+      "https://news.ycombinator.com/item?id=37602674"
+    ],
+    [
+      "Why open source AI will win",
+      "https://varunshenoy.substack.com/p/why-open-source-ai-will-win"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 18:52:54",
       "https://news.ycombinator.com/item?id=37602239"
     ],
@@ -111,12 +131,12 @@
   ],
   [
     [
-      "2023-09-21, 18:06:27",
-      "https://news.ycombinator.com/item?id=37601526"
+      "2023-09-21, 17:34:11",
+      "https://news.ycombinator.com/item?id=37601064"
     ],
     [
-      "Developmental costs associated with early maternal withdrawal (2022)",
-      "https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdep.12442"
+      "Most UI applications are broken real-time applications",
+      "https://thelig.ht/ui-apps-are-broken/"
     ]
   ],
   [
@@ -127,6 +147,16 @@
     [
       "The WebP 0day",
       "https://blog.isosceles.com/the-webp-0day/"
+    ]
+  ],
+  [
+    [
+      "2023-09-21, 17:06:08",
+      "https://news.ycombinator.com/item?id=37600618"
+    ],
+    [
+      "USPS In-Person Identity Proofing",
+      "https://faq.usps.com/s/article/USPS-In-Person-Identity-Proofing"
     ]
   ],
   [
@@ -181,22 +211,22 @@
   ],
   [
     [
+      "2023-09-21, 14:24:37",
+      "https://news.ycombinator.com/item?id=37598082"
+    ],
+    [
+      "Harness launches Gitness, an open-source GitHub competitor",
+      "https://techcrunch.com/2023/09/21/oh-gitness-harness-launches-gitness-an-open-source-github-competitor/"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 14:21:45",
       "https://news.ycombinator.com/item?id=37598044"
     ],
     [
       "Fire and Motion (2002)",
       "https://www.joelonsoftware.com/2002/01/06/fire-and-motion/"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 13:18:58",
-      "https://news.ycombinator.com/item?id=37597201"
-    ],
-    [
-      "Show HN: Odin – the integration of LLMs with Obsidian note taking",
-      "https://github.com/memgraph/odin"
     ]
   ],
   [
@@ -231,16 +261,6 @@
   ],
   [
     [
-      "2023-09-21, 09:26:46",
-      "https://news.ycombinator.com/item?id=37595240"
-    ],
-    [
-      "Is Fortran easier to optimize than C for heavy calculations?",
-      "https://stackoverflow.com/questions/146159/is-fortran-easier-to-optimize-than-c-for-heavy-calculations"
-    ]
-  ],
-  [
-    [
       "2023-09-21, 07:42:46",
       "https://news.ycombinator.com/item?id=37594415"
     ],
@@ -257,26 +277,6 @@
     [
       "Designing content for people who struggle with numbers",
       "https://service-manual.nhs.uk/content/numbers-measurements-dates-time"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 06:45:40",
-      "https://news.ycombinator.com/item?id=37593997"
-    ],
-    [
-      "In Search of the Eagle Huntresses",
-      "https://www.aljazeera.com/features/longform/2023/9/21/mongolia-eagle-huntresses"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 12:09:49",
-      "https://news.ycombinator.com/item?id=37583197"
-    ],
-    [
-      "SQL Join Flavors",
-      "https://antonz.org/sql-join/"
     ]
   ],
   [
