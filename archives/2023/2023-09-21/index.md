@@ -92,6 +92,7 @@
 * [2023-09-21, 06:39:03](https://news.ycombinator.com/item?id=37593967) - [Strong arrows: a new approach to gradual typing](https://elixir-lang.org/blog/2023/09/20/strong-arrows-gradual-typing/)
 * [2023-09-21, 06:37:03](https://news.ycombinator.com/item?id=37593950) - [Tesla buys German railway line, now hosting passenger trains](https://www.trains.com/trn/news-reviews/news-wire/tesla-buys-german-railway-line-plans-passenger-trains-2/)
 * [2023-09-21, 06:13:29](https://news.ycombinator.com/item?id=37593832) - [Optimizing For Feelings - On seeking meaning beyond metrics](https://browsercompany.substack.com/p/optimizing-for-feelings)
+* [2023-09-21, 06:12:18](https://news.ycombinator.com/item?id=37593823) - [Some Reasons to Avoid Cython](https://pythonspeed.com/articles/cython-limitations/)
 * [2023-09-21, 05:23:42](https://news.ycombinator.com/item?id=37593497) - [Total cholesterol and mortality by sex and age:study of 12.8M adults](https://www.nature.com/articles/s41598-018-38461-y)
 * [2023-09-21, 05:15:25](https://news.ycombinator.com/item?id=37593459) - [Install Windows the Arch Linux Way](https://christitus.com/install-windows-the-arch-linux-way/)
 * [2023-09-21, 05:06:36](https://news.ycombinator.com/item?id=37593418) - [The End of Scantron Tests](https://www.theatlantic.com/technology/archive/2023/09/schools-standardized-testing-assessment-ai-future/675366/)
