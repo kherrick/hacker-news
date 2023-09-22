@@ -26,8 +26,8 @@
 * [2023-09-22, 05:08:06](https://news.ycombinator.com/item?id=37608110) - [The Bogus CVE Problem](https://lwn.net/Articles/944209/)
 * [2023-09-22, 04:59:21](https://news.ycombinator.com/item?id=37608061) - [Modular forms, the ‘fifth fundamental operation’ of math](https://www.quantamagazine.org/behold-modular-forms-the-fifth-fundamental-operation-of-math-20230921/)
 * [2023-09-21, 20:32:53](https://news.ycombinator.com/item?id=37603905) - [Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10)
+* [2023-09-21, 17:21:39](https://news.ycombinator.com/item?id=37600852) - [The WebP 0day](https://blog.isosceles.com/the-webp-0day/)
 * [2023-09-21, 06:12:18](https://news.ycombinator.com/item?id=37593823) - [Some reasons to avoid Cython](https://pythonspeed.com/articles/cython-limitations/)
-* [2023-09-21, 05:03:41](https://news.ycombinator.com/item?id=37593404) - [Compiling ML models to C for fun](https://bernsteinbear.com/blog/compiling-ml-models/)
 * [2023-09-21, 05:01:16](https://news.ycombinator.com/item?id=37593398) - [Interoperability: Swift’s Super Power](https://browsercompany.substack.com/cp/137231709)
 * [2023-09-21, 04:12:50](https://news.ycombinator.com/item?id=37593137) - [“Stop Making Sense” is having a theatrical rerelease](https://www.newyorker.com/culture/the-front-row/stop-making-sense-and-the-transformative-power-of-collaboration)
 
