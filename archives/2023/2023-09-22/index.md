@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
+* [2023-09-22, 13:22:17](https://news.ycombinator.com/item?id=37611708) - [Sites like HN on other topics?](https://news.ycombinator.com/item?id=37611708)
 * [2023-09-22, 12:39:06](https://news.ycombinator.com/item?id=37611213) - [Tailscale Kubernetes Operator](https://tailscale.com/kb/1236/kubernetes-operator/)
 * [2023-09-22, 12:36:09](https://news.ycombinator.com/item?id=37611191) - [Amazon Prime Video content to start including ads next year](https://www.bbc.co.uk/news/business-66887717)
+* [2023-09-22, 12:31:12](https://news.ycombinator.com/item?id=37611136) - [11 Principles for building and scaling feature flag systems](https://docs.getunleash.io/topics/feature-flags/feature-flag-best-practices)
 * [2023-09-22, 12:25:46](https://news.ycombinator.com/item?id=37611080) - [Learn Rust by building real-world examples](https://www.shuttle.rs/launchpad)
 * [2023-09-22, 12:22:01](https://news.ycombinator.com/item?id=37611045) - [AnyBT: A BitTorrent Search Engine Works on ENS and IPFS](https://anybt.eth.link/#/?s=yc)
 * [2023-09-22, 12:19:53](https://news.ycombinator.com/item?id=37611026) - [Authors sue OpenAI for using their works without proper licensing](https://www.nytimes.com/2023/09/20/books/authors-openai-lawsuit-chatgpt-copyright.html)
