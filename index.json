@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-09-21, 23:08:46",
+      "https://news.ycombinator.com/item?id=37605688"
+    ],
+    [
+      "Haskell WebAssembly in the Browser",
+      "http://joeyh.name/blog/entry/Haskell_webassembly_in_the_browser/"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 20:32:53",
       "https://news.ycombinator.com/item?id=37603905"
     ],
@@ -267,16 +277,6 @@
     [
       "SQL Join Flavors",
       "https://antonz.org/sql-join/"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 12:04:56",
-      "https://news.ycombinator.com/item?id=37583147"
-    ],
-    [
-      "MongoDB’s new query engine",
-      "https://laplab.me/posts/inside-new-query-engine-of-mongodb/"
     ]
   ],
   [
