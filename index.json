@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-09-22, 15:02:34",
+      "https://news.ycombinator.com/item?id=37612968"
+    ],
+    [
+      "Working Remotely Can More Than Halve an Office Employee’s Carbon Footprint",
+      "https://www.scientificamerican.com/article/working-remotely-can-more-than-halve-an-office-employees-carbon-footprint/"
+    ]
+  ],
+  [
+    [
       "2023-09-22, 14:48:55",
       "https://news.ycombinator.com/item?id=37612783"
     ],
@@ -241,26 +251,6 @@
   ],
   [
     [
-      "2023-09-22, 00:31:55",
-      "https://news.ycombinator.com/item?id=37606380"
-    ],
-    [
-      "Nintendo 3DS Architecture",
-      "https://www.copetti.org/writings/consoles/nintendo-3ds/"
-    ]
-  ],
-  [
-    [
-      "2023-09-22, 00:29:44",
-      "https://news.ycombinator.com/item?id=37606352"
-    ],
-    [
-      "Outperforming larger language models with less training data and smaller models",
-      "https://blog.research.google/2023/09/distilling-step-by-step-outperforming.html"
-    ]
-  ],
-  [
-    [
       "2023-09-21, 20:32:53",
       "https://news.ycombinator.com/item?id=37603905"
     ],
@@ -277,6 +267,16 @@
     [
       "Some reasons to avoid Cython",
       "https://pythonspeed.com/articles/cython-limitations/"
+    ]
+  ],
+  [
+    [
+      "2023-09-21, 05:03:41",
+      "https://news.ycombinator.com/item?id=37593404"
+    ],
+    [
+      "Compiling ML models to C for fun",
+      "https://bernsteinbear.com/blog/compiling-ml-models/"
     ]
   ],
   [
