@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2023-09-22, 07:15:40",
+      "https://news.ycombinator.com/item?id=37608900"
+    ],
+    [
+      "AWS Customers Cannot Escape IPv4",
+      "https://tty.neveragain.de/2023/09/21/aws-cannot-escape-ipv4.html"
+    ]
+  ],
+  [
+    [
       "2023-09-22, 06:27:15",
       "https://news.ycombinator.com/item?id=37608580"
     ],
@@ -177,16 +187,6 @@
     [
       "Publius Enigma",
       "https://en.wikipedia.org/wiki/Publius_Enigma"
-    ]
-  ],
-  [
-    [
-      "2023-09-22, 05:20:04",
-      "https://news.ycombinator.com/item?id=37608186"
-    ],
-    [
-      "Is ClickHouse Moving Away from Open Source?",
-      "https://altinity.com/blog/is-clickhouse-moving-away-from-open-source"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=37593823"
     ],
     [
-      "Some Reasons to Avoid Cython",
+      "Some reasons to avoid Cython",
       "https://pythonspeed.com/articles/cython-limitations/"
     ]
   ],
