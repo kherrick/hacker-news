@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
+* [2023-09-22, 16:02:41](https://news.ycombinator.com/item?id=37613747) - [I'm All-In on Server-Side SQLite](https://fly.io/blog/all-in-on-sqlite-litestream/)
 * [2023-09-22, 15:08:32](https://news.ycombinator.com/item?id=37613054) - [Show HN: Paisa – Open-Source Personal Finance Manager](https://paisa.fyi/)
 * [2023-09-22, 15:02:57](https://news.ycombinator.com/item?id=37612975) - [Java 21: The Nice, the Meh, and the Momentous](https://horstmann.com/unblog/2023-09-19/index.html)
 * [2023-09-22, 15:02:34](https://news.ycombinator.com/item?id=37612968) - [Working Remotely Can More Than Halve an Office Employee’s Carbon Footprint](https://www.scientificamerican.com/article/working-remotely-can-more-than-halve-an-office-employees-carbon-footprint/)

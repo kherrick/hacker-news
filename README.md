@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-22, 16:02:41](https://news.ycombinator.com/item?id=37613747) - [I'm All-In on Server-Side SQLite](https://fly.io/blog/all-in-on-sqlite-litestream/)
 * [2023-09-22, 15:08:32](https://news.ycombinator.com/item?id=37613054) - [Show HN: Paisa – Open-Source Personal Finance Manager](https://paisa.fyi/)
 * [2023-09-22, 15:02:57](https://news.ycombinator.com/item?id=37612975) - [Java 21: The Nice, the Meh, and the Momentous](https://horstmann.com/unblog/2023-09-19/index.html)
 * [2023-09-22, 15:02:34](https://news.ycombinator.com/item?id=37612968) - [Working Remotely Can More Than Halve an Office Employee’s Carbon Footprint](https://www.scientificamerican.com/article/working-remotely-can-more-than-halve-an-office-employees-carbon-footprint/)
@@ -26,7 +27,6 @@
 * [2023-09-22, 05:08:06](https://news.ycombinator.com/item?id=37608110) - [The Bogus CVE Problem](https://lwn.net/Articles/944209/)
 * [2023-09-22, 04:59:21](https://news.ycombinator.com/item?id=37608061) - [Modular forms, the ‘fifth fundamental operation’ of math](https://www.quantamagazine.org/behold-modular-forms-the-fifth-fundamental-operation-of-math-20230921/)
 * [2023-09-21, 20:32:53](https://news.ycombinator.com/item?id=37603905) - [Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10)
-* [2023-09-21, 17:21:39](https://news.ycombinator.com/item?id=37600852) - [The WebP 0day](https://blog.isosceles.com/the-webp-0day/)
 * [2023-09-21, 06:12:18](https://news.ycombinator.com/item?id=37593823) - [Some reasons to avoid Cython](https://pythonspeed.com/articles/cython-limitations/)
 * [2023-09-21, 05:01:16](https://news.ycombinator.com/item?id=37593398) - [Interoperability: Swift’s Super Power](https://browsercompany.substack.com/cp/137231709)
 * [2023-09-21, 04:12:50](https://news.ycombinator.com/item?id=37593137) - [“Stop Making Sense” is having a theatrical rerelease](https://www.newyorker.com/culture/the-front-row/stop-making-sense-and-the-transformative-power-of-collaboration)
