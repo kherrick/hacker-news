@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-09-22, 21:29:39",
-      "https://news.ycombinator.com/item?id=37618037"
-    ],
-    [
-      "Can Govt Debt Solve Fertility?",
-      "https://www.overcomingbias.com/p/can-govt-debt-solve-fertility"
-    ]
-  ],
-  [
-    [
       "2023-09-22, 21:12:51",
       "https://news.ycombinator.com/item?id=37617864"
     ],
@@ -31,16 +21,6 @@
   ],
   [
     [
-      "2023-09-22, 20:48:21",
-      "https://news.ycombinator.com/item?id=37617572"
-    ],
-    [
-      "Reasons Windows Is Going in the Wrong Direction",
-      "https://www.pcmag.com/opinions/windows-is-going-in-the-wrong-direction"
-    ]
-  ],
-  [
-    [
       "2023-09-22, 20:24:21",
       "https://news.ycombinator.com/item?id=37617288"
     ],
@@ -57,6 +37,16 @@
     [
       "Three NorCal Tribes Announce Nation’s First Indigenous Ocean Protection Area",
       "https://lostcoastoutpost.com/2023/sep/22/three-norcal-tribes-announce-first-us-indigenous-m/"
+    ]
+  ],
+  [
+    [
+      "2023-09-22, 20:07:11",
+      "https://news.ycombinator.com/item?id=37617066"
+    ],
+    [
+      "Let's Build a FIPS-Validated Rust Crypto Library",
+      "https://briansmith.org/lets-build-a-fips-rust-crypto"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2023-09-22, 12:02:25",
+      "https://news.ycombinator.com/item?id=37610864"
+    ],
+    [
+      "Zep: Fast, scalable building blocks for production LLM apps",
+      "https://github.com/getzep/zep"
+    ]
+  ],
+  [
+    [
       "2023-09-22, 11:57:58",
       "https://news.ycombinator.com/item?id=37610821"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2023-09-22, 07:15:40",
-      "https://news.ycombinator.com/item?id=37608900"
+      "2023-09-22, 04:43:22",
+      "https://news.ycombinator.com/item?id=37607963"
     ],
     [
-      "AWS Customers Cannot Escape IPv4",
-      "https://tty.neveragain.de/2023/09/21/aws-cannot-escape-ipv4.html"
+      "The Frustration Loop",
+      "https://herman.bearblog.dev/the-frustration-loop/"
     ]
   ],
   [
