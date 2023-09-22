@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
+* [2023-09-22, 20:48:21](https://news.ycombinator.com/item?id=37617572) - [Reasons Windows Is Going in the Wrong Direction](https://www.pcmag.com/opinions/windows-is-going-in-the-wrong-direction)
 * [2023-09-22, 20:36:07](https://news.ycombinator.com/item?id=37617422) - [Philips Hue will force users to upload their data to Hue cloud](https://www.home-assistant.io/blog/2023/09/22/philips-hue-force-users-upload-data-to-cloud/)
 * [2023-09-22, 20:24:21](https://news.ycombinator.com/item?id=37617288) - [Show HN: Summary Cat, a YouTube Video Summary Generator](https://www.summarycat.com)
 * [2023-09-22, 20:13:00](https://news.ycombinator.com/item?id=37617144) - [Earth’s average 2023 temperature is now likely to reach 1.5 °C of warming](https://www.nature.com/articles/d41586-023-02995-7)
@@ -14,6 +15,7 @@
 * [2023-09-22, 19:23:59](https://news.ycombinator.com/item?id=37616513) - [NASA JPL Open Source Rover That Runs ROS 2](https://github.com/nasa-jpl/open-source-rover)
 * [2023-09-22, 18:56:52](https://news.ycombinator.com/item?id=37616171) - [CFPB begins a process to remove medical bills from Americans’ credit reports](https://www.consumerfinance.gov/about-us/newsroom/cfpb-kicks-off-rulemaking-to-remove-medical-bills-from-credit-reports/)
 * [2023-09-22, 18:47:37](https://news.ycombinator.com/item?id=37616033) - [Run PostgreSQL. The Kubernetes Way](https://cloudnative-pg.io/)
+* [2023-09-22, 18:28:57](https://news.ycombinator.com/item?id=37615783) - [Not only Clojure – Chez Scheme: Lisp with native code speed](https://yakihonne.com/article/naddr1qq2nw7n9va68s56dxf2x27z889v524z40f38wq3qu6qhg5ucu3xza4nlz94q90y720tr6l09avnq8y3yfp5qrv9v8susxpqqqp65wvyuq5c)
 * [2023-09-22, 18:22:44](https://news.ycombinator.com/item?id=37615695) - [UK Government Extends Petrol and Diesel Car Sales Until 2035](https://www.motaclarity.co.uk/news/uk-government-extends-petrol-and-diesel-car-sales-until-2035)
 * [2023-09-22, 18:17:57](https://news.ycombinator.com/item?id=37615638) - [When half a million Americans died and nobody noticed (2012)](https://theweek.com/us/46535/when-half-million-americans-died-and-nobody-noticed)
 * [2023-09-22, 17:52:26](https://news.ycombinator.com/item?id=37615272) - [Makefile Tutorial](https://makefiletutorial.com/)
