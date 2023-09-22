@@ -7,6 +7,7 @@
 * [2023-09-22, 20:36:07](https://news.ycombinator.com/item?id=37617422) - [Philips Hue will force users to upload their data to Hue cloud](https://www.home-assistant.io/blog/2023/09/22/philips-hue-force-users-upload-data-to-cloud/)
 * [2023-09-22, 20:24:21](https://news.ycombinator.com/item?id=37617288) - [Show HN: Summary Cat, a YouTube Video Summary Generator](https://www.summarycat.com)
 * [2023-09-22, 20:13:00](https://news.ycombinator.com/item?id=37617144) - [Earth’s average 2023 temperature is now likely to reach 1.5 °C of warming](https://www.nature.com/articles/d41586-023-02995-7)
+* [2023-09-22, 20:12:25](https://news.ycombinator.com/item?id=37617133) - [Three NorCal Tribes Announce Nation’s First Indigenous Ocean Protection Area](https://lostcoastoutpost.com/2023/sep/22/three-norcal-tribes-announce-first-us-indigenous-m/)
 * [2023-09-22, 20:07:11](https://news.ycombinator.com/item?id=37617066) - [Let's Build a FIPS-Validated Rust Crypto Library](https://briansmith.org/lets-build-a-fips-rust-crypto)
 * [2023-09-22, 19:54:12](https://news.ycombinator.com/item?id=37616919) - [Ask HN: What are some communities like HN?](https://news.ycombinator.com/item?id=37616919)
 * [2023-09-22, 19:26:19](https://news.ycombinator.com/item?id=37616544) - [Abraham Lincoln assassination Ford's Theatre tickets up for auction](https://www.rrauction.com/auctions/lot-detail/347903406696018-abraham-lincoln-assassination-2-fords-theatre-front-row-tickets-from-april-14-1865-ex-forbes-collection)
