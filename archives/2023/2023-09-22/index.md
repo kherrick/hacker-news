@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
+* [2023-09-22, 10:25:46](https://news.ycombinator.com/item?id=37610238) - [The Age of the Grift Shift](https://tante.cc/2023/09/21/the-age-of-the-grift-shift/)
+* [2023-09-22, 09:53:10](https://news.ycombinator.com/item?id=37610021) - [The West's betrayal of the women of Iran](https://www.spiked-online.com/2023/09/20/the-wests-betrayal-of-the-women-of-iran/)
 * [2023-09-22, 08:59:11](https://news.ycombinator.com/item?id=37609670) - [Bell’s new helicopter may look but it could reduce accidents and noise](https://www.popsci.com/story/technology/bell-new-helicopter-electric-tail-rotor/)
 * [2023-09-22, 08:57:56](https://news.ycombinator.com/item?id=37609663) - [Chrome feature: Compression dictionary transport with Shared Brotli](https://chromestatus.com/feature/5124977788977152)
 * [2023-09-22, 07:42:40](https://news.ycombinator.com/item?id=37609105) - [Seriously Consider Skipping the Drinks](https://www.health.harvard.edu/heart-health/want-a-healthier-heart-seriously-consider-skipping-the-drinks)

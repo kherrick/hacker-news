@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-22, 10:25:46](https://news.ycombinator.com/item?id=37610238) - [The Age of the Grift Shift](https://tante.cc/2023/09/21/the-age-of-the-grift-shift/)
+* [2023-09-22, 09:53:10](https://news.ycombinator.com/item?id=37610021) - [The West's betrayal of the women of Iran](https://www.spiked-online.com/2023/09/20/the-wests-betrayal-of-the-women-of-iran/)
 * [2023-09-22, 08:57:56](https://news.ycombinator.com/item?id=37609663) - [Chrome feature: Compression dictionary transport with Shared Brotli](https://chromestatus.com/feature/5124977788977152)
 * [2023-09-22, 07:15:40](https://news.ycombinator.com/item?id=37608900) - [AWS Customers Cannot Escape IPv4](https://tty.neveragain.de/2023/09/21/aws-cannot-escape-ipv4.html)
 * [2023-09-22, 06:27:15](https://news.ycombinator.com/item?id=37608580) - [I'm fed up with it, so I'm writing a browser](https://adayinthelifeof.nl/2023/09/22/browsers.html)
@@ -16,8 +18,6 @@
 * [2023-09-21, 20:09:31](https://news.ycombinator.com/item?id=37603554) - [A customer stuck due to a hurricane who needed SSH](https://rachelbythebay.com/w/2023/09/21/hurricane/)
 * [2023-09-21, 20:04:31](https://news.ycombinator.com/item?id=37603467) - [Android 14 adds support for using your smartphone as a webcam](https://www.esper.io/blog/android-14-adds-support-for-using-your-smartphone-as-a-webcam)
 * [2023-09-21, 19:56:21](https://news.ycombinator.com/item?id=37603331) - [LabelContactRelationYoungerCousinMothersSiblingsDaughterOrFathersSistersDaughter](https://developer.apple.com/documentation/contacts/cnlabelcontactrelationyoungercousinmotherssiblingsdaughterorfatherssistersdaughter)
-* [2023-09-21, 19:31:24](https://news.ycombinator.com/item?id=37602923) - [Speeding up the JavaScript ecosystem – Polyfills gone rogue](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-6/)
-* [2023-09-21, 19:17:24](https://news.ycombinator.com/item?id=37602674) - [Open source AI will win](https://varunshenoy.substack.com/p/why-open-source-ai-will-win)
 * [2023-09-21, 18:52:54](https://news.ycombinator.com/item?id=37602239) - [NASA’s Webb finds carbon source on surface of Jupiter’s moon Europa](https://webbtelescope.org/contents/news-releases/2023/news-2023-113)
 * [2023-09-21, 17:21:39](https://news.ycombinator.com/item?id=37600852) - [The WebP 0day](https://blog.isosceles.com/the-webp-0day/)
 * [2023-09-21, 12:15:19](https://news.ycombinator.com/item?id=37596497) - [Cisco Acquires Splunk](https://www.splunk.com/en_us/blog/leadership/splunk-and-cisco-unite-to-accelerate-digital-resilience-as-one-of-the-leading-global-software-companies.html)
