@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-22, 17:23:29](https://news.ycombinator.com/item?id=37614851) - [I'm writing a new CLI text editor, because I can](https://github.com/boutell/tome/blob/main/README.md)
 * [2023-09-22, 17:20:12](https://news.ycombinator.com/item?id=37614793) - [An open letter to our community [Unity]](https://blog.unity.com/news/open-letter-on-runtime-fee)
 * [2023-09-22, 16:57:37](https://news.ycombinator.com/item?id=37614468) - [Amazon Prime Video content to start including ads next year](https://www.bbc.com/news/business-66887717)
 * [2023-09-22, 16:38:56](https://news.ycombinator.com/item?id=37614216) - [How to Roman Republic, Part IV: The Senate](https://acoup.blog/2023/09/22/collections-how-to-roman-republic-part-iv-the-senate/)
 * [2023-09-22, 16:35:15](https://news.ycombinator.com/item?id=37614177) - [Show HN: Rapidpages – OSS alternative to vercel's v0](https://github.com/rapidpages/rapidpages)
-* [2023-09-22, 16:09:14](https://news.ycombinator.com/item?id=37613830) - [Kia, Hyundai Blame Mass Car Thefts on ‘Lax Policing’ in Court Defense](https://www.thedrive.com/news/kia-hyundai-blame-mass-car-thefts-on-lax-policing-in-court-defense)
 * [2023-09-22, 16:02:41](https://news.ycombinator.com/item?id=37613747) - [I'm All-In on Server-Side SQLite (2022)](https://fly.io/blog/all-in-on-sqlite-litestream/)
 * [2023-09-22, 15:49:32](https://news.ycombinator.com/item?id=37613572) - [The Design System Ecosystem](https://bradfrost.com/blog/post/the-design-system-ecosystem/)
 * [2023-09-22, 15:27:40](https://news.ycombinator.com/item?id=37613309) - [Dumpster Tektronix 2465B Restoration](https://sunestra.fr/posts/repair/scope/)
