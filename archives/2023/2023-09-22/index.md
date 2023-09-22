@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
+* [2023-09-22, 12:39:06](https://news.ycombinator.com/item?id=37611213) - [Tailscale Kubernetes Operator](https://tailscale.com/kb/1236/kubernetes-operator/)
 * [2023-09-22, 12:36:09](https://news.ycombinator.com/item?id=37611191) - [Amazon Prime Video content to start including ads next year](https://www.bbc.co.uk/news/business-66887717)
 * [2023-09-22, 12:25:46](https://news.ycombinator.com/item?id=37611080) - [Learn Rust by building real-world examples](https://www.shuttle.rs/launchpad)
 * [2023-09-22, 12:22:01](https://news.ycombinator.com/item?id=37611045) - [AnyBT: A BitTorrent Search Engine Works on ENS and IPFS](https://anybt.eth.link/#/?s=yc)
+* [2023-09-22, 12:19:53](https://news.ycombinator.com/item?id=37611026) - [Authors sue OpenAI for using their works without proper licensing](https://www.nytimes.com/2023/09/20/books/authors-openai-lawsuit-chatgpt-copyright.html)
 * [2023-09-22, 12:06:42](https://news.ycombinator.com/item?id=37610899) - [All the ways to capture changes in Postgres](https://blog.sequin.io/all-the-ways-to-capture-changes-in-postgres/)
 * [2023-09-22, 12:02:25](https://news.ycombinator.com/item?id=37610864) - [Zep: Fast, scalable building blocks for production LLM apps](https://github.com/getzep/zep)
+* [2023-09-22, 11:34:35](https://news.ycombinator.com/item?id=37610654) - [GraalOS: Containerless instant-on cloud functions for Java](https://www.graal.cloud/graalos/)
 * [2023-09-22, 11:29:39](https://news.ycombinator.com/item?id=37610623) - [Westinghouse/Bechtel Consortium Agreement: First Nuclear Power Plant in Poland](https://info.westinghousenuclear.com/news/westinghouse-and-bechtel-sign-consortium-agreement-for-first-nuclear-power-plant-in-poland)
 * [2023-09-22, 11:25:40](https://news.ycombinator.com/item?id=37610591) - [Ben Myers: Statement on Generative AI](https://benmyers.dev/ai-statement/)
 * [2023-09-22, 11:11:50](https://news.ycombinator.com/item?id=37610500) - [Amazon to add limited ads to Prime Video starting in early 2024](https://www.marketwatch.com/story/amazon-to-add-limited-ads-to-prime-video-starting-in-early-2024-fd51c85d)
