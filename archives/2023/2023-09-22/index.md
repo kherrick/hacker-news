@@ -5,10 +5,12 @@
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
 * [2023-09-22, 08:59:11](https://news.ycombinator.com/item?id=37609670) - [Bell’s new helicopter may look but it could reduce accidents and noise](https://www.popsci.com/story/technology/bell-new-helicopter-electric-tail-rotor/)
+* [2023-09-22, 08:57:56](https://news.ycombinator.com/item?id=37609663) - [Chrome feature: Compression dictionary transport with Shared Brotli](https://chromestatus.com/feature/5124977788977152)
 * [2023-09-22, 07:42:40](https://news.ycombinator.com/item?id=37609105) - [Seriously Consider Skipping the Drinks](https://www.health.harvard.edu/heart-health/want-a-healthier-heart-seriously-consider-skipping-the-drinks)
 * [2023-09-22, 07:15:40](https://news.ycombinator.com/item?id=37608900) - [AWS Customers Cannot Escape IPv4](https://tty.neveragain.de/2023/09/21/aws-cannot-escape-ipv4.html)
 * [2023-09-22, 06:27:15](https://news.ycombinator.com/item?id=37608580) - [I'm fed up with it, so I'm writing a browser](https://adayinthelifeof.nl/2023/09/22/browsers.html)
 * [2023-09-22, 05:21:13](https://news.ycombinator.com/item?id=37608191) - [Publius Enigma](https://en.wikipedia.org/wiki/Publius_Enigma)
+* [2023-09-22, 05:20:04](https://news.ycombinator.com/item?id=37608186) - [Is ClickHouse Moving Away from Open Source?](https://altinity.com/blog/is-clickhouse-moving-away-from-open-source)
 * [2023-09-22, 05:08:06](https://news.ycombinator.com/item?id=37608110) - [The Bogus CVE Problem](https://lwn.net/Articles/944209/)
 * [2023-09-22, 04:59:21](https://news.ycombinator.com/item?id=37608061) - [Modular forms, the ‘fifth fundamental operation’ of math](https://www.quantamagazine.org/behold-modular-forms-the-fifth-fundamental-operation-of-math-20230921/)
 * [2023-09-22, 04:25:03](https://news.ycombinator.com/item?id=37607851) - [French was the official language of England from 1066 till 1362](https://www.frenchleeds.co.uk/french-was-the-official-language-of-england-for-about-300-years-from-1066-till-1362)
