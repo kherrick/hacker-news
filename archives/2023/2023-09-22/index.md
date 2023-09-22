@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
+* [2023-09-22, 04:25:03](https://news.ycombinator.com/item?id=37607851) - [French was the official language of England from 1066 till 1362](https://www.frenchleeds.co.uk/french-was-the-official-language-of-england-for-about-300-years-from-1066-till-1362)
 * [2023-09-22, 03:35:31](https://news.ycombinator.com/item?id=37607534) - [“The Poet Is a Man Who Feigns”](https://daily.jstor.org/the-poet-is-a-man-who-feigns/)
 * [2023-09-22, 02:35:22](https://news.ycombinator.com/item?id=37607203) - [Suppressing negative thoughts may be good for mental health after all](https://www.cam.ac.uk/research/news/suppressing-negative-thoughts-may-be-good-for-mental-health-after-all-study-suggests)
 * [2023-09-22, 01:29:41](https://news.ycombinator.com/item?id=37606775) - [Luiz André Barroso has died](https://www.wired.com/story/google-mourns-luiz-andre-barroso-veteran-engineer-invented-the-modern-data-center/)

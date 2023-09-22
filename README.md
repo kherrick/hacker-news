@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-22, 04:25:03](https://news.ycombinator.com/item?id=37607851) - [French was the official language of England from 1066 till 1362](https://www.frenchleeds.co.uk/french-was-the-official-language-of-england-for-about-300-years-from-1066-till-1362)
 * [2023-09-22, 03:35:31](https://news.ycombinator.com/item?id=37607534) - [“The Poet Is a Man Who Feigns”](https://daily.jstor.org/the-poet-is-a-man-who-feigns/)
 * [2023-09-22, 02:35:22](https://news.ycombinator.com/item?id=37607203) - [Suppressing negative thoughts may be good for mental health after all](https://www.cam.ac.uk/research/news/suppressing-negative-thoughts-may-be-good-for-mental-health-after-all-study-suggests)
 * [2023-09-22, 01:29:41](https://news.ycombinator.com/item?id=37606775) - [Luiz André Barroso has died](https://www.wired.com/story/google-mourns-luiz-andre-barroso-veteran-engineer-invented-the-modern-data-center/)
@@ -13,7 +14,6 @@
 * [2023-09-21, 19:31:24](https://news.ycombinator.com/item?id=37602923) - [Speeding up the JavaScript ecosystem – Polyfills gone rogue](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-6/)
 * [2023-09-21, 19:17:24](https://news.ycombinator.com/item?id=37602674) - [Open source AI will win](https://varunshenoy.substack.com/p/why-open-source-ai-will-win)
 * [2023-09-21, 18:52:54](https://news.ycombinator.com/item?id=37602239) - [NASA’s Webb finds carbon source on surface of Jupiter’s moon Europa](https://webbtelescope.org/contents/news-releases/2023/news-2023-113)
-* [2023-09-21, 17:34:11](https://news.ycombinator.com/item?id=37601064) - [Most UI applications are broken real-time applications](https://thelig.ht/ui-apps-are-broken/)
 * [2023-09-21, 17:21:39](https://news.ycombinator.com/item?id=37600852) - [The WebP 0day](https://blog.isosceles.com/the-webp-0day/)
 * [2023-09-21, 17:06:08](https://news.ycombinator.com/item?id=37600618) - [USPS In-Person Identity Proofing](https://faq.usps.com/s/article/USPS-In-Person-Identity-Proofing)
 * [2023-09-21, 17:00:48](https://news.ycombinator.com/item?id=37600542) - [OneSignal (YC S11), email and push notification platform, is hiring engineers](https://onesignal.com/careers/4264311006)
@@ -24,10 +24,10 @@
 * [2023-09-21, 12:15:19](https://news.ycombinator.com/item?id=37596497) - [Cisco Acquires Splunk](https://www.splunk.com/en_us/blog/leadership/splunk-and-cisco-unite-to-accelerate-digital-resilience-as-one-of-the-leading-global-software-companies.html)
 * [2023-09-21, 11:48:51](https://news.ycombinator.com/item?id=37596253) - [Launch HN: Loops (YC W22) – Email for SaaS Companies](https://news.ycombinator.com/item?id=37596253)
 * [2023-09-21, 07:42:46](https://news.ycombinator.com/item?id=37594415) - [Memories of a goofy phone from the late 80s](http://rachelbythebay.com/w/2023/09/20/fv1000/)
-* [2023-09-21, 07:28:04](https://news.ycombinator.com/item?id=37594302) - [Designing content for people who struggle with numbers](https://service-manual.nhs.uk/content/numbers-measurements-dates-time)
+* [2023-09-21, 06:13:29](https://news.ycombinator.com/item?id=37593832) - [Optimizing For Feelings - On seeking meaning beyond metrics](https://browsercompany.substack.com/p/optimizing-for-feelings)
 * [2023-09-21, 05:06:36](https://news.ycombinator.com/item?id=37593418) - [The End of Scantron Tests](https://www.theatlantic.com/technology/archive/2023/09/schools-standardized-testing-assessment-ai-future/675366/)
 * [2023-09-21, 05:03:41](https://news.ycombinator.com/item?id=37593404) - [Compiling ML models to C for fun](https://bernsteinbear.com/blog/compiling-ml-models/)
-* [2023-09-21, 04:12:50](https://news.ycombinator.com/item?id=37593137) - [“Stop Making Sense” and the Transformative Power of Collaboration](https://www.newyorker.com/culture/the-front-row/stop-making-sense-and-the-transformative-power-of-collaboration)
+* [2023-09-21, 04:12:50](https://news.ycombinator.com/item?id=37593137) - [“Stop Making Sense” is having a theatrical rerelease](https://www.newyorker.com/culture/the-front-row/stop-making-sense-and-the-transformative-power-of-collaboration)
 * [2023-09-20, 11:48:19](https://news.ycombinator.com/item?id=37583022) - [Lean, Coq and other proof assistants: Visualising proofs as trees](https://lakesare.brick.do/lean-coq-isabel-and-their-proof-trees-yjnd2O2RgxwV)
 * [2023-09-20, 06:46:48](https://news.ycombinator.com/item?id=37581145) - [CERN swaps out databases to feed its petabyte-a-day habit](https://www.theregister.com/2023/09/18/lhc_infrastructure_monitoring/)
 
