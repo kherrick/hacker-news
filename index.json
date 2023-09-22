@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-22, 07:15:40",
+      "https://news.ycombinator.com/item?id=37608900"
+    ],
+    [
+      "AWS Customers Cannot Escape IPv4",
+      "https://tty.neveragain.de/2023/09/21/aws-cannot-escape-ipv4.html"
+    ]
+  ],
+  [
+    [
       "2023-09-22, 06:27:15",
       "https://news.ycombinator.com/item?id=37608580"
     ],
@@ -201,6 +211,16 @@
   ],
   [
     [
+      "2023-09-21, 17:00:48",
+      "https://news.ycombinator.com/item?id=37600542"
+    ],
+    [
+      "OneSignal (YC S11), email and push notification platform, is hiring engineers",
+      "https://onesignal.com/careers/4264311006"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 12:15:19",
       "https://news.ycombinator.com/item?id=37596497"
     ],
@@ -227,16 +247,6 @@
     [
       "Game: ASM – Das Computer-Spiel (The Director's Cut) released",
       "https://www.amiga-news.de/en/news/AN-2023-09-00044-EN.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 07:42:46",
-      "https://news.ycombinator.com/item?id=37594415"
-    ],
-    [
-      "Memories of a goofy phone from the late 80s",
-      "http://rachelbythebay.com/w/2023/09/20/fv1000/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Being a bash developer in the 21st century (2021)",
       "https://blog.barysas.eu/being-a-bash-programmer-in-the-xxi-st-century/"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 06:46:48",
-      "https://news.ycombinator.com/item?id=37581145"
-    ],
-    [
-      "CERN swaps out databases to feed its petabyte-a-day habit",
-      "https://www.theregister.com/2023/09/18/lhc_infrastructure_monitoring/"
     ]
   ]
 ]
