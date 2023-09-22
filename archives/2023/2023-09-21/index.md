@@ -89,6 +89,7 @@
 * [2023-09-21, 06:37:03](https://news.ycombinator.com/item?id=37593950) - [Tesla buys German railway line, now hosting passenger trains](https://www.trains.com/trn/news-reviews/news-wire/tesla-buys-german-railway-line-plans-passenger-trains-2/)
 * [2023-09-21, 05:23:42](https://news.ycombinator.com/item?id=37593497) - [Total cholesterol and mortality by sex and age:study of 12.8M adults](https://www.nature.com/articles/s41598-018-38461-y)
 * [2023-09-21, 05:15:25](https://news.ycombinator.com/item?id=37593459) - [Install Windows the Arch Linux Way](https://christitus.com/install-windows-the-arch-linux-way/)
+* [2023-09-21, 05:06:36](https://news.ycombinator.com/item?id=37593418) - [The End of Scantron Tests](https://www.theatlantic.com/technology/archive/2023/09/schools-standardized-testing-assessment-ai-future/675366/)
 * [2023-09-21, 04:13:29](https://news.ycombinator.com/item?id=37593143) - [GNU Turns 40](https://www.theregister.com/2023/09/20/gnu_turns_40/)
 * [2023-09-21, 04:11:49](https://news.ycombinator.com/item?id=37593133) - [Terraria developer bashes Unity, donates $200k to open source alternatives](https://lemm.ee/post/8670706)
 * [2023-09-21, 03:35:43](https://news.ycombinator.com/item?id=37592934) - [How Equifax Was Breached in 2017](https://blog.0x7d0.dev/history/how-equifax-was-breached-in-2017/)
