@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-22, 21:31:37](https://news.ycombinator.com/item?id=37618055) - [The Radio Station That Bridge Built](https://www.nutsvolts.com/magazine/article/the-radio-station-that-bridge-built)
-* [2023-09-22, 20:27:07](https://news.ycombinator.com/item?id=37617322) - [Ask HN: Where Are All the Jobs At?](https://news.ycombinator.com/item?id=37617322)
 * [2023-09-22, 20:12:25](https://news.ycombinator.com/item?id=37617133) - [Three NorCal Tribes Announce Nation’s First Indigenous Ocean Protection Area](https://lostcoastoutpost.com/2023/sep/22/three-norcal-tribes-announce-first-us-indigenous-m/)
 * [2023-09-22, 19:23:59](https://news.ycombinator.com/item?id=37616513) - [NASA JPL Open Source Rover That Runs ROS 2](https://github.com/nasa-jpl/open-source-rover)
 * [2023-09-22, 18:56:52](https://news.ycombinator.com/item?id=37616171) - [CFPB kicks off rulemaking to remove medical bills from credit reports](https://www.consumerfinance.gov/about-us/newsroom/cfpb-kicks-off-rulemaking-to-remove-medical-bills-from-credit-reports/)
@@ -29,6 +28,7 @@
 * [2023-09-22, 04:43:22](https://news.ycombinator.com/item?id=37607963) - [The Frustration Loop](https://herman.bearblog.dev/the-frustration-loop/)
 * [2023-09-22, 02:26:31](https://news.ycombinator.com/item?id=37607150) - [Quantum Poetics](https://aeon.co/essays/borges-and-heisenberg-converged-on-the-slipperiness-of-language)
 * [2023-09-21, 18:10:07](https://news.ycombinator.com/item?id=37601581) - [What the debate about Neanderthals reveals about us](https://www.theguardian.com/science/2023/sep/19/justice-for-neanderthals-what-the-debate-about-our-long-dead-cousins-reveals-about-us)
+* [2023-09-21, 17:21:39](https://news.ycombinator.com/item?id=37600852) - [The WebP 0day](https://blog.isosceles.com/the-webp-0day/)
 * [2023-09-20, 07:27:32](https://news.ycombinator.com/item?id=37581405) - [Archaeologists find 500-year-old board game carved in ruins of Polish castle](https://arstechnica.com/science/2023/09/archaeologists-find-500-year-old-board-game-carved-in-ruins-of-polish-castle/)
 
 ## [Archives](archives/index.md)
