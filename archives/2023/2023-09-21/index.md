@@ -94,6 +94,7 @@
 * [2023-09-21, 05:15:25](https://news.ycombinator.com/item?id=37593459) - [Install Windows the Arch Linux Way](https://christitus.com/install-windows-the-arch-linux-way/)
 * [2023-09-21, 05:06:36](https://news.ycombinator.com/item?id=37593418) - [The End of Scantron Tests](https://www.theatlantic.com/technology/archive/2023/09/schools-standardized-testing-assessment-ai-future/675366/)
 * [2023-09-21, 05:03:41](https://news.ycombinator.com/item?id=37593404) - [Compiling ML models to C for fun](https://bernsteinbear.com/blog/compiling-ml-models/)
+* [2023-09-21, 05:01:16](https://news.ycombinator.com/item?id=37593398) - [Interoperability: Swift’s Super Power](https://browsercompany.substack.com/cp/137231709)
 * [2023-09-21, 04:13:29](https://news.ycombinator.com/item?id=37593143) - [GNU Turns 40](https://www.theregister.com/2023/09/20/gnu_turns_40/)
 * [2023-09-21, 04:12:50](https://news.ycombinator.com/item?id=37593137) - [“Stop Making Sense” and the Transformative Power of Collaboration](https://www.newyorker.com/culture/the-front-row/stop-making-sense-and-the-transformative-power-of-collaboration)
 * [2023-09-21, 04:11:49](https://news.ycombinator.com/item?id=37593133) - [Terraria developer bashes Unity, donates $200k to open source alternatives](https://lemm.ee/post/8670706)
