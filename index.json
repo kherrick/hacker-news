@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-09-22, 15:02:57",
+      "https://news.ycombinator.com/item?id=37612975"
+    ],
+    [
+      "Java 21: The Nice, the Meh, and the Momentous",
+      "https://horstmann.com/unblog/2023-09-19/index.html"
+    ]
+  ],
+  [
+    [
       "2023-09-22, 14:48:55",
       "https://news.ycombinator.com/item?id=37612783"
     ],
@@ -267,16 +277,6 @@
     [
       "Some reasons to avoid Cython",
       "https://pythonspeed.com/articles/cython-limitations/"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 05:03:41",
-      "https://news.ycombinator.com/item?id=37593404"
-    ],
-    [
-      "Compiling ML models to C for fun",
-      "https://bernsteinbear.com/blog/compiling-ml-models/"
     ]
   ],
   [
