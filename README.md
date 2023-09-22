@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-22, 15:08:32](https://news.ycombinator.com/item?id=37613054) - [Show HN: Paisa – Open-Source Personal Finance Manager](https://paisa.fyi/)
+* [2023-09-22, 15:02:57](https://news.ycombinator.com/item?id=37612975) - [Java 21: The Nice, the Meh, and the Momentous](https://horstmann.com/unblog/2023-09-19/index.html)
 * [2023-09-22, 14:48:55](https://news.ycombinator.com/item?id=37612783) - [Final National Security Guardrails for Chips for America Incentives Program](https://www.nist.gov/news-events/news/2023/09/biden-harris-administration-announces-final-national-security-guardrails)
 * [2023-09-22, 14:43:04](https://news.ycombinator.com/item?id=37612699) - [Android to take an “upstream first” development model for the Linux kernel](https://arstechnica.com/gadgets/2021/09/android-to-take-an-upstream-first-development-model-for-the-linux-kernel/)
 * [2023-09-22, 14:21:22](https://news.ycombinator.com/item?id=37612420) - [GitHub Actions could be so much better](https://blog.yossarian.net/2023/09/22/GitHub-Actions-could-be-so-much-better)
@@ -27,7 +28,6 @@
 * [2023-09-22, 00:29:44](https://news.ycombinator.com/item?id=37606352) - [Outperforming larger language models with less training data and smaller models](https://blog.research.google/2023/09/distilling-step-by-step-outperforming.html)
 * [2023-09-21, 20:32:53](https://news.ycombinator.com/item?id=37603905) - [Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10)
 * [2023-09-21, 06:12:18](https://news.ycombinator.com/item?id=37593823) - [Some reasons to avoid Cython](https://pythonspeed.com/articles/cython-limitations/)
-* [2023-09-21, 05:03:41](https://news.ycombinator.com/item?id=37593404) - [Compiling ML models to C for fun](https://bernsteinbear.com/blog/compiling-ml-models/)
 * [2023-09-21, 05:01:16](https://news.ycombinator.com/item?id=37593398) - [Interoperability: Swift’s Super Power](https://browsercompany.substack.com/cp/137231709)
 * [2023-09-21, 04:12:50](https://news.ycombinator.com/item?id=37593137) - [“Stop Making Sense” is having a theatrical rerelease](https://www.newyorker.com/culture/the-front-row/stop-making-sense-and-the-transformative-power-of-collaboration)
 
