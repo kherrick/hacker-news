@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
 * [2023-09-22, 13:22:17](https://news.ycombinator.com/item?id=37611708) - [Sites like HN on other topics?](https://news.ycombinator.com/item?id=37611708)
+* [2023-09-22, 13:02:21](https://news.ycombinator.com/item?id=37611457) - [Show HN: Learn piano without sheet music](https://jacobdoescode.com/piano-tabs)
 * [2023-09-22, 12:39:06](https://news.ycombinator.com/item?id=37611213) - [Tailscale Kubernetes Operator](https://tailscale.com/kb/1236/kubernetes-operator/)
 * [2023-09-22, 12:36:09](https://news.ycombinator.com/item?id=37611191) - [Amazon Prime Video content to start including ads next year](https://www.bbc.co.uk/news/business-66887717)
 * [2023-09-22, 12:31:12](https://news.ycombinator.com/item?id=37611136) - [11 Principles for building and scaling feature flag systems](https://docs.getunleash.io/topics/feature-flags/feature-flag-best-practices)

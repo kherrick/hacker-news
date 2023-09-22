@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-22, 13:22:17](https://news.ycombinator.com/item?id=37611708) - [Sites like HN on other topics?](https://news.ycombinator.com/item?id=37611708)
+* [2023-09-22, 13:02:21](https://news.ycombinator.com/item?id=37611457) - [Show HN: Learn piano without sheet music](https://jacobdoescode.com/piano-tabs)
 * [2023-09-22, 12:39:06](https://news.ycombinator.com/item?id=37611213) - [Tailscale Kubernetes Operator](https://tailscale.com/kb/1236/kubernetes-operator/)
 * [2023-09-22, 12:31:12](https://news.ycombinator.com/item?id=37611136) - [11 Principles for building and scaling feature flag systems](https://docs.getunleash.io/topics/feature-flags/feature-flag-best-practices)
 * [2023-09-22, 12:25:46](https://news.ycombinator.com/item?id=37611080) - [Learn Rust by building real-world examples](https://www.shuttle.rs/launchpad)
@@ -15,7 +16,6 @@
 * [2023-09-22, 10:25:00](https://news.ycombinator.com/item?id=37610230) - [Turning an old car into a powerful generator](https://blog.arduino.cc/2023/09/20/turning-an-old-car-into-a-powerful-generator/)
 * [2023-09-22, 09:38:16](https://news.ycombinator.com/item?id=37609914) - [Computing History Hub](https://mollymielke.notion.site/Computing-History-Hub-be72f307fc2e4b05abe3dc67eb937521)
 * [2023-09-22, 08:57:56](https://news.ycombinator.com/item?id=37609663) - [Chrome feature: Compression dictionary transport with Shared Brotli](https://chromestatus.com/feature/5124977788977152)
-* [2023-09-22, 08:57:20](https://news.ycombinator.com/item?id=37609655) - [LLM Leaderboard](https://chat.lmsys.org/?arena)
 * [2023-09-22, 07:15:40](https://news.ycombinator.com/item?id=37608900) - [AWS Customers Cannot Escape IPv4](https://tty.neveragain.de/2023/09/21/aws-cannot-escape-ipv4.html)
 * [2023-09-22, 06:27:15](https://news.ycombinator.com/item?id=37608580) - [I'm fed up with it, so I'm writing a browser](https://adayinthelifeof.nl/2023/09/22/browsers.html)
 * [2023-09-22, 05:21:13](https://news.ycombinator.com/item?id=37608191) - [Publius Enigma](https://en.wikipedia.org/wiki/Publius_Enigma)
