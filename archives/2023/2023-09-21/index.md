@@ -20,6 +20,7 @@
 * [2023-09-21, 19:17:24](https://news.ycombinator.com/item?id=37602674) - [Why Open Source AI Will Win](https://varunshenoy.substack.com/p/why-open-source-ai-will-win)
 * [2023-09-21, 18:52:54](https://news.ycombinator.com/item?id=37602239) - [NASA’s Webb Finds Carbon Source on Surface of Jupiter’s Moon Europa](https://webbtelescope.org/contents/news-releases/2023/news-2023-113)
 * [2023-09-21, 18:28:52](https://news.ycombinator.com/item?id=37601865) - [React Server Components made our site a lot faster](https://frigade.com/blog/bundle-size-reduction-with-rsc-and-frigade)
+* [2023-09-21, 18:25:04](https://news.ycombinator.com/item?id=37601802) - [On the pope’s waning political influence in Mussolini’s Italy](https://www.laphamsquarterly.org/roundtable/only-monarch-left-rome)
 * [2023-09-21, 18:10:07](https://news.ycombinator.com/item?id=37601581) - [What the debate about Neanderthals reveals about us](https://www.theguardian.com/science/2023/sep/19/justice-for-neanderthals-what-the-debate-about-our-long-dead-cousins-reveals-about-us)
 * [2023-09-21, 18:06:27](https://news.ycombinator.com/item?id=37601526) - [Developmental costs associated with early maternal withdrawal (2022)](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdep.12442)
 * [2023-09-21, 17:53:15](https://news.ycombinator.com/item?id=37601363) - [A Young Architect’s Designs for the Climate Apocalypse](https://www.newyorker.com/magazine/2023/09/25/a-young-architects-designs-for-the-climate-apocalypse)
