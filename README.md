@@ -15,7 +15,6 @@
 * [2023-09-21, 19:17:24](https://news.ycombinator.com/item?id=37602674) - [Open source AI will win](https://varunshenoy.substack.com/p/why-open-source-ai-will-win)
 * [2023-09-21, 18:52:54](https://news.ycombinator.com/item?id=37602239) - [NASA’s Webb finds carbon source on surface of Jupiter’s moon Europa](https://webbtelescope.org/contents/news-releases/2023/news-2023-113)
 * [2023-09-21, 17:21:39](https://news.ycombinator.com/item?id=37600852) - [The WebP 0day](https://blog.isosceles.com/the-webp-0day/)
-* [2023-09-21, 17:06:08](https://news.ycombinator.com/item?id=37600618) - [USPS In-Person Identity Proofing](https://faq.usps.com/s/article/USPS-In-Person-Identity-Proofing)
 * [2023-09-21, 17:00:48](https://news.ycombinator.com/item?id=37600542) - [OneSignal (YC S11), email and push notification platform, is hiring engineers](https://onesignal.com/careers/4264311006)
 * [2023-09-21, 15:55:20](https://news.ycombinator.com/item?id=37599542) - [Lead poisoning causes more death, IQ loss than thought: study](https://medicalxpress.com/news/2023-09-poisoning-death-iq-loss-thought.html)
 * [2023-09-21, 15:53:24](https://news.ycombinator.com/item?id=37599510) - [Matrix 2.0: The Future of Matrix](https://matrix.org/blog/2023/09/matrix-2-0/)
@@ -29,6 +28,7 @@
 * [2023-09-21, 05:03:41](https://news.ycombinator.com/item?id=37593404) - [Compiling ML models to C for fun](https://bernsteinbear.com/blog/compiling-ml-models/)
 * [2023-09-21, 04:12:50](https://news.ycombinator.com/item?id=37593137) - [“Stop Making Sense” is having a theatrical rerelease](https://www.newyorker.com/culture/the-front-row/stop-making-sense-and-the-transformative-power-of-collaboration)
 * [2023-09-20, 11:48:19](https://news.ycombinator.com/item?id=37583022) - [Lean, Coq and other proof assistants: Visualising proofs as trees](https://lakesare.brick.do/lean-coq-isabel-and-their-proof-trees-yjnd2O2RgxwV)
+* [2023-09-20, 07:05:11](https://news.ycombinator.com/item?id=37581238) - [Being a bash developer in the 21st century (2021)](https://blog.barysas.eu/being-a-bash-programmer-in-the-xxi-st-century/)
 * [2023-09-20, 06:46:48](https://news.ycombinator.com/item?id=37581145) - [CERN swaps out databases to feed its petabyte-a-day habit](https://www.theregister.com/2023/09/18/lhc_infrastructure_monitoring/)
 
 ## [Archives](archives/index.md)

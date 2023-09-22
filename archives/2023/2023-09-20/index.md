@@ -73,6 +73,7 @@
 * [2023-09-20, 08:01:44](https://news.ycombinator.com/item?id=37581646) - [Your cache headers could probably be more aggressive](https://www.macarthur.me/posts/more-aggressive-cache-headers)
 * [2023-09-20, 07:38:01](https://news.ycombinator.com/item?id=37581485) - [We have successfully completed our migration to RAM-only VPN infrastructure](https://mullvad.net/en/blog/2023/9/20/we-have-successfully-completed-our-migration-to-ram-only-vpn-infrastructure/)
 * [2023-09-20, 07:15:10](https://news.ycombinator.com/item?id=37581316) - [‘Less than half’ fresh produce sold globally makes any profit](https://www.fruitnet.com/main-navigation/less-than-half-fresh-produce-sold-globally-makes-any-profit/256025.article)
+* [2023-09-20, 07:05:11](https://news.ycombinator.com/item?id=37581238) - [Being a bash developer in the 21st century (2021)](https://blog.barysas.eu/being-a-bash-programmer-in-the-xxi-st-century/)
 * [2023-09-20, 06:46:48](https://news.ycombinator.com/item?id=37581145) - [CERN swaps out databases to feed its petabyte-a-day habit](https://www.theregister.com/2023/09/18/lhc_infrastructure_monitoring/)
 * [2023-09-20, 06:44:42](https://news.ycombinator.com/item?id=37581132) - [OpenTF renames itself to OpenTofu](https://github.com/opentofu)
 * [2023-09-20, 06:44:42](https://news.ycombinator.com/item?id=37581132) - [OpenTF is now OpenTofu](https://github.com/opentofu/opentofu/issues/296#issuecomment-1727171446)
