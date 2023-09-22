@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-22, 02:35:22](https://news.ycombinator.com/item?id=37607203) - [Suppressing negative thoughts may be good for mental health after all](https://www.cam.ac.uk/research/news/suppressing-negative-thoughts-may-be-good-for-mental-health-after-all-study-suggests)
 * [2023-09-22, 00:31:55](https://news.ycombinator.com/item?id=37606380) - [Nintendo 3DS Architecture](https://www.copetti.org/writings/consoles/nintendo-3ds/)
 * [2023-09-22, 00:29:44](https://news.ycombinator.com/item?id=37606352) - [Outperforming LLMs with less training data and smaller model sizes](https://blog.research.google/2023/09/distilling-step-by-step-outperforming.html)
 * [2023-09-21, 23:08:46](https://news.ycombinator.com/item?id=37605688) - [Haskell WebAssembly in the Browser](http://joeyh.name/blog/entry/Haskell_webassembly_in_the_browser/)
@@ -20,7 +21,6 @@
 * [2023-09-21, 15:40:28](https://news.ycombinator.com/item?id=37599312) - [Sunken temple and sanctuary from ancient Egypt](https://www.franckgoddio.org/projects/sunken-civilizations/heracleion/)
 * [2023-09-21, 14:24:37](https://news.ycombinator.com/item?id=37598082) - [Harness launches Gitness, an open-source GitHub competitor](https://techcrunch.com/2023/09/21/oh-gitness-harness-launches-gitness-an-open-source-github-competitor/)
 * [2023-09-21, 14:21:45](https://news.ycombinator.com/item?id=37598044) - [Fire and Motion (2002)](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/)
-* [2023-09-21, 13:18:58](https://news.ycombinator.com/item?id=37597201) - [Show HN: Odin – the integration of LLMs with Obsidian note taking](https://github.com/memgraph/odin)
 * [2023-09-21, 12:40:58](https://news.ycombinator.com/item?id=37596755) - [Airlines make more money from mileage programs than from flying planes](https://www.theatlantic.com/ideas/archive/2023/09/airlines-banks-mileage-programs/675374/)
 * [2023-09-21, 12:15:19](https://news.ycombinator.com/item?id=37596497) - [Cisco Acquires Splunk](https://www.splunk.com/en_us/blog/leadership/splunk-and-cisco-unite-to-accelerate-digital-resilience-as-one-of-the-leading-global-software-companies.html)
 * [2023-09-21, 11:48:51](https://news.ycombinator.com/item?id=37596253) - [Launch HN: Loops (YC W22) – Email for SaaS Companies](https://news.ycombinator.com/item?id=37596253)
