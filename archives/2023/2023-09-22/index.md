@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
+* [2023-09-22, 11:25:40](https://news.ycombinator.com/item?id=37610591) - [Ben Myers: Statement on Generative AI](https://benmyers.dev/ai-statement/)
+* [2023-09-22, 11:11:50](https://news.ycombinator.com/item?id=37610500) - [Amazon to add limited ads to Prime Video starting in early 2024](https://www.marketwatch.com/story/amazon-to-add-limited-ads-to-prime-video-starting-in-early-2024-fd51c85d)
 * [2023-09-22, 11:02:50](https://news.ycombinator.com/item?id=37610447) - [Signal: The Pqxdh Key Agreement Protocol](https://signal.org/docs/specifications/pqxdh/)
 * [2023-09-22, 10:25:46](https://news.ycombinator.com/item?id=37610238) - [The Age of the Grift Shift](https://tante.cc/2023/09/21/the-age-of-the-grift-shift/)
 * [2023-09-22, 10:25:00](https://news.ycombinator.com/item?id=37610230) - [Turning an old car into a powerful generator](https://blog.arduino.cc/2023/09/20/turning-an-old-car-into-a-powerful-generator/)
