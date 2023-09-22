@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-21, 23:18:27](https://news.ycombinator.com/item?id=37605773) - [Second-Guessing the Modern Web](https://macwright.com/2020/05/10/spa-fatigue)
+* [2023-09-21, 23:08:46](https://news.ycombinator.com/item?id=37605688) - [Haskell WebAssembly in the Browser](http://joeyh.name/blog/entry/Haskell_webassembly_in_the_browser/)
 * [2023-09-21, 20:32:53](https://news.ycombinator.com/item?id=37603905) - [Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10)
 * [2023-09-21, 20:09:31](https://news.ycombinator.com/item?id=37603554) - [A customer stuck due to a hurricane who needed SSH](https://rachelbythebay.com/w/2023/09/21/hurricane/)
 * [2023-09-21, 20:04:31](https://news.ycombinator.com/item?id=37603467) - [Android 14 adds support for using your smartphone as a webcam](https://www.esper.io/blog/android-14-adds-support-for-using-your-smartphone-as-a-webcam)
@@ -27,7 +28,6 @@
 * [2023-09-21, 07:28:04](https://news.ycombinator.com/item?id=37594302) - [Designing content for people who struggle with numbers](https://service-manual.nhs.uk/content/numbers-measurements-dates-time)
 * [2023-09-21, 06:45:40](https://news.ycombinator.com/item?id=37593997) - [In Search of the Eagle Huntresses](https://www.aljazeera.com/features/longform/2023/9/21/mongolia-eagle-huntresses)
 * [2023-09-20, 12:09:49](https://news.ycombinator.com/item?id=37583197) - [SQL Join Flavors](https://antonz.org/sql-join/)
-* [2023-09-20, 12:04:56](https://news.ycombinator.com/item?id=37583147) - [MongoDB’s new query engine](https://laplab.me/posts/inside-new-query-engine-of-mongodb/)
 * [2023-09-20, 11:48:19](https://news.ycombinator.com/item?id=37583022) - [Lean, Coq and other proof assistants: Visualising proofs as trees](https://lakesare.brick.do/lean-coq-isabel-and-their-proof-trees-yjnd2O2RgxwV)
 * [2023-09-20, 06:46:48](https://news.ycombinator.com/item?id=37581145) - [CERN swaps out databases to feed its petabyte-a-day habit](https://www.theregister.com/2023/09/18/lhc_infrastructure_monitoring/)
 

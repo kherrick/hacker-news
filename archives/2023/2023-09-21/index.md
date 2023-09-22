@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
 * [2023-09-21, 23:18:27](https://news.ycombinator.com/item?id=37605773) - [Second-Guessing the Modern Web](https://macwright.com/2020/05/10/spa-fatigue)
+* [2023-09-21, 23:08:46](https://news.ycombinator.com/item?id=37605688) - [Haskell WebAssembly in the Browser](http://joeyh.name/blog/entry/Haskell_webassembly_in_the_browser/)
 * [2023-09-21, 20:32:53](https://news.ycombinator.com/item?id=37603905) - [Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10)
 * [2023-09-21, 20:24:24](https://news.ycombinator.com/item?id=37603769) - [Volvo to cease production of diesel cars in a few months](https://www.reuters.com/business/autos-transportation/volvo-end-diesel-car-production-by-early-2024-2023-09-19/)
 * [2023-09-21, 20:23:23](https://news.ycombinator.com/item?id=37603748) - [Rust SDR Amateur Radio Network Interface](https://github.com/hexagonal-sun/ampkt)
