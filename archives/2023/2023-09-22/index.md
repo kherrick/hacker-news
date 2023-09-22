@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
 * [2023-09-22, 14:43:04](https://news.ycombinator.com/item?id=37612699) - [Android to take an “upstream first” development model for the Linux kernel](https://arstechnica.com/gadgets/2021/09/android-to-take-an-upstream-first-development-model-for-the-linux-kernel/)
+* [2023-09-22, 14:21:22](https://news.ycombinator.com/item?id=37612420) - [GitHub Actions could be so much better](https://blog.yossarian.net/2023/09/22/GitHub-Actions-could-be-so-much-better)
 * [2023-09-22, 13:57:24](https://news.ycombinator.com/item?id=37612127) - [Valve Is a Wonderful Upstream Contributor to Linux and the Open-Source Community](https://www.phoronix.com/news/Valve-Upstream-Everything-OSS)
 * [2023-09-22, 13:22:17](https://news.ycombinator.com/item?id=37611708) - [Sites like HN on other topics?](https://news.ycombinator.com/item?id=37611708)
 * [2023-09-22, 13:02:21](https://news.ycombinator.com/item?id=37611457) - [Show HN: Learn piano without sheet music](https://jacobdoescode.com/piano-tabs)
