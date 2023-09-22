@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-09-22, 13:57:24",
+      "https://news.ycombinator.com/item?id=37612127"
+    ],
+    [
+      "Valve Is a Wonderful Upstream Contributor to Linux and the Open-Source Community",
+      "https://www.phoronix.com/news/Valve-Upstream-Everything-OSS"
+    ]
+  ],
+  [
+    [
       "2023-09-22, 13:22:17",
       "https://news.ycombinator.com/item?id=37611708"
     ],
     [
-      "Sites like HN on other topics?",
+      "Ask HN: Sites like HN on other topics?",
       "https://news.ycombinator.com/item?id=37611708"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=37611136"
     ],
     [
-      "11 Principles for building and scaling feature flag systems",
+      "Principles for building and scaling feature flag systems",
       "https://docs.getunleash.io/topics/feature-flags/feature-flag-best-practices"
     ]
   ],
@@ -51,21 +61,11 @@
   ],
   [
     [
-      "2023-09-22, 12:19:53",
-      "https://news.ycombinator.com/item?id=37611026"
-    ],
-    [
-      "Authors sue OpenAI for using their works without proper licensing",
-      "https://www.nytimes.com/2023/09/20/books/authors-openai-lawsuit-chatgpt-copyright.html"
-    ]
-  ],
-  [
-    [
       "2023-09-22, 12:06:42",
       "https://news.ycombinator.com/item?id=37610899"
     ],
     [
-      "All the ways to capture changes in Postgres",
+      "Ways to capture changes in Postgres",
       "https://blog.sequin.io/all-the-ways-to-capture-changes-in-postgres/"
     ]
   ],
