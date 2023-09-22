@@ -77,6 +77,7 @@
 * [2023-09-22, 05:20:04](https://news.ycombinator.com/item?id=37608186) - [Is ClickHouse Moving Away from Open Source?](https://altinity.com/blog/is-clickhouse-moving-away-from-open-source)
 * [2023-09-22, 05:08:06](https://news.ycombinator.com/item?id=37608110) - [The Bogus CVE Problem](https://lwn.net/Articles/944209/)
 * [2023-09-22, 04:59:21](https://news.ycombinator.com/item?id=37608061) - [Modular forms, the ‘fifth fundamental operation’ of math](https://www.quantamagazine.org/behold-modular-forms-the-fifth-fundamental-operation-of-math-20230921/)
+* [2023-09-22, 04:43:22](https://news.ycombinator.com/item?id=37607963) - [The Frustration Loop](https://herman.bearblog.dev/the-frustration-loop/)
 * [2023-09-22, 04:25:03](https://news.ycombinator.com/item?id=37607851) - [French was the official language of England from 1066 till 1362](https://www.frenchleeds.co.uk/french-was-the-official-language-of-england-for-about-300-years-from-1066-till-1362)
 * [2023-09-22, 03:46:14](https://news.ycombinator.com/item?id=37607597) - [The curious incident of the dog and the palm tree (2015)](https://ancientrecipes.wordpress.com/2015/05/18/678/)
 * [2023-09-22, 03:38:02](https://news.ycombinator.com/item?id=37607552) - [Hoxne Hoard](https://en.wikipedia.org/wiki/Hoxne_Hoard)
