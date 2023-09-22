@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-22, 21:29:39](https://news.ycombinator.com/item?id=37618037) - [Can Govt Debt Solve Fertility?](https://www.overcomingbias.com/p/can-govt-debt-solve-fertility)
 * [2023-09-22, 21:12:51](https://news.ycombinator.com/item?id=37617864) - [iOS 17 Is a Prude](https://old.reddit.com/r/iphone/comments/16nqk30/ios_17_is_a_prude/)
+* [2023-09-22, 21:12:51](https://news.ycombinator.com/item?id=37617863) - [Elegant and powerful new result that seriously undermines large language models](https://garymarcus.substack.com/p/elegant-and-powerful-new-result-that)
 * [2023-09-22, 20:48:21](https://news.ycombinator.com/item?id=37617572) - [Reasons Windows Is Going in the Wrong Direction](https://www.pcmag.com/opinions/windows-is-going-in-the-wrong-direction)
 * [2023-09-22, 20:24:21](https://news.ycombinator.com/item?id=37617288) - [Show HN: Summary Cat, a YouTube Video Summary Generator](https://www.summarycat.com)
 * [2023-09-22, 20:12:25](https://news.ycombinator.com/item?id=37617133) - [Three NorCal Tribes Announce Nation’s First Indigenous Ocean Protection Area](https://lostcoastoutpost.com/2023/sep/22/three-norcal-tribes-announce-first-us-indigenous-m/)
@@ -24,10 +26,8 @@
 * [2023-09-22, 12:06:42](https://news.ycombinator.com/item?id=37610899) - [Ways to capture changes in Postgres](https://blog.sequin.io/all-the-ways-to-capture-changes-in-postgres/)
 * [2023-09-22, 11:57:58](https://news.ycombinator.com/item?id=37610821) - [The Tragedy of Google Search](https://www.theatlantic.com/technology/archive/2023/09/google-search-size-usefulness-decline/675409/)
 * [2023-09-22, 10:25:00](https://news.ycombinator.com/item?id=37610230) - [Turning an old car into a powerful generator](https://blog.arduino.cc/2023/09/20/turning-an-old-car-into-a-powerful-generator/)
-* [2023-09-22, 08:22:28](https://news.ycombinator.com/item?id=37609393) - [I made a transformer by hand (no training)](https://vgel.me/posts/handmade-transformer/)
-* [2023-09-22, 08:17:58](https://news.ycombinator.com/item?id=37609352) - [Polycentric interstate federalism among the Yoruba of Nigeria (2022) [pdf]](https://cosmosandtaxis.files.wordpress.com/2022/09/kunleoyerinde_ct_vol10_iss11_12.pdf)
+* [2023-09-22, 08:22:28](https://news.ycombinator.com/item?id=37609393) - [I made a transformer to predict a simple sequence manually](https://vgel.me/posts/handmade-transformer/)
 * [2023-09-22, 07:15:40](https://news.ycombinator.com/item?id=37608900) - [AWS Customers Cannot Escape IPv4](https://tty.neveragain.de/2023/09/21/aws-cannot-escape-ipv4.html)
-* [2023-09-22, 03:38:02](https://news.ycombinator.com/item?id=37607552) - [Hoxne Hoard](https://en.wikipedia.org/wiki/Hoxne_Hoard)
 * [2023-09-22, 02:26:31](https://news.ycombinator.com/item?id=37607150) - [Quantum Poetics](https://aeon.co/essays/borges-and-heisenberg-converged-on-the-slipperiness-of-language)
 * [2023-09-20, 07:27:32](https://news.ycombinator.com/item?id=37581405) - [Archaeologists find 500-year-old board game carved in ruins of Polish castle](https://arstechnica.com/science/2023/09/archaeologists-find-500-year-old-board-game-carved-in-ruins-of-polish-castle/)
 
