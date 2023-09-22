@@ -19,6 +19,7 @@
 * [2023-09-21, 23:08:46](https://news.ycombinator.com/item?id=37605688) - [Haskell WebAssembly in the Browser](http://joeyh.name/blog/entry/Haskell_webassembly_in_the_browser/)
 * [2023-09-21, 20:32:53](https://news.ycombinator.com/item?id=37603905) - [Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10)
 * [2023-09-21, 20:04:31](https://news.ycombinator.com/item?id=37603467) - [Android 14 adds support for using your smartphone as a webcam](https://www.esper.io/blog/android-14-adds-support-for-using-your-smartphone-as-a-webcam)
+* [2023-09-21, 18:52:54](https://news.ycombinator.com/item?id=37602239) - [NASA’s Webb finds carbon source on surface of Jupiter’s moon Europa](https://webbtelescope.org/contents/news-releases/2023/news-2023-113)
 * [2023-09-21, 17:21:39](https://news.ycombinator.com/item?id=37600852) - [The WebP 0day](https://blog.isosceles.com/the-webp-0day/)
 * [2023-09-21, 13:45:55](https://news.ycombinator.com/item?id=37597532) - [‘Mini-bombs’ blowing up the elbows of baseball’s top pitchers](https://www.wsj.com/sports/baseball/mini-bombs-pitching-elbow-injuries-ohtani-degrom-4aa32bfa)
 * [2023-09-21, 12:15:19](https://news.ycombinator.com/item?id=37596497) - [Cisco Acquires Splunk](https://www.splunk.com/en_us/blog/leadership/splunk-and-cisco-unite-to-accelerate-digital-resilience-as-one-of-the-leading-global-software-companies.html)
@@ -29,7 +30,6 @@
 * [2023-09-21, 05:01:16](https://news.ycombinator.com/item?id=37593398) - [Interoperability: Swift’s Super Power](https://browsercompany.substack.com/cp/137231709)
 * [2023-09-21, 04:12:50](https://news.ycombinator.com/item?id=37593137) - [“Stop Making Sense” is having a theatrical rerelease](https://www.newyorker.com/culture/the-front-row/stop-making-sense-and-the-transformative-power-of-collaboration)
 * [2023-09-21, 01:42:17](https://news.ycombinator.com/item?id=37592316) - [Integrated Information Theory labelled pseudoscience](https://www.nature.com/articles/d41586-023-02971-1)
-* [2023-09-20, 07:05:11](https://news.ycombinator.com/item?id=37581238) - [Being a bash developer in the 21st century (2021)](https://blog.barysas.eu/being-a-bash-programmer-in-the-xxi-st-century/)
 
 ## [Archives](archives/index.md)
 
