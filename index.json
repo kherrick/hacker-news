@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-09-22, 16:43:58",
-      "https://news.ycombinator.com/item?id=37614279"
+      "2023-09-22, 17:20:12",
+      "https://news.ycombinator.com/item?id=37614793"
     ],
     [
-      "Apple fucked us on right to repair (again)",
-      "https://pluralistic.net/2023/09/22/vin-locking/#thought-differently"
+      "An open letter to our community [Unity]",
+      "https://blog.unity.com/news/open-letter-on-runtime-fee"
+    ]
+  ],
+  [
+    [
+      "2023-09-22, 16:57:37",
+      "https://news.ycombinator.com/item?id=37614468"
+    ],
+    [
+      "Amazon Prime Video content to start including ads next year",
+      "https://www.bbc.com/news/business-66887717"
     ]
   ],
   [
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2023-09-22, 04:59:21",
-      "https://news.ycombinator.com/item?id=37608061"
-    ],
-    [
-      "Modular forms, the ‘fifth fundamental operation’ of math",
-      "https://www.quantamagazine.org/behold-modular-forms-the-fifth-fundamental-operation-of-math-20230921/"
-    ]
-  ],
-  [
-    [
       "2023-09-22, 02:26:31",
       "https://news.ycombinator.com/item?id=37607150"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2023-09-21, 18:10:07",
+      "https://news.ycombinator.com/item?id=37601581"
+    ],
+    [
+      "What the debate about Neanderthals reveals about us",
+      "https://www.theguardian.com/science/2023/sep/19/justice-for-neanderthals-what-the-debate-about-our-long-dead-cousins-reveals-about-us"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 06:12:18",
       "https://news.ycombinator.com/item?id=37593823"
     ],
     [
       "Some reasons to avoid Cython",
       "https://pythonspeed.com/articles/cython-limitations/"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 05:01:16",
-      "https://news.ycombinator.com/item?id=37593398"
-    ],
-    [
-      "Interoperability: Swift’s Super Power",
-      "https://browsercompany.substack.com/cp/137231709"
     ]
   ]
 ]
