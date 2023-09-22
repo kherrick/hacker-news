@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-22, 08:59:11](https://news.ycombinator.com/item?id=37609670) - [Bell’s new helicopter may look but it could reduce accidents and noise](https://www.popsci.com/story/technology/bell-new-helicopter-electric-tail-rotor/)
 * [2023-09-22, 07:15:40](https://news.ycombinator.com/item?id=37608900) - [AWS Customers Cannot Escape IPv4](https://tty.neveragain.de/2023/09/21/aws-cannot-escape-ipv4.html)
 * [2023-09-22, 06:27:15](https://news.ycombinator.com/item?id=37608580) - [I'm fed up with it, so I'm writing a browser](https://adayinthelifeof.nl/2023/09/22/browsers.html)
 * [2023-09-22, 05:21:13](https://news.ycombinator.com/item?id=37608191) - [Publius Enigma](https://en.wikipedia.org/wiki/Publius_Enigma)
@@ -19,6 +18,7 @@
 * [2023-09-21, 19:17:24](https://news.ycombinator.com/item?id=37602674) - [Open source AI will win](https://varunshenoy.substack.com/p/why-open-source-ai-will-win)
 * [2023-09-21, 18:52:54](https://news.ycombinator.com/item?id=37602239) - [NASA’s Webb finds carbon source on surface of Jupiter’s moon Europa](https://webbtelescope.org/contents/news-releases/2023/news-2023-113)
 * [2023-09-21, 17:21:39](https://news.ycombinator.com/item?id=37600852) - [The WebP 0day](https://blog.isosceles.com/the-webp-0day/)
+* [2023-09-21, 15:53:24](https://news.ycombinator.com/item?id=37599510) - [Matrix 2.0: The Future of Matrix](https://matrix.org/blog/2023/09/matrix-2-0/)
 * [2023-09-21, 12:15:19](https://news.ycombinator.com/item?id=37596497) - [Cisco Acquires Splunk](https://www.splunk.com/en_us/blog/leadership/splunk-and-cisco-unite-to-accelerate-digital-resilience-as-one-of-the-leading-global-software-companies.html)
 * [2023-09-21, 11:48:51](https://news.ycombinator.com/item?id=37596253) - [Launch HN: Loops (YC W22) – Email for SaaS Companies](https://news.ycombinator.com/item?id=37596253)
 * [2023-09-21, 10:21:50](https://news.ycombinator.com/item?id=37595642) - [Game: ASM – Das Computer-Spiel (The Director's Cut) released](https://www.amiga-news.de/en/news/AN-2023-09-00044-EN.html)
