@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
+* [2023-09-22, 08:59:11](https://news.ycombinator.com/item?id=37609670) - [Bell’s new helicopter may look but it could reduce accidents and noise](https://www.popsci.com/story/technology/bell-new-helicopter-electric-tail-rotor/)
 * [2023-09-22, 07:42:40](https://news.ycombinator.com/item?id=37609105) - [Seriously Consider Skipping the Drinks](https://www.health.harvard.edu/heart-health/want-a-healthier-heart-seriously-consider-skipping-the-drinks)
 * [2023-09-22, 07:15:40](https://news.ycombinator.com/item?id=37608900) - [AWS Customers Cannot Escape IPv4](https://tty.neveragain.de/2023/09/21/aws-cannot-escape-ipv4.html)
 * [2023-09-22, 06:27:15](https://news.ycombinator.com/item?id=37608580) - [I'm fed up with it, so I'm writing a browser](https://adayinthelifeof.nl/2023/09/22/browsers.html)
@@ -11,6 +12,7 @@
 * [2023-09-22, 05:08:06](https://news.ycombinator.com/item?id=37608110) - [The Bogus CVE Problem](https://lwn.net/Articles/944209/)
 * [2023-09-22, 04:59:21](https://news.ycombinator.com/item?id=37608061) - [Modular forms, the ‘fifth fundamental operation’ of math](https://www.quantamagazine.org/behold-modular-forms-the-fifth-fundamental-operation-of-math-20230921/)
 * [2023-09-22, 04:25:03](https://news.ycombinator.com/item?id=37607851) - [French was the official language of England from 1066 till 1362](https://www.frenchleeds.co.uk/french-was-the-official-language-of-england-for-about-300-years-from-1066-till-1362)
+* [2023-09-22, 03:46:14](https://news.ycombinator.com/item?id=37607597) - [The curious incident of the dog and the palm tree (2015)](https://ancientrecipes.wordpress.com/2015/05/18/678/)
 * [2023-09-22, 03:35:31](https://news.ycombinator.com/item?id=37607534) - [“The Poet Is a Man Who Feigns”](https://daily.jstor.org/the-poet-is-a-man-who-feigns/)
 * [2023-09-22, 02:35:22](https://news.ycombinator.com/item?id=37607203) - [Suppressing negative thoughts may be good for mental health after all](https://www.cam.ac.uk/research/news/suppressing-negative-thoughts-may-be-good-for-mental-health-after-all-study-suggests)
 * [2023-09-22, 01:29:41](https://news.ycombinator.com/item?id=37606775) - [Luiz André Barroso has died](https://www.wired.com/story/google-mourns-luiz-andre-barroso-veteran-engineer-invented-the-modern-data-center/)
