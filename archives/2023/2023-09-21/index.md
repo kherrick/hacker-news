@@ -102,6 +102,7 @@
 * [2023-09-21, 02:51:08](https://news.ycombinator.com/item?id=37592699) - [The UK Parliament Undermined the Privacy, Security, and Freedom of All Internet](https://www.eff.org/deeplinks/2023/09/today-uk-parliament-undermined-privacy-security-and-freedom-all-internet-users)
 * [2023-09-21, 02:28:05](https://news.ycombinator.com/item?id=37592590) - [My fast JSON library in Go is now even faster and safer](https://github.com/sugawarayuuta/sonnet)
 * [2023-09-21, 01:50:03](https://news.ycombinator.com/item?id=37592361) - [Terry Tao: How a Near Failure Propelled Me to Succeed (2020) [pdf]](https://www.ams.org/notices/202007/rnoti-p1007.pdf)
+* [2023-09-21, 01:42:17](https://news.ycombinator.com/item?id=37592316) - [Integrated Information Theory labelled pseudoscience](https://www.nature.com/articles/d41586-023-02971-1)
 * [2023-09-21, 01:41:41](https://news.ycombinator.com/item?id=37592310) - [Uncle Sam names 3 Amazon execs as Prime suspects in subscription ripoff case](https://www.theregister.com/2023/09/21/ftc_amazon_prime_amended_complaint/)
 * [2023-09-21, 01:37:50](https://news.ycombinator.com/item?id=37592292) - [ChatGPT and DALL-E 3 [video]](https://twitter.com/sama/status/1704561613070893428)
 * [2023-09-21, 01:11:31](https://news.ycombinator.com/item?id=37592107) - [Apple’s failure to build a key part for its new iPhones](https://www.wsj.com/tech/apple-iphone-modem-chip-failure-6fe33d19)
