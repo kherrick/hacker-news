@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
+* [2023-09-22, 18:56:52](https://news.ycombinator.com/item?id=37616171) - [CFPB begins a process to remove medical bills from Americans’ credit reports](https://www.consumerfinance.gov/about-us/newsroom/cfpb-kicks-off-rulemaking-to-remove-medical-bills-from-credit-reports/)
 * [2023-09-22, 18:22:44](https://news.ycombinator.com/item?id=37615695) - [UK Government Extends Petrol and Diesel Car Sales Until 2035](https://www.motaclarity.co.uk/news/uk-government-extends-petrol-and-diesel-car-sales-until-2035)
 * [2023-09-22, 17:52:26](https://news.ycombinator.com/item?id=37615272) - [Makefile Tutorial](https://makefiletutorial.com/)
 * [2023-09-22, 17:23:29](https://news.ycombinator.com/item?id=37614851) - [I'm writing a new CLI text editor, because I can](https://github.com/boutell/tome/blob/main/README.md)
