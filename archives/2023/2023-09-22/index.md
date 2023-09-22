@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
+* [2023-09-22, 15:08:32](https://news.ycombinator.com/item?id=37613054) - [Show HN: Paisa – Open-Source Personal Finance Manager](https://paisa.fyi/)
+* [2023-09-22, 14:48:55](https://news.ycombinator.com/item?id=37612783) - [Final National Security Guardrails for Chips for America Incentives Program](https://www.nist.gov/news-events/news/2023/09/biden-harris-administration-announces-final-national-security-guardrails)
 * [2023-09-22, 14:43:04](https://news.ycombinator.com/item?id=37612699) - [Android to take an “upstream first” development model for the Linux kernel](https://arstechnica.com/gadgets/2021/09/android-to-take-an-upstream-first-development-model-for-the-linux-kernel/)
 * [2023-09-22, 14:21:22](https://news.ycombinator.com/item?id=37612420) - [GitHub Actions could be so much better](https://blog.yossarian.net/2023/09/22/GitHub-Actions-could-be-so-much-better)
 * [2023-09-22, 13:57:24](https://news.ycombinator.com/item?id=37612127) - [Valve Is a Wonderful Upstream Contributor to Linux and the Open-Source Community](https://www.phoronix.com/news/Valve-Upstream-Everything-OSS)
@@ -32,6 +34,7 @@
 * [2023-09-22, 08:59:11](https://news.ycombinator.com/item?id=37609670) - [Bell’s new helicopter may look but it could reduce accidents and noise](https://www.popsci.com/story/technology/bell-new-helicopter-electric-tail-rotor/)
 * [2023-09-22, 08:57:56](https://news.ycombinator.com/item?id=37609663) - [Chrome feature: Compression dictionary transport with Shared Brotli](https://chromestatus.com/feature/5124977788977152)
 * [2023-09-22, 08:57:20](https://news.ycombinator.com/item?id=37609655) - [LLM Leaderboard](https://chat.lmsys.org/?arena)
+* [2023-09-22, 08:22:28](https://news.ycombinator.com/item?id=37609393) - [I made a transformer by hand (no training)](https://vgel.me/posts/handmade-transformer/)
 * [2023-09-22, 07:42:40](https://news.ycombinator.com/item?id=37609105) - [Seriously Consider Skipping the Drinks](https://www.health.harvard.edu/heart-health/want-a-healthier-heart-seriously-consider-skipping-the-drinks)
 * [2023-09-22, 07:15:40](https://news.ycombinator.com/item?id=37608900) - [AWS Customers Cannot Escape IPv4](https://tty.neveragain.de/2023/09/21/aws-cannot-escape-ipv4.html)
 * [2023-09-22, 06:27:15](https://news.ycombinator.com/item?id=37608580) - [I'm fed up with it, so I'm writing a browser](https://adayinthelifeof.nl/2023/09/22/browsers.html)
