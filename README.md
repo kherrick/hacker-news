@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-22, 14:43:04](https://news.ycombinator.com/item?id=37612699) - [Android to take an “upstream first” development model for the Linux kernel](https://arstechnica.com/gadgets/2021/09/android-to-take-an-upstream-first-development-model-for-the-linux-kernel/)
 * [2023-09-22, 13:57:24](https://news.ycombinator.com/item?id=37612127) - [Valve is a wonderful upstream contributor to Linux and the open-source community](https://www.phoronix.com/news/Valve-Upstream-Everything-OSS)
 * [2023-09-22, 13:22:17](https://news.ycombinator.com/item?id=37611708) - [Ask HN: Sites like HN on other topics?](https://news.ycombinator.com/item?id=37611708)
-* [2023-09-22, 13:02:21](https://news.ycombinator.com/item?id=37611457) - [Show HN: Learn piano without sheet music](https://jacobdoescode.com/piano-tabs)
 * [2023-09-22, 12:39:06](https://news.ycombinator.com/item?id=37611213) - [Tailscale Kubernetes Operator](https://tailscale.com/kb/1236/kubernetes-operator/)
 * [2023-09-22, 12:31:12](https://news.ycombinator.com/item?id=37611136) - [Principles for building and scaling feature flag systems](https://docs.getunleash.io/topics/feature-flags/feature-flag-best-practices)
 * [2023-09-22, 12:25:46](https://news.ycombinator.com/item?id=37611080) - [Learn Rust by building real-world examples](https://www.shuttle.rs/launchpad)
