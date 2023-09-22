@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
+* [2023-09-22, 16:43:58](https://news.ycombinator.com/item?id=37614279) - [Apple fucked us on right to repair (again)](https://pluralistic.net/2023/09/22/vin-locking/#thought-differently)
 * [2023-09-22, 16:38:56](https://news.ycombinator.com/item?id=37614216) - [How to Roman Republic, Part IV: The Senate](https://acoup.blog/2023/09/22/collections-how-to-roman-republic-part-iv-the-senate/)
+* [2023-09-22, 16:35:15](https://news.ycombinator.com/item?id=37614177) - [Show HN: Rapidpages – OSS alternative to vercel's v0](https://github.com/rapidpages/rapidpages)
 * [2023-09-22, 16:09:14](https://news.ycombinator.com/item?id=37613830) - [Kia, Hyundai Blame Mass Car Thefts on ‘Lax Policing’ in Court Defense](https://www.thedrive.com/news/kia-hyundai-blame-mass-car-thefts-on-lax-policing-in-court-defense)
 * [2023-09-22, 16:02:41](https://news.ycombinator.com/item?id=37613747) - [I'm All-In on Server-Side SQLite](https://fly.io/blog/all-in-on-sqlite-litestream/)
 * [2023-09-22, 15:49:32](https://news.ycombinator.com/item?id=37613572) - [The Design System Ecosystem](https://bradfrost.com/blog/post/the-design-system-ecosystem/)
