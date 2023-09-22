@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-22, 19:54:12](https://news.ycombinator.com/item?id=37616919) - [Ask HN: What are some communities like HN?](https://news.ycombinator.com/item?id=37616919)
+* [2023-09-22, 19:26:19](https://news.ycombinator.com/item?id=37616544) - [Abraham Lincoln assassination Ford's Theatre tickets up for auction](https://www.rrauction.com/auctions/lot-detail/347903406696018-abraham-lincoln-assassination-2-fords-theatre-front-row-tickets-from-april-14-1865-ex-forbes-collection)
 * [2023-09-22, 18:56:52](https://news.ycombinator.com/item?id=37616171) - [CFPB begins a process to remove medical bills from Americans’ credit reports](https://www.consumerfinance.gov/about-us/newsroom/cfpb-kicks-off-rulemaking-to-remove-medical-bills-from-credit-reports/)
 * [2023-09-22, 18:17:57](https://news.ycombinator.com/item?id=37615638) - [When half a million Americans died and nobody noticed (2012)](https://theweek.com/us/46535/when-half-million-americans-died-and-nobody-noticed)
 * [2023-09-22, 17:52:26](https://news.ycombinator.com/item?id=37615272) - [Makefile Tutorial](https://makefiletutorial.com/)
@@ -28,7 +29,6 @@
 * [2023-09-22, 02:26:31](https://news.ycombinator.com/item?id=37607150) - [Quantum Poetics](https://aeon.co/essays/borges-and-heisenberg-converged-on-the-slipperiness-of-language)
 * [2023-09-21, 18:25:04](https://news.ycombinator.com/item?id=37601802) - [On the pope’s waning political influence in Mussolini’s Italy](https://www.laphamsquarterly.org/roundtable/only-monarch-left-rome)
 * [2023-09-21, 18:10:07](https://news.ycombinator.com/item?id=37601581) - [What the debate about Neanderthals reveals about us](https://www.theguardian.com/science/2023/sep/19/justice-for-neanderthals-what-the-debate-about-our-long-dead-cousins-reveals-about-us)
-* [2023-09-21, 06:12:18](https://news.ycombinator.com/item?id=37593823) - [Some reasons to avoid Cython](https://pythonspeed.com/articles/cython-limitations/)
 * [2023-09-20, 07:27:32](https://news.ycombinator.com/item?id=37581405) - [Archaeologists find 500-year-old board game carved in ruins of Polish castle](https://arstechnica.com/science/2023/09/archaeologists-find-500-year-old-board-game-carved-in-ruins-of-polish-castle/)
 
 ## [Archives](archives/index.md)

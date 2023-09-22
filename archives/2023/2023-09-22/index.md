@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
 * [2023-09-22, 19:54:12](https://news.ycombinator.com/item?id=37616919) - [Ask HN: What are some communities like HN?](https://news.ycombinator.com/item?id=37616919)
+* [2023-09-22, 19:26:19](https://news.ycombinator.com/item?id=37616544) - [Abraham Lincoln assassination Ford's Theatre tickets up for auction](https://www.rrauction.com/auctions/lot-detail/347903406696018-abraham-lincoln-assassination-2-fords-theatre-front-row-tickets-from-april-14-1865-ex-forbes-collection)
 * [2023-09-22, 18:56:52](https://news.ycombinator.com/item?id=37616171) - [CFPB begins a process to remove medical bills from Americans’ credit reports](https://www.consumerfinance.gov/about-us/newsroom/cfpb-kicks-off-rulemaking-to-remove-medical-bills-from-credit-reports/)
 * [2023-09-22, 18:22:44](https://news.ycombinator.com/item?id=37615695) - [UK Government Extends Petrol and Diesel Car Sales Until 2035](https://www.motaclarity.co.uk/news/uk-government-extends-petrol-and-diesel-car-sales-until-2035)
 * [2023-09-22, 18:17:57](https://news.ycombinator.com/item?id=37615638) - [When half a million Americans died and nobody noticed (2012)](https://theweek.com/us/46535/when-half-million-americans-died-and-nobody-noticed)
