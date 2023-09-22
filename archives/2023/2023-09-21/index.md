@@ -72,6 +72,7 @@
 * [2023-09-21, 11:00:19](https://news.ycombinator.com/item?id=37595898) - [Atlassian cripples’ Jira automation for all but enterprise customers](https://community.atlassian.com/t5/Automation-articles/Introducing-our-new-packaging-model-for-Jira-Cloud-Automation/ba-p/2446099)
 * [2023-09-21, 10:41:02](https://news.ycombinator.com/item?id=37595766) - [An INI Critique of TOML](https://github.com/madmurphy/libconfini/wiki/An-INI-critique-of-TOML)
 * [2023-09-21, 10:34:06](https://news.ycombinator.com/item?id=37595717) - [Rumble rejects MP's 'disturbing' letter over income](https://www.bbc.co.uk/news/entertainment-arts-66875128)
+* [2023-09-21, 10:03:21](https://news.ycombinator.com/item?id=37595522) - [GitHub Actions for C++ and Qt](https://www.kdab.com/github-actions-for-cpp-and-qt/)
 * [2023-09-21, 10:03:06](https://news.ycombinator.com/item?id=37595519) - [PSA: Storybook sends telemetry data, opt-in by default](https://storybook.js.org/docs/react/configure/telemetry/)
 * [2023-09-21, 09:36:21](https://news.ycombinator.com/item?id=37595322) - [Ship of Fools](https://successfulsoftware.net/2023/09/19/ship-of-fools/)
 * [2023-09-21, 09:26:46](https://news.ycombinator.com/item?id=37595240) - [Is Fortran easier to optimize than C for heavy calculations?](https://stackoverflow.com/questions/146159/is-fortran-easier-to-optimize-than-c-for-heavy-calculations)

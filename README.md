@@ -23,7 +23,7 @@
 * [2023-09-21, 14:21:45](https://news.ycombinator.com/item?id=37598044) - [Fire and Motion (2002)](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/)
 * [2023-09-21, 12:40:58](https://news.ycombinator.com/item?id=37596755) - [Airlines make more money from mileage programs than from flying planes](https://www.theatlantic.com/ideas/archive/2023/09/airlines-banks-mileage-programs/675374/)
 * [2023-09-21, 12:15:19](https://news.ycombinator.com/item?id=37596497) - [Cisco Acquires Splunk](https://www.splunk.com/en_us/blog/leadership/splunk-and-cisco-unite-to-accelerate-digital-resilience-as-one-of-the-leading-global-software-companies.html)
-* [2023-09-21, 11:48:51](https://news.ycombinator.com/item?id=37596253) - [Launch HN: Loops (YC W22) – Email for SaaS Companies](https://news.ycombinator.com/item?id=37596253)
+* [2023-09-21, 10:03:21](https://news.ycombinator.com/item?id=37595522) - [GitHub Actions for C++ and Qt](https://www.kdab.com/github-actions-for-cpp-and-qt/)
 * [2023-09-21, 07:42:46](https://news.ycombinator.com/item?id=37594415) - [Memories of a goofy phone from the late 80s](http://rachelbythebay.com/w/2023/09/20/fv1000/)
 * [2023-09-21, 07:28:04](https://news.ycombinator.com/item?id=37594302) - [Designing content for people who struggle with numbers](https://service-manual.nhs.uk/content/numbers-measurements-dates-time)
 * [2023-09-21, 05:06:36](https://news.ycombinator.com/item?id=37593418) - [The End of Scantron Tests](https://www.theatlantic.com/technology/archive/2023/09/schools-standardized-testing-assessment-ai-future/675366/)
