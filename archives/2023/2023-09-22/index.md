@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
 * [2023-09-22, 17:23:29](https://news.ycombinator.com/item?id=37614851) - [I'm writing a new CLI text editor, because I can](https://github.com/boutell/tome/blob/main/README.md)
+* [2023-09-22, 17:21:22](https://news.ycombinator.com/item?id=37614816) - [0-days exploited by commercial surveillance vendor in Egypt](https://blog.google/threat-analysis-group/0-days-exploited-by-commercial-surveillance-vendor-in-egypt/)
 * [2023-09-22, 17:20:12](https://news.ycombinator.com/item?id=37614793) - [An open letter to our community [Unity]](https://blog.unity.com/news/open-letter-on-runtime-fee)
 * [2023-09-22, 16:57:37](https://news.ycombinator.com/item?id=37614468) - [Amazon Prime Video content to start including ads next year](https://www.bbc.com/news/business-66887717)
 * [2023-09-22, 16:43:58](https://news.ycombinator.com/item?id=37614279) - [Apple fucked us on right to repair (again)](https://pluralistic.net/2023/09/22/vin-locking/#thought-differently)

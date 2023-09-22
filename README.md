@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-22, 17:23:29](https://news.ycombinator.com/item?id=37614851) - [I'm writing a new CLI text editor, because I can](https://github.com/boutell/tome/blob/main/README.md)
+* [2023-09-22, 17:21:22](https://news.ycombinator.com/item?id=37614816) - [0-days exploited by commercial surveillance vendor in Egypt](https://blog.google/threat-analysis-group/0-days-exploited-by-commercial-surveillance-vendor-in-egypt/)
 * [2023-09-22, 17:20:12](https://news.ycombinator.com/item?id=37614793) - [An open letter to our community](https://blog.unity.com/news/open-letter-on-runtime-fee)
 * [2023-09-22, 16:57:37](https://news.ycombinator.com/item?id=37614468) - [Amazon Prime Video content to start including ads next year](https://www.bbc.com/news/business-66887717)
 * [2023-09-22, 16:38:56](https://news.ycombinator.com/item?id=37614216) - [How to Roman Republic, Part IV: The Senate](https://acoup.blog/2023/09/22/collections-how-to-roman-republic-part-iv-the-senate/)
-* [2023-09-22, 16:36:32](https://news.ycombinator.com/item?id=37614194) - [Tofu: Do You Check?](https://cedwards.xyz/tofu-do-you-check/)
+* [2023-09-22, 16:36:32](https://news.ycombinator.com/item?id=37614194) - [TOFU: Do You Check?](https://cedwards.xyz/tofu-do-you-check/)
 * [2023-09-22, 16:35:15](https://news.ycombinator.com/item?id=37614177) - [Show HN: Rapidpages – OSS alternative to vercel's v0](https://github.com/rapidpages/rapidpages)
 * [2023-09-22, 16:02:41](https://news.ycombinator.com/item?id=37613747) - [I'm all-in on server-side SQLite (2022)](https://fly.io/blog/all-in-on-sqlite-litestream/)
 * [2023-09-22, 15:49:32](https://news.ycombinator.com/item?id=37613572) - [The Design System Ecosystem](https://bradfrost.com/blog/post/the-design-system-ecosystem/)
@@ -27,7 +28,6 @@
 * [2023-09-22, 07:15:40](https://news.ycombinator.com/item?id=37608900) - [AWS Customers Cannot Escape IPv4](https://tty.neveragain.de/2023/09/21/aws-cannot-escape-ipv4.html)
 * [2023-09-22, 06:27:15](https://news.ycombinator.com/item?id=37608580) - [I'm fed up with it, so I'm writing a browser](https://adayinthelifeof.nl/2023/09/22/browsers.html)
 * [2023-09-22, 02:26:31](https://news.ycombinator.com/item?id=37607150) - [Quantum Poetics](https://aeon.co/essays/borges-and-heisenberg-converged-on-the-slipperiness-of-language)
-* [2023-09-21, 20:32:53](https://news.ycombinator.com/item?id=37603905) - [Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10)
 * [2023-09-21, 18:10:07](https://news.ycombinator.com/item?id=37601581) - [What the debate about Neanderthals reveals about us](https://www.theguardian.com/science/2023/sep/19/justice-for-neanderthals-what-the-debate-about-our-long-dead-cousins-reveals-about-us)
 * [2023-09-21, 06:12:18](https://news.ycombinator.com/item?id=37593823) - [Some reasons to avoid Cython](https://pythonspeed.com/articles/cython-limitations/)
 
