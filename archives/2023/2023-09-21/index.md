@@ -6,6 +6,7 @@
 
 * [2023-09-21, 23:18:27](https://news.ycombinator.com/item?id=37605773) - [Second-Guessing the Modern Web](https://macwright.com/2020/05/10/spa-fatigue)
 * [2023-09-21, 23:08:46](https://news.ycombinator.com/item?id=37605688) - [Haskell WebAssembly in the Browser](http://joeyh.name/blog/entry/Haskell_webassembly_in_the_browser/)
+* [2023-09-21, 22:30:59](https://news.ycombinator.com/item?id=37605334) - [OpenAI and ChatGPT Lawsuit List](https://originality.ai/blog/openai-chatgpt-lawsuit-list)
 * [2023-09-21, 20:32:53](https://news.ycombinator.com/item?id=37603905) - [Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10)
 * [2023-09-21, 20:24:24](https://news.ycombinator.com/item?id=37603769) - [Volvo to cease production of diesel cars in a few months](https://www.reuters.com/business/autos-transportation/volvo-end-diesel-car-production-by-early-2024-2023-09-19/)
 * [2023-09-21, 20:23:23](https://news.ycombinator.com/item?id=37603748) - [Rust SDR Amateur Radio Network Interface](https://github.com/hexagonal-sun/ampkt)
@@ -46,6 +47,7 @@
 * [2023-09-21, 14:38:45](https://news.ycombinator.com/item?id=37598299) - [Cisco pulled out of SentinelOne acquisition after due diligence](https://www.calcalistech.com/ctechnews/article/b18wjfk1a)
 * [2023-09-21, 14:36:29](https://news.ycombinator.com/item?id=37598253) - [Fosstodon is now invite only](https://hub.fosstodon.org/were-invite-only)
 * [2023-09-21, 14:28:16](https://news.ycombinator.com/item?id=37598134) - [Rupert Murdoch: Why I’m stepping down](https://www.spectator.co.uk/article/why-im-stepping-down/)
+* [2023-09-21, 14:24:37](https://news.ycombinator.com/item?id=37598082) - [Harness launches Gitness, an open-source GitHub competitor](https://techcrunch.com/2023/09/21/oh-gitness-harness-launches-gitness-an-open-source-github-competitor/)
 * [2023-09-21, 14:21:45](https://news.ycombinator.com/item?id=37598044) - [Fire and Motion (2002)](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/)
 * [2023-09-21, 14:14:25](https://news.ycombinator.com/item?id=37597931) - [They have genetic ALS. What should clinicians do?](https://www.statnews.com/2023/09/21/als-gene-carrier-riluzole-toferson/)
 * [2023-09-21, 14:01:44](https://news.ycombinator.com/item?id=37597763) - [Introducing Proton CAPTCHA, the world’s first censorship-resistant CAPTCHA](https://proton.me/blog/proton-captcha)
