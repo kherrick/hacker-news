@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
+* [2023-09-22, 17:20:12](https://news.ycombinator.com/item?id=37614793) - [An open letter to our community [Unity]](https://blog.unity.com/news/open-letter-on-runtime-fee)
+* [2023-09-22, 16:57:37](https://news.ycombinator.com/item?id=37614468) - [Amazon Prime Video content to start including ads next year](https://www.bbc.com/news/business-66887717)
 * [2023-09-22, 16:43:58](https://news.ycombinator.com/item?id=37614279) - [Apple fucked us on right to repair (again)](https://pluralistic.net/2023/09/22/vin-locking/#thought-differently)
 * [2023-09-22, 16:38:56](https://news.ycombinator.com/item?id=37614216) - [How to Roman Republic, Part IV: The Senate](https://acoup.blog/2023/09/22/collections-how-to-roman-republic-part-iv-the-senate/)
 * [2023-09-22, 16:35:15](https://news.ycombinator.com/item?id=37614177) - [Show HN: Rapidpages – OSS alternative to vercel's v0](https://github.com/rapidpages/rapidpages)

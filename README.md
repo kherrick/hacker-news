@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-22, 16:43:58](https://news.ycombinator.com/item?id=37614279) - [Apple fucked us on right to repair (again)](https://pluralistic.net/2023/09/22/vin-locking/#thought-differently)
+* [2023-09-22, 17:20:12](https://news.ycombinator.com/item?id=37614793) - [An open letter to our community [Unity]](https://blog.unity.com/news/open-letter-on-runtime-fee)
+* [2023-09-22, 16:57:37](https://news.ycombinator.com/item?id=37614468) - [Amazon Prime Video content to start including ads next year](https://www.bbc.com/news/business-66887717)
 * [2023-09-22, 16:38:56](https://news.ycombinator.com/item?id=37614216) - [How to Roman Republic, Part IV: The Senate](https://acoup.blog/2023/09/22/collections-how-to-roman-republic-part-iv-the-senate/)
 * [2023-09-22, 16:35:15](https://news.ycombinator.com/item?id=37614177) - [Show HN: Rapidpages – OSS alternative to vercel's v0](https://github.com/rapidpages/rapidpages)
 * [2023-09-22, 16:09:14](https://news.ycombinator.com/item?id=37613830) - [Kia, Hyundai Blame Mass Car Thefts on ‘Lax Policing’ in Court Defense](https://www.thedrive.com/news/kia-hyundai-blame-mass-car-thefts-on-lax-policing-in-court-defense)
@@ -25,11 +26,10 @@
 * [2023-09-22, 08:22:28](https://news.ycombinator.com/item?id=37609393) - [I made a transformer by hand (no training)](https://vgel.me/posts/handmade-transformer/)
 * [2023-09-22, 07:15:40](https://news.ycombinator.com/item?id=37608900) - [AWS Customers Cannot Escape IPv4](https://tty.neveragain.de/2023/09/21/aws-cannot-escape-ipv4.html)
 * [2023-09-22, 06:27:15](https://news.ycombinator.com/item?id=37608580) - [I'm fed up with it, so I'm writing a browser](https://adayinthelifeof.nl/2023/09/22/browsers.html)
-* [2023-09-22, 04:59:21](https://news.ycombinator.com/item?id=37608061) - [Modular forms, the ‘fifth fundamental operation’ of math](https://www.quantamagazine.org/behold-modular-forms-the-fifth-fundamental-operation-of-math-20230921/)
 * [2023-09-22, 02:26:31](https://news.ycombinator.com/item?id=37607150) - [Quantum Poetics](https://aeon.co/essays/borges-and-heisenberg-converged-on-the-slipperiness-of-language)
 * [2023-09-21, 20:32:53](https://news.ycombinator.com/item?id=37603905) - [Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10)
+* [2023-09-21, 18:10:07](https://news.ycombinator.com/item?id=37601581) - [What the debate about Neanderthals reveals about us](https://www.theguardian.com/science/2023/sep/19/justice-for-neanderthals-what-the-debate-about-our-long-dead-cousins-reveals-about-us)
 * [2023-09-21, 06:12:18](https://news.ycombinator.com/item?id=37593823) - [Some reasons to avoid Cython](https://pythonspeed.com/articles/cython-limitations/)
-* [2023-09-21, 05:01:16](https://news.ycombinator.com/item?id=37593398) - [Interoperability: Swift’s Super Power](https://browsercompany.substack.com/cp/137231709)
 
 ## [Archives](archives/index.md)
 
