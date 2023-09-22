@@ -43,6 +43,7 @@
 * [2023-09-22, 12:19:53](https://news.ycombinator.com/item?id=37611026) - [Authors sue OpenAI for using their works without proper licensing](https://www.nytimes.com/2023/09/20/books/authors-openai-lawsuit-chatgpt-copyright.html)
 * [2023-09-22, 12:06:42](https://news.ycombinator.com/item?id=37610899) - [All the ways to capture changes in Postgres](https://blog.sequin.io/all-the-ways-to-capture-changes-in-postgres/)
 * [2023-09-22, 12:02:25](https://news.ycombinator.com/item?id=37610864) - [Zep: Fast, scalable building blocks for production LLM apps](https://github.com/getzep/zep)
+* [2023-09-22, 11:57:58](https://news.ycombinator.com/item?id=37610821) - [The Tragedy of Google Search](https://www.theatlantic.com/technology/archive/2023/09/google-search-size-usefulness-decline/675409/)
 * [2023-09-22, 11:41:05](https://news.ycombinator.com/item?id=37610692) - [Nearly 500 brands exited smartphone market during 2017-2023](https://www.counterpointresearch.com/insights/nearly-500-brands-exited-smartphone-market-during-2017-2023/)
 * [2023-09-22, 11:34:35](https://news.ycombinator.com/item?id=37610654) - [GraalOS: Containerless instant-on cloud functions for Java](https://www.graal.cloud/graalos/)
 * [2023-09-22, 11:29:39](https://news.ycombinator.com/item?id=37610623) - [Westinghouse/Bechtel Consortium Agreement: First Nuclear Power Plant in Poland](https://info.westinghousenuclear.com/news/westinghouse-and-bechtel-sign-consortium-agreement-for-first-nuclear-power-plant-in-poland)
