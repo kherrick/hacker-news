@@ -52,6 +52,7 @@
 * [2023-09-21, 14:14:25](https://news.ycombinator.com/item?id=37597931) - [They have genetic ALS. What should clinicians do?](https://www.statnews.com/2023/09/21/als-gene-carrier-riluzole-toferson/)
 * [2023-09-21, 14:01:44](https://news.ycombinator.com/item?id=37597763) - [Introducing Proton CAPTCHA, the world’s first censorship-resistant CAPTCHA](https://proton.me/blog/proton-captcha)
 * [2023-09-21, 14:00:15](https://news.ycombinator.com/item?id=37597740) - [Germany went from envy of the world to worst-performing major developed economy](https://apnews.com/article/germany-economy-energy-crisis-russia-8a00eebbfab3f20c5c66b1cd85ae84ed)
+* [2023-09-21, 13:45:55](https://news.ycombinator.com/item?id=37597532) - [‘Mini-bombs’ blowing up the elbows of baseball’s top pitchers](https://www.wsj.com/sports/baseball/mini-bombs-pitching-elbow-injuries-ohtani-degrom-4aa32bfa)
 * [2023-09-21, 13:24:39](https://news.ycombinator.com/item?id=37597264) - [Rupert Murdoch steps down as Fox and News Corp chairman](https://www.bbc.co.uk/news/business-66881306)
 * [2023-09-21, 13:19:26](https://news.ycombinator.com/item?id=37597207) - [Google sued for negligence after man died following map directions](https://apnews.com/article/google-maps-lawsuit-north-carolina-death-f4707247ee3295bf51bbcb37bd0eb6c8)
 * [2023-09-21, 13:18:58](https://news.ycombinator.com/item?id=37597201) - [Show HN: Odin – the integration of LLMs with Obsidian note taking](https://github.com/memgraph/odin)
