@@ -5,7 +5,7 @@
 * [2023-09-22, 05:21:13](https://news.ycombinator.com/item?id=37608191) - [Publius Enigma](https://en.wikipedia.org/wiki/Publius_Enigma)
 * [2023-09-22, 05:08:06](https://news.ycombinator.com/item?id=37608110) - [The Bogus CVE Problem](https://lwn.net/Articles/944209/)
 * [2023-09-22, 04:59:21](https://news.ycombinator.com/item?id=37608061) - [Modular forms, the ‘fifth fundamental operation’ of math](https://www.quantamagazine.org/behold-modular-forms-the-fifth-fundamental-operation-of-math-20230921/)
-* [2023-09-22, 03:35:31](https://news.ycombinator.com/item?id=37607534) - [“The Poet Is a Man Who Feigns”](https://daily.jstor.org/the-poet-is-a-man-who-feigns/)
+* [2023-09-22, 02:35:22](https://news.ycombinator.com/item?id=37607203) - [Suppressing negative thoughts may be good for mental health after all](https://www.cam.ac.uk/research/news/suppressing-negative-thoughts-may-be-good-for-mental-health-after-all-study-suggests)
 * [2023-09-22, 01:29:41](https://news.ycombinator.com/item?id=37606775) - [Luiz André Barroso has died](https://www.wired.com/story/google-mourns-luiz-andre-barroso-veteran-engineer-invented-the-modern-data-center/)
 * [2023-09-22, 00:31:55](https://news.ycombinator.com/item?id=37606380) - [Nintendo 3DS Architecture](https://www.copetti.org/writings/consoles/nintendo-3ds/)
 * [2023-09-22, 00:29:44](https://news.ycombinator.com/item?id=37606352) - [Outperforming larger language models with less training data and smaller models](https://blog.research.google/2023/09/distilling-step-by-step-outperforming.html)
