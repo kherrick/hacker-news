@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-22, 07:15:40](https://news.ycombinator.com/item?id=37608900) - [AWS Customers Cannot Escape IPv4](https://tty.neveragain.de/2023/09/21/aws-cannot-escape-ipv4.html)
 * [2023-09-22, 06:27:15](https://news.ycombinator.com/item?id=37608580) - [I'm fed up with it, so I'm writing a browser](https://adayinthelifeof.nl/2023/09/22/browsers.html)
 * [2023-09-22, 05:21:13](https://news.ycombinator.com/item?id=37608191) - [Publius Enigma](https://en.wikipedia.org/wiki/Publius_Enigma)
 * [2023-09-22, 05:08:06](https://news.ycombinator.com/item?id=37608110) - [The Bogus CVE Problem](https://lwn.net/Articles/944209/)
@@ -20,16 +21,15 @@
 * [2023-09-21, 17:34:11](https://news.ycombinator.com/item?id=37601064) - [Most UI applications are broken real-time applications](https://thelig.ht/ui-apps-are-broken/)
 * [2023-09-21, 17:21:39](https://news.ycombinator.com/item?id=37600852) - [The WebP 0day](https://blog.isosceles.com/the-webp-0day/)
 * [2023-09-21, 17:06:08](https://news.ycombinator.com/item?id=37600618) - [USPS In-Person Identity Proofing](https://faq.usps.com/s/article/USPS-In-Person-Identity-Proofing)
+* [2023-09-21, 17:00:48](https://news.ycombinator.com/item?id=37600542) - [OneSignal (YC S11), email and push notification platform, is hiring engineers](https://onesignal.com/careers/4264311006)
 * [2023-09-21, 12:15:19](https://news.ycombinator.com/item?id=37596497) - [Cisco Acquires Splunk](https://www.splunk.com/en_us/blog/leadership/splunk-and-cisco-unite-to-accelerate-digital-resilience-as-one-of-the-leading-global-software-companies.html)
 * [2023-09-21, 11:48:51](https://news.ycombinator.com/item?id=37596253) - [Launch HN: Loops (YC W22) – Email for SaaS Companies](https://news.ycombinator.com/item?id=37596253)
 * [2023-09-21, 10:21:50](https://news.ycombinator.com/item?id=37595642) - [Game: ASM – Das Computer-Spiel (The Director's Cut) released](https://www.amiga-news.de/en/news/AN-2023-09-00044-EN.html)
-* [2023-09-21, 07:42:46](https://news.ycombinator.com/item?id=37594415) - [Memories of a goofy phone from the late 80s](http://rachelbythebay.com/w/2023/09/20/fv1000/)
 * [2023-09-21, 05:03:41](https://news.ycombinator.com/item?id=37593404) - [Compiling ML models to C for fun](https://bernsteinbear.com/blog/compiling-ml-models/)
 * [2023-09-21, 04:12:50](https://news.ycombinator.com/item?id=37593137) - [“Stop Making Sense” is having a theatrical rerelease](https://www.newyorker.com/culture/the-front-row/stop-making-sense-and-the-transformative-power-of-collaboration)
 * [2023-09-21, 01:42:17](https://news.ycombinator.com/item?id=37592316) - [Integrated Information Theory labelled pseudoscience](https://www.nature.com/articles/d41586-023-02971-1)
 * [2023-09-20, 11:48:19](https://news.ycombinator.com/item?id=37583022) - [Lean, Coq and other proof assistants: Visualising proofs as trees](https://lakesare.brick.do/lean-coq-isabel-and-their-proof-trees-yjnd2O2RgxwV)
 * [2023-09-20, 07:05:11](https://news.ycombinator.com/item?id=37581238) - [Being a bash developer in the 21st century (2021)](https://blog.barysas.eu/being-a-bash-programmer-in-the-xxi-st-century/)
-* [2023-09-20, 06:46:48](https://news.ycombinator.com/item?id=37581145) - [CERN swaps out databases to feed its petabyte-a-day habit](https://www.theregister.com/2023/09/18/lhc_infrastructure_monitoring/)
 
 ## [Archives](archives/index.md)
 
