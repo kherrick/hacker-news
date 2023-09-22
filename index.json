@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-09-22, 00:31:55",
+      "https://news.ycombinator.com/item?id=37606380"
+    ],
+    [
+      "Nintendo 3DS Architecture",
+      "https://www.copetti.org/writings/consoles/nintendo-3ds/"
+    ]
+  ],
+  [
+    [
+      "2023-09-22, 00:29:44",
+      "https://news.ycombinator.com/item?id=37606352"
+    ],
+    [
+      "Outperforming LLMs with less training data and smaller model sizes",
+      "https://blog.research.google/2023/09/distilling-step-by-step-outperforming.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-22, 00:24:50",
+      "https://news.ycombinator.com/item?id=37606321"
+    ],
+    [
+      "MGM Seeks Contractors to Repair Infra in 3 Weeks",
+      "https://www.snagajob.com/jobs/870614703"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 23:18:27",
       "https://news.ycombinator.com/item?id=37605773"
     ],
@@ -67,36 +97,6 @@
     [
       "Speeding up the JavaScript ecosystem – Polyfills gone rogue",
       "https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-6/"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 19:24:14",
-      "https://news.ycombinator.com/item?id=37602798"
-    ],
-    [
-      "How do databases execute expressions?",
-      "https://notes.eatonphil.com/2023-09-21-how-do-databases-execute-expressions.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 19:21:47",
-      "https://news.ycombinator.com/item?id=37602759"
-    ],
-    [
-      "Ancient tools thought to be made by humans were made by monkeys: archaeologists",
-      "https://news.artnet.com/art-world/ancient-tools-monkeys-2237820"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 19:17:24",
-      "https://news.ycombinator.com/item?id=37602674"
-    ],
-    [
-      "Why Open Source AI Will Win",
-      "https://varunshenoy.substack.com/p/why-open-source-ai-will-win"
     ]
   ],
   [
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2023-09-21, 14:21:45",
+      "https://news.ycombinator.com/item?id=37598044"
+    ],
+    [
+      "Fire and Motion (2002)",
+      "https://www.joelonsoftware.com/2002/01/06/fire-and-motion/"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 13:18:58",
       "https://news.ycombinator.com/item?id=37597201"
     ],
@@ -227,16 +237,6 @@
     [
       "Is Fortran easier to optimize than C for heavy calculations?",
       "https://stackoverflow.com/questions/146159/is-fortran-easier-to-optimize-than-c-for-heavy-calculations"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 08:12:44",
-      "https://news.ycombinator.com/item?id=37594658"
-    ],
-    [
-      "Requiem for an Interface",
-      "https://interactions.acm.org/archive/view/september-october-2023/requiem-for-an-interface"
     ]
   ],
   [
