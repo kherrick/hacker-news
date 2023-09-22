@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-09-22, 01:29:41",
+      "https://news.ycombinator.com/item?id=37606775"
+    ],
+    [
+      "Luiz André Barroso has died",
+      "https://www.wired.com/story/google-mourns-luiz-andre-barroso-veteran-engineer-invented-the-modern-data-center/"
+    ]
+  ],
+  [
+    [
       "2023-09-22, 00:31:55",
       "https://news.ycombinator.com/item?id=37606380"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=37606352"
     ],
     [
-      "Outperforming LLMs with less training data and smaller model sizes",
+      "Outperforming larger language models with less training data and smaller models",
       "https://blog.research.google/2023/09/distilling-step-by-step-outperforming.html"
     ]
   ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=37602674"
     ],
     [
-      "Why open source AI will win",
+      "Open source AI will win",
       "https://varunshenoy.substack.com/p/why-open-source-ai-will-win"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "The End of Scantron Tests",
       "https://www.theatlantic.com/technology/archive/2023/09/schools-standardized-testing-assessment-ai-future/675366/"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 12:09:49",
-      "https://news.ycombinator.com/item?id=37583197"
-    ],
-    [
-      "SQL Join Flavors",
-      "https://antonz.org/sql-join/"
     ]
   ],
   [
