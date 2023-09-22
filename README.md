@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-22, 16:09:14](https://news.ycombinator.com/item?id=37613830) - [Kia, Hyundai Blame Mass Car Thefts on ‘Lax Policing’ in Court Defense](https://www.thedrive.com/news/kia-hyundai-blame-mass-car-thefts-on-lax-policing-in-court-defense)
 * [2023-09-22, 16:02:41](https://news.ycombinator.com/item?id=37613747) - [I'm All-In on Server-Side SQLite (2022)](https://fly.io/blog/all-in-on-sqlite-litestream/)
+* [2023-09-22, 15:27:40](https://news.ycombinator.com/item?id=37613309) - [Dumpster Tektronix 2465B Restoration](https://sunestra.fr/posts/repair/scope/)
 * [2023-09-22, 15:08:32](https://news.ycombinator.com/item?id=37613054) - [Show HN: Paisa – Open-Source Personal Finance Manager](https://paisa.fyi/)
 * [2023-09-22, 15:02:57](https://news.ycombinator.com/item?id=37612975) - [Java 21: The Nice, the Meh, and the Momentous](https://horstmann.com/unblog/2023-09-19/index.html)
 * [2023-09-22, 15:02:34](https://news.ycombinator.com/item?id=37612968) - [Working Remotely Can More Than Halve an Office Employee’s Carbon Footprint](https://www.scientificamerican.com/article/working-remotely-can-more-than-halve-an-office-employees-carbon-footprint/)
@@ -10,7 +12,6 @@
 * [2023-09-22, 13:57:24](https://news.ycombinator.com/item?id=37612127) - [Valve is a wonderful upstream contributor to Linux and the open-source community](https://www.phoronix.com/news/Valve-Upstream-Everything-OSS)
 * [2023-09-22, 12:39:06](https://news.ycombinator.com/item?id=37611213) - [Tailscale Kubernetes Operator](https://tailscale.com/kb/1236/kubernetes-operator/)
 * [2023-09-22, 12:31:12](https://news.ycombinator.com/item?id=37611136) - [Principles for building and scaling feature flag systems](https://docs.getunleash.io/topics/feature-flags/feature-flag-best-practices)
-* [2023-09-22, 12:25:46](https://news.ycombinator.com/item?id=37611080) - [Learn Rust by building real-world examples](https://www.shuttle.rs/launchpad)
 * [2023-09-22, 12:06:42](https://news.ycombinator.com/item?id=37610899) - [Ways to capture changes in Postgres](https://blog.sequin.io/all-the-ways-to-capture-changes-in-postgres/)
 * [2023-09-22, 12:02:25](https://news.ycombinator.com/item?id=37610864) - [Zep: Fast, scalable building blocks for production LLM apps](https://github.com/getzep/zep)
 * [2023-09-22, 11:41:05](https://news.ycombinator.com/item?id=37610692) - [Nearly 500 brands exited smartphone market during 2017-2023](https://www.counterpointresearch.com/insights/nearly-500-brands-exited-smartphone-market-during-2017-2023/)
@@ -29,7 +30,6 @@
 * [2023-09-21, 20:32:53](https://news.ycombinator.com/item?id=37603905) - [Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10)
 * [2023-09-21, 06:12:18](https://news.ycombinator.com/item?id=37593823) - [Some reasons to avoid Cython](https://pythonspeed.com/articles/cython-limitations/)
 * [2023-09-21, 05:01:16](https://news.ycombinator.com/item?id=37593398) - [Interoperability: Swift’s Super Power](https://browsercompany.substack.com/cp/137231709)
-* [2023-09-21, 04:12:50](https://news.ycombinator.com/item?id=37593137) - [“Stop Making Sense” is having a theatrical rerelease](https://www.newyorker.com/culture/the-front-row/stop-making-sense-and-the-transformative-power-of-collaboration)
 
 ## [Archives](archives/index.md)
 
