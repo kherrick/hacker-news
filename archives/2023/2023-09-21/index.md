@@ -46,6 +46,7 @@
 * [2023-09-21, 14:38:45](https://news.ycombinator.com/item?id=37598299) - [Cisco pulled out of SentinelOne acquisition after due diligence](https://www.calcalistech.com/ctechnews/article/b18wjfk1a)
 * [2023-09-21, 14:36:29](https://news.ycombinator.com/item?id=37598253) - [Fosstodon is now invite only](https://hub.fosstodon.org/were-invite-only)
 * [2023-09-21, 14:28:16](https://news.ycombinator.com/item?id=37598134) - [Rupert Murdoch: Why I’m stepping down](https://www.spectator.co.uk/article/why-im-stepping-down/)
+* [2023-09-21, 14:21:45](https://news.ycombinator.com/item?id=37598044) - [Fire and Motion (2002)](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/)
 * [2023-09-21, 14:14:25](https://news.ycombinator.com/item?id=37597931) - [They have genetic ALS. What should clinicians do?](https://www.statnews.com/2023/09/21/als-gene-carrier-riluzole-toferson/)
 * [2023-09-21, 14:01:44](https://news.ycombinator.com/item?id=37597763) - [Introducing Proton CAPTCHA, the world’s first censorship-resistant CAPTCHA](https://proton.me/blog/proton-captcha)
 * [2023-09-21, 14:00:15](https://news.ycombinator.com/item?id=37597740) - [Germany went from envy of the world to worst-performing major developed economy](https://apnews.com/article/germany-economy-energy-crisis-russia-8a00eebbfab3f20c5c66b1cd85ae84ed)
