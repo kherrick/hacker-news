@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-22, 11:25:40](https://news.ycombinator.com/item?id=37610591) - [Ben Myers: Statement on Generative AI](https://benmyers.dev/ai-statement/)
 * [2023-09-22, 11:11:50](https://news.ycombinator.com/item?id=37610500) - [Amazon to add limited ads to Prime Video starting in early 2024](https://www.marketwatch.com/story/amazon-to-add-limited-ads-to-prime-video-starting-in-early-2024-fd51c85d)
 * [2023-09-22, 11:02:50](https://news.ycombinator.com/item?id=37610447) - [Signal: The Pqxdh Key Agreement Protocol](https://signal.org/docs/specifications/pqxdh/)
 * [2023-09-22, 10:25:46](https://news.ycombinator.com/item?id=37610238) - [The Age of the Grift Shift](https://tante.cc/2023/09/21/the-age-of-the-grift-shift/)
@@ -14,6 +13,7 @@
 * [2023-09-22, 05:08:06](https://news.ycombinator.com/item?id=37608110) - [The Bogus CVE Problem](https://lwn.net/Articles/944209/)
 * [2023-09-22, 04:59:21](https://news.ycombinator.com/item?id=37608061) - [Modular forms, the ‘fifth fundamental operation’ of math](https://www.quantamagazine.org/behold-modular-forms-the-fifth-fundamental-operation-of-math-20230921/)
 * [2023-09-22, 03:46:14](https://news.ycombinator.com/item?id=37607597) - [The curious incident of the dog and the palm tree (2015)](https://ancientrecipes.wordpress.com/2015/05/18/678/)
+* [2023-09-22, 01:29:41](https://news.ycombinator.com/item?id=37606775) - [Luiz André Barroso has died](https://www.wired.com/story/google-mourns-luiz-andre-barroso-veteran-engineer-invented-the-modern-data-center/)
 * [2023-09-22, 00:31:55](https://news.ycombinator.com/item?id=37606380) - [Nintendo 3DS Architecture](https://www.copetti.org/writings/consoles/nintendo-3ds/)
 * [2023-09-22, 00:29:44](https://news.ycombinator.com/item?id=37606352) - [Outperforming larger language models with less training data and smaller models](https://blog.research.google/2023/09/distilling-step-by-step-outperforming.html)
 * [2023-09-21, 23:08:46](https://news.ycombinator.com/item?id=37605688) - [Haskell WebAssembly in the Browser](http://joeyh.name/blog/entry/Haskell_webassembly_in_the_browser/)
@@ -26,10 +26,10 @@
 * [2023-09-21, 11:48:51](https://news.ycombinator.com/item?id=37596253) - [Launch HN: Loops (YC W22) – Email for SaaS Companies](https://news.ycombinator.com/item?id=37596253)
 * [2023-09-21, 10:23:00](https://news.ycombinator.com/item?id=37595649) - [Tree-Structured Shading Decomposition](https://chen-geng.com/inv-shade-trees)
 * [2023-09-21, 10:21:50](https://news.ycombinator.com/item?id=37595642) - [Game: ASM – Das Computer-Spiel (The Director's Cut) released](https://www.amiga-news.de/en/news/AN-2023-09-00044-EN.html)
+* [2023-09-21, 07:42:46](https://news.ycombinator.com/item?id=37594415) - [Memories of a goofy phone from the late 80s](http://rachelbythebay.com/w/2023/09/20/fv1000/)
 * [2023-09-21, 05:03:41](https://news.ycombinator.com/item?id=37593404) - [Compiling ML models to C for fun](https://bernsteinbear.com/blog/compiling-ml-models/)
 * [2023-09-21, 05:01:16](https://news.ycombinator.com/item?id=37593398) - [Interoperability: Swift’s Super Power](https://browsercompany.substack.com/cp/137231709)
 * [2023-09-21, 04:12:50](https://news.ycombinator.com/item?id=37593137) - [“Stop Making Sense” is having a theatrical rerelease](https://www.newyorker.com/culture/the-front-row/stop-making-sense-and-the-transformative-power-of-collaboration)
-* [2023-09-21, 01:42:17](https://news.ycombinator.com/item?id=37592316) - [Integrated Information Theory labelled pseudoscience](https://www.nature.com/articles/d41586-023-02971-1)
 
 ## [Archives](archives/index.md)
 
