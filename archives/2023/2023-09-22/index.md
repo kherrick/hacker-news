@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
+* [2023-09-22, 21:12:51](https://news.ycombinator.com/item?id=37617864) - [iOS 17 Is a Prude](https://old.reddit.com/r/iphone/comments/16nqk30/ios_17_is_a_prude/)
 * [2023-09-22, 20:48:21](https://news.ycombinator.com/item?id=37617572) - [Reasons Windows Is Going in the Wrong Direction](https://www.pcmag.com/opinions/windows-is-going-in-the-wrong-direction)
 * [2023-09-22, 20:36:07](https://news.ycombinator.com/item?id=37617422) - [Philips Hue will force users to upload their data to Hue cloud](https://www.home-assistant.io/blog/2023/09/22/philips-hue-force-users-upload-data-to-cloud/)
 * [2023-09-22, 20:24:21](https://news.ycombinator.com/item?id=37617288) - [Show HN: Summary Cat, a YouTube Video Summary Generator](https://www.summarycat.com)

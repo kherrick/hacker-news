@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-22, 21:12:51](https://news.ycombinator.com/item?id=37617864) - [iOS 17 Is a Prude](https://old.reddit.com/r/iphone/comments/16nqk30/ios_17_is_a_prude/)
 * [2023-09-22, 20:48:21](https://news.ycombinator.com/item?id=37617572) - [Reasons Windows Is Going in the Wrong Direction](https://www.pcmag.com/opinions/windows-is-going-in-the-wrong-direction)
 * [2023-09-22, 20:24:21](https://news.ycombinator.com/item?id=37617288) - [Show HN: Summary Cat, a YouTube Video Summary Generator](https://www.summarycat.com)
 * [2023-09-22, 20:12:25](https://news.ycombinator.com/item?id=37617133) - [Three NorCal Tribes Announce Nation’s First Indigenous Ocean Protection Area](https://lostcoastoutpost.com/2023/sep/22/three-norcal-tribes-announce-first-us-indigenous-m/)
@@ -10,11 +11,10 @@
 * [2023-09-22, 18:47:37](https://news.ycombinator.com/item?id=37616033) - [Run PostgreSQL. The Kubernetes Way](https://cloudnative-pg.io/)
 * [2023-09-22, 18:28:57](https://news.ycombinator.com/item?id=37615783) - [Not only Clojure – Chez Scheme: Lisp with native code speed](https://yakihonne.com/article/naddr1qq2nw7n9va68s56dxf2x27z889v524z40f38wq3qu6qhg5ucu3xza4nlz94q90y720tr6l09avnq8y3yfp5qrv9v8susxpqqqp65wvyuq5c)
 * [2023-09-22, 18:17:57](https://news.ycombinator.com/item?id=37615638) - [When half a million Americans died and nobody noticed (2012)](https://theweek.com/us/46535/when-half-million-americans-died-and-nobody-noticed)
-* [2023-09-22, 17:23:29](https://news.ycombinator.com/item?id=37614851) - [I'm writing a new CLI text editor, because I can](https://github.com/boutell/tome/blob/main/README.md)
+* [2023-09-22, 17:23:29](https://news.ycombinator.com/item?id=37614851) - [Show HN: Tome, aka Tom's Editor – a new command-line text editor](https://github.com/boutell/tome/blob/main/README.md)
 * [2023-09-22, 17:21:22](https://news.ycombinator.com/item?id=37614816) - [0-days exploited by commercial surveillance vendor in Egypt](https://blog.google/threat-analysis-group/0-days-exploited-by-commercial-surveillance-vendor-in-egypt/)
 * [2023-09-22, 16:38:56](https://news.ycombinator.com/item?id=37614216) - [How to Roman Republic, Part IV: The Senate](https://acoup.blog/2023/09/22/collections-how-to-roman-republic-part-iv-the-senate/)
 * [2023-09-22, 16:35:15](https://news.ycombinator.com/item?id=37614177) - [Show HN: Rapidpages – OSS alternative to vercel's v0](https://github.com/rapidpages/rapidpages)
-* [2023-09-22, 16:02:41](https://news.ycombinator.com/item?id=37613747) - [I'm all-in on server-side SQLite (2022)](https://fly.io/blog/all-in-on-sqlite-litestream/)
 * [2023-09-22, 15:49:32](https://news.ycombinator.com/item?id=37613572) - [The Design System Ecosystem](https://bradfrost.com/blog/post/the-design-system-ecosystem/)
 * [2023-09-22, 15:27:40](https://news.ycombinator.com/item?id=37613309) - [Dumpster Tektronix 2465B Restoration](https://sunestra.fr/posts/repair/scope/)
 * [2023-09-22, 15:08:32](https://news.ycombinator.com/item?id=37613054) - [Show HN: Paisa – Open-Source Personal Finance Manager](https://paisa.fyi/)
@@ -28,7 +28,7 @@
 * [2023-09-22, 08:22:28](https://news.ycombinator.com/item?id=37609393) - [I made a transformer by hand (no training)](https://vgel.me/posts/handmade-transformer/)
 * [2023-09-22, 08:17:58](https://news.ycombinator.com/item?id=37609352) - [Polycentric interstate federalism among the Yoruba of Nigeria (2022) [pdf]](https://cosmosandtaxis.files.wordpress.com/2022/09/kunleoyerinde_ct_vol10_iss11_12.pdf)
 * [2023-09-22, 07:15:40](https://news.ycombinator.com/item?id=37608900) - [AWS Customers Cannot Escape IPv4](https://tty.neveragain.de/2023/09/21/aws-cannot-escape-ipv4.html)
-* [2023-09-22, 06:27:15](https://news.ycombinator.com/item?id=37608580) - [I'm fed up with it, so I'm writing a browser](https://adayinthelifeof.nl/2023/09/22/browsers.html)
+* [2023-09-22, 02:26:31](https://news.ycombinator.com/item?id=37607150) - [Quantum Poetics](https://aeon.co/essays/borges-and-heisenberg-converged-on-the-slipperiness-of-language)
 * [2023-09-20, 07:27:32](https://news.ycombinator.com/item?id=37581405) - [Archaeologists find 500-year-old board game carved in ruins of Polish castle](https://arstechnica.com/science/2023/09/archaeologists-find-500-year-old-board-game-carved-in-ruins-of-polish-castle/)
 
 ## [Archives](archives/index.md)
