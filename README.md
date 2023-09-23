@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-23, 15:21:41](https://news.ycombinator.com/item?id=37624070) - [Definitely Do Not Put Plastic in the Microwave](https://www.bonappetit.com/story/can-you-put-plastic-in-the-microwave)
-* [2023-09-23, 14:30:59](https://news.ycombinator.com/item?id=37623569) - [Make Something Wonderful](https://news.ycombinator.com/item?id=37623569)
 * [2023-09-23, 14:29:55](https://news.ycombinator.com/item?id=37623562) - [Blocking Visual Studio Code embedded reverse shell before it's too late](https://ipfyx.fr/post/visual-studio-code-tunnel/)
 * [2023-09-23, 14:29:25](https://news.ycombinator.com/item?id=37623557) - [Show HN: LLM Agent Paper List](https://github.com/WooooDyy/LLM-Agent-Paper-List)
 * [2023-09-23, 14:21:52](https://news.ycombinator.com/item?id=37623479) - [Spyware can infect your phone or computer via the ads you see online – report](https://theconversation.com/spyware-can-infect-your-phone-or-computer-via-the-ads-you-see-online-report-213685)
@@ -22,6 +21,7 @@
 * [2023-09-23, 04:06:23](https://news.ycombinator.com/item?id=37620507) - [TinyML and Efficient Deep Learning Computing](https://efficientml.ai/)
 * [2023-09-23, 03:27:56](https://news.ycombinator.com/item?id=37620367) - [The Year Lou Reed Gave Up on Music](https://www.nytimes.com/2023/09/22/nyregion/lou-reed-king-of-new-york.html)
 * [2023-09-23, 03:11:07](https://news.ycombinator.com/item?id=37620298) - [Teaching Software Engineering in DLang [pdf]](https://dconf.org/2023/slides/shah_and_students.pdf)
+* [2023-09-23, 02:49:07](https://news.ycombinator.com/item?id=37620197) - [FEMA and FCC Plan Nationwide Emergency Alert Test for Oct. 4, 2023](https://www.fema.gov/press-release/20230803/fema-and-fcc-plan-nationwide-emergency-alert-test-oct-4-2023)
 * [2023-09-23, 01:42:38](https://news.ycombinator.com/item?id=37619912) - [Deep genetic structure of Africa reveals unique ancestry of the Angolan Namib](https://phys.org/news/2023-09-deep-genetic-africa-reveals-unique.html)
 * [2023-09-22, 23:45:45](https://news.ycombinator.com/item?id=37619207) - [The Romantic Sufi: The Divan of Kamal Khujandi Copied by Jaʿfar Tabrizi](https://blogs.bl.uk/asian-and-african/2023/09/the-romantic-sufi.html)
 * [2023-09-22, 22:31:15](https://news.ycombinator.com/item?id=37618622) - [A magnificent 1850s house dubbed the Blue Belle of Brooklyn](https://ephemeralnewyork.wordpress.com/2023/09/18/the-story-of-a-magnificent-1850s-house-dubbed-the-blue-belle-of-brooklyn/)
