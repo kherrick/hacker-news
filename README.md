@@ -2,6 +2,7 @@
 
 * [2023-09-23, 01:15:02](https://news.ycombinator.com/item?id=37619766) - [Are NFTs Dead? Trends, Predictions and Statistics 2023](https://dappgambl.com/nfts/dead-nfts/)
 * [2023-09-23, 01:03:20](https://news.ycombinator.com/item?id=37619709) - [Imbue (Formerly Generally Intelligent, YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=37619709)
+* [2023-09-23, 00:07:10](https://news.ycombinator.com/item?id=37619361) - [Sidenotes in Web Design](https://gwern.net/sidenote)
 * [2023-09-22, 23:35:01](https://news.ycombinator.com/item?id=37619151) - [Croc: Easily and securely send things from one computer to another](https://github.com/schollz/croc)
 * [2023-09-22, 23:27:48](https://news.ycombinator.com/item?id=37619100) - [Show HN: TG – Fast geometry library for C](https://github.com/tidwall/tg)
 * [2023-09-22, 21:54:22](https://news.ycombinator.com/item?id=37618301) - [Conway Can Divide by Three, but I Can’t [pdf]](https://math.berkeley.edu/~pglutz/division_by_three.pdf)
@@ -26,7 +27,6 @@
 * [2023-09-22, 10:02:32](https://news.ycombinator.com/item?id=37610083) - [Choosing a more optimal `String` type](https://swatinem.de/blog/optimized-strings/)
 * [2023-09-22, 08:22:28](https://news.ycombinator.com/item?id=37609393) - [I made a transformer to predict a simple sequence manually](https://vgel.me/posts/handmade-transformer/)
 * [2023-09-22, 04:43:22](https://news.ycombinator.com/item?id=37607963) - [The Frustration Loop](https://herman.bearblog.dev/the-frustration-loop/)
-* [2023-09-22, 02:26:31](https://news.ycombinator.com/item?id=37607150) - [Quantum Poetics](https://aeon.co/essays/borges-and-heisenberg-converged-on-the-slipperiness-of-language)
 * [2023-09-22, 00:31:09](https://news.ycombinator.com/item?id=37606373) - [Technique for 3D printing metals at the nanoscale reveals surprise benefit](https://phys.org/news/2023-09-technique-3d-metals-nanoscale-reveals.html)
 * [2023-09-21, 15:46:41](https://news.ycombinator.com/item?id=37599413) - [The Carpet Makers](https://en.wikipedia.org/wiki/The_Carpet_Makers)
 * [2023-09-20, 07:27:32](https://news.ycombinator.com/item?id=37581405) - [Archaeologists find 500-year-old board game carved in ruins of Polish castle](https://arstechnica.com/science/2023/09/archaeologists-find-500-year-old-board-game-carved-in-ruins-of-polish-castle/)
