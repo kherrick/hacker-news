@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-23, 04:06:23](https://news.ycombinator.com/item?id=37620507) - [MIT 6.5940: TinyML and Efficient Deep Learning Computing](https://efficientml.ai/)
 * [2023-09-23, 03:11:07](https://news.ycombinator.com/item?id=37620298) - [Teaching Software Engineering in DLang [pdf]](https://dconf.org/2023/slides/shah_and_students.pdf)
 * [2023-09-23, 02:11:46](https://news.ycombinator.com/item?id=37620043) - [Show HN: ChatGPT for Med-School and Healthcare](https://chat.radiantai.health/)
 * [2023-09-23, 01:38:14](https://news.ycombinator.com/item?id=37619886) - [Why are you better at recognizing upright faces?](https://medicalxpress.com/news/2023-09-upright-clues-person-world-differently.html)
@@ -12,7 +13,6 @@
 * [2023-09-22, 19:23:59](https://news.ycombinator.com/item?id=37616513) - [JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover)
 * [2023-09-22, 18:47:37](https://news.ycombinator.com/item?id=37616033) - [CloudNativePG – Postgres Operator for Kubernetes](https://cloudnative-pg.io/)
 * [2023-09-22, 18:30:08](https://news.ycombinator.com/item?id=37615801) - [Creator of Vue.js Evan You's Journey from Google Engineer to Open Source Pioneer](https://www.thisdot.co/blog/creator-of-vue-js-and-vite-evan-yous-journey-from-google-engineer-to-open/)
-* [2023-09-22, 18:28:57](https://news.ycombinator.com/item?id=37615783) - [Chez Scheme: Lisp with native code speed](https://yakihonne.com/article/naddr1qq2nw7n9va68s56dxf2x27z889v524z40f38wq3qu6qhg5ucu3xza4nlz94q90y720tr6l09avnq8y3yfp5qrv9v8susxpqqqp65wvyuq5c)
 * [2023-09-22, 18:08:00](https://news.ycombinator.com/item?id=37615480) - [Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://golang50shad.es)
 * [2023-09-22, 17:21:22](https://news.ycombinator.com/item?id=37614816) - [0-days exploited by commercial surveillance vendor in Egypt](https://blog.google/threat-analysis-group/0-days-exploited-by-commercial-surveillance-vendor-in-egypt/)
 * [2023-09-22, 16:35:15](https://news.ycombinator.com/item?id=37614177) - [Show HN: Rapidpages – OSS alternative to vercel's v0](https://github.com/rapidpages/rapidpages)
