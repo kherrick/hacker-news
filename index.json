@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-23, 10:45:28",
+      "https://news.ycombinator.com/item?id=37622064"
+    ],
+    [
+      "Fossil versus Git",
+      "https://www.fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki"
+    ]
+  ],
+  [
+    [
       "2023-09-23, 10:26:43",
       "https://news.ycombinator.com/item?id=37621999"
     ],
@@ -87,6 +97,16 @@
     [
       "Show HN: ChatGPT for Med-School and Healthcare",
       "https://chat.radiantai.health/"
+    ]
+  ],
+  [
+    [
+      "2023-09-23, 01:38:14",
+      "https://news.ycombinator.com/item?id=37619886"
+    ],
+    [
+      "Why are you better at recognizing upright faces?",
+      "https://medicalxpress.com/news/2023-09-upright-clues-person-world-differently.html"
     ]
   ],
   [
@@ -191,12 +211,12 @@
   ],
   [
     [
-      "2023-09-22, 18:30:08",
-      "https://news.ycombinator.com/item?id=37615801"
+      "2023-09-22, 18:47:37",
+      "https://news.ycombinator.com/item?id=37616033"
     ],
     [
-      "Creator of Vue.js Evan You's Journey from Google Engineer to Open Source Pioneer",
-      "https://www.thisdot.co/blog/creator-of-vue-js-and-vite-evan-yous-journey-from-google-engineer-to-open/"
+      "CloudNativePG – Postgres Operator for Kubernetes",
+      "https://cloudnative-pg.io/"
     ]
   ],
   [
@@ -211,42 +231,12 @@
   ],
   [
     [
-      "2023-09-22, 16:35:15",
-      "https://news.ycombinator.com/item?id=37614177"
-    ],
-    [
-      "Show HN: Rapidpages – OSS alternative to vercel's v0",
-      "https://github.com/rapidpages/rapidpages"
-    ]
-  ],
-  [
-    [
-      "2023-09-22, 15:49:32",
-      "https://news.ycombinator.com/item?id=37613572"
-    ],
-    [
-      "The Design System Ecosystem",
-      "https://bradfrost.com/blog/post/the-design-system-ecosystem/"
-    ]
-  ],
-  [
-    [
       "2023-09-22, 15:08:32",
       "https://news.ycombinator.com/item?id=37613054"
     ],
     [
       "Show HN: Paisa – Open-Source Personal Finance Manager",
       "https://paisa.fyi/"
-    ]
-  ],
-  [
-    [
-      "2023-09-22, 14:21:22",
-      "https://news.ycombinator.com/item?id=37612420"
-    ],
-    [
-      "GitHub Actions could be so much better",
-      "https://blog.yossarian.net/2023/09/22/GitHub-Actions-could-be-so-much-better"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Technique for 3D printing metals at the nanoscale reveals surprise benefit",
       "https://phys.org/news/2023-09-technique-3d-metals-nanoscale-reveals.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-21, 17:21:39",
+      "https://news.ycombinator.com/item?id=37600852"
+    ],
+    [
+      "The WebP 0day",
+      "https://blog.isosceles.com/the-webp-0day/"
     ]
   ],
   [
