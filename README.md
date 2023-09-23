@@ -7,7 +7,7 @@
 * [2023-09-23, 19:44:56](https://news.ycombinator.com/item?id=37626731) - [Bottlerocket – Minimal, immutable Linux OS with verified boot](https://bottlerocket.dev)
 * [2023-09-23, 19:29:01](https://news.ycombinator.com/item?id=37626551) - [Computational Discovery on Jupyter](https://computational-discovery-on-jupyter.github.io/Computational-Discovery-on-Jupyter/)
 * [2023-09-23, 19:27:18](https://news.ycombinator.com/item?id=37626528) - [GNU/Linux Aviation HOWTO (2006)](https://tldp.org/HOWTO/Aviation-HOWTO/index.html)
-* [2023-09-23, 18:57:03](https://news.ycombinator.com/item?id=37626273) - [iCloud Drive silently deletes your content](https://www.dominikmayer.com/2023/09/icloud-drive-silently-deletes-your-content/)
+* [2023-09-23, 19:04:51](https://news.ycombinator.com/item?id=37626334) - [475 ‘Unreliable AI-Generated News’ Websites](https://www.newsguardtech.com/special-reports/ai-tracking-center/)
 * [2023-09-23, 18:34:27](https://news.ycombinator.com/item?id=37626025) - [I open-sourced Even the Ocean](https://melodicambient.substack.com/p/i-open-sourced-even-the-ocean-2016)
 * [2023-09-23, 18:28:58](https://news.ycombinator.com/item?id=37625973) - [Box jellyfish demonstrate learning ability](https://www.nytimes.com/2023/09/22/science/jellyfish-learning-neurons.html)
 * [2023-09-23, 17:21:56](https://news.ycombinator.com/item?id=37625291) - [The strange disappearance of Mrs Agatha Christie (2022)](https://blog.nationalarchives.gov.uk/20speople-investigating-the-strange-disappearance-of-mrs-agatha-christie/)
