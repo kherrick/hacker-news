@@ -1,13 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-23, 19:44:56](https://news.ycombinator.com/item?id=37626731) - [Bottlerocket – Minimal, immutable Linux OS with verified boot](https://bottlerocket.dev)
 * [2023-09-23, 19:27:18](https://news.ycombinator.com/item?id=37626528) - [GNU/Linux Aviation How To](https://tldp.org/HOWTO/Aviation-HOWTO/index.html)
 * [2023-09-23, 19:20:06](https://news.ycombinator.com/item?id=37626458) - [The housing market is about to take a hit as student loan payments restart](https://markets.businessinsider.com/news/commodities/housing-market-student-loan-payments-restart-affordability-crisis-mortgage-rates-2023-8)
 * [2023-09-23, 19:05:57](https://news.ycombinator.com/item?id=37626340) - [The Matching Problem in Dating](https://eriktorenberg.substack.com/p/the-matching-problem-in-dating)
 * [2023-09-23, 19:04:10](https://news.ycombinator.com/item?id=37626326) - [Project Gutenberg has implemented one of the worst AI fears of striking actors](https://qz.com/project-gutenberg-ai-to-ebooks-audiobooks-1850856297)
 * [2023-09-23, 18:57:03](https://news.ycombinator.com/item?id=37626273) - [iCloud Drive silently deletes your content](https://www.dominikmayer.com/2023/09/icloud-drive-silently-deletes-your-content/)
 * [2023-09-23, 18:34:27](https://news.ycombinator.com/item?id=37626025) - [I open-sourced Even the Ocean](https://melodicambient.substack.com/p/i-open-sourced-even-the-ocean-2016)
-* [2023-09-23, 18:28:58](https://news.ycombinator.com/item?id=37625973) - [Brainless Jellyfish Demonstrate Learning Ability](https://www.nytimes.com/2023/09/22/science/jellyfish-learning-neurons.html)
 * [2023-09-23, 17:21:56](https://news.ycombinator.com/item?id=37625291) - [The strange disappearance of Mrs Agatha Christie (2022)](https://blog.nationalarchives.gov.uk/20speople-investigating-the-strange-disappearance-of-mrs-agatha-christie/)
+* [2023-09-23, 17:21:17](https://news.ycombinator.com/item?id=37625283) - [Show HN: A “CRM” for your personal relationships](https://www.elim.app/eng/home)
 * [2023-09-23, 15:56:48](https://news.ycombinator.com/item?id=37624400) - [Show HN: I rewrote the 1990's LambdaMOO server](https://github.com/rdaum/moor)
 * [2023-09-23, 15:34:59](https://news.ycombinator.com/item?id=37624201) - [The vital art of talking to strangers](https://www.economist.com/books-and-arts/2021/07/10/the-vital-art-of-talking-to-strangers)
 * [2023-09-23, 15:27:15](https://news.ycombinator.com/item?id=37624128) - [Changes to Unity Plans and Pricing](https://unity.com/pricing-updates)
@@ -18,7 +19,6 @@
 * [2023-09-23, 14:03:29](https://news.ycombinator.com/item?id=37623314) - [CRISPR Silkworms Make Spider Silk That Defies Scientific Constraints](https://www.genengnews.com/topics/genome-editing/crispr-silkworms-make-spider-silk-that-defies-scientific-constraints/)
 * [2023-09-23, 13:21:10](https://news.ycombinator.com/item?id=37623000) - [Profile of Sabine Hossenfelder](https://www.npr.org/2023/09/23/1199469798/youtube-star-scientist-sabine-hossenfelder)
 * [2023-09-23, 13:20:41](https://news.ycombinator.com/item?id=37622997) - [Foot – A fast, lightweight and minimalistic Wayland terminal emulator](https://codeberg.org/dnkl/foot)
-* [2023-09-23, 12:58:03](https://news.ycombinator.com/item?id=37622863) - [School surveillance tools are harming kids, report finds](https://gizmodo.com/school-surveillance-harm-kids-homework-report-1850854919)
 * [2023-09-23, 12:34:59](https://news.ycombinator.com/item?id=37622714) - [Collecting and curating material is good and we should do it more](https://buttondown.email/hillelwayne/archive/in-defense-of/)
 * [2023-09-23, 12:32:36](https://news.ycombinator.com/item?id=37622702) - [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo)
 * [2023-09-23, 12:20:42](https://news.ycombinator.com/item?id=37622632) - [Coding Guidelines for Prolog (2011)](https://arxiv.org/abs/0911.2899)
@@ -28,8 +28,8 @@
 * [2023-09-22, 22:31:15](https://news.ycombinator.com/item?id=37618622) - [A magnificent 1850s house dubbed the Blue Belle of Brooklyn](https://ephemeralnewyork.wordpress.com/2023/09/18/the-story-of-a-magnificent-1850s-house-dubbed-the-blue-belle-of-brooklyn/)
 * [2023-09-22, 19:05:12](https://news.ycombinator.com/item?id=37616281) - [Digression 3: Corrosion – Rust Never Sleeps](https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/digression-3-corrosion-rust-never-sleeps/1)
 * [2023-09-22, 14:58:44](https://news.ycombinator.com/item?id=37612913) - [A Beginner's Guide to Neural Mechanisms](https://www.neuralmechanisms.org/videolectures.html)
+* [2023-09-22, 14:28:20](https://news.ycombinator.com/item?id=37612525) - [Responsive type scales with composable CSS utilities](https://tobiasahlin.com/blog/responsive-fluid-css-type-scales/)
 * [2023-09-22, 00:22:05](https://news.ycombinator.com/item?id=37606296) - [New tarantula species discovered in Thailand](https://phys.org/news/2023-09-jewel-forest-electric-blue-tarantula.html)
-* [2023-09-21, 12:16:55](https://news.ycombinator.com/item?id=37596513) - [It's okay to make something nobody wants](https://zhangluyao.com/blog/make-something-nobody-wants/)
 
 ## [Archives](archives/index.md)
 

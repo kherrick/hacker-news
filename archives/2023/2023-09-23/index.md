@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-23](index.md)
 
+* [2023-09-23, 19:44:56](https://news.ycombinator.com/item?id=37626731) - [Bottlerocket – Minimal, immutable Linux OS with verified boot](https://bottlerocket.dev)
 * [2023-09-23, 19:27:18](https://news.ycombinator.com/item?id=37626528) - [GNU/Linux Aviation How To](https://tldp.org/HOWTO/Aviation-HOWTO/index.html)
 * [2023-09-23, 19:20:06](https://news.ycombinator.com/item?id=37626458) - [The housing market is about to take a hit as student loan payments restart](https://markets.businessinsider.com/news/commodities/housing-market-student-loan-payments-restart-affordability-crisis-mortgage-rates-2023-8)
 * [2023-09-23, 19:05:57](https://news.ycombinator.com/item?id=37626340) - [The Matching Problem in Dating](https://eriktorenberg.substack.com/p/the-matching-problem-in-dating)
@@ -14,6 +15,7 @@
 * [2023-09-23, 18:28:58](https://news.ycombinator.com/item?id=37625973) - [Brainless Jellyfish Demonstrate Learning Ability](https://www.nytimes.com/2023/09/22/science/jellyfish-learning-neurons.html)
 * [2023-09-23, 17:54:42](https://news.ycombinator.com/item?id=37625627) - [Egyptian presidential hopeful targeted by Predator spyware](https://www.washingtonpost.com/investigations/2023/09/23/predator-egypt-hack-spyware-iphone/)
 * [2023-09-23, 17:21:56](https://news.ycombinator.com/item?id=37625291) - [The strange disappearance of Mrs Agatha Christie (2022)](https://blog.nationalarchives.gov.uk/20speople-investigating-the-strange-disappearance-of-mrs-agatha-christie/)
+* [2023-09-23, 17:21:17](https://news.ycombinator.com/item?id=37625283) - [Show HN: A “CRM” for your personal relationships](https://www.elim.app/eng/home)
 * [2023-09-23, 17:10:04](https://news.ycombinator.com/item?id=37625177) - [The era of America’s subminimum wage for tipped restaurant workers may be ending](https://www.cnbc.com/2023/09/23/the-era-of-the-subminimum-wage-for-tipped-restaurant-workers-is-ending.html)
 * [2023-09-23, 16:40:02](https://news.ycombinator.com/item?id=37624863) - [Woman loses over $44k after downloading third-party app to buy fish](https://www.straitstimes.com/singapore/woman-loses-over-44k-after-downloading-third-party-app-to-buy-fish)
 * [2023-09-23, 16:34:51](https://news.ycombinator.com/item?id=37624803) - [iPhone 15 Pro Max vs. DSLR photos: Real world camera comparison](https://9to5mac.com/2023/09/23/iphone-15-pro-max-vs-dslr-photo-comparison/)
