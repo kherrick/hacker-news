@@ -11,7 +11,6 @@
 * [2023-09-22, 18:30:08](https://news.ycombinator.com/item?id=37615801) - [Creator of Vue.js Evan You's Journey from Google Engineer to Open Source Pioneer](https://www.thisdot.co/blog/creator-of-vue-js-and-vite-evan-yous-journey-from-google-engineer-to-open/)
 * [2023-09-22, 18:28:57](https://news.ycombinator.com/item?id=37615783) - [Not only Clojure – Chez Scheme: Lisp with native code speed](https://yakihonne.com/article/naddr1qq2nw7n9va68s56dxf2x27z889v524z40f38wq3qu6qhg5ucu3xza4nlz94q90y720tr6l09avnq8y3yfp5qrv9v8susxpqqqp65wvyuq5c)
 * [2023-09-22, 18:08:00](https://news.ycombinator.com/item?id=37615480) - [Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://golang50shad.es)
-* [2023-09-22, 17:23:29](https://news.ycombinator.com/item?id=37614851) - [Show HN: Tome, aka Tom's Editor – a new command-line text editor](https://github.com/boutell/tome/blob/main/README.md)
 * [2023-09-22, 17:21:22](https://news.ycombinator.com/item?id=37614816) - [0-days exploited by commercial surveillance vendor in Egypt](https://blog.google/threat-analysis-group/0-days-exploited-by-commercial-surveillance-vendor-in-egypt/)
 * [2023-09-22, 16:36:32](https://news.ycombinator.com/item?id=37614194) - [TOFU: Do You Check?](https://cedwards.xyz/tofu-do-you-check/)
 * [2023-09-22, 16:35:15](https://news.ycombinator.com/item?id=37614177) - [Show HN: Rapidpages – OSS alternative to vercel's v0](https://github.com/rapidpages/rapidpages)
@@ -28,6 +27,7 @@
 * [2023-09-22, 04:43:22](https://news.ycombinator.com/item?id=37607963) - [The Frustration Loop](https://herman.bearblog.dev/the-frustration-loop/)
 * [2023-09-22, 02:26:31](https://news.ycombinator.com/item?id=37607150) - [Quantum Poetics](https://aeon.co/essays/borges-and-heisenberg-converged-on-the-slipperiness-of-language)
 * [2023-09-22, 00:31:09](https://news.ycombinator.com/item?id=37606373) - [Technique for 3D printing metals at the nanoscale reveals surprise benefit](https://phys.org/news/2023-09-technique-3d-metals-nanoscale-reveals.html)
+* [2023-09-21, 17:21:39](https://news.ycombinator.com/item?id=37600852) - [The WebP 0day](https://blog.isosceles.com/the-webp-0day/)
 * [2023-09-21, 15:46:41](https://news.ycombinator.com/item?id=37599413) - [The Carpet Makers](https://en.wikipedia.org/wiki/The_Carpet_Makers)
 * [2023-09-20, 07:27:32](https://news.ycombinator.com/item?id=37581405) - [Archaeologists find 500-year-old board game carved in ruins of Polish castle](https://arstechnica.com/science/2023/09/archaeologists-find-500-year-old-board-game-carved-in-ruins-of-polish-castle/)
 
