@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-09-22, 23:53:13",
-      "https://news.ycombinator.com/item?id=37619260"
+      "2023-09-23, 01:03:20",
+      "https://news.ycombinator.com/item?id=37619709"
     ],
     [
-      "Electronic Tiny TRS-80 Model III",
-      "https://transmutable.gumroad.com/l/e-trs-80-model-iii"
+      "Imbue (Formerly Generally Intelligent, YC S17) Is Hiring a Chief of Staff",
+      "https://news.ycombinator.com/item?id=37619709"
     ]
   ],
   [
@@ -21,12 +21,32 @@
   ],
   [
     [
-      "2023-09-22, 23:01:58",
-      "https://news.ycombinator.com/item?id=37618914"
+      "2023-09-22, 23:35:01",
+      "https://news.ycombinator.com/item?id=37619151"
     ],
     [
-      "An Update on Prime Video",
-      "https://www.aboutamazon.com/news/entertainment/prime-video-update-announces-limited-ads"
+      "Croc: Easily and securely send things from one computer to another",
+      "https://github.com/schollz/croc"
+    ]
+  ],
+  [
+    [
+      "2023-09-22, 23:27:48",
+      "https://news.ycombinator.com/item?id=37619100"
+    ],
+    [
+      "Show HN: TG – Fast geometry library for C",
+      "https://github.com/tidwall/tg"
+    ]
+  ],
+  [
+    [
+      "2023-09-22, 21:54:22",
+      "https://news.ycombinator.com/item?id=37618301"
+    ],
+    [
+      "Conway Can Divide by Three, but I Can’t [pdf]",
+      "https://math.berkeley.edu/~pglutz/division_by_three.pdf"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=37616513"
     ],
     [
-      "NASA JPL Open Source Rover That Runs ROS 2",
+      "JPL Open Source Rover Project",
       "https://github.com/nasa-jpl/open-source-rover"
     ]
   ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=37616033"
     ],
     [
-      "Run PostgreSQL. The Kubernetes Way",
+      "CloudNativePG – Postgres Operator for Kubernetes",
       "https://cloudnative-pg.io/"
     ]
   ],
@@ -77,16 +97,6 @@
     [
       "Not only Clojure – Chez Scheme: Lisp with native code speed",
       "https://yakihonne.com/article/naddr1qq2nw7n9va68s56dxf2x27z889v524z40f38wq3qu6qhg5ucu3xza4nlz94q90y720tr6l09avnq8y3yfp5qrv9v8susxpqqqp65wvyuq5c"
-    ]
-  ],
-  [
-    [
-      "2023-09-22, 18:28:50",
-      "https://news.ycombinator.com/item?id=37615779"
-    ],
-    [
-      "A framework for regression testing against Linux kernels",
-      "https://falco.org/blog/falco-kernel-testing/"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "0-days exploited by commercial surveillance vendor in Egypt",
       "https://blog.google/threat-analysis-group/0-days-exploited-by-commercial-surveillance-vendor-in-egypt/"
-    ]
-  ],
-  [
-    [
-      "2023-09-22, 16:38:56",
-      "https://news.ycombinator.com/item?id=37614216"
-    ],
-    [
-      "How to Roman Republic, Part IV: The Senate",
-      "https://acoup.blog/2023/09/22/collections-how-to-roman-republic-part-iv-the-senate/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2023-09-22, 12:02:25",
-      "https://news.ycombinator.com/item?id=37610864"
-    ],
-    [
-      "Zep: Fast, scalable building blocks for production LLM apps",
-      "https://github.com/getzep/zep"
-    ]
-  ],
-  [
-    [
       "2023-09-22, 10:25:00",
       "https://news.ycombinator.com/item?id=37610230"
     ],
@@ -287,6 +277,16 @@
     [
       "Quantum Poetics",
       "https://aeon.co/essays/borges-and-heisenberg-converged-on-the-slipperiness-of-language"
+    ]
+  ],
+  [
+    [
+      "2023-09-22, 00:31:09",
+      "https://news.ycombinator.com/item?id=37606373"
+    ],
+    [
+      "Technique for 3D printing metals at the nanoscale reveals surprise benefit",
+      "https://phys.org/news/2023-09-technique-3d-metals-nanoscale-reveals.html"
     ]
   ],
   [
