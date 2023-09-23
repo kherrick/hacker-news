@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-23](index.md)
 
+* [2023-09-23, 12:20:42](https://news.ycombinator.com/item?id=37622632) - [Coding Guidelines for Prolog (2011)](https://arxiv.org/abs/0911.2899)
 * [2023-09-23, 12:01:15](https://news.ycombinator.com/item?id=37622491) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-09-23, 10:47:25](https://news.ycombinator.com/item?id=37622072) - [Landchad: A site dedicated to turn web peasants into Internet LandChads](https://landchad.net)
 * [2023-09-23, 10:45:28](https://news.ycombinator.com/item?id=37622064) - [Fossil versus Git](https://www.fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki)
