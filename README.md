@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-23, 19:27:18](https://news.ycombinator.com/item?id=37626528) - [GNU/Linux Aviation How To](https://tldp.org/HOWTO/Aviation-HOWTO/index.html)
+* [2023-09-23, 19:20:06](https://news.ycombinator.com/item?id=37626458) - [The housing market is about to take a hit as student loan payments restart](https://markets.businessinsider.com/news/commodities/housing-market-student-loan-payments-restart-affordability-crisis-mortgage-rates-2023-8)
 * [2023-09-23, 19:04:10](https://news.ycombinator.com/item?id=37626326) - [Project Gutenberg has implemented one of the worst AI fears of striking actors](https://qz.com/project-gutenberg-ai-to-ebooks-audiobooks-1850856297)
 * [2023-09-23, 18:57:03](https://news.ycombinator.com/item?id=37626273) - [iCloud Drive silently deletes your content](https://www.dominikmayer.com/2023/09/icloud-drive-silently-deletes-your-content/)
 * [2023-09-23, 18:34:27](https://news.ycombinator.com/item?id=37626025) - [I open-sourced Even the Ocean](https://melodicambient.substack.com/p/i-open-sourced-even-the-ocean-2016)
@@ -12,7 +14,6 @@
 * [2023-09-23, 14:29:55](https://news.ycombinator.com/item?id=37623562) - [Blocking Visual Studio Code embedded reverse shell before it's too late](https://ipfyx.fr/post/visual-studio-code-tunnel/)
 * [2023-09-23, 14:29:25](https://news.ycombinator.com/item?id=37623557) - [Show HN: LLM Agent Paper List](https://github.com/WooooDyy/LLM-Agent-Paper-List)
 * [2023-09-23, 14:15:33](https://news.ycombinator.com/item?id=37623405) - [India fails to re-establish communication with its Moon probe](https://efe.com/en/science-and-technology/2023-09-22/india-fails-to-re-establish-communication-with-its-moon-probe/)
-* [2023-09-23, 14:03:29](https://news.ycombinator.com/item?id=37623314) - [CRISPR Silkworms Make Spider Silk That Defies Scientific Constraints](https://www.genengnews.com/topics/genome-editing/crispr-silkworms-make-spider-silk-that-defies-scientific-constraints/)
 * [2023-09-23, 13:21:10](https://news.ycombinator.com/item?id=37623000) - [Profile of Sabine Hossenfelder](https://www.npr.org/2023/09/23/1199469798/youtube-star-scientist-sabine-hossenfelder)
 * [2023-09-23, 13:20:41](https://news.ycombinator.com/item?id=37622997) - [Foot – A fast, lightweight and minimalistic Wayland terminal emulator](https://codeberg.org/dnkl/foot)
 * [2023-09-23, 13:14:49](https://news.ycombinator.com/item?id=37622955) - [Linux terminal emulators have the potential of being much faster](https://www.phoronix.com/news/Linux-Terminals-Could-Be-Faster)
@@ -21,7 +22,6 @@
 * [2023-09-23, 12:32:36](https://news.ycombinator.com/item?id=37622702) - [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo)
 * [2023-09-23, 12:20:42](https://news.ycombinator.com/item?id=37622632) - [Coding Guidelines for Prolog (2011)](https://arxiv.org/abs/0911.2899)
 * [2023-09-23, 12:01:15](https://news.ycombinator.com/item?id=37622491) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-* [2023-09-23, 07:18:39](https://news.ycombinator.com/item?id=37621274) - [Shshsh is a bridge connects Python and shell](https://github.com/zqqqqz2000/shshsh)
 * [2023-09-23, 01:42:38](https://news.ycombinator.com/item?id=37619912) - [Deep genetic structure of Africa reveals unique ancestry of the Angolan Namib](https://phys.org/news/2023-09-deep-genetic-africa-reveals-unique.html)
 * [2023-09-22, 23:45:45](https://news.ycombinator.com/item?id=37619207) - [The Romantic Sufi: The Divan of Kamal Khujandi Copied by Jaʿfar Tabrizi](https://blogs.bl.uk/asian-and-african/2023/09/the-romantic-sufi.html)
 * [2023-09-22, 22:31:15](https://news.ycombinator.com/item?id=37618622) - [A magnificent 1850s house dubbed the Blue Belle of Brooklyn](https://ephemeralnewyork.wordpress.com/2023/09/18/the-story-of-a-magnificent-1850s-house-dubbed-the-blue-belle-of-brooklyn/)

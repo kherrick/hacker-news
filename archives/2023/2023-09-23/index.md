@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-23](index.md)
 
+* [2023-09-23, 19:27:18](https://news.ycombinator.com/item?id=37626528) - [GNU/Linux Aviation How To](https://tldp.org/HOWTO/Aviation-HOWTO/index.html)
+* [2023-09-23, 19:20:06](https://news.ycombinator.com/item?id=37626458) - [The housing market is about to take a hit as student loan payments restart](https://markets.businessinsider.com/news/commodities/housing-market-student-loan-payments-restart-affordability-crisis-mortgage-rates-2023-8)
 * [2023-09-23, 19:04:10](https://news.ycombinator.com/item?id=37626326) - [Project Gutenberg has implemented one of the worst AI fears of striking actors](https://qz.com/project-gutenberg-ai-to-ebooks-audiobooks-1850856297)
 * [2023-09-23, 18:57:03](https://news.ycombinator.com/item?id=37626273) - [iCloud Drive silently deletes your content](https://www.dominikmayer.com/2023/09/icloud-drive-silently-deletes-your-content/)
 * [2023-09-23, 18:41:43](https://news.ycombinator.com/item?id=37626106) - [We Fixed the iPhone 15](https://twitter.com/FrameworkPuter/status/1705458267508609052)
