@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-23](index.md)
 
+* [2023-09-23, 04:54:08](https://news.ycombinator.com/item?id=37620665) - [American Labor’s Real Problem: It Isn’t Productive Enough](https://www.wsj.com/economy/american-labors-real-problem-it-isnt-productive-enough-185fb9f1)
 * [2023-09-23, 04:06:23](https://news.ycombinator.com/item?id=37620507) - [MIT 6.5940: TinyML and Efficient Deep Learning Computing](https://efficientml.ai/)
 * [2023-09-23, 03:11:07](https://news.ycombinator.com/item?id=37620298) - [Teaching Software Engineering in DLang [pdf]](https://dconf.org/2023/slides/shah_and_students.pdf)
 * [2023-09-23, 02:11:46](https://news.ycombinator.com/item?id=37620043) - [Show HN: ChatGPT for Med-School and Healthcare](https://chat.radiantai.health/)

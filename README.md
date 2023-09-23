@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-23, 04:54:08](https://news.ycombinator.com/item?id=37620665) - [American Labor’s Real Problem: It Isn’t Productive Enough](https://www.wsj.com/economy/american-labors-real-problem-it-isnt-productive-enough-185fb9f1)
 * [2023-09-23, 04:06:23](https://news.ycombinator.com/item?id=37620507) - [MIT 6.5940: TinyML and Efficient Deep Learning Computing](https://efficientml.ai/)
 * [2023-09-23, 03:11:07](https://news.ycombinator.com/item?id=37620298) - [Teaching Software Engineering in DLang [pdf]](https://dconf.org/2023/slides/shah_and_students.pdf)
 * [2023-09-23, 02:11:46](https://news.ycombinator.com/item?id=37620043) - [Show HN: ChatGPT for Med-School and Healthcare](https://chat.radiantai.health/)
@@ -28,7 +29,6 @@
 * [2023-09-22, 08:22:28](https://news.ycombinator.com/item?id=37609393) - [I made a transformer to predict a simple sequence manually](https://vgel.me/posts/handmade-transformer/)
 * [2023-09-22, 04:43:22](https://news.ycombinator.com/item?id=37607963) - [The Frustration Loop](https://herman.bearblog.dev/the-frustration-loop/)
 * [2023-09-22, 00:31:09](https://news.ycombinator.com/item?id=37606373) - [Technique for 3D printing metals at the nanoscale reveals surprise benefit](https://phys.org/news/2023-09-technique-3d-metals-nanoscale-reveals.html)
-* [2023-09-21, 15:46:41](https://news.ycombinator.com/item?id=37599413) - [The Carpet Makers](https://en.wikipedia.org/wiki/The_Carpet_Makers)
 * [2023-09-21, 12:16:55](https://news.ycombinator.com/item?id=37596513) - [It's okay to make something nobody wants](https://zhangluyao.com/blog/make-something-nobody-wants/)
 
 ## [Archives](archives/index.md)
