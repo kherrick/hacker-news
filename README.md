@@ -20,7 +20,6 @@
 * [2023-09-23, 11:14:52](https://news.ycombinator.com/item?id=37622184) - [Imba – The friendly full-stack language](https://imba.io/)
 * [2023-09-23, 07:18:39](https://news.ycombinator.com/item?id=37621274) - [Shshsh is a bridge connects Python and shell](https://github.com/zqqqqz2000/shshsh)
 * [2023-09-23, 04:43:16](https://news.ycombinator.com/item?id=37620634) - [State of HTML 2023 now open](https://lea.verou.me/blog/2023/state-of-html-2023/)
-* [2023-09-23, 04:06:23](https://news.ycombinator.com/item?id=37620507) - [TinyML and Efficient Deep Learning Computing](https://efficientml.ai/)
 * [2023-09-23, 03:27:56](https://news.ycombinator.com/item?id=37620367) - [The Year Lou Reed Gave Up on Music](https://www.nytimes.com/2023/09/22/nyregion/lou-reed-king-of-new-york.html)
 * [2023-09-23, 03:11:07](https://news.ycombinator.com/item?id=37620298) - [Teaching Software Engineering in DLang [pdf]](https://dconf.org/2023/slides/shah_and_students.pdf)
 * [2023-09-23, 01:42:38](https://news.ycombinator.com/item?id=37619912) - [Deep genetic structure of Africa reveals unique ancestry of the Angolan Namib](https://phys.org/news/2023-09-deep-genetic-africa-reveals-unique.html)
@@ -28,6 +27,7 @@
 * [2023-09-22, 22:31:15](https://news.ycombinator.com/item?id=37618622) - [A magnificent 1850s house dubbed the Blue Belle of Brooklyn](https://ephemeralnewyork.wordpress.com/2023/09/18/the-story-of-a-magnificent-1850s-house-dubbed-the-blue-belle-of-brooklyn/)
 * [2023-09-22, 19:05:12](https://news.ycombinator.com/item?id=37616281) - [Digression 3: Corrosion – Rust Never Sleeps](https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/digression-3-corrosion-rust-never-sleeps/1)
 * [2023-09-22, 17:21:22](https://news.ycombinator.com/item?id=37614816) - [0-days exploited by commercial surveillance vendor in Egypt](https://blog.google/threat-analysis-group/0-days-exploited-by-commercial-surveillance-vendor-in-egypt/)
+* [2023-09-22, 04:43:22](https://news.ycombinator.com/item?id=37607963) - [The Frustration Loop](https://herman.bearblog.dev/the-frustration-loop/)
 * [2023-09-22, 00:22:05](https://news.ycombinator.com/item?id=37606296) - [Jewel of the forest: New electric blue tarantula species discovered in Thailand](https://phys.org/news/2023-09-jewel-forest-electric-blue-tarantula.html)
 * [2023-09-21, 12:16:55](https://news.ycombinator.com/item?id=37596513) - [It's okay to make something nobody wants](https://zhangluyao.com/blog/make-something-nobody-wants/)
 
