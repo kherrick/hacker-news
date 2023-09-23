@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-09-23, 12:26:13",
-      "https://news.ycombinator.com/item?id=37622671"
-    ],
-    [
-      "MGM Grand hiring a RHEL SysAdmin willing to work 10 hours/day 7 days/week",
-      "https://twitter.com/LasVegasLocally/status/1704986596439941601"
-    ]
-  ],
-  [
-    [
       "2023-09-23, 12:20:42",
       "https://news.ycombinator.com/item?id=37622632"
     ],
@@ -217,6 +207,16 @@
     [
       "Digression 3: Corrosion – Rust Never Sleeps",
       "https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/digression-3-corrosion-rust-never-sleeps/1"
+    ]
+  ],
+  [
+    [
+      "2023-09-22, 18:47:37",
+      "https://news.ycombinator.com/item?id=37616033"
+    ],
+    [
+      "CloudNativePG – Postgres Operator for Kubernetes",
+      "https://cloudnative-pg.io/"
     ]
   ],
   [
