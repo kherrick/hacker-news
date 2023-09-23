@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-09-23](index.md)
 
+* [2023-09-23, 14:21:52](https://news.ycombinator.com/item?id=37623479) - [Spyware can infect your phone or computer via the ads you see online – report](https://theconversation.com/spyware-can-infect-your-phone-or-computer-via-the-ads-you-see-online-report-213685)
+* [2023-09-23, 14:15:33](https://news.ycombinator.com/item?id=37623405) - [India fails to re-establish communication with its Moon probe](https://efe.com/en/science-and-technology/2023-09-22/india-fails-to-re-establish-communication-with-its-moon-probe/)
 * [2023-09-23, 13:54:38](https://news.ycombinator.com/item?id=37623230) - [Sesame Street – Count to 12 [video]](https://www.youtube.com/watch?v=VOaZbaPzdsk)
 * [2023-09-23, 13:36:18](https://news.ycombinator.com/item?id=37623086) - [Ask HN: How do I stop overthinking personal project management?](https://news.ycombinator.com/item?id=37623086)
 * [2023-09-23, 13:21:10](https://news.ycombinator.com/item?id=37623000) - [She got famous on YouTube. Now it helps fund her research in quantum gravity](https://text.npr.org/1199469798)
+* [2023-09-23, 13:20:41](https://news.ycombinator.com/item?id=37622997) - [Foot – A fast, lightweight and minimalistic Wayland terminal emulator](https://codeberg.org/dnkl/foot)
 * [2023-09-23, 13:14:49](https://news.ycombinator.com/item?id=37622955) - [Linux Terminal Emulators Have the Potential of Being Much Faster](https://www.phoronix.com/news/Linux-Terminals-Could-Be-Faster)
 * [2023-09-23, 12:58:03](https://news.ycombinator.com/item?id=37622863) - [School Surveillance Tools Are Harming Kids](https://gizmodo.com/school-surveillance-harm-kids-homework-report-1850854919)
 * [2023-09-23, 12:34:59](https://news.ycombinator.com/item?id=37622714) - [Collecting and curating material is good and we should do it more](https://buttondown.email/hillelwayne/archive/in-defense-of/)
