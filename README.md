@@ -2,7 +2,6 @@
 
 * [2023-09-23, 01:15:02](https://news.ycombinator.com/item?id=37619766) - [Are NFTs Dead?](https://dappgambl.com/nfts/dead-nfts/)
 * [2023-09-23, 01:03:20](https://news.ycombinator.com/item?id=37619709) - [Imbue (Formerly Generally Intelligent, YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=37619709)
-* [2023-09-22, 23:46:56](https://news.ycombinator.com/item?id=37619219) - [LastPass: ‘Horse Gone Barn Bolted’ Is Strong Password](https://krebsonsecurity.com/2023/09/lastpass-horse-gone-barn-bolted-is-strong-password/)
 * [2023-09-22, 23:35:01](https://news.ycombinator.com/item?id=37619151) - [Croc: Easily and securely send things from one computer to another](https://github.com/schollz/croc)
 * [2023-09-22, 23:27:48](https://news.ycombinator.com/item?id=37619100) - [Show HN: TG – Fast geometry library for C](https://github.com/tidwall/tg)
 * [2023-09-22, 21:54:22](https://news.ycombinator.com/item?id=37618301) - [Conway Can Divide by Three, but I Can’t [pdf]](https://math.berkeley.edu/~pglutz/division_by_three.pdf)
@@ -21,6 +20,7 @@
 * [2023-09-22, 15:02:57](https://news.ycombinator.com/item?id=37612975) - [Java 21: The Nice, the Meh, and the Momentous](https://horstmann.com/unblog/2023-09-19/index.html)
 * [2023-09-22, 14:21:22](https://news.ycombinator.com/item?id=37612420) - [GitHub Actions could be so much better](https://blog.yossarian.net/2023/09/22/GitHub-Actions-could-be-so-much-better)
 * [2023-09-22, 13:02:21](https://news.ycombinator.com/item?id=37611457) - [Show HN: Learn piano without sheet music](https://jacobdoescode.com/piano-tabs)
+* [2023-09-22, 12:43:28](https://news.ycombinator.com/item?id=37611257) - [Bambu Lab A1 Mini](https://bambulab.com/en-eu/a1-mini)
 * [2023-09-22, 12:31:12](https://news.ycombinator.com/item?id=37611136) - [Principles for building and scaling feature flag systems](https://docs.getunleash.io/topics/feature-flags/feature-flag-best-practices)
 * [2023-09-22, 12:06:42](https://news.ycombinator.com/item?id=37610899) - [Ways to capture changes in Postgres](https://blog.sequin.io/all-the-ways-to-capture-changes-in-postgres/)
 * [2023-09-22, 10:02:32](https://news.ycombinator.com/item?id=37610083) - [Choosing a more optimal `String` type](https://swatinem.de/blog/optimized-strings/)

@@ -55,6 +55,7 @@
 * [2023-09-22, 13:57:24](https://news.ycombinator.com/item?id=37612127) - [Valve Is a Wonderful Upstream Contributor to Linux and the Open-Source Community](https://www.phoronix.com/news/Valve-Upstream-Everything-OSS)
 * [2023-09-22, 13:22:17](https://news.ycombinator.com/item?id=37611708) - [Sites like HN on other topics?](https://news.ycombinator.com/item?id=37611708)
 * [2023-09-22, 13:02:21](https://news.ycombinator.com/item?id=37611457) - [Show HN: Learn piano without sheet music](https://jacobdoescode.com/piano-tabs)
+* [2023-09-22, 12:43:28](https://news.ycombinator.com/item?id=37611257) - [Bambu Lab A1 Mini](https://bambulab.com/en-eu/a1-mini)
 * [2023-09-22, 12:39:06](https://news.ycombinator.com/item?id=37611213) - [Tailscale Kubernetes Operator](https://tailscale.com/kb/1236/kubernetes-operator/)
 * [2023-09-22, 12:36:09](https://news.ycombinator.com/item?id=37611191) - [Amazon Prime Video content to start including ads next year](https://www.bbc.co.uk/news/business-66887717)
 * [2023-09-22, 12:31:12](https://news.ycombinator.com/item?id=37611136) - [11 Principles for building and scaling feature flag systems](https://docs.getunleash.io/topics/feature-flags/feature-flag-best-practices)
