@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-23, 01:15:02](https://news.ycombinator.com/item?id=37619766) - [Are NFTs Dead?](https://dappgambl.com/nfts/dead-nfts/)
+* [2023-09-23, 01:15:02](https://news.ycombinator.com/item?id=37619766) - [Are NFTs Dead? Trends, Predictions and Statistics 2023](https://dappgambl.com/nfts/dead-nfts/)
 * [2023-09-23, 01:03:20](https://news.ycombinator.com/item?id=37619709) - [Imbue (Formerly Generally Intelligent, YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=37619709)
 * [2023-09-22, 23:35:01](https://news.ycombinator.com/item?id=37619151) - [Croc: Easily and securely send things from one computer to another](https://github.com/schollz/croc)
 * [2023-09-22, 23:27:48](https://news.ycombinator.com/item?id=37619100) - [Show HN: TG – Fast geometry library for C](https://github.com/tidwall/tg)
