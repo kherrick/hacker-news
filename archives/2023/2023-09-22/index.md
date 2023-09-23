@@ -54,6 +54,7 @@
 * [2023-09-22, 15:08:32](https://news.ycombinator.com/item?id=37613054) - [Show HN: Paisa – Open-Source Personal Finance Manager](https://paisa.fyi/)
 * [2023-09-22, 15:02:57](https://news.ycombinator.com/item?id=37612975) - [Java 21: The Nice, the Meh, and the Momentous](https://horstmann.com/unblog/2023-09-19/index.html)
 * [2023-09-22, 15:02:34](https://news.ycombinator.com/item?id=37612968) - [Working Remotely Can More Than Halve an Office Employee’s Carbon Footprint](https://www.scientificamerican.com/article/working-remotely-can-more-than-halve-an-office-employees-carbon-footprint/)
+* [2023-09-22, 14:58:44](https://news.ycombinator.com/item?id=37612913) - [A Beginner's Guide to Neural Mechanisms](https://www.neuralmechanisms.org/videolectures.html)
 * [2023-09-22, 14:48:55](https://news.ycombinator.com/item?id=37612783) - [Final National Security Guardrails for Chips for America Incentives Program](https://www.nist.gov/news-events/news/2023/09/biden-harris-administration-announces-final-national-security-guardrails)
 * [2023-09-22, 14:43:04](https://news.ycombinator.com/item?id=37612699) - [Android to take an “upstream first” development model for the Linux kernel](https://arstechnica.com/gadgets/2021/09/android-to-take-an-upstream-first-development-model-for-the-linux-kernel/)
 * [2023-09-22, 14:42:46](https://news.ycombinator.com/item?id=37612694) - [Sumario now Open Source and runs on Fly.io](https://sumar.io)
