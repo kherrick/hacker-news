@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
+* [2023-09-22, 23:53:13](https://news.ycombinator.com/item?id=37619260) - [Electronic Tiny TRS-80 Model III](https://transmutable.gumroad.com/l/e-trs-80-model-iii)
+* [2023-09-22, 23:46:56](https://news.ycombinator.com/item?id=37619219) - [LastPass: ‘Horse Gone Barn Bolted’ Is Strong Password](https://krebsonsecurity.com/2023/09/lastpass-horse-gone-barn-bolted-is-strong-password/)
+* [2023-09-22, 23:01:58](https://news.ycombinator.com/item?id=37618914) - [An Update on Prime Video](https://www.aboutamazon.com/news/entertainment/prime-video-update-announces-limited-ads)
 * [2023-09-22, 21:31:37](https://news.ycombinator.com/item?id=37618055) - [The Radio Station That Bridge Built](https://www.nutsvolts.com/magazine/article/the-radio-station-that-bridge-built)
 * [2023-09-22, 21:29:39](https://news.ycombinator.com/item?id=37618037) - [Can Govt Debt Solve Fertility?](https://www.overcomingbias.com/p/can-govt-debt-solve-fertility)
 * [2023-09-22, 21:12:51](https://news.ycombinator.com/item?id=37617864) - [iOS 17 Is a Prude](https://old.reddit.com/r/iphone/comments/16nqk30/ios_17_is_a_prude/)
@@ -22,6 +25,7 @@
 * [2023-09-22, 18:47:37](https://news.ycombinator.com/item?id=37616033) - [Run PostgreSQL. The Kubernetes Way](https://cloudnative-pg.io/)
 * [2023-09-22, 18:30:08](https://news.ycombinator.com/item?id=37615801) - [Creator of Vue.js Evan You's Journey from Google Engineer to Open Source Pioneer](https://www.thisdot.co/blog/creator-of-vue-js-and-vite-evan-yous-journey-from-google-engineer-to-open/)
 * [2023-09-22, 18:28:57](https://news.ycombinator.com/item?id=37615783) - [Not only Clojure – Chez Scheme: Lisp with native code speed](https://yakihonne.com/article/naddr1qq2nw7n9va68s56dxf2x27z889v524z40f38wq3qu6qhg5ucu3xza4nlz94q90y720tr6l09avnq8y3yfp5qrv9v8susxpqqqp65wvyuq5c)
+* [2023-09-22, 18:28:50](https://news.ycombinator.com/item?id=37615779) - [A framework for regression testing against Linux kernels](https://falco.org/blog/falco-kernel-testing/)
 * [2023-09-22, 18:22:44](https://news.ycombinator.com/item?id=37615695) - [UK Government Extends Petrol and Diesel Car Sales Until 2035](https://www.motaclarity.co.uk/news/uk-government-extends-petrol-and-diesel-car-sales-until-2035)
 * [2023-09-22, 18:17:57](https://news.ycombinator.com/item?id=37615638) - [When half a million Americans died and nobody noticed (2012)](https://theweek.com/us/46535/when-half-million-americans-died-and-nobody-noticed)
 * [2023-09-22, 18:08:00](https://news.ycombinator.com/item?id=37615480) - [Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://golang50shad.es)
