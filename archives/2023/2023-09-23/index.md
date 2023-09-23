@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-23](index.md)
 
+* [2023-09-23, 13:36:18](https://news.ycombinator.com/item?id=37623086) - [Ask HN: How do I stop overthinking personal project management?](https://news.ycombinator.com/item?id=37623086)
 * [2023-09-23, 12:58:03](https://news.ycombinator.com/item?id=37622863) - [School Surveillance Tools Are Harming Kids](https://gizmodo.com/school-surveillance-harm-kids-homework-report-1850854919)
+* [2023-09-23, 12:34:59](https://news.ycombinator.com/item?id=37622714) - [Collecting and curating material is good and we should do it more](https://buttondown.email/hillelwayne/archive/in-defense-of/)
+* [2023-09-23, 12:32:36](https://news.ycombinator.com/item?id=37622702) - [My solopreneur story: zero to $45K/mo in 2 years](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo)
 * [2023-09-23, 12:26:13](https://news.ycombinator.com/item?id=37622671) - [MGM Grand hiring a RHEL SysAdmin willing to work 10 hours/day 7 days/week](https://twitter.com/LasVegasLocally/status/1704986596439941601)
 * [2023-09-23, 12:20:42](https://news.ycombinator.com/item?id=37622632) - [Coding Guidelines for Prolog (2011)](https://arxiv.org/abs/0911.2899)
 * [2023-09-23, 12:01:15](https://news.ycombinator.com/item?id=37622491) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
@@ -24,6 +27,7 @@
 * [2023-09-23, 03:11:07](https://news.ycombinator.com/item?id=37620298) - [Teaching Software Engineering in DLang [pdf]](https://dconf.org/2023/slides/shah_and_students.pdf)
 * [2023-09-23, 02:49:07](https://news.ycombinator.com/item?id=37620197) - [FEMA and FCC Plan Nationwide Emergency Alert Test for Oct. 4, 2023](https://www.fema.gov/press-release/20230803/fema-and-fcc-plan-nationwide-emergency-alert-test-oct-4-2023)
 * [2023-09-23, 02:11:46](https://news.ycombinator.com/item?id=37620043) - [Show HN: ChatGPT for Med-School and Healthcare](https://chat.radiantai.health/)
+* [2023-09-23, 01:42:38](https://news.ycombinator.com/item?id=37619912) - [Deep genetic structure of Africa reveals unique ancestry of the Angolan Namib](https://phys.org/news/2023-09-deep-genetic-africa-reveals-unique.html)
 * [2023-09-23, 01:38:14](https://news.ycombinator.com/item?id=37619886) - [Why are you better at recognizing upright faces?](https://medicalxpress.com/news/2023-09-upright-clues-person-world-differently.html)
 * [2023-09-23, 01:15:02](https://news.ycombinator.com/item?id=37619766) - [Are NFTs Dead?](https://dappgambl.com/nfts/dead-nfts/)
 * [2023-09-23, 01:03:20](https://news.ycombinator.com/item?id=37619709) - [Imbue (Formerly Generally Intelligent, YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=37619709)
