@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-23](index.md)
 
+* [2023-09-23, 18:34:27](https://news.ycombinator.com/item?id=37626025) - [I open-sourced Even the Ocean! But why?](https://melodicambient.substack.com/p/i-open-sourced-even-the-ocean-2016)
+* [2023-09-23, 17:54:42](https://news.ycombinator.com/item?id=37625627) - [Egyptian presidential hopeful targeted by Predator spyware](https://www.washingtonpost.com/investigations/2023/09/23/predator-egypt-hack-spyware-iphone/)
 * [2023-09-23, 17:21:56](https://news.ycombinator.com/item?id=37625291) - [The strange disappearance of Mrs Agatha Christie (2022)](https://blog.nationalarchives.gov.uk/20speople-investigating-the-strange-disappearance-of-mrs-agatha-christie/)
 * [2023-09-23, 17:10:04](https://news.ycombinator.com/item?id=37625177) - [The era of America’s subminimum wage for tipped restaurant workers may be ending](https://www.cnbc.com/2023/09/23/the-era-of-the-subminimum-wage-for-tipped-restaurant-workers-is-ending.html)
 * [2023-09-23, 16:40:02](https://news.ycombinator.com/item?id=37624863) - [Woman loses over $44k after downloading third-party app to buy fish](https://www.straitstimes.com/singapore/woman-loses-over-44k-after-downloading-third-party-app-to-buy-fish)
