@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-23](index.md)
 
+* [2023-09-23, 23:39:09](https://news.ycombinator.com/item?id=37628674) - [Markets and Technology Won’t Solve Climate Crisis. We Must End Capitalism](https://truthout.org/articles/markets-and-technology-wont-solve-climate-crisis-we-must-end-capitalism/)
+* [2023-09-23, 23:17:45](https://news.ycombinator.com/item?id=37628550) - [Eating Fossils](https://www.palass.org/publications/newsletter/eating-fossils)
 * [2023-09-23, 22:31:33](https://news.ycombinator.com/item?id=37628168) - [SpaceX’s Starlink surpasses 2M active customers](https://twitter.com/Starlink/status/1705695980325323023)
 * [2023-09-23, 21:36:21](https://news.ycombinator.com/item?id=37627782) - [The Unforeseen LSD Overdose of 1972](https://notsoprofound.com/the-unforeseen-lsd-overdose-of-1972/)
 * [2023-09-23, 21:30:23](https://news.ycombinator.com/item?id=37627745) - [EU fines Intel $400M for blocking AMD's market access](https://www.neowin.net/news/eu-fines-intel-400-million-for-blocking-amds-market-access-through-payments-to-pc-makers/)

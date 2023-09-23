@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-23, 23:39:09](https://news.ycombinator.com/item?id=37628674) - [Markets and Technology Won’t Solve Climate Crisis. We Must End Capitalism](https://truthout.org/articles/markets-and-technology-wont-solve-climate-crisis-we-must-end-capitalism/)
+* [2023-09-23, 23:17:45](https://news.ycombinator.com/item?id=37628550) - [Eating Fossils](https://www.palass.org/publications/newsletter/eating-fossils)
 * [2023-09-23, 21:36:21](https://news.ycombinator.com/item?id=37627782) - [The Unforeseen LSD Overdose of 1972](https://notsoprofound.com/the-unforeseen-lsd-overdose-of-1972/)
 * [2023-09-23, 21:30:23](https://news.ycombinator.com/item?id=37627745) - [EU fines Intel $400M for blocking AMD's market access](https://www.neowin.net/news/eu-fines-intel-400-million-for-blocking-amds-market-access-through-payments-to-pc-makers/)
 * [2023-09-23, 21:14:13](https://news.ycombinator.com/item?id=37627615) - [Neural-Symbolic Recursive Machine for Systematic Generalization](https://arxiv.org/abs/2210.01603)
@@ -16,7 +18,6 @@
 * [2023-09-23, 15:56:48](https://news.ycombinator.com/item?id=37624400) - [Show HN: I rewrote the 1990's LambdaMOO server](https://github.com/rdaum/moor)
 * [2023-09-23, 15:34:59](https://news.ycombinator.com/item?id=37624201) - [The vital art of talking to strangers (2021)](https://www.economist.com/books-and-arts/2021/07/10/the-vital-art-of-talking-to-strangers)
 * [2023-09-23, 15:10:22](https://news.ycombinator.com/item?id=37623955) - [Why scalpers can get tickets](https://www.404media.co/why-scalpers-can-get-olivia-rodrigo-tickets-and-fans-cannot/)
-* [2023-09-23, 14:15:33](https://news.ycombinator.com/item?id=37623405) - [India fails to re-establish communication with its Moon probe](https://efe.com/en/science-and-technology/2023-09-22/india-fails-to-re-establish-communication-with-its-moon-probe/)
 * [2023-09-23, 14:03:29](https://news.ycombinator.com/item?id=37623314) - [CRISPR silkworms make spider silk that defies constraints](https://www.genengnews.com/topics/genome-editing/crispr-silkworms-make-spider-silk-that-defies-scientific-constraints/)
 * [2023-09-23, 13:54:38](https://news.ycombinator.com/item?id=37623230) - [Sesame Street Pinball Number Count [video]](https://www.youtube.com/watch?v=VOaZbaPzdsk)
 * [2023-09-23, 13:20:41](https://news.ycombinator.com/item?id=37622997) - [Foot – A fast, lightweight and minimalistic Wayland terminal emulator](https://codeberg.org/dnkl/foot)
@@ -24,7 +25,6 @@
 * [2023-09-23, 12:32:36](https://news.ycombinator.com/item?id=37622702) - [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo)
 * [2023-09-23, 12:20:42](https://news.ycombinator.com/item?id=37622632) - [Coding Guidelines for Prolog (2011)](https://arxiv.org/abs/0911.2899)
 * [2023-09-23, 03:27:56](https://news.ycombinator.com/item?id=37620367) - [The year Lou Reed gave up on music](https://www.nytimes.com/2023/09/22/nyregion/lou-reed-king-of-new-york.html)
-* [2023-09-23, 01:42:38](https://news.ycombinator.com/item?id=37619912) - [Deep genetic structure of Africa reveals unique ancestry of the Angolan Namib](https://phys.org/news/2023-09-deep-genetic-africa-reveals-unique.html)
 * [2023-09-22, 16:17:09](https://news.ycombinator.com/item?id=37613939) - [Parallelizing non-linear sequential models over the sequence length](https://arxiv.org/abs/2309.12252)
 * [2023-09-22, 15:24:18](https://news.ycombinator.com/item?id=37613264) - [Generations-based map vs. sparse map](https://quasilyte.dev/blog/post/gen-map/)
 * [2023-09-22, 14:58:44](https://news.ycombinator.com/item?id=37612913) - [A beginner's guide to neural mechanisms](https://www.neuralmechanisms.org/videolectures.html)
