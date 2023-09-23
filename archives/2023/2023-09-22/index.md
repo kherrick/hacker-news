@@ -25,6 +25,7 @@
 * [2023-09-22, 19:54:12](https://news.ycombinator.com/item?id=37616919) - [Ask HN: What are some communities like HN?](https://news.ycombinator.com/item?id=37616919)
 * [2023-09-22, 19:26:19](https://news.ycombinator.com/item?id=37616544) - [Abraham Lincoln assassination Ford's Theatre tickets up for auction](https://www.rrauction.com/auctions/lot-detail/347903406696018-abraham-lincoln-assassination-2-fords-theatre-front-row-tickets-from-april-14-1865-ex-forbes-collection)
 * [2023-09-22, 19:23:59](https://news.ycombinator.com/item?id=37616513) - [NASA JPL Open Source Rover That Runs ROS 2](https://github.com/nasa-jpl/open-source-rover)
+* [2023-09-22, 19:05:12](https://news.ycombinator.com/item?id=37616281) - [Digression 3: Corrosion – Rust Never Sleeps](https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/digression-3-corrosion-rust-never-sleeps/1)
 * [2023-09-22, 18:56:52](https://news.ycombinator.com/item?id=37616171) - [CFPB begins a process to remove medical bills from Americans’ credit reports](https://www.consumerfinance.gov/about-us/newsroom/cfpb-kicks-off-rulemaking-to-remove-medical-bills-from-credit-reports/)
 * [2023-09-22, 18:47:37](https://news.ycombinator.com/item?id=37616033) - [Run PostgreSQL. The Kubernetes Way](https://cloudnative-pg.io/)
 * [2023-09-22, 18:30:08](https://news.ycombinator.com/item?id=37615801) - [Creator of Vue.js Evan You's Journey from Google Engineer to Open Source Pioneer](https://www.thisdot.co/blog/creator-of-vue-js-and-vite-evan-yous-journey-from-google-engineer-to-open/)
