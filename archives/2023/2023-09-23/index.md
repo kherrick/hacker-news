@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-23](index.md)
 
+* [2023-09-23, 22:31:33](https://news.ycombinator.com/item?id=37628168) - [SpaceX’s Starlink surpasses 2M active customers](https://twitter.com/Starlink/status/1705695980325323023)
 * [2023-09-23, 21:36:21](https://news.ycombinator.com/item?id=37627782) - [The Unforeseen LSD Overdose of 1972](https://notsoprofound.com/the-unforeseen-lsd-overdose-of-1972/)
 * [2023-09-23, 21:30:23](https://news.ycombinator.com/item?id=37627745) - [EU fines Intel $400M for blocking AMD's market access](https://www.neowin.net/news/eu-fines-intel-400-million-for-blocking-amds-market-access-through-payments-to-pc-makers/)
 * [2023-09-23, 21:24:20](https://news.ycombinator.com/item?id=37627684) - [Ways YC has changed in the last year](https://twitter.com/snowmaker/status/1705643839443403263)
