@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-23](index.md)
 
+* [2023-09-23, 12:58:03](https://news.ycombinator.com/item?id=37622863) - [School Surveillance Tools Are Harming Kids](https://gizmodo.com/school-surveillance-harm-kids-homework-report-1850854919)
+* [2023-09-23, 12:26:13](https://news.ycombinator.com/item?id=37622671) - [MGM Grand hiring a RHEL SysAdmin willing to work 10 hours/day 7 days/week](https://twitter.com/LasVegasLocally/status/1704986596439941601)
 * [2023-09-23, 12:20:42](https://news.ycombinator.com/item?id=37622632) - [Coding Guidelines for Prolog (2011)](https://arxiv.org/abs/0911.2899)
 * [2023-09-23, 12:01:15](https://news.ycombinator.com/item?id=37622491) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-09-23, 11:14:52](https://news.ycombinator.com/item?id=37622184) - [Imba – The friendly full-stack language](https://imba.io/)
