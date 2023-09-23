@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-23, 03:11:07",
+      "https://news.ycombinator.com/item?id=37620298"
+    ],
+    [
+      "Teaching Software Engineering in DLang [pdf]",
+      "https://dconf.org/2023/slides/shah_and_students.pdf"
+    ]
+  ],
+  [
+    [
       "2023-09-23, 01:38:14",
       "https://news.ycombinator.com/item?id=37619886"
     ],
@@ -217,16 +227,6 @@
     [
       "Principles for building and scaling feature flag systems",
       "https://docs.getunleash.io/topics/feature-flags/feature-flag-best-practices"
-    ]
-  ],
-  [
-    [
-      "2023-09-22, 12:06:42",
-      "https://news.ycombinator.com/item?id=37610899"
-    ],
-    [
-      "Ways to capture changes in Postgres",
-      "https://blog.sequin.io/all-the-ways-to-capture-changes-in-postgres/"
     ]
   ],
   [
