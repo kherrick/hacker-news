@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-23](index.md)
 
+* [2023-09-23, 16:08:34](https://news.ycombinator.com/item?id=37624506) - [Worm that jumps from rats to slugs to human brains has invaded Southeast US](https://arstechnica.com/health/2023/09/worm-that-jumps-from-rats-to-slugs-to-human-brains-has-invaded-southeast-us/)
+* [2023-09-23, 15:25:45](https://news.ycombinator.com/item?id=37624112) - [TSA Policy on Light Sabers](https://www.tsa.gov/travel/security-screening/whatcanibring/items/light-saber)
 * [2023-09-23, 15:21:41](https://news.ycombinator.com/item?id=37624070) - [Definitely Do Not Put Plastic in the Microwave](https://www.bonappetit.com/story/can-you-put-plastic-in-the-microwave)
 * [2023-09-23, 15:10:22](https://news.ycombinator.com/item?id=37623955) - [Why Scalpers Can Get Olivia Rodrigo Tickets and You Can't](https://www.404media.co/why-scalpers-can-get-olivia-rodrigo-tickets-and-fans-cannot/)
 * [2023-09-23, 14:42:12](https://news.ycombinator.com/item?id=37623680) - [Ethereum founder on U.S. crypto crackdown](https://www.cnbc.com/2023/09/22/vitalik-buterin-cnbc-interview-ethereum-founder-on-us-crypto-crackdown.html)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-23, 16:08:34](https://news.ycombinator.com/item?id=37624506) - [Worm that jumps from rats to slugs to human brains has invaded Southeast US](https://arstechnica.com/health/2023/09/worm-that-jumps-from-rats-to-slugs-to-human-brains-has-invaded-southeast-us/)
+* [2023-09-23, 15:25:45](https://news.ycombinator.com/item?id=37624112) - [TSA Policy on Light Sabers](https://www.tsa.gov/travel/security-screening/whatcanibring/items/light-saber)
 * [2023-09-23, 15:21:41](https://news.ycombinator.com/item?id=37624070) - [Definitely Do Not Put Plastic in the Microwave](https://www.bonappetit.com/story/can-you-put-plastic-in-the-microwave)
 * [2023-09-23, 14:29:55](https://news.ycombinator.com/item?id=37623562) - [Blocking Visual Studio Code embedded reverse shell before it's too late](https://ipfyx.fr/post/visual-studio-code-tunnel/)
 * [2023-09-23, 14:29:25](https://news.ycombinator.com/item?id=37623557) - [Show HN: LLM Agent Paper List](https://github.com/WooooDyy/LLM-Agent-Paper-List)
@@ -21,13 +23,11 @@
 * [2023-09-23, 04:06:23](https://news.ycombinator.com/item?id=37620507) - [TinyML and Efficient Deep Learning Computing](https://efficientml.ai/)
 * [2023-09-23, 03:27:56](https://news.ycombinator.com/item?id=37620367) - [The Year Lou Reed Gave Up on Music](https://www.nytimes.com/2023/09/22/nyregion/lou-reed-king-of-new-york.html)
 * [2023-09-23, 03:11:07](https://news.ycombinator.com/item?id=37620298) - [Teaching Software Engineering in DLang [pdf]](https://dconf.org/2023/slides/shah_and_students.pdf)
-* [2023-09-23, 02:49:07](https://news.ycombinator.com/item?id=37620197) - [FEMA and FCC Plan Nationwide Emergency Alert Test for Oct. 4, 2023](https://www.fema.gov/press-release/20230803/fema-and-fcc-plan-nationwide-emergency-alert-test-oct-4-2023)
 * [2023-09-23, 01:42:38](https://news.ycombinator.com/item?id=37619912) - [Deep genetic structure of Africa reveals unique ancestry of the Angolan Namib](https://phys.org/news/2023-09-deep-genetic-africa-reveals-unique.html)
 * [2023-09-22, 23:45:45](https://news.ycombinator.com/item?id=37619207) - [The Romantic Sufi: The Divan of Kamal Khujandi Copied by Jaʿfar Tabrizi](https://blogs.bl.uk/asian-and-african/2023/09/the-romantic-sufi.html)
 * [2023-09-22, 22:31:15](https://news.ycombinator.com/item?id=37618622) - [A magnificent 1850s house dubbed the Blue Belle of Brooklyn](https://ephemeralnewyork.wordpress.com/2023/09/18/the-story-of-a-magnificent-1850s-house-dubbed-the-blue-belle-of-brooklyn/)
 * [2023-09-22, 19:05:12](https://news.ycombinator.com/item?id=37616281) - [Digression 3: Corrosion – Rust Never Sleeps](https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/digression-3-corrosion-rust-never-sleeps/1)
 * [2023-09-22, 17:21:22](https://news.ycombinator.com/item?id=37614816) - [0-days exploited by commercial surveillance vendor in Egypt](https://blog.google/threat-analysis-group/0-days-exploited-by-commercial-surveillance-vendor-in-egypt/)
-* [2023-09-22, 04:43:22](https://news.ycombinator.com/item?id=37607963) - [The Frustration Loop](https://herman.bearblog.dev/the-frustration-loop/)
 * [2023-09-22, 00:22:05](https://news.ycombinator.com/item?id=37606296) - [Jewel of the forest: New electric blue tarantula species discovered in Thailand](https://phys.org/news/2023-09-jewel-forest-electric-blue-tarantula.html)
 * [2023-09-21, 12:16:55](https://news.ycombinator.com/item?id=37596513) - [It's okay to make something nobody wants](https://zhangluyao.com/blog/make-something-nobody-wants/)
 
