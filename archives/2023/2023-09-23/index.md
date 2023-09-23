@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-23](index.md)
 
+* [2023-09-23, 21:30:23](https://news.ycombinator.com/item?id=37627745) - [EU fines Intel $400M for blocking AMD's market access](https://www.neowin.net/news/eu-fines-intel-400-million-for-blocking-amds-market-access-through-payments-to-pc-makers/)
 * [2023-09-23, 21:24:20](https://news.ycombinator.com/item?id=37627684) - [Ways YC has changed in the last year](https://twitter.com/snowmaker/status/1705643839443403263)
 * [2023-09-23, 21:00:27](https://news.ycombinator.com/item?id=37627514) - [Freshpaint (YC S19) is hiring engineers to enable privacy-first marketing](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-09-23, 20:37:41](https://news.ycombinator.com/item?id=37627292) - [Scientists Improve Anti-Tumor Power of Car-T Cells](https://www.insideprecisionmedicine.com/topics/oncology/scientists-improve-anti-tumor-power-of-car-t-cells/)
