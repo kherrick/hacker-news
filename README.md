@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-23, 09:53:22](https://news.ycombinator.com/item?id=37621887) - [Re: 100k Threads? (2002)](https://lkml.iu.edu/hypermail/linux/kernel/0209.2/1153.html)
+* [2023-09-23, 09:02:22](https://news.ycombinator.com/item?id=37621697) - [Tinder Offers $500-a-Month Subscription to Its Most Active Users](https://www.bloomberg.com/news/articles/2023-09-22/tinder-offers-500-per-month-subscription-for-top-1-of-daters)
 * [2023-09-23, 07:18:39](https://news.ycombinator.com/item?id=37621274) - [Shshsh is a bridge connects Python and shell](https://github.com/zqqqqz2000/shshsh)
 * [2023-09-23, 04:43:16](https://news.ycombinator.com/item?id=37620634) - [State of HTML 2023 now open](https://lea.verou.me/blog/2023/state-of-html-2023/)
 * [2023-09-23, 04:06:23](https://news.ycombinator.com/item?id=37620507) - [TinyML and Efficient Deep Learning Computing](https://efficientml.ai/)
@@ -26,7 +27,6 @@
 * [2023-09-22, 12:31:12](https://news.ycombinator.com/item?id=37611136) - [Principles for building and scaling feature flag systems](https://docs.getunleash.io/topics/feature-flags/feature-flag-best-practices)
 * [2023-09-22, 11:56:41](https://news.ycombinator.com/item?id=37610812) - [Mojo: The usability of Python with the performance of C](https://stackoverflow.blog/2023/09/21/mojo-the-usability-of-python-with-the-performance-of-c/)
 * [2023-09-22, 08:22:28](https://news.ycombinator.com/item?id=37609393) - [I made a transformer to predict a simple sequence manually](https://vgel.me/posts/handmade-transformer/)
-* [2023-09-22, 08:17:58](https://news.ycombinator.com/item?id=37609352) - [Polycentric interstate federalism among the Yoruba of Nigeria (2022) [pdf]](https://cosmosandtaxis.files.wordpress.com/2022/09/kunleoyerinde_ct_vol10_iss11_12.pdf)
 * [2023-09-22, 04:43:22](https://news.ycombinator.com/item?id=37607963) - [The Frustration Loop](https://herman.bearblog.dev/the-frustration-loop/)
 * [2023-09-22, 00:31:09](https://news.ycombinator.com/item?id=37606373) - [Technique for 3D printing metals at the nanoscale reveals surprise benefit](https://phys.org/news/2023-09-technique-3d-metals-nanoscale-reveals.html)
 * [2023-09-21, 12:16:55](https://news.ycombinator.com/item?id=37596513) - [It's okay to make something nobody wants](https://zhangluyao.com/blog/make-something-nobody-wants/)
