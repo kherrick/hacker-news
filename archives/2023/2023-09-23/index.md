@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-23](index.md)
 
+* [2023-09-23, 21:00:27](https://news.ycombinator.com/item?id=37627514) - [Freshpaint (YC S19) is hiring engineers to enable privacy-first marketing](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+* [2023-09-23, 20:37:41](https://news.ycombinator.com/item?id=37627292) - [Scientists Improve Anti-Tumor Power of Car-T Cells](https://www.insideprecisionmedicine.com/topics/oncology/scientists-improve-anti-tumor-power-of-car-t-cells/)
+* [2023-09-23, 20:22:53](https://news.ycombinator.com/item?id=37627129) - [The Cambridge Law Corpus: A Corpus for Legal AI Research](https://arxiv.org/abs/2309.12269)
 * [2023-09-23, 20:19:37](https://news.ycombinator.com/item?id=37627095) - [Flowers are starting to spread in Antarctica and experts say it's not good news](https://www.unilad.com/news/world-news/antarctica-flowers-spread-climate-change-828134-20230922)
 * [2023-09-23, 20:06:24](https://news.ycombinator.com/item?id=37626954) - [What It’s Like to Be a 13-Year-Old Girl Today](https://www.nytimes.com/interactive/2023/09/20/well/family/13-year-old-girls-social-media-self-esteem.html)
 * [2023-09-23, 19:44:56](https://news.ycombinator.com/item?id=37626731) - [Bottlerocket – Minimal, immutable Linux OS with verified boot](https://bottlerocket.dev)
