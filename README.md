@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-23, 09:02:22](https://news.ycombinator.com/item?id=37621697) - [Tinder Offers $500-a-Month Subscription to Its Most Active Users](https://www.bloomberg.com/news/articles/2023-09-22/tinder-offers-500-per-month-subscription-for-top-1-of-daters)
 * [2023-09-23, 07:18:39](https://news.ycombinator.com/item?id=37621274) - [Shshsh is a bridge connects Python and shell](https://github.com/zqqqqz2000/shshsh)
 * [2023-09-23, 04:43:16](https://news.ycombinator.com/item?id=37620634) - [State of HTML 2023 now open](https://lea.verou.me/blog/2023/state-of-html-2023/)
 * [2023-09-23, 04:06:23](https://news.ycombinator.com/item?id=37620507) - [TinyML and Efficient Deep Learning Computing](https://efficientml.ai/)
@@ -9,7 +10,6 @@
 * [2023-09-23, 01:03:20](https://news.ycombinator.com/item?id=37619709) - [Imbue (Formerly Generally Intelligent, YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=37619709)
 * [2023-09-23, 00:31:35](https://news.ycombinator.com/item?id=37619513) - [Auto-Regressive Next-Token Predictors Are Universal Learners](https://arxiv.org/abs/2309.06979)
 * [2023-09-23, 00:07:10](https://news.ycombinator.com/item?id=37619361) - [Sidenotes in Web Design](https://gwern.net/sidenote)
-* [2023-09-22, 23:57:22](https://news.ycombinator.com/item?id=37619285) - [Provably safe systems: the only path to controllable AGI](https://arxiv.org/abs/2309.01933)
 * [2023-09-22, 23:35:01](https://news.ycombinator.com/item?id=37619151) - [Croc: Easily and securely send things from one computer to another](https://github.com/schollz/croc)
 * [2023-09-22, 23:27:48](https://news.ycombinator.com/item?id=37619100) - [Show HN: TG – Fast geometry library for C](https://github.com/tidwall/tg)
 * [2023-09-22, 22:43:18](https://news.ycombinator.com/item?id=37618743) - [Nedelin Catastrophe: The Worst Space-Related Disaster](https://www.amusingplanet.com/2023/09/nedelin-catastrophe-worst-space-related.html)
