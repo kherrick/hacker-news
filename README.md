@@ -11,7 +11,6 @@
 * [2023-09-23, 03:11:07](https://news.ycombinator.com/item?id=37620298) - [Teaching Software Engineering in DLang [pdf]](https://dconf.org/2023/slides/shah_and_students.pdf)
 * [2023-09-23, 02:49:07](https://news.ycombinator.com/item?id=37620197) - [FEMA and FCC Plan Nationwide Emergency Alert Test for Oct. 4, 2023](https://www.fema.gov/press-release/20230803/fema-and-fcc-plan-nationwide-emergency-alert-test-oct-4-2023)
 * [2023-09-23, 02:11:46](https://news.ycombinator.com/item?id=37620043) - [Show HN: ChatGPT for Med-School and Healthcare](https://chat.radiantai.health/)
-* [2023-09-23, 01:38:14](https://news.ycombinator.com/item?id=37619886) - [Why are you better at recognizing upright faces?](https://medicalxpress.com/news/2023-09-upright-clues-person-world-differently.html)
 * [2023-09-23, 01:03:20](https://news.ycombinator.com/item?id=37619709) - [Imbue (Formerly Generally Intelligent, YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=37619709)
 * [2023-09-23, 00:31:35](https://news.ycombinator.com/item?id=37619513) - [Auto-Regressive Next-Token Predictors Are Universal Learners](https://arxiv.org/abs/2309.06979)
 * [2023-09-23, 00:07:10](https://news.ycombinator.com/item?id=37619361) - [Sidenotes in Web Design](https://gwern.net/sidenote)
@@ -29,6 +28,7 @@
 * [2023-09-22, 08:17:58](https://news.ycombinator.com/item?id=37609352) - [Polycentric interstate federalism among the Yoruba of Nigeria (2022) [pdf]](https://cosmosandtaxis.files.wordpress.com/2022/09/kunleoyerinde_ct_vol10_iss11_12.pdf)
 * [2023-09-22, 04:43:22](https://news.ycombinator.com/item?id=37607963) - [The Frustration Loop](https://herman.bearblog.dev/the-frustration-loop/)
 * [2023-09-22, 00:31:09](https://news.ycombinator.com/item?id=37606373) - [Technique for 3D printing metals at the nanoscale reveals surprise benefit](https://phys.org/news/2023-09-technique-3d-metals-nanoscale-reveals.html)
+* [2023-09-22, 00:22:05](https://news.ycombinator.com/item?id=37606296) - [Jewel of the forest: New electric blue tarantula species discovered in Thailand](https://phys.org/news/2023-09-jewel-forest-electric-blue-tarantula.html)
 * [2023-09-21, 12:16:55](https://news.ycombinator.com/item?id=37596513) - [It's okay to make something nobody wants](https://zhangluyao.com/blog/make-something-nobody-wants/)
 
 ## [Archives](archives/index.md)
