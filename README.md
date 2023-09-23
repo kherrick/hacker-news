@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-23, 15:21:41](https://news.ycombinator.com/item?id=37624070) - [Definitely Do Not Put Plastic in the Microwave](https://www.bonappetit.com/story/can-you-put-plastic-in-the-microwave)
-* [2023-09-23, 15:10:22](https://news.ycombinator.com/item?id=37623955) - [Why Scalpers Can Get Olivia Rodrigo Tickets and You Can't](https://www.404media.co/why-scalpers-can-get-olivia-rodrigo-tickets-and-fans-cannot/)
 * [2023-09-23, 14:30:59](https://news.ycombinator.com/item?id=37623569) - [Make Something Wonderful](https://news.ycombinator.com/item?id=37623569)
 * [2023-09-23, 14:29:55](https://news.ycombinator.com/item?id=37623562) - [Blocking Visual Studio Code embedded reverse shell before it's too late](https://ipfyx.fr/post/visual-studio-code-tunnel/)
 * [2023-09-23, 14:29:25](https://news.ycombinator.com/item?id=37623557) - [Show HN: LLM Agent Paper List](https://github.com/WooooDyy/LLM-Agent-Paper-List)
@@ -28,6 +27,7 @@
 * [2023-09-22, 22:31:15](https://news.ycombinator.com/item?id=37618622) - [A magnificent 1850s house dubbed the Blue Belle of Brooklyn](https://ephemeralnewyork.wordpress.com/2023/09/18/the-story-of-a-magnificent-1850s-house-dubbed-the-blue-belle-of-brooklyn/)
 * [2023-09-22, 19:05:12](https://news.ycombinator.com/item?id=37616281) - [Digression 3: Corrosion – Rust Never Sleeps](https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/digression-3-corrosion-rust-never-sleeps/1)
 * [2023-09-22, 17:21:22](https://news.ycombinator.com/item?id=37614816) - [0-days exploited by commercial surveillance vendor in Egypt](https://blog.google/threat-analysis-group/0-days-exploited-by-commercial-surveillance-vendor-in-egypt/)
+* [2023-09-22, 04:43:22](https://news.ycombinator.com/item?id=37607963) - [The Frustration Loop](https://herman.bearblog.dev/the-frustration-loop/)
 * [2023-09-22, 00:22:05](https://news.ycombinator.com/item?id=37606296) - [Jewel of the forest: New electric blue tarantula species discovered in Thailand](https://phys.org/news/2023-09-jewel-forest-electric-blue-tarantula.html)
 * [2023-09-21, 12:16:55](https://news.ycombinator.com/item?id=37596513) - [It's okay to make something nobody wants](https://zhangluyao.com/blog/make-something-nobody-wants/)
 
