@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-23](index.md)
 
+* [2023-09-23, 09:53:22](https://news.ycombinator.com/item?id=37621887) - [Re: 100k Threads? (2002)](https://lkml.iu.edu/hypermail/linux/kernel/0209.2/1153.html)
 * [2023-09-23, 09:02:22](https://news.ycombinator.com/item?id=37621697) - [Tinder Offers $500-a-Month Subscription to Its Most Active Users](https://www.bloomberg.com/news/articles/2023-09-22/tinder-offers-500-per-month-subscription-for-top-1-of-daters)
 * [2023-09-23, 07:18:39](https://news.ycombinator.com/item?id=37621274) - [Shshsh is a bridge connects Python and shell](https://github.com/zqqqqz2000/shshsh)
 * [2023-09-23, 05:01:46](https://news.ycombinator.com/item?id=37620688) - [Zuckerberg,Bezos,Gates.Behind Every Self-Made Millionaire Is a Father with Money](https://medium.com/@moh.aboelez/mark-zuckerberg-jeff-bezos-bill-gates-behind-every-self-made-millionaire-is-a-father-with-money-a69c32218ac4)

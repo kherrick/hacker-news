@@ -11,6 +11,7 @@
 * [2023-09-22, 23:27:48](https://news.ycombinator.com/item?id=37619100) - [Show HN: TG – Fast geometry library for C](https://github.com/tidwall/tg)
 * [2023-09-22, 23:01:58](https://news.ycombinator.com/item?id=37618914) - [An Update on Prime Video](https://www.aboutamazon.com/news/entertainment/prime-video-update-announces-limited-ads)
 * [2023-09-22, 22:43:18](https://news.ycombinator.com/item?id=37618743) - [Nedelin Catastrophe: The Worst Space-Related Disaster](https://www.amusingplanet.com/2023/09/nedelin-catastrophe-worst-space-related.html)
+* [2023-09-22, 22:31:15](https://news.ycombinator.com/item?id=37618622) - [A magnificent 1850s house dubbed the Blue Belle of Brooklyn](https://ephemeralnewyork.wordpress.com/2023/09/18/the-story-of-a-magnificent-1850s-house-dubbed-the-blue-belle-of-brooklyn/)
 * [2023-09-22, 21:54:22](https://news.ycombinator.com/item?id=37618301) - [Conway Can Divide by Three, but I Can’t [pdf]](https://math.berkeley.edu/~pglutz/division_by_three.pdf)
 * [2023-09-22, 21:31:37](https://news.ycombinator.com/item?id=37618055) - [The Radio Station That Bridge Built](https://www.nutsvolts.com/magazine/article/the-radio-station-that-bridge-built)
 * [2023-09-22, 21:29:39](https://news.ycombinator.com/item?id=37618037) - [Can Govt Debt Solve Fertility?](https://www.overcomingbias.com/p/can-govt-debt-solve-fertility)

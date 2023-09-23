@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-23, 09:02:22](https://news.ycombinator.com/item?id=37621697) - [Tinder Offers $500-a-Month Subscription to Its Most Active Users](https://www.bloomberg.com/news/articles/2023-09-22/tinder-offers-500-per-month-subscription-for-top-1-of-daters)
+* [2023-09-23, 09:53:22](https://news.ycombinator.com/item?id=37621887) - [Re: 100k Threads? (2002)](https://lkml.iu.edu/hypermail/linux/kernel/0209.2/1153.html)
 * [2023-09-23, 07:18:39](https://news.ycombinator.com/item?id=37621274) - [Shshsh is a bridge connects Python and shell](https://github.com/zqqqqz2000/shshsh)
 * [2023-09-23, 04:43:16](https://news.ycombinator.com/item?id=37620634) - [State of HTML 2023 now open](https://lea.verou.me/blog/2023/state-of-html-2023/)
 * [2023-09-23, 04:06:23](https://news.ycombinator.com/item?id=37620507) - [TinyML and Efficient Deep Learning Computing](https://efficientml.ai/)
@@ -13,6 +13,7 @@
 * [2023-09-22, 23:35:01](https://news.ycombinator.com/item?id=37619151) - [Croc: Easily and securely send things from one computer to another](https://github.com/schollz/croc)
 * [2023-09-22, 23:27:48](https://news.ycombinator.com/item?id=37619100) - [Show HN: TG – Fast geometry library for C](https://github.com/tidwall/tg)
 * [2023-09-22, 22:43:18](https://news.ycombinator.com/item?id=37618743) - [Nedelin Catastrophe: The Worst Space-Related Disaster](https://www.amusingplanet.com/2023/09/nedelin-catastrophe-worst-space-related.html)
+* [2023-09-22, 22:31:15](https://news.ycombinator.com/item?id=37618622) - [A magnificent 1850s house dubbed the Blue Belle of Brooklyn](https://ephemeralnewyork.wordpress.com/2023/09/18/the-story-of-a-magnificent-1850s-house-dubbed-the-blue-belle-of-brooklyn/)
 * [2023-09-22, 21:54:22](https://news.ycombinator.com/item?id=37618301) - [Conway Can Divide by Three, but I Can’t [pdf]](https://math.berkeley.edu/~pglutz/division_by_three.pdf)
 * [2023-09-22, 19:23:59](https://news.ycombinator.com/item?id=37616513) - [JPL Open Source Rover Project](https://github.com/nasa-jpl/open-source-rover)
 * [2023-09-22, 19:05:12](https://news.ycombinator.com/item?id=37616281) - [Digression 3: Corrosion – Rust Never Sleeps](https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/digression-3-corrosion-rust-never-sleeps/1)
@@ -20,7 +21,6 @@
 * [2023-09-22, 17:21:22](https://news.ycombinator.com/item?id=37614816) - [0-days exploited by commercial surveillance vendor in Egypt](https://blog.google/threat-analysis-group/0-days-exploited-by-commercial-surveillance-vendor-in-egypt/)
 * [2023-09-22, 16:35:15](https://news.ycombinator.com/item?id=37614177) - [Show HN: Rapidpages – OSS alternative to vercel's v0](https://github.com/rapidpages/rapidpages)
 * [2023-09-22, 15:08:32](https://news.ycombinator.com/item?id=37613054) - [Show HN: Paisa – Open-Source Personal Finance Manager](https://paisa.fyi/)
-* [2023-09-22, 14:42:46](https://news.ycombinator.com/item?id=37612694) - [Sumario now Open Source and runs on Fly.io](https://sumar.io)
 * [2023-09-22, 13:02:21](https://news.ycombinator.com/item?id=37611457) - [Show HN: Learn piano without sheet music](https://jacobdoescode.com/piano-tabs)
 * [2023-09-22, 12:43:28](https://news.ycombinator.com/item?id=37611257) - [Bambu Lab A1 Mini](https://bambulab.com/en-eu/a1-mini)
 * [2023-09-22, 12:31:12](https://news.ycombinator.com/item?id=37611136) - [Principles for building and scaling feature flag systems](https://docs.getunleash.io/topics/feature-flags/feature-flag-best-practices)
