@@ -2,6 +2,7 @@
 
 * [2023-09-23, 19:27:18](https://news.ycombinator.com/item?id=37626528) - [GNU/Linux Aviation How To](https://tldp.org/HOWTO/Aviation-HOWTO/index.html)
 * [2023-09-23, 19:20:06](https://news.ycombinator.com/item?id=37626458) - [The housing market is about to take a hit as student loan payments restart](https://markets.businessinsider.com/news/commodities/housing-market-student-loan-payments-restart-affordability-crisis-mortgage-rates-2023-8)
+* [2023-09-23, 19:05:57](https://news.ycombinator.com/item?id=37626340) - [The Matching Problem in Dating](https://eriktorenberg.substack.com/p/the-matching-problem-in-dating)
 * [2023-09-23, 19:04:10](https://news.ycombinator.com/item?id=37626326) - [Project Gutenberg has implemented one of the worst AI fears of striking actors](https://qz.com/project-gutenberg-ai-to-ebooks-audiobooks-1850856297)
 * [2023-09-23, 18:57:03](https://news.ycombinator.com/item?id=37626273) - [iCloud Drive silently deletes your content](https://www.dominikmayer.com/2023/09/icloud-drive-silently-deletes-your-content/)
 * [2023-09-23, 18:34:27](https://news.ycombinator.com/item?id=37626025) - [I open-sourced Even the Ocean](https://melodicambient.substack.com/p/i-open-sourced-even-the-ocean-2016)
@@ -14,9 +15,9 @@
 * [2023-09-23, 14:29:55](https://news.ycombinator.com/item?id=37623562) - [Blocking Visual Studio Code embedded reverse shell before it's too late](https://ipfyx.fr/post/visual-studio-code-tunnel/)
 * [2023-09-23, 14:29:25](https://news.ycombinator.com/item?id=37623557) - [Show HN: LLM Agent Paper List](https://github.com/WooooDyy/LLM-Agent-Paper-List)
 * [2023-09-23, 14:15:33](https://news.ycombinator.com/item?id=37623405) - [India fails to re-establish communication with its Moon probe](https://efe.com/en/science-and-technology/2023-09-22/india-fails-to-re-establish-communication-with-its-moon-probe/)
+* [2023-09-23, 14:03:29](https://news.ycombinator.com/item?id=37623314) - [CRISPR Silkworms Make Spider Silk That Defies Scientific Constraints](https://www.genengnews.com/topics/genome-editing/crispr-silkworms-make-spider-silk-that-defies-scientific-constraints/)
 * [2023-09-23, 13:21:10](https://news.ycombinator.com/item?id=37623000) - [Profile of Sabine Hossenfelder](https://www.npr.org/2023/09/23/1199469798/youtube-star-scientist-sabine-hossenfelder)
 * [2023-09-23, 13:20:41](https://news.ycombinator.com/item?id=37622997) - [Foot – A fast, lightweight and minimalistic Wayland terminal emulator](https://codeberg.org/dnkl/foot)
-* [2023-09-23, 13:14:49](https://news.ycombinator.com/item?id=37622955) - [Linux terminal emulators have the potential of being much faster](https://www.phoronix.com/news/Linux-Terminals-Could-Be-Faster)
 * [2023-09-23, 12:58:03](https://news.ycombinator.com/item?id=37622863) - [School surveillance tools are harming kids, report finds](https://gizmodo.com/school-surveillance-harm-kids-homework-report-1850854919)
 * [2023-09-23, 12:34:59](https://news.ycombinator.com/item?id=37622714) - [Collecting and curating material is good and we should do it more](https://buttondown.email/hillelwayne/archive/in-defense-of/)
 * [2023-09-23, 12:32:36](https://news.ycombinator.com/item?id=37622702) - [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo)
@@ -27,7 +28,6 @@
 * [2023-09-22, 22:31:15](https://news.ycombinator.com/item?id=37618622) - [A magnificent 1850s house dubbed the Blue Belle of Brooklyn](https://ephemeralnewyork.wordpress.com/2023/09/18/the-story-of-a-magnificent-1850s-house-dubbed-the-blue-belle-of-brooklyn/)
 * [2023-09-22, 19:05:12](https://news.ycombinator.com/item?id=37616281) - [Digression 3: Corrosion – Rust Never Sleeps](https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/digression-3-corrosion-rust-never-sleeps/1)
 * [2023-09-22, 14:58:44](https://news.ycombinator.com/item?id=37612913) - [A Beginner's Guide to Neural Mechanisms](https://www.neuralmechanisms.org/videolectures.html)
-* [2023-09-22, 04:43:22](https://news.ycombinator.com/item?id=37607963) - [The Frustration Loop](https://herman.bearblog.dev/the-frustration-loop/)
 * [2023-09-22, 00:22:05](https://news.ycombinator.com/item?id=37606296) - [New tarantula species discovered in Thailand](https://phys.org/news/2023-09-jewel-forest-electric-blue-tarantula.html)
 * [2023-09-21, 12:16:55](https://news.ycombinator.com/item?id=37596513) - [It's okay to make something nobody wants](https://zhangluyao.com/blog/make-something-nobody-wants/)
 
