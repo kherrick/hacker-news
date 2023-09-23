@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-23](index.md)
 
+* [2023-09-23, 16:40:02](https://news.ycombinator.com/item?id=37624863) - [Woman loses over $44k after downloading third-party app to buy fish](https://www.straitstimes.com/singapore/woman-loses-over-44k-after-downloading-third-party-app-to-buy-fish)
+* [2023-09-23, 16:34:51](https://news.ycombinator.com/item?id=37624803) - [iPhone 15 Pro Max vs. DSLR photos: Real world camera comparison](https://9to5mac.com/2023/09/23/iphone-15-pro-max-vs-dslr-photo-comparison/)
 * [2023-09-23, 16:08:34](https://news.ycombinator.com/item?id=37624506) - [Worm that jumps from rats to slugs to human brains has invaded Southeast US](https://arstechnica.com/health/2023/09/worm-that-jumps-from-rats-to-slugs-to-human-brains-has-invaded-southeast-us/)
 * [2023-09-23, 15:25:45](https://news.ycombinator.com/item?id=37624112) - [TSA Policy on Light Sabers](https://www.tsa.gov/travel/security-screening/whatcanibring/items/light-saber)
 * [2023-09-23, 15:21:41](https://news.ycombinator.com/item?id=37624070) - [Definitely Do Not Put Plastic in the Microwave](https://www.bonappetit.com/story/can-you-put-plastic-in-the-microwave)
