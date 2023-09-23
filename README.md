@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-23, 10:47:25](https://news.ycombinator.com/item?id=37622072) - [Landchad: A site dedicated to turn web peasants into Internet LandChads](https://landchad.net)
 * [2023-09-23, 10:45:28](https://news.ycombinator.com/item?id=37622064) - [Fossil versus Git](https://www.fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki)
 * [2023-09-23, 10:26:43](https://news.ycombinator.com/item?id=37621999) - [LLMs trained on “A is B” fail to learn “B is A”](https://paperswithcode.com/paper/the-reversal-curse-llms-trained-on-a-is-b)
 * [2023-09-23, 09:53:22](https://news.ycombinator.com/item?id=37621887) - [Re: 100k Threads? (2002)](https://lkml.iu.edu/hypermail/linux/kernel/0209.2/1153.html)
@@ -28,7 +29,6 @@
 * [2023-09-22, 08:17:58](https://news.ycombinator.com/item?id=37609352) - [Polycentric interstate federalism among the Yoruba of Nigeria (2022) [pdf]](https://cosmosandtaxis.files.wordpress.com/2022/09/kunleoyerinde_ct_vol10_iss11_12.pdf)
 * [2023-09-22, 04:43:22](https://news.ycombinator.com/item?id=37607963) - [The Frustration Loop](https://herman.bearblog.dev/the-frustration-loop/)
 * [2023-09-22, 00:31:09](https://news.ycombinator.com/item?id=37606373) - [Technique for 3D printing metals at the nanoscale reveals surprise benefit](https://phys.org/news/2023-09-technique-3d-metals-nanoscale-reveals.html)
-* [2023-09-21, 17:21:39](https://news.ycombinator.com/item?id=37600852) - [The WebP 0day](https://blog.isosceles.com/the-webp-0day/)
 * [2023-09-21, 12:16:55](https://news.ycombinator.com/item?id=37596513) - [It's okay to make something nobody wants](https://zhangluyao.com/blog/make-something-nobody-wants/)
 
 ## [Archives](archives/index.md)
