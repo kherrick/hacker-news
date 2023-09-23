@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-23, 07:18:39](https://news.ycombinator.com/item?id=37621274) - [Shshsh is a bridge connects Python and shell](https://github.com/zqqqqz2000/shshsh)
 * [2023-09-23, 04:43:16](https://news.ycombinator.com/item?id=37620634) - [State of HTML 2023 now open](https://lea.verou.me/blog/2023/state-of-html-2023/)
 * [2023-09-23, 04:06:23](https://news.ycombinator.com/item?id=37620507) - [TinyML and Efficient Deep Learning Computing](https://efficientml.ai/)
 * [2023-09-23, 03:11:07](https://news.ycombinator.com/item?id=37620298) - [Teaching Software Engineering in DLang [pdf]](https://dconf.org/2023/slides/shah_and_students.pdf)
@@ -18,7 +19,6 @@
 * [2023-09-22, 18:30:08](https://news.ycombinator.com/item?id=37615801) - [Creator of Vue.js Evan You's Journey from Google Engineer to Open Source Pioneer](https://www.thisdot.co/blog/creator-of-vue-js-and-vite-evan-yous-journey-from-google-engineer-to-open/)
 * [2023-09-22, 17:21:22](https://news.ycombinator.com/item?id=37614816) - [0-days exploited by commercial surveillance vendor in Egypt](https://blog.google/threat-analysis-group/0-days-exploited-by-commercial-surveillance-vendor-in-egypt/)
 * [2023-09-22, 16:35:15](https://news.ycombinator.com/item?id=37614177) - [Show HN: Rapidpages – OSS alternative to vercel's v0](https://github.com/rapidpages/rapidpages)
-* [2023-09-22, 15:49:32](https://news.ycombinator.com/item?id=37613572) - [The Design System Ecosystem](https://bradfrost.com/blog/post/the-design-system-ecosystem/)
 * [2023-09-22, 15:08:32](https://news.ycombinator.com/item?id=37613054) - [Show HN: Paisa – Open-Source Personal Finance Manager](https://paisa.fyi/)
 * [2023-09-22, 14:42:46](https://news.ycombinator.com/item?id=37612694) - [Sumario now Open Source and runs on Fly.io](https://sumar.io)
 * [2023-09-22, 13:02:21](https://news.ycombinator.com/item?id=37611457) - [Show HN: Learn piano without sheet music](https://jacobdoescode.com/piano-tabs)
