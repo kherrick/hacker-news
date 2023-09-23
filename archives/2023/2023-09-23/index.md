@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-23](index.md)
 
+* [2023-09-23, 13:54:38](https://news.ycombinator.com/item?id=37623230) - [Sesame Street – Count to 12 [video]](https://www.youtube.com/watch?v=VOaZbaPzdsk)
 * [2023-09-23, 13:36:18](https://news.ycombinator.com/item?id=37623086) - [Ask HN: How do I stop overthinking personal project management?](https://news.ycombinator.com/item?id=37623086)
 * [2023-09-23, 13:21:10](https://news.ycombinator.com/item?id=37623000) - [She got famous on YouTube. Now it helps fund her research in quantum gravity](https://text.npr.org/1199469798)
 * [2023-09-23, 13:14:49](https://news.ycombinator.com/item?id=37622955) - [Linux Terminal Emulators Have the Potential of Being Much Faster](https://www.phoronix.com/news/Linux-Terminals-Could-Be-Faster)

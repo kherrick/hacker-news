@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-23, 13:54:38](https://news.ycombinator.com/item?id=37623230) - [Sesame Street – Count to 12 [video]](https://www.youtube.com/watch?v=VOaZbaPzdsk)
 * [2023-09-23, 13:36:18](https://news.ycombinator.com/item?id=37623086) - [Ask HN: How do I stop overthinking personal project management?](https://news.ycombinator.com/item?id=37623086)
 * [2023-09-23, 13:21:10](https://news.ycombinator.com/item?id=37623000) - [She got famous on YouTube. Now it helps fund her research in quantum gravity](https://text.npr.org/1199469798)
 * [2023-09-23, 13:14:49](https://news.ycombinator.com/item?id=37622955) - [Linux Terminal Emulators Have the Potential of Being Much Faster](https://www.phoronix.com/news/Linux-Terminals-Could-Be-Faster)
@@ -25,7 +26,6 @@
 * [2023-09-22, 22:31:15](https://news.ycombinator.com/item?id=37618622) - [A magnificent 1850s house dubbed the Blue Belle of Brooklyn](https://ephemeralnewyork.wordpress.com/2023/09/18/the-story-of-a-magnificent-1850s-house-dubbed-the-blue-belle-of-brooklyn/)
 * [2023-09-22, 19:05:12](https://news.ycombinator.com/item?id=37616281) - [Digression 3: Corrosion – Rust Never Sleeps](https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/digression-3-corrosion-rust-never-sleeps/1)
 * [2023-09-22, 17:21:22](https://news.ycombinator.com/item?id=37614816) - [0-days exploited by commercial surveillance vendor in Egypt](https://blog.google/threat-analysis-group/0-days-exploited-by-commercial-surveillance-vendor-in-egypt/)
-* [2023-09-22, 15:08:32](https://news.ycombinator.com/item?id=37613054) - [Show HN: Paisa – Open-Source Personal Finance Manager](https://paisa.fyi/)
 * [2023-09-22, 12:43:28](https://news.ycombinator.com/item?id=37611257) - [Bambu Lab A1 Mini](https://bambulab.com/en-eu/a1-mini)
 * [2023-09-22, 04:43:22](https://news.ycombinator.com/item?id=37607963) - [The Frustration Loop](https://herman.bearblog.dev/the-frustration-loop/)
 * [2023-09-22, 00:22:05](https://news.ycombinator.com/item?id=37606296) - [Jewel of the forest: New electric blue tarantula species discovered in Thailand](https://phys.org/news/2023-09-jewel-forest-electric-blue-tarantula.html)
