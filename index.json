@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-23, 10:26:43",
+      "https://news.ycombinator.com/item?id=37621999"
+    ],
+    [
+      "LLMs trained on “A is B” fail to learn “B is A”",
+      "https://paperswithcode.com/paper/the-reversal-curse-llms-trained-on-a-is-b"
+    ]
+  ],
+  [
+    [
       "2023-09-23, 09:53:22",
       "https://news.ycombinator.com/item?id=37621887"
     ],
@@ -67,16 +77,6 @@
     [
       "FEMA and FCC Plan Nationwide Emergency Alert Test for Oct. 4, 2023",
       "https://www.fema.gov/press-release/20230803/fema-and-fcc-plan-nationwide-emergency-alert-test-oct-4-2023"
-    ]
-  ],
-  [
-    [
-      "2023-09-23, 02:11:46",
-      "https://news.ycombinator.com/item?id=37620043"
-    ],
-    [
-      "Show HN: ChatGPT for Med-School and Healthcare",
-      "https://chat.radiantai.health/"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2023-09-22, 15:49:32",
+      "https://news.ycombinator.com/item?id=37613572"
+    ],
+    [
+      "The Design System Ecosystem",
+      "https://bradfrost.com/blog/post/the-design-system-ecosystem/"
+    ]
+  ],
+  [
+    [
       "2023-09-22, 15:08:32",
       "https://news.ycombinator.com/item?id=37613054"
     ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2023-09-22, 13:02:21",
-      "https://news.ycombinator.com/item?id=37611457"
+      "2023-09-22, 14:21:22",
+      "https://news.ycombinator.com/item?id=37612420"
     ],
     [
-      "Show HN: Learn piano without sheet music",
-      "https://jacobdoescode.com/piano-tabs"
+      "GitHub Actions could be so much better",
+      "https://blog.yossarian.net/2023/09/22/GitHub-Actions-could-be-so-much-better"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2023-09-22, 12:31:12",
-      "https://news.ycombinator.com/item?id=37611136"
-    ],
-    [
-      "Principles for building and scaling feature flag systems",
-      "https://docs.getunleash.io/topics/feature-flags/feature-flag-best-practices"
-    ]
-  ],
-  [
-    [
       "2023-09-22, 11:56:41",
       "https://news.ycombinator.com/item?id=37610812"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2023-09-22, 08:22:28",
-      "https://news.ycombinator.com/item?id=37609393"
+      "2023-09-22, 08:17:58",
+      "https://news.ycombinator.com/item?id=37609352"
     ],
     [
-      "I made a transformer to predict a simple sequence manually",
-      "https://vgel.me/posts/handmade-transformer/"
+      "Polycentric interstate federalism among the Yoruba of Nigeria (2022) [pdf]",
+      "https://cosmosandtaxis.files.wordpress.com/2022/09/kunleoyerinde_ct_vol10_iss11_12.pdf"
     ]
   ],
   [
