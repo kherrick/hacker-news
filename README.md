@@ -1,11 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-23, 20:06:24](https://news.ycombinator.com/item?id=37626954) - [What It’s Like to Be a 13-Year-Old Girl Today](https://www.nytimes.com/interactive/2023/09/20/well/family/13-year-old-girls-social-media-self-esteem.html)
 * [2023-09-23, 19:44:56](https://news.ycombinator.com/item?id=37626731) - [Bottlerocket – Minimal, immutable Linux OS with verified boot](https://bottlerocket.dev)
 * [2023-09-23, 19:27:18](https://news.ycombinator.com/item?id=37626528) - [GNU/Linux Aviation How To](https://tldp.org/HOWTO/Aviation-HOWTO/index.html)
 * [2023-09-23, 19:20:06](https://news.ycombinator.com/item?id=37626458) - [The housing market is about to take a hit as student loan payments restart](https://markets.businessinsider.com/news/commodities/housing-market-student-loan-payments-restart-affordability-crisis-mortgage-rates-2023-8)
 * [2023-09-23, 18:57:03](https://news.ycombinator.com/item?id=37626273) - [iCloud Drive silently deletes your content](https://www.dominikmayer.com/2023/09/icloud-drive-silently-deletes-your-content/)
-* [2023-09-23, 18:53:35](https://news.ycombinator.com/item?id=37626238) - [Israeli Cyber Firms Developed an 'Insane' New Spyware Tool. No Defense Exists](https://www.haaretz.com/israel-news/2023-09-14/ty-article-magazine/.highlight/revealed-israeli-cyber-firms-developed-an-insane-new-spyware-tool-no-defense-exists/0000018a-93cb-de77-a98f-ffdf2fb60000)
 * [2023-09-23, 18:34:27](https://news.ycombinator.com/item?id=37626025) - [I open-sourced Even the Ocean](https://melodicambient.substack.com/p/i-open-sourced-even-the-ocean-2016)
 * [2023-09-23, 18:28:58](https://news.ycombinator.com/item?id=37625973) - [Brainless Jellyfish Demonstrate Learning Ability](https://www.nytimes.com/2023/09/22/science/jellyfish-learning-neurons.html)
 * [2023-09-23, 17:21:56](https://news.ycombinator.com/item?id=37625291) - [The strange disappearance of Mrs Agatha Christie (2022)](https://blog.nationalarchives.gov.uk/20speople-investigating-the-strange-disappearance-of-mrs-agatha-christie/)
@@ -18,6 +16,7 @@
 * [2023-09-23, 14:29:25](https://news.ycombinator.com/item?id=37623557) - [Show HN: LLM Agent Paper List](https://github.com/WooooDyy/LLM-Agent-Paper-List)
 * [2023-09-23, 14:15:33](https://news.ycombinator.com/item?id=37623405) - [India fails to re-establish communication with its Moon probe](https://efe.com/en/science-and-technology/2023-09-22/india-fails-to-re-establish-communication-with-its-moon-probe/)
 * [2023-09-23, 14:03:29](https://news.ycombinator.com/item?id=37623314) - [CRISPR Silkworms Make Spider Silk That Defies Scientific Constraints](https://www.genengnews.com/topics/genome-editing/crispr-silkworms-make-spider-silk-that-defies-scientific-constraints/)
+* [2023-09-23, 13:21:10](https://news.ycombinator.com/item?id=37623000) - [Profile of Sabine Hossenfelder](https://www.npr.org/2023/09/23/1199469798/youtube-star-scientist-sabine-hossenfelder)
 * [2023-09-23, 13:20:41](https://news.ycombinator.com/item?id=37622997) - [Foot – A fast, lightweight and minimalistic Wayland terminal emulator](https://codeberg.org/dnkl/foot)
 * [2023-09-23, 12:34:59](https://news.ycombinator.com/item?id=37622714) - [Collecting and curating material is good and we should do it more](https://buttondown.email/hillelwayne/archive/in-defense-of/)
 * [2023-09-23, 12:32:36](https://news.ycombinator.com/item?id=37622702) - [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo)
@@ -30,6 +29,7 @@
 * [2023-09-22, 14:58:44](https://news.ycombinator.com/item?id=37612913) - [A Beginner's Guide to Neural Mechanisms](https://www.neuralmechanisms.org/videolectures.html)
 * [2023-09-22, 14:28:20](https://news.ycombinator.com/item?id=37612525) - [Responsive type scales with composable CSS utilities](https://tobiasahlin.com/blog/responsive-fluid-css-type-scales/)
 * [2023-09-22, 00:22:05](https://news.ycombinator.com/item?id=37606296) - [New tarantula species discovered in Thailand](https://phys.org/news/2023-09-jewel-forest-electric-blue-tarantula.html)
+* [2023-09-21, 12:16:55](https://news.ycombinator.com/item?id=37596513) - [It's okay to make something nobody wants](https://zhangluyao.com/blog/make-something-nobody-wants/)
 
 ## [Archives](archives/index.md)
 
