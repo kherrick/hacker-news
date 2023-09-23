@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-23](index.md)
 
+* [2023-09-23, 12:01:15](https://news.ycombinator.com/item?id=37622491) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-09-23, 10:47:25](https://news.ycombinator.com/item?id=37622072) - [Landchad: A site dedicated to turn web peasants into Internet LandChads](https://landchad.net)
 * [2023-09-23, 10:45:28](https://news.ycombinator.com/item?id=37622064) - [Fossil versus Git](https://www.fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki)
 * [2023-09-23, 10:26:43](https://news.ycombinator.com/item?id=37621999) - [LLMs trained on “A is B” fail to learn “B is A”](https://paperswithcode.com/paper/the-reversal-curse-llms-trained-on-a-is-b)
