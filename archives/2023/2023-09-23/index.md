@@ -9,6 +9,7 @@
 * [2023-09-23, 14:42:12](https://news.ycombinator.com/item?id=37623680) - [Ethereum founder on U.S. crypto crackdown](https://www.cnbc.com/2023/09/22/vitalik-buterin-cnbc-interview-ethereum-founder-on-us-crypto-crackdown.html)
 * [2023-09-23, 14:30:59](https://news.ycombinator.com/item?id=37623569) - [Make Something Wonderful](https://news.ycombinator.com/item?id=37623569)
 * [2023-09-23, 14:29:55](https://news.ycombinator.com/item?id=37623562) - [Blocking Visual Studio Code embedded reverse shell before it's too late](https://ipfyx.fr/post/visual-studio-code-tunnel/)
+* [2023-09-23, 14:29:25](https://news.ycombinator.com/item?id=37623557) - [Show HN: LLM Agent Paper List](https://github.com/WooooDyy/LLM-Agent-Paper-List)
 * [2023-09-23, 14:21:52](https://news.ycombinator.com/item?id=37623479) - [Spyware can infect your phone or computer via the ads you see online – report](https://theconversation.com/spyware-can-infect-your-phone-or-computer-via-the-ads-you-see-online-report-213685)
 * [2023-09-23, 14:15:33](https://news.ycombinator.com/item?id=37623405) - [India fails to re-establish communication with its Moon probe](https://efe.com/en/science-and-technology/2023-09-22/india-fails-to-re-establish-communication-with-its-moon-probe/)
 * [2023-09-23, 14:05:44](https://news.ycombinator.com/item?id=37623334) - [Why Australia’s Housing Crisis Is a Warning for the World [video]](https://www.youtube.com/watch?v=IqKIlLS7ln4)
