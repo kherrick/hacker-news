@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-23](index.md)
 
+* [2023-09-23, 10:26:43](https://news.ycombinator.com/item?id=37621999) - [LLMs trained on “A is B” fail to learn “B is A”](https://paperswithcode.com/paper/the-reversal-curse-llms-trained-on-a-is-b)
 * [2023-09-23, 09:53:22](https://news.ycombinator.com/item?id=37621887) - [Re: 100k Threads? (2002)](https://lkml.iu.edu/hypermail/linux/kernel/0209.2/1153.html)
 * [2023-09-23, 09:02:22](https://news.ycombinator.com/item?id=37621697) - [Tinder Offers $500-a-Month Subscription to Its Most Active Users](https://www.bloomberg.com/news/articles/2023-09-22/tinder-offers-500-per-month-subscription-for-top-1-of-daters)
 * [2023-09-23, 07:18:39](https://news.ycombinator.com/item?id=37621274) - [Shshsh is a bridge connects Python and shell](https://github.com/zqqqqz2000/shshsh)
