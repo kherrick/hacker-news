@@ -38,6 +38,7 @@
 * [2023-09-21, 15:58:25](https://news.ycombinator.com/item?id=37599587) - [Insider trade on Splunk acquisition for 45,650% return](https://twitter.com/unusual_whales/status/1704870849831125446)
 * [2023-09-21, 15:55:20](https://news.ycombinator.com/item?id=37599542) - [Lead poisoning causes far more death, IQ loss than thought: study](https://medicalxpress.com/news/2023-09-poisoning-death-iq-loss-thought.html)
 * [2023-09-21, 15:53:24](https://news.ycombinator.com/item?id=37599510) - [Matrix 2.0: The Future of Matrix](https://matrix.org/blog/2023/09/matrix-2-0/)
+* [2023-09-21, 15:46:41](https://news.ycombinator.com/item?id=37599413) - [The Carpet Makers](https://en.wikipedia.org/wiki/The_Carpet_Makers)
 * [2023-09-21, 15:40:28](https://news.ycombinator.com/item?id=37599312) - [Sunken temple and sanctuary from ancient Egypt](https://www.franckgoddio.org/projects/sunken-civilizations/heracleion/)
 * [2023-09-21, 15:40:28](https://news.ycombinator.com/item?id=37599312) - [Sunken temple and sanctuary from ancient Egypt found](https://www.livescience.com/archaeology/ancient-egyptians/sunken-temple-and-sanctuary-from-ancient-egypt-found-brimming-with-treasures-and-secrets)
 * [2023-09-21, 15:33:06](https://news.ycombinator.com/item?id=37599194) - [The NSA Invented Bitcoin?](https://twitter.com/danroberts0101/status/1702440110002729356)
