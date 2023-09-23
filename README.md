@@ -23,12 +23,12 @@
 * [2023-09-22, 13:02:21](https://news.ycombinator.com/item?id=37611457) - [Show HN: Learn piano without sheet music](https://jacobdoescode.com/piano-tabs)
 * [2023-09-22, 12:43:28](https://news.ycombinator.com/item?id=37611257) - [Bambu Lab A1 Mini](https://bambulab.com/en-eu/a1-mini)
 * [2023-09-22, 12:31:12](https://news.ycombinator.com/item?id=37611136) - [Principles for building and scaling feature flag systems](https://docs.getunleash.io/topics/feature-flags/feature-flag-best-practices)
-* [2023-09-22, 12:06:42](https://news.ycombinator.com/item?id=37610899) - [Ways to capture changes in Postgres](https://blog.sequin.io/all-the-ways-to-capture-changes-in-postgres/)
 * [2023-09-22, 10:02:32](https://news.ycombinator.com/item?id=37610083) - [Choosing a more optimal `String` type](https://swatinem.de/blog/optimized-strings/)
 * [2023-09-22, 08:22:28](https://news.ycombinator.com/item?id=37609393) - [I made a transformer to predict a simple sequence manually](https://vgel.me/posts/handmade-transformer/)
 * [2023-09-22, 04:43:22](https://news.ycombinator.com/item?id=37607963) - [The Frustration Loop](https://herman.bearblog.dev/the-frustration-loop/)
 * [2023-09-22, 00:31:09](https://news.ycombinator.com/item?id=37606373) - [Technique for 3D printing metals at the nanoscale reveals surprise benefit](https://phys.org/news/2023-09-technique-3d-metals-nanoscale-reveals.html)
 * [2023-09-21, 15:46:41](https://news.ycombinator.com/item?id=37599413) - [The Carpet Makers](https://en.wikipedia.org/wiki/The_Carpet_Makers)
+* [2023-09-21, 12:16:55](https://news.ycombinator.com/item?id=37596513) - [It's okay to make something nobody wants](https://zhangluyao.com/blog/make-something-nobody-wants/)
 * [2023-09-20, 07:27:32](https://news.ycombinator.com/item?id=37581405) - [Archaeologists find 500-year-old board game carved in ruins of Polish castle](https://arstechnica.com/science/2023/09/archaeologists-find-500-year-old-board-game-carved-in-ruins-of-polish-castle/)
 
 ## [Archives](archives/index.md)

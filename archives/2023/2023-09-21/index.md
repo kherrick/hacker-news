@@ -66,6 +66,7 @@
 * [2023-09-21, 12:40:58](https://news.ycombinator.com/item?id=37596755) - [Airlines Are Just Banks Now](https://www.theatlantic.com/ideas/archive/2023/09/airlines-banks-mileage-programs/675374/)
 * [2023-09-21, 12:39:47](https://news.ycombinator.com/item?id=37596738) - [Intel slaps forehead, says I got it: AI PCs. Sell them AI PCs](https://www.theregister.com/2023/09/19/intel_pcs_nvidia/)
 * [2023-09-21, 12:19:16](https://news.ycombinator.com/item?id=37596530) - [Uber Eats will start accepting food stamps for grocery delivery in 2024](https://www.theverge.com/2023/9/20/23880403/uber-eats-food-stamps-snap-ebt-fsa-flex-ai-assistant)
+* [2023-09-21, 12:16:55](https://news.ycombinator.com/item?id=37596513) - [It's okay to make something nobody wants](https://zhangluyao.com/blog/make-something-nobody-wants/)
 * [2023-09-21, 12:15:19](https://news.ycombinator.com/item?id=37596498) - [BrainTree has been down for more than 6 hours now](https://www.paypal-status.com/incident/production)
 * [2023-09-21, 12:15:19](https://news.ycombinator.com/item?id=37596497) - [Cisco Acquires Splunk](https://www.splunk.com/en_us/blog/leadership/splunk-and-cisco-unite-to-accelerate-digital-resilience-as-one-of-the-leading-global-software-companies.html)
 * [2023-09-21, 12:08:53](https://news.ycombinator.com/item?id=37596439) - [Community Growth At: HashiCorp](https://community.inc/deep-dives/community-growth-hashicorp)
