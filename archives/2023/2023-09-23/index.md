@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-23](index.md)
 
+* [2023-09-23, 19:04:10](https://news.ycombinator.com/item?id=37626326) - [Project Gutenberg has implemented one of the worst AI fears of striking actors](https://qz.com/project-gutenberg-ai-to-ebooks-audiobooks-1850856297)
 * [2023-09-23, 18:57:03](https://news.ycombinator.com/item?id=37626273) - [iCloud Drive silently deletes your content](https://www.dominikmayer.com/2023/09/icloud-drive-silently-deletes-your-content/)
 * [2023-09-23, 18:41:43](https://news.ycombinator.com/item?id=37626106) - [We Fixed the iPhone 15](https://twitter.com/FrameworkPuter/status/1705458267508609052)
 * [2023-09-23, 18:34:27](https://news.ycombinator.com/item?id=37626025) - [I open-sourced Even the Ocean! But why?](https://melodicambient.substack.com/p/i-open-sourced-even-the-ocean-2016)
@@ -27,6 +28,7 @@
 * [2023-09-23, 14:21:52](https://news.ycombinator.com/item?id=37623479) - [Spyware can infect your phone or computer via the ads you see online – report](https://theconversation.com/spyware-can-infect-your-phone-or-computer-via-the-ads-you-see-online-report-213685)
 * [2023-09-23, 14:15:33](https://news.ycombinator.com/item?id=37623405) - [India fails to re-establish communication with its Moon probe](https://efe.com/en/science-and-technology/2023-09-22/india-fails-to-re-establish-communication-with-its-moon-probe/)
 * [2023-09-23, 14:05:44](https://news.ycombinator.com/item?id=37623334) - [Why Australia’s Housing Crisis Is a Warning for the World [video]](https://www.youtube.com/watch?v=IqKIlLS7ln4)
+* [2023-09-23, 14:03:29](https://news.ycombinator.com/item?id=37623314) - [CRISPR Silkworms Make Spider Silk That Defies Scientific Constraints](https://www.genengnews.com/topics/genome-editing/crispr-silkworms-make-spider-silk-that-defies-scientific-constraints/)
 * [2023-09-23, 13:54:38](https://news.ycombinator.com/item?id=37623230) - [Sesame Street – Count to 12 [video]](https://www.youtube.com/watch?v=VOaZbaPzdsk)
 * [2023-09-23, 13:36:18](https://news.ycombinator.com/item?id=37623086) - [Ask HN: How do I stop overthinking personal project management?](https://news.ycombinator.com/item?id=37623086)
 * [2023-09-23, 13:21:10](https://news.ycombinator.com/item?id=37623000) - [She got famous on YouTube. Now it helps fund her research in quantum gravity](https://text.npr.org/1199469798)
