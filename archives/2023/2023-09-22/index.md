@@ -6,7 +6,10 @@
 
 * [2023-09-22, 23:53:13](https://news.ycombinator.com/item?id=37619260) - [Electronic Tiny TRS-80 Model III](https://transmutable.gumroad.com/l/e-trs-80-model-iii)
 * [2023-09-22, 23:46:56](https://news.ycombinator.com/item?id=37619219) - [LastPass: ‘Horse Gone Barn Bolted’ Is Strong Password](https://krebsonsecurity.com/2023/09/lastpass-horse-gone-barn-bolted-is-strong-password/)
+* [2023-09-22, 23:35:01](https://news.ycombinator.com/item?id=37619151) - [Croc: Easily and securely send things from one computer to another](https://github.com/schollz/croc)
+* [2023-09-22, 23:27:48](https://news.ycombinator.com/item?id=37619100) - [Show HN: TG – Fast geometry library for C](https://github.com/tidwall/tg)
 * [2023-09-22, 23:01:58](https://news.ycombinator.com/item?id=37618914) - [An Update on Prime Video](https://www.aboutamazon.com/news/entertainment/prime-video-update-announces-limited-ads)
+* [2023-09-22, 21:54:22](https://news.ycombinator.com/item?id=37618301) - [Conway Can Divide by Three, but I Can’t [pdf]](https://math.berkeley.edu/~pglutz/division_by_three.pdf)
 * [2023-09-22, 21:31:37](https://news.ycombinator.com/item?id=37618055) - [The Radio Station That Bridge Built](https://www.nutsvolts.com/magazine/article/the-radio-station-that-bridge-built)
 * [2023-09-22, 21:29:39](https://news.ycombinator.com/item?id=37618037) - [Can Govt Debt Solve Fertility?](https://www.overcomingbias.com/p/can-govt-debt-solve-fertility)
 * [2023-09-22, 21:12:51](https://news.ycombinator.com/item?id=37617864) - [iOS 17 Is a Prude](https://old.reddit.com/r/iphone/comments/16nqk30/ios_17_is_a_prude/)
@@ -96,5 +99,6 @@
 * [2023-09-22, 01:29:41](https://news.ycombinator.com/item?id=37606775) - [Luiz André Barroso has died](https://www.wired.com/story/google-mourns-luiz-andre-barroso-veteran-engineer-invented-the-modern-data-center/)
 * [2023-09-22, 00:33:30](https://news.ycombinator.com/item?id=37606396) - [All 8,291 license plates available in the U.S.](https://github.com/jonkeegan/us-license-plates)
 * [2023-09-22, 00:31:55](https://news.ycombinator.com/item?id=37606380) - [Nintendo 3DS Architecture](https://www.copetti.org/writings/consoles/nintendo-3ds/)
+* [2023-09-22, 00:31:09](https://news.ycombinator.com/item?id=37606373) - [Technique for 3D printing metals at the nanoscale reveals surprise benefit](https://phys.org/news/2023-09-technique-3d-metals-nanoscale-reveals.html)
 * [2023-09-22, 00:29:44](https://news.ycombinator.com/item?id=37606352) - [Outperforming LLMs with less training data and smaller model sizes](https://blog.research.google/2023/09/distilling-step-by-step-outperforming.html)
 * [2023-09-22, 00:24:50](https://news.ycombinator.com/item?id=37606321) - [MGM Seeks Contractors to Repair Infra in 3 Weeks](https://www.snagajob.com/jobs/870614703)
