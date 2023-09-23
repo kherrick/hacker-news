@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
+* [2023-09-22, 23:57:22](https://news.ycombinator.com/item?id=37619285) - [Provably safe systems: the only path to controllable AGI](https://arxiv.org/abs/2309.01933)
 * [2023-09-22, 23:53:13](https://news.ycombinator.com/item?id=37619260) - [Electronic Tiny TRS-80 Model III](https://transmutable.gumroad.com/l/e-trs-80-model-iii)
 * [2023-09-22, 23:46:56](https://news.ycombinator.com/item?id=37619219) - [LastPass: ‘Horse Gone Barn Bolted’ Is Strong Password](https://krebsonsecurity.com/2023/09/lastpass-horse-gone-barn-bolted-is-strong-password/)
 * [2023-09-22, 23:35:01](https://news.ycombinator.com/item?id=37619151) - [Croc: Easily and securely send things from one computer to another](https://github.com/schollz/croc)
