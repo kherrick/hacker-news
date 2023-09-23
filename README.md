@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-23, 15:10:22](https://news.ycombinator.com/item?id=37623955) - [Why Scalpers Can Get Olivia Rodrigo Tickets and You Can't](https://www.404media.co/why-scalpers-can-get-olivia-rodrigo-tickets-and-fans-cannot/)
-* [2023-09-23, 14:42:12](https://news.ycombinator.com/item?id=37623680) - [Ethereum founder on U.S. crypto crackdown](https://www.cnbc.com/2023/09/22/vitalik-buterin-cnbc-interview-ethereum-founder-on-us-crypto-crackdown.html)
 * [2023-09-23, 14:29:55](https://news.ycombinator.com/item?id=37623562) - [Blocking Visual Studio Code embedded reverse shell before it's too late](https://ipfyx.fr/post/visual-studio-code-tunnel/)
 * [2023-09-23, 14:21:52](https://news.ycombinator.com/item?id=37623479) - [Spyware can infect your phone or computer via the ads you see online – report](https://theconversation.com/spyware-can-infect-your-phone-or-computer-via-the-ads-you-see-online-report-213685)
 * [2023-09-23, 14:15:33](https://news.ycombinator.com/item?id=37623405) - [India fails to re-establish communication with its Moon probe](https://efe.com/en/science-and-technology/2023-09-22/india-fails-to-re-establish-communication-with-its-moon-probe/)
@@ -21,13 +20,14 @@
 * [2023-09-23, 04:06:23](https://news.ycombinator.com/item?id=37620507) - [TinyML and Efficient Deep Learning Computing](https://efficientml.ai/)
 * [2023-09-23, 03:27:56](https://news.ycombinator.com/item?id=37620367) - [The Year Lou Reed Gave Up on Music](https://www.nytimes.com/2023/09/22/nyregion/lou-reed-king-of-new-york.html)
 * [2023-09-23, 03:11:07](https://news.ycombinator.com/item?id=37620298) - [Teaching Software Engineering in DLang [pdf]](https://dconf.org/2023/slides/shah_and_students.pdf)
+* [2023-09-23, 02:49:07](https://news.ycombinator.com/item?id=37620197) - [FEMA and FCC Plan Nationwide Emergency Alert Test for Oct. 4, 2023](https://www.fema.gov/press-release/20230803/fema-and-fcc-plan-nationwide-emergency-alert-test-oct-4-2023)
 * [2023-09-23, 01:42:38](https://news.ycombinator.com/item?id=37619912) - [Deep genetic structure of Africa reveals unique ancestry of the Angolan Namib](https://phys.org/news/2023-09-deep-genetic-africa-reveals-unique.html)
 * [2023-09-23, 00:31:35](https://news.ycombinator.com/item?id=37619513) - [Auto-Regressive Next-Token Predictors Are Universal Learners](https://arxiv.org/abs/2309.06979)
-* [2023-09-23, 00:07:10](https://news.ycombinator.com/item?id=37619361) - [Sidenotes in Web Design](https://gwern.net/sidenote)
 * [2023-09-22, 23:45:45](https://news.ycombinator.com/item?id=37619207) - [The Romantic Sufi: The Divan of Kamal Khujandi Copied by Jaʿfar Tabrizi](https://blogs.bl.uk/asian-and-african/2023/09/the-romantic-sufi.html)
 * [2023-09-22, 22:31:15](https://news.ycombinator.com/item?id=37618622) - [A magnificent 1850s house dubbed the Blue Belle of Brooklyn](https://ephemeralnewyork.wordpress.com/2023/09/18/the-story-of-a-magnificent-1850s-house-dubbed-the-blue-belle-of-brooklyn/)
 * [2023-09-22, 19:05:12](https://news.ycombinator.com/item?id=37616281) - [Digression 3: Corrosion – Rust Never Sleeps](https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/digression-3-corrosion-rust-never-sleeps/1)
 * [2023-09-22, 17:21:22](https://news.ycombinator.com/item?id=37614816) - [0-days exploited by commercial surveillance vendor in Egypt](https://blog.google/threat-analysis-group/0-days-exploited-by-commercial-surveillance-vendor-in-egypt/)
+* [2023-09-22, 04:43:22](https://news.ycombinator.com/item?id=37607963) - [The Frustration Loop](https://herman.bearblog.dev/the-frustration-loop/)
 * [2023-09-22, 00:22:05](https://news.ycombinator.com/item?id=37606296) - [Jewel of the forest: New electric blue tarantula species discovered in Thailand](https://phys.org/news/2023-09-jewel-forest-electric-blue-tarantula.html)
 * [2023-09-21, 12:16:55](https://news.ycombinator.com/item?id=37596513) - [It's okay to make something nobody wants](https://zhangluyao.com/blog/make-something-nobody-wants/)
 
