@@ -10,4 +10,5 @@
 * [2023-09-23, 01:38:14](https://news.ycombinator.com/item?id=37619886) - [Why are you better at recognizing upright faces?](https://medicalxpress.com/news/2023-09-upright-clues-person-world-differently.html)
 * [2023-09-23, 01:15:02](https://news.ycombinator.com/item?id=37619766) - [Are NFTs Dead?](https://dappgambl.com/nfts/dead-nfts/)
 * [2023-09-23, 01:03:20](https://news.ycombinator.com/item?id=37619709) - [Imbue (Formerly Generally Intelligent, YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=37619709)
+* [2023-09-23, 00:31:35](https://news.ycombinator.com/item?id=37619513) - [Auto-Regressive Next-Token Predictors Are Universal Learners](https://arxiv.org/abs/2309.06979)
 * [2023-09-23, 00:07:10](https://news.ycombinator.com/item?id=37619361) - [Sidenotes in Web Design](https://gwern.net/sidenote)
