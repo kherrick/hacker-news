@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-23, 21:24:20](https://news.ycombinator.com/item?id=37627684) - [Ways YC has changed in the last year](https://twitter.com/snowmaker/status/1705643839443403263)
 * [2023-09-23, 21:00:27](https://news.ycombinator.com/item?id=37627514) - [Freshpaint (YC S19) is hiring engineers to enable privacy-first marketing](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-09-23, 20:37:41](https://news.ycombinator.com/item?id=37627292) - [Scientists improve anti-tumor power of CAR-T cells](https://www.insideprecisionmedicine.com/topics/oncology/scientists-improve-anti-tumor-power-of-car-t-cells/)
 * [2023-09-23, 20:22:53](https://news.ycombinator.com/item?id=37627129) - [The Cambridge Law Corpus: A Corpus for Legal AI Research](https://arxiv.org/abs/2309.12269)
@@ -11,10 +12,9 @@
 * [2023-09-23, 17:21:56](https://news.ycombinator.com/item?id=37625291) - [The strange disappearance of Mrs Agatha Christie (2022)](https://blog.nationalarchives.gov.uk/20speople-investigating-the-strange-disappearance-of-mrs-agatha-christie/)
 * [2023-09-23, 17:21:17](https://news.ycombinator.com/item?id=37625283) - [Show HN: A “CRM” for personal relationships](https://www.elim.app/eng/home)
 * [2023-09-23, 15:56:48](https://news.ycombinator.com/item?id=37624400) - [Show HN: I rewrote the 1990's LambdaMOO server](https://github.com/rdaum/moor)
-* [2023-09-23, 15:34:59](https://news.ycombinator.com/item?id=37624201) - [The vital art of talking to strangers](https://www.economist.com/books-and-arts/2021/07/10/the-vital-art-of-talking-to-strangers)
+* [2023-09-23, 15:34:59](https://news.ycombinator.com/item?id=37624201) - [The vital art of talking to strangers (2021)](https://www.economist.com/books-and-arts/2021/07/10/the-vital-art-of-talking-to-strangers)
 * [2023-09-23, 15:10:22](https://news.ycombinator.com/item?id=37623955) - [Why scalpers can get tickets](https://www.404media.co/why-scalpers-can-get-olivia-rodrigo-tickets-and-fans-cannot/)
 * [2023-09-23, 14:29:55](https://news.ycombinator.com/item?id=37623562) - [Blocking Visual Studio Code embedded reverse shell before it's too late](https://ipfyx.fr/post/visual-studio-code-tunnel/)
-* [2023-09-23, 14:29:25](https://news.ycombinator.com/item?id=37623557) - [Show HN: LLM Agent Paper List](https://github.com/WooooDyy/LLM-Agent-Paper-List)
 * [2023-09-23, 14:15:33](https://news.ycombinator.com/item?id=37623405) - [India fails to re-establish communication with its Moon probe](https://efe.com/en/science-and-technology/2023-09-22/india-fails-to-re-establish-communication-with-its-moon-probe/)
 * [2023-09-23, 14:03:29](https://news.ycombinator.com/item?id=37623314) - [CRISPR silkworms make spider silk that defies constraints](https://www.genengnews.com/topics/genome-editing/crispr-silkworms-make-spider-silk-that-defies-scientific-constraints/)
 * [2023-09-23, 13:54:38](https://news.ycombinator.com/item?id=37623230) - [Sesame Street Pinball Number Count [video]](https://www.youtube.com/watch?v=VOaZbaPzdsk)
