@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-23](index.md)
 
+* [2023-09-23, 18:57:03](https://news.ycombinator.com/item?id=37626273) - [iCloud Drive silently deletes your content](https://www.dominikmayer.com/2023/09/icloud-drive-silently-deletes-your-content/)
+* [2023-09-23, 18:41:43](https://news.ycombinator.com/item?id=37626106) - [We Fixed the iPhone 15](https://twitter.com/FrameworkPuter/status/1705458267508609052)
 * [2023-09-23, 18:34:27](https://news.ycombinator.com/item?id=37626025) - [I open-sourced Even the Ocean! But why?](https://melodicambient.substack.com/p/i-open-sourced-even-the-ocean-2016)
 * [2023-09-23, 17:54:42](https://news.ycombinator.com/item?id=37625627) - [Egyptian presidential hopeful targeted by Predator spyware](https://www.washingtonpost.com/investigations/2023/09/23/predator-egypt-hack-spyware-iphone/)
 * [2023-09-23, 17:21:56](https://news.ycombinator.com/item?id=37625291) - [The strange disappearance of Mrs Agatha Christie (2022)](https://blog.nationalarchives.gov.uk/20speople-investigating-the-strange-disappearance-of-mrs-agatha-christie/)
