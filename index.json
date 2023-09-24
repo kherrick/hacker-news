@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-24, 14:04:13",
+      "https://news.ycombinator.com/item?id=37633230"
+    ],
+    [
+      "Reverse-engineering the classic MK4116 16-kilobit DRAM chip",
+      "https://www.righto.com/2020/11/reverse-engineering-classic-mk4116-16.html"
+    ]
+  ],
+  [
+    [
       "2023-09-24, 13:41:48",
       "https://news.ycombinator.com/item?id=37633028"
     ],
@@ -211,6 +221,16 @@
   ],
   [
     [
+      "2023-09-23, 19:44:56",
+      "https://news.ycombinator.com/item?id=37626731"
+    ],
+    [
+      "Bottlerocket – Minimal, immutable Linux OS with verified boot",
+      "https://bottlerocket.dev"
+    ]
+  ],
+  [
+    [
       "2023-09-23, 13:17:45",
       "https://news.ycombinator.com/item?id=37622974"
     ],
@@ -227,26 +247,6 @@
     [
       "Usability of Old Computers",
       "https://blog.karthikkumar.org/usability-of-old-computers-f06a7f00f72e?gi=ce330599bc0f"
-    ]
-  ],
-  [
-    [
-      "2023-09-23, 01:35:52",
-      "https://news.ycombinator.com/item?id=37619873"
-    ],
-    [
-      "Hardware Reverse Oscilloscope 2",
-      "https://mitxela.com/projects/rscope2"
-    ]
-  ],
-  [
-    [
-      "2023-09-22, 21:09:00",
-      "https://news.ycombinator.com/item?id=37617820"
-    ],
-    [
-      "Www which WASM works",
-      "https://flak.tedunangst.com/post/www-which-wasm-works"
     ]
   ],
   [
