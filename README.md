@@ -2,7 +2,6 @@
 
 * [2023-09-24, 16:44:56](https://news.ycombinator.com/item?id=37634713) - [Cavities were cured in 1985, and no one knows it yet](https://www.lanternbioworks.com)
 * [2023-09-24, 15:49:01](https://news.ycombinator.com/item?id=37634161) - [Workers who cut countertops are dying of silicosis](https://news.yahoo.com/california-workers-cut-countertops-dying-100021788.html)
-* [2023-09-24, 15:40:41](https://news.ycombinator.com/item?id=37634091) - [Habitually Skipping Breakfast Is Associated with the Risk of GI Cancers](https://pubmed.ncbi.nlm.nih.gov/36869181/)
 * [2023-09-24, 15:32:45](https://news.ycombinator.com/item?id=37634018) - [CoRF: Colorizing Radiance Fields Using Knowledge Distillation](https://arxiv.org/abs/2309.07668)
 * [2023-09-24, 15:14:39](https://news.ycombinator.com/item?id=37633867) - [NASA’s Osiris-Rex capsule lands in Utah with Bennu asteroid sample](https://www.theguardian.com/science/live/2023/sep/24/bennu-asteroid-sample-nasa-osiris-rex-mission-earth-updates)
 * [2023-09-24, 15:09:04](https://news.ycombinator.com/item?id=37633826) - [CSS Findings from the Threads App: Part 2](https://ishadeed.com/article/threads-app-css-part-2/)
@@ -14,6 +13,7 @@
 * [2023-09-24, 12:49:23](https://news.ycombinator.com/item?id=37632653) - [Valley Fever Is a Growing Fungal Threat to Outdoor Workers](https://www.scientificamerican.com/article/valley-fever-is-a-growing-fungal-threat-to-outdoor-workers/)
 * [2023-09-24, 12:48:12](https://news.ycombinator.com/item?id=37632639) - [Show HN: Pigsty – PostgreSQL in Great STYle, Free RDS Alternative](https://github.com/Vonng/pigsty)
 * [2023-09-24, 11:45:32](https://news.ycombinator.com/item?id=37632232) - [What it takes to pass a file path to a Windows API in C++](https://mastodon.gamedev.place/@AshleyGullen/111109299141510319)
+* [2023-09-24, 11:35:20](https://news.ycombinator.com/item?id=37632174) - [The myth of the myth of learning styles](https://nedbatchelder.com/blog/202309/the_myth_of_the_myth_of_learning_styles.html)
 * [2023-09-24, 11:27:13](https://news.ycombinator.com/item?id=37632122) - [Texas death row inmate at mercy of supreme court, and junk science](https://www.theguardian.com/world/2023/sep/24/texas-death-row-robert-roberson-supreme-court-shaken-baby-syndrome)
 * [2023-09-24, 08:52:02](https://news.ycombinator.com/item?id=37631283) - [Geometric Algebra to Geometric Computing Software Developers](https://arxiv.org/abs/1705.06668)
 * [2023-09-24, 08:08:00](https://news.ycombinator.com/item?id=37631078) - [Croatia demolished houses of libertarian project “Liberland”, seized property](https://liberlandpress.com/2023/09/22/brutal-croatian-invades-liberland-destroys-houses/)
