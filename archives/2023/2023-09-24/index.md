@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-24](index.md)
 
+* [2023-09-24, 15:32:45](https://news.ycombinator.com/item?id=37634018) - [CoRF: Colorizing Radiance Fields Using Knowledge Distillation](https://arxiv.org/abs/2309.07668)
 * [2023-09-24, 15:14:39](https://news.ycombinator.com/item?id=37633867) - [NASA’s Osiris-Rex capsule lands in Utah with Bennu asteroid sample](https://www.theguardian.com/science/live/2023/sep/24/bennu-asteroid-sample-nasa-osiris-rex-mission-earth-updates)
 * [2023-09-24, 14:17:48](https://news.ycombinator.com/item?id=37633358) - [PiWrite – Kindle Paperwhite to Write](https://github.com/rberenguel/PiWrite)
 * [2023-09-24, 14:04:13](https://news.ycombinator.com/item?id=37633230) - [Reverse-engineering the classic MK4116 16-kilobit DRAM chip](https://www.righto.com/2020/11/reverse-engineering-classic-mk4116-16.html)
