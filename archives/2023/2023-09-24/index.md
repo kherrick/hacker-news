@@ -11,6 +11,7 @@
 * [2023-09-24, 11:45:32](https://news.ycombinator.com/item?id=37632232) - [What it takes to pass a file path to a Windows API in C++](https://mastodon.gamedev.place/@AshleyGullen/111109299141510319)
 * [2023-09-24, 11:35:20](https://news.ycombinator.com/item?id=37632174) - [The myth of the myth of learning styles](https://nedbatchelder.com/blog/202309/the_myth_of_the_myth_of_learning_styles.html)
 * [2023-09-24, 11:27:13](https://news.ycombinator.com/item?id=37632122) - [Texas death row inmate at mercy of Supreme Court – and junk science](https://www.theguardian.com/world/2023/sep/24/texas-death-row-robert-roberson-supreme-court-shaken-baby-syndrome)
+* [2023-09-24, 11:21:35](https://news.ycombinator.com/item?id=37632098) - [FBI Warned Sikhs in the U.S. After Killing of Canadian Activist](https://theintercept.com/2023/09/23/sikhs-fbi-canada-india-nijjar/)
 * [2023-09-24, 11:15:00](https://news.ycombinator.com/item?id=37632061) - [AI-generated naked child images shock Spanish town of Almendralejo](https://www.bbc.co.uk/news/world-europe-66877718)
 * [2023-09-24, 10:24:19](https://news.ycombinator.com/item?id=37631788) - [I downgraded to an iPhone 11 Pro Max – and there’s not much I’m missing](https://9to5mac.com/2023/08/02/using-iphone-11-pro-max-in-2023/)
 * [2023-09-24, 10:12:09](https://news.ycombinator.com/item?id=37631727) - [‘Capitalism is dead. Now we have something much worse’](https://www.theguardian.com/world/2023/sep/24/yanis-varoufakis-technofeudalism-capitalism-ukraine-interview)
