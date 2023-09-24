@@ -2,7 +2,7 @@
 
 * [2023-09-24, 09:30:13](https://news.ycombinator.com/item?id=37631480) - [Labelling soya foods as ultra-processed is unhelpful](https://www.alprofoundation.org/scientific-updates/labelling-soya-foods-as-ultra-processed-is-unhelpful/)
 * [2023-09-24, 08:59:09](https://news.ycombinator.com/item?id=37631308) - [Bus Pirate 5 Firmware](https://firmware.buspirate.com/)
-* [2023-09-24, 08:27:28](https://news.ycombinator.com/item?id=37631161) - [Why can’t Americans buy cheap Chinese EVs?](https://www.ajot.com/news/why-canat-americans-buy-cheap-chinese-evs/)
+* [2023-09-24, 08:52:02](https://news.ycombinator.com/item?id=37631283) - [Geometric Algebra to Geometric Computing Software Developers](https://arxiv.org/abs/1705.06668)
 * [2023-09-24, 08:10:52](https://news.ycombinator.com/item?id=37631089) - [A Hackers' Guide to Language Models [video]](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 * [2023-09-24, 08:00:38](https://news.ycombinator.com/item?id=37631043) - [The World’s Oldest Active Torrent Turns 20 Years Old](https://torrentfreak.com/the-worlds-oldest-active-torrent-turns-20-years-old-230924/)
 * [2023-09-24, 07:31:41](https://news.ycombinator.com/item?id=37630914) - [Google is killing Gmail's Basic HTML View in early 2024](https://support.google.com/mail/answer/15049?hl=en)
@@ -11,7 +11,6 @@
 * [2023-09-24, 03:19:30](https://news.ycombinator.com/item?id=37629874) - [Platform that enables Windows driver development in Rust](https://github.com/microsoft/windows-drivers-rs)
 * [2023-09-24, 02:48:19](https://news.ycombinator.com/item?id=37629719) - [Ash Framework](https://ash-hq.org/)
 * [2023-09-24, 00:55:38](https://news.ycombinator.com/item?id=37629119) - [Show HN: Karektar – Bitmap Font Designer](https://karektar.newtrino.ink/)
-* [2023-09-23, 23:14:39](https://news.ycombinator.com/item?id=37628525) - [IPFS support got merged into curl](https://twitter.com/bmann/status/1705572964068930010)
 * [2023-09-23, 22:53:32](https://news.ycombinator.com/item?id=37628337) - [SpamChannel: Spoofing emails from 2M domains and virtually becoming Satan [pdf]](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20presentations/byt3bl33d3r%20-%20SpamChannel%20Spoofing%20Emails%20From%202%20Million%20Domains%20and%20Virtually%20Becoming%20Satan.pdf)
 * [2023-09-23, 21:30:23](https://news.ycombinator.com/item?id=37627745) - [EU fines Intel $400M for blocking AMD's market access](https://www.neowin.net/news/eu-fines-intel-400-million-for-blocking-amds-market-access-through-payments-to-pc-makers/)
 * [2023-09-23, 21:14:13](https://news.ycombinator.com/item?id=37627615) - [Neural-Symbolic Recursive Machine for Systematic Generalization](https://arxiv.org/abs/2210.01603)
@@ -28,6 +27,7 @@
 * [2023-09-22, 21:09:00](https://news.ycombinator.com/item?id=37617820) - [Www which WASM works](https://flak.tedunangst.com/post/www-which-wasm-works)
 * [2023-09-22, 15:26:58](https://news.ycombinator.com/item?id=37613299) - [The equinox is not when day and night have equal lengths](https://www.scientificamerican.com/article/the-equinox-is-not-what-you-think-it-is/)
 * [2023-09-22, 15:14:31](https://news.ycombinator.com/item?id=37613125) - [The triumphs and failures of accessible gaming hardware](https://www.rockpapershotgun.com/they-dont-care-inside-the-triumphs-and-failures-of-accessible-gaming-hardware)
+* [2023-09-22, 13:59:00](https://news.ycombinator.com/item?id=37612154) - [An Austrian-American actress/inventor pioneered basis for WiFi, GPS, & Bluetooth](https://www.womenshistory.org/education-resources/biographies/hedy-lamarr)
 * [2023-09-22, 13:52:15](https://news.ycombinator.com/item?id=37612067) - [Electrons from Earth may be forming water on the moon](https://phys.org/news/2023-09-electrons-earth-moon.html)
 * [2023-09-22, 13:28:21](https://news.ycombinator.com/item?id=37611774) - [Black holes eat faster than previously expected](https://news.northwestern.edu/stories/2023/09/black-holes-eat-faster-than-previously-expected/)
 

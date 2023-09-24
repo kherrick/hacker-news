@@ -70,6 +70,7 @@
 * [2023-09-22, 14:28:20](https://news.ycombinator.com/item?id=37612525) - [Responsive type scales with composable CSS utilities](https://tobiasahlin.com/blog/responsive-fluid-css-type-scales/)
 * [2023-09-22, 14:21:22](https://news.ycombinator.com/item?id=37612420) - [GitHub Actions could be so much better](https://blog.yossarian.net/2023/09/22/GitHub-Actions-could-be-so-much-better)
 * [2023-09-22, 14:04:19](https://news.ycombinator.com/item?id=37612215) - [The Paradox That Broke Set Theory](https://www.cantorsparadise.com/the-paradox-that-broke-set-theory-658a83b1abf9)
+* [2023-09-22, 13:59:00](https://news.ycombinator.com/item?id=37612154) - [An Austrian-American actress/inventor pioneered basis for WiFi, GPS, & Bluetooth](https://www.womenshistory.org/education-resources/biographies/hedy-lamarr)
 * [2023-09-22, 13:57:24](https://news.ycombinator.com/item?id=37612127) - [Valve Is a Wonderful Upstream Contributor to Linux and the Open-Source Community](https://www.phoronix.com/news/Valve-Upstream-Everything-OSS)
 * [2023-09-22, 13:52:15](https://news.ycombinator.com/item?id=37612067) - [Electrons from Earth may be forming water on the moon](https://phys.org/news/2023-09-electrons-earth-moon.html)
 * [2023-09-22, 13:28:21](https://news.ycombinator.com/item?id=37611774) - [Black holes eat faster than previously expected](https://news.northwestern.edu/stories/2023/09/black-holes-eat-faster-than-previously-expected/)
