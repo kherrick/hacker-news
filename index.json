@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-24, 19:09:20",
+      "https://news.ycombinator.com/item?id=37636216"
+    ],
+    [
+      "“What If Linus Torvalds Gets Hit by a Bus?” – An Empirical Study (2000)",
+      "https://web.archive.org/web/20011113013913/http://segfault.org/story.phtml?mode=2&id=38b40d78-087dd360"
+    ]
+  ],
+  [
+    [
       "2023-09-24, 19:01:10",
       "https://news.ycombinator.com/item?id=37636124"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=37635144"
     ],
     [
-      "Why the Tomato Was Feared in Europe for More Than 200 Years",
+      "The tomato was thought to be poisonous in late-1700s Europe (2013)",
       "https://www.smithsonianmag.com/arts-culture/why-the-tomato-was-feared-in-europe-for-more-than-200-years-863735/"
     ]
   ],
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2023-09-24, 15:07:17",
+      "https://news.ycombinator.com/item?id=37633815"
+    ],
+    [
+      "John Grisham on Robert Roberson: “Texas may exe­cute an inno­cent man”",
+      "https://deathpenaltyinfo.org/news/john-grisham-on-robert-roberson-texas-may-execute-an-innocent-man"
+    ]
+  ],
+  [
+    [
       "2023-09-24, 14:17:48",
       "https://news.ycombinator.com/item?id=37633358"
     ],
@@ -131,22 +151,22 @@
   ],
   [
     [
-      "2023-09-24, 11:45:32",
-      "https://news.ycombinator.com/item?id=37632232"
-    ],
-    [
-      "What it takes to pass a file path to a Windows API in C++",
-      "https://mastodon.gamedev.place/@AshleyGullen/111109299141510319"
-    ]
-  ],
-  [
-    [
       "2023-09-24, 08:52:02",
       "https://news.ycombinator.com/item?id=37631283"
     ],
     [
       "Introducing geometric algebra to software developers",
       "https://arxiv.org/abs/1705.06668"
+    ]
+  ],
+  [
+    [
+      "2023-09-24, 08:10:52",
+      "https://news.ycombinator.com/item?id=37631089"
+    ],
+    [
+      "A hacker's guide to language models [video]",
+      "https://www.youtube.com/watch?v=jkrNMKz9pWU"
     ]
   ],
   [
@@ -161,6 +181,16 @@
   ],
   [
     [
+      "2023-09-24, 07:40:53",
+      "https://news.ycombinator.com/item?id=37630951"
+    ],
+    [
+      "Natalie – a work-in-progress Ruby compiler, written in Ruby and C++",
+      "https://github.com/natalie-lang/natalie"
+    ]
+  ],
+  [
+    [
       "2023-09-24, 07:03:51",
       "https://news.ycombinator.com/item?id=37630804"
     ],
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2023-09-24, 05:28:04",
-      "https://news.ycombinator.com/item?id=37630371"
-    ],
-    [
-      "LLM Falcon 180B Needs 720GB RAM to Run",
-      "https://kaitchup.substack.com/p/falcon-180b-can-it-run-on-your-computer"
-    ]
-  ],
-  [
-    [
       "2023-09-24, 04:46:32",
       "https://news.ycombinator.com/item?id=37630208"
     ],
     [
       "Fiber in C++: Understanding the Basics",
       "https://agraphicsguynotes.com/posts/fiber_in_cpp_understanding_the_basics/"
-    ]
-  ],
-  [
-    [
-      "2023-09-24, 03:19:30",
-      "https://news.ycombinator.com/item?id=37629874"
-    ],
-    [
-      "Platform that enables Windows driver development in Rust",
-      "https://github.com/microsoft/windows-drivers-rs"
     ]
   ],
   [
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2023-09-23, 15:04:02",
-      "https://news.ycombinator.com/item?id=37623897"
+      "2023-09-23, 12:44:27",
+      "https://news.ycombinator.com/item?id=37622753"
     ],
     [
-      "13 Years of Foxish",
-      "https://davidhampgonsalves.com/13-years-of-foxish/"
+      "Usability of Old Computers",
+      "https://blog.karthikkumar.org/usability-of-old-computers-f06a7f00f72e?gi=ce330599bc0f"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Hedy Lamarr (2018)",
       "https://www.womenshistory.org/education-resources/biographies/hedy-lamarr"
-    ]
-  ],
-  [
-    [
-      "2023-09-22, 13:52:15",
-      "https://news.ycombinator.com/item?id=37612067"
-    ],
-    [
-      "Electrons from Earth may be forming water on the moon",
-      "https://phys.org/news/2023-09-electrons-earth-moon.html"
     ]
   ],
   [
