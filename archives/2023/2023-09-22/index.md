@@ -50,6 +50,7 @@
 * [2023-09-22, 16:35:15](https://news.ycombinator.com/item?id=37614177) - [Show HN: Rapidpages – OSS alternative to vercel's v0](https://github.com/rapidpages/rapidpages)
 * [2023-09-22, 16:17:09](https://news.ycombinator.com/item?id=37613939) - [Parallelizing non-linear sequential models over the sequence length](https://arxiv.org/abs/2309.12252)
 * [2023-09-22, 16:09:14](https://news.ycombinator.com/item?id=37613830) - [Kia, Hyundai Blame Mass Car Thefts on ‘Lax Policing’ in Court Defense](https://www.thedrive.com/news/kia-hyundai-blame-mass-car-thefts-on-lax-policing-in-court-defense)
+* [2023-09-22, 16:04:30](https://news.ycombinator.com/item?id=37613768) - [Raw Water: Quenching Your Thirst for SQL Injection](https://nautilus.institute/blog/2023/raw-water/)
 * [2023-09-22, 16:02:41](https://news.ycombinator.com/item?id=37613747) - [I'm All-In on Server-Side SQLite](https://fly.io/blog/all-in-on-sqlite-litestream/)
 * [2023-09-22, 15:49:32](https://news.ycombinator.com/item?id=37613572) - [The Design System Ecosystem](https://bradfrost.com/blog/post/the-design-system-ecosystem/)
 * [2023-09-22, 15:42:25](https://news.ycombinator.com/item?id=37613497) - [What Is Appropriation in Art?](https://www.thecollector.com/what-is-appropriation-in-art/)
