@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-23, 23:39:09](https://news.ycombinator.com/item?id=37628674) - [Markets and Technology Won’t Solve Climate Crisis. We Must End Capitalism](https://truthout.org/articles/markets-and-technology-wont-solve-climate-crisis-we-must-end-capitalism/)
 * [2023-09-23, 23:17:45](https://news.ycombinator.com/item?id=37628550) - [Eating Fossils](https://www.palass.org/publications/newsletter/eating-fossils)
 * [2023-09-23, 21:36:21](https://news.ycombinator.com/item?id=37627782) - [The Unforeseen LSD Overdose of 1972](https://notsoprofound.com/the-unforeseen-lsd-overdose-of-1972/)
 * [2023-09-23, 21:30:23](https://news.ycombinator.com/item?id=37627745) - [EU fines Intel $400M for blocking AMD's market access](https://www.neowin.net/news/eu-fines-intel-400-million-for-blocking-amds-market-access-through-payments-to-pc-makers/)
@@ -25,6 +24,7 @@
 * [2023-09-23, 12:32:36](https://news.ycombinator.com/item?id=37622702) - [My solopreneur story](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo)
 * [2023-09-23, 12:20:42](https://news.ycombinator.com/item?id=37622632) - [Coding Guidelines for Prolog (2011)](https://arxiv.org/abs/0911.2899)
 * [2023-09-23, 03:27:56](https://news.ycombinator.com/item?id=37620367) - [The year Lou Reed gave up on music](https://www.nytimes.com/2023/09/22/nyregion/lou-reed-king-of-new-york.html)
+* [2023-09-23, 01:42:38](https://news.ycombinator.com/item?id=37619912) - [Deep genetic structure of Africa reveals unique ancestry of the Angolan Namib](https://phys.org/news/2023-09-deep-genetic-africa-reveals-unique.html)
 * [2023-09-22, 16:17:09](https://news.ycombinator.com/item?id=37613939) - [Parallelizing non-linear sequential models over the sequence length](https://arxiv.org/abs/2309.12252)
 * [2023-09-22, 15:24:18](https://news.ycombinator.com/item?id=37613264) - [Generations-based map vs. sparse map](https://quasilyte.dev/blog/post/gen-map/)
 * [2023-09-22, 14:58:44](https://news.ycombinator.com/item?id=37612913) - [A beginner's guide to neural mechanisms](https://www.neuralmechanisms.org/videolectures.html)
