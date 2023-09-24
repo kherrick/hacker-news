@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-09-24](index.md)
 
+* [2023-09-24, 20:30:01](https://news.ycombinator.com/item?id=37636841) - [Choose Postgres Queue Technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
+* [2023-09-24, 20:13:47](https://news.ycombinator.com/item?id=37636701) - [Show HN: Get your entire ChatGPT history, in Markdown files](https://github.com/mohamed-chs/chatgpt-history-export-to-md)
 * [2023-09-24, 19:48:14](https://news.ycombinator.com/item?id=37636529) - [Unpacking Elixir: Resilience](https://underjord.io/unpacking-elixir-resilience.html)
 * [2023-09-24, 19:44:33](https://news.ycombinator.com/item?id=37636503) - [My Pure Rust Wishlist](https://gburghoorn.com/posts/pure-rust-wishlist/)
+* [2023-09-24, 19:36:46](https://news.ycombinator.com/item?id=37636447) - [Google Analytics Opt-Out Browser Add-On](https://tools.google.com/dlpage/gaoptout)
 * [2023-09-24, 19:20:07](https://news.ycombinator.com/item?id=37636294) - [Ask HN: Would criminalizing long commutes improve quality of life?](https://news.ycombinator.com/item?id=37636294)
 * [2023-09-24, 19:09:20](https://news.ycombinator.com/item?id=37636216) - [“What If Linus Torvalds Gets Hit by a Bus?” – An Empirical Study (2000)](https://web.archive.org/web/20011113013913/http://segfault.org/story.phtml?mode=2&id=38b40d78-087dd360)
 * [2023-09-24, 19:05:49](https://news.ycombinator.com/item?id=37636178) - [Senators seek to stop shutdowns forever, after McCarthy’s spending stumbles](https://www.politico.com/news/2023/09/22/bipartisan-group-stop-government-shutdowns-00117679)
@@ -67,6 +70,7 @@
 * [2023-09-24, 03:10:25](https://news.ycombinator.com/item?id=37629831) - [We install planters so you don't have to look at homeless people](https://sfplanters.org)
 * [2023-09-24, 02:55:31](https://news.ycombinator.com/item?id=37629753) - [The AI revolution is rotten to the core [video]](https://www.youtube.com/watch?v=-MUEXGaxFDA)
 * [2023-09-24, 02:48:19](https://news.ycombinator.com/item?id=37629719) - [Ash Framework](https://ash-hq.org/)
+* [2023-09-24, 02:29:13](https://news.ycombinator.com/item?id=37629618) - [Fear and Desire: On Stanley Kubrick’s first film](https://metrograph.com/fearanddesire/)
 * [2023-09-24, 02:24:03](https://news.ycombinator.com/item?id=37629593) - [In 1873, speculation and overinvestment in railroads sparked a financial crisis](https://www.smithsonianmag.com/history/robber-baron-gamble-railroads-brought-down-bank-plunged-us-into-first-great-depression-panic-1873-180982877/)
 * [2023-09-24, 01:46:44](https://news.ycombinator.com/item?id=37629405) - [Microsoft Paint now has layers and transparency](https://www.itsnicethat.com/news/microsoft-paint-update-digital-190923)
 * [2023-09-24, 01:05:27](https://news.ycombinator.com/item?id=37629191) - [Applied Materials Is a Major Reason Computers Keep Getting Faster](https://www.wsj.com/tech/personal-tech/applied-materials-chips-61bbed0e)
