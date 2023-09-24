@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-24](index.md)
 
+* [2023-09-24, 16:44:56](https://news.ycombinator.com/item?id=37634713) - [Cavities were cured in 1985, and no one knows it yet](https://www.lanternbioworks.com)
 * [2023-09-24, 15:49:01](https://news.ycombinator.com/item?id=37634161) - [California workers who cut countertops are dying of an incurable disease](https://news.yahoo.com/california-workers-cut-countertops-dying-100021788.html)
 * [2023-09-24, 15:40:41](https://news.ycombinator.com/item?id=37634091) - [Habitually Skipping Breakfast Is Associated with the Risk of GI Cancers](https://pubmed.ncbi.nlm.nih.gov/36869181/)
 * [2023-09-24, 15:32:45](https://news.ycombinator.com/item?id=37634018) - [CoRF: Colorizing Radiance Fields Using Knowledge Distillation](https://arxiv.org/abs/2309.07668)

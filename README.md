@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-24, 16:44:56](https://news.ycombinator.com/item?id=37634713) - [Cavities were cured in 1985, and no one knows it yet](https://www.lanternbioworks.com)
 * [2023-09-24, 15:49:01](https://news.ycombinator.com/item?id=37634161) - [Workers who cut countertops are dying of silicosis](https://news.yahoo.com/california-workers-cut-countertops-dying-100021788.html)
 * [2023-09-24, 15:40:41](https://news.ycombinator.com/item?id=37634091) - [Habitually Skipping Breakfast Is Associated with the Risk of GI Cancers](https://pubmed.ncbi.nlm.nih.gov/36869181/)
 * [2023-09-24, 15:32:45](https://news.ycombinator.com/item?id=37634018) - [CoRF: Colorizing Radiance Fields Using Knowledge Distillation](https://arxiv.org/abs/2309.07668)
@@ -23,7 +24,6 @@
 * [2023-09-24, 03:19:30](https://news.ycombinator.com/item?id=37629874) - [Platform that enables Windows driver development in Rust](https://github.com/microsoft/windows-drivers-rs)
 * [2023-09-23, 21:24:20](https://news.ycombinator.com/item?id=37627684) - [Ways YC has changed in the last year](https://twitter.com/snowmaker/status/1705643839443403263)
 * [2023-09-23, 15:04:02](https://news.ycombinator.com/item?id=37623897) - [13 Years of Foxish](https://davidhampgonsalves.com/13-years-of-foxish/)
-* [2023-09-23, 13:17:45](https://news.ycombinator.com/item?id=37622974) - [Reflections on my journey into computer science](https://rugu.dev/en/blog/computer-science-reflections/)
 * [2023-09-22, 16:04:48](https://news.ycombinator.com/item?id=37613769) - [How Australians made the early internet their own](https://theconversation.com/30-years-of-the-web-down-under-how-australians-made-the-early-internet-their-own-212542)
 * [2023-09-22, 14:46:34](https://news.ycombinator.com/item?id=37612750) - [A man who figured out how to turn Americans’ private information into a business](https://www.nytimes.com/2023/09/22/magazine/hank-asher-data.html)
 * [2023-09-22, 14:34:37](https://news.ycombinator.com/item?id=37612606) - [An entire branch of math devoted to knots [video]](https://www.youtube.com/watch?v=8DBhTXM_Br4)
