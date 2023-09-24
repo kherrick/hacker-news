@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-24](index.md)
 
 * [2023-09-24, 19:48:14](https://news.ycombinator.com/item?id=37636529) - [Unpacking Elixir: Resilience](https://underjord.io/unpacking-elixir-resilience.html)
+* [2023-09-24, 19:44:33](https://news.ycombinator.com/item?id=37636503) - [My Pure Rust Wishlist](https://gburghoorn.com/posts/pure-rust-wishlist/)
 * [2023-09-24, 19:20:07](https://news.ycombinator.com/item?id=37636294) - [Ask HN: Would criminalizing long commutes improve quality of life?](https://news.ycombinator.com/item?id=37636294)
 * [2023-09-24, 19:09:20](https://news.ycombinator.com/item?id=37636216) - [“What If Linus Torvalds Gets Hit by a Bus?” – An Empirical Study (2000)](https://web.archive.org/web/20011113013913/http://segfault.org/story.phtml?mode=2&id=38b40d78-087dd360)
 * [2023-09-24, 19:05:49](https://news.ycombinator.com/item?id=37636178) - [Senators seek to stop shutdowns forever, after McCarthy’s spending stumbles](https://www.politico.com/news/2023/09/22/bipartisan-group-stop-government-shutdowns-00117679)
