@@ -20,7 +20,7 @@
 * [2023-09-24, 03:19:30](https://news.ycombinator.com/item?id=37629874) - [Platform that enables Windows driver development in Rust](https://github.com/microsoft/windows-drivers-rs)
 * [2023-09-24, 02:48:19](https://news.ycombinator.com/item?id=37629719) - [Ash Framework](https://ash-hq.org/)
 * [2023-09-24, 00:55:38](https://news.ycombinator.com/item?id=37629119) - [Show HN: Karektar – Bitmap Font Designer](https://karektar.newtrino.ink/)
-* [2023-09-23, 19:44:56](https://news.ycombinator.com/item?id=37626731) - [Bottlerocket – Minimal, immutable Linux OS with verified boot](https://bottlerocket.dev)
+* [2023-09-23, 19:58:52](https://news.ycombinator.com/item?id=37626888) - [Mutually Assured Recursion](https://kylehovey.github.io/blog/mutually-assured-recursion)
 * [2023-09-23, 13:17:45](https://news.ycombinator.com/item?id=37622974) - [Reflections on my journey into computer science](https://rugu.dev/en/blog/computer-science-reflections/)
 * [2023-09-23, 12:44:27](https://news.ycombinator.com/item?id=37622753) - [Usability of Old Computers](https://blog.karthikkumar.org/usability-of-old-computers-f06a7f00f72e?gi=ce330599bc0f)
 * [2023-09-23, 01:35:52](https://news.ycombinator.com/item?id=37619873) - [Hardware Reverse Oscilloscope 2](https://mitxela.com/projects/rscope2)

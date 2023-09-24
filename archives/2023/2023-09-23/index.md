@@ -19,6 +19,7 @@
 * [2023-09-23, 20:22:53](https://news.ycombinator.com/item?id=37627129) - [The Cambridge Law Corpus: A Corpus for Legal AI Research](https://arxiv.org/abs/2309.12269)
 * [2023-09-23, 20:19:37](https://news.ycombinator.com/item?id=37627095) - [Flowers are starting to spread in Antarctica and experts say it's not good news](https://www.unilad.com/news/world-news/antarctica-flowers-spread-climate-change-828134-20230922)
 * [2023-09-23, 20:06:24](https://news.ycombinator.com/item?id=37626954) - [What It’s Like to Be a 13-Year-Old Girl Today](https://www.nytimes.com/interactive/2023/09/20/well/family/13-year-old-girls-social-media-self-esteem.html)
+* [2023-09-23, 19:58:52](https://news.ycombinator.com/item?id=37626888) - [Mutually Assured Recursion](https://kylehovey.github.io/blog/mutually-assured-recursion)
 * [2023-09-23, 19:44:56](https://news.ycombinator.com/item?id=37626731) - [Bottlerocket – Minimal, immutable Linux OS with verified boot](https://bottlerocket.dev)
 * [2023-09-23, 19:29:01](https://news.ycombinator.com/item?id=37626551) - [Computational Discovery on Jupyter](https://computational-discovery-on-jupyter.github.io/Computational-Discovery-on-Jupyter/)
 * [2023-09-23, 19:27:18](https://news.ycombinator.com/item?id=37626528) - [GNU/Linux Aviation How To](https://tldp.org/HOWTO/Aviation-HOWTO/index.html)
