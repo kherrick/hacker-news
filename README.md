@@ -2,7 +2,6 @@
 
 * [2023-09-24, 02:55:31](https://news.ycombinator.com/item?id=37629753) - [The AI revolution is rotten to the core [video]](https://www.youtube.com/watch?v=-MUEXGaxFDA)
 * [2023-09-24, 01:46:44](https://news.ycombinator.com/item?id=37629405) - [Microsoft Paint now has layers and transparency](https://www.itsnicethat.com/news/microsoft-paint-update-digital-190923)
-* [2023-09-24, 01:05:27](https://news.ycombinator.com/item?id=37629191) - [Applied Materials Is a Major Reason Computers Keep Getting Faster](https://www.wsj.com/tech/personal-tech/applied-materials-chips-61bbed0e)
 * [2023-09-24, 00:55:38](https://news.ycombinator.com/item?id=37629119) - [Show HN: Karektar – Bitmap Font Designer](https://karektar.newtrino.ink/)
 * [2023-09-23, 23:17:45](https://news.ycombinator.com/item?id=37628550) - [Eating Fossils](https://www.palass.org/publications/newsletter/eating-fossils)
 * [2023-09-23, 23:14:39](https://news.ycombinator.com/item?id=37628525) - [IPFS support got merged into curl](https://twitter.com/bmann/status/1705572964068930010)
@@ -27,6 +26,7 @@
 * [2023-09-22, 16:17:09](https://news.ycombinator.com/item?id=37613939) - [Parallelizing non-linear sequential models over the sequence length](https://arxiv.org/abs/2309.12252)
 * [2023-09-22, 16:04:30](https://news.ycombinator.com/item?id=37613768) - [Raw Water: Quenching Your Thirst for SQL Injection](https://nautilus.institute/blog/2023/raw-water/)
 * [2023-09-22, 15:55:56](https://news.ycombinator.com/item?id=37613666) - [Hominins built with wood 476,000 years ago](https://www.nature.com/articles/d41586-023-02858-1)
+* [2023-09-22, 15:42:25](https://news.ycombinator.com/item?id=37613497) - [What Is Appropriation in Art?](https://www.thecollector.com/what-is-appropriation-in-art/)
 * [2023-09-22, 15:26:58](https://news.ycombinator.com/item?id=37613299) - [The equinox is not what you think it is](https://www.scientificamerican.com/article/the-equinox-is-not-what-you-think-it-is/)
 * [2023-09-22, 14:58:44](https://news.ycombinator.com/item?id=37612913) - [A beginner's guide to neural mechanisms](https://www.neuralmechanisms.org/videolectures.html)
 * [2023-09-22, 14:28:20](https://news.ycombinator.com/item?id=37612525) - [Responsive type scales with composable CSS utilities](https://tobiasahlin.com/blog/responsive-fluid-css-type-scales/)
