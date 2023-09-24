@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-24](index.md)
 
 * [2023-09-24, 19:05:49](https://news.ycombinator.com/item?id=37636178) - [Senators seek to stop shutdowns forever, after McCarthy’s spending stumbles](https://www.politico.com/news/2023/09/22/bipartisan-group-stop-government-shutdowns-00117679)
+* [2023-09-24, 19:01:10](https://news.ycombinator.com/item?id=37636124) - [Two photographers captured the same millisecond in time (2018)](https://www.dpreview.com/articles/7338941576/how-two-photographers-captured-the-same-millisecond-in-time)
 * [2023-09-24, 19:00:49](https://news.ycombinator.com/item?id=37636121) - [Unpacking Amazon’s stealthy mass layoff strategy in Seattle](https://www.seattletimes.com/opinion/unpacking-amazons-stealthy-mass-layoff-strategy-in-seattle/)
 * [2023-09-24, 18:41:25](https://news.ycombinator.com/item?id=37635939) - [Minecraft Wiki has decided to leave Fandom](https://twitter.com/MinecraftWikiEN/status/1706004078206103965)
 * [2023-09-24, 17:59:39](https://news.ycombinator.com/item?id=37635514) - [Brightline Orlando's First Train 125 MPH from MCO to MIA [video]](https://www.youtube.com/watch?v=Yu18ZqWgQM4)
