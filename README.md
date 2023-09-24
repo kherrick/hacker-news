@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-24, 10:24:19](https://news.ycombinator.com/item?id=37631788) - [I downgraded to an iPhone 11 Pro Max – and there’s not much I’m missing](https://9to5mac.com/2023/08/02/using-iphone-11-pro-max-in-2023/)
 * [2023-09-24, 09:30:13](https://news.ycombinator.com/item?id=37631480) - [Labelling soya foods as ultra-processed is unhelpful](https://www.alprofoundation.org/scientific-updates/labelling-soya-foods-as-ultra-processed-is-unhelpful/)
 * [2023-09-24, 08:59:09](https://news.ycombinator.com/item?id=37631308) - [Bus Pirate 5 Firmware](https://firmware.buspirate.com/)
 * [2023-09-24, 08:52:02](https://news.ycombinator.com/item?id=37631283) - [Geometric Algebra to Geometric Computing Software Developers](https://arxiv.org/abs/1705.06668)
@@ -25,6 +24,7 @@
 * [2023-09-23, 12:44:27](https://news.ycombinator.com/item?id=37622753) - [Usability of Old Computers](https://blog.karthikkumar.org/usability-of-old-computers-f06a7f00f72e?gi=ce330599bc0f)
 * [2023-09-23, 01:35:52](https://news.ycombinator.com/item?id=37619873) - [Hardware Reverse Oscilloscope 2](https://mitxela.com/projects/rscope2)
 * [2023-09-22, 21:09:00](https://news.ycombinator.com/item?id=37617820) - [Www which WASM works](https://flak.tedunangst.com/post/www-which-wasm-works)
+* [2023-09-22, 16:17:09](https://news.ycombinator.com/item?id=37613939) - [Parallelizing non-linear sequential models over the sequence length](https://arxiv.org/abs/2309.12252)
 * [2023-09-22, 15:26:58](https://news.ycombinator.com/item?id=37613299) - [The equinox is not when day and night have equal lengths](https://www.scientificamerican.com/article/the-equinox-is-not-what-you-think-it-is/)
 * [2023-09-22, 15:14:31](https://news.ycombinator.com/item?id=37613125) - [The triumphs and failures of accessible gaming hardware](https://www.rockpapershotgun.com/they-dont-care-inside-the-triumphs-and-failures-of-accessible-gaming-hardware)
 * [2023-09-22, 13:59:00](https://news.ycombinator.com/item?id=37612154) - [An Austrian-American actress/inventor pioneered basis for WiFi, GPS, & Bluetooth](https://www.womenshistory.org/education-resources/biographies/hedy-lamarr)
