@@ -60,6 +60,7 @@
 * [2023-09-23, 13:20:41](https://news.ycombinator.com/item?id=37622997) - [Foot – A fast, lightweight and minimalistic Wayland terminal emulator](https://codeberg.org/dnkl/foot)
 * [2023-09-23, 13:14:49](https://news.ycombinator.com/item?id=37622955) - [Linux Terminal Emulators Have the Potential of Being Much Faster](https://www.phoronix.com/news/Linux-Terminals-Could-Be-Faster)
 * [2023-09-23, 12:58:03](https://news.ycombinator.com/item?id=37622863) - [School Surveillance Tools Are Harming Kids](https://gizmodo.com/school-surveillance-harm-kids-homework-report-1850854919)
+* [2023-09-23, 12:44:27](https://news.ycombinator.com/item?id=37622753) - [Usability of Old Computers](https://blog.karthikkumar.org/usability-of-old-computers-f06a7f00f72e?gi=ce330599bc0f)
 * [2023-09-23, 12:34:59](https://news.ycombinator.com/item?id=37622714) - [Collecting and curating material is good and we should do it more](https://buttondown.email/hillelwayne/archive/in-defense-of/)
 * [2023-09-23, 12:32:36](https://news.ycombinator.com/item?id=37622702) - [My solopreneur story: zero to $45K/mo in 2 years](https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo)
 * [2023-09-23, 12:26:13](https://news.ycombinator.com/item?id=37622671) - [MGM Grand hiring a RHEL SysAdmin willing to work 10 hours/day 7 days/week](https://twitter.com/LasVegasLocally/status/1704986596439941601)
