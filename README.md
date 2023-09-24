@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-24, 22:19:24](https://news.ycombinator.com/item?id=37637715) - [Volkswagen cuts jobs as demand for EVs plunges](https://fortune.com/2023/09/14/vw-cutting-jobs-german-ev-factory-because-demand-plunging-china-tesla/)
-* [2023-09-24, 21:54:51](https://news.ycombinator.com/item?id=37637561) - [Hinder: A Dating App for Emotionally Unavailable Men](https://www.newyorker.com/humor/daily-shouts/hinder-a-dating-app-for-emotionally-unavailable-men)
 * [2023-09-24, 21:25:40](https://news.ycombinator.com/item?id=37637354) - [Corrosion: Rust Never Sleeps](https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/digression-3-corrosion-rust-never-sleeps/1?ref=thebrowser.com)
 * [2023-09-24, 20:44:47](https://news.ycombinator.com/item?id=37637006) - [PID Control Challenges](http://janismac.github.io/ControlChallenges/)
 * [2023-09-24, 20:30:01](https://news.ycombinator.com/item?id=37636841) - [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
@@ -9,7 +8,6 @@
 * [2023-09-24, 20:13:47](https://news.ycombinator.com/item?id=37636701) - [Show HN: Get your entire ChatGPT history, in Markdown files](https://github.com/mohamed-chs/chatgpt-history-export-to-md)
 * [2023-09-24, 19:51:05](https://news.ycombinator.com/item?id=37636551) - [There's a new map style on OpenStreetMap.org](https://en.osm.town/@openstreetmap/111120663721969898)
 * [2023-09-24, 19:48:14](https://news.ycombinator.com/item?id=37636529) - [Unpacking Elixir: Resilience](https://underjord.io/unpacking-elixir-resilience.html)
-* [2023-09-24, 19:44:33](https://news.ycombinator.com/item?id=37636503) - [My Pure Rust Wishlist](https://gburghoorn.com/posts/pure-rust-wishlist/)
 * [2023-09-24, 19:36:46](https://news.ycombinator.com/item?id=37636447) - [Google Analytics Opt-Out Browser Add-On](https://tools.google.com/dlpage/gaoptout)
 * [2023-09-24, 19:01:10](https://news.ycombinator.com/item?id=37636124) - [Two photographers captured the same millisecond in time (2018)](https://www.dpreview.com/articles/7338941576/how-two-photographers-captured-the-same-millisecond-in-time)
 * [2023-09-24, 18:50:16](https://news.ycombinator.com/item?id=37636013) - [μMon: Stupid simple monitoring (2022)](https://tomscii.sig7.se/2022/07/uMon-stupid-simple-monitoring)
@@ -17,6 +15,7 @@
 * [2023-09-24, 14:58:45](https://news.ycombinator.com/item?id=37633743) - [TCP's congestion control saved the internet](https://www.theregister.com/2023/09/24/tcp_congestion_control_internet/)
 * [2023-09-24, 14:17:48](https://news.ycombinator.com/item?id=37633358) - [PiWrite – Kindle Paperwhite to Write](https://github.com/rberenguel/PiWrite)
 * [2023-09-24, 14:04:13](https://news.ycombinator.com/item?id=37633230) - [Reverse-engineering the classic MK4116 16-kilobit DRAM chip (2020)](https://www.righto.com/2020/11/reverse-engineering-classic-mk4116-16.html)
+* [2023-09-24, 13:24:43](https://news.ycombinator.com/item?id=37632905) - [Low Tech Crypto: Solitaire (2020)](https://alicegg.tech//2020/01/03/solitaire.html)
 * [2023-09-24, 08:46:12](https://news.ycombinator.com/item?id=37631252) - [‘Mind-boggling’ sea creature identified as digenean trematode](https://www.science.org/content/article/mind-boggling-sea-creature-spotted-japan-has-finally-been-identified)
 * [2023-09-24, 08:10:52](https://news.ycombinator.com/item?id=37631089) - [A hacker's guide to language models [video]](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 * [2023-09-24, 07:40:53](https://news.ycombinator.com/item?id=37630951) - [Natalie – a work-in-progress Ruby compiler, written in Ruby and C++](https://github.com/natalie-lang/natalie)
@@ -30,6 +29,7 @@
 * [2023-09-22, 14:56:50](https://news.ycombinator.com/item?id=37612887) - [Hidden ocean the source of carbon dioxide on Jupiter moon](https://phys.org/news/2023-09-hidden-ocean-source-carbon-dioxide.html)
 * [2023-09-22, 14:46:34](https://news.ycombinator.com/item?id=37612750) - [Hank Asher turned Americans’ private information into a business](https://www.nytimes.com/2023/09/22/magazine/hank-asher-data.html)
 * [2023-09-22, 14:34:37](https://news.ycombinator.com/item?id=37612606) - [Knot theory [video]](https://www.youtube.com/watch?v=8DBhTXM_Br4)
+* [2023-09-22, 13:59:00](https://news.ycombinator.com/item?id=37612154) - [Hedy Lamarr (2018)](https://www.womenshistory.org/education-resources/biographies/hedy-lamarr)
 
 ## [Archives](archives/index.md)
 
