@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-24, 22:19:24](https://news.ycombinator.com/item?id=37637715) - [Volkswagen cuts jobs as demand for EVs plunges](https://fortune.com/2023/09/14/vw-cutting-jobs-german-ev-factory-because-demand-plunging-china-tesla/)
 * [2023-09-24, 21:25:40](https://news.ycombinator.com/item?id=37637354) - [Corrosion: Rust Never Sleeps](https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/digression-3-corrosion-rust-never-sleeps/1?ref=thebrowser.com)
+* [2023-09-24, 21:02:19](https://news.ycombinator.com/item?id=37637165) - [LARPing and Violent Extremism](https://leb.fbi.gov/articles/featured-articles/larping-and-violent-extremism)
 * [2023-09-24, 20:44:47](https://news.ycombinator.com/item?id=37637006) - [PID Control Challenges](http://janismac.github.io/ControlChallenges/)
 * [2023-09-24, 20:30:01](https://news.ycombinator.com/item?id=37636841) - [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
-* [2023-09-24, 20:23:34](https://news.ycombinator.com/item?id=37636791) - [Our Humble Attempt at “How Much Data Is Needed to Fine-Tune](https://barryzhang.substack.com/p/our-humble-attempt-at-fine-tuning)
+* [2023-09-24, 20:23:34](https://news.ycombinator.com/item?id=37636791) - [Our humble attempt at “how much data do you need to fine-tune”](https://barryzhang.substack.com/p/our-humble-attempt-at-fine-tuning)
 * [2023-09-24, 20:13:47](https://news.ycombinator.com/item?id=37636701) - [Show HN: Get your entire ChatGPT history, in Markdown files](https://github.com/mohamed-chs/chatgpt-history-export-to-md)
 * [2023-09-24, 19:51:05](https://news.ycombinator.com/item?id=37636551) - [There's a new map style on OpenStreetMap.org](https://en.osm.town/@openstreetmap/111120663721969898)
 * [2023-09-24, 19:48:14](https://news.ycombinator.com/item?id=37636529) - [Unpacking Elixir: Resilience](https://underjord.io/unpacking-elixir-resilience.html)
