@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-24, 21:02:19](https://news.ycombinator.com/item?id=37637165) - [LARPing and Violent Extremism](https://leb.fbi.gov/articles/featured-articles/larping-and-violent-extremism)
+* [2023-09-24, 20:44:47](https://news.ycombinator.com/item?id=37637006) - [PID Control Challenges](http://janismac.github.io/ControlChallenges/)
 * [2023-09-24, 20:30:01](https://news.ycombinator.com/item?id=37636841) - [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
 * [2023-09-24, 20:23:34](https://news.ycombinator.com/item?id=37636791) - [Our Humble Attempt at “How Much Data Is Needed to Fine-Tune](https://barryzhang.substack.com/p/our-humble-attempt-at-fine-tuning)
 * [2023-09-24, 20:13:47](https://news.ycombinator.com/item?id=37636701) - [Show HN: Get your entire ChatGPT history, in Markdown files](https://github.com/mohamed-chs/chatgpt-history-export-to-md)
@@ -16,7 +17,6 @@
 * [2023-09-24, 14:17:48](https://news.ycombinator.com/item?id=37633358) - [PiWrite – Kindle Paperwhite to Write](https://github.com/rberenguel/PiWrite)
 * [2023-09-24, 14:04:13](https://news.ycombinator.com/item?id=37633230) - [Reverse-engineering the classic MK4116 16-kilobit DRAM chip (2020)](https://www.righto.com/2020/11/reverse-engineering-classic-mk4116-16.html)
 * [2023-09-24, 13:24:43](https://news.ycombinator.com/item?id=37632905) - [Low Tech Crypto: Solitaire (2020)](https://alicegg.tech//2020/01/03/solitaire.html)
-* [2023-09-24, 12:51:00](https://news.ycombinator.com/item?id=37632670) - [Hookworm gave the South a bad name (2016)](https://www.pbs.org/wgbh/nova/article/how-a-worm-gave-the-south-a-bad-name/)
 * [2023-09-24, 08:46:12](https://news.ycombinator.com/item?id=37631252) - [‘Mind-boggling’ sea creature identified as digenean trematode](https://www.science.org/content/article/mind-boggling-sea-creature-spotted-japan-has-finally-been-identified)
 * [2023-09-24, 08:10:52](https://news.ycombinator.com/item?id=37631089) - [A hacker's guide to language models [video]](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 * [2023-09-24, 07:40:53](https://news.ycombinator.com/item?id=37630951) - [Natalie – a work-in-progress Ruby compiler, written in Ruby and C++](https://github.com/natalie-lang/natalie)

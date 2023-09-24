@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-24](index.md)
 
 * [2023-09-24, 21:02:19](https://news.ycombinator.com/item?id=37637165) - [LARPing and Violent Extremism](https://leb.fbi.gov/articles/featured-articles/larping-and-violent-extremism)
+* [2023-09-24, 20:44:47](https://news.ycombinator.com/item?id=37637006) - [PID Control Challenges](http://janismac.github.io/ControlChallenges/)
 * [2023-09-24, 20:30:01](https://news.ycombinator.com/item?id=37636841) - [Choose Postgres Queue Technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
 * [2023-09-24, 20:23:34](https://news.ycombinator.com/item?id=37636791) - [Our Humble Attempt at “How Much Data Is Needed to Fine-Tune](https://barryzhang.substack.com/p/our-humble-attempt-at-fine-tuning)
 * [2023-09-24, 20:13:47](https://news.ycombinator.com/item?id=37636701) - [Show HN: Get your entire ChatGPT history, in Markdown files](https://github.com/mohamed-chs/chatgpt-history-export-to-md)
