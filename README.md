@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-24, 21:02:19](https://news.ycombinator.com/item?id=37637165) - [LARPing and Violent Extremism](https://leb.fbi.gov/articles/featured-articles/larping-and-violent-extremism)
 * [2023-09-24, 20:30:01](https://news.ycombinator.com/item?id=37636841) - [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
 * [2023-09-24, 20:23:34](https://news.ycombinator.com/item?id=37636791) - [Our Humble Attempt at “How Much Data Is Needed to Fine-Tune](https://barryzhang.substack.com/p/our-humble-attempt-at-fine-tuning)
 * [2023-09-24, 20:13:47](https://news.ycombinator.com/item?id=37636701) - [Show HN: Get your entire ChatGPT history, in Markdown files](https://github.com/mohamed-chs/chatgpt-history-export-to-md)
@@ -11,7 +12,6 @@
 * [2023-09-24, 18:50:16](https://news.ycombinator.com/item?id=37636013) - [μMon: Stupid simple monitoring (2022)](https://tomscii.sig7.se/2022/07/uMon-stupid-simple-monitoring)
 * [2023-09-24, 16:44:56](https://news.ycombinator.com/item?id=37634713) - [Gene-Engineered Mouth Bacteria](https://www.lanternbioworks.com)
 * [2023-09-24, 15:32:45](https://news.ycombinator.com/item?id=37634018) - [CoRF: Colorizing Radiance Fields Using Knowledge Distillation](https://arxiv.org/abs/2309.07668)
-* [2023-09-24, 15:14:39](https://news.ycombinator.com/item?id=37633867) - [NASA’s Osiris-Rex capsule lands in Utah with Bennu asteroid sample](https://www.theguardian.com/science/live/2023/sep/24/bennu-asteroid-sample-nasa-osiris-rex-mission-earth-updates)
 * [2023-09-24, 14:58:45](https://news.ycombinator.com/item?id=37633743) - [TCP's congestion control saved the internet](https://www.theregister.com/2023/09/24/tcp_congestion_control_internet/)
 * [2023-09-24, 14:17:48](https://news.ycombinator.com/item?id=37633358) - [PiWrite – Kindle Paperwhite to Write](https://github.com/rberenguel/PiWrite)
 * [2023-09-24, 14:04:13](https://news.ycombinator.com/item?id=37633230) - [Reverse-engineering the classic MK4116 16-kilobit DRAM chip (2020)](https://www.righto.com/2020/11/reverse-engineering-classic-mk4116-16.html)
