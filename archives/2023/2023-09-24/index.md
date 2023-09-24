@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-24](index.md)
 
+* [2023-09-24, 05:19:45](https://news.ycombinator.com/item?id=37630338) - [California governor vetoes a bill requiring humans in autonomous big rigs](https://www.theverge.com/2023/9/23/23886997/california-governor-veto-self-driving-trucks-safety-driver-bill-assembly-bill-316-autonomous-vehicle)
+* [2023-09-24, 05:04:17](https://news.ycombinator.com/item?id=37630278) - [Why China’s economy won’t be fixed](https://www.economist.com/leaders/2023/08/24/why-chinas-economy-wont-be-fixed)
 * [2023-09-24, 04:56:15](https://news.ycombinator.com/item?id=37630243) - [Google ending Basic HTML support for Gmail in 2024](http://tenfourfox.blogspot.com/2023/09/google-ending-basic-html-support-for.html)
 * [2023-09-24, 03:19:30](https://news.ycombinator.com/item?id=37629874) - [Mark Russinovich: “Working towards enabling Windows driver development in Rust”](https://github.com/microsoft/windows-drivers-rs)
 * [2023-09-24, 03:15:36](https://news.ycombinator.com/item?id=37629856) - [Modern Linux Tools vs. Unix Classics: Which Would I Choose?](https://meetryanflowers.com/modern-linux-tools-vs-unix-classics-which-would-i-choose/)
