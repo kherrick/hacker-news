@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-09-24](index.md)
 
 * [2023-09-24, 20:30:01](https://news.ycombinator.com/item?id=37636841) - [Choose Postgres Queue Technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
+* [2023-09-24, 20:23:34](https://news.ycombinator.com/item?id=37636791) - [Our Humble Attempt at “How Much Data Is Needed to Fine-Tune](https://barryzhang.substack.com/p/our-humble-attempt-at-fine-tuning)
 * [2023-09-24, 20:13:47](https://news.ycombinator.com/item?id=37636701) - [Show HN: Get your entire ChatGPT history, in Markdown files](https://github.com/mohamed-chs/chatgpt-history-export-to-md)
+* [2023-09-24, 19:51:05](https://news.ycombinator.com/item?id=37636551) - [There's a new map style on OpenStreetMap.org](https://en.osm.town/@openstreetmap/111120663721969898)
 * [2023-09-24, 19:48:14](https://news.ycombinator.com/item?id=37636529) - [Unpacking Elixir: Resilience](https://underjord.io/unpacking-elixir-resilience.html)
 * [2023-09-24, 19:44:33](https://news.ycombinator.com/item?id=37636503) - [My Pure Rust Wishlist](https://gburghoorn.com/posts/pure-rust-wishlist/)
 * [2023-09-24, 19:36:46](https://news.ycombinator.com/item?id=37636447) - [Google Analytics Opt-Out Browser Add-On](https://tools.google.com/dlpage/gaoptout)
