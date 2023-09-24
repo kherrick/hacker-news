@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-24](index.md)
 
+* [2023-09-24, 11:45:32](https://news.ycombinator.com/item?id=37632232) - [What it takes to pass a file path to a Windows API in C++](https://mastodon.gamedev.place/@AshleyGullen/111109299141510319)
+* [2023-09-24, 11:35:20](https://news.ycombinator.com/item?id=37632174) - [The myth of the myth of learning styles](https://nedbatchelder.com/blog/202309/the_myth_of_the_myth_of_learning_styles.html)
+* [2023-09-24, 11:27:13](https://news.ycombinator.com/item?id=37632122) - [Texas death row inmate at mercy of Supreme Court – and junk science](https://www.theguardian.com/world/2023/sep/24/texas-death-row-robert-roberson-supreme-court-shaken-baby-syndrome)
 * [2023-09-24, 10:24:19](https://news.ycombinator.com/item?id=37631788) - [I downgraded to an iPhone 11 Pro Max – and there’s not much I’m missing](https://9to5mac.com/2023/08/02/using-iphone-11-pro-max-in-2023/)
 * [2023-09-24, 10:12:09](https://news.ycombinator.com/item?id=37631727) - [‘Capitalism is dead. Now we have something much worse’](https://www.theguardian.com/world/2023/sep/24/yanis-varoufakis-technofeudalism-capitalism-ukraine-interview)
 * [2023-09-24, 09:30:13](https://news.ycombinator.com/item?id=37631480) - [Labelling soya foods as ultra-processed is unhelpful](https://www.alprofoundation.org/scientific-updates/labelling-soya-foods-as-ultra-processed-is-unhelpful/)
@@ -12,6 +15,7 @@
 * [2023-09-24, 08:34:14](https://news.ycombinator.com/item?id=37631186) - [Ask HN: Why does Apple want me to expose my iPhone password to repair my screen?](https://news.ycombinator.com/item?id=37631186)
 * [2023-09-24, 08:27:28](https://news.ycombinator.com/item?id=37631161) - [Why can’t Americans buy cheap Chinese EVs?](https://www.ajot.com/news/why-canat-americans-buy-cheap-chinese-evs/)
 * [2023-09-24, 08:10:52](https://news.ycombinator.com/item?id=37631089) - [A Hackers' Guide to Language Models [video]](https://www.youtube.com/watch?v=jkrNMKz9pWU)
+* [2023-09-24, 08:08:00](https://news.ycombinator.com/item?id=37631078) - [Croatia demolished houses of libertarian project “Liberland”, seized property](https://liberlandpress.com/2023/09/22/brutal-croatian-invades-liberland-destroys-houses/)
 * [2023-09-24, 08:00:38](https://news.ycombinator.com/item?id=37631043) - [The World’s Oldest Active Torrent Turns 20 Years Old](https://torrentfreak.com/the-worlds-oldest-active-torrent-turns-20-years-old-230924/)
 * [2023-09-24, 07:31:41](https://news.ycombinator.com/item?id=37630914) - [Google is killing Gmail's Basic HTML View in early 2024](https://support.google.com/mail/answer/15049?hl=en)
 * [2023-09-24, 07:03:51](https://news.ycombinator.com/item?id=37630804) - [Text editing on mobile isn’t ok](https://jenson.org/text/)
