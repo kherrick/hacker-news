@@ -58,6 +58,7 @@
 * [2023-09-23, 13:21:10](https://news.ycombinator.com/item?id=37623000) - [She got famous on YouTube. Now it helps fund her research in quantum gravity](https://text.npr.org/1199469798)
 * [2023-09-23, 13:21:10](https://news.ycombinator.com/item?id=37623000) - [Profile of Sabine Hossenfelder](https://www.npr.org/2023/09/23/1199469798/youtube-star-scientist-sabine-hossenfelder)
 * [2023-09-23, 13:20:41](https://news.ycombinator.com/item?id=37622997) - [Foot – A fast, lightweight and minimalistic Wayland terminal emulator](https://codeberg.org/dnkl/foot)
+* [2023-09-23, 13:17:45](https://news.ycombinator.com/item?id=37622974) - [Reflections on my journey into computer science](https://rugu.dev/en/blog/computer-science-reflections/)
 * [2023-09-23, 13:14:49](https://news.ycombinator.com/item?id=37622955) - [Linux Terminal Emulators Have the Potential of Being Much Faster](https://www.phoronix.com/news/Linux-Terminals-Could-Be-Faster)
 * [2023-09-23, 12:58:03](https://news.ycombinator.com/item?id=37622863) - [School Surveillance Tools Are Harming Kids](https://gizmodo.com/school-surveillance-harm-kids-homework-report-1850854919)
 * [2023-09-23, 12:44:27](https://news.ycombinator.com/item?id=37622753) - [Usability of Old Computers](https://blog.karthikkumar.org/usability-of-old-computers-f06a7f00f72e?gi=ce330599bc0f)
