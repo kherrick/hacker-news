@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-24, 08:34:14](https://news.ycombinator.com/item?id=37631186) - [Ask HN: Why does Apple want me to expose my iPhone password to repair my screen?](https://news.ycombinator.com/item?id=37631186)
+* [2023-09-24, 08:27:28](https://news.ycombinator.com/item?id=37631161) - [Why can’t Americans buy cheap Chinese EVs?](https://www.ajot.com/news/why-canat-americans-buy-cheap-chinese-evs/)
 * [2023-09-24, 08:10:52](https://news.ycombinator.com/item?id=37631089) - [A Hackers' Guide to Language Models [video]](https://www.youtube.com/watch?v=jkrNMKz9pWU)
+* [2023-09-24, 08:00:38](https://news.ycombinator.com/item?id=37631043) - [The World’s Oldest Active Torrent Turns 20 Years Old](https://torrentfreak.com/the-worlds-oldest-active-torrent-turns-20-years-old-230924/)
 * [2023-09-24, 07:31:41](https://news.ycombinator.com/item?id=37630914) - [Google is killing Gmail's Basic HTML View in early 2024](https://support.google.com/mail/answer/15049?hl=en)
 * [2023-09-24, 06:28:41](https://news.ycombinator.com/item?id=37630630) - [GPT Excel](https://gptexcel.uk/)
 * [2023-09-24, 06:28:30](https://news.ycombinator.com/item?id=37630628) - [TypeScript NPM Packages Done Right](https://blog.liblab.com/typescript-npm-packages-done-right/)
@@ -9,7 +11,6 @@
 * [2023-09-24, 03:19:30](https://news.ycombinator.com/item?id=37629874) - [Platform that enables Windows driver development in Rust](https://github.com/microsoft/windows-drivers-rs)
 * [2023-09-24, 02:48:19](https://news.ycombinator.com/item?id=37629719) - [Ash Framework](https://ash-hq.org/)
 * [2023-09-24, 00:55:38](https://news.ycombinator.com/item?id=37629119) - [Show HN: Karektar – Bitmap Font Designer](https://karektar.newtrino.ink/)
-* [2023-09-23, 23:17:45](https://news.ycombinator.com/item?id=37628550) - [Eating Fossils](https://www.palass.org/publications/newsletter/eating-fossils)
 * [2023-09-23, 23:14:39](https://news.ycombinator.com/item?id=37628525) - [IPFS support got merged into curl](https://twitter.com/bmann/status/1705572964068930010)
 * [2023-09-23, 22:53:32](https://news.ycombinator.com/item?id=37628337) - [SpamChannel: Spoofing emails from 2M domains and virtually becoming Satan [pdf]](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20presentations/byt3bl33d3r%20-%20SpamChannel%20Spoofing%20Emails%20From%202%20Million%20Domains%20and%20Virtually%20Becoming%20Satan.pdf)
 * [2023-09-23, 21:30:23](https://news.ycombinator.com/item?id=37627745) - [EU fines Intel $400M for blocking AMD's market access](https://www.neowin.net/news/eu-fines-intel-400-million-for-blocking-amds-market-access-through-payments-to-pc-makers/)
@@ -27,7 +28,6 @@
 * [2023-09-22, 16:23:19](https://news.ycombinator.com/item?id=37614032) - [How to Do a Full Rewrite](https://badsoftwareadvice.substack.com/p/how-to-do-a-full-rewrite)
 * [2023-09-22, 16:17:09](https://news.ycombinator.com/item?id=37613939) - [Parallelizing non-linear sequential models over the sequence length](https://arxiv.org/abs/2309.12252)
 * [2023-09-22, 15:26:58](https://news.ycombinator.com/item?id=37613299) - [The equinox is not when day and night have equal lengths](https://www.scientificamerican.com/article/the-equinox-is-not-what-you-think-it-is/)
-* [2023-09-22, 15:14:31](https://news.ycombinator.com/item?id=37613125) - [The triumphs and failures of accessible gaming hardware](https://www.rockpapershotgun.com/they-dont-care-inside-the-triumphs-and-failures-of-accessible-gaming-hardware)
 * [2023-09-22, 13:52:15](https://news.ycombinator.com/item?id=37612067) - [Electrons from Earth may be forming water on the moon](https://phys.org/news/2023-09-electrons-earth-moon.html)
 * [2023-09-22, 13:28:21](https://news.ycombinator.com/item?id=37611774) - [Black holes eat faster than previously expected](https://news.northwestern.edu/stories/2023/09/black-holes-eat-faster-than-previously-expected/)
 
