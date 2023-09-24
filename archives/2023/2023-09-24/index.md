@@ -77,6 +77,7 @@
 * [2023-09-24, 03:10:25](https://news.ycombinator.com/item?id=37629831) - [We install planters so you don't have to look at homeless people](https://sfplanters.org)
 * [2023-09-24, 02:55:31](https://news.ycombinator.com/item?id=37629753) - [The AI revolution is rotten to the core [video]](https://www.youtube.com/watch?v=-MUEXGaxFDA)
 * [2023-09-24, 02:48:19](https://news.ycombinator.com/item?id=37629719) - [Ash Framework](https://ash-hq.org/)
+* [2023-09-24, 02:45:09](https://news.ycombinator.com/item?id=37629702) - [Parchman Farm, the Mississippi prison with a remarkable musical history](https://www.theguardian.com/music/2023/sep/20/its-a-charged-place-parchman-farm-the-mississippi-prison-with-a-remarkable-musical-history)
 * [2023-09-24, 02:29:13](https://news.ycombinator.com/item?id=37629618) - [Fear and Desire: On Stanley Kubrick’s first film](https://metrograph.com/fearanddesire/)
 * [2023-09-24, 02:24:03](https://news.ycombinator.com/item?id=37629593) - [In 1873, speculation and overinvestment in railroads sparked a financial crisis](https://www.smithsonianmag.com/history/robber-baron-gamble-railroads-brought-down-bank-plunged-us-into-first-great-depression-panic-1873-180982877/)
 * [2023-09-24, 02:06:49](https://news.ycombinator.com/item?id=37629514) - [Roman-Fleuve](https://literaryocean.com/discuss-the-term-roman-fleuve-definition-of-roman-fleuve-and-examples/)
