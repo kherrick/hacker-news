@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-24](index.md)
 
+* [2023-09-24, 17:59:39](https://news.ycombinator.com/item?id=37635514) - [Brightline Orlando's First Train 125 MPH from MCO to MIA [video]](https://www.youtube.com/watch?v=Yu18ZqWgQM4)
 * [2023-09-24, 16:44:56](https://news.ycombinator.com/item?id=37634713) - [Cavities were cured in 1985, and no one knows it yet](https://www.lanternbioworks.com)
 * [2023-09-24, 15:49:01](https://news.ycombinator.com/item?id=37634161) - [California workers who cut countertops are dying of an incurable disease](https://news.yahoo.com/california-workers-cut-countertops-dying-100021788.html)
 * [2023-09-24, 15:40:41](https://news.ycombinator.com/item?id=37634091) - [Habitually Skipping Breakfast Is Associated with the Risk of GI Cancers](https://pubmed.ncbi.nlm.nih.gov/36869181/)
@@ -50,6 +51,7 @@
 * [2023-09-24, 03:10:25](https://news.ycombinator.com/item?id=37629831) - [We install planters so you don't have to look at homeless people](https://sfplanters.org)
 * [2023-09-24, 02:55:31](https://news.ycombinator.com/item?id=37629753) - [The AI revolution is rotten to the core [video]](https://www.youtube.com/watch?v=-MUEXGaxFDA)
 * [2023-09-24, 02:48:19](https://news.ycombinator.com/item?id=37629719) - [Ash Framework](https://ash-hq.org/)
+* [2023-09-24, 02:24:03](https://news.ycombinator.com/item?id=37629593) - [In 1873, speculation and overinvestment in railroads sparked a financial crisis](https://www.smithsonianmag.com/history/robber-baron-gamble-railroads-brought-down-bank-plunged-us-into-first-great-depression-panic-1873-180982877/)
 * [2023-09-24, 01:46:44](https://news.ycombinator.com/item?id=37629405) - [Microsoft Paint now has layers and transparency](https://www.itsnicethat.com/news/microsoft-paint-update-digital-190923)
 * [2023-09-24, 01:05:27](https://news.ycombinator.com/item?id=37629191) - [Applied Materials Is a Major Reason Computers Keep Getting Faster](https://www.wsj.com/tech/personal-tech/applied-materials-chips-61bbed0e)
 * [2023-09-24, 00:55:38](https://news.ycombinator.com/item?id=37629119) - [Show HN: Karektar – Bitmap Font Designer](https://karektar.newtrino.ink/)
