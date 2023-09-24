@@ -5,7 +5,6 @@
 * [2023-09-24, 08:10:52](https://news.ycombinator.com/item?id=37631089) - [A Hackers' Guide to Language Models [video]](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 * [2023-09-24, 08:00:38](https://news.ycombinator.com/item?id=37631043) - [The World’s Oldest Active Torrent Turns 20 Years Old](https://torrentfreak.com/the-worlds-oldest-active-torrent-turns-20-years-old-230924/)
 * [2023-09-24, 07:31:41](https://news.ycombinator.com/item?id=37630914) - [Google is killing Gmail's Basic HTML View in early 2024](https://support.google.com/mail/answer/15049?hl=en)
-* [2023-09-24, 06:28:41](https://news.ycombinator.com/item?id=37630630) - [GPT Excel](https://gptexcel.uk/)
 * [2023-09-24, 06:28:30](https://news.ycombinator.com/item?id=37630628) - [TypeScript NPM Packages Done Right](https://blog.liblab.com/typescript-npm-packages-done-right/)
 * [2023-09-24, 04:46:32](https://news.ycombinator.com/item?id=37630208) - [Fiber in C++: Understanding the Basics](https://agraphicsguynotes.com/posts/fiber_in_cpp_understanding_the_basics/)
 * [2023-09-24, 03:19:30](https://news.ycombinator.com/item?id=37629874) - [Platform that enables Windows driver development in Rust](https://github.com/microsoft/windows-drivers-rs)
@@ -28,6 +27,7 @@
 * [2023-09-22, 21:09:00](https://news.ycombinator.com/item?id=37617820) - [Www which WASM works](https://flak.tedunangst.com/post/www-which-wasm-works)
 * [2023-09-22, 16:23:19](https://news.ycombinator.com/item?id=37614032) - [How to Do a Full Rewrite](https://badsoftwareadvice.substack.com/p/how-to-do-a-full-rewrite)
 * [2023-09-22, 15:26:58](https://news.ycombinator.com/item?id=37613299) - [The equinox is not when day and night have equal lengths](https://www.scientificamerican.com/article/the-equinox-is-not-what-you-think-it-is/)
+* [2023-09-22, 15:14:31](https://news.ycombinator.com/item?id=37613125) - [The triumphs and failures of accessible gaming hardware](https://www.rockpapershotgun.com/they-dont-care-inside-the-triumphs-and-failures-of-accessible-gaming-hardware)
 * [2023-09-22, 13:52:15](https://news.ycombinator.com/item?id=37612067) - [Electrons from Earth may be forming water on the moon](https://phys.org/news/2023-09-electrons-earth-moon.html)
 * [2023-09-22, 13:28:21](https://news.ycombinator.com/item?id=37611774) - [Black holes eat faster than previously expected](https://news.northwestern.edu/stories/2023/09/black-holes-eat-faster-than-previously-expected/)
 
