@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-24, 21:25:40](https://news.ycombinator.com/item?id=37637354) - [Corrosion: Rust Never Sleeps](https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/digression-3-corrosion-rust-never-sleeps/1?ref=thebrowser.com)
 * [2023-09-24, 21:02:19](https://news.ycombinator.com/item?id=37637165) - [LARPing and Violent Extremism](https://leb.fbi.gov/articles/featured-articles/larping-and-violent-extremism)
 * [2023-09-24, 20:44:47](https://news.ycombinator.com/item?id=37637006) - [PID Control Challenges](http://janismac.github.io/ControlChallenges/)
 * [2023-09-24, 20:30:01](https://news.ycombinator.com/item?id=37636841) - [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
@@ -8,7 +9,6 @@
 * [2023-09-24, 19:51:05](https://news.ycombinator.com/item?id=37636551) - [There's a new map style on OpenStreetMap.org](https://en.osm.town/@openstreetmap/111120663721969898)
 * [2023-09-24, 19:48:14](https://news.ycombinator.com/item?id=37636529) - [Unpacking Elixir: Resilience](https://underjord.io/unpacking-elixir-resilience.html)
 * [2023-09-24, 19:44:33](https://news.ycombinator.com/item?id=37636503) - [My Pure Rust Wishlist](https://gburghoorn.com/posts/pure-rust-wishlist/)
-* [2023-09-24, 19:36:46](https://news.ycombinator.com/item?id=37636447) - [Google Analytics Opt-Out Browser Add-On](https://tools.google.com/dlpage/gaoptout)
 * [2023-09-24, 19:01:10](https://news.ycombinator.com/item?id=37636124) - [Two photographers captured the same millisecond in time (2018)](https://www.dpreview.com/articles/7338941576/how-two-photographers-captured-the-same-millisecond-in-time)
 * [2023-09-24, 18:50:16](https://news.ycombinator.com/item?id=37636013) - [μMon: Stupid simple monitoring (2022)](https://tomscii.sig7.se/2022/07/uMon-stupid-simple-monitoring)
 * [2023-09-24, 16:44:56](https://news.ycombinator.com/item?id=37634713) - [Gene-Engineered Mouth Bacteria](https://www.lanternbioworks.com)

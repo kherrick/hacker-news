@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-24](index.md)
 
+* [2023-09-24, 21:25:40](https://news.ycombinator.com/item?id=37637354) - [Corrosion: Rust Never Sleeps](https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/digression-3-corrosion-rust-never-sleeps/1?ref=thebrowser.com)
 * [2023-09-24, 21:02:19](https://news.ycombinator.com/item?id=37637165) - [LARPing and Violent Extremism](https://leb.fbi.gov/articles/featured-articles/larping-and-violent-extremism)
 * [2023-09-24, 20:44:47](https://news.ycombinator.com/item?id=37637006) - [PID Control Challenges](http://janismac.github.io/ControlChallenges/)
 * [2023-09-24, 20:30:01](https://news.ycombinator.com/item?id=37636841) - [Choose Postgres Queue Technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
