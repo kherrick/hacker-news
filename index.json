@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2023-09-23, 17:21:56",
-      "https://news.ycombinator.com/item?id=37625291"
-    ],
-    [
-      "The strange disappearance of Mrs Agatha Christie (2022)",
-      "https://blog.nationalarchives.gov.uk/20speople-investigating-the-strange-disappearance-of-mrs-agatha-christie/"
-    ]
-  ],
-  [
-    [
       "2023-09-23, 15:56:48",
       "https://news.ycombinator.com/item?id=37624400"
     ],
@@ -297,6 +287,16 @@
     [
       "A beginner's guide to neural mechanisms",
       "https://www.neuralmechanisms.org/videolectures.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-22, 14:28:20",
+      "https://news.ycombinator.com/item?id=37612525"
+    ],
+    [
+      "Responsive type scales with composable CSS utilities",
+      "https://tobiasahlin.com/blog/responsive-fluid-css-type-scales/"
     ]
   ]
 ]
