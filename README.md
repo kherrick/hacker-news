@@ -26,8 +26,8 @@
 * [2023-09-23, 01:35:52](https://news.ycombinator.com/item?id=37619873) - [Hardware Reverse Oscilloscope 2](https://mitxela.com/projects/rscope2)
 * [2023-09-22, 21:09:00](https://news.ycombinator.com/item?id=37617820) - [Www which WASM works](https://flak.tedunangst.com/post/www-which-wasm-works)
 * [2023-09-22, 16:23:19](https://news.ycombinator.com/item?id=37614032) - [How to Do a Full Rewrite](https://badsoftwareadvice.substack.com/p/how-to-do-a-full-rewrite)
-* [2023-09-22, 16:17:09](https://news.ycombinator.com/item?id=37613939) - [Parallelizing non-linear sequential models over the sequence length](https://arxiv.org/abs/2309.12252)
 * [2023-09-22, 15:26:58](https://news.ycombinator.com/item?id=37613299) - [The equinox is not when day and night have equal lengths](https://www.scientificamerican.com/article/the-equinox-is-not-what-you-think-it-is/)
+* [2023-09-22, 15:14:31](https://news.ycombinator.com/item?id=37613125) - [The triumphs and failures of accessible gaming hardware](https://www.rockpapershotgun.com/they-dont-care-inside-the-triumphs-and-failures-of-accessible-gaming-hardware)
 * [2023-09-22, 13:52:15](https://news.ycombinator.com/item?id=37612067) - [Electrons from Earth may be forming water on the moon](https://phys.org/news/2023-09-electrons-earth-moon.html)
 * [2023-09-22, 13:28:21](https://news.ycombinator.com/item?id=37611774) - [Black holes eat faster than previously expected](https://news.northwestern.edu/stories/2023/09/black-holes-eat-faster-than-previously-expected/)
 
