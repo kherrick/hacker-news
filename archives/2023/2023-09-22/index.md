@@ -52,6 +52,7 @@
 * [2023-09-22, 16:09:14](https://news.ycombinator.com/item?id=37613830) - [Kia, Hyundai Blame Mass Car Thefts on ‘Lax Policing’ in Court Defense](https://www.thedrive.com/news/kia-hyundai-blame-mass-car-thefts-on-lax-policing-in-court-defense)
 * [2023-09-22, 16:04:30](https://news.ycombinator.com/item?id=37613768) - [Raw Water: Quenching Your Thirst for SQL Injection](https://nautilus.institute/blog/2023/raw-water/)
 * [2023-09-22, 16:02:41](https://news.ycombinator.com/item?id=37613747) - [I'm All-In on Server-Side SQLite](https://fly.io/blog/all-in-on-sqlite-litestream/)
+* [2023-09-22, 15:55:56](https://news.ycombinator.com/item?id=37613666) - [Hominins built with wood 476,000 years ago](https://www.nature.com/articles/d41586-023-02858-1)
 * [2023-09-22, 15:49:32](https://news.ycombinator.com/item?id=37613572) - [The Design System Ecosystem](https://bradfrost.com/blog/post/the-design-system-ecosystem/)
 * [2023-09-22, 15:42:25](https://news.ycombinator.com/item?id=37613497) - [What Is Appropriation in Art?](https://www.thecollector.com/what-is-appropriation-in-art/)
 * [2023-09-22, 15:27:40](https://news.ycombinator.com/item?id=37613309) - [Dumpster Tektronix 2465B Restoration](https://sunestra.fr/posts/repair/scope/)
