@@ -6,6 +6,8 @@
 
 * [2023-09-23, 23:39:09](https://news.ycombinator.com/item?id=37628674) - [Markets and Technology Won’t Solve Climate Crisis. We Must End Capitalism](https://truthout.org/articles/markets-and-technology-wont-solve-climate-crisis-we-must-end-capitalism/)
 * [2023-09-23, 23:17:45](https://news.ycombinator.com/item?id=37628550) - [Eating Fossils](https://www.palass.org/publications/newsletter/eating-fossils)
+* [2023-09-23, 23:14:39](https://news.ycombinator.com/item?id=37628525) - [IPFS support got merged into curl](https://twitter.com/bmann/status/1705572964068930010)
+* [2023-09-23, 22:53:32](https://news.ycombinator.com/item?id=37628337) - [Spoofing Emails from +2M Domains and Virtually Becoming Satan [pdf]](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20presentations/byt3bl33d3r%20-%20SpamChannel%20Spoofing%20Emails%20From%202%20Million%20Domains%20and%20Virtually%20Becoming%20Satan.pdf)
 * [2023-09-23, 22:31:33](https://news.ycombinator.com/item?id=37628168) - [SpaceX’s Starlink surpasses 2M active customers](https://twitter.com/Starlink/status/1705695980325323023)
 * [2023-09-23, 21:36:21](https://news.ycombinator.com/item?id=37627782) - [The Unforeseen LSD Overdose of 1972](https://notsoprofound.com/the-unforeseen-lsd-overdose-of-1972/)
 * [2023-09-23, 21:30:23](https://news.ycombinator.com/item?id=37627745) - [EU fines Intel $400M for blocking AMD's market access](https://www.neowin.net/news/eu-fines-intel-400-million-for-blocking-amds-market-access-through-payments-to-pc-makers/)
@@ -80,6 +82,7 @@
 * [2023-09-23, 02:11:46](https://news.ycombinator.com/item?id=37620043) - [Show HN: ChatGPT for Med-School and Healthcare](https://chat.radiantai.health/)
 * [2023-09-23, 01:42:38](https://news.ycombinator.com/item?id=37619912) - [Deep genetic structure of Africa reveals unique ancestry of the Angolan Namib](https://phys.org/news/2023-09-deep-genetic-africa-reveals-unique.html)
 * [2023-09-23, 01:38:14](https://news.ycombinator.com/item?id=37619886) - [Why are you better at recognizing upright faces?](https://medicalxpress.com/news/2023-09-upright-clues-person-world-differently.html)
+* [2023-09-23, 01:35:52](https://news.ycombinator.com/item?id=37619873) - [Hardware Reverse Oscilloscope 2](https://mitxela.com/projects/rscope2)
 * [2023-09-23, 01:15:02](https://news.ycombinator.com/item?id=37619766) - [Are NFTs Dead?](https://dappgambl.com/nfts/dead-nfts/)
 * [2023-09-23, 01:03:20](https://news.ycombinator.com/item?id=37619709) - [Imbue (Formerly Generally Intelligent, YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=37619709)
 * [2023-09-23, 00:31:35](https://news.ycombinator.com/item?id=37619513) - [Auto-Regressive Next-Token Predictors Are Universal Learners](https://arxiv.org/abs/2309.06979)
