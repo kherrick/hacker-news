@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-24](index.md)
 
 * [2023-09-24, 10:24:19](https://news.ycombinator.com/item?id=37631788) - [I downgraded to an iPhone 11 Pro Max – and there’s not much I’m missing](https://9to5mac.com/2023/08/02/using-iphone-11-pro-max-in-2023/)
+* [2023-09-24, 10:12:09](https://news.ycombinator.com/item?id=37631727) - [‘Capitalism is dead. Now we have something much worse’](https://www.theguardian.com/world/2023/sep/24/yanis-varoufakis-technofeudalism-capitalism-ukraine-interview)
 * [2023-09-24, 09:30:13](https://news.ycombinator.com/item?id=37631480) - [Labelling soya foods as ultra-processed is unhelpful](https://www.alprofoundation.org/scientific-updates/labelling-soya-foods-as-ultra-processed-is-unhelpful/)
 * [2023-09-24, 08:59:09](https://news.ycombinator.com/item?id=37631308) - [Bus Pirate 5 Firmware](https://firmware.buspirate.com/)
 * [2023-09-24, 08:52:02](https://news.ycombinator.com/item?id=37631283) - [Geometric Algebra to Geometric Computing Software Developers](https://arxiv.org/abs/1705.06668)
@@ -13,8 +14,10 @@
 * [2023-09-24, 08:10:52](https://news.ycombinator.com/item?id=37631089) - [A Hackers' Guide to Language Models [video]](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 * [2023-09-24, 08:00:38](https://news.ycombinator.com/item?id=37631043) - [The World’s Oldest Active Torrent Turns 20 Years Old](https://torrentfreak.com/the-worlds-oldest-active-torrent-turns-20-years-old-230924/)
 * [2023-09-24, 07:31:41](https://news.ycombinator.com/item?id=37630914) - [Google is killing Gmail's Basic HTML View in early 2024](https://support.google.com/mail/answer/15049?hl=en)
+* [2023-09-24, 07:03:51](https://news.ycombinator.com/item?id=37630804) - [Text editing on mobile isn’t ok](https://jenson.org/text/)
 * [2023-09-24, 06:28:41](https://news.ycombinator.com/item?id=37630630) - [GPT Excel](https://gptexcel.uk/)
 * [2023-09-24, 06:28:30](https://news.ycombinator.com/item?id=37630628) - [TypeScript NPM Packages Done Right](https://blog.liblab.com/typescript-npm-packages-done-right/)
+* [2023-09-24, 05:28:04](https://news.ycombinator.com/item?id=37630371) - [LLM Falcon 180B Needs 720GB RAM to Run](https://kaitchup.substack.com/p/falcon-180b-can-it-run-on-your-computer)
 * [2023-09-24, 05:19:45](https://news.ycombinator.com/item?id=37630338) - [California governor vetoes a bill requiring humans in autonomous big rigs](https://www.theverge.com/2023/9/23/23886997/california-governor-veto-self-driving-trucks-safety-driver-bill-assembly-bill-316-autonomous-vehicle)
 * [2023-09-24, 05:04:17](https://news.ycombinator.com/item?id=37630278) - [Why China’s economy won’t be fixed](https://www.economist.com/leaders/2023/08/24/why-chinas-economy-wont-be-fixed)
 * [2023-09-24, 04:56:15](https://news.ycombinator.com/item?id=37630243) - [Google ending Basic HTML support for Gmail in 2024](http://tenfourfox.blogspot.com/2023/09/google-ending-basic-html-support-for.html)
