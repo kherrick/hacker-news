@@ -2,6 +2,7 @@
 
 * [2023-09-24, 07:31:41](https://news.ycombinator.com/item?id=37630914) - [Google is killing Gmail's Basic HTML View in early 2024](https://support.google.com/mail/answer/15049?hl=en)
 * [2023-09-24, 06:28:41](https://news.ycombinator.com/item?id=37630630) - [GPT Excel](https://gptexcel.uk/)
+* [2023-09-24, 06:28:30](https://news.ycombinator.com/item?id=37630628) - [TypeScript NPM Packages Done Right](https://blog.liblab.com/typescript-npm-packages-done-right/)
 * [2023-09-24, 04:46:32](https://news.ycombinator.com/item?id=37630208) - [Fiber in C++: Understanding the Basics](https://agraphicsguynotes.com/posts/fiber_in_cpp_understanding_the_basics/)
 * [2023-09-24, 03:19:30](https://news.ycombinator.com/item?id=37629874) - [Platform that enables Windows driver development in Rust](https://github.com/microsoft/windows-drivers-rs)
 * [2023-09-24, 02:48:19](https://news.ycombinator.com/item?id=37629719) - [Ash Framework](https://ash-hq.org/)
@@ -19,7 +20,6 @@
 * [2023-09-23, 19:27:18](https://news.ycombinator.com/item?id=37626528) - [GNU/Linux Aviation HOWTO (2006)](https://tldp.org/HOWTO/Aviation-HOWTO/index.html)
 * [2023-09-23, 18:28:58](https://news.ycombinator.com/item?id=37625973) - [Box jellyfish demonstrate learning ability](https://www.nytimes.com/2023/09/22/science/jellyfish-learning-neurons.html)
 * [2023-09-23, 17:21:17](https://news.ycombinator.com/item?id=37625283) - [Show HN: A “CRM” for personal relationships](https://www.elim.app/eng/home)
-* [2023-09-23, 15:56:48](https://news.ycombinator.com/item?id=37624400) - [Show HN: I rewrote the 1990's LambdaMOO server](https://github.com/rdaum/moor)
 * [2023-09-23, 15:10:22](https://news.ycombinator.com/item?id=37623955) - [Why scalpers can get tickets](https://www.404media.co/why-scalpers-can-get-olivia-rodrigo-tickets-and-fans-cannot/)
 * [2023-09-23, 12:44:27](https://news.ycombinator.com/item?id=37622753) - [Usability of Old Computers](https://blog.karthikkumar.org/usability-of-old-computers-f06a7f00f72e?gi=ce330599bc0f)
 * [2023-09-23, 01:35:52](https://news.ycombinator.com/item?id=37619873) - [Hardware Reverse Oscilloscope 2](https://mitxela.com/projects/rscope2)
@@ -27,9 +27,9 @@
 * [2023-09-22, 16:23:19](https://news.ycombinator.com/item?id=37614032) - [How to Do a Full Rewrite](https://badsoftwareadvice.substack.com/p/how-to-do-a-full-rewrite)
 * [2023-09-22, 16:17:09](https://news.ycombinator.com/item?id=37613939) - [Parallelizing non-linear sequential models over the sequence length](https://arxiv.org/abs/2309.12252)
 * [2023-09-22, 15:26:58](https://news.ycombinator.com/item?id=37613299) - [The equinox is not when day and night have equal lengths](https://www.scientificamerican.com/article/the-equinox-is-not-what-you-think-it-is/)
-* [2023-09-22, 15:24:18](https://news.ycombinator.com/item?id=37613264) - [Generations-based map vs. sparse map](https://quasilyte.dev/blog/post/gen-map/)
 * [2023-09-22, 15:14:31](https://news.ycombinator.com/item?id=37613125) - [The triumphs and failures of accessible gaming hardware](https://www.rockpapershotgun.com/they-dont-care-inside-the-triumphs-and-failures-of-accessible-gaming-hardware)
 * [2023-09-22, 14:28:20](https://news.ycombinator.com/item?id=37612525) - [Responsive type scales with composable CSS utilities](https://tobiasahlin.com/blog/responsive-fluid-css-type-scales/)
+* [2023-09-22, 13:28:21](https://news.ycombinator.com/item?id=37611774) - [Black holes eat faster than previously expected](https://news.northwestern.edu/stories/2023/09/black-holes-eat-faster-than-previously-expected/)
 
 ## [Archives](archives/index.md)
 

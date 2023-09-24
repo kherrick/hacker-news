@@ -6,6 +6,7 @@
 
 * [2023-09-24, 07:31:41](https://news.ycombinator.com/item?id=37630914) - [Google is killing Gmail's Basic HTML View in early 2024](https://support.google.com/mail/answer/15049?hl=en)
 * [2023-09-24, 06:28:41](https://news.ycombinator.com/item?id=37630630) - [GPT Excel](https://gptexcel.uk/)
+* [2023-09-24, 06:28:30](https://news.ycombinator.com/item?id=37630628) - [TypeScript NPM Packages Done Right](https://blog.liblab.com/typescript-npm-packages-done-right/)
 * [2023-09-24, 05:19:45](https://news.ycombinator.com/item?id=37630338) - [California governor vetoes a bill requiring humans in autonomous big rigs](https://www.theverge.com/2023/9/23/23886997/california-governor-veto-self-driving-trucks-safety-driver-bill-assembly-bill-316-autonomous-vehicle)
 * [2023-09-24, 05:04:17](https://news.ycombinator.com/item?id=37630278) - [Why China’s economy won’t be fixed](https://www.economist.com/leaders/2023/08/24/why-chinas-economy-wont-be-fixed)
 * [2023-09-24, 04:56:15](https://news.ycombinator.com/item?id=37630243) - [Google ending Basic HTML support for Gmail in 2024](http://tenfourfox.blogspot.com/2023/09/google-ending-basic-html-support-for.html)
