@@ -26,7 +26,7 @@
 * [2023-09-23, 15:04:02](https://news.ycombinator.com/item?id=37623897) - [13 Years of Foxish](https://davidhampgonsalves.com/13-years-of-foxish/)
 * [2023-09-22, 16:04:48](https://news.ycombinator.com/item?id=37613769) - [How Australians made the early internet their own](https://theconversation.com/30-years-of-the-web-down-under-how-australians-made-the-early-internet-their-own-212542)
 * [2023-09-22, 14:46:34](https://news.ycombinator.com/item?id=37612750) - [A man who figured out how to turn Americans’ private information into a business](https://www.nytimes.com/2023/09/22/magazine/hank-asher-data.html)
-* [2023-09-22, 14:34:37](https://news.ycombinator.com/item?id=37612606) - [An entire branch of math devoted to knots [video]](https://www.youtube.com/watch?v=8DBhTXM_Br4)
+* [2023-09-22, 14:34:37](https://news.ycombinator.com/item?id=37612606) - [Knot theory [video]](https://www.youtube.com/watch?v=8DBhTXM_Br4)
 * [2023-09-22, 13:59:00](https://news.ycombinator.com/item?id=37612154) - [Hedy Lamarr (2018)](https://www.womenshistory.org/education-resources/biographies/hedy-lamarr)
 * [2023-09-22, 13:52:15](https://news.ycombinator.com/item?id=37612067) - [Electrons from Earth may be forming water on the moon](https://phys.org/news/2023-09-electrons-earth-moon.html)
 * [2023-09-22, 13:28:21](https://news.ycombinator.com/item?id=37611774) - [Black holes eat faster than previously expected](https://news.northwestern.edu/stories/2023/09/black-holes-eat-faster-than-previously-expected/)
