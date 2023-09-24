@@ -31,6 +31,7 @@
 * [2023-09-23, 18:34:27](https://news.ycombinator.com/item?id=37626025) - [I open-sourced Even the Ocean! But why?](https://melodicambient.substack.com/p/i-open-sourced-even-the-ocean-2016)
 * [2023-09-23, 18:28:58](https://news.ycombinator.com/item?id=37625973) - [Brainless Jellyfish Demonstrate Learning Ability](https://www.nytimes.com/2023/09/22/science/jellyfish-learning-neurons.html)
 * [2023-09-23, 17:54:42](https://news.ycombinator.com/item?id=37625627) - [Egyptian presidential hopeful targeted by Predator spyware](https://www.washingtonpost.com/investigations/2023/09/23/predator-egypt-hack-spyware-iphone/)
+* [2023-09-23, 17:48:04](https://news.ycombinator.com/item?id=37625560) - [Embracing dumbness](https://www.alexmolas.com/2023/09/18/embracing-dumbness.html)
 * [2023-09-23, 17:21:56](https://news.ycombinator.com/item?id=37625291) - [The strange disappearance of Mrs Agatha Christie (2022)](https://blog.nationalarchives.gov.uk/20speople-investigating-the-strange-disappearance-of-mrs-agatha-christie/)
 * [2023-09-23, 17:21:17](https://news.ycombinator.com/item?id=37625283) - [Show HN: A “CRM” for your personal relationships](https://www.elim.app/eng/home)
 * [2023-09-23, 17:10:04](https://news.ycombinator.com/item?id=37625177) - [The era of America’s subminimum wage for tipped restaurant workers may be ending](https://www.cnbc.com/2023/09/23/the-era-of-the-subminimum-wage-for-tipped-restaurant-workers-is-ending.html)
