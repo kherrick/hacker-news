@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-09-24, 09:30:13",
-      "https://news.ycombinator.com/item?id=37631480"
+      "2023-09-24, 10:24:19",
+      "https://news.ycombinator.com/item?id=37631788"
     ],
     [
-      "Labelling soya foods as ultra-processed is unhelpful",
-      "https://www.alprofoundation.org/scientific-updates/labelling-soya-foods-as-ultra-processed-is-unhelpful/"
+      "I downgraded to an iPhone 11 Pro Max – and there’s not much I’m missing",
+      "https://9to5mac.com/2023/08/02/using-iphone-11-pro-max-in-2023/"
+    ]
+  ],
+  [
+    [
+      "2023-09-24, 10:12:09",
+      "https://news.ycombinator.com/item?id=37631727"
+    ],
+    [
+      "‘Capitalism is dead. Now we have something much worse’",
+      "https://www.theguardian.com/world/2023/sep/24/yanis-varoufakis-technofeudalism-capitalism-ukraine-interview"
     ]
   ],
   [
@@ -51,12 +61,12 @@
   ],
   [
     [
-      "2023-09-24, 07:31:41",
-      "https://news.ycombinator.com/item?id=37630914"
+      "2023-09-24, 07:03:51",
+      "https://news.ycombinator.com/item?id=37630804"
     ],
     [
-      "Google is killing Gmail's Basic HTML View in early 2024",
-      "https://support.google.com/mail/answer/15049?hl=en"
+      "Text editing on mobile isn’t ok",
+      "https://jenson.org/text/"
     ]
   ],
   [
@@ -67,6 +77,16 @@
     [
       "TypeScript NPM Packages Done Right",
       "https://blog.liblab.com/typescript-npm-packages-done-right/"
+    ]
+  ],
+  [
+    [
+      "2023-09-24, 05:28:04",
+      "https://news.ycombinator.com/item?id=37630371"
+    ],
+    [
+      "LLM Falcon 180B Needs 720GB RAM to Run",
+      "https://kaitchup.substack.com/p/falcon-180b-can-it-run-on-your-computer"
     ]
   ],
   [
@@ -107,6 +127,16 @@
     [
       "Show HN: Karektar – Bitmap Font Designer",
       "https://karektar.newtrino.ink/"
+    ]
+  ],
+  [
+    [
+      "2023-09-23, 23:17:45",
+      "https://news.ycombinator.com/item?id=37628550"
+    ],
+    [
+      "Eating Fossils",
+      "https://www.palass.org/publications/newsletter/eating-fossils"
     ]
   ],
   [
@@ -161,42 +191,12 @@
   ],
   [
     [
-      "2023-09-23, 20:37:41",
-      "https://news.ycombinator.com/item?id=37627292"
-    ],
-    [
-      "Scientists improve anti-tumor power of CAR-T cells",
-      "https://www.insideprecisionmedicine.com/topics/oncology/scientists-improve-anti-tumor-power-of-car-t-cells/"
-    ]
-  ],
-  [
-    [
       "2023-09-23, 19:44:56",
       "https://news.ycombinator.com/item?id=37626731"
     ],
     [
       "Bottlerocket – Minimal, immutable Linux OS with verified boot",
       "https://bottlerocket.dev"
-    ]
-  ],
-  [
-    [
-      "2023-09-23, 19:29:01",
-      "https://news.ycombinator.com/item?id=37626551"
-    ],
-    [
-      "Computational Discovery on Jupyter",
-      "https://computational-discovery-on-jupyter.github.io/Computational-Discovery-on-Jupyter/"
-    ]
-  ],
-  [
-    [
-      "2023-09-23, 19:27:18",
-      "https://news.ycombinator.com/item?id=37626528"
-    ],
-    [
-      "GNU/Linux Aviation HOWTO (2006)",
-      "https://tldp.org/HOWTO/Aviation-HOWTO/index.html"
     ]
   ],
   [
