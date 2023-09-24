@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-24](index.md)
 
+* [2023-09-24, 12:59:35](https://news.ycombinator.com/item?id=37632729) - [Osiris-Rex Asteroid Sample Return (Official 4K NASA Broadcast) [video]](https://www.youtube.com/watch?v=Kdwyqctp908)
+* [2023-09-24, 12:51:00](https://news.ycombinator.com/item?id=37632670) - [How A Worm Gave the South a Bad Name](https://www.pbs.org/wgbh/nova/article/how-a-worm-gave-the-south-a-bad-name/)
 * [2023-09-24, 12:49:23](https://news.ycombinator.com/item?id=37632653) - [Valley Fever Is a Growing Fungal Threat to Outdoor Workers](https://www.scientificamerican.com/article/valley-fever-is-a-growing-fungal-threat-to-outdoor-workers/)
 * [2023-09-24, 11:45:32](https://news.ycombinator.com/item?id=37632232) - [What it takes to pass a file path to a Windows API in C++](https://mastodon.gamedev.place/@AshleyGullen/111109299141510319)
 * [2023-09-24, 11:35:20](https://news.ycombinator.com/item?id=37632174) - [The myth of the myth of learning styles](https://nedbatchelder.com/blog/202309/the_myth_of_the_myth_of_learning_styles.html)
