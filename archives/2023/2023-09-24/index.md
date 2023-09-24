@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-24](index.md)
 
+* [2023-09-24, 14:04:13](https://news.ycombinator.com/item?id=37633230) - [Reverse-engineering the classic MK4116 16-kilobit DRAM chip](https://www.righto.com/2020/11/reverse-engineering-classic-mk4116-16.html)
 * [2023-09-24, 13:41:48](https://news.ycombinator.com/item?id=37633028) - [Aurel Manea: I decided to make my photos available in full resolution for free](http://aurelm.com/portfolio/aurel-manea-photo-archive/)
 * [2023-09-24, 13:24:43](https://news.ycombinator.com/item?id=37632905) - [Low Tech Crypto: Solitaire (2020)](https://alicegg.tech//2020/01/03/solitaire.html)
 * [2023-09-24, 12:59:35](https://news.ycombinator.com/item?id=37632729) - [Osiris-Rex Asteroid Sample Return (Official 4K NASA Broadcast) [video]](https://www.youtube.com/watch?v=Kdwyqctp908)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-24, 14:04:13](https://news.ycombinator.com/item?id=37633230) - [Reverse-engineering the classic MK4116 16-kilobit DRAM chip](https://www.righto.com/2020/11/reverse-engineering-classic-mk4116-16.html)
 * [2023-09-24, 13:41:48](https://news.ycombinator.com/item?id=37633028) - [Aurel Manea: I decided to make my photos available in full resolution for free](http://aurelm.com/portfolio/aurel-manea-photo-archive/)
 * [2023-09-24, 13:24:43](https://news.ycombinator.com/item?id=37632905) - [Low Tech Crypto: Solitaire (2020)](https://alicegg.tech//2020/01/03/solitaire.html)
 * [2023-09-24, 12:59:35](https://news.ycombinator.com/item?id=37632729) - [Osiris-Rex Asteroid Sample Return (Official 4K NASA Broadcast) [video]](https://www.youtube.com/watch?v=Kdwyqctp908)
@@ -21,10 +22,9 @@
 * [2023-09-24, 02:48:19](https://news.ycombinator.com/item?id=37629719) - [Ash Framework](https://ash-hq.org/)
 * [2023-09-24, 00:55:38](https://news.ycombinator.com/item?id=37629119) - [Show HN: Karektar – Bitmap Font Designer](https://karektar.newtrino.ink/)
 * [2023-09-23, 19:58:52](https://news.ycombinator.com/item?id=37626888) - [Mutually Assured Recursion](https://kylehovey.github.io/blog/mutually-assured-recursion)
+* [2023-09-23, 19:44:56](https://news.ycombinator.com/item?id=37626731) - [Bottlerocket – Minimal, immutable Linux OS with verified boot](https://bottlerocket.dev)
 * [2023-09-23, 13:17:45](https://news.ycombinator.com/item?id=37622974) - [Reflections on my journey into computer science](https://rugu.dev/en/blog/computer-science-reflections/)
 * [2023-09-23, 12:44:27](https://news.ycombinator.com/item?id=37622753) - [Usability of Old Computers](https://blog.karthikkumar.org/usability-of-old-computers-f06a7f00f72e?gi=ce330599bc0f)
-* [2023-09-23, 01:35:52](https://news.ycombinator.com/item?id=37619873) - [Hardware Reverse Oscilloscope 2](https://mitxela.com/projects/rscope2)
-* [2023-09-22, 21:09:00](https://news.ycombinator.com/item?id=37617820) - [Www which WASM works](https://flak.tedunangst.com/post/www-which-wasm-works)
 * [2023-09-22, 16:04:48](https://news.ycombinator.com/item?id=37613769) - [How Australians made the early internet their own](https://theconversation.com/30-years-of-the-web-down-under-how-australians-made-the-early-internet-their-own-212542)
 * [2023-09-22, 14:46:34](https://news.ycombinator.com/item?id=37612750) - [A man who figured out how to turn Americans’ private information into a business](https://www.nytimes.com/2023/09/22/magazine/hank-asher-data.html)
 * [2023-09-22, 13:59:00](https://news.ycombinator.com/item?id=37612154) - [An Austrian-American actress/inventor pioneered basis for WiFi, GPS, & Bluetooth](https://www.womenshistory.org/education-resources/biographies/hedy-lamarr)
