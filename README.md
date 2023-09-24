@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-24, 08:34:14](https://news.ycombinator.com/item?id=37631186) - [Ask HN: Why does Apple want me to expose my iPhone password to repair my screen?](https://news.ycombinator.com/item?id=37631186)
+* [2023-09-24, 08:59:09](https://news.ycombinator.com/item?id=37631308) - [Bus Pirate 5 Firmware](https://firmware.buspirate.com/)
 * [2023-09-24, 08:27:28](https://news.ycombinator.com/item?id=37631161) - [Why can’t Americans buy cheap Chinese EVs?](https://www.ajot.com/news/why-canat-americans-buy-cheap-chinese-evs/)
 * [2023-09-24, 08:10:52](https://news.ycombinator.com/item?id=37631089) - [A Hackers' Guide to Language Models [video]](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 * [2023-09-24, 08:00:38](https://news.ycombinator.com/item?id=37631043) - [The World’s Oldest Active Torrent Turns 20 Years Old](https://torrentfreak.com/the-worlds-oldest-active-torrent-turns-20-years-old-230924/)
