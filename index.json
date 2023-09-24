@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2023-09-24, 08:08:00",
-      "https://news.ycombinator.com/item?id=37631078"
-    ],
-    [
-      "Croatia demolished houses of libertarian project “Liberland”, seized property",
-      "https://liberlandpress.com/2023/09/22/brutal-croatian-invades-liberland-destroys-houses/"
-    ]
-  ],
-  [
-    [
       "2023-09-24, 07:40:53",
       "https://news.ycombinator.com/item?id=37630951"
     ],
@@ -247,6 +237,16 @@
     [
       "Ways YC has changed in the last year",
       "https://twitter.com/snowmaker/status/1705643839443403263"
+    ]
+  ],
+  [
+    [
+      "2023-09-22, 22:12:13",
+      "https://news.ycombinator.com/item?id=37618440"
+    ],
+    [
+      "Parsing integers quickly with AVX-512",
+      "https://lemire.me/blog/2023/09/22/parsing-integers-quickly-with-avx-512/"
     ]
   ],
   [
