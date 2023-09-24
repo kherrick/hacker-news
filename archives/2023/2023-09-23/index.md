@@ -9,6 +9,7 @@
 * [2023-09-23, 23:14:39](https://news.ycombinator.com/item?id=37628525) - [IPFS support got merged into curl](https://twitter.com/bmann/status/1705572964068930010)
 * [2023-09-23, 22:53:32](https://news.ycombinator.com/item?id=37628337) - [Spoofing Emails from +2M Domains and Virtually Becoming Satan [pdf]](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20presentations/byt3bl33d3r%20-%20SpamChannel%20Spoofing%20Emails%20From%202%20Million%20Domains%20and%20Virtually%20Becoming%20Satan.pdf)
 * [2023-09-23, 22:31:33](https://news.ycombinator.com/item?id=37628168) - [SpaceX’s Starlink surpasses 2M active customers](https://twitter.com/Starlink/status/1705695980325323023)
+* [2023-09-23, 21:43:37](https://news.ycombinator.com/item?id=37627820) - [Recent advances in computer science since 2010?](https://cstheory.stackexchange.com/questions/53343/recent-advances-in-computer-science-since-2010)
 * [2023-09-23, 21:36:21](https://news.ycombinator.com/item?id=37627782) - [The Unforeseen LSD Overdose of 1972](https://notsoprofound.com/the-unforeseen-lsd-overdose-of-1972/)
 * [2023-09-23, 21:30:23](https://news.ycombinator.com/item?id=37627745) - [EU fines Intel $400M for blocking AMD's market access](https://www.neowin.net/news/eu-fines-intel-400-million-for-blocking-amds-market-access-through-payments-to-pc-makers/)
 * [2023-09-23, 21:24:20](https://news.ycombinator.com/item?id=37627684) - [Ways YC has changed in the last year](https://twitter.com/snowmaker/status/1705643839443403263)
