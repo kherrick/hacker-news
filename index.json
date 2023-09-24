@@ -1,32 +1,12 @@
 [
   [
     [
-      "2023-09-24, 05:19:45",
-      "https://news.ycombinator.com/item?id=37630338"
+      "2023-09-24, 04:46:32",
+      "https://news.ycombinator.com/item?id=37630208"
     ],
     [
-      "California governor vetoes a bill requiring humans in autonomous big rigs",
-      "https://www.theverge.com/2023/9/23/23886997/california-governor-veto-self-driving-trucks-safety-driver-bill-assembly-bill-316-autonomous-vehicle"
-    ]
-  ],
-  [
-    [
-      "2023-09-24, 04:56:15",
-      "https://news.ycombinator.com/item?id=37630243"
-    ],
-    [
-      "Google ending Basic HTML support for Gmail in 2024",
-      "http://tenfourfox.blogspot.com/2023/09/google-ending-basic-html-support-for.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-24, 04:06:45",
-      "https://news.ycombinator.com/item?id=37630050"
-    ],
-    [
-      "Microsoft wants to use small nuclear reactors to power its datacenters",
-      "https://jobs.careers.microsoft.com/global/en/job/1627555/Principal-Program-Manager-Nuclear-Technology"
+      "Fiber in C++: Understanding the Basics",
+      "https://agraphicsguynotes.com/posts/fiber_in_cpp_understanding_the_basics/"
     ]
   ],
   [
@@ -35,7 +15,7 @@
       "https://news.ycombinator.com/item?id=37629874"
     ],
     [
-      "Mark Russinovich: “Working towards enabling Windows driver development in Rust”",
+      "Platform that enables Windows driver development in Rust",
       "https://github.com/microsoft/windows-drivers-rs"
     ]
   ],
@@ -47,6 +27,16 @@
     [
       "Modern Linux Tools vs. Unix Classics: Which Would I Choose?",
       "https://meetryanflowers.com/modern-linux-tools-vs-unix-classics-which-would-i-choose/"
+    ]
+  ],
+  [
+    [
+      "2023-09-24, 02:48:19",
+      "https://news.ycombinator.com/item?id=37629719"
+    ],
+    [
+      "Ash Framework",
+      "https://ash-hq.org/"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2023-09-22, 16:23:19",
+      "https://news.ycombinator.com/item?id=37614032"
+    ],
+    [
+      "How to Do a Full Rewrite",
+      "https://badsoftwareadvice.substack.com/p/how-to-do-a-full-rewrite"
+    ]
+  ],
+  [
+    [
       "2023-09-22, 16:17:09",
       "https://news.ycombinator.com/item?id=37613939"
     ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=37613299"
     ],
     [
-      "The equinox is not what you think it is",
+      "The equinox is not when day and night have equal lengths",
       "https://www.scientificamerican.com/article/the-equinox-is-not-what-you-think-it-is/"
     ]
   ],
