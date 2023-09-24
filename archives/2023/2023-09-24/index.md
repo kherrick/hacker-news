@@ -13,6 +13,7 @@
 * [2023-09-24, 04:56:15](https://news.ycombinator.com/item?id=37630243) - [Google ending Basic HTML support for Gmail in 2024](http://tenfourfox.blogspot.com/2023/09/google-ending-basic-html-support-for.html)
 * [2023-09-24, 04:46:32](https://news.ycombinator.com/item?id=37630208) - [Fiber in C++: Understanding the Basics](https://agraphicsguynotes.com/posts/fiber_in_cpp_understanding_the_basics/)
 * [2023-09-24, 04:06:45](https://news.ycombinator.com/item?id=37630050) - [Microsoft wants to use small nuclear reactors to power its datacenters](https://jobs.careers.microsoft.com/global/en/job/1627555/Principal-Program-Manager-Nuclear-Technology)
+* [2023-09-24, 03:51:20](https://news.ycombinator.com/item?id=37629993) - [A Disk Usage Mystery](https://www.marginalia.nu/log/89-disk-usage-mystery/)
 * [2023-09-24, 03:19:30](https://news.ycombinator.com/item?id=37629874) - [Mark Russinovich: “Working towards enabling Windows driver development in Rust”](https://github.com/microsoft/windows-drivers-rs)
 * [2023-09-24, 03:15:36](https://news.ycombinator.com/item?id=37629856) - [Modern Linux Tools vs. Unix Classics: Which Would I Choose?](https://meetryanflowers.com/modern-linux-tools-vs-unix-classics-which-would-i-choose/)
 * [2023-09-24, 03:10:25](https://news.ycombinator.com/item?id=37629831) - [We install planters so you don't have to look at homeless people](https://sfplanters.org)
