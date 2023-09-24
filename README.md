@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-24, 03:15:36](https://news.ycombinator.com/item?id=37629856) - [Modern Linux Tools vs. Unix Classics: Which Would I Choose?](https://meetryanflowers.com/modern-linux-tools-vs-unix-classics-which-would-i-choose/)
-* [2023-09-24, 02:55:31](https://news.ycombinator.com/item?id=37629753) - [The AI revolution is rotten to the core [video]](https://www.youtube.com/watch?v=-MUEXGaxFDA)
 * [2023-09-24, 00:55:38](https://news.ycombinator.com/item?id=37629119) - [Show HN: Karektar – Bitmap Font Designer](https://karektar.newtrino.ink/)
 * [2023-09-23, 23:17:45](https://news.ycombinator.com/item?id=37628550) - [Eating Fossils](https://www.palass.org/publications/newsletter/eating-fossils)
 * [2023-09-23, 23:14:39](https://news.ycombinator.com/item?id=37628525) - [IPFS support got merged into curl](https://twitter.com/bmann/status/1705572964068930010)
@@ -19,7 +18,6 @@
 * [2023-09-23, 17:21:56](https://news.ycombinator.com/item?id=37625291) - [The strange disappearance of Mrs Agatha Christie (2022)](https://blog.nationalarchives.gov.uk/20speople-investigating-the-strange-disappearance-of-mrs-agatha-christie/)
 * [2023-09-23, 17:21:17](https://news.ycombinator.com/item?id=37625283) - [Show HN: A “CRM” for personal relationships](https://www.elim.app/eng/home)
 * [2023-09-23, 15:56:48](https://news.ycombinator.com/item?id=37624400) - [Show HN: I rewrote the 1990's LambdaMOO server](https://github.com/rdaum/moor)
-* [2023-09-23, 15:34:59](https://news.ycombinator.com/item?id=37624201) - [The vital art of talking to strangers (2021)](https://www.economist.com/books-and-arts/2021/07/10/the-vital-art-of-talking-to-strangers)
 * [2023-09-23, 15:10:22](https://news.ycombinator.com/item?id=37623955) - [Why scalpers can get tickets](https://www.404media.co/why-scalpers-can-get-olivia-rodrigo-tickets-and-fans-cannot/)
 * [2023-09-23, 14:03:29](https://news.ycombinator.com/item?id=37623314) - [CRISPR silkworms make spider silk that defies constraints](https://www.genengnews.com/topics/genome-editing/crispr-silkworms-make-spider-silk-that-defies-scientific-constraints/)
 * [2023-09-23, 13:54:38](https://news.ycombinator.com/item?id=37623230) - [Sesame Street Pinball Number Count [video]](https://www.youtube.com/watch?v=VOaZbaPzdsk)
@@ -27,7 +25,9 @@
 * [2023-09-22, 21:09:00](https://news.ycombinator.com/item?id=37617820) - [Www which WASM works](https://flak.tedunangst.com/post/www-which-wasm-works)
 * [2023-09-22, 16:17:09](https://news.ycombinator.com/item?id=37613939) - [Parallelizing non-linear sequential models over the sequence length](https://arxiv.org/abs/2309.12252)
 * [2023-09-22, 16:04:30](https://news.ycombinator.com/item?id=37613768) - [Raw Water: Quenching Your Thirst for SQL Injection](https://nautilus.institute/blog/2023/raw-water/)
+* [2023-09-22, 15:42:25](https://news.ycombinator.com/item?id=37613497) - [What is appropriation in art?](https://www.thecollector.com/what-is-appropriation-in-art/)
 * [2023-09-22, 15:26:58](https://news.ycombinator.com/item?id=37613299) - [The equinox is not what you think it is](https://www.scientificamerican.com/article/the-equinox-is-not-what-you-think-it-is/)
+* [2023-09-22, 15:24:18](https://news.ycombinator.com/item?id=37613264) - [Generations-based map vs. sparse map](https://quasilyte.dev/blog/post/gen-map/)
 * [2023-09-22, 14:58:44](https://news.ycombinator.com/item?id=37612913) - [A beginner's guide to neural mechanisms](https://www.neuralmechanisms.org/videolectures.html)
 * [2023-09-22, 14:28:20](https://news.ycombinator.com/item?id=37612525) - [Responsive type scales with composable CSS utilities](https://tobiasahlin.com/blog/responsive-fluid-css-type-scales/)
 
