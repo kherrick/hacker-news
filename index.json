@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-09-24, 03:10:25",
-      "https://news.ycombinator.com/item?id=37629831"
-    ],
-    [
-      "We install planters so you don't have to look at homeless people",
-      "https://sfplanters.org"
-    ]
-  ],
-  [
-    [
       "2023-09-24, 02:55:31",
       "https://news.ycombinator.com/item?id=37629753"
     ],
@@ -221,16 +211,6 @@
   ],
   [
     [
-      "2023-09-23, 12:20:42",
-      "https://news.ycombinator.com/item?id=37622632"
-    ],
-    [
-      "Coding Guidelines for Prolog (2011)",
-      "https://arxiv.org/abs/0911.2899"
-    ]
-  ],
-  [
-    [
       "2023-09-23, 01:35:52",
       "https://news.ycombinator.com/item?id=37619873"
     ],
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2023-09-22, 15:42:25",
+      "https://news.ycombinator.com/item?id=37613497"
+    ],
+    [
+      "What Is Appropriation in Art?",
+      "https://www.thecollector.com/what-is-appropriation-in-art/"
+    ]
+  ],
+  [
+    [
       "2023-09-22, 15:26:58",
       "https://news.ycombinator.com/item?id=37613299"
     ],
@@ -297,6 +287,16 @@
     [
       "A beginner's guide to neural mechanisms",
       "https://www.neuralmechanisms.org/videolectures.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-22, 14:28:20",
+      "https://news.ycombinator.com/item?id=37612525"
+    ],
+    [
+      "Responsive type scales with composable CSS utilities",
+      "https://tobiasahlin.com/blog/responsive-fluid-css-type-scales/"
     ]
   ]
 ]
