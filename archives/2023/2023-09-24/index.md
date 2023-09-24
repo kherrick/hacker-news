@@ -9,6 +9,7 @@
 * [2023-09-24, 11:27:13](https://news.ycombinator.com/item?id=37632122) - [Texas death row inmate at mercy of Supreme Court – and junk science](https://www.theguardian.com/world/2023/sep/24/texas-death-row-robert-roberson-supreme-court-shaken-baby-syndrome)
 * [2023-09-24, 10:24:19](https://news.ycombinator.com/item?id=37631788) - [I downgraded to an iPhone 11 Pro Max – and there’s not much I’m missing](https://9to5mac.com/2023/08/02/using-iphone-11-pro-max-in-2023/)
 * [2023-09-24, 10:12:09](https://news.ycombinator.com/item?id=37631727) - [‘Capitalism is dead. Now we have something much worse’](https://www.theguardian.com/world/2023/sep/24/yanis-varoufakis-technofeudalism-capitalism-ukraine-interview)
+* [2023-09-24, 09:44:22](https://news.ycombinator.com/item?id=37631568) - [Misinformation Should be Refuted, not Censored](https://fcpp.org/2021/07/28/misinformation-should-be-refuted-not-censored/)
 * [2023-09-24, 09:30:13](https://news.ycombinator.com/item?id=37631480) - [Labelling soya foods as ultra-processed is unhelpful](https://www.alprofoundation.org/scientific-updates/labelling-soya-foods-as-ultra-processed-is-unhelpful/)
 * [2023-09-24, 08:59:09](https://news.ycombinator.com/item?id=37631308) - [Bus Pirate 5 Firmware](https://firmware.buspirate.com/)
 * [2023-09-24, 08:52:02](https://news.ycombinator.com/item?id=37631283) - [Geometric Algebra to Geometric Computing Software Developers](https://arxiv.org/abs/1705.06668)
