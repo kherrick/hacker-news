@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-24](index.md)
 
+* [2023-09-24, 19:09:20](https://news.ycombinator.com/item?id=37636216) - [“What If Linus Torvalds Gets Hit by a Bus?” – An Empirical Study (2000)](https://web.archive.org/web/20011113013913/http://segfault.org/story.phtml?mode=2&id=38b40d78-087dd360)
 * [2023-09-24, 19:05:49](https://news.ycombinator.com/item?id=37636178) - [Senators seek to stop shutdowns forever, after McCarthy’s spending stumbles](https://www.politico.com/news/2023/09/22/bipartisan-group-stop-government-shutdowns-00117679)
 * [2023-09-24, 19:01:10](https://news.ycombinator.com/item?id=37636124) - [Two photographers captured the same millisecond in time (2018)](https://www.dpreview.com/articles/7338941576/how-two-photographers-captured-the-same-millisecond-in-time)
 * [2023-09-24, 19:00:49](https://news.ycombinator.com/item?id=37636121) - [Unpacking Amazon’s stealthy mass layoff strategy in Seattle](https://www.seattletimes.com/opinion/unpacking-amazons-stealthy-mass-layoff-strategy-in-seattle/)
@@ -17,6 +18,7 @@
 * [2023-09-24, 15:32:45](https://news.ycombinator.com/item?id=37634018) - [CoRF: Colorizing Radiance Fields Using Knowledge Distillation](https://arxiv.org/abs/2309.07668)
 * [2023-09-24, 15:14:39](https://news.ycombinator.com/item?id=37633867) - [NASA’s Osiris-Rex capsule lands in Utah with Bennu asteroid sample](https://www.theguardian.com/science/live/2023/sep/24/bennu-asteroid-sample-nasa-osiris-rex-mission-earth-updates)
 * [2023-09-24, 15:09:04](https://news.ycombinator.com/item?id=37633826) - [CSS Findings from the Threads App: Part 2](https://ishadeed.com/article/threads-app-css-part-2/)
+* [2023-09-24, 15:07:17](https://news.ycombinator.com/item?id=37633815) - [John Grisham on Robert Roberson: “Texas may exe­cute an inno­cent man”](https://deathpenaltyinfo.org/news/john-grisham-on-robert-roberson-texas-may-execute-an-innocent-man)
 * [2023-09-24, 14:17:48](https://news.ycombinator.com/item?id=37633358) - [PiWrite – Kindle Paperwhite to Write](https://github.com/rberenguel/PiWrite)
 * [2023-09-24, 14:04:13](https://news.ycombinator.com/item?id=37633230) - [Reverse-engineering the classic MK4116 16-kilobit DRAM chip](https://www.righto.com/2020/11/reverse-engineering-classic-mk4116-16.html)
 * [2023-09-24, 13:41:48](https://news.ycombinator.com/item?id=37633028) - [Aurel Manea: I decided to make my photos available in full resolution for free](http://aurelm.com/portfolio/aurel-manea-photo-archive/)
@@ -41,6 +43,7 @@
 * [2023-09-24, 08:10:52](https://news.ycombinator.com/item?id=37631089) - [A Hackers' Guide to Language Models [video]](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 * [2023-09-24, 08:08:00](https://news.ycombinator.com/item?id=37631078) - [Croatia demolished houses of libertarian project “Liberland”, seized property](https://liberlandpress.com/2023/09/22/brutal-croatian-invades-liberland-destroys-houses/)
 * [2023-09-24, 08:00:38](https://news.ycombinator.com/item?id=37631043) - [The World’s Oldest Active Torrent Turns 20 Years Old](https://torrentfreak.com/the-worlds-oldest-active-torrent-turns-20-years-old-230924/)
+* [2023-09-24, 07:40:53](https://news.ycombinator.com/item?id=37630951) - [Natalie – a work-in-progress Ruby compiler, written in Ruby and C++](https://github.com/natalie-lang/natalie)
 * [2023-09-24, 07:31:41](https://news.ycombinator.com/item?id=37630914) - [Google is killing Gmail's Basic HTML View in early 2024](https://support.google.com/mail/answer/15049?hl=en)
 * [2023-09-24, 07:03:51](https://news.ycombinator.com/item?id=37630804) - [Text editing on mobile isn’t ok](https://jenson.org/text/)
 * [2023-09-24, 06:28:41](https://news.ycombinator.com/item?id=37630630) - [GPT Excel](https://gptexcel.uk/)
