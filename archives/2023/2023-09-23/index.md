@@ -46,6 +46,7 @@
 * [2023-09-23, 15:25:45](https://news.ycombinator.com/item?id=37624112) - [TSA Policy on Light Sabers](https://www.tsa.gov/travel/security-screening/whatcanibring/items/light-saber)
 * [2023-09-23, 15:21:41](https://news.ycombinator.com/item?id=37624070) - [Definitely Do Not Put Plastic in the Microwave](https://www.bonappetit.com/story/can-you-put-plastic-in-the-microwave)
 * [2023-09-23, 15:10:22](https://news.ycombinator.com/item?id=37623955) - [Why Scalpers Can Get Olivia Rodrigo Tickets and You Can't](https://www.404media.co/why-scalpers-can-get-olivia-rodrigo-tickets-and-fans-cannot/)
+* [2023-09-23, 15:04:02](https://news.ycombinator.com/item?id=37623897) - [13 Years of Foxish](https://davidhampgonsalves.com/13-years-of-foxish/)
 * [2023-09-23, 14:42:12](https://news.ycombinator.com/item?id=37623680) - [Ethereum founder on U.S. crypto crackdown](https://www.cnbc.com/2023/09/22/vitalik-buterin-cnbc-interview-ethereum-founder-on-us-crypto-crackdown.html)
 * [2023-09-23, 14:30:59](https://news.ycombinator.com/item?id=37623569) - [Make Something Wonderful](https://news.ycombinator.com/item?id=37623569)
 * [2023-09-23, 14:29:55](https://news.ycombinator.com/item?id=37623562) - [Blocking Visual Studio Code embedded reverse shell before it's too late](https://ipfyx.fr/post/visual-studio-code-tunnel/)

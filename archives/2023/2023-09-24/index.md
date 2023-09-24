@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-24](index.md)
 
+* [2023-09-24, 15:14:39](https://news.ycombinator.com/item?id=37633867) - [NASA’s Osiris-Rex capsule lands in Utah with Bennu asteroid sample](https://www.theguardian.com/science/live/2023/sep/24/bennu-asteroid-sample-nasa-osiris-rex-mission-earth-updates)
 * [2023-09-24, 14:04:13](https://news.ycombinator.com/item?id=37633230) - [Reverse-engineering the classic MK4116 16-kilobit DRAM chip](https://www.righto.com/2020/11/reverse-engineering-classic-mk4116-16.html)
 * [2023-09-24, 13:41:48](https://news.ycombinator.com/item?id=37633028) - [Aurel Manea: I decided to make my photos available in full resolution for free](http://aurelm.com/portfolio/aurel-manea-photo-archive/)
 * [2023-09-24, 13:24:43](https://news.ycombinator.com/item?id=37632905) - [Low Tech Crypto: Solitaire (2020)](https://alicegg.tech//2020/01/03/solitaire.html)
