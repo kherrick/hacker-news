@@ -14,7 +14,6 @@
 * [2023-09-23, 19:29:01](https://news.ycombinator.com/item?id=37626551) - [Computational Discovery on Jupyter](https://computational-discovery-on-jupyter.github.io/Computational-Discovery-on-Jupyter/)
 * [2023-09-23, 19:27:18](https://news.ycombinator.com/item?id=37626528) - [GNU/Linux Aviation HOWTO (2006)](https://tldp.org/HOWTO/Aviation-HOWTO/index.html)
 * [2023-09-23, 18:28:58](https://news.ycombinator.com/item?id=37625973) - [Box jellyfish demonstrate learning ability](https://www.nytimes.com/2023/09/22/science/jellyfish-learning-neurons.html)
-* [2023-09-23, 17:21:56](https://news.ycombinator.com/item?id=37625291) - [The strange disappearance of Mrs Agatha Christie (2022)](https://blog.nationalarchives.gov.uk/20speople-investigating-the-strange-disappearance-of-mrs-agatha-christie/)
 * [2023-09-23, 15:56:48](https://news.ycombinator.com/item?id=37624400) - [Show HN: I rewrote the 1990's LambdaMOO server](https://github.com/rdaum/moor)
 * [2023-09-23, 15:34:59](https://news.ycombinator.com/item?id=37624201) - [The vital art of talking to strangers (2021)](https://www.economist.com/books-and-arts/2021/07/10/the-vital-art-of-talking-to-strangers)
 * [2023-09-23, 15:10:22](https://news.ycombinator.com/item?id=37623955) - [Why scalpers can get tickets](https://www.404media.co/why-scalpers-can-get-olivia-rodrigo-tickets-and-fans-cannot/)
@@ -30,6 +29,7 @@
 * [2023-09-22, 15:42:25](https://news.ycombinator.com/item?id=37613497) - [What Is Appropriation in Art?](https://www.thecollector.com/what-is-appropriation-in-art/)
 * [2023-09-22, 15:26:58](https://news.ycombinator.com/item?id=37613299) - [The equinox is not what you think it is](https://www.scientificamerican.com/article/the-equinox-is-not-what-you-think-it-is/)
 * [2023-09-22, 14:58:44](https://news.ycombinator.com/item?id=37612913) - [A beginner's guide to neural mechanisms](https://www.neuralmechanisms.org/videolectures.html)
+* [2023-09-22, 14:28:20](https://news.ycombinator.com/item?id=37612525) - [Responsive type scales with composable CSS utilities](https://tobiasahlin.com/blog/responsive-fluid-css-type-scales/)
 
 ## [Archives](archives/index.md)
 
