@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-09-24](index.md)
 
+* [2023-09-24, 19:05:49](https://news.ycombinator.com/item?id=37636178) - [Senators seek to stop shutdowns forever, after McCarthy’s spending stumbles](https://www.politico.com/news/2023/09/22/bipartisan-group-stop-government-shutdowns-00117679)
 * [2023-09-24, 19:00:49](https://news.ycombinator.com/item?id=37636121) - [Unpacking Amazon’s stealthy mass layoff strategy in Seattle](https://www.seattletimes.com/opinion/unpacking-amazons-stealthy-mass-layoff-strategy-in-seattle/)
 * [2023-09-24, 18:41:25](https://news.ycombinator.com/item?id=37635939) - [Minecraft Wiki has decided to leave Fandom](https://twitter.com/MinecraftWikiEN/status/1706004078206103965)
 * [2023-09-24, 17:59:39](https://news.ycombinator.com/item?id=37635514) - [Brightline Orlando's First Train 125 MPH from MCO to MIA [video]](https://www.youtube.com/watch?v=Yu18ZqWgQM4)
+* [2023-09-24, 17:26:28](https://news.ycombinator.com/item?id=37635144) - [Why the Tomato Was Feared in Europe for More Than 200 Years](https://www.smithsonianmag.com/arts-culture/why-the-tomato-was-feared-in-europe-for-more-than-200-years-863735/)
 * [2023-09-24, 16:44:56](https://news.ycombinator.com/item?id=37634713) - [Cavities were cured in 1985, and no one knows it yet](https://www.lanternbioworks.com)
 * [2023-09-24, 15:53:57](https://news.ycombinator.com/item?id=37634194) - [Mercenary mayhem: A technical analysis of Intellexa's PREDATOR spyware](https://blog.talosintelligence.com/mercenary-intellexa-predator/)
 * [2023-09-24, 15:49:01](https://news.ycombinator.com/item?id=37634161) - [California workers who cut countertops are dying of an incurable disease](https://news.yahoo.com/california-workers-cut-countertops-dying-100021788.html)
