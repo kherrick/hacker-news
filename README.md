@@ -22,7 +22,7 @@
 * [2023-09-24, 07:03:51](https://news.ycombinator.com/item?id=37630804) - [Text editing on mobile: the invisible problem](https://jenson.org/text/)
 * [2023-09-24, 02:29:13](https://news.ycombinator.com/item?id=37629618) - [Fear and Desire: On Stanley Kubrick’s first film](https://metrograph.com/fearanddesire/)
 * [2023-09-24, 02:24:03](https://news.ycombinator.com/item?id=37629593) - [One robber baron’s gamble on railroads](https://www.smithsonianmag.com/history/robber-baron-gamble-railroads-brought-down-bank-plunged-us-into-first-great-depression-panic-1873-180982877/)
-* [2023-09-24, 02:06:49](https://news.ycombinator.com/item?id=37629514) - [Roman-Fleuve](https://literaryocean.com/discuss-the-term-roman-fleuve-definition-of-roman-fleuve-and-examples/)
+* [2023-09-24, 02:06:49](https://news.ycombinator.com/item?id=37629514) - [Roman-Fleuve (2021)](https://literaryocean.com/discuss-the-term-roman-fleuve-definition-of-roman-fleuve-and-examples/)
 * [2023-09-23, 21:24:20](https://news.ycombinator.com/item?id=37627684) - [Ways YC has changed in the last year](https://twitter.com/snowmaker/status/1705643839443403263)
 * [2023-09-22, 22:12:13](https://news.ycombinator.com/item?id=37618440) - [Parsing integers quickly with AVX-512](https://lemire.me/blog/2023/09/22/parsing-integers-quickly-with-avx-512/)
 * [2023-09-22, 16:04:48](https://news.ycombinator.com/item?id=37613769) - [How Australians made the early internet their own](https://theconversation.com/30-years-of-the-web-down-under-how-australians-made-the-early-internet-their-own-212542)
