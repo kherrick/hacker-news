@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-24, 19:00:49",
+      "https://news.ycombinator.com/item?id=37636121"
+    ],
+    [
+      "Unpacking Amazon’s stealthy mass layoff strategy in Seattle",
+      "https://www.seattletimes.com/opinion/unpacking-amazons-stealthy-mass-layoff-strategy-in-seattle/"
+    ]
+  ],
+  [
+    [
       "2023-09-24, 18:41:25",
       "https://news.ycombinator.com/item?id=37635939"
     ],
@@ -27,6 +37,16 @@
     [
       "Gene-Engineered Mouth Bacteria",
       "https://www.lanternbioworks.com"
+    ]
+  ],
+  [
+    [
+      "2023-09-24, 15:53:57",
+      "https://news.ycombinator.com/item?id=37634194"
+    ],
+    [
+      "Mercenary mayhem: A technical analysis of Intellexa's PREDATOR spyware",
+      "https://blog.talosintelligence.com/mercenary-intellexa-predator/"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2023-09-24, 12:49:23",
-      "https://news.ycombinator.com/item?id=37632653"
-    ],
-    [
-      "Valley Fever Is a Growing Fungal Threat to Outdoor Workers",
-      "https://www.scientificamerican.com/article/valley-fever-is-a-growing-fungal-threat-to-outdoor-workers/"
-    ]
-  ],
-  [
-    [
       "2023-09-24, 12:48:12",
       "https://news.ycombinator.com/item?id=37632639"
     ],
@@ -197,16 +207,6 @@
     [
       "Fiber in C++: Understanding the Basics",
       "https://agraphicsguynotes.com/posts/fiber_in_cpp_understanding_the_basics/"
-    ]
-  ],
-  [
-    [
-      "2023-09-24, 03:19:30",
-      "https://news.ycombinator.com/item?id=37629874"
-    ],
-    [
-      "Platform that enables Windows driver development in Rust",
-      "https://github.com/microsoft/windows-drivers-rs"
     ]
   ],
   [
