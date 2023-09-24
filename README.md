@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-24, 13:41:48](https://news.ycombinator.com/item?id=37633028) - [Aurel Manea: I decided to make my photos available in full resolution for free](http://aurelm.com/portfolio/aurel-manea-photo-archive/)
 * [2023-09-24, 12:59:35](https://news.ycombinator.com/item?id=37632729) - [Osiris-Rex Asteroid Sample Return (Official 4K NASA Broadcast) [video]](https://www.youtube.com/watch?v=Kdwyqctp908)
 * [2023-09-24, 12:51:00](https://news.ycombinator.com/item?id=37632670) - [How A Worm Gave the South a Bad Name](https://www.pbs.org/wgbh/nova/article/how-a-worm-gave-the-south-a-bad-name/)
 * [2023-09-24, 12:49:23](https://news.ycombinator.com/item?id=37632653) - [Valley Fever Is a Growing Fungal Threat to Outdoor Workers](https://www.scientificamerican.com/article/valley-fever-is-a-growing-fungal-threat-to-outdoor-workers/)
@@ -7,7 +8,6 @@
 * [2023-09-24, 11:45:32](https://news.ycombinator.com/item?id=37632232) - [What it takes to pass a file path to a Windows API in C++](https://mastodon.gamedev.place/@AshleyGullen/111109299141510319)
 * [2023-09-24, 11:35:20](https://news.ycombinator.com/item?id=37632174) - [The myth of the myth of learning styles](https://nedbatchelder.com/blog/202309/the_myth_of_the_myth_of_learning_styles.html)
 * [2023-09-24, 11:27:13](https://news.ycombinator.com/item?id=37632122) - [Texas death row inmate at mercy of Supreme Court – and junk science](https://www.theguardian.com/world/2023/sep/24/texas-death-row-robert-roberson-supreme-court-shaken-baby-syndrome)
-* [2023-09-24, 11:21:35](https://news.ycombinator.com/item?id=37632098) - [FBI Warned Sikhs in the U.S. After Killing of Canadian Activist](https://theintercept.com/2023/09/23/sikhs-fbi-canada-india-nijjar/)
 * [2023-09-24, 11:15:00](https://news.ycombinator.com/item?id=37632061) - [AI-generated naked child images shock Spanish town of Almendralejo](https://www.bbc.co.uk/news/world-europe-66877718)
 * [2023-09-24, 08:59:09](https://news.ycombinator.com/item?id=37631308) - [Bus Pirate 5 Firmware](https://firmware.buspirate.com/)
 * [2023-09-24, 08:52:02](https://news.ycombinator.com/item?id=37631283) - [Geometric Algebra to Geometric Computing Software Developers](https://arxiv.org/abs/1705.06668)
