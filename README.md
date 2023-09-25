@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-25, 22:23:23](https://news.ycombinator.com/item?id=37651548) - [Rich Sutton joins John Carmack's Keen Technologies](https://twitter.com/ID_AA_Carmack/status/1706420064956661867)
 * [2023-09-25, 22:21:51](https://news.ycombinator.com/item?id=37651529) - [Distinguishing features of Long Covid identified through immune profiling](https://www.nature.com/articles/s41586-023-06651-y)
 * [2023-09-25, 21:55:07](https://news.ycombinator.com/item?id=37651260) - [Is Math Real?](https://maa.org/press/maa-reviews/is-math-real)
 * [2023-09-25, 21:47:42](https://news.ycombinator.com/item?id=37651171) - [The SR-71 Blackbird Astro-Nav System worked by tracking the stars](https://theaviationgeekclub.com/the-sr-71-blackbird-astro-nav-system-aka-r2-d2-worked-by-tracking-the-stars-and-was-so-powerful-that-it-could-see-the-stars-even-in-daylight/)
@@ -10,6 +9,7 @@
 * [2023-09-25, 20:20:55](https://news.ycombinator.com/item?id=37650040) - [PostScript’s sudden death in Sonoma](https://eclecticlight.co/2023/09/25/postscripts-sudden-death-in-sonoma/)
 * [2023-09-25, 20:07:43](https://news.ycombinator.com/item?id=37649841) - [Pixel 8 leak promises 7 years of OS updates](https://arstechnica.com/gadgets/2023/09/pixel-8-leak-promises-7-years-of-os-updates-even-more-than-an-iphone/)
 * [2023-09-25, 20:05:45](https://news.ycombinator.com/item?id=37649811) - [Show HN: Bigcapital - A open-source alternative to QuickBooks](https://github.com/bigcapitalhq/bigcapital)
+* [2023-09-25, 19:58:17](https://news.ycombinator.com/item?id=37649708) - [Trust Arrives on Foot and Leaves on Horseback](https://thalein.medium.com/trust-arrives-on-foot-and-leaves-on-horseback-aacde6e69163)
 * [2023-09-25, 19:50:03](https://news.ycombinator.com/item?id=37649594) - [John Romero on his book “Doom Guy” and developing games at a small scale](https://howtomarketagame.com/2023/09/25/john-romero-on-his-book-doom-guy-and-developing-games-at-a-small-scale/)
 * [2023-09-25, 19:40:54](https://news.ycombinator.com/item?id=37649448) - [DJI Mini 4 Pro](https://www.dji.com/mini-4-pro)
 * [2023-09-25, 19:34:11](https://news.ycombinator.com/item?id=37649353) - [F-35A has flown from a highway for the first time](https://www.thedrive.com/the-war-zone/f-35a-has-flown-from-a-highway-for-the-first-time)

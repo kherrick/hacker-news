@@ -20,6 +20,7 @@
 * [2023-09-25, 20:19:32](https://news.ycombinator.com/item?id=37650021) - [Leaks Can Make Natural Gas as Bad for the Climate as Coal, a Study Says](https://www.nytimes.com/2023/07/13/climate/natural-gas-leaks-coal-climate-change.html)
 * [2023-09-25, 20:07:43](https://news.ycombinator.com/item?id=37649841) - [Pixel 8 leak promises 7 years of OS updates](https://arstechnica.com/gadgets/2023/09/pixel-8-leak-promises-7-years-of-os-updates-even-more-than-an-iphone/)
 * [2023-09-25, 20:05:45](https://news.ycombinator.com/item?id=37649811) - [Show HN: Bigcapital - A open-source alternative to QuickBooks](https://github.com/bigcapitalhq/bigcapital)
+* [2023-09-25, 19:58:17](https://news.ycombinator.com/item?id=37649708) - [Trust Arrives on Foot and Leaves on Horseback](https://thalein.medium.com/trust-arrives-on-foot-and-leaves-on-horseback-aacde6e69163)
 * [2023-09-25, 19:50:03](https://news.ycombinator.com/item?id=37649594) - [John Romero on his book “Doom Guy” and developing games at a small scale](https://howtomarketagame.com/2023/09/25/john-romero-on-his-book-doom-guy-and-developing-games-at-a-small-scale/)
 * [2023-09-25, 19:42:53](https://news.ycombinator.com/item?id=37649477) - [French police uses Sweet Home 3D for crime scenes (2018)](http://www.sweethome3d.com/blog/2018/12/10/customization_for_the_forensic_police.html)
 * [2023-09-25, 19:40:54](https://news.ycombinator.com/item?id=37649448) - [DJI Mini 4 Pro](https://www.dji.com/mini-4-pro)
