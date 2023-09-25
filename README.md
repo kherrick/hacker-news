@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-25, 12:31:07](https://news.ycombinator.com/item?id=37642671) - [Show HN: E-Ink Day Schedule](https://github.com/davidhampgonsalves/life-dashboard)
 * [2023-09-25, 12:00:22](https://news.ycombinator.com/item?id=37642361) - [Optery (YC W22) – Full Stack Developer with Node.js Experience (Remote and Israel)](https://optery.breezy.hr/p/a95772ba7d2b-full-stack-developer-nodejs)
 * [2023-09-25, 11:57:28](https://news.ycombinator.com/item?id=37642335) - [ChatGPT can now see, hear, and speak – openai.com](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak)
 * [2023-09-25, 11:28:20](https://news.ycombinator.com/item?id=37642110) - [Lego axes plan to make bricks from recycled bottles](https://www.bbc.com/news/business-66910573)
@@ -9,7 +10,6 @@
 * [2023-09-25, 10:41:31](https://news.ycombinator.com/item?id=37641706) - [The Fantilator Page](https://onlyfans.web.cern.ch/)
 * [2023-09-25, 10:36:20](https://news.ycombinator.com/item?id=37641660) - [I Quit My Job at Amazon Rather Than Return to the Office 3 Days a Week](https://www.businessinsider.com/i-quit-return-to-office-order-amazon-rto-2023-9)
 * [2023-09-25, 10:19:40](https://news.ycombinator.com/item?id=37641583) - [New York employers must include pay rates in job ads under new state law](https://english.elpais.com/economy-and-business/2023-09-17/new-york-employers-must-include-pay-rates-in-job-ads-under-new-state-law.html)
-* [2023-09-25, 09:58:23](https://news.ycombinator.com/item?id=37641471) - [Baby boomers are becoming homeless at a rate not seen since the Great Depression](https://moneywise.com/news/economy/rate-of-homeless-baby-boomers-increasing)
 * [2023-09-25, 09:44:19](https://news.ycombinator.com/item?id=37641393) - [How to Hide a $2T Trial](https://www.thebignewsletter.com/p/how-to-hide-a-2-trillion-antitrust)
 * [2023-09-25, 08:11:30](https://news.ycombinator.com/item?id=37640816) - [Bitwarden: Free, open-source password manager](https://bitwarden.com/)
 * [2023-09-25, 07:07:44](https://news.ycombinator.com/item?id=37640466) - [Amazon will invest up to $4B in Anthropic](https://www.anthropic.com/index/anthropic-amazon)
