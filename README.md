@@ -3,6 +3,7 @@
 * [2023-09-25, 04:06:57](https://news.ycombinator.com/item?id=37639590) - [20 Years of Grml.org](https://blog.grml.org/archives/411-20-years-of-grml.org.html)
 * [2023-09-25, 02:41:37](https://news.ycombinator.com/item?id=37639134) - [WGA and the studios reach tentative deal to end writers' strike](https://www.latimes.com/entertainment-arts/business/story/2023-09-24/writers-strike-over-wga-studios-reach-deal-actors)
 * [2023-09-25, 02:17:39](https://news.ycombinator.com/item?id=37639010) - [Tell HN: There is a highlights page on HN](https://news.ycombinator.com/item?id=37639010)
+* [2023-09-25, 02:05:34](https://news.ycombinator.com/item?id=37638956) - [Japan pharma startup to begin human trials of tooth regrowth drug in 2024](https://english.kyodonews.net/news/2023/09/d56fb464a52b-japan-pharma-startup-developing-world-first-drug-to-grow-new-teeth.html)
 * [2023-09-25, 02:00:06](https://news.ycombinator.com/item?id=37638928) - [Show HN: Crystaldoc.info – Crystal Shards API Documentation Hosting](https://crystaldoc.info/)
 * [2023-09-25, 01:53:28](https://news.ycombinator.com/item?id=37638894) - [Why do we need modules at all? (2011)](http://erlang.org/pipermail/erlang-questions/2011-May/058768.html)
 * [2023-09-25, 01:44:22](https://news.ycombinator.com/item?id=37638840) - [Type 2 diabetes rates in US youth rose 62% after Covid pandemic began](https://www.cidrap.umn.edu/covid-19/type-2-diabetes-rates-us-youth-rose-62-after-covid-pandemic-began-study-suggests)
@@ -29,7 +30,6 @@
 * [2023-09-23, 18:23:15](https://news.ycombinator.com/item?id=37625909) - [The process of making food models. Japanese 73-year-old craftsman [video]](https://www.youtube.com/watch?v=Chi8hk1Vqs8)
 * [2023-09-22, 22:12:13](https://news.ycombinator.com/item?id=37618440) - [Parsing integers quickly with AVX-512](https://lemire.me/blog/2023/09/22/parsing-integers-quickly-with-avx-512/)
 * [2023-09-22, 14:56:50](https://news.ycombinator.com/item?id=37612887) - [Hidden ocean the source of carbon dioxide on Jupiter moon](https://phys.org/news/2023-09-hidden-ocean-source-carbon-dioxide.html)
-* [2023-09-22, 14:34:37](https://news.ycombinator.com/item?id=37612606) - [Knot theory [video]](https://www.youtube.com/watch?v=8DBhTXM_Br4)
 
 ## [Archives](archives/index.md)
 
