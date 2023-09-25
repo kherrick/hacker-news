@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-25](index.md)
 
+* [2023-09-25, 17:38:46](https://news.ycombinator.com/item?id=37647677) - [Intel Axes Data Center GPU Max 1350, Preps New Max 1450 for 'Different Markets'](https://www.tomshardware.com/news/intel-axes-data-center-gpu-max-1350-preps-max-1450-for-different-markets)
+* [2023-09-25, 17:35:33](https://news.ycombinator.com/item?id=37647627) - [Kafka as an Antipattern](https://joshaustin.tech/blog/kafka-as-an-antipattern/)
 * [2023-09-25, 17:13:06](https://news.ycombinator.com/item?id=37647279) - [What to expect from upvotes on Hacker News](https://antonz.org/hn-upvotes/)
 * [2023-09-25, 17:12:35](https://news.ycombinator.com/item?id=37647265) - [Living Off the Land Binaries](https://github.com/LOLBAS-Project/LOLBAS/blob/master/README.md)
 * [2023-09-25, 17:00:43](https://news.ycombinator.com/item?id=37647053) - [Dots (YC S21) Is Hiring for Founding Full-Stack Eningeers](https://www.ycombinator.com/companies/dots-2/jobs)
@@ -41,12 +43,14 @@
 * [2023-09-25, 10:41:31](https://news.ycombinator.com/item?id=37641706) - [OnlyFans](https://onlyfans.web.cern.ch/)
 * [2023-09-25, 10:36:20](https://news.ycombinator.com/item?id=37641660) - [I Quit My Job at Amazon Rather Than Return to the Office 3 Days a Week](https://www.businessinsider.com/i-quit-return-to-office-order-amazon-rto-2023-9)
 * [2023-09-25, 10:29:35](https://news.ycombinator.com/item?id=37641628) - [Upsert in SQL](https://antonz.org/sql-upsert/)
+* [2023-09-25, 10:21:12](https://news.ycombinator.com/item?id=37641590) - [Nuvem: Cable to connect Portugal, Bermuda, and the U.S.](https://cloud.google.com/blog/products/infrastructure/introducing-the-nuvem-subsea-cable/)
 * [2023-09-25, 10:19:40](https://news.ycombinator.com/item?id=37641583) - [New York employers must include pay rates in job ads under new state law](https://english.elpais.com/economy-and-business/2023-09-17/new-york-employers-must-include-pay-rates-in-job-ads-under-new-state-law.html)
 * [2023-09-25, 09:58:23](https://news.ycombinator.com/item?id=37641471) - [Baby boomers are becoming homeless at a rate not seen since the Great Depression](https://moneywise.com/news/economy/rate-of-homeless-baby-boomers-increasing)
 * [2023-09-25, 09:49:15](https://news.ycombinator.com/item?id=37641416) - [Intel Meteor Lake Architecture](https://hothardware.com/reviews/intel-meteor-lake-architecture)
 * [2023-09-25, 09:44:19](https://news.ycombinator.com/item?id=37641393) - [How to Hide a $2T Trial](https://www.thebignewsletter.com/p/how-to-hide-a-2-trillion-antitrust)
 * [2023-09-25, 08:36:07](https://news.ycombinator.com/item?id=37640940) - [Google killing Basic HTML version of Gmail In January 2024](https://www.theregister.com/2023/09/25/gmail_basic_html_discontinued/)
 * [2023-09-25, 08:11:30](https://news.ycombinator.com/item?id=37640816) - [Bitwarden: Free, open-source password manager](https://bitwarden.com/)
+* [2023-09-25, 07:39:03](https://news.ycombinator.com/item?id=37640643) - [Intel’s Ponte Vecchio: Chiplets Gone Crazy](https://chipsandcheese.com/2023/09/23/intels-ponte-vecchio-chiplets-gone-crazy/)
 * [2023-09-25, 07:07:44](https://news.ycombinator.com/item?id=37640466) - [Amazon will invest up to $4B in Anthropic](https://www.anthropic.com/index/anthropic-amazon)
 * [2023-09-25, 07:01:19](https://news.ycombinator.com/item?id=37640442) - [Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=37640442)
 * [2023-09-25, 06:48:25](https://news.ycombinator.com/item?id=37640363) - [LaLiga “Talks to Google” About Deleting Piracy Apps from a Million Phones](https://torrentfreak.com/laliga-talks-to-google-about-piracy-apps-from-a-million-phones-230924/)
