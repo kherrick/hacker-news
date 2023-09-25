@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-25, 23:03:11",
+      "https://news.ycombinator.com/item?id=37651962"
+    ],
+    [
+      "‘All of Sony Systems’ Allegedly Hacked by New Ransomware Group",
+      "https://kotaku.com/sony-playstation-hack-breach-ransomware-ransomed-vc-1850870993"
+    ]
+  ],
+  [
+    [
       "2023-09-25, 22:21:51",
       "https://news.ycombinator.com/item?id=37651529"
     ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2023-09-25, 19:58:17",
-      "https://news.ycombinator.com/item?id=37649708"
-    ],
-    [
-      "Trust Arrives on Foot and Leaves on Horseback",
-      "https://thalein.medium.com/trust-arrives-on-foot-and-leaves-on-horseback-aacde6e69163"
-    ]
-  ],
-  [
-    [
       "2023-09-25, 19:50:03",
       "https://news.ycombinator.com/item?id=37649594"
     ],
@@ -127,16 +127,6 @@
     [
       "F-35A has flown from a highway for the first time",
       "https://www.thedrive.com/the-war-zone/f-35a-has-flown-from-a-highway-for-the-first-time"
-    ]
-  ],
-  [
-    [
-      "2023-09-25, 18:28:13",
-      "https://news.ycombinator.com/item?id=37648415"
-    ],
-    [
-      "Show HN: DitchTheBell – Linux-based desktop notifier for RSS/Atom feeds",
-      "https://github.com/EscherMoore/DitchTheBell"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Time Doesn’t Belong to Physics – When Bergson met Einstein",
       "https://iai.tv/articles/time-doesnt-belong-to-physics-jimena-canales-auid-2607"
+    ]
+  ],
+  [
+    [
+      "2023-09-23, 12:03:52",
+      "https://news.ycombinator.com/item?id=37622512"
+    ],
+    [
+      "Show HN: Online oscilloscope with waveform generators",
+      "https://csurgay.com/syggen/"
     ]
   ]
 ]
