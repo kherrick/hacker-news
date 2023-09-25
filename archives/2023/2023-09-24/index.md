@@ -54,6 +54,7 @@
 * [2023-09-24, 09:44:22](https://news.ycombinator.com/item?id=37631568) - [Misinformation Should be Refuted, not Censored](https://fcpp.org/2021/07/28/misinformation-should-be-refuted-not-censored/)
 * [2023-09-24, 09:30:13](https://news.ycombinator.com/item?id=37631480) - [Labelling soya foods as ultra-processed is unhelpful](https://www.alprofoundation.org/scientific-updates/labelling-soya-foods-as-ultra-processed-is-unhelpful/)
 * [2023-09-24, 08:59:09](https://news.ycombinator.com/item?id=37631308) - [Bus Pirate 5 Firmware](https://firmware.buspirate.com/)
+* [2023-09-24, 08:52:38](https://news.ycombinator.com/item?id=37631286) - [Geometric Algebra for Electrical Engineers](https://peeterjoot.com/writing/geometric-algebra-for-electrical-engineers/)
 * [2023-09-24, 08:52:02](https://news.ycombinator.com/item?id=37631283) - [Geometric Algebra to Geometric Computing Software Developers](https://arxiv.org/abs/1705.06668)
 * [2023-09-24, 08:46:12](https://news.ycombinator.com/item?id=37631252) - [‘Mind-boggling’ sea creature identified as digenean trematode](https://www.science.org/content/article/mind-boggling-sea-creature-spotted-japan-has-finally-been-identified)
 * [2023-09-24, 08:34:14](https://news.ycombinator.com/item?id=37631186) - [Ask HN: Why does Apple want me to expose my iPhone password to repair my screen?](https://news.ycombinator.com/item?id=37631186)
