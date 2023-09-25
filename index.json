@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-09-25, 02:41:22",
-      "https://news.ycombinator.com/item?id=37639130"
-    ],
-    [
-      "Millions of People See Staying Home and Cleaning as Their Idea of a Good Time",
-      "https://www.wsj.com/lifestyle/cleaning-hacks-tips-for-home-tiktok-influencers-3c689dd"
-    ]
-  ],
-  [
-    [
       "2023-09-25, 02:00:06",
       "https://news.ycombinator.com/item?id=37638928"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=37638894"
     ],
     [
-      "Why do we need modules at all?",
+      "Why do we need modules at all? (2011)",
       "http://erlang.org/pipermail/erlang-questions/2011-May/058768.html"
     ]
   ],
@@ -37,26 +27,6 @@
     [
       "Type 2 diabetes rates in US youth rose 62% after Covid pandemic began",
       "https://www.cidrap.umn.edu/covid-19/type-2-diabetes-rates-us-youth-rose-62-after-covid-pandemic-began-study-suggests"
-    ]
-  ],
-  [
-    [
-      "2023-09-25, 01:41:07",
-      "https://news.ycombinator.com/item?id=37638817"
-    ],
-    [
-      "Game of Thrones creator and other authors sue ChatGPT-maker for ‘theft’",
-      "https://www.aljazeera.com/news/2023/9/21/openai-sued"
-    ]
-  ],
-  [
-    [
-      "2023-09-25, 01:39:52",
-      "https://news.ycombinator.com/item?id=37638804"
-    ],
-    [
-      "Research adds evidence to benefits of ginger supplements for treating autoimmune",
-      "https://medicalxpress.com/news/2023-09-evidence-benefits-ginger-supplements-autoimmune.html"
     ]
   ],
   [
@@ -77,6 +47,16 @@
     [
       "The Cutting Room Floor–unearthing unused and cut content from video games",
       "https://tcrf.net/The_Cutting_Room_Floor"
+    ]
+  ],
+  [
+    [
+      "2023-09-24, 21:02:19",
+      "https://news.ycombinator.com/item?id=37637165"
+    ],
+    [
+      "LARPing and Violent Extremism",
+      "https://leb.fbi.gov/articles/featured-articles/larping-and-violent-extremism"
     ]
   ],
   [
@@ -171,22 +151,32 @@
   ],
   [
     [
-      "2023-09-24, 16:51:53",
-      "https://news.ycombinator.com/item?id=37634792"
-    ],
-    [
-      "Knuth's 20 Questions for ChatGPT",
-      "https://www-cs-faculty.stanford.edu/~knuth/chatGPT20.txt"
-    ]
-  ],
-  [
-    [
       "2023-09-24, 14:58:45",
       "https://news.ycombinator.com/item?id=37633743"
     ],
     [
       "TCP's congestion control saved the internet",
       "https://www.theregister.com/2023/09/24/tcp_congestion_control_internet/"
+    ]
+  ],
+  [
+    [
+      "2023-09-24, 14:17:48",
+      "https://news.ycombinator.com/item?id=37633358"
+    ],
+    [
+      "PiWrite – Kindle Paperwhite to Write",
+      "https://github.com/rberenguel/PiWrite"
+    ]
+  ],
+  [
+    [
+      "2023-09-24, 14:04:13",
+      "https://news.ycombinator.com/item?id=37633230"
+    ],
+    [
+      "Reverse-engineering the classic MK4116 16-kilobit DRAM chip (2020)",
+      "https://www.righto.com/2020/11/reverse-engineering-classic-mk4116-16.html"
     ]
   ],
   [
@@ -211,16 +201,6 @@
   ],
   [
     [
-      "2023-09-24, 08:52:38",
-      "https://news.ycombinator.com/item?id=37631286"
-    ],
-    [
-      "Geometric Algebra for Electrical Engineers",
-      "https://peeterjoot.com/writing/geometric-algebra-for-electrical-engineers/"
-    ]
-  ],
-  [
-    [
       "2023-09-24, 08:46:12",
       "https://news.ycombinator.com/item?id=37631252"
     ],
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2023-09-24, 07:40:53",
+      "https://news.ycombinator.com/item?id=37630951"
+    ],
+    [
+      "Natalie – a work-in-progress Ruby compiler, written in Ruby and C++",
+      "https://github.com/natalie-lang/natalie"
+    ]
+  ],
+  [
+    [
       "2023-09-24, 07:03:51",
       "https://news.ycombinator.com/item?id=37630804"
     ],
@@ -255,7 +245,7 @@
       "https://news.ycombinator.com/item?id=37629780"
     ],
     [
-      "Is This ‘Which’ Dead?",
+      "Is this ‘which’ dead?",
       "https://www.grammarphobia.com/blog/2023/09/which-3.html"
     ]
   ],
@@ -267,6 +257,16 @@
     [
       "Parchman Farm, a Mississippi prison with a musical history",
       "https://www.theguardian.com/music/2023/sep/20/its-a-charged-place-parchman-farm-the-mississippi-prison-with-a-remarkable-musical-history"
+    ]
+  ],
+  [
+    [
+      "2023-09-24, 02:29:13",
+      "https://news.ycombinator.com/item?id=37629618"
+    ],
+    [
+      "Fear and Desire: On Stanley Kubrick’s first film",
+      "https://metrograph.com/fearanddesire/"
     ]
   ],
   [
