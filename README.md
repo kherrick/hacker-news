@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-25, 15:17:41](https://news.ycombinator.com/item?id=37645237) - [Kotlin Multiplatform for Android and iOS Apps](https://www.rockandnull.com/kotlin-multiplatform-compose-multiplatform-cross-platform-development/)
+* [2023-09-25, 15:00:33](https://news.ycombinator.com/item?id=37644952) - [KSP2 is spamming the Windows Registry until the game stops working permanently](https://forum.kerbalspaceprogram.com/topic/219607-ksp2-is-spamming-the-windows-registry-over-weeksmonths-until-the-game-will-stop-working-permanently/)
 * [2023-09-25, 14:36:11](https://news.ycombinator.com/item?id=37644506) - [Review of MDMA and the Quest for Connection in a Fractured World](https://undark.org/2023/09/22/book-review-the-long-strange-history-of-mdma/)
 * [2023-09-25, 14:10:15](https://news.ycombinator.com/item?id=37644047) - [Minecraft Wiki has forked from Fandom](https://minecraft.wiki/w/Minecraft_Wiki:Moving_from_Fandom)
 * [2023-09-25, 13:38:30](https://news.ycombinator.com/item?id=37643608) - [What was behind Microsoft's layoffs of over 20k people in the last year?](https://twitter.com/TeamBlind/status/1706266044871086271)
@@ -11,7 +13,6 @@
 * [2023-09-25, 12:00:22](https://news.ycombinator.com/item?id=37642361) - [Optery (YC W22) – Full Stack Developer with Node.js Experience (Remote and Israel)](https://optery.breezy.hr/p/a95772ba7d2b-full-stack-developer-nodejs)
 * [2023-09-25, 11:57:28](https://news.ycombinator.com/item?id=37642335) - [We are beginning to roll out new voice and image capabilities in ChatGPT](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak)
 * [2023-09-25, 11:12:05](https://news.ycombinator.com/item?id=37641974) - [‘Who Benefits?’ Inside the EU’s Fight over Scanning for Child Sex Content](https://balkaninsight.com/2023/09/25/who-benefits-inside-the-eus-fight-over-scanning-for-child-sex-content/)
-* [2023-09-25, 10:53:40](https://news.ycombinator.com/item?id=37641812) - [EE is working with Qualcomm to add Wi-Fi 7 to consumer broadband hubs](https://www.theregister.com/2023/09/25/wifi_7_ee_qualcomm/)
 * [2023-09-25, 09:58:23](https://news.ycombinator.com/item?id=37641471) - [Baby boomers are becoming homeless at a rate not seen since the Great Depression](https://moneywise.com/news/economy/rate-of-homeless-baby-boomers-increasing)
 * [2023-09-25, 09:44:19](https://news.ycombinator.com/item?id=37641393) - [An analysis of the Google antitrust trial](https://www.thebignewsletter.com/p/how-to-hide-a-2-trillion-antitrust)
 * [2023-09-25, 08:11:30](https://news.ycombinator.com/item?id=37640816) - [Bitwarden: Free, open-source password manager](https://bitwarden.com/)
@@ -23,7 +24,6 @@
 * [2023-09-25, 01:53:28](https://news.ycombinator.com/item?id=37638894) - [Why do we need modules at all? (2011)](http://erlang.org/pipermail/erlang-questions/2011-May/058768.html)
 * [2023-09-24, 23:30:37](https://news.ycombinator.com/item?id=37638153) - [Travelin’ man and woman: Taking to the road and the boxcar](https://www.the-tls.co.uk/articles/the-american-vagrant-in-literature-bryan-yazell-vagabonds-tramps-and-hobos-owen-clayton-book-review-gordon-fraser/)
 * [2023-09-24, 20:30:01](https://news.ycombinator.com/item?id=37636841) - [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
-* [2023-09-24, 08:41:19](https://news.ycombinator.com/item?id=37631225) - [Two-Tower Embedding Model](https://www.hopsworks.ai/dictionary/two-tower-embedding-model)
 * [2023-09-24, 08:10:52](https://news.ycombinator.com/item?id=37631089) - [A hacker's guide to language models [video]](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 * [2023-09-23, 18:23:15](https://news.ycombinator.com/item?id=37625909) - [The process of making food models. Japanese 73-year-old craftsman [video]](https://www.youtube.com/watch?v=Chi8hk1Vqs8)
 * [2023-09-23, 12:03:52](https://news.ycombinator.com/item?id=37622512) - [Show HN: Online Oscilloscope with Waveform Generators](https://csurgay.com/syggen/)
