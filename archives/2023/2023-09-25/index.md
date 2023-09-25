@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-25](index.md)
 
+* [2023-09-25, 02:41:37](https://news.ycombinator.com/item?id=37639134) - [WGA and the studios reach tentative deal to end writers' strike](https://www.latimes.com/entertainment-arts/business/story/2023-09-24/writers-strike-over-wga-studios-reach-deal-actors)
 * [2023-09-25, 02:41:22](https://news.ycombinator.com/item?id=37639130) - [Millions of People See Staying Home and Cleaning as Their Idea of a Good Time](https://www.wsj.com/lifestyle/cleaning-hacks-tips-for-home-tiktok-influencers-3c689dd)
 * [2023-09-25, 02:00:06](https://news.ycombinator.com/item?id=37638928) - [Show HN: Crystaldoc.info – Crystal Shards API Documentation Hosting](https://crystaldoc.info/)
 * [2023-09-25, 01:53:28](https://news.ycombinator.com/item?id=37638894) - [(Erlang) Why do we need modules at all?](http://erlang.org/pipermail/erlang-questions/2011-May/058768.html)
