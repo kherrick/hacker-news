@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-25, 21:00:42](https://news.ycombinator.com/item?id=37650533) - [Svix (YC W21) Is Hiring a Technical Lead (US Remote)](https://www.svix.com/careers/)
+* [2023-09-25, 20:58:42](https://news.ycombinator.com/item?id=37650509) - [How Much Does It Take to Be the Top% in Each U.S. State?](https://www.visualcapitalist.com/mapped-the-top-1-percent-in-each-u-s-state/)
 * [2023-09-25, 20:32:36](https://news.ycombinator.com/item?id=37650198) - [Ultra-processed food linked to higher risk of depression, research finds](https://www.theguardian.com/food/2023/sep/20/ultra-processed-food-linked-higher-risk-depression-research-finds)
 * [2023-09-25, 20:20:55](https://news.ycombinator.com/item?id=37650040) - [PostScript’s sudden death in Sonoma](https://eclecticlight.co/2023/09/25/postscripts-sudden-death-in-sonoma/)
 * [2023-09-25, 20:20:22](https://news.ycombinator.com/item?id=37650032) - [Study links blue light from smartphones or tablets to early puberty](https://medicalxpress.com/news/2023-09-links-blue-smartphones-tablets-early.html)
-* [2023-09-25, 20:07:43](https://news.ycombinator.com/item?id=37649841) - [Pixel 8 leak promises 7 years of OS updates](https://arstechnica.com/gadgets/2023/09/pixel-8-leak-promises-7-years-of-os-updates-even-more-than-an-iphone/)
 * [2023-09-25, 20:05:45](https://news.ycombinator.com/item?id=37649811) - [Show HN: Bigcapital - A open-source alternative to QuickBooks](https://github.com/bigcapitalhq/bigcapital)
+* [2023-09-25, 19:50:03](https://news.ycombinator.com/item?id=37649594) - [John Romero on his book “Doom Guy” and developing games at a small scale](https://howtomarketagame.com/2023/09/25/john-romero-on-his-book-doom-guy-and-developing-games-at-a-small-scale/)
 * [2023-09-25, 19:42:53](https://news.ycombinator.com/item?id=37649477) - [Customization for the Forensic Police (2018)](http://www.sweethome3d.com/blog/2018/12/10/customization_for_the_forensic_police.html)
 * [2023-09-25, 19:40:54](https://news.ycombinator.com/item?id=37649448) - [DJI Mini 4 Pro](https://www.dji.com/mini-4-pro)
 * [2023-09-25, 19:31:23](https://news.ycombinator.com/item?id=37649307) - [Mixin suspends deposits and withdrawals after $200M cryptocurrency heist](https://www.theregister.com/2023/09/25/mixin_200m_heist/)
@@ -27,7 +28,6 @@
 * [2023-09-25, 07:39:03](https://news.ycombinator.com/item?id=37640643) - [Intel’s Ponte Vecchio: Chiplets Gone Crazy](https://chipsandcheese.com/2023/09/23/intels-ponte-vecchio-chiplets-gone-crazy/)
 * [2023-09-25, 07:07:44](https://news.ycombinator.com/item?id=37640466) - [Amazon will invest up to $4B in Anthropic](https://www.anthropic.com/index/anthropic-amazon)
 * [2023-09-25, 00:02:15](https://news.ycombinator.com/item?id=37638328) - [Open Air Schools of the 1900s](https://blog.britishnewspaperarchive.co.uk/2023/09/21/understanding-the-open-air-schools-of-the-1900s/)
-* [2023-09-24, 08:10:52](https://news.ycombinator.com/item?id=37631089) - [A hacker's guide to language models [video]](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 * [2023-09-24, 05:35:02](https://news.ycombinator.com/item?id=37630391) - [Permuting Bits with GF2P8AFFINEQB](http://bitmath.blogspot.com/2023/09/permuting-bits-with-gf2p8affineqb.html)
 * [2023-09-23, 12:03:52](https://news.ycombinator.com/item?id=37622512) - [Show HN: Online oscilloscope with waveform generators](https://csurgay.com/syggen/)
 
