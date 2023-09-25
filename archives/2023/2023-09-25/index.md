@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-25](index.md)
 
+* [2023-09-25, 18:20:22](https://news.ycombinator.com/item?id=37648288) - [California governor vetoes bill to require human operators in autonomous trucks](https://www.engadget.com/california-governor-vetoes-bill-for-obligatory-human-operators-in-autonomous-trucks-170051289.html)
+* [2023-09-25, 18:07:24](https://news.ycombinator.com/item?id=37648098) - [Show HN: Zero-dependency Java framework out of beta](https://github.com/byronka/minum)
 * [2023-09-25, 18:05:07](https://news.ycombinator.com/item?id=37648068) - [Unity's oldest community announces dissolution](https://bostonunitygroup.s3.us-east-1.amazonaws.com/index.html)
 * [2023-09-25, 17:38:46](https://news.ycombinator.com/item?id=37647677) - [Intel Axes Data Center GPU Max 1350, Preps New Max 1450 for 'Different Markets'](https://www.tomshardware.com/news/intel-axes-data-center-gpu-max-1350-preps-max-1450-for-different-markets)
 * [2023-09-25, 17:35:33](https://news.ycombinator.com/item?id=37647627) - [Kafka as an Antipattern](https://joshaustin.tech/blog/kafka-as-an-antipattern/)
@@ -53,6 +55,7 @@
 * [2023-09-25, 09:44:19](https://news.ycombinator.com/item?id=37641393) - [How to Hide a $2T Trial](https://www.thebignewsletter.com/p/how-to-hide-a-2-trillion-antitrust)
 * [2023-09-25, 08:36:07](https://news.ycombinator.com/item?id=37640940) - [Google killing Basic HTML version of Gmail In January 2024](https://www.theregister.com/2023/09/25/gmail_basic_html_discontinued/)
 * [2023-09-25, 08:11:30](https://news.ycombinator.com/item?id=37640816) - [Bitwarden: Free, open-source password manager](https://bitwarden.com/)
+* [2023-09-25, 07:51:48](https://news.ycombinator.com/item?id=37640716) - [People who can't give up paper](https://www.bbc.com/future/article/20230922-why-we-may-never-give-up-paper-entirely)
 * [2023-09-25, 07:39:03](https://news.ycombinator.com/item?id=37640643) - [Intel’s Ponte Vecchio: Chiplets Gone Crazy](https://chipsandcheese.com/2023/09/23/intels-ponte-vecchio-chiplets-gone-crazy/)
 * [2023-09-25, 07:07:44](https://news.ycombinator.com/item?id=37640466) - [Amazon will invest up to $4B in Anthropic](https://www.anthropic.com/index/anthropic-amazon)
 * [2023-09-25, 07:01:19](https://news.ycombinator.com/item?id=37640442) - [Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=37640442)
