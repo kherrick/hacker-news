@@ -13,6 +13,7 @@
 * [2023-09-25, 05:20:13](https://news.ycombinator.com/item?id=37639896) - [The State of Async Rust](https://corrode.dev/blog/async/)
 * [2023-09-25, 04:34:07](https://news.ycombinator.com/item?id=37639702) - [Flameshow: A Terminal Flamegraph Viewer](https://github.com/laixintao/flameshow)
 * [2023-09-25, 04:06:57](https://news.ycombinator.com/item?id=37639590) - [20 Years of Grml.org](https://blog.grml.org/archives/411-20-years-of-grml.org.html)
+* [2023-09-25, 03:42:30](https://news.ycombinator.com/item?id=37639472) - [Hide job listings from companies you are not interested on LinkedIn](https://ivanca.tumblr.com/post/729402892713410560/hide-job-listings-from-companies-you-dont-like-on)
 * [2023-09-25, 02:41:37](https://news.ycombinator.com/item?id=37639134) - [WGA and the studios reach tentative deal to end writers' strike](https://www.latimes.com/entertainment-arts/business/story/2023-09-24/writers-strike-over-wga-studios-reach-deal-actors)
 * [2023-09-25, 02:41:22](https://news.ycombinator.com/item?id=37639130) - [Millions of People See Staying Home and Cleaning as Their Idea of a Good Time](https://www.wsj.com/lifestyle/cleaning-hacks-tips-for-home-tiktok-influencers-3c689dd)
 * [2023-09-25, 02:17:39](https://news.ycombinator.com/item?id=37639010) - [Tell HN: There is a new highlights page on HN](https://news.ycombinator.com/item?id=37639010)
