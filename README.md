@@ -19,6 +19,7 @@
 * [2023-09-25, 11:57:28](https://news.ycombinator.com/item?id=37642335) - [We are beginning to roll out new voice and image capabilities in ChatGPT](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak)
 * [2023-09-25, 11:12:05](https://news.ycombinator.com/item?id=37641974) - [‘Who Benefits?’ Inside the EU’s Fight over Scanning for Child Sex Content](https://balkaninsight.com/2023/09/25/who-benefits-inside-the-eus-fight-over-scanning-for-child-sex-content/)
 * [2023-09-25, 09:58:23](https://news.ycombinator.com/item?id=37641471) - [Baby boomers are becoming homeless at a rate not seen since the Great Depression](https://moneywise.com/news/economy/rate-of-homeless-baby-boomers-increasing)
+* [2023-09-25, 09:49:15](https://news.ycombinator.com/item?id=37641416) - [Intel Meteor Lake Architecture](https://hothardware.com/reviews/intel-meteor-lake-architecture)
 * [2023-09-25, 09:44:19](https://news.ycombinator.com/item?id=37641393) - [An analysis of the Google antitrust trial](https://www.thebignewsletter.com/p/how-to-hide-a-2-trillion-antitrust)
 * [2023-09-25, 07:07:44](https://news.ycombinator.com/item?id=37640466) - [Amazon will invest up to $4B in Anthropic](https://www.anthropic.com/index/anthropic-amazon)
 * [2023-09-25, 06:08:31](https://news.ycombinator.com/item?id=37640137) - [Hello, World Part One: Eliza (2022)](https://www.theparisreview.org/blog/2022/11/14/hello-world-part-one-eliza/)
@@ -28,7 +29,6 @@
 * [2023-09-24, 05:35:02](https://news.ycombinator.com/item?id=37630391) - [Permuting Bits with GF2P8AFFINEQB](http://bitmath.blogspot.com/2023/09/permuting-bits-with-gf2p8affineqb.html)
 * [2023-09-23, 12:03:52](https://news.ycombinator.com/item?id=37622512) - [Show HN: Online Oscilloscope with Waveform Generators](https://csurgay.com/syggen/)
 * [2023-09-22, 21:35:57](https://news.ycombinator.com/item?id=37618100) - [How were gladiators portrayed in ancient Rome?](https://worldhistory.substack.com/p/watching-the-gladiators)
-* [2023-09-22, 03:46:14](https://news.ycombinator.com/item?id=37607597) - [The curious incident of the dog and the palm tree (2015)](https://ancientrecipes.wordpress.com/2015/05/18/678/)
 * [2023-09-22, 03:38:02](https://news.ycombinator.com/item?id=37607552) - [Hoxne Hoard](https://en.wikipedia.org/wiki/Hoxne_Hoard)
 
 ## [Archives](archives/index.md)

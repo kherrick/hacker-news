@@ -37,6 +37,7 @@
 * [2023-09-25, 10:29:35](https://news.ycombinator.com/item?id=37641628) - [Upsert in SQL](https://antonz.org/sql-upsert/)
 * [2023-09-25, 10:19:40](https://news.ycombinator.com/item?id=37641583) - [New York employers must include pay rates in job ads under new state law](https://english.elpais.com/economy-and-business/2023-09-17/new-york-employers-must-include-pay-rates-in-job-ads-under-new-state-law.html)
 * [2023-09-25, 09:58:23](https://news.ycombinator.com/item?id=37641471) - [Baby boomers are becoming homeless at a rate not seen since the Great Depression](https://moneywise.com/news/economy/rate-of-homeless-baby-boomers-increasing)
+* [2023-09-25, 09:49:15](https://news.ycombinator.com/item?id=37641416) - [Intel Meteor Lake Architecture](https://hothardware.com/reviews/intel-meteor-lake-architecture)
 * [2023-09-25, 09:44:19](https://news.ycombinator.com/item?id=37641393) - [How to Hide a $2T Trial](https://www.thebignewsletter.com/p/how-to-hide-a-2-trillion-antitrust)
 * [2023-09-25, 08:36:07](https://news.ycombinator.com/item?id=37640940) - [Google killing Basic HTML version of Gmail In January 2024](https://www.theregister.com/2023/09/25/gmail_basic_html_discontinued/)
 * [2023-09-25, 08:11:30](https://news.ycombinator.com/item?id=37640816) - [Bitwarden: Free, open-source password manager](https://bitwarden.com/)
