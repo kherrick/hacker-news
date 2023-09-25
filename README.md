@@ -19,7 +19,8 @@
 * [2023-09-24, 08:10:52](https://news.ycombinator.com/item?id=37631089) - [A hacker's guide to language models [video]](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 * [2023-09-24, 07:40:53](https://news.ycombinator.com/item?id=37630951) - [Natalie – a work-in-progress Ruby compiler, written in Ruby and C++](https://github.com/natalie-lang/natalie)
 * [2023-09-24, 07:03:51](https://news.ycombinator.com/item?id=37630804) - [Text editing on mobile: the invisible problem](https://jenson.org/text/)
-* [2023-09-24, 02:45:09](https://news.ycombinator.com/item?id=37629702) - [Parchman Farm, the Mississippi prison with a remarkable musical history](https://www.theguardian.com/music/2023/sep/20/its-a-charged-place-parchman-farm-the-mississippi-prison-with-a-remarkable-musical-history)
+* [2023-09-24, 02:59:36](https://news.ycombinator.com/item?id=37629780) - [Is This ‘Which’ Dead?](https://www.grammarphobia.com/blog/2023/09/which-3.html)
+* [2023-09-24, 02:45:09](https://news.ycombinator.com/item?id=37629702) - [Parchman Farm, a Mississippi prison with a musical history](https://www.theguardian.com/music/2023/sep/20/its-a-charged-place-parchman-farm-the-mississippi-prison-with-a-remarkable-musical-history)
 * [2023-09-24, 02:29:13](https://news.ycombinator.com/item?id=37629618) - [Fear and Desire: On Stanley Kubrick’s first film](https://metrograph.com/fearanddesire/)
 * [2023-09-24, 02:24:03](https://news.ycombinator.com/item?id=37629593) - [One robber baron’s gamble on railroads](https://www.smithsonianmag.com/history/robber-baron-gamble-railroads-brought-down-bank-plunged-us-into-first-great-depression-panic-1873-180982877/)
 * [2023-09-24, 02:06:49](https://news.ycombinator.com/item?id=37629514) - [Roman-Fleuve (2021)](https://literaryocean.com/discuss-the-term-roman-fleuve-definition-of-roman-fleuve-and-examples/)
@@ -29,7 +30,6 @@
 * [2023-09-22, 14:56:50](https://news.ycombinator.com/item?id=37612887) - [Hidden ocean the source of carbon dioxide on Jupiter moon](https://phys.org/news/2023-09-hidden-ocean-source-carbon-dioxide.html)
 * [2023-09-22, 14:46:34](https://news.ycombinator.com/item?id=37612750) - [Hank Asher turned Americans’ private information into a business](https://www.nytimes.com/2023/09/22/magazine/hank-asher-data.html)
 * [2023-09-22, 14:34:37](https://news.ycombinator.com/item?id=37612606) - [Knot theory [video]](https://www.youtube.com/watch?v=8DBhTXM_Br4)
-* [2023-09-22, 13:59:00](https://news.ycombinator.com/item?id=37612154) - [Hedy Lamarr (2018)](https://www.womenshistory.org/education-resources/biographies/hedy-lamarr)
 
 ## [Archives](archives/index.md)
 

@@ -75,6 +75,7 @@
 * [2023-09-24, 03:19:30](https://news.ycombinator.com/item?id=37629874) - [Mark Russinovich: “Working towards enabling Windows driver development in Rust”](https://github.com/microsoft/windows-drivers-rs)
 * [2023-09-24, 03:15:36](https://news.ycombinator.com/item?id=37629856) - [Modern Linux Tools vs. Unix Classics: Which Would I Choose?](https://meetryanflowers.com/modern-linux-tools-vs-unix-classics-which-would-i-choose/)
 * [2023-09-24, 03:10:25](https://news.ycombinator.com/item?id=37629831) - [We install planters so you don't have to look at homeless people](https://sfplanters.org)
+* [2023-09-24, 02:59:36](https://news.ycombinator.com/item?id=37629780) - [Is This ‘Which’ Dead?](https://www.grammarphobia.com/blog/2023/09/which-3.html)
 * [2023-09-24, 02:55:31](https://news.ycombinator.com/item?id=37629753) - [The AI revolution is rotten to the core [video]](https://www.youtube.com/watch?v=-MUEXGaxFDA)
 * [2023-09-24, 02:48:19](https://news.ycombinator.com/item?id=37629719) - [Ash Framework](https://ash-hq.org/)
 * [2023-09-24, 02:45:09](https://news.ycombinator.com/item?id=37629702) - [Parchman Farm, the Mississippi prison with a remarkable musical history](https://www.theguardian.com/music/2023/sep/20/its-a-charged-place-parchman-farm-the-mississippi-prison-with-a-remarkable-musical-history)
