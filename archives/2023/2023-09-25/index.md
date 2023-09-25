@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-25](index.md)
 
+* [2023-09-25, 19:42:53](https://news.ycombinator.com/item?id=37649477) - [French police uses Sweet Home 3D for crime scenes (2018)](http://www.sweethome3d.com/blog/2018/12/10/customization_for_the_forensic_police.html)
 * [2023-09-25, 19:31:23](https://news.ycombinator.com/item?id=37649307) - [Mixin suspends deposits and withdrawals after $200M cryptocurrency heist](https://www.theregister.com/2023/09/25/mixin_200m_heist/)
 * [2023-09-25, 19:18:24](https://news.ycombinator.com/item?id=37649114) - [US Government IT contractor could face death penalty over espionage charges](https://www.itpro.com/security/us-government-it-contractor-could-face-death-penalty-over-espionage-charges)
 * [2023-09-25, 18:58:44](https://news.ycombinator.com/item?id=37648833) - [Reclaim the Internet with Mozilla](https://blog.mozilla.org/en/mozilla/reclaim-the-internet/)
@@ -12,6 +13,7 @@
 * [2023-09-25, 18:20:22](https://news.ycombinator.com/item?id=37648288) - [California governor vetoes bill to require human operators in autonomous trucks](https://www.engadget.com/california-governor-vetoes-bill-for-obligatory-human-operators-in-autonomous-trucks-170051289.html)
 * [2023-09-25, 18:07:24](https://news.ycombinator.com/item?id=37648098) - [Show HN: Zero-dependency Java framework out of beta](https://github.com/byronka/minum)
 * [2023-09-25, 18:05:07](https://news.ycombinator.com/item?id=37648068) - [Unity's oldest community announces dissolution](https://bostonunitygroup.s3.us-east-1.amazonaws.com/index.html)
+* [2023-09-25, 18:05:07](https://news.ycombinator.com/item?id=37648068) - [Unity's oldest community announces dissolution](http://farewell.bostonunitygroup.com/)
 * [2023-09-25, 17:38:46](https://news.ycombinator.com/item?id=37647677) - [Intel Axes Data Center GPU Max 1350, Preps New Max 1450 for 'Different Markets'](https://www.tomshardware.com/news/intel-axes-data-center-gpu-max-1350-preps-max-1450-for-different-markets)
 * [2023-09-25, 17:35:33](https://news.ycombinator.com/item?id=37647627) - [Kafka as an Antipattern](https://joshaustin.tech/blog/kafka-as-an-antipattern/)
 * [2023-09-25, 17:13:06](https://news.ycombinator.com/item?id=37647279) - [What to expect from upvotes on Hacker News](https://antonz.org/hn-upvotes/)
@@ -86,3 +88,4 @@
 * [2023-09-25, 01:39:52](https://news.ycombinator.com/item?id=37638804) - [Research adds evidence to benefits of ginger supplements for treating autoimmune](https://medicalxpress.com/news/2023-09-evidence-benefits-ginger-supplements-autoimmune.html)
 * [2023-09-25, 01:21:12](https://news.ycombinator.com/item?id=37638682) - [Minecraft Wiki moves off of Fandom](https://wikis.world/@MinecraftWikiEN/111121512237906439)
 * [2023-09-25, 00:51:25](https://news.ycombinator.com/item?id=37638563) - [$700 a Month for a Bed-Sized “Pod” in Downtown SF? Techies Are Renting Them](https://sfstandard.com/2023/09/23/san-francisco-pod-house-mint-plaza/)
+* [2023-09-25, 00:02:15](https://news.ycombinator.com/item?id=37638328) - [Understanding the Open Air Schools of the 1900s](https://blog.britishnewspaperarchive.co.uk/2023/09/21/understanding-the-open-air-schools-of-the-1900s/)
