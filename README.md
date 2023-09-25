@@ -6,6 +6,7 @@
 * [2023-09-25, 01:53:28](https://news.ycombinator.com/item?id=37638894) - [Why do we need modules at all? (2011)](http://erlang.org/pipermail/erlang-questions/2011-May/058768.html)
 * [2023-09-25, 01:44:22](https://news.ycombinator.com/item?id=37638840) - [Type 2 diabetes rates in US youth rose 62% after Covid pandemic began](https://www.cidrap.umn.edu/covid-19/type-2-diabetes-rates-us-youth-rose-62-after-covid-pandemic-began-study-suggests)
 * [2023-09-24, 22:49:21](https://news.ycombinator.com/item?id=37637921) - [The Cutting Room Floor–unearthing unused and cut content from video games](https://tcrf.net/The_Cutting_Room_Floor)
+* [2023-09-24, 20:51:28](https://news.ycombinator.com/item?id=37637075) - [25% of the 13 minute journey from Whitechapel to Paddington is spent not moving](https://diamondgeezer.blogspot.com/2023/09/just-hanging-around.html)
 * [2023-09-24, 20:44:47](https://news.ycombinator.com/item?id=37637006) - [PID Control Challenges](http://janismac.github.io/ControlChallenges/)
 * [2023-09-24, 20:30:01](https://news.ycombinator.com/item?id=37636841) - [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
 * [2023-09-24, 20:23:34](https://news.ycombinator.com/item?id=37636791) - [Our humble attempt at “how much data do you need to fine-tune”](https://barryzhang.substack.com/p/our-humble-attempt-at-fine-tuning)
@@ -16,8 +17,6 @@
 * [2023-09-24, 18:50:16](https://news.ycombinator.com/item?id=37636013) - [μMon: Stupid simple monitoring (2022)](https://tomscii.sig7.se/2022/07/uMon-stupid-simple-monitoring)
 * [2023-09-24, 17:59:39](https://news.ycombinator.com/item?id=37635514) - [Brightline Orlando's first train: 125 mph from MCO to MIA [video]](https://www.youtube.com/watch?v=Yu18ZqWgQM4)
 * [2023-09-24, 14:58:45](https://news.ycombinator.com/item?id=37633743) - [TCP's congestion control saved the internet](https://www.theregister.com/2023/09/24/tcp_congestion_control_internet/)
-* [2023-09-24, 14:17:48](https://news.ycombinator.com/item?id=37633358) - [PiWrite – Kindle Paperwhite to Write](https://github.com/rberenguel/PiWrite)
-* [2023-09-24, 14:04:13](https://news.ycombinator.com/item?id=37633230) - [Reverse-engineering the classic MK4116 16-kilobit DRAM chip (2020)](https://www.righto.com/2020/11/reverse-engineering-classic-mk4116-16.html)
 * [2023-09-24, 12:51:00](https://news.ycombinator.com/item?id=37632670) - [Hookworm gave the South a bad name (2016)](https://www.pbs.org/wgbh/nova/article/how-a-worm-gave-the-south-a-bad-name/)
 * [2023-09-24, 11:21:20](https://news.ycombinator.com/item?id=37632096) - [Netflix prepares to send its final red envelope](https://www.nytimes.com/2023/09/23/business/media/netflix-dvds.html)
 * [2023-09-24, 08:46:12](https://news.ycombinator.com/item?id=37631252) - [‘Mind-boggling’ sea creature identified as digenean trematode](https://www.science.org/content/article/mind-boggling-sea-creature-spotted-japan-has-finally-been-identified)
@@ -30,6 +29,7 @@
 * [2023-09-23, 18:23:15](https://news.ycombinator.com/item?id=37625909) - [The process of making food models. Japanese 73-year-old craftsman [video]](https://www.youtube.com/watch?v=Chi8hk1Vqs8)
 * [2023-09-22, 22:12:13](https://news.ycombinator.com/item?id=37618440) - [Parsing integers quickly with AVX-512](https://lemire.me/blog/2023/09/22/parsing-integers-quickly-with-avx-512/)
 * [2023-09-22, 14:56:50](https://news.ycombinator.com/item?id=37612887) - [Hidden ocean the source of carbon dioxide on Jupiter moon](https://phys.org/news/2023-09-hidden-ocean-source-carbon-dioxide.html)
+* [2023-09-22, 14:34:37](https://news.ycombinator.com/item?id=37612606) - [Knot theory [video]](https://www.youtube.com/watch?v=8DBhTXM_Br4)
 
 ## [Archives](archives/index.md)
 

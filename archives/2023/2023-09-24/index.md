@@ -9,6 +9,7 @@
 * [2023-09-24, 21:54:51](https://news.ycombinator.com/item?id=37637561) - [Hinder: A Dating App for Emotionally Unavailable Men](https://www.newyorker.com/humor/daily-shouts/hinder-a-dating-app-for-emotionally-unavailable-men)
 * [2023-09-24, 21:25:40](https://news.ycombinator.com/item?id=37637354) - [Corrosion: Rust Never Sleeps](https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/digression-3-corrosion-rust-never-sleeps/1?ref=thebrowser.com)
 * [2023-09-24, 21:02:19](https://news.ycombinator.com/item?id=37637165) - [LARPing and Violent Extremism](https://leb.fbi.gov/articles/featured-articles/larping-and-violent-extremism)
+* [2023-09-24, 20:51:28](https://news.ycombinator.com/item?id=37637075) - [25% of the 13 minute journey from Whitechapel to Paddington is spent not moving](https://diamondgeezer.blogspot.com/2023/09/just-hanging-around.html)
 * [2023-09-24, 20:44:47](https://news.ycombinator.com/item?id=37637006) - [PID Control Challenges](http://janismac.github.io/ControlChallenges/)
 * [2023-09-24, 20:30:01](https://news.ycombinator.com/item?id=37636841) - [Choose Postgres Queue Technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
 * [2023-09-24, 20:23:34](https://news.ycombinator.com/item?id=37636791) - [Our Humble Attempt at “How Much Data Is Needed to Fine-Tune](https://barryzhang.substack.com/p/our-humble-attempt-at-fine-tuning)
