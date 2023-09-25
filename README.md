@@ -16,7 +16,7 @@
 * [2023-09-24, 19:01:10](https://news.ycombinator.com/item?id=37636124) - [Two photographers captured the same millisecond in time (2018)](https://www.dpreview.com/articles/7338941576/how-two-photographers-captured-the-same-millisecond-in-time)
 * [2023-09-24, 18:50:16](https://news.ycombinator.com/item?id=37636013) - [μMon: Stupid simple monitoring (2022)](https://tomscii.sig7.se/2022/07/uMon-stupid-simple-monitoring)
 * [2023-09-24, 17:59:39](https://news.ycombinator.com/item?id=37635514) - [Brightline Orlando's first train: 125 mph from MCO to MIA [video]](https://www.youtube.com/watch?v=Yu18ZqWgQM4)
-* [2023-09-24, 14:58:45](https://news.ycombinator.com/item?id=37633743) - [TCP's congestion control saved the internet](https://www.theregister.com/2023/09/24/tcp_congestion_control_internet/)
+* [2023-09-24, 15:32:45](https://news.ycombinator.com/item?id=37634018) - [CoRF: Colorizing Radiance Fields Using Knowledge Distillation](https://arxiv.org/abs/2309.07668)
 * [2023-09-24, 12:51:00](https://news.ycombinator.com/item?id=37632670) - [Hookworm gave the South a bad name (2016)](https://www.pbs.org/wgbh/nova/article/how-a-worm-gave-the-south-a-bad-name/)
 * [2023-09-24, 11:21:20](https://news.ycombinator.com/item?id=37632096) - [Netflix prepares to send its final red envelope](https://www.nytimes.com/2023/09/23/business/media/netflix-dvds.html)
 * [2023-09-24, 08:46:12](https://news.ycombinator.com/item?id=37631252) - [‘Mind-boggling’ sea creature identified as digenean trematode](https://www.science.org/content/article/mind-boggling-sea-creature-spotted-japan-has-finally-been-identified)
