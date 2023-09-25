@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-25, 13:38:30](https://news.ycombinator.com/item?id=37643608) - [What was behind Microsoft's layoffs of over 20k people in the last year?](https://twitter.com/TeamBlind/status/1706266044871086271)
+* [2023-09-25, 13:28:50](https://news.ycombinator.com/item?id=37643456) - [Getty made an AI generator that only trained on its licensed image](https://www.theverge.com/2023/9/25/23884679/getty-ai-generative-image-platform-launch)
 * [2023-09-25, 13:26:15](https://news.ycombinator.com/item?id=37643414) - [Car industry pleads for delay to post-Brexit tariffs on EVs](https://www.theregister.com/2023/09/25/car_industry_brexit_tariff/)
 * [2023-09-25, 12:51:24](https://news.ycombinator.com/item?id=37642921) - [Show HN: KitForStartups – The Open Source SvelteKit SaaS Boilerplate](https://github.com/okupter/kitforstartups)
 * [2023-09-25, 12:31:07](https://news.ycombinator.com/item?id=37642671) - [Show HN: E-Ink Day Schedule](https://github.com/davidhampgonsalves/life-dashboard)
@@ -18,7 +19,6 @@
 * [2023-09-25, 05:10:27](https://news.ycombinator.com/item?id=37639849) - [Ken Follett Says Readers Still Like Epic Books](https://www.wsj.com/arts-culture/ken-follett-says-readers-still-like-epic-books-39695bc6)
 * [2023-09-25, 04:34:07](https://news.ycombinator.com/item?id=37639702) - [Flameshow: A terminal flamegraph viewer](https://github.com/laixintao/flameshow)
 * [2023-09-25, 04:06:57](https://news.ycombinator.com/item?id=37639590) - [20 Years of Grml.org](https://blog.grml.org/archives/411-20-years-of-grml.org.html)
-* [2023-09-25, 02:05:34](https://news.ycombinator.com/item?id=37638956) - [Japan pharma startup to begin human trials of tooth regrowth drug in 2024](https://english.kyodonews.net/news/2023/09/d56fb464a52b-japan-pharma-startup-developing-world-first-drug-to-grow-new-teeth.html)
 * [2023-09-25, 01:53:28](https://news.ycombinator.com/item?id=37638894) - [Why do we need modules at all? (2011)](http://erlang.org/pipermail/erlang-questions/2011-May/058768.html)
 * [2023-09-24, 20:30:01](https://news.ycombinator.com/item?id=37636841) - [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
 * [2023-09-24, 19:51:05](https://news.ycombinator.com/item?id=37636551) - [There's a new map style on OpenStreetMap.org](https://en.osm.town/@openstreetmap/111120663721969898)

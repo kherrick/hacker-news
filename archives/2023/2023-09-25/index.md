@@ -6,6 +6,7 @@
 
 * [2023-09-25, 13:38:30](https://news.ycombinator.com/item?id=37643608) - [What was behind Microsoft's layoffs of over 20k people in the last year?](https://twitter.com/TeamBlind/status/1706266044871086271)
 * [2023-09-25, 13:38:22](https://news.ycombinator.com/item?id=37643606) - [Metro Police: MoD offers military support after armed officers turn in weapons](https://www.bbc.com/news/uk-66906201)
+* [2023-09-25, 13:28:50](https://news.ycombinator.com/item?id=37643456) - [Getty made an AI generator that only trained on its licensed image](https://www.theverge.com/2023/9/25/23884679/getty-ai-generative-image-platform-launch)
 * [2023-09-25, 13:26:15](https://news.ycombinator.com/item?id=37643414) - [Car industry pleads for delay to post-Brexit tariffs on EVs](https://www.theregister.com/2023/09/25/car_industry_brexit_tariff/)
 * [2023-09-25, 12:51:24](https://news.ycombinator.com/item?id=37642921) - [Show HN: KitForStartups – The Open Source SvelteKit SaaS Boilerplate](https://github.com/okupter/kitforstartups)
 * [2023-09-25, 12:31:07](https://news.ycombinator.com/item?id=37642671) - [Show HN: E-Ink Day Schedule](https://github.com/davidhampgonsalves/life-dashboard)
