@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-25, 21:47:42](https://news.ycombinator.com/item?id=37651171) - [SR-71 Blackbird Astro-Nav System (a.k.a. R2-D2) worked by tracking the stars](https://theaviationgeekclub.com/the-sr-71-blackbird-astro-nav-system-aka-r2-d2-worked-by-tracking-the-stars-and-was-so-powerful-that-it-could-see-the-stars-even-in-daylight/)
+* [2023-09-25, 21:37:26](https://news.ycombinator.com/item?id=37651041) - [EU’s Euro 7 will also consider tyre and brake particle emissions](https://www.consilium.europa.eu/en/press/press-releases/2023/09/25/euro-7-council-adopts-position-on-emissions-from-cars-vans-buses-and-trucks/)
 * [2023-09-25, 21:00:52](https://news.ycombinator.com/item?id=37650535) - [Intertwingled: Collection of videos to showcase the magic alchemy of computation](https://github.com/ahdinosaur/intertwingled)
 * [2023-09-25, 21:00:42](https://news.ycombinator.com/item?id=37650533) - [Svix (YC W21) Is Hiring a Technical Lead (US Remote)](https://www.svix.com/careers/)
 * [2023-09-25, 20:32:36](https://news.ycombinator.com/item?id=37650198) - [Ultra-processed food linked to higher risk of depression, research finds](https://www.theguardian.com/food/2023/sep/20/ultra-processed-food-linked-higher-risk-depression-research-finds)
@@ -21,7 +22,6 @@
 * [2023-09-25, 12:31:07](https://news.ycombinator.com/item?id=37642671) - [Show HN: E-Ink Day Schedule](https://github.com/davidhampgonsalves/life-dashboard)
 * [2023-09-25, 12:26:24](https://news.ycombinator.com/item?id=37642610) - [Rhythm 0](https://en.wikipedia.org/wiki/Rhythm_0)
 * [2023-09-25, 11:57:28](https://news.ycombinator.com/item?id=37642335) - [We are beginning to roll out new voice and image capabilities in ChatGPT](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak)
-* [2023-09-25, 11:18:19](https://news.ycombinator.com/item?id=37642032) - [Running_page](https://github.com/yihong0618/running_page)
 * [2023-09-25, 10:29:35](https://news.ycombinator.com/item?id=37641628) - [Upsert in SQL](https://antonz.org/sql-upsert/)
 * [2023-09-25, 09:44:19](https://news.ycombinator.com/item?id=37641393) - [An analysis of the Google antitrust trial](https://www.thebignewsletter.com/p/how-to-hide-a-2-trillion-antitrust)
 * [2023-09-25, 07:39:03](https://news.ycombinator.com/item?id=37640643) - [Intel’s Ponte Vecchio: Chiplets Gone Crazy](https://chipsandcheese.com/2023/09/23/intels-ponte-vecchio-chiplets-gone-crazy/)

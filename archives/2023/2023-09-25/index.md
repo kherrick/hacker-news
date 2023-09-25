@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-25](index.md)
 
 * [2023-09-25, 21:47:42](https://news.ycombinator.com/item?id=37651171) - [SR-71 Blackbird Astro-Nav System (a.k.a. R2-D2) worked by tracking the stars](https://theaviationgeekclub.com/the-sr-71-blackbird-astro-nav-system-aka-r2-d2-worked-by-tracking-the-stars-and-was-so-powerful-that-it-could-see-the-stars-even-in-daylight/)
+* [2023-09-25, 21:37:26](https://news.ycombinator.com/item?id=37651041) - [EU’s Euro 7 will also consider tyre and brake particle emissions](https://www.consilium.europa.eu/en/press/press-releases/2023/09/25/euro-7-council-adopts-position-on-emissions-from-cars-vans-buses-and-trucks/)
 * [2023-09-25, 21:02:17](https://news.ycombinator.com/item?id=37650560) - [I’m a climate scientist and I think society will collapse by 2050. I’m preparing](https://inews.co.uk/inews-lifestyle/scientist-think-society-collapse-by-2050-how-preparing-2637469)
 * [2023-09-25, 21:00:52](https://news.ycombinator.com/item?id=37650535) - [Intertwingled: Collection of videos to showcase the magic alchemy of computation](https://github.com/ahdinosaur/intertwingled)
 * [2023-09-25, 21:00:42](https://news.ycombinator.com/item?id=37650533) - [Svix (YC W21) Is Hiring a Technical Lead (US Remote)](https://www.svix.com/careers/)
