@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-25](index.md)
 
+* [2023-09-25, 21:47:42](https://news.ycombinator.com/item?id=37651171) - [SR-71 Blackbird Astro-Nav System (a.k.a. R2-D2) worked by tracking the stars](https://theaviationgeekclub.com/the-sr-71-blackbird-astro-nav-system-aka-r2-d2-worked-by-tracking-the-stars-and-was-so-powerful-that-it-could-see-the-stars-even-in-daylight/)
 * [2023-09-25, 21:02:17](https://news.ycombinator.com/item?id=37650560) - [I’m a climate scientist and I think society will collapse by 2050. I’m preparing](https://inews.co.uk/inews-lifestyle/scientist-think-society-collapse-by-2050-how-preparing-2637469)
+* [2023-09-25, 21:00:52](https://news.ycombinator.com/item?id=37650535) - [Intertwingled: Collection of videos to showcase the magic alchemy of computation](https://github.com/ahdinosaur/intertwingled)
 * [2023-09-25, 21:00:42](https://news.ycombinator.com/item?id=37650533) - [Svix (YC W21) Is Hiring a Technical Lead (US Remote)](https://www.svix.com/careers/)
 * [2023-09-25, 20:58:42](https://news.ycombinator.com/item?id=37650509) - [How Much Does It Take to Be the Top% in Each U.S. State?](https://www.visualcapitalist.com/mapped-the-top-1-percent-in-each-u-s-state/)
 * [2023-09-25, 20:32:36](https://news.ycombinator.com/item?id=37650198) - [Ultra-processed food linked to higher risk of depression, research finds](https://www.theguardian.com/food/2023/sep/20/ultra-processed-food-linked-higher-risk-depression-research-finds)
@@ -93,6 +95,7 @@
 * [2023-09-25, 04:34:07](https://news.ycombinator.com/item?id=37639702) - [Flameshow: A Terminal Flamegraph Viewer](https://github.com/laixintao/flameshow)
 * [2023-09-25, 04:06:57](https://news.ycombinator.com/item?id=37639590) - [20 Years of Grml.org](https://blog.grml.org/archives/411-20-years-of-grml.org.html)
 * [2023-09-25, 03:42:30](https://news.ycombinator.com/item?id=37639472) - [Hide job listings from companies you are not interested on LinkedIn](https://ivanca.tumblr.com/post/729402892713410560/hide-job-listings-from-companies-you-dont-like-on)
+* [2023-09-25, 03:04:38](https://news.ycombinator.com/item?id=37639267) - [When I Stopped Trying to Self-Optimize, I Got Better](https://www.nytimes.com/2023/09/17/opinion/sports-zen-mental-subtraction.html)
 * [2023-09-25, 02:41:37](https://news.ycombinator.com/item?id=37639134) - [WGA and the studios reach tentative deal to end writers' strike](https://www.latimes.com/entertainment-arts/business/story/2023-09-24/writers-strike-over-wga-studios-reach-deal-actors)
 * [2023-09-25, 02:41:22](https://news.ycombinator.com/item?id=37639130) - [Millions of People See Staying Home and Cleaning as Their Idea of a Good Time](https://www.wsj.com/lifestyle/cleaning-hacks-tips-for-home-tiktok-influencers-3c689dd)
 * [2023-09-25, 02:17:39](https://news.ycombinator.com/item?id=37639010) - [Tell HN: There is a new highlights page on HN](https://news.ycombinator.com/item?id=37639010)
