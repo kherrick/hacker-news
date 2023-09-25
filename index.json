@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-09-25, 01:53:28",
+      "https://news.ycombinator.com/item?id=37638894"
+    ],
+    [
+      "(Erlang) Why do we need modules at all?",
+      "http://erlang.org/pipermail/erlang-questions/2011-May/058768.html"
+    ]
+  ],
+  [
+    [
       "2023-09-25, 01:44:22",
       "https://news.ycombinator.com/item?id=37638840"
     ],
@@ -37,26 +47,6 @@
     [
       "The Cutting Room Floor–unearthing unused and cut content from video games",
       "https://tcrf.net/The_Cutting_Room_Floor"
-    ]
-  ],
-  [
-    [
-      "2023-09-24, 21:25:40",
-      "https://news.ycombinator.com/item?id=37637354"
-    ],
-    [
-      "Corrosion: Rust Never Sleeps",
-      "https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/digression-3-corrosion-rust-never-sleeps/1?ref=thebrowser.com"
-    ]
-  ],
-  [
-    [
-      "2023-09-24, 21:02:19",
-      "https://news.ycombinator.com/item?id=37637165"
-    ],
-    [
-      "LARPing and Violent Extremism",
-      "https://leb.fbi.gov/articles/featured-articles/larping-and-violent-extremism"
     ]
   ],
   [
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=37636701"
     ],
     [
-      "Show HN: Get your entire ChatGPT history, in Markdown files",
+      "Show HN: Get your entire ChatGPT history in Markdown files",
       "https://github.com/mohamed-chs/chatgpt-history-export-to-md"
     ]
   ],
@@ -141,6 +131,16 @@
   ],
   [
     [
+      "2023-09-24, 17:59:39",
+      "https://news.ycombinator.com/item?id=37635514"
+    ],
+    [
+      "Brightline Orlando's first train: 125 mph from MCO to MIA [video]",
+      "https://www.youtube.com/watch?v=Yu18ZqWgQM4"
+    ]
+  ],
+  [
+    [
       "2023-09-24, 16:51:53",
       "https://news.ycombinator.com/item?id=37634792"
     ],
@@ -171,12 +171,22 @@
   ],
   [
     [
-      "2023-09-24, 14:04:13",
-      "https://news.ycombinator.com/item?id=37633230"
+      "2023-09-24, 12:51:00",
+      "https://news.ycombinator.com/item?id=37632670"
     ],
     [
-      "Reverse-engineering the classic MK4116 16-kilobit DRAM chip (2020)",
-      "https://www.righto.com/2020/11/reverse-engineering-classic-mk4116-16.html"
+      "Hookworm gave the South a bad name (2016)",
+      "https://www.pbs.org/wgbh/nova/article/how-a-worm-gave-the-south-a-bad-name/"
+    ]
+  ],
+  [
+    [
+      "2023-09-24, 11:21:20",
+      "https://news.ycombinator.com/item?id=37632096"
+    ],
+    [
+      "Netflix prepares to send its final red envelope",
+      "https://www.nytimes.com/2023/09/23/business/media/netflix-dvds.html"
     ]
   ],
   [
@@ -211,22 +221,22 @@
   ],
   [
     [
-      "2023-09-24, 07:40:53",
-      "https://news.ycombinator.com/item?id=37630951"
-    ],
-    [
-      "Natalie – a work-in-progress Ruby compiler, written in Ruby and C++",
-      "https://github.com/natalie-lang/natalie"
-    ]
-  ],
-  [
-    [
       "2023-09-24, 07:03:51",
       "https://news.ycombinator.com/item?id=37630804"
     ],
     [
       "Text editing on mobile: the invisible problem",
       "https://jenson.org/text/"
+    ]
+  ],
+  [
+    [
+      "2023-09-24, 06:07:38",
+      "https://news.ycombinator.com/item?id=37630543"
+    ],
+    [
+      "Time Doesn’t Belong to Physics",
+      "https://iai.tv/articles/time-doesnt-belong-to-physics-jimena-canales-auid-2607"
     ]
   ],
   [
@@ -261,6 +271,16 @@
   ],
   [
     [
+      "2023-09-24, 02:24:03",
+      "https://news.ycombinator.com/item?id=37629593"
+    ],
+    [
+      "One robber baron’s gamble on railroads",
+      "https://www.smithsonianmag.com/history/robber-baron-gamble-railroads-brought-down-bank-plunged-us-into-first-great-depression-panic-1873-180982877/"
+    ]
+  ],
+  [
+    [
       "2023-09-22, 22:12:13",
       "https://news.ycombinator.com/item?id=37618440"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-09-22, 16:04:48",
-      "https://news.ycombinator.com/item?id=37613769"
-    ],
-    [
-      "How Australians made the early internet their own",
-      "https://theconversation.com/30-years-of-the-web-down-under-how-australians-made-the-early-internet-their-own-212542"
-    ]
-  ],
-  [
-    [
       "2023-09-22, 14:56:50",
       "https://news.ycombinator.com/item?id=37612887"
     ],
     [
       "Hidden ocean the source of carbon dioxide on Jupiter moon",
       "https://phys.org/news/2023-09-hidden-ocean-source-carbon-dioxide.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-22, 14:34:37",
-      "https://news.ycombinator.com/item?id=37612606"
-    ],
-    [
-      "Knot theory [video]",
-      "https://www.youtube.com/watch?v=8DBhTXM_Br4"
     ]
   ]
 ]
