@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-09-25](index.md)
 
 * [2023-09-25, 15:17:41](https://news.ycombinator.com/item?id=37645237) - [Kotlin Multiplatform for Android and iOS Apps](https://www.rockandnull.com/kotlin-multiplatform-compose-multiplatform-cross-platform-development/)
+* [2023-09-25, 15:12:26](https://news.ycombinator.com/item?id=37645160) - [It's time to let go, Apache Software Foundation](https://rocket9labs.com/post/its-time-to-let-go-apache-software-foundation/)
 * [2023-09-25, 15:00:33](https://news.ycombinator.com/item?id=37644952) - [KSP2 is spamming the Windows Registry until the game stops working permanently](https://forum.kerbalspaceprogram.com/topic/219607-ksp2-is-spamming-the-windows-registry-over-weeksmonths-until-the-game-will-stop-working-permanently/)
+* [2023-09-25, 14:53:39](https://news.ycombinator.com/item?id=37644831) - [Meta and Salesforce are looking to re-hire some workers they just laid off](https://www.businessinsider.com/salesforce-meta-big-tech-companies-rehire-workers-employees-laid-off-2023-9)
 * [2023-09-25, 14:36:11](https://news.ycombinator.com/item?id=37644506) - [Review of MDMA and the Quest for Connection in a Fractured World](https://undark.org/2023/09/22/book-review-the-long-strange-history-of-mdma/)
 * [2023-09-25, 14:10:15](https://news.ycombinator.com/item?id=37644047) - [Minecraft Wiki has forked from Fandom](https://minecraft.wiki/w/Minecraft_Wiki:Moving_from_Fandom)
 * [2023-09-25, 13:38:30](https://news.ycombinator.com/item?id=37643608) - [What was behind Microsoft's layoffs of over 20k people in the last year?](https://twitter.com/TeamBlind/status/1706266044871086271)
