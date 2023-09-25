@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-25](index.md)
 
+* [2023-09-25, 21:00:42](https://news.ycombinator.com/item?id=37650533) - [Svix (YC W21) Is Hiring a Technical Lead (US Remote)](https://www.svix.com/careers/)
+* [2023-09-25, 20:32:36](https://news.ycombinator.com/item?id=37650198) - [Ultra-processed food linked to higher risk of depression, research finds](https://www.theguardian.com/food/2023/sep/20/ultra-processed-food-linked-higher-risk-depression-research-finds)
 * [2023-09-25, 20:20:55](https://news.ycombinator.com/item?id=37650040) - [PostScript’s sudden death in Sonoma](https://eclecticlight.co/2023/09/25/postscripts-sudden-death-in-sonoma/)
 * [2023-09-25, 20:19:32](https://news.ycombinator.com/item?id=37650021) - [Leaks Can Make Natural Gas as Bad for the Climate as Coal, a Study Says](https://www.nytimes.com/2023/07/13/climate/natural-gas-leaks-coal-climate-change.html)
 * [2023-09-25, 20:07:43](https://news.ycombinator.com/item?id=37649841) - [Pixel 8 leak promises 7 years of OS updates](https://arstechnica.com/gadgets/2023/09/pixel-8-leak-promises-7-years-of-os-updates-even-more-than-an-iphone/)
@@ -18,6 +20,7 @@
 * [2023-09-25, 18:56:58](https://news.ycombinator.com/item?id=37648808) - [Linux from Scratch Version 12.0](https://www.linuxfromscratch.org/lfs/view/stable/)
 * [2023-09-25, 18:53:41](https://news.ycombinator.com/item?id=37648756) - [Zoom and Grindr are ending remote work](https://www.bbc.com/worklife/article/20230920-zoom-and-grindr-return-to-office-techs-surprising-remote-work-u-turn)
 * [2023-09-25, 18:38:44](https://news.ycombinator.com/item?id=37648560) - [JEP Draft: String Templates (Final)](https://openjdk.org/jeps/8314219)
+* [2023-09-25, 18:38:08](https://news.ycombinator.com/item?id=37648548) - [Another Text to Speech API](https://www.fluxon.ai/)
 * [2023-09-25, 18:28:13](https://news.ycombinator.com/item?id=37648415) - [Show HN: A Highly Configurable Linux-Based Desktop Notifier for RSS/Atom Feeds](https://github.com/EscherMoore/DitchTheBell)
 * [2023-09-25, 18:20:22](https://news.ycombinator.com/item?id=37648288) - [California governor vetoes bill to require human operators in autonomous trucks](https://www.engadget.com/california-governor-vetoes-bill-for-obligatory-human-operators-in-autonomous-trucks-170051289.html)
 * [2023-09-25, 18:07:24](https://news.ycombinator.com/item?id=37648098) - [Show HN: Zero-dependency Java framework out of beta](https://github.com/byronka/minum)
