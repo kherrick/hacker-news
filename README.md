@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-25, 10:41:31](https://news.ycombinator.com/item?id=37641706) - [OnlyFans](https://onlyfans.web.cern.ch/)
 * [2023-09-25, 10:19:40](https://news.ycombinator.com/item?id=37641583) - [New York employers must include pay rates in job ads under new state law](https://english.elpais.com/economy-and-business/2023-09-17/new-york-employers-must-include-pay-rates-in-job-ads-under-new-state-law.html)
 * [2023-09-25, 09:58:23](https://news.ycombinator.com/item?id=37641471) - [Baby boomers are becoming homeless at a rate not seen since the Great Depression](https://moneywise.com/news/economy/rate-of-homeless-baby-boomers-increasing)
 * [2023-09-25, 09:44:19](https://news.ycombinator.com/item?id=37641393) - [How to Hide a $2T Trial](https://www.thebignewsletter.com/p/how-to-hide-a-2-trillion-antitrust)
@@ -7,7 +8,6 @@
 * [2023-09-25, 07:07:44](https://news.ycombinator.com/item?id=37640466) - [Amazon will invest up to $4B in Anthropic](https://www.anthropic.com/index/anthropic-amazon)
 * [2023-09-25, 07:01:19](https://news.ycombinator.com/item?id=37640442) - [Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=37640442)
 * [2023-09-25, 06:48:25](https://news.ycombinator.com/item?id=37640363) - [LaLiga “Talks to Google” About Deleting Piracy Apps from a Million Phones](https://torrentfreak.com/laliga-talks-to-google-about-piracy-apps-from-a-million-phones-230924/)
-* [2023-09-25, 05:56:08](https://news.ycombinator.com/item?id=37640076) - [EU proposes 10-year renewal for glyphosate herbicide](https://phys.org/news/2023-09-eu-year-renewal-glyphosate-herbicide.html)
 * [2023-09-25, 05:20:13](https://news.ycombinator.com/item?id=37639896) - [The State of Async Rust](https://corrode.dev/blog/async/)
 * [2023-09-25, 04:34:07](https://news.ycombinator.com/item?id=37639702) - [Flameshow: A terminal flamegraph viewer](https://github.com/laixintao/flameshow)
 * [2023-09-25, 04:06:57](https://news.ycombinator.com/item?id=37639590) - [20 Years of Grml.org](https://blog.grml.org/archives/411-20-years-of-grml.org.html)

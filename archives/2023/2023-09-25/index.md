@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-25](index.md)
 
+* [2023-09-25, 10:41:31](https://news.ycombinator.com/item?id=37641706) - [OnlyFans](https://onlyfans.web.cern.ch/)
 * [2023-09-25, 10:19:40](https://news.ycombinator.com/item?id=37641583) - [New York employers must include pay rates in job ads under new state law](https://english.elpais.com/economy-and-business/2023-09-17/new-york-employers-must-include-pay-rates-in-job-ads-under-new-state-law.html)
 * [2023-09-25, 09:58:23](https://news.ycombinator.com/item?id=37641471) - [Baby boomers are becoming homeless at a rate not seen since the Great Depression](https://moneywise.com/news/economy/rate-of-homeless-baby-boomers-increasing)
 * [2023-09-25, 09:44:19](https://news.ycombinator.com/item?id=37641393) - [How to Hide a $2T Trial](https://www.thebignewsletter.com/p/how-to-hide-a-2-trillion-antitrust)
