@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-25](index.md)
 
+* [2023-09-25, 19:31:23](https://news.ycombinator.com/item?id=37649307) - [Mixin suspends deposits and withdrawals after $200M cryptocurrency heist](https://www.theregister.com/2023/09/25/mixin_200m_heist/)
 * [2023-09-25, 19:18:24](https://news.ycombinator.com/item?id=37649114) - [US Government IT contractor could face death penalty over espionage charges](https://www.itpro.com/security/us-government-it-contractor-could-face-death-penalty-over-espionage-charges)
 * [2023-09-25, 18:58:44](https://news.ycombinator.com/item?id=37648833) - [Reclaim the Internet with Mozilla](https://blog.mozilla.org/en/mozilla/reclaim-the-internet/)
 * [2023-09-25, 18:53:41](https://news.ycombinator.com/item?id=37648756) - [Zoom and Grindr are ending remote work](https://www.bbc.com/worklife/article/20230920-zoom-and-grindr-return-to-office-techs-surprising-remote-work-u-turn)
