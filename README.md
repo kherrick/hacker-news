@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-25, 10:19:40](https://news.ycombinator.com/item?id=37641583) - [New York employers must include pay rates in job ads under new state law](https://english.elpais.com/economy-and-business/2023-09-17/new-york-employers-must-include-pay-rates-in-job-ads-under-new-state-law.html)
 * [2023-09-25, 09:58:23](https://news.ycombinator.com/item?id=37641471) - [Baby boomers are becoming homeless at a rate not seen since the Great Depression](https://moneywise.com/news/economy/rate-of-homeless-baby-boomers-increasing)
 * [2023-09-25, 09:44:19](https://news.ycombinator.com/item?id=37641393) - [How to Hide a $2T Trial](https://www.thebignewsletter.com/p/how-to-hide-a-2-trillion-antitrust)
 * [2023-09-25, 08:11:30](https://news.ycombinator.com/item?id=37640816) - [Bitwarden: Free, open-source password manager](https://bitwarden.com/)
@@ -21,7 +22,6 @@
 * [2023-09-24, 20:13:47](https://news.ycombinator.com/item?id=37636701) - [Show HN: Get your entire ChatGPT history in Markdown files](https://github.com/mohamed-chs/chatgpt-history-export-to-md)
 * [2023-09-24, 19:51:05](https://news.ycombinator.com/item?id=37636551) - [There's a new map style on OpenStreetMap.org](https://en.osm.town/@openstreetmap/111120663721969898)
 * [2023-09-24, 19:48:14](https://news.ycombinator.com/item?id=37636529) - [Unpacking Elixir: Resilience](https://underjord.io/unpacking-elixir-resilience.html)
-* [2023-09-24, 19:01:10](https://news.ycombinator.com/item?id=37636124) - [Two photographers captured the same millisecond in time (2018)](https://www.dpreview.com/articles/7338941576/how-two-photographers-captured-the-same-millisecond-in-time)
 * [2023-09-24, 18:50:16](https://news.ycombinator.com/item?id=37636013) - [μMon: Stupid simple monitoring (2022)](https://tomscii.sig7.se/2022/07/uMon-stupid-simple-monitoring)
 * [2023-09-24, 11:21:20](https://news.ycombinator.com/item?id=37632096) - [Netflix prepares to send its final red envelope](https://www.nytimes.com/2023/09/23/business/media/netflix-dvds.html)
 * [2023-09-24, 08:41:19](https://news.ycombinator.com/item?id=37631225) - [Two-Tower Embedding Model](https://www.hopsworks.ai/dictionary/two-tower-embedding-model)
