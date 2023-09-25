@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-25, 22:23:23](https://news.ycombinator.com/item?id=37651548) - [Rich Sutton joins John Carmack's Keen Technologies](https://twitter.com/ID_AA_Carmack/status/1706420064956661867)
+* [2023-09-25, 22:21:51](https://news.ycombinator.com/item?id=37651529) - [Distinguishing features of Long Covid identified through immune profiling](https://www.nature.com/articles/s41586-023-06651-y)
 * [2023-09-25, 21:55:07](https://news.ycombinator.com/item?id=37651260) - [Is Math Real?](https://maa.org/press/maa-reviews/is-math-real)
 * [2023-09-25, 21:47:42](https://news.ycombinator.com/item?id=37651171) - [The SR-71 Blackbird Astro-Nav System worked by tracking the stars](https://theaviationgeekclub.com/the-sr-71-blackbird-astro-nav-system-aka-r2-d2-worked-by-tracking-the-stars-and-was-so-powerful-that-it-could-see-the-stars-even-in-daylight/)
 * [2023-09-25, 21:37:41](https://news.ycombinator.com/item?id=37651048) - [Fat Men's Clubs (2016)](https://www.npr.org/sections/thesalt/2016/03/07/469571114/the-forgotten-history-of-fat-men-s-clubs)
@@ -29,7 +30,6 @@
 * [2023-09-25, 00:02:15](https://news.ycombinator.com/item?id=37638328) - [Open Air Schools of the 1900s](https://blog.britishnewspaperarchive.co.uk/2023/09/21/understanding-the-open-air-schools-of-the-1900s/)
 * [2023-09-24, 06:18:45](https://news.ycombinator.com/item?id=37630589) - [TikTok is changing the way books are recommended and sold](https://www.economist.com/culture/2023/09/21/tiktok-is-changing-the-way-books-are-recommended-and-sold)
 * [2023-09-24, 06:07:38](https://news.ycombinator.com/item?id=37630543) - [Time Doesn’t Belong to Physics – When Bergson met Einstein](https://iai.tv/articles/time-doesnt-belong-to-physics-jimena-canales-auid-2607)
-* [2023-09-23, 12:03:52](https://news.ycombinator.com/item?id=37622512) - [Show HN: Online oscilloscope with waveform generators](https://csurgay.com/syggen/)
 
 ## [Archives](archives/index.md)
 

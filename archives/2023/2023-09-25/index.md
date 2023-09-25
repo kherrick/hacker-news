@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-25](index.md)
 
 * [2023-09-25, 22:23:23](https://news.ycombinator.com/item?id=37651548) - [Rich Sutton joins John Carmack's Keen Technologies](https://twitter.com/ID_AA_Carmack/status/1706420064956661867)
+* [2023-09-25, 22:21:51](https://news.ycombinator.com/item?id=37651529) - [Distinguishing features of Long Covid identified through immune profiling](https://www.nature.com/articles/s41586-023-06651-y)
 * [2023-09-25, 21:55:07](https://news.ycombinator.com/item?id=37651260) - [Is math real?](https://maa.org/press/maa-reviews/is-math-real)
 * [2023-09-25, 21:47:42](https://news.ycombinator.com/item?id=37651171) - [SR-71 Blackbird Astro-Nav System (a.k.a. R2-D2) worked by tracking the stars](https://theaviationgeekclub.com/the-sr-71-blackbird-astro-nav-system-aka-r2-d2-worked-by-tracking-the-stars-and-was-so-powerful-that-it-could-see-the-stars-even-in-daylight/)
 * [2023-09-25, 21:37:41](https://news.ycombinator.com/item?id=37651048) - [Fat Men's Clubs (2016)](https://www.npr.org/sections/thesalt/2016/03/07/469571114/the-forgotten-history-of-fat-men-s-clubs)
