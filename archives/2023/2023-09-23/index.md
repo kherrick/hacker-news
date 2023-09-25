@@ -32,6 +32,7 @@
 * [2023-09-23, 18:41:43](https://news.ycombinator.com/item?id=37626106) - [We Fixed the iPhone 15](https://twitter.com/FrameworkPuter/status/1705458267508609052)
 * [2023-09-23, 18:34:27](https://news.ycombinator.com/item?id=37626025) - [I open-sourced Even the Ocean! But why?](https://melodicambient.substack.com/p/i-open-sourced-even-the-ocean-2016)
 * [2023-09-23, 18:28:58](https://news.ycombinator.com/item?id=37625973) - [Brainless Jellyfish Demonstrate Learning Ability](https://www.nytimes.com/2023/09/22/science/jellyfish-learning-neurons.html)
+* [2023-09-23, 18:23:15](https://news.ycombinator.com/item?id=37625909) - [The process of making food models. Japanese 73-year-old craftsman [video]](https://www.youtube.com/watch?v=Chi8hk1Vqs8)
 * [2023-09-23, 17:54:42](https://news.ycombinator.com/item?id=37625627) - [Egyptian presidential hopeful targeted by Predator spyware](https://www.washingtonpost.com/investigations/2023/09/23/predator-egypt-hack-spyware-iphone/)
 * [2023-09-23, 17:48:04](https://news.ycombinator.com/item?id=37625560) - [Embracing dumbness](https://www.alexmolas.com/2023/09/18/embracing-dumbness.html)
 * [2023-09-23, 17:21:56](https://news.ycombinator.com/item?id=37625291) - [The strange disappearance of Mrs Agatha Christie (2022)](https://blog.nationalarchives.gov.uk/20speople-investigating-the-strange-disappearance-of-mrs-agatha-christie/)

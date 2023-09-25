@@ -22,12 +22,12 @@
 * [2023-09-24, 08:46:12](https://news.ycombinator.com/item?id=37631252) - [‘Mind-boggling’ sea creature identified as digenean trematode](https://www.science.org/content/article/mind-boggling-sea-creature-spotted-japan-has-finally-been-identified)
 * [2023-09-24, 08:41:19](https://news.ycombinator.com/item?id=37631225) - [Two-Tower Embedding Model](https://www.hopsworks.ai/dictionary/two-tower-embedding-model)
 * [2023-09-24, 08:10:52](https://news.ycombinator.com/item?id=37631089) - [A hacker's guide to language models [video]](https://www.youtube.com/watch?v=jkrNMKz9pWU)
-* [2023-09-24, 07:40:53](https://news.ycombinator.com/item?id=37630951) - [Natalie – a work-in-progress Ruby compiler, written in Ruby and C++](https://github.com/natalie-lang/natalie)
 * [2023-09-24, 07:03:51](https://news.ycombinator.com/item?id=37630804) - [Text editing on mobile: the invisible problem](https://jenson.org/text/)
 * [2023-09-24, 02:59:36](https://news.ycombinator.com/item?id=37629780) - [Is this ‘which’ dead?](https://www.grammarphobia.com/blog/2023/09/which-3.html)
 * [2023-09-24, 02:45:09](https://news.ycombinator.com/item?id=37629702) - [Parchman Farm, a Mississippi prison with a musical history](https://www.theguardian.com/music/2023/sep/20/its-a-charged-place-parchman-farm-the-mississippi-prison-with-a-remarkable-musical-history)
 * [2023-09-24, 02:29:13](https://news.ycombinator.com/item?id=37629618) - [Fear and Desire: On Stanley Kubrick’s first film](https://metrograph.com/fearanddesire/)
 * [2023-09-24, 02:24:03](https://news.ycombinator.com/item?id=37629593) - [One robber baron’s gamble on railroads](https://www.smithsonianmag.com/history/robber-baron-gamble-railroads-brought-down-bank-plunged-us-into-first-great-depression-panic-1873-180982877/)
+* [2023-09-23, 18:23:15](https://news.ycombinator.com/item?id=37625909) - [The process of making food models. Japanese 73-year-old craftsman [video]](https://www.youtube.com/watch?v=Chi8hk1Vqs8)
 * [2023-09-22, 22:12:13](https://news.ycombinator.com/item?id=37618440) - [Parsing integers quickly with AVX-512](https://lemire.me/blog/2023/09/22/parsing-integers-quickly-with-avx-512/)
 * [2023-09-22, 14:56:50](https://news.ycombinator.com/item?id=37612887) - [Hidden ocean the source of carbon dioxide on Jupiter moon](https://phys.org/news/2023-09-hidden-ocean-source-carbon-dioxide.html)
 
