@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=37642335"
     ],
     [
-      "ChatGPT can now see, hear, and speak – openai.com",
+      "ChatGPT can now see, hear, and speak",
       "https://openai.com/blog/chatgpt-can-now-see-hear-and-speak"
     ]
   ],
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=37641921"
     ],
     [
-      "Apple will charge you way less to fix cracked back glass on an iPhone 15 Pro",
+      "Apple will charge way less to fix cracked back glass on an iPhone 15 Pro",
       "https://arstechnica.com/gadgets/2023/09/apple-will-charge-you-way-less-to-fix-cracked-back-glass-on-an-iphone-15-pro/"
     ]
   ],
@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2023-09-25, 10:36:20",
-      "https://news.ycombinator.com/item?id=37641660"
-    ],
-    [
-      "I Quit My Job at Amazon Rather Than Return to the Office 3 Days a Week",
-      "https://www.businessinsider.com/i-quit-return-to-office-order-amazon-rto-2023-9"
-    ]
-  ],
-  [
-    [
       "2023-09-25, 10:19:40",
       "https://news.ycombinator.com/item?id=37641583"
     ],
@@ -101,11 +91,21 @@
   ],
   [
     [
+      "2023-09-25, 09:58:23",
+      "https://news.ycombinator.com/item?id=37641471"
+    ],
+    [
+      "Baby boomers are becoming homeless at a rate not seen since the Great Depression",
+      "https://moneywise.com/news/economy/rate-of-homeless-baby-boomers-increasing"
+    ]
+  ],
+  [
+    [
       "2023-09-25, 09:44:19",
       "https://news.ycombinator.com/item?id=37641393"
     ],
     [
-      "How to Hide a $2T Trial",
+      "An analysis of the Google antitrust trial",
       "https://www.thebignewsletter.com/p/how-to-hide-a-2-trillion-antitrust"
     ]
   ],
@@ -181,12 +181,12 @@
   ],
   [
     [
-      "2023-09-25, 02:00:06",
-      "https://news.ycombinator.com/item?id=37638928"
+      "2023-09-25, 01:53:28",
+      "https://news.ycombinator.com/item?id=37638894"
     ],
     [
-      "Show HN: Crystaldoc.info – Crystal Shards API Documentation Hosting",
-      "https://crystaldoc.info/"
+      "Why do we need modules at all? (2011)",
+      "http://erlang.org/pipermail/erlang-questions/2011-May/058768.html"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2023-09-24, 02:59:36",
+      "https://news.ycombinator.com/item?id=37629780"
+    ],
+    [
+      "Is this ‘which’ dead?",
+      "https://www.grammarphobia.com/blog/2023/09/which-3.html"
+    ]
+  ],
+  [
+    [
       "2023-09-23, 18:23:15",
       "https://news.ycombinator.com/item?id=37625909"
     ],
     [
       "The process of making food models. Japanese 73-year-old craftsman [video]",
       "https://www.youtube.com/watch?v=Chi8hk1Vqs8"
-    ]
-  ],
-  [
-    [
-      "2023-09-22, 22:12:13",
-      "https://news.ycombinator.com/item?id=37618440"
-    ],
-    [
-      "Parsing integers quickly with AVX-512",
-      "https://lemire.me/blog/2023/09/22/parsing-integers-quickly-with-avx-512/"
     ]
   ]
 ]
