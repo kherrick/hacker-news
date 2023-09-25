@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-25, 19:18:24](https://news.ycombinator.com/item?id=37649114) - [US Government IT contractor could face death penalty over espionage charges](https://www.itpro.com/security/us-government-it-contractor-could-face-death-penalty-over-espionage-charges)
 * [2023-09-25, 18:58:44](https://news.ycombinator.com/item?id=37648833) - [Reclaim the Internet with Mozilla](https://blog.mozilla.org/en/mozilla/reclaim-the-internet/)
 * [2023-09-25, 18:28:13](https://news.ycombinator.com/item?id=37648415) - [Show HN: A Highly Configurable Linux-Based Desktop Notifier for RSS/Atom Feeds](https://github.com/EscherMoore/DitchTheBell)
 * [2023-09-25, 18:20:22](https://news.ycombinator.com/item?id=37648288) - [California governor vetoes bill to require human operators in autonomous trucks](https://www.engadget.com/california-governor-vetoes-bill-for-obligatory-human-operators-in-autonomous-trucks-170051289.html)
@@ -11,7 +12,6 @@
 * [2023-09-25, 16:14:10](https://news.ycombinator.com/item?id=37646257) - [Show HN: Generate a concatenated file of all CSS used on a given website](https://mikaei.github.io/mouthful/)
 * [2023-09-25, 15:55:44](https://news.ycombinator.com/item?id=37645945) - [Saint Helena Island Communications](http://sainthelenaisland.info/communications.htm)
 * [2023-09-25, 15:12:26](https://news.ycombinator.com/item?id=37645160) - [Apache Open Office as an unmaintained project?](https://rocket9labs.com/post/its-time-to-let-go-apache-software-foundation/)
-* [2023-09-25, 15:00:33](https://news.ycombinator.com/item?id=37644952) - [KSP2 is spamming the Windows Registry until the game stops working](https://forum.kerbalspaceprogram.com/topic/219607-ksp2-is-spamming-the-windows-registry-over-weeksmonths-until-the-game-will-stop-working-permanently/)
 * [2023-09-25, 14:36:11](https://news.ycombinator.com/item?id=37644506) - [MDMA and the Quest for Connection in a Fractured World](https://undark.org/2023/09/22/book-review-the-long-strange-history-of-mdma/)
 * [2023-09-25, 12:31:07](https://news.ycombinator.com/item?id=37642671) - [Show HN: E-Ink Day Schedule](https://github.com/davidhampgonsalves/life-dashboard)
 * [2023-09-25, 12:26:24](https://news.ycombinator.com/item?id=37642610) - [Rhythm 0](https://en.wikipedia.org/wiki/Rhythm_0)
