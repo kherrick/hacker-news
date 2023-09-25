@@ -21,31 +21,11 @@
   ],
   [
     [
-      "2023-09-25, 17:35:33",
-      "https://news.ycombinator.com/item?id=37647627"
-    ],
-    [
-      "Kafka as an Antipattern",
-      "https://joshaustin.tech/blog/kafka-as-an-antipattern/"
-    ]
-  ],
-  [
-    [
-      "2023-09-25, 17:12:35",
-      "https://news.ycombinator.com/item?id=37647265"
-    ],
-    [
-      "Living Off the Land Binaries",
-      "https://github.com/LOLBAS-Project/LOLBAS/blob/master/README.md"
-    ]
-  ],
-  [
-    [
       "2023-09-25, 17:00:43",
       "https://news.ycombinator.com/item?id=37647053"
     ],
     [
-      "Dots (YC S21) Is Hiring for Founding Full-Stack Eningeers",
+      "Dots (YC S21) is hiring founding full-stack eningeers",
       "https://www.ycombinator.com/companies/dots-2/jobs"
     ]
   ],
@@ -61,12 +41,22 @@
   ],
   [
     [
-      "2023-09-25, 16:25:03",
-      "https://news.ycombinator.com/item?id=37646432"
+      "2023-09-25, 16:27:29",
+      "https://news.ycombinator.com/item?id=37646472"
     ],
     [
-      "The SEC Wants to Spy on Your Portfolio",
-      "https://www.wsj.com/articles/the-sec-wants-to-spy-on-your-portfolio-surveillance-cat-investors-616737c2"
+      "How We Made PostgreSQL a Better Vector Database",
+      "https://www.timescale.com/blog/how-we-made-postgresql-the-best-vector-database/"
+    ]
+  ],
+  [
+    [
+      "2023-09-25, 15:57:24",
+      "https://news.ycombinator.com/item?id=37645974"
+    ],
+    [
+      "Copyright liability for generative AI pivots on fair use doctrine",
+      "https://news.bloomberglaw.com/us-law-week/copyright-liability-for-generative-ai-pivots-on-fair-use-doctrine"
     ]
   ],
   [
@@ -85,7 +75,7 @@
       "https://news.ycombinator.com/item?id=37645896"
     ],
     [
-      "GitHub Passkeys are generally available",
+      "Passkeys are generally available",
       "https://github.blog/2023-09-21-passkeys-are-generally-available/"
     ]
   ],
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=37642921"
     ],
     [
-      "Show HN: KitForStartups – The Open Source SvelteKit SaaS Boilerplate",
+      "KitForStartups – The Open Source SvelteKit SaaS Boilerplate",
       "https://github.com/okupter/kitforstartups"
     ]
   ],
@@ -235,8 +225,28 @@
       "https://news.ycombinator.com/item?id=37639896"
     ],
     [
-      "The State of Async Rust",
+      "The State of Async Rust: Runtimes",
       "https://corrode.dev/blog/async/"
+    ]
+  ],
+  [
+    [
+      "2023-09-25, 04:34:07",
+      "https://news.ycombinator.com/item?id=37639702"
+    ],
+    [
+      "Flameshow: A terminal flamegraph viewer",
+      "https://github.com/laixintao/flameshow"
+    ]
+  ],
+  [
+    [
+      "2023-09-24, 20:30:01",
+      "https://news.ycombinator.com/item?id=37636841"
+    ],
+    [
+      "Choose Postgres queue technology",
+      "https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/"
     ]
   ],
   [
@@ -265,18 +275,8 @@
       "https://news.ycombinator.com/item?id=37622512"
     ],
     [
-      "Show HN: Online Oscilloscope with Waveform Generators",
+      "Show HN: Online oscilloscope with waveform generators",
       "https://csurgay.com/syggen/"
-    ]
-  ],
-  [
-    [
-      "2023-09-22, 21:35:57",
-      "https://news.ycombinator.com/item?id=37618100"
-    ],
-    [
-      "How were gladiators portrayed in ancient Rome?",
-      "https://worldhistory.substack.com/p/watching-the-gladiators"
     ]
   ],
   [
