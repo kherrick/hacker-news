@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-24](index.md)
 
+* [2023-09-24, 23:30:37](https://news.ycombinator.com/item?id=37638153) - [Travelin’ man and woman: Taking to the road and the boxcar](https://www.the-tls.co.uk/articles/the-american-vagrant-in-literature-bryan-yazell-vagabonds-tramps-and-hobos-owen-clayton-book-review-gordon-fraser/)
 * [2023-09-24, 22:49:21](https://news.ycombinator.com/item?id=37637921) - [The Cutting Room Floor–unearthing unused and cut content from video games](https://tcrf.net/The_Cutting_Room_Floor)
 * [2023-09-24, 22:19:24](https://news.ycombinator.com/item?id=37637715) - [Volkswagen cuts jobs as demand for EVs plunges](https://fortune.com/2023/09/14/vw-cutting-jobs-german-ev-factory-because-demand-plunging-china-tesla/)
 * [2023-09-24, 21:54:51](https://news.ycombinator.com/item?id=37637561) - [Hinder: A Dating App for Emotionally Unavailable Men](https://www.newyorker.com/humor/daily-shouts/hinder-a-dating-app-for-emotionally-unavailable-men)

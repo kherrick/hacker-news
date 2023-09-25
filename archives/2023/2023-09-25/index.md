@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-25](index.md)
 
+* [2023-09-25, 14:36:11](https://news.ycombinator.com/item?id=37644506) - [Review of MDMA and the Quest for Connection in a Fractured World](https://undark.org/2023/09/22/book-review-the-long-strange-history-of-mdma/)
+* [2023-09-25, 14:10:15](https://news.ycombinator.com/item?id=37644047) - [Minecraft Wiki has forked from Fandom](https://minecraft.wiki/w/Minecraft_Wiki:Moving_from_Fandom)
 * [2023-09-25, 13:38:30](https://news.ycombinator.com/item?id=37643608) - [What was behind Microsoft's layoffs of over 20k people in the last year?](https://twitter.com/TeamBlind/status/1706266044871086271)
 * [2023-09-25, 13:38:22](https://news.ycombinator.com/item?id=37643606) - [Metro Police: MoD offers military support after armed officers turn in weapons](https://www.bbc.com/news/uk-66906201)
 * [2023-09-25, 13:28:50](https://news.ycombinator.com/item?id=37643456) - [Getty made an AI generator that only trained on its licensed image](https://www.theverge.com/2023/9/25/23884679/getty-ai-generative-image-platform-launch)
@@ -17,6 +19,7 @@
 * [2023-09-25, 11:35:23](https://news.ycombinator.com/item?id=37642167) - [Met Police: Up to 300 armed officers step back as Army on standby](https://www.bbc.co.uk/news/uk-66909729)
 * [2023-09-25, 11:28:20](https://news.ycombinator.com/item?id=37642110) - [Lego axes plan to make bricks from recycled bottles](https://www.bbc.com/news/business-66910573)
 * [2023-09-25, 11:16:09](https://news.ycombinator.com/item?id=37642011) - [Show HN: Netmaker – Netmaker Goes Open Source](https://github.com/gravitl/netmaker/blob/master/LICENSE.md)
+* [2023-09-25, 11:12:05](https://news.ycombinator.com/item?id=37641974) - [‘Who Benefits?’ Inside the EU’s Fight over Scanning for Child Sex Content](https://balkaninsight.com/2023/09/25/who-benefits-inside-the-eus-fight-over-scanning-for-child-sex-content/)
 * [2023-09-25, 11:05:57](https://news.ycombinator.com/item?id=37641921) - [Apple will charge you way less to fix cracked back glass on an iPhone 15 Pro](https://arstechnica.com/gadgets/2023/09/apple-will-charge-you-way-less-to-fix-cracked-back-glass-on-an-iphone-15-pro/)
 * [2023-09-25, 10:53:40](https://news.ycombinator.com/item?id=37641812) - [The home Wi-Fi upgrade we never asked for is coming. The one we need is not](https://www.theregister.com/2023/09/25/wifi_7_ee_qualcomm/)
 * [2023-09-25, 10:48:47](https://news.ycombinator.com/item?id=37641769) - [Making Military Service More Attractive for Modern Spouses](https://warontherocks.com/2023/09/making-military-service-more-attractive-for-modern-spouses/)
