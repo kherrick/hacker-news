@@ -3,7 +3,7 @@
 * [2023-09-25, 02:00:06](https://news.ycombinator.com/item?id=37638928) - [Show HN: Crystaldoc.info – Crystal Shards API Documentation Hosting](https://crystaldoc.info/)
 * [2023-09-25, 01:44:22](https://news.ycombinator.com/item?id=37638840) - [Type 2 diabetes rates in US youth rose 62% after Covid pandemic began](https://www.cidrap.umn.edu/covid-19/type-2-diabetes-rates-us-youth-rose-62-after-covid-pandemic-began-study-suggests)
 * [2023-09-25, 01:41:07](https://news.ycombinator.com/item?id=37638817) - [Game of Thrones creator and other authors sue ChatGPT-maker for ‘theft’](https://www.aljazeera.com/news/2023/9/21/openai-sued)
-* [2023-09-25, 01:40:05](https://news.ycombinator.com/item?id=37638808) - [Netflix prepares to send its final red envelope](https://lasvegassun.com/news/2023/sep/23/netflix-prepares-to-send-its-final-red-envelope/)
+* [2023-09-24, 22:49:21](https://news.ycombinator.com/item?id=37637921) - [The Cutting Room Floor–unearthing unused and cut content from video games](https://tcrf.net/The_Cutting_Room_Floor)
 * [2023-09-24, 21:25:40](https://news.ycombinator.com/item?id=37637354) - [Corrosion: Rust Never Sleeps](https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/digression-3-corrosion-rust-never-sleeps/1?ref=thebrowser.com)
 * [2023-09-24, 21:02:19](https://news.ycombinator.com/item?id=37637165) - [LARPing and Violent Extremism](https://leb.fbi.gov/articles/featured-articles/larping-and-violent-extremism)
 * [2023-09-24, 20:44:47](https://news.ycombinator.com/item?id=37637006) - [PID Control Challenges](http://janismac.github.io/ControlChallenges/)
@@ -26,10 +26,10 @@
 * [2023-09-24, 02:59:36](https://news.ycombinator.com/item?id=37629780) - [Is This ‘Which’ Dead?](https://www.grammarphobia.com/blog/2023/09/which-3.html)
 * [2023-09-24, 02:45:09](https://news.ycombinator.com/item?id=37629702) - [Parchman Farm, a Mississippi prison with a musical history](https://www.theguardian.com/music/2023/sep/20/its-a-charged-place-parchman-farm-the-mississippi-prison-with-a-remarkable-musical-history)
 * [2023-09-24, 02:29:13](https://news.ycombinator.com/item?id=37629618) - [Fear and Desire: On Stanley Kubrick’s first film](https://metrograph.com/fearanddesire/)
-* [2023-09-23, 21:24:20](https://news.ycombinator.com/item?id=37627684) - [Ways YC has changed in the last year](https://twitter.com/snowmaker/status/1705643839443403263)
 * [2023-09-22, 22:12:13](https://news.ycombinator.com/item?id=37618440) - [Parsing integers quickly with AVX-512](https://lemire.me/blog/2023/09/22/parsing-integers-quickly-with-avx-512/)
+* [2023-09-22, 16:04:48](https://news.ycombinator.com/item?id=37613769) - [How Australians made the early internet their own](https://theconversation.com/30-years-of-the-web-down-under-how-australians-made-the-early-internet-their-own-212542)
 * [2023-09-22, 14:56:50](https://news.ycombinator.com/item?id=37612887) - [Hidden ocean the source of carbon dioxide on Jupiter moon](https://phys.org/news/2023-09-hidden-ocean-source-carbon-dioxide.html)
-* [2023-09-22, 14:46:34](https://news.ycombinator.com/item?id=37612750) - [Hank Asher turned Americans’ private information into a business](https://www.nytimes.com/2023/09/22/magazine/hank-asher-data.html)
+* [2023-09-22, 14:34:37](https://news.ycombinator.com/item?id=37612606) - [Knot theory [video]](https://www.youtube.com/watch?v=8DBhTXM_Br4)
 
 ## [Archives](archives/index.md)
 
