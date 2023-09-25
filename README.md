@@ -2,7 +2,7 @@
 
 * [2023-09-25, 02:41:22](https://news.ycombinator.com/item?id=37639130) - [Millions of People See Staying Home and Cleaning as Their Idea of a Good Time](https://www.wsj.com/lifestyle/cleaning-hacks-tips-for-home-tiktok-influencers-3c689dd)
 * [2023-09-25, 02:00:06](https://news.ycombinator.com/item?id=37638928) - [Show HN: Crystaldoc.info – Crystal Shards API Documentation Hosting](https://crystaldoc.info/)
-* [2023-09-25, 01:53:28](https://news.ycombinator.com/item?id=37638894) - [(Erlang) Why do we need modules at all?](http://erlang.org/pipermail/erlang-questions/2011-May/058768.html)
+* [2023-09-25, 01:53:28](https://news.ycombinator.com/item?id=37638894) - [Why do we need modules at all?](http://erlang.org/pipermail/erlang-questions/2011-May/058768.html)
 * [2023-09-25, 01:44:22](https://news.ycombinator.com/item?id=37638840) - [Type 2 diabetes rates in US youth rose 62% after Covid pandemic began](https://www.cidrap.umn.edu/covid-19/type-2-diabetes-rates-us-youth-rose-62-after-covid-pandemic-began-study-suggests)
 * [2023-09-25, 01:41:07](https://news.ycombinator.com/item?id=37638817) - [Game of Thrones creator and other authors sue ChatGPT-maker for ‘theft’](https://www.aljazeera.com/news/2023/9/21/openai-sued)
 * [2023-09-25, 01:39:52](https://news.ycombinator.com/item?id=37638804) - [Research adds evidence to benefits of ginger supplements for treating autoimmune](https://medicalxpress.com/news/2023-09-evidence-benefits-ginger-supplements-autoimmune.html)
@@ -24,7 +24,7 @@
 * [2023-09-24, 08:52:38](https://news.ycombinator.com/item?id=37631286) - [Geometric Algebra for Electrical Engineers](https://peeterjoot.com/writing/geometric-algebra-for-electrical-engineers/)
 * [2023-09-24, 08:46:12](https://news.ycombinator.com/item?id=37631252) - [‘Mind-boggling’ sea creature identified as digenean trematode](https://www.science.org/content/article/mind-boggling-sea-creature-spotted-japan-has-finally-been-identified)
 * [2023-09-24, 08:10:52](https://news.ycombinator.com/item?id=37631089) - [A hacker's guide to language models [video]](https://www.youtube.com/watch?v=jkrNMKz9pWU)
-* [2023-09-24, 06:07:38](https://news.ycombinator.com/item?id=37630543) - [Time Doesn’t Belong to Physics](https://iai.tv/articles/time-doesnt-belong-to-physics-jimena-canales-auid-2607)
+* [2023-09-24, 07:03:51](https://news.ycombinator.com/item?id=37630804) - [Text editing on mobile: the invisible problem](https://jenson.org/text/)
 * [2023-09-24, 02:59:36](https://news.ycombinator.com/item?id=37629780) - [Is This ‘Which’ Dead?](https://www.grammarphobia.com/blog/2023/09/which-3.html)
 * [2023-09-24, 02:45:09](https://news.ycombinator.com/item?id=37629702) - [Parchman Farm, a Mississippi prison with a musical history](https://www.theguardian.com/music/2023/sep/20/its-a-charged-place-parchman-farm-the-mississippi-prison-with-a-remarkable-musical-history)
 * [2023-09-24, 02:24:03](https://news.ycombinator.com/item?id=37629593) - [One robber baron’s gamble on railroads](https://www.smithsonianmag.com/history/robber-baron-gamble-railroads-brought-down-bank-plunged-us-into-first-great-depression-panic-1873-180982877/)
