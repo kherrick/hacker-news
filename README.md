@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-25, 09:58:23](https://news.ycombinator.com/item?id=37641471) - [Baby boomers are becoming homeless at a rate not seen since the Great Depression](https://moneywise.com/news/economy/rate-of-homeless-baby-boomers-increasing)
 * [2023-09-25, 09:44:19](https://news.ycombinator.com/item?id=37641393) - [How to Hide a $2T Trial](https://www.thebignewsletter.com/p/how-to-hide-a-2-trillion-antitrust)
 * [2023-09-25, 08:11:30](https://news.ycombinator.com/item?id=37640816) - [Bitwarden: Free, open-source password manager](https://bitwarden.com/)
 * [2023-09-25, 07:07:44](https://news.ycombinator.com/item?id=37640466) - [Amazon will invest up to $4B in Anthropic](https://www.anthropic.com/index/anthropic-amazon)
@@ -23,7 +24,6 @@
 * [2023-09-24, 19:01:10](https://news.ycombinator.com/item?id=37636124) - [Two photographers captured the same millisecond in time (2018)](https://www.dpreview.com/articles/7338941576/how-two-photographers-captured-the-same-millisecond-in-time)
 * [2023-09-24, 18:50:16](https://news.ycombinator.com/item?id=37636013) - [μMon: Stupid simple monitoring (2022)](https://tomscii.sig7.se/2022/07/uMon-stupid-simple-monitoring)
 * [2023-09-24, 11:21:20](https://news.ycombinator.com/item?id=37632096) - [Netflix prepares to send its final red envelope](https://www.nytimes.com/2023/09/23/business/media/netflix-dvds.html)
-* [2023-09-24, 08:46:12](https://news.ycombinator.com/item?id=37631252) - [‘Mind-boggling’ sea creature identified as digenean trematode](https://www.science.org/content/article/mind-boggling-sea-creature-spotted-japan-has-finally-been-identified)
 * [2023-09-24, 08:41:19](https://news.ycombinator.com/item?id=37631225) - [Two-Tower Embedding Model](https://www.hopsworks.ai/dictionary/two-tower-embedding-model)
 * [2023-09-24, 08:10:52](https://news.ycombinator.com/item?id=37631089) - [A hacker's guide to language models [video]](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 * [2023-09-24, 07:03:51](https://news.ycombinator.com/item?id=37630804) - [Text editing on mobile: the invisible problem](https://jenson.org/text/)
