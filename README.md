@@ -15,6 +15,7 @@
 * [2023-09-25, 09:44:19](https://news.ycombinator.com/item?id=37641393) - [An analysis of the Google antitrust trial](https://www.thebignewsletter.com/p/how-to-hide-a-2-trillion-antitrust)
 * [2023-09-25, 08:11:30](https://news.ycombinator.com/item?id=37640816) - [Bitwarden: Free, open-source password manager](https://bitwarden.com/)
 * [2023-09-25, 07:07:44](https://news.ycombinator.com/item?id=37640466) - [Amazon will invest up to $4B in Anthropic](https://www.anthropic.com/index/anthropic-amazon)
+* [2023-09-25, 06:08:31](https://news.ycombinator.com/item?id=37640137) - [Hello, World Part One: Eliza](https://www.theparisreview.org/blog/2022/11/14/hello-world-part-one-eliza/)
 * [2023-09-25, 05:20:13](https://news.ycombinator.com/item?id=37639896) - [The State of Async Rust](https://corrode.dev/blog/async/)
 * [2023-09-25, 05:10:27](https://news.ycombinator.com/item?id=37639849) - [Ken Follett Says Readers Still Like Epic Books](https://www.wsj.com/arts-culture/ken-follett-says-readers-still-like-epic-books-39695bc6)
 * [2023-09-25, 04:34:07](https://news.ycombinator.com/item?id=37639702) - [Flameshow: A terminal flamegraph viewer](https://github.com/laixintao/flameshow)
@@ -27,7 +28,6 @@
 * [2023-09-24, 08:10:52](https://news.ycombinator.com/item?id=37631089) - [A hacker's guide to language models [video]](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 * [2023-09-24, 07:03:51](https://news.ycombinator.com/item?id=37630804) - [Text editing on mobile: the invisible problem](https://jenson.org/text/)
 * [2023-09-24, 06:07:38](https://news.ycombinator.com/item?id=37630543) - [Time Doesn’t Belong to Physics](https://iai.tv/articles/time-doesnt-belong-to-physics-jimena-canales-auid-2607)
-* [2023-09-24, 04:42:45](https://news.ycombinator.com/item?id=37630195) - [A high-water mark in American mass culture](https://www.theatlantic.com/culture/archive/2023/09/nancy-ernie-bushmiller-three-rocks-biography/675377/)
 * [2023-09-23, 18:23:15](https://news.ycombinator.com/item?id=37625909) - [The process of making food models. Japanese 73-year-old craftsman [video]](https://www.youtube.com/watch?v=Chi8hk1Vqs8)
 * [2023-09-23, 12:03:52](https://news.ycombinator.com/item?id=37622512) - [Show HN: Online Oscilloscope with Waveform Generators](https://csurgay.com/syggen/)
 
