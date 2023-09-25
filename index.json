@@ -1,22 +1,32 @@
 [
   [
     [
+      "2023-09-25, 18:20:22",
+      "https://news.ycombinator.com/item?id=37648288"
+    ],
+    [
+      "California governor vetoes bill to require human operators in autonomous trucks",
+      "https://www.engadget.com/california-governor-vetoes-bill-for-obligatory-human-operators-in-autonomous-trucks-170051289.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-25, 18:07:24",
+      "https://news.ycombinator.com/item?id=37648098"
+    ],
+    [
+      "Show HN: Zero-dependency Java framework out of beta",
+      "https://github.com/byronka/minum"
+    ]
+  ],
+  [
+    [
       "2023-09-25, 18:05:07",
       "https://news.ycombinator.com/item?id=37648068"
     ],
     [
       "Unity's oldest community announces dissolution",
       "https://bostonunitygroup.s3.us-east-1.amazonaws.com/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-25, 17:38:46",
-      "https://news.ycombinator.com/item?id=37647677"
-    ],
-    [
-      "Intel Axes Data Center GPU Max 1350, Preps New Max 1450 for 'Different Markets'",
-      "https://www.tomshardware.com/news/intel-axes-data-center-gpu-max-1350-preps-max-1450-for-different-markets"
     ]
   ],
   [
@@ -37,16 +47,6 @@
     [
       "Ian's Shoelace Site",
       "https://www.fieggen.com/shoelace/"
-    ]
-  ],
-  [
-    [
-      "2023-09-25, 16:27:29",
-      "https://news.ycombinator.com/item?id=37646472"
-    ],
-    [
-      "How We Made PostgreSQL a Better Vector Database",
-      "https://www.timescale.com/blog/how-we-made-postgresql-the-best-vector-database/"
     ]
   ],
   [
@@ -105,18 +105,18 @@
       "https://news.ycombinator.com/item?id=37644952"
     ],
     [
-      "KSP2 is spamming the Windows Registry until the game stops working permanently",
+      "KSP2 is spamming the Windows Registry until the game stops working",
       "https://forum.kerbalspaceprogram.com/topic/219607-ksp2-is-spamming-the-windows-registry-over-weeksmonths-until-the-game-will-stop-working-permanently/"
     ]
   ],
   [
     [
-      "2023-09-25, 13:28:50",
-      "https://news.ycombinator.com/item?id=37643456"
+      "2023-09-25, 14:36:11",
+      "https://news.ycombinator.com/item?id=37644506"
     ],
     [
-      "Getty made an AI generator that only trained on its licensed image",
-      "https://www.theverge.com/2023/9/25/23884679/getty-ai-generative-image-platform-launch"
+      "MDMA and the Quest for Connection in a Fractured World",
+      "https://undark.org/2023/09/22/book-review-the-long-strange-history-of-mdma/"
     ]
   ],
   [
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=37641590"
     ],
     [
-      "Nuvem: Cable to connect Portugal, Bermuda, and the U.S.",
+      "Nuvem, a subsea cable to connect Portugal, Bermuda, and the U.S.",
       "https://cloud.google.com/blog/products/infrastructure/introducing-the-nuvem-subsea-cable/"
     ]
   ],
@@ -197,6 +197,16 @@
     [
       "An analysis of the Google antitrust trial",
       "https://www.thebignewsletter.com/p/how-to-hide-a-2-trillion-antitrust"
+    ]
+  ],
+  [
+    [
+      "2023-09-25, 07:51:48",
+      "https://news.ycombinator.com/item?id=37640716"
+    ],
+    [
+      "People who can't give up paper",
+      "https://www.bbc.com/future/article/20230922-why-we-may-never-give-up-paper-entirely"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "The State of Async Rust: Runtimes",
       "https://corrode.dev/blog/async/"
-    ]
-  ],
-  [
-    [
-      "2023-09-25, 04:34:07",
-      "https://news.ycombinator.com/item?id=37639702"
-    ],
-    [
-      "Flameshow: A terminal flamegraph viewer",
-      "https://github.com/laixintao/flameshow"
     ]
   ],
   [
