@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-25](index.md)
 
+* [2023-09-25, 08:11:30](https://news.ycombinator.com/item?id=37640816) - [Bitwarden: Free, open-source password manager](https://bitwarden.com/)
 * [2023-09-25, 07:07:44](https://news.ycombinator.com/item?id=37640466) - [Amazon will invest up to $4B in Anthropic](https://www.anthropic.com/index/anthropic-amazon)
 * [2023-09-25, 07:01:19](https://news.ycombinator.com/item?id=37640442) - [Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=37640442)
 * [2023-09-25, 06:48:25](https://news.ycombinator.com/item?id=37640363) - [LaLiga “Talks to Google” About Deleting Piracy Apps from a Million Phones](https://torrentfreak.com/laliga-talks-to-google-about-piracy-apps-from-a-million-phones-230924/)
