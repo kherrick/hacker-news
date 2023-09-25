@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-25](index.md)
 
 * [2023-09-25, 17:00:43](https://news.ycombinator.com/item?id=37647053) - [Dots (YC S21) Is Hiring for Founding Full-Stack Eningeers](https://www.ycombinator.com/companies/dots-2/jobs)
+* [2023-09-25, 16:55:54](https://news.ycombinator.com/item?id=37646964) - [Ian's Shoelace Site](https://www.fieggen.com/shoelace/)
 * [2023-09-25, 15:55:44](https://news.ycombinator.com/item?id=37645945) - [Saint Helena Island Communications](http://sainthelenaisland.info/communications.htm)
 * [2023-09-25, 15:53:11](https://news.ycombinator.com/item?id=37645896) - [GitHub Passkeys are generally available](https://github.blog/2023-09-21-passkeys-are-generally-available/)
 * [2023-09-25, 15:50:00](https://news.ycombinator.com/item?id=37645829) - [California workers who cut countertops are dying of an incurable disease](https://www.latimes.com/california/story/2023-09-24/silicosis-countertop-workers-engineered-stone)
