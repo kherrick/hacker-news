@@ -6,6 +6,7 @@
 
 * [2023-09-25, 07:01:19](https://news.ycombinator.com/item?id=37640442) - [Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=37640442)
 * [2023-09-25, 06:48:25](https://news.ycombinator.com/item?id=37640363) - [LaLiga “Talks to Google” About Deleting Piracy Apps from a Million Phones](https://torrentfreak.com/laliga-talks-to-google-about-piracy-apps-from-a-million-phones-230924/)
+* [2023-09-25, 05:56:08](https://news.ycombinator.com/item?id=37640076) - [EU proposes 10-year renewal for glyphosate herbicide](https://phys.org/news/2023-09-eu-year-renewal-glyphosate-herbicide.html)
 * [2023-09-25, 04:06:57](https://news.ycombinator.com/item?id=37639590) - [20 Years of Grml.org](https://blog.grml.org/archives/411-20-years-of-grml.org.html)
 * [2023-09-25, 02:41:37](https://news.ycombinator.com/item?id=37639134) - [WGA and the studios reach tentative deal to end writers' strike](https://www.latimes.com/entertainment-arts/business/story/2023-09-24/writers-strike-over-wga-studios-reach-deal-actors)
 * [2023-09-25, 02:41:22](https://news.ycombinator.com/item?id=37639130) - [Millions of People See Staying Home and Cleaning as Their Idea of a Good Time](https://www.wsj.com/lifestyle/cleaning-hacks-tips-for-home-tiktok-influencers-3c689dd)

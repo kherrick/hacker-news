@@ -2,6 +2,7 @@
 
 * [2023-09-25, 07:01:19](https://news.ycombinator.com/item?id=37640442) - [Meticulous (YC S21) Is Hiring #3 Engineer to Build AI for Testing](https://news.ycombinator.com/item?id=37640442)
 * [2023-09-25, 06:48:25](https://news.ycombinator.com/item?id=37640363) - [LaLiga “Talks to Google” About Deleting Piracy Apps from a Million Phones](https://torrentfreak.com/laliga-talks-to-google-about-piracy-apps-from-a-million-phones-230924/)
+* [2023-09-25, 05:56:08](https://news.ycombinator.com/item?id=37640076) - [EU proposes 10-year renewal for glyphosate herbicide](https://phys.org/news/2023-09-eu-year-renewal-glyphosate-herbicide.html)
 * [2023-09-25, 04:06:57](https://news.ycombinator.com/item?id=37639590) - [20 Years of Grml.org](https://blog.grml.org/archives/411-20-years-of-grml.org.html)
 * [2023-09-25, 02:41:37](https://news.ycombinator.com/item?id=37639134) - [WGA and the studios reach tentative deal to end writers' strike](https://www.latimes.com/entertainment-arts/business/story/2023-09-24/writers-strike-over-wga-studios-reach-deal-actors)
 * [2023-09-25, 02:17:39](https://news.ycombinator.com/item?id=37639010) - [Tell HN: There is a highlights page on HN](https://news.ycombinator.com/item?id=37639010)
@@ -9,7 +10,6 @@
 * [2023-09-25, 02:00:06](https://news.ycombinator.com/item?id=37638928) - [Show HN: Crystaldoc.info – Crystal Shards API Documentation Hosting](https://crystaldoc.info/)
 * [2023-09-25, 01:53:28](https://news.ycombinator.com/item?id=37638894) - [Why do we need modules at all? (2011)](http://erlang.org/pipermail/erlang-questions/2011-May/058768.html)
 * [2023-09-24, 22:49:21](https://news.ycombinator.com/item?id=37637921) - [The Cutting Room Floor–unearthing unused and cut content from video games](https://tcrf.net/The_Cutting_Room_Floor)
-* [2023-09-24, 21:02:19](https://news.ycombinator.com/item?id=37637165) - [LARPing and Violent Extremism](https://leb.fbi.gov/articles/featured-articles/larping-and-violent-extremism)
 * [2023-09-24, 20:51:28](https://news.ycombinator.com/item?id=37637075) - [25% of the 13 minute journey from Whitechapel to Paddington is spent not moving](https://diamondgeezer.blogspot.com/2023/09/just-hanging-around.html)
 * [2023-09-24, 20:44:47](https://news.ycombinator.com/item?id=37637006) - [PID Control Challenges](http://janismac.github.io/ControlChallenges/)
 * [2023-09-24, 20:30:01](https://news.ycombinator.com/item?id=37636841) - [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
