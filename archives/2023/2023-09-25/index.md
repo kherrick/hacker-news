@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-25](index.md)
 
+* [2023-09-25, 11:35:23](https://news.ycombinator.com/item?id=37642167) - [Met Police: Up to 300 armed officers step back as Army on standby](https://www.bbc.co.uk/news/uk-66909729)
 * [2023-09-25, 11:28:20](https://news.ycombinator.com/item?id=37642110) - [Lego axes plan to make bricks from recycled bottles](https://www.bbc.com/news/business-66910573)
 * [2023-09-25, 11:16:09](https://news.ycombinator.com/item?id=37642011) - [Show HN: Netmaker – Netmaker Goes Open Source](https://github.com/gravitl/netmaker/blob/master/LICENSE.md)
 * [2023-09-25, 11:05:57](https://news.ycombinator.com/item?id=37641921) - [Apple will charge you way less to fix cracked back glass on an iPhone 15 Pro](https://arstechnica.com/gadgets/2023/09/apple-will-charge-you-way-less-to-fix-cracked-back-glass-on-an-iphone-15-pro/)

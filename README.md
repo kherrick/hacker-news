@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-25, 11:35:23](https://news.ycombinator.com/item?id=37642167) - [Met Police: Up to 300 armed officers step back as Army on standby](https://www.bbc.co.uk/news/uk-66909729)
 * [2023-09-25, 11:28:20](https://news.ycombinator.com/item?id=37642110) - [Lego axes plan to make bricks from recycled bottles](https://www.bbc.com/news/business-66910573)
 * [2023-09-25, 11:16:09](https://news.ycombinator.com/item?id=37642011) - [Show HN: Netmaker – Netmaker Goes Open Source](https://github.com/gravitl/netmaker/blob/master/LICENSE.md)
 * [2023-09-25, 11:05:57](https://news.ycombinator.com/item?id=37641921) - [Apple will charge you way less to fix cracked back glass on an iPhone 15 Pro](https://arstechnica.com/gadgets/2023/09/apple-will-charge-you-way-less-to-fix-cracked-back-glass-on-an-iphone-15-pro/)
@@ -14,7 +15,6 @@
 * [2023-09-25, 05:20:13](https://news.ycombinator.com/item?id=37639896) - [The State of Async Rust](https://corrode.dev/blog/async/)
 * [2023-09-25, 04:34:07](https://news.ycombinator.com/item?id=37639702) - [Flameshow: A terminal flamegraph viewer](https://github.com/laixintao/flameshow)
 * [2023-09-25, 04:06:57](https://news.ycombinator.com/item?id=37639590) - [20 Years of Grml.org](https://blog.grml.org/archives/411-20-years-of-grml.org.html)
-* [2023-09-25, 03:42:30](https://news.ycombinator.com/item?id=37639472) - [Hide job listings from companies you are not interested on LinkedIn](https://ivanca.tumblr.com/post/729402892713410560/hide-job-listings-from-companies-you-dont-like-on)
 * [2023-09-25, 02:17:39](https://news.ycombinator.com/item?id=37639010) - [Tell HN: There is a highlights page on HN](https://news.ycombinator.com/item?id=37639010)
 * [2023-09-25, 02:05:34](https://news.ycombinator.com/item?id=37638956) - [Japan pharma startup to begin human trials of tooth regrowth drug in 2024](https://english.kyodonews.net/news/2023/09/d56fb464a52b-japan-pharma-startup-developing-world-first-drug-to-grow-new-teeth.html)
 * [2023-09-24, 22:49:21](https://news.ycombinator.com/item?id=37637921) - [The Cutting Room Floor–unearthing unused and cut content from video games](https://tcrf.net/The_Cutting_Room_Floor)
