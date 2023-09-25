@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-25, 15:55:44](https://news.ycombinator.com/item?id=37645945) - [Saint Helena Island Communications](http://sainthelenaisland.info/communications.htm)
+* [2023-09-25, 15:53:11](https://news.ycombinator.com/item?id=37645896) - [GitHub Passkeys are generally available](https://github.blog/2023-09-21-passkeys-are-generally-available/)
 * [2023-09-25, 15:50:00](https://news.ycombinator.com/item?id=37645829) - [California workers who cut countertops are dying of an incurable disease](https://www.latimes.com/california/story/2023-09-24/silicosis-countertop-workers-engineered-stone)
 * [2023-09-25, 15:35:41](https://news.ycombinator.com/item?id=37645550) - [JDK 21 Security Enhancements](https://seanjmullan.org/blog/2023/09/22/jdk21)
 * [2023-09-25, 15:17:41](https://news.ycombinator.com/item?id=37645237) - [Kotlin Multiplatform for Android and iOS Apps](https://www.rockandnull.com/kotlin-multiplatform-compose-multiplatform-cross-platform-development/)
@@ -24,7 +25,6 @@
 * [2023-09-25, 05:20:13](https://news.ycombinator.com/item?id=37639896) - [The State of Async Rust](https://corrode.dev/blog/async/)
 * [2023-09-25, 05:10:27](https://news.ycombinator.com/item?id=37639849) - [Ken Follett Says Readers Still Like Epic Books](https://www.wsj.com/arts-culture/ken-follett-says-readers-still-like-epic-books-39695bc6)
 * [2023-09-24, 23:30:37](https://news.ycombinator.com/item?id=37638153) - [Travelin’ man and woman: Taking to the road and the boxcar](https://www.the-tls.co.uk/articles/the-american-vagrant-in-literature-bryan-yazell-vagabonds-tramps-and-hobos-owen-clayton-book-review-gordon-fraser/)
-* [2023-09-24, 08:10:52](https://news.ycombinator.com/item?id=37631089) - [A hacker's guide to language models [video]](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 * [2023-09-24, 05:35:02](https://news.ycombinator.com/item?id=37630391) - [Permuting Bits with GF2P8AFFINEQB](http://bitmath.blogspot.com/2023/09/permuting-bits-with-gf2p8affineqb.html)
 * [2023-09-23, 12:03:52](https://news.ycombinator.com/item?id=37622512) - [Show HN: Online Oscilloscope with Waveform Generators](https://csurgay.com/syggen/)
 * [2023-09-22, 21:35:57](https://news.ycombinator.com/item?id=37618100) - [How were gladiators portrayed in ancient Rome?](https://worldhistory.substack.com/p/watching-the-gladiators)
