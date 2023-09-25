@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-25](index.md)
 
+* [2023-09-25, 15:55:44](https://news.ycombinator.com/item?id=37645945) - [Saint Helena Island Communications](http://sainthelenaisland.info/communications.htm)
+* [2023-09-25, 15:50:00](https://news.ycombinator.com/item?id=37645829) - [California workers who cut countertops are dying of an incurable disease](https://www.latimes.com/california/story/2023-09-24/silicosis-countertop-workers-engineered-stone)
+* [2023-09-25, 15:35:41](https://news.ycombinator.com/item?id=37645550) - [JDK 21 Security Enhancements](https://seanjmullan.org/blog/2023/09/22/jdk21)
 * [2023-09-25, 15:17:41](https://news.ycombinator.com/item?id=37645237) - [Kotlin Multiplatform for Android and iOS Apps](https://www.rockandnull.com/kotlin-multiplatform-compose-multiplatform-cross-platform-development/)
 * [2023-09-25, 15:12:26](https://news.ycombinator.com/item?id=37645160) - [It's time to let go, Apache Software Foundation](https://rocket9labs.com/post/its-time-to-let-go-apache-software-foundation/)
 * [2023-09-25, 15:00:33](https://news.ycombinator.com/item?id=37644952) - [KSP2 is spamming the Windows Registry until the game stops working permanently](https://forum.kerbalspaceprogram.com/topic/219607-ksp2-is-spamming-the-windows-registry-over-weeksmonths-until-the-game-will-stop-working-permanently/)
