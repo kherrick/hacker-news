@@ -70,6 +70,7 @@
 * [2023-09-23, 12:27:09](https://news.ycombinator.com/item?id=37622676) - [Hasan Minhaj’s “Emotional Truths”](https://www.newyorker.com/news/annals-of-communications/hasan-minhajs-emotional-truths)
 * [2023-09-23, 12:26:13](https://news.ycombinator.com/item?id=37622671) - [MGM Grand hiring a RHEL SysAdmin willing to work 10 hours/day 7 days/week](https://twitter.com/LasVegasLocally/status/1704986596439941601)
 * [2023-09-23, 12:20:42](https://news.ycombinator.com/item?id=37622632) - [Coding Guidelines for Prolog (2011)](https://arxiv.org/abs/0911.2899)
+* [2023-09-23, 12:03:52](https://news.ycombinator.com/item?id=37622512) - [Show HN: Online Oscilloscope with Waveform Generators](https://csurgay.com/syggen/)
 * [2023-09-23, 12:01:15](https://news.ycombinator.com/item?id=37622491) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-09-23, 11:14:52](https://news.ycombinator.com/item?id=37622184) - [Imba – The friendly full-stack language](https://imba.io/)
 * [2023-09-23, 10:47:25](https://news.ycombinator.com/item?id=37622072) - [Landchad: A site dedicated to turn web peasants into Internet LandChads](https://landchad.net)
