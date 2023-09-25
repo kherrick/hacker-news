@@ -72,6 +72,7 @@
 * [2023-09-24, 07:03:51](https://news.ycombinator.com/item?id=37630804) - [Text editing on mobile isn’t ok](https://jenson.org/text/)
 * [2023-09-24, 06:28:41](https://news.ycombinator.com/item?id=37630630) - [GPT Excel](https://gptexcel.uk/)
 * [2023-09-24, 06:28:30](https://news.ycombinator.com/item?id=37630628) - [TypeScript NPM Packages Done Right](https://blog.liblab.com/typescript-npm-packages-done-right/)
+* [2023-09-24, 06:18:45](https://news.ycombinator.com/item?id=37630589) - [TikTok is changing the way books are recommended and sold](https://www.economist.com/culture/2023/09/21/tiktok-is-changing-the-way-books-are-recommended-and-sold)
 * [2023-09-24, 06:07:38](https://news.ycombinator.com/item?id=37630543) - [Time Doesn’t Belong to Physics](https://iai.tv/articles/time-doesnt-belong-to-physics-jimena-canales-auid-2607)
 * [2023-09-24, 05:35:02](https://news.ycombinator.com/item?id=37630391) - [Permuting Bits with GF2P8AFFINEQB](http://bitmath.blogspot.com/2023/09/permuting-bits-with-gf2p8affineqb.html)
 * [2023-09-24, 05:28:04](https://news.ycombinator.com/item?id=37630371) - [LLM Falcon 180B Needs 720GB RAM to Run](https://kaitchup.substack.com/p/falcon-180b-can-it-run-on-your-computer)
