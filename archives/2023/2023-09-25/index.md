@@ -20,6 +20,7 @@
 * [2023-09-25, 13:38:22](https://news.ycombinator.com/item?id=37643606) - [Metro Police: MoD offers military support after armed officers turn in weapons](https://www.bbc.com/news/uk-66906201)
 * [2023-09-25, 13:28:50](https://news.ycombinator.com/item?id=37643456) - [Getty made an AI generator that only trained on its licensed image](https://www.theverge.com/2023/9/25/23884679/getty-ai-generative-image-platform-launch)
 * [2023-09-25, 13:26:15](https://news.ycombinator.com/item?id=37643414) - [Car industry pleads for delay to post-Brexit tariffs on EVs](https://www.theregister.com/2023/09/25/car_industry_brexit_tariff/)
+* [2023-09-25, 13:06:44](https://news.ycombinator.com/item?id=37643139) - [2024 Nissan Kicks Is the Kind of Car We Need More Of: Affordable](https://www.thedrive.com/news/2024-nissan-kicks-is-the-kind-of-car-we-need-more-of-affordable)
 * [2023-09-25, 12:51:24](https://news.ycombinator.com/item?id=37642921) - [Show HN: KitForStartups – The Open Source SvelteKit SaaS Boilerplate](https://github.com/okupter/kitforstartups)
 * [2023-09-25, 12:35:12](https://news.ycombinator.com/item?id=37642712) - [GPT-4V(ision) system card [pdf]](https://cdn.openai.com/papers/GPTV_System_Card.pdf)
 * [2023-09-25, 12:31:07](https://news.ycombinator.com/item?id=37642671) - [Show HN: E-Ink Day Schedule](https://github.com/davidhampgonsalves/life-dashboard)
