@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-25, 02:41:37](https://news.ycombinator.com/item?id=37639134) - [WGA and the studios reach tentative deal to end writers' strike](https://www.latimes.com/entertainment-arts/business/story/2023-09-24/writers-strike-over-wga-studios-reach-deal-actors)
+* [2023-09-25, 02:17:39](https://news.ycombinator.com/item?id=37639010) - [Tell HN: There is a new highlights page on HN](https://news.ycombinator.com/item?id=37639010)
 * [2023-09-25, 02:00:06](https://news.ycombinator.com/item?id=37638928) - [Show HN: Crystaldoc.info – Crystal Shards API Documentation Hosting](https://crystaldoc.info/)
 * [2023-09-25, 01:53:28](https://news.ycombinator.com/item?id=37638894) - [Why do we need modules at all? (2011)](http://erlang.org/pipermail/erlang-questions/2011-May/058768.html)
 * [2023-09-25, 01:44:22](https://news.ycombinator.com/item?id=37638840) - [Type 2 diabetes rates in US youth rose 62% after Covid pandemic began](https://www.cidrap.umn.edu/covid-19/type-2-diabetes-rates-us-youth-rose-62-after-covid-pandemic-began-study-suggests)
@@ -18,7 +19,6 @@
 * [2023-09-24, 14:17:48](https://news.ycombinator.com/item?id=37633358) - [PiWrite – Kindle Paperwhite to Write](https://github.com/rberenguel/PiWrite)
 * [2023-09-24, 14:04:13](https://news.ycombinator.com/item?id=37633230) - [Reverse-engineering the classic MK4116 16-kilobit DRAM chip (2020)](https://www.righto.com/2020/11/reverse-engineering-classic-mk4116-16.html)
 * [2023-09-24, 12:51:00](https://news.ycombinator.com/item?id=37632670) - [Hookworm gave the South a bad name (2016)](https://www.pbs.org/wgbh/nova/article/how-a-worm-gave-the-south-a-bad-name/)
-* [2023-09-24, 11:21:20](https://news.ycombinator.com/item?id=37632096) - [Netflix prepares to send its final red envelope](https://www.nytimes.com/2023/09/23/business/media/netflix-dvds.html)
 * [2023-09-24, 08:46:12](https://news.ycombinator.com/item?id=37631252) - [‘Mind-boggling’ sea creature identified as digenean trematode](https://www.science.org/content/article/mind-boggling-sea-creature-spotted-japan-has-finally-been-identified)
 * [2023-09-24, 08:41:19](https://news.ycombinator.com/item?id=37631225) - [Two-Tower Embedding Model](https://www.hopsworks.ai/dictionary/two-tower-embedding-model)
 * [2023-09-24, 08:10:52](https://news.ycombinator.com/item?id=37631089) - [A hacker's guide to language models [video]](https://www.youtube.com/watch?v=jkrNMKz9pWU)
