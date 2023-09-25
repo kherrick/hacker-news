@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-25](index.md)
 
+* [2023-09-25, 11:28:20](https://news.ycombinator.com/item?id=37642110) - [Lego axes plan to make bricks from recycled bottles](https://www.bbc.com/news/business-66910573)
+* [2023-09-25, 11:16:09](https://news.ycombinator.com/item?id=37642011) - [Show HN: Netmaker – Netmaker Goes Open Source](https://github.com/gravitl/netmaker/blob/master/LICENSE.md)
+* [2023-09-25, 11:05:57](https://news.ycombinator.com/item?id=37641921) - [Apple will charge you way less to fix cracked back glass on an iPhone 15 Pro](https://arstechnica.com/gadgets/2023/09/apple-will-charge-you-way-less-to-fix-cracked-back-glass-on-an-iphone-15-pro/)
 * [2023-09-25, 10:41:31](https://news.ycombinator.com/item?id=37641706) - [OnlyFans](https://onlyfans.web.cern.ch/)
 * [2023-09-25, 10:19:40](https://news.ycombinator.com/item?id=37641583) - [New York employers must include pay rates in job ads under new state law](https://english.elpais.com/economy-and-business/2023-09-17/new-york-employers-must-include-pay-rates-in-job-ads-under-new-state-law.html)
 * [2023-09-25, 09:58:23](https://news.ycombinator.com/item?id=37641471) - [Baby boomers are becoming homeless at a rate not seen since the Great Depression](https://moneywise.com/news/economy/rate-of-homeless-baby-boomers-increasing)
