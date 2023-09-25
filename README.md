@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-25, 18:05:07](https://news.ycombinator.com/item?id=37648068) - [Unity's oldest community announces dissolution](https://bostonunitygroup.s3.us-east-1.amazonaws.com/index.html)
 * [2023-09-25, 17:38:46](https://news.ycombinator.com/item?id=37647677) - [Intel Axes Data Center GPU Max 1350, Preps New Max 1450 for 'Different Markets'](https://www.tomshardware.com/news/intel-axes-data-center-gpu-max-1350-preps-max-1450-for-different-markets)
 * [2023-09-25, 17:35:33](https://news.ycombinator.com/item?id=37647627) - [Kafka as an Antipattern](https://joshaustin.tech/blog/kafka-as-an-antipattern/)
 * [2023-09-25, 17:12:35](https://news.ycombinator.com/item?id=37647265) - [Living Off the Land Binaries](https://github.com/LOLBAS-Project/LOLBAS/blob/master/README.md)
@@ -8,7 +9,6 @@
 * [2023-09-25, 16:25:03](https://news.ycombinator.com/item?id=37646432) - [The SEC Wants to Spy on Your Portfolio](https://www.wsj.com/articles/the-sec-wants-to-spy-on-your-portfolio-surveillance-cat-investors-616737c2)
 * [2023-09-25, 15:55:44](https://news.ycombinator.com/item?id=37645945) - [Saint Helena Island Communications](http://sainthelenaisland.info/communications.htm)
 * [2023-09-25, 15:53:11](https://news.ycombinator.com/item?id=37645896) - [GitHub Passkeys are generally available](https://github.blog/2023-09-21-passkeys-are-generally-available/)
-* [2023-09-25, 15:50:00](https://news.ycombinator.com/item?id=37645829) - [California workers who cut countertops are dying of an incurable disease](https://www.latimes.com/california/story/2023-09-24/silicosis-countertop-workers-engineered-stone)
 * [2023-09-25, 15:35:41](https://news.ycombinator.com/item?id=37645550) - [JDK 21 Security Enhancements](https://seanjmullan.org/blog/2023/09/22/jdk21)
 * [2023-09-25, 15:12:26](https://news.ycombinator.com/item?id=37645160) - [Apache Open Office as an unmaintained project?](https://rocket9labs.com/post/its-time-to-let-go-apache-software-foundation/)
 * [2023-09-25, 15:00:33](https://news.ycombinator.com/item?id=37644952) - [KSP2 is spamming the Windows Registry until the game stops working permanently](https://forum.kerbalspaceprogram.com/topic/219607-ksp2-is-spamming-the-windows-registry-over-weeksmonths-until-the-game-will-stop-working-permanently/)
