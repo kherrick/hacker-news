@@ -7,6 +7,7 @@
 * [2023-09-26, 09:01:12](https://news.ycombinator.com/item?id=37656417) - [Lego axes plan to make bricks from recycled bottles](https://www.bbc.co.uk/news/business-66910573)
 * [2023-09-26, 08:26:21](https://news.ycombinator.com/item?id=37656149) - [How (not) to apply for a software job](https://benhoyt.com/writings/how-to-apply/)
 * [2023-09-26, 08:18:08](https://news.ycombinator.com/item?id=37656091) - [AI is fundamentally ‘a surveillance technology’](https://techcrunch.com/2023/09/25/signals-meredith-whittaker-ai-is-fundamentally-a-surveillance-technology/)
+* [2023-09-26, 08:06:09](https://news.ycombinator.com/item?id=37656002) - [BT confirms it's switching off 3G in UK from Jan next year](https://www.theregister.com/2023/09/19/bt_confirms_nationwide_3g_switch/)
 * [2023-09-26, 07:09:46](https://news.ycombinator.com/item?id=37655544) - [What Is a Vector Database?](https://weaviate.io/blog/what-is-a-vector-database)
 * [2023-09-26, 07:01:45](https://news.ycombinator.com/item?id=37655477) - [macOS Containers v0.0.1](https://macoscontainers.org/)
 * [2023-09-26, 06:10:48](https://news.ycombinator.com/item?id=37655088) - [Are older people less innovative?](https://laetitiaatwork.substack.com/p/are-older-people-less-innovative)
