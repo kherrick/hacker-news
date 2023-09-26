@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
 * [2023-09-26, 04:58:54](https://news.ycombinator.com/item?id=37654600) - [Chip War: The Fight for the Most Critical Technology [video]](https://www.youtube.com/watch?v=2tSs7aESx8s)
+* [2023-09-26, 04:33:24](https://news.ycombinator.com/item?id=37654413) - [iPhone 15 teardown reveals software lockdown](https://www.ifixit.com/News/82867/iphone-15-teardown-reveals-software-lockdown)
 * [2023-09-26, 04:23:15](https://news.ycombinator.com/item?id=37654323) - [Collective letter to unity from game development companies](https://www.homagames.com/blog/collective-letter)
 * [2023-09-26, 04:19:40](https://news.ycombinator.com/item?id=37654289) - [Mammals’ time on Earth is half over, scientists predict](https://www.nytimes.com/2023/09/25/science/future-earth-warming-mammal-extinction.html)
 * [2023-09-26, 03:52:12](https://news.ycombinator.com/item?id=37654100) - [Amazon PillPack – Your medication, sorted and delivered](https://www.pillpack.com)
