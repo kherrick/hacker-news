@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-09-26, 17:00:05",
+      "https://news.ycombinator.com/item?id=37662297"
+    ],
+    [
+      "Byterat (YC W23) Is Hiring a Founding Engineer (San Francisco)",
+      "https://www.ycombinator.com/companies/byterat/jobs/UtaWWqL-founding-engineer"
+    ]
+  ],
+  [
+    [
+      "2023-09-26, 16:59:20",
+      "https://news.ycombinator.com/item?id=37662281"
+    ],
+    [
+      "Digging In: Why Don’t Americans Eat Mutton?",
+      "https://modernfarmer.com/2023/09/digging-in-mutton/"
+    ]
+  ],
+  [
+    [
+      "2023-09-26, 16:31:16",
+      "https://news.ycombinator.com/item?id=37661767"
+    ],
+    [
+      "Show HN: Magentic – Use LLMs as simple Python functions",
+      "https://github.com/jackmpcollins/magentic"
+    ]
+  ],
+  [
+    [
       "2023-09-26, 16:29:56",
       "https://news.ycombinator.com/item?id=37661755"
     ],
@@ -17,6 +47,16 @@
     [
       "FTC files an antitrust lawsuit against Amazon",
       "https://www.theverge.com/2023/9/26/23809817/amazon-ftc-antitrust-lawsuit-monopoly"
+    ]
+  ],
+  [
+    [
+      "2023-09-26, 16:24:12",
+      "https://news.ycombinator.com/item?id=37661653"
+    ],
+    [
+      "8k year ago, 17 women reproduced for every 1 man",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4381518/"
     ]
   ],
   [
@@ -67,16 +107,6 @@
     [
       "Common infections can spark psychiatric illnesses in children",
       "https://www.economist.com/science-and-technology/2023/09/20/how-common-infections-can-spark-psychiatric-illnesses-in-children"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 14:55:44",
-      "https://news.ycombinator.com/item?id=37660327"
-    ],
-    [
-      "Unity U-turns on controversial runtime fee and begs forgiveness",
-      "https://techcrunch.com/2023/09/22/unity-u-turns-on-controversial-runtime-fee-and-begs-forgiveness/"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2023-09-26, 11:33:31",
-      "https://news.ycombinator.com/item?id=37657746"
-    ],
-    [
-      "Google assigns a CVE for libwebp and gives it a 10.0 score",
-      "https://stackdiary.com/heap-buffer-overflow-in-libwebp-cve-2023-5129/"
-    ]
-  ],
-  [
-    [
       "2023-09-26, 11:32:24",
       "https://news.ycombinator.com/item?id=37657736"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2023-09-26, 09:26:40",
-      "https://news.ycombinator.com/item?id=37656646"
-    ],
-    [
-      "NSA, FBI, and CISA Release Cybersecurity Information Sheet on Deepfake Threats",
-      "https://www.cisa.gov/news-events/alerts/2023/09/12/nsa-fbi-and-cisa-release-cybersecurity-information-sheet-deepfake-threats"
-    ]
-  ],
-  [
-    [
       "2023-09-26, 07:01:45",
       "https://news.ycombinator.com/item?id=37655477"
     ],
     [
       "macOS Containers v0.0.1",
       "https://macoscontainers.org/"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 06:37:30",
-      "https://news.ycombinator.com/item?id=37655261"
-    ],
-    [
-      "Batch size one billion: SQLite insert speedups, from the useful to the absurd",
-      "https://voidstar.tech/sqlite_insert_speed/"
     ]
   ],
   [
