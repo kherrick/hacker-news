@@ -47,6 +47,7 @@
 * [2023-09-24, 12:51:00](https://news.ycombinator.com/item?id=37632670) - [How A Worm Gave the South a Bad Name](https://www.pbs.org/wgbh/nova/article/how-a-worm-gave-the-south-a-bad-name/)
 * [2023-09-24, 12:49:23](https://news.ycombinator.com/item?id=37632653) - [Valley Fever Is a Growing Fungal Threat to Outdoor Workers](https://www.scientificamerican.com/article/valley-fever-is-a-growing-fungal-threat-to-outdoor-workers/)
 * [2023-09-24, 12:48:12](https://news.ycombinator.com/item?id=37632639) - [Show HN: OSS PostgreSQL RDS with Supabase,PGML,Vector,HA,PITR,Monitor,&100+ Exts](https://github.com/Vonng/pigsty)
+* [2023-09-24, 12:31:12](https://news.ycombinator.com/item?id=37632509) - [Currencies (On Motivating Different People)](https://www.edbatista.com/2023/09/currencies-on-motivating-different-people.html)
 * [2023-09-24, 11:45:32](https://news.ycombinator.com/item?id=37632232) - [What it takes to pass a file path to a Windows API in C++](https://mastodon.gamedev.place/@AshleyGullen/111109299141510319)
 * [2023-09-24, 11:35:20](https://news.ycombinator.com/item?id=37632174) - [The myth of the myth of learning styles](https://nedbatchelder.com/blog/202309/the_myth_of_the_myth_of_learning_styles.html)
 * [2023-09-24, 11:27:13](https://news.ycombinator.com/item?id=37632122) - [Texas death row inmate at mercy of Supreme Court – and junk science](https://www.theguardian.com/world/2023/sep/24/texas-death-row-robert-roberson-supreme-court-shaken-baby-syndrome)
