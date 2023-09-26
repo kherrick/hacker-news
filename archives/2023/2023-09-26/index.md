@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
+* [2023-09-26, 12:38:19](https://news.ycombinator.com/item?id=37658410) - [Ask HN: Have you been affected by layoffs?](https://news.ycombinator.com/item?id=37658410)
 * [2023-09-26, 12:31:06](https://news.ycombinator.com/item?id=37658319) - [Google is picking ChatGPT responses from Quora as correct answer](https://twitter.com/8teapi/status/1706520893621784780)
 * [2023-09-26, 11:33:31](https://news.ycombinator.com/item?id=37657746) - [Google assigns a CVE for libwebp and gives it a 10.0 score](https://stackdiary.com/heap-buffer-overflow-in-libwebp-cve-2023-5129/)
 * [2023-09-26, 11:06:33](https://news.ycombinator.com/item?id=37657519) - [We bootstrap: Hitting $1.5M ARR with a super lean team](https://www.flagsmith.com/blog/why-we-bootstrap)
@@ -40,4 +41,5 @@
 * [2023-09-26, 03:02:35](https://news.ycombinator.com/item?id=37653804) - [Hotel hackers redirect guests to fake Booking.com to steal cards](https://www.bleepingcomputer.com/news/security/hotel-hackers-redirect-guests-to-fake-bookingcom-to-steal-cards/)
 * [2023-09-26, 02:39:10](https://news.ycombinator.com/item?id=37653656) - [Nickel Hydrogen Batteries by NASA](https://spectrum.ieee.org/grid-scale-battery-storage-nickel-hydrogen)
 * [2023-09-26, 01:28:40](https://news.ycombinator.com/item?id=37653176) - [Mozilla.ai](https://mozilla.ai/about/)
+* [2023-09-26, 00:41:23](https://news.ycombinator.com/item?id=37652832) - [Air Quality Monitors from USD 169 to 6.000 use the same low-cost PM Modules](https://www.airgradient.com/blog/most-aq-monitors-use-same-pm-modules/)
 * [2023-09-26, 00:01:01](https://news.ycombinator.com/item?id=37652479) - [The United States of Bed Bath & Beyond](https://www.epsilontheory.com/the-united-states-of-bed-bath-beyond/)
