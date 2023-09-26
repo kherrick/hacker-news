@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-26, 04:33:24](https://news.ycombinator.com/item?id=37654413) - [iPhone 15 teardown reveals software lockdown](https://www.ifixit.com/News/82867/iphone-15-teardown-reveals-software-lockdown)
+* [2023-09-26, 04:27:48](https://news.ycombinator.com/item?id=37654364) - [The Decline of Condominium Construction in CO: Addressing Litigation Reform](https://commonsenseinstituteco.org/condominium-construction/)
 * [2023-09-26, 04:19:40](https://news.ycombinator.com/item?id=37654289) - [Mammals’ time on Earth is half over, scientists predict](https://www.nytimes.com/2023/09/25/science/future-earth-warming-mammal-extinction.html)
 * [2023-09-26, 03:52:12](https://news.ycombinator.com/item?id=37654100) - [Amazon PillPack – Your medication, sorted and delivered](https://www.pillpack.com)
 * [2023-09-26, 03:07:25](https://news.ycombinator.com/item?id=37653831) - [Costco now offering virtual medical care for $29](https://www.cbsnews.com/news/costco-virtual-medical-checkups-for-29/)
@@ -12,7 +13,6 @@
 * [2023-09-25, 21:47:42](https://news.ycombinator.com/item?id=37651171) - [The SR-71 Blackbird Astro-Nav System worked by tracking the stars](https://theaviationgeekclub.com/the-sr-71-blackbird-astro-nav-system-aka-r2-d2-worked-by-tracking-the-stars-and-was-so-powerful-that-it-could-see-the-stars-even-in-daylight/)
 * [2023-09-25, 21:00:42](https://news.ycombinator.com/item?id=37650533) - [Svix (YC W21) Is Hiring a Technical Lead (US Remote)](https://www.svix.com/careers/)
 * [2023-09-25, 20:20:55](https://news.ycombinator.com/item?id=37650040) - [PostScript’s sudden death in Sonoma](https://eclecticlight.co/2023/09/25/postscripts-sudden-death-in-sonoma/)
-* [2023-09-25, 20:07:43](https://news.ycombinator.com/item?id=37649841) - [Pixel 8 leak promises 7 years of OS updates](https://arstechnica.com/gadgets/2023/09/pixel-8-leak-promises-7-years-of-os-updates-even-more-than-an-iphone/)
 * [2023-09-25, 19:50:03](https://news.ycombinator.com/item?id=37649594) - [John Romero on his book “Doom Guy” and developing games at a small scale](https://howtomarketagame.com/2023/09/25/john-romero-on-his-book-doom-guy-and-developing-games-at-a-small-scale/)
 * [2023-09-25, 19:40:54](https://news.ycombinator.com/item?id=37649448) - [DJI Mini 4 Pro](https://www.dji.com/mini-4-pro)
 * [2023-09-25, 18:28:13](https://news.ycombinator.com/item?id=37648415) - [Show HN: DitchTheBell – Linux-based desktop notifier for RSS/Atom feeds](https://github.com/EscherMoore/DitchTheBell)
