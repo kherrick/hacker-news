@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
+* [2023-09-26, 05:39:19](https://news.ycombinator.com/item?id=37654891) - [Quadlets might make me finally stop using Docker-compose – Major Hayden](https://major.io/p/quadlets-replace-docker-compose/)
+* [2023-09-26, 05:24:10](https://news.ycombinator.com/item?id=37654792) - [I was happy, sad, lost and lonely without a smartphone at the same time](https://ruky.me/2023/09/26/i-was-happy-sad-lost-and-lonely-without-a-smartphone-at-the-same-time/)
+* [2023-09-26, 05:04:16](https://news.ycombinator.com/item?id=37654653) - [John Carmack and Rich Sutton partner to accelerate development of AGI](https://www.globenewswire.com/news-release/2023/09/25/2749057/0/en/John-Carmack-and-Rich-Sutton-partner-to-accelerate-development-of-Artificial-General-Intelligence.html)
 * [2023-09-26, 04:58:54](https://news.ycombinator.com/item?id=37654600) - [Chip War: The Fight for the Most Critical Technology [video]](https://www.youtube.com/watch?v=2tSs7aESx8s)
 * [2023-09-26, 04:33:24](https://news.ycombinator.com/item?id=37654413) - [iPhone 15 teardown reveals software lockdown](https://www.ifixit.com/News/82867/iphone-15-teardown-reveals-software-lockdown)
 * [2023-09-26, 04:27:48](https://news.ycombinator.com/item?id=37654364) - [The Decline of Condominium Construction in CO: Addressing Litigation Reform](https://commonsenseinstituteco.org/condominium-construction/)
