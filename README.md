@@ -4,7 +4,6 @@
 * [2023-09-26, 05:24:10](https://news.ycombinator.com/item?id=37654792) - [I was happy, sad, lost and lonely without a smartphone at the same time](https://ruky.me/2023/09/26/i-was-happy-sad-lost-and-lonely-without-a-smartphone-at-the-same-time/)
 * [2023-09-26, 05:04:16](https://news.ycombinator.com/item?id=37654653) - [John Carmack and Rich Sutton partner to accelerate development of AGI](https://www.globenewswire.com/news-release/2023/09/25/2749057/0/en/John-Carmack-and-Rich-Sutton-partner-to-accelerate-development-of-Artificial-General-Intelligence.html)
 * [2023-09-26, 04:33:24](https://news.ycombinator.com/item?id=37654413) - [iPhone 15 teardown reveals software lockdown](https://www.ifixit.com/News/82867/iphone-15-teardown-reveals-software-lockdown)
-* [2023-09-26, 04:27:48](https://news.ycombinator.com/item?id=37654364) - [The Decline of Condominium Construction in CO: Addressing Litigation Reform](https://commonsenseinstituteco.org/condominium-construction/)
 * [2023-09-26, 04:19:40](https://news.ycombinator.com/item?id=37654289) - [Mammals’ time on Earth is half over, scientists predict](https://www.nytimes.com/2023/09/25/science/future-earth-warming-mammal-extinction.html)
 * [2023-09-26, 03:52:12](https://news.ycombinator.com/item?id=37654100) - [Amazon PillPack – Your medication, sorted and delivered](https://www.pillpack.com)
 * [2023-09-26, 03:07:25](https://news.ycombinator.com/item?id=37653831) - [Costco now offering virtual medical care for $29](https://www.cbsnews.com/news/costco-virtual-medical-checkups-for-29/)
@@ -28,6 +27,7 @@
 * [2023-09-25, 07:39:03](https://news.ycombinator.com/item?id=37640643) - [Intel’s Ponte Vecchio: Chiplets Gone Crazy](https://chipsandcheese.com/2023/09/23/intels-ponte-vecchio-chiplets-gone-crazy/)
 * [2023-09-25, 03:04:38](https://news.ycombinator.com/item?id=37639267) - [When I stopped trying to self-optimize, I got better](https://www.nytimes.com/2023/09/17/opinion/sports-zen-mental-subtraction.html)
 * [2023-09-25, 00:02:15](https://news.ycombinator.com/item?id=37638328) - [Open Air Schools of the 1900s](https://blog.britishnewspaperarchive.co.uk/2023/09/21/understanding-the-open-air-schools-of-the-1900s/)
+* [2023-09-24, 08:10:52](https://news.ycombinator.com/item?id=37631089) - [A hacker's guide to language models [video]](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 * [2023-09-24, 06:18:45](https://news.ycombinator.com/item?id=37630589) - [TikTok is changing the way books are recommended and sold](https://www.economist.com/culture/2023/09/21/tiktok-is-changing-the-way-books-are-recommended-and-sold)
 * [2023-09-24, 06:07:38](https://news.ycombinator.com/item?id=37630543) - [Time Doesn’t Belong to Physics – When Bergson met Einstein](https://iai.tv/articles/time-doesnt-belong-to-physics-jimena-canales-auid-2607)
 
