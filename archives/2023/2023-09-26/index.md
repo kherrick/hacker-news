@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
+* [2023-09-26, 10:46:51](https://news.ycombinator.com/item?id=37657334) - [Spanish cancels Pegasus spyware investigation because Israel is not co-operating](https://www.theguardian.com/world/2023/jul/10/spain-closes-pegasus-investigation-over-lack-of-cooperation-from-israel)
 * [2023-09-26, 09:26:40](https://news.ycombinator.com/item?id=37656646) - [NSA, FBI, and CISA Release Cybersecurity Information Sheet on Deepfake Threats](https://www.cisa.gov/news-events/alerts/2023/09/12/nsa-fbi-and-cisa-release-cybersecurity-information-sheet-deepfake-threats)
 * [2023-09-26, 09:01:12](https://news.ycombinator.com/item?id=37656417) - [Lego axes plan to make bricks from recycled bottles](https://www.bbc.co.uk/news/business-66910573)
 * [2023-09-26, 08:41:15](https://news.ycombinator.com/item?id=37656257) - [UI frameworks are stuck in the last decade](https://moonthought.github.io/posts/all-your-mainstream-ui-frameworks-are-lying-to-you/)
