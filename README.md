@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-26, 04:23:15](https://news.ycombinator.com/item?id=37654323) - [Collective letter to unity from game development companies](https://www.homagames.com/blog/collective-letter)
 * [2023-09-26, 03:32:28](https://news.ycombinator.com/item?id=37653982) - [Lego Says It Won't Use Recycled Plastic Because It Doesnt Help the Planet](https://gizmodo.com.au/2023/09/lego-says-it-wont-use-recycled-plastic-for-bricks-because-it-doesnt-really-help-the-planet/)
 * [2023-09-26, 03:19:49](https://news.ycombinator.com/item?id=37653905) - [Why America Has a Long-Term Labor Crisis, in Six Charts](https://www.wsj.com/economy/jobs/labor-supply-economy-jobs-charts-3285a5b7)
 * [2023-09-26, 03:07:25](https://news.ycombinator.com/item?id=37653831) - [Costco now offering virtual medical care for $29](https://www.cbsnews.com/news/costco-virtual-medical-checkups-for-29/)
@@ -23,7 +24,6 @@
 * [2023-09-25, 12:19:32](https://news.ycombinator.com/item?id=37642538) - [The Casino in Your Pocket](https://blog.curtii.com/blog/posts/wordscapes-the-casino-in-your-pocket/)
 * [2023-09-25, 11:24:16](https://news.ycombinator.com/item?id=37642076) - [Ask HN: Android low latency audio in 2023](https://news.ycombinator.com/item?id=37642076)
 * [2023-09-25, 10:21:12](https://news.ycombinator.com/item?id=37641590) - [Nuvem, a subsea cable to connect Portugal, Bermuda, and the U.S.](https://cloud.google.com/blog/products/infrastructure/introducing-the-nuvem-subsea-cable/)
-* [2023-09-25, 10:06:41](https://news.ycombinator.com/item?id=37641507) - [Mars and Our Search for Meaning](https://www.themarginalian.org/2023/09/18/the-sirens-of-mars/)
 * [2023-09-25, 09:49:15](https://news.ycombinator.com/item?id=37641416) - [Intel Meteor Lake Architecture](https://hothardware.com/reviews/intel-meteor-lake-architecture)
 * [2023-09-25, 07:39:03](https://news.ycombinator.com/item?id=37640643) - [Intel’s Ponte Vecchio: Chiplets Gone Crazy](https://chipsandcheese.com/2023/09/23/intels-ponte-vecchio-chiplets-gone-crazy/)
 * [2023-09-25, 03:04:38](https://news.ycombinator.com/item?id=37639267) - [When I stopped trying to self-optimize, I got better](https://www.nytimes.com/2023/09/17/opinion/sports-zen-mental-subtraction.html)
