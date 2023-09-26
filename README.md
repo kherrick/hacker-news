@@ -2,6 +2,7 @@
 
 * [2023-09-26, 15:15:32](https://news.ycombinator.com/item?id=37660586) - [Hedge Fund Made a Killing Betting Against Lina Khan](https://www.wsj.com/us-news/law/the-hedge-fund-that-made-a-killing-betting-against-lina-khan-d5b395b1)
 * [2023-09-26, 14:55:44](https://news.ycombinator.com/item?id=37660327) - [Unity U-turns on controversial runtime fee and begs forgiveness](https://techcrunch.com/2023/09/22/unity-u-turns-on-controversial-runtime-fee-and-begs-forgiveness/)
+* [2023-09-26, 14:42:46](https://news.ycombinator.com/item?id=37660146) - [ArcEm – The Acorn Archimedes Emulator](https://arcem.sourceforge.net/)
 * [2023-09-26, 14:41:30](https://news.ycombinator.com/item?id=37660120) - [Apple exec Eddy Cue set to testify in Google trial about $19B search deal](https://www.cnbc.com/2023/09/26/apple-exec-eddy-cue-testify-google-trial-about-19-billion-search-deal.html)
 * [2023-09-26, 14:36:18](https://news.ycombinator.com/item?id=37660025) - [Spinneret: A modern Common Lisp HTML generator](https://github.com/ruricolist/spinneret)
 * [2023-09-26, 14:07:19](https://news.ycombinator.com/item?id=37659542) - [Harvard: Student Use Cases for AI](https://hbsp.harvard.edu/inspiring-minds/student-use-cases-for-ai)
@@ -18,7 +19,6 @@
 * [2023-09-26, 11:32:24](https://news.ycombinator.com/item?id=37657736) - [DuckDB 0.9.0](https://duckdb.org/2023/09/26/announcing-duckdb-090.html)
 * [2023-09-26, 11:06:33](https://news.ycombinator.com/item?id=37657519) - [Why we bootstrap](https://www.flagsmith.com/blog/why-we-bootstrap)
 * [2023-09-26, 10:50:26](https://news.ycombinator.com/item?id=37657368) - [Google Ngram Viewer n-grams are wrong](https://www.etymonline.com/columns/post/who-lusts-for-certainty-lusts-for-lies)
-* [2023-09-26, 10:46:51](https://news.ycombinator.com/item?id=37657334) - [Spain cancels Pegasus spyware investigation because Israel is not co-operating](https://www.theguardian.com/world/2023/jul/10/spain-closes-pegasus-investigation-over-lack-of-cooperation-from-israel)
 * [2023-09-26, 09:26:40](https://news.ycombinator.com/item?id=37656646) - [NSA, FBI, and CISA Release Cybersecurity Information Sheet on Deepfake Threats](https://www.cisa.gov/news-events/alerts/2023/09/12/nsa-fbi-and-cisa-release-cybersecurity-information-sheet-deepfake-threats)
 * [2023-09-26, 08:28:59](https://news.ycombinator.com/item?id=37656170) - [FCC aims to reinstate net neutrality after us Democrats gain control of panel](https://www.bloomberg.com/news/articles/2023-09-26/fcc-aims-to-reinstate-net-neutrality-rules-as-us-democrats-gain-control-of-panel)
 * [2023-09-26, 07:01:45](https://news.ycombinator.com/item?id=37655477) - [macOS Containers v0.0.1](https://macoscontainers.org/)
@@ -27,7 +27,7 @@
 * [2023-09-26, 05:39:19](https://news.ycombinator.com/item?id=37654891) - [Quadlets might make me finally stop using docker-compose](https://major.io/p/quadlets-replace-docker-compose/)
 * [2023-09-26, 02:39:10](https://news.ycombinator.com/item?id=37653656) - [Nickel Hydrogen Batteries by NASA](https://spectrum.ieee.org/grid-scale-battery-storage-nickel-hydrogen)
 * [2023-09-25, 21:47:42](https://news.ycombinator.com/item?id=37651171) - [The SR-71 Blackbird Astro-Nav System worked by tracking the stars](https://theaviationgeekclub.com/the-sr-71-blackbird-astro-nav-system-aka-r2-d2-worked-by-tracking-the-stars-and-was-so-powerful-that-it-could-see-the-stars-even-in-daylight/)
-* [2023-09-25, 21:00:42](https://news.ycombinator.com/item?id=37650533) - [Svix (YC W21) Is Hiring a Technical Lead (US Remote)](https://www.svix.com/careers/)
+* [2023-09-25, 15:59:13](https://news.ycombinator.com/item?id=37646008) - [Verilog to Routing](https://verilogtorouting.org/)
 * [2023-09-25, 14:37:55](https://news.ycombinator.com/item?id=37644543) - [Viable ROP-free roadmap for i386/armv8/riscv64/alpha/sparc64](https://marc.info/?l=openbsd-tech&m=169558749114476&w=2)
 * [2023-09-25, 12:19:32](https://news.ycombinator.com/item?id=37642538) - [The casino in your pocket](https://blog.curtii.com/blog/posts/wordscapes-the-casino-in-your-pocket/)
 

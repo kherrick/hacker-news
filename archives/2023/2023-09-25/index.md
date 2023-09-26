@@ -50,6 +50,7 @@
 * [2023-09-25, 16:27:29](https://news.ycombinator.com/item?id=37646472) - [How We Made PostgreSQL a Better Vector Database](https://www.timescale.com/blog/how-we-made-postgresql-the-best-vector-database/)
 * [2023-09-25, 16:25:03](https://news.ycombinator.com/item?id=37646432) - [The SEC Wants to Spy on Your Portfolio](https://www.wsj.com/articles/the-sec-wants-to-spy-on-your-portfolio-surveillance-cat-investors-616737c2)
 * [2023-09-25, 16:14:10](https://news.ycombinator.com/item?id=37646257) - [Show HN: Generate a concatenated file of all CSS used on a given website](https://mikaei.github.io/mouthful/)
+* [2023-09-25, 15:59:13](https://news.ycombinator.com/item?id=37646008) - [Verilog to Routing](https://verilogtorouting.org/)
 * [2023-09-25, 15:57:24](https://news.ycombinator.com/item?id=37645974) - [Copyright liability for generative AI pivots on fair use doctrine](https://news.bloomberglaw.com/us-law-week/copyright-liability-for-generative-ai-pivots-on-fair-use-doctrine)
 * [2023-09-25, 15:55:44](https://news.ycombinator.com/item?id=37645945) - [Saint Helena Island Communications](http://sainthelenaisland.info/communications.htm)
 * [2023-09-25, 15:53:11](https://news.ycombinator.com/item?id=37645896) - [GitHub Passkeys are generally available](https://github.blog/2023-09-21-passkeys-are-generally-available/)
