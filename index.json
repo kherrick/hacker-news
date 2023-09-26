@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-09-26, 18:25:50",
-      "https://news.ycombinator.com/item?id=37663694"
+      "2023-09-26, 18:14:53",
+      "https://news.ycombinator.com/item?id=37663529"
     ],
     [
-      "List of FPGA-Based Computing Machines",
-      "https://cmpware.com/io.com/guccione/HW_list.html"
+      "Deep-TEMPEST: Recovering images from unintentional EM radiation of HDMI",
+      "https://twitter.com/fedelarrocca/status/1688990564576854018"
+    ]
+  ],
+  [
+    [
+      "2023-09-26, 18:14:23",
+      "https://news.ycombinator.com/item?id=37663523"
+    ],
+    [
+      "Causality for Machine Learning",
+      "https://ff13.fastforwardlabs.com/"
     ]
   ],
   [
@@ -21,12 +31,32 @@
   ],
   [
     [
+      "2023-09-26, 17:54:42",
+      "https://news.ycombinator.com/item?id=37663194"
+    ],
+    [
+      "ROCm Is AMD's #1 Priority, Executive Says",
+      "https://www.eetimes.com/rocm-is-amds-no-1-priority-exec-says/"
+    ]
+  ],
+  [
+    [
       "2023-09-26, 17:39:51",
       "https://news.ycombinator.com/item?id=37662937"
     ],
     [
       "Ask HN: Tips for Solopreneur?",
       "https://news.ycombinator.com/item?id=37662937"
+    ]
+  ],
+  [
+    [
+      "2023-09-26, 17:21:12",
+      "https://news.ycombinator.com/item?id=37662655"
+    ],
+    [
+      "Exploring Linux command-line space time",
+      "https://fabiensanglard.net/st/index.html"
     ]
   ],
   [
@@ -101,6 +131,16 @@
   ],
   [
     [
+      "2023-09-26, 16:09:22",
+      "https://news.ycombinator.com/item?id=37661431"
+    ],
+    [
+      "Classic rock, Mario Kart, and why we can’t agree on Tailwind",
+      "https://joshcollinsworth.com/blog/tailwind-is-smart-steering"
+    ]
+  ],
+  [
+    [
       "2023-09-26, 16:06:21",
       "https://news.ycombinator.com/item?id=37661387"
     ],
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2023-09-26, 13:41:45",
-      "https://news.ycombinator.com/item?id=37659164"
-    ],
-    [
-      "Freelancers aren’t happy with Japan’s new invoice system",
-      "https://www.japantimes.co.jp/community/2023/09/25/how-tos/freelancer-tax-system/"
-    ]
-  ],
-  [
-    [
       "2023-09-26, 13:40:41",
       "https://news.ycombinator.com/item?id=37659153"
     ],
@@ -207,36 +237,6 @@
     [
       "Yandex open sourced it's BI tool DataLens",
       "https://github.com/datalens-tech"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 11:32:24",
-      "https://news.ycombinator.com/item?id=37657736"
-    ],
-    [
-      "DuckDB 0.9",
-      "https://duckdb.org/2023/09/26/announcing-duckdb-090.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 10:50:26",
-      "https://news.ycombinator.com/item?id=37657368"
-    ],
-    [
-      "Google Ngram Viewer n-grams are wrong",
-      "https://www.etymonline.com/columns/post/who-lusts-for-certainty-lusts-for-lies"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 07:01:45",
-      "https://news.ycombinator.com/item?id=37655477"
-    ],
-    [
-      "macOS Containers v0.0.1",
-      "https://macoscontainers.org/"
     ]
   ],
   [
