@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
+* [2023-09-26, 16:29:56](https://news.ycombinator.com/item?id=37661755) - [Show HN: Ollama for Linux – Run LLMs on Linux with GPU Acceleration](https://github.com/jmorganca/ollama/releases/tag/v0.1.0)
+* [2023-09-26, 16:26:51](https://news.ycombinator.com/item?id=37661693) - [FTC files an antitrust lawsuit against Amazon](https://www.theverge.com/2023/9/26/23809817/amazon-ftc-antitrust-lawsuit-monopoly)
+* [2023-09-26, 16:21:30](https://news.ycombinator.com/item?id=37661609) - [9th Circuit rejects TSA claim of impunity for checkpoint staff who rape traveler](https://papersplease.org/wp/2023/06/26/9th-circuit-rejects-tsa-claim-of-impunity-for-checkpoint-staff-who-rape-travelers/)
 * [2023-09-26, 16:10:40](https://news.ycombinator.com/item?id=37661446) - [FTC Sues Amazon for Illegally Maintaining Monopoly Power](https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power)
 * [2023-09-26, 16:06:21](https://news.ycombinator.com/item?id=37661387) - [Yet another E-Ink weather display – but with Rust](https://harrystern.net/halldisplay.html)
 * [2023-09-26, 15:52:31](https://news.ycombinator.com/item?id=37661163) - [Ask HN: Best practices for safeguarding master password in organization?](https://news.ycombinator.com/item?id=37661163)
