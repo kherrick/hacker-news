@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-09-26, 18:25:50",
+      "https://news.ycombinator.com/item?id=37663694"
+    ],
+    [
+      "List of FPGA-Based Computing Machines",
+      "https://cmpware.com/io.com/guccione/HW_list.html"
+    ]
+  ],
+  [
+    [
       "2023-09-26, 17:58:47",
       "https://news.ycombinator.com/item?id=37663270"
     ],
     [
       "Show HN: Unity like game editor running in pure WASM",
       "https://raverie-us.github.io/raverie-engine/"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 17:46:05",
-      "https://news.ycombinator.com/item?id=37663035"
-    ],
-    [
-      "I'm convinced now that “personal LLMs” are going to be a huge thing",
-      "https://old.reddit.com/r/LocalLLaMA/comments/16au3ga/im_convinced_now_that_personal_llms_are_going_to/"
     ]
   ],
   [
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=37661755"
     ],
     [
-      "Show HN: Ollama for Linux – Run LLMs on Linux with GPU Acceleration",
+      "Ollama for Linux – Run LLMs on Linux with GPU Acceleration",
       "https://github.com/jmorganca/ollama/releases/tag/v0.1.0"
     ]
   ],
@@ -121,32 +121,12 @@
   ],
   [
     [
-      "2023-09-26, 14:50:35",
-      "https://news.ycombinator.com/item?id=37660256"
-    ],
-    [
-      "Investigation: 78% of carbon offset projects globally are “likely junk“",
-      "https://www.power-technology.com/news/report-majority-carbon-offsets-junk-or-useless/"
-    ]
-  ],
-  [
-    [
       "2023-09-26, 14:42:46",
       "https://news.ycombinator.com/item?id=37660146"
     ],
     [
       "ArcEm – The Acorn Archimedes Emulator",
       "https://arcem.sourceforge.net/"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 14:41:30",
-      "https://news.ycombinator.com/item?id=37660120"
-    ],
-    [
-      "Apple exec Eddy Cue set to testify in Google trial about $19B search deal",
-      "https://www.cnbc.com/2023/09/26/apple-exec-eddy-cue-testify-google-trial-about-19-billion-search-deal.html"
     ]
   ],
   [
@@ -177,6 +157,16 @@
     [
       "Newly discovered deep-sea enzyme breaks down PET plastic",
       "https://phys.org/news/2023-09-newly-deep-sea-enzyme-pet-plastic.amp"
+    ]
+  ],
+  [
+    [
+      "2023-09-26, 13:41:45",
+      "https://news.ycombinator.com/item?id=37659164"
+    ],
+    [
+      "Freelancers aren’t happy with Japan’s new invoice system",
+      "https://www.japantimes.co.jp/community/2023/09/25/how-tos/freelancer-tax-system/"
     ]
   ],
   [
@@ -225,8 +215,18 @@
       "https://news.ycombinator.com/item?id=37657736"
     ],
     [
-      "DuckDB 0.9.0",
+      "DuckDB 0.9",
       "https://duckdb.org/2023/09/26/announcing-duckdb-090.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-26, 10:50:26",
+      "https://news.ycombinator.com/item?id=37657368"
+    ],
+    [
+      "Google Ngram Viewer n-grams are wrong",
+      "https://www.etymonline.com/columns/post/who-lusts-for-certainty-lusts-for-lies"
     ]
   ],
   [
