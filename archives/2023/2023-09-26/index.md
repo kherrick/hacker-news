@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
+* [2023-09-26, 14:55:44](https://news.ycombinator.com/item?id=37660327) - [Unity U-turns on controversial runtime fee and begs forgiveness](https://techcrunch.com/2023/09/22/unity-u-turns-on-controversial-runtime-fee-and-begs-forgiveness/)
 * [2023-09-26, 14:41:30](https://news.ycombinator.com/item?id=37660120) - [Apple exec Eddy Cue set to testify in Google trial about $19B search deal](https://www.cnbc.com/2023/09/26/apple-exec-eddy-cue-testify-google-trial-about-19-billion-search-deal.html)
 * [2023-09-26, 14:24:59](https://news.ycombinator.com/item?id=37659837) - [Google Maps has become significantly less usable of late](https://twitter.com/kevins8/status/1706673798068813897?s=20)
 * [2023-09-26, 14:04:11](https://news.ycombinator.com/item?id=37659482) - [Google Podcasts to shut down in 2024](https://techcrunch.com/2023/09/26/google-podcasts-to-shut-down-in-2024-with-listeners-migrated-to-youtube-music/)

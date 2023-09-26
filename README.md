@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-26, 14:55:44](https://news.ycombinator.com/item?id=37660327) - [Unity U-turns on controversial runtime fee and begs forgiveness](https://techcrunch.com/2023/09/22/unity-u-turns-on-controversial-runtime-fee-and-begs-forgiveness/)
 * [2023-09-26, 14:41:30](https://news.ycombinator.com/item?id=37660120) - [Apple exec Eddy Cue set to testify in Google trial about $19B search deal](https://www.cnbc.com/2023/09/26/apple-exec-eddy-cue-testify-google-trial-about-19-billion-search-deal.html)
 * [2023-09-26, 14:04:11](https://news.ycombinator.com/item?id=37659482) - [Google Podcasts to shut down in 2024](https://techcrunch.com/2023/09/26/google-podcasts-to-shut-down-in-2024-with-listeners-migrated-to-youtube-music/)
 * [2023-09-26, 13:52:58](https://news.ycombinator.com/item?id=37659327) - [Newly discovered deep-sea enzyme breaks down PET plastic](https://phys.org/news/2023-09-newly-deep-sea-enzyme-pet-plastic.amp)
@@ -23,7 +24,6 @@
 * [2023-09-26, 05:39:19](https://news.ycombinator.com/item?id=37654891) - [Quadlets might make me finally stop using docker-compose](https://major.io/p/quadlets-replace-docker-compose/)
 * [2023-09-26, 02:39:10](https://news.ycombinator.com/item?id=37653656) - [Nickel Hydrogen Batteries by NASA](https://spectrum.ieee.org/grid-scale-battery-storage-nickel-hydrogen)
 * [2023-09-26, 00:41:23](https://news.ycombinator.com/item?id=37652832) - [Air Quality Monitors from USD $169 to $6k use the same low-cost PM Modules](https://www.airgradient.com/blog/most-aq-monitors-use-same-pm-modules/)
-* [2023-09-25, 21:55:07](https://news.ycombinator.com/item?id=37651260) - [Is Math Real?](https://maa.org/press/maa-reviews/is-math-real)
 * [2023-09-25, 21:47:42](https://news.ycombinator.com/item?id=37651171) - [The SR-71 Blackbird Astro-Nav System worked by tracking the stars](https://theaviationgeekclub.com/the-sr-71-blackbird-astro-nav-system-aka-r2-d2-worked-by-tracking-the-stars-and-was-so-powerful-that-it-could-see-the-stars-even-in-daylight/)
 * [2023-09-25, 21:00:42](https://news.ycombinator.com/item?id=37650533) - [Svix (YC W21) Is Hiring a Technical Lead (US Remote)](https://www.svix.com/careers/)
 * [2023-09-25, 19:40:54](https://news.ycombinator.com/item?id=37649448) - [DJI Mini 4 Pro](https://www.dji.com/mini-4-pro)
