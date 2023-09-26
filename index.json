@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-09-26, 21:00:07",
-      "https://news.ycombinator.com/item?id=37665747"
-    ],
-    [
-      "EasyPost (YC S13) Is Hiring",
-      "https://www.easypost.com/careers"
-    ]
-  ],
-  [
-    [
       "2023-09-26, 20:57:32",
       "https://news.ycombinator.com/item?id=37665709"
     ],
@@ -45,8 +35,18 @@
       "https://news.ycombinator.com/item?id=37663820"
     ],
     [
-      "Facebook Prophet: library for generating forecasts from any time series data",
+      "Prophet: Automatic Forecasting Procedure",
       "https://github.com/facebook/prophet"
+    ]
+  ],
+  [
+    [
+      "2023-09-26, 18:28:20",
+      "https://news.ycombinator.com/item?id=37663725"
+    ],
+    [
+      "EU tells Apple to open everything up to its rivals",
+      "https://appleinsider.com/articles/23/09/26/eu-tells-apple-to-open-everything-up-to-its-rivals"
     ]
   ],
   [
@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2023-09-26, 17:29:57",
-      "https://news.ycombinator.com/item?id=37662791"
-    ],
-    [
-      "macOS 14 Sonoma firewall bug fixed",
-      "https://mullvad.net/en/blog/2023/9/22/macos-14-sonoma-firewall-bug-fixed/"
-    ]
-  ],
-  [
-    [
       "2023-09-26, 17:21:12",
       "https://news.ycombinator.com/item?id=37662655"
     ],
@@ -137,6 +127,16 @@
     [
       "Vizro – toolkit for creating modular data visualization applications",
       "https://github.com/mckinsey/vizro"
+    ]
+  ],
+  [
+    [
+      "2023-09-26, 17:00:05",
+      "https://news.ycombinator.com/item?id=37662297"
+    ],
+    [
+      "Byterat (YC W23) Is Hiring a Founding Engineer (San Francisco)",
+      "https://www.ycombinator.com/companies/byterat/jobs/UtaWWqL-founding-engineer"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2023-09-26, 13:37:02",
-      "https://news.ycombinator.com/item?id=37659110"
-    ],
-    [
-      "How to make history with LLMs and other generative models",
-      "https://leighmariebraswell.substack.com/p/how-to-make-history-with-llms-and"
-    ]
-  ],
-  [
-    [
       "2023-09-26, 13:07:13",
       "https://news.ycombinator.com/item?id=37658714"
     ],
@@ -235,7 +225,7 @@
       "https://news.ycombinator.com/item?id=37654751"
     ],
     [
-      "Mathematicians Cross the Line to Get to the Point",
+      "Mathematicians cross the line to get to the point",
       "https://www.quantamagazine.org/mathematicians-cross-the-line-to-get-to-the-point-20230925/"
     ]
   ],
@@ -245,7 +235,7 @@
       "https://news.ycombinator.com/item?id=37649250"
     ],
     [
-      "J. G. Ballard’s Brilliant, “Not Good” Writing",
+      "J. G. Ballard’s brilliant, “not good” writing",
       "https://www.theparisreview.org/blog/2023/09/22/j-g-ballards-brilliant-not-good-writing/"
     ]
   ],
@@ -277,6 +267,16 @@
     [
       "Box of donated artifacts turns out to be treasure trove of Neanderthal bones",
       "https://phys.org/news/2023-09-donated-artifacts-treasure-trove-neanderthal.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-25, 10:35:44",
+      "https://news.ycombinator.com/item?id=37641658"
+    ],
+    [
+      "A new architecture for publishing web content to desktop",
+      "https://www.construct.net/en/blogs/construct-official-blog-1/new-architecture-publishing-1864"
     ]
   ],
   [
