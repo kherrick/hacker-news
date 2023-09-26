@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-26, 03:32:28](https://news.ycombinator.com/item?id=37653982) - [Lego Says It Won't Use Recycled Plastic Because It Doesnt Help the Planet](https://gizmodo.com.au/2023/09/lego-says-it-wont-use-recycled-plastic-for-bricks-because-it-doesnt-really-help-the-planet/)
 * [2023-09-26, 03:07:25](https://news.ycombinator.com/item?id=37653831) - [Costco now offering virtual medical care for $29](https://www.cbsnews.com/news/costco-virtual-medical-checkups-for-29/)
 * [2023-09-26, 03:02:35](https://news.ycombinator.com/item?id=37653804) - [Hotel hackers redirect guests to fake Booking.com to steal cards](https://www.bleepingcomputer.com/news/security/hotel-hackers-redirect-guests-to-fake-bookingcom-to-steal-cards/)
 * [2023-09-26, 00:01:01](https://news.ycombinator.com/item?id=37652479) - [The United States of Bed Bath & Beyond](https://www.epsilontheory.com/the-united-states-of-bed-bath-beyond/)
@@ -13,7 +14,6 @@
 * [2023-09-25, 19:58:17](https://news.ycombinator.com/item?id=37649708) - [Trust arrives on foot and leaves on horseback (2020)](https://thalein.medium.com/trust-arrives-on-foot-and-leaves-on-horseback-aacde6e69163)
 * [2023-09-25, 19:50:03](https://news.ycombinator.com/item?id=37649594) - [John Romero on his book “Doom Guy” and developing games at a small scale](https://howtomarketagame.com/2023/09/25/john-romero-on-his-book-doom-guy-and-developing-games-at-a-small-scale/)
 * [2023-09-25, 19:40:54](https://news.ycombinator.com/item?id=37649448) - [DJI Mini 4 Pro](https://www.dji.com/mini-4-pro)
-* [2023-09-25, 19:34:11](https://news.ycombinator.com/item?id=37649353) - [F-35A has flown from a highway for the first time](https://www.thedrive.com/the-war-zone/f-35a-has-flown-from-a-highway-for-the-first-time)
 * [2023-09-25, 18:28:13](https://news.ycombinator.com/item?id=37648415) - [Show HN: DitchTheBell – Linux-based desktop notifier for RSS/Atom feeds](https://github.com/EscherMoore/DitchTheBell)
 * [2023-09-25, 18:07:24](https://news.ycombinator.com/item?id=37648098) - [Show HN: Minum – A minimal Java web framework](https://github.com/byronka/minum)
 * [2023-09-25, 18:05:07](https://news.ycombinator.com/item?id=37648068) - [Unity's oldest community announces dissolution](http://farewell.bostonunitygroup.com/)
