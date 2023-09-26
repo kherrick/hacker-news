@@ -9,6 +9,7 @@
 * [2023-09-26, 03:07:25](https://news.ycombinator.com/item?id=37653831) - [Costco now offering virtual medical care for $29](https://www.cbsnews.com/news/costco-virtual-medical-checkups-for-29/)
 * [2023-09-26, 02:39:10](https://news.ycombinator.com/item?id=37653656) - [Nickel Hydrogen Batteries by NASA](https://spectrum.ieee.org/grid-scale-battery-storage-nickel-hydrogen)
 * [2023-09-26, 00:01:01](https://news.ycombinator.com/item?id=37652479) - [The United States of Bed Bath & Beyond](https://www.epsilontheory.com/the-united-states-of-bed-bath-beyond/)
+* [2023-09-25, 23:58:21](https://news.ycombinator.com/item?id=37652456) - [Burkey Belser, designer of the nutrition facts label, has died](https://www.washingtonpost.com/obituaries/2023/09/25/burkey-belser-designer-of-ubiquitous-nutrition-facts-label-dies-at-76/)
 * [2023-09-25, 23:03:11](https://news.ycombinator.com/item?id=37651962) - [‘All of Sony Systems’ Allegedly Hacked by New Ransomware Group](https://kotaku.com/sony-playstation-hack-breach-ransomware-ransomed-vc-1850870993)
 * [2023-09-25, 21:55:07](https://news.ycombinator.com/item?id=37651260) - [Is Math Real?](https://maa.org/press/maa-reviews/is-math-real)
 * [2023-09-25, 21:47:42](https://news.ycombinator.com/item?id=37651171) - [The SR-71 Blackbird Astro-Nav System worked by tracking the stars](https://theaviationgeekclub.com/the-sr-71-blackbird-astro-nav-system-aka-r2-d2-worked-by-tracking-the-stars-and-was-so-powerful-that-it-could-see-the-stars-even-in-daylight/)
@@ -29,7 +30,6 @@
 * [2023-09-25, 00:02:15](https://news.ycombinator.com/item?id=37638328) - [Open Air Schools of the 1900s](https://blog.britishnewspaperarchive.co.uk/2023/09/21/understanding-the-open-air-schools-of-the-1900s/)
 * [2023-09-24, 08:10:52](https://news.ycombinator.com/item?id=37631089) - [A hacker's guide to language models [video]](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 * [2023-09-24, 06:18:45](https://news.ycombinator.com/item?id=37630589) - [TikTok is changing the way books are recommended and sold](https://www.economist.com/culture/2023/09/21/tiktok-is-changing-the-way-books-are-recommended-and-sold)
-* [2023-09-24, 06:07:38](https://news.ycombinator.com/item?id=37630543) - [Time Doesn’t Belong to Physics – When Bergson met Einstein](https://iai.tv/articles/time-doesnt-belong-to-physics-jimena-canales-auid-2607)
 
 ## [Archives](archives/index.md)
 
