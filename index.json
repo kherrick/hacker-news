@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-26, 21:24:09",
+      "https://news.ycombinator.com/item?id=37665988"
+    ],
+    [
+      "Introduction to Sysclean(8) on OpenBSD",
+      "https://kapouay.eu.org/notes/sysclean-intro/"
+    ]
+  ],
+  [
+    [
       "2023-09-26, 20:57:32",
       "https://news.ycombinator.com/item?id=37665709"
     ],
@@ -247,16 +257,6 @@
     [
       "Verilog to Routing",
       "https://verilogtorouting.org/"
-    ]
-  ],
-  [
-    [
-      "2023-09-25, 14:37:55",
-      "https://news.ycombinator.com/item?id=37644543"
-    ],
-    [
-      "Viable ROP-free roadmap for i386/armv8/riscv64/alpha/sparc64",
-      "https://marc.info/?l=openbsd-tech&m=169558749114476&w=2"
     ]
   ],
   [
