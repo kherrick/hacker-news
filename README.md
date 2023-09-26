@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-26, 21:00:07](https://news.ycombinator.com/item?id=37665747) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2023-09-26, 20:34:43](https://news.ycombinator.com/item?id=37665466) - [USPS is offering Covid tests again](https://special.usps.com/testkits)
 * [2023-09-26, 19:33:28](https://news.ycombinator.com/item?id=37664710) - [Google Podcasts is going away](https://support.google.com/youtubemusic/thread/236590252/today%E2%80%99s-news-about-google-podcasts?hl=en)
 * [2023-09-26, 19:31:01](https://news.ycombinator.com/item?id=37664668) - [All objects and some questions](https://pubs.aip.org/aapt/ajp/article/91/10/819/2911822/All-objects-and-some-questions)
 * [2023-09-26, 18:35:04](https://news.ycombinator.com/item?id=37663820) - [Facebook Prophet: library for generating forecasts from any time series data](https://github.com/facebook/prophet)
@@ -22,7 +23,6 @@
 * [2023-09-26, 13:07:13](https://news.ycombinator.com/item?id=37658714) - [Kikkuli: Why do some people from the distant past become memes?](https://resobscura.substack.com/p/kikkuli)
 * [2023-09-26, 11:36:21](https://news.ycombinator.com/item?id=37657772) - [Yandex open sourced it's BI tool DataLens](https://github.com/datalens-tech)
 * [2023-09-26, 10:50:26](https://news.ycombinator.com/item?id=37657368) - [Who lusts for certainty lusts for lies](https://www.etymonline.com/columns/post/who-lusts-for-certainty-lusts-for-lies)
-* [2023-09-26, 06:11:40](https://news.ycombinator.com/item?id=37655094) - [Inside the Matrix: Visualizing Matrix Multiplication, Attention and Beyond](https://pytorch.org/blog/inside-the-matrix/)
 * [2023-09-26, 05:17:18](https://news.ycombinator.com/item?id=37654751) - [Mathematicians Cross the Line to Get to the Point](https://www.quantamagazine.org/mathematicians-cross-the-line-to-get-to-the-point-20230925/)
 * [2023-09-25, 19:27:00](https://news.ycombinator.com/item?id=37649250) - [J. G. Ballard’s Brilliant, “Not Good” Writing](https://www.theparisreview.org/blog/2023/09/22/j-g-ballards-brilliant-not-good-writing/)
 * [2023-09-25, 15:59:13](https://news.ycombinator.com/item?id=37646008) - [Verilog to Routing](https://verilogtorouting.org/)
