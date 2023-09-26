@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-26, 23:22:15](https://news.ycombinator.com/item?id=37667266) - [The Philips Hue ecosystem is collapsing into stupidity](https://rachelbythebay.com/w/2023/09/26/hue/)
 * [2023-09-26, 22:38:55](https://news.ycombinator.com/item?id=37666773) - [Merlin's Wisdom Project](https://github.com/merlinmann/wisdom/blob/master/wisdom.md)
 * [2023-09-26, 21:24:09](https://news.ycombinator.com/item?id=37665988) - [Introduction to Sysclean(8) on OpenBSD](https://kapouay.eu.org/notes/sysclean-intro/)
-* [2023-09-26, 20:29:54](https://news.ycombinator.com/item?id=37665408) - [BOOX Palma](https://shop.boox.com/products/palma)
 * [2023-09-26, 19:31:40](https://news.ycombinator.com/item?id=37664682) - [Rethinking the Luddites in the Age of A.I](https://www.newyorker.com/books/page-turner/rethinking-the-luddites-in-the-age-of-ai)
 * [2023-09-26, 18:35:04](https://news.ycombinator.com/item?id=37663820) - [Prophet: Automatic Forecasting Procedure](https://github.com/facebook/prophet)
 * [2023-09-26, 18:28:20](https://news.ycombinator.com/item?id=37663725) - [EU tells Apple to open everything up to its rivals](https://appleinsider.com/articles/23/09/26/eu-tells-apple-to-open-everything-up-to-its-rivals)

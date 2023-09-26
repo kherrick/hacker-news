@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
+* [2023-09-26, 23:22:15](https://news.ycombinator.com/item?id=37667266) - [The Philips Hue ecosystem is collapsing into stupidity](https://rachelbythebay.com/w/2023/09/26/hue/)
 * [2023-09-26, 22:38:55](https://news.ycombinator.com/item?id=37666773) - [Merlin's Wisdom Project](https://github.com/merlinmann/wisdom/blob/master/wisdom.md)
 * [2023-09-26, 21:24:09](https://news.ycombinator.com/item?id=37665988) - [Introduction to Sysclean(8) on OpenBSD](https://kapouay.eu.org/notes/sysclean-intro/)
 * [2023-09-26, 21:18:16](https://news.ycombinator.com/item?id=37665942) - [World’s first drug to regrow teeth enters clinical trials](https://globalnews.ca/news/9984605/tooth-regrowth-drug/)
