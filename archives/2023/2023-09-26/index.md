@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
+* [2023-09-26, 07:01:45](https://news.ycombinator.com/item?id=37655477) - [macOS Containers v0.0.1](https://macoscontainers.org/)
 * [2023-09-26, 06:10:48](https://news.ycombinator.com/item?id=37655088) - [Are older people less innovative?](https://laetitiaatwork.substack.com/p/are-older-people-less-innovative)
 * [2023-09-26, 05:39:19](https://news.ycombinator.com/item?id=37654891) - [Quadlets might make me finally stop using Docker-compose – Major Hayden](https://major.io/p/quadlets-replace-docker-compose/)
 * [2023-09-26, 05:24:10](https://news.ycombinator.com/item?id=37654792) - [I was happy, sad, lost and lonely without a smartphone at the same time](https://ruky.me/2023/09/26/i-was-happy-sad-lost-and-lonely-without-a-smartphone-at-the-same-time/)
