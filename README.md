@@ -21,7 +21,7 @@
 * [2023-09-25, 18:28:13](https://news.ycombinator.com/item?id=37648415) - [Show HN: DitchTheBell – Linux-based desktop notifier for RSS/Atom feeds](https://github.com/EscherMoore/DitchTheBell)
 * [2023-09-25, 18:07:24](https://news.ycombinator.com/item?id=37648098) - [Show HN: Minum – A minimal Java web framework](https://github.com/byronka/minum)
 * [2023-09-25, 18:05:07](https://news.ycombinator.com/item?id=37648068) - [Unity's oldest community announces dissolution](http://farewell.bostonunitygroup.com/)
-* [2023-09-25, 16:55:54](https://news.ycombinator.com/item?id=37646964) - [Ian's Shoelace Site](https://www.fieggen.com/shoelace/)
+* [2023-09-25, 15:55:44](https://news.ycombinator.com/item?id=37645945) - [Saint Helena Island Communications](http://sainthelenaisland.info/communications.htm)
 * [2023-09-25, 12:31:07](https://news.ycombinator.com/item?id=37642671) - [Show HN: E-Ink Day Schedule](https://github.com/davidhampgonsalves/life-dashboard)
 * [2023-09-25, 12:19:32](https://news.ycombinator.com/item?id=37642538) - [The Casino in Your Pocket](https://blog.curtii.com/blog/posts/wordscapes-the-casino-in-your-pocket/)
 * [2023-09-25, 10:21:12](https://news.ycombinator.com/item?id=37641590) - [Nuvem, a subsea cable to connect Portugal, Bermuda, and the U.S.](https://cloud.google.com/blog/products/infrastructure/introducing-the-nuvem-subsea-cable/)
