@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-26, 12:38:19](https://news.ycombinator.com/item?id=37658410) - [Ask HN: Have you been affected by layoffs?](https://news.ycombinator.com/item?id=37658410)
+* [2023-09-26, 12:37:30](https://news.ycombinator.com/item?id=37658398) - [The Guide to Deno](https://medium.com/deno-the-complete-reference/an-ultimate-guide-to-deno-bc02535754f0)
 * [2023-09-26, 12:31:06](https://news.ycombinator.com/item?id=37658319) - [Google is picking ChatGPT responses from Quora as correct answer](https://twitter.com/8teapi/status/1706520893621784780)
 * [2023-09-26, 11:33:31](https://news.ycombinator.com/item?id=37657746) - [Google assigns a CVE for libwebp and gives it a 10.0 score](https://stackdiary.com/heap-buffer-overflow-in-libwebp-cve-2023-5129/)
 * [2023-09-26, 11:06:33](https://news.ycombinator.com/item?id=37657519) - [We bootstrap: Hitting $1.5M ARR with a super lean team](https://www.flagsmith.com/blog/why-we-bootstrap)
@@ -29,7 +30,6 @@
 * [2023-09-25, 07:39:03](https://news.ycombinator.com/item?id=37640643) - [Intel’s Ponte Vecchio: Chiplets Gone Crazy](https://chipsandcheese.com/2023/09/23/intels-ponte-vecchio-chiplets-gone-crazy/)
 * [2023-09-24, 20:44:47](https://news.ycombinator.com/item?id=37637006) - [PID Control Challenges](http://janismac.github.io/ControlChallenges/)
 * [2023-09-24, 08:10:52](https://news.ycombinator.com/item?id=37631089) - [A hacker's guide to language models [video]](https://www.youtube.com/watch?v=jkrNMKz9pWU)
-* [2023-09-24, 07:03:51](https://news.ycombinator.com/item?id=37630804) - [Text editing on mobile: the invisible problem](https://jenson.org/text/)
 
 ## [Archives](archives/index.md)
 
