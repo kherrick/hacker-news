@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
+* [2023-09-26, 21:18:16](https://news.ycombinator.com/item?id=37665942) - [World’s first drug to regrow teeth enters clinical trials](https://globalnews.ca/news/9984605/tooth-regrowth-drug/)
 * [2023-09-26, 21:00:07](https://news.ycombinator.com/item?id=37665747) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2023-09-26, 20:57:32](https://news.ycombinator.com/item?id=37665709) - [The Dark Side of Tech Culture](https://blog.lettucework.io/the-dark-side-of-culture-20a59c5229b2?gi=57aec2f4d30b)
 * [2023-09-26, 20:34:43](https://news.ycombinator.com/item?id=37665466) - [USPS is offering Covid tests again](https://special.usps.com/testkits)
 * [2023-09-26, 19:59:48](https://news.ycombinator.com/item?id=37665052) - [Python Insider: Python 3.12.0 release candidate 3 now available](https://pythoninsider.blogspot.com/2023/09/python-3120-release-candidate-3-now.html)
 * [2023-09-26, 19:33:28](https://news.ycombinator.com/item?id=37664710) - [Google Podcasts is going away](https://support.google.com/youtubemusic/thread/236590252/today%E2%80%99s-news-about-google-podcasts?hl=en)
