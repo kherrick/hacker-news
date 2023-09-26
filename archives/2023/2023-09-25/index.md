@@ -16,6 +16,7 @@
 * [2023-09-25, 21:00:52](https://news.ycombinator.com/item?id=37650535) - [Intertwingled: Collection of videos to showcase the magic alchemy of computation](https://github.com/ahdinosaur/intertwingled)
 * [2023-09-25, 21:00:42](https://news.ycombinator.com/item?id=37650533) - [Svix (YC W21) Is Hiring a Technical Lead (US Remote)](https://www.svix.com/careers/)
 * [2023-09-25, 20:58:42](https://news.ycombinator.com/item?id=37650509) - [How Much Does It Take to Be the Top% in Each U.S. State?](https://www.visualcapitalist.com/mapped-the-top-1-percent-in-each-u-s-state/)
+* [2023-09-25, 20:49:09](https://news.ycombinator.com/item?id=37650402) - [A journey into the shaken baby syndrome/abusive head trauma controversy](https://www.cambridgeblog.org/2023/05/a-journey-into-the-shaken-baby-syndrome-abusive-head-trauma-controversy/)
 * [2023-09-25, 20:32:36](https://news.ycombinator.com/item?id=37650198) - [Ultra-processed food linked to higher risk of depression, research finds](https://www.theguardian.com/food/2023/sep/20/ultra-processed-food-linked-higher-risk-depression-research-finds)
 * [2023-09-25, 20:20:55](https://news.ycombinator.com/item?id=37650040) - [PostScript’s sudden death in Sonoma](https://eclecticlight.co/2023/09/25/postscripts-sudden-death-in-sonoma/)
 * [2023-09-25, 20:20:22](https://news.ycombinator.com/item?id=37650032) - [Study links blue light from smartphones or tablets to early puberty](https://medicalxpress.com/news/2023-09-links-blue-smartphones-tablets-early.html)
