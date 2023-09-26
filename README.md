@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-26, 14:41:30](https://news.ycombinator.com/item?id=37660120) - [Apple exec Eddy Cue set to testify in Google trial about $19B search deal](https://www.cnbc.com/2023/09/26/apple-exec-eddy-cue-testify-google-trial-about-19-billion-search-deal.html)
 * [2023-09-26, 14:04:11](https://news.ycombinator.com/item?id=37659482) - [Google Podcasts to shut down in 2024](https://techcrunch.com/2023/09/26/google-podcasts-to-shut-down-in-2024-with-listeners-migrated-to-youtube-music/)
 * [2023-09-26, 13:52:58](https://news.ycombinator.com/item?id=37659327) - [Newly discovered deep-sea enzyme breaks down PET plastic](https://phys.org/news/2023-09-newly-deep-sea-enzyme-pet-plastic.amp)
 * [2023-09-26, 13:41:45](https://news.ycombinator.com/item?id=37659164) - [Freelancers aren’t happy with Japan’s new invoice system](https://www.japantimes.co.jp/community/2023/09/25/how-tos/freelancer-tax-system/)
@@ -15,7 +16,6 @@
 * [2023-09-26, 10:46:51](https://news.ycombinator.com/item?id=37657334) - [Spain cancels Pegasus spyware investigation because Israel is not co-operating](https://www.theguardian.com/world/2023/jul/10/spain-closes-pegasus-investigation-over-lack-of-cooperation-from-israel)
 * [2023-09-26, 09:26:40](https://news.ycombinator.com/item?id=37656646) - [NSA, FBI, and CISA Release Cybersecurity Information Sheet on Deepfake Threats](https://www.cisa.gov/news-events/alerts/2023/09/12/nsa-fbi-and-cisa-release-cybersecurity-information-sheet-deepfake-threats)
 * [2023-09-26, 08:28:59](https://news.ycombinator.com/item?id=37656170) - [FCC aims to reinstate net neutrality after us Democrats gain control of panel](https://www.bloomberg.com/news/articles/2023-09-26/fcc-aims-to-reinstate-net-neutrality-rules-as-us-democrats-gain-control-of-panel)
-* [2023-09-26, 08:18:08](https://news.ycombinator.com/item?id=37656091) - [AI is fundamentally ‘a surveillance technology’](https://techcrunch.com/2023/09/25/signals-meredith-whittaker-ai-is-fundamentally-a-surveillance-technology/)
 * [2023-09-26, 07:01:45](https://news.ycombinator.com/item?id=37655477) - [macOS Containers v0.0.1](https://macoscontainers.org/)
 * [2023-09-26, 06:37:30](https://news.ycombinator.com/item?id=37655261) - [Batch size one billion: SQLite insert speedups, from the useful to the absurd](https://voidstar.tech/sqlite_insert_speed/)
 * [2023-09-26, 06:11:40](https://news.ycombinator.com/item?id=37655094) - [Inside the Matrix: Visualizing Matrix Multiplication, Attention and Beyond](https://pytorch.org/blog/inside-the-matrix/)
@@ -23,11 +23,11 @@
 * [2023-09-26, 05:39:19](https://news.ycombinator.com/item?id=37654891) - [Quadlets might make me finally stop using docker-compose](https://major.io/p/quadlets-replace-docker-compose/)
 * [2023-09-26, 02:39:10](https://news.ycombinator.com/item?id=37653656) - [Nickel Hydrogen Batteries by NASA](https://spectrum.ieee.org/grid-scale-battery-storage-nickel-hydrogen)
 * [2023-09-26, 00:41:23](https://news.ycombinator.com/item?id=37652832) - [Air Quality Monitors from USD $169 to $6k use the same low-cost PM Modules](https://www.airgradient.com/blog/most-aq-monitors-use-same-pm-modules/)
-* [2023-09-26, 00:01:01](https://news.ycombinator.com/item?id=37652479) - [The United States of Bed Bath & Beyond](https://www.epsilontheory.com/the-united-states-of-bed-bath-beyond/)
 * [2023-09-25, 21:55:07](https://news.ycombinator.com/item?id=37651260) - [Is Math Real?](https://maa.org/press/maa-reviews/is-math-real)
 * [2023-09-25, 21:47:42](https://news.ycombinator.com/item?id=37651171) - [The SR-71 Blackbird Astro-Nav System worked by tracking the stars](https://theaviationgeekclub.com/the-sr-71-blackbird-astro-nav-system-aka-r2-d2-worked-by-tracking-the-stars-and-was-so-powerful-that-it-could-see-the-stars-even-in-daylight/)
 * [2023-09-25, 21:00:42](https://news.ycombinator.com/item?id=37650533) - [Svix (YC W21) Is Hiring a Technical Lead (US Remote)](https://www.svix.com/careers/)
 * [2023-09-25, 19:40:54](https://news.ycombinator.com/item?id=37649448) - [DJI Mini 4 Pro](https://www.dji.com/mini-4-pro)
+* [2023-09-25, 14:37:55](https://news.ycombinator.com/item?id=37644543) - [Viable ROP-free roadmap for i386/armv8/riscv64/alpha/sparc64](https://marc.info/?l=openbsd-tech&m=169558749114476&w=2)
 * [2023-09-25, 12:19:32](https://news.ycombinator.com/item?id=37642538) - [The casino in your pocket](https://blog.curtii.com/blog/posts/wordscapes-the-casino-in-your-pocket/)
 * [2023-09-24, 08:10:52](https://news.ycombinator.com/item?id=37631089) - [A hacker's guide to language models [video]](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 
