@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-26, 19:31:40](https://news.ycombinator.com/item?id=37664682) - [Rethinking the Luddites in the Age of A.I](https://www.newyorker.com/books/page-turner/rethinking-the-luddites-in-the-age-of-ai)
 * [2023-09-26, 18:35:04](https://news.ycombinator.com/item?id=37663820) - [Facebook Prophet: library for generating forecasts from any time series data](https://github.com/facebook/prophet)
 * [2023-09-26, 18:14:23](https://news.ycombinator.com/item?id=37663523) - [Causality for Machine Learning](https://ff13.fastforwardlabs.com/)
 * [2023-09-26, 17:58:47](https://news.ycombinator.com/item?id=37663270) - [Show HN: Unity like game editor running in pure WASM](https://raverie-us.github.io/raverie-engine/)
@@ -23,7 +24,6 @@
 * [2023-09-26, 13:07:13](https://news.ycombinator.com/item?id=37658714) - [Kikkuli: Why do some people from the distant past become memes?](https://resobscura.substack.com/p/kikkuli)
 * [2023-09-26, 11:36:21](https://news.ycombinator.com/item?id=37657772) - [Yandex open sourced it's BI tool DataLens](https://github.com/datalens-tech)
 * [2023-09-26, 06:11:40](https://news.ycombinator.com/item?id=37655094) - [Inside the Matrix: Visualizing Matrix Multiplication, Attention and Beyond](https://pytorch.org/blog/inside-the-matrix/)
-* [2023-09-26, 05:39:19](https://news.ycombinator.com/item?id=37654891) - [Quadlets might make me finally stop using docker-compose](https://major.io/p/quadlets-replace-docker-compose/)
 * [2023-09-25, 19:27:00](https://news.ycombinator.com/item?id=37649250) - [J. G. Ballard’s Brilliant, “Not Good” Writing](https://www.theparisreview.org/blog/2023/09/22/j-g-ballards-brilliant-not-good-writing/)
 * [2023-09-25, 15:59:13](https://news.ycombinator.com/item?id=37646008) - [Verilog to Routing](https://verilogtorouting.org/)
 * [2023-09-25, 14:37:55](https://news.ycombinator.com/item?id=37644543) - [Viable ROP-free roadmap for i386/armv8/riscv64/alpha/sparc64](https://marc.info/?l=openbsd-tech&m=169558749114476&w=2)
