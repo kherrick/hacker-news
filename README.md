@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-26, 03:32:28](https://news.ycombinator.com/item?id=37653982) - [Lego Says It Won't Use Recycled Plastic Because It Doesnt Help the Planet](https://gizmodo.com.au/2023/09/lego-says-it-wont-use-recycled-plastic-for-bricks-because-it-doesnt-really-help-the-planet/)
+* [2023-09-26, 03:19:49](https://news.ycombinator.com/item?id=37653905) - [Why America Has a Long-Term Labor Crisis, in Six Charts](https://www.wsj.com/economy/jobs/labor-supply-economy-jobs-charts-3285a5b7)
 * [2023-09-26, 03:07:25](https://news.ycombinator.com/item?id=37653831) - [Costco now offering virtual medical care for $29](https://www.cbsnews.com/news/costco-virtual-medical-checkups-for-29/)
 * [2023-09-26, 03:02:35](https://news.ycombinator.com/item?id=37653804) - [Hotel hackers redirect guests to fake Booking.com to steal cards](https://www.bleepingcomputer.com/news/security/hotel-hackers-redirect-guests-to-fake-bookingcom-to-steal-cards/)
 * [2023-09-26, 00:01:01](https://news.ycombinator.com/item?id=37652479) - [The United States of Bed Bath & Beyond](https://www.epsilontheory.com/the-united-states-of-bed-bath-beyond/)
@@ -21,7 +22,6 @@
 * [2023-09-25, 15:55:44](https://news.ycombinator.com/item?id=37645945) - [Saint Helena Island Communications](http://sainthelenaisland.info/communications.htm)
 * [2023-09-25, 15:00:33](https://news.ycombinator.com/item?id=37644952) - [KSP2 is spamming the Windows Registry until the game stops working](https://forum.kerbalspaceprogram.com/topic/219607-ksp2-is-spamming-the-windows-registry-over-weeksmonths-until-the-game-will-stop-working-permanently/)
 * [2023-09-25, 12:19:32](https://news.ycombinator.com/item?id=37642538) - [The Casino in Your Pocket](https://blog.curtii.com/blog/posts/wordscapes-the-casino-in-your-pocket/)
-* [2023-09-25, 11:24:16](https://news.ycombinator.com/item?id=37642076) - [Ask HN: Android low latency audio in 2023](https://news.ycombinator.com/item?id=37642076)
 * [2023-09-25, 10:21:12](https://news.ycombinator.com/item?id=37641590) - [Nuvem, a subsea cable to connect Portugal, Bermuda, and the U.S.](https://cloud.google.com/blog/products/infrastructure/introducing-the-nuvem-subsea-cable/)
 * [2023-09-25, 10:06:41](https://news.ycombinator.com/item?id=37641507) - [Mars and Our Search for Meaning](https://www.themarginalian.org/2023/09/18/the-sirens-of-mars/)
 * [2023-09-25, 09:49:15](https://news.ycombinator.com/item?id=37641416) - [Intel Meteor Lake Architecture](https://hothardware.com/reviews/intel-meteor-lake-architecture)
