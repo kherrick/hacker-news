@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
+* [2023-09-26, 17:58:47](https://news.ycombinator.com/item?id=37663270) - [Show HN: Unity like game editor running in pure WASM](https://raverie-us.github.io/raverie-engine/)
+* [2023-09-26, 17:46:05](https://news.ycombinator.com/item?id=37663035) - [I'm convinced now that “personal LLMs” are going to be a huge thing](https://old.reddit.com/r/LocalLLaMA/comments/16au3ga/im_convinced_now_that_personal_llms_are_going_to/)
 * [2023-09-26, 17:15:33](https://news.ycombinator.com/item?id=37662561) - [Vizro – toolkit for creating modular data visualization applications](https://github.com/mckinsey/vizro)
 * [2023-09-26, 17:12:17](https://news.ycombinator.com/item?id=37662510) - [macOS Sonoma is available today](https://www.apple.com/newsroom/2023/09/macos-sonoma-is-available-today/)
 * [2023-09-26, 17:00:05](https://news.ycombinator.com/item?id=37662297) - [Byterat (YC W23) Is Hiring a Founding Engineer (San Francisco)](https://www.ycombinator.com/companies/byterat/jobs/UtaWWqL-founding-engineer)
@@ -20,6 +22,7 @@
 * [2023-09-26, 15:47:16](https://news.ycombinator.com/item?id=37661087) - [Google Podcasts will die in 2024](https://www.androidpolice.com/google-podcasts-discontinued-announcement/)
 * [2023-09-26, 15:43:42](https://news.ycombinator.com/item?id=37661037) - [Two Thirds of American Kids Can’t Read Fluently](https://www.scientificamerican.com/article/two-thirds-of-american-kids-cant-read-fluently/)
 * [2023-09-26, 15:43:26](https://news.ycombinator.com/item?id=37661034) - [Common infections can spark psychiatric illnesses in children](https://www.economist.com/science-and-technology/2023/09/20/how-common-infections-can-spark-psychiatric-illnesses-in-children)
+* [2023-09-26, 15:24:03](https://news.ycombinator.com/item?id=37660709) - [Re: [Git Pull] Bcachefs](https://lwn.net/ml/linux-kernel/20230907234001.oe4uypp6anb5vqem@moria.home.lan/)
 * [2023-09-26, 15:15:32](https://news.ycombinator.com/item?id=37660586) - [Hedge Fund Made a Killing Betting Against Lina Khan](https://www.wsj.com/us-news/law/the-hedge-fund-that-made-a-killing-betting-against-lina-khan-d5b395b1)
 * [2023-09-26, 14:55:44](https://news.ycombinator.com/item?id=37660327) - [Unity U-turns on controversial runtime fee and begs forgiveness](https://techcrunch.com/2023/09/22/unity-u-turns-on-controversial-runtime-fee-and-begs-forgiveness/)
 * [2023-09-26, 14:50:35](https://news.ycombinator.com/item?id=37660256) - [Investigation: 78% of carbon offset projects globally are “likely junk“](https://www.power-technology.com/news/report-majority-carbon-offsets-junk-or-useless/)
