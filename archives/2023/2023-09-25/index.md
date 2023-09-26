@@ -70,6 +70,7 @@
 * [2023-09-25, 12:35:12](https://news.ycombinator.com/item?id=37642712) - [GPT-4V(ision) system card [pdf]](https://cdn.openai.com/papers/GPTV_System_Card.pdf)
 * [2023-09-25, 12:31:07](https://news.ycombinator.com/item?id=37642671) - [Show HN: E-Ink Day Schedule](https://github.com/davidhampgonsalves/life-dashboard)
 * [2023-09-25, 12:26:24](https://news.ycombinator.com/item?id=37642610) - [Rhythm 0](https://en.wikipedia.org/wiki/Rhythm_0)
+* [2023-09-25, 12:19:32](https://news.ycombinator.com/item?id=37642538) - [The Casino in Your Pocket](https://blog.curtii.com/blog/posts/wordscapes-the-casino-in-your-pocket/)
 * [2023-09-25, 12:16:15](https://news.ycombinator.com/item?id=37642505) - [Study reveals correlation between repeated falsehoods and public misperceptions](https://news.vanderbilt.edu/2023/09/18/new-study-reveals-correlation-between-trumps-repeated-falsehoods-and-public-misperceptions/)
 * [2023-09-25, 12:00:22](https://news.ycombinator.com/item?id=37642361) - [Optery (YC W22) – Full Stack Developer with Node.js Experience (Remote and Israel)](https://optery.breezy.hr/p/a95772ba7d2b-full-stack-developer-nodejs)
 * [2023-09-25, 11:57:28](https://news.ycombinator.com/item?id=37642335) - [ChatGPT can now see, hear, and speak – openai.com](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak)
