@@ -129,6 +129,99 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="37663270">
+          <h3>
+            <a class="item" href="https://raverie-us.github.io/raverie-engine/"
+              >Show HN: Unity like game editor running in pure WASM</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-09-26 @ 17:58:47</span
+              ><span class="points-container"
+                >Points: <span class="points">23</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37663270"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                We’re building off a previous engine that we worked on for
+                DigiPen Institute of Technology called the Zero Engine with a
+                similar component based design architecture to Unity. Our engine
+                had a unique feature called Spaces: separate worlds/levels that
+                you can instantiate and run at the same time, which became super
+                useful for creating UI overlays using only game objects, running
+                multiple simulations, etc. The lighting and rendering engine is
+                scriptable, and the default deferred rendering implementation is
+                based on the Unreal physically based rendering (PBR) approach.
+                The physics engine was built from the ground up to handle both
+                2D and 3D physics together. The scripting language was also
+                built in house to be a type safe language that binds to C++
+                objects and facilitates auto-complete (try it in editor!)
+              </p>
+              <p>
+                This particular fork by Raverie builds both the engine and
+                editor to WebAssembly using only clang without Emscripten. We
+                love Emscripten and in fact borrowed a tiny bit of exception
+                code that we’d love to see up-streamed into LLVM, however we
+                wanted to create a pure WASM binary without Emscripten bindings.
+                We also love WASI too though we already had our own in memory
+                virtual file system, hence we don’t use the WASI imports. All
+                WASM imports and exports needed to run the engine are defined
+                here:
+                <a
+                  href="https://github.com/raverie-us/raverie-engine/blob/main/Code/Foundation/Platform/PlatformCommunication.hpp"
+                  >https://github.com/raverie-us/raverie-engine/blob/main/Code/...</a
+                >
+              </p>
+              <p>
+                The abstraction means that in the future, porting to other
+                platforms that can support a WASM runtime should be trivial.
+                It’s our dream to be able to export a build of your game to any
+                platform, all from inside the browser. Our near term road-map
+                includes getting the sound engine integrated with WebAudio,
+                getting the script debugger working (currently freezes), porting
+                our networking engine to WebRTC and WebSockets, and getting
+                saving/loading from a database instead of browser local storage.
+              </p>
+              <p>
+                Our end goal is to use this engine to create an online
+                Flash-like hub for games that people can share and remix, akin
+                to Scratch or Tinkercad.
+              </p>
+              <p>
+                <a href="https://github.com/raverie-us/raverie-engine"
+                  >https://github.com/raverie-us/raverie-engine</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="37663035">
+          <h3>
+            <a
+              class="item"
+              href="https://old.reddit.com/r/LocalLLaMA/comments/16au3ga/im_convinced_now_that_personal_llms_are_going_to/"
+              >I'm convinced now that “personal LLMs” are going to be a huge
+              thing</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-09-26 @ 17:46:05</span
+              ><span class="points-container"
+                >Points: <span class="points">34</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37663035"
+                  >Comments</a
+                ><span class="descendants">: 17</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="37662561">
           <h3>
             <a class="item" href="https://github.com/mckinsey/vizro"
@@ -140,11 +233,11 @@
             <h4>
               <span>2023-09-26 @ 17:15:33</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37662561"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -161,11 +254,11 @@
             <h4>
               <span>2023-09-26 @ 17:12:17</span
               ><span class="points-container"
-                >Points: <span class="points">125</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37662510"
                   >Comments</a
-                ><span class="descendants">: 92</span></span
+                ><span class="descendants">: 117</span></span
               >
             </h4>
           </section>
@@ -197,11 +290,11 @@
             <h4>
               <span>2023-09-26 @ 16:31:16</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37661767"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
             <div class="text">
@@ -232,11 +325,11 @@
             <h4>
               <span>2023-09-26 @ 16:29:56</span
               ><span class="points-container"
-                >Points: <span class="points">86</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37661755"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
             <div class="text">
@@ -277,11 +370,11 @@
             <h4>
               <span>2023-09-26 @ 16:21:30</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">107</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37661609"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -298,11 +391,11 @@
             <h4>
               <span>2023-09-26 @ 16:10:40</span
               ><span class="points-container"
-                >Points: <span class="points">278</span></span
+                >Points: <span class="points">304</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37661446"
                   >Comments</a
-                ><span class="descendants">: 203</span></span
+                ><span class="descendants">: 231</span></span
               >
             </h4>
           </section>
@@ -317,46 +410,13 @@
             <h4>
               <span>2023-09-26 @ 16:06:21</span
               ><span class="points-container"
-                >Points: <span class="points">144</span></span
+                >Points: <span class="points">155</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37661387"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="37661163">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=37661163"
-              >Ask HN: Best practices for safeguarding master password in
-              organization?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-09-26 @ 15:52:31</span
-              ><span class="points-container"
-                >Points: <span class="points">28</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37661163"
-                  >Comments</a
-                ><span class="descendants">: 42</span></span
-              >
-            </h4>
-            <div class="text">
-              How does one protect a master password to a password manager? I am
-              particularly interested in how this is handled in a small
-              organization of under 10-50 people. You can share it among 2-3 top
-              executives but ultimately doesn't there have to be someone who
-              solely controls the changing and sharing of the password, and
-              granting privileges? And what if that person gets fired or decides
-              to become a malevolent actor? Is there any mechanism that would
-              require multiple people to consent to a change in password and
-              admin rights? Would be interested to hear how different
-              organizations have dealt with this or if there are published
-              industry standards on how to handle. Thank you.
-            </div>
           </section>
         </section>
         <section id="37661034">
@@ -371,11 +431,32 @@
             <h4>
               <span>2023-09-26 @ 15:43:26</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37661034"
                   >Comments</a
-                ><span class="descendants">: 106</span></span
+                ><span class="descendants">: 115</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="37660709">
+          <h3>
+            <a
+              class="item"
+              href="https://lwn.net/ml/linux-kernel/20230907234001.oe4uypp6anb5vqem@moria.home.lan/"
+              >Re: [Git Pull] Bcachefs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-09-26 @ 15:24:03</span
+              ><span class="points-container"
+                >Points: <span class="points">23</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37660709"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -393,11 +474,11 @@
             <h4>
               <span>2023-09-26 @ 14:50:35</span
               ><span class="points-container"
-                >Points: <span class="points">225</span></span
+                >Points: <span class="points">243</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37660256"
                   >Comments</a
-                ><span class="descendants">: 112</span></span
+                ><span class="descendants">: 115</span></span
               >
             </h4>
           </section>
@@ -412,7 +493,7 @@
             <h4>
               <span>2023-09-26 @ 14:42:46</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37660146"
                   >Comments</a
@@ -434,11 +515,11 @@
             <h4>
               <span>2023-09-26 @ 14:41:30</span
               ><span class="points-container"
-                >Points: <span class="points">119</span></span
+                >Points: <span class="points">121</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37660120"
                   >Comments</a
-                ><span class="descendants">: 88</span></span
+                ><span class="descendants">: 91</span></span
               >
             </h4>
           </section>
@@ -453,7 +534,7 @@
             <h4>
               <span>2023-09-26 @ 14:36:18</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37660025"
                   >Comments</a
@@ -474,11 +555,11 @@
             <h4>
               <span>2023-09-26 @ 14:07:19</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37659542"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -495,11 +576,11 @@
             <h4>
               <span>2023-09-26 @ 13:52:58</span
               ><span class="points-container"
-                >Points: <span class="points">107</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37659327"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -516,11 +597,11 @@
             <h4>
               <span>2023-09-26 @ 13:41:45</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37659164"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -536,7 +617,7 @@
             <h4>
               <span>2023-09-26 @ 13:40:41</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37659153"
                   >Comments</a
@@ -557,7 +638,7 @@
             <h4>
               <span>2023-09-26 @ 13:37:02</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37659110"
                   >Comments</a
@@ -577,7 +658,7 @@
             <h4>
               <span>2023-09-26 @ 13:07:13</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37658714"
                   >Comments</a
@@ -596,11 +677,11 @@
             <h4>
               <span>2023-09-26 @ 11:36:21</span
               ><span class="points-container"
-                >Points: <span class="points">89</span></span
+                >Points: <span class="points">98</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37657772"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -617,51 +698,11 @@
             <h4>
               <span>2023-09-26 @ 11:32:24</span
               ><span class="points-container"
-                >Points: <span class="points">132</span></span
+                >Points: <span class="points">137</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37657736"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="37657368">
-          <h3>
-            <a
-              class="item"
-              href="https://www.etymonline.com/columns/post/who-lusts-for-certainty-lusts-for-lies"
-              >Google Ngram Viewer n-grams are wrong</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-09-26 @ 10:50:26</span
-              ><span class="points-container"
-                >Points: <span class="points">266</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37657368"
-                  >Comments</a
-                ><span class="descendants">: 99</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="37655477">
-          <h3>
-            <a class="item" href="https://macoscontainers.org/"
-              >macOS Containers v0.0.1</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-09-26 @ 07:01:45</span
-              ><span class="points-container"
-                >Points: <span class="points">455</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37655477"
-                  >Comments</a
-                ><span class="descendants">: 293</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -677,7 +718,7 @@
             <h4>
               <span>2023-09-26 @ 06:11:40</span
               ><span class="points-container"
-                >Points: <span class="points">205</span></span
+                >Points: <span class="points">208</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37655094"
                   >Comments</a
@@ -698,11 +739,11 @@
             <h4>
               <span>2023-09-26 @ 05:39:19</span
               ><span class="points-container"
-                >Points: <span class="points">250</span></span
+                >Points: <span class="points">255</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37654891"
                   >Comments</a
-                ><span class="descendants">: 166</span></span
+                ><span class="descendants">: 167</span></span
               >
             </h4>
           </section>
@@ -719,11 +760,11 @@
             <h4>
               <span>2023-09-25 @ 19:27:00</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37649250"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -738,7 +779,7 @@
             <h4>
               <span>2023-09-25 @ 15:59:13</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37646008"
                   >Comments</a
@@ -759,11 +800,11 @@
             <h4>
               <span>2023-09-25 @ 14:37:55</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37644543"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -778,7 +819,7 @@
             <h4>
               <span>2023-09-25 @ 01:41:36</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37638820"
                   >Comments</a
