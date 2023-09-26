@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
+* [2023-09-26, 16:10:40](https://news.ycombinator.com/item?id=37661446) - [FTC Sues Amazon for Illegally Maintaining Monopoly Power](https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power)
+* [2023-09-26, 16:06:21](https://news.ycombinator.com/item?id=37661387) - [Yet another E-Ink weather display – but with Rust](https://harrystern.net/halldisplay.html)
 * [2023-09-26, 15:52:31](https://news.ycombinator.com/item?id=37661163) - [Ask HN: Best practices for safeguarding master password in organization?](https://news.ycombinator.com/item?id=37661163)
+* [2023-09-26, 15:47:16](https://news.ycombinator.com/item?id=37661087) - [Google Podcasts will die in 2024](https://www.androidpolice.com/google-podcasts-discontinued-announcement/)
+* [2023-09-26, 15:43:42](https://news.ycombinator.com/item?id=37661037) - [Two Thirds of American Kids Can’t Read Fluently](https://www.scientificamerican.com/article/two-thirds-of-american-kids-cant-read-fluently/)
 * [2023-09-26, 15:43:26](https://news.ycombinator.com/item?id=37661034) - [Common infections can spark psychiatric illnesses in children](https://www.economist.com/science-and-technology/2023/09/20/how-common-infections-can-spark-psychiatric-illnesses-in-children)
 * [2023-09-26, 15:15:32](https://news.ycombinator.com/item?id=37660586) - [Hedge Fund Made a Killing Betting Against Lina Khan](https://www.wsj.com/us-news/law/the-hedge-fund-that-made-a-killing-betting-against-lina-khan-d5b395b1)
 * [2023-09-26, 14:55:44](https://news.ycombinator.com/item?id=37660327) - [Unity U-turns on controversial runtime fee and begs forgiveness](https://techcrunch.com/2023/09/22/unity-u-turns-on-controversial-runtime-fee-and-begs-forgiveness/)
