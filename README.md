@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-26, 01:28:40](https://news.ycombinator.com/item?id=37653176) - [Mozilla.ai](https://mozilla.ai/about/)
 * [2023-09-26, 00:01:01](https://news.ycombinator.com/item?id=37652479) - [The United States of Bed Bath & Beyond](https://www.epsilontheory.com/the-united-states-of-bed-bath-beyond/)
 * [2023-09-25, 23:58:21](https://news.ycombinator.com/item?id=37652456) - [Burkey Belser, designer of the nutrition facts label, has died](https://www.washingtonpost.com/obituaries/2023/09/25/burkey-belser-designer-of-ubiquitous-nutrition-facts-label-dies-at-76/)
 * [2023-09-25, 23:03:11](https://news.ycombinator.com/item?id=37651962) - [‘All of Sony Systems’ Allegedly Hacked by New Ransomware Group](https://kotaku.com/sony-playstation-hack-breach-ransomware-ransomed-vc-1850870993)
@@ -12,6 +11,7 @@
 * [2023-09-25, 19:58:17](https://news.ycombinator.com/item?id=37649708) - [Trust arrives on foot and leaves on horseback (2020)](https://thalein.medium.com/trust-arrives-on-foot-and-leaves-on-horseback-aacde6e69163)
 * [2023-09-25, 19:50:03](https://news.ycombinator.com/item?id=37649594) - [John Romero on his book “Doom Guy” and developing games at a small scale](https://howtomarketagame.com/2023/09/25/john-romero-on-his-book-doom-guy-and-developing-games-at-a-small-scale/)
 * [2023-09-25, 19:40:54](https://news.ycombinator.com/item?id=37649448) - [DJI Mini 4 Pro](https://www.dji.com/mini-4-pro)
+* [2023-09-25, 19:34:11](https://news.ycombinator.com/item?id=37649353) - [F-35A has flown from a highway for the first time](https://www.thedrive.com/the-war-zone/f-35a-has-flown-from-a-highway-for-the-first-time)
 * [2023-09-25, 18:28:13](https://news.ycombinator.com/item?id=37648415) - [Show HN: DitchTheBell – Linux-based desktop notifier for RSS/Atom feeds](https://github.com/EscherMoore/DitchTheBell)
 * [2023-09-25, 18:07:24](https://news.ycombinator.com/item?id=37648098) - [Show HN: Minum – A minimal Java web framework](https://github.com/byronka/minum)
 * [2023-09-25, 18:05:07](https://news.ycombinator.com/item?id=37648068) - [Unity's oldest community announces dissolution](http://farewell.bostonunitygroup.com/)
@@ -21,7 +21,7 @@
 * [2023-09-25, 12:31:07](https://news.ycombinator.com/item?id=37642671) - [Show HN: E-Ink Day Schedule](https://github.com/davidhampgonsalves/life-dashboard)
 * [2023-09-25, 12:26:24](https://news.ycombinator.com/item?id=37642610) - [Rhythm 0](https://en.wikipedia.org/wiki/Rhythm_0)
 * [2023-09-25, 11:57:28](https://news.ycombinator.com/item?id=37642335) - [We are beginning to roll out new voice and image capabilities in ChatGPT](https://openai.com/blog/chatgpt-can-now-see-hear-and-speak)
-* [2023-09-25, 11:24:16](https://news.ycombinator.com/item?id=37642076) - [Android low latency audio in 2023](https://news.ycombinator.com/item?id=37642076)
+* [2023-09-25, 11:24:16](https://news.ycombinator.com/item?id=37642076) - [Ask HN: Android low latency audio in 2023](https://news.ycombinator.com/item?id=37642076)
 * [2023-09-25, 10:21:12](https://news.ycombinator.com/item?id=37641590) - [Nuvem, a subsea cable to connect Portugal, Bermuda, and the U.S.](https://cloud.google.com/blog/products/infrastructure/introducing-the-nuvem-subsea-cable/)
 * [2023-09-25, 09:49:15](https://news.ycombinator.com/item?id=37641416) - [Intel Meteor Lake Architecture](https://hothardware.com/reviews/intel-meteor-lake-architecture)
 * [2023-09-25, 07:39:03](https://news.ycombinator.com/item?id=37640643) - [Intel’s Ponte Vecchio: Chiplets Gone Crazy](https://chipsandcheese.com/2023/09/23/intels-ponte-vecchio-chiplets-gone-crazy/)
