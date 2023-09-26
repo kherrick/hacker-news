@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-26, 18:35:04](https://news.ycombinator.com/item?id=37663820) - [Facebook Prophet: library for generating forecasts from any time series data](https://github.com/facebook/prophet)
-* [2023-09-26, 18:14:53](https://news.ycombinator.com/item?id=37663529) - [Deep-TEMPEST: Recovering images from unintentional EM radiation of HDMI](https://twitter.com/fedelarrocca/status/1688990564576854018)
 * [2023-09-26, 18:14:23](https://news.ycombinator.com/item?id=37663523) - [Causality for Machine Learning](https://ff13.fastforwardlabs.com/)
 * [2023-09-26, 17:58:47](https://news.ycombinator.com/item?id=37663270) - [Show HN: Unity like game editor running in pure WASM](https://raverie-us.github.io/raverie-engine/)
 * [2023-09-26, 17:54:42](https://news.ycombinator.com/item?id=37663194) - [ROCm is AMD's priority, executive says](https://www.eetimes.com/rocm-is-amds-no-1-priority-exec-says/)
@@ -13,6 +12,7 @@
 * [2023-09-26, 16:29:56](https://news.ycombinator.com/item?id=37661755) - [Ollama for Linux – Run LLMs on Linux with GPU Acceleration](https://github.com/jmorganca/ollama/releases/tag/v0.1.0)
 * [2023-09-26, 16:21:30](https://news.ycombinator.com/item?id=37661609) - [9th Circuit rejects TSA claim of impunity for checkpoint staff who rape traveler](https://papersplease.org/wp/2023/06/26/9th-circuit-rejects-tsa-claim-of-impunity-for-checkpoint-staff-who-rape-travelers/)
 * [2023-09-26, 16:10:40](https://news.ycombinator.com/item?id=37661446) - [FTC Sues Amazon for Illegally Maintaining Monopoly Power](https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power)
+* [2023-09-26, 16:09:22](https://news.ycombinator.com/item?id=37661431) - [Classic rock, Mario Kart, and why we can’t agree on Tailwind](https://joshcollinsworth.com/blog/tailwind-is-smart-steering)
 * [2023-09-26, 15:43:26](https://news.ycombinator.com/item?id=37661034) - [Common infections can spark psychiatric illnesses in children](https://www.economist.com/science-and-technology/2023/09/20/how-common-infections-can-spark-psychiatric-illnesses-in-children)
 * [2023-09-26, 14:42:46](https://news.ycombinator.com/item?id=37660146) - [ArcEm – The Acorn Archimedes Emulator](https://arcem.sourceforge.net/)
 * [2023-09-26, 14:36:18](https://news.ycombinator.com/item?id=37660025) - [Spinneret: A modern Common Lisp HTML generator](https://github.com/ruricolist/spinneret)
