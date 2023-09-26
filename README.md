@@ -18,7 +18,6 @@
 * [2023-09-25, 21:55:07](https://news.ycombinator.com/item?id=37651260) - [Is Math Real?](https://maa.org/press/maa-reviews/is-math-real)
 * [2023-09-25, 21:47:42](https://news.ycombinator.com/item?id=37651171) - [The SR-71 Blackbird Astro-Nav System worked by tracking the stars](https://theaviationgeekclub.com/the-sr-71-blackbird-astro-nav-system-aka-r2-d2-worked-by-tracking-the-stars-and-was-so-powerful-that-it-could-see-the-stars-even-in-daylight/)
 * [2023-09-25, 21:00:42](https://news.ycombinator.com/item?id=37650533) - [Svix (YC W21) Is Hiring a Technical Lead (US Remote)](https://www.svix.com/careers/)
-* [2023-09-25, 20:20:55](https://news.ycombinator.com/item?id=37650040) - [PostScript’s sudden death in Sonoma](https://eclecticlight.co/2023/09/25/postscripts-sudden-death-in-sonoma/)
 * [2023-09-25, 19:40:54](https://news.ycombinator.com/item?id=37649448) - [DJI Mini 4 Pro](https://www.dji.com/mini-4-pro)
 * [2023-09-25, 18:05:07](https://news.ycombinator.com/item?id=37648068) - [Unity's oldest community announces dissolution](http://farewell.bostonunitygroup.com/)
 * [2023-09-25, 15:55:44](https://news.ycombinator.com/item?id=37645945) - [Saint Helena Island Communications](http://sainthelenaisland.info/communications.htm)
@@ -30,6 +29,7 @@
 * [2023-09-25, 03:04:38](https://news.ycombinator.com/item?id=37639267) - [When I stopped trying to self-optimize, I got better](https://www.nytimes.com/2023/09/17/opinion/sports-zen-mental-subtraction.html)
 * [2023-09-24, 20:44:47](https://news.ycombinator.com/item?id=37637006) - [PID Control Challenges](http://janismac.github.io/ControlChallenges/)
 * [2023-09-24, 08:10:52](https://news.ycombinator.com/item?id=37631089) - [A hacker's guide to language models [video]](https://www.youtube.com/watch?v=jkrNMKz9pWU)
+* [2023-09-24, 07:03:51](https://news.ycombinator.com/item?id=37630804) - [Text editing on mobile: the invisible problem](https://jenson.org/text/)
 
 ## [Archives](archives/index.md)
 
