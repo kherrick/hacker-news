@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
 * [2023-09-26, 19:31:40](https://news.ycombinator.com/item?id=37664682) - [Rethinking the Luddites in the Age of A.I](https://www.newyorker.com/books/page-turner/rethinking-the-luddites-in-the-age-of-ai)
+* [2023-09-26, 19:31:01](https://news.ycombinator.com/item?id=37664668) - [The Plot of All Objects in the Universe](https://kottke.org/23/09/the-plot-of-all-objects-in-the-universe)
 * [2023-09-26, 18:35:04](https://news.ycombinator.com/item?id=37663820) - [Facebook Prophet: library for generating forecasts from any time series data](https://github.com/facebook/prophet)
 * [2023-09-26, 18:28:20](https://news.ycombinator.com/item?id=37663725) - [EU tells Apple to open everything up to its rivals](https://appleinsider.com/articles/23/09/26/eu-tells-apple-to-open-everything-up-to-its-rivals)
 * [2023-09-26, 18:25:50](https://news.ycombinator.com/item?id=37663694) - [List of FPGA-Based Computing Machines](https://cmpware.com/io.com/guccione/HW_list.html)
@@ -81,6 +82,7 @@
 * [2023-09-26, 05:41:01](https://news.ycombinator.com/item?id=37654904) - [Control Center on macOS is always re-rendering its SwiftUI causing 1% CPU load](https://twitter.com/praeclarum/status/1706356007348343064)
 * [2023-09-26, 05:39:19](https://news.ycombinator.com/item?id=37654891) - [Quadlets might make me finally stop using Docker-compose – Major Hayden](https://major.io/p/quadlets-replace-docker-compose/)
 * [2023-09-26, 05:24:10](https://news.ycombinator.com/item?id=37654792) - [I was happy, sad, lost and lonely without a smartphone at the same time](https://ruky.me/2023/09/26/i-was-happy-sad-lost-and-lonely-without-a-smartphone-at-the-same-time/)
+* [2023-09-26, 05:17:18](https://news.ycombinator.com/item?id=37654751) - [Mathematicians Cross the Line to Get to the Point](https://www.quantamagazine.org/mathematicians-cross-the-line-to-get-to-the-point-20230925/)
 * [2023-09-26, 05:04:16](https://news.ycombinator.com/item?id=37654653) - [John Carmack and Rich Sutton partner to accelerate development of AGI](https://www.globenewswire.com/news-release/2023/09/25/2749057/0/en/John-Carmack-and-Rich-Sutton-partner-to-accelerate-development-of-Artificial-General-Intelligence.html)
 * [2023-09-26, 04:58:54](https://news.ycombinator.com/item?id=37654600) - [Chip War: The Fight for the Most Critical Technology [video]](https://www.youtube.com/watch?v=2tSs7aESx8s)
 * [2023-09-26, 04:39:47](https://news.ycombinator.com/item?id=37654460) - [Toyota to triple EV output as it chases Tesla, BYD](https://asia.nikkei.com/Business/Automobiles/Toyota-to-triple-EV-output-as-it-chases-Tesla-BYD)
