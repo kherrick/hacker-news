@@ -80,6 +80,7 @@
 * [2023-09-23, 09:02:22](https://news.ycombinator.com/item?id=37621697) - [Tinder Offers $500-a-Month Subscription to Its Most Active Users](https://www.bloomberg.com/news/articles/2023-09-22/tinder-offers-500-per-month-subscription-for-top-1-of-daters)
 * [2023-09-23, 07:31:31](https://news.ycombinator.com/item?id=37621348) - [Ask HN: Who is using the D language and likes/doesn't like it? Why?](https://news.ycombinator.com/item?id=37621348)
 * [2023-09-23, 07:18:39](https://news.ycombinator.com/item?id=37621274) - [Shshsh is a bridge connects Python and shell](https://github.com/zqqqqz2000/shshsh)
+* [2023-09-23, 06:51:31](https://news.ycombinator.com/item?id=37621151) - [Drawing hat tiling using Racket](https://rdivyanshu.github.io/hat.html)
 * [2023-09-23, 05:01:46](https://news.ycombinator.com/item?id=37620688) - [Zuckerberg,Bezos,Gates.Behind Every Self-Made Millionaire Is a Father with Money](https://medium.com/@moh.aboelez/mark-zuckerberg-jeff-bezos-bill-gates-behind-every-self-made-millionaire-is-a-father-with-money-a69c32218ac4)
 * [2023-09-23, 04:54:08](https://news.ycombinator.com/item?id=37620665) - [American Labor’s Real Problem: It Isn’t Productive Enough](https://www.wsj.com/economy/american-labors-real-problem-it-isnt-productive-enough-185fb9f1)
 * [2023-09-23, 04:43:16](https://news.ycombinator.com/item?id=37620634) - [State of HTML 2023 now open](https://lea.verou.me/blog/2023/state-of-html-2023/)

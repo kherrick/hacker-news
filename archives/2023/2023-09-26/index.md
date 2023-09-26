@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
+* [2023-09-26, 18:35:04](https://news.ycombinator.com/item?id=37663820) - [Facebook Prophet: library for generating forecasts from any time series data](https://github.com/facebook/prophet)
+* [2023-09-26, 18:28:20](https://news.ycombinator.com/item?id=37663725) - [EU tells Apple to open everything up to its rivals](https://appleinsider.com/articles/23/09/26/eu-tells-apple-to-open-everything-up-to-its-rivals)
 * [2023-09-26, 18:25:50](https://news.ycombinator.com/item?id=37663694) - [List of FPGA-Based Computing Machines](https://cmpware.com/io.com/guccione/HW_list.html)
 * [2023-09-26, 18:14:53](https://news.ycombinator.com/item?id=37663529) - [Deep-TEMPEST: Recovering images from unintentional EM radiation of HDMI](https://twitter.com/fedelarrocca/status/1688990564576854018)
 * [2023-09-26, 18:14:23](https://news.ycombinator.com/item?id=37663523) - [Causality for Machine Learning](https://ff13.fastforwardlabs.com/)
