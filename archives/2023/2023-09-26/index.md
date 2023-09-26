@@ -16,6 +16,7 @@
 * [2023-09-26, 07:53:11](https://news.ycombinator.com/item?id=37655915) - [Ask HN: Something Wrong with Hetzner Servers?](https://news.ycombinator.com/item?id=37655915)
 * [2023-09-26, 07:09:46](https://news.ycombinator.com/item?id=37655544) - [What Is a Vector Database?](https://weaviate.io/blog/what-is-a-vector-database)
 * [2023-09-26, 07:01:45](https://news.ycombinator.com/item?id=37655477) - [macOS Containers v0.0.1](https://macoscontainers.org/)
+* [2023-09-26, 06:17:40](https://news.ycombinator.com/item?id=37655119) - [Airbnb Is Different Now](https://www.theatlantic.com/technology/archive/2023/09/airbnb-hotel-hosting-cleaning-fees/675355/)
 * [2023-09-26, 06:11:40](https://news.ycombinator.com/item?id=37655094) - [Inside the Matrix: Visualizing Matrix Multiplication, Attention and Beyond](https://pytorch.org/blog/inside-the-matrix/)
 * [2023-09-26, 06:10:48](https://news.ycombinator.com/item?id=37655088) - [Are older people less innovative?](https://laetitiaatwork.substack.com/p/are-older-people-less-innovative)
 * [2023-09-26, 05:41:01](https://news.ycombinator.com/item?id=37654904) - [Control Center on macOS is always re-rendering its SwiftUI causing 1% CPU load](https://twitter.com/praeclarum/status/1706356007348343064)
