@@ -89,6 +89,7 @@
 * [2023-09-25, 10:48:47](https://news.ycombinator.com/item?id=37641769) - [Making Military Service More Attractive for Modern Spouses](https://warontherocks.com/2023/09/making-military-service-more-attractive-for-modern-spouses/)
 * [2023-09-25, 10:41:31](https://news.ycombinator.com/item?id=37641706) - [OnlyFans](https://onlyfans.web.cern.ch/)
 * [2023-09-25, 10:36:20](https://news.ycombinator.com/item?id=37641660) - [I Quit My Job at Amazon Rather Than Return to the Office 3 Days a Week](https://www.businessinsider.com/i-quit-return-to-office-order-amazon-rto-2023-9)
+* [2023-09-25, 10:35:44](https://news.ycombinator.com/item?id=37641658) - [A new architecture for publishing web content to desktop](https://www.construct.net/en/blogs/construct-official-blog-1/new-architecture-publishing-1864)
 * [2023-09-25, 10:29:35](https://news.ycombinator.com/item?id=37641628) - [Upsert in SQL](https://antonz.org/sql-upsert/)
 * [2023-09-25, 10:21:12](https://news.ycombinator.com/item?id=37641590) - [Nuvem: Cable to connect Portugal, Bermuda, and the U.S.](https://cloud.google.com/blog/products/infrastructure/introducing-the-nuvem-subsea-cable/)
 * [2023-09-25, 10:19:40](https://news.ycombinator.com/item?id=37641583) - [New York employers must include pay rates in job ads under new state law](https://english.elpais.com/economy-and-business/2023-09-17/new-york-employers-must-include-pay-rates-in-job-ads-under-new-state-law.html)
