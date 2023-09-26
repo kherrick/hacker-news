@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
+* [2023-09-26, 13:41:45](https://news.ycombinator.com/item?id=37659164) - [Freelancers aren’t happy with Japan’s new invoice system](https://www.japantimes.co.jp/community/2023/09/25/how-tos/freelancer-tax-system/)
+* [2023-09-26, 13:26:58](https://news.ycombinator.com/item?id=37658963) - [The World’s Biggest Crypto Firm Is Melting Down](https://www.wsj.com/finance/currencies/the-worlds-biggest-crypto-firm-is-melting-down-338b8e17)
 * [2023-09-26, 13:22:46](https://news.ycombinator.com/item?id=37658915) - [Firefox 118](https://www.mozilla.org/en-US/firefox/118.0/releasenotes/)
 * [2023-09-26, 13:19:42](https://news.ycombinator.com/item?id=37658884) - [Modular Lpddr Memory Becomes a Reality: Samsung Introduces Lpcamm Memory Modules](https://www.anandtech.com/show/21069/modular-lpddr-becomes-a-reality-samsung-introduces-lpcamm-memory-modules)
 * [2023-09-26, 12:58:58](https://news.ycombinator.com/item?id=37658629) - [Poland may seek extradition of Ukrainian Nazi WW2 veteran Hunka from Canada](https://notesfrompoland.com/2023/09/26/poland-may-seek-extradition-of-ukrainian-nazi-ww2-veteran-hunka-from-canada/)
