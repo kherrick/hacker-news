@@ -13,6 +13,7 @@
 * [2023-09-26, 18:14:23](https://news.ycombinator.com/item?id=37663523) - [Causality for Machine Learning](https://ff13.fastforwardlabs.com/)
 * [2023-09-26, 17:58:47](https://news.ycombinator.com/item?id=37663270) - [Show HN: Unity like game editor running in pure WASM](https://raverie-us.github.io/raverie-engine/)
 * [2023-09-26, 17:54:42](https://news.ycombinator.com/item?id=37663194) - [ROCm Is AMD's #1 Priority, Executive Says](https://www.eetimes.com/rocm-is-amds-no-1-priority-exec-says/)
+* [2023-09-26, 17:52:45](https://news.ycombinator.com/item?id=37663159) - [Sidechannel pixel-stealing attack works in Chromium on all modern GPUs](https://arstechnica.com/security/2023/09/gpus-from-all-major-suppliers-are-vulnerable-to-new-pixel-stealing-attack/)
 * [2023-09-26, 17:46:05](https://news.ycombinator.com/item?id=37663035) - [I'm convinced now that “personal LLMs” are going to be a huge thing](https://old.reddit.com/r/LocalLLaMA/comments/16au3ga/im_convinced_now_that_personal_llms_are_going_to/)
 * [2023-09-26, 17:39:51](https://news.ycombinator.com/item?id=37662937) - [Ask HN: Tips for Solopreneur?](https://news.ycombinator.com/item?id=37662937)
 * [2023-09-26, 17:21:12](https://news.ycombinator.com/item?id=37662655) - [Exploring Linux command-line space time](https://fabiensanglard.net/st/index.html)
