@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-25](index.md)
 
+* [2023-09-25, 23:58:21](https://news.ycombinator.com/item?id=37652456) - [Burkey Belser, designer of the nutrition facts label, has died](https://www.washingtonpost.com/obituaries/2023/09/25/burkey-belser-designer-of-ubiquitous-nutrition-facts-label-dies-at-76/)
 * [2023-09-25, 23:03:11](https://news.ycombinator.com/item?id=37651962) - [‘All of Sony Systems’ Allegedly Hacked by New Ransomware Group](https://kotaku.com/sony-playstation-hack-breach-ransomware-ransomed-vc-1850870993)
 * [2023-09-25, 22:23:23](https://news.ycombinator.com/item?id=37651548) - [Rich Sutton joins John Carmack's Keen Technologies](https://twitter.com/ID_AA_Carmack/status/1706420064956661867)
 * [2023-09-25, 22:21:51](https://news.ycombinator.com/item?id=37651529) - [Distinguishing features of Long Covid identified through immune profiling](https://www.nature.com/articles/s41586-023-06651-y)
