@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-26, 12:58:58](https://news.ycombinator.com/item?id=37658629) - [Poland may seek extradition of Ukrainian Nazi WW2 veteran Hunka from Canada](https://notesfrompoland.com/2023/09/26/poland-may-seek-extradition-of-ukrainian-nazi-ww2-veteran-hunka-from-canada/)
 * [2023-09-26, 12:38:19](https://news.ycombinator.com/item?id=37658410) - [Ask HN: Have you been affected by layoffs?](https://news.ycombinator.com/item?id=37658410)
 * [2023-09-26, 12:37:30](https://news.ycombinator.com/item?id=37658398) - [The Guide to Deno](https://medium.com/deno-the-complete-reference/an-ultimate-guide-to-deno-bc02535754f0)
 * [2023-09-26, 12:31:06](https://news.ycombinator.com/item?id=37658319) - [Google is picking ChatGPT responses from Quora as correct answer](https://twitter.com/8teapi/status/1706520893621784780)
+* [2023-09-26, 11:51:08](https://news.ycombinator.com/item?id=37657925) - [Chess grandmaster Hans Niemann denies using vibrating sex toy to cheat](https://www.bbc.com/news/world-us-canada-66921563)
 * [2023-09-26, 11:33:31](https://news.ycombinator.com/item?id=37657746) - [Google assigns a CVE for libwebp and gives it a 10.0 score](https://stackdiary.com/heap-buffer-overflow-in-libwebp-cve-2023-5129/)
 * [2023-09-26, 11:06:33](https://news.ycombinator.com/item?id=37657519) - [We bootstrap: Hitting $1.5M ARR with a super lean team](https://www.flagsmith.com/blog/why-we-bootstrap)
 * [2023-09-26, 10:50:26](https://news.ycombinator.com/item?id=37657368) - [Who Lusts for Certainty Lusts for Lies](https://www.etymonline.com/columns/post/who-lusts-for-certainty-lusts-for-lies)
@@ -26,8 +28,6 @@
 * [2023-09-25, 12:31:07](https://news.ycombinator.com/item?id=37642671) - [Show HN: E-Ink Day Schedule](https://github.com/davidhampgonsalves/life-dashboard)
 * [2023-09-25, 12:19:32](https://news.ycombinator.com/item?id=37642538) - [The Casino in Your Pocket](https://blog.curtii.com/blog/posts/wordscapes-the-casino-in-your-pocket/)
 * [2023-09-25, 10:21:12](https://news.ycombinator.com/item?id=37641590) - [Nuvem, a subsea cable to connect Portugal, Bermuda, and the U.S.](https://cloud.google.com/blog/products/infrastructure/introducing-the-nuvem-subsea-cable/)
-* [2023-09-25, 09:44:19](https://news.ycombinator.com/item?id=37641393) - [An analysis of the Google antitrust trial](https://www.thebignewsletter.com/p/how-to-hide-a-2-trillion-antitrust)
-* [2023-09-25, 07:39:03](https://news.ycombinator.com/item?id=37640643) - [Intel’s Ponte Vecchio: Chiplets Gone Crazy](https://chipsandcheese.com/2023/09/23/intels-ponte-vecchio-chiplets-gone-crazy/)
 * [2023-09-24, 20:44:47](https://news.ycombinator.com/item?id=37637006) - [PID Control Challenges](http://janismac.github.io/ControlChallenges/)
 * [2023-09-24, 08:10:52](https://news.ycombinator.com/item?id=37631089) - [A hacker's guide to language models [video]](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 
