@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-09-26, 16:29:56",
+      "https://news.ycombinator.com/item?id=37661755"
+    ],
+    [
+      "Show HN: Ollama for Linux – Run LLMs on Linux with GPU Acceleration",
+      "https://github.com/jmorganca/ollama/releases/tag/v0.1.0"
+    ]
+  ],
+  [
+    [
+      "2023-09-26, 16:26:51",
+      "https://news.ycombinator.com/item?id=37661693"
+    ],
+    [
+      "FTC files an antitrust lawsuit against Amazon",
+      "https://www.theverge.com/2023/9/26/23809817/amazon-ftc-antitrust-lawsuit-monopoly"
+    ]
+  ],
+  [
+    [
+      "2023-09-26, 16:21:30",
+      "https://news.ycombinator.com/item?id=37661609"
+    ],
+    [
+      "9th Circuit rejects TSA claim of impunity for checkpoint staff who rape traveler",
+      "https://papersplease.org/wp/2023/06/26/9th-circuit-rejects-tsa-claim-of-impunity-for-checkpoint-staff-who-rape-travelers/"
+    ]
+  ],
+  [
+    [
       "2023-09-26, 16:10:40",
       "https://news.ycombinator.com/item?id=37661446"
     ],
@@ -27,16 +57,6 @@
     [
       "Ask HN: Best practices for safeguarding master password in organization?",
       "https://news.ycombinator.com/item?id=37661163"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 15:43:42",
-      "https://news.ycombinator.com/item?id=37661037"
-    ],
-    [
-      "Two Thirds of American Kids Can’t Read Fluently",
-      "https://www.scientificamerican.com/article/two-thirds-of-american-kids-cant-read-fluently/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-09-26, 11:06:33",
-      "https://news.ycombinator.com/item?id=37657519"
-    ],
-    [
-      "Why we bootstrap",
-      "https://www.flagsmith.com/blog/why-we-bootstrap"
-    ]
-  ],
-  [
-    [
       "2023-09-26, 10:50:26",
       "https://news.ycombinator.com/item?id=37657368"
     ],
@@ -217,16 +227,6 @@
     [
       "NSA, FBI, and CISA Release Cybersecurity Information Sheet on Deepfake Threats",
       "https://www.cisa.gov/news-events/alerts/2023/09/12/nsa-fbi-and-cisa-release-cybersecurity-information-sheet-deepfake-threats"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 08:28:59",
-      "https://news.ycombinator.com/item?id=37656170"
-    ],
-    [
-      "FCC aims to reinstate net neutrality after us Democrats gain control of panel",
-      "https://www.bloomberg.com/news/articles/2023-09-26/fcc-aims-to-reinstate-net-neutrality-rules-as-us-democrats-gain-control-of-panel"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2023-09-26, 02:39:10",
-      "https://news.ycombinator.com/item?id=37653656"
-    ],
-    [
-      "Nickel Hydrogen Batteries by NASA",
-      "https://spectrum.ieee.org/grid-scale-battery-storage-nickel-hydrogen"
-    ]
-  ],
-  [
-    [
       "2023-09-25, 15:59:13",
       "https://news.ycombinator.com/item?id=37646008"
     ],
@@ -297,6 +287,16 @@
     [
       "Viable ROP-free roadmap for i386/armv8/riscv64/alpha/sparc64",
       "https://marc.info/?l=openbsd-tech&m=169558749114476&w=2"
+    ]
+  ],
+  [
+    [
+      "2023-09-25, 01:41:36",
+      "https://news.ycombinator.com/item?id=37638820"
+    ],
+    [
+      "ECE6133: Physical Design Automation of VLSI Systems",
+      "https://limsk.ece.gatech.edu/course/ece6133/"
     ]
   ]
 ]
