@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-26, 17:12:17](https://news.ycombinator.com/item?id=37662510) - [macOS Sonoma is available today](https://www.apple.com/newsroom/2023/09/macos-sonoma-is-available-today/)
 * [2023-09-26, 17:00:05](https://news.ycombinator.com/item?id=37662297) - [Byterat (YC W23) Is Hiring a Founding Engineer (San Francisco)](https://www.ycombinator.com/companies/byterat/jobs/UtaWWqL-founding-engineer)
 * [2023-09-26, 16:59:20](https://news.ycombinator.com/item?id=37662281) - [Digging In: Why Don’t Americans Eat Mutton?](https://modernfarmer.com/2023/09/digging-in-mutton/)
 * [2023-09-26, 16:31:16](https://news.ycombinator.com/item?id=37661767) - [Show HN: Magentic – Use LLMs as simple Python functions](https://github.com/jackmpcollins/magentic)
@@ -20,7 +21,6 @@
 * [2023-09-26, 13:41:45](https://news.ycombinator.com/item?id=37659164) - [Freelancers aren’t happy with Japan’s new invoice system](https://www.japantimes.co.jp/community/2023/09/25/how-tos/freelancer-tax-system/)
 * [2023-09-26, 13:40:41](https://news.ycombinator.com/item?id=37659153) - [JEP 457: Class-File API for Parsing, generating, transforming Java classfiles](https://openjdk.org/jeps/457)
 * [2023-09-26, 13:37:02](https://news.ycombinator.com/item?id=37659110) - [How to make history with LLMs and other generative models](https://leighmariebraswell.substack.com/p/how-to-make-history-with-llms-and)
-* [2023-09-26, 13:22:46](https://news.ycombinator.com/item?id=37658915) - [Firefox 118](https://www.mozilla.org/en-US/firefox/118.0/releasenotes/)
 * [2023-09-26, 11:36:21](https://news.ycombinator.com/item?id=37657772) - [Yandex open sourced it's BI tool DataLens](https://github.com/datalens-tech)
 * [2023-09-26, 11:32:24](https://news.ycombinator.com/item?id=37657736) - [DuckDB 0.9.0](https://duckdb.org/2023/09/26/announcing-duckdb-090.html)
 * [2023-09-26, 10:50:26](https://news.ycombinator.com/item?id=37657368) - [Google Ngram Viewer n-grams are wrong](https://www.etymonline.com/columns/post/who-lusts-for-certainty-lusts-for-lies)

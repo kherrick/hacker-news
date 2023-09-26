@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
+* [2023-09-26, 17:12:17](https://news.ycombinator.com/item?id=37662510) - [macOS Sonoma is available today](https://www.apple.com/newsroom/2023/09/macos-sonoma-is-available-today/)
 * [2023-09-26, 17:00:05](https://news.ycombinator.com/item?id=37662297) - [Byterat (YC W23) Is Hiring a Founding Engineer (San Francisco)](https://www.ycombinator.com/companies/byterat/jobs/UtaWWqL-founding-engineer)
 * [2023-09-26, 16:59:20](https://news.ycombinator.com/item?id=37662281) - [Digging In: Why Don’t Americans Eat Mutton?](https://modernfarmer.com/2023/09/digging-in-mutton/)
 * [2023-09-26, 16:31:16](https://news.ycombinator.com/item?id=37661767) - [Show HN: Magentic – Use LLMs as simple Python functions](https://github.com/jackmpcollins/magentic)
