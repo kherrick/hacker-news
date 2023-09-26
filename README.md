@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-26, 03:07:25](https://news.ycombinator.com/item?id=37653831) - [Costco now offering virtual medical care for $29](https://www.cbsnews.com/news/costco-virtual-medical-checkups-for-29/)
+* [2023-09-26, 03:02:35](https://news.ycombinator.com/item?id=37653804) - [Hotel hackers redirect guests to fake Booking.com to steal cards](https://www.bleepingcomputer.com/news/security/hotel-hackers-redirect-guests-to-fake-bookingcom-to-steal-cards/)
 * [2023-09-26, 00:01:01](https://news.ycombinator.com/item?id=37652479) - [The United States of Bed Bath & Beyond](https://www.epsilontheory.com/the-united-states-of-bed-bath-beyond/)
 * [2023-09-25, 23:58:21](https://news.ycombinator.com/item?id=37652456) - [Burkey Belser, designer of the nutrition facts label, has died](https://www.washingtonpost.com/obituaries/2023/09/25/burkey-belser-designer-of-ubiquitous-nutrition-facts-label-dies-at-76/)
 * [2023-09-25, 23:03:11](https://news.ycombinator.com/item?id=37651962) - [‘All of Sony Systems’ Allegedly Hacked by New Ransomware Group](https://kotaku.com/sony-playstation-hack-breach-ransomware-ransomed-vc-1850870993)
@@ -21,7 +22,6 @@
 * [2023-09-25, 12:31:07](https://news.ycombinator.com/item?id=37642671) - [Show HN: E-Ink Day Schedule](https://github.com/davidhampgonsalves/life-dashboard)
 * [2023-09-25, 12:26:24](https://news.ycombinator.com/item?id=37642610) - [Rhythm 0](https://en.wikipedia.org/wiki/Rhythm_0)
 * [2023-09-25, 12:19:32](https://news.ycombinator.com/item?id=37642538) - [The Casino in Your Pocket](https://blog.curtii.com/blog/posts/wordscapes-the-casino-in-your-pocket/)
-* [2023-09-25, 11:24:16](https://news.ycombinator.com/item?id=37642076) - [Ask HN: Android low latency audio in 2023](https://news.ycombinator.com/item?id=37642076)
 * [2023-09-25, 10:21:12](https://news.ycombinator.com/item?id=37641590) - [Nuvem, a subsea cable to connect Portugal, Bermuda, and the U.S.](https://cloud.google.com/blog/products/infrastructure/introducing-the-nuvem-subsea-cable/)
 * [2023-09-25, 09:49:15](https://news.ycombinator.com/item?id=37641416) - [Intel Meteor Lake Architecture](https://hothardware.com/reviews/intel-meteor-lake-architecture)
 * [2023-09-25, 07:39:03](https://news.ycombinator.com/item?id=37640643) - [Intel’s Ponte Vecchio: Chiplets Gone Crazy](https://chipsandcheese.com/2023/09/23/intels-ponte-vecchio-chiplets-gone-crazy/)
