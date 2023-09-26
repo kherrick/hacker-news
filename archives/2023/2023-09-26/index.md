@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
 * [2023-09-26, 19:59:48](https://news.ycombinator.com/item?id=37665052) - [Python Insider: Python 3.12.0 release candidate 3 now available](https://pythoninsider.blogspot.com/2023/09/python-3120-release-candidate-3-now.html)
+* [2023-09-26, 19:33:28](https://news.ycombinator.com/item?id=37664710) - [Google Podcasts is going away](https://support.google.com/youtubemusic/thread/236590252/today%E2%80%99s-news-about-google-podcasts?hl=en)
 * [2023-09-26, 19:31:40](https://news.ycombinator.com/item?id=37664682) - [Rethinking the Luddites in the Age of A.I](https://www.newyorker.com/books/page-turner/rethinking-the-luddites-in-the-age-of-ai)
 * [2023-09-26, 19:31:01](https://news.ycombinator.com/item?id=37664668) - [The Plot of All Objects in the Universe](https://kottke.org/23/09/the-plot-of-all-objects-in-the-universe)
 * [2023-09-26, 19:31:01](https://news.ycombinator.com/item?id=37664668) - [All objects and some questions](https://pubs.aip.org/aapt/ajp/article/91/10/819/2911822/All-objects-and-some-questions)
@@ -18,6 +19,7 @@
 * [2023-09-26, 17:52:45](https://news.ycombinator.com/item?id=37663159) - [Sidechannel pixel-stealing attack works in Chromium on all modern GPUs](https://arstechnica.com/security/2023/09/gpus-from-all-major-suppliers-are-vulnerable-to-new-pixel-stealing-attack/)
 * [2023-09-26, 17:46:05](https://news.ycombinator.com/item?id=37663035) - [I'm convinced now that “personal LLMs” are going to be a huge thing](https://old.reddit.com/r/LocalLLaMA/comments/16au3ga/im_convinced_now_that_personal_llms_are_going_to/)
 * [2023-09-26, 17:39:51](https://news.ycombinator.com/item?id=37662937) - [Ask HN: Tips for Solopreneur?](https://news.ycombinator.com/item?id=37662937)
+* [2023-09-26, 17:29:57](https://news.ycombinator.com/item?id=37662791) - [macOS 14 Sonoma firewall bug fixed](https://mullvad.net/en/blog/2023/9/22/macos-14-sonoma-firewall-bug-fixed/)
 * [2023-09-26, 17:21:12](https://news.ycombinator.com/item?id=37662655) - [Exploring Linux command-line space time](https://fabiensanglard.net/st/index.html)
 * [2023-09-26, 17:15:33](https://news.ycombinator.com/item?id=37662561) - [Vizro – toolkit for creating modular data visualization applications](https://github.com/mckinsey/vizro)
 * [2023-09-26, 17:12:17](https://news.ycombinator.com/item?id=37662510) - [macOS Sonoma is available today](https://www.apple.com/newsroom/2023/09/macos-sonoma-is-available-today/)
