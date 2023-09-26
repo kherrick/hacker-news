@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-26, 15:15:32](https://news.ycombinator.com/item?id=37660586) - [Hedge Fund Made a Killing Betting Against Lina Khan](https://www.wsj.com/us-news/law/the-hedge-fund-that-made-a-killing-betting-against-lina-khan-d5b395b1)
+* [2023-09-26, 15:52:31](https://news.ycombinator.com/item?id=37661163) - [Ask HN: Best practices for safeguarding master password in organization?](https://news.ycombinator.com/item?id=37661163)
+* [2023-09-26, 15:43:26](https://news.ycombinator.com/item?id=37661034) - [Common infections can spark psychiatric illnesses in children](https://www.economist.com/science-and-technology/2023/09/20/how-common-infections-can-spark-psychiatric-illnesses-in-children)
 * [2023-09-26, 14:55:44](https://news.ycombinator.com/item?id=37660327) - [Unity U-turns on controversial runtime fee and begs forgiveness](https://techcrunch.com/2023/09/22/unity-u-turns-on-controversial-runtime-fee-and-begs-forgiveness/)
+* [2023-09-26, 14:50:35](https://news.ycombinator.com/item?id=37660256) - [Investigation: 78% of carbon offset projects globally are “likely junk“](https://www.power-technology.com/news/report-majority-carbon-offsets-junk-or-useless/)
 * [2023-09-26, 14:42:46](https://news.ycombinator.com/item?id=37660146) - [ArcEm – The Acorn Archimedes Emulator](https://arcem.sourceforge.net/)
 * [2023-09-26, 14:41:30](https://news.ycombinator.com/item?id=37660120) - [Apple exec Eddy Cue set to testify in Google trial about $19B search deal](https://www.cnbc.com/2023/09/26/apple-exec-eddy-cue-testify-google-trial-about-19-billion-search-deal.html)
 * [2023-09-26, 14:36:18](https://news.ycombinator.com/item?id=37660025) - [Spinneret: A modern Common Lisp HTML generator](https://github.com/ruricolist/spinneret)
@@ -12,9 +14,8 @@
 * [2023-09-26, 13:37:02](https://news.ycombinator.com/item?id=37659110) - [How to make history with LLMs and other generative models](https://leighmariebraswell.substack.com/p/how-to-make-history-with-llms-and)
 * [2023-09-26, 13:22:46](https://news.ycombinator.com/item?id=37658915) - [Firefox 118](https://www.mozilla.org/en-US/firefox/118.0/releasenotes/)
 * [2023-09-26, 13:19:42](https://news.ycombinator.com/item?id=37658884) - [Modular Lpddr Memory Becomes a Reality: Samsung Introduces Lpcamm Memory Modules](https://www.anandtech.com/show/21069/modular-lpddr-becomes-a-reality-samsung-introduces-lpcamm-memory-modules)
-* [2023-09-26, 12:56:41](https://news.ycombinator.com/item?id=37658593) - [Space Force chief says commercial satellites may need defending](https://arstechnica.com/space/2023/09/space-force-chief-foresees-role-in-protecting-commercial-satellites/)
-* [2023-09-26, 12:37:30](https://news.ycombinator.com/item?id=37658398) - [The ultimate guide to Deno (2022)](https://medium.com/deno-the-complete-reference/an-ultimate-guide-to-deno-bc02535754f0)
 * [2023-09-26, 12:31:06](https://news.ycombinator.com/item?id=37658319) - [Google is picking ChatGPT responses from Quora as correct answer](https://twitter.com/8teapi/status/1706520893621784780)
+* [2023-09-26, 11:36:21](https://news.ycombinator.com/item?id=37657772) - [Yandex open sourced it's BI tool DataLens](https://github.com/datalens-tech)
 * [2023-09-26, 11:33:31](https://news.ycombinator.com/item?id=37657746) - [Google assigns a CVE for libwebp and gives it a 10.0 score](https://stackdiary.com/heap-buffer-overflow-in-libwebp-cve-2023-5129/)
 * [2023-09-26, 11:32:24](https://news.ycombinator.com/item?id=37657736) - [DuckDB 0.9.0](https://duckdb.org/2023/09/26/announcing-duckdb-090.html)
 * [2023-09-26, 11:06:33](https://news.ycombinator.com/item?id=37657519) - [Why we bootstrap](https://www.flagsmith.com/blog/why-we-bootstrap)
@@ -29,7 +30,6 @@
 * [2023-09-25, 21:47:42](https://news.ycombinator.com/item?id=37651171) - [The SR-71 Blackbird Astro-Nav System worked by tracking the stars](https://theaviationgeekclub.com/the-sr-71-blackbird-astro-nav-system-aka-r2-d2-worked-by-tracking-the-stars-and-was-so-powerful-that-it-could-see-the-stars-even-in-daylight/)
 * [2023-09-25, 15:59:13](https://news.ycombinator.com/item?id=37646008) - [Verilog to Routing](https://verilogtorouting.org/)
 * [2023-09-25, 14:37:55](https://news.ycombinator.com/item?id=37644543) - [Viable ROP-free roadmap for i386/armv8/riscv64/alpha/sparc64](https://marc.info/?l=openbsd-tech&m=169558749114476&w=2)
-* [2023-09-25, 12:19:32](https://news.ycombinator.com/item?id=37642538) - [The casino in your pocket](https://blog.curtii.com/blog/posts/wordscapes-the-casino-in-your-pocket/)
 
 ## [Archives](archives/index.md)
 

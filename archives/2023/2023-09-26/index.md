@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
+* [2023-09-26, 15:52:31](https://news.ycombinator.com/item?id=37661163) - [Ask HN: Best practices for safeguarding master password in organization?](https://news.ycombinator.com/item?id=37661163)
+* [2023-09-26, 15:43:26](https://news.ycombinator.com/item?id=37661034) - [Common infections can spark psychiatric illnesses in children](https://www.economist.com/science-and-technology/2023/09/20/how-common-infections-can-spark-psychiatric-illnesses-in-children)
 * [2023-09-26, 15:15:32](https://news.ycombinator.com/item?id=37660586) - [Hedge Fund Made a Killing Betting Against Lina Khan](https://www.wsj.com/us-news/law/the-hedge-fund-that-made-a-killing-betting-against-lina-khan-d5b395b1)
 * [2023-09-26, 14:55:44](https://news.ycombinator.com/item?id=37660327) - [Unity U-turns on controversial runtime fee and begs forgiveness](https://techcrunch.com/2023/09/22/unity-u-turns-on-controversial-runtime-fee-and-begs-forgiveness/)
+* [2023-09-26, 14:50:35](https://news.ycombinator.com/item?id=37660256) - [Investigation: 78% of carbon offset projects globally are “likely junk“](https://www.power-technology.com/news/report-majority-carbon-offsets-junk-or-useless/)
 * [2023-09-26, 14:42:46](https://news.ycombinator.com/item?id=37660146) - [ArcEm – The Acorn Archimedes Emulator](https://arcem.sourceforge.net/)
 * [2023-09-26, 14:41:30](https://news.ycombinator.com/item?id=37660120) - [Apple exec Eddy Cue set to testify in Google trial about $19B search deal](https://www.cnbc.com/2023/09/26/apple-exec-eddy-cue-testify-google-trial-about-19-billion-search-deal.html)
 * [2023-09-26, 14:36:18](https://news.ycombinator.com/item?id=37660025) - [Spinneret: A modern Common Lisp HTML generator](https://github.com/ruricolist/spinneret)
@@ -25,6 +28,7 @@
 * [2023-09-26, 12:37:30](https://news.ycombinator.com/item?id=37658398) - [The Guide to Deno](https://medium.com/deno-the-complete-reference/an-ultimate-guide-to-deno-bc02535754f0)
 * [2023-09-26, 12:31:06](https://news.ycombinator.com/item?id=37658319) - [Google is picking ChatGPT responses from Quora as correct answer](https://twitter.com/8teapi/status/1706520893621784780)
 * [2023-09-26, 11:51:08](https://news.ycombinator.com/item?id=37657925) - [Chess grandmaster Hans Niemann denies using vibrating sex toy to cheat](https://www.bbc.com/news/world-us-canada-66921563)
+* [2023-09-26, 11:36:21](https://news.ycombinator.com/item?id=37657772) - [Yandex open sourced it's BI tool DataLens](https://github.com/datalens-tech)
 * [2023-09-26, 11:33:31](https://news.ycombinator.com/item?id=37657746) - [Google assigns a CVE for libwebp and gives it a 10.0 score](https://stackdiary.com/heap-buffer-overflow-in-libwebp-cve-2023-5129/)
 * [2023-09-26, 11:32:24](https://news.ycombinator.com/item?id=37657736) - [DuckDB 0.9.0](https://duckdb.org/2023/09/26/announcing-duckdb-090.html)
 * [2023-09-26, 11:06:33](https://news.ycombinator.com/item?id=37657519) - [We bootstrap: Hitting $1.5M ARR with a super lean team](https://www.flagsmith.com/blog/why-we-bootstrap)
