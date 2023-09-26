@@ -28,6 +28,7 @@
 * [2023-09-25, 19:40:54](https://news.ycombinator.com/item?id=37649448) - [DJI Mini 4 Pro](https://www.dji.com/mini-4-pro)
 * [2023-09-25, 19:34:11](https://news.ycombinator.com/item?id=37649353) - [F-35A Has Flown from a Highway for the First Time](https://www.thedrive.com/the-war-zone/f-35a-has-flown-from-a-highway-for-the-first-time)
 * [2023-09-25, 19:31:23](https://news.ycombinator.com/item?id=37649307) - [Mixin suspends deposits and withdrawals after $200M cryptocurrency heist](https://www.theregister.com/2023/09/25/mixin_200m_heist/)
+* [2023-09-25, 19:27:00](https://news.ycombinator.com/item?id=37649250) - [J. G. Ballard’s Brilliant, “Not Good” Writing](https://www.theparisreview.org/blog/2023/09/22/j-g-ballards-brilliant-not-good-writing/)
 * [2023-09-25, 19:25:28](https://news.ycombinator.com/item?id=37649222) - [Ask HN: Is “Distributed CI” Possible?](https://news.ycombinator.com/item?id=37649222)
 * [2023-09-25, 19:18:24](https://news.ycombinator.com/item?id=37649114) - [US Government IT contractor could face death penalty over espionage charges](https://www.itpro.com/security/us-government-it-contractor-could-face-death-penalty-over-espionage-charges)
 * [2023-09-25, 18:58:44](https://news.ycombinator.com/item?id=37648833) - [Reclaim the Internet with Mozilla](https://blog.mozilla.org/en/mozilla/reclaim-the-internet/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
+* [2023-09-26, 17:15:33](https://news.ycombinator.com/item?id=37662561) - [Vizro – toolkit for creating modular data visualization applications](https://github.com/mckinsey/vizro)
 * [2023-09-26, 17:12:17](https://news.ycombinator.com/item?id=37662510) - [macOS Sonoma is available today](https://www.apple.com/newsroom/2023/09/macos-sonoma-is-available-today/)
 * [2023-09-26, 17:00:05](https://news.ycombinator.com/item?id=37662297) - [Byterat (YC W23) Is Hiring a Founding Engineer (San Francisco)](https://www.ycombinator.com/companies/byterat/jobs/UtaWWqL-founding-engineer)
 * [2023-09-26, 16:59:20](https://news.ycombinator.com/item?id=37662281) - [Digging In: Why Don’t Americans Eat Mutton?](https://modernfarmer.com/2023/09/digging-in-mutton/)
@@ -35,6 +36,7 @@
 * [2023-09-26, 13:26:58](https://news.ycombinator.com/item?id=37658963) - [The World’s Biggest Crypto Firm Is Melting Down](https://www.wsj.com/finance/currencies/the-worlds-biggest-crypto-firm-is-melting-down-338b8e17)
 * [2023-09-26, 13:22:46](https://news.ycombinator.com/item?id=37658915) - [Firefox 118](https://www.mozilla.org/en-US/firefox/118.0/releasenotes/)
 * [2023-09-26, 13:19:42](https://news.ycombinator.com/item?id=37658884) - [Modular Lpddr Memory Becomes a Reality: Samsung Introduces Lpcamm Memory Modules](https://www.anandtech.com/show/21069/modular-lpddr-becomes-a-reality-samsung-introduces-lpcamm-memory-modules)
+* [2023-09-26, 13:07:13](https://news.ycombinator.com/item?id=37658714) - [Kikkuli: Why do some people from the distant past become memes?](https://resobscura.substack.com/p/kikkuli)
 * [2023-09-26, 12:58:58](https://news.ycombinator.com/item?id=37658629) - [Poland may seek extradition of Ukrainian Nazi WW2 veteran Hunka from Canada](https://notesfrompoland.com/2023/09/26/poland-may-seek-extradition-of-ukrainian-nazi-ww2-veteran-hunka-from-canada/)
 * [2023-09-26, 12:56:41](https://news.ycombinator.com/item?id=37658593) - [Space Force chief says commercial satellites may need defending](https://arstechnica.com/space/2023/09/space-force-chief-foresees-role-in-protecting-commercial-satellites/)
 * [2023-09-26, 12:38:19](https://news.ycombinator.com/item?id=37658410) - [Ask HN: Have you been affected by layoffs?](https://news.ycombinator.com/item?id=37658410)
