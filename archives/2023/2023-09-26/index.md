@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
+* [2023-09-26, 21:24:09](https://news.ycombinator.com/item?id=37665988) - [Introduction to Sysclean(8) on OpenBSD](https://kapouay.eu.org/notes/sysclean-intro/)
 * [2023-09-26, 21:18:16](https://news.ycombinator.com/item?id=37665942) - [World’s first drug to regrow teeth enters clinical trials](https://globalnews.ca/news/9984605/tooth-regrowth-drug/)
 * [2023-09-26, 21:00:07](https://news.ycombinator.com/item?id=37665747) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-09-26, 20:57:32](https://news.ycombinator.com/item?id=37665709) - [The Dark Side of Tech Culture](https://blog.lettucework.io/the-dark-side-of-culture-20a59c5229b2?gi=57aec2f4d30b)

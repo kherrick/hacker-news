@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-26, 21:24:09](https://news.ycombinator.com/item?id=37665988) - [Introduction to Sysclean(8) on OpenBSD](https://kapouay.eu.org/notes/sysclean-intro/)
 * [2023-09-26, 20:57:32](https://news.ycombinator.com/item?id=37665709) - [The dark side of tech culture](https://blog.lettucework.io/the-dark-side-of-culture-20a59c5229b2?gi=57aec2f4d30b)
 * [2023-09-26, 20:29:54](https://news.ycombinator.com/item?id=37665408) - [BOOX Palma](https://shop.boox.com/products/palma)
 * [2023-09-26, 19:31:40](https://news.ycombinator.com/item?id=37664682) - [Rethinking the Luddites in the Age of A.I](https://www.newyorker.com/books/page-turner/rethinking-the-luddites-in-the-age-of-ai)
@@ -25,7 +26,6 @@
 * [2023-09-26, 05:17:18](https://news.ycombinator.com/item?id=37654751) - [Mathematicians cross the line to get to the point](https://www.quantamagazine.org/mathematicians-cross-the-line-to-get-to-the-point-20230925/)
 * [2023-09-25, 19:27:00](https://news.ycombinator.com/item?id=37649250) - [J. G. Ballard’s brilliant, “not good” writing](https://www.theparisreview.org/blog/2023/09/22/j-g-ballards-brilliant-not-good-writing/)
 * [2023-09-25, 15:59:13](https://news.ycombinator.com/item?id=37646008) - [Verilog to Routing](https://verilogtorouting.org/)
-* [2023-09-25, 14:37:55](https://news.ycombinator.com/item?id=37644543) - [Viable ROP-free roadmap for i386/armv8/riscv64/alpha/sparc64](https://marc.info/?l=openbsd-tech&m=169558749114476&w=2)
 * [2023-09-25, 14:35:22](https://news.ycombinator.com/item?id=37644493) - [Box of donated artifacts turns out to be treasure trove of Neanderthal bones](https://phys.org/news/2023-09-donated-artifacts-treasure-trove-neanderthal.html)
 * [2023-09-25, 10:35:44](https://news.ycombinator.com/item?id=37641658) - [A new architecture for publishing web content to desktop](https://www.construct.net/en/blogs/construct-official-blog-1/new-architecture-publishing-1864)
 * [2023-09-24, 12:31:12](https://news.ycombinator.com/item?id=37632509) - [Currencies (On Motivating Different People)](https://www.edbatista.com/2023/09/currencies-on-motivating-different-people.html)
