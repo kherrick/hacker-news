@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-26, 09:01:12](https://news.ycombinator.com/item?id=37656417) - [Lego axes plan to make bricks from recycled bottles](https://www.bbc.co.uk/news/business-66910573)
 * [2023-09-26, 08:26:21](https://news.ycombinator.com/item?id=37656149) - [How (not) to apply for a software job](https://benhoyt.com/writings/how-to-apply/)
 * [2023-09-26, 08:18:08](https://news.ycombinator.com/item?id=37656091) - [AI is fundamentally ‘a surveillance technology’](https://techcrunch.com/2023/09/25/signals-meredith-whittaker-ai-is-fundamentally-a-surveillance-technology/)
 * [2023-09-26, 07:01:45](https://news.ycombinator.com/item?id=37655477) - [macOS Containers v0.0.1](https://macoscontainers.org/)
@@ -19,7 +20,6 @@
 * [2023-09-25, 19:40:54](https://news.ycombinator.com/item?id=37649448) - [DJI Mini 4 Pro](https://www.dji.com/mini-4-pro)
 * [2023-09-25, 19:34:11](https://news.ycombinator.com/item?id=37649353) - [F-35A has flown from a highway for the first time](https://www.thedrive.com/the-war-zone/f-35a-has-flown-from-a-highway-for-the-first-time)
 * [2023-09-25, 18:28:13](https://news.ycombinator.com/item?id=37648415) - [Show HN: DitchTheBell – Linux-based desktop notifier for RSS/Atom feeds](https://github.com/EscherMoore/DitchTheBell)
-* [2023-09-25, 18:05:07](https://news.ycombinator.com/item?id=37648068) - [Unity's oldest community announces dissolution](http://farewell.bostonunitygroup.com/)
 * [2023-09-25, 15:55:44](https://news.ycombinator.com/item?id=37645945) - [Saint Helena Island Communications](http://sainthelenaisland.info/communications.htm)
 * [2023-09-25, 12:31:07](https://news.ycombinator.com/item?id=37642671) - [Show HN: E-Ink Day Schedule](https://github.com/davidhampgonsalves/life-dashboard)
 * [2023-09-25, 12:19:32](https://news.ycombinator.com/item?id=37642538) - [The Casino in Your Pocket](https://blog.curtii.com/blog/posts/wordscapes-the-casino-in-your-pocket/)
