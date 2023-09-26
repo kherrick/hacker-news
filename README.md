@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-26, 09:01:12](https://news.ycombinator.com/item?id=37656417) - [Lego axes plan to make bricks from recycled bottles](https://www.bbc.co.uk/news/business-66910573)
+* [2023-09-26, 08:28:59](https://news.ycombinator.com/item?id=37656170) - [FCC Aims to Reinstate Net Neutrality After US Democrats Gain Control of Panel](https://www.bloomberg.com/news/articles/2023-09-26/fcc-aims-to-reinstate-net-neutrality-rules-as-us-democrats-gain-control-of-panel)
 * [2023-09-26, 08:26:21](https://news.ycombinator.com/item?id=37656149) - [How (not) to apply for a software job](https://benhoyt.com/writings/how-to-apply/)
 * [2023-09-26, 08:18:08](https://news.ycombinator.com/item?id=37656091) - [AI is fundamentally ‘a surveillance technology’](https://techcrunch.com/2023/09/25/signals-meredith-whittaker-ai-is-fundamentally-a-surveillance-technology/)
 * [2023-09-26, 07:01:45](https://news.ycombinator.com/item?id=37655477) - [macOS Containers v0.0.1](https://macoscontainers.org/)
