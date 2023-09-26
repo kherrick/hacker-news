@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
+* [2023-09-26, 08:18:08](https://news.ycombinator.com/item?id=37656091) - [AI is fundamentally ‘a surveillance technology’](https://techcrunch.com/2023/09/25/signals-meredith-whittaker-ai-is-fundamentally-a-surveillance-technology/)
+* [2023-09-26, 07:09:46](https://news.ycombinator.com/item?id=37655544) - [What Is a Vector Database?](https://weaviate.io/blog/what-is-a-vector-database)
 * [2023-09-26, 07:01:45](https://news.ycombinator.com/item?id=37655477) - [macOS Containers v0.0.1](https://macoscontainers.org/)
 * [2023-09-26, 06:10:48](https://news.ycombinator.com/item?id=37655088) - [Are older people less innovative?](https://laetitiaatwork.substack.com/p/are-older-people-less-innovative)
 * [2023-09-26, 05:39:19](https://news.ycombinator.com/item?id=37654891) - [Quadlets might make me finally stop using Docker-compose – Major Hayden](https://major.io/p/quadlets-replace-docker-compose/)
