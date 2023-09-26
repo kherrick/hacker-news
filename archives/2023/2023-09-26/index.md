@@ -6,6 +6,7 @@
 
 * [2023-09-26, 17:58:47](https://news.ycombinator.com/item?id=37663270) - [Show HN: Unity like game editor running in pure WASM](https://raverie-us.github.io/raverie-engine/)
 * [2023-09-26, 17:46:05](https://news.ycombinator.com/item?id=37663035) - [I'm convinced now that “personal LLMs” are going to be a huge thing](https://old.reddit.com/r/LocalLLaMA/comments/16au3ga/im_convinced_now_that_personal_llms_are_going_to/)
+* [2023-09-26, 17:39:51](https://news.ycombinator.com/item?id=37662937) - [Ask HN: Tips for Solopreneur?](https://news.ycombinator.com/item?id=37662937)
 * [2023-09-26, 17:15:33](https://news.ycombinator.com/item?id=37662561) - [Vizro – toolkit for creating modular data visualization applications](https://github.com/mckinsey/vizro)
 * [2023-09-26, 17:12:17](https://news.ycombinator.com/item?id=37662510) - [macOS Sonoma is available today](https://www.apple.com/newsroom/2023/09/macos-sonoma-is-available-today/)
 * [2023-09-26, 17:00:05](https://news.ycombinator.com/item?id=37662297) - [Byterat (YC W23) Is Hiring a Founding Engineer (San Francisco)](https://www.ycombinator.com/companies/byterat/jobs/UtaWWqL-founding-engineer)
