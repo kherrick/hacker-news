@@ -6,6 +6,7 @@
 
 * [2023-09-26, 14:24:59](https://news.ycombinator.com/item?id=37659837) - [Google Maps has become significantly less usable of late](https://twitter.com/kevins8/status/1706673798068813897?s=20)
 * [2023-09-26, 14:04:11](https://news.ycombinator.com/item?id=37659482) - [Google Podcasts to shut down in 2024](https://techcrunch.com/2023/09/26/google-podcasts-to-shut-down-in-2024-with-listeners-migrated-to-youtube-music/)
+* [2023-09-26, 13:52:58](https://news.ycombinator.com/item?id=37659327) - [Newly discovered deep-sea enzyme breaks down PET plastic](https://phys.org/news/2023-09-newly-deep-sea-enzyme-pet-plastic.amp)
 * [2023-09-26, 13:41:45](https://news.ycombinator.com/item?id=37659164) - [Freelancers aren’t happy with Japan’s new invoice system](https://www.japantimes.co.jp/community/2023/09/25/how-tos/freelancer-tax-system/)
 * [2023-09-26, 13:26:58](https://news.ycombinator.com/item?id=37658963) - [The World’s Biggest Crypto Firm Is Melting Down](https://www.wsj.com/finance/currencies/the-worlds-biggest-crypto-firm-is-melting-down-338b8e17)
 * [2023-09-26, 13:22:46](https://news.ycombinator.com/item?id=37658915) - [Firefox 118](https://www.mozilla.org/en-US/firefox/118.0/releasenotes/)
