@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
+* [2023-09-27, 05:59:55](https://news.ycombinator.com/item?id=37670740) - [Arena Allocator Tips and Tricks](https://nullprogram.com/blog/2023/09/27/)
 * [2023-09-27, 04:11:47](https://news.ycombinator.com/item?id=37669998) - [GNU – Celebrating 40 Years](https://www.gnu.org/gnu40/)
+* [2023-09-27, 04:07:48](https://news.ycombinator.com/item?id=37669965) - [Are Our Articles Disguised Ads?](https://www.airgradient.com/blog/are-our-articles-disguised-ads/)
 * [2023-09-27, 03:36:23](https://news.ycombinator.com/item?id=37669706) - [Show HN: XRain – Explore rainfall statistics around the world](https://xrain.info/data/)
 * [2023-09-27, 03:08:57](https://news.ycombinator.com/item?id=37669456) - [25 Years of Google](https://www.google.com/doodles/googles-25th-birthday)
 * [2023-09-27, 02:53:42](https://news.ycombinator.com/item?id=37669341) - [Google's 25th Birthday](https://blog.google/inside-google/company-announcements/google-25th-birthday/)
