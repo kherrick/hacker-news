@@ -19,6 +19,7 @@
 * [2023-09-26, 19:31:40](https://news.ycombinator.com/item?id=37664682) - [Rethinking the Luddites in the Age of A.I](https://www.newyorker.com/books/page-turner/rethinking-the-luddites-in-the-age-of-ai)
 * [2023-09-26, 19:31:01](https://news.ycombinator.com/item?id=37664668) - [The Plot of All Objects in the Universe](https://kottke.org/23/09/the-plot-of-all-objects-in-the-universe)
 * [2023-09-26, 19:31:01](https://news.ycombinator.com/item?id=37664668) - [All objects and some questions](https://pubs.aip.org/aapt/ajp/article/91/10/819/2911822/All-objects-and-some-questions)
+* [2023-09-26, 19:30:27](https://news.ycombinator.com/item?id=37664657) - [Taking the Plunge: The history and context of Venice’s annual Wedding to the Sea](https://www.laphamsquarterly.org/roundtable/taking-plunge)
 * [2023-09-26, 18:53:49](https://news.ycombinator.com/item?id=37664082) - [Incorrect casual assumptions in the history of science](https://thonyc.wordpress.com/2023/09/21/incorrect-casual-assumptions/)
 * [2023-09-26, 18:35:04](https://news.ycombinator.com/item?id=37663820) - [Facebook Prophet: library for generating forecasts from any time series data](https://github.com/facebook/prophet)
 * [2023-09-26, 18:28:20](https://news.ycombinator.com/item?id=37663725) - [EU tells Apple to open everything up to its rivals](https://appleinsider.com/articles/23/09/26/eu-tells-apple-to-open-everything-up-to-its-rivals)
