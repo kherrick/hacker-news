@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
+* [2023-09-27, 12:10:01](https://news.ycombinator.com/item?id=37673494) - [Lego abandons effort to make bricks from recycled plastic bottles](https://www.theguardian.com/lifeandstyle/2023/sep/24/lego-abandons-effort-to-make-bricks-from-recycled-plastic-bottles)
 * [2023-09-27, 12:02:36](https://news.ycombinator.com/item?id=37673422) - [Ads in the OS](https://www.ng5p.com/blog/MicrosoftIrritations.html)
 * [2023-09-27, 12:01:18](https://news.ycombinator.com/item?id=37673409) - [First Impressions with GPT-4V(ision)](https://blog.roboflow.com/gpt-4-vision/)
 * [2023-09-27, 11:48:36](https://news.ycombinator.com/item?id=37673300) - [Be My Eyes’ AI assistant starts rolling out](https://www.bemyeyes.com/blog/announcing-be-my-ai)
