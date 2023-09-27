@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-27, 13:40:25",
+      "https://news.ycombinator.com/item?id=37674519"
+    ],
+    [
+      "Rusty revenant Servo returns to render once more",
+      "https://www.theregister.com/2023/09/27/servo_returns/"
+    ]
+  ],
+  [
+    [
+      "2023-09-27, 13:06:47",
+      "https://news.ycombinator.com/item?id=37674097"
+    ],
+    [
+      "Workers AI: serverless GPU-powered inference on Cloudflare’s global network",
+      "https://blog.cloudflare.com/workers-ai/"
+    ]
+  ],
+  [
+    [
       "2023-09-27, 12:10:01",
       "https://news.ycombinator.com/item?id=37673494"
     ],
@@ -147,26 +167,6 @@
     [
       "Radar Maps Platform",
       "https://radar.com/blog/introducing-radar-maps-platform"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 22:38:55",
-      "https://news.ycombinator.com/item?id=37666773"
-    ],
-    [
-      "Merlin's Wisdom Project",
-      "https://github.com/merlinmann/wisdom/blob/master/wisdom.md"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 18:35:04",
-      "https://news.ycombinator.com/item?id=37663820"
-    ],
-    [
-      "Prophet: Automatic Forecasting Procedure",
-      "https://github.com/facebook/prophet"
     ]
   ],
   [
