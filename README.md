@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-27, 13:50:09](https://news.ycombinator.com/item?id=37674640) - [We try out the first legal level 3 automated driving system in the US](https://arstechnica.com/cars/2023/09/mercedes-benzs-level-3-autonomous-driving-system-takes-over-in-heavy-traffic/)
 * [2023-09-27, 13:40:25](https://news.ycombinator.com/item?id=37674519) - [Rusty revenant Servo returns to render once more](https://www.theregister.com/2023/09/27/servo_returns/)
 * [2023-09-27, 13:10:03](https://news.ycombinator.com/item?id=37674139) - [The most copied StackOverflow snippet of all time is flawed](https://programming.guide/worlds-most-copied-so-snippet.html)
 * [2023-09-27, 13:06:47](https://news.ycombinator.com/item?id=37674097) - [Workers AI: serverless GPU-powered inference on Cloudflare’s global network](https://blog.cloudflare.com/workers-ai/)
@@ -17,7 +18,6 @@
 * [2023-09-27, 05:59:55](https://news.ycombinator.com/item?id=37670740) - [Arena allocator tips and tricks](https://nullprogram.com/blog/2023/09/27/)
 * [2023-09-27, 03:36:23](https://news.ycombinator.com/item?id=37669706) - [Show HN: XRain – Explore rainfall statistics around the world](https://xrain.info/data/)
 * [2023-09-27, 00:05:45](https://news.ycombinator.com/item?id=37667731) - [Deconstructing Go Type Parameters](https://go.dev/blog/deconstructing-type-parameters)
-* [2023-09-26, 18:35:04](https://news.ycombinator.com/item?id=37663820) - [Prophet: Automatic Forecasting Procedure](https://github.com/facebook/prophet)
 * [2023-09-26, 17:58:47](https://news.ycombinator.com/item?id=37663270) - [Show HN: Unity like game editor running in pure WASM](https://raverie-us.github.io/raverie-engine/)
 * [2023-09-26, 16:10:40](https://news.ycombinator.com/item?id=37661446) - [FTC sues Amazon for illegally maintaining monopoly power](https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power)
 * [2023-09-26, 12:22:21](https://news.ycombinator.com/item?id=37658208) - [My Unhealthy Relationship with Keyboards](https://jackevansevo.github.io/my-unhealthy-relationship-with-keyboards.html)
