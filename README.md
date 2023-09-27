@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-27, 09:59:14](https://news.ycombinator.com/item?id=37672540) - [San Francisco Shoplifting: Much More Than You Wanted to Know](https://www.applieddivinitystudies.com/sf-crime-2/)
 * [2023-09-27, 07:31:43](https://news.ycombinator.com/item?id=37671341) - [Show HN: A JavaScript function that looks and behaves like a pipe operator](https://github.com/laurentpayot/verticalize)
 * [2023-09-27, 06:31:25](https://news.ycombinator.com/item?id=37670938) - [Writing a debugger from scratch: Breakpoints](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5/)
 * [2023-09-27, 05:59:55](https://news.ycombinator.com/item?id=37670740) - [Arena allocator tips and tricks](https://nullprogram.com/blog/2023/09/27/)
-* [2023-09-27, 05:30:49](https://news.ycombinator.com/item?id=37670577) - [Summary of the 2023 WGA MBA](https://www.wgacontract2023.org/the-campaign/summary-of-the-2023-wga-mba)
 * [2023-09-27, 03:36:23](https://news.ycombinator.com/item?id=37669706) - [Show HN: XRain – Explore rainfall statistics around the world](https://xrain.info/data/)
 * [2023-09-27, 00:05:45](https://news.ycombinator.com/item?id=37667731) - [Deconstructing Go Type Parameters](https://go.dev/blog/deconstructing-type-parameters)
 * [2023-09-26, 23:38:48](https://news.ycombinator.com/item?id=37667450) - [Radar Maps Platform](https://radar.com/blog/introducing-radar-maps-platform)
