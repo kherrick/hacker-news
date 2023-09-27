@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-27, 13:50:09",
+      "https://news.ycombinator.com/item?id=37674640"
+    ],
+    [
+      "We try out the first legal level 3 automated driving system in the US",
+      "https://arstechnica.com/cars/2023/09/mercedes-benzs-level-3-autonomous-driving-system-takes-over-in-heavy-traffic/"
+    ]
+  ],
+  [
+    [
       "2023-09-27, 13:40:25",
       "https://news.ycombinator.com/item?id=37674519"
     ],
@@ -167,16 +177,6 @@
     [
       "Deconstructing Go Type Parameters",
       "https://go.dev/blog/deconstructing-type-parameters"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 18:35:04",
-      "https://news.ycombinator.com/item?id=37663820"
-    ],
-    [
-      "Prophet: Automatic Forecasting Procedure",
-      "https://github.com/facebook/prophet"
     ]
   ],
   [
