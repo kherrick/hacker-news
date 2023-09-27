@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
+* [2023-09-27, 23:04:00](https://news.ycombinator.com/item?id=37682684) - [Open Source doesn't win by being cheaper](https://github.com/getlago/lago/wiki/Open-Source-does-not-win-by-being-cheaper)
+* [2023-09-27, 22:57:35](https://news.ycombinator.com/item?id=37682616) - [Prompt Engineering Is Snake Oil](https://grandiose.substack.com/p/prompt-engineering-is-snake-oil)
 * [2023-09-27, 22:56:51](https://news.ycombinator.com/item?id=37682607) - [Inflation Bites U.S. Engineering Salaries](https://spectrum.ieee.org/electrical-engineer-salary-2023)
 * [2023-09-27, 22:34:48](https://news.ycombinator.com/item?id=37682357) - [Meta spends $181M to get out of lease at vacant London offices](https://www.theregister.com/2023/09/27/meta_coughs_181m_to_exit/)
 * [2023-09-27, 21:34:46](https://news.ycombinator.com/item?id=37681663) - [Jony Ive and OpenAI’s Altman reportedly collaborating on mysterious AI device](https://arstechnica.com/information-technology/2023/09/jony-ive-and-openais-altman-reportedly-collaborating-on-mysterious-ai-device/)
@@ -75,6 +77,7 @@
 * [2023-09-27, 08:03:32](https://news.ycombinator.com/item?id=37671565) - [The Truth about College Costs](https://www.nationalaffairs.com/publications/detail/the-truth-about-college-costs)
 * [2023-09-27, 07:44:37](https://news.ycombinator.com/item?id=37671419) - [Essence: A desktop OS built from scratch, for control and simplicity](https://nakst.gitlab.io/essence)
 * [2023-09-27, 07:31:43](https://news.ycombinator.com/item?id=37671341) - [Show HN: A JavaScript function that looks and behaves like a pipe operator](https://github.com/laurentpayot/verticalize)
+* [2023-09-27, 07:15:27](https://news.ycombinator.com/item?id=37671230) - [What's Going on at Italy's Campi Flegrei Caldera?](https://www.discovermagazine.com/planet-earth/whats-going-on-at-italys-campi-flegrei-caldera)
 * [2023-09-27, 06:31:25](https://news.ycombinator.com/item?id=37670938) - [Writing a Debugger from Scratch: Breakpoints](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5/)
 * [2023-09-27, 06:02:22](https://news.ycombinator.com/item?id=37670756) - [Ask HN: How do you manage photos, philosophically?](https://news.ycombinator.com/item?id=37670756)
 * [2023-09-27, 05:59:55](https://news.ycombinator.com/item?id=37670740) - [Arena Allocator Tips and Tricks](https://nullprogram.com/blog/2023/09/27/)
