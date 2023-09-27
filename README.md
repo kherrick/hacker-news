@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-27, 23:22:53](https://news.ycombinator.com/item?id=37682859) - [Tell HN: Please don't print –help to stderr in your CLI tools](https://news.ycombinator.com/item?id=37682859)
 * [2023-09-27, 23:04:00](https://news.ycombinator.com/item?id=37682684) - [Open Source doesn't win by being cheaper](https://github.com/getlago/lago/wiki/Open-Source-does-not-win-by-being-cheaper)
 * [2023-09-27, 22:57:35](https://news.ycombinator.com/item?id=37682616) - [Prompt Engineering Is Snake Oil](https://grandiose.substack.com/p/prompt-engineering-is-snake-oil)
 * [2023-09-27, 22:56:51](https://news.ycombinator.com/item?id=37682607) - [Inflation Bites U.S. Engineering Salaries](https://spectrum.ieee.org/electrical-engineer-salary-2023)
@@ -16,7 +17,6 @@
 * [2023-09-27, 18:09:29](https://news.ycombinator.com/item?id=37678714) - [OpenBSD PF versus FreeBSD PF](https://mwl.io/archives/23127)
 * [2023-09-27, 17:37:04](https://news.ycombinator.com/item?id=37678181) - [The Tao of Programming (1987)](https://www.mit.edu/~xela/tao.html)
 * [2023-09-27, 16:13:37](https://news.ycombinator.com/item?id=37676880) - [The Ashley Book of Knots (1944)](https://archive.org/details/TheAshleyBookOfKnots)
-* [2023-09-27, 15:45:58](https://news.ycombinator.com/item?id=37676393) - [Live near your friends](https://headlineshq.substack.com/p/issue-no-029-live-near-your-friends)
 * [2023-09-27, 15:17:35](https://news.ycombinator.com/item?id=37675894) - [Show HN: Using LLMs and Embeddings to classify application errors](https://github.com/highlight/highlight/tree/main/backend/embeddings)
 * [2023-09-27, 15:16:22](https://news.ycombinator.com/item?id=37675864) - [Sketches of misfortune in an insurance trade card](https://forgottenfiles.substack.com/p/accidents-happen-c1890s)
 * [2023-09-27, 14:52:46](https://news.ycombinator.com/item?id=37675496) - [Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/)
