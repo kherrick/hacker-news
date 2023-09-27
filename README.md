@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-27, 03:36:23](https://news.ycombinator.com/item?id=37669706) - [Show HN: XRain – Explore rainfall statistics around the world](https://xrain.info/data/)
-* [2023-09-27, 02:53:42](https://news.ycombinator.com/item?id=37669341) - [Google's 25th Birthday](https://blog.google/inside-google/company-announcements/google-25th-birthday/)
 * [2023-09-27, 02:24:11](https://news.ycombinator.com/item?id=37669078) - [Why should I care about OpenTofu?](https://opentofu.org/blog/why-should-i-care-about-opentofu/)
 * [2023-09-27, 00:05:45](https://news.ycombinator.com/item?id=37667731) - [Deconstructing Go Type Parameters](https://go.dev/blog/deconstructing-type-parameters)
 * [2023-09-26, 23:38:48](https://news.ycombinator.com/item?id=37667450) - [Radar Maps: $0.50 per 1K map loads](https://radar.com/blog/introducing-radar-maps-platform)
@@ -23,6 +22,7 @@
 * [2023-09-26, 16:31:16](https://news.ycombinator.com/item?id=37661767) - [Show HN: Magentic – Use LLMs as simple Python functions](https://github.com/jackmpcollins/magentic)
 * [2023-09-26, 16:10:40](https://news.ycombinator.com/item?id=37661446) - [FTC sues Amazon for illegally maintaining monopoly power](https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power)
 * [2023-09-26, 13:41:45](https://news.ycombinator.com/item?id=37659164) - [Freelancers aren’t happy with Japan’s new invoice system](https://www.japantimes.co.jp/community/2023/09/25/how-tos/freelancer-tax-system/)
+* [2023-09-26, 11:24:22](https://news.ycombinator.com/item?id=37657663) - [Ford's Theatre Front-Row Tickets from April 14, 1865](https://www.rrauction.com/auctions/lot-detail/347903406696018-abraham-lincoln-assassination-2-fords-theatre-front-row-tickets-from-april-14-1865-ex-forbes-collection)
 * [2023-09-26, 04:58:54](https://news.ycombinator.com/item?id=37654600) - [Chip War: The Fight for the Most Critical Technology [video]](https://www.youtube.com/watch?v=2tSs7aESx8s)
 * [2023-09-25, 20:49:09](https://news.ycombinator.com/item?id=37650402) - [A journey into the shaken baby syndrome/abusive head trauma controversy](https://www.cambridgeblog.org/2023/05/a-journey-into-the-shaken-baby-syndrome-abusive-head-trauma-controversy/)
 * [2023-09-25, 19:27:00](https://news.ycombinator.com/item?id=37649250) - [J. G. Ballard’s brilliant, “not good” writing](https://www.theparisreview.org/blog/2023/09/22/j-g-ballards-brilliant-not-good-writing/)
