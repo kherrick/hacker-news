@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-27, 15:14:03",
+      "https://news.ycombinator.com/item?id=37675831"
+    ],
+    [
+      "Desalination system could produce freshwater that is cheaper than tap water",
+      "https://www.eurekalert.org/news-releases/1002811"
+    ]
+  ],
+  [
+    [
       "2023-09-27, 14:52:46",
       "https://news.ycombinator.com/item?id=37675496"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
-      "2023-09-27, 14:40:33",
-      "https://news.ycombinator.com/item?id=37675329"
-    ],
-    [
-      "Y Combinator CEO Garry Tan’s War on San Francisco Politics Has Only Just Begun",
-      "https://sfstandard.com/2023/09/27/garry-tan-y-combinator-declares-war-san-francisco-politics-progressives-elon-musk/"
-    ]
-  ],
-  [
-    [
       "2023-09-27, 14:14:30",
       "https://news.ycombinator.com/item?id=37674967"
     ],
     [
       "ClickHouse Keeper: A ZooKeeper alternative written in C++",
       "https://clickhouse.com/blog/clickhouse-keeper-a-zookeeper-alternative-written-in-cpp"
+    ]
+  ],
+  [
+    [
+      "2023-09-27, 13:58:58",
+      "https://news.ycombinator.com/item?id=37674752"
+    ],
+    [
+      "Deno Queues",
+      "https://deno.com/blog/queues"
     ]
   ],
   [
@@ -91,22 +101,22 @@
   ],
   [
     [
+      "2023-09-27, 12:14:45",
+      "https://news.ycombinator.com/item?id=37673539"
+    ],
+    [
+      "Philips allegedly hid 3700 complaints about sleep apnea machines from U.S.",
+      "https://nltimes.nl/2023/09/27/philips-allegedly-hid-3700-complaints-sleep-apnea-machines-us-authority"
+    ]
+  ],
+  [
+    [
       "2023-09-27, 12:01:43",
       "https://news.ycombinator.com/item?id=37673413"
     ],
     [
       "Google judge rules trial documents can be posted by U.S. online",
       "https://www.bloomberg.com/news/articles/2023-09-26/google-judge-rules-trial-documents-can-be-posted-by-us-online"
-    ]
-  ],
-  [
-    [
-      "2023-09-27, 12:01:18",
-      "https://news.ycombinator.com/item?id=37673409"
-    ],
-    [
-      "First Impressions with GPT-4V(ision)",
-      "https://blog.roboflow.com/gpt-4-vision/"
     ]
   ],
   [
@@ -191,12 +201,12 @@
   ],
   [
     [
-      "2023-09-26, 17:58:47",
-      "https://news.ycombinator.com/item?id=37663270"
+      "2023-09-26, 18:53:49",
+      "https://news.ycombinator.com/item?id=37664082"
     ],
     [
-      "Show HN: Unity like game editor running in pure WASM",
-      "https://raverie-us.github.io/raverie-engine/"
+      "Incorrect casual assumptions in the history of science",
+      "https://thonyc.wordpress.com/2023/09/21/incorrect-casual-assumptions/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "My Unhealthy Relationship with Keyboards",
       "https://jackevansevo.github.io/my-unhealthy-relationship-with-keyboards.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 11:25:20",
-      "https://news.ycombinator.com/item?id=37657672"
-    ],
-    [
-      "Show HN: Adding dynamic library loading to my pet programming language",
-      "https://github.com/nbittich/adana"
     ]
   ],
   [
