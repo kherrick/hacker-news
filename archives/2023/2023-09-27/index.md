@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
+* [2023-09-27, 17:53:46](https://news.ycombinator.com/item?id=37678431) - [New AI Experiences Across Our Family of Apps and Devices](https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/)
 * [2023-09-27, 17:45:55](https://news.ycombinator.com/item?id=37678318) - [Meta Quest 3](https://www.meta.com/quest/quest-3/)
 * [2023-09-27, 17:28:29](https://news.ycombinator.com/item?id=37678046) - [Linux Kernel Maintainers, why are they so grumpy? [pdf]](https://elinux.org/images/0/06/Lca13-gregkh-I-dont-want-your-code.pdf)
 * [2023-09-27, 17:12:13](https://news.ycombinator.com/item?id=37677810) - [26% of the top websites are now blocking GPTBot](https://searchengineland.com/more-popular-websites-blocking-gptbot-432531)
