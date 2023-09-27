@@ -3,7 +3,7 @@
 * [2023-09-27, 18:18:33](https://news.ycombinator.com/item?id=37678860) - [Ray-Ban Meta next generation of smart glasses](https://www.meta.com/smart-glasses/)
 * [2023-09-27, 18:09:29](https://news.ycombinator.com/item?id=37678714) - [OpenBSD PF versus FreeBSD PF](https://mwl.io/archives/23127)
 * [2023-09-27, 17:45:55](https://news.ycombinator.com/item?id=37678318) - [Meta Quest 3](https://www.meta.com/quest/quest-3/)
-* [2023-09-27, 17:37:04](https://news.ycombinator.com/item?id=37678181) - [The Tao of Programming](https://www.mit.edu/~xela/tao.html)
+* [2023-09-27, 17:37:04](https://news.ycombinator.com/item?id=37678181) - [The Tao of Programming (1987)](https://www.mit.edu/~xela/tao.html)
 * [2023-09-27, 17:28:29](https://news.ycombinator.com/item?id=37678046) - [Linux kernel maintainers, why are they so grumpy? (2013) [pdf]](https://elinux.org/images/0/06/Lca13-gregkh-I-dont-want-your-code.pdf)
 * [2023-09-27, 16:42:38](https://news.ycombinator.com/item?id=37677358) - [A gentle introduction to static analyzers for C](https://nrk.neocities.org/articles/c-static-analyzers)
 * [2023-09-27, 16:13:37](https://news.ycombinator.com/item?id=37676880) - [The Ashley Book of Knots (1944)](https://archive.org/details/TheAshleyBookOfKnots)
