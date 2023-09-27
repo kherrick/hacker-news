@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
 * [2023-09-27, 21:34:46](https://news.ycombinator.com/item?id=37681663) - [Jony Ive and OpenAI’s Altman reportedly collaborating on mysterious AI device](https://arstechnica.com/information-technology/2023/09/jony-ive-and-openais-altman-reportedly-collaborating-on-mysterious-ai-device/)
+* [2023-09-27, 21:26:43](https://news.ycombinator.com/item?id=37681571) - [Tech CEO found dead with signs of blunt force trauma](https://www.cnn.com/2023/09/26/tech/pava-lapere-ecomap-ceo-death/index.html)
+* [2023-09-27, 21:25:24](https://news.ycombinator.com/item?id=37681554) - [War Thunder user leaks restricted military documents for AH-64D Apache Longbow](https://nichegamer.com/war-thunder-user-leaks-restricted-military-documents-for-ah-64d-apache-longbow/)
 * [2023-09-27, 20:44:24](https://news.ycombinator.com/item?id=37681047) - [ChatGPT can now search the web in real time](https://www.theverge.com/2023/9/27/23892781/openai-chatgpt-live-web-results-browse-with-bing)
 * [2023-09-27, 20:31:50](https://news.ycombinator.com/item?id=37680851) - [The Llama Ecosystem: Past, Present, and Future](https://ai.meta.com/blog/llama-2-updates-connect-2023/)
 * [2023-09-27, 20:29:38](https://news.ycombinator.com/item?id=37680817) - [Emu: Enhancing Image Generation Models Using Photogenic Needles in a Haystack](https://ai.meta.com/research/publications/emu-enhancing-image-generation-models-using-photogenic-needles-in-a-haystack/)
