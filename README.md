@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-27, 11:02:21](https://news.ycombinator.com/item?id=37672937) - [Building a defence startup: 6 lessons I’ve learned](https://medium.com/@ErikKannike/building-a-defence-startup-6-lessons-ive-learned-11619b3a514e)
-* [2023-09-27, 07:31:43](https://news.ycombinator.com/item?id=37671341) - [Show HN: A JavaScript function that looks and behaves like a pipe operator](https://github.com/laurentpayot/verticalize)
+* [2023-09-27, 11:02:21](https://news.ycombinator.com/item?id=37672937) - [Building a defence startup](https://medium.com/@ErikKannike/building-a-defence-startup-6-lessons-ive-learned-11619b3a514e)
+* [2023-09-27, 07:44:37](https://news.ycombinator.com/item?id=37671419) - [Essence: A desktop OS built from scratch, for control and simplicity](https://nakst.gitlab.io/essence)
 * [2023-09-27, 06:31:25](https://news.ycombinator.com/item?id=37670938) - [Writing a debugger from scratch: Breakpoints](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5/)
 * [2023-09-27, 05:59:55](https://news.ycombinator.com/item?id=37670740) - [Arena allocator tips and tricks](https://nullprogram.com/blog/2023/09/27/)
 * [2023-09-27, 03:36:23](https://news.ycombinator.com/item?id=37669706) - [Show HN: XRain – Explore rainfall statistics around the world](https://xrain.info/data/)
@@ -24,7 +24,7 @@
 * [2023-09-26, 11:25:20](https://news.ycombinator.com/item?id=37657672) - [Show HN: Adding dynamic library loading to my pet programming language](https://github.com/nbittich/adana)
 * [2023-09-26, 11:24:22](https://news.ycombinator.com/item?id=37657663) - [Ford's Theatre Front-Row Tickets from April 14, 1865](https://www.rrauction.com/auctions/lot-detail/347903406696018-abraham-lincoln-assassination-2-fords-theatre-front-row-tickets-from-april-14-1865-ex-forbes-collection)
 * [2023-09-26, 10:06:39](https://news.ycombinator.com/item?id=37656993) - [Forrest Mims and RadioShack (2017)](https://hackaday.com/2017/01/18/forrest-mims-radio-shack-and-the-notebooks-that-launched-a-thousand-careers/)
-* [2023-09-26, 07:35:30](https://news.ycombinator.com/item?id=37655758) - [ASCIIpOrtal: A Portal Game You Can Play in Your Terminal](https://github.com/cymonsgames/ASCIIpOrtal)
+* [2023-09-26, 07:35:30](https://news.ycombinator.com/item?id=37655758) - [ASCIIpOrtal: A Portal Game You Can Play in Your Terminal (2019)](https://github.com/cymonsgames/ASCIIpOrtal)
 * [2023-09-26, 06:42:25](https://news.ycombinator.com/item?id=37655298) - [Knowledge (1986)](https://www.lrb.co.uk/the-paper/v08/n22/ian-hacking/knowledge)
 * [2023-09-25, 20:49:09](https://news.ycombinator.com/item?id=37650402) - [A journey into the shaken baby syndrome/abusive head trauma controversy](https://www.cambridgeblog.org/2023/05/a-journey-into-the-shaken-baby-syndrome-abusive-head-trauma-controversy/)
 * [2023-09-25, 17:24:49](https://news.ycombinator.com/item?id=37647467) - [The possibly never-ending quest for the golden owl](https://www.atlasobscura.com/articles/quest-for-the-golden-owl-hidden-treasure)
