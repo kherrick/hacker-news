@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
+* [2023-09-27, 11:02:21](https://news.ycombinator.com/item?id=37672937) - [Building a defence startup: 6 lessons I’ve learned](https://medium.com/@ErikKannike/building-a-defence-startup-6-lessons-ive-learned-11619b3a514e)
 * [2023-09-27, 09:59:14](https://news.ycombinator.com/item?id=37672540) - [San Francisco Shoplifting: Much More Than You Wanted to Know](https://www.applieddivinitystudies.com/sf-crime-2/)
 * [2023-09-27, 08:58:04](https://news.ycombinator.com/item?id=37671991) - [I got robbed of my first kernel contribution](https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/)
 * [2023-09-27, 07:31:43](https://news.ycombinator.com/item?id=37671341) - [Show HN: A JavaScript function that looks and behaves like a pipe operator](https://github.com/laurentpayot/verticalize)
