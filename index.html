@@ -139,11 +139,11 @@
             <h4>
               <span>2023-09-27 @ 18:18:33</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37678860"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 86</span></span
               >
             </h4>
           </section>
@@ -158,11 +158,11 @@
             <h4>
               <span>2023-09-27 @ 18:09:29</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37678714"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -177,11 +177,11 @@
             <h4>
               <span>2023-09-27 @ 17:45:55</span
               ><span class="points-container"
-                >Points: <span class="points">146</span></span
+                >Points: <span class="points">156</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37678318"
                   >Comments</a
-                ><span class="descendants">: 150</span></span
+                ><span class="descendants">: 158</span></span
               >
             </h4>
           </section>
@@ -196,11 +196,11 @@
             <h4>
               <span>2023-09-27 @ 17:37:04</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37678181"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -217,7 +217,7 @@
             <h4>
               <span>2023-09-27 @ 17:28:29</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37678046"
                   >Comments</a
@@ -238,11 +238,11 @@
             <h4>
               <span>2023-09-27 @ 16:42:38</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37677358"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -260,11 +260,11 @@
             <h4>
               <span>2023-09-27 @ 16:38:03</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37677296"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -302,13 +302,162 @@
             <h4>
               <span>2023-09-27 @ 15:45:58</span
               ><span class="points-container"
-                >Points: <span class="points">178</span></span
+                >Points: <span class="points">187</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37676393"
                   >Comments</a
-                ><span class="descendants">: 144</span></span
+                ><span class="descendants">: 152</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="37675894">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/highlight/highlight/tree/main/backend/embeddings"
+              >Show HN: Using LLMs and Embeddings to classify application
+              errors</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-09-27 @ 15:17:35</span
+              ><span class="points-container"
+                >Points: <span class="points">19</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=37675894"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Given that there’s a lot of founders/engineers using LLMs in
+                their products, we figured we’d share how we built the new
+                functionality, their impact on our workflows, and how you can
+                try it out.
+              </p>
+              <p>
+                Our goal was to build two features: (1) tagging errors (e.g.
+                deeming an error as “authentication error” or a “database
+                error”); and (2) grouping similar errors together (e.g. two
+                errors that have a different stacktrace and body, but are
+                semantically not very different).
+              </p>
+              <p>
+                Each of these rely heavily on comparing text across our
+                application. After some experimentation with the OpenAI
+                embeddings API [3], we went ahead and hosted a private model
+                instance of thenlper/gte-large (an open-source MIT licensed
+                model), which is a 1024-dimension model running on an Intel Ice
+                Lake 2 vCPU machine on Hugging face [4].
+              </p>
+              <p>
+                Our general approach for classifying/comparing text is as
+                follows. As each set of tokens (i.e a string) comes in, our
+                backend makes a request to an inference endpoint and receives a
+                1024-dimension float vector as a response (see the code here
+                [5]). We then store that vector using pgvector [6]. To compare
+                any two sets for similarity, we simply look at the Euclidian
+                distance between their respective embeddings using the ivfflat
+                index implemented by pgvector (example code here [7]).
+              </p>
+              <p>
+                To tag errors, we assign an error its most relevant tag from a
+                predetermined set decided by us. For example, if we tag an error
+                as an "authentication error" or a "database error", we can allow
+                developers to have a starting point before inspecting an
+                issue.(see the logic here [8]).
+              </p>
+              <p>
+                Anecdotally, this approach seems to work very well. For example,
+                here are two authentication errors that got tagged as
+                “Authentication Error”:
+              </p>
+              <p></p>
+              <pre><code>    * Firebase: A network AuthError has occurred
+    * Error retrieving user from firebase api for email verification: cannot find user from uid.
+</code></pre>
+              We also use these error embeddings to group similar errors. To
+              decide whether an error joins a group or starts a new one, we
+              decide on a distance threshold (using the euclidean distance)
+              ahead of time. An interesting thing about this approach, compared
+              to using a text-based heuristic, is that two errors with different
+              stack traces can still be grouped together. Here’s an example:
+              <p></p>
+              <pre><code>    * github.com/highlight-run/highlight/backend/worker.(*Worker).ReportStripeUsage
+    * github.com/highlight-run/highlight/backend/private-graph/graph.(*Resolver).GetSlackChannelsFromSlack.func1
+</code></pre>
+              Both reported as `integration api error` as they involve the
+              Stripe and Slack integrations respectively. The neat thing is that
+              the LLM can use the full context of an error and match based on
+              the most relevant details about the error.
+              <p>
+                We have rolled out a first version of the error grouping logic
+                to our cloud product [9], and there’s a demo of all the
+                functionality at [2]. Long-term, if the HN community has other
+                ideas of what we could build with LLM tooling in observability,
+                we’re all ears. Let us know what you think!
+              </p>
+              <p>Links</p>
+              <p>
+                [1]
+                <a href="https://news.ycombinator.com/item?id=36774611"
+                  >https://news.ycombinator.com/item?id=36774611</a
+                >
+              </p>
+              <p>
+                [2]
+                <a href="https://app.highlight.io/error-tags"
+                  >https://app.highlight.io/error-tags</a
+                >
+              </p>
+              <p>
+                [3]
+                <a href="https://platform.openai.com/docs/guides/embeddings"
+                  >https://platform.openai.com/docs/guides/embeddings</a
+                >
+              </p>
+              <p>
+                [4]
+                <a href="https://huggingface.co/thenlper/gte-large"
+                  >https://huggingface.co/thenlper/gte-large</a
+                >
+              </p>
+              <p>
+                [5]
+                <a
+                  href="https://github.com/highlight/highlight/blob/main/backend/embeddings/embeddings.go#L139-L189"
+                  >https://github.com/highlight/highlight/blob/main/backend/emb...</a
+                >
+              </p>
+              <p>
+                [6]
+                <a
+                  href="https://github.com/highlight/highlight/blob/main/backend/model/model.go#L957C1-L963"
+                  >https://github.com/highlight/highlight/blob/main/backend/mod...</a
+                >
+              </p>
+              <p>
+                [7]
+                <a
+                  href="https://github.com/highlight/highlight/blob/main/backend/public-graph/graph/resolver.go#L479-L487"
+                  >https://github.com/highlight/highlight/blob/main/backend/pub...</a
+                >
+              </p>
+              <p>
+                [8]
+                <a
+                  href="https://github.com/highlight/highlight/blob/main/backend/private-graph/graph/resolver.go#L3768-L3774"
+                  >https://github.com/highlight/highlight/blob/main/backend/pri...</a
+                >
+              </p>
+              <p>
+                [9]
+                <a href="https://app.highlight.io">https://app.highlight.io</a>
+              </p>
+            </div>
           </section>
         </section>
         <section id="37675864">
@@ -323,11 +472,11 @@
             <h4>
               <span>2023-09-27 @ 15:16:22</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37675864"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -345,32 +494,11 @@
             <h4>
               <span>2023-09-27 @ 15:14:03</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37675831"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="37675644">
-          <h3>
-            <a
-              class="item"
-              href="https://publicdomainreview.org/collection/selection-of-whisk-ferns/"
-              >A Careful Selection of Whisk Ferns (1837)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-09-27 @ 15:02:07</span
-              ><span class="points-container"
-                >Points: <span class="points">3</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37675644"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 57</span></span
               >
             </h4>
           </section>
@@ -387,11 +515,11 @@
             <h4>
               <span>2023-09-27 @ 14:52:46</span
               ><span class="points-container"
-                >Points: <span class="points">469</span></span
+                >Points: <span class="points">486</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37675496"
                   >Comments</a
-                ><span class="descendants">: 299</span></span
+                ><span class="descendants">: 311</span></span
               >
             </h4>
           </section>
@@ -408,7 +536,7 @@
             <h4>
               <span>2023-09-27 @ 14:45:23</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37675400"
                   >Comments</a
@@ -429,7 +557,7 @@
             <h4>
               <span>2023-09-27 @ 14:14:30</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37674967"
                   >Comments</a
@@ -446,11 +574,11 @@
             <h4>
               <span>2023-09-27 @ 13:58:58</span
               ><span class="points-container"
-                >Points: <span class="points">163</span></span
+                >Points: <span class="points">169</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37674752"
                   >Comments</a
-                ><span class="descendants">: 74</span></span
+                ><span class="descendants">: 79</span></span
               >
             </h4>
           </section>
@@ -489,11 +617,11 @@
             <h4>
               <span>2023-09-27 @ 13:10:03</span
               ><span class="points-container"
-                >Points: <span class="points">306</span></span
+                >Points: <span class="points">308</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37674139"
                   >Comments</a
-                ><span class="descendants">: 184</span></span
+                ><span class="descendants">: 186</span></span
               >
             </h4>
           </section>
@@ -508,33 +636,30 @@
             <h4>
               <span>2023-09-27 @ 13:06:47</span
               ><span class="points-container"
-                >Points: <span class="points">181</span></span
+                >Points: <span class="points">184</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37674097"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="37673539">
+        <section id="37673409">
           <h3>
-            <a
-              class="item"
-              href="https://nltimes.nl/2023/09/27/philips-allegedly-hid-3700-complaints-sleep-apnea-machines-us-authority"
-              >Philips allegedly hid 3700 complaints about sleep apnea machines
-              from U.S.</a
+            <a class="item" href="https://blog.roboflow.com/gpt-4-vision/"
+              >First Impressions with GPT-4V(ision)</a
             >
           </h3>
           <section>
             <h4>
-              <span>2023-09-27 @ 12:14:45</span
+              <span>2023-09-27 @ 12:01:18</span
               ><span class="points-container"
-                >Points: <span class="points">135</span></span
+                >Points: <span class="points">161</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=37673539"
+                ><a href="https://news.ycombinator.com/item?id=37673409"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 147</span></span
               >
             </h4>
           </section>
@@ -551,11 +676,11 @@
             <h4>
               <span>2023-09-27 @ 10:21:57</span
               ><span class="points-container"
-                >Points: <span class="points">69</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37672692"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
           </section>
@@ -571,11 +696,11 @@
             <h4>
               <span>2023-09-27 @ 07:44:37</span
               ><span class="points-container"
-                >Points: <span class="points">329</span></span
+                >Points: <span class="points">332</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37671419"
                   >Comments</a
-                ><span class="descendants">: 108</span></span
+                ><span class="descendants">: 110</span></span
               >
             </h4>
           </section>
@@ -591,11 +716,11 @@
             <h4>
               <span>2023-09-27 @ 07:31:43</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">96</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37671341"
                   >Comments</a
-                ><span class="descendants">: 125</span></span
+                ><span class="descendants">: 126</span></span
               >
             </h4>
           </section>
@@ -612,7 +737,7 @@
             <h4>
               <span>2023-09-27 @ 06:31:25</span
               ><span class="points-container"
-                >Points: <span class="points">246</span></span
+                >Points: <span class="points">247</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37670938"
                   >Comments</a
@@ -631,7 +756,7 @@
             <h4>
               <span>2023-09-27 @ 05:59:55</span
               ><span class="points-container"
-                >Points: <span class="points">244</span></span
+                >Points: <span class="points">245</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37670740"
                   >Comments</a
@@ -656,7 +781,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37669387"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -671,11 +796,11 @@
             <h4>
               <span>2023-09-27 @ 00:29:13</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37667981"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -692,7 +817,7 @@
             <h4>
               <span>2023-09-26 @ 18:53:49</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37664082"
                   >Comments</a
@@ -717,7 +842,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37658208"
                   >Comments</a
-                ><span class="descendants">: 280</span></span
+                ><span class="descendants">: 284</span></span
               >
             </h4>
           </section>
@@ -735,11 +860,11 @@
             <h4>
               <span>2023-09-25 @ 20:49:09</span
               ><span class="points-container"
-                >Points: <span class="points">793</span></span
+                >Points: <span class="points">798</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=37650402"
                   >Comments</a
-                ><span class="descendants">: 471</span></span
+                ><span class="descendants">: 473</span></span
               >
             </h4>
           </section>
