@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-09-27, 16:38:03",
-      "https://news.ycombinator.com/item?id=37677296"
-    ],
-    [
-      "Synthetic opioids deadlier than fentanyl are showing up in overdose cases",
-      "https://theconversation.com/nitazenes-synthetic-opioids-more-deadly-than-fentanyl-are-starting-to-turn-up-in-overdose-cases-212589"
-    ]
-  ],
-  [
-    [
       "2023-09-27, 16:13:37",
       "https://news.ycombinator.com/item?id=37676880"
     ],
@@ -187,6 +177,16 @@
     [
       "Workers AI: Serverless GPU-powered inference",
       "https://blog.cloudflare.com/workers-ai/"
+    ]
+  ],
+  [
+    [
+      "2023-09-27, 13:00:24",
+      "https://news.ycombinator.com/item?id=37673999"
+    ],
+    [
+      "You can now use WebGPU in Cloudflare Workers",
+      "https://blog.cloudflare.com/webgpu-in-workers/"
     ]
   ],
   [
