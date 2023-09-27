@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-09-27, 08:58:04",
-      "https://news.ycombinator.com/item?id=37671991"
-    ],
-    [
-      "I got robbed of my first kernel contribution",
-      "https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/"
-    ]
-  ],
-  [
-    [
       "2023-09-27, 07:31:43",
       "https://news.ycombinator.com/item?id=37671341"
     ],
@@ -177,6 +167,16 @@
     [
       "Exploring Linux command-line space time",
       "https://fabiensanglard.net/st/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-26, 17:15:33",
+      "https://news.ycombinator.com/item?id=37662561"
+    ],
+    [
+      "Vizro – toolkit for creating modular data visualization applications",
+      "https://github.com/mckinsey/vizro"
     ]
   ],
   [
