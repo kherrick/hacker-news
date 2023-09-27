@@ -21,7 +21,6 @@
 * [2023-09-26, 16:59:20](https://news.ycombinator.com/item?id=37662281) - [Why don’t Americans eat mutton?](https://modernfarmer.com/2023/09/digging-in-mutton/)
 * [2023-09-26, 16:31:16](https://news.ycombinator.com/item?id=37661767) - [Show HN: Magentic – Use LLMs as simple Python functions](https://github.com/jackmpcollins/magentic)
 * [2023-09-26, 16:10:40](https://news.ycombinator.com/item?id=37661446) - [FTC sues Amazon for illegally maintaining monopoly power](https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power)
-* [2023-09-26, 13:41:45](https://news.ycombinator.com/item?id=37659164) - [Freelancers aren’t happy with Japan’s new invoice system](https://www.japantimes.co.jp/community/2023/09/25/how-tos/freelancer-tax-system/)
 * [2023-09-26, 11:24:22](https://news.ycombinator.com/item?id=37657663) - [Ford's Theatre Front-Row Tickets from April 14, 1865](https://www.rrauction.com/auctions/lot-detail/347903406696018-abraham-lincoln-assassination-2-fords-theatre-front-row-tickets-from-april-14-1865-ex-forbes-collection)
 * [2023-09-26, 04:58:54](https://news.ycombinator.com/item?id=37654600) - [Chip War: The Fight for the Most Critical Technology [video]](https://www.youtube.com/watch?v=2tSs7aESx8s)
 * [2023-09-25, 20:49:09](https://news.ycombinator.com/item?id=37650402) - [A journey into the shaken baby syndrome/abusive head trauma controversy](https://www.cambridgeblog.org/2023/05/a-journey-into-the-shaken-baby-syndrome-abusive-head-trauma-controversy/)
@@ -30,6 +29,7 @@
 * [2023-09-25, 14:35:22](https://news.ycombinator.com/item?id=37644493) - [Box of donated artifacts turns out to be treasure trove of Neanderthal bones](https://phys.org/news/2023-09-donated-artifacts-treasure-trove-neanderthal.html)
 * [2023-09-24, 12:32:06](https://news.ycombinator.com/item?id=37632513) - [One man’s quest to end cheating in virtual cycling](https://thehustle.co/one-mans-quest-to-end-cheating-in-virtual-cycling/)
 * [2023-09-24, 06:52:48](https://news.ycombinator.com/item?id=37630758) - [Building a string art machine](https://medium.com/@paulmorrishill/building-a-string-art-machine-eeee386a38db)
+* [2023-09-24, 00:14:21](https://news.ycombinator.com/item?id=37628869) - [An audacious plan to halt the internet's enshittification [video]](https://www.youtube.com/watch?v=rimtaSgGz_4)
 
 ## [Archives](archives/index.md)
 
