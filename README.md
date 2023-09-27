@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-27, 21:34:46](https://news.ycombinator.com/item?id=37681663) - [Jony Ive and OpenAI’s Altman reportedly collaborating on mysterious AI device](https://arstechnica.com/information-technology/2023/09/jony-ive-and-openais-altman-reportedly-collaborating-on-mysterious-ai-device/)
+* [2023-09-27, 22:56:51](https://news.ycombinator.com/item?id=37682607) - [Inflation Bites U.S. Engineering Salaries](https://spectrum.ieee.org/electrical-engineer-salary-2023)
 * [2023-09-27, 21:33:04](https://news.ycombinator.com/item?id=37681643) - [Qwen (通义千问) chat and pretrained large language model by Alibaba Cloud](https://github.com/QwenLM/Qwen)
 * [2023-09-27, 21:25:24](https://news.ycombinator.com/item?id=37681554) - [War Thunder user leaks restricted military documents for AH-64D Apache Longbow](https://nichegamer.com/war-thunder-user-leaks-restricted-military-documents-for-ah-64d-apache-longbow/)
 * [2023-09-27, 21:22:18](https://news.ycombinator.com/item?id=37681505) - [Valve releases Counter-Strike 2](https://store.steampowered.com/app/730/CounterStrike_2/)
