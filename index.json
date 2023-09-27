@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-09-27, 14:14:30",
+      "https://news.ycombinator.com/item?id=37674967"
+    ],
+    [
+      "ClickHouse Keeper: A ZooKeeper alternative written in C++",
+      "https://clickhouse.com/blog/clickhouse-keeper-a-zookeeper-alternative-written-in-cpp"
+    ]
+  ],
+  [
+    [
       "2023-09-27, 13:50:09",
       "https://news.ycombinator.com/item?id=37674640"
     ],
@@ -77,16 +87,6 @@
     [
       "You can now use WebGPU in Cloudflare Workers",
       "https://blog.cloudflare.com/webgpu-in-workers/"
-    ]
-  ],
-  [
-    [
-      "2023-09-27, 12:10:01",
-      "https://news.ycombinator.com/item?id=37673494"
-    ],
-    [
-      "Lego abandons effort to make bricks from recycled plastic bottles",
-      "https://www.theguardian.com/lifeandstyle/2023/sep/24/lego-abandons-effort-to-make-bricks-from-recycled-plastic-bottles"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2023-09-27, 00:05:45",
-      "https://news.ycombinator.com/item?id=37667731"
-    ],
-    [
-      "Deconstructing Go Type Parameters",
-      "https://go.dev/blog/deconstructing-type-parameters"
-    ]
-  ],
-  [
-    [
       "2023-09-26, 17:58:47",
       "https://news.ycombinator.com/item?id=37663270"
     ],
@@ -217,6 +207,16 @@
     [
       "My Unhealthy Relationship with Keyboards",
       "https://jackevansevo.github.io/my-unhealthy-relationship-with-keyboards.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-26, 11:25:20",
+      "https://news.ycombinator.com/item?id=37657672"
+    ],
+    [
+      "Show HN: Adding dynamic library loading to my pet programming language",
+      "https://github.com/nbittich/adana"
     ]
   ],
   [
