@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-27, 00:15:57](https://news.ycombinator.com/item?id=37667852) - [Understanding Tescreal: Weird Ideologies Behind Silicon Valley’s Rightward Turn](https://washingtonspectator.org/understanding-tescreal-silicon-valleys-rightward-turn/)
+* [2023-09-27, 00:18:01](https://news.ycombinator.com/item?id=37667874) - [China is flooding Taiwan with disinformation](https://www.economist.com/asia/2023/09/26/china-is-flooding-taiwan-with-disinformation)
+* [2023-09-26, 23:38:48](https://news.ycombinator.com/item?id=37667450) - [Radar Maps: $0.50 per 1K map loads](https://radar.com/blog/introducing-radar-maps-platform)
 * [2023-09-26, 23:22:15](https://news.ycombinator.com/item?id=37667266) - [The Philips Hue ecosystem is collapsing into stupidity](https://rachelbythebay.com/w/2023/09/26/hue/)
 * [2023-09-26, 22:38:55](https://news.ycombinator.com/item?id=37666773) - [Merlin's Wisdom Project](https://github.com/merlinmann/wisdom/blob/master/wisdom.md)
 * [2023-09-26, 21:24:09](https://news.ycombinator.com/item?id=37665988) - [Introduction to Sysclean(8) on OpenBSD](https://kapouay.eu.org/notes/sysclean-intro/)
@@ -20,7 +21,6 @@
 * [2023-09-26, 16:59:20](https://news.ycombinator.com/item?id=37662281) - [Why don’t Americans eat mutton?](https://modernfarmer.com/2023/09/digging-in-mutton/)
 * [2023-09-26, 16:31:16](https://news.ycombinator.com/item?id=37661767) - [Show HN: Magentic – Use LLMs as simple Python functions](https://github.com/jackmpcollins/magentic)
 * [2023-09-26, 16:10:40](https://news.ycombinator.com/item?id=37661446) - [FTC sues Amazon for illegally maintaining monopoly power](https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power)
-* [2023-09-26, 14:36:18](https://news.ycombinator.com/item?id=37660025) - [Spinneret: A modern Common Lisp HTML generator](https://github.com/ruricolist/spinneret)
 * [2023-09-26, 13:41:45](https://news.ycombinator.com/item?id=37659164) - [Freelancers aren’t happy with Japan’s new invoice system](https://www.japantimes.co.jp/community/2023/09/25/how-tos/freelancer-tax-system/)
 * [2023-09-26, 11:36:21](https://news.ycombinator.com/item?id=37657772) - [Yandex open sourced it's BI tool DataLens](https://github.com/datalens-tech)
 * [2023-09-26, 10:54:54](https://news.ycombinator.com/item?id=37657405) - [Dog Mode](https://untested.sonnet.io/posts/006/)
@@ -29,7 +29,7 @@
 * [2023-09-25, 20:49:09](https://news.ycombinator.com/item?id=37650402) - [A journey into the shaken baby syndrome/abusive head trauma controversy](https://www.cambridgeblog.org/2023/05/a-journey-into-the-shaken-baby-syndrome-abusive-head-trauma-controversy/)
 * [2023-09-25, 19:27:00](https://news.ycombinator.com/item?id=37649250) - [J. G. Ballard’s brilliant, “not good” writing](https://www.theparisreview.org/blog/2023/09/22/j-g-ballards-brilliant-not-good-writing/)
 * [2023-09-25, 14:35:22](https://news.ycombinator.com/item?id=37644493) - [Box of donated artifacts turns out to be treasure trove of Neanderthal bones](https://phys.org/news/2023-09-donated-artifacts-treasure-trove-neanderthal.html)
-* [2023-09-23, 06:51:31](https://news.ycombinator.com/item?id=37621151) - [Drawing hat tiling using Racket](https://rdivyanshu.github.io/hat.html)
+* [2023-09-24, 06:52:48](https://news.ycombinator.com/item?id=37630758) - [Building a string art machine](https://medium.com/@paulmorrishill/building-a-string-art-machine-eeee386a38db)
 
 ## [Archives](archives/index.md)
 

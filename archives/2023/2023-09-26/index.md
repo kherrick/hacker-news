@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
+* [2023-09-26, 23:38:48](https://news.ycombinator.com/item?id=37667450) - [Radar Maps: $0.50 per 1K map loads](https://radar.com/blog/introducing-radar-maps-platform)
 * [2023-09-26, 23:22:15](https://news.ycombinator.com/item?id=37667266) - [The Philips Hue ecosystem is collapsing into stupidity](https://rachelbythebay.com/w/2023/09/26/hue/)
 * [2023-09-26, 22:38:55](https://news.ycombinator.com/item?id=37666773) - [Merlin's Wisdom Project](https://github.com/merlinmann/wisdom/blob/master/wisdom.md)
 * [2023-09-26, 21:24:09](https://news.ycombinator.com/item?id=37665988) - [Introduction to Sysclean(8) on OpenBSD](https://kapouay.eu.org/notes/sysclean-intro/)

@@ -72,6 +72,7 @@
 * [2023-09-24, 07:40:53](https://news.ycombinator.com/item?id=37630951) - [Natalie – a work-in-progress Ruby compiler, written in Ruby and C++](https://github.com/natalie-lang/natalie)
 * [2023-09-24, 07:31:41](https://news.ycombinator.com/item?id=37630914) - [Google is killing Gmail's Basic HTML View in early 2024](https://support.google.com/mail/answer/15049?hl=en)
 * [2023-09-24, 07:03:51](https://news.ycombinator.com/item?id=37630804) - [Text editing on mobile isn’t ok](https://jenson.org/text/)
+* [2023-09-24, 06:52:48](https://news.ycombinator.com/item?id=37630758) - [Building a string art machine](https://medium.com/@paulmorrishill/building-a-string-art-machine-eeee386a38db)
 * [2023-09-24, 06:28:41](https://news.ycombinator.com/item?id=37630630) - [GPT Excel](https://gptexcel.uk/)
 * [2023-09-24, 06:28:30](https://news.ycombinator.com/item?id=37630628) - [TypeScript NPM Packages Done Right](https://blog.liblab.com/typescript-npm-packages-done-right/)
 * [2023-09-24, 06:18:45](https://news.ycombinator.com/item?id=37630589) - [TikTok is changing the way books are recommended and sold](https://www.economist.com/culture/2023/09/21/tiktok-is-changing-the-way-books-are-recommended-and-sold)
