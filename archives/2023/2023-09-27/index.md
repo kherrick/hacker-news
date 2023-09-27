@@ -6,6 +6,7 @@
 
 * [2023-09-27, 12:10:01](https://news.ycombinator.com/item?id=37673494) - [Lego abandons effort to make bricks from recycled plastic bottles](https://www.theguardian.com/lifeandstyle/2023/sep/24/lego-abandons-effort-to-make-bricks-from-recycled-plastic-bottles)
 * [2023-09-27, 12:02:36](https://news.ycombinator.com/item?id=37673422) - [Ads in the OS](https://www.ng5p.com/blog/MicrosoftIrritations.html)
+* [2023-09-27, 12:01:43](https://news.ycombinator.com/item?id=37673413) - [Google judge rules trial documents can be posted by U.S. online](https://www.bloomberg.com/news/articles/2023-09-26/google-judge-rules-trial-documents-can-be-posted-by-us-online)
 * [2023-09-27, 12:01:18](https://news.ycombinator.com/item?id=37673409) - [First Impressions with GPT-4V(ision)](https://blog.roboflow.com/gpt-4-vision/)
 * [2023-09-27, 11:48:36](https://news.ycombinator.com/item?id=37673300) - [Be My Eyes’ AI assistant starts rolling out](https://www.bemyeyes.com/blog/announcing-be-my-ai)
 * [2023-09-27, 11:02:21](https://news.ycombinator.com/item?id=37672937) - [Building a defence startup: 6 lessons I’ve learned](https://medium.com/@ErikKannike/building-a-defence-startup-6-lessons-ive-learned-11619b3a514e)

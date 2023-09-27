@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-27, 12:10:01](https://news.ycombinator.com/item?id=37673494) - [Lego abandons effort to make bricks from recycled plastic bottles](https://www.theguardian.com/lifeandstyle/2023/sep/24/lego-abandons-effort-to-make-bricks-from-recycled-plastic-bottles)
+* [2023-09-27, 12:01:43](https://news.ycombinator.com/item?id=37673413) - [Google judge rules trial documents can be posted by U.S. online](https://www.bloomberg.com/news/articles/2023-09-26/google-judge-rules-trial-documents-can-be-posted-by-us-online)
 * [2023-09-27, 12:01:18](https://news.ycombinator.com/item?id=37673409) - [First Impressions with GPT-4V(ision)](https://blog.roboflow.com/gpt-4-vision/)
 * [2023-09-27, 11:48:36](https://news.ycombinator.com/item?id=37673300) - [Be My Eyes’ AI assistant starts rolling out](https://www.bemyeyes.com/blog/announcing-be-my-ai)
 * [2023-09-27, 11:02:21](https://news.ycombinator.com/item?id=37672937) - [Building a defence startup](https://medium.com/@ErikKannike/building-a-defence-startup-6-lessons-ive-learned-11619b3a514e)
@@ -21,13 +22,12 @@
 * [2023-09-26, 12:22:21](https://news.ycombinator.com/item?id=37658208) - [My Unhealthy Relationship with Keyboards](https://jackevansevo.github.io/my-unhealthy-relationship-with-keyboards.html)
 * [2023-09-26, 12:15:59](https://news.ycombinator.com/item?id=37658151) - [The X220 ThinkPad](https://bt.ht/x220/)
 * [2023-09-26, 11:25:20](https://news.ycombinator.com/item?id=37657672) - [Show HN: Adding dynamic library loading to my pet programming language](https://github.com/nbittich/adana)
-* [2023-09-26, 11:24:22](https://news.ycombinator.com/item?id=37657663) - [Ford's Theatre Front-Row Tickets from April 14, 1865](https://www.rrauction.com/auctions/lot-detail/347903406696018-abraham-lincoln-assassination-2-fords-theatre-front-row-tickets-from-april-14-1865-ex-forbes-collection)
-* [2023-09-26, 10:50:26](https://news.ycombinator.com/item?id=37657368) - [Who lusts for certainty lusts for lies](https://www.etymonline.com/columns/post/who-lusts-for-certainty-lusts-for-lies)
 * [2023-09-26, 10:06:39](https://news.ycombinator.com/item?id=37656993) - [Forrest Mims and RadioShack (2017)](https://hackaday.com/2017/01/18/forrest-mims-radio-shack-and-the-notebooks-that-launched-a-thousand-careers/)
 * [2023-09-26, 07:35:30](https://news.ycombinator.com/item?id=37655758) - [ASCIIpOrtal: A Portal Game You Can Play in Your Terminal (2019)](https://github.com/cymonsgames/ASCIIpOrtal)
 * [2023-09-26, 06:42:25](https://news.ycombinator.com/item?id=37655298) - [Knowledge (1986)](https://www.lrb.co.uk/the-paper/v08/n22/ian-hacking/knowledge)
 * [2023-09-25, 20:49:09](https://news.ycombinator.com/item?id=37650402) - [A journey into the shaken baby syndrome/abusive head trauma controversy](https://www.cambridgeblog.org/2023/05/a-journey-into-the-shaken-baby-syndrome-abusive-head-trauma-controversy/)
 * [2023-09-25, 17:24:49](https://news.ycombinator.com/item?id=37647467) - [The possibly never-ending quest for the golden owl](https://www.atlasobscura.com/articles/quest-for-the-golden-owl-hidden-treasure)
+* [2023-09-25, 05:29:34](https://news.ycombinator.com/item?id=37639945) - [Tempest: Transmit Radio Waves via a PC Video Card with No Extra Hardware](http://www.erikyyy.de/tempest/)
 * [2023-09-24, 12:32:06](https://news.ycombinator.com/item?id=37632513) - [One man’s quest to end cheating in virtual cycling](https://thehustle.co/one-mans-quest-to-end-cheating-in-virtual-cycling/)
 * [2023-09-24, 06:52:48](https://news.ycombinator.com/item?id=37630758) - [Building a string art machine](https://medium.com/@paulmorrishill/building-a-string-art-machine-eeee386a38db)
 
