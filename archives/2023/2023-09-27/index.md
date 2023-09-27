@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
+* [2023-09-27, 18:18:33](https://news.ycombinator.com/item?id=37678860) - [Ray-Ban Meta next generation of smart glasses](https://www.meta.com/smart-glasses/)
+* [2023-09-27, 18:09:29](https://news.ycombinator.com/item?id=37678714) - [OpenBSD PF versus FreeBSD PF](https://mwl.io/archives/23127)
 * [2023-09-27, 17:53:46](https://news.ycombinator.com/item?id=37678431) - [New AI Experiences Across Our Family of Apps and Devices](https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/)
 * [2023-09-27, 17:45:55](https://news.ycombinator.com/item?id=37678318) - [Meta Quest 3](https://www.meta.com/quest/quest-3/)
 * [2023-09-27, 17:28:29](https://news.ycombinator.com/item?id=37678046) - [Linux Kernel Maintainers, why are they so grumpy? [pdf]](https://elinux.org/images/0/06/Lca13-gregkh-I-dont-want-your-code.pdf)
@@ -21,6 +23,7 @@
 * [2023-09-27, 15:17:35](https://news.ycombinator.com/item?id=37675894) - [Show HN: Using LLMs and Embeddings to classify application errors](https://github.com/highlight/highlight/tree/main/backend/embeddings)
 * [2023-09-27, 15:16:22](https://news.ycombinator.com/item?id=37675864) - [Accidents Happen: Sketches of misfortune in an insurance trade card c. 1890s](https://forgottenfiles.substack.com/p/accidents-happen-c1890s)
 * [2023-09-27, 15:14:03](https://news.ycombinator.com/item?id=37675831) - [Desalination system could produce freshwater that is cheaper than tap water](https://www.eurekalert.org/news-releases/1002811)
+* [2023-09-27, 15:02:07](https://news.ycombinator.com/item?id=37675644) - [A Careful Selection of Whisk Ferns (1837)](https://publicdomainreview.org/collection/selection-of-whisk-ferns/)
 * [2023-09-27, 14:52:46](https://news.ycombinator.com/item?id=37675496) - [Mistral 7B, the most powerful language model for its size to date, Apache 2.0](https://mistral.ai/news/announcing-mistral-7b/)
 * [2023-09-27, 14:46:59](https://news.ycombinator.com/item?id=37675422) - [Unions Work](https://werd.io/2023/unions-work)
 * [2023-09-27, 14:45:23](https://news.ycombinator.com/item?id=37675400) - [Your nines are not my nines (2019)](https://rachelbythebay.com/w/2019/07/15/giant/)
