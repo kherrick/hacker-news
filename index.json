@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-09-27, 00:05:45",
+      "https://news.ycombinator.com/item?id=37667731"
+    ],
+    [
+      "Deconstructing Go Type Parameters",
+      "https://go.dev/blog/deconstructing-type-parameters"
+    ]
+  ],
+  [
+    [
       "2023-09-26, 23:38:48",
       "https://news.ycombinator.com/item?id=37667450"
     ],
@@ -127,16 +137,6 @@
     [
       "ROCm is AMD's priority, executive says",
       "https://www.eetimes.com/rocm-is-amds-no-1-priority-exec-says/"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 17:52:45",
-      "https://news.ycombinator.com/item?id=37663159"
-    ],
-    [
-      "Sidechannel pixel-stealing attack works in Chromium on all modern GPUs",
-      "https://arstechnica.com/security/2023/09/gpus-from-all-major-suppliers-are-vulnerable-to-new-pixel-stealing-attack/"
     ]
   ],
   [
