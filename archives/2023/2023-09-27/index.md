@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
 * [2023-09-27, 05:59:55](https://news.ycombinator.com/item?id=37670740) - [Arena Allocator Tips and Tricks](https://nullprogram.com/blog/2023/09/27/)
+* [2023-09-27, 05:30:49](https://news.ycombinator.com/item?id=37670577) - [What the Hollywood writers have agreed with the studios about AI](https://www.wgacontract2023.org/the-campaign/summary-of-the-2023-wga-mba)
 * [2023-09-27, 04:11:47](https://news.ycombinator.com/item?id=37669998) - [GNU – Celebrating 40 Years](https://www.gnu.org/gnu40/)
 * [2023-09-27, 04:07:48](https://news.ycombinator.com/item?id=37669965) - [Are Our Articles Disguised Ads?](https://www.airgradient.com/blog/are-our-articles-disguised-ads/)
 * [2023-09-27, 03:36:23](https://news.ycombinator.com/item?id=37669706) - [Show HN: XRain – Explore rainfall statistics around the world](https://xrain.info/data/)

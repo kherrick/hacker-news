@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-27, 05:59:55](https://news.ycombinator.com/item?id=37670740) - [Arena Allocator Tips and Tricks](https://nullprogram.com/blog/2023/09/27/)
+* [2023-09-27, 05:30:49](https://news.ycombinator.com/item?id=37670577) - [What the Hollywood writers have agreed with the studios about AI](https://www.wgacontract2023.org/the-campaign/summary-of-the-2023-wga-mba)
 * [2023-09-27, 03:36:23](https://news.ycombinator.com/item?id=37669706) - [Show HN: XRain – Explore rainfall statistics around the world](https://xrain.info/data/)
 * [2023-09-27, 00:05:45](https://news.ycombinator.com/item?id=37667731) - [Deconstructing Go Type Parameters](https://go.dev/blog/deconstructing-type-parameters)
 * [2023-09-26, 23:38:48](https://news.ycombinator.com/item?id=37667450) - [Radar Maps Platform](https://radar.com/blog/introducing-radar-maps-platform)
@@ -14,7 +15,6 @@
 * [2023-09-26, 18:14:23](https://news.ycombinator.com/item?id=37663523) - [Causality for Machine Learning (2020)](https://ff13.fastforwardlabs.com/)
 * [2023-09-26, 17:58:47](https://news.ycombinator.com/item?id=37663270) - [Show HN: Unity like game editor running in pure WASM](https://raverie-us.github.io/raverie-engine/)
 * [2023-09-26, 17:54:42](https://news.ycombinator.com/item?id=37663194) - [ROCm is AMD's priority, executive says](https://www.eetimes.com/rocm-is-amds-no-1-priority-exec-says/)
-* [2023-09-26, 17:52:45](https://news.ycombinator.com/item?id=37663159) - [Sidechannel pixel-stealing attack works in Chromium on all modern GPUs](https://arstechnica.com/security/2023/09/gpus-from-all-major-suppliers-are-vulnerable-to-new-pixel-stealing-attack/)
 * [2023-09-26, 17:21:12](https://news.ycombinator.com/item?id=37662655) - [Exploring Linux command-line space time](https://fabiensanglard.net/st/index.html)
 * [2023-09-26, 17:15:33](https://news.ycombinator.com/item?id=37662561) - [Vizro – toolkit for creating modular data visualization applications](https://github.com/mckinsey/vizro)
 * [2023-09-26, 17:12:17](https://news.ycombinator.com/item?id=37662510) - [macOS Sonoma is available today](https://www.apple.com/newsroom/2023/09/macos-sonoma-is-available-today/)
