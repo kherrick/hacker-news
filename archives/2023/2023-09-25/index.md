@@ -44,6 +44,7 @@
 * [2023-09-25, 18:05:07](https://news.ycombinator.com/item?id=37648068) - [Unity's oldest community announces dissolution](http://farewell.bostonunitygroup.com/)
 * [2023-09-25, 17:38:46](https://news.ycombinator.com/item?id=37647677) - [Intel Axes Data Center GPU Max 1350, Preps New Max 1450 for 'Different Markets'](https://www.tomshardware.com/news/intel-axes-data-center-gpu-max-1350-preps-max-1450-for-different-markets)
 * [2023-09-25, 17:35:33](https://news.ycombinator.com/item?id=37647627) - [Kafka as an Antipattern](https://joshaustin.tech/blog/kafka-as-an-antipattern/)
+* [2023-09-25, 17:24:49](https://news.ycombinator.com/item?id=37647467) - [The Possibly Never-Ending Quest for the Golden Owl](https://www.atlasobscura.com/articles/quest-for-the-golden-owl-hidden-treasure)
 * [2023-09-25, 17:13:06](https://news.ycombinator.com/item?id=37647279) - [What to expect from upvotes on Hacker News](https://antonz.org/hn-upvotes/)
 * [2023-09-25, 17:12:35](https://news.ycombinator.com/item?id=37647265) - [Living Off the Land Binaries](https://github.com/LOLBAS-Project/LOLBAS/blob/master/README.md)
 * [2023-09-25, 17:00:43](https://news.ycombinator.com/item?id=37647053) - [Dots (YC S21) Is Hiring for Founding Full-Stack Eningeers](https://www.ycombinator.com/companies/dots-2/jobs)

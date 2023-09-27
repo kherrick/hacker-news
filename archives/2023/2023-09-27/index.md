@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
+* [2023-09-27, 03:36:23](https://news.ycombinator.com/item?id=37669706) - [Show HN: XRain – Explore rainfall statistics around the world](https://xrain.info/data/)
 * [2023-09-27, 03:08:57](https://news.ycombinator.com/item?id=37669456) - [25 Years of Google](https://www.google.com/doodles/googles-25th-birthday)
 * [2023-09-27, 02:53:42](https://news.ycombinator.com/item?id=37669341) - [Google's 25th Birthday](https://blog.google/inside-google/company-announcements/google-25th-birthday/)
 * [2023-09-27, 02:24:11](https://news.ycombinator.com/item?id=37669078) - [Why should I care about OpenTofu?](https://opentofu.org/blog/why-should-i-care-about-opentofu/)
