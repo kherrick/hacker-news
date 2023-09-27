@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
+* [2023-09-27, 20:31:50](https://news.ycombinator.com/item?id=37680851) - [The Llama Ecosystem: Past, Present, and Future](https://ai.meta.com/blog/llama-2-updates-connect-2023/)
+* [2023-09-27, 20:29:38](https://news.ycombinator.com/item?id=37680817) - [Emu: Enhancing Image Generation Models Using Photogenic Needles in a Haystack](https://ai.meta.com/research/publications/emu-enhancing-image-generation-models-using-photogenic-needles-in-a-haystack/)
 * [2023-09-27, 20:16:33](https://news.ycombinator.com/item?id=37680641) - [Think twice before abandoning Xorg. Wayland breaks everything](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
+* [2023-09-27, 20:01:48](https://news.ycombinator.com/item?id=37680449) - [Bitwig and Presonus launch open DAWproject format](https://github.com/bitwig/dawproject)
 * [2023-09-27, 20:01:20](https://news.ycombinator.com/item?id=37680443) - [Hackers are spoofing themselves as GitHub's Dependabot to steal user passwords](https://www.itpro.com/security/cyber-attacks/hackers-are-spoofing-themselves-as-githubs-dependabot-to-steal-user-passwords)
+* [2023-09-27, 19:59:26](https://news.ycombinator.com/item?id=37680420) - [Earthworms contribute to 6.5% of global grain production](https://phys.org/news/2023-09-earthworms-contribute-global-grain-production.html)
 * [2023-09-27, 19:57:11](https://news.ycombinator.com/item?id=37680373) - [Antarctic sea ice hits lowest winter maximum on record: US data](https://phys.org/news/2023-09-antarctic-sea-ice-lowest-winter.html)
 * [2023-09-27, 19:44:25](https://news.ycombinator.com/item?id=37680195) - [Is an All-Meat Diet What Nature Intended?](https://www.newyorker.com/magazine/2023/10/02/is-an-all-meat-diet-what-nature-intended)
 * [2023-09-27, 19:35:42](https://news.ycombinator.com/item?id=37680079) - [The Conscience of a Hacker(1986)](http://textfiles.com/100/hack7.txt)
