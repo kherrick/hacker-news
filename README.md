@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-27, 16:36:03](https://news.ycombinator.com/item?id=37677261) - [Judge Says Google Can't Keep Hiding Its Dealings During DOJ Antitrust Trial](https://gizmodo.com/judge-says-google-cant-keep-hiding-docs-antitrust-1850877990)
+* [2023-09-27, 16:42:38](https://news.ycombinator.com/item?id=37677358) - [A gentle introduction to static analyzers for C](https://nrk.neocities.org/articles/c-static-analyzers)
+* [2023-09-27, 16:41:14](https://news.ycombinator.com/item?id=37677341) - [Queues for Kafka](https://cwiki.apache.org/confluence/display/KAFKA/KIP-932%3A+Queues+for+Kafka)
 * [2023-09-27, 15:45:58](https://news.ycombinator.com/item?id=37676393) - [Live near your friends](https://headlineshq.substack.com/p/issue-no-029-live-near-your-friends)
 * [2023-09-27, 15:38:00](https://news.ycombinator.com/item?id=37676263) - [Nucor and Helion to Develop 500 MW Fusion Power Plant by 2030](https://nucor.com/news-release/20126)
 * [2023-09-27, 15:22:29](https://news.ycombinator.com/item?id=37675988) - [Rust vs Go: A Hands-On Comparison](https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison)
@@ -10,7 +11,6 @@
 * [2023-09-27, 14:45:23](https://news.ycombinator.com/item?id=37675400) - [Your nines are not my nines (2019)](https://rachelbythebay.com/w/2019/07/15/giant/)
 * [2023-09-27, 14:14:30](https://news.ycombinator.com/item?id=37674967) - [ClickHouse Keeper: A ZooKeeper alternative written in C++](https://clickhouse.com/blog/clickhouse-keeper-a-zookeeper-alternative-written-in-cpp)
 * [2023-09-27, 13:58:58](https://news.ycombinator.com/item?id=37674752) - [Deno Queues](https://deno.com/blog/queues)
-* [2023-09-27, 13:50:09](https://news.ycombinator.com/item?id=37674640) - [We try out the first legal level 3 automated driving system in the US](https://arstechnica.com/cars/2023/09/mercedes-benzs-level-3-autonomous-driving-system-takes-over-in-heavy-traffic/)
 * [2023-09-27, 13:40:25](https://news.ycombinator.com/item?id=37674519) - [Rusty revenant Servo returns to render once more](https://www.theregister.com/2023/09/27/servo_returns/)
 * [2023-09-27, 13:10:03](https://news.ycombinator.com/item?id=37674139) - [The most copied StackOverflow snippet of all time is flawed (2019)](https://programming.guide/worlds-most-copied-so-snippet.html)
 * [2023-09-27, 13:06:47](https://news.ycombinator.com/item?id=37674097) - [Workers AI: serverless GPU-powered inference on Cloudflare’s global network](https://blog.cloudflare.com/workers-ai/)

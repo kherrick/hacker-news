@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
+* [2023-09-27, 16:42:38](https://news.ycombinator.com/item?id=37677358) - [A gentle introduction to static analyzers for C](https://nrk.neocities.org/articles/c-static-analyzers)
+* [2023-09-27, 16:41:14](https://news.ycombinator.com/item?id=37677341) - [Queues for Kafka](https://cwiki.apache.org/confluence/display/KAFKA/KIP-932%3A+Queues+for+Kafka)
 * [2023-09-27, 16:36:03](https://news.ycombinator.com/item?id=37677261) - [Judge Says Google Can't Keep Hiding Its Dealings During DOJ Antitrust Trial](https://gizmodo.com/judge-says-google-cant-keep-hiding-docs-antitrust-1850877990)
 * [2023-09-27, 15:51:09](https://news.ycombinator.com/item?id=37676500) - [Kia, Hyundai recall over 3.3M vehicles for potential fire-related issues](https://www.usatoday.com/story/money/cars/2023/09/27/kia-hyundai-recall/70978487007/)
 * [2023-09-27, 15:45:58](https://news.ycombinator.com/item?id=37676393) - [Live near your friends](https://headlineshq.substack.com/p/issue-no-029-live-near-your-friends)
