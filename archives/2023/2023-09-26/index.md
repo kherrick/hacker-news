@@ -70,6 +70,7 @@
 * [2023-09-26, 13:22:46](https://news.ycombinator.com/item?id=37658915) - [Firefox 118](https://www.mozilla.org/en-US/firefox/118.0/releasenotes/)
 * [2023-09-26, 13:19:42](https://news.ycombinator.com/item?id=37658884) - [Modular Lpddr Memory Becomes a Reality: Samsung Introduces Lpcamm Memory Modules](https://www.anandtech.com/show/21069/modular-lpddr-becomes-a-reality-samsung-introduces-lpcamm-memory-modules)
 * [2023-09-26, 13:07:13](https://news.ycombinator.com/item?id=37658714) - [Kikkuli: Why do some people from the distant past become memes?](https://resobscura.substack.com/p/kikkuli)
+* [2023-09-26, 13:04:48](https://news.ycombinator.com/item?id=37658686) - [Show HN: The Tomb of Ramesses I in the Valley of the Kings](https://mused.org/en/tours/730/the-tomb-of-ramesses-i)
 * [2023-09-26, 12:58:58](https://news.ycombinator.com/item?id=37658629) - [Poland may seek extradition of Ukrainian Nazi WW2 veteran Hunka from Canada](https://notesfrompoland.com/2023/09/26/poland-may-seek-extradition-of-ukrainian-nazi-ww2-veteran-hunka-from-canada/)
 * [2023-09-26, 12:56:41](https://news.ycombinator.com/item?id=37658593) - [Space Force chief says commercial satellites may need defending](https://arstechnica.com/space/2023/09/space-force-chief-foresees-role-in-protecting-commercial-satellites/)
 * [2023-09-26, 12:38:19](https://news.ycombinator.com/item?id=37658410) - [Ask HN: Have you been affected by layoffs?](https://news.ycombinator.com/item?id=37658410)

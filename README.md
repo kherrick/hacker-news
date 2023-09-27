@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-27, 20:01:20](https://news.ycombinator.com/item?id=37680443) - [Hackers are spoofing themselves as GitHub's Dependabot to steal user passwords](https://www.itpro.com/security/cyber-attacks/hackers-are-spoofing-themselves-as-githubs-dependabot-to-steal-user-passwords)
+* [2023-09-27, 19:35:42](https://news.ycombinator.com/item?id=37680079) - [The Conscience of a Hacker(1986)](http://textfiles.com/100/hack7.txt)
 * [2023-09-27, 19:27:17](https://news.ycombinator.com/item?id=37679955) - [GPT-4 generates simple app from Whiteboard photo](https://twitter.com/mckaywrigley/status/1707101465922453701?s=20)
 * [2023-09-27, 18:18:33](https://news.ycombinator.com/item?id=37678860) - [Ray-Ban Meta Smart Glasses](https://www.meta.com/smart-glasses/)
 * [2023-09-27, 18:09:29](https://news.ycombinator.com/item?id=37678714) - [OpenBSD PF versus FreeBSD PF](https://mwl.io/archives/23127)
@@ -11,9 +12,7 @@
 * [2023-09-27, 15:17:35](https://news.ycombinator.com/item?id=37675894) - [Show HN: Using LLMs and Embeddings to classify application errors](https://github.com/highlight/highlight/tree/main/backend/embeddings)
 * [2023-09-27, 15:16:22](https://news.ycombinator.com/item?id=37675864) - [Sketches of misfortune in an insurance trade card](https://forgottenfiles.substack.com/p/accidents-happen-c1890s)
 * [2023-09-27, 15:14:03](https://news.ycombinator.com/item?id=37675831) - [Desalination system could produce fresh water that is cheaper than tap water](https://www.eurekalert.org/news-releases/1002811)
-* [2023-09-27, 15:02:07](https://news.ycombinator.com/item?id=37675644) - [A Careful Selection of Whisk Ferns (1837)](https://publicdomainreview.org/collection/selection-of-whisk-ferns/)
 * [2023-09-27, 14:52:46](https://news.ycombinator.com/item?id=37675496) - [Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/)
-* [2023-09-27, 14:45:23](https://news.ycombinator.com/item?id=37675400) - [Your nines are not my nines (2019)](https://rachelbythebay.com/w/2019/07/15/giant/)
 * [2023-09-27, 14:14:30](https://news.ycombinator.com/item?id=37674967) - [ClickHouse Keeper: A ZooKeeper alternative written in C++](https://clickhouse.com/blog/clickhouse-keeper-a-zookeeper-alternative-written-in-cpp)
 * [2023-09-27, 13:58:58](https://news.ycombinator.com/item?id=37674752) - [Deno Queues](https://deno.com/blog/queues)
 * [2023-09-27, 13:40:25](https://news.ycombinator.com/item?id=37674519) - [Rusty revenant Servo returns to render once more](https://www.theregister.com/2023/09/27/servo_returns/)
@@ -28,6 +27,7 @@
 * [2023-09-27, 00:29:13](https://news.ycombinator.com/item?id=37667981) - [VLSI Physical Design](https://www.ifte.de/books/eda/index.html)
 * [2023-09-26, 19:30:27](https://news.ycombinator.com/item?id=37664657) - [Taking the Plunge: The history and context of Venice’s annual Wedding to the Sea](https://www.laphamsquarterly.org/roundtable/taking-plunge)
 * [2023-09-26, 18:53:49](https://news.ycombinator.com/item?id=37664082) - [Incorrect casual assumptions](https://thonyc.wordpress.com/2023/09/21/incorrect-casual-assumptions/)
+* [2023-09-26, 13:04:48](https://news.ycombinator.com/item?id=37658686) - [Show HN: The Tomb of Ramesses I in the Valley of the Kings](https://mused.org/en/tours/730/the-tomb-of-ramesses-i)
 * [2023-09-26, 12:22:21](https://news.ycombinator.com/item?id=37658208) - [My Unhealthy Relationship with Keyboards](https://jackevansevo.github.io/my-unhealthy-relationship-with-keyboards.html)
 * [2023-09-25, 20:49:09](https://news.ycombinator.com/item?id=37650402) - [A journey into the shaken baby syndrome/abusive head trauma controversy](https://www.cambridgeblog.org/2023/05/a-journey-into-the-shaken-baby-syndrome-abusive-head-trauma-controversy/)
 
