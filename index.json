@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2023-09-27, 21:26:43",
+      "https://news.ycombinator.com/item?id=37681571"
+    ],
+    [
+      "Tech CEO found dead with signs of blunt force trauma",
+      "https://www.cnn.com/2023/09/26/tech/pava-lapere-ecomap-ceo-death/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-27, 21:25:24",
+      "https://news.ycombinator.com/item?id=37681554"
+    ],
+    [
+      "War Thunder user leaks restricted military documents for AH-64D Apache Longbow",
+      "https://nichegamer.com/war-thunder-user-leaks-restricted-military-documents-for-ah-64d-apache-longbow/"
+    ]
+  ],
+  [
+    [
       "2023-09-27, 20:44:24",
       "https://news.ycombinator.com/item?id=37681047"
     ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=37680449"
     ],
     [
-      "Bitwig and Presonus launch open DAWproject format",
+      "DAWproject: Open exchange format for DAWs",
       "https://github.com/bitwig/dawproject"
     ]
   ],
@@ -71,21 +91,11 @@
   ],
   [
     [
-      "2023-09-27, 19:57:11",
-      "https://news.ycombinator.com/item?id=37680373"
-    ],
-    [
-      "Antarctic sea ice hits lowest winter maximum on record: US data",
-      "https://phys.org/news/2023-09-antarctic-sea-ice-lowest-winter.html"
-    ]
-  ],
-  [
-    [
       "2023-09-27, 19:35:42",
       "https://news.ycombinator.com/item?id=37680079"
     ],
     [
-      "The Conscience of a Hacker(1986)",
+      "The Conscience of a Hacker (1986)",
       "http://textfiles.com/100/hack7.txt"
     ]
   ],
@@ -117,16 +127,6 @@
     [
       "The Tao of Programming (1987)",
       "https://www.mit.edu/~xela/tao.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-27, 16:42:38",
-      "https://news.ycombinator.com/item?id=37677358"
-    ],
-    [
-      "A gentle introduction to static analyzers for C",
-      "https://nrk.neocities.org/articles/c-static-analyzers"
     ]
   ],
   [
@@ -167,6 +167,16 @@
     [
       "Mistral 7B",
       "https://mistral.ai/news/announcing-mistral-7b/"
+    ]
+  ],
+  [
+    [
+      "2023-09-27, 14:50:55",
+      "https://news.ycombinator.com/item?id=37675465"
+    ],
+    [
+      "Show HN: Nav – A terminal navigator for interactive `ls` workflows",
+      "https://github.com/dkaslovsky/nav"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Essence: A desktop OS built from scratch, for control and simplicity",
       "https://nakst.gitlab.io/essence"
-    ]
-  ],
-  [
-    [
-      "2023-09-27, 06:31:25",
-      "https://news.ycombinator.com/item?id=37670938"
-    ],
-    [
-      "Writing a debugger from scratch: Breakpoints",
-      "https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5/"
     ]
   ],
   [
