@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-27, 03:08:57](https://news.ycombinator.com/item?id=37669456) - [25 Years of Google](https://www.google.com/doodles/googles-25th-birthday)
 * [2023-09-27, 02:53:42](https://news.ycombinator.com/item?id=37669341) - [Google's 25th Birthday](https://blog.google/inside-google/company-announcements/google-25th-birthday/)
 * [2023-09-27, 02:24:11](https://news.ycombinator.com/item?id=37669078) - [Why should I care about OpenTofu?](https://opentofu.org/blog/why-should-i-care-about-opentofu/)
 * [2023-09-27, 00:18:01](https://news.ycombinator.com/item?id=37667874) - [China is flooding Taiwan with disinformation](https://www.economist.com/asia/2023/09/26/china-is-flooding-taiwan-with-disinformation)
@@ -16,6 +15,7 @@
 * [2023-09-26, 18:19:40](https://news.ycombinator.com/item?id=37663601) - [GPU.zip: side channel attack that exposes visual data processed on the GPU](https://www.hertzbleed.com/gpu.zip/)
 * [2023-09-26, 18:14:23](https://news.ycombinator.com/item?id=37663523) - [Causality for Machine Learning (2020)](https://ff13.fastforwardlabs.com/)
 * [2023-09-26, 17:58:47](https://news.ycombinator.com/item?id=37663270) - [Show HN: Unity like game editor running in pure WASM](https://raverie-us.github.io/raverie-engine/)
+* [2023-09-26, 17:54:42](https://news.ycombinator.com/item?id=37663194) - [ROCm is AMD's priority, executive says](https://www.eetimes.com/rocm-is-amds-no-1-priority-exec-says/)
 * [2023-09-26, 17:21:12](https://news.ycombinator.com/item?id=37662655) - [Exploring Linux command-line space time](https://fabiensanglard.net/st/index.html)
 * [2023-09-26, 17:15:33](https://news.ycombinator.com/item?id=37662561) - [Vizro – toolkit for creating modular data visualization applications](https://github.com/mckinsey/vizro)
 * [2023-09-26, 17:12:17](https://news.ycombinator.com/item?id=37662510) - [macOS Sonoma is available today](https://www.apple.com/newsroom/2023/09/macos-sonoma-is-available-today/)
