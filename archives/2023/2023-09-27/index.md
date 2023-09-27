@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
+* [2023-09-27, 17:28:29](https://news.ycombinator.com/item?id=37678046) - [Linux Kernel Maintainers, why are they so grumpy? [pdf]](https://elinux.org/images/0/06/Lca13-gregkh-I-dont-want-your-code.pdf)
 * [2023-09-27, 16:42:38](https://news.ycombinator.com/item?id=37677358) - [A gentle introduction to static analyzers for C](https://nrk.neocities.org/articles/c-static-analyzers)
 * [2023-09-27, 16:41:14](https://news.ycombinator.com/item?id=37677341) - [Queues for Kafka](https://cwiki.apache.org/confluence/display/KAFKA/KIP-932%3A+Queues+for+Kafka)
 * [2023-09-27, 16:38:03](https://news.ycombinator.com/item?id=37677296) - [Synthetic opioids deadlier than fentanyl are showing up in overdose cases](https://theconversation.com/nitazenes-synthetic-opioids-more-deadly-than-fentanyl-are-starting-to-turn-up-in-overdose-cases-212589)
@@ -14,6 +15,7 @@
 * [2023-09-27, 15:38:00](https://news.ycombinator.com/item?id=37676263) - [Nucor and Helion to Develop 500 MW Fusion Power Plant by 2030](https://nucor.com/news-release/20126)
 * [2023-09-27, 15:22:39](https://news.ycombinator.com/item?id=37675989) - [Ask HN: I spent months building an app and now I don't know how to get users](https://news.ycombinator.com/item?id=37675989)
 * [2023-09-27, 15:22:29](https://news.ycombinator.com/item?id=37675988) - [Rust vs Go: A Hands-On Comparison](https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison)
+* [2023-09-27, 15:17:35](https://news.ycombinator.com/item?id=37675894) - [Show HN: Using LLMs and Embeddings to classify application errors](https://github.com/highlight/highlight/tree/main/backend/embeddings)
 * [2023-09-27, 15:16:22](https://news.ycombinator.com/item?id=37675864) - [Accidents Happen: Sketches of misfortune in an insurance trade card c. 1890s](https://forgottenfiles.substack.com/p/accidents-happen-c1890s)
 * [2023-09-27, 15:14:03](https://news.ycombinator.com/item?id=37675831) - [Desalination system could produce freshwater that is cheaper than tap water](https://www.eurekalert.org/news-releases/1002811)
 * [2023-09-27, 14:52:46](https://news.ycombinator.com/item?id=37675496) - [Mistral 7B, the most powerful language model for its size to date, Apache 2.0](https://mistral.ai/news/announcing-mistral-7b/)
