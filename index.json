@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-27, 17:28:29",
+      "https://news.ycombinator.com/item?id=37678046"
+    ],
+    [
+      "Linux Kernel Maintainers, why are they so grumpy? [pdf]",
+      "https://elinux.org/images/0/06/Lca13-gregkh-I-dont-want-your-code.pdf"
+    ]
+  ],
+  [
+    [
       "2023-09-27, 16:42:38",
       "https://news.ycombinator.com/item?id=37677358"
     ],
@@ -61,6 +71,16 @@
   ],
   [
     [
+      "2023-09-27, 15:17:35",
+      "https://news.ycombinator.com/item?id=37675894"
+    ],
+    [
+      "Show HN: Using LLMs and Embeddings to classify application errors",
+      "https://github.com/highlight/highlight/tree/main/backend/embeddings"
+    ]
+  ],
+  [
+    [
       "2023-09-27, 15:16:22",
       "https://news.ycombinator.com/item?id=37675864"
     ],
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=37675496"
     ],
     [
-      "Mistral 7B: The best 7B model to date, Apache 2.0",
+      "Mistral 7B",
       "https://mistral.ai/news/announcing-mistral-7b/"
     ]
   ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2023-09-27, 11:48:36",
-      "https://news.ycombinator.com/item?id=37673300"
-    ],
-    [
-      "Be My Eyes’ AI assistant starts rolling out",
-      "https://www.bemyeyes.com/blog/announcing-be-my-ai"
-    ]
-  ],
-  [
-    [
       "2023-09-27, 10:21:57",
       "https://news.ycombinator.com/item?id=37672692"
     ],
     [
       "An Introduction to LiteStack for Ruby on Rails",
       "https://blog.appsignal.com/2023/09/27/an-introduction-to-litestack-for-ruby-on-rails.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-27, 08:58:04",
-      "https://news.ycombinator.com/item?id=37671991"
-    ],
-    [
-      "I got robbed of my first kernel contribution",
-      "https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/"
     ]
   ],
   [
