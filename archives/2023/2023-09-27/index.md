@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
 * [2023-09-27, 08:58:04](https://news.ycombinator.com/item?id=37671991) - [I got robbed of my first kernel contribution](https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/)
+* [2023-09-27, 07:31:43](https://news.ycombinator.com/item?id=37671341) - [Show HN: A JavaScript function that looks and behaves like a pipe operator](https://github.com/laurentpayot/verticalize)
 * [2023-09-27, 06:31:25](https://news.ycombinator.com/item?id=37670938) - [Writing a Debugger from Scratch: Breakpoints](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5/)
 * [2023-09-27, 06:02:22](https://news.ycombinator.com/item?id=37670756) - [Ask HN: How do you manage photos, philosophically?](https://news.ycombinator.com/item?id=37670756)
 * [2023-09-27, 05:59:55](https://news.ycombinator.com/item?id=37670740) - [Arena Allocator Tips and Tricks](https://nullprogram.com/blog/2023/09/27/)
