@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-27, 15:51:09](https://news.ycombinator.com/item?id=37676500) - [Kia, Hyundai recall over 3.3M vehicles for potential fire-related issues](https://www.usatoday.com/story/money/cars/2023/09/27/kia-hyundai-recall/70978487007/)
+* [2023-09-27, 16:36:03](https://news.ycombinator.com/item?id=37677261) - [Judge Says Google Can't Keep Hiding Its Dealings During DOJ Antitrust Trial](https://gizmodo.com/judge-says-google-cant-keep-hiding-docs-antitrust-1850877990)
 * [2023-09-27, 15:45:58](https://news.ycombinator.com/item?id=37676393) - [Live near your friends](https://headlineshq.substack.com/p/issue-no-029-live-near-your-friends)
 * [2023-09-27, 15:38:00](https://news.ycombinator.com/item?id=37676263) - [Nucor and Helion to Develop 500 MW Fusion Power Plant by 2030](https://nucor.com/news-release/20126)
-* [2023-09-27, 15:22:39](https://news.ycombinator.com/item?id=37675989) - [Ask HN: I spent months building an app and now I don't know how to get users](https://news.ycombinator.com/item?id=37675989)
+* [2023-09-27, 15:22:29](https://news.ycombinator.com/item?id=37675988) - [Rust vs Go: A Hands-On Comparison](https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison)
 * [2023-09-27, 15:16:22](https://news.ycombinator.com/item?id=37675864) - [Accidents Happen: Sketches of misfortune in an insurance trade card c. 1890s](https://forgottenfiles.substack.com/p/accidents-happen-c1890s)
 * [2023-09-27, 15:14:03](https://news.ycombinator.com/item?id=37675831) - [Desalination system could produce freshwater that is cheaper than tap water](https://www.eurekalert.org/news-releases/1002811)
 * [2023-09-27, 14:52:46](https://news.ycombinator.com/item?id=37675496) - [Mistral 7B: The best 7B model to date, Apache 2.0](https://mistral.ai/news/announcing-mistral-7b/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
+* [2023-09-27, 16:36:03](https://news.ycombinator.com/item?id=37677261) - [Judge Says Google Can't Keep Hiding Its Dealings During DOJ Antitrust Trial](https://gizmodo.com/judge-says-google-cant-keep-hiding-docs-antitrust-1850877990)
 * [2023-09-27, 15:51:09](https://news.ycombinator.com/item?id=37676500) - [Kia, Hyundai recall over 3.3M vehicles for potential fire-related issues](https://www.usatoday.com/story/money/cars/2023/09/27/kia-hyundai-recall/70978487007/)
 * [2023-09-27, 15:45:58](https://news.ycombinator.com/item?id=37676393) - [Live near your friends](https://headlineshq.substack.com/p/issue-no-029-live-near-your-friends)
 * [2023-09-27, 15:38:00](https://news.ycombinator.com/item?id=37676263) - [Nucor and Helion to Develop 500 MW Fusion Power Plant by 2030](https://nucor.com/news-release/20126)
