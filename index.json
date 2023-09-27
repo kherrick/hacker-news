@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-27, 20:44:24",
+      "https://news.ycombinator.com/item?id=37681047"
+    ],
+    [
+      "ChatGPT can now search the web in real time",
+      "https://www.theverge.com/2023/9/27/23892781/openai-chatgpt-live-web-results-browse-with-bing"
+    ]
+  ],
+  [
+    [
       "2023-09-27, 20:31:50",
       "https://news.ycombinator.com/item?id=37680851"
     ],
@@ -36,7 +46,7 @@
     ],
     [
       "Hackers are spoofing themselves as GitHub's Dependabot to steal user passwords",
-      "https://www.itpro.com/security/cyber-attacks/hackers-are-spoofing-themselves-as-githubs-dependabot-to-steal-user-passwords"
+      "https://checkmarx.com/blog/surprise-when-dependabot-contributes-malicious-code/"
     ]
   ],
   [
@@ -47,6 +57,16 @@
     [
       "Earthworms contribute to 6.5% of global grain production",
       "https://phys.org/news/2023-09-earthworms-contribute-global-grain-production.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-27, 19:57:11",
+      "https://news.ycombinator.com/item?id=37680373"
+    ],
+    [
+      "Antarctic sea ice hits lowest winter maximum on record: US data",
+      "https://phys.org/news/2023-09-antarctic-sea-ice-lowest-winter.html"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-09-27, 15:14:03",
-      "https://news.ycombinator.com/item?id=37675831"
-    ],
-    [
-      "Desalination system could produce fresh water that is cheaper than tap water",
-      "https://www.eurekalert.org/news-releases/1002811"
-    ]
-  ],
-  [
-    [
       "2023-09-27, 14:52:46",
       "https://news.ycombinator.com/item?id=37675496"
     ],
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2023-09-27, 08:37:39",
+      "https://news.ycombinator.com/item?id=37671821"
+    ],
+    [
+      "Show HN: Use ChatGPT with Apple Shortcuts",
+      "https://meetcopilot.app/"
+    ]
+  ],
+  [
+    [
       "2023-09-27, 07:44:37",
       "https://news.ycombinator.com/item?id=37671419"
     ],
@@ -247,26 +267,6 @@
     [
       "Writing a debugger from scratch: Breakpoints",
       "https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5/"
-    ]
-  ],
-  [
-    [
-      "2023-09-27, 05:59:55",
-      "https://news.ycombinator.com/item?id=37670740"
-    ],
-    [
-      "Arena allocator tips and tricks",
-      "https://nullprogram.com/blog/2023/09/27/"
-    ]
-  ],
-  [
-    [
-      "2023-09-27, 00:29:13",
-      "https://news.ycombinator.com/item?id=37667981"
-    ],
-    [
-      "VLSI Physical Design",
-      "https://www.ifte.de/books/eda/index.html"
     ]
   ],
   [
