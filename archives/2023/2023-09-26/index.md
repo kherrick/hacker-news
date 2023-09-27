@@ -93,6 +93,7 @@
 * [2023-09-26, 08:18:08](https://news.ycombinator.com/item?id=37656091) - [AI is fundamentally ‘a surveillance technology’](https://techcrunch.com/2023/09/25/signals-meredith-whittaker-ai-is-fundamentally-a-surveillance-technology/)
 * [2023-09-26, 08:06:09](https://news.ycombinator.com/item?id=37656002) - [BT confirms it's switching off 3G in UK from Jan next year](https://www.theregister.com/2023/09/19/bt_confirms_nationwide_3g_switch/)
 * [2023-09-26, 07:53:11](https://news.ycombinator.com/item?id=37655915) - [Ask HN: Something Wrong with Hetzner Servers?](https://news.ycombinator.com/item?id=37655915)
+* [2023-09-26, 07:35:30](https://news.ycombinator.com/item?id=37655758) - [ASCIIpOrtal: A Portal Game You Can Play in Your Terminal](https://github.com/cymonsgames/ASCIIpOrtal)
 * [2023-09-26, 07:09:46](https://news.ycombinator.com/item?id=37655544) - [What Is a Vector Database?](https://weaviate.io/blog/what-is-a-vector-database)
 * [2023-09-26, 07:01:45](https://news.ycombinator.com/item?id=37655477) - [macOS Containers v0.0.1](https://macoscontainers.org/)
 * [2023-09-26, 06:42:25](https://news.ycombinator.com/item?id=37655298) - [Knowledge (1986)](https://www.lrb.co.uk/the-paper/v08/n22/ian-hacking/knowledge)
