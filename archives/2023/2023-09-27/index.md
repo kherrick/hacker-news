@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
+* [2023-09-27, 23:27:05](https://news.ycombinator.com/item?id=37682912) - [There's a mechanical watch feature called a “hack”. Why is it called that?](https://hachyderm.io/@danderson/111136144708450117)
 * [2023-09-27, 23:22:53](https://news.ycombinator.com/item?id=37682859) - [Tell HN: Please don't print –help to stderr in your CLI tools](https://news.ycombinator.com/item?id=37682859)
 * [2023-09-27, 23:04:00](https://news.ycombinator.com/item?id=37682684) - [Open Source doesn't win by being cheaper](https://github.com/getlago/lago/wiki/Open-Source-does-not-win-by-being-cheaper)
 * [2023-09-27, 22:57:35](https://news.ycombinator.com/item?id=37682616) - [Prompt Engineering Is Snake Oil](https://grandiose.substack.com/p/prompt-engineering-is-snake-oil)

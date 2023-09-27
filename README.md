@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-27, 23:27:05](https://news.ycombinator.com/item?id=37682912) - [There's a mechanical watch feature called a “hack”. Why is it called that?](https://hachyderm.io/@danderson/111136144708450117)
 * [2023-09-27, 23:22:53](https://news.ycombinator.com/item?id=37682859) - [Tell HN: Please don't print –help to stderr in your CLI tools](https://news.ycombinator.com/item?id=37682859)
 * [2023-09-27, 23:04:00](https://news.ycombinator.com/item?id=37682684) - [Open Source doesn't win by being cheaper](https://github.com/getlago/lago/wiki/Open-Source-does-not-win-by-being-cheaper)
 * [2023-09-27, 22:57:35](https://news.ycombinator.com/item?id=37682616) - [Prompt Engineering Is Snake Oil](https://grandiose.substack.com/p/prompt-engineering-is-snake-oil)
 * [2023-09-27, 22:56:51](https://news.ycombinator.com/item?id=37682607) - [Inflation Bites U.S. Engineering Salaries](https://spectrum.ieee.org/electrical-engineer-salary-2023)
 * [2023-09-27, 22:34:48](https://news.ycombinator.com/item?id=37682357) - [Meta spends $181M to get out of lease at vacant London offices](https://www.theregister.com/2023/09/27/meta_coughs_181m_to_exit/)
-* [2023-09-27, 21:33:04](https://news.ycombinator.com/item?id=37681643) - [Qwen (通义千问) chat and pretrained large language model by Alibaba Cloud](https://github.com/QwenLM/Qwen)
 * [2023-09-27, 21:25:24](https://news.ycombinator.com/item?id=37681554) - [War Thunder user leaks restricted military documents for AH-64D Apache Longbow](https://nichegamer.com/war-thunder-user-leaks-restricted-military-documents-for-ah-64d-apache-longbow/)
 * [2023-09-27, 20:44:24](https://news.ycombinator.com/item?id=37681047) - [ChatGPT can now search the web in real time](https://www.theverge.com/2023/9/27/23892781/openai-chatgpt-live-web-results-browse-with-bing)
 * [2023-09-27, 20:41:43](https://news.ycombinator.com/item?id=37681004) - [Desalination system could produce freshwater that is cheaper than tap water](https://news.mit.edu/2023/desalination-system-could-produce-freshwater-cheaper-0927)
