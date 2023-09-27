@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-27, 06:31:25](https://news.ycombinator.com/item?id=37670938) - [Writing a Debugger from Scratch: Breakpoints](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5/)
+* [2023-09-27, 06:31:25](https://news.ycombinator.com/item?id=37670938) - [Writing a debugger from scratch: Breakpoints](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5/)
 * [2023-09-27, 06:02:22](https://news.ycombinator.com/item?id=37670756) - [Ask HN: How do you manage photos, philosophically?](https://news.ycombinator.com/item?id=37670756)
-* [2023-09-27, 05:59:55](https://news.ycombinator.com/item?id=37670740) - [Arena Allocator Tips and Tricks](https://nullprogram.com/blog/2023/09/27/)
+* [2023-09-27, 05:59:55](https://news.ycombinator.com/item?id=37670740) - [Arena allocator tips and tricks](https://nullprogram.com/blog/2023/09/27/)
 * [2023-09-27, 05:30:49](https://news.ycombinator.com/item?id=37670577) - [Summary of the 2023 WGA MBA](https://www.wgacontract2023.org/the-campaign/summary-of-the-2023-wga-mba)
 * [2023-09-27, 03:36:23](https://news.ycombinator.com/item?id=37669706) - [Show HN: XRain – Explore rainfall statistics around the world](https://xrain.info/data/)
 * [2023-09-27, 00:05:45](https://news.ycombinator.com/item?id=37667731) - [Deconstructing Go Type Parameters](https://go.dev/blog/deconstructing-type-parameters)
@@ -17,6 +17,7 @@
 * [2023-09-26, 18:14:23](https://news.ycombinator.com/item?id=37663523) - [Causality for Machine Learning (2020)](https://ff13.fastforwardlabs.com/)
 * [2023-09-26, 17:58:47](https://news.ycombinator.com/item?id=37663270) - [Show HN: Unity like game editor running in pure WASM](https://raverie-us.github.io/raverie-engine/)
 * [2023-09-26, 17:21:12](https://news.ycombinator.com/item?id=37662655) - [Exploring Linux command-line space time](https://fabiensanglard.net/st/index.html)
+* [2023-09-26, 17:15:33](https://news.ycombinator.com/item?id=37662561) - [Vizro – toolkit for creating modular data visualization applications](https://github.com/mckinsey/vizro)
 * [2023-09-26, 17:12:17](https://news.ycombinator.com/item?id=37662510) - [macOS Sonoma is available today](https://www.apple.com/newsroom/2023/09/macos-sonoma-is-available-today/)
 * [2023-09-26, 16:59:20](https://news.ycombinator.com/item?id=37662281) - [Why don’t Americans eat mutton?](https://modernfarmer.com/2023/09/digging-in-mutton/)
 * [2023-09-26, 16:10:40](https://news.ycombinator.com/item?id=37661446) - [FTC sues Amazon for illegally maintaining monopoly power](https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power)
@@ -28,7 +29,6 @@
 * [2023-09-25, 17:24:49](https://news.ycombinator.com/item?id=37647467) - [The possibly never-ending quest for the golden owl](https://www.atlasobscura.com/articles/quest-for-the-golden-owl-hidden-treasure)
 * [2023-09-25, 14:35:22](https://news.ycombinator.com/item?id=37644493) - [Box of donated artifacts turns out to be treasure trove of Neanderthal bones](https://phys.org/news/2023-09-donated-artifacts-treasure-trove-neanderthal.html)
 * [2023-09-24, 12:32:06](https://news.ycombinator.com/item?id=37632513) - [One man’s quest to end cheating in virtual cycling](https://thehustle.co/one-mans-quest-to-end-cheating-in-virtual-cycling/)
-* [2023-09-24, 10:14:40](https://news.ycombinator.com/item?id=37631743) - [Everything about the new beast H100](https://musingsonai.substack.com/p/edition-13-everything-about-the-new)
 * [2023-09-24, 06:52:48](https://news.ycombinator.com/item?id=37630758) - [Building a string art machine](https://medium.com/@paulmorrishill/building-a-string-art-machine-eeee386a38db)
 
 ## [Archives](archives/index.md)
