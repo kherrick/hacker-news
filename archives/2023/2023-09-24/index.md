@@ -57,6 +57,7 @@
 * [2023-09-24, 11:15:00](https://news.ycombinator.com/item?id=37632061) - [AI-generated naked child images shock Spanish town of Almendralejo](https://www.bbc.co.uk/news/world-europe-66877718)
 * [2023-09-24, 10:45:17](https://news.ycombinator.com/item?id=37631907) - [Traffic 101: Packets Mostly Flow](https://slack.engineering/traffic-101-packets-mostly-flow/)
 * [2023-09-24, 10:24:19](https://news.ycombinator.com/item?id=37631788) - [I downgraded to an iPhone 11 Pro Max – and there’s not much I’m missing](https://9to5mac.com/2023/08/02/using-iphone-11-pro-max-in-2023/)
+* [2023-09-24, 10:14:40](https://news.ycombinator.com/item?id=37631743) - [Everything about the new beast H100](https://musingsonai.substack.com/p/edition-13-everything-about-the-new)
 * [2023-09-24, 10:12:09](https://news.ycombinator.com/item?id=37631727) - [‘Capitalism is dead. Now we have something much worse’](https://www.theguardian.com/world/2023/sep/24/yanis-varoufakis-technofeudalism-capitalism-ukraine-interview)
 * [2023-09-24, 09:44:22](https://news.ycombinator.com/item?id=37631568) - [Misinformation Should be Refuted, not Censored](https://fcpp.org/2021/07/28/misinformation-should-be-refuted-not-censored/)
 * [2023-09-24, 09:30:13](https://news.ycombinator.com/item?id=37631480) - [Labelling soya foods as ultra-processed is unhelpful](https://www.alprofoundation.org/scientific-updates/labelling-soya-foods-as-ultra-processed-is-unhelpful/)

@@ -14,7 +14,6 @@
 * [2023-09-26, 18:19:40](https://news.ycombinator.com/item?id=37663601) - [GPU.zip: side channel attack that exposes visual data processed on the GPU](https://www.hertzbleed.com/gpu.zip/)
 * [2023-09-26, 18:14:23](https://news.ycombinator.com/item?id=37663523) - [Causality for Machine Learning (2020)](https://ff13.fastforwardlabs.com/)
 * [2023-09-26, 17:58:47](https://news.ycombinator.com/item?id=37663270) - [Show HN: Unity like game editor running in pure WASM](https://raverie-us.github.io/raverie-engine/)
-* [2023-09-26, 17:54:42](https://news.ycombinator.com/item?id=37663194) - [ROCm is AMD's priority, executive says](https://www.eetimes.com/rocm-is-amds-no-1-priority-exec-says/)
 * [2023-09-26, 17:21:12](https://news.ycombinator.com/item?id=37662655) - [Exploring Linux command-line space time](https://fabiensanglard.net/st/index.html)
 * [2023-09-26, 17:15:33](https://news.ycombinator.com/item?id=37662561) - [Vizro – toolkit for creating modular data visualization applications](https://github.com/mckinsey/vizro)
 * [2023-09-26, 17:12:17](https://news.ycombinator.com/item?id=37662510) - [macOS Sonoma is available today](https://www.apple.com/newsroom/2023/09/macos-sonoma-is-available-today/)
@@ -29,6 +28,7 @@
 * [2023-09-25, 17:24:49](https://news.ycombinator.com/item?id=37647467) - [The Possibly Never-Ending Quest for the Golden Owl](https://www.atlasobscura.com/articles/quest-for-the-golden-owl-hidden-treasure)
 * [2023-09-25, 14:35:22](https://news.ycombinator.com/item?id=37644493) - [Box of donated artifacts turns out to be treasure trove of Neanderthal bones](https://phys.org/news/2023-09-donated-artifacts-treasure-trove-neanderthal.html)
 * [2023-09-24, 12:32:06](https://news.ycombinator.com/item?id=37632513) - [One man’s quest to end cheating in virtual cycling](https://thehustle.co/one-mans-quest-to-end-cheating-in-virtual-cycling/)
+* [2023-09-24, 10:14:40](https://news.ycombinator.com/item?id=37631743) - [Everything about the new beast H100](https://musingsonai.substack.com/p/edition-13-everything-about-the-new)
 * [2023-09-24, 06:52:48](https://news.ycombinator.com/item?id=37630758) - [Building a string art machine](https://medium.com/@paulmorrishill/building-a-string-art-machine-eeee386a38db)
 
 ## [Archives](archives/index.md)
