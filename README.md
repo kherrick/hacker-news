@@ -2,6 +2,7 @@
 
 * [2023-09-27, 13:40:25](https://news.ycombinator.com/item?id=37674519) - [Rusty revenant Servo returns to render once more](https://www.theregister.com/2023/09/27/servo_returns/)
 * [2023-09-27, 13:06:47](https://news.ycombinator.com/item?id=37674097) - [Workers AI: serverless GPU-powered inference on Cloudflare’s global network](https://blog.cloudflare.com/workers-ai/)
+* [2023-09-27, 13:00:24](https://news.ycombinator.com/item?id=37673999) - [You can now use WebGPU in Cloudflare Workers](https://blog.cloudflare.com/webgpu-in-workers/)
 * [2023-09-27, 12:10:01](https://news.ycombinator.com/item?id=37673494) - [Lego abandons effort to make bricks from recycled plastic bottles](https://www.theguardian.com/lifeandstyle/2023/sep/24/lego-abandons-effort-to-make-bricks-from-recycled-plastic-bottles)
 * [2023-09-27, 12:01:43](https://news.ycombinator.com/item?id=37673413) - [Google judge rules trial documents can be posted by U.S. online](https://www.bloomberg.com/news/articles/2023-09-26/google-judge-rules-trial-documents-can-be-posted-by-us-online)
 * [2023-09-27, 12:01:18](https://news.ycombinator.com/item?id=37673409) - [First Impressions with GPT-4V(ision)](https://blog.roboflow.com/gpt-4-vision/)
@@ -18,7 +19,6 @@
 * [2023-09-27, 00:05:45](https://news.ycombinator.com/item?id=37667731) - [Deconstructing Go Type Parameters](https://go.dev/blog/deconstructing-type-parameters)
 * [2023-09-26, 23:38:48](https://news.ycombinator.com/item?id=37667450) - [Radar Maps Platform](https://radar.com/blog/introducing-radar-maps-platform)
 * [2023-09-26, 17:58:47](https://news.ycombinator.com/item?id=37663270) - [Show HN: Unity like game editor running in pure WASM](https://raverie-us.github.io/raverie-engine/)
-* [2023-09-26, 16:10:40](https://news.ycombinator.com/item?id=37661446) - [FTC sues Amazon for illegally maintaining monopoly power](https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power)
 * [2023-09-26, 12:22:21](https://news.ycombinator.com/item?id=37658208) - [My Unhealthy Relationship with Keyboards](https://jackevansevo.github.io/my-unhealthy-relationship-with-keyboards.html)
 * [2023-09-26, 12:15:59](https://news.ycombinator.com/item?id=37658151) - [The X220 ThinkPad](https://bt.ht/x220/)
 * [2023-09-26, 11:25:20](https://news.ycombinator.com/item?id=37657672) - [Show HN: Adding dynamic library loading to my pet programming language](https://github.com/nbittich/adana)
