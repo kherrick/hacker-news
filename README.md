@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-27, 08:58:04](https://news.ycombinator.com/item?id=37671991) - [I got robbed of my first kernel contribution](https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/)
 * [2023-09-27, 07:31:43](https://news.ycombinator.com/item?id=37671341) - [Show HN: A JavaScript function that looks and behaves like a pipe operator](https://github.com/laurentpayot/verticalize)
 * [2023-09-27, 06:31:25](https://news.ycombinator.com/item?id=37670938) - [Writing a debugger from scratch: Breakpoints](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5/)
 * [2023-09-27, 05:59:55](https://news.ycombinator.com/item?id=37670740) - [Arena allocator tips and tricks](https://nullprogram.com/blog/2023/09/27/)
@@ -18,6 +17,7 @@
 * [2023-09-26, 18:14:23](https://news.ycombinator.com/item?id=37663523) - [Causality for Machine Learning (2020)](https://ff13.fastforwardlabs.com/)
 * [2023-09-26, 17:58:47](https://news.ycombinator.com/item?id=37663270) - [Show HN: Unity like game editor running in pure WASM](https://raverie-us.github.io/raverie-engine/)
 * [2023-09-26, 17:21:12](https://news.ycombinator.com/item?id=37662655) - [Exploring Linux command-line space time](https://fabiensanglard.net/st/index.html)
+* [2023-09-26, 17:15:33](https://news.ycombinator.com/item?id=37662561) - [Vizro – toolkit for creating modular data visualization applications](https://github.com/mckinsey/vizro)
 * [2023-09-26, 17:12:17](https://news.ycombinator.com/item?id=37662510) - [macOS Sonoma is available today](https://www.apple.com/newsroom/2023/09/macos-sonoma-is-available-today/)
 * [2023-09-26, 16:59:20](https://news.ycombinator.com/item?id=37662281) - [Why don’t Americans eat mutton?](https://modernfarmer.com/2023/09/digging-in-mutton/)
 * [2023-09-26, 16:10:40](https://news.ycombinator.com/item?id=37661446) - [FTC sues Amazon for illegally maintaining monopoly power](https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power)
