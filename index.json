@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-09-27, 02:24:11",
-      "https://news.ycombinator.com/item?id=37669078"
-    ],
-    [
-      "Why should I care about OpenTofu?",
-      "https://opentofu.org/blog/why-should-i-care-about-opentofu/"
-    ]
-  ],
-  [
-    [
       "2023-09-27, 00:05:45",
       "https://news.ycombinator.com/item?id=37667731"
     ],
@@ -207,6 +197,16 @@
     [
       "FTC sues Amazon for illegally maintaining monopoly power",
       "https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power"
+    ]
+  ],
+  [
+    [
+      "2023-09-26, 14:36:18",
+      "https://news.ycombinator.com/item?id=37660025"
+    ],
+    [
+      "Spinneret: A modern Common Lisp HTML generator",
+      "https://github.com/ruricolist/spinneret"
     ]
   ],
   [
