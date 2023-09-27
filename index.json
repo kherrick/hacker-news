@@ -1,11 +1,31 @@
 [
   [
     [
+      "2023-09-27, 18:18:33",
+      "https://news.ycombinator.com/item?id=37678860"
+    ],
+    [
+      "Ray-Ban Meta next generation of smart glasses",
+      "https://www.meta.com/smart-glasses/"
+    ]
+  ],
+  [
+    [
+      "2023-09-27, 18:09:29",
+      "https://news.ycombinator.com/item?id=37678714"
+    ],
+    [
+      "OpenBSD PF versus FreeBSD PF",
+      "https://mwl.io/archives/23127"
+    ]
+  ],
+  [
+    [
       "2023-09-27, 17:53:46",
       "https://news.ycombinator.com/item?id=37678431"
     ],
     [
-      "New AI Experiences Across Our Family of Apps and Devices",
+      "New AI experiences across our family of apps and devices",
       "https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/"
     ]
   ],
@@ -27,16 +47,6 @@
     [
       "Linux kernel maintainers, why are they so grumpy? (2013) [pdf]",
       "https://elinux.org/images/0/06/Lca13-gregkh-I-dont-want-your-code.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-09-27, 17:12:13",
-      "https://news.ycombinator.com/item?id=37677810"
-    ],
-    [
-      "26% of the top websites are now blocking GPTBot",
-      "https://searchengineland.com/more-popular-websites-blocking-gptbot-432531"
     ]
   ],
   [
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=37676880"
     ],
     [
-      "The Ashley Book of Knots",
+      "The Ashley Book of Knots (1944)",
       "https://archive.org/details/TheAshleyBookOfKnots"
     ]
   ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=37675864"
     ],
     [
-      "Accidents Happen: Sketches of misfortune in an insurance trade card c. 1890s",
+      "Sketches of misfortune in an insurance trade card",
       "https://forgottenfiles.substack.com/p/accidents-happen-c1890s"
     ]
   ],
@@ -105,8 +115,18 @@
       "https://news.ycombinator.com/item?id=37675831"
     ],
     [
-      "Desalination system could produce freshwater that is cheaper than tap water",
+      "Desalination system could produce fresh water that is cheaper than tap water",
       "https://www.eurekalert.org/news-releases/1002811"
+    ]
+  ],
+  [
+    [
+      "2023-09-27, 15:02:07",
+      "https://news.ycombinator.com/item?id=37675644"
+    ],
+    [
+      "A Careful Selection of Whisk Ferns (1837)",
+      "https://publicdomainreview.org/collection/selection-of-whisk-ferns/"
     ]
   ],
   [
@@ -175,7 +195,7 @@
       "https://news.ycombinator.com/item?id=37674097"
     ],
     [
-      "Workers AI: serverless GPU-powered inference on Cloudflare’s global network",
+      "Workers AI: Serverless GPU-powered inference",
       "https://blog.cloudflare.com/workers-ai/"
     ]
   ],
@@ -251,21 +271,11 @@
   ],
   [
     [
-      "2023-09-27, 00:29:13",
-      "https://news.ycombinator.com/item?id=37667981"
-    ],
-    [
-      "VLSI Physical Design",
-      "https://www.ifte.de/books/eda/index.html"
-    ]
-  ],
-  [
-    [
       "2023-09-26, 18:53:49",
       "https://news.ycombinator.com/item?id=37664082"
     ],
     [
-      "Incorrect casual assumptions in the history of science",
+      "Incorrect casual assumptions",
       "https://thonyc.wordpress.com/2023/09/21/incorrect-casual-assumptions/"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "A journey into the shaken baby syndrome/abusive head trauma controversy",
       "https://www.cambridgeblog.org/2023/05/a-journey-into-the-shaken-baby-syndrome-abusive-head-trauma-controversy/"
-    ]
-  ],
-  [
-    [
-      "2023-09-25, 05:29:34",
-      "https://news.ycombinator.com/item?id=37639945"
-    ],
-    [
-      "Tempest: Transmit Radio Waves via a PC Video Card with No Extra Hardware",
-      "http://www.erikyyy.de/tempest/"
     ]
   ]
 ]
