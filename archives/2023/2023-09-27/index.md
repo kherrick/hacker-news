@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
+* [2023-09-27, 17:45:55](https://news.ycombinator.com/item?id=37678318) - [Meta Quest 3](https://www.meta.com/quest/quest-3/)
 * [2023-09-27, 17:28:29](https://news.ycombinator.com/item?id=37678046) - [Linux Kernel Maintainers, why are they so grumpy? [pdf]](https://elinux.org/images/0/06/Lca13-gregkh-I-dont-want-your-code.pdf)
+* [2023-09-27, 17:12:13](https://news.ycombinator.com/item?id=37677810) - [26% of the top websites are now blocking GPTBot](https://searchengineland.com/more-popular-websites-blocking-gptbot-432531)
 * [2023-09-27, 16:42:38](https://news.ycombinator.com/item?id=37677358) - [A gentle introduction to static analyzers for C](https://nrk.neocities.org/articles/c-static-analyzers)
 * [2023-09-27, 16:41:14](https://news.ycombinator.com/item?id=37677341) - [Queues for Kafka](https://cwiki.apache.org/confluence/display/KAFKA/KIP-932%3A+Queues+for+Kafka)
 * [2023-09-27, 16:38:03](https://news.ycombinator.com/item?id=37677296) - [Synthetic opioids deadlier than fentanyl are showing up in overdose cases](https://theconversation.com/nitazenes-synthetic-opioids-more-deadly-than-fentanyl-are-starting-to-turn-up-in-overdose-cases-212589)
