@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
+* [2023-09-27, 20:44:24](https://news.ycombinator.com/item?id=37681047) - [ChatGPT can now search the web in real time](https://www.theverge.com/2023/9/27/23892781/openai-chatgpt-live-web-results-browse-with-bing)
 * [2023-09-27, 20:31:50](https://news.ycombinator.com/item?id=37680851) - [The Llama Ecosystem: Past, Present, and Future](https://ai.meta.com/blog/llama-2-updates-connect-2023/)
 * [2023-09-27, 20:29:38](https://news.ycombinator.com/item?id=37680817) - [Emu: Enhancing Image Generation Models Using Photogenic Needles in a Haystack](https://ai.meta.com/research/publications/emu-enhancing-image-generation-models-using-photogenic-needles-in-a-haystack/)
 * [2023-09-27, 20:16:33](https://news.ycombinator.com/item?id=37680641) - [Think twice before abandoning Xorg. Wayland breaks everything](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
 * [2023-09-27, 20:01:48](https://news.ycombinator.com/item?id=37680449) - [Bitwig and Presonus launch open DAWproject format](https://github.com/bitwig/dawproject)
 * [2023-09-27, 20:01:20](https://news.ycombinator.com/item?id=37680443) - [Hackers are spoofing themselves as GitHub's Dependabot to steal user passwords](https://www.itpro.com/security/cyber-attacks/hackers-are-spoofing-themselves-as-githubs-dependabot-to-steal-user-passwords)
+* [2023-09-27, 20:01:20](https://news.ycombinator.com/item?id=37680443) - [Hackers are spoofing themselves as GitHub's Dependabot to steal user passwords](https://checkmarx.com/blog/surprise-when-dependabot-contributes-malicious-code/)
 * [2023-09-27, 19:59:26](https://news.ycombinator.com/item?id=37680420) - [Earthworms contribute to 6.5% of global grain production](https://phys.org/news/2023-09-earthworms-contribute-global-grain-production.html)
 * [2023-09-27, 19:57:11](https://news.ycombinator.com/item?id=37680373) - [Antarctic sea ice hits lowest winter maximum on record: US data](https://phys.org/news/2023-09-antarctic-sea-ice-lowest-winter.html)
 * [2023-09-27, 19:44:25](https://news.ycombinator.com/item?id=37680195) - [Is an All-Meat Diet What Nature Intended?](https://www.newyorker.com/magazine/2023/10/02/is-an-all-meat-diet-what-nature-intended)
@@ -59,6 +61,7 @@
 * [2023-09-27, 10:21:57](https://news.ycombinator.com/item?id=37672692) - [An Introduction to LiteStack for Ruby on Rails](https://blog.appsignal.com/2023/09/27/an-introduction-to-litestack-for-ruby-on-rails.html)
 * [2023-09-27, 09:59:14](https://news.ycombinator.com/item?id=37672540) - [San Francisco Shoplifting: Much More Than You Wanted to Know](https://www.applieddivinitystudies.com/sf-crime-2/)
 * [2023-09-27, 08:58:04](https://news.ycombinator.com/item?id=37671991) - [I got robbed of my first kernel contribution](https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/)
+* [2023-09-27, 08:37:39](https://news.ycombinator.com/item?id=37671821) - [Show HN: Use ChatGPT with Apple Shortcuts](https://meetcopilot.app/)
 * [2023-09-27, 08:03:32](https://news.ycombinator.com/item?id=37671565) - [The Truth about College Costs](https://www.nationalaffairs.com/publications/detail/the-truth-about-college-costs)
 * [2023-09-27, 07:44:37](https://news.ycombinator.com/item?id=37671419) - [Essence: A desktop OS built from scratch, for control and simplicity](https://nakst.gitlab.io/essence)
 * [2023-09-27, 07:31:43](https://news.ycombinator.com/item?id=37671341) - [Show HN: A JavaScript function that looks and behaves like a pipe operator](https://github.com/laurentpayot/verticalize)
