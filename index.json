@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-27, 02:24:11",
+      "https://news.ycombinator.com/item?id=37669078"
+    ],
+    [
+      "Why should I care about OpenTofu?",
+      "https://opentofu.org/blog/why-should-i-care-about-opentofu/"
+    ]
+  ],
+  [
+    [
       "2023-09-27, 00:18:01",
       "https://news.ycombinator.com/item?id=37667874"
     ],
@@ -137,16 +147,6 @@
     [
       "ROCm is AMD's priority, executive says",
       "https://www.eetimes.com/rocm-is-amds-no-1-priority-exec-says/"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 17:52:45",
-      "https://news.ycombinator.com/item?id=37663159"
-    ],
-    [
-      "Sidechannel pixel-stealing attack works in Chromium on all modern GPUs",
-      "https://arstechnica.com/security/2023/09/gpus-from-all-major-suppliers-are-vulnerable-to-new-pixel-stealing-attack/"
     ]
   ],
   [
