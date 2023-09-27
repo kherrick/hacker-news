@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
+* [2023-09-27, 12:02:36](https://news.ycombinator.com/item?id=37673422) - [Ads in the OS](https://www.ng5p.com/blog/MicrosoftIrritations.html)
+* [2023-09-27, 12:01:18](https://news.ycombinator.com/item?id=37673409) - [First Impressions with GPT-4V(ision)](https://blog.roboflow.com/gpt-4-vision/)
+* [2023-09-27, 11:48:36](https://news.ycombinator.com/item?id=37673300) - [Be My Eyes’ AI assistant starts rolling out](https://www.bemyeyes.com/blog/announcing-be-my-ai)
 * [2023-09-27, 11:02:21](https://news.ycombinator.com/item?id=37672937) - [Building a defence startup: 6 lessons I’ve learned](https://medium.com/@ErikKannike/building-a-defence-startup-6-lessons-ive-learned-11619b3a514e)
+* [2023-09-27, 10:21:57](https://news.ycombinator.com/item?id=37672692) - [An Introduction to LiteStack for Ruby on Rails](https://blog.appsignal.com/2023/09/27/an-introduction-to-litestack-for-ruby-on-rails.html)
 * [2023-09-27, 09:59:14](https://news.ycombinator.com/item?id=37672540) - [San Francisco Shoplifting: Much More Than You Wanted to Know](https://www.applieddivinitystudies.com/sf-crime-2/)
 * [2023-09-27, 08:58:04](https://news.ycombinator.com/item?id=37671991) - [I got robbed of my first kernel contribution](https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/)
+* [2023-09-27, 08:03:32](https://news.ycombinator.com/item?id=37671565) - [The Truth about College Costs](https://www.nationalaffairs.com/publications/detail/the-truth-about-college-costs)
 * [2023-09-27, 07:44:37](https://news.ycombinator.com/item?id=37671419) - [Essence: A desktop OS built from scratch, for control and simplicity](https://nakst.gitlab.io/essence)
 * [2023-09-27, 07:31:43](https://news.ycombinator.com/item?id=37671341) - [Show HN: A JavaScript function that looks and behaves like a pipe operator](https://github.com/laurentpayot/verticalize)
 * [2023-09-27, 06:31:25](https://news.ycombinator.com/item?id=37670938) - [Writing a Debugger from Scratch: Breakpoints](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5/)

@@ -74,6 +74,7 @@
 * [2023-09-26, 12:37:30](https://news.ycombinator.com/item?id=37658398) - [The Guide to Deno](https://medium.com/deno-the-complete-reference/an-ultimate-guide-to-deno-bc02535754f0)
 * [2023-09-26, 12:31:06](https://news.ycombinator.com/item?id=37658319) - [Google is picking ChatGPT responses from Quora as correct answer](https://twitter.com/8teapi/status/1706520893621784780)
 * [2023-09-26, 12:22:21](https://news.ycombinator.com/item?id=37658208) - [My Unhealthy Relationship with Keyboards](https://jackevansevo.github.io/my-unhealthy-relationship-with-keyboards.html)
+* [2023-09-26, 12:15:59](https://news.ycombinator.com/item?id=37658151) - [The X220 ThinkPad](https://bt.ht/x220/)
 * [2023-09-26, 11:51:08](https://news.ycombinator.com/item?id=37657925) - [Chess grandmaster Hans Niemann denies using vibrating sex toy to cheat](https://www.bbc.com/news/world-us-canada-66921563)
 * [2023-09-26, 11:36:21](https://news.ycombinator.com/item?id=37657772) - [Yandex open sourced it's BI tool DataLens](https://github.com/datalens-tech)
 * [2023-09-26, 11:33:31](https://news.ycombinator.com/item?id=37657746) - [Google assigns a CVE for libwebp and gives it a 10.0 score](https://stackdiary.com/heap-buffer-overflow-in-libwebp-cve-2023-5129/)
