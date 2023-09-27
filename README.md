@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-27, 18:18:33](https://news.ycombinator.com/item?id=37678860) - [Ray-Ban Meta next generation of smart glasses](https://www.meta.com/smart-glasses/)
 * [2023-09-27, 18:09:29](https://news.ycombinator.com/item?id=37678714) - [OpenBSD PF versus FreeBSD PF](https://mwl.io/archives/23127)
 * [2023-09-27, 17:45:55](https://news.ycombinator.com/item?id=37678318) - [Meta Quest 3](https://www.meta.com/quest/quest-3/)
 * [2023-09-27, 17:37:04](https://news.ycombinator.com/item?id=37678181) - [The Tao of Programming (1987)](https://www.mit.edu/~xela/tao.html)
@@ -19,6 +18,7 @@
 * [2023-09-27, 13:40:25](https://news.ycombinator.com/item?id=37674519) - [Rusty revenant Servo returns to render once more](https://www.theregister.com/2023/09/27/servo_returns/)
 * [2023-09-27, 13:10:03](https://news.ycombinator.com/item?id=37674139) - [The most copied StackOverflow snippet of all time is flawed (2019)](https://programming.guide/worlds-most-copied-so-snippet.html)
 * [2023-09-27, 13:06:47](https://news.ycombinator.com/item?id=37674097) - [Workers AI: Serverless GPU-powered inference](https://blog.cloudflare.com/workers-ai/)
+* [2023-09-27, 12:01:43](https://news.ycombinator.com/item?id=37673413) - [Judge rules Google trial documents can be posted by U.S. online](https://www.bloomberg.com/news/articles/2023-09-26/google-judge-rules-trial-documents-can-be-posted-by-us-online)
 * [2023-09-27, 12:01:18](https://news.ycombinator.com/item?id=37673409) - [First Impressions with GPT-4V(ision)](https://blog.roboflow.com/gpt-4-vision/)
 * [2023-09-27, 11:28:31](https://news.ycombinator.com/item?id=37673127) - [Uiua: A minimal stack-based, array-based language](https://www.uiua.org/)
 * [2023-09-27, 10:21:57](https://news.ycombinator.com/item?id=37672692) - [An Introduction to LiteStack for Ruby on Rails](https://blog.appsignal.com/2023/09/27/an-introduction-to-litestack-for-ruby-on-rails.html)
