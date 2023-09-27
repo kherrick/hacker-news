@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
+* [2023-09-27, 13:40:25](https://news.ycombinator.com/item?id=37674519) - [Rusty revenant Servo returns to render once more](https://www.theregister.com/2023/09/27/servo_returns/)
+* [2023-09-27, 13:06:47](https://news.ycombinator.com/item?id=37674097) - [Workers AI: serverless GPU-powered inference on Cloudflare’s global network](https://blog.cloudflare.com/workers-ai/)
 * [2023-09-27, 12:10:01](https://news.ycombinator.com/item?id=37673494) - [Lego abandons effort to make bricks from recycled plastic bottles](https://www.theguardian.com/lifeandstyle/2023/sep/24/lego-abandons-effort-to-make-bricks-from-recycled-plastic-bottles)
 * [2023-09-27, 12:02:36](https://news.ycombinator.com/item?id=37673422) - [Ads in the OS](https://www.ng5p.com/blog/MicrosoftIrritations.html)
 * [2023-09-27, 12:01:43](https://news.ycombinator.com/item?id=37673413) - [Google judge rules trial documents can be posted by U.S. online](https://www.bloomberg.com/news/articles/2023-09-26/google-judge-rules-trial-documents-can-be-posted-by-us-online)
