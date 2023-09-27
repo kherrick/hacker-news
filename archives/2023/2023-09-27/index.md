@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
+* [2023-09-27, 15:51:09](https://news.ycombinator.com/item?id=37676500) - [Kia, Hyundai recall over 3.3M vehicles for potential fire-related issues](https://www.usatoday.com/story/money/cars/2023/09/27/kia-hyundai-recall/70978487007/)
 * [2023-09-27, 15:45:58](https://news.ycombinator.com/item?id=37676393) - [Live near your friends](https://headlineshq.substack.com/p/issue-no-029-live-near-your-friends)
 * [2023-09-27, 15:38:00](https://news.ycombinator.com/item?id=37676263) - [Nucor and Helion to Develop 500 MW Fusion Power Plant by 2030](https://nucor.com/news-release/20126)
 * [2023-09-27, 15:22:39](https://news.ycombinator.com/item?id=37675989) - [Ask HN: I spent months building an app and now I don't know how to get users](https://news.ycombinator.com/item?id=37675989)
@@ -18,6 +19,7 @@
 * [2023-09-27, 13:58:58](https://news.ycombinator.com/item?id=37674752) - [Deno Queues](https://deno.com/blog/queues)
 * [2023-09-27, 13:50:09](https://news.ycombinator.com/item?id=37674640) - [We try out the first legal level 3 automated driving system in the US](https://arstechnica.com/cars/2023/09/mercedes-benzs-level-3-autonomous-driving-system-takes-over-in-heavy-traffic/)
 * [2023-09-27, 13:40:25](https://news.ycombinator.com/item?id=37674519) - [Rusty revenant Servo returns to render once more](https://www.theregister.com/2023/09/27/servo_returns/)
+* [2023-09-27, 13:26:46](https://news.ycombinator.com/item?id=37674342) - [Eight or Nine Wise Words about Letter-Writing by Lewis Carroll](https://www.gutenberg.org/files/38065/38065-h/38065-h.htm)
 * [2023-09-27, 13:10:03](https://news.ycombinator.com/item?id=37674139) - [The most copied StackOverflow snippet of all time is flawed](https://programming.guide/worlds-most-copied-so-snippet.html)
 * [2023-09-27, 13:06:47](https://news.ycombinator.com/item?id=37674097) - [Workers AI: serverless GPU-powered inference on Cloudflare’s global network](https://blog.cloudflare.com/workers-ai/)
 * [2023-09-27, 13:00:24](https://news.ycombinator.com/item?id=37673999) - [You can now use WebGPU in Cloudflare Workers](https://blog.cloudflare.com/webgpu-in-workers/)
