@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-27, 21:34:46](https://news.ycombinator.com/item?id=37681663) - [Jony Ive and OpenAI’s Altman reportedly collaborating on mysterious AI device](https://arstechnica.com/information-technology/2023/09/jony-ive-and-openais-altman-reportedly-collaborating-on-mysterious-ai-device/)
+* [2023-09-27, 21:33:04](https://news.ycombinator.com/item?id=37681643) - [Qwen (通义千问) chat and pretrained large language model by Alibaba Cloud](https://github.com/QwenLM/Qwen)
 * [2023-09-27, 21:26:43](https://news.ycombinator.com/item?id=37681571) - [Tech CEO found dead with signs of blunt force trauma](https://www.cnn.com/2023/09/26/tech/pava-lapere-ecomap-ceo-death/index.html)
 * [2023-09-27, 21:25:24](https://news.ycombinator.com/item?id=37681554) - [War Thunder user leaks restricted military documents for AH-64D Apache Longbow](https://nichegamer.com/war-thunder-user-leaks-restricted-military-documents-for-ah-64d-apache-longbow/)
 * [2023-09-27, 20:44:24](https://news.ycombinator.com/item?id=37681047) - [ChatGPT can now search the web in real time](https://www.theverge.com/2023/9/27/23892781/openai-chatgpt-live-web-results-browse-with-bing)
@@ -20,7 +21,6 @@
 * [2023-09-27, 14:50:55](https://news.ycombinator.com/item?id=37675465) - [Show HN: Nav – A terminal navigator for interactive `ls` workflows](https://github.com/dkaslovsky/nav)
 * [2023-09-27, 14:14:30](https://news.ycombinator.com/item?id=37674967) - [ClickHouse Keeper: A ZooKeeper alternative written in C++](https://clickhouse.com/blog/clickhouse-keeper-a-zookeeper-alternative-written-in-cpp)
 * [2023-09-27, 13:58:58](https://news.ycombinator.com/item?id=37674752) - [Deno Queues](https://deno.com/blog/queues)
-* [2023-09-27, 13:06:47](https://news.ycombinator.com/item?id=37674097) - [Workers AI: Serverless GPU-powered inference](https://blog.cloudflare.com/workers-ai/)
 * [2023-09-27, 12:01:43](https://news.ycombinator.com/item?id=37673413) - [Judge rules Google trial documents can be posted by U.S. online](https://www.bloomberg.com/news/articles/2023-09-26/google-judge-rules-trial-documents-can-be-posted-by-us-online)
 * [2023-09-27, 12:01:18](https://news.ycombinator.com/item?id=37673409) - [First Impressions with GPT-4V(ision)](https://blog.roboflow.com/gpt-4-vision/)
 * [2023-09-27, 11:28:31](https://news.ycombinator.com/item?id=37673127) - [Uiua: A minimal stack-based, array-based language](https://www.uiua.org/)
