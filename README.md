@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-27, 08:58:04](https://news.ycombinator.com/item?id=37671991) - [I got robbed of my first kernel contribution](https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/)
 * [2023-09-27, 06:31:25](https://news.ycombinator.com/item?id=37670938) - [Writing a debugger from scratch: Breakpoints](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5/)
 * [2023-09-27, 06:02:22](https://news.ycombinator.com/item?id=37670756) - [Ask HN: How do you manage photos, philosophically?](https://news.ycombinator.com/item?id=37670756)
 * [2023-09-27, 05:59:55](https://news.ycombinator.com/item?id=37670740) - [Arena allocator tips and tricks](https://nullprogram.com/blog/2023/09/27/)
@@ -28,7 +29,6 @@
 * [2023-09-25, 20:49:09](https://news.ycombinator.com/item?id=37650402) - [A journey into the shaken baby syndrome/abusive head trauma controversy](https://www.cambridgeblog.org/2023/05/a-journey-into-the-shaken-baby-syndrome-abusive-head-trauma-controversy/)
 * [2023-09-25, 17:24:49](https://news.ycombinator.com/item?id=37647467) - [The possibly never-ending quest for the golden owl](https://www.atlasobscura.com/articles/quest-for-the-golden-owl-hidden-treasure)
 * [2023-09-25, 14:35:22](https://news.ycombinator.com/item?id=37644493) - [Box of donated artifacts turns out to be treasure trove of Neanderthal bones](https://phys.org/news/2023-09-donated-artifacts-treasure-trove-neanderthal.html)
-* [2023-09-24, 12:32:06](https://news.ycombinator.com/item?id=37632513) - [One man’s quest to end cheating in virtual cycling](https://thehustle.co/one-mans-quest-to-end-cheating-in-virtual-cycling/)
 * [2023-09-24, 06:52:48](https://news.ycombinator.com/item?id=37630758) - [Building a string art machine](https://medium.com/@paulmorrishill/building-a-string-art-machine-eeee386a38db)
 
 ## [Archives](archives/index.md)
