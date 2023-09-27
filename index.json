@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=37670938"
     ],
     [
-      "Writing a Debugger from Scratch: Breakpoints",
+      "Writing a debugger from scratch: Breakpoints",
       "https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5/"
     ]
   ],
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=37670740"
     ],
     [
-      "Arena Allocator Tips and Tricks",
+      "Arena allocator tips and tricks",
       "https://nullprogram.com/blog/2023/09/27/"
     ]
   ],
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-09-26, 17:15:33",
+      "https://news.ycombinator.com/item?id=37662561"
+    ],
+    [
+      "Vizro – toolkit for creating modular data visualization applications",
+      "https://github.com/mckinsey/vizro"
+    ]
+  ],
+  [
+    [
       "2023-09-26, 17:12:17",
       "https://news.ycombinator.com/item?id=37662510"
     ],
@@ -277,16 +287,6 @@
     [
       "One man’s quest to end cheating in virtual cycling",
       "https://thehustle.co/one-mans-quest-to-end-cheating-in-virtual-cycling/"
-    ]
-  ],
-  [
-    [
-      "2023-09-24, 10:14:40",
-      "https://news.ycombinator.com/item?id=37631743"
-    ],
-    [
-      "Everything about the new beast H100",
-      "https://musingsonai.substack.com/p/edition-13-everything-about-the-new"
     ]
   ],
   [
