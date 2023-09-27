@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-27, 22:56:51](https://news.ycombinator.com/item?id=37682607) - [Inflation Bites U.S. Engineering Salaries](https://spectrum.ieee.org/electrical-engineer-salary-2023)
+* [2023-09-27, 22:34:48](https://news.ycombinator.com/item?id=37682357) - [Meta spends $181M to get out of lease at vacant London offices](https://www.theregister.com/2023/09/27/meta_coughs_181m_to_exit/)
 * [2023-09-27, 21:33:04](https://news.ycombinator.com/item?id=37681643) - [Qwen (通义千问) chat and pretrained large language model by Alibaba Cloud](https://github.com/QwenLM/Qwen)
 * [2023-09-27, 21:25:24](https://news.ycombinator.com/item?id=37681554) - [War Thunder user leaks restricted military documents for AH-64D Apache Longbow](https://nichegamer.com/war-thunder-user-leaks-restricted-military-documents-for-ah-64d-apache-longbow/)
 * [2023-09-27, 21:22:18](https://news.ycombinator.com/item?id=37681505) - [Valve releases Counter-Strike 2](https://store.steampowered.com/app/730/CounterStrike_2/)
@@ -9,7 +10,6 @@
 * [2023-09-27, 20:31:50](https://news.ycombinator.com/item?id=37680851) - [The Llama Ecosystem: Past, Present, and Future](https://ai.meta.com/blog/llama-2-updates-connect-2023/)
 * [2023-09-27, 20:29:38](https://news.ycombinator.com/item?id=37680817) - [Emu: Enhancing Image Generation Models Using Photogenic Needles in a Haystack](https://ai.meta.com/research/publications/emu-enhancing-image-generation-models-using-photogenic-needles-in-a-haystack/)
 * [2023-09-27, 20:01:48](https://news.ycombinator.com/item?id=37680449) - [DAWproject: Open exchange format for DAWs](https://github.com/bitwig/dawproject)
-* [2023-09-27, 20:01:20](https://news.ycombinator.com/item?id=37680443) - [Hackers are spoofing themselves as GitHub's Dependabot to steal user passwords](https://checkmarx.com/blog/surprise-when-dependabot-contributes-malicious-code/)
 * [2023-09-27, 19:59:26](https://news.ycombinator.com/item?id=37680420) - [Earthworms contribute to 6.5% of global grain production](https://phys.org/news/2023-09-earthworms-contribute-global-grain-production.html)
 * [2023-09-27, 19:35:42](https://news.ycombinator.com/item?id=37680079) - [The Conscience of a Hacker (1986)](http://textfiles.com/100/hack7.txt)
 * [2023-09-27, 18:18:33](https://news.ycombinator.com/item?id=37678860) - [Ray-Ban Meta Smart Glasses](https://www.meta.com/smart-glasses/)

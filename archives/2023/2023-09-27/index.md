@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
 * [2023-09-27, 22:56:51](https://news.ycombinator.com/item?id=37682607) - [Inflation Bites U.S. Engineering Salaries](https://spectrum.ieee.org/electrical-engineer-salary-2023)
+* [2023-09-27, 22:34:48](https://news.ycombinator.com/item?id=37682357) - [Meta spends $181M to get out of lease at vacant London offices](https://www.theregister.com/2023/09/27/meta_coughs_181m_to_exit/)
 * [2023-09-27, 21:34:46](https://news.ycombinator.com/item?id=37681663) - [Jony Ive and OpenAI’s Altman reportedly collaborating on mysterious AI device](https://arstechnica.com/information-technology/2023/09/jony-ive-and-openais-altman-reportedly-collaborating-on-mysterious-ai-device/)
 * [2023-09-27, 21:33:04](https://news.ycombinator.com/item?id=37681643) - [Qwen (通义千问) chat and pretrained large language model by Alibaba Cloud](https://github.com/QwenLM/Qwen)
 * [2023-09-27, 21:26:43](https://news.ycombinator.com/item?id=37681571) - [Tech CEO found dead with signs of blunt force trauma](https://www.cnn.com/2023/09/26/tech/pava-lapere-ecomap-ceo-death/index.html)
