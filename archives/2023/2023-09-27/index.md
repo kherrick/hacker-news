@@ -45,6 +45,7 @@
 * [2023-09-27, 02:53:42](https://news.ycombinator.com/item?id=37669341) - [Google's 25th Birthday](https://blog.google/inside-google/company-announcements/google-25th-birthday/)
 * [2023-09-27, 02:24:11](https://news.ycombinator.com/item?id=37669078) - [Why should I care about OpenTofu?](https://opentofu.org/blog/why-should-i-care-about-opentofu/)
 * [2023-09-27, 01:48:17](https://news.ycombinator.com/item?id=37668744) - [Tell HN: Modern Is Not Better](https://news.ycombinator.com/item?id=37668744)
+* [2023-09-27, 00:29:13](https://news.ycombinator.com/item?id=37667981) - [VLSI Physical Design](https://www.ifte.de/books/eda/index.html)
 * [2023-09-27, 00:18:01](https://news.ycombinator.com/item?id=37667874) - [China is flooding Taiwan with disinformation](https://www.economist.com/asia/2023/09/26/china-is-flooding-taiwan-with-disinformation)
 * [2023-09-27, 00:15:57](https://news.ycombinator.com/item?id=37667852) - [Understanding Tescreal: Weird Ideologies Behind Silicon Valley’s Rightward Turn](https://washingtonspectator.org/understanding-tescreal-silicon-valleys-rightward-turn/)
 * [2023-09-27, 00:05:45](https://news.ycombinator.com/item?id=37667731) - [Deconstructing Go Type Parameters](https://go.dev/blog/deconstructing-type-parameters)
