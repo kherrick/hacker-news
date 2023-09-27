@@ -77,6 +77,7 @@
 * [2023-09-26, 11:36:21](https://news.ycombinator.com/item?id=37657772) - [Yandex open sourced it's BI tool DataLens](https://github.com/datalens-tech)
 * [2023-09-26, 11:33:31](https://news.ycombinator.com/item?id=37657746) - [Google assigns a CVE for libwebp and gives it a 10.0 score](https://stackdiary.com/heap-buffer-overflow-in-libwebp-cve-2023-5129/)
 * [2023-09-26, 11:32:24](https://news.ycombinator.com/item?id=37657736) - [DuckDB 0.9.0](https://duckdb.org/2023/09/26/announcing-duckdb-090.html)
+* [2023-09-26, 11:25:20](https://news.ycombinator.com/item?id=37657672) - [Show HN: Adding dynamic library loading to my pet programming language](https://github.com/nbittich/adana)
 * [2023-09-26, 11:24:22](https://news.ycombinator.com/item?id=37657663) - [Ford's Theatre Front-Row Tickets from April 14, 1865](https://www.rrauction.com/auctions/lot-detail/347903406696018-abraham-lincoln-assassination-2-fords-theatre-front-row-tickets-from-april-14-1865-ex-forbes-collection)
 * [2023-09-26, 11:06:33](https://news.ycombinator.com/item?id=37657519) - [We bootstrap: Hitting $1.5M ARR with a super lean team](https://www.flagsmith.com/blog/why-we-bootstrap)
 * [2023-09-26, 10:54:54](https://news.ycombinator.com/item?id=37657405) - [Dog Mode](https://untested.sonnet.io/posts/006/)
