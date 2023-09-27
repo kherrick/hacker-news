@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-27, 06:31:25](https://news.ycombinator.com/item?id=37670938) - [Writing a Debugger from Scratch: Breakpoints](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5/)
 * [2023-09-27, 05:59:55](https://news.ycombinator.com/item?id=37670740) - [Arena Allocator Tips and Tricks](https://nullprogram.com/blog/2023/09/27/)
 * [2023-09-27, 05:30:49](https://news.ycombinator.com/item?id=37670577) - [What the Hollywood writers have agreed with the studios about AI](https://www.wgacontract2023.org/the-campaign/summary-of-the-2023-wga-mba)
 * [2023-09-27, 03:36:23](https://news.ycombinator.com/item?id=37669706) - [Show HN: XRain – Explore rainfall statistics around the world](https://xrain.info/data/)
@@ -15,7 +16,6 @@
 * [2023-09-26, 18:14:23](https://news.ycombinator.com/item?id=37663523) - [Causality for Machine Learning (2020)](https://ff13.fastforwardlabs.com/)
 * [2023-09-26, 17:58:47](https://news.ycombinator.com/item?id=37663270) - [Show HN: Unity like game editor running in pure WASM](https://raverie-us.github.io/raverie-engine/)
 * [2023-09-26, 17:21:12](https://news.ycombinator.com/item?id=37662655) - [Exploring Linux command-line space time](https://fabiensanglard.net/st/index.html)
-* [2023-09-26, 17:15:33](https://news.ycombinator.com/item?id=37662561) - [Vizro – toolkit for creating modular data visualization applications](https://github.com/mckinsey/vizro)
 * [2023-09-26, 17:12:17](https://news.ycombinator.com/item?id=37662510) - [macOS Sonoma is available today](https://www.apple.com/newsroom/2023/09/macos-sonoma-is-available-today/)
 * [2023-09-26, 16:59:20](https://news.ycombinator.com/item?id=37662281) - [Why don’t Americans eat mutton?](https://modernfarmer.com/2023/09/digging-in-mutton/)
 * [2023-09-26, 16:31:16](https://news.ycombinator.com/item?id=37661767) - [Show HN: Magentic – Use LLMs as simple Python functions](https://github.com/jackmpcollins/magentic)
