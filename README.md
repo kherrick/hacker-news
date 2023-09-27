@@ -24,11 +24,11 @@
 * [2023-09-26, 13:41:45](https://news.ycombinator.com/item?id=37659164) - [Freelancers aren’t happy with Japan’s new invoice system](https://www.japantimes.co.jp/community/2023/09/25/how-tos/freelancer-tax-system/)
 * [2023-09-26, 11:36:21](https://news.ycombinator.com/item?id=37657772) - [Yandex open sourced it's BI tool DataLens](https://github.com/datalens-tech)
 * [2023-09-26, 10:54:54](https://news.ycombinator.com/item?id=37657405) - [Dog Mode](https://untested.sonnet.io/posts/006/)
-* [2023-09-26, 10:50:26](https://news.ycombinator.com/item?id=37657368) - [Who lusts for certainty lusts for lies](https://www.etymonline.com/columns/post/who-lusts-for-certainty-lusts-for-lies)
 * [2023-09-26, 05:17:18](https://news.ycombinator.com/item?id=37654751) - [Mathematicians cross the line to get to the point](https://www.quantamagazine.org/mathematicians-cross-the-line-to-get-to-the-point-20230925/)
 * [2023-09-25, 20:49:09](https://news.ycombinator.com/item?id=37650402) - [A journey into the shaken baby syndrome/abusive head trauma controversy](https://www.cambridgeblog.org/2023/05/a-journey-into-the-shaken-baby-syndrome-abusive-head-trauma-controversy/)
 * [2023-09-25, 19:27:00](https://news.ycombinator.com/item?id=37649250) - [J. G. Ballard’s brilliant, “not good” writing](https://www.theparisreview.org/blog/2023/09/22/j-g-ballards-brilliant-not-good-writing/)
 * [2023-09-25, 14:35:22](https://news.ycombinator.com/item?id=37644493) - [Box of donated artifacts turns out to be treasure trove of Neanderthal bones](https://phys.org/news/2023-09-donated-artifacts-treasure-trove-neanderthal.html)
+* [2023-09-24, 12:32:06](https://news.ycombinator.com/item?id=37632513) - [One man’s quest to end cheating in virtual cycling](https://thehustle.co/one-mans-quest-to-end-cheating-in-virtual-cycling/)
 * [2023-09-24, 06:52:48](https://news.ycombinator.com/item?id=37630758) - [Building a string art machine](https://medium.com/@paulmorrishill/building-a-string-art-machine-eeee386a38db)
 
 ## [Archives](archives/index.md)
