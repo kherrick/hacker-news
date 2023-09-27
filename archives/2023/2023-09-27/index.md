@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
 * [2023-09-27, 19:44:25](https://news.ycombinator.com/item?id=37680195) - [Is an All-Meat Diet What Nature Intended?](https://www.newyorker.com/magazine/2023/10/02/is-an-all-meat-diet-what-nature-intended)
+* [2023-09-27, 19:27:17](https://news.ycombinator.com/item?id=37679955) - [GPT-4 generates simple app from Whiteboard photo](https://twitter.com/mckaywrigley/status/1707101465922453701?s=20)
 * [2023-09-27, 18:18:33](https://news.ycombinator.com/item?id=37678860) - [Ray-Ban Meta next generation of smart glasses](https://www.meta.com/smart-glasses/)
 * [2023-09-27, 18:09:29](https://news.ycombinator.com/item?id=37678714) - [OpenBSD PF versus FreeBSD PF](https://mwl.io/archives/23127)
 * [2023-09-27, 17:53:46](https://news.ycombinator.com/item?id=37678431) - [New AI Experiences Across Our Family of Apps and Devices](https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/)
