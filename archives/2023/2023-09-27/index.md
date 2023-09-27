@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
+* [2023-09-27, 15:22:29](https://news.ycombinator.com/item?id=37675988) - [Rust vs Go: A Hands-On Comparison](https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison)
 * [2023-09-27, 15:14:03](https://news.ycombinator.com/item?id=37675831) - [Desalination system could produce freshwater that is cheaper than tap water](https://www.eurekalert.org/news-releases/1002811)
 * [2023-09-27, 14:52:46](https://news.ycombinator.com/item?id=37675496) - [Mistral 7B, the most powerful language model for its size to date, Apache 2.0](https://mistral.ai/news/announcing-mistral-7b/)
 * [2023-09-27, 14:46:59](https://news.ycombinator.com/item?id=37675422) - [Unions Work](https://werd.io/2023/unions-work)
 * [2023-09-27, 14:40:33](https://news.ycombinator.com/item?id=37675329) - [Y Combinator CEO Garry Tan’s War on San Francisco Politics Has Only Just Begun](https://sfstandard.com/2023/09/27/garry-tan-y-combinator-declares-war-san-francisco-politics-progressives-elon-musk/)
+* [2023-09-27, 14:19:32](https://news.ycombinator.com/item?id=37675046) - [Mercedes-Benz Beat Tesla to Cheap, Hands-Free Driving](https://www.bloomberg.com/news/articles/2023-09-27/mercedes-benz-hands-free-driving-technology-drive-pilot-beats-tesla)
 * [2023-09-27, 14:14:30](https://news.ycombinator.com/item?id=37674967) - [ClickHouse Keeper: A ZooKeeper alternative written in C++](https://clickhouse.com/blog/clickhouse-keeper-a-zookeeper-alternative-written-in-cpp)
 * [2023-09-27, 13:58:58](https://news.ycombinator.com/item?id=37674752) - [Deno Queues](https://deno.com/blog/queues)
 * [2023-09-27, 13:50:09](https://news.ycombinator.com/item?id=37674640) - [We try out the first legal level 3 automated driving system in the US](https://arstechnica.com/cars/2023/09/mercedes-benzs-level-3-autonomous-driving-system-takes-over-in-heavy-traffic/)

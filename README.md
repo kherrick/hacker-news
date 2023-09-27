@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-27, 15:22:29](https://news.ycombinator.com/item?id=37675988) - [Rust vs Go: A Hands-On Comparison](https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison)
 * [2023-09-27, 15:14:03](https://news.ycombinator.com/item?id=37675831) - [Desalination system could produce freshwater that is cheaper than tap water](https://www.eurekalert.org/news-releases/1002811)
 * [2023-09-27, 14:52:46](https://news.ycombinator.com/item?id=37675496) - [Mistral 7B, the most powerful language model for its size to date, Apache 2.0](https://mistral.ai/news/announcing-mistral-7b/)
 * [2023-09-27, 14:46:59](https://news.ycombinator.com/item?id=37675422) - [Unions Work](https://werd.io/2023/unions-work)
+* [2023-09-27, 14:19:32](https://news.ycombinator.com/item?id=37675046) - [Mercedes-Benz Beat Tesla to Cheap, Hands-Free Driving](https://www.bloomberg.com/news/articles/2023-09-27/mercedes-benz-hands-free-driving-technology-drive-pilot-beats-tesla)
 * [2023-09-27, 14:14:30](https://news.ycombinator.com/item?id=37674967) - [ClickHouse Keeper: A ZooKeeper alternative written in C++](https://clickhouse.com/blog/clickhouse-keeper-a-zookeeper-alternative-written-in-cpp)
 * [2023-09-27, 13:58:58](https://news.ycombinator.com/item?id=37674752) - [Deno Queues](https://deno.com/blog/queues)
 * [2023-09-27, 13:50:09](https://news.ycombinator.com/item?id=37674640) - [We try out the first legal level 3 automated driving system in the US](https://arstechnica.com/cars/2023/09/mercedes-benzs-level-3-autonomous-driving-system-takes-over-in-heavy-traffic/)
@@ -24,10 +26,8 @@
 * [2023-09-26, 12:22:21](https://news.ycombinator.com/item?id=37658208) - [My Unhealthy Relationship with Keyboards](https://jackevansevo.github.io/my-unhealthy-relationship-with-keyboards.html)
 * [2023-09-26, 10:06:39](https://news.ycombinator.com/item?id=37656993) - [Forrest Mims and RadioShack (2017)](https://hackaday.com/2017/01/18/forrest-mims-radio-shack-and-the-notebooks-that-launched-a-thousand-careers/)
 * [2023-09-26, 07:35:30](https://news.ycombinator.com/item?id=37655758) - [ASCIIpOrtal: A Portal Game You Can Play in Your Terminal (2019)](https://github.com/cymonsgames/ASCIIpOrtal)
-* [2023-09-26, 06:42:25](https://news.ycombinator.com/item?id=37655298) - [Knowledge (1986)](https://www.lrb.co.uk/the-paper/v08/n22/ian-hacking/knowledge)
 * [2023-09-26, 04:27:26](https://news.ycombinator.com/item?id=37654361) - [A Mystery Species Was Discovered in Trafficked Pangolin Scales](https://www.nytimes.com/2023/09/25/science/pangolins-new-species-scales.html)
 * [2023-09-25, 20:49:09](https://news.ycombinator.com/item?id=37650402) - [A journey into the shaken baby syndrome/abusive head trauma controversy](https://www.cambridgeblog.org/2023/05/a-journey-into-the-shaken-baby-syndrome-abusive-head-trauma-controversy/)
-* [2023-09-25, 17:24:49](https://news.ycombinator.com/item?id=37647467) - [The possibly never-ending quest for the golden owl](https://www.atlasobscura.com/articles/quest-for-the-golden-owl-hidden-treasure)
 * [2023-09-25, 05:29:34](https://news.ycombinator.com/item?id=37639945) - [Tempest: Transmit Radio Waves via a PC Video Card with No Extra Hardware](http://www.erikyyy.de/tempest/)
 * [2023-09-24, 12:32:06](https://news.ycombinator.com/item?id=37632513) - [One man’s quest to end cheating in virtual cycling](https://thehustle.co/one-mans-quest-to-end-cheating-in-virtual-cycling/)
 
