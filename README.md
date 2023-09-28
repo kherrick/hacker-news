@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-28, 21:18:35](https://news.ycombinator.com/item?id=37696014) - [Sweden turns to military to help police combat gang crime](https://www.ft.com/content/6b470a3a-178b-4f9a-95af-2d4a59b4c982)
 * [2023-09-28, 20:41:30](https://news.ycombinator.com/item?id=37695530) - [Show HN: Generative Fill with AI and 3D](https://github.com/fill3d/fill)
 * [2023-09-28, 20:22:31](https://news.ycombinator.com/item?id=37695290) - [CVE-2023-42793 Vulnerability in TeamCity: Post-Mortem](https://blog.jetbrains.com/teamcity/2023/09/cve-2023-42793-vulnerability-post-mortem/)
 * [2023-09-28, 20:19:26](https://news.ycombinator.com/item?id=37695245) - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
@@ -11,7 +12,6 @@
 * [2023-09-28, 19:28:40](https://news.ycombinator.com/item?id=37694524) - [Bing Chat responses infiltrated by ads pushing malware](https://www.bleepingcomputer.com/news/security/bing-chat-responses-infiltrated-by-ads-pushing-malware/)
 * [2023-09-28, 19:23:04](https://news.ycombinator.com/item?id=37694414) - [LibrePCB](https://librepcb.org/)
 * [2023-09-28, 19:17:33](https://news.ycombinator.com/item?id=37694333) - [Amtrak Explorer](https://amtrakexplorer.com/)
-* [2023-09-28, 19:06:53](https://news.ycombinator.com/item?id=37694154) - [Google Ending Support for Jamboard](https://workspaceupdates.googleblog.com/2023/09/the-next-phase-of-digital-whiteboarding-for-google-workspace.html)
 * [2023-09-28, 18:36:23](https://news.ycombinator.com/item?id=37693766) - [How were the signs for logical and arithmetic operators decided?](https://retrocomputing.stackexchange.com/questions/27741/how-were-the-signs-for-logical-and-arithmetic-operators-decided)
 * [2023-09-28, 17:00:47](https://news.ycombinator.com/item?id=37692467) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37692467)
 * [2023-09-28, 16:52:54](https://news.ycombinator.com/item?id=37692335) - [Universities have disinvested from their presses just as much as their libraries](https://www.publicbooks.org/publishers-and-scholars-unite/)

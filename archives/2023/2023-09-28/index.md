@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
+* [2023-09-28, 21:18:35](https://news.ycombinator.com/item?id=37696014) - [Sweden turns to military to help police combat gang crime](https://www.ft.com/content/6b470a3a-178b-4f9a-95af-2d4a59b4c982)
 * [2023-09-28, 20:41:30](https://news.ycombinator.com/item?id=37695530) - [Show HN: Ultra-Realistic Generative Fill with AI and 3D](https://github.com/fill3d/fill)
 * [2023-09-28, 20:22:31](https://news.ycombinator.com/item?id=37695290) - [CVE-2023-42793 Vulnerability in TeamCity: Post-Mortem](https://blog.jetbrains.com/teamcity/2023/09/cve-2023-42793-vulnerability-post-mortem/)
 * [2023-09-28, 20:19:26](https://news.ycombinator.com/item?id=37695245) - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
