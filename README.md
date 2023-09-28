@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-28, 16:01:49](https://news.ycombinator.com/item?id=37691547) - [What codegen is (actually) good for](https://www.figma.com/blog/what-codegen-is-actually-good-for/#aAkZ9)
 * [2023-09-28, 15:42:05](https://news.ycombinator.com/item?id=37691232) - [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/)
 * [2023-09-28, 15:20:03](https://news.ycombinator.com/item?id=37690867) - [Snap cuts 170 jobs after closing AR Enterprise service division](https://techcrunch.com/2023/09/27/snap-shutters-its-enterprise-services-division-after-less-than-a-year/)
+* [2023-09-28, 15:09:54](https://news.ycombinator.com/item?id=37690687) - [What a caste discrimination ban means for Americans](https://www.theguardian.com/us-news/2023/sep/27/california-caste-discrimination-law-south-asian-civil-rights)
 * [2023-09-28, 15:06:18](https://news.ycombinator.com/item?id=37690632) - [Epic Games is laying off 16% of its staff](https://www.bloomberg.com/news/articles/2023-09-28/epic-games-is-cutting-about-900-jobs-or-16-of-staff)
 * [2023-09-28, 14:53:14](https://news.ycombinator.com/item?id=37690392) - [What if Planet 9 is a Primordial Black Hole? (2019)](https://arxiv.org/abs/1909.11090)
 * [2023-09-28, 14:27:42](https://news.ycombinator.com/item?id=37690080) - [OpenAI and Jony Ive in talks to raise $1B from SoftBank for AI device venture](https://www.ft.com/content/4c64ffc1-f57b-4e22-a4a5-f9f90a7419b7)
@@ -24,11 +26,9 @@
 * [2023-09-28, 04:53:08](https://news.ycombinator.com/item?id=37685375) - [Prophetic Perfect Tense](https://en.wikipedia.org/wiki/Prophetic_perfect_tense)
 * [2023-09-28, 03:45:14](https://news.ycombinator.com/item?id=37684986) - [Why does trying to break into the NT 3.1 kernel reboot my 486DX4 machine?](https://retrocomputing.stackexchange.com/questions/19655/why-does-trying-to-break-into-the-nt-3-1-kernel-reboot-my-486dx4-machine)
 * [2023-09-28, 02:51:49](https://news.ycombinator.com/item?id=37684604) - [A skyscraper that could have toppled over in the wind (1995)](https://www.newyorker.com/magazine/1995/05/29/the-fifty-nine-story-crisis-citicorp-center)
-* [2023-09-27, 23:04:00](https://news.ycombinator.com/item?id=37682684) - [Open Source does not win by being cheaper](https://github.com/getlago/lago/wiki/Open-Source-does-not-win-by-being-cheaper)
 * [2023-09-27, 22:28:25](https://news.ycombinator.com/item?id=37682286) - [Show HN: Carton – Run any ML model from any programming language](https://carton.run)
 * [2023-09-27, 22:27:11](https://news.ycombinator.com/item?id=37682273) - [Lisp Badge LE](http://www.technoblogy.com/show?3Z2Y)
 * [2023-09-27, 20:56:24](https://news.ycombinator.com/item?id=37681185) - [Function Composition in Programming Languages [video]](https://www.youtube.com/watch?v=JELcdZLre3s)
-* [2023-09-27, 19:56:07](https://news.ycombinator.com/item?id=37680358) - [Is the Physics of Time Changing?](https://www.wired.com/story/physics-of-time-actually-changing/)
 * [2023-09-27, 11:28:31](https://news.ycombinator.com/item?id=37673127) - [Uiua: A minimal stack-based, array-based language](https://www.uiua.org/)
 
 ## [Archives](archives/index.md)
