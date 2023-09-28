@@ -5,7 +5,7 @@
 * [2023-09-28, 11:03:27](https://news.ycombinator.com/item?id=37687887) - [Iconic tree at Hadrian's Wall's 'Sycamore Gap' has been 'felled'](https://www.hexham-courant.co.uk/news/23819352.sycamore-gap-northumberland-damaged-storm-agnes/)
 * [2023-09-28, 10:59:01](https://news.ycombinator.com/item?id=37687846) - [WebGPU Technical Report](https://chromium.googlesource.com/chromium/src/+/main/docs/security/research/graphics/webgpu_technical_report.md)
 * [2023-09-28, 10:53:01](https://news.ycombinator.com/item?id=37687798) - [Ask HN: Lessons learned from implementing user-facing analytics / dashboards?](https://news.ycombinator.com/item?id=37687798)
-* [2023-09-28, 10:38:22](https://news.ycombinator.com/item?id=37687699) - [Chomsky Explains Why Nobody Is a Moral Relativist, Even Michel Foucault](https://www.openculture.com/2023/09/noam-chomsky-explains-why-nobody-is-really-a-moral-relativist-even-michel-foucault.html)
+* [2023-09-28, 10:51:12](https://news.ycombinator.com/item?id=37687783) - [Leased solar systems are failing across America](https://time.com/6317339/rooftop-solar-power-failure/)
 * [2023-09-28, 08:57:52](https://news.ycombinator.com/item?id=37687060) - [That's a Lot of YAML](https://noyaml.com/)
 * [2023-09-28, 08:43:48](https://news.ycombinator.com/item?id=37686977) - [Inhibition of fatty acid oxidation enables heart regeneration in adult mice](https://www.nature.com/articles/s41586-023-06585-5)
 * [2023-09-28, 08:07:23](https://news.ycombinator.com/item?id=37686713) - [Tao Te Ching](https://taoism.net/tao-te-ching-online-translation/)
