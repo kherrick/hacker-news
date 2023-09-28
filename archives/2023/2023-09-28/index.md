@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
+* [2023-09-28, 19:23:04](https://news.ycombinator.com/item?id=37694414) - [LibrePCB – Create electronics the easy way](https://librepcb.org/)
 * [2023-09-28, 19:06:53](https://news.ycombinator.com/item?id=37694154) - [Google Ending Support for Jamboard](https://workspaceupdates.googleblog.com/2023/09/the-next-phase-of-digital-whiteboarding-for-google-workspace.html)
 * [2023-09-28, 18:57:43](https://news.ycombinator.com/item?id=37694026) - [Conversation with Zuckerberg, this time we talked as photorealistic avatars](https://twitter.com/lexfridman/status/1707453830344868204)
 * [2023-09-28, 18:39:13](https://news.ycombinator.com/item?id=37693800) - [Microsoft executive says Google deals kept Bing small](https://www.reuters.com/technology/microsoft-executive-says-google-deals-kept-bing-small-2023-09-28/)
+* [2023-09-28, 18:36:23](https://news.ycombinator.com/item?id=37693766) - [How were the signs for logical and arithmetic operators decided?](https://retrocomputing.stackexchange.com/questions/27741/how-were-the-signs-for-logical-and-arithmetic-operators-decided)
 * [2023-09-28, 18:15:43](https://news.ycombinator.com/item?id=37693463) - [Why Is TED Scared of Color Blindness?](https://www.thefp.com/p/coleman-hughes-is-ted-scared-of-color-blindness)
 * [2023-09-28, 17:57:22](https://news.ycombinator.com/item?id=37693221) - [Japanese scientists working on creating human eggs and sperm in the lab](https://www.npr.org/sections/health-shots/2023/09/28/1200105467/japanese-scientists-race-to-create-human-eggs-and-sperm-in-the-lab)
 * [2023-09-28, 17:57:22](https://news.ycombinator.com/item?id=37693221) - [Japanese scientists race to create human eggs and sperm in the lab](https://text.npr.org/1200105467)
