@@ -1,13 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-28, 01:27:32](https://news.ycombinator.com/item?id=37684026) - [Ask HN: How do you store devices with Lithium-Ion batteries for long-term?](https://news.ycombinator.com/item?id=37684026)
 * [2023-09-27, 23:29:17](https://news.ycombinator.com/item?id=37682938) - [Safely open apps on your Mac](https://support.apple.com/en-us/HT202491)
 * [2023-09-27, 23:27:05](https://news.ycombinator.com/item?id=37682912) - [There's a mechanical watch feature called a “hack”. Why is it called that?](https://hachyderm.io/@danderson/111136144708450117)
 * [2023-09-27, 23:07:51](https://news.ycombinator.com/item?id=37682721) - [AlphaDev discovers faster sorting algorithms](https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms)
 * [2023-09-27, 23:04:00](https://news.ycombinator.com/item?id=37682684) - [Open Source doesn't win by being cheaper](https://github.com/getlago/lago/wiki/Open-Source-does-not-win-by-being-cheaper)
 * [2023-09-27, 22:27:11](https://news.ycombinator.com/item?id=37682273) - [Lisp Badge LE](http://www.technoblogy.com/show?3Z2Y)
+* [2023-09-27, 22:00:14](https://news.ycombinator.com/item?id=37681958) - [SMS Security and Privacy Gaps](https://security.googleblog.com/2023/09/sms-security-privacy-gaps-make-it-clear.html)
 * [2023-09-27, 21:25:24](https://news.ycombinator.com/item?id=37681554) - [War Thunder user leaks restricted military documents for AH-64D Apache Longbow](https://nichegamer.com/war-thunder-user-leaks-restricted-military-documents-for-ah-64d-apache-longbow/)
 * [2023-09-27, 20:41:43](https://news.ycombinator.com/item?id=37681004) - [Desalination system could produce freshwater that is cheaper than tap water](https://news.mit.edu/2023/desalination-system-could-produce-freshwater-cheaper-0927)
-* [2023-09-27, 20:31:50](https://news.ycombinator.com/item?id=37680851) - [The Llama Ecosystem: Past, Present, and Future](https://ai.meta.com/blog/llama-2-updates-connect-2023/)
 * [2023-09-27, 20:29:38](https://news.ycombinator.com/item?id=37680817) - [Emu: Enhancing Image Generation Models Using Photogenic Needles in a Haystack](https://ai.meta.com/research/publications/emu-enhancing-image-generation-models-using-photogenic-needles-in-a-haystack/)
 * [2023-09-27, 20:01:48](https://news.ycombinator.com/item?id=37680449) - [DAWproject: Open exchange format for DAWs](https://github.com/bitwig/dawproject)
 * [2023-09-27, 19:35:42](https://news.ycombinator.com/item?id=37680079) - [The Conscience of a Hacker (1986)](http://textfiles.com/100/hack7.txt)
@@ -28,7 +29,6 @@
 * [2023-09-27, 10:50:09](https://news.ycombinator.com/item?id=37672852) - [Applied Category Theory Course](https://math.ucr.edu/home/baez/act_course/)
 * [2023-09-27, 08:37:39](https://news.ycombinator.com/item?id=37671821) - [Show HN: Use ChatGPT with Apple Shortcuts](https://meetcopilot.app/)
 * [2023-09-27, 07:15:27](https://news.ycombinator.com/item?id=37671230) - [What's Going on at Italy's Campi Flegrei Caldera?](https://www.discovermagazine.com/planet-earth/whats-going-on-at-italys-campi-flegrei-caldera)
-* [2023-09-26, 13:04:48](https://news.ycombinator.com/item?id=37658686) - [Show HN: The Tomb of Ramesses I in the Valley of the Kings](https://mused.org/en/tours/730/the-tomb-of-ramesses-i)
 * [2023-09-25, 20:49:09](https://news.ycombinator.com/item?id=37650402) - [A journey into the shaken baby syndrome/abusive head trauma controversy](https://www.cambridgeblog.org/2023/05/a-journey-into-the-shaken-baby-syndrome-abusive-head-trauma-controversy/)
 
 ## [Archives](archives/index.md)
