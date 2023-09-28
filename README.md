@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-28, 07:29:15](https://news.ycombinator.com/item?id=37686456) - [We finally know for sure what a trilobite ate. Trilobite found with full stomach](https://arstechnica.com/science/2023/09/we-finally-know-for-sure-what-a-trilobite-ate/)
+* [2023-09-28, 06:38:52](https://news.ycombinator.com/item?id=37686121) - [As We May Think (1945)](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 * [2023-09-28, 06:08:47](https://news.ycombinator.com/item?id=37685885) - [Why Do Cats Love Boxes So Much?](https://www.discovermagazine.com/planet-earth/why-do-cats-love-boxes-so-much)
 * [2023-09-28, 05:46:10](https://news.ycombinator.com/item?id=37685706) - [The German group buying ticket dodgers out of prison](https://www.bbc.com/news/world-europe-66664823)
 * [2023-09-28, 05:39:35](https://news.ycombinator.com/item?id=37685653) - [Interactive GCC (igcc) is a read-eval-print loop (REPL) for C/C++](https://github.com/alexandru-dinu/igcc)
@@ -10,7 +11,6 @@
 * [2023-09-28, 03:40:20](https://news.ycombinator.com/item?id=37684946) - [How Washington DC Got Its Metro](https://www.construction-physics.com/p/how-washington-dc-got-its-metro)
 * [2023-09-28, 02:51:49](https://news.ycombinator.com/item?id=37684604) - [A skyscraper that could have toppled over in the wind (1995)](https://www.newyorker.com/magazine/1995/05/29/the-fifty-nine-story-crisis-citicorp-center)
 * [2023-09-27, 23:27:05](https://news.ycombinator.com/item?id=37682912) - [There's a mechanical watch feature called a “hack”](https://hachyderm.io/@danderson/111136144708450117)
-* [2023-09-27, 23:22:53](https://news.ycombinator.com/item?id=37682859) - [Tell HN: Please don't print –-help to stderr in your CLI tools](https://news.ycombinator.com/item?id=37682859)
 * [2023-09-27, 23:04:00](https://news.ycombinator.com/item?id=37682684) - [Open Source does not win by being cheaper](https://github.com/getlago/lago/wiki/Open-Source-does-not-win-by-being-cheaper)
 * [2023-09-27, 22:28:25](https://news.ycombinator.com/item?id=37682286) - [Show HN: Carton – Run any ML model from any programming language](https://carton.run)
 * [2023-09-27, 22:27:11](https://news.ycombinator.com/item?id=37682273) - [Lisp Badge LE](http://www.technoblogy.com/show?3Z2Y)
