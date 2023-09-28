@@ -9,3 +9,4 @@
 * [2023-09-28, 01:27:32](https://news.ycombinator.com/item?id=37684026) - [Ask HN: How do you store devices with Lithium-Ion batteries for long-term?](https://news.ycombinator.com/item?id=37684026)
 * [2023-09-28, 01:27:21](https://news.ycombinator.com/item?id=37684023) - [Is There Sunken Treasure Beneath Hell Gate in NYC?](https://www.atlasobscura.com/articles/sunken-treasure-hell-gate-new-york-east-river)
 * [2023-09-28, 00:53:21](https://news.ycombinator.com/item?id=37683766) - [The Forgotten Generation: Generation X Approaches Retirement](https://www.nirsonline.org/reports/genx/)
+* [2023-09-28, 00:50:52](https://news.ycombinator.com/item?id=37683749) - [How many animals get slaughtered every day?](https://ourworldindata.org/how-many-animals-get-slaughtered-every-day)
