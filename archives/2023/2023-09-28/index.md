@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
+* [2023-09-28, 14:27:42](https://news.ycombinator.com/item?id=37690080) - [OpenAI and Jony Ive in talks to raise $1B from SoftBank for AI device venture](https://www.ft.com/content/4c64ffc1-f57b-4e22-a4a5-f9f90a7419b7)
 * [2023-09-28, 14:22:30](https://news.ycombinator.com/item?id=37690002) - [Fairphone 4 with /e/OS by Murena now available at fairphone.com](https://shop.fairphone.com/fairphone-4-e-operating-system)
 * [2023-09-28, 14:19:18](https://news.ycombinator.com/item?id=37689960) - [Garbage In, Toxics Out](https://theintercept.com/2023/09/28/braven-plastic-recycling-toxic-waste/)
+* [2023-09-28, 14:19:17](https://news.ycombinator.com/item?id=37689959) - [Very high number of workplace accidents at Tesla factory in Germany](https://globeecho.com/news/europe/germany/a-striking-number-of-work-accidents-in-the-tesla-factory-in-grunheide/)
 * [2023-09-28, 13:28:01](https://news.ycombinator.com/item?id=37689312) - [Cloudflare is now powering Microsoft Edge Secure Network](https://blog.cloudflare.com/cloudflare-now-powering-microsoft-edge-secure-network/)
+* [2023-09-28, 12:48:14](https://news.ycombinator.com/item?id=37688887) - [FreeRDP: A remote desktop protocol implementation](https://www.freerdp.com/)
 * [2023-09-28, 12:00:54](https://news.ycombinator.com/item?id=37688347) - [SpaceX wins first Pentagon contract for Starshield](https://www.cnbc.com/2023/09/27/spacex-wins-first-pentagon-contract-for-starshield.html)
 * [2023-09-28, 11:57:18](https://news.ycombinator.com/item?id=37688314) - [Why are websites requesting access to motion sensors on my desktop?](https://grantwinney.com/websites-requesting-access-to-motion-sensors/)
 * [2023-09-28, 11:40:26](https://news.ycombinator.com/item?id=37688165) - [Scientists unveil fire-safe fuel](https://news.ucr.edu/articles/2023/09/28/scientists-unveil-fire-safe-fuel)
@@ -21,6 +24,7 @@
 * [2023-09-28, 09:57:47](https://news.ycombinator.com/item?id=37687418) - [McMurdo bans alcohol after harassment claims](https://apnews.com/article/antarctica-base-alcohol-ban-sexual-assault-9a942ef7c552fa7ad54c872f3138ae4f)
 * [2023-09-28, 08:57:52](https://news.ycombinator.com/item?id=37687060) - [That's a Lot of YAML](https://noyaml.com/)
 * [2023-09-28, 08:43:48](https://news.ycombinator.com/item?id=37686977) - [Inhibition of fatty acid oxidation enables heart regeneration in adult mice](https://www.nature.com/articles/s41586-023-06585-5)
+* [2023-09-28, 08:12:08](https://news.ycombinator.com/item?id=37686753) - [The creative agency of small projects](https://herman.bearblog.dev/the-creative-agency-of-small-projects/)
 * [2023-09-28, 08:07:23](https://news.ycombinator.com/item?id=37686713) - [Tao Te Ching](https://taoism.net/tao-te-ching-online-translation/)
 * [2023-09-28, 07:29:15](https://news.ycombinator.com/item?id=37686456) - [We finally know for sure what a trilobite ate. Trilobite found with full stomach](https://arstechnica.com/science/2023/09/we-finally-know-for-sure-what-a-trilobite-ate/)
 * [2023-09-28, 06:38:52](https://news.ycombinator.com/item?id=37686121) - [As We May Think (1945)](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
