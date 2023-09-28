@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-09-28, 20:22:31",
+      "https://news.ycombinator.com/item?id=37695290"
+    ],
+    [
+      "CVE-2023-42793 Vulnerability in TeamCity: Post-Mortem",
+      "https://blog.jetbrains.com/teamcity/2023/09/cve-2023-42793-vulnerability-post-mortem/"
+    ]
+  ],
+  [
+    [
       "2023-09-28, 20:19:26",
       "https://news.ycombinator.com/item?id=37695245"
     ],
@@ -277,16 +287,6 @@
     [
       "The saga of the Closure compiler, and why TypeScript won",
       "https://effectivetypescript.com/2023/09/27/closure-compiler/"
-    ]
-  ],
-  [
-    [
-      "2023-09-28, 06:38:52",
-      "https://news.ycombinator.com/item?id=37686121"
-    ],
-    [
-      "As We May Think (1945)",
-      "https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/"
     ]
   ],
   [
