@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-28, 08:57:52](https://news.ycombinator.com/item?id=37687060) - [That's a Lot of YAML](https://noyaml.com/)
 * [2023-09-28, 08:43:48](https://news.ycombinator.com/item?id=37686977) - [Inhibition of fatty acid oxidation enables heart regeneration in adult mice](https://www.nature.com/articles/s41586-023-06585-5)
 * [2023-09-28, 07:29:15](https://news.ycombinator.com/item?id=37686456) - [We finally know for sure what a trilobite ate. Trilobite found with full stomach](https://arstechnica.com/science/2023/09/we-finally-know-for-sure-what-a-trilobite-ate/)
 * [2023-09-28, 06:38:52](https://news.ycombinator.com/item?id=37686121) - [As We May Think (1945)](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
@@ -22,7 +23,6 @@
 * [2023-09-27, 19:02:02](https://news.ycombinator.com/item?id=37679584) - [Antimatter falls down: Observation of the effect of gravity on antimatter](https://www.nature.com/articles/s41586-023-06527-1)
 * [2023-09-27, 18:51:10](https://news.ycombinator.com/item?id=37679423) - [Continuations – Under the Covers [video]](https://www.youtube.com/watch?v=6nRS6UiN7X0)
 * [2023-09-27, 18:18:33](https://news.ycombinator.com/item?id=37678860) - [Ray-Ban Meta Smart Glasses](https://www.meta.com/smart-glasses/)
-* [2023-09-27, 18:09:29](https://news.ycombinator.com/item?id=37678714) - [OpenBSD PF versus FreeBSD PF](https://mwl.io/archives/23127)
 * [2023-09-27, 14:17:13](https://news.ycombinator.com/item?id=37675003) - [JWST discovers massive and compact quiescent galaxy](https://phys.org/news/2023-09-jwst-massive-compact-quiescent-galaxy.html)
 * [2023-09-27, 11:45:22](https://news.ycombinator.com/item?id=37673271) - [Techniques in Persuasion from Antiquity](https://www.thecollector.com/persuasive-technques-antiquity/)
 * [2023-09-27, 11:28:31](https://news.ycombinator.com/item?id=37673127) - [Uiua: A minimal stack-based, array-based language](https://www.uiua.org/)
