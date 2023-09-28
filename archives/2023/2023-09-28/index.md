@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
+* [2023-09-28, 17:00:47](https://news.ycombinator.com/item?id=37692467) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37692467)
 * [2023-09-28, 16:41:42](https://news.ycombinator.com/item?id=37692166) - [RZK: Experimental proof assistant for synthetic ∞-categories](https://github.com/rzk-lang/rzk)
 * [2023-09-28, 16:01:49](https://news.ycombinator.com/item?id=37691547) - [What codegen is (actually) good for](https://www.figma.com/blog/what-codegen-is-actually-good-for/#aAkZ9)
 * [2023-09-28, 15:50:59](https://news.ycombinator.com/item?id=37691367) - [Why Do Nigerian Scammers Say They Are from Nigeria? [pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/WhyFromNigeria.pdf)
