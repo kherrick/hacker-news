@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-28, 05:34:20](https://news.ycombinator.com/item?id=37685614) - [Raspberry Pi 5 product brief [pdf]](https://datasheets.raspberrypi.com/rpi5/raspberry-pi-5-product-brief.pdf)
+* [2023-09-28, 06:00:25](https://news.ycombinator.com/item?id=37685819) - [Introducing: Raspberry Pi 5](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/)
+* [2023-09-28, 05:39:35](https://news.ycombinator.com/item?id=37685653) - [Interactive GCC (igcc) is a read-eval-print loop (REPL) for C/C++](https://github.com/alexandru-dinu/igcc)
 * [2023-09-28, 05:29:21](https://news.ycombinator.com/item?id=37685580) - [Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/)
 * [2023-09-28, 04:53:08](https://news.ycombinator.com/item?id=37685375) - [Prophetic Perfect Tense](https://en.wikipedia.org/wiki/Prophetic_perfect_tense)
 * [2023-09-28, 04:43:13](https://news.ycombinator.com/item?id=37685313) - [Searchable Database of the 183,000 Pirated Books Meta, et al., Used to Train AI](https://www.theatlantic.com/technology/archive/2023/09/books3-database-generative-ai-training-copyright-infringement/675363/)
-* [2023-09-28, 03:56:39](https://news.ycombinator.com/item?id=37685073) - [Rasperry Pi 5 Specs and Images Leaked from Element14?](https://www.tech-knowhow.com/2023/09/rasperry-pi-5-specs-and-images-leaked-from-element14/)
 * [2023-09-28, 03:45:14](https://news.ycombinator.com/item?id=37684986) - [Why does trying to break into the NT 3.1 kernel reboot my 486DX4 machine?](https://retrocomputing.stackexchange.com/questions/19655/why-does-trying-to-break-into-the-nt-3-1-kernel-reboot-my-486dx4-machine)
 * [2023-09-28, 03:40:20](https://news.ycombinator.com/item?id=37684946) - [How Washington DC Got Its Metro](https://www.construction-physics.com/p/how-washington-dc-got-its-metro)
 * [2023-09-28, 03:32:37](https://news.ycombinator.com/item?id=37684884) - [DarkBeam leaks billions of email and password combinations](https://securityaffairs.com/151566/security/darkbeam-data-leak.html)

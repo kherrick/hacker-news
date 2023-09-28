@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
+* [2023-09-28, 06:00:25](https://news.ycombinator.com/item?id=37685819) - [Introducing: Raspberry Pi 5](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/)
+* [2023-09-28, 05:39:35](https://news.ycombinator.com/item?id=37685653) - [Interactive GCC (igcc) is a read-eval-print loop (REPL) for C/C++](https://github.com/alexandru-dinu/igcc)
 * [2023-09-28, 05:34:20](https://news.ycombinator.com/item?id=37685614) - [Raspberry Pi 5 product brief [pdf]](https://datasheets.raspberrypi.com/rpi5/raspberry-pi-5-product-brief.pdf)
 * [2023-09-28, 05:29:21](https://news.ycombinator.com/item?id=37685580) - [Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/)
 * [2023-09-28, 05:09:25](https://news.ycombinator.com/item?id=37685446) - [Baltimore CEO, 26, was killed by a repeat offender](https://www.nbcnews.com/news/us-news/pava-lapere-ecomap-founder-dead-baltimore-rcna117457)
