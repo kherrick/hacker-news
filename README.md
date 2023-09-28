@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-28, 22:51:52](https://news.ycombinator.com/item?id=37696992) - [Bloomberg: Apple held talks with Microsoft about acquiring Bing in 2020](https://9to5mac.com/2023/09/28/bloomberg-apple-held-talks-with-microsoft-about-acquiring-bing-in-2020/)
 * [2023-09-28, 22:15:11](https://news.ycombinator.com/item?id=37696592) - [The Timer in WatchOS 10](https://furbo.org/2023/09/28/the-timer-in-watchos-10/)
 * [2023-09-28, 21:26:58](https://news.ycombinator.com/item?id=37696118) - [Caps Lock Behaviour Disabled in Gnome](https://popey.com/blog/2023/09/caps-lock-behaviour-disabled-in-gnome/)
 * [2023-09-28, 20:41:30](https://news.ycombinator.com/item?id=37695530) - [Show HN: Generative Fill with AI and 3D](https://github.com/fill3d/fill)
@@ -29,7 +30,6 @@
 * [2023-09-28, 07:56:44](https://news.ycombinator.com/item?id=37686641) - [Upcycled Bicycle Panniers DIY](https://rackhackers.com/)
 * [2023-09-28, 07:55:38](https://news.ycombinator.com/item?id=37686633) - [The saga of the Closure compiler, and why TypeScript won](https://effectivetypescript.com/2023/09/27/closure-compiler/)
 * [2023-09-28, 05:29:21](https://news.ycombinator.com/item?id=37685580) - [Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/)
-* [2023-09-27, 22:27:11](https://news.ycombinator.com/item?id=37682273) - [Lisp Badge LE](http://www.technoblogy.com/show?3Z2Y)
 
 ## [Archives](archives/index.md)
 
