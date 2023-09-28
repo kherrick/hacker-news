@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-28, 10:59:01",
+      "https://news.ycombinator.com/item?id=37687846"
+    ],
+    [
+      "WebGPU Technical Report",
+      "https://chromium.googlesource.com/chromium/src/+/main/docs/security/research/graphics/webgpu_technical_report.md"
+    ]
+  ],
+  [
+    [
       "2023-09-28, 10:57:09",
       "https://news.ycombinator.com/item?id=37687825"
     ],
@@ -197,16 +207,6 @@
     [
       "Desalination system could produce freshwater that is cheaper than tap water",
       "https://news.mit.edu/2023/desalination-system-could-produce-freshwater-cheaper-0927"
-    ]
-  ],
-  [
-    [
-      "2023-09-27, 20:01:48",
-      "https://news.ycombinator.com/item?id=37680449"
-    ],
-    [
-      "DAWproject: Open exchange format for DAWs",
-      "https://github.com/bitwig/dawproject"
     ]
   ],
   [
