@@ -12,6 +12,7 @@
 * [2023-09-27, 22:57:35](https://news.ycombinator.com/item?id=37682616) - [Prompt Engineering Is Snake Oil](https://grandiose.substack.com/p/prompt-engineering-is-snake-oil)
 * [2023-09-27, 22:56:51](https://news.ycombinator.com/item?id=37682607) - [Inflation Bites U.S. Engineering Salaries](https://spectrum.ieee.org/electrical-engineer-salary-2023)
 * [2023-09-27, 22:34:48](https://news.ycombinator.com/item?id=37682357) - [Meta spends $181M to get out of lease at vacant London offices](https://www.theregister.com/2023/09/27/meta_coughs_181m_to_exit/)
+* [2023-09-27, 22:28:25](https://news.ycombinator.com/item?id=37682286) - [Show HN: Carton – Run any ML model from any programming language](https://carton.run)
 * [2023-09-27, 22:27:11](https://news.ycombinator.com/item?id=37682273) - [Lisp Badge LE](http://www.technoblogy.com/show?3Z2Y)
 * [2023-09-27, 22:00:14](https://news.ycombinator.com/item?id=37681958) - [SMS Security and Privacy Gaps](https://security.googleblog.com/2023/09/sms-security-privacy-gaps-make-it-clear.html)
 * [2023-09-27, 21:34:46](https://news.ycombinator.com/item?id=37681663) - [Jony Ive and OpenAI’s Altman reportedly collaborating on mysterious AI device](https://arstechnica.com/information-technology/2023/09/jony-ive-and-openais-altman-reportedly-collaborating-on-mysterious-ai-device/)
