@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
+* [2023-09-28, 11:57:18](https://news.ycombinator.com/item?id=37688314) - [Why are websites requesting access to motion sensors on my desktop?](https://grantwinney.com/websites-requesting-access-to-motion-sensors/)
+* [2023-09-28, 11:40:26](https://news.ycombinator.com/item?id=37688165) - [Scientists unveil fire-safe fuel](https://news.ucr.edu/articles/2023/09/28/scientists-unveil-fire-safe-fuel)
 * [2023-09-28, 11:30:06](https://news.ycombinator.com/item?id=37688095) - [Ask HN: How do you use AI to get things done faster?](https://news.ycombinator.com/item?id=37688095)
+* [2023-09-28, 11:05:13](https://news.ycombinator.com/item?id=37687905) - [The Sacrifices Made by the Declaration of Independence Signers](https://michaelwsmith.com/the-sacrifices-made-by-the-declaration-signers/)
 * [2023-09-28, 10:59:01](https://news.ycombinator.com/item?id=37687846) - [WebGPU Technical Report](https://chromium.googlesource.com/chromium/src/+/main/docs/security/research/graphics/webgpu_technical_report.md)
 * [2023-09-28, 10:57:09](https://news.ycombinator.com/item?id=37687825) - [Google Erects Cone of Silence Around Antitrust Case](https://prospect.org/justice/2023-09-26-google-erects-cone-of-silence-around-antitrust-case/)
 * [2023-09-28, 10:53:01](https://news.ycombinator.com/item?id=37687798) - [Ask HN: Lessons learned from implementing user-facing analytics / dashboards?](https://news.ycombinator.com/item?id=37687798)
