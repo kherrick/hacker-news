@@ -2,6 +2,7 @@
 
 * [2023-09-28, 16:01:49](https://news.ycombinator.com/item?id=37691547) - [What codegen is (actually) good for](https://www.figma.com/blog/what-codegen-is-actually-good-for/#aAkZ9)
 * [2023-09-28, 15:42:05](https://news.ycombinator.com/item?id=37691232) - [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/)
+* [2023-09-28, 15:31:03](https://news.ycombinator.com/item?id=37691057) - [Airliner Repair, 24/7 Boeing’s traveling fix-it team (2008)](https://www.smithsonianmag.com/air-space-magazine/airliner-repair-247-9974457/)
 * [2023-09-28, 15:20:03](https://news.ycombinator.com/item?id=37690867) - [Snap cuts 170 jobs after closing AR Enterprise service division](https://techcrunch.com/2023/09/27/snap-shutters-its-enterprise-services-division-after-less-than-a-year/)
 * [2023-09-28, 15:09:54](https://news.ycombinator.com/item?id=37690687) - [What a caste discrimination ban means for Americans](https://www.theguardian.com/us-news/2023/sep/27/california-caste-discrimination-law-south-asian-civil-rights)
 * [2023-09-28, 15:06:18](https://news.ycombinator.com/item?id=37690632) - [Epic Games is laying off 16% of its staff](https://www.bloomberg.com/news/articles/2023-09-28/epic-games-is-cutting-about-900-jobs-or-16-of-staff)
@@ -13,7 +14,6 @@
 * [2023-09-28, 12:48:14](https://news.ycombinator.com/item?id=37688887) - [FreeRDP: A remote desktop protocol implementation](https://www.freerdp.com/)
 * [2023-09-28, 11:57:18](https://news.ycombinator.com/item?id=37688314) - [Why are websites requesting access to motion sensors on my desktop? (2019)](https://grantwinney.com/websites-requesting-access-to-motion-sensors/)
 * [2023-09-28, 11:40:26](https://news.ycombinator.com/item?id=37688165) - [Scientists unveil fire-safe fuel](https://news.ucr.edu/articles/2023/09/28/scientists-unveil-fire-safe-fuel)
-* [2023-09-28, 11:03:27](https://news.ycombinator.com/item?id=37687887) - [Iconic tree at Hadrian's Wall's 'Sycamore Gap' has been 'felled'](https://www.hexham-courant.co.uk/news/23819352.sycamore-gap-northumberland-damaged-storm-agnes/)
 * [2023-09-28, 10:59:01](https://news.ycombinator.com/item?id=37687846) - [WebGPU Technical Report](https://chromium.googlesource.com/chromium/src/+/main/docs/security/research/graphics/webgpu_technical_report.md)
 * [2023-09-28, 10:53:01](https://news.ycombinator.com/item?id=37687798) - [Ask HN: Lessons learned from implementing user-facing analytics / dashboards?](https://news.ycombinator.com/item?id=37687798)
 * [2023-09-28, 08:57:52](https://news.ycombinator.com/item?id=37687060) - [That's a Lot of YAML](https://noyaml.com/)
