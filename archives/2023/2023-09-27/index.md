@@ -30,6 +30,7 @@
 * [2023-09-27, 20:01:20](https://news.ycombinator.com/item?id=37680443) - [Hackers are spoofing themselves as GitHub's Dependabot to steal user passwords](https://checkmarx.com/blog/surprise-when-dependabot-contributes-malicious-code/)
 * [2023-09-27, 19:59:26](https://news.ycombinator.com/item?id=37680420) - [Earthworms contribute to 6.5% of global grain production](https://phys.org/news/2023-09-earthworms-contribute-global-grain-production.html)
 * [2023-09-27, 19:57:11](https://news.ycombinator.com/item?id=37680373) - [Antarctic sea ice hits lowest winter maximum on record: US data](https://phys.org/news/2023-09-antarctic-sea-ice-lowest-winter.html)
+* [2023-09-27, 19:56:07](https://news.ycombinator.com/item?id=37680358) - [Is the Physics of Time Changing?](https://www.wired.com/story/physics-of-time-actually-changing/)
 * [2023-09-27, 19:44:25](https://news.ycombinator.com/item?id=37680195) - [Is an All-Meat Diet What Nature Intended?](https://www.newyorker.com/magazine/2023/10/02/is-an-all-meat-diet-what-nature-intended)
 * [2023-09-27, 19:35:42](https://news.ycombinator.com/item?id=37680079) - [The Conscience of a Hacker(1986)](http://textfiles.com/100/hack7.txt)
 * [2023-09-27, 19:27:17](https://news.ycombinator.com/item?id=37679955) - [GPT-4 generates simple app from Whiteboard photo](https://twitter.com/mckaywrigley/status/1707101465922453701?s=20)
