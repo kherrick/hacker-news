@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-28, 15:42:05](https://news.ycombinator.com/item?id=37691232) - [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/)
 * [2023-09-28, 15:20:03](https://news.ycombinator.com/item?id=37690867) - [Snap cuts 170 jobs after closing AR Enterprise service division](https://techcrunch.com/2023/09/27/snap-shutters-its-enterprise-services-division-after-less-than-a-year/)
 * [2023-09-28, 15:06:18](https://news.ycombinator.com/item?id=37690632) - [Epic Games is laying off 16% of its staff](https://www.bloomberg.com/news/articles/2023-09-28/epic-games-is-cutting-about-900-jobs-or-16-of-staff)
 * [2023-09-28, 14:53:14](https://news.ycombinator.com/item?id=37690392) - [What if Planet 9 is a Primordial Black Hole? (2019)](https://arxiv.org/abs/1909.11090)
@@ -16,7 +17,6 @@
 * [2023-09-28, 08:57:52](https://news.ycombinator.com/item?id=37687060) - [That's a Lot of YAML](https://noyaml.com/)
 * [2023-09-28, 08:43:48](https://news.ycombinator.com/item?id=37686977) - [Inhibition of fatty acid oxidation enables heart regeneration in adult mice](https://www.nature.com/articles/s41586-023-06585-5)
 * [2023-09-28, 08:07:23](https://news.ycombinator.com/item?id=37686713) - [Tao Te Ching](https://taoism.net/tao-te-ching-online-translation/)
-* [2023-09-28, 07:29:15](https://news.ycombinator.com/item?id=37686456) - [A trilobite found with a full stomach](https://arstechnica.com/science/2023/09/we-finally-know-for-sure-what-a-trilobite-ate/)
 * [2023-09-28, 06:38:52](https://news.ycombinator.com/item?id=37686121) - [As We May Think (1945)](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 * [2023-09-28, 05:40:51](https://news.ycombinator.com/item?id=37685662) - [A Comparison of ARM Cortex-A Series Processor Performance Classifications](https://www.forlinx.net//industrial-news/arm-cortex-a-series-processor-performance-344.html)
 * [2023-09-28, 05:39:35](https://news.ycombinator.com/item?id=37685653) - [Interactive GCC (igcc) is a read-eval-print loop (REPL) for C/C++](https://github.com/alexandru-dinu/igcc)
