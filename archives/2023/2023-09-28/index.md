@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
+* [2023-09-28, 14:22:30](https://news.ycombinator.com/item?id=37690002) - [Fairphone 4 with /e/OS by Murena now available at fairphone.com](https://shop.fairphone.com/fairphone-4-e-operating-system)
+* [2023-09-28, 14:19:18](https://news.ycombinator.com/item?id=37689960) - [Garbage In, Toxics Out](https://theintercept.com/2023/09/28/braven-plastic-recycling-toxic-waste/)
+* [2023-09-28, 13:28:01](https://news.ycombinator.com/item?id=37689312) - [Cloudflare is now powering Microsoft Edge Secure Network](https://blog.cloudflare.com/cloudflare-now-powering-microsoft-edge-secure-network/)
 * [2023-09-28, 12:00:54](https://news.ycombinator.com/item?id=37688347) - [SpaceX wins first Pentagon contract for Starshield](https://www.cnbc.com/2023/09/27/spacex-wins-first-pentagon-contract-for-starshield.html)
 * [2023-09-28, 11:57:18](https://news.ycombinator.com/item?id=37688314) - [Why are websites requesting access to motion sensors on my desktop?](https://grantwinney.com/websites-requesting-access-to-motion-sensors/)
 * [2023-09-28, 11:40:26](https://news.ycombinator.com/item?id=37688165) - [Scientists unveil fire-safe fuel](https://news.ucr.edu/articles/2023/09/28/scientists-unveil-fire-safe-fuel)
