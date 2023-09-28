@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
+* [2023-09-28, 19:06:53](https://news.ycombinator.com/item?id=37694154) - [Google Ending Support for Jamboard](https://workspaceupdates.googleblog.com/2023/09/the-next-phase-of-digital-whiteboarding-for-google-workspace.html)
 * [2023-09-28, 18:39:13](https://news.ycombinator.com/item?id=37693800) - [Microsoft executive says Google deals kept Bing small](https://www.reuters.com/technology/microsoft-executive-says-google-deals-kept-bing-small-2023-09-28/)
 * [2023-09-28, 18:15:43](https://news.ycombinator.com/item?id=37693463) - [Why Is TED Scared of Color Blindness?](https://www.thefp.com/p/coleman-hughes-is-ted-scared-of-color-blindness)
+* [2023-09-28, 17:57:22](https://news.ycombinator.com/item?id=37693221) - [Japanese scientists working on creating human eggs and sperm in the lab](https://www.npr.org/sections/health-shots/2023/09/28/1200105467/japanese-scientists-race-to-create-human-eggs-and-sperm-in-the-lab)
 * [2023-09-28, 17:57:22](https://news.ycombinator.com/item?id=37693221) - [Japanese scientists race to create human eggs and sperm in the lab](https://text.npr.org/1200105467)
 * [2023-09-28, 17:30:10](https://news.ycombinator.com/item?id=37692857) - [To Knock an Elephant Off Balance, Bring Out a Giant Blindfold](https://www.nytimes.com/2023/09/26/science/elephants-blindfold-walking.html)
 * [2023-09-28, 17:27:36](https://news.ycombinator.com/item?id=37692832) - [Show HN: Abuse inflight WiFi APIs to track your flight](https://github.com/NalinPlad/OuterFlightTracker)
