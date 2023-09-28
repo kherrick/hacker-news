@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-28, 21:50:55](https://news.ycombinator.com/item?id=37696362) - [New California law raises minimum wage for fast food workers to $20 per hour](https://apnews.com/article/california-minimum-wage-increase-fast-food-newsom-69c26b7f07f2647149c37677446cea30)
+* [2023-09-28, 22:15:11](https://news.ycombinator.com/item?id=37696592) - [The Timer in WatchOS 10](https://furbo.org/2023/09/28/the-timer-in-watchos-10/)
 * [2023-09-28, 21:26:58](https://news.ycombinator.com/item?id=37696118) - [Caps Lock Behaviour Disabled in Gnome](https://popey.com/blog/2023/09/caps-lock-behaviour-disabled-in-gnome/)
-* [2023-09-28, 21:18:35](https://news.ycombinator.com/item?id=37696014) - [Sweden turns to military to help police combat gang crime](https://www.ft.com/content/6b470a3a-178b-4f9a-95af-2d4a59b4c982)
 * [2023-09-28, 20:41:30](https://news.ycombinator.com/item?id=37695530) - [Show HN: Generative Fill with AI and 3D](https://github.com/fill3d/fill)
 * [2023-09-28, 20:27:29](https://news.ycombinator.com/item?id=37695348) - [Jamboard Being Deprecated 2024](https://workspace.google.com/blog/product-announcements/next-phase-digital-whiteboarding)
 * [2023-09-28, 20:19:26](https://news.ycombinator.com/item?id=37695245) - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
@@ -22,6 +21,7 @@
 * [2023-09-28, 14:53:14](https://news.ycombinator.com/item?id=37690392) - [What if Planet 9 is a Primordial Black Hole? (2019)](https://arxiv.org/abs/1909.11090)
 * [2023-09-28, 14:51:34](https://news.ycombinator.com/item?id=37690372) - [Rewriting the history of syphilis](https://www.wired.com/story/a-medieval-french-skeleton-is-rewriting-the-history-of-syphilis/)
 * [2023-09-28, 14:48:51](https://news.ycombinator.com/item?id=37690320) - [Coding in the Debugger (2007)](https://tidyfirst.substack.com/p/coding-in-the-debugger)
+* [2023-09-28, 14:23:24](https://news.ycombinator.com/item?id=37690023) - [Mr. Benedum’s Will (1957)](https://benedum.org/about-us/mr-benedums-will/)
 * [2023-09-28, 13:25:29](https://news.ycombinator.com/item?id=37689282) - [Tell HN: Enterprises spend 10x more to build no-code solutions than coded ones](https://news.ycombinator.com/item?id=37689282)
 * [2023-09-28, 12:48:14](https://news.ycombinator.com/item?id=37688887) - [FreeRDP: A remote desktop protocol implementation](https://www.freerdp.com/)
 * [2023-09-28, 10:59:01](https://news.ycombinator.com/item?id=37687846) - [WebGPU Technical Report](https://chromium.googlesource.com/chromium/src/+/main/docs/security/research/graphics/webgpu_technical_report.md)
