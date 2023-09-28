@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-28, 20:22:31](https://news.ycombinator.com/item?id=37695290) - [CVE-2023-42793 Vulnerability in TeamCity: Post-Mortem](https://blog.jetbrains.com/teamcity/2023/09/cve-2023-42793-vulnerability-post-mortem/)
 * [2023-09-28, 20:04:13](https://news.ycombinator.com/item?id=37695035) - [Bandcamp has been sold to Songtradr. What does this mean for the musicians?](https://rocknerd.co.uk/2023/09/28/bandcamp-has-been-sold-to-songtradr/)
 * [2023-09-28, 19:41:19](https://news.ycombinator.com/item?id=37694701) - [Ask HN: How do your ML teams version datasets and models?](https://news.ycombinator.com/item?id=37694701)
 * [2023-09-28, 19:28:40](https://news.ycombinator.com/item?id=37694524) - [BingGPT is now infested with malware](https://www.bleepingcomputer.com/news/security/bing-chat-responses-infiltrated-by-ads-pushing-malware/)
@@ -17,7 +18,6 @@
 * [2023-09-28, 15:31:03](https://news.ycombinator.com/item?id=37691057) - [Airliner Repair, 24/7 Boeing’s traveling fix-it team (2008)](https://www.smithsonianmag.com/air-space-magazine/airliner-repair-247-9974457/)
 * [2023-09-28, 14:51:34](https://news.ycombinator.com/item?id=37690372) - [Rewriting the history of syphilis](https://www.wired.com/story/a-medieval-french-skeleton-is-rewriting-the-history-of-syphilis/)
 * [2023-09-28, 14:23:24](https://news.ycombinator.com/item?id=37690023) - [Mr. Benedum’s Will (1957)](https://benedum.org/about-us/mr-benedums-will/)
-* [2023-09-28, 13:28:01](https://news.ycombinator.com/item?id=37689312) - [Cloudflare is now powering Microsoft Edge Secure Network](https://blog.cloudflare.com/cloudflare-now-powering-microsoft-edge-secure-network/)
 * [2023-09-28, 13:25:29](https://news.ycombinator.com/item?id=37689282) - [Tell HN: Enterprises spend 10x more to build no-code solutions than coded ones](https://news.ycombinator.com/item?id=37689282)
 * [2023-09-28, 12:48:14](https://news.ycombinator.com/item?id=37688887) - [FreeRDP: A remote desktop protocol implementation](https://www.freerdp.com/)
 * [2023-09-28, 11:40:26](https://news.ycombinator.com/item?id=37688165) - [Scientists unveil fire-safe fuel](https://news.ucr.edu/articles/2023/09/28/scientists-unveil-fire-safe-fuel)
