@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
 * [2023-09-28, 19:23:04](https://news.ycombinator.com/item?id=37694414) - [LibrePCB – Create electronics the easy way](https://librepcb.org/)
+* [2023-09-28, 19:20:18](https://news.ycombinator.com/item?id=37694364) - [Why The Pentagon’s ‘killer robots’ are spurring major concerns](https://thehill.com/policy/defense/4225909-why-the-pentagons-killer-robots-are-spurring-major-concerns/)
+* [2023-09-28, 19:17:33](https://news.ycombinator.com/item?id=37694333) - [Amtrak Explorer](https://amtrakexplorer.com/)
 * [2023-09-28, 19:06:53](https://news.ycombinator.com/item?id=37694154) - [Google Ending Support for Jamboard](https://workspaceupdates.googleblog.com/2023/09/the-next-phase-of-digital-whiteboarding-for-google-workspace.html)
 * [2023-09-28, 18:57:43](https://news.ycombinator.com/item?id=37694026) - [Conversation with Zuckerberg, this time we talked as photorealistic avatars](https://twitter.com/lexfridman/status/1707453830344868204)
 * [2023-09-28, 18:39:13](https://news.ycombinator.com/item?id=37693800) - [Microsoft executive says Google deals kept Bing small](https://www.reuters.com/technology/microsoft-executive-says-google-deals-kept-bing-small-2023-09-28/)
