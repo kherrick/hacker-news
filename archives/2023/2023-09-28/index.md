@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
 * [2023-09-28, 20:22:31](https://news.ycombinator.com/item?id=37695290) - [CVE-2023-42793 Vulnerability in TeamCity: Post-Mortem](https://blog.jetbrains.com/teamcity/2023/09/cve-2023-42793-vulnerability-post-mortem/)
+* [2023-09-28, 20:19:26](https://news.ycombinator.com/item?id=37695245) - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
 * [2023-09-28, 20:06:59](https://news.ycombinator.com/item?id=37695071) - [Smartphone sales down 22 percent in Q2, the worst performance in a decade](https://arstechnica.com/google/2023/09/smartphone-sales-down-22-percent-in-q2-the-worst-performance-in-a-decade/)
 * [2023-09-28, 20:04:13](https://news.ycombinator.com/item?id=37695035) - [Bandcamp has been sold to Songtradr. What does this mean for the musicians?](https://rocknerd.co.uk/2023/09/28/bandcamp-has-been-sold-to-songtradr/)
 * [2023-09-28, 19:41:19](https://news.ycombinator.com/item?id=37694701) - [Ask HN: How do your ML teams version datasets and models?](https://news.ycombinator.com/item?id=37694701)
@@ -40,6 +41,7 @@
 * [2023-09-28, 15:06:18](https://news.ycombinator.com/item?id=37690632) - [Epic Games is laying off 16% of its staff](https://www.bloomberg.com/news/articles/2023-09-28/epic-games-is-cutting-about-900-jobs-or-16-of-staff)
 * [2023-09-28, 14:53:14](https://news.ycombinator.com/item?id=37690392) - [What if Planet 9 is a Primordial Black Hole? (2019)](https://arxiv.org/abs/1909.11090)
 * [2023-09-28, 14:51:34](https://news.ycombinator.com/item?id=37690372) - [Syphilis is being rewritten by a medieval skeleton](https://www.wired.com/story/a-medieval-french-skeleton-is-rewriting-the-history-of-syphilis/)
+* [2023-09-28, 14:48:51](https://news.ycombinator.com/item?id=37690320) - [Reduce coding's cognitive load–code in the debugger](https://tidyfirst.substack.com/p/coding-in-the-debugger)
 * [2023-09-28, 14:27:42](https://news.ycombinator.com/item?id=37690080) - [OpenAI and Jony Ive in talks to raise $1B from SoftBank for AI device venture](https://www.ft.com/content/4c64ffc1-f57b-4e22-a4a5-f9f90a7419b7)
 * [2023-09-28, 14:27:38](https://news.ycombinator.com/item?id=37690079) - [Nuclear Engine for Rocket Vehicle Application (Nerva)](https://en.wikipedia.org/wiki/NERVA)
 * [2023-09-28, 14:24:39](https://news.ycombinator.com/item?id=37690035) - [X CEO Says Platform Should Turn Profit in 2024](https://www.wsj.com/tech/x-ceo-linda-yaccarino-says-platform-should-turn-profit-in-2024-8575a1c)
