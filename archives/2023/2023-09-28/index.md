@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
+* [2023-09-28, 20:04:13](https://news.ycombinator.com/item?id=37695035) - [Bandcamp has been sold to Songtradr. What does this mean for the musicians?](https://rocknerd.co.uk/2023/09/28/bandcamp-has-been-sold-to-songtradr/)
 * [2023-09-28, 19:41:19](https://news.ycombinator.com/item?id=37694701) - [Ask HN: How do your ML teams version datasets and models?](https://news.ycombinator.com/item?id=37694701)
 * [2023-09-28, 19:28:40](https://news.ycombinator.com/item?id=37694524) - [BingGPT is now infested with malware](https://www.bleepingcomputer.com/news/security/bing-chat-responses-infiltrated-by-ads-pushing-malware/)
 * [2023-09-28, 19:23:04](https://news.ycombinator.com/item?id=37694414) - [LibrePCB – Create electronics the easy way](https://librepcb.org/)

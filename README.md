@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-28, 20:04:13](https://news.ycombinator.com/item?id=37695035) - [Bandcamp has been sold to Songtradr. What does this mean for the musicians?](https://rocknerd.co.uk/2023/09/28/bandcamp-has-been-sold-to-songtradr/)
 * [2023-09-28, 19:41:19](https://news.ycombinator.com/item?id=37694701) - [Ask HN: How do your ML teams version datasets and models?](https://news.ycombinator.com/item?id=37694701)
 * [2023-09-28, 19:28:40](https://news.ycombinator.com/item?id=37694524) - [BingGPT is now infested with malware](https://www.bleepingcomputer.com/news/security/bing-chat-responses-infiltrated-by-ads-pushing-malware/)
 * [2023-09-28, 19:23:04](https://news.ycombinator.com/item?id=37694414) - [LibrePCB](https://librepcb.org/)
@@ -12,7 +13,6 @@
 * [2023-09-28, 16:52:54](https://news.ycombinator.com/item?id=37692335) - [Universities have disinvested from their presses just as much as their libraries](https://www.publicbooks.org/publishers-and-scholars-unite/)
 * [2023-09-28, 16:41:42](https://news.ycombinator.com/item?id=37692166) - [RZK: Experimental proof assistant for synthetic ∞-categories](https://github.com/rzk-lang/rzk)
 * [2023-09-28, 16:01:49](https://news.ycombinator.com/item?id=37691547) - [What codegen is good for](https://www.figma.com/blog/what-codegen-is-actually-good-for/#aAkZ9)
-* [2023-09-28, 16:00:58](https://news.ycombinator.com/item?id=37691535) - [AI language models can exceed PNG and FLAC in lossless compression, says study](https://arstechnica.com/information-technology/2023/09/ai-language-models-can-exceed-png-and-flac-in-lossless-compression-says-study/)
 * [2023-09-28, 15:42:05](https://news.ycombinator.com/item?id=37691232) - [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/)
 * [2023-09-28, 15:31:03](https://news.ycombinator.com/item?id=37691057) - [Airliner Repair, 24/7 Boeing’s traveling fix-it team (2008)](https://www.smithsonianmag.com/air-space-magazine/airliner-repair-247-9974457/)
 * [2023-09-28, 14:51:34](https://news.ycombinator.com/item?id=37690372) - [Rewriting the history of syphilis](https://www.wired.com/story/a-medieval-french-skeleton-is-rewriting-the-history-of-syphilis/)
