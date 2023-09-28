@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-28, 01:27:32](https://news.ycombinator.com/item?id=37684026) - [Ask HN: How do you store devices with Lithium-Ion batteries for long-term?](https://news.ycombinator.com/item?id=37684026)
+* [2023-09-28, 01:27:21](https://news.ycombinator.com/item?id=37684023) - [Is There Sunken Treasure Beneath Hell Gate in NYC?](https://www.atlasobscura.com/articles/sunken-treasure-hell-gate-new-york-east-river)
 * [2023-09-28, 00:53:21](https://news.ycombinator.com/item?id=37683766) - [The Forgotten Generation: Generation X Approaches Retirement](https://www.nirsonline.org/reports/genx/)
 * [2023-09-27, 23:29:17](https://news.ycombinator.com/item?id=37682938) - [Safely open apps on your Mac](https://support.apple.com/en-us/HT202491)
 * [2023-09-27, 23:27:05](https://news.ycombinator.com/item?id=37682912) - [There's a mechanical watch feature called a “hack”. Why is it called that?](https://hachyderm.io/@danderson/111136144708450117)
@@ -23,7 +24,6 @@
 * [2023-09-27, 14:14:30](https://news.ycombinator.com/item?id=37674967) - [ClickHouse Keeper: A ZooKeeper alternative written in C++](https://clickhouse.com/blog/clickhouse-keeper-a-zookeeper-alternative-written-in-cpp)
 * [2023-09-27, 13:58:58](https://news.ycombinator.com/item?id=37674752) - [Deno Queues](https://deno.com/blog/queues)
 * [2023-09-27, 12:01:43](https://news.ycombinator.com/item?id=37673413) - [Judge rules Google trial documents can be posted by U.S. online](https://www.bloomberg.com/news/articles/2023-09-26/google-judge-rules-trial-documents-can-be-posted-by-us-online)
-* [2023-09-27, 12:01:18](https://news.ycombinator.com/item?id=37673409) - [First Impressions with GPT-4V(ision)](https://blog.roboflow.com/gpt-4-vision/)
 * [2023-09-27, 11:45:22](https://news.ycombinator.com/item?id=37673271) - [Techniques in Persuasion from Antiquity](https://www.thecollector.com/persuasive-technques-antiquity/)
 * [2023-09-27, 11:28:31](https://news.ycombinator.com/item?id=37673127) - [Uiua: A minimal stack-based, array-based language](https://www.uiua.org/)
 * [2023-09-27, 10:50:09](https://news.ycombinator.com/item?id=37672852) - [Applied Category Theory Course](https://math.ucr.edu/home/baez/act_course/)
