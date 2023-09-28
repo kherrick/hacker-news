@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2023-09-27, 23:29:17",
-      "https://news.ycombinator.com/item?id=37682938"
-    ],
-    [
-      "Safely open apps on your Mac",
-      "https://support.apple.com/en-us/HT202491"
-    ]
-  ],
-  [
-    [
       "2023-09-27, 23:27:05",
       "https://news.ycombinator.com/item?id=37682912"
     ],
@@ -227,6 +217,16 @@
     [
       "JWST discovers massive and compact quiescent galaxy",
       "https://phys.org/news/2023-09-jwst-massive-compact-quiescent-galaxy.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-27, 14:14:30",
+      "https://news.ycombinator.com/item?id=37674967"
+    ],
+    [
+      "ClickHouse Keeper: A ZooKeeper alternative written in C++",
+      "https://clickhouse.com/blog/clickhouse-keeper-a-zookeeper-alternative-written-in-cpp"
     ]
   ],
   [
