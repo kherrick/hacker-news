@@ -13,6 +13,7 @@
 * [2023-09-28, 16:50:31](https://news.ycombinator.com/item?id=37692302) - [Switzerland has lost 10% of its glaciers in the last two years](https://www.euronews.com/green/2023/09/28/dramatic-acceleration-switzerland-has-lost-10-of-its-glaciers-in-the-last-two-years)
 * [2023-09-28, 16:41:42](https://news.ycombinator.com/item?id=37692166) - [RZK: Experimental proof assistant for synthetic ∞-categories](https://github.com/rzk-lang/rzk)
 * [2023-09-28, 16:01:49](https://news.ycombinator.com/item?id=37691547) - [What codegen is (actually) good for](https://www.figma.com/blog/what-codegen-is-actually-good-for/#aAkZ9)
+* [2023-09-28, 16:00:58](https://news.ycombinator.com/item?id=37691535) - [AI language models can exceed PNG and FLAC in lossless compression, says study](https://arstechnica.com/information-technology/2023/09/ai-language-models-can-exceed-png-and-flac-in-lossless-compression-says-study/)
 * [2023-09-28, 15:50:59](https://news.ycombinator.com/item?id=37691367) - [Why Do Nigerian Scammers Say They Are from Nigeria? [pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/WhyFromNigeria.pdf)
 * [2023-09-28, 15:42:05](https://news.ycombinator.com/item?id=37691232) - [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/)
 * [2023-09-28, 15:31:03](https://news.ycombinator.com/item?id=37691057) - [Airliner Repair, 24/7 Boeing’s traveling fix-it team (2008)](https://www.smithsonianmag.com/air-space-magazine/airliner-repair-247-9974457/)
