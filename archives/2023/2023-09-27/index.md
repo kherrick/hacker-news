@@ -20,6 +20,7 @@
 * [2023-09-27, 21:26:43](https://news.ycombinator.com/item?id=37681571) - [Tech CEO found dead with signs of blunt force trauma](https://www.cnn.com/2023/09/26/tech/pava-lapere-ecomap-ceo-death/index.html)
 * [2023-09-27, 21:25:24](https://news.ycombinator.com/item?id=37681554) - [War Thunder user leaks restricted military documents for AH-64D Apache Longbow](https://nichegamer.com/war-thunder-user-leaks-restricted-military-documents-for-ah-64d-apache-longbow/)
 * [2023-09-27, 21:22:18](https://news.ycombinator.com/item?id=37681505) - [Valve releases Counter-Strike 2](https://store.steampowered.com/app/730/CounterStrike_2/)
+* [2023-09-27, 20:51:09](https://news.ycombinator.com/item?id=37681127) - [Naturalists Unknown: Lives marked by discovery and erasure](https://theamericanscholar.org/naturalists-unknown/)
 * [2023-09-27, 20:44:24](https://news.ycombinator.com/item?id=37681047) - [ChatGPT can now search the web in real time](https://www.theverge.com/2023/9/27/23892781/openai-chatgpt-live-web-results-browse-with-bing)
 * [2023-09-27, 20:41:43](https://news.ycombinator.com/item?id=37681004) - [Desalination system could produce freshwater that is cheaper than tap water](https://news.mit.edu/2023/desalination-system-could-produce-freshwater-cheaper-0927)
 * [2023-09-27, 20:31:50](https://news.ycombinator.com/item?id=37680851) - [The Llama Ecosystem: Past, Present, and Future](https://ai.meta.com/blog/llama-2-updates-connect-2023/)
