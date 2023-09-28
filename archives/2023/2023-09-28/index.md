@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
+* [2023-09-28, 19:28:40](https://news.ycombinator.com/item?id=37694524) - [BingGPT is now infested with malware](https://www.bleepingcomputer.com/news/security/bing-chat-responses-infiltrated-by-ads-pushing-malware/)
 * [2023-09-28, 19:23:04](https://news.ycombinator.com/item?id=37694414) - [LibrePCB – Create electronics the easy way](https://librepcb.org/)
 * [2023-09-28, 19:20:18](https://news.ycombinator.com/item?id=37694364) - [Why The Pentagon’s ‘killer robots’ are spurring major concerns](https://thehill.com/policy/defense/4225909-why-the-pentagons-killer-robots-are-spurring-major-concerns/)
 * [2023-09-28, 19:17:33](https://news.ycombinator.com/item?id=37694333) - [Amtrak Explorer](https://amtrakexplorer.com/)
 * [2023-09-28, 19:06:53](https://news.ycombinator.com/item?id=37694154) - [Google Ending Support for Jamboard](https://workspaceupdates.googleblog.com/2023/09/the-next-phase-of-digital-whiteboarding-for-google-workspace.html)
+* [2023-09-28, 19:03:50](https://news.ycombinator.com/item?id=37694118) - [Winklevoss twins secretely withdrew $280M in assets before crypto firm collapsed](https://nypost.com/2023/09/27/winklevoss-twins-secretly-withdrew-282m-in-gemini-assets-before-genesis-collapse-sources/)
+* [2023-09-28, 19:02:23](https://news.ycombinator.com/item?id=37694096) - [Epic Games Cutting 870 Jobs, 16 Percent of Its Workforce](https://kotaku.com/epic-games-store-fortnite-unreal-engine-layoffs-1850882501)
 * [2023-09-28, 18:57:43](https://news.ycombinator.com/item?id=37694026) - [Conversation with Zuckerberg, this time we talked as photorealistic avatars](https://twitter.com/lexfridman/status/1707453830344868204)
 * [2023-09-28, 18:39:13](https://news.ycombinator.com/item?id=37693800) - [Microsoft executive says Google deals kept Bing small](https://www.reuters.com/technology/microsoft-executive-says-google-deals-kept-bing-small-2023-09-28/)
 * [2023-09-28, 18:36:23](https://news.ycombinator.com/item?id=37693766) - [How were the signs for logical and arithmetic operators decided?](https://retrocomputing.stackexchange.com/questions/27741/how-were-the-signs-for-logical-and-arithmetic-operators-decided)
@@ -60,6 +63,7 @@
 * [2023-09-28, 08:12:08](https://news.ycombinator.com/item?id=37686753) - [The creative agency of small projects](https://herman.bearblog.dev/the-creative-agency-of-small-projects/)
 * [2023-09-28, 08:07:23](https://news.ycombinator.com/item?id=37686713) - [Tao Te Ching](https://taoism.net/tao-te-ching-online-translation/)
 * [2023-09-28, 07:56:44](https://news.ycombinator.com/item?id=37686641) - [Upcycled Bicycle Panniers DIY](https://rackhackers.com/)
+* [2023-09-28, 07:55:38](https://news.ycombinator.com/item?id=37686633) - [The Saga of the Closure Compiler, and Why TypeScript Won](https://effectivetypescript.com/2023/09/27/closure-compiler/)
 * [2023-09-28, 07:29:15](https://news.ycombinator.com/item?id=37686456) - [We finally know for sure what a trilobite ate. Trilobite found with full stomach](https://arstechnica.com/science/2023/09/we-finally-know-for-sure-what-a-trilobite-ate/)
 * [2023-09-28, 06:38:52](https://news.ycombinator.com/item?id=37686121) - [As We May Think (1945)](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 * [2023-09-28, 06:08:47](https://news.ycombinator.com/item?id=37685885) - [Why Do Cats Love Boxes So Much?](https://www.discovermagazine.com/planet-earth/why-do-cats-love-boxes-so-much)
