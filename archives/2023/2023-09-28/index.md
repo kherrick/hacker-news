@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
+* [2023-09-28, 10:57:09](https://news.ycombinator.com/item?id=37687825) - [Google Erects Cone of Silence Around Antitrust Case](https://prospect.org/justice/2023-09-26-google-erects-cone-of-silence-around-antitrust-case/)
 * [2023-09-28, 10:53:01](https://news.ycombinator.com/item?id=37687798) - [Ask HN: Lessons learned from implementing user-facing analytics / dashboards?](https://news.ycombinator.com/item?id=37687798)
 * [2023-09-28, 08:57:52](https://news.ycombinator.com/item?id=37687060) - [That's a Lot of YAML](https://noyaml.com/)
 * [2023-09-28, 08:43:48](https://news.ycombinator.com/item?id=37686977) - [Inhibition of fatty acid oxidation enables heart regeneration in adult mice](https://www.nature.com/articles/s41586-023-06585-5)
