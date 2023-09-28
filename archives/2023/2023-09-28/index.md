@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
+* [2023-09-28, 11:30:06](https://news.ycombinator.com/item?id=37688095) - [Ask HN: How do you use AI to get things done faster?](https://news.ycombinator.com/item?id=37688095)
 * [2023-09-28, 10:59:01](https://news.ycombinator.com/item?id=37687846) - [WebGPU Technical Report](https://chromium.googlesource.com/chromium/src/+/main/docs/security/research/graphics/webgpu_technical_report.md)
 * [2023-09-28, 10:57:09](https://news.ycombinator.com/item?id=37687825) - [Google Erects Cone of Silence Around Antitrust Case](https://prospect.org/justice/2023-09-26-google-erects-cone-of-silence-around-antitrust-case/)
 * [2023-09-28, 10:53:01](https://news.ycombinator.com/item?id=37687798) - [Ask HN: Lessons learned from implementing user-facing analytics / dashboards?](https://news.ycombinator.com/item?id=37687798)
+* [2023-09-28, 10:38:22](https://news.ycombinator.com/item?id=37687699) - [Chomsky Explains Why Nobody Is a Moral Relativist, Even Michel Foucault](https://www.openculture.com/2023/09/noam-chomsky-explains-why-nobody-is-really-a-moral-relativist-even-michel-foucault.html)
 * [2023-09-28, 08:57:52](https://news.ycombinator.com/item?id=37687060) - [That's a Lot of YAML](https://noyaml.com/)
 * [2023-09-28, 08:43:48](https://news.ycombinator.com/item?id=37686977) - [Inhibition of fatty acid oxidation enables heart regeneration in adult mice](https://www.nature.com/articles/s41586-023-06585-5)
 * [2023-09-28, 08:07:23](https://news.ycombinator.com/item?id=37686713) - [Tao Te Ching](https://taoism.net/tao-te-ching-online-translation/)
