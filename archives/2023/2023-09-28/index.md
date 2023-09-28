@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
 * [2023-09-28, 19:06:53](https://news.ycombinator.com/item?id=37694154) - [Google Ending Support for Jamboard](https://workspaceupdates.googleblog.com/2023/09/the-next-phase-of-digital-whiteboarding-for-google-workspace.html)
+* [2023-09-28, 18:57:43](https://news.ycombinator.com/item?id=37694026) - [Conversation with Zuckerberg, this time we talked as photorealistic avatars](https://twitter.com/lexfridman/status/1707453830344868204)
 * [2023-09-28, 18:39:13](https://news.ycombinator.com/item?id=37693800) - [Microsoft executive says Google deals kept Bing small](https://www.reuters.com/technology/microsoft-executive-says-google-deals-kept-bing-small-2023-09-28/)
 * [2023-09-28, 18:15:43](https://news.ycombinator.com/item?id=37693463) - [Why Is TED Scared of Color Blindness?](https://www.thefp.com/p/coleman-hughes-is-ted-scared-of-color-blindness)
 * [2023-09-28, 17:57:22](https://news.ycombinator.com/item?id=37693221) - [Japanese scientists working on creating human eggs and sperm in the lab](https://www.npr.org/sections/health-shots/2023/09/28/1200105467/japanese-scientists-race-to-create-human-eggs-and-sperm-in-the-lab)
@@ -36,6 +37,7 @@
 * [2023-09-28, 14:19:18](https://news.ycombinator.com/item?id=37689960) - [Garbage In, Toxics Out](https://theintercept.com/2023/09/28/braven-plastic-recycling-toxic-waste/)
 * [2023-09-28, 14:19:17](https://news.ycombinator.com/item?id=37689959) - [Very high number of workplace accidents at Tesla factory in Germany](https://globeecho.com/news/europe/germany/a-striking-number-of-work-accidents-in-the-tesla-factory-in-grunheide/)
 * [2023-09-28, 13:28:01](https://news.ycombinator.com/item?id=37689312) - [Cloudflare is now powering Microsoft Edge Secure Network](https://blog.cloudflare.com/cloudflare-now-powering-microsoft-edge-secure-network/)
+* [2023-09-28, 13:25:29](https://news.ycombinator.com/item?id=37689282) - [Tell HN: Enterprises spend 10x more to build no-code solutions than coded ones](https://news.ycombinator.com/item?id=37689282)
 * [2023-09-28, 12:48:14](https://news.ycombinator.com/item?id=37688887) - [FreeRDP: A remote desktop protocol implementation](https://www.freerdp.com/)
 * [2023-09-28, 12:00:54](https://news.ycombinator.com/item?id=37688347) - [SpaceX wins first Pentagon contract for Starshield](https://www.cnbc.com/2023/09/27/spacex-wins-first-pentagon-contract-for-starshield.html)
 * [2023-09-28, 11:57:18](https://news.ycombinator.com/item?id=37688314) - [Why are websites requesting access to motion sensors on my desktop?](https://grantwinney.com/websites-requesting-access-to-motion-sensors/)
