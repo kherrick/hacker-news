@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
+* [2023-09-28, 20:41:30](https://news.ycombinator.com/item?id=37695530) - [Show HN: Ultra-Realistic Generative Fill with AI and 3D](https://github.com/fill3d/fill)
 * [2023-09-28, 20:22:31](https://news.ycombinator.com/item?id=37695290) - [CVE-2023-42793 Vulnerability in TeamCity: Post-Mortem](https://blog.jetbrains.com/teamcity/2023/09/cve-2023-42793-vulnerability-post-mortem/)
 * [2023-09-28, 20:19:26](https://news.ycombinator.com/item?id=37695245) - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
+* [2023-09-28, 20:13:28](https://news.ycombinator.com/item?id=37695165) - [Crux: Cross-platform app development in Rust](https://redbadger.github.io/crux/)
 * [2023-09-28, 20:06:59](https://news.ycombinator.com/item?id=37695071) - [Smartphone sales down 22 percent in Q2, the worst performance in a decade](https://arstechnica.com/google/2023/09/smartphone-sales-down-22-percent-in-q2-the-worst-performance-in-a-decade/)
 * [2023-09-28, 20:04:13](https://news.ycombinator.com/item?id=37695035) - [Bandcamp has been sold to Songtradr. What does this mean for the musicians?](https://rocknerd.co.uk/2023/09/28/bandcamp-has-been-sold-to-songtradr/)
 * [2023-09-28, 19:41:19](https://news.ycombinator.com/item?id=37694701) - [Ask HN: How do your ML teams version datasets and models?](https://news.ycombinator.com/item?id=37694701)
