@@ -36,6 +36,7 @@
 * [2023-09-28, 06:08:47](https://news.ycombinator.com/item?id=37685885) - [Why Do Cats Love Boxes So Much?](https://www.discovermagazine.com/planet-earth/why-do-cats-love-boxes-so-much)
 * [2023-09-28, 06:00:25](https://news.ycombinator.com/item?id=37685819) - [Introducing: Raspberry Pi 5](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/)
 * [2023-09-28, 05:46:10](https://news.ycombinator.com/item?id=37685706) - [The German group buying ticket dodgers out of prison](https://www.bbc.com/news/world-europe-66664823)
+* [2023-09-28, 05:40:51](https://news.ycombinator.com/item?id=37685662) - [A Comparison of ARM Cortex-A Series Processor Performance Classifications](https://www.forlinx.net//industrial-news/arm-cortex-a-series-processor-performance-344.html)
 * [2023-09-28, 05:39:35](https://news.ycombinator.com/item?id=37685653) - [Interactive GCC (igcc) is a read-eval-print loop (REPL) for C/C++](https://github.com/alexandru-dinu/igcc)
 * [2023-09-28, 05:34:20](https://news.ycombinator.com/item?id=37685614) - [Raspberry Pi 5 product brief [pdf]](https://datasheets.raspberrypi.com/rpi5/raspberry-pi-5-product-brief.pdf)
 * [2023-09-28, 05:29:21](https://news.ycombinator.com/item?id=37685580) - [Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/)
