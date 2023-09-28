@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
+* [2023-09-27, 23:29:17](https://news.ycombinator.com/item?id=37682938) - [Safely open apps on your Mac](https://support.apple.com/en-us/HT202491)
 * [2023-09-27, 23:27:05](https://news.ycombinator.com/item?id=37682912) - [There's a mechanical watch feature called a “hack”. Why is it called that?](https://hachyderm.io/@danderson/111136144708450117)
 * [2023-09-27, 23:22:53](https://news.ycombinator.com/item?id=37682859) - [Tell HN: Please don't print –help to stderr in your CLI tools](https://news.ycombinator.com/item?id=37682859)
+* [2023-09-27, 23:07:51](https://news.ycombinator.com/item?id=37682721) - [AlphaDev discovers faster sorting algorithms](https://www.deepmind.com/blog/alphadev-discovers-faster-sorting-algorithms)
 * [2023-09-27, 23:04:00](https://news.ycombinator.com/item?id=37682684) - [Open Source doesn't win by being cheaper](https://github.com/getlago/lago/wiki/Open-Source-does-not-win-by-being-cheaper)
 * [2023-09-27, 22:57:35](https://news.ycombinator.com/item?id=37682616) - [Prompt Engineering Is Snake Oil](https://grandiose.substack.com/p/prompt-engineering-is-snake-oil)
 * [2023-09-27, 22:56:51](https://news.ycombinator.com/item?id=37682607) - [Inflation Bites U.S. Engineering Salaries](https://spectrum.ieee.org/electrical-engineer-salary-2023)
@@ -56,6 +58,7 @@
 * [2023-09-27, 14:45:23](https://news.ycombinator.com/item?id=37675400) - [Your nines are not my nines (2019)](https://rachelbythebay.com/w/2019/07/15/giant/)
 * [2023-09-27, 14:40:33](https://news.ycombinator.com/item?id=37675329) - [Y Combinator CEO Garry Tan’s War on San Francisco Politics Has Only Just Begun](https://sfstandard.com/2023/09/27/garry-tan-y-combinator-declares-war-san-francisco-politics-progressives-elon-musk/)
 * [2023-09-27, 14:19:32](https://news.ycombinator.com/item?id=37675046) - [Mercedes-Benz Beat Tesla to Cheap, Hands-Free Driving](https://www.bloomberg.com/news/articles/2023-09-27/mercedes-benz-hands-free-driving-technology-drive-pilot-beats-tesla)
+* [2023-09-27, 14:17:13](https://news.ycombinator.com/item?id=37675003) - [JWST discovers massive and compact quiescent galaxy](https://phys.org/news/2023-09-jwst-massive-compact-quiescent-galaxy.html)
 * [2023-09-27, 14:14:30](https://news.ycombinator.com/item?id=37674967) - [ClickHouse Keeper: A ZooKeeper alternative written in C++](https://clickhouse.com/blog/clickhouse-keeper-a-zookeeper-alternative-written-in-cpp)
 * [2023-09-27, 13:58:58](https://news.ycombinator.com/item?id=37674752) - [Deno Queues](https://deno.com/blog/queues)
 * [2023-09-27, 13:50:09](https://news.ycombinator.com/item?id=37674640) - [We try out the first legal level 3 automated driving system in the US](https://arstechnica.com/cars/2023/09/mercedes-benzs-level-3-autonomous-driving-system-takes-over-in-heavy-traffic/)
