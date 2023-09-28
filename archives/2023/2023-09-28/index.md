@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
+* [2023-09-28, 21:50:55](https://news.ycombinator.com/item?id=37696362) - [New California law raises minimum wage for fast food workers to $20 per hour](https://apnews.com/article/california-minimum-wage-increase-fast-food-newsom-69c26b7f07f2647149c37677446cea30)
 * [2023-09-28, 21:18:35](https://news.ycombinator.com/item?id=37696014) - [Sweden turns to military to help police combat gang crime](https://www.ft.com/content/6b470a3a-178b-4f9a-95af-2d4a59b4c982)
+* [2023-09-28, 21:05:55](https://news.ycombinator.com/item?id=37695841) - [Yelp sues Texas for right to publish actual accurate abortion info](https://www.theregister.com/2023/09/28/yelp_paxton_abortion/)
 * [2023-09-28, 20:41:30](https://news.ycombinator.com/item?id=37695530) - [Show HN: Ultra-Realistic Generative Fill with AI and 3D](https://github.com/fill3d/fill)
 * [2023-09-28, 20:22:31](https://news.ycombinator.com/item?id=37695290) - [CVE-2023-42793 Vulnerability in TeamCity: Post-Mortem](https://blog.jetbrains.com/teamcity/2023/09/cve-2023-42793-vulnerability-post-mortem/)
 * [2023-09-28, 20:19:26](https://news.ycombinator.com/item?id=37695245) - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
@@ -69,6 +71,7 @@
 * [2023-09-28, 10:51:12](https://news.ycombinator.com/item?id=37687783) - [Leased solar systems are failing across America](https://time.com/6317339/rooftop-solar-power-failure/)
 * [2023-09-28, 10:38:22](https://news.ycombinator.com/item?id=37687699) - [Chomsky Explains Why Nobody Is a Moral Relativist, Even Michel Foucault](https://www.openculture.com/2023/09/noam-chomsky-explains-why-nobody-is-really-a-moral-relativist-even-michel-foucault.html)
 * [2023-09-28, 09:57:47](https://news.ycombinator.com/item?id=37687418) - [McMurdo bans alcohol after harassment claims](https://apnews.com/article/antarctica-base-alcohol-ban-sexual-assault-9a942ef7c552fa7ad54c872f3138ae4f)
+* [2023-09-28, 09:10:00](https://news.ycombinator.com/item?id=37687134) - [Making Gaussian Splats more smaller](https://aras-p.info/blog/2023/09/27/Making-Gaussian-Splats-more-smaller/)
 * [2023-09-28, 08:57:52](https://news.ycombinator.com/item?id=37687060) - [That's a Lot of YAML](https://noyaml.com/)
 * [2023-09-28, 08:43:48](https://news.ycombinator.com/item?id=37686977) - [Inhibition of fatty acid oxidation enables heart regeneration in adult mice](https://www.nature.com/articles/s41586-023-06585-5)
 * [2023-09-28, 08:12:08](https://news.ycombinator.com/item?id=37686753) - [The creative agency of small projects](https://herman.bearblog.dev/the-creative-agency-of-small-projects/)
