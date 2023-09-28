@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
+* [2023-09-28, 17:16:18](https://news.ycombinator.com/item?id=37692679) - [Cloudflare and Meta Collaborate to Make Llama 2 Available Globally](https://www.cloudflare.com/press-releases/2023/cloudflare-and-meta-collaborate-to-make-llama-2-available-globally/)
 * [2023-09-28, 17:00:47](https://news.ycombinator.com/item?id=37692467) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37692467)
 * [2023-09-28, 16:52:54](https://news.ycombinator.com/item?id=37692335) - [Universities have disinvested from their presses just as much as their libraries](https://www.publicbooks.org/publishers-and-scholars-unite/)
 * [2023-09-28, 16:50:31](https://news.ycombinator.com/item?id=37692302) - [Switzerland has lost 10% of its glaciers in the last two years](https://www.euronews.com/green/2023/09/28/dramatic-acceleration-switzerland-has-lost-10-of-its-glaciers-in-the-last-two-years)

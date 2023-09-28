@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-28, 17:16:18](https://news.ycombinator.com/item?id=37692679) - [Cloudflare and Meta Collaborate to Make Llama 2 Available Globally](https://www.cloudflare.com/press-releases/2023/cloudflare-and-meta-collaborate-to-make-llama-2-available-globally/)
 * [2023-09-28, 17:00:47](https://news.ycombinator.com/item?id=37692467) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37692467)
 * [2023-09-28, 16:52:54](https://news.ycombinator.com/item?id=37692335) - [Universities have disinvested from their presses just as much as their libraries](https://www.publicbooks.org/publishers-and-scholars-unite/)
 * [2023-09-28, 16:50:31](https://news.ycombinator.com/item?id=37692302) - [Switzerland has lost 10% of its glaciers in the last two years](https://www.euronews.com/green/2023/09/28/dramatic-acceleration-switzerland-has-lost-10-of-its-glaciers-in-the-last-two-years)
@@ -11,7 +12,6 @@
 * [2023-09-28, 15:20:03](https://news.ycombinator.com/item?id=37690867) - [Snap cuts 170 jobs after closing AR Enterprise service division](https://techcrunch.com/2023/09/27/snap-shutters-its-enterprise-services-division-after-less-than-a-year/)
 * [2023-09-28, 14:53:14](https://news.ycombinator.com/item?id=37690392) - [What if Planet 9 is a Primordial Black Hole? (2019)](https://arxiv.org/abs/1909.11090)
 * [2023-09-28, 14:22:30](https://news.ycombinator.com/item?id=37690002) - [Fairphone 4 with /e/OS by Murena now available at fairphone.com](https://shop.fairphone.com/fairphone-4-e-operating-system)
-* [2023-09-28, 14:19:18](https://news.ycombinator.com/item?id=37689960) - [Garbage In, Toxics Out](https://theintercept.com/2023/09/28/braven-plastic-recycling-toxic-waste/)
 * [2023-09-28, 13:28:01](https://news.ycombinator.com/item?id=37689312) - [Cloudflare is now powering Microsoft Edge Secure Network](https://blog.cloudflare.com/cloudflare-now-powering-microsoft-edge-secure-network/)
 * [2023-09-28, 12:48:14](https://news.ycombinator.com/item?id=37688887) - [FreeRDP: A remote desktop protocol implementation](https://www.freerdp.com/)
 * [2023-09-28, 11:57:18](https://news.ycombinator.com/item?id=37688314) - [Why are websites requesting access to motion sensors on my desktop? (2019)](https://grantwinney.com/websites-requesting-access-to-motion-sensors/)
