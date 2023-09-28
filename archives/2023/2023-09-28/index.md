@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
+* [2023-09-28, 18:15:43](https://news.ycombinator.com/item?id=37693463) - [Why Is TED Scared of Color Blindness?](https://www.thefp.com/p/coleman-hughes-is-ted-scared-of-color-blindness)
+* [2023-09-28, 17:57:22](https://news.ycombinator.com/item?id=37693221) - [Japanese scientists race to create human eggs and sperm in the lab](https://text.npr.org/1200105467)
+* [2023-09-28, 17:30:10](https://news.ycombinator.com/item?id=37692857) - [To Knock an Elephant Off Balance, Bring Out a Giant Blindfold](https://www.nytimes.com/2023/09/26/science/elephants-blindfold-walking.html)
 * [2023-09-28, 17:27:36](https://news.ycombinator.com/item?id=37692832) - [Show HN: Abuse inflight WiFi APIs to track your flight](https://github.com/NalinPlad/OuterFlightTracker)
 * [2023-09-28, 17:26:55](https://news.ycombinator.com/item?id=37692825) - [DHS uses travel as pretext for search of researcher and journalist](https://papersplease.org/wp/2023/09/28/dhs-uses-travel-as-pretext-for-search-of-researcher-and-journalist/)
 * [2023-09-28, 17:18:48](https://news.ycombinator.com/item?id=37692721) - [Internal Emails Show Food Delivery Robots Are Feeding Camera Footage to LAPD](https://www.404media.co/serve-food-delivery-robots-are-feeding-camera-footage-to-the-lapd-internal-emails-show/)
