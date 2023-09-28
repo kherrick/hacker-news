@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
 * [2023-09-28, 14:27:42](https://news.ycombinator.com/item?id=37690080) - [OpenAI and Jony Ive in talks to raise $1B from SoftBank for AI device venture](https://www.ft.com/content/4c64ffc1-f57b-4e22-a4a5-f9f90a7419b7)
+* [2023-09-28, 14:24:39](https://news.ycombinator.com/item?id=37690035) - [X CEO Says Platform Should Turn Profit in 2024](https://www.wsj.com/tech/x-ceo-linda-yaccarino-says-platform-should-turn-profit-in-2024-8575a1c)
 * [2023-09-28, 14:22:30](https://news.ycombinator.com/item?id=37690002) - [Fairphone 4 with /e/OS by Murena now available at fairphone.com](https://shop.fairphone.com/fairphone-4-e-operating-system)
 * [2023-09-28, 14:19:18](https://news.ycombinator.com/item?id=37689960) - [Garbage In, Toxics Out](https://theintercept.com/2023/09/28/braven-plastic-recycling-toxic-waste/)
 * [2023-09-28, 14:19:17](https://news.ycombinator.com/item?id=37689959) - [Very high number of workplace accidents at Tesla factory in Germany](https://globeecho.com/news/europe/germany/a-striking-number-of-work-accidents-in-the-tesla-factory-in-grunheide/)
