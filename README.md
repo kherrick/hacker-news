@@ -8,7 +8,7 @@
 * [2023-09-28, 10:51:12](https://news.ycombinator.com/item?id=37687783) - [Leased solar systems are failing across America](https://time.com/6317339/rooftop-solar-power-failure/)
 * [2023-09-28, 08:57:52](https://news.ycombinator.com/item?id=37687060) - [That's a Lot of YAML](https://noyaml.com/)
 * [2023-09-28, 08:43:48](https://news.ycombinator.com/item?id=37686977) - [Inhibition of fatty acid oxidation enables heart regeneration in adult mice](https://www.nature.com/articles/s41586-023-06585-5)
-* [2023-09-28, 07:29:15](https://news.ycombinator.com/item?id=37686456) - [We finally know for sure what a trilobite ate. Trilobite found with full stomach](https://arstechnica.com/science/2023/09/we-finally-know-for-sure-what-a-trilobite-ate/)
+* [2023-09-28, 07:29:15](https://news.ycombinator.com/item?id=37686456) - [A trilobite found with a full stomach](https://arstechnica.com/science/2023/09/we-finally-know-for-sure-what-a-trilobite-ate/)
 * [2023-09-28, 06:38:52](https://news.ycombinator.com/item?id=37686121) - [As We May Think (1945)](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 * [2023-09-28, 06:08:47](https://news.ycombinator.com/item?id=37685885) - [Why do cats love boxes so much?](https://www.discovermagazine.com/planet-earth/why-do-cats-love-boxes-so-much)
 * [2023-09-28, 05:39:35](https://news.ycombinator.com/item?id=37685653) - [Interactive GCC (igcc) is a read-eval-print loop (REPL) for C/C++](https://github.com/alexandru-dinu/igcc)
