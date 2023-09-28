@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-09-28, 20:22:31",
-      "https://news.ycombinator.com/item?id=37695290"
+      "2023-09-28, 20:19:26",
+      "https://news.ycombinator.com/item?id=37695245"
     ],
     [
-      "CVE-2023-42793 Vulnerability in TeamCity: Post-Mortem",
-      "https://blog.jetbrains.com/teamcity/2023/09/cve-2023-42793-vulnerability-post-mortem/"
+      "Dictionary of Algorithms and Data Structures",
+      "https://xlinux.nist.gov/dads/"
     ]
   ],
   [
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=37694524"
     ],
     [
-      "BingGPT is now infested with malware",
+      "Bing Chat responses infiltrated by ads pushing malware",
       "https://www.bleepingcomputer.com/news/security/bing-chat-responses-infiltrated-by-ads-pushing-malware/"
     ]
   ],
@@ -61,12 +61,12 @@
   ],
   [
     [
-      "2023-09-28, 19:03:50",
-      "https://news.ycombinator.com/item?id=37694118"
+      "2023-09-28, 19:17:33",
+      "https://news.ycombinator.com/item?id=37694333"
     ],
     [
-      "Winklevoss twins secretely withdrew $280M in assets before crypto firm collapsed",
-      "https://nypost.com/2023/09/27/winklevoss-twins-secretly-withdrew-282m-in-gemini-assets-before-genesis-collapse-sources/"
+      "Amtrak Explorer",
+      "https://amtrakexplorer.com/"
     ]
   ],
   [
@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2023-09-28, 14:53:14",
+      "https://news.ycombinator.com/item?id=37690392"
+    ],
+    [
+      "What if Planet 9 is a Primordial Black Hole? (2019)",
+      "https://arxiv.org/abs/1909.11090"
+    ]
+  ],
+  [
+    [
       "2023-09-28, 14:51:34",
       "https://news.ycombinator.com/item?id=37690372"
     ],
@@ -171,22 +181,22 @@
   ],
   [
     [
+      "2023-09-28, 14:48:51",
+      "https://news.ycombinator.com/item?id=37690320"
+    ],
+    [
+      "Reduce coding's cognitive load–code in the debugger",
+      "https://tidyfirst.substack.com/p/coding-in-the-debugger"
+    ]
+  ],
+  [
+    [
       "2023-09-28, 14:23:24",
       "https://news.ycombinator.com/item?id=37690023"
     ],
     [
       "Mr. Benedum’s Will (1957)",
       "https://benedum.org/about-us/mr-benedums-will/"
-    ]
-  ],
-  [
-    [
-      "2023-09-28, 13:28:01",
-      "https://news.ycombinator.com/item?id=37689312"
-    ],
-    [
-      "Cloudflare is now powering Microsoft Edge Secure Network",
-      "https://blog.cloudflare.com/cloudflare-now-powering-microsoft-edge-secure-network/"
     ]
   ],
   [
@@ -255,7 +265,7 @@
       "https://news.ycombinator.com/item?id=37686633"
     ],
     [
-      "The Saga of the Closure Compiler, and Why TypeScript Won",
+      "The saga of the Closure compiler, and why TypeScript won",
       "https://effectivetypescript.com/2023/09/27/closure-compiler/"
     ]
   ],
@@ -267,16 +277,6 @@
     [
       "As We May Think (1945)",
       "https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/"
-    ]
-  ],
-  [
-    [
-      "2023-09-28, 05:40:51",
-      "https://news.ycombinator.com/item?id=37685662"
-    ],
-    [
-      "A Comparison of ARM Cortex-A Series Processor Performance Classifications",
-      "https://www.forlinx.net//industrial-news/arm-cortex-a-series-processor-performance-344.html"
     ]
   ],
   [
