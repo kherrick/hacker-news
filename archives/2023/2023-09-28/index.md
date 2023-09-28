@@ -13,6 +13,7 @@
 * [2023-09-28, 10:59:01](https://news.ycombinator.com/item?id=37687846) - [WebGPU Technical Report](https://chromium.googlesource.com/chromium/src/+/main/docs/security/research/graphics/webgpu_technical_report.md)
 * [2023-09-28, 10:57:09](https://news.ycombinator.com/item?id=37687825) - [Google Erects Cone of Silence Around Antitrust Case](https://prospect.org/justice/2023-09-26-google-erects-cone-of-silence-around-antitrust-case/)
 * [2023-09-28, 10:53:01](https://news.ycombinator.com/item?id=37687798) - [Ask HN: Lessons learned from implementing user-facing analytics / dashboards?](https://news.ycombinator.com/item?id=37687798)
+* [2023-09-28, 10:51:12](https://news.ycombinator.com/item?id=37687783) - [Leased solar systems are failing across America](https://time.com/6317339/rooftop-solar-power-failure/)
 * [2023-09-28, 10:38:22](https://news.ycombinator.com/item?id=37687699) - [Chomsky Explains Why Nobody Is a Moral Relativist, Even Michel Foucault](https://www.openculture.com/2023/09/noam-chomsky-explains-why-nobody-is-really-a-moral-relativist-even-michel-foucault.html)
 * [2023-09-28, 09:57:47](https://news.ycombinator.com/item?id=37687418) - [McMurdo bans alcohol after harassment claims](https://apnews.com/article/antarctica-base-alcohol-ban-sexual-assault-9a942ef7c552fa7ad54c872f3138ae4f)
 * [2023-09-28, 08:57:52](https://news.ycombinator.com/item?id=37687060) - [That's a Lot of YAML](https://noyaml.com/)
