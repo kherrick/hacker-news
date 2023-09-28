@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-28, 21:50:55",
+      "https://news.ycombinator.com/item?id=37696362"
+    ],
+    [
+      "New California law raises minimum wage for fast food workers to $20 per hour",
+      "https://apnews.com/article/california-minimum-wage-increase-fast-food-newsom-69c26b7f07f2647149c37677446cea30"
+    ]
+  ],
+  [
+    [
       "2023-09-28, 21:18:35",
       "https://news.ycombinator.com/item?id=37696014"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
+      "2023-09-28, 21:05:55",
+      "https://news.ycombinator.com/item?id=37695841"
+    ],
+    [
+      "Yelp sues Texas for right to publish actual accurate abortion info",
+      "https://www.theregister.com/2023/09/28/yelp_paxton_abortion/"
+    ]
+  ],
+  [
+    [
       "2023-09-28, 20:41:30",
       "https://news.ycombinator.com/item?id=37695530"
     ],
     [
       "Show HN: Generative Fill with AI and 3D",
       "https://github.com/fill3d/fill"
-    ]
-  ],
-  [
-    [
-      "2023-09-28, 20:22:31",
-      "https://news.ycombinator.com/item?id=37695290"
-    ],
-    [
-      "CVE-2023-42793 Vulnerability in TeamCity: Post-Mortem",
-      "https://blog.jetbrains.com/teamcity/2023/09/cve-2023-42793-vulnerability-post-mortem/"
     ]
   ],
   [
@@ -75,18 +85,8 @@
       "https://news.ycombinator.com/item?id=37694910"
     ],
     [
-      "NES Module for VCV Rack",
+      "RackNES: NES Module for VCV Rack",
       "https://github.com/Kautenja/RackNES"
-    ]
-  ],
-  [
-    [
-      "2023-09-28, 19:41:19",
-      "https://news.ycombinator.com/item?id=37694701"
-    ],
-    [
-      "Ask HN: How do your ML teams version datasets and models?",
-      "https://news.ycombinator.com/item?id=37694701"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-09-28, 14:23:24",
-      "https://news.ycombinator.com/item?id=37690023"
-    ],
-    [
-      "Mr. Benedum’s Will (1957)",
-      "https://benedum.org/about-us/mr-benedums-will/"
-    ]
-  ],
-  [
-    [
       "2023-09-28, 13:25:29",
       "https://news.ycombinator.com/item?id=37689282"
     ],
@@ -267,6 +257,16 @@
     [
       "Chomsky explains why nobody is a moral relativist",
       "https://www.openculture.com/2023/09/noam-chomsky-explains-why-nobody-is-really-a-moral-relativist-even-michel-foucault.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-28, 09:10:00",
+      "https://news.ycombinator.com/item?id=37687134"
+    ],
+    [
+      "Making Gaussian Splats more smaller",
+      "https://aras-p.info/blog/2023/09/27/Making-Gaussian-Splats-more-smaller/"
     ]
   ],
   [
