@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-28, 20:41:30](https://news.ycombinator.com/item?id=37695530) - [Show HN: Generative Fill with AI and 3D](https://github.com/fill3d/fill)
+* [2023-09-28, 20:22:31](https://news.ycombinator.com/item?id=37695290) - [CVE-2023-42793 Vulnerability in TeamCity: Post-Mortem](https://blog.jetbrains.com/teamcity/2023/09/cve-2023-42793-vulnerability-post-mortem/)
 * [2023-09-28, 20:19:26](https://news.ycombinator.com/item?id=37695245) - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
 * [2023-09-28, 20:13:28](https://news.ycombinator.com/item?id=37695165) - [Crux: Cross-platform app development in Rust](https://redbadger.github.io/crux/)
 * [2023-09-28, 20:12:31](https://news.ycombinator.com/item?id=37695154) - [Docker Hub Registry timming out](https://www.dockerstatus.com/)
@@ -28,7 +29,6 @@
 * [2023-09-28, 10:38:22](https://news.ycombinator.com/item?id=37687699) - [Chomsky explains why nobody is a moral relativist](https://www.openculture.com/2023/09/noam-chomsky-explains-why-nobody-is-really-a-moral-relativist-even-michel-foucault.html)
 * [2023-09-28, 07:56:44](https://news.ycombinator.com/item?id=37686641) - [Upcycled Bicycle Panniers DIY](https://rackhackers.com/)
 * [2023-09-28, 07:55:38](https://news.ycombinator.com/item?id=37686633) - [The saga of the Closure compiler, and why TypeScript won](https://effectivetypescript.com/2023/09/27/closure-compiler/)
-* [2023-09-28, 06:38:52](https://news.ycombinator.com/item?id=37686121) - [As We May Think (1945)](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 * [2023-09-28, 05:29:21](https://news.ycombinator.com/item?id=37685580) - [Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/)
 
 ## [Archives](archives/index.md)
