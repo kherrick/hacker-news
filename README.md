@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-28, 02:53:50](https://news.ycombinator.com/item?id=37684624) - ['No Way to Prevent This,' Says Only Nation Where This Regularly Happens](https://en.wikipedia.org/wiki/%27No_Way_to_Prevent_This,%27_Says_Only_Nation_Where_This_Regularly_Happens)
 * [2023-09-28, 01:44:27](https://news.ycombinator.com/item?id=37684146) - [Detect Quakes with “Raspberry Shakes”](https://spectrum.ieee.org/diy-seismometer)
 * [2023-09-28, 01:27:32](https://news.ycombinator.com/item?id=37684026) - [Ask HN: How do you store devices with Lithium-Ion batteries for long-term?](https://news.ycombinator.com/item?id=37684026)
 * [2023-09-28, 01:27:21](https://news.ycombinator.com/item?id=37684023) - [Is There Sunken Treasure Beneath Hell Gate in NYC?](https://www.atlasobscura.com/articles/sunken-treasure-hell-gate-new-york-east-river)
@@ -19,6 +18,7 @@
 * [2023-09-27, 18:09:29](https://news.ycombinator.com/item?id=37678714) - [OpenBSD PF versus FreeBSD PF](https://mwl.io/archives/23127)
 * [2023-09-27, 17:37:04](https://news.ycombinator.com/item?id=37678181) - [The Tao of Programming (1987)](https://www.mit.edu/~xela/tao.html)
 * [2023-09-27, 16:13:37](https://news.ycombinator.com/item?id=37676880) - [The Ashley Book of Knots (1944)](https://archive.org/details/TheAshleyBookOfKnots)
+* [2023-09-27, 15:45:58](https://news.ycombinator.com/item?id=37676393) - [Live near your friends](https://headlineshq.substack.com/p/issue-no-029-live-near-your-friends)
 * [2023-09-27, 14:52:46](https://news.ycombinator.com/item?id=37675496) - [Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/)
 * [2023-09-27, 14:50:55](https://news.ycombinator.com/item?id=37675465) - [Show HN: Nav – A terminal navigator for interactive `ls` workflows](https://github.com/dkaslovsky/nav)
 * [2023-09-27, 14:17:13](https://news.ycombinator.com/item?id=37675003) - [JWST discovers massive and compact quiescent galaxy](https://phys.org/news/2023-09-jwst-massive-compact-quiescent-galaxy.html)
