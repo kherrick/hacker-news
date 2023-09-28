@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2023-09-28, 16:01:49",
-      "https://news.ycombinator.com/item?id=37691547"
-    ],
-    [
-      "What codegen is good for",
-      "https://www.figma.com/blog/what-codegen-is-actually-good-for/#aAkZ9"
-    ]
-  ],
-  [
-    [
       "2023-09-28, 15:42:05",
       "https://news.ycombinator.com/item?id=37691232"
     ],
@@ -211,16 +201,6 @@
   ],
   [
     [
-      "2023-09-28, 14:23:24",
-      "https://news.ycombinator.com/item?id=37690023"
-    ],
-    [
-      "Mr. Benedum’s Will (1957)",
-      "https://benedum.org/about-us/mr-benedums-will/"
-    ]
-  ],
-  [
-    [
       "2023-09-28, 13:25:29",
       "https://news.ycombinator.com/item?id=37689282"
     ],
@@ -237,6 +217,16 @@
     [
       "FreeRDP: A remote desktop protocol implementation",
       "https://www.freerdp.com/"
+    ]
+  ],
+  [
+    [
+      "2023-09-28, 12:00:22",
+      "https://news.ycombinator.com/item?id=37688341"
+    ],
+    [
+      "How async/await works internally in Swift",
+      "https://swiftrocks.com/how-async-await-works-internally-in-swift"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Raspberry Pi 5",
       "https://www.raspberrypi.com/products/raspberry-pi-5/"
+    ]
+  ],
+  [
+    [
+      "2023-09-27, 22:27:11",
+      "https://news.ycombinator.com/item?id=37682273"
+    ],
+    [
+      "Lisp Badge LE",
+      "http://www.technoblogy.com/show?3Z2Y"
     ]
   ]
 ]
