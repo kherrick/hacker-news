@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-28, 10:59:01](https://news.ycombinator.com/item?id=37687846) - [WebGPU Technical Report](https://chromium.googlesource.com/chromium/src/+/main/docs/security/research/graphics/webgpu_technical_report.md)
 * [2023-09-28, 10:57:09](https://news.ycombinator.com/item?id=37687825) - [Google Erects Cone of Silence Around Antitrust Case](https://prospect.org/justice/2023-09-26-google-erects-cone-of-silence-around-antitrust-case/)
 * [2023-09-28, 10:53:01](https://news.ycombinator.com/item?id=37687798) - [Ask HN: Lessons learned from implementing user-facing analytics / dashboards?](https://news.ycombinator.com/item?id=37687798)
 * [2023-09-28, 08:57:52](https://news.ycombinator.com/item?id=37687060) - [That's a Lot of YAML](https://noyaml.com/)
@@ -20,7 +21,6 @@
 * [2023-09-27, 22:27:11](https://news.ycombinator.com/item?id=37682273) - [Lisp Badge LE](http://www.technoblogy.com/show?3Z2Y)
 * [2023-09-27, 20:51:09](https://news.ycombinator.com/item?id=37681127) - [Naturalists Unknown: Lives marked by discovery and erasure](https://theamericanscholar.org/naturalists-unknown/)
 * [2023-09-27, 20:41:43](https://news.ycombinator.com/item?id=37681004) - [Desalination system could produce freshwater that is cheaper than tap water](https://news.mit.edu/2023/desalination-system-could-produce-freshwater-cheaper-0927)
-* [2023-09-27, 20:01:48](https://news.ycombinator.com/item?id=37680449) - [DAWproject: Open exchange format for DAWs](https://github.com/bitwig/dawproject)
 * [2023-09-27, 19:56:07](https://news.ycombinator.com/item?id=37680358) - [Is the Physics of Time Changing?](https://www.wired.com/story/physics-of-time-actually-changing/)
 * [2023-09-27, 19:02:02](https://news.ycombinator.com/item?id=37679584) - [Observation of the effect of gravity on the motion of antimatter](https://www.nature.com/articles/s41586-023-06527-1)
 * [2023-09-27, 18:18:33](https://news.ycombinator.com/item?id=37678860) - [Ray-Ban Meta Smart Glasses](https://www.meta.com/smart-glasses/)
