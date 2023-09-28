@@ -1,15 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-28, 18:15:43](https://news.ycombinator.com/item?id=37693463) - [Why Is TED Scared of Color Blindness?](https://www.thefp.com/p/coleman-hughes-is-ted-scared-of-color-blindness)
 * [2023-09-28, 17:57:22](https://news.ycombinator.com/item?id=37693221) - [Japanese scientists race to create human eggs and sperm in the lab](https://text.npr.org/1200105467)
 * [2023-09-28, 17:30:10](https://news.ycombinator.com/item?id=37692857) - [To Knock an Elephant Off Balance, Bring Out a Giant Blindfold](https://www.nytimes.com/2023/09/26/science/elephants-blindfold-walking.html)
 * [2023-09-28, 17:26:55](https://news.ycombinator.com/item?id=37692825) - [DHS uses travel as pretext for search of researcher and journalist](https://papersplease.org/wp/2023/09/28/dhs-uses-travel-as-pretext-for-search-of-researcher-and-journalist/)
-* [2023-09-28, 17:16:18](https://news.ycombinator.com/item?id=37692679) - [Cloudflare and Meta Collaborate to Make Llama 2 Available Globally](https://www.cloudflare.com/press-releases/2023/cloudflare-and-meta-collaborate-to-make-llama-2-available-globally/)
 * [2023-09-28, 17:00:47](https://news.ycombinator.com/item?id=37692467) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37692467)
 * [2023-09-28, 16:52:54](https://news.ycombinator.com/item?id=37692335) - [Universities have disinvested from their presses just as much as their libraries](https://www.publicbooks.org/publishers-and-scholars-unite/)
 * [2023-09-28, 16:50:31](https://news.ycombinator.com/item?id=37692302) - [Switzerland has lost 10% of its glaciers in the last two years](https://www.euronews.com/green/2023/09/28/dramatic-acceleration-switzerland-has-lost-10-of-its-glaciers-in-the-last-two-years)
 * [2023-09-28, 16:41:42](https://news.ycombinator.com/item?id=37692166) - [RZK: Experimental proof assistant for synthetic ∞-categories](https://github.com/rzk-lang/rzk)
 * [2023-09-28, 16:01:49](https://news.ycombinator.com/item?id=37691547) - [What codegen is (actually) good for](https://www.figma.com/blog/what-codegen-is-actually-good-for/#aAkZ9)
+* [2023-09-28, 16:00:58](https://news.ycombinator.com/item?id=37691535) - [AI language models can exceed PNG and FLAC in lossless compression, says study](https://arstechnica.com/information-technology/2023/09/ai-language-models-can-exceed-png-and-flac-in-lossless-compression-says-study/)
 * [2023-09-28, 15:42:05](https://news.ycombinator.com/item?id=37691232) - [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/)
 * [2023-09-28, 15:31:03](https://news.ycombinator.com/item?id=37691057) - [Airliner Repair, 24/7 Boeing’s traveling fix-it team (2008)](https://www.smithsonianmag.com/air-space-magazine/airliner-repair-247-9974457/)
 * [2023-09-28, 15:20:03](https://news.ycombinator.com/item?id=37690867) - [Snap cuts 170 jobs after closing AR Enterprise service division](https://techcrunch.com/2023/09/27/snap-shutters-its-enterprise-services-division-after-less-than-a-year/)
@@ -30,6 +29,7 @@
 * [2023-09-28, 05:39:35](https://news.ycombinator.com/item?id=37685653) - [Interactive GCC (igcc) is a read-eval-print loop (REPL) for C/C++](https://github.com/alexandru-dinu/igcc)
 * [2023-09-28, 05:29:21](https://news.ycombinator.com/item?id=37685580) - [Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/)
 * [2023-09-28, 03:45:14](https://news.ycombinator.com/item?id=37684986) - [Why does trying to break into the NT 3.1 kernel reboot my 486DX4 machine?](https://retrocomputing.stackexchange.com/questions/19655/why-does-trying-to-break-into-the-nt-3-1-kernel-reboot-my-486dx4-machine)
+* [2023-09-27, 22:27:11](https://news.ycombinator.com/item?id=37682273) - [Lisp Badge LE](http://www.technoblogy.com/show?3Z2Y)
 
 ## [Archives](archives/index.md)
 
