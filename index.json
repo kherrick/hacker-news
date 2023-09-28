@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-09-28, 20:41:30",
+      "https://news.ycombinator.com/item?id=37695530"
+    ],
+    [
+      "Show HN: Ultra-Realistic Generative Fill with AI and 3D",
+      "https://github.com/fill3d/fill"
+    ]
+  ],
+  [
+    [
+      "2023-09-28, 20:22:31",
+      "https://news.ycombinator.com/item?id=37695290"
+    ],
+    [
+      "CVE-2023-42793 Vulnerability in TeamCity: Post-Mortem",
+      "https://blog.jetbrains.com/teamcity/2023/09/cve-2023-42793-vulnerability-post-mortem/"
+    ]
+  ],
+  [
+    [
       "2023-09-28, 20:19:26",
       "https://news.ycombinator.com/item?id=37695245"
     ],
     [
       "Dictionary of Algorithms and Data Structures",
       "https://xlinux.nist.gov/dads/"
+    ]
+  ],
+  [
+    [
+      "2023-09-28, 20:13:28",
+      "https://news.ycombinator.com/item?id=37695165"
+    ],
+    [
+      "Crux: Cross-platform app development in Rust",
+      "https://redbadger.github.io/crux/"
     ]
   ],
   [
@@ -87,16 +117,6 @@
     [
       "How were the signs for logical and arithmetic operators decided?",
       "https://retrocomputing.stackexchange.com/questions/27741/how-were-the-signs-for-logical-and-arithmetic-operators-decided"
-    ]
-  ],
-  [
-    [
-      "2023-09-28, 17:30:10",
-      "https://news.ycombinator.com/item?id=37692857"
-    ],
-    [
-      "Elephants rely on visual cues to maintain timing of their strides: study",
-      "https://www.nytimes.com/2023/09/26/science/elephants-blindfold-walking.html"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2023-09-28, 11:40:26",
-      "https://news.ycombinator.com/item?id=37688165"
-    ],
-    [
-      "Scientists unveil fire-safe fuel",
-      "https://news.ucr.edu/articles/2023/09/28/scientists-unveil-fire-safe-fuel"
-    ]
-  ],
-  [
-    [
       "2023-09-28, 10:59:01",
       "https://news.ycombinator.com/item?id=37687846"
     ],
@@ -287,16 +297,6 @@
     [
       "Raspberry Pi 5",
       "https://www.raspberrypi.com/products/raspberry-pi-5/"
-    ]
-  ],
-  [
-    [
-      "2023-09-27, 22:27:11",
-      "https://news.ycombinator.com/item?id=37682273"
-    ],
-    [
-      "Lisp Badge LE",
-      "http://www.technoblogy.com/show?3Z2Y"
     ]
   ]
 ]
