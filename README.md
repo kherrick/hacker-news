@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-28, 22:56:04](https://news.ycombinator.com/item?id=37697030) - [Discord as a filehost will no longer be possible by the end of the year](https://this.alicorn.gay/post/729670550209937408/discord-as-a-filehost-will-no-longer-be-possible)
 * [2023-09-28, 22:51:52](https://news.ycombinator.com/item?id=37696992) - [Bloomberg: Apple held talks with Microsoft about acquiring Bing in 2020](https://9to5mac.com/2023/09/28/bloomberg-apple-held-talks-with-microsoft-about-acquiring-bing-in-2020/)
 * [2023-09-28, 22:15:11](https://news.ycombinator.com/item?id=37696592) - [The Timer in WatchOS 10](https://furbo.org/2023/09/28/the-timer-in-watchos-10/)
-* [2023-09-28, 21:26:58](https://news.ycombinator.com/item?id=37696118) - [Caps Lock Behaviour Disabled in Gnome](https://popey.com/blog/2023/09/caps-lock-behaviour-disabled-in-gnome/)
+* [2023-09-28, 22:02:54](https://news.ycombinator.com/item?id=37696467) - [The comprehensive guide to writing the best PR title of all time](https://graphite.dev/blog/the-best-pr-title-of-all-time)
 * [2023-09-28, 20:41:30](https://news.ycombinator.com/item?id=37695530) - [Show HN: Generative Fill with AI and 3D](https://github.com/fill3d/fill)
 * [2023-09-28, 20:27:29](https://news.ycombinator.com/item?id=37695348) - [Jamboard Being Deprecated 2024](https://workspace.google.com/blog/product-announcements/next-phase-digital-whiteboarding)
 * [2023-09-28, 20:19:26](https://news.ycombinator.com/item?id=37695245) - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
@@ -21,7 +22,6 @@
 * [2023-09-28, 14:53:14](https://news.ycombinator.com/item?id=37690392) - [What if Planet 9 is a Primordial Black Hole? (2019)](https://arxiv.org/abs/1909.11090)
 * [2023-09-28, 14:51:34](https://news.ycombinator.com/item?id=37690372) - [Rewriting the history of syphilis](https://www.wired.com/story/a-medieval-french-skeleton-is-rewriting-the-history-of-syphilis/)
 * [2023-09-28, 14:48:51](https://news.ycombinator.com/item?id=37690320) - [Coding in the Debugger (2007)](https://tidyfirst.substack.com/p/coding-in-the-debugger)
-* [2023-09-28, 13:25:29](https://news.ycombinator.com/item?id=37689282) - [Tell HN: Enterprises spend 10x more to build no-code solutions than coded ones](https://news.ycombinator.com/item?id=37689282)
 * [2023-09-28, 12:48:14](https://news.ycombinator.com/item?id=37688887) - [FreeRDP: A remote desktop protocol implementation](https://www.freerdp.com/)
 * [2023-09-28, 12:00:22](https://news.ycombinator.com/item?id=37688341) - [How async/await works internally in Swift](https://swiftrocks.com/how-async-await-works-internally-in-swift)
 * [2023-09-28, 10:59:01](https://news.ycombinator.com/item?id=37687846) - [WebGPU Technical Report](https://chromium.googlesource.com/chromium/src/+/main/docs/security/research/graphics/webgpu_technical_report.md)
