@@ -2,7 +2,7 @@
 
 * [2023-09-28, 19:41:19](https://news.ycombinator.com/item?id=37694701) - [Ask HN: How do your ML teams version datasets and models?](https://news.ycombinator.com/item?id=37694701)
 * [2023-09-28, 19:28:40](https://news.ycombinator.com/item?id=37694524) - [BingGPT is now infested with malware](https://www.bleepingcomputer.com/news/security/bing-chat-responses-infiltrated-by-ads-pushing-malware/)
-* [2023-09-28, 19:23:04](https://news.ycombinator.com/item?id=37694414) - [LibrePCB – Create electronics the easy way](https://librepcb.org/)
+* [2023-09-28, 19:23:04](https://news.ycombinator.com/item?id=37694414) - [LibrePCB](https://librepcb.org/)
 * [2023-09-28, 19:17:33](https://news.ycombinator.com/item?id=37694333) - [Amtrak Explorer](https://amtrakexplorer.com/)
 * [2023-09-28, 19:03:50](https://news.ycombinator.com/item?id=37694118) - [Winklevoss twins secretely withdrew $280M in assets before crypto firm collapsed](https://nypost.com/2023/09/27/winklevoss-twins-secretly-withdrew-282m-in-gemini-assets-before-genesis-collapse-sources/)
 * [2023-09-28, 18:57:43](https://news.ycombinator.com/item?id=37694026) - [Conversation with Zuckerberg, this time we talked as photorealistic avatars](https://twitter.com/lexfridman/status/1707453830344868204)
