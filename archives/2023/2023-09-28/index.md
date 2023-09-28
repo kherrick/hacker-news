@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
+* [2023-09-28, 17:27:36](https://news.ycombinator.com/item?id=37692832) - [Show HN: Abuse inflight WiFi APIs to track your flight](https://github.com/NalinPlad/OuterFlightTracker)
+* [2023-09-28, 17:18:48](https://news.ycombinator.com/item?id=37692721) - [Internal Emails Show Food Delivery Robots Are Feeding Camera Footage to LAPD](https://www.404media.co/serve-food-delivery-robots-are-feeding-camera-footage-to-the-lapd-internal-emails-show/)
 * [2023-09-28, 17:16:18](https://news.ycombinator.com/item?id=37692679) - [Cloudflare and Meta Collaborate to Make Llama 2 Available Globally](https://www.cloudflare.com/press-releases/2023/cloudflare-and-meta-collaborate-to-make-llama-2-available-globally/)
 * [2023-09-28, 17:00:47](https://news.ycombinator.com/item?id=37692467) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37692467)
 * [2023-09-28, 16:52:54](https://news.ycombinator.com/item?id=37692335) - [Universities have disinvested from their presses just as much as their libraries](https://www.publicbooks.org/publishers-and-scholars-unite/)

@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-28, 17:27:36](https://news.ycombinator.com/item?id=37692832) - [Show HN: Abuse inflight WiFi APIs to track your flight](https://github.com/NalinPlad/OuterFlightTracker)
+* [2023-09-28, 17:18:48](https://news.ycombinator.com/item?id=37692721) - [Internal Emails Show Food Delivery Robots Are Feeding Camera Footage to LAPD](https://www.404media.co/serve-food-delivery-robots-are-feeding-camera-footage-to-the-lapd-internal-emails-show/)
 * [2023-09-28, 17:16:18](https://news.ycombinator.com/item?id=37692679) - [Cloudflare and Meta Collaborate to Make Llama 2 Available Globally](https://www.cloudflare.com/press-releases/2023/cloudflare-and-meta-collaborate-to-make-llama-2-available-globally/)
 * [2023-09-28, 17:00:47](https://news.ycombinator.com/item?id=37692467) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37692467)
 * [2023-09-28, 16:52:54](https://news.ycombinator.com/item?id=37692335) - [Universities have disinvested from their presses just as much as their libraries](https://www.publicbooks.org/publishers-and-scholars-unite/)
 * [2023-09-28, 16:50:31](https://news.ycombinator.com/item?id=37692302) - [Switzerland has lost 10% of its glaciers in the last two years](https://www.euronews.com/green/2023/09/28/dramatic-acceleration-switzerland-has-lost-10-of-its-glaciers-in-the-last-two-years)
 * [2023-09-28, 16:41:42](https://news.ycombinator.com/item?id=37692166) - [RZK: Experimental proof assistant for synthetic ∞-categories](https://github.com/rzk-lang/rzk)
 * [2023-09-28, 16:01:49](https://news.ycombinator.com/item?id=37691547) - [What codegen is (actually) good for](https://www.figma.com/blog/what-codegen-is-actually-good-for/#aAkZ9)
-* [2023-09-28, 15:50:59](https://news.ycombinator.com/item?id=37691367) - [Why Do Nigerian Scammers Say They Are from Nigeria? [pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/WhyFromNigeria.pdf)
 * [2023-09-28, 15:42:05](https://news.ycombinator.com/item?id=37691232) - [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/)
 * [2023-09-28, 15:31:03](https://news.ycombinator.com/item?id=37691057) - [Airliner Repair, 24/7 Boeing’s traveling fix-it team (2008)](https://www.smithsonianmag.com/air-space-magazine/airliner-repair-247-9974457/)
 * [2023-09-28, 15:20:03](https://news.ycombinator.com/item?id=37690867) - [Snap cuts 170 jobs after closing AR Enterprise service division](https://techcrunch.com/2023/09/27/snap-shutters-its-enterprise-services-division-after-less-than-a-year/)
@@ -28,7 +29,6 @@
 * [2023-09-28, 04:53:08](https://news.ycombinator.com/item?id=37685375) - [Prophetic Perfect Tense](https://en.wikipedia.org/wiki/Prophetic_perfect_tense)
 * [2023-09-28, 03:45:14](https://news.ycombinator.com/item?id=37684986) - [Why does trying to break into the NT 3.1 kernel reboot my 486DX4 machine?](https://retrocomputing.stackexchange.com/questions/19655/why-does-trying-to-break-into-the-nt-3-1-kernel-reboot-my-486dx4-machine)
 * [2023-09-27, 22:27:11](https://news.ycombinator.com/item?id=37682273) - [Lisp Badge LE](http://www.technoblogy.com/show?3Z2Y)
-* [2023-09-27, 20:56:24](https://news.ycombinator.com/item?id=37681185) - [Function Composition in Programming Languages [video]](https://www.youtube.com/watch?v=JELcdZLre3s)
 * [2023-09-27, 11:28:31](https://news.ycombinator.com/item?id=37673127) - [Uiua: A minimal stack-based, array-based language](https://www.uiua.org/)
 
 ## [Archives](archives/index.md)
