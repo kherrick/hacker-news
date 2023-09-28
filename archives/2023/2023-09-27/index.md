@@ -74,6 +74,7 @@
 * [2023-09-27, 12:01:43](https://news.ycombinator.com/item?id=37673413) - [Google judge rules trial documents can be posted by U.S. online](https://www.bloomberg.com/news/articles/2023-09-26/google-judge-rules-trial-documents-can-be-posted-by-us-online)
 * [2023-09-27, 12:01:18](https://news.ycombinator.com/item?id=37673409) - [First Impressions with GPT-4V(ision)](https://blog.roboflow.com/gpt-4-vision/)
 * [2023-09-27, 11:48:36](https://news.ycombinator.com/item?id=37673300) - [Be My Eyes’ AI assistant starts rolling out](https://www.bemyeyes.com/blog/announcing-be-my-ai)
+* [2023-09-27, 11:45:22](https://news.ycombinator.com/item?id=37673271) - [Techniques in Persuasion from Antiquity](https://www.thecollector.com/persuasive-technques-antiquity/)
 * [2023-09-27, 11:28:31](https://news.ycombinator.com/item?id=37673127) - [Uiua: A minimal stack-based, array-based language](https://www.uiua.org/)
 * [2023-09-27, 11:02:21](https://news.ycombinator.com/item?id=37672937) - [Building a defence startup: 6 lessons I’ve learned](https://medium.com/@ErikKannike/building-a-defence-startup-6-lessons-ive-learned-11619b3a514e)
 * [2023-09-27, 10:50:09](https://news.ycombinator.com/item?id=37672852) - [Applied Category Theory Course](https://math.ucr.edu/home/baez/act_course/)
