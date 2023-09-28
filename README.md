@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-28, 07:29:15](https://news.ycombinator.com/item?id=37686456) - [We finally know for sure what a trilobite ate. Trilobite found with full stomach](https://arstechnica.com/science/2023/09/we-finally-know-for-sure-what-a-trilobite-ate/)
 * [2023-09-28, 06:08:47](https://news.ycombinator.com/item?id=37685885) - [Why Do Cats Love Boxes So Much?](https://www.discovermagazine.com/planet-earth/why-do-cats-love-boxes-so-much)
 * [2023-09-28, 05:46:10](https://news.ycombinator.com/item?id=37685706) - [The German group buying ticket dodgers out of prison](https://www.bbc.com/news/world-europe-66664823)
 * [2023-09-28, 05:39:35](https://news.ycombinator.com/item?id=37685653) - [Interactive GCC (igcc) is a read-eval-print loop (REPL) for C/C++](https://github.com/alexandru-dinu/igcc)
@@ -25,7 +26,6 @@
 * [2023-09-27, 11:45:22](https://news.ycombinator.com/item?id=37673271) - [Techniques in Persuasion from Antiquity](https://www.thecollector.com/persuasive-technques-antiquity/)
 * [2023-09-27, 11:28:31](https://news.ycombinator.com/item?id=37673127) - [Uiua: A minimal stack-based, array-based language](https://www.uiua.org/)
 * [2023-09-27, 10:50:09](https://news.ycombinator.com/item?id=37672852) - [Applied Category Theory Course](https://math.ucr.edu/home/baez/act_course/)
-* [2023-09-27, 10:08:43](https://news.ycombinator.com/item?id=37672604) - [Why’s that company so big? I could do that in a weekend (2016)](http://danluu.com/sounds-easy/)
 * [2023-09-27, 01:41:53](https://news.ycombinator.com/item?id=37668687) - [Biomolecular analysis of early Viking Age hair combs from Hedeby](https://www.cambridge.org/core/journals/antiquity/article/in-the-footsteps-of-ohthere-biomolecular-analysis-of-early-viking-age-hair-combs-from-hedeby-haithabu/5200C00F0D7CED6850921343AF1F89C8)
 * [2023-09-26, 19:30:27](https://news.ycombinator.com/item?id=37664657) - [Taking the Plunge: The history and context of Venice’s annual Wedding to the Sea](https://www.laphamsquarterly.org/roundtable/taking-plunge)
 * [2023-09-26, 13:04:48](https://news.ycombinator.com/item?id=37658686) - [Show HN: The Tomb of Ramesses I in the Valley of the Kings](https://mused.org/en/tours/730/the-tomb-of-ramesses-i)
