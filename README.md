@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-28, 03:56:39](https://news.ycombinator.com/item?id=37685073) - [Rasperry Pi 5 Specs and Images Leaked from Element14?](https://www.tech-knowhow.com/2023/09/rasperry-pi-5-specs-and-images-leaked-from-element14/)
+* [2023-09-28, 03:45:14](https://news.ycombinator.com/item?id=37684986) - [Why does trying to break into the NT 3.1 kernel reboot my 486DX4 machine?](https://retrocomputing.stackexchange.com/questions/19655/why-does-trying-to-break-into-the-nt-3-1-kernel-reboot-my-486dx4-machine)
 * [2023-09-28, 01:44:27](https://news.ycombinator.com/item?id=37684146) - [Detect Quakes with “Raspberry Shakes”](https://spectrum.ieee.org/diy-seismometer)
 * [2023-09-28, 01:27:32](https://news.ycombinator.com/item?id=37684026) - [Ask HN: How do you store devices with Lithium-Ion batteries for long-term?](https://news.ycombinator.com/item?id=37684026)
-* [2023-09-28, 01:27:21](https://news.ycombinator.com/item?id=37684023) - [Is There Sunken Treasure Beneath Hell Gate in NYC?](https://www.atlasobscura.com/articles/sunken-treasure-hell-gate-new-york-east-river)
 * [2023-09-28, 00:50:52](https://news.ycombinator.com/item?id=37683749) - [How many animals get slaughtered every day?](https://ourworldindata.org/how-many-animals-get-slaughtered-every-day)
 * [2023-09-27, 23:29:17](https://news.ycombinator.com/item?id=37682938) - [Safely open apps on your Mac](https://support.apple.com/en-us/HT202491)
 * [2023-09-27, 23:27:05](https://news.ycombinator.com/item?id=37682912) - [There's a mechanical watch feature called a “hack”](https://hachyderm.io/@danderson/111136144708450117)
@@ -27,7 +28,6 @@
 * [2023-09-27, 11:28:31](https://news.ycombinator.com/item?id=37673127) - [Uiua: A minimal stack-based, array-based language](https://www.uiua.org/)
 * [2023-09-27, 10:50:09](https://news.ycombinator.com/item?id=37672852) - [Applied Category Theory Course](https://math.ucr.edu/home/baez/act_course/)
 * [2023-09-27, 10:08:43](https://news.ycombinator.com/item?id=37672604) - [Why’s that company so big? I could do that in a weekend (2016)](http://danluu.com/sounds-easy/)
-* [2023-09-27, 08:37:39](https://news.ycombinator.com/item?id=37671821) - [Show HN: Use ChatGPT with Apple Shortcuts](https://meetcopilot.app/)
 * [2023-09-26, 13:04:48](https://news.ycombinator.com/item?id=37658686) - [Show HN: The Tomb of Ramesses I in the Valley of the Kings](https://mused.org/en/tours/730/the-tomb-of-ramesses-i)
 * [2023-09-25, 20:49:09](https://news.ycombinator.com/item?id=37650402) - [A journey into the shaken baby syndrome/abusive head trauma controversy](https://www.cambridgeblog.org/2023/05/a-journey-into-the-shaken-baby-syndrome-abusive-head-trauma-controversy/)
 
