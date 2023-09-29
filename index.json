@@ -71,36 +71,6 @@
   ],
   [
     [
-      "2023-09-29, 00:25:37",
-      "https://news.ycombinator.com/item?id=37697795"
-    ],
-    [
-      "Mozilla.social mastodon instance is live",
-      "https://mozilla.social"
-    ]
-  ],
-  [
-    [
-      "2023-09-28, 22:56:04",
-      "https://news.ycombinator.com/item?id=37697030"
-    ],
-    [
-      "Discord as a filehost will no longer be possible by the end of the year",
-      "https://this.alicorn.gay/post/729670550209937408/discord-as-a-filehost-will-no-longer-be-possible"
-    ]
-  ],
-  [
-    [
-      "2023-09-28, 22:02:54",
-      "https://news.ycombinator.com/item?id=37696467"
-    ],
-    [
-      "The comprehensive guide to writing the best PR title of all time",
-      "https://graphite.dev/blog/the-best-pr-title-of-all-time"
-    ]
-  ],
-  [
-    [
       "2023-09-28, 20:41:30",
       "https://news.ycombinator.com/item?id=37695530"
     ],
@@ -281,12 +251,42 @@
   ],
   [
     [
+      "2023-09-28, 09:10:00",
+      "https://news.ycombinator.com/item?id=37687134"
+    ],
+    [
+      "Making Gaussian Splats more smaller",
+      "https://aras-p.info/blog/2023/09/27/Making-Gaussian-Splats-more-smaller/"
+    ]
+  ],
+  [
+    [
+      "2023-09-28, 07:56:44",
+      "https://news.ycombinator.com/item?id=37686641"
+    ],
+    [
+      "Upcycled Bicycle Panniers DIY",
+      "https://rackhackers.com/"
+    ]
+  ],
+  [
+    [
       "2023-09-28, 07:55:38",
       "https://news.ycombinator.com/item?id=37686633"
     ],
     [
       "The saga of the Closure compiler, and why TypeScript won",
       "https://effectivetypescript.com/2023/09/27/closure-compiler/"
+    ]
+  ],
+  [
+    [
+      "2023-09-28, 07:19:18",
+      "https://news.ycombinator.com/item?id=37686400"
+    ],
+    [
+      "How to Reduce Memory Requirements with Product Quantization",
+      "https://weaviate.io/blog/pq-rescoring"
     ]
   ],
   [
