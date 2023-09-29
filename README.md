@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-29, 19:21:40](https://news.ycombinator.com/item?id=37708966) - [Localtunnel – Expose Yourself to the World](https://theboroer.github.io/localtunnel-www/)
 * [2023-09-29, 18:52:13](https://news.ycombinator.com/item?id=37708623) - [My elderly parents can't resist answering the phone](https://www.bogleheads.org/forum/viewtopic.php?t=413383)
 * [2023-09-29, 18:49:16](https://news.ycombinator.com/item?id=37708582) - [Show HN: Insomnium – 100% local and privacy-focus fork of Insomnia API client](https://github.com/ArchGPT/insomnium)
 * [2023-09-29, 18:27:55](https://news.ycombinator.com/item?id=37708292) - [Google RealFill: Authentic Image Completion Using Diffusion Models](https://realfill.github.io/)
-* [2023-09-29, 18:15:21](https://news.ycombinator.com/item?id=37708109) - [Homes “unaffordable” in 99% of nation for average American](https://www.cbsnews.com/news/homes-for-sale-affordable-housing-prices/)
 * [2023-09-29, 18:08:11](https://news.ycombinator.com/item?id=37708016) - [Have a complaint about CVS? So do pharmacists: Many just walked out](https://text.npr.org/1202365487)
 * [2023-09-29, 17:44:57](https://news.ycombinator.com/item?id=37707738) - [High-Resolution Lidar Images of Rivers and Deltas](https://kottke.org/23/09/stunning-high-resolution-lidar-images-of-rivers-deltas)
 * [2023-09-29, 17:05:45](https://news.ycombinator.com/item?id=37707119) - [I Tested an HDMI Adapter That Demands Your Location and Spams You with Ads](https://www.404media.co/i-tested-an-hdmi-adapter-that-demands-your-location-browsing-data-photos-and-spams-you-with-ads/)
@@ -16,7 +16,6 @@
 * [2023-09-29, 15:21:40](https://news.ycombinator.com/item?id=37705563) - [Three Arrows Capital co-founder Zhu arrested in Singapore airport](https://techcrunch.com/2023/09/29/three-arrows-capital-co-founder-zhu-arrested-in-singapore-airport-sentenced-four-months-in-prison/)
 * [2023-09-29, 14:45:10](https://news.ycombinator.com/item?id=37705078) - [A new era for Arecibo](https://www.nature.com/articles/d41586-023-03021-6)
 * [2023-09-29, 14:25:35](https://news.ycombinator.com/item?id=37704760) - [Show HN: RISC-V assembly tabletop board game (hack your opponent)](https://punkx.org/overflow/)
-* [2023-09-29, 14:14:54](https://news.ycombinator.com/item?id=37704593) - [Official U.S. government information about the Global Positioning System (GPS)](https://www.gps.gov/)
 * [2023-09-29, 12:53:15](https://news.ycombinator.com/item?id=37703323) - [Loadsharers: Funding the Load Bearing Internet People (2020)](https://esr.gitlab.io/loadsharers/)
 * [2023-09-29, 12:52:48](https://news.ycombinator.com/item?id=37703317) - [Rimac unveils ‘most technically advanced BESS in the world’, SineStack](https://www.energy-storage.news/rimac-unveils-most-technically-advanced-bess-in-the-world-sinestack/)
 * [2023-09-29, 12:51:22](https://news.ycombinator.com/item?id=37703291) - [Draggable objects](https://www.redblobgames.com/making-of/draggable/)
@@ -28,6 +27,7 @@
 * [2023-09-29, 11:18:20](https://news.ycombinator.com/item?id=37702059) - [Visual Node Graph with ImGui](https://gboisse.github.io/posts/node-graph/)
 * [2023-09-29, 08:30:03](https://news.ycombinator.com/item?id=37700847) - [Burning money on paid ads for a dev tool – what we've learned](https://posthog.com/blog/dev-marketing-paid-ads)
 * [2023-09-29, 02:51:31](https://news.ycombinator.com/item?id=37698768) - [Who Invented the Alphabet?](https://www.asor.org/anetoday/2023/08/who-invented-alphabet/)
+* [2023-09-29, 01:37:49](https://news.ycombinator.com/item?id=37698288) - [The recessive genes that make a carrot orange](https://phys.org/news/2023-09-recessive-genes-carrot-orange.html)
 * [2023-09-28, 19:02:16](https://news.ycombinator.com/item?id=37694094) - [Think Again, Al Jolson: Japan’s Silent Movie Culture Is Still Going Strong](https://petertasker.asia/articles/culture/think-again-al-jolson-japans-silent-movie-culture-is-still-going-strong/)
 * [2023-09-28, 15:42:05](https://news.ycombinator.com/item?id=37691232) - [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/)
 
