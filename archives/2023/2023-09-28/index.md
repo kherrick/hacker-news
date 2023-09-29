@@ -50,6 +50,7 @@
 * [2023-09-28, 16:00:58](https://news.ycombinator.com/item?id=37691535) - [AI language models can exceed PNG and FLAC in lossless compression, says study](https://arstechnica.com/information-technology/2023/09/ai-language-models-can-exceed-png-and-flac-in-lossless-compression-says-study/)
 * [2023-09-28, 15:50:59](https://news.ycombinator.com/item?id=37691367) - [Why Do Nigerian Scammers Say They Are from Nigeria? [pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/WhyFromNigeria.pdf)
 * [2023-09-28, 15:42:05](https://news.ycombinator.com/item?id=37691232) - [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/)
+* [2023-09-28, 15:35:16](https://news.ycombinator.com/item?id=37691138) - [Research reveals crows use statistical logic](https://arstechnica.com/p3/)
 * [2023-09-28, 15:31:03](https://news.ycombinator.com/item?id=37691057) - [Airliner Repair, 24/7 Boeing’s traveling fix-it team (2008)](https://www.smithsonianmag.com/air-space-magazine/airliner-repair-247-9974457/)
 * [2023-09-28, 15:20:03](https://news.ycombinator.com/item?id=37690867) - [Snap cuts 170 jobs after closing AR Enterprise service division](https://techcrunch.com/2023/09/27/snap-shutters-its-enterprise-services-division-after-less-than-a-year/)
 * [2023-09-28, 15:09:54](https://news.ycombinator.com/item?id=37690687) - [What a caste discrimination ban means for Americans](https://www.theguardian.com/us-news/2023/sep/27/california-caste-discrimination-law-south-asian-civil-rights)
