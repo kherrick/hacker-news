@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-29](index.md)
 
+* [2023-09-29, 09:08:17](https://news.ycombinator.com/item?id=37701117) - [Things Every Hacker Once Knew](http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/)
 * [2023-09-29, 09:05:48](https://news.ycombinator.com/item?id=37701098) - [Disclosure of Pirates’ Identities “Compatible with EU Privacy Laws”](https://torrentfreak.com/disclosure-of-pirates-identities-compatible-with-eu-privacy-laws-230929/)
 * [2023-09-29, 09:03:08](https://news.ycombinator.com/item?id=37701082) - [Linux interop is maturing fast thanks to a games console](https://www.theregister.com/2023/09/27/osseu_steam_os_3/)
 * [2023-09-29, 08:30:03](https://news.ycombinator.com/item?id=37700847) - [Burning money on paid ads for a dev tool – what we've learned](https://posthog.com/blog/dev-marketing-paid-ads)
