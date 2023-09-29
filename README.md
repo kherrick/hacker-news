@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-29, 15:21:40](https://news.ycombinator.com/item?id=37705563) - [Three Arrows Capital co-founder Zhu arrested in Singapore airport](https://techcrunch.com/2023/09/29/three-arrows-capital-co-founder-zhu-arrested-in-singapore-airport-sentenced-four-months-in-prison/)
 * [2023-09-29, 15:07:54](https://news.ycombinator.com/item?id=37705368) - [Privacy washing: Google claims to support privacy while lobbying against it](https://proton.me/blog/google-lobbying)
 * [2023-09-29, 14:45:10](https://news.ycombinator.com/item?id=37705078) - [A new era for Arecibo: legendary observatory begins next phase](https://www.nature.com/articles/d41586-023-03021-6)
 * [2023-09-29, 14:31:37](https://news.ycombinator.com/item?id=37704859) - [Norway wants Facebook behavioral advertising banned across Europe](https://www.theregister.com/2023/09/29/norway_facebook_behavioral_ads/)
@@ -25,7 +26,6 @@
 * [2023-09-29, 11:22:21](https://news.ycombinator.com/item?id=37702095) - [Everything authenticated by Microsoft is tainted](https://graz.social/@publicvoit/111147782761723981)
 * [2023-09-29, 11:18:20](https://news.ycombinator.com/item?id=37702059) - [Visual Node Graph with ImGui](https://gboisse.github.io/posts/node-graph/)
 * [2023-09-29, 10:32:05](https://news.ycombinator.com/item?id=37701691) - [Generating chess puzzles with generic algorithms (2022)](https://www.propelauth.com/post/generating-chess-puzzles-with-genetic-algorithms)
-* [2023-09-29, 09:23:06](https://news.ycombinator.com/item?id=37701222) - [Leaked screenshot shows Amazon now tracking individual employee attendance](https://www.businessinsider.com/amazon-forced-rto-tracking-employee-office-attendance-2023-9)
 * [2023-09-29, 08:30:03](https://news.ycombinator.com/item?id=37700847) - [Burning money on paid ads for a dev tool – what we've learned](https://posthog.com/blog/dev-marketing-paid-ads)
 * [2023-09-29, 06:07:37](https://news.ycombinator.com/item?id=37699851) - [Richard Stallman reveals he has cancer in the GNU 40 Hacker Meeting talk [video]](https://audio-video.gnu.org/video/gnu40/rms-gnu40.webm)
 * [2023-09-29, 02:47:42](https://news.ycombinator.com/item?id=37698740) - [JAX – NumPy on the CPU, GPU, and TPU](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
