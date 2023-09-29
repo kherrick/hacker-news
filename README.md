@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-29, 00:25:37](https://news.ycombinator.com/item?id=37697795) - [Mozilla.social is live and open to registration](https://mozilla.social)
-* [2023-09-29, 00:18:51](https://news.ycombinator.com/item?id=37697753) - [Apple Should End Their Google Search Partnership](https://www.magiclasso.co/insights/apple-google-search-partnership/)
+* [2023-09-29, 00:32:39](https://news.ycombinator.com/item?id=37697846) - [The Internals of Deno](https://choubey.gitbook.io/internals-of-deno/)
+* [2023-09-29, 00:25:37](https://news.ycombinator.com/item?id=37697795) - [Mozilla.social mastodon instance is live](https://mozilla.social)
 * [2023-09-28, 23:09:52](https://news.ycombinator.com/item?id=37697152) - [Ads team begging for worse search results so that ads team can hit their goals](https://twitter.com/pdrmnvd/status/1707395736458207430)
 * [2023-09-28, 22:56:04](https://news.ycombinator.com/item?id=37697030) - [Discord as a filehost will no longer be possible by the end of the year](https://this.alicorn.gay/post/729670550209937408/discord-as-a-filehost-will-no-longer-be-possible)
 * [2023-09-28, 22:51:52](https://news.ycombinator.com/item?id=37696992) - [Bloomberg: Apple held talks with Microsoft about acquiring Bing in 2020](https://9to5mac.com/2023/09/28/bloomberg-apple-held-talks-with-microsoft-about-acquiring-bing-in-2020/)
@@ -16,7 +16,6 @@
 * [2023-09-28, 18:36:23](https://news.ycombinator.com/item?id=37693766) - [How were the signs for logical and arithmetic operators decided?](https://retrocomputing.stackexchange.com/questions/27741/how-were-the-signs-for-logical-and-arithmetic-operators-decided)
 * [2023-09-28, 17:00:47](https://news.ycombinator.com/item?id=37692467) - [GoGoGrandparent (YC S16) is hiring a senior/staff back end/full-stack engineer](https://news.ycombinator.com/item?id=37692467)
 * [2023-09-28, 16:52:54](https://news.ycombinator.com/item?id=37692335) - [Universities have disinvested from their presses just as much as their libraries](https://www.publicbooks.org/publishers-and-scholars-unite/)
-* [2023-09-28, 16:41:42](https://news.ycombinator.com/item?id=37692166) - [RZK: Experimental proof assistant for synthetic ∞-categories](https://github.com/rzk-lang/rzk)
 * [2023-09-28, 15:42:05](https://news.ycombinator.com/item?id=37691232) - [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/)
 * [2023-09-28, 15:31:03](https://news.ycombinator.com/item?id=37691057) - [Airliner Repair, 24/7 Boeing’s traveling fix-it team (2008)](https://www.smithsonianmag.com/air-space-magazine/airliner-repair-247-9974457/)
 * [2023-09-28, 14:53:14](https://news.ycombinator.com/item?id=37690392) - [What if Planet 9 is a Primordial Black Hole? (2019)](https://arxiv.org/abs/1909.11090)
@@ -29,6 +28,7 @@
 * [2023-09-28, 09:10:00](https://news.ycombinator.com/item?id=37687134) - [Making Gaussian Splats more smaller](https://aras-p.info/blog/2023/09/27/Making-Gaussian-Splats-more-smaller/)
 * [2023-09-28, 07:56:44](https://news.ycombinator.com/item?id=37686641) - [Upcycled Bicycle Panniers DIY](https://rackhackers.com/)
 * [2023-09-28, 07:55:38](https://news.ycombinator.com/item?id=37686633) - [The saga of the Closure compiler, and why TypeScript won](https://effectivetypescript.com/2023/09/27/closure-compiler/)
+* [2023-09-28, 07:19:18](https://news.ycombinator.com/item?id=37686400) - [How to Reduce Memory Requirements with Product Quantization](https://weaviate.io/blog/pq-rescoring)
 * [2023-09-28, 05:29:21](https://news.ycombinator.com/item?id=37685580) - [Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/)
 
 ## [Archives](archives/index.md)

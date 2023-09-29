@@ -88,6 +88,7 @@
 * [2023-09-28, 07:56:44](https://news.ycombinator.com/item?id=37686641) - [Upcycled Bicycle Panniers DIY](https://rackhackers.com/)
 * [2023-09-28, 07:55:38](https://news.ycombinator.com/item?id=37686633) - [The Saga of the Closure Compiler, and Why TypeScript Won](https://effectivetypescript.com/2023/09/27/closure-compiler/)
 * [2023-09-28, 07:29:15](https://news.ycombinator.com/item?id=37686456) - [We finally know for sure what a trilobite ate. Trilobite found with full stomach](https://arstechnica.com/science/2023/09/we-finally-know-for-sure-what-a-trilobite-ate/)
+* [2023-09-28, 07:19:18](https://news.ycombinator.com/item?id=37686400) - [How to Reduce Memory Requirements with Product Quantization](https://weaviate.io/blog/pq-rescoring)
 * [2023-09-28, 06:38:52](https://news.ycombinator.com/item?id=37686121) - [As We May Think (1945)](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 * [2023-09-28, 06:08:47](https://news.ycombinator.com/item?id=37685885) - [Why Do Cats Love Boxes So Much?](https://www.discovermagazine.com/planet-earth/why-do-cats-love-boxes-so-much)
 * [2023-09-28, 06:00:25](https://news.ycombinator.com/item?id=37685819) - [Introducing: Raspberry Pi 5](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/)
