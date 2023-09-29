@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-29, 02:10:28](https://news.ycombinator.com/item?id=37698506) - [Show HN: SapientML – Generative AutoML for Tabular Data](https://github.com/sapientml/sapientml)
+* [2023-09-29, 02:05:37](https://news.ycombinator.com/item?id=37698473) - [Google's 5M Document Discovery Failure: \"Egregious\", Says Magistrate Judge [pdf]](https://ia804605.us.archive.org/29/items/gov.uscourts.nysd.564903/gov.uscourts.nysd.564903.631.0.pdf)
 * [2023-09-29, 01:45:21](https://news.ycombinator.com/item?id=37698334) - [Ask HN: Which is the oldest software alive still in 0.x, used by many?](https://news.ycombinator.com/item?id=37698334)
 * [2023-09-29, 01:43:42](https://news.ycombinator.com/item?id=37698322) - [The Māori Genocide of the Moriori](https://www.stoneageherbalist.com/p/the-maori-genocide-of-the-moriori)
 * [2023-09-29, 00:45:31](https://news.ycombinator.com/item?id=37697948) - [US Senate’s email system melts down in face of security test and reply-all chaos](https://www.politico.com/minutes/congress/09-8-2023/senate-reply-all-mess/)
 * [2023-09-29, 00:32:39](https://news.ycombinator.com/item?id=37697846) - [The Internals of Deno](https://choubey.gitbook.io/internals-of-deno/)
 * [2023-09-29, 00:25:37](https://news.ycombinator.com/item?id=37697795) - [Mozilla.social mastodon instance is live](https://mozilla.social)
-* [2023-09-28, 23:09:52](https://news.ycombinator.com/item?id=37697152) - [Ads team begging for worse search results so that ads team can hit their goals](https://twitter.com/pdrmnvd/status/1707395736458207430)
 * [2023-09-28, 22:56:04](https://news.ycombinator.com/item?id=37697030) - [Discord as a filehost will no longer be possible by the end of the year](https://this.alicorn.gay/post/729670550209937408/discord-as-a-filehost-will-no-longer-be-possible)
 * [2023-09-28, 22:02:54](https://news.ycombinator.com/item?id=37696467) - [The comprehensive guide to writing the best PR title of all time](https://graphite.dev/blog/the-best-pr-title-of-all-time)
 * [2023-09-28, 20:41:30](https://news.ycombinator.com/item?id=37695530) - [Show HN: Generative Fill with AI and 3D](https://github.com/fill3d/fill)
