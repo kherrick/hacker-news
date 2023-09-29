@@ -2,6 +2,7 @@
 
 * [2023-09-29, 17:02:34](https://news.ycombinator.com/item?id=37707062) - [Netflix Ships Last DVD](https://about.netflix.com/en/news/thanks-for-watching)
 * [2023-09-29, 16:50:17](https://news.ycombinator.com/item?id=37706876) - [When CEOs Are Paid for Bad Performance (2005)](https://www.gsb.stanford.edu/insights/when-ceos-are-paid-bad-performance)
+* [2023-09-29, 16:30:52](https://news.ycombinator.com/item?id=37706596) - [How a Four-Day Workweek Works, from the Companies Pulling It Off](https://www.wsj.com/lifestyle/careers/how-a-4-day-workweek-actually-works-from-the-companies-pulling-it-off-1a5c0e2a)
 * [2023-09-29, 16:25:35](https://news.ycombinator.com/item?id=37706513) - [Low-Code Programming Models](https://cacm.acm.org/magazines/2023/10/276633-low-code-programming-models/fulltext)
 * [2023-09-29, 16:17:34](https://news.ycombinator.com/item?id=37706389) - [Microsoft will stop old Windows keys from activating new Windows installs](https://arstechnica.com/gadgets/2023/09/microsoft-says-you-cant-activate-windows-10-11-with-old-windows-7-8-keys-anymore/)
 * [2023-09-29, 16:11:03](https://news.ycombinator.com/item?id=37706302) - [Facebook/Meta blocks accounts for posting link to EFF privacy tips](https://techhub.social/@kirbstr/111148950526108155)
@@ -15,7 +16,6 @@
 * [2023-09-29, 14:25:35](https://news.ycombinator.com/item?id=37704760) - [Show HN: RISC-V assembly tabletop board game (hack your opponent)](https://punkx.org/overflow/)
 * [2023-09-29, 14:23:20](https://news.ycombinator.com/item?id=37704721) - [Viatris Gets FDA Nod for Pupil Dilation Reversal Agent](https://www.nasdaq.com/articles/viatris-vtrs-gets-fda-nod-for-pupil-dilation-reversal-agent)
 * [2023-09-29, 14:14:54](https://news.ycombinator.com/item?id=37704593) - [Official U.S. government information about the Global Positioning System (GPS)](https://www.gps.gov/)
-* [2023-09-29, 14:13:51](https://news.ycombinator.com/item?id=37704579) - [John Baez' Applied Category Theory Lectures](https://mathstodon.xyz/@johncarlosbaez/111136608294290523)
 * [2023-09-29, 14:11:04](https://news.ycombinator.com/item?id=37704537) - [$5k Google Jamboard dies in 2024–cloud-based apps will stop working, too](https://arstechnica.com/gadgets/2023/09/5000-google-jamboard-dies-in-2024-cloud-based-apps-will-stop-working-too/)
 * [2023-09-29, 13:00:08](https://news.ycombinator.com/item?id=37703459) - [You Can't Control Your Data in the Cloud](https://karl-voit.at/cloud/)
 * [2023-09-29, 12:53:15](https://news.ycombinator.com/item?id=37703323) - [Loadsharers: Funding the Load Bearing Internet People (2020)](https://esr.gitlab.io/loadsharers/)
