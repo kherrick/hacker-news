@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-29](index.md)
 
+* [2023-09-29, 20:49:21](https://news.ycombinator.com/item?id=37709921) - [Our New Observability Platform for 100B Logs](https://blog.railway.app/p/launch-week-01-observability)
 * [2023-09-29, 20:44:02](https://news.ycombinator.com/item?id=37709876) - [Soviet computer has been forgotten for 30 years [video]](https://www.youtube.com/watch?v=lVCS99Zep9w)
 * [2023-09-29, 20:25:01](https://news.ycombinator.com/item?id=37709687) - [Recommended Architectures for PostgreSQL in Kubernetes](https://www.cncf.io/blog/2023/09/29/recommended-architectures-for-postgresql-in-kubernetes/)
 * [2023-09-29, 19:49:32](https://news.ycombinator.com/item?id=37709270) - [How did Qualcomm snatch defeat from the jaws of victory with their Oryon SoC?](https://semiaccurate.com/2023/09/26/whats-going-on-with-qualcomms-oryon-soc/)
@@ -88,6 +89,7 @@
 * [2023-09-29, 03:05:50](https://news.ycombinator.com/item?id=37698864) - [Nvidia Offices Raided by French Law Enforcement](https://wccftech.com/nvidia-offices-raided-french-law-enforcement-over-suspected-anticompetitive-practices/)
 * [2023-09-29, 03:01:31](https://news.ycombinator.com/item?id=37698842) - [The point of a game is not to win, and you shouldn't even pretend that it is](https://makopool.com/subgoals.html)
 * [2023-09-29, 02:51:31](https://news.ycombinator.com/item?id=37698768) - [Who Invented the Alphabet?](https://www.asor.org/anetoday/2023/08/who-invented-alphabet/)
+* [2023-09-29, 02:48:22](https://news.ycombinator.com/item?id=37698744) - [Misunderstanding Greek and Latin in eighteenth-century Britain](https://www.laphamsquarterly.org/roundtable/fine-sounding-language)
 * [2023-09-29, 02:47:42](https://news.ycombinator.com/item?id=37698740) - [JAX – NumPy on the CPU, GPU, and TPU, with great automatic differentiation](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
 * [2023-09-29, 02:28:16](https://news.ycombinator.com/item?id=37698612) - [There were no humans at all in New Zealand until about 1250AD](https://teara.govt.nz/en/history/page-1)
 * [2023-09-29, 02:27:53](https://news.ycombinator.com/item?id=37698604) - [Llama 2 Long](https://arxiv.org/abs/2309.16039)
