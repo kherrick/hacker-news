@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-29](index.md)
 
+* [2023-09-29, 18:31:05](https://news.ycombinator.com/item?id=37708346) - [Extreme Misogyny in Incels Probably Not Caused by Sexual Frustration](https://researchinenglish.com/article/2023.8/new-study-disputes-link-between-sexual-frustration-and-xkk2v4nl/)
+* [2023-09-29, 18:08:11](https://news.ycombinator.com/item?id=37708016) - [Have a complaint about CVS? So do pharmacists: Many just walked out](https://text.npr.org/1202365487)
 * [2023-09-29, 17:11:49](https://news.ycombinator.com/item?id=37707208) - [If money rules the world – who rules money? (2008) [pdf]](http://web.archive.org/web/20200304024854if_/http://margritkennedy.de/media/art_forum_csr_international_1_2008_28.pdf)
 * [2023-09-29, 17:05:45](https://news.ycombinator.com/item?id=37707119) - [I Tested an HDMI Adapter That Demands Your Location and Spams You with Ads](https://www.404media.co/i-tested-an-hdmi-adapter-that-demands-your-location-browsing-data-photos-and-spams-you-with-ads/)
 * [2023-09-29, 17:03:05](https://news.ycombinator.com/item?id=37707069) - [A review of Number Go Up, on crypto shenanigans](https://www.bitsaboutmoney.com/archive/a-review-of-number-go-up-on-crypto-shenanigans/)
