@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-29, 05:01:47](https://news.ycombinator.com/item?id=37699465) - [German Large Language Model Released](https://laion.ai/blog/leo-lm/)
 * [2023-09-29, 04:36:20](https://news.ycombinator.com/item?id=37699312) - [AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model](https://arxiv.org/abs/2309.16058)
-* [2023-09-29, 03:01:31](https://news.ycombinator.com/item?id=37698842) - [The point of a game is not to win](https://makopool.com/subgoals.html)
 * [2023-09-29, 02:47:42](https://news.ycombinator.com/item?id=37698740) - [JAX – NumPy on the CPU, GPU, and TPU](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
 * [2023-09-29, 02:27:53](https://news.ycombinator.com/item?id=37698604) - [Llama 2 Long](https://arxiv.org/abs/2309.16039)
 * [2023-09-29, 02:10:28](https://news.ycombinator.com/item?id=37698506) - [Show HN: SapientML – Generative AutoML for Tabular Data](https://github.com/sapientml/sapientml)
