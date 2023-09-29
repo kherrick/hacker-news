@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-09-29](index.md)
 
+* [2023-09-29, 18:49:16](https://news.ycombinator.com/item?id=37708582) - [Show HN: Insomnium – 100% local and privacy-focus fork of Insomnia API client](https://github.com/ArchGPT/insomnium)
 * [2023-09-29, 18:31:05](https://news.ycombinator.com/item?id=37708346) - [Extreme Misogyny in Incels Probably Not Caused by Sexual Frustration](https://researchinenglish.com/article/2023.8/new-study-disputes-link-between-sexual-frustration-and-xkk2v4nl/)
 * [2023-09-29, 18:27:55](https://news.ycombinator.com/item?id=37708292) - [Google RealFill: Authentic Image Completion Using Diffusion Models](https://realfill.github.io/)
+* [2023-09-29, 18:15:21](https://news.ycombinator.com/item?id=37708109) - [Homes “unaffordable” in 99% of nation for average American](https://www.cbsnews.com/news/homes-for-sale-affordable-housing-prices/)
 * [2023-09-29, 18:08:11](https://news.ycombinator.com/item?id=37708016) - [Have a complaint about CVS? So do pharmacists: Many just walked out](https://text.npr.org/1202365487)
+* [2023-09-29, 17:44:57](https://news.ycombinator.com/item?id=37707738) - [High-Resolution Lidar Images of Rivers and Deltas](https://kottke.org/23/09/stunning-high-resolution-lidar-images-of-rivers-deltas)
 * [2023-09-29, 17:11:49](https://news.ycombinator.com/item?id=37707208) - [If money rules the world – who rules money? (2008) [pdf]](http://web.archive.org/web/20200304024854if_/http://margritkennedy.de/media/art_forum_csr_international_1_2008_28.pdf)
 * [2023-09-29, 17:05:45](https://news.ycombinator.com/item?id=37707119) - [I Tested an HDMI Adapter That Demands Your Location and Spams You with Ads](https://www.404media.co/i-tested-an-hdmi-adapter-that-demands-your-location-browsing-data-photos-and-spams-you-with-ads/)
 * [2023-09-29, 17:03:05](https://news.ycombinator.com/item?id=37707069) - [A review of Number Go Up, on crypto shenanigans](https://www.bitsaboutmoney.com/archive/a-review-of-number-go-up-on-crypto-shenanigans/)
