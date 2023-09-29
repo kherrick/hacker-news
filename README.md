@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-29, 18:52:13](https://news.ycombinator.com/item?id=37708623) - [My elderly parents can't resist answering the phone](https://www.bogleheads.org/forum/viewtopic.php?t=413383)
 * [2023-09-29, 18:49:16](https://news.ycombinator.com/item?id=37708582) - [Show HN: Insomnium – 100% local and privacy-focus fork of Insomnia API client](https://github.com/ArchGPT/insomnium)
 * [2023-09-29, 18:27:55](https://news.ycombinator.com/item?id=37708292) - [Google RealFill: Authentic Image Completion Using Diffusion Models](https://realfill.github.io/)
 * [2023-09-29, 18:15:21](https://news.ycombinator.com/item?id=37708109) - [Homes “unaffordable” in 99% of nation for average American](https://www.cbsnews.com/news/homes-for-sale-affordable-housing-prices/)
@@ -20,7 +21,6 @@
 * [2023-09-29, 12:52:48](https://news.ycombinator.com/item?id=37703317) - [Rimac unveils ‘most technically advanced BESS in the world’, SineStack](https://www.energy-storage.news/rimac-unveils-most-technically-advanced-bess-in-the-world-sinestack/)
 * [2023-09-29, 12:51:22](https://news.ycombinator.com/item?id=37703291) - [Draggable objects](https://www.redblobgames.com/making-of/draggable/)
 * [2023-09-29, 12:47:00](https://news.ycombinator.com/item?id=37703219) - [My Postgres Story: Internationalization](https://obartunov.livejournal.com/211100.html)
-* [2023-09-29, 12:35:18](https://news.ycombinator.com/item?id=37703033) - [Swarm Cluster Identification](https://jasonfantl.com/posts/Decentralized-Dynamic-Cluster-Identification/)
 * [2023-09-29, 12:09:04](https://news.ycombinator.com/item?id=37702632) - [MMO Architecture: Source of truth, Dataflows, I/O bottlenecks and how to solve](https://prdeving.wordpress.com/2023/09/29/mmo-architecture-source-of-truth-dataflows-i-o-bottlenecks-and-how-to-solve-them/)
 * [2023-09-29, 12:01:46](https://news.ycombinator.com/item?id=37702555) - [UpCodes (YC S17) is hiring remote SWEs, AES to help make buildings cheaper](https://up.codes/careers)
 * [2023-09-29, 11:34:55](https://news.ycombinator.com/item?id=37702194) - [Pixel-based visualization of distributions – click Settings](https://lincoln.swaine-moore.is/blue)
