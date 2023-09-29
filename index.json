@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-09-29, 01:59:22",
-      "https://news.ycombinator.com/item?id=37698428"
-    ],
-    [
-      "Food Delivery Robots Are Feeding Camera Footage to the LAPD",
-      "https://www.404media.co/serve-food-delivery-robots-are-feeding-camera-footage-to-the-lapd-internal-emails-show/"
-    ]
-  ],
-  [
-    [
       "2023-09-29, 01:45:21",
       "https://news.ycombinator.com/item?id=37698334"
     ],
@@ -287,6 +277,16 @@
     [
       "The saga of the Closure compiler, and why TypeScript won",
       "https://effectivetypescript.com/2023/09/27/closure-compiler/"
+    ]
+  ],
+  [
+    [
+      "2023-09-28, 07:19:18",
+      "https://news.ycombinator.com/item?id=37686400"
+    ],
+    [
+      "How to Reduce Memory Requirements with Product Quantization",
+      "https://weaviate.io/blog/pq-rescoring"
     ]
   ],
   [
