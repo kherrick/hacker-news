@@ -11,6 +11,7 @@
 * [2023-09-29, 03:05:50](https://news.ycombinator.com/item?id=37698864) - [Nvidia Offices Raided by French Law Enforcement](https://wccftech.com/nvidia-offices-raided-french-law-enforcement-over-suspected-anticompetitive-practices/)
 * [2023-09-29, 03:01:31](https://news.ycombinator.com/item?id=37698842) - [The point of a game is not to win, and you shouldn't even pretend that it is](https://makopool.com/subgoals.html)
 * [2023-09-29, 02:47:42](https://news.ycombinator.com/item?id=37698740) - [JAX – NumPy on the CPU, GPU, and TPU, with great automatic differentiation](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
+* [2023-09-29, 02:28:16](https://news.ycombinator.com/item?id=37698612) - [There were no humans at all in New Zealand until about 1250AD](https://teara.govt.nz/en/history/page-1)
 * [2023-09-29, 02:27:53](https://news.ycombinator.com/item?id=37698604) - [Llama 2 Long](https://arxiv.org/abs/2309.16039)
 * [2023-09-29, 02:10:28](https://news.ycombinator.com/item?id=37698506) - [Show HN: SapientML – Generative AutoML for Tabular Data](https://github.com/sapientml/sapientml)
 * [2023-09-29, 02:05:37](https://news.ycombinator.com/item?id=37698473) - [Google's 5M Document Discovery Failure: \"Egregious\", Says Magistrate Judge [pdf]](https://ia804605.us.archive.org/29/items/gov.uscourts.nysd.564903/gov.uscourts.nysd.564903.631.0.pdf)

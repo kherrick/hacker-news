@@ -17,6 +17,7 @@
 * [2023-09-28, 20:27:29](https://news.ycombinator.com/item?id=37695348) - [Jamboard Being Deprecated 2024](https://workspace.google.com/blog/product-announcements/next-phase-digital-whiteboarding)
 * [2023-09-28, 20:22:31](https://news.ycombinator.com/item?id=37695290) - [CVE-2023-42793 Vulnerability in TeamCity: Post-Mortem](https://blog.jetbrains.com/teamcity/2023/09/cve-2023-42793-vulnerability-post-mortem/)
 * [2023-09-28, 20:19:26](https://news.ycombinator.com/item?id=37695245) - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
+* [2023-09-28, 20:16:39](https://news.ycombinator.com/item?id=37695215) - [YAML: Probably not so great after all](https://www.arp242.net/yaml-config.html)
 * [2023-09-28, 20:13:28](https://news.ycombinator.com/item?id=37695165) - [Crux: Cross-platform app development in Rust](https://redbadger.github.io/crux/)
 * [2023-09-28, 20:12:31](https://news.ycombinator.com/item?id=37695154) - [Docker Hub Registry timming out](https://www.dockerstatus.com/)
 * [2023-09-28, 20:06:59](https://news.ycombinator.com/item?id=37695071) - [Smartphone sales down 22 percent in Q2, the worst performance in a decade](https://arstechnica.com/google/2023/09/smartphone-sales-down-22-percent-in-q2-the-worst-performance-in-a-decade/)
