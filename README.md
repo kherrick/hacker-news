@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-29, 05:01:47](https://news.ycombinator.com/item?id=37699465) - [German Large Language Model Released](https://laion.ai/blog/leo-lm/)
+* [2023-09-29, 04:50:09](https://news.ycombinator.com/item?id=37699396) - [Costco is selling gold bars and they are selling out within hours](https://www.cnbc.com/2023/09/27/costco-is-selling-gold-bars-and-they-are-selling-out-within-a-few-hours.html)
 * [2023-09-29, 04:36:20](https://news.ycombinator.com/item?id=37699312) - [AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model](https://arxiv.org/abs/2309.16058)
 * [2023-09-29, 02:47:42](https://news.ycombinator.com/item?id=37698740) - [JAX – NumPy on the CPU, GPU, and TPU](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
 * [2023-09-29, 02:27:53](https://news.ycombinator.com/item?id=37698604) - [Llama 2 Long](https://arxiv.org/abs/2309.16039)
@@ -21,7 +22,6 @@
 * [2023-09-28, 16:09:55](https://news.ycombinator.com/item?id=37691686) - [Just kidding: the evolutionary roots of playful teasing](https://royalsocietypublishing.org/doi/10.1098/rsbl.2020.0370)
 * [2023-09-28, 15:42:05](https://news.ycombinator.com/item?id=37691232) - [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/)
 * [2023-09-28, 15:31:03](https://news.ycombinator.com/item?id=37691057) - [Airliner Repair, 24/7 Boeing’s traveling fix-it team (2008)](https://www.smithsonianmag.com/air-space-magazine/airliner-repair-247-9974457/)
-* [2023-09-28, 14:53:14](https://news.ycombinator.com/item?id=37690392) - [What if Planet 9 is a Primordial Black Hole? (2019)](https://arxiv.org/abs/1909.11090)
 * [2023-09-28, 14:48:51](https://news.ycombinator.com/item?id=37690320) - [Coding in the Debugger (2007)](https://tidyfirst.substack.com/p/coding-in-the-debugger)
 * [2023-09-28, 12:00:22](https://news.ycombinator.com/item?id=37688341) - [How async/await works internally in Swift](https://swiftrocks.com/how-async-await-works-internally-in-swift)
 * [2023-09-28, 12:00:18](https://news.ycombinator.com/item?id=37688340) - [The Design of the Connection Machine](https://www.tamikothiel.com/theory/cm_txts/di-frames.html)
