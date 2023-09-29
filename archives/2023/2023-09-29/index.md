@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-29](index.md)
 
+* [2023-09-29, 10:32:05](https://news.ycombinator.com/item?id=37701691) - [Generating chess puzzles with generic algorithms (2022)](https://www.propelauth.com/post/generating-chess-puzzles-with-genetic-algorithms)
 * [2023-09-29, 10:11:53](https://news.ycombinator.com/item?id=37701537) - [Microsoft Discussed Selling Bing to Apple as Google Replacement](https://www.bloomberg.com/news/articles/2023-09-28/microsoft-discussed-selling-bing-to-apple-as-google-replacement)
 * [2023-09-29, 10:03:31](https://news.ycombinator.com/item?id=37701476) - [CloudFlare is blocking traffic to Discord](https://discord.com/)
 * [2023-09-29, 09:08:17](https://news.ycombinator.com/item?id=37701117) - [Things Every Hacker Once Knew](http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/)

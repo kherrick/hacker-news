@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-29, 10:32:05](https://news.ycombinator.com/item?id=37701691) - [Generating chess puzzles with generic algorithms (2022)](https://www.propelauth.com/post/generating-chess-puzzles-with-genetic-algorithms)
 * [2023-09-29, 10:11:53](https://news.ycombinator.com/item?id=37701537) - [Microsoft Discussed Selling Bing to Apple as Google Replacement](https://www.bloomberg.com/news/articles/2023-09-28/microsoft-discussed-selling-bing-to-apple-as-google-replacement)
 * [2023-09-29, 10:03:31](https://news.ycombinator.com/item?id=37701476) - [CloudFlare is blocking traffic to Discord](https://discord.com/)
 * [2023-09-29, 09:08:17](https://news.ycombinator.com/item?id=37701117) - [Things Every Hacker Once Knew](http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/)
@@ -18,7 +19,6 @@
 * [2023-09-28, 20:41:30](https://news.ycombinator.com/item?id=37695530) - [Show HN: Generative Fill with AI and 3D](https://github.com/fill3d/fill)
 * [2023-09-28, 20:19:26](https://news.ycombinator.com/item?id=37695245) - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
 * [2023-09-28, 20:13:28](https://news.ycombinator.com/item?id=37695165) - [Crux: Cross-platform app development in Rust](https://redbadger.github.io/crux/)
-* [2023-09-28, 20:04:13](https://news.ycombinator.com/item?id=37695035) - [Bandcamp has been sold to Songtradr. What does this mean for the musicians?](https://rocknerd.co.uk/2023/09/28/bandcamp-has-been-sold-to-songtradr/)
 * [2023-09-28, 19:55:54](https://news.ycombinator.com/item?id=37694910) - [RackNES: NES Module for VCV Rack](https://github.com/Kautenja/RackNES)
 * [2023-09-28, 19:48:27](https://news.ycombinator.com/item?id=37694814) - [The Future of Computer Wargaming (1981)](https://archive.org/details/Computer_Gaming_World_Issue_1.1)
 * [2023-09-28, 19:23:04](https://news.ycombinator.com/item?id=37694414) - [LibrePCB](https://librepcb.org/)
