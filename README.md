@@ -2,11 +2,11 @@
 
 * [2023-09-29, 20:44:02](https://news.ycombinator.com/item?id=37709876) - [Soviet computer has been forgotten for 30 years [video]](https://www.youtube.com/watch?v=lVCS99Zep9w)
 * [2023-09-29, 20:32:15](https://news.ycombinator.com/item?id=37709756) - [New York City declares state of emergency amid flash floods](https://www.cnn.com/2023/09/29/weather/new-york-city-northeast-rain-flood-forecast-climate-friday/index.html)
-* [2023-09-29, 19:49:32](https://news.ycombinator.com/item?id=37709270) - [How did Qualcomm snatch defeat from the jaws of victory with their Oryon SoC?](https://semiaccurate.com/2023/09/26/whats-going-on-with-qualcomms-oryon-soc/)
 * [2023-09-29, 19:21:40](https://news.ycombinator.com/item?id=37708966) - [Localtunnel – Easily share a web service on your local development machine](https://theboroer.github.io/localtunnel-www/)
 * [2023-09-29, 18:49:16](https://news.ycombinator.com/item?id=37708582) - [Insomnium – Local, privacy-focused fork of Insomnia API client](https://github.com/ArchGPT/insomnium)
 * [2023-09-29, 18:27:55](https://news.ycombinator.com/item?id=37708292) - [RealFill: Image completion using diffusion models](https://realfill.github.io/)
 * [2023-09-29, 17:05:45](https://news.ycombinator.com/item?id=37707119) - [I Tested an HDMI Adapter That Demands Your Location and Spams You with Ads](https://www.404media.co/i-tested-an-hdmi-adapter-that-demands-your-location-browsing-data-photos-and-spams-you-with-ads/)
+* [2023-09-29, 16:51:32](https://news.ycombinator.com/item?id=37706893) - [50 years later, is Two-Phase Locking the best we can do?](http://concurrencyfreaks.blogspot.com/2023/09/50-years-later-is-two-phase-locking.html)
 * [2023-09-29, 16:38:05](https://news.ycombinator.com/item?id=37706706) - [A scientific curiosity that happened to me](https://old.reddit.com/r/Physics/comments/16v8g6e/a_scientific_curiosity_that_happened_to_me/)
 * [2023-09-29, 16:25:35](https://news.ycombinator.com/item?id=37706513) - [Low-Code Programming Models](https://cacm.acm.org/magazines/2023/10/276633-low-code-programming-models/fulltext)
 * [2023-09-29, 16:14:54](https://news.ycombinator.com/item?id=37706353) - [Farm robots inspired by ant brains](https://techxplore.com/news/2023-09-farm-robots-ant-brains.html)
