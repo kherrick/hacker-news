@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
+* [2023-09-28, 23:09:52](https://news.ycombinator.com/item?id=37697152) - [Ads team begging for worse search results so that ads team can hit their goals](https://twitter.com/pdrmnvd/status/1707395736458207430)
 * [2023-09-28, 22:56:04](https://news.ycombinator.com/item?id=37697030) - [Discord as a filehost will no longer be possible by the end of the year](https://this.alicorn.gay/post/729670550209937408/discord-as-a-filehost-will-no-longer-be-possible)
 * [2023-09-28, 22:51:52](https://news.ycombinator.com/item?id=37696992) - [Bloomberg: Apple held talks with Microsoft about acquiring Bing in 2020](https://9to5mac.com/2023/09/28/bloomberg-apple-held-talks-with-microsoft-about-acquiring-bing-in-2020/)
 * [2023-09-28, 22:15:11](https://news.ycombinator.com/item?id=37696592) - [The Timer in WatchOS 10](https://furbo.org/2023/09/28/the-timer-in-watchos-10/)
@@ -67,6 +68,7 @@
 * [2023-09-28, 12:48:14](https://news.ycombinator.com/item?id=37688887) - [FreeRDP: A remote desktop protocol implementation](https://www.freerdp.com/)
 * [2023-09-28, 12:00:54](https://news.ycombinator.com/item?id=37688347) - [SpaceX wins first Pentagon contract for Starshield](https://www.cnbc.com/2023/09/27/spacex-wins-first-pentagon-contract-for-starshield.html)
 * [2023-09-28, 12:00:22](https://news.ycombinator.com/item?id=37688341) - [How async/await works internally in Swift](https://swiftrocks.com/how-async-await-works-internally-in-swift)
+* [2023-09-28, 12:00:18](https://news.ycombinator.com/item?id=37688340) - [The Design of the Connection Machine](https://www.tamikothiel.com/theory/cm_txts/di-frames.html)
 * [2023-09-28, 11:57:18](https://news.ycombinator.com/item?id=37688314) - [Why are websites requesting access to motion sensors on my desktop?](https://grantwinney.com/websites-requesting-access-to-motion-sensors/)
 * [2023-09-28, 11:40:26](https://news.ycombinator.com/item?id=37688165) - [Scientists unveil fire-safe fuel](https://news.ucr.edu/articles/2023/09/28/scientists-unveil-fire-safe-fuel)
 * [2023-09-28, 11:30:06](https://news.ycombinator.com/item?id=37688095) - [Ask HN: How do you use AI to get things done faster?](https://news.ycombinator.com/item?id=37688095)
