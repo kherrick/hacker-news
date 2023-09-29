@@ -6,6 +6,7 @@
 
 * [2023-09-29, 17:11:49](https://news.ycombinator.com/item?id=37707208) - [If money rules the world – who rules money? (2008) [pdf]](http://web.archive.org/web/20200304024854if_/http://margritkennedy.de/media/art_forum_csr_international_1_2008_28.pdf)
 * [2023-09-29, 17:05:45](https://news.ycombinator.com/item?id=37707119) - [I Tested an HDMI Adapter That Demands Your Location and Spams You with Ads](https://www.404media.co/i-tested-an-hdmi-adapter-that-demands-your-location-browsing-data-photos-and-spams-you-with-ads/)
+* [2023-09-29, 17:03:05](https://news.ycombinator.com/item?id=37707069) - [A review of Number Go Up, on crypto shenanigans](https://www.bitsaboutmoney.com/archive/a-review-of-number-go-up-on-crypto-shenanigans/)
 * [2023-09-29, 17:02:34](https://news.ycombinator.com/item?id=37707062) - [Netflix Ships Last DVD](https://about.netflix.com/en/news/thanks-for-watching)
 * [2023-09-29, 16:50:17](https://news.ycombinator.com/item?id=37706876) - [When CEOs Are Paid for Bad Performance (2005)](https://www.gsb.stanford.edu/insights/when-ceos-are-paid-bad-performance)
 * [2023-09-29, 16:30:52](https://news.ycombinator.com/item?id=37706596) - [How a Four-Day Workweek Works, from the Companies Pulling It Off](https://www.wsj.com/lifestyle/careers/how-a-4-day-workweek-actually-works-from-the-companies-pulling-it-off-1a5c0e2a)

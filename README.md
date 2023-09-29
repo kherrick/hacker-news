@@ -2,6 +2,7 @@
 
 * [2023-09-29, 17:11:49](https://news.ycombinator.com/item?id=37707208) - [If money rules the world – who rules money? (2008) [pdf]](http://web.archive.org/web/20200304024854if_/http://margritkennedy.de/media/art_forum_csr_international_1_2008_28.pdf)
 * [2023-09-29, 17:05:45](https://news.ycombinator.com/item?id=37707119) - [I Tested an HDMI Adapter That Demands Your Location and Spams You with Ads](https://www.404media.co/i-tested-an-hdmi-adapter-that-demands-your-location-browsing-data-photos-and-spams-you-with-ads/)
+* [2023-09-29, 17:03:05](https://news.ycombinator.com/item?id=37707069) - [A review of Number Go Up, on crypto shenanigans](https://www.bitsaboutmoney.com/archive/a-review-of-number-go-up-on-crypto-shenanigans/)
 * [2023-09-29, 16:50:17](https://news.ycombinator.com/item?id=37706876) - [When CEOs Are Paid for Bad Performance (2005)](https://www.gsb.stanford.edu/insights/when-ceos-are-paid-bad-performance)
 * [2023-09-29, 16:30:52](https://news.ycombinator.com/item?id=37706596) - [How a Four-Day Workweek Works, from the Companies Pulling It Off](https://www.wsj.com/lifestyle/careers/how-a-4-day-workweek-actually-works-from-the-companies-pulling-it-off-1a5c0e2a)
 * [2023-09-29, 16:25:35](https://news.ycombinator.com/item?id=37706513) - [Low-Code Programming Models](https://cacm.acm.org/magazines/2023/10/276633-low-code-programming-models/fulltext)
@@ -10,9 +11,7 @@
 * [2023-09-29, 15:54:07](https://news.ycombinator.com/item?id=37706070) - [SIMD Everywhere Optimization from ARM Neon to RISC-V Vector Extensions](https://arxiv.org/abs/2309.16509)
 * [2023-09-29, 15:35:32](https://news.ycombinator.com/item?id=37705779) - [UTM: An Apple hypervisor with some unique extra abilities](https://www.theregister.com/2023/09/29/utm_apple_hypervisor_foss_fest/)
 * [2023-09-29, 15:21:40](https://news.ycombinator.com/item?id=37705563) - [Three Arrows Capital co-founder Zhu arrested in Singapore airport](https://techcrunch.com/2023/09/29/three-arrows-capital-co-founder-zhu-arrested-in-singapore-airport-sentenced-four-months-in-prison/)
-* [2023-09-29, 15:07:54](https://news.ycombinator.com/item?id=37705368) - [Privacy washing: Google claims to support privacy while lobbying against it](https://proton.me/blog/google-lobbying)
 * [2023-09-29, 14:45:10](https://news.ycombinator.com/item?id=37705078) - [A new era for Arecibo: legendary observatory begins next phase](https://www.nature.com/articles/d41586-023-03021-6)
-* [2023-09-29, 14:28:14](https://news.ycombinator.com/item?id=37704807) - [The Kakhovka Dam Disaster Revealed an Archaeological ‘Goldmine’](https://www.atlasobscura.com/articles/kakhovka-dam-chaika-cossack-archaeology)
 * [2023-09-29, 14:25:35](https://news.ycombinator.com/item?id=37704760) - [Show HN: RISC-V assembly tabletop board game (hack your opponent)](https://punkx.org/overflow/)
 * [2023-09-29, 14:23:20](https://news.ycombinator.com/item?id=37704721) - [Viatris Gets FDA Nod for Pupil Dilation Reversal Agent](https://www.nasdaq.com/articles/viatris-vtrs-gets-fda-nod-for-pupil-dilation-reversal-agent)
 * [2023-09-29, 14:14:54](https://news.ycombinator.com/item?id=37704593) - [Official U.S. government information about the Global Positioning System (GPS)](https://www.gps.gov/)
@@ -29,6 +28,7 @@
 * [2023-09-29, 08:30:03](https://news.ycombinator.com/item?id=37700847) - [Burning money on paid ads for a dev tool – what we've learned](https://posthog.com/blog/dev-marketing-paid-ads)
 * [2023-09-29, 02:51:31](https://news.ycombinator.com/item?id=37698768) - [Who Invented the Alphabet?](https://www.asor.org/anetoday/2023/08/who-invented-alphabet/)
 * [2023-09-29, 02:47:42](https://news.ycombinator.com/item?id=37698740) - [JAX – NumPy on the CPU, GPU, and TPU](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
+* [2023-09-28, 19:02:16](https://news.ycombinator.com/item?id=37694094) - [Think Again, Al Jolson: Japan’s Silent Movie Culture Is Still Going Strong](https://petertasker.asia/articles/culture/think-again-al-jolson-japans-silent-movie-culture-is-still-going-strong/)
 * [2023-09-28, 15:42:05](https://news.ycombinator.com/item?id=37691232) - [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/)
 
 ## [Archives](archives/index.md)
