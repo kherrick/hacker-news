@@ -43,6 +43,7 @@
 * [2023-09-29, 15:18:34](https://news.ycombinator.com/item?id=37705519) - [Ask HN: Why does YubiCo need my private key?](https://news.ycombinator.com/item?id=37705519)
 * [2023-09-29, 15:07:54](https://news.ycombinator.com/item?id=37705368) - [Privacy washing: Google claims to support privacy while lobbying against it](https://proton.me/blog/google-lobbying)
 * [2023-09-29, 14:58:34](https://news.ycombinator.com/item?id=37705244) - [A new Chrome 0-day is sending the Internet into a new chapter of Groundhog Day](https://arstechnica.com/security/2023/09/new-0-day-in-chrome-and-firefox-is-likely-to-plague-other-software/)
+* [2023-09-29, 14:51:11](https://news.ycombinator.com/item?id=37705153) - [A peek into Argentina’s video game scene](https://buenosairesherald.com/culture-ideas/videogames/satanism-star-trek-and-an-army-of-gauchos-a-peek-into-argentinas-video-game-scene)
 * [2023-09-29, 14:45:10](https://news.ycombinator.com/item?id=37705078) - [A new era for Arecibo: legendary observatory begins next phase](https://www.nature.com/articles/d41586-023-03021-6)
 * [2023-09-29, 14:31:37](https://news.ycombinator.com/item?id=37704859) - [Norway wants Facebook behavioral advertising banned across Europe](https://www.theregister.com/2023/09/29/norway_facebook_behavioral_ads/)
 * [2023-09-29, 14:28:14](https://news.ycombinator.com/item?id=37704807) - [The Kakhovka Dam Disaster Revealed an Archaeological ‘Goldmine’](https://www.atlasobscura.com/articles/kakhovka-dam-chaika-cossack-archaeology)
