@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-09-29, 21:22:48",
-      "https://news.ycombinator.com/item?id=37710234"
-    ],
-    [
-      "IRS Consultant Charged with Disclosing Tax Return Info to News Organizations",
-      "https://www.justice.gov/opa/pr/irs-consultant-charged-disclosing-tax-return-information-news-organizations"
-    ]
-  ],
-  [
-    [
       "2023-09-29, 20:44:02",
       "https://news.ycombinator.com/item?id=37709876"
     ],
@@ -27,6 +17,16 @@
     [
       "New York City declares state of emergency amid flash floods",
       "https://www.cnn.com/2023/09/29/weather/new-york-city-northeast-rain-flood-forecast-climate-friday/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-29, 19:49:32",
+      "https://news.ycombinator.com/item?id=37709270"
+    ],
+    [
+      "How did Qualcomm snatch defeat from the jaws of victory with their Oryon SoC?",
+      "https://semiaccurate.com/2023/09/26/whats-going-on-with-qualcomms-oryon-soc/"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "RealFill: Image completion using diffusion models",
       "https://realfill.github.io/"
-    ]
-  ],
-  [
-    [
-      "2023-09-29, 17:44:57",
-      "https://news.ycombinator.com/item?id=37707738"
-    ],
-    [
-      "High-Resolution Lidar Images of Rivers and Deltas",
-      "https://kottke.org/23/09/stunning-high-resolution-lidar-images-of-rivers-deltas"
     ]
   ],
   [
@@ -177,6 +167,16 @@
     [
       "Draggable objects",
       "https://www.redblobgames.com/making-of/draggable/"
+    ]
+  ],
+  [
+    [
+      "2023-09-29, 12:47:00",
+      "https://news.ycombinator.com/item?id=37703219"
+    ],
+    [
+      "My Postgres Story: Internationalization",
+      "https://obartunov.livejournal.com/211100.html"
     ]
   ],
   [
