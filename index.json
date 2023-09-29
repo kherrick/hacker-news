@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-29, 02:27:53",
+      "https://news.ycombinator.com/item?id=37698604"
+    ],
+    [
+      "Llama 2 Long",
+      "https://arxiv.org/abs/2309.16039"
+    ]
+  ],
+  [
+    [
       "2023-09-29, 02:10:28",
       "https://news.ycombinator.com/item?id=37698506"
     ],
@@ -15,18 +25,18 @@
       "https://news.ycombinator.com/item?id=37698473"
     ],
     [
-      "Google's 5M Document Discovery Failure: \"Egregious\", Says Magistrate Judge [pdf]",
+      "Discovery Steering Committee re Google Antitrust Litigation [pdf]",
       "https://ia804605.us.archive.org/29/items/gov.uscourts.nysd.564903/gov.uscourts.nysd.564903.631.0.pdf"
     ]
   ],
   [
     [
-      "2023-09-29, 01:47:31",
-      "https://news.ycombinator.com/item?id=37698347"
+      "2023-09-29, 01:59:22",
+      "https://news.ycombinator.com/item?id=37698428"
     ],
     [
-      "SARS-CoV-2 infection triggers inflammatory responses in human heart vessels",
-      "https://www.nature.com/articles/s44161-023-00336-5"
+      "Food Delivery Robots Are Feeding Camera Footage to the LAPD",
+      "https://www.404media.co/serve-food-delivery-robots-are-feeding-camera-footage-to-the-lapd-internal-emails-show/"
     ]
   ],
   [
@@ -211,6 +221,16 @@
   ],
   [
     [
+      "2023-09-28, 15:35:16",
+      "https://news.ycombinator.com/item?id=37691138"
+    ],
+    [
+      "Research reveals crows use statistical logic",
+      "https://arstechnica.com/p3/"
+    ]
+  ],
+  [
+    [
       "2023-09-28, 15:31:03",
       "https://news.ycombinator.com/item?id=37691057"
     ],
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2023-09-28, 09:10:00",
-      "https://news.ycombinator.com/item?id=37687134"
-    ],
-    [
-      "Making Gaussian Splats more smaller",
-      "https://aras-p.info/blog/2023/09/27/Making-Gaussian-Splats-more-smaller/"
-    ]
-  ],
-  [
-    [
       "2023-09-28, 07:55:38",
       "https://news.ycombinator.com/item?id=37686633"
     ],
     [
       "The saga of the Closure compiler, and why TypeScript won",
       "https://effectivetypescript.com/2023/09/27/closure-compiler/"
-    ]
-  ],
-  [
-    [
-      "2023-09-28, 07:19:18",
-      "https://news.ycombinator.com/item?id=37686400"
-    ],
-    [
-      "How to Reduce Memory Requirements with Product Quantization",
-      "https://weaviate.io/blog/pq-rescoring"
     ]
   ],
   [
