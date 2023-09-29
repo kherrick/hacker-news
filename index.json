@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-29, 17:02:34",
+      "https://news.ycombinator.com/item?id=37707062"
+    ],
+    [
+      "Netflix Ships Last DVD",
+      "https://about.netflix.com/en/news/thanks-for-watching"
+    ]
+  ],
+  [
+    [
+      "2023-09-29, 16:50:17",
+      "https://news.ycombinator.com/item?id=37706876"
+    ],
+    [
+      "When CEOs Are Paid for Bad Performance (2005)",
+      "https://www.gsb.stanford.edu/insights/when-ceos-are-paid-bad-performance"
+    ]
+  ],
+  [
+    [
       "2023-09-29, 16:25:35",
       "https://news.ycombinator.com/item?id=37706513"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-09-29, 12:43:30",
-      "https://news.ycombinator.com/item?id=37703175"
-    ],
-    [
-      "Compile-time safety for enumerations in Go",
-      "https://vladimir.varank.in/notes/2023/09/compile-time-safety-for-enumerations-in-go/"
-    ]
-  ],
-  [
-    [
       "2023-09-29, 12:09:04",
       "https://news.ycombinator.com/item?id=37702632"
     ],
@@ -247,16 +257,6 @@
     [
       "Visual Node Graph with ImGui",
       "https://gboisse.github.io/posts/node-graph/"
-    ]
-  ],
-  [
-    [
-      "2023-09-29, 10:32:05",
-      "https://news.ycombinator.com/item?id=37701691"
-    ],
-    [
-      "Generating chess puzzles with generic algorithms (2022)",
-      "https://www.propelauth.com/post/generating-chess-puzzles-with-genetic-algorithms"
     ]
   ],
   [
