@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-09-29](index.md)
 
 * [2023-09-29, 21:22:48](https://news.ycombinator.com/item?id=37710234) - [IRS Consultant Charged with Disclosing Tax Return Info to News Organizations](https://www.justice.gov/opa/pr/irs-consultant-charged-disclosing-tax-return-information-news-organizations)
+* [2023-09-29, 21:20:19](https://news.ycombinator.com/item?id=37710211) - [Has a San Antonio Inventor Solved a Problem of Small-Scale Wind Power?](https://www.texasmonthly.com/news-politics/pirate-wind-turbines-inventor/)
+* [2023-09-29, 21:14:13](https://news.ycombinator.com/item?id=37710154) - [Investigating a teen’s death on an ebike and the Rad brand’s safety](https://www.bicycling.com/culture/a42690937/molly-steinsapir-lawsuit-rad-power-electric-bike/)
 * [2023-09-29, 21:02:42](https://news.ycombinator.com/item?id=37710048) - [41% of French pop in favour of limiting everyone to 4 flights for entire life](https://twitter.com/spignal/status/1707456628918726828)
 * [2023-09-29, 20:49:21](https://news.ycombinator.com/item?id=37709921) - [Our New Observability Platform for 100B Logs](https://blog.railway.app/p/launch-week-01-observability)
 * [2023-09-29, 20:44:02](https://news.ycombinator.com/item?id=37709876) - [Soviet computer has been forgotten for 30 years [video]](https://www.youtube.com/watch?v=lVCS99Zep9w)
