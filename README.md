@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-29, 13:27:00](https://news.ycombinator.com/item?id=37703885) - [Encrypted Client Hello – the last puzzle piece to privacy](https://blog.cloudflare.com/announcing-encrypted-client-hello/)
 * [2023-09-29, 13:19:01](https://news.ycombinator.com/item?id=37703767) - [Senator Dianne Feinstein dies aged 90](https://www.bbc.com/news/world-us-canada-66963341)
 * [2023-09-29, 13:03:31](https://news.ycombinator.com/item?id=37703528) - [Senator Dianne Feinstein Dies at 90](https://www.nytimes.com/2023/09/29/us/politics/dianne-feinstein-dead-senate.html)
 * [2023-09-29, 12:56:57](https://news.ycombinator.com/item?id=37703394) - [Ask HN: What is the least obnoxious way to ask for cookie permissions?](https://news.ycombinator.com/item?id=37703394)
@@ -23,7 +24,6 @@
 * [2023-09-29, 09:08:17](https://news.ycombinator.com/item?id=37701117) - [Things Every Hacker Once Knew](http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/)
 * [2023-09-29, 08:30:03](https://news.ycombinator.com/item?id=37700847) - [Burning money on paid ads for a dev tool – what we've learned](https://posthog.com/blog/dev-marketing-paid-ads)
 * [2023-09-29, 06:07:37](https://news.ycombinator.com/item?id=37699851) - [Richard Stallman reveals he has cancer in the GNU 40 Hacker Meeting talk](https://audio-video.gnu.org/video/gnu40/rms-gnu40.webm)
-* [2023-09-29, 04:50:09](https://news.ycombinator.com/item?id=37699396) - [Costco gold bars are selling out within hours](https://www.cnbc.com/2023/09/27/costco-is-selling-gold-bars-and-they-are-selling-out-within-a-few-hours.html)
 * [2023-09-29, 04:36:20](https://news.ycombinator.com/item?id=37699312) - [AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model](https://arxiv.org/abs/2309.16058)
 * [2023-09-29, 02:47:42](https://news.ycombinator.com/item?id=37698740) - [JAX – NumPy on the CPU, GPU, and TPU](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
 * [2023-09-29, 02:10:28](https://news.ycombinator.com/item?id=37698506) - [Show HN: SapientML – Generative AutoML for Tabular Data](https://github.com/sapientml/sapientml)

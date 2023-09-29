@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-29](index.md)
 
+* [2023-09-29, 13:27:00](https://news.ycombinator.com/item?id=37703885) - [Encrypted Client Hello – the last puzzle piece to privacy](https://blog.cloudflare.com/announcing-encrypted-client-hello/)
 * [2023-09-29, 13:19:01](https://news.ycombinator.com/item?id=37703767) - [Senator Dianne Feinstein dies aged 90](https://www.bbc.com/news/world-us-canada-66963341)
 * [2023-09-29, 13:03:31](https://news.ycombinator.com/item?id=37703528) - [Senator Dianne Feinstein Dies at 90](https://www.nytimes.com/2023/09/29/us/politics/dianne-feinstein-dead-senate.html)
 * [2023-09-29, 12:56:57](https://news.ycombinator.com/item?id=37703394) - [Ask HN: What is the least obnoxious way to ask for cookie permissions?](https://news.ycombinator.com/item?id=37703394)
