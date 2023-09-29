@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-09-29, 00:25:37",
+      "https://news.ycombinator.com/item?id=37697795"
+    ],
+    [
+      "Mozilla.social is live and open to registration",
+      "https://mozilla.social"
+    ]
+  ],
+  [
+    [
+      "2023-09-29, 00:18:51",
+      "https://news.ycombinator.com/item?id=37697753"
+    ],
+    [
+      "Apple Should End Their Google Search Partnership",
+      "https://www.magiclasso.co/insights/apple-google-search-partnership/"
+    ]
+  ],
+  [
+    [
+      "2023-09-28, 23:09:52",
+      "https://news.ycombinator.com/item?id=37697152"
+    ],
+    [
+      "Ads team begging for worse search results so that ads team can hit their goals",
+      "https://twitter.com/pdrmnvd/status/1707395736458207430"
+    ]
+  ],
+  [
+    [
       "2023-09-28, 22:56:04",
       "https://news.ycombinator.com/item?id=37697030"
     ],
@@ -17,16 +47,6 @@
     [
       "Bloomberg: Apple held talks with Microsoft about acquiring Bing in 2020",
       "https://9to5mac.com/2023/09/28/bloomberg-apple-held-talks-with-microsoft-about-acquiring-bing-in-2020/"
-    ]
-  ],
-  [
-    [
-      "2023-09-28, 22:15:11",
-      "https://news.ycombinator.com/item?id=37696592"
-    ],
-    [
-      "The Timer in WatchOS 10",
-      "https://furbo.org/2023/09/28/the-timer-in-watchos-10/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "RackNES: NES Module for VCV Rack",
       "https://github.com/Kautenja/RackNES"
-    ]
-  ],
-  [
-    [
-      "2023-09-28, 19:28:40",
-      "https://news.ycombinator.com/item?id=37694524"
-    ],
-    [
-      "Bing Chat responses infiltrated by ads pushing malware",
-      "https://www.bleepingcomputer.com/news/security/bing-chat-responses-infiltrated-by-ads-pushing-malware/"
     ]
   ],
   [
@@ -191,32 +201,12 @@
   ],
   [
     [
-      "2023-09-28, 14:51:34",
-      "https://news.ycombinator.com/item?id=37690372"
-    ],
-    [
-      "Rewriting the history of syphilis",
-      "https://www.wired.com/story/a-medieval-french-skeleton-is-rewriting-the-history-of-syphilis/"
-    ]
-  ],
-  [
-    [
       "2023-09-28, 14:48:51",
       "https://news.ycombinator.com/item?id=37690320"
     ],
     [
       "Coding in the Debugger (2007)",
       "https://tidyfirst.substack.com/p/coding-in-the-debugger"
-    ]
-  ],
-  [
-    [
-      "2023-09-28, 13:25:29",
-      "https://news.ycombinator.com/item?id=37689282"
-    ],
-    [
-      "Tell HN: Enterprises spend 10x more to build no-code solutions than coded ones",
-      "https://news.ycombinator.com/item?id=37689282"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "How async/await works internally in Swift",
       "https://swiftrocks.com/how-async-await-works-internally-in-swift"
+    ]
+  ],
+  [
+    [
+      "2023-09-28, 12:00:18",
+      "https://news.ycombinator.com/item?id=37688340"
+    ],
+    [
+      "The Design of the Connection Machine",
+      "https://www.tamikothiel.com/theory/cm_txts/di-frames.html"
     ]
   ],
   [
