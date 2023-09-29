@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-29, 22:31:49](https://news.ycombinator.com/item?id=37710865) - [Drive Like a Human: Rethinking Autonomous Driving with Large Language Models](https://arxiv.org/abs/2307.07162)
+* [2023-09-29, 22:21:48](https://news.ycombinator.com/item?id=37710791) - [No need to send it back: Netflix posts its final DVDs to customers](https://www.theguardian.com/media/2023/sep/29/netflix-dvds-final-sent-by-mail)
 * [2023-09-29, 22:08:56](https://news.ycombinator.com/item?id=37710683) - [Factorio Friday Facts #378 – Trains on another level](https://factorio.com/blog/post/fff-378)
 * [2023-09-29, 21:41:22](https://news.ycombinator.com/item?id=37710422) - [Obscura: The VPN that can't track your activity](https://obscuravpn.io/)
-* [2023-09-29, 21:20:19](https://news.ycombinator.com/item?id=37710211) - [Has a San Antonio Inventor Solved a Problem of Small-Scale Wind Power?](https://www.texasmonthly.com/news-politics/pirate-wind-turbines-inventor/)
 * [2023-09-29, 20:44:02](https://news.ycombinator.com/item?id=37709876) - [Soviet computer has been forgotten for 30 years [video]](https://www.youtube.com/watch?v=lVCS99Zep9w)
 * [2023-09-29, 19:21:40](https://news.ycombinator.com/item?id=37708966) - [Localtunnel – Easily share a web service on your local development machine](https://theboroer.github.io/localtunnel-www/)
 * [2023-09-29, 18:27:55](https://news.ycombinator.com/item?id=37708292) - [RealFill: Image completion using diffusion models](https://realfill.github.io/)
