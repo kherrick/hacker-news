@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-29, 12:42:02](https://news.ycombinator.com/item?id=37703148) - [Search for phone signal caused oil spill, say Japanese investigators](https://www.theregister.com/2023/09/29/signal_search_caused_oil_spill/)
+* [2023-09-29, 12:25:50](https://news.ycombinator.com/item?id=37702845) - [Ask HN: Why isn't Phoenix/Elixir more mainstream?](https://news.ycombinator.com/item?id=37702845)
+* [2023-09-29, 12:09:04](https://news.ycombinator.com/item?id=37702632) - [MMO Architecture: Source of truth, Dataflows, I/O bottlenecks and how to solve](https://prdeving.wordpress.com/2023/09/29/mmo-architecture-source-of-truth-dataflows-i-o-bottlenecks-and-how-to-solve-them/)
 * [2023-09-29, 12:01:46](https://news.ycombinator.com/item?id=37702555) - [UpCodes (YC S17) is hiring remote SWEs, AES to help make buildings cheaper](https://up.codes/careers)
 * [2023-09-29, 11:22:21](https://news.ycombinator.com/item?id=37702095) - [Everything authenticated by Microsoft is tainted](https://graz.social/@publicvoit/111147782761723981)
 * [2023-09-29, 11:18:20](https://news.ycombinator.com/item?id=37702059) - [Visual Node Graph with ImGui](https://gboisse.github.io/posts/node-graph/)
@@ -20,14 +23,11 @@
 * [2023-09-29, 02:05:37](https://news.ycombinator.com/item?id=37698473) - [Discovery Steering Committee re Google Antitrust Litigation [pdf]](https://ia804605.us.archive.org/29/items/gov.uscourts.nysd.564903/gov.uscourts.nysd.564903.631.0.pdf)
 * [2023-09-28, 20:41:30](https://news.ycombinator.com/item?id=37695530) - [Show HN: Generative Fill with AI and 3D](https://github.com/fill3d/fill)
 * [2023-09-28, 20:19:26](https://news.ycombinator.com/item?id=37695245) - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
-* [2023-09-28, 20:13:28](https://news.ycombinator.com/item?id=37695165) - [Crux: Cross-platform app development in Rust](https://redbadger.github.io/crux/)
 * [2023-09-28, 19:48:27](https://news.ycombinator.com/item?id=37694814) - [The Future of Computer Wargaming (1981)](https://archive.org/details/Computer_Gaming_World_Issue_1.1)
 * [2023-09-28, 19:23:04](https://news.ycombinator.com/item?id=37694414) - [LibrePCB](https://librepcb.org/)
-* [2023-09-28, 19:17:33](https://news.ycombinator.com/item?id=37694333) - [Amtrak Explorer](https://amtrakexplorer.com/)
 * [2023-09-28, 16:09:55](https://news.ycombinator.com/item?id=37691686) - [Just kidding: the evolutionary roots of playful teasing](https://royalsocietypublishing.org/doi/10.1098/rsbl.2020.0370)
 * [2023-09-28, 15:42:05](https://news.ycombinator.com/item?id=37691232) - [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/)
 * [2023-09-28, 12:00:22](https://news.ycombinator.com/item?id=37688341) - [How async/await works internally in Swift](https://swiftrocks.com/how-async-await-works-internally-in-swift)
-* [2023-09-28, 12:00:18](https://news.ycombinator.com/item?id=37688340) - [The Design of the Connection Machine](https://www.tamikothiel.com/theory/cm_txts/di-frames.html)
 * [2023-09-28, 07:19:18](https://news.ycombinator.com/item?id=37686400) - [How to Reduce Memory Requirements with Product Quantization](https://weaviate.io/blog/pq-rescoring)
 * [2023-09-28, 05:29:21](https://news.ycombinator.com/item?id=37685580) - [Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/)
 
