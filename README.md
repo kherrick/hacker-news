@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-29, 20:25:01](https://news.ycombinator.com/item?id=37709687) - [Recommended Architectures for PostgreSQL in Kubernetes](https://www.cncf.io/blog/2023/09/29/recommended-architectures-for-postgresql-in-kubernetes/)
 * [2023-09-29, 19:21:40](https://news.ycombinator.com/item?id=37708966) - [Localtunnel – Expose Yourself to the World](https://theboroer.github.io/localtunnel-www/)
 * [2023-09-29, 18:52:13](https://news.ycombinator.com/item?id=37708623) - [My elderly parents can't resist answering the phone](https://www.bogleheads.org/forum/viewtopic.php?t=413383)
 * [2023-09-29, 18:49:16](https://news.ycombinator.com/item?id=37708582) - [Insomnium – Local, privacy-focused fork of Insomnia API client](https://github.com/ArchGPT/insomnium)
@@ -14,7 +15,6 @@
 * [2023-09-29, 15:21:40](https://news.ycombinator.com/item?id=37705563) - [Three Arrows Capital co-founder Zhu arrested in Singapore airport](https://techcrunch.com/2023/09/29/three-arrows-capital-co-founder-zhu-arrested-in-singapore-airport-sentenced-four-months-in-prison/)
 * [2023-09-29, 14:45:10](https://news.ycombinator.com/item?id=37705078) - [A new era for Arecibo](https://www.nature.com/articles/d41586-023-03021-6)
 * [2023-09-29, 14:25:35](https://news.ycombinator.com/item?id=37704760) - [Show HN: RISC-V assembly tabletop board game (hack your opponent)](https://punkx.org/overflow/)
-* [2023-09-29, 14:14:54](https://news.ycombinator.com/item?id=37704593) - [Official U.S. government information about the Global Positioning System (GPS)](https://www.gps.gov/)
 * [2023-09-29, 12:53:15](https://news.ycombinator.com/item?id=37703323) - [Loadsharers: Funding the Load Bearing Internet People (2020)](https://esr.gitlab.io/loadsharers/)
 * [2023-09-29, 12:52:48](https://news.ycombinator.com/item?id=37703317) - [Rimac unveils ‘most technically advanced BESS in the world’, SineStack](https://www.energy-storage.news/rimac-unveils-most-technically-advanced-bess-in-the-world-sinestack/)
 * [2023-09-29, 12:51:22](https://news.ycombinator.com/item?id=37703291) - [Draggable objects](https://www.redblobgames.com/making-of/draggable/)

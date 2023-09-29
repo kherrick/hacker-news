@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-29](index.md)
 
+* [2023-09-29, 20:25:01](https://news.ycombinator.com/item?id=37709687) - [Recommended Architectures for PostgreSQL in Kubernetes](https://www.cncf.io/blog/2023/09/29/recommended-architectures-for-postgresql-in-kubernetes/)
 * [2023-09-29, 19:21:40](https://news.ycombinator.com/item?id=37708966) - [Localtunnel – Expose Yourself to the World](https://theboroer.github.io/localtunnel-www/)
 * [2023-09-29, 18:52:13](https://news.ycombinator.com/item?id=37708623) - [My elderly parents can't resist answering the phone](https://www.bogleheads.org/forum/viewtopic.php?t=413383)
 * [2023-09-29, 18:49:16](https://news.ycombinator.com/item?id=37708582) - [Show HN: Insomnium – 100% local and privacy-focus fork of Insomnia API client](https://github.com/ArchGPT/insomnium)
