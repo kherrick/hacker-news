@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-29](index.md)
 
+* [2023-09-29, 07:00:09](https://news.ycombinator.com/item?id=37700206) - [Supabase (YC S20) Is Hiring a Head of Data (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/4981444004)
 * [2023-09-29, 06:07:37](https://news.ycombinator.com/item?id=37699851) - [Richard Stallman reveals he has cancer, in the GNU 40 Hacker Meeting talk](https://audio-video.gnu.org/video/gnu40/rms-gnu40.webm)
 * [2023-09-29, 05:01:47](https://news.ycombinator.com/item?id=37699465) - [German Large Language Model Released](https://laion.ai/blog/leo-lm/)
 * [2023-09-29, 04:50:09](https://news.ycombinator.com/item?id=37699396) - [Costco is selling gold bars and they are selling out within hours](https://www.cnbc.com/2023/09/27/costco-is-selling-gold-bars-and-they-are-selling-out-within-a-few-hours.html)
