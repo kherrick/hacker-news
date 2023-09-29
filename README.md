@@ -1,15 +1,16 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-29, 12:01:46](https://news.ycombinator.com/item?id=37702555) - [UpCodes (YC S17) is hiring remote SWEs, AES to help make buildings cheaper](https://up.codes/careers)
 * [2023-09-29, 11:22:21](https://news.ycombinator.com/item?id=37702095) - [Everything authenticated by Microsoft is tainted](https://graz.social/@publicvoit/111147782761723981)
 * [2023-09-29, 11:18:20](https://news.ycombinator.com/item?id=37702059) - [Visual Node Graph with ImGui](https://gboisse.github.io/posts/node-graph/)
 * [2023-09-29, 10:55:15](https://news.ycombinator.com/item?id=37701860) - [Node.js – v20.8.0](https://nodejs.org/en/blog/release/v20.8.0)
 * [2023-09-29, 10:32:05](https://news.ycombinator.com/item?id=37701691) - [Generating chess puzzles with generic algorithms (2022)](https://www.propelauth.com/post/generating-chess-puzzles-with-genetic-algorithms)
 * [2023-09-29, 10:11:53](https://news.ycombinator.com/item?id=37701537) - [Microsoft Discussed Selling Bing to Apple as Google Replacement](https://www.bloomberg.com/news/articles/2023-09-28/microsoft-discussed-selling-bing-to-apple-as-google-replacement)
+* [2023-09-29, 09:23:06](https://news.ycombinator.com/item?id=37701222) - [Leaked screenshot shows Amazon now tracking individual employee attendance](https://www.businessinsider.com/amazon-forced-rto-tracking-employee-office-attendance-2023-9)
 * [2023-09-29, 09:08:17](https://news.ycombinator.com/item?id=37701117) - [Things Every Hacker Once Knew](http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/)
 * [2023-09-29, 09:05:48](https://news.ycombinator.com/item?id=37701098) - [Disclosure of Pirates’ Identities “Compatible with EU Privacy Laws”](https://torrentfreak.com/disclosure-of-pirates-identities-compatible-with-eu-privacy-laws-230929/)
 * [2023-09-29, 09:03:08](https://news.ycombinator.com/item?id=37701082) - [Linux interop is maturing fast thanks to a games console](https://www.theregister.com/2023/09/27/osseu_steam_os_3/)
 * [2023-09-29, 08:30:03](https://news.ycombinator.com/item?id=37700847) - [Burning money on paid ads for a dev tool – what we've learned](https://posthog.com/blog/dev-marketing-paid-ads)
-* [2023-09-29, 07:00:09](https://news.ycombinator.com/item?id=37700206) - [Supabase (YC S20) Is Hiring a Head of Data (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/4981444004)
 * [2023-09-29, 06:07:37](https://news.ycombinator.com/item?id=37699851) - [Richard Stallman reveals he has cancer in the GNU 40 Hacker Meeting talk](https://audio-video.gnu.org/video/gnu40/rms-gnu40.webm)
 * [2023-09-29, 04:50:09](https://news.ycombinator.com/item?id=37699396) - [Costco gold bars are selling out within hours](https://www.cnbc.com/2023/09/27/costco-is-selling-gold-bars-and-they-are-selling-out-within-a-few-hours.html)
 * [2023-09-29, 04:36:20](https://news.ycombinator.com/item?id=37699312) - [AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model](https://arxiv.org/abs/2309.16058)
@@ -29,7 +30,6 @@
 * [2023-09-28, 12:00:18](https://news.ycombinator.com/item?id=37688340) - [The Design of the Connection Machine](https://www.tamikothiel.com/theory/cm_txts/di-frames.html)
 * [2023-09-28, 07:19:18](https://news.ycombinator.com/item?id=37686400) - [How to Reduce Memory Requirements with Product Quantization](https://weaviate.io/blog/pq-rescoring)
 * [2023-09-28, 05:29:21](https://news.ycombinator.com/item?id=37685580) - [Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/)
-* [2023-09-27, 22:27:11](https://news.ycombinator.com/item?id=37682273) - [Lisp Badge LE](http://www.technoblogy.com/show?3Z2Y)
 
 ## [Archives](archives/index.md)
 

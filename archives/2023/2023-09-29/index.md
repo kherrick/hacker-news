@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-09-29](index.md)
 
+* [2023-09-29, 12:01:46](https://news.ycombinator.com/item?id=37702555) - [UpCodes (YC S17) is hiring remote SWEs, AES to help make buildings cheaper](https://up.codes/careers)
 * [2023-09-29, 11:22:21](https://news.ycombinator.com/item?id=37702095) - [Everything authenticated by Microsoft is tainted](https://graz.social/@publicvoit/111147782761723981)
 * [2023-09-29, 11:18:20](https://news.ycombinator.com/item?id=37702059) - [Visual Node Graph with ImGui](https://gboisse.github.io/posts/node-graph/)
 * [2023-09-29, 10:55:15](https://news.ycombinator.com/item?id=37701860) - [Node.js – v20.8.0](https://nodejs.org/en/blog/release/v20.8.0)
 * [2023-09-29, 10:32:05](https://news.ycombinator.com/item?id=37701691) - [Generating chess puzzles with generic algorithms (2022)](https://www.propelauth.com/post/generating-chess-puzzles-with-genetic-algorithms)
 * [2023-09-29, 10:11:53](https://news.ycombinator.com/item?id=37701537) - [Microsoft Discussed Selling Bing to Apple as Google Replacement](https://www.bloomberg.com/news/articles/2023-09-28/microsoft-discussed-selling-bing-to-apple-as-google-replacement)
 * [2023-09-29, 10:03:31](https://news.ycombinator.com/item?id=37701476) - [CloudFlare is blocking traffic to Discord](https://discord.com/)
+* [2023-09-29, 09:23:06](https://news.ycombinator.com/item?id=37701222) - [Leaked screenshot shows Amazon now tracking individual employee attendance](https://www.businessinsider.com/amazon-forced-rto-tracking-employee-office-attendance-2023-9)
 * [2023-09-29, 09:08:17](https://news.ycombinator.com/item?id=37701117) - [Things Every Hacker Once Knew](http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/)
 * [2023-09-29, 09:05:48](https://news.ycombinator.com/item?id=37701098) - [Disclosure of Pirates’ Identities “Compatible with EU Privacy Laws”](https://torrentfreak.com/disclosure-of-pirates-identities-compatible-with-eu-privacy-laws-230929/)
 * [2023-09-29, 09:03:08](https://news.ycombinator.com/item?id=37701082) - [Linux interop is maturing fast thanks to a games console](https://www.theregister.com/2023/09/27/osseu_steam_os_3/)
