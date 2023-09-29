@@ -6,6 +6,7 @@
 
 * [2023-09-29, 15:21:40](https://news.ycombinator.com/item?id=37705563) - [Three Arrows Capital co-founder Zhu arrested in Singapore airport](https://techcrunch.com/2023/09/29/three-arrows-capital-co-founder-zhu-arrested-in-singapore-airport-sentenced-four-months-in-prison/)
 * [2023-09-29, 15:07:54](https://news.ycombinator.com/item?id=37705368) - [Privacy washing: Google claims to support privacy while lobbying against it](https://proton.me/blog/google-lobbying)
+* [2023-09-29, 14:58:34](https://news.ycombinator.com/item?id=37705244) - [A new Chrome 0-day is sending the Internet into a new chapter of Groundhog Day](https://arstechnica.com/security/2023/09/new-0-day-in-chrome-and-firefox-is-likely-to-plague-other-software/)
 * [2023-09-29, 14:45:10](https://news.ycombinator.com/item?id=37705078) - [A new era for Arecibo: legendary observatory begins next phase](https://www.nature.com/articles/d41586-023-03021-6)
 * [2023-09-29, 14:31:37](https://news.ycombinator.com/item?id=37704859) - [Norway wants Facebook behavioral advertising banned across Europe](https://www.theregister.com/2023/09/29/norway_facebook_behavioral_ads/)
 * [2023-09-29, 14:28:14](https://news.ycombinator.com/item?id=37704807) - [The Kakhovka Dam Disaster Revealed an Archaeological ‘Goldmine’](https://www.atlasobscura.com/articles/kakhovka-dam-chaika-cossack-archaeology)
@@ -21,6 +22,7 @@
 * [2023-09-29, 13:19:01](https://news.ycombinator.com/item?id=37703767) - [Senator Dianne Feinstein dies aged 90](https://www.bbc.com/news/world-us-canada-66963341)
 * [2023-09-29, 13:07:00](https://news.ycombinator.com/item?id=37703587) - [€ 5,8M fine for Grindr – Norwegian Consumer Council’s complaint upheld](https://www.forbrukerradet.no/side/e-58-million-fine-for-grindr-the-norwegian-consumer-councils-complaint-fully-upheld-by-the-privacy-board/)
 * [2023-09-29, 13:03:31](https://news.ycombinator.com/item?id=37703528) - [Senator Dianne Feinstein Dies at 90](https://www.nytimes.com/2023/09/29/us/politics/dianne-feinstein-dead-senate.html)
+* [2023-09-29, 13:00:08](https://news.ycombinator.com/item?id=37703459) - [You Can't Control Your Data in the Cloud](https://karl-voit.at/cloud/)
 * [2023-09-29, 12:56:57](https://news.ycombinator.com/item?id=37703394) - [Ask HN: What is the least obnoxious way to ask for cookie permissions?](https://news.ycombinator.com/item?id=37703394)
 * [2023-09-29, 12:56:48](https://news.ycombinator.com/item?id=37703390) - [Ten weird things you can buy online](https://www.hillelwayne.com/post/weird-things-you-can-buy/)
 * [2023-09-29, 12:54:08](https://news.ycombinator.com/item?id=37703344) - [Narrow tracks forcing trains to creep at walking pace on Boston's newest subway](https://www.bostonglobe.com/2023/09/28/metro/t-chief-calls-green-line-extension-slowdown-unacceptable/)
