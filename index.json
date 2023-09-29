@@ -1,12 +1,92 @@
 [
   [
     [
+      "2023-09-29, 13:03:31",
+      "https://news.ycombinator.com/item?id=37703528"
+    ],
+    [
+      "Senator Dianne Feinstein Dies at 90",
+      "https://www.nytimes.com/2023/09/29/us/politics/dianne-feinstein-dead-senate.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-29, 12:56:57",
+      "https://news.ycombinator.com/item?id=37703394"
+    ],
+    [
+      "Ask HN: What is the least obnoxious way to ask for cookie permissions?",
+      "https://news.ycombinator.com/item?id=37703394"
+    ]
+  ],
+  [
+    [
+      "2023-09-29, 12:56:48",
+      "https://news.ycombinator.com/item?id=37703390"
+    ],
+    [
+      "Ten weird things you can buy online",
+      "https://www.hillelwayne.com/post/weird-things-you-can-buy/"
+    ]
+  ],
+  [
+    [
+      "2023-09-29, 12:53:15",
+      "https://news.ycombinator.com/item?id=37703323"
+    ],
+    [
+      "Loadsharers: Funding the Load Bearing Internet People",
+      "https://esr.gitlab.io/loadsharers/"
+    ]
+  ],
+  [
+    [
+      "2023-09-29, 12:52:48",
+      "https://news.ycombinator.com/item?id=37703317"
+    ],
+    [
+      "Rimac unveils ‘most technically advanced BESS in the world’, SineStack",
+      "https://www.energy-storage.news/rimac-unveils-most-technically-advanced-bess-in-the-world-sinestack/"
+    ]
+  ],
+  [
+    [
+      "2023-09-29, 12:51:22",
+      "https://news.ycombinator.com/item?id=37703291"
+    ],
+    [
+      "Red Blob Games: Interactive visual explanations of math and algorithms",
+      "https://www.redblobgames.com/"
+    ]
+  ],
+  [
+    [
+      "2023-09-29, 12:45:05",
+      "https://news.ycombinator.com/item?id=37703194"
+    ],
+    [
+      "Saltwater is pushing its way up the Mississippi River",
+      "https://www.nytimes.com/interactive/2023/09/29/climate/new-orleans-saltwater-map.html"
+    ]
+  ],
+  [
+    [
       "2023-09-29, 12:42:02",
       "https://news.ycombinator.com/item?id=37703148"
     ],
     [
       "Search for phone signal caused oil spill, say Japanese investigators",
       "https://www.theregister.com/2023/09/29/signal_search_caused_oil_spill/"
+    ]
+  ],
+  [
+    [
+      "2023-09-29, 12:25:52",
+      "https://news.ycombinator.com/item?id=37702846"
+    ],
+    [
+      "iPhone 15: users of Pro and Pro Max models complain of overheating issues",
+      "https://www.theguardian.com/technology/2023/sep/29/iphone-15-users-of-pro-and-pro-max-models-complain-of-overheating-issues"
     ]
   ],
   [
@@ -111,26 +191,6 @@
   ],
   [
     [
-      "2023-09-29, 09:05:48",
-      "https://news.ycombinator.com/item?id=37701098"
-    ],
-    [
-      "Disclosure of Pirates’ Identities “Compatible with EU Privacy Laws”",
-      "https://torrentfreak.com/disclosure-of-pirates-identities-compatible-with-eu-privacy-laws-230929/"
-    ]
-  ],
-  [
-    [
-      "2023-09-29, 09:03:08",
-      "https://news.ycombinator.com/item?id=37701082"
-    ],
-    [
-      "Linux interop is maturing fast thanks to a games console",
-      "https://www.theregister.com/2023/09/27/osseu_steam_os_3/"
-    ]
-  ],
-  [
-    [
       "2023-09-29, 08:30:03",
       "https://news.ycombinator.com/item?id=37700847"
     ],
@@ -181,42 +241,12 @@
   ],
   [
     [
-      "2023-09-29, 02:27:53",
-      "https://news.ycombinator.com/item?id=37698604"
-    ],
-    [
-      "Llama 2 Long",
-      "https://arxiv.org/abs/2309.16039"
-    ]
-  ],
-  [
-    [
       "2023-09-29, 02:10:28",
       "https://news.ycombinator.com/item?id=37698506"
     ],
     [
       "Show HN: SapientML – Generative AutoML for Tabular Data",
       "https://github.com/sapientml/sapientml"
-    ]
-  ],
-  [
-    [
-      "2023-09-29, 02:05:37",
-      "https://news.ycombinator.com/item?id=37698473"
-    ],
-    [
-      "Discovery Steering Committee re Google Antitrust Litigation [pdf]",
-      "https://ia804605.us.archive.org/29/items/gov.uscourts.nysd.564903/gov.uscourts.nysd.564903.631.0.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-09-28, 20:41:30",
-      "https://news.ycombinator.com/item?id=37695530"
-    ],
-    [
-      "Show HN: Generative Fill with AI and 3D",
-      "https://github.com/fill3d/fill"
     ]
   ],
   [
@@ -267,36 +297,6 @@
     [
       "WiFi without internet on a Southwest flight",
       "https://jamesbvaughan.com/southwest-wifi/"
-    ]
-  ],
-  [
-    [
-      "2023-09-28, 12:00:22",
-      "https://news.ycombinator.com/item?id=37688341"
-    ],
-    [
-      "How async/await works internally in Swift",
-      "https://swiftrocks.com/how-async-await-works-internally-in-swift"
-    ]
-  ],
-  [
-    [
-      "2023-09-28, 07:19:18",
-      "https://news.ycombinator.com/item?id=37686400"
-    ],
-    [
-      "How to Reduce Memory Requirements with Product Quantization",
-      "https://weaviate.io/blog/pq-rescoring"
-    ]
-  ],
-  [
-    [
-      "2023-09-28, 05:29:21",
-      "https://news.ycombinator.com/item?id=37685580"
-    ],
-    [
-      "Raspberry Pi 5",
-      "https://www.raspberrypi.com/products/raspberry-pi-5/"
     ]
   ]
 ]
