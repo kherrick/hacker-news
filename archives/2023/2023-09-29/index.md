@@ -4,7 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-09-29](index.md)
 
+* [2023-09-29, 13:03:31](https://news.ycombinator.com/item?id=37703528) - [Senator Dianne Feinstein Dies at 90](https://www.nytimes.com/2023/09/29/us/politics/dianne-feinstein-dead-senate.html)
+* [2023-09-29, 12:56:57](https://news.ycombinator.com/item?id=37703394) - [Ask HN: What is the least obnoxious way to ask for cookie permissions?](https://news.ycombinator.com/item?id=37703394)
+* [2023-09-29, 12:56:48](https://news.ycombinator.com/item?id=37703390) - [Ten weird things you can buy online](https://www.hillelwayne.com/post/weird-things-you-can-buy/)
+* [2023-09-29, 12:53:15](https://news.ycombinator.com/item?id=37703323) - [Loadsharers: Funding the Load Bearing Internet People](https://esr.gitlab.io/loadsharers/)
+* [2023-09-29, 12:52:48](https://news.ycombinator.com/item?id=37703317) - [Rimac unveils ‘most technically advanced BESS in the world’, SineStack](https://www.energy-storage.news/rimac-unveils-most-technically-advanced-bess-in-the-world-sinestack/)
+* [2023-09-29, 12:51:22](https://news.ycombinator.com/item?id=37703291) - [Red Blob Games: Interactive visual explanations of math and algorithms](https://www.redblobgames.com/)
+* [2023-09-29, 12:45:05](https://news.ycombinator.com/item?id=37703194) - [Saltwater is pushing its way up the Mississippi River](https://www.nytimes.com/interactive/2023/09/29/climate/new-orleans-saltwater-map.html)
 * [2023-09-29, 12:42:02](https://news.ycombinator.com/item?id=37703148) - [Search for phone signal caused oil spill, say Japanese investigators](https://www.theregister.com/2023/09/29/signal_search_caused_oil_spill/)
+* [2023-09-29, 12:25:52](https://news.ycombinator.com/item?id=37702846) - [iPhone 15: users of Pro and Pro Max models complain of overheating issues](https://www.theguardian.com/technology/2023/sep/29/iphone-15-users-of-pro-and-pro-max-models-complain-of-overheating-issues)
 * [2023-09-29, 12:25:50](https://news.ycombinator.com/item?id=37702845) - [Ask HN: Why isn't Phoenix/Elixir more mainstream?](https://news.ycombinator.com/item?id=37702845)
 * [2023-09-29, 12:09:04](https://news.ycombinator.com/item?id=37702632) - [MMO Architecture: Source of truth, Dataflows, I/O bottlenecks and how to solve](https://prdeving.wordpress.com/2023/09/29/mmo-architecture-source-of-truth-dataflows-i-o-bottlenecks-and-how-to-solve-them/)
 * [2023-09-29, 12:01:46](https://news.ycombinator.com/item?id=37702555) - [UpCodes (YC S17) is hiring remote SWEs, AES to help make buildings cheaper](https://up.codes/careers)
