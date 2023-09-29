@@ -2,6 +2,7 @@
 
 * [2023-09-29, 20:25:01](https://news.ycombinator.com/item?id=37709687) - [Recommended Architectures for PostgreSQL in Kubernetes](https://www.cncf.io/blog/2023/09/29/recommended-architectures-for-postgresql-in-kubernetes/)
 * [2023-09-29, 19:21:40](https://news.ycombinator.com/item?id=37708966) - [Localtunnel – Expose Yourself to the World](https://theboroer.github.io/localtunnel-www/)
+* [2023-09-29, 19:10:18](https://news.ycombinator.com/item?id=37708845) - [The Only Way to Know If GPT-4 Got Dumber](https://www.latent.space/i/137474557/the-only-way-to-know-if-gpt-got-dumber)
 * [2023-09-29, 18:52:13](https://news.ycombinator.com/item?id=37708623) - [My elderly parents can't resist answering the phone](https://www.bogleheads.org/forum/viewtopic.php?t=413383)
 * [2023-09-29, 18:49:16](https://news.ycombinator.com/item?id=37708582) - [Insomnium – Local, privacy-focused fork of Insomnia API client](https://github.com/ArchGPT/insomnium)
 * [2023-09-29, 18:27:55](https://news.ycombinator.com/item?id=37708292) - [Google RealFill: Authentic Image Completion Using Diffusion Models](https://realfill.github.io/)
@@ -22,7 +23,6 @@
 * [2023-09-29, 12:35:18](https://news.ycombinator.com/item?id=37703033) - [Swarm Cluster Identification](https://jasonfantl.com/posts/Decentralized-Dynamic-Cluster-Identification/)
 * [2023-09-29, 12:09:04](https://news.ycombinator.com/item?id=37702632) - [MMO Architecture: Source of truth, Dataflows, I/O bottlenecks and how to solve](https://prdeving.wordpress.com/2023/09/29/mmo-architecture-source-of-truth-dataflows-i-o-bottlenecks-and-how-to-solve-them/)
 * [2023-09-29, 12:01:46](https://news.ycombinator.com/item?id=37702555) - [UpCodes (YC S17) is hiring remote SWEs, AES to help make buildings cheaper](https://up.codes/careers)
-* [2023-09-29, 11:34:55](https://news.ycombinator.com/item?id=37702194) - [Pixel-based visualization of distributions – click Settings](https://lincoln.swaine-moore.is/blue)
 * [2023-09-29, 11:18:20](https://news.ycombinator.com/item?id=37702059) - [Visual Node Graph with ImGui](https://gboisse.github.io/posts/node-graph/)
 * [2023-09-29, 08:30:03](https://news.ycombinator.com/item?id=37700847) - [Burning money on paid ads for a dev tool – what we've learned](https://posthog.com/blog/dev-marketing-paid-ads)
 * [2023-09-29, 02:51:31](https://news.ycombinator.com/item?id=37698768) - [Who Invented the Alphabet?](https://www.asor.org/anetoday/2023/08/who-invented-alphabet/)
