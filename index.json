@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-29, 04:36:20",
+      "https://news.ycombinator.com/item?id=37699312"
+    ],
+    [
+      "AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model",
+      "https://arxiv.org/abs/2309.16058"
+    ]
+  ],
+  [
+    [
       "2023-09-29, 03:01:31",
       "https://news.ycombinator.com/item?id=37698842"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=37698740"
     ],
     [
-      "JAX – NumPy on the CPU, GPU, and TPU, with great automatic differentiation",
+      "JAX – NumPy on the CPU, GPU, and TPU",
       "https://jax.readthedocs.io/en/latest/notebooks/quickstart.html"
     ]
   ],
@@ -207,16 +217,6 @@
     [
       "Airliner Repair, 24/7 Boeing’s traveling fix-it team (2008)",
       "https://www.smithsonianmag.com/air-space-magazine/airliner-repair-247-9974457/"
-    ]
-  ],
-  [
-    [
-      "2023-09-28, 14:53:14",
-      "https://news.ycombinator.com/item?id=37690392"
-    ],
-    [
-      "What if Planet 9 is a Primordial Black Hole? (2019)",
-      "https://arxiv.org/abs/1909.11090"
     ]
   ],
   [
