@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-29](index.md)
 
+* [2023-09-29, 13:47:03](https://news.ycombinator.com/item?id=37704171) - [Tim Sweeney on Layoffs at Epic](https://www.epicgames.com/site/de/news/layoffs-at-epic)
 * [2023-09-29, 13:36:42](https://news.ycombinator.com/item?id=37704036) - [UK quietly dismisses independent AI advisory board, alarming tech sector](https://thenextweb.com/news/uk-dismisses-independent-ai-advisory-board-alarming-tech-sector)
 * [2023-09-29, 13:27:00](https://news.ycombinator.com/item?id=37703885) - [Encrypted Client Hello – the last puzzle piece to privacy](https://blog.cloudflare.com/announcing-encrypted-client-hello/)
 * [2023-09-29, 13:19:01](https://news.ycombinator.com/item?id=37703767) - [Senator Dianne Feinstein dies aged 90](https://www.bbc.com/news/world-us-canada-66963341)
