@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-29, 22:08:56](https://news.ycombinator.com/item?id=37710683) - [Factorio Friday Facts #378 – Trains on another level](https://factorio.com/blog/post/fff-378)
 * [2023-09-29, 21:20:19](https://news.ycombinator.com/item?id=37710211) - [Has a San Antonio Inventor Solved a Problem of Small-Scale Wind Power?](https://www.texasmonthly.com/news-politics/pirate-wind-turbines-inventor/)
 * [2023-09-29, 21:14:13](https://news.ycombinator.com/item?id=37710154) - [Investigating a teen’s death on an ebike and the Rad brand’s safety](https://www.bicycling.com/culture/a42690937/molly-steinsapir-lawsuit-rad-power-electric-bike/)
 * [2023-09-29, 20:44:02](https://news.ycombinator.com/item?id=37709876) - [Soviet computer has been forgotten for 30 years [video]](https://www.youtube.com/watch?v=lVCS99Zep9w)
@@ -10,7 +11,6 @@
 * [2023-09-29, 16:51:32](https://news.ycombinator.com/item?id=37706893) - [50 years later, is Two-Phase Locking the best we can do?](http://concurrencyfreaks.blogspot.com/2023/09/50-years-later-is-two-phase-locking.html)
 * [2023-09-29, 16:38:05](https://news.ycombinator.com/item?id=37706706) - [A scientific curiosity that happened to me](https://old.reddit.com/r/Physics/comments/16v8g6e/a_scientific_curiosity_that_happened_to_me/)
 * [2023-09-29, 16:25:35](https://news.ycombinator.com/item?id=37706513) - [Low-Code Programming Models](https://cacm.acm.org/magazines/2023/10/276633-low-code-programming-models/fulltext)
-* [2023-09-29, 16:14:54](https://news.ycombinator.com/item?id=37706353) - [Farm robots inspired by ant brains](https://techxplore.com/news/2023-09-farm-robots-ant-brains.html)
 * [2023-09-29, 15:54:07](https://news.ycombinator.com/item?id=37706070) - [SIMD Everywhere Optimization from ARM Neon to RISC-V Vector Extensions](https://arxiv.org/abs/2309.16509)
 * [2023-09-29, 14:45:10](https://news.ycombinator.com/item?id=37705078) - [A new era for Arecibo](https://www.nature.com/articles/d41586-023-03021-6)
 * [2023-09-29, 14:25:35](https://news.ycombinator.com/item?id=37704760) - [Show HN: RISC-V assembly tabletop board game (hack your opponent)](https://punkx.org/overflow/)
