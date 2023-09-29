@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-29](index.md)
 
+* [2023-09-29, 13:36:42](https://news.ycombinator.com/item?id=37704036) - [UK quietly dismisses independent AI advisory board, alarming tech sector](https://thenextweb.com/news/uk-dismisses-independent-ai-advisory-board-alarming-tech-sector)
 * [2023-09-29, 13:27:00](https://news.ycombinator.com/item?id=37703885) - [Encrypted Client Hello – the last puzzle piece to privacy](https://blog.cloudflare.com/announcing-encrypted-client-hello/)
 * [2023-09-29, 13:19:01](https://news.ycombinator.com/item?id=37703767) - [Senator Dianne Feinstein dies aged 90](https://www.bbc.com/news/world-us-canada-66963341)
 * [2023-09-29, 13:03:31](https://news.ycombinator.com/item?id=37703528) - [Senator Dianne Feinstein Dies at 90](https://www.nytimes.com/2023/09/29/us/politics/dianne-feinstein-dead-senate.html)
@@ -21,6 +22,7 @@
 * [2023-09-29, 12:35:18](https://news.ycombinator.com/item?id=37703033) - [Swarm Cluster Identification](https://jasonfantl.com/posts/Decentralized-Dynamic-Cluster-Identification/)
 * [2023-09-29, 12:25:52](https://news.ycombinator.com/item?id=37702846) - [iPhone 15: users of Pro and Pro Max models complain of overheating issues](https://www.theguardian.com/technology/2023/sep/29/iphone-15-users-of-pro-and-pro-max-models-complain-of-overheating-issues)
 * [2023-09-29, 12:25:50](https://news.ycombinator.com/item?id=37702845) - [Ask HN: Why isn't Phoenix/Elixir more mainstream?](https://news.ycombinator.com/item?id=37702845)
+* [2023-09-29, 12:20:13](https://news.ycombinator.com/item?id=37702751) - [Web Scraping Using ChatGPT – Complete Guide with Examples](https://proxiesapi.com/articles/web-scraping-using-chatgpt-complete-guide-with-examples)
 * [2023-09-29, 12:09:04](https://news.ycombinator.com/item?id=37702632) - [MMO Architecture: Source of truth, Dataflows, I/O bottlenecks and how to solve](https://prdeving.wordpress.com/2023/09/29/mmo-architecture-source-of-truth-dataflows-i-o-bottlenecks-and-how-to-solve-them/)
 * [2023-09-29, 12:01:46](https://news.ycombinator.com/item?id=37702555) - [UpCodes (YC S17) is hiring remote SWEs, AES to help make buildings cheaper](https://up.codes/careers)
 * [2023-09-29, 11:22:21](https://news.ycombinator.com/item?id=37702095) - [Everything authenticated by Microsoft is tainted](https://graz.social/@publicvoit/111147782761723981)
