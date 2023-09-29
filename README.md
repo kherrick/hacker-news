@@ -2,6 +2,7 @@
 
 * [2023-09-29, 11:22:21](https://news.ycombinator.com/item?id=37702095) - [Everything authenticated by Microsoft is tainted](https://graz.social/@publicvoit/111147782761723981)
 * [2023-09-29, 11:18:20](https://news.ycombinator.com/item?id=37702059) - [Visual Node Graph with ImGui](https://gboisse.github.io/posts/node-graph/)
+* [2023-09-29, 10:55:15](https://news.ycombinator.com/item?id=37701860) - [Node.js – v20.8.0](https://nodejs.org/en/blog/release/v20.8.0)
 * [2023-09-29, 10:32:05](https://news.ycombinator.com/item?id=37701691) - [Generating chess puzzles with generic algorithms (2022)](https://www.propelauth.com/post/generating-chess-puzzles-with-genetic-algorithms)
 * [2023-09-29, 10:11:53](https://news.ycombinator.com/item?id=37701537) - [Microsoft Discussed Selling Bing to Apple as Google Replacement](https://www.bloomberg.com/news/articles/2023-09-28/microsoft-discussed-selling-bing-to-apple-as-google-replacement)
 * [2023-09-29, 09:08:17](https://news.ycombinator.com/item?id=37701117) - [Things Every Hacker Once Knew](http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/)
@@ -12,7 +13,6 @@
 * [2023-09-29, 06:07:37](https://news.ycombinator.com/item?id=37699851) - [Richard Stallman reveals he has cancer in the GNU 40 Hacker Meeting talk](https://audio-video.gnu.org/video/gnu40/rms-gnu40.webm)
 * [2023-09-29, 04:50:09](https://news.ycombinator.com/item?id=37699396) - [Costco gold bars are selling out within hours](https://www.cnbc.com/2023/09/27/costco-is-selling-gold-bars-and-they-are-selling-out-within-a-few-hours.html)
 * [2023-09-29, 04:36:20](https://news.ycombinator.com/item?id=37699312) - [AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model](https://arxiv.org/abs/2309.16058)
-* [2023-09-29, 03:05:50](https://news.ycombinator.com/item?id=37698864) - [Nvidia Offices Raided by French Law Enforcement](https://wccftech.com/nvidia-offices-raided-french-law-enforcement-over-suspected-anticompetitive-practices/)
 * [2023-09-29, 02:47:42](https://news.ycombinator.com/item?id=37698740) - [JAX – NumPy on the CPU, GPU, and TPU](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
 * [2023-09-29, 02:27:53](https://news.ycombinator.com/item?id=37698604) - [Llama 2 Long](https://arxiv.org/abs/2309.16039)
 * [2023-09-29, 02:10:28](https://news.ycombinator.com/item?id=37698506) - [Show HN: SapientML – Generative AutoML for Tabular Data](https://github.com/sapientml/sapientml)
