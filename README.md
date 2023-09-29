@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-29, 03:01:31](https://news.ycombinator.com/item?id=37698842) - [The point of a game is not to win, and you shouldn't even pretend that it is](https://makopool.com/subgoals.html)
 * [2023-09-29, 02:27:53](https://news.ycombinator.com/item?id=37698604) - [Llama 2 Long](https://arxiv.org/abs/2309.16039)
 * [2023-09-29, 02:10:28](https://news.ycombinator.com/item?id=37698506) - [Show HN: SapientML – Generative AutoML for Tabular Data](https://github.com/sapientml/sapientml)
 * [2023-09-29, 02:05:37](https://news.ycombinator.com/item?id=37698473) - [Discovery Steering Committee re Google Antitrust Litigation [pdf]](https://ia804605.us.archive.org/29/items/gov.uscourts.nysd.564903/gov.uscourts.nysd.564903.631.0.pdf)
@@ -28,7 +29,6 @@
 * [2023-09-28, 09:10:00](https://news.ycombinator.com/item?id=37687134) - [Making Gaussian Splats more smaller](https://aras-p.info/blog/2023/09/27/Making-Gaussian-Splats-more-smaller/)
 * [2023-09-28, 07:56:44](https://news.ycombinator.com/item?id=37686641) - [Upcycled Bicycle Panniers DIY](https://rackhackers.com/)
 * [2023-09-28, 07:55:38](https://news.ycombinator.com/item?id=37686633) - [The saga of the Closure compiler, and why TypeScript won](https://effectivetypescript.com/2023/09/27/closure-compiler/)
-* [2023-09-28, 07:19:18](https://news.ycombinator.com/item?id=37686400) - [How to Reduce Memory Requirements with Product Quantization](https://weaviate.io/blog/pq-rescoring)
 * [2023-09-28, 05:29:21](https://news.ycombinator.com/item?id=37685580) - [Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/)
 
 ## [Archives](archives/index.md)
