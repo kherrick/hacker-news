@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=37698842"
     ],
     [
-      "The point of a game is not to win, and you shouldn't even pretend that it is",
+      "The point of a game is not to win",
       "https://makopool.com/subgoals.html"
     ]
   ],
@@ -47,16 +47,6 @@
     [
       "Discovery Steering Committee re Google Antitrust Litigation [pdf]",
       "https://ia804605.us.archive.org/29/items/gov.uscourts.nysd.564903/gov.uscourts.nysd.564903.631.0.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-09-29, 01:45:21",
-      "https://news.ycombinator.com/item?id=37698334"
-    ],
-    [
-      "Ask HN: Which is the oldest software alive still in 0.x, used by many?",
-      "https://news.ycombinator.com/item?id=37698334"
     ]
   ],
   [
@@ -221,22 +211,22 @@
   ],
   [
     [
+      "2023-09-28, 14:53:14",
+      "https://news.ycombinator.com/item?id=37690392"
+    ],
+    [
+      "What if Planet 9 is a Primordial Black Hole? (2019)",
+      "https://arxiv.org/abs/1909.11090"
+    ]
+  ],
+  [
+    [
       "2023-09-28, 14:48:51",
       "https://news.ycombinator.com/item?id=37690320"
     ],
     [
       "Coding in the Debugger (2007)",
       "https://tidyfirst.substack.com/p/coding-in-the-debugger"
-    ]
-  ],
-  [
-    [
-      "2023-09-28, 12:48:14",
-      "https://news.ycombinator.com/item?id=37688887"
-    ],
-    [
-      "FreeRDP: A remote desktop protocol implementation",
-      "https://www.freerdp.com/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The saga of the Closure compiler, and why TypeScript won",
       "https://effectivetypescript.com/2023/09/27/closure-compiler/"
+    ]
+  ],
+  [
+    [
+      "2023-09-28, 07:19:18",
+      "https://news.ycombinator.com/item?id=37686400"
+    ],
+    [
+      "How to Reduce Memory Requirements with Product Quantization",
+      "https://weaviate.io/blog/pq-rescoring"
     ]
   ],
   [
