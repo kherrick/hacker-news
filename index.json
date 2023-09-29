@@ -1,22 +1,22 @@
 [
   [
     [
-      "2023-09-29, 00:25:37",
-      "https://news.ycombinator.com/item?id=37697795"
+      "2023-09-29, 00:32:39",
+      "https://news.ycombinator.com/item?id=37697846"
     ],
     [
-      "Mozilla.social is live and open to registration",
-      "https://mozilla.social"
+      "The Internals of Deno",
+      "https://choubey.gitbook.io/internals-of-deno/"
     ]
   ],
   [
     [
-      "2023-09-29, 00:18:51",
-      "https://news.ycombinator.com/item?id=37697753"
+      "2023-09-29, 00:25:37",
+      "https://news.ycombinator.com/item?id=37697795"
     ],
     [
-      "Apple Should End Their Google Search Partnership",
-      "https://www.magiclasso.co/insights/apple-google-search-partnership/"
+      "Mozilla.social mastodon instance is live",
+      "https://mozilla.social"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2023-09-28, 16:41:42",
-      "https://news.ycombinator.com/item?id=37692166"
-    ],
-    [
-      "RZK: Experimental proof assistant for synthetic ∞-categories",
-      "https://github.com/rzk-lang/rzk"
-    ]
-  ],
-  [
-    [
       "2023-09-28, 15:42:05",
       "https://news.ycombinator.com/item?id=37691232"
     ],
@@ -287,6 +277,16 @@
     [
       "The saga of the Closure compiler, and why TypeScript won",
       "https://effectivetypescript.com/2023/09/27/closure-compiler/"
+    ]
+  ],
+  [
+    [
+      "2023-09-28, 07:19:18",
+      "https://news.ycombinator.com/item?id=37686400"
+    ],
+    [
+      "How to Reduce Memory Requirements with Product Quantization",
+      "https://weaviate.io/blog/pq-rescoring"
     ]
   ],
   [
