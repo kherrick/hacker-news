@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-29](index.md)
 
 * [2023-09-29, 18:31:05](https://news.ycombinator.com/item?id=37708346) - [Extreme Misogyny in Incels Probably Not Caused by Sexual Frustration](https://researchinenglish.com/article/2023.8/new-study-disputes-link-between-sexual-frustration-and-xkk2v4nl/)
+* [2023-09-29, 18:27:55](https://news.ycombinator.com/item?id=37708292) - [Google RealFill: Authentic Image Completion Using Diffusion Models](https://realfill.github.io/)
 * [2023-09-29, 18:08:11](https://news.ycombinator.com/item?id=37708016) - [Have a complaint about CVS? So do pharmacists: Many just walked out](https://text.npr.org/1202365487)
 * [2023-09-29, 17:11:49](https://news.ycombinator.com/item?id=37707208) - [If money rules the world – who rules money? (2008) [pdf]](http://web.archive.org/web/20200304024854if_/http://margritkennedy.de/media/art_forum_csr_international_1_2008_28.pdf)
 * [2023-09-29, 17:05:45](https://news.ycombinator.com/item?id=37707119) - [I Tested an HDMI Adapter That Demands Your Location and Spams You with Ads](https://www.404media.co/i-tested-an-hdmi-adapter-that-demands-your-location-browsing-data-photos-and-spams-you-with-ads/)
@@ -15,6 +16,7 @@
 * [2023-09-29, 16:30:52](https://news.ycombinator.com/item?id=37706596) - [How a Four-Day Workweek Works, from the Companies Pulling It Off](https://www.wsj.com/lifestyle/careers/how-a-4-day-workweek-actually-works-from-the-companies-pulling-it-off-1a5c0e2a)
 * [2023-09-29, 16:25:35](https://news.ycombinator.com/item?id=37706513) - [Low-Code Programming Models](https://cacm.acm.org/magazines/2023/10/276633-low-code-programming-models/fulltext)
 * [2023-09-29, 16:17:34](https://news.ycombinator.com/item?id=37706389) - [Microsoft will stop old Windows keys from activating new Windows installs](https://arstechnica.com/gadgets/2023/09/microsoft-says-you-cant-activate-windows-10-11-with-old-windows-7-8-keys-anymore/)
+* [2023-09-29, 16:14:54](https://news.ycombinator.com/item?id=37706353) - [Farm robots inspired by ant brains](https://techxplore.com/news/2023-09-farm-robots-ant-brains.html)
 * [2023-09-29, 16:11:03](https://news.ycombinator.com/item?id=37706302) - [Facebook/Meta blocks accounts for posting link to EFF privacy tips](https://techhub.social/@kirbstr/111148950526108155)
 * [2023-09-29, 15:54:07](https://news.ycombinator.com/item?id=37706070) - [SIMD Everywhere Optimization from ARM Neon to RISC-V Vector Extensions](https://arxiv.org/abs/2309.16509)
 * [2023-09-29, 15:35:32](https://news.ycombinator.com/item?id=37705779) - [UTM: An Apple hypervisor with some unique extra abilities](https://www.theregister.com/2023/09/29/utm_apple_hypervisor_foss_fest/)
@@ -44,6 +46,7 @@
 * [2023-09-29, 12:53:15](https://news.ycombinator.com/item?id=37703323) - [Loadsharers: Funding the Load Bearing Internet People](https://esr.gitlab.io/loadsharers/)
 * [2023-09-29, 12:52:48](https://news.ycombinator.com/item?id=37703317) - [Rimac unveils ‘most technically advanced BESS in the world’, SineStack](https://www.energy-storage.news/rimac-unveils-most-technically-advanced-bess-in-the-world-sinestack/)
 * [2023-09-29, 12:51:22](https://news.ycombinator.com/item?id=37703291) - [Red Blob Games: Interactive visual explanations of math and algorithms](https://www.redblobgames.com/)
+* [2023-09-29, 12:51:22](https://news.ycombinator.com/item?id=37703291) - [Draggable objects](https://www.redblobgames.com/making-of/draggable/)
 * [2023-09-29, 12:47:00](https://news.ycombinator.com/item?id=37703219) - [Oleg Bartunov: My Postgres Story: Internationalization](https://obartunov.livejournal.com/211100.html)
 * [2023-09-29, 12:45:05](https://news.ycombinator.com/item?id=37703194) - [Saltwater is pushing its way up the Mississippi River](https://www.nytimes.com/interactive/2023/09/29/climate/new-orleans-saltwater-map.html)
 * [2023-09-29, 12:43:30](https://news.ycombinator.com/item?id=37703175) - [Compile-time safety for enumerations in Go](https://vladimir.varank.in/notes/2023/09/compile-time-safety-for-enumerations-in-go/)
