@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-09-29](index.md)
 
+* [2023-09-29, 14:45:10](https://news.ycombinator.com/item?id=37705078) - [A new era for Arecibo: legendary observatory begins next phase](https://www.nature.com/articles/d41586-023-03021-6)
+* [2023-09-29, 14:31:37](https://news.ycombinator.com/item?id=37704859) - [Norway wants Facebook behavioral advertising banned across Europe](https://www.theregister.com/2023/09/29/norway_facebook_behavioral_ads/)
 * [2023-09-29, 14:28:14](https://news.ycombinator.com/item?id=37704807) - [The Kakhovka Dam Disaster Revealed an Archaeological ‘Goldmine’](https://www.atlasobscura.com/articles/kakhovka-dam-chaika-cossack-archaeology)
 * [2023-09-29, 14:25:35](https://news.ycombinator.com/item?id=37704760) - [Show HN: RISC-V assembly tabletop board game (hack your opponent)](https://punkx.org/overflow/)
+* [2023-09-29, 14:19:27](https://news.ycombinator.com/item?id=37704667) - [Redditor uses ChatGPT to fix annoying Safari UI issue on macOS](https://chat.openai.com/share/af5551c3-0a54-4cee-a7db-be689deb2f70)
 * [2023-09-29, 14:14:54](https://news.ycombinator.com/item?id=37704593) - [Official U.S. government information about the Global Positioning System (GPS)](https://www.gps.gov/)
 * [2023-09-29, 14:13:51](https://news.ycombinator.com/item?id=37704579) - [John Baez' Applied Category Theory Lectures](https://mathstodon.xyz/@johncarlosbaez/111136608294290523)
 * [2023-09-29, 14:11:04](https://news.ycombinator.com/item?id=37704537) - [$5k Google Jamboard dies in 2024–cloud-based apps will stop working, too](https://arstechnica.com/gadgets/2023/09/5000-google-jamboard-dies-in-2024-cloud-based-apps-will-stop-working-too/)
