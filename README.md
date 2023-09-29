@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-29, 08:27:29](https://news.ycombinator.com/item?id=37700834) - [Teen arrested in England after felling ancient tree](https://www.aljazeera.com/news/2023/9/29/boy-arrested-in-england-over-deliberate-felling-of-famous-tree)
 * [2023-09-29, 07:00:09](https://news.ycombinator.com/item?id=37700206) - [Supabase (YC S20) Is Hiring a Head of Data (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/4981444004)
 * [2023-09-29, 06:07:37](https://news.ycombinator.com/item?id=37699851) - [Richard Stallman reveals he has cancer in the GNU 40 Hacker Meeting talk](https://audio-video.gnu.org/video/gnu40/rms-gnu40.webm)
 * [2023-09-29, 05:01:47](https://news.ycombinator.com/item?id=37699465) - [LeoLM: German-Language LLM Research](https://laion.ai/blog/leo-lm/)
@@ -7,7 +8,6 @@
 * [2023-09-29, 04:36:20](https://news.ycombinator.com/item?id=37699312) - [AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model](https://arxiv.org/abs/2309.16058)
 * [2023-09-29, 03:05:50](https://news.ycombinator.com/item?id=37698864) - [Nvidia Offices Raided by French Law Enforcement](https://wccftech.com/nvidia-offices-raided-french-law-enforcement-over-suspected-anticompetitive-practices/)
 * [2023-09-29, 02:47:42](https://news.ycombinator.com/item?id=37698740) - [JAX – NumPy on the CPU, GPU, and TPU](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
-* [2023-09-29, 02:28:16](https://news.ycombinator.com/item?id=37698612) - [There were no humans at all in New Zealand until about 1250AD](https://teara.govt.nz/en/history/page-1)
 * [2023-09-29, 02:27:53](https://news.ycombinator.com/item?id=37698604) - [Llama 2 Long](https://arxiv.org/abs/2309.16039)
 * [2023-09-29, 02:10:28](https://news.ycombinator.com/item?id=37698506) - [Show HN: SapientML – Generative AutoML for Tabular Data](https://github.com/sapientml/sapientml)
 * [2023-09-29, 02:05:37](https://news.ycombinator.com/item?id=37698473) - [Discovery Steering Committee re Google Antitrust Litigation [pdf]](https://ia804605.us.archive.org/29/items/gov.uscourts.nysd.564903/gov.uscourts.nysd.564903.631.0.pdf)
