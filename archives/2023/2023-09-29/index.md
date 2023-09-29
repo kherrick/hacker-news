@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-29](index.md)
 
+* [2023-09-29, 09:05:48](https://news.ycombinator.com/item?id=37701098) - [Disclosure of Pirates’ Identities “Compatible with EU Privacy Laws”](https://torrentfreak.com/disclosure-of-pirates-identities-compatible-with-eu-privacy-laws-230929/)
 * [2023-09-29, 08:27:29](https://news.ycombinator.com/item?id=37700834) - [Teen arrested in England after felling ancient tree](https://www.aljazeera.com/news/2023/9/29/boy-arrested-in-england-over-deliberate-felling-of-famous-tree)
 * [2023-09-29, 07:00:09](https://news.ycombinator.com/item?id=37700206) - [Supabase (YC S20) Is Hiring a Head of Data (Fully Remote)](https://boards.greenhouse.io/supabase/jobs/4981444004)
 * [2023-09-29, 06:07:37](https://news.ycombinator.com/item?id=37699851) - [Richard Stallman reveals he has cancer, in the GNU 40 Hacker Meeting talk](https://audio-video.gnu.org/video/gnu40/rms-gnu40.webm)
