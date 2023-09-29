@@ -7,6 +7,7 @@
 * [2023-09-29, 13:36:42](https://news.ycombinator.com/item?id=37704036) - [UK quietly dismisses independent AI advisory board, alarming tech sector](https://thenextweb.com/news/uk-dismisses-independent-ai-advisory-board-alarming-tech-sector)
 * [2023-09-29, 13:27:00](https://news.ycombinator.com/item?id=37703885) - [Encrypted Client Hello – the last puzzle piece to privacy](https://blog.cloudflare.com/announcing-encrypted-client-hello/)
 * [2023-09-29, 13:19:01](https://news.ycombinator.com/item?id=37703767) - [Senator Dianne Feinstein dies aged 90](https://www.bbc.com/news/world-us-canada-66963341)
+* [2023-09-29, 13:07:00](https://news.ycombinator.com/item?id=37703587) - [€ 5,8M fine for Grindr – Norwegian Consumer Council’s complaint upheld](https://www.forbrukerradet.no/side/e-58-million-fine-for-grindr-the-norwegian-consumer-councils-complaint-fully-upheld-by-the-privacy-board/)
 * [2023-09-29, 13:03:31](https://news.ycombinator.com/item?id=37703528) - [Senator Dianne Feinstein Dies at 90](https://www.nytimes.com/2023/09/29/us/politics/dianne-feinstein-dead-senate.html)
 * [2023-09-29, 12:56:57](https://news.ycombinator.com/item?id=37703394) - [Ask HN: What is the least obnoxious way to ask for cookie permissions?](https://news.ycombinator.com/item?id=37703394)
 * [2023-09-29, 12:56:48](https://news.ycombinator.com/item?id=37703390) - [Ten weird things you can buy online](https://www.hillelwayne.com/post/weird-things-you-can-buy/)
