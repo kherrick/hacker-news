@@ -2,6 +2,7 @@
 
 * [2023-09-29, 06:07:37](https://news.ycombinator.com/item?id=37699851) - [Richard Stallman reveals he has cancer in the GNU 40 Hacker Meeting talk](https://audio-video.gnu.org/video/gnu40/rms-gnu40.webm)
 * [2023-09-29, 05:01:47](https://news.ycombinator.com/item?id=37699465) - [LeoLM: German-Language LLM Research](https://laion.ai/blog/leo-lm/)
+* [2023-09-29, 04:50:09](https://news.ycombinator.com/item?id=37699396) - [Costco gold bars are selling out within hours](https://www.cnbc.com/2023/09/27/costco-is-selling-gold-bars-and-they-are-selling-out-within-a-few-hours.html)
 * [2023-09-29, 04:36:20](https://news.ycombinator.com/item?id=37699312) - [AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model](https://arxiv.org/abs/2309.16058)
 * [2023-09-29, 03:05:50](https://news.ycombinator.com/item?id=37698864) - [Nvidia Offices Raided by French Law Enforcement](https://wccftech.com/nvidia-offices-raided-french-law-enforcement-over-suspected-anticompetitive-practices/)
 * [2023-09-29, 02:47:42](https://news.ycombinator.com/item?id=37698740) - [JAX – NumPy on the CPU, GPU, and TPU](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
@@ -12,7 +13,6 @@
 * [2023-09-29, 00:45:31](https://news.ycombinator.com/item?id=37697948) - [US Senate’s email system melts down in face of security test and reply-all chaos](https://www.politico.com/minutes/congress/09-8-2023/senate-reply-all-mess/)
 * [2023-09-28, 20:41:30](https://news.ycombinator.com/item?id=37695530) - [Show HN: Generative Fill with AI and 3D](https://github.com/fill3d/fill)
 * [2023-09-28, 20:19:26](https://news.ycombinator.com/item?id=37695245) - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
-* [2023-09-28, 20:16:39](https://news.ycombinator.com/item?id=37695215) - [YAML: Probably not so great after all](https://www.arp242.net/yaml-config.html)
 * [2023-09-28, 20:13:28](https://news.ycombinator.com/item?id=37695165) - [Crux: Cross-platform app development in Rust](https://redbadger.github.io/crux/)
 * [2023-09-28, 20:04:13](https://news.ycombinator.com/item?id=37695035) - [Bandcamp has been sold to Songtradr. What does this mean for the musicians?](https://rocknerd.co.uk/2023/09/28/bandcamp-has-been-sold-to-songtradr/)
 * [2023-09-28, 19:55:54](https://news.ycombinator.com/item?id=37694910) - [RackNES: NES Module for VCV Rack](https://github.com/Kautenja/RackNES)
