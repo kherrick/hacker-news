@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-29, 13:47:03",
+      "https://news.ycombinator.com/item?id=37704171"
+    ],
+    [
+      "Tim Sweeney on Layoffs at Epic",
+      "https://www.epicgames.com/site/de/news/layoffs-at-epic"
+    ]
+  ],
+  [
+    [
       "2023-09-29, 13:36:42",
       "https://news.ycombinator.com/item?id=37704036"
     ],
@@ -17,16 +27,6 @@
     [
       "Encrypted Client Hello – the last puzzle piece to privacy",
       "https://blog.cloudflare.com/announcing-encrypted-client-hello/"
-    ]
-  ],
-  [
-    [
-      "2023-09-29, 13:07:00",
-      "https://news.ycombinator.com/item?id=37703587"
-    ],
-    [
-      "€ 5,8M fine for Grindr – Norwegian Consumer Council’s complaint upheld",
-      "https://www.forbrukerradet.no/side/e-58-million-fine-for-grindr-the-norwegian-consumer-councils-complaint-fully-upheld-by-the-privacy-board/"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "Search for phone signal caused oil spill, say Japanese investigators",
       "https://www.theregister.com/2023/09/29/signal_search_caused_oil_spill/"
-    ]
-  ],
-  [
-    [
-      "2023-09-29, 12:36:31",
-      "https://news.ycombinator.com/item?id=37703051"
-    ],
-    [
-      "Press freedom means controlling the language of AI",
-      "https://www.niemanlab.org/2023/09/press-freedom-means-controlling-the-language-of-ai/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Richard Stallman reveals he has cancer in the GNU 40 Hacker Meeting talk [video]",
       "https://audio-video.gnu.org/video/gnu40/rms-gnu40.webm"
+    ]
+  ],
+  [
+    [
+      "2023-09-29, 04:36:20",
+      "https://news.ycombinator.com/item?id=37699312"
+    ],
+    [
+      "AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model",
+      "https://arxiv.org/abs/2309.16058"
     ]
   ],
   [
