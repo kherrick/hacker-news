@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-29](index.md)
 
+* [2023-09-29, 16:11:03](https://news.ycombinator.com/item?id=37706302) - [Facebook/Meta blocks accounts for posting link to EFF privacy tips](https://techhub.social/@kirbstr/111148950526108155)
 * [2023-09-29, 15:21:40](https://news.ycombinator.com/item?id=37705563) - [Three Arrows Capital co-founder Zhu arrested in Singapore airport](https://techcrunch.com/2023/09/29/three-arrows-capital-co-founder-zhu-arrested-in-singapore-airport-sentenced-four-months-in-prison/)
 * [2023-09-29, 15:07:54](https://news.ycombinator.com/item?id=37705368) - [Privacy washing: Google claims to support privacy while lobbying against it](https://proton.me/blog/google-lobbying)
 * [2023-09-29, 14:58:34](https://news.ycombinator.com/item?id=37705244) - [A new Chrome 0-day is sending the Internet into a new chapter of Groundhog Day](https://arstechnica.com/security/2023/09/new-0-day-in-chrome-and-firefox-is-likely-to-plague-other-software/)

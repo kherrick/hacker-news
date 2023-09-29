@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-29, 16:11:03](https://news.ycombinator.com/item?id=37706302) - [Facebook/Meta blocks accounts for posting link to EFF privacy tips](https://techhub.social/@kirbstr/111148950526108155)
 * [2023-09-29, 15:21:40](https://news.ycombinator.com/item?id=37705563) - [Three Arrows Capital co-founder Zhu arrested in Singapore airport](https://techcrunch.com/2023/09/29/three-arrows-capital-co-founder-zhu-arrested-in-singapore-airport-sentenced-four-months-in-prison/)
 * [2023-09-29, 15:07:54](https://news.ycombinator.com/item?id=37705368) - [Privacy washing: Google claims to support privacy while lobbying against it](https://proton.me/blog/google-lobbying)
 * [2023-09-29, 14:58:34](https://news.ycombinator.com/item?id=37705244) - [A new Chrome 0-day is sending the Internet into a new chapter of Groundhog Day](https://arstechnica.com/security/2023/09/new-0-day-in-chrome-and-firefox-is-likely-to-plague-other-software/)
@@ -12,7 +13,6 @@
 * [2023-09-29, 14:14:54](https://news.ycombinator.com/item?id=37704593) - [Official U.S. government information about the Global Positioning System (GPS)](https://www.gps.gov/)
 * [2023-09-29, 14:13:51](https://news.ycombinator.com/item?id=37704579) - [John Baez' Applied Category Theory Lectures](https://mathstodon.xyz/@johncarlosbaez/111136608294290523)
 * [2023-09-29, 14:11:04](https://news.ycombinator.com/item?id=37704537) - [$5k Google Jamboard dies in 2024–cloud-based apps will stop working, too](https://arstechnica.com/gadgets/2023/09/5000-google-jamboard-dies-in-2024-cloud-based-apps-will-stop-working-too/)
-* [2023-09-29, 13:47:03](https://news.ycombinator.com/item?id=37704171) - [Tim Sweeney on Layoffs at Epic](https://www.epicgames.com/site/de/news/layoffs-at-epic)
 * [2023-09-29, 13:36:42](https://news.ycombinator.com/item?id=37704036) - [UK dismisses independent AI advisory board](https://thenextweb.com/news/uk-dismisses-independent-ai-advisory-board-alarming-tech-sector)
 * [2023-09-29, 13:00:08](https://news.ycombinator.com/item?id=37703459) - [You Can't Control Your Data in the Cloud](https://karl-voit.at/cloud/)
 * [2023-09-29, 12:53:15](https://news.ycombinator.com/item?id=37703323) - [Loadsharers: Funding the Load Bearing Internet People (2020)](https://esr.gitlab.io/loadsharers/)
