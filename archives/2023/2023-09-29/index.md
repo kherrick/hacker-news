@@ -8,6 +8,7 @@
 * [2023-09-29, 21:02:42](https://news.ycombinator.com/item?id=37710048) - [41% of French pop in favour of limiting everyone to 4 flights for entire life](https://twitter.com/spignal/status/1707456628918726828)
 * [2023-09-29, 20:49:21](https://news.ycombinator.com/item?id=37709921) - [Our New Observability Platform for 100B Logs](https://blog.railway.app/p/launch-week-01-observability)
 * [2023-09-29, 20:44:02](https://news.ycombinator.com/item?id=37709876) - [Soviet computer has been forgotten for 30 years [video]](https://www.youtube.com/watch?v=lVCS99Zep9w)
+* [2023-09-29, 20:32:15](https://news.ycombinator.com/item?id=37709756) - [New York City declares state of emergency amid flash floods](https://www.cnn.com/2023/09/29/weather/new-york-city-northeast-rain-flood-forecast-climate-friday/index.html)
 * [2023-09-29, 20:25:01](https://news.ycombinator.com/item?id=37709687) - [Recommended Architectures for PostgreSQL in Kubernetes](https://www.cncf.io/blog/2023/09/29/recommended-architectures-for-postgresql-in-kubernetes/)
 * [2023-09-29, 19:49:32](https://news.ycombinator.com/item?id=37709270) - [How did Qualcomm snatch defeat from the jaws of victory with their Oryon SoC?](https://semiaccurate.com/2023/09/26/whats-going-on-with-qualcomms-oryon-soc/)
 * [2023-09-29, 19:21:40](https://news.ycombinator.com/item?id=37708966) - [Localtunnel – Expose Yourself to the World](https://theboroer.github.io/localtunnel-www/)

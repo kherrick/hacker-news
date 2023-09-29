@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-29, 21:22:48](https://news.ycombinator.com/item?id=37710234) - [IRS Consultant Charged with Disclosing Tax Return Info to News Organizations](https://www.justice.gov/opa/pr/irs-consultant-charged-disclosing-tax-return-information-news-organizations)
-* [2023-09-29, 21:02:42](https://news.ycombinator.com/item?id=37710048) - [41% of French pop in favour of limiting everyone to 4 flights for entire life](https://twitter.com/spignal/status/1707456628918726828)
 * [2023-09-29, 20:44:02](https://news.ycombinator.com/item?id=37709876) - [Soviet computer has been forgotten for 30 years [video]](https://www.youtube.com/watch?v=lVCS99Zep9w)
+* [2023-09-29, 20:32:15](https://news.ycombinator.com/item?id=37709756) - [New York City declares state of emergency amid flash floods](https://www.cnn.com/2023/09/29/weather/new-york-city-northeast-rain-flood-forecast-climate-friday/index.html)
 * [2023-09-29, 19:21:40](https://news.ycombinator.com/item?id=37708966) - [Localtunnel – Easily share a web service on your local development machine](https://theboroer.github.io/localtunnel-www/)
 * [2023-09-29, 18:49:16](https://news.ycombinator.com/item?id=37708582) - [Insomnium – Local, privacy-focused fork of Insomnia API client](https://github.com/ArchGPT/insomnium)
 * [2023-09-29, 18:27:55](https://news.ycombinator.com/item?id=37708292) - [RealFill: Image completion using diffusion models](https://realfill.github.io/)
