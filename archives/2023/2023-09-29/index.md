@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-09-29](index.md)
 
+* [2023-09-29, 14:28:14](https://news.ycombinator.com/item?id=37704807) - [The Kakhovka Dam Disaster Revealed an Archaeological ‘Goldmine’](https://www.atlasobscura.com/articles/kakhovka-dam-chaika-cossack-archaeology)
+* [2023-09-29, 14:25:35](https://news.ycombinator.com/item?id=37704760) - [Show HN: RISC-V assembly tabletop board game (hack your opponent)](https://punkx.org/overflow/)
+* [2023-09-29, 14:14:54](https://news.ycombinator.com/item?id=37704593) - [Official U.S. government information about the Global Positioning System (GPS)](https://www.gps.gov/)
+* [2023-09-29, 14:13:51](https://news.ycombinator.com/item?id=37704579) - [John Baez' Applied Category Theory Lectures](https://mathstodon.xyz/@johncarlosbaez/111136608294290523)
+* [2023-09-29, 14:11:04](https://news.ycombinator.com/item?id=37704537) - [$5k Google Jamboard dies in 2024–cloud-based apps will stop working, too](https://arstechnica.com/gadgets/2023/09/5000-google-jamboard-dies-in-2024-cloud-based-apps-will-stop-working-too/)
 * [2023-09-29, 13:47:03](https://news.ycombinator.com/item?id=37704171) - [Tim Sweeney on Layoffs at Epic](https://www.epicgames.com/site/de/news/layoffs-at-epic)
 * [2023-09-29, 13:36:42](https://news.ycombinator.com/item?id=37704036) - [UK quietly dismisses independent AI advisory board, alarming tech sector](https://thenextweb.com/news/uk-dismisses-independent-ai-advisory-board-alarming-tech-sector)
 * [2023-09-29, 13:27:00](https://news.ycombinator.com/item?id=37703885) - [Encrypted Client Hello – the last puzzle piece to privacy](https://blog.cloudflare.com/announcing-encrypted-client-hello/)
