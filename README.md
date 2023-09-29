@@ -21,6 +21,7 @@
 * [2023-09-28, 15:42:05](https://news.ycombinator.com/item?id=37691232) - [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/)
 * [2023-09-28, 15:35:16](https://news.ycombinator.com/item?id=37691138) - [Research reveals crows use statistical logic](https://arstechnica.com/p3/)
 * [2023-09-28, 15:31:03](https://news.ycombinator.com/item?id=37691057) - [Airliner Repair, 24/7 Boeing’s traveling fix-it team (2008)](https://www.smithsonianmag.com/air-space-magazine/airliner-repair-247-9974457/)
+* [2023-09-28, 14:53:14](https://news.ycombinator.com/item?id=37690392) - [What if Planet 9 is a Primordial Black Hole? (2019)](https://arxiv.org/abs/1909.11090)
 * [2023-09-28, 14:48:51](https://news.ycombinator.com/item?id=37690320) - [Coding in the Debugger (2007)](https://tidyfirst.substack.com/p/coding-in-the-debugger)
 * [2023-09-28, 12:48:14](https://news.ycombinator.com/item?id=37688887) - [FreeRDP: A remote desktop protocol implementation](https://www.freerdp.com/)
 * [2023-09-28, 12:00:22](https://news.ycombinator.com/item?id=37688341) - [How async/await works internally in Swift](https://swiftrocks.com/how-async-await-works-internally-in-swift)
@@ -28,7 +29,6 @@
 * [2023-09-28, 09:10:00](https://news.ycombinator.com/item?id=37687134) - [Making Gaussian Splats more smaller](https://aras-p.info/blog/2023/09/27/Making-Gaussian-Splats-more-smaller/)
 * [2023-09-28, 07:56:44](https://news.ycombinator.com/item?id=37686641) - [Upcycled Bicycle Panniers DIY](https://rackhackers.com/)
 * [2023-09-28, 07:55:38](https://news.ycombinator.com/item?id=37686633) - [The saga of the Closure compiler, and why TypeScript won](https://effectivetypescript.com/2023/09/27/closure-compiler/)
-* [2023-09-28, 07:19:18](https://news.ycombinator.com/item?id=37686400) - [How to Reduce Memory Requirements with Product Quantization](https://weaviate.io/blog/pq-rescoring)
 * [2023-09-28, 05:29:21](https://news.ycombinator.com/item?id=37685580) - [Raspberry Pi 5](https://www.raspberrypi.com/products/raspberry-pi-5/)
 
 ## [Archives](archives/index.md)
