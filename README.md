@@ -2,8 +2,8 @@
 
 * [2023-09-29, 06:07:37](https://news.ycombinator.com/item?id=37699851) - [Richard Stallman reveals he has cancer in the GNU 40 Hacker Meeting talk](https://audio-video.gnu.org/video/gnu40/rms-gnu40.webm)
 * [2023-09-29, 05:01:47](https://news.ycombinator.com/item?id=37699465) - [LeoLM: German-Language LLM Research](https://laion.ai/blog/leo-lm/)
-* [2023-09-29, 04:50:09](https://news.ycombinator.com/item?id=37699396) - [Costco is selling gold bars and they are selling out within hours](https://www.cnbc.com/2023/09/27/costco-is-selling-gold-bars-and-they-are-selling-out-within-a-few-hours.html)
 * [2023-09-29, 04:36:20](https://news.ycombinator.com/item?id=37699312) - [AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model](https://arxiv.org/abs/2309.16058)
+* [2023-09-29, 03:05:50](https://news.ycombinator.com/item?id=37698864) - [Nvidia Offices Raided by French Law Enforcement](https://wccftech.com/nvidia-offices-raided-french-law-enforcement-over-suspected-anticompetitive-practices/)
 * [2023-09-29, 02:47:42](https://news.ycombinator.com/item?id=37698740) - [JAX – NumPy on the CPU, GPU, and TPU](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html)
 * [2023-09-29, 02:27:53](https://news.ycombinator.com/item?id=37698604) - [Llama 2 Long](https://arxiv.org/abs/2309.16039)
 * [2023-09-29, 02:10:28](https://news.ycombinator.com/item?id=37698506) - [Show HN: SapientML – Generative AutoML for Tabular Data](https://github.com/sapientml/sapientml)
