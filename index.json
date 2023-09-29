@@ -1,6 +1,56 @@
 [
   [
     [
+      "2023-09-29, 14:28:14",
+      "https://news.ycombinator.com/item?id=37704807"
+    ],
+    [
+      "The Kakhovka Dam Disaster Revealed an Archaeological ‘Goldmine’",
+      "https://www.atlasobscura.com/articles/kakhovka-dam-chaika-cossack-archaeology"
+    ]
+  ],
+  [
+    [
+      "2023-09-29, 14:25:35",
+      "https://news.ycombinator.com/item?id=37704760"
+    ],
+    [
+      "Show HN: RISC-V assembly tabletop board game (hack your opponent)",
+      "https://punkx.org/overflow/"
+    ]
+  ],
+  [
+    [
+      "2023-09-29, 14:14:54",
+      "https://news.ycombinator.com/item?id=37704593"
+    ],
+    [
+      "Official U.S. government information about the Global Positioning System (GPS)",
+      "https://www.gps.gov/"
+    ]
+  ],
+  [
+    [
+      "2023-09-29, 14:13:51",
+      "https://news.ycombinator.com/item?id=37704579"
+    ],
+    [
+      "John Baez' Applied Category Theory Lectures",
+      "https://mathstodon.xyz/@johncarlosbaez/111136608294290523"
+    ]
+  ],
+  [
+    [
+      "2023-09-29, 14:11:04",
+      "https://news.ycombinator.com/item?id=37704537"
+    ],
+    [
+      "$5k Google Jamboard dies in 2024–cloud-based apps will stop working, too",
+      "https://arstechnica.com/gadgets/2023/09/5000-google-jamboard-dies-in-2024-cloud-based-apps-will-stop-working-too/"
+    ]
+  ],
+  [
+    [
       "2023-09-29, 13:47:03",
       "https://news.ycombinator.com/item?id=37704171"
     ],
@@ -27,26 +77,6 @@
     [
       "Encrypted Client Hello – the last puzzle piece to privacy",
       "https://blog.cloudflare.com/announcing-encrypted-client-hello/"
-    ]
-  ],
-  [
-    [
-      "2023-09-29, 13:03:31",
-      "https://news.ycombinator.com/item?id=37703528"
-    ],
-    [
-      "Senator Dianne Feinstein has died",
-      "https://www.nytimes.com/2023/09/29/us/politics/dianne-feinstein-dead-senate.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-29, 12:56:48",
-      "https://news.ycombinator.com/item?id=37703390"
-    ],
-    [
-      "Weird things you can buy online",
-      "https://www.hillelwayne.com/post/weird-things-you-can-buy/"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "Compile-time safety for enumerations in Go",
       "https://vladimir.varank.in/notes/2023/09/compile-time-safety-for-enumerations-in-go/"
-    ]
-  ],
-  [
-    [
-      "2023-09-29, 12:42:02",
-      "https://news.ycombinator.com/item?id=37703148"
-    ],
-    [
-      "Search for phone signal caused oil spill, say Japanese investigators",
-      "https://www.theregister.com/2023/09/29/signal_search_caused_oil_spill/"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2023-09-29, 04:36:20",
-      "https://news.ycombinator.com/item?id=37699312"
-    ],
-    [
-      "AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model",
-      "https://arxiv.org/abs/2309.16058"
-    ]
-  ],
-  [
-    [
       "2023-09-29, 02:47:42",
       "https://news.ycombinator.com/item?id=37698740"
     ],
     [
       "JAX – NumPy on the CPU, GPU, and TPU",
       "https://jax.readthedocs.io/en/latest/notebooks/quickstart.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-29, 02:10:28",
-      "https://news.ycombinator.com/item?id=37698506"
-    ],
-    [
-      "Show HN: SapientML – Generative AutoML for Tabular Data",
-      "https://github.com/sapientml/sapientml"
     ]
   ],
   [
