@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-09-29, 21:14:13",
-      "https://news.ycombinator.com/item?id=37710154"
-    ],
-    [
-      "Investigating a teen’s death on an ebike and the Rad brand’s safety",
-      "https://www.bicycling.com/culture/a42690937/molly-steinsapir-lawsuit-rad-power-electric-bike/"
-    ]
-  ],
-  [
-    [
       "2023-09-29, 20:44:02",
       "https://news.ycombinator.com/item?id=37709876"
     ],
@@ -61,12 +51,12 @@
   ],
   [
     [
-      "2023-09-29, 20:32:15",
-      "https://news.ycombinator.com/item?id=37709756"
+      "2023-09-29, 19:21:40",
+      "https://news.ycombinator.com/item?id=37708966"
     ],
     [
-      "New York City declares state of emergency amid flash floods",
-      "https://www.cnn.com/2023/09/29/weather/new-york-city-northeast-rain-flood-forecast-climate-friday/index.html"
+      "Localtunnel – Easily share a web service on your local development machine",
+      "https://theboroer.github.io/localtunnel-www/"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "Compile-time safety for enumerations in Go",
       "https://vladimir.varank.in/notes/2023/09/compile-time-safety-for-enumerations-in-go/"
+    ]
+  ],
+  [
+    [
+      "2023-09-29, 12:09:04",
+      "https://news.ycombinator.com/item?id=37702632"
+    ],
+    [
+      "MMO Architecture: Source of truth, Dataflows, I/O bottlenecks and how to solve",
+      "https://prdeving.wordpress.com/2023/09/29/mmo-architecture-source-of-truth-dataflows-i-o-bottlenecks-and-how-to-solve-them/"
     ]
   ],
   [
