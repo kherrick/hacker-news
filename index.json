@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-30, 16:31:36",
+      "https://news.ycombinator.com/item?id=37717058"
+    ],
+    [
+      "Every single Onewheel is being recalled after four deaths",
+      "https://www.theverge.com/2023/9/29/23896151/onewheel-cpsc-recall-future-motion-crash-death"
+    ]
+  ],
+  [
+    [
       "2023-09-30, 16:20:25",
       "https://news.ycombinator.com/item?id=37716932"
     ],
@@ -257,16 +267,6 @@
     [
       "Show HN: A C++ dump func. that can print multi-D vectors, maps, tuples, and all",
       "https://github.com/philip82148/cpp-dump"
-    ]
-  ],
-  [
-    [
-      "2023-09-29, 18:27:55",
-      "https://news.ycombinator.com/item?id=37708292"
-    ],
-    [
-      "RealFill: Image completion using diffusion models",
-      "https://realfill.github.io/"
     ]
   ],
   [
