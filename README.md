@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-30, 13:23:05](https://news.ycombinator.com/item?id=37715209) - [Azure dropping database support for MariaDB. Users advised to migrate to MySQL](https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-will-be-retired-on-19-september-2025-migrate-to-azure-database-for-mysql-flexible-server/)
 * [2023-09-30, 12:45:04](https://news.ycombinator.com/item?id=37714896) - [Canadians have a ‘right to be forgotten’ on Google, Federal Court rules](https://www.theglobeandmail.com/canada/article-federal-court-of-appeal-opens-door-to-the-right-to-be-forgotten-in-a/)
 * [2023-09-30, 12:33:21](https://news.ycombinator.com/item?id=37714829) - [PruningRadixTrie – 1000x faster Radix trie for prefix search and auto-complete](https://github.com/wolfgarbe/PruningRadixTrie)
 * [2023-09-30, 12:26:00](https://news.ycombinator.com/item?id=37714788) - [Should Ethereum be okay with enshrining more things in the protocol?](https://vitalik.eth.limo/general/2023/09/30/enshrinement.html)
@@ -26,7 +27,6 @@
 * [2023-09-29, 16:03:45](https://news.ycombinator.com/item?id=37706210) - [SIMH – Old Computer Emulator](https://en.wikipedia.org/wiki/SIMH)
 * [2023-09-29, 15:04:13](https://news.ycombinator.com/item?id=37705328) - [Making a music library without a SPA](https://begin.com/blog/posts/2023-09-28-introducing-enhance-music)
 * [2023-09-29, 14:25:35](https://news.ycombinator.com/item?id=37704760) - [Show HN: RISC-V assembly tabletop board game (hack your opponent)](https://punkx.org/overflow/)
-* [2023-09-29, 12:51:22](https://news.ycombinator.com/item?id=37703291) - [Draggable objects](https://www.redblobgames.com/making-of/draggable/)
 * [2023-09-29, 08:30:03](https://news.ycombinator.com/item?id=37700847) - [Burning money on paid ads for a dev tool – what we've learned](https://posthog.com/blog/dev-marketing-paid-ads)
 * [2023-09-28, 19:02:16](https://news.ycombinator.com/item?id=37694094) - [Japan’s silent movie culture is still going](https://petertasker.asia/articles/culture/think-again-al-jolson-japans-silent-movie-culture-is-still-going-strong/)
 * [2023-09-28, 15:42:05](https://news.ycombinator.com/item?id=37691232) - [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/)
