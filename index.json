@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2023-09-29, 15:54:07",
-      "https://news.ycombinator.com/item?id=37706070"
-    ],
-    [
-      "SIMD Everywhere Optimization from ARM Neon to RISC-V Vector Extensions",
-      "https://arxiv.org/abs/2309.16509"
-    ]
-  ],
-  [
-    [
       "2023-09-29, 15:04:13",
       "https://news.ycombinator.com/item?id=37705328"
     ],
@@ -237,6 +227,16 @@
     [
       "Draggable objects",
       "https://www.redblobgames.com/making-of/draggable/"
+    ]
+  ],
+  [
+    [
+      "2023-09-29, 09:08:17",
+      "https://news.ycombinator.com/item?id=37701117"
+    ],
+    [
+      "Things Every Hacker Once Knew (2017)",
+      "http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/"
     ]
   ],
   [
