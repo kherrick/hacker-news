@@ -22,6 +22,7 @@
 * [2023-09-29, 12:52:48](https://news.ycombinator.com/item?id=37703317) - [Rimac unveils SineStack, battery energy storage system](https://www.energy-storage.news/rimac-unveils-most-technically-advanced-bess-in-the-world-sinestack/)
 * [2023-09-29, 12:51:22](https://news.ycombinator.com/item?id=37703291) - [Draggable objects](https://www.redblobgames.com/making-of/draggable/)
 * [2023-09-29, 11:18:20](https://news.ycombinator.com/item?id=37702059) - [Visual Node Graph with ImGui](https://gboisse.github.io/posts/node-graph/)
+* [2023-09-29, 09:08:17](https://news.ycombinator.com/item?id=37701117) - [Things Every Hacker Once Knew (2017)](http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/)
 * [2023-09-29, 08:30:03](https://news.ycombinator.com/item?id=37700847) - [Burning money on paid ads for a dev tool – what we've learned](https://posthog.com/blog/dev-marketing-paid-ads)
 * [2023-09-29, 02:51:31](https://news.ycombinator.com/item?id=37698768) - [Who invented the alphabet?](https://www.asor.org/anetoday/2023/08/who-invented-alphabet/)
 * [2023-09-29, 02:48:22](https://news.ycombinator.com/item?id=37698744) - [Misunderstanding Greek and Latin in eighteenth-century Britain](https://www.laphamsquarterly.org/roundtable/fine-sounding-language)
@@ -29,7 +30,6 @@
 * [2023-09-29, 01:37:49](https://news.ycombinator.com/item?id=37698288) - [Recessive genes that make a carrot orange](https://phys.org/news/2023-09-recessive-genes-carrot-orange.html)
 * [2023-09-28, 19:02:16](https://news.ycombinator.com/item?id=37694094) - [Japan’s silent movie culture is still going](https://petertasker.asia/articles/culture/think-again-al-jolson-japans-silent-movie-culture-is-still-going-strong/)
 * [2023-09-28, 15:42:05](https://news.ycombinator.com/item?id=37691232) - [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/)
-* [2023-09-28, 11:16:56](https://news.ycombinator.com/item?id=37687995) - [To bring socializing back to social networks, apps try A.I. imagery](https://www.nytimes.com/2023/09/27/technology/ai-images-social-media-sharing.html)
 
 ## [Archives](archives/index.md)
 
