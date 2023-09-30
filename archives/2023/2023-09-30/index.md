@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-30](index.md)
 
+* [2023-09-30, 18:19:31](https://news.ycombinator.com/item?id=37718234) - [Google Search Is Like ‘Cigarettes or Drugs,’ Executive Said](https://www.bloomberg.com/news/articles/2023-09-29/google-search-is-like-cigarettes-or-drugs-executive-said)
+* [2023-09-30, 18:19:15](https://news.ycombinator.com/item?id=37718230) - [They Quit Their Jobs. Their Ex-Employers Sued Them for Training Costs](https://www.nytimes.com/2023/09/27/business/training-repayment-agreement-debt.html)
 * [2023-09-30, 17:59:32](https://news.ycombinator.com/item?id=37718018) - [Rust Is Inevitable [video]](https://www.youtube.com/watch?v=03H1cWj2Kfc)
 * [2023-09-30, 17:32:49](https://news.ycombinator.com/item?id=37717735) - [Firefox 118 brings browser-based website translation (no cloud servers required)](https://liliputing.com/firefox-118-brings-browser-based-website-translation-no-cloud-servers-required-for-a-handful-of-supported-languages/)
 * [2023-09-30, 17:29:49](https://news.ycombinator.com/item?id=37717689) - [Ask HN: SaaS pricing pages with high prices and not “contact sales”](https://news.ycombinator.com/item?id=37717689)
