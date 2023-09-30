@@ -13,9 +13,7 @@
 * [2023-09-30, 16:31:36](https://news.ycombinator.com/item?id=37717058) - [Every single Onewheel is being recalled after four deaths](https://www.theverge.com/2023/9/29/23896151/onewheel-cpsc-recall-future-motion-crash-death)
 * [2023-09-30, 16:19:00](https://news.ycombinator.com/item?id=37716910) - [How flip-flops are implemented in the Intel 8086 processor](http://www.righto.com/2023/09/8086-flip-flops.html)
 * [2023-09-30, 16:00:11](https://news.ycombinator.com/item?id=37716722) - [Most demographers now predict that human population will plateau](https://www.bloomberg.com/opinion/articles/2023-09-30/how-many-people-are-there-in-the-world-don-t-worry-about-it)
-* [2023-09-30, 15:23:58](https://news.ycombinator.com/item?id=37716310) - [Running BeOS 5 in QEMU (i386) (2022)](https://john-millikin.com/running-beos-5-in-qemu-i386)
 * [2023-09-30, 13:59:00](https://news.ycombinator.com/item?id=37715499) - [A revelation about trees is messing with climate calculations](https://www.wired.com/story/a-revelation-about-trees-is-messing-with-climate-calculations/)
-* [2023-09-30, 13:17:28](https://news.ycombinator.com/item?id=37715145) - [Is consciousness part of the fabric of the universe?](https://www.scientificamerican.com/article/is-consciousness-part-of-the-fabric-of-the-universe/)
 * [2023-09-30, 12:49:02](https://news.ycombinator.com/item?id=37714922) - [Removing Sybils from an Open Network](https://wiki.saito.io/consensus/sybil-proof)
 * [2023-09-30, 12:45:26](https://news.ycombinator.com/item?id=37714898) - [They studied dishonesty – Was their work a lie?](https://www.newyorker.com/magazine/2023/10/09/they-studied-dishonesty-was-their-work-a-lie)
 * [2023-09-30, 12:33:21](https://news.ycombinator.com/item?id=37714829) - [PruningRadixTrie – Faster Radix trie for prefix search and auto-complete](https://github.com/wolfgarbe/PruningRadixTrie)
@@ -25,11 +23,13 @@
 * [2023-09-30, 09:13:28](https://news.ycombinator.com/item?id=37713835) - [The Ingenious Cardboard Bed](https://newatlas.com/good-thinking/ingenious-cardboard-bed/)
 * [2023-09-30, 08:05:12](https://news.ycombinator.com/item?id=37713530) - [Flexbox Froggy](https://flexboxfroggy.com/)
 * [2023-09-30, 07:32:32](https://news.ycombinator.com/item?id=37713418) - [My Lobotomy: Howard Dully's Journey (2005)](https://www.npr.org/2005/11/16/5014080/my-lobotomy-howard-dullys-journey)
+* [2023-09-30, 07:25:49](https://news.ycombinator.com/item?id=37713401) - [Adding runtime benchmarks to the Rust compiler benchmark suite](https://kobzol.github.io/rust/rustc/2023/09/23/rustc-runtime-benchmarks.html)
 * [2023-09-30, 04:52:07](https://news.ycombinator.com/item?id=37712847) - [Oldsmobile Hydra-Matic Drive (1947) [pdf]](https://www.xr793.com/wp-content/uploads/2018/12/1947-Oldsmobile-Hydra-Matic-Drive.pdf)
 * [2023-09-30, 02:59:46](https://news.ycombinator.com/item?id=37712454) - [The story behind the Heliotrope Font (2021)](https://mbtype.com/fonts/heliotrope/story.html)
 * [2023-09-30, 02:32:34](https://news.ycombinator.com/item?id=37712324) - [Physicists coax superconductivity and more from quasicrystals](https://phys.org/news/2023-09-physicists-coax-superconductivity-quasicrystals.html)
 * [2023-09-29, 17:19:24](https://news.ycombinator.com/item?id=37707348) - [A Bit About Byte Magazine](https://www.goto10retro.com/p/a-bit-about-byte-magazine-the-premier)
 * [2023-09-29, 04:52:09](https://news.ycombinator.com/item?id=37699409) - [Bookkeeping Machines](https://americanhistory.si.edu/collections/object-groups/bookkeeping-machines)
+* [2023-09-28, 15:42:05](https://news.ycombinator.com/item?id=37691232) - [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/)
 
 ## [Archives](archives/index.md)
 
