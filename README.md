@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-30, 08:05:36](https://news.ycombinator.com/item?id=37713536) - [Milley says the military doesn’t swear oath to a ‘wannabe dictator’](https://www.cnn.com/2023/09/29/politics/milley-trump-wannabe-dictator/index.html)
 * [2023-09-30, 07:54:27](https://news.ycombinator.com/item?id=37713487) - [Parasitic plant with shrunken genome convinces hosts to grow into its own flesh](https://phys.org/news/2023-09-parasitic-convinces-hosts-fleshit-extreme.html)
 * [2023-09-30, 07:32:32](https://news.ycombinator.com/item?id=37713418) - [My Lobotomy: Howard Dully's Journey (2005)](https://www.npr.org/2005/11/16/5014080/my-lobotomy-howard-dullys-journey)
 * [2023-09-30, 07:25:49](https://news.ycombinator.com/item?id=37713401) - [Adding runtime benchmarks to the Rust compiler benchmark suite](https://kobzol.github.io/rust/rustc/2023/09/23/rustc-runtime-benchmarks.html)
@@ -23,6 +22,7 @@
 * [2023-09-29, 15:04:13](https://news.ycombinator.com/item?id=37705328) - [Making a music library without a SPA](https://begin.com/blog/posts/2023-09-28-introducing-enhance-music)
 * [2023-09-29, 14:51:11](https://news.ycombinator.com/item?id=37705153) - [A peek into Argentina’s video game scene](https://buenosairesherald.com/culture-ideas/videogames/satanism-star-trek-and-an-army-of-gauchos-a-peek-into-argentinas-video-game-scene)
 * [2023-09-29, 14:25:35](https://news.ycombinator.com/item?id=37704760) - [Show HN: RISC-V assembly tabletop board game (hack your opponent)](https://punkx.org/overflow/)
+* [2023-09-29, 13:27:00](https://news.ycombinator.com/item?id=37703885) - [Encrypted Client Hello](https://blog.cloudflare.com/announcing-encrypted-client-hello/)
 * [2023-09-29, 12:51:22](https://news.ycombinator.com/item?id=37703291) - [Draggable objects](https://www.redblobgames.com/making-of/draggable/)
 * [2023-09-29, 08:30:03](https://news.ycombinator.com/item?id=37700847) - [Burning money on paid ads for a dev tool – what we've learned](https://posthog.com/blog/dev-marketing-paid-ads)
 * [2023-09-29, 02:48:22](https://news.ycombinator.com/item?id=37698744) - [Misunderstanding Greek and Latin in eighteenth-century Britain](https://www.laphamsquarterly.org/roundtable/fine-sounding-language)
