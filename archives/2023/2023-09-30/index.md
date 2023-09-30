@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-30](index.md)
 
+* [2023-09-30, 17:29:49](https://news.ycombinator.com/item?id=37717689) - [Ask HN: SaaS pricing pages with high prices and not “contact sales”](https://news.ycombinator.com/item?id=37717689)
 * [2023-09-30, 17:00:09](https://news.ycombinator.com/item?id=37717369) - [SigNoz (YC W21, Open Source Datadog Alternative) Is Hiring Tech Content Writer](https://signoz.io/careers/technical-content-writer-in/)
 * [2023-09-30, 16:53:02](https://news.ycombinator.com/item?id=37717285) - [AWS Heros' Re:Invent Attendee Guides](https://reinvent.awsevents.com/learn/attendee-guides/)
 * [2023-09-30, 16:31:36](https://news.ycombinator.com/item?id=37717058) - [Every single Onewheel is being recalled after four deaths](https://www.theverge.com/2023/9/29/23896151/onewheel-cpsc-recall-future-motion-crash-death)
