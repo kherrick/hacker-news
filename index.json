@@ -1,26 +1,6 @@
 [
   [
     [
-      "2023-09-29, 23:22:55",
-      "https://news.ycombinator.com/item?id=37711274"
-    ],
-    [
-      "Ferrous Systems ends partnership with AdaCore",
-      "https://ferrous-systems.com/blog/ferrocene-update/"
-    ]
-  ],
-  [
-    [
-      "2023-09-29, 22:45:33",
-      "https://news.ycombinator.com/item?id=37710975"
-    ],
-    [
-      "Devs learn rival Godot engine in a week to poke fun at Unity",
-      "https://www.theregister.com/2023/09/27/unity_install_fee_tycoon/"
-    ]
-  ],
-  [
-    [
       "2023-09-29, 22:08:56",
       "https://news.ycombinator.com/item?id=37710683"
     ],
@@ -31,12 +11,12 @@
   ],
   [
     [
-      "2023-09-29, 21:20:19",
-      "https://news.ycombinator.com/item?id=37710211"
+      "2023-09-29, 21:10:51",
+      "https://news.ycombinator.com/item?id=37710122"
     ],
     [
-      "Has a San Antonio Inventor Solved a Problem of Small-Scale Wind Power?",
-      "https://www.texasmonthly.com/news-politics/pirate-wind-turbines-inventor/"
+      "Polycam released web 3D Gaussian Splatting Viewer",
+      "https://poly.cam/gaussian-splatting"
     ]
   ],
   [
@@ -47,6 +27,16 @@
     [
       "Soviet computer has been forgotten for 30 years [video]",
       "https://www.youtube.com/watch?v=lVCS99Zep9w"
+    ]
+  ],
+  [
+    [
+      "2023-09-29, 19:56:25",
+      "https://news.ycombinator.com/item?id=37709349"
+    ],
+    [
+      "Linux Kernel Hardening Checker",
+      "https://github.com/a13xp0p0v/kernel-hardening-checker"
     ]
   ],
   [
@@ -97,6 +87,16 @@
     [
       "50 years later, is two-phase locking the best we can do?",
       "http://concurrencyfreaks.blogspot.com/2023/09/50-years-later-is-two-phase-locking.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-29, 16:38:05",
+      "https://news.ycombinator.com/item?id=37706706"
+    ],
+    [
+      "A scientific curiosity that happened to me",
+      "https://old.reddit.com/r/Physics/comments/16v8g6e/a_scientific_curiosity_that_happened_to_me/"
     ]
   ],
   [
