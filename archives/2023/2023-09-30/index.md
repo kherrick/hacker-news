@@ -66,6 +66,7 @@
 * [2023-09-30, 06:22:01](https://news.ycombinator.com/item?id=37713185) - [Tesla sued for severe harassment of Black workers at California plant](https://www.theguardian.com/technology/2023/sep/29/tesla-lawsuit-harassment-racism-black-employees-california)
 * [2023-09-30, 05:57:24](https://news.ycombinator.com/item?id=37713091) - [A couple of messages about changes to ianVisits: Copyright trolls](https://www.ianvisits.co.uk/articles/a-couple-of-messages-about-changes-to-ianvisits-66081/)
 * [2023-09-30, 05:44:10](https://news.ycombinator.com/item?id=37713047) - [How to convert an enum to string in C++](https://mariusbancila.ro/blog/2023/08/17/how-to-convert-an-enum-to-string-in-cpp/)
+* [2023-09-30, 04:52:07](https://news.ycombinator.com/item?id=37712847) - [Oldsmobile Hydra-Matic Drive (1947) [pdf]](https://www.xr793.com/wp-content/uploads/2018/12/1947-Oldsmobile-Hydra-Matic-Drive.pdf)
 * [2023-09-30, 04:44:06](https://news.ycombinator.com/item?id=37712824) - [Techies are paying $700 a month for tiny bed ‘pods’ in downtown San Francisco](https://www.sfgate.com/tech/article/rent-bed-pods-downtown-techies-18388110.php)
 * [2023-09-30, 04:24:58](https://news.ycombinator.com/item?id=37712763) - [Apple puts a hidden QR code on iPhone screens](https://9to5mac.com/2023/09/29/iphone-microscopic-qr-code-screen/)
 * [2023-09-30, 04:14:59](https://news.ycombinator.com/item?id=37712727) - [Station to Station: David Platzker on the Art of Ed Ruscha](https://www.artforum.com/features/david-platzker-on-the-art-of-ed-ruscha-252935/)
