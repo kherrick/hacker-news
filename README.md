@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-30, 02:23:10](https://news.ycombinator.com/item?id=37712283) - [Rust on Espressif chips – 29-09-2023](https://mabez.dev/blog/posts/esp-rust-29-09-2023/)
+* [2023-09-30, 01:55:21](https://news.ycombinator.com/item?id=37712174) - [BlackBerry Failed to Respond to the iPhone](https://rubenerd.com/how-blackberry-failed-to-respond-to-the-iphone/)
 * [2023-09-29, 23:22:55](https://news.ycombinator.com/item?id=37711274) - [Ferrocene update](https://ferrous-systems.com/blog/ferrocene-update/)
 * [2023-09-29, 22:08:56](https://news.ycombinator.com/item?id=37710683) - [Trains on another level](https://factorio.com/blog/post/fff-378)
-* [2023-09-29, 21:21:16](https://news.ycombinator.com/item?id=37710221) - [The fastest route to a climate turnaround is also less expensive](https://www.anthropocenemagazine.org/2023/07/the-fastest-route-to-a-climate-turnaround-is-also-less-expensive/)
 * [2023-09-29, 20:44:02](https://news.ycombinator.com/item?id=37709876) - [Soviet computer has been forgotten for 30 years [video]](https://www.youtube.com/watch?v=lVCS99Zep9w)
 * [2023-09-29, 19:56:25](https://news.ycombinator.com/item?id=37709349) - [Linux Kernel Hardening Checker](https://github.com/a13xp0p0v/kernel-hardening-checker)
 * [2023-09-29, 19:51:01](https://news.ycombinator.com/item?id=37709284) - [Meta in Myanmar](https://erinkissane.com/meta-in-myanmar-part-i-the-setup)
@@ -20,7 +21,6 @@
 * [2023-09-29, 14:25:35](https://news.ycombinator.com/item?id=37704760) - [Show HN: RISC-V assembly tabletop board game (hack your opponent)](https://punkx.org/overflow/)
 * [2023-09-29, 13:27:00](https://news.ycombinator.com/item?id=37703885) - [Encrypted Client Hello](https://blog.cloudflare.com/announcing-encrypted-client-hello/)
 * [2023-09-29, 12:51:22](https://news.ycombinator.com/item?id=37703291) - [Draggable objects](https://www.redblobgames.com/making-of/draggable/)
-* [2023-09-29, 12:01:46](https://news.ycombinator.com/item?id=37702555) - [UpCodes (YC S17) is hiring remote SWEs, AES to help make buildings cheaper](https://up.codes/careers)
 * [2023-09-29, 11:18:20](https://news.ycombinator.com/item?id=37702059) - [Visual Node Graph with ImGui](https://gboisse.github.io/posts/node-graph/)
 * [2023-09-29, 09:08:17](https://news.ycombinator.com/item?id=37701117) - [Things Every Hacker Once Knew (2017)](http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/)
 * [2023-09-29, 08:30:03](https://news.ycombinator.com/item?id=37700847) - [Burning money on paid ads for a dev tool – what we've learned](https://posthog.com/blog/dev-marketing-paid-ads)

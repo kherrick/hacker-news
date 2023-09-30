@@ -1,0 +1,8 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-09-30](index.md)
+
+* [2023-09-30, 02:23:10](https://news.ycombinator.com/item?id=37712283) - [Rust on Espressif chips – 29-09-2023](https://mabez.dev/blog/posts/esp-rust-29-09-2023/)
+* [2023-09-30, 01:55:21](https://news.ycombinator.com/item?id=37712174) - [BlackBerry Failed to Respond to the iPhone](https://rubenerd.com/how-blackberry-failed-to-respond-to-the-iphone/)
