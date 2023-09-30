@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-30](index.md)
 
+* [2023-09-30, 09:52:36](https://news.ycombinator.com/item?id=37713993) - [Bedbug crisis sparks political row in Paris as insect ‘scourge’ continues](https://www.theguardian.com/world/2023/sep/29/bedbug-crisis-political-row-paris-insect-scourge-continues)
 * [2023-09-30, 08:05:36](https://news.ycombinator.com/item?id=37713536) - [Milley says the military doesn’t swear oath to a ‘wannabe dictator’](https://www.cnn.com/2023/09/29/politics/milley-trump-wannabe-dictator/index.html)
 * [2023-09-30, 07:54:27](https://news.ycombinator.com/item?id=37713487) - [Parasitic plant with shrunken genome convinces hosts to grow into its own flesh](https://phys.org/news/2023-09-parasitic-convinces-hosts-fleshit-extreme.html)
 * [2023-09-30, 07:32:32](https://news.ycombinator.com/item?id=37713418) - [My Lobotomy: Howard Dully's Journey (2005)](https://www.npr.org/2005/11/16/5014080/my-lobotomy-howard-dullys-journey)
@@ -19,3 +20,4 @@
 * [2023-09-30, 03:37:35](https://news.ycombinator.com/item?id=37712593) - [Show HN: A C++ dump func. that can print multi-D vectors, maps, tuples, and all](https://github.com/philip82148/cpp-dump)
 * [2023-09-30, 02:23:10](https://news.ycombinator.com/item?id=37712283) - [Rust on Espressif chips – 29-09-2023](https://mabez.dev/blog/posts/esp-rust-29-09-2023/)
 * [2023-09-30, 01:55:21](https://news.ycombinator.com/item?id=37712174) - [BlackBerry Failed to Respond to the iPhone](https://rubenerd.com/how-blackberry-failed-to-respond-to-the-iphone/)
+* [2023-09-30, 00:44:26](https://news.ycombinator.com/item?id=37711811) - [How to (not) invent concurrent algorithms](http://concurrencyfreaks.blogspot.com/2023/09/how-to-not-invent-concurrent-algorithms.html)
