@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-29](index.md)
 
+* [2023-09-29, 23:22:55](https://news.ycombinator.com/item?id=37711274) - [Ferrous Systems ends partnership with AdaCore](https://ferrous-systems.com/blog/ferrocene-update/)
 * [2023-09-29, 22:45:33](https://news.ycombinator.com/item?id=37710975) - [Devs learn rival Godot engine in a week to poke fun at Unity](https://www.theregister.com/2023/09/27/unity_install_fee_tycoon/)
 * [2023-09-29, 22:31:49](https://news.ycombinator.com/item?id=37710865) - [Drive Like a Human: Rethinking Autonomous Driving with Large Language Models](https://arxiv.org/abs/2307.07162)
 * [2023-09-29, 22:21:48](https://news.ycombinator.com/item?id=37710791) - [No need to send it back: Netflix posts its final DVDs to customers](https://www.theguardian.com/media/2023/sep/29/netflix-dvds-final-sent-by-mail)
