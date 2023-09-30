@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-09-30](index.md)
 
+* [2023-09-30, 12:45:04](https://news.ycombinator.com/item?id=37714896) - [Canadians have a ‘right to be forgotten’ on Google, Federal Court rules](https://www.theglobeandmail.com/canada/article-federal-court-of-appeal-opens-door-to-the-right-to-be-forgotten-in-a/)
+* [2023-09-30, 12:40:58](https://news.ycombinator.com/item?id=37714871) - [Google randomly deleted a popular YouTube channel again](https://twitter.com/3DPrintGeneral/status/1707888026351817107)
+* [2023-09-30, 12:33:21](https://news.ycombinator.com/item?id=37714829) - [PruningRadixTrie – 1000x faster Radix trie for prefix search and auto-complete](https://github.com/wolfgarbe/PruningRadixTrie)
 * [2023-09-30, 12:26:00](https://news.ycombinator.com/item?id=37714788) - [Should Ethereum be okay with enshrining more things in the protocol?](https://vitalik.eth.limo/general/2023/09/30/enshrinement.html)
+* [2023-09-30, 12:16:33](https://news.ycombinator.com/item?id=37714729) - [Shell employees urge CEO to rethink shift from renewables in rare letter](https://www.euronews.com/green/2023/09/28/deep-concern-shell-employees-urge-ceo-to-rethink-shift-from-renewables-in-rare-letter)
 * [2023-09-30, 12:12:18](https://news.ycombinator.com/item?id=37714703) - [French AI startup Mistral releases ‘unmoderated’ chatbot via torrent](https://www.404media.co/260-million-ai-company-releases-chatbot-that-gives-detailed-instructions-on-murder-ethnic-cleansing/)
 * [2023-09-30, 12:00:36](https://news.ycombinator.com/item?id=37714636) - [Delphia (YC W18) Is Hiring](https://www.ycombinator.com/companies/delphia/jobs/ZhWTuyK-ai-data-science-lead)
 * [2023-09-30, 11:52:00](https://news.ycombinator.com/item?id=37714579) - [PSA: Some Pixel owners still can't dial 911 during an emergency](https://www.androidauthority.com/psa-google-pixel-911-emergency-calling-issues-3362990/)
