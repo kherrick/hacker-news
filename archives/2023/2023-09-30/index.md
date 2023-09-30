@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-30](index.md)
 
+* [2023-09-30, 16:31:36](https://news.ycombinator.com/item?id=37717058) - [Every single Onewheel is being recalled after four deaths](https://www.theverge.com/2023/9/29/23896151/onewheel-cpsc-recall-future-motion-crash-death)
 * [2023-09-30, 16:20:25](https://news.ycombinator.com/item?id=37716932) - [Plastic Bag Found at the Bottom of World’s Deepest Ocean Trench](https://education.nationalgeographic.org/resource/plastic-bag-found-bottom-worlds-deepest-ocean-trench/)
 * [2023-09-30, 16:20:07](https://news.ycombinator.com/item?id=37716928) - [South Korea has jailed a man for using AI to create sexual images of children](https://www.cnn.com/2023/09/27/asia/south-korea-child-abuse-ai-sentenced-intl-hnk/index.html)
 * [2023-09-30, 16:00:11](https://news.ycombinator.com/item?id=37716722) - [Don't worry about global population collapse](https://www.bloomberg.com/opinion/articles/2023-09-30/how-many-people-are-there-in-the-world-don-t-worry-about-it)
