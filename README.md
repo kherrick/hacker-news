@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-30, 07:54:27](https://news.ycombinator.com/item?id=37713487) - [Parasitic plant with shrunken genome convinces hosts to grow into its own flesh](https://phys.org/news/2023-09-parasitic-convinces-hosts-fleshit-extreme.html)
 * [2023-09-30, 07:32:32](https://news.ycombinator.com/item?id=37713418) - [My Lobotomy: Howard Dully's Journey (2005)](https://www.npr.org/2005/11/16/5014080/my-lobotomy-howard-dullys-journey)
 * [2023-09-30, 07:25:49](https://news.ycombinator.com/item?id=37713401) - [Adding runtime benchmarks to the Rust compiler benchmark suite](https://kobzol.github.io/rust/rustc/2023/09/23/rustc-runtime-benchmarks.html)
 * [2023-09-30, 06:29:23](https://news.ycombinator.com/item?id=37713222) - [Cloudflare launches new AI tools to help customers deploy and run models](https://techcrunch.com/2023/09/27/cloudflare-launches-new-ai-tools-to-help-customers-deploy-and-run-models/)
@@ -10,6 +9,7 @@
 * [2023-09-30, 05:44:10](https://news.ycombinator.com/item?id=37713047) - [How to convert an enum to string in C++](https://mariusbancila.ro/blog/2023/08/17/how-to-convert-an-enum-to-string-in-cpp/)
 * [2023-09-30, 03:37:35](https://news.ycombinator.com/item?id=37712593) - [Show HN: A C++ dump func. that can print multi-D vectors, maps, tuples, and all](https://github.com/philip82148/cpp-dump)
 * [2023-09-30, 02:23:10](https://news.ycombinator.com/item?id=37712283) - [Rust on Espressif chips](https://mabez.dev/blog/posts/esp-rust-29-09-2023/)
+* [2023-09-29, 23:22:55](https://news.ycombinator.com/item?id=37711274) - [Ferrocene update](https://ferrous-systems.com/blog/ferrocene-update/)
 * [2023-09-29, 21:07:07](https://news.ycombinator.com/item?id=37710087) - [Show HN: PDF Debugger – Inspect Structure of PDF Files](https://pdf.hyzyla.dev/)
 * [2023-09-29, 20:44:02](https://news.ycombinator.com/item?id=37709876) - [Soviet computer has been forgotten for 30 years [video]](https://www.youtube.com/watch?v=lVCS99Zep9w)
 * [2023-09-29, 19:56:25](https://news.ycombinator.com/item?id=37709349) - [Linux Kernel Hardening Checker](https://github.com/a13xp0p0v/kernel-hardening-checker)
