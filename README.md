@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-30, 04:44:06](https://news.ycombinator.com/item?id=37712824) - [Techies are paying $700 a month for tiny bed ‘pods’ in downtown San Francisco](https://www.sfgate.com/tech/article/rent-bed-pods-downtown-techies-18388110.php)
 * [2023-09-30, 02:23:10](https://news.ycombinator.com/item?id=37712283) - [Rust on Espressif chips – 29-09-2023](https://mabez.dev/blog/posts/esp-rust-29-09-2023/)
 * [2023-09-30, 01:55:21](https://news.ycombinator.com/item?id=37712174) - [BlackBerry failed to respond to the iPhone](https://rubenerd.com/how-blackberry-failed-to-respond-to-the-iphone/)
 * [2023-09-29, 23:22:55](https://news.ycombinator.com/item?id=37711274) - [Ferrocene update](https://ferrous-systems.com/blog/ferrocene-update/)
@@ -23,6 +22,7 @@
 * [2023-09-29, 14:25:35](https://news.ycombinator.com/item?id=37704760) - [Show HN: RISC-V assembly tabletop board game (hack your opponent)](https://punkx.org/overflow/)
 * [2023-09-29, 13:27:00](https://news.ycombinator.com/item?id=37703885) - [Encrypted Client Hello](https://blog.cloudflare.com/announcing-encrypted-client-hello/)
 * [2023-09-29, 12:51:22](https://news.ycombinator.com/item?id=37703291) - [Draggable objects](https://www.redblobgames.com/making-of/draggable/)
+* [2023-09-29, 09:08:17](https://news.ycombinator.com/item?id=37701117) - [Things Every Hacker Once Knew (2017)](http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/)
 * [2023-09-29, 08:30:03](https://news.ycombinator.com/item?id=37700847) - [Burning money on paid ads for a dev tool – what we've learned](https://posthog.com/blog/dev-marketing-paid-ads)
 * [2023-09-29, 02:51:31](https://news.ycombinator.com/item?id=37698768) - [Who invented the alphabet?](https://www.asor.org/anetoday/2023/08/who-invented-alphabet/)
 * [2023-09-29, 02:48:22](https://news.ycombinator.com/item?id=37698744) - [Misunderstanding Greek and Latin in eighteenth-century Britain](https://www.laphamsquarterly.org/roundtable/fine-sounding-language)
