@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-30, 09:52:36",
+      "https://news.ycombinator.com/item?id=37713993"
+    ],
+    [
+      "Bedbug crisis sparks political row in Paris as insect ‘scourge’ continues",
+      "https://www.theguardian.com/world/2023/sep/29/bedbug-crisis-political-row-paris-insect-scourge-continues"
+    ]
+  ],
+  [
+    [
       "2023-09-30, 07:54:27",
       "https://news.ycombinator.com/item?id=37713487"
     ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2023-09-30, 06:22:01",
-      "https://news.ycombinator.com/item?id=37713185"
-    ],
-    [
-      "Tesla sued for severe harassment of Black workers at California plant",
-      "https://www.theguardian.com/technology/2023/sep/29/tesla-lawsuit-harassment-racism-black-employees-california"
-    ]
-  ],
-  [
-    [
       "2023-09-30, 05:57:24",
       "https://news.ycombinator.com/item?id=37713091"
     ],
@@ -97,6 +97,16 @@
     [
       "Rust on Espressif chips",
       "https://mabez.dev/blog/posts/esp-rust-29-09-2023/"
+    ]
+  ],
+  [
+    [
+      "2023-09-30, 00:44:26",
+      "https://news.ycombinator.com/item?id=37711811"
+    ],
+    [
+      "How to (not) invent concurrent algorithms",
+      "http://concurrencyfreaks.blogspot.com/2023/09/how-to-not-invent-concurrent-algorithms.html"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Performance Evaluation of Rust Asynchronous Frameworks (2022)",
       "https://zenoh.io/blog/2022-04-14-rust-async-eval/"
-    ]
-  ],
-  [
-    [
-      "2023-09-29, 18:37:22",
-      "https://news.ycombinator.com/item?id=37708423"
-    ],
-    [
-      "Motocompacto from Honda, 3.7 inch wide Briefcase-form Electric Scooter",
-      "https://motocompacto.honda.com/"
     ]
   ],
   [
