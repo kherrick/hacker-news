@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-30](index.md)
 
+* [2023-09-30, 16:20:25](https://news.ycombinator.com/item?id=37716932) - [Plastic Bag Found at the Bottom of World’s Deepest Ocean Trench](https://education.nationalgeographic.org/resource/plastic-bag-found-bottom-worlds-deepest-ocean-trench/)
+* [2023-09-30, 16:20:07](https://news.ycombinator.com/item?id=37716928) - [South Korea has jailed a man for using AI to create sexual images of children](https://www.cnn.com/2023/09/27/asia/south-korea-child-abuse-ai-sentenced-intl-hnk/index.html)
 * [2023-09-30, 16:00:11](https://news.ycombinator.com/item?id=37716722) - [Don't worry about global population collapse](https://www.bloomberg.com/opinion/articles/2023-09-30/how-many-people-are-there-in-the-world-don-t-worry-about-it)
+* [2023-09-30, 15:23:58](https://news.ycombinator.com/item?id=37716310) - [Running BeOS 5 in QEMU (i386)](https://john-millikin.com/running-beos-5-in-qemu-i386)
 * [2023-09-30, 15:09:35](https://news.ycombinator.com/item?id=37716167) - [Drinking diet sodas daily during pregnancy linked to autism in male offspring](https://news.uthscsa.edu/drinking-diet-sodas-and-aspartame-sweetened-beverages-daily-during-pregnancy-linked-to-autism-in-male-offspring/)
 * [2023-09-30, 15:03:05](https://news.ycombinator.com/item?id=37716094) - [DOJ finally posted that “embarrassing” court doc Google wanted to hide](https://arstechnica.com/tech-policy/2023/09/google-exec-said-users-get-hooked-on-search-engine-like-cigarettes-or-drugs/)
 * [2023-09-30, 14:49:41](https://news.ycombinator.com/item?id=37715959) - [CSS Solves Auto-Expanding Textareas](https://chriscoyier.net/2023/09/29/css-solves-auto-expanding-textareas-probably-eventually/)
