@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2023-09-30](index.md)
 
 * [2023-09-30, 12:26:00](https://news.ycombinator.com/item?id=37714788) - [Should Ethereum be okay with enshrining more things in the protocol?](https://vitalik.eth.limo/general/2023/09/30/enshrinement.html)
+* [2023-09-30, 12:12:18](https://news.ycombinator.com/item?id=37714703) - [French AI startup Mistral releases ‘unmoderated’ chatbot via torrent](https://www.404media.co/260-million-ai-company-releases-chatbot-that-gives-detailed-instructions-on-murder-ethnic-cleansing/)
 * [2023-09-30, 12:00:36](https://news.ycombinator.com/item?id=37714636) - [Delphia (YC W18) Is Hiring](https://www.ycombinator.com/companies/delphia/jobs/ZhWTuyK-ai-data-science-lead)
 * [2023-09-30, 11:52:00](https://news.ycombinator.com/item?id=37714579) - [PSA: Some Pixel owners still can't dial 911 during an emergency](https://www.androidauthority.com/psa-google-pixel-911-emergency-calling-issues-3362990/)
+* [2023-09-30, 11:35:26](https://news.ycombinator.com/item?id=37714473) - [Microsoft Says the Days of Free Windows 7 to 10 or 11 Updates Are Over](https://www.tomshardware.com/news/microsoft-says-the-days-of-free-windows-7-to-10-or-11-updates-are-over)
 * [2023-09-30, 11:29:39](https://news.ycombinator.com/item?id=37714434) - [George W. Bush is building a memorial to the War on Terror, wants your feedback](https://theintercept.com/2023/09/30/global-war-on-terror-memorial/)
 * [2023-09-30, 11:12:22](https://news.ycombinator.com/item?id=37714343) - [GPT-4 increased BCG consultants’ performance by over 40%](https://d3.harvard.edu/navigating-the-jagged-technological-frontier/)
 * [2023-09-30, 10:38:35](https://news.ycombinator.com/item?id=37714186) - [White House warns of ‘unprecedented’ Serbian troop buildup on Kosovo border](https://www.theguardian.com/world/2023/sep/29/kosovo-serbian-troops-buildup-us-uk)
