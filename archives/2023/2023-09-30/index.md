@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-30](index.md)
 
+* [2023-09-30, 18:46:45](https://news.ycombinator.com/item?id=37718477) - [LG halts production of ATSC 3.0-compatible TVs over patent concerns](https://www.lightreading.com/video-broadcast/lg-halts-production-of-atsc-3-0-compatible-tvs-over-patent-concerns)
 * [2023-09-30, 18:19:31](https://news.ycombinator.com/item?id=37718234) - [Google Search Is Like ‘Cigarettes or Drugs,’ Executive Said](https://www.bloomberg.com/news/articles/2023-09-29/google-search-is-like-cigarettes-or-drugs-executive-said)
 * [2023-09-30, 18:19:15](https://news.ycombinator.com/item?id=37718230) - [They Quit Their Jobs. Their Ex-Employers Sued Them for Training Costs](https://www.nytimes.com/2023/09/27/business/training-repayment-agreement-debt.html)
 * [2023-09-30, 17:59:32](https://news.ycombinator.com/item?id=37718018) - [Rust Is Inevitable [video]](https://www.youtube.com/watch?v=03H1cWj2Kfc)

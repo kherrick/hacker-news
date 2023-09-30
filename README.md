@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-30, 18:46:45](https://news.ycombinator.com/item?id=37718477) - [LG halts production of ATSC 3.0-compatible TVs over patent concerns](https://www.lightreading.com/video-broadcast/lg-halts-production-of-atsc-3-0-compatible-tvs-over-patent-concerns)
 * [2023-09-30, 18:19:31](https://news.ycombinator.com/item?id=37718234) - [Google Search Is Like ‘Cigarettes or Drugs,’ Executive Said](https://www.bloomberg.com/news/articles/2023-09-29/google-search-is-like-cigarettes-or-drugs-executive-said)
 * [2023-09-30, 18:19:15](https://news.ycombinator.com/item?id=37718230) - [They Quit Their Jobs. Their Ex-Employers Sued Them for Training Costs](https://www.nytimes.com/2023/09/27/business/training-repayment-agreement-debt.html)
 * [2023-09-30, 17:32:49](https://news.ycombinator.com/item?id=37717735) - [Firefox 118 brings browser-based website translation (no cloud servers required)](https://liliputing.com/firefox-118-brings-browser-based-website-translation-no-cloud-servers-required-for-a-handful-of-supported-languages/)
@@ -24,7 +25,6 @@
 * [2023-09-30, 08:05:12](https://news.ycombinator.com/item?id=37713530) - [Flexbox Froggy](https://flexboxfroggy.com/)
 * [2023-09-30, 07:25:49](https://news.ycombinator.com/item?id=37713401) - [Adding runtime benchmarks to the Rust compiler benchmark suite](https://kobzol.github.io/rust/rustc/2023/09/23/rustc-runtime-benchmarks.html)
 * [2023-09-30, 04:14:59](https://news.ycombinator.com/item?id=37712727) - [Station to Station: David Platzker on the Art of Ed Ruscha](https://www.artforum.com/features/david-platzker-on-the-art-of-ed-ruscha-252935/)
-* [2023-09-30, 03:37:35](https://news.ycombinator.com/item?id=37712593) - [Show HN: A C++ dump func. that can print multi-D vectors, maps, tuples, and all](https://github.com/philip82148/cpp-dump)
 * [2023-09-30, 02:59:46](https://news.ycombinator.com/item?id=37712454) - [The story behind the Heliotrope Font (2021)](https://mbtype.com/fonts/heliotrope/story.html)
 * [2023-09-30, 02:32:34](https://news.ycombinator.com/item?id=37712324) - [Physicists coax superconductivity and more from quasicrystals](https://phys.org/news/2023-09-physicists-coax-superconductivity-quasicrystals.html)
 * [2023-09-29, 14:25:35](https://news.ycombinator.com/item?id=37704760) - [Show HN: RISC-V assembly tabletop board game (hack your opponent)](https://punkx.org/overflow/)
