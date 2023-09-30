@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-30, 14:45:48",
+      "https://news.ycombinator.com/item?id=37715927"
+    ],
+    [
+      "Rapid Recovery from an Autism Spectrum Disorder After Treatment of Aspergillus",
+      "https://pubmed.ncbi.nlm.nih.gov/33132781/"
+    ]
+  ],
+  [
+    [
       "2023-09-30, 14:22:58",
       "https://news.ycombinator.com/item?id=37715713"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=37715211"
     ],
     [
-      "DOJ vs. Google evidence release judge calls embarrassing exhibit [pdf]",
+      "DOJ vs. Google evidence release that judge calls embarrassing exhibit [pdf]",
       "https://www.justice.gov/d9/2023-09/416692.pdf"
     ]
   ],
@@ -47,6 +57,16 @@
     [
       "Is Consciousness Part of the Fabric of the Universe?",
       "https://www.scientificamerican.com/article/is-consciousness-part-of-the-fabric-of-the-universe/"
+    ]
+  ],
+  [
+    [
+      "2023-09-30, 13:09:45",
+      "https://news.ycombinator.com/item?id=37715082"
+    ],
+    [
+      "Alleged AMD Zen 5 Specs Leak: Twice the Cores, 15% Increased IPC over Ryzen 7000",
+      "https://www.tomshardware.com/news/alleged-amd-zen-5-specs-leak-twice-the-cores-15-increased-ipc-over-ryzen-7000"
     ]
   ],
   [
@@ -75,7 +95,7 @@
       "https://news.ycombinator.com/item?id=37714829"
     ],
     [
-      "PruningRadixTrie – 1000x faster Radix trie for prefix search and auto-complete",
+      "PruningRadixTrie – Faster Radix trie for prefix search and auto-complete",
       "https://github.com/wolfgarbe/PruningRadixTrie"
     ]
   ],
@@ -87,16 +107,6 @@
     [
       "Should Ethereum be okay with enshrining more things in the protocol?",
       "https://vitalik.eth.limo/general/2023/09/30/enshrinement.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-30, 12:16:33",
-      "https://news.ycombinator.com/item?id=37714729"
-    ],
-    [
-      "Shell employees urge CEO to rethink shift from renewables in rare letter",
-      "https://www.euronews.com/green/2023/09/28/deep-concern-shell-employees-urge-ceo-to-rethink-shift-from-renewables-in-rare-letter"
     ]
   ],
   [
@@ -125,18 +135,8 @@
       "https://news.ycombinator.com/item?id=37714343"
     ],
     [
-      "ChatGPT-4 significantly increased performance of BCG consultants",
+      "ChatGPT-4 significantly increased performance of business consultants",
       "https://d3.harvard.edu/navigating-the-jagged-technological-frontier/"
-    ]
-  ],
-  [
-    [
-      "2023-09-30, 10:38:35",
-      "https://news.ycombinator.com/item?id=37714186"
-    ],
-    [
-      "White House warns of ‘unprecedented’ Serbian troop buildup on Kosovo border",
-      "https://www.theguardian.com/world/2023/sep/29/kosovo-serbian-troops-buildup-us-uk"
     ]
   ],
   [
@@ -211,22 +211,22 @@
   ],
   [
     [
+      "2023-09-30, 04:14:59",
+      "https://news.ycombinator.com/item?id=37712727"
+    ],
+    [
+      "Station to Station: David Platzker on the Art of Ed Ruscha",
+      "https://www.artforum.com/features/david-platzker-on-the-art-of-ed-ruscha-252935/"
+    ]
+  ],
+  [
+    [
       "2023-09-30, 03:37:35",
       "https://news.ycombinator.com/item?id=37712593"
     ],
     [
       "Show HN: A C++ dump func. that can print multi-D vectors, maps, tuples, and all",
       "https://github.com/philip82148/cpp-dump"
-    ]
-  ],
-  [
-    [
-      "2023-09-30, 02:23:10",
-      "https://news.ycombinator.com/item?id=37712283"
-    ],
-    [
-      "Rust on Espressif chips",
-      "https://mabez.dev/blog/posts/esp-rust-29-09-2023/"
     ]
   ],
   [
