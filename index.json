@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2023-09-30, 09:10:11",
+      "https://news.ycombinator.com/item?id=37713821"
+    ],
+    [
+      "Show HN: kproximate – A Kubernetes node autoscaler for Proxmox",
+      "https://github.com/lupinelab/kproximate"
+    ]
+  ],
+  [
+    [
+      "2023-09-30, 08:05:12",
+      "https://news.ycombinator.com/item?id=37713530"
+    ],
+    [
+      "Flexbox Froggy",
+      "https://flexboxfroggy.com/"
+    ]
+  ],
+  [
+    [
       "2023-09-30, 07:54:27",
       "https://news.ycombinator.com/item?id=37713487"
     ],
@@ -97,26 +117,6 @@
     [
       "Rust on Espressif chips",
       "https://mabez.dev/blog/posts/esp-rust-29-09-2023/"
-    ]
-  ],
-  [
-    [
-      "2023-09-30, 00:44:26",
-      "https://news.ycombinator.com/item?id=37711811"
-    ],
-    [
-      "How to (not) invent concurrent algorithms",
-      "http://concurrencyfreaks.blogspot.com/2023/09/how-to-not-invent-concurrent-algorithms.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-29, 23:22:55",
-      "https://news.ycombinator.com/item?id=37711274"
-    ],
-    [
-      "Ferrocene update",
-      "https://ferrous-systems.com/blog/ferrocene-update/"
     ]
   ],
   [
