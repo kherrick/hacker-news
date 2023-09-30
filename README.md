@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-30, 21:23:53](https://news.ycombinator.com/item?id=37719971) - [NIR: Nim Intermediate Representation](https://github.com/nim-lang/Nim/pull/22777)
 * [2023-09-30, 20:51:53](https://news.ycombinator.com/item?id=37719668) - [The man who did not have a conversation in over 50 years](https://en.wikipedia.org/wiki/Andr%C3%A1s_Toma)
 * [2023-09-30, 20:16:16](https://news.ycombinator.com/item?id=37719308) - [AdaCore Announces Gnat Pro for Rust](https://www.adacore.com/press/adacore-announces-gnat-pro-for-rust)
+* [2023-09-30, 20:15:00](https://news.ycombinator.com/item?id=37719298) - [Bots Should Punch Up](https://www.crummy.com/2013/11/27/0)
 * [2023-09-30, 19:41:18](https://news.ycombinator.com/item?id=37718999) - [How to see bright, vivid images in your mind’s eye (2016)](https://photographyinsider.info/image-streaming-for-photographers/)
 * [2023-09-30, 19:26:55](https://news.ycombinator.com/item?id=37718859) - [Pharmacokinetics: Drug development's broken stair](https://trevorklee.substack.com/p/pharmacokinetics-drug-developments)
 * [2023-09-30, 18:46:45](https://news.ycombinator.com/item?id=37718477) - [LG halts production of ATSC 3.0-compatible TVs over patent concerns](https://www.lightreading.com/video-broadcast/lg-halts-production-of-atsc-3-0-compatible-tvs-over-patent-concerns)
@@ -23,13 +25,11 @@
 * [2023-09-30, 09:13:28](https://news.ycombinator.com/item?id=37713835) - [The Ingenious Cardboard Bed](https://newatlas.com/good-thinking/ingenious-cardboard-bed/)
 * [2023-09-30, 08:05:12](https://news.ycombinator.com/item?id=37713530) - [Flexbox Froggy](https://flexboxfroggy.com/)
 * [2023-09-30, 07:32:32](https://news.ycombinator.com/item?id=37713418) - [My Lobotomy: Howard Dully's Journey (2005)](https://www.npr.org/2005/11/16/5014080/my-lobotomy-howard-dullys-journey)
-* [2023-09-30, 07:25:49](https://news.ycombinator.com/item?id=37713401) - [Adding runtime benchmarks to the Rust compiler benchmark suite](https://kobzol.github.io/rust/rustc/2023/09/23/rustc-runtime-benchmarks.html)
 * [2023-09-30, 04:52:07](https://news.ycombinator.com/item?id=37712847) - [Oldsmobile Hydra-Matic Drive (1947) [pdf]](https://www.xr793.com/wp-content/uploads/2018/12/1947-Oldsmobile-Hydra-Matic-Drive.pdf)
 * [2023-09-30, 02:59:46](https://news.ycombinator.com/item?id=37712454) - [The story behind the Heliotrope Font (2021)](https://mbtype.com/fonts/heliotrope/story.html)
 * [2023-09-30, 02:32:34](https://news.ycombinator.com/item?id=37712324) - [Physicists coax superconductivity and more from quasicrystals](https://phys.org/news/2023-09-physicists-coax-superconductivity-quasicrystals.html)
 * [2023-09-29, 17:19:24](https://news.ycombinator.com/item?id=37707348) - [A Bit About Byte Magazine](https://www.goto10retro.com/p/a-bit-about-byte-magazine-the-premier)
 * [2023-09-29, 04:52:09](https://news.ycombinator.com/item?id=37699409) - [Bookkeeping Machines](https://americanhistory.si.edu/collections/object-groups/bookkeeping-machines)
-* [2023-09-28, 15:42:05](https://news.ycombinator.com/item?id=37691232) - [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/)
 
 ## [Archives](archives/index.md)
 

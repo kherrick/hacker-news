@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-30](index.md)
 
+* [2023-09-30, 21:23:53](https://news.ycombinator.com/item?id=37719971) - [NIR: Nim Intermediate Representation](https://github.com/nim-lang/Nim/pull/22777)
 * [2023-09-30, 20:51:53](https://news.ycombinator.com/item?id=37719668) - [The man who did not have a conversation in over 50 years](https://en.wikipedia.org/wiki/Andr%C3%A1s_Toma)
 * [2023-09-30, 20:16:16](https://news.ycombinator.com/item?id=37719308) - [AdaCore Announces Gnat Pro for Rust](https://www.adacore.com/press/adacore-announces-gnat-pro-for-rust)
+* [2023-09-30, 20:15:00](https://news.ycombinator.com/item?id=37719298) - [Bots Should Punch Up](https://www.crummy.com/2013/11/27/0)
 * [2023-09-30, 19:41:18](https://news.ycombinator.com/item?id=37718999) - [How to See Bright, Vivid Images in Your Mind’s Eye](https://photographyinsider.info/image-streaming-for-photographers/)
 * [2023-09-30, 19:27:29](https://news.ycombinator.com/item?id=37718865) - [I Survived (Barely) as a Jazz Musician at Business School](https://www.honest-broker.com/p/how-i-survived-barely-as-a-jazz-musician)
 * [2023-09-30, 19:26:55](https://news.ycombinator.com/item?id=37718859) - [Pharmacokinetics: Drug Development's Broken Stair](https://trevorklee.substack.com/p/pharmacokinetics-drug-developments)
