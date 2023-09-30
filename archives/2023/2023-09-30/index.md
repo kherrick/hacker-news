@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-30](index.md)
 
+* [2023-09-30, 15:09:35](https://news.ycombinator.com/item?id=37716167) - [Drinking diet sodas daily during pregnancy linked to autism in male offspring](https://news.uthscsa.edu/drinking-diet-sodas-and-aspartame-sweetened-beverages-daily-during-pregnancy-linked-to-autism-in-male-offspring/)
 * [2023-09-30, 15:03:05](https://news.ycombinator.com/item?id=37716094) - [DOJ finally posted that “embarrassing” court doc Google wanted to hide](https://arstechnica.com/tech-policy/2023/09/google-exec-said-users-get-hooked-on-search-engine-like-cigarettes-or-drugs/)
 * [2023-09-30, 14:45:48](https://news.ycombinator.com/item?id=37715927) - [Rapid Recovery from an Autism Spectrum Disorder After Treatment of Aspergillus](https://pubmed.ncbi.nlm.nih.gov/33132781/)
 * [2023-09-30, 14:22:58](https://news.ycombinator.com/item?id=37715713) - [Daft Punk Announce Drumless Edition of Random Access Memories](https://pitchfork.com/news/daft-punk-announce-drumless-edition-of-random-access-memories/)
