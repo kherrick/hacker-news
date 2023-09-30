@@ -27,8 +27,8 @@
 * [2023-09-30, 01:55:21](https://news.ycombinator.com/item?id=37712174) - [How BlackBerry failed to respond to the iPhone](https://rubenerd.com/how-blackberry-failed-to-respond-to-the-iphone/)
 * [2023-09-29, 18:27:55](https://news.ycombinator.com/item?id=37708292) - [RealFill: Image completion using diffusion models](https://realfill.github.io/)
 * [2023-09-29, 16:51:32](https://news.ycombinator.com/item?id=37706893) - [50 years later, is two-phase locking the best we can do?](http://concurrencyfreaks.blogspot.com/2023/09/50-years-later-is-two-phase-locking.html)
-* [2023-09-29, 16:03:45](https://news.ycombinator.com/item?id=37706210) - [SIMH – Old Computer Emulator](https://en.wikipedia.org/wiki/SIMH)
 * [2023-09-29, 14:25:35](https://news.ycombinator.com/item?id=37704760) - [Show HN: RISC-V assembly tabletop board game (hack your opponent)](https://punkx.org/overflow/)
+* [2023-09-28, 19:02:16](https://news.ycombinator.com/item?id=37694094) - [Japan’s silent movie culture is still going](https://petertasker.asia/articles/culture/think-again-al-jolson-japans-silent-movie-culture-is-still-going-strong/)
 * [2023-09-28, 15:42:05](https://news.ycombinator.com/item?id=37691232) - [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/)
 
 ## [Archives](archives/index.md)
