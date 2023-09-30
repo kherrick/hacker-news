@@ -2,7 +2,6 @@
 
 * [2023-09-29, 22:45:33](https://news.ycombinator.com/item?id=37710975) - [Devs learn rival Godot engine in a week to poke fun at Unity](https://www.theregister.com/2023/09/27/unity_install_fee_tycoon/)
 * [2023-09-29, 22:08:56](https://news.ycombinator.com/item?id=37710683) - [Trains on another level](https://factorio.com/blog/post/fff-378)
-* [2023-09-29, 21:41:22](https://news.ycombinator.com/item?id=37710422) - [Obscura: A VPN that can't track your activity](https://obscuravpn.io/)
 * [2023-09-29, 20:44:02](https://news.ycombinator.com/item?id=37709876) - [Soviet computer has been forgotten for 30 years [video]](https://www.youtube.com/watch?v=lVCS99Zep9w)
 * [2023-09-29, 19:51:01](https://news.ycombinator.com/item?id=37709284) - [Meta in Myanmar](https://erinkissane.com/meta-in-myanmar-part-i-the-setup)
 * [2023-09-29, 18:37:22](https://news.ycombinator.com/item?id=37708423) - [Motocompacto from Honda, 3.7 inch wide Briefcase-form Electric Scooter](https://motocompacto.honda.com/)
@@ -11,6 +10,7 @@
 * [2023-09-29, 16:51:32](https://news.ycombinator.com/item?id=37706893) - [50 years later, is two-phase locking the best we can do?](http://concurrencyfreaks.blogspot.com/2023/09/50-years-later-is-two-phase-locking.html)
 * [2023-09-29, 16:38:05](https://news.ycombinator.com/item?id=37706706) - [A scientific curiosity that happened to me](https://old.reddit.com/r/Physics/comments/16v8g6e/a_scientific_curiosity_that_happened_to_me/)
 * [2023-09-29, 16:25:35](https://news.ycombinator.com/item?id=37706513) - [Low-Code Programming Models](https://cacm.acm.org/magazines/2023/10/276633-low-code-programming-models/fulltext)
+* [2023-09-29, 16:03:45](https://news.ycombinator.com/item?id=37706210) - [SIMH – Old Computer Emulator](https://en.wikipedia.org/wiki/SIMH)
 * [2023-09-29, 15:54:07](https://news.ycombinator.com/item?id=37706070) - [SIMD Everywhere Optimization from ARM Neon to RISC-V Vector Extensions](https://arxiv.org/abs/2309.16509)
 * [2023-09-29, 15:04:13](https://news.ycombinator.com/item?id=37705328) - [Making a music library without a SPA](https://begin.com/blog/posts/2023-09-28-introducing-enhance-music)
 * [2023-09-29, 14:51:11](https://news.ycombinator.com/item?id=37705153) - [A peek into Argentina’s video game scene](https://buenosairesherald.com/culture-ideas/videogames/satanism-star-trek-and-an-army-of-gauchos-a-peek-into-argentinas-video-game-scene)

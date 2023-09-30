@@ -41,6 +41,7 @@
 * [2023-09-29, 16:17:34](https://news.ycombinator.com/item?id=37706389) - [Microsoft will stop old Windows keys from activating new Windows installs](https://arstechnica.com/gadgets/2023/09/microsoft-says-you-cant-activate-windows-10-11-with-old-windows-7-8-keys-anymore/)
 * [2023-09-29, 16:14:54](https://news.ycombinator.com/item?id=37706353) - [Farm robots inspired by ant brains](https://techxplore.com/news/2023-09-farm-robots-ant-brains.html)
 * [2023-09-29, 16:11:03](https://news.ycombinator.com/item?id=37706302) - [Facebook/Meta blocks accounts for posting link to EFF privacy tips](https://techhub.social/@kirbstr/111148950526108155)
+* [2023-09-29, 16:03:45](https://news.ycombinator.com/item?id=37706210) - [SIMH – Old Computer Emulator](https://en.wikipedia.org/wiki/SIMH)
 * [2023-09-29, 15:54:07](https://news.ycombinator.com/item?id=37706070) - [SIMD Everywhere Optimization from ARM Neon to RISC-V Vector Extensions](https://arxiv.org/abs/2309.16509)
 * [2023-09-29, 15:35:32](https://news.ycombinator.com/item?id=37705779) - [UTM: An Apple hypervisor with some unique extra abilities](https://www.theregister.com/2023/09/29/utm_apple_hypervisor_foss_fest/)
 * [2023-09-29, 15:21:40](https://news.ycombinator.com/item?id=37705563) - [Three Arrows Capital co-founder Zhu arrested in Singapore airport](https://techcrunch.com/2023/09/29/three-arrows-capital-co-founder-zhu-arrested-in-singapore-airport-sentenced-four-months-in-prison/)
