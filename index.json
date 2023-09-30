@@ -5,18 +5,8 @@
       "https://news.ycombinator.com/item?id=37710865"
     ],
     [
-      "Drive Like a Human: Rethinking Autonomous Driving with Large Language Models",
+      "Rethinking Autonomous Driving with Large Language Models",
       "https://arxiv.org/abs/2307.07162"
-    ]
-  ],
-  [
-    [
-      "2023-09-29, 22:21:48",
-      "https://news.ycombinator.com/item?id=37710791"
-    ],
-    [
-      "No need to send it back: Netflix posts its final DVDs to customers",
-      "https://www.theguardian.com/media/2023/sep/29/netflix-dvds-final-sent-by-mail"
     ]
   ],
   [
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=37710683"
     ],
     [
-      "Factorio Friday Facts #378 – Trains on another level",
+      "Trains on another level",
       "https://factorio.com/blog/post/fff-378"
     ]
   ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=37710422"
     ],
     [
-      "Obscura: The VPN that can't track your activity",
+      "Obscura: A VPN that can't track your activity",
       "https://obscuravpn.io/"
     ]
   ],
@@ -47,6 +37,16 @@
     [
       "Soviet computer has been forgotten for 30 years [video]",
       "https://www.youtube.com/watch?v=lVCS99Zep9w"
+    ]
+  ],
+  [
+    [
+      "2023-09-29, 19:51:01",
+      "https://news.ycombinator.com/item?id=37709284"
+    ],
+    [
+      "Meta in Myanmar",
+      "https://erinkissane.com/meta-in-myanmar-part-i-the-setup"
     ]
   ],
   [
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=37706893"
     ],
     [
-      "50 years later, is Two-Phase Locking the best we can do?",
+      "50 years later, is two-phase locking the best we can do?",
       "http://concurrencyfreaks.blogspot.com/2023/09/50-years-later-is-two-phase-locking.html"
     ]
   ],
@@ -107,6 +107,16 @@
     [
       "SIMD Everywhere Optimization from ARM Neon to RISC-V Vector Extensions",
       "https://arxiv.org/abs/2309.16509"
+    ]
+  ],
+  [
+    [
+      "2023-09-29, 15:04:13",
+      "https://news.ycombinator.com/item?id=37705328"
+    ],
+    [
+      "Making a music library without a SPA",
+      "https://begin.com/blog/posts/2023-09-28-introducing-enhance-music"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Visual Node Graph with ImGui",
       "https://gboisse.github.io/posts/node-graph/"
-    ]
-  ],
-  [
-    [
-      "2023-09-29, 09:08:17",
-      "https://news.ycombinator.com/item?id=37701117"
-    ],
-    [
-      "Things Every Hacker Once Knew (2017)",
-      "http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/"
     ]
   ],
   [
