@@ -20,6 +20,7 @@
 * [2023-09-30, 18:19:15](https://news.ycombinator.com/item?id=37718230) - [They Quit Their Jobs. Their Ex-Employers Sued Them for Training Costs](https://www.nytimes.com/2023/09/27/business/training-repayment-agreement-debt.html)
 * [2023-09-30, 18:09:46](https://news.ycombinator.com/item?id=37718132) - [Reorient GitHub Pull Requests Around Changesets](https://mitchellh.com/writing/github-changesets)
 * [2023-09-30, 17:59:32](https://news.ycombinator.com/item?id=37718018) - [Rust Is Inevitable [video]](https://www.youtube.com/watch?v=03H1cWj2Kfc)
+* [2023-09-30, 17:47:33](https://news.ycombinator.com/item?id=37717889) - [Modeling transformational policy pathways on low and negative growth scenarios](https://www.nature.com/articles/s41598-023-42782-y)
 * [2023-09-30, 17:32:49](https://news.ycombinator.com/item?id=37717735) - [Firefox 118 brings browser-based website translation (no cloud servers required)](https://liliputing.com/firefox-118-brings-browser-based-website-translation-no-cloud-servers-required-for-a-handful-of-supported-languages/)
 * [2023-09-30, 17:29:49](https://news.ycombinator.com/item?id=37717689) - [Ask HN: SaaS pricing pages with high prices and not “contact sales”](https://news.ycombinator.com/item?id=37717689)
 * [2023-09-30, 17:00:09](https://news.ycombinator.com/item?id=37717369) - [SigNoz (YC W21, Open Source Datadog Alternative) Is Hiring Tech Content Writer](https://signoz.io/careers/technical-content-writer-in/)
