@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-09-30, 16:00:11",
-      "https://news.ycombinator.com/item?id=37716722"
-    ],
-    [
-      "Don't worry about global population collapse",
-      "https://www.bloomberg.com/opinion/articles/2023-09-30/how-many-people-are-there-in-the-world-don-t-worry-about-it"
-    ]
-  ],
-  [
-    [
       "2023-09-30, 15:23:58",
       "https://news.ycombinator.com/item?id=37716310"
     ],
@@ -111,6 +101,16 @@
   ],
   [
     [
+      "2023-09-30, 14:22:58",
+      "https://news.ycombinator.com/item?id=37715713"
+    ],
+    [
+      "Daft Punk Announce Drumless Edition of Random Access Memories",
+      "https://pitchfork.com/news/daft-punk-announce-drumless-edition-of-random-access-memories/"
+    ]
+  ],
+  [
+    [
       "2023-09-30, 13:59:00",
       "https://news.ycombinator.com/item?id=37715499"
     ],
@@ -127,16 +127,6 @@
     [
       "Alleged AMD Zen 5 Specs Leak: Twice the Cores, 15% Increased IPC over Ryzen 7000",
       "https://www.tomshardware.com/news/alleged-amd-zen-5-specs-leak-twice-the-cores-15-increased-ipc-over-ryzen-7000"
-    ]
-  ],
-  [
-    [
-      "2023-09-30, 13:04:44",
-      "https://news.ycombinator.com/item?id=37715034"
-    ],
-    [
-      "European Legislation Could Create Liability for Free-Software Developers",
-      "https://lwn.net/Articles/944300/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Station to Station: David Platzker on the Art of Ed Ruscha",
       "https://www.artforum.com/features/david-platzker-on-the-art-of-ed-ruscha-252935/"
+    ]
+  ],
+  [
+    [
+      "2023-09-30, 03:37:35",
+      "https://news.ycombinator.com/item?id=37712593"
+    ],
+    [
+      "Show HN: A C++ dump func. that can print multi-D vectors, maps, tuples, and all",
+      "https://github.com/philip82148/cpp-dump"
     ]
   ],
   [
