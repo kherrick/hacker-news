@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-30, 20:16:16](https://news.ycombinator.com/item?id=37719308) - [AdaCore Announces Gnat Pro for Rust](https://www.adacore.com/press/adacore-announces-gnat-pro-for-rust)
 * [2023-09-30, 19:41:18](https://news.ycombinator.com/item?id=37718999) - [How to see bright, vivid images in your mind’s eye (2016)](https://photographyinsider.info/image-streaming-for-photographers/)
 * [2023-09-30, 19:26:55](https://news.ycombinator.com/item?id=37718859) - [Pharmacokinetics: Drug development's broken stair](https://trevorklee.substack.com/p/pharmacokinetics-drug-developments)
 * [2023-09-30, 18:46:45](https://news.ycombinator.com/item?id=37718477) - [LG halts production of ATSC 3.0-compatible TVs over patent concerns](https://www.lightreading.com/video-broadcast/lg-halts-production-of-atsc-3-0-compatible-tvs-over-patent-concerns)
@@ -10,7 +11,6 @@
 * [2023-09-30, 16:19:00](https://news.ycombinator.com/item?id=37716910) - [How flip-flops are implemented in the Intel 8086 processor](http://www.righto.com/2023/09/8086-flip-flops.html)
 * [2023-09-30, 16:00:11](https://news.ycombinator.com/item?id=37716722) - [Most demographers now predict that human population will plateau](https://www.bloomberg.com/opinion/articles/2023-09-30/how-many-people-are-there-in-the-world-don-t-worry-about-it)
 * [2023-09-30, 15:23:58](https://news.ycombinator.com/item?id=37716310) - [Running BeOS 5 in QEMU (i386) (2022)](https://john-millikin.com/running-beos-5-in-qemu-i386)
-* [2023-09-30, 14:49:41](https://news.ycombinator.com/item?id=37715959) - [CSS solves auto-expanding textareas (probably, eventually)](https://chriscoyier.net/2023/09/29/css-solves-auto-expanding-textareas-probably-eventually/)
 * [2023-09-30, 13:59:00](https://news.ycombinator.com/item?id=37715499) - [A revelation about trees is messing with climate calculations](https://www.wired.com/story/a-revelation-about-trees-is-messing-with-climate-calculations/)
 * [2023-09-30, 13:17:28](https://news.ycombinator.com/item?id=37715145) - [Is consciousness part of the fabric of the universe?](https://www.scientificamerican.com/article/is-consciousness-part-of-the-fabric-of-the-universe/)
 * [2023-09-30, 12:49:02](https://news.ycombinator.com/item?id=37714922) - [Removing Sybils from an Open Network](https://wiki.saito.io/consensus/sybil-proof)
@@ -18,7 +18,7 @@
 * [2023-09-30, 12:33:21](https://news.ycombinator.com/item?id=37714829) - [PruningRadixTrie – Faster Radix trie for prefix search and auto-complete](https://github.com/wolfgarbe/PruningRadixTrie)
 * [2023-09-30, 12:27:40](https://news.ycombinator.com/item?id=37714800) - [What Is the Future of the DAW?](https://djmag.com/features/what-future-daw)
 * [2023-09-30, 12:12:18](https://news.ycombinator.com/item?id=37714703) - [Mistral releases ‘unmoderated’ chatbot via torrent](https://www.404media.co/260-million-ai-company-releases-chatbot-that-gives-detailed-instructions-on-murder-ethnic-cleansing/)
-* [2023-09-30, 11:52:00](https://news.ycombinator.com/item?id=37714579) - [Some Pixel owners still can't dial 911 during an emergency](https://www.androidauthority.com/psa-google-pixel-911-emergency-calling-issues-3362990/)
+* [2023-09-30, 11:21:18](https://news.ycombinator.com/item?id=37714395) - [Building Processors from the Ground Up](https://howcpuworks.com/blogs/processsorbook/building-processors-from-the-ground-up)
 * [2023-09-30, 09:10:11](https://news.ycombinator.com/item?id=37713821) - [Show HN: kproximate – A Kubernetes node autoscaler for Proxmox](https://github.com/lupinelab/kproximate)
 * [2023-09-30, 08:05:12](https://news.ycombinator.com/item?id=37713530) - [Flexbox Froggy](https://flexboxfroggy.com/)
 * [2023-09-30, 07:32:32](https://news.ycombinator.com/item?id=37713418) - [My Lobotomy: Howard Dully's Journey (2005)](https://www.npr.org/2005/11/16/5014080/my-lobotomy-howard-dullys-journey)

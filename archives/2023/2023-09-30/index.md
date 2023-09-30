@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-30](index.md)
 
+* [2023-09-30, 20:16:16](https://news.ycombinator.com/item?id=37719308) - [AdaCore Announces Gnat Pro for Rust](https://www.adacore.com/press/adacore-announces-gnat-pro-for-rust)
 * [2023-09-30, 19:41:18](https://news.ycombinator.com/item?id=37718999) - [How to See Bright, Vivid Images in Your Mind’s Eye](https://photographyinsider.info/image-streaming-for-photographers/)
 * [2023-09-30, 19:27:29](https://news.ycombinator.com/item?id=37718865) - [I Survived (Barely) as a Jazz Musician at Business School](https://www.honest-broker.com/p/how-i-survived-barely-as-a-jazz-musician)
 * [2023-09-30, 19:26:55](https://news.ycombinator.com/item?id=37718859) - [Pharmacokinetics: Drug Development's Broken Stair](https://trevorklee.substack.com/p/pharmacokinetics-drug-developments)
@@ -52,6 +53,7 @@
 * [2023-09-30, 11:52:00](https://news.ycombinator.com/item?id=37714579) - [PSA: Some Pixel owners still can't dial 911 during an emergency](https://www.androidauthority.com/psa-google-pixel-911-emergency-calling-issues-3362990/)
 * [2023-09-30, 11:35:26](https://news.ycombinator.com/item?id=37714473) - [Microsoft Says the Days of Free Windows 7 to 10 or 11 Updates Are Over](https://www.tomshardware.com/news/microsoft-says-the-days-of-free-windows-7-to-10-or-11-updates-are-over)
 * [2023-09-30, 11:29:39](https://news.ycombinator.com/item?id=37714434) - [George W. Bush is building a memorial to the War on Terror, wants your feedback](https://theintercept.com/2023/09/30/global-war-on-terror-memorial/)
+* [2023-09-30, 11:21:18](https://news.ycombinator.com/item?id=37714395) - [Building Processors from the Ground Up](https://howcpuworks.com/blogs/processsorbook/building-processors-from-the-ground-up)
 * [2023-09-30, 11:12:22](https://news.ycombinator.com/item?id=37714343) - [GPT-4 increased BCG consultants’ performance by over 40%](https://d3.harvard.edu/navigating-the-jagged-technological-frontier/)
 * [2023-09-30, 10:38:35](https://news.ycombinator.com/item?id=37714186) - [White House warns of ‘unprecedented’ Serbian troop buildup on Kosovo border](https://www.theguardian.com/world/2023/sep/29/kosovo-serbian-troops-buildup-us-uk)
 * [2023-09-30, 09:52:36](https://news.ycombinator.com/item?id=37713993) - [Bedbug crisis sparks political row in Paris as insect ‘scourge’ continues](https://www.theguardian.com/world/2023/sep/29/bedbug-crisis-political-row-paris-insect-scourge-continues)
