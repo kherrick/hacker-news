@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-30, 13:23:05",
+      "https://news.ycombinator.com/item?id=37715209"
+    ],
+    [
+      "Azure dropping database support for MariaDB. Users advised to migrate to MySQL",
+      "https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-will-be-retired-on-19-september-2025-migrate-to-azure-database-for-mysql-flexible-server/"
+    ]
+  ],
+  [
+    [
       "2023-09-30, 12:45:04",
       "https://news.ycombinator.com/item?id=37714896"
     ],
@@ -257,16 +267,6 @@
     [
       "Show HN: RISC-V assembly tabletop board game (hack your opponent)",
       "https://punkx.org/overflow/"
-    ]
-  ],
-  [
-    [
-      "2023-09-29, 12:51:22",
-      "https://news.ycombinator.com/item?id=37703291"
-    ],
-    [
-      "Draggable objects",
-      "https://www.redblobgames.com/making-of/draggable/"
     ]
   ],
   [
