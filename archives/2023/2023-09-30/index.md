@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-30](index.md)
 
+* [2023-09-30, 14:22:58](https://news.ycombinator.com/item?id=37715713) - [Daft Punk Announce Drumless Edition of Random Access Memories](https://pitchfork.com/news/daft-punk-announce-drumless-edition-of-random-access-memories/)
 * [2023-09-30, 13:59:00](https://news.ycombinator.com/item?id=37715499) - [A Revelation About Trees Is Messing with Climate Calculations](https://web.archive.org/web/20230930090902/https://www.wired.com/story/a-revelation-about-trees-is-messing-with-climate-calculations/)
 * [2023-09-30, 13:23:10](https://news.ycombinator.com/item?id=37715211) - [DOJ vs. Google evidence release judge calls embarrassing exhibit [pdf]](https://www.justice.gov/d9/2023-09/416692.pdf)
 * [2023-09-30, 13:23:05](https://news.ycombinator.com/item?id=37715209) - [Azure dropping database support for MariaDB. Users advised to migrate to MySQL](https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-will-be-retired-on-19-september-2025-migrate-to-azure-database-for-mysql-flexible-server/)
