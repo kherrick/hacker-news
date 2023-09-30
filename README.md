@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-09-30, 12:45:04](https://news.ycombinator.com/item?id=37714896) - [Canadians have a ‘right to be forgotten’ on Google, Federal Court rules](https://www.theglobeandmail.com/canada/article-federal-court-of-appeal-opens-door-to-the-right-to-be-forgotten-in-a/)
-* [2023-09-30, 12:40:58](https://news.ycombinator.com/item?id=37714871) - [Google randomly deleted a popular YouTube channel again](https://twitter.com/3DPrintGeneral/status/1707888026351817107)
 * [2023-09-30, 12:33:21](https://news.ycombinator.com/item?id=37714829) - [PruningRadixTrie – 1000x faster Radix trie for prefix search and auto-complete](https://github.com/wolfgarbe/PruningRadixTrie)
 * [2023-09-30, 12:26:00](https://news.ycombinator.com/item?id=37714788) - [Should Ethereum be okay with enshrining more things in the protocol?](https://vitalik.eth.limo/general/2023/09/30/enshrinement.html)
 * [2023-09-30, 12:16:33](https://news.ycombinator.com/item?id=37714729) - [Shell employees urge CEO to rethink shift from renewables in rare letter](https://www.euronews.com/green/2023/09/28/deep-concern-shell-employees-urge-ceo-to-rethink-shift-from-renewables-in-rare-letter)
@@ -21,13 +20,14 @@
 * [2023-09-30, 05:57:24](https://news.ycombinator.com/item?id=37713091) - [A couple of messages about changes to ianVisits: Copyright trolls](https://www.ianvisits.co.uk/articles/a-couple-of-messages-about-changes-to-ianvisits-66081/)
 * [2023-09-30, 03:37:35](https://news.ycombinator.com/item?id=37712593) - [Show HN: A C++ dump func. that can print multi-D vectors, maps, tuples, and all](https://github.com/philip82148/cpp-dump)
 * [2023-09-30, 02:23:10](https://news.ycombinator.com/item?id=37712283) - [Rust on Espressif chips](https://mabez.dev/blog/posts/esp-rust-29-09-2023/)
+* [2023-09-29, 20:44:02](https://news.ycombinator.com/item?id=37709876) - [Soviet computer has been forgotten for 30 years [video]](https://www.youtube.com/watch?v=lVCS99Zep9w)
 * [2023-09-29, 18:27:55](https://news.ycombinator.com/item?id=37708292) - [RealFill: Image completion using diffusion models](https://realfill.github.io/)
 * [2023-09-29, 16:51:32](https://news.ycombinator.com/item?id=37706893) - [50 years later, is two-phase locking the best we can do?](http://concurrencyfreaks.blogspot.com/2023/09/50-years-later-is-two-phase-locking.html)
 * [2023-09-29, 16:03:45](https://news.ycombinator.com/item?id=37706210) - [SIMH – Old Computer Emulator](https://en.wikipedia.org/wiki/SIMH)
 * [2023-09-29, 15:04:13](https://news.ycombinator.com/item?id=37705328) - [Making a music library without a SPA](https://begin.com/blog/posts/2023-09-28-introducing-enhance-music)
 * [2023-09-29, 14:25:35](https://news.ycombinator.com/item?id=37704760) - [Show HN: RISC-V assembly tabletop board game (hack your opponent)](https://punkx.org/overflow/)
+* [2023-09-29, 12:51:22](https://news.ycombinator.com/item?id=37703291) - [Draggable objects](https://www.redblobgames.com/making-of/draggable/)
 * [2023-09-29, 08:30:03](https://news.ycombinator.com/item?id=37700847) - [Burning money on paid ads for a dev tool – what we've learned](https://posthog.com/blog/dev-marketing-paid-ads)
-* [2023-09-29, 01:56:52](https://news.ycombinator.com/item?id=37698411) - [Students made Oxford murder capital of late medieval England, research suggests](https://phys.org/news/2023-09-students-oxford-capital-late-medieval.html)
 * [2023-09-28, 19:02:16](https://news.ycombinator.com/item?id=37694094) - [Japan’s silent movie culture is still going](https://petertasker.asia/articles/culture/think-again-al-jolson-japans-silent-movie-culture-is-still-going-strong/)
 * [2023-09-28, 15:42:05](https://news.ycombinator.com/item?id=37691232) - [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/)
 
