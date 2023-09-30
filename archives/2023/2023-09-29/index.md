@@ -11,6 +11,7 @@
 * [2023-09-29, 22:08:56](https://news.ycombinator.com/item?id=37710683) - [Factorio Friday Facts #378 – Trains on another level](https://factorio.com/blog/post/fff-378)
 * [2023-09-29, 21:41:22](https://news.ycombinator.com/item?id=37710422) - [Obscura: The VPN that can't track your activity](https://obscuravpn.io/)
 * [2023-09-29, 21:22:48](https://news.ycombinator.com/item?id=37710234) - [IRS Consultant Charged with Disclosing Tax Return Info to News Organizations](https://www.justice.gov/opa/pr/irs-consultant-charged-disclosing-tax-return-information-news-organizations)
+* [2023-09-29, 21:21:16](https://news.ycombinator.com/item?id=37710221) - [The fastest route to a climate turnaround is also less expensive](https://www.anthropocenemagazine.org/2023/07/the-fastest-route-to-a-climate-turnaround-is-also-less-expensive/)
 * [2023-09-29, 21:20:19](https://news.ycombinator.com/item?id=37710211) - [Has a San Antonio Inventor Solved a Problem of Small-Scale Wind Power?](https://www.texasmonthly.com/news-politics/pirate-wind-turbines-inventor/)
 * [2023-09-29, 21:14:13](https://news.ycombinator.com/item?id=37710154) - [Investigating a teen’s death on an ebike and the Rad brand’s safety](https://www.bicycling.com/culture/a42690937/molly-steinsapir-lawsuit-rad-power-electric-bike/)
 * [2023-09-29, 21:10:51](https://news.ycombinator.com/item?id=37710122) - [Polycam released web 3D Gaussian Splatting Viewer](https://poly.cam/gaussian-splatting)
