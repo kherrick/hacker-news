@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-09-30, 02:23:10](https://news.ycombinator.com/item?id=37712283) - [Rust on Espressif chips – 29-09-2023](https://mabez.dev/blog/posts/esp-rust-29-09-2023/)
+* [2023-09-30, 02:23:10](https://news.ycombinator.com/item?id=37712283) - [Rust on Espressif chips](https://mabez.dev/blog/posts/esp-rust-29-09-2023/)
 * [2023-09-30, 01:55:21](https://news.ycombinator.com/item?id=37712174) - [BlackBerry failed to respond to the iPhone](https://rubenerd.com/how-blackberry-failed-to-respond-to-the-iphone/)
 * [2023-09-29, 23:22:55](https://news.ycombinator.com/item?id=37711274) - [Ferrocene update](https://ferrous-systems.com/blog/ferrocene-update/)
 * [2023-09-29, 22:08:56](https://news.ycombinator.com/item?id=37710683) - [Trains on another level](https://factorio.com/blog/post/fff-378)
