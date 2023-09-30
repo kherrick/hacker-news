@@ -21,7 +21,7 @@
 * [2023-09-29, 12:53:15](https://news.ycombinator.com/item?id=37703323) - [Loadsharers: Funding the Load Bearing Internet People (2020)](https://esr.gitlab.io/loadsharers/)
 * [2023-09-29, 12:52:48](https://news.ycombinator.com/item?id=37703317) - [Rimac unveils SineStack, battery energy storage system](https://www.energy-storage.news/rimac-unveils-most-technically-advanced-bess-in-the-world-sinestack/)
 * [2023-09-29, 12:51:22](https://news.ycombinator.com/item?id=37703291) - [Draggable objects](https://www.redblobgames.com/making-of/draggable/)
-* [2023-09-29, 09:08:17](https://news.ycombinator.com/item?id=37701117) - [Things Every Hacker Once Knew (2017)](http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/)
+* [2023-09-29, 12:01:46](https://news.ycombinator.com/item?id=37702555) - [UpCodes (YC S17) is hiring remote SWEs, AES to help make buildings cheaper](https://up.codes/careers)
 * [2023-09-29, 08:30:03](https://news.ycombinator.com/item?id=37700847) - [Burning money on paid ads for a dev tool – what we've learned](https://posthog.com/blog/dev-marketing-paid-ads)
 * [2023-09-29, 02:51:31](https://news.ycombinator.com/item?id=37698768) - [Who invented the alphabet?](https://www.asor.org/anetoday/2023/08/who-invented-alphabet/)
 * [2023-09-29, 02:48:22](https://news.ycombinator.com/item?id=37698744) - [Misunderstanding Greek and Latin in eighteenth-century Britain](https://www.laphamsquarterly.org/roundtable/fine-sounding-language)
