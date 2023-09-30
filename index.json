@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-30, 21:23:53",
+      "https://news.ycombinator.com/item?id=37719971"
+    ],
+    [
+      "NIR: Nim Intermediate Representation",
+      "https://github.com/nim-lang/Nim/pull/22777"
+    ]
+  ],
+  [
+    [
       "2023-09-30, 20:51:53",
       "https://news.ycombinator.com/item?id=37719668"
     ],
@@ -17,6 +27,16 @@
     [
       "AdaCore Announces Gnat Pro for Rust",
       "https://www.adacore.com/press/adacore-announces-gnat-pro-for-rust"
+    ]
+  ],
+  [
+    [
+      "2023-09-30, 20:15:00",
+      "https://news.ycombinator.com/item?id=37719298"
+    ],
+    [
+      "Bots Should Punch Up",
+      "https://www.crummy.com/2013/11/27/0"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2023-09-30, 07:25:49",
-      "https://news.ycombinator.com/item?id=37713401"
-    ],
-    [
-      "Adding runtime benchmarks to the Rust compiler benchmark suite",
-      "https://kobzol.github.io/rust/rustc/2023/09/23/rustc-runtime-benchmarks.html"
-    ]
-  ],
-  [
-    [
       "2023-09-30, 04:52:07",
       "https://news.ycombinator.com/item?id=37712847"
     ],
@@ -287,16 +297,6 @@
     [
       "Bookkeeping Machines",
       "https://americanhistory.si.edu/collections/object-groups/bookkeeping-machines"
-    ]
-  ],
-  [
-    [
-      "2023-09-28, 15:42:05",
-      "https://news.ycombinator.com/item?id=37691232"
-    ],
-    [
-      "WiFi without internet on a Southwest flight",
-      "https://jamesbvaughan.com/southwest-wifi/"
     ]
   ]
 ]
