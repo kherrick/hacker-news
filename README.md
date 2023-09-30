@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-30, 11:12:22](https://news.ycombinator.com/item?id=37714343) - [GPT-4 increased BCG consultants’ performance by over 40%](https://d3.harvard.edu/navigating-the-jagged-technological-frontier/)
 * [2023-09-30, 10:38:35](https://news.ycombinator.com/item?id=37714186) - [White House warns of ‘unprecedented’ Serbian troop buildup on Kosovo border](https://www.theguardian.com/world/2023/sep/29/kosovo-serbian-troops-buildup-us-uk)
 * [2023-09-30, 09:52:36](https://news.ycombinator.com/item?id=37713993) - [Bedbug crisis sparks political row in Paris as insect ‘scourge’ continues](https://www.theguardian.com/world/2023/sep/29/bedbug-crisis-political-row-paris-insect-scourge-continues)
 * [2023-09-30, 09:10:11](https://news.ycombinator.com/item?id=37713821) - [Show HN: kproximate – A Kubernetes node autoscaler for Proxmox](https://github.com/lupinelab/kproximate)
@@ -12,7 +13,6 @@
 * [2023-09-30, 05:57:24](https://news.ycombinator.com/item?id=37713091) - [A couple of messages about changes to ianVisits: Copyright trolls](https://www.ianvisits.co.uk/articles/a-couple-of-messages-about-changes-to-ianvisits-66081/)
 * [2023-09-30, 03:37:35](https://news.ycombinator.com/item?id=37712593) - [Show HN: A C++ dump func. that can print multi-D vectors, maps, tuples, and all](https://github.com/philip82148/cpp-dump)
 * [2023-09-30, 02:23:10](https://news.ycombinator.com/item?id=37712283) - [Rust on Espressif chips](https://mabez.dev/blog/posts/esp-rust-29-09-2023/)
-* [2023-09-30, 00:44:26](https://news.ycombinator.com/item?id=37711811) - [How to (not) invent concurrent algorithms](http://concurrencyfreaks.blogspot.com/2023/09/how-to-not-invent-concurrent-algorithms.html)
 * [2023-09-29, 21:07:07](https://news.ycombinator.com/item?id=37710087) - [Show HN: PDF Debugger – Inspect Structure of PDF Files](https://pdf.hyzyla.dev/)
 * [2023-09-29, 20:44:02](https://news.ycombinator.com/item?id=37709876) - [Soviet computer has been forgotten for 30 years [video]](https://www.youtube.com/watch?v=lVCS99Zep9w)
 * [2023-09-29, 19:51:01](https://news.ycombinator.com/item?id=37709284) - [Meta in Myanmar](https://erinkissane.com/meta-in-myanmar-part-i-the-setup)
