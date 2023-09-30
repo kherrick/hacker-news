@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-29](index.md)
 
+* [2023-09-29, 22:45:33](https://news.ycombinator.com/item?id=37710975) - [Devs learn rival Godot engine in a week to poke fun at Unity](https://www.theregister.com/2023/09/27/unity_install_fee_tycoon/)
 * [2023-09-29, 22:31:49](https://news.ycombinator.com/item?id=37710865) - [Drive Like a Human: Rethinking Autonomous Driving with Large Language Models](https://arxiv.org/abs/2307.07162)
 * [2023-09-29, 22:21:48](https://news.ycombinator.com/item?id=37710791) - [No need to send it back: Netflix posts its final DVDs to customers](https://www.theguardian.com/media/2023/sep/29/netflix-dvds-final-sent-by-mail)
 * [2023-09-29, 22:08:56](https://news.ycombinator.com/item?id=37710683) - [Factorio Friday Facts #378 – Trains on another level](https://factorio.com/blog/post/fff-378)
@@ -22,6 +23,7 @@
 * [2023-09-29, 19:10:18](https://news.ycombinator.com/item?id=37708845) - [The Only Way to Know If GPT-4 Got Dumber](https://www.latent.space/i/137474557/the-only-way-to-know-if-gpt-got-dumber)
 * [2023-09-29, 18:52:13](https://news.ycombinator.com/item?id=37708623) - [My elderly parents can't resist answering the phone](https://www.bogleheads.org/forum/viewtopic.php?t=413383)
 * [2023-09-29, 18:49:16](https://news.ycombinator.com/item?id=37708582) - [Show HN: Insomnium – 100% local and privacy-focus fork of Insomnia API client](https://github.com/ArchGPT/insomnium)
+* [2023-09-29, 18:37:22](https://news.ycombinator.com/item?id=37708423) - [Motocompacto from Honda, 3.7 inch wide Briefcase-form Electric Scooter](https://motocompacto.honda.com/)
 * [2023-09-29, 18:31:05](https://news.ycombinator.com/item?id=37708346) - [Extreme Misogyny in Incels Probably Not Caused by Sexual Frustration](https://researchinenglish.com/article/2023.8/new-study-disputes-link-between-sexual-frustration-and-xkk2v4nl/)
 * [2023-09-29, 18:27:55](https://news.ycombinator.com/item?id=37708292) - [Google RealFill: Authentic Image Completion Using Diffusion Models](https://realfill.github.io/)
 * [2023-09-29, 18:15:21](https://news.ycombinator.com/item?id=37708109) - [Homes “unaffordable” in 99% of nation for average American](https://www.cbsnews.com/news/homes-for-sale-affordable-housing-prices/)
@@ -109,6 +111,7 @@
 * [2023-09-29, 02:10:28](https://news.ycombinator.com/item?id=37698506) - [Show HN: SapientML – Generative AutoML for Tabular Data](https://github.com/sapientml/sapientml)
 * [2023-09-29, 02:05:37](https://news.ycombinator.com/item?id=37698473) - [Google's 5M Document Discovery Failure: \"Egregious\", Says Magistrate Judge [pdf]](https://ia804605.us.archive.org/29/items/gov.uscourts.nysd.564903/gov.uscourts.nysd.564903.631.0.pdf)
 * [2023-09-29, 01:59:22](https://news.ycombinator.com/item?id=37698428) - [Food Delivery Robots Are Feeding Camera Footage to the LAPD](https://www.404media.co/serve-food-delivery-robots-are-feeding-camera-footage-to-the-lapd-internal-emails-show/)
+* [2023-09-29, 01:56:52](https://news.ycombinator.com/item?id=37698411) - [Students made Oxford murder capital of late medieval England, research suggests](https://phys.org/news/2023-09-students-oxford-capital-late-medieval.html)
 * [2023-09-29, 01:47:31](https://news.ycombinator.com/item?id=37698347) - [SARS-CoV-2 infection triggers inflammatory responses in human heart vessels](https://www.nature.com/articles/s44161-023-00336-5)
 * [2023-09-29, 01:45:21](https://news.ycombinator.com/item?id=37698334) - [Ask HN: Which is the oldest software alive still in 0.x, used by many?](https://news.ycombinator.com/item?id=37698334)
 * [2023-09-29, 01:43:42](https://news.ycombinator.com/item?id=37698322) - [The Māori Genocide of the Moriori](https://www.stoneageherbalist.com/p/the-maori-genocide-of-the-moriori)
