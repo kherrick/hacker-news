@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-29, 23:22:55](https://news.ycombinator.com/item?id=37711274) - [Ferrocene update](https://ferrous-systems.com/blog/ferrocene-update/)
 * [2023-09-29, 22:08:56](https://news.ycombinator.com/item?id=37710683) - [Trains on another level](https://factorio.com/blog/post/fff-378)
-* [2023-09-29, 21:10:51](https://news.ycombinator.com/item?id=37710122) - [Polycam released web 3D Gaussian Splatting Viewer](https://poly.cam/gaussian-splatting)
 * [2023-09-29, 20:44:02](https://news.ycombinator.com/item?id=37709876) - [Soviet computer has been forgotten for 30 years [video]](https://www.youtube.com/watch?v=lVCS99Zep9w)
 * [2023-09-29, 19:56:25](https://news.ycombinator.com/item?id=37709349) - [Linux Kernel Hardening Checker](https://github.com/a13xp0p0v/kernel-hardening-checker)
 * [2023-09-29, 19:51:01](https://news.ycombinator.com/item?id=37709284) - [Meta in Myanmar](https://erinkissane.com/meta-in-myanmar-part-i-the-setup)
@@ -21,7 +21,7 @@
 * [2023-09-29, 12:53:15](https://news.ycombinator.com/item?id=37703323) - [Loadsharers: Funding the Load Bearing Internet People (2020)](https://esr.gitlab.io/loadsharers/)
 * [2023-09-29, 12:52:48](https://news.ycombinator.com/item?id=37703317) - [Rimac unveils SineStack, battery energy storage system](https://www.energy-storage.news/rimac-unveils-most-technically-advanced-bess-in-the-world-sinestack/)
 * [2023-09-29, 12:51:22](https://news.ycombinator.com/item?id=37703291) - [Draggable objects](https://www.redblobgames.com/making-of/draggable/)
-* [2023-09-29, 12:09:04](https://news.ycombinator.com/item?id=37702632) - [MMO Architecture: Source of truth, Dataflows, I/O bottlenecks and how to solve](https://prdeving.wordpress.com/2023/09/29/mmo-architecture-source-of-truth-dataflows-i-o-bottlenecks-and-how-to-solve-them/)
+* [2023-09-29, 09:08:17](https://news.ycombinator.com/item?id=37701117) - [Things Every Hacker Once Knew (2017)](http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/)
 * [2023-09-29, 08:30:03](https://news.ycombinator.com/item?id=37700847) - [Burning money on paid ads for a dev tool – what we've learned](https://posthog.com/blog/dev-marketing-paid-ads)
 * [2023-09-29, 02:51:31](https://news.ycombinator.com/item?id=37698768) - [Who invented the alphabet?](https://www.asor.org/anetoday/2023/08/who-invented-alphabet/)
 * [2023-09-29, 02:48:22](https://news.ycombinator.com/item?id=37698744) - [Misunderstanding Greek and Latin in eighteenth-century Britain](https://www.laphamsquarterly.org/roundtable/fine-sounding-language)
