@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-30, 10:38:35](https://news.ycombinator.com/item?id=37714186) - [White House warns of ‘unprecedented’ Serbian troop buildup on Kosovo border](https://www.theguardian.com/world/2023/sep/29/kosovo-serbian-troops-buildup-us-uk)
 * [2023-09-30, 09:52:36](https://news.ycombinator.com/item?id=37713993) - [Bedbug crisis sparks political row in Paris as insect ‘scourge’ continues](https://www.theguardian.com/world/2023/sep/29/bedbug-crisis-political-row-paris-insect-scourge-continues)
 * [2023-09-30, 09:10:11](https://news.ycombinator.com/item?id=37713821) - [Show HN: kproximate – A Kubernetes node autoscaler for Proxmox](https://github.com/lupinelab/kproximate)
 * [2023-09-30, 08:05:12](https://news.ycombinator.com/item?id=37713530) - [Flexbox Froggy](https://flexboxfroggy.com/)
@@ -9,7 +10,6 @@
 * [2023-09-30, 06:29:23](https://news.ycombinator.com/item?id=37713222) - [Cloudflare launches new AI tools to help customers deploy and run models](https://techcrunch.com/2023/09/27/cloudflare-launches-new-ai-tools-to-help-customers-deploy-and-run-models/)
 * [2023-09-30, 06:23:52](https://news.ycombinator.com/item?id=37713196) - [How to Use Monadic Operations for `std:optional` in C++23](https://www.cppstories.com/2023/monadic-optional-ops-cpp23/)
 * [2023-09-30, 05:57:24](https://news.ycombinator.com/item?id=37713091) - [A couple of messages about changes to ianVisits: Copyright trolls](https://www.ianvisits.co.uk/articles/a-couple-of-messages-about-changes-to-ianvisits-66081/)
-* [2023-09-30, 05:44:10](https://news.ycombinator.com/item?id=37713047) - [How to convert an enum to string in C++](https://mariusbancila.ro/blog/2023/08/17/how-to-convert-an-enum-to-string-in-cpp/)
 * [2023-09-30, 03:37:35](https://news.ycombinator.com/item?id=37712593) - [Show HN: A C++ dump func. that can print multi-D vectors, maps, tuples, and all](https://github.com/philip82148/cpp-dump)
 * [2023-09-30, 02:23:10](https://news.ycombinator.com/item?id=37712283) - [Rust on Espressif chips](https://mabez.dev/blog/posts/esp-rust-29-09-2023/)
 * [2023-09-29, 21:07:07](https://news.ycombinator.com/item?id=37710087) - [Show HN: PDF Debugger – Inspect Structure of PDF Files](https://pdf.hyzyla.dev/)

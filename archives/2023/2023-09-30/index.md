@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-30](index.md)
 
+* [2023-09-30, 10:38:35](https://news.ycombinator.com/item?id=37714186) - [White House warns of ‘unprecedented’ Serbian troop buildup on Kosovo border](https://www.theguardian.com/world/2023/sep/29/kosovo-serbian-troops-buildup-us-uk)
 * [2023-09-30, 09:52:36](https://news.ycombinator.com/item?id=37713993) - [Bedbug crisis sparks political row in Paris as insect ‘scourge’ continues](https://www.theguardian.com/world/2023/sep/29/bedbug-crisis-political-row-paris-insect-scourge-continues)
 * [2023-09-30, 09:10:11](https://news.ycombinator.com/item?id=37713821) - [Show HN: kproximate – A Kubernetes node autoscaler for Proxmox](https://github.com/lupinelab/kproximate)
 * [2023-09-30, 08:05:36](https://news.ycombinator.com/item?id=37713536) - [Milley says the military doesn’t swear oath to a ‘wannabe dictator’](https://www.cnn.com/2023/09/29/politics/milley-trump-wannabe-dictator/index.html)
