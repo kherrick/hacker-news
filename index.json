@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-30, 20:51:53",
+      "https://news.ycombinator.com/item?id=37719668"
+    ],
+    [
+      "The man who did not have a conversation in over 50 years",
+      "https://en.wikipedia.org/wiki/Andr%C3%A1s_Toma"
+    ]
+  ],
+  [
+    [
       "2023-09-30, 20:16:16",
       "https://news.ycombinator.com/item?id=37719308"
     ],
@@ -47,6 +57,16 @@
     [
       "Optical Circuit Switching for ML Systems",
       "https://dl.acm.org/doi/10.1145/3603269.3604836"
+    ]
+  ],
+  [
+    [
+      "2023-09-30, 18:09:46",
+      "https://news.ycombinator.com/item?id=37718132"
+    ],
+    [
+      "Reorient GitHub Pull Requests Around Changesets",
+      "https://mitchellh.com/writing/github-changesets"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-09-30, 09:10:11",
-      "https://news.ycombinator.com/item?id=37713821"
-    ],
-    [
-      "Show HN: kproximate – A Kubernetes node autoscaler for Proxmox",
-      "https://github.com/lupinelab/kproximate"
-    ]
-  ],
-  [
-    [
       "2023-09-30, 08:05:12",
       "https://news.ycombinator.com/item?id=37713530"
     ],
@@ -227,16 +237,6 @@
     [
       "Adding runtime benchmarks to the Rust compiler benchmark suite",
       "https://kobzol.github.io/rust/rustc/2023/09/23/rustc-runtime-benchmarks.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-30, 05:57:24",
-      "https://news.ycombinator.com/item?id=37713091"
-    ],
-    [
-      "A couple of messages about changes to ianVisits",
-      "https://www.ianvisits.co.uk/articles/a-couple-of-messages-about-changes-to-ianvisits-66081/"
     ]
   ],
   [
