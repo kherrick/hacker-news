@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-30, 17:00:09](https://news.ycombinator.com/item?id=37717369) - [SigNoz (YC W21, Open Source Datadog Alternative) Is Hiring Tech Content Writer](https://signoz.io/careers/technical-content-writer-in/)
 * [2023-09-30, 16:31:36](https://news.ycombinator.com/item?id=37717058) - [Every single Onewheel is being recalled after four deaths](https://www.theverge.com/2023/9/29/23896151/onewheel-cpsc-recall-future-motion-crash-death)
 * [2023-09-30, 16:20:25](https://news.ycombinator.com/item?id=37716932) - [Plastic Bag Found at the Bottom of World’s Deepest Ocean Trench](https://education.nationalgeographic.org/resource/plastic-bag-found-bottom-worlds-deepest-ocean-trench/)
 * [2023-09-30, 16:20:07](https://news.ycombinator.com/item?id=37716928) - [South Korea has jailed a man for using AI to create sexual images of children](https://www.cnn.com/2023/09/27/asia/south-korea-child-abuse-ai-sentenced-intl-hnk/index.html)
@@ -18,7 +19,6 @@
 * [2023-09-30, 12:45:04](https://news.ycombinator.com/item?id=37714896) - [Canadians have a ‘right to be forgotten’ on Google, Federal Court rules](https://www.theglobeandmail.com/canada/article-federal-court-of-appeal-opens-door-to-the-right-to-be-forgotten-in-a/)
 * [2023-09-30, 12:33:21](https://news.ycombinator.com/item?id=37714829) - [PruningRadixTrie – Faster Radix trie for prefix search and auto-complete](https://github.com/wolfgarbe/PruningRadixTrie)
 * [2023-09-30, 12:27:40](https://news.ycombinator.com/item?id=37714800) - [What Is the Future of the DAW?](https://djmag.com/features/what-future-daw)
-* [2023-09-30, 12:00:36](https://news.ycombinator.com/item?id=37714636) - [Delphia (YC W18) Is Hiring](https://www.ycombinator.com/companies/delphia/jobs/ZhWTuyK-ai-data-science-lead)
 * [2023-09-30, 11:52:00](https://news.ycombinator.com/item?id=37714579) - [PSA: Some Pixel owners still can't dial 911 during an emergency](https://www.androidauthority.com/psa-google-pixel-911-emergency-calling-issues-3362990/)
 * [2023-09-30, 11:12:22](https://news.ycombinator.com/item?id=37714343) - [ChatGPT-4 significantly increased performance of business consultants](https://d3.harvard.edu/navigating-the-jagged-technological-frontier/)
 * [2023-09-30, 09:10:11](https://news.ycombinator.com/item?id=37713821) - [Show HN: kproximate – A Kubernetes node autoscaler for Proxmox](https://github.com/lupinelab/kproximate)
