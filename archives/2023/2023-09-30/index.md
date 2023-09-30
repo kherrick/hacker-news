@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-30](index.md)
 
+* [2023-09-30, 17:59:32](https://news.ycombinator.com/item?id=37718018) - [Rust Is Inevitable [video]](https://www.youtube.com/watch?v=03H1cWj2Kfc)
 * [2023-09-30, 17:32:49](https://news.ycombinator.com/item?id=37717735) - [Firefox 118 brings browser-based website translation (no cloud servers required)](https://liliputing.com/firefox-118-brings-browser-based-website-translation-no-cloud-servers-required-for-a-handful-of-supported-languages/)
 * [2023-09-30, 17:29:49](https://news.ycombinator.com/item?id=37717689) - [Ask HN: SaaS pricing pages with high prices and not “contact sales”](https://news.ycombinator.com/item?id=37717689)
 * [2023-09-30, 17:00:09](https://news.ycombinator.com/item?id=37717369) - [SigNoz (YC W21, Open Source Datadog Alternative) Is Hiring Tech Content Writer](https://signoz.io/careers/technical-content-writer-in/)

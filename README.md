@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-30, 17:59:32](https://news.ycombinator.com/item?id=37718018) - [Rust Is Inevitable [video]](https://www.youtube.com/watch?v=03H1cWj2Kfc)
 * [2023-09-30, 17:32:49](https://news.ycombinator.com/item?id=37717735) - [Firefox 118 brings browser-based website translation (no cloud servers required)](https://liliputing.com/firefox-118-brings-browser-based-website-translation-no-cloud-servers-required-for-a-handful-of-supported-languages/)
 * [2023-09-30, 17:29:49](https://news.ycombinator.com/item?id=37717689) - [Ask HN: SaaS pricing pages with high prices and not “contact sales”](https://news.ycombinator.com/item?id=37717689)
 * [2023-09-30, 17:00:09](https://news.ycombinator.com/item?id=37717369) - [SigNoz (YC W21, Open Source Datadog Alternative) Is Hiring Tech Content Writer](https://signoz.io/careers/technical-content-writer-in/)
@@ -21,7 +22,6 @@
 * [2023-09-30, 09:10:11](https://news.ycombinator.com/item?id=37713821) - [Show HN: kproximate – A Kubernetes node autoscaler for Proxmox](https://github.com/lupinelab/kproximate)
 * [2023-09-30, 08:05:12](https://news.ycombinator.com/item?id=37713530) - [Flexbox Froggy](https://flexboxfroggy.com/)
 * [2023-09-30, 07:25:49](https://news.ycombinator.com/item?id=37713401) - [Adding runtime benchmarks to the Rust compiler benchmark suite](https://kobzol.github.io/rust/rustc/2023/09/23/rustc-runtime-benchmarks.html)
-* [2023-09-30, 05:57:24](https://news.ycombinator.com/item?id=37713091) - [A couple of messages about changes to ianVisits: Copyright trolls](https://www.ianvisits.co.uk/articles/a-couple-of-messages-about-changes-to-ianvisits-66081/)
 * [2023-09-30, 04:14:59](https://news.ycombinator.com/item?id=37712727) - [Station to Station: David Platzker on the Art of Ed Ruscha](https://www.artforum.com/features/david-platzker-on-the-art-of-ed-ruscha-252935/)
 * [2023-09-30, 03:37:35](https://news.ycombinator.com/item?id=37712593) - [Show HN: A C++ dump func. that can print multi-D vectors, maps, tuples, and all](https://github.com/philip82148/cpp-dump)
 * [2023-09-30, 02:59:46](https://news.ycombinator.com/item?id=37712454) - [The story behind the Heliotrope Font (2021)](https://mbtype.com/fonts/heliotrope/story.html)
