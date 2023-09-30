@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-30](index.md)
 
+* [2023-09-30, 07:54:27](https://news.ycombinator.com/item?id=37713487) - [Parasitic plant with shrunken genome convinces hosts to grow into its own flesh](https://phys.org/news/2023-09-parasitic-convinces-hosts-fleshit-extreme.html)
 * [2023-09-30, 07:32:32](https://news.ycombinator.com/item?id=37713418) - [My Lobotomy: Howard Dully's Journey (2005)](https://www.npr.org/2005/11/16/5014080/my-lobotomy-howard-dullys-journey)
 * [2023-09-30, 07:25:49](https://news.ycombinator.com/item?id=37713401) - [Adding runtime benchmarks to the Rust compiler benchmark suite](https://kobzol.github.io/rust/rustc/2023/09/23/rustc-runtime-benchmarks.html)
 * [2023-09-30, 06:29:23](https://news.ycombinator.com/item?id=37713222) - [Cloudflare launches new AI tools to help customers deploy and run models](https://techcrunch.com/2023/09/27/cloudflare-launches-new-ai-tools-to-help-customers-deploy-and-run-models/)
