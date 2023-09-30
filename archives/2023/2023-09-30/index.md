@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-30](index.md)
 
+* [2023-09-30, 13:23:10](https://news.ycombinator.com/item?id=37715211) - [DOJ vs. Google evidence release judge calls embarrassing exhibit [pdf]](https://www.justice.gov/d9/2023-09/416692.pdf)
 * [2023-09-30, 13:23:05](https://news.ycombinator.com/item?id=37715209) - [Azure dropping database support for MariaDB. Users advised to migrate to MySQL](https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-will-be-retired-on-19-september-2025-migrate-to-azure-database-for-mysql-flexible-server/)
+* [2023-09-30, 12:45:26](https://news.ycombinator.com/item?id=37714898) - [They Studied Dishonesty. Was Their Work a Lie?](https://www.newyorker.com/magazine/2023/10/09/they-studied-dishonesty-was-their-work-a-lie)
 * [2023-09-30, 12:45:04](https://news.ycombinator.com/item?id=37714896) - [Canadians have a ‘right to be forgotten’ on Google, Federal Court rules](https://www.theglobeandmail.com/canada/article-federal-court-of-appeal-opens-door-to-the-right-to-be-forgotten-in-a/)
 * [2023-09-30, 12:40:58](https://news.ycombinator.com/item?id=37714871) - [Google randomly deleted a popular YouTube channel again](https://twitter.com/3DPrintGeneral/status/1707888026351817107)
 * [2023-09-30, 12:33:21](https://news.ycombinator.com/item?id=37714829) - [PruningRadixTrie – 1000x faster Radix trie for prefix search and auto-complete](https://github.com/wolfgarbe/PruningRadixTrie)
