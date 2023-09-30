@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-30, 15:03:05](https://news.ycombinator.com/item?id=37716094) - [DOJ finally posted that “embarrassing” court doc Google wanted to hide](https://arstechnica.com/tech-policy/2023/09/google-exec-said-users-get-hooked-on-search-engine-like-cigarettes-or-drugs/)
 * [2023-09-30, 14:45:48](https://news.ycombinator.com/item?id=37715927) - [Rapid Recovery from an Autism Spectrum Disorder After Treatment of Aspergillus](https://pubmed.ncbi.nlm.nih.gov/33132781/)
 * [2023-09-30, 14:22:58](https://news.ycombinator.com/item?id=37715713) - [Daft Punk Announce Drumless Edition of Random Access Memories](https://pitchfork.com/news/daft-punk-announce-drumless-edition-of-random-access-memories/)
 * [2023-09-30, 13:59:00](https://news.ycombinator.com/item?id=37715499) - [A Revelation About Trees Is Messing with Climate Calculations](https://web.archive.org/web/20230930090902/https://www.wired.com/story/a-revelation-about-trees-is-messing-with-climate-calculations/)
@@ -12,7 +13,6 @@
 * [2023-09-30, 12:45:04](https://news.ycombinator.com/item?id=37714896) - [Canadians have a ‘right to be forgotten’ on Google, Federal Court rules](https://www.theglobeandmail.com/canada/article-federal-court-of-appeal-opens-door-to-the-right-to-be-forgotten-in-a/)
 * [2023-09-30, 12:33:21](https://news.ycombinator.com/item?id=37714829) - [PruningRadixTrie – Faster Radix trie for prefix search and auto-complete](https://github.com/wolfgarbe/PruningRadixTrie)
 * [2023-09-30, 12:27:40](https://news.ycombinator.com/item?id=37714800) - [What Is the Future of the DAW?](https://djmag.com/features/what-future-daw)
-* [2023-09-30, 12:26:00](https://news.ycombinator.com/item?id=37714788) - [Should Ethereum be okay with enshrining more things in the protocol?](https://vitalik.eth.limo/general/2023/09/30/enshrinement.html)
 * [2023-09-30, 12:00:36](https://news.ycombinator.com/item?id=37714636) - [Delphia (YC W18) Is Hiring](https://www.ycombinator.com/companies/delphia/jobs/ZhWTuyK-ai-data-science-lead)
 * [2023-09-30, 11:52:00](https://news.ycombinator.com/item?id=37714579) - [PSA: Some Pixel owners still can't dial 911 during an emergency](https://www.androidauthority.com/psa-google-pixel-911-emergency-calling-issues-3362990/)
 * [2023-09-30, 11:12:22](https://news.ycombinator.com/item?id=37714343) - [ChatGPT-4 significantly increased performance of business consultants](https://d3.harvard.edu/navigating-the-jagged-technological-frontier/)
