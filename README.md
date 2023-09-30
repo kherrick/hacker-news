@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-09-30, 16:00:11](https://news.ycombinator.com/item?id=37716722) - [Don't worry about global population collapse](https://www.bloomberg.com/opinion/articles/2023-09-30/how-many-people-are-there-in-the-world-don-t-worry-about-it)
 * [2023-09-30, 15:09:35](https://news.ycombinator.com/item?id=37716167) - [Drinking diet sodas daily during pregnancy linked to autism in male offspring](https://news.uthscsa.edu/drinking-diet-sodas-and-aspartame-sweetened-beverages-daily-during-pregnancy-linked-to-autism-in-male-offspring/)
 * [2023-09-30, 15:03:05](https://news.ycombinator.com/item?id=37716094) - [DOJ finally posted that “embarrassing” court doc Google wanted to hide](https://arstechnica.com/tech-policy/2023/09/google-exec-said-users-get-hooked-on-search-engine-like-cigarettes-or-drugs/)
+* [2023-09-30, 14:49:41](https://news.ycombinator.com/item?id=37715959) - [CSS Solves Auto-Expanding Textareas](https://chriscoyier.net/2023/09/29/css-solves-auto-expanding-textareas-probably-eventually/)
 * [2023-09-30, 14:45:48](https://news.ycombinator.com/item?id=37715927) - [Rapid Recovery from an Autism Spectrum Disorder After Treatment of Aspergillus](https://pubmed.ncbi.nlm.nih.gov/33132781/)
 * [2023-09-30, 14:22:58](https://news.ycombinator.com/item?id=37715713) - [Daft Punk Announce Drumless Edition of Random Access Memories](https://pitchfork.com/news/daft-punk-announce-drumless-edition-of-random-access-memories/)
 * [2023-09-30, 13:59:00](https://news.ycombinator.com/item?id=37715499) - [A Revelation About Trees Is Messing with Climate Calculations](https://web.archive.org/web/20230930090902/https://www.wired.com/story/a-revelation-about-trees-is-messing-with-climate-calculations/)
@@ -24,11 +26,9 @@
 * [2023-09-30, 05:57:24](https://news.ycombinator.com/item?id=37713091) - [A couple of messages about changes to ianVisits: Copyright trolls](https://www.ianvisits.co.uk/articles/a-couple-of-messages-about-changes-to-ianvisits-66081/)
 * [2023-09-30, 04:14:59](https://news.ycombinator.com/item?id=37712727) - [Station to Station: David Platzker on the Art of Ed Ruscha](https://www.artforum.com/features/david-platzker-on-the-art-of-ed-ruscha-252935/)
 * [2023-09-30, 03:37:35](https://news.ycombinator.com/item?id=37712593) - [Show HN: A C++ dump func. that can print multi-D vectors, maps, tuples, and all](https://github.com/philip82148/cpp-dump)
-* [2023-09-30, 01:55:21](https://news.ycombinator.com/item?id=37712174) - [How BlackBerry failed to respond to the iPhone](https://rubenerd.com/how-blackberry-failed-to-respond-to-the-iphone/)
 * [2023-09-29, 18:27:55](https://news.ycombinator.com/item?id=37708292) - [RealFill: Image completion using diffusion models](https://realfill.github.io/)
-* [2023-09-29, 16:51:32](https://news.ycombinator.com/item?id=37706893) - [50 years later, is two-phase locking the best we can do?](http://concurrencyfreaks.blogspot.com/2023/09/50-years-later-is-two-phase-locking.html)
 * [2023-09-29, 14:25:35](https://news.ycombinator.com/item?id=37704760) - [Show HN: RISC-V assembly tabletop board game (hack your opponent)](https://punkx.org/overflow/)
-* [2023-09-28, 19:02:16](https://news.ycombinator.com/item?id=37694094) - [Japan’s silent movie culture is still going](https://petertasker.asia/articles/culture/think-again-al-jolson-japans-silent-movie-culture-is-still-going-strong/)
+* [2023-09-29, 04:52:09](https://news.ycombinator.com/item?id=37699409) - [Bookkeeping Machines](https://americanhistory.si.edu/collections/object-groups/bookkeeping-machines)
 * [2023-09-28, 15:42:05](https://news.ycombinator.com/item?id=37691232) - [WiFi without internet on a Southwest flight](https://jamesbvaughan.com/southwest-wifi/)
 
 ## [Archives](archives/index.md)
