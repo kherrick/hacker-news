@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-30](index.md)
 
+* [2023-09-30, 20:51:53](https://news.ycombinator.com/item?id=37719668) - [The man who did not have a conversation in over 50 years](https://en.wikipedia.org/wiki/Andr%C3%A1s_Toma)
 * [2023-09-30, 20:16:16](https://news.ycombinator.com/item?id=37719308) - [AdaCore Announces Gnat Pro for Rust](https://www.adacore.com/press/adacore-announces-gnat-pro-for-rust)
 * [2023-09-30, 19:41:18](https://news.ycombinator.com/item?id=37718999) - [How to See Bright, Vivid Images in Your Mind’s Eye](https://photographyinsider.info/image-streaming-for-photographers/)
 * [2023-09-30, 19:27:29](https://news.ycombinator.com/item?id=37718865) - [I Survived (Barely) as a Jazz Musician at Business School](https://www.honest-broker.com/p/how-i-survived-barely-as-a-jazz-musician)
@@ -15,6 +16,7 @@
 * [2023-09-30, 18:26:07](https://news.ycombinator.com/item?id=37718301) - ['Counterfeit people': The danger posed by Meta’s AI celebrity lookalike chatbots](https://www.france24.com/en/technology/20230930-counterfeit-people-the-dangers-posed-by-meta-s-ai-celebrity-lookalike-chatbots)
 * [2023-09-30, 18:19:31](https://news.ycombinator.com/item?id=37718234) - [Google Search Is Like ‘Cigarettes or Drugs,’ Executive Said](https://www.bloomberg.com/news/articles/2023-09-29/google-search-is-like-cigarettes-or-drugs-executive-said)
 * [2023-09-30, 18:19:15](https://news.ycombinator.com/item?id=37718230) - [They Quit Their Jobs. Their Ex-Employers Sued Them for Training Costs](https://www.nytimes.com/2023/09/27/business/training-repayment-agreement-debt.html)
+* [2023-09-30, 18:09:46](https://news.ycombinator.com/item?id=37718132) - [Reorient GitHub Pull Requests Around Changesets](https://mitchellh.com/writing/github-changesets)
 * [2023-09-30, 17:59:32](https://news.ycombinator.com/item?id=37718018) - [Rust Is Inevitable [video]](https://www.youtube.com/watch?v=03H1cWj2Kfc)
 * [2023-09-30, 17:32:49](https://news.ycombinator.com/item?id=37717735) - [Firefox 118 brings browser-based website translation (no cloud servers required)](https://liliputing.com/firefox-118-brings-browser-based-website-translation-no-cloud-servers-required-for-a-handful-of-supported-languages/)
 * [2023-09-30, 17:29:49](https://news.ycombinator.com/item?id=37717689) - [Ask HN: SaaS pricing pages with high prices and not “contact sales”](https://news.ycombinator.com/item?id=37717689)
