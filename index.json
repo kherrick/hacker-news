@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-01, 13:31:36",
+      "https://news.ycombinator.com/item?id=37725778"
+    ],
+    [
+      "InfluxDB CTO: Why We Moved from Go to Rust",
+      "https://old.reddit.com/r/rust/comments/16v13l5/influxdb_officially_made_the_switch_from_go_rust/"
+    ]
+  ],
+  [
+    [
       "2023-10-01, 13:14:54",
       "https://news.ycombinator.com/item?id=37725634"
     ],
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2023-10-01, 09:57:45",
+      "https://news.ycombinator.com/item?id=37724393"
+    ],
+    [
+      "In Digital Ocean, S3-like space keys can access all your buckets",
+      "https://ideas.digitalocean.com/storage/p/access-key-per-space"
+    ]
+  ],
+  [
+    [
       "2023-10-01, 09:33:01",
       "https://news.ycombinator.com/item?id=37724268"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-10-01, 03:24:53",
-      "https://news.ycombinator.com/item?id=37722244"
-    ],
-    [
-      "'Couple,' 'Few,' and 'Several'",
-      "https://www.merriam-webster.com/grammar/couple-few-several-use"
-    ]
-  ],
-  [
-    [
       "2023-10-01, 02:55:51",
       "https://news.ycombinator.com/item?id=37722114"
     ],
@@ -197,16 +207,6 @@
     [
       "LK-99 Research Continues, Paper Says Superconductivity Could Be Possible",
       "https://www.tomshardware.com/news/research-on-lk-99-continues-paper-says-superconductivity-could-be-possible"
-    ]
-  ],
-  [
-    [
-      "2023-09-30, 23:35:28",
-      "https://news.ycombinator.com/item?id=37721016"
-    ],
-    [
-      "Lowering the Cost of Anonymization (2020)",
-      "https://desfontain.es/thesis/"
     ]
   ],
   [
