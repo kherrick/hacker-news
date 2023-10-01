@@ -2,6 +2,7 @@
 
 * [2023-10-01, 07:44:29](https://news.ycombinator.com/item?id=37723688) - [DKIM: Rotate and Publish Your Keys](https://diziet.dreamwidth.org/16025.html)
 * [2023-10-01, 06:31:09](https://news.ycombinator.com/item?id=37723304) - [Many of today’s unhealthy foods were brought to you by Big Tobacco](https://www.washingtonpost.com/wellness/2023/09/19/addiction-foods-hyperpalatable-tobacco/)
+* [2023-10-01, 03:25:43](https://news.ycombinator.com/item?id=37722248) - [Representing Heterogeneous Data](https://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/)
 * [2023-10-01, 03:24:53](https://news.ycombinator.com/item?id=37722244) - ['Couple,' 'Few,' and 'Several'](https://www.merriam-webster.com/grammar/couple-few-several-use)
 * [2023-10-01, 02:55:51](https://news.ycombinator.com/item?id=37722114) - [Watch a frog-like robot use tiny explosions to hop around](https://www.newscientist.com/article/2391584-watch-a-frog-like-robot-use-tiny-explosions-to-hop-around/)
 * [2023-10-01, 02:34:15](https://news.ycombinator.com/item?id=37722013) - [India’s pickle people: Decades-old culinary heirlooms, nostalgia](https://www.aljazeera.com/features/2023/9/29/indias-pickle-people-decades-old-culinary-heirlooms-nostalgia)
@@ -28,7 +29,6 @@
 * [2023-09-30, 09:20:02](https://news.ycombinator.com/item?id=37713861) - [The Small World of Simulating Other Worlds](https://undark.org/2023/09/20/inside-the-small-world-of-simulating-other-worlds/)
 * [2023-09-30, 09:13:28](https://news.ycombinator.com/item?id=37713835) - [The Ingenious Cardboard Bed](https://newatlas.com/good-thinking/ingenious-cardboard-bed/)
 * [2023-09-30, 08:05:12](https://news.ycombinator.com/item?id=37713530) - [Flexbox Froggy](https://flexboxfroggy.com/)
-* [2023-09-30, 01:20:42](https://news.ycombinator.com/item?id=37712009) - [Gilgengart: The Tale of a Typeface (2013)](https://www.paulshawletterdesign.com/2013/11/gilgengart-the-tale-of-a-typeface/)
 * [2023-09-29, 14:25:35](https://news.ycombinator.com/item?id=37704760) - [Show HN: RISC-V assembly tabletop board game (hack your opponent)](https://punkx.org/overflow/)
 
 ## [Archives](archives/index.md)
