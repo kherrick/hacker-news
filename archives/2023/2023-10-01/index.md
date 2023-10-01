@@ -6,6 +6,7 @@
 
 * [2023-10-01, 12:24:17](https://news.ycombinator.com/item?id=37725261) - [MyPowerbank hacks Santander bikes so London's homeless can charge their phones](https://www.dezeen.com/2023/09/29/mypowerbank-hacks-santander-bikes-homeless-charge-phones/)
 * [2023-10-01, 12:18:45](https://news.ycombinator.com/item?id=37725229) - [Hermit 'scribblings' of French math genius Alexander Grothendieck unveiled](https://phys.org/news/2023-09-hermit-eccentric-french-math-genius.html)
+* [2023-10-01, 12:02:13](https://news.ycombinator.com/item?id=37725115) - [Groundbreaking Study: People Experience ‘New Dimensions of Reality' When Dying](https://www.vice.com/en/article/pkamgm/people-experience-new-dimensions-of-reality-when-dying-groundbreaking-study-reports)
 * [2023-10-01, 11:23:00](https://news.ycombinator.com/item?id=37724861) - [FlashAttention: Fast Transformer training with long sequences](https://www.adept.ai/blog/flashier-attention)
 * [2023-10-01, 11:08:06](https://news.ycombinator.com/item?id=37724776) - [Plimpton 322 is Babylonian exact sexagesimal trigonometry](https://www.sciencedirect.com/science/article/pii/S0315086017300691)
 * [2023-10-01, 11:01:44](https://news.ycombinator.com/item?id=37724737) - [Never say “no,” but rarely say “yes.”](https://longform.asmartbear.com/say-yes/)
