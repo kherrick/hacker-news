@@ -9,6 +9,7 @@
 * [2023-09-30, 23:04:13](https://news.ycombinator.com/item?id=37720806) - [-Werror Is Not Your Friend](https://embeddedartistry.com/blog/2017/05/22/werror-is-not-your-friend/)
 * [2023-09-30, 22:42:13](https://news.ycombinator.com/item?id=37720632) - [The Tron Project: How Japan Almost Ruled IT](https://undervaluedjapan.blogspot.com/2022/08/the-tron-project-how-japan-almost-ruled.html)
 * [2023-09-30, 22:36:21](https://news.ycombinator.com/item?id=37720580) - [Fake recruiter Lazarus lured aerospace employee with trojanized coding challenge](https://www.welivesecurity.com/en/eset-research/lazarus-luring-employees-trojanized-coding-challenges-case-spanish-aerospace-company/)
+* [2023-09-30, 22:27:42](https://news.ycombinator.com/item?id=37720530) - [The Missing Middle in Game Development](https://howtomarketagame.com/2023/09/28/the-missing-middle-in-game-development/)
 * [2023-09-30, 22:10:12](https://news.ycombinator.com/item?id=37720404) - [Europol Sought Unlimited Data Access in Online Child Sexual Abuse Regulation](https://balkaninsight.com/2023/09/29/europol-sought-unlimited-data-access-in-online-child-sexual-abuse-regulation/)
 * [2023-09-30, 21:23:53](https://news.ycombinator.com/item?id=37719971) - [NIR: Nim Intermediate Representation](https://github.com/nim-lang/Nim/pull/22777)
 * [2023-09-30, 20:51:53](https://news.ycombinator.com/item?id=37719668) - [The man who did not have a conversation in over 50 years](https://en.wikipedia.org/wiki/Andr%C3%A1s_Toma)
