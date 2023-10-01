@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-01, 09:57:45",
+      "https://news.ycombinator.com/item?id=37724393"
+    ],
+    [
+      "In Digital Ocean, S3-like space keys can access all your buckets",
+      "https://ideas.digitalocean.com/storage/p/access-key-per-space"
+    ]
+  ],
+  [
+    [
       "2023-10-01, 09:33:01",
       "https://news.ycombinator.com/item?id=37724268"
     ],
@@ -107,16 +117,6 @@
     [
       "LK-99 Research Continues, Paper Says Superconductivity Could Be Possible",
       "https://www.tomshardware.com/news/research-on-lk-99-continues-paper-says-superconductivity-could-be-possible"
-    ]
-  ],
-  [
-    [
-      "2023-10-01, 00:27:20",
-      "https://news.ycombinator.com/item?id=37721320"
-    ],
-    [
-      "Show HN: A map that tells you if a NYC cafe has WiFi, a restroom, and an outlet",
-      "https://www.octobrain.one/maps/908lqY3fV5C4v7nRvvd2"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2023-09-30, 17:47:33",
-      "https://news.ycombinator.com/item?id=37717889"
-    ],
-    [
-      "Modeling transformational policy pathways on low and negative growth scenarios",
-      "https://www.nature.com/articles/s41598-023-42782-y"
-    ]
-  ],
-  [
-    [
       "2023-09-30, 16:00:11",
       "https://news.ycombinator.com/item?id=37716722"
     ],
@@ -297,6 +287,16 @@
     [
       "Flexbox Froggy",
       "https://flexboxfroggy.com/"
+    ]
+  ],
+  [
+    [
+      "2023-09-29, 14:25:35",
+      "https://news.ycombinator.com/item?id=37704760"
+    ],
+    [
+      "Show HN: RISC-V assembly tabletop board game (hack your opponent)",
+      "https://punkx.org/overflow/"
     ]
   ]
 ]
