@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-01, 04:03:13](https://news.ycombinator.com/item?id=37722415) - [America does not have a good food culture](https://walkingtheworld.substack.com/p/america-does-not-have-a-good-food)
 * [2023-10-01, 03:24:53](https://news.ycombinator.com/item?id=37722244) - ['Couple,' 'Few,' and 'Several': The (Mostly) Definitive Guide](https://www.merriam-webster.com/grammar/couple-few-several-use)
 * [2023-10-01, 02:34:15](https://news.ycombinator.com/item?id=37722013) - [India’s pickle people: Decades-old culinary heirlooms, nostalgia](https://www.aljazeera.com/features/2023/9/29/indias-pickle-people-decades-old-culinary-heirlooms-nostalgia)
 * [2023-10-01, 01:13:50](https://news.ycombinator.com/item?id=37721584) - [LK-99 Research Continues, Paper Says Superconductivity Could Be Possible](https://www.tomshardware.com/news/research-on-lk-99-continues-paper-says-superconductivity-could-be-possible)
@@ -19,6 +18,7 @@
 * [2023-09-30, 19:26:55](https://news.ycombinator.com/item?id=37718859) - [Pharmacokinetics: Drug development's broken stair](https://trevorklee.substack.com/p/pharmacokinetics-drug-developments)
 * [2023-09-30, 18:34:02](https://news.ycombinator.com/item?id=37718368) - [Optical Circuit Switching for ML Systems](https://dl.acm.org/doi/10.1145/3603269.3604836)
 * [2023-09-30, 18:09:46](https://news.ycombinator.com/item?id=37718132) - [Reorient GitHub pull requests around changesets](https://mitchellh.com/writing/github-changesets)
+* [2023-09-30, 17:47:33](https://news.ycombinator.com/item?id=37717889) - [Modeling transformational policy pathways on low and negative growth scenarios](https://www.nature.com/articles/s41598-023-42782-y)
 * [2023-09-30, 17:00:09](https://news.ycombinator.com/item?id=37717369) - [SigNoz (YC W21), open source Datadog alternative, hiring a tech content writer](https://signoz.io/careers/technical-content-writer-in/)
 * [2023-09-30, 16:31:36](https://news.ycombinator.com/item?id=37717058) - [Every single Onewheel is being recalled after four deaths](https://www.theverge.com/2023/9/29/23896151/onewheel-cpsc-recall-future-motion-crash-death)
 * [2023-09-30, 16:19:00](https://news.ycombinator.com/item?id=37716910) - [How flip-flops are implemented in the Intel 8086 processor](http://www.righto.com/2023/09/8086-flip-flops.html)
