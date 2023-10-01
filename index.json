@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2023-09-30, 18:09:46",
-      "https://news.ycombinator.com/item?id=37718132"
-    ],
-    [
-      "Reorient GitHub pull requests around changesets",
-      "https://mitchellh.com/writing/github-changesets"
-    ]
-  ],
-  [
-    [
       "2023-09-30, 17:47:33",
       "https://news.ycombinator.com/item?id=37717889"
     ],
@@ -231,22 +221,22 @@
   ],
   [
     [
+      "2023-09-30, 16:19:00",
+      "https://news.ycombinator.com/item?id=37716910"
+    ],
+    [
+      "How flip-flops are implemented in the Intel 8086 processor",
+      "http://www.righto.com/2023/09/8086-flip-flops.html"
+    ]
+  ],
+  [
+    [
       "2023-09-30, 16:00:11",
       "https://news.ycombinator.com/item?id=37716722"
     ],
     [
       "Most demographers now predict that human population will plateau",
       "https://www.bloomberg.com/opinion/articles/2023-09-30/how-many-people-are-there-in-the-world-don-t-worry-about-it"
-    ]
-  ],
-  [
-    [
-      "2023-09-30, 12:49:02",
-      "https://news.ycombinator.com/item?id=37714922"
-    ],
-    [
-      "Removing Sybils from an Open Network",
-      "https://wiki.saito.io/consensus/sybil-proof"
     ]
   ],
   [
@@ -281,12 +271,12 @@
   ],
   [
     [
-      "2023-09-30, 04:52:07",
-      "https://news.ycombinator.com/item?id=37712847"
+      "2023-09-30, 08:05:12",
+      "https://news.ycombinator.com/item?id=37713530"
     ],
     [
-      "Oldsmobile Hydra-Matic Drive (1947) [pdf]",
-      "https://www.xr793.com/wp-content/uploads/2018/12/1947-Oldsmobile-Hydra-Matic-Drive.pdf"
+      "Flexbox Froggy",
+      "https://flexboxfroggy.com/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Gilgengart: The Tale of a Typeface (2013)",
       "https://www.paulshawletterdesign.com/2013/11/gilgengart-the-tale-of-a-typeface/"
+    ]
+  ],
+  [
+    [
+      "2023-09-29, 14:25:35",
+      "https://news.ycombinator.com/item?id=37704760"
+    ],
+    [
+      "Show HN: RISC-V assembly tabletop board game (hack your opponent)",
+      "https://punkx.org/overflow/"
     ]
   ]
 ]
