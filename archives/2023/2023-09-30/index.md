@@ -98,4 +98,5 @@
 * [2023-09-30, 02:32:34](https://news.ycombinator.com/item?id=37712324) - [Physicists coax superconductivity and more from quasicrystals](https://phys.org/news/2023-09-physicists-coax-superconductivity-quasicrystals.html)
 * [2023-09-30, 02:23:10](https://news.ycombinator.com/item?id=37712283) - [Rust on Espressif chips – 29-09-2023](https://mabez.dev/blog/posts/esp-rust-29-09-2023/)
 * [2023-09-30, 01:55:21](https://news.ycombinator.com/item?id=37712174) - [BlackBerry Failed to Respond to the iPhone](https://rubenerd.com/how-blackberry-failed-to-respond-to-the-iphone/)
+* [2023-09-30, 01:20:42](https://news.ycombinator.com/item?id=37712009) - [Gilgengart: The Tale of a Typeface (2013)](https://www.paulshawletterdesign.com/2013/11/gilgengart-the-tale-of-a-typeface/)
 * [2023-09-30, 00:44:26](https://news.ycombinator.com/item?id=37711811) - [How to (not) invent concurrent algorithms](http://concurrencyfreaks.blogspot.com/2023/09/how-to-not-invent-concurrent-algorithms.html)
