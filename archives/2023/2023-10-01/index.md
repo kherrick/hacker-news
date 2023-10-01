@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-10-01](index.md)
 
+* [2023-10-01, 22:58:53](https://news.ycombinator.com/item?id=37731832) - [M2 MacBook Air “off-by-one” audio DSP bug](https://social.treehouse.systems/@marcan/111160552044972689)
 * [2023-10-01, 22:45:08](https://news.ycombinator.com/item?id=37731729) - [FBI warns “phantom” hacker scams are emptying financial accounts](https://www.tomsguide.com/news/fbi-issues-warning-over-phantom-hacker-scams-dont-fall-for-this)
 * [2023-10-01, 22:38:50](https://news.ycombinator.com/item?id=37731670) - [Tom Hanks says that’s not him selling dental insurance in Instagram ads](https://www.avclub.com/tom-hanks-ai-dental-plan-instagram-ads-1850890845)
 * [2023-10-01, 22:23:49](https://news.ycombinator.com/item?id=37731544) - [My Dearest Data East: Why? Gate of Doom/Dark Seal](https://nicole.express/2023/im-gonna-open-the-doom-gate-now.html)
 * [2023-10-01, 22:00:48](https://news.ycombinator.com/item?id=37731330) - [Companies Like Amazon and JPMorgan Spy on Their Staff](https://www.businessinsider.com/how-companies-spy-on-employees-bossware-jpmorgan-amazon-monitor-rto-2023-10)
 * [2023-10-01, 21:51:11](https://news.ycombinator.com/item?id=37731239) - [Nvidia Office Raided by French Authorities](https://futurism.com/the-byte/france-raided-nvidia-office)
+* [2023-10-01, 20:46:03](https://news.ycombinator.com/item?id=37730543) - [Decomp me: Collaboratively decompile code in the browser](https://decomp.me/)
 * [2023-10-01, 20:04:02](https://news.ycombinator.com/item?id=37730007) - [Humane, a startup full of ex-iPhone talent, trying to make phones obsolete](https://www.inverse.com/tech/humane-projection-device-ex-apple-employees-artificial-intelligence)
 * [2023-10-01, 19:58:51](https://news.ycombinator.com/item?id=37729964) - [Learn and Test DMARC](https://www.learndmarc.com)
 * [2023-10-01, 19:58:27](https://news.ycombinator.com/item?id=37729957) - [Majority of US students now support speech codes](https://unherd.com/thepost/majority-of-us-students-now-support-speech-codes/)
