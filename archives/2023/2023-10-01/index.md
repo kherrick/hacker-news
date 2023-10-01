@@ -10,6 +10,7 @@
 * [2023-10-01, 14:41:12](https://news.ycombinator.com/item?id=37726359) - [MP3 vs. AAC vs. FLAC vs. CD](https://www.stereophile.com/features/308mp3cd/index.html)
 * [2023-10-01, 14:25:24](https://news.ycombinator.com/item?id=37726225) - [Pubs replaced banks in Ireland in 1970 and the economy was fine](https://www.businessinsider.com/pubs-replaced-banks-in-ireland-in-1970-and-the-economy-was-fine-2016-1)
 * [2023-10-01, 14:23:51](https://news.ycombinator.com/item?id=37726210) - [Talent and Hard Work? Think Again](https://twitter.com/shanesnote/status/1708482578875912576?s=20)
+* [2023-10-01, 14:02:18](https://news.ycombinator.com/item?id=37726038) - [Focused Ultrasound Is “Medicine's Best Kept Secret”](https://twitter.com/FutureJurvetson/status/1708306322729607596)
 * [2023-10-01, 13:31:36](https://news.ycombinator.com/item?id=37725778) - [Influxdb made the switch from Go to Rust](https://reddit.com/r/rust/comments/16v13l5/influxdb_officially_made_the_switch_from_go_rust/)
 * [2023-10-01, 13:31:36](https://news.ycombinator.com/item?id=37725778) - [InfluxDB CTO: Why We Moved from Go to Rust](https://old.reddit.com/r/rust/comments/16v13l5/influxdb_officially_made_the_switch_from_go_rust/)
 * [2023-10-01, 13:14:54](https://news.ycombinator.com/item?id=37725634) - [Norway wants a ban on targeted Meta advertising throughout Europe](https://www.datatilsynet.no/en/news/aktuelle-nyheter-2023/meta-case-brought-to-the-european-level/)
