@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-10-01, 18:47:31](https://news.ycombinator.com/item?id=37729109) - [We aren’t losing all of our honeybees](https://geneticliteracyproject.org/2020/03/20/no-we-arent-losing-all-of-our-honeybees-and-neonic-seed-coatings-arent-driving-their-health-problems-heres-why/)
-* [2023-10-01, 18:37:09](https://news.ycombinator.com/item?id=37729001) - [4chan Turns 20](https://4chan.org/4channews.php)
+* [2023-10-01, 18:47:31](https://news.ycombinator.com/item?id=37729109) - [We aren’t losing all of our honeybees (2022)](https://geneticliteracyproject.org/2020/03/20/no-we-arent-losing-all-of-our-honeybees-and-neonic-seed-coatings-arent-driving-their-health-problems-heres-why/)
 * [2023-10-01, 18:35:56](https://news.ycombinator.com/item?id=37728990) - [Teens inundated with phone prompts day and night, research finds](https://www.nbcnews.com/health/health-news/teens-inundated-phone-prompts-day-night-research-finds-rcna108044)
 * [2023-10-01, 18:27:38](https://news.ycombinator.com/item?id=37728893) - [Whenever I buy things I try to prioritize cost per use](https://twitter.com/kepano/status/1708499101778923647)
 * [2023-10-01, 18:24:26](https://news.ycombinator.com/item?id=37728849) - [Meta in Myanmar, Part II: The Crisis](https://erinkissane.com/meta-in-myanmar-part-ii-the-crisis)
@@ -29,6 +28,7 @@
 * [2023-09-29, 15:05:49](https://news.ycombinator.com/item?id=37705344) - [Simple Math Moves the Needle](https://www.quantamagazine.org/how-simple-math-moves-the-needle-20230929/)
 * [2023-09-29, 13:10:43](https://news.ycombinator.com/item?id=37703651) - [Publishing my first game using PICO-8](https://boyter.org/posts/publishing-a-pico8-game/)
 * [2023-09-29, 13:09:52](https://news.ycombinator.com/item?id=37703637) - [Draculark: Mudlarking and vampire hunting game in APL for the Commodore SuperPET](https://medium.com/@solarbreeze69/draculark-a-mudlarking-vampire-hunting-game-bbf40361bf1a)
+* [2023-09-29, 12:59:37](https://news.ycombinator.com/item?id=37703448) - [The Worth of Wild Ideas](https://nautil.us/the-worth-of-wild-ideas-399097/)
 * [2023-09-29, 08:47:41](https://news.ycombinator.com/item?id=37700980) - [Language was born in the hands (2022)](https://cosmosmagazine.com/people/culture/language-evolution-gestures-sign/)
 
 ## [Archives](archives/index.md)

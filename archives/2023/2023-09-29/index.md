@@ -76,6 +76,7 @@
 * [2023-09-29, 13:07:00](https://news.ycombinator.com/item?id=37703587) - [€ 5,8M fine for Grindr – Norwegian Consumer Council’s complaint upheld](https://www.forbrukerradet.no/side/e-58-million-fine-for-grindr-the-norwegian-consumer-councils-complaint-fully-upheld-by-the-privacy-board/)
 * [2023-09-29, 13:03:31](https://news.ycombinator.com/item?id=37703528) - [Senator Dianne Feinstein Dies at 90](https://www.nytimes.com/2023/09/29/us/politics/dianne-feinstein-dead-senate.html)
 * [2023-09-29, 13:00:08](https://news.ycombinator.com/item?id=37703459) - [You Can't Control Your Data in the Cloud](https://karl-voit.at/cloud/)
+* [2023-09-29, 12:59:37](https://news.ycombinator.com/item?id=37703448) - [The Worth of Wild Ideas](https://nautil.us/the-worth-of-wild-ideas-399097/)
 * [2023-09-29, 12:56:57](https://news.ycombinator.com/item?id=37703394) - [Ask HN: What is the least obnoxious way to ask for cookie permissions?](https://news.ycombinator.com/item?id=37703394)
 * [2023-09-29, 12:56:48](https://news.ycombinator.com/item?id=37703390) - [Ten weird things you can buy online](https://www.hillelwayne.com/post/weird-things-you-can-buy/)
 * [2023-09-29, 12:54:08](https://news.ycombinator.com/item?id=37703344) - [Narrow tracks forcing trains to creep at walking pace on Boston's newest subway](https://www.bostonglobe.com/2023/09/28/metro/t-chief-calls-green-line-extension-slowdown-unacceptable/)
