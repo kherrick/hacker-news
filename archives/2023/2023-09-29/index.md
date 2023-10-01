@@ -72,6 +72,7 @@
 * [2023-09-29, 13:36:42](https://news.ycombinator.com/item?id=37704036) - [UK quietly dismisses independent AI advisory board, alarming tech sector](https://thenextweb.com/news/uk-dismisses-independent-ai-advisory-board-alarming-tech-sector)
 * [2023-09-29, 13:27:00](https://news.ycombinator.com/item?id=37703885) - [Encrypted Client Hello – the last puzzle piece to privacy](https://blog.cloudflare.com/announcing-encrypted-client-hello/)
 * [2023-09-29, 13:19:01](https://news.ycombinator.com/item?id=37703767) - [Senator Dianne Feinstein dies aged 90](https://www.bbc.com/news/world-us-canada-66963341)
+* [2023-09-29, 13:16:59](https://news.ycombinator.com/item?id=37703739) - [Fireblocks OSS Multi-Party Computation Library](https://github.com/fireblocks/mpc-lib)
 * [2023-09-29, 13:10:43](https://news.ycombinator.com/item?id=37703651) - [Publishing my first game using pico-8](https://boyter.org/posts/publishing-a-pico8-game/)
 * [2023-09-29, 13:09:52](https://news.ycombinator.com/item?id=37703637) - [Draculark: Mudlarking and Vampire Hunting Game in APL for the Commodore SuperPET](https://medium.com/@solarbreeze69/draculark-a-mudlarking-vampire-hunting-game-bbf40361bf1a)
 * [2023-09-29, 13:07:00](https://news.ycombinator.com/item?id=37703587) - [€ 5,8M fine for Grindr – Norwegian Consumer Council’s complaint upheld](https://www.forbrukerradet.no/side/e-58-million-fine-for-grindr-the-norwegian-consumer-councils-complaint-fully-upheld-by-the-privacy-board/)
