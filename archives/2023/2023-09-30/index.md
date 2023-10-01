@@ -17,6 +17,7 @@
 * [2023-09-30, 20:51:53](https://news.ycombinator.com/item?id=37719668) - [PoW gets his life back after 55 years (2000)](https://www.theguardian.com/world/2000/sep/19/1)
 * [2023-09-30, 20:16:16](https://news.ycombinator.com/item?id=37719308) - [AdaCore Announces Gnat Pro for Rust](https://www.adacore.com/press/adacore-announces-gnat-pro-for-rust)
 * [2023-09-30, 20:15:00](https://news.ycombinator.com/item?id=37719298) - [Bots Should Punch Up](https://www.crummy.com/2013/11/27/0)
+* [2023-09-30, 19:48:06](https://news.ycombinator.com/item?id=37719050) - [Dating the Arrival of Modern Humans in Asia](https://www.sapiens.org/archaeology/human-migration-asia/)
 * [2023-09-30, 19:41:18](https://news.ycombinator.com/item?id=37718999) - [How to See Bright, Vivid Images in Your Mind’s Eye](https://photographyinsider.info/image-streaming-for-photographers/)
 * [2023-09-30, 19:28:56](https://news.ycombinator.com/item?id=37718880) - [The Domestic Labour of Reading in Milton’s Areopagitica](https://publicdomainreview.org/essay/free-speech-and-bad-meats/)
 * [2023-09-30, 19:27:29](https://news.ycombinator.com/item?id=37718865) - [I Survived (Barely) as a Jazz Musician at Business School](https://www.honest-broker.com/p/how-i-survived-barely-as-a-jazz-musician)
