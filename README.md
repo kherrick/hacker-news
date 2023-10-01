@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-01, 14:25:24](https://news.ycombinator.com/item?id=37726225) - [Pubs replaced banks in Ireland in 1970 and the economy was fine](https://www.businessinsider.com/pubs-replaced-banks-in-ireland-in-1970-and-the-economy-was-fine-2016-1)
-* [2023-10-01, 14:23:51](https://news.ycombinator.com/item?id=37726210) - [Talent and Hard Work? Think Again](https://twitter.com/shanesnote/status/1708482578875912576?s=20)
-* [2023-10-01, 13:31:36](https://news.ycombinator.com/item?id=37725778) - [InfluxDB CTO: Why We Moved from Go to Rust](https://old.reddit.com/r/rust/comments/16v13l5/influxdb_officially_made_the_switch_from_go_rust/)
+* [2023-10-01, 13:31:36](https://news.ycombinator.com/item?id=37725778) - [Influxdb made the switch from Go to Rust](https://reddit.com/r/rust/comments/16v13l5/influxdb_officially_made_the_switch_from_go_rust/)
 * [2023-10-01, 13:14:54](https://news.ycombinator.com/item?id=37725634) - [Meta case brought to the European level](https://www.datatilsynet.no/en/news/aktuelle-nyheter-2023/meta-case-brought-to-the-european-level/)
 * [2023-10-01, 13:00:28](https://news.ycombinator.com/item?id=37725530) - [Pulsars, not dark matter, explain the Milky Way’s antimatter](https://bigthink.com/starts-with-a-bang/pulsars-dark-matter-milky-way-antimatter/)
 * [2023-10-01, 12:57:16](https://news.ycombinator.com/item?id=37725498) - [DALL-E 3 is now publicly available inside Bing](https://www.bing.com/images/create/?ref=hn)
@@ -29,6 +28,7 @@
 * [2023-09-30, 19:16:59](https://news.ycombinator.com/item?id=37718764) - [Vergil’s Message](https://aeon.co/essays/why-it-pays-to-read-for-acrostics-in-the-classics)
 * [2023-09-30, 16:00:11](https://news.ycombinator.com/item?id=37716722) - [Most demographers now predict that human population will plateau](https://www.bloomberg.com/opinion/articles/2023-09-30/how-many-people-are-there-in-the-world-don-t-worry-about-it)
 * [2023-09-30, 09:34:57](https://news.ycombinator.com/item?id=37713923) - [The presumption that computers are working correctly](https://emptycity.substack.com/p/computer-says-guilty-an-introduction)
+* [2023-09-30, 08:05:12](https://news.ycombinator.com/item?id=37713530) - [Flexbox Froggy](https://flexboxfroggy.com/)
 * [2023-09-29, 14:25:35](https://news.ycombinator.com/item?id=37704760) - [Show HN: RISC-V assembly tabletop board game (hack your opponent)](https://punkx.org/overflow/)
 
 ## [Archives](archives/index.md)

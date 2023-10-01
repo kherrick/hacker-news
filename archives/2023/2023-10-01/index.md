@@ -6,6 +6,7 @@
 
 * [2023-10-01, 14:25:24](https://news.ycombinator.com/item?id=37726225) - [Pubs replaced banks in Ireland in 1970 and the economy was fine](https://www.businessinsider.com/pubs-replaced-banks-in-ireland-in-1970-and-the-economy-was-fine-2016-1)
 * [2023-10-01, 14:23:51](https://news.ycombinator.com/item?id=37726210) - [Talent and Hard Work? Think Again](https://twitter.com/shanesnote/status/1708482578875912576?s=20)
+* [2023-10-01, 13:31:36](https://news.ycombinator.com/item?id=37725778) - [Influxdb made the switch from Go to Rust](https://reddit.com/r/rust/comments/16v13l5/influxdb_officially_made_the_switch_from_go_rust/)
 * [2023-10-01, 13:31:36](https://news.ycombinator.com/item?id=37725778) - [InfluxDB CTO: Why We Moved from Go to Rust](https://old.reddit.com/r/rust/comments/16v13l5/influxdb_officially_made_the_switch_from_go_rust/)
 * [2023-10-01, 13:14:54](https://news.ycombinator.com/item?id=37725634) - [Norway wants a ban on targeted Meta advertising throughout Europe](https://www.datatilsynet.no/en/news/aktuelle-nyheter-2023/meta-case-brought-to-the-european-level/)
 * [2023-10-01, 13:00:28](https://news.ycombinator.com/item?id=37725530) - [Pulsars, not dark matter, explain the Milky Way’s antimatter](https://bigthink.com/starts-with-a-bang/pulsars-dark-matter-milky-way-antimatter/)
