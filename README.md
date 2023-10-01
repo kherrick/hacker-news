@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-01, 22:45:08](https://news.ycombinator.com/item?id=37731729) - [FBI warns “phantom” hacker scams are emptying financial accounts](https://www.tomsguide.com/news/fbi-issues-warning-over-phantom-hacker-scams-dont-fall-for-this)
 * [2023-10-01, 22:38:50](https://news.ycombinator.com/item?id=37731670) - [Tom Hanks says that’s not him selling dental insurance in Instagram ads](https://www.avclub.com/tom-hanks-ai-dental-plan-instagram-ads-1850890845)
 * [2023-10-01, 22:23:49](https://news.ycombinator.com/item?id=37731544) - [My Dearest Data East: Why? Gate of Doom/Dark Seal](https://nicole.express/2023/im-gonna-open-the-doom-gate-now.html)
 * [2023-10-01, 22:00:48](https://news.ycombinator.com/item?id=37731330) - [How companies like Amazon and JPMorgan spy on their staff](https://www.businessinsider.com/how-companies-spy-on-employees-bossware-jpmorgan-amazon-monitor-rto-2023-10)
@@ -12,7 +13,6 @@
 * [2023-10-01, 17:56:41](https://news.ycombinator.com/item?id=37728571) - [Unexpected benefits of sun exposure on skin](https://www.theguardian.com/lifeandstyle/2023/oct/01/let-it-shine-the-unexpected-benefits-of-sun-exposure-on-skin)
 * [2023-10-01, 17:34:00](https://news.ycombinator.com/item?id=37728312) - [The Irish Logarithm](https://blog.plover.com/math/irish-logarithm.html)
 * [2023-10-01, 17:26:23](https://news.ycombinator.com/item?id=37728237) - [Pillows to help workers snooze at desk](https://mainichi.jp/english/articles/20230928/p2a/00m/0na/023000c)
-* [2023-10-01, 17:06:32](https://news.ycombinator.com/item?id=37728016) - [Could EU force hardware manufacturers to make working drivers for Linux?](https://old.reddit.com/r/linux/comments/16wv53f/could_the_eu_force_hardware_manufacturers_to_make/)
 * [2023-10-01, 15:01:01](https://news.ycombinator.com/item?id=37726539) - [Tire dust makes up the majority of ocean microplastics](https://www.thedrive.com/news/tire-dust-makes-up-the-majority-of-ocean-microplastics-study-finds)
 * [2023-10-01, 14:41:12](https://news.ycombinator.com/item?id=37726359) - [MP3 vs. AAC vs. FLAC vs. CD (2008)](https://www.stereophile.com/features/308mp3cd/index.html)
 * [2023-10-01, 14:25:24](https://news.ycombinator.com/item?id=37726225) - [Pubs replaced banks in Ireland for several months in 1970 (2016)](https://www.businessinsider.com/pubs-replaced-banks-in-ireland-in-1970-and-the-economy-was-fine-2016-1)
