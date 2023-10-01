@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-01](index.md)
 
+* [2023-10-01, 16:23:14](https://news.ycombinator.com/item?id=37727513) - [Food Delivery Robots Are Feeding Camera Footage to the LAPD, Emails Show](https://www.404media.co/serve-food-delivery-robots-are-feeding-camera-footage-to-the-lapd-internal-emails-show/)
 * [2023-10-01, 16:03:57](https://news.ycombinator.com/item?id=37727250) - [How Many Microbes Does It Take to Make You Sick?](https://www.quantamagazine.org/how-many-microbes-does-it-take-to-make-you-sick-20230927/)
 * [2023-10-01, 15:55:02](https://news.ycombinator.com/item?id=37727129) - [WFH significantly increased workforce participation from those with disabilities](https://thehill.com/opinion/technology/4228100-does-working-from-home-damage-productivity-just-look-at-the-data/)
 * [2023-10-01, 15:51:06](https://news.ycombinator.com/item?id=37727067) - [Ask HN: After 3 years of crypto trading, how to return to the normal job market?](https://news.ycombinator.com/item?id=37727067)
