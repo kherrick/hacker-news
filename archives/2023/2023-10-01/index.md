@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-01](index.md)
 
+* [2023-10-01, 15:51:06](https://news.ycombinator.com/item?id=37727067) - [Ask HN: After 3 years of crypto trading, how to return to the normal job market?](https://news.ycombinator.com/item?id=37727067)
 * [2023-10-01, 15:41:13](https://news.ycombinator.com/item?id=37726952) - [More than 100 dolphins dead in Amazon as water hits 102 degrees Fahrenheit](https://www.cnn.com/2023/10/01/americas/amazon-river-dolphins-dead-temperatures-drought-intl-hnk/index.html)
 * [2023-10-01, 15:14:28](https://news.ycombinator.com/item?id=37726696) - [Twitter / X is losing daily active users. CEO Linda Yaccarino confirmed it](https://mashable.com/article/twitter-x-daily-active-users-drop-under-elon-musk)
 * [2023-10-01, 15:03:07](https://news.ycombinator.com/item?id=37726568) - [We don't have Senior Engineers anymore](https://sibelius.substack.com/p/we-dont-have-seniors-anymore)
