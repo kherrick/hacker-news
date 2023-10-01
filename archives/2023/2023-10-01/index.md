@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-10-01](index.md)
 
 * [2023-10-01, 15:14:28](https://news.ycombinator.com/item?id=37726696) - [Twitter / X is losing daily active users. CEO Linda Yaccarino confirmed it](https://mashable.com/article/twitter-x-daily-active-users-drop-under-elon-musk)
+* [2023-10-01, 15:03:07](https://news.ycombinator.com/item?id=37726568) - [We don't have Senior Engineers anymore](https://sibelius.substack.com/p/we-dont-have-seniors-anymore)
 * [2023-10-01, 15:01:01](https://news.ycombinator.com/item?id=37726539) - [Tire Dust Makes Up the Majority of Ocean Microplastics](https://www.thedrive.com/news/tire-dust-makes-up-the-majority-of-ocean-microplastics-study-finds)
 * [2023-10-01, 14:52:57](https://news.ycombinator.com/item?id=37726450) - [Germans shrug off economic gloom at booming Oktoberfest](https://www.ft.com/content/c251bdfe-9ba3-4204-b933-b7bd6b514549)
 * [2023-10-01, 14:41:12](https://news.ycombinator.com/item?id=37726359) - [MP3 vs. AAC vs. FLAC vs. CD](https://www.stereophile.com/features/308mp3cd/index.html)
