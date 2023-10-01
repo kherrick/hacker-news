@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-01, 17:06:32](https://news.ycombinator.com/item?id=37728016) - [Could EU force hardware manufacturers to make working drivers for Linux?](https://old.reddit.com/r/linux/comments/16wv53f/could_the_eu_force_hardware_manufacturers_to_make/)
-* [2023-10-01, 16:57:18](https://news.ycombinator.com/item?id=37727944) - [Trudeau Government moves to regulate podcasts](https://thecountersignal.com/trudeau-government-moves-to-regulate-podcasts/)
 * [2023-10-01, 16:41:25](https://news.ycombinator.com/item?id=37727762) - [ParaSite: Inflatable Housing for the Homeless (2016)](https://archinect.com/features/article/149944931/parasite-the-bandage-over-the-nomadic-wound)
 * [2023-10-01, 16:03:57](https://news.ycombinator.com/item?id=37727250) - [How Many Microbes Does It Take to Make You Sick?](https://www.quantamagazine.org/how-many-microbes-does-it-take-to-make-you-sick-20230927/)
 * [2023-10-01, 15:55:02](https://news.ycombinator.com/item?id=37727129) - [WFH significantly increased workforce participation from those with disabilities](https://thehill.com/opinion/technology/4228100-does-working-from-home-damage-productivity-just-look-at-the-data/)
@@ -22,6 +21,7 @@
 * [2023-10-01, 09:11:30](https://news.ycombinator.com/item?id=37724161) - [This is financial advice [video]](https://www.youtube.com/watch?v=5pYeoZaoWrA)
 * [2023-10-01, 07:44:29](https://news.ycombinator.com/item?id=37723688) - [DKIM: Rotate and Publish Your Keys](https://diziet.dreamwidth.org/16025.html)
 * [2023-10-01, 06:45:01](https://news.ycombinator.com/item?id=37723372) - [Decentralized Artificial Intelligence](https://www.chaos-engineering.dev/p/decentralized-artificial-intelligence)
+* [2023-10-01, 03:25:43](https://news.ycombinator.com/item?id=37722248) - [Representing Heterogeneous Data](https://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/)
 * [2023-10-01, 02:55:51](https://news.ycombinator.com/item?id=37722114) - [Watch a frog-like robot use tiny explosions to hop around](https://www.newscientist.com/article/2391584-watch-a-frog-like-robot-use-tiny-explosions-to-hop-around/)
 * [2023-10-01, 02:34:15](https://news.ycombinator.com/item?id=37722013) - [India’s pickle people: Decades-old culinary heirlooms, nostalgia](https://www.aljazeera.com/features/2023/9/29/indias-pickle-people-decades-old-culinary-heirlooms-nostalgia)
 * [2023-09-30, 19:48:06](https://news.ycombinator.com/item?id=37719050) - [Dating the Arrival of Modern Humans in Asia](https://www.sapiens.org/archaeology/human-migration-asia/)
