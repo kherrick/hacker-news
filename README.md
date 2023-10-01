@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-01, 15:14:28](https://news.ycombinator.com/item?id=37726696) - [Twitter / X is losing daily active users. CEO Linda Yaccarino confirmed it](https://mashable.com/article/twitter-x-daily-active-users-drop-under-elon-musk)
+* [2023-10-01, 15:01:01](https://news.ycombinator.com/item?id=37726539) - [Tire Dust Makes Up the Majority of Ocean Microplastics](https://www.thedrive.com/news/tire-dust-makes-up-the-majority-of-ocean-microplastics-study-finds)
+* [2023-10-01, 14:52:57](https://news.ycombinator.com/item?id=37726450) - [Germans shrug off economic gloom at booming Oktoberfest](https://www.ft.com/content/c251bdfe-9ba3-4204-b933-b7bd6b514549)
 * [2023-10-01, 14:41:12](https://news.ycombinator.com/item?id=37726359) - [MP3 vs. AAC vs. FLAC vs. CD](https://www.stereophile.com/features/308mp3cd/index.html)
 * [2023-10-01, 14:25:24](https://news.ycombinator.com/item?id=37726225) - [Pubs replaced banks in Ireland in 1970 and the economy was fine](https://www.businessinsider.com/pubs-replaced-banks-in-ireland-in-1970-and-the-economy-was-fine-2016-1)
 * [2023-10-01, 13:31:36](https://news.ycombinator.com/item?id=37725778) - [Influxdb made the switch from Go to Rust](https://reddit.com/r/rust/comments/16v13l5/influxdb_officially_made_the_switch_from_go_rust/)
@@ -23,13 +26,10 @@
 * [2023-10-01, 02:34:15](https://news.ycombinator.com/item?id=37722013) - [India’s pickle people: Decades-old culinary heirlooms, nostalgia](https://www.aljazeera.com/features/2023/9/29/indias-pickle-people-decades-old-culinary-heirlooms-nostalgia)
 * [2023-10-01, 01:13:50](https://news.ycombinator.com/item?id=37721584) - [LK-99 research continues, paper says superconductivity could be possible](https://www.tomshardware.com/news/research-on-lk-99-continues-paper-says-superconductivity-could-be-possible)
 * [2023-09-30, 23:29:24](https://news.ycombinator.com/item?id=37720976) - [An easy-to-implement, arena-friendly hash map](https://nullprogram.com/blog/2023/09/30/)
-* [2023-09-30, 22:36:21](https://news.ycombinator.com/item?id=37720580) - [Fake recruiter lured aerospace employee with trojanized coding challenge](https://www.welivesecurity.com/en/eset-research/lazarus-luring-employees-trojanized-coding-challenges-case-spanish-aerospace-company/)
 * [2023-09-30, 19:48:06](https://news.ycombinator.com/item?id=37719050) - [Dating the Arrival of Modern Humans in Asia](https://www.sapiens.org/archaeology/human-migration-asia/)
 * [2023-09-30, 19:16:59](https://news.ycombinator.com/item?id=37718764) - [Vergil’s Message](https://aeon.co/essays/why-it-pays-to-read-for-acrostics-in-the-classics)
-* [2023-09-30, 16:00:11](https://news.ycombinator.com/item?id=37716722) - [Most demographers now predict that human population will plateau](https://www.bloomberg.com/opinion/articles/2023-09-30/how-many-people-are-there-in-the-world-don-t-worry-about-it)
 * [2023-09-30, 09:34:57](https://news.ycombinator.com/item?id=37713923) - [The presumption that computers are working correctly](https://emptycity.substack.com/p/computer-says-guilty-an-introduction)
 * [2023-09-29, 15:05:49](https://news.ycombinator.com/item?id=37705344) - [Simple Math Moves the Needle](https://www.quantamagazine.org/how-simple-math-moves-the-needle-20230929/)
-* [2023-09-29, 14:25:35](https://news.ycombinator.com/item?id=37704760) - [Show HN: RISC-V assembly tabletop board game (hack your opponent)](https://punkx.org/overflow/)
 
 ## [Archives](archives/index.md)
 

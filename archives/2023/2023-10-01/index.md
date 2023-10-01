@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-01](index.md)
 
+* [2023-10-01, 15:14:28](https://news.ycombinator.com/item?id=37726696) - [Twitter / X is losing daily active users. CEO Linda Yaccarino confirmed it](https://mashable.com/article/twitter-x-daily-active-users-drop-under-elon-musk)
+* [2023-10-01, 15:01:01](https://news.ycombinator.com/item?id=37726539) - [Tire Dust Makes Up the Majority of Ocean Microplastics](https://www.thedrive.com/news/tire-dust-makes-up-the-majority-of-ocean-microplastics-study-finds)
+* [2023-10-01, 14:52:57](https://news.ycombinator.com/item?id=37726450) - [Germans shrug off economic gloom at booming Oktoberfest](https://www.ft.com/content/c251bdfe-9ba3-4204-b933-b7bd6b514549)
 * [2023-10-01, 14:41:12](https://news.ycombinator.com/item?id=37726359) - [MP3 vs. AAC vs. FLAC vs. CD](https://www.stereophile.com/features/308mp3cd/index.html)
 * [2023-10-01, 14:25:24](https://news.ycombinator.com/item?id=37726225) - [Pubs replaced banks in Ireland in 1970 and the economy was fine](https://www.businessinsider.com/pubs-replaced-banks-in-ireland-in-1970-and-the-economy-was-fine-2016-1)
 * [2023-10-01, 14:23:51](https://news.ycombinator.com/item?id=37726210) - [Talent and Hard Work? Think Again](https://twitter.com/shanesnote/status/1708482578875912576?s=20)
