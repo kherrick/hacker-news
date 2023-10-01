@@ -63,6 +63,7 @@
 * [2023-09-29, 14:28:14](https://news.ycombinator.com/item?id=37704807) - [The Kakhovka Dam Disaster Revealed an Archaeological ‘Goldmine’](https://www.atlasobscura.com/articles/kakhovka-dam-chaika-cossack-archaeology)
 * [2023-09-29, 14:25:35](https://news.ycombinator.com/item?id=37704760) - [Show HN: RISC-V assembly tabletop board game (hack your opponent)](https://punkx.org/overflow/)
 * [2023-09-29, 14:23:20](https://news.ycombinator.com/item?id=37704721) - [Starting next year people will be able to drive home from their ophthalmologist](https://www.nasdaq.com/articles/viatris-vtrs-gets-fda-nod-for-pupil-dilation-reversal-agent)
+* [2023-09-29, 14:19:31](https://news.ycombinator.com/item?id=37704669) - [Design Your Own Arduino-Compatible Digital Level PCB, SparkleTilt](https://jams.hackclub.com/batch/sparkletilt-pcb)
 * [2023-09-29, 14:19:27](https://news.ycombinator.com/item?id=37704667) - [Redditor uses ChatGPT to fix annoying Safari UI issue on macOS](https://chat.openai.com/share/af5551c3-0a54-4cee-a7db-be689deb2f70)
 * [2023-09-29, 14:14:54](https://news.ycombinator.com/item?id=37704593) - [Official U.S. government information about the Global Positioning System (GPS)](https://www.gps.gov/)
 * [2023-09-29, 14:13:51](https://news.ycombinator.com/item?id=37704579) - [John Baez' Applied Category Theory Lectures](https://mathstodon.xyz/@johncarlosbaez/111136608294290523)
