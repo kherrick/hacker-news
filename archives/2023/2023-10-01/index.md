@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-01](index.md)
 
+* [2023-10-01, 16:03:57](https://news.ycombinator.com/item?id=37727250) - [How Many Microbes Does It Take to Make You Sick?](https://www.quantamagazine.org/how-many-microbes-does-it-take-to-make-you-sick-20230927/)
+* [2023-10-01, 15:55:02](https://news.ycombinator.com/item?id=37727129) - [WFH significantly increased workforce participation from those with disabilities](https://thehill.com/opinion/technology/4228100-does-working-from-home-damage-productivity-just-look-at-the-data/)
 * [2023-10-01, 15:51:06](https://news.ycombinator.com/item?id=37727067) - [Ask HN: After 3 years of crypto trading, how to return to the normal job market?](https://news.ycombinator.com/item?id=37727067)
 * [2023-10-01, 15:41:13](https://news.ycombinator.com/item?id=37726952) - [More than 100 dolphins dead in Amazon as water hits 102 degrees Fahrenheit](https://www.cnn.com/2023/10/01/americas/amazon-river-dolphins-dead-temperatures-drought-intl-hnk/index.html)
 * [2023-10-01, 15:14:28](https://news.ycombinator.com/item?id=37726696) - [Twitter / X is losing daily active users. CEO Linda Yaccarino confirmed it](https://mashable.com/article/twitter-x-daily-active-users-drop-under-elon-musk)
