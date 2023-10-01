@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-30](index.md)
 
+* [2023-09-30, 23:35:28](https://news.ycombinator.com/item?id=37721016) - [Lowering the Cost of Anonymization (2020)](https://desfontain.es/thesis/)
 * [2023-09-30, 23:29:24](https://news.ycombinator.com/item?id=37720976) - [An easy-to-implement, arena-friendly hash map](https://nullprogram.com/blog/2023/09/30/)
 * [2023-09-30, 23:23:59](https://news.ycombinator.com/item?id=37720943) - [Installing PyTorch Geometric Wrt CUDA Version](https://blog.42yeah.is/cuda/2023/09/30/torch-geometric.html)
 * [2023-09-30, 23:04:13](https://news.ycombinator.com/item?id=37720806) - [-Werror Is Not Your Friend](https://embeddedartistry.com/blog/2017/05/22/werror-is-not-your-friend/)
