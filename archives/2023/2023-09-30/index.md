@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-09-30](index.md)
 
+* [2023-09-30, 23:29:24](https://news.ycombinator.com/item?id=37720976) - [An easy-to-implement, arena-friendly hash map](https://nullprogram.com/blog/2023/09/30/)
+* [2023-09-30, 23:23:59](https://news.ycombinator.com/item?id=37720943) - [Installing PyTorch Geometric Wrt CUDA Version](https://blog.42yeah.is/cuda/2023/09/30/torch-geometric.html)
+* [2023-09-30, 23:04:13](https://news.ycombinator.com/item?id=37720806) - [-Werror Is Not Your Friend](https://embeddedartistry.com/blog/2017/05/22/werror-is-not-your-friend/)
+* [2023-09-30, 22:42:13](https://news.ycombinator.com/item?id=37720632) - [The Tron Project: How Japan Almost Ruled IT](https://undervaluedjapan.blogspot.com/2022/08/the-tron-project-how-japan-almost-ruled.html)
 * [2023-09-30, 21:23:53](https://news.ycombinator.com/item?id=37719971) - [NIR: Nim Intermediate Representation](https://github.com/nim-lang/Nim/pull/22777)
 * [2023-09-30, 20:51:53](https://news.ycombinator.com/item?id=37719668) - [The man who did not have a conversation in over 50 years](https://en.wikipedia.org/wiki/Andr%C3%A1s_Toma)
 * [2023-09-30, 20:16:16](https://news.ycombinator.com/item?id=37719308) - [AdaCore Announces Gnat Pro for Rust](https://www.adacore.com/press/adacore-announces-gnat-pro-for-rust)
