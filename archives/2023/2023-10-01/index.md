@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-01](index.md)
 
+* [2023-10-01, 09:33:01](https://news.ycombinator.com/item?id=37724268) - [Where's My Bike Dave?](https://road.cc/content/news/bike-thief-convicted-after-mother-victim-protests-304143)
 * [2023-10-01, 07:44:29](https://news.ycombinator.com/item?id=37723688) - [DKIM: Rotate and Publish Your Keys](https://diziet.dreamwidth.org/16025.html)
+* [2023-10-01, 06:45:01](https://news.ycombinator.com/item?id=37723372) - [Decentralized Artificial Intelligence](https://www.chaos-engineering.dev/p/decentralized-artificial-intelligence)
 * [2023-10-01, 06:31:09](https://news.ycombinator.com/item?id=37723304) - [Many of today’s unhealthy foods were brought to you by Big Tobacco](https://www.washingtonpost.com/wellness/2023/09/19/addiction-foods-hyperpalatable-tobacco/)
 * [2023-10-01, 04:06:44](https://news.ycombinator.com/item?id=37722438) - [Police chief who led raid of Marion County Record has been suspended](https://apnews.com/article/raid-kansas-newspaper-police-chief-suspended-306638d67f4cdeef834a7b20523c40cf)
 * [2023-10-01, 04:03:13](https://news.ycombinator.com/item?id=37722415) - [America does not have a good food culture](https://walkingtheworld.substack.com/p/america-does-not-have-a-good-food)

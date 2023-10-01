@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-10-01, 09:33:01](https://news.ycombinator.com/item?id=37724268) - [Where's My Bike Dave?](https://road.cc/content/news/bike-thief-convicted-after-mother-victim-protests-304143)
 * [2023-10-01, 07:44:29](https://news.ycombinator.com/item?id=37723688) - [DKIM: Rotate and Publish Your Keys](https://diziet.dreamwidth.org/16025.html)
+* [2023-10-01, 06:45:01](https://news.ycombinator.com/item?id=37723372) - [Decentralized Artificial Intelligence](https://www.chaos-engineering.dev/p/decentralized-artificial-intelligence)
 * [2023-10-01, 06:31:09](https://news.ycombinator.com/item?id=37723304) - [Many of today’s unhealthy foods were brought to you by Big Tobacco](https://www.washingtonpost.com/wellness/2023/09/19/addiction-foods-hyperpalatable-tobacco/)
-* [2023-10-01, 04:06:44](https://news.ycombinator.com/item?id=37722438) - [Police chief who led raid of Marion County Record has been suspended](https://apnews.com/article/raid-kansas-newspaper-police-chief-suspended-306638d67f4cdeef834a7b20523c40cf)
 * [2023-10-01, 03:25:43](https://news.ycombinator.com/item?id=37722248) - [Representing Heterogeneous Data](https://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/)
 * [2023-10-01, 03:24:53](https://news.ycombinator.com/item?id=37722244) - ['Couple,' 'Few,' and 'Several'](https://www.merriam-webster.com/grammar/couple-few-several-use)
 * [2023-10-01, 02:55:51](https://news.ycombinator.com/item?id=37722114) - [Watch a frog-like robot use tiny explosions to hop around](https://www.newscientist.com/article/2391584-watch-a-frog-like-robot-use-tiny-explosions-to-hop-around/)
@@ -23,7 +24,6 @@
 * [2023-09-30, 19:26:55](https://news.ycombinator.com/item?id=37718859) - [Pharmacokinetics: Drug development's broken stair](https://trevorklee.substack.com/p/pharmacokinetics-drug-developments)
 * [2023-09-30, 19:16:59](https://news.ycombinator.com/item?id=37718764) - [Vergil’s Message](https://aeon.co/essays/why-it-pays-to-read-for-acrostics-in-the-classics)
 * [2023-09-30, 17:47:33](https://news.ycombinator.com/item?id=37717889) - [Modeling transformational policy pathways on low and negative growth scenarios](https://www.nature.com/articles/s41598-023-42782-y)
-* [2023-09-30, 16:19:00](https://news.ycombinator.com/item?id=37716910) - [How flip-flops are implemented in the Intel 8086 processor](http://www.righto.com/2023/09/8086-flip-flops.html)
 * [2023-09-30, 16:00:11](https://news.ycombinator.com/item?id=37716722) - [Most demographers now predict that human population will plateau](https://www.bloomberg.com/opinion/articles/2023-09-30/how-many-people-are-there-in-the-world-don-t-worry-about-it)
 * [2023-09-30, 09:34:57](https://news.ycombinator.com/item?id=37713923) - [The presumption that computers are working correctly](https://emptycity.substack.com/p/computer-says-guilty-an-introduction)
 * [2023-09-30, 09:20:02](https://news.ycombinator.com/item?id=37713861) - [The Small World of Simulating Other Worlds](https://undark.org/2023/09/20/inside-the-small-world-of-simulating-other-worlds/)
