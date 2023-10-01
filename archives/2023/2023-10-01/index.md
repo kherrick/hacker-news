@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-01](index.md)
 
+* [2023-10-01, 20:04:02](https://news.ycombinator.com/item?id=37730007) - [Humane, a startup full of ex-iPhone talent, trying to make phones obsolete](https://www.inverse.com/tech/humane-projection-device-ex-apple-employees-artificial-intelligence)
 * [2023-10-01, 19:05:14](https://news.ycombinator.com/item?id=37729350) - [Celebrity Flights](https://celebrityflight.com/)
 * [2023-10-01, 18:52:01](https://news.ycombinator.com/item?id=37729172) - [Varoufakis: Capitalism is dead, long live Technofeudalism](https://unherd.com/2023/09/capitalism-is-dead-long-live-technofeudalism/)
+* [2023-10-01, 18:51:24](https://news.ycombinator.com/item?id=37729160) - [Bing ChatGPT Image Jailbreak](https://twitter.com/literallydenis/status/1708283962399846459)
 * [2023-10-01, 18:47:31](https://news.ycombinator.com/item?id=37729109) - [We aren’t losing all of our honeybees](https://geneticliteracyproject.org/2020/03/20/no-we-arent-losing-all-of-our-honeybees-and-neonic-seed-coatings-arent-driving-their-health-problems-heres-why/)
 * [2023-10-01, 18:37:09](https://news.ycombinator.com/item?id=37729001) - [4chan Turns 20](https://4chan.org/4channews.php)
 * [2023-10-01, 18:35:56](https://news.ycombinator.com/item?id=37728990) - [Teens inundated with phone prompts day and night, research finds](https://www.nbcnews.com/health/health-news/teens-inundated-phone-prompts-day-night-research-finds-rcna108044)
