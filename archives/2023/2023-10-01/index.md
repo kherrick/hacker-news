@@ -8,6 +8,7 @@
 * [2023-10-01, 06:31:09](https://news.ycombinator.com/item?id=37723304) - [Many of today’s unhealthy foods were brought to you by Big Tobacco](https://www.washingtonpost.com/wellness/2023/09/19/addiction-foods-hyperpalatable-tobacco/)
 * [2023-10-01, 04:03:13](https://news.ycombinator.com/item?id=37722415) - [America does not have a good food culture](https://walkingtheworld.substack.com/p/america-does-not-have-a-good-food)
 * [2023-10-01, 03:24:53](https://news.ycombinator.com/item?id=37722244) - ['Couple,' 'Few,' and 'Several': The (Mostly) Definitive Guide](https://www.merriam-webster.com/grammar/couple-few-several-use)
+* [2023-10-01, 02:55:51](https://news.ycombinator.com/item?id=37722114) - [Watch a frog-like robot use tiny explosions to hop around](https://www.newscientist.com/article/2391584-watch-a-frog-like-robot-use-tiny-explosions-to-hop-around/)
 * [2023-10-01, 02:34:15](https://news.ycombinator.com/item?id=37722013) - [India’s pickle people: Decades-old culinary heirlooms, nostalgia](https://www.aljazeera.com/features/2023/9/29/indias-pickle-people-decades-old-culinary-heirlooms-nostalgia)
 * [2023-10-01, 01:34:41](https://news.ycombinator.com/item?id=37721720) - [Nvidia's RTX 5000 Ada Now Available: AD102 with 32GB of GDDR6](https://www.tomshardware.com/news/nvidias-rtx-5000-ada-now-available-ad102-with-32gb-of-gddr6)
 * [2023-10-01, 01:26:21](https://news.ycombinator.com/item?id=37721663) - [Spacedrive is an open source cross-platform file explorer written in Rust](https://github.com/spacedriveapp/spacedrive)
