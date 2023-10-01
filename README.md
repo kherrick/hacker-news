@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-10-01, 18:00:01](https://news.ycombinator.com/item?id=37728601) - [The worrying democratic erosions in South Korea](https://www.newyorker.com/news/daily-comment/the-worrying-democratic-erosions-in-south-korea)
-* [2023-10-01, 17:48:20](https://news.ycombinator.com/item?id=37728464) - [Canada to require registration of podcasters and streaming services](https://www.canada.ca/en/radio-television-telecommunications/news/2023/09/crtc-takes-major-step-forward-to-modernize-canadas-broadcasting-framework.html)
 * [2023-10-01, 17:34:00](https://news.ycombinator.com/item?id=37728312) - [The Irish Logarithm](https://blog.plover.com/math/irish-logarithm.html)
 * [2023-10-01, 17:26:23](https://news.ycombinator.com/item?id=37728237) - [Pillows to help workers snooze at desk draw attention in Japan](https://mainichi.jp/english/articles/20230928/p2a/00m/0na/023000c)
 * [2023-10-01, 17:19:26](https://news.ycombinator.com/item?id=37728154) - [Bruno – Opensource, Sustainability, Privacy, Freedom and Incentives](https://github.com/usebruno/bruno/discussions/269)
@@ -25,6 +24,7 @@
 * [2023-10-01, 06:45:01](https://news.ycombinator.com/item?id=37723372) - [Decentralized Artificial Intelligence](https://www.chaos-engineering.dev/p/decentralized-artificial-intelligence)
 * [2023-10-01, 02:55:51](https://news.ycombinator.com/item?id=37722114) - [Watch a frog-like robot use tiny explosions to hop around](https://www.newscientist.com/article/2391584-watch-a-frog-like-robot-use-tiny-explosions-to-hop-around/)
 * [2023-09-30, 19:48:06](https://news.ycombinator.com/item?id=37719050) - [Dating the Arrival of Modern Humans in Asia](https://www.sapiens.org/archaeology/human-migration-asia/)
+* [2023-09-30, 19:16:59](https://news.ycombinator.com/item?id=37718764) - [Vergil’s secret message](https://aeon.co/essays/why-it-pays-to-read-for-acrostics-in-the-classics)
 * [2023-09-30, 09:34:57](https://news.ycombinator.com/item?id=37713923) - [The presumption that computers are working correctly](https://emptycity.substack.com/p/computer-says-guilty-an-introduction)
 * [2023-09-29, 15:05:49](https://news.ycombinator.com/item?id=37705344) - [Simple Math Moves the Needle](https://www.quantamagazine.org/how-simple-math-moves-the-needle-20230929/)
 * [2023-09-29, 13:10:43](https://news.ycombinator.com/item?id=37703651) - [Publishing my first game using pico-8](https://boyter.org/posts/publishing-a-pico8-game/)
