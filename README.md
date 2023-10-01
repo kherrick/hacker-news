@@ -3,7 +3,7 @@
 * [2023-10-01, 04:03:13](https://news.ycombinator.com/item?id=37722415) - [America does not have a good food culture](https://walkingtheworld.substack.com/p/america-does-not-have-a-good-food)
 * [2023-10-01, 03:24:53](https://news.ycombinator.com/item?id=37722244) - ['Couple,' 'Few,' and 'Several': The (Mostly) Definitive Guide](https://www.merriam-webster.com/grammar/couple-few-several-use)
 * [2023-10-01, 02:34:15](https://news.ycombinator.com/item?id=37722013) - [India’s pickle people: Decades-old culinary heirlooms, nostalgia](https://www.aljazeera.com/features/2023/9/29/indias-pickle-people-decades-old-culinary-heirlooms-nostalgia)
-* [2023-10-01, 01:34:41](https://news.ycombinator.com/item?id=37721720) - [Nvidia's RTX 5000 Ada Now Available: AD102 with 32GB of GDDR6](https://www.tomshardware.com/news/nvidias-rtx-5000-ada-now-available-ad102-with-32gb-of-gddr6)
+* [2023-10-01, 01:13:50](https://news.ycombinator.com/item?id=37721584) - [LK-99 Research Continues, Paper Says Superconductivity Could Be Possible](https://www.tomshardware.com/news/research-on-lk-99-continues-paper-says-superconductivity-could-be-possible)
 * [2023-10-01, 00:27:20](https://news.ycombinator.com/item?id=37721320) - [Show HN: A map that tells you if a NYC cafe has WiFi, a restroom, and an outlet](https://www.octobrain.one/maps/908lqY3fV5C4v7nRvvd2)
 * [2023-09-30, 23:29:24](https://news.ycombinator.com/item?id=37720976) - [An easy-to-implement, arena-friendly hash map](https://nullprogram.com/blog/2023/09/30/)
 * [2023-09-30, 23:04:13](https://news.ycombinator.com/item?id=37720806) - [-Werror Is not your friend (2017)](https://embeddedartistry.com/blog/2017/05/22/werror-is-not-your-friend/)
