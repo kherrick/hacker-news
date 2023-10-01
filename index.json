@@ -11,22 +11,12 @@
   ],
   [
     [
-      "2023-10-01, 14:23:51",
-      "https://news.ycombinator.com/item?id=37726210"
-    ],
-    [
-      "Talent and Hard Work? Think Again",
-      "https://twitter.com/shanesnote/status/1708482578875912576?s=20"
-    ]
-  ],
-  [
-    [
       "2023-10-01, 13:31:36",
       "https://news.ycombinator.com/item?id=37725778"
     ],
     [
-      "InfluxDB CTO: Why We Moved from Go to Rust",
-      "https://old.reddit.com/r/rust/comments/16v13l5/influxdb_officially_made_the_switch_from_go_rust/"
+      "Influxdb made the switch from Go to Rust",
+      "https://reddit.com/r/rust/comments/16v13l5/influxdb_officially_made_the_switch_from_go_rust/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The presumption that computers are working correctly",
       "https://emptycity.substack.com/p/computer-says-guilty-an-introduction"
+    ]
+  ],
+  [
+    [
+      "2023-09-30, 08:05:12",
+      "https://news.ycombinator.com/item?id=37713530"
+    ],
+    [
+      "Flexbox Froggy",
+      "https://flexboxfroggy.com/"
     ]
   ],
   [
