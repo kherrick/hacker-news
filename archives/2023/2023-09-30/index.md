@@ -69,6 +69,7 @@
 * [2023-09-30, 11:12:22](https://news.ycombinator.com/item?id=37714343) - [GPT-4 increased BCG consultants’ performance by over 40%](https://d3.harvard.edu/navigating-the-jagged-technological-frontier/)
 * [2023-09-30, 10:38:35](https://news.ycombinator.com/item?id=37714186) - [White House warns of ‘unprecedented’ Serbian troop buildup on Kosovo border](https://www.theguardian.com/world/2023/sep/29/kosovo-serbian-troops-buildup-us-uk)
 * [2023-09-30, 09:52:36](https://news.ycombinator.com/item?id=37713993) - [Bedbug crisis sparks political row in Paris as insect ‘scourge’ continues](https://www.theguardian.com/world/2023/sep/29/bedbug-crisis-political-row-paris-insect-scourge-continues)
+* [2023-09-30, 09:34:57](https://news.ycombinator.com/item?id=37713923) - [The presumption that computers are working correctly](https://emptycity.substack.com/p/computer-says-guilty-an-introduction)
 * [2023-09-30, 09:20:02](https://news.ycombinator.com/item?id=37713861) - [The Small World of Simulating Other Worlds](https://undark.org/2023/09/20/inside-the-small-world-of-simulating-other-worlds/)
 * [2023-09-30, 09:13:28](https://news.ycombinator.com/item?id=37713835) - [The Ingenious Cardboard Bed](https://newatlas.com/good-thinking/ingenious-cardboard-bed/)
 * [2023-09-30, 09:10:11](https://news.ycombinator.com/item?id=37713821) - [Show HN: kproximate – A Kubernetes node autoscaler for Proxmox](https://github.com/lupinelab/kproximate)
