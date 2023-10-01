@@ -12,6 +12,7 @@
 * [2023-10-01, 18:54:09](https://news.ycombinator.com/item?id=37729203) - [Spatial: A high-level language for programming accelerators](https://spatial-lang.org)
 * [2023-10-01, 18:52:01](https://news.ycombinator.com/item?id=37729172) - [Varoufakis: Capitalism is dead, long live Technofeudalism](https://unherd.com/2023/09/capitalism-is-dead-long-live-technofeudalism/)
 * [2023-10-01, 18:51:24](https://news.ycombinator.com/item?id=37729160) - [Bing ChatGPT Image Jailbreak](https://twitter.com/literallydenis/status/1708283962399846459)
+* [2023-10-01, 18:50:23](https://news.ycombinator.com/item?id=37729143) - [H&R Block, Meta, and Google RICO Suit, Allegedly Schemed to Scrape Taxpayer Data](https://gizmodo.com/h-r-block-meta-and-google-slapped-with-rico-suit-1850883099)
 * [2023-10-01, 18:47:31](https://news.ycombinator.com/item?id=37729109) - [We aren’t losing all of our honeybees](https://geneticliteracyproject.org/2020/03/20/no-we-arent-losing-all-of-our-honeybees-and-neonic-seed-coatings-arent-driving-their-health-problems-heres-why/)
 * [2023-10-01, 18:37:09](https://news.ycombinator.com/item?id=37729001) - [4chan Turns 20](https://4chan.org/4channews.php)
 * [2023-10-01, 18:35:56](https://news.ycombinator.com/item?id=37728990) - [Teens inundated with phone prompts day and night, research finds](https://www.nbcnews.com/health/health-news/teens-inundated-phone-prompts-day-night-research-finds-rcna108044)
